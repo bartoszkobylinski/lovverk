@@ -40,30 +40,78 @@ eu_basis: []
 
 ### § 1-3. Definisjoner
 
-- *Student*Person som er tatt opp til studier ved Noroff University College og har aktiv studierett.
-- *Studierett*Rettigheter knyttet til det å være tatt opp som student til studieprogram. Studierett innebærer rett til deltagelse i all organisert undervisning, veiledning med videre ved det studiet eller emnet studenten er tatt opp til.
-- *Studieprogram*Et studium med 60 studiepoeng eller mer bestemt av en studieplan, som fører frem til vitnemål.
-- *Studieplan*En dokumentasjonspakke for et studieprogram som inneholder programbeskrivelse, eventuelle studieretningsbeskrivelser og komplett samling av emnebeskrivelser for studieprogrammet.
-- *Programbeskrivelse*En overordnet beskrivelse av oppbyggingen og gjennomføring av et studieprogram. Beskrivelsen skal inneholde bestemmelser vedrørende opptakskrav, studiepoeng, mål, læringsutbytte, faglig innhold og vurderingsordning i tråd med gjeldende kvalitetssystem for høyskolen.
-- *Emne*Den minste studiepoenggivende enhet som kan inngå i et studieprogram.
-- *Emnebeskrivelse*Skal inneholde bestemmelser om omfang, krav til forkunnskaper, faginnhold, læringsutbytte, undervisnings- og arbeidsformer, læremidler, vurderingsformer og eventuell obligatorisk aktivitet i tråd med gjeldende kvalitetssystem for høyskolen.
-- *Studiepoeng*Mål på studieomfang, der 60 studiepoeng tilsvarer ett års heltidsstudium.
-- *Pensum*Litteratur eller f.eks. nettsteder, filmer, forestillinger, forelesninger eller liknende som studentene benytter i læringssituasjonen og som skiller seg distinkt fra anbefalt litteratur, tilleggslitteratur og andre anbefalte læringsmidler.
-- *Obligatorisk aktivitet*Krav som må være godkjent for å gå opp til eksamen. Obligatorisk aktivitet vurderes som godkjent/ikke-godkjent.
-- *Utdanningsplan*Avtale om plan for gjennomføring av studiet inngått mellom Noroff University College og den enkelte student. Avtalen gjelder for ett semester av gangen. Sammen med rettigheter og plikter som fremkommer i forskrift, definerer utdanningsplanen studentens studieløp og progresjon.
-- *Undervisning*Enhver planlagt og/eller timeplanfestet læringsaktivitet i regi av høyskolen.
-- *Eksamen*En eksamen er en avsluttende oppgave innen et emne eller et avgrenset delemne. Resultatet av arbeidet (vurderingsgrunnlaget) sensureres, og resultatet av sensuren skal inngå på vitnemål eller karakterutskrift.
-- *Ordinær eksamen*Ordinær eksamen er første gang en student går opp til eksamen i et emne eller deler av emne.
-- *Utsatt eksamen*Utsatt eksamen er den vurdering som arrangeres for studenter som har hatt dokumentert gyldig fravær ved ordinær eksamen.
-- *Ny eksamen / kontinuasjonseksamen*Ny eksamen / kontinuasjonseksamen er den vurdering som arrangeres for studenter som ikke har bestått eller ikke har møtt / levert ordinær eksamen og for studenter som ønsker å forbedre det samlede vurderingsresultatet for et emne.
-- *Ekstraordinær eksamen*Ekstraordinær eksamen er den vurdering som arrangeres i emner som er tatt ut av emneporteføljen.
-- *Eksamensform*Den vurderingsformen en eksamen eller en deleksamen har.
-- *Deleksamen*En av flere vurderinger i et emne som hver gir en selvstendig karakter som skal inngå i beregningen av endelig karakter i emnet. Hver deleksamen leder frem til en vektet karakter, og vekten av hver deleksamen skal være angitt i emnebeskrivelsen. Kandidatens rettigheter til begrunnelse, klage med videre etter denne forskriften gjelder ved hver enkelt deleksamen.
-- *Løpende opptak*Kvalifiserte søkere tas opp i den rekkefølgen søknadene blir registrert igjennom søknadsperioden. Kan ikke benyttes ved studieprogram med begrenset antall studieplasser eller der opptaksprøve benyttes.
-- *Felles opptak*Alle søkere vurderes samtidig og i henhold til søknadsfrist. Skal benyttes i studieprogram med begrenset antall studieplasser og studieprogram med opptaksprøver.
-- *Fullføringsfrist*Dersom en student ikke har fullført sitt studieløp innen to år etter siste ordinære eksamen vil vedkommende miste sin studierett.
-- *Studieprogresjon*Studieprogresjon måles ved antall studiepoeng en student har avlagt i forhold til antall studiepoeng som er normert på angitt tidspunkt i studiet. Full studieprogresjon vil si at studenten tar emner tilsvarende 60 studiepoeng i henhold til sin utdanningsplan i løpet av studieåret.
-- *Studentens betalingsforpliktelser*Til enhver tid de betalingsforpliktelser som omhandles i studentens studiekontrakt. Dette utgjør normalt studieavgift og semesteravgift.
+- *Student*
+
+  Person som er tatt opp til studier ved Noroff University College og har aktiv studierett.
+- *Studierett*
+
+  Rettigheter knyttet til det å være tatt opp som student til studieprogram. Studierett innebærer rett til deltagelse i all organisert undervisning, veiledning med videre ved det studiet eller emnet studenten er tatt opp til.
+- *Studieprogram*
+
+  Et studium med 60 studiepoeng eller mer bestemt av en studieplan, som fører frem til vitnemål.
+- *Studieplan*
+
+  En dokumentasjonspakke for et studieprogram som inneholder programbeskrivelse, eventuelle studieretningsbeskrivelser og komplett samling av emnebeskrivelser for studieprogrammet.
+- *Programbeskrivelse*
+
+  En overordnet beskrivelse av oppbyggingen og gjennomføring av et studieprogram. Beskrivelsen skal inneholde bestemmelser vedrørende opptakskrav, studiepoeng, mål, læringsutbytte, faglig innhold og vurderingsordning i tråd med gjeldende kvalitetssystem for høyskolen.
+- *Emne*
+
+  Den minste studiepoenggivende enhet som kan inngå i et studieprogram.
+- *Emnebeskrivelse*
+
+  Skal inneholde bestemmelser om omfang, krav til forkunnskaper, faginnhold, læringsutbytte, undervisnings- og arbeidsformer, læremidler, vurderingsformer og eventuell obligatorisk aktivitet i tråd med gjeldende kvalitetssystem for høyskolen.
+- *Studiepoeng*
+
+  Mål på studieomfang, der 60 studiepoeng tilsvarer ett års heltidsstudium.
+- *Pensum*
+
+  Litteratur eller f.eks. nettsteder, filmer, forestillinger, forelesninger eller liknende som studentene benytter i læringssituasjonen og som skiller seg distinkt fra anbefalt litteratur, tilleggslitteratur og andre anbefalte læringsmidler.
+- *Obligatorisk aktivitet*
+
+  Krav som må være godkjent for å gå opp til eksamen. Obligatorisk aktivitet vurderes som godkjent/ikke-godkjent.
+- *Utdanningsplan*
+
+  Avtale om plan for gjennomføring av studiet inngått mellom Noroff University College og den enkelte student. Avtalen gjelder for ett semester av gangen. Sammen med rettigheter og plikter som fremkommer i forskrift, definerer utdanningsplanen studentens studieløp og progresjon.
+- *Undervisning*
+
+  Enhver planlagt og/eller timeplanfestet læringsaktivitet i regi av høyskolen.
+- *Eksamen*
+
+  En eksamen er en avsluttende oppgave innen et emne eller et avgrenset delemne. Resultatet av arbeidet (vurderingsgrunnlaget) sensureres, og resultatet av sensuren skal inngå på vitnemål eller karakterutskrift.
+- *Ordinær eksamen*
+
+  Ordinær eksamen er første gang en student går opp til eksamen i et emne eller deler av emne.
+- *Utsatt eksamen*
+
+  Utsatt eksamen er den vurdering som arrangeres for studenter som har hatt dokumentert gyldig fravær ved ordinær eksamen.
+- *Ny eksamen / kontinuasjonseksamen*
+
+  Ny eksamen / kontinuasjonseksamen er den vurdering som arrangeres for studenter som ikke har bestått eller ikke har møtt / levert ordinær eksamen og for studenter som ønsker å forbedre det samlede vurderingsresultatet for et emne.
+- *Ekstraordinær eksamen*
+
+  Ekstraordinær eksamen er den vurdering som arrangeres i emner som er tatt ut av emneporteføljen.
+- *Eksamensform*
+
+  Den vurderingsformen en eksamen eller en deleksamen har.
+- *Deleksamen*
+
+  En av flere vurderinger i et emne som hver gir en selvstendig karakter som skal inngå i beregningen av endelig karakter i emnet. Hver deleksamen leder frem til en vektet karakter, og vekten av hver deleksamen skal være angitt i emnebeskrivelsen. Kandidatens rettigheter til begrunnelse, klage med videre etter denne forskriften gjelder ved hver enkelt deleksamen.
+- *Løpende opptak*
+
+  Kvalifiserte søkere tas opp i den rekkefølgen søknadene blir registrert igjennom søknadsperioden. Kan ikke benyttes ved studieprogram med begrenset antall studieplasser eller der opptaksprøve benyttes.
+- *Felles opptak*
+
+  Alle søkere vurderes samtidig og i henhold til søknadsfrist. Skal benyttes i studieprogram med begrenset antall studieplasser og studieprogram med opptaksprøver.
+- *Fullføringsfrist*
+
+  Dersom en student ikke har fullført sitt studieløp innen to år etter siste ordinære eksamen vil vedkommende miste sin studierett.
+- *Studieprogresjon*
+
+  Studieprogresjon måles ved antall studiepoeng en student har avlagt i forhold til antall studiepoeng som er normert på angitt tidspunkt i studiet. Full studieprogresjon vil si at studenten tar emner tilsvarende 60 studiepoeng i henhold til sin utdanningsplan i løpet av studieåret.
+- *Studentens betalingsforpliktelser*
+
+  Til enhver tid de betalingsforpliktelser som omhandles i studentens studiekontrakt. Dette utgjør normalt studieavgift og semesteravgift.
 
 ### § 1-4. Delegering
 
@@ -127,7 +175,11 @@ Opptak til utdanninger ved Noroff University College anses som enkeltvedtak og k
 
 ### § 3-2. Studieplaner
 
-(1) En studieplan skal bestå av:beskrivelse for studieprogrammeteventuell beskrivelse av studieretningen innenfor studieprogrammetemnebeskrivelser for hvert emne tilhørende studieprogrammet.
+(1) En studieplan skal bestå av:
+
+- beskrivelse for studieprogrammet
+- eventuell beskrivelse av studieretningen innenfor studieprogrammet
+- emnebeskrivelser for hvert emne tilhørende studieprogrammet.
 
 (2) Studieplaner godkjennes i tråd med høyskolens retningslinjer.
 
@@ -149,7 +201,10 @@ Studieårets lengde er normalt 10 måneder fra medio august til medio juni. Rekt
 
 ### § 3-5. Faglig godkjenning
 
-(1) Studenter kan søke om faglig godkjenning for emner, eksamener eller obligatorisk aktivitet ut fra:beståtte emner og eksamener fra annen akkreditert høyskole eller universitettidligere ikke-akkreditert utdanning og erfaring (realkompetanse).
+(1) Studenter kan søke om faglig godkjenning for emner, eksamener eller obligatorisk aktivitet ut fra:
+
+1. beståtte emner og eksamener fra annen akkreditert høyskole eller universitet
+2. tidligere ikke-akkreditert utdanning og erfaring (realkompetanse).
 
 (2) Søknader om faglig godkjenning gjøres i tråd med nasjonal lov og forskrift samt høyskolens retningslinjer om faglig godkjenning.
 
@@ -167,9 +222,18 @@ Studieårets lengde er normalt 10 måneder fra medio august til medio juni. Rekt
 
 (1) Den som har akseptert tilbud om studieplass etter betingelser i studiekontrakten, har studierett i henhold til normert studietid for det aktuelle studieprogrammet kandidaten er tatt opp til.
 
-(2) Studieretten opphører når:studenten har overskredet fullføringsfristen på 2 år etter at studiet normalt skulle vært avsluttet; ellerhøyskolen mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført; ellerstudenten har oppnådd grad eller avlagt slutteksamen, og høyskolen ikke har forlenget studieretten.
+(2) Studieretten opphører når:
 
-(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet den er tatt opp til når studenten:ikke oppfyller forpliktelsene som kommer frem av studiekontrakten; ellerdersom studieprogresjonen ikke tilfredsstiller kravene på 75 %, jf. retningslinjer; ellerhar brukt opp sine forsøk til eksamen; ellerhar brutt bestemmelser i [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1), [§ 12-3](lov/2024-03-08-9/§12-3), [§ 12-4](lov/2024-03-08-9/§12-4), [§ 12-5](lov/2024-03-08-9/§12-5) og [§ 12-6](lov/2024-03-08-9/§12-6), om utestenging og bortvisning.
+1. studenten har overskredet fullføringsfristen på 2 år etter at studiet normalt skulle vært avsluttet; eller
+2. høyskolen mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført; eller
+3. studenten har oppnådd grad eller avlagt slutteksamen, og høyskolen ikke har forlenget studieretten.
+
+(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet den er tatt opp til når studenten:
+
+1. ikke oppfyller forpliktelsene som kommer frem av studiekontrakten; eller
+2. dersom studieprogresjonen ikke tilfredsstiller kravene på 75 %, jf. retningslinjer; eller
+3. har brukt opp sine forsøk til eksamen; eller
+4. har brutt bestemmelser i [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1), [§ 12-3](lov/2024-03-08-9/§12-3), [§ 12-4](lov/2024-03-08-9/§12-4), [§ 12-5](lov/2024-03-08-9/§12-5) og [§ 12-6](lov/2024-03-08-9/§12-6), om utestenging og bortvisning.
 
 (4) Studenter som ikke tilfredsstiller progresjonskravet på 75 % jf. retningslinjer vil ikke kunne fortsette på neste studieår. Studenten tilbys ett års opphold i ordinær utdanningsplan for å innhente manglende studiepoeng. Studenten vil ikke bli belastet med studieavgifter i denne perioden, men faktureres i henhold til gjeldende priser for å ta emnet på nytt / avlegge ny eksamen. Dersom progresjonskravet ikke er oppfylt etter oppholdet fra ordinær utdanningsplan vil studenten miste studieretten.
 
@@ -181,7 +245,10 @@ Studieårets lengde er normalt 10 måneder fra medio august til medio juni. Rekt
 
 (1) Studenter som tas opp til et studieprogram ved Noroff University College, skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og høyskolen.
 
-(2) Utdanningsplanen skal være todelt:en innledende felles del som skal angi partenes viktigste rettigheter og plikter.en del som beskriver konkrete emner i kommende semester.
+(2) Utdanningsplanen skal være todelt:
+
+1. en innledende felles del som skal angi partenes viktigste rettigheter og plikter.
+2. en del som beskriver konkrete emner i kommende semester.
 
 (3) Dersom utdanningsplanen skal ha vesentlige avvik fra studieplanen, skal den som har det faglige ansvaret for studiet uttale seg før planen blir ferdigstilt.
 
@@ -301,7 +368,14 @@ Studieårets lengde er normalt 10 måneder fra medio august til medio juni. Rekt
 
 ### § 5-1. Vurdering og karakterskala
 
-(1) Ved eksamen benyttes normalt vurderingsuttrykket A-E som uttrykk for «bestått», mens F betyr «ikke bestått». Bokstavkarakterene gis uten tillegg av pluss eller minus. Karaktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse*A Fremragende:* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.*B Meget god:* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet*C God:* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.*D Nokså god:* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.*E Tilstrekkelig:* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.*F Ikke bestått:* Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(1) Ved eksamen benyttes normalt vurderingsuttrykket A-E som uttrykk for «bestått», mens F betyr «ikke bestått». Bokstavkarakterene gis uten tillegg av pluss eller minus. Karaktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse
+
+- *A Fremragende:* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.
+- *B Meget god:* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet
+- *C God:* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.
+- *D Nokså god:* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.
+- *E Tilstrekkelig:* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.
+- *F Ikke bestått:* Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
 
 (2) Vurderingsuttrykket kan også være «bestått» eller «ikke bestått». Dette er en separat vurderingsskala og skal ikke kobles til et trinn i vurderingsuttrykket A-F. For å oppnå «bestått» skal kandidaten ha oppnådd kravene til læringsutbytte og viser nødvendig kunnskap, ferdighet og kompetanse. Mer detaljerte vurderingskriterier skal fremkomme i sensorveiledningen.
 
@@ -419,7 +493,12 @@ En klage må være skriftlig og inneholde informasjon om vedtaket det klages på
 
 (2) Ethvert enkeltvedtak fattet av Noroff University College kan påklages til høyskolens nemnd for studentsaker. Klage på karakterfastsetting skal ikke behandles av klageinstansen.
 
-(3) Ved vedtak som fattes av nemnd for studentsaker som førsteinstans er klageinstansen nasjonal felles klagenemnd. Nemnd for studentsaker behandler og treffer vedtak i henhold til [kapittel 12](lov/2024-03-08-9/kap12) i [lov om universiteter og høyskoler](lov/2024-03-08-9) og fatter blant annet vedtak i disse sakstyper som første instans:Saker om inndragning av falske vitnemål eller andre falske dokumenter eller dokumenter utstedt fra falske institusjoner, og vedtak om karantenetid, jf. [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1).Saker om annullering av eksamen eller prøve, jf. [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4)Saker om utestenging og bortvisning, jf. [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1), [§ 12-3](lov/2024-03-08-9/§12-3), [§ 12-4](lov/2024-03-08-9/§12-4), [§ 12-5](lov/2024-03-08-9/§12-5)Saker om salærnedsettelse, jf. [lov om universiteter og høyskoler § 12-9](lov/2024-03-08-9/§12-9).
+(3) Ved vedtak som fattes av nemnd for studentsaker som førsteinstans er klageinstansen nasjonal felles klagenemnd. Nemnd for studentsaker behandler og treffer vedtak i henhold til [kapittel 12](lov/2024-03-08-9/kap12) i [lov om universiteter og høyskoler](lov/2024-03-08-9) og fatter blant annet vedtak i disse sakstyper som første instans:
+
+1. Saker om inndragning av falske vitnemål eller andre falske dokumenter eller dokumenter utstedt fra falske institusjoner, og vedtak om karantenetid, jf. [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1).
+2. Saker om annullering av eksamen eller prøve, jf. [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4)
+3. Saker om utestenging og bortvisning, jf. [lov om universiteter og høyskoler § 12-1](lov/2024-03-08-9/§12-1), [§ 12-3](lov/2024-03-08-9/§12-3), [§ 12-4](lov/2024-03-08-9/§12-4), [§ 12-5](lov/2024-03-08-9/§12-5)
+4. Saker om salærnedsettelse, jf. [lov om universiteter og høyskoler § 12-9](lov/2024-03-08-9/§12-9).
 
 ## Kapittel 8. Ikrafttredelse
 

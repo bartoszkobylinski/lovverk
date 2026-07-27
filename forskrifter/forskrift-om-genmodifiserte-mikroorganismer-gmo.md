@@ -15,7 +15,7 @@ xml_hash: "3b5fde6591c45c2c16e124cf134ce15e819e592690c81e53a14b4a21fcb80d25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,17 @@ Forskriften gjelder all innesluttet bruk av genmodifiserte mikroorganismer med m
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*mikroorganisme*, enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale, herunder også virus, viroider, dyre- og planteceller i kultur,*genmodifisert mikroorganisme (GMM)*, en mikroorganisme hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi,*innesluttet bruk*, enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte, i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet,*uhell*, enhver hendelse som innebærer utilsiktet utslipp av GMM ved innesluttet bruk, og som kan medføre umiddelbar eller påfølgende fare for menneskers og/eller dyrs helse og/eller miljøet,*bruker*, enhver fysisk eller juridisk person som er ansvarlig for innesluttet bruk av GMM,*melding/søknad*, innsending av de opplysninger som kreves til vedkommende myndighet,*genteknologi*, teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus,*celleteknologi*, teknikker for fremstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler,*kombinasjonsbruk*, innesluttet bruk av genmodifiserte mikrorganismer i kombinasjon med dyr og planter.
+I denne forskrift menes med:
+
+1. *mikroorganisme*, enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale, herunder også virus, viroider, dyre- og planteceller i kultur,
+2. *genmodifisert mikroorganisme (GMM)*, en mikroorganisme hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi,
+3. *innesluttet bruk*, enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte, i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet,
+4. *uhell*, enhver hendelse som innebærer utilsiktet utslipp av GMM ved innesluttet bruk, og som kan medføre umiddelbar eller påfølgende fare for menneskers og/eller dyrs helse og/eller miljøet,
+5. *bruker*, enhver fysisk eller juridisk person som er ansvarlig for innesluttet bruk av GMM,
+6. *melding/søknad*, innsending av de opplysninger som kreves til vedkommende myndighet,
+7. *genteknologi*, teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus,
+8. *celleteknologi*, teknikker for fremstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler,
+9. *kombinasjonsbruk*, innesluttet bruk av genmodifiserte mikrorganismer i kombinasjon med dyr og planter.
 
 ### § 3. Godkjenningsmyndighet
 
@@ -99,7 +109,10 @@ Ved virksomhet med innesluttet bruk av GMM i klasse 1 og 2 som ikke krever godkj
 
 ### § 11. Virksomhet som krever godkjenning
 
-Følgende virksomhet krever skriftlig godkjenning før den kan igangsettes:overføring av humant genmateriale til mikroorganismer, som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjoner,all innesluttet bruk av genmodifiserte mikroorganismer i klasse 3 og 4.
+Følgende virksomhet krever skriftlig godkjenning før den kan igangsettes:
+
+1. overføring av humant genmateriale til mikroorganismer, som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjoner,
+2. all innesluttet bruk av genmodifiserte mikroorganismer i klasse 3 og 4.
 
 Forhåndsgodkjenning er nødvendig hver gang ny slik virksomhet skal gjennomføres.
 
@@ -111,7 +124,12 @@ Dersom laboratorium/anlegg tidligere har fått godkjenning for det aktuelle inne
 
 ### § 12. Melding og godkjenning av innesluttet bruk
 
-Når godkjenningsmyndigheten har mottatt en melding eller søknad skal den undersøke ommeldingene/søknadene er i samsvar med kravene i forskriften,om de gitte opplysningene er nøyaktige og fullstendige,forhåndsvurderingen og klassen for innesluttet bruk er riktige,inneslutningstiltakene, andre vernetiltak og avfalls- og beredskapstiltakene er tilstrekkelige.
+Når godkjenningsmyndigheten har mottatt en melding eller søknad skal den undersøke om
+
+1. meldingene/søknadene er i samsvar med kravene i forskriften,
+2. om de gitte opplysningene er nøyaktige og fullstendige,
+3. forhåndsvurderingen og klassen for innesluttet bruk er riktige,
+4. inneslutningstiltakene, andre vernetiltak og avfalls- og beredskapstiltakene er tilstrekkelige.
 
 Om nødvendig kan vedkommende myndighet anmode brukeren om å gi tilleggsopplysninger eller om å endre forholdene omkring den planlagte innesluttede bruken eller endre klassen som den innesluttede bruken er plassert i. I så fall kan vedkommende myndighet kreve at den innesluttede bruken ikke påbegynnes dersom den er planlagt, eller innstilles midlertidig eller avsluttes dersom den er i gang, til vedkommende myndighet har gitt sitt samtykke på grunnlag av de mottatte tilleggsopplysninger eller endringer av forholdene omkring den innesluttede bruken.
 
@@ -153,7 +171,10 @@ Effekten av behandlingen i annet og tredje ledd skal dokumenteres.
 
 ### § 16. Kontroll
 
-Ansvarlig for laboratoriet/anlegget skal føre kontroll med den innesluttede bruken. Vurderingen i [§ 5](forskrift/2001-12-21-1600/§5) og inneslutningstiltak og andre vernetiltak som anvendes herunder oppbevaring og håndtering av avfall, skal revideres jevnlig, og straks dersom:inneslutningstiltakene som anvendes, ikke lenger er tilstrekkelige eller klassen som den innesluttede bruken er plassert i, ikke lenger er den riktige, ellerdet er grunn til å anta at vurderingen ikke lenger er tilfredsstillende, i lys av ny vitenskapelig eller teknisk kunnskap.
+Ansvarlig for laboratoriet/anlegget skal føre kontroll med den innesluttede bruken. Vurderingen i [§ 5](forskrift/2001-12-21-1600/§5) og inneslutningstiltak og andre vernetiltak som anvendes herunder oppbevaring og håndtering av avfall, skal revideres jevnlig, og straks dersom:
+
+1. inneslutningstiltakene som anvendes, ikke lenger er tilstrekkelige eller klassen som den innesluttede bruken er plassert i, ikke lenger er den riktige, eller
+2. det er grunn til å anta at vurderingen ikke lenger er tilfredsstillende, i lys av ny vitenskapelig eller teknisk kunnskap.
 
 ### § 17. Tilsynsmyndighet
 
@@ -161,7 +182,10 @@ Departementet eller den departementet bemyndiger skal føre tilsyn med at bestem
 
 ### § 18. Beredskapsplan
 
-Før innesluttet bruk påbegynnes, skal tilsynsmyndigheten påseat det utarbeides en beredskapsplan for innesluttet bruk, i tilfelle svikt i inneslutningstiltakene umiddelbart eller senere kan føre til alvorlig fare for mennesker og dyr utenfor anlegget og/eller for miljøet, unntatt dersom en slik beredskapsplan er utarbeidet i henhold til annet relevant regelverk,at organer og myndigheter som kan bli berørt av uhell, på en passende måte og uoppfordret mottar opplysninger om slike beredskapsplaner, herunder de aktuelle sikkerhetstiltakene som skal iverksettes. Opplysningene skal ajourføres med regelmessige mellomrom. De skal også gjøres tilgjengelige for offentligheten.
+Før innesluttet bruk påbegynnes, skal tilsynsmyndigheten påse
+
+1. at det utarbeides en beredskapsplan for innesluttet bruk, i tilfelle svikt i inneslutningstiltakene umiddelbart eller senere kan føre til alvorlig fare for mennesker og dyr utenfor anlegget og/eller for miljøet, unntatt dersom en slik beredskapsplan er utarbeidet i henhold til annet relevant regelverk,
+2. at organer og myndigheter som kan bli berørt av uhell, på en passende måte og uoppfordret mottar opplysninger om slike beredskapsplaner, herunder de aktuelle sikkerhetstiltakene som skal iverksettes. Opplysningene skal ajourføres med regelmessige mellomrom. De skal også gjøres tilgjengelige for offentligheten.
 
 Ved utarbeidelsen av beredskapsplan etter bokstav a skal tilsynsmyndigheten rådføre seg med tilsynsmyndighetene i andre stater som kan bli berørt i tilfelle uhell, om forslag til gjennomføring av beredskapsplanen.
 
@@ -171,9 +195,18 @@ Bruker plikter å gi opplysninger om beredskapsplanen. Krav til slike opplysning
 
 ### § 19. Uhell
 
-I tilfelle uhell skal brukeren øyeblikkelig underrette tilsynsmyndigheten. Følgende opplysninger skal oppgis:de nærmere omstendigheter ved uhellet,identiteten og mengden av GMM som er sluppet ut,alle opplysninger som er nødvendige for å vurdere uhellets virkninger for helse og miljø,hvilke tiltak som er truffet.
+I tilfelle uhell skal brukeren øyeblikkelig underrette tilsynsmyndigheten. Følgende opplysninger skal oppgis:
 
-Når det gis slike opplysninger skal myndighetenesikre at alle nødvendige tiltak blir truffet og omgående varsle myndighetene i alle stater som kan bli berørt av uhellet,om mulig samle inn de opplysninger som er nødvendige for en fullstendig analyse av uhellet, og eventuelt anbefale tiltak for å unngå lignende uhell i fremtiden og for å begrense virkningene av dem,snarest mulig underrette ESA og i den forbindelse gi opplysninger om omstendighetene ved uhellet, identiteten til og mengden av GMM som er sluppet ut, hvilke beredskapstiltak som er truffet, og virkningen av dem, samt gi en analyse av uhellet med anbefalinger for å begrense virkningene og for å unngå lignende uhell i fremtiden.
+- de nærmere omstendigheter ved uhellet,
+- identiteten og mengden av GMM som er sluppet ut,
+- alle opplysninger som er nødvendige for å vurdere uhellets virkninger for helse og miljø,
+- hvilke tiltak som er truffet.
+
+Når det gis slike opplysninger skal myndighetene
+
+- sikre at alle nødvendige tiltak blir truffet og omgående varsle myndighetene i alle stater som kan bli berørt av uhellet,
+- om mulig samle inn de opplysninger som er nødvendige for en fullstendig analyse av uhellet, og eventuelt anbefale tiltak for å unngå lignende uhell i fremtiden og for å begrense virkningene av dem,
+- snarest mulig underrette ESA og i den forbindelse gi opplysninger om omstendighetene ved uhellet, identiteten til og mengden av GMM som er sluppet ut, hvilke beredskapstiltak som er truffet, og virkningen av dem, samt gi en analyse av uhellet med anbefalinger for å begrense virkningene og for å unngå lignende uhell i fremtiden.
 
 ## Kap. 6. Opplysningsplikt, saksbehandlingsregler mv.
 
@@ -195,7 +228,10 @@ Ved beregning av fristene i [§ 7](forskrift/2001-12-21-1600/§7) og [§ 11](for
 
 ### § 23. Ikrafttredelse
 
-Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves:[Forskrift av 11. februar 1994 nr. 127](forskrift/1994-02-11-127) om sikkerhetstiltak, klassifisering og protokollføring ved laboratorier og anlegg for innesluttet bruk.[Forskrift av 11. februar 1994 nr. 126](forskrift/1994-02-11-126) om meldeplikt eller godkjenning ved innesluttet bruk av genmodifiserte organismer.
+Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves:
+
+- [Forskrift av 11. februar 1994 nr. 127](forskrift/1994-02-11-127) om sikkerhetstiltak, klassifisering og protokollføring ved laboratorier og anlegg for innesluttet bruk.
+- [Forskrift av 11. februar 1994 nr. 126](forskrift/1994-02-11-126) om meldeplikt eller godkjenning ved innesluttet bruk av genmodifiserte organismer.
 
 ## Vedlegg I A. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte mikroorganismer i laboratorieskala
 
@@ -865,7 +901,20 @@ Hvis ikke, skal kopi av tidligere godkjenning av laboratorier og anlegg vedlegge
 - særlige farer som skyldes anleggsstedet,
 - anvendte forebyggende tiltak, f.eks. sikkerhetsutstyr, alarmsystemer og inneslutningsmetoder,
 - prosedyrer og planer for kontroll av at inneslutningstiltakene fortsatt er effektive,
-- en beskrivelse av opplysningene som gis til arbeidstakerne.Dato:Underskrift:Vedlegg:Kopi av tidligere godkjenning av laboratorier og anlegg [ ]Ny søknad om godkjenning av laboratorier og anlegg [ ]Ved virksomhet i klasse 1 og 2, sammendrag av forhåndsvurderingen av virksomheten etter vedlegg III [ ]Ved virksomhet i klasse 3 og 4, kopi av hele forhåndsvurderingen av virksomheten etter vedlegg III [ ]Samfunnsmessige og etiske vurderinger etter § 11 bokstav a jf. også § 13 i forskriften [ ]Kopi av melding til Direktoratet for arbeidstilsynet om bruk av biologiske faktorer på arbeidsplassen i henhold til § 16 i forskrift om vern av arbeidstakere mot farer ved arbeid med biologiske faktorer [ ]
+- en beskrivelse av opplysningene som gis til arbeidstakerne.
+
+  |  |  |
+  | --- | --- |
+  | Dato: | Underskrift: |
+
+  |  |  |
+  | --- | --- |
+  | Vedlegg: | Kopi av tidligere godkjenning av laboratorier og anlegg [ ] |
+  |  | Ny søknad om godkjenning av laboratorier og anlegg [ ] |
+  |  | Ved virksomhet i klasse 1 og 2, sammendrag av forhåndsvurderingen av virksomheten etter vedlegg III [ ] |
+  |  | Ved virksomhet i klasse 3 og 4, kopi av hele forhåndsvurderingen av virksomheten etter vedlegg III [ ] |
+  |  | Samfunnsmessige og etiske vurderinger etter § 11 bokstav a jf. også § 13 i forskriften [ ] |
+  |  | Kopi av melding til Direktoratet for arbeidstilsynet om bruk av biologiske faktorer på arbeidsplassen i henhold til § 16 i forskrift om vern av arbeidstakere mot farer ved arbeid med biologiske faktorer [ ] |
 
 ## Vedlegg II B. Melding/søknad om godkjenning av innesluttet bruk av dyr i kombinasjon med genmodifiserte mikroorganismer
 
@@ -924,7 +973,26 @@ Hvis ikke skal kopi av tidligere godkjenning av laboratorier og anlegg vedlegges
 
 *14. Forhåndsvurdering ved kombinasjonsbruk*
 
-Ved forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5) skal følgende punkter spesifiseres særskilt i sammendrag/kopi av forhåndsvurderingen:Skadelige egenskaper ved den genmodifiserte mikroorganismens egenskaperMulighet for utskillelse av genmodifiserte mikroorganismer fra dyreneOm materialet fra dyrene kan innebære risiko for spredning av genmodifiserte mikroorganismerMulighet for horisontal genoverføring, f.eks. via virale vektorer og arthropoderRisiko for mennesker, dyr og planter ved spredning av genmodifiserte mikroorganismer ved utilsiktet utslipp.Dato:Underskrift:Vedlegg:Kopi av tidligere godkjenning av laboratorier og anlegg [ ]Ny søknad om godkjenning av laboratorier og anlegg [ ]Ved virksomhet i klasse 1 og 2, sammendrag av forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ]Ved virksomhet i klasse 3 og 4, kopi av hele forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ]Samfunnsmessige og etiske vurderinger etter § 11 a jf. også § 13 i forskriften [ ]Kopi av melding til Direktoratet for arbeidstilsynet om bruk av biologiske faktorer på arbeidsplassen i henhold til § 16 i forskrift om vern av arbeidstakere mot farer ved arbeid med biologiske faktorer [ ]
+Ved forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5) skal følgende punkter spesifiseres særskilt i sammendrag/kopi av forhåndsvurderingen:
+
+- Skadelige egenskaper ved den genmodifiserte mikroorganismens egenskaper
+- Mulighet for utskillelse av genmodifiserte mikroorganismer fra dyrene
+- Om materialet fra dyrene kan innebære risiko for spredning av genmodifiserte mikroorganismer
+- Mulighet for horisontal genoverføring, f.eks. via virale vektorer og arthropoder
+- Risiko for mennesker, dyr og planter ved spredning av genmodifiserte mikroorganismer ved utilsiktet utslipp.
+
+  |  |  |
+  | --- | --- |
+  | Dato: | Underskrift: |
+
+  |  |  |
+  | --- | --- |
+  | Vedlegg: | Kopi av tidligere godkjenning av laboratorier og anlegg [ ] |
+  |  | Ny søknad om godkjenning av laboratorier og anlegg [ ] |
+  |  | Ved virksomhet i klasse 1 og 2, sammendrag av forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ] |
+  |  | Ved virksomhet i klasse 3 og 4, kopi av hele forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ] |
+  |  | Samfunnsmessige og etiske vurderinger etter § 11 a jf. også § 13 i forskriften [ ] |
+  |  | Kopi av melding til Direktoratet for arbeidstilsynet om bruk av biologiske faktorer på arbeidsplassen i henhold til § 16 i forskrift om vern av arbeidstakere mot farer ved arbeid med biologiske faktorer [ ] |
 
 ## Vedlegg III. Prinsipper som skal følges ved vurderingen nevnt i § 5
 
@@ -932,16 +1000,45 @@ Dette vedlegg gir en generell beskrivelse av de elementer som det skal tas hensy
 
 *A. Vurderingselementer*
 
-1. Følgende elementer bør betraktes som potensielt skadelige virkninger:sykdom hos mennesker, herunder allergifremkallende eller toksiske virkninger,sykdom eller andre negative effekter på dyr, planter og andre levende organismer,skadelige virkninger som skyldes at det er umulig å behandle en sykdom eller gi effektiv profylakse,skadelige virkninger som skyldes etablering eller spredning i miljøet,skadelige virkninger som skyldes naturlig overføring av innsatt genetisk materiale til andre organismer.
-2. Vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5) bør være basert på følgende elementer:identifisering av alle potensielt skadelige virkninger, særlig dem som er forbundet med:mottakermikroorganismen,det genetiske materialet som er satt inn (som stammer fra donororganismen),vektoren,donormikroorganismen (så lenge donormikroorganismen brukes i virksomheten),den GMM som fremkommer,karakteristikkene ved virksomheten,omfanget av de potensielt skadelige virkningene,sannsynligheten for at de potensielt skadelige virkningene oppstår.
+1. Følgende elementer bør betraktes som potensielt skadelige virkninger:
+
+   - sykdom hos mennesker, herunder allergifremkallende eller toksiske virkninger,
+   - sykdom eller andre negative effekter på dyr, planter og andre levende organismer,
+   - skadelige virkninger som skyldes at det er umulig å behandle en sykdom eller gi effektiv profylakse,
+   - skadelige virkninger som skyldes etablering eller spredning i miljøet,
+   - skadelige virkninger som skyldes naturlig overføring av innsatt genetisk materiale til andre organismer.
+2. Vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5) bør være basert på følgende elementer:
+
+   1. identifisering av alle potensielt skadelige virkninger, særlig dem som er forbundet med:
+
+      1. mottakermikroorganismen,
+      2. det genetiske materialet som er satt inn (som stammer fra donororganismen),
+      3. vektoren,
+      4. donormikroorganismen (så lenge donormikroorganismen brukes i virksomheten),
+      5. den GMM som fremkommer,
+   2. karakteristikkene ved virksomheten,
+   3. omfanget av de potensielt skadelige virkningene,
+   4. sannsynligheten for at de potensielt skadelige virkningene oppstår.
 
 *B. Fremgangsmåte*
 
 1. Det første trinnet i vurderingsprosessen bør være å kartlegge mottaker- og eventuelt donormikroorganismens skadelige egenskaper samt skadelige egenskaper forbundet med vektoren eller det innsatte materialet, herunder enhver endring i mottakerens eksisterende egenskaper.
-2. I alminnelighet er det bare GMM med følgende egenskaper som vil bli betraktet som hensiktsmessige å ta med i klasse 1 som definert i [§ 6](forskrift/2001-12-21-1600/§6):mottaker- eller foreldremikroorganismen vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter,1vektoren og geninnlegget er av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter,1 eller som sannsynligvis vil ha skadelige virkninger for miljøet,GMM vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter1 og vil sannsynligvis ikke ha skadelige virkninger for miljøet.
-3. For å innhente opplysningene som er nødvendige for å iverksette denne prosessen, kan brukeren først ta hensyn til aktuelt regelverk som EUs direktiv [90/679/EØF](eu/31990l0679). Internasjonale eller nasjonale klassifiseringsordninger (f.eks. WHO, NIH osv.) og den revisjon de har gjennomgått som følge av ny vitenskapelig kunnskap og teknisk utvikling, kan også tas i betraktning.Disse ordningene gjelder naturlige mikroorganismer, og er som sådanne vanligvis basert på mikroorganismers evne til å forårsake sykdom hos mennesker, dyr eller planter og på omfanget og overførbarheten av den sykdom som sannsynligvis vil bli forårsaket. Direktiv [90/679/EØF](eu/31990l0679) klassifiserer mikroorganismer, som biologiske agenser, i fire risikoklasser på grunnlag av potensielle virkninger på et friskt, voksent menneske. Disse risikoklassene kan brukes som en veiledning ved oppdelingen av virksomheten med innesluttet bruk i de fire risikoklassene nevnt i [§ 6](forskrift/2001-12-21-1600/§6). Brukeren kan også ta hensyn til klassifiseringsordninger for plante- og dyresykdomsfremkallende stoffer. Ovennevnte klassifiseringsordninger gir bare en foreløpig angivelse av risikoklassen for virksomheten og det tilsvarende sett av inneslutnings- og kontrolltiltak.
+2. I alminnelighet er det bare GMM med følgende egenskaper som vil bli betraktet som hensiktsmessige å ta med i klasse 1 som definert i [§ 6](forskrift/2001-12-21-1600/§6):
+
+   1. mottaker- eller foreldremikroorganismen vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter,1
+   2. vektoren og geninnlegget er av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter,1 eller som sannsynligvis vil ha skadelige virkninger for miljøet,
+   3. GMM vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter1 og vil sannsynligvis ikke ha skadelige virkninger for miljøet.
+3. For å innhente opplysningene som er nødvendige for å iverksette denne prosessen, kan brukeren først ta hensyn til aktuelt regelverk som EUs direktiv [90/679/EØF](eu/31990l0679). Internasjonale eller nasjonale klassifiseringsordninger (f.eks. WHO, NIH osv.) og den revisjon de har gjennomgått som følge av ny vitenskapelig kunnskap og teknisk utvikling, kan også tas i betraktning.
+
+   Disse ordningene gjelder naturlige mikroorganismer, og er som sådanne vanligvis basert på mikroorganismers evne til å forårsake sykdom hos mennesker, dyr eller planter og på omfanget og overførbarheten av den sykdom som sannsynligvis vil bli forårsaket. Direktiv [90/679/EØF](eu/31990l0679) klassifiserer mikroorganismer, som biologiske agenser, i fire risikoklasser på grunnlag av potensielle virkninger på et friskt, voksent menneske. Disse risikoklassene kan brukes som en veiledning ved oppdelingen av virksomheten med innesluttet bruk i de fire risikoklassene nevnt i [§ 6](forskrift/2001-12-21-1600/§6). Brukeren kan også ta hensyn til klassifiseringsordninger for plante- og dyresykdomsfremkallende stoffer. Ovennevnte klassifiseringsordninger gir bare en foreløpig angivelse av risikoklassen for virksomheten og det tilsvarende sett av inneslutnings- og kontrolltiltak.
 4. Prosessen med kartlegging av fare som gjennomføres i samsvar med nr. 3-5, bør føre til kartlegging av risikonivået i forbindelse med GMM.
-5. Inneslutningstiltak og andre vernetiltak bør deretter velges ut fra risikonivået i forbindelse med GMM, og under hensyn til:egenskapene ved det miljø som vil kunne bli eksponert (f.eks. om det i miljøet som vil kunne bli eksponert, finnes kjente biota som kan bli negativt påvirket av mikroorganismene som brukes i virksomheten med innesluttet bruk),karakteristikkene ved virksomheten (f.eks. dens omfang, art),enhver ikke-standardisert operasjon (f.eks. inokulering av GMM i dyr, utstyr som sannsynligvis kan avgi aerosoler).Avhengig av hensynet til punktene i – iii for en bestemt virksomhet, kan risikonivået i forbindelse med GMM kartlagt etter punkt 6, øke, minske eller forbli uendret.
+5. Inneslutningstiltak og andre vernetiltak bør deretter velges ut fra risikonivået i forbindelse med GMM, og under hensyn til:
+
+   1. egenskapene ved det miljø som vil kunne bli eksponert (f.eks. om det i miljøet som vil kunne bli eksponert, finnes kjente biota som kan bli negativt påvirket av mikroorganismene som brukes i virksomheten med innesluttet bruk),
+   2. karakteristikkene ved virksomheten (f.eks. dens omfang, art),
+   3. enhver ikke-standardisert operasjon (f.eks. inokulering av GMM i dyr, utstyr som sannsynligvis kan avgi aerosoler).
+
+   Avhengig av hensynet til punktene i – iii for en bestemt virksomhet, kan risikonivået i forbindelse med GMM kartlagt etter punkt 6, øke, minske eller forbli uendret.
 6. Når analysen er utført som beskrevet ovenfor, vil dette til slutt føre til at virksomheten plasseres i en av klassene beskrevet i [§ 6](forskrift/2001-12-21-1600/§6).
 7. Den endelige klassifiseringen av den innesluttede bruken bør bekreftes ved en ny gjennomgåelse av den fullførte vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5).
 
@@ -1014,11 +1111,32 @@ Risikovurderingen omfatter identifisering av alle potensielt skadelige egenskape
 
 3.2.5.1.
 
-Helsevurderingerforventede giftige eller allergifremkallende virkninger av GMM-en og/eller dens stoffskifteprodukter,sammenligning av den modifiserte mikroorganismens og mottaker- eller (eventuelt) foreldreorganismens sykdomsfremkallende evne,forventet koloniseringsevne,dersom mikroorganismen er sykdomsfremkallende for immunkompetente mennesker:fremkalte sykdommer og overføringsmekanismer, herunder spredningsmåte og virulens,infeksiøs dose,mulig endring av smittevei eller vevspesifisitet,mulighet for overlevelse utenfor menneskelig vert,biologisk stabilitet,antibiotikaresistensmønster,allergifremkallende evne,genotoksisitet,tilgang til egnet sykdomsbehandling og forebyggende tiltak.
+Helsevurderinger
+
+- forventede giftige eller allergifremkallende virkninger av GMM-en og/eller dens stoffskifteprodukter,
+- sammenligning av den modifiserte mikroorganismens og mottaker- eller (eventuelt) foreldreorganismens sykdomsfremkallende evne,
+- forventet koloniseringsevne,
+- dersom mikroorganismen er sykdomsfremkallende for immunkompetente mennesker:
+
+  - fremkalte sykdommer og overføringsmekanismer, herunder spredningsmåte og virulens,
+  - infeksiøs dose,
+  - mulig endring av smittevei eller vevspesifisitet,
+  - mulighet for overlevelse utenfor menneskelig vert,
+  - biologisk stabilitet,
+  - antibiotikaresistensmønster,
+  - allergifremkallende evne,
+  - genotoksisitet,
+- tilgang til egnet sykdomsbehandling og forebyggende tiltak.
 
 3.2.5.2.
 
-Miljøvurderingerøkosystemer der mikroorganismen utilsiktet kan slippes ut fra innesluttet bruk,den modifiserte mikroorganismens forventede overlevelsesevne, formering og spredning i de identifiserte økosystemene,forventet resultat av samspill mellom den modifiserte mikroorganismen og organismer eller mikroorganismer som kan bli eksponert ved utilsiktet utslipp i miljøet,kjente eller antatte virkninger på planter og dyr, f.eks. sykdomsfremkallende evne, giftighet, allergifremkallende evne, evne til å fungere som vektor for en sykdomsfremkallende organisme, endrede antibiotikaresistensmønstre, endret tropisme eller vertsspesifisitet, kolonisering,kjent eller antatt deltaking i bio-geokjemiske prosesser.
+Miljøvurderinger
+
+- økosystemer der mikroorganismen utilsiktet kan slippes ut fra innesluttet bruk,
+- den modifiserte mikroorganismens forventede overlevelsesevne, formering og spredning i de identifiserte økosystemene,
+- forventet resultat av samspill mellom den modifiserte mikroorganismen og organismer eller mikroorganismer som kan bli eksponert ved utilsiktet utslipp i miljøet,
+- kjente eller antatte virkninger på planter og dyr, f.eks. sykdomsfremkallende evne, giftighet, allergifremkallende evne, evne til å fungere som vektor for en sykdomsfremkallende organisme, endrede antibiotikaresistensmønstre, endret tropisme eller vertsspesifisitet, kolonisering,
+- kjent eller antatt deltaking i bio-geokjemiske prosesser.
 
 3.3.*Foreløpig klassifisering av GMM-en*
 
@@ -1086,7 +1204,11 @@ I tillegg til direkte skadelige virkninger av en GMM, skal det tas hensyn til in
 
 4.1.*Fastsettelse av endelig klassifisering og inneslutningstiltak*
 
-Når alle potensielt skadelige virkninger er gjennomgått og alvorlighetsgraden og sannsynligheten for at de inntreffer er fastslått, samtidig som det er tatt hensyn til de inneslutnings- og kontrolltiltak som foreskrives gjennom den foreløpige klassifiseringen av mottakeren, kan den endelige klassifiseringen og de endelige inneslutningstiltakene for GMM-en fastsettes. Ved vurderingen av endelig klassifisering og endelige inneslutningstiltak skal den foreløpige klassifiseringen vurderes på nytt for å se om den var riktig ut fra den virksomhet som skal utføres og arten av de planlagte operasjonene. En sammenligning mellom den foreløpige klassifiseringen og de tilhørende inneslutningstiltak og den endelige klassifiseringen og de tilhørende inneslutningstiltak, kan gi følgende tre resultater:det finnes skadelige virkninger som det ikke har blitt tatt tilstrekkelig hensyn til ved den foreløpige klassifiseringen, og den foreløpige inneslutningen i henhold til fremgangsmåte 1 er ikke tilstrekkelig for disse. Det er derfor nødvendig med ytterligere inneslutningstiltak, og eventuelt en revisjon av klassifiseringen av virksomheten,den foreløpige klassifiseringen var riktig og de tilhørende inneslutningstiltakene er tilstrekkelige til å forebygge skader på menneskers helse og miljøet, eller til å begrense dem til et minimum,den foreløpige klassifiseringen er strengere enn nødvendig for den aktuelle virksomheten, og det bør derfor velges et lavere klassifiseringsnivå med tilhørende inneslutningstiltak.
+Når alle potensielt skadelige virkninger er gjennomgått og alvorlighetsgraden og sannsynligheten for at de inntreffer er fastslått, samtidig som det er tatt hensyn til de inneslutnings- og kontrolltiltak som foreskrives gjennom den foreløpige klassifiseringen av mottakeren, kan den endelige klassifiseringen og de endelige inneslutningstiltakene for GMM-en fastsettes. Ved vurderingen av endelig klassifisering og endelige inneslutningstiltak skal den foreløpige klassifiseringen vurderes på nytt for å se om den var riktig ut fra den virksomhet som skal utføres og arten av de planlagte operasjonene. En sammenligning mellom den foreløpige klassifiseringen og de tilhørende inneslutningstiltak og den endelige klassifiseringen og de tilhørende inneslutningstiltak, kan gi følgende tre resultater:
+
+- det finnes skadelige virkninger som det ikke har blitt tatt tilstrekkelig hensyn til ved den foreløpige klassifiseringen, og den foreløpige inneslutningen i henhold til fremgangsmåte 1 er ikke tilstrekkelig for disse. Det er derfor nødvendig med ytterligere inneslutningstiltak, og eventuelt en revisjon av klassifiseringen av virksomheten,
+- den foreløpige klassifiseringen var riktig og de tilhørende inneslutningstiltakene er tilstrekkelige til å forebygge skader på menneskers helse og miljøet, eller til å begrense dem til et minimum,
+- den foreløpige klassifiseringen er strengere enn nødvendig for den aktuelle virksomheten, og det bør derfor velges et lavere klassifiseringsnivå med tilhørende inneslutningstiltak.
 
 4.2.*Bekreftelse av at de endelige inneslutningstiltakene er tilstrekkelige*
 
@@ -1102,4 +1224,20 @@ Dersom det er usikkerhet omkring den endelige klassifiseringen og de endelige in
 
 ## Vedlegg V. Alminnelige sikkerhetstiltak
 
-For all virksomhet som innbefatter GMM, gjelder prinsippene for god mikrobiologisk praksis og følgende prinsipper for god sikkerhet og hygiene på arbeidsplassen:påse at arbeidsplassen og miljøet eksponeres for GMM på et så lavt nivå som mulig,anvende tekniske kontrolltiltak ved kilden og utfylle disse tiltakene med hensiktsmessig vernetøy og personlig verneutstyr om nødvendig,regelmessig prøve og vedlikeholde kontrolltiltak og -utstyr på hensiktsmessig måte,eventuelt kontrollere nærvær av levedyktige organismer fra virksomheten utenfor den primære fysiske inneslutningen,gi personalet hensiktsmessig opplæring,om nødvendig nedsette komiteer eller underkomiteer for biologisk sikkerhet,om nødvendig utforme og iverksette lokalt praktisk regelverk for personalets sikkerhet,sette opp biologiske faremerker der det trengs,sørge for at personalet har vaske- og dekontamineringsanlegg,føre tilfredsstillende journaler,forby spising, drikking, røyking, bruk av kosmetikk eller oppbevaring av mat for konsum i arbeidsområdet,forby pipettering med munnen,sørge for skriftlige instrukser for standard driftsprosedyrer der det trengs for å garantere sikkerheten,ha effektive desinfeksjonsmidler og særskilte desinfiseringsprosedyrer tilgjengelig i tilfelle spredning av GMM,eventuelt sørge for sikker oppbevaring av kontaminert laboratorieutstyr og -materialer.
+For all virksomhet som innbefatter GMM, gjelder prinsippene for god mikrobiologisk praksis og følgende prinsipper for god sikkerhet og hygiene på arbeidsplassen:
+
+1. påse at arbeidsplassen og miljøet eksponeres for GMM på et så lavt nivå som mulig,
+2. anvende tekniske kontrolltiltak ved kilden og utfylle disse tiltakene med hensiktsmessig vernetøy og personlig verneutstyr om nødvendig,
+3. regelmessig prøve og vedlikeholde kontrolltiltak og -utstyr på hensiktsmessig måte,
+4. eventuelt kontrollere nærvær av levedyktige organismer fra virksomheten utenfor den primære fysiske inneslutningen,
+5. gi personalet hensiktsmessig opplæring,
+6. om nødvendig nedsette komiteer eller underkomiteer for biologisk sikkerhet,
+7. om nødvendig utforme og iverksette lokalt praktisk regelverk for personalets sikkerhet,
+8. sette opp biologiske faremerker der det trengs,
+9. sørge for at personalet har vaske- og dekontamineringsanlegg,
+10. føre tilfredsstillende journaler,
+11. forby spising, drikking, røyking, bruk av kosmetikk eller oppbevaring av mat for konsum i arbeidsområdet,
+12. forby pipettering med munnen,
+13. sørge for skriftlige instrukser for standard driftsprosedyrer der det trengs for å garantere sikkerheten,
+14. ha effektive desinfeksjonsmidler og særskilte desinfiseringsprosedyrer tilgjengelig i tilfelle spredning av GMM,
+15. eventuelt sørge for sikker oppbevaring av kontaminert laboratorieutstyr og -materialer.

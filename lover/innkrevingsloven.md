@@ -15,7 +15,7 @@ xml_hash: "28e63801d08f96de9edf47e357eca938b561777100c056069ddac9a4f8d23258"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,10 @@ Etter krav fra Innkrevingsmyndigheten plikter skyldneren å gi opplysninger som 
 
 ### § 11. Tredjeparters opplysningsplikt
 
-(1) Enhver tredjepart plikter etter krav fra Innkrevingsmyndigheten å gi opplysninger som kan ha betydning for innkrevingen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger omkrav som skyldneren har eller har hatt mot dem, og om hvordan kravet har falt bortformuesgoder som skyldneren eier, og som de har eller har hatt i sin besittelse, og om hvordan besittelsen opphørte.
+(1) Enhver tredjepart plikter etter krav fra Innkrevingsmyndigheten å gi opplysninger som kan ha betydning for innkrevingen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger om
+
+1. krav som skyldneren har eller har hatt mot dem, og om hvordan kravet har falt bort
+2. formuesgoder som skyldneren eier, og som de har eller har hatt i sin besittelse, og om hvordan besittelsen opphørte.
 
 (2) Departementet kan gi forskrift om at tredjeparter ukrevet skal gi opplysninger som kan ha betydning for innkrevingen, til Innkrevingsmyndigheten. Dette gjelder ikke fysiske personer i den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet.
 
@@ -393,7 +396,11 @@ Innkrevingsmyndigheten gjennomfører utleggstrekk etablert av namsfogdene og utl
 (3) Kongen kan gi overgangsbestemmelser.3
 
 1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
-Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).2 Se [forskrift 12. desember 2025 nr. 2508 om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)](forskrift/2025-12-12-2508).3 Se [forskrift 1. juli 2025 nr. 1418 om overgangsregler for innkrevingsloven og endringer i andre lover](forskrift/2025-07-01-1418).
+Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+
+2 Se [forskrift 12. desember 2025 nr. 2508 om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)](forskrift/2025-12-12-2508).
+
+3 Se [forskrift 1. juli 2025 nr. 1418 om overgangsregler for innkrevingsloven og endringer i andre lover](forskrift/2025-07-01-1418).
 
 ### § 41. Endringer i tvangsfullbyrdelsesloven
 

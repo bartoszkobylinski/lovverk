@@ -15,7 +15,7 @@ xml_hash: "c273ece10be5ba72bac1a27412c8c6cc3533f108c85340dcda7e76982ab63596"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1-1. Lovens formål
 
-Lovens formål er særlig å:fremme folkehelsen og å motvirke sykdom, skade, lidelse og funksjonshemning,bidra til å sikre tjenestetilbudets kvalitet,bidra til et likeverdig tjenestetilbud,bidra til at ressursene utnyttes best mulig,bidra til at tjenestetilbudet blir tilpasset pasientenes behov, ogbidra til at tjenestetilbudet blir tilgjengelig for pasientene.
+Lovens formål er særlig å:
+
+1. fremme folkehelsen og å motvirke sykdom, skade, lidelse og funksjonshemning,
+2. bidra til å sikre tjenestetilbudets kvalitet,
+3. bidra til et likeverdig tjenestetilbud,
+4. bidra til at ressursene utnyttes best mulig,
+5. bidra til at tjenestetilbudet blir tilpasset pasientenes behov, og
+6. bidra til at tjenestetilbudet blir tilgjengelig for pasientene.
 
 ### § 1-2. Lovens virkeområde
 
@@ -56,9 +63,21 @@ Staten har det overordnede ansvar for at befolkningen gis nødvendig spesialisth
 
 ### § 2-1 a. De regionale helseforetakenes ansvar for spesialisthelsetjenester
 
-Det regionale helseforetaket skal sørge for at personer med fast bopel eller oppholdssted innen helseregionen tilbys spesialisthelsetjeneste i og utenfor institusjon, herundersykehustjenester,medisinske laboratorietjenester og radiologiske tjenester,akuttmedisinsk beredskap,medisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,tverrfaglig spesialisert behandling for rusmiddelavhengighet, herunder institusjonsplasser som kan ta imot rusmiddelavhengige med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov/2011-06-24-30/§10-2) til [10-4](lov/2011-06-24-30/§10-4),transport til undersøkelse eller behandling i helse- og omsorgstjenesten ogtransport av behandlingspersonell.
+Det regionale helseforetaket skal sørge for at personer med fast bopel eller oppholdssted innen helseregionen tilbys spesialisthelsetjeneste i og utenfor institusjon, herunder
 
-Det regionale helseforetaket skal innrette sitt tjenestetilbud i tråd med følgende prioriteringskriterier:nytten av tiltak i pasientbehandling,ressursbruk som tiltak legger beslag på ogalvorlighetsgraden av de tilstander som skal behandles.
+1. sykehustjenester,
+2. medisinske laboratorietjenester og radiologiske tjenester,
+3. akuttmedisinsk beredskap,
+4. medisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,
+5. tverrfaglig spesialisert behandling for rusmiddelavhengighet, herunder institusjonsplasser som kan ta imot rusmiddelavhengige med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov/2011-06-24-30/§10-2) til [10-4](lov/2011-06-24-30/§10-4),
+6. transport til undersøkelse eller behandling i helse- og omsorgstjenesten og
+7. transport av behandlingspersonell.
+
+Det regionale helseforetaket skal innrette sitt tjenestetilbud i tråd med følgende prioriteringskriterier:
+
+1. nytten av tiltak i pasientbehandling,
+2. ressursbruk som tiltak legger beslag på og
+3. alvorlighetsgraden av de tilstander som skal behandles.
 
 Det regionale helseforetaket skal sørge for at helseinstitusjoner som det eier, eller som mottar tilskudd fra de regionale helseforetakene til sin virksomhet, bidrar til å fremme folkehelsen og forebygge sykdom og skade, og innretter sitt tjenestetilbud i samsvar med vilkårene i andre ledd.
 
@@ -122,13 +141,20 @@ Helsetjenester som tilbys eller ytes i henhold til denne loven skal være forsva
 
 ### § 2-3. Departementets bestemmelser om nasjonale tjenester i spesialisthelsetjenesten og markedsføring av spesialisthelsetjenester
 
-Departementet kan ved forskrift eller i det enkelte tilfelle gi bestemmelser om:nasjonale tjenester i spesialisthelsetjenesten ogmarkedsføring av tjenester som omfattes av denne loven, herunder forbud mot visse former for markedsføring.
+Departementet kan ved forskrift eller i det enkelte tilfelle gi bestemmelser om:
+
+1. nasjonale tjenester i spesialisthelsetjenesten og
+2. markedsføring av tjenester som omfattes av denne loven, herunder forbud mot visse former for markedsføring.
 
 > Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 2-4), [4 mai 2012 nr. 23](lov/2012-05-04-23).
 
 ### § 2-4. Ventelisteregistrering
 
-Departementet kan gi forskrifter omføring av ventelister over pasienter som søker og har behov for helsehjelp som omfattes av denne loven,ansvar for å skaffe registrerte pasienter innenfor visse prioriterte pasientgrupper helsehjelp på offentlig institusjon, samt pasienters rett til selv å skaffe slik helsehjelp, ogplikt for regionale helseforetak til å rapportere aktivitetstall for de virksomhetene de eier og de private helsetjenestene de har avtaler med.
+Departementet kan gi forskrifter om
+
+1. føring av ventelister over pasienter som søker og har behov for helsehjelp som omfattes av denne loven,
+2. ansvar for å skaffe registrerte pasienter innenfor visse prioriterte pasientgrupper helsehjelp på offentlig institusjon, samt pasienters rett til selv å skaffe slik helsehjelp, og
+3. plikt for regionale helseforetak til å rapportere aktivitetstall for de virksomhetene de eier og de private helsetjenestene de har avtaler med.
 
 > Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 2-5), [12 des 2003 nr. 110](lov/2003-12-12-110) (ikr. 1 sep 2004 iflg. [res. 19 mars 2004 nr. 540](forskrift/2004-03-19-540)).
 
@@ -190,7 +216,11 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper 
 
 ### § 2-5 d. Midlertidige unntak fra plikter
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at spesialisthelsetjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-5](lov/1999-07-02-61/§2-5) om individuell plan[§ 2-5 a](lov/1999-07-02-61/§2-5a) om koordinator[§ 2-5 c](lov/1999-07-02-61/§2-5c) om kontaktlege.
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at spesialisthelsetjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:
+
+1. [§ 2-5](lov/1999-07-02-61/§2-5) om individuell plan
+2. [§ 2-5 a](lov/1999-07-02-61/§2-5a) om koordinator
+3. [§ 2-5 c](lov/1999-07-02-61/§2-5c) om kontaktlege.
 
 > Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
@@ -294,7 +324,12 @@ Departementet kan gi nærmere bestemmelser om barneansvarlig personell i forskri
 
 ### § 3-8. Sykehusenes oppgaver
 
-Sykehus skal særlig ivareta følgende oppgaver:pasientbehandling,utdanning av helsepersonell,forskning, ogopplæring av pasienter og pårørende.
+Sykehus skal særlig ivareta følgende oppgaver:
+
+1. pasientbehandling,
+2. utdanning av helsepersonell,
+3. forskning, og
+4. opplæring av pasienter og pårørende.
 
 ### § 3-8 a. Beskyttelse av betegnelsen sykehus
 
@@ -354,7 +389,17 @@ Helseinstitusjon som omfattes av denne loven skal uten ugrunnet opphold varsle s
 
 Er en person plassert i en institusjon med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov/2011-06-24-30/§10-2), [10-3](lov/2011-06-24-30/§10-3) eller [10-4](lov/2011-06-24-30/§10-4), kan institusjonen begrense adgangen til å forlate institusjonen i den utstrekning det er nødvendig etter vedtakets formål.
 
-Kongen kan gi forskrift om gjennomføringen av opphold ved institusjoner som tilbyr behandling for rusmiddelavhengighet. Det kan herunder gis regler om fastsettelse av husordensregler, rusmiddeltesting av pasientens biologiske materiale, forvaltning av pasientens midler, pasientens rettigheter og plikter, saksbehandling og klage og vern om pasientens personlige integritet. Det kan dessuten gis regler om følgende tvangstiltak:kontroll av pasientens postforbud mot rusmidler, legemidler, skadelige stoffer og farlige gjenstander i institusjonenbeslaglegging og tilintetgjøring av rusmidler, legemidler, skadelige stoffer og farlige gjenstanderkroppsvisitasjon, undersøkelse av munnhulen og undersøkelse av pasientens rom og eiendeler når dette er nødvendig for å oppnå formålet med oppholdet, herunder rutinekontroll ved innleggelse eller etter opphold utenfor institusjonenadgang til å nekte besøkadgang til å nekte permisjoner og annet fraværbeslag av pasientens egne elektroniske kommunikasjonsmidler dersom kamera- eller lydopptaksfunksjon gjør beslag nødvendig av hensyn til andre pasienters eller ansattes personvernadgang til å kreve biologisk materiale av pasient innlagt i medhold av [helse- og omsorgstjenesteloven §§ 10-2](lov/2011-06-24-30/§10-2) og [10-3](lov/2011-06-24-30/§10-3) når rusmiddeltesting er nødvendig for å oppnå formålet med oppholdetbruk av tvang i nødssituasjoner i tråd med alminnelige nødretts- og nødvergebetraktninger.
+Kongen kan gi forskrift om gjennomføringen av opphold ved institusjoner som tilbyr behandling for rusmiddelavhengighet. Det kan herunder gis regler om fastsettelse av husordensregler, rusmiddeltesting av pasientens biologiske materiale, forvaltning av pasientens midler, pasientens rettigheter og plikter, saksbehandling og klage og vern om pasientens personlige integritet. Det kan dessuten gis regler om følgende tvangstiltak:
+
+1. kontroll av pasientens post
+2. forbud mot rusmidler, legemidler, skadelige stoffer og farlige gjenstander i institusjonen
+3. beslaglegging og tilintetgjøring av rusmidler, legemidler, skadelige stoffer og farlige gjenstander
+4. kroppsvisitasjon, undersøkelse av munnhulen og undersøkelse av pasientens rom og eiendeler når dette er nødvendig for å oppnå formålet med oppholdet, herunder rutinekontroll ved innleggelse eller etter opphold utenfor institusjonen
+5. adgang til å nekte besøk
+6. adgang til å nekte permisjoner og annet fravær
+7. beslag av pasientens egne elektroniske kommunikasjonsmidler dersom kamera- eller lydopptaksfunksjon gjør beslag nødvendig av hensyn til andre pasienters eller ansattes personvern
+8. adgang til å kreve biologisk materiale av pasient innlagt i medhold av [helse- og omsorgstjenesteloven §§ 10-2](lov/2011-06-24-30/§10-2) og [10-3](lov/2011-06-24-30/§10-3) når rusmiddeltesting er nødvendig for å oppnå formålet med oppholdet
+9. bruk av tvang i nødssituasjoner i tråd med alminnelige nødretts- og nødvergebetraktninger.
 
 > Tilføyd ved lov [28 nov 2003 nr. 99](lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](forskrift/2003-11-28-1403)), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 mai 2016 nr. 10](lov/2016-05-20-10) (ikr. 1 nov 2016 iflg. [res. 26 aug 2016 nr. 1002](forskrift/2016-08-26-1002) – endring ved lov [22 juni 2012 nr. 46](lov/2012-06-22-46) opphevet fra 1 nov 2016).
 
@@ -366,7 +411,15 @@ Når utskrivning fra tjeneste som nevnt i [§ 2-1 a](lov/1999-07-02-61/§2-1a) f
 
 ### § 3-16. Legemiddelassistert rehabilitering av personer med rusmiddelavhengighet
 
-Kongen kan gi forskrift med nærmere regler om legemiddelassistert rehabilitering av personer med rusmiddelavhengighet og kan blant annet gi regler om:formål med legemiddelassistert rehabiliteringkriterier for inntak og utskrivningkrav om at det skal utarbeides individuell plan for alle pasienter i legemiddelassistert rehabiliteringnår individuell plan skal utarbeides og konsekvenser for behandlingen dersom individuell plan ikke foreliggeransvarsgrupperhvem som beslutter inntak og utskrivning fra legemiddelassistert rehabiliteringadgang til å kreve urinprøver og blodprøver for kontrollformål.
+Kongen kan gi forskrift med nærmere regler om legemiddelassistert rehabilitering av personer med rusmiddelavhengighet og kan blant annet gi regler om:
+
+1. formål med legemiddelassistert rehabilitering
+2. kriterier for inntak og utskrivning
+3. krav om at det skal utarbeides individuell plan for alle pasienter i legemiddelassistert rehabilitering
+4. når individuell plan skal utarbeides og konsekvenser for behandlingen dersom individuell plan ikke foreligger
+5. ansvarsgrupper
+6. hvem som beslutter inntak og utskrivning fra legemiddelassistert rehabilitering
+7. adgang til å kreve urinprøver og blodprøver for kontrollformål.
 
 Regler etter første ledd bokstav b og d kan gjøre unntak fra reglene i [pasient- og brukerrettighetsloven § 2-2](lov/1999-07-02-63/§2-2) andre og tredje ledd, [§ 2-2 a](lov/1999-07-02-63/§2-2a) andre og tredje ledd og [2-2 b](lov/1999-07-02-63/§2-2b) første ledd første punktum.
 
@@ -398,7 +451,11 @@ Den som er tildelt godkjenning plikter å gi departementet de opplysningene som 
 
 ### § 4-2. Legefordeling
 
-Departementet kan hvert år fastsette:antall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved helseinstitusjoner og helsetjenester som mottar tilskudd til drift og vedlikehold fra et regionalt helseforetak eller fra staten,antall nye hjemler for avtaler om drift av privat spesialistpraksis som kan opprettes av hvert enkelt regionale helseforetak ogantall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved statlige helseinstitusjoner og helsetjenester.
+Departementet kan hvert år fastsette:
+
+1. antall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved helseinstitusjoner og helsetjenester som mottar tilskudd til drift og vedlikehold fra et regionalt helseforetak eller fra staten,
+2. antall nye hjemler for avtaler om drift av privat spesialistpraksis som kan opprettes av hvert enkelt regionale helseforetak og
+3. antall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved statlige helseinstitusjoner og helsetjenester.
 
 Antall nye stillinger og avtalehjemler som nevnt i første ledd angis som en samlet ramme for hver enkelt helseregion fordelt på de ulike medisinske spesialiteter.
 
@@ -476,7 +533,13 @@ Departementet kan gi forskrift om hvilke utgifter som omfattes av første ledd.
 
 ### § 5-5. Pasienters egenbetaling
 
-Departementet kan gi forskrift om:pasienters betaling for poliklinisk helsehjelp i spesialisthelsetjenesten,pasienters betaling for reservert time som ikke benyttes og som gjelder poliklinisk helsehjelp i spesialisthelsetjenesten,adgang til å bestemme at pasienter som oppholder seg i langtidsinstitusjoner helt eller delvis skal dekke 25 prosent av forpleiningsutgiftene når dette finnes rimelig etter pasientens økonomiske kår. Det kan ikke tas refusjon i kontantytelser som pasienten oppebærer etter folketrygdloven og heller ikke i midler som skriver seg fra slike ytelser,pasienters betaling for reise til undersøkelse og behandling, herunder fritak for betaling for enkelte pasientgrupper,pasienters betaling for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak, herunder om fritak for betaling for enkelte pasientgrupper.
+Departementet kan gi forskrift om:
+
+1. pasienters betaling for poliklinisk helsehjelp i spesialisthelsetjenesten,
+2. pasienters betaling for reservert time som ikke benyttes og som gjelder poliklinisk helsehjelp i spesialisthelsetjenesten,
+3. adgang til å bestemme at pasienter som oppholder seg i langtidsinstitusjoner helt eller delvis skal dekke 25 prosent av forpleiningsutgiftene når dette finnes rimelig etter pasientens økonomiske kår. Det kan ikke tas refusjon i kontantytelser som pasienten oppebærer etter folketrygdloven og heller ikke i midler som skriver seg fra slike ytelser,
+4. pasienters betaling for reise til undersøkelse og behandling, herunder fritak for betaling for enkelte pasientgrupper,
+5. pasienters betaling for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak, herunder om fritak for betaling for enkelte pasientgrupper.
 
 For inngrep omfattet av lov om rituell omskjæring av gutter skal det kreves egenbetaling. Egenbetaling skal kreves uavhengig av om inngrepet skjer i forbindelse med innleggelse i sykehus eller ved poliklinisk behandling ved institusjon. Egenbetaling skal kreves uavhengig av om inngrepet foretas av helseforetaket eller av spesialist med avtale med det regionale helseforetaket om å utføre inngrepet på vegne av helseforetaket.
 

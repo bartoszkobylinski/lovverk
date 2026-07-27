@@ -28,7 +28,12 @@ Med sikring mot tap av felleskostnader i burettslag er meint overtaking av risik
 
 ## § 2. Krav til produktet
 
-Sikring etter [§ 1](forskrift/2010-12-15-1694/§1) må oppfylle følgjande krav:Sikringa må dekkje tap knytta til den einskilde andelen for minst 24 månader rekna frå første månaden tapet oppsto.Sikringa i det einskilde rekneskapsåret skal minst svara til 15 prosent av dei årleg fastsette felleskostnadene i burettslaget for forrige rekneskapsår. Oppstår tap i det første driftsåret, skal felleskostnadene på avtaletidspunktet leggjast til grunn. Sikring som omtala i denne bokstaven skal uansett ikkje vera lågare enn tilsvarande fire gonger grunnbeløpet i folketrygda på avtaletidspunktet.Eigenandel kan ikkje vere høgare enn ti prosent av sikringa etter bokstav a og b. For tap knytta til den einskilde andelen kan det likevel krevjast eigenandel svarande til 1/10 av grunnbeløpet i folketrygda på avtaletidspunktet.Avtalar om sikring som ikkje er omfatta av forsikringsavtaleloven, kan tilbydaren berre seie opp skriftleg med frist på minst seks månader.
+Sikring etter [§ 1](forskrift/2010-12-15-1694/§1) må oppfylle følgjande krav:
+
+1. Sikringa må dekkje tap knytta til den einskilde andelen for minst 24 månader rekna frå første månaden tapet oppsto.
+2. Sikringa i det einskilde rekneskapsåret skal minst svara til 15 prosent av dei årleg fastsette felleskostnadene i burettslaget for forrige rekneskapsår. Oppstår tap i det første driftsåret, skal felleskostnadene på avtaletidspunktet leggjast til grunn. Sikring som omtala i denne bokstaven skal uansett ikkje vera lågare enn tilsvarande fire gonger grunnbeløpet i folketrygda på avtaletidspunktet.
+3. Eigenandel kan ikkje vere høgare enn ti prosent av sikringa etter bokstav a og b. For tap knytta til den einskilde andelen kan det likevel krevjast eigenandel svarande til 1/10 av grunnbeløpet i folketrygda på avtaletidspunktet.
+4. Avtalar om sikring som ikkje er omfatta av forsikringsavtaleloven, kan tilbydaren berre seie opp skriftleg med frist på minst seks månader.
 
 ## § 3. Ikrafttredelse
 

@@ -15,7 +15,7 @@ xml_hash: "80b2963f2b450f381611e2c5d184691c61d9baa6a1c93bc9099155a6242b50ad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,7 +49,10 @@ Foretak inndeles i grupper etter samlet forbruk av eplekonsentrat, eplesaft og e
 
 Med et foretaks samlede forbruk menes summen av lagerbeholdning per 1. oktober 2024 og innkjøp av råvare i perioden 1. oktober 2024–30. september 2025.
 
-Foretakets lagerbeholdning ved periodens slutt trekkes fra i beregningen. Beregningen omfatter både norsk og importert vare. Forbruk av andre typer epleråstoff enn eplekonsentrat, må omregnes til konsentrat. Omregningsfaktorene som ligger til grunn for denne beregningen er som følger:8 kg epler = 1 kg konsentrat6,4 kg eplesaft = 1 kg konsentrat.
+Foretakets lagerbeholdning ved periodens slutt trekkes fra i beregningen. Beregningen omfatter både norsk og importert vare. Forbruk av andre typer epleråstoff enn eplekonsentrat, må omregnes til konsentrat. Omregningsfaktorene som ligger til grunn for denne beregningen er som følger:
+
+- 8 kg epler = 1 kg konsentrat
+- 6,4 kg eplesaft = 1 kg konsentrat.
 
 > Endret ved forskrifter [1 des 2022 nr. 2066](forskrift/2022-12-01-2066), [1 des 2023 nr. 1951](forskrift/2023-12-01-1951), [29 nov 2024 nr. 3537](forskrift/2024-11-29-3537) (i kraft 1 des 2024), [1 des 2025 nr. 2605](forskrift/2025-12-01-2605).
 

@@ -15,7 +15,7 @@ xml_hash: "e18f43e890e28c08a16c40b6dc1744b2a93c85190adc23da548d8948eafeeb94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Loven gjelder i Norge, medregnet Svalbard og Jan Mayen.
 
 ## § 4. Hvilke saker Statens helsetilsyn kan undersøke
 
-Statens helsetilsyn kan undersøke offentlige virksomheters arbeid i saker der barn har blittdrept eller forsøkt dreptutsatt for andre lovbrudd med dødsfølgeutsatt for lovbrudd som nevnt i [straffeloven kapittel 24](lov/2005-05-20-28/kap24) til [26](lov/2005-05-20-28/kap26), når saken har hatt alvorlige konsekvenser for barns liv og helseutsatt for alvorlig omsorgssvikt.
+Statens helsetilsyn kan undersøke offentlige virksomheters arbeid i saker der barn har blitt
+
+1. drept eller forsøkt drept
+2. utsatt for andre lovbrudd med dødsfølge
+3. utsatt for lovbrudd som nevnt i [straffeloven kapittel 24](lov/2005-05-20-28/kap24) til [26](lov/2005-05-20-28/kap26), når saken har hatt alvorlige konsekvenser for barns liv og helse
+4. utsatt for alvorlig omsorgssvikt.
 
 Undersøkelse av saker som etterforskes av politiet, kan først skje når påtalespørsmålet er avgjort, med mindre påtalemyndigheten samtykker til at undersøkelse av en sak kan starte tidligere. Påtalemyndigheten kan beslutte at undersøkelsen likevel må utsettes dersom hensynet til etterforskningen eller andre særlige grunner gjør det nødvendig.
 
@@ -136,7 +141,12 @@ Opplysninger Statens helsetilsyn mottar etter [§§ 9](lov/2026-05-29-20/§9) og
 
 En arbeidstaker som avgir forklaring etter [§ 10](lov/2026-05-29-20/§10), skal ikke som følge av dette utsettes for noen form for sanksjoner fra arbeidsgiverens side.
 
-Første ledd gjelder ikketiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner og kompetansetiltak som følge av at de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stillingsanksjoner som følge av at de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdetdersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter [§ 10](lov/2026-05-29-20/§10).
+Første ledd gjelder ikke
+
+1. tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner og kompetanse
+2. tiltak som følge av at de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling
+3. sanksjoner som følge av at de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet
+4. dersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter [§ 10](lov/2026-05-29-20/§10).
 
 ## § 16. Informasjon til relevant offentlig myndighet
 

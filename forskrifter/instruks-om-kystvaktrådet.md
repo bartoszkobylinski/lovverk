@@ -36,7 +36,11 @@ Rådet skal også fungere som et forum for gjensidig kontakt og informasjon.
 
 Kystvaktrådet skal være et rådgivende organ for Forsvarsdepartementet.
 
-Kystvaktrådet skal avgi råd til Forsvarsdepartementet om saker som berører Kystvaktens virksomhet, herunder forslag til langtidsplaner og årlige budsjetter med det formål å bidra til en bedret ressursbruk innenfor gjeldende rammer. Videre bør Kystvaktrådet blant annet gi råd vedrørende:prioritering av eksisterende ressurser og arbeidsoppgaver;Kystvaktens engasjement i nye arbeidsoppgaver;prioritering ved materiellanskaffelser, herunder fremtidige statlige fartøysprosjekter.
+Kystvaktrådet skal avgi råd til Forsvarsdepartementet om saker som berører Kystvaktens virksomhet, herunder forslag til langtidsplaner og årlige budsjetter med det formål å bidra til en bedret ressursbruk innenfor gjeldende rammer. Videre bør Kystvaktrådet blant annet gi råd vedrørende:
+
+1. prioritering av eksisterende ressurser og arbeidsoppgaver;
+2. Kystvaktens engasjement i nye arbeidsoppgaver;
+3. prioritering ved materiellanskaffelser, herunder fremtidige statlige fartøysprosjekter.
 
 ### § 3. Uttalelser
 
@@ -50,7 +54,19 @@ Uttalelser fra Kystvaktrådet utgjør innspill til den formelle saksbehandling i
 
 Forsvarsdepartementet ivaretar leder- og sekretariatsfunksjon for Kystvaktrådet.
 
-Videre skal rådet bestå av en representant (og vararepresentant) fra følgende departementer/etater:Utenriksdepartementet;Justis- og politidepartementet;Nærings- og handelsdepartementet;Fiskeridepartementet;Fiskeridirektoratet;Finansdepartementet;Miljøverndepartementet;Kommunal- og regionaldepartementet;Energidepartementet;Påtalemyndigheten;Forsvarets overkommando/ Kystvaktinspektøren.
+Videre skal rådet bestå av en representant (og vararepresentant) fra følgende departementer/etater:
+
+1. Utenriksdepartementet;
+2. Justis- og politidepartementet;
+3. Nærings- og handelsdepartementet;
+4. Fiskeridepartementet;
+5. Fiskeridirektoratet;
+6. Finansdepartementet;
+7. Miljøverndepartementet;
+8. Kommunal- og regionaldepartementet;
+9. Energidepartementet;
+10. Påtalemyndigheten;
+11. Forsvarets overkommando/ Kystvaktinspektøren.
 
 Forsvarsdepartementet kan foreta endringer i rådets sammensetning etter forutgående diskusjon i rådet.
 

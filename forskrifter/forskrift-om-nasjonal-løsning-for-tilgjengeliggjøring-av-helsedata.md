@@ -28,17 +28,41 @@ Departementet kan etablere en nasjonal organisatorisk løsning for tilgjengeligg
 
 Løsningen skal gjelde tilgjengeliggjøring av helsedata til bruk i statistikk, helseanalyser, forskning, kvalitetsforbedring, planlegging, styring og beredskap.
 
-Løsningen skal forvaltes av Folkehelseinstituttet, som blant annet skalmotta, behandle og koordinere søknader om tilgjengeliggjøringgi informasjon og veiledning til databrukeresørge for tjenester for databrukeresørge for fellestjenester for registerforvaltere knyttet til behandling av søknader om tilgjengeliggjøring fra registrene.
+Løsningen skal forvaltes av Folkehelseinstituttet, som blant annet skal
+
+1. motta, behandle og koordinere søknader om tilgjengeliggjøring
+2. gi informasjon og veiledning til databrukere
+3. sørge for tjenester for databrukere
+4. sørge for fellestjenester for registerforvaltere knyttet til behandling av søknader om tilgjengeliggjøring fra registrene.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ## § 2. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:*helsedata:* direkte og indirekte identifiserbare helseopplysninger, jf. [helseregisterloven § 2](lov/2014-06-20-43/§2) bokstav a, og anonyme opplysninger om folks helse*databruker:* søker eller mottaker av helsedata som er eller skal bli tilgjengeliggjort etter denne forskriften [§ 4](forskrift/2023-01-11-48/§4)*registerforvalter:* dataansvarlig for behandlingen av opplysninger i et helseregister.
+I denne forskriften gjelder følgende definisjoner:
+
+1. *helsedata:* direkte og indirekte identifiserbare helseopplysninger, jf. [helseregisterloven § 2](lov/2014-06-20-43/§2) bokstav a, og anonyme opplysninger om folks helse
+2. *databruker:* søker eller mottaker av helsedata som er eller skal bli tilgjengeliggjort etter denne forskriften [§ 4](forskrift/2023-01-11-48/§4)
+3. *registerforvalter:* dataansvarlig for behandlingen av opplysninger i et helseregister.
 
 ## § 3. Helseregistre som kan inkluderes i løsningen
 
-Folkehelseinstituttet kan beslutte at følgende helseregistre skal inkluderes i løsningenDødsårsaksregisteretKreftregisteretMedisinsk fødselsregisterMeldingssystem for smittsomme sykdommer (MSIS)Nasjonalt vaksinasjonsregister (SYSVAK)Norsk pasientregister (NPR)Nasjonalt register over hjerte- og karlidelserSystem for bivirkningsrapporteringKommunalt pasient- og brukerregister (KPR)LegemiddelregisteretHelsearkivregisteretmedisinske kvalitetsregistre som har nasjonal status og er hjemlet i [forskrift om medisinske kvalitetsregistre](forskrift/2019-06-21-789)befolkningsbaserte helseundersøkelser som Folkehelseinstituttet er dataansvarlig forberedskapsregistre etablert med hjemmel i [helseberedskapsloven § 2-4](lov/2000-06-23-56/§2-4).
+Folkehelseinstituttet kan beslutte at følgende helseregistre skal inkluderes i løsningen
+
+1. Dødsårsaksregisteret
+2. Kreftregisteret
+3. Medisinsk fødselsregister
+4. Meldingssystem for smittsomme sykdommer (MSIS)
+5. Nasjonalt vaksinasjonsregister (SYSVAK)
+6. Norsk pasientregister (NPR)
+7. Nasjonalt register over hjerte- og karlidelser
+8. System for bivirkningsrapportering
+9. Kommunalt pasient- og brukerregister (KPR)
+10. Legemiddelregisteret
+11. Helsearkivregisteret
+12. medisinske kvalitetsregistre som har nasjonal status og er hjemlet i [forskrift om medisinske kvalitetsregistre](forskrift/2019-06-21-789)
+13. befolkningsbaserte helseundersøkelser som Folkehelseinstituttet er dataansvarlig for
+14. beredskapsregistre etablert med hjemmel i [helseberedskapsloven § 2-4](lov/2000-06-23-56/§2-4).
 
 Før det fattes beslutning etter første ledd skal Folkehelseinstituttet rådføre seg med registerforvalteren for det aktuelle registeret. Hvilke registre som Folkehelseinstituttet har besluttet å inkludere skal fremgå av vedlegg til denne forskriften.
 
@@ -100,7 +124,10 @@ Registerforvalterne skal tilgjengeliggjøre helsedata fra registeret i samsvar m
 
 Helsedata fra helseregistre som er besluttet inkludert i løsningen etter [§ 3](forskrift/2023-01-11-48/§3), kan bare tilgjengeliggjøres av registerforvalteren etter avgjørelser fra Folkehelseinstituttet. Dette gjelder også tilgjengeliggjøring innenfor registerforvalterens virksomhet.
 
-Andre ledd gjelder ikke fordata som skal brukes av registerforvalteren selv eller av offentlige virksomheter til statistikk, analyse, kvalitetsforbedring, planlegging, styring eller beredskap for å ivareta oppgaver i henhold til lov, forskrift eller instruksdata som registerforvalteren selv skal bruke til forskning som krever forhåndsgodkjenning fra regionale komiteer for medisinsk og helsefaglig forskningsetikk etter [helseforskningsloven § 33](lov/2008-06-20-44/§33), og som ikke skal sammenstilles med data fra andre registre.
+Andre ledd gjelder ikke for
+
+1. data som skal brukes av registerforvalteren selv eller av offentlige virksomheter til statistikk, analyse, kvalitetsforbedring, planlegging, styring eller beredskap for å ivareta oppgaver i henhold til lov, forskrift eller instruks
+2. data som registerforvalteren selv skal bruke til forskning som krever forhåndsgodkjenning fra regionale komiteer for medisinsk og helsefaglig forskningsetikk etter [helseforskningsloven § 33](lov/2008-06-20-44/§33), og som ikke skal sammenstilles med data fra andre registre.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 

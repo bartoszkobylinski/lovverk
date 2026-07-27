@@ -52,7 +52,12 @@ Ved vurderingen av om det etter [folketrygdloven § 17-7](lov/1997-02-28-19/§17
 
 ### § 4. Reell arbeidssøker
 
-Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til åta ethvert arbeid som er lønnet etter tariff eller sedvane,ta arbeid hvor som helst i Norge,ta arbeid som utgjør minst halvparten av full tid, ogdelta på arbeidsmarkedstiltak.
+Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til å
+
+1. ta ethvert arbeid som er lønnet etter tariff eller sedvane,
+2. ta arbeid hvor som helst i Norge,
+3. ta arbeid som utgjør minst halvparten av full tid, og
+4. delta på arbeidsmarkedstiltak.
 
 Dersom alder eller tungtveiende sosiale hensyn knyttet til helse, omsorgsansvar for små barn eller pleietrengende i nær familie tilsier det, kan stønadsmottakeren regnes som reell arbeidssøker selv om vedkommende bare søker arbeid innenfor et begrenset geografisk område. En stønadsmottaker som er forhindret fra å ta kvelds-, natt- og helgearbeid på grunn av omsorg for barn, kan reservere seg mot slikt arbeid.
 

@@ -15,7 +15,7 @@ xml_hash: "320106021300dc85b64bdf6a1c8399a03896c87d3c74cfa6b92ecfbaae5f2ea5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Standardopplysningsskjemaer
 
-For å oppfylle opplysningsplikten etter lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. § 5 første ledd, skal den næringsdrivende gi forbrukeren opplysninger som følger:for avtaler om deltidsbruksrett: ved bruk av standardopplysningsskjemaet i vedlegg I samt opplysningene i del 3 i skjemaet,for avtaler om langtidsferieprodukter: ved bruk av standardopplysningsskjemaet i vedlegg II samt opplysningene i del 3 i skjemaet,for avtaler om videresalg: ved bruk av standardopplysningsskjemaet i vedlegg III samt opplysningene i del 3 i skjemaet,for bytteavtaler: ved bruk av standardopplysningsskjemaet i vedlegg IV samt opplysningene i del 3 i skjemaet.
+For å oppfylle opplysningsplikten etter lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. § 5 første ledd, skal den næringsdrivende gi forbrukeren opplysninger som følger:
+
+1. for avtaler om deltidsbruksrett: ved bruk av standardopplysningsskjemaet i vedlegg I samt opplysningene i del 3 i skjemaet,
+2. for avtaler om langtidsferieprodukter: ved bruk av standardopplysningsskjemaet i vedlegg II samt opplysningene i del 3 i skjemaet,
+3. for avtaler om videresalg: ved bruk av standardopplysningsskjemaet i vedlegg III samt opplysningene i del 3 i skjemaet,
+4. for bytteavtaler: ved bruk av standardopplysningsskjemaet i vedlegg IV samt opplysningene i del 3 i skjemaet.
 
 ## § 2. Standard angreskjema
 

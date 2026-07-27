@@ -28,7 +28,11 @@ Forskriften her gir regler om gjennomføringen av bestemmelsene i [forskottering
 
 ## § 2. Inntekt
 
-Som inntekt ved anvendelsen av bestemmelsene i [forskotteringsloven § 4](lov/1989-02-17-2/§4) tredje ledd og § 5 og bestemmelsene i forskriften her regnespersoninntekt etter skatteloven, medregnet den del av positive netto kapitalinntekter som overstiger kr 10.000,- per år, ogkontantstøtte etter kontantstøtteloven,utvidet barnetrygd og småbarnstillegg etter barnetrygdloven.
+Som inntekt ved anvendelsen av bestemmelsene i [forskotteringsloven § 4](lov/1989-02-17-2/§4) tredje ledd og § 5 og bestemmelsene i forskriften her regnes
+
+1. personinntekt etter skatteloven, medregnet den del av positive netto kapitalinntekter som overstiger kr 10.000,- per år, og
+2. kontantstøtte etter kontantstøtteloven,
+3. utvidet barnetrygd og småbarnstillegg etter barnetrygdloven.
 
 For selvstendig næringsdrivende skal kapitalinntektsdelen av næringsinntekten regnes med i kapitalinntekten etter første ledd bokstav a til og med inntektsåret 2005. Kapitalinntektsdelen svarer til næringsinntekten fratrukket beregnet personinntekt, underskudd i næring i inntektsåret, framført underskudd fra tidligere år og godtgjørelse for arbeid til deltaker i deltakerlignet selskap.
 
@@ -40,7 +44,10 @@ Har en part inntekt fra enkeltpersonforetak, skal kapitalinntektsdelen av nærin
 
 Fra 1. juli 2026 utgjør forskott med ordinær sats kr 1 560 per barn per måned. Beløpet reguleres etter reglene i [barnelova § 73](lov/1981-04-08-7/§73).
 
-Beløpet etter første leddforhøyes med 1/3 dersom mottakeren ikke ville ha hatt bidragsevne etter [barnelova § 71 første ledd andre punktum](lov/1981-04-08-7/§71/ledd/1/setning/2) vurdert som enslig uten barn, med tillegg av 10 ganger forhøyet bidragsforskott per barn per måned. Fra 1. juli 2026 utgjør denne grensen kr 388 200.reduseres med 1/3 dersom forskottsmottakers årsinntekt er høyere enn inntektsgrensene for full forsørgelsesevne etter [§ 5](forskrift/2003-02-06-125/§5). Med ett barn skal grensen være kr 580 400 for en enslig forskottsmottaker og kr 479 200 for en mottaker som bor sammen med ektefelle eller samboer. Grensen økes med kr 82 500 for hvert eget barn utover ett.
+Beløpet etter første ledd
+
+1. forhøyes med 1/3 dersom mottakeren ikke ville ha hatt bidragsevne etter [barnelova § 71 første ledd andre punktum](lov/1981-04-08-7/§71/ledd/1/setning/2) vurdert som enslig uten barn, med tillegg av 10 ganger forhøyet bidragsforskott per barn per måned. Fra 1. juli 2026 utgjør denne grensen kr 388 200.
+2. reduseres med 1/3 dersom forskottsmottakers årsinntekt er høyere enn inntektsgrensene for full forsørgelsesevne etter [§ 5](forskrift/2003-02-06-125/§5). Med ett barn skal grensen være kr 580 400 for en enslig forskottsmottaker og kr 479 200 for en mottaker som bor sammen med ektefelle eller samboer. Grensen økes med kr 82 500 for hvert eget barn utover ett.
 
 For personer som mottar forhøyet forskott etter andre ledd bokstav a, økes forskottet med ytterligere 1/3 av forskottsbeløpet etter første ledd for hvert forskottsberettiget barn som de forsørger og som har fylt 11 år.
 

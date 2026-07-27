@@ -30,7 +30,20 @@ Ved tinglysing av første gangs overføring av hjemmel til eierseksjon eller til
 
 ## § 2.
 
-Fritatt for avgift ergaveandel i dokument som inneholder gave og lignende til det offentlige eller til stiftelser og legater med allmennyttige formål, eller til foreninger med allmennyttige formål som har styresete her i landetdokument som overfører rettigheter til fast eiendom til utenlandske diplomatiske og konsulære misjoneroverføring av hjemmel til fast eiendom til Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhetegen sameieandel i den enkelte eiendom ved overtagelse av fast eiendom ved oppløsning av sameieoverføring av hjemmel til fast eiendom mellom ektefellerideell arveandel etter loven i den enkelte eiendom ved overtagelse av fast eiendom på skifte eller fra uskiftet bo. Forskudd på arv regnes ikke som arveandel og heller ikke testamentsarv i den utstrekning den overstiger lovens arveandeloverføring av hjemmel til fast eiendom til forrige hjemmelshaver eller dennes ektefelle, i forbindelse med salg etter reglene om tvangssalgoverføring av hjemmel til fast eiendom til NATO eller NATOs hovedkvarter i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet avoverføring av hjemmel til fast eiendom mellom Kongen, Dronningen, den nærmeste arveberettigede til tronen i hvert etterfølgende slektsledd og disse personers ektefeller, samt disses felles barn som ikke er fylt 20 år ved utgangen av det år overføringen skjeroverføring av hjemmel til fast eiendom til testamentsarving dersom overføring av hjemmel til ny erverver tinglyses samme dagoverføring av hjemmel til fast eiendom ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter [skatteloven § 11-2](lov/1999-03-26-14/§11-2) til [§ 11-5](lov/1999-03-26-14/§11-5), [§ 11-11](lov/1999-03-26-14/§11-11) og [§ 11-20](lov/1999-03-26-14/§11-20) med tilhørende forskrifter. Omorganiseringen og tinglysingen av hjemmelen til fast eiendom må ha funnet sted etter 1. januar 2016.overføring av hjemmel til fast eiendom fra kommunal stiftelse til kommune.
+Fritatt for avgift er
+
+1. gaveandel i dokument som inneholder gave og lignende til det offentlige eller til stiftelser og legater med allmennyttige formål, eller til foreninger med allmennyttige formål som har styresete her i landet
+2. dokument som overfører rettigheter til fast eiendom til utenlandske diplomatiske og konsulære misjoner
+3. overføring av hjemmel til fast eiendom til Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhet
+4. egen sameieandel i den enkelte eiendom ved overtagelse av fast eiendom ved oppløsning av sameie
+5. overføring av hjemmel til fast eiendom mellom ektefeller
+6. ideell arveandel etter loven i den enkelte eiendom ved overtagelse av fast eiendom på skifte eller fra uskiftet bo. Forskudd på arv regnes ikke som arveandel og heller ikke testamentsarv i den utstrekning den overstiger lovens arveandel
+7. overføring av hjemmel til fast eiendom til forrige hjemmelshaver eller dennes ektefelle, i forbindelse med salg etter reglene om tvangssalg
+8. overføring av hjemmel til fast eiendom til NATO eller NATOs hovedkvarter i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av
+9. overføring av hjemmel til fast eiendom mellom Kongen, Dronningen, den nærmeste arveberettigede til tronen i hvert etterfølgende slektsledd og disse personers ektefeller, samt disses felles barn som ikke er fylt 20 år ved utgangen av det år overføringen skjer
+10. overføring av hjemmel til fast eiendom til testamentsarving dersom overføring av hjemmel til ny erverver tinglyses samme dag
+11. overføring av hjemmel til fast eiendom ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter [skatteloven § 11-2](lov/1999-03-26-14/§11-2) til [§ 11-5](lov/1999-03-26-14/§11-5), [§ 11-11](lov/1999-03-26-14/§11-11) og [§ 11-20](lov/1999-03-26-14/§11-20) med tilhørende forskrifter. Omorganiseringen og tinglysingen av hjemmelen til fast eiendom må ha funnet sted etter 1. januar 2016.
+12. overføring av hjemmel til fast eiendom fra kommunal stiftelse til kommune.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

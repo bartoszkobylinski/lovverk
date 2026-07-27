@@ -15,7 +15,7 @@ xml_hash: "fc108d5df560cb7b12b3bef7d1e8af467ad5b17f28b789b1b2e835e631112c40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Forskriften gjelder for følgende produkter som skal tas i bruk eller gjøres tilgjengelig i EØS-området for sports- og fritidsbruk:fritidsfartøy eller delvis ferdigbygd fritidsfartøy med skroglengde mellom 2,5 og 24 metervannscooter eller delvis ferdigbygd vannscooter med skroglengde under 4 meterkomponenter som omsettes separatframdriftsmotorer til fritidsfartøy og vannscootere.
+(1) Forskriften gjelder for følgende produkter som skal tas i bruk eller gjøres tilgjengelig i EØS-området for sports- og fritidsbruk:
+
+1. fritidsfartøy eller delvis ferdigbygd fritidsfartøy med skroglengde mellom 2,5 og 24 meter
+2. vannscooter eller delvis ferdigbygd vannscooter med skroglengde under 4 meter
+3. komponenter som omsettes separat
+4. framdriftsmotorer til fritidsfartøy og vannscootere.
 
 (2) Forskriften gjelder for fritidsfartøy, vannscootere og fremdriftsmotorer som skal gjennomgå større ombygging.
 
@@ -34,19 +39,68 @@ eu_basis: []
 
 ### § 2. Unntak
 
-(1) Kravene til konstruksjon og produksjon gjelder ikke forfritidsfartøy og vannscootere som utelukkende er beregnet på konkurranse, herunder kapproingsbåter og robåter for trening, og som er merket som konkurransefartøy av produsentenkanoer, kajakker, gondoler og tråbåter som bare drives fram av menneskelig kraftseilbrett som utelukkende er beregnet på framdrift ved hjelp av vinden og betjening av én eller flere stående personersurfebrettforsøksfartøy som ikke blir gjort tilgjengelig eller tatt i bruk i EØS-områdetselvbygget fritidsfartøy eller vannscooter konstruert for eget bruk som ikke skal omsettes i EØS-området før fem år etter at fartøyet er tatt i brukundervannsfartøy, luftputefartøy, hydrofoilfartøydampdrevne fartøy med ekstern forbrenning, som bruker kull, koks, tre, olje eller gass som drivstoffamfibiekjøretøy.
+(1) Kravene til konstruksjon og produksjon gjelder ikke for
 
-(2) Kravene til eksosutslipp og støyutslipp gjelder ikke forframdriftsmotorer som er montert eller er spesielt beregnet til montering påfritidsfartøy eller vannscootere som utelukkende er beregnet på konkurranse og som er merket som konkurransefartøy av produsentenforsøksfartøy, forutsatt at de ikke senere blir brakt i omsetning i EØS-områdetundervannsfartøy, luftputefartøy, hydrofoilfartøyamfibiekjøretøyselvbygget framdriftsmotor, fritidsfartøy eller vannscooter konstruert for eget bruk som ikke bringes i omsetning i EØS-området før fem år etter at den tas i bruk.
+1. fritidsfartøy og vannscootere som utelukkende er beregnet på konkurranse, herunder kapproingsbåter og robåter for trening, og som er merket som konkurransefartøy av produsenten
+2. kanoer, kajakker, gondoler og tråbåter som bare drives fram av menneskelig kraft
+3. seilbrett som utelukkende er beregnet på framdrift ved hjelp av vinden og betjening av én eller flere stående personer
+4. surfebrett
+5. forsøksfartøy som ikke blir gjort tilgjengelig eller tatt i bruk i EØS-området
+6. selvbygget fritidsfartøy eller vannscooter konstruert for eget bruk som ikke skal omsettes i EØS-området før fem år etter at fartøyet er tatt i bruk
+7. undervannsfartøy, luftputefartøy, hydrofoilfartøy
+8. dampdrevne fartøy med ekstern forbrenning, som bruker kull, koks, tre, olje eller gass som drivstoff
+9. amfibiekjøretøy.
 
-(3) Forskriften gjelder ikke fororiginale historiske fritidsfartøy og vannscootere konstruert før 1950, og individuelle kopier av slike fartøy som i hovedsak er konstruert med originalmaterialer og merket som historisk kopi av produsentenoriginale historiske framdriftsmotorer basert på konstruksjon fra før 1950, og individuelle kopier av slike motorer som ikke er serieprodusert, som er montert i fritidsfartøy eller vannscooter nevnt i første ledd bokstav f eller tredje ledd bokstav a.
+(2) Kravene til eksosutslipp og støyutslipp gjelder ikke for
+
+1. framdriftsmotorer som er montert eller er spesielt beregnet til montering på
+
+   1. fritidsfartøy eller vannscootere som utelukkende er beregnet på konkurranse og som er merket som konkurransefartøy av produsenten
+   2. forsøksfartøy, forutsatt at de ikke senere blir brakt i omsetning i EØS-området
+   3. undervannsfartøy, luftputefartøy, hydrofoilfartøy
+   4. amfibiekjøretøy
+2. selvbygget framdriftsmotor, fritidsfartøy eller vannscooter konstruert for eget bruk som ikke bringes i omsetning i EØS-området før fem år etter at den tas i bruk.
+
+(3) Forskriften gjelder ikke for
+
+1. originale historiske fritidsfartøy og vannscootere konstruert før 1950, og individuelle kopier av slike fartøy som i hovedsak er konstruert med originalmaterialer og merket som historisk kopi av produsenten
+2. originale historiske framdriftsmotorer basert på konstruksjon fra før 1950, og individuelle kopier av slike motorer som ikke er serieprodusert, som er montert i fritidsfartøy eller vannscooter nevnt i første ledd bokstav f eller tredje ledd bokstav a.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Bringe i omsetning:* gjøre et produkt tilgjengelig på EØS-markedet for første gang.*Distributør:* enhver fysisk eller juridisk person i forsyningskjeden, utenom produsenten eller importøren, som gjør et produkt tilgjengelig på EØS-markedet.*Fartøy konstruert for personlig bruk:* selvbygget fritidsfartøy eller vannscooter som hovedsakelig er konstruert av den fremtidige bruker til eget bruk.*Framdriftsmiddel:* den metoden som fritidsfartøyet eller vannscooteren drives fram med.*Framdriftsmotor:* enhver forbrenningsmotor med gnisttenning eller kompresjonstenning som brukes direkte eller indirekte til framdriftsformål.*Gjøre tilgjengelig på markedet:* enhver levering mot betaling eller vederlagsfritt, av et produkt for distribusjon, forbruk eller bruk på EØS-markedet i forbindelse med kommersiell virksomhet.,*Importør:* enhver fysisk eller juridisk person etablert i EØS-området som bringer et produkt produsert utenfor EØS-området i omsetning i EØS-området.*Markedsdeltakere:* produsent, representant, importør og distributør.*Motorfamilie:* produsentens gruppering av motorer som gjennom sin konstruksjon har liknende egenskaper med hensyn til eksos- og støyutslipp.*Privat importør:* enhver fysisk eller juridisk person etablert i EØS-området som ved en ikke-kommersiell virksomhet importerer et produkt produsert utenfor EØS-området til EØS-området for eget bruk.*Produsent:* enhver fysisk eller juridisk person som framstiller et produkt eller sørger for at et slikt produkt blir utformet eller framstilt, og som markedsfører dette produktet under eget navn eller varemerke.*Samsvarsvurdering:* prosessen for å fastslå om et produkt oppfyller kravene i forskriften.*Større fartøyombygging:* en ombygging somendrer fritidsfartøyets eller vannscooterens framdriftsmiddelinnebærer en større motorendring, ellerendrer fritidsfartøyet eller vannscooteren i en slik grad at det har innvirkning på relevante grunnleggende sikkerhets- eller miljøkrav i forskriften.*Større motorendring:* endring av en framdriftsmotor som fører til at motoren overskrider grenseverdiene for utslipp angitt i vedlegg 1 del B, eller økning av motorens nominelle effekt med mer enn 15 %.*Skroglengde:* skrogets lengde målt i samsvar med den harmoniserte standarden.*Ta i bruk:* første gang produktet tas i bruk av sluttbrukeren i EØS-området.*Teknisk kontrollorgan:* uavhengig organ som er utpekt iht. [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgave å gjennomføre samsvarsvurderinger, herunder kalibrering, prøving, sertifisering og inspeksjon av produkter som andre har utviklet.*Tilbakekalling:* ethvert tiltak rettet mot å oppnå retur av et produkt som allerede er gjort tilgjengelig for sluttbrukeren.*Tilbaketrekking:* ethvert tiltak rettet mot å hindre at et produkt i forsyningskjeden blir gjort tilgjengelig på markedet.*Vannscooter:* fartøy beregnet til sports- og fritidsbruk med skroglengde under 4 meter, som bruker en framdriftsmotor som har vannjetaggregat som hovedframdriftsmiddel og er beregnet på å brukes av én eller flere personer som sitter, står eller står på kne på skroget.
+I denne forskriften menes med:
+
+1. *Bringe i omsetning:* gjøre et produkt tilgjengelig på EØS-markedet for første gang.
+2. *Distributør:* enhver fysisk eller juridisk person i forsyningskjeden, utenom produsenten eller importøren, som gjør et produkt tilgjengelig på EØS-markedet.
+3. *Fartøy konstruert for personlig bruk:* selvbygget fritidsfartøy eller vannscooter som hovedsakelig er konstruert av den fremtidige bruker til eget bruk.
+4. *Framdriftsmiddel:* den metoden som fritidsfartøyet eller vannscooteren drives fram med.
+5. *Framdriftsmotor:* enhver forbrenningsmotor med gnisttenning eller kompresjonstenning som brukes direkte eller indirekte til framdriftsformål.
+6. *Gjøre tilgjengelig på markedet:* enhver levering mot betaling eller vederlagsfritt, av et produkt for distribusjon, forbruk eller bruk på EØS-markedet i forbindelse med kommersiell virksomhet.,
+7. *Importør:* enhver fysisk eller juridisk person etablert i EØS-området som bringer et produkt produsert utenfor EØS-området i omsetning i EØS-området.
+8. *Markedsdeltakere:* produsent, representant, importør og distributør.
+9. *Motorfamilie:* produsentens gruppering av motorer som gjennom sin konstruksjon har liknende egenskaper med hensyn til eksos- og støyutslipp.
+10. *Privat importør:* enhver fysisk eller juridisk person etablert i EØS-området som ved en ikke-kommersiell virksomhet importerer et produkt produsert utenfor EØS-området til EØS-området for eget bruk.
+11. *Produsent:* enhver fysisk eller juridisk person som framstiller et produkt eller sørger for at et slikt produkt blir utformet eller framstilt, og som markedsfører dette produktet under eget navn eller varemerke.
+12. *Samsvarsvurdering:* prosessen for å fastslå om et produkt oppfyller kravene i forskriften.
+13. *Større fartøyombygging:* en ombygging som
+
+    1. endrer fritidsfartøyets eller vannscooterens framdriftsmiddel
+    2. innebærer en større motorendring, eller
+    3. endrer fritidsfartøyet eller vannscooteren i en slik grad at det har innvirkning på relevante grunnleggende sikkerhets- eller miljøkrav i forskriften.
+14. *Større motorendring:* endring av en framdriftsmotor som fører til at motoren overskrider grenseverdiene for utslipp angitt i vedlegg 1 del B, eller økning av motorens nominelle effekt med mer enn 15 %.
+15. *Skroglengde:* skrogets lengde målt i samsvar med den harmoniserte standarden.
+16. *Ta i bruk:* første gang produktet tas i bruk av sluttbrukeren i EØS-området.
+17. *Teknisk kontrollorgan:* uavhengig organ som er utpekt iht. [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgave å gjennomføre samsvarsvurderinger, herunder kalibrering, prøving, sertifisering og inspeksjon av produkter som andre har utviklet.
+18. *Tilbakekalling:* ethvert tiltak rettet mot å oppnå retur av et produkt som allerede er gjort tilgjengelig for sluttbrukeren.
+19. *Tilbaketrekking:* ethvert tiltak rettet mot å hindre at et produkt i forsyningskjeden blir gjort tilgjengelig på markedet.
+20. *Vannscooter:* fartøy beregnet til sports- og fritidsbruk med skroglengde under 4 meter, som bruker en framdriftsmotor som har vannjetaggregat som hovedframdriftsmiddel og er beregnet på å brukes av én eller flere personer som sitter, står eller står på kne på skroget.
 
 ### § 4. Grunnleggende krav og samsvar
 
-(1) Produktene nevnt i [§ 1](forskrift/2016-01-15-35/§1) kan bare gjøres tilgjengelig eller tas i bruk dersomde ikke utgjør noen fare for menneskers helse og sikkerhet, for eiendom eller for miljøet dersom de vedlikeholdes korrekt og brukes i samsvar med sitt tilsiktede formålde oppfyller de gjeldende grunnleggende kravene som fremgår av vedlegg 1.
+(1) Produktene nevnt i [§ 1](forskrift/2016-01-15-35/§1) kan bare gjøres tilgjengelig eller tas i bruk dersom
+
+1. de ikke utgjør noen fare for menneskers helse og sikkerhet, for eiendom eller for miljøet dersom de vedlikeholdes korrekt og brukes i samsvar med sitt tilsiktede formål
+2. de oppfyller de gjeldende grunnleggende kravene som fremgår av vedlegg 1.
 
 (2) Kravene i første ledd anses oppfylt når produktet er i samsvar med nasjonal standard som gjennomfører harmoniserte standard.
 
@@ -60,7 +114,10 @@ I denne forskriften menes med:*Bringe i omsetning:* gjøre et produkt tilgjengel
 
 (4) Framdriftsmotorer, uavhengig av om de er installert eller ikke, som er CE-merket i samsvar med kravene i denne forskriften kan gjøres tilgjengelig på markedet eller tas i bruk i EØS-området i samsvar med erklæringen som er nevnt i [§ 8](forskrift/2016-01-15-35/§8).
 
-(5) Følgende framdriftsmotorer kan gjøres tilgjengelig på markedet eller tas i bruk:motorer installert i fritidsfartøy eller vannscooter som er typegodkjent i samsvar med [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, og som oppfyller grenseverdiene i trinn III A, trinn III B eller trinn IV for utslipp fra motorer med kompresjonstenning som brukes til andre formål enn framdrift av fartøy for fart på innlands vannveier, lokomotiver og skinnegående motorvogner. Installert motor må være i samsvar med denne forskriften, unntatt kravene til eksosutslipp angitt i vedlegg 1 del B,motorer installert i fritidsfartøy eller vannscooter som er typegodkjent i samsvar med [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften). Installert motor må være i samsvar med denne forskriften, unntatt kravene til eksosutslipp angitt i vedlegg 1 del B.
+(5) Følgende framdriftsmotorer kan gjøres tilgjengelig på markedet eller tas i bruk:
+
+1. motorer installert i fritidsfartøy eller vannscooter som er typegodkjent i samsvar med [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, og som oppfyller grenseverdiene i trinn III A, trinn III B eller trinn IV for utslipp fra motorer med kompresjonstenning som brukes til andre formål enn framdrift av fartøy for fart på innlands vannveier, lokomotiver og skinnegående motorvogner. Installert motor må være i samsvar med denne forskriften, unntatt kravene til eksosutslipp angitt i vedlegg 1 del B,
+2. motorer installert i fritidsfartøy eller vannscooter som er typegodkjent i samsvar med [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften). Installert motor må være i samsvar med denne forskriften, unntatt kravene til eksosutslipp angitt i vedlegg 1 del B.
 
 (6) Den som tilpasser motor nevnt i femte ledd for installering i fritidsfartøy eller vannscooter skal ta hensyn til dataene og andre opplysninger som er tilgjengelig fra motorprodusenten for å sikre at motoren oppfyller kravene til eksosutslipp i [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner eller kjøretøyforskriften som erklært av motorprodusenten når motoren er installert i samsvar med monteringsanvisningene fra den som tilpasser motoren. Den som tilpasser motoren skal, som nevnt i § 8, erklære at motoren når den er installert i samsvar med monteringsanvisningene fortsatt oppfyller kravene til eksosutslipp i [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner eller kjøretøyforskriften som erklært av motorprodusenten.
 
@@ -94,7 +151,11 @@ Produkter som ikke oppfyller kravene til CE-merking i forskriften kan vises fram
 
 (3) Ved utarbeidelse av EU-samsvarserklæringen tar produsenten, den private importøren eller den personen som tilpasser motoren nevnt i [§ 5](forskrift/2016-01-15-35/§5) femte ledd, ansvar for at produktet er i samsvar med forskriften.
 
-(4) EU-samsvarserklæringen nevnt i tredje ledd, skal ledsage følgende produkter når de gjøres tilgjengelig på markedet eller tas i bruk:fritidsfartøy eller vannscootere,komponenter som bringes i omsetning separat,framdriftsmotorer.
+(4) EU-samsvarserklæringen nevnt i tredje ledd, skal ledsage følgende produkter når de gjøres tilgjengelig på markedet eller tas i bruk:
+
+1. fritidsfartøy eller vannscootere,
+2. komponenter som bringes i omsetning separat,
+3. framdriftsmotorer.
 
 (5) Erklæringen fra produsenten eller importøren angitt i vedlegg 3 for delvis ferdigbygde fritidsfartøy eller vannscootere, skal inneholde elementene angitt i dette vedlegget og skal ledsage delvis ferdigbygde fritidsfartøy eller vannscootere. Erklæringen skal være på norsk eller dersom det ikke kan misforstås på svensk eller dansk.
 
@@ -112,7 +173,10 @@ Produkter som ikke oppfyller kravene til CE-merking i forskriften kan vises fram
 
 (5) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas hensyn til endringer i produktets konstruksjon eller egenskaper samt endringer i de harmoniserte standardene det er vist til i samsvarserklæringen for produktet.
 
-(6) For å verne forbrukernes helse og sikkerhet skal produsenten når det anses hensiktsmessig med hensyn til den risikoen som er forbundet med et produktta stikkprøver av produkter som er gjort tilgjengelige på markedetundersøke og om nødvendig føre et register over klager, produkter som ikke oppfyller kravene, og tilbakekallinger av produkter, samt holde distributører underrettet om all slik overvåking.
+(6) For å verne forbrukernes helse og sikkerhet skal produsenten når det anses hensiktsmessig med hensyn til den risikoen som er forbundet med et produkt
+
+1. ta stikkprøver av produkter som er gjort tilgjengelige på markedet
+2. undersøke og om nødvendig føre et register over klager, produkter som ikke oppfyller kravene, og tilbakekallinger av produkter, samt holde distributører underrettet om all slik overvåking.
 
 (7) Produsenten skal sikre at produktet har et type-, parti- eller serienummer eller et annet element som gjør det mulig å identifisere. Dersom komponentens størrelse eller art ikke tillater slik identifisering skal nødvendige opplysninger gis på emballasjen eller i et dokument som følger med produktet.
 
@@ -132,13 +196,23 @@ Produkter som ikke oppfyller kravene til CE-merking i forskriften kan vises fram
 
 (2) Forpliktelsene fastsatt i [§ 9](forskrift/2016-01-15-35/§9) første ledd og utarbeidingen av teknisk dokumentasjon skal ikke utgjøre en del av representantens fullmakt.
 
-(3) En representant skal utføre de oppgavene som er angitt i fullmakten fra produsenten. Fullmakten skal minst gi representanten mulighet til å:ha en kopi av erklæringen som nevnt i [§ 8](forskrift/2016-01-15-35/§8), og den tekniske dokumentasjonen til rådighet for markedstilsynsmyndighetene i ti år etter at produktet er brakt i omsetningpå begrunnet anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å bevise et produkts samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene samarbeide om alle tiltak som er truffet for å fjerne risikoene forbundet med produkter som omfattes av fullmakten.
+(3) En representant skal utføre de oppgavene som er angitt i fullmakten fra produsenten. Fullmakten skal minst gi representanten mulighet til å:
+
+1. ha en kopi av erklæringen som nevnt i [§ 8](forskrift/2016-01-15-35/§8), og den tekniske dokumentasjonen til rådighet for markedstilsynsmyndighetene i ti år etter at produktet er brakt i omsetning
+2. på begrunnet anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å bevise et produkts samsvar med forskriften
+3. på anmodning fra markedstilsynsmyndighetene samarbeide om alle tiltak som er truffet for å fjerne risikoene forbundet med produkter som omfattes av fullmakten.
 
 ### § 11. Importørens forpliktelser
 
 (1) Importøren skal bare bringe produkter i omsetning i EØS-området som er i samsvar med forskriften.
 
-(2) Før et produkt bringes i omsetning skal importøren sikre atprodusenten har gjennomført relevant framgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjonprodukter som nevnt i [§ 7](forskrift/2016-01-15-35/§7) (1) er påført CE-merkingproduktet ledsages av dokumentene som kreves i samsvar med [§ 8](forskrift/2016-01-15-35/§8) og vedlegg 1 del A nr. 2.5, del B nr. 4, og del C nr. 2produsenten har oppfylt kravene angitt i [§ 9](forskrift/2016-01-15-35/§9) sjuende og åttende ledd.
+(2) Før et produkt bringes i omsetning skal importøren sikre at
+
+1. produsenten har gjennomført relevant framgangsmåte for samsvarsvurdering
+2. produsenten har utarbeidet teknisk dokumentasjon
+3. produkter som nevnt i [§ 7](forskrift/2016-01-15-35/§7) (1) er påført CE-merking
+4. produktet ledsages av dokumentene som kreves i samsvar med [§ 8](forskrift/2016-01-15-35/§8) og vedlegg 1 del A nr. 2.5, del B nr. 4, og del C nr. 2
+5. produsenten har oppfylt kravene angitt i [§ 9](forskrift/2016-01-15-35/§9) sjuende og åttende ledd.
 
 (3) Dersom importøren har grunn til å tro at et produkt ikke oppfyller kravene i forskriften, skal denne ikke bringe produktet i omsetning før det er brakt i samsvar med forskriften. Dersom produktet utgjør en risiko, skal importøren underrette produsenten og markedstilsynsmyndighetene.
 
@@ -148,7 +222,10 @@ Produkter som ikke oppfyller kravene til CE-merking i forskriften kan vises fram
 
 (6) Når importøren har ansvar for produktet skal det sikres at lagrings- eller transportforhold ikke setter produktets samsvar med kravene i forskriften i fare.
 
-(7) For å verne forbrukernes helse og sikkerhet skal importøreren når det anses hensiktsmessig med hensyn til den risikoen som er forbundet med et produktta stikkprøver av produkter som er gjort tilgjengelige på markedetundersøke og om nødvendig føre et register over klager, produkter som ikke oppfyller kravene, og tilbakekallinger av produkter, samt holde distributører underrettet om slik overvåking.
+(7) For å verne forbrukernes helse og sikkerhet skal importøreren når det anses hensiktsmessig med hensyn til den risikoen som er forbundet med et produkt
+
+1. ta stikkprøver av produkter som er gjort tilgjengelige på markedet
+2. undersøke og om nødvendig føre et register over klager, produkter som ikke oppfyller kravene, og tilbakekallinger av produkter, samt holde distributører underrettet om slik overvåking.
 
 (8) Importør som har grunn til å tro at et produkt som de har brakt i omsetning ikke er i samsvar med forskriften, skal straks gjøre nødvendige korrigerende tiltak for å bringe produktet i samsvar med forskriften eller om nødvendig trekke tilbake eller tilbakekalle produktet.
 
@@ -162,7 +239,11 @@ Produkter som ikke oppfyller kravene til CE-merking i forskriften kan vises fram
 
 (1) Når distributøren gjør et produkt tilgjengelig på markedet, skal de utvise behørig aktsomhet med hensyn til kravene i forskriften.
 
-(2) Før et produkt gjøres tilgjengelig på markedet skal distributøren kontrollere atproduktet er påført korrekt CE-merking i henhold til [§ 7](forskrift/2016-01-15-35/§7)produktet følges av de dokumentene som kreves i [§ 8](forskrift/2016-01-15-35/§8) og [§ 9](forskrift/2016-01-15-35/§9) niende ledd, jf. vedlegg 1, del A nr. 2.5, del B nr. 4 og del C nr. 2produsenten og importøren har oppfylt kravene i [§ 9](forskrift/2016-01-15-35/§9) sjuende og åttende ledd og [§ 11](forskrift/2016-01-15-35/§11) fjerde ledd.
+(2) Før et produkt gjøres tilgjengelig på markedet skal distributøren kontrollere at
+
+1. produktet er påført korrekt CE-merking i henhold til [§ 7](forskrift/2016-01-15-35/§7)
+2. produktet følges av de dokumentene som kreves i [§ 8](forskrift/2016-01-15-35/§8) og [§ 9](forskrift/2016-01-15-35/§9) niende ledd, jf. vedlegg 1, del A nr. 2.5, del B nr. 4 og del C nr. 2
+3. produsenten og importøren har oppfylt kravene i [§ 9](forskrift/2016-01-15-35/§9) sjuende og åttende ledd og [§ 11](forskrift/2016-01-15-35/§11) fjerde ledd.
 
 (3) Dersom distributøren har grunn til å tro at et produkt ikke oppfyller kravene i forskriften, skal produktet ikke gjøres tilgjengelig på markedet før det er brakt i samsvar med forskriften. Dersom produktet utgjør en risiko, skal distributøren underrette produsenten eller importøren samt markedstilsynsmyndighetene.
 
@@ -188,7 +269,10 @@ En importør eller distributør skal anses som produsent og skal være underlagt
 
 ### § 15. Identifikasjon av produsenten, representanten, importøren og distributøren
 
-(1) Produsenten, representanten, importøren og distributøren skal på anmodning opplyse følgende for markedstilsynsmyndighetene:alle markedsdeltakere som har levert et produkt nevnt i [§ 1](forskrift/2016-01-15-35/§1) til dem,alle markedsdeltakere som de har levert et produkt til.
+(1) Produsenten, representanten, importøren og distributøren skal på anmodning opplyse følgende for markedstilsynsmyndighetene:
+
+1. alle markedsdeltakere som har levert et produkt nevnt i [§ 1](forskrift/2016-01-15-35/§1) til dem,
+2. alle markedsdeltakere som de har levert et produkt til.
 
 (2) Markedsdeltakerne skal kunne framlegge opplysningene nevnt i første ledd, i et tidsrom på ti år etter at de har fått levert produktet, og et tidsrom på ti år etter at de har levert produktet.
 
@@ -212,19 +296,58 @@ En importør eller distributør skal anses som produsent og skal være underlagt
 
 (1) For konstruksjon og produksjon av fritidsfartøy skal en av følgende moduler benyttes:
 
-(2) For konstruksjon og produksjon av vannscootere benyttes en av følgende moduler:modul A (intern produksjonskontroll),modul A1 (intern produksjonskontroll og overvåket produktprøving),modul B (EU-typeprøving) sammen med modul C, D, E eller F,modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring).
+(2) For konstruksjon og produksjon av vannscootere benyttes en av følgende moduler:
 
-(3) For konstruksjon og produksjon av komponenter benyttes en av følgende moduler:modul B (EU-typeprøving) sammen med modul C, D, E eller F,modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring).
+1. modul A (intern produksjonskontroll),
+2. modul A1 (intern produksjonskontroll og overvåket produktprøving),
+3. modul B (EU-typeprøving) sammen med modul C, D, E eller F,
+4. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+5. modul H (samsvar på grunnlag av full kvalitetssikring).
+
+(3) For konstruksjon og produksjon av komponenter benyttes en av følgende moduler:
+
+1. modul B (EU-typeprøving) sammen med modul C, D, E eller F,
+2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+3. modul H (samsvar på grunnlag av full kvalitetssikring).
 
 ### § 18. Eksosutslipp
 
-For eksosutslipp for motorer nevnt i [§ 1](forskrift/2016-01-15-35/§1) første ledd bokstav d og [§ 1](forskrift/2016-01-15-35/§1) andre ledd, skal motorprodusenten anvende følgende framgangsmåter:dersom prøvingene foretas ved bruk av den harmoniserte standarden benyttes en av følgende moduler:modul B (EU-typeprøving) sammen med modul C, D, E eller F,modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring),dersom prøvingene foretas uten bruk av den harmoniserte standarden benyttes en av følgende moduler:modul B (EU-typeprøving) sammen med modul C1,modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).
+For eksosutslipp for motorer nevnt i [§ 1](forskrift/2016-01-15-35/§1) første ledd bokstav d og [§ 1](forskrift/2016-01-15-35/§1) andre ledd, skal motorprodusenten anvende følgende framgangsmåter:
+
+1. dersom prøvingene foretas ved bruk av den harmoniserte standarden benyttes en av følgende moduler:
+
+   1. modul B (EU-typeprøving) sammen med modul C, D, E eller F,
+   2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+   3. modul H (samsvar på grunnlag av full kvalitetssikring),
+2. dersom prøvingene foretas uten bruk av den harmoniserte standarden benyttes en av følgende moduler:
+
+   1. modul B (EU-typeprøving) sammen med modul C1,
+   2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).
 
 ### § 19. Støyutslipp
 
-(1) For støyutslipp for fritidsfartøy med hekkaggregat til framdrift uten integrert eksosanlegg eller innenbords framdriftsmotorer, og for fritidsfartøy med hekkaggregat til framdrift uten integrert eksosanlegg eller med innenbords framdriftsmotorer som gjennomgår en større fartøyombygging og deretter bringes i omsetning i løpet av fem år etter ombyggingen, skal produsenten benytte følgende framgangsmåter:dersom prøvingene foretas ved bruk av den harmoniserte standarden for støymåling, en av følgende moduler:modul A1 (intern produksjonskontroll og overvåket produktprøving),modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring).dersom prøvingene foretas uten bruk av den harmoniserte standarden for støymåling benyttes modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).dersom Froude-tallet og effekt/deplasement-forholdet brukes ved vurdering benyttes en av følgende moduler:modul A (intern produksjonskontroll),modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring).
+(1) For støyutslipp for fritidsfartøy med hekkaggregat til framdrift uten integrert eksosanlegg eller innenbords framdriftsmotorer, og for fritidsfartøy med hekkaggregat til framdrift uten integrert eksosanlegg eller med innenbords framdriftsmotorer som gjennomgår en større fartøyombygging og deretter bringes i omsetning i løpet av fem år etter ombyggingen, skal produsenten benytte følgende framgangsmåter:
 
-(2) For støyutslipp for vannscootere og utenbords framdriftsmotorer og hekkaggregater til framdrift med integrert eksosanlegg beregnet på montering på fritidsfartøy, skal produsenten av vannscooteren eller motoren benytte følgende framgangsmåter:dersom prøvingene foretas ved bruk av den harmoniserte standarden for støymåling benyttes en av følgende moduler:modul A1 (intern produksjonskontroll og overvåket produktprøving),modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),modul H (samsvar på grunnlag av full kvalitetssikring).dersom prøvingene foretas uten bruk av den harmoniserte standarden for støymåling benyttes modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).
+1. dersom prøvingene foretas ved bruk av den harmoniserte standarden for støymåling, en av følgende moduler:
+
+   1. modul A1 (intern produksjonskontroll og overvåket produktprøving),
+   2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+   3. modul H (samsvar på grunnlag av full kvalitetssikring).
+2. dersom prøvingene foretas uten bruk av den harmoniserte standarden for støymåling benyttes modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).
+3. dersom Froude-tallet og effekt/deplasement-forholdet brukes ved vurdering benyttes en av følgende moduler:
+
+   1. modul A (intern produksjonskontroll),
+   2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+   3. modul H (samsvar på grunnlag av full kvalitetssikring).
+
+(2) For støyutslipp for vannscootere og utenbords framdriftsmotorer og hekkaggregater til framdrift med integrert eksosanlegg beregnet på montering på fritidsfartøy, skal produsenten av vannscooteren eller motoren benytte følgende framgangsmåter:
+
+1. dersom prøvingene foretas ved bruk av den harmoniserte standarden for støymåling benyttes en av følgende moduler:
+
+   1. modul A1 (intern produksjonskontroll og overvåket produktprøving),
+   2. modul G (samsvar på grunnlag av verifisering av enkelteksemplarer),
+   3. modul H (samsvar på grunnlag av full kvalitetssikring).
+2. dersom prøvingene foretas uten bruk av den harmoniserte standarden for støymåling benyttes modul G (samsvar på grunnlag av verifisering av enkelteksemplarer).
 
 ### § 20. Vurdering av ferdigbygd produkt
 
@@ -232,7 +355,10 @@ Vurderingen av ferdigbygd produkt nevnt i [§ 16](forskrift/2016-01-15-35/§16) 
 
 ### § 21. Tilleggskrav ved samsvarsvurdering
 
-(1) En produksjonstype nevnt i modul B, kan omfatte flere versjoner av produktet, forutsatt at:forskjellene mellom versjonene ikke påvirker sikkerhetsnivået og de andre kravene som gjelder produktets ytelse, ogversjonene av produktet er nevnt i det tilsvarende EF-typeprøvingssertifikatet, om nødvendig gjennom endringer av det opprinnelige sertifikatet.
+(1) En produksjonstype nevnt i modul B, kan omfatte flere versjoner av produktet, forutsatt at:
+
+1. forskjellene mellom versjonene ikke påvirker sikkerhetsnivået og de andre kravene som gjelder produktets ytelse, og
+2. versjonene av produktet er nevnt i det tilsvarende EF-typeprøvingssertifikatet, om nødvendig gjennom endringer av det opprinnelige sertifikatet.
 
 (2) Dersom modul A1 er brukt, skal produktkontrollene utføres på ett eller flere fritidsfartøy eller vannscootere som representerer produsentens produksjon, og tilleggskravene angitt i vedlegg 7 gjelder.
 
@@ -264,11 +390,21 @@ Vurderingen av ferdigbygd produkt nevnt i [§ 16](forskrift/2016-01-15-35/§16) 
 
 (7) Et teknisk kontrollorgan skal kunne utføre alle de samsvarsvurderingsoppgavene som er tillagt organet i henhold til [§ 16](forskrift/2016-01-15-35/§16) til [§ 21](forskrift/2016-01-15-35/§21), og som det er utpekt for, uansett om disse oppgavene blir utført av teknisk kontrollorgan selv eller på dets vegne og under dets ansvar.
 
-(8) Teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av produkter som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavenebeskrivelser av framgangsmåter for samsvarsvurderingen som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede prinsipper og framgangsmåter for å skille mellom oppgaver det utfører som et teknisk kontrollorgan, og annen virksomhetprosedyrer for utøvelsen av virksomheten som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle produktets teknologi er, samt produksjonsprosessens masse- eller seriepreg.
+(8) Teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av produkter som det er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavene
+2. beskrivelser av framgangsmåter for samsvarsvurderingen som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede prinsipper og framgangsmåter for å skille mellom oppgaver det utfører som et teknisk kontrollorgan, og annen virksomhet
+4. prosedyrer for utøvelsen av virksomheten som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle produktets teknologi er, samt produksjonsprosessens masse- eller seriepreg.
 
 (9) Det skal ha de nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr eller alle nødvendige anlegg.
 
-(10) Personalet med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som det tekniske kontrollorganet er utpekt fortilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og den nødvendige myndighet til å utføre disse vurderingenetilfredsstillende kunnskap om og forståelse av de grunnleggende kravene, de gjeldende harmoniserte standardene, EØS sitt relevante harmoniseringsregelverk og relevant nasjonal lovgivningde nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(10) Personalet med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som det tekniske kontrollorganet er utpekt for
+2. tilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og den nødvendige myndighet til å utføre disse vurderingene
+3. tilfredsstillende kunnskap om og forståelse av de grunnleggende kravene, de gjeldende harmoniserte standardene, EØS sitt relevante harmoniseringsregelverk og relevant nasjonal lovgivning
+4. de nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (11) Det skal sikres at teknisk kontrollorgan, deres øverste ledelse og vurderingspersonalet er upartisk.
 
@@ -322,7 +458,12 @@ Dersom et teknisk kontrollorgan dokumenterer at det oppfyller kriteriene fastsat
 
 ### § 29. Teknisk kontrollorgans opplysningsplikt
 
-(1) Teknisk kontrollorgan skal underrette myndigheten som utpeker tekniske kontrollorgan omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av og vilkårene for utpeking,alle anmodninger de har mottatt fra markedstilsynsmyndighetene vedrørende opplysninger om samsvarsvurderingsvirksomhet,på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen, og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene.
+(1) Teknisk kontrollorgan skal underrette myndigheten som utpeker tekniske kontrollorgan om
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake
+2. alle omstendigheter som påvirker omfanget av og vilkårene for utpeking,
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene vedrørende opplysninger om samsvarsvurderingsvirksomhet,
+4. på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen, og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene.
 
 (2) Teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet som omfatter de samme produktene, relevante opplysninger om spørsmål som gjelder negative og, på anmodning, positive resultater av samsvarsvurderingen.
 
@@ -358,7 +499,14 @@ Dersom et teknisk kontrollorgan dokumenterer at det oppfyller kriteriene fastsat
 
 ### § 32. Formelt manglende samsvar
 
-(1) Sjøfartsdirektoratet skal pålegge markedsdeltaker eller privat importør å rette manglende samsvar med forskriften dersom:CE-merkingen er påført i strid med [§ 7](forskrift/2016-01-15-35/§7)CE-merkingen, som nevnt i [§ 7](forskrift/2016-01-15-35/§7), ikke er påførtEU-samsvarserklæringen eller erklæringen nevnt i vedlegg 3, ikke er utarbeidet eller ikke er utarbeidet riktigtekniske dokumentasjon enten ikke er tilgjengelig eller ikke er fullstendiginformasjonen angitt i [§ 9](forskrift/2016-01-15-35/§9) (8) eller [§ 11](forskrift/2016-01-15-35/§11) (4), mangler, er uriktig eller ufullstendig,andre krav fastsatt i [§ 9](forskrift/2016-01-15-35/§9) eller [§ 11](forskrift/2016-01-15-35/§11) ikke er oppfylt.
+(1) Sjøfartsdirektoratet skal pålegge markedsdeltaker eller privat importør å rette manglende samsvar med forskriften dersom:
+
+1. CE-merkingen er påført i strid med [§ 7](forskrift/2016-01-15-35/§7)
+2. CE-merkingen, som nevnt i [§ 7](forskrift/2016-01-15-35/§7), ikke er påført
+3. EU-samsvarserklæringen eller erklæringen nevnt i vedlegg 3, ikke er utarbeidet eller ikke er utarbeidet riktig
+4. tekniske dokumentasjon enten ikke er tilgjengelig eller ikke er fullstendig
+5. informasjonen angitt i [§ 9](forskrift/2016-01-15-35/§9) (8) eller [§ 11](forskrift/2016-01-15-35/§11) (4), mangler, er uriktig eller ufullstendig,
+6. andre krav fastsatt i [§ 9](forskrift/2016-01-15-35/§9) eller [§ 11](forskrift/2016-01-15-35/§11) ikke er oppfylt.
 
 (2) Dersom manglende samsvar nevnt i første ledd vedvarer skal Sjøfartsdirektoratet treffe alle hensiktsmessige tiltak for å forby eller begrense tilgjengeligheten, trekke tilbake eller tilbakekalle produktet. For produkt importert av privat importør til eget bruk skal bruken av produktet forbys eller begrenses.
 
@@ -380,7 +528,10 @@ Ved overtredelse av vedtak truffet i medhold av denne forskriften, kommer bestem
 
 (2) Fra samme dato oppheves [forskrift 20. desember 2004 nr. 1820](forskrift/2004-12-20-1820) om produksjon og omsetning av fritidsfartøy mv.
 
-(3) Følgende produkter kan gjøres tilgjengelige eller tas i bruk innenfor følgende frister når produktene er i overensstemmelse med de bestemmelsene som var i kraft 17. januar 2016, selv om kravene i gjeldende forskrift ikke er oppfylt:produkter omhandlet i [§ 1](forskrift/2016-01-15-35/§1), til og med 17. januar 2017,utenbords framdriftsmotorer med gnisttenning med en effekt på høyst 15 kW, som oppfyller grenseverdiene til trinn I for eksosutslipp fastsatt i vedlegg 1 del B nr. 2.1, og som ble produsert av små og mellomstore bedrifter som definert i kommisjonsrekommandasjon [2003/361/EF](eu/32003h0361), til og med 17. januar 2020.
+(3) Følgende produkter kan gjøres tilgjengelige eller tas i bruk innenfor følgende frister når produktene er i overensstemmelse med de bestemmelsene som var i kraft 17. januar 2016, selv om kravene i gjeldende forskrift ikke er oppfylt:
+
+1. produkter omhandlet i [§ 1](forskrift/2016-01-15-35/§1), til og med 17. januar 2017,
+2. utenbords framdriftsmotorer med gnisttenning med en effekt på høyst 15 kW, som oppfyller grenseverdiene til trinn I for eksosutslipp fastsatt i vedlegg 1 del B nr. 2.1, og som ble produsert av små og mellomstore bedrifter som definert i kommisjonsrekommandasjon [2003/361/EF](eu/32003h0361), til og med 17. januar 2020.
 
 ## Vedlegg 1. Grunnleggende krav
 
@@ -412,13 +563,25 @@ Fritidsfartøy eller vannscootere i hver konstruksjonskategori skal konstrueres 
 
 EØS-avtalen vedlegg II kapittel XXXI punkt 3 (forordning [(EU) 2017/1](eu/32017r0001)) om prosedyrer for identifikasjon av vannscootere og fritidsfartøy i henhold til direktiv [2013/53/EU](eu/32013l0053*) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-Et fartøys identifikasjonsnummer (WIN) skal inneholde følgende elementer, i denne rekkefølgen:produsentens landkode, som angir hvor produsenten er etablert,den entydige produsentkoden som tildeles av en medlemsstats nasjonale myndighet; imidlertid kan samme tegnkombinasjon, som utgjør en entydig produsentkode og er generert av en nasjonal myndighet eller et nasjonalt organ i én medlemsstat, også genereres av en nasjonal myndighet eller et nasjonalt organ i en annen medlemsstat, med en betydningsskillende del som er produsentens landkode,et entydig serienummer som tildeles av produsenten til identifikasjon av fartøyet, og som bare benyttes én gang av denne produsenten; imidlertid kan samme tegnkombinasjon også benyttes av en annen produsent, med en betydningsskillende del som er kombinasjonen av den entydige produsentkoden og produsentens landkode,produksjonsmåned og produksjonsår,årsmodell, tilsvarende det år fartøyet skal bringes i omsetning.
+Et fartøys identifikasjonsnummer (WIN) skal inneholde følgende elementer, i denne rekkefølgen:
+
+1. produsentens landkode, som angir hvor produsenten er etablert,
+2. den entydige produsentkoden som tildeles av en medlemsstats nasjonale myndighet; imidlertid kan samme tegnkombinasjon, som utgjør en entydig produsentkode og er generert av en nasjonal myndighet eller et nasjonalt organ i én medlemsstat, også genereres av en nasjonal myndighet eller et nasjonalt organ i en annen medlemsstat, med en betydningsskillende del som er produsentens landkode,
+3. et entydig serienummer som tildeles av produsenten til identifikasjon av fartøyet, og som bare benyttes én gang av denne produsenten; imidlertid kan samme tegnkombinasjon også benyttes av en annen produsent, med en betydningsskillende del som er kombinasjonen av den entydige produsentkoden og produsentens landkode,
+4. produksjonsmåned og produksjonsår,
+5. årsmodell, tilsvarende det år fartøyet skal bringes i omsetning.
 
 Detaljerte krav til identifikasjonsnummeret er angitt i den relevante harmoniserte standarden.
 
 2.2*Produsentskilt*
 
-Fritidsfartøy og vannscootere skal ha et permanent festet skilt som er montert atskilt fra fartøyets identifikasjonsnummer, og som skal inneholde minst følgende opplysninger:produsentens navn, firma eller registrerte varemerke, samt kontaktadresse,CE-merking, som fastsatt i [§ 7](forskrift/2016-01-15-35/§7),konstruksjonskategori for fartøyet i samsvar med nr. 1,produsentens største anbefalte last i henhold til nr. 3.6, eksklusiv vekten av innholdet i fastmonterte tanker når disse er fulle,antall personer som produsenten har anbefalt at fartøyet er konstruert for.
+Fritidsfartøy og vannscootere skal ha et permanent festet skilt som er montert atskilt fra fartøyets identifikasjonsnummer, og som skal inneholde minst følgende opplysninger:
+
+1. produsentens navn, firma eller registrerte varemerke, samt kontaktadresse,
+2. CE-merking, som fastsatt i [§ 7](forskrift/2016-01-15-35/§7),
+3. konstruksjonskategori for fartøyet i samsvar med nr. 1,
+4. produsentens største anbefalte last i henhold til nr. 3.6, eksklusiv vekten av innholdet i fastmonterte tanker når disse er fulle,
+5. antall personer som produsenten har anbefalt at fartøyet er konstruert for.
 
 Ved vurdering av ferdigbygd produkt, skal kontaktopplysningene og kravene nevnt i bokstav a, omfatte opplysningene for det tekniske kontrollorgan som har utført samsvarsvurderingen.
 
@@ -462,7 +625,11 @@ Skroggjennomføringer som er konstruert for å la vannet passere inn i eller ut 
 
 Alle fritidsfartøy og vannscootere skal være konstruert slik at risikoen for å synke er så liten som mulig.
 
-Der det er relevant, skal det legges særlig vekt på:førerrom og brønner, som skal være selvdrenerende eller være utstyrt slik at vannet holdes ute av fartøyet på annen måte,ventilasjonsinnretninger,lensing av vann med pumper eller annet utstyr.
+Der det er relevant, skal det legges særlig vekt på:
+
+1. førerrom og brønner, som skal være selvdrenerende eller være utstyrt slik at vannet holdes ute av fartøyet på annen måte,
+2. ventilasjonsinnretninger,
+3. lensing av vann med pumper eller annet utstyr.
 
 3.6.*Største last anbefalt av produsenten*
 
@@ -508,7 +675,10 @@ Med mindre motoren er beskyttet av et deksel eller sitt eget rom, skal utsatte b
 
 5.1.4.*Start av utenbords framdriftsmotor*
 
-Alle utenbords framdriftsmotorer som er montert på fritidsfartøy eller vannscootere, skal ha en innretning som hindrer at motoren starter i gir, unntatt:dersom motoren produserer en statisk drivkraft på mindre enn 500 newton (N),dersom motoren er utstyrt med en innretning som begrenser drivkraften til 500 N ved start av motoren.
+Alle utenbords framdriftsmotorer som er montert på fritidsfartøy eller vannscootere, skal ha en innretning som hindrer at motoren starter i gir, unntatt:
+
+1. dersom motoren produserer en statisk drivkraft på mindre enn 500 newton (N),
+2. dersom motoren er utstyrt med en innretning som begrenser drivkraften til 500 N ved start av motoren.
 
 5.1.5.*Vannscooter i fart uten fører*
 
@@ -530,7 +700,10 @@ Drivstofftanker, -ledninger og -slanger skal være sikret og atskilt eller skjer
 
 Alle rom for bensintanker skal være ventilert.
 
-Bensintanker skal ikke utgjøre en del av skroget og skal være:skjermet mot brann i motoren og alle andre tennkilder,atskilt fra oppholdsrom.
+Bensintanker skal ikke utgjøre en del av skroget og skal være:
+
+1. skjermet mot brann i motoren og alle andre tennkilder,
+2. atskilt fra oppholdsrom.
 
 Dieseltanker kan utgjøre en del av skroget.
 
@@ -598,7 +771,12 @@ Framdriftsmotorer skal oppfylle de grunnleggende kravene til eksosutslipp angitt
 
 1.1
 
-Hver motor skal være tydelig merket med følgende opplysninger:motorprodusentens navn, firma eller registrerte varemerke og kontaktadresse, og dersom relevant, navnet og kontaktadressen til vedkommende som tilpasser motoren,motortype, og dersom relevant motorfamilie,motorens entydige serienummer,CE-merking, som fastsatt i [§ 7](forskrift/2016-01-15-35/§7).
+Hver motor skal være tydelig merket med følgende opplysninger:
+
+1. motorprodusentens navn, firma eller registrerte varemerke og kontaktadresse, og dersom relevant, navnet og kontaktadressen til vedkommende som tilpasser motoren,
+2. motortype, og dersom relevant motorfamilie,
+3. motorens entydige serienummer,
+4. CE-merking, som fastsatt i [§ 7](forskrift/2016-01-15-35/§7).
 
 1.2
 
@@ -637,7 +815,9 @@ hvor A, B og n er konstanter i samsvar med tabellen, og PN er motorens merkeeffe
 *Tabell 2*
 *Grenseverdier for eksosutslipp for motorer med kompresjonstenning*\*\*
 
-\* Alternativt skal motorer med kompresjonstenning med en nominell effekt på eller over 37 kW og under 75 kW, og med et slagvolum på under 0,9 l/syl, ikke overskride en grenseverdi for partikkelutslipp (PT) på 0,20 g/kWh og en grenseverdi for et kombinert HC + NOx-utslipp på 5,8 g/kWh.\*\* En motor med kompresjonstenning skal ikke overskride en grenseverdi for karbonmonoksidutslipp (CO) på 5,0 g/kWh.
+\* Alternativt skal motorer med kompresjonstenning med en nominell effekt på eller over 37 kW og under 75 kW, og med et slagvolum på under 0,9 l/syl, ikke overskride en grenseverdi for partikkelutslipp (PT) på 0,20 g/kWh og en grenseverdi for et kombinert HC + NOx-utslipp på 5,8 g/kWh.
+
+\*\* En motor med kompresjonstenning skal ikke overskride en grenseverdi for karbonmonoksidutslipp (CO) på 5,0 g/kWh.
 
 *Tabell 3*
 *Grenseverdier for eksosutslipp for motorer med gnisttenning*
@@ -725,13 +905,25 @@ Nye motorer skal, før de gjøres tilgjengelige, ledsages av en monterings- og v
 
 Informasjonen i veiledningen skal være basert på en holdbarhetsprøve som utføres av motorprodusenten under normale driftssykluser og ved kalkulasjon av slitasje/komponenttretthet.
 
-Motorens normale levetid er som følger:For motorer med kompresjonstenning: 480 timers drift eller 10 år, avhengig av hva som inntreffer først,For innenbordsmotorer med gnisttenning eller hekkaggregater med eller uten integrert eksosanlegg:for motorkategori PN ≤ 373 kW: 480 timers drift eller 10 år, avhengig av hva som inntreffer først,for motorer i kategori 373 < PN ≤ 485 kW: 150 timers drift eller 3 år, avhengig av hva som inntreffer først,for motorkategori PN > 485 kW: 50 timers drift eller 1 år, avhengig av hva som inntreffer først,for vannscootermotorer: 350 timers drift eller 5 år, avhengig av hva som inntreffer først,for utenbordsmotorer: 350 timers drift eller 10 år, avhengig av hva som inntreffer først.
+Motorens normale levetid er som følger:
+
+1. For motorer med kompresjonstenning: 480 timers drift eller 10 år, avhengig av hva som inntreffer først,
+2. For innenbordsmotorer med gnisttenning eller hekkaggregater med eller uten integrert eksosanlegg:
+
+   1. for motorkategori PN ≤ 373 kW: 480 timers drift eller 10 år, avhengig av hva som inntreffer først,
+   2. for motorer i kategori 373 < PN ≤ 485 kW: 150 timers drift eller 3 år, avhengig av hva som inntreffer først,
+   3. for motorkategori PN > 485 kW: 50 timers drift eller 1 år, avhengig av hva som inntreffer først,
+3. for vannscootermotorer: 350 timers drift eller 5 år, avhengig av hva som inntreffer først,
+4. for utenbordsmotorer: 350 timers drift eller 10 år, avhengig av hva som inntreffer først.
 
 4.*Brukerhåndbok*
 
 Hver motor skal ha en brukerhåndbok på norsk eller dersom det ikke kan misforstås på svensk eller dansk.
 
-Brukerhåndboken skal:gi nødvendige anvisninger for montering, bruk og vedlikehold for å sikre at motoren fungerer slik den skal for å oppfylle kravene i nr. 3,angi motorens effekt målt i samsvar med den harmoniserte standarden.
+Brukerhåndboken skal:
+
+1. gi nødvendige anvisninger for montering, bruk og vedlikehold for å sikre at motoren fungerer slik den skal for å oppfylle kravene i nr. 3,
+2. angi motorens effekt målt i samsvar med den harmoniserte standarden.
 
 ### C. Grunnleggende krav til støyutslipp
 
@@ -759,9 +951,13 @@ Som et alternativ til lydmålingsprøvinger, skal fritidsfartøy med innenbordsm
 
 1.3
 
-«Froude-tall» Fn skal beregnes ved å dele fritidsfartøyets høyeste hastighet V (m/s) med kvadratroten av vannlinjens lengde lwl (m) multiplisert med en gitt konstant for tyngdeakselerasjon, g, på 9,8 m/s2, $$F_n = \\frac{V}{\\sqrt{(g \\times lwl)}}$$
+«Froude-tall» Fn skal beregnes ved å dele fritidsfartøyets høyeste hastighet V (m/s) med kvadratroten av vannlinjens lengde lwl (m) multiplisert med en gitt konstant for tyngdeakselerasjon, g, på 9,8 m/s2,
 
-«Effekt/deplasement-forhold» skal beregnes ved å dele motorens merkeeffekt PN (i kW) med fritidsfartøyets deplasement D (i tonn), $$\\text{Effekt/deplasement-forhold} = \\frac{P_N}{D}$$
+$$F_n = \\frac{V}{\\sqrt{(g \\times lwl)}}$$
+
+«Effekt/deplasement-forhold» skal beregnes ved å dele motorens merkeeffekt PN (i kW) med fritidsfartøyets deplasement D (i tonn),
+
+$$\\text{Effekt/deplasement-forhold} = \\frac{P_N}{D}$$
 
 2.*Brukerhåndbok*
 
@@ -783,11 +979,25 @@ Bestemmelsene om holdbarhet i nr. 3 i del B skal få tilsvarende anvendelse på 
 
 ## Vedlegg 3. Erklæring fra produsenten eller importøren av delvis ferdigbygde fritidsfartøy og vannscootere
 
-Erklæringen fra produsenten eller importøren etablert i EØS-området nevnt i [§ 5](forskrift/2016-01-15-35/§5) (2), skal inneholde følgende:produsentens navn og adresse,navnet og adressen til representanten for produsenten etablert i EØS-området, eller eventuelt, til den personen som er ansvarlig for å bringe fartøyet i omsetning,en beskrivelse av det delvis ferdigbygde fartøyet,en erklæring om at det delvis ferdigbygde fartøyet oppfyller de grunnleggende kravene som gjelder i dette trinnet av byggingen. Dette skal omfatte henvisninger til de relevante harmoniserte standardene som er brukt, eller henvisninger til spesifikasjonene som samsvar er erklært i henhold til på dette trinnet av byggingen samt at det det delvis ferdigbygde fartøyet er beregnet på å bli fullført av enten juridisk eller fysisk person i fullt samsvar med forskriften.
+Erklæringen fra produsenten eller importøren etablert i EØS-området nevnt i [§ 5](forskrift/2016-01-15-35/§5) (2), skal inneholde følgende:
+
+1. produsentens navn og adresse,
+2. navnet og adressen til representanten for produsenten etablert i EØS-området, eller eventuelt, til den personen som er ansvarlig for å bringe fartøyet i omsetning,
+3. en beskrivelse av det delvis ferdigbygde fartøyet,
+4. en erklæring om at det delvis ferdigbygde fartøyet oppfyller de grunnleggende kravene som gjelder i dette trinnet av byggingen. Dette skal omfatte henvisninger til de relevante harmoniserte standardene som er brukt, eller henvisninger til spesifikasjonene som samsvar er erklært i henhold til på dette trinnet av byggingen samt at det det delvis ferdigbygde fartøyet er beregnet på å bli fullført av enten juridisk eller fysisk person i fullt samsvar med forskriften.
 
 ## Vedlegg 4. Teknisk dokumentasjon
 
-Den tekniske dokumentasjonen nevnt i [§ 9](forskrift/2016-01-15-35/§9) (2) og [§ 22](forskrift/2016-01-15-35/§22) skal, i den utstrekning det er relevant for vurderingen, inneholde følgende:en generell beskrivelse av typen,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer og andre relevante data,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og produktets funksjon,en liste over standardene nevnt i [§ 4](forskrift/2016-01-15-35/§4) (2) anvendt delvis eller i sin helhet, og en beskrivelse av løsninger som er valgt for å oppfylle de grunnleggende kravene når standardene nevnt i [§ 4](forskrift/2016-01-15-35/§4) (2) ikke er anvendt,resultater fra konstruksjonsberegninger, gjennomførte kontroller og andre relevante data,prøvingsrapporter, eller beregninger særlig om stabilitet i samsvar med vedlegg 1 del A nr. 3.2, og om oppdrift i samsvar med nr. 3.3,prøvingsrapporter om eksosutslipp som dokumenterer samsvar med vedlegg 1 del B nr. 2,prøvingsrapporter om støyutslipp som dokumenterer samsvar med vedlegg 1 del C nr. 1.
+Den tekniske dokumentasjonen nevnt i [§ 9](forskrift/2016-01-15-35/§9) (2) og [§ 22](forskrift/2016-01-15-35/§22) skal, i den utstrekning det er relevant for vurderingen, inneholde følgende:
+
+1. en generell beskrivelse av typen,
+2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer og andre relevante data,
+3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og produktets funksjon,
+4. en liste over standardene nevnt i [§ 4](forskrift/2016-01-15-35/§4) (2) anvendt delvis eller i sin helhet, og en beskrivelse av løsninger som er valgt for å oppfylle de grunnleggende kravene når standardene nevnt i [§ 4](forskrift/2016-01-15-35/§4) (2) ikke er anvendt,
+5. resultater fra konstruksjonsberegninger, gjennomførte kontroller og andre relevante data,
+6. prøvingsrapporter, eller beregninger særlig om stabilitet i samsvar med vedlegg 1 del A nr. 3.2, og om oppdrift i samsvar med nr. 3.3,
+7. prøvingsrapporter om eksosutslipp som dokumenterer samsvar med vedlegg 1 del B nr. 2,
+8. prøvingsrapporter om støyutslipp som dokumenterer samsvar med vedlegg 1 del C nr. 1.
 
 ## Vedlegg 5. Intern produksjonskontroll (modul A)
 
@@ -797,7 +1007,14 @@ Intern produksjonskontroll er den framgangsmåten for samsvarsvurdering der prod
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+- en generell beskrivelse av produktet,
+- konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+- beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,
+- en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+- resultatene av konstruksjonsberegninger, undersøkelser osv.,
+- prøvingsrapporter.
 
 3.*Produksjon*
 
@@ -829,7 +1046,14 @@ Intern produksjonskontroll og overvåket produktprøving er den framgangsmåten 
 
 Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen.
 
-Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+- en generell beskrivelse av produktet,
+- konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+- beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,
+- en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+- resultatene av konstruksjonsberegninger, undersøkelser osv.,
+- prøvingsrapporter.
 
 3.*Produksjon*
 
@@ -865,7 +1089,10 @@ Produsentens forpliktelser i henhold til nr. 5 kan på dennes vegne og ansvar op
 
 *Konstruksjon og produksjon*
 
-På ett eller flere fritidsfartøy eller vannscootere som er representative for produsentens produksjon, skal én eller flere av følgende prøvinger, tilsvarende beregning eller kontroll utføres av produsenten eller på produsentens vegne.stabilitetsprøving i samsvar med [vedlegg 1](forskrift/2016-01-15-35/vedlegg1) del A nr. 3.2.prøving av oppdriftsegenskaper i samsvar med [vedlegg 1](forskrift/2016-01-15-35/vedlegg1) del A nr. 3.2.
+På ett eller flere fritidsfartøy eller vannscootere som er representative for produsentens produksjon, skal én eller flere av følgende prøvinger, tilsvarende beregning eller kontroll utføres av produsenten eller på produsentens vegne.
+
+1. stabilitetsprøving i samsvar med [vedlegg 1](forskrift/2016-01-15-35/vedlegg1) del A nr. 3.2.
+2. prøving av oppdriftsegenskaper i samsvar med [vedlegg 1](forskrift/2016-01-15-35/vedlegg1) del A nr. 3.2.
 
 *Støyutslipp*
 
@@ -889,7 +1116,20 @@ EF-typeprøving skal utføres ved vurdering av egnetheten til den tekniske konst
 
 Produsenten skal inngi en søknad om EF-typeprøving til ett teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde:produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Teknisk kontrollorgan kan anmode om ytterligere eksemplarer dersom det er nødvendig for å kunne gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+Søknaden skal inneholde:
+
+- produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+  - en generell beskrivelse av produktet,
+  - konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+  - beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,
+  - en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser osv.,
+  - prøvingsrapporter,
+  - eksemplarer som er representative for den planlagte produksjonen. Teknisk kontrollorgan kan anmode om ytterligere eksemplarer dersom det er nødvendig for å kunne gjennomføre prøvingsprogrammet,
+  - underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 
 4\.
 
@@ -1033,7 +1273,13 @@ Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for prod
 
 Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte produktene til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde:produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle opplysninger av betydning for den planlagte produktkategorien,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+Søknaden skal inneholde:
+
+- produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- alle opplysninger av betydning for den planlagte produktkategorien,
+- dokumentasjon for kvalitetssystemet, og
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
 
 3.2.
 
@@ -1041,7 +1287,13 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at den produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+- undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+- midler til å føre tilsyn med at den produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.
 
 3.3.
 
@@ -1073,7 +1325,10 @@ Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som f
 
 4.2.
 
-Produsenten skal gi teknisk kontrollorgan adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+Produsenten skal gi teknisk kontrollorgan adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjon for kvalitetssystemet,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
 
 4.3.
 
@@ -1097,7 +1352,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1125,7 +1384,13 @@ Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for insp
 
 Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte produktene til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknsik kontrollorgan,alle opplysninger av betydning for den planlagte produktkategorien,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+Søknaden skal inneholde
+
+- produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknsik kontrollorgan,
+- alle opplysninger av betydning for den planlagte produktkategorien,
+- dokumentasjon for kvalitetssystemet, og
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
 
 3.2.
 
@@ -1133,7 +1398,12 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelser og prøvinger som skal utføres etter selve produksjonen,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- undersøkelser og prøvinger som skal utføres etter selve produksjonen,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+- midler til å føre tilsyn med at kvalitetssystemet virker effektivt.
 
 3.3.
 
@@ -1165,7 +1435,10 @@ Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som f
 
 4.2.
 
-Produsenten skal gi teknisk kontrollorgan adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+Produsenten skal gi teknisk kontrollorgan adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjon for kvalitetssystemet,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
 
 4.3.
 
@@ -1189,7 +1462,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1281,7 +1558,14 @@ Samsvar på grunnlag av verifisering av enkelteksemplarer er den framgangsmåten
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for teknisk kontrollorgan nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for teknisk kontrollorgan nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+- en generell beskrivelse av produktet,
+- konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+- beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,
+- en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+- resultatene av konstruksjonsberegninger, undersøkelser osv.,
+- prøvingsrapporter.
 
 Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for vedkommende nasjonale myndigheter i ti år etter at produktet er brakt i omsetning.
 
@@ -1329,7 +1613,19 @@ Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for kons
 
 Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte produktene til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,den tekniske dokumentasjonen for én modell av hver kategori av produkter som skal produseres. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,dokumentasjon for kvalitetssystemet, ogen skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde
+
+- produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,
+- den tekniske dokumentasjonen for én modell av hver kategori av produkter som skal produseres. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+  - en generell beskrivelse av produktet,
+  - konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+  - beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,
+  - en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser osv.,
+  - prøvingsrapporter,
+  - dokumentasjon for kvalitetssystemet, og
+  - en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2.
 
@@ -1337,7 +1633,15 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med de kravene i forskri
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til konstruksjons- og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder som skal anvendes, og dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke blir anvendt i sin helhet, hvilke midler som vil bli brukt for å sikre at de grunnleggende krav i forskriften som gjelder for produktene, vil bli oppfylt,teknikker for kontroll og verifisering av konstruksjon samt prosesser og systematiske tiltak som benyttes ved konstruksjon av produkter i forbindelse med den aktuelle produktkategorien,tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at den konstruksjons- og produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til konstruksjons- og produktkvalitet,
+- tekniske konstruksjonsspesifikasjoner, herunder standarder som skal anvendes, og dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke blir anvendt i sin helhet, hvilke midler som vil bli brukt for å sikre at de grunnleggende krav i forskriften som gjelder for produktene, vil bli oppfylt,
+- teknikker for kontroll og verifisering av konstruksjon samt prosesser og systematiske tiltak som benyttes ved konstruksjon av produkter i forbindelse med den aktuelle produktkategorien,
+- tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+- undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+- midler til å føre tilsyn med at den konstruksjons- og produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.
 
 3.3.
 
@@ -1373,7 +1677,11 @@ Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som f
 
 4.2.
 
-Produsenten skal gi teknsisk kontrollorgan adgang til å inspisere steder der konstruksjon, produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, prøvinger osv.,kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+Produsenten skal gi teknsisk kontrollorgan adgang til å inspisere steder der konstruksjon, produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjon for kvalitetssystemet,
+- kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, prøvinger osv.,
+- kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
 
 4.3.
 
@@ -1397,7 +1705,12 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:den tekniske dokumentasjonen nevnt i nr. 3.1,dokumentasjon for kvalitetssystemet som nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal i minst ti år etter at produktet er brakt i omsetning, kunne stille følgende til rådighet for de nasjonale myndigheter:
+
+- den tekniske dokumentasjonen nevnt i nr. 3.1,
+- dokumentasjon for kvalitetssystemet som nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra teknisk kontrollorgan nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1456,7 +1769,30 @@ Teknisk kontrollorgan skal underrette den som bringer produktet i omsetning elle
 ## Vedlegg 18. Vurdering av produksjonssamsvar for eksos- og støyutslipp
 
 1. Til samsvarskontroll av en motorfamilie skal det tas ut et utvalg av motorer fra produksjonsserien. Produsenten skal bestemme størrelsen (n) på utvalget etter avtale med det tekniske kontrollorgan.
-2. Det aritmetiske gjennomsnittet X av resultatene innhentet fra utvalget, skal beregnes for hver enkelt eksos- og støyutslippskomponent som er gjenstand for regulering. Produksjonsserien skal anses for å oppfylle kravene («bestått») dersom følgende krav er oppfylt:X + k · S ≤ LS er standardavvik, der:S2 ∑ (x – X)2 / (n – 1)X = det aritmetiske gjennomsnittet av resultatene innhentet fra utvalgetx = enkeltresultatene innhentet fra utvalgetL = den aktuelle grenseverdienn = antall motorer i utvalgetk = statistisk faktor avhengig av n (se tabellen nedenfor)*n*2345678910*k*0,9730,6130,4890,4210,3760,3420,3170,2960,279*n*111213141516171819*k*0,2650,2530,2420,2330,2240,2160,2100,2030,198
+2. Det aritmetiske gjennomsnittet X av resultatene innhentet fra utvalget, skal beregnes for hver enkelt eksos- og støyutslippskomponent som er gjenstand for regulering. Produksjonsserien skal anses for å oppfylle kravene («bestått») dersom følgende krav er oppfylt:
+
+   X + k · S ≤ L
+
+   S er standardavvik, der:
+
+   S2 ∑ (x – X)2 / (n – 1)
+
+   X = det aritmetiske gjennomsnittet av resultatene innhentet fra utvalget
+
+   x = enkeltresultatene innhentet fra utvalget
+
+   L = den aktuelle grenseverdien
+
+   n = antall motorer i utvalget
+
+   k = statistisk faktor avhengig av n (se tabellen nedenfor)
+
+   |  |  |  |  |  |  |  |  |  |  |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | *n* | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+   | *k* | 0,973 | 0,613 | 0,489 | 0,421 | 0,376 | 0,342 | 0,317 | 0,296 | 0,279 |
+   | *n* | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+   | *k* | 0,265 | 0,253 | 0,242 | 0,233 | 0,224 | 0,216 | 0,210 | 0,203 | 0,198 |
 
 Dersom n ≥ 20, så er k = 0,860 / √n.
 
@@ -1476,6 +1812,24 @@ Dersom n ≥ 20, så er k = 0,860 / √n.
 6. Henvisninger til anvendte relevante harmoniserte standardene eller henvisninger til andre tekniske spesifikasjonene det erklæres samsvar med.
 7. Dersom det er relevant: Det teknisk kontrollorganet ... (navn, nummer) ... har utført ... (beskrivelse av oppdrag) ... og utstedt sertifikatet.
 8. Identiteten til vedkommende som har fått fullmakt til å underskrive på vegne av produsenten eller dennes representant.
-9. Tilleggsopplysninger:EU-samsvarserklæringen skal inneholde en erklæring fra produsenten av framdriftsmotoren og fra vedkommende som tilpasser en motor i samsvar med [§ 5](forskrift/2016-01-15-35/§5) femte om at:når den er montert i et fritidsfartøy eller en vannscooter i samsvar med monteringsanvisningene som følger med motoren, vil motoren oppfylle:kravene til eksosutslipp i forskriften,grenseverdiene i [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner når det gjelder motorer som er typegodkjent i samsvar med [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, og som oppfyller grenseverdiene i trinn III A, trinn III B eller trinn IV for utslipp for motorer med kompresjonstenning som brukes til andre formål enn framdrift av fartøy for fart på innlands vannveier, lokomotiver og skinnegående motorvogner, som fastsatt i vedlegg I nr. 4.1.2 i nevnte direktiv, eller,grenseverdiene i [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) med hensyn til motorer som er typegodkjent i samsvar med nevnte forordning.Motoren skal ikke tas i bruk før fartøyet som den er montert i, er erklært å være i samsvar med de relevante bestemmelsene i forskriften.Dersom motoren er brakt i omsetning i den ytterligere overgangsperioden fastsatt i [§ 36](forskrift/2016-01-15-35/§36) tredje ledd bokstav b, skal EU-samsvarserklæringen inneholde en angivelse om dette.Undertegnet for og på vegne av:(sted og utstedelsesdato)(navn, stilling) (underskrift)
+9. Tilleggsopplysninger:
+
+   EU-samsvarserklæringen skal inneholde en erklæring fra produsenten av framdriftsmotoren og fra vedkommende som tilpasser en motor i samsvar med [§ 5](forskrift/2016-01-15-35/§5) femte om at:
+
+   1. når den er montert i et fritidsfartøy eller en vannscooter i samsvar med monteringsanvisningene som følger med motoren, vil motoren oppfylle:
+
+      1. kravene til eksosutslipp i forskriften,
+      2. grenseverdiene i [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner når det gjelder motorer som er typegodkjent i samsvar med [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, og som oppfyller grenseverdiene i trinn III A, trinn III B eller trinn IV for utslipp for motorer med kompresjonstenning som brukes til andre formål enn framdrift av fartøy for fart på innlands vannveier, lokomotiver og skinnegående motorvogner, som fastsatt i vedlegg I nr. 4.1.2 i nevnte direktiv, eller,
+      3. grenseverdiene i [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) med hensyn til motorer som er typegodkjent i samsvar med nevnte forordning.
+
+   Motoren skal ikke tas i bruk før fartøyet som den er montert i, er erklært å være i samsvar med de relevante bestemmelsene i forskriften.
+
+   Dersom motoren er brakt i omsetning i den ytterligere overgangsperioden fastsatt i [§ 36](forskrift/2016-01-15-35/§36) tredje ledd bokstav b, skal EU-samsvarserklæringen inneholde en angivelse om dette.
+
+   Undertegnet for og på vegne av:
+
+   (sted og utstedelsesdato)
+
+   (navn, stilling) (underskrift)
 
 1 Det er valgfritt å tildele samsvarserklæringen et nummer.

@@ -48,7 +48,10 @@ Ved behandling av saker etter denne forskriften gjelder [straffeprosessloven § 
 
 Ved skjellig grunn til mistanke om piratvirksomhet kan skipssjefen beslutte at fartøyet skal gripe inn for å avverge eller stanse slike lovbrudd.
 
-Skipssjefen kan dessuten treffe beslutning om å pågripeden som treffes på eller ved et sted der det skjer eller umiddelbart har skjedd en slik handling, ellerden som med skjellig grunn mistenkes for piratvirksomhet.
+Skipssjefen kan dessuten treffe beslutning om å pågripe
+
+1. den som treffes på eller ved et sted der det skjer eller umiddelbart har skjedd en slik handling, eller
+2. den som med skjellig grunn mistenkes for piratvirksomhet.
 
 Beslutningen skal nedtegnes snarest mulig og inneholde en kort begrunnelse for pågripelsen, samt det faktiske forholdet saken gjelder.
 
@@ -90,7 +93,11 @@ Beslutningen skal være skriftlig, begrunnet og følge saken.
 
 ## § 10.
 
-Snarest mulig og senest innen 72 timer etter at beslutningen om pågripelse er truffet, skal påtalemyndighetenanmode om at det tas kontakt med en annen stat med sikte på overføring av den pågrepne for videre strafforfølgning der,beslutte at den pågrepne skal strafforfølges i Norge, ellerbeslutte at den pågrepne skal løslates.
+Snarest mulig og senest innen 72 timer etter at beslutningen om pågripelse er truffet, skal påtalemyndigheten
+
+1. anmode om at det tas kontakt med en annen stat med sikte på overføring av den pågrepne for videre strafforfølgning der,
+2. beslutte at den pågrepne skal strafforfølges i Norge, eller
+3. beslutte at den pågrepne skal løslates.
 
 Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet. [Straffeprosessloven § 59a](lov/1981-05-22-25/§59a) om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
 

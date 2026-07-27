@@ -15,14 +15,16 @@ xml_hash: "9ecb534adb0cea6fb0d3466623155a0db643453a4daefd4fa19c7389a00ca27e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om inspeksjoner på bakken av luftfartøy
 
-Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:Vedlegg I: Inspeksjonsprosedyre for inspeksjoner på bakken (SAFA-inspeksjon).
+Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:
+
+Vedlegg I: Inspeksjonsprosedyre for inspeksjoner på bakken (SAFA-inspeksjon).
 
 > Endret ved [forskrift 19 mars 2009 nr. 345](forskrift/2009-03-19-345).
 
@@ -44,17 +46,46 @@ EØS-avtalens vedlegg XIII nr. 66rb (forordning [(EF) nr. 351/2008](eu/32008r035
 
 ## § 4. Definisjoner
 
-I denne forskrift menes:*startforbud*: formelt forbud for et luftfartøy mot å forlate en lufthavn, samt de tiltak som er nødvendige for å tilbakeholde det,*internasjonale sikkerhetsstandarder*: de av sikkerhetsstandardene fastsatt i Chicago-konvensjonen og dens vedlegg som er i kraft når inspeksjonen finner sted,*inspeksjoner på bakken*: inspeksjon av luftfartøy utført i samsvar med [§ 6](forskrift/2007-10-05-1112/§6) og vedlegg I,*tredjestats luftfartøy*: et luftfartøy som ikke brukes eller drives under tilsyn av vedkommende myndighet i en medlemsstat.
+I denne forskrift menes:
+
+1. *startforbud*: formelt forbud for et luftfartøy mot å forlate en lufthavn, samt de tiltak som er nødvendige for å tilbakeholde det,
+2. *internasjonale sikkerhetsstandarder*: de av sikkerhetsstandardene fastsatt i Chicago-konvensjonen og dens vedlegg som er i kraft når inspeksjonen finner sted,
+3. *inspeksjoner på bakken*: inspeksjon av luftfartøy utført i samsvar med [§ 6](forskrift/2007-10-05-1112/§6) og vedlegg I,
+4. *tredjestats luftfartøy*: et luftfartøy som ikke brukes eller drives under tilsyn av vedkommende myndighet i en medlemsstat.
 
 ## § 5. Innhenting av opplysninger
 
-(1) Luftfartstilsynet skal etablere en ordning for innsamling av alle de opplysningene som kan være nyttige for å nå målet beskrevet i [§ 1](forskrift/2007-10-05-1112/§1), herunder følgende:viktige sikkerhetsopplysninger som særlig kan innhentes gjennom:rapporter fra flygere,rapporter fra vedlikeholdsorganisasjoner,rapporter om hendelser,andre organisasjoner, uavhengig av vedkommende myndigheter i medlemsstatene,klager.opplysninger om tiltak iverksatt som følge av en gjennomført inspeksjon på bakken, for eksempel:startforbud for et luftfartøy,utestenging av et luftfartøy eller luftfartsselskap fra den aktuelle medlemsstaten,krav om korrigerende tiltak,kontakt med luftfartsselskapets vedkommende myndighet.oppfølgende opplysninger om luftfartsselskapet, for eksempel:om korrigerende tiltak som er iverksatt,om gjentatte avvik.
+(1) Luftfartstilsynet skal etablere en ordning for innsamling av alle de opplysningene som kan være nyttige for å nå målet beskrevet i [§ 1](forskrift/2007-10-05-1112/§1), herunder følgende:
+
+1. viktige sikkerhetsopplysninger som særlig kan innhentes gjennom:
+
+   1. rapporter fra flygere,
+   2. rapporter fra vedlikeholdsorganisasjoner,
+   3. rapporter om hendelser,
+   4. andre organisasjoner, uavhengig av vedkommende myndigheter i medlemsstatene,
+   5. klager.
+2. opplysninger om tiltak iverksatt som følge av en gjennomført inspeksjon på bakken, for eksempel:
+
+   1. startforbud for et luftfartøy,
+   2. utestenging av et luftfartøy eller luftfartsselskap fra den aktuelle medlemsstaten,
+   3. krav om korrigerende tiltak,
+   4. kontakt med luftfartsselskapets vedkommende myndighet.
+3. oppfølgende opplysninger om luftfartsselskapet, for eksempel:
+
+   1. om korrigerende tiltak som er iverksatt,
+   2. om gjentatte avvik.
 
 (2) Disse opplysningene skal registreres på et standard rapporteringsskjema som inneholder punktene oppført i standardrapporten i vedlegg I.
 
 ## § 6. Inspeksjoner på bakken
 
-(1) Luftfartstilsynet skal sikre at det foretas inspeksjon på bakken av alle tredjestaters luftfartøyer som mistenkes for ikke å oppfylle internasjonale sikkerhetsstandarder, og som lander på en av medlemsstatenes lufthavner som er åpen for internasjonal lufttrafikk. Ved gjennomføringen av slike framgangsmåter skal Luftfartstilsynet kontrollere luftfartøyet særlig grundig i følgende tilfeller:når det er mottatt opplysninger som tyder på dårlig vedlikeholdstilstand eller åpenbare mangler eller feil ved luftfartøyet,når det er rapportert at luftfartøyet har vist unormale manøvrer etter innflyging i en medlemsstats luftrom, slik at det gir grunn til alvorlig bekymring for sikkerheten,når en tidligere inspeksjon på bakken av luftfartøyet har avdekket mangler som gir grunn til alvorlig usikkerhet om hvorvidt det oppfyller internasjonale sikkerhetsstandarder, og når medlemsstaten frykter at manglene ikke er blitt utbedret,når det foreligger indikasjoner på at vedkommende myndigheter i registreringslandet ikke fører tilstrekkelig sikkerhetstilsyn, ellernår opplysninger innhentet i samsvar med [§ 5](forskrift/2007-10-05-1112/§5) gir grunn til betenkeligheter med hensyn til luftfartsselskapet, eller når en tidligere inspeksjon på bakken av et luftfartøy som benyttes av samme luftfartsselskap, har avdekket mangler.
+(1) Luftfartstilsynet skal sikre at det foretas inspeksjon på bakken av alle tredjestaters luftfartøyer som mistenkes for ikke å oppfylle internasjonale sikkerhetsstandarder, og som lander på en av medlemsstatenes lufthavner som er åpen for internasjonal lufttrafikk. Ved gjennomføringen av slike framgangsmåter skal Luftfartstilsynet kontrollere luftfartøyet særlig grundig i følgende tilfeller:
+
+1. når det er mottatt opplysninger som tyder på dårlig vedlikeholdstilstand eller åpenbare mangler eller feil ved luftfartøyet,
+2. når det er rapportert at luftfartøyet har vist unormale manøvrer etter innflyging i en medlemsstats luftrom, slik at det gir grunn til alvorlig bekymring for sikkerheten,
+3. når en tidligere inspeksjon på bakken av luftfartøyet har avdekket mangler som gir grunn til alvorlig usikkerhet om hvorvidt det oppfyller internasjonale sikkerhetsstandarder, og når medlemsstaten frykter at manglene ikke er blitt utbedret,
+4. når det foreligger indikasjoner på at vedkommende myndigheter i registreringslandet ikke fører tilstrekkelig sikkerhetstilsyn, eller
+5. når opplysninger innhentet i samsvar med [§ 5](forskrift/2007-10-05-1112/§5) gir grunn til betenkeligheter med hensyn til luftfartsselskapet, eller når en tidligere inspeksjon på bakken av et luftfartøy som benyttes av samme luftfartsselskap, har avdekket mangler.
 
 (2) Luftfartstilsynet skal gjennomføre inspeksjoner på bakken i form av stikkprøvekontroller når det ikke foreligger noen bestemt mistanke, forutsatt at slike regler er i samsvar med fellesskapsretten og folkeretten. Slike stikkprøvekontroller skal gjennomføres på en ikke-diskriminerende måte.
 
@@ -126,9 +157,18 @@ Luftfartstilsynet skal sikre at alle SAFA-inspektører oppfyller kvalifikasjonsk
 
 ### § 3. Kvalifikasjonskriterier for inspektører
 
-(1) Inspektører skal ha nødvendig utdanning og/eller praksis som er relevant for det faglige inspeksjonsområdet, dvs.:flyoperasjonerbesetningssertifikaterluftfartøyers luftdyktighetfarlig gods.
+(1) Inspektører skal ha nødvendig utdanning og/eller praksis som er relevant for det faglige inspeksjonsområdet, dvs.:
 
-(2) Kandidatene skal ha bestått utdannelse bestående av:teoretisk undervisning av en SAFA-utdannelsesorganisasjon, jf. [§ 5](forskrift/2007-10-05-1112/§5).praktisk undervisning av en SAFA-utdannelsesorganisasjon, jf. [§ 5](forskrift/2007-10-05-1112/§5) til [§ 8](forskrift/2007-10-05-1112/§8), eller av en seniorinspektør som er utpekt av Luftfartstilsynet jf. [§ 10](forskrift/2007-10-05-1112/§10) og som opptrer uavhengig av en SAFA-utdannelsesorganisasjon.praktisk trening: gjennomføres i form av en rekke inspeksjoner utført sammen med en seniorinspektør, jf. [§ 10](forskrift/2007-10-05-1112/§10).
+1. flyoperasjoner
+2. besetningssertifikater
+3. luftfartøyers luftdyktighet
+4. farlig gods.
+
+(2) Kandidatene skal ha bestått utdannelse bestående av:
+
+1. teoretisk undervisning av en SAFA-utdannelsesorganisasjon, jf. [§ 5](forskrift/2007-10-05-1112/§5).
+2. praktisk undervisning av en SAFA-utdannelsesorganisasjon, jf. [§ 5](forskrift/2007-10-05-1112/§5) til [§ 8](forskrift/2007-10-05-1112/§8), eller av en seniorinspektør som er utpekt av Luftfartstilsynet jf. [§ 10](forskrift/2007-10-05-1112/§10) og som opptrer uavhengig av en SAFA-utdannelsesorganisasjon.
+3. praktisk trening: gjennomføres i form av en rekke inspeksjoner utført sammen med en seniorinspektør, jf. [§ 10](forskrift/2007-10-05-1112/§10).
 
 > Tilføyd ved [forskrift 19 mars 2009 nr. 345](forskrift/2009-03-19-345).
 
@@ -144,7 +184,10 @@ En SAFA-inspektør skal opprettholde sine kvalifikasjoner ved å:
 
 ### § 5. SAFA-utdannelsesorganisasjon
 
-En SAFA-utdannelsesorganisasjon kan være en del av en tilsynsmyndighet eller en frittstående organisasjon. Med frittstående organisasjon menes enten:en del av en annen medlemsstats kompetente myndigheten uavhengig enhet.
+En SAFA-utdannelsesorganisasjon kan være en del av en tilsynsmyndighet eller en frittstående organisasjon. Med frittstående organisasjon menes enten:
+
+1. en del av en annen medlemsstats kompetente myndighet
+2. en uavhengig enhet.
 
 > Tilføyd ved [forskrift 19 mars 2009 nr. 345](forskrift/2009-03-19-345).
 
@@ -176,7 +219,10 @@ Samferdselsdepartementet kan anmode EASA om å gjøre evaluering av utdannelseso
 
 ### § 10. Seniorinspektører
 
-Luftfartstilsynet kan oppnevne senior SAFA-inspektører. For å kunne bli senior SAFA-inspektør må vedkommende oppfylle følgende minstekrav:Vedkommende må ha vært en kvalifisert SAFA-inspektør i de siste tre år forut for oppnevningen.Vedkommende må ha utført minst 36 SAFA-inspeksjoner i de tre siste årene forut for oppnevningen.
+Luftfartstilsynet kan oppnevne senior SAFA-inspektører. For å kunne bli senior SAFA-inspektør må vedkommende oppfylle følgende minstekrav:
+
+1. Vedkommende må ha vært en kvalifisert SAFA-inspektør i de siste tre år forut for oppnevningen.
+2. Vedkommende må ha utført minst 36 SAFA-inspeksjoner i de tre siste årene forut for oppnevningen.
 
 > Tilføyd ved [forskrift 19 mars 2009 nr. 345](forskrift/2009-03-19-345).
 
@@ -258,7 +304,11 @@ Rapport fra SAFA-inspeksjon skal overføres til den sentrale SAFA-databasen så 
 
 ### § 22. Kategorisering av avvik
 
-Ved inspeksjon skal eventuelle avvik fra det som følger av EFs SAFA-program kategoriseres innenfor en av følgende tre kategorier:Avvik kategori 1: avviket ansees for å ha mindre betydning for sikkerheten på flygningenAvvik kategori 2: avviket ansees for å ha betydelig innflytelse på sikkerheten på flygningenAvvik kategori 3: avviket ansees å ha alvorlig innflytelse på sikkerheten.
+Ved inspeksjon skal eventuelle avvik fra det som følger av EFs SAFA-program kategoriseres innenfor en av følgende tre kategorier:
+
+1. Avvik kategori 1: avviket ansees for å ha mindre betydning for sikkerheten på flygningen
+2. Avvik kategori 2: avviket ansees for å ha betydelig innflytelse på sikkerheten på flygningen
+3. Avvik kategori 3: avviket ansees å ha alvorlig innflytelse på sikkerheten.
 
 > Tilføyd ved [forskrift 19 mars 2009 nr. 345](forskrift/2009-03-19-345).
 
@@ -280,7 +330,10 @@ Oppfølgingsnivå 1 skal gjennomføres etter hver SAFA-inspeksjon, uavhengig av 
 
 ### § 25. Oppfølging av inspeksjon på nivå 2
 
-Oppfølgingsnivå 2 skal benyttes dersom det er funnet avvik i kategori 2 eller 3. Oppfølgingsnivå 2 består av:en brevveksling med den aktuelle operatør som skal inneholde en anmodning om dokumentasjon for at det er foretatt korrigerende tiltak av påpekte avvik.en brevveksling med den ansvarlige stat (operatørens hjemstat eller registreringsstat), vedrørende resultatene av den eller de utførte inspeksjoner på luftfartøy som opererer under den aktuelle statens sikkerhetstilsyn. Denne brevveksling skal, hvis det ansees nødvendig, inneholde en anmodning om at angjeldende myndighet bekrefter at korrigerende tiltak som er dokumentert iht. 1. ledd nr. 1 er foretatt.
+Oppfølgingsnivå 2 skal benyttes dersom det er funnet avvik i kategori 2 eller 3. Oppfølgingsnivå 2 består av:
+
+1. en brevveksling med den aktuelle operatør som skal inneholde en anmodning om dokumentasjon for at det er foretatt korrigerende tiltak av påpekte avvik.
+2. en brevveksling med den ansvarlige stat (operatørens hjemstat eller registreringsstat), vedrørende resultatene av den eller de utførte inspeksjoner på luftfartøy som opererer under den aktuelle statens sikkerhetstilsyn. Denne brevveksling skal, hvis det ansees nødvendig, inneholde en anmodning om at angjeldende myndighet bekrefter at korrigerende tiltak som er dokumentert iht. 1. ledd nr. 1 er foretatt.
 
 Luftfartstilsynet skal månedlig rapportere til EASA status over oppfølgingsforanstaltninger som er truffet under SAFA-inspeksjonene siste periode.
 
@@ -290,7 +343,12 @@ Luftfartstilsynet skal månedlig rapportere til EASA status over oppfølgingsfor
 
 Oppfølgingsnivå 3 skal benyttes dersom det under en SAFA-inspeksjon konstateres avvik i kategori 3.
 
-Basert på alvorlighetsgraden i konstateringen, herunder med særlig hensyn til avvikets potensielle innflytelse på sikkerheten for luftfartøyet og personer som befinner seg i dette, benyttes følgende undernivåer:Nivå 3a – Begrensninger i bruken av luftfartøyet. Luftfartstilsynet kan bestemme at flygningen, som følge av de konstaterte avvik, kun kan gjennomføres underlagt visse begrensninger.Nivå 3b – Korrigerende tiltak. Korrigerende tiltak må gjennomføres før den planlagte flyging tillates.Nivå 3c – Startnekt. Luftfartøyet tillates ikke å gjennomføre den planlagte flyging. Nivå 3c skal benyttes i tilfeller hvor SAFA-inspektørene mener at avvikene utgjør en umiddelbar sikkerhetsrisiko og samtidig ikke er overbevist om at luftfartøyets operatør vil foreta nødvendige utbedringer før avgang. I slike tilfeller skal flyging ikke tillates før avviket er korrigert. Luftfartstilsynet skal umiddelbart underrette operatørens kompetente myndighet og registreringsstaten.Nivå 3d – Øyeblikkelig driftsforbud. Luftfartstilsynet kan reagere på umiddelbare og åpenbare sikkerhetsrisikoer ved å pålegge et driftsforbud som fastsatt iht. gjeldende lovgivning.
+Basert på alvorlighetsgraden i konstateringen, herunder med særlig hensyn til avvikets potensielle innflytelse på sikkerheten for luftfartøyet og personer som befinner seg i dette, benyttes følgende undernivåer:
+
+1. Nivå 3a – Begrensninger i bruken av luftfartøyet. Luftfartstilsynet kan bestemme at flygningen, som følge av de konstaterte avvik, kun kan gjennomføres underlagt visse begrensninger.
+2. Nivå 3b – Korrigerende tiltak. Korrigerende tiltak må gjennomføres før den planlagte flyging tillates.
+3. Nivå 3c – Startnekt. Luftfartøyet tillates ikke å gjennomføre den planlagte flyging. Nivå 3c skal benyttes i tilfeller hvor SAFA-inspektørene mener at avvikene utgjør en umiddelbar sikkerhetsrisiko og samtidig ikke er overbevist om at luftfartøyets operatør vil foreta nødvendige utbedringer før avgang. I slike tilfeller skal flyging ikke tillates før avviket er korrigert. Luftfartstilsynet skal umiddelbart underrette operatørens kompetente myndighet og registreringsstaten.
+4. Nivå 3d – Øyeblikkelig driftsforbud. Luftfartstilsynet kan reagere på umiddelbare og åpenbare sikkerhetsrisikoer ved å pålegge et driftsforbud som fastsatt iht. gjeldende lovgivning.
 
 SAFA-inspektørene kan ved oppfølging av nivå 2 og 3 tillate ikke-inntektsgivende flygning til vedlikeholdsbase.
 

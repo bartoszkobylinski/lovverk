@@ -15,7 +15,7 @@ xml_hash: "499b7045d004c1284d84506c265112caef1b3897d73b2ff2f452a63df239eeda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Forskriftens [§ 3-7](forskrift/2000-11-03-1096/§3-7) første ledd om egentjene
 
 Forskriftens bestemmelser om egentjeneste av lufthavnrelaterte tjenester på flyside gjelder på lufthavner der trafikken årlig overskrider eller er lik 1 million passasjerbevegelser eller 25.000 tonn frakt.
 
-Forskriftens bestemmelser om ytelse av lufthavnrelaterte tjenester til tredjemann for lufthavner gjelder:der trafikken årlig overskrider eller er lik 3 millioner passasjerbevegelser eller 75.000 tonn frakt, ellerder trafikken i løpet av seksmånedersperioden regnet fra 1. april eller 1. oktober foregående år overskred eller var lik 2 millioner passasjerbevegelser eller 50.000 tonn frakt.
+Forskriftens bestemmelser om ytelse av lufthavnrelaterte tjenester til tredjemann for lufthavner gjelder:
+
+- der trafikken årlig overskrider eller er lik 3 millioner passasjerbevegelser eller 75.000 tonn frakt, eller
+- der trafikken i løpet av seksmånedersperioden regnet fra 1. april eller 1. oktober foregående år overskred eller var lik 2 millioner passasjerbevegelser eller 50.000 tonn frakt.
 
 Fra 1. januar 2001 gjelder forskriftens bestemmelser fullt ut for alle lufthavner som har en trafikk som årlig overskrider eller er lik 2 millioner passasjerbevegelser eller 50.000 tonn frakt.
 
@@ -48,7 +51,43 @@ Dersom en av tersklene for frakt nevnt i bestemmelsene ovenfor, nås på en luft
 
 ### § 2-1. Generelle definisjoner
 
-For denne forskrift gjelder følgende generelle definisjoner:*Lufthavn:*Et hvert område spesielt tilpasset luftfartøyers landing, avgang og bevegelser, herunder tilhørende anlegg som kan være nødvendige av hensyn til lufttrafikken og service for luftfartøyer, samt anlegg som er nødvendige for å betjene ervervsmessig flyging.*Lufthavnsystem:*To eller flere lufthavner som er oppført sammen fordi de betjener samme by eller gruppe av byer, som angitt i vedlegg II til Rfo. [(EØF) nr. 2408/1992](eu/31992r2408*) av 23. juli 1992 om EF-luftfartselskapers adgang til flyruter innenfor Fellesskapet.*Lufthavnadministrasjon:*Et organ som, eventuelt i forbindelse med annen virksomhet, har som oppgave å administrere og forvalte lufthavninfrastrukturene i henhold til nasjonal lov eller forskrift, og å samordne og kontrollere virksomheten til de ulike foretak i den aktuelle lufthavnen eller det aktuelle lufthavnsystemet.*Lufthavnbruker:*Enhver fysisk eller juridisk person som er ansvarlig for persontransport, posttransport og/eller frakt luftveien fra eller til den aktuelle lufthavn.*Lufthavnrelaterte tjenester:*Alle de tjenester som er nødvendig for ekspedering av et luftfartøy, besetning, passasjerer, bagasje og frakt i forbindelse med luftfartøyets ankomst til, opphold på og avgang fra en flyoppstillingsplass.*Lufthavnrelaterte tjenester på landside:*Tjenester som nevnt under e) som foregår innen den delen av en lufthavn som er allment tilgjengelig for publikum (ikke-adgangsregulert område).*Lufthavnrelaterte tjenester på flyside:*Tjenester som nevnt under e) som foregår innen den delen av en lufthavn som kun er tilgjengelig for flypassasjerer m/gyldig ombordstigningskort og/eller autorisert personell (adgangsregulert område).*Egentjeneste:*En situasjon der en lufthavnbruker selv direkte ivaretar en eller flere kategorier lufthavnrelaterte tjenester uten å inngå noen form for kontrakt med tredjemann for denne tjenesteytelsen.I henhold til denne definisjon anses lufthavnbrukere ikke innbyrdes som tredjemenn:når en lufthavnbruker har en flertallsandel i en annen, ellernår en juridisk person innehar flertallsandelen i begge.*Yter av lufthavnrelaterte tjenester:*Enhver fysisk eller juridisk person som yter en eller flere kategorier lufthavnrelaterte tjenester til tredjemann.*Sentraliserte infrastrukturer:*Infrastruktur som brukes ved ytelse av lufthavnrelaterte tjenester, og som ved utstrakt kompleksitet, kostnader eller miljøvirkning ikke gir mulighet til å dele opp eller å ha flere av, for eksempel systemer for innsjekking, bagasjesortering, avising, rensing av vann og drivstoffordeling.
+For denne forskrift gjelder følgende generelle definisjoner:
+
+1. *Lufthavn:*
+
+   Et hvert område spesielt tilpasset luftfartøyers landing, avgang og bevegelser, herunder tilhørende anlegg som kan være nødvendige av hensyn til lufttrafikken og service for luftfartøyer, samt anlegg som er nødvendige for å betjene ervervsmessig flyging.
+2. *Lufthavnsystem:*
+
+   To eller flere lufthavner som er oppført sammen fordi de betjener samme by eller gruppe av byer, som angitt i vedlegg II til Rfo. [(EØF) nr. 2408/1992](eu/31992r2408*) av 23. juli 1992 om EF-luftfartselskapers adgang til flyruter innenfor Fellesskapet.
+3. *Lufthavnadministrasjon:*
+
+   Et organ som, eventuelt i forbindelse med annen virksomhet, har som oppgave å administrere og forvalte lufthavninfrastrukturene i henhold til nasjonal lov eller forskrift, og å samordne og kontrollere virksomheten til de ulike foretak i den aktuelle lufthavnen eller det aktuelle lufthavnsystemet.
+4. *Lufthavnbruker:*
+
+   Enhver fysisk eller juridisk person som er ansvarlig for persontransport, posttransport og/eller frakt luftveien fra eller til den aktuelle lufthavn.
+5. *Lufthavnrelaterte tjenester:*
+
+   Alle de tjenester som er nødvendig for ekspedering av et luftfartøy, besetning, passasjerer, bagasje og frakt i forbindelse med luftfartøyets ankomst til, opphold på og avgang fra en flyoppstillingsplass.
+6. *Lufthavnrelaterte tjenester på landside:*
+
+   Tjenester som nevnt under e) som foregår innen den delen av en lufthavn som er allment tilgjengelig for publikum (ikke-adgangsregulert område).
+7. *Lufthavnrelaterte tjenester på flyside:*
+
+   Tjenester som nevnt under e) som foregår innen den delen av en lufthavn som kun er tilgjengelig for flypassasjerer m/gyldig ombordstigningskort og/eller autorisert personell (adgangsregulert område).
+8. *Egentjeneste:*
+
+   En situasjon der en lufthavnbruker selv direkte ivaretar en eller flere kategorier lufthavnrelaterte tjenester uten å inngå noen form for kontrakt med tredjemann for denne tjenesteytelsen.
+
+   I henhold til denne definisjon anses lufthavnbrukere ikke innbyrdes som tredjemenn:
+
+   - når en lufthavnbruker har en flertallsandel i en annen, eller
+   - når en juridisk person innehar flertallsandelen i begge.
+9. *Yter av lufthavnrelaterte tjenester:*
+
+   Enhver fysisk eller juridisk person som yter en eller flere kategorier lufthavnrelaterte tjenester til tredjemann.
+10. *Sentraliserte infrastrukturer:*
+
+    Infrastruktur som brukes ved ytelse av lufthavnrelaterte tjenester, og som ved utstrakt kompleksitet, kostnader eller miljøvirkning ikke gir mulighet til å dele opp eller å ha flere av, for eksempel systemer for innsjekking, bagasjesortering, avising, rensing av vann og drivstoffordeling.
 
 ### § 2-2. Lufthavnrelaterte tjenester på landside
 
@@ -76,7 +115,9 @@ enhver annen kontrollvirksomhet før, under eller etter flyging, og enhver annen
 
 2\.
 
-Håndtering av passasjerer, som omfatterenhver form for tjenesteytelse til passasjerer ved ankomst, avgang, transitt eller korresponderende flyging, særlig kontroll av billetter og reisedokumenter, bagasjeregistrering og transport frem til systemet for bagasjesortering.
+Håndtering av passasjerer, som omfatter
+
+enhver form for tjenesteytelse til passasjerer ved ankomst, avgang, transitt eller korresponderende flyging, særlig kontroll av billetter og reisedokumenter, bagasjeregistrering og transport frem til systemet for bagasjesortering.
 
 3\.
 
@@ -188,7 +229,9 @@ Lufthavnrelaterte tjenester på flyside er følgende:
 
 1\.
 
-håndtering av bagasje, som omfatterhåndtering i sorteringsområdet, sortering, forberedelse til forsendelse, lasting på og lossing av innretninger beregnet på å bringe bagasjen fra luftfartøyet til sorteringsområdet og omvendt, samt transport av bagasje fra sorteringsområdet til utleveringsområdet.
+håndtering av bagasje, som omfatter
+
+håndtering i sorteringsområdet, sortering, forberedelse til forsendelse, lasting på og lossing av innretninger beregnet på å bringe bagasjen fra luftfartøyet til sorteringsområdet og omvendt, samt transport av bagasje fra sorteringsområdet til utleveringsområdet.
 
 2\.
 
@@ -236,7 +279,9 @@ transport av mat- og drikkevarer til og fra luftfartøyet samt lasting og lossin
 
 4\.
 
-Håndtering av frakt og post på flyside, hva gjelderfysisk håndtering av frakt og post mellom luftfartøy og flyterminalen ved ankomst, avgang og transitt.
+Håndtering av frakt og post på flyside, hva gjelder
+
+fysisk håndtering av frakt og post mellom luftfartøy og flyterminalen ved ankomst, avgang og transitt.
 
 > Endret ved [forskrift 22 aug 2007 nr. 991](forskrift/2007-08-22-991).
 
@@ -284,7 +329,11 @@ Lufthavnadministrasjonen har plikt til å sørge for de nødvendige tiltak for �
 
 For lufthavnrelaterte tjenester på flyside som nevnt i [§ 2-3](forskrift/2000-11-03-1096/§2-3) kan lufthavnadministrasjonen treffe beslutning om å begrense antallet tjenesteytere, likevel ikke til færre enn to på hver kategori.
 
-Fra 1. januar 2001 må minst én av tjenesteyterne som er utvalgt som følge av beslutning om begrensning, ikke være direkte eller indirekte kontrollert avlufthavnadministrasjonen, elleren lufthavnbruker som har utført mer enn 25% av den persontransport eller frakt som ble registrert ved lufthavnen i løpet av året før det år utvelgelsen av disse tjenesteyterne fant sted, elleret organ som kontrollerer eller direkte eller indirekte blir kontrollert av nevnte lufthavnadministrasjon eller lufthavnbruker.
+Fra 1. januar 2001 må minst én av tjenesteyterne som er utvalgt som følge av beslutning om begrensning, ikke være direkte eller indirekte kontrollert av
+
+1. lufthavnadministrasjonen, eller
+2. en lufthavnbruker som har utført mer enn 25% av den persontransport eller frakt som ble registrert ved lufthavnen i løpet av året før det år utvelgelsen av disse tjenesteyterne fant sted, eller
+3. et organ som kontrollerer eller direkte eller indirekte blir kontrollert av nevnte lufthavnadministrasjon eller lufthavnbruker.
 
 Dersom antallet tjenesteytere med tillatelse til å yte lufthavnrelaterte tjenester er begrenset etter annet og tredje ledd, må lufthavnadministrasjonen påse at begrensningen ikke hindrer en lufthavnbruker i å kunne foreta et reelt valg mellom minst to tjenesteytere for hver enkelt gruppe av lufthavnrelaterte tjenester på flyside. Dette skal gjelde uansett hvilken del av lufthavnen som vedkommende bruker har fått tildelt.
 
@@ -316,15 +365,27 @@ Lufthavnadministrasjonen har plikt til å iverksette en ordning med samråd med 
 
 ### § 4-1. Unntak
 
-Dersom bestemte begrensninger med hensyn til disponibel plass og kapasitet i en lufthavn, særlig med årsak i overbelastning og grad av arealbruk, umuliggjør adgang til markedet og/eller utøvelse av egentjeneste i det omfang som er fastsatt ved denne forskrift, kan Luftfartstilsynet beslutte følgende:Å begrense antallet av dem som yter en eller flere kategorier lufthavnrelaterte tjenester på landside som nevnt i [§ 2-2](forskrift/2000-11-03-1096/§2-2), i hele lufthavnen eller i deler av den. I så fall gjelder bestemmelsene i [§ 3-6](forskrift/2000-11-03-1096/§3-6) annet til fjerde ledd tilsvarende.Kun la en enkelt tjenesteyter levere lufthavnrelaterte tjenester på flyside som nevnt i [§ 2-3](forskrift/2000-11-03-1096/§2-3).La utøvelsen av egentjenester av lufthavnrelaterte tjenester på landside som nevnt i [§ 2-2](forskrift/2000-11-03-1096/§2-2), være forbeholdt et begrenset antall lufthavnbrukere, forutsatt at brukerne utvelges på grunnlag av kriterier som er relevante, objektive, oversiktlige og ikke-diskriminerende.Forby egentjeneste av lufthavnrelaterte tjenester på flyside som nevnt i [§ 2-3](forskrift/2000-11-03-1096/§2-3), eller begrense utøvelsen til en enkelt bruker.
+Dersom bestemte begrensninger med hensyn til disponibel plass og kapasitet i en lufthavn, særlig med årsak i overbelastning og grad av arealbruk, umuliggjør adgang til markedet og/eller utøvelse av egentjeneste i det omfang som er fastsatt ved denne forskrift, kan Luftfartstilsynet beslutte følgende:
+
+1. Å begrense antallet av dem som yter en eller flere kategorier lufthavnrelaterte tjenester på landside som nevnt i [§ 2-2](forskrift/2000-11-03-1096/§2-2), i hele lufthavnen eller i deler av den. I så fall gjelder bestemmelsene i [§ 3-6](forskrift/2000-11-03-1096/§3-6) annet til fjerde ledd tilsvarende.
+2. Kun la en enkelt tjenesteyter levere lufthavnrelaterte tjenester på flyside som nevnt i [§ 2-3](forskrift/2000-11-03-1096/§2-3).
+3. La utøvelsen av egentjenester av lufthavnrelaterte tjenester på landside som nevnt i [§ 2-2](forskrift/2000-11-03-1096/§2-2), være forbeholdt et begrenset antall lufthavnbrukere, forutsatt at brukerne utvelges på grunnlag av kriterier som er relevante, objektive, oversiktlige og ikke-diskriminerende.
+4. Forby egentjeneste av lufthavnrelaterte tjenester på flyside som nevnt i [§ 2-3](forskrift/2000-11-03-1096/§2-3), eller begrense utøvelsen til en enkelt bruker.
 
 > Endret ved [forskrift 22 aug 2007 nr. 991](forskrift/2007-08-22-991).
 
 ### § 4-2. Nærmere om unntak
 
-Alle unntak som gjøres i henhold til [§ 4-1](forskrift/2000-11-03-1096/§4-1) skalpresisere kategorien eller de kategorier lufthavnrelaterte tjenester som unntaket gjelder for og de bestemte problemer med hensyn til disponibel plass og kapasitet som gjør det berettiget, ogvære ledsaget av en plan for egnede tiltak som skal avhjelpe de i bokstav a) omtalte problemer.
+Alle unntak som gjøres i henhold til [§ 4-1](forskrift/2000-11-03-1096/§4-1) skal
 
-Unntakene skal dessuten ikkeurettmessig skade forskriftens mål,forårsake konkurransevridning mellom ytere av lufthavnrelaterte tjenester og/eller lufthavnbrukere som utøver egentjeneste ellervære unødig omfattende.
+1. presisere kategorien eller de kategorier lufthavnrelaterte tjenester som unntaket gjelder for og de bestemte problemer med hensyn til disponibel plass og kapasitet som gjør det berettiget, og
+2. være ledsaget av en plan for egnede tiltak som skal avhjelpe de i bokstav a) omtalte problemer.
+
+Unntakene skal dessuten ikke
+
+1. urettmessig skade forskriftens mål,
+2. forårsake konkurransevridning mellom ytere av lufthavnrelaterte tjenester og/eller lufthavnbrukere som utøver egentjeneste eller
+3. være unødig omfattende.
 
 Luftfartstilsynet skal varsle EFTAs overvåkingsorgan om ethvert unntak som innvilges i henhold til [§ 4-1](forskrift/2000-11-03-1096/§4-1), jf. [§ 4-2](forskrift/2000-11-03-1096/§4-2), og redegjøre for grunnlaget. Slikt varsel skal gis senest tre måneder før unntaket trer i kraft.
 
@@ -346,11 +407,23 @@ For øvrig kan unntak i henhold til [§ 4-1](forskrift/2000-11-03-1096/§4-1) ik
 
 ### § 4-4. Utvelgelsesprosedyrer når antallet tjenesteytere begrenses
 
-Dersom antallet tjenesteytere er begrenset med hjemmel i [§ 3-6](forskrift/2000-11-03-1096/§3-6) eller [§ 4-1](forskrift/2000-11-03-1096/§4-1) gjelder følgende for utvelgelsesprosedyren:Dersom lufthavnadministrasjonen utarbeider standardvilkår eller tekniske spesifikasjoner som yteren av lufthavntjenester skal oppfylle, skal vilkårene eller spesifikasjonene utarbeides etter forutgående samråd med lufthavnbrukernes komité. Utvelgelseskriteriene som fastsettes i standardvilkårene eller de tekniske spesifikasjonene skal være relevante, objektive, oversiktlige og ikke-diskriminerende.Samferdselsdepartementet kan fastsette i standardvilkårene eller i de tekniske spesifikasjoner som tjenesteyteren må oppfylle, at forpliktelsen til offentlig tjenesteytelse skal omfatte lufthavner som betjener randområder eller områder som ligger etter i utviklingen og som ikke har forretningsmessig betydning, men som er av grunnleggende betydning av nasjonale hensyn, jf. [§ 5-3](forskrift/2000-11-03-1096/§5-3).Det skal utstedes en anbudsinnbydelse som offentliggjøres i De Europeiske Fellesskaps Tidende, og som enhver interessert tjenesteyter kan svare på.
+Dersom antallet tjenesteytere er begrenset med hjemmel i [§ 3-6](forskrift/2000-11-03-1096/§3-6) eller [§ 4-1](forskrift/2000-11-03-1096/§4-1) gjelder følgende for utvelgelsesprosedyren:
+
+1. Dersom lufthavnadministrasjonen utarbeider standardvilkår eller tekniske spesifikasjoner som yteren av lufthavntjenester skal oppfylle, skal vilkårene eller spesifikasjonene utarbeides etter forutgående samråd med lufthavnbrukernes komité. Utvelgelseskriteriene som fastsettes i standardvilkårene eller de tekniske spesifikasjonene skal være relevante, objektive, oversiktlige og ikke-diskriminerende.
+
+   Samferdselsdepartementet kan fastsette i standardvilkårene eller i de tekniske spesifikasjoner som tjenesteyteren må oppfylle, at forpliktelsen til offentlig tjenesteytelse skal omfatte lufthavner som betjener randområder eller områder som ligger etter i utviklingen og som ikke har forretningsmessig betydning, men som er av grunnleggende betydning av nasjonale hensyn, jf. [§ 5-3](forskrift/2000-11-03-1096/§5-3).
+2. Det skal utstedes en anbudsinnbydelse som offentliggjøres i De Europeiske Fellesskaps Tidende, og som enhver interessert tjenesteyter kan svare på.
 
 ### § 4-5. Utvelgelsen
 
-Tjenesteyterne skal velges ut:Av lufthavnadministrasjonen etter råd fra lufthavnbrukernes komité, forutsatt at lufthavnadministrasjonenikke yter tilsvarende lufthavnrelaterte tjenester i den aktuelle lufthavn,ikke direkte eller indirekte kontrollerer et foretak som yter slike tjenester, ogikke har noen andel i et slikt foretak.I de øvrige tilfeller av Luftfartstilsynet, etter råd fra lufthavnbrukernes komité og lufthavnadministrasjonen.
+Tjenesteyterne skal velges ut:
+
+1. Av lufthavnadministrasjonen etter råd fra lufthavnbrukernes komité, forutsatt at lufthavnadministrasjonen
+
+   - ikke yter tilsvarende lufthavnrelaterte tjenester i den aktuelle lufthavn,
+   - ikke direkte eller indirekte kontrollerer et foretak som yter slike tjenester, og
+   - ikke har noen andel i et slikt foretak.
+2. I de øvrige tilfeller av Luftfartstilsynet, etter råd fra lufthavnbrukernes komité og lufthavnadministrasjonen.
 
 ### § 4-6. Varighet
 
@@ -360,7 +433,10 @@ Opphører en tjenesteyter med sin virksomhet før utløpet av tidsrommet vedkomm
 
 ### § 4-7. Lufthavnadministrasjonens ytelse av lufthavnrelaterte tjenester
 
-Dersom antallet tjenesteytere er begrenset i henhold til [§ 3-6](forskrift/2000-11-03-1096/§3-6) eller [§ 4-1](forskrift/2000-11-03-1096/§4-1), kan lufthavnadministrasjonen selv yte lufthavnrelaterte tjenester uten å være underkastet fremgangsmåten for utvelgelse fastsatt i [§ 4-4](forskrift/2000-11-03-1096/§4-4). På samme måte kan lufthavnadministrasjonen gi et annet foretak tillatelse til å yte lufthavnrelaterte tjenester i den berørte lufthavn uten å la det underkastes nevnte fremgangsmåtedersom lufthavnadministrasjonen direkte eller indirekte kontrollerer foretaket, ellerdersom foretaket direkte eller indirekte kontrollerer lufthavnadministrasjonen.
+Dersom antallet tjenesteytere er begrenset i henhold til [§ 3-6](forskrift/2000-11-03-1096/§3-6) eller [§ 4-1](forskrift/2000-11-03-1096/§4-1), kan lufthavnadministrasjonen selv yte lufthavnrelaterte tjenester uten å være underkastet fremgangsmåten for utvelgelse fastsatt i [§ 4-4](forskrift/2000-11-03-1096/§4-4). På samme måte kan lufthavnadministrasjonen gi et annet foretak tillatelse til å yte lufthavnrelaterte tjenester i den berørte lufthavn uten å la det underkastes nevnte fremgangsmåte
+
+- dersom lufthavnadministrasjonen direkte eller indirekte kontrollerer foretaket, eller
+- dersom foretaket direkte eller indirekte kontrollerer lufthavnadministrasjonen.
 
 ### § 4-8. Underretning til lufthavnbrukernes komité
 
@@ -380,7 +456,11 @@ Samferdselsdepartementet kan bestemme at en yter av lufthavnrelaterte tjenester 
 
 Tillatelse skal gis ut fra relevante kriterier som f.eks. en sunn finansiell situasjon og tilstrekkelig forsikringsdekning, alminnelig og driftsmessig sikkerhet for anlegg, luftfartøy, utstyr og personer samt miljøvern og overholdelse av relevant sosiallovgivning.
 
-Følgende prinsipper skal overholdes:Kriteriene får anvendelse på de forskjellige tjenesteytere og brukere på en ikke-diskriminerende måte.De skal ha sammenheng med målene som skal nås.De skal ikke føre til at markedsadgangen eller adgangen til å utøve egentjenester i praksis innskrenkes til et lavere nivå enn det som er fastsatt i denne forskrift.
+Følgende prinsipper skal overholdes:
+
+1. Kriteriene får anvendelse på de forskjellige tjenesteytere og brukere på en ikke-diskriminerende måte.
+2. De skal ha sammenheng med målene som skal nås.
+3. De skal ikke føre til at markedsadgangen eller adgangen til å utøve egentjenester i praksis innskrenkes til et lavere nivå enn det som er fastsatt i denne forskrift.
 
 Kriteriene skal offentliggjøres og tjenesteyteren eller lufthavnbrukeren som utøver egentjeneste skal underrettes på forhånd om fremgangsmåten for å få tillatelse.
 

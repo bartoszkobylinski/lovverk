@@ -30,7 +30,11 @@ Oppfølgingstiltak i Arbeids- og velferdsetatens egenregi skal styrke deltakeren
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med«arbeid med støtte» tilpasset oppfølging som følger metoden Supported Employment (SE)«individuell jobbstøtte» tilpasset oppfølging som følger metoden Individual Placement and Support (IPS)«jobbspesialist» en veileder som gir oppfølging i samsvar med metoden SE eller IPS.
+I denne forskrift menes med
+
+1. «arbeid med støtte» tilpasset oppfølging som følger metoden Supported Employment (SE)
+2. «individuell jobbstøtte» tilpasset oppfølging som følger metoden Individual Placement and Support (IPS)
+3. «jobbspesialist» en veileder som gir oppfølging i samsvar med metoden SE eller IPS.
 
 ### § 1-3. Vilkårene for deltakelse
 
@@ -50,7 +54,13 @@ Arbeid med støtte kan tilbys personer som har fylt 16 år, og som har behov for
 
 ### § 2-2. Innhold
 
-Deltakere i arbeid med støtte kan få tilbud omregelmessig og tilpasset oppfølging fra en jobbspesialist,karriereveiledning og yrkesplanlegging,bistand til å komme i arbeid i en ordinær virksomhet,tilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver, ognødvendig hjelp til å samhandle med andre relevante instanser som kan bistå deltakeren.
+Deltakere i arbeid med støtte kan få tilbud om
+
+1. regelmessig og tilpasset oppfølging fra en jobbspesialist,
+2. karriereveiledning og yrkesplanlegging,
+3. bistand til å komme i arbeid i en ordinær virksomhet,
+4. tilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver, og
+5. nødvendig hjelp til å samhandle med andre relevante instanser som kan bistå deltakeren.
 
 Jobbspesialisten kan også tilby nødvendig oppfølging til arbeidsgivere som ansetter deltakere gjennom arbeid med støtte. Det er en forutsetning at behovet for bistand går utover arbeidsgivers tilretteleggingsplikt etter [arbeidsmiljøloven § 4-2](lov/2005-06-17-62/§4-2).
 
@@ -82,7 +92,13 @@ Etter nærmere retningslinjer fra Arbeids- og velferdsdirektoratet kan tiltaket 
 
 ### § 3-2. Innhold
 
-Deltakere i individuell jobbstøtte kan få tilbud omregelmessig og tilpasset oppfølging av en jobbspesialistbistand til aktiv jobbsøking tidlig i oppfølgingenstøtte fra jobbspesialisten til å mestre arbeidsrelaterte forhold i samarbeid med behandlingsteam i helse- og omsorgstjenestentilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver og behandlingsteamnødvendig hjelp til å samhandle med andre relevante instanser, blant annet om økonomiske, sosiale og utdanningsrelaterte forhold.
+Deltakere i individuell jobbstøtte kan få tilbud om
+
+1. regelmessig og tilpasset oppfølging av en jobbspesialist
+2. bistand til aktiv jobbsøking tidlig i oppfølgingen
+3. støtte fra jobbspesialisten til å mestre arbeidsrelaterte forhold i samarbeid med behandlingsteam i helse- og omsorgstjenesten
+4. tilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver og behandlingsteam
+5. nødvendig hjelp til å samhandle med andre relevante instanser, blant annet om økonomiske, sosiale og utdanningsrelaterte forhold.
 
 Individuell jobbstøtte inngår som en integrert del av behandlings- og rehabiliteringstilbudet i helse- og omsorgstjenesten. Det er en forutsetning at personen samtykker til å delta i individuell jobbstøtte.
 
@@ -130,7 +146,14 @@ Ungdomsgarantien gjelder for personer fra fylte 16 år og fram til fylte 30 år 
 
 Ungdomsgarantien skal sikre individuelt tilpasset oppfølging i hele garantiperioden slik at flere unge får mulighet til å komme i ordinært arbeid.
 
-Unge med behov for arbeidsrettet bistand skal få tilbud om en fast kontaktperson. I tillegg kan de få tilbud omregelmessige oppfølgingssamtaler,veiledning om hvilke muligheter som finnes i arbeidsmarkedet med utgangspunkt i den enkeltes jobbønsker og forutsetninger,vurdering av utdanningsmuligheter og kvalifiserende tiltak basert på den enkeltes forutsetninger, behov, jobbønsker og situasjonen i arbeidsmarkedet,hjelp til og veiledning om arbeidsrelaterte, sosiale og økonomiske forhold,bistand til å samhandle med andre relevante instanser, blant annet utdanningsmyndighetene, barneverntjenesten og helsetjenesten, ogtilrettelegging og hjelpemidler på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver.
+Unge med behov for arbeidsrettet bistand skal få tilbud om en fast kontaktperson. I tillegg kan de få tilbud om
+
+1. regelmessige oppfølgingssamtaler,
+2. veiledning om hvilke muligheter som finnes i arbeidsmarkedet med utgangspunkt i den enkeltes jobbønsker og forutsetninger,
+3. vurdering av utdanningsmuligheter og kvalifiserende tiltak basert på den enkeltes forutsetninger, behov, jobbønsker og situasjonen i arbeidsmarkedet,
+4. hjelp til og veiledning om arbeidsrelaterte, sosiale og økonomiske forhold,
+5. bistand til å samhandle med andre relevante instanser, blant annet utdanningsmyndighetene, barneverntjenesten og helsetjenesten, og
+6. tilrettelegging og hjelpemidler på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver.
 
 Oppfølgingen gis sammenhengende i hele garantiperioden, blant annet under deltakelse i arbeidsmarkedstiltak, arbeidsrettede aktiviteter, opplæring og utdanning, medisinsk behandling, og på arbeidsplassen. Deler av oppfølgingen kan gis i grupper med andre dersom det er hensiktsmessig og i samsvar med den enkeltes ønsker og behov.
 

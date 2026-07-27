@@ -15,7 +15,7 @@ xml_hash: "acf90c453cbc2c342469a92f1679f73f98d4b334adb1cb46f2ab71cb25de8e80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,18 @@ Forskriften omfatter ferdsel med motorkjøretøy i terrenget og på islagte vass
 
 ### § 3. (definisjoner)
 
-I denne forskrift forstås med*fastboende:* det som er definert som fastboende i [svalbardmiljøloven § 3 første ledd bokstav i](lov/2001-06-15-79/§3/ledd/1/bokstav/i));*tilreisende:* det som er definert som tilreisende i [svalbardmiljøloven § 3 første ledd bokstav j](lov/2001-06-15-79/§3/ledd/1/bokstav/j));*motorkjøretøy:* fremkomstmiddel til bruk i terreng eller på vei med motor som drivkraft;*beltekjøretøy:* motorkjøretøy med belter;*beltebil:* motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;*snøskuter:* motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;*luftfartøy:* fremkomstmiddel til bruk i luften med motor som drivkraft;*turistvirksomhet:* det som er definert som turistvirksomhet i [forskrift 27. juni 2002 nr. 731 om leiropphold på Svalbard § 2a bokstav a](forskrift/2002-06-27-731/§2/bokstav/a));*luftputefartøy og hydrokopter:* Motorisert fartøy som er fremkommelig både på vann, snø, is og land;*undervannsfartøy:* bemannet motorisert fartøy til bruk under vann.
+I denne forskrift forstås med
+
+1. *fastboende:* det som er definert som fastboende i [svalbardmiljøloven § 3 første ledd bokstav i](lov/2001-06-15-79/§3/ledd/1/bokstav/i));
+2. *tilreisende:* det som er definert som tilreisende i [svalbardmiljøloven § 3 første ledd bokstav j](lov/2001-06-15-79/§3/ledd/1/bokstav/j));
+3. *motorkjøretøy:* fremkomstmiddel til bruk i terreng eller på vei med motor som drivkraft;
+4. *beltekjøretøy:* motorkjøretøy med belter;
+5. *beltebil:* motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;
+6. *snøskuter:* motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;
+7. *luftfartøy:* fremkomstmiddel til bruk i luften med motor som drivkraft;
+8. *turistvirksomhet:* det som er definert som turistvirksomhet i [forskrift 27. juni 2002 nr. 731 om leiropphold på Svalbard § 2a bokstav a](forskrift/2002-06-27-731/§2/bokstav/a));
+9. *luftputefartøy og hydrokopter:* Motorisert fartøy som er fremkommelig både på vann, snø, is og land;
+10. *undervannsfartøy:* bemannet motorisert fartøy til bruk under vann.
 
 > Endret ved [forskrifter 20 des 2013 nr. 1689](forskrift/2013-12-20-1689) (i kraft 1 jan 2014), [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).
 
@@ -54,7 +65,11 @@ Ferdsel med motorkjøretøy i terrenget på bar eller tint mark er forbudt om ik
 
 ### § 6. (ferdsel med motorkjøretøy i planområdene)
 
-Det er tillatt med nødvendig motorferdsel i terrenget for virksomhet i samsvar med godkjent arealplan i tilknytning tilråstoffutvinning, herunder undersøkelsesvirksomhet, gruvedrift og massetak;bygge- og anleggsvirksomhet unntatt for hytter;drift og vedlikehold av bygninger og annen infrastruktur som inngår i drift av bosetningene.
+Det er tillatt med nødvendig motorferdsel i terrenget for virksomhet i samsvar med godkjent arealplan i tilknytning til
+
+1. råstoffutvinning, herunder undersøkelsesvirksomhet, gruvedrift og massetak;
+2. bygge- og anleggsvirksomhet unntatt for hytter;
+3. drift og vedlikehold av bygninger og annen infrastruktur som inngår i drift av bosetningene.
 
 > Endret ved forskrift [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).
 
@@ -66,7 +81,11 @@ Ferdsel med motorkjøretøy i terrenget på snødekt og frossen mark samt på is
 
 ### § 8. (bruk av snøskuter, beltebil og elektrisk sykkel i terrenget på frossen og snødekt mark for fastboende)
 
-Fastboende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark iområder markert med gult som vist på kart i vedlegg 1;kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 1;områder markert med grønt fram til 1. mars hver sesong som vist på kart i vedlegg 1.
+Fastboende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark i
+
+1. områder markert med gult som vist på kart i vedlegg 1;
+2. kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 1;
+3. områder markert med grønt fram til 1. mars hver sesong som vist på kart i vedlegg 1.
 
 > Endret ved [forskrifter 15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [20 des 2013 nr. 1689](forskrift/2013-12-20-1689) (i kraft 1 jan 2014), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [6 des 2016 nr. 1465](forskrift/2016-12-06-1465) (i kraft 1 jan 2017), [20 april 2018 nr. 599](forskrift/2018-04-20-599), [20 april 2018 nr. 599](forskrift/2018-04-20-599) (i kraft 1 juni 2018), [12 mars 2019 nr. 219](forskrift/2019-03-12-219), [12 mars 2019 nr. 219](forskrift/2019-03-12-219) (i kraft 1 juni 2019), [11 mars 2020 nr. 268](forskrift/2020-03-11-268), [11 mars 2020 nr. 268](forskrift/2020-03-11-268) (i kraft 1 juni 2020), [4 mars 2021 nr. 633](forskrift/2021-03-04-633) (i kraft 15 mars 2021), [4 mars 2021 nr. 633](forskrift/2021-03-04-633) (i kraft 1 juni 2021), [22 juni 2021 nr. 2122](forskrift/2021-06-22-2122) (i kraft 1 juli 2021), [24 feb 2022 nr. 297](forskrift/2022-02-24-297) (i kraft 1 mars 2022), [24 feb 2022 nr. 297](forskrift/2022-02-24-297) (i kraft 1 juni 2022), [1 mars 2023 nr. 295](forskrift/2023-03-01-295) (i kraft 3 mars 2023), [1 mars 2023 nr. 295](forskrift/2023-03-01-295) (i kraft 1 juni 2023), [1 mars 2024 nr. 360](forskrift/2024-03-01-360), [1 mars 2024 nr. 360](forskrift/2024-03-01-360) (i kraft 1 juni 2024), [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).
 
@@ -76,7 +95,10 @@ Fastboende kan bruke snøskuter, beltebil og elektrisk sykkel på tilliggende is
 
 Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på sjøisen mellom Agardhbukta og Richterfjellet i Storfjorden. Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på islagte sjøområder i Van Mijenfjorden, Van Keulenfjorden, Tempelfjorden og Billefjorden markert med rødt på kart i vedlegg 1.
 
-Forbudet gjelder ikke for nødvendig motorferdsel på korteste farbare rute på sjøisen i område som vist på kart i vedlegg 1:i Van Mijenfjorden, Tempelfjorden og Billefjorden for å krysse fjordene på tvers;langs land på nordsiden av Van Mijenfjorden.
+Forbudet gjelder ikke for nødvendig motorferdsel på korteste farbare rute på sjøisen i område som vist på kart i vedlegg 1:
+
+1. i Van Mijenfjorden, Tempelfjorden og Billefjorden for å krysse fjordene på tvers;
+2. langs land på nordsiden av Van Mijenfjorden.
 
 Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrres unødig. Det er ikke tillatt med opphold og stans på sjøisen utover det som er nødvendig for sikker ferdsel.
 
@@ -84,7 +106,12 @@ Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrre
 
 ### § 8b. (bruk av snøskuter, beltebil og elektrisk sykkel i terrenget på frossen og snødekt mark for tilreisende)
 
-Tilreisende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark i:områder markert med gult som vist på kart i vedlegg 2;områder markert med blått som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;i kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;områder markert med oransje som vist på kart i vedlegg 2 dersom de er i følge med fastboende i Ny-Ålesund.
+Tilreisende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark i:
+
+1. områder markert med gult som vist på kart i vedlegg 2;
+2. områder markert med blått som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;
+3. i kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;
+4. områder markert med oransje som vist på kart i vedlegg 2 dersom de er i følge med fastboende i Ny-Ålesund.
 
 > Tilføyd ved forskrift [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).
 
@@ -94,7 +121,11 @@ Tilreisende kan bruke snøskuter, beltebil og elektrisk sykkel på tilliggende i
 
 Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på islagte sjøområder i Van Mijenfjorden, Van Keulenfjorden, Tempelfjorden, Billefjorden og Dicksonfjorden markert med rødt som vist på kart i vedlegg 2.
 
-Forbudet gjelder ikke nødvendig motorferdsel på korteste farbare rute på sjøisen i områder som vist på kart i vedlegg 2:for kryssing av Tempelfjorden og Billefjorden;langs land på nordsiden av Van Mijenfjorden dersom de er deltakere i turistvirksomhet;på Van Mijenfjorden for adkomst til hytter.
+Forbudet gjelder ikke nødvendig motorferdsel på korteste farbare rute på sjøisen i områder som vist på kart i vedlegg 2:
+
+1. for kryssing av Tempelfjorden og Billefjorden;
+2. langs land på nordsiden av Van Mijenfjorden dersom de er deltakere i turistvirksomhet;
+3. på Van Mijenfjorden for adkomst til hytter.
 
 Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrres unødig. Det er ikke tillatt med opphold og stans på sjøisen utover det som er nødvendig for sikker ferdsel.
 
@@ -104,7 +135,12 @@ Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrre
 
 Med nyttetrafikk forstås her trafikk som skjer i tilknytning til de formål som er nevnt i [§ 6](forskrift/2002-06-24-723/§6).
 
-For nødvendig nyttetrafikk kan beltekjøretøy benyttesi områder som er markert med gult på vedlagte kart A og på tilliggende sjøområder;i en kartfestet ferdselsåre gjennom et område markert med grønt på vedlagte kart A.Ferdselsåren er markert med stiplet rød strek på kart A, og går langs dalbunnen i Reindalen fra Sørhytta og opp til Reindalspasset, videre ned dalbunnen i Lundströmdalen til Kjellströmdalen.
+For nødvendig nyttetrafikk kan beltekjøretøy benyttes
+
+1. i områder som er markert med gult på vedlagte kart A og på tilliggende sjøområder;
+2. i en kartfestet ferdselsåre gjennom et område markert med grønt på vedlagte kart A.
+
+Ferdselsåren er markert med stiplet rød strek på kart A, og går langs dalbunnen i Reindalen fra Sørhytta og opp til Reindalspasset, videre ned dalbunnen i Lundströmdalen til Kjellströmdalen.
 
 Dersom vær- eller føreforhold gjør det vanskelig å bruke områder som omtalt i annet ledd bokstav a kan en alternativ ferdselsåre, som går langs dalbunnene i Bolterdalen og Tverrdalen benyttes.
 
@@ -136,7 +172,11 @@ Bruk av luftputefartøy og hydrokopter er forbudt i ikke islagte sjøområder i 
 
 Det er forbudt å bryte fastis. Med fastis menes sammenhengende landfast sjøis.
 
-Forbudet gjelder ikke motorferdselfor å holde farleden inn til havnene i Longyearbyen og Barentsburg åpenfor å sikre forsyninger til Ny-Ålesundfor Kystvaktas utføring av nødvendige oppgaver der disse ikke kan løses på annen måte.
+Forbudet gjelder ikke motorferdsel
+
+1. for å holde farleden inn til havnene i Longyearbyen og Barentsburg åpen
+2. for å sikre forsyninger til Ny-Ålesund
+3. for Kystvaktas utføring av nødvendige oppgaver der disse ikke kan løses på annen måte.
 
 > Tilføyd ved forskrift [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).
 
@@ -168,7 +208,11 @@ Det er forbudt å bruke undervannsfartøy i næringsvirksomhet.
 
 ### § 13. (tillatelse etter søknad)
 
-Sysselmesteren kan etter søknad gi tillatelse tilmotorferdsel for fastboende i Sør-Spitsbergen nasjonalpark, Forlandet nasjonalpark og Nordvest-Spitsbergen nasjonalpark og kryssing av sjøis på Van Keulenfjordenmotorferdsel for fastboende på Ny Friesland i Nordaust-Svalbard naturreservatmotorferdsel i planområdene i tilknytning til bygge- og anleggsvirksomhet for hytter.
+Sysselmesteren kan etter søknad gi tillatelse til
+
+1. motorferdsel for fastboende i Sør-Spitsbergen nasjonalpark, Forlandet nasjonalpark og Nordvest-Spitsbergen nasjonalpark og kryssing av sjøis på Van Keulenfjorden
+2. motorferdsel for fastboende på Ny Friesland i Nordaust-Svalbard naturreservat
+3. motorferdsel i planområdene i tilknytning til bygge- og anleggsvirksomhet for hytter.
 
 Sysselmesteren kan i andre tilfeller gjøre unntak fra bestemmelsene når formålet med [svalbardmiljøloven](lov/2001-06-15-79) krever det, samt for vitenskapelige undersøkelser, arbeider av vesentlig samfunnsmessig betydning og i andre særlige tilfelle.
 

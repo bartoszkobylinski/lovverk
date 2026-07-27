@@ -15,7 +15,7 @@ xml_hash: "55a1e3a0b224665108dd1956771507f109a40cf7209ae20441c1631c36ba6bf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019L1152"
@@ -28,15 +28,29 @@ eu_basis:
 
 ### § 1-1. Lovens formål
 
-Lovens formål er:å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet til sjøs,sammen med [skipssikkerhetsloven](lov/2007-02-16-9) å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon og full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,å gi grunnlag for at arbeidsgiver og arbeidstakerne selv kan ivareta og utvikle arbeidsmiljøet i virksomheten i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,å bidra til et inkluderende arbeidsliv.
+Lovens formål er:
+
+1. å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet til sjøs,
+2. sammen med [skipssikkerhetsloven](lov/2007-02-16-9) å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon og full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
+3. å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
+4. å gi grunnlag for at arbeidsgiver og arbeidstakerne selv kan ivareta og utvikle arbeidsmiljøet i virksomheten i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,
+5. å bidra til et inkluderende arbeidsliv.
 
 ### § 1-2. Lovens virkeområde
 
 (1) Loven får anvendelse for arbeidstaker som har sitt arbeid om bord på norsk skip. [Kapittel 8](lov/2013-06-21-102/kap8) til 10 får også anvendelse for andre som har sitt arbeid om bord på norsk skip.
 
-(2) Loven gjelder ikke for arbeidstaker som:bare arbeider om bord mens skipet ligger i havn,gjør tjeneste på Forsvarets skip, med unntak av sivilt personell på skip befraktet av Forsvaret.
+(2) Loven gjelder ikke for arbeidstaker som:
 
-(3) Departementet kan gi utfyllende forskrifter til første og annet ledd, herunder om:i hvilken utstrekning loven ikke får anvendelse på arbeidstaker som utfører arbeid som etter sin karakter ikke utgjør en del av skipets ordinære drift,i hvilken utstrekning loven skal gjelde for arbeidstaker som omfattes av [statsansatteloven](lov/2017-06-16-67),hva som etter loven er å anse som skip,hvorvidt og i hvilken utstrekning loven skal gjelde for arbeidstaker som har sitt arbeid om bord på annen innretning i sjøen enn skip, og utenlandsk skip så langt folkeretten tillater det og skipet befinner seg i Norges territorialfarvann, herunder i Svalbards eller Jan Mayens territorialfarvann.
+1. bare arbeider om bord mens skipet ligger i havn,
+2. gjør tjeneste på Forsvarets skip, med unntak av sivilt personell på skip befraktet av Forsvaret.
+
+(3) Departementet kan gi utfyllende forskrifter til første og annet ledd, herunder om:
+
+1. i hvilken utstrekning loven ikke får anvendelse på arbeidstaker som utfører arbeid som etter sin karakter ikke utgjør en del av skipets ordinære drift,
+2. i hvilken utstrekning loven skal gjelde for arbeidstaker som omfattes av [statsansatteloven](lov/2017-06-16-67),
+3. hva som etter loven er å anse som skip,
+4. hvorvidt og i hvilken utstrekning loven skal gjelde for arbeidstaker som har sitt arbeid om bord på annen innretning i sjøen enn skip, og utenlandsk skip så langt folkeretten tillater det og skipet befinner seg i Norges territorialfarvann, herunder i Svalbards eller Jan Mayens territorialfarvann.
 
 > Endret ved lov [20 des 2022 nr. 122](lov/2022-12-20-122).
 
@@ -114,7 +128,12 @@ Med arbeidsgiveren menes i denne lov den som har ansatt arbeidstaker for arbeid 
 
 (3) Arbeidstakeren har rett til å la seg bistå av en tillitsvalgt eller annen representant både ved utarbeidelse av og ved endringer i arbeidsavtalen.
 
-(4) Departementet kan gi forskrift om:minimumskrav til innholdet i den skriftlige avtalen,kontraktsformular,unntak fra annet ledd når det er nødvendig på grunn av særlige forhold utenfor partenes kontroll,krav til endring av arbeidsavtalen eller til skriftlig informasjon til arbeidstaker ved endringer i arbeidsforholdet.
+(4) Departementet kan gi forskrift om:
+
+1. minimumskrav til innholdet i den skriftlige avtalen,
+2. kontraktsformular,
+3. unntak fra annet ledd når det er nødvendig på grunn av særlige forhold utenfor partenes kontroll,
+4. krav til endring av arbeidsavtalen eller til skriftlig informasjon til arbeidstaker ved endringer i arbeidsforholdet.
 
 > Endret ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
@@ -134,7 +153,11 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten.
 
 ### § 3-4. Midlertidig ansettelse
 
-(1) Arbeidstaker skal ansettes fast. Avtale om midlertidig ansettelse kan likevel inngås:for et bestemt tidsrom, for en bestemt reise eller for arbeid av forbigående varighet, når arbeidets karakter tilsier det,for arbeid som utføres i stedet for en annen eller andre (vikariat),for praksisarbeid.
+(1) Arbeidstaker skal ansettes fast. Avtale om midlertidig ansettelse kan likevel inngås:
+
+1. for et bestemt tidsrom, for en bestemt reise eller for arbeid av forbigående varighet, når arbeidets karakter tilsier det,
+2. for arbeid som utføres i stedet for en annen eller andre (vikariat),
+3. for praksisarbeid.
 
 (2) En arbeidstaker som har vært midlertidig ansatt i mer enn ett år, har krav på skriftlig varsel om tidspunktet for fratreden senest en måned før dette tidspunktet. Varselet skal anses for å være gitt når det er kommet fram til arbeidstakeren. Dersom fristen ikke overholdes, kan arbeidsgiveren ikke kreve at arbeidstakeren fratrer før en måned etter at varsel er gitt.
 
@@ -152,7 +175,10 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten.
 
 (1) Arbeidstaker som er sagt opp på grunn av virksomhetens forhold, har fortrinnsrett til ny ansettelse i virksomheten, med mindre det gjelder en stilling vedkommende ikke er kvalifisert til.
 
-(2) Fortrinnsretten gjelder også:arbeidstaker som er midlertidig ansatt, og som på grunn av virksomhetens forhold ikke får fortsatt ansettelse. Denne bestemmelsen gjelder likevel ikke arbeidstaker i vikariat,arbeidstaker som har akseptert tilbud om redusert stilling i stedet for oppsigelse.
+(2) Fortrinnsretten gjelder også:
+
+1. arbeidstaker som er midlertidig ansatt, og som på grunn av virksomhetens forhold ikke får fortsatt ansettelse. Denne bestemmelsen gjelder likevel ikke arbeidstaker i vikariat,
+2. arbeidstaker som har akseptert tilbud om redusert stilling i stedet for oppsigelse.
 
 (3) Fortrinnsretten gjelder ikke dersom arbeidsgiver er avhengig av å foreta ansettelse straks, og arbeidstaker ikke kan varsles eller tiltre i tide.
 
@@ -212,7 +238,12 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten.
 
 ### § 4-3. Trekk i lønn og feriepenger
 
-(1) Trekk i lønn eller feriepenger kan ikke gjøres med mindre:det er hjemlet i lov,det er fastsatt i tariffavtale,det på forhånd er skriftlig avtalt, ellerdet gjelder erstatning for skade eller tap som arbeidstaker i forbindelse med arbeidet forsettlig eller grovt uaktsomt har påført virksomheten, og arbeidstaker skriftlig har erkjent erstatningsansvar, eller dette er fastslått ved dom, eller arbeidstaker rettsstridig fratrer sin stilling.
+(1) Trekk i lønn eller feriepenger kan ikke gjøres med mindre:
+
+1. det er hjemlet i lov,
+2. det er fastsatt i tariffavtale,
+3. det på forhånd er skriftlig avtalt, eller
+4. det gjelder erstatning for skade eller tap som arbeidstaker i forbindelse med arbeidet forsettlig eller grovt uaktsomt har påført virksomheten, og arbeidstaker skriftlig har erkjent erstatningsansvar, eller dette er fastslått ved dom, eller arbeidstaker rettsstridig fratrer sin stilling.
 
 (2) Trekk i lønn eller feriepenger etter første ledd bokstav c og d skal begrenses til den del av kravet som overstiger det arbeidstaker med rimelighet trenger til underhold for seg og sin husstand.
 
@@ -242,15 +273,34 @@ Arbeidsavtalen skal fortsatt gjelde hvis arbeidstakeren holdes i fangenskap på 
 
 ### § 4-6. Rett til fri hjemreise
 
-(1) Ved opphør av arbeidsforholdet fra arbeidsgivers side skal arbeidsgiver sørge for arbeidstakers hjemreise til bosted og dekke utgifter til dette og til nødvendig underhold. Det samme gjelder når:arbeidstaker som har vært ansatt i seks måneders sammenhengende tjeneste i utenriksfart hos samme arbeidsgiver eller på samme skip,midlertidig ansettelse etter [§ 3-4](lov/2013-06-21-102/§3-4) opphører,gravid arbeidstaker har fått permisjon etter [§§ 7-2](lov/2013-06-21-102/§7-2) eller [7-4](lov/2013-06-21-102/§7-4),arbeidstaker har rett til å fratre tjenesten om bord etter [§ 9-5](lov/2013-06-21-102/§9-5),skipet er gått tapt ved sjøulykke eller blitt umulig å reparere,arbeidstaker på grunn av sykdom, skade eller andre medisinske grunner ikke lenger er i stand til å utføre sine arbeidsoppgaver,arbeidsgiver er insolvent eller av andre grunner ute av stand til å oppfylle sine forpliktelser overfor arbeidstaker,arbeidstaker er suspendert.
+(1) Ved opphør av arbeidsforholdet fra arbeidsgivers side skal arbeidsgiver sørge for arbeidstakers hjemreise til bosted og dekke utgifter til dette og til nødvendig underhold. Det samme gjelder når:
+
+1. arbeidstaker som har vært ansatt i seks måneders sammenhengende tjeneste i utenriksfart hos samme arbeidsgiver eller på samme skip,
+2. midlertidig ansettelse etter [§ 3-4](lov/2013-06-21-102/§3-4) opphører,
+3. gravid arbeidstaker har fått permisjon etter [§§ 7-2](lov/2013-06-21-102/§7-2) eller [7-4](lov/2013-06-21-102/§7-4),
+4. arbeidstaker har rett til å fratre tjenesten om bord etter [§ 9-5](lov/2013-06-21-102/§9-5),
+5. skipet er gått tapt ved sjøulykke eller blitt umulig å reparere,
+6. arbeidstaker på grunn av sykdom, skade eller andre medisinske grunner ikke lenger er i stand til å utføre sine arbeidsoppgaver,
+7. arbeidsgiver er insolvent eller av andre grunner ute av stand til å oppfylle sine forpliktelser overfor arbeidstaker,
+8. arbeidstaker er suspendert.
 
 (2) Er arbeidstaker gitt avskjed etter reglene i [§ 5-14](lov/2013-06-21-102/§5-14), kan arbeidsgiver kreve at arbeidstaker selv dekker arbeidsgivers utgifter etter første ledd.
 
-(3) Departementet kan gi nærmere forskrift om retten til fri hjemreise, herunder om:hjemreise til annet sted enn bosted,kortere opptjeningstid enn seks måneder etter første ledd bokstav c der særlige forhold foreligger,særlige regler for arbeidstaker som ved ansettelsestidspunktet var under 18 år,innholdet av arbeidstakers rettigheter ved hjemreisen,statens plikt til å sørge for hjemreise og dekke utgiftene der arbeidsgiver unnlater å gjøre det, samt statens rett til refusjon fra arbeidsgiver for pådratte utgifter,unntak for arbeidstakere på fiske- og fangstfartøy.
+(3) Departementet kan gi nærmere forskrift om retten til fri hjemreise, herunder om:
+
+1. hjemreise til annet sted enn bosted,
+2. kortere opptjeningstid enn seks måneder etter første ledd bokstav c der særlige forhold foreligger,
+3. særlige regler for arbeidstaker som ved ansettelsestidspunktet var under 18 år,
+4. innholdet av arbeidstakers rettigheter ved hjemreisen,
+5. statens plikt til å sørge for hjemreise og dekke utgiftene der arbeidsgiver unnlater å gjøre det, samt statens rett til refusjon fra arbeidsgiver for pådratte utgifter,
+6. unntak for arbeidstakere på fiske- og fangstfartøy.
 
 ### § 4-7. Rederiets garantiplikt
 
-(1) Rederiet skal sørge for at det blir stilt garanti for bestemte ytelser til arbeidstaker som ikke er omfattet av norske trygdeordninger eller av EØS-avtalens trygdeforordning, og som:arbeider om bord på skip registrert i norsk internasjonalt skipsregister, ellerer ansatt i tjeneste hos utenlandsk arbeidsgiver som driver næringsvirksomhet om bord på skip i utenriksfart, registrert i norsk ordinært skipsregister (NOR).
+(1) Rederiet skal sørge for at det blir stilt garanti for bestemte ytelser til arbeidstaker som ikke er omfattet av norske trygdeordninger eller av EØS-avtalens trygdeforordning, og som:
+
+1. arbeider om bord på skip registrert i norsk internasjonalt skipsregister, eller
+2. er ansatt i tjeneste hos utenlandsk arbeidsgiver som driver næringsvirksomhet om bord på skip i utenriksfart, registrert i norsk ordinært skipsregister (NOR).
 
 (2) Rederiet skal også sørge for at det blir stilt garanti for bestemte ytelser til arbeidstaker som er ansatt i hotell- og restaurantvirksomheten om bord på turistskip, registrert i norsk internasjonalt skipsregister (NIS), og som omfattes av EØS-avtalens trygdeforordning.
 
@@ -260,7 +310,14 @@ Arbeidsavtalen skal fortsatt gjelde hvis arbeidstakeren holdes i fangenskap på 
 
 (5) Denne bestemmelsen får ikke anvendelse for arbeidstaker på fiske- og fangstfartøy.
 
-(6) Departementet kan gi nærmere forskrifter om:hvem som kan stille garantier,dokumentasjon for at nødvendig garanti foreligger,omfang og innhold av garantiene,virkningen av at garantier ikke er stilt eller er opphørt,garantistens og statens regresskrav i arbeidsgivers konkursbo,anmerkning av garanti i skipsregisteret.
+(6) Departementet kan gi nærmere forskrifter om:
+
+1. hvem som kan stille garantier,
+2. dokumentasjon for at nødvendig garanti foreligger,
+3. omfang og innhold av garantiene,
+4. virkningen av at garantier ikke er stilt eller er opphørt,
+5. garantistens og statens regresskrav i arbeidsgivers konkursbo,
+6. anmerkning av garanti i skipsregisteret.
 
 > Endret ved [lov 16 juni 2017 nr. 72](lov/2017-06-16-72) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 787](forskrift/2017-06-16-787)).
 
@@ -284,7 +341,18 @@ Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den 
 
 (2) Vurderer arbeidsgiver å gå til oppsigelse av minst ti arbeidstakere innenfor et tidsrom på 30 dager, uten at oppsigelsene er begrunnet i de enkelte arbeidstakeres forhold, skal det innledes drøftinger med arbeidstakernes tillitsvalgte. Drøftingene skal omhandle muligheten for å unngå oppsigelser eller redusere antallet, og tiltak for å minske skadevirkningene av oppsigelsene for arbeidstakerne. Arbeidsgiver skal så tidlig som mulig gi tillitsvalgte relevante opplysninger skriftlig.
 
-(3) Ved oppsigelser etter annet ledd, skal arbeidsgiver gi de tillitsvalgte alle relevante opplysninger. Dette omfatter skriftlig melding om:grunnene til eventuelle oppsigelserantallet arbeidstakere som vil kunne bli oppsagthvilke arbeidsgrupper arbeidstakerne som vil kunne bli oppsagt tilhørerantallet arbeidstakere som normalt er ansatthvilke arbeidstakergrupper som normalt er sysselsattover hvilken periode oppsigelsene vil kunne bli foretattforslag til kriterier for utvelgelse av de som eventuelt skal sies oppforslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag.Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Arbeids- og velferdsetaten, jf. [arbeidsmarkedsloven § 8](lov/2004-12-10-76/§8).
+(3) Ved oppsigelser etter annet ledd, skal arbeidsgiver gi de tillitsvalgte alle relevante opplysninger. Dette omfatter skriftlig melding om:
+
+1. grunnene til eventuelle oppsigelser
+2. antallet arbeidstakere som vil kunne bli oppsagt
+3. hvilke arbeidsgrupper arbeidstakerne som vil kunne bli oppsagt tilhører
+4. antallet arbeidstakere som normalt er ansatt
+5. hvilke arbeidstakergrupper som normalt er sysselsatt
+6. over hvilken periode oppsigelsene vil kunne bli foretatt
+7. forslag til kriterier for utvelgelse av de som eventuelt skal sies opp
+8. forslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag.
+
+Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Arbeids- og velferdsetaten, jf. [arbeidsmarkedsloven § 8](lov/2004-12-10-76/§8).
 
 (4) Arbeidstakernes tillitsvalgte kan kommentere meldingen direkte overfor Arbeids- og velferdsetaten.
 
@@ -312,7 +380,13 @@ Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den 
 
 (2) Oppsigelse fra arbeidsgivers side skal leveres til arbeidstaker personlig eller sendes i rekommandert brev til arbeidstakers oppgitte adresse. Er arbeidstaker i arbeid om bord, skal oppsigelsen hvis mulig leveres arbeidstaker personlig. Oppsigelsen skal anses for å ha funnet sted når den er kommet frem til arbeidstaker.
 
-(3) Oppsigelsen skal inneholde opplysninger om:arbeidstakers rett til å kreve forhandling og reise søksmål etter [§§ 6-1](lov/2013-06-21-102/§6-1) og [6-2](lov/2013-06-21-102/§6-2),arbeidstakers rett til å fortsette i stillingen etter [§ 5-10](lov/2013-06-21-102/§5-10),de frister som gjelder for å kreve forhandling, reise søksmål og for krav om å fortsette i stillingen,fortrinnsrett etter [§ 3-6](lov/2013-06-21-102/§3-6), dersom oppsigelsen er begrunnet i virksomhetens forhold,hvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.
+(3) Oppsigelsen skal inneholde opplysninger om:
+
+1. arbeidstakers rett til å kreve forhandling og reise søksmål etter [§§ 6-1](lov/2013-06-21-102/§6-1) og [6-2](lov/2013-06-21-102/§6-2),
+2. arbeidstakers rett til å fortsette i stillingen etter [§ 5-10](lov/2013-06-21-102/§5-10),
+3. de frister som gjelder for å kreve forhandling, reise søksmål og for krav om å fortsette i stillingen,
+4. fortrinnsrett etter [§ 3-6](lov/2013-06-21-102/§3-6), dersom oppsigelsen er begrunnet i virksomhetens forhold,
+5. hvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.
 
 (4) Dersom arbeidstakeren krever det, skal arbeidsgiver skriftlig oppgi de omstendigheter som påberopes som grunn for oppsigelsen.
 
@@ -430,7 +504,10 @@ Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på el
 
 (1) Kapitlet her gjelder ved overdragelse av en virksomhet eller en del av en virksomhet, herunder overdragelser av sjøgående skip. Med overdragelse menes en overføring av en selvstendig økonomisk enhet som beholder sin identitet etter overføringen. Kapitlet kommer likevel ikke til anvendelse dersom overdragelsen utelukkende gjelder skip.
 
-(2) [§§ 5 A-3](lov/2013-06-21-102/§5a-3) til 5 A-5 gjelder bare nårvirksomheten eller den delen av virksomheten som skal overdras ligger innenfor EØS, ogerververen ligger innenfor EØS, eller den virksomheten eller delen av denne som overdras, forblir innenfor EØS.
+(2) [§§ 5 A-3](lov/2013-06-21-102/§5a-3) til 5 A-5 gjelder bare når
+
+1. virksomheten eller den delen av virksomheten som skal overdras ligger innenfor EØS, og
+2. erververen ligger innenfor EØS, eller den virksomheten eller delen av denne som overdras, forblir innenfor EØS.
 
 (3) [§§ 5 A-2](lov/2013-06-21-102/§5a-2) og [5 A-3](lov/2013-06-21-102/§5a-3) gjelder ikke ved overdragelse fra et konkursbo.
 
@@ -468,7 +545,12 @@ Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på el
 
 ### § 5 A-5. Informasjon og drøfting
 
-(1) Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arbeidstakernes tillitsvalgte om overdragelsen. Det skal gis særskilt informasjon omgrunnen til overdragelsenden fastsatte eller foreslåtte dato for overdragelsende rettslige, økonomiske og sosiale følgene av overdragelsen for arbeidstakerneplanlagte tiltak overfor arbeidstakerne.
+(1) Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arbeidstakernes tillitsvalgte om overdragelsen. Det skal gis særskilt informasjon om
+
+1. grunnen til overdragelsen
+2. den fastsatte eller foreslåtte dato for overdragelsen
+3. de rettslige, økonomiske og sosiale følgene av overdragelsen for arbeidstakerne
+4. planlagte tiltak overfor arbeidstakerne.
 
 (2) I virksomheter hvor det ikke er tillitsvalgte skal de berørte arbeidstakerne så tidlig som mulig få informasjonen nevnt i første ledd.
 
@@ -480,9 +562,20 @@ Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på el
 
 ### § 6-1. Rett til å kreve forhandlinger
 
-(1) En arbeidstaker kan kreve forhandlinger med arbeidsgiver dersom det gjøres gjeldende at:en oppsigelse eller avskjed er ulovlig,lovens regler om fortrinnsrett er brutt,en midlertidig ansettelse eller suspensjon er ulovlig,forhold nevnt i bokstav a til c gir rett til å kreve erstatning,en nektelse av permisjon er ulovlig.
+(1) En arbeidstaker kan kreve forhandlinger med arbeidsgiver dersom det gjøres gjeldende at:
 
-(2) Krav om forhandlinger må fremsettes skriftlig til arbeidsgiver innen to uker fra:oppsigelsen eller avskjeden fant sted,arbeidsgiver avslo krav fra arbeidstaker om fortrinnsrett til ny stilling eller permisjon,arbeidstaker fratrådte ved tvist om det har foreligget ulovlig midlertidig ansettelse,suspensjonens opphørstidspunkt.
+1. en oppsigelse eller avskjed er ulovlig,
+2. lovens regler om fortrinnsrett er brutt,
+3. en midlertidig ansettelse eller suspensjon er ulovlig,
+4. forhold nevnt i bokstav a til c gir rett til å kreve erstatning,
+5. en nektelse av permisjon er ulovlig.
+
+(2) Krav om forhandlinger må fremsettes skriftlig til arbeidsgiver innen to uker fra:
+
+1. oppsigelsen eller avskjeden fant sted,
+2. arbeidsgiver avslo krav fra arbeidstaker om fortrinnsrett til ny stilling eller permisjon,
+3. arbeidstaker fratrådte ved tvist om det har foreligget ulovlig midlertidig ansettelse,
+4. suspensjonens opphørstidspunkt.
 
 (3) Arbeidsgiver skal sørge for at forhandlingsmøte blir holdt snarest mulig og senest innen to uker etter at kravet er mottatt.
 
@@ -490,11 +583,20 @@ Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på el
 
 (5) Arbeidstaker og arbeidsgiver har rett til å la seg bistå av rådgiver under forhandlingene. De skal være sluttført senest to uker etter datoen for det første forhandlingsmøtet, med mindre det er enighet om å fortsette. Det skal settes opp protokoll, som skal underskrives av partene og deres rådgivere.
 
-(6) Departement kan gi forskrifter om forhandlinger, herunder om:forhandlingssted,utgiftsdekning for arbeidstaker til reise og opphold,forhandlinger ved norsk utenriksstasjon,protokollformular.
+(6) Departement kan gi forskrifter om forhandlinger, herunder om:
+
+1. forhandlingssted,
+2. utgiftsdekning for arbeidstaker til reise og opphold,
+3. forhandlinger ved norsk utenriksstasjon,
+4. protokollformular.
 
 ### § 6-2. Søksmålsfrister
 
-(1) Med mindre partene i den enkelte sak er enige om en lengre frist, er søksmålsfristen åtte uker ved:tvist om oppsigelse og avskjed,brudd på lovens regler om fortrinnsrett,tvist om det har foreligget ulovlig midlertidig ansettelse eller suspensjon.
+(1) Med mindre partene i den enkelte sak er enige om en lengre frist, er søksmålsfristen åtte uker ved:
+
+1. tvist om oppsigelse og avskjed,
+2. brudd på lovens regler om fortrinnsrett,
+3. tvist om det har foreligget ulovlig midlertidig ansettelse eller suspensjon.
 
 (2) Krever arbeidstakeren bare erstatning, er søksmålsfristen seks måneder.
 
@@ -592,7 +694,12 @@ Permisjon etter [§§ 7-2](lov/2013-06-21-102/§7-2) til [7-6](lov/2013-06-21-10
 
 (2) Bestemmelsene i første ledd kan fravikes i tariffavtale for skip i utenriksfart registrert i norsk ordinært skipsregister (NOR).
 
-(3) Departementet kan gi forskrift om slik permisjon, herunder om:hvilke personer som skal anses som nære pårørende,omfanget av permisjonen,dokumentasjon av nødvendig omsorg,varslingsplikt.
+(3) Departementet kan gi forskrift om slik permisjon, herunder om:
+
+1. hvilke personer som skal anses som nære pårørende,
+2. omfanget av permisjonen,
+3. dokumentasjon av nødvendig omsorg,
+4. varslingsplikt.
 
 ### § 7-10. Utdanningspermisjon
 
@@ -600,7 +707,14 @@ Permisjon etter [§§ 7-2](lov/2013-06-21-102/§7-2) til [7-6](lov/2013-06-21-10
 
 (2) Bestemmelsene i første ledd kan fravikes i tariffavtale for skip i utenriksfart registrert i norsk ordinært skipsregister (NOR).
 
-(3) Departementet kan gi forskrift om utdanningspermisjon, herunder om:krav til utdanningstilbudets innhold,forhold hos arbeidsgiver som gir rett til å nekte permisjon,rett til ny utdanningspermisjon,varsel til arbeidsgiver om bruk av retten til permisjon,varsel fra arbeidsgiver om at vilkårene for permisjon ikke anses oppfylt,unntak fra retten til permisjon for visse arbeidsgivere.
+(3) Departementet kan gi forskrift om utdanningspermisjon, herunder om:
+
+1. krav til utdanningstilbudets innhold,
+2. forhold hos arbeidsgiver som gir rett til å nekte permisjon,
+3. rett til ny utdanningspermisjon,
+4. varsel til arbeidsgiver om bruk av retten til permisjon,
+5. varsel fra arbeidsgiver om at vilkårene for permisjon ikke anses oppfylt,
+6. unntak fra retten til permisjon for visse arbeidsgivere.
 
 ### § 7-11. Militærtjeneste mv.
 
@@ -632,7 +746,11 @@ Permisjon etter [§§ 7-2](lov/2013-06-21-102/§7-2) til [7-6](lov/2013-06-21-10
 
 ### § 8-2. Omsorgsplikt ved dødsfall og begravelse
 
-(1) Rederiet skal sørge for underretning til nærmeste pårørende og for begravelse eller hjemsendelse av båren, dersom den som har sitt arbeid om bord dør mens vedkommende:er i tjeneste om bord,har rett til sykepleie etter [§ 8-1](lov/2013-06-21-102/§8-1),er under reise for rederiets eller arbeidsgiverens regning.
+(1) Rederiet skal sørge for underretning til nærmeste pårørende og for begravelse eller hjemsendelse av båren, dersom den som har sitt arbeid om bord dør mens vedkommende:
+
+1. er i tjeneste om bord,
+2. har rett til sykepleie etter [§ 8-1](lov/2013-06-21-102/§8-1),
+3. er under reise for rederiets eller arbeidsgiverens regning.
 
 (2) Skipsføreren skal medvirke til gjennomføringen av omsorgsplikten etter denne paragraf.
 
@@ -688,7 +806,14 @@ Den som har sitt arbeid om bord, har rett til å gå i land i sin fritid under s
 
 ### § 9-5. Rett til å fratre
 
-(1) Den som har sitt arbeid om bord, har rett til å fratre dersom:skipet ikke oppfyller krav i [skipssikkerhetsloven](lov/2007-02-16-9) eller i forskrift fastsatt i medhold av loven til teknisk, operativ og personlig sikkerhet, og manglene klart utgjør en fare for skipet eller for de som har sitt arbeid om bord,rederiet unnlater å etterkomme krav om besiktelse i henhold til [skipssikkerhetsloven § 43](lov/2007-02-16-9/§43) femte ledd bokstav c og forskrifter fastsatt i medhold av den bestemmelsen,skipet mister retten til å føre norsk flagg,det foreligger krig eller krigslignende forhold i farvann der skipet skal seile eller i havn som skipet er bestemt for,det i havn som skipet er bestemt for, foreligger en epidemisk sykdom med omfattende utbredelse, eller betydelige helseskadelige miljøforurensninger,vedkommende er ansatt for en bestemt reise, og reisen blir vesentlig endret.
+(1) Den som har sitt arbeid om bord, har rett til å fratre dersom:
+
+1. skipet ikke oppfyller krav i [skipssikkerhetsloven](lov/2007-02-16-9) eller i forskrift fastsatt i medhold av loven til teknisk, operativ og personlig sikkerhet, og manglene klart utgjør en fare for skipet eller for de som har sitt arbeid om bord,
+2. rederiet unnlater å etterkomme krav om besiktelse i henhold til [skipssikkerhetsloven § 43](lov/2007-02-16-9/§43) femte ledd bokstav c og forskrifter fastsatt i medhold av den bestemmelsen,
+3. skipet mister retten til å føre norsk flagg,
+4. det foreligger krig eller krigslignende forhold i farvann der skipet skal seile eller i havn som skipet er bestemt for,
+5. det i havn som skipet er bestemt for, foreligger en epidemisk sykdom med omfattende utbredelse, eller betydelige helseskadelige miljøforurensninger,
+6. vedkommende er ansatt for en bestemt reise, og reisen blir vesentlig endret.
 
 (2) Fratreden kan skje før avreise fra havn eller i første havn skipet anløper etter at vedkommende ble kjent med forholdet.
 
@@ -706,9 +831,19 @@ Den som har sitt arbeid om bord, har rett til å gå i land i sin fritid under s
 
 (3) Gjengjeldelse mot den som fremsetter klage i samsvar med etablerte prosedyrer, er forbudt. For øvrig gjelder [§ 2-7](lov/2013-06-21-102/§2-7) tilsvarende.
 
-(4) Departementet kan gi forskrift om klage til rederiet, herunder om:behandling og avgjørelse av klagen om bord på skipet,prosedyrer for klagebehandling i rederiet.
+(4) Departementet kan gi forskrift om klage til rederiet, herunder om:
 
-(5) Den som har sitt arbeid om bord, kan også klage til tilsynsmyndigheten på forhold som angitt i første ledd. Departementet kan gi forskrift om slik klage, herunder om:hvem klage kan fremsettes overfor,klagen først skal behandles av rederiet,hvilke klager tilsynsmyndigheten kan behandle og avgjøre,saksbehandlingen for øvrig,vedtak fra tilsynsmyndigheten kan påklages videre,klage fra arbeidstaker på utenlandsk skip.
+1. behandling og avgjørelse av klagen om bord på skipet,
+2. prosedyrer for klagebehandling i rederiet.
+
+(5) Den som har sitt arbeid om bord, kan også klage til tilsynsmyndigheten på forhold som angitt i første ledd. Departementet kan gi forskrift om slik klage, herunder om:
+
+1. hvem klage kan fremsettes overfor,
+2. klagen først skal behandles av rederiet,
+3. hvilke klager tilsynsmyndigheten kan behandle og avgjøre,
+4. saksbehandlingen for øvrig,
+5. vedtak fra tilsynsmyndigheten kan påklages videre,
+6. klage fra arbeidstaker på utenlandsk skip.
 
 ## Kapittel 10. Vern mot diskriminering
 
@@ -726,7 +861,12 @@ Den som har sitt arbeid om bord, har rett til å gå i land i sin fritid under s
 
 ### § 10-2. Hva kapitlet omfatter
 
-(1) Bestemmelsene i dette kapittel gjelder alle sider ved arbeidsforholdet, herunder:utlysing av stilling, ansettelse, omplassering og forfremmelse,opplæring og annen kompetanseutvikling,lønns- og arbeidsvilkår,opphør.
+(1) Bestemmelsene i dette kapittel gjelder alle sider ved arbeidsforholdet, herunder:
+
+1. utlysing av stilling, ansettelse, omplassering og forfremmelse,
+2. opplæring og annen kompetanseutvikling,
+3. lønns- og arbeidsvilkår,
+4. opphør.
 
 (2) Bestemmelsene i dette kapittel gjelder tilsvarende for rederiets valg og behandling av personer som har sitt arbeid om bord.
 
@@ -786,7 +926,11 @@ Dersom den som har sitt arbeid om bord eller arbeidssøker fremlegger opplysning
 
 ### § 11-2. Gjennomføring av plikten til informasjon og drøfting
 
-(1) Plikten til informasjon og drøfting omfatter:informasjon om den aktuelle og forventede utvikling av virksomhetens aktiviteter og økonomiske situasjon,informasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i virksomheten, inkludert eventuell fare for innskrenkninger og de tiltak arbeidsgiver vurderer i den forbindelse,informasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.
+(1) Plikten til informasjon og drøfting omfatter:
+
+1. informasjon om den aktuelle og forventede utvikling av virksomhetens aktiviteter og økonomiske situasjon,
+2. informasjon og drøfting om den aktuelle og forventede bemanningssituasjonen i virksomheten, inkludert eventuell fare for innskrenkninger og de tiltak arbeidsgiver vurderer i den forbindelse,
+3. informasjon og drøfting om beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.
 
 (2) Informasjon etter første ledd bokstav a skal skje på et passende tidspunkt. Informasjon og drøfting etter første ledd bokstav b og c skal skje så tidlig som mulig.
 
@@ -826,7 +970,14 @@ For forvaltningstiltak gjelder det som er bestemt i [skipssikkerhetsloven §§ 4
 
 (3) Overtredelsesgebyr etter første og annet ledd kan ilegges selv om ingen enkeltperson har utvist skyld.
 
-(4) Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmåling av gebyret skal det særlig legges vekt på:hvor alvorlig overtredelsen er,om overtredelsen kunne ha vært forebygget gjennom interne systemer eller ved instruksjon, opplæring, kontroll eller andre tiltak,om overtredelsen er begått for å fremme arbeidsgiverens eller rederiets interesser,om arbeidsgiveren eller rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen,om det foreligger gjentakelse,arbeidsgiverens eller rederiets økonomiske evne.
+(4) Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmåling av gebyret skal det særlig legges vekt på:
+
+1. hvor alvorlig overtredelsen er,
+2. om overtredelsen kunne ha vært forebygget gjennom interne systemer eller ved instruksjon, opplæring, kontroll eller andre tiltak,
+3. om overtredelsen er begått for å fremme arbeidsgiverens eller rederiets interesser,
+4. om arbeidsgiveren eller rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen,
+5. om det foreligger gjentakelse,
+6. arbeidsgiverens eller rederiets økonomiske evne.
 
 (5) [Skipssikkerhetsloven §§ 55](lov/2007-02-16-9/§55) fjerde ledd og [57](lov/2007-02-16-9/§57) gjelder tilsvarende.
 

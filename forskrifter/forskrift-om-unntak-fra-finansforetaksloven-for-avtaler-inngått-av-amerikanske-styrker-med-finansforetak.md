@@ -38,7 +38,11 @@ Med *amerikanske styrker* menes enheten som omfatter styrken og det sivile eleme
 
 Med *amerikanske kontraktører* menes rettssubjekter som verken er stiftet eller til vanlig hjemmehørende i Norge i henhold til norsk lov, herunder deres arbeidstakere som verken er norske statsborgere eller til vanlig bosatt i Norge, og enkeltpersoner som verken er norske statsborgere eller til vanlig bosatt på norsk territorium, når disse rettssubjektene eller enkeltpersonene er til stede på norsk territorium i henhold til en kontrakt eller underkontrakt med det amerikanske forsvarsdepartementet for å levere varer og tjenester i forbindelse med aktiviteter i henhold til tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021.
 
-Med *medfølgende* menes slik det er fastsatt i avtale 19. juni 1951 nr. 1 mellom partene i traktaten for det Nordatlantiske område om status for deres styrker eller tilsvarende folkerettslig bindende statusavtaler for militære styrkemedlemmer og tilhørende personellkategorier (NATO SOFA) artikkel I nr. 1 bokstav c, og omfatter også et familiemedlem til et medlem av styrken eller det sivile elementet somav økonomiske, juridiske eller helsemessige årsaker er avhengig og underholdt av nevnte medlem,deler bolig med nevnte medlem, ogbefinner seg på norsk territorium etter samtykke fra de amerikanske forsvarsmyndighetene.
+Med *medfølgende* menes slik det er fastsatt i avtale 19. juni 1951 nr. 1 mellom partene i traktaten for det Nordatlantiske område om status for deres styrker eller tilsvarende folkerettslig bindende statusavtaler for militære styrkemedlemmer og tilhørende personellkategorier (NATO SOFA) artikkel I nr. 1 bokstav c, og omfatter også et familiemedlem til et medlem av styrken eller det sivile elementet som
+
+1. av økonomiske, juridiske eller helsemessige årsaker er avhengig og underholdt av nevnte medlem,
+2. deler bolig med nevnte medlem, og
+3. befinner seg på norsk territorium etter samtykke fra de amerikanske forsvarsmyndighetene.
 
 ## § 4. Ikrafttredelse
 

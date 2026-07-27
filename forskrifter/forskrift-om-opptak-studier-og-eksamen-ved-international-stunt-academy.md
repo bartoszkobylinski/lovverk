@@ -15,7 +15,7 @@ xml_hash: "47be0643573b1b1aba1ddce9db547ae7d5e23e18473ced26d8ac2386fca97cb0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ eu_basis: []
 
 (2) Forskriften gir regler om opptak til studier, studierett, organisering av studier, eksamen og sensur, begrunnelse, klage og vitnemål ved International Stunt Academy. Forskriften skal sikre en forsvarlig gjennomføring av studiene ved International Stunt Academy.
 
-(3) Forskriften gjelder for personer somSøker opptak til studieprogram ved International Stunt AcademyHar studierett og status som student ved International Stunt Academy.
+(3) Forskriften gjelder for personer som
+
+- Søker opptak til studieprogram ved International Stunt Academy
+- Har studierett og status som student ved International Stunt Academy.
 
 (4) Styret skal fastsette en plan for innholdet i utdanningen og bestemme hvordan planen skal gjennomføres. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende.
 
@@ -106,7 +109,13 @@ Studenter tas opp til International Stunt Academy studier på grunnlag av fastsa
 
 (1) Søknad om studieplass sendes International Stunt Academy innen søknadsfristen. Søknadsskjemaet og søknadsfristen legges ut på skolens hjemmeside medio desember hvert år.
 
-(2) En søknad skal inneholde:Ferdig utfylt søknadsskjema med personopplysninger.Dokumentasjon på fullført og bestått videregående opplæring, treningserfaring, arbeidspraksis og annen relevant informasjon.Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Studenter som søker på bakgrunn av realkompetanse må ha en alder på minst 23 år i søknadsåret. International Stunt Academy kan ta opp søkere mellom 19 og 23 år på grunnlag av realkompetanse. Dette gjelder for inntil 30 % av tilbudene om studieplass ved International Stunt Academy jf. [fagskoleforskriften § 8](forskrift/2019-07-11-1005/§8). Unntak fra krav om videregående opplæring gjelder for søkere som gjennom opptaksprøver dokumenterer spesielle faglige kvalifikasjoner, og viser et tydelig talent for stuntfaget. Søker skal legge ved dokumentasjon på treningserfaring, lønnet og ulønnet arbeid, utdanning, organisasjonserfaring og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
+(2) En søknad skal inneholde:
+
+- Ferdig utfylt søknadsskjema med personopplysninger.
+- Dokumentasjon på fullført og bestått videregående opplæring, treningserfaring, arbeidspraksis og annen relevant informasjon.
+- Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Studenter som søker på bakgrunn av realkompetanse må ha en alder på minst 23 år i søknadsåret. International Stunt Academy kan ta opp søkere mellom 19 og 23 år på grunnlag av realkompetanse. Dette gjelder for inntil 30 % av tilbudene om studieplass ved International Stunt Academy jf. [fagskoleforskriften § 8](forskrift/2019-07-11-1005/§8). Unntak fra krav om videregående opplæring gjelder for søkere som gjennom opptaksprøver dokumenterer spesielle faglige kvalifikasjoner, og viser et tydelig talent for stuntfaget. Søker skal legge ved dokumentasjon på treningserfaring, lønnet og ulønnet arbeid, utdanning, organisasjonserfaring og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
 
 (3) Dokumentasjonen skal sendes inn sammen med søknad. Søknaden skal være komplett før den behandles. Ved søknadsfristens utløp, avvises søkere som ikke finnes å være søknadsberettiget.
 
@@ -130,7 +139,11 @@ Dersom International Stunt Academy oppdager at en søker har levert falskt vitne
 
 (1) Informasjon om opptaksprøvene finnes på International Stunt Academys hjemmesider, søknadsportalen åpnes medio november hvert år. Søknadsfrister, tidspunkt for opptaksprøver, beskrivelse av hvordan opptaksprøvene foregår og hva som forventes av søkerne av kvalifikasjoner er publisert på skolens hjemmesider. Opptaket til International Stunt Academy administreres av rektor i samarbeid med opptaksjuryen. Opptaksjuryen fatter vedtak om hvem som skal få tilbud om studieplass på grunnlag av gjennomføringen av opptaksprøven i sin helhet, intervju og søknad.
 
-(2) Opptaksprøven er lagt opp på følgende måte:Fysisk test: styrke, fleksibilitet, balanse og utholdenhet, monologFremføring av en oppgave: Kandidaten kan velge mellom fire oppgaver og får 30 minutter til å forberede/øve før fremvisning til opptaksjuryenIntervju.
+(2) Opptaksprøven er lagt opp på følgende måte:
+
+- Fysisk test: styrke, fleksibilitet, balanse og utholdenhet, monolog
+- Fremføring av en oppgave: Kandidaten kan velge mellom fire oppgaver og får 30 minutter til å forberede/øve før fremvisning til opptaksjuryen
+- Intervju.
 
 (3) Rangering: Opptak til International Stunt Academy skjer på grunnlag av kvalifisering og rangering. Rangering skjer ved utregning av poeng. Grunnlaget for rangering er karakterene fra den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng. Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
@@ -151,7 +164,9 @@ Dersom International Stunt Academy oppdager at en søker har levert falskt vitne
 | Generell forståelse for faget | 1–10 |
 | Utviklingspotensial | 1–10 |
 
-(7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+(7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:
+
+- søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
 (8) Alle søkere som tilfredsstiller opptakskriteriene, føres opp i prioritert rekkefølge etter opptaksjuryens tildeling av poeng.
 
@@ -169,9 +184,15 @@ Dersom International Stunt Academy oppdager at en søker har levert falskt vitne
 
 ### § 4-7. Godskriving og fritak
 
-(1) *Godskriving*Studenter kan søke om å få godkjent tidligere bestått utdanning. Utdanningen må oppfylle de faglige kravene for emnet eller emnene det søkes om godskriving for. Med emne menes det minste resultatbærende enhet som gir uttelling i form av studiepoeng, som det gis karakter for og som må bestås for å få vitnemål. Det skal ikke gis dobbel uttelling for samme faginnhold. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
+(1) *Godskriving*
 
-(2) *Fritak*Studenter kan søke om å få fritak for deler av utdanningen. Fritak gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøgskole, voksenopplæring eller høyere utdanning på samme eller beslektede fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis normalt ikke fritak for utdanning på utdanning på videregående opplæringsnivå. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.Fritak skal bygge på en faglig vurdering fra International Stunt Academy. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn fra treningserfaring, lønnet og ulønnet arbeid, organisasjonserfaring, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
+Studenter kan søke om å få godkjent tidligere bestått utdanning. Utdanningen må oppfylle de faglige kravene for emnet eller emnene det søkes om godskriving for. Med emne menes det minste resultatbærende enhet som gir uttelling i form av studiepoeng, som det gis karakter for og som må bestås for å få vitnemål. Det skal ikke gis dobbel uttelling for samme faginnhold. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
+
+(2) *Fritak*
+
+Studenter kan søke om å få fritak for deler av utdanningen. Fritak gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøgskole, voksenopplæring eller høyere utdanning på samme eller beslektede fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis normalt ikke fritak for utdanning på utdanning på videregående opplæringsnivå. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
+
+Fritak skal bygge på en faglig vurdering fra International Stunt Academy. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn fra treningserfaring, lønnet og ulønnet arbeid, organisasjonserfaring, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
 
 (3) Skriftlig søknad om godskriving eller fritak sendes skolen på eget skjema. Utgangspunktet for vurderinger om godskriving og fritak er læringsutbytte for den aktuelle utdanningen eller emnet, og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning.
 
@@ -189,7 +210,11 @@ Dersom International Stunt Academy oppdager at en søker har levert falskt vitne
 
 ### § 5-2. Opphør av studierett
 
-(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:studenten oppfyller kravene for tildeling av vitnemål for fullført studiestudenten selv bekrefter at han/hun trekker seg fra studiet før det er fullførtdet i løpet av et år ikke er oppnådd studiepoeng innvilget permisjonssøknad eller delstudier i utlandet.
+(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:
+
+- studenten oppfyller kravene for tildeling av vitnemål for fullført studie
+- studenten selv bekrefter at han/hun trekker seg fra studiet før det er fullført
+- det i løpet av et år ikke er oppnådd studiepoeng innvilget permisjonssøknad eller delstudier i utlandet.
 
 (2) En student som på grunn av ikke beståtte eksamener, prøver og/eller permisjoner, herunder også sykepermisjoner, er mer enn to år forsinket i forhold til den normale studieprogresjon, mister sin studierett.
 
@@ -221,7 +246,14 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 ### § 6-1. Eksamen og vurderingsformer
 
-(1) Ved International Stunt Academy kan følgende eksamen og vurderingsformer hver for seg, eller sammen, for det enkelte emnet og er beskrevet i studieplanen:visninger/filmskriftlig prøvepraktisk prøvemuntlig prøvefremlegging av arbeid/mappekombinasjon av ovennevnte eksamensformer.
+(1) Ved International Stunt Academy kan følgende eksamen og vurderingsformer hver for seg, eller sammen, for det enkelte emnet og er beskrevet i studieplanen:
+
+- visninger/film
+- skriftlig prøve
+- praktisk prøve
+- muntlig prøve
+- fremlegging av arbeid/mappe
+- kombinasjon av ovennevnte eksamensformer.
 
 (2) Eksamen eller prøver kan gjennomføres individuelt eller gruppevis.
 
@@ -286,7 +318,14 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 (4) Studenter med dysleksi eller andre lese-/skrivevansker, eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved eksamensbesvarelsen en anonymisert attest som stadfester dette.
 
-(5) Tilrettelegging skal ikke føre til reduksjon av de faglige kravene.Eksempler på tilrettelegging er:Utvidet tid til eksamenBruk av ordbokBruk av spesielle hjelpemidlerAlternativ eksamensform.
+(5) Tilrettelegging skal ikke føre til reduksjon av de faglige kravene.
+
+Eksempler på tilrettelegging er:
+
+1. Utvidet tid til eksamen
+2. Bruk av ordbok
+3. Bruk av spesielle hjelpemidler
+4. Alternativ eksamensform.
 
 (6) Administrasjonen fatter vedtak om tilrettelegging av eksamen, avslag om tilrettelegging av eksamen skal begrunnes. Vedtaket kan påklages til lokal klagenemnd. Klagebehandling skal sluttføres i god tid før eksamensdato.
 
@@ -304,7 +343,9 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 (2) Gyldig grunn er sykdom, sterke velferdsgrunner eller andre særlige grunner som skal være dokumentert. Slik dokumentasjon skal leveres/være poststemplet så raskt som mulig og senest tre virkedager etter eksamen. Gyldig grunn gir rett til utsatt eksamen.
 
-(3) En student som ikke møter til eksamen som fastsatt, får registrert «ikke møtt» dersom ikke dokumentasjon for gyldig fravær fremlegges. «Ikke møtt» teller som ett eksamensforsøk.Det samme gjelder for studenter som leverer blank besvarelse, som trekker seg under eksamen uten gyldig grunn, eller som uten gyldig grunn ikke leverer rapporter, arbeider, hjemmeoppgaver eller lignende innen fastsatte frister.
+(3) En student som ikke møter til eksamen som fastsatt, får registrert «ikke møtt» dersom ikke dokumentasjon for gyldig fravær fremlegges. «Ikke møtt» teller som ett eksamensforsøk.
+
+Det samme gjelder for studenter som leverer blank besvarelse, som trekker seg under eksamen uten gyldig grunn, eller som uten gyldig grunn ikke leverer rapporter, arbeider, hjemmeoppgaver eller lignende innen fastsatte frister.
 
 (4) Studenter som har levert materiale til bedømming kan ikke unndra seg sensur. Avlagt prøve kan ikke annulleres.
 
@@ -382,7 +423,18 @@ For fag og emner som opphører gjelder følgende: Dersom det etter siste ordinæ
 
 (1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering.
 
-(2) Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [lov om høyere yrkesfaglig utdanning (fagskoleloven) § 24](lov/2018-06-08-28/§24), for eksempel at:studentens kunnskaper og ferdigheter ikke blir prøvd på en upartisk og faglig betryggende måtestudenten har fått kjennskap til eksamensoppgaver før eksamen starterstudenten har manipulert eksamensbesvarelsen etter at den er levert.Hovedområder som betraktes som fusk eller forsøk på fusk:Bruke hjelpemidler som ikke er tillatt på eksamenUtgi andres arbeid som eget, manglende eller feilaktig kildebruk slik at teksten fremstår som studentens egenPlagiatUlovlig samarbeid mellom enkeltpersoner eller grupper.
+(2) Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [lov om høyere yrkesfaglig utdanning (fagskoleloven) § 24](lov/2018-06-08-28/§24), for eksempel at:
+
+- studentens kunnskaper og ferdigheter ikke blir prøvd på en upartisk og faglig betryggende måte
+- studenten har fått kjennskap til eksamensoppgaver før eksamen starter
+- studenten har manipulert eksamensbesvarelsen etter at den er levert.
+
+Hovedområder som betraktes som fusk eller forsøk på fusk:
+
+- Bruke hjelpemidler som ikke er tillatt på eksamen
+- Utgi andres arbeid som eget, manglende eller feilaktig kildebruk slik at teksten fremstår som studentens egen
+- Plagiat
+- Ulovlig samarbeid mellom enkeltpersoner eller grupper.
 
 (3) Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Eksamensvakten skal umiddelbart ta kontakt med administrasjonen og dokumentere hendelsen ved å levere inn en skriftlig rapport som skal være grunnlag for eventuelle formelle vedtak om annullering. Studentene har rett til å forklare seg før vedtaket fattes.
 
@@ -436,7 +488,15 @@ For at International Stunt Academy skal kunne utstede vitnemål eller annen doku
 
 (2) Lokal klagenemnd som førsteinstans, med minst to tredels flertall, fatte enkeltvedtak om utestengelse fra all utdanning ved skolen og fratas retten til å gå opp til eksamen i inntil ett år dersom studenten har gjort ett eller flere grove tillitsbrudd mot skolen. Det kan også fattes vedtak om å avslutte studentens studiekontrakt.
 
-(3) Som grove tillitsbrudd regnes blant annet:Fusk eller forsøk på fuskKjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolen lokaler/områderTydelig beruset eller bruk av alkohol på skolens områder innenfor skoletidenUtøvelse av vold eller hærverkTrakassering av og/eller trusler mot medstudenter eller ansatteTyveri fra skolen, ansatte eller medstudenterBenytte falsk vitnemål eller andre falske dokumenter.
+(3) Som grove tillitsbrudd regnes blant annet:
+
+1. Fusk eller forsøk på fusk
+2. Kjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolen lokaler/områder
+3. Tydelig beruset eller bruk av alkohol på skolens områder innenfor skoletiden
+4. Utøvelse av vold eller hærverk
+5. Trakassering av og/eller trusler mot medstudenter eller ansatte
+6. Tyveri fra skolen, ansatte eller medstudenter
+7. Benytte falsk vitnemål eller andre falske dokumenter.
 
 (4) Lokal klagenemnd kan som førsteinstans, med minst to tredels flertall, fatte enkeltvedtak om å utestenge studenten fra utdanningen i inntil ett år hvis studenten ikke har etterkommet vedtak om bortvisning.
 

@@ -38,7 +38,27 @@ Formålet med forskriften er å fastsette minimumskrav til sikker og hensiktsmes
 
 ### § 1-3. Definisjoner
 
-I forskriften her forstås med:*alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,*automatisk hastighetsovervåkning:* den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom tillatt hastighet overstiges. Automatisk hastighetsovervåkning kan være fullstendig eller delvis,*det nasjonale jernbanenettet:* den jernbaneinfrastruktur som er beregnet på persontransport og/eller godstransport og som forvaltes av Bane NOR SF som infrastrukturforvalter,*energi:* elektrisitetsforsyningssystemet, herunder luftledninger og deler av utstyret for måling av elektrisitetsforbruket om bord i toget,*ERTMS: (European Rail Traffic Management System):* standardisert teknisk system for signalering og trafikkstyring som består av ETCS og GSM-R (klasse A-systemer),*ETCS(European Train Control System):* standardisert europeisk togkontrollsystem,*infrastruktur:* spor, sporveksler, byggverk (broer, tunneler osv.), infrastruktur knyttet til jernbanestasjoner (plattformer, ganganlegg, herunder anlegg som er tilpasset bevegelseshemmedes behov osv.), sikkerhets- og verneutstyr,*infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig særlig for å opprette og vedlikeholde jernbaneinfrastrukturen eller deler av denne som angitt i direktiv [2012/34/EU](eu/32012l0034) artikkel 3; dette kan også omfatte forvaltning av kontroll- og sikkerhetssystemer for jernbaneinfrastrukturen. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak*jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,*jernbaneinfrastruktur:* består av delsystemet infrastruktur, de faste innretninger av delsystemet energi, samt de faste innretninger av delsystemet styring, kontroll og signalering,*jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på jernbaneinfrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,*jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,*kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft. Et kjøretøy er sammensatt av ett eller flere strukturelle og funksjonelle delsystemer eller deler av slike delsystemer,*særskilt overføringsenhet («Spesific Transmission Module» – STM-enhet):* en enhet som er plassert i toget som oversetter informasjon fra nasjonale systemer i jernbaneinfrastrukturen (klasse B-systemer) til ETCS-informasjon. STM-enheten regnes som en del av signalanlegget,*signalanlegg:* teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,*sikringsanlegg:* den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,*styring, kontroll og signal:* alt utstyr som er nødvendig for å kunne garantere sikkerhet og for å kunne styre og kontrollere bevegelsene til tog som har tillatelse til å trafikkere jernbanenettet,*tog:* trekkraftkjøretøy, med eller uten vogner, som er gitt et tognummer i en rute og som skal kjøres fra et bestemt utgangssted til et bestemt ankomststed,*trafikkstyring:* fremgangsmåter og utstyr som muliggjør helhetlig drift av de ulike strukturelle delsystemene, både under normal og redusert drift, herunder særlig trafikkplanlegging og -styring.
+I forskriften her forstås med:
+
+1. *alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,
+2. *automatisk hastighetsovervåkning:* den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom tillatt hastighet overstiges. Automatisk hastighetsovervåkning kan være fullstendig eller delvis,
+3. *det nasjonale jernbanenettet:* den jernbaneinfrastruktur som er beregnet på persontransport og/eller godstransport og som forvaltes av Bane NOR SF som infrastrukturforvalter,
+4. *energi:* elektrisitetsforsyningssystemet, herunder luftledninger og deler av utstyret for måling av elektrisitetsforbruket om bord i toget,
+5. *ERTMS: (European Rail Traffic Management System):* standardisert teknisk system for signalering og trafikkstyring som består av ETCS og GSM-R (klasse A-systemer),
+6. *ETCS(European Train Control System):* standardisert europeisk togkontrollsystem,
+7. *infrastruktur:* spor, sporveksler, byggverk (broer, tunneler osv.), infrastruktur knyttet til jernbanestasjoner (plattformer, ganganlegg, herunder anlegg som er tilpasset bevegelseshemmedes behov osv.), sikkerhets- og verneutstyr,
+8. *infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig særlig for å opprette og vedlikeholde jernbaneinfrastrukturen eller deler av denne som angitt i direktiv [2012/34/EU](eu/32012l0034) artikkel 3; dette kan også omfatte forvaltning av kontroll- og sikkerhetssystemer for jernbaneinfrastrukturen. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak
+9. *jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,
+10. *jernbaneinfrastruktur:* består av delsystemet infrastruktur, de faste innretninger av delsystemet energi, samt de faste innretninger av delsystemet styring, kontroll og signalering,
+11. *jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på jernbaneinfrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,
+12. *jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,
+13. *kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft. Et kjøretøy er sammensatt av ett eller flere strukturelle og funksjonelle delsystemer eller deler av slike delsystemer,
+14. *særskilt overføringsenhet («Spesific Transmission Module» – STM-enhet):* en enhet som er plassert i toget som oversetter informasjon fra nasjonale systemer i jernbaneinfrastrukturen (klasse B-systemer) til ETCS-informasjon. STM-enheten regnes som en del av signalanlegget,
+15. *signalanlegg:* teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,
+16. *sikringsanlegg:* den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,
+17. *styring, kontroll og signal:* alt utstyr som er nødvendig for å kunne garantere sikkerhet og for å kunne styre og kontrollere bevegelsene til tog som har tillatelse til å trafikkere jernbanenettet,
+18. *tog:* trekkraftkjøretøy, med eller uten vogner, som er gitt et tognummer i en rute og som skal kjøres fra et bestemt utgangssted til et bestemt ankomststed,
+19. *trafikkstyring:* fremgangsmåter og utstyr som muliggjør helhetlig drift av de ulike strukturelle delsystemene, både under normal og redusert drift, herunder særlig trafikkplanlegging og -styring.
 
 > Endret ved [forskrifter 19 sep 2018 nr. 1354](forskrift/2018-09-19-1354), [30 nov 2022 nr. 2051](forskrift/2022-11-30-2051).
 
@@ -156,7 +176,15 @@ Det skal ikke bygges nye planoverganger. Dette gjelder likevel ikke på driftsba
 
 Det skal sendes melding til Statens jernbanetilsyn om ny eller endret jernbaneinfrastruktur så tidlig som mulig.
 
-Meldingen skal minst inneholde:navn og kontaktopplysninger til kontaktperson,planlagt fremdrift i prosjektet,kravgrunnlag, herunder standarder og TSI-er,systembeskrivelse,sikkerhetsplan,risikovurdering(er),vesentlighetsvurdering etter CSM-RA.
+Meldingen skal minst inneholde:
+
+1. navn og kontaktopplysninger til kontaktperson,
+2. planlagt fremdrift i prosjektet,
+3. kravgrunnlag, herunder standarder og TSI-er,
+4. systembeskrivelse,
+5. sikkerhetsplan,
+6. risikovurdering(er),
+7. vesentlighetsvurdering etter CSM-RA.
 
 Søker må vurdere om TSI-er kommer til anvendelse for den nye eller endrede jernbaneinfrastrukturen. Kravene i [§ 3-2](forskrift/2011-04-11-388/§3-2) får anvendelse.
 
@@ -164,7 +192,19 @@ Søker må vurdere om TSI-er kommer til anvendelse for den nye eller endrede jer
 
 ### § 3-6b. Søknad til å ta i bruk jernbaneinfrastruktur
 
-Søknad om tillatelse til å ta i bruk jernbaneinfrastruktur skal minst inneholde:navn og kontaktopplysninger til kontaktperson,planlagt tidspunkt for ibruktaking,kravgrunnlag (dersom oppdatert fra melding),systembeskrivelse (dersom oppdatert fra melding),risikovurdering(er) (dersom oppdatert fra melding),sikkerhetsplan (dersom oppdatert fra melding),sikkerhetsrapport og sikkerhetsbevis der det er aktuelt,oversikt over virksomhetens behandling av unntak fra virksomhetsinterne bestemmelser, og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av unntakene,farelogg,sikkerhetsoppfølgingsplan/driftsoppfølgingsplan,vedlikeholdsplan.
+Søknad om tillatelse til å ta i bruk jernbaneinfrastruktur skal minst inneholde:
+
+1. navn og kontaktopplysninger til kontaktperson,
+2. planlagt tidspunkt for ibruktaking,
+3. kravgrunnlag (dersom oppdatert fra melding),
+4. systembeskrivelse (dersom oppdatert fra melding),
+5. risikovurdering(er) (dersom oppdatert fra melding),
+6. sikkerhetsplan (dersom oppdatert fra melding),
+7. sikkerhetsrapport og sikkerhetsbevis der det er aktuelt,
+8. oversikt over virksomhetens behandling av unntak fra virksomhetsinterne bestemmelser, og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av unntakene,
+9. farelogg,
+10. sikkerhetsoppfølgingsplan/driftsoppfølgingsplan,
+11. vedlikeholdsplan.
 
 Er assessor eller andre uavhengige tredjeparter benyttet, skal utarbeidete rapporter, sertifikater, verifikasjoner, erklæringer etc. og oppfølgingen av disse, vedlegges.
 

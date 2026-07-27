@@ -42,7 +42,23 @@ Organisasjonene skal arbeide for medlemmenes interesser, samt legge til rette fo
 
 ### § 4. Generelle definisjoner
 
-I denne forskriften menes med:*departementet:* ansvarlig departement,*direktoratet:* Barne-, ungdoms- og familiedirektoratet (Bufdir),*organisasjon:* frivillig landsomfattende demokratisk organisasjon som går inn under forskriften, når ikke annet fremgår av sammenhengen,*frivillig landsomfattende demokratisk organisasjon:* en demokratisk oppbygget organisasjon der virksomheten i tråd med ordningens formål og i størst mulig grad skal dekke hele landet,*grunnlagsår:* det kalenderår som er grunnlag for beregning av tilskudd, som antall tellende medlemmer, antall tellende lokallag osv.,*søknadsår:* det kalenderår søknadsfristen utløper, dvs. året etter grunnlagsåret,*tilskuddsår:* det kalenderår søknaden gjelder og tilskudd utbetales for, dvs. året etter søknadsåret,*beregningsgrunnlag:* antall medlemmer, antall lokallag, antall likepersoner og likepersonsarbeidet som ligger til grunn for både støtteberettigelse og beregning av tilskudd,*funksjonsnedsettelse:* med funksjonsnedsettelse menes tap av eller skade på en kroppsdel eller i en av kroppens psykologiske, fysiologiske eller biologiske funksjoner. Dette kan for eksempel dreie seg om nedsatt bevegelses-, syns- eller hørselsfunksjon, nedsatt kognitiv funksjon, eller ulike funksjonsnedsettelser pga. allergi, hjerte- og lungesykdommer,*interessepolitisk arbeid:* arbeid en organisasjon gjør opp mot samfunnet, bl.a. gjennom påvirkningsarbeid ovenfor politikere, institusjoner, andre interessegrupper, offentlige og private tjenesteytere, samt befolkningen generelt, med formål om å bedre situasjonen for deres interessegruppe(r),*likeperson:* en likeperson er en person den enkelte organisasjon selv har definert til å ha en særskilt rolle i organisasjonens likepersonsarbeid,*likepersonsarbeid:* organisert overføring av personlige erfaringer mellom personer med funksjonsnedsettelser og mellom pårørende. Normalt vil den som overfører erfaringer ha lengre og mer bearbeidet erfaring enn de øvrige,*likepersonsaktivitet:* tidsavgrenset aktivitet som har som formål å utføre likepersonsarbeid,*sjelden diagnose:* en helsetilstand med lav prevalens dvs. med veiledende forekomst hos færre enn 5 av 10 000 innbyggere*pårørende:* ektefelle, registrert partner, person som lever i ekteskaps- eller partnerskapslignende samboerskap med personen som har funksjonsnedsettelse, barn, foreldre eller den som har foreldreansvaret, steforeldre, søsken og stesøsken, besteforeldre, tanter og onkler, verge eller hjelpeverge.
+I denne forskriften menes med:
+
+1. *departementet:* ansvarlig departement,
+2. *direktoratet:* Barne-, ungdoms- og familiedirektoratet (Bufdir),
+3. *organisasjon:* frivillig landsomfattende demokratisk organisasjon som går inn under forskriften, når ikke annet fremgår av sammenhengen,
+4. *frivillig landsomfattende demokratisk organisasjon:* en demokratisk oppbygget organisasjon der virksomheten i tråd med ordningens formål og i størst mulig grad skal dekke hele landet,
+5. *grunnlagsår:* det kalenderår som er grunnlag for beregning av tilskudd, som antall tellende medlemmer, antall tellende lokallag osv.,
+6. *søknadsår:* det kalenderår søknadsfristen utløper, dvs. året etter grunnlagsåret,
+7. *tilskuddsår:* det kalenderår søknaden gjelder og tilskudd utbetales for, dvs. året etter søknadsåret,
+8. *beregningsgrunnlag:* antall medlemmer, antall lokallag, antall likepersoner og likepersonsarbeidet som ligger til grunn for både støtteberettigelse og beregning av tilskudd,
+9. *funksjonsnedsettelse:* med funksjonsnedsettelse menes tap av eller skade på en kroppsdel eller i en av kroppens psykologiske, fysiologiske eller biologiske funksjoner. Dette kan for eksempel dreie seg om nedsatt bevegelses-, syns- eller hørselsfunksjon, nedsatt kognitiv funksjon, eller ulike funksjonsnedsettelser pga. allergi, hjerte- og lungesykdommer,
+10. *interessepolitisk arbeid:* arbeid en organisasjon gjør opp mot samfunnet, bl.a. gjennom påvirkningsarbeid ovenfor politikere, institusjoner, andre interessegrupper, offentlige og private tjenesteytere, samt befolkningen generelt, med formål om å bedre situasjonen for deres interessegruppe(r),
+11. *likeperson:* en likeperson er en person den enkelte organisasjon selv har definert til å ha en særskilt rolle i organisasjonens likepersonsarbeid,
+12. *likepersonsarbeid:* organisert overføring av personlige erfaringer mellom personer med funksjonsnedsettelser og mellom pårørende. Normalt vil den som overfører erfaringer ha lengre og mer bearbeidet erfaring enn de øvrige,
+13. *likepersonsaktivitet:* tidsavgrenset aktivitet som har som formål å utføre likepersonsarbeid,
+14. *sjelden diagnose:* en helsetilstand med lav prevalens dvs. med veiledende forekomst hos færre enn 5 av 10 000 innbyggere
+15. *pårørende:* ektefelle, registrert partner, person som lever i ekteskaps- eller partnerskapslignende samboerskap med personen som har funksjonsnedsettelse, barn, foreldre eller den som har foreldreansvaret, steforeldre, søsken og stesøsken, besteforeldre, tanter og onkler, verge eller hjelpeverge.
 
 ### § 5. Kontingent
 
@@ -76,7 +92,10 @@ Et tellende lokallag er laveste nivå av selvstendig, demokratisk enhet i organi
 
 ### § 9. Dokumentasjon av tellende lokallag
 
-Som dokumentasjon av tellende lokallag, jf. [§ 8](forskrift/2023-01-01-122/§8) og [§ 19](forskrift/2023-01-01-122/§19) tredje ledd bokstav b, kreves:årsrapport for det enkelte grunnlagsår,lokallagets vedtekter (dersom beskrivelse av formål, graden av selvstendighet, organisasjonsform og oppbygning av lokalleddet ikke allerede er dekket i sentralleddets vedtekter).
+Som dokumentasjon av tellende lokallag, jf. [§ 8](forskrift/2023-01-01-122/§8) og [§ 19](forskrift/2023-01-01-122/§19) tredje ledd bokstav b, kreves:
+
+1. årsrapport for det enkelte grunnlagsår,
+2. lokallagets vedtekter (dersom beskrivelse av formål, graden av selvstendighet, organisasjonsform og oppbygning av lokalleddet ikke allerede er dekket i sentralleddets vedtekter).
 
 Med årsrapport menes et standardisert skjema fra det enkelte lokallag innsendt til sentralleddet. Rapporten skal være for det aktuelle grunnlagsår, datert og signert av lederen for lokallaget, eller av to av styrets medlemmer. Rapporten skal inneholde opplysninger om lagets navn, kommune- og fylkestilhørighet, dato for valg av styre, styrets funksjonsperiode, navn på styrets medlemmer pr. 31. desember i grunnlagsåret og en bekreftelse på at det har vært avholdt minst en medlemsrettet aktivitet.
 
@@ -90,11 +109,18 @@ En tellende likeperson må være pekt ut på bakgrunn av en vurdering gjort av o
 
 ### § 11. Tellende likepersonsaktiviteter
 
-Som tellende likepersonsaktiviteter regnes oppsøkende likepersonsarbeid, samtale- og aktivitetsgrupper med tre eller flere deltakere og likepersonskurs, som finner sted i Norge. Det gis poeng per dag aktiviteten gjennomføres. Likepersonsaktivitetene defineres som følgende:Oppsøkende likepersonsarbeid: En samtale mellom likeperson i organisasjonen og person med funksjonsnedsettelse/pårørende i organisasjonens målgruppe, og som foregår ved personlig fremmøte. Andre former for erfaringsutveksling, jf. [§ 12](forskrift/2023-01-01-122/§12) og [§ 19](forskrift/2023-01-01-122/§19) tredje ledd bokstav e anses ikke som oppsøkende likepersonsarbeid,Samtalegruppe og aktivitetsgruppe: en tidsavgrenset (minimum 45 min) samling ledet av en likeperson,Likepersonskurs: en tidsavgrenset aktivitet for opplæring av likepersoner. En kursdag må ha en varighet på minst to ganger 45 minutter.
+Som tellende likepersonsaktiviteter regnes oppsøkende likepersonsarbeid, samtale- og aktivitetsgrupper med tre eller flere deltakere og likepersonskurs, som finner sted i Norge. Det gis poeng per dag aktiviteten gjennomføres. Likepersonsaktivitetene defineres som følgende:
+
+1. Oppsøkende likepersonsarbeid: En samtale mellom likeperson i organisasjonen og person med funksjonsnedsettelse/pårørende i organisasjonens målgruppe, og som foregår ved personlig fremmøte. Andre former for erfaringsutveksling, jf. [§ 12](forskrift/2023-01-01-122/§12) og [§ 19](forskrift/2023-01-01-122/§19) tredje ledd bokstav e anses ikke som oppsøkende likepersonsarbeid,
+2. Samtalegruppe og aktivitetsgruppe: en tidsavgrenset (minimum 45 min) samling ledet av en likeperson,
+3. Likepersonskurs: en tidsavgrenset aktivitet for opplæring av likepersoner. En kursdag må ha en varighet på minst to ganger 45 minutter.
 
 ### § 12. Andre former for erfaringsutveksling
 
-Andre former for erfaringsutveksling som gir poenguttelling er:likepersonstelefontjeneste,utveksling av erfaring med diagnose/funksjonsnedsettelse via digitale kommunikasjonsløsninger (f.eks. chattetjeneste eller forum).
+Andre former for erfaringsutveksling som gir poenguttelling er:
+
+1. likepersonstelefontjeneste,
+2. utveksling av erfaring med diagnose/funksjonsnedsettelse via digitale kommunikasjonsløsninger (f.eks. chattetjeneste eller forum).
 
 ### § 13. Dokumentasjon av tellende likepersoner, tellende likepersonsaktiviteter og andre former for erfaringsutveksling
 
@@ -108,7 +134,24 @@ Som dokumentasjon av tiltakene innenfor andre former for erfaringsutveksling, jf
 
 ### § 14. Organisasjoner som omfattes av forskriften
 
-For å kunne motta tilskudd i denne tilskuddsordningen må organisasjonen oppfylle bokstavene a og b per 31. desember i grunnlagsåret og bokstavene c til p ved søknadstidspunktet:Organisasjonen må ha minst 250 tellende medlemmer.Organisasjonen må ha tellende medlemmer med adresse i minst 4 fylker og gi et tilbud til medlemmene i disse fylkene.Organisasjonens medlemmer må i overveiende grad bestå av personer med funksjonsnedsettelse og deres pårørende.Organisasjonen må være representativ for den gruppe av personer med funksjonsnedsettelse den representerer, og være åpen for alle som tilhører gruppen.Organisasjonen må ha som formål å forbedre livsvilkår for personer med funksjonsnedsettelser, og jobbe for deres interesser.Organisasjonen må arbeide for samfunnsmessig likestilling og deltakelse for gruppen den organiserer.Organisasjonen må drives på et ideelt og ikke-kommersielt grunnlag, og eventuelt overskudd må tilfalle organisasjonen eller andre samfunnsnyttige formål.Organisasjonens virksomhet kan ikke være i strid med norsk lovgivning.Organisasjonen må ha egne vedtekter som klargjør formål, selvstendighet, organisasjonsform og oppbygging for sentralledd, eventuelt også for regionalledd og lokalledd dersom organisasjonen har det.Organisasjonen må gjennom sine vedtekter vise at organisasjonen har en demokratisk oppbygging som sikrer at alle medlemmer som har fylt 15 år har lik møterett, tale- og forslagsrett, stemmerett og rett til å la seg velge til representant. Det er ikke anledning for en person å kunne avgi stemme på vegne av andre enkeltmedlemmer.Organisasjonen må gjennom sine vedtekter sikre at personer med funksjonsnedsettelse og deres pårørende har flertall i alle styrende organer nasjonalt, regionalt og lokalt.Organisasjonen må ha et landsmøte/årsmøte minst hvert fjerde år. Landsmøtet/årsmøtet må være suverent og ha fullmakt til å fatte endelig vedtak i alle saker.Dersom landsmøtet ikke er åpent for alle medlemmer, skal representanter med rett til å stemme på landsmøtet være valgt av og blant medlemmene i organisasjonen. Det valgte, sittende sentralstyret og representanter valgt av og blant de ansatte kan også møte med stemmerett på landsmøtet.Organisasjonen må ha et sentralstyre valgt av landsmøtet/årsmøtet, som har den daglige og/eller øverste ledelse av organisasjonen mellom landsmøtene/årsmøtene.Organisasjonen må ha drevet ordinær virksomhet, og ha årsmelding og årsregnskap med revisjonsberetning, for de siste to årene før søknadsåret. Dersom omsetningen for et av eller begge årene faller under 200 000 kr er det tilstrekkelig med erklæring fra en valgt internrevisor, fremfor revisjon av en autorisert revisor. Tilskuddsforvalter kan unntaksvis fravike kravet dersom det foreligger særskilte grunner.Organisasjonen må ved søknadstidspunktet være registrert i Enhetsregisteret og ha organisasjonsnummer.
+For å kunne motta tilskudd i denne tilskuddsordningen må organisasjonen oppfylle bokstavene a og b per 31. desember i grunnlagsåret og bokstavene c til p ved søknadstidspunktet:
+
+1. Organisasjonen må ha minst 250 tellende medlemmer.
+2. Organisasjonen må ha tellende medlemmer med adresse i minst 4 fylker og gi et tilbud til medlemmene i disse fylkene.
+3. Organisasjonens medlemmer må i overveiende grad bestå av personer med funksjonsnedsettelse og deres pårørende.
+4. Organisasjonen må være representativ for den gruppe av personer med funksjonsnedsettelse den representerer, og være åpen for alle som tilhører gruppen.
+5. Organisasjonen må ha som formål å forbedre livsvilkår for personer med funksjonsnedsettelser, og jobbe for deres interesser.
+6. Organisasjonen må arbeide for samfunnsmessig likestilling og deltakelse for gruppen den organiserer.
+7. Organisasjonen må drives på et ideelt og ikke-kommersielt grunnlag, og eventuelt overskudd må tilfalle organisasjonen eller andre samfunnsnyttige formål.
+8. Organisasjonens virksomhet kan ikke være i strid med norsk lovgivning.
+9. Organisasjonen må ha egne vedtekter som klargjør formål, selvstendighet, organisasjonsform og oppbygging for sentralledd, eventuelt også for regionalledd og lokalledd dersom organisasjonen har det.
+10. Organisasjonen må gjennom sine vedtekter vise at organisasjonen har en demokratisk oppbygging som sikrer at alle medlemmer som har fylt 15 år har lik møterett, tale- og forslagsrett, stemmerett og rett til å la seg velge til representant. Det er ikke anledning for en person å kunne avgi stemme på vegne av andre enkeltmedlemmer.
+11. Organisasjonen må gjennom sine vedtekter sikre at personer med funksjonsnedsettelse og deres pårørende har flertall i alle styrende organer nasjonalt, regionalt og lokalt.
+12. Organisasjonen må ha et landsmøte/årsmøte minst hvert fjerde år. Landsmøtet/årsmøtet må være suverent og ha fullmakt til å fatte endelig vedtak i alle saker.
+13. Dersom landsmøtet ikke er åpent for alle medlemmer, skal representanter med rett til å stemme på landsmøtet være valgt av og blant medlemmene i organisasjonen. Det valgte, sittende sentralstyret og representanter valgt av og blant de ansatte kan også møte med stemmerett på landsmøtet.
+14. Organisasjonen må ha et sentralstyre valgt av landsmøtet/årsmøtet, som har den daglige og/eller øverste ledelse av organisasjonen mellom landsmøtene/årsmøtene.
+15. Organisasjonen må ha drevet ordinær virksomhet, og ha årsmelding og årsregnskap med revisjonsberetning, for de siste to årene før søknadsåret. Dersom omsetningen for et av eller begge årene faller under 200 000 kr er det tilstrekkelig med erklæring fra en valgt internrevisor, fremfor revisjon av en autorisert revisor. Tilskuddsforvalter kan unntaksvis fravike kravet dersom det foreligger særskilte grunner.
+16. Organisasjonen må ved søknadstidspunktet være registrert i Enhetsregisteret og ha organisasjonsnummer.
 
 ### § 15. Unntaksbestemmelse for sjeldne diagnoser
 
@@ -116,7 +159,13 @@ Noen organisasjoner kan få dispensasjon fra kravene om antall tellende medlemme
 
 ### § 16. Tilskudd gis ikke til følgende
 
-Tilskudd gis ikke til følgende:organisasjoner som har forretningsdrift som formål eller som tjener utenforstående kommersielle interesser,organisasjoner med ulovlig eller støtende formål, herunder rasistiske organisasjoner og/eller organisasjoner som diskriminerer mennesker, samt spilleklubber med pengeinnsats,organisasjoner som skaper hindre for full deltakelse for personer fra alle samfunnsgrupper, uavhengig av kjønn, etnisitet, religion, funksjonsnedsettelse eller seksuell orientering,idretts- og gymnastikkorganisasjoner,organisasjoner som kun har pårørende som målgruppe.
+Tilskudd gis ikke til følgende:
+
+1. organisasjoner som har forretningsdrift som formål eller som tjener utenforstående kommersielle interesser,
+2. organisasjoner med ulovlig eller støtende formål, herunder rasistiske organisasjoner og/eller organisasjoner som diskriminerer mennesker, samt spilleklubber med pengeinnsats,
+3. organisasjoner som skaper hindre for full deltakelse for personer fra alle samfunnsgrupper, uavhengig av kjønn, etnisitet, religion, funksjonsnedsettelse eller seksuell orientering,
+4. idretts- og gymnastikkorganisasjoner,
+5. organisasjoner som kun har pårørende som målgruppe.
 
 Forskjellsbehandling som er nødvendig for å oppnå et saklig formål, og som ikke er uforholdsmessig inngripende overfor den eller de som forskjellsbehandles, anses ikke å være i strid med kravet i bokstav c.
 
@@ -136,11 +185,46 @@ Summen av poengene for de variable utmålingskriteriene (VU) for den enkelte org
 
 Det variable tilskuddet (VT) for den enkelte organisasjon beregnes deretter ved å multiplisere dens antall nettopoeng (NP) med en beregnet kroneverdi per poeng (KP), jf. [§ 20](forskrift/2023-01-01-122/§20) annet ledd. Formel for beregningen blir: NP × KP = VT.
 
-De variable utmålingskriteriene (VU), som ligger til grunn for det variable tilskuddet (VT):Antall tellende medlemmer, etter følgende poengberegning:1 til og med 499: 5 poeng per medlem,500 til og med 2 999: 4 poeng per medlem,3 000 til og med 9 999: 3 poeng per medlem,10 000 til 19 999: 2 poeng per medlem,20 000 og over: 1 poeng per medlem.Antall tellende lokallag, etter følgende poengberegning:1 til og med 49 lokallag: 50 poeng per lokallag,50 til og med 199 lokallag: 30 poeng per lokallag,200 og over: 10 poeng per lokallag.Antall tellende likepersoner i organisasjonen, etter følgende poengberegning:1 til og med 24 likepersoner: 60 poeng per likeperson,25 til og med 49 likepersoner: 45 poeng per likeperson,50 til og med 149 likepersoner: 30 poeng per likeperson,150 likepersoner og over: 15 poeng per likeperson.Antall tellende likepersonsaktiviteter, dvs. oppsøkende likepersonsaktivitet, samtale- og aktivitetsgrupper og likepersonskurs, etter følgende poengberegning:1 til og med 49 aktivitetsdager: 16 poeng per dag,50 til og med 149 aktivitetsdager: 8 poeng per dag,150 til og med 299 aktivitetsdager: 4 poeng per dag,300 og over: 2 poeng per dag.Andre former for erfaringsutveksling, inntil 700 poeng fordelt på følgende tiltak:Likepersonstelefon: 350 poeng,Utveksling av erfaring med diagnose/funksjonsnedsettelse via digitale kommunikasjonsløsninger: 350 poeng.
+De variable utmålingskriteriene (VU), som ligger til grunn for det variable tilskuddet (VT):
+
+1. Antall tellende medlemmer, etter følgende poengberegning:
+
+   - 1 til og med 499: 5 poeng per medlem,
+   - 500 til og med 2 999: 4 poeng per medlem,
+   - 3 000 til og med 9 999: 3 poeng per medlem,
+   - 10 000 til 19 999: 2 poeng per medlem,
+   - 20 000 og over: 1 poeng per medlem.
+2. Antall tellende lokallag, etter følgende poengberegning:
+
+   - 1 til og med 49 lokallag: 50 poeng per lokallag,
+   - 50 til og med 199 lokallag: 30 poeng per lokallag,
+   - 200 og over: 10 poeng per lokallag.
+3. Antall tellende likepersoner i organisasjonen, etter følgende poengberegning:
+
+   - 1 til og med 24 likepersoner: 60 poeng per likeperson,
+   - 25 til og med 49 likepersoner: 45 poeng per likeperson,
+   - 50 til og med 149 likepersoner: 30 poeng per likeperson,
+   - 150 likepersoner og over: 15 poeng per likeperson.
+4. Antall tellende likepersonsaktiviteter, dvs. oppsøkende likepersonsaktivitet, samtale- og aktivitetsgrupper og likepersonskurs, etter følgende poengberegning:
+
+   - 1 til og med 49 aktivitetsdager: 16 poeng per dag,
+   - 50 til og med 149 aktivitetsdager: 8 poeng per dag,
+   - 150 til og med 299 aktivitetsdager: 4 poeng per dag,
+   - 300 og over: 2 poeng per dag.
+5. Andre former for erfaringsutveksling, inntil 700 poeng fordelt på følgende tiltak:
+
+   - Likepersonstelefon: 350 poeng,
+   - Utveksling av erfaring med diagnose/funksjonsnedsettelse via digitale kommunikasjonsløsninger: 350 poeng.
 
 ### § 20. Gruppefaktor (GF) og kroner per poeng (KP)
 
-Den enkelte organisasjons gruppefaktor (GF), jf. [§ 23](forskrift/2023-01-01-122/§23), blir fastsatt som følger:For organisasjoner i gruppe 1 er GF = 1,0For organisasjoner i gruppe 2 er GF = 1,1For organisasjoner i gruppe 3 er GF = 1,3For organisasjoner i gruppe 4 er GF = 1,6For organisasjoner i gruppe 5 er GF = 2,0.
+Den enkelte organisasjons gruppefaktor (GF), jf. [§ 23](forskrift/2023-01-01-122/§23), blir fastsatt som følger:
+
+- For organisasjoner i gruppe 1 er GF = 1,0
+- For organisasjoner i gruppe 2 er GF = 1,1
+- For organisasjoner i gruppe 3 er GF = 1,3
+- For organisasjoner i gruppe 4 er GF = 1,6
+- For organisasjoner i gruppe 5 er GF = 2,0.
 
 Kroner per poeng (KP) beregnes ved å dele det totale kronebeløpet som er avsatt til tilskuddsordningens variable tilskudd (TVT) med den totale summen av nettopoeng fra alle organisasjonene (TNP). Formel for beregningen blir: TVT / TNP = KP.
 
@@ -160,7 +244,13 @@ Ekstrakostnader kan eksempelvis være tilrettelegging for fysiske utfordringer s
 
 ### § 23. Innplassering i grupper
 
-Organisasjonene i ordningen blir ved innvilgelse av tilskuddsberettigelse, jf. [kap. 3](forskrift/2023-01-01-122/kap3), innplassert i følgende grupper i tråd med foregående bestemmelser:Gruppe 1: organisasjoner med ingen til svært lave ekstrakostnaderGruppe 2: organisasjoner med lave ekstrakostnaderGruppe 3: organisasjoner med moderate ekstrakostnaderGruppe 4: organisasjoner med høye ekstrakostnaderGruppe 5: organisasjoner med svært høye ekstrakostnader.
+Organisasjonene i ordningen blir ved innvilgelse av tilskuddsberettigelse, jf. [kap. 3](forskrift/2023-01-01-122/kap3), innplassert i følgende grupper i tråd med foregående bestemmelser:
+
+- Gruppe 1: organisasjoner med ingen til svært lave ekstrakostnader
+- Gruppe 2: organisasjoner med lave ekstrakostnader
+- Gruppe 3: organisasjoner med moderate ekstrakostnader
+- Gruppe 4: organisasjoner med høye ekstrakostnader
+- Gruppe 5: organisasjoner med svært høye ekstrakostnader.
 
 ### § 24. Søknad om endring i gruppeplassering
 
@@ -194,11 +284,18 @@ Dokumentasjonsbestemmelsene medfører ikke noen begrensninger i de bestemmelser 
 
 ### § 28. Krav til søknader
 
-Søknader om tilskudd sendes til direktoratet på fastsatte skjemaer. For hvert år som en organisasjon søker driftstilskudd skal den vedlegge:Organisasjonens sist vedtatte årsmelding og årsregnskap for grunnlagsåret med revisjonsberetning fra statsautorisert revisor, jf. [§ 31](forskrift/2023-01-01-122/§31). I tillegg må det vedlegges regnskap spesifisert på kontonivå. Tilskudd som er gitt etter forskriften og utbetalt i grunnlagsåret skal være spesifisert i årsregnskapet eller note til dette.I tilfelle vedtektsendringer skal nye vedtekter oversendes, og endringene markeres tydelig.En beskrivelse av organisasjonens interessepolitiske arbeid i grunnlagsåret. Denne kan eventuelt inkluderes i årsmeldingen, med overskriften «interessepolitisk arbeid».
+Søknader om tilskudd sendes til direktoratet på fastsatte skjemaer. For hvert år som en organisasjon søker driftstilskudd skal den vedlegge:
+
+1. Organisasjonens sist vedtatte årsmelding og årsregnskap for grunnlagsåret med revisjonsberetning fra statsautorisert revisor, jf. [§ 31](forskrift/2023-01-01-122/§31). I tillegg må det vedlegges regnskap spesifisert på kontonivå. Tilskudd som er gitt etter forskriften og utbetalt i grunnlagsåret skal være spesifisert i årsregnskapet eller note til dette.
+2. I tilfelle vedtektsendringer skal nye vedtekter oversendes, og endringene markeres tydelig.
+3. En beskrivelse av organisasjonens interessepolitiske arbeid i grunnlagsåret. Denne kan eventuelt inkluderes i årsmeldingen, med overskriften «interessepolitisk arbeid».
 
 Bufdir kan, når det er eller har vært tvil om søknadsgrunnlaget, kreve at søknad om driftstilskudd, sammenslåingstilskudd- eller uttrappingstilskudd skal vedlegges særattestasjon fra revisor. Direktoratet kan fastsette nærmere regler om særattestasjon for revisor fra organisasjonene for de enkelte tilskuddsårene.
 
-Søknad skal være datert og signert av minst en av følgende to personer:den valgte leder for organisasjonen ogden daglige leder i sentralleddet på søknadstidspunktet, eventuelt andre som styret har gitt fullmakt til å signere på vegne av organisasjonen.
+Søknad skal være datert og signert av minst en av følgende to personer:
+
+1. den valgte leder for organisasjonen og
+2. den daglige leder i sentralleddet på søknadstidspunktet, eventuelt andre som styret har gitt fullmakt til å signere på vegne av organisasjonen.
 
 Organisasjonene kan bruke elektronisk signatur, så lenge det er benyttet en betryggende metode for å autentisere avsender av signaturen.
 
@@ -280,11 +377,28 @@ Utvalgets råd er gyldige dersom minst fem av medlemmene deltar i avgjørelsen a
 
 ### § 40. Departementet
 
-Departementet har det overordnede ansvar for tilskuddsordningen og skal bl.a.:fastsette de årlige beløpene som direktoratet har til fordeling til organisasjonenes driftstilskudd,innhente rapporter fra direktoratet og sørge for nødvendig oppfølging og evaluering av tilskuddsordningen, ogendre forskriften når det er påkrevet.
+Departementet har det overordnede ansvar for tilskuddsordningen og skal bl.a.:
+
+1. fastsette de årlige beløpene som direktoratet har til fordeling til organisasjonenes driftstilskudd,
+2. innhente rapporter fra direktoratet og sørge for nødvendig oppfølging og evaluering av tilskuddsordningen, og
+3. endre forskriften når det er påkrevet.
 
 ### § 41. Direktoratet
 
-Direktoratet skal bl.a.:være ansvarlig tilskuddsforvalter for denne tilskuddsordningen,utføre nødvendig kontroll,fastsette basistilskuddet for hvert tilskuddsår,oppnevne medlemmer til og fastsette generelle instrukser for Ekspertutvalget,gi forslag til departementet før dette fastsetter summen for tilskuddsordningen,sørge for kunngjøring av tilskuddsordningen,fastsette nærmere retningslinjer for tilskuddsordningen i tråd med forskriften,gi veiledning og informasjon til organisasjonene om tilskuddsordningen,foreta tildeling av tilskudd etter denne forskriften,forberede klagesaker, treffe endringsvedtak eller oversende sakene til klageinstansen (departementet),bistå departementet med evaluering av tilskuddsordningen, oggi departementet råd i øvrige spørsmål om tilskuddsordningen.
+Direktoratet skal bl.a.:
+
+1. være ansvarlig tilskuddsforvalter for denne tilskuddsordningen,
+2. utføre nødvendig kontroll,
+3. fastsette basistilskuddet for hvert tilskuddsår,
+4. oppnevne medlemmer til og fastsette generelle instrukser for Ekspertutvalget,
+5. gi forslag til departementet før dette fastsetter summen for tilskuddsordningen,
+6. sørge for kunngjøring av tilskuddsordningen,
+7. fastsette nærmere retningslinjer for tilskuddsordningen i tråd med forskriften,
+8. gi veiledning og informasjon til organisasjonene om tilskuddsordningen,
+9. foreta tildeling av tilskudd etter denne forskriften,
+10. forberede klagesaker, treffe endringsvedtak eller oversende sakene til klageinstansen (departementet),
+11. bistå departementet med evaluering av tilskuddsordningen, og
+12. gi departementet råd i øvrige spørsmål om tilskuddsordningen.
 
 ## Kapittel 12. Særskilte bestemmelser
 
@@ -312,7 +426,10 @@ Frister for søknad og rapportering fastsettes av direktoratet. Den enkelte søk
 
 Denne forskriften trer i kraft straks og erstatter tidligere regelverk for ordningen.
 
-Følgende kriterier vil ikke komme til anvendelse før grunnlagsåret 2020:Krav om at medlemsregisteret til organisasjonen må inneholde opplysninger om medlemmers eventuelle lokallagstilknytning, jf. [§ 7](forskrift/2023-01-01-122/§7) første ledd.Krav om at et lokallag må ha minst en medlemsrettet aktivitet i året utover årsmøtet, jf. [§ 8](forskrift/2023-01-01-122/§8).
+Følgende kriterier vil ikke komme til anvendelse før grunnlagsåret 2020:
+
+1. Krav om at medlemsregisteret til organisasjonen må inneholde opplysninger om medlemmers eventuelle lokallagstilknytning, jf. [§ 7](forskrift/2023-01-01-122/§7) første ledd.
+2. Krav om at et lokallag må ha minst en medlemsrettet aktivitet i året utover årsmøtet, jf. [§ 8](forskrift/2023-01-01-122/§8).
 
 ### § 46. Dispensasjonsbestemmelser
 

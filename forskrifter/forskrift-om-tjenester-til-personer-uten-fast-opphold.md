@@ -30,7 +30,11 @@ Alle personer som oppholder seg i riket, har rett til vurdering fra spesialisthe
 
 ## § 2. Fulle rettigheter til helsehjelp
 
-Rett til helsehjelp etter pasient- og [brukerrettighetsloven kapittel 2](lov/1999-07-02-63/kap2) gjelder fullt ut bare for personer som har lovlig opphold i riket og som entenhar fast opphold i riket, det vil si opphold som er ment å vare eller har vart minst 12 måneder, unntatt opphold som omfattes av [folketrygdloven § 2-17](lov/1997-02-28-19/§2-17), ellerer medlemmer av folketrygden med rett til stønad ved helsetjenester, ellerhar rett til helsehjelp i henhold til gjensidighetsavtale med annen stat (konvensjonspasienter).
+Rett til helsehjelp etter pasient- og [brukerrettighetsloven kapittel 2](lov/1999-07-02-63/kap2) gjelder fullt ut bare for personer som har lovlig opphold i riket og som enten
+
+1. har fast opphold i riket, det vil si opphold som er ment å vare eller har vart minst 12 måneder, unntatt opphold som omfattes av [folketrygdloven § 2-17](lov/1997-02-28-19/§2-17), eller
+2. er medlemmer av folketrygden med rett til stønad ved helsetjenester, eller
+3. har rett til helsehjelp i henhold til gjensidighetsavtale med annen stat (konvensjonspasienter).
 
 ## § 3. Rett til øyeblikkelig hjelp
 
@@ -46,7 +50,13 @@ Personer under 18 år som ikke oppfyller vilkårene etter [§ 2](forskrift/2011-
 
 ## § 5. Rett til helsehjelp som ikke kan vente mv.
 
-Alle personer som oppholder seg i riket, har rett til følgende helsehjelp etter [pasient- og brukerrettighetsloven § 2-1 andre ledd](lov/1999-07-02-63/§2-1/ledd/2) og [§ 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2):helsehjelp som er helt nødvendig og ikke kan vente uten fare for nært forestående død, varig sterkt nedsatt funksjonstilstand, alvorlig skade eller sterke smerter. Dersom vedkommende er psykisk ustabil og utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse, har vedkommende uansett rett til psykisk helsevernnødvendig helsehjelp før og etter fødselsvangerskapsavbrudd etter bestemmelsene i [abortloven](lov/1975-06-13-50)smittevernhjelp, jf. [smittevernloven § 6-1](lov/1994-08-05-55/§6-1)helsehjelp som ikke bør vente til frihetsberøvelsen er opphørt, dersom vedkommende er undergitt frihetsberøvelse som nevnt i [folketrygdloven § 2-17](lov/1997-02-28-19/§2-17)
+Alle personer som oppholder seg i riket, har rett til følgende helsehjelp etter [pasient- og brukerrettighetsloven § 2-1 andre ledd](lov/1999-07-02-63/§2-1/ledd/2) og [§ 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2):
+
+1. helsehjelp som er helt nødvendig og ikke kan vente uten fare for nært forestående død, varig sterkt nedsatt funksjonstilstand, alvorlig skade eller sterke smerter. Dersom vedkommende er psykisk ustabil og utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse, har vedkommende uansett rett til psykisk helsevern
+2. nødvendig helsehjelp før og etter fødsel
+3. svangerskapsavbrudd etter bestemmelsene i [abortloven](lov/1975-06-13-50)
+4. smittevernhjelp, jf. [smittevernloven § 6-1](lov/1994-08-05-55/§6-1)
+5. helsehjelp som ikke bør vente til frihetsberøvelsen er opphørt, dersom vedkommende er undergitt frihetsberøvelse som nevnt i [folketrygdloven § 2-17](lov/1997-02-28-19/§2-17)
 
 > Endret ved forskrifter [2 okt 2015 nr. 1146](forskrift/2015-10-02-1146) (i kraft 1 nov 2015), [24 mai 2024 nr. 816](forskrift/2024-05-24-816) (i kraft 1 juni 2024).
 

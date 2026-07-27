@@ -15,7 +15,7 @@ xml_hash: "0fb4f4a2e9ce21a505ae7d5c640c048165a19eee66744af99254494383ec9df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,18 @@ Norges Bank skal ha et hovedstyre, en komité for pengepolitikk og finansiell st
 
 (3) Sentralbanksjefen er leder av hovedstyret. Kongen i statsråd utpeker første og andre nestleder av styret blant visesentralbanksjefene.
 
-(4) Følgende personer kan ikke være medlemmer av hovedstyret:medlemmer av komiteen for pengepolitikk og finansiell stabilitet, unntatt sentralbanksjefen og visesentralbanksjefenemedarbeidere i Norges Bank, unntatt ansatterepresentanteneregjeringsmedlemmerpolitiske medarbeidere ved Statsministerens kontor og i departementeneembetsmenn ved Statsministerens kontor og i Finansdepartementetøvrige medarbeidere ved Statsministerens kontor og i departementenestortingsrepresentanterpolitiske medarbeidere på Stortingetkomitéråder på Stortingetslektninger i rett opp- og nedstigende linje, ektefeller, registrerte partnere og samboere til personer som nevnt i bokstav a til e og g.
+(4) Følgende personer kan ikke være medlemmer av hovedstyret:
+
+1. medlemmer av komiteen for pengepolitikk og finansiell stabilitet, unntatt sentralbanksjefen og visesentralbanksjefene
+2. medarbeidere i Norges Bank, unntatt ansatterepresentantene
+3. regjeringsmedlemmer
+4. politiske medarbeidere ved Statsministerens kontor og i departementene
+5. embetsmenn ved Statsministerens kontor og i Finansdepartementet
+6. øvrige medarbeidere ved Statsministerens kontor og i departementene
+7. stortingsrepresentanter
+8. politiske medarbeidere på Stortinget
+9. komitéråder på Stortinget
+10. slektninger i rett opp- og nedstigende linje, ektefeller, registrerte partnere og samboere til personer som nevnt i bokstav a til e og g.
 
 (5) Departementet kan gi bestemmelser om medlemmenes forhold til andre foretak.
 
@@ -174,7 +185,18 @@ Norges Bank skal ha et hovedstyre, en komité for pengepolitikk og finansiell st
 
 (2) Sentralbanksjefen er leder av komiteen. Kongen i statsråd utpeker første og andre nestleder av komiteen blant visesentralbanksjefene.
 
-(3) Følgende personer kan ikke være komitémedlemmer:medlemmer av hovedstyret, unntatt sentralbanksjefen og visesentralbanksjefenemedarbeidere i Norges Bankregjeringsmedlemmerpolitiske medarbeidere ved Statsministerens kontor og i departementeneembetsmenn ved Statsministerens kontor og i Finansdepartementetøvrige medarbeidere ved Statsministerens kontor og i departementenestortingsrepresentanterpolitiske medarbeidere på Stortingetkomitéråder på Stortingetslektninger i rett opp- og nedstigende linje, ektefeller, registrerte partnere og samboere til personer som nevnt i bokstav a til e og g.
+(3) Følgende personer kan ikke være komitémedlemmer:
+
+1. medlemmer av hovedstyret, unntatt sentralbanksjefen og visesentralbanksjefene
+2. medarbeidere i Norges Bank
+3. regjeringsmedlemmer
+4. politiske medarbeidere ved Statsministerens kontor og i departementene
+5. embetsmenn ved Statsministerens kontor og i Finansdepartementet
+6. øvrige medarbeidere ved Statsministerens kontor og i departementene
+7. stortingsrepresentanter
+8. politiske medarbeidere på Stortinget
+9. komitéråder på Stortinget
+10. slektninger i rett opp- og nedstigende linje, ektefeller, registrerte partnere og samboere til personer som nevnt i bokstav a til e og g.
 
 (4) Departementet kan gi bestemmelser om medlemmenes forhold til andre foretak.
 
@@ -224,7 +246,13 @@ Departementet fastsetter sentralbanksjefens og visesentralbanksjefenes lønn og 
 
 ### § 2-12. Vilkår for avskjed mv.
 
-Sentralbanksjefen, visesentralbanksjefene og de eksterne medlemmene av komiteen for pengepolitikk og finansiell stabilitet kan bare avskjediges eller løses fra sine verv hvis vedkommende:på grunn av sykdom er varig uskikket til forsvarlig å utføre tjenestenhar vist grov uforstand i tjenestengrovt har krenket sine tjenesteplikterpå tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikterved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sitt embete eller bryter ned den aktelsen eller tilliten som er nødvendig for stillingen eller vervet.
+Sentralbanksjefen, visesentralbanksjefene og de eksterne medlemmene av komiteen for pengepolitikk og finansiell stabilitet kan bare avskjediges eller løses fra sine verv hvis vedkommende:
+
+1. på grunn av sykdom er varig uskikket til forsvarlig å utføre tjenesten
+2. har vist grov uforstand i tjenesten
+3. grovt har krenket sine tjenesteplikter
+4. på tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter
+5. ved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sitt embete eller bryter ned den aktelsen eller tilliten som er nødvendig for stillingen eller vervet.
 
 ### § 2-13. Daglig ledelse av Norges Banks forvaltning av Statens pensjonsfond utland
 
@@ -286,7 +314,11 @@ Representantskapet fører tilsyn i samsvar med [§ 4-1](lov/2019-06-21-31/§4-1)
 
 ### § 3-1. Kreditt til og innskudd fra banker mv.
 
-(1) Til fremme av formålet for sentralbankvirksomheten kan Norges Bankta imot innskudd fra og yte kreditt til banker og andre foretak i finansiell sektorkjøpe, selge og formidle valuta og finansielle instrumenterutstede og omsette egne finansielle instrumenter
+(1) Til fremme av formålet for sentralbankvirksomheten kan Norges Bank
+
+1. ta imot innskudd fra og yte kreditt til banker og andre foretak i finansiell sektor
+2. kjøpe, selge og formidle valuta og finansielle instrumenter
+3. utstede og omsette egne finansielle instrumenter
 
 (2) Vilkårene for innskudd og kreditt fastsettes av Norges Bank.
 
@@ -368,7 +400,14 @@ Departementet kan i enkeltvedtak eller forskrift beslutte særskilte tiltak når
 
 (3) Representantskapet fører tilsyn med selskaper som Norges Bank helt eller delvis eier. Representantskapet har rett til å kreve de opplysningene fra selskapets daglige leder, styret og den valgte revisor som er nødvendige for tilsynet. I den utstrekning det er nødvendig, kan representantskapet selv foreta undersøkelser i selskapet.
 
-(4) Representantskapet skal minst én gang årlig legge frem for Stortinget sin uttalelse om tilsynet med Norges Bank. Gjenpart av uttalelsen sendes departementet. Uttalelsen om tilsynet med banken skal minst inneholdeen redegjørelse for hvordan tilsynet med banken har vært organiserten redegjørelse for gjennomførte tilsynsaktiviteter og representantskapets prioriteringer i det videre tilsynsarbeideten redegjørelse for tilsynet med bankens kapitalforvaltningrepresentantskapets vurdering av hovedstyrets styring og kontroll med bankens administrasjon og virksomheten redegjørelse for representantskapets arbeid med vedtakelse av bankens budsjett og fastsettelse av regnskapeventuelle særlige merknader som tilsynet måtte gi grunnlag for, herunder om eventuelle uenigheter om vurderinger eller saksforhold mellom hovedstyret og representantskapet.
+(4) Representantskapet skal minst én gang årlig legge frem for Stortinget sin uttalelse om tilsynet med Norges Bank. Gjenpart av uttalelsen sendes departementet. Uttalelsen om tilsynet med banken skal minst inneholde
+
+1. en redegjørelse for hvordan tilsynet med banken har vært organisert
+2. en redegjørelse for gjennomførte tilsynsaktiviteter og representantskapets prioriteringer i det videre tilsynsarbeidet
+3. en redegjørelse for tilsynet med bankens kapitalforvaltning
+4. representantskapets vurdering av hovedstyrets styring og kontroll med bankens administrasjon og virksomhet
+5. en redegjørelse for representantskapets arbeid med vedtakelse av bankens budsjett og fastsettelse av regnskap
+6. eventuelle særlige merknader som tilsynet måtte gi grunnlag for, herunder om eventuelle uenigheter om vurderinger eller saksforhold mellom hovedstyret og representantskapet.
 
 > Endret ved lover [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)), [20 mars 2026 nr. 10](lov/2026-03-20-10) (i kraft 1 april 2026 iflg. [res. 20 mars 2026 nr. 432](forskrift/2026-03-20-432)).
 
@@ -416,7 +455,17 @@ Representantskapet vedtar Norges Banks budsjett etter forslag fra hovedstyret. D
 
 (3) Hovedstyret, eller noen som har fullmakt til det fra hovedstyret, kan uten hinder av taushetsplikten gi meddelelser om Norges Banks forretningsmessige forhold. Tilsvarende gjelder for komiteen for pengepolitikk og finansiell stabilitet for sitt område og for representantskapet i saker som tilligger representantskapet og som ikke berører hovedstyrets eller komiteens ansvarsområder.
 
-(4) Taushetsplikten etter første og annet ledd og forvaltningslovens bestemmelser gjelder ikke overforFinansdepartementetEtikkrådet for Statens pensjonsfond utlandFinanstilsynetinternasjonale organisasjoner som Norges Bank er medlem av eller samarbeider med, såfremt opplysningene underlegges en tilsvarende taushetsplikt hos organisasjonen som mottar opplysningeneandre EØS-staters sentralbanker eller finanstilsynsmyndigheter, herunder Den europeiske sentralbank, Den europeiske banktilsynsmyndighet, Den europeiske verdipapir- og markedstilsynsmyndighet, Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner, Det europeiske råd for systemrisiko og EFTAs overvåkingsorganØkokrim ved oversendelse av opplysninger i henhold til [hvitvaskingsloven § 26](lov/2018-06-01-23/§26)skattemyndighetene ved oversendelse av opplysninger i henhold til [skatteforvaltningsloven § 10-5](lov/2016-05-27-14/§10-5) første leddoffentlig organ ved utveksling av informasjon (samordning) som forutsatt i lov om OppgaveregisteretBankenes sikringsfond.
+(4) Taushetsplikten etter første og annet ledd og forvaltningslovens bestemmelser gjelder ikke overfor
+
+1. Finansdepartementet
+2. Etikkrådet for Statens pensjonsfond utland
+3. Finanstilsynet
+4. internasjonale organisasjoner som Norges Bank er medlem av eller samarbeider med, såfremt opplysningene underlegges en tilsvarende taushetsplikt hos organisasjonen som mottar opplysningene
+5. andre EØS-staters sentralbanker eller finanstilsynsmyndigheter, herunder Den europeiske sentralbank, Den europeiske banktilsynsmyndighet, Den europeiske verdipapir- og markedstilsynsmyndighet, Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner, Det europeiske råd for systemrisiko og EFTAs overvåkingsorgan
+6. Økokrim ved oversendelse av opplysninger i henhold til [hvitvaskingsloven § 26](lov/2018-06-01-23/§26)
+7. skattemyndighetene ved oversendelse av opplysninger i henhold til [skatteforvaltningsloven § 10-5](lov/2016-05-27-14/§10-5) første ledd
+8. offentlig organ ved utveksling av informasjon (samordning) som forutsatt i lov om Oppgaveregisteret
+9. Bankenes sikringsfond.
 
 (5) [Forvaltningsloven § 13](lov/1967-02-10/§13) annet og tredje ledd og [§§ 13 a](lov/1967-02-10/§13a) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g) gjelder som utfyllende bestemmelser til paragrafen her.
 
@@ -426,7 +475,14 @@ Representantskapet vedtar Norges Banks budsjett etter forslag fra hovedstyret. D
 
 (1) Departementet kan ved forskrift eller enkeltvedtak pålegge foretak i finansiell sektor å gi Norges Bank opplysninger som er nødvendige for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov, eller for å overholde Norges avtaler med en fremmed stat eller internasjonal organisasjon. Tilsvarende opplysningsplikt kan også pålegges andre institusjoner, foretak og privatpersoner som er aktører i verdipapirmarkedet, driver betalingsformidling eller yter tjenester mot finansiell sektor. Departementet kan også pålegge andre virksomheter registrert i Foretaksregistret slik opplysningsplikt. Det kan ikke kreves vederlag for kostnader ved å oppfylle opplysningsplikt etter dette ledd.
 
-(2) Departementet kan ved forskrift eller enkeltvedtak gi Norges Bank adgang til å kreve inn opplysninger fraSkatteetatenRegnskapsregisteret og KonkursregisteretArbeids- og velferdsetaten (NAV)Folkeregisteretnår det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov, eller for å overholde Norges avtaler med en fremmed stat eller internasjonal organisasjon. Opplysninger fra Arbeids- og velferdsetaten er begrenset til opplysninger fra arbeidsgiver- og arbeidstakerregisteret og opplysninger om registrert arbeidsledighet.
+(2) Departementet kan ved forskrift eller enkeltvedtak gi Norges Bank adgang til å kreve inn opplysninger fra
+
+1. Skatteetaten
+2. Regnskapsregisteret og Konkursregisteret
+3. Arbeids- og velferdsetaten (NAV)
+4. Folkeregisteret
+
+når det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov, eller for å overholde Norges avtaler med en fremmed stat eller internasjonal organisasjon. Opplysninger fra Arbeids- og velferdsetaten er begrenset til opplysninger fra arbeidsgiver- og arbeidstakerregisteret og opplysninger om registrert arbeidsledighet.
 
 (3) Opplysninger som kreves etter første og annet ledd, kan gis uten hinder av lovbestemt taushetsplikt etter [finansforetaksloven](lov/2015-04-10-17), [eiendomsmeglingsloven](lov/2007-06-29-73), [betalingssystemloven](lov/1999-12-17-95), [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirsentralloven](lov/2019-03-15-6), [skatteforvaltningsloven](lov/2016-05-27-14), [regnskapsloven](lov/1998-07-17-56), [konkursloven](lov/1984-06-08-58), [arbeids- og velferdsforvaltningsloven](lov/2006-06-16-20) og [folkeregisterloven](lov/2016-12-09-88). Opplysningene kan bare brukes til de formål som er angitt i første eller annet ledd.
 

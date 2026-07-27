@@ -15,7 +15,7 @@ xml_hash: "801d931a20e4618bf0d4142a17db458ee89655ad1ab67af9f6d287f69505dbb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,26 @@ eu_basis: []
 
 ### § 1. Formål og virkeområde
 
-Forskriftenstiller krav til kommunene om organisering, bemanning og utrustning av brann- og redningsvesen og nødmeldesentralerstiller krav til kommunene om hvilken kompetanse personell i brann- og redningsvesen og nødmeldesentraler skal haskal bidra til å redusere sannsynligheten og konsekvensene av branner og andre ulykker.
+Forskriften
+
+1. stiller krav til kommunene om organisering, bemanning og utrustning av brann- og redningsvesen og nødmeldesentraler
+2. stiller krav til kommunene om hvilken kompetanse personell i brann- og redningsvesen og nødmeldesentraler skal ha
+3. skal bidra til å redusere sannsynligheten og konsekvensene av branner og andre ulykker.
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*alarmbehandlingstid:* tiden det tar fra nødanropet begynner å ringe, eller nødmeldingen på annen måte mottas, på nødmeldesentralen til innsatsstyrken er alarmert*beredskapsstyrke:* det totale antall personell som inngår i brann- og redningsvesenets beredskap*brann- og redningsvesenets ansvarsområde:* et område som tilsvarer kommunens grenser eller et område hvor to eller flere kommuner samarbeider om å gjennomføre alle brann- og redningsvesenets oppgaver*flervarsling:* at nødmeldesentralen gjennom tverrvarsling, trippelvarsling eller SAR-varsling varsler andre nødetater og eventuelle andre samvirkeaktører når det er behov for samtidig innsats*innsatsstyrke:* personellet som utalarmeres og som møter opp til innsats ved branner, ulykker eller andre hendelser*responstid:* tiden det tar fra nødanropet begynner å ringe, eller nødmeldingen på annen måte mottas, på nødmeldesentralen til innsatsstyrken er på hendelsesstedet*risiko:* hvor sannsynlig det er at uønskede hendelser kan komme til å inntreffe, konsekvensene av disse og usikkerheten knyttet til disse vurderingene*tettsted:* Statisk sentralbyrås tettstedsdefinisjon og Statistisk sentralbyrås tabell over tettsteder*utrykningstid:* tiden det tar fra nødmeldesentralen har utalarmert innsatsstyrken til første innsatsstyrke er på hendelsesstedet*vaktberedskap:* organiseringen av beredskapsstyrken i vaktordninger.
+I denne forskriften menes med
+
+1. *alarmbehandlingstid:* tiden det tar fra nødanropet begynner å ringe, eller nødmeldingen på annen måte mottas, på nødmeldesentralen til innsatsstyrken er alarmert
+2. *beredskapsstyrke:* det totale antall personell som inngår i brann- og redningsvesenets beredskap
+3. *brann- og redningsvesenets ansvarsområde:* et område som tilsvarer kommunens grenser eller et område hvor to eller flere kommuner samarbeider om å gjennomføre alle brann- og redningsvesenets oppgaver
+4. *flervarsling:* at nødmeldesentralen gjennom tverrvarsling, trippelvarsling eller SAR-varsling varsler andre nødetater og eventuelle andre samvirkeaktører når det er behov for samtidig innsats
+5. *innsatsstyrke:* personellet som utalarmeres og som møter opp til innsats ved branner, ulykker eller andre hendelser
+6. *responstid:* tiden det tar fra nødanropet begynner å ringe, eller nødmeldingen på annen måte mottas, på nødmeldesentralen til innsatsstyrken er på hendelsesstedet
+7. *risiko:* hvor sannsynlig det er at uønskede hendelser kan komme til å inntreffe, konsekvensene av disse og usikkerheten knyttet til disse vurderingene
+8. *tettsted:* Statisk sentralbyrås tettstedsdefinisjon og Statistisk sentralbyrås tabell over tettsteder
+9. *utrykningstid:* tiden det tar fra nødmeldesentralen har utalarmert innsatsstyrken til første innsatsstyrke er på hendelsesstedet
+10. *vaktberedskap:* organiseringen av beredskapsstyrken i vaktordninger.
 
 ### § 3. Rapportering
 
@@ -54,7 +69,11 @@ Brann- og redningsvesenet skal ved behov inngå avtaler med samvirkeaktører nev
 
 ### § 6. Grunnlag for organisering, bemanning og utrustning
 
-Kommunen skal organisere, bemanne og utruste brann- og redningsvesenet på bakgrunn av enrisiko- og sårbarhetsanalyseforebyggendeanalyse, ogberedskapsanalyse.
+Kommunen skal organisere, bemanne og utruste brann- og redningsvesenet på bakgrunn av en
+
+1. risiko- og sårbarhetsanalyse
+2. forebyggendeanalyse, og
+3. beredskapsanalyse.
 
 Brann- og redningsvesenet skal sørge for at relevante aktører inviteres med i arbeidet med å utarbeide analysene, og sørge for nødvendig forankring av analyseprosessen og resultatene.
 
@@ -64,13 +83,23 @@ Analysene etter første ledd utgjør dokumentasjonen av brann- og redningsvesene
 
 ### § 7. Risiko- og sårbarhetsanalyse
 
-Brann- og redningsvesenet skal fastsette formål med risiko- og sårbarhetsanalysen og rammer for risikovurderingsprosessen. Risiko- og sårbarhetsanalysen skal kartlegge og vurdere sannsynligheten for og konsekvensen av uønskede hendelser. Risiko- og sårbarhetsanalysen skal som et minimum omfatterisiko og sårbarhet innenfor ansvarsområdet til brann- og redningsvesenetrisiko og sårbarhet utenfor ansvarsområdet som kan ha betydning for brann- og redningsvesenethvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre, ogbrann- og redningsvesenets evne til å opprettholde egen virksomhet når det utsettes for en uønsket hendelse, og evnen til å gjenoppta virksomheten etter at hendelsen har inntruffet.
+Brann- og redningsvesenet skal fastsette formål med risiko- og sårbarhetsanalysen og rammer for risikovurderingsprosessen. Risiko- og sårbarhetsanalysen skal kartlegge og vurdere sannsynligheten for og konsekvensen av uønskede hendelser. Risiko- og sårbarhetsanalysen skal som et minimum omfatte
+
+1. risiko og sårbarhet innenfor ansvarsområdet til brann- og redningsvesenet
+2. risiko og sårbarhet utenfor ansvarsområdet som kan ha betydning for brann- og redningsvesenet
+3. hvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre, og
+4. brann- og redningsvesenets evne til å opprettholde egen virksomhet når det utsettes for en uønsket hendelse, og evnen til å gjenoppta virksomheten etter at hendelsen har inntruffet.
 
 Brann- og redningsvesenet skal samordne sin risiko- og sårbarhetsanalyse med kommunens helhetlige risiko- og sårbarhetsanalyse, jf. [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14).
 
 ### § 8. Forebyggendeanalyse og krav til bemanning
 
-Brann- og redningsvesenet skal utarbeide en forebyggendeanalyse på bakgrunn avrisiko- og sårbarhetsanalysen etter forskriften [§ 7](forskrift/2021-09-15-2755/§7),oppgavene i [brann- og eksplosjonsvernloven § 11](lov/2002-06-14-20/§11) og forskrifter gitt i medhold av denne.Forebyggendeanalysen skal identifisere hvilket personell og hvilken kompetanse som er nødvendig for å sikre et tilfredsstillende forebyggende arbeid.
+Brann- og redningsvesenet skal utarbeide en forebyggendeanalyse på bakgrunn av
+
+1. risiko- og sårbarhetsanalysen etter forskriften [§ 7](forskrift/2021-09-15-2755/§7),
+2. oppgavene i [brann- og eksplosjonsvernloven § 11](lov/2002-06-14-20/§11) og forskrifter gitt i medhold av denne.
+
+Forebyggendeanalysen skal identifisere hvilket personell og hvilken kompetanse som er nødvendig for å sikre et tilfredsstillende forebyggende arbeid.
 
 Brann- og redningsvesenet skal ha personell til brannforebyggende arbeid etter [forskrift 17. desember 2015 nr. 1710 om brannforebygging](forskrift/2015-12-17-1710), og dette skal utføres med minst 0,1 årsverk per 1 000 innbyggere i ansvarsområdet. I tillegg til personell til brannforebyggende arbeid gjelder krav til årsverk til leder for forebyggendearbeid, jf. forskriften § 11, og krav til bemanning ved feiing og tilsyn med fyringsanlegg etter [forskrift 17. desember 2015 nr. 1710 om brannforebygging § 17](forskrift/2015-12-17-1710/§17).
 
@@ -80,7 +109,12 @@ Brann- og redningsvesenet skal utarbeide en beredskapsanalyse på bakgrunn av ri
 
 Beredskapsanalysen skal identifisere og vurdere hvilke ressurser, som utstyr, personell og kompetanse, som er nødvendig for å kunne håndtere dimensjonerende hendelser på en tilfredsstillende måte.
 
-Vurderingen av antall personer i beredskapsstyrken, vaktberedskapen, antall vaktlag, reservestyrken og lokaliseringen av beredskapsstyrken, jf. forskriften [§ 13](forskrift/2021-09-15-2755/§13), [§ 15](forskrift/2021-09-15-2755/§15), [§ 16](forskrift/2021-09-15-2755/§16) og [§ 17](forskrift/2021-09-15-2755/§17), skal omfatterisikoen i ansvarsområdetkravet til utrykningstidoppmøtetiden for personellet som skal møte til førsteinnsats og videre innsats, ogsamarbeid med andre brann- og redningsvesen.
+Vurderingen av antall personer i beredskapsstyrken, vaktberedskapen, antall vaktlag, reservestyrken og lokaliseringen av beredskapsstyrken, jf. forskriften [§ 13](forskrift/2021-09-15-2755/§13), [§ 15](forskrift/2021-09-15-2755/§15), [§ 16](forskrift/2021-09-15-2755/§16) og [§ 17](forskrift/2021-09-15-2755/§17), skal omfatte
+
+1. risikoen i ansvarsområdet
+2. kravet til utrykningstid
+3. oppmøtetiden for personellet som skal møte til førsteinnsats og videre innsats, og
+4. samarbeid med andre brann- og redningsvesen.
 
 ### § 10. Planverk for håndtering av hendelser
 
@@ -92,7 +126,16 @@ Planene skal iverksettes, evalueres og ved behov endres i henhold til erfaringer
 
 Kommunen skal delegere myndighet til leder av brann- og redningsvesenet slik at oppgaver etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20) med forskrifter ivaretas på en effektiv og sikker måte.
 
-Kommunen skal sørge for at leder av brann- og redningsvesenet ivaretar systematisk styring av brann- og redningsvesenets oppgaver, som blant annet innebærer åha oversikt over lover og forskrifter som gjelder for brann- og redningsvesenetsørge for å gjennomføre og oppdatere risiko-, forebyggende- og beredskapsanalysersørge for å gjennomføre forebyggende brannvernsørge for beredskap, herunder at innsatsstyrken er kompetent, utrustet og øvetsørge for faglig forsvarlig ledelse av innsats og brann- og redningsvesenets krisehåndteringsørge for at brann- og redningsvesenet bidrar i kommunens kriseledelse i tråd med kommunens beredskapsplan, jf. [forskrift om kommunal beredskapsplikt § 4](forskrift/2011-08-22-894/§4)bidra til samarbeid med øvrige nødetater og andre samvirkeaktører, ogsørge for at relevante hendelser og øvelser evalueres og at læringspunkter implementeres i brann- og redningsvesenet.
+Kommunen skal sørge for at leder av brann- og redningsvesenet ivaretar systematisk styring av brann- og redningsvesenets oppgaver, som blant annet innebærer å
+
+1. ha oversikt over lover og forskrifter som gjelder for brann- og redningsvesenet
+2. sørge for å gjennomføre og oppdatere risiko-, forebyggende- og beredskapsanalyser
+3. sørge for å gjennomføre forebyggende brannvern
+4. sørge for beredskap, herunder at innsatsstyrken er kompetent, utrustet og øvet
+5. sørge for faglig forsvarlig ledelse av innsats og brann- og redningsvesenets krisehåndtering
+6. sørge for at brann- og redningsvesenet bidrar i kommunens kriseledelse i tråd med kommunens beredskapsplan, jf. [forskrift om kommunal beredskapsplikt § 4](forskrift/2011-08-22-894/§4)
+7. bidra til samarbeid med øvrige nødetater og andre samvirkeaktører, og
+8. sørge for at relevante hendelser og øvelser evalueres og at læringspunkter implementeres i brann- og redningsvesenet.
 
 Brann- og redningsvesenet skal som et minimum ledes av tre kvalifiserte personer i hele stillinger der brann- og redningsvesenets ansvarsområde dekker mer enn 20 000 innbyggere. Det skal være én leder av brann- og redningsvesenet, én leder av det forebyggende arbeidet og én leder av beredskapsarbeidet. I brann- og redningsvesenets ansvarsområde med færre enn 20 000 innbyggere kan det være ledelse i deltidsstillinger proporsjonalt med antall innbyggere dersom ledelsen ivaretar systematisk styring av brann- og redningsvesenet, jf. andre ledd.
 
@@ -182,7 +225,11 @@ Nødmeldesentralen skal sørge for at alarmbehandlingstiden normalt ikke oversti
 
 ### § 22. Utrykningstid til brann
 
-Brann- og redningsvesenets utrykningstid skal ikke overstige 10 minutter ved brann itettbebyggelse med særlig fare for rask og omfattende brannspredningsykehus, sykehjem og lignende institusjoner som krever assistert rømningområder med konsentrert og omfattende næringsdrift eller lignende.
+Brann- og redningsvesenets utrykningstid skal ikke overstige 10 minutter ved brann i
+
+1. tettbebyggelse med særlig fare for rask og omfattende brannspredning
+2. sykehus, sykehjem og lignende institusjoner som krever assistert rømning
+3. områder med konsentrert og omfattende næringsdrift eller lignende.
 
 Utrykningstiden til objekter og områder nevnt i første ledd kan i særskilte tilfeller være lengre dersom det er gjennomført tiltak som kompenserer den økte risikoen i tråd med risiko- og sårbarhetsanalysen og beredskapsanalysen, jf. forskriften [§ 7](forskrift/2021-09-15-2755/§7) og [§ 9](forskrift/2021-09-15-2755/§9), men utrykningstiden skal aldri overstige 20 minutter.
 
@@ -302,13 +349,21 @@ Lærlinger og praksiskandidater under fagutdanning kan utføre oppgaver som nevn
 
 ### § 39. Operatør på nødmeldesentral
 
-Operatør på nødmeldesentral skal ha gjennomført yrkesutdanning i samsvar med kursplan for operatør innen to år fra tilsetting, og ha entengjennomført yrkesutdanning i samsvar med kursplan for brannkonstabel heltid eller deltid, og utrykningsleder deltid eller heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41), ellergjennomført forberedende yrkesutdanning i samsvar med kursplan for personell som ikke har brann- og redningsfaglig utdanning.
+Operatør på nødmeldesentral skal ha gjennomført yrkesutdanning i samsvar med kursplan for operatør innen to år fra tilsetting, og ha enten
+
+1. gjennomført yrkesutdanning i samsvar med kursplan for brannkonstabel heltid eller deltid, og utrykningsleder deltid eller heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41), eller
+2. gjennomført forberedende yrkesutdanning i samsvar med kursplan for personell som ikke har brann- og redningsfaglig utdanning.
 
 > Endret ved [forskrift 12 juli 2023 nr. 1268](forskrift/2023-07-12-1268).
 
 ### § 40. Forebyggende personell
 
-Personell med oppgaver innen brannforebygging skal ha gjennomført yrkesutdanning i samsvar med kursplan for forebyggende brannvern innen to år fra ansettelse, og ha entenuniversitets- eller høgskoleutdanning på bachelornivå,yrkesutdanning som brannkonstabel heltid eller deltid, og kurs for utrykningsleder deltid eller heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41),fagutdanning i samsvar med læreplan fastsatt for personell som skal utføre feiing og tilsyn med fyringsanlegg, jf. forskriften [§ 38](forskrift/2021-09-15-2755/§38), ellerannen relevant fagskole- eller fagutdanning.
+Personell med oppgaver innen brannforebygging skal ha gjennomført yrkesutdanning i samsvar med kursplan for forebyggende brannvern innen to år fra ansettelse, og ha enten
+
+1. universitets- eller høgskoleutdanning på bachelornivå,
+2. yrkesutdanning som brannkonstabel heltid eller deltid, og kurs for utrykningsleder deltid eller heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41),
+3. fagutdanning i samsvar med læreplan fastsatt for personell som skal utføre feiing og tilsyn med fyringsanlegg, jf. forskriften [§ 38](forskrift/2021-09-15-2755/§38), eller
+4. annen relevant fagskole- eller fagutdanning.
 
 > Endret ved [forskrift 12 juli 2023 nr. 1268](forskrift/2023-07-12-1268).
 
@@ -322,13 +377,20 @@ Personell som skal arbeide som utrykningsleder i deltidsstilling, skal ha gjenno
 
 ### § 42. Leder av beredskapsarbeidet
 
-Leder av beredskapsarbeidet skal ha gjennomført kurs i overordnet vaktberedskap og innsatsledelse, jf. forskriften [§ 44](forskrift/2021-09-15-2755/§44), innen to år fra ansettelse, og ha entenuniversitets- eller høgskoleutdanning på bachelornivå, ellervære kvalifisert som utrykningsleder heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41).
+Leder av beredskapsarbeidet skal ha gjennomført kurs i overordnet vaktberedskap og innsatsledelse, jf. forskriften [§ 44](forskrift/2021-09-15-2755/§44), innen to år fra ansettelse, og ha enten
+
+1. universitets- eller høgskoleutdanning på bachelornivå, eller
+2. være kvalifisert som utrykningsleder heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41).
 
 Direktoratet for samfunnssikkerhet og beredskap kan etter søknad dispensere fra bestemmelsen når det foreligger særlige grunner.
 
 ### § 43. Leder av forebyggendearbeidet
 
-Leder av forebyggendearbeidet skal ha gjennomført yrkesutdanning i samsvar med kursplan for forebyggende brannvern innen to år fra ansettelse, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40), og ha entenuniversitets- eller høgskoleutdanning på bachelornivå,kvalifikasjoner som utrykningsleder heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41), ellerminst to års erfaring som forebyggende personell, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40).
+Leder av forebyggendearbeidet skal ha gjennomført yrkesutdanning i samsvar med kursplan for forebyggende brannvern innen to år fra ansettelse, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40), og ha enten
+
+1. universitets- eller høgskoleutdanning på bachelornivå,
+2. kvalifikasjoner som utrykningsleder heltid, jf. forskriften [§ 41](forskrift/2021-09-15-2755/§41), eller
+3. minst to års erfaring som forebyggende personell, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40).
 
 Direktoratet for samfunnssikkerhet og beredskap kan etter søknad dispensere fra bestemmelsen når det foreligger særlige grunner.
 
@@ -340,11 +402,21 @@ Direktoratet for samfunnssikkerhet og beredskap kan etter søknad dispensere fra
 
 ### § 45. Leder av brann- og redningsvesenet
 
-Leder av brann- og redningsvesenet i ansvarsområde med færre enn 20 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40), og kurs i overordnet vaktberedskap og innsatsledelse, jf. forskriften [§ 44](forskrift/2021-09-15-2755/§44), og enten hauniversitets- eller høgskoleutdanning på bachelornivå,kvalifikasjoner som leder av forebyggendearbeidet, jf. forskriften [§ 43](forskrift/2021-09-15-2755/§43), og minst to års erfaring som leder, ellerkvalifikasjoner som leder av beredskapsarbeidet, jf. forskriften [§ 42](forskrift/2021-09-15-2755/§42), og minst to års erfaring som leder.
+Leder av brann- og redningsvesenet i ansvarsområde med færre enn 20 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern, jf. forskriften [§ 40](forskrift/2021-09-15-2755/§40), og kurs i overordnet vaktberedskap og innsatsledelse, jf. forskriften [§ 44](forskrift/2021-09-15-2755/§44), og enten ha
 
-Leder av brann- og redningsvesenet i ansvarsområde med mellom 20 000 og 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern og kurs i overordnet vaktberedskap og innsatsledelse og enten hauniversitets- eller høgskoleutdanning på bachelornivå, ellerminst to års erfaring som leder av brann- og redningsvesen i ansvarsområde med inntil 20 000 innbyggere.
+1. universitets- eller høgskoleutdanning på bachelornivå,
+2. kvalifikasjoner som leder av forebyggendearbeidet, jf. forskriften [§ 43](forskrift/2021-09-15-2755/§43), og minst to års erfaring som leder, eller
+3. kvalifikasjoner som leder av beredskapsarbeidet, jf. forskriften [§ 42](forskrift/2021-09-15-2755/§42), og minst to års erfaring som leder.
 
-Leder av brann- og redningsvesen i ansvarsområde med mer enn 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern1 og kurs i overordnet vaktberedskap og innsatsledelse, og enten hahøgskole- eller universitetsutdanning på masternivå, ellerkvalifikasjoner som leder av brann- og redningsvesen i ansvarsområde med inntil 50 000 innbyggere, og minst fem års erfaring som leder av brann- og redningsvesen.
+Leder av brann- og redningsvesenet i ansvarsområde med mellom 20 000 og 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern og kurs i overordnet vaktberedskap og innsatsledelse og enten ha
+
+1. universitets- eller høgskoleutdanning på bachelornivå, eller
+2. minst to års erfaring som leder av brann- og redningsvesen i ansvarsområde med inntil 20 000 innbyggere.
+
+Leder av brann- og redningsvesen i ansvarsområde med mer enn 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern1 og kurs i overordnet vaktberedskap og innsatsledelse, og enten ha
+
+1. høgskole- eller universitetsutdanning på masternivå, eller
+2. kvalifikasjoner som leder av brann- og redningsvesen i ansvarsområde med inntil 50 000 innbyggere, og minst fem års erfaring som leder av brann- og redningsvesen.
 
 Yrkesutdanning i forebyggende brannvern og kurs i overordnet vaktberedskap og innsatsledelse skal gjennomføres snarest og senest to år etter ansettelsestidspunktet.
 

@@ -38,11 +38,20 @@ Tilskudd tildeles fortløpende i budsjettåret.
 
 ## § 4. Krav om og til et prosjektforslag
 
-Potensielle tilskuddsmottakere skal fremlegge et prosjektforslag som skal inneholdeklart definerte mål for prosjektetprosjektplan med tiltak, virkemidler og eventuelle samarbeidspartnerebeskrivelse av forventede resultaterbudsjett og opplysninger om supplerende finansieringskilder.
+Potensielle tilskuddsmottakere skal fremlegge et prosjektforslag som skal inneholde
+
+1. klart definerte mål for prosjektet
+2. prosjektplan med tiltak, virkemidler og eventuelle samarbeidspartnere
+3. beskrivelse av forventede resultater
+4. budsjett og opplysninger om supplerende finansieringskilder.
 
 ## § 5. Hvordan prosjektforslag blir vurdert – betingelser for tilskudd
 
-Tilskuddsforvalter har dialog med myndighetene i aktuelle land om potensielle tilskudd og tilskuddsmottakere. I vurderingen av fremlagte prosjektforslag skal det særlig legges vekt på om tiltaketer egnet til å oppnå dialog eller samarbeid med opprinnelseslandetoppfyller ett eller flere av formålene i [§ 1](forskrift/2023-11-20-1949/§1)er omfattet av gjeldende retningslinjer for hva som regnes som offisiell utviklingsfinansiering (Official Development Assistance – ODA).
+Tilskuddsforvalter har dialog med myndighetene i aktuelle land om potensielle tilskudd og tilskuddsmottakere. I vurderingen av fremlagte prosjektforslag skal det særlig legges vekt på om tiltaket
+
+1. er egnet til å oppnå dialog eller samarbeid med opprinnelseslandet
+2. oppfyller ett eller flere av formålene i [§ 1](forskrift/2023-11-20-1949/§1)
+3. er omfattet av gjeldende retningslinjer for hva som regnes som offisiell utviklingsfinansiering (Official Development Assistance – ODA).
 
 Den som er tildelt tilskudd for det første året av et flerårig prosjekt, prioriteres de påfølgende årene, dersom vilkårene i forskriften og tildelingen ble oppfylt foregående år.
 
@@ -54,7 +63,11 @@ Rapporten skal inneholde et godkjent regnskap for organisasjonen og oppgi hvilke
 
 ## § 7. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Tilskuddsforvalteren kan kontrollere at betingelsene for tilskuddet og vilkårene i et tilskuddsvedtak eller en tilskuddsavtale er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+Tilskuddsforvalteren kan kontrollere at betingelsene for tilskuddet og vilkårene i et tilskuddsvedtak eller en tilskuddsavtale er oppfylt gjennom å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. besiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
 
 ## § 8. Stans og tilbakebetaling
 

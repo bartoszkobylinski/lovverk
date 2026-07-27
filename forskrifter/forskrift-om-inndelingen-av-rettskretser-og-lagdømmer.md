@@ -30,7 +30,14 @@ Landet deles inn i rettskretser. Hver rettskrets har en tingrett i første insta
 
 ### § 2. Romssa/Troms/Tromssan, Finnmárkku/Finnmark/Finmarkun og Nordland
 
-Romssa fylka/Troms fylke/Tromssan fylkki, Finnmárkku fylka/Finnmark fylke/Finmarkun fylkki og Nordland fylke har rettskretseneVestre Finnmark tingrett, med rettssteder i Alta og Hámmerfeasta/Hammerfest, som dekker kommunene Alta, Hammerfest/Hámmerfeasta, Hasvik, Kvænangen, Loppa, Måsøy, Nordkapp og Porsáŋgu/Porsanger/Porsanki,Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett, med rettssteder i Deatnu/Tana og Vadsø, som dekker kommunene Berlevåg, Båtsfjord, Deatnu/Tana, Gamvik, Guovdageaidnu/Kautokeino, Kárášjohka/Karasjok, Lebesby, Sør-Varanger, Unjárga/Nesseby, Vadsø og Vardø,Nord-Troms og Senja tingrett, med rettssteder i Finnsnes og Tromsø, som dekker kommunene Balsfjord, Bardu, Dyrøy, Gáivuotna/Kåfjord/Kaivuno, Karlsøy, Lyngen, Målselv, Nordreisa/Ráisa/Raisi, Senja, Skjervøy, Omasvuotna/Storfjord/Omasvuono, Sørreisa og Tromsø,Midtre Hålogaland tingrett, med rettssteder i Hárstták/Harstad, Narvik og Suortá/Sortland, som dekker kommunene Andøy, Bø, Dielddanuorri/Tjeldsund, Evenes, Gratangen, Hadsel, Hárstták/Harstad, Ibestad, Kvæfjord, Loabák/Lavangen, Lødingen, Narvik, Salangen, Suortá/Sortland og Øksnes,Salten og Lofoten tingrett, med rettssteder i Bodø og Svolvær, som dekker kommunene Beiarn, Bodø, Fuosko/Fauske, Flakstad, Gildeskål, Hábmer/Hamarøy, Meløy, Moskenes, Rødøy, Røst, Saltdal, Steigen, Sørfold, Vestvågøy, Værøy og Vågan, ogHelgeland tingrett, med rettssteder i Brønnøysund, Mo i Rana og Sandnessjøen, som dekker kommunene Alstahaug, Aarborte/Hattfjelldal, Bindal, Brønnøy, Dønna, Grane, Hemnes, Herøy, Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega og Vevelstad.
+Romssa fylka/Troms fylke/Tromssan fylkki, Finnmárkku fylka/Finnmark fylke/Finmarkun fylkki og Nordland fylke har rettskretsene
+
+1. Vestre Finnmark tingrett, med rettssteder i Alta og Hámmerfeasta/Hammerfest, som dekker kommunene Alta, Hammerfest/Hámmerfeasta, Hasvik, Kvænangen, Loppa, Måsøy, Nordkapp og Porsáŋgu/Porsanger/Porsanki,
+2. Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett, med rettssteder i Deatnu/Tana og Vadsø, som dekker kommunene Berlevåg, Båtsfjord, Deatnu/Tana, Gamvik, Guovdageaidnu/Kautokeino, Kárášjohka/Karasjok, Lebesby, Sør-Varanger, Unjárga/Nesseby, Vadsø og Vardø,
+3. Nord-Troms og Senja tingrett, med rettssteder i Finnsnes og Tromsø, som dekker kommunene Balsfjord, Bardu, Dyrøy, Gáivuotna/Kåfjord/Kaivuno, Karlsøy, Lyngen, Målselv, Nordreisa/Ráisa/Raisi, Senja, Skjervøy, Omasvuotna/Storfjord/Omasvuono, Sørreisa og Tromsø,
+4. Midtre Hålogaland tingrett, med rettssteder i Hárstták/Harstad, Narvik og Suortá/Sortland, som dekker kommunene Andøy, Bø, Dielddanuorri/Tjeldsund, Evenes, Gratangen, Hadsel, Hárstták/Harstad, Ibestad, Kvæfjord, Loabák/Lavangen, Lødingen, Narvik, Salangen, Suortá/Sortland og Øksnes,
+5. Salten og Lofoten tingrett, med rettssteder i Bodø og Svolvær, som dekker kommunene Beiarn, Bodø, Fuosko/Fauske, Flakstad, Gildeskål, Hábmer/Hamarøy, Meløy, Moskenes, Rødøy, Røst, Saltdal, Steigen, Sørfold, Vestvågøy, Værøy og Vågan, og
+6. Helgeland tingrett, med rettssteder i Brønnøysund, Mo i Rana og Sandnessjøen, som dekker kommunene Alstahaug, Aarborte/Hattfjelldal, Bindal, Brønnøy, Dønna, Grane, Hemnes, Herøy, Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega og Vevelstad.
 
 > Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
 
@@ -40,13 +47,22 @@ Trööndelagen fylhke/Trøndelag fylke har rettskretsen Trøndelag tingrett, med
 
 ### § 4. Møre og Romsdal
 
-Møre og Romsdal fylke har rettskretseneNordmøre og Romsdal tingrett, med rettssteder i Kristiansund og Molde, som dekker kommunene Aukra, Aure, Averøy, Gjemnes, Hustadvika, Kristiansund, Molde, Rauma, Smøla, Sunndal, Surnadal, Tingvoll og Vestnes, ogSunnmøre tingrett, med rettssteder i Volda og Ålesund, som dekker kommunene Fjord, Giske, Haram, Hareid, Herøy, Sande, Stranda, Sula, Sykkylven, Ulstein, Vanylven, Volda, Ørsta og Ålesund.
+Møre og Romsdal fylke har rettskretsene
+
+1. Nordmøre og Romsdal tingrett, med rettssteder i Kristiansund og Molde, som dekker kommunene Aukra, Aure, Averøy, Gjemnes, Hustadvika, Kristiansund, Molde, Rauma, Smøla, Sunndal, Surnadal, Tingvoll og Vestnes, og
+2. Sunnmøre tingrett, med rettssteder i Volda og Ålesund, som dekker kommunene Fjord, Giske, Haram, Hareid, Herøy, Sande, Stranda, Sula, Sykkylven, Ulstein, Vanylven, Volda, Ørsta og Ålesund.
 
 > Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025, endring endret ved forskrift [23 mai 2025 nr. 841](forskrift/2025-05-23-841)).
 
 ### § 5. Vestland og Rogaland
 
-Vestland fylke og Rogaland fylke har rettskretseneSogn og Fjordane tingrett, med rettssteder i Førde og Sogndal, som dekker kommunene Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik og Årdal,Hordaland tingrett, med rettssted i Bergen, som dekker kommunene Alver, Askøy, Austevoll, Austrheim, Bergen, Bjørnafjorden, Fedje, Masfjorden, Modalen, Osterøy, Vaksdal, og Øygarden,Hardanger og Voss tingrett, med rettssted i Lofthus, som dekker kommunene Eidfjord, Kvam, Samnanger, Ullensvang, Ulvik og Voss herad,Haugaland og Sunnhordland tingrett, med rettssteder i Haugesund og Stord, som dekker kommunene Bokn, Bømlo, Etne, Fitjar, Haugesund, Karmøy, Kvinnherad, Sauda, Stord, Suldal, Sveio, Tysnes, Tysvær, Utsira og Vindafjord, ogSør-Rogaland tingrett, med rettssteder i Egersund, Sandnes og Stavanger, som dekker kommunene Bjerkreim, Eigersund, Gjesdal, Hjelmeland, Hå, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sirdal, Sokndal, Sola, Stavanger, Strand og Time.
+Vestland fylke og Rogaland fylke har rettskretsene
+
+1. Sogn og Fjordane tingrett, med rettssteder i Førde og Sogndal, som dekker kommunene Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik og Årdal,
+2. Hordaland tingrett, med rettssted i Bergen, som dekker kommunene Alver, Askøy, Austevoll, Austrheim, Bergen, Bjørnafjorden, Fedje, Masfjorden, Modalen, Osterøy, Vaksdal, og Øygarden,
+3. Hardanger og Voss tingrett, med rettssted i Lofthus, som dekker kommunene Eidfjord, Kvam, Samnanger, Ullensvang, Ulvik og Voss herad,
+4. Haugaland og Sunnhordland tingrett, med rettssteder i Haugesund og Stord, som dekker kommunene Bokn, Bømlo, Etne, Fitjar, Haugesund, Karmøy, Kvinnherad, Sauda, Stord, Suldal, Sveio, Tysnes, Tysvær, Utsira og Vindafjord, og
+5. Sør-Rogaland tingrett, med rettssteder i Egersund, Sandnes og Stavanger, som dekker kommunene Bjerkreim, Eigersund, Gjesdal, Hjelmeland, Hå, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sirdal, Sokndal, Sola, Stavanger, Strand og Time.
 
 > Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
 
@@ -56,19 +72,35 @@ Agder fylke har rettskretsen Agder tingrett, med rettssteder i Arendal, Farsund 
 
 ### § 7. Vestfold og Telemark
 
-Vestfold fylke og Telemark fylke har rettskretseneØvre Telemark tingrett, med rettssteder i Kviteseid og Notodden, som dekker kommunene Fyresdal, Hjartdal, Kviteseid, Midt-Telemark, Nissedal, Notodden, Seljord, Tinn, Tokke og Vinje,Nedre Telemark tingrett, med rettssted i Skien, som dekker kommunene Bamble, Drangedal, Kragerø, Nome, Porsgrunn, Siljan og Skien, ogVestfold tingrett, med rettssted i Tønsberg, som dekker kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og Tønsberg.
+Vestfold fylke og Telemark fylke har rettskretsene
+
+1. Øvre Telemark tingrett, med rettssteder i Kviteseid og Notodden, som dekker kommunene Fyresdal, Hjartdal, Kviteseid, Midt-Telemark, Nissedal, Notodden, Seljord, Tinn, Tokke og Vinje,
+2. Nedre Telemark tingrett, med rettssted i Skien, som dekker kommunene Bamble, Drangedal, Kragerø, Nome, Porsgrunn, Siljan og Skien, og
+3. Vestfold tingrett, med rettssted i Tønsberg, som dekker kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og Tønsberg.
 
 > Endret ved forskrifter 22 jan 2021 nr. 163 (i kraft 1 jan 2023, endringen fremgår av dennes forskriftens [§ 18](forskrift/2021-01-22-163/§18) slik den lød før 10 juni 2025), [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
 
 ### § 8. Buskerud og Innlandet
 
-Buskerud fylke og Innlandet fylke har rettskretseneBuskerud tingrett, med rettssteder i Drammen, Hokksund og Kongsberg, som dekker kommunene Drammen, Flesberg, Kongsberg, Krødsherad, Lier, Modum, Nore og Uvdal, Rollag, Sigdal og Øvre Eiker,Ringerike og Hallingdal tingrett, med rettssteder i Hønefoss og Nesbyen, som dekker kommunene Flå, Gol, Hemsedal, Hol, Hole, Jevnaker, Lunner, Nesbyen, Ringerike og Ål,Vestoppland og Valdres tingrett, med rettssteder i Fagernes og Gjøvik, som dekker kommunene Etnedal, Gjøvik, Gran, Nord-Aurdal, Nordre Land, Søndre Land, Sør-Aurdal, Vestre Slidre, Vestre Toten, Vang, Østre Toten, og Øystre Slidre,Gudbrandsdal tingrett, med rettssteder i Lillehammer og Vågåmo, som dekker kommunene Dovre, Gausdal, Lesja, Lillehammer, Lom, Nord-Fron, Ringebu, Sel, Skjåk, Sør-Fron, Vågå og Øyer, ogHedmarken og Østerdal tingrett, med rettssteder i Elverum, Hamar og Tynset, som dekker kommunene Alvdal, Elverum, Engerdal, Folldal, Hamar, Løten, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Tolga, Trysil, Tynset, Våler, Åmot og Åsnes.
+Buskerud fylke og Innlandet fylke har rettskretsene
+
+1. Buskerud tingrett, med rettssteder i Drammen, Hokksund og Kongsberg, som dekker kommunene Drammen, Flesberg, Kongsberg, Krødsherad, Lier, Modum, Nore og Uvdal, Rollag, Sigdal og Øvre Eiker,
+2. Ringerike og Hallingdal tingrett, med rettssteder i Hønefoss og Nesbyen, som dekker kommunene Flå, Gol, Hemsedal, Hol, Hole, Jevnaker, Lunner, Nesbyen, Ringerike og Ål,
+3. Vestoppland og Valdres tingrett, med rettssteder i Fagernes og Gjøvik, som dekker kommunene Etnedal, Gjøvik, Gran, Nord-Aurdal, Nordre Land, Søndre Land, Sør-Aurdal, Vestre Slidre, Vestre Toten, Vang, Østre Toten, og Øystre Slidre,
+4. Gudbrandsdal tingrett, med rettssteder i Lillehammer og Vågåmo, som dekker kommunene Dovre, Gausdal, Lesja, Lillehammer, Lom, Nord-Fron, Ringebu, Sel, Skjåk, Sør-Fron, Vågå og Øyer, og
+5. Hedmarken og Østerdal tingrett, med rettssteder i Elverum, Hamar og Tynset, som dekker kommunene Alvdal, Elverum, Engerdal, Folldal, Hamar, Løten, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Tolga, Trysil, Tynset, Våler, Åmot og Åsnes.
 
 > Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
 
 ### § 9. Akershus, Oslo og Østfold
 
-Akershus fylke, Oslo fylke og Østfold fylke har rettskretseneOslo tingrett, med rettssted i Oslo, som dekker Oslo kommune.Asker og Bærum tingrett, med rettssted i Sandvika, som dekker kommunene Asker og Bærum.Romerike og Glåmdal tingrett, med rettssteder i Eidsvoll, Kongsvinger og Lillestrøm, som dekker kommunene Aurskog-Høland, Eidskog, Eidsvoll, Gjerdrum, Grue, Hurdal, Kongsvinger, Lillestrøm, Lørenskog, Nannestad, Nes, Nittedal, Nord-Odal, Rælingen, Sør-Odal og Ullensaker,Follo og Nordre Østfold tingrett, med rettssteder i Mysen og Ski, som dekker kommunene Enebakk, Frogn, Indre Østfold, Marker, Nesodden, Nordre Follo, Skiptvet, Vestby og Ås, ogSøndre Østfold tingrett, med rettssteder i Fredrikstad, Halden, Moss og Sarpsborg, som dekker kommunene Aremark, Fredrikstad, Halden, Hvaler, Moss, Rakkestad, Råde, Sarpsborg og Våler.
+Akershus fylke, Oslo fylke og Østfold fylke har rettskretsene
+
+1. Oslo tingrett, med rettssted i Oslo, som dekker Oslo kommune.
+2. Asker og Bærum tingrett, med rettssted i Sandvika, som dekker kommunene Asker og Bærum.
+3. Romerike og Glåmdal tingrett, med rettssteder i Eidsvoll, Kongsvinger og Lillestrøm, som dekker kommunene Aurskog-Høland, Eidskog, Eidsvoll, Gjerdrum, Grue, Hurdal, Kongsvinger, Lillestrøm, Lørenskog, Nannestad, Nes, Nittedal, Nord-Odal, Rælingen, Sør-Odal og Ullensaker,
+4. Follo og Nordre Østfold tingrett, med rettssteder i Mysen og Ski, som dekker kommunene Enebakk, Frogn, Indre Østfold, Marker, Nesodden, Nordre Follo, Skiptvet, Vestby og Ås, og
+5. Søndre Østfold tingrett, med rettssteder i Fredrikstad, Halden, Moss og Sarpsborg, som dekker kommunene Aremark, Fredrikstad, Halden, Hvaler, Moss, Rakkestad, Råde, Sarpsborg og Våler.
 
 > Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
 

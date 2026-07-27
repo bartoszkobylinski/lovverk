@@ -34,21 +34,39 @@ Det kan gis tilskudd til tiltak som bidrar til å oppfylle formålet i [§ 1](fo
 
 ## § 3. Tilskuddsmottakerens plikter
 
-Tilskuddsmottakeren skalbruke tilskuddet i samsvar med forskriftens formål og søknaden og tilskuddsvedtaketbenytte tilskuddet innen 12 måneder etter at det er mottatt, med mindre tilskuddsvedtaket fastsetter noe annetsende dokumentasjon for utført arbeid til Politidirektoratet innen 1. desember året etter det året tilskuddet gjelder for.
+Tilskuddsmottakeren skal
+
+1. bruke tilskuddet i samsvar med forskriftens formål og søknaden og tilskuddsvedtaket
+2. benytte tilskuddet innen 12 måneder etter at det er mottatt, med mindre tilskuddsvedtaket fastsetter noe annet
+3. sende dokumentasjon for utført arbeid til Politidirektoratet innen 1. desember året etter det året tilskuddet gjelder for.
 
 ## § 4. Krav til søknaden
 
 En søknad om tilskudd rettes til Politidirektoratet innen søknadsfristen 1. mars.
 
-Søknaden skalangi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersonangi hva tilskuddet skal benyttes til, og begrunne behovet for tilskuddangi beløpet det søkes ominneholde et budsjett for tiltaketoppgi hvilke beløp søkeren har søkt om og/eller mottatt til fysiske sikringstiltak fra andre offentlige myndigheter.
+Søknaden skal
+
+1. angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. angi hva tilskuddet skal benyttes til, og begrunne behovet for tilskudd
+3. angi beløpet det søkes om
+4. inneholde et budsjett for tiltaket
+5. oppgi hvilke beløp søkeren har søkt om og/eller mottatt til fysiske sikringstiltak fra andre offentlige myndigheter.
 
 ## § 5. Rett til å innhente ytterligere opplysninger
 
-Politidirektoratet kankreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereavholde befaring som anses nødvendig for å vurdere søknaden, og herunder kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
+Politidirektoratet kan
+
+1. kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. avholde befaring som anses nødvendig for å vurdere søknaden, og herunder kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
 
 ## § 6. Hvordan søknaden blir vurdert
 
-Politidirektoratet avgjør søknaden etter en skjønnsmessig vurdering av søknadsopplysningene mot kriteriene i [§ 2](forskrift/2020-10-15-2046/§2). I vurderingen av hvem som skal få hvor mye legges det særlig vekt påi hvilken grad tros- og livssynssamfunnet anses som potensielt mål med forhøyet trussel i Politiets sikkerhetstjenestes årlige nasjonale trusselvurdering (NTV)søkerens spesielle begrunnede behov for fysiske sikringstiltakom søkeren har mottatt og/eller søkt om støtte fra andre offentlige myndigheter til fysiske sikringstiltak.
+Politidirektoratet avgjør søknaden etter en skjønnsmessig vurdering av søknadsopplysningene mot kriteriene i [§ 2](forskrift/2020-10-15-2046/§2). I vurderingen av hvem som skal få hvor mye legges det særlig vekt på
+
+1. i hvilken grad tros- og livssynssamfunnet anses som potensielt mål med forhøyet trussel i Politiets sikkerhetstjenestes årlige nasjonale trusselvurdering (NTV)
+2. søkerens spesielle begrunnede behov for fysiske sikringstiltak
+3. om søkeren har mottatt og/eller søkt om støtte fra andre offentlige myndigheter til fysiske sikringstiltak.
 
 ## § 7. Utbetaling av tilskudd
 

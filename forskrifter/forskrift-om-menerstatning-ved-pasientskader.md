@@ -15,7 +15,7 @@ xml_hash: "86363608ddbf69ec616a2b651b9cb051ed97793efa03d1a16f6a5ee2b570fa82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Forskriften gjelder ved utmåling av menerstatning etter [pasientskadeloven](lov
 
 ### § 2. Definisjoner
 
-I forskriften her menes med*medisinsk invaliditet:* den fysiske og/eller psykiske funksjonsnedsettelsen som en skade eller sykdom vanligvis gir.*skadevirkningstidspunktet:* tidspunktet da pasienten opplevde de første symptomene på nedsatt helsetilstand.*oppgjørstidspunktet:* tidspunktet da Norsk pasientskadeerstatning (NPE) eller Pasientskadenemnda (PSN) treffer vedtak om størrelsen på menerstatningen.
+I forskriften her menes med
+
+1. *medisinsk invaliditet:* den fysiske og/eller psykiske funksjonsnedsettelsen som en skade eller sykdom vanligvis gir.
+2. *skadevirkningstidspunktet:* tidspunktet da pasienten opplevde de første symptomene på nedsatt helsetilstand.
+3. *oppgjørstidspunktet:* tidspunktet da Norsk pasientskadeerstatning (NPE) eller Pasientskadenemnda (PSN) treffer vedtak om størrelsen på menerstatningen.
 
 ### § 3. Vilkår for menerstatning ved pasientskader
 
@@ -790,7 +794,15 @@ Tabellen beskriver skadefølger og medisinsk invaliditet i prosent (invaliditets
 
 Ved bilaterale amputasjoner på hendene/fingrene anvendes ren addisjon – ikke kumulativ. Det skal da ikke gjøres fradrag for skade på ikke beste hånd.
 
-I tabellen nedenfor betyr:1 = tap av hele tommelfingeren uten tap av mellomhåndsbenet2 = tap av hele pekefingeren med eller uten tap av mellomhåndsbenet3 = tap av hele langfingeren med eller uten tap av mellomhåndsbenet4 = tap av hele ringfingeren med eller uten tap av mellomhåndsbenet5 = tap av hele lillefingeren med eller uten tap av mellomhåndsbenetym = tap av ytter- og mellomfalangy = tap av ytterfalang
+I tabellen nedenfor betyr:
+
+- 1 = tap av hele tommelfingeren uten tap av mellomhåndsbenet
+- 2 = tap av hele pekefingeren med eller uten tap av mellomhåndsbenet
+- 3 = tap av hele langfingeren med eller uten tap av mellomhåndsbenet
+- 4 = tap av hele ringfingeren med eller uten tap av mellomhåndsbenet
+- 5 = tap av hele lillefingeren med eller uten tap av mellomhåndsbenet
+- ym = tap av ytter- og mellomfalang
+- y = tap av ytterfalang
 
 *Tap av/på en finger, se [del II](forskrift/2021-03-01-622/kapii) punkt 3.1.*
 

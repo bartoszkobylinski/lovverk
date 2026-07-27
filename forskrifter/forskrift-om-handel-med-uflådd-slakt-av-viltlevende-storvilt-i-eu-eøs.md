@@ -16,7 +16,7 @@ xml_hash: "98f3efc22f069f5f868d3cc5d5cc1f5982cd432df0bbacf75afd41b03ca54a59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,7 +65,14 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 7 nr. 2 bokstav a), og
 
-ut fra følgende betraktninger:Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse. I nevnte forordning fastsettes det blant annet krav til produksjon og omsetning av kjøtt fra viltlevende vilt. Driftsansvarlige for næringsmiddelforetak skal sikre at slikt kjøtt bringes i omsetning bare dersom det er produsert i samsvar med avsnitt IV i vedlegg III til nevnte forordning.Forordning [(EF) nr. 853/2004](eu/32004r0853*) inneholder også bestemmelser om utarbeiding av sertifikatmodeller som skal ledsage forsendelser av produkter av animalsk opprinnelse.I kommisjonsforordning [(EU) nr. 633/2014](eu/32014r0633)2 om endring av vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt at uflådd viltlevende storvilt kan sendes til et viltbehandlingsanlegg i en annen medlemsstat dersom det under transport til nevnte viltbehandlingsanlegg ledsages av et sertifikat som attesterer at kravene i avsnitt IV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er overholdt.For å lette handelen med uflådd viltlevende storvilt bør det fastsettes en sertifikatmodell for handel mellom medlemsstatene.Ettersom skrotter av uflådd viltlevende storvilt kan være bærere av sykdomsframkallende stoffer som kan forårsake sykdommer hos dyr, bør storviltet ikke stamme fra områder som av helsemessige grunner omfattes av et forbud eller en restriksjon med hensyn til de berørte artene, i samsvar med Unionens regelverk eller nasjonal lovgivning. Handel med skrotter av uflådd villsvin kan bare finne sted dersom det ikke berører Kommisjonens gjennomføringsbeslutning [2013/764/EU](eu/32013d0764).3Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse. I nevnte forordning fastsettes det blant annet krav til produksjon og omsetning av kjøtt fra viltlevende vilt. Driftsansvarlige for næringsmiddelforetak skal sikre at slikt kjøtt bringes i omsetning bare dersom det er produsert i samsvar med avsnitt IV i vedlegg III til nevnte forordning.
+2. Forordning [(EF) nr. 853/2004](eu/32004r0853*) inneholder også bestemmelser om utarbeiding av sertifikatmodeller som skal ledsage forsendelser av produkter av animalsk opprinnelse.
+3. I kommisjonsforordning [(EU) nr. 633/2014](eu/32014r0633)2 om endring av vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt at uflådd viltlevende storvilt kan sendes til et viltbehandlingsanlegg i en annen medlemsstat dersom det under transport til nevnte viltbehandlingsanlegg ledsages av et sertifikat som attesterer at kravene i avsnitt IV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er overholdt.
+4. For å lette handelen med uflådd viltlevende storvilt bør det fastsettes en sertifikatmodell for handel mellom medlemsstatene.
+5. Ettersom skrotter av uflådd viltlevende storvilt kan være bærere av sykdomsframkallende stoffer som kan forårsake sykdommer hos dyr, bør storviltet ikke stamme fra områder som av helsemessige grunner omfattes av et forbud eller en restriksjon med hensyn til de berørte artene, i samsvar med Unionens regelverk eller nasjonal lovgivning. Handel med skrotter av uflådd villsvin kan bare finne sted dersom det ikke berører Kommisjonens gjennomføringsbeslutning [2013/764/EU](eu/32013d0764).3
+6. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 139 av 30.4.2004, s. 55.
 

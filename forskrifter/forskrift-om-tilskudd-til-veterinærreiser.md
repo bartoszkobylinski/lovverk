@@ -48,7 +48,10 @@ Som kommersiell transporttjeneste etter andre ledd regnes foretak som driver all
 
 Bruk av kommersiell transporttjeneste som veterinæren eller nærstående til veterinæren har eierinteresser i, gir ikke grunnlag for tilskudd etter andre ledd. Som veterinærens nærstående regnes samme personkrets som omfattes av [lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) § 1-5](lov/1997-06-13-44/§1-5).
 
-Det gis ikke tilskudd til reiser som foretasi forbindelse med embryoinnlegging på andre dyreslag enn storfe, elleri henhold til [lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124) og bestemmelser gitt i medhold av den.
+Det gis ikke tilskudd til reiser som foretas
+
+1. i forbindelse med embryoinnlegging på andre dyreslag enn storfe, eller
+2. i henhold til [lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124) og bestemmelser gitt i medhold av den.
 
 > Endret ved forskrifter [2 juli 2020 nr. 1494](forskrift/2020-07-02-1494) (i kraft 3 juli 2020), [27 des 2021 nr. 3892](forskrift/2021-12-27-3892) (i kraft 1 jan 2022), [19 des 2022 nr. 2407](forskrift/2022-12-19-2407) (i kraft 1 jan 2023), [3 mars 2025 nr. 394](forskrift/2025-03-03-394).
 

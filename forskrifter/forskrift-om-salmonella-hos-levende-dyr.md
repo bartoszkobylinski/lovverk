@@ -15,7 +15,7 @@ xml_hash: "15005fddf60cbe1d05889bdbcd6671067cbb5b1e8b96f8cf2560937f63d06202"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,7 +120,15 @@ Andre veterinærer skal varsle det lokale Mattilsynet.
 
 ### § 10. Generelle restriksjoner for storfe og svin
 
-Ved påvisning av salmonella hos dyr eller i lokaler der det er dyr, skal Mattilsynet pålegge besetningen følgende restriksjoner:Ingen levende dyr får føres inn i eller ut av besetningen med unntak av dyr som føres direkte til slakt.Ingen dyr får sendes til slakt uten godkjenning fra Mattilsynet. Mattilsynet skal varsle kjøttkontrollen og slakteri om at dyrene kommer fra besetning der det er mistanke om eller påvist forekomst av salmonella slik at tidspunkt for sanitetsslakting kan avtales.Skrotter av dyr som ikke tillates slaktet etter nr. 2 og som blir avlivet på stedet, skal behandles som høyrisikoavfall etter reglene i forskrift om transport av animalsk avfall og anlegg som behandler animalsk avfall.Gjødsel fra infiserte besetninger skal pløyes ned eller komposteres.Tiltak for å unngå skadedyr, ville fugler og insekter i fôrrom og dyrerom skal snarest iverksettes.Uvedkommende skal ikke ha adgang til bygninger der smittede dyr står oppstallet.Storfe og svin som er smittet med salmonella, skal så langt råd er isoleres fra andre dyr i besetningen.
+Ved påvisning av salmonella hos dyr eller i lokaler der det er dyr, skal Mattilsynet pålegge besetningen følgende restriksjoner:
+
+1. Ingen levende dyr får føres inn i eller ut av besetningen med unntak av dyr som føres direkte til slakt.
+2. Ingen dyr får sendes til slakt uten godkjenning fra Mattilsynet. Mattilsynet skal varsle kjøttkontrollen og slakteri om at dyrene kommer fra besetning der det er mistanke om eller påvist forekomst av salmonella slik at tidspunkt for sanitetsslakting kan avtales.
+3. Skrotter av dyr som ikke tillates slaktet etter nr. 2 og som blir avlivet på stedet, skal behandles som høyrisikoavfall etter reglene i forskrift om transport av animalsk avfall og anlegg som behandler animalsk avfall.
+4. Gjødsel fra infiserte besetninger skal pløyes ned eller komposteres.
+5. Tiltak for å unngå skadedyr, ville fugler og insekter i fôrrom og dyrerom skal snarest iverksettes.
+6. Uvedkommende skal ikke ha adgang til bygninger der smittede dyr står oppstallet.
+7. Storfe og svin som er smittet med salmonella, skal så langt råd er isoleres fra andre dyr i besetningen.
 
 Ved mistanke om salmonella kan Mattilsynet pålegge besetningen de restriksjoner som følger av første ledd.
 
@@ -241,7 +249,14 @@ Denne forskrift trer i kraft straks.
 
 - storfe i kontaktbesetninger,
 - ved etterkontroll i svine- og storfebesetninger etter oppheving av restriksjoner,
-- i svine- og storfebesetninger som ikke deltar i overvåkningsprogram ved slakteri.DyreartBesetningsstørrelseAntall prøver fra ulike kategorier av dyrStorfeOpptil 59 dyrAlle dyr1Mer enn 59 dyr59 dyr + samleprøver fra alle binger med kalver og ungdyr1SvinOpptil 59 purker/rånerAlle purker/råner + samleprøver fra alle binger med smågris og slaktegris1Mer enn 59 purker/råner59 purker/råner + samleprøver fra alle binger med smågris og slaktegris1
+- i svine- og storfebesetninger som ikke deltar i overvåkningsprogram ved slakteri.
+
+  | Dyreart | Besetningsstørrelse | Antall prøver fra ulike kategorier av dyr |
+  | --- | --- | --- |
+  | Storfe | Opptil 59 dyr | Alle dyr1 |
+  |  | Mer enn 59 dyr | 59 dyr + samleprøver fra alle binger med kalver og ungdyr1 |
+  | Svin | Opptil 59 purker/råner | Alle purker/råner + samleprøver fra alle binger med smågris og slaktegris1 |
+  |  | Mer enn 59 purker/råner | 59 purker/råner + samleprøver fra alle binger med smågris og slaktegris1 |
 
 1 Prøveuttak for bakteriologisk undersøkelse utføres i henhold til vedlegg 4 til denne forskrift.
 

@@ -44,7 +44,12 @@ Premien fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjøres i m
 
 ## § 3. Forsikringens opphør – premieavregning
 
-Forsikringen opphørerved utgangen av den termin som det er betalt premie for dersom arbeidsgiveren ikke har betalt premie som nevnt i [§ 1](forskrift/1997-03-25-260/§1) innen 14 dager etter at Arbeids- og velferdsetaten har sendt skriftlig varsel,fra den dag virksomheten opphører,ved utgangen av det kvartal Arbeids- og velferdsetaten har mottatt oppsigelse av forsikringen,ved utløpet av forsikringsåret dersom de samlede lønnsutgifter i løpet av det foregående kalenderåret overstiger maksimumsbeløpet etter [folketrygdloven § 8-21](lov/1997-02-28-19/§8-21) første ledd, med minst 10 prosent.
+Forsikringen opphører
+
+1. ved utgangen av den termin som det er betalt premie for dersom arbeidsgiveren ikke har betalt premie som nevnt i [§ 1](forskrift/1997-03-25-260/§1) innen 14 dager etter at Arbeids- og velferdsetaten har sendt skriftlig varsel,
+2. fra den dag virksomheten opphører,
+3. ved utgangen av det kvartal Arbeids- og velferdsetaten har mottatt oppsigelse av forsikringen,
+4. ved utløpet av forsikringsåret dersom de samlede lønnsutgifter i løpet av det foregående kalenderåret overstiger maksimumsbeløpet etter [folketrygdloven § 8-21](lov/1997-02-28-19/§8-21) første ledd, med minst 10 prosent.
 
 Arbeidsgiveren kan ikke bli gjenopptatt i forsikringsordningen før det er gått minst ett år, dersom forsikringen opphører etter første ledd, bokstav a, c og d. Dersom forsikringen opphører etter bokstav c, kan arbeidsgiveren likevel bli gjenopptatt i forsikringsordningen før det er gått ett år dersom særlige grunner tilsier dette.
 

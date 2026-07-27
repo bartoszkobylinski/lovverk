@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskriften er åfremme et høyt nivå for sikkerhet og arbeidsmiljø i virksomhet som omfattes av denne forskriftenoppnå systematisk gjennomføring av tiltak for å oppfylle kravene og nå målene som er gitt i sikkerhetslovgivningenvidereutvikle og forbedre nivået for sikkerhet og arbeidsmiljø.
+Formålet med denne forskriften er å
+
+1. fremme et høyt nivå for sikkerhet og arbeidsmiljø i virksomhet som omfattes av denne forskriften
+2. oppnå systematisk gjennomføring av tiltak for å oppfylle kravene og nå målene som er gitt i sikkerhetslovgivningen
+3. videreutvikle og forbedre nivået for sikkerhet og arbeidsmiljø.
 
 ### § 2. Virkeområde
 
@@ -44,7 +48,47 @@ Forskriften er basert på prinsippene som legges til grunn i HMS-forskriftene fo
 
 ### § 4. Definisjoner
 
-I denne forskriften menes med*aktivitetsforskriften*,[forskrift 29. april 2010 nr. 613](forskrift/2010-04-29-613) om utføring av aktiviteter i petroleumsvirksomheten med endringer*den ansvarlige*,operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, uten å være rettighetshaver*injeksjon*,injeksjon av CO2 i undersjøiske reservoarer, deriblant boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon*innretning*,installasjoner, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt*innretningsforskriften*,[forskrift 29. april 2010 nr. 634](forskrift/2010-04-29-634) om utforming og utrustning av innretninger med mer i petroleumsvirksomheten med endringer*operatør*,den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2*rammeforskriften*,[forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg med endringer*rettighetshaver*,fysisk eller juridisk person, eller flere slike personer, som etter forskrift om lagring og transport av CO2 på sokkelen innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøiske reservoar til lagring av CO2, eller til anlegg og drift av innretninger for transport av CO2. Er en tillatelse gitt til flere slike personer sammen, kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker*sikkerhetslovgivningen*,hjemmelslovene og forskrift om lagring og transport av CO2 på sokkelen og vedtak som er fattet i medhold av disse innenfor virkeområdet, jf. [§ 2](forskrift/2020-02-25-186/§2)*styringsforskriften*,[forskrift 29. april 2010 nr. 611](forskrift/2010-04-29-611) om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg med endringer*utnyttelse*,all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2 og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip*teknisk og operasjonell forskrift*,[forskrift 29. april 2010 nr. 612](forskrift/2010-04-29-612) om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer med endringer*transport*,skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport.
+I denne forskriften menes med
+
+1. *aktivitetsforskriften*,
+
+   [forskrift 29. april 2010 nr. 613](forskrift/2010-04-29-613) om utføring av aktiviteter i petroleumsvirksomheten med endringer
+2. *den ansvarlige*,
+
+   operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, uten å være rettighetshaver
+3. *injeksjon*,
+
+   injeksjon av CO2 i undersjøiske reservoarer, deriblant boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon
+4. *innretning*,
+
+   installasjoner, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt
+5. *innretningsforskriften*,
+
+   [forskrift 29. april 2010 nr. 634](forskrift/2010-04-29-634) om utforming og utrustning av innretninger med mer i petroleumsvirksomheten med endringer
+6. *operatør*,
+
+   den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2
+7. *rammeforskriften*,
+
+   [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg med endringer
+8. *rettighetshaver*,
+
+   fysisk eller juridisk person, eller flere slike personer, som etter forskrift om lagring og transport av CO2 på sokkelen innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøiske reservoar til lagring av CO2, eller til anlegg og drift av innretninger for transport av CO2. Er en tillatelse gitt til flere slike personer sammen, kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker
+9. *sikkerhetslovgivningen*,
+
+   hjemmelslovene og forskrift om lagring og transport av CO2 på sokkelen og vedtak som er fattet i medhold av disse innenfor virkeområdet, jf. [§ 2](forskrift/2020-02-25-186/§2)
+10. *styringsforskriften*,
+
+    [forskrift 29. april 2010 nr. 611](forskrift/2010-04-29-611) om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg med endringer
+11. *utnyttelse*,
+
+    all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2 og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip
+12. *teknisk og operasjonell forskrift*,
+
+    [forskrift 29. april 2010 nr. 612](forskrift/2010-04-29-612) om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer med endringer
+13. *transport*,
+
+    skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport.
 
 ### § 5. Ansvar etter denne forskriften
 
@@ -94,7 +138,13 @@ Havindustritilsynet kan bestemme ved enkeltvedtak at operatøren skal innhente s
 
 Dersom forutsetningene for samtykkene som er gitt i medhold av denne paragrafen, endres vesentlig, kan Havindustritilsynet kreve at operatøren henter inn et nytt samtykke før aktivitetene føres videre.
 
-Operatøren må ha samtykkefør innretninger eller deler av disse tas i brukfør utføring av større ombygginger eller endring av bruksformål hvis ikke disse er dekket i godkjent plan for utbygging og drift og særskilt tillatelse til anlegg og driftfør vesentlige endringer i aktiviteter som følge av nye krav eller tillatelser fra andre myndigheterfør gjennomføring av leteboringerfør gjennomføring av bemannede undervannsoperasjoner til havs.
+Operatøren må ha samtykke
+
+1. før innretninger eller deler av disse tas i bruk
+2. før utføring av større ombygginger eller endring av bruksformål hvis ikke disse er dekket i godkjent plan for utbygging og drift og særskilt tillatelse til anlegg og drift
+3. før vesentlige endringer i aktiviteter som følge av nye krav eller tillatelser fra andre myndigheter
+4. før gjennomføring av leteboringer
+5. før gjennomføring av bemannede undervannsoperasjoner til havs.
 
 Søknaden om samtykke skal så langt det passer inneholde opplysninger som nevnt i [styringsforskriften § 26](forskrift/2010-04-29-611/§26) og opplysninger som nevnt i forskrift om lagring og transport av CO2 på sokkelen § 5-2.
 
@@ -112,7 +162,11 @@ I tillegg til opplysninger og vurderinger som kreves etter forskrift om lagring 
 
 [Rammeforskriften § 45](forskrift/2010-02-12-158/§45) om utbyggingsløsninger, [§ 47](forskrift/2010-02-12-158/§47) om plassering av innretninger, trasévalg og [§ 49](forskrift/2010-02-12-158/§49) om bruk av innretninger gjelder tilsvarende på denne forskriftens virkeområde.
 
-Innretninger skal baseres på robuste og enklest mulige løsninger og utformes slik atmuligheten for menneskelige feilhandlinger begrenses,de eller det kan opereres, prøves og vedlikeholdes uten fare for personellet og med lavest mulig risiko for forurensning,de eller det er egnet for bruk og i stand til å motstå de lastene de eller det kan bli utsatt for under drift.
+Innretninger skal baseres på robuste og enklest mulige løsninger og utformes slik at
+
+1. muligheten for menneskelige feilhandlinger begrenses,
+2. de eller det kan opereres, prøves og vedlikeholdes uten fare for personellet og med lavest mulig risiko for forurensning,
+3. de eller det er egnet for bruk og i stand til å motstå de lastene de eller det kan bli utsatt for under drift.
 
 Bruk av innretninger og deler av dem skal være i henhold til krav som er fastsatt i og i medhold av sikkerhetslovgivningen og eventuelle tilleggsbegrensninger som følger av fabrikasjon, installering og ferdigstilling. Bruken skal til enhver tid være i samsvar med innretningens tekniske tilstand og de forutsetningene for bruk som er lagt til grunn for forsvarlig virksomhet.
 
@@ -130,7 +184,11 @@ Kvalifiseringen eller prøvingen skal demonstrere at gjeldende krav kan oppfylle
 
 ### § 15. Sikkerhetsfunksjoner og sikkerhetssystemer
 
-Innretninger skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kanoppdage unormale tilstanderhindre at unormale tilstander utvikler seg til fare- og ulykkessituasjonerbegrense skadene ved ulykker.
+Innretninger skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kan
+
+1. oppdage unormale tilstander
+2. hindre at unormale tilstander utvikler seg til fare- og ulykkessituasjoner
+3. begrense skadene ved ulykker.
 
 Det skal fastsettes krav til ytelsen for sikkerhetsfunksjoner.
 

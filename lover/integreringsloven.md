@@ -34,7 +34,10 @@ Loven skal videre legge til rette for at asylsøkere tidlig får kjennskap til n
 
 ### § 2. Definisjoner
 
-I denne loven menes med:asylsøker: en person som søker beskyttelse etter [utlendingsloven kapittel 4](lov/2008-05-15-35/kap4)innvandrer: en person med oppholdstillatelse i Norge etter utlendingsloven
+I denne loven menes med:
+
+1. asylsøker: en person som søker beskyttelse etter [utlendingsloven kapittel 4](lov/2008-05-15-35/kap4)
+2. innvandrer: en person med oppholdstillatelse i Norge etter utlendingsloven
 
 > Endret ved lov [9 juni 2023 nr. 24](lov/2023-06-09-24) (i kraft 1 aug 2023 iflg. [res. 9 juni 2023 nr. 804](forskrift/2023-06-09-804)).
 
@@ -66,7 +69,12 @@ Departementet kan gi forskrift om fylkeskommunens ansvar for det regionale integ
 
 ### § 5. Plikt til å delta i opplæring i mottak
 
-Asylsøkere som bor i mottak og som er over 18 år, har plikt til å delta i opplæring i norsk og samfunnskunnskap. Plikten gjelder ikke dersom asylsøkerenfår sin søknad behandlet etter hurtigprosedyrer i Utlendingsdirektoratetnektes å få asylsøknaden realitetsbehandlet etter [utlendingsloven § 32](lov/2008-05-15-35/§32)bor på ankomstsenter eller i transittmottakhar fått avslag på søknad om beskyttelse av Utlendingsdirektoratet
+Asylsøkere som bor i mottak og som er over 18 år, har plikt til å delta i opplæring i norsk og samfunnskunnskap. Plikten gjelder ikke dersom asylsøkeren
+
+1. får sin søknad behandlet etter hurtigprosedyrer i Utlendingsdirektoratet
+2. nektes å få asylsøknaden realitetsbehandlet etter [utlendingsloven § 32](lov/2008-05-15-35/§32)
+3. bor på ankomstsenter eller i transittmottak
+4. har fått avslag på søknad om beskyttelse av Utlendingsdirektoratet
 
 Kommunen skal sørge for opplæringen så snart som mulig etter at asylsøkere som omfattes av plikten etter første ledd, er registrert i et mottak i kommunen.
 
@@ -108,7 +116,15 @@ Nordiske borgere og utlendinger som omfattes av Avtale om Det europeiske økonom
 
 ### § 9. Oppholdstillatelser som gir rett og plikt til deltagelse i introduksjonsprogrammet
 
-Følgende oppholdstillatelser gir rett og plikt til å delta i introduksjonsprogram:oppholdstillatelse som flyktning etter [utlendingsloven § 28](lov/2008-05-15-35/§28)oppholdstillatelse etter innreisetillatelse som overføringsflyktning etter [utlendingsloven § 35](lov/2008-05-15-35/§35) tredje leddfornybar oppholdstillatelse etter [utlendingsloven § 38](lov/2008-05-15-35/§38) første ledd på grunnlag av søknad om beskyttelsebegrenset oppholdstillatelse som medlem av barnefamilie i påvente av dokumentert identitet etter [utlendingsloven § 38](lov/2008-05-15-35/§38) femte ledd bokstav a eller boppholdstillatelse på grunnlag av kollektiv beskyttelse i en massefluktsituasjon etter [utlendingsloven § 34](lov/2008-05-15-35/§34)oppholdstillatelse etter [utlendingsloven kapittel 6](lov/2008-05-15-35/kap6) som familiemedlem til personer som nevnt i bokstav a til e, forutsatt at referansepersonen har vært bosatt i en kommune i mindre enn fem år før det søkes om familiegjenforeningfornybar oppholdstillatelse etter [utlendingsloven § 53](lov/2008-05-15-35/§53) første ledd bokstav b, andre ledd eller tredje ledd
+Følgende oppholdstillatelser gir rett og plikt til å delta i introduksjonsprogram:
+
+1. oppholdstillatelse som flyktning etter [utlendingsloven § 28](lov/2008-05-15-35/§28)
+2. oppholdstillatelse etter innreisetillatelse som overføringsflyktning etter [utlendingsloven § 35](lov/2008-05-15-35/§35) tredje ledd
+3. fornybar oppholdstillatelse etter [utlendingsloven § 38](lov/2008-05-15-35/§38) første ledd på grunnlag av søknad om beskyttelse
+4. begrenset oppholdstillatelse som medlem av barnefamilie i påvente av dokumentert identitet etter [utlendingsloven § 38](lov/2008-05-15-35/§38) femte ledd bokstav a eller b
+5. oppholdstillatelse på grunnlag av kollektiv beskyttelse i en massefluktsituasjon etter [utlendingsloven § 34](lov/2008-05-15-35/§34)
+6. oppholdstillatelse etter [utlendingsloven kapittel 6](lov/2008-05-15-35/kap6) som familiemedlem til personer som nevnt i bokstav a til e, forutsatt at referansepersonen har vært bosatt i en kommune i mindre enn fem år før det søkes om familiegjenforening
+7. fornybar oppholdstillatelse etter [utlendingsloven § 53](lov/2008-05-15-35/§53) første ledd bokstav b, andre ledd eller tredje ledd
 
 Første ledd bokstav f omfatter også familiemedlemmer til personer som har fått permanent oppholdstillatelse på grunnlag av en oppholdstillatelse som nevnt i bokstav a til e.
 
@@ -180,7 +196,12 @@ Programmer som skal kvalifisere for arbeid, skal vare i inntil to år og kan ikk
 
 ### § 14 a. Innholdet i introduksjonsprogrammet
 
-Introduksjonsprogrammet skal minst inneholde:arbeids- eller utdanningsrettede elementeropplæring i norskopplæring i samfunnskunnskapkurs i livsmestring.
+Introduksjonsprogrammet skal minst inneholde:
+
+1. arbeids- eller utdanningsrettede elementer
+2. opplæring i norsk
+3. opplæring i samfunnskunnskap
+4. kurs i livsmestring.
 
 Innholdet skal tilpasses den enkeltes behov og sluttmålet for programmet. Deltagere som har barn under 18 år, eller som får barn i løpet av programmet, skal gjennomføre foreldreveiledning.
 
@@ -240,7 +261,13 @@ Programmet skal avsluttes ved oppnådd sluttmål, eller når den fastsatte varig
 
 ### § 18 b. Forskrifter om introduksjonsprogrammet
 
-Departementet kan gi forskrift omhvilke opplysninger som kan kartlegges etter [§ 10](lov/2020-11-06-127/§10)hva som skal regnes som utdanning på videregående nivå etter dette kapitteletminstekrav for foreldreveiledning og kurs i livsmestring etter [§ 14 a](lov/2020-11-06-127/§14a)fravær, fri og permisjoner fra introduksjonsprogrammet og om dette skal medføre tillegg i programtidenrett til introduksjonsstønad ved fravær, fri og permisjoner.
+Departementet kan gi forskrift om
+
+1. hvilke opplysninger som kan kartlegges etter [§ 10](lov/2020-11-06-127/§10)
+2. hva som skal regnes som utdanning på videregående nivå etter dette kapittelet
+3. minstekrav for foreldreveiledning og kurs i livsmestring etter [§ 14 a](lov/2020-11-06-127/§14a)
+4. fravær, fri og permisjoner fra introduksjonsprogrammet og om dette skal medføre tillegg i programtiden
+5. rett til introduksjonsstønad ved fravær, fri og permisjoner.
 
 > Tilføyd ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)).
 
@@ -320,7 +347,11 @@ Oppholdstillatelser som nevnt i [§ 9](lov/2020-11-06-127/§9) gir rett og plikt
 
 ### § 28. Oppholdstillatelser som gir plikt til deltagelse i opplæring i norsk og samfunnskunnskap
 
-Følgende oppholdstillatelser gir plikt til å delta i opplæring i norsk og samfunnskunnskap, forutsatt at oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse:oppholdstillatelse etter [utlendingsloven § 23](lov/2008-05-15-35/§23)oppholdstillatelse etter [utlendingsloven § 25](lov/2008-05-15-35/§25)oppholdstillatelse etter [utlendingsloven kapittel 6](lov/2008-05-15-35/kap6) som familiemedlem til personer nevnt i bokstav a og b
+Følgende oppholdstillatelser gir plikt til å delta i opplæring i norsk og samfunnskunnskap, forutsatt at oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse:
+
+1. oppholdstillatelse etter [utlendingsloven § 23](lov/2008-05-15-35/§23)
+2. oppholdstillatelse etter [utlendingsloven § 25](lov/2008-05-15-35/§25)
+3. oppholdstillatelse etter [utlendingsloven kapittel 6](lov/2008-05-15-35/kap6) som familiemedlem til personer nevnt i bokstav a og b
 
 ### § 29. Fritak fra plikt til deltagelse i opplæring i norsk og samfunnskunnskap
 
@@ -443,7 +474,18 @@ Kommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide 
 
 ### § 37 e. Forskriftshjemmel
 
-Dersom høye ankomster av asylsøkere gjør det nødvendig å tilpasse integreringstiltak til personer som er omfattet av loven, kan departementet av hensyn til kapasiteten i kommunen eller fylkeskommunen gi midlertidig forskrift ommålgruppene for og rettigheter og plikter til opplæring i mottak, introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [§§ 5](lov/2020-11-06-127/§5), [8](lov/2020-11-06-127/§8), [9](lov/2020-11-06-127/§9), [26](lov/2020-11-06-127/§26), [27](lov/2020-11-06-127/§27), [28](lov/2020-11-06-127/§28), [37 c](lov/2020-11-06-127/§37c) og [37 d](lov/2020-11-06-127/§37d)retten til karriereveiledning etter [§§ 11](lov/2020-11-06-127/§11) og [37 b](lov/2020-11-06-127/§37b)utsettelse av frister for oppstart av introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [§§ 12](lov/2020-11-06-127/§12), [30](lov/2020-11-06-127/§30), [37 c](lov/2020-11-06-127/§37c) og [37 d](lov/2020-11-06-127/§37d)sluttmål, varighet og kravene til innhold i introduksjonsprogrammet etter [§§ 13](lov/2020-11-06-127/§13), [14](lov/2020-11-06-127/§14), [14 a](lov/2020-11-06-127/§14a) og [37 c](lov/2020-11-06-127/§37c)retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapittel 5 ved deltagelse i introduksjonsprogram etter [§ 37 c](lov/2020-11-06-127/§37c)varigheten og omfanget av opplæring og kravene til opplæringen etter [§§ 30](lov/2020-11-06-127/§30) til [33](lov/2020-11-06-127/§33) og [37 d](lov/2020-11-06-127/§37d)prøver i norsk og samfunnskunnskap etter [§ 37](lov/2020-11-06-127/§37)behandling av personopplysninger etter [§§ 41](lov/2020-11-06-127/§41) til [44](lov/2020-11-06-127/§44).Forskrifter etter første punktum kan fravike bestemmelsene som nevnt i bokstav a til h.
+Dersom høye ankomster av asylsøkere gjør det nødvendig å tilpasse integreringstiltak til personer som er omfattet av loven, kan departementet av hensyn til kapasiteten i kommunen eller fylkeskommunen gi midlertidig forskrift om
+
+1. målgruppene for og rettigheter og plikter til opplæring i mottak, introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [§§ 5](lov/2020-11-06-127/§5), [8](lov/2020-11-06-127/§8), [9](lov/2020-11-06-127/§9), [26](lov/2020-11-06-127/§26), [27](lov/2020-11-06-127/§27), [28](lov/2020-11-06-127/§28), [37 c](lov/2020-11-06-127/§37c) og [37 d](lov/2020-11-06-127/§37d)
+2. retten til karriereveiledning etter [§§ 11](lov/2020-11-06-127/§11) og [37 b](lov/2020-11-06-127/§37b)
+3. utsettelse av frister for oppstart av introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [§§ 12](lov/2020-11-06-127/§12), [30](lov/2020-11-06-127/§30), [37 c](lov/2020-11-06-127/§37c) og [37 d](lov/2020-11-06-127/§37d)
+4. sluttmål, varighet og kravene til innhold i introduksjonsprogrammet etter [§§ 13](lov/2020-11-06-127/§13), [14](lov/2020-11-06-127/§14), [14 a](lov/2020-11-06-127/§14a) og [37 c](lov/2020-11-06-127/§37c)
+5. retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapittel 5 ved deltagelse i introduksjonsprogram etter [§ 37 c](lov/2020-11-06-127/§37c)
+6. varigheten og omfanget av opplæring og kravene til opplæringen etter [§§ 30](lov/2020-11-06-127/§30) til [33](lov/2020-11-06-127/§33) og [37 d](lov/2020-11-06-127/§37d)
+7. prøver i norsk og samfunnskunnskap etter [§ 37](lov/2020-11-06-127/§37)
+8. behandling av personopplysninger etter [§§ 41](lov/2020-11-06-127/§41) til [44](lov/2020-11-06-127/§44).
+
+Forskrifter etter første punktum kan fravike bestemmelsene som nevnt i bokstav a til h.
 
 Departementet kan også gi midlertidig forskrift som fraviker kravene som følger av bestemmelsene som nevnt i første ledd bokstav a til h, for personer som har hatt oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34) ved overgang til status som asylsøkere.
 
@@ -481,7 +523,13 @@ Første ledd gjelder tilsvarende for lærere og andre personer som i opplærings
 
 ### § 41. Behandling av personopplysninger
 
-Offentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver i forbindelse med:tiltak for å gi asylsøkere kjennskap til norsk språk og samfunnslivtiltak for å gi innvandrere kunnskap og ferdigheter for å kunne delta i det norske samfunnslivetgjennomføring av prøver for dokumentasjon av norskkunnskaper og samfunnskunnskapbosetting av innvandrereutbetaling av tilskudd for tiltak som nevnt i bokstav a, b og d
+Offentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver i forbindelse med:
+
+1. tiltak for å gi asylsøkere kjennskap til norsk språk og samfunnsliv
+2. tiltak for å gi innvandrere kunnskap og ferdigheter for å kunne delta i det norske samfunnslivet
+3. gjennomføring av prøver for dokumentasjon av norskkunnskaper og samfunnskunnskap
+4. bosetting av innvandrere
+5. utbetaling av tilskudd for tiltak som nevnt i bokstav a, b og d
 
 Når det er nødvendig for å utføre oppgaver nevnt i første ledd kan offentlige organer også behandle personopplysninger om personer som har fått innvilget norsk statsborgerskap etter å ha hatt en oppholdstillatelse etter utlendingsloven.
 
@@ -515,7 +563,16 @@ Departementet kan gi forskrift om nasjonale personregistre etter denne paragrafe
 
 ### § 44. Pålegg om å utlevere personopplysninger
 
-Når det er nødvendig for å utføre et offentlig organs oppgaver etter loven, kan organet pålegge følgende organer å utlevere personopplysninger om asylsøkere og innvandrere uten hinder av lovbestemt taushetsplikt:Integrerings- og mangfoldsdirektoratetDirektoratet for høyere utdanning og kompetanseArbeids- og velferdsetatenUtlendingsdirektoratetUtlendingsnemndafolkeregistermyndighetenkommunenefylkeskommunene
+Når det er nødvendig for å utføre et offentlig organs oppgaver etter loven, kan organet pålegge følgende organer å utlevere personopplysninger om asylsøkere og innvandrere uten hinder av lovbestemt taushetsplikt:
+
+1. Integrerings- og mangfoldsdirektoratet
+2. Direktoratet for høyere utdanning og kompetanse
+3. Arbeids- og velferdsetaten
+4. Utlendingsdirektoratet
+5. Utlendingsnemnda
+6. folkeregistermyndigheten
+7. kommunene
+8. fylkeskommunene
 
 Unntaket fra taushetsplikten gjelder ikke taushetsplikt etter helsepersonelloven.
 
@@ -533,7 +590,17 @@ Departementet kan gi forskrift om adgangen til å pålegge utlevering av persono
 
 Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.
 
-Som enkeltvedtak etter denne loven regnes avgjørelser om:tildeling av introduksjonsprogram, introduksjonsstønad og opplæring i norsk og samfunnskunnskap etter [kapittel 4](lov/2020-11-06-127/kap4) til 6fritak fra opplæring i norsk og samfunnskunnskap og prøver etter [§§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37)utarbeidelse av og vesentlig endring av integrerings- og norskplan etter [§§ 15](lov/2020-11-06-127/§15) og [34](lov/2020-11-06-127/§34)stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap for den enkelte etter [§§ 18](lov/2020-11-06-127/§18) og [36](lov/2020-11-06-127/§36)fravær og permisjonforlengelse av introduksjonsprogramtrekk i introduksjonsstønaden med 50 prosent eller mer av en enkelt utbetaling, og som minst tilsvarer 1/12 av folketrygdens grunnbeløptilbakebetaling av stønad på grunn av uriktige opplysningerrefusjon i ytelser fra folketrygden
+Som enkeltvedtak etter denne loven regnes avgjørelser om:
+
+1. tildeling av introduksjonsprogram, introduksjonsstønad og opplæring i norsk og samfunnskunnskap etter [kapittel 4](lov/2020-11-06-127/kap4) til 6
+2. fritak fra opplæring i norsk og samfunnskunnskap og prøver etter [§§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37)
+3. utarbeidelse av og vesentlig endring av integrerings- og norskplan etter [§§ 15](lov/2020-11-06-127/§15) og [34](lov/2020-11-06-127/§34)
+4. stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap for den enkelte etter [§§ 18](lov/2020-11-06-127/§18) og [36](lov/2020-11-06-127/§36)
+5. fravær og permisjon
+6. forlengelse av introduksjonsprogram
+7. trekk i introduksjonsstønaden med 50 prosent eller mer av en enkelt utbetaling, og som minst tilsvarer 1/12 av folketrygdens grunnbeløp
+8. tilbakebetaling av stønad på grunn av uriktige opplysninger
+9. refusjon i ytelser fra folketrygden
 
 Personer som har rett til tjenester etter denne loven regnes ikke som parter i samme sak. Det kan ikke klages over at en annen har fått ytelsen.
 
@@ -563,7 +630,13 @@ Statsforvalteren kan føre tilsyn med fylkeskommunens oppfyllelse av plikter ett
 
 Personell som arbeider innenfor rammen av denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
 
-Personell som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Personell som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+4. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Personell som arbeider innenfor rammen av denne loven, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 

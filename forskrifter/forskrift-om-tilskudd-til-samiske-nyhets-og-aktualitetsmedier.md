@@ -30,23 +30,54 @@ Formålet med tilskuddsordningen er å legge til rette for demokratisk debatt og
 
 ### § 2. Hva forskriften gjelder
 
-Forskriften gjelder:produksjonstilskudd til samiske tekstbaserte nyhets- og aktualitetsmedier på alle publiseringsplattformertilskudd til egenproduserte saker på samiske språk, i tekstbaserte nyhets- og aktualitetsmedier.
+Forskriften gjelder:
 
-Forskriften gjelder ikke for medier som:har som hovedformål å drive med reklame eller markedsføring eller har en hovedvekt av annonser, ellerhovedsakelig er rettet mot medlemmer eller ansatte i bestemte organisasjoner, foreninger eller selskap.
+1. produksjonstilskudd til samiske tekstbaserte nyhets- og aktualitetsmedier på alle publiseringsplattformer
+2. tilskudd til egenproduserte saker på samiske språk, i tekstbaserte nyhets- og aktualitetsmedier.
+
+Forskriften gjelder ikke for medier som:
+
+1. har som hovedformål å drive med reklame eller markedsføring eller har en hovedvekt av annonser, eller
+2. hovedsakelig er rettet mot medlemmer eller ansatte i bestemte organisasjoner, foreninger eller selskap.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*medieselskap:* et aksjeselskap eller allmennaksjeselskap som gir ut ett nyhets- og aktualitetsmedium.*abonnementstall:* antall aktive, betalte abonnement og eksemplarer solgt i løssalg i året før tilskuddsåret, beregnet etter [§ 4](forskrift/2025-12-10-2490/§4).*løssalg:* eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium.*redaksjonelle årsverk:* antall lønnede faste og midlertidige ansatte som har innholdsproduksjon og det redaksjonelle sluttproduktet som hovedoppgave.
+I denne forskriften menes med:
+
+1. *medieselskap:* et aksjeselskap eller allmennaksjeselskap som gir ut ett nyhets- og aktualitetsmedium.
+2. *abonnementstall:* antall aktive, betalte abonnement og eksemplarer solgt i løssalg i året før tilskuddsåret, beregnet etter [§ 4](forskrift/2025-12-10-2490/§4).
+3. *løssalg:* eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium.
+4. *redaksjonelle årsverk:* antall lønnede faste og midlertidige ansatte som har innholdsproduksjon og det redaksjonelle sluttproduktet som hovedoppgave.
 
 ### § 4. Beregning av abonnementstall
 
-Ved beregning av abonnementstall etter denne forskriften skal følgende legges til grunn:Et abonnement er en avtale om betaling for levering av et nyhets- og aktualitetsmedium for en avgrenset periode av minst én ukes varighet.Et abonnement som er aktivt gjennom hele året utgjør ett abonnement. Et abonnement med kortere varighet, utgjør en tilsvarende forholdsmessig andel av et abonnement. Et abonnement som gir tilgang til kun en andel av nyhets- og aktualitetsmediets utgivelser i løpet av en uke utgjør en tilsvarende forholdsmessig andel av et abonnement.Abonnement på papiraviser, digitale utgaver av papiraviser (e-aviser) og andre digitale produkter utgjør separate abonnement ved beregning av abonnementstallet, når de ulike typer utgaver selges uavhengig av hverandre.Løssalg av mediet likestilles med abonnement og teller med i abonnementstallet. Løssalg er eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium. Antall abonnement for medier solgt i løssalg er antall papireksemplarer og digitale utgaver solgt som enkelteksemplarer, delt på antall utgivelsesdager i perioden.Salg av digitale tilganger til virksomheter som videreformidler disse, teller med i abonnementstallet. En tilgang som varer kortere enn 12 måneder tilsvarer samme forholdsmessige andel av et abonnement som lengden på tilgangen. Det gis et tillegg på 20 prosent av antall dokumenterte innlogginger. Er andelen av innloggede 80 prosent eller mer, teller solgte tilganger fullt ut. Abonnementstallet beregnet etter dette punktet skal ikke telle med i de første 700 i totalt beregnet abonnementstall.Abonnement eller løssalg som er kjøpt av medieselskapet selv, morselskap, datterselskap, søsterselskap eller av aksjonærer som eier over 50 prosent i et av de forannevnte selskapene, skal ikke telle med i abonnementstallet.Abonnement som gir tilgang til flere medier (samsalg) teller som ett abonnement hos hovedpublikasjonen.Abonnement kan selges med rabatt og tilleggsytelser. Den samlede rabatten skal ikke overstige 15 prosent av mediets abonnementsinntekter og gitte rabatter. Ved salg av abonnement til studenter, pendlere og andre grupper som får tilgang til mediet til egne priser, vil gitt rabatt beregnes ut ifra brutto omsetning for den spesifikke gruppen. Portotillegg skal trekkes ut av abonnementsinntektene.Dersom den samlede rabatten overstiger 15 prosent av de samlede abonnementsinntektene og gitte rabatter, skal abonnementstallet reduseres slik at samlet rabatt dividert med ordinær gjennomsnittlig abonnementspris for perioden utgjør 15 prosent av summen av de bokførte abonnementsinntektene og gitte rabatter. Rabatten skal beregnes av ordinær fullpris, slik den framkommer i medieselskapets offisielle prisliste.
+Ved beregning av abonnementstall etter denne forskriften skal følgende legges til grunn:
+
+1. Et abonnement er en avtale om betaling for levering av et nyhets- og aktualitetsmedium for en avgrenset periode av minst én ukes varighet.
+2. Et abonnement som er aktivt gjennom hele året utgjør ett abonnement. Et abonnement med kortere varighet, utgjør en tilsvarende forholdsmessig andel av et abonnement. Et abonnement som gir tilgang til kun en andel av nyhets- og aktualitetsmediets utgivelser i løpet av en uke utgjør en tilsvarende forholdsmessig andel av et abonnement.
+3. Abonnement på papiraviser, digitale utgaver av papiraviser (e-aviser) og andre digitale produkter utgjør separate abonnement ved beregning av abonnementstallet, når de ulike typer utgaver selges uavhengig av hverandre.
+4. Løssalg av mediet likestilles med abonnement og teller med i abonnementstallet. Løssalg er eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium. Antall abonnement for medier solgt i løssalg er antall papireksemplarer og digitale utgaver solgt som enkelteksemplarer, delt på antall utgivelsesdager i perioden.
+5. Salg av digitale tilganger til virksomheter som videreformidler disse, teller med i abonnementstallet. En tilgang som varer kortere enn 12 måneder tilsvarer samme forholdsmessige andel av et abonnement som lengden på tilgangen. Det gis et tillegg på 20 prosent av antall dokumenterte innlogginger. Er andelen av innloggede 80 prosent eller mer, teller solgte tilganger fullt ut. Abonnementstallet beregnet etter dette punktet skal ikke telle med i de første 700 i totalt beregnet abonnementstall.
+6. Abonnement eller løssalg som er kjøpt av medieselskapet selv, morselskap, datterselskap, søsterselskap eller av aksjonærer som eier over 50 prosent i et av de forannevnte selskapene, skal ikke telle med i abonnementstallet.
+7. Abonnement som gir tilgang til flere medier (samsalg) teller som ett abonnement hos hovedpublikasjonen.
+8. Abonnement kan selges med rabatt og tilleggsytelser. Den samlede rabatten skal ikke overstige 15 prosent av mediets abonnementsinntekter og gitte rabatter. Ved salg av abonnement til studenter, pendlere og andre grupper som får tilgang til mediet til egne priser, vil gitt rabatt beregnes ut ifra brutto omsetning for den spesifikke gruppen. Portotillegg skal trekkes ut av abonnementsinntektene.
+9. Dersom den samlede rabatten overstiger 15 prosent av de samlede abonnementsinntektene og gitte rabatter, skal abonnementstallet reduseres slik at samlet rabatt dividert med ordinær gjennomsnittlig abonnementspris for perioden utgjør 15 prosent av summen av de bokførte abonnementsinntektene og gitte rabatter. Rabatten skal beregnes av ordinær fullpris, slik den framkommer i medieselskapets offisielle prisliste.
 
 ## Kapittel 2. Vilkår for å kunne få tilskudd
 
 ### § 5. Hvem som kan få tilskudd
 
-Nyhets- og aktualitetsmedier kan få tilskudd når de:har som hovedformål å drive løpende journalistisk produksjon og formidling av nyheter, aktualitetsstoff og samfunnsdebattutgis i Norgeer redaksjonelt selvstendighar en ansvarlig redaktør jf. [medieansvarsloven § 3 første ledd bokstav a](lov/2020-05-29-59/§3/ledd/1/bokstav/a), med ansvar og frihet i tråd med denne loven og som har sluttet seg til allment aksepterte presseetiske standardertar reell betaling for nyhets-, aktualitets- og debattstoff og annonser etter en offentlig tilgjengelig prislistehar beregnet løssalg som utgjør mindre enn halvparten av beregnet abonnementstallhar minst 700 i abonnementstallpubliserer minst fem egenproduserte saker per uke i minimum 48 av årets ukerpubliserer minst 480 egenproduserte saker per år.
+Nyhets- og aktualitetsmedier kan få tilskudd når de:
+
+1. har som hovedformål å drive løpende journalistisk produksjon og formidling av nyheter, aktualitetsstoff og samfunnsdebatt
+2. utgis i Norge
+3. er redaksjonelt selvstendig
+4. har en ansvarlig redaktør jf. [medieansvarsloven § 3 første ledd bokstav a](lov/2020-05-29-59/§3/ledd/1/bokstav/a), med ansvar og frihet i tråd med denne loven og som har sluttet seg til allment aksepterte presseetiske standarder
+5. tar reell betaling for nyhets-, aktualitets- og debattstoff og annonser etter en offentlig tilgjengelig prisliste
+6. har beregnet løssalg som utgjør mindre enn halvparten av beregnet abonnementstall
+7. har minst 700 i abonnementstall
+8. publiserer minst fem egenproduserte saker per uke i minimum 48 av årets uker
+9. publiserer minst 480 egenproduserte saker per år.
 
 Vilkårene i første ledd må ha vært oppfylt i minst ett kalenderår før et medium kan få tilskudd. Abonnementstall og antall egenproduserte saker beregnes for kalenderåret før mediet søker om tilskudd.
 
@@ -58,7 +89,10 @@ Tilskudd kan bare brukes til produksjon og utgivelse av det nyhets- og aktualite
 
 ### § 6. Særskilte vilkår til samiske medier som kan få produksjonstilskudd
 
-Et medium som oppfyller vilkårene i [§ 5](forskrift/2025-12-10-2490/§5) kan få produksjonstilskudd dersom det:har det samiske folk i Norge som hovedmålgruppe, oghar en bred journalistisk dekning av ulike samfunnsområder, slik at en betydelig del av mediets samlede redaksjonelle innhold består av dagsaktuelt nyhets- og aktualitetsstoff som dekker demokratisk eller politisk relevante temaer innenfor det samiske samfunnet. Med dagsaktuell menes innhold om pågående samfunnsrelevante saker og hendelser, eller innhold som opplyser leserne om forhold som ikke er kjent fra før.
+Et medium som oppfyller vilkårene i [§ 5](forskrift/2025-12-10-2490/§5) kan få produksjonstilskudd dersom det:
+
+1. har det samiske folk i Norge som hovedmålgruppe, og
+2. har en bred journalistisk dekning av ulike samfunnsområder, slik at en betydelig del av mediets samlede redaksjonelle innhold består av dagsaktuelt nyhets- og aktualitetsstoff som dekker demokratisk eller politisk relevante temaer innenfor det samiske samfunnet. Med dagsaktuell menes innhold om pågående samfunnsrelevante saker og hendelser, eller innhold som opplyser leserne om forhold som ikke er kjent fra før.
 
 ### § 7. Særskilte vilkår for tilskudd til egenproduserte saker på samiske språk
 
@@ -92,15 +126,24 @@ Tilskudd til saker på samiske språk kan utgjøre til sammen inntil åtte prose
 
 ### § 11. Tilskuddsgrupper for produksjonstilskudd
 
-Nyhets- og aktualitetsmedier som kan få produksjonstilskudd plasseres i en av følgende tilskuddsgrupper:Lavfrekvente nyhets- og aktualitetsmedier har minst 700 i abonnementstall, publiserer minst 480 egenproduserte saker per år og minst fem egenproduserte saker per uke i minimum 48 av årets uker.Høyfrekvente nyhets- og aktualitetsmedier har minst 900 i abonnementstall, publiserer minst 2 500 egenproduserte saker per år, og minst 20 egenproduserte saker per uke i 52 av årets uker, og har minst ti redaksjonelle årsverk.
+Nyhets- og aktualitetsmedier som kan få produksjonstilskudd plasseres i en av følgende tilskuddsgrupper:
+
+1. Lavfrekvente nyhets- og aktualitetsmedier har minst 700 i abonnementstall, publiserer minst 480 egenproduserte saker per år og minst fem egenproduserte saker per uke i minimum 48 av årets uker.
+2. Høyfrekvente nyhets- og aktualitetsmedier har minst 900 i abonnementstall, publiserer minst 2 500 egenproduserte saker per år, og minst 20 egenproduserte saker per uke i 52 av årets uker, og har minst ti redaksjonelle årsverk.
 
 ### § 12. Beregning av produksjonstilskudd
 
 Produksjonstilskuddet består av et grunntilskudd og et variabelt tilskudd.
 
-Høyfrekvente nyhets- og aktualitetsmedier får tilskudd på følgende måte:Grunntilskuddet utgjør 82,5 prosent av rammen for tilskuddet til de høyfrekvente nyhets- og aktualitetsmediene og fordeles med like store beløp på samtlige nyhets- og aktualitetsmedier i tilskuddsgruppen.Det variable tilskuddet utgjør 17,5 prosent av rammen for tilskuddet til de høyfrekvente nyhets- og aktualitetsmediene og fordeles ut fra en sats basert på antall publiserte egenproduserte saker på samiske språk.
+Høyfrekvente nyhets- og aktualitetsmedier får tilskudd på følgende måte:
 
-Lavfrekvente nyhets- og aktualitetsmedier får tilskudd på følgende måte:Grunntilskuddet utgjør 70 prosent av rammen for tilskuddet til de lavfrekvente nyhets- og aktualitetsmediene og fordeles med like store beløp på samtlige nyhets- og aktualitetsmedier i tilskuddsgruppen.Det variable tilskuddet utgjør 30 prosent av rammen for tilskuddet til de lavfrekvente nyhets- og aktualitetsmediene og fordeles ut fra en sats basert på antall publiserte egenproduserte saker på samiske språk.
+1. Grunntilskuddet utgjør 82,5 prosent av rammen for tilskuddet til de høyfrekvente nyhets- og aktualitetsmediene og fordeles med like store beløp på samtlige nyhets- og aktualitetsmedier i tilskuddsgruppen.
+2. Det variable tilskuddet utgjør 17,5 prosent av rammen for tilskuddet til de høyfrekvente nyhets- og aktualitetsmediene og fordeles ut fra en sats basert på antall publiserte egenproduserte saker på samiske språk.
+
+Lavfrekvente nyhets- og aktualitetsmedier får tilskudd på følgende måte:
+
+1. Grunntilskuddet utgjør 70 prosent av rammen for tilskuddet til de lavfrekvente nyhets- og aktualitetsmediene og fordeles med like store beløp på samtlige nyhets- og aktualitetsmedier i tilskuddsgruppen.
+2. Det variable tilskuddet utgjør 30 prosent av rammen for tilskuddet til de lavfrekvente nyhets- og aktualitetsmediene og fordeles ut fra en sats basert på antall publiserte egenproduserte saker på samiske språk.
 
 Til og med tilskuddsåret 2027 kan det variable tilskuddet beregnes ut fra mediets antall utgivelser multiplisert med antall produserte sider med samisk tekst.
 
@@ -156,7 +199,10 @@ Opplysninger om antall abonnement, eksemplarer solgt i løssalg, digitale tilgan
 
 ### § 20. Unntak fra forskriften
 
-Medietilsynet kan gjøre unntak fra bestemmelser gitt i eller med hjemmel i denne forskriften for medier som allerede mottar tilskudd dersomdet er nødvendig for å sikre driften av et samisk nyhets- og aktualitetsmedium, ellerdet foreligger force majeure.
+Medietilsynet kan gjøre unntak fra bestemmelser gitt i eller med hjemmel i denne forskriften for medier som allerede mottar tilskudd dersom
+
+1. det er nødvendig for å sikre driften av et samisk nyhets- og aktualitetsmedium, eller
+2. det foreligger force majeure.
 
 Medietilsynet kan ikke gjøre unntak fra [§ 1](forskrift/2025-12-10-2490/§1), [§ 2](forskrift/2025-12-10-2490/§2), [§ 5 første ledd](forskrift/2025-12-10-2490/§5/ledd/1) a til c, [§ 6](forskrift/2025-12-10-2490/§6), og [§ 7](forskrift/2025-12-10-2490/§7), [kapittel 4](forskrift/2025-12-10-2490/kap4) og [kapittel 6](forskrift/2025-12-10-2490/kap6).
 

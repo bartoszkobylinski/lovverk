@@ -56,7 +56,14 @@ Det oppnevnes et varamedlem for hvert medlem.
 
 ## § 5. Bevisvurdering for solidaransvar etter loven § 8-4
 
-Ved bevisvurdering etter bestemmelsen om solidaransvar etter [petroleumsloven § 8-4](lov/1996-11-29-72/§8-4) skal det særlig legges vekt på:den skadevoldende gjenstandens art, hvis dette kan bringes på det rene,posisjon for skadehendingen (forlatt borefelt eller supplybåtrute),skaden eller skadens art,skadehendingens forløp,erfaring fra tidligere fiske i området, ograpporter om foretatte kontroller fra Sokkeldirektoratet.
+Ved bevisvurdering etter bestemmelsen om solidaransvar etter [petroleumsloven § 8-4](lov/1996-11-29-72/§8-4) skal det særlig legges vekt på:
+
+1. den skadevoldende gjenstandens art, hvis dette kan bringes på det rene,
+2. posisjon for skadehendingen (forlatt borefelt eller supplybåtrute),
+3. skaden eller skadens art,
+4. skadehendingens forløp,
+5. erfaring fra tidligere fiske i området, og
+6. rapporter om foretatte kontroller fra Sokkeldirektoratet.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 

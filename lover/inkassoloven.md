@@ -15,7 +15,7 @@ xml_hash: "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32021L2167"
@@ -62,7 +62,17 @@ For øvrig kan loven ikke fravikes ved avtale.
 
 ### § 5. Definisjoner
 
-I loven menes medegeninkasso: fordringshaverens inndriving av egne forfalte pengekravfremmedinkasso: inndriving av forfalte pengekrav på vegne av andre. Reforhandling med skyldnere om vilkår og betingelser i avtalen som ligger til grunn for kravet, skal regnes som inndriving hvis den som forhandler, opptrer på vegne av fordringshaveren uten å være låneformidlingsforetak etter [låneformidlingsloven](lov/2022-12-16-91). Informasjon til skyldnere om endringer i rentesatser, kostnader eller betalinger for forfalte krav på vegne av fordringshaveren regnes også som inndriving.oppkjøpsinkassovirksomhet: fordringshaverens inndriving av egne pengekrav som er kjøpt opp etter forfall. Oppkjøpsinkassoforetaks reforhandling med skyldnere om vilkår og betingelser i avtalen som ligger til grunn for kravet, og informasjon til skyldnere om endringer i rentesatser, kostnader eller betalinger for forfalte krav regnes også som inndriving.fremmedinkassovirksomhet: ervervsmessig eller stadig inndriving av forfalte pengekrav på vegne av andreinkassovirksomhet: oppkjøpsinkassovirksomhet og fremmedinkassovirksomhetinkassoforetak: foretak som har bevilling til å drive inkassovirksomhetbetydelig eierandel: direkte eller indirekte eierandel som representerer minst ti prosent av aksjekapitalen eller stemmene, eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av foretaket. Like med vedkommende eiers egne aksjer regnes aksjer som eies av dennes nærstående. Med nærstående menes her personer som nevnt i [verdipapirhandelloven § 2-5](lov/2007-06-29-75/§2-5).forbruker: fysisk skyldner i et avtaleforhold, som ikke hovedsakelig har inngått avtalen som ledd i næringsvirksomhetdirektiv [(EU) 2021/2167](eu/32021l2167): Europaparlaments- og rådsdirektiv [2021/2167](eu/32021l2167) av 24. november 2021 om kredittjenestefirmaer og kredittkjøpere og om endring av direktiv [2008/48/EF](eu/32008l0048) og [2014/17/EU](eu/32014l0017), som inntatt i EØS-avtalen vedlegg [IX] kapittel [II] punkt [x] og med de tilpasninger som følger av vedlegg [IX], protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl) og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig.
+I loven menes med
+
+1. egeninkasso: fordringshaverens inndriving av egne forfalte pengekrav
+2. fremmedinkasso: inndriving av forfalte pengekrav på vegne av andre. Reforhandling med skyldnere om vilkår og betingelser i avtalen som ligger til grunn for kravet, skal regnes som inndriving hvis den som forhandler, opptrer på vegne av fordringshaveren uten å være låneformidlingsforetak etter [låneformidlingsloven](lov/2022-12-16-91). Informasjon til skyldnere om endringer i rentesatser, kostnader eller betalinger for forfalte krav på vegne av fordringshaveren regnes også som inndriving.
+3. oppkjøpsinkassovirksomhet: fordringshaverens inndriving av egne pengekrav som er kjøpt opp etter forfall. Oppkjøpsinkassoforetaks reforhandling med skyldnere om vilkår og betingelser i avtalen som ligger til grunn for kravet, og informasjon til skyldnere om endringer i rentesatser, kostnader eller betalinger for forfalte krav regnes også som inndriving.
+4. fremmedinkassovirksomhet: ervervsmessig eller stadig inndriving av forfalte pengekrav på vegne av andre
+5. inkassovirksomhet: oppkjøpsinkassovirksomhet og fremmedinkassovirksomhet
+6. inkassoforetak: foretak som har bevilling til å drive inkassovirksomhet
+7. betydelig eierandel: direkte eller indirekte eierandel som representerer minst ti prosent av aksjekapitalen eller stemmene, eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av foretaket. Like med vedkommende eiers egne aksjer regnes aksjer som eies av dennes nærstående. Med nærstående menes her personer som nevnt i [verdipapirhandelloven § 2-5](lov/2007-06-29-75/§2-5).
+8. forbruker: fysisk skyldner i et avtaleforhold, som ikke hovedsakelig har inngått avtalen som ledd i næringsvirksomhet
+9. direktiv [(EU) 2021/2167](eu/32021l2167): Europaparlaments- og rådsdirektiv [2021/2167](eu/32021l2167) av 24. november 2021 om kredittjenestefirmaer og kredittkjøpere og om endring av direktiv [2008/48/EF](eu/32008l0048) og [2014/17/EU](eu/32014l0017), som inntatt i EØS-avtalen vedlegg [IX] kapittel [II] punkt [x] og med de tilpasninger som følger av vedlegg [IX], protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl) og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig.
 
 ## Kapittel 2 Inkassobevilling og personlige godkjenninger
 
@@ -80,9 +90,22 @@ Personer som oppfyller kravene i [yrkeskvalifikasjonsloven kapittel 2](lov/2017-
 
 ### § 7. Vilkår for inkassobevilling
 
-Finanstilsynet gir inkassobevilling etter søknad til et foretak nårforetaket er en juridisk person som driver næringsvirksomhetforetaket er registrert i Foretaksregisteretforetaket har ansatt et tilstrekkelig antall fagansvarlige, som Finanstilsynet har godkjent, og som fyller vilkårene etter [§ 10](lov/2026-05-22-19/§10)styremedlemmer, varamedlemmer til styret, daglig leder, daglig leders stedfortreder og eiere med betydelige eierandeler anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk, jf. [§ 12](lov/2026-05-22-19/§12)ledelsen samlet har tilstrekkelig kunnskap og erfaring til å lede foretaket på en forsvarlig måteinkassovirksomheten drives fra et fast forretningssted innenfor EØS-områdetforetaket slutter seg til en godkjent utenrettslig tvisteløsningsordning, jf. [§ 39](lov/2026-05-22-19/§39)foretaket har forsvarlige rutiner som angitt i [§ 33 første ledd](lov/2026-05-22-19/§33/ledd/1).
+Finanstilsynet gir inkassobevilling etter søknad til et foretak når
 
-For å få bevilling til fremmedinkassovirksomhet må foretaket dessutenha stilt sikkerhet etter [§ 8](lov/2026-05-22-19/§8)oppfylle krav til økonomisk stilling etter [§ 9](lov/2026-05-22-19/§9)ha klientkonto, jf. [§ 26 andre ledd](lov/2026-05-22-19/§26/ledd/2) og forskrift gitt med hjemmel i [§ 26 åttende ledd første punktum](lov/2026-05-22-19/§26/ledd/8/setning/1), hvis bevillingen gir rett til å behandle klientmidler.
+1. foretaket er en juridisk person som driver næringsvirksomhet
+2. foretaket er registrert i Foretaksregisteret
+3. foretaket har ansatt et tilstrekkelig antall fagansvarlige, som Finanstilsynet har godkjent, og som fyller vilkårene etter [§ 10](lov/2026-05-22-19/§10)
+4. styremedlemmer, varamedlemmer til styret, daglig leder, daglig leders stedfortreder og eiere med betydelige eierandeler anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk, jf. [§ 12](lov/2026-05-22-19/§12)
+5. ledelsen samlet har tilstrekkelig kunnskap og erfaring til å lede foretaket på en forsvarlig måte
+6. inkassovirksomheten drives fra et fast forretningssted innenfor EØS-området
+7. foretaket slutter seg til en godkjent utenrettslig tvisteløsningsordning, jf. [§ 39](lov/2026-05-22-19/§39)
+8. foretaket har forsvarlige rutiner som angitt i [§ 33 første ledd](lov/2026-05-22-19/§33/ledd/1).
+
+For å få bevilling til fremmedinkassovirksomhet må foretaket dessuten
+
+1. ha stilt sikkerhet etter [§ 8](lov/2026-05-22-19/§8)
+2. oppfylle krav til økonomisk stilling etter [§ 9](lov/2026-05-22-19/§9)
+3. ha klientkonto, jf. [§ 26 andre ledd](lov/2026-05-22-19/§26/ledd/2) og forskrift gitt med hjemmel i [§ 26 åttende ledd første punktum](lov/2026-05-22-19/§26/ledd/8/setning/1), hvis bevillingen gir rett til å behandle klientmidler.
 
 Finanstilsynet kan sette ytterligere vilkår i bevillingen.
 
@@ -96,19 +119,36 @@ Kongen gir i forskrift regler om sikkerhetsstillelsen.
 
 ### § 9. Krav til fremmedinkassoforetaks økonomiske stilling
 
-Et fremmedinkassoforetak skalvære i stand til å oppfylle forpliktelsene sine etter hvert som de forfallerha eiendeler med en verdi som overstiger foretakets samlede forpliktelserha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket.
+Et fremmedinkassoforetak skal
+
+1. være i stand til å oppfylle forpliktelsene sine etter hvert som de forfaller
+2. ha eiendeler med en verdi som overstiger foretakets samlede forpliktelser
+3. ha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket.
 
 ### § 10. Vilkår for godkjenning av fagansvarlige i inkassoforetak
 
-Finanstilsynet godkjenner etter søknad fagansvarlige i fremmedinkassoforetak dersom vedkommendeanses egnet og kvalifisert til å ivareta fagansvareter godkjent prosessfullmektig etter [§ 11](lov/2026-05-22-19/§11)har fullført en godkjent ettårig høyere utdanninghar bestått en inkassofaglig prøve for fagansvarlige i fremmedinkassoforetak.
+Finanstilsynet godkjenner etter søknad fagansvarlige i fremmedinkassoforetak dersom vedkommende
 
-Finanstilsynet godkjenner etter søknad fagansvarlige i oppkjøpsinkassoforetak dersom vedkommendeanses egnet og kvalifisert til å ivareta fagansvaretgodtgjør å ha minst tre års arbeidserfaring med inndriving av forfalte pengekrav i løpet av de siste ti årenehar bestått en inkassofaglig prøve for prosessfullmektig som nevnt i [§ 11](lov/2026-05-22-19/§11).
+1. anses egnet og kvalifisert til å ivareta fagansvaret
+2. er godkjent prosessfullmektig etter [§ 11](lov/2026-05-22-19/§11)
+3. har fullført en godkjent ettårig høyere utdanning
+4. har bestått en inkassofaglig prøve for fagansvarlige i fremmedinkassoforetak.
+
+Finanstilsynet godkjenner etter søknad fagansvarlige i oppkjøpsinkassoforetak dersom vedkommende
+
+1. anses egnet og kvalifisert til å ivareta fagansvaret
+2. godtgjør å ha minst tre års arbeidserfaring med inndriving av forfalte pengekrav i løpet av de siste ti årene
+3. har bestått en inkassofaglig prøve for prosessfullmektig som nevnt i [§ 11](lov/2026-05-22-19/§11).
 
 Fagansvarlige i fremmedinkassoforetak skal til enhver tid oppfylle vilkårene i første ledd bokstav a og b og skal hvert tredje år bestå inkassofaglig prøve etter første ledd bokstav d. Fagansvarlige i oppkjøpsinkassoforetak skal til enhver tid oppfylle vilkårene i andre ledd bokstav a og skal hvert femte år bestå inkassofaglig prøve etter andre ledd bokstav c.
 
 ### § 11. Vilkår for godkjenning av prosessfullmektiger i fremmedinkassoforetak
 
-Finanstilsynet godkjenner etter søknad den som skal kunne opptre som prosessfullmektig i fremmedinkassoforetak etter [konkursloven § 149 andre ledd andre punktum](lov/1984-06-08-58/§149/ledd/2/setning/2), [tvangsfullbyrdelsesloven § 5-1 andre ledd andre punktum](lov/1992-06-26-86/§5-1/ledd/2/setning/2) og [§ 6-2 første punktum](lov/1992-06-26-86/§6-2/setning/1) og [tvisteloven § 6-7 første ledd bokstav c](lov/2005-06-17-90/§6-7/ledd/1/bokstav/c). Søknaden godkjennes dersom vedkommendeanses egnet og kvalifisert til å utføre alle slags inkassooppgaver i samsvar med lov, forskrifter og god inkassoskikkgodtgjør å ha minst tre års arbeidserfaring med inndriving av forfalte pengekrav i løpet av de siste ti årenehar bestått en inkassofaglig prøve for prosessfullmektiger i fremmedinkassoforetak.
+Finanstilsynet godkjenner etter søknad den som skal kunne opptre som prosessfullmektig i fremmedinkassoforetak etter [konkursloven § 149 andre ledd andre punktum](lov/1984-06-08-58/§149/ledd/2/setning/2), [tvangsfullbyrdelsesloven § 5-1 andre ledd andre punktum](lov/1992-06-26-86/§5-1/ledd/2/setning/2) og [§ 6-2 første punktum](lov/1992-06-26-86/§6-2/setning/1) og [tvisteloven § 6-7 første ledd bokstav c](lov/2005-06-17-90/§6-7/ledd/1/bokstav/c). Søknaden godkjennes dersom vedkommende
+
+1. anses egnet og kvalifisert til å utføre alle slags inkassooppgaver i samsvar med lov, forskrifter og god inkassoskikk
+2. godtgjør å ha minst tre års arbeidserfaring med inndriving av forfalte pengekrav i løpet av de siste ti årene
+3. har bestått en inkassofaglig prøve for prosessfullmektiger i fremmedinkassoforetak.
 
 Den som er godkjent prosessfullmektig etter første ledd, skal til enhver tid oppfylle vilkårene i første ledd andre punktum bokstav a og skal hvert femte år bestå inkassofaglig prøve etter første ledd andre punktum bokstav c.
 
@@ -116,13 +156,24 @@ Den som er godkjent prosessfullmektig etter første ledd, skal til enhver tid op
 
 Ved egnethetsvurderinger etter [§ 7 første ledd bokstav d](lov/2026-05-22-19/§7/ledd/1/bokstav/d), [§ 10 første ledd bokstav a](lov/2026-05-22-19/§10/ledd/1/bokstav/a) og [andre ledd bokstav a](lov/2026-05-22-19/§10/ledd/2/bokstav/a) og [§ 11 første ledd andre punktum](lov/2026-05-22-19/§11/ledd/1/setning/2) [bokstav a](lov/2026-05-22-19/§11/ledd/1/bokstav/a) skal det vurderes om personen har tilstrekkelig godt omdømme og antas å kunne ivareta stillingen eller vervet på en forsvarlig måte.
 
-For at personen kan anses som egnet, skal han eller hunikke være dømt for straffbart forhold som gir grunn til å anta at han eller hun ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måteikke være under konkursbehandling, konkurskarantene, rekonstruksjonsforhandling, gjeldsforhandling eller gjeldsordningikke i stilling eller ved utøvelsen av andre verv ha utvist atferd som gir grunn til å anta at han eller hun ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måteha vært åpen og samarbeidsvillig i tidligere kontakt med tilsyns- og reguleringsmyndigheter.
+For at personen kan anses som egnet, skal han eller hun
+
+1. ikke være dømt for straffbart forhold som gir grunn til å anta at han eller hun ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte
+2. ikke være under konkursbehandling, konkurskarantene, rekonstruksjonsforhandling, gjeldsforhandling eller gjeldsordning
+3. ikke i stilling eller ved utøvelsen av andre verv ha utvist atferd som gir grunn til å anta at han eller hun ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte
+4. ha vært åpen og samarbeidsvillig i tidligere kontakt med tilsyns- og reguleringsmyndigheter.
 
 Kravet i andre ledd bokstav a skal dokumenteres ved fremleggelse av uttømmende politiattest, jf. [politiregisterloven § 41 nr. 1](lov/2010-05-28-16/§41/nummer/1). Kravet i andre ledd bokstav b skal dokumenteres ved fremleggelse av bekreftelse fra Brønnøysundregistrene. Ved vurderingen etter andre ledd bokstav c skal det særlig tas hensyn til om atferden har ført til tilbakekall av en offentlig godkjenning eller reaksjoner fra tilsyn, har bestått i regelbrudd som er konstatert ved forvaltningsvedtak eller rettsavgjørelse, eller har gitt grunnlag for konkurskarantene eller annet virksomhetsforbud.
 
 ### § 13. Forskrifter om inkassobevilling og godkjenning av fagansvarlige og prosessfullmektiger
 
-Kongen kan i forskrift gi regler om vilkår for inkassobevilling, vilkår for godkjenning av fagansvarlige i inkassoforetak og vilkår for godkjenning av prosessfullmektiger etter [§ 11](lov/2026-05-22-19/§11), herunder nærmere regler omkrav til utdanning for fagansvarlige i fremmedinkassoforetakkrav til arbeidserfaring for fagansvarlige i oppkjøpsinkassoforetak og for prosessfullmektiger etter [§ 11](lov/2026-05-22-19/§11)krav til inkassofaglige prøverhvilke straffbare forhold som skal avmerkes på politiattesterbehandlingen av politiattester.
+Kongen kan i forskrift gi regler om vilkår for inkassobevilling, vilkår for godkjenning av fagansvarlige i inkassoforetak og vilkår for godkjenning av prosessfullmektiger etter [§ 11](lov/2026-05-22-19/§11), herunder nærmere regler om
+
+1. krav til utdanning for fagansvarlige i fremmedinkassoforetak
+2. krav til arbeidserfaring for fagansvarlige i oppkjøpsinkassoforetak og for prosessfullmektiger etter [§ 11](lov/2026-05-22-19/§11)
+3. krav til inkassofaglige prøver
+4. hvilke straffbare forhold som skal avmerkes på politiattester
+5. behandlingen av politiattester.
 
 Kongen kan i forskrift gi regler om søknad om inkassobevilling, søknad om godkjenning av fagansvarlige i inkassoforetak og søknad om godkjenning av prosessfullmektiger etter [§ 11](lov/2026-05-22-19/§11), og om betaling for behandling av søknader. Krav om betaling for behandling av søknader er tvangsgrunnlag for utlegg. Til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) kan Kongen i forskrift gi regler om behandlingen av søknader, herunder om frister og rettsvirkninger ved fristoverskridelse. Unntak fra [tjenesteloven § 11 andre ledd](lov/2009-06-19-103/§11/ledd/2) kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
 
@@ -194,7 +245,14 @@ Erstatningsbeløpene etter forskriften kan variere etter hvilke skritt som er ta
 
 Det gis i forskriften ulike regler for egeninkasso og fremmedinkasso.
 
-Det kan i forskriften gis særlige regler og fastsettes høyere erstatningsbeløp enn for annen egeninkassofor fordringshavere som inndriver egne pengekrav under faglig ledelse av advokatfor oppkjøpsinkassoforetakfor foretak med bevilling som inndriver egne pengekrav etter [tjenesteloven](lov/2009-06-19-103)for foretak som inndriver egne pengekrav etter [§ 48](lov/2026-05-22-19/§48) i loven her.Dersom det fastsettes høyere erstatningsbeløp etter bokstav a, kan det fastsettes at angitte regler for inkassoforetak i loven her skal gjelde tilsvarende så langt de passer.
+Det kan i forskriften gis særlige regler og fastsettes høyere erstatningsbeløp enn for annen egeninkasso
+
+1. for fordringshavere som inndriver egne pengekrav under faglig ledelse av advokat
+2. for oppkjøpsinkassoforetak
+3. for foretak med bevilling som inndriver egne pengekrav etter [tjenesteloven](lov/2009-06-19-103)
+4. for foretak som inndriver egne pengekrav etter [§ 48](lov/2026-05-22-19/§48) i loven her.
+
+Dersom det fastsettes høyere erstatningsbeløp etter bokstav a, kan det fastsettes at angitte regler for inkassoforetak i loven her skal gjelde tilsvarende så langt de passer.
 
 Det kan i forskriften gis særlige regler for inndriving av krav eid av et foretak i samme konsern, og herunder fastsettes lavere erstatningsbeløp enn for annen fremmedinkasso.
 
@@ -208,9 +266,26 @@ Det kan i forskriften gis regler om adgang til å kreve erstattet dokumenterte h
 
 Før et inkassoforetak kan iverksette inkassotiltak, skal inkassoforetaket etter kravets forfall ha sendt skyldneren et skriftlig inkassovarsel, og betalingsfristen i inkassovarselet skal være utløpt uten at kravet er betalt.
 
-Inkassovarselet skal angiat det er et inkassovarselskyldig beløpny betalingsfristfordringshaverens navn og den opprinnelige fordringshaverens navn hvis kravet er overdratthva kravet gjelder, det vil si varens eller tjenestens art hvis kravet gjelder en vare eller tjenestefakturanummer og fakturadatohovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnaderat inkassotiltak vil bli iverksatt ved manglende betalinganslåtte kostnader som skyldneren kan måtte betale for utenrettslig inndriving dersom kravet ikke blir betalt innen fristen.Det er ikke nødvendig å gi fullstendige opplysninger etter bokstav g dersom beregningen av kravet er særdeles omfattende. Gis det ikke fullstendige opplysninger, skal det opplyses om at en fullstendig oppstilling vil bli gitt dersom skyldneren ber om det.
+Inkassovarselet skal angi
 
-I inkassovarselet skal det dessuten gis kortfattet generell informasjon om hvordan skyldneren kanta kontakt om betalingsvanskeligheterfremme innsigelser mot kravetklage på inndrivingen til foretaketbringe saken inn for nemnd som nevnt i [§ 39 første ledd](lov/2026-05-22-19/§39/ledd/1), hvis skyldneren antas å ha adgang til å bringe saken inn for nemnda.
+1. at det er et inkassovarsel
+2. skyldig beløp
+3. ny betalingsfrist
+4. fordringshaverens navn og den opprinnelige fordringshaverens navn hvis kravet er overdratt
+5. hva kravet gjelder, det vil si varens eller tjenestens art hvis kravet gjelder en vare eller tjeneste
+6. fakturanummer og fakturadato
+7. hovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnader
+8. at inkassotiltak vil bli iverksatt ved manglende betaling
+9. anslåtte kostnader som skyldneren kan måtte betale for utenrettslig inndriving dersom kravet ikke blir betalt innen fristen.
+
+Det er ikke nødvendig å gi fullstendige opplysninger etter bokstav g dersom beregningen av kravet er særdeles omfattende. Gis det ikke fullstendige opplysninger, skal det opplyses om at en fullstendig oppstilling vil bli gitt dersom skyldneren ber om det.
+
+I inkassovarselet skal det dessuten gis kortfattet generell informasjon om hvordan skyldneren kan
+
+1. ta kontakt om betalingsvanskeligheter
+2. fremme innsigelser mot kravet
+3. klage på inndrivingen til foretaket
+4. bringe saken inn for nemnd som nevnt i [§ 39 første ledd](lov/2026-05-22-19/§39/ledd/1), hvis skyldneren antas å ha adgang til å bringe saken inn for nemnda.
 
 Betalingsfristen skal være minst 14 dager regnet fra da inkassovarselet ble sendt. Ved beregningen av fristen gjelder [domstolloven § 148 første ledd](lov/1915-08-13-5/§148/ledd/1) tilsvarende.
 
@@ -218,7 +293,17 @@ Betalingsfristen skal være minst 14 dager regnet fra da inkassovarselet ble sen
 
 Er betalingsfristen i inkassovarselet utløpt uten at kravet er betalt, skal inkassoforetaket sende skyldneren en skriftlig oppfordring om å betale.
 
-Betalingsoppfordringen skal angiat det er en betalingsoppfordringskyldig beløpny betalingsfristfordringshaverens navn og den opprinnelige fordringshaverens navn hvis kravet er overdratthva kravet gjelder, det vil si varens eller tjenestens art hvis kravet gjelder en vare eller tjenestefakturanummer og fakturadatohovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnaderhvilken rentesats som er brukt for renter som er påløpt etter forfall, og datoen det er beregnet rente fraanslåtte kostnader som skyldneren kan måtte betale ved videre utenrettslig inndriving.
+Betalingsoppfordringen skal angi
+
+1. at det er en betalingsoppfordring
+2. skyldig beløp
+3. ny betalingsfrist
+4. fordringshaverens navn og den opprinnelige fordringshaverens navn hvis kravet er overdratt
+5. hva kravet gjelder, det vil si varens eller tjenestens art hvis kravet gjelder en vare eller tjeneste
+6. fakturanummer og fakturadato
+7. hovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnader
+8. hvilken rentesats som er brukt for renter som er påløpt etter forfall, og datoen det er beregnet rente fra
+9. anslåtte kostnader som skyldneren kan måtte betale ved videre utenrettslig inndriving.
 
 [§ 20 andre ledd andre](lov/2026-05-22-19/§20/ledd/2/setning/2) og [tredje punktum](lov/2026-05-22-19/§20/ledd/2/setning/3) gjelder tilsvarende for opplysninger etter bokstav g og h.
 
@@ -228,9 +313,18 @@ Betalingsoppfordringen skal angiat det er en betalingsoppfordringskyldig beløpn
 
 Et inkassoforetaks utenrettslige inndriving av flere krav med samme skyldner og fordringshaver skal skje samlet.
 
-Kravene skal likevel inndrives hver for seg hvis skyldneren har bedt om det, eller hvis det ikke er praktisk mulig å avklare om de gjelder den samme skyldneren. Dessuten kan følgende krav inndrives hver for seg:krav som har ulike tvangsgrunnlag, slik at senere tvangsfullbyrdelse av kravene blir forskjelligkrav som er rettet mot skyldneren som forbruker, og andre krav mot skyldnerenkrav fra ulike helse- og omsorgstjenester eller sosiale tjenester.
+Kravene skal likevel inndrives hver for seg hvis skyldneren har bedt om det, eller hvis det ikke er praktisk mulig å avklare om de gjelder den samme skyldneren. Dessuten kan følgende krav inndrives hver for seg:
 
-Er inkassoforetakets utenrettslige inndriving av enkelte krav stanset, er ikke regelen i første ledd til hinder for at inndrivingen av andre krav kan fortsette, hvis stansen skyldesat kravet er begjært inndrevet rettsligat skyldneren har fremsatt en innsigelse mot kravet, eller at andre forhold gir grunn til tvil om kravets rettmessighetat det er inngått en avtale med skyldneren om berostillelse eller betalingsutsettelseat skyldneren har krevd nemndsbehandling etter [§ 39](lov/2026-05-22-19/§39).
+1. krav som har ulike tvangsgrunnlag, slik at senere tvangsfullbyrdelse av kravene blir forskjellig
+2. krav som er rettet mot skyldneren som forbruker, og andre krav mot skyldneren
+3. krav fra ulike helse- og omsorgstjenester eller sosiale tjenester.
+
+Er inkassoforetakets utenrettslige inndriving av enkelte krav stanset, er ikke regelen i første ledd til hinder for at inndrivingen av andre krav kan fortsette, hvis stansen skyldes
+
+1. at kravet er begjært inndrevet rettslig
+2. at skyldneren har fremsatt en innsigelse mot kravet, eller at andre forhold gir grunn til tvil om kravets rettmessighet
+3. at det er inngått en avtale med skyldneren om berostillelse eller betalingsutsettelse
+4. at skyldneren har krevd nemndsbehandling etter [§ 39](lov/2026-05-22-19/§39).
 
 Inkassoforetaket skal sende inkassovarsel etter [§ 20](lov/2026-05-22-19/§20) for hvert krav. Plikten etter første ledd til å inndrive krav sammen med andre krav inntrer når betalingsfristen i inkassovarselet er utløpt. Når betalingsfristene er utløpt i alle utsendte inkassovarsler for krav som skal inndrives samlet, skal inkassoforetaket sende en felles betalingsoppfordring etter [§ 21](lov/2026-05-22-19/§21).
 
@@ -258,7 +352,15 @@ Ved behandlingen av innsigelser mot krav og klager på inndrivingen skal inkasso
 
 Får skyldneren ikke fullt ut medhold, skal inkassoforetaket gi et skriftlig svar med begrunnelse. Ved klage på inndrivingen skal skyldneren dessuten informeres om adgangen til å bringe saken inn for nemnd som nevnt i [§ 39 første ledd](lov/2026-05-22-19/§39/ledd/1), hvis skyldneren antas å ha adgang til å bringe saken inn for nemnda. Ved innsigelse mot kravet skal tvisten bringes inn til rettslig avgjørelse, hvis fordringshaveren fortsatt ønsker å inndrive kravet. Det gjelder likevel ikke hvis skyldneren innen en rimelig frist trekker innsigelsen, eller hvis skyldneren innen en rimelig frist bringer tvisten inn for et klageorgan som er godkjent etter [godkjenningsloven](lov/2016-06-17-29).
 
-Inkassoforetaket skal registrere følgende:om det er fremsatt en innsigelse mot kravet eller klage på inndrivingenhva innsigelsen eller klagen gjelderfordringshaverenkravets artved innsigelsesbehandling: eventuelt avtalegrunnlagutfallet av innsigelses- eller klagebehandlingendatoene innsigelsen eller klagen ble fremsatt og behandlet.
+Inkassoforetaket skal registrere følgende:
+
+1. om det er fremsatt en innsigelse mot kravet eller klage på inndrivingen
+2. hva innsigelsen eller klagen gjelder
+3. fordringshaveren
+4. kravets art
+5. ved innsigelsesbehandling: eventuelt avtalegrunnlag
+6. utfallet av innsigelses- eller klagebehandlingen
+7. datoene innsigelsen eller klagen ble fremsatt og behandlet.
 
 ### § 26. Klientmiddelbehandling
 
@@ -306,7 +408,14 @@ Dersom skyldneren har opprettet en fremtidsfullmakt som er i kraft og omfatter i
 
 En avtale om inkassooppdrag mellom et fremmedinkassoforetak og en fordringshaver skal være skriftlig.
 
-Oppdragsavtalen skal inneholde følgende:en angivelse av oppdragets varigheten utførlig beskrivelse av inkassotiltakene som skal utføresstørrelsen på inkassoforetakets vederlag eller angivelse av hvordan vederlaget skal beregnespresisering av inkassoforetakets fullmakt til å representere fordringshaveren overfor skyldnererutiner for å forebygge inndriving av urettmessige kravregulering av inkassoforetakets plikt til å orientere fordringshaveren om inkassosakene.
+Oppdragsavtalen skal inneholde følgende:
+
+1. en angivelse av oppdragets varighet
+2. en utførlig beskrivelse av inkassotiltakene som skal utføres
+3. størrelsen på inkassoforetakets vederlag eller angivelse av hvordan vederlaget skal beregnes
+4. presisering av inkassoforetakets fullmakt til å representere fordringshaveren overfor skyldnere
+5. rutiner for å forebygge inndriving av urettmessige krav
+6. regulering av inkassoforetakets plikt til å orientere fordringshaveren om inkassosakene.
 
 I oppdragsavtalen skal partene forplikte seg til å følge gjeldende regler, herunder god inkassoskikk og reglene om kommunikasjon med skyldnere. Inkassoforetaket skal forplikte seg til å varsle fordringshaveren før utkontraktering av inkassofaglige oppgaver.
 
@@ -320,7 +429,12 @@ Et fremmedinkassoforetak skal ikke være økonomisk involvert i krav det har til
 
 ### § 33. Styrets ansvar for inkassorutinene og for fagansvarliges ansvarsområder og tilstedeværelse
 
-Styret i inkassoforetaket skal påse at det utarbeides forsvarlige rutiner for hvordan inkassovirksomheten skal utøves, og at rutinene oppdateres ved behov. Styret skal skriftlig bekrefte at dette er gjort, og bekreftelsen skal være tilgjengelig for Finanstilsynet. Rutinene skal være skriftlige og skal blant annet sikre overholdelsen av følgende:reglene om risikostyring og internkontrollreglene om god inkassoskikk og kommunikasjon med skyldnerereglene om inndriving av urettmessige kravreglene om behandling av innsigelser mot kravene og klager på inndrivingen.
+Styret i inkassoforetaket skal påse at det utarbeides forsvarlige rutiner for hvordan inkassovirksomheten skal utøves, og at rutinene oppdateres ved behov. Styret skal skriftlig bekrefte at dette er gjort, og bekreftelsen skal være tilgjengelig for Finanstilsynet. Rutinene skal være skriftlige og skal blant annet sikre overholdelsen av følgende:
+
+1. reglene om risikostyring og internkontroll
+2. reglene om god inkassoskikk og kommunikasjon med skyldnere
+3. reglene om inndriving av urettmessige krav
+4. reglene om behandling av innsigelser mot kravene og klager på inndrivingen.
 
 Er det flere fagansvarlige i foretaket, skal styret fordele ansvaret som følger av [§ 34 første ledd](lov/2026-05-22-19/§34/ledd/1) og forskrift gitt med hjemmel i [§ 34 tredje ledd](lov/2026-05-22-19/§34/ledd/3), mellom dem.
 
@@ -348,7 +462,11 @@ Kongen kan i forskrift gi regler om bruk av kontraktsmedhjelpere.
 
 ### § 36. Inkassoforetakets dokumentasjon ved utførelsen av inkassooppdragene
 
-I forbindelse med utførelsen av inkassooppdragene skal inkassoforetaket dokumentere følgende:kommunikasjon med fordringshavere og skyldnereoppdragsavtaler og anvisninger fra fordringshavere om kravet og inndrivingenavtaler om utkontraktering av virksomhet og anvisninger til kontraktsmedhjelpere som utfører inkassofaglige oppgaver.
+I forbindelse med utførelsen av inkassooppdragene skal inkassoforetaket dokumentere følgende:
+
+1. kommunikasjon med fordringshavere og skyldnere
+2. oppdragsavtaler og anvisninger fra fordringshavere om kravet og inndrivingen
+3. avtaler om utkontraktering av virksomhet og anvisninger til kontraktsmedhjelpere som utfører inkassofaglige oppgaver.
 
 Dokumentasjonen skal oppbevares i minst fem år fra den aktuelle oppdrags- eller utkontrakteringsavtalen opphører, eller frem til den lovbestemte foreldelsesfristen. Dokumentasjonen behøver likevel ikke oppbevares lenger enn ti år.
 
@@ -356,7 +474,15 @@ Dokumentasjonen skal oppbevares i minst fem år fra den aktuelle oppdrags- eller
 
 Enhver som utfører tjeneste eller arbeid for et inkassoforetak, har plikt til å bevare taushet overfor uvedkommende om det han eller hun i forbindelse med tjenesten eller arbeidet får vite om noens personlige forhold eller drifts- og forretningsforhold. Dette gjelder likevel ikke dersom ingen berettiget interesse tilsier taushet. Taushetsplikten gjelder også etter at tjenesten eller arbeidsforholdet er avsluttet.
 
-Taushetsplikten etter første ledd er ikke til hinder forat fordringshaveren orienteres om inkassosakenat opplysninger overlates til eller lovlig brukes i foretak som driver kredittopplysningsvirksomhet i samsvar med [kredittopplysningsloven](lov/2019-12-20-109)at det gis opplysninger til Økokrim om forhold som gir mistanke om at det foreligger hvitvasking eller terrorfinansieringat opplysninger deles med andre så langt det er nødvendig for å unngå fare for liv eller helseat det gis opplysninger til barnevernet om forhold som gir grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt.En oversendelse i god tro av opplysninger som nevnt i bokstav c medfører ikke brudd på taushetsplikten og gir ikke grunnlag for straffansvar eller erstatningsansvar med mindre det foreligger grov uaktsomhet.
+Taushetsplikten etter første ledd er ikke til hinder for
+
+1. at fordringshaveren orienteres om inkassosaken
+2. at opplysninger overlates til eller lovlig brukes i foretak som driver kredittopplysningsvirksomhet i samsvar med [kredittopplysningsloven](lov/2019-12-20-109)
+3. at det gis opplysninger til Økokrim om forhold som gir mistanke om at det foreligger hvitvasking eller terrorfinansiering
+4. at opplysninger deles med andre så langt det er nødvendig for å unngå fare for liv eller helse
+5. at det gis opplysninger til barnevernet om forhold som gir grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt.
+
+En oversendelse i god tro av opplysninger som nevnt i bokstav c medfører ikke brudd på taushetsplikten og gir ikke grunnlag for straffansvar eller erstatningsansvar med mindre det foreligger grov uaktsomhet.
 
 ### § 38. Innhenting av opplysninger fra Folkeregisteret
 
@@ -404,7 +530,12 @@ Reglene i [finanstilsynsloven § 3-1 første](lov/2024-06-21-41/§3-1/ledd/1), [
 
 ### § 45. Meldeplikt om endringer i ledelsen mv.
 
-Inkassoforetak skal uten ugrunnet opphold melde fra til Finanstilsynet omskifte av styremedlemmer og varamedlemmer til styretskifte av daglig leder og daglig leders stedfortredererverv av betydelig eierandel i foretaketøkning av betydelig eierandel i foretaket når andelen av aksjekapitalen eller stemmene når opp til eller overstiger 20 prosent, 33 prosent eller 50 prosent.
+Inkassoforetak skal uten ugrunnet opphold melde fra til Finanstilsynet om
+
+1. skifte av styremedlemmer og varamedlemmer til styret
+2. skifte av daglig leder og daglig leders stedfortreder
+3. erverv av betydelig eierandel i foretaket
+4. økning av betydelig eierandel i foretaket når andelen av aksjekapitalen eller stemmene når opp til eller overstiger 20 prosent, 33 prosent eller 50 prosent.
 
 Ved skifte av fagansvarlige skal inkassoforetaket melde fra til Finanstilsynet om skiftet før det finner sted.
 
@@ -412,7 +543,12 @@ Ved skifte av fagansvarlige skal inkassoforetaket melde fra til Finanstilsynet o
 
 Finanstilsynet skal føre register over foretak som har norsk inkassobevilling, og virksomheter som driver grensekryssende inkassovirksomhet eller grensekryssende inndriving etter direktiv [(EU) 2021/2167](eu/32021l2167) i Norge. Registeret skal være offentlig, bortsett fra opplysninger om fødselsnummer.
 
-Finanstilsynet skal straks oppdatere registeret dersomforetaket har gitt avkall på inkassobevillingeninkassobevillingen er tilbakekalt eller tillatelsen til å drive grensekryssende inkassovirksomhet eller grensekryssende inndriving etter direktiv [(EU) 2021/2167](eu/32021l2167) i Norge av andre grunner er falt bortden registrerte ikke lenger driver grensekryssende inkassovirksomhet eller grensekryssende inndriving etter direktiv [(EU) 2021/2167](eu/32021l2167) i Norgeforetaket ikke lenger har rett til å behandle klientmidler.
+Finanstilsynet skal straks oppdatere registeret dersom
+
+1. foretaket har gitt avkall på inkassobevillingen
+2. inkassobevillingen er tilbakekalt eller tillatelsen til å drive grensekryssende inkassovirksomhet eller grensekryssende inndriving etter direktiv [(EU) 2021/2167](eu/32021l2167) i Norge av andre grunner er falt bort
+3. den registrerte ikke lenger driver grensekryssende inkassovirksomhet eller grensekryssende inndriving etter direktiv [(EU) 2021/2167](eu/32021l2167) i Norge
+4. foretaket ikke lenger har rett til å behandle klientmidler.
 
 Registrerte virksomheter skal uten ugrunnet opphold melde fra til Finanstilsynet om endringer i de registrerte opplysningene.
 
@@ -422,7 +558,18 @@ Kongen kan i forskrift gi regler om registrering av virksomheter etter denne par
 
 ### § 47. Norske inkassoforetaks grensekryssende inndriving i andre EØS-stater etter direktiv (EU) 2021/2167
 
-Norske inkassoforetak som ønsker å inndrive krav som er omfattet av direktiv [(EU) 2021/2167](eu/32021l2167), i en annen EØS-stat, skal gi skriftlig melding om dette til Finanstilsynet. I meldingen skal foretaket opplyse om følgende:vertsstaten inkassoforetaket ønsker å inndrive krav istaten hvor kreditten ble gitt, hvis inkassoforetaket er kjent med hvilken stat dette er, og det er en annen EØS-stat enn vertsstaten eller Norgeadressen til inkassoforetakets eventuelle filial i vertsstatenidentiteten og adressen til eventuell kontraktsmedhjelper for inkassofaglige oppgaver i vertsstatenidentiteten til personene som er ansvarlige for ledelsen av inndrivingen i vertsstatenhvilke tilpasninger som eventuelt er foretatt i inkassoforetakets risikostyring og internkontroll for å sikre overholdelsen av gjeldende reglerhvilke tiltak som er iverksatt for å sikre overholdelsen av vertsstatens regler om forebygging av hvitvasking og terrorfinansiering, hvis foretaket vil være forpliktet etter vertsstatens lovgivning som gjennomfører direktiv [(EU) 2015/849](eu/32015l0849)om inkassoforetaket kan kommunisere på vertsstatens språk eller språket som kredittavtalen er skrevet påom inkassobevillingen gjelder fremmedinkassovirksomhet eller oppkjøpsinkassovirksomhetom bevillingen gir rett til å behandle klientmidler eller ikke.
+Norske inkassoforetak som ønsker å inndrive krav som er omfattet av direktiv [(EU) 2021/2167](eu/32021l2167), i en annen EØS-stat, skal gi skriftlig melding om dette til Finanstilsynet. I meldingen skal foretaket opplyse om følgende:
+
+1. vertsstaten inkassoforetaket ønsker å inndrive krav i
+2. staten hvor kreditten ble gitt, hvis inkassoforetaket er kjent med hvilken stat dette er, og det er en annen EØS-stat enn vertsstaten eller Norge
+3. adressen til inkassoforetakets eventuelle filial i vertsstaten
+4. identiteten og adressen til eventuell kontraktsmedhjelper for inkassofaglige oppgaver i vertsstaten
+5. identiteten til personene som er ansvarlige for ledelsen av inndrivingen i vertsstaten
+6. hvilke tilpasninger som eventuelt er foretatt i inkassoforetakets risikostyring og internkontroll for å sikre overholdelsen av gjeldende regler
+7. hvilke tiltak som er iverksatt for å sikre overholdelsen av vertsstatens regler om forebygging av hvitvasking og terrorfinansiering, hvis foretaket vil være forpliktet etter vertsstatens lovgivning som gjennomfører direktiv [(EU) 2015/849](eu/32015l0849)
+8. om inkassoforetaket kan kommunisere på vertsstatens språk eller språket som kredittavtalen er skrevet på
+9. om inkassobevillingen gjelder fremmedinkassovirksomhet eller oppkjøpsinkassovirksomhet
+10. om bevillingen gir rett til å behandle klientmidler eller ikke.
 
 Senest 45 arbeidsdager etter at fullstendig melding etter første ledd ble mottatt, skal Finanstilsynet oversende meldingen til de kompetente myndighetene i vertsstaten. Når mottakelsen av oversendelsen er bekreftet, skal Finanstilsynet opplyse inkassoforetaket om hvilken dato meldingen ble oversendt, og hvilken dato mottakelsen av oversendelsen ble bekreftet. Finanstilsynet skal også oversende meldingen til staten hvor kreditten ble gitt, hvis det er en annen EØS-stat enn vertsstaten eller Norge.
 
@@ -460,9 +607,19 @@ Finanstilsynet kan pålegge et inkassoforetak å endre styrets sammensetning ell
 
 ### § 50. Tilbakekall av inkassobevilling
 
-Finanstilsynet kan tilbakekalle en inkassobevilling etter [§ 7](lov/2026-05-22-19/§7) dersom tilsynet finner det utilrådelig å la inkassovirksomheten drives videre fordivilkårene for å tildele bevillingen ikke lenger er til stedeforetaket ikke oppfyller vilkår gitt i bevillingenforetaket har brutt gjeldende regler for inkassovirksomhetenforetaket har unnlatt å etterkomme pålegg fra Finanstilsynet ellerdet foreligger andre særlige grunner.
+Finanstilsynet kan tilbakekalle en inkassobevilling etter [§ 7](lov/2026-05-22-19/§7) dersom tilsynet finner det utilrådelig å la inkassovirksomheten drives videre fordi
 
-Finanstilsynet kan også tilbakekalle en inkassobevilling dersomforetaket ikke har påbegynt inkassovirksomheten innen tolv måneder etter at bevillingen ble gittforetaket ikke har drevet inkassovirksomhet på mer enn tolv måneder ellerinkassobevillingen er gitt på grunnlag av uriktige opplysninger eller på annet urettmessig grunnlag.
+1. vilkårene for å tildele bevillingen ikke lenger er til stede
+2. foretaket ikke oppfyller vilkår gitt i bevillingen
+3. foretaket har brutt gjeldende regler for inkassovirksomheten
+4. foretaket har unnlatt å etterkomme pålegg fra Finanstilsynet eller
+5. det foreligger andre særlige grunner.
+
+Finanstilsynet kan også tilbakekalle en inkassobevilling dersom
+
+1. foretaket ikke har påbegynt inkassovirksomheten innen tolv måneder etter at bevillingen ble gitt
+2. foretaket ikke har drevet inkassovirksomhet på mer enn tolv måneder eller
+3. inkassobevillingen er gitt på grunnlag av uriktige opplysninger eller på annet urettmessig grunnlag.
 
 Når en inkassobevilling tilbakekalles, kan Finanstilsynet oppnevne en forvalter til å sluttføre oppdrag etter loven. Kongen kan i forskrift gi regler om forvalterens rettigheter og plikter. Dersom det er nødvendig for en forsvarlig avvikling av løpende oppdrag, kan Finanstilsynet i enkeltvedtak gjøre unntak fra bestemmelser gitt i eller med hjemmel i loven her.
 
@@ -476,7 +633,13 @@ Hvis en fagansvarlig eller en prosessfullmektig etter [§ 11](lov/2026-05-22-19/
 
 ### § 52. Overtredelsesgebyr
 
-Finanstilsynet kan ilegge et inkassoforetak overtredelsesgebyr når foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har overtrådtavgrensning i inkassobevillingen etter [§ 6 andre ledd fjerde punktum](lov/2026-05-22-19/§6/ledd/2/setning/4)krav om egnethet etter [§ 7 første ledd bokstav c](lov/2026-05-22-19/§7/ledd/1/bokstav/c) og [d](lov/2026-05-22-19/§7/ledd/1/bokstav/d), jf. [fjerde ledd](lov/2026-05-22-19/§7/ledd/4), og [§ 10](lov/2026-05-22-19/§10) og [§ 12](lov/2026-05-22-19/§12)[kapittel 3](lov/2026-05-22-19/kap3)[§§ 31](lov/2026-05-22-19/§31) til [37](lov/2026-05-22-19/§37)[§§ 44](lov/2026-05-22-19/§44) til [49](lov/2026-05-22-19/§49).
+Finanstilsynet kan ilegge et inkassoforetak overtredelsesgebyr når foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har overtrådt
+
+1. avgrensning i inkassobevillingen etter [§ 6 andre ledd fjerde punktum](lov/2026-05-22-19/§6/ledd/2/setning/4)
+2. krav om egnethet etter [§ 7 første ledd bokstav c](lov/2026-05-22-19/§7/ledd/1/bokstav/c) og [d](lov/2026-05-22-19/§7/ledd/1/bokstav/d), jf. [fjerde ledd](lov/2026-05-22-19/§7/ledd/4), og [§ 10](lov/2026-05-22-19/§10) og [§ 12](lov/2026-05-22-19/§12)
+3. [kapittel 3](lov/2026-05-22-19/kap3)
+4. [§§ 31](lov/2026-05-22-19/§31) til [37](lov/2026-05-22-19/§37)
+5. [§§ 44](lov/2026-05-22-19/§44) til [49](lov/2026-05-22-19/§49).
 
 Det samme gjelder ved overtredelse av påbud eller forbud gitt med hjemmel i bestemmelsene angitt i første ledd og ved overtredelse av forskriftsbestemmelser gitt med hjemmel i disse bestemmelsene når det er fastsatt i forskriften at slik overtredelse av den aktuelle bestemmelsen kan medføre overtredelsesgebyr.
 
@@ -490,11 +653,23 @@ Kongen kan i forskrift gi regler om utmåling av overtredelsesgebyr.
 
 ### § 53. Momenter ved ileggelse av administrative reaksjoner
 
-Ved vurderingen av hvilke administrative reaksjoner som skal ilegges som følge av overtredelser av lov, forskrift, påbud, forbud eller virksomhetsvilkår, og ved individuell utmåling av overtredelsesgebyr, skal det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evnehvor stor vinning som er oppnådd, eller tap som er unngått, ved overtredelsentap påført tredjeperson som følge av overtredelseni hvilken grad overtrederen har samarbeidet med Finanstilsynettidligere overtredelserenhver faktisk eller potensiell systemisk følge av overtredelsen.
+Ved vurderingen av hvilke administrative reaksjoner som skal ilegges som følge av overtredelser av lov, forskrift, påbud, forbud eller virksomhetsvilkår, og ved individuell utmåling av overtredelsesgebyr, skal det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. overtrederens grad av skyld
+3. overtrederens økonomiske evne
+4. hvor stor vinning som er oppnådd, eller tap som er unngått, ved overtredelsen
+5. tap påført tredjeperson som følge av overtredelsen
+6. i hvilken grad overtrederen har samarbeidet med Finanstilsynet
+7. tidligere overtredelser
+8. enhver faktisk eller potensiell systemisk følge av overtredelsen.
 
 ### § 54. Straff
 
-Med bøter eller fengsel inntil tre måneder straffes den som forsettligovertrer [§ 44 andre ledd](lov/2026-05-22-19/§44/ledd/2), [§ 45](lov/2026-05-22-19/§45), [§ 46 tredje ledd](lov/2026-05-22-19/§46/ledd/3), [§ 47 fjerde ledd første punktum](lov/2026-05-22-19/§47/ledd/4/setning/1), [§ 48 femte ledd andre punktum](lov/2026-05-22-19/§48/ledd/5/setning/2) eller [§ 49](lov/2026-05-22-19/§49), ellergjentatte ganger eller grovt overtrer bestemmelser i [kapittel 3](lov/2026-05-22-19/kap3).
+Med bøter eller fengsel inntil tre måneder straffes den som forsettlig
+
+1. overtrer [§ 44 andre ledd](lov/2026-05-22-19/§44/ledd/2), [§ 45](lov/2026-05-22-19/§45), [§ 46 tredje ledd](lov/2026-05-22-19/§46/ledd/3), [§ 47 fjerde ledd første punktum](lov/2026-05-22-19/§47/ledd/4/setning/1), [§ 48 femte ledd andre punktum](lov/2026-05-22-19/§48/ledd/5/setning/2) eller [§ 49](lov/2026-05-22-19/§49), eller
+2. gjentatte ganger eller grovt overtrer bestemmelser i [kapittel 3](lov/2026-05-22-19/kap3).
 
 Det samme gjelder ved overtredelse av påbud eller forbud gitt med hjemmel i bestemmelsene angitt i første ledd, og ved overtredelse av forskriftsbestemmelser gitt med hjemmel i disse bestemmelsene når det er fastsatt i forskriften at slik overtredelse av den aktuelle bestemmelsen er straffbar.
 

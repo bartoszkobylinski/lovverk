@@ -15,7 +15,7 @@ xml_hash: "b0f3fed6bb55e17a83d5ef81c034f065b24a28a8596003a9cff5c4459719c472"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,7 +144,11 @@ Vedtak om opptak kan påklages. Klagen fremsettes skriftlig til skolens faglige 
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
-Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har bestått de arbeidskrav og oppfylt vilkår som er fastsatt i læreplanen.Studenten har oppfylt kravene som er regulert i denne forskriftens [§ 1-1](forskrift/2019-12-17-2134/§1-1) til 1-6.Studenten ikke har mistet retten til å gå opp til eksamen jf. [fagskoleloven § 25](lov/2018-06-08-28/§25) og [§ 43](lov/2018-06-08-28/§43) .
+Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+1. Studenten har bestått de arbeidskrav og oppfylt vilkår som er fastsatt i læreplanen.
+2. Studenten har oppfylt kravene som er regulert i denne forskriftens [§ 1-1](forskrift/2019-12-17-2134/§1-1) til 1-6.
+3. Studenten ikke har mistet retten til å gå opp til eksamen jf. [fagskoleloven § 25](lov/2018-06-08-28/§25) og [§ 43](lov/2018-06-08-28/§43) .
 
 ### § 3-3. Bortvisning fra eksamen/avsluttende vurdering og sensur
 
@@ -170,7 +174,11 @@ Studenter som kommer for sent til eksamen/avsluttende vurdering og sensur skal n
 
 ### § 3-7. Avsluttende vurdering av studentene/vurderingsuttrykk
 
-1\) I henhold til fagskoleforskriften § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått, og med F for ikke bestått.Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
+1\) I henhold til fagskoleforskriften § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått, og med F for ikke bestått.
+
+Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.
+
+Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
 
 2\) Vurderingen fastsettes på grunnlag av en helhetlig vurdering/bedømming av studentens arbeid, og skal gjenspeile studentens kunnskap, ferdigheter og generell kompetanse i forhold til fagskolens læringsutbyttebeskrivelser ut fra det Nasjonalt kvalifikasjonsrammeverk NKR på nivå 5.2.
 

@@ -15,7 +15,7 @@ xml_hash: "ed6306fc4508202b6ba5ee200d6a24e7221ac64c76a596eb52791e5abfa79158"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,15 @@ Unntatt fra virkeområdet i første ledd er all virksomhet som innebærer innesl
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*innesluttet bruk:* enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet*genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi*mikroorganisme:* enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale*kombinasjonsbruk:* innesluttet bruk av planter i kombinasjon med andre genmodifiserte organismer*genteknologi:* teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus*celleteknologi:* teknikker for framstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler*bruker:* enhver fysisk eller juridisk person som er ansvarlig for den innesluttede bruken.
+I denne forskrift menes med:
+
+1. *innesluttet bruk:* enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet
+2. *genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi
+3. *mikroorganisme:* enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale
+4. *kombinasjonsbruk:* innesluttet bruk av planter i kombinasjon med andre genmodifiserte organismer
+5. *genteknologi:* teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus
+6. *celleteknologi:* teknikker for framstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler
+7. *bruker:* enhver fysisk eller juridisk person som er ansvarlig for den innesluttede bruken.
 
 ### § 3. Ansvar for virksomheten
 
@@ -44,7 +52,11 @@ Bruker er ansvarlig for forhåndsvurdering og søknad om godkjenning av den inne
 
 ### § 4. Forhåndsvurdering av risiko
 
-Bruker skal foreta en forhåndsvurdering av risikoen som følger av den innesluttede bruken:for sykdom/skade på mennesker, dyr, planter eller miljøfor utendørs etablering og spredning av genmodifiserte planteri landbruksmessig sammenheng.
+Bruker skal foreta en forhåndsvurdering av risikoen som følger av den innesluttede bruken:
+
+1. for sykdom/skade på mennesker, dyr, planter eller miljø
+2. for utendørs etablering og spredning av genmodifiserte planter
+3. i landbruksmessig sammenheng.
 
 Forhåndsvurderingen er avgjørende for hvilke krav som stilles til inneslutningstiltak og inneslutningsnivå. Kravene til forhåndsvurderingen fremgår av vedlegg III.
 
@@ -96,7 +108,11 @@ Dersom det ønskes foretatt endringer av laboratoriet/anlegget som berører inne
 
 ### § 11. Klassifisering
 
-Krav til inneslutningsnivå for laboratorier og anlegg for innesluttet bruk av genmodifiserte planter bestemmes av plantens biologiske inneslutningsnivå:høy biologisk inneslutning, dvs. planter uten evne til utendørs etablering og spredning,moderat biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning, men med liten evne til utslipp av pollen,lav biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning og med stor evne til utslipp av pollen.
+Krav til inneslutningsnivå for laboratorier og anlegg for innesluttet bruk av genmodifiserte planter bestemmes av plantens biologiske inneslutningsnivå:
+
+1. høy biologisk inneslutning, dvs. planter uten evne til utendørs etablering og spredning,
+2. moderat biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning, men med liten evne til utslipp av pollen,
+3. lav biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning og med stor evne til utslipp av pollen.
 
 Plantens inneslutningsnivå fastsettes på grunnlag av forhåndsvurdering av risiko, jf. [§ 4](forskrift/2001-12-21-1603/§4) og vedlegg III.
 
@@ -302,14 +318,35 @@ IV. *Sikkerhetsprosedyrer*
 
 ## Vedlegg III. Forhåndsvurdering av risiko for sykdom/skade på mennesker, dyr, planter eller miljø
 
-*Forhold som må vurderes:*Om genmodifiseringen vil føre til uttrykk av uønskede egenskaper (eks. antibiotikaresistens, toksiner osv.)om planten er tilført egenskaper som kan gi endret mottakelighet for kjemikalier, biologiske agens eller andre kontrolltiltak (eks. antibiotika-, herbicidresistens)eksisterende metoder for påvisning, identifisering og overvåkning av de modifiserte planteneeksisterende teknikker som gjør det mulig å påvise overføring av det nye genmaterialet til andre organismer
+*Forhold som må vurderes:*
+
+1. Om genmodifiseringen vil føre til uttrykk av uønskede egenskaper (eks. antibiotikaresistens, toksiner osv.)
+2. om planten er tilført egenskaper som kan gi endret mottakelighet for kjemikalier, biologiske agens eller andre kontrolltiltak (eks. antibiotika-, herbicidresistens)
+3. eksisterende metoder for påvisning, identifisering og overvåkning av de modifiserte plantene
+4. eksisterende teknikker som gjør det mulig å påvise overføring av det nye genmaterialet til andre organismer
 
 *Risiko for utendørs etablering og spredning av genmodifiserte planter*
 
-*Forhold som må vurderes:*Overlevelsesevne i utendørs miljø (vekstbetingelser: næring, temperatur, lys osv.),reproduksjonsevne og mulighet for genspredning via kjønnet formering til nært beslektede arter eller planter av samme art,muligheter for horisontal genoverføring vurdert ut fra det innsatte genmaterialets natur.
+*Forhold som må vurderes:*
+
+1. Overlevelsesevne i utendørs miljø (vekstbetingelser: næring, temperatur, lys osv.),
+2. reproduksjonsevne og mulighet for genspredning via kjønnet formering til nært beslektede arter eller planter av samme art,
+3. muligheter for horisontal genoverføring vurdert ut fra det innsatte genmaterialets natur.
 
 *Risiko i landbruksmessig sammenheng*
 
-*Forhold som må vurderes:*Den genmodifiserte plantens potensiale som ugress eller spredning av ugressegenskaper til andre planter,om planten er oppført på karanteneliste,om plantematerialet innebærer risiko for spredning av plantepatogener. Muligheter for interaksjoner med andre planter i miljøet (både kulturplanter og ville planter),Vurderes ut fra følgende forhold:inokulumets tetthetlevedyktighetangrepsmåtevertsspekter/livssyklusmiljøbetingelser for spredningvirulens.
+*Forhold som må vurderes:*
+
+1. Den genmodifiserte plantens potensiale som ugress eller spredning av ugressegenskaper til andre planter,
+2. om planten er oppført på karanteneliste,
+3. om plantematerialet innebærer risiko for spredning av plantepatogener. Muligheter for interaksjoner med andre planter i miljøet (både kulturplanter og ville planter),
+4. Vurderes ut fra følgende forhold:
+
+   - inokulumets tetthet
+   - levedyktighet
+   - angrepsmåte
+   - vertsspekter/livssyklus
+   - miljøbetingelser for spredning
+   - virulens.
 
 Ved kombinasjonsbruk skal det vurderes spesielt om mikroorganismene utgjør en ytterligere risiko. Forhåndsvurderingen av risiko omfatter alle typer virksomhet, og skal legges ved søknad om godkjennelse. Godkjenningsmyndighetene kan innhente uttalelse fra andre berørte myndigheter der virksomhetens art krever det.

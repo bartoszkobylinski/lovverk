@@ -56,11 +56,22 @@ Der kravene til ph.d. og ph.d. i kunstnerisk utviklingsarbeid er forskjellige, v
 
 ### § 3-3. Tildeling av graden ph.d.
 
-Graden ph.d. tildeles på grunnlag avgodkjent vitenskapelig avhandling, jf. [§ 11-1](forskrift/2026-02-03-387/§11-1)godkjent gjennomføring av opplæringsdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Graden ph.d. tildeles på grunnlag av
+
+- godkjent vitenskapelig avhandling, jf. [§ 11-1](forskrift/2026-02-03-387/§11-1)
+- godkjent gjennomføring av opplæringsdelen
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3-4. Tildeling av graden ph.d. i kunstnerisk utviklingsarbeid
 
-Graden ph.d. i kunstnerisk utviklingsarbeid tildeles på grunnlag avgodkjent kunstnerisk resultat, jf. [§ 11-2](forskrift/2026-02-03-387/§11-2)godkjent refleksjonsdel, jf. [§ 11-2](forskrift/2026-02-03-387/§11-2)godkjent gjennomføring av opplæringsdelengodkjent prøve over oppgitt emnegodkjent offentlig forsvar av det kunstneriske doktorgradsarbeidet (disputas).
+Graden ph.d. i kunstnerisk utviklingsarbeid tildeles på grunnlag av
+
+- godkjent kunstnerisk resultat, jf. [§ 11-2](forskrift/2026-02-03-387/§11-2)
+- godkjent refleksjonsdel, jf. [§ 11-2](forskrift/2026-02-03-387/§11-2)
+- godkjent gjennomføring av opplæringsdelen
+- godkjent prøve over oppgitt emne
+- godkjent offentlig forsvar av det kunstneriske doktorgradsarbeidet (disputas).
 
 ### § 4. Ansvaret for ph.d.-utdanningen
 
@@ -90,7 +101,18 @@ Søkeren skal ha en sterk faglig relevant bakgrunn fra sitt tidligere studium, o
 
 ### § 6-2. Søknad om opptak
 
-NTNU fastsetter søknadsskjema. Søknaden behandles av fakultetet og skal normalt inneholde:dokumentasjon av utdanningen som skal ligge til grunn for opptaketprosjektbeskrivelse som omfatterfaglig redegjørelse for prosjektetplan for framdrift og faglig formidlingvurdering av hvilke forskningsetiske og rettslige problemstillinger doktorgradsarbeidet reiser og hvordan disse kan løsesdokumentasjon av finansiering for hele doktorgradsperioden, inkludert faglige og materielle ressurser og øvrige nødvendige driftsmidlerplan for opplæringsdelenforslag på hoved- og medveiledere, samt angivelse av tilknytning til aktivt fagmiljø for forskning eller kunstnerisk utviklingsarbeidkandidater som ikke ansettes på NTNU må redegjøre for oppfyllelse av residensplikten.
+NTNU fastsetter søknadsskjema. Søknaden behandles av fakultetet og skal normalt inneholde:
+
+- dokumentasjon av utdanningen som skal ligge til grunn for opptaket
+- prosjektbeskrivelse som omfatter
+
+  - faglig redegjørelse for prosjektet
+  - plan for framdrift og faglig formidling
+  - vurdering av hvilke forskningsetiske og rettslige problemstillinger doktorgradsarbeidet reiser og hvordan disse kan løses
+- dokumentasjon av finansiering for hele doktorgradsperioden, inkludert faglige og materielle ressurser og øvrige nødvendige driftsmidler
+- plan for opplæringsdelen
+- forslag på hoved- og medveiledere, samt angivelse av tilknytning til aktivt fagmiljø for forskning eller kunstnerisk utviklingsarbeid
+- kandidater som ikke ansettes på NTNU må redegjøre for oppfyllelse av residensplikten.
 
 Det skal søkes om opptak til ph.d.-utdanning så snart som mulig og senest innen tre (3) måneder etter oppstart av det arbeidet som skal lede fram til ph.d.-graden. Dersom det gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunkt, skal søknaden avvises. Det gjelder egne regler for søkere som har bakgrunn fra forskerlinjer og tilsvarende studieordninger.
 
@@ -110,7 +132,11 @@ Vedtak om opptak gjøres av fakultetet selv og baseres på en samlet vurdering a
 
 I vedtaket skal hoved- og medveiledere oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og opptaksperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering.
 
-Opptak skal nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidetde immaterialrettslige avtaler som er inngått er så urimelige at institusjonen ikke bør medvirke i prosjektetsøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 6-2](forskrift/2026-02-03-387/§6-2).
+Opptak skal nektes om:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet
+- de immaterialrettslige avtaler som er inngått er så urimelige at institusjonen ikke bør medvirke i prosjektet
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 6-2](forskrift/2026-02-03-387/§6-2).
 
 ### § 7. Opptaksperiode
 
@@ -140,7 +166,13 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 ### § 7-4. Tvungen avslutning
 
-Fakultet selv kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid dersom doktorgradskandidaten i vesentlig grad ikke oppfyller forpliktelsene ved f.eks.:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10](forskrift/2026-02-03-387/§10)Forsinkelse i framdriften av forskningsprosjektet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår overOpptreden som bryter med den tillit som må foreligge mellom universitetet og en kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningenBortfall av finansiering knyttet til forhold kandidaten selv rår over.
+Fakultet selv kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid dersom doktorgradskandidaten i vesentlig grad ikke oppfyller forpliktelsene ved f.eks.:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10](forskrift/2026-02-03-387/§10)
+- Forsinkelse i framdriften av forskningsprosjektet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over
+- Opptreden som bryter med den tillit som må foreligge mellom universitetet og en kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen
+- Bortfall av finansiering knyttet til forhold kandidaten selv rår over.
 
 Klage over vedtak om tvungen avslutning behandles av Felles klagenemnd.
 
@@ -256,7 +288,11 @@ Normalt skal bare arbeider som er produsert etter opptak i et doktorgradsprogram
 
 Det kunstneriske resultatet skal være et kunstnerisk arbeid på høyt nivå når det gjelder originalitet, uttrykk, koherens og formidling. Det kunstneriske resultatet skal presenteres offentlig, jf. [§ 18-2](forskrift/2026-02-03-387/§18-2).
 
-Den kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelderprosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonaltbidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
+Den kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder
+
+- prosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
+- plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt
+- bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
 
 Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon.
 
@@ -310,13 +346,30 @@ Søknad om bedømmelse skjer ved innlevering av vitenskapelig avhandling, jf. [�
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-Som vedlegg til søknaden skal følge:Den vitenskapelige avhandlingen i den form fakultetet har bestemtDokumentasjon av nødvendige forskningsetiske og rettslige tillatelserMedforfattererklæringer der dette er påkrevd, jf. [§ 11-3](forskrift/2026-02-03-387/§11-3)Erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gangErklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjonErklæring fra veileder om at veileder er kjent med at avhandlingen leveres til bedømmelse.
+Som vedlegg til søknaden skal følge:
+
+- Den vitenskapelige avhandlingen i den form fakultetet har bestemt
+- Dokumentasjon av nødvendige forskningsetiske og rettslige tillatelser
+- Medforfattererklæringer der dette er påkrevd, jf. [§ 11-3](forskrift/2026-02-03-387/§11-3)
+- Erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang
+- Erklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon
+- Erklæring fra veileder om at veileder er kjent med at avhandlingen leveres til bedømmelse.
 
 Fakultetet må sørge for at tiden fra innlevering av avhandling til disputas er kortest mulig, normalt ikke lenger enn fem (5) måneder.
 
 ### § 13-3. Søknad om bedømmelse av det kunstneriske doktorgradsarbeidet
 
-Som vedlegg til søknaden skal følge:Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentligRedegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering, jf. [§ 15-1](forskrift/2026-02-03-387/§15-1)Redegjørelse for hvordan opplæringsdelen er oppfylt, og for eventuelt annen faglig skolering eller kompetanseDokumentasjon av eventuelle nødvendige forskningsetiske eller juridiske tillatelserPlan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsarbeidetErklæring fra samarbeidspartnere der dette er påkrevd, jf. [§ 11-3](forskrift/2026-02-03-387/§11-3)Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gangErklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjonErklæring fra veileder om at veileder er kjent med at arbeidet leveres til bedømmelse.
+Som vedlegg til søknaden skal følge:
+
+- Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig
+- Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering, jf. [§ 15-1](forskrift/2026-02-03-387/§15-1)
+- Redegjørelse for hvordan opplæringsdelen er oppfylt, og for eventuelt annen faglig skolering eller kompetanse
+- Dokumentasjon av eventuelle nødvendige forskningsetiske eller juridiske tillatelser
+- Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsarbeidet
+- Erklæring fra samarbeidspartnere der dette er påkrevd, jf. [§ 11-3](forskrift/2026-02-03-387/§11-3)
+- Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang
+- Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon
+- Erklæring fra veileder om at veileder er kjent med at arbeidet leveres til bedømmelse.
 
 Søknaden rettes til fakultetet senest tre (3) måneder før det planlagte tidspunktet for presentasjon av det kunstneriske resultatet.
 
@@ -332,7 +385,13 @@ Fakultetet behandler søknad om å få den vitenskapelige avhandlingen eller det
 
 Når fakultetet har godkjent søknad om å få den vitenskapelige avhandlingen eller det kunstneriske doktorgradsarbeidet bedømt, oppnevner fakultetet selv en sakkyndig komité på minst tre medlemmer som skal bedømme doktorgradsarbeidet, prøven over oppgitt emne og disputasen. Habilitetsreglene i [forvaltningsloven §§ 6](lov/1967-02-10/§6)–10 gjelder for komiteens medlemmer. Sampublisering med kandidaten vurderes alltid som inhabilitet.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atminst to kjønn er representertminst to av medlemmene er uten tilknytning til NTNUminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- minst to kjønn er representert
+- minst to av medlemmene er uten tilknytning til NTNU
+- minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

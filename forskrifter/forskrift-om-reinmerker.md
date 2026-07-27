@@ -32,7 +32,10 @@ Forskriften skal bidra til å sikre forsvarlig dyrevelferd ved utforming av merk
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:*reinmerker:* tradisjonelle merker med unike øresnitt.*reinbeiteområder:* de seks samiske regionale reinbeiteområdene etter reglene i [lov 15. juni 2007 nr. 40 om reindrift](lov/2007-06-15-40).
+I denne forskrift forstås med:
+
+1. *reinmerker:* tradisjonelle merker med unike øresnitt.
+2. *reinbeiteområder:* de seks samiske regionale reinbeiteområdene etter reglene i [lov 15. juni 2007 nr. 40 om reindrift](lov/2007-06-15-40).
 
 ## Kapittel 2. Valg og oppnevning av nemndsmedlemmer, sammensetning av nemndene og organisering av nemndenes arbeid
 
@@ -68,7 +71,10 @@ Sakene i nemndene skal forberedes av et sekretariat. Statsforvalteren oppnevner 
 
 Vedtak i regionale merkenemnder og klagenemnd for merkesaker er gyldig med simpelt flertall. Ved stemmelikhet har nemndleder dobbeltstemme.
 
-Hvis et medlem er inhabil eller melder frafall, skal personlig varamedlem delta i saksbehandlingen. Hvis dette ikke lar seg gjøre og saken ikke kan utsettes, er nemnda likevel beslutningsdyktig når:nemnda består av tre medlemmer og to av medlemmene er til stede, ellernemnda består av fem medlemmer og minst tre av medlemmene er til stede.
+Hvis et medlem er inhabil eller melder frafall, skal personlig varamedlem delta i saksbehandlingen. Hvis dette ikke lar seg gjøre og saken ikke kan utsettes, er nemnda likevel beslutningsdyktig når:
+
+1. nemnda består av tre medlemmer og to av medlemmene er til stede, eller
+2. nemnda består av fem medlemmer og minst tre av medlemmene er til stede.
 
 ## Kapittel 3. Saksbehandling av søknad om reinmerke
 
@@ -156,7 +162,13 @@ Opplysninger i det nasjonale merkeregisteret kan gjøres tilgjengelig i et elekt
 
 ### § 18. Opplysninger som kan tilgjengeliggjøres
 
-Landbruksdirektoratet kan gjøre følgende opplysninger i det nasjonale merkeregisteret tilgjengelig elektronisk:Merkeinnehavers navn,område, distrikt, siida og siidaandel som merkeinnehaver tilhører,illustrasjon og beskrivelse av merket,registreringsdato, ogregistreringsnummer.
+Landbruksdirektoratet kan gjøre følgende opplysninger i det nasjonale merkeregisteret tilgjengelig elektronisk:
+
+1. Merkeinnehavers navn,
+2. område, distrikt, siida og siidaandel som merkeinnehaver tilhører,
+3. illustrasjon og beskrivelse av merket,
+4. registreringsdato, og
+5. registreringsnummer.
 
 ## Kapittel 7. Ikrafttredelse
 

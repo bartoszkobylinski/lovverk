@@ -28,15 +28,27 @@ Tilskuddene skal fremme kvaliteten i redningstjenesten. Frivillige organisasjone
 
 ## § 2. Definisjoner
 
-I forskriften menes med*Redningstjeneste:* offentlig organisert umiddelbar innsats fra flere samvirkepartnere for å redde mennesker fra død eller skade som følge av akutte ulykkes- eller faresituasjoner, og som ikke blir ivaretatt av særskilte opprettede organer eller ved særskilte tiltak.*Samvirkepartner:* offentlige organer, frivillige organisasjoner og private selskaper som bidrar med kompetanse, personell, materiell og/eller infrastruktur under redningsaksjoner.
+I forskriften menes med
+
+1. *Redningstjeneste:* offentlig organisert umiddelbar innsats fra flere samvirkepartnere for å redde mennesker fra død eller skade som følge av akutte ulykkes- eller faresituasjoner, og som ikke blir ivaretatt av særskilte opprettede organer eller ved særskilte tiltak.
+2. *Samvirkepartner:* offentlige organer, frivillige organisasjoner og private selskaper som bidrar med kompetanse, personell, materiell og/eller infrastruktur under redningsaksjoner.
 
 ## § 3. Hvem som kan få tilskudd
 
 Frivillige Organisasjoners Redningsfaglige Forum (FORF), frivillige organisasjoner i redningstjenesten som representeres av FORF og andre lignende frivillige organisasjoner som deltar i redningstjenesten, kan få tilskudd.
 
-Som frivillig virksomhet regnes aktiviteter som ikke erfortjenestebaserteorganisert av det offentligebasert på samvirkeprinsipper og omfattes av [samvirkeloven](lov/2007-06-29-81).
+Som frivillig virksomhet regnes aktiviteter som ikke er
 
-Frivillig virksomhet drives avikke-økonomiske (ideelle) foreningeralminnelige stiftelser som ikke deler ut midler, eller som bare foretar utdelinger til frivillig virksomhetnæringsdrivende stiftelser som bare foretar utdelinger til frivillig virksomhetaksjeselskaper som bare foretar utdelinger til frivillig virksomhet.
+1. fortjenestebaserte
+2. organisert av det offentlige
+3. basert på samvirkeprinsipper og omfattes av [samvirkeloven](lov/2007-06-29-81).
+
+Frivillig virksomhet drives av
+
+1. ikke-økonomiske (ideelle) foreninger
+2. alminnelige stiftelser som ikke deler ut midler, eller som bare foretar utdelinger til frivillig virksomhet
+3. næringsdrivende stiftelser som bare foretar utdelinger til frivillig virksomhet
+4. aksjeselskaper som bare foretar utdelinger til frivillig virksomhet.
 
 Tilskuddsmidlene tildeles hovedorganisasjoner, som skal fordele videre til de lokale lagene og foreningene i organisasjonen som har betydning for redningstjenesten.
 
@@ -50,35 +62,69 @@ Et tilskudd kan gis som driftstilskudd eller prosjekttilskudd. Et driftstilskudd
 
 ## § 5. Krav til aktiviteter i tilskuddsperioden
 
-En tilskuddsmottaker skalbruke tilskuddet i samsvar med formålet, aktivitetene og budsjettet som fremgår av forskriften og søknaden som ligger til grunn for tilskuddsvedtaketgjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddetbenytte tilskuddet innen 12 måneder etter at tilskuddet er mottatt, med mindre tilskuddsvedtaket fastsetter noe annet.
+En tilskuddsmottaker skal
+
+1. bruke tilskuddet i samsvar med formålet, aktivitetene og budsjettet som fremgår av forskriften og søknaden som ligger til grunn for tilskuddsvedtaket
+2. gjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet
+3. benytte tilskuddet innen 12 måneder etter at tilskuddet er mottatt, med mindre tilskuddsvedtaket fastsetter noe annet.
 
 ## § 6. Krav om rapportering
 
 En tilskuddsmottaker skal innen 1. april året etter det året tilskuddet gjelder for, rapportere til Justis- og beredskapsdepartementet om hvordan tilskuddet har bidratt til at organisasjonen har blitt satt i bedre stand til å delta i redningsaksjoner.
 
-Tilskuddsmottakeren skal redegjøre for at tilskuddet er benyttet til redningsfaglige tiltak, at mottakeren har bidratt i redningsarbeid. Dersom tilskuddet er 200 000 kroner eller mer skal tilskuddsmottaker.levere revisorbekreftet ordinært årsregnskap for organisasjonensynliggjøre det tildelte tilskuddet i en note i det ordinære årsregnskapet til organisasjonenlevere en forenklet oversikt over regnskapet for bruken av tilskuddet.
+Tilskuddsmottakeren skal redegjøre for at tilskuddet er benyttet til redningsfaglige tiltak, at mottakeren har bidratt i redningsarbeid. Dersom tilskuddet er 200 000 kroner eller mer skal tilskuddsmottaker.
+
+1. levere revisorbekreftet ordinært årsregnskap for organisasjonen
+2. synliggjøre det tildelte tilskuddet i en note i det ordinære årsregnskapet til organisasjonen
+3. levere en forenklet oversikt over regnskapet for bruken av tilskuddet.
 
 Justis- og beredskapsdepartementet kan utdype kravene og det kan fastsettes ytterligere rapporteringskrav i tilskuddsvedtaket.
 
 ## § 7. Kravene til en søknad om tilskudd
 
-En søknad om tilskudd skal sendes elektronisk til Justis- og beredskapsdepartementet innen 1. desember året før tildelingsåret og være undertegnet av organisasjonens leder eller generalsekretær, eller den som har fullmakt. Søknaden skalangi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersonha vedlagt årsberetning der dette er påkrevd, regnskap og vedtekterangi særlige kvalifikasjoner søkeren måtte ha for å gjennomføre tiltaketangi hva søkeren vil oppnå med tilskuddet og forventet resultatangi hvem tilskuddet skal rettes mot og det geografiske området det vil bli bruktangi en plan for gjennomføringen av tiltaket, aktiviteten e.l. med virkemidler, samarbeidspartnere og tidsrammeropplyse om eventuelle planer om å videreføre tiltaketangi muligheter for å koordinere med andre organisasjonerfremlegge budsjett for tiltaketangi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Justis- og beredskapsdepartementet eller underliggende organerangi beløpet det søkes omoppgi søkerens egenandeloppgi hvilke beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilderredegjøre for inntektsgivende aktiviteter søkeren måtte ha.
+En søknad om tilskudd skal sendes elektronisk til Justis- og beredskapsdepartementet innen 1. desember året før tildelingsåret og være undertegnet av organisasjonens leder eller generalsekretær, eller den som har fullmakt. Søknaden skal
+
+1. angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. ha vedlagt årsberetning der dette er påkrevd, regnskap og vedtekter
+3. angi særlige kvalifikasjoner søkeren måtte ha for å gjennomføre tiltaket
+4. angi hva søkeren vil oppnå med tilskuddet og forventet resultat
+5. angi hvem tilskuddet skal rettes mot og det geografiske området det vil bli brukt
+6. angi en plan for gjennomføringen av tiltaket, aktiviteten e.l. med virkemidler, samarbeidspartnere og tidsrammer
+7. opplyse om eventuelle planer om å videreføre tiltaket
+8. angi muligheter for å koordinere med andre organisasjoner
+9. fremlegge budsjett for tiltaket
+10. angi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Justis- og beredskapsdepartementet eller underliggende organer
+11. angi beløpet det søkes om
+12. oppgi søkerens egenandel
+13. oppgi hvilke beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilder
+14. redegjøre for inntektsgivende aktiviteter søkeren måtte ha.
 
 ## § 8. Søknadsbehandlingen
 
-Justis- og beredskapsdepartementet kan i tillegg til opplysningene nevnt i [§ 7](forskrift/2020-12-10-2679/§7).kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereavholde befaring som er nødvendig for å vurdere søknaden og kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
+Justis- og beredskapsdepartementet kan i tillegg til opplysningene nevnt i [§ 7](forskrift/2020-12-10-2679/§7).
+
+1. kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. avholde befaring som er nødvendig for å vurdere søknaden og kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
 
 ## § 9. Hvordan søknaden blir vurdert
 
 Justis- og beredskapsdepartementet tildeler tilskudd for ett år av gangen etter en skjønnsmessig vurdering av i hvilken grad formålet som det søkes om tilskudd til, bidrar til å oppfylle formålet med tilskuddsordningen.
 
-I vurderingen av søknadene legges det særlig vekt påhvor omfattende søkerens aktivitet og deltagelse i redningsoppdrag erom søkeren har en særlig kompetanse som er strengt nødvendig i enkelte oppdrag.
+I vurderingen av søknadene legges det særlig vekt på
+
+1. hvor omfattende søkerens aktivitet og deltagelse i redningsoppdrag er
+2. om søkeren har en særlig kompetanse som er strengt nødvendig i enkelte oppdrag.
 
 Søkere som er registrert i Frivillighetsregisteret vil som hovedregel bli prioritert.
 
 ## § 10. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Justis- og beredskapsdepartementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+Justis- og beredskapsdepartementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. besiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
 
 ## § 11. Stans og tilbakebetaling
 

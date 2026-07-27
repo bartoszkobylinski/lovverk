@@ -15,7 +15,7 @@ xml_hash: "f49d9b65f48f699a602153893f917e125f674e51b30b88e9e2f943efdbd456cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelderpå norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norske statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Forskriften gjelder
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjon
+3. for alle norske statsborgere og personer med bosted i Norge
+4. for alle foretak registrert i Foretaksregisteret
+5. for alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 Forskriften gjelder på Svalbard og Jan Mayen.
 
@@ -68,23 +74,77 @@ om restriktive tiltak mot cyberangrep som truer EU eller EUs medlemsstater
 
 1\. Denne forordningen får anvendelse på cyberangrep med betydelig virkning, herunder forsøk på cyberangrep med potensiell betydelig virkning, som utgjør en ekstern trussel mot EU eller EUs medlemsstater.
 
-2\. Cyberangrep som utgjør en ekstern trussel, omfatter cyberangrep somhar opprinnelse i eller utføres fra områder utenfor EU,benytter infrastruktur utenfor EU,utføres av fysiske eller juridiske personer, enheter eller organer som er etablert eller opererer utenfor EU, ellerutføres med støtte fra, under ledelse eller under kontroll av fysiske eller juridiske personer, enheter eller organer som opererer utenfor EU.
+2\. Cyberangrep som utgjør en ekstern trussel, omfatter cyberangrep som
 
-3\. For dette formålet er «cyberangrep» handlinger som omfatter ett eller flere av følgende elementer:tilgang til informasjonssystemer,forstyrrelser av informasjonssystemer,forstyrrelser av data ellerdataavlytting,når det ikke er gitt behørig tillatelse til slike handlinger av eieren eller en annen rettighetshaver til systemet eller dataene eller deler av dem, eller de ikke er tillatt i henhold til EUs regelverk eller den berørte medlemsstatens lovgivning.
+1. har opprinnelse i eller utføres fra områder utenfor EU,
+2. benytter infrastruktur utenfor EU,
+3. utføres av fysiske eller juridiske personer, enheter eller organer som er etablert eller opererer utenfor EU, eller
+4. utføres med støtte fra, under ledelse eller under kontroll av fysiske eller juridiske personer, enheter eller organer som opererer utenfor EU.
 
-4\. Cyberangrep som utgjør en trussel mot medlemsstatene, inkluderer angrep som påvirker informasjonssystemer knyttet til blant annetkritisk infrastruktur, herunder undervannskabler og objekter som sendes ut i verdensrommet, som er av vesentlig betydning for å opprettholde vitale samfunnsfunksjoner eller for befolkningens helse, trygghet og sikkerhet samt økonomiske eller sosiale velferd,tjenester som er nødvendige for å opprettholde vesentlig samfunnsvirksomhet og/eller økonomisk virksomhet, særlig innenfor følgende sektorer: energi (elektrisitet, olje og gass), transport (luft-, jernbane-, sjø- og veitransport), banktjenester, finansmarkedenes infrastrukturer, helse (ytere av helsetjenester, sykehus og private klinikker), forsyning og distribusjon av drikkevann, digital infrastruktur og enhver annen sektor som er av vesentlig betydning for den berørte medlemsstaten,kritiske statsfunksjoner, særlig på områdene forsvar, styresett og institusjoners virkemåte, herunder knyttet til offentlige valg eller stemmegivning, den økonomiske og sivile infrastrukturens virkemåte, indre sikkerhet og forbindelser med tredjeland, blant annet gjennom diplomatiske og konsulære stasjoner,lagring eller behandling av graderte opplysninger, ellernasjonale responsfunksjoner.
+3\. For dette formålet er «cyberangrep» handlinger som omfatter ett eller flere av følgende elementer:
+
+1. tilgang til informasjonssystemer,
+2. forstyrrelser av informasjonssystemer,
+3. forstyrrelser av data eller
+4. dataavlytting,
+
+når det ikke er gitt behørig tillatelse til slike handlinger av eieren eller en annen rettighetshaver til systemet eller dataene eller deler av dem, eller de ikke er tillatt i henhold til EUs regelverk eller den berørte medlemsstatens lovgivning.
+
+4\. Cyberangrep som utgjør en trussel mot medlemsstatene, inkluderer angrep som påvirker informasjonssystemer knyttet til blant annet
+
+1. kritisk infrastruktur, herunder undervannskabler og objekter som sendes ut i verdensrommet, som er av vesentlig betydning for å opprettholde vitale samfunnsfunksjoner eller for befolkningens helse, trygghet og sikkerhet samt økonomiske eller sosiale velferd,
+2. tjenester som er nødvendige for å opprettholde vesentlig samfunnsvirksomhet og/eller økonomisk virksomhet, særlig innenfor følgende sektorer: energi (elektrisitet, olje og gass), transport (luft-, jernbane-, sjø- og veitransport), banktjenester, finansmarkedenes infrastrukturer, helse (ytere av helsetjenester, sykehus og private klinikker), forsyning og distribusjon av drikkevann, digital infrastruktur og enhver annen sektor som er av vesentlig betydning for den berørte medlemsstaten,
+3. kritiske statsfunksjoner, særlig på områdene forsvar, styresett og institusjoners virkemåte, herunder knyttet til offentlige valg eller stemmegivning, den økonomiske og sivile infrastrukturens virkemåte, indre sikkerhet og forbindelser med tredjeland, blant annet gjennom diplomatiske og konsulære stasjoner,
+4. lagring eller behandling av graderte opplysninger, eller
+5. nasjonale responsfunksjoner.
 
 5\. Cyberangrep som utgjør en trussel mot EU, omfatter angrep som utføres mot EUs institusjoner, organer, kontorer og byråer, dens delegasjoner til tredjeland eller til internasjonale organisasjoner, mot EUs operasjoner og representasjoner knyttet til dens felles sikkerhets- og forsvarspolitikk (CSDP) samt dens spesialrepresentanter.
 
 6\. Dersom det anses nødvendig for å nå målene for den felles utenriks- og sikkerhetspolitikken (FUSP) i de relevante bestemmelsene i [artikkel 21 i traktaten om Den europeiske union](eu/12016m/a21), kan restriktive tiltak i henhold til denne forordningen også få anvendelse som reaksjon mot cyberangrep som har en betydelig virkning på tredjeland eller internasjonale organisasjoner.
 
-7\. I denne forordningen menes med«informasjonssystemer»: en innretning eller en gruppe innbyrdes sammenkoblede eller beslektede innretninger som enkeltvis eller sammen ved hjelp av et program behandler digitale data automatisk, samt digitale data som er lagret, behandlet, innhentet eller overført ved hjelp av en slik innretning eller gruppe innretninger med henblikk på deres drift, bruk, beskyttelse og vedlikehold,«forstyrrelser av informasjonssystemer»: å forhindre eller avbryte et informasjonssystems virkemåte ved å lese inn digitale data, ved å overføre, skade, slette, forringe, endre eller tilbakeholde slike data eller ved å gjøre slike data utilgjengelige,«forstyrrelser av data»: å slette, skade, forringe, endre eller tilbakeholde digitale data i et informasjonssystem, eller å gjøre slike data utilgjengelige, samt tyveri av data, penger, formuesgoder eller immaterielle eiendeler,«dataavlytting»: avlytting via tekniske midler av ikke-offentlige overføringer av digitale data til, fra eller innenfor et informasjonssystem, herunder elektromagnetisk stråling fra et informasjonssystem som inneholder slike digitale data.
+7\. I denne forordningen menes med
 
-8\. I denne forordningen menes videre med«krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål, eller enhver annen endring som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev, ogdokumenter som viser eierandeler i penger eller finansielle ressurser,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom.
+1. «informasjonssystemer»: en innretning eller en gruppe innbyrdes sammenkoblede eller beslektede innretninger som enkeltvis eller sammen ved hjelp av et program behandler digitale data automatisk, samt digitale data som er lagret, behandlet, innhentet eller overført ved hjelp av en slik innretning eller gruppe innretninger med henblikk på deres drift, bruk, beskyttelse og vedlikehold,
+2. «forstyrrelser av informasjonssystemer»: å forhindre eller avbryte et informasjonssystems virkemåte ved å lese inn digitale data, ved å overføre, skade, slette, forringe, endre eller tilbakeholde slike data eller ved å gjøre slike data utilgjengelige,
+3. «forstyrrelser av data»: å slette, skade, forringe, endre eller tilbakeholde digitale data i et informasjonssystem, eller å gjøre slike data utilgjengelige, samt tyveri av data, penger, formuesgoder eller immaterielle eiendeler,
+4. «dataavlytting»: avlytting via tekniske midler av ikke-offentlige overføringer av digitale data til, fra eller innenfor et informasjonssystem, herunder elektromagnetisk stråling fra et informasjonssystem som inneholder slike digitale data.
+
+8\. I denne forordningen menes videre med
+
+1. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+2. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
+3. «kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,
+4. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+5. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
+6. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål, eller enhver annen endring som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+7. «penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev, og
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+8. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom.
 
 ### Artikkel 2
 
-Faktorene som avgjør hvorvidt et cyberangrep har en betydelig virkning som omtalt i artikkel 1 nr. 1, omfatteromfanget, størrelsen, innvirkningen eller alvorlighetsgraden av forstyrrelsene som forårsakes, blant annet på økonomisk og samfunnsmessig virksomhet, grunnleggende tjenester, kritiske statlige funksjoner, offentlig orden eller offentlig sikkerhet,antallet fysiske eller juridiske personer, enheter eller organer som påvirkes,antallet berørte medlemsstater,verdien av det økonomiske tapet som forårsakes, for eksempel av omfattende tyveri av penger, formuesgoder eller immaterielle eiendeler,den økonomiske fordelen som gjerningspersonen oppnår, for seg selv eller andre,mengden eller typen data som er stjålet, eller omfanget av dataovertredelsene, ellertypen kommersielt sensitive data som det er oppnådd tilgang til.
+Faktorene som avgjør hvorvidt et cyberangrep har en betydelig virkning som omtalt i artikkel 1 nr. 1, omfatter
+
+1. omfanget, størrelsen, innvirkningen eller alvorlighetsgraden av forstyrrelsene som forårsakes, blant annet på økonomisk og samfunnsmessig virksomhet, grunnleggende tjenester, kritiske statlige funksjoner, offentlig orden eller offentlig sikkerhet,
+2. antallet fysiske eller juridiske personer, enheter eller organer som påvirkes,
+3. antallet berørte medlemsstater,
+4. verdien av det økonomiske tapet som forårsakes, for eksempel av omfattende tyveri av penger, formuesgoder eller immaterielle eiendeler,
+5. den økonomiske fordelen som gjerningspersonen oppnår, for seg selv eller andre,
+6. mengden eller typen data som er stjålet, eller omfanget av dataovertredelsene, eller
+7. typen kommersielt sensitive data som det er oppnådd tilgang til.
 
 ### Artikkel 3
 
@@ -92,17 +152,35 @@ Faktorene som avgjør hvorvidt et cyberangrep har en betydelig virkning som omta
 
 2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
 
-3\. Vedlegg I omfatter følgende, som fastlagt av Rådet i samsvar med artikkel 5 nr. 1 i beslutning (FUSP) 2019/797:Fysiske eller juridiske personer, enheter eller organer som er ansvarlige for cyberangrep eller forsøk på cyberangrep.Fysiske eller juridiske personer, enheter eller organer som yter økonomisk, teknisk eller materiell støtte til eller på annen måte er innblandet i cyberangrep eller forsøk på cyberangrep, blant annet ved å planlegge, forberede, delta i, lede, bistå i eller oppmuntre til slike angrep, eller ved å tilrettelegge for slike angrep gjennom handling eller unnlatelse.Fysiske eller juridiske personer, enheter eller organer som er tilknyttet fysiske eller juridiske personer, enheter eller organer omfattet av bokstav a) og b) i dette nummeret.
+3\. Vedlegg I omfatter følgende, som fastlagt av Rådet i samsvar med artikkel 5 nr. 1 i beslutning (FUSP) 2019/797:
+
+1. Fysiske eller juridiske personer, enheter eller organer som er ansvarlige for cyberangrep eller forsøk på cyberangrep.
+2. Fysiske eller juridiske personer, enheter eller organer som yter økonomisk, teknisk eller materiell støtte til eller på annen måte er innblandet i cyberangrep eller forsøk på cyberangrep, blant annet ved å planlegge, forberede, delta i, lede, bistå i eller oppmuntre til slike angrep, eller ved å tilrettelegge for slike angrep gjennom handling eller unnlatelse.
+3. Fysiske eller juridiske personer, enheter eller organer som er tilknyttet fysiske eller juridiske personer, enheter eller organer omfattet av bokstav a) og b) i dette nummeret.
 
 ### Artikkel 4
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos de fysiske eller juridiske personene, enhetene eller organene oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
+
+1. er nødvendige for å dekke grunnleggende behov hos de fysiske eller juridiske personene, enhetene eller organene oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+4. er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, eller
+5. skal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
 2\. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som er gitt i henhold til nr. 1.
 
 ### Artikkel 4a
 
-1\. [Artikkel 3 nr. 1](forskrift/2021-05-11-1459/a3/nummer/1) og [2](forskrift/2021-05-11-1459/a3/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+1\. [Artikkel 3 nr. 1](forskrift/2021-05-11-1459/a3/nummer/1) og [2](forskrift/2021-05-11-1459/a3/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,
+6. medlemsstatenes særlige organer, eller
+7. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 
 2\. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i [artikkel 3 nr. 1](forskrift/2021-05-11-1459/a3/nummer/1) og [2](forskrift/2021-05-11-1459/a3/nummer/2) og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
 
@@ -112,13 +190,21 @@ Faktorene som avgjør hvorvidt et cyberangrep har en betydelig virkning som omta
 
 ### Artikkel 5
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I, oganerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I, og
+4. anerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
 2\. Medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som er gitt i henhold til nr. 1.
 
 ### Artikkel 6
 
-1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, ogbetalingen ikke er i strid med artikkel 3 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått at
+
+1. pengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, og
+2. betalingen ikke er i strid med artikkel 3 nr. 2.
 
 2\. Medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som er gitt i henhold til nr. 1.
 
@@ -126,11 +212,20 @@ Faktorene som avgjør hvorvidt et cyberangrep har en betydelig virkning som omta
 
 1\. Bestemmelsen i artikkel 3 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-2\. Artikkel 3 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 3 nr. 1 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,forutsatt at alle renter eller øvrige inntekter og betalinger fortsatt er omfattet av tiltakene fastsatt i artikkel 3 nr. 1.
+2\. Artikkel 3 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 3 nr. 1 ble oppført i vedlegg I, eller
+3. beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,
+
+forutsatt at alle renter eller øvrige inntekter og betalinger fortsatt er omfattet av tiltakene fastsatt i artikkel 3 nr. 1.
 
 ### Artikkel 8
 
-1\. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a).
+1\. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer
+
+1. omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, og
+2. samarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a).
 
 2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
@@ -148,7 +243,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 11
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a).
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
@@ -156,7 +254,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 12
 
-1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til artikkel 3, og tillatelser som er gitt i henhold til artikkel 4, 5 og 6,problemer med brudd på og håndheving av bestemmelsene samt rettsavgjørelser truffet av nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig om
+
+1. penger som er frosset i henhold til artikkel 3, og tillatelser som er gitt i henhold til artikkel 4, 5 og 6,
+2. problemer med brudd på og håndheving av bestemmelsene samt rettsavgjørelser truffet av nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
@@ -186,7 +287,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 16
 
-1\. Kommisjonen skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt den i henhold til denne forordningen. Disse oppgavene består blant annet iå føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs restriktive tiltak, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Kommisjonen skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt den i henhold til denne forordningen. Disse oppgavene består blant annet i
+
+1. å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs restriktive tiltak, som begge er offentlig tilgjengelige,
+2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
 2\. For formålet med denne forordningen skal Kommisjonens tjeneste oppført i vedlegg II utpekes som «behandlingsansvarlig» for Kommisjonen i henhold til [artikkel 3 nr. 8 i forordning (EU) 2018/1725](eu/32018r1725/a3) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til den nevnte forordningen.
 
@@ -200,7 +304,13 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 18
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 19
 

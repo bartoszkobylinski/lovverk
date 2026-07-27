@@ -15,7 +15,7 @@ xml_hash: "c4e0e26faf2c15b3e44a0a8e651600dfb3743884c1223f0b06d98de97614bca0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,17 +42,32 @@ Universitetet i Sørøst-Norge kan tildele grader og yrkesutdanninger i samsvar 
 
 ### § 2-2. Bachelorgrad
 
-(1) Graden bachelor tildeles for treårige utdanninger på 180 studiepoeng, i ett av følgende studieløp:studieprogram av 180 studiepoengs omfang som i henhold til nasjonal rammeplan gir bachelorgradstudieprogram av 180 studiepoengs omfang, med fordypning av minst 80 studiepoengs omfang som i henhold til vedtak i styret for Universitetet i Sørøst-Norge gir bachelorgradyrkesrettet studieløp med omfang på minst 120 studiepoengs omfang, med tillegg av emner eller emnegrupper på til sammen 60 studiepoengselvkomponert studieløp av 180 studiepoengs omfang, jf. tredje leddfullførte tre første studieår (180 studiepoeng) av fireårig grunnskolelærerutdanning etter forskrift om rammeplan.
+(1) Graden bachelor tildeles for treårige utdanninger på 180 studiepoeng, i ett av følgende studieløp:
+
+1. studieprogram av 180 studiepoengs omfang som i henhold til nasjonal rammeplan gir bachelorgrad
+2. studieprogram av 180 studiepoengs omfang, med fordypning av minst 80 studiepoengs omfang som i henhold til vedtak i styret for Universitetet i Sørøst-Norge gir bachelorgrad
+3. yrkesrettet studieløp med omfang på minst 120 studiepoengs omfang, med tillegg av emner eller emnegrupper på til sammen 60 studiepoeng
+4. selvkomponert studieløp av 180 studiepoengs omfang, jf. tredje ledd
+5. fullførte tre første studieår (180 studiepoeng) av fireårig grunnskolelærerutdanning etter forskrift om rammeplan.
 
 (2) I grunnlaget for graden skal det som hovedregel inngå en bacheloroppgave eller annet selvstendig arbeid. Dette arbeidet kan være av teoretisk, praktisk eller kunstnerisk art, og kan være utført individuelt eller i gruppe.
 
-(3) Det kan etter søknad utstedes vitnemål for en selvkomponert bachelorgrad, basert på følgende grunnkrav:Graden må inneholde en fordypning på minst 80 studiepoeng, innenfor et fagområde som tilbys av USN.I grunnlaget for graden skal det som hovedregel inngå en bacheloroppgave eller annet selvstendig arbeid. Dette arbeidet kan være av teoretisk, praktisk eller kunstnerisk art, og kan være utført individuelt eller i gruppe. Det kan også stilles krav om at graden skal inneholde et fellesemne for bachelorstudenter ved USN.Minst 60 studiepoeng må være tatt ved USN, og 60 studiepoeng kan ikke ha inngått i en tidligere grad eller yrkesutdanning.Emneporteføljen må avvike med minst 30 studiepoeng fra obligatoriske emner i en akkreditert bachelorgrad ved USN.
+(3) Det kan etter søknad utstedes vitnemål for en selvkomponert bachelorgrad, basert på følgende grunnkrav:
+
+1. Graden må inneholde en fordypning på minst 80 studiepoeng, innenfor et fagområde som tilbys av USN.
+2. I grunnlaget for graden skal det som hovedregel inngå en bacheloroppgave eller annet selvstendig arbeid. Dette arbeidet kan være av teoretisk, praktisk eller kunstnerisk art, og kan være utført individuelt eller i gruppe. Det kan også stilles krav om at graden skal inneholde et fellesemne for bachelorstudenter ved USN.
+3. Minst 60 studiepoeng må være tatt ved USN, og 60 studiepoeng kan ikke ha inngått i en tidligere grad eller yrkesutdanning.
+4. Emneporteføljen må avvike med minst 30 studiepoeng fra obligatoriske emner i en akkreditert bachelorgrad ved USN.
 
 (4) Studentene har krav på veiledning i arbeidet med bacheloroppgaven. Det kan settes som krav at studenten må ha møtt til veiledning for å kunne levere oppgaven, jf. [§ 7-2](forskrift/2024-06-19-1376/§7-2). Omfanget av veiledningen skal fremgå av emneplanen.
 
 ### § 2-3. Mastergrad
 
-(1) De generelle kravene til mastergraden er fastsatt i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392). Graden master tildeles for:mastergrad av 120 studiepoengs omfangintegrert mastergrad av 300 studiepoengs omfangerfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
+(1) De generelle kravene til mastergraden er fastsatt i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392). Graden master tildeles for:
+
+1. mastergrad av 120 studiepoengs omfang
+2. integrert mastergrad av 300 studiepoengs omfang
+3. erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
 
 (2) Masteroppgaver kan ha et omfang på 30 til 60 studiepoeng, med mindre annet følger av [forskrift om krav til mastergraden § 6](forskrift/2005-12-01-1392/§6).
 
@@ -94,7 +109,12 @@ Universitetet i Sørøst-Norge kan tildele grader og yrkesutdanninger i samsvar 
 
 (1) Studenten skal ha mulighet til å gjennomføre tre til tolv måneder av utdanningen i utlandet ved universitetets partnerinstitusjoner som del av sin bachelor- eller mastergrad.
 
-(2) Studenten må oppfylle følgende krav for delstudier i utlandet:ha fullført og bestått minst 60 studiepoeng ved Universitetet i Sørøst-Norge eller annen utdanningsinstitusjonoppfylle kravene hos mottakerinstitusjonenoppfylle øvrige krav fastsatt i studie- og emneplanenikke være under særskilt skikkethetsvurdering, jf. [forskrift til universitets- og høyskoleloven kapittel 7](forskrift/2024-06-28-1392/kap7).
+(2) Studenten må oppfylle følgende krav for delstudier i utlandet:
+
+1. ha fullført og bestått minst 60 studiepoeng ved Universitetet i Sørøst-Norge eller annen utdanningsinstitusjon
+2. oppfylle kravene hos mottakerinstitusjonen
+3. oppfylle øvrige krav fastsatt i studie- og emneplanen
+4. ikke være under særskilt skikkethetsvurdering, jf. [forskrift til universitets- og høyskoleloven kapittel 7](forskrift/2024-06-28-1392/kap7).
 
 (3) I særlige tilfeller kan fakultetet etter søknad gi dispensasjon for kravene etter annet ledd bokstav a.
 
@@ -164,7 +184,17 @@ Studentene skal ha egen standard bærbar pc for bruk i undervisning og vurdering
 
 ### § 4-5. Tap av studierett
 
-(1) Studieretten opphører når:studenten har brukt opp alle forsøkene på å fullføre et emne, eksamen eller praksisperiode uten bestått resultat, jf. [§§ 5-5](forskrift/2024-06-19-1376/§5-5) og [7-6](forskrift/2024-06-19-1376/§7-6).studenten ikke har semesterregistrert seg innen fastsatt friststudenten ikke innen fastsatt frist har betalt semesteravgift eller annen avgift fastsatt i samsvar med [forskrift til universitets- og høyskoleloven kapittel 4](forskrift/2024-06-28-1392/kap4)studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurtstudenten ikke har bestått tresemesteremnene i matematikk og fysikk innen starten av andre studieårstudenten ikke bekrefter og oppdaterer sin utdanningsplan innen fastsatt friststudenten ikke har produsert studiepoeng i henhold til krav om studieprogresjon, jf. [§ 4-2](forskrift/2024-06-19-1376/§4-2)studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [forskrift om opptak ved Universitetet i Sørøst-Norge § 14](forskrift/2023-12-13-2111/§14)studenten ikke har fullført studieprogrammet innen forlenget studieløp, jf. [§ 4-1](forskrift/2024-06-19-1376/§4-1).
+(1) Studieretten opphører når:
+
+1. studenten har brukt opp alle forsøkene på å fullføre et emne, eksamen eller praksisperiode uten bestått resultat, jf. [§§ 5-5](forskrift/2024-06-19-1376/§5-5) og [7-6](forskrift/2024-06-19-1376/§7-6).
+2. studenten ikke har semesterregistrert seg innen fastsatt frist
+3. studenten ikke innen fastsatt frist har betalt semesteravgift eller annen avgift fastsatt i samsvar med [forskrift til universitets- og høyskoleloven kapittel 4](forskrift/2024-06-28-1392/kap4)
+4. studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt
+5. studenten ikke har bestått tresemesteremnene i matematikk og fysikk innen starten av andre studieår
+6. studenten ikke bekrefter og oppdaterer sin utdanningsplan innen fastsatt frist
+7. studenten ikke har produsert studiepoeng i henhold til krav om studieprogresjon, jf. [§ 4-2](forskrift/2024-06-19-1376/§4-2)
+8. studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [forskrift om opptak ved Universitetet i Sørøst-Norge § 14](forskrift/2023-12-13-2111/§14)
+9. studenten ikke har fullført studieprogrammet innen forlenget studieløp, jf. [§ 4-1](forskrift/2024-06-19-1376/§4-1).
 
 (2) Dersom studieretten opphører skal det fattes et skriftlig vedtak om tap av studierett.
 
@@ -224,7 +254,19 @@ Studenten har adgang til å levere ny eller omarbeidet praksisrapport én gang d
 
 (1) Eksamensformen skal måle studentens kunnskaper, ferdigheter og generelle kompetanse i henhold til emnets læringsutbytte.
 
-(2) Følgende eksamensformer kan benyttes:skriftlig eksamen med tilsynmuntlig eksamenhjemmeeksamenpraktisk eksamen og arbeidmappevurderingløpende vurderinglangsgående vurderinggradsoppgave med eller uten justerende muntlig høringsemesteroppgaveprosjektpraksis.
+(2) Følgende eksamensformer kan benyttes:
+
+1. skriftlig eksamen med tilsyn
+2. muntlig eksamen
+3. hjemmeeksamen
+4. praktisk eksamen og arbeid
+5. mappevurdering
+6. løpende vurdering
+7. langsgående vurdering
+8. gradsoppgave med eller uten justerende muntlig høring
+9. semesteroppgave
+10. prosjekt
+11. praksis.
 
 (3) Fakultetet vurderer om eksamensformene skal benyttes hver for seg eller i kombinasjon, individuelt eller i gruppe. Der hvor det gjennomføres deleksamener i et emne, skal hver deleksamen bestå av én eksamensform.
 
@@ -312,7 +354,15 @@ Fakultetet kan fastsette en eksamensavgift for eksamensforsøk ut over første o
 
 (4) Ved flere forsøk teller beste karakter. Det kan stilles krav om at studenten må følge undervisningsopplegget og gjennomføre eventuelle obligatoriske aktiviteter etter [§ 7-1](forskrift/2024-06-19-1376/§7-1) på nytt.
 
-(5) Med tellende forsøk menes at studenten:har bestått eksamentrekker seg etter avmeldingsfristens utløp eller under eksamenikke møter til eksamenikke leverer skriftlig eksamen innen oppgitt fristikke leverer bachelor- eller masteroppgave innen ordinær eller utsatt fristfår karakteren F / «ikke bestått»får eksamen annullert på grunn av fusk eller forsøk på fusk.
+(5) Med tellende forsøk menes at studenten:
+
+1. har bestått eksamen
+2. trekker seg etter avmeldingsfristens utløp eller under eksamen
+3. ikke møter til eksamen
+4. ikke leverer skriftlig eksamen innen oppgitt frist
+5. ikke leverer bachelor- eller masteroppgave innen ordinær eller utsatt frist
+6. får karakteren F / «ikke bestått»
+7. får eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (6) Fakultetet kan i emneplanen angi vilkår for å innvilge utsatt innleveringsfrist for gradsoppgave. Fakultetet kan også bestemme om oppgaven kan innleveres i ny eller omarbeidet form. Dersom vilkårene for andre forsøk ikke er oppfylt, fatter fakultetet et avvisningsvedtak.
 
@@ -434,7 +484,11 @@ Når et emne eller studieprogram tas ut av undervisningstilbudet, plikter univer
 
 (1) Fakultetet oppnevner og godkjenner sensorer.
 
-(2) Ekstern sensor må ha minst én av følgende kvalifikasjoner:være ansatt på lektor- eller amanuensisnivå eller høyere nivå ved universitet, høyskole eller annen forskningsinstitusjonha dokumentert, vitenskapelig kompetanse innen aktuelt fagområde som kvalifiserer for ansettelse som minimum lektor eller amanuensis ved universitet, høyskole eller annen forskningsinstitusjoni særlig tilfelle være kvalifisert innen emnet gjennom relevant yrkespraksis.
+(2) Ekstern sensor må ha minst én av følgende kvalifikasjoner:
+
+1. være ansatt på lektor- eller amanuensisnivå eller høyere nivå ved universitet, høyskole eller annen forskningsinstitusjon
+2. ha dokumentert, vitenskapelig kompetanse innen aktuelt fagområde som kvalifiserer for ansettelse som minimum lektor eller amanuensis ved universitet, høyskole eller annen forskningsinstitusjon
+3. i særlig tilfelle være kvalifisert innen emnet gjennom relevant yrkespraksis.
 
 (3) Ekstern sensor kan ikke være tilsatt i hovedstilling eller bistilling ved universitetet eller ha vært tilsatt i slike stillinger det forrige studieåret. Ekstern sensor kan heller ikke ha hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet i samme studieår som vurderingen finner sted*.*
 
@@ -482,7 +536,18 @@ Retten til begrunnelse for sensur, klage på formelle feil og klage på sensurve
 
 (1) Fusk eller forsøk på fusk kan medføre annullering av eksamen, obligatoriske aktiviteter eller kurs, utestenging fra universitetet og tap av retten til å avlegge eksamen i inntil ett år ved alle utdanningsinstitusjoner etter [universitets- og høyskoleloven](lov/2024-03-08-9). I særlig grove tilfeller kan studenten utestenges i inntil to år, jf. [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
 
-(2) Som fusk eller forsøk på fusk regnes følgende:ulovlig bruk av tillatte hjelpemidler, eller bruk av andre hjelpemidler enn de som er tillatt i emneplanen. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig ved gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i brukulovlig samarbeid med andrebruke andres arbeid uten tilstrekkelig kildehenvisning og markering av sitatgjenbruk av egen eksamensbesvarelse uten tilstrekkelig kildehenvisning til sitt eget arbeid, som tidligere har gitt uttelling i et bestått resultatlevere arbeid som helt eller delvis er utarbeidet av andre personerulovlig bruk av kunstig intelligensforfalskning eller fabrikkering av datahandle i strid med fastsatte krav til den enkelte eksamen som kan være egnet til å gi en urettmessig fordelmedvirkning til fuskforsøk på å skaffe seg adgang til eksamen ved å fuske på obligatoriske aktiviteter som er gitt som vilkår for å avlegge eksamen.
+(2) Som fusk eller forsøk på fusk regnes følgende:
+
+1. ulovlig bruk av tillatte hjelpemidler, eller bruk av andre hjelpemidler enn de som er tillatt i emneplanen. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig ved gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk
+2. ulovlig samarbeid med andre
+3. bruke andres arbeid uten tilstrekkelig kildehenvisning og markering av sitat
+4. gjenbruk av egen eksamensbesvarelse uten tilstrekkelig kildehenvisning til sitt eget arbeid, som tidligere har gitt uttelling i et bestått resultat
+5. levere arbeid som helt eller delvis er utarbeidet av andre personer
+6. ulovlig bruk av kunstig intelligens
+7. forfalskning eller fabrikkering av data
+8. handle i strid med fastsatte krav til den enkelte eksamen som kan være egnet til å gi en urettmessig fordel
+9. medvirkning til fusk
+10. forsøk på å skaffe seg adgang til eksamen ved å fuske på obligatoriske aktiviteter som er gitt som vilkår for å avlegge eksamen.
 
 (3) Når det oppstår mistanke om fusk eller forsøk på fusk ved skriftlig eksamen med tilsyn, skal studenten straks gjøres oppmerksom på dette. Studenten skal gis rett til å fullføre eksamen.
 

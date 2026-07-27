@@ -34,7 +34,11 @@ Med inntekt i denne forskriften menes pensjonsgivende inntekt etter [folketrygdl
 
 ### § 2. Inntekt som ikke skal føre til reduksjon av tidligpensjon
 
-Følgende inntekter skal ikke føre til reduksjon i pensjonen, selv om de defineres som pensjonsgivende inntekt i folketrygden:Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av tidligpensjon startet (etterslepsinntekt).Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av tidligpensjon startet.
+Følgende inntekter skal ikke føre til reduksjon i pensjonen, selv om de defineres som pensjonsgivende inntekt i folketrygden:
+
+1. Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).
+2. Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av tidligpensjon startet (etterslepsinntekt).
+3. Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av tidligpensjon startet.
 
 Medlemmet må selv opplyse om og dokumentere slike inntekter.
 
@@ -60,7 +64,11 @@ Etteroppgjør utsettes ikke som følge av klage over skattefastsettingen.
 
 ### § 5. Inntekt som ikke skal føre til reduksjon av særalderspåslag
 
-Følgende inntekter skal ikke føre til reduksjon i særalderspåslaget, selv om de defineres som pensjonsgivende inntekt i folketrygden:Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av særalderspåslaget startet (etterslepsinntekt).Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av særalderspåslaget startet.
+Følgende inntekter skal ikke føre til reduksjon i særalderspåslaget, selv om de defineres som pensjonsgivende inntekt i folketrygden:
+
+1. Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).
+2. Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av særalderspåslaget startet (etterslepsinntekt).
+3. Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av særalderspåslaget startet.
 
 Medlemmet må selv opplyse om og dokumentere slike inntekter.
 

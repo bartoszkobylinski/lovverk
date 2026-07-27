@@ -34,13 +34,29 @@ Tiltaket kan gjennomføres i samarbeid med en offentlig aktør.
 
 ## § 3. Hva det kan tildeles tilskudd til
 
-Det kan gis tilskudd til tiltak eller prosjekter som bidrar til å oppfylle formålet under [§ 1](forskrift/2025-04-08-633/§1), ved åbidra til læring og samarbeid i nettverk og partnerskap på tvers av fagområder, sektorer, forvaltningsnivå og geografiske grenserbidra til å øke og formidle kunnskap om [plan- og bygningslovens](lov/2008-06-27-71) krav, hensyn, muligheter og begrensningerbidra til å øke og formidle kunnskap om utarbeiding og bruk av blant annet kart og geodatabidra til å øke og formidle kunnskap om samordning mellom plan og byggesak, digitalisering av produkter og prosesserfremme gode arbeidsmåter og samarbeidsmodeller.
+Det kan gis tilskudd til tiltak eller prosjekter som bidrar til å oppfylle formålet under [§ 1](forskrift/2025-04-08-633/§1), ved å
+
+1. bidra til læring og samarbeid i nettverk og partnerskap på tvers av fagområder, sektorer, forvaltningsnivå og geografiske grenser
+2. bidra til å øke og formidle kunnskap om [plan- og bygningslovens](lov/2008-06-27-71) krav, hensyn, muligheter og begrensninger
+3. bidra til å øke og formidle kunnskap om utarbeiding og bruk av blant annet kart og geodata
+4. bidra til å øke og formidle kunnskap om samordning mellom plan og byggesak, digitalisering av produkter og prosesser
+5. fremme gode arbeidsmåter og samarbeidsmodeller.
 
 ## § 4. Krav til søknaden
 
 Søknad om tilskudd skal sendes til Kommunal- og distriktsdepartementet i tråd med de krav som kommer frem av utlysningen. Søknadsfristen fastsettes og kunngjøres av Kommunal- og distriktsdepartementet.
 
-Søknaden skal inneholde:søkerens/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson/ansvarlig søkerhva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle formålet med tilskuddsordningensøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd, søkt om eller mottatt, framgåregenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker utøver økonomisk aktivitet, jf. [§ 9](forskrift/2025-04-08-633/§9)om søker har, eller forventer å få, refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaketopplysninger om eventuelle samarbeidspartnere eller nettverkopplysninger om tiltaket gjennomføres i samarbeid med eller i nettverk med en offentlig aktør.
+Søknaden skal inneholde:
+
+1. søkerens/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson/ansvarlig søker
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle formålet med tilskuddsordningen
+3. søknadsbeløp
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd, søkt om eller mottatt, framgår
+5. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+6. opplysning om søker utøver økonomisk aktivitet, jf. [§ 9](forskrift/2025-04-08-633/§9)
+7. om søker har, eller forventer å få, refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket
+8. opplysninger om eventuelle samarbeidspartnere eller nettverk
+9. opplysninger om tiltaket gjennomføres i samarbeid med eller i nettverk med en offentlig aktør.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
@@ -48,11 +64,18 @@ Kommunal- og distriktsdepartementet kan avvise søknader som kommer inn etter s�
 
 ## § 5. Rett til å innhente ytterligere opplysninger før en søknad blir avgjort
 
-Kommunal- og distriktsdepartementet kankreve at søkeren gir ytterligere opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregjennomføre undersøkelser som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker til dette.
+Kommunal- og distriktsdepartementet kan
+
+1. kreve at søkeren gir ytterligere opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gjennomføre undersøkelser som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker til dette.
 
 ## § 6. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Kommunal- og distriktsdepartementet dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Kommunal- og distriktsdepartementet dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 7. Behandling av søknad og utbetaling av tilskudd
 

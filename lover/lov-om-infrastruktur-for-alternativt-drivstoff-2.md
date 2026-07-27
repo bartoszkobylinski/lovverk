@@ -15,7 +15,7 @@ xml_hash: "c814f1db9e55c2549384f64490b7e1e839cdea0981258e774470110440f5a5ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32023R1804"
@@ -55,7 +55,11 @@ Departementet kan gi forskrift om tvangsmulkt, herunder om tvangsmulktens størr
 
 ## § 6. Overtredelsesgebyr
 
-Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomtovertrer forordning [(EU) 2023/1804](eu/32023r1804) artikkel 5, 19, 20 og 21.overtrer forskrift gitt i medhold av [§ 2](lov/2026-06-19-63/§2), når det er fastsatt i forskrift at overtredelsen kan medføre slik sanksjon.overtrer pålegg fastsatt med hjemmel i [§ 4](lov/2026-06-19-63/§4).
+Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt
+
+1. overtrer forordning [(EU) 2023/1804](eu/32023r1804) artikkel 5, 19, 20 og 21.
+2. overtrer forskrift gitt i medhold av [§ 2](lov/2026-06-19-63/§2), når det er fastsatt i forskrift at overtredelsen kan medføre slik sanksjon.
+3. overtrer pålegg fastsatt med hjemmel i [§ 4](lov/2026-06-19-63/§4).
 
 Departementet kan gi forskrift om fastsettelse og beregning av overtredelsesgebyr.
 

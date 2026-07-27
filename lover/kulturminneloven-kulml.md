@@ -15,7 +15,7 @@ xml_hash: "d2a6d23b60b23fa12bba403bd45121149cb5dffbe653909811befbab569c776e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,18 @@ Er marken over et automatisk fredet kulturminne eller i et område som nevnt i [
 
 ### § 4. Automatisk fredete kulturminner.
 
-Følgende kulturminner fra oldtid og middelalder (inntil år 1537) er fredet:Boplasser, huler, hellere med spor etter folk som har holdt til eller arbeidet der, hus- eller kirketufter, kirker, hus og byggverk av alle slag, og rester eller deler av dem, gårdshauger, gårds- og tunanlegg og andre bebyggelseskonsentrasjoner som stapelplasser og markedsplasser, byanlegg og liknende eller rester av dem.Arbeids- og verkstedsplasser av alle slag som steinbrudd og annen bergverksdrift, jernvinneplasser, trekull- og tjæremiler og andre spor etter håndverk og industri.Spor etter åkerbruk av alle slag, som rydningsrøyser, veiter og pløyespor, gjerder og innhegninger og jakt-, fiske- og fangstinnretninger.Vegfar av alle slag med eller uten brolegging av stein, tre eller annet materiale, demninger, broer, vadested, havneanlegg og åreskifter, båtstøer og båtopptrekk, fergeleier og båtdrag eller rester av slike, seilsperringer, vegmerker og seilmerker.Forsvarsverk av alle slag som bygdeborger, skanser, voller, vollgraver, festningsanlegg og rester av dem og dessuten varder, veter o.l.Tingsteder, kultplasser, varp, brønner, kilder og andre steder som arkeologiske funn, tradisjon, tro, sagn eller skikk knytter seg til.Steiner og fast fjell med innskrifter eller bilder som runeinnskrifter, helleristninger og hellemalinger, skålgroper, sliperenner og annen bergskurd.Bautasteiner, kors og andre slike minnesmerker.Steinsetninger, steinlegninger o.l.Gravminner av ethvert slag, enkeltvis eller samlede felt, som gravhauger, gravrøyser, gravkammer, brannflakgraver, urnegraver, kistegraver, kirkegårder og deres innhengninger og gravmæler av alle slag.
+Følgende kulturminner fra oldtid og middelalder (inntil år 1537) er fredet:
+
+1. Boplasser, huler, hellere med spor etter folk som har holdt til eller arbeidet der, hus- eller kirketufter, kirker, hus og byggverk av alle slag, og rester eller deler av dem, gårdshauger, gårds- og tunanlegg og andre bebyggelseskonsentrasjoner som stapelplasser og markedsplasser, byanlegg og liknende eller rester av dem.
+2. Arbeids- og verkstedsplasser av alle slag som steinbrudd og annen bergverksdrift, jernvinneplasser, trekull- og tjæremiler og andre spor etter håndverk og industri.
+3. Spor etter åkerbruk av alle slag, som rydningsrøyser, veiter og pløyespor, gjerder og innhegninger og jakt-, fiske- og fangstinnretninger.
+4. Vegfar av alle slag med eller uten brolegging av stein, tre eller annet materiale, demninger, broer, vadested, havneanlegg og åreskifter, båtstøer og båtopptrekk, fergeleier og båtdrag eller rester av slike, seilsperringer, vegmerker og seilmerker.
+5. Forsvarsverk av alle slag som bygdeborger, skanser, voller, vollgraver, festningsanlegg og rester av dem og dessuten varder, veter o.l.
+6. Tingsteder, kultplasser, varp, brønner, kilder og andre steder som arkeologiske funn, tradisjon, tro, sagn eller skikk knytter seg til.
+7. Steiner og fast fjell med innskrifter eller bilder som runeinnskrifter, helleristninger og hellemalinger, skålgroper, sliperenner og annen bergskurd.
+8. Bautasteiner, kors og andre slike minnesmerker.
+9. Steinsetninger, steinlegninger o.l.
+10. Gravminner av ethvert slag, enkeltvis eller samlede felt, som gravhauger, gravrøyser, gravkammer, brannflakgraver, urnegraver, kistegraver, kirkegårder og deres innhengninger og gravmæler av alle slag.
 
 Det samme gjelder samiske kulturminner som nevnt ovenfor fra år 1917 eller eldre.
 
@@ -126,7 +137,10 @@ Departementet kan fastsette nærmere regler for gjennomføringen av bestemmelsen
 
 ### § 11. Vedlikehold, gransking m.v.
 
-Når grunneier eller bruker er varslet, har vedkommende myndighet adgang til:Å søke etter, registrere, avbilde, holde i stand, restaurere, bygge opp igjen, flytte og gjerde inn automatisk fredete kulturminner og gjøre de tiltak som trengs til pleie og anskueliggjørelse av dem, herunder rydde området omkring.Å granske slike kulturminner ved utgraving eller på annen måte. Etter granskingen skal kulturminnet settes i stand eller bevares hvis vedkommende myndighet etter loven her ikke fastsetter noe annet.
+Når grunneier eller bruker er varslet, har vedkommende myndighet adgang til:
+
+1. Å søke etter, registrere, avbilde, holde i stand, restaurere, bygge opp igjen, flytte og gjerde inn automatisk fredete kulturminner og gjøre de tiltak som trengs til pleie og anskueliggjørelse av dem, herunder rydde området omkring.
+2. Å granske slike kulturminner ved utgraving eller på annen måte. Etter granskingen skal kulturminnet settes i stand eller bevares hvis vedkommende myndighet etter loven her ikke fastsetter noe annet.
 
 I mangel av minnelig overenskomst fastsettes erstatning for inngrep i grunn og rettigheter ved skjønn. Skjønnet styres av jordskifteretten.
 
@@ -138,7 +152,11 @@ I mangel av minnelig overenskomst fastsettes erstatning for inngrep i grunn og r
 
 ### § 12. Eiendomsretten til løse kulturminner.
 
-Når det synes klart at det ikke lenger er rimelig mulighet for å finne ut om det er noen eier eller hvem som er eier, er følgende løse kulturminner som kommer for dagen tilfeldig, ved funn, ved utgravninger eller på annen måte statens eiendom:Ting fra oldtid og middelalder (inntil år 1537) som våpen, redskap, kultgjenstander samt steiner, trestykker eller gjenstander av annet materiale med innskrifter eller bilder, bygningsrester uten samhørighet med bygninger eller rester av disse, innbo, kirkeinventar, smykker, arkivsaker, skjeletter og skjelettrester o.l.Mynter fra før år 1650.Samiske kulturminner av den art som er nevnt under a og som er fra år 1917 eller eldre.
+Når det synes klart at det ikke lenger er rimelig mulighet for å finne ut om det er noen eier eller hvem som er eier, er følgende løse kulturminner som kommer for dagen tilfeldig, ved funn, ved utgravninger eller på annen måte statens eiendom:
+
+1. Ting fra oldtid og middelalder (inntil år 1537) som våpen, redskap, kultgjenstander samt steiner, trestykker eller gjenstander av annet materiale med innskrifter eller bilder, bygningsrester uten samhørighet med bygninger eller rester av disse, innbo, kirkeinventar, smykker, arkivsaker, skjeletter og skjelettrester o.l.
+2. Mynter fra før år 1650.
+3. Samiske kulturminner av den art som er nevnt under a og som er fra år 1917 eller eldre.
 
 Departementet fastsetter i tvilstilfelle med bindende virkning hva som er løse kulturminner i medhold av første ledd a-c. Når særlige grunner foreligger, kan det fastsettes at slike gjenstander skal anses som kulturminner uten hensyn til alder.
 
@@ -272,9 +290,15 @@ Eier eller bruker må varsles før skjøtsel etter første ledd iverksettes.
 
 ### § 22. Regler for saksbehandling.
 
-1\. Når et arbeid med fredning etter denne lov (jf. [§§ 15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20)) starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner for å drøfte avgrensing av området, innhold i fredningsbestemmelser og spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift om samordnet behandling av planer etter [plan- og bygningsloven](lov/2008-06-27-71) og fredning etter denne lov.Fredningsmyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte fredningstiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.På et tidlig tidspunkt i forberedelse av fredningssaken skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.
+1\. Når et arbeid med fredning etter denne lov (jf. [§§ 15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20)) starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner for å drøfte avgrensing av området, innhold i fredningsbestemmelser og spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift om samordnet behandling av planer etter [plan- og bygningsloven](lov/2008-06-27-71) og fredning etter denne lov.
 
-2\. Når forslag om fredning er utarbeidet skal det kunngjøres i Norsk Lysingsblad og i minst 2 aviser som er alminnelig lest på stedet at forslag om fredning er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive hva forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere i området underrettes ved brev.I samarbeid med kunngjøringen skal saken legges fram for berørte statlige fagorganer til uttalelse.
+Fredningsmyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte fredningstiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.
+
+På et tidlig tidspunkt i forberedelse av fredningssaken skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.
+
+2\. Når forslag om fredning er utarbeidet skal det kunngjøres i Norsk Lysingsblad og i minst 2 aviser som er alminnelig lest på stedet at forslag om fredning er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive hva forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere i området underrettes ved brev.
+
+I samarbeid med kunngjøringen skal saken legges fram for berørte statlige fagorganer til uttalelse.
 
 3\. Før vedtak om fredning treffes, skal forslaget forelegges kommunestyret. Det kan settes en frist for kommunestyrets uttalelse.
 
@@ -392,4 +416,8 @@ Departementet kan gi nærmere regler om utfylling og gjennomføring av loven.
 
 1. Denne loven trer i kraft fra den tid Kongen bestemmer.1 Fra lovens ikrafttreden oppheves – – –.
 
-1 Fra 15 feb 1979 iflg. res. 9 feb 1979. I [lov 3 juli 1992 nr. 96](lov/1992-07-03-96) II annet og tredje ledd er bestemt:«Lovens §§ 15 a – 18 gjelder også for bygninger, anlegg m.v. som er fredet med hjemmel i [§ 15](lov/1978-06-09-50/§15) før lovens ikrafttreden.[Lovens § 21](lov/1978-06-09-50/§21) om skjøtsel gjelder også for områder som er fredet med hjemmel i [§ 21](lov/1978-06-09-50/§21) før lovens ikrafttreden.»
+1 Fra 15 feb 1979 iflg. res. 9 feb 1979. I [lov 3 juli 1992 nr. 96](lov/1992-07-03-96) II annet og tredje ledd er bestemt:
+
+«Lovens §§ 15 a – 18 gjelder også for bygninger, anlegg m.v. som er fredet med hjemmel i [§ 15](lov/1978-06-09-50/§15) før lovens ikrafttreden.
+
+[Lovens § 21](lov/1978-06-09-50/§21) om skjøtsel gjelder også for områder som er fredet med hjemmel i [§ 21](lov/1978-06-09-50/§21) før lovens ikrafttreden.»

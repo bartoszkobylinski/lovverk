@@ -15,7 +15,7 @@ xml_hash: "32589cd18bd4a7a7b07209bd4399715e12c5844f25397fb478df08cb74f77310"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,17 @@ Forskriften gjelder krav til import, og videre omsetning av matpoteter fra Egypt
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Matpotet:* Knoller av *Solanum tuberosum**Mørk ringråte:* *Ralstonia solanacearum* (Smith) Yabuuchi et.al*Sending:* En sending kan max. inneholde 25 000 kg*Feddan:* 1 feddan = 0,41 ha = 4,1 da*PFA-område:* *Pest Free Area =* et område som er erklært fritt for *Ralstonia solanacearum* av den offisielle plantehelsemyndigheten i Egypt og i henhold til ISPM 10.
+I denne forskriften menes med:
+
+*Matpotet:* Knoller av *Solanum tuberosum*
+
+*Mørk ringråte:* *Ralstonia solanacearum* (Smith) Yabuuchi et.al
+
+*Sending:* En sending kan max. inneholde 25 000 kg
+
+*Feddan:* 1 feddan = 0,41 ha = 4,1 da
+
+*PFA-område:* *Pest Free Area =* et område som er erklært fritt for *Ralstonia solanacearum* av den offisielle plantehelsemyndigheten i Egypt og i henhold til ISPM 10.
 
 ## § 4. Generelle krav til import av matpoteter fra Egypt
 
@@ -56,7 +66,11 @@ Enhver sending av matpoteter fra Egypt skal være fulgt av et plantesunnhetssert
 
 ## § 8. Krav til områder
 
-Matpoteter fra Egypt som importeres til Norge skal komme fra områder som:er offisielt godkjent som område fritt for mørk ringråte og som kan identifiseres ved et individuelt offisielt kodenummer,er offisielt godkjent for eksport av poteter til EU, ogkun bruker vann fra borebrønner til vanning.
+Matpoteter fra Egypt som importeres til Norge skal komme fra områder som:
+
+- er offisielt godkjent som område fritt for mørk ringråte og som kan identifiseres ved et individuelt offisielt kodenummer,
+- er offisielt godkjent for eksport av poteter til EU, og
+- kun bruker vann fra borebrønner til vanning.
 
 ## § 9. Krav til produksjonen
 
@@ -64,7 +78,12 @@ Matpoteter fra Egypt som importeres til Norge skal være produsert av settepotet
 
 ## § 10. Krav til kontroll av matpoteter i Egypt
 
-Matpoteter fra Egypt som importeres til Norge skal:ha vært offisielt kontrollert i vekstsesongen og funnet fri for symptomer på mørk ringråte,ha vært offisielt kontrollert før høsting ved at det tas en prøve på 500 knoller pr. fem feddan (= 2,02 ha) eller 200 knoller pr. feddan (= 0,41 ha) eller mindre. Prøven skal ha vært undersøkt i laboratorium herunder ved inkubasjonstest og visuelle observasjoner ved skjæring av knollene og ha vært undersøkt for symptomer på mørk ringråte,ha vært offisielt kontrollert umiddelbart før pakking ved serologisk test av 400 knoller og være undersøkt for latent smitte av mørk ringråte,ha vært offisielt kontrollert umiddelbart før eksport til Norge ved at det skjæres 200 knoller fra hvert sykdomsfritt område og være undersøkt for symptomer på mørk ringråte.
+Matpoteter fra Egypt som importeres til Norge skal:
+
+- ha vært offisielt kontrollert i vekstsesongen og funnet fri for symptomer på mørk ringråte,
+- ha vært offisielt kontrollert før høsting ved at det tas en prøve på 500 knoller pr. fem feddan (= 2,02 ha) eller 200 knoller pr. feddan (= 0,41 ha) eller mindre. Prøven skal ha vært undersøkt i laboratorium herunder ved inkubasjonstest og visuelle observasjoner ved skjæring av knollene og ha vært undersøkt for symptomer på mørk ringråte,
+- ha vært offisielt kontrollert umiddelbart før pakking ved serologisk test av 400 knoller og være undersøkt for latent smitte av mørk ringråte,
+- ha vært offisielt kontrollert umiddelbart før eksport til Norge ved at det skjæres 200 knoller fra hvert sykdomsfritt område og være undersøkt for symptomer på mørk ringråte.
 
 Matpotetene skal ved alle undersøkelsene være funnet fri for symptomer på mørk ringråte.
 
@@ -74,7 +93,17 @@ Matpoteter fra Egypt som importeres til Norge skal i Egypt være sortert og pakk
 
 ## § 12. Krav til merking
 
-Pakningene skal være merket med følgene opplysninger:LandProdusentPakkeriEksportørHvilket område, bekken eller sektor, potetene har vært dyrket i.
+Pakningene skal være merket med følgene opplysninger:
+
+Land
+
+Produsent
+
+Pakkeri
+
+Eksportør
+
+Hvilket område, bekken eller sektor, potetene har vært dyrket i.
 
 Pakningene skal også være merket med opplysninger om at det ikke er tillatt å benytte potetknollene som settepoteter i Norge av plantehelsemessige årsaker.
 

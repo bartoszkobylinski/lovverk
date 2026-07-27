@@ -15,7 +15,7 @@ xml_hash: "d5be0490ee3684f9d9b6287823b4c6c4f57229fc7b3ed25b21e584630de1f0cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,24 @@ Formålet med denne forskrift er å erstatte reindriftens tap og følgekostnader
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med følgende begreper:*Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.*Tap av rein:* Det reindriften mister av tamrein som er drept eller skadet av rovvilt.*Erstatning for tap:* Dekning av direkte økonomiske tap som er påført reindriften, jf. bokstav b.*Erstatning for følgekostnader:* Dekning av andre tap og ulemper som er påført reindriften, og som står i årsakssammenheng med tap av tamrein.*Annet tap:* Tap av tamrein som ikke skyldes rovvilt.
+I denne forskrift menes med følgende begreper:
+
+1. *Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.
+2. *Tap av rein:* Det reindriften mister av tamrein som er drept eller skadet av rovvilt.
+3. *Erstatning for tap:* Dekning av direkte økonomiske tap som er påført reindriften, jf. bokstav b.
+4. *Erstatning for følgekostnader:* Dekning av andre tap og ulemper som er påført reindriften, og som står i årsakssammenheng med tap av tamrein.
+5. *Annet tap:* Tap av tamrein som ikke skyldes rovvilt.
 
 ### § 3. Hvem har krav på erstatning
 
 Siidaandelen har etter søknad rett til erstatning for tap og følgekostnader når tamrein blir drept eller skadet av rovvilt.
 
-Det ytes likevel ikke erstatning når:Reindriften utøves av Rendalen Renselskap.Leder av siidaandelen ikke har fast bopel i Norge.Skadelidte er staten eller når staten har den overveiende økonomiske interesse.Søknad ikke fremmes innen fastsatt frist.
+Det ytes likevel ikke erstatning når:
+
+1. Reindriften utøves av Rendalen Renselskap.
+2. Leder av siidaandelen ikke har fast bopel i Norge.
+3. Skadelidte er staten eller når staten har den overveiende økonomiske interesse.
+4. Søknad ikke fremmes innen fastsatt frist.
 
 > Endret ved forskrift [2 mai 2024 nr. 723](forskrift/2024-05-02-723).
 
@@ -44,7 +55,13 @@ Det ytes likevel ikke erstatning når:Reindriften utøves av Rendalen Renselskap
 
 ### § 4. Vilkår for erstatning
 
-Følgende vilkår må oppfylles for å få full erstatning:Siidaandelen har handlet aktsomt og har gjort det som med rimelighet kan forventes for å avverge eller redusere tap, vurdert i forhold til de verdier som står på spill og den foreliggende risiko.Reindriften utøves i samsvar med reindriftsloven og dyrevernlovens bestemmelser.Siidaandelen har bidratt til at tap avdekkes så tidlig som mulig. Straks et taps- eller skadetilfelle oppdages skal det gis melding til ansvarlig myndighet for vurdering av årsak.Avtalte forebyggende tiltak med økonomisk støtte fra det offentlige er iverksatt og tilstrekkelig utført.Leder av siidaandelen har gitt riktige og nødvendige opplysninger for å underbygge kravet om erstatning, herunder data over tapte og skadde dyr. Dersom leder av siidaandelen har levert en korrekt melding om reindrift og har samtykket til bruk av data fra denne i erstatningsvurderingen, ansees kravet for oppfylt. Erstatningsmyndigheten kan utover dette be om tilgang på ytterligere grunnlagsdata og opplysninger om driftsforhold som er relevant for å vurdere omfang av erstatning.
+Følgende vilkår må oppfylles for å få full erstatning:
+
+1. Siidaandelen har handlet aktsomt og har gjort det som med rimelighet kan forventes for å avverge eller redusere tap, vurdert i forhold til de verdier som står på spill og den foreliggende risiko.
+2. Reindriften utøves i samsvar med reindriftsloven og dyrevernlovens bestemmelser.
+3. Siidaandelen har bidratt til at tap avdekkes så tidlig som mulig. Straks et taps- eller skadetilfelle oppdages skal det gis melding til ansvarlig myndighet for vurdering av årsak.
+4. Avtalte forebyggende tiltak med økonomisk støtte fra det offentlige er iverksatt og tilstrekkelig utført.
+5. Leder av siidaandelen har gitt riktige og nødvendige opplysninger for å underbygge kravet om erstatning, herunder data over tapte og skadde dyr. Dersom leder av siidaandelen har levert en korrekt melding om reindrift og har samtykket til bruk av data fra denne i erstatningsvurderingen, ansees kravet for oppfylt. Erstatningsmyndigheten kan utover dette be om tilgang på ytterligere grunnlagsdata og opplysninger om driftsforhold som er relevant for å vurdere omfang av erstatning.
 
 > Endret ved forskrift [2 mai 2024 nr. 723](forskrift/2024-05-02-723).
 
@@ -66,7 +83,11 @@ Det skal ytes erstatning når tamrein er gjenfunnet og undersøkelse foretatt av
 
 Det skal ytes erstatning også i øvrige tilfeller der omstendighetene tilsier at tamrein er tapt som følge av rovvilt.
 
-Forhold som enkeltvis eller i sammenheng kan bidra til å sannsynliggjøre tap er blant annet:At tamrein er tapt i et område der det er dokumentert forekomst av rovvilt.At tamrein er tapt i et område eller på et tidspunkt som kan knyttes opp mot tilfeller der undersøkelse i samsvar med [§ 7](forskrift/2001-05-04-468/§7) har påvist rovvilttap.At tamrein er tapt i en siidaandel der undersøkelse i samsvar med [§ 7](forskrift/2001-05-04-468/§7) i ett eller flere foregående år har påvist rovvilttap.
+Forhold som enkeltvis eller i sammenheng kan bidra til å sannsynliggjøre tap er blant annet:
+
+1. At tamrein er tapt i et område der det er dokumentert forekomst av rovvilt.
+2. At tamrein er tapt i et område eller på et tidspunkt som kan knyttes opp mot tilfeller der undersøkelse i samsvar med [§ 7](forskrift/2001-05-04-468/§7) har påvist rovvilttap.
+3. At tamrein er tapt i en siidaandel der undersøkelse i samsvar med [§ 7](forskrift/2001-05-04-468/§7) i ett eller flere foregående år har påvist rovvilttap.
 
 > Endret ved forskrift [2 mai 2024 nr. 723](forskrift/2024-05-02-723).
 
@@ -79,7 +100,12 @@ Dersom erstatning ytes i medhold av [§ 8](forskrift/2001-05-04-468/§8), skal d
 ### § 10. Erstatning for tap av enkeltdyr
 
 1. Full erstatning for tap av tamrein ytes etter satser fastsatt i forskrift av Miljødirektoratet.
-2. Det gis erstatning for følgende dyrekategorier;KjørereinOkseSimleKalv.
+2. Det gis erstatning for følgende dyrekategorier;
+
+   1. Kjørerein
+   2. Okse
+   3. Simle
+   4. Kalv.
 3. Verdien av biprodukter er inkludert i prisgrunnlaget, jf. bokstav a.
 
 > Endret ved [forskrifter 9 feb 2006 nr. 126](forskrift/2006-02-09-126), [2 mai 2024 nr. 723](forskrift/2024-05-02-723).

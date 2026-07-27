@@ -15,7 +15,7 @@ xml_hash: "068fd8806be44f83154c62a8560b1f0fe177eb51c2416652ae42bfc50594ead2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -275,7 +275,9 @@ Rett til bruk av kapasitet omfatter det å levere naturgass ved innganger eller 
 
 ## § 4. Tariffer
 
-Tariffene fastsettes med følgende formel ved inngang til og/eller utgang fra områdene A, B, D, F, G, H, I, J, K, L, M, og O og for behandling i område C, E, N og P: $$t=(K+\\frac{I}{Q}+U)\\cdot E+\\frac{O}{Q}$$
+Tariffene fastsettes med følgende formel ved inngang til og/eller utgang fra områdene A, B, D, F, G, H, I, J, K, L, M, og O og for behandling i område C, E, N og P:
+
+$$t=(K+\\frac{I}{Q}+U)\\cdot E+\\frac{O}{Q}$$
 
 hvor:
 
@@ -326,7 +328,9 @@ For fraksjonering, lagring og utskipning av NGL er K 30 kroner/tonn.
 - For rett til fraksjonering, lagring og utskipning som er avtalt for feltene Åsgard, Gullfaks Sør, Draugen, Heidrun og Norne før 1. januar 2003, er K 530 kroner/tonn.
 - For rett til fraksjonering, lagring og utskipning som er avtalt for feltene Sleipner Øst, Sleipner Vest og Sigyn før 1. januar 2003, er K 130 kroner/tonn.
 
-For stabilisering, lagring og utskipning av kondensat er K 4,3 kroner/tonn.For rett til stabilisering, lagring og utskipning av kondensat for feltene Sleipner Øst, Sleipner Vest og Sigyn, er K 0.
+For stabilisering, lagring og utskipning av kondensat er K 4,3 kroner/tonn.
+
+- For rett til stabilisering, lagring og utskipning av kondensat for feltene Sleipner Øst, Sleipner Vest og Sigyn, er K 0.
 
 For fraksjonering, rensing, lagring og utskipning av etan er K 220,0 kroner/tonn før 1. oktober 2016 og deretter er K 160,0 kroner/tonn. Rett til bruk av fraksjonering, rensing, lagring og utskipning av etan tilsvarer hver bruker sin andel av etanuttak.
 
@@ -462,7 +466,11 @@ For fraksjonering, lagring og utskipning er K 22,79 kroner/tonn. For brukere som
 
 *Område O*
 
-I område O gjelder K ved inngangene til området og ved utgangen av området.For inngangen ved Aasta Hansteen-feltet er K 2,1 øre/Sm3.For inngangen ved Dvalin-feltet er K 0 øre/Sm3.For utgangen er K 6,9 øre/Sm3.
+I område O gjelder K ved inngangene til området og ved utgangen av området.
+
+- For inngangen ved Aasta Hansteen-feltet er K 2,1 øre/Sm3.
+- For inngangen ved Dvalin-feltet er K 0 øre/Sm3.
+- For utgangen er K 6,9 øre/Sm3.
 
 *Område P*
 

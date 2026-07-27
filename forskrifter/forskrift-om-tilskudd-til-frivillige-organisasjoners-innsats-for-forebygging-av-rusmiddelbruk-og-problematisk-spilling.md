@@ -32,7 +32,15 @@ Målgruppene for ordningen er befolkningen generelt, barn og unge, og utsatte gr
 
 ## § 3. Definisjoner
 
-I forskriften menes med*problematisk spilling:* Spilling som på ulike måter får negative konsekvenser for øvrige deler av livet, som sosialt liv, økonomi og psykisk helse. Både pengespill og dataspill/gaming er omfattet.*utsatte grupper:* Grupper i befolkningen som har høyere risiko for å utvikle et problematisk forhold til rusmidler og spill.*miljørettede tiltak:* Tiltak som retter seg mot sosiale, kulturelle, økonomiske og fysiske påvirkningsfaktorer, og der målet er å oppnå endringer i de sosiale strukturene og i nærmiljøene og sosiale miljøer, f.eks. livsmestringsprogrammer og fritidsaktiviteter.*universelle tiltak:* Tiltak som har hele eller store deler av befolkningen som målgruppe.*selektive tiltak:* Tiltak som retter seg mot kjente risikogrupper og risikosituasjoner som er mer utsatt for å utvikle en risikofull bruk, eller som allerede har utviklet moderate problemer.*indikative tiltak:* Tiltak som skal sørge for at personer som allerede har et problem får hjelp til å begrense og hindre videre problemutvikling.*skadereduserende tiltak:* Tiltak spesifikt rettet mot å redusere umiddelbare helseskader av rusmiddelbruk, for eksempel utdeling av brukerutstyr og rusmiddelanalyse.
+I forskriften menes med
+
+1. *problematisk spilling:* Spilling som på ulike måter får negative konsekvenser for øvrige deler av livet, som sosialt liv, økonomi og psykisk helse. Både pengespill og dataspill/gaming er omfattet.
+2. *utsatte grupper:* Grupper i befolkningen som har høyere risiko for å utvikle et problematisk forhold til rusmidler og spill.
+3. *miljørettede tiltak:* Tiltak som retter seg mot sosiale, kulturelle, økonomiske og fysiske påvirkningsfaktorer, og der målet er å oppnå endringer i de sosiale strukturene og i nærmiljøene og sosiale miljøer, f.eks. livsmestringsprogrammer og fritidsaktiviteter.
+4. *universelle tiltak:* Tiltak som har hele eller store deler av befolkningen som målgruppe.
+5. *selektive tiltak:* Tiltak som retter seg mot kjente risikogrupper og risikosituasjoner som er mer utsatt for å utvikle en risikofull bruk, eller som allerede har utviklet moderate problemer.
+6. *indikative tiltak:* Tiltak som skal sørge for at personer som allerede har et problem får hjelp til å begrense og hindre videre problemutvikling.
+7. *skadereduserende tiltak:* Tiltak spesifikt rettet mot å redusere umiddelbare helseskader av rusmiddelbruk, for eksempel utdeling av brukerutstyr og rusmiddelanalyse.
 
 ## § 4. Hvem det kan gis tilskudd til
 
@@ -40,11 +48,19 @@ Det kan gis tilskudd til frivillige organisasjoner. Søker må være registrert 
 
 ## § 5. Hva det kan gis tilskudd til
 
-Det kan gis tilskudd til:kunnskapsbaserte universelle og selektive forebyggende tiltak.helsefremmende rusmiddelpolitisk og spillpolitisk påvirkningsarbeid.
+Det kan gis tilskudd til:
+
+1. kunnskapsbaserte universelle og selektive forebyggende tiltak.
+2. helsefremmende rusmiddelpolitisk og spillpolitisk påvirkningsarbeid.
 
 Tiltak kan rette seg mot målgruppen, jf. [§ 2](forskrift/2025-11-28-2353/§2), eller mot foreldre/foresatte, helsepersonell, annet tjenestepersonell, andre ressurspersoner og beslutningstakere, som et ledd i å nå målgruppen.
 
-Det gis ikke tilskudd til:miljørettede tiltak.indikative tiltak.skadereduserende tiltak, behandling og rehabilitering.ordinær drift av organisasjonen.
+Det gis ikke tilskudd til:
+
+1. miljørettede tiltak.
+2. indikative tiltak.
+3. skadereduserende tiltak, behandling og rehabilitering.
+4. ordinær drift av organisasjonen.
 
 ## § 6. Treårige tilskudd
 
@@ -60,7 +76,25 @@ Søknadsfrist fastsettes årlig av Helsedirektoratet.
 
 Søknad om tilskudd sendes innen søknadsfristen til direktoratet på fastsatt skjema i Helsedirektoratets tilskuddsportal.
 
-Søknaden skalangi søkerens kontaktinformasjon.angi antall år det søkes om tilskudd for.beskrive hva søkeren vil oppnå med tiltaket, forventet resultat og hvordan det vil bidra til å oppnå tilskuddsordningens formål.beskrive hvem tiltaket retter seg mot og tiltakets endelige målgruppe. Dersom det søkes om tilskudd til tiltak hvor målgruppen er utsatte grupper, jf. [§ 2](forskrift/2025-11-28-2353/§2), skal det fremgå særlig av søknaden hvordan målgruppen for tiltaket er omfattet av definisjonen, jf. [§ 3](forskrift/2025-11-28-2353/§3) b.beskrive søkerens faglige kompetanse og erfaring som er relevant for å gjennomføre tiltaket.beskrive kunnskapsgrunnlaget for tiltaket.beskrive hvordan tiltaket skal gjennomføres, herunder med metode, fremgangsmåte og aktivitetsplan.beskrive involvering av frivillige i utvikling, planlegging og gjennomføring av tiltaket.beskrive hvor mange personer tiltaket forventer å nå.beskrive tiltakets geografiske utbredelse.oppgi eventuelle samarbeidspartnere.oppgi risikofaktorer og risikoreduserende tiltak.oppgi interne og eksterne kontrolltiltak.beskrive plan for brukerundersøkelser/innhenting av tilbakemeldinger og erfaringer.beskrive plan for evaluering av tiltaket, og hvordan måloppnåelsen skal dokumenteres.oppgi søknadsbeløp og budsjett.oppgi eventuell annen finansiering.
+Søknaden skal
+
+1. angi søkerens kontaktinformasjon.
+2. angi antall år det søkes om tilskudd for.
+3. beskrive hva søkeren vil oppnå med tiltaket, forventet resultat og hvordan det vil bidra til å oppnå tilskuddsordningens formål.
+4. beskrive hvem tiltaket retter seg mot og tiltakets endelige målgruppe. Dersom det søkes om tilskudd til tiltak hvor målgruppen er utsatte grupper, jf. [§ 2](forskrift/2025-11-28-2353/§2), skal det fremgå særlig av søknaden hvordan målgruppen for tiltaket er omfattet av definisjonen, jf. [§ 3](forskrift/2025-11-28-2353/§3) b.
+5. beskrive søkerens faglige kompetanse og erfaring som er relevant for å gjennomføre tiltaket.
+6. beskrive kunnskapsgrunnlaget for tiltaket.
+7. beskrive hvordan tiltaket skal gjennomføres, herunder med metode, fremgangsmåte og aktivitetsplan.
+8. beskrive involvering av frivillige i utvikling, planlegging og gjennomføring av tiltaket.
+9. beskrive hvor mange personer tiltaket forventer å nå.
+10. beskrive tiltakets geografiske utbredelse.
+11. oppgi eventuelle samarbeidspartnere.
+12. oppgi risikofaktorer og risikoreduserende tiltak.
+13. oppgi interne og eksterne kontrolltiltak.
+14. beskrive plan for brukerundersøkelser/innhenting av tilbakemeldinger og erfaringer.
+15. beskrive plan for evaluering av tiltaket, og hvordan måloppnåelsen skal dokumenteres.
+16. oppgi søknadsbeløp og budsjett.
+17. oppgi eventuell annen finansiering.
 
 Søker skal akseptere Helsedirektoratets standardvilkår for tilskudd før innsending av søknad.
 
@@ -72,7 +106,11 @@ Dersom søknaden har mangler, eller ved behov for utdyping av de opplysningene s
 
 ## § 8. Vurdering av søknadene
 
-Tilskuddene tildeles etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å oppfylle tilskuddsordningens formål. I vurderingen skal det legges særlig vekt påtiltakets kvalitet.søknadens kvalitet.søknadsbeløp og budsjett.
+Tilskuddene tildeles etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å oppfylle tilskuddsordningens formål. I vurderingen skal det legges særlig vekt på
+
+1. tiltakets kvalitet.
+2. søknadens kvalitet.
+3. søknadsbeløp og budsjett.
 
 Helsedirektoratet fastsetter vurderingskriterier.
 
@@ -98,7 +136,17 @@ Fikk tilskuddsmottakeren tilskudd også foregående år, kan det nye tilskuddet 
 
 Tilskuddsmottaker skal innen 1. april i påfølgende år som tilskuddet gjelder for, rapportere på fastsatt skjema i Helsedirektoratets tilskuddsportal. Det skal rapporteres for kalenderåret.
 
-Rapporteringen skal inneholdetilskuddsmottakers vurdering av det gjennomførte tiltaket, og hvordan og i hvilken grad tiltaket har bidratt til å nå målet for tilskuddsordningen ut fra følgende momenter:tiltakets resultater sammenlignet med beskrivelsen i søknaden (avvik mellom forventet og oppnådde resultater skal belyses særskilt).antall personer i målgruppen som er nådd.tiltakets geografiske utbredelse.tilbakemeldinger fra målgruppen (for eksempel brukerundersøkelser og andre systematiske tilbakemeldinger).resultater fra mottakers evaluering av tiltaket, samt eventuelle andre relevante kilder.regnskap som er oppstilt og sammenlignet med budsjett.revisorattestasjon der det innvilges tilskudd på 200 000 kroner eller mer.
+Rapporteringen skal inneholde
+
+1. tilskuddsmottakers vurdering av det gjennomførte tiltaket, og hvordan og i hvilken grad tiltaket har bidratt til å nå målet for tilskuddsordningen ut fra følgende momenter:
+
+   1. tiltakets resultater sammenlignet med beskrivelsen i søknaden (avvik mellom forventet og oppnådde resultater skal belyses særskilt).
+   2. antall personer i målgruppen som er nådd.
+   3. tiltakets geografiske utbredelse.
+   4. tilbakemeldinger fra målgruppen (for eksempel brukerundersøkelser og andre systematiske tilbakemeldinger).
+   5. resultater fra mottakers evaluering av tiltaket, samt eventuelle andre relevante kilder.
+2. regnskap som er oppstilt og sammenlignet med budsjett.
+3. revisorattestasjon der det innvilges tilskudd på 200 000 kroner eller mer.
 
 Foreligger det ikke nøyaktige opplysninger om måloppnåelsen under [§ 12 bokstav a](forskrift/2025-11-28-2353/§12/bokstav/a) [nr. 2](forskrift/2025-11-28-2353/§12/nummer/2), er anslag tilstrekkelig.
 
@@ -106,7 +154,10 @@ Ytterligere rapporteringskrav kan fastsettes i tilskuddsvedtaket.
 
 ## § 13. Kontroll av om betingelsene og vilkårene for tilskudd er oppfylt
 
-Helsedirektoratet kan føre kontroll med:at bevilgningen brukes etter kravene i regelverket og tilskuddsvedtaket.at opplysninger som legges til grunn for tildelingen og som inngår i den etterfølgende rapporteringen er korrekte, jf. [forskrift 26. mai 2005 nr. 876 (bevilgningsreglementet) § 10 annet ledd](forskrift/2005-05-26-876/§10/ledd/2).
+Helsedirektoratet kan føre kontroll med:
+
+1. at bevilgningen brukes etter kravene i regelverket og tilskuddsvedtaket.
+2. at opplysninger som legges til grunn for tildelingen og som inngår i den etterfølgende rapporteringen er korrekte, jf. [forskrift 26. mai 2005 nr. 876 (bevilgningsreglementet) § 10 annet ledd](forskrift/2005-05-26-876/§10/ledd/2).
 
 Helsedirektoratet kan iverksette nødvendige og hensiktsmessige kontroller av tilskuddsmottaker. Helsedirektoratet kan delegere myndighet til en annen virksomhet for å føre denne kontrollen.
 
@@ -114,7 +165,11 @@ Tilskuddsmottakere skal legge frem opplysninger ved forespørsel og bidra på an
 
 ## § 14. Stans i utbetaling av tilskudd og krav om tilbakebetaling
 
-Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søker.tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket.tilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
+Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersom
+
+1. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søker.
+2. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket.
+3. tilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
 
 ## § 15. Ikrafttredelse
 

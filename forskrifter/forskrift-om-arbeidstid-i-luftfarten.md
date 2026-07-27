@@ -36,7 +36,43 @@ Forskriftens § 4 og § 5 gjelder likevel ikke luftfartsvirksomhet som omfattes 
 
 ## § 3. Definisjoner
 
-(1) I denne forskriften menes med:*Arbeidstid:*Den tiden besetningsmedlemmet står til disposisjon for luftfartsforetaket.*Base:*Sted/luftfartsanlegg der besetningsmedlemmet starter og avslutter arbeidet. Hjemmebasen er den basen der besetningsmedlemmet normalt starter og avslutter arbeidet, og der luftfartsforetaket ikke har ansvar for innkvartering.*Beredskapstjeneste:*Periode da besetningsmedlemmet er forpliktet til å holde seg klar for tjenestegjøring.*Besetningsmedlem:*En person som enten er ansatt i, innleid til eller utpekt av et luftfartsforetak til å utføre arbeid med betydning for luftfartøyets operasjoner under flyging.*Blokktid:*Tiden fra et luftfartøy forlater parkeringsplassen før avgang til det tidspunktet det stanser for å parkere og alle fremdriftsmotorer er slått av.*Fridag:*Lokal dag da besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.*Fritid:*Den tid besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.*Lokal dag:*En 24-timers periode som begynner kl. 0000 lokal tid.*Lovbestemt hviletid:*Hviletid som er pålagt i eller med hjemmel i luftfartsloven.
+(1) I denne forskriften menes med:
+
+*Arbeidstid:*
+
+Den tiden besetningsmedlemmet står til disposisjon for luftfartsforetaket.
+
+*Base:*
+
+Sted/luftfartsanlegg der besetningsmedlemmet starter og avslutter arbeidet. Hjemmebasen er den basen der besetningsmedlemmet normalt starter og avslutter arbeidet, og der luftfartsforetaket ikke har ansvar for innkvartering.
+
+*Beredskapstjeneste:*
+
+Periode da besetningsmedlemmet er forpliktet til å holde seg klar for tjenestegjøring.
+
+*Besetningsmedlem:*
+
+En person som enten er ansatt i, innleid til eller utpekt av et luftfartsforetak til å utføre arbeid med betydning for luftfartøyets operasjoner under flyging.
+
+*Blokktid:*
+
+Tiden fra et luftfartøy forlater parkeringsplassen før avgang til det tidspunktet det stanser for å parkere og alle fremdriftsmotorer er slått av.
+
+*Fridag:*
+
+Lokal dag da besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
+
+*Fritid:*
+
+Den tid besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
+
+*Lokal dag:*
+
+En 24-timers periode som begynner kl. 0000 lokal tid.
+
+*Lovbestemt hviletid:*
+
+Hviletid som er pålagt i eller med hjemmel i luftfartsloven.
 
 > Endret ved [forskrift 1 juli 2016 nr. 871](forskrift/2016-07-01-871).
 
@@ -58,7 +94,10 @@ Forskriftens § 4 og § 5 gjelder likevel ikke luftfartsvirksomhet som omfattes 
 
 (2) Planene skal settes opp så tidlig som mulig, og skal gjøres kjent for det enkelte besetningsmedlem senest to uker før iverksettelse. Etter dette tidspunktet kan fridager ikke endres uten samtykke fra besetningsmedlemmet.
 
-(3) Besetningsmedlemmet skal i alle tilfeller på forhånd underrettes om følgende fridager;minst sju dager i kalendermåneden på hjemmebaseminst 96 dager i kalenderåret på hjemmebase.
+(3) Besetningsmedlemmet skal i alle tilfeller på forhånd underrettes om følgende fridager;
+
+1. minst sju dager i kalendermåneden på hjemmebase
+2. minst 96 dager i kalenderåret på hjemmebase.
 
 ## § 7. Pauser
 

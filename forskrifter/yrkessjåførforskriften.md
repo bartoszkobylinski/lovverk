@@ -28,7 +28,18 @@ eu_basis: []
 
 Forskriften gjelder for fører som vil erverve eller fornye retten til mot vederlag å utføre person- eller godstransport med kjøretøy i førerkortklassene C1, C1E, C, CE, D1, D1E, D eller DE på veg åpen for alminnelig trafikk. Forskriften omhandler krav til grunn- og etterutdanning, prøver, gebyr, bevis, samt vilkår for godkjenning og drift av lære- og prøvesteder, herunder krav til personell. Krav i denne forskriften kommer i tillegg til krav om førerett etter [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m.
 
-Forskriften gjelder ikke for fører av kjøretøysom benyttes av eller er under kontroll av forsvaret, sivilforsvaret, politiet, brannvesenet, ambulansetjeneste eller i forbindelse med offentlig kontrollvirksomhet på veg, når transporten er et ledd i oppgave som bare denne virksomheten kan utføresom prøvekjøres med henblikk på teknisk utvikling, reparasjon eller vedlikehold, eller som er nytt eller ombygd og ennå ikke tatt i bruksom benyttes i nødssituasjoner eller til redningsoppdragsom benyttes til opplæring for å erverve førerett eller opplæring for å få eller fornye yrkessjåførkompetanse, forutsatt at kjøretøyet ikke benyttes til transport av passasjerer eller gods mot vederlag under kjøringen. Ved øvingskjøring som ledd i arbeidsplassbasert opplæring, kan øvingskjøringen likevel skje under transport av passasjerer eller gods mot vederlag, forutsatt at ledsager oppfyller kravene i [trafikkopplæringsforskriften § 3-1](forskrift/2004-10-01-1339/§3-1) og har yrkessjåførkompetanse, eller er godkjent trafikklærer etter [trafikkopplæringsforskriften § 6-8](forskrift/2004-10-01-1339/§6-8)som benyttes til frakt av materiell, maskiner, verktøy eller utstyr som er nødvendig for utøvelse av et yrke, forutsatt at det å føre kjøretøyet ikke er førerens hovedaktivitethvor høyeste tillatte hastighet ikke overstiger 45 kilometer per timesom benyttes til persontransport av elever i forbindelse med undervisning i skole eller i institusjon, der føreren er ansatt og har en direkte omsorgsrolle overfor medfølgende passasjerersom eies, eller leies uten fører, av landbruks-, hagebruks-, skogbruks-, oppdretts- eller fiskeriforetak til godstransport knyttet til foretakets egen produksjons- eller næringsvirksomhet, innenfor en radius av inntil 100 km fra det stedet der foretaket er hjemmehørende, forutsatt at det å føre kjøretøyet ikke er førerens hovedaktivitetsom benyttes til godstransport i førerens egen virksomhet, dersom Statens vegvesen anser at transporten ikke vil få negativ innvirkning på trafikksikkerheten. Transporten må være sporadisk, foregå i landlige omgivelser, og ikke tilbys andre. Godkjenning kan gis etter dokumentert søknad.i klasse D og D1 som kjøres til verksted uten passasjerer, dersom verkstedet er lokalisert i nærheten, og det å føre kjøretøyet ikke er førerens hovedaktivitet.
+Forskriften gjelder ikke for fører av kjøretøy
+
+1. som benyttes av eller er under kontroll av forsvaret, sivilforsvaret, politiet, brannvesenet, ambulansetjeneste eller i forbindelse med offentlig kontrollvirksomhet på veg, når transporten er et ledd i oppgave som bare denne virksomheten kan utføre
+2. som prøvekjøres med henblikk på teknisk utvikling, reparasjon eller vedlikehold, eller som er nytt eller ombygd og ennå ikke tatt i bruk
+3. som benyttes i nødssituasjoner eller til redningsoppdrag
+4. som benyttes til opplæring for å erverve førerett eller opplæring for å få eller fornye yrkessjåførkompetanse, forutsatt at kjøretøyet ikke benyttes til transport av passasjerer eller gods mot vederlag under kjøringen. Ved øvingskjøring som ledd i arbeidsplassbasert opplæring, kan øvingskjøringen likevel skje under transport av passasjerer eller gods mot vederlag, forutsatt at ledsager oppfyller kravene i [trafikkopplæringsforskriften § 3-1](forskrift/2004-10-01-1339/§3-1) og har yrkessjåførkompetanse, eller er godkjent trafikklærer etter [trafikkopplæringsforskriften § 6-8](forskrift/2004-10-01-1339/§6-8)
+5. som benyttes til frakt av materiell, maskiner, verktøy eller utstyr som er nødvendig for utøvelse av et yrke, forutsatt at det å føre kjøretøyet ikke er førerens hovedaktivitet
+6. hvor høyeste tillatte hastighet ikke overstiger 45 kilometer per time
+7. som benyttes til persontransport av elever i forbindelse med undervisning i skole eller i institusjon, der føreren er ansatt og har en direkte omsorgsrolle overfor medfølgende passasjerer
+8. som eies, eller leies uten fører, av landbruks-, hagebruks-, skogbruks-, oppdretts- eller fiskeriforetak til godstransport knyttet til foretakets egen produksjons- eller næringsvirksomhet, innenfor en radius av inntil 100 km fra det stedet der foretaket er hjemmehørende, forutsatt at det å føre kjøretøyet ikke er førerens hovedaktivitet
+9. som benyttes til godstransport i førerens egen virksomhet, dersom Statens vegvesen anser at transporten ikke vil få negativ innvirkning på trafikksikkerheten. Transporten må være sporadisk, foregå i landlige omgivelser, og ikke tilbys andre. Godkjenning kan gis etter dokumentert søknad.
+10. i klasse D og D1 som kjøres til verksted uten passasjerer, dersom verkstedet er lokalisert i nærheten, og det å føre kjøretøyet ikke er førerens hovedaktivitet.
 
 > Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -102,7 +113,10 @@ Tredjestatsborger som arbeider i en virksomhet som er etablert i Norge eller har
 
 Fullstendig grunnutdanning skal samlet utgjøre 280 timer.
 
-Person som har oppnådd yrkessjåførkompetanse på bakgrunn av 280 timer grunnutdanning og bestått prøve kan med førerett i klasseneC1, C1E, C og CE utføre godstransport fra fylte 18 år.D1, D1E, D og DE utføre persontransport fra fylte 21 år.
+Person som har oppnådd yrkessjåførkompetanse på bakgrunn av 280 timer grunnutdanning og bestått prøve kan med førerett i klassene
+
+1. C1, C1E, C og CE utføre godstransport fra fylte 18 år.
+2. D1, D1E, D og DE utføre persontransport fra fylte 21 år.
 
 Person som har bestått fagprøve i yrkessjåførfaget og yrkessjåføreksamen innen persontransport, kan fra fylte 20 år utføre persontransport i Norge med kjøretøy i klasse D1, D1E, D eller DE. Slik transport kan også utføres av fører med godkjent lærekontrakt etter [§ 5](forskrift/2008-04-16-362/§5) fra og med 18 år for klassen D1 og D1E. Tilsvarende kan fører som har fylt 18 år og innehar førerett i klassene D eller DE, utføre persontransport i rute oppad begrenset til 50 km rutelengde eller kjøre uten passasjerer.
 
@@ -112,7 +126,13 @@ Person som har bestått fagprøve i yrkessjåførfaget og yrkessjåføreksamen i
 
 Yrkessjåførkompetanse kan oppnås gjennom komprimert grunnutdanning. Utdanningen skal samlet utgjøre 140 timer.
 
-Person som har oppnådd yrkessjåførkompetanse gjennom komprimert grunnutdanning og bestått prøve, kan fra fylte18 år utøve godstransport med kjøretøy som krever førerett i klassene C1 og C1E21 år utøve godstransport med kjøretøy som krever førerett i klassene C og CE21 år utøve persontransport med kjøretøy som krever førerett i klassene D1 og D1E21 år utøve persontransport i rute oppad begrenset til 50 kilometer med kjøretøy som krever førerett i klassene D og DE23 år utøve persontransport med kjøretøy som krever førerett i klassene D og DE.
+Person som har oppnådd yrkessjåførkompetanse gjennom komprimert grunnutdanning og bestått prøve, kan fra fylte
+
+1. 18 år utøve godstransport med kjøretøy som krever førerett i klassene C1 og C1E
+2. 21 år utøve godstransport med kjøretøy som krever førerett i klassene C og CE
+3. 21 år utøve persontransport med kjøretøy som krever førerett i klassene D1 og D1E
+4. 21 år utøve persontransport i rute oppad begrenset til 50 kilometer med kjøretøy som krever førerett i klassene D og DE
+5. 23 år utøve persontransport med kjøretøy som krever førerett i klassene D og DE.
 
 > Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013).
 
@@ -218,7 +238,12 @@ Kandidaten kan gjennomføre yrkessjåføropplæring i karantenetiden.
 
 For å kunne tilby utdanning skal lærested, undervisningsansvarlig og undervisningspersonellet være godkjent av Statens vegvesen. Krav om godkjenning av undervisningspersonell gjelder fra 1. juli 2022. Lærestedets eier har det overordnede ansvar for opplæringsvirksomheten og skal legge forholdene til rette for opplæringen, herunder medvirke til at undervisningsansvarlig uhindret kan oppfylle sine plikter.
 
-Godkjenning gis etter skriftlig og dokumentert søknad på fastsatt skjema. Søknaden skal minst inneholdehvilke deler av utdanningen lærestedet søker godkjenning forundervisningsplanundervisningspersonellets kvalifikasjoner og faglige bakgrunnopplysninger om geografisk tilholdssted, undervisningslokaler, undervisningsmateriell, utstyr og kjøretøyer som skal brukes i undervisningen.
+Godkjenning gis etter skriftlig og dokumentert søknad på fastsatt skjema. Søknaden skal minst inneholde
+
+1. hvilke deler av utdanningen lærestedet søker godkjenning for
+2. undervisningsplan
+3. undervisningspersonellets kvalifikasjoner og faglige bakgrunn
+4. opplysninger om geografisk tilholdssted, undervisningslokaler, undervisningsmateriell, utstyr og kjøretøyer som skal brukes i undervisningen.
 
 Det kan knyttes vilkår til godkjenningen.
 
@@ -230,13 +255,29 @@ Ved inaktivitet over 12 måneder, må det søkes om godkjenning på nytt.
 
 ### § 19. Administrative krav til lærestedet
 
-Lærestedet skaldisponere relevant utstyr, undervisningslokale og områder som er nødvendig for å gjennomføre den undervisning lærestedet er godkjent for, samt disponere utstyr i henhold til [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve m.m. [§ 5-7](forskrift/2004-10-01-1339/§5-7) og [§ 5-9](forskrift/2004-10-01-1339/§5-9) der det tilbys utdanning etter bestemmelsene i § 43 andre ledd bokstav l og etter bestemmelsene i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d.disponere relevante kjøretøy dersom lærestedet tilbyr individuell kjøretreningha godkjent undervisningsansvarligved endringer i undervisningsplan og timeplan sendes oppdaterte planer til Statens vegvesen senest 1 uke etter at endringen er gjennomført.ved endringer i undervisningspersonell og deres kvalifikasjoner sendes oppdatert informasjon til Statens vegvesen senest 1 uke etter at endringen er foretatt.før undervisningen starter informere eleven skriftlig om forhold av betydning for utdanningen, herunder lærestedets navn, rutiner for bestilling og avbestilling av undervisningstimer samt varighet, frammøteplikt, innhold og pris for utdanningen.elektronisk melde til Statens vegvesens elektroniske register opplysninger om hvilken modul den enkelte elev har gjennomført og tidspunkt for gjennomføring senest 14 dager etter at eleven har avsluttet den aktuelle modulen.3 uker på forhånd skriftlig melde til Statens vegvesen om endring i forhold som har betydning for godkjenningen, herunder opphør av lærestedet, skifte av eier eller undervisningsansvarlig. Når et lærested melder flytting avgjør Statens vegvesen om lærestedet må ha ny godkjenning.melde til Statens vegvesen straks tidspunkt for gjennomføring av grunn- eller etterutdanning er fastsatt. Dersom innmeldt utdanning blir avlyst, skal dette meldes til Statens vegvesen senest 3 virkedager før planlagt startdato.
+Lærestedet skal
+
+1. disponere relevant utstyr, undervisningslokale og områder som er nødvendig for å gjennomføre den undervisning lærestedet er godkjent for, samt disponere utstyr i henhold til [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve m.m. [§ 5-7](forskrift/2004-10-01-1339/§5-7) og [§ 5-9](forskrift/2004-10-01-1339/§5-9) der det tilbys utdanning etter bestemmelsene i § 43 andre ledd bokstav l og etter bestemmelsene i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d.
+2. disponere relevante kjøretøy dersom lærestedet tilbyr individuell kjøretrening
+3. ha godkjent undervisningsansvarlig
+4. ved endringer i undervisningsplan og timeplan sendes oppdaterte planer til Statens vegvesen senest 1 uke etter at endringen er gjennomført.
+5. ved endringer i undervisningspersonell og deres kvalifikasjoner sendes oppdatert informasjon til Statens vegvesen senest 1 uke etter at endringen er foretatt.
+6. før undervisningen starter informere eleven skriftlig om forhold av betydning for utdanningen, herunder lærestedets navn, rutiner for bestilling og avbestilling av undervisningstimer samt varighet, frammøteplikt, innhold og pris for utdanningen.
+7. elektronisk melde til Statens vegvesens elektroniske register opplysninger om hvilken modul den enkelte elev har gjennomført og tidspunkt for gjennomføring senest 14 dager etter at eleven har avsluttet den aktuelle modulen.
+8. 3 uker på forhånd skriftlig melde til Statens vegvesen om endring i forhold som har betydning for godkjenningen, herunder opphør av lærestedet, skifte av eier eller undervisningsansvarlig. Når et lærested melder flytting avgjør Statens vegvesen om lærestedet må ha ny godkjenning.
+9. melde til Statens vegvesen straks tidspunkt for gjennomføring av grunn- eller etterutdanning er fastsatt. Dersom innmeldt utdanning blir avlyst, skal dette meldes til Statens vegvesen senest 3 virkedager før planlagt startdato.
 
 > Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
 ### § 20. Faglige og pedagogiske krav til lærestedet
 
-Lærestedet skaldrive opplæring i samsvar med gjeldende regelverk og eventuelle vilkår tilknyttet godkjenningengi opplæring av forsvarlig pedagogisk karaktertil enhver tid ha oppdaterte undervisningsplanergi undervisning i samsvar med undervisningsplanenebenytte undervisningspersonell som tilfredsstiller kravene etter forskriften.
+Lærestedet skal
+
+1. drive opplæring i samsvar med gjeldende regelverk og eventuelle vilkår tilknyttet godkjenningen
+2. gi opplæring av forsvarlig pedagogisk karakter
+3. til enhver tid ha oppdaterte undervisningsplaner
+4. gi undervisning i samsvar med undervisningsplanene
+5. benytte undervisningspersonell som tilfredsstiller kravene etter forskriften.
 
 > Endret ved [forskrift 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010).
 
@@ -290,7 +331,17 @@ Dersom lærestedet er godkjent kun for etterutdanning, og undervisningsansvarlig
 
 Undervisningsansvarlig har faglig og administrativt ansvar for at lærestedet drives i samsvar med gjeldende regelverk og lærestedets godkjenning.
 
-Undervisningsansvarlig plikter å sikre at undervisningen holder faglig og pedagogisk standard ved blant annet åsamordne virksomheten ved lærestedetvære ansvarlig for utarbeidelse, gjennomføring og oppdatering av undervisningsoppleggetveilede og kontrollere lærestedets undervisningspersonell og utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig. Disse dokumentene må oppbevares i minimum 5 år på lærestedets kontoradresse.evaluere undervisningen og sørge for at undervisningspersonellet gjennomgår nødvendig faglig oppdateringpåse at kun kvalifisert personell gir undervisning, og at de er godkjent av Statens vegvesen. Krav om godkjenning av undervisningspersonell gjelder fra 1. juli 2022være lærestedets kontaktperson mot Statens vegvesenivareta lærestedets ansvar for elektronisk innmelding av elevenes opplæringkunne dokumentere elevens frammøte under utdanningenha en plan for hvordan gjennomføre tapt undervisning for elever med manglende frammøte utover bestemmelsen i [§ 14](forskrift/2008-04-16-362/§14).
+Undervisningsansvarlig plikter å sikre at undervisningen holder faglig og pedagogisk standard ved blant annet å
+
+1. samordne virksomheten ved lærestedet
+2. være ansvarlig for utarbeidelse, gjennomføring og oppdatering av undervisningsopplegget
+3. veilede og kontrollere lærestedets undervisningspersonell og utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig. Disse dokumentene må oppbevares i minimum 5 år på lærestedets kontoradresse.
+4. evaluere undervisningen og sørge for at undervisningspersonellet gjennomgår nødvendig faglig oppdatering
+5. påse at kun kvalifisert personell gir undervisning, og at de er godkjent av Statens vegvesen. Krav om godkjenning av undervisningspersonell gjelder fra 1. juli 2022
+6. være lærestedets kontaktperson mot Statens vegvesen
+7. ivareta lærestedets ansvar for elektronisk innmelding av elevenes opplæring
+8. kunne dokumentere elevens frammøte under utdanningen
+9. ha en plan for hvordan gjennomføre tapt undervisning for elever med manglende frammøte utover bestemmelsen i [§ 14](forskrift/2008-04-16-362/§14).
 
 > Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013) [19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -436,7 +487,12 @@ Statens vegvesen utarbeider læreplaner. Læreplanene er ikke forskrift.
 
 Etter gjennomført yrkessjåførutdanning skal eleven ha nødvendige kvalifikasjoner for å kunne arbeide som yrkessjåfør mot vederlag i persontransport eller godstransport.
 
-Eleven skalkjøre optimalt og trafikksikkert, og forutse mulig risiko ved sin tilstedeværelsevise særlig hensyn til myke trafikanterivareta egen og andres sikkerhet ved arbeid når kjøretøyet står i rovise profesjonalitet i sin utførelse av yrket.
+Eleven skal
+
+1. kjøre optimalt og trafikksikkert, og forutse mulig risiko ved sin tilstedeværelse
+2. vise særlig hensyn til myke trafikanter
+3. ivareta egen og andres sikkerhet ved arbeid når kjøretøyet står i ro
+4. vise profesjonalitet i sin utførelse av yrket.
 
 > Endret ved [forskrift 19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019).
 
@@ -456,7 +512,21 @@ Kompetanseutvidelse etter [§ 11](forskrift/2008-04-16-362/§11) kan ikke gjenno
 
 Etter gjennomført modul 1 skal eleven kjenne til hvordan yrkessjåførutdanningen gjennomføres, og ha forståelse for sin rolle som yrkessjåfør. Eleven skal ha kunnskap om hvordan eget arbeid må tilpasses samfunnets krav til helse, miljø og sikkerhet.
 
-Eleven skalkjenne til utdanningens oppbygging og innholdkjenne til vegtransportens og yrkessjåførens rolle i samfunnetgjøre rede for reglene om arbeidstid og kjøre- og hviletid, vise og forklare bruken av analoge og digitale fartsskrivere/tachograferkjenne til kravene om å sikre tilstrekkelig veggrep ved bruk av riktige dekk og kunne legge på kjettingkunne utføre daglig kontroll og ettersyn av kjøretøyet og utstyret det harforklare hva riktig kjøreatferd og bevisst valg av transportformer har å si for økonomi og miljøkjenne til betydningen av ergonomisk riktige arbeidsstillinger, og kunne gjøre rede for de vanligste årsaker til yrkesrelaterte helseproblemer hos sjåførergjøre rede for kostholdets betydning for god helse og konsekvensene av uregelmessige måltider og usunn ernæringgjøre rede for konsekvenser ved bruk av tobakk, ulike typer rusmidler og bedøvende midlervære bevisst på faren for ufrivillig å bli innblandet i kriminell virksomhet knyttet til transport, og kunne ta forholdsregler for å forhindre dette.kjenne til hvilke personlige belastninger en sjåfør kan bli utsatt forha kunnskap om opptreden ved uhell og ulykker og evakuering i tunnel. Eleven skal kunne iverksette nødvendige tiltak i forhold til ulykkestype gjennom å delta på kurs i ulykkesberedskap med metode som beskrevet i forskrift [1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve m.m. [kapittel 25](forskrift/2004-10-01-1339/kap25)få introduksjon til nettbasert undervisning.
+Eleven skal
+
+1. kjenne til utdanningens oppbygging og innhold
+2. kjenne til vegtransportens og yrkessjåførens rolle i samfunnet
+3. gjøre rede for reglene om arbeidstid og kjøre- og hviletid, vise og forklare bruken av analoge og digitale fartsskrivere/tachografer
+4. kjenne til kravene om å sikre tilstrekkelig veggrep ved bruk av riktige dekk og kunne legge på kjetting
+5. kunne utføre daglig kontroll og ettersyn av kjøretøyet og utstyret det har
+6. forklare hva riktig kjøreatferd og bevisst valg av transportformer har å si for økonomi og miljø
+7. kjenne til betydningen av ergonomisk riktige arbeidsstillinger, og kunne gjøre rede for de vanligste årsaker til yrkesrelaterte helseproblemer hos sjåfører
+8. gjøre rede for kostholdets betydning for god helse og konsekvensene av uregelmessige måltider og usunn ernæring
+9. gjøre rede for konsekvenser ved bruk av tobakk, ulike typer rusmidler og bedøvende midler
+10. være bevisst på faren for ufrivillig å bli innblandet i kriminell virksomhet knyttet til transport, og kunne ta forholdsregler for å forhindre dette.
+11. kjenne til hvilke personlige belastninger en sjåfør kan bli utsatt for
+12. ha kunnskap om opptreden ved uhell og ulykker og evakuering i tunnel. Eleven skal kunne iverksette nødvendige tiltak i forhold til ulykkestype gjennom å delta på kurs i ulykkesberedskap med metode som beskrevet i forskrift [1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve m.m. [kapittel 25](forskrift/2004-10-01-1339/kap25)
+13. få introduksjon til nettbasert undervisning.
 
 Eleven skal få demonstrert, av lærer eller instruktør, at kjøremåten har stor betydning for en sikker og optimal bruk av tunge kjøretøy, og modulen danner grunnlaget for elevens utdanning og egenkjøring i modul 5.
 
@@ -468,7 +538,16 @@ Modul 1 består av 67 timer ved fullstendig grunnutdanning og 36 timer ved kompr
 
 Etter gjennomført modul 2 skal eleven kjenne til ulike regelverk en yrkessjåfør må forholde seg til, og videreutvikle sin forståelse av yrkessjåførens rolle i samfunnet. Eleven skal kjenne til ulike arbeidslivsorganisasjoner og pensjonsordninger, og ha god innsikt i kjøretøyets konstruksjon og virkemåte.
 
-Eleven skalkjenne til og kunne finne fram i aktuelle lover, forskrifter og andre regelverk, og kjenne til at det kan være alvorlige konsekvenser ved lovbruddforstå betydningen av å yte service i kundebehandlingen, og kjenne til utfordringer i ulike kommunikasjonssituasjoner og hvordan håndtere dissekjenne til risikoen ved å arbeide innen transportbransjen, være spesielt bevisst på den menneskelige faktor som utløsende årsak til ulykker, og forstå hvorfor fokus på tungbilulykker og nestenulykker er sentralt i trafikksikkerhetsarbeidetkjenne til arbeidslivsorganisasjonene, og forsikringsordninger som ofte er knyttet til medlemskap i slike organisasjonerkjenne til obligatoriske og frivillige pensjonsordninger for både ansatte og selvstendig næringsdrivendekjenne til ny teknologi, herunder hvordan forskjellige motoralternativer, drivstofftyper, og kraftoverføringsprinsipper mellom motor og hjul er konstruert og virker og hvilke forholdsregler ved bruk som vil gi en sikker og optimal kjøringkunne gjøre rede for ulike bremsesystemers oppbygning og virkemåte hvordan de skal vedlikeholdes og hvilke konsekvenser en funksjonssvikt harkjenne til bruk av øvrig sikkerhetsutstyr, herunder konsekvenser ved manglende tilpasning og vedlikehold av utstyret.
+Eleven skal
+
+1. kjenne til og kunne finne fram i aktuelle lover, forskrifter og andre regelverk, og kjenne til at det kan være alvorlige konsekvenser ved lovbrudd
+2. forstå betydningen av å yte service i kundebehandlingen, og kjenne til utfordringer i ulike kommunikasjonssituasjoner og hvordan håndtere disse
+3. kjenne til risikoen ved å arbeide innen transportbransjen, være spesielt bevisst på den menneskelige faktor som utløsende årsak til ulykker, og forstå hvorfor fokus på tungbilulykker og nestenulykker er sentralt i trafikksikkerhetsarbeidet
+4. kjenne til arbeidslivsorganisasjonene, og forsikringsordninger som ofte er knyttet til medlemskap i slike organisasjoner
+5. kjenne til obligatoriske og frivillige pensjonsordninger for både ansatte og selvstendig næringsdrivende
+6. kjenne til ny teknologi, herunder hvordan forskjellige motoralternativer, drivstofftyper, og kraftoverføringsprinsipper mellom motor og hjul er konstruert og virker og hvilke forholdsregler ved bruk som vil gi en sikker og optimal kjøring
+7. kunne gjøre rede for ulike bremsesystemers oppbygning og virkemåte hvordan de skal vedlikeholdes og hvilke konsekvenser en funksjonssvikt har
+8. kjenne til bruk av øvrig sikkerhetsutstyr, herunder konsekvenser ved manglende tilpasning og vedlikehold av utstyret.
 
 Modul 2 består av 76 timer ved fullstendig grunnutdanning og 35 timer ved komprimert grunnutdanning.
 
@@ -478,7 +557,12 @@ Modul 2 består av 76 timer ved fullstendig grunnutdanning og 35 timer ved kompr
 
 Etter gjennomført modul G3 skal eleven ha grunnleggende kunnskap om godstransport og vite hvordan transportoppdrag planlegges og gjennomføres i tråd med regelverket.
 
-Eleven skalkunne gjøre rede for godstransportens organisering og samfunnsmessige betydningkjenne til lover, forskrifter, regler, avtaler og dokumenter innen godstransporten, og kunne bruke disse i sin riktige sammenhengkjenne til kostnader knyttet til anskaffelse og drift av transportutstyr, og kunne vurdere en investeringha kunnskap om hvordan ulike former for godstransport foregår nasjonalt og internasjonalt, og hvilke krav som stilles til planlegging og utførelse for at leveransen kan skje i henhold til avtale.
+Eleven skal
+
+1. kunne gjøre rede for godstransportens organisering og samfunnsmessige betydning
+2. kjenne til lover, forskrifter, regler, avtaler og dokumenter innen godstransporten, og kunne bruke disse i sin riktige sammenheng
+3. kjenne til kostnader knyttet til anskaffelse og drift av transportutstyr, og kunne vurdere en investering
+4. ha kunnskap om hvordan ulike former for godstransport foregår nasjonalt og internasjonalt, og hvilke krav som stilles til planlegging og utførelse for at leveransen kan skje i henhold til avtale.
 
 Modul G3 består av 47 timer ved fullstendig grunnutdanning og 22 timer ved komprimert utdanning. Ved utvidelse av yrkessjåførkompetanse fra persontransport til godstransport skal det gjennomføres 30 timer ved fullstendig grunnutdanning og 14 timer ved komprimert utdanning.
 
@@ -488,7 +572,14 @@ Modul G3 består av 47 timer ved fullstendig grunnutdanning og 22 timer ved komp
 
 Etter gjennomført modul G4 skal eleven kunne laste kjøretøyet og sikre lasten forskriftsmessig. Eleven skal kunne planlegge reelle transportoppdrag og ivareta involverte aktørers interesser.
 
-Eleven skaldelta på 4 timer oppsummering fra nettbasert undervisning og reflektere over sine erfaringer fra gjennomført nettbasert undervisning og drøfte disse med medelever og lærerekjenne til de krav som stilles til service og kundebehandling i godstransporten og de utfordringer disse kravene kan gi hvordan personlig framtreden bidrar til å heve kvaliteten på tjenesten og egen yrkes anseelse blant brukernekjenne til de viktigste prinsippene for lasting og lossing av ulike typer last og kunne beregne og plassere lasten slik at transporten kan gjennomføres på en sikker og forsvarlig måtedelta på kurs i sikring av last etter [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve [§ 27-2](forskrift/2004-10-01-1339/§27-2)kunne planlegge transportoppdrag med ulike typer last, og utføre lasting og lossing på en sikker måteplanlegge to transportoppdrag som skal gjennomføres i modul 5, ett 5 timers transportoppdrag med godsdistribusjon og ett 5 timers langtransportoppdrag ved fullstendig grunnutdanning, eller ett 2 timers transportoppdrag med godsdistribusjon og ett 3 timers langtransportoppdrag ved komprimert grunnutdanning.
+Eleven skal
+
+1. delta på 4 timer oppsummering fra nettbasert undervisning og reflektere over sine erfaringer fra gjennomført nettbasert undervisning og drøfte disse med medelever og lærere
+2. kjenne til de krav som stilles til service og kundebehandling i godstransporten og de utfordringer disse kravene kan gi hvordan personlig framtreden bidrar til å heve kvaliteten på tjenesten og egen yrkes anseelse blant brukerne
+3. kjenne til de viktigste prinsippene for lasting og lossing av ulike typer last og kunne beregne og plassere lasten slik at transporten kan gjennomføres på en sikker og forsvarlig måte
+4. delta på kurs i sikring av last etter [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve [§ 27-2](forskrift/2004-10-01-1339/§27-2)
+5. kunne planlegge transportoppdrag med ulike typer last, og utføre lasting og lossing på en sikker måte
+6. planlegge to transportoppdrag som skal gjennomføres i modul 5, ett 5 timers transportoppdrag med godsdistribusjon og ett 5 timers langtransportoppdrag ved fullstendig grunnutdanning, eller ett 2 timers transportoppdrag med godsdistribusjon og ett 3 timers langtransportoppdrag ved komprimert grunnutdanning.
 
 Modul G4 består av 46 timer ved fullstendig grunnutdanning og 23 timer ved komprimert utdanning. Gjennomført kurs i sikring av last utgjør 7 timer opplæring i modul G4. Ved utvidelse av yrkessjåførkompetanse fra persontransport til godstransport skal det gjennomføres 25 timer ved fullstendig grunnutdanning og 13 timer ved komprimert utdanning.
 
@@ -498,7 +589,12 @@ Modul G4 består av 46 timer ved fullstendig grunnutdanning og 23 timer ved komp
 
 Etter gjennomført modul P3 skal eleven ha grunnleggende kunnskap om persontransport og vite hvordan transportoppdrag planlegges og gjennomføres på en sikker, effektiv og behagelig måte i tråd med regelverket.
 
-Eleven skalkunne gjøre rede for persontransportens organisering og samfunnsmessige betydning, herunder det offentliges rolle og ansvar for tilstrekkelig transporttilbud til befolkningenkjenne til lover, forskrifter, regler, avtaler og dokumenter innen persontransporten, og kunne bruke disse i sin riktige sammenhengkjenne til de markedsmessige og økonomiske vilkår knyttet til persontransport på veg, og de vanligste betalings- og oppgjørsformene i bransjenkunne forberede nasjonale og internasjonale transporter, med særlig vekt på å ivareta de krav som stilles til planlegging, gjennomføring og etterarbeid.
+Eleven skal
+
+1. kunne gjøre rede for persontransportens organisering og samfunnsmessige betydning, herunder det offentliges rolle og ansvar for tilstrekkelig transporttilbud til befolkningen
+2. kjenne til lover, forskrifter, regler, avtaler og dokumenter innen persontransporten, og kunne bruke disse i sin riktige sammenheng
+3. kjenne til de markedsmessige og økonomiske vilkår knyttet til persontransport på veg, og de vanligste betalings- og oppgjørsformene i bransjen
+4. kunne forberede nasjonale og internasjonale transporter, med særlig vekt på å ivareta de krav som stilles til planlegging, gjennomføring og etterarbeid.
 
 Modul P3 består av 48 timer ved fullstendig grunnutdanning og 22 timer ved komprimert utdanning. Ved utvidelse av yrkessjåførkompetanse fra godstransport til persontransport skal det gjennomføres 30 timer for fullstendig grunnutdanning og 14 timer for komprimert utdanning.
 
@@ -508,7 +604,14 @@ Modul P3 består av 48 timer ved fullstendig grunnutdanning og 22 timer ved komp
 
 Etter gjennomført modul P4 skal eleven forstå betydningen av de krav som stilles til en yrkessjåfør når det gjelder lastsikkerhet og service, herunder konsekvensene ved mangelfull utførelse. Eleven skal kunne planlegge reelle transportoppdrag og kjenne til regelverk om passasjerrettigheter.
 
-Eleven skaldelta på 4 timer oppsummering fra nettbasert undervisning og reflektere over sine erfaringer fra gjennomført nettbasert undervisning og drøfte disse med medelever og lærerekjenne til de krav som stilles til service og kundebehandling i persontransporten og de utfordringer disse kravene kan gi og hvordan personlig framtreden bidrar til å heve kvaliteten på tjenesten og egen yrkes anseelse blant brukerneforstå de viktigste prinsippene for forskriftsmessig lasting og sikring av passasjerer og gods, samt konsekvensene ved mangelfull utførelsekunne planlegge ulike transportoppdrag, utføre lasting og lossing på en sikker måte og betjene bussens ulike tekniske og komfortmessige innretningerplanlegge 2 transportoppdrag som skal gjennomføres i modul 5, ett 5 timers transportoppdrag med kjøring i rute og ett 5 timers turkjøring ved fullstendig grunnutdanning, eller ett 2 timers transportoppdrag med kjøring i rute og ett 3 timers turkjøring ved komprimert grunnutdanningdelta på 3 timer opplæring om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181).
+Eleven skal
+
+1. delta på 4 timer oppsummering fra nettbasert undervisning og reflektere over sine erfaringer fra gjennomført nettbasert undervisning og drøfte disse med medelever og lærere
+2. kjenne til de krav som stilles til service og kundebehandling i persontransporten og de utfordringer disse kravene kan gi og hvordan personlig framtreden bidrar til å heve kvaliteten på tjenesten og egen yrkes anseelse blant brukerne
+3. forstå de viktigste prinsippene for forskriftsmessig lasting og sikring av passasjerer og gods, samt konsekvensene ved mangelfull utførelse
+4. kunne planlegge ulike transportoppdrag, utføre lasting og lossing på en sikker måte og betjene bussens ulike tekniske og komfortmessige innretninger
+5. planlegge 2 transportoppdrag som skal gjennomføres i modul 5, ett 5 timers transportoppdrag med kjøring i rute og ett 5 timers turkjøring ved fullstendig grunnutdanning, eller ett 2 timers transportoppdrag med kjøring i rute og ett 3 timers turkjøring ved komprimert grunnutdanning
+6. delta på 3 timer opplæring om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181).
 
 Modul P4 består av 45 timer ved fullstendig grunnutdanning og 23 timer ved komprimert utdanning. Ved utvidelse av yrkessjåførkompetanse fra godstransport til persontransport skal det gjennomføres 25 timer ved fullstendig grunnutdanning og 13 timer ved komprimert utdanning.
 
@@ -518,13 +621,22 @@ Modul P4 består av 45 timer ved fullstendig grunnutdanning og 23 timer ved komp
 
 Etter gjennomført modul 5 skal eleven ha videreutviklet sin yrkessjåførkompetanse og kunne bidra til sikrere trafikk gjennom optimal kjøremåte.
 
-Eleven skalkjenne til den risiko som er knyttet til bruk av store kjøretøy i transportoppdragvise trafikksikker atferd og optimal utnyttelse av tunge kjøretøy, ved å kjøre 2 turer, hvor trafikale kjøreferdigheter vurderes og bedømmes. Start- og sluttidspunkt, effektiv kjøretid, komfort og forbruk av drivstoff skal registreresgjennomføre to typer relevante transportoppdrag som er planlagt i modul 4, hvor eleven kjører på en måte som er sikker, effektiv, komfortabel og faglig korrektutvikle selvinnsikt, risikoforståelse og evne til å vurdere sin egen kjøre- og yrkesmessige kompetanse.
+Eleven skal
+
+1. kjenne til den risiko som er knyttet til bruk av store kjøretøy i transportoppdrag
+2. vise trafikksikker atferd og optimal utnyttelse av tunge kjøretøy, ved å kjøre 2 turer, hvor trafikale kjøreferdigheter vurderes og bedømmes. Start- og sluttidspunkt, effektiv kjøretid, komfort og forbruk av drivstoff skal registreres
+3. gjennomføre to typer relevante transportoppdrag som er planlagt i modul 4, hvor eleven kjører på en måte som er sikker, effektiv, komfortabel og faglig korrekt
+4. utvikle selvinnsikt, risikoforståelse og evne til å vurdere sin egen kjøre- og yrkesmessige kompetanse.
 
 Den individuelle kjøretreningen skal foregå på ulike typer veg og i forskjellig trafikkmiljø. Kjøretøyet skal være utstyrt slik at det er mulig og detaljert måle drivstofforbruk.
 
-Ved fullstendig grunnutdanning består modul 5 av 44 timer, hvorav 20 timer kjøring som skal fordeles slik:2 timer optimal utnyttelse av tunge kjøretøy, deretter gjennomføre to transportoppdrag som planlagt i modul 4, og deretter 5 timer individuell kjøring i varierte områder. Til slutt gjennomføres 1 time selvstendig kjøring med optimal utnyttelse av tunge kjøretøy.
+Ved fullstendig grunnutdanning består modul 5 av 44 timer, hvorav 20 timer kjøring som skal fordeles slik:
 
-Ved komprimert grunnutdanning består modul 5 av 24 timer, hvorav 10 timer kjøring som skal fordeles slik:2 timer optimal utnyttelse av tunge kjøretøy, deretter gjennomføre to transportoppdrag som planlagt i modul 4. Til slutt gjennomføres 1 time selvstendig kjøring med optimal utnyttelse av tunge kjøretøy.
+2 timer optimal utnyttelse av tunge kjøretøy, deretter gjennomføre to transportoppdrag som planlagt i modul 4, og deretter 5 timer individuell kjøring i varierte områder. Til slutt gjennomføres 1 time selvstendig kjøring med optimal utnyttelse av tunge kjøretøy.
+
+Ved komprimert grunnutdanning består modul 5 av 24 timer, hvorav 10 timer kjøring som skal fordeles slik:
+
+2 timer optimal utnyttelse av tunge kjøretøy, deretter gjennomføre to transportoppdrag som planlagt i modul 4. Til slutt gjennomføres 1 time selvstendig kjøring med optimal utnyttelse av tunge kjøretøy.
 
 Gjennomført sikkerhetskurs på veg for tunge klasser godskrives kun en gang med fradrag av 1 time for rute eller distribusjonskjøring og 1 time fra tur eller langkjøring.
 
@@ -560,7 +672,14 @@ Tilsvarende kan etterutdanning utvides fra gods – til persontransport med emne
 
 ### § 51. Etterutdanning for persontransport
 
-Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav dMinst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og jMinst 1 time fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav c (lastsikring)Minst 3 timer fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181)Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy med samme totalvekt på begge turene.
+Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:
+
+1. Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav d
+2. Minst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)
+3. Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og j
+4. Minst 1 time fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav c (lastsikring)
+5. Minst 3 timer fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181)
+6. Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy med samme totalvekt på begge turene.
 
 Resterende 19 timer fordeles mellom modul 1–5 og tilpasses yrkessjåførens daglige arbeidsoppgaver.
 
@@ -570,7 +689,13 @@ Utstyr for gjennomføring av ulykkesberedskap skal være i henhold til § 5-7 i 
 
 ### § 52. Etterutdanning for godstransport
 
-Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav dMinst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og jMinst 4 timer fra modul G4 etter bestemmelsen i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d (lastsikring)Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy med totalvekt tilsvarende førerprøvevogn på begge turene.
+Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:
+
+1. Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav d
+2. Minst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)
+3. Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og j
+4. Minst 4 timer fra modul G4 etter bestemmelsen i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d (lastsikring)
+5. Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy med totalvekt tilsvarende førerprøvevogn på begge turene.
 
 Resterende 19 timer fordeles mellom modul 1-5 og tilpasses yrkessjåførens daglige arbeidsoppgaver.
 
@@ -582,7 +707,15 @@ Utstyr for gjennomføring av sikring av last skal være i henhold til § 5-9 i [
 
 ### § 53. Sammensatt og utvidelse av etterutdanningen
 
-Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav dMinst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og jMinst 3 timer fra modul G4 etter bestemmelsen i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d (lastsikring)Minst 1 time fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav cMinst 3 timer fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181)Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy. For godstransport m ed totalvekt tilsvarende førerprøvevogn på begge turene.
+Yrkessjåføren skal delta på 35 timer etterutdanning jf. [§ 12](forskrift/2008-04-16-362/§12) med emner fra modulene 1 til 5. Timene må fordeles på følgende måte:
+
+1. Minst 1 time fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav d
+2. Minst 4 timer fra modul 1 etter bestemmelsen i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstav l (ulykkesberedskap)
+3. Minst 3 timer fra modul 1 etter bestemmelsene i [§ 43](forskrift/2008-04-16-362/§43) andre ledd bokstavene g, h og j
+4. Minst 3 timer fra modul G4 etter bestemmelsen i [§ 46](forskrift/2008-04-16-362/§46) andre ledd bokstav d (lastsikring)
+5. Minst 1 time fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav c
+6. Minst 3 timer fra modul P4 etter bestemmelsen i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181)
+7. Minst 4 timer fra modul 5 etter bestemmelsene i [§ 49](forskrift/2008-04-16-362/§49) andre ledd bokstav b, hvorav 2 timer brukes til for- og etterarbeid, samt til oppsummering og refleksjon mellom de to turene. Kjøringen skal foregå med kjøretøy tilsvarende yrkessjåførens hovedkjøretøy. For godstransport m ed totalvekt tilsvarende førerprøvevogn på begge turene.
 
 Utstyr for gjennomføring av ulykkesberedskap skal være i henhold til § 5-7 i [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve.
 
@@ -590,7 +723,10 @@ Utstyr for gjennomføring av sikring av last skal være i henhold til § 5-9 i [
 
 Yrkessjåførkompetanse innen persontransport kan utvides til yrkessjåførkompetanse innen godstransport, ved å delta på minst 7 timer etterutdanning med emner fra modul G3 og G4 etter bestemmelsene i [§ 45](forskrift/2008-04-16-362/§45) og [§ 46](forskrift/2008-04-16-362/§46) hvorav: Minst 3 timer skal være i henhold til emner omhandlet i [§ 46](forskrift/2008-04-16-362/§46) bokstav d.
 
-Yrkessjåførkompetanse innen godstransport kan utvides til yrkessjåførkompetanse innen persontransport, ved å delta på minst 7 timer etterutdanning med emner fra modul P3 og P4 etter bestemmelsene i [§ 47](forskrift/2008-04-16-362/§47) og [§ 48](forskrift/2008-04-16-362/§48) hvorav:Minst 1 time skal være i henhold til emner omhandlet i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav cMinst 3 time skal være i henhold til emner omhandlet i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181).
+Yrkessjåførkompetanse innen godstransport kan utvides til yrkessjåførkompetanse innen persontransport, ved å delta på minst 7 timer etterutdanning med emner fra modul P3 og P4 etter bestemmelsene i [§ 47](forskrift/2008-04-16-362/§47) og [§ 48](forskrift/2008-04-16-362/§48) hvorav:
+
+1. Minst 1 time skal være i henhold til emner omhandlet i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav c
+2. Minst 3 time skal være i henhold til emner omhandlet i [§ 48](forskrift/2008-04-16-362/§48) andre ledd bokstav f om busspassasjerers rettigheter, jf. forordning [(EU) nr. 181/2011](eu/32011r0181).
 
 > Endret ved [forskrift 19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019).
 

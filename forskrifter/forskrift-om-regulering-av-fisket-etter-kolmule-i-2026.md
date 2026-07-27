@@ -92,7 +92,15 @@ Fartøy som i 2026 benytter slumpfiskeordningen i henhold til [forskrift 4. mars
 
 ## § 10. Partråling
 
-Uten hinder av forbudene i [§ 11](forskrift/2025-12-19-2822/§11) og [§ 12](forskrift/2025-12-19-2822/§12) kan fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse som partråler på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:Fartøyene må være skriftlig påmeldt som partrållag til Norges Sildesalgslag før fisket tar til.Fartøyene i partrållaget må fiske med samme redskap, og to fartøy kan dra med inntil 2 wire i hver sin vinge av trålredskapet. Det er ikke tillatt å nytte tråldører under partråling.Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten per landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.Ved innmelding av fangst til Norges Sildesalgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.Et fartøy kan ikke dele fangst med mer enn to andre fartøy i løpet av reguleringsåret.Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i partrållaget er utgått av merkeregisteret som følge av en strukturordning.Fiskeridirektoratet kan kreve at fartøy som meldes som partrållag fremstiller seg for godkjenning. Fiskeridirektoratets klagesaksenhet er klageinstans.
+Uten hinder av forbudene i [§ 11](forskrift/2025-12-19-2822/§11) og [§ 12](forskrift/2025-12-19-2822/§12) kan fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse som partråler på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:
+
+1. Fartøyene må være skriftlig påmeldt som partrållag til Norges Sildesalgslag før fisket tar til.
+2. Fartøyene i partrållaget må fiske med samme redskap, og to fartøy kan dra med inntil 2 wire i hver sin vinge av trålredskapet. Det er ikke tillatt å nytte tråldører under partråling.
+3. Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten per landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.
+4. Ved innmelding av fangst til Norges Sildesalgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.
+5. Et fartøy kan ikke dele fangst med mer enn to andre fartøy i løpet av reguleringsåret.
+6. Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i partrållaget er utgått av merkeregisteret som følge av en strukturordning.
+7. Fiskeridirektoratet kan kreve at fartøy som meldes som partrållag fremstiller seg for godkjenning. Fiskeridirektoratets klagesaksenhet er klageinstans.
 
 ## § 11. Kvoteutnyttelse
 

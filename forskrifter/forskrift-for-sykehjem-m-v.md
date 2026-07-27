@@ -15,7 +15,7 @@ xml_hash: "f386ddd6d263ecd484f3dbf3a996b4873d168cdcbf2e32282c927c41895dfacd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,17 @@ Denne forskrift gjelder sykehjem og boform for heldøgns omsorg og pleie som nev
 
 Boform etter denne forskrift skal gi heldøgns opphold. I tilknytning til oppholdet skal det være organisert legetjeneste, fysioterapitjeneste og sykepleiertjeneste i samarbeid med andre deler av den kommunale helse- og sosialtjeneste.
 
-Boformen skal være innrettet på en eller flere av følgende oppgaver:medisinsk attføring med sikte på tilbakeføring til hjemmet,avlastning,permanent opphold,spesielt tilrettelagt opphold for funksjonshemmede,skjermet enhet for senil demente,selvstendig boenhet for barn/ungdom,dagopphold,nattopphold,terminalpleie.
+Boformen skal være innrettet på en eller flere av følgende oppgaver:
+
+1. medisinsk attføring med sikte på tilbakeføring til hjemmet,
+2. avlastning,
+3. permanent opphold,
+4. spesielt tilrettelagt opphold for funksjonshemmede,
+5. skjermet enhet for senil demente,
+6. selvstendig boenhet for barn/ungdom,
+7. dagopphold,
+8. nattopphold,
+9. terminalpleie.
 
 ## Kap. III. Godkjenning – Drift
 
@@ -46,7 +56,12 @@ Boformen skal være innrettet på en eller flere av følgende oppgaver:medisinsk
 
 ### § 3-2
 
-Boformen skal ha tilknyttet:en administrativ lederen lege som skal ha ansvaret for den medisinske behandlingen offentlig godkjent sykepleier som skal ha ansvaret for sykepleiendet antall personell for øvrig som er nødvendig for å sikre beboer nødvendig omsorg og bistand.
+Boformen skal ha tilknyttet:
+
+1. en administrativ leder
+2. en lege som skal ha ansvaret for den medisinske behandling
+3. en offentlig godkjent sykepleier som skal ha ansvaret for sykepleien
+4. det antall personell for øvrig som er nødvendig for å sikre beboer nødvendig omsorg og bistand.
 
 ### § 3-3
 
@@ -64,7 +79,11 @@ Grupper av sengerom bør ha egne spise- og oppholdsarealer samt kokemuligheter s
 
 ### § 4-2
 
-Boformen skal ha:nødvendige rom tilrettelagt for å ivareta beboernes hygienetilfredsstillende kjøkken- og vaskerifunksjonerfunksjonell møblering og belysning.
+Boformen skal ha:
+
+1. nødvendige rom tilrettelagt for å ivareta beboernes hygiene
+2. tilfredsstillende kjøkken- og vaskerifunksjoner
+3. funksjonell møblering og belysning.
 
 ### § 4-3
 

@@ -15,7 +15,7 @@ xml_hash: "a7045e80c0808b3e1959d6492368d4385c2c92e64be06e66de4bddad9446a19d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,10 @@ Person som ikke har fast bopel i riket, kan etter søknad få motorvogn som det 
 
 Etter utløpet av gyldighetstiden for den særskilte registrering, må vognen ikke brukes i riket uten at den er registrert på vanlig måte. Såfremt vognen ikke innen fristens utløp er brakt ut av riket, må den innsettes på et av tollvesenet godkjent lager.
 
-Vilkår for registrering som nevnt erfor fremmed statsborger eller statsløs at han ikke har oppholdt seg i riket i tilsammen mer enn 6 måneder i de siste to år forut for søknaden.for norsk statsborger at han har oppholdt seg i en eller flere fremmede stater de siste to år forut for søknaden og i denne tid bare har vært i riket på ferier eller andre korte besøk. Søknad må være framsatt innen 6 måneder etter innreise i riket.
+Vilkår for registrering som nevnt er
+
+1. for fremmed statsborger eller statsløs at han ikke har oppholdt seg i riket i tilsammen mer enn 6 måneder i de siste to år forut for søknaden.
+2. for norsk statsborger at han har oppholdt seg i en eller flere fremmede stater de siste to år forut for søknaden og i denne tid bare har vært i riket på ferier eller andre korte besøk. Søknad må være framsatt innen 6 måneder etter innreise i riket.
 
 Dersom det er på det rene eller må antas å være sannsynlig at søkeren vil oppholde seg i riket i mer enn ett år, eller vil ta lønnet arbeid eller drive selvstendig næringsvirksomhet her i mer enn tre måneder, er han ikke berettiget til slik registrering.
 

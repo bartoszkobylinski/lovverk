@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. (Delegering til fylkesmannen)
 
-Fylkesmannen får innenfor Landbruksdepartementets myndighetsområde fullmakt tilå ta avgjørelse i saker som gjelder vedtak om å trekke konsesjonen tilbake og fastsette frist for salg etter [industrikonsesjonsloven § 26](lov/1917-12-14-16/§26) andre og tredje ledd,å begjære tvangssalg etter [industrikonsesjonsloven § 26](lov/1917-12-14-16/§26) tredje ledd, jf. [§ 32](lov/1917-12-14-16/§32), og tilå endre konsesjonsbetingelser fastsatt av departementet etter [industrikonsesjonsloven § 27](lov/1917-12-14-16/§27).
+Fylkesmannen får innenfor Landbruksdepartementets myndighetsområde fullmakt til
+
+1. å ta avgjørelse i saker som gjelder vedtak om å trekke konsesjonen tilbake og fastsette frist for salg etter [industrikonsesjonsloven § 26](lov/1917-12-14-16/§26) andre og tredje ledd,
+2. å begjære tvangssalg etter [industrikonsesjonsloven § 26](lov/1917-12-14-16/§26) tredje ledd, jf. [§ 32](lov/1917-12-14-16/§32), og til
+3. å endre konsesjonsbetingelser fastsatt av departementet etter [industrikonsesjonsloven § 27](lov/1917-12-14-16/§27).
 
 ## § 2. (Om klage til Landbruksdirektoratet)
 

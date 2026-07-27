@@ -15,7 +15,7 @@ xml_hash: "f179b6037d78f172010eba6f5912f621f7a52351d4b309d2f8c6feeecdcfff0a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,17 +42,27 @@ eu_basis: []
 
 ### § 3. Minstekrav for opptak til grunnutdanninger
 
-For opptak til grunnutdanninger gjelder bestemmelsene gitt i nasjonal [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13). Det gis følgende utfyllende bestemmelser:Rektor kan fastsette gjennom rundskrivet nærmere opptakskrav til grunnutdanninger utlyst i lokalt opptak.Opptakskrav til eksternfinansierte studier fastsettes av dekan gjennom studieplanen, eller i avtale om oppdrag.
+For opptak til grunnutdanninger gjelder bestemmelsene gitt i nasjonal [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13). Det gis følgende utfyllende bestemmelser:
+
+1. Rektor kan fastsette gjennom rundskrivet nærmere opptakskrav til grunnutdanninger utlyst i lokalt opptak.
+2. Opptakskrav til eksternfinansierte studier fastsettes av dekan gjennom studieplanen, eller i avtale om oppdrag.
 
 ### § 4. Minstekrav for opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning
 
-Rektor fastsetter opptakskrav til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning gjennom rundskrivet. Det gis følgende utfyllende bestemmelser:Til studier med tilleggskrav om arbeidserfaring, teller som hovedregel kun arbeidserfaring fra tiden etter fullført grunnutdanning. Særlig relevant arbeidserfaring som er fra før fullført grunnutdanning kan i helt spesielle tilfeller bli medregnet. Arbeidserfaringen må være tilsvarende heltid.Opptakskrav til eksternfinansierte studier fastsettes av dekan gjennom studieplanen, eller i avtale om oppdrag.
+Rektor fastsetter opptakskrav til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning gjennom rundskrivet. Det gis følgende utfyllende bestemmelser:
+
+1. Til studier med tilleggskrav om arbeidserfaring, teller som hovedregel kun arbeidserfaring fra tiden etter fullført grunnutdanning. Særlig relevant arbeidserfaring som er fra før fullført grunnutdanning kan i helt spesielle tilfeller bli medregnet. Arbeidserfaringen må være tilsvarende heltid.
+2. Opptakskrav til eksternfinansierte studier fastsettes av dekan gjennom studieplanen, eller i avtale om oppdrag.
 
 ### § 5. Minstekrav for opptak på grunnlag av realkompetanse til grunnutdanninger
 
 1\. Bestemmelsene er gitt med hjemmel i nasjonal [forskrift om opptak til høgare utdanning § 3-1](forskrift/2017-01-06-13/§3-1). Søker som er 25 år eller eldre i opptaksåret og som ikke har generell studiekompetanse, kan søke opptak på grunnlag av realkompetanse.
 
-2\. Minstekrav til formell kompetanse ved opptak på grunnlag av realkompetanse er som følger:Spesielle opptakskrav gitt i nasjonal [forskrift om opptak til høgare utdanning, kapittel 4](forskrift/2017-01-06-13/kap4), gjelder også for søkere med realkompetanse.Søkere må normalt dokumentere kunnskaper i norsk og engelsk i henhold til utfyllende retningslinjer. Søkere fra land utenfor Norden må normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. nasjonal [forskrift om opptak til høgare utdanning § 2-2](forskrift/2017-01-06-13/§2-2).Studiespesifikke krav kan fremgå av utfyllende retningslinjer, og fagkravene må normalt dokumenteres med beståtte fag fra videregående skole.
+2\. Minstekrav til formell kompetanse ved opptak på grunnlag av realkompetanse er som følger:
+
+1. Spesielle opptakskrav gitt i nasjonal [forskrift om opptak til høgare utdanning, kapittel 4](forskrift/2017-01-06-13/kap4), gjelder også for søkere med realkompetanse.
+2. Søkere må normalt dokumentere kunnskaper i norsk og engelsk i henhold til utfyllende retningslinjer. Søkere fra land utenfor Norden må normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. nasjonal [forskrift om opptak til høgare utdanning § 2-2](forskrift/2017-01-06-13/§2-2).
+3. Studiespesifikke krav kan fremgå av utfyllende retningslinjer, og fagkravene må normalt dokumenteres med beståtte fag fra videregående skole.
 
 3\. For opptak på grunnlag av realkompetanse kreves minimum 5 års praksis, tilsvarende heltid. Av disse må minimum 3 år være relevant arbeidserfaring. Maksimum 2 år kan dekkes av annen praksis.
 
@@ -62,9 +72,15 @@ Rektor fastsetter opptakskrav til videreutdanninger, masterstudier og praktisk-p
 
 1\. Søker som er 25 år eller eldre i opptaksåret og som ikke dekker hele kravet til formell kompetanse som angitt i opptakskravet, kan søke opptak på grunnlag av realkompetanse.
 
-2\. Minstekrav til formell kompetanse ved opptak på grunnlag av realkompetanse er som følger:Til videreutdanninger og masterstudier kreves relevant faglig fordypning på minimum 80 studiepoeng (ECTS).Til praktisk-pedagogisk utdanning kreves minimum 180 studiepoeng (ECTS) hvorav minst 60 studiepoeng (ECTS) må være i ett allmennfag som er relevant for undervisning i skolen.Til praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13 kreves bestått relevant fag-/svennebrev/offentlig godkjent sertifisering eller annen treårig yrkesutdanning på videregående nivå.
+2\. Minstekrav til formell kompetanse ved opptak på grunnlag av realkompetanse er som følger:
 
-3\. For opptak på grunnlag av realkompetanse kreves normalt minimum 5 års relevant arbeidserfaring, tilsvarende heltid. Søker må i tillegg dokumentere eventuelle krav om arbeidserfaring i henhold til ordinært opptakskrav jf. rundskrivet.Til praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13 kreves minimum 4 års relevant arbeidserfaring, tilsvarende heltid, i tillegg til krav om arbeidserfaring gitt i punkt 1 i ordinært opptakskrav.
+1. Til videreutdanninger og masterstudier kreves relevant faglig fordypning på minimum 80 studiepoeng (ECTS).
+2. Til praktisk-pedagogisk utdanning kreves minimum 180 studiepoeng (ECTS) hvorav minst 60 studiepoeng (ECTS) må være i ett allmennfag som er relevant for undervisning i skolen.
+3. Til praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13 kreves bestått relevant fag-/svennebrev/offentlig godkjent sertifisering eller annen treårig yrkesutdanning på videregående nivå.
+
+3\. For opptak på grunnlag av realkompetanse kreves normalt minimum 5 års relevant arbeidserfaring, tilsvarende heltid. Søker må i tillegg dokumentere eventuelle krav om arbeidserfaring i henhold til ordinært opptakskrav jf. rundskrivet.
+
+1. Til praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13 kreves minimum 4 års relevant arbeidserfaring, tilsvarende heltid, i tillegg til krav om arbeidserfaring gitt i punkt 1 i ordinært opptakskrav.
 
 4\. Søkere må normalt dokumentere tilstrekkelige språkkunnskaper i norsk og engelsk. Søkere fra land utenfor Norden må normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. nasjonal [forskrift om opptak til høgare utdanning § 2-2](forskrift/2017-01-06-13/§2-2).
 
@@ -94,17 +110,24 @@ Rektor fastsetter opptakskrav til videreutdanninger, masterstudier og praktisk-p
 
 1\. For opptak til grunnutdanninger er det gitt bestemmelser om opptak på visse vilkår (betinget opptak) i nasjonal [forskrift om opptak til høgare utdanning, kapittel 5](forskrift/2017-01-06-13/kap5).
 
-2\. For opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning, kan betinget opptak gis der særskilte forhold utenfor søkers kontroll har medvirket til at eksamen som inngår i kravet for opptak ikke er avlagt. Det er en forutsetning at søker kan dokumentere oppmelding til eksamen.Med særskilte forhold menes egen sykdom eller sykdom/dødsfall/ulykke i nærmeste familie. Andre uforutsette forhold vurderes individuelt og etter dokumentasjon.Betinget opptak kan kun gis søkere som skulle fullføre kvalifiserende utdanning samme semester som hovedopptaket, og gis under betingelse av at manglende eksamen avlegges og bestås i løpet av første studiesemester. Studieplass og studierett fått gjennom betinget opptak bortfaller dersom kravet ikke oppfylles innen angitt frist. Fristen for å innfri opptakskravet til studiet er absolutt, og særskilte forhold angitt i punkt a) kan ikke anvendes til å søke om utsettelse av frist for dokumentasjon på at betingelsen er innfridd.
+2\. For opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning, kan betinget opptak gis der særskilte forhold utenfor søkers kontroll har medvirket til at eksamen som inngår i kravet for opptak ikke er avlagt. Det er en forutsetning at søker kan dokumentere oppmelding til eksamen.
+
+1. Med særskilte forhold menes egen sykdom eller sykdom/dødsfall/ulykke i nærmeste familie. Andre uforutsette forhold vurderes individuelt og etter dokumentasjon.
+2. Betinget opptak kan kun gis søkere som skulle fullføre kvalifiserende utdanning samme semester som hovedopptaket, og gis under betingelse av at manglende eksamen avlegges og bestås i løpet av første studiesemester. Studieplass og studierett fått gjennom betinget opptak bortfaller dersom kravet ikke oppfylles innen angitt frist. Fristen for å innfri opptakskravet til studiet er absolutt, og særskilte forhold angitt i punkt a) kan ikke anvendes til å søke om utsettelse av frist for dokumentasjon på at betingelsen er innfridd.
 
 ## Kapittel 2. Adgangsregulering og rangeringsbestemmelser
 
 ### § 10. Generelt om adgangsregulering og rangering
 
-Ved opptak til grunnutdanninger skal søkere rangeres etter bestemmelsene gitt i nasjonal [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13), med utfyllende bestemmelser.Søkere som er kvalifisert etter [§ 5](forskrift/2025-12-15-2610/§5) kan ikke poengberegnes, og må vurderes individuelt og skjønnsmessig etter [§ 14](forskrift/2025-12-15-2610/§14).
+Ved opptak til grunnutdanninger skal søkere rangeres etter bestemmelsene gitt i nasjonal [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13), med utfyllende bestemmelser.
+
+1. Søkere som er kvalifisert etter [§ 5](forskrift/2025-12-15-2610/§5) kan ikke poengberegnes, og må vurderes individuelt og skjønnsmessig etter [§ 14](forskrift/2025-12-15-2610/§14).
 
 ### § 11. Generelt om adgangsregulering og rangering av søkere ved opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning
 
-1\. Dersom det er flere kvalifiserte søkere enn antall studieplasser vil en utdanning, studieretning eller didaktikk bli adgangsregulert. Søkere rangeres da innbyrdes etter de nærmere bestemte rangeringsregler i [§§ 11](forskrift/2025-12-15-2610/§11) til [14](forskrift/2025-12-15-2610/§14). Unntak fra ordinær rangering er gitt i [§ 15](forskrift/2025-12-15-2610/§15).Dekan kan fastsette nærmere bestemmelser om rangering ved opptak til eksternfinansierte studier gjennom studieplanen, eller i avtale om oppdrag.
+1\. Dersom det er flere kvalifiserte søkere enn antall studieplasser vil en utdanning, studieretning eller didaktikk bli adgangsregulert. Søkere rangeres da innbyrdes etter de nærmere bestemte rangeringsregler i [§§ 11](forskrift/2025-12-15-2610/§11) til [14](forskrift/2025-12-15-2610/§14). Unntak fra ordinær rangering er gitt i [§ 15](forskrift/2025-12-15-2610/§15).
+
+1. Dekan kan fastsette nærmere bestemmelser om rangering ved opptak til eksternfinansierte studier gjennom studieplanen, eller i avtale om oppdrag.
 
 2\. Ved beregning av karakterpoeng skal karakterene i alle emnene som inngår i kvalifiserende utdanning normalt benyttes som beregningsgrunnlag. Dersom søker har flere mulige kvalifiserende grunnlag for opptak, skal grunnlaget som gir mest gunstig resultat for søkeren benyttes. Det benyttes følgende omregningstabell ved beregning av karakterpoeng:
 
@@ -120,7 +143,11 @@ Ved opptak til grunnutdanninger skal søkere rangeres etter bestemmelsene gitt i
 4. For å dekke krav om minimum gjennomsnittskarakteren C i ECTS-systemet, kreves det en gjennomsnittlig karakterverdi på minimum 30.
 5. Har søker en vurdering-/karakterpoengskala eller annen utdanning som avviker fra omregningstabellene vil det foretas en individuell skjønnsmessig vurdering.
 
-3\. Følgende søkere kan ikke poengberegnes, og må vurderes individuelt og skjønnsmessig etter [§ 14](forskrift/2025-12-15-2610/§14):Søkere som er kvalifisert etter [§ 6](forskrift/2025-12-15-2610/§6).Søkere med utenlandsk utdanning uten omregningstabell.Søkere uten gradert karakterskala i mer enn to tredeler av studiepoengene i beregningsgrunnlaget.
+3\. Følgende søkere kan ikke poengberegnes, og må vurderes individuelt og skjønnsmessig etter [§ 14](forskrift/2025-12-15-2610/§14):
+
+1. Søkere som er kvalifisert etter [§ 6](forskrift/2025-12-15-2610/§6).
+2. Søkere med utenlandsk utdanning uten omregningstabell.
+3. Søkere uten gradert karakterskala i mer enn to tredeler av studiepoengene i beregningsgrunnlaget.
 
 4\. Ved betinget tilbud, jf. [§ 8](forskrift/2025-12-15-2610/§8), beregnes konkurransepoeng på bakgrunn av oppnådde kvalifikasjoner når søknaden blir behandlet.
 
@@ -128,13 +155,25 @@ Ved opptak til grunnutdanninger skal søkere rangeres etter bestemmelsene gitt i
 
 ### § 12. Rangering av søkere ved opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning for allmenne fag
 
-1\. Kvalifiserte søkere rangeres på grunnlag av konkurransepoeng etter følgende beregning:Karakterpoeng: Gis på grunnlag av vektet karaktergjennomsnitt fra kvalifiserende utdanning. Resultatene vektes etter emnenes omfang i ECTS.Utdanningspoeng: Det gis 1 utdanningspoeng per 30 studiepoeng utover minstekravet for opptak, maksimalt 4 poeng.Praksispoeng: Til erfaringsbaserte studier gis det 1 praksispoeng per år med relevant arbeidserfaring, tilsvarende heltid, utover minstekravet for opptak, maksimalt 4 poeng.Konkurransepoeng: Sum av karakterpoeng og utdanningspoeng.Til erfaringsbaserte studier vil også praksispoeng medberegnes i konkurransepoeng.
+1\. Kvalifiserte søkere rangeres på grunnlag av konkurransepoeng etter følgende beregning:
+
+- Karakterpoeng: Gis på grunnlag av vektet karaktergjennomsnitt fra kvalifiserende utdanning. Resultatene vektes etter emnenes omfang i ECTS.
+- Utdanningspoeng: Det gis 1 utdanningspoeng per 30 studiepoeng utover minstekravet for opptak, maksimalt 4 poeng.
+- Praksispoeng: Til erfaringsbaserte studier gis det 1 praksispoeng per år med relevant arbeidserfaring, tilsvarende heltid, utover minstekravet for opptak, maksimalt 4 poeng.
+- Konkurransepoeng: Sum av karakterpoeng og utdanningspoeng.
+
+  Til erfaringsbaserte studier vil også praksispoeng medberegnes i konkurransepoeng.
 
 2\. Ved poenglikhet mellom flere søkere, rangeres søkerne etter loddtrekning.
 
 ### § 13. Rangering av søkere ved opptak til praktisk-pedagogisk utdanning for yrkesfag for trinn 8–13
 
-1\. Kvalifiserte søkere rangeres på grunnlag av konkurransepoeng etter en av følgende beregninger:For bestått fag-/svennebrev eller annen treårig yrkesutdanning fra videregående skole og yrkesteoretisk utdanning, gis det 50 konkurransepoeng.For bestått bachelor eller tilsvarende utdanning på minimum 180 studiepoeng gis det 30 utdanningspoeng. Det gis i tillegg 5 tilleggspoeng per 30 studiepoeng utover minstekravet for opptak, maksimalt 20 tilleggspoeng.Konkurransepoeng: Sum av utdanningspoeng og eventuelle tilleggspoeng.
+1\. Kvalifiserte søkere rangeres på grunnlag av konkurransepoeng etter en av følgende beregninger:
+
+1. For bestått fag-/svennebrev eller annen treårig yrkesutdanning fra videregående skole og yrkesteoretisk utdanning, gis det 50 konkurransepoeng.
+2. For bestått bachelor eller tilsvarende utdanning på minimum 180 studiepoeng gis det 30 utdanningspoeng. Det gis i tillegg 5 tilleggspoeng per 30 studiepoeng utover minstekravet for opptak, maksimalt 20 tilleggspoeng.
+
+   Konkurransepoeng: Sum av utdanningspoeng og eventuelle tilleggspoeng.
 
 2\. Ved poenglikhet mellom flere søkere, rangeres søkerne etter loddtrekning.
 
@@ -186,11 +225,20 @@ Det kreves politiattest i forbindelse med opptak til bestemte utdanninger, spesi
 
 3\. Innvilget studieplass kan søkes reservert i ett år, eller til neste ordinære opptak til studieprogrammet. Det kan søkes om reservert studieplass i inntil to år grunnet militærtjeneste. Det tas forbehold om at studiet blir igangsatt.
 
-4\. Følgende søkere kan som hovedregel ikke innvilges reservert studieplass:Søkere som er innvilget betinget opptak etter [§ 9](forskrift/2025-12-15-2610/§9).Søkere utenfor EU/EØS.Søkere som har fått tilbud om studieplass på ledige studieplasser.Søkere til enkeltemner.Søkere til eksternfinansierte studier.
+4\. Følgende søkere kan som hovedregel ikke innvilges reservert studieplass:
+
+1. Søkere som er innvilget betinget opptak etter [§ 9](forskrift/2025-12-15-2610/§9).
+2. Søkere utenfor EU/EØS.
+3. Søkere som har fått tilbud om studieplass på ledige studieplasser.
+4. Søkere til enkeltemner.
+5. Søkere til eksternfinansierte studier.
 
 ### § 21. Innpassingsopptak
 
-1\. Innpassingsopptak kan benyttes i følgende tilfeller:Fra og med 2. studieår i grunnutdanninger med ledig kapasitet.Fra og med 2. studieår i 2-årige masterprogram med ledig kapasitet.
+1\. Innpassingsopptak kan benyttes i følgende tilfeller:
+
+1. Fra og med 2. studieår i grunnutdanninger med ledig kapasitet.
+2. Fra og med 2. studieår i 2-årige masterprogram med ledig kapasitet.
 
 2\. Krav til hvilke deler av utdanningen som må være avlagt for å kunne kvalifiseres for innpassingsopptak til det aktuelle studiet fremgår av rundskrivet.
 

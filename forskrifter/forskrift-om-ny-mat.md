@@ -15,7 +15,7 @@ xml_hash: "3d8c3531501fc154c1cd618349270aa8732bc6401b5a7ed9981e246d8bc8f6e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,13 +202,50 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 1\. Denne forordning får anvendelse på omsetning av nye næringsmidler på markedet i Unionen.
 
-2\. Denne forordning får ikke anvendelse pågenmodifiserte næringsmidler som omfattes av forordning [(EF) nr. 1829/2003](eu/32003r1829),næringsmidler når og i den utstrekning de brukes somnæringsmiddelenzymer som omfattes av forordning [(EF) nr. 1332/2008](eu/32008r1332),tilsetningsstoffer som omfattes av forordning [(EF) nr. 1333/2008](eu/32008r1333),aromaer som omfattes av forordning [(EF) nr. 1334/2008](eu/32008r1334),ekstraksjonsmidler som brukes eller er beregnet på bruk ved produksjon av næringsmidler eller næringsmiddelingredienser, og som omfattes av direktiv [2009/32/EF](eu/32009l0032).
+2\. Denne forordning får ikke anvendelse på
+
+1. genmodifiserte næringsmidler som omfattes av forordning [(EF) nr. 1829/2003](eu/32003r1829),
+2. næringsmidler når og i den utstrekning de brukes som
+
+   1. næringsmiddelenzymer som omfattes av forordning [(EF) nr. 1332/2008](eu/32008r1332),
+   2. tilsetningsstoffer som omfattes av forordning [(EF) nr. 1333/2008](eu/32008r1333),
+   3. aromaer som omfattes av forordning [(EF) nr. 1334/2008](eu/32008r1334),
+   4. ekstraksjonsmidler som brukes eller er beregnet på bruk ved produksjon av næringsmidler eller næringsmiddelingredienser, og som omfattes av direktiv [2009/32/EF](eu/32009l0032).
 
 ### Artikkel 3. Definisjoner
 
 1\. I denne forordning får definisjonene fastsatt i artikkel 2 og 3 i forordning [(EF) nr. 178/2002](eu/32002r0178), anvendelse.
 
-2\. I denne forordning menes dessuten med:«nytt næringsmiddel» ethvert næringsmiddel som ikke i vesentlig grad har blitt brukt til konsum i Unionen før 15. mai 1997, uavhengig av datoene for medlemsstatenes tiltredelse til Unionen, og som tilhører minst én av følgende kategorier:næringsmiddel med en ny eller forsettlig endret molekylstruktur, dersom denne strukturen ikke har blitt brukt som eller i et næringsmiddel i Unionen før 15. mai 1997,næringsmiddel som består av, er isolert fra eller framstilt av mikroorganismer, sopp eller alger,næringsmiddel som består av, er isolert fra eller framstilt av materiale av mineralsk opprinnelse,næringsmiddel som består av, er isolert fra eller framstilt av planter eller deler av planter, unntatt når det foreligger langvarig sikker bruk som næringsmiddel i Unionen, og som består av, er isolert fra eller framstilt fra et anlegg eller andre sorter av den samme arten, frambrakt ved:tradisjonelle formeringsmetoder som har blitt brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, ellerikke-tradisjonelle formeringsmetoder som ikke har blitt brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, dersom slike metoder ikke medfører vesentlige endringer i næringsmiddelets sammensetning eller struktur, påvirker dets næringsverdi, metabolisme eller innhold av uønskede stoffer,næringsmiddel som består av, er isolert fra eller framstilt av dyr eller deler av dyr, unntatt dyr frambrakt ved tradisjonelle formeringsmetoder som har vært brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, og det kan vises til langvarig sikker bruk av næringsmiddelet fra disse dyrene som næringsmiddel i Unionen.næringsmiddel som består av, er isolert fra eller framstilt av cellekultur eller vevskultur fra dyr, planter, mikroorganismer, sopp eller alger,næringsmiddel som er et resultat av en produksjonsprosess som før 15. mai 1997 ikke ble brukt i Unionen til næringsmiddelproduksjon, og som medfører vesentlige endringer i næringsmiddelets sammensetning eller struktur, påvirker dets næringsverdi, metabolisme eller innhold av uønskede stoffer,næringsmiddel som består av industrielt framstilte nanomaterialer som definert i bokstav f) i dette nummer,vitaminer, mineraler og andre stoffer som brukes i samsvar med direktiv [2002/46/EF](eu/32002l0046), forordning [(EF) nr. 1925/2006](eu/32006r1925) eller forordning [(EU) nr. 609/2013](eu/32013r0609), dersomen produksjonsprosess som før 15. mai 1997 ikke ble brukt i Unionen til næringsmiddelproduksjon, har vært brukt som nevnt i bokstav a) vii) i dette nummer, ellerde inneholder eller består av industrielt framstilte nanomaterialer som definert i bokstav f) i dette nummer,næringsmiddel som utelukkende brukes i kosttilskudd i Unionen før 15. mai 1997, der det er beregnet på bruk i andre næringsmidler enn kosttilskudd som definert i artikkel 2 bokstav a) i direktiv [2002/46/EF](eu/32002l0046),«langvarig sikker bruk som næringsmiddel i en tredjestat» at tryggheten for det aktuelle næringsmiddelet er bekreftet med opplysninger om sammensetning og erfaring med kontinuerlig bruk i minst 25 år i vanlig kosthold for et vesentlig antall mennesker i minst én tredjestat, før innsending av meldingen nevnt i artikkel,«tradisjonelt næringsmiddel fra en tredjestat» et nytt næringsmiddel som definert i bokstav a) i dette nummer, bortsett fra nye næringsmidler som nevnt i bokstav a) i), iii), vii), viii), ix) og x), fra primærproduksjon som definert i artikkel 3 nr. 17 i forordning [(EF) nr. 178/2002](eu/32002r0178), der det kan vises til langvarig sikker bruk som næringsmiddel i en tredjestat,«søker» medlemsstaten, tredjestaten eller den berørte part, som kan representere flere berørte parter, og som har sendt inn til Kommisjonen en søknad i samsvar med artikkel 10 eller artikkel 16 eller en melding i samsvar med artikkel 14,«gyldig» når det gjelder en søknad eller en melding som omfattes av denne forordning, en søknad eller melding som inneholder de opplysninger som kreves for risikovurdering og godkjenning,«industrielt framstilt nanomateriale» materiale som er forsettlig framstilt, og som har én eller flere dimensjoner i størrelsesordenen 100 nm eller mindre, eller som har en indre struktur eller overflate som består av atskilte funksjonelle deler der mange har én eller flere dimensjoner i størrelsesordenen 100 nm eller mindre, herunder strukturer, agglomerater eller aggregater som kan være større enn 100 nm, men som bevarer egenskaper som er karakteristiske for nanostørrelser.Blant egenskapene som kjennetegner nanostørrelser, eregenskaper som er knyttet til det aktuelle materialets store spesifikke overflateareal, og/ellerspesifikke fysisk-kjemiske egenskaper som skiller seg fra egenskapene til det samme materialet i ikke-nanoform.
+2\. I denne forordning menes dessuten med:
+
+1. «nytt næringsmiddel» ethvert næringsmiddel som ikke i vesentlig grad har blitt brukt til konsum i Unionen før 15. mai 1997, uavhengig av datoene for medlemsstatenes tiltredelse til Unionen, og som tilhører minst én av følgende kategorier:
+
+   1. næringsmiddel med en ny eller forsettlig endret molekylstruktur, dersom denne strukturen ikke har blitt brukt som eller i et næringsmiddel i Unionen før 15. mai 1997,
+   2. næringsmiddel som består av, er isolert fra eller framstilt av mikroorganismer, sopp eller alger,
+   3. næringsmiddel som består av, er isolert fra eller framstilt av materiale av mineralsk opprinnelse,
+   4. næringsmiddel som består av, er isolert fra eller framstilt av planter eller deler av planter, unntatt når det foreligger langvarig sikker bruk som næringsmiddel i Unionen, og som består av, er isolert fra eller framstilt fra et anlegg eller andre sorter av den samme arten, frambrakt ved:
+
+      - tradisjonelle formeringsmetoder som har blitt brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, eller
+      - ikke-tradisjonelle formeringsmetoder som ikke har blitt brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, dersom slike metoder ikke medfører vesentlige endringer i næringsmiddelets sammensetning eller struktur, påvirker dets næringsverdi, metabolisme eller innhold av uønskede stoffer,
+   5. næringsmiddel som består av, er isolert fra eller framstilt av dyr eller deler av dyr, unntatt dyr frambrakt ved tradisjonelle formeringsmetoder som har vært brukt til produksjon av næringsmidler i Unionen før 15. mai 1997, og det kan vises til langvarig sikker bruk av næringsmiddelet fra disse dyrene som næringsmiddel i Unionen.
+   6. næringsmiddel som består av, er isolert fra eller framstilt av cellekultur eller vevskultur fra dyr, planter, mikroorganismer, sopp eller alger,
+   7. næringsmiddel som er et resultat av en produksjonsprosess som før 15. mai 1997 ikke ble brukt i Unionen til næringsmiddelproduksjon, og som medfører vesentlige endringer i næringsmiddelets sammensetning eller struktur, påvirker dets næringsverdi, metabolisme eller innhold av uønskede stoffer,
+   8. næringsmiddel som består av industrielt framstilte nanomaterialer som definert i bokstav f) i dette nummer,
+   9. vitaminer, mineraler og andre stoffer som brukes i samsvar med direktiv [2002/46/EF](eu/32002l0046), forordning [(EF) nr. 1925/2006](eu/32006r1925) eller forordning [(EU) nr. 609/2013](eu/32013r0609), dersom
+
+      - en produksjonsprosess som før 15. mai 1997 ikke ble brukt i Unionen til næringsmiddelproduksjon, har vært brukt som nevnt i bokstav a) vii) i dette nummer, eller
+      - de inneholder eller består av industrielt framstilte nanomaterialer som definert i bokstav f) i dette nummer,
+   10. næringsmiddel som utelukkende brukes i kosttilskudd i Unionen før 15. mai 1997, der det er beregnet på bruk i andre næringsmidler enn kosttilskudd som definert i artikkel 2 bokstav a) i direktiv [2002/46/EF](eu/32002l0046),
+2. «langvarig sikker bruk som næringsmiddel i en tredjestat» at tryggheten for det aktuelle næringsmiddelet er bekreftet med opplysninger om sammensetning og erfaring med kontinuerlig bruk i minst 25 år i vanlig kosthold for et vesentlig antall mennesker i minst én tredjestat, før innsending av meldingen nevnt i artikkel,
+3. «tradisjonelt næringsmiddel fra en tredjestat» et nytt næringsmiddel som definert i bokstav a) i dette nummer, bortsett fra nye næringsmidler som nevnt i bokstav a) i), iii), vii), viii), ix) og x), fra primærproduksjon som definert i artikkel 3 nr. 17 i forordning [(EF) nr. 178/2002](eu/32002r0178), der det kan vises til langvarig sikker bruk som næringsmiddel i en tredjestat,
+4. «søker» medlemsstaten, tredjestaten eller den berørte part, som kan representere flere berørte parter, og som har sendt inn til Kommisjonen en søknad i samsvar med artikkel 10 eller artikkel 16 eller en melding i samsvar med artikkel 14,
+5. «gyldig» når det gjelder en søknad eller en melding som omfattes av denne forordning, en søknad eller melding som inneholder de opplysninger som kreves for risikovurdering og godkjenning,
+6. «industrielt framstilt nanomateriale» materiale som er forsettlig framstilt, og som har én eller flere dimensjoner i størrelsesordenen 100 nm eller mindre, eller som har en indre struktur eller overflate som består av atskilte funksjonelle deler der mange har én eller flere dimensjoner i størrelsesordenen 100 nm eller mindre, herunder strukturer, agglomerater eller aggregater som kan være større enn 100 nm, men som bevarer egenskaper som er karakteristiske for nanostørrelser.
+
+   Blant egenskapene som kjennetegner nanostørrelser, er
+
+   1. egenskaper som er knyttet til det aktuelle materialets store spesifikke overflateareal, og/eller
+   2. spesifikke fysisk-kjemiske egenskaper som skiller seg fra egenskapene til det samme materialet i ikke-nanoform.
 
 ### Artikkel 4. Framgangsmåte for fastsettelse av status som nytt næringsmiddel
 
@@ -235,7 +272,11 @@ KRAV TIL OMSETNING AV NYE NÆRINGSMIDLER PÅ MARKEDET I UNIONEN
 
 ### Artikkel 7. Alminnelige vilkår for oppføring av nye næringsmidler på EU-listen
 
-Kommisjonen skal bare godkjenne og oppføre et nytt næringsmiddel på EU-listen dersom det oppfyller følgende vilkår:næringsmiddelet utgjør, på grunnlag av den foreliggende vitenskapelige dokumentasjon, ikke noen sikkerhetsrisiko for menneskers helse,næringsmiddelets tiltenkte bruk villeder ikke forbrukeren, særlig ikke når næringsmiddelet er ment å erstatte et annet næringsmiddel og det foreligger en vesentlig endring i næringsverdi,dersom næringsmiddelet er ment å erstatte et annet næringsmiddel, kan det ikke skille seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
+Kommisjonen skal bare godkjenne og oppføre et nytt næringsmiddel på EU-listen dersom det oppfyller følgende vilkår:
+
+1. næringsmiddelet utgjør, på grunnlag av den foreliggende vitenskapelige dokumentasjon, ikke noen sikkerhetsrisiko for menneskers helse,
+2. næringsmiddelets tiltenkte bruk villeder ikke forbrukeren, særlig ikke når næringsmiddelet er ment å erstatte et annet næringsmiddel og det foreligger en vesentlig endring i næringsverdi,
+3. dersom næringsmiddelet er ment å erstatte et annet næringsmiddel, kan det ikke skille seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
 
 ### Artikkel 8. Førstegangs utarbeiding av EU-listen
 
@@ -245,11 +286,22 @@ Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med rådgivende
 
 ### Artikkel 9. Innhold i og ajourføring av EU-listen
 
-1\. Kommisjonen skal godkjenne et nytt næringsmiddel og ajourføre EU-listen i samsvar med reglene fastsatt iartikkel 10, 11 og 12 og eventuelt artikkel 27, ellerartikkel 14–19.
+1\. Kommisjonen skal godkjenne et nytt næringsmiddel og ajourføre EU-listen i samsvar med reglene fastsatt i
 
-2\. Godkjenningen av et nytt næringsmiddel og ajourføringen av EU-listen i nr. 1 skal bestå av et av følgende:tilføyelse av et nytt næringsmiddel på EU-listen,fjerning av et nytt næringsmiddel fra EU-listen,tilføyelse, fjerning eller endring av spesifikasjoner, vilkår for bruk, ytterligere særlige merkingskrav eller krav om overvåking etter markedsføring i forbindelse med oppføringen av et nytt næringsmiddel på EU-listen.
+1. artikkel 10, 11 og 12 og eventuelt artikkel 27, eller
+2. artikkel 14–19.
 
-3\. Opplysningene om et nytt næringsmiddel på EU-listen i nr. 2 skal inneholde spesifikasjonen av det nye næringsmiddelet og eventuelt:vilkårene for bruk av det nye næringsmiddelet, herunder spesielt krav som er nødvendige for å unngå mulige negative virkninger for bestemte befolkningsgrupper, overskridelse av øvre grenser for inntak og risiko i tilfelle overdrevet inntak,ytterligere særlige merkingskrav for å informere sluttbrukeren om eventuelle kjennetegn eller egenskaper ved næringsmiddelet, for eksempel sammensetning, næringsverdi eller ernæringsmessige virkninger og tiltenkt bruk av næringsmiddelet, som innebærer at det nye næringsmiddelet ikke lenger tilsvarer et eksisterende næringsmiddel, eller at det kan påvirke helsen til bestemte befolkningsgrupper,krav om overvåking etter markedsføring i samsvar med artikkel 24.
+2\. Godkjenningen av et nytt næringsmiddel og ajourføringen av EU-listen i nr. 1 skal bestå av et av følgende:
+
+1. tilføyelse av et nytt næringsmiddel på EU-listen,
+2. fjerning av et nytt næringsmiddel fra EU-listen,
+3. tilføyelse, fjerning eller endring av spesifikasjoner, vilkår for bruk, ytterligere særlige merkingskrav eller krav om overvåking etter markedsføring i forbindelse med oppføringen av et nytt næringsmiddel på EU-listen.
+
+3\. Opplysningene om et nytt næringsmiddel på EU-listen i nr. 2 skal inneholde spesifikasjonen av det nye næringsmiddelet og eventuelt:
+
+1. vilkårene for bruk av det nye næringsmiddelet, herunder spesielt krav som er nødvendige for å unngå mulige negative virkninger for bestemte befolkningsgrupper, overskridelse av øvre grenser for inntak og risiko i tilfelle overdrevet inntak,
+2. ytterligere særlige merkingskrav for å informere sluttbrukeren om eventuelle kjennetegn eller egenskaper ved næringsmiddelet, for eksempel sammensetning, næringsverdi eller ernæringsmessige virkninger og tiltenkt bruk av næringsmiddelet, som innebærer at det nye næringsmiddelet ikke lenger tilsvarer et eksisterende næringsmiddel, eller at det kan påvirke helsen til bestemte befolkningsgrupper,
+3. krav om overvåking etter markedsføring i samsvar med artikkel 24.
 
 ### KAPITTEL III
 FRAMGANGSMÅTER FOR GODKJENNING AV ET NYTT NÆRINGSMIDDEL
@@ -263,19 +315,35 @@ Framgangsmåte for godkjenning av omsetning i Unionen av et nytt næringsmiddel 
 
 ►**M1**
 
-1\. Framgangsmåten for godkjenning av at et nytt næringsmiddel bringes i omsetning i Unionen og for ajourføring av EU-listen i henhold til artikkel 9 i denne forordningen skal innledes etter initiativ fra Kommisjonen eller på grunnlag av en søknad til Kommisjonen fra en søker i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002. Kommisjonen skal umiddelbart gjøre søknaden tilgjengelig for medlemsstatene. Kommisjonen skal offentliggjøre et sammendrag av søknaden på grunnlag av opplysningene nevnt i nr. 2 bokstav a), b) og e) i denne artikkelen.◄**M1**
+1\. Framgangsmåten for godkjenning av at et nytt næringsmiddel bringes i omsetning i Unionen og for ajourføring av EU-listen i henhold til artikkel 9 i denne forordningen skal innledes etter initiativ fra Kommisjonen eller på grunnlag av en søknad til Kommisjonen fra en søker i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002. Kommisjonen skal umiddelbart gjøre søknaden tilgjengelig for medlemsstatene. Kommisjonen skal offentliggjøre et sammendrag av søknaden på grunnlag av opplysningene nevnt i nr. 2 bokstav a), b) og e) i denne artikkelen.
 
-2\. Søknaden om godkjenning skal inneholdesøkerens navn og adresse,navnet på og beskrivelsen av det nye næringsmiddelet,beskrivelsen av produksjonsprosessen(e)utførlige opplysninger om det nye næringsmiddelets sammensetning,vitenskapelig dokumentasjon som viser at det nye næringsmiddelet ikke utgjør en sikkerhetsrisiko for menneskers eller dyrs helse,ved behov analysemetode(r),et forslag til vilkår for tiltenkt bruk og særlige merkingskrav som ikke villeder forbrukeren, eller en etterprøvbar begrunnelse for hvorfor dette ikke er nødvendig.
+◄**M1**
+
+2\. Søknaden om godkjenning skal inneholde
+
+1. søkerens navn og adresse,
+2. navnet på og beskrivelsen av det nye næringsmiddelet,
+3. beskrivelsen av produksjonsprosessen(e)
+4. utførlige opplysninger om det nye næringsmiddelets sammensetning,
+5. vitenskapelig dokumentasjon som viser at det nye næringsmiddelet ikke utgjør en sikkerhetsrisiko for menneskers eller dyrs helse,
+6. ved behov analysemetode(r),
+7. et forslag til vilkår for tiltenkt bruk og særlige merkingskrav som ikke villeder forbrukeren, eller en etterprøvbar begrunnelse for hvorfor dette ikke er nødvendig.
 
 ►**M1**
 
-3\. Dersom Kommisjonen ber om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet («myndigheten»), skal myndigheten offentliggjøre søknaden i samsvar med artikkel 23 og avgi sin uttalelse om hvorvidt ajourføringen kan påvirke menneskers helse.◄**M1**
+3\. Dersom Kommisjonen ber om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet («myndigheten»), skal myndigheten offentliggjøre søknaden i samsvar med artikkel 23 og avgi sin uttalelse om hvorvidt ajourføringen kan påvirke menneskers helse.
+
+◄**M1**
 
 4\. Dersom prøvingsmetodene anvendes på industrielt framstilte nanomaterialer som nevnt i artikkel 3 nr. 2 bokstav a) viii) og ix), skal søkerne legge ved en forklaring om at de er vitenskapelig egnet for nanomaterialer, og der det er relevant, om de tekniske tilpasningene eller justeringene som er gjort for å ta hensyn til disse materialenes særlige egenskaper.
 
 5\. Framgangsmåten for godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen i artikkel 9 skal avsluttes med vedtakelsen av en gjennomføringsrettsakt i samsvar med artikkel 12.
 
-6\. Som unntak fra nr. 5 kan Kommisjonen på et hvilket som helst stadium avslutte framgangsmåten og beslutte å avstå fra å foreta ajourføringen dersom den anser at en ajourføring ikke er begrunnet.I slike tilfeller skal Kommisjonen der det er relevant, ta hensyn til medlemsstatenes synspunkter, Myndighetens uttalelse og andre berettigede faktorer som er relevante for den aktuelle ajourføringen.Kommisjonen skal underrette søkeren og alle medlemsstatene direkte om årsakene til at den ikke anser ajourføringen som begrunnet. Kommisjonen skal offentliggjøre listen over disse søknadene.
+6\. Som unntak fra nr. 5 kan Kommisjonen på et hvilket som helst stadium avslutte framgangsmåten og beslutte å avstå fra å foreta ajourføringen dersom den anser at en ajourføring ikke er begrunnet.
+
+I slike tilfeller skal Kommisjonen der det er relevant, ta hensyn til medlemsstatenes synspunkter, Myndighetens uttalelse og andre berettigede faktorer som er relevante for den aktuelle ajourføringen.
+
+Kommisjonen skal underrette søkeren og alle medlemsstatene direkte om årsakene til at den ikke anser ajourføringen som begrunnet. Kommisjonen skal offentliggjøre listen over disse søknadene.
 
 7\. Søkeren kan når som helst trekke tilbake søknaden og dermed avslutte framgangsmåten.
 
@@ -285,15 +353,25 @@ Uttalelse fra Myndigheten
 
 1\. Dersom Kommisjonen anmoder om en uttalelse fra Myndigheten, skal den oversende den gyldige søknaden til Myndigheten umiddelbart og senest én måned etter at den har bekreftet at søknaden er gyldig. Myndigheten skal vedta sin uttalelse senest ni måneder etter at den har mottatt en gyldig søknad.
 
-2\. Når Myndigheten vurderer tryggheten ved nye næringsmidler, skal den, dersom det er hensiktsmessig, vurdere omdet nye næringsmiddelet er like trygt som et næringsmiddel fra en sammenlignbar næringsmiddelkategori som allerede er brakt i omsetning i Unionen,det nye næringsmiddelets sammensetning og vilkår for bruk utgjør en sikkerhetsrisiko for menneskers eller dyrs helse i Unionen,et næringsmiddel som er ment å erstatte et annet næringsmiddel, skiller seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
+2\. Når Myndigheten vurderer tryggheten ved nye næringsmidler, skal den, dersom det er hensiktsmessig, vurdere om
+
+1. det nye næringsmiddelet er like trygt som et næringsmiddel fra en sammenlignbar næringsmiddelkategori som allerede er brakt i omsetning i Unionen,
+2. det nye næringsmiddelets sammensetning og vilkår for bruk utgjør en sikkerhetsrisiko for menneskers eller dyrs helse i Unionen,
+3. et næringsmiddel som er ment å erstatte et annet næringsmiddel, skiller seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
 
 3\. Myndigheten skal oversende sin uttalelse til Kommisjonen, medlemsstatene og eventuelt søkeren.
 
-4\. I behørig begrunnede tilfeller der Myndigheten anmoder søkeren om tilleggsopplysninger, kan fristen på ni måneder fastsatt i nr. 1, forlenges.Etter samråd med søkeren skal Myndigheten fastsette en frist for framleggelse av tilleggsopplysninger og underrette Kommisjonen om denne.Dersom Kommisjonen ikke framsetter innvendinger mot forlengelsen innen åtte virkedager etter Myndighetens underretning, skal fristen på ni måneder fastsatt i nr. 1 automatisk forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen.
+4\. I behørig begrunnede tilfeller der Myndigheten anmoder søkeren om tilleggsopplysninger, kan fristen på ni måneder fastsatt i nr. 1, forlenges.
+
+Etter samråd med søkeren skal Myndigheten fastsette en frist for framleggelse av tilleggsopplysninger og underrette Kommisjonen om denne.
+
+Dersom Kommisjonen ikke framsetter innvendinger mot forlengelsen innen åtte virkedager etter Myndighetens underretning, skal fristen på ni måneder fastsatt i nr. 1 automatisk forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen.
 
 5\. Dersom tilleggsopplysningene nevnt i nr. 4 ikke sendes til Myndigheten innen utløpet av den forlengede fristen nevnt i samme nummer, skal Myndigheten utarbeide sin uttalelse på grunnlag av tilgjengelige opplysninger.
 
-6\. Når en søker framlegger tilleggsopplysninger på eget initiativ, skal den sende dem til Myndigheten.I slike tilfeller skal Myndigheten avgi sin uttalelse innen fristen på ni måneder fastsatt i nr. 1.
+6\. Når en søker framlegger tilleggsopplysninger på eget initiativ, skal den sende dem til Myndigheten.
+
+I slike tilfeller skal Myndigheten avgi sin uttalelse innen fristen på ni måneder fastsatt i nr. 1.
 
 7\. Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6, tilgjengelig for Kommisjonen og medlemsstatene.
 
@@ -301,7 +379,14 @@ Uttalelse fra Myndigheten
 
 Godkjenning av et nytt næringsmiddel og ajourføringer av EU-listen
 
-1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),Myndighetens uttalelse,alle andre berettigede faktorer som er relevante for den aktuelle søknaden.Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
+1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:
+
+1. vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,
+2. alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+3. Myndighetens uttalelse,
+4. alle andre berettigede faktorer som er relevante for den aktuelle søknaden.
+
+Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
 
 2\. Dersom Kommisjonen ikke har anmodet om en uttalelse fra Myndigheten i samsvar med artikkel 10 nr. 3, skal fristen på sju måneder fastsatt i nr. 1, begynne å løpe fra den dato da en gyldig søknad er mottatt av Kommisjonen i samsvar med artikkel 10 nr. 1.
 
@@ -309,7 +394,11 @@ Godkjenning av et nytt næringsmiddel og ajourføringer av EU-listen
 
 Gjennomføringsrettsakter om fastsettelse av administrative og vitenskapelige krav til søknader
 
-Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker ominnhold, utarbeiding og framleggelse av søknaden nevnt i artikkel 10 nr. 1,nærmere bestemmelser om omgående bekreftelse av slike søknaders gyldighet,hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 11.
+Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker om
+
+1. innhold, utarbeiding og framleggelse av søknaden nevnt i artikkel 10 nr. 1,
+2. nærmere bestemmelser om omgående bekreftelse av slike søknaders gyldighet,
+3. hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 11.
 
 Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 30 nr. 3.
 
@@ -322,7 +411,14 @@ Melding om et tradisjonelt næringsmiddel fra en tredjestat
 
 I stedet for å følge framgangsmåten nevnt i artikkel 10 kan en søker som har til hensikt å bringe i omsetning i Unionen et tradisjonelt næringsmiddel fra en tredjestat, velge å sende en melding om dette til Kommisjonen.
 
-Meldingen skal inneholde følgende opplysninger:søkerens navn og adresse,navnet på og beskrivelsen av det tradisjonelle næringsmiddelet,nærmere opplysninger om det tradisjonelle næringsmiddelets sammensetning,det tradisjonelle næringsmiddelets opprinnelsesstat eller -stater,dokumenterte opplysninger om langvarig sikker bruk som næringsmiddel i en tredjestat,et forslag til vilkår for tiltenkt bruk og særlige merkingskrav som ikke villeder forbrukeren, eller en etterprøvbar begrunnelse for hvorfor dette ikke er nødvendig.
+Meldingen skal inneholde følgende opplysninger:
+
+1. søkerens navn og adresse,
+2. navnet på og beskrivelsen av det tradisjonelle næringsmiddelet,
+3. nærmere opplysninger om det tradisjonelle næringsmiddelets sammensetning,
+4. det tradisjonelle næringsmiddelets opprinnelsesstat eller -stater,
+5. dokumenterte opplysninger om langvarig sikker bruk som næringsmiddel i en tredjestat,
+6. et forslag til vilkår for tiltenkt bruk og særlige merkingskrav som ikke villeder forbrukeren, eller en etterprøvbar begrunnelse for hvorfor dette ikke er nødvendig.
 
 ###### Artikkel 15
 
@@ -332,21 +428,33 @@ Framgangsmåte for melding om omsetning i Unionen av et tradisjonelt næringsmid
 
 ►**M1**
 
-2\. Senest fire måneder etter at Kommisjonen har oversendt en gyldig melding i samsvar med nr. 1 i denne artikkelen, kan en medlemsstat eller myndigheten framsette behørig begrunnede trygghetsrelaterte innvendinger overfor Kommisjonen mot at det aktuelle tradisjonelle næringsmiddelet bringes i omsetning i Unionen. Dersom myndigheten framsetter behørig begrunnede trygghetsinnvendinger, skal den umiddelbart offentliggjøre meldingen i henhold til artikkel 23, som gjelder tilsvarende med nødvendige endringer.◄**M1**
+2\. Senest fire måneder etter at Kommisjonen har oversendt en gyldig melding i samsvar med nr. 1 i denne artikkelen, kan en medlemsstat eller myndigheten framsette behørig begrunnede trygghetsrelaterte innvendinger overfor Kommisjonen mot at det aktuelle tradisjonelle næringsmiddelet bringes i omsetning i Unionen. Dersom myndigheten framsetter behørig begrunnede trygghetsinnvendinger, skal den umiddelbart offentliggjøre meldingen i henhold til artikkel 23, som gjelder tilsvarende med nødvendige endringer.
+
+◄**M1**
 
 3\. Kommisjonen skal underrette søkeren om enhver behørig begrunnet sikkerhetsrelatert innvending så snart den er framsatt. Medlemsstatene, Myndigheten og søkeren skal underrettes om utfallet av framgangsmåten nevnt i nr. 2.
 
-4\. Dersom det ikke er kommet inn noen behørig begrunnede sikkerhetsrelaterte innvendinger i samsvar med nr. 2 innen fristen fastsatt i nevnte nummer, skal Kommisjonen tillate omsetning i Unionen av det berørte tradisjonelle næringsmiddelet og umiddelbart ajourføre EU-listen.Opplysningene på EU-listen skal angi at posten gjelder et tradisjonelt næringsmiddel fra en tredjestat.Dersom det er relevant, skal visse vilkår for bruk, særlige merkingskrav eller krav om overvåking etter markedsføring være angitt.
+4\. Dersom det ikke er kommet inn noen behørig begrunnede sikkerhetsrelaterte innvendinger i samsvar med nr. 2 innen fristen fastsatt i nevnte nummer, skal Kommisjonen tillate omsetning i Unionen av det berørte tradisjonelle næringsmiddelet og umiddelbart ajourføre EU-listen.
 
-5\. Dersom det er framsatt behørig begrunnede sikkerhetsrelaterte innvendinger for Kommisjonen i samsvar med nr. 2, skal Kommisjonen ikke tillate omsetning i Unionen av det berørte tradisjonelle næringsmiddelet eller ajourføre EU-listen.I slike tilfeller kan søkeren inngi en søknad til Kommisjonen i samsvar med artikkel 16.
+Opplysningene på EU-listen skal angi at posten gjelder et tradisjonelt næringsmiddel fra en tredjestat.
+
+Dersom det er relevant, skal visse vilkår for bruk, særlige merkingskrav eller krav om overvåking etter markedsføring være angitt.
+
+5\. Dersom det er framsatt behørig begrunnede sikkerhetsrelaterte innvendinger for Kommisjonen i samsvar med nr. 2, skal Kommisjonen ikke tillate omsetning i Unionen av det berørte tradisjonelle næringsmiddelet eller ajourføre EU-listen.
+
+I slike tilfeller kan søkeren inngi en søknad til Kommisjonen i samsvar med artikkel 16.
 
 ###### Artikkel 16
 
 Søknad om godkjenning av et tradisjonelt næringsmiddel fra en tredjestat
 
-Dersom Kommisjonen i samsvar med artikkel 15 nr. 5 ikke tillater omsetning i Unionen av et tradisjonelt næringsmiddel fra en tredjestat eller ajourfører EU-listen, kan søkeren inngi en søknad som i tillegg til opplysningene som allerede er gitt i samsvar med artikkel 14, inneholder dokumenterte opplysninger om de behørig begrunnede sikkerhetsrelaterte innvendingene framsatt i samsvar med artikkel 15 nr. 2. ►**M1** Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002.◄**M1**
+Dersom Kommisjonen i samsvar med artikkel 15 nr. 5 ikke tillater omsetning i Unionen av et tradisjonelt næringsmiddel fra en tredjestat eller ajourfører EU-listen, kan søkeren inngi en søknad som i tillegg til opplysningene som allerede er gitt i samsvar med artikkel 14, inneholder dokumenterte opplysninger om de behørig begrunnede sikkerhetsrelaterte innvendingene framsatt i samsvar med artikkel 15 nr. 2. ►**M1** Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002.
 
-Kommisjonen skal umiddelbart oversende den gyldige søknaden til Myndigheten og gjøre den tilgjengelig for medlemsstatene. ►**M1** Myndigheten skal offentliggjøre søknaden, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger som søkeren har framlagt, i samsvar med artikkel 23.◄**M1**
+◄**M1**
+
+Kommisjonen skal umiddelbart oversende den gyldige søknaden til Myndigheten og gjøre den tilgjengelig for medlemsstatene. ►**M1** Myndigheten skal offentliggjøre søknaden, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger som søkeren har framlagt, i samsvar med artikkel 23.
+
+◄**M1**
 
 ###### Artikkel 17
 
@@ -354,15 +462,25 @@ Uttalelse fra Myndigheten om et tradisjonelt næringsmiddel fra en tredjestat
 
 1\. Myndigheten skal vedta sin uttalelse senest seks måneder etter at den har mottatt en gyldig søknad.
 
-2\. Når Myndigheten vurderer tryggheten ved et tradisjonelt næringsmiddel fra en tredjestat, skal den ta hensyn til følgende forhold:om opplysningene om langvarig sikker bruk som næringsmiddel i en tredjestat er underbygd av pålitelige data framlagt av søkeren i samsvar med artikkel 14 og 16,om næringsmiddelets sammensetning og vilkår for bruk ikke utgjør en sikkerhetsrisiko for menneskers helse i Unionen,dersom det tradisjonelle næringsmiddelet fra tredjestaten er ment å erstatte et annet næringsmiddel, om det skiller seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
+2\. Når Myndigheten vurderer tryggheten ved et tradisjonelt næringsmiddel fra en tredjestat, skal den ta hensyn til følgende forhold:
+
+1. om opplysningene om langvarig sikker bruk som næringsmiddel i en tredjestat er underbygd av pålitelige data framlagt av søkeren i samsvar med artikkel 14 og 16,
+2. om næringsmiddelets sammensetning og vilkår for bruk ikke utgjør en sikkerhetsrisiko for menneskers helse i Unionen,
+3. dersom det tradisjonelle næringsmiddelet fra tredjestaten er ment å erstatte et annet næringsmiddel, om det skiller seg fra dette på en slik måte at vanlig konsum av det vil være ernæringsmessig uheldig for forbrukeren.
 
 3\. Myndigheten skal oversende sin uttalelse til Kommisjonen, medlemsstatene og søkeren.
 
-4\. I behørig begrunnede tilfeller der Myndigheten anmoder søkeren om tilleggsopplysninger, kan fristen på seks måneder fastsatt i nr. 1, forlenges.Etter samråd med søkeren skal Myndigheten fastsette en frist for framleggelse av tilleggsopplysninger og underrette Kommisjonen om denne.Dersom Kommisjonen ikke framsetter innvendinger mot forlengelsen innen åtte virkedager etter Myndighetens underretning, skal fristen på seks måneder fastsatt i nr. 1 automatisk forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen.
+4\. I behørig begrunnede tilfeller der Myndigheten anmoder søkeren om tilleggsopplysninger, kan fristen på seks måneder fastsatt i nr. 1, forlenges.
+
+Etter samråd med søkeren skal Myndigheten fastsette en frist for framleggelse av tilleggsopplysninger og underrette Kommisjonen om denne.
+
+Dersom Kommisjonen ikke framsetter innvendinger mot forlengelsen innen åtte virkedager etter Myndighetens underretning, skal fristen på seks måneder fastsatt i nr. 1 automatisk forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen.
 
 5\. Dersom tilleggsopplysningene nevnt i nr. 4 ikke sendes til Myndigheten innen utløpet av den forlengede fristen nevnt i samme nummer, skal Myndigheten utarbeide sin uttalelse på grunnlag av tilgjengelige opplysninger.
 
-6\. Når en søker framlegger tilleggsopplysninger på eget initiativ, skal den sende dem til Myndigheten.I slike tilfeller skal Myndigheten avgi sin uttalelse innen fristen på seks måneder fastsatt i nr. 1.
+6\. Når en søker framlegger tilleggsopplysninger på eget initiativ, skal den sende dem til Myndigheten.
+
+I slike tilfeller skal Myndigheten avgi sin uttalelse innen fristen på seks måneder fastsatt i nr. 1.
 
 7\. Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6 tilgjengelig for Kommisjonen og medlemsstatene.
 
@@ -370,9 +488,20 @@ Uttalelse fra Myndigheten om et tradisjonelt næringsmiddel fra en tredjestat
 
 Godkjenning av et tradisjonelt næringsmiddel fra en tredjestat og ajourføringer av EU-listen
 
-1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),Myndighetens uttalelse,alle andre berettigede faktorer som er relevante for den aktuelle søknaden.Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
+1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:
 
-2\. Som unntak fra nr. 1 kan Kommisjonen på et hvilket som helst stadium avslutte framgangsmåten og beslutte å avstå fra å foreta ajourføringen dersom den anser at en ajourføring ikke er begrunnet.I slikt tilfelle skal Kommisjonen der det er relevant, ta hensyn til medlemsstatenes synspunkter, Myndighetens uttalelse og andre berettigede faktorer som er relevante for den aktuelle ajourføringen.Kommisjonen skal underrette søkeren og alle medlemsstatene direkte om årsakene til at den ikke anser ajourføringen som begrunnet.
+1. vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,
+2. alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+3. Myndighetens uttalelse,
+4. alle andre berettigede faktorer som er relevante for den aktuelle søknaden.
+
+Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
+
+2\. Som unntak fra nr. 1 kan Kommisjonen på et hvilket som helst stadium avslutte framgangsmåten og beslutte å avstå fra å foreta ajourføringen dersom den anser at en ajourføring ikke er begrunnet.
+
+I slikt tilfelle skal Kommisjonen der det er relevant, ta hensyn til medlemsstatenes synspunkter, Myndighetens uttalelse og andre berettigede faktorer som er relevante for den aktuelle ajourføringen.
+
+Kommisjonen skal underrette søkeren og alle medlemsstatene direkte om årsakene til at den ikke anser ajourføringen som begrunnet.
 
 3\. Søkeren kan når som helst trekke tilbake søknaden nevnt i artikkel 16 og dermed avslutte framgangsmåten.
 
@@ -386,7 +515,12 @@ Artikkel 10–13 kommer til anvendelse ved fjerning fra EU-listen av et tradisjo
 
 Gjennomføringsrettsakter om fastsettelse av administrative og vitenskapelige krav til tradisjonelle næringsmidler fra tredjestater
 
-Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker ominnhold, utarbeiding og framleggelse av meldingene nevnt i artikkel 14 og søknadene nevnt i nr. 16,nærmere bestemmelser om omgående kontroll av at slike meldinger og søknader er gyldige,ordninger for utveksling av opplysninger med medlemsstatene og med Myndigheten når det gjelder framsetting av behørig begrunnede sikkerhetsrelaterte innvendinger som nevnt i artikkel 15 nr. 2,hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 17.
+Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker om
+
+1. innhold, utarbeiding og framleggelse av meldingene nevnt i artikkel 14 og søknadene nevnt i nr. 16,
+2. nærmere bestemmelser om omgående kontroll av at slike meldinger og søknader er gyldige,
+3. ordninger for utveksling av opplysninger med medlemsstatene og med Myndigheten når det gjelder framsetting av behørig begrunnede sikkerhetsrelaterte innvendinger som nevnt i artikkel 15 nr. 2,
+4. hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 17.
 
 Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 30 nr. 3.
 
@@ -395,7 +529,9 @@ YTTERLIGERE SAKSBEHANDLINGSREGLER OG ANDRE KRAV
 
 ### Artikkel 21. Tilleggsopplysninger om risikohåndtering
 
-1\. Dersom Kommisjonen anmoder en søker om tilleggsopplysninger om risikohåndtering, skal den i samråd med søkeren fastsette en frist for framleggelse av opplysningene.I slike tilfeller kan fristen nevnt i artikkel 12 nr. 1 eller 2 eller i artikkel 18 nr. 1 forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen og når tilleggsopplysningene er mottatt, gjøre dem tilgjengelig for medlemsstatene.
+1\. Dersom Kommisjonen anmoder en søker om tilleggsopplysninger om risikohåndtering, skal den i samråd med søkeren fastsette en frist for framleggelse av opplysningene.
+
+I slike tilfeller kan fristen nevnt i artikkel 12 nr. 1 eller 2 eller i artikkel 18 nr. 1 forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om denne forlengelsen og når tilleggsopplysningene er mottatt, gjøre dem tilgjengelig for medlemsstatene.
 
 2\. Dersom tilleggsopplysningene nevnt i nr. 1 ikke mottas innen utløpet av den forlengede fristen nevnt i samme nummer, skal Kommisjonen utforme sin endelige uttalelse på grunnlag av tilgjengelige opplysninger.
 
@@ -415,7 +551,10 @@ Kommisjonen skal underrette søkeren og medlemsstatene om forlengelsen og grunne
 
 3\. Dersom Kommisjonen ber om uttalelse fra myndigheten i samsvar med artikkel 10 nr. 3 og artikkel 16 i denne forordningen, skal myndigheten vurdere søkerens anmodning om fortrolighet, i samsvar med artikkel 39–39e i forordning (EF) nr. 178/2002.
 
-4\. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:Dersom det er relevant, opplysninger som gis i detaljerte beskrivelser av utgangsstoffer og startpreparater og om hvordan de brukes til å framstille det nye næringsmiddelet som er gjenstand for godkjenningen, og detaljerte opplysninger om arten og sammensetningen av de spesifikke næringsmidlene eller næringsmiddelkategoriene som søkeren har til hensikt å bruke dette nye næringsmiddelet i, unntatt opplysninger som er relevante for trygghetsvurderingen.Dersom det er relevant, detaljerte analytiske opplysninger om variabilitet og stabilitet for enkeltstående produksjonspartier, unntatt opplysninger som er relevante for trygghetsvurderingen.
+4\. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:
+
+1. Dersom det er relevant, opplysninger som gis i detaljerte beskrivelser av utgangsstoffer og startpreparater og om hvordan de brukes til å framstille det nye næringsmiddelet som er gjenstand for godkjenningen, og detaljerte opplysninger om arten og sammensetningen av de spesifikke næringsmidlene eller næringsmiddelkategoriene som søkeren har til hensikt å bruke dette nye næringsmiddelet i, unntatt opplysninger som er relevante for trygghetsvurderingen.
+2. Dersom det er relevant, detaljerte analytiske opplysninger om variabilitet og stabilitet for enkeltstående produksjonspartier, unntatt opplysninger som er relevante for trygghetsvurderingen.
 
 5\. Dersom Kommisjonen ikke ber om myndighetens uttalelse i henhold til artikkel 10 og 16 i denne forordningen, skal Kommisjonen vurdere søkerens anmodning om fortrolighet. Artikkel 39, 39a og 39d i forordning (EF) nr. 178/2002 og nr. 4 i denne artikkelen gjelder tilsvarende med nødvendige endringer.
 
@@ -429,7 +568,10 @@ Kommisjonen kan, av hensyn til næringsmiddeltryggheten og idet det tas hensyn t
 
 ### Artikkel 25. Ytterligere krav til opplysninger
 
-Alle driftsansvarlige for næringsmiddelforetak som har brakt et nytt næringsmiddel i omsetning, skal umiddelbart underrette Kommisjonen om alle opplysninger som de har fått kjennskap til i forbindelse medalle nye vitenskapelige eller tekniske opplysninger som kan påvirke vurderingen av hvor trygt det er å bruke det nye næringsmiddelet,ethvert forbud eller enhver begrensning pålagt av en tredjestat der det nye næringsmiddelet er brakt i omsetning.
+Alle driftsansvarlige for næringsmiddelforetak som har brakt et nytt næringsmiddel i omsetning, skal umiddelbart underrette Kommisjonen om alle opplysninger som de har fått kjennskap til i forbindelse med
+
+1. alle nye vitenskapelige eller tekniske opplysninger som kan påvirke vurderingen av hvor trygt det er å bruke det nye næringsmiddelet,
+2. ethvert forbud eller enhver begrensning pålagt av en tredjestat der det nye næringsmiddelet er brakt i omsetning.
 
 Kommisjonen skal gjøre disse opplysningene tilgjengelig for medlemsstatene.
 
@@ -440,25 +582,44 @@ VERN AV OPPLYSNINGER
 
 1\. På anmodning fra søkeren og dersom dette understøttes av relevante og kontrollerbare opplysninger i søknaden som fastsatt i artikkel 10 nr. 1, skal nyutviklede vitenskapelige bevis eller vitenskapelige data som er vedlagt søknaden, ikke brukes til fordel for senere søknader i fem år fra datoen for godkjenning av det nye næringsmiddelet, med mindre den opprinnelige søkeren gir sitt samtykke til det.
 
-2\. Kommisjonen skal innrømme vern av opplysninger i henhold til artikkel 27 nr. 1 dersom følgende vilkår er oppfylt:den opprinnelige søkeren har i den første søknaden angitt at de nyutviklede vitenskapelige bevisene eller vitenskapelige dataene er underlagt eiendomsrett,den opprinnelige søkeren hadde enerett til å kunne vise til de vitenskapelige bevisene eller vitenskapelige dataene underlagt eiendomsrett da den første søknaden ble inngitt, ogdet nye næringsmiddelet kunne ikke ha blitt vurdert og godkjent av Myndigheten dersom den opprinnelige søkeren ikke hadde lagt fram de vitenskapelige bevisene eller vitenskapelige dataene underlagt eiendomsrett.Den opprinnelige søkeren kan imidlertid inngå avtale med en senere søker om at slike vitenskapelige bevis og vitenskapelige data kan brukes.
+2\. Kommisjonen skal innrømme vern av opplysninger i henhold til artikkel 27 nr. 1 dersom følgende vilkår er oppfylt:
+
+1. den opprinnelige søkeren har i den første søknaden angitt at de nyutviklede vitenskapelige bevisene eller vitenskapelige dataene er underlagt eiendomsrett,
+2. den opprinnelige søkeren hadde enerett til å kunne vise til de vitenskapelige bevisene eller vitenskapelige dataene underlagt eiendomsrett da den første søknaden ble inngitt, og
+3. det nye næringsmiddelet kunne ikke ha blitt vurdert og godkjent av Myndigheten dersom den opprinnelige søkeren ikke hadde lagt fram de vitenskapelige bevisene eller vitenskapelige dataene underlagt eiendomsrett.
+
+Den opprinnelige søkeren kan imidlertid inngå avtale med en senere søker om at slike vitenskapelige bevis og vitenskapelige data kan brukes.
 
 3\. Nr. 1 og 2 skal ikke få anvendelse på meldinger og søknader om omsetning i Unionen av tradisjonelle næringsmidler fra tredjestater.
 
 ### Artikkel 27. Godkjenning av et nytt næringsmiddel og oppføring på EU-listen på grunnlag av vernede vitenskapelige bevis og vitenskapelige data underlagt eiendomsrett
 
-1\. Dersom et nytt næringsmiddel godkjennes og oppføres på EU-listen i henhold til artikkel 10–12 på grunnlag av vitenskapelige bevis eller vitenskapelige data underlagt eiendomsrett som er innrømmet vern i henhold artikkel 26 nr. 1, skal posten for det nye næringsmiddelet på EU-listen, i tillegg til opplysningene nevnt i artikkel 9 nr. 3, angidatoen for oppføring av det nye næringsmiddelet på EU-listen,angivelse av at oppføringen er basert på vitenskapelige bevis og vitenskapelige data underlagt eiendomsrett som er vernet i samsvar med artikkel 26,søkerens navn og adresse,angivelse av at det nye næringsmiddelet i verneperioden for opplysningene er godkjent for omsetning i Unionen bare av søkeren angitt i bokstav c), med mindre en senere søker får godkjenning for det nye næringsmiddelet uten henvisning til de vitenskapelige bevis eller vitenskapelige data underlagt eiendomsrett som er innrømmet vern i samsvar med artikkel 26, eller etter avtale med den opprinnelige søkeren,sluttdatoen for verneperioden for opplysningene nevnt i artikkel 26.
+1\. Dersom et nytt næringsmiddel godkjennes og oppføres på EU-listen i henhold til artikkel 10–12 på grunnlag av vitenskapelige bevis eller vitenskapelige data underlagt eiendomsrett som er innrømmet vern i henhold artikkel 26 nr. 1, skal posten for det nye næringsmiddelet på EU-listen, i tillegg til opplysningene nevnt i artikkel 9 nr. 3, angi
+
+1. datoen for oppføring av det nye næringsmiddelet på EU-listen,
+2. angivelse av at oppføringen er basert på vitenskapelige bevis og vitenskapelige data underlagt eiendomsrett som er vernet i samsvar med artikkel 26,
+3. søkerens navn og adresse,
+4. angivelse av at det nye næringsmiddelet i verneperioden for opplysningene er godkjent for omsetning i Unionen bare av søkeren angitt i bokstav c), med mindre en senere søker får godkjenning for det nye næringsmiddelet uten henvisning til de vitenskapelige bevis eller vitenskapelige data underlagt eiendomsrett som er innrømmet vern i samsvar med artikkel 26, eller etter avtale med den opprinnelige søkeren,
+5. sluttdatoen for verneperioden for opplysningene nevnt i artikkel 26.
 
 2\. For vitenskapelige bevis eller vitenskapelige data som er innrømmet vern i samsvar med artikkel 26, eller hvis verneperiode i henhold til nevnte artikkel har utløpt, skal verneperioden ikke fornyes.
 
 ### Artikkel 28. Framgangsmåte for godkjenning ved parallell søknad om godkjenning av en helsepåstand
 
-1\. Kommisjonen skal på anmodning fra søkeren stille i bero en framgangsmåte for godkjenning av et nytt næringsmiddel som ble innledet etter en søknad, dersom søkeren har framlagt:en anmodning om vern av opplysninger i samsvar med artikkel 26, ogen søknad om godkjenning av en helsepåstand om samme nye næringsmiddel i samsvar med artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), sammen med en anmodning om vern av opplysninger i samsvar med artikkel 21 i nevnte forordning.Selv om framgangsmåten for godkjenning er stilt i bero, skal ikke dette berøre Myndighetens vurdering av næringsmiddelet i samsvar med artikkel 11.
+1\. Kommisjonen skal på anmodning fra søkeren stille i bero en framgangsmåte for godkjenning av et nytt næringsmiddel som ble innledet etter en søknad, dersom søkeren har framlagt:
+
+1. en anmodning om vern av opplysninger i samsvar med artikkel 26, og
+2. en søknad om godkjenning av en helsepåstand om samme nye næringsmiddel i samsvar med artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), sammen med en anmodning om vern av opplysninger i samsvar med artikkel 21 i nevnte forordning.
+
+Selv om framgangsmåten for godkjenning er stilt i bero, skal ikke dette berøre Myndighetens vurdering av næringsmiddelet i samsvar med artikkel 11.
 
 2\. Kommisjonen skal underrette søkeren om fra hvilken dato framgangsmåten for godkjenning stilles i bero.
 
 3\. Selv om framgangsmåten for godkjenning er stilt i bero, skal tiden fortsette å løpe med henblikk på fristen fastsatt i artikkel 12 nr. 1.
 
-4\. Framgangsmåten for godkjenning skal gjenopptas når Kommisjonen har mottatt Myndighetens uttalelse om helsepåstanden i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*).Kommisjonen skal underrette søkeren om fra hvilken dato framgangsmåten for godkjenning gjenopptas. Fra den dato framgangsmåten for godkjenning gjenopptas, skal fristen fastsatt i artikkel 12 nr. 1 begynne å løpe på nytt.
+4\. Framgangsmåten for godkjenning skal gjenopptas når Kommisjonen har mottatt Myndighetens uttalelse om helsepåstanden i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+
+Kommisjonen skal underrette søkeren om fra hvilken dato framgangsmåten for godkjenning gjenopptas. Fra den dato framgangsmåten for godkjenning gjenopptas, skal fristen fastsatt i artikkel 12 nr. 1 begynne å løpe på nytt.
 
 5\. I tilfellene nevnt i nr. 1 i denne artikkel, dersom opplysningene er innrømmet vern i samsvar med artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skal verneperioden gitt i samsvar med artikkel 26 i denne forordning, ikke være lenger enn den verneperioden som er innrømmet etter artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
@@ -475,9 +636,15 @@ Medlemsstatene skal fastsette regler for sanksjoner i forbindelse med brudd på 
 
 1\. Kommisjonen skal bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178). Nevnte komité skal være en komité i henhold til europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182).19
 
-2\. Når det vises til dette nummer, får artikkel 4 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteens uttalelse skal innhentes ved skriftlig framgangsmåte, skal framgangsmåten avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.
+2\. Når det vises til dette nummer, får artikkel 4 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.
 
-3\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteens uttalelse skal innhentes ved skriftlig framgangsmåte, skal framgangsmåten avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+Dersom komiteens uttalelse skal innhentes ved skriftlig framgangsmåte, skal framgangsmåten avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.
+
+3\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.
+
+Dersom komiteens uttalelse skal innhentes ved skriftlig framgangsmåte, skal framgangsmåten avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.
+
+Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
 
 19 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EFT L 55 av 28.2.2011, s. 13).
 
@@ -504,9 +671,16 @@ OVERGANGSTILTAK OG SLUTTBESTEMMELSER
 
 ### Artikkel 33. Endringer av forordning (EU) nr. 1169/2011
 
-I forordning [(EU) nr. 1169/2011](eu/32011r1169*) gjøres følgende endringer:I artikkel 2 nr. 1 skal ny bokstav lyde:definisjonen av «industrielt framstilte nanomaterialer» i artikkel 3 nr. 2 bokstav f) i europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283).20»Artikkel 2 nr. 2 bokstav t) oppheves.
+I forordning [(EU) nr. 1169/2011](eu/32011r1169*) gjøres følgende endringer:
 
-Henvisninger til opphevet bokstav t) i artikkel 2 nr. 2 i forordning [(EF) nr. 1169/2011](eu/32011r1169*) skal forstås som henvisninger til bokstav f) i artikkel 3 nr. 2 i denne forordning.Artikkel 18 nr. 5 oppheves.
+1. I artikkel 2 nr. 1 skal ny bokstav lyde:
+
+   1. definisjonen av «industrielt framstilte nanomaterialer» i artikkel 3 nr. 2 bokstav f) i europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283).20»
+2. Artikkel 2 nr. 2 bokstav t) oppheves.
+
+Henvisninger til opphevet bokstav t) i artikkel 2 nr. 2 i forordning [(EF) nr. 1169/2011](eu/32011r1169*) skal forstås som henvisninger til bokstav f) i artikkel 3 nr. 2 i denne forordning.
+
+1. Artikkel 18 nr. 5 oppheves.
 
 20 Europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) av 25. november 2015 om nye næringsmidler og om endring av europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) og oppheving av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) og kommisjonsforordning [(EF) nr. 1852/2001](eu/32001r1852) (EUT L 327 av 11.12.2015, s. 1).
 
@@ -516,7 +690,9 @@ Forordning [(EF) nr. 258/97](eu/31997r0258) og (EF) [nr. 1852/2001](eu/32001r185
 
 ### Artikkel 35. Overgangstiltak
 
-1\. En anmodning om omsetning av et nytt næringsmiddel i Unionen som er inngitt til en medlemsstat i samsvar med artikkel 4 i forordning [(EF) nr. 258/97](eu/31997r0258) og som det ikke er truffet endelig beslutning om innen 1. januar 2018, skal behandles som en søknad i henhold til denne forordning.Kommisjonen skal ikke anvende artikkel 11 i denne forordning dersom en medlemsstat allerede har framlagt en risikovurdering på grunnlag av forordning [(EF) nr. 258/97](eu/31997r0258) og ingen annen medlemsstat har framsatt begrunnede innvendinger mot vurderingen.
+1\. En anmodning om omsetning av et nytt næringsmiddel i Unionen som er inngitt til en medlemsstat i samsvar med artikkel 4 i forordning [(EF) nr. 258/97](eu/31997r0258) og som det ikke er truffet endelig beslutning om innen 1. januar 2018, skal behandles som en søknad i henhold til denne forordning.
+
+Kommisjonen skal ikke anvende artikkel 11 i denne forordning dersom en medlemsstat allerede har framlagt en risikovurdering på grunnlag av forordning [(EF) nr. 258/97](eu/31997r0258) og ingen annen medlemsstat har framsatt begrunnede innvendinger mot vurderingen.
 
 2\. Næringsmidler som ikke omfattes av forordning [(EF) nr. 258/97](eu/31997r0258), og som lovlig er brakt i omsetning innen 1. januar 2018 og omfattes av denne forordning, kan fortsatt bringes i omsetning inntil en beslutning treffes i samsvar med artikkel 10–12 eller artikkel 14–19 i denne forordning etter søknad om godkjenning av et nytt næringsmiddel eller melding om et tradisjonelt næringsmiddel fra en tredjestat er inngitt innen datoen angitt i gjennomføringsreglene vedtatt i samsvar med henholdsvis artikkel 13 eller artikkel 20 i denne forordning, men ikke senere enn 2. januar 2020.
 
@@ -526,7 +702,12 @@ Forordning [(EF) nr. 258/97](eu/31997r0258) og (EF) [nr. 1852/2001](eu/32001r185
 
 Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Den får anvendelse fra 1. januar 2018, med unntak av følgende bestemmelser:artikkel 4 nr. 4, artikkel 8, 13 og 20, artikkel 23 nr. 8, artikkel 30 og artikkel 35 nr. 3 får anvendelse fra 31. desember 2015,artikkel 4 nr. 2 og 3 får anvendelse fra og med anvendelsesdatoen for de delegerte rettsaktene nevnt i artikkel 4 nr. 4,artikkel 5 får anvendelse fra 31. desember 2015. Gjennomføringsrettsakter vedtatt i henhold til artikkel 5, får imidlertid ikke anvendelse før 1. januar 2018,artikkel 31 og 32 får anvendelse fra 31. desember 2015. Delegerte rettsakter vedtatt i henhold til disse artikler, får imidlertid ikke anvendelse før 1. januar 2018.
+Den får anvendelse fra 1. januar 2018, med unntak av følgende bestemmelser:
+
+1. artikkel 4 nr. 4, artikkel 8, 13 og 20, artikkel 23 nr. 8, artikkel 30 og artikkel 35 nr. 3 får anvendelse fra 31. desember 2015,
+2. artikkel 4 nr. 2 og 3 får anvendelse fra og med anvendelsesdatoen for de delegerte rettsaktene nevnt i artikkel 4 nr. 4,
+3. artikkel 5 får anvendelse fra 31. desember 2015. Gjennomføringsrettsakter vedtatt i henhold til artikkel 5, får imidlertid ikke anvendelse før 1. januar 2018,
+4. artikkel 31 og 32 får anvendelse fra 31. desember 2015. Delegerte rettsakter vedtatt i henhold til disse artikler, får imidlertid ikke anvendelse før 1. januar 2018.
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
@@ -591,13 +772,22 @@ I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og r�
 
 ►**M1**
 
-1\. Søknaden skal bestå avet følgebrev,teknisk dokumentasjon,et sammendrag av dokumentasjonen.Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
+1\. Søknaden skal bestå av
+
+1. et følgebrev,
+2. teknisk dokumentasjon,
+3. et sammendrag av dokumentasjonen.
+
+Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
 
 ◄**M1**
 
 2\. Følgebrevet nevnt i nr. 1 bokstav a), skal utformes i samsvar med malen i vedlegg I.
 
-3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:De administrative opplysningene nevnt i artikkel 4.De vitenskapelige dataene nevnt i artikkel 5.
+3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:
+
+1. De administrative opplysningene nevnt i artikkel 4.
+2. De vitenskapelige dataene nevnt i artikkel 5.
 
 4\. Dersom søkeren framlegger en søknad om å endre bruksvilkår, spesifikasjoner, andre særlige krav til merking eller krav om overvåking etter markedsføring av et godkjent nytt næringsmiddel, skal søkeren ikke nødvendigvis framlegge alle opplysninger som kreves i henhold til artikkel 5 i denne forordning, dersom søkeren gir en etterprøvbar begrunnelse som forklarer at de foreslåtte endringene ikke påvirker resultatene av den eksisterende risikovurderingen.
 
@@ -611,7 +801,17 @@ I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og r�
 
 ### Artikkel 4. Krav til administrative data
 
-I tillegg til opplysningene angitt i artikkel 10 nr. 2 i forordning (EU) 2015/2283 skal søknaden inneholde følgende administrative data:Navn, adresse og kontaktopplysninger for produsenten(e) av det nye næringsmiddelet, dersom disse er forskjellige fra søkerens.Navn, adresse og kontaktopplysninger for den personen som er ansvarlig for dokumentasjonen og har fått fullmakt til å kommunisere med Kommisjonen og myndigheten på vegne av søkeren.Dato for innsending av dokumentasjonen.En innholdsfortegnelse for dokumentasjonen.En detaljert oversikt over dokumentene som er vedlagt dokumentasjonen, herunder henvisninger til titler, bind og sider.Dersom søkeren i samsvar med artikkel 23 i forordning (EU) 2015/2283 inngir en anmodning om fortrolig behandling av visse opplysninger i dokumentasjonen, herunder tilleggsopplysninger, en liste over de opplysningene som skal behandles fortrolig, sammen med en verifiserbar begrunnelse som viser hvordan offentliggjøring av disse opplysningene kan skade søkerens interesser i vesentlig grad.Dersom produksjonsprosessen involverer fortrolige opplysninger, et ikke-fortrolig sammendrag av produksjonsprosessen.Separat vedlagte opplysninger og forklaringer som underbygger søkerens rett til å kunne vise til eiendomsrettslig beskyttet vitenskapelig dokumentasjon eller data i samsvar med artikkel 26 i forordning (EU) 2015/2283.En liste over de undersøkelsene som er inngitt til støtte for søknaden, herunder opplysninger som viser overholdelse av artikkel 32b i forordning (EF) nr. 178/2002.
+I tillegg til opplysningene angitt i artikkel 10 nr. 2 i forordning (EU) 2015/2283 skal søknaden inneholde følgende administrative data:
+
+1. Navn, adresse og kontaktopplysninger for produsenten(e) av det nye næringsmiddelet, dersom disse er forskjellige fra søkerens.
+2. Navn, adresse og kontaktopplysninger for den personen som er ansvarlig for dokumentasjonen og har fått fullmakt til å kommunisere med Kommisjonen og myndigheten på vegne av søkeren.
+3. Dato for innsending av dokumentasjonen.
+4. En innholdsfortegnelse for dokumentasjonen.
+5. En detaljert oversikt over dokumentene som er vedlagt dokumentasjonen, herunder henvisninger til titler, bind og sider.
+6. Dersom søkeren i samsvar med artikkel 23 i forordning (EU) 2015/2283 inngir en anmodning om fortrolig behandling av visse opplysninger i dokumentasjonen, herunder tilleggsopplysninger, en liste over de opplysningene som skal behandles fortrolig, sammen med en verifiserbar begrunnelse som viser hvordan offentliggjøring av disse opplysningene kan skade søkerens interesser i vesentlig grad.
+7. Dersom produksjonsprosessen involverer fortrolige opplysninger, et ikke-fortrolig sammendrag av produksjonsprosessen.
+8. Separat vedlagte opplysninger og forklaringer som underbygger søkerens rett til å kunne vise til eiendomsrettslig beskyttet vitenskapelig dokumentasjon eller data i samsvar med artikkel 26 i forordning (EU) 2015/2283.
+9. En liste over de undersøkelsene som er inngitt til støtte for søknaden, herunder opplysninger som viser overholdelse av artikkel 32b i forordning (EF) nr. 178/2002.
 
 ◄**M1**
 
@@ -629,7 +829,9 @@ I tillegg til opplysningene angitt i artikkel 10 nr. 2 i forordning (EU) 2015/22
 
 6\. Dersom det ikke kan utelukkes at et nytt næringsmiddel som er beregnet på en bestemt gruppe av befolkningen, også vil bli brukt av andre grupper av befolkningen, skal de sikkerhetsopplysningene som gis, også omfatte disse andre gruppene.
 
-7\. For hver biologiske eller toksikologiske undersøkelse skal søkeren presisere om prøvematerialet er i samsvar med den foreslåtte eller eksisterende spesifikasjonen. Dersom prøvematerialet skiller seg fra spesifikasjonen, skal søkeren dokumentere at opplysningene er relevante for det aktuelle nye næringsmiddelet.Toksikologiske undersøkelser skal utføres i anlegg som oppfyller kravene i direktiv [2004/10/EF](eu/32004l0010) eller, dersom de utføres utenfor Unionens territorium, skal OECDs prinsipper for god laboratoriepraksis følges. Søkeren skal framlegge dokumentasjon på at disse kravene er oppfylt, og skal begrunne ethvert avvik fra standardprotokollene.
+7\. For hver biologiske eller toksikologiske undersøkelse skal søkeren presisere om prøvematerialet er i samsvar med den foreslåtte eller eksisterende spesifikasjonen. Dersom prøvematerialet skiller seg fra spesifikasjonen, skal søkeren dokumentere at opplysningene er relevante for det aktuelle nye næringsmiddelet.
+
+Toksikologiske undersøkelser skal utføres i anlegg som oppfyller kravene i direktiv [2004/10/EF](eu/32004l0010) eller, dersom de utføres utenfor Unionens territorium, skal OECDs prinsipper for god laboratoriepraksis følges. Søkeren skal framlegge dokumentasjon på at disse kravene er oppfylt, og skal begrunne ethvert avvik fra standardprotokollene.
 
 8\. Søkeren skal foreslå en overordnet konklusjon om sikkerheten ved den foreslåtte bruken av det nye næringsmiddelet. Den overordnede vurderingen av de mulige risikoene for menneskers helse skal foretas med hensyn til kjent eller sannsynlig eksponering av mennesker.
 
@@ -651,9 +853,24 @@ I tillegg til opplysningene angitt i artikkel 10 nr. 2 i forordning (EU) 2015/22
 
 ### Artikkel 7. Opplysninger som skal være med i Myndighetens uttalelse
 
-1\. Uttalelsen fra Myndigheten skal inneholde følgende opplysninger:Identiteten til det nye næringsmiddelet.Vurderingen av produksjonsprosessen.Opplysninger om sammensetning.Spesifikasjoner.Erfaringene med bruk av det nye næringsmiddelet og/eller dets opprinnelse.Foreslåtte bruksområder og bruksnivåer og forventet inntak.Opptak, fordeling, stoffskifte og utskilling (ADME).Opplysninger om næringsinnhold.Toksikologiske opplysninger.Allergiframkallende evne.En samlet risikovurdering for det nye næringsmiddelet med foreslåtte bruksområder og bruksnivåer og som setter søkelys på usikkerhet og begrensninger dersom det er relevant.Dersom eksponeringen gjennom kosten overstiger de veiledende helsebaserte verdiene fastsatt i den samlede risikovurderingen, skal eksponeringsvurderingen av det nye næringsmiddelet være detaljert og angi bidraget til den samlede eksponeringen for hver næringsmiddelkategori eller hvert næringsmiddel hvis bruk er eller søkes godkjent.Konklusjoner.
-►**M1**resultatene av høringer som er gjennomført under risikovurderingsprosessen i samsvar med artikkel 32c nr. 2 i forordning (EF) nr. 178/2002.
-◄**M1**
+1\. Uttalelsen fra Myndigheten skal inneholde følgende opplysninger:
+
+1. Identiteten til det nye næringsmiddelet.
+2. Vurderingen av produksjonsprosessen.
+3. Opplysninger om sammensetning.
+4. Spesifikasjoner.
+5. Erfaringene med bruk av det nye næringsmiddelet og/eller dets opprinnelse.
+6. Foreslåtte bruksområder og bruksnivåer og forventet inntak.
+7. Opptak, fordeling, stoffskifte og utskilling (ADME).
+8. Opplysninger om næringsinnhold.
+9. Toksikologiske opplysninger.
+10. Allergiframkallende evne.
+11. En samlet risikovurdering for det nye næringsmiddelet med foreslåtte bruksområder og bruksnivåer og som setter søkelys på usikkerhet og begrensninger dersom det er relevant.
+12. Dersom eksponeringen gjennom kosten overstiger de veiledende helsebaserte verdiene fastsatt i den samlede risikovurderingen, skal eksponeringsvurderingen av det nye næringsmiddelet være detaljert og angi bidraget til den samlede eksponeringen for hver næringsmiddelkategori eller hvert næringsmiddel hvis bruk er eller søkes godkjent.
+13. Konklusjoner.
+    ►**M1**
+14. resultatene av høringer som er gjennomført under risikovurderingsprosessen i samsvar med artikkel 32c nr. 2 i forordning (EF) nr. 178/2002.
+    ◄**M1**
 
 2\. Kommisjonen kan be om tilleggsopplysninger i sin anmodning om en uttalelse fra Myndigheten.
 
@@ -686,7 +903,15 @@ Utferdiget i Brussel 20. desember 2017.
 |  |  |
 |  | *President* |
 
-1 EUT L 327 av 11.12.2015, s. 1.2 Europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) av 11. februar 2004 om tilnærming av lover og forskrifter om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer (EUT L 50 av 20.2.2004, s. 44).3 OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring. Number 1. OECD Principles on Good Laboratory Practice (revidert 1997) ENV/MC/CHEM(98)17.4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).5 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
+1 EUT L 327 av 11.12.2015, s. 1.
+
+2 Europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) av 11. februar 2004 om tilnærming av lover og forskrifter om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer (EUT L 50 av 20.2.2004, s. 44).
+
+3 OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring. Number 1. OECD Principles on Good Laboratory Practice (revidert 1997) ENV/MC/CHEM(98)17.
+
+4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+5 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
 
 ### ►**M1** VEDLEGG
 Mal for følgebrev til en søknad om et nytt næringsmiddel
@@ -1013,7 +1238,9 @@ Utferdiget i Brussel 20. desember 2017.
 |  |  |
 |  | *President* |
 
-1 EUT L 327 av 11.12.2015, s. 1.2 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
+1 EUT L 327 av 11.12.2015, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
 
 ► **M9**
 
@@ -1024,9 +1251,21 @@ EU-LISTE OVER NYE NÆRINGSMIDLER
 
 1\. EU-listen skal bestå av tabell 1 og 2.
 
-2\. Tabell 1 omfatter godkjente nye næringsmidler og inneholder følgende opplysninger:Kolonne 1: Godkjent nytt næringsmiddelKolonne 2: Vilkår for bruk av det nye næringsmiddelet. Denne kolonnen er videre delt i to: Angitt næringsmiddelkategori og øvre grenseverdierKolonne 3: Andre særlige krav til merkingKolonne 4: Andre krav
+2\. Tabell 1 omfatter godkjente nye næringsmidler og inneholder følgende opplysninger:
 
-3\. Tabell 2 omfatter spesifikasjoner for nye næringsmidler og inneholder følgende opplysninger:Kolonne 1: Godkjent nytt næringsmiddelKolonne 2: Spesifikasjoner
+Kolonne 1: Godkjent nytt næringsmiddel
+
+Kolonne 2: Vilkår for bruk av det nye næringsmiddelet. Denne kolonnen er videre delt i to: Angitt næringsmiddelkategori og øvre grenseverdier
+
+Kolonne 3: Andre særlige krav til merking
+
+Kolonne 4: Andre krav
+
+3\. Tabell 2 omfatter spesifikasjoner for nye næringsmidler og inneholder følgende opplysninger:
+
+Kolonne 1: Godkjent nytt næringsmiddel
+
+Kolonne 2: Spesifikasjoner
 
 ### Tabell 1: Godkjente nye næringsmidler
 
@@ -3188,19 +3427,31 @@ Den får anvendelse på meldinger og søknader nevnt i artikkel 14 og 16 i foror
 
 ### Artikkel 2. Definisjoner
 
-I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)2 og forordning [(EU) 2015/2283](eu/32015r2283), menes med«melding» et selvstendig dokument som inneholder de opplysningene og vitenskapelige dataene som framlegges i samsvar med artikkel 14 i forordning [(EU) 2015/2283](eu/32015r2283),«søknad» et selvstendig dokument som inneholder de opplysningene og vitenskapelige dataene som framlegges i samsvar med artikkel 16 i forordning [(EU) 2015/2283](eu/32015r2283).
+I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)2 og forordning [(EU) 2015/2283](eu/32015r2283), menes med
+
+1. «melding» et selvstendig dokument som inneholder de opplysningene og vitenskapelige dataene som framlegges i samsvar med artikkel 14 i forordning [(EU) 2015/2283](eu/32015r2283),
+2. «søknad» et selvstendig dokument som inneholder de opplysningene og vitenskapelige dataene som framlegges i samsvar med artikkel 16 i forordning [(EU) 2015/2283](eu/32015r2283).
 
 ### Artikkel 3. Struktur og innhold i og framlegging av en melding
 
 ►**M1**
 
-1\. En melding skal bestå avet følgebrev,teknisk dokumentasjon,et sammendrag av dokumentasjonen.Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal meldingen sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal meldingen sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
+1\. En melding skal bestå av
+
+1. et følgebrev,
+2. teknisk dokumentasjon,
+3. et sammendrag av dokumentasjonen.
+
+Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal meldingen sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal meldingen sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
 
 ◄**M1**
 
 2\. Følgebrevet nevnt i nr. 1 bokstav a), skal utformes i samsvar med malen i vedlegg I.
 
-3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:De administrative opplysningene nevnt i artikkel 5.De vitenskapelige dataene nevnt i artikkel 6.
+3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:
+
+1. De administrative opplysningene nevnt i artikkel 5.
+2. De vitenskapelige dataene nevnt i artikkel 6.
 
 4\. Dersom søkeren framlegger en melding om å endre bruksvilkår, spesifikasjoner, særlige krav til merking eller krav om overvåking etter markedsføring av et godkjent tradisjonelt næringsmiddel fra en tredjestat, skal søkeren ikke nødvendigvis framlegge alle opplysninger som kreves i henhold til artikkel 6, dersom søkeren gir en etterprøvbar begrunnelse som forklarer at de foreslåtte endringene ikke påvirker resultatene av den eksisterende sikkerhetsvurderingen.
 
@@ -3214,13 +3465,24 @@ I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og r�
 
 ►**M1**
 
-1\. Søknaden skal bestå avet følgebrev,teknisk dokumentasjon,et sammendrag av dokumentasjonen,behørig begrunnede sikkerhetsrelaterte innvendinger som nevnt i artikkel 15 nr. 2 i forordning (EU) 2015/2283,søkerens svar på behørig begrunnede sikkerhetsrelaterte innvendinger.Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
+1\. Søknaden skal bestå av
+
+1. et følgebrev,
+2. teknisk dokumentasjon,
+3. et sammendrag av dokumentasjonen,
+4. behørig begrunnede sikkerhetsrelaterte innvendinger som nevnt i artikkel 15 nr. 2 i forordning (EU) 2015/2283,
+5. søkerens svar på behørig begrunnede sikkerhetsrelaterte innvendinger.
+
+Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning (EF) nr. 178/2002, skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene.
 
 ◄**M1**
 
 2\. Følgebrevet nevnt i nr. 1 bokstav a), skal utformes i samsvar med malen i vedlegg II.
 
-3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:De administrative opplysningene nevnt i artikkel 5.De vitenskapelige dataene nevnt i artikkel 6.
+3\. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b), skal inneholde følgende:
+
+1. De administrative opplysningene nevnt i artikkel 5.
+2. De vitenskapelige dataene nevnt i artikkel 6.
 
 4\. Dersom søkeren framlegger en søknad om å endre bruksvilkår, spesifikasjoner, særlige krav til merking eller krav om overvåking etter markedsføring av et godkjent tradisjonelt næringsmiddel fra en tredjestat, skal søkeren ikke nødvendigvis framlegge alle opplysninger som kreves i henhold til artikkel 6, dersom søkeren gir en etterprøvbar begrunnelse som forklarer at de foreslåtte endringene ikke påvirker resultatene av den eksisterende sikkerhetsvurderingen.
 
@@ -3232,9 +3494,16 @@ I tillegg til definisjonene fastsatt i artikkel 2 og 3 i europaparlaments- og r�
 
 ### Artikkel 5. Administrative opplysninger som skal inngå i en melding eller søknad
 
-I tillegg til opplysningene angitt i artikkel 14 i forordning [(EU) 2015/2283](eu/32015r2283), skal meldingene og søknadene inneholde følgende administrative opplysninger:Navn, adresse og kontaktopplysninger til den personen som er ansvarlig for dokumentasjonen og har fått fullmakt til å kommunisere med Kommisjonen på vegne av søkeren.Dato for innsending av dokumentasjonen.Innholdsfortegnelse for dokumentasjonen.En detaljert oversikt over dokumentene som er vedlagt dokumentasjonen, herunder henvisninger til titler, bind og sider.
-►**M1**Dersom søkeren i samsvar med artikkel 23 i forordning (EF) nr. 2015/2283 inngir en anmodning om fortrolig behandling av visse opplysninger i dokumentasjonen, herunder tilleggsopplysninger, en liste over de opplysningene som skal behandles fortrolig, sammen med en verifiserbar begrunnelse som viser hvordan offentliggjøring av disse opplysningene kan skade søkerens interesser i vesentlig grad.En liste over de undersøkelsene som er inngitt til støtte for søknaden, herunder opplysninger som viser overholdelse av artikkel 32b i forordning (EF) nr. 178/2002.
-◄**M1**
+I tillegg til opplysningene angitt i artikkel 14 i forordning [(EU) 2015/2283](eu/32015r2283), skal meldingene og søknadene inneholde følgende administrative opplysninger:
+
+1. Navn, adresse og kontaktopplysninger til den personen som er ansvarlig for dokumentasjonen og har fått fullmakt til å kommunisere med Kommisjonen på vegne av søkeren.
+2. Dato for innsending av dokumentasjonen.
+3. Innholdsfortegnelse for dokumentasjonen.
+4. En detaljert oversikt over dokumentene som er vedlagt dokumentasjonen, herunder henvisninger til titler, bind og sider.
+   ►**M1**
+5. Dersom søkeren i samsvar med artikkel 23 i forordning (EF) nr. 2015/2283 inngir en anmodning om fortrolig behandling av visse opplysninger i dokumentasjonen, herunder tilleggsopplysninger, en liste over de opplysningene som skal behandles fortrolig, sammen med en verifiserbar begrunnelse som viser hvordan offentliggjøring av disse opplysningene kan skade søkerens interesser i vesentlig grad.
+6. En liste over de undersøkelsene som er inngitt til støtte for søknaden, herunder opplysninger som viser overholdelse av artikkel 32b i forordning (EF) nr. 178/2002.
+   ◄**M1**
 
 ### Artikkel 6. Vitenskapelige data som skal inngå i en melding eller søknad
 
@@ -3282,13 +3551,22 @@ I tillegg til opplysningene angitt i artikkel 14 i forordning [(EU) 2015/2283](e
 
 1\. Ved mottak av en gyldig melding kan det holdes samråd mellom Kommisjonen, medlemsstatene og Myndigheten i løpet av de første tre månedene av tidsrommet fastsatt i artikkel 15 nr. 2 i forordning [(EU) 2015/2283](eu/32015r2283).
 
-2\. De behørig begrunnede sikkerhetsrelaterte innvendingene framlagt av en medlemsstat eller Myndigheten til Kommisjonen i samsvar med artikkel 15 nr. 2 i forordning [(EU) 2015/2283](eu/32015r2283), skal inneholde følgende opplysninger:Navnet på og beskrivelsen av det tradisjonelle næringsmiddelet fra en tredjestat.En vitenskapelig erklæring som angir hvorfor det tradisjonelle næringsmiddelet fra en tredjestat kan utgjøre en sikkerhetsrisiko for menneskers helse.
+2\. De behørig begrunnede sikkerhetsrelaterte innvendingene framlagt av en medlemsstat eller Myndigheten til Kommisjonen i samsvar med artikkel 15 nr. 2 i forordning [(EU) 2015/2283](eu/32015r2283), skal inneholde følgende opplysninger:
+
+1. Navnet på og beskrivelsen av det tradisjonelle næringsmiddelet fra en tredjestat.
+2. En vitenskapelig erklæring som angir hvorfor det tradisjonelle næringsmiddelet fra en tredjestat kan utgjøre en sikkerhetsrisiko for menneskers helse.
 
 ### Artikkel 10. Opplysninger som skal være med i Myndighetens uttalelse
 
-1\. Uttalelsen fra Myndigheten skal inneholde følgende opplysninger:Identiteten til og karakterisering av det tradisjonelle næringsmiddelet fra en tredjestat.Vurdering av langvarig sikker bruk i en tredjestat.En samlet risikovurdering som fastsetter sikkerheten ved et tradisjonelt næringsmiddel fra en tredjestat dersom det er mulig, og som setter søkelys på usikkerhet og begrensninger dersom det er relevant.Konklusjoner.
-►**M1**resultatene av høringer som er gjennomført under risikovurderingsprosessen i samsvar med artikkel 32c nr. 2 i forordning (EF) nr. 178/2002.
-◄**M1**
+1\. Uttalelsen fra Myndigheten skal inneholde følgende opplysninger:
+
+1. Identiteten til og karakterisering av det tradisjonelle næringsmiddelet fra en tredjestat.
+2. Vurdering av langvarig sikker bruk i en tredjestat.
+3. En samlet risikovurdering som fastsetter sikkerheten ved et tradisjonelt næringsmiddel fra en tredjestat dersom det er mulig, og som setter søkelys på usikkerhet og begrensninger dersom det er relevant.
+4. Konklusjoner.
+   ►**M1**
+5. resultatene av høringer som er gjennomført under risikovurderingsprosessen i samsvar med artikkel 32c nr. 2 i forordning (EF) nr. 178/2002.
+   ◄**M1**
 
 2\. Kommisjonen kan be om tilleggsopplysninger i sin anmodning om en uttalelse fra Myndigheten.
 
@@ -3312,7 +3590,9 @@ Utferdiget i Brussel 20. desember 2017.
 |  |  |
 |  | *President* |
 
-1 EUT L 327 av 11.12.2015, s. 1.2 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+1 EUT L 327 av 11.12.2015, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
 
 ### ►**M1** VEDLEGG I
 MAL FOR FØLGEBREV TIL EN MELDING OM ET TRADISJONELT NÆRINGSMIDDEL FRA ET TREDJELAND I SAMSVAR MED ARTIKKEL 14 I FORORDNING [(EU) 2015/2283](eu/32015r2283)
@@ -3521,7 +3801,10 @@ Ved denne forordning fastsettes regler for gjennomføringen av artikkel 4 i foro
 
 ### Artikkel 2. Definisjoner
 
-Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)2 og forordning [(EU) 2015/2283](eu/32015r2283) gjelder, og videre menes med«anmodning om samråd» en anmodning fra den driftsansvarlige for et næringsmiddelforetak til en mottakerstat om å fastsette om et bestemt næringsmiddel har status som nytt næringsmiddel,«mottakerstat» en medlemsstat der den driftsansvarlige for næringsmiddelforetaket har til hensikt å markedsføre et bestemt næringsmiddel for første gang.
+Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)2 og forordning [(EU) 2015/2283](eu/32015r2283) gjelder, og videre menes med
+
+1. «anmodning om samråd» en anmodning fra den driftsansvarlige for et næringsmiddelforetak til en mottakerstat om å fastsette om et bestemt næringsmiddel har status som nytt næringsmiddel,
+2. «mottakerstat» en medlemsstat der den driftsansvarlige for næringsmiddelforetaket har til hensikt å markedsføre et bestemt næringsmiddel for første gang.
 
 2 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
 
@@ -3533,7 +3816,12 @@ Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002
 
 ### Artikkel 4. Innhold i og utforming av en anmodning om samråd
 
-1\. Anmodningen om samråd skal framlegges elektronisk til mottakermedlemslandet og skal bestå av følgende:Et følgebrev,teknisk dokumentasjon,vedlegg,en forklarende note som tydeliggjør formålet med og relevansen av den framlagte dokumentasjonen.
+1\. Anmodningen om samråd skal framlegges elektronisk til mottakermedlemslandet og skal bestå av følgende:
+
+1. Et følgebrev,
+2. teknisk dokumentasjon,
+3. vedlegg,
+4. en forklarende note som tydeliggjør formålet med og relevansen av den framlagte dokumentasjonen.
 
 2\. Følgebrevet nevnt i nr. 1 bokstav a) skal utformes i samsvar med malen i vedlegg I.
 
@@ -3547,7 +3835,10 @@ Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002
 
 2\. Dersom den driftsansvarlige for et næringsmiddelforetak framlegger utilstrekkelige opplysninger i anmodningen om samråd, skal mottakerstaten be den driftsansvarlige for næringsmiddelforetaket om tilleggsopplysninger, eller foreta relevante ajourføringer av anmodningen om samråd innenfor fristen angitt av mottakerstaten.
 
-3\. Anmodningen om samråd skal anses som ugyldig dersom:den driftsansvarlige for et næringsmiddelforetak ikke gir de tilleggsopplysningene det er anmodet om, eller en ajourført anmodning om samråd innenfor tidsrommet angitt av mottakerstaten,De framlagte tilleggsopplysningene er ikke tilstrekkelige til å konkludere med at anmodningen om samråd er gyldig.
+3\. Anmodningen om samråd skal anses som ugyldig dersom:
+
+1. den driftsansvarlige for et næringsmiddelforetak ikke gir de tilleggsopplysningene det er anmodet om, eller en ajourført anmodning om samråd innenfor tidsrommet angitt av mottakerstaten,
+2. De framlagte tilleggsopplysningene er ikke tilstrekkelige til å konkludere med at anmodningen om samråd er gyldig.
 
 4\. Mottakerstaten skal treffe avgjørelse om gyldigheten av anmodningen om samråd, og uten opphold informere den driftsansvarlige for næringsmiddelforetaket, de andre medlemsstatene og Kommisjonen om avgjørelsen. Dersom anmodningen om samråd ikke anses gyldig, skal mottakerstaten grunngi konklusjonen.
 
@@ -3555,7 +3846,9 @@ Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002
 
 1\. Mottakerstaten skal konkludere om et næringsmiddels status som nytt næringsmiddel innen 4 måneder fra datoen da den traff sin avgjørelse om gyldigheten av anmodningen om samråd.
 
-2\. Dersom mottakerstaten fastslår at den ikke har tilstrekkelig bevis til å treffe avgjørelse om et næringsmiddels status som nytt næringsmiddel, kan det anmode den driftsansvarlige for et næringsmiddelforetak om å gi tilleggsopplysninger. Fristen for anmodningen skal fastsettes sammen med den driftsansvarlige for næringsmiddelforetaket.Mottakerstaten kan rådføre seg med de øvrige medlemsstatene og Kommisjonen om dette.
+2\. Dersom mottakerstaten fastslår at den ikke har tilstrekkelig bevis til å treffe avgjørelse om et næringsmiddels status som nytt næringsmiddel, kan det anmode den driftsansvarlige for et næringsmiddelforetak om å gi tilleggsopplysninger. Fristen for anmodningen skal fastsettes sammen med den driftsansvarlige for næringsmiddelforetaket.
+
+Mottakerstaten kan rådføre seg med de øvrige medlemsstatene og Kommisjonen om dette.
 
 3\. Uten at nr. 4 berøres skal en anmodning om tilleggsopplysninger i henhold til nr. 2 ikke innebære at tidsrommet nevnt i nr. 1 forlenges.
 
@@ -3565,7 +3858,12 @@ Definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002
 
 ### Artikkel 7. Informasjon om status som nytt næringsmiddel og offentliggjøring
 
-1\. Underretningen nevnt i artikkel 6 nr. 5 i denne forordning skal inneholde følgende:Navnet på og en beskrivelse av vedkommende næringsmiddel.En erklæring om hvorvidt vedkommende næringsmiddel er nytt, ikke nytt eller ikke nytt bare i kosttilskudd.Begrunnelsene for erklæringen nevnt i bokstav b).Dersom næringsmiddelet er et nytt næringsmiddel, den mest passende næringsmiddelkategorien det hører inn under i henhold til Artikkel 3(2) i forordning [(EU) 2015/2283](eu/32015r2283).
+1\. Underretningen nevnt i artikkel 6 nr. 5 i denne forordning skal inneholde følgende:
+
+1. Navnet på og en beskrivelse av vedkommende næringsmiddel.
+2. En erklæring om hvorvidt vedkommende næringsmiddel er nytt, ikke nytt eller ikke nytt bare i kosttilskudd.
+3. Begrunnelsene for erklæringen nevnt i bokstav b).
+4. Dersom næringsmiddelet er et nytt næringsmiddel, den mest passende næringsmiddelkategorien det hører inn under i henhold til Artikkel 3(2) i forordning [(EU) 2015/2283](eu/32015r2283).
 
 2\. Kommisjonen skal uten opphold gjør opplysningene om statusen som nytt næringsmiddel offentlig tilgjengelig på Kommisjonens nettside.
 
@@ -3581,7 +3879,14 @@ Kommisjonen skal offentliggjøre disse kontaktopplysningene på Kommisjonens net
 
 2\. Ved anvendelsen av nr. 1 skal søkerne opplyse til mottakerstaten hvilke deler av de framlagte opplysningene de ønsker behandlet som fortrolige, og gi alle nødvendige opplysninger for å dokumentere sin anmodning om fortrolig behandling.
 
-3\. Mottakerstaten skal informere den driftsansvarlige for næringsmiddelforetak om sine synspunkter på hvilke deler av opplysningene som skal forbli fortrolige.Følgende opplysninger er imidlertid ikke fortrolige opplysninger:Søkerens navn og adresse.Navnet på og en beskrivelse av næringsmiddelet.Et sammendrag av undersøkelsene søkeren har framlagt.Dersom det er relevant, analysemetode(r).
+3\. Mottakerstaten skal informere den driftsansvarlige for næringsmiddelforetak om sine synspunkter på hvilke deler av opplysningene som skal forbli fortrolige.
+
+Følgende opplysninger er imidlertid ikke fortrolige opplysninger:
+
+1. Søkerens navn og adresse.
+2. Navnet på og en beskrivelse av næringsmiddelet.
+3. Et sammendrag av undersøkelsene søkeren har framlagt.
+4. Dersom det er relevant, analysemetode(r).
 
 4\. I tilfelle av samråd med andre medlemsstater i henhold til artikkel 6 nr. 2 annet ledd skal mottakerstaten informere Kommisjonen og medlemsstatene om sine synspunkter når det gjelder fortrolighet for anmodningen om samråd.
 

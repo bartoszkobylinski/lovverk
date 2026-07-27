@@ -28,21 +28,43 @@ Formålet med denne forskriften er å fastlegge offentligrettslige rammebetingel
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*landkodetoppdomene:* det øverste domenet i hierarkiet i det globale domenenavnsystemet i henhold til 2-bokstavkoder under ISO 3166-1 standarden,*registerenhet:* ethvert foretak som i henhold til overenskomst med den internasjonale forvalter av toppdomener, har rett til å fordele domenenavn under norske landkodetoppdomener,*registrar:* en virksomhet som har inngått avtale med en registerenhet om adgang til å sende inn søknader og endringsmeldinger til registerenheten på vegne av søkere/innehavere av domenenavn under de norske landkodetoppdomenene,*Domeneklagenemnda:* en klagenemnd for domenenavn under de norske landkodetoppdomenene,*registreringsdata:* data om søker og søkers virksomhet som avkreves i forbindelse med søknad og endringsmeldinger.
+I denne forskrift menes med:
+
+1. *landkodetoppdomene:* det øverste domenet i hierarkiet i det globale domenenavnsystemet i henhold til 2-bokstavkoder under ISO 3166-1 standarden,
+2. *registerenhet:* ethvert foretak som i henhold til overenskomst med den internasjonale forvalter av toppdomener, har rett til å fordele domenenavn under norske landkodetoppdomener,
+3. *registrar:* en virksomhet som har inngått avtale med en registerenhet om adgang til å sende inn søknader og endringsmeldinger til registerenheten på vegne av søkere/innehavere av domenenavn under de norske landkodetoppdomenene,
+4. *Domeneklagenemnda:* en klagenemnd for domenenavn under de norske landkodetoppdomenene,
+5. *registreringsdata:* data om søker og søkers virksomhet som avkreves i forbindelse med søknad og endringsmeldinger.
 
 ## § 3. Regler for tildeling av domenenavn
 
 Hvert norske landkodetoppdomene administreres av kun én registerenhet som fastsetter regler for tildeling av domenenavn (navnepolitikk) for dette landkodetoppdomenet. Registerenheten utøver ikke forvaltningsmyndighet og tildelingen skjer etter privatrettslige regler.
 
-Tildelingsreglene skal være offentlig tilgjengelig og som et minimum utformes slik at de:sikrer kostnadseffektivitet,sikrer høy teknisk kvalitet,er ikke-diskriminerende,ivaretar åpenhet,ivaretar forutberegnelighet,ivaretar interessene til internettbrukere, enkeltvis og som fellesskap, ogivareta nasjonale interesser og tar hensyn til internasjonal utvikling på Internett-området.
+Tildelingsreglene skal være offentlig tilgjengelig og som et minimum utformes slik at de:
+
+1. sikrer kostnadseffektivitet,
+2. sikrer høy teknisk kvalitet,
+3. er ikke-diskriminerende,
+4. ivaretar åpenhet,
+5. ivaretar forutberegnelighet,
+6. ivaretar interessene til internettbrukere, enkeltvis og som fellesskap, og
+7. ivareta nasjonale interesser og tar hensyn til internasjonal utvikling på Internett-området.
 
 Før vedtakelse og vesentlig endring av tildelingsreglene skal det innhentes synspunkter fra brukernes representanter og myndighetene. Post- og teletilsynet skal informeres om alle endringer.
 
 ## § 4. Egenerklæring
 
-Registerenheten skal kreve at den som søker om registrering av domenenavn under de norske landkodetoppdomener avgir en erklæring som inneholder søkers bekreftelse på at registrering og/eller bruk av navnet som søkes registrert:ikke er i strid med tildelingsreglene, jf. [§ 3](forskrift/2003-08-01-990/§3),ikke er i strid med norsk rett,ikke er i strid med tredjepersons rettigheter,ikke uberettiget gir inntrykk av å angå offentlig forvaltning eller myndighetsutøvelse.
+Registerenheten skal kreve at den som søker om registrering av domenenavn under de norske landkodetoppdomener avgir en erklæring som inneholder søkers bekreftelse på at registrering og/eller bruk av navnet som søkes registrert:
 
-Registerenheten skal sørge for at søkeren i egenerklæringen samtykker til attvister skal kunne behandles av en domeneklagenemnd,registerenheten skal kunne trekke tilbake et tildelt domenenavn når det er åpenbart at tildelingen er i strid med første ledd.
+1. ikke er i strid med tildelingsreglene, jf. [§ 3](forskrift/2003-08-01-990/§3),
+2. ikke er i strid med norsk rett,
+3. ikke er i strid med tredjepersons rettigheter,
+4. ikke uberettiget gir inntrykk av å angå offentlig forvaltning eller myndighetsutøvelse.
+
+Registerenheten skal sørge for at søkeren i egenerklæringen samtykker til at
+
+1. tvister skal kunne behandles av en domeneklagenemnd,
+2. registerenheten skal kunne trekke tilbake et tildelt domenenavn når det er åpenbart at tildelingen er i strid med første ledd.
 
 I kontrakten mellom registerenheten og søkeren skal det tas inn bestemmelser som begrenser registerenhetens bruk av registreringsdataene i forbindelse med registrering og opprettholdelse av domenenavn.
 
@@ -58,7 +80,14 @@ Registerenheten skal sørge for nødvendige sikkerhetseksemplarer av alle regist
 
 Registerenheten er forpliktet til å etablere en domeneklagenemnd. Dersom det er flere registerenheter skal de etablere en felles klagenemnd.
 
-Klagenemnda skal gis mandat til å behandle klager:fra søker over registerenhetens avgjørelser,fra innehaver over registerenhetens avgjørelser,fra registerenheten over at navn er registrert i strid med egenerklæringen, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd,fra tredjeperson, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd bokstav c,fra offentlige organ, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd bokstav d, ogfra Post- og teletilsynet over at domenenavn er registrert i strid med denne forskriften.
+Klagenemnda skal gis mandat til å behandle klager:
+
+1. fra søker over registerenhetens avgjørelser,
+2. fra innehaver over registerenhetens avgjørelser,
+3. fra registerenheten over at navn er registrert i strid med egenerklæringen, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd,
+4. fra tredjeperson, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd bokstav c,
+5. fra offentlige organ, jf. [§ 4](forskrift/2003-08-01-990/§4) første ledd bokstav d, og
+6. fra Post- og teletilsynet over at domenenavn er registrert i strid med denne forskriften.
 
 Klagenemnda skal gis anledning til å avvise en klage etter nærmere fastsatte regler.
 

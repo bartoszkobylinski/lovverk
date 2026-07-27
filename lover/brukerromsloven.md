@@ -15,7 +15,7 @@ xml_hash: "4ae0e9842f0c5db3d6833077614fb92effbd2f91daeb8548aad466be12ab95a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,10 @@ For brukere av ordningen skal denne være et supplement til kommunens øvrige he
 
 ## § 4. Bruk av brukerromsordningen
 
-Den som med lovlig adgang til en godkjent brukerromsordninginntar narkotika i ordningens injiseringsrom eller inhaleringsrom, ellerbesitter en brukerdose narkotika til eget bruk i brukerromsordningens lokaler eller tilstøtende behandlingsrom, kan ikke straffes for dette etter [legemiddelloven § 31](lov/1992-12-04-132/§31), jf. [§ 24](lov/1992-12-04-132/§24) første ledd.
+Den som med lovlig adgang til en godkjent brukerromsordning
+
+1. inntar narkotika i ordningens injiseringsrom eller inhaleringsrom, eller
+2. besitter en brukerdose narkotika til eget bruk i brukerromsordningens lokaler eller tilstøtende behandlingsrom, kan ikke straffes for dette etter [legemiddelloven § 31](lov/1992-12-04-132/§31), jf. [§ 24](lov/1992-12-04-132/§24) første ledd.
 
 Det er tillatt for personalet i brukerromsordningen å gi brukerne individuell og konkret rådgivning i forbindelse med inntak av narkotika i injiseringsrommet og inhaleringsrommet.
 
@@ -82,7 +85,16 @@ Helsepersonelloven gjelder for personalets yrkesutøvelse i brukerromsordningen.
 
 ## § 8. Forskrift
 
-Kongen kan gi nærmere bestemmelser om gjennomføringen av brukerromsordningen, og kan blant annet bestemme:hvem brukerromsordningen skal gjelde for,ordninger for adgangsregulering,type og mengde narkotika som straffriheten skal omfatte,ordninger for kontroll av type og mengde narkotika en person har med seg inn i brukerromsordningens lokaler eller tilstøtende behandlingsrom,hvilken adgang politiet skal ha til brukerromsordningens lokaler eller tilstøtende behandlingsrom,hvilke krav til bemanning av brukerromsordningen som skal gjelde,hvordan helseopplysninger i helseregisteret kan behandles, blant annet hvilke, opplysninger som kan behandles og formålet med behandlingen,at reglene i [helsepersonelloven §§ 39](lov/1999-07-02-64/§39) og [40](lov/1999-07-02-64/§40) helt eller delvis ikke skal gjelde for helsepersonell som yter helsehjelp i brukerromsordningen.
+Kongen kan gi nærmere bestemmelser om gjennomføringen av brukerromsordningen, og kan blant annet bestemme:
+
+1. hvem brukerromsordningen skal gjelde for,
+2. ordninger for adgangsregulering,
+3. type og mengde narkotika som straffriheten skal omfatte,
+4. ordninger for kontroll av type og mengde narkotika en person har med seg inn i brukerromsordningens lokaler eller tilstøtende behandlingsrom,
+5. hvilken adgang politiet skal ha til brukerromsordningens lokaler eller tilstøtende behandlingsrom,
+6. hvilke krav til bemanning av brukerromsordningen som skal gjelde,
+7. hvordan helseopplysninger i helseregisteret kan behandles, blant annet hvilke, opplysninger som kan behandles og formålet med behandlingen,
+8. at reglene i [helsepersonelloven §§ 39](lov/1999-07-02-64/§39) og [40](lov/1999-07-02-64/§40) helt eller delvis ikke skal gjelde for helsepersonell som yter helsehjelp i brukerromsordningen.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), endret ved [lov 20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)).
 

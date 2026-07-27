@@ -15,7 +15,7 @@ xml_hash: "fff24713461087e1b0f09e5c4aad14e9df00a672d732902363a20e9dcfd6203f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,13 @@ I bruttoinntekten inngår samlet inntekt som etter sin art inngår i alminnelig 
 
 I nettoformuen inngår samlet formue fratrukket samlet gjeld.
 
-Følgende formue inngår ikke i nettoformuen:Verdien av og gjeld knyttet til primærbolig og driftsmidler søkeren eier. Dersom primærboligen eller driftsmidlene har en netto omsetningsverdi som overstiger beløpsgrensen som følger av [skatteloven § 4-10 andre ledd tredje punktum](lov/1999-03-26-14/§4-10/ledd/2/setning/3), skal verdien og gjelden likevel inngå i beregningen.Formue som består i BSU-midler.Midler etter et felleseieskifte, eller økonomisk oppgjør mellom samboere, som innen rimelig tid skal brukes til reinvestering i ny bolig.Formue som består i hjelpemidler som er nødvendige for søkerens alminnelige livsutfoldelse.Midler som stammer fra en personskadeerstatning når erstatningssummen skal dekke tap i fremtidig erverv eller fremtidige utgifter.
+Følgende formue inngår ikke i nettoformuen:
+
+1. Verdien av og gjeld knyttet til primærbolig og driftsmidler søkeren eier. Dersom primærboligen eller driftsmidlene har en netto omsetningsverdi som overstiger beløpsgrensen som følger av [skatteloven § 4-10 andre ledd tredje punktum](lov/1999-03-26-14/§4-10/ledd/2/setning/3), skal verdien og gjelden likevel inngå i beregningen.
+2. Formue som består i BSU-midler.
+3. Midler etter et felleseieskifte, eller økonomisk oppgjør mellom samboere, som innen rimelig tid skal brukes til reinvestering i ny bolig.
+4. Formue som består i hjelpemidler som er nødvendige for søkerens alminnelige livsutfoldelse.
+5. Midler som stammer fra en personskadeerstatning når erstatningssummen skal dekke tap i fremtidig erverv eller fremtidige utgifter.
 
 Dersom nettoformuen er negativ, skal den settes lik null.
 

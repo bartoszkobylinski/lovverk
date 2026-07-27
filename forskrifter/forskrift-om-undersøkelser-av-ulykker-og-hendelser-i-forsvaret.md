@@ -44,7 +44,12 @@ Undersøkelsesmyndigheten skal etablere et samarbeid med andre myndigheter innen
 
 ## § 4. Forsvarets plikt til varsling etter ulykke eller alvorlig hendelse
 
-Forsvaret skal straks varsle undersøkelsesmyndigheten om ulykker og alvorlige hendelser somhar medført tap av menneskeliv,har medført omfattende skade på eller tap av materiell eller omfattende skade på eiendom eller miljøet,oppfyller nærmere spesifiserte krav fastsatt av undersøkelsesmyndigheten, elleretter en samlet vurdering anses å være av interesse for undersøkelsesmyndigheten.
+Forsvaret skal straks varsle undersøkelsesmyndigheten om ulykker og alvorlige hendelser som
+
+1. har medført tap av menneskeliv,
+2. har medført omfattende skade på eller tap av materiell eller omfattende skade på eiendom eller miljøet,
+3. oppfyller nærmere spesifiserte krav fastsatt av undersøkelsesmyndigheten, eller
+4. etter en samlet vurdering anses å være av interesse for undersøkelsesmyndigheten.
 
 Forsvaret skal også varsle politiet om forhold som nevnt i første ledd bokstav a og b.
 
@@ -54,7 +59,18 @@ Forsvaret skal også varsle politiet om forhold som nevnt i første ledd bokstav
 
 Den tilstedeværende med høyest militær grad skal ta ledelse på skadestedet til politi eller brannvesen ankommer. Dette inkluderer å varsle, igangsette tiltak for å begrense omfanget av skaden, og sørge for at nødvendige redningstiltak iverksettes.
 
-Dernest skal vedkommende blant annet ta ansvar for følgendefå oversikt over hvem som er involvert i ulykken,få oversikt over hvem som er omkommet eller skadet,få oversikt over hvor de skadde blir sendt til behandling,samle inn personalia til alle involverte og vitner,få oversikt over hvilket materiell som er involvert,sperre av åstedet og holde uvedkommende utenfor sperringene,sikre at spor og bevismateriale ikke flyttes eller skades, unntatt når det er nødvendig for redningsarbeidet eller for å unngå tap av bevismateriale,sørge for at spor og bevismateriale fra skadestedet dokumenteres,føre logg over hva som gjøres på skadestedet, ogføre logg over hvem som blir sluppet inn på skadestedet.
+Dernest skal vedkommende blant annet ta ansvar for følgende
+
+1. få oversikt over hvem som er involvert i ulykken,
+2. få oversikt over hvem som er omkommet eller skadet,
+3. få oversikt over hvor de skadde blir sendt til behandling,
+4. samle inn personalia til alle involverte og vitner,
+5. få oversikt over hvilket materiell som er involvert,
+6. sperre av åstedet og holde uvedkommende utenfor sperringene,
+7. sikre at spor og bevismateriale ikke flyttes eller skades, unntatt når det er nødvendig for redningsarbeidet eller for å unngå tap av bevismateriale,
+8. sørge for at spor og bevismateriale fra skadestedet dokumenteres,
+9. føre logg over hva som gjøres på skadestedet, og
+10. føre logg over hvem som blir sluppet inn på skadestedet.
 
 Når undersøkelsesmyndigheten ber om det, skal Forsvaret så snart som mulig, og senest når tidskritisk redningsarbeid er ivaretatt, sette undersøkelsesmyndigheten i kontakt med den tilstedeværende med høyest militær grad på skadestedet.
 
@@ -70,7 +86,11 @@ Undersøkelsesmyndigheten kan fastsette krav til rapportering.
 
 Undersøkelsesmyndigheten skal undersøke alle ulykker som har medført tap av menneskeliv.
 
-Undersøkelsesmyndigheten skal prioritere å undersøke ulykker eller hendelser basert på en samlet vurdering avalvorlighetsgrad,sammenheng med militær virksomhet, ogforventning om at undersøkelsen vil ha betydelig potensial for å forbedre sikkerheten i Forsvaret.
+Undersøkelsesmyndigheten skal prioritere å undersøke ulykker eller hendelser basert på en samlet vurdering av
+
+1. alvorlighetsgrad,
+2. sammenheng med militær virksomhet, og
+3. forventning om at undersøkelsen vil ha betydelig potensial for å forbedre sikkerheten i Forsvaret.
 
 ## § 8. Støtte til undersøkelsesmyndigheten
 
@@ -82,7 +102,16 @@ Det personell som avgis til undersøkelsesmyndigheten etter første ledd eller d
 
 Undersøkelsesmyndigheten skal gis umiddelbar, ubegrenset og uhindret adgang til stedet og de objekter som var innblandet i ulykken eller hendelsen, i samsvar med denne forskrift [§ 3](forskrift/2017-08-21-1331/§3).
 
-Undersøkelsesmyndigheten har blant annet rett til åfå tilgang til- og kontroll over ferdsskrivere med innhold, og alle andre relevante logger og registreringer,kreve obduksjon av de omkomne, og få tilgang til resultatene av slike undersøkelser og av prøver som er tatt,innkalle og utspørre vitner,få data og opptak fra lufttrafikktjenesten, kystradar, kystradio, nødnett, redningskanal og øvrige trafikkovervåkningstjenester og systemer,få logg fra hovedredningssentralen,få utskrift av telefon- og basestasjonsdata,få fri tilgang til alle relevante opplysninger og opptegnelser som eieren, innehaveren av sertifikatet for typekonstruksjon, den ansvarlige vedlikeholdsorganisasjon, opplæringsorganisasjonen, operatøren eller produsenten av objekt involvert i ulykken eller hendelsen, ogfå fri tilgang til alle relevante opplysninger og opptegnelser som myndigheter eller tjenesteyter som utfører oppgaver for eller på vegne av myndigheter besitter.
+Undersøkelsesmyndigheten har blant annet rett til å
+
+1. få tilgang til- og kontroll over ferdsskrivere med innhold, og alle andre relevante logger og registreringer,
+2. kreve obduksjon av de omkomne, og få tilgang til resultatene av slike undersøkelser og av prøver som er tatt,
+3. innkalle og utspørre vitner,
+4. få data og opptak fra lufttrafikktjenesten, kystradar, kystradio, nødnett, redningskanal og øvrige trafikkovervåkningstjenester og systemer,
+5. få logg fra hovedredningssentralen,
+6. få utskrift av telefon- og basestasjonsdata,
+7. få fri tilgang til alle relevante opplysninger og opptegnelser som eieren, innehaveren av sertifikatet for typekonstruksjon, den ansvarlige vedlikeholdsorganisasjon, opplæringsorganisasjonen, operatøren eller produsenten av objekt involvert i ulykken eller hendelsen, og
+8. få fri tilgang til alle relevante opplysninger og opptegnelser som myndigheter eller tjenesteyter som utfører oppgaver for eller på vegne av myndigheter besitter.
 
 Undersøkelsesmyndighetens tiltak for å fremskaffe opplysninger kan bare utføres i den utstrekning det er nødvendig for å gjennomføre undersøkelsen og for så lang tid som undersøkelsen krever.
 
@@ -126,7 +155,11 @@ Svar på utkast til foreløpig rapport og svar på utkast til undersøkelsesrapp
 
 Forsvaret skal vurdere rapportene for å identifisere og iverksette tiltak som kan bedre sikkerheten.
 
-Forsvaret skal innen 90 dager fra mottak av rapporten informere undersøkelsesmyndigheten omtiltak som er iverksatt,tiltak planlagt iverksatt med tilhørende tidsplan, ellertilrådinger som ikke planlegges fulgt opp med tiltak, og vurderingene som er lagt til grunn.
+Forsvaret skal innen 90 dager fra mottak av rapporten informere undersøkelsesmyndigheten om
+
+1. tiltak som er iverksatt,
+2. tiltak planlagt iverksatt med tilhørende tidsplan, eller
+3. tilrådinger som ikke planlegges fulgt opp med tiltak, og vurderingene som er lagt til grunn.
 
 Andre etater i forsvarssektoren pålegges samme krav som følger av første og andre ledd hvis de blir adressert i undersøkelsesrapporten.
 

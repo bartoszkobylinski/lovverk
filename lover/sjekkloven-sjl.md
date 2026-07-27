@@ -15,7 +15,7 @@ xml_hash: "39163baa8f2f871b3ff209bebb134bc19a678c283a3b405cb5db6efc3a7572ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1
 
-En chekk skal inneholde:benevnelsen chekk, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;en ubetinget anmodning om å betale en bestemt pengesum (chekksummen);navnet på den som skal betale (trassatbanken, jfr. [§ 3](lov/1932-05-27-3/§3));angivelse av stedet hvor betalingen skal skje;angivelse av dag og sted for chekkens utstedelse; samtunderskrift av den som utsteder chekken (trassenten).
+En chekk skal inneholde:
+
+1. benevnelsen chekk, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;
+2. en ubetinget anmodning om å betale en bestemt pengesum (chekksummen);
+3. navnet på den som skal betale (trassatbanken, jfr. [§ 3](lov/1932-05-27-3/§3));
+4. angivelse av stedet hvor betalingen skal skje;
+5. angivelse av dag og sted for chekkens utstedelse; samt
+6. underskrift av den som utsteder chekken (trassenten).
 
 ### § 2
 
@@ -50,7 +57,11 @@ Trassenten skal hos trassatbanken ha til rådighet midler som han i medhold av e
 
 ### § 5
 
-En chekk kan lyde på betalingtil en bestemt person, med eller uten uttrykkelig tilføielse av at den er «til ordre»;til en bestemt person, med tilføielsen «ikke til ordre» eller tilsvarende uttrykk; ellertil ihendehaveren.
+En chekk kan lyde på betaling
+
+- til en bestemt person, med eller uten uttrykkelig tilføielse av at den er «til ordre»;
+- til en bestemt person, med tilføielsen «ikke til ordre» eller tilsvarende uttrykk; eller
+- til ihendehaveren.
 
 En chekk som er utstedt til en bestemt person med tilføielsen «eller til ihendehaveren» eller tilsvarende uttrykk, anses som betalbar til ihendehaveren.
 
@@ -126,7 +137,11 @@ Endossementet er gyldig selv om det ikke angir hvem chekken overdras til, eller 
 
 Ved endossement overføres alle rettigheter efter chekken.
 
-Hvis endossementet er et blankoendossement, kan chekkinnehaverenutfylle det enten med sitt eget eller med en annens navn,endossere chekken påny *in blanco* eller til en annen person, ellergi chekken videre til en tredjemann uten å utfylle blankoendossementet eller endossere chekken.
+Hvis endossementet er et blankoendossement, kan chekkinnehaveren
+
+1. utfylle det enten med sitt eget eller med en annens navn,
+2. endossere chekken påny *in blanco* eller til en annen person, eller
+3. gi chekken videre til en tredjemann uten å utfylle blankoendossementet eller endossere chekken.
 
 ### § 18
 
@@ -276,7 +291,11 @@ Hvis en chekk som er utstedt i utlandet, tvers over forsiden bærer påtegning �
 
 ### § 40
 
-Hvis en chekk ikke blir betalt, skjønt den forevises i rette tid, kan chekkinnehaveren søke regress hos endossentene, trassenten og de øvrige forpliktede, efterat betalingsnektelsen er godtgjort.enten ved offentlig bevidnelse (protest);eller ved trassatbankens daterte erklæring på chekken, med angivelse av forevisningsdagen;eller ved en datert erklæring fra et avregningskontor om at chekken er innlevert i rette tid og ikke er blitt betalt.
+Hvis en chekk ikke blir betalt, skjønt den forevises i rette tid, kan chekkinnehaveren søke regress hos endossentene, trassenten og de øvrige forpliktede, efterat betalingsnektelsen er godtgjort.
+
+1. enten ved offentlig bevidnelse (protest);
+2. eller ved trassatbankens daterte erklæring på chekken, med angivelse av forevisningsdagen;
+3. eller ved en datert erklæring fra et avregningskontor om at chekken er innlevert i rette tid og ikke er blitt betalt.
 
 Uttrykket protest betegner i denne lov også de under 2 og 3 nevnte erklæringer, hvis ikke annet er sagt.
 
@@ -322,11 +341,19 @@ At sak er anlagt mot en chekkskyldner, hindrer ikke at krav reises mot de andre,
 
 ### § 45
 
-Chekkinnehaveren kan kreve av den hos hvem han søker regress:den ikke betalte chekksum;renter fra forevisningsdagen efter en rentefot av seks pct.; samtomkostningene ved protesten og ved de meddelelser som er sendt i medhold av [§ 42](lov/1932-05-27-3/§42), så vel som andre omkostninger.
+Chekkinnehaveren kan kreve av den hos hvem han søker regress:
+
+1. den ikke betalte chekksum;
+2. renter fra forevisningsdagen efter en rentefot av seks pct.; samt
+3. omkostningene ved protesten og ved de meddelelser som er sendt i medhold av [§ 42](lov/1932-05-27-3/§42), så vel som andre omkostninger.
 
 ### § 46
 
-Den som har innløst chekken, kan kreve av dem som er ansvarlige overfor ham:hele det beløp som han har betalt;renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.; samtde omkostninger som han har hatt.
+Den som har innløst chekken, kan kreve av dem som er ansvarlige overfor ham:
+
+1. hele det beløp som han har betalt;
+2. renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.; samt
+3. de omkostninger som han har hatt.
 
 ### § 47
 
@@ -380,7 +407,11 @@ Har en chekkskyldner innløst chekken, foreldes hans krav mot andre chekkskyldne
 
 ### § 53
 
-Sjekkforeldelse avbrytesved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at sjekkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. [tvisteloven § 15-1](lov/2005-06-17-90/§15-1)) ellerved at chekkfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter ellerved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet ([tvisteloven § 15-9](lov/2005-06-17-90/§15-9)). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.
+Sjekkforeldelse avbrytes
+
+- ved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at sjekkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. [tvisteloven § 15-1](lov/2005-06-17-90/§15-1)) eller
+- ved at chekkfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter eller
+- ved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet ([tvisteloven § 15-9](lov/2005-06-17-90/§15-9)). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.
 
 Ved stevning til utenlandsk domstol avbrytes chekkforeldelsen hvis skyldneren har sitt hjemsted i vedkommende land eller han uten å gjøre innvending mot domstolens kompetanse tar til gjenmæle i saken, eller hvis stevningen er forkynt for ham personlig. Prosessvarsel til utenlandsk domstol avbryter foreldelsen under samme betingelser som stevning. Likeledes avbrytes foreldelsen ved at chekk-kravet under en ved utenlandsk domstol verserende sak efter den på stedet gjeldende lovgivning gjøres gjeldende til motregning.
 
@@ -456,7 +487,17 @@ Fristen for anlegg av regress-søksmål bestemmes for alle chekkskyldneres vedko
 
 ### § 63
 
-Loven i det land hvor chekken skal betales, bestemmer:om en chekk alltid skal være betalbar ved forevisning eller om den kan gjøres betalbar en viss tid efter forevisning, samt hvilken virkning det har at chekken er efterdatert;forevisningsfristen;om chekken kan aksepteres, bekreftes eller viseres, og hvilke virkninger disse erklæringer har;om chekkinnehaveren kan kreve delvis betaling og om han er forpliktet til å motta sådan;om chekken kan krysses eller forsynes med påtegning «bare til avregning» eller tilsvarende påtegning, og hvilke virkninger kryssingen eller en påtegning som nevnt har;om chekkinnehaveren har nogen særrett til chekkdekningen, og hvad denne særrett innebærer;om trassenten kan tilbakekalle chekken eller gjøre innsigelse mot at den betales;hvilke forholdsregler som må tas i tilfelle av at chekken forkommer eller stjeles;om protest er nødvendig for å bevare regressretten mot endossentene, trassenten og andre chekkskyldnere.
+Loven i det land hvor chekken skal betales, bestemmer:
+
+1. om en chekk alltid skal være betalbar ved forevisning eller om den kan gjøres betalbar en viss tid efter forevisning, samt hvilken virkning det har at chekken er efterdatert;
+2. forevisningsfristen;
+3. om chekken kan aksepteres, bekreftes eller viseres, og hvilke virkninger disse erklæringer har;
+4. om chekkinnehaveren kan kreve delvis betaling og om han er forpliktet til å motta sådan;
+5. om chekken kan krysses eller forsynes med påtegning «bare til avregning» eller tilsvarende påtegning, og hvilke virkninger kryssingen eller en påtegning som nevnt har;
+6. om chekkinnehaveren har nogen særrett til chekkdekningen, og hvad denne særrett innebærer;
+7. om trassenten kan tilbakekalle chekken eller gjøre innsigelse mot at den betales;
+8. hvilke forholdsregler som må tas i tilfelle av at chekken forkommer eller stjeles;
+9. om protest er nødvendig for å bevare regressretten mot endossentene, trassenten og andre chekkskyldnere.
 
 ### § 64
 
@@ -472,7 +513,10 @@ Bestemmelsen i første punktum får også anvendelse på chekkens forevisning ti
 
 ### § 66
 
-Med bøter eller fengsel inntil 3 måneder straffes, forsåvidt ikke strengere straff kommer til anvendelse, den somutsteder en chekk uten at der foreligger sådan dekning som omhandles i [§ 4](lov/1932-05-27-3/§4), elleruten skjellig grunn, ved tilbakekallelse eller ved forføininger over dekningen forhindrer at en av ham utstedt chekk betales ved forevisning før utløpet av den i [§ 29](lov/1932-05-27-3/§29) bestemte frist.
+Med bøter eller fengsel inntil 3 måneder straffes, forsåvidt ikke strengere straff kommer til anvendelse, den som
+
+1. utsteder en chekk uten at der foreligger sådan dekning som omhandles i [§ 4](lov/1932-05-27-3/§4), eller
+2. uten skjellig grunn, ved tilbakekallelse eller ved forføininger over dekningen forhindrer at en av ham utstedt chekk betales ved forevisning før utløpet av den i [§ 29](lov/1932-05-27-3/§29) bestemte frist.
 
 > Endret ved lover 13 juni 1969 nr. 27, [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 

@@ -30,7 +30,23 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det gis fritak for svovelavgift på mineralolje somutføres til utlandetlegges inn på tollager når varene er bestemt til utførselinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetleveres til eller innføres avNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til registrert virksomhets lagerbrukes i skip i utenriksfartbrukes i luftfartøy i utenriksfartbrukes i fiske og fangst i fjerne farvanngir utslipp av svovel til atmosfæren mindre enn det svovelinnholdet i mineraloljen skulle tilsi.
+Det gis fritak for svovelavgift på mineralolje som
+
+1. utføres til utlandet
+2. legges inn på tollager når varene er bestemt til utførsel
+3. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+4. leveres til eller innføres av
+
+   1. NATO og styrker fra land som deltar i Partnerskap for fred
+   2. Den nordiske investeringsbank
+5. kommer i retur til registrert virksomhets lager
+6. brukes i skip i utenriksfart
+7. brukes i luftfartøy i utenriksfart
+8. brukes i fiske og fangst i fjerne farvann
+9. gir utslipp av svovel til atmosfæren mindre enn det svovelinnholdet i mineraloljen skulle tilsi.
 
 Det gis fritak for avgift for andel biodiesel i mineralolje.
 

@@ -15,7 +15,7 @@ xml_hash: "31f455b86c5cd457af5ea8ac90bea7245ade22d2b42ae75a985766f8aebde482"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,23 @@ Forskriften gjelder forvaltning av tilskuddsordningen for regionale forskningsfo
 
 Tilskuddsordningen skal styrke regionenes forskningsevne gjennom tilskudd til forskning og innovasjon og gjennom mobilisering til økt FoU-innsats.
 
-Regionale forskningsfond har som formål å:styrke forskning for regional innovasjon og regional utvikling gjennom åfinansiere forskningsprosjekter av god kvalitetmedvirke til at bedrifter og offentlige virksomheter øker sin kompetanse, innovasjonsevne, verdiskaping og konkurransekraft ved å initiere forskning og ta i bruk resultater fra FoUstimulere til et tettere samarbeid mellom FoU-institusjoner og styrke koplingene til næringsliv og offentlig sektorøke FoU-innsatsen gjennom åmobilisere og kvalifisere bedrifter og offentlige virksomheter til å delta i nasjonal og internasjonal forskningstøtte FoU-prosjekter initiert av næringsliv, frivillig sektor og offentlige virksomheter inkludert universiteter, høyskoler og andre forskningsmiljøerbidra til økt forskningskvalitet og til utvikling av gode og konkurransedyktige FoU-miljøer gjennom åstøtte langsiktig, grunnleggende kompetansebygging i relevante forskningsmiljøerknytte institusjonenes FoU-kompetanse til øvrige regionale FoU-aktiviteter og se disse i sammenhengstimulere til fler- og tverrfaglig samarbeid i forskningsprosjekterarbeide for tett samspill mellom aktiviteter i regionene og deres relasjoner til andre nasjonale og internasjonale forskningsprogrammer og forskningsaktiviteter.
+Regionale forskningsfond har som formål å:
+
+1. styrke forskning for regional innovasjon og regional utvikling gjennom å
+
+   1. finansiere forskningsprosjekter av god kvalitet
+   2. medvirke til at bedrifter og offentlige virksomheter øker sin kompetanse, innovasjonsevne, verdiskaping og konkurransekraft ved å initiere forskning og ta i bruk resultater fra FoU
+   3. stimulere til et tettere samarbeid mellom FoU-institusjoner og styrke koplingene til næringsliv og offentlig sektor
+2. øke FoU-innsatsen gjennom å
+
+   1. mobilisere og kvalifisere bedrifter og offentlige virksomheter til å delta i nasjonal og internasjonal forskning
+   2. støtte FoU-prosjekter initiert av næringsliv, frivillig sektor og offentlige virksomheter inkludert universiteter, høyskoler og andre forskningsmiljøer
+3. bidra til økt forskningskvalitet og til utvikling av gode og konkurransedyktige FoU-miljøer gjennom å
+
+   1. støtte langsiktig, grunnleggende kompetansebygging i relevante forskningsmiljøer
+   2. knytte institusjonenes FoU-kompetanse til øvrige regionale FoU-aktiviteter og se disse i sammenheng
+   3. stimulere til fler- og tverrfaglig samarbeid i forskningsprosjekter
+4. arbeide for tett samspill mellom aktiviteter i regionene og deres relasjoner til andre nasjonale og internasjonale forskningsprogrammer og forskningsaktiviteter.
 
 Fylkeskommunene skal informere om fondet og formidle fondets forskningsresultater, herunder skape oppmerksomhet om og interesse for fondet i allmennheten og blant aktuelle målgrupper/søkere.
 
@@ -38,7 +54,10 @@ Fylkeskommunene Troms og Finnmark, Nordland, Trøndelag og Innlandet skal gjenno
 
 ## § 3. Fordeling av midler til fylkeskommunene
 
-Det samlede tilskuddet til ordningen fastsettes i de årlige statsbudsjettene og fordeles til fylkeskommunene slik:5 prosent av tilskuddsmidlene settes av til fylkeskommunene Troms og Finnmark, og Nordland med et likt beløp til hver fylkeskommune. Av resten fordeles 60 prosent med et likt beløp til hver fylkeskommune og 40 prosent på grunnlag av fylkeskommunenes folketall.Inntil 10 prosent av tildelte midler kan fylkeskommunene bruke til administrasjon. Departementet kan i de årlige tilskuddsbrevene unntaksvis fastsette en høyere prosentsats for enkelte fylkeskommuner. Som administrasjon regnes utgifter ved å administrere ordningen, i tillegg til tiltak for å mobilisere og kvalifisere bedrifter og offentlig virksomheter til å delta i forskning.
+Det samlede tilskuddet til ordningen fastsettes i de årlige statsbudsjettene og fordeles til fylkeskommunene slik:
+
+1. 5 prosent av tilskuddsmidlene settes av til fylkeskommunene Troms og Finnmark, og Nordland med et likt beløp til hver fylkeskommune. Av resten fordeles 60 prosent med et likt beløp til hver fylkeskommune og 40 prosent på grunnlag av fylkeskommunenes folketall.
+2. Inntil 10 prosent av tildelte midler kan fylkeskommunene bruke til administrasjon. Departementet kan i de årlige tilskuddsbrevene unntaksvis fastsette en høyere prosentsats for enkelte fylkeskommuner. Som administrasjon regnes utgifter ved å administrere ordningen, i tillegg til tiltak for å mobilisere og kvalifisere bedrifter og offentlig virksomheter til å delta i forskning.
 
 Tilskuddsmidlene og eventuell avkastning skal anvendes i samsvar med tilskuddsformålet.
 

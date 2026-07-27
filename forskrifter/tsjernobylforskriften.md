@@ -15,7 +15,7 @@ xml_hash: "a097ecc25cd77fb365ce4044c4091ac93ac9f22e02eb3d4f4d23856ba7b6bebd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ Forskriften omfatter importbetingelser ved innførsel av næringsmidler og fôrv
 
 Videre omfatter forskriften særskilte kontrollregler for ikke-animalske næringsmidler og fôrvarer nevnt i vedlegg II til forordningen som har sin opprinnelse i eller er sendt fra en av de opplistede statene nevnt i vedlegg I til forordning [(EU) 2020/1158](eu/32020r1158), når Norge er innførselsstedet i EØS-området.
 
-Forskriften omfatter ikke forsendelser med bruttovekt på under 10 kg for ferskvare og 2 kg for tørrvare, som er sendt somvareprøver, laboratorieprøver eller utstillingsgjenstander som ikke skal legges ut på markedet,personlige forsendelser med næringsmidler og fôrvarer beregnet på privat bruk,ikke-kommersielle forsendelser sendt til privatpersoner og som ikke skal legges ut på markedet, ellerforsendelser til vitenskapelig formål.
+Forskriften omfatter ikke forsendelser med bruttovekt på under 10 kg for ferskvare og 2 kg for tørrvare, som er sendt som
+
+1. vareprøver, laboratorieprøver eller utstillingsgjenstander som ikke skal legges ut på markedet,
+2. personlige forsendelser med næringsmidler og fôrvarer beregnet på privat bruk,
+3. ikke-kommersielle forsendelser sendt til privatpersoner og som ikke skal legges ut på markedet, eller
+4. forsendelser til vitenskapelig formål.
 
 > Endret ved [forskrift 26 okt 2020 nr. 2200](forskrift/2020-10-26-2200).
 
@@ -172,7 +177,14 @@ HAS ADOPTED THIS REGULATION:
 
 1\. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation [(Euratom) 2016/52](eu/32016r0052) originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the Union market.
 
-2\. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:consignments sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market;consignments which form part of passengers’ personal luggage and are intended for personal consumption or use;non-commercial consignments sent to natural persons which are not intended to be placed on the market;consignments intended for scientific purposes.In case of doubt on the intended use of the products referred to in points (b) and (c), the burden of proof lies with the owner of the personal luggage and with the recipient of the consignment, respectively.
+2\. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:
+
+1. consignments sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market;
+2. consignments which form part of passengers’ personal luggage and are intended for personal consumption or use;
+3. non-commercial consignments sent to natural persons which are not intended to be placed on the market;
+4. consignments intended for scientific purposes.
+
+In case of doubt on the intended use of the products referred to in points (b) and (c), the burden of proof lies with the owner of the personal luggage and with the recipient of the consignment, respectively.
 
 ### Article 2. Definitions
 
@@ -187,7 +199,10 @@ For the purposes of this Regulation, the following definitions apply:
 
 ►**M1**
 
-2\. The products shall comply with the following accumulated maximum permitted levels of radioactive contamination in terms of caesium-137\*:370 Bq/kg for milk and milk products and for food for infants and young children as defined in Article 2(2)(a) and (b) of Regulation [(EU) No 609/2013](eu/32013r0609);600 Bq/kg for all other products concerned.
+2\. The products shall comply with the following accumulated maximum permitted levels of radioactive contamination in terms of caesium-137\*:
+
+1. 370 Bq/kg for milk and milk products and for food for infants and young children as defined in Article 2(2)(a) and (b) of Regulation [(EU) No 609/2013](eu/32013r0609);
+2. 600 Bq/kg for all other products concerned.
 
 \* The level applicable to concentrated or dried products shall be calculated on the basis of the reconstituted product as ready for consumption.
 
@@ -199,7 +214,11 @@ For the purposes of this Regulation, the following definitions apply:
 
 1\. The official certificate referred to in Article 3(3) shall be issued by the competent authority of the third country of origin or of the third country where the consignment is consigned, if that country is different from the country of origin, in accordance with the model set out in Annex III.
 
-2\. The official certificate shall comply with the following requirements:it shall bear the identification code referred to in Article 3(3), of the consignment to which it relates;it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
+2\. The official certificate shall comply with the following requirements:
+
+1. it shall bear the identification code referred to in Article 3(3), of the consignment to which it relates;
+2. it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;
+3. it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
 
 ►**M1**
 
@@ -217,7 +236,9 @@ For the purposes of this Regulation, the following definitions apply:
 
 ►**M1**
 
-1\. Consignments of products of non-animal origin referred to in Article 3(3) shall be subject to official controls at their entry into the Union at a border control post and/or at a designated control point.Consignments of products referred to in Article 3(3) containing ingredient or ingredients of animal origin shall be subject to official controls at their entry into the Union at a border control post.
+1\. Consignments of products of non-animal origin referred to in Article 3(3) shall be subject to official controls at their entry into the Union at a border control post and/or at a designated control point.
+
+Consignments of products referred to in Article 3(3) containing ingredient or ingredients of animal origin shall be subject to official controls at their entry into the Union at a border control post.
 
 ◄**M1**
 

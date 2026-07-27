@@ -15,7 +15,7 @@ xml_hash: "044496aa93be495f187030f76efc158881a7486fa2f711076f534c3737f6133e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,15 @@ Ringerikspotet BA.
 
 1. *Produktbeskrivelse:* Ringerikspotet fra Ringerike er en halvsein matpotet, kjent for sin gode smakskvalitet. Knollene skal være små, ujevne, ha meget dype øyne og innsenket navlefeste. Potetene skal ha rød skallfarge og sterkt gul kjøttfarge, ofte med rød karstrengring. Potetene skal ha et meget høyt tørrstoffinnhold.
 2. *Geografisk område:* Ringerikspotet fra Ringerike skal dyrkes, sorteres og pakkes innenfor jordbrukslandskapet innenfor landskapsområdet Ringerike i Ringerike kommune og Hole kommune.
-3. *Produksjonsmetode:* Miniknoller fra godkjent klonavlsenter skal dyrkes atskilt og oppformeres i 2-3 sesonger før de går inn i matpotetproduksjonen.Poteten skal dyrkes på opplendte teiger i moldholdig siltig lettleire (kambro silur). Dyrkingsjorden skal ha en naturlig høg pH på over 6. Tyngre humusrike jordsarter eller lettere sandjordarter skal ikke benyttes. Vekstskifte skal skje med et omløp på minimum 3 år.Før setting skal settepotetene tempereres ved ca. 10 °C i 10-14 dager, og råtne poteter, skadde poteter og poteter med synlig sykdom skal sorteres ut. Potetene skal fortrinnsvis settes midt i mai i god varm og dypt bearbeidet jord. Potetene skal gjødsles moderat. For å forebygge tørråte skal det foretas kjemisk bekjemping i henhold til varsler om tørråte.Potetplantenes vekst skal avsluttes mekanisk eller kjemisk 2-3 uker før potetopptaket i september. Etter opptak skal potetene lagres i 2-3 uker for sårheling.Potetene skal sorteres og pakkes. Minimum størrelse for salg skal være 25 mm og maksimum størrelse 52 mm. Settepoteter til neste års produksjon skal sorteres ut.
+3. *Produksjonsmetode:* Miniknoller fra godkjent klonavlsenter skal dyrkes atskilt og oppformeres i 2-3 sesonger før de går inn i matpotetproduksjonen.
+
+   Poteten skal dyrkes på opplendte teiger i moldholdig siltig lettleire (kambro silur). Dyrkingsjorden skal ha en naturlig høg pH på over 6. Tyngre humusrike jordsarter eller lettere sandjordarter skal ikke benyttes. Vekstskifte skal skje med et omløp på minimum 3 år.
+
+   Før setting skal settepotetene tempereres ved ca. 10 °C i 10-14 dager, og råtne poteter, skadde poteter og poteter med synlig sykdom skal sorteres ut. Potetene skal fortrinnsvis settes midt i mai i god varm og dypt bearbeidet jord. Potetene skal gjødsles moderat. For å forebygge tørråte skal det foretas kjemisk bekjemping i henhold til varsler om tørråte.
+
+   Potetplantenes vekst skal avsluttes mekanisk eller kjemisk 2-3 uker før potetopptaket i september. Etter opptak skal potetene lagres i 2-3 uker for sårheling.
+
+   Potetene skal sorteres og pakkes. Minimum størrelse for salg skal være 25 mm og maksimum størrelse 52 mm. Settepoteter til neste års produksjon skal sorteres ut.
 4. *Merking av produktet:* Ringerikspotet fra Ringerike kan merkes med teksten Beskyttet geografisk betegnelse og figurmerket for Beskyttet geografisk betegnelse.
 
 ## § 4. Ikrafttredelse

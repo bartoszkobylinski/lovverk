@@ -15,7 +15,7 @@ xml_hash: "9bf06ca0f4b06efc44892461f830f6fa548625d90c5697a4e08e12bf30abe9ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,10 +34,28 @@ TINE SA.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1. *Produktbeskriving*Gamalost frå Vik er ein muggost laga av skumma surmjølk modna med muggtypen Mucor mucedo.Osten skal ha gulbrun farge med ein gulkvit kjerne. Osten skal ha kraftig, karakteristisk smak og fast konsistens. Han skal innehalde mindre enn 1% feitt og ca. 50% protein, og han skal ikkje innehalde salt eller tilsetjingsstoff.
-2. *Geografisk område*Gamalost frå Vik skal produserast i Vik kommune.
-3. *Produksjonsmetode*All mjølk skal kunne sporast tilbake til den enkelte produsenten.Ved mottak skal mjølka lagrast på råmjølkstankar. Før ysting skal mjølka skummast, tilsetjast ein kultur av mjølkesyrebakteriar og syrnast i 1-2 døgn.Surmjølka skal varmebehandlast før ostemassen og mysa blir skilde, t.d. i ein dekantersentrifuge. Ostestoffet skal malast til omtrent risgrynsstorleik og fyllast i former. Osteformene skal plasserast i stativ som så blir sette i ein kokar for varmebehandling. Varmebehandlinga skal skje ved sirkulasjon av varm myse i ca. 2-3 timar. Osten skal så kjølast ned, takast ut av formene og setjast over på eit lagerstativ, før han blir dusja jamt med ein suspensjon av muggkultur.Osten skal deretter overførast til modningslager og stå der i 2-3 veker under kontrollerte temperatur- og fukttilhøve. For å få muggmycelet som då veks ut, til å vekse innover, skal ein stryke muggmycelet manuelt ned i osten to gonger. Det må strykast i rett tid i forhold til veksten, vanlegvis første gong etter 3 dagar og andre gong etter 5 dagar. Modninga skal kontrollerast ved uttak av eit lite tverrsnitt av osten.Når osten er ferdig modna skal den pakkast. Vidare modning kan stoppast ved at osten blir frosen.
-4. *Produktmerking*Gamalost frå Vik kan merkjast med figurmerke for beskytta geografisk nemning.
+1. *Produktbeskriving*
+
+   Gamalost frå Vik er ein muggost laga av skumma surmjølk modna med muggtypen Mucor mucedo.
+
+   Osten skal ha gulbrun farge med ein gulkvit kjerne. Osten skal ha kraftig, karakteristisk smak og fast konsistens. Han skal innehalde mindre enn 1% feitt og ca. 50% protein, og han skal ikkje innehalde salt eller tilsetjingsstoff.
+2. *Geografisk område*
+
+   Gamalost frå Vik skal produserast i Vik kommune.
+3. *Produksjonsmetode*
+
+   All mjølk skal kunne sporast tilbake til den enkelte produsenten.
+
+   Ved mottak skal mjølka lagrast på råmjølkstankar. Før ysting skal mjølka skummast, tilsetjast ein kultur av mjølkesyrebakteriar og syrnast i 1-2 døgn.
+
+   Surmjølka skal varmebehandlast før ostemassen og mysa blir skilde, t.d. i ein dekantersentrifuge. Ostestoffet skal malast til omtrent risgrynsstorleik og fyllast i former. Osteformene skal plasserast i stativ som så blir sette i ein kokar for varmebehandling. Varmebehandlinga skal skje ved sirkulasjon av varm myse i ca. 2-3 timar. Osten skal så kjølast ned, takast ut av formene og setjast over på eit lagerstativ, før han blir dusja jamt med ein suspensjon av muggkultur.
+
+   Osten skal deretter overførast til modningslager og stå der i 2-3 veker under kontrollerte temperatur- og fukttilhøve. For å få muggmycelet som då veks ut, til å vekse innover, skal ein stryke muggmycelet manuelt ned i osten to gonger. Det må strykast i rett tid i forhold til veksten, vanlegvis første gong etter 3 dagar og andre gong etter 5 dagar. Modninga skal kontrollerast ved uttak av eit lite tverrsnitt av osten.
+
+   Når osten er ferdig modna skal den pakkast. Vidare modning kan stoppast ved at osten blir frosen.
+4. *Produktmerking*
+
+   Gamalost frå Vik kan merkjast med figurmerke for beskytta geografisk nemning.
 
 ## § 4. Iverksetjing
 

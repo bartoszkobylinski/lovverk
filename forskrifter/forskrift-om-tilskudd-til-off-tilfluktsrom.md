@@ -15,7 +15,7 @@ xml_hash: "0e76f0b5144d91c3e23ba8ea3701dfd34252a31e1ceb043f65d6a3c01915bd5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,23 @@ For alle betonganlegg der vanskelige grunnforhold, økning av kjellerarealet ut 
 
 ## § 5.
 
-Statens tilskudd til tilfluktsrom plassert i bygg eller som frittliggende betonganlegg må ikke overstige følgende beløp pr. person tilfluktsrommet er beregnet for:For anlegg nevnt i [§§ 1](forskrift/1984-09-21-1674/§1) og 2:Tilfluktsrom av type A for inntil 500 personerkr. 2.940,-.Tilfluktsrom av type A for 501 personer eller merkr. 1.955,-.Tilfluktsrom av type B for inntil 500 personerkr. 2.590,-.Tilfluktsrom av type B for 501 personer eller merkr. 1.725,-.Tilfluktsrom av type C for inntil 500 personerkr. 1.380,-.Tilfluktsrom av type C for 501 personer eller merkr.   920,-.For anlegg nevnt i [§ 4](forskrift/1984-09-21-1674/§4):Alle typer tilfluktsromkr.   260,-.
+Statens tilskudd til tilfluktsrom plassert i bygg eller som frittliggende betonganlegg må ikke overstige følgende beløp pr. person tilfluktsrommet er beregnet for:
+
+1. For anlegg nevnt i [§§ 1](forskrift/1984-09-21-1674/§1) og 2:
+
+   |  |  |
+   | --- | --- |
+   | Tilfluktsrom av type A for inntil 500 personer | kr. 2.940,-. |
+   | Tilfluktsrom av type A for 501 personer eller mer | kr. 1.955,-. |
+   | Tilfluktsrom av type B for inntil 500 personer | kr. 2.590,-. |
+   | Tilfluktsrom av type B for 501 personer eller mer | kr. 1.725,-. |
+   | Tilfluktsrom av type C for inntil 500 personer | kr. 1.380,-. |
+   | Tilfluktsrom av type C for 501 personer eller mer | kr.   920,-. |
+2. For anlegg nevnt i [§ 4](forskrift/1984-09-21-1674/§4):
+
+   |  |  |
+   | --- | --- |
+   | Alle typer tilfluktsrom | kr.   260,-. |
 
 ## § 6.
 

@@ -15,7 +15,7 @@ xml_hash: "e13385fb7f90831019ed0155119ae8b6f22bd5e309fa8575d3268e083df6f7f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ For å oppfylle kravet til klarlagt identitet må søkeren framlegge originalt p
 
 ### § 1-2. Unntak
 
-Det kan gjøres unntak fra [§ 1-1](forskrift/2006-06-30-756/§1-1) dersom søkeren omfattes av følgende tilfeller:Søkerens tidligere hjemland mangler en fungerende sentraladministrasjon, eller det av andre grunner er umulig å fremskaffe originalt pass med tilstrekkelig notoritet eller annen identitetsdokumentasjon med tilstrekkelig notoritet.Søkeren hadde berettiget grunn til å forlate hjemlandet uten originalt pass med tilstrekkelig notoritet eller annen identitetsdokumentasjon med tilstrekkelig notoritet, og hensynet til søkerens sikkerhet tilsier at vedkommende ikke kontakter tidligere hjemlands myndigheter.
+Det kan gjøres unntak fra [§ 1-1](forskrift/2006-06-30-756/§1-1) dersom søkeren omfattes av følgende tilfeller:
+
+1. Søkerens tidligere hjemland mangler en fungerende sentraladministrasjon, eller det av andre grunner er umulig å fremskaffe originalt pass med tilstrekkelig notoritet eller annen identitetsdokumentasjon med tilstrekkelig notoritet.
+2. Søkeren hadde berettiget grunn til å forlate hjemlandet uten originalt pass med tilstrekkelig notoritet eller annen identitetsdokumentasjon med tilstrekkelig notoritet, og hensynet til søkerens sikkerhet tilsier at vedkommende ikke kontakter tidligere hjemlands myndigheter.
 
 Kravene til klarlagt identitet kan bare anses oppfylt dersom søkeren framlegger opplysninger som sannsynliggjør søkerens rette identitet. Etter denne bestemmelsen gjelder et krav om alminnelig sannsynlighetsovervekt.
 
@@ -44,7 +47,10 @@ Dersom søkeren er født i riket og har fått sin identitet registrert i folkere
 
 Dersom søkeren var under 18 år ved innreise til riket, og har minst én forelder som fyller vilkårene for klarlagt identitet, kan identiteten anses klarlagt uten at det stilles krav om å legge frem pass, og uten at det stilles krav til alminnelig sannsynlighetsovervekt for at de oppgitte identitetsopplysningene er riktige.
 
-Dersom søkeren omfattes av [§ 1-2](forskrift/2006-06-30-756/§1-2) første ledd nummer 1 eller 2, kan identiteten etter en konkret vurdering anses for klarlagt selv om det ikke er alminnelig sannsynlighetsovervekt for at de oppgitte opplysningene er riktige. Dette gjelder kun der søkeren har gjort det som kreves for å klarlegge sin identitet, ogsøkeren var under 14 år ved innvilgelsen av sin første oppholdstillatelse og har hatt opphold i riket med oppholdstillatelser de siste fem år, ellersøkeren var fra og med 14 år til og med 16 år ved innvilgelsen av sin første oppholdstillatelse og har hatt opphold i riket med oppholdstillatelser de siste ti år.
+Dersom søkeren omfattes av [§ 1-2](forskrift/2006-06-30-756/§1-2) første ledd nummer 1 eller 2, kan identiteten etter en konkret vurdering anses for klarlagt selv om det ikke er alminnelig sannsynlighetsovervekt for at de oppgitte opplysningene er riktige. Dette gjelder kun der søkeren har gjort det som kreves for å klarlegge sin identitet, og
+
+1. søkeren var under 14 år ved innvilgelsen av sin første oppholdstillatelse og har hatt opphold i riket med oppholdstillatelser de siste fem år, eller
+2. søkeren var fra og med 14 år til og med 16 år ved innvilgelsen av sin første oppholdstillatelse og har hatt opphold i riket med oppholdstillatelser de siste ti år.
 
 Ved beregning av oppholdstid etter tredje ledd, skal perioder uten tillatelse som til sammen overstiger to måneder i ett kalenderår, trekkes fra. Det samme gjelder dersom søkeren har utenlandsopphold som til sammen overstiger to måneder i løpet av ett kalenderår. Oppholdstiden regnes fra søknadstidspunktet, så fremt søknaden ble innvilget. Oppholdstid mellom avslag på søknad og senere innvilgelse medregnes likevel bare dersom avslaget ble gitt utsatt iverksettelse, eller utsatt iverksettelse fulgte av utlendingsloven.
 
@@ -96,7 +102,17 @@ Dersom søkerens samlede utenlandsopphold det enkelte kalenderår ikke overstige
 
 ### § 4-1. Unntak fra kravet om ferdigheter i norsk muntlig på grunn av tilstrekkelige kunnskaper i norsk eller samisk eller på grunn av særlige helsemessige årsaker eller personlige forutsetninger
 
-Unntatt fra kravet om å beherske norsk muntlig er søkere som kan dokumentere et av følgende:standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolenhalvårsvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæringgjennomført studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoengoppfylt inntakskrav for studier på norsk eller samisk for universitet eller høyskole i Norgeankom Norge på bakgrunn av søknad om beskyttelse eller som overføringsflyktning og som har fylt 55 årmottar uføretrygd og har fylt 55 årsærlige helsemessige årsaker, eller personlige forutsetninger som vedkommende ikke har kontroll over, gjør at personen ikke har mulighet til å bestå norskprøve på nivå B1 eller høyerehar fått vedtak om fritak fra plikt til å avlegge avsluttende prøve i norsk etter introduksjonsloven § 19 annet ledd jf. forskrift om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere § 20 eller [integreringsloven § 37](lov/2020-11-06-127/§37) jf. [§ 29](lov/2020-11-06-127/§29)er statsløs.
+Unntatt fra kravet om å beherske norsk muntlig er søkere som kan dokumentere et av følgende:
+
+1. standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolen
+2. halvårsvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæring
+3. gjennomført studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoeng
+4. oppfylt inntakskrav for studier på norsk eller samisk for universitet eller høyskole i Norge
+5. ankom Norge på bakgrunn av søknad om beskyttelse eller som overføringsflyktning og som har fylt 55 år
+6. mottar uføretrygd og har fylt 55 år
+7. særlige helsemessige årsaker, eller personlige forutsetninger som vedkommende ikke har kontroll over, gjør at personen ikke har mulighet til å bestå norskprøve på nivå B1 eller høyere
+8. har fått vedtak om fritak fra plikt til å avlegge avsluttende prøve i norsk etter introduksjonsloven § 19 annet ledd jf. forskrift om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere § 20 eller [integreringsloven § 37](lov/2020-11-06-127/§37) jf. [§ 29](lov/2020-11-06-127/§29)
+9. er statsløs.
 
 Søker som får unntak etter første ledd bokstav e, f, g og i må oppnå minimum nivå A2 på muntlig prøve i norsk, med mindre det foreligger tungtveiende årsaker til at vedkommende bør fritas fra språkkravet.
 
@@ -104,7 +120,15 @@ Søker som får unntak etter første ledd bokstav e, f, g og i må oppnå minimu
 
 ### § 4-2. Unntak fra kravet om å ha bestått statsborgerprøven
 
-Unntatt fra kravet i [statsborgerloven § 8](lov/2005-06-10-51/§8) annet ledd om bestått statsborgerprøve er søkere som kan dokumentere et av følgendebestått prøve i samfunnskunnskap på norsk i henhold til [integreringsloven § 37](lov/2020-11-06-127/§37) første ledd eller introduksjonsloven § 19 annet leddstandpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolenhalvårsvurdering, standpunktkarakter eller eksamenskarakter 2 i samfunnskunnskap i videregående opplæringgjennomført og bestått studier i samfunnsfag som gir kunnskap om Norge, på universitets- eller høyskolenivå tilsvarende minimum 10 studiepoenger tatt opp til og har gjennomført studier på norsk eller samisk på universitets eller høyskolenivå i Norge. Det er tilstrekkelig at man dokumenterer at man har vekttall eller studiepoeng fra studie på norsk eller samiskpå grunn av særlige helsemessige, andre tungtveiende årsaker, eller personlige forutsetninger som vedkommende ikke rår over, ikke har mulighet til å bestå prøven, ellerhar fått vedtak om fritak fra plikt til å avlegge avsluttende prøve i samfunnskunnskap etter introduksjonsloven § 19 annet ledd jf. forskrift om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere § 20 eller [integreringsloven § 37](lov/2020-11-06-127/§37), jf. [§ 29](lov/2020-11-06-127/§29).
+Unntatt fra kravet i [statsborgerloven § 8](lov/2005-06-10-51/§8) annet ledd om bestått statsborgerprøve er søkere som kan dokumentere et av følgende
+
+1. bestått prøve i samfunnskunnskap på norsk i henhold til [integreringsloven § 37](lov/2020-11-06-127/§37) første ledd eller introduksjonsloven § 19 annet ledd
+2. standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolen
+3. halvårsvurdering, standpunktkarakter eller eksamenskarakter 2 i samfunnskunnskap i videregående opplæring
+4. gjennomført og bestått studier i samfunnsfag som gir kunnskap om Norge, på universitets- eller høyskolenivå tilsvarende minimum 10 studiepoeng
+5. er tatt opp til og har gjennomført studier på norsk eller samisk på universitets eller høyskolenivå i Norge. Det er tilstrekkelig at man dokumenterer at man har vekttall eller studiepoeng fra studie på norsk eller samisk
+6. på grunn av særlige helsemessige, andre tungtveiende årsaker, eller personlige forutsetninger som vedkommende ikke rår over, ikke har mulighet til å bestå prøven, eller
+7. har fått vedtak om fritak fra plikt til å avlegge avsluttende prøve i samfunnskunnskap etter introduksjonsloven § 19 annet ledd jf. forskrift om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere § 20 eller [integreringsloven § 37](lov/2020-11-06-127/§37), jf. [§ 29](lov/2020-11-06-127/§29).
 
 > Endret ved [forskrifter 11 juli 2013 nr. 899](forskrift/2013-07-11-899) (i kraft 1 sep 2013), [22 sep 2016 nr. 1098](forskrift/2016-09-22-1098) (i kraft 1 jan 2017), [20 april 2017 nr. 494](forskrift/2017-04-20-494), [26 aug 2022 nr. 1494](forskrift/2022-08-26-1494) (i kraft 1 okt 2022).
 
@@ -322,7 +346,12 @@ Departementet og Utlendingsdirektoratet kan kreve at en sak som nevnt i [§ 13-1
 
 ### § 13A-1. Formålet med behandlingen av personopplysninger
 
-Personopplysninger skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål, herunderforberede, avgjøre og følge opp saker om erverv og tap av norsk statsborgerskap, herunder gjenerverv og tilbakekall,kontrollere og verifisere opplysninger,opptre på vegne av staten ved søksmål om lovmessigheten av vedtak, ograpportere om saksbehandlingen etter pålegg fra overordnet myndighet.
+Personopplysninger skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål, herunder
+
+1. forberede, avgjøre og følge opp saker om erverv og tap av norsk statsborgerskap, herunder gjenerverv og tilbakekall,
+2. kontrollere og verifisere opplysninger,
+3. opptre på vegne av staten ved søksmål om lovmessigheten av vedtak, og
+4. rapportere om saksbehandlingen etter pålegg fra overordnet myndighet.
 
 Organene nevnt i lovens § 2 kan viderebehandle personopplysninger fra tidligere saksbehandling, herunder fra tidligere utlendingssaker, til nye formål når det er nødvendig av kontrollhensyn og sakene har en forbindelse. Begrensningene i første punktum gjelder ikke for viderebehandling for forenelige formål.
 
@@ -350,7 +379,11 @@ Utlendingsdirektoratet skal foreta jevnlige manuelle kontroller av bruken av aut
 
 ### § 14-1. Opplysningsplikt for politiet
 
-Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren er ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, eller er under straffeforfølgning, jf. også [politiregisterloven § 36](lov/2010-05-28-16/§36) første ledd nr. 1 i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)erverv av norsk statsborgerskap etter [lovens kapittel 4](forskrift/2006-06-30-756/kap4)tilbakekall av norsk statsborgerskap etter lovens § 26.
+Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren er ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, eller er under straffeforfølgning, jf. også [politiregisterloven § 36](lov/2010-05-28-16/§36) første ledd nr. 1 i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. erverv av norsk statsborgerskap etter [lovens kapittel 4](forskrift/2006-06-30-756/kap4)
+3. tilbakekall av norsk statsborgerskap etter lovens § 26.
 
 Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren er under etterforskning for et straffbart forhold som kan få betydning for søknaden, i sak om berostilling etter lovens § 30 annet ledd. Politiets plikt til å utlevere opplysninger etter leddet her gjelder bare der etterforskningshensyn ikke taler mot.
 
@@ -360,31 +393,46 @@ Dersom det er nødvendig for å behandle en sak etter loven skal Politiets sikke
 
 ### § 14-2. Opplysningsplikt for Lånekassen
 
-Lånekassen skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om tildeling av utdanningsstøtte til søkeren og referansepersonen, herunder beløpets størrelse, i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
+Lånekassen skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om tildeling av utdanningsstøtte til søkeren og referansepersonen, herunder beløpets størrelse, i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
 
 > Tilføyd ved [forskrift 18 jan 2013 nr. 45](forskrift/2013-01-18-45), endret ved [forskrifter 22 sep 2016 nr. 1098](forskrift/2016-09-22-1098) (i kraft 1 jan 2017), [13 des 2019 nr. 1772](forskrift/2019-12-13-1772) (i kraft 1 jan 2020), [28 april 2020 nr. 880](forskrift/2020-04-28-880) (i kraft 30 april 2020).
 
 ### § 14-3. Opplysningsplikt for arbeids- og velferdsforvaltningen
 
-Arbeids- og velferdsforvaltningen skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om tildeling av ytelser etter folketrygdloven og økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen til søkeren og referansepersonen i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26.
+Arbeids- og velferdsforvaltningen skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om tildeling av ytelser etter folketrygdloven og økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen til søkeren og referansepersonen i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26.
 
 > Tilføyd ved [forskrift 18 jan 2013 nr. 45](forskrift/2013-01-18-45), endret ved [forskrifter 22 sep 2016 nr. 1098](forskrift/2016-09-22-1098) (i kraft 1 jan 2017), [13 des 2019 nr. 1772](forskrift/2019-12-13-1772) (i kraft 1 jan 2020).
 
 ### § 14-4. Opplysningsplikt for skattemyndighetene for formues- og inntektsskatt
 
-Skattemyndighetene for formues- og inntektsskatt skal etter anmodning fra Utlendingsdirektoratet og Utlendingsnemnda, uten hinder av taushetsplikt i [skatteforvaltningsloven § 3-1](lov/2016-05-27-14/§3-1), gi opplysninger om inntekt og formue til den saken gjelder og referansepersonen i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26.
+Skattemyndighetene for formues- og inntektsskatt skal etter anmodning fra Utlendingsdirektoratet og Utlendingsnemnda, uten hinder av taushetsplikt i [skatteforvaltningsloven § 3-1](lov/2016-05-27-14/§3-1), gi opplysninger om inntekt og formue til den saken gjelder og referansepersonen i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26.
 
 > Tilføyd ved [forskrift 18 jan 2013 nr. 45](forskrift/2013-01-18-45), endret ved [forskrifter 22 sep 2016 nr. 1098](forskrift/2016-09-22-1098) (i kraft 1 jan 2017), [19 des 2016 nr. 1737](forskrift/2016-12-19-1737) (i kraft 1 jan 2017), [13 des 2019 nr. 1772](forskrift/2019-12-13-1772) (i kraft 1 jan 2020).
 
 ### § 14-5. Opplysningsplikt for folkeregistermyndigheten
 
-Folkeregistermyndigheten skal etter anmodning fra politiet, norsk utenrikstjeneste, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt, gi opplysninger registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2](lov/2016-12-09-88/§3-2) om den saken gjelder og denne personens nærmeste familie i sak omerverv av norsk statsborgerskap etter [lovens kapittel 2](forskrift/2006-06-30-756/kap2), 3, 4 og § 37tap av norsk statsborgerskap etter [lovens kapittel 5](forskrift/2006-06-30-756/kap5).
+Folkeregistermyndigheten skal etter anmodning fra politiet, norsk utenrikstjeneste, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt, gi opplysninger registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2](lov/2016-12-09-88/§3-2) om den saken gjelder og denne personens nærmeste familie i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 2](forskrift/2006-06-30-756/kap2), 3, 4 og § 37
+2. tap av norsk statsborgerskap etter [lovens kapittel 5](forskrift/2006-06-30-756/kap5).
 
 > Tilføyd ved [forskrift 18 sep 2017 nr. 1412](forskrift/2017-09-18-1412) (i kraft 1 okt 2017), endret ved [forskrift 28 april 2020 nr. 880](forskrift/2020-04-28-880) (i kraft 30 april 2020, tidligere § 14-6).
 
 ### § 14-6. Opplysningsplikt for kommunene
 
-Kommunene skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren har gjennomført opplæring i norsk og samfunnskunnskap etter introduksjonsloven, resultat av statsborgerprøven og av avsluttende prøver i norsk og samfunnskunnskap i henhold til introduksjonsloven i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
+Kommunene skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren har gjennomført opplæring i norsk og samfunnskunnskap etter introduksjonsloven, resultat av statsborgerprøven og av avsluttende prøver i norsk og samfunnskunnskap i henhold til introduksjonsloven i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
 
 Kommunene skal etter anmodning også gi opplysninger om søkerens utdanning, herunder opptak, progresjon, permisjoner og resultater, dersom det er nødvendig for å behandle saker som nevnt i første ledd.
 
@@ -394,7 +442,10 @@ Opplysningene skal gis uten hinder av taushetsplikt, og kan innhentes fra nasjon
 
 ### § 14-7. Opplysningsplikt for fylkeskommunene, universiteter, høyskoler og frittstående skoler
 
-Fylkeskommunene, universiteter, offentlige og private høyskoler og frittstående skoler, skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkerens utdanning og studier, herunder opptak, progresjon, permisjoner og resultater, dersom det er nødvendig for å behandle sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
+Fylkeskommunene, universiteter, offentlige og private høyskoler og frittstående skoler, skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkerens utdanning og studier, herunder opptak, progresjon, permisjoner og resultater, dersom det er nødvendig for å behandle sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
 
 Opplysningene skal gis uten hinder av taushetsplikt, og kan innhentes fra nasjonale registre.
 
@@ -402,7 +453,10 @@ Opplysningene skal gis uten hinder av taushetsplikt, og kan innhentes fra nasjon
 
 ### § 14-8. Opplysningsplikt for Kompetanse Norge
 
-Kompetanse Norge skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om avlagte prøver i norsk og samfunnskunnskap, inkludert tidspunktet prøven var avlagt, resultater på prøve eller delprøve i norsk, resultat på prøve i samfunnskunnskap, hvilket språk prøven i samfunnskunnskap ble avlagt på og resultat på statsborgerprøven i sak omerverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
+Kompetanse Norge skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om avlagte prøver i norsk og samfunnskunnskap, inkludert tidspunktet prøven var avlagt, resultater på prøve eller delprøve i norsk, resultat på prøve i samfunnskunnskap, hvilket språk prøven i samfunnskunnskap ble avlagt på og resultat på statsborgerprøven i sak om
+
+1. erverv av norsk statsborgerskap etter [lovens kapittel 3](forskrift/2006-06-30-756/kap3)
+2. tilbakekall av norsk statsborgerskap etter lovens § 26 annet ledd.
 
 Opplysningene skal gis uten hinder av taushetsplikt, og kan innhentes fra nasjonale registre.
 

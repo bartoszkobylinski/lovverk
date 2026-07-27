@@ -26,9 +26,18 @@ eu_basis: []
 
 Denne forskriften gjelder for turistfiskevirksomheter.
 
-Med turistfiskevirksomheter menes virksomheter somer registrert i merverdiavgiftsregisteret, jf. lov om merverdiavgift,har inntekt fra næring basert på turistfiske i sjø på minst 50 000 kroner per kalenderår, ogdisponerer ett eller flere fartøy for utleie til fisketurister eller disponerer ett eller flere fartøy som tar turister med på fiske.
+Med turistfiskevirksomheter menes virksomheter som
 
-Som turistfiskevirksomhet regnes også virksomhet som:er registrert i enhetsregisteret,har inntekt basert på turistfiske i sjø,er omfattet av andre ledd bokstav c, ogved frivillig søknad er registrert i henhold til [§ 2](forskrift/2017-07-05-1141/§2).
+1. er registrert i merverdiavgiftsregisteret, jf. lov om merverdiavgift,
+2. har inntekt fra næring basert på turistfiske i sjø på minst 50 000 kroner per kalenderår, og
+3. disponerer ett eller flere fartøy for utleie til fisketurister eller disponerer ett eller flere fartøy som tar turister med på fiske.
+
+Som turistfiskevirksomhet regnes også virksomhet som:
+
+1. er registrert i enhetsregisteret,
+2. har inntekt basert på turistfiske i sjø,
+3. er omfattet av andre ledd bokstav c, og
+4. ved frivillig søknad er registrert i henhold til [§ 2](forskrift/2017-07-05-1141/§2).
 
 > Endret ved [forskrift 18 des 2017 nr. 2148](forskrift/2017-12-18-2148) (i kraft 1 jan 2018).
 

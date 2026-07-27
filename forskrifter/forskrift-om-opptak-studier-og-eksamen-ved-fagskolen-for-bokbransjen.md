@@ -34,13 +34,21 @@ Forskriften fastsetter studentenes og Fagskolen for bokbransjens (fagskolen) ret
 
 ### § 1-3. Definisjoner
 
-(1) *Prøving*Formell prøving av studentenes kunnskaper og ferdigheter når resultatet inngår på vitnemålet, eller innregnes i karakteren for vedkommende studieprogram, slik som beskrevet i [§ 1-1](forskrift/2017-05-15-1139/§1-1).
+(1) *Prøving*
 
-(2) *Vurdering*Enhver fastsetting av karakter eller godkjent/ikke godkjent ved prøving.
+Formell prøving av studentenes kunnskaper og ferdigheter når resultatet inngår på vitnemålet, eller innregnes i karakteren for vedkommende studieprogram, slik som beskrevet i [§ 1-1](forskrift/2017-05-15-1139/§1-1).
 
-(3) *Studieprogram*En kombinasjon av emner som leder frem til et fastsatt læringsutbytte.
+(2) *Vurdering*
 
-(4) *Studierett*Rettigheter tilknyttet opptak til studieprogram, herunder rett til undervisning, veiledning og prøving i samsvar med studieplan og emnebeskrivelse.
+Enhver fastsetting av karakter eller godkjent/ikke godkjent ved prøving.
+
+(3) *Studieprogram*
+
+En kombinasjon av emner som leder frem til et fastsatt læringsutbytte.
+
+(4) *Studierett*
+
+Rettigheter tilknyttet opptak til studieprogram, herunder rett til undervisning, veiledning og prøving i samsvar med studieplan og emnebeskrivelse.
 
 ### § 1-4. Prøvingsformer
 
@@ -62,11 +70,20 @@ Det er rullerende opptak av nye studenter. Det er opptakskomiteen som vurderer o
 
 Studenter kan få opptak på annet grunnlag ved å vise til realkompetanse som er relevant i forhold til de forkunnskaper som kreves for å gjennomføre fagskoleutdanningen.
 
-Realkompetansevurderingen foretas av rektor og kvalitetssikres av styret ved behov:Utfyllende attester, dokumentasjon og bekreftelse fra utdanning, kurs, yrkespraksis, og frivillig arbeidVitnemål, karakterbevis, kompetansebevis eller tilsvarende godkjent dokumentasjon for utdanningKrav til å kunne realkompetansevurderes er 22 årFagskolen kan stille som vilkår at søker møter til intervju.
+Realkompetansevurderingen foretas av rektor og kvalitetssikres av styret ved behov:
+
+1. Utfyllende attester, dokumentasjon og bekreftelse fra utdanning, kurs, yrkespraksis, og frivillig arbeid
+2. Vitnemål, karakterbevis, kompetansebevis eller tilsvarende godkjent dokumentasjon for utdanning
+3. Krav til å kunne realkompetansevurderes er 22 år
+4. Fagskolen kan stille som vilkår at søker møter til intervju.
 
 ### § 2-3. Regler for prioritering av søkere
 
-Dersom det er flere søkere enn plasser vil studenter som har tilfredsstilt opptakskravene prioriteres i følgende rekkefølge (må dokumenteres av søkeren):Søkere som står på venteliste fra forrige opptakSøkeren har ved søknadstidspunktet en hel- eller deltidsstilling (20 % eller høyere) i bokhandel, forlag eller annen institusjon i bokbransjenSøkeren har kunnskap om detaljhandel for øvrig.
+Dersom det er flere søkere enn plasser vil studenter som har tilfredsstilt opptakskravene prioriteres i følgende rekkefølge (må dokumenteres av søkeren):
+
+1. Søkere som står på venteliste fra forrige opptak
+2. Søkeren har ved søknadstidspunktet en hel- eller deltidsstilling (20 % eller høyere) i bokhandel, forlag eller annen institusjon i bokbransjen
+3. Søkeren har kunnskap om detaljhandel for øvrig.
 
 ### § 2-4. Aksept av plass
 
@@ -106,7 +123,11 @@ Søknad om innpassing og fritak behandles av rektor og fagansvarlig.
 
 (4) En student har rett til å fremstille seg til eksamen maksimalt 3 ganger.
 
-(5) Studieretten opphører:Dersom studenten skriftlig melder at han eller hun ønsker å avslutte studieprogrammet.Dersom studenten unnlater å oppfylle sine plikter etter denne forskriften, og eventuelt ikke har søkt forlengelse av studierett/permisjon fra studiet.Studieretten opphører når studiet er fullført.
+(5) Studieretten opphører:
+
+1. Dersom studenten skriftlig melder at han eller hun ønsker å avslutte studieprogrammet.
+2. Dersom studenten unnlater å oppfylle sine plikter etter denne forskriften, og eventuelt ikke har søkt forlengelse av studierett/permisjon fra studiet.
+3. Studieretten opphører når studiet er fullført.
 
 (6) Studenter må på forespørsel fremvise originale dokumenter som er grunnlag for opptak til studier. Studenter som ikke fremviser de forespurte originale dokumenter for kontroll kan miste studieplassen.
 
@@ -134,7 +155,14 @@ Alle kandidater med ikke bestått, gyldig fravær eller trekk under siste ordin�
 
 (6) Brudd på reglement eller bestemmelser som er gitt av eksamenstilsynet kan, i alvorlige tilfeller, føre til bortvisning fra eksamen. Fusk, eller forsøk på fusk kan innebære at kandidaten ikke får eksamenskarakter.
 
-(7) Som fusk eller forsøk på fusk ved prøving regnes blant annet å:ha eller bruke ulovlige hjelpemidler under prøving.presentere andres arbeid som sitt eget.sitere kilder uten at dette fremgår i oppgaven ved bruk av anførselstegn, kursiv eller annen utheving av den siterte teksten.benytte kilder i skriftlige arbeid uten tilstrekkelige henvisninger.ureglementert samarbeide med eksamenskandidater eller andre.handle i strid med gjeldende regelverk eller retningslinjer for den aktuelle prøvingen.
+(7) Som fusk eller forsøk på fusk ved prøving regnes blant annet å:
+
+- ha eller bruke ulovlige hjelpemidler under prøving.
+- presentere andres arbeid som sitt eget.
+- sitere kilder uten at dette fremgår i oppgaven ved bruk av anførselstegn, kursiv eller annen utheving av den siterte teksten.
+- benytte kilder i skriftlige arbeid uten tilstrekkelige henvisninger.
+- ureglementert samarbeide med eksamenskandidater eller andre.
+- handle i strid med gjeldende regelverk eller retningslinjer for den aktuelle prøvingen.
 
 ### § 5-2. Særskilt tilrettelegging ved prøving
 
@@ -182,9 +210,17 @@ Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen prø
 
 ### § 6-5. Begrunnelse for og klage over karakterfastsetting
 
-(1) *Begrunnelse*Studenten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Ved muntlig prøving eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse, dersom kandidaten får meddelt karakteren elektronisk og kan fremsette krav om begrunnelse på tilsvarende måte, fremsettes innen én uke fra karakteren ble kunngjort. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke fra kandidaten fikk kjennskap til karakteren, likevel ikke mer enn tre uker fra karakteren ble kunngjort.Begrunnelsen skal normalt være gitt innen to uker etter at kandidaten har bedt om dette. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av kandidatens prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg.
+(1) *Begrunnelse*
 
-(2) *Klage, jf. [fagskoleloven § 6](lov/2003-06-20-56/§6)–§ 8*En student kan klage skriftlig over karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort. Ny sensurering skal da foretas. Er krav om begrunnelse for karakterfastsetting eller klage over formelle feil ved prøvingen fremsatt, løper klagefristen etter denne paragraf fra studenten har fått begrunnelsen, eller endelig avgjørelse av klagen foreligger. Dersom endelig karakter fastsettes på bakgrunn av flere prøver/deleksamener/løpende vurdering, kan klage først fremsettes når endelig resultat for emne er kunngjort.Studenter kan klage individuelt på karakteren ved gruppeeksamen. Eventuell endring i karakter etter klagesensur får bare virkning for studenter som har underskrevet skriftlig klage.Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages. Forprøver kan bare påklages når prøven ikke er bestått.Karakteren kan endres både til gunst og til ugunst for klager. Karakterfastsetting ved ny sensurering etter denne paragraf er endelig gjeldende, og kan ikke påklages.
+1. Studenten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Ved muntlig prøving eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse, dersom kandidaten får meddelt karakteren elektronisk og kan fremsette krav om begrunnelse på tilsvarende måte, fremsettes innen én uke fra karakteren ble kunngjort. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke fra kandidaten fikk kjennskap til karakteren, likevel ikke mer enn tre uker fra karakteren ble kunngjort.
+2. Begrunnelsen skal normalt være gitt innen to uker etter at kandidaten har bedt om dette. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av kandidatens prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg.
+
+(2) *Klage, jf. [fagskoleloven § 6](lov/2003-06-20-56/§6)–§ 8*
+
+1. En student kan klage skriftlig over karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort. Ny sensurering skal da foretas. Er krav om begrunnelse for karakterfastsetting eller klage over formelle feil ved prøvingen fremsatt, løper klagefristen etter denne paragraf fra studenten har fått begrunnelsen, eller endelig avgjørelse av klagen foreligger. Dersom endelig karakter fastsettes på bakgrunn av flere prøver/deleksamener/løpende vurdering, kan klage først fremsettes når endelig resultat for emne er kunngjort.
+2. Studenter kan klage individuelt på karakteren ved gruppeeksamen. Eventuell endring i karakter etter klagesensur får bare virkning for studenter som har underskrevet skriftlig klage.
+3. Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages. Forprøver kan bare påklages når prøven ikke er bestått.
+4. Karakteren kan endres både til gunst og til ugunst for klager. Karakterfastsetting ved ny sensurering etter denne paragraf er endelig gjeldende, og kan ikke påklages.
 
 ### § 6-6. Klage over formelle feil ved prøving
 
@@ -202,7 +238,10 @@ Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen prø
 
 ### § 7-1. Annullering av prøving – utestenging
 
-(1) Styret kan annullere prøving hvis studenten:Ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å delta i eller gå opp til prøving.Har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av prøving.
+(1) Styret kan annullere prøving hvis studenten:
+
+1. Ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å delta i eller gå opp til prøving.
+2. Har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av prøving.
 
 (2) Styret kan annullere godskriving eller godkjenning av utdanning, eller fritak for prøving, hvis studenten har oppnådd dette ved hjelp av falskt vitnemål eller annen form for uredelig opptreden.
 

@@ -15,7 +15,7 @@ xml_hash: "331f774a7362907b3d5368f68cd5da0b07cac4f0895f2d0d95a3aeb81816fdf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ EØS-avtalen vedlegg XIII nr. 42ej (forordning [(EU) nr. 402/2013](eu/32013r0402
 
 ## § 2. Krav til akkreditering eller godkjenning
 
-Assesserende enhet (vurderingsorgan) nevnt i forordning [(EU) nr. 402/2013](eu/32013r0402) artikkel 6, jf. artikkel 7, skal:være akkreditert av Norsk akkreditering eller annet akkrediteringsorgan som er signatar til den multilaterale avtalen til samarbeidsorganet for alle akkrediteringsorgan i Europa (EAs MLA), ellervære godkjent av Statens jernbanetilsyn. Statens jernbanetilsyn godkjenner en slik assesserende enhet hos et jernbaneforetak eller infrastrukturforvalter iht. artikkel 9. pkt. 1b ved å vurdere og føre tilsyn med sikkerhetsstyringssystemet, jf. artikkel 10 pkt. 2.
+Assesserende enhet (vurderingsorgan) nevnt i forordning [(EU) nr. 402/2013](eu/32013r0402) artikkel 6, jf. artikkel 7, skal:
+
+1. være akkreditert av Norsk akkreditering eller annet akkrediteringsorgan som er signatar til den multilaterale avtalen til samarbeidsorganet for alle akkrediteringsorgan i Europa (EAs MLA), eller
+2. være godkjent av Statens jernbanetilsyn. Statens jernbanetilsyn godkjenner en slik assesserende enhet hos et jernbaneforetak eller infrastrukturforvalter iht. artikkel 9. pkt. 1b ved å vurdere og føre tilsyn med sikkerhetsstyringssystemet, jf. artikkel 10 pkt. 2.
 
 ## § 3. Ikrafttredelse
 

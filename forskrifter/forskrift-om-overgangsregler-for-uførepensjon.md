@@ -30,13 +30,22 @@ Forskriften gjelder beregning av midlertidig uførepensjon og uførepensjon når
 
 ### § 2. Definisjoner
 
-I forskriften her forstås«tjenestepensjonslovene» som [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse, [lov 26. juni 1953 nr. 11](lov/1953-06-26-11) om pensjonsordning for apotekvirksomhet mv., [lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere og [lov 16. desember 2011 nr. 60](lov/2011-12-16-60) om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer,«ny uførepensjon» som midlertidig uførepensjon og uførpensjonen etter tjenestepensjonslovene slik de lyder fra 1. januar 2015,«gammel uførepensjon» som uførepensjon og attføringspensjon etter tjenestepensjonslovene før 1. januar 2015,«ytelser fra folketrygden» som uførepensjon (før 1. januar 2015), uføretrygd (fra og med 1. januar 2015), arbeidsavklaringspenger, pensjon til gjenlevende ektefelle eller omstillingsstønad etter [folketrygdloven](lov/1997-02-28-19) og«fiktivt pensjonsgrunnlag» som et pensjonsgrunnlag som benyttes ved overgangen til ny uførepensjon.
+I forskriften her forstås
+
+1. «tjenestepensjonslovene» som [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse, [lov 26. juni 1953 nr. 11](lov/1953-06-26-11) om pensjonsordning for apotekvirksomhet mv., [lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere og [lov 16. desember 2011 nr. 60](lov/2011-12-16-60) om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer,
+2. «ny uførepensjon» som midlertidig uførepensjon og uførpensjonen etter tjenestepensjonslovene slik de lyder fra 1. januar 2015,
+3. «gammel uførepensjon» som uførepensjon og attføringspensjon etter tjenestepensjonslovene før 1. januar 2015,
+4. «ytelser fra folketrygden» som uførepensjon (før 1. januar 2015), uføretrygd (fra og med 1. januar 2015), arbeidsavklaringspenger, pensjon til gjenlevende ektefelle eller omstillingsstønad etter [folketrygdloven](lov/1997-02-28-19) og
+5. «fiktivt pensjonsgrunnlag» som et pensjonsgrunnlag som benyttes ved overgangen til ny uførepensjon.
 
 > Endret ved forskrifter [18 des 2014 nr. 1779](forskrift/2014-12-18-1779), [21 des 2023 nr. 2277](forskrift/2023-12-21-2277) (i kraft 1 jan 2024).
 
 ### § 3. Videreføring av retten til uførepensjon
 
-Uførepensjon som omfattes av forskriften her videreføres som ny uførepensjon. Dette gjelder også nårdet er innvilget gammel uførepensjon etter lavere uføregrad enn 20 prosent ogdet er innvilget gammel uførepensjon etter uføregrad på 50 prosent eller høyere uten at det er innvilget ytelser fra folketrygden.
+Uførepensjon som omfattes av forskriften her videreføres som ny uførepensjon. Dette gjelder også når
+
+1. det er innvilget gammel uførepensjon etter lavere uføregrad enn 20 prosent og
+2. det er innvilget gammel uførepensjon etter uføregrad på 50 prosent eller høyere uten at det er innvilget ytelser fra folketrygden.
 
 Retten til uførepensjon etter første ledd bokstav a) og b) videreføres selv om pensjonen ellers skal beregnes etter tjenestepensjonslovene i henhold til § 4 fjerde ledd.
 
@@ -50,7 +59,10 @@ Bestemmelsene i tjenestepensjonslovene om at pensjonen ikke utbetales når innte
 
 Dersom det er innvilget gradert gammel uførepensjon og personens inntekts- eller arbeidsevne reduseres ytterligere, skal uførepensjonen beregnes på grunnlag av det fiktive pensjonsgrunnlaget, tjenestetiden og den nye uføregraden. Det samme gjelder når det før 1. januar 2015 var innvilget gammel uførepensjon og uførepensjon fra folketrygden, og når det senere innvilges arbeidsavklaringspenger etter [folketrygdloven § 11-18](lov/1997-02-28-19/§11-18), og når slike arbeidsavklaringspenger avløses av uføretrygd. Dette gjelder også i de tilfellene arbeidsavklaringspenger som nevnt ble innvilget før 1. januar 2015, og en slik beregning er til gunst for den enkelte.
 
-Dersom det er innvilget hel eller gradert gammel uførepensjon, skal uførepensjonen fullt ut beregnes etter tjenestepensjonslovene (se første ledd) blant annet i tilfeller nårdet ikke var innvilget ytelse fra folketrygden eller tidsbegrenset avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år, og det senere blir innvilget slike ytelser eller livsvarig avtalefestet pensjon fra offentlig tjenestepensjonsordning ellerdet var innvilget ytelse fra folketrygden eller tidsbegrenset avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år, og en av ytelsene senere erstattes helt eller delvis av en annen ytelse som nevnt eller faller bort, eller det kommer til en ytelse fra folketrygden eller livsvarig avtalefestet pensjon fra offentlig tjenestepensjonsordning i tillegg.
+Dersom det er innvilget hel eller gradert gammel uførepensjon, skal uførepensjonen fullt ut beregnes etter tjenestepensjonslovene (se første ledd) blant annet i tilfeller når
+
+1. det ikke var innvilget ytelse fra folketrygden eller tidsbegrenset avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år, og det senere blir innvilget slike ytelser eller livsvarig avtalefestet pensjon fra offentlig tjenestepensjonsordning eller
+2. det var innvilget ytelse fra folketrygden eller tidsbegrenset avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år, og en av ytelsene senere erstattes helt eller delvis av en annen ytelse som nevnt eller faller bort, eller det kommer til en ytelse fra folketrygden eller livsvarig avtalefestet pensjon fra offentlig tjenestepensjonsordning i tillegg.
 
 Når uførepensjonen beregnes etter bestemmelsene i fjerde ledd, skal det faktiske pensjonsgrunnlaget legges til grunn. Overgangsreglene gitt i forskriften her kommer da ikke til anvendelse.
 
@@ -58,7 +70,10 @@ Når uførepensjonen beregnes etter bestemmelsene i fjerde ledd, skal det faktis
 
 ### § 4a. Tillegg til ny uførepensjon
 
-Det gis et tillegg etter bestemmelsen her til ny uførepensjon til personer som før 2015 har fått innvilget gammel uførepensjon fra tjenestepensjonsordningen, uten at det samtidig var innvilget motsvarende ytelse i folketrygden, og som 1. januar 2015 eller senerefår arbeidsavklaringspenger eller uføretrygd fra folketrygden ellerfår uføretrygd som avløser arbeidsavklaringspenger innvilget før 1. januar 2015.
+Det gis et tillegg etter bestemmelsen her til ny uførepensjon til personer som før 2015 har fått innvilget gammel uførepensjon fra tjenestepensjonsordningen, uten at det samtidig var innvilget motsvarende ytelse i folketrygden, og som 1. januar 2015 eller senere
+
+1. får arbeidsavklaringspenger eller uføretrygd fra folketrygden eller
+2. får uføretrygd som avløser arbeidsavklaringspenger innvilget før 1. januar 2015.
 
 Fullt tillegg skal fastsettes til et beløp svarende til differansen mellom 66 prosent av det oppregulerte pensjonsgrunnlaget som gammel uførepensjon var beregnet etter, og summen av arbeidsavklaringspenger, uføretrygd og ny uførepensjon. Barnetillegg og gjenlevendetillegg medregnes ikke. Ved beregningen skal det legges til grunn ugraderte ytelser og full tjenestetid.
 
@@ -80,9 +95,16 @@ Pensjonen skal utmåles etter reglene i tjenestepensjonslovene slik de lyder fra
 
 Det fiktive pensjonsgrunnlaget fastsettes slik at ny uførepensjon per 1. januar 2015 utgjør det samme beløpet som gammel uførepensjon etter samordning med ytelser fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år umiddelbart før denne datoen.
 
-Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det årsbeløpet gammel uførepensjon utgjør etter samordning med ytelser fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år. Eventuelle barnetillegg regnes ikke med. Beløpet justeres når uførepensjonen er beregnet for mindre enn full tjenestetid og lavere uføregrad enn 100 prosent. Justeringen skjer ved atbeløpet divideres med tjenestetiden og multipliseres med full tjenestetid for vedkommende, ogbeløpet divideres med uføregraden og multipliseres med 100.
+Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det årsbeløpet gammel uførepensjon utgjør etter samordning med ytelser fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år. Eventuelle barnetillegg regnes ikke med. Beløpet justeres når uførepensjonen er beregnet for mindre enn full tjenestetid og lavere uføregrad enn 100 prosent. Justeringen skjer ved at
 
-Beløpet som går fram av andre ledd, omregnes til et fiktivt pensjonsgrunnlag på følgende måte:Beløp mindre enn 33 139 kroner divideres med 0,09.Beløp på 33 139 kroner eller mer, men ikke større enn 37 998 kroner, fratrekkes 22 093 kroner. Differansen divideres med 0,03.Beløp på 37 999 eller mer tillegges 327 853 kroner. Summen divideres på 0,69.
+1. beløpet divideres med tjenestetiden og multipliseres med full tjenestetid for vedkommende, og
+2. beløpet divideres med uføregraden og multipliseres med 100.
+
+Beløpet som går fram av andre ledd, omregnes til et fiktivt pensjonsgrunnlag på følgende måte:
+
+1. Beløp mindre enn 33 139 kroner divideres med 0,09.
+2. Beløp på 33 139 kroner eller mer, men ikke større enn 37 998 kroner, fratrekkes 22 093 kroner. Differansen divideres med 0,03.
+3. Beløp på 37 999 eller mer tillegges 327 853 kroner. Summen divideres på 0,69.
 
 > Endret ved [forskrift 18 des 2014 nr. 1779](forskrift/2014-12-18-1779).
 
@@ -98,7 +120,10 @@ Pensjonen skal utmåles etter reglene i tjenestepensjonslovene slik de lyder fra
 
 Det fiktive pensjonsgrunnlaget fastsettes slik at ny uførepensjon per 1. januar 2015 utgjør det samme beløpet som gammel uførepensjon umiddelbart før denne datoen.
 
-Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det faktiske pensjonsgrunnlaget, som omregnes til et fiktivt pensjonsgrunnlag på følgende måte:Beløp mindre enn 418 419 kroner multipliseres med 0,88.Beløp større enn 418 418 kroner multipliseres med 0,95652 og deretter fratrekkes 32 018 kroner.
+Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det faktiske pensjonsgrunnlaget, som omregnes til et fiktivt pensjonsgrunnlag på følgende måte:
+
+1. Beløp mindre enn 418 419 kroner multipliseres med 0,88.
+2. Beløp større enn 418 418 kroner multipliseres med 0,95652 og deretter fratrekkes 32 018 kroner.
 
 ## Kapittel 4. Overgang til ny uførepensjon når pensjonisten har gammel uførepensjon etter tjenestepensjonslovene med en uføregrad på 2/3 eller mer uten rett til å motta ytelse fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år
 
@@ -112,7 +137,19 @@ Pensjonen skal utmåles etter reglene i tjenestepensjonslovene slik de lyder fra
 
 Det fiktive pensjonsgrunnlaget fastsettes slik at ny uførepensjon per 1. januar 2015 gir en inntekt etter skatt tilsvarende den gamle uførepensjonen umiddelbart før denne datoen ved 100 prosent uføregrad, full tjenestetid, ingen andre inntekter og ingen fradrag utover standard fradrag.
 
-Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det faktiske pensjonsgrunnlaget, korrigert for forholdet mellom grunnbeløpet per 1. mai 2014 og gjennomsnittlig grunnbeløp 2014. Beløpet omregnes til et fiktivt pensjonsgrunnlag på følgende måte:Beløp mindre enn 60 000 kroner multipliseres med 0,89050.Beløp på 60 000 kroner eller høyere, men mindre enn 99 038 kroner, multipliseres med 1,18733 og deretter fratrekkes 17 810 kroner.Beløp på 99 038 kroner eller høyere, men mindre enn 119 081 kroner, multipliseres med 0,97004.Beløp på 119 081 kroner eller høyere, men mindre enn 246 528 kroner, multipliseres med 1,16542 og deretter fratrekkes 23 266 kroner.Beløp på 246 528 kroner eller høyere, men mindre enn 272 727 kroner, multipliseres med 1,37422 og deretter fratrekkes 74 742 kroner.Beløp på 272 727 kroner eller høyere, men mindre enn 355 600 kroner, multipliseres med 0,82247 og deretter tillegges 75 735 kroner.Beløp på 355 600 kroner eller høyere, men mindre enn 395 062 kroner, multipliseres med 0,89399 og deretter tillegges 50 303 kroner.Beløp på 395 062 kroner eller høyere, men mindre enn 464 245 kroner, multipliseres med 0,67217 og deretter tillegges 137 935 kroner.Beløp på 464 245 kroner eller høyere, men mindre enn 751 613 kroner, multipliseres med 1,01424 og deretter fratrekkes 20 866 kroner.Beløp på 751 613 kroner eller høyere, men mindre enn 799 091 kroner, multipliseres med 1,17782 og deretter fratrekkes 143 820 kroner.Beløp på 799 091 kroner eller høyere, multipliseres med 1,02171 og deretter fratrekkes 19 067 kroner.
+Det fiktive pensjonsgrunnlaget fastsettes ved at det tas utgangspunkt i det faktiske pensjonsgrunnlaget, korrigert for forholdet mellom grunnbeløpet per 1. mai 2014 og gjennomsnittlig grunnbeløp 2014. Beløpet omregnes til et fiktivt pensjonsgrunnlag på følgende måte:
+
+1. Beløp mindre enn 60 000 kroner multipliseres med 0,89050.
+2. Beløp på 60 000 kroner eller høyere, men mindre enn 99 038 kroner, multipliseres med 1,18733 og deretter fratrekkes 17 810 kroner.
+3. Beløp på 99 038 kroner eller høyere, men mindre enn 119 081 kroner, multipliseres med 0,97004.
+4. Beløp på 119 081 kroner eller høyere, men mindre enn 246 528 kroner, multipliseres med 1,16542 og deretter fratrekkes 23 266 kroner.
+5. Beløp på 246 528 kroner eller høyere, men mindre enn 272 727 kroner, multipliseres med 1,37422 og deretter fratrekkes 74 742 kroner.
+6. Beløp på 272 727 kroner eller høyere, men mindre enn 355 600 kroner, multipliseres med 0,82247 og deretter tillegges 75 735 kroner.
+7. Beløp på 355 600 kroner eller høyere, men mindre enn 395 062 kroner, multipliseres med 0,89399 og deretter tillegges 50 303 kroner.
+8. Beløp på 395 062 kroner eller høyere, men mindre enn 464 245 kroner, multipliseres med 0,67217 og deretter tillegges 137 935 kroner.
+9. Beløp på 464 245 kroner eller høyere, men mindre enn 751 613 kroner, multipliseres med 1,01424 og deretter fratrekkes 20 866 kroner.
+10. Beløp på 751 613 kroner eller høyere, men mindre enn 799 091 kroner, multipliseres med 1,17782 og deretter fratrekkes 143 820 kroner.
+11. Beløp på 799 091 kroner eller høyere, multipliseres med 1,02171 og deretter fratrekkes 19 067 kroner.
 
 ## Kapittel 5. Overgangsregler for barnetillegg
 
@@ -134,7 +171,10 @@ Barnetillegg fastsettes til referansebeløpet. Dersom uførepensjonen er beregne
 
 Bestemmelsen i paragrafen her gjelder begrensning av barnetillegg som er innvilget etter 31. desember 2014 når det også foreligger rett til barnetillegg som er innvilget før 1. januar 2015.
 
-Det tas utgangspunkt i følgende beløpbarnetillegg for samtlige barn beregnet etter tjenestepensjonslovene på grunnlag av full tjenestetid og hel uførhet ogreferansebeløpet etter [§ 12](forskrift/2014-07-03-949/§12).
+Det tas utgangspunkt i følgende beløp
+
+1. barnetillegg for samtlige barn beregnet etter tjenestepensjonslovene på grunnlag av full tjenestetid og hel uførhet og
+2. referansebeløpet etter [§ 12](forskrift/2014-07-03-949/§12).
 
 Barnetillegg innvilget etter 31. desember 2014 utbetales med differansen mellom beløpene i bokstav a og bokstav b. Dersom uførepensjonen er beregnet for mindre enn full tjenestetid og lavere uføregrad enn 100 prosent, reduseres beløpet forholdsmessig. Det utbetales ikke barnetillegg dersom beløpet i bokstav b er størst.
 

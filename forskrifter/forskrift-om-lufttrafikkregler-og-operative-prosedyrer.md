@@ -15,7 +15,7 @@ xml_hash: "7c6edb508df52c9d83db458685921a91883c30478e13797b2a4a06462d8378a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,14 @@ Luftfartstilsynet kan foreta endringer i forskriften med unntak av [§ 3](forskr
 
 ### § 5. Definisjoner
 
-I tillegg til definisjonene opplistet i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923) artikkel 2, gjelder følgende definisjoner:*AFIS-enhet:* en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til luftfartøy før avgang, på manøvreringsområdet på en ikke-kontrollert flyplass, samt til luftfartøy innenfor en trafikkinformasjonssone (TIZ) og trafikkinformasjonsområde (TIA).*HFIS-enhet:* en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til helikoptre ved landing og avgang fra et helikopterdekk og til luftfartøy innenfor en trafikksone for helikopter (HTZ).*trafikksone for helikopter (HTZ):* et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra havets overflate til en angitt høyde over middelvannstand og som etableres rundt en innretning med landingsplattform på kontinentalsokkelen.*trafikkinformasjonsområde (TIA):* et ikke-kontrollert luftrom av bestemte dimensjoner som strekker seg oppover fra en angitt høyde over havflaten til et angitt flygenivå eller en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.*trafikkinformasjonssone (TIZ):* et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra jordoverflaten til en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.*høyt terreng (high terrain):* terreng høyere enn 6 000 FT AMSL.
+I tillegg til definisjonene opplistet i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923) artikkel 2, gjelder følgende definisjoner:
+
+1. *AFIS-enhet:* en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til luftfartøy før avgang, på manøvreringsområdet på en ikke-kontrollert flyplass, samt til luftfartøy innenfor en trafikkinformasjonssone (TIZ) og trafikkinformasjonsområde (TIA).
+2. *HFIS-enhet:* en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til helikoptre ved landing og avgang fra et helikopterdekk og til luftfartøy innenfor en trafikksone for helikopter (HTZ).
+3. *trafikksone for helikopter (HTZ):* et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra havets overflate til en angitt høyde over middelvannstand og som etableres rundt en innretning med landingsplattform på kontinentalsokkelen.
+4. *trafikkinformasjonsområde (TIA):* et ikke-kontrollert luftrom av bestemte dimensjoner som strekker seg oppover fra en angitt høyde over havflaten til et angitt flygenivå eller en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.
+5. *trafikkinformasjonssone (TIZ):* et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra jordoverflaten til en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.
+6. *høyt terreng (high terrain):* terreng høyere enn 6 000 FT AMSL.
 
 > Endret ved [forskrift 19 des 2016 nr. 1710](forskrift/2016-12-19-1710).
 
@@ -58,9 +65,19 @@ I tillegg til definisjonene opplistet i kommisjonens gjennomføringsforordning [
 
 ### § 6. Til SERA.3115
 
-Gjenstander, væske eller pulver skal ikke kastes, slippes eller sprøytes fra luftfartøy under flyging dersom de er egnet til å forårsake skade eller ulempe for:den øvrige luftfart,personer på bakken,bygninger eller andre installasjoner på bakken ellerkulturlandskapet på bakken.
+Gjenstander, væske eller pulver skal ikke kastes, slippes eller sprøytes fra luftfartøy under flyging dersom de er egnet til å forårsake skade eller ulempe for:
 
-Forbudet i første ledd gjelder ikke:nedkasting av proviant og utstyr til nødstedte,nedkasting av ballast i form av vann eller fin sand,sprøyting eller slipp av vann eller andre slokkingsmidler til bekjempelse av branner ellerslipp av brennstoff av sikkerhetsgrunner.
+1. den øvrige luftfart,
+2. personer på bakken,
+3. bygninger eller andre installasjoner på bakken eller
+4. kulturlandskapet på bakken.
+
+Forbudet i første ledd gjelder ikke:
+
+1. nedkasting av proviant og utstyr til nødstedte,
+2. nedkasting av ballast i form av vann eller fin sand,
+3. sprøyting eller slipp av vann eller andre slokkingsmidler til bekjempelse av branner eller
+4. slipp av brennstoff av sikkerhetsgrunner.
 
 ### § 7. Til SERA.3130
 
@@ -94,7 +111,12 @@ En reiseplan skal bestå av alle elementene beskrevet i SERA.4005(a).
 
 ### § 12. Til SERA.4010
 
-Når det er levert reiseplan og avgangen foretas fra en avgangsplass hvor det ikke ytes flygekontrolltjeneste (ATC) eller flygeinformasjonstjeneste på flyplassen (AFIS), skal fartøysjefen aktivere reiseplanen ved at avgangsmelding gis på radio til den enheten for lufttrafikktjenester som er ansvarlig i området eller, dersom dette ikke er mulig, til en annen enhet for lufttrafikktjenester. Avgangsmeldingen skal omfatte:luftfartøyets kallesignal,avgangsplass,avgangstid ogdestinasjonsplass.
+Når det er levert reiseplan og avgangen foretas fra en avgangsplass hvor det ikke ytes flygekontrolltjeneste (ATC) eller flygeinformasjonstjeneste på flyplassen (AFIS), skal fartøysjefen aktivere reiseplanen ved at avgangsmelding gis på radio til den enheten for lufttrafikktjenester som er ansvarlig i området eller, dersom dette ikke er mulig, til en annen enhet for lufttrafikktjenester. Avgangsmeldingen skal omfatte:
+
+1. luftfartøyets kallesignal,
+2. avgangsplass,
+3. avgangstid og
+4. destinasjonsplass.
 
 Avgangsmeldingen til lufttrafikktjenesten kan gis pr. telefon av fartøysjefen før avgang eller av en person på bakken etter nærmere avtale med fartøysjefen.
 
@@ -118,7 +140,11 @@ Ansvarlig flygekontrollenhet kan tillate enkeltflyginger over FL 195 opp til og 
 
 ### § 16. Til SERA.5005(f)
 
-I tillegg gjelder:Minstehøyden kan fravikes når flygingen utføres ervervsmessig, utenfor tettbebyggelse eller folkeansamling i friluft, og skjer i samsvar med forordning (EU) nr. 965/2012, vedlegg VIII (Part SPO) som gjennomført ved [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner](forskrift/2013-08-07-956).Minstehøyden kan fravikes når det er påkrevd for innflyging for treningsformål såfremt innflygingen ikke foretas over tettbebyggelse eller folkeansamling i friluft.Seilfly som utfører hangflyging kan fly ned til en minstehøyde av 50 m over bakken eller vannet.
+I tillegg gjelder:
+
+1. Minstehøyden kan fravikes når flygingen utføres ervervsmessig, utenfor tettbebyggelse eller folkeansamling i friluft, og skjer i samsvar med forordning (EU) nr. 965/2012, vedlegg VIII (Part SPO) som gjennomført ved [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner](forskrift/2013-08-07-956).
+2. Minstehøyden kan fravikes når det er påkrevd for innflyging for treningsformål såfremt innflygingen ikke foretas over tettbebyggelse eller folkeansamling i friluft.
+3. Seilfly som utfører hangflyging kan fly ned til en minstehøyde av 50 m over bakken eller vannet.
 
 > Endret ved forskrift [11 april 2024 nr. 611](forskrift/2024-04-11-611).
 
@@ -158,9 +184,26 @@ Fartøysjef er fritatt for kravet om å sende posisjonsmeldinger når luftfartø
 
 Hvis det inntreffer kommunikasjonssvikt som medfører at luftfartøy ikke kan følge bestemmelsene i SERA.8035(a), skal det gås frem etter bestemmelsene om svikt i kommunikasjonen fastsatt i ICAO Annex 10, Vol. II, 6th edition, 10/2001, og i samsvar med de av reglene i andre og tredje ledd som kommer til anvendelse. Luftfartøyet skal forsøke å etablere kommunikasjon med lufttrafikktjenesten ved hjelp av alle tilgjengelig midler. Luftfartøy som utgjør lokaltrafikk ved kontrollert eller AFIS-betjent flyplass, skal dessuten holde utkikk etter anvisninger gitt ved optiske signaler.
 
-Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i VFR-forhold, skalSSR-transponderen settes til kode 7600,flygingen fortsette i VFR-forhold dersom ikke forholdene tilsier at flygingen skal gjennomføres som en IFR-flyging i tråd med bestemmelsen i tredje ledd,luftfartøyet lande på den flyplass som egner seg best ogankomstmelding leveres vedkommende flygekontrollenhet på hurtigst mulig måte.
+Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i VFR-forhold, skal
 
-Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i IFR-forhold eller hvis værforholdene er slik at det ikke er sannsynlig at flygingen kan gjennomføres i VFR-forhold, skalSSR-transponderen settes til kode 7600, ogluftfartøyet fortsette i den sist tildelte hastighet og høyde eller angitt minstehøyde hvis denne er høyere i en periode av 7 minutter, såfremt ikke annet er beskrevet på bakgrunn av regionale overenskomster. I de tilfeller luftfartøyet opererer på en rute uten obligatoriske rapporteringspunkt eller har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste avdet tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde, ellerdet tidspunktet transponderen settes til kode 7600.I de tilfeller luftfartøyet opererer på en rute med obligatoriske rapporteringspunkt og ikke har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste avdet tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde,det tidspunkt flygeren har rapportert at han beregner å passere det obligatoriske rapporteringspunkt, ellerdet tidspunktet flygeren unnlater å rapportere over et obligatorisk meldepunkt.
+1. SSR-transponderen settes til kode 7600,
+2. flygingen fortsette i VFR-forhold dersom ikke forholdene tilsier at flygingen skal gjennomføres som en IFR-flyging i tråd med bestemmelsen i tredje ledd,
+3. luftfartøyet lande på den flyplass som egner seg best og
+4. ankomstmelding leveres vedkommende flygekontrollenhet på hurtigst mulig måte.
+
+Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i IFR-forhold eller hvis værforholdene er slik at det ikke er sannsynlig at flygingen kan gjennomføres i VFR-forhold, skal
+
+1. SSR-transponderen settes til kode 7600, og
+2. luftfartøyet fortsette i den sist tildelte hastighet og høyde eller angitt minstehøyde hvis denne er høyere i en periode av 7 minutter, såfremt ikke annet er beskrevet på bakgrunn av regionale overenskomster. I de tilfeller luftfartøyet opererer på en rute uten obligatoriske rapporteringspunkt eller har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste av
+
+   1. det tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde, eller
+   2. det tidspunktet transponderen settes til kode 7600.
+
+   I de tilfeller luftfartøyet opererer på en rute med obligatoriske rapporteringspunkt og ikke har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste av
+
+   1. det tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde,
+   2. det tidspunkt flygeren har rapportert at han beregner å passere det obligatoriske rapporteringspunkt, eller
+   3. det tidspunktet flygeren unnlater å rapportere over et obligatorisk meldepunkt.
 
 Etter at flygingen er etablert i tråd med bestemmelsene i første til tredje ledd skal hastighet og høyde tilpasses i samsvar med den innleverte reiseplan.
 
@@ -170,7 +213,10 @@ Flygingen skal fortsette i samsvar med gjeldende reiseplanrute til det navigasjo
 
 Nedstigningen skal begynne over det navigasjonshjelpemiddel som er spesifisert i sjette ledd så nøyaktig som mulig på den antatte innflygingstid som sist er mottatt og kvittert for, eller hvis det ikke er mottatt og kvittert for en antatt innflygingstid, så nøyaktig som mulig på den beregnede ankomsttid som fremkommer i henhold til gjeldende reiseplan.
 
-En normal instrumentinnflyging, som foreskrevet for angjeldende navigasjonshjelpemiddel, skal fullføres, og landing foretas, så vidt mulig i løpet av 30 minutter etter den seneste avberegnet ankomsttid spesifisert i syvende ledd ellersiste antatte innflygingstid som luftfartøyet har kvittert for.
+En normal instrumentinnflyging, som foreskrevet for angjeldende navigasjonshjelpemiddel, skal fullføres, og landing foretas, så vidt mulig i løpet av 30 minutter etter den seneste av
+
+1. beregnet ankomsttid spesifisert i syvende ledd eller
+2. siste antatte innflygingstid som luftfartøyet har kvittert for.
 
 ### § 22a. Fritak fra ansvar for å yte lufttrafikktjeneste
 
@@ -198,7 +244,11 @@ Flygekontrolltjenesten har ikke plikt til å atskille VFR-flyginger fra aktive r
 
 ### § 22d. Klarering med tillatelse til egenseparasjon
 
-Etter forespørsel fra piloten på et luftfartøy, og med samtykke fra piloten på det andre luftfartøyet, kan flygekontrolltjenesten gi klarering med forbehold om å opprettholde egen adskillelse for en bestemt del av flygingen under 3 050 m (10 000 fot), under stigning eller nedstigning. Slik klarering kan bare gis i luftromsklasse D om dagen under visuelle meteorologiske forhold, ogmellom IFR-flygingermellom IFR- og VFR-flygingermellom spesielle VFR-flyginger.
+Etter forespørsel fra piloten på et luftfartøy, og med samtykke fra piloten på det andre luftfartøyet, kan flygekontrolltjenesten gi klarering med forbehold om å opprettholde egen adskillelse for en bestemt del av flygingen under 3 050 m (10 000 fot), under stigning eller nedstigning. Slik klarering kan bare gis i luftromsklasse D om dagen under visuelle meteorologiske forhold, og
+
+1. mellom IFR-flyginger
+2. mellom IFR- og VFR-flyginger
+3. mellom spesielle VFR-flyginger.
 
 > Tilføyd ved forskrift [26 okt 2022 nr. 1812](forskrift/2022-10-26-1812) (i kraft 1 nov 2022).
 
@@ -236,9 +286,57 @@ Flygeren skal i kommunikasjonen med en enhet for flygeinformasjonstjeneste allti
 
 I tillegg til fraseologi som kan benyttes av lufttrafikktjenesten i samsvar med avsnitt 14 i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923), som gjennomført i forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer, kan lufttrafikktjenesten benytte fraseologi i samsvar med andre og tredje ledd.
 
-Følgende fraseologi kan benyttes i kommunikasjon mellom flygekontrolltjenesten og flygeren (flygerens fraseologi markert med \*)for rapportering av skydekke:NO SIGNIFICANT CLOUDSfor rapportering av meteorologiske forhold:WIND SHEAR FORECASTWIND SHEAR FORECAST AND REPORTEDWIND SHEAR REPORTEDfor avslutning av reiseplan:\*CLOSING FLIGHT PLAN AT (tid)FLIGHT PLAN CLOSED AT (tid)for anmodning om og angivelse av peilinger:\*REQUEST QTE (eller TRUE BEARING)TRANSMIT FOR QTE (eller TRUE BEARING)QTE (eller TRUE BEARING) (FROM) (sted) IS (antall grader)\*REQUEST QDR (eller MAGNETIC BEARING)TRANSMIT FOR QDR (eller MAGNETIC BEARING)QDR (eller MAGNETIC BEARING) (FROM) (sted) IS (antall grader)\*REQUEST QUJ (eller TRUE HEADING)TRANSMIT FOR QUJ (eller TRUE HEADING)QUJ (eller TRUE HEADING) (TO) (sted) IS (antall grader)\*REQUEST QDM (eller MAGNETIC HEADING)TRANSMIT FOR QDM (eller MAGNETIC HEADING)QDM (eller MAGNETIC HEADING) (TO) (sted) IS (antall grader)for å henlede oppmerksomheten på like kallesignaler på frekvensen:CAUTION SIMILAR CALLSIGNS ON THE FREQUENCYfor å informere om rotorvind fra et helikopter:CAUTION ROTORWASHfor nattflyging i kontrollert luftrom i samsvar med visuelle flygeregler:\*REQUEST VFR NIGHT (rute, område, høyde etc.)CLEARED VFR NIGHT (restriksjoner etc.)for spesiell VFR-flyging:\*REQUEST SPECIAL VFR (detaljer om rute etc.)CLEARED SPECIAL VFR (restriksjoner etc.).
+Følgende fraseologi kan benyttes i kommunikasjon mellom flygekontrolltjenesten og flygeren (flygerens fraseologi markert med \*)
 
-Fraseologien i andre ledd, bokstavene a til f, kan så langt det passer også benyttes mellom flygeinformasjonstjenesten og flygeren. I tillegg kan flygeinformasjonstjenesten benytte følgende fraseologifor å gi råd om unnvikelsesmanøver:ADVICE YOU TO TURN LEFT (or RIGHT) IMMEDIATELY TO AVOID (UNIDENTIFIED) TRAFFIC AT (bearing by clock-reference and distance)for å overføre trafikk fra en flygeinformasjonsenhet til en flygekontrollenhet når flygeren har fått klarering i forbindelse med flygingen:CONTACT (control unit callsign) (frequency).
+1. for rapportering av skydekke:
+
+   - NO SIGNIFICANT CLOUDS
+2. for rapportering av meteorologiske forhold:
+
+   - WIND SHEAR FORECAST
+   - WIND SHEAR FORECAST AND REPORTED
+   - WIND SHEAR REPORTED
+3. for avslutning av reiseplan:
+
+   - \*CLOSING FLIGHT PLAN AT (tid)
+   - FLIGHT PLAN CLOSED AT (tid)
+4. for anmodning om og angivelse av peilinger:
+
+   - \*REQUEST QTE (eller TRUE BEARING)
+   - TRANSMIT FOR QTE (eller TRUE BEARING)
+   - QTE (eller TRUE BEARING) (FROM) (sted) IS (antall grader)
+   - \*REQUEST QDR (eller MAGNETIC BEARING)
+   - TRANSMIT FOR QDR (eller MAGNETIC BEARING)
+   - QDR (eller MAGNETIC BEARING) (FROM) (sted) IS (antall grader)
+   - \*REQUEST QUJ (eller TRUE HEADING)
+   - TRANSMIT FOR QUJ (eller TRUE HEADING)
+   - QUJ (eller TRUE HEADING) (TO) (sted) IS (antall grader)
+   - \*REQUEST QDM (eller MAGNETIC HEADING)
+   - TRANSMIT FOR QDM (eller MAGNETIC HEADING)
+   - QDM (eller MAGNETIC HEADING) (TO) (sted) IS (antall grader)
+5. for å henlede oppmerksomheten på like kallesignaler på frekvensen:
+
+   - CAUTION SIMILAR CALLSIGNS ON THE FREQUENCY
+6. for å informere om rotorvind fra et helikopter:
+
+   - CAUTION ROTORWASH
+7. for nattflyging i kontrollert luftrom i samsvar med visuelle flygeregler:
+
+   - \*REQUEST VFR NIGHT (rute, område, høyde etc.)
+   - CLEARED VFR NIGHT (restriksjoner etc.)
+8. for spesiell VFR-flyging:
+
+   - \*REQUEST SPECIAL VFR (detaljer om rute etc.)
+   - CLEARED SPECIAL VFR (restriksjoner etc.).
+
+Fraseologien i andre ledd, bokstavene a til f, kan så langt det passer også benyttes mellom flygeinformasjonstjenesten og flygeren. I tillegg kan flygeinformasjonstjenesten benytte følgende fraseologi
+
+1. for å gi råd om unnvikelsesmanøver:
+
+   - ADVICE YOU TO TURN LEFT (or RIGHT) IMMEDIATELY TO AVOID (UNIDENTIFIED) TRAFFIC AT (bearing by clock-reference and distance)
+2. for å overføre trafikk fra en flygeinformasjonsenhet til en flygekontrollenhet når flygeren har fått klarering i forbindelse med flygingen:
+
+   - CONTACT (control unit callsign) (frequency).
 
 > Tilføyd ved forskrift [26 okt 2022 nr. 1812](forskrift/2022-10-26-1812) (i kraft 1 nov 2022), endret ved forskrift [16 nov 2023 nr. 1868](forskrift/2023-11-16-1868) (i kraft 1 jan 2024).
 
@@ -260,7 +358,42 @@ Den som gir tillatelse til kjøring på eller kryssing av en rullebane skal allt
 
 ### § 23f. Fraseologi som skal benyttes mellom lufttrafikktjenesten og bakkepersonell
 
-Følgende fraseologi skal benyttes mellom lufttrafikktjenesten og bakketjenesten (bakketjenestens fraseologi markert med \*\*) i forbindelse medkryssing av rullebane på flyplasser med én rullebane:\*\*STÅR VED (benevnelse på posisjon). BER OM KRYSSING AV RULLEBANEN TIL (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)]\*\*POSITION (benevnelse på posisjon). REQUEST TO CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)]KRYSS RULLEBANEN VED (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)]CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)]HOLD KLAR AV RULLEBANENHOLD SHORT OF RUNWAY\*\*KLAR AV RULLEBANEN VED (benevnelse på posisjon)\*\*RUNWAY VACATED AT (benevnelse på posisjon)kjøring på rullebane eller sikkerhetsområde ved flyplasser med én rullebane:\*\*BER OM Å FÅ KJØRE UT PÅ RULLEBANEN VIA (benevnelse på posisjon)\*\*REQUEST TO ENTER RUNWAY VIA (benevnelse på posisjon)KJØR UT PÅ RULLEBANEN VIA (benevnelse på posisjon)ENTER RUNWAY VIA (benevnelse på posisjon)HOLD KLAR AV RULLEBANENHOLD SHORT OF RUNWAYSTOPP OG HOLD POSISJONENSTOP AND HOLD POSITIONFORLAT RULLEBANEN [VIA (benevnelse på posisjon)]VACATE RUNWAY [VIA (benevnelse på posisjon)]\*\*FORLATER RULLEBANEN [VIA (benevnelse på posisjon)]\*\*VACATING RUNWAY [VIA (benevnelse på posisjon)]\*\*KLAR AV RULLEBANEN [VED (benevnelse på posisjon)]\*\*RUNWAY VACATED [AT (benevnelse på posisjon)]\*\*BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde)\*\*REQUEST TO OPERATE ON AREA (spesifisert blokkområde)KJØR PÅ (spesifisert blokkområde)OPERATE ON (spesifisert blokkområdekjøring på andre deler av manøvreringsområdet enn rullebane og sikkerhetsområde:\*\*BER OM Å FÅ KJØRE (benevnelse på taksebane eller annen rute) FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)\*\*REQUEST TO PROCEED (benevnelse på taksebane eller annen rute) FROM (benevnelse på posisjon) TO (benevnelse på posisjon)KJØR [VIA/PÅ (rute som skal følges)] TIL (benevnelse på posisjon)PROCEED [VIA/ON (rute som skal følges)] TO (benevnelse på posisjon)FORLAT (benevnelse på taksebane) [VIA (benevnelse på posisjon)]VACATE [benevnelse på taksebane] [VIA (benevnelse på posisjon)]\*\*KLAR AV (benevnelse på taksebane)\*\*(benevnelse på taksebane) VACATEDHOLD POSISJONENHOLD POSITIONSTOPP OG HOLD POSISJONENSTOP AND HOLD POSITIONHOLD KLAR AV (benevnelse på taksebane)HOLD SHORT OF (benevnelse på taksebane)\*\*BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde)\*\*REQUEST TO OPERATE ON AREA (spesifisert blokkområde)KJØR PÅ (spesifisert blokkområde)OPERATE ON (spesifisert blokkområde)
+Følgende fraseologi skal benyttes mellom lufttrafikktjenesten og bakketjenesten (bakketjenestens fraseologi markert med \*\*) i forbindelse med
+
+1. kryssing av rullebane på flyplasser med én rullebane:
+
+   |  |  |
+   | --- | --- |
+   | \*\*STÅR VED (benevnelse på posisjon). BER OM KRYSSING AV RULLEBANEN TIL (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)] | \*\*POSITION (benevnelse på posisjon). REQUEST TO CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)] |
+   | KRYSS RULLEBANEN VED (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)] | CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)] |
+   | HOLD KLAR AV RULLEBANEN | HOLD SHORT OF RUNWAY |
+   | \*\*KLAR AV RULLEBANEN VED (benevnelse på posisjon) | \*\*RUNWAY VACATED AT (benevnelse på posisjon) |
+2. kjøring på rullebane eller sikkerhetsområde ved flyplasser med én rullebane:
+
+   |  |  |
+   | --- | --- |
+   | \*\*BER OM Å FÅ KJØRE UT PÅ RULLEBANEN VIA (benevnelse på posisjon) | \*\*REQUEST TO ENTER RUNWAY VIA (benevnelse på posisjon) |
+   | KJØR UT PÅ RULLEBANEN VIA (benevnelse på posisjon) | ENTER RUNWAY VIA (benevnelse på posisjon) |
+   | HOLD KLAR AV RULLEBANEN | HOLD SHORT OF RUNWAY |
+   | STOPP OG HOLD POSISJONEN | STOP AND HOLD POSITION |
+   | FORLAT RULLEBANEN [VIA (benevnelse på posisjon)] | VACATE RUNWAY [VIA (benevnelse på posisjon)] |
+   | \*\*FORLATER RULLEBANEN [VIA (benevnelse på posisjon)] | \*\*VACATING RUNWAY [VIA (benevnelse på posisjon)] |
+   | \*\*KLAR AV RULLEBANEN [VED (benevnelse på posisjon)] | \*\*RUNWAY VACATED [AT (benevnelse på posisjon)] |
+   | \*\*BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde) | \*\*REQUEST TO OPERATE ON AREA (spesifisert blokkområde) |
+   | KJØR PÅ (spesifisert blokkområde) | OPERATE ON (spesifisert blokkområde |
+3. kjøring på andre deler av manøvreringsområdet enn rullebane og sikkerhetsområde:
+
+   |  |  |
+   | --- | --- |
+   | \*\*BER OM Å FÅ KJØRE (benevnelse på taksebane eller annen rute) FRA (benevnelse på posisjon) TIL (benevnelse på posisjon) | \*\*REQUEST TO PROCEED (benevnelse på taksebane eller annen rute) FROM (benevnelse på posisjon) TO (benevnelse på posisjon) |
+   | KJØR [VIA/PÅ (rute som skal følges)] TIL (benevnelse på posisjon) | PROCEED [VIA/ON (rute som skal følges)] TO (benevnelse på posisjon) |
+   | FORLAT (benevnelse på taksebane) [VIA (benevnelse på posisjon)] | VACATE [benevnelse på taksebane] [VIA (benevnelse på posisjon)] |
+   | \*\*KLAR AV (benevnelse på taksebane) | \*\*(benevnelse på taksebane) VACATED |
+   | HOLD POSISJONEN | HOLD POSITION |
+   | STOPP OG HOLD POSISJONEN | STOP AND HOLD POSITION |
+   | HOLD KLAR AV (benevnelse på taksebane) | HOLD SHORT OF (benevnelse på taksebane) |
+   | \*\*BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde) | \*\*REQUEST TO OPERATE ON AREA (spesifisert blokkområde) |
+   | KJØR PÅ (spesifisert blokkområde) | OPERATE ON (spesifisert blokkområde) |
 
 På flyplasser med flere rullebaner byttes ordene RULLEBANEN eller RUNWAY ut med benevnelse på rullebanen.
 
@@ -270,15 +403,38 @@ På flyplasser med flere rullebaner byttes ordene RULLEBANEN eller RUNWAY ut med
 
 ### § 24. Forankrede ballonger
 
-Følgende bestemmelser gjelder for forankrede ballonger som på grunn av størrelse, brennbarhet, høyde over bakken mv. kan medføre fare eller ulempe for luftfarten:Forankrede ballonger kan bare sendes opp, og holdes oppe, nårbakkesikten er minst 8 km ogballongens avstand til skyer er minst 300 m vertikalt og 1500 m horisontalt.Oppsending av forankrede ballonger i kontrollert luftrom og i luftrom med krav til to-veis radiokommunikasjon krever tillatelse fra Luftfartstilsynet. Søknad om tillatelse må være mottatt av Luftfartstilsynet minst 14 dager før oppsendingen skal finne sted.Utenfor kontrollert luftrom og luftrom med krav til to-veis radiokommunikasjon kan oppsendingen til høyder over 45 m bare finne sted såfremt melding er gitt minst 14 dager forut til den enheten for lufttrafikktjenester som er ansvarlig i luftrommet. Søker skal fremsette anmodning om at enheten for lufttrafikktjenester utsteder NOTAM.Melding etter bokstav c skal inneholdenavn, adresse og telefonnummer til den som har ansvaret for oppsendingen,sted/posisjon for forankringen,ballongens maksimale høyde,dato, tid og varighet for oppsendingen, ogopplysninger om hvordan ballongen med forankringsutstyr er varselmerket.Forankrede ballonger skal være utstyrt med en anordning for punktering av ballongen. Anordningen må kunne utløses automatisk dersom ballongen kommer i drift. Hvis eier eller bruker av en forankret ballong blir kjent med at ballongen er kommet i drift uten at punktering har skjedd, plikter han straks å underrette den enhet av lufttrafikktjenesten som er ansvarlig for luftrommet.
+Følgende bestemmelser gjelder for forankrede ballonger som på grunn av størrelse, brennbarhet, høyde over bakken mv. kan medføre fare eller ulempe for luftfarten:
+
+1. Forankrede ballonger kan bare sendes opp, og holdes oppe, når
+
+   1. bakkesikten er minst 8 km og
+   2. ballongens avstand til skyer er minst 300 m vertikalt og 1500 m horisontalt.
+2. Oppsending av forankrede ballonger i kontrollert luftrom og i luftrom med krav til to-veis radiokommunikasjon krever tillatelse fra Luftfartstilsynet. Søknad om tillatelse må være mottatt av Luftfartstilsynet minst 14 dager før oppsendingen skal finne sted.
+3. Utenfor kontrollert luftrom og luftrom med krav til to-veis radiokommunikasjon kan oppsendingen til høyder over 45 m bare finne sted såfremt melding er gitt minst 14 dager forut til den enheten for lufttrafikktjenester som er ansvarlig i luftrommet. Søker skal fremsette anmodning om at enheten for lufttrafikktjenester utsteder NOTAM.
+4. Melding etter bokstav c skal inneholde
+
+   1. navn, adresse og telefonnummer til den som har ansvaret for oppsendingen,
+   2. sted/posisjon for forankringen,
+   3. ballongens maksimale høyde,
+   4. dato, tid og varighet for oppsendingen, og
+   5. opplysninger om hvordan ballongen med forankringsutstyr er varselmerket.
+5. Forankrede ballonger skal være utstyrt med en anordning for punktering av ballongen. Anordningen må kunne utløses automatisk dersom ballongen kommer i drift. Hvis eier eller bruker av en forankret ballong blir kjent med at ballongen er kommet i drift uten at punktering har skjedd, plikter han straks å underrette den enhet av lufttrafikktjenesten som er ansvarlig for luftrommet.
 
 ## Kapittel IX – Avskjæring av sivile luftfartøy
 
 ### § 25. Generelt
 
-Avskjæring av sivile luftfartøy skal bare å finne sted når det er helt nødvendig for å forhindre at det oppstår situasjoner som innebærer fare forannen luftfart ellerpersoner og materiell på bakken.
+Avskjæring av sivile luftfartøy skal bare å finne sted når det er helt nødvendig for å forhindre at det oppstår situasjoner som innebærer fare for
 
-Avskjæring skal begrense seg til å fastslå luftfartøyets identitet unntatt når det er nødvendig å lede luftfartøytilbake til dets planlagte rute,til en posisjon hvor det vil forlate luftrom under norsk suverenitet,bort fra et forbudt område, restriksjonsområde, fareområde eller tettbebyggelse, ellertil en flyplass hvor det vil bli beordret til å lande.
+1. annen luftfart eller
+2. personer og materiell på bakken.
+
+Avskjæring skal begrense seg til å fastslå luftfartøyets identitet unntatt når det er nødvendig å lede luftfartøy
+
+1. tilbake til dets planlagte rute,
+2. til en posisjon hvor det vil forlate luftrom under norsk suverenitet,
+3. bort fra et forbudt område, restriksjonsområde, fareområde eller tettbebyggelse, eller
+4. til en flyplass hvor det vil bli beordret til å lande.
 
 Avskjæring av sivile luftfartøy for øvelsesformål skal kun finne sted når det på forhånd er avtalt med fartøysjef på det luftfartøy som skal avskjæres, og lufttrafikktjenesten er informert om at avskjæringen vil finne sted.
 
@@ -298,7 +454,10 @@ Dispensasjon skal ikke gis dersom hensynene bak bestemmelsen det dispenseres fra
 
 ### § 27. Overtredelsesgebyr
 
-Overtredelsesgebyr etter [luftfartsloven § 13a-5](lov/1993-06-11-101/§13a-5) kan ilegges den som ikke oppfyller sine plikter i henhold til:denne forskrifts [§ 5](forskrift/2016-12-14-1578/§5) a til [§ 7](forskrift/2016-12-14-1578/§7), [§ 8](forskrift/2016-12-14-1578/§8) første ledd, [§ 9](forskrift/2016-12-14-1578/§9), [§ 12](forskrift/2016-12-14-1578/§12) til [§ 16](forskrift/2016-12-14-1578/§16), [§ 19](forskrift/2016-12-14-1578/§19) andre og tredje ledd og [§ 24](forskrift/2016-12-14-1578/§24)kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923).
+Overtredelsesgebyr etter [luftfartsloven § 13a-5](lov/1993-06-11-101/§13a-5) kan ilegges den som ikke oppfyller sine plikter i henhold til:
+
+1. denne forskrifts [§ 5](forskrift/2016-12-14-1578/§5) a til [§ 7](forskrift/2016-12-14-1578/§7), [§ 8](forskrift/2016-12-14-1578/§8) første ledd, [§ 9](forskrift/2016-12-14-1578/§9), [§ 12](forskrift/2016-12-14-1578/§12) til [§ 16](forskrift/2016-12-14-1578/§16), [§ 19](forskrift/2016-12-14-1578/§19) andre og tredje ledd og [§ 24](forskrift/2016-12-14-1578/§24)
+2. kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923).
 
 > Endret ved [forskrift 14 des 2021 nr. 3530](forskrift/2021-12-14-3530) (i kraft 1 jan 2022).
 

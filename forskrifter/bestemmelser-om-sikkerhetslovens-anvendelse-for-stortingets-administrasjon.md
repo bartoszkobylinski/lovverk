@@ -52,7 +52,11 @@ Stortingets administrasjon er klareringsmyndighet for Stortinget. Stortingets pr
 
 ### § 6. Sikkerhetslovens forskrifters anvendelse for Stortingets administrasjon
 
-Følgende forskrifter fastsatt i medhold av [lov 1. juni 2018 nr. 24](lov/2018-06-01-24) om nasjonal sikkerhet (sikkerhetsloven) gjelder for Stortingets administrasjon med de unntak og presiseringer som følger av bestemmelsene her:[Forskrift 20. desember 2018 nr. 2053](forskrift/2018-12-20-2053) om virksomheters arbeid med forebyggende sikkerhet (virksomhetssikkerhetsforskriften)[Forskrift 20. desember 2018 nr. 2054](forskrift/2018-12-20-2054) om sikkerhetsklarering og annen klarering (klareringsforskriften)[Forskrift 20. desember 2018 nr. 2055](forskrift/2018-12-20-2055) om kryptosikkerhet.
+Følgende forskrifter fastsatt i medhold av [lov 1. juni 2018 nr. 24](lov/2018-06-01-24) om nasjonal sikkerhet (sikkerhetsloven) gjelder for Stortingets administrasjon med de unntak og presiseringer som følger av bestemmelsene her:
+
+- [Forskrift 20. desember 2018 nr. 2053](forskrift/2018-12-20-2053) om virksomheters arbeid med forebyggende sikkerhet (virksomhetssikkerhetsforskriften)
+- [Forskrift 20. desember 2018 nr. 2054](forskrift/2018-12-20-2054) om sikkerhetsklarering og annen klarering (klareringsforskriften)
+- [Forskrift 20. desember 2018 nr. 2055](forskrift/2018-12-20-2055) om kryptosikkerhet.
 
 > Tilføyd ved [vedtak 27 feb 2020 nr. 195](forskrift/2020-02-27-195).
 

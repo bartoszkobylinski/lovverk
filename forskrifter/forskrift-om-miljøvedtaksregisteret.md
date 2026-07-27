@@ -34,9 +34,17 @@ Opplysningene og dokumentene i registeret kan brukes til alle formål hvis ikke 
 
 ## § 3. Forskrifter og enkeltvedtak som skal registreres, av hvem og når
 
-Miljødirektoratet registrerer følgende forskrifter i registeret:forskrifter fastsatt med hjemmel i [naturmangfoldloven § 23](lov/2009-06-19-100/§23) og [§ 24](lov/2009-06-19-100/§24), [§ 28](lov/2009-06-19-100/§28) til [§ 31](lov/2009-06-19-100/§31), [§ 34](lov/2009-06-19-100/§34) til [§ 39](lov/2009-06-19-100/§39), [§ 40](lov/2009-06-19-100/§40), [§ 45](lov/2009-06-19-100/§45) første og annet ledd, [§ 52](lov/2009-06-19-100/§52) og [§ 58](lov/2009-06-19-100/§58) til [§ 61](lov/2009-06-19-100/§61)forskrifter fastsatt med hjemmel i [lov 19. juni 1970 nr. 63](lov/1970-06-19-63) om naturvern, jf. [naturmangfoldloven § 77](lov/2009-06-19-100/§77)[forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt.
+Miljødirektoratet registrerer følgende forskrifter i registeret:
 
-Følgende enkeltvedtak skal registreres i registeret:enkeltvedtak fastsatt med hjemmel i forskriftene i første leddenkeltvedtak fastsatt med hjemmel i [naturmangfoldloven § 48](lov/2009-06-19-100/§48)enkeltvedtak som berører en forekomst av en utvalgt naturtype, jf. [naturmangfoldloven § 53](lov/2009-06-19-100/§53).
+1. forskrifter fastsatt med hjemmel i [naturmangfoldloven § 23](lov/2009-06-19-100/§23) og [§ 24](lov/2009-06-19-100/§24), [§ 28](lov/2009-06-19-100/§28) til [§ 31](lov/2009-06-19-100/§31), [§ 34](lov/2009-06-19-100/§34) til [§ 39](lov/2009-06-19-100/§39), [§ 40](lov/2009-06-19-100/§40), [§ 45](lov/2009-06-19-100/§45) første og annet ledd, [§ 52](lov/2009-06-19-100/§52) og [§ 58](lov/2009-06-19-100/§58) til [§ 61](lov/2009-06-19-100/§61)
+2. forskrifter fastsatt med hjemmel i [lov 19. juni 1970 nr. 63](lov/1970-06-19-63) om naturvern, jf. [naturmangfoldloven § 77](lov/2009-06-19-100/§77)
+3. [forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt.
+
+Følgende enkeltvedtak skal registreres i registeret:
+
+1. enkeltvedtak fastsatt med hjemmel i forskriftene i første ledd
+2. enkeltvedtak fastsatt med hjemmel i [naturmangfoldloven § 48](lov/2009-06-19-100/§48)
+3. enkeltvedtak som berører en forekomst av en utvalgt naturtype, jf. [naturmangfoldloven § 53](lov/2009-06-19-100/§53).
 
 Ballastvannforskriften skal ikke registreres i registeret. Det samme gjelder enkeltvedtak som er fastsatt med hjemmel i ballastvannforskriften.
 

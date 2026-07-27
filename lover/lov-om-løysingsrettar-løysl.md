@@ -15,7 +15,7 @@ xml_hash: "577f78331752eabdf7ce1eedcad4f00436edd6fec30c06d165971c62eccad55f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,10 @@ Krav etter [§§ 10](lov/1994-12-09-64/§10), [12](lov/1994-12-09-64/§12) eller
 
 Løysingsrett gjeld ikkje for lengre tid enn 25 år.
 
-Fyrste ledd gjeld ikkje løysingsrettsom ligg til ein annan fast eigedom, når retten gjeld grunn som er utskild frå eigedomen eller som er høveleg til å slåast saman med den,til ein aksje eller annan part når retten tilkjem andre parteigarar i same selskap eller sameige.
+Fyrste ledd gjeld ikkje løysingsrett
+
+1. som ligg til ein annan fast eigedom, når retten gjeld grunn som er utskild frå eigedomen eller som er høveleg til å slåast saman med den,
+2. til ein aksje eller annan part når retten tilkjem andre parteigarar i same selskap eller sameige.
 
 Løysingsrett som ligg til eit føretak og gjeld grunn til utviding eller tilfang til drift av føretaket, kan gjelde for opp til 50 år.
 

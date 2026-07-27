@@ -48,7 +48,11 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 (1) Minst 60 studiepoeng, som skal inngå i beregningsgrunnlaget for graden, må være avlagt ved Universitetet i Stavanger.
 
-(2) Dersom deler av grunnlaget for en grad allerede inngår i tildelt grad, gjelder følgende:for bachelorgrad må minst 80 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer ny fordypningfor integrert femårig mastergrad må minst 90 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer nytt selvstendig arbeidfor andre mastergrader må minst 60 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer nytt selvstendig arbeid. Det kan gis unntak fra krav om nytt selvstendig arbeid for studenter som gjennomfører master i regnskap og revisjon som en ettårig påbygging til master i økonomi og administrasjon, eller annen relevant mastergrad.
+(2) Dersom deler av grunnlaget for en grad allerede inngår i tildelt grad, gjelder følgende:
+
+1. for bachelorgrad må minst 80 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer ny fordypning
+2. for integrert femårig mastergrad må minst 90 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer nytt selvstendig arbeid
+3. for andre mastergrader må minst 60 nye studiepoeng være avlagt ved Universitetet i Stavanger, som inkluderer nytt selvstendig arbeid. Det kan gis unntak fra krav om nytt selvstendig arbeid for studenter som gjennomfører master i regnskap og revisjon som en ettårig påbygging til master i økonomi og administrasjon, eller annen relevant mastergrad.
 
 (3) Rektor kan gjøre unntak fra kravene til innhold og sammensetning for grader som tildeles i samarbeid med andre institusjoner.
 
@@ -58,7 +62,10 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 (1) Graden bachelor tildeles på bakgrunn av bestått treårig utdanning som til sammen utgjør minst 180 studiepoeng. For bachelor i utøvende musikk kreves det bestått fireårig studieprogram som til sammen utgjør minst 240 studiepoeng.
 
-(2) Grunnlaget for graden skal omfatte ett av følgende:fordypning på minst 80 studiepoeng, som normalt skal inkludere et selvstendig arbeid på minst 10 studiepoengstudieprogram som i henhold til nasjonal rammeplan eller tilsvarende gir bachelorgrad.
+(2) Grunnlaget for graden skal omfatte ett av følgende:
+
+1. fordypning på minst 80 studiepoeng, som normalt skal inkludere et selvstendig arbeid på minst 10 studiepoeng
+2. studieprogram som i henhold til nasjonal rammeplan eller tilsvarende gir bachelorgrad.
 
 (3) For bachelorgrad i et studieprogram ved Universitetet i Stavanger kreves det klart definerte elementer i vitenskapsteori, innovasjon og etikk. Kravet kan dekkes av examen philosophicum eller examen facultatum.
 
@@ -68,7 +75,11 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 ### § 2-4. Mastergrad
 
-(1) De generelle krav til mastergrad er fastsatt i [forskrift til universitets- og høyskoleloven kapittel 2](forskrift/2024-06-28-1392/kap2). Graden master tildeles for følgende:mastergrad av 120 studiepoengs omfangintegrert mastergrad av 300 studiepoengs omfangerfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
+(1) De generelle krav til mastergrad er fastsatt i [forskrift til universitets- og høyskoleloven kapittel 2](forskrift/2024-06-28-1392/kap2). Graden master tildeles for følgende:
+
+1. mastergrad av 120 studiepoengs omfang
+2. integrert mastergrad av 300 studiepoengs omfang
+3. erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
 
 (2) Selvstendig arbeid i en mastergrad skal ha et omfang på minst 20 studiepoeng, med mindre annet følger av [forskrift til universitets- og høyskoleloven §§ 2-6](forskrift/2024-06-28-1392/§2-6)–[2-7](forskrift/2024-06-28-1392/§2-7).
 
@@ -108,7 +119,17 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 (1) Studieretten kan være regulert ved særskilte krav for hvert enkelt studieprogram. Slike krav skal fremgå av emnebeskrivelsen og/eller fag- eller studieplan.
 
-(2) Følgende gjelder for studierett til de ulike studieprogram:For studenter som tas opp til årsstudier med en normert studietid på ett år, tildeles en studierett på inntil to årFor studenter som tas opp til et studieprogram med en normert studietid på tre år, tildeles en studierett på inntil fire årFor studenter som tas opp til et studieprogram med en normert studietid på fire år, tildeles en studierett på inntil fem årFor studenter som tas opp til et masterprogram på 90 eller 120 studiepoeng, tildeles en studierett på inntil tre årFor studenter som tas opp til en videreutdanning på 90 studiepoeng på fulltid, tildeles en studierett på inntil tre årFor studenter som tas opp til et studieprogram med en normert studietid på fem år, tildeles en studierett på inntil syv årFor studenter som er tatt opp på definerte deltidsstudier, tildeles en studierett på inntil ett år utover normert tid for deltidsstudierFor studenter som får innvilget forlenget studieløp i henhold til [§ 3-5 nr. 3](forskrift/2025-06-12-1278/§3-5/nummer/3), tildeles en studierett i henhold til den individuelle utdanningsplanenFor studenter ved Fakultet for utøvende kunstfag tildeles et gitt antall hovedinstrumenttimer på det studieprogrammet de har studierett på. Dersom studieretten forlenges, har ikke studenten krav på hovedinstrumenttimer utover dette.
+(2) Følgende gjelder for studierett til de ulike studieprogram:
+
+1. For studenter som tas opp til årsstudier med en normert studietid på ett år, tildeles en studierett på inntil to år
+2. For studenter som tas opp til et studieprogram med en normert studietid på tre år, tildeles en studierett på inntil fire år
+3. For studenter som tas opp til et studieprogram med en normert studietid på fire år, tildeles en studierett på inntil fem år
+4. For studenter som tas opp til et masterprogram på 90 eller 120 studiepoeng, tildeles en studierett på inntil tre år
+5. For studenter som tas opp til en videreutdanning på 90 studiepoeng på fulltid, tildeles en studierett på inntil tre år
+6. For studenter som tas opp til et studieprogram med en normert studietid på fem år, tildeles en studierett på inntil syv år
+7. For studenter som er tatt opp på definerte deltidsstudier, tildeles en studierett på inntil ett år utover normert tid for deltidsstudier
+8. For studenter som får innvilget forlenget studieløp i henhold til [§ 3-5 nr. 3](forskrift/2025-06-12-1278/§3-5/nummer/3), tildeles en studierett i henhold til den individuelle utdanningsplanen
+9. For studenter ved Fakultet for utøvende kunstfag tildeles et gitt antall hovedinstrumenttimer på det studieprogrammet de har studierett på. Dersom studieretten forlenges, har ikke studenten krav på hovedinstrumenttimer utover dette.
 
 (3) Dekan kan etter søknad innvilge forlengelse av studieretten i inntil ett år dersom studiet nærmer seg fullførelse, eller det foreligger særlige omstendigheter.
 
@@ -118,7 +139,13 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 ### § 3-4. Opphør av studierett
 
-(1) Studieretten opphører når studiet er fullført, eller hvis studenten skriftlig melder at studiet ønskes avsluttet. Studieretten kan opphøre dersom:studenten ikke betaler semesteravgift eller egenbetaling etter [universitets- og høyskoleloven § 2-6](lov/2024-03-08-9/§2-6) innen fastsatte fristerstudenten ikke oppfyller fastsatte betingelser for betinget opptakstudenten ikke fremviser original dokumentasjon som grunnlag for opptak når dette blir forespurtstudenten ikke oppfyller sine plikter etter [§§ 3-2](forskrift/2025-06-12-1278/§3-2) og [3-5](forskrift/2025-06-12-1278/§3-5)studenten to år etter opptak eller senere i studiet, over en periode på minst to år, har en studiepoengproduksjon på under 50 prosent av kravene til progresjon i det aktuelle studieprogrammet i henhold til studentens utdanningsplan.
+(1) Studieretten opphører når studiet er fullført, eller hvis studenten skriftlig melder at studiet ønskes avsluttet. Studieretten kan opphøre dersom:
+
+1. studenten ikke betaler semesteravgift eller egenbetaling etter [universitets- og høyskoleloven § 2-6](lov/2024-03-08-9/§2-6) innen fastsatte frister
+2. studenten ikke oppfyller fastsatte betingelser for betinget opptak
+3. studenten ikke fremviser original dokumentasjon som grunnlag for opptak når dette blir forespurt
+4. studenten ikke oppfyller sine plikter etter [§§ 3-2](forskrift/2025-06-12-1278/§3-2) og [3-5](forskrift/2025-06-12-1278/§3-5)
+5. studenten to år etter opptak eller senere i studiet, over en periode på minst to år, har en studiepoengproduksjon på under 50 prosent av kravene til progresjon i det aktuelle studieprogrammet i henhold til studentens utdanningsplan.
 
 (2) Ved opphør av studierett begrunnet i [§ 3-4 (1) bokstav a](forskrift/2025-06-12-1278/§3-4/ledd/1/bokstav/a) til e, skal det fattes et skriftlig vedtak om opphør av studierett. Vedtak etter [§ 3-4](forskrift/2025-06-12-1278/§3-4) e skal ta hensyn til om studenten har fått innvilget permisjon fra studiet og eventuelt vedtak om utestenging.
 
@@ -166,7 +193,12 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 ### § 4-4. Permisjon fra studier
 
-(1) Studenter har rett til permisjon i følgende dokumenterte tilfeller:ved svangerskap, fødsel og omsorg for barn i samsvar med [universitets- og høyskoleloven § 10-6](lov/2024-03-08-9/§10-6)når de er i tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17)ved verv i studentpolitiske eller folkevalgte organernår det foreligger andre særlige grunner, jf. [universitets- og høyskoleloven § 10-7](lov/2024-03-08-9/§10-7).
+(1) Studenter har rett til permisjon i følgende dokumenterte tilfeller:
+
+1. ved svangerskap, fødsel og omsorg for barn i samsvar med [universitets- og høyskoleloven § 10-6](lov/2024-03-08-9/§10-6)
+2. når de er i tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17)
+3. ved verv i studentpolitiske eller folkevalgte organer
+4. når det foreligger andre særlige grunner, jf. [universitets- og høyskoleloven § 10-7](lov/2024-03-08-9/§10-7).
 
 (2) Studenter som oppfyller vilkårene etter bestemmelsens første ledd skal få innvilget permisjon så lenge behovet tilsier det.
 
@@ -260,7 +292,10 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 ### § 6-6. Gyldig fravær
 
-(1) Som gyldig fravær regnes:egen sykdom, ellerannen tvingende fraværsgrunn.
+(1) Som gyldig fravær regnes:
+
+1. egen sykdom, eller
+2. annen tvingende fraværsgrunn.
 
 (2) Grunnlaget for fraværet skal dokumenteres og mottas av administrasjonen innen fem virkedager etter eksamensdato. Dersom dokumentert søknad ikke er mottatt innen fristen, vil studenten bli registrert med et eksamensforsøk.
 
@@ -274,7 +309,11 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 (3) Studenter har ikke krav på kontinuasjonseksamen for de enkelte deleksamener som arrangeres i løpet av semesteret. Dette gjelder også for de enkelte arbeid i en mappevurdering. Dekan selv fastsetter regler om muligheten for kontinuasjonseksamen for studenter som har gyldig fravær, ikke består, eller trekker seg fra deleksamen eller arbeid som inngår i mappevurdering.
 
-(4) Det gjennomføres ikke kontinuasjonseksamen for:bachelor- og masteroppgaver. Ved gyldig fravær kan det søkes om utsatt frist etter [§ 6-4](forskrift/2025-06-12-1278/§6-4)studenter som ikke gjennomfører, eller gjennomfører, men ikke består kontinuasjonseksamenekstraordinær eksamen.
+(4) Det gjennomføres ikke kontinuasjonseksamen for:
+
+1. bachelor- og masteroppgaver. Ved gyldig fravær kan det søkes om utsatt frist etter [§ 6-4](forskrift/2025-06-12-1278/§6-4)
+2. studenter som ikke gjennomfører, eller gjennomfører, men ikke består kontinuasjonseksamen
+3. ekstraordinær eksamen.
 
 (5) Studenten er selv ansvarlig for å melde seg opp til kontinuasjonseksamen og bærer risikoen for eventuell kollisjon mellom obligatoriske aktiviteter og gjennomføring av kontinuasjonseksamen.
 
@@ -282,7 +321,14 @@ Universitetet i Stavanger tildeler grader i samsvar med [forskrift til universit
 
 ### § 6-8. Tellende eksamensforsøk
 
-Med tellende eksamensforsøk menes at studenten:har bestått eksamentrekker seg under eksamen, uten gyldig fraværikke har møtt til eksamen, uten gyldig fraværikke har levert skriftlig eksamen, bachelor- eller masteroppgave innen angitt fristikke har bestått eksamen / karakter Ffår eksamen annullert på grunn av fusk eller forsøk på fusk.
+Med tellende eksamensforsøk menes at studenten:
+
+1. har bestått eksamen
+2. trekker seg under eksamen, uten gyldig fravær
+3. ikke har møtt til eksamen, uten gyldig fravær
+4. ikke har levert skriftlig eksamen, bachelor- eller masteroppgave innen angitt frist
+5. ikke har bestått eksamen / karakter F
+6. får eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 ### § 6-9. Antall forsøk
 
@@ -292,7 +338,10 @@ Med tellende eksamensforsøk menes at studenten:har bestått eksamentrekker seg 
 
 (3) Det gis ikke dispensasjon for et femte eksamensforsøk, eller fjerde forsøk i veiledet praksis. Dette gjelder selv om studenten har fått nytt opptak ved Universitetet i Stavanger.
 
-(4) Studenter har som hovedregel kun ett forsøk på utøvende eksamen, bachelor- og masteroppgaver. Dekan selv kan etter søknad innvilge et andre forsøk for:studenter som har gjort et forsøk, men ikke bestått utøvende eksamen, bachelor- eller masteroppgaven. Dekan selv avgjør om bachelor- eller masteroppgaven leveres inn i bearbeidet form eller om det skal leveres en helt ny oppgave. Ny eksamen eller oppgave skal gjennomføres innen fastsatt frist, og blir tellende som et nytt eksamensforsøk.studenter som har bestått utøvende eksamen, bachelor- eller masteroppgave, og som ønsker å forbedre karakteren. Ved bachelor- og masteroppgaver kan studenten ikke gis anledning til å bearbeide en tidligere innlevert oppgave, men må skrive en ny oppgave på nytt grunnlag.
+(4) Studenter har som hovedregel kun ett forsøk på utøvende eksamen, bachelor- og masteroppgaver. Dekan selv kan etter søknad innvilge et andre forsøk for:
+
+1. studenter som har gjort et forsøk, men ikke bestått utøvende eksamen, bachelor- eller masteroppgaven. Dekan selv avgjør om bachelor- eller masteroppgaven leveres inn i bearbeidet form eller om det skal leveres en helt ny oppgave. Ny eksamen eller oppgave skal gjennomføres innen fastsatt frist, og blir tellende som et nytt eksamensforsøk.
+2. studenter som har bestått utøvende eksamen, bachelor- eller masteroppgave, og som ønsker å forbedre karakteren. Ved bachelor- og masteroppgaver kan studenten ikke gis anledning til å bearbeide en tidligere innlevert oppgave, men må skrive en ny oppgave på nytt grunnlag.
 
 (5) Fristen for å søke om dispensasjon etter [§ 6-9 (2)](forskrift/2025-06-12-1278/§6-9/ledd/2), og ([4](forskrift/2025-06-12-1278/§6-9/ledd/4)) er den samme som fristen for oppmelding til eksamen. De forhold som anføres som grunn for dispensasjonssøknad må dokumenteres.
 
@@ -344,15 +393,30 @@ Med tellende eksamensforsøk menes at studenten:har bestått eksamentrekker seg 
 
 (1) Det skal benyttes sensor ved vurdering av eksamen. Sensor kan være faglærer, annen intern sensor, eller ekstern sensor. Ekstern sensor skal oppnevnes av dekan, normalt for en periode på tre år.
 
-(2) Ekstern sensor kan ikke være ansatt i hovedstilling eller bistilling ved Universitetet i Stavanger og heller ikke hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet, eller en nær tilknytning til det fagmiljøet som har undervisning i emnet. Ekstern sensor må ha minst én av følgende kvalifikasjoner:være ansatt som universitetslektor-/høgskolelektor-/amanuensisnivå eller høyere ved universitet, høgskole eller annen forskningsinstitusjonpå annen måte ha dokumentert vitenskapelig kompetanse på samme nivåha erfaring som sensor i vedkommende fag/emne ved universitet eller høyskolegjennom yrkespraksis være særlig kvalifisert innen vedkommende fag/emne.
+(2) Ekstern sensor kan ikke være ansatt i hovedstilling eller bistilling ved Universitetet i Stavanger og heller ikke hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet, eller en nær tilknytning til det fagmiljøet som har undervisning i emnet. Ekstern sensor må ha minst én av følgende kvalifikasjoner:
+
+1. være ansatt som universitetslektor-/høgskolelektor-/amanuensisnivå eller høyere ved universitet, høgskole eller annen forskningsinstitusjon
+2. på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+3. ha erfaring som sensor i vedkommende fag/emne ved universitet eller høyskole
+4. gjennom yrkespraksis være særlig kvalifisert innen vedkommende fag/emne.
 
 ### § 7-2. Sensorordninger
 
-(1) Eksamen skal kvalitetssikres gjennom ekstern deltakelse, enten ved den enkelte eksamen, eller ved ekstern evaluering av eksamensordningen. I disse tilfellene kreves det minst to sensorer:sensur av eksamen som alene utgjør minst 15 studiepoengsensur av eksamen som ikke lar seg etterprøvesensur av bacheloroppgavesensur av masteroppgave, der minst en av sensorene skal være eksternklagesensur etter [§§ 7-8](forskrift/2025-06-12-1278/§7-8) og [7-9](forskrift/2025-06-12-1278/§7-9), der minst én av sensorene skal være ekstern.
+(1) Eksamen skal kvalitetssikres gjennom ekstern deltakelse, enten ved den enkelte eksamen, eller ved ekstern evaluering av eksamensordningen. I disse tilfellene kreves det minst to sensorer:
+
+1. sensur av eksamen som alene utgjør minst 15 studiepoeng
+2. sensur av eksamen som ikke lar seg etterprøve
+3. sensur av bacheloroppgave
+4. sensur av masteroppgave, der minst en av sensorene skal være ekstern
+5. klagesensur etter [§§ 7-8](forskrift/2025-06-12-1278/§7-8) og [7-9](forskrift/2025-06-12-1278/§7-9), der minst én av sensorene skal være ekstern.
 
 (2) På eksamener hvor det ikke stilles krav om ekstern sensor etter [§ 7-2 (1)](forskrift/2025-06-12-1278/§7-2/ledd/1), skal det i tillegg til intern sensor benyttes ekstern sensor på minst 1/3 av emnene, slik at alle emnene i løpet av en treårsperiode har hatt ekstern sensur. For store kull kan det benyttes ekstern sensor bare på en fastsatt del av besvarelsene, som skal være grunnlag for vurdering av de øvrige besvarelsene.
 
-(3) Dersom det ikke benyttes ekstern sensor ved den enkelte eksamen, skal kvalitetssikring skje gjennom en eller flere av følgende ordninger:ekstern deltakelse ved oppgaveutforming og fastsetting av eksamenskriterierekstern stikkprøvekontroll av sensurering foretatt av intern sensor, som gjennomføres i etterkant av avsluttet sensurekstern evaluering av eksamener som regnes inn i endelig karakter.
+(3) Dersom det ikke benyttes ekstern sensor ved den enkelte eksamen, skal kvalitetssikring skje gjennom en eller flere av følgende ordninger:
+
+1. ekstern deltakelse ved oppgaveutforming og fastsetting av eksamenskriterier
+2. ekstern stikkprøvekontroll av sensurering foretatt av intern sensor, som gjennomføres i etterkant av avsluttet sensur
+3. ekstern evaluering av eksamener som regnes inn i endelig karakter.
 
 (4) Ekstern bidragsyter i kvalitetssikring etter [§ 7-2 (3)](forskrift/2025-06-12-1278/§7-2/ledd/3) skal oppfylle vilkårene for ekstern sensor i [§ 7-1 (2)](forskrift/2025-06-12-1278/§7-1/ledd/2).
 
@@ -452,7 +516,18 @@ Vurderingsuttrykket ved eksamen skal være bestått / ikke bestått, eller en gr
 
 ### § 7-11. Fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi studenten en urettmessig fordel:å handle i strid med gjeldende regler for eksamen eller obligatorisk aktivitetå bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller obligatorisk aktivitetå presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatå levere arbeid av praktisk eller kunstnerisk art som er produsert av andre enn studenten selvå levere besvarelse som ikke er utarbeidet av studenten selvureglementert samarbeid mellom studenter eller grupperfabrikkering eller forfalskning av dataurettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterskjult gjenbruk av eget tidligere innlevert arbeid som har gitt uttellingmedvirkning til fusk.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi studenten en urettmessig fordel:
+
+1. å handle i strid med gjeldende regler for eksamen eller obligatorisk aktivitet
+2. å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller obligatorisk aktivitet
+3. å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. å levere arbeid av praktisk eller kunstnerisk art som er produsert av andre enn studenten selv
+5. å levere besvarelse som ikke er utarbeidet av studenten selv
+6. ureglementert samarbeid mellom studenter eller grupper
+7. fabrikkering eller forfalskning av data
+8. urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+9. skjult gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling
+10. medvirkning til fusk.
 
 (2) Fusk eller forsøk på fusk kan medføre annullering av eksamen, obligatoriske aktiviteter eller kurs, utestenging fra universitetet og tap av retten til å avlegge eksamen i inntil ett år ved alle utdanningsinstitusjoner etter [universitets- og høyskoleloven](lov/2024-03-08-9). I særlig grove tilfeller kan studenten utestenges i inntil to år, jf. [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
 

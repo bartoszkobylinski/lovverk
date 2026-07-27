@@ -40,13 +40,23 @@ Forskriften gjelder ikke lærlinger og personer på arbeidsmarkedstiltak.
 
 ### § 3. Lønnsbestemmelse
 
-Arbeidstakere som utfører arbeid som nevnt i [§ 2](forskrift/2024-10-21-2543/§2), skal ha en lønn per time på minst:For unge arbeidstakere:Inntil 17 år: kr 142,5817 år: kr 152,0818 år: kr 166,34.Begynnerlønn for arbeidstakere over 20 år / etter 4 md. praksis over 18 år: kr 204,79.
+Arbeidstakere som utfører arbeid som nevnt i [§ 2](forskrift/2024-10-21-2543/§2), skal ha en lønn per time på minst:
+
+1. For unge arbeidstakere:
+
+   1. Inntil 17 år: kr 142,58
+   2. 17 år: kr 152,08
+   3. 18 år: kr 166,34.
+2. Begynnerlønn for arbeidstakere over 20 år / etter 4 md. praksis over 18 år: kr 204,79.
 
 > Endret ved forskrift [28 mai 2025 nr. 905](forskrift/2025-05-28-905) (i kraft 15 juni 2025).
 
 ### § 4. Fratrekk i lønn for innkvartering i bedriften
 
-Ved fratrekk i bruttolønnen for innkvartering i bedriften, gjelder følgende satser:For enkeltrom kr 675,67 pr. mdFor dobbeltrom kr 439,46 pr. md.
+Ved fratrekk i bruttolønnen for innkvartering i bedriften, gjelder følgende satser:
+
+1. For enkeltrom kr 675,67 pr. md
+2. For dobbeltrom kr 439,46 pr. md.
 
 > Endret ved forskrift [28 mai 2025 nr. 905](forskrift/2025-05-28-905) (i kraft 15 juni 2025).
 

@@ -17,7 +17,7 @@ xml_hash: "b210832c8c438c0d34d0c4731bd84babfeaddd7b9eeac6dd67ca4da73147b344"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ For fisk og fiskevarer kan også fiskeriinspektører tilknyttet grensekontrollst
 
 1.3*Annet tilsynspersonell*
 
-Ansvarlig ved grensekontrollstasjonen kan ha spesialtrente assistenter som jobber under hans ansvar når det gjelder å:undersøke dokumenter som følger varene,utføre identitets- og fysiske kontroller, herunder prøveuttak og generelle analyser,delta i administrative rutiner og prosedyrer.
+Ansvarlig ved grensekontrollstasjonen kan ha spesialtrente assistenter som jobber under hans ansvar når det gjelder å:
+
+1. undersøke dokumenter som følger varene,
+2. utføre identitets- og fysiske kontroller, herunder prøveuttak og generelle analyser,
+3. delta i administrative rutiner og prosedyrer.
 
 Ansvarlig ved grensekontrollstasjonen skal være ansvarlig for vedtaket.
 
@@ -54,7 +58,19 @@ Hygienen til tilsynspersonalet, lokalene og utstyret skal være slik at det ikke
 
 1.5*Dokumentasjon mv.*
 
-Ansvarlig ved grensekontrollstasjonen skal sørge for at grensekontrollstasjonen har følgende tilgjengelig:oppdatert liste over tredjeland eller område av tredjeland det er tillatt å importere fra til EØS, eller eventuelt til særskilt EØS-land.det til enhver tid gjeldende regelverk som forbyr eller regulerer innførsel av produkter til EØS.regelverk som nærmere beskriver veterinære sertifikater eller ethvert annet dokument som skal følge med produkter fra tredjeland til EØS, eller eventuelt til særskilt EØS-land.oppdatert liste over grensekontrollstasjoner for innførsel av produkter fra tredjeland, med alle detaljer om disse, spesielt deres kommunikasjonsfasiliteter.oppdatert liste over virksomheter i tredjeland som er godkjent for eksport til EØS, når en slik liste er opprettet for et bestemt produkt.oppdatert informasjon over forsendelser av varepartier som er blitt nektet import til EØS, og som er returnert.liste som oppsummerer de feil som er funnet ved undersøkelser utført på importerte varepartier fra tredjeland.1liste over varepartier som er returnert, destruert eller eventuelt godkjent av ansvarlig ved grensekontrollstasjonen for bruk til annet enn folkemat.liste over alle prøver som er tatt for laboratorieundersøkelser, og resultatene fra disse undersøkelsene.liste over resultatene fra undersøkelser utført på varepartier bestemt for besetninger og passasjerer om bord på transportmidler som opererer internasjonalt, og avfall fra disse.tilstrekkelig arkiveringsutstyr til å håndtere informasjon i forhold til kontroll av varepartier fra tredjeland.
+Ansvarlig ved grensekontrollstasjonen skal sørge for at grensekontrollstasjonen har følgende tilgjengelig:
+
+1. oppdatert liste over tredjeland eller område av tredjeland det er tillatt å importere fra til EØS, eller eventuelt til særskilt EØS-land.
+2. det til enhver tid gjeldende regelverk som forbyr eller regulerer innførsel av produkter til EØS.
+3. regelverk som nærmere beskriver veterinære sertifikater eller ethvert annet dokument som skal følge med produkter fra tredjeland til EØS, eller eventuelt til særskilt EØS-land.
+4. oppdatert liste over grensekontrollstasjoner for innførsel av produkter fra tredjeland, med alle detaljer om disse, spesielt deres kommunikasjonsfasiliteter.
+5. oppdatert liste over virksomheter i tredjeland som er godkjent for eksport til EØS, når en slik liste er opprettet for et bestemt produkt.
+6. oppdatert informasjon over forsendelser av varepartier som er blitt nektet import til EØS, og som er returnert.
+7. liste som oppsummerer de feil som er funnet ved undersøkelser utført på importerte varepartier fra tredjeland.1
+8. liste over varepartier som er returnert, destruert eller eventuelt godkjent av ansvarlig ved grensekontrollstasjonen for bruk til annet enn folkemat.
+9. liste over alle prøver som er tatt for laboratorieundersøkelser, og resultatene fra disse undersøkelsene.
+10. liste over resultatene fra undersøkelser utført på varepartier bestemt for besetninger og passasjerer om bord på transportmidler som opererer internasjonalt, og avfall fra disse.
+11. tilstrekkelig arkiveringsutstyr til å håndtere informasjon i forhold til kontroll av varepartier fra tredjeland.
 
 1.6*Samarbeid med aktuelle myndigheter mv.*
 
@@ -86,7 +102,11 @@ Alle identitetskontroller, fysiske undersøkelser og prøveuttak må utføres sl
 
 Når det gjelder uemballerte produkter bestemt til folkemat skal alle undersøkelser foregå under beskyttelse for vær, og det skal sikres hygienisk håndtering og beskyttelse av slike produkter under lasting.
 
-Det skal sikres at:lastingen og lossingen skjer raskt,fiskeprodukter uten unødvendig opphold blir plassert i et beskyttet miljø under den påkrevde temperatur i forhold til det angjeldende produkt og, når nødvendig, i is ved transport eller lagring, og atutstyr og håndteringspraksis som medfører unødvendig ødeleggelse av de spiselige deler av fiskevarene ikke tillates.
+Det skal sikres at:
+
+1. lastingen og lossingen skjer raskt,
+2. fiskeprodukter uten unødvendig opphold blir plassert i et beskyttet miljø under den påkrevde temperatur i forhold til det angjeldende produkt og, når nødvendig, i is ved transport eller lagring, og at
+3. utstyr og håndteringspraksis som medfører unødvendig ødeleggelse av de spiselige deler av fiskevarene ikke tillates.
 
 2.2*Generell dokument- og identitetskontroll*
 
@@ -100,7 +120,11 @@ Den fysiske kontrollen skal være slik organisert at det ikke er mulig for en im
 
 2.3.2
 
-Tilsynsmyndigheten skal:utføre en fysisk kontroll av varepartiet ved å undersøke et representativt antall prøver for å sikre at produktene tilfredsstiller gjeldende regelverk, og fortsatt er i en slik forfatning at de kan brukes i samsvar med de opplysninger som følger dem,utføre de nødvendige laboratorieundersøkelser på stedet, ogta offisielle prøver for å undersøke for reststoffer eller patogener, og få disse analysert så fort som mulig, jf. vedlegg III pkt. 1.
+Tilsynsmyndigheten skal:
+
+1. utføre en fysisk kontroll av varepartiet ved å undersøke et representativt antall prøver for å sikre at produktene tilfredsstiller gjeldende regelverk, og fortsatt er i en slik forfatning at de kan brukes i samsvar med de opplysninger som følger dem,
+2. utføre de nødvendige laboratorieundersøkelser på stedet, og
+3. ta offisielle prøver for å undersøke for reststoffer eller patogener, og få disse analysert så fort som mulig, jf. vedlegg III pkt. 1.
 
 2.3.3
 
@@ -110,7 +134,11 @@ Nærmere bestemmelser om fysisk kontroll, prøvetaking og laboratorieundersøkel
 
 2.4.1
 
-Det er fastsatt en redusert fysisk kontroll for varer fra tredjeland i de tilfelle det er utarbeidet:liste over tredjeland eller område av tredjeland det er tillatt å importere fra til EØS, eller eventuelt til særskilt EØS-land,liste over virksomheter i tredjeland som er godkjent for eksport til EØS,fastsatt modell for hygienesertifikat (dyrehelse- og folkehelse).
+Det er fastsatt en redusert fysisk kontroll for varer fra tredjeland i de tilfelle det er utarbeidet:
+
+1. liste over tredjeland eller område av tredjeland det er tillatt å importere fra til EØS, eller eventuelt til særskilt EØS-land,
+2. liste over virksomheter i tredjeland som er godkjent for eksport til EØS,
+3. fastsatt modell for hygienesertifikat (dyrehelse- og folkehelse).
 
 Den fysiske kontrollen for slike varepartier skal være i samsvar med vedlegg IV.
 
@@ -154,7 +182,10 @@ Dersom vilkårene for import ikke er oppfylt, skal ansvarlig ved grensekontrolls
 
 Dersom resultater av laboratorietester tatt ut i forbindelse med fysisk kontroll viser verdier lik eller over MRPL-verdier fastsatt i vedtak [2002/657/EF](eu/32002d0657*), jf. [forskrift 27. januar 2000 nr. 65 § 13a](forskrift/2000-01-27-65/§13a) skal det aktuelle vareparti ikke anses å være i overensstemmelse med importkravene.
 
-Tilsynsmyndigheten skal da beslaglegge varepartiet og etter å ha opplyst den ansvarlige for varepartiet og gitt vedkommende anledning til å uttale seg, treffe følgende tiltak:varepartiet skal destrueres eller sendes ut av EØS-området, jf. 3. ledd.dersom varepartiet allerede er omsatt skal det tilbakekalles før tiltak nevnt i a) gjennomføres.
+Tilsynsmyndigheten skal da beslaglegge varepartiet og etter å ha opplyst den ansvarlige for varepartiet og gitt vedkommende anledning til å uttale seg, treffe følgende tiltak:
+
+1. varepartiet skal destrueres eller sendes ut av EØS-området, jf. 3. ledd.
+2. dersom varepartiet allerede er omsatt skal det tilbakekalles før tiltak nevnt i a) gjennomføres.
 
 Tilsynsmyndigheten skal kun gi tillatelse til utsending av varepartiet dersom det er enighet med den ansvarlige for lasten om bestemmelsessted og denne har underrettet kompetent myndighet i opprinnelseslandet eller bestemmelseslandet om avvisningsårsak. Dersom bestemmelsesland ikke er det samme som opprinnelsesland skal kompetent myndighet i bestemmelseslandet underrette Mattilsynet om at varepartiet tillates innført. Utsending skal ikke iverksettes før Mattilsynet har mottatt denne tillatelse.
 
@@ -262,15 +293,46 @@ Den fysiske kontroll av hver forsendelse skal gjennomføres under forhold som ti
 
 Innenfor hver del av forsendelse (lot) underkastet fysisk kontroll, skal det etter åpning av emballasje kontrolleres at det aktuelle produkt oppfyller vilkårene i gjeldende regelverk.
 
-Den fysiske kontrollen av de animalske produktene skal sikre at produktene alltid oppfyller formålene som er angitt i veterinærsertifikatet eller -dokumentet. Derfor må opprinnelsesgarantiene som gitt av tredjelandet kontrolleres, samtidig som det også kontrolleres at den etterfølgende transport av produktet ikke har endret vilkårene som ble garantert ved avsendelsen, ved hjelp av:sensorisk undersøkelse: lukt, farge, konsistens, smak,enkle fysiske eller kjemiske prøver: oppskjæring, tining, koking,laboratorieundersøkelser for å påvise: restmengder, sykdomsframkallende stoffer, forurensende stoffer, tegn på forringelse.
+Den fysiske kontrollen av de animalske produktene skal sikre at produktene alltid oppfyller formålene som er angitt i veterinærsertifikatet eller -dokumentet. Derfor må opprinnelsesgarantiene som gitt av tredjelandet kontrolleres, samtidig som det også kontrolleres at den etterfølgende transport av produktet ikke har endret vilkårene som ble garantert ved avsendelsen, ved hjelp av:
+
+1. sensorisk undersøkelse: lukt, farge, konsistens, smak,
+2. enkle fysiske eller kjemiske prøver: oppskjæring, tining, koking,
+3. laboratorieundersøkelser for å påvise: restmengder, sykdomsframkallende stoffer, forurensende stoffer, tegn på forringelse.
 
 2\.
 
-Uansett produkttype skal følgende utføres:kontroll av transportforholdene og -midlene, særlig for å kontrollere om det er mangler eller brudd i kjølekjeden, at forholdene under transporten har opprettholdt produktene i påkrevet stand, og at det ikke er grunnlag for å mistenke uregelmessigheter under transporten,kontroll av at antall produkter eller pakninger oppgitt i det medfølgende veterinærsertifikatet eller -dokumentet samsvarer med vekten til forsendelsen ved veiing av ett produkt eller en pakning,kontroll av at merking (stempler, etiketter) og emballasje er i samsvar med gjeldende regelverk, sistnevnte hva angår bruk av materiale og dets tilstand,kontroll av at gjeldende regelverks krav til temperatur har vært overholdt under transporten,undersøkelse av helt sett pakninger eller av prøver når det gjelder produkter i løs vekt. Dette skal utføres før sensorisk undersøkelse, fysisk og kjemisk prøvetaking og laboratorieundersøkelser blir utført.Undersøkelsene skal omfatte et representativt antall prøver tatt fra hele forsendelsen, som om nødvendig delvis skal losses for å sikre tilgang til alle deler av den.Undersøkelsene skal omfatte minst 1% av kolliene eller pakningene i en forsendelse, men minst to og høyst ti kollier/pakninger.Når tilsynsmyndigheten vurderer det som nødvendig, kan tilsynsmyndigheten kreve å foreta ytterligere undersøkelser for å fastslå hvorvidt gjeldende regelverk for innførsel eller handel med det aktuelle produkt er overholdt.Når det gjelder produkter i løs vekt, skal det tas minst fem prøver fra forskjellige deler av forsendelsen,dersom resultatene av laboratorieundersøkelser foretatt ved stikkprøver ikke foreligger umiddelbart, og det ikke er noen umiddelbar fare for folkehelsen eller dyrehelsen, kan forsendelsen frigis.Dersom laboratorieundersøkelsene er foretatt på grunnlag av informasjon fra andre myndigheter, fordi det er mistanke om uregelmessigheter, eller tidligere undersøkelser har bekreftet en slik mistanke, skal imidlertid forsendelsene ikke frigis før undersøkelsesresultatene avkrefter mistanken, og i mellomtiden skal forsendelsen stå under kontroll av tilsynsmyndigheten som foretok veterinærkontrollen.lossing av hele forsendelsen fra transportmidlet skal bare foretas dersomlastemetoden som har vært brukt, gjør det umulig å få tilgang til hele forsendelsen med delvis lossing,stikkprøvekontrollen har avslørt uregelmessigheter,den forrige forsendelsen har vist uregelmessigheter,tilsynsmyndigheten mistenker uregelmessigheter.når den fysiske kontrollen er avsluttet, skal ansvarlig ved grensekontrollstasjonen attestere kontrollen, jf. importforskriften § 7.
+Uansett produkttype skal følgende utføres:
+
+1. kontroll av transportforholdene og -midlene, særlig for å kontrollere om det er mangler eller brudd i kjølekjeden, at forholdene under transporten har opprettholdt produktene i påkrevet stand, og at det ikke er grunnlag for å mistenke uregelmessigheter under transporten,
+2. kontroll av at antall produkter eller pakninger oppgitt i det medfølgende veterinærsertifikatet eller -dokumentet samsvarer med vekten til forsendelsen ved veiing av ett produkt eller en pakning,
+3. kontroll av at merking (stempler, etiketter) og emballasje er i samsvar med gjeldende regelverk, sistnevnte hva angår bruk av materiale og dets tilstand,
+4. kontroll av at gjeldende regelverks krav til temperatur har vært overholdt under transporten,
+5. undersøkelse av helt sett pakninger eller av prøver når det gjelder produkter i løs vekt. Dette skal utføres før sensorisk undersøkelse, fysisk og kjemisk prøvetaking og laboratorieundersøkelser blir utført.
+
+   Undersøkelsene skal omfatte et representativt antall prøver tatt fra hele forsendelsen, som om nødvendig delvis skal losses for å sikre tilgang til alle deler av den.
+
+   Undersøkelsene skal omfatte minst 1% av kolliene eller pakningene i en forsendelse, men minst to og høyst ti kollier/pakninger.
+
+   Når tilsynsmyndigheten vurderer det som nødvendig, kan tilsynsmyndigheten kreve å foreta ytterligere undersøkelser for å fastslå hvorvidt gjeldende regelverk for innførsel eller handel med det aktuelle produkt er overholdt.
+
+   Når det gjelder produkter i løs vekt, skal det tas minst fem prøver fra forskjellige deler av forsendelsen,
+6. dersom resultatene av laboratorieundersøkelser foretatt ved stikkprøver ikke foreligger umiddelbart, og det ikke er noen umiddelbar fare for folkehelsen eller dyrehelsen, kan forsendelsen frigis.
+
+   Dersom laboratorieundersøkelsene er foretatt på grunnlag av informasjon fra andre myndigheter, fordi det er mistanke om uregelmessigheter, eller tidligere undersøkelser har bekreftet en slik mistanke, skal imidlertid forsendelsene ikke frigis før undersøkelsesresultatene avkrefter mistanken, og i mellomtiden skal forsendelsen stå under kontroll av tilsynsmyndigheten som foretok veterinærkontrollen.
+7. lossing av hele forsendelsen fra transportmidlet skal bare foretas dersom
+
+   1. lastemetoden som har vært brukt, gjør det umulig å få tilgang til hele forsendelsen med delvis lossing,
+   2. stikkprøvekontrollen har avslørt uregelmessigheter,
+   3. den forrige forsendelsen har vist uregelmessigheter,
+   4. tilsynsmyndigheten mistenker uregelmessigheter.
+8. når den fysiske kontrollen er avsluttet, skal ansvarlig ved grensekontrollstasjonen attestere kontrollen, jf. importforskriften § 7.
 
 3\.
 
-Kontroll av produkter til humant konsum skal i tillegg til ovennevnte omfatte:måling av produktets temperatur dersom gjeldende regelverk krever dette,kontroll av uregelmessigheter i utseende, konsistens, farge, lukt, og hvis aktuelt, smak. Frosne eller dypfrosne produkter skal tines før kontroll.
+Kontroll av produkter til humant konsum skal i tillegg til ovennevnte omfatte:
+
+1. måling av produktets temperatur dersom gjeldende regelverk krever dette,
+2. kontroll av uregelmessigheter i utseende, konsistens, farge, lukt, og hvis aktuelt, smak. Frosne eller dypfrosne produkter skal tines før kontroll.
 
 4.*Ytterligere kontroll*
 

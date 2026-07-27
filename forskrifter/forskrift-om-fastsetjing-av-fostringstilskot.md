@@ -15,7 +15,7 @@ xml_hash: "c04c0fa1d897d618615c4cd48d24661a1ce9600c46b25e7f0a663775584a713b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,11 @@ Dersom tilskotsmottakaren mottek slik offentleg yting der barnetillegg er ein de
 
 ## § 11. Skjønnsfastsetjing av tilskot
 
-Tilskot skal reknast etter skjønn dersomtilskotet skal fastsetjast etter § 76 i [barnelova](lov/1981-04-08-7/§76)ein av partane er busett eller arbeider og betalar skatt i utlandetbarnet er forsørgt av andre eller gifter seg.
+Tilskot skal reknast etter skjønn dersom
+
+1. tilskotet skal fastsetjast etter § 76 i [barnelova](lov/1981-04-08-7/§76)
+2. ein av partane er busett eller arbeider og betalar skatt i utlandet
+3. barnet er forsørgt av andre eller gifter seg.
 
 > Endra ved [forskrifter 18 mars 2004 nr. 559](forskrift/2004-03-18-559) (i kraft 1 april 2004), [15 des 2008 nr. 1367](forskrift/2008-12-15-1367) (i kraft 1 jan 2009).
 

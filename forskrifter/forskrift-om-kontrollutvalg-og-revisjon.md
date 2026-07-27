@@ -15,7 +15,7 @@ xml_hash: "7f8df3f2eff76aff5de28040e1c0a921c0c50d97717de0a187de55a90c97bcec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Kontrollutvalget skal utarbeide forslag til budsjett for kontrollarbeidet i komm
 
 ### § 3. Kontrollutvalgets oppgaver ved regnskapsrevisjon
 
-Kontrollutvalget skal holde seg løpende orientert om revisjonsarbeidet og påse atkommunens eller fylkeskommunens årsregnskaper blir revidert på en betryggende måteregnskapsrevisjonen utføres i samsvar med lov, forskrift og kontrollutvalgets instrukser og avtaler med revisorregnskapsrevisjonen blir utført av revisorer som oppfyller kravene i [kapittel 2](forskrift/2019-06-17-904/kap2) og 3.
+Kontrollutvalget skal holde seg løpende orientert om revisjonsarbeidet og påse at
+
+1. kommunens eller fylkeskommunens årsregnskaper blir revidert på en betryggende måte
+2. regnskapsrevisjonen utføres i samsvar med lov, forskrift og kontrollutvalgets instrukser og avtaler med revisor
+3. regnskapsrevisjonen blir utført av revisorer som oppfyller kravene i [kapittel 2](forskrift/2019-06-17-904/kap2) og 3.
 
 Kontrollutvalget skal uttale seg til kommunestyret eller fylkestinget om årsregnskapene og årsberetningene før formannskapet eller fylkesutvalget innstiller til vedtak.
 
@@ -86,7 +90,11 @@ Hvis det kan ha betydning for den framtidige revisjonen, skal den forrige regnsk
 
 ### § 12. Regnskapsrevisors rett til å si fra seg et oppdrag
 
-Når en kommune eller fylkeskommune deltar i et interkommunalt revisjonssamarbeid, eller har inngått avtale med en annen regnskapsrevisor, har regnskapsrevisoren rett til å si fra seg oppdraget hvisrevisoren har avdekket og påpekt vesentlige brudd på lov eller forskrift som den reviderte virksomheten er underlagt, og virksomheten ikke iverksetter tiltak som er nødvendige for å rette opp forholdenerevisoren ikke gis mulighet til å oppfylle sine plikter etter lov eller forskriftdet foreligger andre særlige grunner.
+Når en kommune eller fylkeskommune deltar i et interkommunalt revisjonssamarbeid, eller har inngått avtale med en annen regnskapsrevisor, har regnskapsrevisoren rett til å si fra seg oppdraget hvis
+
+1. revisoren har avdekket og påpekt vesentlige brudd på lov eller forskrift som den reviderte virksomheten er underlagt, og virksomheten ikke iverksetter tiltak som er nødvendige for å rette opp forholdene
+2. revisoren ikke gis mulighet til å oppfylle sine plikter etter lov eller forskrift
+3. det foreligger andre særlige grunner.
 
 Revisor skal gi kontrollutvalget og den revisjonspliktige rimelig forhåndsvarsel før vedkommende sier fra seg oppdraget som revisor.
 
@@ -124,11 +132,24 @@ Ansettelse som revisor i kommunen eller fylkeskommunen eller i en interkommunal 
 
 Revisor kan ikke utføre revisjon eller annen kontroll for kommunen eller fylkeskommunen hvis revisoren eller revisorens nærstående har en slik tilknytning til den reviderte eller kontrollerte virksomheten eller virksomhetens ansatte eller tillitsmenn at den er egnet til å svekke revisorens uavhengighet og objektivitet.
 
-Nærstående etter første ledd errevisorens ektefelle eller samboer og deres søskenrevisorens slektninger i rett oppstigende eller nedstigende linje og deres ektefeller eller samboererevisorens søsken og deres ektefeller eller samboereslektninger i rett oppstigende eller nedstigende linje til revisorens ektefelle eller samboer.
+Nærstående etter første ledd er
+
+1. revisorens ektefelle eller samboer og deres søsken
+2. revisorens slektninger i rett oppstigende eller nedstigende linje og deres ektefeller eller samboere
+3. revisorens søsken og deres ektefeller eller samboere
+4. slektninger i rett oppstigende eller nedstigende linje til revisorens ektefelle eller samboer.
 
 ### § 18. Grenser for hvilke stillinger, verv og tjenester som revisor kan ha
 
-Revisor kan ikkeha andre stillinger i kommunen eller fylkeskommunenha andre stillinger i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier avvære medlem av styrende organer i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier av. Dette gjelder ikke hvis virksomheten utfører revisjon og er organisert som et interkommunalt selskap, samvirkeforetak eller aksjeselskapdelta i eller ha funksjoner i en annen virksomhet, hvis det kan føre til at revisorens interesser kommer i konflikt med interessene til kommunen eller fylkeskommunen, eller på annen måte er egnet til å svekke tilliten til revisorenutføre rådgivningstjenester eller andre tjenester for kommunen eller fylkeskommunen, hvis dette er egnet til å svekke revisorens uavhengighet og objektivitetyte tjenester som hører inn under den reviderte virksomhetens egne ledelses- og kontrolloppgaveropptre som fullmektig for den reviderte virksomheten, unntatt ved bistand i skattesaker etter [domstolsloven § 218](lov/1915-08-13-5/§218).
+Revisor kan ikke
+
+1. ha andre stillinger i kommunen eller fylkeskommunen
+2. ha andre stillinger i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier av
+3. være medlem av styrende organer i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier av. Dette gjelder ikke hvis virksomheten utfører revisjon og er organisert som et interkommunalt selskap, samvirkeforetak eller aksjeselskap
+4. delta i eller ha funksjoner i en annen virksomhet, hvis det kan føre til at revisorens interesser kommer i konflikt med interessene til kommunen eller fylkeskommunen, eller på annen måte er egnet til å svekke tilliten til revisoren
+5. utføre rådgivningstjenester eller andre tjenester for kommunen eller fylkeskommunen, hvis dette er egnet til å svekke revisorens uavhengighet og objektivitet
+6. yte tjenester som hører inn under den reviderte virksomhetens egne ledelses- og kontrolloppgaver
+7. opptre som fullmektig for den reviderte virksomheten, unntatt ved bistand i skattesaker etter [domstolsloven § 218](lov/1915-08-13-5/§218).
 
 ### § 19. Krav til egenvurdering av uavhengighet
 

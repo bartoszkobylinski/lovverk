@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Forskriftens formål er:å sikre at arbeidstakere som utfører mobilt arbeid innenfor vegtransport ikke utsettes for uheldige fysiske eller psykiske belastninger,å bedre trafikksikkerheten,å utjevne konkurransevilkårene.
+Forskriftens formål er:
+
+1. å sikre at arbeidstakere som utfører mobilt arbeid innenfor vegtransport ikke utsettes for uheldige fysiske eller psykiske belastninger,
+2. å bedre trafikksikkerheten,
+3. å utjevne konkurransevilkårene.
 
 ### § 2. Virkeområde
 
@@ -48,7 +52,29 @@ Denne forskriften utfyller bestemmelsene i kjøre- og hviletidsforskriften og AE
 
 ### § 5. Definisjoner
 
-I denne forskriften betyr*arbeidstid:* Den tiden arbeidstakeren er på arbeidsplassen og står til disposisjon for arbeidsgiveren, dvs.:Den tiden som går med til transportarbeid på veg. Slikt arbeid omfatter bl.a. kjøring, lasting og lossing, hjelp til passasjerene i forbindelse med på- og avstigning fra kjøretøyet, rengjøring, teknisk vedlikehold og alt annet arbeid som har til formål å sikre kjøretøyet, lasten eller passasjerene, eller å utføre lov- eller forskriftsmessige plikter som har direkte sammenheng med den transporten som finner sted, herunder tilsyn med lasting og lossing, administrative formaliteter med politi-, toll- og immigrasjonsmyndigheter, osv.Periodene der arbeidstakeren ikke kan disponere tiden sin fritt og må være på arbeidsplassen sin, klar til å utføre det vanlige arbeidet sitt, og det blir utført konkrete arbeidsoppgaver som har sammenheng med tjenesten. Dette gjelder bl.a. ventetid i forbindelse med lasting og lossing når det ikke er kjent på forhånd hvor lenge dette kan ventes å vare.Arbeidstid skal ikke omfatte hvilepausene som er nevnt i [§ 15](forskrift/2005-06-10-543/§15) og de periodene arbeidstakeren er tilgjengelig som nevnt i nummer 2.*perioder arbeidstakeren er tilgjengelig:*Andre perioder enn pauser og hviletid der det ikke kreves at arbeidstakeren oppholder seg på arbeidsplassen sin, men kan anmodes om å påta seg kjøring, fortsette med kjøring eller påta seg annet arbeid. Dette gjelder bl.a. reisetid med ferje eller tog når kjøretøyet er om bord i ferja eller toget, ventetid ved grenser og ventetid som følge av trafikkforbud. Disse periodene skal være kjent for arbeidstakeren på forhånd, og arbeidstakeren skal være kjent med hvor lenge de kan forventes å vare.Tid som går med til opphold ved siden av føreren eller i køye mens kjøretøyet er i bevegelse når det er flere arbeidstakere i samme kjøretøy.*samlet arbeidstid:* Arbeidstid inkludert overtid.*arbeidsplass:* Alle steder det blir utført arbeid som har sammenheng med transporten.*arbeidstaker:* Alle arbeidstakere, medregnet praktikanter og lærlinger, som er en del av det reisende personalet som er ansatt i virksomhet som driver person- eller godstransport på veg for egen eller annens regning.*selvstendig næringsdrivende:* Alle som oppfyller følgende krav:har rett til å arbeide for seg selv uten å være knyttet til en arbeidsgiver gjennom en arbeidsavtale eller andre former for underordnet arbeidsforhold,fritt har anledning til å organisere den aktuelle virksomheten sin,har en inntekt som er direkte avhengig av fortjenesten av arbeidet ogstår fritt til å ha handelsforhold med flere kunder, eventuelt gjennom samarbeid med andre selvstendig næringsdrivende førere.*uke:* Tiden mellom mandag kl 00.00 og søndag kl 24.00.*nattarbeid:* Arbeid som utøves i tiden mellom 21.00 og 06.00.
+I denne forskriften betyr
+
+1. *arbeidstid:* Den tiden arbeidstakeren er på arbeidsplassen og står til disposisjon for arbeidsgiveren, dvs.:
+
+   1. Den tiden som går med til transportarbeid på veg. Slikt arbeid omfatter bl.a. kjøring, lasting og lossing, hjelp til passasjerene i forbindelse med på- og avstigning fra kjøretøyet, rengjøring, teknisk vedlikehold og alt annet arbeid som har til formål å sikre kjøretøyet, lasten eller passasjerene, eller å utføre lov- eller forskriftsmessige plikter som har direkte sammenheng med den transporten som finner sted, herunder tilsyn med lasting og lossing, administrative formaliteter med politi-, toll- og immigrasjonsmyndigheter, osv.
+   2. Periodene der arbeidstakeren ikke kan disponere tiden sin fritt og må være på arbeidsplassen sin, klar til å utføre det vanlige arbeidet sitt, og det blir utført konkrete arbeidsoppgaver som har sammenheng med tjenesten. Dette gjelder bl.a. ventetid i forbindelse med lasting og lossing når det ikke er kjent på forhånd hvor lenge dette kan ventes å vare.
+
+   Arbeidstid skal ikke omfatte hvilepausene som er nevnt i [§ 15](forskrift/2005-06-10-543/§15) og de periodene arbeidstakeren er tilgjengelig som nevnt i nummer 2.
+2. *perioder arbeidstakeren er tilgjengelig:*
+
+   1. Andre perioder enn pauser og hviletid der det ikke kreves at arbeidstakeren oppholder seg på arbeidsplassen sin, men kan anmodes om å påta seg kjøring, fortsette med kjøring eller påta seg annet arbeid. Dette gjelder bl.a. reisetid med ferje eller tog når kjøretøyet er om bord i ferja eller toget, ventetid ved grenser og ventetid som følge av trafikkforbud. Disse periodene skal være kjent for arbeidstakeren på forhånd, og arbeidstakeren skal være kjent med hvor lenge de kan forventes å vare.
+   2. Tid som går med til opphold ved siden av føreren eller i køye mens kjøretøyet er i bevegelse når det er flere arbeidstakere i samme kjøretøy.
+3. *samlet arbeidstid:* Arbeidstid inkludert overtid.
+4. *arbeidsplass:* Alle steder det blir utført arbeid som har sammenheng med transporten.
+5. *arbeidstaker:* Alle arbeidstakere, medregnet praktikanter og lærlinger, som er en del av det reisende personalet som er ansatt i virksomhet som driver person- eller godstransport på veg for egen eller annens regning.
+6. *selvstendig næringsdrivende:* Alle som oppfyller følgende krav:
+
+   1. har rett til å arbeide for seg selv uten å være knyttet til en arbeidsgiver gjennom en arbeidsavtale eller andre former for underordnet arbeidsforhold,
+   2. fritt har anledning til å organisere den aktuelle virksomheten sin,
+   3. har en inntekt som er direkte avhengig av fortjenesten av arbeidet og
+   4. står fritt til å ha handelsforhold med flere kunder, eventuelt gjennom samarbeid med andre selvstendig næringsdrivende førere.
+7. *uke:* Tiden mellom mandag kl 00.00 og søndag kl 24.00.
+8. *nattarbeid:* Arbeid som utøves i tiden mellom 21.00 og 06.00.
 
 ## Bestemmelser om arbeidstid, hvilepauser, nattarbeid, m.m.
 
@@ -66,7 +92,12 @@ Dersom arbeidstakerne arbeider til ulike tider av døgnet, skal det utarbeides e
 
 Alminnelig arbeidstid må ikke overstige ni timer i løpet av 24 timer og 40 timer i løpet av sju dager.
 
-Alminnelig arbeidstid må ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager for:døgnkontinuerlig skiftarbeid og sammenliknbart turnusarbeid,arbeid på to skift som regelmessig drives på søn- og helgedager, og sammenliknbart turnusarbeid som regelmessig drives på søn- og helgedager,arbeid som innebærer at arbeidstakeren må arbeide minst hver tredje søndag,arbeid som hovedsakelig drives om natten.
+Alminnelig arbeidstid må ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager for:
+
+1. døgnkontinuerlig skiftarbeid og sammenliknbart turnusarbeid,
+2. arbeid på to skift som regelmessig drives på søn- og helgedager, og sammenliknbart turnusarbeid som regelmessig drives på søn- og helgedager,
+3. arbeid som innebærer at arbeidstakeren må arbeide minst hver tredje søndag,
+4. arbeid som hovedsakelig drives om natten.
 
 ### § 9. Rett til redusert arbeidstid
 
@@ -196,7 +227,10 @@ Det skal benyttes den felles formel for beregning av risikoklassifisering i dire
 
 ### § 23. Etterfølgende foretakskontroll
 
-Det skal medføre foretakskontroll hos arbeidsgiver, dersom det langs veg avdekkes alvorlige overtredelser avdenne forskrift, eller[forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS](forskrift/2007-07-02-877).
+Det skal medføre foretakskontroll hos arbeidsgiver, dersom det langs veg avdekkes alvorlige overtredelser av
+
+1. denne forskrift, eller
+2. [forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS](forskrift/2007-07-02-877).
 
 > Tilføyd ved forskrift [6 okt 2023 nr. 1595](forskrift/2023-10-06-1595) (i kraft 15 okt 2023).
 

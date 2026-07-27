@@ -30,13 +30,24 @@ Formålet med forskrifta er å bidra til at medisinske obduksjonar og bruk av li
 
 ### § 2. Verkeområde
 
-Forskrifta gjeld for:medisinske obduksjonar, jf. [obduksjonslova § 3](lov/2015-05-07-26/§3) bokstavane a og b ogbruk av lik som er avgjevne til undervisning og forsking i anatomi og andre medisinske fag.
+Forskrifta gjeld for:
+
+1. medisinske obduksjonar, jf. [obduksjonslova § 3](lov/2015-05-07-26/§3) bokstavane a og b og
+2. bruk av lik som er avgjevne til undervisning og forsking i anatomi og andre medisinske fag.
 
 ## Kapittel 2. Obduksjon
 
 ### § 3. Opplysingar som skal gå fram av krav om obduksjon
 
-Legen som set fram kravet om medisinsk obduksjon etter [obduksjonslova § 5](lov/2015-05-07-26/§5), skal saman med kravet opplyse omdei næraste pårørande er informerte om atdet er ønskeleg med obduksjon,utteke materiale kan bli brukt til undervisning og forsking,dei har rett til å nekte obduksjon,dei har rett til å nekte bruk av uttatt materiale til undervisning og forsking.dei pårørande har opplyst om dei kjenner til forhold som gir grunn til å tru at avdøde ville ha motsett seg obduksjon eller uttak av biologisk materiale til bruk i undervisning eller forsking.
+Legen som set fram kravet om medisinsk obduksjon etter [obduksjonslova § 5](lov/2015-05-07-26/§5), skal saman med kravet opplyse om
+
+1. dei næraste pårørande er informerte om at
+
+   1. det er ønskeleg med obduksjon,
+   2. utteke materiale kan bli brukt til undervisning og forsking,
+   3. dei har rett til å nekte obduksjon,
+   4. dei har rett til å nekte bruk av uttatt materiale til undervisning og forsking.
+2. dei pårørande har opplyst om dei kjenner til forhold som gir grunn til å tru at avdøde ville ha motsett seg obduksjon eller uttak av biologisk materiale til bruk i undervisning eller forsking.
 
 ### § 4. Behandling av liket og biologisk materiale frå den døde
 
@@ -60,7 +71,11 @@ Universitetet skal undersøke om den avdøde ga uttrykk for andre særskilte øn
 
 Universitetet som har fått utlevert liket, skal sørgje for at liket, og delar av det, blir gitt nummer eller merke slik at det lett kan identifiserast.
 
-Universitetet skal føre oversikt over:lik dei har fått utlevert til bruk i undervisning og forsking,korleis det utleverte liket er brukt i undervisning og forsking ognår liket er overført til gravferd.
+Universitetet skal føre oversikt over:
+
+1. lik dei har fått utlevert til bruk i undervisning og forsking,
+2. korleis det utleverte liket er brukt i undervisning og forsking og
+3. når liket er overført til gravferd.
 
 ### § 8. Bruk av avgjevne lik
 

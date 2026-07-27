@@ -15,7 +15,7 @@ xml_hash: "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande torsk i følgende områder i 2026:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES' statistikkområde 4.I Skagerrak, det vil si utenfor den norske grunnlinjen og videre avgrenset mot vest av en rett linje gjennom fra Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande torsk i følgende områder i 2026:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES' statistikkområde 4.
+2. I Skagerrak, det vil si utenfor den norske grunnlinjen og videre avgrenset mot vest av en rett linje gjennom fra Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
 
 ## § 2. Totalkvoter
 

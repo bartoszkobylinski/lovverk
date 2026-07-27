@@ -15,7 +15,7 @@ xml_hash: "6342464ddf478c3ef76b565b0cae0802ae132e673a04d52401469f5389067374"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,18 @@ Forskriften skal hindre at spenninger og strømmer i elektronisk kommunikasjonsn
 
 ## § 2. Virkeområde
 
-Forskriften gjelder forutstyr til elektronisk kommunikasjonsnett ogetablering og drift av elektronisk kommunikasjonsnett.
+Forskriften gjelder for
+
+1. utstyr til elektronisk kommunikasjonsnett og
+2. etablering og drift av elektronisk kommunikasjonsnett.
 
 Forskriften gjelder ikke for utstyr regulert av [forskrift 20. juni 2000 nr. 628](forskrift/2000-06-20-628) om EØS-krav til radio- og teleterminalutstyr.
 
-Forskriften retter seg moteier av elektronisk kommunikasjonsnettenhver som produserer, markedsfører eller omsetter utstyr til elektronisk kommunikasjonsnett oginstallatør av elektronisk kommunikasjonsnett.
+Forskriften retter seg mot
+
+1. eier av elektronisk kommunikasjonsnett
+2. enhver som produserer, markedsfører eller omsetter utstyr til elektronisk kommunikasjonsnett og
+3. installatør av elektronisk kommunikasjonsnett.
 
 > Endret ved [forskrift 9 juli 2007 nr. 885](forskrift/2007-07-09-885).
 
@@ -84,9 +91,21 @@ Utstyret skal være tydelig merket med fabrikantens navn eller kjennemerke. Ders
 
 Utstyret og dets enkelte deler skal være slik utført at de kan settes sammen og tilkoples på en korrekt og sikker måte.
 
-Utstyret skal være konstruert og produsert på en slik måteat personer og husdyr er forsvarlig beskyttet mot fare for fysisk skade eller andre skader som kan forårsakes av direkte eller indirekte berøringat det ikke kan oppstå temperaturer, lysbuer eller stråling som kan fremkalle fareat personer, husdyr og eiendom er tilfredsstillende beskyttet mot farer av ikke-elektrisk art som erfaringsmessig kan skyldes det elektriske utstyretat utstyrets isolasjon er tilpasset de forhold som kan forutsesat utstyret oppfyller de forventede mekaniske krav slik at personer, husdyr og eiendom ikke utsettes for fareat utstyret kan motstå de ikke-mekaniske påvirkninger som kan forutses på de steder utstyret forventes brukt, slik at personer, husdyr og eiendom ikke utsettes for fare ogat utstyret ikke utsetter personer, husdyr og eiendom for fare ved de overbelastningsforhold og feiltilfeller som kan forutses.
+Utstyret skal være konstruert og produsert på en slik måte
 
-Sikkerhetskravene anses oppfylt dersom utstyret tilfredsstiller sikkerhetskravene ieuropeiske harmoniserte standarder, eller dersom slike standarder ikke finnesgjeldende IEC- eller CEE-publikasjoner for utstyret, vedtatt i henhold til fastsatt prosedyre i EØS, eller dersom heller ikke slike publikasjoner finnesgjeldende standard i fabrikasjonslandet innen EØS, såfremt denne standard oppfyller gjeldende sikkerhetskrav etter denne paragrafen.
+1. at personer og husdyr er forsvarlig beskyttet mot fare for fysisk skade eller andre skader som kan forårsakes av direkte eller indirekte berøring
+2. at det ikke kan oppstå temperaturer, lysbuer eller stråling som kan fremkalle fare
+3. at personer, husdyr og eiendom er tilfredsstillende beskyttet mot farer av ikke-elektrisk art som erfaringsmessig kan skyldes det elektriske utstyret
+4. at utstyrets isolasjon er tilpasset de forhold som kan forutses
+5. at utstyret oppfyller de forventede mekaniske krav slik at personer, husdyr og eiendom ikke utsettes for fare
+6. at utstyret kan motstå de ikke-mekaniske påvirkninger som kan forutses på de steder utstyret forventes brukt, slik at personer, husdyr og eiendom ikke utsettes for fare og
+7. at utstyret ikke utsetter personer, husdyr og eiendom for fare ved de overbelastningsforhold og feiltilfeller som kan forutses.
+
+Sikkerhetskravene anses oppfylt dersom utstyret tilfredsstiller sikkerhetskravene i
+
+1. europeiske harmoniserte standarder, eller dersom slike standarder ikke finnes
+2. gjeldende IEC- eller CEE-publikasjoner for utstyret, vedtatt i henhold til fastsatt prosedyre i EØS, eller dersom heller ikke slike publikasjoner finnes
+3. gjeldende standard i fabrikasjonslandet innen EØS, såfremt denne standard oppfyller gjeldende sikkerhetskrav etter denne paragrafen.
 
 ## § 5a. Spesielle krav til markedsføring og omsetning av terminalutstyr etter [§ 4a](forskrift/2005-09-27-1094/§4a)
 
@@ -98,7 +117,34 @@ Nasjonal kommunikasjonsmyndighet utarbeider veiledning om faremomenter og bruk a
 
 ## § 6. Standarder
 
-Relevante standarder erNEK 400 Elektriske lavspenningsinstallasjonerREN (Rasjonell elektrisk nettvirksomhet) Spesifikasjoner vedrørende fellesføring i luft og jordNEK-EN 50083-1/NEK-EN 60728-11 Kablede overføringssystemer for fjernsyns-, lyd og interaktive tjenester – Del 1: SikkerhetskravNEK-EN 50174-1 Informasjonsteknologi – Kablingsinstallasjoner Del 1: Spesifikasjon og kvalitetssikringNEK-EN 50174-2 Informasjonsteknologi – Kablingsinstallasjoner Del 2: Planlegging og utførelse av installasjoner i bygningerNEK-EN 50174-3 Informasjonsteknologi – Kablingsinstallasjoner Del 3: Planlegging og utførelse av installasjoner utenfor bygningerNEK-EN 50310 Application of equipotential bonding and earthing at premises with information technology equipmentNEK-EN 60950-serien Information technology equipment – SafetyNEK-EN TR 62102 Electrical safety – Classification of interfaces for equipment to be connected to information and communications technology networksNS-EN-300.253 Earthing and bonding of telecommunication equipment in telecommunication centresNEK-EN 61663-1 Lightning Protection – Telecommunication lines – Part 1: Fibre optics installationsNEK-EN 61663-2 Lightning Protection – Telecommunication lines – Part 2: Lines using metallic conductorsITU-T K.8 Separation in the soil between telecommunication cables and earthing system of power facilitiesITU-T K.12 Characteristics of gas discharge tubes for the protection of telecommunications installationsITU-T K.26 Protection of telecommunication lines against harmful effects from electric power and electrified railway linesITU-T K.27 Bonding configurations and earthing inside a telecommunication buildingITU-T K.31 Bonding configurations and earthing of telecommunication installations inside a subscriber's buildingITU-T K.35 Bonding configuration and earthing at remote electronic sitesITU-T K.44 Resistibility tests for telecommunication equipment exposed to overvoltages and overcurrents – basic recommendationITU-T K.45 Resistibility of telecommunication equipment installed in the access and trunk networks to overvoltages and overcurrentsITU-T K.51 Safety criteria for telecommunication equipmentITU-T K.56 Protection of radio base stations against lightning dischargesITU-T K.57 Protection measures for radio base stations sited on power line towersITU-T K.58 EMC, resistibility and safety requirements and procedures for co-located telecommunication installationsITU-T K.59 EMC, resistibility and safety requirements and procedures for co-located telecommunication for connection to unbundled cablesITU-T K.68 Management of electromagnetic interference on telecommunication systems due to power systems.
+Relevante standarder er
+
+1. NEK 400 Elektriske lavspenningsinstallasjoner
+2. REN (Rasjonell elektrisk nettvirksomhet) Spesifikasjoner vedrørende fellesføring i luft og jord
+3. NEK-EN 50083-1/NEK-EN 60728-11 Kablede overføringssystemer for fjernsyns-, lyd og interaktive tjenester – Del 1: Sikkerhetskrav
+4. NEK-EN 50174-1 Informasjonsteknologi – Kablingsinstallasjoner Del 1: Spesifikasjon og kvalitetssikring
+5. NEK-EN 50174-2 Informasjonsteknologi – Kablingsinstallasjoner Del 2: Planlegging og utførelse av installasjoner i bygninger
+6. NEK-EN 50174-3 Informasjonsteknologi – Kablingsinstallasjoner Del 3: Planlegging og utførelse av installasjoner utenfor bygninger
+7. NEK-EN 50310 Application of equipotential bonding and earthing at premises with information technology equipment
+8. NEK-EN 60950-serien Information technology equipment – Safety
+9. NEK-EN TR 62102 Electrical safety – Classification of interfaces for equipment to be connected to information and communications technology networks
+10. NS-EN-300.253 Earthing and bonding of telecommunication equipment in telecommunication centres
+11. NEK-EN 61663-1 Lightning Protection – Telecommunication lines – Part 1: Fibre optics installations
+12. NEK-EN 61663-2 Lightning Protection – Telecommunication lines – Part 2: Lines using metallic conductors
+13. ITU-T K.8 Separation in the soil between telecommunication cables and earthing system of power facilities
+14. ITU-T K.12 Characteristics of gas discharge tubes for the protection of telecommunications installations
+15. ITU-T K.26 Protection of telecommunication lines against harmful effects from electric power and electrified railway lines
+16. ITU-T K.27 Bonding configurations and earthing inside a telecommunication building
+17. ITU-T K.31 Bonding configurations and earthing of telecommunication installations inside a subscriber's building
+18. ITU-T K.35 Bonding configuration and earthing at remote electronic sites
+19. ITU-T K.44 Resistibility tests for telecommunication equipment exposed to overvoltages and overcurrents – basic recommendation
+20. ITU-T K.45 Resistibility of telecommunication equipment installed in the access and trunk networks to overvoltages and overcurrents
+21. ITU-T K.51 Safety criteria for telecommunication equipment
+22. ITU-T K.56 Protection of radio base stations against lightning discharges
+23. ITU-T K.57 Protection measures for radio base stations sited on power line towers
+24. ITU-T K.58 EMC, resistibility and safety requirements and procedures for co-located telecommunication installations
+25. ITU-T K.59 EMC, resistibility and safety requirements and procedures for co-located telecommunication for connection to unbundled cables
+26. ITU-T K.68 Management of electromagnetic interference on telecommunication systems due to power systems.
 
 > Endret ved [forskrift 9 juli 2007 nr. 885](forskrift/2007-07-09-885).
 
@@ -150,15 +196,36 @@ Dersom det i elektronisk kommunikasjonsnett nyttes overspenningsvern mellom lede
 
 Eier skal dokumentere hvilke standarder som er fulgt, og at sikkerhetskravene er oppfylt. Dersom andre spesifikasjoner enn relevante standarder etter [§ 6](forskrift/2005-09-27-1094/§6) er lagt til grunn, skal det dokumenteres hvilke spesifikasjoner som er nyttet og at disse gir tilsvarende sikkerhet. Dokumentasjonen skal oppbevares så lenge nettet er i drift. Dokumentasjonen skal være tilgjengelig ved tilsyn, jf. [§ 14](forskrift/2005-09-27-1094/§14).
 
-Dersom elektriske produksjons-, distribusjons- og baneanlegg forårsaker at grenseverdiene i [§ 8](forskrift/2005-09-27-1094/§8) overstiges, skal det utarbeides dokumentasjon som skal omfattenettenes beliggenhet i forhold til hverandre i kartformatbenyttet jordresistivitet eller jordingsmotstand for beregningeneaktuelle feilstrømdataberegnede spenningereventuelle målte spenninger oggjennomførte vernetiltak.
+Dersom elektriske produksjons-, distribusjons- og baneanlegg forårsaker at grenseverdiene i [§ 8](forskrift/2005-09-27-1094/§8) overstiges, skal det utarbeides dokumentasjon som skal omfatte
+
+1. nettenes beliggenhet i forhold til hverandre i kartformat
+2. benyttet jordresistivitet eller jordingsmotstand for beregningene
+3. aktuelle feilstrømdata
+4. beregnede spenninger
+5. eventuelle målte spenninger og
+6. gjennomførte vernetiltak.
 
 ## § 10. Dokumentasjon av utstyr
 
 Det skal utarbeides dokumentasjon som viser at sikkerhetskravene er oppfylt. Den skal bygge på prosedyren for intern produksjonskontroll. Intern produksjonskontroll er den fremgangsmåte hvor produsenten eller produsentens ansvarlige representant innen EØS forsikrer seg om og erklærer at utstyret tilfredsstiller kravene i disse forskriftene. Produsenten eller dennes ansvarlige representant innen EØS skal påføre CE-merking på hvert utstyr i samsvar med reglene i [§ 11](forskrift/2005-09-27-1094/§11) dersom det er relevant.
 
-Produsenten eller produsentens ansvarlige representant innen EØS skal utarbeide samsvarserklæring som skal innholdenavn og adresse til produsenten eller dennes ansvarlige representant innen EØSbeskrivelse av utstyret som entydig identifiserer det, herunder produsentens navn eller kjennemerke, typebetegnelse etc.entydig identitet av harmoniserte standarder som helt eller delvis er anvendt, eller andre tekniske spesifikasjoner som utstyret tilfredsstiller i tilfelle standarder ikke er anvendtforsikring om at utstyret oppfyller standardene under punkt c eller kravene til sikkerhet i forskriftenunderskrift med nødvendig identifikasjon av den person som er gitt fullmakt til å undertegne på vegne av produsenten eller dennes representant innen EØS ogdato for underskriften.
+Produsenten eller produsentens ansvarlige representant innen EØS skal utarbeide samsvarserklæring som skal innholde
 
-Som underlag for samsvarserklæringen skal produsenten utarbeide en teknisk dokumentasjon som gjør det mulig å vurdere om utstyret er i samsvar med kravene i forskriften. Dokumentasjonen skal i den grad det er nødvendig for vurderingen, dekke utstyrets konstruksjon, produksjon og funksjon. Dokumentasjonen skal omfatteen generell beskrivelse av utstyretkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og utstyrets virkemåteen liste over standarder, anvendt i sin helhet eller delvis og en beskrivelse av løsninger som er valgt for å oppfylle de overordnede kravene i forskriften når standarder ikke er anvendtresultatene av konstruksjonsberegninger og undersøkelser osv. ogprøverapporter.
+1. navn og adresse til produsenten eller dennes ansvarlige representant innen EØS
+2. beskrivelse av utstyret som entydig identifiserer det, herunder produsentens navn eller kjennemerke, typebetegnelse etc.
+3. entydig identitet av harmoniserte standarder som helt eller delvis er anvendt, eller andre tekniske spesifikasjoner som utstyret tilfredsstiller i tilfelle standarder ikke er anvendt
+4. forsikring om at utstyret oppfyller standardene under punkt c eller kravene til sikkerhet i forskriften
+5. underskrift med nødvendig identifikasjon av den person som er gitt fullmakt til å undertegne på vegne av produsenten eller dennes representant innen EØS og
+6. dato for underskriften.
+
+Som underlag for samsvarserklæringen skal produsenten utarbeide en teknisk dokumentasjon som gjør det mulig å vurdere om utstyret er i samsvar med kravene i forskriften. Dokumentasjonen skal i den grad det er nødvendig for vurderingen, dekke utstyrets konstruksjon, produksjon og funksjon. Dokumentasjonen skal omfatte
+
+1. en generell beskrivelse av utstyret
+2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.
+3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og utstyrets virkemåte
+4. en liste over standarder, anvendt i sin helhet eller delvis og en beskrivelse av løsninger som er valgt for å oppfylle de overordnede kravene i forskriften når standarder ikke er anvendt
+5. resultatene av konstruksjonsberegninger og undersøkelser osv. og
+6. prøverapporter.
 
 Produsenten skal gjennomføre nødvendige tiltak slik at produksjonsprosessen sikrer at utstyret er i samsvar med kravene i forskriften.
 
@@ -182,7 +249,16 @@ Enhver annen merking kan påføres utstyret, emballasjen, bruksanvisningen eller
 
 Eier av registreringspliktig nett i henhold til [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 2-1](lov/2024-12-13-76/§2-1), skal etablere internkontroll for å overvåke at kravene i denne forskriften der tilfredsstilt.
 
-Internkontroll innebærer at den ansvarlige for virksomheten skalbeskrive virksomhetens hovedoppgaver og mål, herunder mål for forbedringsarbeid og hvordan virksomheten er organisert. Det skal klart fremgå hvordan ansvar, oppgaver og myndighet er fordeltsikre tilgang til aktuelle lover og forskrifter som gjelder for virksomhetensørge for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagfeltet og kunnskap om virksomhetens internkontrollskaffe oversikt over områder i virksomheten hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskravutvikle, iverksette, kontrollere, evaluere og forbedre nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av denne forskrift ogforeta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.Det skal utarbeides rapport som skal inneholde dokumentasjon på punktene a-f. Rapporten skal sendes Nasjonal kommunikasjonsmyndighet på anmodning.
+Internkontroll innebærer at den ansvarlige for virksomheten skal
+
+1. beskrive virksomhetens hovedoppgaver og mål, herunder mål for forbedringsarbeid og hvordan virksomheten er organisert. Det skal klart fremgå hvordan ansvar, oppgaver og myndighet er fordelt
+2. sikre tilgang til aktuelle lover og forskrifter som gjelder for virksomheten
+3. sørge for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagfeltet og kunnskap om virksomhetens internkontroll
+4. skaffe oversikt over områder i virksomheten hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav
+5. utvikle, iverksette, kontrollere, evaluere og forbedre nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av denne forskrift og
+6. foreta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+
+Det skal utarbeides rapport som skal inneholde dokumentasjon på punktene a-f. Rapporten skal sendes Nasjonal kommunikasjonsmyndighet på anmodning.
 
 Internkontrollrutiner med tilhørende dokumentasjon skal til enhver tid være oppdatert og oppbevares så lenge nettet er i drift. Dokumentasjonen skal være tilgjengelig ved tilsyn, jf. [§ 14](forskrift/2005-09-27-1094/§14).
 

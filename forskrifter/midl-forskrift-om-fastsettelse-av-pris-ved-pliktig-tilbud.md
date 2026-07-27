@@ -26,7 +26,12 @@ eu_basis: []
 
 (1) Tilbudsmyndigheten kan endre den tilbudspris som følger av [verdipapirhandelloven § 6-10](lov/2007-06-29-75/§6-10) fjerde ledd første punktum, dersom tilbudsplikt utløses i forbindelse med tilførsel av egenkapital til et selskap i alvorlige finansielle vanskeligheter.
 
-(2) Tilbudsprisen etter første ledd skal fastsettes til:den høyeste prisen tilbyder har betalt eller avtalt ved det ervervet som utløser tilbudsplikt, eller erverv som foretas i nær sammenheng med dette,elleren høyere pris enn etter bokstav a som tilbyder har betalt eller avtalt i perioden 6 måneder før tilbudsplikten inntrådte dersom prisen ikke i urimelig grad avviker fra observerbare omsetningspriser da tilbudsplikten inntrådte, på tidspunktet da avtale om erverv som vil utløse tilbudsplikt ble inngått, eller erverv som foretas i nær sammenheng med dette.
+(2) Tilbudsprisen etter første ledd skal fastsettes til:
+
+1. den høyeste prisen tilbyder har betalt eller avtalt ved det ervervet som utløser tilbudsplikt, eller erverv som foretas i nær sammenheng med dette,
+
+   eller
+2. en høyere pris enn etter bokstav a som tilbyder har betalt eller avtalt i perioden 6 måneder før tilbudsplikten inntrådte dersom prisen ikke i urimelig grad avviker fra observerbare omsetningspriser da tilbudsplikten inntrådte, på tidspunktet da avtale om erverv som vil utløse tilbudsplikt ble inngått, eller erverv som foretas i nær sammenheng med dette.
 
 (3) Dersom prisen fastsatt etter reglene i annet ledd klart fremstår som urimelig lav, kan tilbudsmyndigheten isteden fastsette tilbudsprisen i første ledd i samsvar med alminnelig anerkjente objektive kriterier for verdsettelse av aksjer, herunder ved observasjon av omsetningspriser for en representativ periode. I vurderingen av om prisen klart fremstår som urimelig lav, kan tilbudsmyndigheten blant annet legge vekt på differanse mot observerbare omsetningspriser og vilkårene og kriteriene benyttet ved tilførsel av egenkapital til selskapet.
 

@@ -62,9 +62,16 @@ Kriminalomsorgen bistår domfelte med å kontakte primærhelsetjenesten eller so
 
 ## § 7. Krav til domfelte ved gjennomføringen
 
-Den domfelte skal gjennomføre programmet etter nærmere anvisning fra kriminalomsorgen. Den domfelte skalmøte til fastsatt tid og sted til alle avtalervære upåvirket av berusende eller bedøvende midler, med mindre medikamentene er foreskrevet av lege som tiltak i et behandlingsopplegggi opplysninger om sitt bosted og andre forhold av betydning for gjennomføringen av programmet.
+Den domfelte skal gjennomføre programmet etter nærmere anvisning fra kriminalomsorgen. Den domfelte skal
 
-Den domfelte skal ikke vise en atferd som kantrue sikkerheten til personer som deltar under gjennomføringenpåvirke miljøet på en særlig negativ måte.
+1. møte til fastsatt tid og sted til alle avtaler
+2. være upåvirket av berusende eller bedøvende midler, med mindre medikamentene er foreskrevet av lege som tiltak i et behandlingsopplegg
+3. gi opplysninger om sitt bosted og andre forhold av betydning for gjennomføringen av programmet.
+
+Den domfelte skal ikke vise en atferd som kan
+
+1. true sikkerheten til personer som deltar under gjennomføringen
+2. påvirke miljøet på en særlig negativ måte.
 
 Domfelte skal selv dekke reiseutgiftene ved gjennomføring av programmet. Kriminalomsorgen skal dekke utgiftene dersom domfelte ikke selv har midler.
 

@@ -15,7 +15,7 @@ xml_hash: "237feab16b5826fff22480faa3f3502eeb7b54284e352805300e742daaba7bb8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,17 @@ Husbanken kan ettergje krav om å betala tilbake lån eller tilskot dersom det i
 
 ## § 10. Innhenting og handsaming av personopplysningar i samband med tilskot og lån
 
-Når det er naudsynt for sakshandsaminga, kan Husbanken og kommunane utan hinder av teieplikt henta inn og handsamaopplysningar om namn, adresse, telefonnummer, e-postadresse, kundenummer og reservasjonsstatus for digital post, kontonummer, målform og fødselsnummeropplysningar om eventuell verje og den rettslege handleevna til søkjaren i økonomiske tilhøveopplysningar om inntekt, formue, skatt og gjeld, medrekna opplysningar om inntekt frå Arbeids- og velferdsetatenandre opplysningar om økonomiske tilhøveopplysningar om offentlege ytingaropplysningar om arbeidstilhøveopplysningar om opphaldsløyve og opphaldsrett, og bakgrunnen for gjevne løyve og rettaropplysningar om bustad, butilhøve og sosiale tilhøveopplysningar om utdanninga til søkjaren.
+Når det er naudsynt for sakshandsaminga, kan Husbanken og kommunane utan hinder av teieplikt henta inn og handsama
+
+1. opplysningar om namn, adresse, telefonnummer, e-postadresse, kundenummer og reservasjonsstatus for digital post, kontonummer, målform og fødselsnummer
+2. opplysningar om eventuell verje og den rettslege handleevna til søkjaren i økonomiske tilhøve
+3. opplysningar om inntekt, formue, skatt og gjeld, medrekna opplysningar om inntekt frå Arbeids- og velferdsetaten
+4. andre opplysningar om økonomiske tilhøve
+5. opplysningar om offentlege ytingar
+6. opplysningar om arbeidstilhøve
+7. opplysningar om opphaldsløyve og opphaldsrett, og bakgrunnen for gjevne løyve og rettar
+8. opplysningar om bustad, butilhøve og sosiale tilhøve
+9. opplysningar om utdanninga til søkjaren.
 
 Opplysningane som er nemnde i fyrste leddet, kan òg verta henta inn og handsama dersom dei er naudsynte for å forvalta løyvde tilskot og lån.
 

@@ -28,11 +28,20 @@ Tilskuddsordningen skal bidra til å sikre og utvikle bestander av ville anadrom
 
 ## § 2. Tildelingskriterier
 
-Frivillige organisasjoner, forskningsinstitusjoner, kommuner og interkommunale organ kan få tilskudd tilinformasjon om og forvaltning av villaks, sjøørret og sjørøyeanvendt forskning og overvåkingtiltak som bedrer tilgangen til og muligheten for fiske for allmennhetentiltak rettet mot rekruttering til eller stimulering til fiske.
+Frivillige organisasjoner, forskningsinstitusjoner, kommuner og interkommunale organ kan få tilskudd til
+
+1. informasjon om og forvaltning av villaks, sjøørret og sjørøye
+2. anvendt forskning og overvåking
+3. tiltak som bedrer tilgangen til og muligheten for fiske for allmennheten
+4. tiltak rettet mot rekruttering til eller stimulering til fiske.
 
 ## § 3. Krav til søknaden
 
-Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter innen de søknadsfristene som blir kunngjort i Klima- og miljødepartementets årlige rundskriv for tilskuddsordninger. Organet som mottar søknaden kan kreve at søknaden er basert på en ferdig driftsplan eller stille som vilkår at det blir utarbeidet en driftsplan. Søknaden skal dokumentere at tiltak som innebærer fysiske inngrep i naturen ikke er i strid med godkjent kommunal plan eller kommunalt vedtak. Dersom søknaden gjelderflere prosjekt, må hvert prosjekt spesifiserestilskudd til tekniske fiskeforsterkingstiltak, skal den inneholde opplysninger om området der tiltaket er lokalisert, blant annet geografisk navn, vassdrag og arealkategori i kommuneplan eller reguleringsplantilskudd til fiskekultiveringstiltak og tekniske fiskeforsterkingstiltak, skal det legges ved en tillatelse fra grunneier, uttalelse fra kommunen og uttalelse og eventuelt tillatelse fra Norges vassdrags- og energidirektorat eller fylkesmannen.
+Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter innen de søknadsfristene som blir kunngjort i Klima- og miljødepartementets årlige rundskriv for tilskuddsordninger. Organet som mottar søknaden kan kreve at søknaden er basert på en ferdig driftsplan eller stille som vilkår at det blir utarbeidet en driftsplan. Søknaden skal dokumentere at tiltak som innebærer fysiske inngrep i naturen ikke er i strid med godkjent kommunal plan eller kommunalt vedtak. Dersom søknaden gjelder
+
+1. flere prosjekt, må hvert prosjekt spesifiseres
+2. tilskudd til tekniske fiskeforsterkingstiltak, skal den inneholde opplysninger om området der tiltaket er lokalisert, blant annet geografisk navn, vassdrag og arealkategori i kommuneplan eller reguleringsplan
+3. tilskudd til fiskekultiveringstiltak og tekniske fiskeforsterkingstiltak, skal det legges ved en tillatelse fra grunneier, uttalelse fra kommunen og uttalelse og eventuelt tillatelse fra Norges vassdrags- og energidirektorat eller fylkesmannen.
 
 Organet som mottar søknaden kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
 

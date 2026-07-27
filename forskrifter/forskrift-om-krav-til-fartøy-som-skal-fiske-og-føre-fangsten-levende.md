@@ -34,7 +34,14 @@ Denne forskrift gjelder alle fartøy som fisker og fører levende fisk av andre 
 
 ## § 3. Generelt om utstyr og innretninger om bord
 
-Utstyr og innretninger om bord skal:ikke ha vinkler, kanter, fremspring eller materiale som kan påføre fisken skader eller unødvendige belastninger,være tilpasset fiskens størrelse,medføre minimal risiko for skade på fisken, herunder ved håndtering,være slik at det er enkelt å foreta inspeksjon av fisken,være tilrettelagt for godt renhold, ogvære godt egnet for stedet de skal brukes, under hensyn til bl.a. værforholdene.
+Utstyr og innretninger om bord skal:
+
+1. ikke ha vinkler, kanter, fremspring eller materiale som kan påføre fisken skader eller unødvendige belastninger,
+2. være tilpasset fiskens størrelse,
+3. medføre minimal risiko for skade på fisken, herunder ved håndtering,
+4. være slik at det er enkelt å foreta inspeksjon av fisken,
+5. være tilrettelagt for godt renhold, og
+6. være godt egnet for stedet de skal brukes, under hensyn til bl.a. værforholdene.
 
 ## § 4. Krav til utstyr som brukes til å ta fisk om bord
 

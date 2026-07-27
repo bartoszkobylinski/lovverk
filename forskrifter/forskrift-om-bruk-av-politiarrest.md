@@ -30,7 +30,11 @@ Forskriften gjelder for bruk av politiets arrester og kommer til anvendelse uavh
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med:*politidistriktets primærarrest:* den arresten som er lokalisert på samme sted som politidistriktets døgnbemannede operative ledelse,*politidistriktets sekundærarrest:* arrester som på grunn av avstanden til politidistriktets primærarrest må anvendes tilnærmet jevnlig som politiarrest,*avhørsventerom:* arrester som er tiltenkt midlertidig opphold for arrestanter i en kort ventesituasjon.
+I denne forskrift menes med:
+
+1. *politidistriktets primærarrest:* den arresten som er lokalisert på samme sted som politidistriktets døgnbemannede operative ledelse,
+2. *politidistriktets sekundærarrest:* arrester som på grunn av avstanden til politidistriktets primærarrest må anvendes tilnærmet jevnlig som politiarrest,
+3. *avhørsventerom:* arrester som er tiltenkt midlertidig opphold for arrestanter i en kort ventesituasjon.
 
 ## Kapittel 2. Alminnelige regler om forholdene i politiarrest
 
@@ -118,7 +122,14 @@ Politimesteren skal sørge for at det foretas tilsyn og inspeksjoner av politiar
 
 Politidirektoratet, lokal statsadvokat og en uavhengig representant oppnevnt etter forslag fra Advokatforeningen, utgjør tilsynsutvalget, og skal føre tilsyn med politiarrestene. Herunder kan tilsynsutvalget gjennomføre inspeksjon (tilsynsbesøk) etter behov.
 
-Tilsynsutvalget skal bl.a. påse atpolitiarrestene er i samsvar med gjeldende lover, forskrifter, retningslinjer og lokale instrukser,overføring fra politiarrest til fengsel skjer i samsvar med bestemmelsene i [§ 3-1](forskrift/2006-06-30-749/§3-1),politiarrestenes lokaler, utstyr mv. er i samsvar med gjeldende krav,det utføres inspeksjoner av arrestene i henhold til gjeldende regelverk og instrukser, herunder journalføring, rapportering mv.,eventuell bruk av tvangsmidler skjer i henhold til regelverket,politiarrestene har tilfredsstillende ordning for helsetjeneste i arrestene, herunder omfang, metode, journalføring mv.
+Tilsynsutvalget skal bl.a. påse at
+
+1. politiarrestene er i samsvar med gjeldende lover, forskrifter, retningslinjer og lokale instrukser,
+2. overføring fra politiarrest til fengsel skjer i samsvar med bestemmelsene i [§ 3-1](forskrift/2006-06-30-749/§3-1),
+3. politiarrestenes lokaler, utstyr mv. er i samsvar med gjeldende krav,
+4. det utføres inspeksjoner av arrestene i henhold til gjeldende regelverk og instrukser, herunder journalføring, rapportering mv.,
+5. eventuell bruk av tvangsmidler skjer i henhold til regelverket,
+6. politiarrestene har tilfredsstillende ordning for helsetjeneste i arrestene, herunder omfang, metode, journalføring mv.
 
 > Endret ved [forskrift 24 mai 2013 nr. 522](forskrift/2013-05-24-522) (i kraft 1 juli 2013).
 
@@ -132,7 +143,11 @@ Tilsynsutvalget skal sette opp skriftlig rapport for hver inspeksjon (tilsynsbes
 
 ### § 5-1. Retningslinjer
 
-Politidirektoratet gir nærmere retningslinjer til gjennomføring av denne forskriften, herunder:utforming av politidistriktets arrester samt for installering og bruk av kommunikasjons-, overvåknings- og sikkerhetsutstyr, jf. [§ 2-1](forskrift/2006-06-30-749/§2-1).innhold, føring og kontroll av arrestjournal, jf. [§ 2-2](forskrift/2006-06-30-749/§2-2).journalføring av lokalt tilsyn, jf. [§ 4-1](forskrift/2006-06-30-749/§4-1).
+Politidirektoratet gir nærmere retningslinjer til gjennomføring av denne forskriften, herunder:
+
+1. utforming av politidistriktets arrester samt for installering og bruk av kommunikasjons-, overvåknings- og sikkerhetsutstyr, jf. [§ 2-1](forskrift/2006-06-30-749/§2-1).
+2. innhold, føring og kontroll av arrestjournal, jf. [§ 2-2](forskrift/2006-06-30-749/§2-2).
+3. journalføring av lokalt tilsyn, jf. [§ 4-1](forskrift/2006-06-30-749/§4-1).
 
 ### § 5-2. Ikrafttredelse
 

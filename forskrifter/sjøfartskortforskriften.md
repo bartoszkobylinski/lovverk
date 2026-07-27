@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder:norsk statsborgers rett til norsk sjøfartskort (sjøfartskort)norsk sjøfartsbok utstedt med hjemmel i [forskrift 25. november 1988 nr. 940 om kontroll av maritim tjeneste](forskrift/1988-11-25-940) (sjøfartsbok)krav om identitetsbevis for den som har sitt arbeid om bord på norsk skip eller flyttbar innretning.
+Forskriften gjelder:
+
+1. norsk statsborgers rett til norsk sjøfartskort (sjøfartskort)
+2. norsk sjøfartsbok utstedt med hjemmel i [forskrift 25. november 1988 nr. 940 om kontroll av maritim tjeneste](forskrift/1988-11-25-940) (sjøfartsbok)
+3. krav om identitetsbevis for den som har sitt arbeid om bord på norsk skip eller flyttbar innretning.
 
 ## § 2. Rett til sjøfartskort
 
@@ -40,7 +44,13 @@ Sjøfartskortets utseende eller innhold skal ikke endres av andre enn Sjøfartsd
 
 Norsk statsborger som har sitt arbeid om bord på skip eller flyttbar innretning, kan få utstedt sjøfartskort ved å sende søknad i Sjøfartsdirektoratets database.
 
-Søkeren skal oppgi følgende opplysninger i databasen:søkerens folkeregistrerte identitet skal oppgis, inkludert fullt navn, statsborgerskap, fødselsdato, fødselsnummer og fødested. Opplysningene skal samsvare med personopplysningene i søkerens pass eller nasjonale ID-kort med reiserettsøkerens sist utstedte gyldige maskinlesbare pass eller nasjonale ID-kort med reiserett skal benyttes for identifisering. Bilde eller kopi av dokumentets sider med ansiktsfoto, navnetrekk og høyde skal lastes oppbilde av søkeren som oppfyller kravene til ansiktsfoto i pass og nasjonale ID-kort med reiserett, skal lastes opp. Bildet skal oppfylle ICAOs standard for kvalitet, blant annet krav til bakgrunn, belysning og ansiktsuttrykk. Hele ansiktet skal være avbildet. Begge øyne, øyenbryn og ører skal være synlige. Briller og hodeplagg skal ikke brukes. Personer kan av religiøse eller andre særlige grunner, for eksempel ved sykdom, bruke hodeplagg på bildet når det er grunn til å anta at tilsvarende hodeplagg vil bli brukt i fremtidige kontroller. Hodeplagget skal ikke dekke deler av ansiktet eller mer av hodet enn nødvendigbilde av søkerens navnetrekk skal lastes opp. Navnetrekket skal ligne mest mulig på navnetrekket i søkerens pass eller nasjonale ID-kort med reiserett og være av god kvalitet, slik at det er enkelt å tyde på sjøfartskortetegenerklæring om at opplysningene i søknaden er korrekte og at søkeren har sitt arbeid om bord på fartøy, skal bekreftes.
+Søkeren skal oppgi følgende opplysninger i databasen:
+
+1. søkerens folkeregistrerte identitet skal oppgis, inkludert fullt navn, statsborgerskap, fødselsdato, fødselsnummer og fødested. Opplysningene skal samsvare med personopplysningene i søkerens pass eller nasjonale ID-kort med reiserett
+2. søkerens sist utstedte gyldige maskinlesbare pass eller nasjonale ID-kort med reiserett skal benyttes for identifisering. Bilde eller kopi av dokumentets sider med ansiktsfoto, navnetrekk og høyde skal lastes opp
+3. bilde av søkeren som oppfyller kravene til ansiktsfoto i pass og nasjonale ID-kort med reiserett, skal lastes opp. Bildet skal oppfylle ICAOs standard for kvalitet, blant annet krav til bakgrunn, belysning og ansiktsuttrykk. Hele ansiktet skal være avbildet. Begge øyne, øyenbryn og ører skal være synlige. Briller og hodeplagg skal ikke brukes. Personer kan av religiøse eller andre særlige grunner, for eksempel ved sykdom, bruke hodeplagg på bildet når det er grunn til å anta at tilsvarende hodeplagg vil bli brukt i fremtidige kontroller. Hodeplagget skal ikke dekke deler av ansiktet eller mer av hodet enn nødvendig
+4. bilde av søkerens navnetrekk skal lastes opp. Navnetrekket skal ligne mest mulig på navnetrekket i søkerens pass eller nasjonale ID-kort med reiserett og være av god kvalitet, slik at det er enkelt å tyde på sjøfartskortet
+5. egenerklæring om at opplysningene i søknaden er korrekte og at søkeren har sitt arbeid om bord på fartøy, skal bekreftes.
 
 ## § 5. Gyldighetstid for sjøfartskort
 
@@ -62,11 +72,21 @@ Det utstedes ikke duplikat til erstatning for tapt sjøfartsbok.
 
 Søknad om fornyelse av sjøfartskort skal følge søknadsprosessen i [§ 4](forskrift/2026-05-13-827/§4). Det samme gjelder ved søknad om sjøfartskort når opplysninger som lå til grunn for det sist utstedte sjøfartskortet eller sjøfartsboken, var feil eller ikke lenger er korrekte.
 
-På søknadstidspunktet skal ett av følgende vilkår være oppfylt for søkerens sist utstedte sjøfartskort eller sjøfartsbok:dokumentet er utgått på datodokumentet har mindre enn seks måneder igjen til utløpsdatodokumentet er meldt tapt til Sjøfartsdirektoratetdokumentet er meldt ugyldig til Sjøfartsdirektoratet fordi opplysninger som lå til grunn for utstedelsen av sjøfartskortet eller sjøfartsboken, ikke var, eller lenger er, korrekte.
+På søknadstidspunktet skal ett av følgende vilkår være oppfylt for søkerens sist utstedte sjøfartskort eller sjøfartsbok:
+
+1. dokumentet er utgått på dato
+2. dokumentet har mindre enn seks måneder igjen til utløpsdato
+3. dokumentet er meldt tapt til Sjøfartsdirektoratet
+4. dokumentet er meldt ugyldig til Sjøfartsdirektoratet fordi opplysninger som lå til grunn for utstedelsen av sjøfartskortet eller sjøfartsboken, ikke var, eller lenger er, korrekte.
 
 ## § 9. Tilbakekall av sjøfartskort
 
-Sjøfartskort kan tilbakekalles nåropplysninger som lå til grunn for utstedelsen av dokumentet, ikke var, eller lenger er, korrektedokumentets utseende eller innhold er endretdokumentet er skadet eller slitt eller av andre årsaker ikke er egnet som identitetsbevisdokumentet er kommet i uvedkommende persons besittelse.
+Sjøfartskort kan tilbakekalles når
+
+1. opplysninger som lå til grunn for utstedelsen av dokumentet, ikke var, eller lenger er, korrekte
+2. dokumentets utseende eller innhold er endret
+3. dokumentet er skadet eller slitt eller av andre årsaker ikke er egnet som identitetsbevis
+4. dokumentet er kommet i uvedkommende persons besittelse.
 
 Kortet skal innleveres til Sjøfartsdirektoratet når det er fattet vedtak om tilbakekall av sjøfartskort etter første ledd.
 
@@ -78,7 +98,12 @@ Søkeren har straffansvar etter [straffeloven § 202](lov/2005-05-20-28/§202) o
 
 Rederiet skal påse at identiteten til den som har sitt arbeid om bord på norsk fartøy, er tilstrekkelig dokumentert og kontrollert før tiltredelse om bord.
 
-Kontroll skal skje ved fremvisning av gyldig identitetsbevis, som kan væresjøfartskortsjøfartsbokutenlandsk identitetsbevis som er i samsvar med ILO-konvensjon nr. 108 om sjøfolks identitetsbevis eller ILO-konvensjon nr. 185 om sjøfolks identitetsbevispass, nasjonalt ID-kort med reiserett eller tilsvarende identitetsbevis med reiserett.
+Kontroll skal skje ved fremvisning av gyldig identitetsbevis, som kan være
+
+1. sjøfartskort
+2. sjøfartsbok
+3. utenlandsk identitetsbevis som er i samsvar med ILO-konvensjon nr. 108 om sjøfolks identitetsbevis eller ILO-konvensjon nr. 185 om sjøfolks identitetsbevis
+4. pass, nasjonalt ID-kort med reiserett eller tilsvarende identitetsbevis med reiserett.
 
 ## § 12. Dispensasjon
 

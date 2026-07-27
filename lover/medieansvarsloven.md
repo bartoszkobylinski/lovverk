@@ -15,7 +15,7 @@ xml_hash: "92563df8a3109cc6b31189ebe5c3f63585d838f068c3cd1203f37189b2b5a48f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Loven gjelder ikke for medier som har markedsføring som hovedformål.
 
 ### § 3. Definisjoner
 
-I denne lov forstås medredaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.
+I denne lov forstås med
+
+1. redaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.
+2. utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.
+3. redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.
+4. brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.
 
 ## Kapittel 2 Plikter ved publisering
 

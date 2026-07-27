@@ -34,7 +34,11 @@ Kultur- og likestillingsdepartementet, eller den departementet gir fullmakt, for
 
 ## § 3. Hva det kan fordeles midler til
 
-Det kan fordeles midler til følgende idrettsformål:bygging og rehabilitering av anlegg for idrett og fysisk aktivitetNorges Idrettsforbund og olympiske og paralympiske komitéandre idrettsformål.
+Det kan fordeles midler til følgende idrettsformål:
+
+1. bygging og rehabilitering av anlegg for idrett og fysisk aktivitet
+2. Norges Idrettsforbund og olympiske og paralympiske komité
+3. andre idrettsformål.
 
 Kultur- og likestillingsdepartementet fastsetter nærmere bestemmelser for tildeling av tilskudd.
 

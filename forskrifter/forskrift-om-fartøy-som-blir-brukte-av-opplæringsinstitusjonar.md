@@ -42,7 +42,14 @@ På område der det ikkje er gitt særlege reglar i denne forskrifta, skal fart�
 
 ### § 4. Tryggleiksstyringssystem
 
-Reiarlaget skal etablere, gjennomføre og vidareutvikle eit dokumenterbart tryggleiksstyringssystem som minimum inneheldskildring av verksemda og operasjonsområdet med eventuelle beskytta område der fartøy kan søke ly (naudhamner)skildring av det enkelte fartøyet, under dette tekniske spesifikasjonar, operasjonelle avgrensingar som fylgje av konstruksjonen og utrustinga til fartøyet, og talet på personar fartøyet er konstruert forrutinar for planlegging av seglasskildring av risikofaktorar for alle om bord når fartøyet er undervegs eller reiskapar eller utstyr om bord blir brukte, og tiltak for å unngå uønskte hendingarrutinar for vedlikehald av fartøy og utstyrberedskapsplan til bruk i ulike naudssituasjonar og rutinar for øvingar.
+Reiarlaget skal etablere, gjennomføre og vidareutvikle eit dokumenterbart tryggleiksstyringssystem som minimum inneheld
+
+1. skildring av verksemda og operasjonsområdet med eventuelle beskytta område der fartøy kan søke ly (naudhamner)
+2. skildring av det enkelte fartøyet, under dette tekniske spesifikasjonar, operasjonelle avgrensingar som fylgje av konstruksjonen og utrustinga til fartøyet, og talet på personar fartøyet er konstruert for
+3. rutinar for planlegging av seglas
+4. skildring av risikofaktorar for alle om bord når fartøyet er undervegs eller reiskapar eller utstyr om bord blir brukte, og tiltak for å unngå uønskte hendingar
+5. rutinar for vedlikehald av fartøy og utstyr
+6. beredskapsplan til bruk i ulike naudssituasjonar og rutinar for øvingar.
 
 Reiarlaget skal ha ein årleg gjennomgang av tryggleiksstyringssystemet for å vurdere om det fungerer i tråd med føremålet, og om det er behov for forbetringar. Gjennomgangen skal dokumenterast.
 
@@ -90,7 +97,12 @@ Krengjeprøva skal bestillast elektronisk og gjennomførast med inspektør frå 
 
 ### § 11. Krav til stabilitetsutrekningar
 
-Fartøy med største lengd 15 meter eller meir skal ha stabilitetsutrekningar som viser følgjande:Arealet under kurva for rettande arm (GZ-kurva) er minst 0,055 meterradianar opp til krengjevinkel på 30 grader og minst 0,09 meterradianar regnet opp til 40 grader eller fyllingsvinkelen, dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurva mellom krengjevinklane 30 grader og 40 grader eller mellom 30 grader og fyllingsvinkelen, dersom denne er mindre enn 40 grader, ikkje vere mindre enn 0,03 meterradianar.Rettande arm (GZ) er minst 0,2 meter ved ein krengjevinkel lik eller større enn 30 grader.Krengjevinkelen til den rettande arm som har størst verdi (GZmaks) skal være større enn 25 grader.Initialmetasenterhøgda (GM) er minst 0,15 meter.
+Fartøy med største lengd 15 meter eller meir skal ha stabilitetsutrekningar som viser følgjande:
+
+1. Arealet under kurva for rettande arm (GZ-kurva) er minst 0,055 meterradianar opp til krengjevinkel på 30 grader og minst 0,09 meterradianar regnet opp til 40 grader eller fyllingsvinkelen, dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurva mellom krengjevinklane 30 grader og 40 grader eller mellom 30 grader og fyllingsvinkelen, dersom denne er mindre enn 40 grader, ikkje vere mindre enn 0,03 meterradianar.
+2. Rettande arm (GZ) er minst 0,2 meter ved ein krengjevinkel lik eller større enn 30 grader.
+3. Krengjevinkelen til den rettande arm som har størst verdi (GZmaks) skal være større enn 25 grader.
+4. Initialmetasenterhøgda (GM) er minst 0,15 meter.
 
 Første ledd gjeld ikkje fartøy i fartsområde 2 og mindre når initialmetasenterhøgda (GM) er minst 0,15 meter og arealet under kurva for rettande arm (GZ-kurva) for lastetilstandane er minst 0,055 meterradianar rekna til fyllingsvinkelen, eller til krengjing på 20 grader når fyllingsvinkelen er større.
 
@@ -120,7 +132,11 @@ Det skal vere varme- eller røykdetektor i alle innvendige opphaldsrom og maskin
 
 Det skal vere brannsløkkingsutstyr som svarer til den mogelege brannfaren.
 
-Det skal minst vereeitt brannsløkkingsapparat i maskinrom og rom med stor brannfareto brannsløkkingsapparat fordelt på opphaldsromma om bord i fartøy med største lengd mellom 8 og 15 metertre brannsløkkingsapparat fordelt på opphaldsromma om bord i fartøy med største lengd over 15 meter.
+Det skal minst vere
+
+1. eitt brannsløkkingsapparat i maskinrom og rom med stor brannfare
+2. to brannsløkkingsapparat fordelt på opphaldsromma om bord i fartøy med største lengd mellom 8 og 15 meter
+3. tre brannsløkkingsapparat fordelt på opphaldsromma om bord i fartøy med største lengd over 15 meter.
 
 Brannsløkkingsapparata skal vere minst seks kilo og utstyrte med manometer.
 
@@ -152,7 +168,13 @@ Fartøy med største lengd under 8 meter som går i fartsområde 1 eller mindre 
 
 ### § 19. Fall over bord
 
-For å handtere ein fall-over-bord-situasjon skal fartøyet haei innretning som gjer det mogleg å plukke opp ein hjelpelaus person frå vatnetei livbøye med flytande redningsline og ei livbøye med sjølvtennande lysmanøvreringseigenskapar til å gå nær opp til og ta om bord personar på ein sikker måte frå sjøen under alle forholdei løfteinnretning dersom fribordet er over 1 meter. Innretninga skal vere plassert lett tilgjengeleg, og vere dimensjonert for statisk last på minst 200 kgfastmontert redningsstige som enkelt kan løysast ut av ein person som ligg i vatnet.
+For å handtere ein fall-over-bord-situasjon skal fartøyet ha
+
+1. ei innretning som gjer det mogleg å plukke opp ein hjelpelaus person frå vatnet
+2. ei livbøye med flytande redningsline og ei livbøye med sjølvtennande lys
+3. manøvreringseigenskapar til å gå nær opp til og ta om bord personar på ein sikker måte frå sjøen under alle forhold
+4. ei løfteinnretning dersom fribordet er over 1 meter. Innretninga skal vere plassert lett tilgjengeleg, og vere dimensjonert for statisk last på minst 200 kg
+5. fastmontert redningsstige som enkelt kan løysast ut av ein person som ligg i vatnet.
 
 ### § 20. Førstehjelpsutstyr
 
@@ -198,9 +220,17 @@ Fartøy skal vere utstyrte for å kunne ta i mot oppdaterte navigasjons- og vêr
 
 ### § 26. Navigasjon
 
-Alle fartøy skal vere utstyrte medmottakar for globalt satellittnavigasjonssystemfastmontert magnetkompassekkoloddradarreflektor.
+Alle fartøy skal vere utstyrte med
 
-Fartøy med største lengd 15 meter eller meir skal i tillegg vere utstyrte medradarautomatisk identifikasjonssystem (AIS) klasse B med sendar og mottakar. AIS skal alltid vere i drift når fartøyet er undervegs.
+1. mottakar for globalt satellittnavigasjonssystem
+2. fastmontert magnetkompass
+3. ekkolodd
+4. radarreflektor.
+
+Fartøy med største lengd 15 meter eller meir skal i tillegg vere utstyrte med
+
+1. radar
+2. automatisk identifikasjonssystem (AIS) klasse B med sendar og mottakar. AIS skal alltid vere i drift når fartøyet er undervegs.
 
 Elektriske kraftkjelder som driv navigasjonsutstyr skal ha kapasitet til å drive utstyret under heile reisa, og i tillegg ha ein reservekapasitet på minst 6 timar.
 
@@ -212,13 +242,26 @@ Skipsførar skal overvake kursen og posisjonen til fartøyet for å sikre at far
 
 ### § 27. Føring av dagbok
 
-Skipsførar skal føre dagbok med opplysingar om kvar enkelt reise og om hendingar undervegs som kan vere til nytte for styresmakter eller andre med rettsleg interesse i reisa. Dagboka skal innehalde opplysingar omavgangs- og innkomsttidvêr- og bølgjeforholdøvingarhendingsgang ved ulukker og personskadarnamn på skipsførar og besetningsmedlemmar.
+Skipsførar skal føre dagbok med opplysingar om kvar enkelt reise og om hendingar undervegs som kan vere til nytte for styresmakter eller andre med rettsleg interesse i reisa. Dagboka skal innehalde opplysingar om
+
+1. avgangs- og innkomsttid
+2. vêr- og bølgjeforhold
+3. øvingar
+4. hendingsgang ved ulukker og personskadar
+5. namn på skipsførar og besetningsmedlemmar.
 
 ## Kapittel 6. Kvalifikasjonar og bemanning
 
 ### § 28. Kvalifikasjonskrav og bemanning
 
-Førar skal vere minst 20 år og hafritidsskippersertifikat (D5L)helseerklæring for fritidsskipper som skal fornyast kvart tredje årSRC-sertifikatminst 150 timar dokumentert fartstid på tilsvarande fartøytypegodkjent tryggleiksopplæringskurs for sjøfolk på mindre skipgjennomgått tryggleiksfamiliarisering og intern tryggleiksopplæring som sikrar forsvarleg handtering av personar om bord i naudssituasjonar.
+Førar skal vere minst 20 år og ha
+
+1. fritidsskippersertifikat (D5L)
+2. helseerklæring for fritidsskipper som skal fornyast kvart tredje år
+3. SRC-sertifikat
+4. minst 150 timar dokumentert fartstid på tilsvarande fartøytype
+5. godkjent tryggleiksopplæringskurs for sjøfolk på mindre skip
+6. gjennomgått tryggleiksfamiliarisering og intern tryggleiksopplæring som sikrar forsvarleg handtering av personar om bord i naudssituasjonar.
 
 For kvar redningsflåte om bord, med unntak av den eller dei redningsflåtane som er i reserve, skal det i tillegg til førar vere minst eitt besetningsmedlem som har opplæring som nemnt i første ledd bokstav e.
 

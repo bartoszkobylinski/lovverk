@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Generelt unntak fra skipssikkerhetsloven med forskrifter
 
-Skipssikkerhetsloven og dens forskrifter gjelder ikke for skip som benyttes av Forsvarsdepartementets underliggende etaterved sikkerhetspolitisk krise, væpnet konflikt eller i krig, ellernår det er nødvendig i den aktuelle situasjonen som ledd i suverenitetshevdelse eller myndighetsutøvelse å fravike bestemmelsene i loven, og det er innført i skipets dekksdagbok at bestemmelsene fravikes.
+Skipssikkerhetsloven og dens forskrifter gjelder ikke for skip som benyttes av Forsvarsdepartementets underliggende etater
+
+1. ved sikkerhetspolitisk krise, væpnet konflikt eller i krig, eller
+2. når det er nødvendig i den aktuelle situasjonen som ledd i suverenitetshevdelse eller myndighetsutøvelse å fravike bestemmelsene i loven, og det er innført i skipets dekksdagbok at bestemmelsene fravikes.
 
 ## § 2. Eier og driftsansvarlig
 

@@ -15,7 +15,7 @@ xml_hash: "e545d2260cb05f5d81b5f19388f484f6fcc335ba584a23d5d0b0ff0711a8bcd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,10 @@ Banken skal søke å oppnå høyest mulig avkastning etter kostnader målt i inv
 
 ### § 1-5. Strategisk referanseindeks
 
-(1) Den strategiske referanseindeksen for investeringsporteføljen består av:Referanseindeks for aksjeporteføljen, jf. [§ 2-3](forskrift/2010-11-08-1414/§2-3).Referanseindeks for obligasjonsporteføljen, jf. [§ 2-2](forskrift/2010-11-08-1414/§2-2).
+(1) Den strategiske referanseindeksen for investeringsporteføljen består av:
+
+1. Referanseindeks for aksjeporteføljen, jf. [§ 2-3](forskrift/2010-11-08-1414/§2-3).
+2. Referanseindeks for obligasjonsporteføljen, jf. [§ 2-2](forskrift/2010-11-08-1414/§2-2).
 
 (2) Referanseindeksen for aksjeporteføljen utgjør 70 prosent av den strategiske referanseindeksen. Referanseindeksen for obligasjonsporteføljen utgjør 30 prosent av den strategiske referanseindeksen.
 
@@ -124,9 +127,25 @@ Hovedstyret skal fastsette en instruks for daglig leder av bankens forvaltning a
 
 ### § 2-1. Investeringsunivers
 
-(1) Banken kan plassere investeringsporteføljen i finansielle instrumenter, fast eiendom, infrastruktur for fornybar energi og kontantinnskudd som er godkjent i henhold til [§ 3-11](forskrift/2010-11-08-1414/§3-11), men med følgende begrensninger:Aksjeporteføljen kan investeres i aksjer notert på regulert og anerkjent markedsplass, noterte verdipapirer som kan sidestilles med noterte aksjer, depotbevis for slike aksjer og i unoterte selskaper hvor styret har uttrykt en intensjon om å søke notering på regulert og anerkjent markedsplass.Obligasjonsporteføljen kan investeres i omsettelige gjeldsinstrumenter, samt depotbevis for slike gjeldsinstrumenter.Den unoterte eiendomsporteføljen kan investeres i fast eiendom, egenkapital og rentebærende instrumenter utstedt av unoterte selskaper, fondskonstruksjoner og andre juridiske personer som har kjøp, utvikling og forvaltning eller finansiering av fast eiendom som hovedvirksomhet. Investeringene kan foretas gjennom norske eller andre juridiske personer. Med fast eiendom menes rettigheter til grunn og eventuell bebyggelse som finnes på denne.Den unoterte infrastrukturporteføljen for fornybar energi kan investeres i fysiske infrastrukturanlegg for fornybar energi, egenkapital og rentebærende instrumenter utstedt av unoterte selskaper, fondskonstruksjoner og andre juridiske personer som har kjøp, utvikling og forvaltning eller finansiering av infrastruktur for fornybar energi som hovedvirksomhet. Investeringene kan foretas gjennom norske eller andre juridiske personer. Med infrastruktur for fornybar energi menes grunn, fast eiendom og anlegg på grunn eller sjø som i hovedsak benyttes til eller planlegges å bli benyttet til produksjon, overføring, distribusjon og lagring av energi basert på fornybare energikilder.Finansielle derivater og fondsandeler kun når disse henger naturlig sammen med investeringene i aksje-, obligasjons- og de unoterte porteføljene.Øvrige finansielle instrumenter kun når disse tilfaller investeringsporteføljen som følge av selskapshendelser.
+(1) Banken kan plassere investeringsporteføljen i finansielle instrumenter, fast eiendom, infrastruktur for fornybar energi og kontantinnskudd som er godkjent i henhold til [§ 3-11](forskrift/2010-11-08-1414/§3-11), men med følgende begrensninger:
 
-(2) Banken kan ikke plassere investeringsporteføljen i:Verdipapirer utstedt av norske foretak, verdipapirer utstedt i norske kroner, fast eiendom eller infrastruktur lokalisert i Norge eller i eiendomsselskaper, infrastrukturselskaper, eiendomsfond, infrastrukturfond eller liknende konstruksjoner som har som primært formål å investere i Norge. Tilsvarende gjelder obligasjoner med fortrinnsrett med pantesikkerhet i Norge. Med norsk foretak menes foretak med hovedkontor i Norge.Verdipapirer som er utelukket fra investeringsporteføljen, jf. [§ 1-3 fjerde ledd](forskrift/2010-11-08-1414/§1-3/ledd/4) og [retningslinjene for observasjon og utelukkelse av selskaper fra SPU](forskrift/2014-12-18-1793) slik disse lød frem til og med 6. november 2025.Rentebærende instrumenter utstedt av stater eller statsrelaterte utstedere i de unntakstilfeller der departementet har avskåret slike investeringer på bakgrunn av at det er vedtatt særlig omfattende FN-sanksjoner, eller andre internasjonale tiltak av særlig stort omfang rettet mot et bestemt land og Norge har sluttet opp om tiltakene.Unoterte selskaper og fondskonstruksjoner i land Norge ikke har skatteavtale med eller andre land enn de som Norge i medhold av annen folkerettslig overenskomst kan kreve skatteopplysninger fra.Unotert infrastruktur slik som veier, jernbane, havner, flyplasser og annen grunnleggende infrastruktur som ikke utgjør infrastruktur for fornybar energi, jf. første ledd bokstav d.Aksjer, verdipapirer som kan sidestilles med slike aksjer eller depotbevis for slike aksjer, utstedt av selskaper med ICB-klassifisering «60101010 Oil: Crude Producers».Aksjer, verdipapirer som kan sidestilles med slike aksjer eller depotbevis for slike aksjer, utstedt av selskaper med ICB-klassifisering «60101015 Offshore Drilling and Other Services».Verdipapirer utstedt av russiske myndigheter eller foretak, verdipapirer utstedt i russiske rubler, russiske rubler, fast eiendom eller infrastruktur lokalisert i Russland eller i eiendomsselskaper, infrastrukturselskaper, eiendomsfond, infrastrukturfond eller liknende konstruksjoner som har som primært formål å investere i Russland.
+1. Aksjeporteføljen kan investeres i aksjer notert på regulert og anerkjent markedsplass, noterte verdipapirer som kan sidestilles med noterte aksjer, depotbevis for slike aksjer og i unoterte selskaper hvor styret har uttrykt en intensjon om å søke notering på regulert og anerkjent markedsplass.
+2. Obligasjonsporteføljen kan investeres i omsettelige gjeldsinstrumenter, samt depotbevis for slike gjeldsinstrumenter.
+3. Den unoterte eiendomsporteføljen kan investeres i fast eiendom, egenkapital og rentebærende instrumenter utstedt av unoterte selskaper, fondskonstruksjoner og andre juridiske personer som har kjøp, utvikling og forvaltning eller finansiering av fast eiendom som hovedvirksomhet. Investeringene kan foretas gjennom norske eller andre juridiske personer. Med fast eiendom menes rettigheter til grunn og eventuell bebyggelse som finnes på denne.
+4. Den unoterte infrastrukturporteføljen for fornybar energi kan investeres i fysiske infrastrukturanlegg for fornybar energi, egenkapital og rentebærende instrumenter utstedt av unoterte selskaper, fondskonstruksjoner og andre juridiske personer som har kjøp, utvikling og forvaltning eller finansiering av infrastruktur for fornybar energi som hovedvirksomhet. Investeringene kan foretas gjennom norske eller andre juridiske personer. Med infrastruktur for fornybar energi menes grunn, fast eiendom og anlegg på grunn eller sjø som i hovedsak benyttes til eller planlegges å bli benyttet til produksjon, overføring, distribusjon og lagring av energi basert på fornybare energikilder.
+5. Finansielle derivater og fondsandeler kun når disse henger naturlig sammen med investeringene i aksje-, obligasjons- og de unoterte porteføljene.
+6. Øvrige finansielle instrumenter kun når disse tilfaller investeringsporteføljen som følge av selskapshendelser.
+
+(2) Banken kan ikke plassere investeringsporteføljen i:
+
+1. Verdipapirer utstedt av norske foretak, verdipapirer utstedt i norske kroner, fast eiendom eller infrastruktur lokalisert i Norge eller i eiendomsselskaper, infrastrukturselskaper, eiendomsfond, infrastrukturfond eller liknende konstruksjoner som har som primært formål å investere i Norge. Tilsvarende gjelder obligasjoner med fortrinnsrett med pantesikkerhet i Norge. Med norsk foretak menes foretak med hovedkontor i Norge.
+2. Verdipapirer som er utelukket fra investeringsporteføljen, jf. [§ 1-3 fjerde ledd](forskrift/2010-11-08-1414/§1-3/ledd/4) og [retningslinjene for observasjon og utelukkelse av selskaper fra SPU](forskrift/2014-12-18-1793) slik disse lød frem til og med 6. november 2025.
+3. Rentebærende instrumenter utstedt av stater eller statsrelaterte utstedere i de unntakstilfeller der departementet har avskåret slike investeringer på bakgrunn av at det er vedtatt særlig omfattende FN-sanksjoner, eller andre internasjonale tiltak av særlig stort omfang rettet mot et bestemt land og Norge har sluttet opp om tiltakene.
+4. Unoterte selskaper og fondskonstruksjoner i land Norge ikke har skatteavtale med eller andre land enn de som Norge i medhold av annen folkerettslig overenskomst kan kreve skatteopplysninger fra.
+5. Unotert infrastruktur slik som veier, jernbane, havner, flyplasser og annen grunnleggende infrastruktur som ikke utgjør infrastruktur for fornybar energi, jf. første ledd bokstav d.
+6. Aksjer, verdipapirer som kan sidestilles med slike aksjer eller depotbevis for slike aksjer, utstedt av selskaper med ICB-klassifisering «60101010 Oil: Crude Producers».
+7. Aksjer, verdipapirer som kan sidestilles med slike aksjer eller depotbevis for slike aksjer, utstedt av selskaper med ICB-klassifisering «60101015 Offshore Drilling and Other Services».
+8. Verdipapirer utstedt av russiske myndigheter eller foretak, verdipapirer utstedt i russiske rubler, russiske rubler, fast eiendom eller infrastruktur lokalisert i Russland eller i eiendomsselskaper, infrastrukturselskaper, eiendomsfond, infrastrukturfond eller liknende konstruksjoner som har som primært formål å investere i Russland.
 
 (3) Banken skal ha retningslinjer for gjeninkludering av selskaper i fondets investeringsunivers og referanseindeks i henhold til de [midlertidige etiske retningslinjene for SPU](forskrift/2025-11-07-2231). Departementet fastsetter datoer for gjeninkludering av verdipapirer i fondets referanseindeks.
 
@@ -140,17 +159,56 @@ Hovedstyret skal fastsette en instruks for daglig leder av bankens forvaltning a
 
 ### § 2-2. Referanseindeks for obligasjonsporteføljen
 
-(1) Referanseindeksen for obligasjonsporteføljen har faste vekter med månedlig tilbakevekting til følgende delindekser:Statsdel: 70 pst.Selskapsdel: 30 pst.
+(1) Referanseindeksen for obligasjonsporteføljen har faste vekter med månedlig tilbakevekting til følgende delindekser:
 
-(2) Statsdelen av referanseindeksen for obligasjonsporteføljen består av:obligasjoner utstedt av stater hjemmehørende i land klassifisert som et utviklet marked og som inngår i Bloomberg Global Inflation-Linked (Series-L) Bond Indexobligasjoner utstedt av stater hjemmehørende i land klassifisert som et utviklet marked og som inngår i delsegmentet statsobligasjoner («Treasury») av Bloomberg Global Aggregate Bond Indexobligasjoner utstedt i valutaer tilhørende land klassifisert som et utviklet marked og som inngår i undergruppen internasjonale organisasjoner («Supranational») innenfor delsegmentet statsrelatert («Government Related») av Bloomberg Global Aggregate Bond Index.Obligasjoner utstedt av stater hjemmehørende i land eller obligasjoner utstedt i valutaer som fra og med 31. januar 2023 inkluderes i statsdelen av referanseindeksen for obligasjonsporteføljen, skal tilordnes en markedskapitalisering og BNP-vekt på 0.
+1. Statsdel: 70 pst.
+2. Selskapsdel: 30 pst.
+
+(2) Statsdelen av referanseindeksen for obligasjonsporteføljen består av:
+
+1. obligasjoner utstedt av stater hjemmehørende i land klassifisert som et utviklet marked og som inngår i Bloomberg Global Inflation-Linked (Series-L) Bond Index
+2. obligasjoner utstedt av stater hjemmehørende i land klassifisert som et utviklet marked og som inngår i delsegmentet statsobligasjoner («Treasury») av Bloomberg Global Aggregate Bond Index
+3. obligasjoner utstedt i valutaer tilhørende land klassifisert som et utviklet marked og som inngår i undergruppen internasjonale organisasjoner («Supranational») innenfor delsegmentet statsrelatert («Government Related») av Bloomberg Global Aggregate Bond Index.
+
+Obligasjoner utstedt av stater hjemmehørende i land eller obligasjoner utstedt i valutaer som fra og med 31. januar 2023 inkluderes i statsdelen av referanseindeksen for obligasjonsporteføljen, skal tilordnes en markedskapitalisering og BNP-vekt på 0.
 
 (3) Obligasjoner utstedt av internasjonale organisasjoner tilordnes land i statsdelen i henhold til valutaene som obligasjonene er utstedt i. Obligasjoner utstedt av internasjonale organisasjoner i euro tilordnes en egen landvekt, «Internasjonale organisasjoner (EUR)», som beskrevet i femte ledd.
 
-(4) Obligasjoner i statsdelen av referanseindeksen tilordnes en justeringsfaktor, *Fi*, basert på landtilhørighet *i* og i henhold til følgende formel: $$F_i = Min \\left( \\frac{BNPvekt_i}{Markedsvekt_i}, 2 \\right)$$der *BNPvekti* og *Markedsvekti* betegner henholdsvis BNP-vekt og markedskapitaliseringsvekt for land *i*.Justeringsfaktorene benyttes i revektingen av landvektene i statsdelen av referanseindeksen per starten av første handledag i desember hvert år og fastsettes for en periode på 12 måneder.BNPvekti beregnes basert på bruttonasjonalprodukt for land *i* som andel av samlet bruttonasjonalprodukt for alle land som inngår i statsdelen av referanseindeksen. I beregningen av BNP-vekter benyttes data for bruttonasjonalprodukt i løpende priser målt i amerikanske dollar publisert av det internasjonale pengefondet (IMF) i oktober hvert år. Bruttonasjonalprodukt for land *i* beregnes som et treårig vektet snitt i henhold til følgende formel: $$BNP_i^T = \\left( \\frac{1}{2}\\right) \\cdot BNP_{i,IMF}^{T-1} + \\left( \\frac{1}{3}\\right) \\cdot BNP_{i,IMF}^{T-2} + \\left( \\frac{1}{6}\\right) \\cdot BNP_{i,IMF}^{T-3}$$der BNP\\(\\substack{T\\\\i}\\) betegner vektet bruttonasjonalprodukt for land *i* for inneværende år *T*.Særskilte bestemmelser gjelder for beregning av BNP-vekter for land i eurosonen, som beskrevet i femte ledd. Samtlige BNP-vekter normaliseres slik at de summerer seg til 1.Markedskapitaliseringsvekter, *Markedsvekti*, beregnes per land *i* basert på markedsverdien av obligasjonene som inngår i statsdelen av referanseindeksen som andel av samlet markedskapitalisering av alle obligasjoner som inngår i statsdelen av referanseindeksen, ved starten av første handledag i november.
+(4) Obligasjoner i statsdelen av referanseindeksen tilordnes en justeringsfaktor, *Fi*, basert på landtilhørighet *i* og i henhold til følgende formel:
 
-(5) Obligasjoner utstedt av internasjonale organisasjoner i euro tilordnes en egen BNP-vekt, *BNPvektint.org(EUR)*, i henhold til følgende formel: $$BNPvekt_{int.org(EUR)} = \\left( \\frac{MV_{int.org(EUR)}}{MV_{EUR}} \\right) \\cdot BNPvekt_{Eurosonen}$$der *MVint.org(EUR)* og *MVEUR* angir markedskapitaliseringen for henholdsvis internasjonale organisasjoner utstedt i euro og alle eurodenominerte verdipapirer som inngår i statsdelen. BNPvektEurosonen angir samlet BNP-vekt for land i eurosonen som inngår i statsdelen. Markedskapitaliseringen beregnes basert på markedsverdier ved starten av første handledag i november hvert år.BNP-vekt for land *i* i eurosonen justeres for allokeringen til internasjonale organisasjoner i henhold til følgende formel: $$\\text{Justert } BNPvekt_i^{Eurosonen} = \\left( 1 - \\frac{MV_{int.org(EUR)}}{MV_{EUR}} \\right) \\cdot BNP_i^{Eurosonen}$$der \\(BNP_i^{Eurosonen}\\) betegner opprinnelig BNP-vekt for land *i* i eurosonen.
+$$F_i = Min \\left( \\frac{BNPvekt_i}{Markedsvekt_i}, 2 \\right)$$
 
-(6) Per starten av første handledag i desember skal land *i* inngå i statsdelen av referanseindeksen med en vekt i henhold til følgende formel: $$\\text{Indeksvekt}_i = \\frac{MV_i \\cdot F_i}{\\sum_i MV_i \\cdot F_i}$$der *MVi* og *Fi* betegner henholdsvis markedskapitaliseringen til land *i* per starten av første handledag i desember og tilhørende justeringsfaktor, jf. [§ 2-2](forskrift/2010-11-08-1414/§2-2) fjerde og femte ledd. Indeksvekti skal utvikle seg i tråd med indeksavkastningen i land *i* i perioden mellom endringer i Fi og normaliseres slik at de summerer seg til 1.
+der *BNPvekti* og *Markedsvekti* betegner henholdsvis BNP-vekt og markedskapitaliseringsvekt for land *i*.
+
+Justeringsfaktorene benyttes i revektingen av landvektene i statsdelen av referanseindeksen per starten av første handledag i desember hvert år og fastsettes for en periode på 12 måneder.
+
+BNPvekti beregnes basert på bruttonasjonalprodukt for land *i* som andel av samlet bruttonasjonalprodukt for alle land som inngår i statsdelen av referanseindeksen. I beregningen av BNP-vekter benyttes data for bruttonasjonalprodukt i løpende priser målt i amerikanske dollar publisert av det internasjonale pengefondet (IMF) i oktober hvert år. Bruttonasjonalprodukt for land *i* beregnes som et treårig vektet snitt i henhold til følgende formel:
+
+$$BNP_i^T = \\left( \\frac{1}{2}\\right) \\cdot BNP_{i,IMF}^{T-1} + \\left( \\frac{1}{3}\\right) \\cdot BNP_{i,IMF}^{T-2} + \\left( \\frac{1}{6}\\right) \\cdot BNP_{i,IMF}^{T-3}$$
+
+der BNP\\(\\substack{T\\\\i}\\) betegner vektet bruttonasjonalprodukt for land *i* for inneværende år *T*.
+
+Særskilte bestemmelser gjelder for beregning av BNP-vekter for land i eurosonen, som beskrevet i femte ledd. Samtlige BNP-vekter normaliseres slik at de summerer seg til 1.
+
+Markedskapitaliseringsvekter, *Markedsvekti*, beregnes per land *i* basert på markedsverdien av obligasjonene som inngår i statsdelen av referanseindeksen som andel av samlet markedskapitalisering av alle obligasjoner som inngår i statsdelen av referanseindeksen, ved starten av første handledag i november.
+
+(5) Obligasjoner utstedt av internasjonale organisasjoner i euro tilordnes en egen BNP-vekt, *BNPvektint.org(EUR)*, i henhold til følgende formel:
+
+$$BNPvekt_{int.org(EUR)} = \\left( \\frac{MV_{int.org(EUR)}}{MV_{EUR}} \\right) \\cdot BNPvekt_{Eurosonen}$$
+
+der *MVint.org(EUR)* og *MVEUR* angir markedskapitaliseringen for henholdsvis internasjonale organisasjoner utstedt i euro og alle eurodenominerte verdipapirer som inngår i statsdelen. BNPvektEurosonen angir samlet BNP-vekt for land i eurosonen som inngår i statsdelen. Markedskapitaliseringen beregnes basert på markedsverdier ved starten av første handledag i november hvert år.
+
+BNP-vekt for land *i* i eurosonen justeres for allokeringen til internasjonale organisasjoner i henhold til følgende formel:
+
+$$\\text{Justert } BNPvekt_i^{Eurosonen} = \\left( 1 - \\frac{MV_{int.org(EUR)}}{MV_{EUR}} \\right) \\cdot BNP_i^{Eurosonen}$$
+
+der \\(BNP_i^{Eurosonen}\\) betegner opprinnelig BNP-vekt for land *i* i eurosonen.
+
+(6) Per starten av første handledag i desember skal land *i* inngå i statsdelen av referanseindeksen med en vekt i henhold til følgende formel:
+
+$$\\text{Indeksvekt}_i = \\frac{MV_i \\cdot F_i}{\\sum_i MV_i \\cdot F_i}$$
+
+der *MVi* og *Fi* betegner henholdsvis markedskapitaliseringen til land *i* per starten av første handledag i desember og tilhørende justeringsfaktor, jf. [§ 2-2](forskrift/2010-11-08-1414/§2-2) fjerde og femte ledd. Indeksvekti skal utvikle seg i tråd med indeksavkastningen i land *i* i perioden mellom endringer i Fi og normaliseres slik at de summerer seg til 1.
 
 (7) Innenfor statsdelen følger beregningen av markedskapitaliseringen metodikken til Bloomberg Global Aggregate Bond Index og Bloomberg Global Inflation Linked (Series-L) Bond Index.
 
@@ -170,9 +228,20 @@ Hovedstyret skal fastsette en instruks for daglig leder av bankens forvaltning a
 
 (1) Referanseindeksen for aksjeporteføljen er satt sammen med utgangspunkt i FTSE Global All Cap Index, men med en markedsdekning på 96 %. Små selskaper i fremvoksende markeder skal ikke inngå i referanseindeksen for aksjeporteføljen.
 
-(2) Aksjene i referanseindeksen tilordnes følgende justeringsfaktorer avhengig av landtilhørighet:Europa utviklede markeder ex. Norge: 2,0USA og Canada: 1,15Øvrige utviklede markeder: 1,5Fremvoksende markeder: 1,5Land- og regiontilhørighet samt skillet mellom utviklede og fremvoksende markeder følger av FTSE Global All Cap Index. Markeder som inkluderes i FTSE Global All Cap Index fra og med 1. januar 2019 skal tilordnes en vekt på 0.
+(2) Aksjene i referanseindeksen tilordnes følgende justeringsfaktorer avhengig av landtilhørighet:
 
-(3) Hvert land inngår i referanseindeksen med vekt i henhold til følgende formel: $$\\frac{\\text{Markedskapitalisering}_i \\times \\text{faktor}_i}{\\sum_i \\text{Markedskapitalisering}_i \\times \\text{faktor}_i }$$der *i* representerer landene med tilhørende justeringsfaktor, jf. [§ 2-3](forskrift/2010-11-08-1414/§2-3) andre ledd. Beregningen av markedskapitaliseringen følger metodikken til FTSE Global All Cap Index og justeres for fri flyt.
+1. Europa utviklede markeder ex. Norge: 2,0
+2. USA og Canada: 1,15
+3. Øvrige utviklede markeder: 1,5
+4. Fremvoksende markeder: 1,5
+
+Land- og regiontilhørighet samt skillet mellom utviklede og fremvoksende markeder følger av FTSE Global All Cap Index. Markeder som inkluderes i FTSE Global All Cap Index fra og med 1. januar 2019 skal tilordnes en vekt på 0.
+
+(3) Hvert land inngår i referanseindeksen med vekt i henhold til følgende formel:
+
+$$\\frac{\\text{Markedskapitalisering}_i \\times \\text{faktor}_i}{\\sum_i \\text{Markedskapitalisering}_i \\times \\text{faktor}_i }$$
+
+der *i* representerer landene med tilhørende justeringsfaktor, jf. [§ 2-3](forskrift/2010-11-08-1414/§2-3) andre ledd. Beregningen av markedskapitaliseringen følger metodikken til FTSE Global All Cap Index og justeres for fri flyt.
 
 (4) Referanseindeksen justeres for bankens skatteposisjon.
 
@@ -218,15 +287,38 @@ Hovedstyret skal fastsette en instruks for daglig leder av bankens forvaltning a
 
 ### § 2-5. Risikorammer som skal fastsettes av hovedstyret
 
-(1) Hovedstyret skal fastsette supplerende risikorammer for å fange opp risiko som erfaringsmessig ikke fanges godt opp av forventet relativ volatilitet, herunder:Rammer for minste sammenfall mellom aksje- og obligasjonsporteføljene og tilsvarende faktiske referanseindekser.Rammer for kredittrisiko, både på enkeltutstedernivå og samlet for investeringsporteføljen.Rammer for likviditetsrisiko.Rammer for motpartseksponering.Rammer for gjeldsfinansiering.Rammer for reinvestering av mottatt kontantsikkerhet.Rammer for innlån av verdipapirer.En ramme for store forventede negative avvik mellom avkastningen av investeringsporteføljen og den faktiske referanseindeksen (forventet ekstremavviksrisiko).
+(1) Hovedstyret skal fastsette supplerende risikorammer for å fange opp risiko som erfaringsmessig ikke fanges godt opp av forventet relativ volatilitet, herunder:
+
+1. Rammer for minste sammenfall mellom aksje- og obligasjonsporteføljene og tilsvarende faktiske referanseindekser.
+2. Rammer for kredittrisiko, både på enkeltutstedernivå og samlet for investeringsporteføljen.
+3. Rammer for likviditetsrisiko.
+4. Rammer for motpartseksponering.
+5. Rammer for gjeldsfinansiering.
+6. Rammer for reinvestering av mottatt kontantsikkerhet.
+7. Rammer for innlån av verdipapirer.
+8. En ramme for store forventede negative avvik mellom avkastningen av investeringsporteføljen og den faktiske referanseindeksen (forventet ekstremavviksrisiko).
 
 (2) Hovedstyret skal fastsette en ramme for operasjonell risiko.
 
-(3) Hovedstyret skal begrense risikoen i den unoterte eiendomsporteføljen gjennom rammer for bl.a.:investeringer i landinvesteringer i sektorerinvesteringer i fremvoksende markederinvesteringer i eiendom under utviklingsamlet gjeldsgrad og maksimal gjeldsgrad på enkeltinvesteringer.
+(3) Hovedstyret skal begrense risikoen i den unoterte eiendomsporteføljen gjennom rammer for bl.a.:
 
-(4) Hovedstyret skal begrense risikoen i den unoterte infrastrukturporteføljen for fornybar energi gjennom rammer for bl.a.:investeringer i landinvesteringer i fremvoksende markederinvesteringer i prosjekter under utviklingsamlet gjeldsgrad og maksimal gjeldsgrad på enkeltinvesteringer.
+1. investeringer i land
+2. investeringer i sektorer
+3. investeringer i fremvoksende markeder
+4. investeringer i eiendom under utvikling
+5. samlet gjeldsgrad og maksimal gjeldsgrad på enkeltinvesteringer.
 
-(5) Hovedstyret skal avgrense adgangen til å innta investeringer i infrastrukturporteføljen for fornybar energi, jf. hovedvirksomhetskravet i [§ 2-1](forskrift/2010-11-08-1414/§2-1) første ledd bokstav d, ved å fastsette krav til:andel av virksomheten i det unoterte selskapet eller annen juridisk person som må utgjøres av infrastruktur for fornybar energi.andel infrastruktur for fornybar energi i fondskonstruksjoner.
+(4) Hovedstyret skal begrense risikoen i den unoterte infrastrukturporteføljen for fornybar energi gjennom rammer for bl.a.:
+
+1. investeringer i land
+2. investeringer i fremvoksende markeder
+3. investeringer i prosjekter under utvikling
+4. samlet gjeldsgrad og maksimal gjeldsgrad på enkeltinvesteringer.
+
+(5) Hovedstyret skal avgrense adgangen til å innta investeringer i infrastrukturporteføljen for fornybar energi, jf. hovedvirksomhetskravet i [§ 2-1](forskrift/2010-11-08-1414/§2-1) første ledd bokstav d, ved å fastsette krav til:
+
+1. andel av virksomheten i det unoterte selskapet eller annen juridisk person som må utgjøres av infrastruktur for fornybar energi.
+2. andel infrastruktur for fornybar energi i fondskonstruksjoner.
 
 (6) Hovedstyret skal godkjenne enkeltinvesteringer over beløpsgrenser fastsatt av hovedstyret i den unoterte eiendomsporteføljen og den unoterte infrastrukturporteføljen, samt i unoterte selskaper hvor styret har uttrykt en intensjon om å søke notering på regulert og anerkjent markedsplass.
 
@@ -412,11 +504,35 @@ Hovedstyret skal fastsette retningslinjer som sikrer en plan for avhending av ak
 
 (1) Den offentlige rapporteringen skal gi en rettvisende og utfyllende oversikt over hvordan banken løser forvaltningsoppdraget, herunder de valg og prioriteringer banken gjør, resultater som oppnås og hvordan rammene gitt i dette mandatet utnyttes. All rapportering som følger av mandatet skal foreligge på norsk.
 
-(2) Banken skal regelmessig og minst hvert tredje år rapportere om valg av investeringsstrategier, fastsatt av hovedstyret, for forvaltningen av porteføljene av henholdsvis aksjer, obligasjoner, unotert eiendom og unotert infrastruktur for fornybar energi (strategirapportering), jf. [§ 1-7](forskrift/2010-11-08-1414/§1-7). Det skal redegjøres særskilt for:Overordnede prinsipper for valg av strategier, avkastnings- og risikoegenskaper ved strategiene, og hvordan strategiene tar sikte på å utnytte fondets særtrekk og bankens fortrinn i kapitalforvaltningen. For obligasjonsforvaltningen skal investeringsstrategier for utnyttelse av [§ 2-4](forskrift/2010-11-08-1414/§2-4) ellevte ledd omtales.Ulike investeringsstrategier innenfor henholdsvis aksje- og obligasjonsforvaltningen som kan påvirke markedsrisiko og ekstremavviksrisiko i investeringsporteføljen samlet sett, og for aksje- og obligasjonsporteføljene separat.Rammeverk for styring og kontroll av risiko.Organiseringen av kapitalforvaltningen, herunder bruk av datterselskaper og eksterne forvaltere.Gjennomgang av arbeidet med ansvarlig forvaltningsvirksomhet, herunder bruk av kjeden av virkemidler og hvordan ansvarlig forvaltningsvirksomhet er integrert i forvaltningen av investeringsporteføljen og i risikostyringen, jf. [§ 1-3](forskrift/2010-11-08-1414/§1-3) tredje ledd, [§ 3-4](forskrift/2010-11-08-1414/§3-4) og [kapittel 4](forskrift/2010-11-08-1414/kap4).
+(2) Banken skal regelmessig og minst hvert tredje år rapportere om valg av investeringsstrategier, fastsatt av hovedstyret, for forvaltningen av porteføljene av henholdsvis aksjer, obligasjoner, unotert eiendom og unotert infrastruktur for fornybar energi (strategirapportering), jf. [§ 1-7](forskrift/2010-11-08-1414/§1-7). Det skal redegjøres særskilt for:
 
-(3) Banken skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):Verdiutvikling, resultater og risiko i investeringsporteføljen samlet, i aksjeporteføljen og obligasjonsporteføljen separat og i tilhørende referanseindekser fastsatt i dette mandatet.Verdiutvikling, resultater og risiko i den unoterte eiendomsporteføljen, den unoterte infrastrukturporteføljen for fornybar energi og i relevante referanseindekser.Sammensetningen av differanseavkastningen for investeringsporteføljen.Sammensetningen av differanseavkastningen for henholdsvis aksje- og obligasjonsporteføljen sammenliknet med tilhørende referanseindekser fastsatt i dette mandatet.Utnyttelsen av rammene gitt i dette mandatet.Halvårsrapporteringen skal videre inneholde utdrag av de deler av bankens regnskap som vedrører forvaltningen av investeringsporteføljen, fastsatt i henhold til de til enhver tid gjeldende regnskapsbestemmelser for banken.
+1. Overordnede prinsipper for valg av strategier, avkastnings- og risikoegenskaper ved strategiene, og hvordan strategiene tar sikte på å utnytte fondets særtrekk og bankens fortrinn i kapitalforvaltningen. For obligasjonsforvaltningen skal investeringsstrategier for utnyttelse av [§ 2-4](forskrift/2010-11-08-1414/§2-4) ellevte ledd omtales.
+2. Ulike investeringsstrategier innenfor henholdsvis aksje- og obligasjonsforvaltningen som kan påvirke markedsrisiko og ekstremavviksrisiko i investeringsporteføljen samlet sett, og for aksje- og obligasjonsporteføljene separat.
+3. Rammeverk for styring og kontroll av risiko.
+4. Organiseringen av kapitalforvaltningen, herunder bruk av datterselskaper og eksterne forvaltere.
+5. Gjennomgang av arbeidet med ansvarlig forvaltningsvirksomhet, herunder bruk av kjeden av virkemidler og hvordan ansvarlig forvaltningsvirksomhet er integrert i forvaltningen av investeringsporteføljen og i risikostyringen, jf. [§ 1-3](forskrift/2010-11-08-1414/§1-3) tredje ledd, [§ 3-4](forskrift/2010-11-08-1414/§3-4) og [kapittel 4](forskrift/2010-11-08-1414/kap4).
 
-(4) I tillegg til krav i [§ 6-1](forskrift/2010-11-08-1414/§6-1) tredje ledd skal banken årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):Resultater i forvaltningen av unotert eiendom og unotert infrastruktur for fornybar energi og av ulike investeringsstrategier innenfor henholdsvis aksje- og obligasjonsforvaltningen, herunder andel av differanseavkastningen og utnyttelsen av rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. Med ulike investeringsstrategier menes investeringsstrategier som vektlegges i utnyttelsen av enkeltrammer, bl.a. rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. For obligasjonsforvaltningen skal resultater i utnyttelsen av [§ 2-4](forskrift/2010-11-08-1414/§2-4) ellevte ledd fremgå.Hovedstyrets vurderinger av resultatene.Forholdet mellom avkastning og risiko i investeringsporteføljen samlet, i aksje- og obligasjonsporteføljen separat og i tilhørende referanseindekser. Banken skal benytte flere metoder og måltall for å rapportere risikojustert avkastning.Inntekter fra verdipapirutlån, interne og eksterne forvaltningskostnader, skattekostnader og anslag på transaksjonskostnader for investeringsporteføljen og for henholdsvis aksjeporteføljen, obligasjonsporteføljen, den unoterte eiendomsporteføljen og den unoterte infrastrukturporteføljen for fornybar energi uttrykt som andel av forvaltet kapital.Forvaltningen av den unoterte eiendomsporteføljen og den unoterte infrastrukturporteføljen for fornybar energi, herunder vurderinger av resultatene sammenliknet med et bredt sett av avkastningsmål.Investeringer i fremvoksende, front- og uklassifiserte markeder.Arbeidet med ansvarlig forvaltning, jf. [kapittel 4](forskrift/2010-11-08-1414/kap4), herunder bruken av virkemidler og virkningen av eierskapsarbeidet, samt hvordan prinsippene for ansvarlig forvaltning er integrert i forvaltningen. Arbeidet med klimarisiko skal belyses særskilt, herunder resultater av stresstester og vurderinger av selskapenes fremoverskuende utslippsbaner, jf. også [§ 3-4](forskrift/2010-11-08-1414/§3-4) og [§ 4-1](forskrift/2010-11-08-1414/§4-1) (2). Måltall som søker å fange opp fondets eksponering mot klima- og miljørelatert virksomhet må inngå. Slik rapportering må være hensiktsmessig og bygge på og følge utviklingen av internasjonalt anerkjente standarder og metoder. Rapporteringen skal forankres i hovedstyret.Rutiner og systemer for godkjenning av markeder og utstedere av statsobligasjoner, jf. [§ 3-10](forskrift/2010-11-08-1414/§3-10) første ledd annet punktum.Rammeverk for og resultater av stresstester for investeringsporteføljen samlet samt for porteføljene definert i [§ 2-1](forskrift/2010-11-08-1414/§2-1) første ledd separat, jf. [§ 3-3](forskrift/2010-11-08-1414/§3-3) første ledd siste punktum.
+(3) Banken skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):
+
+1. Verdiutvikling, resultater og risiko i investeringsporteføljen samlet, i aksjeporteføljen og obligasjonsporteføljen separat og i tilhørende referanseindekser fastsatt i dette mandatet.
+2. Verdiutvikling, resultater og risiko i den unoterte eiendomsporteføljen, den unoterte infrastrukturporteføljen for fornybar energi og i relevante referanseindekser.
+3. Sammensetningen av differanseavkastningen for investeringsporteføljen.
+4. Sammensetningen av differanseavkastningen for henholdsvis aksje- og obligasjonsporteføljen sammenliknet med tilhørende referanseindekser fastsatt i dette mandatet.
+5. Utnyttelsen av rammene gitt i dette mandatet.
+
+Halvårsrapporteringen skal videre inneholde utdrag av de deler av bankens regnskap som vedrører forvaltningen av investeringsporteføljen, fastsatt i henhold til de til enhver tid gjeldende regnskapsbestemmelser for banken.
+
+(4) I tillegg til krav i [§ 6-1](forskrift/2010-11-08-1414/§6-1) tredje ledd skal banken årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):
+
+1. Resultater i forvaltningen av unotert eiendom og unotert infrastruktur for fornybar energi og av ulike investeringsstrategier innenfor henholdsvis aksje- og obligasjonsforvaltningen, herunder andel av differanseavkastningen og utnyttelsen av rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. Med ulike investeringsstrategier menes investeringsstrategier som vektlegges i utnyttelsen av enkeltrammer, bl.a. rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. For obligasjonsforvaltningen skal resultater i utnyttelsen av [§ 2-4](forskrift/2010-11-08-1414/§2-4) ellevte ledd fremgå.
+2. Hovedstyrets vurderinger av resultatene.
+3. Forholdet mellom avkastning og risiko i investeringsporteføljen samlet, i aksje- og obligasjonsporteføljen separat og i tilhørende referanseindekser. Banken skal benytte flere metoder og måltall for å rapportere risikojustert avkastning.
+4. Inntekter fra verdipapirutlån, interne og eksterne forvaltningskostnader, skattekostnader og anslag på transaksjonskostnader for investeringsporteføljen og for henholdsvis aksjeporteføljen, obligasjonsporteføljen, den unoterte eiendomsporteføljen og den unoterte infrastrukturporteføljen for fornybar energi uttrykt som andel av forvaltet kapital.
+5. Forvaltningen av den unoterte eiendomsporteføljen og den unoterte infrastrukturporteføljen for fornybar energi, herunder vurderinger av resultatene sammenliknet med et bredt sett av avkastningsmål.
+6. Investeringer i fremvoksende, front- og uklassifiserte markeder.
+7. Arbeidet med ansvarlig forvaltning, jf. [kapittel 4](forskrift/2010-11-08-1414/kap4), herunder bruken av virkemidler og virkningen av eierskapsarbeidet, samt hvordan prinsippene for ansvarlig forvaltning er integrert i forvaltningen. Arbeidet med klimarisiko skal belyses særskilt, herunder resultater av stresstester og vurderinger av selskapenes fremoverskuende utslippsbaner, jf. også [§ 3-4](forskrift/2010-11-08-1414/§3-4) og [§ 4-1](forskrift/2010-11-08-1414/§4-1) (2). Måltall som søker å fange opp fondets eksponering mot klima- og miljørelatert virksomhet må inngå. Slik rapportering må være hensiktsmessig og bygge på og følge utviklingen av internasjonalt anerkjente standarder og metoder. Rapporteringen skal forankres i hovedstyret.
+8. Rutiner og systemer for godkjenning av markeder og utstedere av statsobligasjoner, jf. [§ 3-10](forskrift/2010-11-08-1414/§3-10) første ledd annet punktum.
+9. Rammeverk for og resultater av stresstester for investeringsporteføljen samlet samt for porteføljene definert i [§ 2-1](forskrift/2010-11-08-1414/§2-1) første ledd separat, jf. [§ 3-3](forskrift/2010-11-08-1414/§3-3) første ledd siste punktum.
 
 (5) I forbindelse med halvårs- og årsrapporteringen skal banken redegjøre for sine beslutninger i henhold til de [midlertidige etiske retningslinjene for SPU](forskrift/2025-11-07-2231).
 

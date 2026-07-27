@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Saklig virkeområde
 
-Forskriften gjelder rapporteringen av opplysninger etter [kommuneloven § 16-1](lov/2018-06-22-83/§16-1) første ledd og [lov 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper [§ 42](lov/1999-01-29-6/§42) frakommuner og fylkeskommunerkommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18)kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)interkommunale styrer etter [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner [§ 27](lov/1992-09-25-107/§27) som ikke er omdannet etter [lov 22. juni 2018 nr. 83](lov/2018-06-22-83) om kommuner og fylkeskommuner [§ 31-2](lov/2018-06-22-83/§31-2)interkommunale selskaper etter [lov 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper.
+Forskriften gjelder rapporteringen av opplysninger etter [kommuneloven § 16-1](lov/2018-06-22-83/§16-1) første ledd og [lov 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper [§ 42](lov/1999-01-29-6/§42) fra
+
+1. kommuner og fylkeskommuner
+2. kommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)
+3. interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18)
+4. kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)
+5. interkommunale styrer etter [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner [§ 27](lov/1992-09-25-107/§27) som ikke er omdannet etter [lov 22. juni 2018 nr. 83](lov/2018-06-22-83) om kommuner og fylkeskommuner [§ 31-2](lov/2018-06-22-83/§31-2)
+6. interkommunale selskaper etter [lov 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper.
 
 ## § 2. Rapporteringsmetode
 
@@ -44,7 +51,16 @@ Opplysningene om ressursbruk og tjenester skal rapporteres senest 15. februar.
 
 ## § 5. Årsregnskapene som skal rapporteres
 
-Følgende skal rapporteres:kommunens eller fylkeskommunens konsoliderte årsregnskapkommunekassens eller fylkeskommunekassens årsregnskapårsregnskapet til kommunale eller fylkeskommunale foretak, med unntak av årsregnskapet til foretak som er rapporteringspliktig etter [forskrift 11. mars 1999 nr. 302](forskrift/1999-03-11-302) om økonomisk og teknisk rapportering, inntektsramme for nettvirksomheten og tariffer [§ 2-1](forskrift/1999-03-11-302/§2-1)årsregnskapet til lånefondårsregnskapet til interkommunale politiske rådårsregnskapet til kommunale oppgavefellesskapårsregnskapet til interkommunale samarbeid etter [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner [§ 27](lov/1992-09-25-107/§27)årsregnskapet til interkommunale selskaper.
+Følgende skal rapporteres:
+
+1. kommunens eller fylkeskommunens konsoliderte årsregnskap
+2. kommunekassens eller fylkeskommunekassens årsregnskap
+3. årsregnskapet til kommunale eller fylkeskommunale foretak, med unntak av årsregnskapet til foretak som er rapporteringspliktig etter [forskrift 11. mars 1999 nr. 302](forskrift/1999-03-11-302) om økonomisk og teknisk rapportering, inntektsramme for nettvirksomheten og tariffer [§ 2-1](forskrift/1999-03-11-302/§2-1)
+4. årsregnskapet til lånefond
+5. årsregnskapet til interkommunale politiske råd
+6. årsregnskapet til kommunale oppgavefellesskap
+7. årsregnskapet til interkommunale samarbeid etter [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner [§ 27](lov/1992-09-25-107/§27)
+8. årsregnskapet til interkommunale selskaper.
 
 Driftsregnskapet, investeringsregnskapet og balanseregnskapet rapporteres på kontoklasser som fastsettes av Statistisk sentralbyrå. Inntektene, utgiftene, avsetningene og bruken av avsetninger skal ved rapporteringen være fordelt på artskontoene som nevnt i vedlegg 1 og funksjonskontoene som nevnt i vedlegg 2 eller 3. Eiendelene, gjelden og egenkapitalen skal ved rapporteringen være fordelt på balansekapitlene som nevnt i vedlegg 4. Eiendelene, gjelden og egenkapitalen skal ved rapporteringen være fordelt på sektorkoder som fastsettes av Statistisk sentralbyrå.
 
@@ -54,11 +70,20 @@ Et regnskap skal rapporteres på nytt, hvis dette er nødvendig for å rette opp
 
 ## § 6. Krav om kvartalsrapportering av kommunekassens og fylkeskommunekassens regnskap
 
-Kommunekassens og fylkeskommunekassens regnskap skal rapporteres etter hvert kvartal og senest innen:20. april for første kvartal5. august for første til andre kvartal20. oktober for første til tredje kvartal20. januar for første til fjerde kvartal.
+Kommunekassens og fylkeskommunekassens regnskap skal rapporteres etter hvert kvartal og senest innen:
+
+1. 20\. april for første kvartal
+2. 5\. august for første til andre kvartal
+3. 20\. oktober for første til tredje kvartal
+4. 20\. januar for første til fjerde kvartal.
 
 Kvartalsrapporteringen skal inneholde de akkumulerte regnskapsopplysningene som er registrert i regnskapet ved utgangen av hvert kvartal.
 
-[§ 5](forskrift/2019-10-18-1412/§5) andre ledd gjelder tilsvarende for kvartalsrapporteringen. Det kan likevel unnlates å rapportere på følgende artskontoer, funksjonskontoer og balansekapitler i vedleggene 1 til 4:artskontoene 530, 540, 548, 550, 570, 930, 940, 948, 950, 970 og 980funksjonskontoene 170, 471, 860, 880 og 899balansekapitlene 19, 20, 39 og 40, 51 til 5990 og 9100 til 9999.
+[§ 5](forskrift/2019-10-18-1412/§5) andre ledd gjelder tilsvarende for kvartalsrapporteringen. Det kan likevel unnlates å rapportere på følgende artskontoer, funksjonskontoer og balansekapitler i vedleggene 1 til 4:
+
+1. artskontoene 530, 540, 548, 550, 570, 930, 940, 948, 950, 970 og 980
+2. funksjonskontoene 170, 471, 860, 880 og 899
+3. balansekapitlene 19, 20, 39 og 40, 51 til 5990 og 9100 til 9999.
 
 ## § 7. Ikrafttredelse
 

@@ -24,7 +24,10 @@ eu_basis: []
 
 ## I
 
-Kommunal- og moderniseringsdepartementet fastsetter med hjemmel i [lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester)](lov/2018-06-15-44) jf. [delegeringsvedtak 8. november 2019 nr. 1491](forskrift/2019-11-08-1491) følgende:Med hjemmel i [§ 1](lov/2018-06-15-44/§1) fjerde ledd: Nasjonal kommunikasjonsmyndighet utpekes som det organ som skal opprette, ajourføre og offentliggjøre en tillitsliste.Med hjemmel i [§ 3](lov/2018-06-15-44/§3) første ledd: Nasjonal kommunikasjonsmyndighet utpekes som det organ som skal føre tilsyn med at bestemmelsene gitt i eller i medhold av loven, blir oppfylt.
+Kommunal- og moderniseringsdepartementet fastsetter med hjemmel i [lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester)](lov/2018-06-15-44) jf. [delegeringsvedtak 8. november 2019 nr. 1491](forskrift/2019-11-08-1491) følgende:
+
+- Med hjemmel i [§ 1](lov/2018-06-15-44/§1) fjerde ledd: Nasjonal kommunikasjonsmyndighet utpekes som det organ som skal opprette, ajourføre og offentliggjøre en tillitsliste.
+- Med hjemmel i [§ 3](lov/2018-06-15-44/§3) første ledd: Nasjonal kommunikasjonsmyndighet utpekes som det organ som skal føre tilsyn med at bestemmelsene gitt i eller i medhold av loven, blir oppfylt.
 
 ## II
 

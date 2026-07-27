@@ -22,7 +22,17 @@ eu_basis: []
 
 # Forskrift om delegering av myndighet etter naturvernloven m.v. til Klima- og miljødepartementet for fredningsvedtak
 
-Kongens myndighet etter [lov om naturvern 19. juni 1970 nr. 63 § 4](lov/1970-06-19-63/§4), [§ 6](lov/1970-06-19-63/§6), [§ 10](lov/1970-06-19-63/§10), [§ 12](lov/1970-06-19-63/§12), [§ 13](lov/1970-06-19-63/§13), [§ 14](lov/1970-06-19-63/§14), [§ 21](lov/1970-06-19-63/§21), [§ 22](lov/1970-06-19-63/§22) og [§ 23](lov/1970-06-19-63/§23) delegeres til Klima- og miljødepartementet forsåvidt gjelder:endringer i verneområdets navn;retting av feil og unøyaktigheter i beskrivelsen av det vernete område;grenseendringer som omfatter mindre arealer (utvidelser eller innskrenkninger);bestemmelser om skjøtsel forsåvidt det ikke etter annen bestemmelse er lagt til statsforvalteren eller annen forvaltningsmyndighet;bestemmelser om merking mv. etter § 21;bestemmelser om ferdselsregulering etter § 22 første ledd;dispensasjon etter § 23 forsåvidt ikke dispensasjonsmyndigheten etter annen bestemmelse er lagt til statsforvalteren eller annen forvaltningsmyndighet;andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet;oppheving av eldre fredninger der verneformålet er bortfalt.
+Kongens myndighet etter [lov om naturvern 19. juni 1970 nr. 63 § 4](lov/1970-06-19-63/§4), [§ 6](lov/1970-06-19-63/§6), [§ 10](lov/1970-06-19-63/§10), [§ 12](lov/1970-06-19-63/§12), [§ 13](lov/1970-06-19-63/§13), [§ 14](lov/1970-06-19-63/§14), [§ 21](lov/1970-06-19-63/§21), [§ 22](lov/1970-06-19-63/§22) og [§ 23](lov/1970-06-19-63/§23) delegeres til Klima- og miljødepartementet forsåvidt gjelder:
+
+1. endringer i verneområdets navn;
+2. retting av feil og unøyaktigheter i beskrivelsen av det vernete område;
+3. grenseendringer som omfatter mindre arealer (utvidelser eller innskrenkninger);
+4. bestemmelser om skjøtsel forsåvidt det ikke etter annen bestemmelse er lagt til statsforvalteren eller annen forvaltningsmyndighet;
+5. bestemmelser om merking mv. etter § 21;
+6. bestemmelser om ferdselsregulering etter § 22 første ledd;
+7. dispensasjon etter § 23 forsåvidt ikke dispensasjonsmyndigheten etter annen bestemmelse er lagt til statsforvalteren eller annen forvaltningsmyndighet;
+8. andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet;
+9. oppheving av eldre fredninger der verneformålet er bortfalt.
 
 Delegeringen gjelder tilsvarende i forhold til vernevedtak truffet i medhold av [lov om naturfredning 25. juli 1910 nr. 3](lov/1910-07-25-3) og [lov om naturvern 1. desember 1954 nr. 2](lov/1954-12-01-2).
 

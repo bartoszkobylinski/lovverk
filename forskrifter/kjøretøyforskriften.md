@@ -15,7 +15,7 @@ xml_hash: "6026627b47e8b185490c55ea161309c9fc55ae75ab7318e7dec4bd0dce3712ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,15 +26,29 @@ eu_basis: []
 
 ### § 1-1. Forskriftens virkeområde m.m.
 
-1\. Denne forskrift får anvendelse for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1995 eller senere.Den får også anvendelse for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1995 eller senere.For bil og tilhenger til bil registrert første gang i Norge før 15. september 2012, får denne forskriften anvendelse kun der [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233) fastsetter dette.
+1\. Denne forskrift får anvendelse for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1995 eller senere.
 
-2\. For kjøretøy eller deler typegodkjent i Norge før 1. januar 1995 gjelder forskrifter for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1996 (for moped 1. januar 1997) eller senere.Tilsvarende gjelder for typegodkjente deler som omsettes eller tas i bruk e.l.– avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1996 eller senere.
+Den får også anvendelse for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1995 eller senere.
 
-3\. For kjøretøy registrert eller tatt i bruk første gang før hhv. 1. januar 1995 (jfr. nr. 1), 1. januar 1996 (jfr. nr. 2) eller 1. januar 1997 (moped, jfr. nr. 2), gjelder forskrift om krav til kjøretøy av [25. januar 1990 nr. 91](forskrift/1990-01-25-91), herunder definisjonene der.Tilsvarende gjelder for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – før 1. januar 1995.Kravene i denne forskrift tillates fulgt for kjøretøy og deler som nevnt i første og andre ledd.
+For bil og tilhenger til bil registrert første gang i Norge før 15. september 2012, får denne forskriften anvendelse kun der [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233) fastsetter dette.
+
+2\. For kjøretøy eller deler typegodkjent i Norge før 1. januar 1995 gjelder forskrifter for kjøretøy som registreres første gang eller tas i bruk uten registreringsplikt i Norge 1. januar 1996 (for moped 1. januar 1997) eller senere.
+
+Tilsvarende gjelder for typegodkjente deler som omsettes eller tas i bruk e.l.– avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – 1. januar 1996 eller senere.
+
+3\. For kjøretøy registrert eller tatt i bruk første gang før hhv. 1. januar 1995 (jfr. nr. 1), 1. januar 1996 (jfr. nr. 2) eller 1. januar 1997 (moped, jfr. nr. 2), gjelder forskrift om krav til kjøretøy av [25. januar 1990 nr. 91](forskrift/1990-01-25-91), herunder definisjonene der.
+
+Tilsvarende gjelder for deler omsatt eller tatt i bruk e.l. – avhengig av hva slags ikrafttredelsesbestemmelse som gjelder – før 1. januar 1995.
+
+Kravene i denne forskrift tillates fulgt for kjøretøy og deler som nevnt i første og andre ledd.
 
 4\. Forskriften får også virkning for deler og utstyr til kjøretøy registrert eller tatt bruk første gang før hhv. 1. januar 1995 jfr. nr. 1) eller 1. januar 1996 (jfr. nr. 2), i den utstrekning dette blir fastsatt i vedlegg til denne forskrift. I vedlegget fastsettes også andre eventuelle endringer i forskrift om krav til kjøretøy.
 
-5\. Forskriften gjelder ikke for:sykkelkjøretøy, dersom føreren regnes som gående etter trafikkreglene.pansrede stridskjøretøy
+5\. Forskriften gjelder ikke for:
+
+- sykkel
+- kjøretøy, dersom føreren regnes som gående etter trafikkreglene.
+- pansrede stridskjøretøy
 
 6\. Med unntak av [kap. 24](forskrift/1994-10-04-918/kap24), [25](forskrift/1994-10-04-918/kap25) og [27](forskrift/1994-10-04-918/kap27), gjelder ikke forskriften for motorvogn bestemt til å føres av gående.
 
@@ -88,11 +102,22 @@ Kjøretøy som tidligere har vært registrert, eller tatt i bruk uten registreri
 
 ### § 1-8. Godkjenning av kjøretøy importert som arvegods eller ved eiers flytting, eller som registreres på internasjonale organisasjoner eller utenlandsk myndighet mfl. i Norge
 
-1\. Kjøretøy som har vært registrert i utlandet og som importeres som arvegods, kan godkjennes uten at kravene i denne forskrift er oppfylt. Se dog nr. 2 og 3.Forutsetningen for at kjøretøyet kan anses som arvegods, er at avgiftsmyndighetene har godtatt det som arvegods («motorvogner som innføres som arvegods») ved å innvilge det avgiftsfradrag eller avgiftsfritak.Unntak fra kravene i denne forskrift kan også gis til kjøretøy som tas med fra utlandet i forbindelse med flytting til eller etablering i Norge, og som registreres på kjennemerker med gule tegn på blå, reflekterende bunn («diplomatkjennemerker») eller som registreres på internasjonale organisasjoner i Norge eller deres personale som nyter personlig tollfrihet, i den grad dette følger av folkeretten eller av særskilt overenskomst, forutsatt at kjøretøyet importeres til eget bruk, og det gis avgiftsfrihet, avgiftsnedsettelse eller avgiftstilskudd for engangsavgift. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
+1\. Kjøretøy som har vært registrert i utlandet og som importeres som arvegods, kan godkjennes uten at kravene i denne forskrift er oppfylt. Se dog nr. 2 og 3.
+
+Forutsetningen for at kjøretøyet kan anses som arvegods, er at avgiftsmyndighetene har godtatt det som arvegods («motorvogner som innføres som arvegods») ved å innvilge det avgiftsfradrag eller avgiftsfritak.
+
+Unntak fra kravene i denne forskrift kan også gis til kjøretøy som tas med fra utlandet i forbindelse med flytting til eller etablering i Norge, og som registreres på kjennemerker med gule tegn på blå, reflekterende bunn («diplomatkjennemerker») eller som registreres på internasjonale organisasjoner i Norge eller deres personale som nyter personlig tollfrihet, i den grad dette følger av folkeretten eller av særskilt overenskomst, forutsatt at kjøretøyet importeres til eget bruk, og det gis avgiftsfrihet, avgiftsnedsettelse eller avgiftstilskudd for engangsavgift. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
 
 2\. Kjøretøy som godkjennes etter nr. 1 må tilfredsstille kravene i motorvognforskriftene av 3. juni 1942 samt bestemmelser gitt med hjemmel i disse.
 
-3\. Likeledes skal følgende krav i denne forskrift være tilfredsstilt:Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.Krav om bilbelter i forsetet, jfr. [kap. 16](forskrift/1994-10-04-918/kap16), dog slik at bilbelter som er montert ved importen skal godkjennes, såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd fast forbundet med hverandre (ikke delbart).Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.Krav om speil, jfr. [kap. 30](forskrift/1994-10-04-918/kap30).Krav til LPG-drivstoffanlegg på bil, jf. [§ 22-6](forskrift/1994-10-04-918/§22-6).
+3\. Likeledes skal følgende krav i denne forskrift være tilfredsstilt:
+
+1. Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.
+2. Krav om bilbelter i forsetet, jfr. [kap. 16](forskrift/1994-10-04-918/kap16), dog slik at bilbelter som er montert ved importen skal godkjennes, såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd fast forbundet med hverandre (ikke delbart).
+
+   Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.
+3. Krav om speil, jfr. [kap. 30](forskrift/1994-10-04-918/kap30).
+4. Krav til LPG-drivstoffanlegg på bil, jf. [§ 22-6](forskrift/1994-10-04-918/§22-6).
 
 4\. Kjøretøy som tas med til Norge og registreres på det amerikanske forsvaret eller dets avtalepartnere, eller på deres personale eller personalets familie, i henhold til [Tilleggsavtale mellom Norge og USA om forsvarssamarbeid](traktat/2021-04-16-3) av 16. april 2021 artikkel IX, skal godkjennes uten ytterligere krav. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
 
@@ -102,15 +127,28 @@ Kjøretøy som tidligere har vært registrert, eller tatt i bruk uten registreri
 
 ### § 1-9. Bevaringsverdige kjøretøy
 
-1\. Bestemmelsene i denne paragraf gjelder for:kjøretøy som tidligere ikke har vært registrert i Norge,kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,kjøretøy som tidligere har vært registrert på forsvaret.
+1\. Bestemmelsene i denne paragraf gjelder for:
 
-2\. Med *original utførelse* menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.*Tilnærmet original utførelse* vil videre si at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og godkjent i den periode da kjøretøyet var i vanlig bruk.
+- kjøretøy som tidligere ikke har vært registrert i Norge,
+- kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,
+- kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,
+- kjøretøy som tidligere har vært registrert på forsvaret.
 
-3\. Kjøretøy som er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelsen selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7). Innretning/utstyr som har betydning for sikkerheten, må virke tilfredsstillende.Kjøretøy i denne gruppen omfattes ikke av senere tekniske bestemmelser som er gjort tilbakevirkende.
+2\. Med *original utførelse* menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.
 
-4\. Kjøretøy som er 15 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), men yngre enn 30 år, og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelse selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7), såfremt det er av spesiell interesse. «Spesiell interesse» vil i denne forbindelse vanligvis avhenge av alder og sjeldenhet (i Norge), slik at det til et 15 år gammelt kjøretøy stilles meget strenge krav til sjeldenhet.Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+*Tilnærmet original utførelse* vil videre si at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og godkjent i den periode da kjøretøyet var i vanlig bruk.
 
-5\. Kjøretøy som er yngre enn 15 år og er i tilnærmet original stand, kan i helt spesielle tilfelle godtas som bevaringsverdig og godkjennes selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7).Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+3\. Kjøretøy som er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelsen selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7). Innretning/utstyr som har betydning for sikkerheten, må virke tilfredsstillende.
+
+Kjøretøy i denne gruppen omfattes ikke av senere tekniske bestemmelser som er gjort tilbakevirkende.
+
+4\. Kjøretøy som er 15 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), men yngre enn 30 år, og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelse selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7), såfremt det er av spesiell interesse. «Spesiell interesse» vil i denne forbindelse vanligvis avhenge av alder og sjeldenhet (i Norge), slik at det til et 15 år gammelt kjøretøy stilles meget strenge krav til sjeldenhet.
+
+Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+
+5\. Kjøretøy som er yngre enn 15 år og er i tilnærmet original stand, kan i helt spesielle tilfelle godtas som bevaringsverdig og godkjennes selv om det ikke oppfyller betingelsene i [§ 1-7](forskrift/1994-10-04-918/§1-7).
+
+Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
 
 6\. Kjøretøy som er godkjent etter nr. 3, 4 eller 5, skal ha følgende påtegning i vognkortets anmerkningsrubrikk ved registreringen:
 
@@ -118,7 +156,10 @@ Kjøretøy som tidligere har vært registrert, eller tatt i bruk uten registreri
 
 7\. Kjøretøy som er godkjent etter nr. 3 eller 4, skal ha følgende påtegning i tillegg:
 
-«Må bare benyttesved spesielle anledninger som f.eks. motorhistoriske samlinger og løpellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.»
+«Må bare benyttes
+
+- ved spesielle anledninger som f.eks. motorhistoriske samlinger og løp
+- ellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.»
 
 8\. Ved deltagelse i motorhistoriske samlinger og løp, men ikke kjøring til eller fra, kan kjørtøy, som et unntak fra nr. 2, ha den utførelse det hadde fra fabrikantens side.
 
@@ -170,7 +211,12 @@ Denne forskrift gjelder fra 1. januar 1995.
 
 2\. *Gebyrpliktens omfang, definisjoner mv.*
 
-2.1 Gebyrplikten omfatter følgende typer godkjenning:Godkjenning av bruktimporterte kjøretøy. (Unntatt EØF-typegodkjent kjøretøy)Enkeltgodkjenning av kjøretøy hvor det ikke foreligger typegodkjenning.Ny godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy når dette kreves etter [§ 6-9](forskrift/1994-10-04-918/§6-9) eller [§ 7-2](forskrift/1994-10-04-918/§7-2) nr. 2.1, 3.1 eller 4.1.Nasjonal typegodkjenning av kjøretøyer.
+2.1 Gebyrplikten omfatter følgende typer godkjenning:
+
+1. Godkjenning av bruktimporterte kjøretøy. (Unntatt EØF-typegodkjent kjøretøy)
+2. Enkeltgodkjenning av kjøretøy hvor det ikke foreligger typegodkjenning.
+3. Ny godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy når dette kreves etter [§ 6-9](forskrift/1994-10-04-918/§6-9) eller [§ 7-2](forskrift/1994-10-04-918/§7-2) nr. 2.1, 3.1 eller 4.1.
+4. Nasjonal typegodkjenning av kjøretøyer.
 
 2.2 Det er uten betydning om godkjenningen er betegnet som godkjenning, kontroll e.l. så lenge det gjelder vedtak som gjelder enkeltgodkjenning eller typegodkjenning i henhold til [kap. 6](forskrift/1994-10-04-918/kap6) (unntatt [§ 6-15](forskrift/1994-10-04-918/§6-15)) eller 7.
 
@@ -212,7 +258,21 @@ Denne forskrift gjelder fra 1. januar 1995.
 
 (2) Bilen skal vedlikeholdes i henhold til [§ 1-5](forskrift/1994-10-04-918/§1-5). Moderate endringer som ikke påvirker bilens sikkerhets- og miljøegenskaper i negativ grad tillates.
 
-(3) For bil som per 1. juni 2017 ikke har godkjenning for trekking av tilhenger, gjelder følgende for tildeling av slik godkjenning:største tilhengervekt settes til det laveste av alternativene 1 og 2:fabrikantens garanti,tilhengerfestets vektgaranti,for tilhengervekter over 3500 kg kreves gjennomgående driftsbrems,for bil gruppe M2 og M3 skal største tilhengervekt ikke overstige 3500 kg,dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,dersom bil med trykkluftbremser ikke har kobling for ABS/EBS i henhold til ISO 7638-1, skal det gjøres merknad om dette i vognkortet,følgende vognkortanmerkning(er) benyttes slik det passer:«Bilen er ikke utstyrt med standard europeisk tilhengerkobling.»«Bilen er ikke utstyrt med standard europeisk kontakt for ABS/EBS, og kan ikke trekke tilhenger som krever slik tilkobling.»«Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
+(3) For bil som per 1. juni 2017 ikke har godkjenning for trekking av tilhenger, gjelder følgende for tildeling av slik godkjenning:
+
+1. største tilhengervekt settes til det laveste av alternativene 1 og 2:
+
+   1. fabrikantens garanti,
+   2. tilhengerfestets vektgaranti,
+2. for tilhengervekter over 3500 kg kreves gjennomgående driftsbrems,
+3. for bil gruppe M2 og M3 skal største tilhengervekt ikke overstige 3500 kg,
+4. dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,
+5. dersom bil med trykkluftbremser ikke har kobling for ABS/EBS i henhold til ISO 7638-1, skal det gjøres merknad om dette i vognkortet,
+6. følgende vognkortanmerkning(er) benyttes slik det passer:
+
+   - «Bilen er ikke utstyrt med standard europeisk tilhengerkobling.»
+   - «Bilen er ikke utstyrt med standard europeisk kontakt for ABS/EBS, og kan ikke trekke tilhenger som krever slik tilkobling.»
+   - «Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
 
 (4) Godkjenning av endringer i henhold til annet og tredje ledd skal gjøres av Statens vegvesen. Endring til lysutrustning som er i henhold til FMVSS eller CMVSS tillates uten ny godkjenning.
 
@@ -228,13 +288,30 @@ Denne forskrift gjelder fra 1. januar 1995.
 
 ### § 2-2. Definisjoner av biler og deres tilhengere
 
-1\. *Bil:* En ferdigoppbygget eller delvis oppbygget motorvogn som er bestemt til å kjøres på veg, har minst 4 hjul og har en konstruktiv hastighet på over 25 km/t, unntatt skinnekjøretøy og motorvogner som definert i [§ 2-3](forskrift/1994-10-04-918/§2-3), [§ 2-4](forskrift/1994-10-04-918/§2-4) og [§ 2-5](forskrift/1994-10-04-918/§2-5).Som bil regnes også firehjuls motorsykkel som definert i [§ 2-3](forskrift/1994-10-04-918/§2-3), typegodkjent eller registrert (uten typegodkjenning) før 1. oktober 1999, eller registrert (med typegodkjenning) før 17. juni 2003.
+1\. *Bil:* En ferdigoppbygget eller delvis oppbygget motorvogn som er bestemt til å kjøres på veg, har minst 4 hjul og har en konstruktiv hastighet på over 25 km/t, unntatt skinnekjøretøy og motorvogner som definert i [§ 2-3](forskrift/1994-10-04-918/§2-3), [§ 2-4](forskrift/1994-10-04-918/§2-4) og [§ 2-5](forskrift/1994-10-04-918/§2-5).
 
-2\. Bil gruppe M: Bil for persontransport.*Bil gruppe M 1 (personbil):* Bil for persontransport med høyst 8 sitteplasser i tillegg til førersetet.*Bil gruppe M 2 (buss):* Bil for persontransport med over 8 sitteplasser i tillegg til førersetet og tillatt totalvekt ikke over 5000 kg.*Bil gruppe M 3 (buss):* Bil for persontransport med over 8 sitteplasser i tillegg til førersetet og tillatt totalvekt over 5000 kg.
+Som bil regnes også firehjuls motorsykkel som definert i [§ 2-3](forskrift/1994-10-04-918/§2-3), typegodkjent eller registrert (uten typegodkjenning) før 1. oktober 1999, eller registrert (med typegodkjenning) før 17. juni 2003.
 
-3\. Bil gruppe N: Bil for godsbefordring, herunder trekkvogn.*Bil gruppe N 1 (varebil):* Bil for godsbefordring med tillatt totalvekt ikke over 3500 kg.*Bil gruppe N 2 (lastebil):* Bil for godsbefordring med tillatt totalvekt på over 3500 kg men ikke over 12000 kg.*Bil gruppe N 3 (lastebil):* Bil for godsbefordring med tillatt totalvekt over 12000 kg.
+2\. Bil gruppe M: Bil for persontransport.
 
-4\. Kjøretøy gruppe O: Tilhenger til bil, herunder semitrailer.*Kjøretøy gruppe O 1 (tilhenger):* Tilhenger med tillatt totalvekt ikke over 750 kg.*Kjøretøy gruppe O 2 (tilhenger):* Tilhenger med tillatt totalvekt over 750 kg men ikke over 3500 kg.*Kjøretøy gruppe O 3 (tilhenger):* Tilhenger med tillatt totalvekt over 3500 kg men ikke over 10000 kg.*Kjøretøy gruppe O 4 (tilhenger):* Tilhenger med tillatt totalvekt over 10000 kg.For semitrailere eller påhengsvogner skal den største vekten som legges til grunn ved klassifiseringen, være den statiske vertikale belastningen som overføres til bakken fra semitrailerens eller påhengsvognens aksel eller aksler, når semitraileren eller påhengsvognen er tilkoplet trekkvognen og lastet til største belastning, jf. direktiv [2001/116/EF](eu/32001l0116*) tillegg 2 kapittel A [punkt](forskrift/1994-10-04-918/kap3) 3.
+1. *Bil gruppe M 1 (personbil):* Bil for persontransport med høyst 8 sitteplasser i tillegg til førersetet.
+2. *Bil gruppe M 2 (buss):* Bil for persontransport med over 8 sitteplasser i tillegg til førersetet og tillatt totalvekt ikke over 5000 kg.
+3. *Bil gruppe M 3 (buss):* Bil for persontransport med over 8 sitteplasser i tillegg til førersetet og tillatt totalvekt over 5000 kg.
+
+3\. Bil gruppe N: Bil for godsbefordring, herunder trekkvogn.
+
+1. *Bil gruppe N 1 (varebil):* Bil for godsbefordring med tillatt totalvekt ikke over 3500 kg.
+2. *Bil gruppe N 2 (lastebil):* Bil for godsbefordring med tillatt totalvekt på over 3500 kg men ikke over 12000 kg.
+3. *Bil gruppe N 3 (lastebil):* Bil for godsbefordring med tillatt totalvekt over 12000 kg.
+
+4\. Kjøretøy gruppe O: Tilhenger til bil, herunder semitrailer.
+
+1. *Kjøretøy gruppe O 1 (tilhenger):* Tilhenger med tillatt totalvekt ikke over 750 kg.
+2. *Kjøretøy gruppe O 2 (tilhenger):* Tilhenger med tillatt totalvekt over 750 kg men ikke over 3500 kg.
+3. *Kjøretøy gruppe O 3 (tilhenger):* Tilhenger med tillatt totalvekt over 3500 kg men ikke over 10000 kg.
+4. *Kjøretøy gruppe O 4 (tilhenger):* Tilhenger med tillatt totalvekt over 10000 kg.
+
+For semitrailere eller påhengsvogner skal den største vekten som legges til grunn ved klassifiseringen, være den statiske vertikale belastningen som overføres til bakken fra semitrailerens eller påhengsvognens aksel eller aksler, når semitraileren eller påhengsvognen er tilkoplet trekkvognen og lastet til største belastning, jf. direktiv [2001/116/EF](eu/32001l0116*) tillegg 2 kapittel A [punkt](forskrift/1994-10-04-918/kap3) 3.
 
 5\. Bil gruppe G: Bil gruppe M eller N som regnes som terrenggående i henhold til vedlegg II i direktiv [70/156/EØF](eu/31970l0156*) som senest endret ved direktiv [98/14/EF](eu/31998l0014*). G angis i kombinasjon med aktuell betegnelse i M eller N.
 
@@ -242,17 +319,57 @@ Denne forskrift gjelder fra 1. januar 1995.
 
 ### § 2-3. Definisjoner av to- og trehjulede motorvogner (mopeder og motorsykler)
 
-1\. Med to- og trehjulede motorvogner menes alle motorvogner med to eller tre hjul, unntatt traktor eller motorredskap, med eller uten tvillinghjul, beregnet til å kjøres på veg, og med konstruktiv hastighet over 6 km/t. Begrepet omfatter også visse firehjuls motorvogner (firehjuls motorsykler), jf. nr. 2.Med tvillinghjul menes to hjul montert på samme aksel der avstanden mellom midtpunktene på dekkenes berøringsflater med bakken er mindre enn 460 mm. Tvillinghjul anses som ett hjul.Med egenmasse forstås her kjøretøyets masse når det er klar til normal bruk og har følgende utstyr:tilleggsutstyr som utelukkende kreves til normal bruk,komplett elektrisk utstyr, herunder lys- og lyssignalinnretninger levert av produsenten,instrumenter og innretninger som kreves etter den lovgivning som er anvendt ved måling av kjøretøyets egenmasse,tilstrekkelige mengder supplerende væsker til å sikre at alle deler av kjøretøyet fungerer som de skal.NB: Drivstoff og oljeblandet drivstoff tas ikke med i denne beregningen, mens f.eks. batterisyre, væske i hydrauliske kretsløp, kjølevæske og motorolje skal medregnes.Egenmasse for firehjuls mopeder i gruppe L6e og motorsykler i gruppe L7e beregnet for varetransport, skal etter 1. juli 2005 fastsettes i henhold til direktiv [93/93/EØF](eu/31993l0093*) som endret ved direktiv [2004/86/EF](eu/32004l0086).
+1\. Med to- og trehjulede motorvogner menes alle motorvogner med to eller tre hjul, unntatt traktor eller motorredskap, med eller uten tvillinghjul, beregnet til å kjøres på veg, og med konstruktiv hastighet over 6 km/t. Begrepet omfatter også visse firehjuls motorvogner (firehjuls motorsykler), jf. nr. 2.
 
-2\. Ellers gjelder følgende definisjoner:*Moped:* Motorvogn med to hjul (motorvogn gruppe L1e) eller tre hjul (motorvogn gruppe L2e) som har en høyeste konstruksjonshastighet som ikke overstiger 45 km/t og som har motor som oppfyller vilkårene angitt i annet eller tredje avsnitt.Motorvogn med to hjul som har motor med slagvolum som ikke overstiger 50 cm3 dersom den har forbrenningsmotor, eller maksimal kontinuerlig nominell effekt på høyst 4 kW hvis den har elektrisk motor.Motorvogn med tre hjul som har motor med slagvolum som ikke overstiger 50 cm3 dersom den har elektrisk tenning, eller maksimal nettoeffekt på høyst 4 kW hvis den har en annen forbrenningsmotor eller maksimal kontinuerlig nominell effekt på høyst 4 kW hvis den har en elektrisk motor.Som moped regnes også firehjuls motorsykkel med en egenmasse på under 350 kg (motorvogn gruppe L6e), ikke medregnet batterienes masse for elektrisk drevne motorvogner, hvis høyeste konstruksjonshastighet ikke overstiger 45 km/t, som har motor med slagvolum på 50 cm3 eller mindre for motorer med elektrisk tenning (eller største netto effekt på 4 kW eller mindre for andre forbrenningsmotortyper eller maksimal kontinuerlig nominell effekt på høyst 4 kW for elektrisk motor).Alternativt kan definisjonen av moped i forskrift om krav til kjøretøy anvendes for nasjonale typegodkjenninger før 1. oktober 1996.*Motorsykkel:* Motorvogn med to hjul, med sidevogn (motorvogn gruppe L4e) eller uten sidevogn (motorvogn gruppe L3e), som har motor med slagvolum på mer enn 50 cm3 , dersom den har forbrenningsmotor, og/eller en høyeste konstruksjonshastighet på mer enn 45 km/t.*Trehjuls motorsykkel:* Motorvogn med tre symmetrisk plasserte hjul, som har motor med slagvolum på mer enn 50 cm3 dersom den har forbrenningsmotor, og/eller en høyeste konstruksjonshastighet på mer enn 45 km/t (motorvogn gruppe L5e).Som trehjuls motorsykkel regnes også firehjuls motorsykkel med en egenmasse som ikke overstiger 400 kg (motorvogn gruppe L7e) (550 kg for motorvogner beregnet for godstransport), ikke medregnet batterienes masse for elektrisk drevne motorvogner, som har motor hvis største netto effekt ikke overstiger 15 kW, med unntak av de firehjuls motorsykler som er nevnt i nr. 2 bokstav a fjerde ledd.For kjøretøy typegodkjent eller registrert (uten typegodkjenning) før 1. oktober 1999, eller kjøretøy registrert (med typegodkjenning) før 17. juni 2003, skal firehjuls motorsykkel som nevnt likevel regnes som bil.*Lett motorsykkel:* Motorsykkel som har motor med slagvolum ikke over 125 cm3 , og effekt ikke over 11 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041) jf. [§ 23-3](forskrift/1994-10-04-918/§23-3).*Mellomtung motorsykkel:* Motorsykkel som har en effekt på høyst 35 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041), jf. [§ 23-3](forskrift/1994-10-04-918/§23-3), og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effekt.*Tung motorsykkel:* Motorsykkel som har motor med slagvolum over 125 cm3 og/eller effekt over 11 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041), jf. [§ 23-3](forskrift/1994-10-04-918/§23-3).
+Med tvillinghjul menes to hjul montert på samme aksel der avstanden mellom midtpunktene på dekkenes berøringsflater med bakken er mindre enn 460 mm. Tvillinghjul anses som ett hjul.
 
-3\. Definisjonen av mellomtung motorsykkel i nr. 2 bokstav e) trer i kraft 19. april 2013. For motorsykler registrert før denne dato gjelder definisjonene slik disse lød før endringen av 19. april 2013.Definisjonene av lett, mellomtung og tung motorsykkel i nr. 2 d), e) og f) trer i kraft 1. februar 1996. For motorsykler registrert før denne dato gjelder definisjonene slik disse lød før endringen av 22. januar 1996.Tung motorsykkel registrert før 1. februar 1996 og som – eventuelt etter ombygging – dekkes av definisjonen av lett motorsykkel i denne paragraf, tillates omregistrert til lett motorsykkel. Motorsykkelen skal fremstilles for ny godkjenning og det må fremlegges nødvendig dokumentasjon dersom dette følger av [kap. 6](forskrift/1994-10-04-918/kap6) eller 7.
+Med egenmasse forstås her kjøretøyets masse når det er klar til normal bruk og har følgende utstyr:
+
+- tilleggsutstyr som utelukkende kreves til normal bruk,
+- komplett elektrisk utstyr, herunder lys- og lyssignalinnretninger levert av produsenten,
+- instrumenter og innretninger som kreves etter den lovgivning som er anvendt ved måling av kjøretøyets egenmasse,
+- tilstrekkelige mengder supplerende væsker til å sikre at alle deler av kjøretøyet fungerer som de skal.
+
+NB: Drivstoff og oljeblandet drivstoff tas ikke med i denne beregningen, mens f.eks. batterisyre, væske i hydrauliske kretsløp, kjølevæske og motorolje skal medregnes.
+
+Egenmasse for firehjuls mopeder i gruppe L6e og motorsykler i gruppe L7e beregnet for varetransport, skal etter 1. juli 2005 fastsettes i henhold til direktiv [93/93/EØF](eu/31993l0093*) som endret ved direktiv [2004/86/EF](eu/32004l0086).
+
+2\. Ellers gjelder følgende definisjoner:
+
+1. *Moped:* Motorvogn med to hjul (motorvogn gruppe L1e) eller tre hjul (motorvogn gruppe L2e) som har en høyeste konstruksjonshastighet som ikke overstiger 45 km/t og som har motor som oppfyller vilkårene angitt i annet eller tredje avsnitt.
+
+   Motorvogn med to hjul som har motor med slagvolum som ikke overstiger 50 cm3 dersom den har forbrenningsmotor, eller maksimal kontinuerlig nominell effekt på høyst 4 kW hvis den har elektrisk motor.
+
+   Motorvogn med tre hjul som har motor med slagvolum som ikke overstiger 50 cm3 dersom den har elektrisk tenning, eller maksimal nettoeffekt på høyst 4 kW hvis den har en annen forbrenningsmotor eller maksimal kontinuerlig nominell effekt på høyst 4 kW hvis den har en elektrisk motor.
+
+   Som moped regnes også firehjuls motorsykkel med en egenmasse på under 350 kg (motorvogn gruppe L6e), ikke medregnet batterienes masse for elektrisk drevne motorvogner, hvis høyeste konstruksjonshastighet ikke overstiger 45 km/t, som har motor med slagvolum på 50 cm3 eller mindre for motorer med elektrisk tenning (eller største netto effekt på 4 kW eller mindre for andre forbrenningsmotortyper eller maksimal kontinuerlig nominell effekt på høyst 4 kW for elektrisk motor).
+
+   Alternativt kan definisjonen av moped i forskrift om krav til kjøretøy anvendes for nasjonale typegodkjenninger før 1. oktober 1996.
+2. *Motorsykkel:* Motorvogn med to hjul, med sidevogn (motorvogn gruppe L4e) eller uten sidevogn (motorvogn gruppe L3e), som har motor med slagvolum på mer enn 50 cm3 , dersom den har forbrenningsmotor, og/eller en høyeste konstruksjonshastighet på mer enn 45 km/t.
+3. *Trehjuls motorsykkel:* Motorvogn med tre symmetrisk plasserte hjul, som har motor med slagvolum på mer enn 50 cm3 dersom den har forbrenningsmotor, og/eller en høyeste konstruksjonshastighet på mer enn 45 km/t (motorvogn gruppe L5e).
+
+   Som trehjuls motorsykkel regnes også firehjuls motorsykkel med en egenmasse som ikke overstiger 400 kg (motorvogn gruppe L7e) (550 kg for motorvogner beregnet for godstransport), ikke medregnet batterienes masse for elektrisk drevne motorvogner, som har motor hvis største netto effekt ikke overstiger 15 kW, med unntak av de firehjuls motorsykler som er nevnt i nr. 2 bokstav a fjerde ledd.
+
+   For kjøretøy typegodkjent eller registrert (uten typegodkjenning) før 1. oktober 1999, eller kjøretøy registrert (med typegodkjenning) før 17. juni 2003, skal firehjuls motorsykkel som nevnt likevel regnes som bil.
+4. *Lett motorsykkel:* Motorsykkel som har motor med slagvolum ikke over 125 cm3 , og effekt ikke over 11 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041) jf. [§ 23-3](forskrift/1994-10-04-918/§23-3).
+5. *Mellomtung motorsykkel:* Motorsykkel som har en effekt på høyst 35 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041), jf. [§ 23-3](forskrift/1994-10-04-918/§23-3), og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effekt.
+6. *Tung motorsykkel:* Motorsykkel som har motor med slagvolum over 125 cm3 og/eller effekt over 11 kW, målt i henhold til direktiv [95/1/EF](eu/31995l0001), eventuelt som endret ved direktiv [2002/41/EF](eu/32002l0041), jf. [§ 23-3](forskrift/1994-10-04-918/§23-3).
+
+3\. Definisjonen av mellomtung motorsykkel i nr. 2 bokstav e) trer i kraft 19. april 2013. For motorsykler registrert før denne dato gjelder definisjonene slik disse lød før endringen av 19. april 2013.
+
+Definisjonene av lett, mellomtung og tung motorsykkel i nr. 2 d), e) og f) trer i kraft 1. februar 1996. For motorsykler registrert før denne dato gjelder definisjonene slik disse lød før endringen av 22. januar 1996.
+
+Tung motorsykkel registrert før 1. februar 1996 og som – eventuelt etter ombygging – dekkes av definisjonen av lett motorsykkel i denne paragraf, tillates omregistrert til lett motorsykkel. Motorsykkelen skal fremstilles for ny godkjenning og det må fremlegges nødvendig dokumentasjon dersom dette følger av [kap. 6](forskrift/1994-10-04-918/kap6) eller 7.
 
 > Endret ved [forskrifter 7 mars 2005 nr. 222](forskrift/2005-03-07-222), [19 jan 2007 nr. 54](forskrift/2007-01-19-54), [19 april 2013 nr. 394](forskrift/2013-04-19-394).
 
 ### § 2-4. Definisjon av traktor, tilhenger til traktor og utskiftbar trukket maskin
 
-1\. *Traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*Enhver motordrevet landbruks- eller skogbrukstraktor med hjul eller belter, som har minst to aksler og en konstruktivt bestemt maksimalhastighet på minst 6 km/t, hvis funksjon i det vesentlige ligger i dens trekkraft, og som er særlig konstruert til å trekke, skyve, bære eller drive forskjellige former for utskiftelig landbruks- eller skogbruksmateriell, eller trekke landbruks- eller skogbrukstilhenger. Traktoren kan innrettes med henblikk på å transportere gods i forbindelse med en anvendelse innenfor landbruk eller skogbruk, og/eller den kan utstyres med passasjerseter.Traktor deles inn i klasser som nevnt nedenfor, og klassen skal fremgå av vognkortet for traktor med registreringsplikt:
+1\. *Traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*
+
+Enhver motordrevet landbruks- eller skogbrukstraktor med hjul eller belter, som har minst to aksler og en konstruktivt bestemt maksimalhastighet på minst 6 km/t, hvis funksjon i det vesentlige ligger i dens trekkraft, og som er særlig konstruert til å trekke, skyve, bære eller drive forskjellige former for utskiftelig landbruks- eller skogbruksmateriell, eller trekke landbruks- eller skogbrukstilhenger. Traktoren kan innrettes med henblikk på å transportere gods i forbindelse med en anvendelse innenfor landbruk eller skogbruk, og/eller den kan utstyres med passasjerseter.
+
+Traktor deles inn i klasser som nevnt nedenfor, og klassen skal fremgå av vognkortet for traktor med registreringsplikt:
 
 *Klasse T, hjultraktor:*
 
@@ -266,27 +383,46 @@ Denne forskrift gjelder fra 1. januar 1995.
 
 Beltetraktor, som drives frem og styres ved hjelp av belter, og som inndeles i klasse C1 til C5 tilsvarende som klasse T1 til T5.
 
-2\. *Tilhenger til traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*Enhver skogbruks- eller landbrukstilhenger, som hovedsakelig er beregnet til å transportere gods og konstruert til å bli koblet til en traktor med henblikk på en anvendelse innenfor skogbruk eller landbruk. Denne klasse omfatter også tilhenger, hvor en del av godset bæres av traktoren. Som landbruks- eller skogbrukstilhenger regnes også kjøretøy, som er koblet til en traktor og har et fastmontert redskap, hvis forholdet mellom kjøretøyets teknisk tillatte totalvekt og dets egenvekt er minst 3,0, og kjøretøyet ikke er konstruert til å behandle materialer.Tilhenger til traktor deles inn i klasser som nevnt nedenfor, og klassen skal fremgå i vognkortet for tilhenger med registreringsplikt:
+2\. *Tilhenger til traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*
+
+Enhver skogbruks- eller landbrukstilhenger, som hovedsakelig er beregnet til å transportere gods og konstruert til å bli koblet til en traktor med henblikk på en anvendelse innenfor skogbruk eller landbruk. Denne klasse omfatter også tilhenger, hvor en del av godset bæres av traktoren. Som landbruks- eller skogbrukstilhenger regnes også kjøretøy, som er koblet til en traktor og har et fastmontert redskap, hvis forholdet mellom kjøretøyets teknisk tillatte totalvekt og dets egenvekt er minst 3,0, og kjøretøyet ikke er konstruert til å behandle materialer.
+
+Tilhenger til traktor deles inn i klasser som nevnt nedenfor, og klassen skal fremgå i vognkortet for tilhenger med registreringsplikt:
 
 *Klasse R: Tilhengere*
 
 - *Klasse R1:* Tilhenger, hvor summen av de enkelte akslers teknisk tillatte akseltrykk ikke er over 1.500 kg.
 - *Klasse R2:* Tilhenger, hvor summen av de enkelte akslers teknisk tillatte akseltrykk er over 1.500 kg, men ikke over 3.500 kg.
 - *Klasse R3:* Tilhenger hvor summen av de enkelte akslers teknisk tillatte akseltrykk er over 3.500 kg, men ikke over 21.000 kg.
-- *Klasse R4:* Tilhenger hvor summen av de enkelte akslers teknisk tillatte akseltrykk er over 21000 kg.Hver klasse av tilhenger angis også med en bokstav «a» eller «b» avhengig av den hastighet, som tilhengeren er konstruert til:
+- *Klasse R4:* Tilhenger hvor summen av de enkelte akslers teknisk tillatte akseltrykk er over 21000 kg.
+
+  Hver klasse av tilhenger angis også med en bokstav «a» eller «b» avhengig av den hastighet, som tilhengeren er konstruert til:
 - «a» for tilhenger som er konstruert til en hastighet ikke over 40 km/t
 - «b» for tilhenger, som er konstruert til en hastighet over 40 km/t.
 
-3\. *Utskiftbar trukket maskin som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*Landbruks- eller skogbruksredskap, som er konstruert til å bli trukket av en traktor, og som endrer traktorens funksjon eller tilfører en ny funksjon. Det kan dessuten omfatte et lasteplan som er konstruert og utformet til anbringelse av de verktøy og utstyr, som er nødvendige for å utføre arbeidet, og til midlertidig oppbevaring av de materialer som fremstilles, eller som er nødvendige under arbeidet. Som utskiftbar trukket maskin regnes også ethvert skogbruks- eller landbrukskjøretøy, som er beregnet til å bli trukket av en traktor og har et redskap som er fastmontert eller beregnet til behandling av materialer, hvis forholdet mellom kjøretøyets teknisk tillatte totalmasse og dets egenvekt er under 3,0.Utskiftbar trukket maskin deles inn i klasser som nevnt nedenfor:
+3\. *Utskiftbar trukket maskin som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005 (direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)):*
+
+Landbruks- eller skogbruksredskap, som er konstruert til å bli trukket av en traktor, og som endrer traktorens funksjon eller tilfører en ny funksjon. Det kan dessuten omfatte et lasteplan som er konstruert og utformet til anbringelse av de verktøy og utstyr, som er nødvendige for å utføre arbeidet, og til midlertidig oppbevaring av de materialer som fremstilles, eller som er nødvendige under arbeidet. Som utskiftbar trukket maskin regnes også ethvert skogbruks- eller landbrukskjøretøy, som er beregnet til å bli trukket av en traktor og har et redskap som er fastmontert eller beregnet til behandling av materialer, hvis forholdet mellom kjøretøyets teknisk tillatte totalmasse og dets egenvekt er under 3,0.
+
+Utskiftbar trukket maskin deles inn i klasser som nevnt nedenfor:
 
 *Klasse S: Utskiftbar trukket maskin*
 
 - *Klasse S1:* Utskiftbar trukket landbruks- eller skogbruksmaskin, hvor summen av de enkelte akslers teknisk tillatte akseltrykk ikke er over 3.500 kg.
 - *Klasse S2:* Utskiftbar trukket landbruks- eller skogbruksmaskin, hvor summen av de enkelte akslers teknisk tillatte akseltrykk er over 3.500 kg.
 
-Hver klasse av utskiftbar trukket maskin angis også med en bokstav «a» eller «b» avhengig av den hastighet, som materiellet er konstruert til:«a» for utskiftbar trukket maskin, som er konstruert til en hastighet ikke over 40 km/t«b» for utskiftbar trukket maskin, som er konstruert til en hastighet over 40 km/t.
+Hver klasse av utskiftbar trukket maskin angis også med en bokstav «a» eller «b» avhengig av den hastighet, som materiellet er konstruert til:
 
-4\. *Unntak*Definisjonene i nr. 1-3 gjelder ikke:maskiner som er særskilt konstruert til bruk innen skogbruk, jf. ISO 6814:2000skogbruksmaskiner som er konstruert på gravemaskinchassis, jf. ISO 6165:2001utskiftbare maskiner som løftes fullstendig ved kjøring på veg
+- «a» for utskiftbar trukket maskin, som er konstruert til en hastighet ikke over 40 km/t
+- «b» for utskiftbar trukket maskin, som er konstruert til en hastighet over 40 km/t.
+
+4\. *Unntak*
+
+Definisjonene i nr. 1-3 gjelder ikke:
+
+- maskiner som er særskilt konstruert til bruk innen skogbruk, jf. ISO 6814:2000
+- skogbruksmaskiner som er konstruert på gravemaskinchassis, jf. ISO 6165:2001
+- utskiftbare maskiner som løftes fullstendig ved kjøring på veg
 
 5\. *Definisjon av jordbruks- eller skogbrukstraktor godkjent første gang eller tatt i bruk uten registreringsplikt før 1. juli 2005*
 
@@ -300,17 +436,32 @@ For traktor registrert første gang, eller tatt i bruk uten registreringsplikt, 
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810), [30 nov 2005 nr. 1344](forskrift/2005-11-30-1344), [8 mai 2006 nr. 486](forskrift/2006-05-08-486).
 
-1 I traktor med vendbar førerplass (vendbart sete og ratt) skal den aksel nærmest føreren, som skal tas i betraktning, være den, hvor dekkene har størst diameter.2 I overensstemmelse med ISO nr. 789-6: 1982.m 9.7.2003 DA L 171/35 Den Europeiske Unions Tidende.
+1 I traktor med vendbar førerplass (vendbart sete og ratt) skal den aksel nærmest føreren, som skal tas i betraktning, være den, hvor dekkene har størst diameter.
+
+2 I overensstemmelse med ISO nr. 789-6: 1982.m 9.7.2003 DA L 171/35 Den Europeiske Unions Tidende.
 
 ### § 2-5. Andre definisjoner av kjøretøy
 
 1\. *Beltebil:* Motorvogn som hovedsaklig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt over 400 kg, og som har en konstruktiv hastighet på over 30 km/t.
 
-2\. *Beltemotorsykkel:* Motorsykkel som hovedsakelig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/h.Beltemotorsykkel deles i to klasser:Beltemotorsykkel klasse 1: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på høyst 0,35 kW/kg.Beltemotorsykkel klasse 2: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på over 0,35 kW/kg.
+2\. *Beltemotorsykkel:* Motorsykkel som hovedsakelig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/h.
+
+Beltemotorsykkel deles i to klasser:
+
+- Beltemotorsykkel klasse 1: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på høyst 0,35 kW/kg.
+- Beltemotorsykkel klasse 2: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på over 0,35 kW/kg.
 
 3\. *Traktor:* Motorvogn som hovedsaklig er konstruert for å trekke, skyve, bære og drive forskjellige arbeidsredskap og som har hjul og/eller belter, unntatt jordbruks- eller skogbrukstraktor som nevnt i [§ 2-4](forskrift/1994-10-04-918/§2-4) nr. 5. Gjelder ikke traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005.
 
-4\. *Motorredskap:* Mobile maskiner/selvkjørende arbeidsredskap, som har hjul og/eller belter når maskinen eller redskapen grunnkonstruksjonen atskiller seg fra andre motorvogner for transport av gods eller personer, eller traktor. Kjøretøyet skal i all hovedsak være innrettet for å utføre bestemte arbeider, ha fast monterte redskaper eller maskiner. Som motorredskap regnes uansett ikke kjøretøy hvis hovedfunksjon – forsåvidt gjelder selve transporten – er kjøring på veg. Dette gjelder likevel ikke vegarbeid.Som motorredskap regnes også motorvogn som hovedsaklig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har en konstruktiv hastighet ikke over 25 km/t. Som motorredskap regnes også motorvogn som hovedsakelig er beregnet til intern transport av masse, jord eller lignende på bygge- eller anleggsplasser eller i terreng og som bare unntaksvis brukes på offentlig veg (dumpere), dersom konstruktiv hastighet ikke overstiger 30 km/t.Som motorredskap regnes også to- og trehjulet motorvogn, jfr. [§ 2-3](forskrift/1994-10-04-918/§2-3), med konstruktiv hastighet ikke over 6 km/t.Som motorredskap regnes også motorvogn, bestemt til transport av personer eller gods, som har belter, eventuelt med styreski/styrehjul, og som har konstruktiv hastighet ikke over 30 km/t.Som motorredskap regnes også motorvogn som er bestemt til å føres av gående. Som motorredskap regnes også kombinasjoner av slik motorvogn og tilhenger eller tilhengerredskap.
+4\. *Motorredskap:* Mobile maskiner/selvkjørende arbeidsredskap, som har hjul og/eller belter når maskinen eller redskapen grunnkonstruksjonen atskiller seg fra andre motorvogner for transport av gods eller personer, eller traktor. Kjøretøyet skal i all hovedsak være innrettet for å utføre bestemte arbeider, ha fast monterte redskaper eller maskiner. Som motorredskap regnes uansett ikke kjøretøy hvis hovedfunksjon – forsåvidt gjelder selve transporten – er kjøring på veg. Dette gjelder likevel ikke vegarbeid.
+
+Som motorredskap regnes også motorvogn som hovedsaklig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har en konstruktiv hastighet ikke over 25 km/t. Som motorredskap regnes også motorvogn som hovedsakelig er beregnet til intern transport av masse, jord eller lignende på bygge- eller anleggsplasser eller i terreng og som bare unntaksvis brukes på offentlig veg (dumpere), dersom konstruktiv hastighet ikke overstiger 30 km/t.
+
+Som motorredskap regnes også to- og trehjulet motorvogn, jfr. [§ 2-3](forskrift/1994-10-04-918/§2-3), med konstruktiv hastighet ikke over 6 km/t.
+
+Som motorredskap regnes også motorvogn, bestemt til transport av personer eller gods, som har belter, eventuelt med styreski/styrehjul, og som har konstruktiv hastighet ikke over 30 km/t.
+
+Som motorredskap regnes også motorvogn som er bestemt til å føres av gående. Som motorredskap regnes også kombinasjoner av slik motorvogn og tilhenger eller tilhengerredskap.
 
 5\. *Tilhenger:* Kjøretøy som hovedsaklig er innrettet for transport av personer eller gods og til å trekkes av motorvogn, herunder kjøretøy gruppe O, som nevnt i [§ 2-2](forskrift/1994-10-04-918/§2-2). Som tilhenger regnes også campingtilhenger.
 
@@ -320,19 +471,33 @@ For traktor registrert første gang, eller tatt i bruk uten registreringsplikt, 
 
 8\. *Semitrailer:* Tilhenger med en eller flere aksler og som er slik konstruert at en vesentlig del av tilhengerens vekt bæres av en svingskive montert på den trekkende motorvogn.
 
-9\. *Tilhengerredskap:* Kjøretøy som er innrettet til å trekkes av motorvogn og som ikke anses som tilhenger. Som tilhengerredskap regnes også flyttbar arbeidsbrakke.Tilhengerredskap inndeles i følgende:*Påhengsredskap:* Tilhengerredskap med en eller flere aksler som er slik konstruert at vertikale krefter kan overføres til tilhengerkoplingen på den trekkende motorvogn.*Slepredskap:* Tilhengerredskap med to eller flere aksler som er slik konstruert at vertikale krefter – bortsett fra kreftene p.g.a. tilhengerdragets vekt – ikke kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+9\. *Tilhengerredskap:* Kjøretøy som er innrettet til å trekkes av motorvogn og som ikke anses som tilhenger. Som tilhengerredskap regnes også flyttbar arbeidsbrakke.
+
+Tilhengerredskap inndeles i følgende:
+
+1. *Påhengsredskap:* Tilhengerredskap med en eller flere aksler som er slik konstruert at vertikale krefter kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+2. *Slepredskap:* Tilhengerredskap med to eller flere aksler som er slik konstruert at vertikale krefter – bortsett fra kreftene p.g.a. tilhengerdragets vekt – ikke kan overføres til tilhengerkoplingen på den trekkende motorvogn.
 
 10\. Definisjonene i nr. 5 til 9 gjelder ikke kjøretøy som fra 1. juli 2005 defineres som kjøretøy gruppe R og S, jf. [§ 2-4](forskrift/1994-10-04-918/§2-4) nr. 2 og 3.
 
 11\. *Vogntog:* Motorvogn med ett eller flere kjøretøy tilkoplet.
 
-12\. *Sykkel:* Kjøretøy som drives frem ved trå- eller veivanordning, unntatt kjøretøy som bare er beregnet for lek.Som sykkel regnes også kjøretøy som nevnt i første ledd og som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå/veive. Det tillates at kjøretøyet har fremdrift kun ved motorkraft opp til 6 km/t. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](lov/1965-06-18-4/§2).Sykkel med to sitteplasser kan ha elektrisk hjelpemotor med nominell effekt på høyst 0,5 kW når det kan dokumenteres at kjøretøyet er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten. Det er tilstrekkelig at én av syklistene trår/veiver for at hjelpemotoren skal gi effekt. For øvrig gjelder kravene i forrige ledd. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](lov/1965-06-18-4/§2).Sykkel som tilfredsstiller kravene i NS-EN 15194 anses å oppfylle definisjonen i annet ledd.
+12\. *Sykkel:* Kjøretøy som drives frem ved trå- eller veivanordning, unntatt kjøretøy som bare er beregnet for lek.
+
+Som sykkel regnes også kjøretøy som nevnt i første ledd og som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå/veive. Det tillates at kjøretøyet har fremdrift kun ved motorkraft opp til 6 km/t. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](lov/1965-06-18-4/§2).
+
+Sykkel med to sitteplasser kan ha elektrisk hjelpemotor med nominell effekt på høyst 0,5 kW når det kan dokumenteres at kjøretøyet er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten. Det er tilstrekkelig at én av syklistene trår/veiver for at hjelpemotoren skal gi effekt. For øvrig gjelder kravene i forrige ledd. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](lov/1965-06-18-4/§2).
+
+Sykkel som tilfredsstiller kravene i NS-EN 15194 anses å oppfylle definisjonen i annet ledd.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810), [31 mars 2005 nr. 274](forskrift/2005-03-31-274), [27 okt 2008 nr. 1157](forskrift/2008-10-27-1157), [26 juli 2013 nr. 931](forskrift/2013-07-26-931), [20 juni 2014 nr. 841](forskrift/2014-06-20-841) (i kraft 1 juli 2014), [23 mars 2015 nr. 281](forskrift/2015-03-23-281), [9 april 2018 nr. 544](forskrift/2018-04-09-544) (i kraft 10 april 2018), [11 mai 2021 nr. 1481](forskrift/2021-05-11-1481) (i kraft 18 mai 2021), [25 mai 2022 nr. 920](forskrift/2022-05-25-920) (i kraft 15 juni 2022), [18 des 2024 nr. 3272](forskrift/2024-12-18-3272) (i kraft 1 jan 2025).
 
 ### § 2-6. Definisjoner av vekter og dimensjoner m.m.
 
-1. *Bredde:* kjøretøyets største utvendige bredde, speil ikke medregnet. Følgende skal ikke regnes med i bredden dersom denne ellers ville overstige 2,50 m + 0,050 m (2,550 m):Påbudte retningslysTollforseglingssnor (wire med plaststrømpe) og festekramper for samme som kreves for T.I.R.-godkjenning av kjøretøyet. Unntak for tollforseglingssnor og kramper for denne, gjelder kun der hvor tollforseglingssnor må strekkes utenfor sidelemstolper. Krampene på hver side av sidelemstolper må ikke stikke utenfor mer enn høyst nødvendig for å kunne tre tollforseglingssnoren gjennom krampene.
+1. *Bredde:* kjøretøyets største utvendige bredde, speil ikke medregnet. Følgende skal ikke regnes med i bredden dersom denne ellers ville overstige 2,50 m + 0,050 m (2,550 m):
+
+   - Påbudte retningslys
+   - Tollforseglingssnor (wire med plaststrømpe) og festekramper for samme som kreves for T.I.R.-godkjenning av kjøretøyet. Unntak for tollforseglingssnor og kramper for denne, gjelder kun der hvor tollforseglingssnor må strekkes utenfor sidelemstolper. Krampene på hver side av sidelemstolper må ikke stikke utenfor mer enn høyst nødvendig for å kunne tre tollforseglingssnoren gjennom krampene.
 2. *Lengde:* Kjøretøyets største utvendige lengde fra forreste til bakerste punkt.
 3. *Egenvekt:* Vekten av kjøretøyet i fullt driftsferdig stand med permanent montert utstyr, smøreolje, vann og fulle drivstofftanker samt eventuelt reservehjul, verktøy m.v.
 4. *Totalvekt:* Vekten av kjøretøyet med personer og gods.
@@ -346,7 +511,9 @@ For traktor registrert første gang, eller tatt i bruk uten registreringsplikt, 
 12. *Nyttelast:* Den vekt som fremkommer som differansen mellom totalvekt og summen av kjøretøyets egenvekt og vekten av eventuell fører (75 kg).
 13. *Største nyttelast:* Differansen mellom største totalvekt og summen av kjøretøyets egenvekt og vekten av eventuell fører (75 kg).
 14. *Tillatt nyttelast:* Differansen mellom tillatt totalvekt og summen av kjøretøyets egenvekt og vekten av eventuell fører (75 kg).
-15. *Aksellast:* Den samlede tyngde som overføres til vegen fra alle hjul med senter på en linje som er vinkelrett på kjøretøyets lengdeakse gjennom hele dets bredde.Som aksellast regnes også den vekt som overføres fra to eller flere aksler dersom avstanden mellom de aksler som ligger lengst fra hverandre er mindre enn 1,2 m.
+15. *Aksellast:* Den samlede tyngde som overføres til vegen fra alle hjul med senter på en linje som er vinkelrett på kjøretøyets lengdeakse gjennom hele dets bredde.
+
+    Som aksellast regnes også den vekt som overføres fra to eller flere aksler dersom avstanden mellom de aksler som ligger lengst fra hverandre er mindre enn 1,2 m.
 16. *Største aksellast:* Den maksimale aksellast kjøretøyet er konstruert og garantert for av fabrikanten eller godkjent for av godkjenningsmyndigheten når denne har endret fabrikantens oppgave.
 17. *Tillatt aksellast:* Den maksimale aksellast kjøretøyet er registrert for eller tillatt for når kjøretøyet ikke er registreringspliktig.
 18. *Aktuell aksellast:* Den aksellast kjøretøyet har i øyeblikket.
@@ -366,11 +533,17 @@ For traktor registrert første gang, eller tatt i bruk uten registreringsplikt, 
 
 1\. EØF-typegodkjenning av biler og deres tilhengere*:* Den rutine der en EØS-stat fastslår at en kjøretøytype, en type system, del eller teknisk enhet oppfyller de relevante tekniske krav i direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037), eller et særdirektiv oppført på den fullstendige liste i vedlegg IV eller XI i nevnte direktiv.
 
-2\. *EØF-typegodkjenning av to- og trehjulede motorvogner:*Typegodkjenning – Den rutine der en EØS-stat fastslår at en kjøretøytype oppfyller de tekniske krav i særdirektivene og verifiserer at produsentens data, som angitt på den fullstendige liste i vedlegg I til direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077), er korrekte. Typegodkjenning av deler – Den rutine der en EØS-stat fastslår at en egenskap eller teknisk enhet (typegodkjenning av teknisk enhet) eller en del (typegodkjenning av del) oppfyller de tekniske krav fastsatt i det aktuelle særdirektiv oppført på den fullstendige listen i vedlegg I til direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).Typegodkjenning av kjøretøy eller deler kan utvides i forbindelse med endringer, varianter eller versjoner.
+2\. *EØF-typegodkjenning av to- og trehjulede motorvogner:*
+
+Typegodkjenning – Den rutine der en EØS-stat fastslår at en kjøretøytype oppfyller de tekniske krav i særdirektivene og verifiserer at produsentens data, som angitt på den fullstendige liste i vedlegg I til direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077), er korrekte. Typegodkjenning av deler – Den rutine der en EØS-stat fastslår at en egenskap eller teknisk enhet (typegodkjenning av teknisk enhet) eller en del (typegodkjenning av del) oppfyller de tekniske krav fastsatt i det aktuelle særdirektiv oppført på den fullstendige listen i vedlegg I til direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).
+
+Typegodkjenning av kjøretøy eller deler kan utvides i forbindelse med endringer, varianter eller versjoner.
 
 3\. *EØF-typegodkjenning av jordbruks- eller skogbrukstraktor (gjelder godkjenning frem til 1. juli 2005):* Den rutine der en EØS-stat fastslår at en traktortype oppfyller de tekniske krav i særdirektivene og kravene til verifisering i et EØF-typegodkjenningsdokument hvis mønster er oppført i vedlegg II til direktiv [74/150/EØF](eu/31974l0150*) som endret senest ved direktiv [97/54/EF](eu/31997l0054). Denne bestemmelsen gjelder for EØF-typegodkjenning før 1. juli 2005
 
-4\. *EF-typegodkjenning av traktor, tilhenger til traktor og utskiftbar trukket maskin (gjelder godkjenning fra 1. juli 2005):*Den rutine der en EØS-stat fastslår at en type kjøretøy, et system, del eller teknisk enhet oppfyller de tekniske krav i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066), direktiv [2005/67/EF](eu/32005l0067), direktiv [2010/22/EU](eu/32010l0022) og direktiv [2010/62/EU](eu/32010l0062). EF-typegodkjenningen kan også kalles EF-komponentgodkjenning når den gjelder systemer, deler og tekniske enheter.
+4\. *EF-typegodkjenning av traktor, tilhenger til traktor og utskiftbar trukket maskin (gjelder godkjenning fra 1. juli 2005):*
+
+Den rutine der en EØS-stat fastslår at en type kjøretøy, et system, del eller teknisk enhet oppfyller de tekniske krav i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066), direktiv [2005/67/EF](eu/32005l0067), direktiv [2010/22/EU](eu/32010l0022) og direktiv [2010/62/EU](eu/32010l0062). EF-typegodkjenningen kan også kalles EF-komponentgodkjenning når den gjelder systemer, deler og tekniske enheter.
 
 5\. *Nasjonal typegodkjenning:* Rutine der det av norsk typegodkjenningsmyndighet fastslås at kjøretøy, del eller utstyr oppfyller de relevante nasjonale krav i [kap. 8](forskrift/1994-10-04-918/kap8) flg., eller når typegodkjenningsmyndighet i EØS-stat følger tilsvarende rutine mht. nasjonalt regelverk i vedkommende stat.
 
@@ -386,7 +559,9 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 ### § 3-1. Generelt
 
-1\. Bestemmelsene i dette kapittel gjelder EØF-typegodkjenning i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037).Den som ønsker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
+1\. Bestemmelsene i dette kapittel gjelder EØF-typegodkjenning i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037).
+
+Den som ønsker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
 
 2\. Henvisninger til vedlegg gjelder ovennevnte rettsakter.
 
@@ -396,17 +571,29 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 5\. Vegdirektoratet er godkjenningsmyndighet etter dette kap.
 
-6\. EØF-typegodkjenninger fra andre EØS-stater skal uten videre legges til grunn.EØF-typegodkjenninger som nevnt i første ledd er ikke til hinder for at Vegdirektoratet kan fastsette saksbehandlingsregler m.m. for å sikre en praktisk gjennomføring av nødvendige rutiner for EØF-typegodkjenningenes anvendelse i Norge.
+6\. EØF-typegodkjenninger fra andre EØS-stater skal uten videre legges til grunn.
+
+EØF-typegodkjenninger som nevnt i første ledd er ikke til hinder for at Vegdirektoratet kan fastsette saksbehandlingsregler m.m. for å sikre en praktisk gjennomføring av nødvendige rutiner for EØF-typegodkjenningenes anvendelse i Norge.
 
 7\. Nr. 6 gjelder tilsvarende for typegodkjenninger fra andre EØS-stater i samsvar med likeverdige standarder oppført i vedlegg IV del II, herunder eventuelle tilsvarende typegodkjenningsmerker, jf. [§ 3-11](forskrift/1994-10-04-918/§3-11).
 
-8\. EØF-typegodkjenning etter dette kapittel er obligatorisk, så langt det finnes relevante særdirektiver. I vedlegg 1 til denne forskrift inntas oversikt over de særdirektivene som skal anvendes for de forskjellige kjøretøytyper.For kjøretøytyper gjelder obligatorisk EØF-typegodkjenning foreløpig bare for gruppe M 1 med forbrenningsmotor.Kjøretøy som kan enkeltgodkjennes etter [kapittel 6](forskrift/1994-10-04-918/kap6), jf. [§ 6-11](forskrift/1994-10-04-918/§6-11) er unntatt fra kravet om EØF-typegodkjenning, jf. også [§ 1-15](forskrift/1994-10-04-918/§1-15).
+8\. EØF-typegodkjenning etter dette kapittel er obligatorisk, så langt det finnes relevante særdirektiver. I vedlegg 1 til denne forskrift inntas oversikt over de særdirektivene som skal anvendes for de forskjellige kjøretøytyper.
 
-9\. Inntil 31. desember 1995 for ferdigoppbygde kjøretøyer, og inntil 31. desember 1997 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, anvendes bestemmelsene i dette kapittel bare etter anmodning fra produsenten.For spesialkjøretøytyper nevnt i vedlegg XI, anvendes inntil videre bestemmelsene i dette kapittel bare etter anmodning fra produsenten.
+For kjøretøytyper gjelder obligatorisk EØF-typegodkjenning foreløpig bare for gruppe M 1 med forbrenningsmotor.
 
-10\. For andre kjøretøytyper enn den som er nevnt i nr. 8 annet ledd eller for kjøretøy som ikke søkes EØF-typegodkjent etter nr. 9, gjelder reglene om nasjonal typegodkjenning, eventuelt reglene for enkeltgodkjenning. Se likevel [§ 3-16](forskrift/1994-10-04-918/§3-16).Ved nasjonal typegodkjenning (jf. [§ 3-16](forskrift/1994-10-04-918/§3-16)) og ved enkeltgodkjenning skal EØF-typegodkjenninger av systemer, deler, tekniske enheter eller delvis oppbygde kjøretøy, gitt i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037) godtas.
+Kjøretøy som kan enkeltgodkjennes etter [kapittel 6](forskrift/1994-10-04-918/kap6), jf. [§ 6-11](forskrift/1994-10-04-918/§6-11) er unntatt fra kravet om EØF-typegodkjenning, jf. også [§ 1-15](forskrift/1994-10-04-918/§1-15).
 
-11\. Inntil 31. desember 1997 for ferdigoppbygde kjøretøyer og inntil 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, gjelder [§ 3-6](forskrift/1994-10-04-918/§3-6) nr. 1 første ledd og nr. 2 første ledd ikke for kjøretøyer, deler og tekniske enheter av en type som det er gitt nasjonal typegodkjenning for før hhv. 1. januar 1996 og 1. januar 1998, eller på en type som er tillatt omsatt eller tatt i bruk i Norge før hhv. 1. januar 1996 og 1. januar 1998.Typegodkjenninger som er gitt i henhold til de særdirektiver som utgjør en del av den nasjonale typegodkjenningsordningen, jf. [§ 3-16](forskrift/1994-10-04-918/§3-16), skal fortsatt gjelde etter 31. desember 1997 for ferdigoppbygde kjøretøyer, og etter 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, med mindre ett av vilkårene i [§ 3-4](forskrift/1994-10-04-918/§3-4) nr. 3 første ledd kommer til anvendelse.
+9\. Inntil 31. desember 1995 for ferdigoppbygde kjøretøyer, og inntil 31. desember 1997 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, anvendes bestemmelsene i dette kapittel bare etter anmodning fra produsenten.
+
+For spesialkjøretøytyper nevnt i vedlegg XI, anvendes inntil videre bestemmelsene i dette kapittel bare etter anmodning fra produsenten.
+
+10\. For andre kjøretøytyper enn den som er nevnt i nr. 8 annet ledd eller for kjøretøy som ikke søkes EØF-typegodkjent etter nr. 9, gjelder reglene om nasjonal typegodkjenning, eventuelt reglene for enkeltgodkjenning. Se likevel [§ 3-16](forskrift/1994-10-04-918/§3-16).
+
+Ved nasjonal typegodkjenning (jf. [§ 3-16](forskrift/1994-10-04-918/§3-16)) og ved enkeltgodkjenning skal EØF-typegodkjenninger av systemer, deler, tekniske enheter eller delvis oppbygde kjøretøy, gitt i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037) godtas.
+
+11\. Inntil 31. desember 1997 for ferdigoppbygde kjøretøyer og inntil 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, gjelder [§ 3-6](forskrift/1994-10-04-918/§3-6) nr. 1 første ledd og nr. 2 første ledd ikke for kjøretøyer, deler og tekniske enheter av en type som det er gitt nasjonal typegodkjenning for før hhv. 1. januar 1996 og 1. januar 1998, eller på en type som er tillatt omsatt eller tatt i bruk i Norge før hhv. 1. januar 1996 og 1. januar 1998.
+
+Typegodkjenninger som er gitt i henhold til de særdirektiver som utgjør en del av den nasjonale typegodkjenningsordningen, jf. [§ 3-16](forskrift/1994-10-04-918/§3-16), skal fortsatt gjelde etter 31. desember 1997 for ferdigoppbygde kjøretøyer, og etter 31. desember 1999 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, med mindre ett av vilkårene i [§ 3-4](forskrift/1994-10-04-918/§3-4) nr. 3 første ledd kommer til anvendelse.
 
 12\. Bestemmelsene i dette kap. gjelder ikke firehjuls motorsykler som nevnt i [§ 2-3](forskrift/1994-10-04-918/§2-3) nr. 2 bokstav c annet ledd, jf. tredje ledd.
 
@@ -422,17 +609,36 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 2\. Som unntak fra nr. 1 skal dokumentene som ledsager en søknad, dersom det ikke finnes typegodkjenningsdokumenter for noen av de relevante særdirektivene, bestå av en opplysningsmappe med de relevante opplysninger som kreves i henhold til vedlegg I med hensyn til særdirektivene angitt i vedlegg 4 eller 9 og eventuelt opplysninger i vedlegg III del II.
 
-3\. Ved etappevis typegodkjenning skal søkeren fremlegge følgende opplysninger:i første etappe: de deler av opplysningsmappen og de godkjenningsdokumentene som kreves for et etappevis ferdigoppbygd kjøretøy, og som tilsvarer basiskjøretøyets stadium i oppbyggingsprosessen,i annen og etterfølgende etapper: de deler av opplysningsmappen og de godkjenningsdokumentene som tilsvarer det aktuelle oppbyggingsstadium, og en kopi av typegodkjenningsdokumentet for det delvis oppbygde kjøretøyet utstedt på forrige oppbyggingsstadium; produsenten skal også fremlegge en fullstendig liste over endringer og tillegg som er foretatt på det delvis oppbygde kjøretøyet.
+3\. Ved etappevis typegodkjenning skal søkeren fremlegge følgende opplysninger:
+
+- i første etappe: de deler av opplysningsmappen og de godkjenningsdokumentene som kreves for et etappevis ferdigoppbygd kjøretøy, og som tilsvarer basiskjøretøyets stadium i oppbyggingsprosessen,
+- i annen og etterfølgende etapper: de deler av opplysningsmappen og de godkjenningsdokumentene som tilsvarer det aktuelle oppbyggingsstadium, og en kopi av typegodkjenningsdokumentet for det delvis oppbygde kjøretøyet utstedt på forrige oppbyggingsstadium; produsenten skal også fremlegge en fullstendig liste over endringer og tillegg som er foretatt på det delvis oppbygde kjøretøyet.
 
 4\. Søknad om typegodkjenning for et system, en del eller en teknisk enhet skal fremlegges for Vegdirektoratet av produsenten. Søknaden skal ledsages av en opplysningsmappe som skal inneholde opplysningene angitt i opplysningsdokumentet i det relevante særdirektivet.
 
 ### § 3-3. Typegodkjenning
 
-1\. Det skal utstedes:kjøretøytypegodkjenning for:kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i alle relevante særdirektiver som nevnt i vedlegg IV,spesialkjøretøytyper nevnt i vedlegg XI som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i de relevante særdirektivene som er angitt i den aktuelle kolonnen i vedlegg XI.Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg V.etappevis typegodkjenning for de typer basiskjøretøyer, delvis oppbygde kjøretøyer, som er i samsvar med spesifikasjonene i opplysningsmappen og som oppfyller de tekniske kravene i de relevante særdirektivene som angitt i vedlegg IV eller XI, avhengig av kjøretøytypens stadium i den etappevise oppbyggingen.Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg XIV.systemgodkjenning for kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i det relevante særdirektiv nevnt i vedlegg IV eller XI.typegodkjenning av deler eller tekniske enheter for alle typer deler eller tekniske enheter som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i det relevante særdirektivet, nevnt i vedlegg IV eller XI, dersom særdirektivet uttrykkelig gir mulighet for det.hvis det er snakk om typegodkjenning av et kjøretøy i henhold til vedlegg XI eller [§ 3-10](forskrift/1994-10-04-918/§3-10), eller hvis det er snakk om typegodkjenning av et system, deler eller teknisk enhet i henhold til vedlegg XI eller [§ 3-10](forskrift/1994-10-04-918/§3-10), som innebærer begrensninger i eller unntagelser fra bestemmelsene i det relevante særdirektiv, skal de aksepterte begrensningene og unntagelsene fremgå av typegodkjenningsdokumentet, som tildeles et særlig typegodkjenningsnummer i henhold til bestemmelsene i vedlegg VII.hvis opplysningene i informasjonsdokumentene, som det henvises til i bokstavene a, b, c og d angir bestemmelser for spesialkjøretøytyper, som angitt i de relevante kolonner i vedlegg XI med tillegg, skal slike bestemmelser og unntak også fremgå av typegodkjenningsdokumentet.
+1\. Det skal utstedes:
+
+1. kjøretøytypegodkjenning for:
+
+   - kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i alle relevante særdirektiver som nevnt i vedlegg IV,
+   - spesialkjøretøytyper nevnt i vedlegg XI som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i de relevante særdirektivene som er angitt i den aktuelle kolonnen i vedlegg XI.
+
+   Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg V.
+2. etappevis typegodkjenning for de typer basiskjøretøyer, delvis oppbygde kjøretøyer, som er i samsvar med spesifikasjonene i opplysningsmappen og som oppfyller de tekniske kravene i de relevante særdirektivene som angitt i vedlegg IV eller XI, avhengig av kjøretøytypens stadium i den etappevise oppbyggingen.
+
+   Denne prosessen skal gjennomføres etter fremgangsmåtene beskrevet i vedlegg XIV.
+3. systemgodkjenning for kjøretøytyper som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i det relevante særdirektiv nevnt i vedlegg IV eller XI.
+4. typegodkjenning av deler eller tekniske enheter for alle typer deler eller tekniske enheter som er i samsvar med spesifikasjonene i opplysningsmappen, og som oppfyller de tekniske kravene i det relevante særdirektivet, nevnt i vedlegg IV eller XI, dersom særdirektivet uttrykkelig gir mulighet for det.
+5. hvis det er snakk om typegodkjenning av et kjøretøy i henhold til vedlegg XI eller [§ 3-10](forskrift/1994-10-04-918/§3-10), eller hvis det er snakk om typegodkjenning av et system, deler eller teknisk enhet i henhold til vedlegg XI eller [§ 3-10](forskrift/1994-10-04-918/§3-10), som innebærer begrensninger i eller unntagelser fra bestemmelsene i det relevante særdirektiv, skal de aksepterte begrensningene og unntagelsene fremgå av typegodkjenningsdokumentet, som tildeles et særlig typegodkjenningsnummer i henhold til bestemmelsene i vedlegg VII.
+6. hvis opplysningene i informasjonsdokumentene, som det henvises til i bokstavene a, b, c og d angir bestemmelser for spesialkjøretøytyper, som angitt i de relevante kolonner i vedlegg XI med tillegg, skal slike bestemmelser og unntak også fremgå av typegodkjenningsdokumentet.
 
 2\. Dersom Vegdirektoratet finner at et kjøretøy, et system, en del eller en teknisk enhet som etterkommer bestemmelsene i nr. 1, likevel utgjør en alvorlig fare for trafikksikkerheten kan typegodkjenning nektes. Vegdirektoratet skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om sitt vedtak og begrunnelsen for det.
 
-3\. Det skal for hver type kjøretøy, system eller teknisk enhet som godkjennes, fylles ut alle aktuelle deler av et typegodkjenningsdokument (se mønstre i vedlegg VI og i vedleggene til særdirektivene). I tillegg skal det fylles ut de relevante rubrikkene i prøveresultatvedlegget til typegodkjenningsdokumentet for kjøretøyet (se mønster i vedlegg XIII) og utarbeides eller kontrolleres innholdet i innholdsfortegnelsen til opplysningspakken. Typegodkjenningsdokumenter skal nummereres etter fremgangsmåten beskrevet i vedlegg VII. Det utfylte dokumentet og vedleggene skal sendes til søkeren.Typegodkjenninger som er gitt i henhold til [§ 3-10](forskrift/1994-10-04-918/§3-10) eller vedlegg XI skal tildeles et særlig typegodkjenningsnummer beskrevet i vedlegg VII.
+3\. Det skal for hver type kjøretøy, system eller teknisk enhet som godkjennes, fylles ut alle aktuelle deler av et typegodkjenningsdokument (se mønstre i vedlegg VI og i vedleggene til særdirektivene). I tillegg skal det fylles ut de relevante rubrikkene i prøveresultatvedlegget til typegodkjenningsdokumentet for kjøretøyet (se mønster i vedlegg XIII) og utarbeides eller kontrolleres innholdet i innholdsfortegnelsen til opplysningspakken. Typegodkjenningsdokumenter skal nummereres etter fremgangsmåten beskrevet i vedlegg VII. Det utfylte dokumentet og vedleggene skal sendes til søkeren.
+
+Typegodkjenninger som er gitt i henhold til [§ 3-10](forskrift/1994-10-04-918/§3-10) eller vedlegg XI skal tildeles et særlig typegodkjenningsnummer beskrevet i vedlegg VII.
 
 4\. Dersom delen eller den tekniske enheten som skal godkjennes, fyller sin funksjon eller utviser en særlig egenskap bare sammen med andre deler på kjøretøydeler, enten de er reelle eller simulerte, skal omfanget av typegodkjenningen begrenses tilsvarende. Typegodkjenningsdokumentet for delen eller den tekniske enheten skal da angi eventuelle restriksjoner på bruken, og eventuelle krav til montering. Kontrollen med at disse restriksjonene og kravene etterkommes skal skje når kjøretøyet gis typegodkjenning.
 
@@ -446,9 +652,19 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 2\. Søknad om endring eller utvidelse av en typegodkjenning skal fremlegges utelukkende for den EØS-staten som har gitt den opprinnelige typegodkjenningen.
 
-3\. Dersom det er gjort endringer i opplysningene i opplysningspakken for en typegodkjenning av et system, en del eller en teknisk enhet, skal det:om nødvendig utstedes ajourførte sider i opplysningspakken, og merkes hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser den siste datoen for de siste endringer,utstedes et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det inneholder endrede opplysninger (bortsett fra vedleggene), eller dersom kravene i direktivet er endret etter datoen som er påført typegodkjenningen; det ajourførte dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.Dersom en finner at en endring i en opplysningspakke tilsier nye prøver eller kontroller, skal en underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de nye prøvene eller kontrollene er gjennomført med tilfredsstillende resultat.
+3\. Dersom det er gjort endringer i opplysningene i opplysningspakken for en typegodkjenning av et system, en del eller en teknisk enhet, skal det:
 
-4\. Dersom det er gjort endringer i opplysningspakken for en typegodkjenning av et kjøretøy, skal godkjenningsmyndigheten:om nødvendig utstede ajourførte sider i opplysningspakken, og merke hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser datoen for de siste endringer.utstede et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det er nødvendig med flere kontroller, dersom typegodkjenningsdokumentet inneholder endrede opplysninger (bortsett fra i vedleggene) eller dersom kravene i et av de særdirektivene som gjelder på en dato da det gis forbud mot å ta i bruk kjøretøyet, er endret siden den datoen som er påført typegodkjenningsdokumentet. Det nye dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.Dersom godkjenningsmyndigheten finner at en endring i en opplysningspakke tilsier nye kontroller, skal den underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de nye kontrollene er gjennomført med tilfredsstillende resultat. Alle ajourførte dokumenter skal sendes til de andre godkjenningsmyndighetene innen en måned.
+- om nødvendig utstedes ajourførte sider i opplysningspakken, og merkes hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser den siste datoen for de siste endringer,
+- utstedes et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det inneholder endrede opplysninger (bortsett fra vedleggene), eller dersom kravene i direktivet er endret etter datoen som er påført typegodkjenningen; det ajourførte dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.
+
+  Dersom en finner at en endring i en opplysningspakke tilsier nye prøver eller kontroller, skal en underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de nye prøvene eller kontrollene er gjennomført med tilfredsstillende resultat.
+
+4\. Dersom det er gjort endringer i opplysningspakken for en typegodkjenning av et kjøretøy, skal godkjenningsmyndigheten:
+
+- om nødvendig utstede ajourførte sider i opplysningspakken, og merke hver av de ajourførte sidene slik at de endringer som er gjort, og datoen for ny utstedelse klart fremgår; ved hver ajourføring skal innholdsfortegnelsen for opplysningspakken (som er vedlagt typegodkjenningsdokumentet) også endres slik at den viser datoen for de siste endringer.
+- utstede et ajourført typegodkjenningsdokument merket med utvidelsesnummer dersom det er nødvendig med flere kontroller, dersom typegodkjenningsdokumentet inneholder endrede opplysninger (bortsett fra i vedleggene) eller dersom kravene i et av de særdirektivene som gjelder på en dato da det gis forbud mot å ta i bruk kjøretøyet, er endret siden den datoen som er påført typegodkjenningsdokumentet. Det nye dokumentet skal klart angi begrunnelsen for ajourføringen og datoen for ny utstedelse.
+
+  Dersom godkjenningsmyndigheten finner at en endring i en opplysningspakke tilsier nye kontroller, skal den underrette produsenten om dette, og dokumentene nevnt ovenfor skal utstedes først når de nye kontrollene er gjennomført med tilfredsstillende resultat. Alle ajourførte dokumenter skal sendes til de andre godkjenningsmyndighetene innen en måned.
 
 5\. Dersom en typegodkjenning av et kjøretøy ikke lenger er gyldig fordi en eller flere typegodkjenninger gitt i henhold til særdirektivene som det er henvist til i opplysningspakken, ikke lenger er gyldige, eller at det innføres et nytt særdirektiv i vedlegg IV del I, skal Vegdirektoratet innen en måned underrette godkjenningsmyndighetene i de andre EFTA-statene og EFTA-statenes faste komité om dette, samt opplyse om datoen eller identifikasjonsnummeret for det siste kjøretøyet som ble produsert i samsvar med det gamle godkjenningsdokumentet.
 
@@ -456,7 +672,9 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 ### § 3-5. Samsvarssertifikat
 
-1\. Som innehaver av et typegodkjenningsdokument for en kjøretøytype, skal produsenten fylle ut et samsvarssertifikat. Dette sertifikatet, som det finnes et mønster for i vedlegg IX, skal følge hvert kjøretøy, enten ferdig oppbygd eller delvis oppbygd, som er produsert i samsvar med den godkjente kjøretøytypen. For delvis oppbygde og etappevis ferdigoppbygde kjøretøytyper skal produsenten fylle ut bare de punktene på side 2 i samsvarssertifikatet som er lagt til eller endret på det aktuelle stadiet av typegodkjenningen, og eventuelt legge ved alle samsvarssertifikater som er levert på tidligere stadier.Samsvarssertifikatet skal utføres på en slik måte at forfalskning forhindres. Det skal trykkes på papir som enten er beskyttet med kulørt grafikk eller er forsynt med et vannmerke med fabrikantens identifikasjonsmerke. Samsvarssertifikat i henhold til vedlegg IX i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [2006/28/EF](eu/32006l0028) skal brukes for alle ferdigbygde kjøretøy i gruppe M1 som produseres etter 1. oktober 1999 og for alle kjøretøy som er ferdigstilt etter rutinen for etappevis typegodkjenning etter 1.april 2000. Fra og med 1. juli 2003 skal samsvarssertifikater være utformet i henhold til vedlegg IX i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [2001/116/EF](eu/32001l0116*) eller som senest endret ved direktiv [2006/28/EF](eu/32006l0028).
+1\. Som innehaver av et typegodkjenningsdokument for en kjøretøytype, skal produsenten fylle ut et samsvarssertifikat. Dette sertifikatet, som det finnes et mønster for i vedlegg IX, skal følge hvert kjøretøy, enten ferdig oppbygd eller delvis oppbygd, som er produsert i samsvar med den godkjente kjøretøytypen. For delvis oppbygde og etappevis ferdigoppbygde kjøretøytyper skal produsenten fylle ut bare de punktene på side 2 i samsvarssertifikatet som er lagt til eller endret på det aktuelle stadiet av typegodkjenningen, og eventuelt legge ved alle samsvarssertifikater som er levert på tidligere stadier.
+
+Samsvarssertifikatet skal utføres på en slik måte at forfalskning forhindres. Det skal trykkes på papir som enten er beskyttet med kulørt grafikk eller er forsynt med et vannmerke med fabrikantens identifikasjonsmerke. Samsvarssertifikat i henhold til vedlegg IX i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [2006/28/EF](eu/32006l0028) skal brukes for alle ferdigbygde kjøretøy i gruppe M1 som produseres etter 1. oktober 1999 og for alle kjøretøy som er ferdigstilt etter rutinen for etappevis typegodkjenning etter 1.april 2000. Fra og med 1. juli 2003 skal samsvarssertifikater være utformet i henhold til vedlegg IX i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [2001/116/EF](eu/32001l0116*) eller som senest endret ved direktiv [2006/28/EF](eu/32006l0028).
 
 2\. Som innehaver av et typegodkjenningsdokument for en del eller en teknisk enhet skal produsenten påføre hver del eller enhet som er produsert i samsvar med den godkjente type, sitt handelsnavn eller varemerke, typebetegnelse og/eller, dersom det er fastsatt i særdirektivet, typegodkjenningsmerket eller -nummeret. I det sistnevnte tilfellet kan produsenten velge ikke å påføre handelsnavnet, varemerket eller typebetegnelsen.
 
@@ -466,11 +684,19 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 ### § 3-6. Registrering og bruk
 
-1\. Kjøretøy skal tillates registrert dersom, og bare dersom, det er utstyrt med gyldig samsvarssertifikat. Delvis oppbygd kjøretøy kan omsettes men tillates ikke registrert.Dette gjelder ikke for kjøretøy typegodkjent i henhold til [§ 3-7](forskrift/1994-10-04-918/§3-7).Vegdirektoratet kan unnta kjøretøy, som er beregnet på å brukes av væpnede styrker, sivilforsvar, brannvesen og instanser som er ansvarlig for å ivareta offentlig orden, fra bestemmelsen i første ledd, dersom dette er nødvendig av hensyn til konstruksjon eller bruk.
+1\. Kjøretøy skal tillates registrert dersom, og bare dersom, det er utstyrt med gyldig samsvarssertifikat. Delvis oppbygd kjøretøy kan omsettes men tillates ikke registrert.
 
-2\. Deler og tekniske enheter tillates bare omsatt eller tatt i bruk dersom de er i samsvar med kravene i det aktuelle særdirektiv og er påført de opplysninger m.m. som nevnt i [§ 3-5](forskrift/1994-10-04-918/§3-5) nr. 2.Dette gjelder ikke for deler og enheter som er beregnet for kjøretøy som ikke omfattes av direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037).
+Dette gjelder ikke for kjøretøy typegodkjent i henhold til [§ 3-7](forskrift/1994-10-04-918/§3-7).
 
-3\. Dersom Vegdirektoratet finner at kjøretøyer, deler eller tekniske enheter av en bestemt type utgjør en alvorlig fare for trafikksikkerheten, selv om de er utstyrt med et gyldig samsvarssertifikat eller er tilfredsstillende merket, kan det, for et tidsrom på høyst 6 måneder, treffes vedtak om å nekte å registrere slike kjøretøyer eller forby at slike kjøretøyer, deler eller tekniske enheter selges eller tas i bruk i Norge.Vegdirektoratet skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om vedtaket og begrunnelsen for det. Dersom EØS-staten som har gitt typegodkjenning, bestrider påstanden om at det er fare for trafikksikkerheten, skal de berørte EØS-stater forsøke å bilegge tvisten. EFTAs overvåkningsorgan og EFTA-statenes faste komité skal holdes underrettet.
+Vegdirektoratet kan unnta kjøretøy, som er beregnet på å brukes av væpnede styrker, sivilforsvar, brannvesen og instanser som er ansvarlig for å ivareta offentlig orden, fra bestemmelsen i første ledd, dersom dette er nødvendig av hensyn til konstruksjon eller bruk.
+
+2\. Deler og tekniske enheter tillates bare omsatt eller tatt i bruk dersom de er i samsvar med kravene i det aktuelle særdirektiv og er påført de opplysninger m.m. som nevnt i [§ 3-5](forskrift/1994-10-04-918/§3-5) nr. 2.
+
+Dette gjelder ikke for deler og enheter som er beregnet for kjøretøy som ikke omfattes av direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037).
+
+3\. Dersom Vegdirektoratet finner at kjøretøyer, deler eller tekniske enheter av en bestemt type utgjør en alvorlig fare for trafikksikkerheten, selv om de er utstyrt med et gyldig samsvarssertifikat eller er tilfredsstillende merket, kan det, for et tidsrom på høyst 6 måneder, treffes vedtak om å nekte å registrere slike kjøretøyer eller forby at slike kjøretøyer, deler eller tekniske enheter selges eller tas i bruk i Norge.
+
+Vegdirektoratet skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om vedtaket og begrunnelsen for det. Dersom EØS-staten som har gitt typegodkjenning, bestrider påstanden om at det er fare for trafikksikkerheten, skal de berørte EØS-stater forsøke å bilegge tvisten. EFTAs overvåkningsorgan og EFTA-statenes faste komité skal holdes underrettet.
 
 4\. Nr. 1 og 2 får ikke anvendelse, før 1. januar 1998 for ferdigoppbygde kjøretøyer, og 1. januar 2000 for kjøretøyer som er ferdigstilt etter rutinen for etappevis typegodkjenning, for kjøretøyer, deler og tekniske enheter av en type som det er gitt nasjonaltypegodkjenning for før hhv. 1. januar 1996 og 1. januar 1998. Tilsvarende gjelder for en type som har vært tillatt solgt, registrert eller tatt i bruk før hhv. 1. januar 1996 og 1. januar 1998.
 
@@ -484,9 +710,17 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 ### § 3-8. Kjøretøyer produsert i små serier
 
-1\. For slike kjøretøyer skal antallet kjøretøyer i en typegruppe som registreres i Norge hvert år ikke overskride:for gruppe M1: 50 stk.
+1\. For slike kjøretøyer skal antallet kjøretøyer i en typegruppe som registreres i Norge hvert år ikke overskride:
 
-2\. Med typegruppe forstås kjøretøy som ikke skiller seg fra hverandre med hensyn til følgende punkter.produsentvesentlige forskjeller i konstruksjon og utforming:understell/bunnplate (åpenbare og grunnleggende forskjeller)motor (forbrenningsmotor/elektrisk/hybrid).
+1. for gruppe M1: 50 stk.
+
+2\. Med typegruppe forstås kjøretøy som ikke skiller seg fra hverandre med hensyn til følgende punkter.
+
+1. produsent
+2. vesentlige forskjeller i konstruksjon og utforming:
+
+   - understell/bunnplate (åpenbare og grunnleggende forskjeller)
+   - motor (forbrenningsmotor/elektrisk/hybrid).
 
 3\. Vegdirektoratet skal hvert år sende en liste over slike typegodkjenninger til EFTAs overvåkningsorgan.
 
@@ -500,15 +734,33 @@ Dette kapittelet gjelder EF-typegodkjenning av bil og tilhenger til bil før 29.
 
 ### § 3-9. Restkjøretøyer
 
-1\. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg XII del B og for et begrenset tidsrom på 12 måneder for ferdigoppbygde kjøretøyer og 18 måneder for etappevis ferdigoppbygde kjøretøyer, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye kjøretøyer av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig i henhold til [§ 3-4](forskrift/1994-10-04-918/§3-4) nr. 5.Denne bestemmelsen får anvendelse bare på kjøretøyersom befant seg i EØS-området, ogsom var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert før denne typegodkjenningen ble ugyldig.
+1\. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg XII del B og for et begrenset tidsrom på 12 måneder for ferdigoppbygde kjøretøyer og 18 måneder for etappevis ferdigoppbygde kjøretøyer, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye kjøretøyer av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig i henhold til [§ 3-4](forskrift/1994-10-04-918/§3-4) nr. 5.
 
-2\. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal produsenten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøyer aksepteres registrert.Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg XII del B.Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
+Denne bestemmelsen får anvendelse bare på kjøretøyer
+
+- som befant seg i EØS-området, og
+- som var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert før denne typegodkjenningen ble ugyldig.
+
+2\. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal produsenten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
+
+Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.
+
+Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøyer aksepteres registrert.
+
+Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg XII del B.
+
+Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
 
 ### § 3-10. Spesielle kjøretøyer
 
 1\. Dette gjelder kjøretøyer, deler eller tekniske enheter som er fremstilt på grunnlag av teknikker som på grunn av sin art ikke kan oppfylle ett eller flere av kravene i ett eller flere av særdirektivene.
 
-2\. Vegdirektoratet kan utstede en typegodkjenning, som er gyldig i Norge, men skal for slike typegodkjenninger senest innen en måned oversende kopi av typegodkjenningsdokumentet med vedlegg til godkjenningsmyndighetene i de andre EFTA-statene og EFTAs overvåkningsorgan. Samtidig skal det sendes en søknad til EFTAs overvåkningsorgan om tillatelse til å utstede typegodkjenning i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037). Søknaden skal ledsages av en rapport som inneholder følgende:begrunnelsen for at de aktuelle teknikker eller prinsippene hindrer at kjøretøyet, delen eller den tekniske enheten oppfyller kravene i ett eller flere av de relevante særdirektivene,en beskrivelse av hvilke sikkerhets- og miljøvernaspekter som berøres, og tiltakene som er truffet,en beskrivelse av prøver og prøveresultater som viser at sikkerheten og miljøvernet er på et minst like høyt nivå som det kravene fastsatt i ett eller flere av de relevante særdirektiver tilsier,forslag til endringer i de relevante særdirektivene eller eventuelt forslag til nye særdirektiver.
+2\. Vegdirektoratet kan utstede en typegodkjenning, som er gyldig i Norge, men skal for slike typegodkjenninger senest innen en måned oversende kopi av typegodkjenningsdokumentet med vedlegg til godkjenningsmyndighetene i de andre EFTA-statene og EFTAs overvåkningsorgan. Samtidig skal det sendes en søknad til EFTAs overvåkningsorgan om tillatelse til å utstede typegodkjenning i henhold til direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2007/37/EF](eu/32007l0037). Søknaden skal ledsages av en rapport som inneholder følgende:
+
+- begrunnelsen for at de aktuelle teknikker eller prinsippene hindrer at kjøretøyet, delen eller den tekniske enheten oppfyller kravene i ett eller flere av de relevante særdirektivene,
+- en beskrivelse av hvilke sikkerhets- og miljøvernaspekter som berøres, og tiltakene som er truffet,
+- en beskrivelse av prøver og prøveresultater som viser at sikkerheten og miljøvernet er på et minst like høyt nivå som det kravene fastsatt i ett eller flere av de relevante særdirektiver tilsier,
+- forslag til endringer i de relevante særdirektivene eller eventuelt forslag til nye særdirektiver.
 
 3\. EFTAs overvåkningsorgan eller EFTA-statenes faste komité skal innen tre måneder etter mottak av den fullstendige rapporten beslutte i henhold til prosedyrene i artikkel 13 i direktiv [70/156/EØF](eu/31970l0156*) som senest endret ved direktiv [2007/37/EF](eu/32007l0037), om det tillates at Vegdirektoratet kan utstede typegodkjenning i henhold til direktiv [70/156/EØF](eu/31970l0156*) som senest endret ved direktiv [2007/37/EF](eu/32007l0037).
 
@@ -540,7 +792,12 @@ De internasjonale standarder oppført i vedlegg IV del II skal anerkjennes som l
 
 3\. Dersom en EØS-stat fastslår at kjøretøyer, deler eller tekniske enheter utstyrt med samsvarssertifikat eller typegodkjenningsmerke, ikke er i samsvar med den godkjente type, kan den anmode den stat som ga typegodkjenningen, om å kontrollere om de produserte kjøretøyer, deler eller tekniske enheter samsvarer med den godkjente type. Slike kontroller skal utføres så raskt som mulig, og senest innen 6 måneder etter datoen for anmodning.
 
-4\. Den myndighet som har typegodkjent kjøretøyet skal anmode den staten(e) som har utstedet typegodkjenning for den/det relevante system, del, tekniske enhet eller delvis oppbygde kjøretøy, om å treffe de nødvendige tiltak for å sikre at kjøretøyene som er i produksjon, igjen samsvarer med den godkjente typen. Slike tiltak skal treffes så raskt som mulig og senest seks måneder etter datoen for anmodningen, om nødvendig i samarbeid med den staten som kom med anmodningen. Dette gjelder både:typegodkjenning av en kjøretøytype der et kjøretøys manglende samsvar utelukkende skyldes et systems, en dels eller teknisk enhets manglende ansvar, ogetappevis typegodkjenning der et etappevis ferdigoppbygd kjøretøys manglende samsvar utelukkende skyldes manglende samsvar for et system, en del eller en teknisk enhet som er en del av det delvis oppbygde kjøretøyet, eller for selve det delvis oppbygde kjøretøyet.Dersom det konstanteres manglende samsvar, skal godkjenningsmyndighetene i den staten som ga typegodkjenning for systemet, delen, den tekniske enheten eller det delvis oppbygde kjøretøyet, treffe tiltakene fastsatt i nr. 2.
+4\. Den myndighet som har typegodkjent kjøretøyet skal anmode den staten(e) som har utstedet typegodkjenning for den/det relevante system, del, tekniske enhet eller delvis oppbygde kjøretøy, om å treffe de nødvendige tiltak for å sikre at kjøretøyene som er i produksjon, igjen samsvarer med den godkjente typen. Slike tiltak skal treffes så raskt som mulig og senest seks måneder etter datoen for anmodningen, om nødvendig i samarbeid med den staten som kom med anmodningen. Dette gjelder både:
+
+- typegodkjenning av en kjøretøytype der et kjøretøys manglende samsvar utelukkende skyldes et systems, en dels eller teknisk enhets manglende ansvar, og
+- etappevis typegodkjenning der et etappevis ferdigoppbygd kjøretøys manglende samsvar utelukkende skyldes manglende samsvar for et system, en del eller en teknisk enhet som er en del av det delvis oppbygde kjøretøyet, eller for selve det delvis oppbygde kjøretøyet.
+
+  Dersom det konstanteres manglende samsvar, skal godkjenningsmyndighetene i den staten som ga typegodkjenning for systemet, delen, den tekniske enheten eller det delvis oppbygde kjøretøyet, treffe tiltakene fastsatt i nr. 2.
 
 5\. Godkjenningsmyndighetene i EØS-statene skal innen én måned underrette hverandre om enhver tilbakekalling av typegodkjenninger og om begrunnelsen for dette tiltaket.
 
@@ -554,13 +811,25 @@ Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrerin
 
 ### § 3-15. Underretning om godkjenningsmyndigheter og tekniske instanser
 
-1\. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:godkjenningsmyndighetene, og eventuelt hvilke fagområder myndighetene er ansvarlig for,de tekniske instanser de har utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte standard for drift av prøvelaboratorier (EN 45001), idet følgende bestemmelser skal overholdes:en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene gir mulighet for det,for dette direktivs formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at godkjenningsmyndigheten har gitt sitt samtykke til det.
+1\. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:
 
-2\. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden.Tredjestaters instanser kan bare utpekes til tekniske instanser innenfor rammene av multilaterale eller bilaterale avtaler mellom EØS og tredjestater.
+- godkjenningsmyndighetene, og eventuelt hvilke fagområder myndighetene er ansvarlig for,
+- de tekniske instanser de har utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte standard for drift av prøvelaboratorier (EN 45001), idet følgende bestemmelser skal overholdes:
+
+  1. en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene gir mulighet for det,
+  2. for dette direktivs formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at godkjenningsmyndigheten har gitt sitt samtykke til det.
+
+2\. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden.
+
+Tredjestaters instanser kan bare utpekes til tekniske instanser innenfor rammene av multilaterale eller bilaterale avtaler mellom EØS og tredjestater.
 
 ### § 3-16. Nasjonal typegodkjenning basert på særdirektivene
 
-1\. Etter hvert som særdirektivene trer i kraft:skal det når kjøretøyer eller en kategori kjøretøyer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette. Dette gjelder likevel ikke for bilbelter som nevnt i [§ 3-1](forskrift/1994-10-04-918/§3-1) nr. 6.skal det når kjøretøyer eller en kategori kjøretøyer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering, omsetning eller bruk av disse kjøretøyer på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningene som kreves etter særdirektivet, fylle ut typegodkjenningsdokumentet i samsvar med det relevante særdirektiv. En kopi av dokumentet skal utstedes til søkeren. For kjøretøy av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
+1\. Etter hvert som særdirektivene trer i kraft:
+
+- skal det når kjøretøyer eller en kategori kjøretøyer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette. Dette gjelder likevel ikke for bilbelter som nevnt i [§ 3-1](forskrift/1994-10-04-918/§3-1) nr. 6.
+- skal det når kjøretøyer eller en kategori kjøretøyer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering, omsetning eller bruk av disse kjøretøyer på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,
+- skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningene som kreves etter særdirektivet, fylle ut typegodkjenningsdokumentet i samsvar med det relevante særdirektiv. En kopi av dokumentet skal utstedes til søkeren. For kjøretøy av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
 
 2\. Med unntak av [§ 3-8](forskrift/1994-10-04-918/§3-8) og [§ 3-9](forskrift/1994-10-04-918/§3-9), skal bestemmelsene i denne paragraf ikke gi adgang til unntak frå bestemmelser i særdirektiver som er ufravikelige.
 
@@ -568,7 +837,9 @@ Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrerin
 
 ### § 4-1. Generelt
 
-1\. Bestemmelsene i dette kapitel gjelder typegodkjenning av to- og trehjulede motorvogner og deres deler og tekniske enheter i samsvar med direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2013/60/EU](eu/32013l0060).Den som søker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
+1\. Bestemmelsene i dette kapitel gjelder typegodkjenning av to- og trehjulede motorvogner og deres deler og tekniske enheter i samsvar med direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2013/60/EU](eu/32013l0060).
+
+Den som søker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
 
 2\. Henvisninger til vedlegg gjelder overnevnte rettsakt.
 
@@ -576,7 +847,15 @@ Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrerin
 
 4\. Vegdirektoratet er godkjenningsmyndighet etter dette kap.
 
-5\. Bestemmelsene får ikke anvendelse for:Motorvogn med høyeste konstruksjonshastighet på 6 km/t eller mindre.Motorvogner beregnet på å styres av gående.Motorvogner beregnet på bruk av fysisk funksjonshemmede personer.Motorvogner beregnet på bruk i konkurranser på veg eller i terrenget.Landbrukstraktorer og -maskiner eller lignende maskiner.Motorvogner konstruert hovedsaklig for terrengkjøring og fritidsbruk, med tre symmetrisk plasserte hjul, der det ene er plassert foran.Tråsykler med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå.
+5\. Bestemmelsene får ikke anvendelse for:
+
+1. Motorvogn med høyeste konstruksjonshastighet på 6 km/t eller mindre.
+2. Motorvogner beregnet på å styres av gående.
+3. Motorvogner beregnet på bruk av fysisk funksjonshemmede personer.
+4. Motorvogner beregnet på bruk i konkurranser på veg eller i terrenget.
+5. Landbrukstraktorer og -maskiner eller lignende maskiner.
+6. Motorvogner konstruert hovedsaklig for terrengkjøring og fritidsbruk, med tre symmetrisk plasserte hjul, der det ene er plassert foran.
+7. Tråsykler med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå.
 
 6\. Dette kapittel får heller ikke anvendelse på deler og tekniske enheter for kjøretøyer nevnt i nr. 5, med mindre de er beregnet på å monteres på kjøretøyer som omfattes av dette kapittel.
 
@@ -600,7 +879,10 @@ Søknad om typegodkjenning av kjøretøyer eller deler skal innsendes av produse
 
 ### § 4-3. Typegodkjenning
 
-1\. Typegodkjenning skal gis for alle kjøretøytyper, deler eller tekniske enheter som oppfyller følgende vilkår:kjøretøytypen skal oppfylle de tekniske krav i særdirektivene og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg I,den tekniske enheten eller delen skal oppfylle de tekniske krav i det aktuelle særdirektiv og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg I.
+1\. Typegodkjenning skal gis for alle kjøretøytyper, deler eller tekniske enheter som oppfyller følgende vilkår:
+
+1. kjøretøytypen skal oppfylle de tekniske krav i særdirektivene og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg I,
+2. den tekniske enheten eller delen skal oppfylle de tekniske krav i det aktuelle særdirektiv og være i samsvar med dataene oppgitt av produsenten, som angitt på den fullstendige listen i vedlegg I.
 
 2\. Før typegodkjenning gis, skal Vegdirektoratet, om nødvendig i samarbeid med vedkommende myndigheter i den EØS-stat der produksjonen finner sted eller der produktet innføres i EØS-området, treffe de nødvendige tiltak for å sikre at bestemmelsene i vedlegg VI etterkommes, slik at nye kjøretøyer som produseres, markedsføres, selges eller tas i bruk, og nye tekniske enheter eller deler som produseres, er i samsvar med den godkjente typen.
 
@@ -620,7 +902,11 @@ Søknad om typegodkjenning av kjøretøyer eller deler skal innsendes av produse
 
 ### § 4-4. Samsvarssertifikat
 
-1\. For hvert kjøretøy produsert i samsvar med den godkjente typen skal produsenten utstede et samsvarssertifikat som skal være utformet i henhold til vedlegg IV del A i direktiv [92/61/EØF](eu/31992l0061*). Fra 9. november 2003 skal samsvarssertifikatet være utformet i henhold til vedlegg IV del A i direktiv [2002/24/EF](eu/32002l0024*), dog kan tidligere mønster etter direktiv [92/61/EØF](eu/31992l0061*) benyttes i inntil 12 måneder etter dette på anmodning fra fabrikant. Samsvarssertifikater utstedt på basis av typegodkjenninger utstedt før 9. november 2003 og utvidelser av typegodkjenninger i henhold til bestemmelsene i direktiv [92/61/EØF](eu/31992l0061*), skal være utformet i henhold til vedlegg IV del A i direktiv [2002/24/EF](eu/32002l0024*) fra 9. november 2004.For tohjuls motorsykkel skal det av samsvarssertifikatet også fremgå om det er lett, mellomtung eller tung motorsykkel. Dersom en motorsykkel både er mellomtung og tung, angis bare mellomtung.Vegdirektoratet kan for øvrig, i forbindelse med beskatning av kjøretøy eller utforming av registreringsdokument, kreve at samsvarssertifikatet skal inneholde andre opplysninger enn dem som er nevnt i vedlegg IV del A, forutsatt at de tydelig framgår av opplysningsdokumentet.
+1\. For hvert kjøretøy produsert i samsvar med den godkjente typen skal produsenten utstede et samsvarssertifikat som skal være utformet i henhold til vedlegg IV del A i direktiv [92/61/EØF](eu/31992l0061*). Fra 9. november 2003 skal samsvarssertifikatet være utformet i henhold til vedlegg IV del A i direktiv [2002/24/EF](eu/32002l0024*), dog kan tidligere mønster etter direktiv [92/61/EØF](eu/31992l0061*) benyttes i inntil 12 måneder etter dette på anmodning fra fabrikant. Samsvarssertifikater utstedt på basis av typegodkjenninger utstedt før 9. november 2003 og utvidelser av typegodkjenninger i henhold til bestemmelsene i direktiv [92/61/EØF](eu/31992l0061*), skal være utformet i henhold til vedlegg IV del A i direktiv [2002/24/EF](eu/32002l0024*) fra 9. november 2004.
+
+For tohjuls motorsykkel skal det av samsvarssertifikatet også fremgå om det er lett, mellomtung eller tung motorsykkel. Dersom en motorsykkel både er mellomtung og tung, angis bare mellomtung.
+
+Vegdirektoratet kan for øvrig, i forbindelse med beskatning av kjøretøy eller utforming av registreringsdokument, kreve at samsvarssertifikatet skal inneholde andre opplysninger enn dem som er nevnt i vedlegg IV del A, forutsatt at de tydelig framgår av opplysningsdokumentet.
 
 2\. For hver uoriginal teknisk enhet eller del produsert i samsvar med den godkjente typen, skal produsenten utstede et samsvarssertifikat som skal være utformet i henhold til vedlegg IV del B i direktiv [92/61/EØF](eu/31992l0061*). Fra 9. november 2003 skal samsvarssertifikatet være utformet i henhold til vedlegg IV del B i direktiv [2002/24/EF](eu/32002l0024*). Samsvarssertifikater utstedt på basis av typegodkjenninger utstedt før 9. november 2003 og utvidelser av typegodkjenninger i henhold til bestemmelsene i direktiv [92/61/EØF](eu/31992l0061*), skal være utformet i henhold til vedlegg IV del B i direktiv [2002/24/EF](eu/32002l0024*) fra 9. november 2004. Dette sertifikatet er ikke påkrevd for originale tekniske enheter eller deler.
 
@@ -634,9 +920,15 @@ Søknad om typegodkjenning av kjøretøyer eller deler skal innsendes av produse
 
 ### § 4-5. Typegodkjenningsmerke
 
-1\. Alle kjøretøyer produsert i samsvar med den godkjente typen, skal være påført et typegodkjenningsmerke som består av:typegodkjenningsnummeret,liten bokstav «e», fulgt av identifikasjonsnummeret eller nasjonalitetsbokstavene til den EØS-stat som har foretatt typegodkjenningen,kjøretøyets identifikasjon i form av en numerisk eller alfanumerisk kode.
+1\. Alle kjøretøyer produsert i samsvar med den godkjente typen, skal være påført et typegodkjenningsmerke som består av:
 
-2\. Alle tekniske enheter og deler produsert i samsvar med den godkjente typen skal dersom det relevante særdirektiv krever det, være påført et typegodkjenningsmerke som oppfyller kravene fastsatt i vedlegg V.Opplysningene på typegodkjenningsmerket kan imidlertid suppleres med ytterligere opplysninger som gjør det mulig å identifisere særlige egenskaper ved den aktuelle tekniske enhet eller del, og som eventuelt skal angis i de eventuelle særdirektiver om disse tekniske enheter eller deler.
+- typegodkjenningsnummeret,
+- liten bokstav «e», fulgt av identifikasjonsnummeret eller nasjonalitetsbokstavene til den EØS-stat som har foretatt typegodkjenningen,
+- kjøretøyets identifikasjon i form av en numerisk eller alfanumerisk kode.
+
+2\. Alle tekniske enheter og deler produsert i samsvar med den godkjente typen skal dersom det relevante særdirektiv krever det, være påført et typegodkjenningsmerke som oppfyller kravene fastsatt i vedlegg V.
+
+Opplysningene på typegodkjenningsmerket kan imidlertid suppleres med ytterligere opplysninger som gjør det mulig å identifisere særlige egenskaper ved den aktuelle tekniske enhet eller del, og som eventuelt skal angis i de eventuelle særdirektiver om disse tekniske enheter eller deler.
 
 ### § 4-6. Ansvar for produksjon
 
@@ -672,9 +964,17 @@ Enhver beslutning om nekte eller tilbakekalle typegodkjenningen av kjøretøyer 
 
 ### § 4-10. Underretning om godkjenningsmyndigheten og tekniske instanser
 
-1\. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:godkjenningsmyndighetene, og eventuellt hvilke fagområder myndighetene er ansvarlig for, ogde tekniske instanser som er utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte standard for drift av prøvelabratorier (EN 45001), idet følgende bestemmelser skal overholdes:en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene uttrykkelig gir mulighet for det.for dette kapittels formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at typegodkjenningsmyndigheten har gitt sitt samtykke til det.
+1\. Vegdirektoratet skal underrette de andre EFTA-statene og EFTAs overvåkningsorgan om navn og adresse til:
 
-2\. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden, men EFTAs overvåkningsorgan eller EFTA-statenes faste komité kan om nødvendig anmode EFTA-statene om bevis for dette.Tredjestaters instanser kan bare utnevnes til tekniske instanser innenfor rammen av multilaterale eller bilaterale avtaler avtaler mellom EØS og tredjestater.
+1. godkjenningsmyndighetene, og eventuellt hvilke fagområder myndighetene er ansvarlig for, og
+2. de tekniske instanser som er utpekt, med opplysning om hvilke prøver hver av de tekniske instanser er utpekt til å gjennomføre. De utpekte tekniske instanser må tilfredsstille den harmoniserte standard for drift av prøvelabratorier (EN 45001), idet følgende bestemmelser skal overholdes:
+
+   1. en produsent kan ikke godkjennes som teknisk instans bortsett fra i de tilfeller der særdirektivene uttrykkelig gir mulighet for det.
+   2. for dette kapittels formål anses det ikke som uvanlig at en teknisk instans benytter annet utstyr enn sitt eget, forutsatt at typegodkjenningsmyndigheten har gitt sitt samtykke til det.
+
+2\. Det forutsettes at en utpekt teknisk instans oppfyller den harmoniserte standarden, men EFTAs overvåkningsorgan eller EFTA-statenes faste komité kan om nødvendig anmode EFTA-statene om bevis for dette.
+
+Tredjestaters instanser kan bare utnevnes til tekniske instanser innenfor rammen av multilaterale eller bilaterale avtaler avtaler mellom EØS og tredjestater.
 
 ### § 4-11. Fri bevegelighet – unntak og overgangsbestemmelser
 
@@ -682,13 +982,42 @@ Enhver beslutning om nekte eller tilbakekalle typegodkjenningen av kjøretøyer 
 
 2\. EØS-statene kan ikke forby markedsføring, salg eller bruk av nye tekniske enheter eller deler som er i samsvar med dette direktiv. Bare tekniske enheter eller deler som er i samsvar med dette direktiv, kan markedsføres og selges for første gang for bruk i EØS-statene.
 
-3\. Som unntak fra nr. 1 og 2 gjelder følgende:de EØS-stater som i sin nasjonale lovgivning om mopeder har særbestemmelser om pedaler og/eller om kraftoverføringssystemet og om begrensning av massen, kan likevel fortsatt anvende særbestemmelsene i et tidsrom på høyst tre år etter at dette direktivet er gjennomført.Vegdirektoratet kan unnta kjøretøyer, tekniske enheter eller deler fra ett eller flere av kravene i særdirektivene, dersom kjøretøyene, de tekniske enhetene eller delene er beregnet påen produksjon i små serier på høyst 200 enheter pr. år pr. type kjøretøy, teknisk enhet eller del, ellerde væpnede styrker, instanser som er ansvarlig for å ivareta offentlig orden, sivilforsvaret eller offentlig bygge- og anleggsvirksomhet.De andre EFTA-statene og EFTA-statenes faste komité skal underrettes om slike unntak innen en måned etter at de er gitt.typegodkjenninger gitt på nasjonalt plan før gjennomføringen av direktiv [92/61/EØF](eu/31992l0061*) eller av de særdirektiver som erstatter de tilsvarende nasjonale bestemmelser, skal forbli gyldige i de EØS-stater som har gitt typegodkjenningene, i et tidsrom på høyst fire år fra den dato direktiv [92/61/EØF](eu/31992l0061*) eller de relevante særdirektiver får virkning den nasjonale lovgivning.Samme tidsrom på fire år får også anvendelse på typer av kjøretøyer, tekniske enheter eller deler som er i samsvar med nasjonale bestemmelser som gjaldt før gjennomføringen av direktiv [92/61/EØF](eu/31992l0061*) eller særdirektiver, i de EØS-stater som anvendte annen lovgivning enn den som gjelder typegodkjenning av kjøretøyer og deler.Kjøretøyer som omfattes av sistnevnte unntak, kan i dette tidsrom markedsføres, selges og tas i bruk uten tidsbegrensning for bruken av dem.Markedsføring, salg og bruk av tekniske enheter og deler til disse kjøretøyer skal ikke være tidsbegrenset.
+3\. Som unntak fra nr. 1 og 2 gjelder følgende:
+
+1. de EØS-stater som i sin nasjonale lovgivning om mopeder har særbestemmelser om pedaler og/eller om kraftoverføringssystemet og om begrensning av massen, kan likevel fortsatt anvende særbestemmelsene i et tidsrom på høyst tre år etter at dette direktivet er gjennomført.
+2. Vegdirektoratet kan unnta kjøretøyer, tekniske enheter eller deler fra ett eller flere av kravene i særdirektivene, dersom kjøretøyene, de tekniske enhetene eller delene er beregnet på
+
+   - en produksjon i små serier på høyst 200 enheter pr. år pr. type kjøretøy, teknisk enhet eller del, eller
+   - de væpnede styrker, instanser som er ansvarlig for å ivareta offentlig orden, sivilforsvaret eller offentlig bygge- og anleggsvirksomhet.
+
+De andre EFTA-statene og EFTA-statenes faste komité skal underrettes om slike unntak innen en måned etter at de er gitt.
+
+1. typegodkjenninger gitt på nasjonalt plan før gjennomføringen av direktiv [92/61/EØF](eu/31992l0061*) eller av de særdirektiver som erstatter de tilsvarende nasjonale bestemmelser, skal forbli gyldige i de EØS-stater som har gitt typegodkjenningene, i et tidsrom på høyst fire år fra den dato direktiv [92/61/EØF](eu/31992l0061*) eller de relevante særdirektiver får virkning den nasjonale lovgivning.
+
+Samme tidsrom på fire år får også anvendelse på typer av kjøretøyer, tekniske enheter eller deler som er i samsvar med nasjonale bestemmelser som gjaldt før gjennomføringen av direktiv [92/61/EØF](eu/31992l0061*) eller særdirektiver, i de EØS-stater som anvendte annen lovgivning enn den som gjelder typegodkjenning av kjøretøyer og deler.
+
+Kjøretøyer som omfattes av sistnevnte unntak, kan i dette tidsrom markedsføres, selges og tas i bruk uten tidsbegrensning for bruken av dem.
+
+Markedsføring, salg og bruk av tekniske enheter og deler til disse kjøretøyer skal ikke være tidsbegrenset.
 
 ### § 4-12. Restkjøretøy
 
-1\. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg VIII og for et begrenset tidsrom på tolv måneder, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye kjøretøy av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig.Denne bestemmelsen får anvendelse bare på kjøretøysom befant seg i EØS-området, ogsom var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert eller tatt i bruk før denne typegodkjenningen ble ugyldig.
+1\. Vegdirektoratet kan, innenfor det begrensede antall fastsatt i vedlegg VIII og for et begrenset tidsrom på tolv måneder, regnet fra den dato typegodkjenningen ble ugyldig, registrere nye kjøretøy av en kjøretøytype hvis typegodkjenningen ikke lenger er gyldig.
 
-2\. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal fabrikanten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøy aksepteres registrert.Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg VIII.Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
+Denne bestemmelsen får anvendelse bare på kjøretøy
+
+- som befant seg i EØS-området, og
+- som var ledsaget av et gyldig samsvarssertifikat utstedet mens typegodkjenningen for det aktuelle kjøretøyet fremdeles var gyldig, men som ikke var registrert eller tatt i bruk før denne typegodkjenningen ble ugyldig.
+
+2\. For at nr. 1 skal kunne anvendes på en eller flere kjøretøytyper i en bestemt gruppe, skal fabrikanten sende søknad om dette til Vegdirektoratet for kjøretøy som ønskes registrert i Norge.
+
+Søknaden skal angi hvilke tekniske og/eller økonomiske begrunnelser den er basert på.
+
+Innen tre måneder skal Vegdirektoratet avgjøre om, og for hvilket antall, slike kjøretøy aksepteres registrert.
+
+Enhver EØS-stat som berøres av at slike kjøretøytyper tas i bruk, skal være ansvarlig for å sikre at produsenten overholder bestemmelsene i vedlegg VIII.
+
+Vegdirektoratet skal hvert år sende EFTAs overvåkningsorgan en liste over de unntak som er gitt.
 
 ## Kap. 5. EF-typegodkjenning av traktor, tilhenger til traktor og utskiftbar trukket maskin
 
@@ -696,7 +1025,9 @@ Enhver beslutning om nekte eller tilbakekalle typegodkjenningen av kjøretøyer 
 
 ### § 5-1. Generelt
 
-1\. Dette kapittel gjelder EF-typegodkjenning av traktor i henhold til direktiv [74/150/EØF](eu/31974l0150*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003), fra 1. juli 2005 avløst av direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067) og EF-typegodkjenning av tilhenger til traktor og utskiftbar trukket maskin i henhold til direktiv [2003/37/EF](eu/32003l0037) fra 1. juli 2005, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067). Det gjelder også EF-typegodkjenning av systemer, komponenter og tekniske enheter beregnet til slike kjøretøy.Den som søker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
+1\. Dette kapittel gjelder EF-typegodkjenning av traktor i henhold til direktiv [74/150/EØF](eu/31974l0150*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003), fra 1. juli 2005 avløst av direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067) og EF-typegodkjenning av tilhenger til traktor og utskiftbar trukket maskin i henhold til direktiv [2003/37/EF](eu/32003l0037) fra 1. juli 2005, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067). Det gjelder også EF-typegodkjenning av systemer, komponenter og tekniske enheter beregnet til slike kjøretøy.
+
+Den som søker typegodkjenning må selv bære omkostningene i samsvar med bestemmelsene i [kap. 6](forskrift/1994-10-04-918/kap6), så langt disse passer. Se særlig [§ 6-9](forskrift/1994-10-04-918/§6-9) nr. 7.
 
 2\. Henvisninger til vedlegg gjelder overnevnte rettsakter.
 
@@ -708,7 +1039,17 @@ Enhver beslutning om nekte eller tilbakekalle typegodkjenningen av kjøretøyer 
 
 6\. Bestemmelsene i dette kap. gjelder for EØF-typegodkjenning i Norge, med mindre annet fremgår. Prosedyrene er imidlertid tilsvarende også i andre EØS-stater.
 
-7\. Typegodkjenning etter dette kapittelet er obligatorisk så langt det finnes relevante særdirektiver for traktor i klassene T1, T2 og T3 fra følgende tidspunkter:1. juli 2005 for typegodkjenning av ny type kjøretøy og1. juli 2009 for nye registreringer.For øvrige klasser av traktorer og for tilhengere og utskiftbare trukne maskiner er kapittelet obligatorisk fra følgende tidspunkter:Tre år etter ikrafttreden av siste særdirektiv i henhold til direktiv [2003/37/EF](eu/32003l0037) vedlegg II, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), for EF-typegodkjenning av ny type kjøretøy, ogSeks år etter ikrafttreden av siste særdirektiv i henhold til direktiv [2003/37/EF](eu/32003l0037) vedlegg II, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), for registrering av nytt kjøretøy.I vedlegg I til denne forskrift er inntatt liste over de særdirektiv som skal anvendes ved EF-typegodkjenning. Andre standarder i bilag II til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), skal anerkjennes som likeverdige med de aktuelle særdirektiver.
+7\. Typegodkjenning etter dette kapittelet er obligatorisk så langt det finnes relevante særdirektiver for traktor i klassene T1, T2 og T3 fra følgende tidspunkter:
+
+- 1\. juli 2005 for typegodkjenning av ny type kjøretøy og
+- 1\. juli 2009 for nye registreringer.
+
+For øvrige klasser av traktorer og for tilhengere og utskiftbare trukne maskiner er kapittelet obligatorisk fra følgende tidspunkter:
+
+- Tre år etter ikrafttreden av siste særdirektiv i henhold til direktiv [2003/37/EF](eu/32003l0037) vedlegg II, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), for EF-typegodkjenning av ny type kjøretøy, og
+- Seks år etter ikrafttreden av siste særdirektiv i henhold til direktiv [2003/37/EF](eu/32003l0037) vedlegg II, som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), for registrering av nytt kjøretøy.
+
+I vedlegg I til denne forskrift er inntatt liste over de særdirektiv som skal anvendes ved EF-typegodkjenning. Andre standarder i bilag II til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), skal anerkjennes som likeverdige med de aktuelle særdirektiver.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810), [30 nov 2005 nr. 1344](forskrift/2005-11-30-1344), [8 mai 2006 nr. 486](forskrift/2006-05-08-486).
 
@@ -718,9 +1059,14 @@ Søknad om EØF-typegodkjenning skal innsendes av produsenten eller dennes repre
 
 ### § 5-3. Typegodkjenning
 
-1\. For å bli godkjent må traktortyper oppfylle følgende vilkår:traktortypen må være i samsvar med dataene i opplysningsdokumentet.traktortypen må oppfylle kravene til verifisering oppført i mønsteret for typegodkjenningsdokumentet i vedlegg II.
+1\. For å bli godkjent må traktortyper oppfylle følgende vilkår:
 
-2\. Vegdirektoratet skal om nødvendig, og eventuelt i samarbeid med vedkommende myndigheter i de andre EØS-statene, treffe nødvendige tiltak for å kontrollere at produksjonsmodellene er i samsvar med den godkjente prototypen. Denne kontrollen skal bare omfatte stikkprøvekontroller.Alle punkter i typegodkjenningsdokumentet skal fylles ut for hver traktortype som godkjennes.
+1. traktortypen må være i samsvar med dataene i opplysningsdokumentet.
+2. traktortypen må oppfylle kravene til verifisering oppført i mønsteret for typegodkjenningsdokumentet i vedlegg II.
+
+2\. Vegdirektoratet skal om nødvendig, og eventuelt i samarbeid med vedkommende myndigheter i de andre EØS-statene, treffe nødvendige tiltak for å kontrollere at produksjonsmodellene er i samsvar med den godkjente prototypen. Denne kontrollen skal bare omfatte stikkprøvekontroller.
+
+Alle punkter i typegodkjenningsdokumentet skal fylles ut for hver traktortype som godkjennes.
 
 3\. Vegdirektoratet skal for hver traktortype som godkjennes eller nektes godkjent, innen en måned, sende kopi av opplysningsdokumentet og godkjenningsdokumentet til vedkommende myndigheter i de andre EFTA-statene og til EFTA-statenes faste komité.
 
@@ -736,7 +1082,11 @@ Søknad om EØF-typegodkjenning skal innsendes av produsenten eller dennes repre
 
 ### § 5-5. Unntak
 
-Vegdirektoratet kan etter søknad gjøre unntak fra en eller flere bestemmelser i et eller flere særdirektiv for følgende kjøretøy:kjøretøy som produseres i små serier, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 9restkjøretøy, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 10 oguforenlige kjøretøy, systemer, komponenter eller separate tekniske enheter, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 11.
+Vegdirektoratet kan etter søknad gjøre unntak fra en eller flere bestemmelser i et eller flere særdirektiv for følgende kjøretøy:
+
+- kjøretøy som produseres i små serier, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 9
+- restkjøretøy, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 10 og
+- uforenlige kjøretøy, systemer, komponenter eller separate tekniske enheter, jf. direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), artikkel 11.
 
 > Tilføyd ved [forskrift 23 des 2004 nr. 1810](forskrift/2004-12-23-1810). Endret ved [forskrifter 30 nov 2005 nr. 1344](forskrift/2005-11-30-1344), [8 mai 2006 nr. 486](forskrift/2006-05-08-486).
 
@@ -756,17 +1106,23 @@ Vegdirektoratet kan etter søknad gjøre unntak fra en eller flere bestemmelser 
 
 1\. Nye traktorer utstyrt med samsvarssertifikat kan ikke med begrunnelse i konstruksjon eller virkemåte nektes registrert, tatt i bruk, solgt eller fortsatt brukt.
 
-2\. Sertifikatet skal likevel ikke være til hinder for at det treffes slike tiltak når det gjelder traktorer som ikke er i samsvar med den godkjente prototypen.Mangel på samsvar med den godkjente prototypen foreligger når det i forhold til opplysningsdokumentet fastslås avvik som det ikke er gitt tillatelse til etter [§ 5-5](forskrift/1994-10-04-918/§5-5) nr. 2 eller 3 av vedkommende myndighet som ga typegodkjenningen. En traktor skal ikke anses å avvike fra den godkjente typen dersom eventuelle grenseverdier fastsatt i særdirektivene ikke overskrides.
+2\. Sertifikatet skal likevel ikke være til hinder for at det treffes slike tiltak når det gjelder traktorer som ikke er i samsvar med den godkjente prototypen.
+
+Mangel på samsvar med den godkjente prototypen foreligger når det i forhold til opplysningsdokumentet fastslås avvik som det ikke er gitt tillatelse til etter [§ 5-5](forskrift/1994-10-04-918/§5-5) nr. 2 eller 3 av vedkommende myndighet som ga typegodkjenningen. En traktor skal ikke anses å avvike fra den godkjente typen dersom eventuelle grenseverdier fastsatt i særdirektivene ikke overskrides.
 
 > Endret ved [forskrift 23 des 2004 nr. 1810](forskrift/2004-12-23-1810) (tidligere § 5-6).
 
 ### § 5-8. Manglende samsvar
 
-1\. Dersom det fastslås at flere traktorer utstyrt med samme type samsvarssertifikat ikke er i samsvar med type typegodkjent i Norge, skal det treffes nødvendige tiltak for å sikre at produksjonen er i samsvar med den godkjente typen. Statens vegvesen skal underrette myndighetene i de andre EFTA-statene og EFTAs overvåkningsorgan om tiltakene, som eventuelt kan omfatte tilbakekallelse av EØF-typegodkjenningen.Vegdirektoratet skal treffe samme tiltak dersom de av vedkommende myndigheter i en annen EØS-stat underrettes om slik mangel på samsvar.
+1\. Dersom det fastslås at flere traktorer utstyrt med samme type samsvarssertifikat ikke er i samsvar med type typegodkjent i Norge, skal det treffes nødvendige tiltak for å sikre at produksjonen er i samsvar med den godkjente typen. Statens vegvesen skal underrette myndighetene i de andre EFTA-statene og EFTAs overvåkningsorgan om tiltakene, som eventuelt kan omfatte tilbakekallelse av EØF-typegodkjenningen.
+
+Vegdirektoratet skal treffe samme tiltak dersom de av vedkommende myndigheter i en annen EØS-stat underrettes om slik mangel på samsvar.
 
 2\. Vedkommende myndigheter i EFTA-statene skal innen en måned underrette hverandre og EFTAs overvåkningsorgan om tilbakekallelse av en EØF-typegodkjenning, og om grunnene for dette tiltaket.
 
-3\. Dersom det bestrides at det foreligger mangel på samsvar som den er underrettet om, skal de berørte EØS-stater forsøke å bilegge tvisten.EFTA s overvåkningsorgan skal holdes underrettet. De skal eventuelt få i stand passende samråd med tanke på å finne en løsning.
+3\. Dersom det bestrides at det foreligger mangel på samsvar som den er underrettet om, skal de berørte EØS-stater forsøke å bilegge tvisten.
+
+EFTA s overvåkningsorgan skal holdes underrettet. De skal eventuelt få i stand passende samråd med tanke på å finne en løsning.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810) (tidligere § 5-7), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -788,7 +1144,11 @@ Vegdirektoratet kan etter søknad gjøre unntak fra en eller flere bestemmelser 
 
 ### § 5-11. Overgangsregler – Nasjonal typegodkjenning basert på særdirektiver
 
-1\. Etter hvert som særdirektivene trer i kraft:skal det i den utstrekning traktorer eller en kategori traktorer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette,skal det i den utstrekning traktorer eller en kategori traktorer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering eller bruk av disse traktorene på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningsdokumentet nevnt i [§ 5-2](forskrift/1994-10-04-918/§5-2), fylle ut typegodkjenningsdokumentet. En kopi av dokumentet skal utstedes til søkeren. For traktor av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
+1\. Etter hvert som særdirektivene trer i kraft:
+
+- skal det i den utstrekning traktorer eller en kategori traktorer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette,
+- skal det i den utstrekning traktorer eller en kategori traktorer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering eller bruk av disse traktorene på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,
+- skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningsdokumentet nevnt i [§ 5-2](forskrift/1994-10-04-918/§5-2), fylle ut typegodkjenningsdokumentet. En kopi av dokumentet skal utstedes til søkeren. For traktor av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
 
 > Endret ved [forskrift 23 des 2004 nr. 1810](forskrift/2004-12-23-1810) (tidligere § 5-10).
 
@@ -808,7 +1168,20 @@ Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrerin
 
 2\. Når dette kapittel kommer til anvendelse, gjelder, under hensyntagen til prinsippene i [§ 3-1](forskrift/1994-10-04-918/§3-1), [§ 3-16](forskrift/1994-10-04-918/§3-16), [§ 4-1](forskrift/1994-10-04-918/§4-1), [§ 4-11](forskrift/1994-10-04-918/§4-11), [§ 5-1](forskrift/1994-10-04-918/§5-1) og [§ 5-6](forskrift/1994-10-04-918/§5-6), de nasjonale krav beskrevet i det følgende.
 
-3\. De nasjonale krav til traktor i det følgende gjelder fram til 1. juli 2005 også for jordbruks- og skogbrukstraktor, dersom ikke [kapittel 5](forskrift/1994-10-04-918/kap5) skal anvendes. Fra 1. juli 2005 gjelder følgende nasjonale bestemmelser for godkjenning av traktor, tilhenger til traktor og utskiftbar trukket maskin som definert i [§ 2-4](forskrift/1994-10-04-918/§2-4):Enkeltgodkjenning av traktor i gruppe T1, T2 og T3 skjer etter kravene som er angitt i [kapittel 5](forskrift/1994-10-04-918/kap5), jf. [§ 5-1](forskrift/1994-10-04-918/§5-1) nr. 7.Type- og enkeltgodkjenning av traktor i gruppe T5 skjer etter kravene i de følgende kapitler i forskriften. Typegodkjenninger utstedt på grunnlag av kravene som gjaldt før 1. juli 2005 kan for nye registreringer av traktor i gruppe T5 benyttes fram til 1. januar 2010.Type- eller enkeltgodkjenning av tilhenger til traktor (gruppe R) skjer etter kravene til tilhenger i de følgende kapitler i forskriften.Type- eller enkeltgodkjenning av utskiftbar trukket maskin (gruppe S) skjer etter kravene til tilhengerredskap i de følgende kapitler i forskriften.Type- eller enkeltgodkjenning av traktor i gruppe T4 og C4 skjer i henhold til kravene i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), bilag II, kapittel B, tillegg 1 eller angitte likeverdige standarder.Type- eller enkeltgodkjenning av traktor i gruppe C1, C2, C3 og C5 skjer i henhold til kravene i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), bilag II, kapittel B, med følgende presiseringerKravene til totalvekt (pkt. 1.1) følger denne forskrifts [kapittel 10](forskrift/1994-10-04-918/kap10),Kravene til styring (pkt. 5.1) følger denne forskrifts [kapittel 21](forskrift/1994-10-04-918/kap21),Kravene til bremser (pkt. 7.1) følger denne forskrifts [kapittel 26](forskrift/1994-10-04-918/kap26),Krav til førersete (pkt. 12.1) følger denne forskrifts [kapittel 18](forskrift/1994-10-04-918/kap18),Krav til stabilitet følger denne forskrifts [kapittel 9](forskrift/1994-10-04-918/kap9).
+3\. De nasjonale krav til traktor i det følgende gjelder fram til 1. juli 2005 også for jordbruks- og skogbrukstraktor, dersom ikke [kapittel 5](forskrift/1994-10-04-918/kap5) skal anvendes. Fra 1. juli 2005 gjelder følgende nasjonale bestemmelser for godkjenning av traktor, tilhenger til traktor og utskiftbar trukket maskin som definert i [§ 2-4](forskrift/1994-10-04-918/§2-4):
+
+- Enkeltgodkjenning av traktor i gruppe T1, T2 og T3 skjer etter kravene som er angitt i [kapittel 5](forskrift/1994-10-04-918/kap5), jf. [§ 5-1](forskrift/1994-10-04-918/§5-1) nr. 7.
+- Type- og enkeltgodkjenning av traktor i gruppe T5 skjer etter kravene i de følgende kapitler i forskriften. Typegodkjenninger utstedt på grunnlag av kravene som gjaldt før 1. juli 2005 kan for nye registreringer av traktor i gruppe T5 benyttes fram til 1. januar 2010.
+- Type- eller enkeltgodkjenning av tilhenger til traktor (gruppe R) skjer etter kravene til tilhenger i de følgende kapitler i forskriften.
+- Type- eller enkeltgodkjenning av utskiftbar trukket maskin (gruppe S) skjer etter kravene til tilhengerredskap i de følgende kapitler i forskriften.
+- Type- eller enkeltgodkjenning av traktor i gruppe T4 og C4 skjer i henhold til kravene i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), bilag II, kapittel B, tillegg 1 eller angitte likeverdige standarder.
+- Type- eller enkeltgodkjenning av traktor i gruppe C1, C2, C3 og C5 skjer i henhold til kravene i direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067), bilag II, kapittel B, med følgende presiseringer
+
+  - Kravene til totalvekt (pkt. 1.1) følger denne forskrifts [kapittel 10](forskrift/1994-10-04-918/kap10),
+  - Kravene til styring (pkt. 5.1) følger denne forskrifts [kapittel 21](forskrift/1994-10-04-918/kap21),
+  - Kravene til bremser (pkt. 7.1) følger denne forskrifts [kapittel 26](forskrift/1994-10-04-918/kap26),
+  - Krav til førersete (pkt. 12.1) følger denne forskrifts [kapittel 18](forskrift/1994-10-04-918/kap18),
+  - Krav til stabilitet følger denne forskrifts [kapittel 9](forskrift/1994-10-04-918/kap9).
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810), [30 nov 2005 nr. 1344](forskrift/2005-11-30-1344), [8 mai 2006 nr. 486](forskrift/2006-05-08-486), [19 jan 2007 nr. 54](forskrift/2007-01-19-54), [15 mai 2007 nr. 519](forskrift/2007-05-15-519), [21 nov 2007 nr. 1275](forskrift/2007-11-21-1275) (i kraft 1 mai 2008).
 
@@ -824,17 +1197,46 @@ Ethvert vedtak om å nekte eller tilbakekalle typegodkjenning, nekte registrerin
 
 ### § 6-3. Godkjenning av kjøretøy
 
-1\. Registreringspliktig kjøretøy skal være godkjent før det tas i bruk.For ny bil og tilhenger til bil som er dokumentert EF-typegodkjent i annet EØS-land i samsvar med direktiv [2007/46/EF](eu/32007l0046) som endret ved forordning [(EF) nr. 1060/2008](eu/32008r1060) og fra 29. april 2010 som endret ved forordning [(EF) nr. 385/2009](eu/32009r0385) skal anses som godkjent. Det samme gjelder kjøretøy dokumentert etter forordning [(EF) nr. 78/2009](eu/32009r0078), forordning [(EF) nr. 79/2009](eu/32009r0079), forordning [(EF) nr. 443/2009](eu/32009r0443), forordning [(EF) nr. 595/2009](eu/32009r0595*), forordning [(EF) nr. 631/2009](eu/32009r0631*), forordning [(EF) nr. 661/2009](eu/32009r0661*), direktiv [2010/19/EU](eu/32010l0019) som endret ved beslutning 14. juli 2010, forordning [(EU) nr. 371/2010](eu/32010r0371), forordning [(EU) nr. 406/2010](eu/32010r0406), forordning [(EU) nr. 672/2010](eu/32010r0672), forordning [(EU) nr. 1003/2010](eu/32010r1003), forordning [(EU) nr. 1005/2010](eu/32010r1005), forordning [(EU) nr. 1008/2010](eu/32010r1008), forordning [(EU) nr. 1009/2010](eu/32010r1009), forordning [(EU) nr. 19/2011](eu/32011r0019), forordning [(EU) nr. 63/2011](eu/32011r0063), forordning [(EU) nr. 109/2011](eu/32011r0109), forordning [(EU) nr. 183/2011](eu/32011r0183), forordning [(EU) nr. 407/2011](eu/32011r0407), forordning [(EU) nr. 458/2011](eu/32011r0458), forordning [(EU) nr. 459/2011](eu/32011r0459), forordning [(EU) nr. 566/2011](eu/32011r0566), forordning [(EU) nr. 582/2011](eu/32011r0582), forordning [(EU) nr. 678/2011](eu/32011r0678), forordning [(EU) nr. 64/2012](eu/32012r0064), forordning [(EU) nr. 65/2012](eu/32012r0065), forordning [(EU) nr. 130/2012](eu/32012r0130), forordning [(EU) nr. 249/2012](eu/32012r0249), forordning [(EU) nr. 347/2012](eu/32012r0347) og forordning [(EU) nr. 351/2012](eu/32012r0351*). Kjøretøygruppe som angitt i godkjenningen skal benyttes. Dokumentert oppfylt kravnivå eller EF-typegodkjenning for systemer, komponenter, tekniske enheter og delvis oppbygde kjøretøy etter nevnte rettsakter kan benyttes som ledd i enkeltgodkjenning eller nasjonal typegodkjenning. For buss klasse II gjelder dette ledd bare dersom bussen er utstyrt med bilbelte som tilfredsstiller kravene i direktiv [96/36/EF](eu/31996l0036) og direktiv [96/38/EF](eu/31996l0038*). Ambulansebil skal i tillegg oppfylle kravene til sikring av båre og pasient på båre i [§ 8-7](forskrift/1994-10-04-918/§8-7).Annet ledd trer i kraft 29. april 2009.
+1\. Registreringspliktig kjøretøy skal være godkjent før det tas i bruk.
 
-2\. Godkjenningsmyndigheten skal klassifisere kjøretøyet innenfor de kjøretøykategorier som nevnt i [kapittel 2](forskrift/1994-10-04-918/kap2). Klassifisering av de forskjellige modeller motorsykler i de ulike grupper motorsykler foretas i alle tilfelle av Vegdirektoratet. Kjøretøyet skal klassifiseres i henhold til den utførelse det har sett i forhold til definisjonene i [kapittel 2](forskrift/1994-10-04-918/kap2). I tvilstilfelle fastsetter godkjenningsmyndigheten hvordan kjøretøyet skal klassifiseres.Med mindre annet er fastsatt, skal kjøretøy som etter tidligere bestemmelser er godkjent, klassifisert eller registrert som en type kjøretøy, fortsatt ha denne status. Dette gjelder også EØF-typegodkjente kjøretøy.
+For ny bil og tilhenger til bil som er dokumentert EF-typegodkjent i annet EØS-land i samsvar med direktiv [2007/46/EF](eu/32007l0046) som endret ved forordning [(EF) nr. 1060/2008](eu/32008r1060) og fra 29. april 2010 som endret ved forordning [(EF) nr. 385/2009](eu/32009r0385) skal anses som godkjent. Det samme gjelder kjøretøy dokumentert etter forordning [(EF) nr. 78/2009](eu/32009r0078), forordning [(EF) nr. 79/2009](eu/32009r0079), forordning [(EF) nr. 443/2009](eu/32009r0443), forordning [(EF) nr. 595/2009](eu/32009r0595*), forordning [(EF) nr. 631/2009](eu/32009r0631*), forordning [(EF) nr. 661/2009](eu/32009r0661*), direktiv [2010/19/EU](eu/32010l0019) som endret ved beslutning 14. juli 2010, forordning [(EU) nr. 371/2010](eu/32010r0371), forordning [(EU) nr. 406/2010](eu/32010r0406), forordning [(EU) nr. 672/2010](eu/32010r0672), forordning [(EU) nr. 1003/2010](eu/32010r1003), forordning [(EU) nr. 1005/2010](eu/32010r1005), forordning [(EU) nr. 1008/2010](eu/32010r1008), forordning [(EU) nr. 1009/2010](eu/32010r1009), forordning [(EU) nr. 19/2011](eu/32011r0019), forordning [(EU) nr. 63/2011](eu/32011r0063), forordning [(EU) nr. 109/2011](eu/32011r0109), forordning [(EU) nr. 183/2011](eu/32011r0183), forordning [(EU) nr. 407/2011](eu/32011r0407), forordning [(EU) nr. 458/2011](eu/32011r0458), forordning [(EU) nr. 459/2011](eu/32011r0459), forordning [(EU) nr. 566/2011](eu/32011r0566), forordning [(EU) nr. 582/2011](eu/32011r0582), forordning [(EU) nr. 678/2011](eu/32011r0678), forordning [(EU) nr. 64/2012](eu/32012r0064), forordning [(EU) nr. 65/2012](eu/32012r0065), forordning [(EU) nr. 130/2012](eu/32012r0130), forordning [(EU) nr. 249/2012](eu/32012r0249), forordning [(EU) nr. 347/2012](eu/32012r0347) og forordning [(EU) nr. 351/2012](eu/32012r0351*). Kjøretøygruppe som angitt i godkjenningen skal benyttes. Dokumentert oppfylt kravnivå eller EF-typegodkjenning for systemer, komponenter, tekniske enheter og delvis oppbygde kjøretøy etter nevnte rettsakter kan benyttes som ledd i enkeltgodkjenning eller nasjonal typegodkjenning. For buss klasse II gjelder dette ledd bare dersom bussen er utstyrt med bilbelte som tilfredsstiller kravene i direktiv [96/36/EF](eu/31996l0036) og direktiv [96/38/EF](eu/31996l0038*). Ambulansebil skal i tillegg oppfylle kravene til sikring av båre og pasient på båre i [§ 8-7](forskrift/1994-10-04-918/§8-7).
+
+Annet ledd trer i kraft 29. april 2009.
+
+2\. Godkjenningsmyndigheten skal klassifisere kjøretøyet innenfor de kjøretøykategorier som nevnt i [kapittel 2](forskrift/1994-10-04-918/kap2). Klassifisering av de forskjellige modeller motorsykler i de ulike grupper motorsykler foretas i alle tilfelle av Vegdirektoratet. Kjøretøyet skal klassifiseres i henhold til den utførelse det har sett i forhold til definisjonene i [kapittel 2](forskrift/1994-10-04-918/kap2). I tvilstilfelle fastsetter godkjenningsmyndigheten hvordan kjøretøyet skal klassifiseres.
+
+Med mindre annet er fastsatt, skal kjøretøy som etter tidligere bestemmelser er godkjent, klassifisert eller registrert som en type kjøretøy, fortsatt ha denne status. Dette gjelder også EØF-typegodkjente kjøretøy.
 
 3\. Kjøretøy skal normalt tilfredsstille de krav som gjelder for vedkommende kategori. Dog gjelder unntakene i direktiv [70/156/EØF](eu/31970l0156*), som senest endret ved direktiv [2004/3/EF](eu/32004l0003), vedlegg XI, som angir visse lempninger for ambulansebiler, campingbiler, likbiler og pansrede biler. Blant annet tillates disse, når de tilhører en annen kategori enn bilen som var utgangspunktet, på enkelte punkter i stedet å tilfredsstille kravene til denne basisbilen.
 
-4\. For godkjenningspliktig kjøretøy fastsetter godkjenningsmyndigheten største aksellast, boggilast og totalvekt som kjøretøy skal godkjennes med. Disse skal være i henhold til kravene i [kapittel 10](forskrift/1994-10-04-918/kap10), med følgende unntak:Kjøretøy som er slik innrettet at lasten, uansett dens størrelse, har samme angrepspunkt på kjøretøyet (eksempelvis fast plassert svingskive) skal godkjennes for mindre aksellast, boggilast og totalvekt enn det som er fastsatt i første ledd, når angrepspunktet har slik plassering at de største vekter ikke kan utnyttes.Største totalvekt, aksellast og boggilast beregnes ut fra de forskjellige lasters (personer og gods) angrepspunkt i forhold til akselsentrene og full utnyttelse av største totalvekt eller største aksel/boggilast bak eller foran.Følgende kjøretøy kan godkjennes for største aksellast, boggilast og totalvekt som er lavere enn angitt i første ledd, etter følgende retningslinjer:*Buss (M2 og M3).* Største aksellast, boggilast og totalvekt beregnes ut fra største lasts størrelse og plassering. Største last beregnes ut fra antallet sitteplasser og påbudte ståplasser.*Traktor.* Største aksellast, boggilast og totalvekt fastsettes ut fra dekkenes bæreevne eller ut fra de vekter og trykk som er benyttet under varmbremsprøven dersom de er mindre.*Motorredskap.* For motorredskap som ikke er innrettet for å bære gods under kjøring fastsettes største aksellast, boggilast og totalvekt ut fra egenvektens størrelse og fordeling på akslene og vekten og plasseringen av fører og passasjerer.For motorredskap som er innrettet for å bære gods under kjøring fastsettes største aksellast, boggilast og totalvekt ut fra dekkenes bæreevne.For motorsykkel som ombygges med sidevogn kan største tillatte totalvekt fastsettes som summen av motorsykkelens tillatte totalvekt slik den er garantert av motorsykkelprodusenten og tillatt totalvekt for sidevognen slik denne er garantert av sidevognprodusenten. For motorsykkel som ombygges til trike kan største tillatte totalvekt fastsettes som summen av motorsykkelens tillatte foraksellast slik den er garantert av motorsykkelfabrikanten og tillatt bakaksellast slik denne er garantert av fabrikant av trike-sett.Ved eventuell tilbakebygging til 2-hjuls motorsykkel skal motorsykkelens opprinnelige tillatte vekter, slik de var garantert av motorsykkelfabrikanten, benyttes.Eieren kan søke om endring av tillatt totalvekt for kjøretøy i gruppe M, N og O med største totalvekt under 7 500 kg.Tillatt totalvekt kan ikke være høyere enn største totalvekt oppgitt av fabrikant.Tillatt totalvekt kan ikke settes lavere enn det som er nødvendig med tanke på antall sitteplasser og krav til nyttelast for kjøretøykategorien det søkes godkjenning for. Antall sitteplasser kan endres som følge av vektendringen.Kjøretøykategorien til kjøretøyet endres i samsvar med endringen av tillatt totalvekt.
+4\. For godkjenningspliktig kjøretøy fastsetter godkjenningsmyndigheten største aksellast, boggilast og totalvekt som kjøretøy skal godkjennes med. Disse skal være i henhold til kravene i [kapittel 10](forskrift/1994-10-04-918/kap10), med følgende unntak:
+
+1. Kjøretøy som er slik innrettet at lasten, uansett dens størrelse, har samme angrepspunkt på kjøretøyet (eksempelvis fast plassert svingskive) skal godkjennes for mindre aksellast, boggilast og totalvekt enn det som er fastsatt i første ledd, når angrepspunktet har slik plassering at de største vekter ikke kan utnyttes.
+
+   Største totalvekt, aksellast og boggilast beregnes ut fra de forskjellige lasters (personer og gods) angrepspunkt i forhold til akselsentrene og full utnyttelse av største totalvekt eller største aksel/boggilast bak eller foran.
+2. Følgende kjøretøy kan godkjennes for største aksellast, boggilast og totalvekt som er lavere enn angitt i første ledd, etter følgende retningslinjer:
+
+   1. *Buss (M2 og M3).* Største aksellast, boggilast og totalvekt beregnes ut fra største lasts størrelse og plassering. Største last beregnes ut fra antallet sitteplasser og påbudte ståplasser.
+   2. *Traktor.* Største aksellast, boggilast og totalvekt fastsettes ut fra dekkenes bæreevne eller ut fra de vekter og trykk som er benyttet under varmbremsprøven dersom de er mindre.
+   3. *Motorredskap.* For motorredskap som ikke er innrettet for å bære gods under kjøring fastsettes største aksellast, boggilast og totalvekt ut fra egenvektens størrelse og fordeling på akslene og vekten og plasseringen av fører og passasjerer.
+
+      For motorredskap som er innrettet for å bære gods under kjøring fastsettes største aksellast, boggilast og totalvekt ut fra dekkenes bæreevne.
+3. For motorsykkel som ombygges med sidevogn kan største tillatte totalvekt fastsettes som summen av motorsykkelens tillatte totalvekt slik den er garantert av motorsykkelprodusenten og tillatt totalvekt for sidevognen slik denne er garantert av sidevognprodusenten. For motorsykkel som ombygges til trike kan største tillatte totalvekt fastsettes som summen av motorsykkelens tillatte foraksellast slik den er garantert av motorsykkelfabrikanten og tillatt bakaksellast slik denne er garantert av fabrikant av trike-sett.
+
+   Ved eventuell tilbakebygging til 2-hjuls motorsykkel skal motorsykkelens opprinnelige tillatte vekter, slik de var garantert av motorsykkelfabrikanten, benyttes.
+4. Eieren kan søke om endring av tillatt totalvekt for kjøretøy i gruppe M, N og O med største totalvekt under 7 500 kg.
+
+   - Tillatt totalvekt kan ikke være høyere enn største totalvekt oppgitt av fabrikant.
+   - Tillatt totalvekt kan ikke settes lavere enn det som er nødvendig med tanke på antall sitteplasser og krav til nyttelast for kjøretøykategorien det søkes godkjenning for. Antall sitteplasser kan endres som følge av vektendringen.
+   - Kjøretøykategorien til kjøretøyet endres i samsvar med endringen av tillatt totalvekt.
 
 5\. Kjøretøy skal ved registrering godkjennes for det antall personer kjøretøyet maksimalt har sitteplass for. For EF-typegodkjente kjøretøy kan alternativt kjøretøyet registreres for det antall personer som er angitt i samsvarssertifikat selv om dette er høyere. For bårerom i ambulansebil skal ikke sitteinnretninger foran båre medregnes i antall sitteplasser. Dette gjelder likevel ikke for én fremoverrettet sitteinnretning foran båre i ambulansebil med to bårer. Plass på båre i ambulansebil skal medregnes i det antall personer kjøretøyet registreres for. Buss (M2 og M3) skal dessuten godkjennes for det antall personer kjøretøyet har ståplass for. Kjøretøyet kan dog ikke godkjennes for større antall personer enn det kjøretøyet har nyttelast for. Vekten av hver person settes til 75 kg, unntatt for buss med 17 eller flere passasjerplasser foruten føreren, hvor vekten av hver person settes til 70 kg.
 
-6\. Ambulansebil skal etter 1. oktober 2006 være enkeltgodkjent i henhold til krav i [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 3 eller EF-typegodkjent som ambulanse i henhold til [kapittel 3](forskrift/1994-10-04-918/kap3).Ambulansebil skal i tillegg til å oppfylle de tekniske kravene for kjøretøygruppen også oppfylle de særskilte kravene til ambulansebil i [§ 8-7](forskrift/1994-10-04-918/§8-7). For EF-typegodkjent ambulansebil gjelder imidlertid ikke de særskilte kravene til ambulansebil i [§ 8-7](forskrift/1994-10-04-918/§8-7) nr. 4, 5 og 7.Det skal foreligge bekreftelse fra regionalt helseforetak eller den det gir myndighet om at ambulansebilen skal inngå i foretakets ambulansetjeneste.
+6\. Ambulansebil skal etter 1. oktober 2006 være enkeltgodkjent i henhold til krav i [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 3 eller EF-typegodkjent som ambulanse i henhold til [kapittel 3](forskrift/1994-10-04-918/kap3).
+
+Ambulansebil skal i tillegg til å oppfylle de tekniske kravene for kjøretøygruppen også oppfylle de særskilte kravene til ambulansebil i [§ 8-7](forskrift/1994-10-04-918/§8-7). For EF-typegodkjent ambulansebil gjelder imidlertid ikke de særskilte kravene til ambulansebil i [§ 8-7](forskrift/1994-10-04-918/§8-7) nr. 4, 5 og 7.
+
+Det skal foreligge bekreftelse fra regionalt helseforetak eller den det gir myndighet om at ambulansebilen skal inngå i foretakets ambulansetjeneste.
 
 > Endret ved [forskrifter 18 jan 2005 nr. 32](forskrift/2005-01-18-32), [10 nov 2005 nr. 1290](forskrift/2005-11-10-1290), [21 nov 2007 nr. 1275](forskrift/2007-11-21-1275) (i kraft 1 mai 2008), [28 april 2009 nr. 458](forskrift/2009-04-28-458), [20 okt 2010 nr. 1360](forskrift/2010-10-20-1360), [10 des 2010 nr. 1590](forskrift/2010-12-10-1590), [27 sep 2011 nr. 955](forskrift/2011-09-27-955), [3 jan 2012 nr. 5](forskrift/2012-01-03-5), [25 mai 2012 nr. 453](forskrift/2012-05-25-453), [9 aug 2012 nr. 799](forskrift/2012-08-09-799), [18 des 2015 nr. 1786](forskrift/2015-12-18-1786) (i kraft 1 jan 2016), [7 jan 2019 nr. 10](forskrift/2019-01-07-10) (i kraft 14 jan 2019).
 
@@ -852,9 +1254,36 @@ Ny to- og trehjulet motorvogn som er dokumentert EF-typegodkjent i samsvar med f
 
 ### § 6-4. Merking av godkjenningspliktig kjøretøy
 
-1\. Godkjenningspliktig kjøretøy skal være tydelig merket med merke, understellsnummer (fabrikasjonsnummer) og typebetegnelse.Understellsnummeret skal være angitt ved pregning i rammen eller i egnet del i bærende konstruksjon når kjøretøyet ikke har ramme. Det skal være plassert slik at det er godt synlig og utført slik at det vanskelig kan fjernes eller endres.Bil eller tilhenger/tilhengerredskap som tilfredsstiller kravene i direktiv [76/114/EØF](eu/31976l0114*), som endret ved direktiv [78/507/EØF](eu/31978l0507), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [2006/27/EF](eu/32006l0027*), og jord- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [89/173/EØF](eu/31989l0173) vedlegg V, eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054), ev. som erstattet ved [2009/144/EF](eu/32009l0144), anses å oppfylle bestemmelsene i første og annet ledd.Understellsnummer må ikke fjernes, endres eller flyttes uten samtykke fra godkjenningsmyndigheten.Er et kjøretøy tildelt og har innpreget understellsnummer, kan ikke dette kjøretøyet godkjennes med annet understellsnummer. Dette gjelder selv om endringen skjer før godkjenning i Norge. Dette gjelder ikke kjøretøy som anses oppbygd, jf. [§ 7-2](forskrift/1994-10-04-918/§7-2) pkt. 1.8 og pkt. 5.4.Bil og tilhenger til bil kan bare godkjennes med understellsnummer standardisert etter VIN-systemet (Vehicle Identification Number). Det er videre en forutsetning for godkjenning at fabrikanten etter [§ 10-2](forskrift/1994-10-04-918/§10-2) har sin WMI-kode (World Manufacturer Identifier) tildelt av ISO (International Organization for Standardization) i dette nummeret, jf. [§ 10-2](forskrift/1994-10-04-918/§10-2) annet ledd. Dette gjelder ikke kjøretøy som anses som oppbygd, jf. [§ 7-2](forskrift/1994-10-04-918/§7-2) pkt. 1.8 og pkt. 5.4.For to- og trehjulede motorvogner typegodkjent 1. oktober 1999 eller senere, eller registrert 17. juni 2003 eller senere, gjelder i tillegg bestemmelsene i [§ 6-5](forskrift/1994-10-04-918/§6-5), [§ 6-6](forskrift/1994-10-04-918/§6-6), [§ 6-7](forskrift/1994-10-04-918/§6-7) eller [§ 6-8](forskrift/1994-10-04-918/§6-8).
+1\. Godkjenningspliktig kjøretøy skal være tydelig merket med merke, understellsnummer (fabrikasjonsnummer) og typebetegnelse.
 
-2\. Kjøretøy i kategori M2, M3, N2, N3, O3 og O4 som har dimensjoner som ikke overskrider det som er angitt i direktiv [96/53/EF](eu/31996l0053), skal i tillegg være varig merket med de maksimale vekter som kjøretøyet kan brukes med i henhold til nevnte direktiv samt lengde, bredde og avstand til tilhengerkopling. Dersom disse opplysninger ikke finnes på fabrikasjonsplaten, skal de være angitt på et eget skilt som skal inneholde følgende:fabrikantens navnkjøretøyets understellsnummerstørste aktuelle totalvekt i forhold til direktiv [96/53/EF](eu/31996l0053)største aktuelle vogntogvekt for motorvognen i forhold til direktiv [96/53/EF](eu/31996l0053) – for treakslet trekkbil for semitrailer eventuelt den maksimale vogntogvekt for kombinert transport (44 tonn) i parentesstørste aktuelle aksellaster i forhold til direktiv [96/53/EF](eu/31996l0053), oppført i rekkefølge forfra og bakoverfor semitrailer føres last på svingskiven som aksel nr. 1lengde (L)bredde (W)avstand fra forkant bil til senter tilhengerfeste eller svingskive (a). Dersom det er flere posisjoner, angis minste og største verdier (amin og amax).avstand fra senter dragøye eller king-pin til bakkant tilhenger (b). Dersom det er flere posisjoner, angis minste og største verdier (bmin og bmax).Skiltet skal ha bokstav- og tallhøyde minst 4 mm og skal være anbragt i nærheten av fabrikasjonsplaten.Skilt i henhold til direktiv [76/114/EØF](eu/31976l0114*) som senest endret ved direktiv [78/507/EØF](eu/31978l0507), anses å oppfylle kravene i dette nr.
+Understellsnummeret skal være angitt ved pregning i rammen eller i egnet del i bærende konstruksjon når kjøretøyet ikke har ramme. Det skal være plassert slik at det er godt synlig og utført slik at det vanskelig kan fjernes eller endres.
+
+Bil eller tilhenger/tilhengerredskap som tilfredsstiller kravene i direktiv [76/114/EØF](eu/31976l0114*), som endret ved direktiv [78/507/EØF](eu/31978l0507), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [2006/27/EF](eu/32006l0027*), og jord- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [89/173/EØF](eu/31989l0173) vedlegg V, eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054), ev. som erstattet ved [2009/144/EF](eu/32009l0144), anses å oppfylle bestemmelsene i første og annet ledd.
+
+Understellsnummer må ikke fjernes, endres eller flyttes uten samtykke fra godkjenningsmyndigheten.
+
+Er et kjøretøy tildelt og har innpreget understellsnummer, kan ikke dette kjøretøyet godkjennes med annet understellsnummer. Dette gjelder selv om endringen skjer før godkjenning i Norge. Dette gjelder ikke kjøretøy som anses oppbygd, jf. [§ 7-2](forskrift/1994-10-04-918/§7-2) pkt. 1.8 og pkt. 5.4.
+
+Bil og tilhenger til bil kan bare godkjennes med understellsnummer standardisert etter VIN-systemet (Vehicle Identification Number). Det er videre en forutsetning for godkjenning at fabrikanten etter [§ 10-2](forskrift/1994-10-04-918/§10-2) har sin WMI-kode (World Manufacturer Identifier) tildelt av ISO (International Organization for Standardization) i dette nummeret, jf. [§ 10-2](forskrift/1994-10-04-918/§10-2) annet ledd. Dette gjelder ikke kjøretøy som anses som oppbygd, jf. [§ 7-2](forskrift/1994-10-04-918/§7-2) pkt. 1.8 og pkt. 5.4.
+
+For to- og trehjulede motorvogner typegodkjent 1. oktober 1999 eller senere, eller registrert 17. juni 2003 eller senere, gjelder i tillegg bestemmelsene i [§ 6-5](forskrift/1994-10-04-918/§6-5), [§ 6-6](forskrift/1994-10-04-918/§6-6), [§ 6-7](forskrift/1994-10-04-918/§6-7) eller [§ 6-8](forskrift/1994-10-04-918/§6-8).
+
+2\. Kjøretøy i kategori M2, M3, N2, N3, O3 og O4 som har dimensjoner som ikke overskrider det som er angitt i direktiv [96/53/EF](eu/31996l0053), skal i tillegg være varig merket med de maksimale vekter som kjøretøyet kan brukes med i henhold til nevnte direktiv samt lengde, bredde og avstand til tilhengerkopling. Dersom disse opplysninger ikke finnes på fabrikasjonsplaten, skal de være angitt på et eget skilt som skal inneholde følgende:
+
+- fabrikantens navn
+- kjøretøyets understellsnummer
+- største aktuelle totalvekt i forhold til direktiv [96/53/EF](eu/31996l0053)
+- største aktuelle vogntogvekt for motorvognen i forhold til direktiv [96/53/EF](eu/31996l0053) – for treakslet trekkbil for semitrailer eventuelt den maksimale vogntogvekt for kombinert transport (44 tonn) i parentes
+- største aktuelle aksellaster i forhold til direktiv [96/53/EF](eu/31996l0053), oppført i rekkefølge forfra og bakover
+- for semitrailer føres last på svingskiven som aksel nr. 1
+- lengde (L)
+- bredde (W)
+- avstand fra forkant bil til senter tilhengerfeste eller svingskive (a). Dersom det er flere posisjoner, angis minste og største verdier (amin og amax).
+- avstand fra senter dragøye eller king-pin til bakkant tilhenger (b). Dersom det er flere posisjoner, angis minste og største verdier (bmin og bmax).
+
+Skiltet skal ha bokstav- og tallhøyde minst 4 mm og skal være anbragt i nærheten av fabrikasjonsplaten.
+
+Skilt i henhold til direktiv [76/114/EØF](eu/31976l0114*) som senest endret ved direktiv [78/507/EØF](eu/31978l0507), anses å oppfylle kravene i dette nr.
 
 > Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224), [17 april 2007 nr. 419](forskrift/2007-04-17-419), [21 nov 2007 nr. 1275](forskrift/2007-11-21-1275) (i kraft 1 mai 2008), [31 mai 2010 nr. 734](forskrift/2010-05-31-734), [26 juli 2011 nr. 793](forskrift/2011-07-26-793), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019).
 
@@ -940,7 +1369,9 @@ Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endri
 
 1\. Kjøretøyets eier eller den som på eierens vegne har rådighet over det er ansvarlig for at kjøretøyet fremstilles for godkjenning.
 
-2\. Norsk produsent av deler eller utstyr er ansvarlig for at eventuell godkjenningsplikt for deler eller utstyr er oppfyllt. For del eller utstyr som ikke er produsert her i landet er importøren ansvarlig.Den som fører godkjenningspliktige deler eller utstyr i handel har plikt til å bringe på det rene om delen eller utstyret er godkjent. Det er forbudt å føre i handel til vedkommende formål deler eller utstyr som ikke er godkjent dersom godkjenning kreves etter denne forskrift, herunder om det kreves EØF-typegodkjenning.
+2\. Norsk produsent av deler eller utstyr er ansvarlig for at eventuell godkjenningsplikt for deler eller utstyr er oppfyllt. For del eller utstyr som ikke er produsert her i landet er importøren ansvarlig.
+
+Den som fører godkjenningspliktige deler eller utstyr i handel har plikt til å bringe på det rene om delen eller utstyret er godkjent. Det er forbudt å føre i handel til vedkommende formål deler eller utstyr som ikke er godkjent dersom godkjenning kreves etter denne forskrift, herunder om det kreves EØF-typegodkjenning.
 
 3\. For typegodkjent del eller utstyr er den som typegodkjenningen er utstedt til ansvarlig for at de enkelte eksemplarer ved levering er identisk med det godkjente eksemplar.
 
@@ -950,13 +1381,21 @@ Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endri
 
 ### § 6-11. Søknad om godkjenning
 
-1\. Ved typegodkjenning skal skriftlig søknad på fastsatt blankett sendes Vegdirektoratet. Søknaden skal være på norsk.Søknad for kjøretøy produsert i Norge skal underskrives av fabrikanten. Søknad for andre kjøretøy skal underskrives av importøren.
+1\. Ved typegodkjenning skal skriftlig søknad på fastsatt blankett sendes Vegdirektoratet. Søknaden skal være på norsk.
+
+Søknad for kjøretøy produsert i Norge skal underskrives av fabrikanten. Søknad for andre kjøretøy skal underskrives av importøren.
 
 2\. Ved enkeltgodkjenning skal kjøretøyet fremstilles på det sted og til den tid som Statens vegvesen bestemmer. Importert kjøretøy må være gått over til fri disponering etter [vareførselsloven](lov/2022-03-11-9) før det kan søkes om godkjenning.
 
-3\. Kjøretøy skal fremstilles med det utstyr og i slik stand at dets egenvekt kan bringes på det rene. Dersom det finnes nødvendig, kan godkjenningsmyndigheten forlange at kjøretøyet også fremstilles med last.Godkjenningsmyndigheten kan forlange at tilhenger fremstilles til godkjenning sammen med en bestemt motorvogn og tilhengerens godkjenning kan begrenses til trekking etter en bestemt motorvogn.
+3\. Kjøretøy skal fremstilles med det utstyr og i slik stand at dets egenvekt kan bringes på det rene. Dersom det finnes nødvendig, kan godkjenningsmyndigheten forlange at kjøretøyet også fremstilles med last.
 
-4\. Ved typegodkjenning skal det sammen med søknaden vedlegges følgende:Prinsippskisse av bremseanleggene med tilstrekkelig detaljert beskrivelse av virkemåten.Fotografier som viser kjøretøyet sett skrått forfra på den ene siden og skrått bakfra på den andre siden.Sammenstillingstegning som er påført alle hovedmål og dimensjons- og materialangivelse av bærende elementer. (Dette gjelder bare for tilhenger).
+Godkjenningsmyndigheten kan forlange at tilhenger fremstilles til godkjenning sammen med en bestemt motorvogn og tilhengerens godkjenning kan begrenses til trekking etter en bestemt motorvogn.
+
+4\. Ved typegodkjenning skal det sammen med søknaden vedlegges følgende:
+
+1. Prinsippskisse av bremseanleggene med tilstrekkelig detaljert beskrivelse av virkemåten.
+2. Fotografier som viser kjøretøyet sett skrått forfra på den ene siden og skrått bakfra på den andre siden.
+3. Sammenstillingstegning som er påført alle hovedmål og dimensjons- og materialangivelse av bærende elementer. (Dette gjelder bare for tilhenger).
 
 5\. I forbindelse med søknad om typegodkjenning kan ellers forlanges utlevert nødvendig antall deler og utstyr for prøving og nærmere underlag i form av tegninger, beregninger, garantier e.l. Det kan videre stilles krav om spesielle undersøkelser ved prøveanstalt. Bestemmelsen i dette nr. gjelder i tillegg til det som måtte være fastsatt ellers i denne forskrift.
 
@@ -978,13 +1417,20 @@ Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endri
 
 3\. Typegodkjenningen gjelder inntil det foretas endringer på kjøretøyene. Den som typegodkjenningen er utstedt til må skriftlig orientere Vegdirektoratet om endringer. Vegdirektoratet avgjør om det kreves ny typegodkjenning.
 
-4\. Det gis ikke nasjonal typegodkjenning for personbil (M1) med unntak av el-bil.Første ledd trer i kraft 29. april 2009.
+4\. Det gis ikke nasjonal typegodkjenning for personbil (M1) med unntak av el-bil.
+
+Første ledd trer i kraft 29. april 2009.
 
 > Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224) (tidligere § 6-10), [28 april 2009 nr. 458](forskrift/2009-04-28-458), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019) (tidligere § 6-11).
 
 ### § 6-13. Obligatorisk typegodkjenning
 
-1\. Følgende motorvogner skal være typegodkjent før de tas i bruk:personbil (M1) unntatt ambulansebil, jf. [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 7varebil (N1)to- og trehjulede motorvogner (motorsykler og mopeder)beltemotorsykkel.
+1\. Følgende motorvogner skal være typegodkjent før de tas i bruk:
+
+1. personbil (M1) unntatt ambulansebil, jf. [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 7
+2. varebil (N1)
+3. to- og trehjulede motorvogner (motorsykler og mopeder)
+4. beltemotorsykkel.
 
 2\. Det tillates at motorvogn som er importert av eieren til eget bruk (privatimportert) fremstilles for enkeltgodkjenning.
 
@@ -998,7 +1444,15 @@ Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endri
 
 ### § 6-14. Frivillig typegodkjenning
 
-Følgende kjøretøy kan typegodkjennes:traktorbuss med mindre enn 17 passasjerplasserlastebil med tillatt totalvekt ikke over 7.500 kgforutsatt at de fremstilles i serie på minst 25 stk. pr. år:tilhenger med konstruktiv hastighet ikke over 30 km/ttilhenger med konstruktiv hastighetover 30 km/t og tillatt totalvekt ikke over 3.500 kg.
+Følgende kjøretøy kan typegodkjennes:
+
+1. traktor
+2. buss med mindre enn 17 passasjerplasser
+3. lastebil med tillatt totalvekt ikke over 7.500 kg
+4. forutsatt at de fremstilles i serie på minst 25 stk. pr. år:
+
+   - tilhenger med konstruktiv hastighet ikke over 30 km/t
+   - tilhenger med konstruktiv hastighetover 30 km/t og tillatt totalvekt ikke over 3.500 kg.
 
 > Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224) (tidligere § 6-12), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019) (tidligere § 6-13).
 
@@ -1016,7 +1470,11 @@ Følgende kjøretøy kan typegodkjennes:traktorbuss med mindre enn 17 passasjerp
 
 2\. Fabrikant/importør eller forhandler som ikke oppfyller de plikter som han har påtatt seg kan nektes adgang til å benytte seg av typegodkjenningsordningen. Det samme gjelder dersom en forhandler utleverer kjøretøy med understellsnummer og kjennemerke som ikke stemmer overens med vognkortet.
 
-3\. Vegdirektoratet kan nekte fabrikant/importør eller forhandler adgangen til å få sine kjøretøy registrert for en viss periode dersom det oppdages atkjøretøy ikke er i overensstemmelse med typegodkjenningenkonstruksjon, innretning eller utstyr avviker fra det som ble dokumentert, bevitnet eller garantert ved typegodkjenningenmange kjøretøy i samme modellserie er beheftet med feil eller mangler.
+3\. Vegdirektoratet kan nekte fabrikant/importør eller forhandler adgangen til å få sine kjøretøy registrert for en viss periode dersom det oppdages at
+
+1. kjøretøy ikke er i overensstemmelse med typegodkjenningen
+2. konstruksjon, innretning eller utstyr avviker fra det som ble dokumentert, bevitnet eller garantert ved typegodkjenningen
+3. mange kjøretøy i samme modellserie er beheftet med feil eller mangler.
 
 4\. Statens vegvesen kan pålegge forhandler å fremstille alle kjøretøy for enkeltgodkjenning i en nærmere bestemt periode dersom det oppdages at kjøretøy ikke er i overensstemmelse med typegodkjenningen.
 
@@ -1030,7 +1488,9 @@ Følgende kjøretøy kan typegodkjennes:traktorbuss med mindre enn 17 passasjerp
 
 2\. Statens vegvesen og politiet eller andre som Samferdselsdepartementet bemyndiger kan når som helst uten varsel kontrollere kjøretøy på vilkårlig sted (utekontroll), uansett om kjøretøyet er godkjennings- eller registreringspliktig eller ikke.
 
-3\. Statens vegvesen eller den det bemyndiger kan på vilkårlig tidspunkt foreta kontroll av godkjenningspliktige deler og utstyr.Den som produserer eller fører i handel godkjenningspliktige deler eller utstyr, har plikt til å låne ut nødvendige eksemplarer til kontroll når dette kreves.
+3\. Statens vegvesen eller den det bemyndiger kan på vilkårlig tidspunkt foreta kontroll av godkjenningspliktige deler og utstyr.
+
+Den som produserer eller fører i handel godkjenningspliktige deler eller utstyr, har plikt til å låne ut nødvendige eksemplarer til kontroll når dette kreves.
 
 > Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224) (tidligere § 6-15), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019) (tidligere § 6-16), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -1062,7 +1522,10 @@ Dette kapittel kommer til anvendelse når andre bestemmelser ikke er fastsatt, j
 
 1.5
 
-*Hovedkomponenter på motorsykkel:* Motorsykkel består av to hovedkomponenter:rammemotor.
+*Hovedkomponenter på motorsykkel:* Motorsykkel består av to hovedkomponenter:
+
+- ramme
+- motor.
 
 1.6
 
@@ -1478,7 +1941,13 @@ Materiale, isolering
 
 Bussens motorrom skal være isolert fra karosseriet med brannsikkert materiale. Eventuelt varme- og lydisoleringsmateriale skal være beskyttet mot absorbering av drivstoff og olje. Bussen skal være slik konstruert at risikoen for brann på grunn av kortslutning i strømkabler, overopphetning i elektriske aggregater, bremsesystemet, dekk, avgassystem, tilleggsvarmeaggregat, eksplosjon i batterier og drivstofflekkasje blir så liten som mulig innenfor praktiske grenser.
 
-Følgende bygge- og isoleringsmateriale skal ha en forbrennings-hastighet som ikke overstiger 100 mm/min., testet etter ISO standard 3795 eller annen tilsvarende standard:Setetrekk og stoppingsmaterialeGardinerBekledningsmaterialeMatter og gulvmaterialeVarme- og lydisolering.
+Følgende bygge- og isoleringsmateriale skal ha en forbrennings-hastighet som ikke overstiger 100 mm/min., testet etter ISO standard 3795 eller annen tilsvarende standard:
+
+- Setetrekk og stoppingsmateriale
+- Gardiner
+- Bekledningsmateriale
+- Matter og gulvmateriale
+- Varme- og lydisolering.
 
 Buss klasse 3 med mer enn 22 sitteplasser som oppfyller kravene i direktiv [95/28/EF](eu/31995l0028) anses å oppfylle bestemmelsene i nr. 4.4.
 
@@ -1487,15 +1956,39 @@ Buss klasse 3 med mer enn 22 sitteplasser som oppfyller kravene i direktiv [95/2
 Passasjerantall
 
 Det totale passasjerantallet + fører (N) skal ikke overstige noen av tallene N1 eller N2 beregnet etter formler i tabell 1.
-*Tabell 1*N2 = A + (S1 / Ssp )N1 = (PT – PV) / QN1 : Passasjertallet beregnet på bakgrunn av belastning.N2 : Passasjertallet beregnet på bakgrunn av arealutnyttelse.PT: Tillatt totalvekt (kg).PV: Egenvekt.Q: Vekt av hver passasjer (kg) = 70 kgA: Antall passasjerer.S1 : Totalt areal for stående passasjerer (m2 ).Ssp : Minsteareal beregnet for hver stående passasjer (0,20 m2 ).N1, eventuelt N2 angir høyeste tillatte passasjerantall. Det er anledning til å fastsette et lavere antall stående passasjerer.
+*Tabell 1*
+
+- N2 = A + (S1 / Ssp )
+- N1 = (PT – PV) / Q
+- N1 : Passasjertallet beregnet på bakgrunn av belastning.
+- N2 : Passasjertallet beregnet på bakgrunn av arealutnyttelse.
+- PT: Tillatt totalvekt (kg).
+- PV: Egenvekt.
+- Q: Vekt av hver passasjer (kg) = 70 kg
+- A: Antall passasjerer.
+- S1 : Totalt areal for stående passasjerer (m2 ).
+- Ssp : Minsteareal beregnet for hver stående passasjer (0,20 m2 ).
+- N1, eventuelt N2 angir høyeste tillatte passasjerantall. Det er anledning til å fastsette et lavere antall stående passasjerer.
 
 6\.
 
 Passasjerplass
 
-Følgende plasser skal ikke regnes som sitte- eller ståplasser:Arealet som medgår til førerens plattform.Arealet av trappetrinn.Arealer hvor den vertikale klaringen over høyeste del av seteputen er mindre enn 900 mm og/eller arealer hvor den vertikale klaringen over plassen for den sittende passasjerens føtter er mindre enn 1.350 mm. Se fig. 3.Arealet av alle deler av leddseksjonen i en leddbuss som er avdelt fra det øvrige passasjerrommet med rekkverk og/eller deleveggger.
+Følgende plasser skal ikke regnes som sitte- eller ståplasser:
 
-Som plass for stående passasjerer skal ikke regnes:Arealer som dekkes av horisontalprosjeksjonen av et sete og gulvarealet 300 mm foran hvert sete.Arealet av alle plasser hvor takhøyden er mindre enn 1.900 mm, dog 1.800 mm foran bakakselen og bakover, jf. nr. 15 tredje ledd.Arealer som ikke er tilgjengelige når setene er opptatt.Arealer som er spesielt avsatt til gods.Arealer hvor gulvet heller mer enn 8%.Arealet foran bakkant av førerstol i bakerste stilling og i et vertikalplan over til bakerste punkt i dørparti i bussenes lengderetning (f.eks. til beskyttelsesvegg bak dør). Se fig. 4.
+1. Arealet som medgår til førerens plattform.
+2. Arealet av trappetrinn.
+3. Arealer hvor den vertikale klaringen over høyeste del av seteputen er mindre enn 900 mm og/eller arealer hvor den vertikale klaringen over plassen for den sittende passasjerens føtter er mindre enn 1.350 mm. Se fig. 3.
+4. Arealet av alle deler av leddseksjonen i en leddbuss som er avdelt fra det øvrige passasjerrommet med rekkverk og/eller deleveggger.
+
+Som plass for stående passasjerer skal ikke regnes:
+
+1. Arealer som dekkes av horisontalprosjeksjonen av et sete og gulvarealet 300 mm foran hvert sete.
+2. Arealet av alle plasser hvor takhøyden er mindre enn 1.900 mm, dog 1.800 mm foran bakakselen og bakover, jf. nr. 15 tredje ledd.
+3. Arealer som ikke er tilgjengelige når setene er opptatt.
+4. Arealer som er spesielt avsatt til gods.
+5. Arealer hvor gulvet heller mer enn 8%.
+6. Arealet foran bakkant av førerstol i bakerste stilling og i et vertikalplan over til bakerste punkt i dørparti i bussenes lengderetning (f.eks. til beskyttelsesvegg bak dør). Se fig. 4.
 
 Arealet som nevnt i bokstav f skal i midtgangen være avgrenset med et minst 100 mm bredt kontrastfarget felt i gulvet mellom nevnte punkter. Se fig. 4.
 
@@ -1563,7 +2056,14 @@ I buss klasse 3 skal sitteplasser for passasjerer som har seterygg med avstand m
 
 Bilbelter i buss skal være festet i festepunkter som tilfredsstiller styrkekravene i ECE-reg.nr. 14.
 
-Dersom dette ikke kan dokumenteres, kan beltefestene godkjennes hvis de kan tåle en prøvekraft slik:Trepunktsbelte5 kn på øvre festepunkt, 10 kn på fellesfestet, og 5 kn på nedre festepunkt.HoftebelteFor hoftebeltet skal prøvekraften være 10 kn for hvert festepunkt.
+Dersom dette ikke kan dokumenteres, kan beltefestene godkjennes hvis de kan tåle en prøvekraft slik:
+
+- Trepunktsbelte
+
+  5 kn på øvre festepunkt, 10 kn på fellesfestet, og 5 kn på nedre festepunkt.
+- Hoftebelte
+
+  For hoftebeltet skal prøvekraften være 10 kn for hvert festepunkt.
 
 8\.
 
@@ -1729,7 +2229,11 @@ Trappetrinns overflate skal være utført og/eller være utstyrt med sklihemmend
 
 Midtgang (se fig. 15)
 
-Midtgangen i bussen skal være så bred at man fritt kan føre vertikalt igjennom en måleinnretning 1.900 mm høy som består av tre koaksiale deler:en nedre sylinder 350 mm i diameter og 900 mm høyen øvre sylinder 500 mm i diameter og 500 mm høyet konisk midtparti 500 mm høyt
+Midtgangen i bussen skal være så bred at man fritt kan føre vertikalt igjennom en måleinnretning 1.900 mm høy som består av tre koaksiale deler:
+
+- en nedre sylinder 350 mm i diameter og 900 mm høy
+- en øvre sylinder 500 mm i diameter og 500 mm høy
+- et konisk midtparti 500 mm høyt
 
 I toetasjes busser skal minste innvendige takhøyde i 1. etasje være 1.750 mm og i 2. etasje 1.600 mm. Tilsvarende reduksjon foretas på måleinnretningens øvre sylinderhøyde.
 
@@ -1835,7 +2339,22 @@ Buss av kl. 1 og 2 skal ha signallampe for avstigning som betjenes av passasjere
 
 Skilter og oppslag mv.
 
-Skilter eller oppslag med følgende tekst og/eller symboler skal i tilstrekkelig antall forefinnes i de type busser hvor det er aktuelt:Største antall sitteplasser........stk.Største antall ståplasser..........stk.Største antall sitteplasser ved skolebarnkjøring.............. stk.«Røyking forbudt» i avdeling for ikke-røkere«Røyking tillatt» i avdeling for røkere«Forstyrr ikke føreren»«Reservert handikappede»«Brannslukker» ved plasseringsstedet«Brannslukkerskilt» med henvisningspil, plassert i passasjerrommets bakerste del«Førstehjelpsskrin» ved plasseringsstedet«Førstehjelpsskrinskilt» med henvisningspil, plassert med tanke på plasseringsstedet«Nødutgang» ved nødutgangsdør, -vindu og -takluke«Plass for barnevogn» ved oppstillingsplass for barnevogn«Gå ikke over veien før bussen har kjørt».
+Skilter eller oppslag med følgende tekst og/eller symboler skal i tilstrekkelig antall forefinnes i de type busser hvor det er aktuelt:
+
+- Største antall sitteplasser........stk.
+- Største antall ståplasser..........stk.
+- Største antall sitteplasser ved skolebarnkjøring.............. stk.
+- «Røyking forbudt» i avdeling for ikke-røkere
+- «Røyking tillatt» i avdeling for røkere
+- «Forstyrr ikke føreren»
+- «Reservert handikappede»
+- «Brannslukker» ved plasseringsstedet
+- «Brannslukkerskilt» med henvisningspil, plassert i passasjerrommets bakerste del
+- «Førstehjelpsskrin» ved plasseringsstedet
+- «Førstehjelpsskrinskilt» med henvisningspil, plassert med tanke på plasseringsstedet
+- «Nødutgang» ved nødutgangsdør, -vindu og -takluke
+- «Plass for barnevogn» ved oppstillingsplass for barnevogn
+- «Gå ikke over veien før bussen har kjørt».
 
 Innvendig i bussen skal det i nær tilknytning til nødåpningsanordning for inn- og utgangsdør samt ved tilsvarende plasser på nødutgangsdør, nødutgangsvindu, nødtutgangsluke og betjeningsanordning for utløseren av guidestol finnes symbol, symbol/tekst eller kun tekst gjeldende nødåpningsmetode.
 
@@ -1895,7 +2414,16 @@ Låsepinner for bilpanser tillates brukt når de er tilfredsstillende beskyttet 
 
 2.4.
 
-Piggdekk tillates brukt med følgende begrensninger:Pigglengde maksimalt 20 mm.Piggvekt maksimalt 4 gram.Pigg med sylindrisk kjerne, vinkelrett kuttet, ikke rør, med minste diameter 2,5 mm.Piggflensens diameter maksimalt 9 mm. Piggkroppen skal være homogen (symmetrisk).Antall pigger maksimalt 20 pr. lengdedesimeter.Piggmetode: Innskutt utenfra.Kan benyttes kun under konkurranse på vinterføre.Andre begrensede mål i henhold til skisse som er tatt inn i reglement gitt av Norges Bilsportforbund i Bilsportboken 1996.
+Piggdekk tillates brukt med følgende begrensninger:
+
+1. Pigglengde maksimalt 20 mm.
+2. Piggvekt maksimalt 4 gram.
+3. Pigg med sylindrisk kjerne, vinkelrett kuttet, ikke rør, med minste diameter 2,5 mm.
+4. Piggflensens diameter maksimalt 9 mm. Piggkroppen skal være homogen (symmetrisk).
+5. Antall pigger maksimalt 20 pr. lengdedesimeter.
+6. Piggmetode: Innskutt utenfra.
+7. Kan benyttes kun under konkurranse på vinterføre.
+8. Andre begrensede mål i henhold til skisse som er tatt inn i reglement gitt av Norges Bilsportforbund i Bilsportboken 1996.
 
 2.5.
 
@@ -1970,7 +2498,11 @@ Kravene i dette nummeret anses oppfylt hvis kravene i NS-EN-1789, pkt. 4.5.9 og 
 
 4.1
 
-Det skal være montert beskyttelsesvegg mellom fører- og bårerom. Denne skal tilfredsstille følgende krav:Veggen skal dekke hele rommets bredde og høyde.Hvis veggen er utstyrt med dør som kan bli stående i åpen stilling, skal denne lukkes automatisk, uten å kunne gli opp, når kjøretøyet er i bevegelse.Veggen skal være utstyrt med ett eller to vinduer, plassert minst 100 mm fra hverandre. Hvert vindu skal ha et areal på maksimalt 0,12 m2 . Vindu skal være utført i materiale som tilfredsstiller kravene i direktiv [92/22/EØF](eu/31992l0022) eller amerikansk standard AS4 eller AS5. Ett av vinduene skal kunne åpnes fra begge sider. Vindu skal være utstyrt med justerbar avskjerming, som hindrer at lys fra bårerom kan sjenere fører.
+Det skal være montert beskyttelsesvegg mellom fører- og bårerom. Denne skal tilfredsstille følgende krav:
+
+- Veggen skal dekke hele rommets bredde og høyde.
+- Hvis veggen er utstyrt med dør som kan bli stående i åpen stilling, skal denne lukkes automatisk, uten å kunne gli opp, når kjøretøyet er i bevegelse.
+- Veggen skal være utstyrt med ett eller to vinduer, plassert minst 100 mm fra hverandre. Hvert vindu skal ha et areal på maksimalt 0,12 m2 . Vindu skal være utført i materiale som tilfredsstiller kravene i direktiv [92/22/EØF](eu/31992l0022) eller amerikansk standard AS4 eller AS5. Ett av vinduene skal kunne åpnes fra begge sider. Vindu skal være utstyrt med justerbar avskjerming, som hindrer at lys fra bårerom kan sjenere fører.
 
 Beskyttelsesvegg som er i henhold til NS-EN-1789 punkt 4.4.4 anses å oppfylle kravene i dette nummeret.
 
@@ -2000,7 +2532,10 @@ Foran skal det være merket «AMBULANSE». Begge sider og bak skal være merket 
 
 6.3
 
-Annen tillatt merking:Identifikasjonsmerking relatert til tjenesten som ambulansebil. Bokstaver og tall skal ha en høyde på maksimalt 80 mm og symboler en størrelse på maksimalt 350 mm langs ytterkant og diameter maksimalt 350 mm. Hvis refleksmateriale benyttes skal dette ha reflekterende egenskaper tilsvarende klasse 1.Markeringsstripe foran, på begge sider og/eller bak i høyde under vinduene. Stripen skal være i grønt og hvitt rutemønster og med maksimal bredde 100 mm. Hvis refleksmateriale benyttes skal dette ha reflekterende egenskaper tilsvarende klasse 1.
+Annen tillatt merking:
+
+- Identifikasjonsmerking relatert til tjenesten som ambulansebil. Bokstaver og tall skal ha en høyde på maksimalt 80 mm og symboler en størrelse på maksimalt 350 mm langs ytterkant og diameter maksimalt 350 mm. Hvis refleksmateriale benyttes skal dette ha reflekterende egenskaper tilsvarende klasse 1.
+- Markeringsstripe foran, på begge sider og/eller bak i høyde under vinduene. Stripen skal være i grønt og hvitt rutemønster og med maksimal bredde 100 mm. Hvis refleksmateriale benyttes skal dette ha reflekterende egenskaper tilsvarende klasse 1.
 
 For merking på horisontal takflate gjelder ikke begrensningene i størrelse og refleksjon.
 
@@ -2024,7 +2559,9 @@ For Forsvarets og Sivilforsvarets ambulansebiler som ikke brukes i den sivile be
 
 ### § 9-1. Generelt om konstruksjon og utstyr
 
-1\. Kjøretøy skal være bygd, innrettet og utstyrt slik at de tåler de påkjenninger som de vanligvis utsettes for og kan nyttes uten å volde unødig fare eller ulempe og slik at fare for brann mest mulig unngås.Denne bestemmelse gjelder ikke for motorredskap som føres av gående person.
+1\. Kjøretøy skal være bygd, innrettet og utstyrt slik at de tåler de påkjenninger som de vanligvis utsettes for og kan nyttes uten å volde unødig fare eller ulempe og slik at fare for brann mest mulig unngås.
+
+Denne bestemmelse gjelder ikke for motorredskap som føres av gående person.
 
 2\. Tilhenger gruppe O skal ha en konstruktiv hastighet på over 25 km/t.
 
@@ -2036,11 +2573,29 @@ For Forsvarets og Sivilforsvarets ambulansebiler som ikke brukes i den sivile be
 
 1\. Kjøretøy skal være konstruert og overfor godkjenningsmyndigheten garantert av fabrikanten for største aksellast, boggilast og totalvekt, og for største totalvekt av eventuell tilhenger/tilhengerredskap til kjøretøyet. Dette er ikke til hinder for at samme basiskjøretøy kan ha ulik totalvekt når det er klassifisert i de ulike kjøretøygruppene M og N.
 
-2\. For bil og tilhenger til bil som er produsert i flere trinn, kreves i tillegg til garanti etter nr. 1 at fabrikanten har de dokumenter og den informasjon om kjøretøyet og dets deler fra tidligere trinn i produksjonen som er nødvendig for å fastsette de vekter og laster som nevnt i nr. 1, eller har systemer som sikrer utlevering og utveksling av slike dokumenter og slik informasjon.For bil og tilhenger til bil som er oppbygd, jf. [kapittel 7](forskrift/1994-10-04-918/kap7), kreves i tillegg til garanti etter nr. 1 at fabrikanten har de dokumenter og den informasjon om kjøretøyet og dets deler fra produsentene av komponentene som er nødvendig for å fastsette de vekter og laster som nevnt i nr. 1.Fabrikantens garanti for største totalvekt kan være angitt på fabrikasjonsskilt, klebelapp eller lignende. Slik vektangivelse skal være solid festet på et iøynefallende og lett tilgjengelig sted på en del som vanligvis ikke vil bli erstattet ved bruk og skal være lett leselig og ikke kunne slettes.Vektangivelse fra fabrikanten på fabrikasjonsskilt i henhold til direktiv [76/114/EØF](eu/31976l0114*), eventuelt som endret ved direktiv [78/507/EØF](eu/31978l0507) og direktiv [87/354/EØF](eu/31987l0354), godtas som vektgaranti. Vektgaranti fastsatt i henhold til direktiv [92/21/EØF](eu/31992l0021*), eventuelt som endret ved direktiv [95/48/EF](eu/31995l0048*), når det gjelder biler i gruppe M1 og etter direktiv [97/27/EF](eu/31997l0027) når det gjelder biler i andre grupper enn M1, godtas som vektgaranti.Erklæring fra andre enn fabrikanten om at en bil eller tilhenger til bil på de punkter som har betydning for vektangivelsen er lik en annen som det foreligger vektgaranti for, godtas ikke som vektgaranti.
+2\. For bil og tilhenger til bil som er produsert i flere trinn, kreves i tillegg til garanti etter nr. 1 at fabrikanten har de dokumenter og den informasjon om kjøretøyet og dets deler fra tidligere trinn i produksjonen som er nødvendig for å fastsette de vekter og laster som nevnt i nr. 1, eller har systemer som sikrer utlevering og utveksling av slike dokumenter og slik informasjon.
 
-3\. For motorvogn med tillatt totalvekt til og med 3.500 kg, kan ikke tillatt tilhengervekt for tilhenger med brems settes høyere enn motorvognens tillatte totalvekt. Dog kan terrenggående kjøretøyer som tilsvarer definisjonen i direktiv [70/156/EØF](eu/31970l0156*), som endret ved direktiv [87/403/EØF](eu/31987l0403), ha tillatt tilhengervekt inntil 1,5 ganger motorvognens tillatte totalvekt. Tillatt tilhengervekt får ikke under noen omstendighet overstige 3.500 kg.Tillatt tilhengervekt for tilhenger uten brems kan ikke settes høyere enn halvparten av motorvognens egenvekt og får ikke overstige 750 kg.De tillatte tilhengervekter skal være fastsatt slik at motorvognen med tilhenger skal kunne igangsettes 5 ganger i løpet av 5 minutter i en stigning på 12% med vogntog lastet til dets tillatte totalvekt.Uansett bestemmelsene i første og tredje ledd kan godkjenningsmyndigheten fastsette tilhengervekt lik motorvognens egenvekt, dog ikke høyere enn fabrikantens garanterte tilhengervekt etter nr. 1.For to- og trehjulede motorvogner kan ikke tillatt tilhengervekt settes høyere enn halvparten av motorvognens egenvekt.
+For bil og tilhenger til bil som er oppbygd, jf. [kapittel 7](forskrift/1994-10-04-918/kap7), kreves i tillegg til garanti etter nr. 1 at fabrikanten har de dokumenter og den informasjon om kjøretøyet og dets deler fra produsentene av komponentene som er nødvendig for å fastsette de vekter og laster som nevnt i nr. 1.
 
-4\. Kjøretøy skal være slik konstruert at egenvekt og største totalvekt er mest mulig jevnt fordelt på hjul som står på samme aksel og er hensiktsmessig fordelt mellom akslene. Minst 20% av nevnte vekter må hvile på de styrende hjul.Traktorer som oppfyller kravene i direktiv [74/151/EØF](eu/31974l0151*), eventuelt endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054), direktiv [98/38/EF](eu/31998l0038) eller direktiv [2006/26/EF](eu/32006l0026), eller direktiv [2009/63/EF](eu/32009l0063), anses å oppfylle bestemmelsene i første ledd. Tilsvarende gjelder for biler kategori M1 som oppfyller bestemmelsene i direktiv [92/21/EØF](eu/31992l0021*), eventuelt som endret ved direktiv [95/48/EF](eu/31995l0048*), for biler/tilhengere unntatt kategori M1 som oppfyller bestemmelsene i direktiv [97/27/EF](eu/31997l0027), og for to- og trehjulede motorvogner som oppfyller bestemmelsene i direktiv [93/93/EØF](eu/31993l0093*), eventuelt som endret ved direktiv [2004/86/EF](eu/32004l0086).
+Fabrikantens garanti for største totalvekt kan være angitt på fabrikasjonsskilt, klebelapp eller lignende. Slik vektangivelse skal være solid festet på et iøynefallende og lett tilgjengelig sted på en del som vanligvis ikke vil bli erstattet ved bruk og skal være lett leselig og ikke kunne slettes.
+
+Vektangivelse fra fabrikanten på fabrikasjonsskilt i henhold til direktiv [76/114/EØF](eu/31976l0114*), eventuelt som endret ved direktiv [78/507/EØF](eu/31978l0507) og direktiv [87/354/EØF](eu/31987l0354), godtas som vektgaranti. Vektgaranti fastsatt i henhold til direktiv [92/21/EØF](eu/31992l0021*), eventuelt som endret ved direktiv [95/48/EF](eu/31995l0048*), når det gjelder biler i gruppe M1 og etter direktiv [97/27/EF](eu/31997l0027) når det gjelder biler i andre grupper enn M1, godtas som vektgaranti.
+
+Erklæring fra andre enn fabrikanten om at en bil eller tilhenger til bil på de punkter som har betydning for vektangivelsen er lik en annen som det foreligger vektgaranti for, godtas ikke som vektgaranti.
+
+3\. For motorvogn med tillatt totalvekt til og med 3.500 kg, kan ikke tillatt tilhengervekt for tilhenger med brems settes høyere enn motorvognens tillatte totalvekt. Dog kan terrenggående kjøretøyer som tilsvarer definisjonen i direktiv [70/156/EØF](eu/31970l0156*), som endret ved direktiv [87/403/EØF](eu/31987l0403), ha tillatt tilhengervekt inntil 1,5 ganger motorvognens tillatte totalvekt. Tillatt tilhengervekt får ikke under noen omstendighet overstige 3.500 kg.
+
+Tillatt tilhengervekt for tilhenger uten brems kan ikke settes høyere enn halvparten av motorvognens egenvekt og får ikke overstige 750 kg.
+
+De tillatte tilhengervekter skal være fastsatt slik at motorvognen med tilhenger skal kunne igangsettes 5 ganger i løpet av 5 minutter i en stigning på 12% med vogntog lastet til dets tillatte totalvekt.
+
+Uansett bestemmelsene i første og tredje ledd kan godkjenningsmyndigheten fastsette tilhengervekt lik motorvognens egenvekt, dog ikke høyere enn fabrikantens garanterte tilhengervekt etter nr. 1.
+
+For to- og trehjulede motorvogner kan ikke tillatt tilhengervekt settes høyere enn halvparten av motorvognens egenvekt.
+
+4\. Kjøretøy skal være slik konstruert at egenvekt og største totalvekt er mest mulig jevnt fordelt på hjul som står på samme aksel og er hensiktsmessig fordelt mellom akslene. Minst 20% av nevnte vekter må hvile på de styrende hjul.
+
+Traktorer som oppfyller kravene i direktiv [74/151/EØF](eu/31974l0151*), eventuelt endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054), direktiv [98/38/EF](eu/31998l0038) eller direktiv [2006/26/EF](eu/32006l0026), eller direktiv [2009/63/EF](eu/32009l0063), anses å oppfylle bestemmelsene i første ledd. Tilsvarende gjelder for biler kategori M1 som oppfyller bestemmelsene i direktiv [92/21/EØF](eu/31992l0021*), eventuelt som endret ved direktiv [95/48/EF](eu/31995l0048*), for biler/tilhengere unntatt kategori M1 som oppfyller bestemmelsene i direktiv [97/27/EF](eu/31997l0027), og for to- og trehjulede motorvogner som oppfyller bestemmelsene i direktiv [93/93/EØF](eu/31993l0093*), eventuelt som endret ved direktiv [2004/86/EF](eu/32004l0086).
 
 5\. Kjøretøyets dimensjoner i samsvar med direktiv [92/21/EØF](eu/31992l0021*), eventuelt som endret ved direktiv [95/48/EF](eu/31995l0048*), for biler kategori M1, i samsvar med direktiv [97/27/EF](eu/31997l0027), eventuelt som endret ved direktiv [2003/19/EF](eu/32003l0019), for andre biler/tilhengere enn kategori M1 og i samsvar med direktiv [93/93/EØF](eu/31993l0093*), eventuelt som endret ved direktiv [2004/86/EF](eu/32004l0086), for to- og trehjulede motorvogner, skal godtas.
 
@@ -2137,7 +2692,10 @@ En forutsetning for montering av uoriginale deler/utstyr som nevnt er at angjeld
 
 3.3
 
-Ved montering av nivåregulerende støtdempere forutsettes det dessuten at disse på lett måte skal kunne senkes til normalt nivå etter kjøring med tilhenger eller stor bagasjeromsbelastning. Monteringsanvisningen for nivåregulerende støtdempere skal bl.a. anvise en sikker måte å montere luftslangene på. Ved siden av betjeningsinnretningen/påfyllingsventilen for slike støtdempere skal det festes et skilt (etikett) med følgende påskrifter på norsk, dansk eller svensk:Bilen må senkes til normalt nivå etter kjøring med tilhenger eller stor bagasjeromsbelastning.Bilens tillatte totalvekt eller tillatte aksellast/boggilast må ikke overskrides.
+Ved montering av nivåregulerende støtdempere forutsettes det dessuten at disse på lett måte skal kunne senkes til normalt nivå etter kjøring med tilhenger eller stor bagasjeromsbelastning. Monteringsanvisningen for nivåregulerende støtdempere skal bl.a. anvise en sikker måte å montere luftslangene på. Ved siden av betjeningsinnretningen/påfyllingsventilen for slike støtdempere skal det festes et skilt (etikett) med følgende påskrifter på norsk, dansk eller svensk:
+
+- Bilen må senkes til normalt nivå etter kjøring med tilhenger eller stor bagasjeromsbelastning.
+- Bilens tillatte totalvekt eller tillatte aksellast/boggilast må ikke overskrides.
 
 3.4
 
@@ -2165,9 +2723,13 @@ Liste, monteringsanvisning og dokumentasjon, eventuelt instruksjonsbok eller til
 
 ### § 12-5. Aksler, fjærer, belter og støtdempere på tilhenger og tilhengerredskap
 
-1\. Tilhenger og tilhengerredskaps aksler, fjærer og hjul med dekk må ha tilstrekkelig styrke i forhold til største totalvekt.Under forutsetning av at kjøretøyfabrikanten garanterer for største aksel-/boggilast og største vertikale belastning på tilhengerkoplingen, er det nok at styrken er tilstrekkelig i forhold til den største totalvekt som fremkommer ved summering av største aksel-/boggilast og største vertikale belastning på tilhengerkoplingen. For tilhenger/tilhengerredskap beregnet for personbil eller varebil skal det i så fall ikke regnes med større vertikal belastning på tilhengerkoplingen enn 75 kg, selv om tilhengeren/tilhenger- redskapen er godkjent med større tillatt koplingslast.
+1\. Tilhenger og tilhengerredskaps aksler, fjærer og hjul med dekk må ha tilstrekkelig styrke i forhold til største totalvekt.
 
-2\. Tilhenger med konstruktiv hastighet over 40 km/t skal være avfjæret. Slik tilhenger skal også ha tilfredsstillende anordning for demping av fjæringsbevegelsene når tilhengerens største totalvekt er over 500 kg, men ikke over 2.000 kg.Kravet om fjæring gjelder ikke tilhenger til bil når tilhengeren er beregnet til transport av spesielt gods, når det er nødvendig av hensyn til tilhengerens stabilitet. Slik tilhenger skal bak være merket med skilt som angir at største hastighet ikke må overstige 30 km/t.
+Under forutsetning av at kjøretøyfabrikanten garanterer for største aksel-/boggilast og største vertikale belastning på tilhengerkoplingen, er det nok at styrken er tilstrekkelig i forhold til den største totalvekt som fremkommer ved summering av største aksel-/boggilast og største vertikale belastning på tilhengerkoplingen. For tilhenger/tilhengerredskap beregnet for personbil eller varebil skal det i så fall ikke regnes med større vertikal belastning på tilhengerkoplingen enn 75 kg, selv om tilhengeren/tilhenger- redskapen er godkjent med større tillatt koplingslast.
+
+2\. Tilhenger med konstruktiv hastighet over 40 km/t skal være avfjæret. Slik tilhenger skal også ha tilfredsstillende anordning for demping av fjæringsbevegelsene når tilhengerens største totalvekt er over 500 kg, men ikke over 2.000 kg.
+
+Kravet om fjæring gjelder ikke tilhenger til bil når tilhengeren er beregnet til transport av spesielt gods, når det er nødvendig av hensyn til tilhengerens stabilitet. Slik tilhenger skal bak være merket med skilt som angir at største hastighet ikke må overstige 30 km/t.
 
 > Endret ved [forskrift 23 des 2004 nr. 1810](forskrift/2004-12-23-1810).
 
@@ -2287,7 +2849,10 @@ Merking
 
 4.1
 
-For dekk produsert etter 1. januar 2010 til bil og tilhenger til bil skal dekk med felg oppfylle følgende krav:Dekk, bortsett fra regummierte dekk, skal være godkjent og merket i henhold til direktiv [92/23/EØF](eu/31992l0023) eller ECE-regulativ 30, 54 eller 64.Regummierte dekk skal være godkjent og merket i henhold til ECE-regulativ 108 eller 109.
+For dekk produsert etter 1. januar 2010 til bil og tilhenger til bil skal dekk med felg oppfylle følgende krav:
+
+1. Dekk, bortsett fra regummierte dekk, skal være godkjent og merket i henhold til direktiv [92/23/EØF](eu/31992l0023) eller ECE-regulativ 30, 54 eller 64.
+2. Regummierte dekk skal være godkjent og merket i henhold til ECE-regulativ 108 eller 109.
 
 4.2
 
@@ -2295,23 +2860,70 @@ Felg med dekk produsert før 1. januar 2010 skal være merket ved hjelp av innpr
 
 4.3
 
-For dekk produsert før 1. januar 2010 skal disse ved hjelp av innstøpning være tydelig og varig merket med:Fabrikantens navn eller merke, og for regummierte dekk, vulkanisørens navn og hjemland.«Regummiert» eller tilsvarende betegnelse dersom dekket er pålagt ny bane.Dekkdimensjon.PR (ply rating) – angivelse eller annen styrkebetegnelse, overensstemmende med STRO (Scandinavian Tire & Rim Organization) eller ETRTO (European Tire & Rim Technical Organization).«Tubeless» dersom dekket kan brukes uten slange.Dessuten skal dekk for personbiler og lette varebiler (tillatt totalvekt t.o.m. 2 200 kg) være merket med:*Dekktype*
-Følgende betegnelser skal brukes:Diagonaldekk:Ingen spesiell merkingDiagonalbeltedekk:BRadialdekk:R*Hastighet*
-Følgende betegnelser brukes:«Speed»-dekk:S«High speed»-dekk:H«Very high speed»-dekk:V
-De øvrige hastighetsgrenser er:
-1\) *For diagonaldekk* «Standard» dekk (uten hastighetsmerking) med10 ″ felg:120 km/t12 ″ felg:135 km/t13 ″ felg og større:150 km/t«Speed»-dekk med 10 ″ felg:150 km/t12 ″ felg:160 km/t13 ″ dekk og større:175 km/t«High speed»-dekk med 10 ″ felg:175 km/t12 ″ felg:185 km/t13 ″ dekk og større:200 km/t«Very high speed»-dekk:over 200 km/t
-2\) *For radialdekk og diagonalbeltedekk:* «Standard» dekk (uten hastighetsmerking):150 km/t«Speed»-dekk:180 km/t«High speed»-dekk:210 km/t«Very high speed»-dekk:over 210 km/t
-3\) *Uansett dekktype* gjelder i tillegg følgende symboler for øvre hastighetsgrense:
-– L = maks. hast. 120 km/t
-– M = maks. hast. 130 km/t
-– N = maks. hast. 140 km/t
-– P = maks. hast. 150 km/t
-– Q = maks. hast. 160 km/t
-– R = maks. hast. 170 km/t
-– T = maks. hast. 190 km/t
-– U = maks. hast. 200 km/t
-– H = maks. hast. 210 km/t
-– V = maks. hast. 240 km/tDekk godkjent etter ECE-reg.nr. 30 og ECE-reg.nr. 54 godtas når merkingen er utført som vist i fig. 1.
+For dekk produsert før 1. januar 2010 skal disse ved hjelp av innstøpning være tydelig og varig merket med:
+
+1. Fabrikantens navn eller merke, og for regummierte dekk, vulkanisørens navn og hjemland.
+2. «Regummiert» eller tilsvarende betegnelse dersom dekket er pålagt ny bane.
+3. Dekkdimensjon.
+4. PR (ply rating) – angivelse eller annen styrkebetegnelse, overensstemmende med STRO (Scandinavian Tire & Rim Organization) eller ETRTO (European Tire & Rim Technical Organization).
+5. «Tubeless» dersom dekket kan brukes uten slange.
+6. Dessuten skal dekk for personbiler og lette varebiler (tillatt totalvekt t.o.m. 2 200 kg) være merket med:
+
+   1. *Dekktype*
+      Følgende betegnelser skal brukes:
+
+      |  |  |
+      | --- | --- |
+      | Diagonaldekk: | Ingen spesiell merking |
+      | Diagonalbeltedekk: | B |
+      | Radialdekk: | R |
+   2. *Hastighet*
+      Følgende betegnelser brukes:
+
+      |  |  |
+      | --- | --- |
+      | «Speed»-dekk: | S |
+      | «High speed»-dekk: | H |
+      | «Very high speed»-dekk: | V |
+
+      De øvrige hastighetsgrenser er:
+      1\) *For diagonaldekk*
+
+      |  |  |
+      | --- | --- |
+      | «Standard» dekk (uten hastighetsmerking) med |  |
+      | 10 ″ felg: | 120 km/t |
+      | 12 ″ felg: | 135 km/t |
+      | 13 ″ felg og større: | 150 km/t |
+      | «Speed»-dekk med 10 ″ felg: | 150 km/t |
+      | 12 ″ felg: | 160 km/t |
+      | 13 ″ dekk og større: | 175 km/t |
+      | «High speed»-dekk med 10 ″ felg: | 175 km/t |
+      | 12 ″ felg: | 185 km/t |
+      | 13 ″ dekk og større: | 200 km/t |
+      | «Very high speed»-dekk: | over 200 km/t |
+
+      2\) *For radialdekk og diagonalbeltedekk:*
+
+      |  |  |
+      | --- | --- |
+      | «Standard» dekk (uten hastighetsmerking): | 150 km/t |
+      | «Speed»-dekk: | 180 km/t |
+      | «High speed»-dekk: | 210 km/t |
+      | «Very high speed»-dekk: | over 210 km/t |
+
+      3\) *Uansett dekktype* gjelder i tillegg følgende symboler for øvre hastighetsgrense:
+      – L = maks. hast. 120 km/t
+      – M = maks. hast. 130 km/t
+      – N = maks. hast. 140 km/t
+      – P = maks. hast. 150 km/t
+      – Q = maks. hast. 160 km/t
+      – R = maks. hast. 170 km/t
+      – T = maks. hast. 190 km/t
+      – U = maks. hast. 200 km/t
+      – H = maks. hast. 210 km/t
+      – V = maks. hast. 240 km/t
+7. Dekk godkjent etter ECE-reg.nr. 30 og ECE-reg.nr. 54 godtas når merkingen er utført som vist i fig. 1.
 
 *Fig. 1*
 
@@ -2335,7 +2947,21 @@ Bestemmelsen gjelder for dekk/felg produsert før 1. januar 2010.
 
 6.1
 
-Ved bytte av felg eller dekk kan dimensjon og/eller sporvidde tillates endret under følgende forutsetninger:Sporviddeendringen må ikke overskride det som er tillatt av kjøretøyfabrikanten eller godtatt av TÜV (Technische Überwachungs Verein) i Tyskland for vedkommende motorvogn. Det kan kreves dokumentert at sporvidde eller innpresning er tillatt. Dokumentasjon i form av ABE (Allgemeine Betriebserlaubnis) for felg eller utdrag (kopi) av TÜV Raderkatalog eller separat TÜV godkjenning godtas.Plassforholdene i hjulhuset må være tilstrekkelige slik at dekk og/eller felg ikke kommer i kontakt med kjøretøydetaljer ved fullt styreutslag og/eller maksimale fjæringsbevegelser.Rulleomkretsen på hjulene må holdes innenfor ± 5% av rulleomkretsen på de hjul som kjøretøyet normalt er utstyrt med fra kjøretøyfabrikanten.Dekkene må være godkjent for en belastning som minst tilsvarer kjøretøyets tillatte aksellast.Dekkene må være beregnet for minst den maksimale hastighet kjøretøyet er konstruert for. For vinterdekk er det tilstrekkelig at dekkene er beregnet for 160 km/t. For kjøretøy som lovlig kan benytte C- eller LT-dekk, er det tilstrekkelig at vinterdekkene er beregnet for 130 km/t.Felg og dekk må passe sammen i henhold til STRO-normen.Det må ikke brukes mellomlegg/plate/«spacer» som øker sporvidden med mindre kjøretøyfabrikanten har tillatt dette eller det foreligger dokumentasjon som nevnt i nr. 6.1 a.Dekkene må ha samme dimensjon. På kjøretøyer som originalt er utstyrt med dekk av ulike dimensjoner foran og bak skal størrelsesendringen være lik. Ved endringer utover dette må kjøretøyfabrikantens tillatelse foreligge eller det må foreligge dokumentasjon som nevnt i nr. 6.1 a.Dersom kjøretøyets originale felger er skiftet ut med andre stål- eller lettmetallsfelger, skal disse enten være merket med innpresning eller det skal medfølge dokumentasjon for innpresning i kjøretøyet.Med innpresning forstås avstanden mellom felgplatens anleggsflate mot navet og felgens senterlinje. Se for øvrig fig. 2.Fig. 2
+Ved bytte av felg eller dekk kan dimensjon og/eller sporvidde tillates endret under følgende forutsetninger:
+
+1. Sporviddeendringen må ikke overskride det som er tillatt av kjøretøyfabrikanten eller godtatt av TÜV (Technische Überwachungs Verein) i Tyskland for vedkommende motorvogn. Det kan kreves dokumentert at sporvidde eller innpresning er tillatt. Dokumentasjon i form av ABE (Allgemeine Betriebserlaubnis) for felg eller utdrag (kopi) av TÜV Raderkatalog eller separat TÜV godkjenning godtas.
+2. Plassforholdene i hjulhuset må være tilstrekkelige slik at dekk og/eller felg ikke kommer i kontakt med kjøretøydetaljer ved fullt styreutslag og/eller maksimale fjæringsbevegelser.
+3. Rulleomkretsen på hjulene må holdes innenfor ± 5% av rulleomkretsen på de hjul som kjøretøyet normalt er utstyrt med fra kjøretøyfabrikanten.
+4. Dekkene må være godkjent for en belastning som minst tilsvarer kjøretøyets tillatte aksellast.
+5. Dekkene må være beregnet for minst den maksimale hastighet kjøretøyet er konstruert for. For vinterdekk er det tilstrekkelig at dekkene er beregnet for 160 km/t. For kjøretøy som lovlig kan benytte C- eller LT-dekk, er det tilstrekkelig at vinterdekkene er beregnet for 130 km/t.
+6. Felg og dekk må passe sammen i henhold til STRO-normen.
+7. Det må ikke brukes mellomlegg/plate/«spacer» som øker sporvidden med mindre kjøretøyfabrikanten har tillatt dette eller det foreligger dokumentasjon som nevnt i nr. 6.1 a.
+8. Dekkene må ha samme dimensjon. På kjøretøyer som originalt er utstyrt med dekk av ulike dimensjoner foran og bak skal størrelsesendringen være lik. Ved endringer utover dette må kjøretøyfabrikantens tillatelse foreligge eller det må foreligge dokumentasjon som nevnt i nr. 6.1 a.
+9. Dersom kjøretøyets originale felger er skiftet ut med andre stål- eller lettmetallsfelger, skal disse enten være merket med innpresning eller det skal medfølge dokumentasjon for innpresning i kjøretøyet.
+
+   Med innpresning forstås avstanden mellom felgplatens anleggsflate mot navet og felgens senterlinje. Se for øvrig fig. 2.
+
+   Fig. 2
 
 6.2
 
@@ -2345,29 +2971,120 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
 ### § 13-2. Dekk på bil – støy (direktiv 2001/43/EF som endret ved direktiv 2005/11/EF eller ECE-regulativ 117)
 
-1. Kravnivå:Direktiv [92/23/EØF](eu/31992l0023) som endret ved direktiv [2001/43/EF](eu/32001l0043) og direktiv [2005/11/EF](eu/32005l0011) eller ECE-regulativ 117.
-2. Virkeområde m.m.:Kjøretøy i gruppe M, N og O samt nye dekk til disse uansett om de er originalmontert eller er en reservedel unntatt regummierte dekk.Støykravene gjelder ikke for:piggdekk (men for andre vinterdekk med eventuelle hull for pigger),dekk som er beregnet for montering på kjøretøy som er førstegangsregistrert før 1. oktober 1980,dekk med hastighetsindeks mindre enn 80 km/t,dekk beregnet for felger med nominell diameter som ikke overstiger 10 tommer eller som overstiger 25 tommer ogreservedekk av type T eller S til midlertidig bruk.
-3. Alternativ standard:Ingen.
-4. Godkjenning:Ved typegodkjenning av ny type kjøretøy og dekk skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent uavhengig laboratorium for at direktiv [92/23/EØF](eu/31992l0023) som senest endret ved direktiv [2001/43/EF](eu/32001l0043) og direktiv [2005/11/EF](eu/32005l0011), alternativt ECE-regulativ 30 eller 54, er tilfredsstilt.Dekkene er delt opp i 3 brukskategorier med forskjellige grenseverdier:C1, dekk som hovedsakelig er konstruert for personbiler (M1 ) og deres tilhengere,C2, dekk som hovedsakelig er konstruert for busser (M2 og M3 ), varebiler (N1 ) og lastebiler (N2 og N3 ) og deres tilhengere og hvor dekk er godkjent for maksimalt 1450 kg belastning ved en hastighetsmerking på 140 km/t eller mer,C3, dekk som hovedsakelig er konstruert for busser (M2 og M3 ), varebiler (N1 ) og lastebiler (N2 og N3 ) og hvor dekk er godkjent for maksimalt 1450 kg belastning ved en hastighetsmerking på 130 km/t eller mindre, samt dekk som er godkjent for 1500 kg eller mer.Grenseverdiene for personbildekk (C1) i dB(A) er:Dekk kl.Nominell dekk-bredde (mm)AB1C1 2C1a≤145til 30. juni 200772fra 1. juli 20077170C1b>145≤165til 30. juni 200773fra 1. juli 20077271C1c>165≤185til 30. juni 200774fra 1. juli 20077372C1d>185≤215til 30. juni 200875fra 1. juli 20087474C1e>215til 30. juni 200976fra 1. juli 200975751 Indikerende grenseverdi. Endelige verdier vil bli vedtatt i endringsdirektiv på bakgrunn av rapporten som omtales i artikkel 3(2) i direktivet.2 Ikrafttreden ennå ikke vedtatt. Grenseverdiene i kolonne C skal bestemmes i endringsdirektiv på bakgrunn av rapporten som omtales artikkel 3(2) i direktivet.Forsterkede (merket «Reinforced») har 1 dB(A) høyere grenseverdi enn angitt i tabellen over. Spesialdekk (jf. direktiv [92/23/EØF](eu/31992l0023): for eksempel dekk til blandet bruk (på veg og i terreng) og i begrenset hastighet) har 2 dB(A) høyere grenseverdi enn angitt i tabellen over.Grenseverdiene for buss-, vare- og lastebildekk (C2 og C3) i dB(A) er:*Bruk/dekk**C2**C3*normal (sommerdekk til vanlig veg)7576vinterdekk (M+S)7778Spesialdekk7879Merking av dekkene som viser at de er prøvet og tilfredsstiller støykravene skal se slik ut:Nummereringen over er tatt med som eksempel. 3-tallet inne i rektangelet betyr at dekket er typegodkjent i Italia og med typegodkjenningsnummer «687», «00» at dette er et vare- eller lastebildekk og «-s» at typegodkjenningen dekker bilag V (støy) i direktivet. For øvrig krever ikke (eller forbyr heller ikke) direktivet at dekkene skal merkes for eksempel med det målte støytallet.I henhold til artikkel 3 skal det senest 4. august 2003 vedtas et endringsdirektiv (via the Committee for Adaptation to Technical Progress) for å introdusere veggrepstester for dekk. Basert på erfaringene med innføringen av dekkstøygrenseverdier og med hensyntagen til tekniske fremskritt skal Kommisjonen innen 4. august 2004 rapportere til Parlamentet og Rådet om hvor forsvarlig det er å innføre B- og C-grenseverdiene uten at dette går ut over sikkerheten. Basert på denne rapporten skal Kommisjonen innen 4. august 2005 foreslå endringsdirektiv for å introdusere krav på områder som berører sikkerhet, miljø og rullemotstand.
-5. Ikrafttreden:4. august 2003 for typegodkjenning av ny type dekk.4. februar 2004 for typegodkjenning av ny type kjøretøy.4. februar 2005 for registrering av kjøretøy.Fra tidspunktene under skal nye dekk som selges eller tas i bruk tilfredsstille kravene i direktivet:*Dekklasse**Nominell dekkbredde (mm)**Salg og bruk av nye dekk*C1a, b, c≤1851. oktober 2009C1d>185≤2151. oktober 2010C1e>2151. oktober 2011C2 og C3alle1. oktober 2009
+1. Kravnivå:
+
+   Direktiv [92/23/EØF](eu/31992l0023) som endret ved direktiv [2001/43/EF](eu/32001l0043) og direktiv [2005/11/EF](eu/32005l0011) eller ECE-regulativ 117.
+2. Virkeområde m.m.:
+
+   Kjøretøy i gruppe M, N og O samt nye dekk til disse uansett om de er originalmontert eller er en reservedel unntatt regummierte dekk.
+
+   Støykravene gjelder ikke for:
+
+   - piggdekk (men for andre vinterdekk med eventuelle hull for pigger),
+   - dekk som er beregnet for montering på kjøretøy som er førstegangsregistrert før 1. oktober 1980,
+   - dekk med hastighetsindeks mindre enn 80 km/t,
+   - dekk beregnet for felger med nominell diameter som ikke overstiger 10 tommer eller som overstiger 25 tommer og
+   - reservedekk av type T eller S til midlertidig bruk.
+3. Alternativ standard:
+
+   Ingen.
+4. Godkjenning:
+
+   Ved typegodkjenning av ny type kjøretøy og dekk skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent uavhengig laboratorium for at direktiv [92/23/EØF](eu/31992l0023) som senest endret ved direktiv [2001/43/EF](eu/32001l0043) og direktiv [2005/11/EF](eu/32005l0011), alternativt ECE-regulativ 30 eller 54, er tilfredsstilt.
+
+   Dekkene er delt opp i 3 brukskategorier med forskjellige grenseverdier:
+
+   - C1, dekk som hovedsakelig er konstruert for personbiler (M1 ) og deres tilhengere,
+   - C2, dekk som hovedsakelig er konstruert for busser (M2 og M3 ), varebiler (N1 ) og lastebiler (N2 og N3 ) og deres tilhengere og hvor dekk er godkjent for maksimalt 1450 kg belastning ved en hastighetsmerking på 140 km/t eller mer,
+   - C3, dekk som hovedsakelig er konstruert for busser (M2 og M3 ), varebiler (N1 ) og lastebiler (N2 og N3 ) og hvor dekk er godkjent for maksimalt 1450 kg belastning ved en hastighetsmerking på 130 km/t eller mindre, samt dekk som er godkjent for 1500 kg eller mer.
+
+   Grenseverdiene for personbildekk (C1) i dB(A) er:
+
+   | Dekk kl. | Nominell dekk-bredde (mm) | A |  | B1 |  | C1 2 |
+   | --- | --- | --- | --- | --- | --- | --- |
+   | C1a | ≤145 | til 30. juni 2007 | 72 | fra 1. juli 2007 | 71 | 70 |
+   | C1b | >145≤165 | til 30. juni 2007 | 73 | fra 1. juli 2007 | 72 | 71 |
+   | C1c | >165≤185 | til 30. juni 2007 | 74 | fra 1. juli 2007 | 73 | 72 |
+   | C1d | >185≤215 | til 30. juni 2008 | 75 | fra 1. juli 2008 | 74 | 74 |
+   | C1e | >215 | til 30. juni 2009 | 76 | fra 1. juli 2009 | 75 | 75 |
+
+   1 Indikerende grenseverdi. Endelige verdier vil bli vedtatt i endringsdirektiv på bakgrunn av rapporten som omtales i artikkel 3(2) i direktivet.
+
+   2 Ikrafttreden ennå ikke vedtatt. Grenseverdiene i kolonne C skal bestemmes i endringsdirektiv på bakgrunn av rapporten som omtales artikkel 3(2) i direktivet.
+
+   Forsterkede (merket «Reinforced») har 1 dB(A) høyere grenseverdi enn angitt i tabellen over. Spesialdekk (jf. direktiv [92/23/EØF](eu/31992l0023): for eksempel dekk til blandet bruk (på veg og i terreng) og i begrenset hastighet) har 2 dB(A) høyere grenseverdi enn angitt i tabellen over.
+
+   Grenseverdiene for buss-, vare- og lastebildekk (C2 og C3) i dB(A) er:
+
+   | *Bruk/dekk* | *C2* | *C3* |
+   | --- | --- | --- |
+   | normal (sommerdekk til vanlig veg) | 75 | 76 |
+   | vinterdekk (M+S) | 77 | 78 |
+   | Spesialdekk | 78 | 79 |
+
+   Merking av dekkene som viser at de er prøvet og tilfredsstiller støykravene skal se slik ut:
+
+   Nummereringen over er tatt med som eksempel. 3-tallet inne i rektangelet betyr at dekket er typegodkjent i Italia og med typegodkjenningsnummer «687», «00» at dette er et vare- eller lastebildekk og «-s» at typegodkjenningen dekker bilag V (støy) i direktivet. For øvrig krever ikke (eller forbyr heller ikke) direktivet at dekkene skal merkes for eksempel med det målte støytallet.
+
+   I henhold til artikkel 3 skal det senest 4. august 2003 vedtas et endringsdirektiv (via the Committee for Adaptation to Technical Progress) for å introdusere veggrepstester for dekk. Basert på erfaringene med innføringen av dekkstøygrenseverdier og med hensyntagen til tekniske fremskritt skal Kommisjonen innen 4. august 2004 rapportere til Parlamentet og Rådet om hvor forsvarlig det er å innføre B- og C-grenseverdiene uten at dette går ut over sikkerheten. Basert på denne rapporten skal Kommisjonen innen 4. august 2005 foreslå endringsdirektiv for å introdusere krav på områder som berører sikkerhet, miljø og rullemotstand.
+5. Ikrafttreden:
+
+   - 4\. august 2003 for typegodkjenning av ny type dekk.
+   - 4\. februar 2004 for typegodkjenning av ny type kjøretøy.
+   - 4\. februar 2005 for registrering av kjøretøy.
+   - Fra tidspunktene under skal nye dekk som selges eller tas i bruk tilfredsstille kravene i direktivet:
+
+     | *Dekklasse* | *Nominell dekkbredde (mm)* | *Salg og bruk av nye dekk* |
+     | --- | --- | --- |
+     | C1a, b, c | ≤185 | 1. oktober 2009 |
+     | C1d | >185≤215 | 1. oktober 2010 |
+     | C1e | >215 | 1. oktober 2011 |
+     | C2 og C3 | alle | 1. oktober 2009 |
 
 > Endret ved [forskrifter 14 okt 2005 nr. 1226](forskrift/2005-10-14-1226), [19 sep 2008 nr. 1034](forskrift/2008-09-19-1034) (i kraft 1 nov 2008).
 
 ### § 13-3. Hjul, dekk på bil
 
-1\. Bil skal ha luftfylte dekk eller dekk med tilsvarende egenskaper godkjent av Statens vegvesen. Piggdekk er i alle tilfelle godkjenningspliktig. Godkjenningsplikten anses oppfylt dersom slike dekk er i overensstemmelse med disse bestemmelser.På personbil er plass-sparende eller lett reservehjul tillatt. Dekket eller felgen må være merket med høyeste fart. Bruken må være beskrevet i anvisning som følger hjulet eller er tatt inn i bilens instruksjonsbok. Hjulet må bare nyttes under nødvendig transport til nærmeste reparasjonssted.
+1\. Bil skal ha luftfylte dekk eller dekk med tilsvarende egenskaper godkjent av Statens vegvesen. Piggdekk er i alle tilfelle godkjenningspliktig. Godkjenningsplikten anses oppfylt dersom slike dekk er i overensstemmelse med disse bestemmelser.
+
+På personbil er plass-sparende eller lett reservehjul tillatt. Dekket eller felgen må være merket med høyeste fart. Bruken må være beskrevet i anvisning som følger hjulet eller er tatt inn i bilens instruksjonsbok. Hjulet må bare nyttes under nødvendig transport til nærmeste reparasjonssted.
 
 2\. På bil med tillatt totalvekt ikke over 3 500 kg skal alle dekk være av samme type (diagonaldekk, radialdekk, sommerdekk eller vinterdekk). Det kan likevel benyttes dekk av forskjellig fabrikant og mønsterutforming.
 
-3\. For pigging av dekk til bil med tillatt totalvekt ikke over 3.500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Største tillatte vekt pr. pigg er 1,1 g.Største tillatte statiske piggkraft for slike pigger er 120 N eller lavere.Annen type pigg kan godkjennes dersom det fra et uavhengig kompetent laboratorium kan dokumenteres at piggene vegslitasje- og veggrepsmessig, har minst like gode egenskaper som en piggtype tilsvarende ovennevnte krav.Største tillatte vekt pr. pigg for lette lastebildekk (C-dekk eller Reinforced dekk) som brukes på bil der slike dekk er foreskrevet av bilfabrikant, er 2,3 g. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 180 N.Statisk piggkraft skal måles ved 20 °C ± 4 °C. (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+3\. For pigging av dekk til bil med tillatt totalvekt ikke over 3.500 kg gjelder følgende:
 
-4\. For pigging av dekk til bil med totalvekt over 3.500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.Største tillatte overheng på en enkelt pigg er 2,0 mm.Største antall pigger er 50 stk. per meter rulleomkrets. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt mindre enn 3 500 kg, jf. nr. 3, er største tillatte antall pigger 250 stk.Største tillatte vekt pr. pigg er 3 g.Største tillatte statiske kraft ved 20 °C ± 4 °C er 340 N.
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.
+2. Største antall pigger er 50 stk. per meter rulleomkrets.
+3. Største tillatte vekt pr. pigg er 1,1 g.
+
+   Største tillatte statiske piggkraft for slike pigger er 120 N eller lavere.
+
+   Annen type pigg kan godkjennes dersom det fra et uavhengig kompetent laboratorium kan dokumenteres at piggene vegslitasje- og veggrepsmessig, har minst like gode egenskaper som en piggtype tilsvarende ovennevnte krav.
+
+   Største tillatte vekt pr. pigg for lette lastebildekk (C-dekk eller Reinforced dekk) som brukes på bil der slike dekk er foreskrevet av bilfabrikant, er 2,3 g. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 180 N.
+4. Statisk piggkraft skal måles ved 20 °C ± 4 °C. (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+
+4\. For pigging av dekk til bil med totalvekt over 3.500 kg gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.
+2. Største tillatte overheng på en enkelt pigg er 2,0 mm.
+3. Største antall pigger er 50 stk. per meter rulleomkrets. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt mindre enn 3 500 kg, jf. nr. 3, er største tillatte antall pigger 250 stk.
+4. Største tillatte vekt pr. pigg er 3 g.
+5. Største tillatte statiske kraft ved 20 °C ± 4 °C er 340 N.
 
 5\. Rørpigger, rallypigger eller tilsvarende konstruksjoner er ikke tillatt.
 
 6\. Kravene i nr. 3 og 4 er ikke til hinder for at annet piggdekk kan benyttes dersom det kan dokumenteres, for eksempel gjennom finsk typegodkjenning, at dekket ikke forårsaker større slitasje på vegbanen sammenlignet med et piggdekk som oppfyller kravene ovenfor.
 
-7\. Kjøretøy som angitt nedenfor kan i tillegg til det antall pigger som dekket er godkjent med etter nr. 3, 4 eller 6, benytte følgende:utrykningskjøretøy: Inntil 100 stk. flere pigger per dekk, alternativt inntil 230 stk. pigger totalt i dekket,busser: Inntil 50 stk. flere pigger per dekk,ADR-kjøretøy i gruppe N3 og O4 med gyldig godkjenningsattest for transport av farlig gods: Inntil 100 stk. flere pigger per dekk,melkebil og -tilhenger for transport av melk på tank: Inntil 100 stk. flere pigger per dekk,brøytebil i gruppe N3 med anmerkning i vognkortet om godkjent brøytefeste: Inntil 100 stk. flere pigger per dekk,bergingsbil i gruppe N2 og N3: Inntil 100 stk. flere pigger per dekk, ogbiler for bevegelseshemmede som har parkeringstillatelse i henhold til Samferdselsdepartementets [forskrift 18. mars 2016 nr. 264](forskrift/2016-03-18-264) om parkeringstillatelse for forflytningshemmede: Inntil 50 stk. flere pigger per dekk.
+7\. Kjøretøy som angitt nedenfor kan i tillegg til det antall pigger som dekket er godkjent med etter nr. 3, 4 eller 6, benytte følgende:
+
+1. utrykningskjøretøy: Inntil 100 stk. flere pigger per dekk, alternativt inntil 230 stk. pigger totalt i dekket,
+2. busser: Inntil 50 stk. flere pigger per dekk,
+3. ADR-kjøretøy i gruppe N3 og O4 med gyldig godkjenningsattest for transport av farlig gods: Inntil 100 stk. flere pigger per dekk,
+4. melkebil og -tilhenger for transport av melk på tank: Inntil 100 stk. flere pigger per dekk,
+5. brøytebil i gruppe N3 med anmerkning i vognkortet om godkjent brøytefeste: Inntil 100 stk. flere pigger per dekk,
+6. bergingsbil i gruppe N2 og N3: Inntil 100 stk. flere pigger per dekk, og
+7. biler for bevegelseshemmede som har parkeringstillatelse i henhold til Samferdselsdepartementets [forskrift 18. mars 2016 nr. 264](forskrift/2016-03-18-264) om parkeringstillatelse for forflytningshemmede: Inntil 50 stk. flere pigger per dekk.
 
 > Endret ved [forskrifter 19 sep 2008 nr. 1034](forskrift/2008-09-19-1034) (i kraft 1 nov 2008), [18 mai 2017 nr. 614](forskrift/2017-05-18-614) (i kraft 1 juli 2017), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -2395,7 +3112,19 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
 1\. To- og trehjulede motorvogner skal ha luftfylte dekk eller dekk med tilsvarende egenskaper godkjent av Statens vegvesen. Piggdekk er i alle tilfelle godkjenningspliktig. Godkjenningsplikten anses oppfylt dersom slike dekk er i overensstemmelse med disse bestemmelser.
 
-2\. For pigging av dekk til to- og trehjulede motorvogner gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk før det tas i bruk må ikke overstige 1,2 mm.Største tillatte overheng for en enkelt pigg er 1,5 mm.Største tillatte antall pigger:hjuldimensjon t.o.m. 15″: 110 stk.hjuldimensjon f.o.m. 16″: 150 stk.Største tillatte vekt pr. pigg er 2,5 g.Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N. (Den kraft som skal til for å trykke en korrekt montert pigg, med største tillatte overheng, og med korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen.)Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.to- og trehjulede motorvogner som benytter bildekk følger reglene i [§ 13-3](forskrift/1994-10-04-918/§13-3),for to- og trehjulede utrykningskjøretøy gjelder ikke begrensningene i bokstavene a–f.
+2\. For pigging av dekk til to- og trehjulede motorvogner gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk før det tas i bruk må ikke overstige 1,2 mm.
+2. Største tillatte overheng for en enkelt pigg er 1,5 mm.
+3. Største tillatte antall pigger:
+
+   - hjuldimensjon t.o.m. 15″: 110 stk.
+   - hjuldimensjon f.o.m. 16″: 150 stk.
+4. Største tillatte vekt pr. pigg er 2,5 g.
+5. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N. (Den kraft som skal til for å trykke en korrekt montert pigg, med største tillatte overheng, og med korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen.)
+6. Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.
+7. to- og trehjulede motorvogner som benytter bildekk følger reglene i [§ 13-3](forskrift/1994-10-04-918/§13-3),
+8. for to- og trehjulede utrykningskjøretøy gjelder ikke begrensningene i bokstavene a–f.
 
 > Endret ved [forskrifter 18 mai 2017 nr. 614](forskrift/2017-05-18-614) (i kraft 1 juli 2017), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -2403,7 +3132,14 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
 1\. Traktor og motorredskap skal ha luftfylte dekk eller dekk med tilsvarende egenskaper godkjent av Statens vegvesen. Piggdekk er i alle tilfelle godkjenningspliktig. Godkjenningsplikten anses oppfylt dersom slike dekk er i overensstemmelse med disse bestemmelser.
 
-2\. For pigging av dekk til traktor og motorredskap gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.Største tillatte overheng for en enkelt pigg er 2,0 mm.Største tillatte antall pigger er 0,5 pigger pr. cm av rulleomkretsen.Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.På utrykningskjøretøy kan det benyttes inntil 100 flere pigger enn det som fremgår av bestemmelsene foran.
+2\. For pigging av dekk til traktor og motorredskap gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.
+2. Største tillatte overheng for en enkelt pigg er 2,0 mm.
+3. Største tillatte antall pigger er 0,5 pigger pr. cm av rulleomkretsen.
+4. Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.
+
+På utrykningskjøretøy kan det benyttes inntil 100 flere pigger enn det som fremgår av bestemmelsene foran.
 
 3\. Dekk til traktor og tilhenger til traktor godkjent etter ECE-regulativ 106 godtas når merkingen er utført i henhold til regulativet.
 
@@ -2413,9 +3149,21 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
 1\. Tilhenger og tilhengerredskap som har en konstruktiv hastighet over 40 km/t skal ha luftfylte dekk eller dekk med tilsvarende egenskaper godkjent av Statens vegvesen. Piggdekk er i alle tilfelle godkjenningspliktig. Godkjenningsplikten anses oppfylt dersom slike dekk er i overensstemmelse med disse bestemmelser.
 
-2\. For pigging av dekk til tilhenger eller tilhengerredskap som trekkes av bil med tillatt totalvekt ikke over 3.500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Største tillatte vekt pr. pigg er 1,8 g.Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+2\. For pigging av dekk til tilhenger eller tilhengerredskap som trekkes av bil med tillatt totalvekt ikke over 3.500 kg gjelder følgende:
 
-3\. For pigging av dekk til tilhenger og tilhengerredskap som trekkes av bil med tillatt totalvekt over 3.500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.Største tillatte overheng for en enkelt pigg er 2,0 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt ikke over 3.500 kg, jf. [§ 13-3](forskrift/1994-10-04-918/§13-3) nr. 3, er største tillatte antall pigger 250 stk.Største tillatte vekt pr. pigg er 3 g.Største tillatte statiske piggkraft ved 20 °C ± 4 ° C er 400 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.
+2. Største antall pigger er 50 stk. per meter rulleomkrets.
+3. Største tillatte vekt pr. pigg er 1,8 g.
+4. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+
+3\. For pigging av dekk til tilhenger og tilhengerredskap som trekkes av bil med tillatt totalvekt over 3.500 kg gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.
+2. Største tillatte overheng for en enkelt pigg er 2,0 mm.
+3. Største antall pigger er 50 stk. per meter rulleomkrets.
+4. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt ikke over 3.500 kg, jf. [§ 13-3](forskrift/1994-10-04-918/§13-3) nr. 3, er største tillatte antall pigger 250 stk.
+5. Største tillatte vekt pr. pigg er 3 g.
+6. Største tillatte statiske piggkraft ved 20 °C ± 4 ° C er 400 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
 
 4\. Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.
 
@@ -2427,9 +3175,19 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
 ### § 14-1. Generelt om karosseri og lasteplan
 
-1\. Kjøretøy skal være slik innrettet at det fra førerplassen er tilstrekkelig utsikt fremover og til sidene.Bil som tilfredstiller kravene i direktiv [77/649/EØF](eu/31977l0649*), endret ved direktiv [81/643/EØF](eu/31981l0643), direktiv [88/366/EØF](eu/31988l0366) og direktiv [90/630/EØF](eu/31990l0630) anses å oppfylle bestemmelsene i første ledd.Jord- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [74/347/EØF](eu/31974l0347*), endret ved direktiv [79/1073/EØF](eu/31979l1073*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [97/54/EF](eu/31997l0054) eller direktiv [2008/2/EF](eu/32008l0002), anses for å oppfylle bestemmelsene i første ledd.
+1\. Kjøretøy skal være slik innrettet at det fra førerplassen er tilstrekkelig utsikt fremover og til sidene.
 
-2\. Kjøretøy må utvendig være formet og utstyrt slik at de ikke forårsaker unødig skade ved sammenstøt eller påkjørsel. Hengslede luker, karmer o.l. på sidene må ikke være slik innrettet at de ved åpning kan bli sperret i utstående stilling.Kjøretøy som tilfredsstiller kravene i direktiv [74/483/EØF](eu/31974l0483), eventuelt som endret ved direktiv [79/488/EØF](eu/31979l0488) eller direktiv [87/354/EØF](eu/31987l0354), og som senest endret ved direktiv [2007/15/EF](eu/32007l0015), eller som tilfredsstiller kravene i ECE regulativ nr. 26, som senest endret ved serie 03, tillegg 1, anses å oppfylle bestemmelsene i første ledd. Det samme gjelder bil som tilfredsstiller kravene i direktiv [92/114/EØF](eu/31992l0114*).Innvendig må karosseri være slik formet og utstyrt at fører og passasjerer ikke utsettes for unødig fare.Kjøretøy som tilfredsstiller kravene i direktiv [74/60/EØF](eu/31974l0060*), endret ved direktiv [78/632/EØF](eu/31978l0632) eller direktiv [2000/4/EF](eu/32000l0004), eller i ECE-reg.nr. 21, serie 01, tillegg 1, rettelse 1, anses å oppfylle bestemmelsene i tredje ledd.
+Bil som tilfredstiller kravene i direktiv [77/649/EØF](eu/31977l0649*), endret ved direktiv [81/643/EØF](eu/31981l0643), direktiv [88/366/EØF](eu/31988l0366) og direktiv [90/630/EØF](eu/31990l0630) anses å oppfylle bestemmelsene i første ledd.
+
+Jord- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [74/347/EØF](eu/31974l0347*), endret ved direktiv [79/1073/EØF](eu/31979l1073*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [97/54/EF](eu/31997l0054) eller direktiv [2008/2/EF](eu/32008l0002), anses for å oppfylle bestemmelsene i første ledd.
+
+2\. Kjøretøy må utvendig være formet og utstyrt slik at de ikke forårsaker unødig skade ved sammenstøt eller påkjørsel. Hengslede luker, karmer o.l. på sidene må ikke være slik innrettet at de ved åpning kan bli sperret i utstående stilling.
+
+Kjøretøy som tilfredsstiller kravene i direktiv [74/483/EØF](eu/31974l0483), eventuelt som endret ved direktiv [79/488/EØF](eu/31979l0488) eller direktiv [87/354/EØF](eu/31987l0354), og som senest endret ved direktiv [2007/15/EF](eu/32007l0015), eller som tilfredsstiller kravene i ECE regulativ nr. 26, som senest endret ved serie 03, tillegg 1, anses å oppfylle bestemmelsene i første ledd. Det samme gjelder bil som tilfredsstiller kravene i direktiv [92/114/EØF](eu/31992l0114*).
+
+Innvendig må karosseri være slik formet og utstyrt at fører og passasjerer ikke utsettes for unødig fare.
+
+Kjøretøy som tilfredsstiller kravene i direktiv [74/60/EØF](eu/31974l0060*), endret ved direktiv [78/632/EØF](eu/31978l0632) eller direktiv [2000/4/EF](eu/32000l0004), eller i ECE-reg.nr. 21, serie 01, tillegg 1, rettelse 1, anses å oppfylle bestemmelsene i tredje ledd.
 
 3\. På kjøretøy som har eksosoppvarmet lasteplan eller lastekasse skal det inne i førerhuset, på lett synlig sted, plasseres et metallskilt med følgende påskrift:
 
@@ -2458,15 +3216,30 @@ Gjelder både for frontale beskyttelsessystemer som:
 
 4\. Godkjenning: Dersom et kjøretøy er utstyrt med frontalt beskyttelsessystem skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant/kompetent uavhengig laboratorium for at kjøretøy og/eller det separate frontale beskyttelsessystemet er i tråd med direktiv [2005/66/EF](eu/32005l0066) og testet etter vedtak [2006/368/EF](eu/32006d0368). Ved ettermontering av frontalt beskyttelsessystem skal kjøretøyet fremvises for Statens vegvesen til ny godkjenning, jf. [§ 7-2](forskrift/1994-10-04-918/§7-2) nr. 3.1.
 
-5\. Ikrafttreden:25. november 2006 for typegodkjenning av nye kjøretøytyper med integrerte frontale beskyttelsessystemer.25. mai 2007 for registreringer av kjøretøy med integrerte frontale beskyttelsessystemer og for ettermontering av frontale beskyttelsessystemer.
+5\. Ikrafttreden:
 
-6\. For kjøretøy som ikke omfattes av ovennevnte gjelder følgende:Anordning av for eksempel rør- eller platekonstruksjon, originalmontert eller ettermontert, for beskyttelse av bil, for eksempel ved kollisjon med dyr, tillates bare dersom bilen med anordning tilfredsstiller enten:direktiv [74/483/EØF](eu/31974l0483), eventuelt som endret ved direktiv [79/488/EØF](eu/31979l0488),ECE-reg. nr. 26, serie 01, rettelse 1 ellerdirektiv [92/114/EØF](eu/31992l0114*).
+- 25\. november 2006 for typegodkjenning av nye kjøretøytyper med integrerte frontale beskyttelsessystemer.
+- 25\. mai 2007 for registreringer av kjøretøy med integrerte frontale beskyttelsessystemer og for ettermontering av frontale beskyttelsessystemer.
+
+6\. For kjøretøy som ikke omfattes av ovennevnte gjelder følgende:
+
+Anordning av for eksempel rør- eller platekonstruksjon, originalmontert eller ettermontert, for beskyttelse av bil, for eksempel ved kollisjon med dyr, tillates bare dersom bilen med anordning tilfredsstiller enten:
+
+1. direktiv [74/483/EØF](eu/31974l0483), eventuelt som endret ved direktiv [79/488/EØF](eu/31979l0488),
+2. ECE-reg. nr. 26, serie 01, rettelse 1 eller
+3. direktiv [92/114/EØF](eu/31992l0114*).
 
 > Tilføyd ved [forskrift 15 des 2006 nr. 1548](forskrift/2006-12-15-1548), endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
 ### § 14-4. Karosseri og lasteplan på bil
 
-1\. Avstanden fra bakkant av karosseri, lasteplan e.l. til senter av bakaksel eller bakakselkombinasjonens vektsenter ved største aksellast/boggilast/trippelboggilast må ikke overstige 70% av akselavstanden målt til nevnte vektsenter og må høyst være 4 meter.Bak dette tillates lasteutstyr, hengsler, låser o.l. dersom utstyret ligger innenfor en likesidet trekant med karosseriet/lasteplanets bakre begrensning som grunnlinje, men dog slik at karosseriet eller utstyret skal tilfredsstille bestemmelsene i [§ 14-1](forskrift/1994-10-04-918/§14-1) nr. 2 og i [kap. 33](forskrift/1994-10-04-918/kap33).Ved beregning av akselavstand og overheng skal det ikke tas hensyn til styrbare aksler. Har bilen flere styrbare aksler, måles akselavstanden fra den forreste akselen.Bestemmelsene i dette nr. gjelder ikke for buss eller for renovasjonsbil med komprimeringsaggregat.
+1\. Avstanden fra bakkant av karosseri, lasteplan e.l. til senter av bakaksel eller bakakselkombinasjonens vektsenter ved største aksellast/boggilast/trippelboggilast må ikke overstige 70% av akselavstanden målt til nevnte vektsenter og må høyst være 4 meter.
+
+Bak dette tillates lasteutstyr, hengsler, låser o.l. dersom utstyret ligger innenfor en likesidet trekant med karosseriet/lasteplanets bakre begrensning som grunnlinje, men dog slik at karosseriet eller utstyret skal tilfredsstille bestemmelsene i [§ 14-1](forskrift/1994-10-04-918/§14-1) nr. 2 og i [kap. 33](forskrift/1994-10-04-918/kap33).
+
+Ved beregning av akselavstand og overheng skal det ikke tas hensyn til styrbare aksler. Har bilen flere styrbare aksler, måles akselavstanden fra den forreste akselen.
+
+Bestemmelsene i dette nr. gjelder ikke for buss eller for renovasjonsbil med komprimeringsaggregat.
 
 2\. Bil med slepeinnretninger som tilfredsstiller kravene i direktiv [77/389/EØF](eu/31977l0389*) eventuelt som endret ved direktiv [96/64/EF](eu/31996l0064), skal godtas.
 
@@ -2478,7 +3251,10 @@ Gjelder både for frontale beskyttelsessystemer som:
 
 2\. Kravnivå: Direktiv [93/31/EØF](eu/31993l0031*) (om parkeringsstøtter for motorvogner med to hjul), fra 1. juli 2002 som endret ved direktiv [2000/72/EF](eu/32000l0072) og direktiv [97/24/EF](eu/31997l0024*) [kapittel 3](forskrift/1994-10-04-918/kap3) (utstikkende deler på to- og trehjulede motorvogner), endret ved direktiv [2006/27/EF](eu/32006l0027*).
 
-3\. Virkeområde:Direktiv [93/31/EØF](eu/31993l0031*) og direktiv [2000/72/EF](eu/32000l0072), eller direktiv [2009/78/EF](eu/32009l0078): Alle motorvogner med to hjul som definert i artikkel 1 i direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).Direktiv [97/24/EF](eu/31997l0024*) [kapittel 3](forskrift/1994-10-04-918/kap3): Alle motorvogner som definert i artikkel 1 i direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).
+3\. Virkeområde:
+
+- Direktiv [93/31/EØF](eu/31993l0031*) og direktiv [2000/72/EF](eu/32000l0072), eller direktiv [2009/78/EF](eu/32009l0078): Alle motorvogner med to hjul som definert i artikkel 1 i direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).
+- Direktiv [97/24/EF](eu/31997l0024*) [kapittel 3](forskrift/1994-10-04-918/kap3): Alle motorvogner som definert i artikkel 1 i direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).
 
 4\. Alternativ standard: Ingen.
 
@@ -2544,14 +3320,34 @@ Type 4. Rulle med nødlåsing. Rulle som under normale kjøreforhold ikke hindre
 
 Type 4N. Rulle med nødlåsing, men med høyere aktiveringsterskel enn type 4. Skal ikke brukes i M1-biler.
 
-2\. Godkjenningsmerkingen på beltet skal inneholde følgende:Beltets godkjenningsnummer (under sirkelen eller rektanglet) ogE pluss godkjennelseslandets kodetall, inne i en sirkel. Godkjent etter ECE-reg.nr. 16
-Eller:e pluss godkjennelseslandets kodetall, inne i et rektangel. Godkjent etter et EU-direktiv.
+2\. Godkjenningsmerkingen på beltet skal inneholde følgende:
 
-3\. Tilleggssymboler, plassert over sirkelen etter rektanglet:A. Trepunktsbelte.B. Hoftebelte.C. Firepunktsbelte.D. Diagonalbelte.S. Spesialbelte.e. Belte med energiabsorberende innretning.r. Rullebelte. Bokstaven etterfølges av tall som angir rullens type.m. Rullebelte med nødlåsing med dobbel låsemekanisme.Z. Belte som er en del av et sikringsutstyr.
+- Beltets godkjenningsnummer (under sirkelen eller rektanglet) og
+- E pluss godkjennelseslandets kodetall, inne i en sirkel. Godkjent etter ECE-reg.nr. 16
+  Eller:
+- e pluss godkjennelseslandets kodetall, inne i et rektangel. Godkjent etter et EU-direktiv.
+
+3\. Tilleggssymboler, plassert over sirkelen etter rektanglet:
+
+- A. Trepunktsbelte.
+- B. Hoftebelte.
+- C. Firepunktsbelte.
+- D. Diagonalbelte.
+- S. Spesialbelte.
+- e. Belte med energiabsorberende innretning.
+- r. Rullebelte. Bokstaven etterfølges av tall som angir rullens type.
+- m. Rullebelte med nødlåsing med dobbel låsemekanisme.
+- Z. Belte som er en del av et sikringsutstyr.
 
 ### § 16-2. Krav til og krav om bilbelter – kravnivå direktiv 2000/3/EF som endret ved direktiv 2005/40/EF
 
-1\. Ikrafttredelse.For typegodkjenning av M1-biler trer bestemmelsene i denne paragraf i kraft 1. oktober 2001 og for nye registreringer 1. oktober 2002. Direktiv [2005/40/EF](eu/32005l0040) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer. Kravet om trepunktsbelte på alle plasser i M1-biler trer dog først i kraft 1. april 2002 for typegodkjenning og 1. oktober 2004 for nye registreringer.Bil i gruppe M1 med originalmontert integrert barnesikringsutstyr som registreres første gang 30. april 2001 eller senere, skal tilfredsstille direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [2000/3/EF](eu/32000l0003*).Bil i gruppe N1 eller M2 med tillatt totalvekt høyest 3,5 tonn med innmontert integrert barnesikringsutstyr som registreres første gang 1. oktober 2002 eller senere, skal tilfredsstille direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [2000/3/EF](eu/32000l0003*). Direktiv [2005/40/EF](eu/32005l0040) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer.
+1\. Ikrafttredelse.
+
+For typegodkjenning av M1-biler trer bestemmelsene i denne paragraf i kraft 1. oktober 2001 og for nye registreringer 1. oktober 2002. Direktiv [2005/40/EF](eu/32005l0040) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer. Kravet om trepunktsbelte på alle plasser i M1-biler trer dog først i kraft 1. april 2002 for typegodkjenning og 1. oktober 2004 for nye registreringer.
+
+Bil i gruppe M1 med originalmontert integrert barnesikringsutstyr som registreres første gang 30. april 2001 eller senere, skal tilfredsstille direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [2000/3/EF](eu/32000l0003*).
+
+Bil i gruppe N1 eller M2 med tillatt totalvekt høyest 3,5 tonn med innmontert integrert barnesikringsutstyr som registreres første gang 1. oktober 2002 eller senere, skal tilfredsstille direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [2000/3/EF](eu/32000l0003*). Direktiv [2005/40/EF](eu/32005l0040) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer.
 
 2\. Bilbelter skal tilfredsstille kravene i direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [2005/40/EF](eu/32005l0040). Minimumskravene etter direktiv [2000/3/EF](eu/32000l0003*) er at beltene skal være av følgende typer på ulike seter i ulike grupper biler:
 
@@ -2579,7 +3375,11 @@ Trepunktsbelte kan monteres på plasser der direktiv [2000/3/EF](eu/32000l0003*)
 
 1\. Bestemmelsene i denne paragraf gjelder for biler som ikke omfattes av [§ 16-2](forskrift/1994-10-04-918/§16-2).
 
-2\. Ikrafttredelse.For M2-biler med tillatt totalvekt 3.500 kg eller mindre trer bestemmelsene i denne paragraf i kraft 1. oktober 1999 for typegodkjenning av ny type bil, og 1. oktober 2001 for nye registreringer. For alle andre biler trer bestemmelsene i denne paragraf i kraft 1. april 1998 for typegodkjenning av ny type bil, og 1. oktober 1999 for nye registreringer. Uten hensyn til nevnte ikrafttredelsesdatoer trer direktivets bestemmelse om advarselmerking i forbindelse med kollisjonspute i kraft 1. april 1998 for nye typegodkjenninger og nye registreringer.For kategori M3 (buss) omfatter direktivet busser som ikke er spesielt innrettet for bymessig trafikk, det vil si at det omfatter busser klasse 2 og 3 etter [§ 8-3](forskrift/1994-10-04-918/§8-3) og busser i klasse II og III etter [§ 8-1](forskrift/1994-10-04-918/§8-1).
+2\. Ikrafttredelse.
+
+For M2-biler med tillatt totalvekt 3.500 kg eller mindre trer bestemmelsene i denne paragraf i kraft 1. oktober 1999 for typegodkjenning av ny type bil, og 1. oktober 2001 for nye registreringer. For alle andre biler trer bestemmelsene i denne paragraf i kraft 1. april 1998 for typegodkjenning av ny type bil, og 1. oktober 1999 for nye registreringer. Uten hensyn til nevnte ikrafttredelsesdatoer trer direktivets bestemmelse om advarselmerking i forbindelse med kollisjonspute i kraft 1. april 1998 for nye typegodkjenninger og nye registreringer.
+
+For kategori M3 (buss) omfatter direktivet busser som ikke er spesielt innrettet for bymessig trafikk, det vil si at det omfatter busser klasse 2 og 3 etter [§ 8-3](forskrift/1994-10-04-918/§8-3) og busser i klasse II og III etter [§ 8-1](forskrift/1994-10-04-918/§8-1).
 
 3\. Bilbelter skal tilfredsstille kravene i direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [96/36/EF](eu/31996l0036). Minimumskravene etter direktiv [96/36/EF](eu/31996l0036) er at beltene skal være av følgende typer på ulike seter i ulike grupper biler:
 
@@ -2623,7 +3423,11 @@ Trepunktsbelte kan monteres på plasser der tabellen ovenfor krever hoftebelte.
 
 2\. I bil med tillatt totalvekt mindre enn 3.500 kg skal plasser for fører og passasjer i forsete være utstyrt med bilbelter som tilfredsstiller kravene i ECE-reg.nr. 16.04 eller kravene i direktiv [77/541/EØF](eu/31977l0541*), som senest endret ved direktiv [90/628/EØF](eu/31990l0628). Festepunktene skal tilfredsstille kravene i ECE-reg.nr. 14.02 eller kravene i direktiv [76/115/EØF](eu/31976l0115), som senest endret ved direktiv [82/318/EØF](eu/31982l0318), eventuelt som endret ved direktiv [90/629/EØF](eu/31990l0629). I personbil med totalvekt mindre enn 3.500 kg og med to seterader skal i tillegg plassene for passasjerer i baksetet være utstyrt med slike bilbelter og slike festepunkter.
 
-3\. For sitteplass der det kreves bilbelte, gjelder følgende:Trepunktsbelte kan benyttes for alle sitteplasser. Bilbeltet skal være av type som automatisk tilpasses brukeren (rullebelte med automatisk rulle og dobbel låsemekanisme). Trepunktsbelte av annen type kan dog benyttes dersom belte som nevnt ikke kan benyttes.Hoftebelte kan bare benyttes for midtplass og for plass hvor trepunktsbelte av konstruksjonsmessige årsaker ikke kan monteres.Bilbelte skal etter kollisjonsbelastning skiftes ut med nytt belte.
+3\. For sitteplass der det kreves bilbelte, gjelder følgende:
+
+1. Trepunktsbelte kan benyttes for alle sitteplasser. Bilbeltet skal være av type som automatisk tilpasses brukeren (rullebelte med automatisk rulle og dobbel låsemekanisme). Trepunktsbelte av annen type kan dog benyttes dersom belte som nevnt ikke kan benyttes.
+2. Hoftebelte kan bare benyttes for midtplass og for plass hvor trepunktsbelte av konstruksjonsmessige årsaker ikke kan monteres.
+3. Bilbelte skal etter kollisjonsbelastning skiftes ut med nytt belte.
 
 4\. Bestemmelsene i nr. 2 siste setning og 3 gjelder også for kjøretøy som ombygges til personbil. Dersom det for disse ikke kan fremlegges tilfredsstillende dokumentasjon for festepunktenes styrke og plassering, kan Statens vegvesen vurdere dette.
 
@@ -2653,7 +3457,9 @@ Festepunktenes plassering vurderes ved godkjenning. Dokumentasjon kan kreves fre
 
 For originalmonterte bilbelter og festepunkter på plasser som ikke kreves utstyrt med bilbelter, kreves ingen godkjenning.
 
-2\. Ikrafttredelse.For så vidt gjelder festepunkter trer bestemmelsene i denne paragraf i kraft 1. april 1998. For bilbelter som monteres av beltefabrikant trer bestemmelsen i kraft 1. oktober 1998. Bestemmelsen gjelder også ettermontering av bilbelter 1. april 1998 eller senere. Direktiv [2005/40/EF](eu/32005l0040) og direktiv [2005/41/EF](eu/32005l0041) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer.
+2\. Ikrafttredelse.
+
+For så vidt gjelder festepunkter trer bestemmelsene i denne paragraf i kraft 1. april 1998. For bilbelter som monteres av beltefabrikant trer bestemmelsen i kraft 1. oktober 1998. Bestemmelsen gjelder også ettermontering av bilbelter 1. april 1998 eller senere. Direktiv [2005/40/EF](eu/32005l0040) og direktiv [2005/41/EF](eu/32005l0041) trer i kraft 21. april 2006 for typegodkjenning av nye kjøretøytyper, 20. oktober 2006 for utstedelse av typegodkjenninger og 20. oktober 2007 for nye registreringer.
 
 > Endret ved [forskrift 18 aug 2006 nr. 984](forskrift/2006-08-18-984).
 
@@ -2804,7 +3610,14 @@ Nødutgang skal ved utløsermekanismen på innsiden være tydelig og varig merke
 
 3\. Bil som tilfredsstiller direktiv [74/408/EØF](eu/31974l0408), eventuelt som endret ved direktiv [81/577/EØF](eu/31981l0577), direktiv [96/37/EF](eu/31996l0037*) eller direktiv [2005/39/EF](eu/32005l0039), og direktiv [74/60/EØF](eu/31974l0060*), som endret ved direktiv [78/632/EØF](eu/31978l0632), anses å oppfylle bestemmelsene i nr. 1 og 2.
 
-4\. Antall sitteplasser bestemmes av fabrikanten ut fra den plass som finnes og største aksellaster og totalvekt, med følgende unntak, jf. også [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 6:Tohjuls moped tillates ikke registrert for passasjerer.For beltebil gjelder ikke begrensningen i forhold til største aksellaster.Tilhenger/tilhengerredskap tillates ikke registrert for transport av personer.I bårerom i ambulansebil tillates ikke sitteinnretning foran båre som registrert sitteplass. Dette gjelder likevel ikke for én fremoverrettet sitteinnretning foran båre i ambulansebil med to bårer. Med området foran båre menes hele høyden av området i bårens forlengelse framover.Ved bestemmelse av antall sitteplasser skal det tas hensyn til dimensjonskrav m.m. som fremkommer i dette kapittel. Dette innebærer blant annet at fabrikanten ikke kan fastsette et antall sitteplasser som medfører klassifisering som buss, med mindre dimensjonskravene til seter for buss er oppfylt. Det innebærer også at det skal være tilstrekkelig nyttelast (75 kg for hver sitteplass) og at hver sitteplass er utstyrt med bilbelter i henhold til [kap. 16](forskrift/1994-10-04-918/kap16).
+4\. Antall sitteplasser bestemmes av fabrikanten ut fra den plass som finnes og største aksellaster og totalvekt, med følgende unntak, jf. også [§ 6-3](forskrift/1994-10-04-918/§6-3) nr. 6:
+
+1. Tohjuls moped tillates ikke registrert for passasjerer.
+2. For beltebil gjelder ikke begrensningen i forhold til største aksellaster.
+3. Tilhenger/tilhengerredskap tillates ikke registrert for transport av personer.
+4. I bårerom i ambulansebil tillates ikke sitteinnretning foran båre som registrert sitteplass. Dette gjelder likevel ikke for én fremoverrettet sitteinnretning foran båre i ambulansebil med to bårer. Med området foran båre menes hele høyden av området i bårens forlengelse framover.
+
+Ved bestemmelse av antall sitteplasser skal det tas hensyn til dimensjonskrav m.m. som fremkommer i dette kapittel. Dette innebærer blant annet at fabrikanten ikke kan fastsette et antall sitteplasser som medfører klassifisering som buss, med mindre dimensjonskravene til seter for buss er oppfylt. Det innebærer også at det skal være tilstrekkelig nyttelast (75 kg for hver sitteplass) og at hver sitteplass er utstyrt med bilbelter i henhold til [kap. 16](forskrift/1994-10-04-918/kap16).
 
 5\. Fastmonterte sitteinnretninger er ikke tillatt i godsrom og på lasteplan for kjøretøy i kategori N. Dette gjelder ikke militærtaktiske biler registrert på forsvaret.
 
@@ -2836,9 +3649,15 @@ Direktiv [2005/39/EF](eu/32005l0039)
 
 ### § 18-3. Sitteinnretninger i buss med mindre enn 17 passasjerplasser som ikke omfattes av § 8-1
 
-1\. Plass for sittende passasjerer skal være minst 450 mm bred i området fra sitteputen og oppover til 500 mm over denne. Over 500 mm tillates plassen ved vegg å smalne av innover med maksimalt 15° oppover til en høyde over sitteputen på 900 mm. Sitteputens høyde over gulvet skal være minst 300 mm. I en avstand på 150 mm innover fra vegg tillates dog at høyden reduseres til 150 mm. (Se fig. 1.) Kravet om minimum 300 mm høyde fra gulv til sittepute kan fravikes for seter over hjulkasser og mellomakseltunnel.Den vertikale avstanden fra sitteputen til tak eller annen hindring skal være minst 900 mm målt fra midt i sitteputen.
+1\. Plass for sittende passasjerer skal være minst 450 mm bred i området fra sitteputen og oppover til 500 mm over denne. Over 500 mm tillates plassen ved vegg å smalne av innover med maksimalt 15° oppover til en høyde over sitteputen på 900 mm. Sitteputens høyde over gulvet skal være minst 300 mm. I en avstand på 150 mm innover fra vegg tillates dog at høyden reduseres til 150 mm. (Se fig. 1.) Kravet om minimum 300 mm høyde fra gulv til sittepute kan fravikes for seter over hjulkasser og mellomakseltunnel.
 
-2\. Seteputens dybde og bredde skal være minst 400 mm x 400 mm.Den horisontale avstanden fra seteryggen og framover i sitteinnretningen som passasjer skal ha til disposisjon skal være minst 650 mm målt i en høyde av 50 mm over sitteputen. (Se fig. 1.) I en høyde på 100 mm fra gulvet skal benplassen i lengderetningen være minimum 300 mm. Målet på 300 mm kan godt være parallellforskjøvet i forhold til det som er vist i figuren.Ryggputens høyde over sitteputen skal være minimum 400 mm.
+Den vertikale avstanden fra sitteputen til tak eller annen hindring skal være minst 900 mm målt fra midt i sitteputen.
+
+2\. Seteputens dybde og bredde skal være minst 400 mm x 400 mm.
+
+Den horisontale avstanden fra seteryggen og framover i sitteinnretningen som passasjer skal ha til disposisjon skal være minst 650 mm målt i en høyde av 50 mm over sitteputen. (Se fig. 1.) I en høyde på 100 mm fra gulvet skal benplassen i lengderetningen være minimum 300 mm. Målet på 300 mm kan godt være parallellforskjøvet i forhold til det som er vist i figuren.
+
+Ryggputens høyde over sitteputen skal være minimum 400 mm.
 
 3\. Måling skal skje ved ubelastede seter, og med ryggputene stående i oppreist stilling dersom ryggputene er justerbare. Seter som er justerbare i lengderetningen skal stå i midtposisjon ved måling.
 
@@ -2910,9 +3729,15 @@ Fig. 1
 
 1\. Motorsykkel (uten sidevogn) tillates ikke registrert for mer enn to personer.
 
-2\. Motorsykkel som registreres for to personer skal være utstyrt med hensiktsmessig bøyle plassert bak sitteinnretningen hvor passasjeren kan holde seg fast og/eller setestropp med wire eller fiberinnlegg som tåler en kraft på 2.000 N.Motorsykkel som tilfredsstiller direktiv [93/32/EØF](eu/31993l0032*) anses å møte dette kravet.
+2\. Motorsykkel som registreres for to personer skal være utstyrt med hensiktsmessig bøyle plassert bak sitteinnretningen hvor passasjeren kan holde seg fast og/eller setestropp med wire eller fiberinnlegg som tåler en kraft på 2.000 N.
 
-3\. To- og trehjulet motorvogn skal ha tilfredsstillende fothviler, fotbrett e.l. og kjedekasse i tilslutning til sitteinnretning for fører og passasjer.To fothvilere regnes som tilfredsstillende for kjøretøy som registreres for en person. For kjøretøy som registreres for to personer regnes 4 fothvilere som tilfredsstillende.Det er ikke tillatt med fester e.l. for flere fothvilere enn det antall som regnes som tilfredsstillende i forhold til det antall personer kjøretøyet registreres for.
+Motorsykkel som tilfredsstiller direktiv [93/32/EØF](eu/31993l0032*) anses å møte dette kravet.
+
+3\. To- og trehjulet motorvogn skal ha tilfredsstillende fothviler, fotbrett e.l. og kjedekasse i tilslutning til sitteinnretning for fører og passasjer.
+
+To fothvilere regnes som tilfredsstillende for kjøretøy som registreres for en person. For kjøretøy som registreres for to personer regnes 4 fothvilere som tilfredsstillende.
+
+Det er ikke tillatt med fester e.l. for flere fothvilere enn det antall som regnes som tilfredsstillende i forhold til det antall personer kjøretøyet registreres for.
 
 4\. Bestemmelsene i denne paragraf gjelder for to- og trehjulede motorvogner som er typegodkjent i Norge før 1. oktober 1999 og/eller som registreres før 17. juni 2003.
 
@@ -2942,7 +3767,9 @@ Fig. 1
 
 1\. Alle betjeningsinnretninger som skal brukes under kjøring må være slik innrettet og plassert at føreren kan betjene dem på en lett og sikker måte, også når det brukes bilbelte. Instrumentbelysning og kontrollamper må ha tilstrekkelig styrke uten å virke blendende.
 
-2\. Betjeningsinnretninger på biler som tilfredsstiller kravene i direktiv [78/316/EØF](eu/31978l0316), eventuelt som endret ved direktiv [93/91/EØF](eu/31993l0091) eller direktiv [94/53/EF](eu/31994l0053), anses å oppfylle bestemmelsene i nr. 1.Det samme gjelder for betjeningsinnretninger på to- og trehjulede motorvogner som tilfredsstiller kravene i direktiv [93/29/EØF](eu/31993l0029) eventuelt som endret ved direktiv [2000/74/EF](eu/32000l0074), eller direktiv [2009/80/EF](eu/32009l0080), og på jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [86/415/EØF](eu/31986l0415), eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054) og direktiv [2010/22/EU](eu/32010l0022).
+2\. Betjeningsinnretninger på biler som tilfredsstiller kravene i direktiv [78/316/EØF](eu/31978l0316), eventuelt som endret ved direktiv [93/91/EØF](eu/31993l0091) eller direktiv [94/53/EF](eu/31994l0053), anses å oppfylle bestemmelsene i nr. 1.
+
+Det samme gjelder for betjeningsinnretninger på to- og trehjulede motorvogner som tilfredsstiller kravene i direktiv [93/29/EØF](eu/31993l0029) eventuelt som endret ved direktiv [2000/74/EF](eu/32000l0074), eller direktiv [2009/80/EF](eu/32009l0080), og på jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [86/415/EØF](eu/31986l0415), eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054) og direktiv [2010/22/EU](eu/32010l0022).
 
 3\. For to- og trehjulede motorvogner gjelder bestemmelsene i denne paragraf kjøretøy som vurderes etter direktiv [93/29/EØF](eu/31993l0029) eventuelt som endret ved direktiv [2000/74/EF](eu/32000l0074), som er typegodkjent i Norge før 1. oktober 1999 og/eller som registreres før 17. juni 2003. For kjøretøy som vurderes etter direktiv [2009/80/EF](eu/32009l0080) gjelder bestemmelsene for typegodkjenning av kjøretøy som finner sted etter 1. januar 2010.
 
@@ -2960,7 +3787,9 @@ Fig. 1
 
 4\. Godkjenning: Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at motorvognen tilfredsstiller ovennevnte krav. Dette gjelder ikke når motorvognen er ledsaget av gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv [70/156/EØF](eu/31970l0156*). Alternativt kan motorvogn, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
 
-5\. Ikrafttreden:For typegodkjenning av ny type kjøretøy trer kravene i kraft 6. september 2002.
+5\. Ikrafttreden:
+
+For typegodkjenning av ny type kjøretøy trer kravene i kraft 6. september 2002.
 
 ### § 19-3. Betjeningsinnretninger m.m. på to- og trehjulede motorvogner (direktiv 2009/80/EF)
 
@@ -3005,7 +3834,9 @@ Fig. 1
 
 ### § 20-1. Oppvarming og ventilasjon i bil og deres tilhengere (direktiv 2001/56/EF, eventuelt som endret ved direktiv 2004/78/EF og senest endret ved direktiv 2006/119/EF)
 
-1\. Fører- og eventuelt passasjerrom skal være utstyrt med oppvarmingsanlegg i henhold til direktiv [2001/56/EF](eu/32001l0056).For LPG-fyrt varmeanlegg gjelder kravene i direktiv [2001/56/EF](eu/32001l0056) som endret ved direktiv [2004/78/EF](eu/32004l0078*), som senest endret ved direktiv [2006/119/EF](eu/32006l0119).
+1\. Fører- og eventuelt passasjerrom skal være utstyrt med oppvarmingsanlegg i henhold til direktiv [2001/56/EF](eu/32001l0056).
+
+For LPG-fyrt varmeanlegg gjelder kravene i direktiv [2001/56/EF](eu/32001l0056) som endret ved direktiv [2004/78/EF](eu/32004l0078*), som senest endret ved direktiv [2006/119/EF](eu/32006l0119).
 
 2\. Virkeområde: Alle kjøretøy i gruppe M, N og O som er utstyrt med oppvarmingsanlegg.
 
@@ -3013,11 +3844,19 @@ Fig. 1
 
 4\. Godkjenning: Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at kjøretøyet tilfredsstiller ovennevnte krav. Dette gjelder ikke når kjøretøyet er ledsaget av gyldig samsvarssertifikat eller er merket med typegodkjenningsnummer i henhold til direktiv [70/156/EØF](eu/31970l0156*). Alternativt kan kjøretøy, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
 
-5\. Ikrafttreden direktiv [2001/56/EF](eu/32001l0056):9. mai 2004 for typegodkjenning av ny type kjøretøy.9. mai 2005 for salg og at komponenter tas i bruk som separate tekniske enheter, registrering av nye kjøretøy, unntatt kjøretøy som har varmeapparat som utnytter spillvarme og som bruker vann som varmemedium.
+5\. Ikrafttreden direktiv [2001/56/EF](eu/32001l0056):
 
-6\. Ikrafttreden for LPG-fyrt varmeanlegg (direktiv [2001/56/EF](eu/32001l0056) som endret ved [2004/78/EF](eu/32004l0078*)):1. januar 2006 for typegodkjenning av ny type kjøretøy.1. januar 2007 for salg og at komponenter tas i bruk som separate, tekniske enheter og for registrering av nye kjøretøy.
+- 9\. mai 2004 for typegodkjenning av ny type kjøretøy.
+- 9\. mai 2005 for salg og at komponenter tas i bruk som separate tekniske enheter, registrering av nye kjøretøy, unntatt kjøretøy som har varmeapparat som utnytter spillvarme og som bruker vann som varmemedium.
 
-7\. Ikrafttreden for LPG-fyrt varmeanlegg ([2001/56/EF](eu/32001l0056) som endret ved [2006/119/EF](eu/32006l0119)):1. april 2008 for typegodkjenning av ny type kjøretøy.
+6\. Ikrafttreden for LPG-fyrt varmeanlegg (direktiv [2001/56/EF](eu/32001l0056) som endret ved [2004/78/EF](eu/32004l0078*)):
+
+- 1\. januar 2006 for typegodkjenning av ny type kjøretøy.
+- 1\. januar 2007 for salg og at komponenter tas i bruk som separate, tekniske enheter og for registrering av nye kjøretøy.
+
+7\. Ikrafttreden for LPG-fyrt varmeanlegg ([2001/56/EF](eu/32001l0056) som endret ved [2006/119/EF](eu/32006l0119)):
+
+- 1\. april 2008 for typegodkjenning av ny type kjøretøy.
 
 > Endret ved [forskrifter 7 mars 2005 nr. 222](forskrift/2005-03-07-222), [30 okt 2007 nr. 1201](forskrift/2007-10-30-1201), [27 feb 2008 nr. 212](forskrift/2008-02-27-212).
 
@@ -3037,9 +3876,44 @@ Fig. 1
 
 4\. Godkjenning: Ved typegodkjenning av ny bil – og for nye, ikke typegodkjente biler ved første gangs registrering – skal det fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent uavhengig laboratorium om at direktiv [2006/40/EF](eu/32006l0040) er tilfredsstilt. Dette gjelder ikke når kjøretøyet er ledsaget av gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv [70/156/EØF](eu/31970l0156*). Alternativt kan kjøretøy, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
 
-5\. Ikrafttredelse for direktiv [2006/40/EF](eu/32006l0040):Typegodkjenning:Fra 21. desember 2007 kan medlemsstatene ikke, med begrunnelse i utslipp fra klimaanlegg:nekte typegodkjenning av ny type kjøretøyforby registrering, salg eller at nye kjøretøy tas i bruk.Fra 21. juni 2008 kan medlemsstatene ikke lenger typegodkjenne kjøretøy med installerte klimaanlegg som er konstruert for å inneholde kjølemedier med en GWP-verdi på mer enn 150, med mindre lekkasjene fra anlegget ikke overstiger 40 g fluorholdige drivhusgasser i året for anlegg med én fordamper, og 60 g i året for anlegg med to fordampere.Fra 21. juni 2009 skal medlemsstatene når det gjelder nye kjøretøy med klimaanlegg som benytter kjølemedier med en GWP-verdi på mer enn 150, med mindre lekkasjene fra anlegget ikke overstiger 40 g fluorholdige drivhusgasser i året for anlegg med én fordamper, og 60 g i året for anlegg med to fordampere:nekte registrering, salg og at kjøretøyene tas i bruk.Fra 1. januar 2011 kan ikke medlemsstatene typegodkjenne kjøretøytyper med klimaanlegg som er konstruert for å inneholde fluorholdige kjølemedier med en GWP-verdi på mer enn 150.Fra 1. januar 2017 skal medlemsstatene hva angår nye kjøretøy med klimaanlegg som er konstruert for å inneholde fluorholdige kjølemedier med en GWP-verdi på mer enn 150:nekte registrering, salg og at kjøretøyene tas i bruk.Ettermontering:Fra 1. januar 2011 kan ikke klimaanlegg som inneholder klimagasser med en GWP-verdi på mer enn 150 ettermonteres i kjøretøy som er typegodkjent fra den dato.Fra 1. januar 2017 kan ikke slike anlegg ettermonteres i noen kjøretøy.Etterfylling:Klimaanlegg som er montert i kjøretøy som er typegodkjent 1. januar 2011 eller senere kan ikke påfylles fluorholdige kjølemedier, som drivhusgass med en GWP-verdi på mer enn 150.Fra 1. januar 2017 kan ingen klimaanlegg i kjøretøy påfylles fluorholdige kjølemedier med en GWP-verdi på mer enn 150, med unntak av etterfylling av klimaanlegg som inneholder slike kjølemedier, og som er montert i kjøretøyene før denne dato.Dersom det er et unormalt stort utslipp eller stor utsiving av kjølemediet fra systemet, skal ikke tjenesteytere som tilbyr service og reparasjon av klimaanlegg fylle slikt utstyr med fluorholdige drivhusgasser før nødvendig reparasjon er utført.
+5\. Ikrafttredelse for direktiv [2006/40/EF](eu/32006l0040):
 
-6\. Administrative bestemmelser om typegodkjenning og om en utsivingsdeteksjonstest: EØS-avtalen vedlegg II kap. I nr. 45zr (forordning [(EF) nr. 706/2007](eu/32007r0706)) om fastsettelse, i henhold til Europaparlamentets og Rådets direktiv [2006/40/EF](eu/32006l0040), av administrative bestemmelser om EF-typegodkjenning av kjøretøy, og om en harmonisert deteksjonstest av utsiving fra visse klimaanlegg, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.Forordningen anvendes fra 5. januar 2008.
+Typegodkjenning:
+
+Fra 21. desember 2007 kan medlemsstatene ikke, med begrunnelse i utslipp fra klimaanlegg:
+
+- nekte typegodkjenning av ny type kjøretøy
+- forby registrering, salg eller at nye kjøretøy tas i bruk.
+
+Fra 21. juni 2008 kan medlemsstatene ikke lenger typegodkjenne kjøretøy med installerte klimaanlegg som er konstruert for å inneholde kjølemedier med en GWP-verdi på mer enn 150, med mindre lekkasjene fra anlegget ikke overstiger 40 g fluorholdige drivhusgasser i året for anlegg med én fordamper, og 60 g i året for anlegg med to fordampere.
+
+Fra 21. juni 2009 skal medlemsstatene når det gjelder nye kjøretøy med klimaanlegg som benytter kjølemedier med en GWP-verdi på mer enn 150, med mindre lekkasjene fra anlegget ikke overstiger 40 g fluorholdige drivhusgasser i året for anlegg med én fordamper, og 60 g i året for anlegg med to fordampere:
+
+- nekte registrering, salg og at kjøretøyene tas i bruk.
+
+Fra 1. januar 2011 kan ikke medlemsstatene typegodkjenne kjøretøytyper med klimaanlegg som er konstruert for å inneholde fluorholdige kjølemedier med en GWP-verdi på mer enn 150.
+
+Fra 1. januar 2017 skal medlemsstatene hva angår nye kjøretøy med klimaanlegg som er konstruert for å inneholde fluorholdige kjølemedier med en GWP-verdi på mer enn 150:
+
+- nekte registrering, salg og at kjøretøyene tas i bruk.
+
+Ettermontering:
+
+Fra 1. januar 2011 kan ikke klimaanlegg som inneholder klimagasser med en GWP-verdi på mer enn 150 ettermonteres i kjøretøy som er typegodkjent fra den dato.
+
+Fra 1. januar 2017 kan ikke slike anlegg ettermonteres i noen kjøretøy.
+
+Etterfylling:
+
+Klimaanlegg som er montert i kjøretøy som er typegodkjent 1. januar 2011 eller senere kan ikke påfylles fluorholdige kjølemedier, som drivhusgass med en GWP-verdi på mer enn 150.
+
+Fra 1. januar 2017 kan ingen klimaanlegg i kjøretøy påfylles fluorholdige kjølemedier med en GWP-verdi på mer enn 150, med unntak av etterfylling av klimaanlegg som inneholder slike kjølemedier, og som er montert i kjøretøyene før denne dato.
+
+Dersom det er et unormalt stort utslipp eller stor utsiving av kjølemediet fra systemet, skal ikke tjenesteytere som tilbyr service og reparasjon av klimaanlegg fylle slikt utstyr med fluorholdige drivhusgasser før nødvendig reparasjon er utført.
+
+6\. Administrative bestemmelser om typegodkjenning og om en utsivingsdeteksjonstest: EØS-avtalen vedlegg II kap. I nr. 45zr (forordning [(EF) nr. 706/2007](eu/32007r0706)) om fastsettelse, i henhold til Europaparlamentets og Rådets direktiv [2006/40/EF](eu/32006l0040), av administrative bestemmelser om EF-typegodkjenning av kjøretøy, og om en harmonisert deteksjonstest av utsiving fra visse klimaanlegg, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordningen anvendes fra 5. januar 2008.
 
 > Tilføyd ved [forskrift 30 okt 2007 nr. 1201](forskrift/2007-10-30-1201), endret ved [forskrifter 27 feb 2008 nr. 212](forskrift/2008-02-27-212), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038).
 
@@ -3123,7 +3997,15 @@ Ettermontering av hjelpekraftstyring.
 
 3.1
 
-Ettermontering av hjelpekraftstyring (servostyring) på bil som ikke originalt fra fabrikken er utstyrt med slikt, tillates på følgende vilkår:Bil som påmonteres hjelpekraftstyring skal fremstilles hos Statens vegvesen for godkjenning av styreinnretningen.Det skal ved godkjenningen fremlegges retningslinjer fra produsenten eller bilfabrikanten for montering av vedkommende type styreinnretning på vedkommende type bil. Retningslinjene skal være på norsk, dansk eller svensk og være entydige og klare. Retningslinjene skal være fulgt ved monteringen.Det må ikke foretas sveising på de deler av styringen som ligger mellom hjulene og det punkt hvor hjelpekraften eller dens reaksjonskraft virker. (Fullt belastede deler). Styredeler som ligger mellom dette punkt og styreinnretningen (delvis belastede deler) kan sveises dersom det foreligger bekreftelse fra kompetent institusjon om at det aktuelle materiale er godt sveisbart ved nærmere definerte sveisebetingelser og at disse betingelser er oppfylt. Det må fremlegges bevitnelse fra institusjonen som foretar sveisekontrollen om at sveisingen er fullgod.Godkjent verksted skal kontrollere hjulstillingsvinklene etter at hjelpekraftstyringen er montert. Bevitnelse om dette skal fremlegges ved godkjenningen.Feil vedrørende energitilførsel e.l. til hjelpekraftstyringen må ikke medføre at bremsene svikter eller at bilen ikke kan styres.Montering av hjelpekraftstyring må ikke redusere bilens bakkeklaring, øke dens svingradius eller ha annen uheldig innflytelse på bilen.Hjelpekraften skal ha tilstrekkelig virkning – også når motoren går på normalt tomgangsturtall.
+Ettermontering av hjelpekraftstyring (servostyring) på bil som ikke originalt fra fabrikken er utstyrt med slikt, tillates på følgende vilkår:
+
+1. Bil som påmonteres hjelpekraftstyring skal fremstilles hos Statens vegvesen for godkjenning av styreinnretningen.
+2. Det skal ved godkjenningen fremlegges retningslinjer fra produsenten eller bilfabrikanten for montering av vedkommende type styreinnretning på vedkommende type bil. Retningslinjene skal være på norsk, dansk eller svensk og være entydige og klare. Retningslinjene skal være fulgt ved monteringen.
+3. Det må ikke foretas sveising på de deler av styringen som ligger mellom hjulene og det punkt hvor hjelpekraften eller dens reaksjonskraft virker. (Fullt belastede deler). Styredeler som ligger mellom dette punkt og styreinnretningen (delvis belastede deler) kan sveises dersom det foreligger bekreftelse fra kompetent institusjon om at det aktuelle materiale er godt sveisbart ved nærmere definerte sveisebetingelser og at disse betingelser er oppfylt. Det må fremlegges bevitnelse fra institusjonen som foretar sveisekontrollen om at sveisingen er fullgod.
+4. Godkjent verksted skal kontrollere hjulstillingsvinklene etter at hjelpekraftstyringen er montert. Bevitnelse om dette skal fremlegges ved godkjenningen.
+5. Feil vedrørende energitilførsel e.l. til hjelpekraftstyringen må ikke medføre at bremsene svikter eller at bilen ikke kan styres.
+6. Montering av hjelpekraftstyring må ikke redusere bilens bakkeklaring, øke dens svingradius eller ha annen uheldig innflytelse på bilen.
+7. Hjelpekraften skal ha tilstrekkelig virkning – også når motoren går på normalt tomgangsturtall.
 
 4\.
 
@@ -3165,9 +4047,18 @@ Tilhenger/tilhengerredskap som oppfyller kravene i direktiv [70/311/EØF](eu/319
 
 ### § 22-1. Generelt om drivstoffanlegg
 
-1\. Motorvogns drivstoffanlegg for flytende eller gassformig drivstoff skal være solid og fritt for lekkasje. Anlegget må være slik utført, plassert, festet og beskyttet at det ikke påføres skade ved mekaniske påkjenninger eller varmepåkjenninger og at fare for brann ved eventuell lekkasje så langt mulig unngås.Materialene i drivstoffanlegget må være motstandsdyktige mot korrosjon, varme og kulde og være egnet for det drivstoff som skal brukes og ikke være lett brennbare.Motorvogn som tilfredsstiller kravene i direktiv [70/221/EØF](eu/31970l0221*), eventuelt som endret ved direktiv [79/490/EØF](eu/31979l0490*), direktiv [81/333/EØF](eu/31981l0333), direktiv [97/19/EF](eu/31997l0019) eller direktiv [2000/8/EF](eu/32000l0008*), anses å oppfylle bestemmelsene i første og annet ledd.
+1\. Motorvogns drivstoffanlegg for flytende eller gassformig drivstoff skal være solid og fritt for lekkasje. Anlegget må være slik utført, plassert, festet og beskyttet at det ikke påføres skade ved mekaniske påkjenninger eller varmepåkjenninger og at fare for brann ved eventuell lekkasje så langt mulig unngås.
 
-2\. Drivstofftank av plast tillates, så sant den for følgende kategorier motorvogner tilfredsstiller følgende krav:*For bil:* ECE-reg.nr. 34 annex 5 eller direktiv [70/221/EØF](eu/31970l0221*), eventuelt som endret ved direktiv [79/490/EØF](eu/31979l0490*), direktiv [81/333/EØF](eu/31981l0333), direktiv [97/19/EF](eu/31997l0019) eller direktiv [2000/8/EF](eu/32000l0008*).*For beltemotorsykkel:* Som nevnt under a) eller SAE Recommended Practice J 288, October 1972.*For traktor og motorredskap:* ECE-reg.nr. 34 annex 5 eller direktiv [74/151/EØF](eu/31974l0151*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054) eller direktiv [98/38/EF](eu/31998l0038), eller direktiv [2009/63/EF](eu/32009l0063).*For to- og trehjulede motorvogner:* Som kravene under bokstav a) eller direktiv [97/24/EF](eu/31997l0024*) [kapittel 6](forskrift/1994-10-04-918/kap6).
+Materialene i drivstoffanlegget må være motstandsdyktige mot korrosjon, varme og kulde og være egnet for det drivstoff som skal brukes og ikke være lett brennbare.
+
+Motorvogn som tilfredsstiller kravene i direktiv [70/221/EØF](eu/31970l0221*), eventuelt som endret ved direktiv [79/490/EØF](eu/31979l0490*), direktiv [81/333/EØF](eu/31981l0333), direktiv [97/19/EF](eu/31997l0019) eller direktiv [2000/8/EF](eu/32000l0008*), anses å oppfylle bestemmelsene i første og annet ledd.
+
+2\. Drivstofftank av plast tillates, så sant den for følgende kategorier motorvogner tilfredsstiller følgende krav:
+
+1. *For bil:* ECE-reg.nr. 34 annex 5 eller direktiv [70/221/EØF](eu/31970l0221*), eventuelt som endret ved direktiv [79/490/EØF](eu/31979l0490*), direktiv [81/333/EØF](eu/31981l0333), direktiv [97/19/EF](eu/31997l0019) eller direktiv [2000/8/EF](eu/32000l0008*).
+2. *For beltemotorsykkel:* Som nevnt under a) eller SAE Recommended Practice J 288, October 1972.
+3. *For traktor og motorredskap:* ECE-reg.nr. 34 annex 5 eller direktiv [74/151/EØF](eu/31974l0151*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054) eller direktiv [98/38/EF](eu/31998l0038), eller direktiv [2009/63/EF](eu/32009l0063).
+4. *For to- og trehjulede motorvogner:* Som kravene under bokstav a) eller direktiv [97/24/EF](eu/31997l0024*) [kapittel 6](forskrift/1994-10-04-918/kap6).
 
 3\. For to- og trehjulede motorvogner gjelder bestemmelsene i denne paragraf kjøretøy som er typegodkjent i Norge før 1. oktober 1999 og/eller som registreres før 17. juni 2003.
 
@@ -3224,7 +4115,11 @@ Tilhenger/tilhengerredskap som oppfyller kravene i direktiv [70/311/EØF](eu/319
 1. Kravnivå: ECE-regulativ 115.
 2. Virkeområde: Kjøretøygruppe M og N med de unntak som følger av § 1.4 i regulativ 115.
 3. Alternativ standard: Ingen.
-4. Kjøretøy skal fremstilles for ny godkjenning hos Statens vegvesen etter montering av CNG- eller LPG-drivstoffanlegg.Kjøretøyet skal være merket i tråd med kravene til merking i ECE-reg. 115, som bevitnelse på at drivstoffanlegget tilfredsstiller ovennevnte krav. Alternativt kan det legges frem dokumentasjon fra kjøretøyfabrikant eller kompetent, uavhengig laboratorium på at kravene er tilfredsstilt.Installasjonsfirma skal framlegge erklæring på at ombygging er foretatt av spesielt opplært og autorisert personell, og at denne er utført på en betryggende måte og er i nøye samsvar med utstyrsfabrikantens anvisninger. Erklæring skal opplyse om hvilket personell som har utført installasjonen.Ved kombinert drift (bensin/LPG eller bensin/CNG) brukes drivstoffkode for bensin i vognkortet. I merknadsfelt gjøres følgende merknad: «Godkjent for LPG-drift», ev. «Godkjent for CNG-drift». Dessuten påføres godkjenningsdato og distriktskode.
+4. Kjøretøy skal fremstilles for ny godkjenning hos Statens vegvesen etter montering av CNG- eller LPG-drivstoffanlegg.
+
+   - Kjøretøyet skal være merket i tråd med kravene til merking i ECE-reg. 115, som bevitnelse på at drivstoffanlegget tilfredsstiller ovennevnte krav. Alternativt kan det legges frem dokumentasjon fra kjøretøyfabrikant eller kompetent, uavhengig laboratorium på at kravene er tilfredsstilt.
+   - Installasjonsfirma skal framlegge erklæring på at ombygging er foretatt av spesielt opplært og autorisert personell, og at denne er utført på en betryggende måte og er i nøye samsvar med utstyrsfabrikantens anvisninger. Erklæring skal opplyse om hvilket personell som har utført installasjonen.
+   - Ved kombinert drift (bensin/LPG eller bensin/CNG) brukes drivstoffkode for bensin i vognkortet. I merknadsfelt gjøres følgende merknad: «Godkjent for LPG-drift», ev. «Godkjent for CNG-drift». Dessuten påføres godkjenningsdato og distriktskode.
 5. Ikrafttredelse: Ettermontering av CNG-anlegg: fra 1. mai 2007 godtas dokumentasjon i henhold til regulativet og fra 1. januar 2008 er regulativet obligatorisk. Ettermontering av LPG-drivstoffanlegg: 1. januar 2008.
 
 > Tilføyd ved [forskrift 30 mars 2007 nr. 376](forskrift/2007-03-30-376), endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
@@ -3277,11 +4172,27 @@ Dokumentasjon for overenstemmelse med standard skal framlegges ved første gangs
 
 2.4
 
-Tanken skal ha tydelig og varig merking med følgende opplysninger:Produsentens navn eller merkeProduksjonsnummerGasstypeTotalvolumMaksimalt gassvolumPrøvetrykk og beregningstrykkProduksjonsårStandard/designkodeMerking som angir korrekt montering av tanken (orientering «OPP»)Maksimal gassfylling i kg/fyllingsgrad.
+Tanken skal ha tydelig og varig merking med følgende opplysninger:
+
+- Produsentens navn eller merke
+- Produksjonsnummer
+- Gasstype
+- Totalvolum
+- Maksimalt gassvolum
+- Prøvetrykk og beregningstrykk
+- Produksjonsår
+- Standard/designkode
+- Merking som angir korrekt montering av tanken (orientering «OPP»)
+- Maksimal gassfylling i kg/fyllingsgrad.
 
 2.5
 
-Tanken skal minst være utstyrt med følgende armatur (direkte påmontert):1 stk. fjærbelastet sikkerhetsventil med åpningstrykk 0,8-1,0 x prøvetrykket.1 stk. påfyllingsventil med tilbakeslagsventil og automatisk stengeanordning som trer i funksjon ved maks. 85% av tankens volum.1 stk. nivåmåler/sensor for registrering av væskenivået i tanken.1 stk. avstengningsventil med rørbruddsventil som automatisk stenger ved brudd på rørledning til motor. Avstengningsventilen kan være av manuell type eller av magnetventil type som åpnes og lukkes via tenningslåsen (ventil som er lukket i strømløs tilstand). Dersom manuell type benyttes, skal avstengningsventilen være lett tilgjengelig og ha tydelig merking for åpen/lukket stilling.
+Tanken skal minst være utstyrt med følgende armatur (direkte påmontert):
+
+- 1 stk. fjærbelastet sikkerhetsventil med åpningstrykk 0,8-1,0 x prøvetrykket.
+- 1 stk. påfyllingsventil med tilbakeslagsventil og automatisk stengeanordning som trer i funksjon ved maks. 85% av tankens volum.
+- 1 stk. nivåmåler/sensor for registrering av væskenivået i tanken.
+- 1 stk. avstengningsventil med rørbruddsventil som automatisk stenger ved brudd på rørledning til motor. Avstengningsventilen kan være av manuell type eller av magnetventil type som åpnes og lukkes via tenningslåsen (ventil som er lukket i strømløs tilstand). Dersom manuell type benyttes, skal avstengningsventilen være lett tilgjengelig og ha tydelig merking for åpen/lukket stilling.
 
 2.6
 
@@ -3503,13 +4414,23 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 ### § 23-1. Motor og drivverk på bil
 
-1\. Bil med egenvekt 400 kg eller mer skal kunne kjøres bakover ved hjelp av motoren.Bil som tilfredsstiller kravene i direktiv [75/443/EØF](eu/31975l0443) vedlegg I, eventuelt som endret ved direktiv [97/39/EF](eu/31997l0039), anses å oppfylle bestemmelsene i første ledd.
+1\. Bil med egenvekt 400 kg eller mer skal kunne kjøres bakover ved hjelp av motoren.
 
-2\. Bil skal ha en effekt på minst 5,89 kW pr. tonn av største totalvekt. Effekten skal være målt og angitt i henhold til direktiv [80/1269//EØF](eu/31980l1269), som endret ved direktiv [88/195/EØF](eu/31988l0195*) og direktiv [89/491/EØF](eu/31989l0491), eventuelt som endret ved direktiv [97/21/EF](eu/31997l0021) eller direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85.For bil drevet av naturgass/LPG skal effekten være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), som endret senest ved direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85, tillegg 2.
+Bil som tilfredsstiller kravene i direktiv [75/443/EØF](eu/31975l0443) vedlegg I, eventuelt som endret ved direktiv [97/39/EF](eu/31997l0039), anses å oppfylle bestemmelsene i første ledd.
 
-3\. Ved godkjenning av bil som tilhører en avgiftsgruppe der avgiften delvis baseres på motorens effekt og/eller slagvolum, skal det fremlegges underlag fra fabrikant som viser effekt og slagvolum. Ved enkeltgodkjenning kan underlaget være offentlig dokument, f.eks. vognkort. Effekten skal være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), endret ved direktiv [88/195/EØF](eu/31988l0195*), eventuelt som endret ved direktiv [89/491/EØF](eu/31989l0491), direktiv [97/21/EF](eu/31997l0021) eller direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85.For bil drevet av naturgass/LPG skal effekten være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), som endret senest ved direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg. 85, tillegg 2. I henhold til direktiv [1999/99/EF](eu/31999l0099) skal gassbiler med bensintank på over 15 liter effektmåles med begge drivstoffer. Det skal fremlegge underlag som viser begge effektmålingene. Den høyeste skal legges til grunn.Dersom effekten etter disse standarder ikke er kjent, kan motoreffekten etter andre standarder brukes. Disse vil gi omtrent samme eller høyere effekttall enn ovennevnte standarder. Hjuleffekten tillates ikke brukt.
+2\. Bil skal ha en effekt på minst 5,89 kW pr. tonn av største totalvekt. Effekten skal være målt og angitt i henhold til direktiv [80/1269//EØF](eu/31980l1269), som endret ved direktiv [88/195/EØF](eu/31988l0195*) og direktiv [89/491/EØF](eu/31989l0491), eventuelt som endret ved direktiv [97/21/EF](eu/31997l0021) eller direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85.
 
-4\. Nr. 3 første og tredje ledd trer i kraft 1. januar 1998.Nr. 2 andre ledd og nr. 3 andre ledd trer i kraft for typegodkjenning 1. november 2000.
+For bil drevet av naturgass/LPG skal effekten være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), som endret senest ved direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85, tillegg 2.
+
+3\. Ved godkjenning av bil som tilhører en avgiftsgruppe der avgiften delvis baseres på motorens effekt og/eller slagvolum, skal det fremlegges underlag fra fabrikant som viser effekt og slagvolum. Ved enkeltgodkjenning kan underlaget være offentlig dokument, f.eks. vognkort. Effekten skal være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), endret ved direktiv [88/195/EØF](eu/31988l0195*), eventuelt som endret ved direktiv [89/491/EØF](eu/31989l0491), direktiv [97/21/EF](eu/31997l0021) eller direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg.nr. 85.
+
+For bil drevet av naturgass/LPG skal effekten være målt og angitt i henhold til direktiv [80/1269/EØF](eu/31980l1269), som endret senest ved direktiv [1999/99/EF](eu/31999l0099). Alternativt kan effekten være målt og angitt i henhold til ECE-reg. 85, tillegg 2. I henhold til direktiv [1999/99/EF](eu/31999l0099) skal gassbiler med bensintank på over 15 liter effektmåles med begge drivstoffer. Det skal fremlegge underlag som viser begge effektmålingene. Den høyeste skal legges til grunn.
+
+Dersom effekten etter disse standarder ikke er kjent, kan motoreffekten etter andre standarder brukes. Disse vil gi omtrent samme eller høyere effekttall enn ovennevnte standarder. Hjuleffekten tillates ikke brukt.
+
+4\. Nr. 3 første og tredje ledd trer i kraft 1. januar 1998.
+
+Nr. 2 andre ledd og nr. 3 andre ledd trer i kraft for typegodkjenning 1. november 2000.
 
 ### § 23-2. Tiltak mot ulovlig inngrep på to- og trehjulede motorvogner (direktiv 97/24/EF kapittel 7)
 
@@ -3580,7 +4501,9 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 2\. Ved godkjenning av beltemotorsykkel skal det fremlegges underlag fra fabrikant som viser motorens effekt. Ved enkeltgodkjenning kan underlaget være offentlig dokument, f.eks. vognkort.
 
-3\. Beltemotorsykkel skal være utstyrt med en lett tilgjengelig anordning som motoren kan stoppes med (stoppknapp). Anordningen skal være slik innrettet at den blir stående i stillingen «stopp» når den aktiveres.Beltemotorsykkel skal være utstyrt med en anordning som automatisk stopper beltemotorsykkelen dersom føreren faller av kjøretøyet (dødmannsknapp).
+3\. Beltemotorsykkel skal være utstyrt med en lett tilgjengelig anordning som motoren kan stoppes med (stoppknapp). Anordningen skal være slik innrettet at den blir stående i stillingen «stopp» når den aktiveres.
+
+Beltemotorsykkel skal være utstyrt med en anordning som automatisk stopper beltemotorsykkelen dersom føreren faller av kjøretøyet (dødmannsknapp).
 
 4\. Kravene i nr. 2 og 3 trer i kraft 15. april 2005 for nye typegodkjenninger og for nye registreringer.
 
@@ -3610,9 +4533,15 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 2\. Lyddempere skal ikke kunne settes ut av funksjon under kjøring.
 
-3\. Det skal ikke foretas endringer på lyddempere, motor eller annet som fører til høyere støynivå enn det som var tillatt for motorvognen ved første gangs registrering i Norge. Hvis motor eller eksossystem er endret slik at det ved en subjektiv bedømmelse kan være tvil om at dette er tilfelle, kan det kreves fremlagt dokumentasjon for at støynivået ikke overskrider det tillatte.Støykapsling skal ikke endres eller fjernes.Hvis motor eller eksossystem er endret slik at det ved en subjektiv bedømmelse kan være tvil om at dette er tilfelle, kan det kreves framlagt dokumentasjon for at støynivået ikke overskrider det tillatte.
+3\. Det skal ikke foretas endringer på lyddempere, motor eller annet som fører til høyere støynivå enn det som var tillatt for motorvognen ved første gangs registrering i Norge. Hvis motor eller eksossystem er endret slik at det ved en subjektiv bedømmelse kan være tvil om at dette er tilfelle, kan det kreves fremlagt dokumentasjon for at støynivået ikke overskrider det tillatte.
 
-4\. Motorvognens støynivå/turtall ved standstøymålemetoden etter ECE.Reg. No. 51 skal normalt være verdier oppgitt av motorvognfabrikanten. I de tilfeller der slike data ikke er tilgjengelige, kan i stedet godtas oppgitt verdier målt av kompetent laboratorium.Ved måling etter standstøymålemetoden skal motorvogn i bruk ikke ha høyere støynivå enn 5 dB (A) over det nivå som er oppgitt av fabrikanten for ny motorvogn, respektive 2 dB (A) over det nivå som er målt av laboratorium på det aktuelle eksemplar. Verdien i vognkortet er det som er oppgitt av fabrikanten (merket F), respektive målt av laboratorium (merket L).
+Støykapsling skal ikke endres eller fjernes.
+
+Hvis motor eller eksossystem er endret slik at det ved en subjektiv bedømmelse kan være tvil om at dette er tilfelle, kan det kreves framlagt dokumentasjon for at støynivået ikke overskrider det tillatte.
+
+4\. Motorvognens støynivå/turtall ved standstøymålemetoden etter ECE.Reg. No. 51 skal normalt være verdier oppgitt av motorvognfabrikanten. I de tilfeller der slike data ikke er tilgjengelige, kan i stedet godtas oppgitt verdier målt av kompetent laboratorium.
+
+Ved måling etter standstøymålemetoden skal motorvogn i bruk ikke ha høyere støynivå enn 5 dB (A) over det nivå som er oppgitt av fabrikanten for ny motorvogn, respektive 2 dB (A) over det nivå som er målt av laboratorium på det aktuelle eksemplar. Verdien i vognkortet er det som er oppgitt av fabrikanten (merket F), respektive målt av laboratorium (merket L).
 
 ### § 24-2. Alminnelige bestemmelser om støy fra bil
 
@@ -3672,7 +4601,16 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 |  |  | – med motoreffekt på 75 kW eller mer, men under 150 kW | 78 dB(A) |
 |  |  | – med motoreffekt på 150 kW eller mer | 80 dB(A) |
 
-4\. Unntak fra nr. 3.For bil i gruppe a) og c) skal grenseverdiene økes med 1 dB(A) dersom den er utstyrt med dieselmotor med direkte innsprøytning.For bil beregnet for bruk utenfor vei, og med tillatt totalvekt på mer enn 2.000 kg, skal grenseverdien økes med1 dB(A) dersom den har motor med effekt på under 150 kW2 dB(A) dersom den har motor med effekt på 150 kW eller merFor bil i gruppe a) som er utstyrt med manuell girkasse med flere enn fire gir forover, og som har en største motoreffekt på over 140 kW, og som har et forhold mellom største motoreffekt og største tillatte totalvekt som overskrider 75 kW/tonn, skal grenseverdiene økes med 1 dB(A) dersom hastigheten for bilen når den bakerste delen forlater måleområdet, er større enn 61 km/t i tredje gir.
+4\. Unntak fra nr. 3.
+
+For bil i gruppe a) og c) skal grenseverdiene økes med 1 dB(A) dersom den er utstyrt med dieselmotor med direkte innsprøytning.
+
+For bil beregnet for bruk utenfor vei, og med tillatt totalvekt på mer enn 2.000 kg, skal grenseverdien økes med
+
+- 1 dB(A) dersom den har motor med effekt på under 150 kW
+- 2 dB(A) dersom den har motor med effekt på 150 kW eller mer
+
+For bil i gruppe a) som er utstyrt med manuell girkasse med flere enn fire gir forover, og som har en største motoreffekt på over 140 kW, og som har et forhold mellom største motoreffekt og største tillatte totalvekt som overskrider 75 kW/tonn, skal grenseverdiene økes med 1 dB(A) dersom hastigheten for bilen når den bakerste delen forlater måleområdet, er større enn 61 km/t i tredje gir.
 
 5\. Trykkluftstøy. Støynivå etter direktiv [92/97/EØF](eu/31992l0097): 72 dB (A).
 
@@ -3704,11 +4642,18 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 Unntak
 
-For bil som hører inn under kategori som i ovenstående tabell har grenseverdi 77, 78 og 79 dB(A), og som har dieselmotor med direkte innsprøytning, skal grenseverdiene økes med 1 dB(A).For bil beregnet for bruk utenfor vei, og med tillatt totalvekt mer enn 2.000 kg, skal grenseverdiene økes med:1 dB(A) hvis bilen har motor som yter ikke over 150 kW ECE (204 hk)2 dB(A) hvis bilen har motor som yter over 150 kW ECE (204 hk)
+For bil som hører inn under kategori som i ovenstående tabell har grenseverdi 77, 78 og 79 dB(A), og som har dieselmotor med direkte innsprøytning, skal grenseverdiene økes med 1 dB(A).
+
+For bil beregnet for bruk utenfor vei, og med tillatt totalvekt mer enn 2.000 kg, skal grenseverdiene økes med:
+
+- 1 dB(A) hvis bilen har motor som yter ikke over 150 kW ECE (204 hk)
+- 2 dB(A) hvis bilen har motor som yter over 150 kW ECE (204 hk)
 
 4\. Som alternativ dokumentasjon godtas dokumentasjon for direktiv [70/157/EØF](eu/31970l0157), som senest endret ved direktiv [84/424/EØF](eu/31984l0424), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354), direktiv [89/491/EØF](eu/31989l0491), direktiv [92/97/EØF](eu/31992l0097), direktiv [96/20](eu/31996l0020) EF eller direktiv [1999/101/EF](eu/31999l0101).
 
-5\. *Erstatningseksosanlegg*Bil tillates utstyrt med erstatningseksosanlegg som tilfredsstiller vedlegg II i direktiv [70/157/EØF](eu/31970l0157), som endret senest ved direktiv [92/97/EØF](eu/31992l0097).
+5\. *Erstatningseksosanlegg*
+
+Bil tillates utstyrt med erstatningseksosanlegg som tilfredsstiller vedlegg II i direktiv [70/157/EØF](eu/31970l0157), som endret senest ved direktiv [92/97/EØF](eu/31992l0097).
 
 ### § 24-7. Støy fra to- eller trehjulede motorvogner (direktiv 97/24/EF kapittel 9, direktiv 2006/27/EF og direktiv 2009/108/EF)
 
@@ -3728,7 +4673,9 @@ For bil som hører inn under kategori som i ovenstående tabell har grenseverdi 
 | Direktiv [97/24/EØF](eu/31997l0024*), [kapittel 9](forskrift/1994-10-04-918/kap9) | Direktiv [2006/27/EF](eu/32006l0027*) | Alle | 1. juli 2007 | – |
 | Direktiv [97/24/EØF](eu/31997l0024*), [kapittel 9](forskrift/1994-10-04-918/kap9) | Direktiv [2009/108/EF](eu/32009l0108) | Alle | 1. mai 2010 | – |
 
-6\. Erstatningseksosanlegg:Erstatningseksosanlegg som monteres på to- og trehjulede motorvogner skal være godkjent og merket iht. direktiv [97/24/EF](eu/31997l0024*) [kapittel 9](forskrift/1994-10-04-918/kap9).
+6\. Erstatningseksosanlegg:
+
+Erstatningseksosanlegg som monteres på to- og trehjulede motorvogner skal være godkjent og merket iht. direktiv [97/24/EF](eu/31997l0024*) [kapittel 9](forskrift/1994-10-04-918/kap9).
 
 7\. Ikrafttreden:
 
@@ -3755,7 +4702,9 @@ For bil som hører inn under kategori som i ovenstående tabell har grenseverdi 
 
 4\. Som alternativ dokumentasjon kan godtas dokumentasjon for direktiv [78/1015/EØF](eu/31978l1015), som endret senest ved direktiv [89/235/EØF](eu/31989l0235), eventuelt som avløst av direktiv [97/24/EF](eu/31997l0024*) [kap. 9](forskrift/1994-10-04-918/kap9).
 
-5\. ErstatningseksosanleggErstatningseksosanlegg som monteres på motorsykkel skal være godkjent og merket iht. vedlegg II i direktiv [78/1015/EØF](eu/31978l1015), som endret senest ved direktiv [89/235/EØF](eu/31989l0235) eller direktiv [97/24/EF](eu/31997l0024*) [kapittel 9](forskrift/1994-10-04-918/kap9).
+5\. Erstatningseksosanlegg
+
+Erstatningseksosanlegg som monteres på motorsykkel skal være godkjent og merket iht. vedlegg II i direktiv [78/1015/EØF](eu/31978l1015), som endret senest ved direktiv [89/235/EØF](eu/31989l0235) eller direktiv [97/24/EF](eu/31997l0024*) [kapittel 9](forskrift/1994-10-04-918/kap9).
 
 ### § 24-9. Støy fra moped – kravnivå ECE-reg.nr. 63-00
 
@@ -3770,7 +4719,9 @@ For bil som hører inn under kategori som i ovenstående tabell har grenseverdi 
 
 ### § 24-10. Støy fra beltemotorsykkel
 
-1\. Ved typegodkjenning og – for ikke typegodkjente beltemotorsykler – ved første gangs registrering i Norge skal det fremlegges dokumentasjon fra fabrikanten eller fra kompetent, uavhengig laboratorium for at beltemotorsykkelen tilfredsstiller følgende krav:Støynivået målt etter målemetoden beskrevet i ECE-reg.nr. 41-01 eller direktiv [78/1015/EØF](eu/31978l1015), endret ved direktiv [87/56/EØF](eu/31987l0056), eventuelt som endret ved direktiv [89/235/EØF](eu/31989l0235), skal ikke overstige 85 dB (A).
+1\. Ved typegodkjenning og – for ikke typegodkjente beltemotorsykler – ved første gangs registrering i Norge skal det fremlegges dokumentasjon fra fabrikanten eller fra kompetent, uavhengig laboratorium for at beltemotorsykkelen tilfredsstiller følgende krav:
+
+Støynivået målt etter målemetoden beskrevet i ECE-reg.nr. 41-01 eller direktiv [78/1015/EØF](eu/31978l1015), endret ved direktiv [87/56/EØF](eu/31987l0056), eventuelt som endret ved direktiv [89/235/EØF](eu/31989l0235), skal ikke overstige 85 dB (A).
 
 ### § 24-11. Støy fra traktor
 
@@ -3782,13 +4733,17 @@ Traktor som tilfredsstiller kravene i vedlegg VI til direktiv [74/151/EØF](eu/3
 
 ### § 25-1. Avgasser – generelle krav til motorvogn
 
-1\. Motorvogn skal være innrettet, utstyrt og vedlikeholdt slik at den ikke unødig utvikler skadelig eller sjenerende gass eller røyk.Eksosanlegg skal være fritt for lekkasje og føre avgass fra motor og eventuelt varmeapparat ut i friluft på en hensiktsmessig måte.
+1\. Motorvogn skal være innrettet, utstyrt og vedlikeholdt slik at den ikke unødig utvikler skadelig eller sjenerende gass eller røyk.
+
+Eksosanlegg skal være fritt for lekkasje og føre avgass fra motor og eventuelt varmeapparat ut i friluft på en hensiktsmessig måte.
 
 ### § 25-2. Avgasser – generelle krav til bil
 
 1\. Bil skal holdes i en slik forfatning at utslippet av forurensende avgasser ikke blir nevneverdig endret. Dyser, justering mv. skal til enhver tid være som foreskrevet av fabrikanten, og eventuelle forseglinger tillates bare brutt når det skjer i overensstemmelse med fabrikantens retningslinjer.
 
-2\. Det er forbudt å montere utstyr som øker utslippet av forurensede avgasser med mindre det fremlegges dokumentasjon for at bilen tilfredsstiller de krav som ble lagt til grunn da den ble registrert første gang i Norge og utstyret er godkjent av Statens vegvesen.Ettermontering av avgassetterbehandlingsutstyr (f.eks. 3-veis katalysator og partikkelfilter) er bare tillatt dersom det foreligger dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at utstyret er utprøvd og tilpasset vedkommende biltype. Av dokumentasjonen skal det fremgå hvilken avgasstandard (EU-direktiv, ECE-regulativ osv.) biltypen er prøvet etter og tilfredsstiller.
+2\. Det er forbudt å montere utstyr som øker utslippet av forurensede avgasser med mindre det fremlegges dokumentasjon for at bilen tilfredsstiller de krav som ble lagt til grunn da den ble registrert første gang i Norge og utstyret er godkjent av Statens vegvesen.
+
+Ettermontering av avgassetterbehandlingsutstyr (f.eks. 3-veis katalysator og partikkelfilter) er bare tillatt dersom det foreligger dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at utstyret er utprøvd og tilpasset vedkommende biltype. Av dokumentasjonen skal det fremgå hvilken avgasstandard (EU-direktiv, ECE-regulativ osv.) biltypen er prøvet etter og tilfredsstiller.
 
 3\. Nr. 2 annet ledd trer i kraft 1. november 2000 for ettermontering og ibruktagelse, uansett når bilen er registrert.
 
@@ -3796,11 +4751,36 @@ Traktor som tilfredsstiller kravene i vedlegg VI til direktiv [74/151/EØF](eu/3
 
 ### § 25-3. Avgasser – krav til bil i bruk
 
-1\. Bil i bruk skal være slik vedlikeholdt og justert at følgende krav, som finnes i direktiv [96/96/EF](eu/31996l0096*), er tilfredsstilt.For bil med motor med elektrisk tenning, der motoren ikke styres av et avansert system som et treveiskatalysatorsystem med lambdasonde:Konsentrasjon av CO ved tomgang skal ikke overskride 3,5 volumprosent.For bil med motor med elektrisk tenning, der motoren styres av et avansert system som et treveiskatalysatorsystem med lambdasonde:Konsentrasjonen av CO ved tomgang skal ikke overskride 0,5 volumprosent eller etter fabrikantens anvisning. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 0,3% eller etter fabrikantens anvisning.Ved forhøyet tomgang – minst 2.000 o/min – skal konsentrasjonen av CO ikke overskride 0,3 volumprosent eller etter fabrikantens anvisning. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 0,2% eller etter fabrikantens anvisning. Lambdaverdien skal ligge innenfor 1 ± 0,03 eller etter fabrikantens anvisning.Følgende biler, som tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*), skal tilfredsstille de strengere grenseverdiene angitt over:*Kategori/klasse**Kjøretøyvekt, kg**Biler med bensinmotor registrert første gang fra og med*3M1–TTV1 ≤ 25001. januar 2001TTV > 25001. januar 2002N1IRV2 ≤ 13051. januar 2001II1305 < RV ≤ 17601. januar 2002III1760 < RV1. januar 2002
+1\. Bil i bruk skal være slik vedlikeholdt og justert at følgende krav, som finnes i direktiv [96/96/EF](eu/31996l0096*), er tilfredsstilt.
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.3 Kravene gjelder også for kjøretøy med bensinmotor registrert første gang 1. juli 2002 eller senere, som ikke tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*).
+1. For bil med motor med elektrisk tenning, der motoren ikke styres av et avansert system som et treveiskatalysatorsystem med lambdasonde:
 
-1. For bil med dieselmotor:Absorpsjonskoeffisienten målt med opasimeter ved fri akselerasjon, skal ikke overskride 2,5 m-1 for bil med sugemotor. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 1,5 m-1 eller etter fabrikantens anvisning.
+   Konsentrasjon av CO ved tomgang skal ikke overskride 3,5 volumprosent.
+2. For bil med motor med elektrisk tenning, der motoren styres av et avansert system som et treveiskatalysatorsystem med lambdasonde:
+
+   Konsentrasjonen av CO ved tomgang skal ikke overskride 0,5 volumprosent eller etter fabrikantens anvisning. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 0,3% eller etter fabrikantens anvisning.
+
+   Ved forhøyet tomgang – minst 2.000 o/min – skal konsentrasjonen av CO ikke overskride 0,3 volumprosent eller etter fabrikantens anvisning. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 0,2% eller etter fabrikantens anvisning. Lambdaverdien skal ligge innenfor 1 ± 0,03 eller etter fabrikantens anvisning.
+
+   Følgende biler, som tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*), skal tilfredsstille de strengere grenseverdiene angitt over:
+
+   | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Biler med bensinmotor registrert første gang fra og med*3 |
+   | --- | --- | --- | --- |
+   | M1 | – | TTV1 ≤ 2500 | 1. januar 2001 |
+   |  |  | TTV > 2500 | 1. januar 2002 |
+   | N1 | I | RV2 ≤ 1305 | 1. januar 2001 |
+   |  | II | 1305 < RV ≤ 1760 | 1. januar 2002 |
+   |  | III | 1760 < RV | 1. januar 2002 |
+
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
+
+3 Kravene gjelder også for kjøretøy med bensinmotor registrert første gang 1. juli 2002 eller senere, som ikke tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*).
+
+1. For bil med dieselmotor:
+
+   Absorpsjonskoeffisienten målt med opasimeter ved fri akselerasjon, skal ikke overskride 2,5 m-1 for bil med sugemotor. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 1,5 m-1 eller etter fabrikantens anvisning.
 
 Absorpsjonskoeffisienten målt med opasimeter ved fri akselerasjon, skal ikke overskride 3,0 m-1 for bil med turbolader. For kjøretøy angitt i tabellen i siste ledd er grenseverdien 1,5 m-1 eller etter fabrikantens anvisning.
 
@@ -3813,15 +4793,33 @@ Følgende biler, som tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) sene
 | N1 | I<br>II<br>III | RV2 ≤ 1305<br>1305 < RV≤ 1760<br>1760 < RV | 1. januar 2006<br>1. januar 2007<br>1. januar 2007 |
 | N2, N3 | – | TTV > 3500 | 1. oktober 2006 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.3 Kjøretøy med dieselmotor registrert første gang 1. juli 2008 eller senere som ikke tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*), senest endret ved direktiv [98/69/EF](eu/31998l0069*) trinn B og kjøretøy med dieselmotor registrert første gang 1. juli 2008 eller senere som ikke tilfredsstiller direktiv [88/77/EØF](eu/31988l0077) senest endret ved direktiv [1999/96/EF](eu/31999l0096) trinn B1, B2 eller C, skal tilfredsstille kravene fra og med 1. juli 2008.
+1 Tillatt totalvekt.
 
-2\. Reservedels-/utskiftningskatalysator (direktiv [2002/80/EF](eu/32002l0080), direktiv [2003/76/EF](eu/32003l0076))Som reservedels-/utskiftningskatalysator, skal personbiler (M1) og varebiler (N1) som er avgassgodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), endret ved direktiv [2002/80/EF](eu/32002l0080), eventuelt som endret ved direktiv [2003/76/EF](eu/32003l0076), benytte reservedels-/utskiftningskatalysator som er beregnet for å erstatte katalysatortypen som er originalmontert (omfattet av bilens avgasstypegodkjenning) på bilen. Reservedels-/utskiftningskatalysatoren skal være typegodkjent som en separat teknisk enhet som definert i artikkel 4(1)(d) i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [98/14/EF](eu/31998l0014*), som endret ved direktiv [2003/77/EF](eu/32003l0077) og tilfredsstille kravene i direktiv [70/220/EØF](eu/31970l0220*), som endret ved direktiv [2002/80/EF](eu/32002l0080) og senest ved direktiv [2003/76/EF](eu/32003l0076).I henhold til bilag XIII nr. 5 til direktivet skal reservedels-/utskiftningskatalysatoren være påført EØF-typegodkjenningsmerket, dvs. være e-merket. Merket består av et rektangel inneholdende bokstaven liten «e» og et nummer (for eksempel 24 for Irland) for landet som har meddelt typegodkjenningen. I nærheten av rektangelet skal «basisgodkjenningsnummeret» stå, som utgjør del 4 av bilens avgasstypegodkjenningsnummer som definert i bilag VII til direktiv [70/156/EØF](eu/31970l0156*). Foran dette nummeret skal det stå to siffer (et løpenummer) som angir seneste vesentlige tekniske endring av direktiv [70/220/EØF](eu/31970l0220*) gjeldende på det tidspunkt da det ble gitt typegodkjenning av reservedels-/utskiftningskatalysatoren. For reservedels-/utskiftningskatalysator typegodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), som endret ved direktiv [2002/80/EF](eu/32002l0080) og senest ved direktiv [2003/76/EF](eu/32003l0076), skal sifrene være «01».E-merkingen skal være lett leselig og uutslettelig og skal så vidt mulig være leselig når reservedels-/utskiftningskatalysator er montert på kjøretøyet.Under vises et eksempel på e-merking av en katalysator som er typegodkjent etter direktiv [70/220/EØF](eu/31970l0220*), senest endret ved en av de eldre utgavene, direktiv [98/77/EF](eu/31998l0077) til [2001/100/EF](eu/32001*0100):
+2 Referansevekt = egenvekt + 100 kg.
+
+3 Kjøretøy med dieselmotor registrert første gang 1. juli 2008 eller senere som ikke tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*), senest endret ved direktiv [98/69/EF](eu/31998l0069*) trinn B og kjøretøy med dieselmotor registrert første gang 1. juli 2008 eller senere som ikke tilfredsstiller direktiv [88/77/EØF](eu/31988l0077) senest endret ved direktiv [1999/96/EF](eu/31999l0096) trinn B1, B2 eller C, skal tilfredsstille kravene fra og med 1. juli 2008.
+
+2\. Reservedels-/utskiftningskatalysator (direktiv [2002/80/EF](eu/32002l0080), direktiv [2003/76/EF](eu/32003l0076))
+
+Som reservedels-/utskiftningskatalysator, skal personbiler (M1) og varebiler (N1) som er avgassgodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), endret ved direktiv [2002/80/EF](eu/32002l0080), eventuelt som endret ved direktiv [2003/76/EF](eu/32003l0076), benytte reservedels-/utskiftningskatalysator som er beregnet for å erstatte katalysatortypen som er originalmontert (omfattet av bilens avgasstypegodkjenning) på bilen. Reservedels-/utskiftningskatalysatoren skal være typegodkjent som en separat teknisk enhet som definert i artikkel 4(1)(d) i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [98/14/EF](eu/31998l0014*), som endret ved direktiv [2003/77/EF](eu/32003l0077) og tilfredsstille kravene i direktiv [70/220/EØF](eu/31970l0220*), som endret ved direktiv [2002/80/EF](eu/32002l0080) og senest ved direktiv [2003/76/EF](eu/32003l0076).
+
+I henhold til bilag XIII nr. 5 til direktivet skal reservedels-/utskiftningskatalysatoren være påført EØF-typegodkjenningsmerket, dvs. være e-merket. Merket består av et rektangel inneholdende bokstaven liten «e» og et nummer (for eksempel 24 for Irland) for landet som har meddelt typegodkjenningen. I nærheten av rektangelet skal «basisgodkjenningsnummeret» stå, som utgjør del 4 av bilens avgasstypegodkjenningsnummer som definert i bilag VII til direktiv [70/156/EØF](eu/31970l0156*). Foran dette nummeret skal det stå to siffer (et løpenummer) som angir seneste vesentlige tekniske endring av direktiv [70/220/EØF](eu/31970l0220*) gjeldende på det tidspunkt da det ble gitt typegodkjenning av reservedels-/utskiftningskatalysatoren. For reservedels-/utskiftningskatalysator typegodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), som endret ved direktiv [2002/80/EF](eu/32002l0080) og senest ved direktiv [2003/76/EF](eu/32003l0076), skal sifrene være «01».
+
+E-merkingen skal være lett leselig og uutslettelig og skal så vidt mulig være leselig når reservedels-/utskiftningskatalysator er montert på kjøretøyet.
+
+Under vises et eksempel på e-merking av en katalysator som er typegodkjent etter direktiv [70/220/EØF](eu/31970l0220*), senest endret ved en av de eldre utgavene, direktiv [98/77/EF](eu/31998l0077) til [2001/100/EF](eu/32001*0100):
 
 I henhold til bilag XIII nr. 7 til direktivet skal det ved markedsføring/salg av reservedels-/utskiftningskatalysator kunne identifiseres ved angivelse av katalysatorprodusentens navn eller merke, de kjøretøymodeller med produksjonsår som katalysatoren er beregnet for, og dersom det er relevant, en merking av om katalysatoren er egnet brukt på kjøretøy med egendiagnosesystem (OBD). Disse opplysningene skal for eksempel enten være i form av en folder som ledsager katalysatoren eller påført emballasje, og må i alle fall finnes i en produktkatalog som distribueres til salgsstedet av produsenten av reservedels-/utskiftningskatalysator.
 
 3\. Bestemmelsene i nr. 2 trer i kraft 1. juli 2003 for EØF-typegodkjenning av reservedels-/utskiftningskatalysator som separat enhet. Det er fortsatt tillatt å selge og montere nye reservedels-/utskiftningskatalysatorer med tidligere typegodkjenninger beregnet for kjøretøy som allerede er i bruk, jf. nr. 4.
 
-4\. Reservedels-/utskiftningskatalysator (direktiv [98/77/EF](eu/31998l0077))Som alternativ til original reservedelskatalysator, skal personbiler (M1 ) og varebiler (N1 ) som er avgassgodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*) og som ikke har montert egendiagnosesystemer (OBD), benytte reservedels-/utskiftningskatalysator som er beregnet for å erstatte katalysatortypen som er originalmontert (omfattet av bilens avgasstypegodkjenning) på bilen. Reservedelskatalysatoren skal være typegodkjent som en separat teknisk enhet som definert i artikkel 4(1)(d) i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [98/14/EF](eu/31998l0014*) og tilfredsstiller kravene i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [98/77/EØF](eu/31998l0077).I henhold til bilag XIII til direktivet skal reservedelskatalysatoren være påført EØF-typegodkjenningsmerket, dvs. være e-merket. Merket består av et rektangel inneholdende bokstaven liten «e» og et nummer (unntak: IRL for Irland) for landet som har meddelt typegodkjenningen. I nærheten av rektangelet skal «basisgodkjenningsnummeret», som utgjør del 4 av bilens avgasstypegodkjenningsnummer som definert i direktiv [70/156/EØF](eu/31970l0156*), bilag VII, stå. Foran dette nummeret skal det stå to siffer (et løpenummer) som angir seneste vesentlige tekniske endring av direktiv [70/220/EØF](eu/31970l0220*) gjeldende på det tidspunkt da det ble gitt typegodkjenning av reservedelskatalysatoren. For reservedelskatalysator typegodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), senest endret ved direktiv [98/77/EF](eu/31998l0077), skal sifrene være «00».Biler som er avgassgodkjent i henhold til andre standarder og/eller som har montert OBD, omfattes ikke av direktivet. Ikke-originale katalysatorer kan benyttes på disse bare dersom det foreligger dokumentasjon/bevitnelse/garanti fra bilfabrikant, katalysatorprodusent eller kompetent, uavhengig laboratorium for at katalysatoren er utprøvd og tilpasset vedkommende biltype. Av dokumentasjonen skal det fremgå hvilken avgasstandard (avgassdirektiv, -regulativ osv.) biltypen er prøvet etter og tilfredsstiller.
+4\. Reservedels-/utskiftningskatalysator (direktiv [98/77/EF](eu/31998l0077))
+
+Som alternativ til original reservedelskatalysator, skal personbiler (M1 ) og varebiler (N1 ) som er avgassgodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*) og som ikke har montert egendiagnosesystemer (OBD), benytte reservedels-/utskiftningskatalysator som er beregnet for å erstatte katalysatortypen som er originalmontert (omfattet av bilens avgasstypegodkjenning) på bilen. Reservedelskatalysatoren skal være typegodkjent som en separat teknisk enhet som definert i artikkel 4(1)(d) i direktiv [70/156/EØF](eu/31970l0156*) som endret ved direktiv [98/14/EF](eu/31998l0014*) og tilfredsstiller kravene i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [98/77/EØF](eu/31998l0077).
+
+I henhold til bilag XIII til direktivet skal reservedelskatalysatoren være påført EØF-typegodkjenningsmerket, dvs. være e-merket. Merket består av et rektangel inneholdende bokstaven liten «e» og et nummer (unntak: IRL for Irland) for landet som har meddelt typegodkjenningen. I nærheten av rektangelet skal «basisgodkjenningsnummeret», som utgjør del 4 av bilens avgasstypegodkjenningsnummer som definert i direktiv [70/156/EØF](eu/31970l0156*), bilag VII, stå. Foran dette nummeret skal det stå to siffer (et løpenummer) som angir seneste vesentlige tekniske endring av direktiv [70/220/EØF](eu/31970l0220*) gjeldende på det tidspunkt da det ble gitt typegodkjenning av reservedelskatalysatoren. For reservedelskatalysator typegodkjent i henhold til direktiv [70/220/EØF](eu/31970l0220*), senest endret ved direktiv [98/77/EF](eu/31998l0077), skal sifrene være «00».
+
+Biler som er avgassgodkjent i henhold til andre standarder og/eller som har montert OBD, omfattes ikke av direktivet. Ikke-originale katalysatorer kan benyttes på disse bare dersom det foreligger dokumentasjon/bevitnelse/garanti fra bilfabrikant, katalysatorprodusent eller kompetent, uavhengig laboratorium for at katalysatoren er utprøvd og tilpasset vedkommende biltype. Av dokumentasjonen skal det fremgå hvilken avgasstandard (avgassdirektiv, -regulativ osv.) biltypen er prøvet etter og tilfredsstiller.
 
 5\. Bestemmelsene i nr. 4 trer i kraft 1. oktober 1999 for godkjenning/registrering av bil, godkjenning av reservedels-/utskiftningskatalysator som separat enhet, montering og ibruktagelse av reservedels-/utskiftningskatalysator uansett når bilen er registrert.
 
@@ -3831,7 +4829,14 @@ I henhold til bilag XIII nr. 7 til direktivet skal det ved markedsføring/salg a
 
 EØS-avtalen vedlegg II kap. I nr. 45zt (forordning [(EF) nr. 715/2007](eu/32007r0715)) om typegodkjenning av motorkjøretøy med hensyn til avgassutslipp fra lette personbiler og lette nyttekjøretøy (Euro 5 og Euro 6), og om adgang til reparasjons- og vedlikeholdsinformasjon om kjøretøy, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
-EØS-avtalen vedlegg II kap. I nr. 45zu (forordning [(EF) nr. 692/2008](eu/32008r0692*)) om typegodkjenning av motorkjøretøy med hensyn til avgassutslipp fra lette personbiler og lette nyttekjøretøy (Euro 5 og Euro 6), og om adgang til reparasjons- og vedlikeholdsinformasjon om kjøretøy, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.Kravnivå:Forordning [(EF) nr. 715/2007](eu/32007r0715), «Euro 5 og Euro 6, lette» som senest endret ved forordning [(EF) nr. 692/2008](eu/32008r0692*).Virkeområde:Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+EØS-avtalen vedlegg II kap. I nr. 45zu (forordning [(EF) nr. 692/2008](eu/32008r0692*)) om typegodkjenning av motorkjøretøy med hensyn til avgassutslipp fra lette personbiler og lette nyttekjøretøy (Euro 5 og Euro 6), og om adgang til reparasjons- og vedlikeholdsinformasjon om kjøretøy, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+1. Kravnivå:
+
+   Forordning [(EF) nr. 715/2007](eu/32007r0715), «Euro 5 og Euro 6, lette» som senest endret ved forordning [(EF) nr. 692/2008](eu/32008r0692*).
+2. Virkeområde:
+
+   Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 > Tilføyd ved [forskrift 22 sep 2008 nr. 1038](forskrift/2008-09-22-1038). Endret ved [forskrift 9 okt 2009 nr. 1264](forskrift/2009-10-09-1264).
 
@@ -3874,7 +4879,11 @@ Grenseverdier i henhold til direktiv [70/220/EØF](eu/31970l0220*) som endret ve
 |  | II | 1.305 < RV<br>≤ 1.760 | 1,81 | 0,63 | 0,13 | 0,10 | 0,33 | 0,39 | 0,04 |
 |  | III | 1.760 < RV | 2,27 | 0,74 | 0,16 | 0,11 | 0,39 | 0,46 | 0,06 |
 
-1 Unntatt:biler med største totalvekt over 2.500 kg.2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse bestemmelsene.
+1 Unntatt:
+
+- biler med største totalvekt over 2.500 kg.
+
+2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse bestemmelsene.
 
 5\.
 
@@ -3893,7 +4902,9 @@ Direktiv [98/69/EF](eu/31998l0069*), «Euro 4, lette»:
 |  | II | 1.305 < RV ≤ 1.760 | 1. januar 2006 | 1. januar 2007 |
 |  | III | 1.760< RV | 1. januar 2006 | 1. januar 2007 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
 
 5.2.
 
@@ -3916,7 +4927,11 @@ Biler som underkastes typegodkjenning og/eller skal registreres, skal fra tidspu
 |  | II | 1305<RV≤1760 | 1. januar 2006 | 1. januar 2007 | 1. januar 2006 | 1. januar 2007 |
 |  | III | 1760<RV | 1. januar 2006 | 1. januar 2007 | 1. januar 2006 | 1. januar 2007 |
 
-1 Dieselbiler beregnet for flere enn seks personer inkludert føreren.2 Tillatt totalvekt.3 Referansevekt = egenvekt + 100 kg.
+1 Dieselbiler beregnet for flere enn seks personer inkludert føreren.
+
+2 Tillatt totalvekt.
+
+3 Referansevekt = egenvekt + 100 kg.
 
 5.3
 
@@ -3931,7 +4946,11 @@ Direktiv [2002/80/EF](eu/32002l0080) artikkel 2 og direktiv [2003/76/EF](eu/3200
 |  | II | 1305<RV≤1760 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 |  | III | 1760<RV | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.3 Direktivet gjelder ikke for kjøretøy som produseres i små serier (artikkel 8(2) i direktiv [70/156/EØF](eu/31970l0156*) har kommet til anvendelse).
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
+
+3 Direktivet gjelder ikke for kjøretøy som produseres i små serier (artikkel 8(2) i direktiv [70/156/EØF](eu/31970l0156*) har kommet til anvendelse).
 
 > Endret ved [forskrifter 16 nov 2004 nr. 1470](forskrift/2004-11-16-1470), [18 jan 2005 nr. 32](forskrift/2005-01-18-32), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-4).
 
@@ -3951,8 +4970,13 @@ Denne paragraf gjelder for motorvogner som ikke omfattes av [§ 25-4](forskrift/
 
 Virkeområde for direktiv [70/220/EØF](eu/31970l0220*), som endret ved direktiv [98/69/EF](eu/31998l0069*), i henhold til direktivets vedlegg 1 nr. 1:
 
-Dette direktiv får anvendelse påutslipp fra eksosrør ved normal og lav omgivelsestemperatur, fordampningsutslipp, utslipp av veivhusgasser, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for alle motorvogner som har motorer med elektrisk tenning,
-ogutslipp fra eksosrør, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for motorvogner i gruppe M1 og N1, utstyrt med kompresjonstenningsmotorersom omfattes av artikkel 1 i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [83/351/EØF](eu/31983l0351), unntatt de motorvognene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).
+Dette direktiv får anvendelse på
+
+- utslipp fra eksosrør ved normal og lav omgivelsestemperatur, fordampningsutslipp, utslipp av veivhusgasser, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for alle motorvogner som har motorer med elektrisk tenning,
+  og
+- utslipp fra eksosrør, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for motorvogner i gruppe M1 og N1, utstyrt med kompresjonstenningsmotorer
+
+som omfattes av artikkel 1 i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [83/351/EØF](eu/31983l0351), unntatt de motorvognene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).
 
 På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1 – eller N1 -kjøretøy utstyrt med dieselmotor som allerede er typegodkjent, til M2 – og N2 -kjøretøy med en referansemasse som ikke overstiger 2 840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning).
 
@@ -3989,7 +5013,13 @@ Grenseverdier i henhold til direktiv [70/220/EØF](eu/31970l0220*) som endret ve
 |  | II | 1.305 < RV<br>≤ 1.760 | 4,17 | 0,80 | 0,25 | 0,18 | 0,65 | 0,72 | 0,07 |
 |  | III | 1.760 < RV | 5,22 | 0,95 | 0,29 | 0,21 | 0,78 | 0,86 | 0,10 |
 
-1 Unntatt:biler med største totalvekt over 2.500 kg.biler med største tillatte totalvekt over 2.000 kg, utstyrt med dieselmotor og konstruert for flere enn seks personer inkludert føreren. Dette unntaket gjelder frem til 1. januar 2003.biler med største tillatte totalvekt over 2.000 kg, utstyrt med dieselmotor og er såkalte terrengbiler, som definert i anneks II til direktiv [70/156/EØF](eu/31970l0156*). Dette unntaket gjelder frem til 1. januar 2003.2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse bestemmelsene.
+1 Unntatt:
+
+- biler med største totalvekt over 2.500 kg.
+- biler med største tillatte totalvekt over 2.000 kg, utstyrt med dieselmotor og konstruert for flere enn seks personer inkludert føreren. Dette unntaket gjelder frem til 1. januar 2003.
+- biler med største tillatte totalvekt over 2.000 kg, utstyrt med dieselmotor og er såkalte terrengbiler, som definert i anneks II til direktiv [70/156/EØF](eu/31970l0156*). Dette unntaket gjelder frem til 1. januar 2003.
+
+2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse bestemmelsene.
 
 4.2.
 
@@ -4032,7 +5062,14 @@ Grenseverdier og ikrafttredelser for gjennomføring av lavtemperaturprøve (-7 �
 | N1 2 | II | 1305 < RV ≤ 1760 | 24 | 2.7 | 1. januar 2003 |
 |  | III | 1760 < RV | 30 | 3.2 | 1. januar 2003 |
 
-1 Unntatt:biler konstruert for flere enn seks personer inkludert føreren,biler med største totalvekt over 2.500 kg.2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse grenseverdiene og ikrafttredelsene.3 Referansevekt = egenvekt + 100 kg.
+1 Unntatt:
+
+- biler konstruert for flere enn seks personer inkludert føreren,
+- biler med største totalvekt over 2.500 kg.
+
+2 Bilene i kategori M, som er spesifisert unntatt i fotnote 1, omfattes i stedet av disse grenseverdiene og ikrafttredelsene.
+
+3 Referansevekt = egenvekt + 100 kg.
 
 Biler med motor med elektrisk tenning som bare kan gå på gass (LPG/naturgass), eventuelt at bilen også har en bensintank på 15 liter eller mindre og hvor drift på bensin kun er beregnet på nødsituasjoner eller start av motor, behøver ikke gjennomføre lavtemperaturtesten.
 
@@ -4052,13 +5089,30 @@ OBD-systemet skal kunne oppdage feil som medfører at utslippet overstiger/har o
 |  | II | 1.305 < RV<br>≤ 1.760 | 5,80 | 4,00 | 0,50 | 0,50 | 0,70 | 1,60 | 0,23 |
 |  | III | 1.760 < RV | 7,30 | 4,80 | 0,60 | 0,60 | 0,80 | 1,90 | 0,28 |
 
-1 For dieselmotorer.2 Unntatt biler med største totalvekt over 2.500 kg.3 Bilene i kategori M, som er spesifisert unntatt i fotnote 2, omfattes i stedet av disse bestemmelsene.4 Kommisjonen skal i henhold til artikkel 3 innen 31. desember 1999 legge frem for Parlamentet og Rådet forslag til terskelverdigrenser for OBD fra 2005/6 for person- og varebiler.
+1 For dieselmotorer.
+
+2 Unntatt biler med største totalvekt over 2.500 kg.
+
+3 Bilene i kategori M, som er spesifisert unntatt i fotnote 2, omfattes i stedet av disse bestemmelsene.
+
+4 Kommisjonen skal i henhold til artikkel 3 innen 31. desember 1999 legge frem for Parlamentet og Rådet forslag til terskelverdigrenser for OBD fra 2005/6 for person- og varebiler.
 
 For at dette skal anses for å være oppfylt må OBD minst overvåke følgende:
 
-Bensin-/gassmotor:Reduksjon av katalysatorvirkningsgraden, men bare mht. utslipp av HC.Tilstedeværelse av feiltenninger.Forringelse av oksygensensoren (lambda(λ)-sonden i eksosstrømmen).Andre kontrollsystemer, dersom feil oppstår, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen.Den elektroniske kretsen for fordampningskontrollen fra tank- og drivstoffsystem må minst omfattes av en kretskontinuitetskontroll.
+Bensin-/gassmotor:
 
-Dieselmotor:Dersom bilen har katalysator, skal dens effektivitet overvåkes.Dersom bilen har partikkelfelle, skal dens funksjonalitet og integritet overvåkes.Den elektroniske kretsen som styrer dieselinnsprøytningen herunder mengde og tidspunkt, skal undergå kretskontinuitetskontroll og kontroll på om kretsen virker.Andre kontrollsystemer, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen, dersom feil oppstår, som f.eks. komponenter som overvåker inntaksluftstrøm (og temperaturer) og ladetrykk (og tilhørende sensorer), skal overvåkes.
+- Reduksjon av katalysatorvirkningsgraden, men bare mht. utslipp av HC.
+- Tilstedeværelse av feiltenninger.
+- Forringelse av oksygensensoren (lambda(λ)-sonden i eksosstrømmen).
+- Andre kontrollsystemer, dersom feil oppstår, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen.
+- Den elektroniske kretsen for fordampningskontrollen fra tank- og drivstoffsystem må minst omfattes av en kretskontinuitetskontroll.
+
+Dieselmotor:
+
+- Dersom bilen har katalysator, skal dens effektivitet overvåkes.
+- Dersom bilen har partikkelfelle, skal dens funksjonalitet og integritet overvåkes.
+- Den elektroniske kretsen som styrer dieselinnsprøytningen herunder mengde og tidspunkt, skal undergå kretskontinuitetskontroll og kontroll på om kretsen virker.
+- Andre kontrollsystemer, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen, dersom feil oppstår, som f.eks. komponenter som overvåker inntaksluftstrøm (og temperaturer) og ladetrykk (og tilhørende sensorer), skal overvåkes.
 
 5\.
 
@@ -4077,7 +5131,9 @@ Direktiv [98/69/EF](eu/31998l0069*), «Euro 3, lette»
 |  | II | 1.305 < RV ≤ 1.760 | 1. januar 2001 | 1. januar 2002 |
 |  | III | 1.760< RV | 1. januar 2001 | 1. januar 2002 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
 
 5.2.
 
@@ -4101,7 +5157,11 @@ Biler som underkastes typegodkjenning og/eller skal registreres, skal fra tidspu
 |  | II | 1305<RV≤1760 | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007 |
 |  | III | 1760<RV | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007 |
 
-1 Dieselbiler beregnet for flere enn seks personer inkludert føreren.2 Tillatt totalvekt.3 Referansevekt = egenvekt + 100 kg.
+1 Dieselbiler beregnet for flere enn seks personer inkludert føreren.
+
+2 Tillatt totalvekt.
+
+3 Referansevekt = egenvekt + 100 kg.
 
 5.3
 
@@ -4116,7 +5176,11 @@ Direktiv [2002/80/EF](eu/32002l0080) artikkel 2 og direktiv [2003/76/EF](eu/3200
 |  | II | 1305<RV≤1760 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 |  | III | 1760<RV | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.3 Direktivet gjelder ikke for kjøretøy som produseres i små serier (artikkel 8(2) i direktiv [70/156/EØF](eu/31970l0156*) har kommet til anvendelse).
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
+
+3 Direktivet gjelder ikke for kjøretøy som produseres i små serier (artikkel 8(2) i direktiv [70/156/EØF](eu/31970l0156*) har kommet til anvendelse).
 
 5.4.
 
@@ -4134,29 +5198,53 @@ Biler med dieselmotor utstyrt med direkteinnsprøytning, som er typegodkjent i h
 |  | II | 1035 < RV ≤ 1.760 | 1. januar 2002 |
 |  | III | 1.760 < RV | 1. januar 2002 |
 
-1 Tillatt totalvekt.2 Referansevekt = egenvekt + 100 kg.
+1 Tillatt totalvekt.
+
+2 Referansevekt = egenvekt + 100 kg.
 
 > Endret ved [forskrifter 16 nov 2004 nr. 1470](forskrift/2004-11-16-1470), [18 jan 2005 nr. 32](forskrift/2005-01-18-32), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-5), [31 mai 2010 nr. 734](forskrift/2010-05-31-734).
 
 ### § 25-7. Avgasser – krav til bil som kan drives med NG/LPG ved første gangs registrering (direktiv 98/77/EF)
 
-1\. Kravnivå:Direktiv [98/77/EF](eu/31998l0077) (om avgassutslipp fra eksosrør ved normal temperatur, drivstoffordampning fra tank og drivstoffsystem, utslipp av veivhusgasser og holdbarhet av utstyr for utslippsreduksjon for person- og varebiler.)
+1\. Kravnivå:
 
-2\. Virkeområde:Biler som drives av naturgass (NG) eller Liquid Petroleum Gas (LPG) eller som kan drives av enten bensin eller NG/LPG. Med hensyn til direktivets virkeområde for øvrig vises til [§ 25-9](forskrift/1994-10-04-918/§25-9) (direktiv [94/12/EF](eu/31994l0012) og direktiv [96/44/EF](eu/31996l0044)), nr. 3.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+Direktiv [98/77/EF](eu/31998l0077) (om avgassutslipp fra eksosrør ved normal temperatur, drivstoffordampning fra tank og drivstoffsystem, utslipp av veivhusgasser og holdbarhet av utstyr for utslippsreduksjon for person- og varebiler.)
 
-3\. Alternativ standard:Ingen.
+2\. Virkeområde:
 
-4\. Godkjenning:For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [98/77/EF](eu/31998l0077), skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.Grenseverdier og krav er som angitt i [§ 25-8](forskrift/1994-10-04-918/§25-8) (direktiv [96/69/EF](eu/31996l0069*)), nr. 4.1-4.5. Følgende gjelder imidlertid for gassbilene:Type I-, II-, III- og V-prøve skal gjennomføres for biler utstyrt kun for gassdrift.Biler som er utstyrt for å kunne gå på bensin eller NG/LPG, skal underkastes type I- og II-prøve både for bensin og NG/LPG mens type III-, IV- og V-prøve kun utføres under bensindrift.Har bilen en bensintank på 15 liter eller mindre og hvor drift på bensin kun er beregnet på nødsituasjoner og start av motor, behøver ikke type I-, II-, III-prøve gjennomføres på bensin, bare på NG/LPG.
+Biler som drives av naturgass (NG) eller Liquid Petroleum Gas (LPG) eller som kan drives av enten bensin eller NG/LPG. Med hensyn til direktivets virkeområde for øvrig vises til [§ 25-9](forskrift/1994-10-04-918/§25-9) (direktiv [94/12/EF](eu/31994l0012) og direktiv [96/44/EF](eu/31996l0044)), nr. 3.
 
-5\. Ikrafttreden:Bestemmelsene i denne paragraf trer i kraft 1. oktober 1999 for nye registreringer av biler som drives av naturgass (NG) eller Liquid Petroleum Gas (LPG) eller som kan drives av enten bensin eller NG/LPG.
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+
+3\. Alternativ standard:
+
+Ingen.
+
+4\. Godkjenning:
+
+For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [98/77/EF](eu/31998l0077), skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+Grenseverdier og krav er som angitt i [§ 25-8](forskrift/1994-10-04-918/§25-8) (direktiv [96/69/EF](eu/31996l0069*)), nr. 4.1-4.5. Følgende gjelder imidlertid for gassbilene:
+
+- Type I-, II-, III- og V-prøve skal gjennomføres for biler utstyrt kun for gassdrift.
+- Biler som er utstyrt for å kunne gå på bensin eller NG/LPG, skal underkastes type I- og II-prøve både for bensin og NG/LPG mens type III-, IV- og V-prøve kun utføres under bensindrift.
+- Har bilen en bensintank på 15 liter eller mindre og hvor drift på bensin kun er beregnet på nødsituasjoner og start av motor, behøver ikke type I-, II-, III-prøve gjennomføres på bensin, bare på NG/LPG.
+
+5\. Ikrafttreden:
+
+Bestemmelsene i denne paragraf trer i kraft 1. oktober 1999 for nye registreringer av biler som drives av naturgass (NG) eller Liquid Petroleum Gas (LPG) eller som kan drives av enten bensin eller NG/LPG.
 
 > Endret ved [forskrift 22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-6).
 
 ### § 25-8. Avgasser – krav til bil ved første gangs registrering (direktiv 96/69/EF)
 
-1\. Bestemmelsene i denne paragraf trer i kraft 1. november 1997 for typegodkjenning og registrering av ny bil i gruppe I, 1. januar 1998 for typegodkjenning av ny type bil i gruppe II og III og 1. oktober 1998 for nye registreringer av bil i gruppe II og III.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+1\. Bestemmelsene i denne paragraf trer i kraft 1. november 1997 for typegodkjenning og registrering av ny bil i gruppe I, 1. januar 1998 for typegodkjenning av ny type bil i gruppe II og III og 1. oktober 1998 for nye registreringer av bil i gruppe II og III.
 
-2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [96/69/EF](eu/31996l0069*), skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.Ved typegodkjenning anmodes om at bilens forringelsesfaktorer (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+
+2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [96/69/EF](eu/31996l0069*), skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+Ved typegodkjenning anmodes om at bilens forringelsesfaktorer (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
 
 3\. Med hensyn til direktivets virkeområde vises til [§ 25-9](forskrift/1994-10-04-918/§25-9) nr. 3 (direktiv [94/12/EF](eu/31994l0012) og direktiv [96/44/EF](eu/31996l0044)).
 
@@ -4179,7 +5267,21 @@ Grenseverdier
 |  | II | 1.250 < Rv ≤ 1.700 | 4.0 | 1.25 | 0.6 | 1.7 | 0.12 |
 |  | III | 1.700 < Rv | 5.0 | 1.5 | 0.7 | 1.2 | 0.17 |
 
-1 For kjøretøy med dieselmotor med direkte innsprøytning gjelder inntil 30. september 1999 følgende grenseverdier for kombinert masse av CO og HC og for masse av partikler: HC og NOxPartikler– Gruppe M2 og N13 gruppe 1:0,90,10– Gruppe N13 , gruppe II:1,30,14– Gruppe N13 , gruppe III:1,60,202 Unntak:Kjøretøy beregnet for flere enn seks personer medregnet føreren.Kjøretøy med største tillatte totalvekt over 2.500 kg.3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
+1 For kjøretøy med dieselmotor med direkte innsprøytning gjelder inntil 30. september 1999 følgende grenseverdier for kombinert masse av CO og HC og for masse av partikler:
+
+|  |  |  |
+| --- | --- | --- |
+|  | HC og NOx | Partikler |
+| – Gruppe M2 og N13 gruppe 1: | 0,9 | 0,10 |
+| – Gruppe N13 , gruppe II: | 1,3 | 0,14 |
+| – Gruppe N13 , gruppe III: | 1,6 | 0,20 |
+
+2 Unntak:
+
+- Kjøretøy beregnet for flere enn seks personer medregnet føreren.
+- Kjøretøy med største tillatte totalvekt over 2.500 kg.
+
+3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
 
 4.2
 
@@ -4211,12 +5313,31 @@ Forringelsesfaktorene anvendes ved at de målte utslippene under type I-prøven 
 
 ### § 25-9. Avgasser – krav til bil ved første gangs registrering (direktiv 94/12/EF og direktiv 96/44/EF)
 
-1\. Bestemmelsene i denne paragraf trer i kraft 1. januar 1996 for typegodkjenning av ny type bil og 1. januar 1997 for nye registreringer. Direktiv [96/44/EF](eu/31996l0044) får virkning fra 1. november 1997 for nye typegodkjenninger.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+1\. Bestemmelsene i denne paragraf trer i kraft 1. januar 1996 for typegodkjenning av ny type bil og 1. januar 1997 for nye registreringer. Direktiv [96/44/EF](eu/31996l0044) får virkning fra 1. november 1997 for nye typegodkjenninger.
 
-2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [94/12/EF](eu/31994l0012) og direktiv [96/44/EF](eu/31996l0044), skal det ved typegodkjenning av ny bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.Ved typegodkjenning anmodes om at bilens forringelsesfaktorer (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
-3\. Direktivets virkeområde m.m.Virkeområde for direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [96/44/EF](eu/31996l0044), i henhold til direktivets vedlegg I nr. 1:Dette direktiv får anvendelse påutslipp fra eksosrør, fordampningsutslipp, utslipp av veivhusgasser og holdbarheten til forurensningsreduserende innretninger for alle motorvogner som har motorer med elektrisk tenning,
-ogutslipp fra eksosrør og holdbarheten til forurensningsreduserende innretninger for motorvogn i gruppe M1 og N1 , utstyrt med kompresjonstenningsmotorersom omfattes av artikkel 1 i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [83/351/EØF](eu/31983l0351), unntatt de motorvognene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1 – eller N1 -kjøretøy utstyrt med dieselmotor som allerede er typegodkjent, til M2 – og N2 -kjøretøy med en referansemasse som ikke overstiger 2.840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning).I direktiv [70/220/EØF](eu/31970l0220*), artikkel 1 som endret ved direktiv [83/351/EØF](eu/31983l0351), heter det:«I dette direktiv menes med motorvogn enhver motorvogn med motor med elektrisk tenning eller kompresjonstenning beregnet på å brukes på vei, med minst fire hjul, en høyeste tillatte totalvekt på minst 400 kg og som er konstruert for en topphastighet på over 50 km/t, unntatt landbrukstraktorer og -maskiner og unntatt kjøretøy til bruk i offentlige arbeider.»
+2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [94/12/EF](eu/31994l0012) og direktiv [96/44/EF](eu/31996l0044), skal det ved typegodkjenning av ny bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+Ved typegodkjenning anmodes om at bilens forringelsesfaktorer (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
+
+3\. Direktivets virkeområde m.m.
+
+Virkeområde for direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [96/44/EF](eu/31996l0044), i henhold til direktivets vedlegg I nr. 1:
+
+Dette direktiv får anvendelse på
+
+- utslipp fra eksosrør, fordampningsutslipp, utslipp av veivhusgasser og holdbarheten til forurensningsreduserende innretninger for alle motorvogner som har motorer med elektrisk tenning,
+  og
+- utslipp fra eksosrør og holdbarheten til forurensningsreduserende innretninger for motorvogn i gruppe M1 og N1 , utstyrt med kompresjonstenningsmotorer
+
+som omfattes av artikkel 1 i direktiv [70/220/EØF](eu/31970l0220*) som endret ved direktiv [83/351/EØF](eu/31983l0351), unntatt de motorvognene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).
+
+På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1 – eller N1 -kjøretøy utstyrt med dieselmotor som allerede er typegodkjent, til M2 – og N2 -kjøretøy med en referansemasse som ikke overstiger 2.840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning).
+
+I direktiv [70/220/EØF](eu/31970l0220*), artikkel 1 som endret ved direktiv [83/351/EØF](eu/31983l0351), heter det:
+
+«I dette direktiv menes med motorvogn enhver motorvogn med motor med elektrisk tenning eller kompresjonstenning beregnet på å brukes på vei, med minst fire hjul, en høyeste tillatte totalvekt på minst 400 kg og som er konstruert for en topphastighet på over 50 km/t, unntatt landbrukstraktorer og -maskiner og unntatt kjøretøy til bruk i offentlige arbeider.»
 
 4\.
 
@@ -4237,7 +5358,14 @@ Grenseverdier
 |  | Gruppe II | 1.250 < Rv ≤ 1.700 | 5,17 |  | 1,4 |  | 0,19 |
 |  | Gruppe III | 1.700 < Rv | 6,9 |  | 1,7 |  | 0,25 |
 
-1 For kjøretøy med dieselmotor med direkte innsprøytning gjelder 0,9 istedenfor 0,7 g/km og 0,10 istedenfor 0,08 g/km til 30. september 1999.2 Unntak:Kjøretøy beregnet for flere enn seks personer medregnet føreren,Kjøretøy med største tillatte totalvekt over 2.500 kg,3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
+1 For kjøretøy med dieselmotor med direkte innsprøytning gjelder 0,9 istedenfor 0,7 g/km og 0,10 istedenfor 0,08 g/km til 30. september 1999.
+
+2 Unntak:
+
+- Kjøretøy beregnet for flere enn seks personer medregnet føreren,
+- Kjøretøy med største tillatte totalvekt over 2.500 kg,
+
+3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
 
 4.2
 
@@ -4271,9 +5399,21 @@ Forringelsesfaktorene anvendes ved at de målte utslippene under type I-prøven 
 
 1\. Bestemmelsene i denne paragraf gjelder for motorvogner som ikke omfattes av [§ 25-8](forskrift/1994-10-04-918/§25-8) eller [§ 25-9](forskrift/1994-10-04-918/§25-9).
 
-2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [93/59/EØF](eu/31993l0059), skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt:Ved typegodkjenning anmodes om at bilens forringelsesfaktor (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
+2\. For biler som omfattes av direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [93/59/EØF](eu/31993l0059), skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt:
 
-3\. Direktivets virkeområdeVirkeområde for direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [93/59/EØF](eu/31993l0059), er i henhold til direktivets vedlegg 1 nr. 1 som følger:«Dette direktiv får anvendelse på utslipp fra avgassrør, fordampningsutslipp, utslipp av veivhusgasser og holdbarheten til forurensningsreduserende innretninger for alle motorvogner som har motorer med elektrisk tenning samt på utslipp fra avgassrør og holdbarheten til forurensningsreduserende innretninger i gruppe M1 og N1, utstyrt med dieselmotorer omhandlet i artikkel 1 i direktiv [70/220/EØF i](eu/31970l0220*) versjonen til direktiv [83/351/EØF](eu/31983l0351), unntatt de kjøretøyene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1- eller N1-kjøretøyer utstyrt med dieselmotorer som allerede er typegodkjent, til M2- og N2-kjøretøyer med en referansemasse som ikke overstiger 2.840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning)».Direktiv [70/220/EØF](eu/31970l0220*), artikkel 1 i versjonen til direktiv [83/351/EØF](eu/31983l0351), lyder:«I dette direktiv menes med motorvogn enhver motorvogn med motor med elektrisk tenning eller kompresjonstenning beregnet på å brukes på vei, med minst fire hjul, en høyeste tillatte vekt på minst 400 kg og som er konstruert for en topphastighet på over 50 km/t, unntatt landbrukstraktorer og -maskiner og unntatt kjøretøy til bruk i offentlige arbeider.»
+Ved typegodkjenning anmodes om at bilens forringelsesfaktor (deterioration factors) samt dens totale kjøremotstand som funksjon av hastigheten oppgis.
+
+3\. Direktivets virkeområde
+
+Virkeområde for direktiv [70/220/EØF](eu/31970l0220*), som senest endret ved direktiv [93/59/EØF](eu/31993l0059), er i henhold til direktivets vedlegg 1 nr. 1 som følger:
+
+«Dette direktiv får anvendelse på utslipp fra avgassrør, fordampningsutslipp, utslipp av veivhusgasser og holdbarheten til forurensningsreduserende innretninger for alle motorvogner som har motorer med elektrisk tenning samt på utslipp fra avgassrør og holdbarheten til forurensningsreduserende innretninger i gruppe M1 og N1, utstyrt med dieselmotorer omhandlet i artikkel 1 i direktiv [70/220/EØF i](eu/31970l0220*) versjonen til direktiv [83/351/EØF](eu/31983l0351), unntatt de kjøretøyene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv [88/77/EØF](eu/31988l0077).
+
+På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1- eller N1-kjøretøyer utstyrt med dieselmotorer som allerede er typegodkjent, til M2- og N2-kjøretøyer med en referansemasse som ikke overstiger 2.840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning)».
+
+Direktiv [70/220/EØF](eu/31970l0220*), artikkel 1 i versjonen til direktiv [83/351/EØF](eu/31983l0351), lyder:
+
+«I dette direktiv menes med motorvogn enhver motorvogn med motor med elektrisk tenning eller kompresjonstenning beregnet på å brukes på vei, med minst fire hjul, en høyeste tillatte vekt på minst 400 kg og som er konstruert for en topphastighet på over 50 km/t, unntatt landbrukstraktorer og -maskiner og unntatt kjøretøy til bruk i offentlige arbeider.»
 
 4\.
 
@@ -4293,7 +5433,33 @@ Grenseverdier, Prototypkrav (TAS= Type Approval Standard):
 |  | Gruppe II | 1.250 < Rv ≤ 1.700 | 5,17 | 1,4 | 0,19 |
 |  | Gruppe III | 1.700 < Rv | 6,9 | 1,7 | 0,25 |
 
-1 For dieselmotorer2 Unntak:Kjøretøy beregnet på flere enn seks personer medregnet føreren,Kjøretøy med største tillatte totalvekt over 2.500 kg,3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.Grenseverdier, Produksjonskrav (COP= Conformity og Production):*Kjøretøygruppe**Referansemasse (kg)**Grenseverdier**Masse av CO (g/km)**Kombinert masse av HC og NOx (g/km)**Masse av partikler1 (g/km)*M2alle3,161,130,18N13Gruppe IRv ≤ 1.2503,161,130,18Gruppe II1.250 < Rv ≤ 1.7006,01,60,22Gruppe III1.700 < Rv8,02,00,291 For dieselmotorer.2 Unntak:Kjøretøy beregnet på flere enn seks personer medregnet føreren,Kjøretøy med største tillatte totalvekt over 2.500 kg,3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
+1 For dieselmotorer
+
+2 Unntak:
+
+- Kjøretøy beregnet på flere enn seks personer medregnet føreren,
+- Kjøretøy med største tillatte totalvekt over 2.500 kg,
+
+3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
+
+Grenseverdier, Produksjonskrav (COP= Conformity og Production):
+
+| *Kjøretøygruppe* |  | *Referansemasse (kg)* | *Grenseverdier* |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | *Masse av CO (g/km)* | *Kombinert masse av HC og NOx (g/km)* | *Masse av partikler1 (g/km)* |
+| M2 |  | alle | 3,16 | 1,13 | 0,18 |
+| N13 | Gruppe I | Rv ≤ 1.250 | 3,16 | 1,13 | 0,18 |
+|  | Gruppe II | 1.250 < Rv ≤ 1.700 | 6,0 | 1,6 | 0,22 |
+|  | Gruppe III | 1.700 < Rv | 8,0 | 2,0 | 0,29 |
+
+1 For dieselmotorer.
+
+2 Unntak:
+
+- Kjøretøy beregnet på flere enn seks personer medregnet føreren,
+- Kjøretøy med største tillatte totalvekt over 2.500 kg,
+
+3 Også kjøretøy i gruppe M som fastsatt i fotnote 2.
 
 4.2
 
@@ -4325,21 +5491,31 @@ Forringelsesfaktorene anvendes ved at de målte utslippene under type I-prøven 
 
 ### § 25-11. Avgasser – krav til bil med referansemasse over 2610 kg ved første gangs registrering (direktiv 2005/55/EF, som endret ved direktiv 2005/78/EF, direktiv 2006/51/EF og direktiv 2008/74/EF) (Euro 5 tunge, euro 4 tunge)
 
-1\. Kravnivå:Direktiv [2005/55/EF](eu/32005l0055), som endret ved direktiv [2005/78/EF](eu/32005l0078), direktiv [2006/51/EF](eu/32006l0051) og direktiv [2008/74/EF](eu/32008l0074).
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Som beskrevet i direktiv [2005/55/EF](eu/32005l0055) som endret ved direktiv [2008/74/EF](eu/32008l0074).
+Direktiv [2005/55/EF](eu/32005l0055), som endret ved direktiv [2005/78/EF](eu/32005l0078), direktiv [2006/51/EF](eu/32006l0051) og direktiv [2008/74/EF](eu/32008l0074).
+
+2\. Virkeområde m.m.:
+
+Som beskrevet i direktiv [2005/55/EF](eu/32005l0055) som endret ved direktiv [2008/74/EF](eu/32008l0074).
 
 3\. Alternativ standard: ECE-reg.nr. 49-04.
 
-4\. Godkjenning:For biler som omfattes av direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2008/74/EF](eu/32008l0074), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+4\. Godkjenning:
 
-5\. Anvendelsestidspunkt:Direktiv [2005/55/EF](eu/32005l0055) som sist endret ved direktiv [2008/74/EF](eu/32008l0074), kommer til anvendelse fra 3. januar 2009 for nye typegodkjenninger og nye registreringer, samt salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
+For biler som omfattes av direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2008/74/EF](eu/32008l0074), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+5\. Anvendelsestidspunkt:
+
+Direktiv [2005/55/EF](eu/32005l0055) som sist endret ved direktiv [2008/74/EF](eu/32008l0074), kommer til anvendelse fra 3. januar 2009 for nye typegodkjenninger og nye registreringer, samt salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
 
 > Tilføyd ved [forskrift 1 nov 2011 nr. 1068](forskrift/2011-11-01-1068).
 
 ### § 25-11A. Avgasser – krav til bil (> 3,5 t) ved første gangs registrering (direktiv 2005/55/EF, som endret ved direktiv 2005/78/EF og direktiv 2006/51/EF) (Euro 5 tunge, euro 4 tunge, euro 3 tunge)
 
-1\. Kravnivå:Direktiv [2005/55/EF](eu/32005l0055), som endret ved direktiv [2005/78/EF](eu/32005l0078) og direktiv [2006/51/EF](eu/32006l0051).
+1\. Kravnivå:
+
+Direktiv [2005/55/EF](eu/32005l0055), som endret ved direktiv [2005/78/EF](eu/32005l0078) og direktiv [2006/51/EF](eu/32006l0051).
 
 1.1 Grenseverdier for avgassutslipp:
 
@@ -4352,7 +5528,9 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 | B2 (2008), euro 5 | 1,5 | 0,46 | 2,0 | 0,02 | 0,5 |
 | C (EEV)a | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
-a Grenseverdier som EEV-kjøretøy må tilfredsstille.b For motorer med slagvolum på mindre enn 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
+a Grenseverdier som EEV-kjøretøy må tilfredsstille.
+
+b For motorer med slagvolum på mindre enn 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
 
 Grenseverdier for diesel- og gassmotorer – ETC-test
 
@@ -4363,7 +5541,13 @@ Grenseverdier for diesel- og gassmotorer – ETC-test
 | B2 (2008), euro 5 | 4,0 | 0,55 | 1,1 | 2,0 | 0,03 |
 | C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
-a Kun for naturgassmotorer.b Gjelder ikke for gassdrevne motorer på trinn B.c Grenseverdier som EEV-kjøretøy må tilfredsstille.d For motorer med slagvolum under 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
+a Kun for naturgassmotorer.
+
+b Gjelder ikke for gassdrevne motorer på trinn B.
+
+c Grenseverdier som EEV-kjøretøy må tilfredsstille.
+
+d For motorer med slagvolum under 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
 
 Gassmotorprodusenten kan velge å kun måle totale HC, dvs. slå sammen NMHC- og CH4 (metangass)-utslippet. Grenseverdien blir da den samme som for NMHC.
 
@@ -4376,11 +5560,25 @@ Ikrafttreden for grenseverdiene:
 
 For ikrafttredelsen av Euro 3, se [§ 25-14](forskrift/1994-10-04-918/§25-14).
 
-1.2 Holdbarhetskrav:Det skal dokumenteres fra fabrikanten at grenseverdiene er tilfredsstilt i:100.000 km eller fem år (det som kommer først) for motorer i N1- og M2-kjøretøy, 200.000 km eller seks år (det som kommer først) for motorer i N2-kjøretøy, og i N3-kjøretøy med største totalvekt ikke over 16.000 kg, og i M3-kjøretøy klasse I, klasse II og klasse A, og i M3 klasse B med største totalvekt ikke over 7.500 kg.500.000 km eller sju år (det som kommer først) for motorer i N3-kjøretøy med største totalvekt over 16.000 kg, og i M3-kjøretøy klasse III, og i M3-kjøretøy klasse B med største totalvekt over 7.500 kg.Det kreves dokumentasjon på riktig bruk av avgasskontrollutstyret gjennom et normalt livsløp for kjøretøyet under normal bruk.Ikrafttreden for holdbarhetskravene:
+1.2 Holdbarhetskrav:
+
+Det skal dokumenteres fra fabrikanten at grenseverdiene er tilfredsstilt i:
+
+100.000 km eller fem år (det som kommer først) for motorer i N1- og M2-kjøretøy, 200.000 km eller seks år (det som kommer først) for motorer i N2-kjøretøy, og i N3-kjøretøy med største totalvekt ikke over 16.000 kg, og i M3-kjøretøy klasse I, klasse II og klasse A, og i M3 klasse B med største totalvekt ikke over 7.500 kg.
+
+500.000 km eller sju år (det som kommer først) for motorer i N3-kjøretøy med største totalvekt over 16.000 kg, og i M3-kjøretøy klasse III, og i M3-kjøretøy klasse B med største totalvekt over 7.500 kg.
+
+Det kreves dokumentasjon på riktig bruk av avgasskontrollutstyret gjennom et normalt livsløp for kjøretøyet under normal bruk.
+
+Ikrafttreden for holdbarhetskravene:
 
 1\. oktober 2005 for nye typegodkjenninger, 1. oktober 2006 for alle typegodkjenninger.
 
-1.3 Egendiagnosesystem (OBD):Kjøretøy som er omfattet av denne paragraf skal ha egendiagnosesystem (OBD). Egendiagnosesystemet skal tilfredsstille kravene til slikt system gitt i direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2006/51/EF](eu/32006l0051).Ikrafttreden for kravet om egendiagnosesystem:
+1.3 Egendiagnosesystem (OBD):
+
+Kjøretøy som er omfattet av denne paragraf skal ha egendiagnosesystem (OBD). Egendiagnosesystemet skal tilfredsstille kravene til slikt system gitt i direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2006/51/EF](eu/32006l0051).
+
+Ikrafttreden for kravet om egendiagnosesystem:
 
 1\. oktober 2005 for nye typegodkjenninger, 1. oktober 2006 for alle typegodkjenninger.
 
@@ -4396,9 +5594,13 @@ Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 3\. Alternativ standard: ECE-reg.nr. 49-04.
 
-4\. Godkjenning:For biler som omfattes av direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2006/51/EF](eu/32006l0051), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+4\. Godkjenning:
 
-5\. Anvendelsestidspunkt:Direktiv [2005/55/EF](eu/32005l0055) som sist endret ved direktiv [2006/51/EF](eu/32006l0051), kommer til anvendelse fra 9. november 2006 for nye typegodkjenninger og nye registreringer, samt salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
+For biler som omfattes av direktiv [2005/55/EF](eu/32005l0055), som senest endret ved direktiv [2006/51/EF](eu/32006l0051), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+5\. Anvendelsestidspunkt:
+
+Direktiv [2005/55/EF](eu/32005l0055) som sist endret ved direktiv [2006/51/EF](eu/32006l0051), kommer til anvendelse fra 9. november 2006 for nye typegodkjenninger og nye registreringer, samt salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
 
 6\. Direktivene i [§ 25-12](forskrift/1994-10-04-918/§25-12) til [§ 25-13](forskrift/1994-10-04-918/§25-13) kommer uansett ikke til anvendelse på kjøretøy som er førstegangsregistrert i Norge eller i annet EØS-land etter/fra 9. november 2006.
 
@@ -4406,13 +5608,35 @@ Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 ### § 25-12. Avgasser – krav til bil (>3,5 t) ved første gangs registrering (2001/27/EF), år 2008 («Euro 5, tunge»)
 
-1\. Kravnivå:Direktiv [2001/27/EF](eu/32001l0027*), «Euro 5, tunge».
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Denne paragraf gjelder for kjøretøy som ikke omfattes av [§ 25-11](forskrift/1994-10-04-918/§25-11).Virkeområde for direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [2001/27/EF](eu/32001l0027*), i henhold til direktivets vedlegg 1 nr. 1 som følger:«Dette direktiv gjelder for forurensende gasser og partikler fra alle motorvogner som er utstyrt med motor med kompresjonstenning, og for forurensende gasser fra alle motorvogner som er utstyrt med motor med elektrisk tenning og bruker naturgass eller LPG, og for motorer med kompresjonstenning og elektrisk tenning som definert i artikkel 1, med unntak av kjøretøyer i gruppene N1, N2 og M2 som er typegodkjent i samsvar med direktiv [70/220/EØF](eu/31970l0220*), sist endret ved direktiv [2003/76/EF](eu/32003l0076)».Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+Direktiv [2001/27/EF](eu/32001l0027*), «Euro 5, tunge».
+
+2\. Virkeområde m.m.:
+
+Denne paragraf gjelder for kjøretøy som ikke omfattes av [§ 25-11](forskrift/1994-10-04-918/§25-11).
+
+Virkeområde for direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [2001/27/EF](eu/32001l0027*), i henhold til direktivets vedlegg 1 nr. 1 som følger:
+
+«Dette direktiv gjelder for forurensende gasser og partikler fra alle motorvogner som er utstyrt med motor med kompresjonstenning, og for forurensende gasser fra alle motorvogner som er utstyrt med motor med elektrisk tenning og bruker naturgass eller LPG, og for motorer med kompresjonstenning og elektrisk tenning som definert i artikkel 1, med unntak av kjøretøyer i gruppene N1, N2 og M2 som er typegodkjent i samsvar med direktiv [70/220/EØF](eu/31970l0220*), sist endret ved direktiv [2003/76/EF](eu/32003l0076)».
+
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 3\. Alternativ standard: ECE-reg.nr. 49-04.
 
-4\. Godkjenning:For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som senest endret ved direktiv [2001/27/EF](eu/32001l0027*), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.Det innføres en egen kategori kjøretøy som kalles «enhanced environmentally friendly vehicle» (EEV), «spesielt miljøvennlige kjøretøy». Motorvogner kan klassifiseres som EEV dersom motoren tilfredsstiller spesielle strengere grenseverdier.Det innføres tre nye testsykluser som erstatning for 13-mode-syklusen:«European steady State Cycle» (ESC) som er en ny 13-mode-syklus.«European Load Respons» test (ELR) kjøres i sammenheng med ESC som er en belastningsvariasjonstest hvor røkutslippet måles vha. opasitetsmåling (gjennomlysing av eksosen).«European Transient Cycle» (ETC) er en testsyklus som varierer motorens turtall og belastning iht. en spesiell kurve som skal representere en tenkt reise i by, på landeveg og motorveg.Alle motorer skal fra 1. oktober 2005 testes både med ESC+ELR og ETC unntatt gassmotorer som kun skal testes med ETC.
+4\. Godkjenning:
+
+For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som senest endret ved direktiv [2001/27/EF](eu/32001l0027*), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+Det innføres en egen kategori kjøretøy som kalles «enhanced environmentally friendly vehicle» (EEV), «spesielt miljøvennlige kjøretøy». Motorvogner kan klassifiseres som EEV dersom motoren tilfredsstiller spesielle strengere grenseverdier.
+
+Det innføres tre nye testsykluser som erstatning for 13-mode-syklusen:
+
+- «European steady State Cycle» (ESC) som er en ny 13-mode-syklus.
+- «European Load Respons» test (ELR) kjøres i sammenheng med ESC som er en belastningsvariasjonstest hvor røkutslippet måles vha. opasitetsmåling (gjennomlysing av eksosen).
+- «European Transient Cycle» (ETC) er en testsyklus som varierer motorens turtall og belastning iht. en spesiell kurve som skal representere en tenkt reise i by, på landeveg og motorveg.
+
+Alle motorer skal fra 1. oktober 2005 testes både med ESC+ELR og ETC unntatt gassmotorer som kun skal testes med ETC.
 
 Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 
@@ -4430,23 +5654,41 @@ Grenseverdier for diesel- og gassmotorer – ETC-test
 | B2 (2008) | 4,0 | 0,55 | 1,1 | 2,0 | 0,03 |
 | C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
-a Kun for naturgassmotorer.b Gjelder ikke for gassdrevne motorer på trinn B.c Grenseverdier som EEV-kjøretøy må tilfredsstille.
+a Kun for naturgassmotorer.
+
+b Gjelder ikke for gassdrevne motorer på trinn B.
+
+c Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Gassmotorprodusenten kan velge å kun måle totale HC, dvs. slå sammen NMHC- og CH4 (metangass)-utslippet. Grenseverdien blir da den samme som for NMHC.
 
-5\. IkrafttredenBestemmelsen i denne paragraf trer i kraft for nye typegodkjenninger 1. oktober 2008 og 1. oktober 2009 for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
+5\. Ikrafttreden
+
+Bestemmelsen i denne paragraf trer i kraft for nye typegodkjenninger 1. oktober 2008 og 1. oktober 2009 for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
 
 > Endret ved [forskrifter 18 jan 2005 nr. 32](forskrift/2005-01-18-32), [8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-10), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-11).
 
 ### § 25-13. Avgasser – krav til bil (>3,5 t) ved før ste gangs registrering (2001/27/EF), år 2005 («Euro 4, tunge»)
 
-1\. Kravnivå:Direktiv [2001/27/EF](eu/32001l0027*), «Euro 4, tunge».
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12), nr. 2.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+Direktiv [2001/27/EF](eu/32001l0027*), «Euro 4, tunge».
 
-3\. Alternativ standard:ECE-reg. nr. 49.04.
+2\. Virkeområde m.m.:
 
-4\. Godkjenning:Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12), nr. 4 med unntak av hvilke testsykluser og grenseverdier som kommer til anvendelse:Alle motorer skal fra 1. oktober 2005 testes både med ESC+ELR og ETC unntatt gassmotorer som kun skal testes med ETC.
+Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12), nr. 2.
+
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+
+3\. Alternativ standard:
+
+ECE-reg. nr. 49.04.
+
+4\. Godkjenning:
+
+Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12), nr. 4 med unntak av hvilke testsykluser og grenseverdier som kommer til anvendelse:
+
+Alle motorer skal fra 1. oktober 2005 testes både med ESC+ELR og ETC unntatt gassmotorer som kun skal testes med ETC.
 
 Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 
@@ -4464,23 +5706,47 @@ Grenseverdier for diesel- og gassmotorer – ETC-test
 | B2 (2005) | 4,0 | 0,55 | 1,1 | 3,5 | 0,03 |
 | C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
-a Kun for naturgassmotorer.b Gjelder ikke for gassdrevne motorer på trinn B.c Grenseverdier som EEV-kjøretøy må tilfredsstille.
+a Kun for naturgassmotorer.
+
+b Gjelder ikke for gassdrevne motorer på trinn B.
+
+c Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Gassmotorprodusenten kan velge å kun måle totale HC, dvs. slå sammen NMHC- og CH4 (metangass)-utslippet. Grenseverdien blir da den samme som for NMHC.
 
-5\. IkrafttredenBestemmelsen i denne paragraf trer i kraft for nye typegodkjenninger 1. oktober 2005 og 1. oktober 2006 for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
+5\. Ikrafttreden
+
+Bestemmelsen i denne paragraf trer i kraft for nye typegodkjenninger 1. oktober 2005 og 1. oktober 2006 for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy.
 
 > Endret ved [forskrifter 8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-11), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-12), [27 okt 2008 nr. 1157](forskrift/2008-10-27-1157).
 
 ### § 25-14. Avgasser – krav til bil (>3,5 t) ved første gangs registrering (1999/96/EF og 2001/27/EF), år 2000 («Euro 3, tunge»)
 
-1\. Kravnivå:Direktiv [1999/96/EF](eu/31999l0096) og direktiv [2001/27/EF](eu/32001l0027*), «Euro 3, tunge».
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12) nr. 2.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+Direktiv [1999/96/EF](eu/31999l0096) og direktiv [2001/27/EF](eu/32001l0027*), «Euro 3, tunge».
+
+2\. Virkeområde m.m.:
+
+Det vises til [§ 25-12](forskrift/1994-10-04-918/§25-12) nr. 2.
+
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 3\. Alternativ standard: ECE-reg.nr. 49-04.
 
-4\. Godkjenning:For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som senest endret ved direktiv [1999/96/EF](eu/31999l0096) ev. direktiv [2001/27/EF](eu/32001l0027*) (jf. nr. 5), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.Det innføres en egen kategori kjøretøy som på engelsk kalles «enhanced environmentally friendly vehicle» (EEV), «spesielt miljøvennlige kjøretøy». Motorvogner kan klassifiseres som EEV dersom motoren tilfredsstiller spesielle strengere grenseverdier.Det innføres tre nye testsykluser som erstatning for den gamle 13-mode-syklusen i direktiv [88/77/EØF](eu/31988l0077):«European steady State Cycle» (ESC) som er en ny 13-mode-syklus.«European Load Respons» test (ELR) kjøres i sammenheng med ESC som er en belastningsvariasjonstest hvor røkutslippet måles vha. opasitetsmåling (gjennomlysing av eksosen).«European Transient Cycle» (ETC) er en testsyklus som varierer motorens turtall og belastning iht. en spesiell kurve som skal representere en tenkt reise i by, på landeveg og motorveg.Alle vanlige dieselmotorer (også med EGR og/eller oksydasjonskatalysator) skal testes med ESC og ELR. Dieselmotorer med annet avansert utstyr for avgassbehandling (f.eks. DeNOX-katalysatorer og/eller partikkelfeller) skal testes med ETC. Gassmotorer skal kun testes med ETC. Alle EEV-motorer utenom gassmotorer skal fra 1. november 2000 testes både med ESC+ELR og ETC.
+4\. Godkjenning:
+
+For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som senest endret ved direktiv [1999/96/EF](eu/31999l0096) ev. direktiv [2001/27/EF](eu/32001l0027*) (jf. nr. 5), skal det ved typegodkjenning av ny type motor og ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+Det innføres en egen kategori kjøretøy som på engelsk kalles «enhanced environmentally friendly vehicle» (EEV), «spesielt miljøvennlige kjøretøy». Motorvogner kan klassifiseres som EEV dersom motoren tilfredsstiller spesielle strengere grenseverdier.
+
+Det innføres tre nye testsykluser som erstatning for den gamle 13-mode-syklusen i direktiv [88/77/EØF](eu/31988l0077):
+
+- «European steady State Cycle» (ESC) som er en ny 13-mode-syklus.
+- «European Load Respons» test (ELR) kjøres i sammenheng med ESC som er en belastningsvariasjonstest hvor røkutslippet måles vha. opasitetsmåling (gjennomlysing av eksosen).
+- «European Transient Cycle» (ETC) er en testsyklus som varierer motorens turtall og belastning iht. en spesiell kurve som skal representere en tenkt reise i by, på landeveg og motorveg.
+
+Alle vanlige dieselmotorer (også med EGR og/eller oksydasjonskatalysator) skal testes med ESC og ELR. Dieselmotorer med annet avansert utstyr for avgassbehandling (f.eks. DeNOX-katalysatorer og/eller partikkelfeller) skal testes med ETC. Gassmotorer skal kun testes med ETC. Alle EEV-motorer utenom gassmotorer skal fra 1. november 2000 testes både med ESC+ELR og ETC.
 
 Grenseverdier for dieseldrevne motorer – ESC- og ELR-test:
 
@@ -4489,7 +5755,9 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test:
 | A (2000) | 2,1 | 0,66 | 5,0 | 0,10 0,13a | 0,8 |
 | C, (EEV)b | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
-a For motorer med slagvolum på mindre end 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .b Grenseverdier som EEV-kjøretøy må tilfredsstille.
+a For motorer med slagvolum på mindre end 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
+
+b Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Grenseverdier for diesel- og gassmotorer – ETC-test:
 
@@ -4498,21 +5766,48 @@ Grenseverdier for diesel- og gassmotorer – ETC-test:
 | A (2000) | 5,45 | 0,78 | 1,6 | 5,0 | 0,16 0,21c |
 | C, (EEV)d | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
-a Kun for naturgassmotorer.b Gjelder ikke for gassdrevne motorer på trinn A.c For motorer med slagvolum under 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .d Grenseverdier som EEV-kjøretøy må tilfredsstille.
+a Kun for naturgassmotorer.
+
+b Gjelder ikke for gassdrevne motorer på trinn A.
+
+c For motorer med slagvolum under 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
+
+d Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Gassmotorprodusenten kan velge å kun måle totale HC, dvs. slå sammen NMHC- og CH4 (metangass)-utslippet. Grenseverdien blir da den samme som for NMHC.
 
-5\. IkrafttredenBestemmelsene i denne paragraf trer i kraft for nye typegodkjenninger og for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy:*Direktiv**Motortype**Typegodkjenning**Registrering*[1999/96/EF](eu/31999l0096)Kompresjon/gass1. november 20001. oktober 2001[2001/27/EF](eu/32001*0027)Kompresjon15. juni 200215. juni 2002Gass15. juni 20021. oktober 2003
+5\. Ikrafttreden
+
+Bestemmelsene i denne paragraf trer i kraft for nye typegodkjenninger og for nye registreringer og salg av fabrikknye motorer unntatt for reservedelsmotorer beregnet for eldre kjøretøy:
+
+| *Direktiv* | *Motortype* | *Typegodkjenning* | *Registrering* |
+| --- | --- | --- | --- |
+| [1999/96/EF](eu/31999l0096) | Kompresjon/gass | 1. november 2000 | 1. oktober 2001 |
+| [2001/27/EF](eu/32001*0027) | Kompresjon | 15. juni 2002 | 15. juni 2002 |
+|  | Gass | 15. juni 2002 | 1. oktober 2003 |
 
 > Endret ved [forskrifter 18 jan 2005 nr. 32](forskrift/2005-01-18-32), [8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-12), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-13).
 
 ### § 25-15. Avgasser – krav til bil ved første gangs registrering (direktiv 91/542/EØF, («Euro 2») eventuelt som endret ved direktiv 96/1/EF)
 
-1\. Bestemmelsene i denne paragraf trer i kraft 1. oktober 1995 for nye typegodkjenninger og 1. oktober 1996 for nye registreringer.Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+1\. Bestemmelsene i denne paragraf trer i kraft 1. oktober 1995 for nye typegodkjenninger og 1. oktober 1996 for nye registreringer.
+
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 2\. For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [91/542/EØF](eu/31991l0542), kravnivå B («Euro 2»), og ved direktiv [96/1/EF](eu/31996l0001*), skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent uavhengig laboratorium for at direktiv [91/542/EØF](eu/31991l0542), kravnivå B, eventuelt som endret ved direktiv [96/1/EF](eu/31996l0001*), er tilfredsstilt.
 
-3\. Virkeområde for direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [91/542/EØF](eu/31991l0542) og direktiv [96/1/EF](eu/31996l0001*), er i henhold til direktivets vedlegg 1 nr. I som følger:«Dette direktiv gjelder for forurensende gasser og partikler fra alle motorvogner som er utstyrt med dieselmotor, og fra dieselmotorer som definert i artikkel 1, med unntak av kjøretøyer i gruppene N1, N2 og M2 som er typegodkjent i samsvar med direktiv [70/220/EØF](eu/31970l0220*), sist endret ved direktiv [91/441/EØF](eu/31991l0441)».Direktiv [88/77/EØF](eu/31988l0077), artikkel 1, lyder:«I dette direktiv menes med:kjøretøy, ethvert kjøretøy som drives frem av en dieselmotor, beregnet til å kjøres på vei, med eller uten karosseri, med minst fire hjul og med høyeste konstruksjonshastighet på over 25 km/t, med unntak av kjøretøyer i gruppe M1, som definert i vedlegg I nr. 0.4 til direktiv [70/156/EØF](eu/31970l0156*), med største tillatte vekt på maksimum 3,5 tonn, kjøretøy på skinner, landbrukstraktorer og -maskiner samt bygge- og anleggsmaskiner.type dieselmotor, dieselmotor som kan typegodkjennes som en teknisk enhet i henhold til artikkel 9a i direktiv [70/156/EØF](eu/31970l0156*)».Direktivet inneholder to sett krav, «A» og «B» (ofte kalt «Euro 1» og «Euro 2»), til utslippet ved en standardisert motorkjøresyklus («13 modesyklusen»).
+3\. Virkeområde for direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [91/542/EØF](eu/31991l0542) og direktiv [96/1/EF](eu/31996l0001*), er i henhold til direktivets vedlegg 1 nr. I som følger:
+
+«Dette direktiv gjelder for forurensende gasser og partikler fra alle motorvogner som er utstyrt med dieselmotor, og fra dieselmotorer som definert i artikkel 1, med unntak av kjøretøyer i gruppene N1, N2 og M2 som er typegodkjent i samsvar med direktiv [70/220/EØF](eu/31970l0220*), sist endret ved direktiv [91/441/EØF](eu/31991l0441)».
+
+Direktiv [88/77/EØF](eu/31988l0077), artikkel 1, lyder:
+
+«I dette direktiv menes med:
+
+- kjøretøy, ethvert kjøretøy som drives frem av en dieselmotor, beregnet til å kjøres på vei, med eller uten karosseri, med minst fire hjul og med høyeste konstruksjonshastighet på over 25 km/t, med unntak av kjøretøyer i gruppe M1, som definert i vedlegg I nr. 0.4 til direktiv [70/156/EØF](eu/31970l0156*), med største tillatte vekt på maksimum 3,5 tonn, kjøretøy på skinner, landbrukstraktorer og -maskiner samt bygge- og anleggsmaskiner.
+- type dieselmotor, dieselmotor som kan typegodkjennes som en teknisk enhet i henhold til artikkel 9a i direktiv [70/156/EØF](eu/31970l0156*)».
+
+Direktivet inneholder to sett krav, «A» og «B» (ofte kalt «Euro 1» og «Euro 2»), til utslippet ved en standardisert motorkjøresyklus («13 modesyklusen»).
 
 4\. Grenseverdier «B»:
 
@@ -4530,7 +5825,9 @@ Grenseverdi:
 
 ### § 25-16. Avgasser – krav til bil ved første gangs registrering (direktiv 91/542/EØF, «Euro 1»)
 
-1\. Bestemmelsene i denne paragraf gjelder for biler som ikke omfattes av [§ 25-15](forskrift/1994-10-04-918/§25-15).Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+1\. Bestemmelsene i denne paragraf gjelder for biler som ikke omfattes av [§ 25-15](forskrift/1994-10-04-918/§25-15).
+
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 2\. For biler som omfattes av direktiv [88/77/EØF](eu/31988l0077), som endret ved direktiv [91/542/EØF](eu/31991l0542), kravnivå «A» («Euro 1»), skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
 
@@ -4542,11 +5839,13 @@ Grenseverdi:
 | --- | --- | --- | --- |
 | 4,5 | 1,1 | 8,0 | 0,361 |
 
-1 For motorer som yter 85 kW eller mindre, skal en koeffisient på 1,7 anvendes på grenseverdien for partikkelutslipp.Grenseverdier «A», produksjonskrav (COP = Conformity og Production):*Masse av CO
-g/k Wh**Masse av HC
-g/k Wh**Masse av NOx
-g/k Wh**Masse av partikler
-g/k Wh*4,91,239,00,41
+1 For motorer som yter 85 kW eller mindre, skal en koeffisient på 1,7 anvendes på grenseverdien for partikkelutslipp.
+
+Grenseverdier «A», produksjonskrav (COP = Conformity og Production):
+
+| *Masse av CO<br>g/k Wh* | *Masse av HC<br>g/k Wh* | *Masse av NOx<br>g/k Wh* | *Masse av partikler<br>g/k Wh* |
+| --- | --- | --- | --- |
+| 4,9 | 1,23 | 9,0 | 0,41 |
 
 > Endret ved [forskrifter 8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-14), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-15).
 
@@ -4560,9 +5859,17 @@ Vegdirektoratet velger ut bilene – eller motorene – og bestemmer tidspunkt o
 
 ### § 25-18. Alternativ dokumentasjon
 
-1\. Som alternativ til EU-direktivene nevnt i [§ 25-10](forskrift/1994-10-04-918/§25-10) og [§ 25-16](forskrift/1994-10-04-918/§25-16), kan det fremlegges dokumentasjon/bevitnelse/garanti for at en av følgende bestemmelser er tilfredsstilt:Amerikanske føderale bestemmelser for lette biler; for bensindrevne biler LDV (Light Duty Vehicles) 1983, og for dieseldrevne biler LDV 1987.Amerikanske føderale bestemmelser for tyngre biler, LDT (Light Duty Trucks) 1990.Amerikanske føderale bestemmelser for tunge biler, HDV (Heavy Duty Vehicles) 1991.Svenske bestemmelser SNFS 1987: 3 (A 12)/SNFS 1989:8 (A 13) eller SNFS 1992:4 (A 14). Sistnevnte inneholder miljøklassene C1 og C2.Tyske bestemmelser StVZO § 47 Anlage XXIII.
+1\. Som alternativ til EU-direktivene nevnt i [§ 25-10](forskrift/1994-10-04-918/§25-10) og [§ 25-16](forskrift/1994-10-04-918/§25-16), kan det fremlegges dokumentasjon/bevitnelse/garanti for at en av følgende bestemmelser er tilfredsstilt:
 
-2\. Som alternativ til EU-direktivet nevnt i [§ 25-15](forskrift/1994-10-04-918/§25-15), kan det fremlegges dokumentasjon/bevitnelse/garanti for at følgende bestemmelser er tilfredsstilt:Amerikanske føderale bestemmelser for tunge biler, HDV (Heavy Duty Vehicles) 1994.
+1. Amerikanske føderale bestemmelser for lette biler; for bensindrevne biler LDV (Light Duty Vehicles) 1983, og for dieseldrevne biler LDV 1987.
+2. Amerikanske føderale bestemmelser for tyngre biler, LDT (Light Duty Trucks) 1990.
+3. Amerikanske føderale bestemmelser for tunge biler, HDV (Heavy Duty Vehicles) 1991.
+4. Svenske bestemmelser SNFS 1987: 3 (A 12)/SNFS 1989:8 (A 13) eller SNFS 1992:4 (A 14). Sistnevnte inneholder miljøklassene C1 og C2.
+5. Tyske bestemmelser StVZO § 47 Anlage XXIII.
+
+2\. Som alternativ til EU-direktivet nevnt i [§ 25-15](forskrift/1994-10-04-918/§25-15), kan det fremlegges dokumentasjon/bevitnelse/garanti for at følgende bestemmelser er tilfredsstilt:
+
+- Amerikanske føderale bestemmelser for tunge biler, HDV (Heavy Duty Vehicles) 1994.
 
 3\. Ovennevnte regelverk opererer med andre grenser mellom lette og tunge biler enn de aktuelle EU-direktivene. Tilfredsstillelse av ovennevnte regelverk godtas selv om den aktuelle bilen etter EU-direktivene tilhører en annen kategori.
 
@@ -4570,7 +5877,9 @@ Vegdirektoratet velger ut bilene – eller motorene – og bestemmer tidspunkt o
 
 ### § 25-19. Røykutslipp – krav til bil med dieselmotor ved første gangs registrering (direktiv 2005/55/EF som endret ved direktiv 2008/74/EF, alternativt forordning (EF) nr. 715/2007 som endret ved forordning (EF) nr. 692/2008)
 
-1. IkrafttredelseBestemmelsene i denne bestemmelsen trer i kraft 3. januar 2009 for typegodkjenning av ny type bil og for nye registreringer. Inntil 1. januar 2013 kan nye kjøretøy alternativt godkjennes og registreres i henhold til [§ 25-19A](forskrift/1994-10-04-918/§25-19a). Fra 2. januar 2013 skal nye kjøretøy godkjennes og registreres i henhold til [§ 25-19](forskrift/1994-10-04-918/§25-19).
+1. Ikrafttredelse
+
+   Bestemmelsene i denne bestemmelsen trer i kraft 3. januar 2009 for typegodkjenning av ny type bil og for nye registreringer. Inntil 1. januar 2013 kan nye kjøretøy alternativt godkjennes og registreres i henhold til [§ 25-19A](forskrift/1994-10-04-918/§25-19a). Fra 2. januar 2013 skal nye kjøretøy godkjennes og registreres i henhold til [§ 25-19](forskrift/1994-10-04-918/§25-19).
 2. For bil med dieselmotor skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra fabrikanten eller kompetent, uavhengig laboratorium for at kravene i direktiv [2005/55/EF](eu/32005l0055) som endret ved direktiv [2008/74/EF](eu/32008l0074), alternativt forordning [(EF) nr. 715/2007](eu/32007r0715) som endret ved forordning [(EF) nr. 692/2008](eu/32008r0692*) er tilfredsstilt.
 3. Alternativ standard: ECE-regulativ nr. 24.02.
 
@@ -4578,7 +5887,9 @@ Vegdirektoratet velger ut bilene – eller motorene – og bestemmer tidspunkt o
 
 ### § 25-19A. Røykutslipp – krav til bil med dieselmotor ved første gangs registrering (direktiv 72/306/EØF, som senest endret ved direktiv 2005/21/EF)
 
-1. Ikrafttredelse og varighetBestemmelsene i denne paragraf trer i kraft 1. oktober 1998 for typegodkjenning av ny type bil og 1. oktober 1999 for nye registreringer. Bestemmelsene gjelder frem til 1. januar 2013.
+1. Ikrafttredelse og varighet
+
+   Bestemmelsene i denne paragraf trer i kraft 1. oktober 1998 for typegodkjenning av ny type bil og 1. oktober 1999 for nye registreringer. Bestemmelsene gjelder frem til 1. januar 2013.
 2. For bil med dieselmotor skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra fabrikanten eller kompetent, uavhengig laboratorium for at kravene i direktiv [72/306/EØF](eu/31972l0306*), eventuelt som endret ved direktiv [89/491/EØF](eu/31989l0491), direktiv [97/20/EF](eu/31997l0020) eller direktiv [2005/21/EF](eu/32005l0021) er tilfredsstilt.
 3. Alternativ standard: ECE-regulativ nr. 24.02.
 
@@ -4588,7 +5899,9 @@ Vegdirektoratet velger ut bilene – eller motorene – og bestemmer tidspunkt o
 
 1\. Kravnivå: Direktiv [97/24/EF](eu/31997l0024*) [kapittel 5](forskrift/1994-10-04-918/kap5) som endret ved direktiv [2003/77/EF](eu/32003l0077) (om foranstaltninger mot luftforurensning fra to- og trehjulede motorvogner) og senest ved direktiv [2009/108/EF](eu/32009l0108).
 
-2\. Virkeområde: Alle kjøretøy som er definert i artikkel 1 i direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved [2003/77/EF](eu/32003l0077).Bestemmelsene gjelder ikke for militærtekniske kjøretøy registrert på forsvaret.
+2\. Virkeområde: Alle kjøretøy som er definert i artikkel 1 i direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved [2003/77/EF](eu/32003l0077).
+
+Bestemmelsene gjelder ikke for militærtekniske kjøretøy registrert på forsvaret.
 
 3\. Alternativ standard: Ingen.
 
@@ -4601,7 +5914,9 @@ Vegdirektoratet velger ut bilene – eller motorene – og bestemmer tidspunkt o
 |  |  | *CO* | *HC* | *NOX* |
 | Tohjuls motorsykkel | I (≤150 cm3 )1<br>II (> 150 cm3 )2 | 2,0<br>2,0 | 0,8<br>0,3 | 0,15<br>0,15 |
 
-1 Bysyklus (iht. ECE-reg.nr. 40) men avgassmålingen starter med en gang og ikke etter de to innledende oppvarmingssyklusene slik at seks grunnsykluser måles.2 I tillegg til bysyklusen skal landevegsdelen (EUDC) fra person- og varebil prøvesyklusen (direktiv [70/220/EØF](eu/31970l0220*)) kjøres umiddelbart etter. Avgassmålingen starter med en gang uten innledende oppvarming.
+1 Bysyklus (iht. ECE-reg.nr. 40) men avgassmålingen starter med en gang og ikke etter de to innledende oppvarmingssyklusene slik at seks grunnsykluser måles.
+
+2 I tillegg til bysyklusen skal landevegsdelen (EUDC) fra person- og varebil prøvesyklusen (direktiv [70/220/EØF](eu/31970l0220*)) kjøres umiddelbart etter. Avgassmålingen starter med en gang uten innledende oppvarming.
 
 Eventuelt kan fabrikanten velge å avgassteste motorvognene etter global teknisk forskrift (GTR) fra FNs Økonomiske Kommisjon for Europa (FN/ECE) nr. 2, som er en alternativ typegodkjenningsprosedyre. Motorsykler testet etter GTR nr. 2 skal tilfredsstille nedenstående grenseverdier ved typegodkjenning, samsvarskontroll og førstegangsregistrering:
 
@@ -4625,9 +5940,13 @@ Eventuelt kan fabrikanten velge å avgassteste motorvognene etter global teknisk
 
 \* For kjøretøytyper som ikke selges i mer enn 5000 eksemplarer i EU er datoen 1. januar 2008.
 
-5.2 FunksjonsdyktighetKravene til erklæring for funksjonsdyktighet trer i kraft 1. januar 2006 for typegodkjenning av ny type kjøretøy og 1. januar 2007 for nye registreringer.
+5.2 Funksjonsdyktighet
 
-5.3 Alternativ avgasstestprosedyre etter GTR nr. 2Alternativ avgasstestprosedyre etter GTR nr. 2 er gyldig fra 1. juli 2007.
+Kravene til erklæring for funksjonsdyktighet trer i kraft 1. januar 2006 for typegodkjenning av ny type kjøretøy og 1. januar 2007 for nye registreringer.
+
+5.3 Alternativ avgasstestprosedyre etter GTR nr. 2
+
+Alternativ avgasstestprosedyre etter GTR nr. 2 er gyldig fra 1. juli 2007.
 
 > Endret ved [forskrifter 16 nov 2004 nr. 1470](forskrift/2004-11-16-1470), [8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-18), [2 mai 2007 nr. 463](forskrift/2007-05-02-463), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-19), [5 mai 2011 nr. 458](forskrift/2011-05-05-458).
 
@@ -4704,7 +6023,9 @@ Ikrafttreden:
 
 1\. Reservedels-/utskiftningskatalysator for to- og trehjulet motorvogn skal tilfredsstille kravene til reservedels-/utskiftningskatalysator i direktiv [97/24/EF](eu/31997l0024*) som endret ved direktiv [2005/30/EF](eu/32005l0030), som senest endret ved direktiv [2006/120/EF](eu/32006l0120).
 
-2\. Ikrafttreden:Bestemmelsene i denne paragraf trer i kraft 18. mai 2006. Fra 1. januar 2009 skal det nektes salg eller montering av utskiftningskatalysatorer som ikke er typegodkjent i henhold til direktiv [97/24/EF](eu/31997l0024*) som endret ved direktiv [2005/30/EF](eu/32005l0030), som senest endret ved direktiv [2006/120/EF](eu/32006l0120).
+2\. Ikrafttreden:
+
+Bestemmelsene i denne paragraf trer i kraft 18. mai 2006. Fra 1. januar 2009 skal det nektes salg eller montering av utskiftningskatalysatorer som ikke er typegodkjent i henhold til direktiv [97/24/EF](eu/31997l0024*) som endret ved direktiv [2005/30/EF](eu/32005l0030), som senest endret ved direktiv [2006/120/EF](eu/32006l0120).
 
 > Tilføyd ved [forskrift 3 april 2006 nr. 452](forskrift/2006-04-03-452), endret ved [forskrifter 8 des 2006 nr. 1505](forskrift/2006-12-08-1505) (tidligere § 25-21), [30 okt 2007 nr. 1201](forskrift/2007-10-30-1201), [22 sep 2008 nr. 1038](forskrift/2008-09-22-1038) (tidligere § 25-22).
 
@@ -4898,7 +6219,9 @@ Ikrafttredelsesdatoene gjelder ikke for motorer som skal monteres i traktorer so
 
 1\. *Kravnivå:* Direktiv [97/68/EF](eu/31997l0068) som endret ved direktiv [2004/26/EF](eu/32004l0026*), trinn III A og III B.
 
-2\. *Virkeområde:* Motorredskap som faller inn under definisjonen av mobile, ikke veigående maskiner i direktiv [2004/26/EF](eu/32004l0026*) artikkel 2 jf. bilag 1 [pkt](forskrift/1994-10-04-918/kap1). 1 med motor med kompresjonstenning med effekt på minst 130 kW men mindre enn 560 kW.Bestemmelsene i denne paragraf gjelder ikke forsvarets militærtaktiske kjøretøy.
+2\. *Virkeområde:* Motorredskap som faller inn under definisjonen av mobile, ikke veigående maskiner i direktiv [2004/26/EF](eu/32004l0026*) artikkel 2 jf. bilag 1 [pkt](forskrift/1994-10-04-918/kap1). 1 med motor med kompresjonstenning med effekt på minst 130 kW men mindre enn 560 kW.
+
+Bestemmelsene i denne paragraf gjelder ikke forsvarets militærtaktiske kjøretøy.
 
 3\. *Alternativ standard:* Ingen.
 
@@ -5071,9 +6394,13 @@ Ikrafttreden:
 
 ### § 26-4. Bremseanlegg på traktor
 
-1\. Traktor i gruppe T5 som godkjennes etter 1. juli 2005 skal tilfredsstille kravene i direktiv [71/320/EØF](eu/31971l0320*) som senest endret ved direktiv [2002/78/EF](eu/32002l0078).Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at traktor i gruppe T5 tilfredsstiller ovennevnte krav. Dette gjelder ikke når traktor i gruppe T5 er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067). Alternativt kan traktor i gruppe T5 eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
+1\. Traktor i gruppe T5 som godkjennes etter 1. juli 2005 skal tilfredsstille kravene i direktiv [71/320/EØF](eu/31971l0320*) som senest endret ved direktiv [2002/78/EF](eu/32002l0078).
 
-2\. Jord- eller skogbrukstraktor med konstruktiv hastighet ikke over 40 km/t som godkjennes før 1. juli 2005 skal tilfredsstille kravene i direktiv [76/432/EØF](eu/31976l0432*) som senest endret ved direktiv [97/54/EF](eu/31997l0054). Kravene gjelder for typegodkjenning av ny type kjøretøy fra 1. januar 2000 og for nye registreringer fra 1. januar 2001.Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at jord- eller skogbrukstraktor tilfredsstiller ovennevnte krav. Dette gjelder ikke når jord- eller skogbrukstraktor er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv [74/150/EØF](eu/31974l0150*). Alternativt kan jord- eller skogbrukstraktor eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
+Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at traktor i gruppe T5 tilfredsstiller ovennevnte krav. Dette gjelder ikke når traktor i gruppe T5 er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067). Alternativt kan traktor i gruppe T5 eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
+
+2\. Jord- eller skogbrukstraktor med konstruktiv hastighet ikke over 40 km/t som godkjennes før 1. juli 2005 skal tilfredsstille kravene i direktiv [76/432/EØF](eu/31976l0432*) som senest endret ved direktiv [97/54/EF](eu/31997l0054). Kravene gjelder for typegodkjenning av ny type kjøretøy fra 1. januar 2000 og for nye registreringer fra 1. januar 2001.
+
+Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at jord- eller skogbrukstraktor tilfredsstiller ovennevnte krav. Dette gjelder ikke når jord- eller skogbrukstraktor er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv [74/150/EØF](eu/31974l0150*). Alternativt kan jord- eller skogbrukstraktor eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810), [30 nov 2005 nr. 1344](forskrift/2005-11-30-1344), [8 mai 2006 nr. 486](forskrift/2006-05-08-486).
 
@@ -5217,7 +6544,9 @@ For bremseanlegg hvor slitasje i anlegget medfører at betjeningsinnretningens b
 
 2.7
 
-Nødbremseanlegg skal kunne tilsettes med varierende styrke og kjøretøyet skal kunne stanses på rimelig veglengde uansett hastighet eller belastning. Anlegget må kunne brukes når det oppstår feil i driftsbremseanleggets overføringsinnretning og ellers på vilkårlig tidspunkt.Nødbremseanlegg kan bestå av:
+Nødbremseanlegg skal kunne tilsettes med varierende styrke og kjøretøyet skal kunne stanses på rimelig veglengde uansett hastighet eller belastning. Anlegget må kunne brukes når det oppstår feil i driftsbremseanleggets overføringsinnretning og ellers på vilkårlig tidspunkt.
+
+Nødbremseanlegg kan bestå av:
 
 2.7.1
 
@@ -5389,7 +6718,9 @@ Motoren skal være frakoplet under bremseprøven.
 
 3.1.6
 
-For motorvogn er kravene til drifts- og nødbremseanleggs virkning basert på en største stopplengde som beregnes etter følgende formel:S = t\*V/3,6 + (V2 /25,92\*r))
+For motorvogn er kravene til drifts- og nødbremseanleggs virkning basert på en største stopplengde som beregnes etter følgende formel:
+
+S = t\*V/3,6 + (V2 /25,92\*r))
 S = stopplengde i m
 V = begynnelseshastighet i km/t
 t = teoretisk tapstid i sek.
@@ -5633,7 +6964,9 @@ Bremseanlegg hvor den foreskrevne driftsbremsevirkning ikke kan oppnås uten bru
 
 2.3
 
-Driftsbremseanleggets virkning skal prøves ved bremseprøve med kald brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.2.I tabell 11 er kravene til driftsbremseanleggets virkning og prøvebetingelsene oppført.
+Driftsbremseanleggets virkning skal prøves ved bremseprøve med kald brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.2.
+
+I tabell 11 er kravene til driftsbremseanleggets virkning og prøvebetingelsene oppført.
 
 *Krav til driftsbremseanleggets virkning på beltebil og beltemotorsykkel ved prøve med kald brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.2.*
 
@@ -5695,7 +7028,9 @@ Traktor og motorredskap konstruert for en hastighet ikke over 30 km/t, kan ha se
 
 2.5
 
-Driftsbremseanleggets virkning skal prøves ved bremseprøve med kald brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.2 og med varm brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.3.I tabell 12 og 13 er kravene til driftsbremseanleggets virkning og prøvebetingelsene oppført.
+Driftsbremseanleggets virkning skal prøves ved bremseprøve med kald brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.2 og med varm brems etter [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 3.1 og 3.3.
+
+I tabell 12 og 13 er kravene til driftsbremseanleggets virkning og prøvebetingelsene oppført.
 
 2.6
 
@@ -6124,15 +7459,33 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 ### § 27-8. Elektromagnetisk støy for jordbruks- eller skogbrukstraktor som godkjennes før 1. juli 2005 (direktiv 2001/3/EF)
 
-1\. Kravnivå:Direktiv [75/322/EØF](eu/31975l0322*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003).
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Bestemmelsen i denne paragraf gjelder for jordbruks- og skogbrukstraktorer.Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- og skogbrukstraktorer.Bestemmelsene gjelder ikke for traktor som godkjennes etter 1. juli 2005.
+Direktiv [75/322/EØF](eu/31975l0322*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003).
 
-3\. Alternativ standard:Ingen.
+2\. Virkeområde m.m.:
 
-4\. Godkjenning:Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at jordbruks- og skogbrukstraktor tilfredsstiller ovennevnte krav. Dette gjelder ikke når jordbruks- og skogbrukstraktor er ledsaget av gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv [74/150/EØF](eu/31974l0150*). Alternativt kan jordbruks- og skogbrukstraktor, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.Ved typegodkjenning av en type jordbruks- og skogbrukstraktor, komponenter og separate tekniske enheter, skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [75/322/EØF](eu/31975l0322*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003) er tilfredsstilt.
+Bestemmelsen i denne paragraf gjelder for jordbruks- og skogbrukstraktorer.
 
-5\. Ikrafttreden:Denne paragraf trer i kraft 1. oktober 2002 for typegodkjenning av jordbruks- og skogbrukstraktorer og komponenter eller separate tekniske enheter og 1. oktober 2008 for registrering og ibruktagning av nye jordbruks- og skogbrukstraktorer og elektriske/elektroniske enheter som komponenter eller separate tekniske enheter til jordbruks- og skogbrukstraktorer.Til bruk som reservedeler på jordbruks- og skogbrukstraktorer som før 1. oktober 2002 er typegodkjent i henhold til direktiv [75/322/EØF](eu/31975l0322*) eller direktiv [77/537/EØF](eu/31977l0537) (avgasskrav for jordbruks- og skogbrukstraktorer) med eventuelle etterfølgende forlengelser og utvidelser av slike typegodkjenninger, tillates det typegodkjenning, salg og første ibruktagning av komponenter og separate tekniske enheter.
+Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- og skogbrukstraktorer.
+
+Bestemmelsene gjelder ikke for traktor som godkjennes etter 1. juli 2005.
+
+3\. Alternativ standard:
+
+Ingen.
+
+4\. Godkjenning:
+
+Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at jordbruks- og skogbrukstraktor tilfredsstiller ovennevnte krav. Dette gjelder ikke når jordbruks- og skogbrukstraktor er ledsaget av gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv [74/150/EØF](eu/31974l0150*). Alternativt kan jordbruks- og skogbrukstraktor, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
+
+Ved typegodkjenning av en type jordbruks- og skogbrukstraktor, komponenter og separate tekniske enheter, skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [75/322/EØF](eu/31975l0322*) som senest endret ved direktiv [2001/3/EF](eu/32001l0003) er tilfredsstilt.
+
+5\. Ikrafttreden:
+
+Denne paragraf trer i kraft 1. oktober 2002 for typegodkjenning av jordbruks- og skogbrukstraktorer og komponenter eller separate tekniske enheter og 1. oktober 2008 for registrering og ibruktagning av nye jordbruks- og skogbrukstraktorer og elektriske/elektroniske enheter som komponenter eller separate tekniske enheter til jordbruks- og skogbrukstraktorer.
+
+Til bruk som reservedeler på jordbruks- og skogbrukstraktorer som før 1. oktober 2002 er typegodkjent i henhold til direktiv [75/322/EØF](eu/31975l0322*) eller direktiv [77/537/EØF](eu/31977l0537) (avgasskrav for jordbruks- og skogbrukstraktorer) med eventuelle etterfølgende forlengelser og utvidelser av slike typegodkjenninger, tillates det typegodkjenning, salg og første ibruktagning av komponenter og separate tekniske enheter.
 
 > Endret ved forskrifter 23 des 2004 nr. 1801 (tidligere § 27-6), [14 okt 2005 nr. 1226](forskrift/2005-10-14-1226) (tidligere § 27-7).
 
@@ -6196,11 +7549,51 @@ Tabellen viser typegodkjenningskravene for de forskjellige lykte- og reflekstype
 
 3.*Alternative standarder til direktivene i tabellen i nr. 2*
 
-1. *ECE-regulativer* *Lykt for:**Merking:*
-*(kode på lykt)**ECE-Regulativ:**Serie:**Tillegg:**Rettelse:*Lysmontering48011 og 21 t.o.m. 4 til 01FjernlysR1011 t.o.m. 61 til 01, 1 til tillegg 3
-og 1 til rev. 45021 t.o.m. 31 til rev. 38041 t.o.m. 71 til tillegg 4 og 1 til rev. 320021 t.o.m. 51 til tillegg 3 og 1 til rev. 231021 t.o.m. 31 til rev. 137031 t.o.m. 141 til tillegg 998009900NærlysC1011 t.o.m. 61 til 01, 1 til tillegg 3
-og 1 til rev. 45021 t.o.m. 31 til rev. 38041 t.o.m. 71 til tillegg 4 og 1 til rev. 320021 t.o.m. 51 til tillegg 3 og 1 til rev. 231021 t.o.m. 31 til rev. 137031 t.o.m. 141 til tillegg 998009900Tåkelys foranB19021 t.o.m. 61 til rev. 3RyggelysAR23001 t.o.m. 51 til tillegg 4Retningslys1, 2 eller 56011 t.o.m. 71 og 2 til 01Nødsignallys1, 2 eller 56011 t.o.m. 71 og 2 til 01StopplysS1 eller S27021 t.o.m. 41 til tillegg 2Stopplys midtmontertS37021 t.o.m. 41 til tillegg 2Lys for kjennemerke bak4001 t.o.m. 6Markeringslys foran (Parklys)A7021 t.o.m. 41 til tillegg 2Markeringslys bak (Baklys)R7021 t.o.m. 41 til tillegg 2Tåkelys bakF38001 t.o.m. 51 til tillegg 3Parkeringslys (for tettbygd strøk)77001 t.o.m. 41 til 00ToppmarkeringslysA7021, 2, 3 og 41 til tillegg 2SidemarkeringslysSM91001 og 2RefleksanordningI3021, 2 og 3KjørelysRL870011 til 00
-2. *Federal Motor Vehicle Safety Standards (FMVSS), Canada Motor Vehicle Safety Standards (CMVSS) og The Society of Automotive Engineers (SAE) Standards* *Lykt for:**Merking:**Standard nummer:*FjernlysDOTFMVSS nr. 108 eller CMVSS nr. 108NærlysDOTFMVSS nr. 108 eller CMVSS nr. 108Markeringslys bak (baklys)DOT eller SAE-TFMVSS nr. 108, CMVSS nr. 108, SAE J585 eller SAE J2040Retningslys bakDOT, SAE-I eller SAE-AIFMVSS nr. 108, CMVSS nr. 108, SAE J588 eller SAE J2261StopplysDOT eller SAE-SFMVSS nr. 108, CMVSS nr. 108, SAE J586, SAE J1432, SAE J1957 eller SAE J2261
+1. *ECE-regulativer*
+
+   | *Lykt for:* | *Merking:*<br>*(kode på lykt)* | *ECE-Regulativ:* | *Serie:* | *Tillegg:* | *Rettelse:* |
+   | --- | --- | --- | --- | --- | --- |
+   | Lysmontering |  | 48 | 01 | 1 og 2 | 1 t.o.m. 4 til 01 |
+   | Fjernlys | R | 1 | 01 | 1 t.o.m. 6 | 1 til 01, 1 til tillegg 3<br>og 1 til rev. 4 |
+   |  |  | 5 | 02 | 1 t.o.m. 3 | 1 til rev. 3 |
+   |  |  | 8 | 04 | 1 t.o.m. 7 | 1 til tillegg 4 og 1 til rev. 3 |
+   |  |  | 20 | 02 | 1 t.o.m. 5 | 1 til tillegg 3 og 1 til rev. 2 |
+   |  |  | 31 | 02 | 1 t.o.m. 3 | 1 til rev. 1 |
+   |  |  | 37 | 03 | 1 t.o.m. 14 | 1 til tillegg 9 |
+   |  |  | 98 | 00 |  |  |
+   |  |  | 99 | 00 |  |  |
+   | Nærlys | C | 1 | 01 | 1 t.o.m. 6 | 1 til 01, 1 til tillegg 3<br>og 1 til rev. 4 |
+   |  |  | 5 | 02 | 1 t.o.m. 3 | 1 til rev. 3 |
+   |  |  | 8 | 04 | 1 t.o.m. 7 | 1 til tillegg 4 og 1 til rev. 3 |
+   |  |  | 20 | 02 | 1 t.o.m. 5 | 1 til tillegg 3 og 1 til rev. 2 |
+   |  |  | 31 | 02 | 1 t.o.m. 3 | 1 til rev. 1 |
+   |  |  | 37 | 03 | 1 t.o.m. 14 | 1 til tillegg 9 |
+   |  |  | 98 | 00 |  |  |
+   |  |  | 99 | 00 |  |  |
+   | Tåkelys foran | B | 19 | 02 | 1 t.o.m. 6 | 1 til rev. 3 |
+   | Ryggelys | AR | 23 | 00 | 1 t.o.m. 5 | 1 til tillegg 4 |
+   | Retningslys | 1, 2 eller 5 | 6 | 01 | 1 t.o.m. 7 | 1 og 2 til 01 |
+   | Nødsignallys | 1, 2 eller 5 | 6 | 01 | 1 t.o.m. 7 | 1 og 2 til 01 |
+   | Stopplys | S1 eller S2 | 7 | 02 | 1 t.o.m. 4 | 1 til tillegg 2 |
+   | Stopplys midtmontert | S3 | 7 | 02 | 1 t.o.m. 4 | 1 til tillegg 2 |
+   | Lys for kjennemerke bak |  | 4 | 00 | 1 t.o.m. 6 |  |
+   | Markeringslys foran (Parklys) | A | 7 | 02 | 1 t.o.m. 4 | 1 til tillegg 2 |
+   | Markeringslys bak (Baklys) | R | 7 | 02 | 1 t.o.m. 4 | 1 til tillegg 2 |
+   | Tåkelys bak | F | 38 | 00 | 1 t.o.m. 5 | 1 til tillegg 3 |
+   | Parkeringslys (for tettbygd strøk) |  | 77 | 00 | 1 t.o.m. 4 | 1 til 00 |
+   | Toppmarkeringslys | A | 7 | 02 | 1, 2, 3 og 4 | 1 til tillegg 2 |
+   | Sidemarkeringslys | SM | 91 | 00 | 1 og 2 |  |
+   | Refleksanordning | I | 3 | 02 | 1, 2 og 3 |  |
+   | Kjørelys | RL | 87 | 00 | 1 | 1 til 00 |
+2. *Federal Motor Vehicle Safety Standards (FMVSS), Canada Motor Vehicle Safety Standards (CMVSS) og The Society of Automotive Engineers (SAE) Standards*
+
+   | *Lykt for:* | *Merking:* | *Standard nummer:* |
+   | --- | --- | --- |
+   | Fjernlys | DOT | FMVSS nr. 108 eller CMVSS nr. 108 |
+   | Nærlys | DOT | FMVSS nr. 108 eller CMVSS nr. 108 |
+   | Markeringslys bak (baklys) | DOT eller SAE-T | FMVSS nr. 108, CMVSS nr. 108, SAE J585 eller SAE J2040 |
+   | Retningslys bak | DOT, SAE-I eller SAE-AI | FMVSS nr. 108, CMVSS nr. 108, SAE J588 eller SAE J2261 |
+   | Stopplys | DOT eller SAE-S | FMVSS nr. 108, CMVSS nr. 108, SAE J586, SAE J1432, SAE J1957 eller SAE J2261 |
 
 4\.
 
@@ -6240,17 +7633,22 @@ For refleksbjelke bak som indikerer kjøretøyets/vogntogets størrelse gjelder 
 
 4.9
 
-Ekstra fjernlys for bilAntall: Fritt antall lykter for ekstra fjernlys.
+Ekstra fjernlys for bil
+
+Antall: Fritt antall lykter for ekstra fjernlys.
 Lysstyrke: Det er ingen begrensning til maksimal tillatt lysstyrke.
 Plassering: Lykter for ekstra fjernlys må plasseres symmetrisk i forhold til bilens langsgående senterlinje. Det er ikke krav om parvis montering.
 
 4.10
 
-ToppmarkeringslysForan på bil med bredde på 1.80 m eller mer tillates utover kravene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 inntil 2 ekstra toppmarkeringslys (dvs. 4 totalt) fordelt med inntil to på førerhus og/eller to på påbygg. Lysene skal plasseres som angitt i direktiv/standarder som nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3.På bil med bredde 2,10 m eller mer tillates 3 hvite identifikasjonslys foran og 3 røde identifikasjonslys bak.
-Plassering
-I bredden: Symmetrisk om kjøretøyets midtplan i lengderetningen. Lyktene skal være plassert slik at avstanden mellom dem er minimum 150 mm og maksimum 300 mm.
-I høyden: Som angitt i direktiv/standarder nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3. For øvrig skal horisontalplanet som tangerer den øvre kanten på lyktens lysflate ikke være lavere enn horisontalplanet som tangerer den øvre kanten på frontrutens gjennomsiktige sone.
-I lengden: De fremre lyktene skal plasseres enten på førerhus eller på påbygg og de bakre lyktene skal plasseres bak på kjøretøyet.
+Toppmarkeringslys
+
+1. Foran på bil med bredde på 1.80 m eller mer tillates utover kravene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 inntil 2 ekstra toppmarkeringslys (dvs. 4 totalt) fordelt med inntil to på førerhus og/eller to på påbygg. Lysene skal plasseres som angitt i direktiv/standarder som nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3.
+2. På bil med bredde 2,10 m eller mer tillates 3 hvite identifikasjonslys foran og 3 røde identifikasjonslys bak.
+   Plassering
+   I bredden: Symmetrisk om kjøretøyets midtplan i lengderetningen. Lyktene skal være plassert slik at avstanden mellom dem er minimum 150 mm og maksimum 300 mm.
+   I høyden: Som angitt i direktiv/standarder nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3. For øvrig skal horisontalplanet som tangerer den øvre kanten på lyktens lysflate ikke være lavere enn horisontalplanet som tangerer den øvre kanten på frontrutens gjennomsiktige sone.
+   I lengden: De fremre lyktene skal plasseres enten på førerhus eller på påbygg og de bakre lyktene skal plasseres bak på kjøretøyet.
 
 4.11
 
@@ -6260,7 +7658,9 @@ På tilhenger kan det monteres lykter som nevnt i leddet ovenfor på begge sider
 
 4.12
 
-For markeringslys bak (baklys) for bil og tilhenger, gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:Antall: Inntil 10 ekstra (dvs. 12 totalt) fordelt med inntil 6 nede og 6 oppe.
+For markeringslys bak (baklys) for bil og tilhenger, gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:
+
+Antall: Inntil 10 ekstra (dvs. 12 totalt) fordelt med inntil 6 nede og 6 oppe.
 Plassering
 I bredden: Som bestemt i direktiv/standarder som nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3.
 For lykter som monteres nede skal høyden over bakken være: Ikke mindre enn 350 mm, ikke mer enn 1.500 mm, eller ikke mer enn 2.100 mm er dersom karosseriets form gjør det umulig å overholde grensen på 1500 mm (som angitt i direktivet). For lykter som monteres oppe, skal avstanden fra lyktens lysende flates øverste kant ikke være mer enn 400 mm fra horisontalplanet som tangerer bakpartens øverste kant.
@@ -6274,7 +7674,9 @@ For tåkelys bak gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28
 
 4.14
 
-For retningslys bak for bil og tilhenger gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:Antall: To ekstra oppe.
+For retningslys bak for bil og tilhenger gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:
+
+Antall: To ekstra oppe.
 Plassering.
 I bredden: Som angitt i direktiv/standarder som nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3. I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.
 Alternative standarder:
@@ -6282,7 +7684,9 @@ Lykter som er godkjent og merket etter SAE eller DOT standarder godtas dersom fa
 
 4.15
 
-For lykter for stopplys for bil og tilhenger gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:Antall: To ekstra montert oppe.
+For lykter for stopplys for bil og tilhenger gjelder bestemmelsene i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3 med følgende tillegg:
+
+Antall: To ekstra montert oppe.
 Plassering.
 I bredden: Som angitt i direktiv/standarder nevnt i [§ 28-1](forskrift/1994-10-04-918/§28-1) nr. 2 og 3.
 I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.
@@ -6338,17 +7742,64 @@ Tabellen viser typegodkjenningskravene for de forskjellige lykte- og reflekstype
 
 4.*Alternative standarder:*
 
-1. *ECE-regulativer:* *Lykt for:**Merking: (kode på lykt i tillegg til E-merking)**ECE-regulativ nummer: (gjeldende kravnivå)*Lysmontering53.00Fjernlys(ikke krav på moped)R, eller HR1.00, 8.00 eller 20.02Ingen kode56.00 (kun moped)MB57.00MBH72.00HS282.00NærlysC eller CR1.00, 8.00 eller 20.02Ingen kode56.00 (kun moped)MB57.00MBH72.00HS282.00Tåkelys foranB19.02Retningslys50 R i tillegg til 11 foran, 12 bak og 31 kombinert.50.001 foran og 2 bak6.01Nødsignallys50 R i tillegg til 11 foran, 12 bak og 31 kombinert.50.001 foran og 2 bak6.01Stopplys50 R50.00S7.01Lys for kjennemerke bak50 R50.00Ingen kode4.00Markeringslys foran50 R50.00ParklysA7.01Markeringslys bak (Baklys)50 R50.00R7.01Tåkelys bakF38.00Refleksanordninger (foran, bak, siden og pedaler)I3.02Lyspærer37.03
-2. *Federal Motor Vehicle Safety Standards (FMVSS), Canada Motor Vehicle Safety Standards (CMVSS) og The Society of Automotive Engineers (SAE) Standards* *Lykt for:**Merking:**Standard nummer:*FjernlysDOTFMVSS nr. 108 eller CMVSS nr. 108NærlysDOTFMVSS nr. 108 eller CMVSS nr. 108Markeringslys bak (baklys)DOT eller SAEFMVSS nr. 108, CMVSS nr. 108 eller aktuell SAE-standardRetningslysDOT, SAE-I eller SAE-AIFMVSS nr. 108, CMVSS nr. 108 eller SAE J131StopplysDOT eller SAE-SFMVSS nr. 108, CMVSS nr. 108 eller SAE J1167
+1. *ECE-regulativer:*
+
+   | *Lykt for:* | *Merking: (kode på lykt i tillegg til E-merking)* | *ECE-regulativ nummer: (gjeldende kravnivå)* |  |
+   | --- | --- | --- | --- |
+   | Lysmontering |  | 53.00 |  |
+   | Fjernlys | (ikke krav på moped) |  |  |
+   |  | R, eller HR | 1.00, 8.00 eller 20.02 |  |
+   |  | Ingen kode | 56.00 (kun moped) |  |
+   |  | MB | 57.00 |  |
+   |  | MBH | 72.00 |  |
+   |  | HS2 | 82.00 |  |
+   | Nærlys | C eller CR | 1.00, 8.00 eller 20.02 |  |
+   |  | Ingen kode | 56.00 (kun moped) |  |
+   |  | MB | 57.00 |  |
+   |  | MBH | 72.00 |  |
+   |  | HS2 | 82.00 |  |
+   | Tåkelys foran | B | 19.02 |  |
+   | Retningslys | 50 R i tillegg til 11 foran, 12 bak og 31 kombinert. | 50.00 |  |
+   |  | 1 foran og 2 bak | 6.01 |  |
+   | Nødsignallys | 50 R i tillegg til 11 foran, 12 bak og 31 kombinert. | 50.00 |  |
+   |  | 1 foran og 2 bak | 6.01 |  |
+   | Stopplys | 50 R | 50.00 |  |
+   |  | S | 7.01 |  |
+   | Lys for kjennemerke bak | 50 R | 50.00 |  |
+   |  | Ingen kode | 4.00 |  |
+   | Markeringslys foran | 50 R | 50.00 |  |
+   | Parklys | A | 7.01 |  |
+   | Markeringslys bak (Baklys) | 50 R | 50.00 |  |
+   |  | R | 7.01 |  |
+   | Tåkelys bak | F | 38.00 |  |
+   | Refleksanordninger (foran, bak, siden og pedaler) | I | 3.02 |  |
+   | Lyspærer |  | 37.03 |  |
+2. *Federal Motor Vehicle Safety Standards (FMVSS), Canada Motor Vehicle Safety Standards (CMVSS) og The Society of Automotive Engineers (SAE) Standards*
+
+   | *Lykt for:* | *Merking:* | *Standard nummer:* |
+   | --- | --- | --- |
+   | Fjernlys | DOT | FMVSS nr. 108 eller CMVSS nr. 108 |
+   | Nærlys | DOT | FMVSS nr. 108 eller CMVSS nr. 108 |
+   | Markeringslys bak (baklys) | DOT eller SAE | FMVSS nr. 108, CMVSS nr. 108 eller aktuell SAE-standard |
+   | Retningslys | DOT, SAE-I eller SAE-AI | FMVSS nr. 108, CMVSS nr. 108 eller SAE J131 |
+   | Stopplys | DOT eller SAE-S | FMVSS nr. 108, CMVSS nr. 108 eller SAE J1167 |
 
 5\.
 
-Annet tillatt lysutstyr.Nær-/fjernlys kan være koblet slik at de tennes automatisk når motoren er i gang. Tenning av lysene kan også skje ved at kjøretøyet settes i bevegelse.For blått blinkende lys gjelder bestemmelsene i [§ 28-6](forskrift/1994-10-04-918/§28-6) nr. 9 og [§ 28-7](forskrift/1994-10-04-918/§28-7) nr. 8.For gult blinkende lys gjelder bestemmelsene i [§ 28-3](forskrift/1994-10-04-918/§28-3) nr. 3.For reklameskilt gjelder bestemmelsene i [§ 28-9](forskrift/1994-10-04-918/§28-9).For instrumentlys m.m. gjelder bestemmelsene i [§ 28-9](forskrift/1994-10-04-918/§28-9).Lykter for baklys, stopplys og retningslys som er godkjent og merket etter SAE eller DOT standard godtas dersom fargen er tilnærmet i samsvar med angivelse i direktiv/standarder som nevnt i [§ 28-2](forskrift/1994-10-04-918/§28-2) nr. 3 eller nr. 4Ekstra fjernlys:
-Antall: Fritt antall lykter for ekstra fjernlys.
-Lysstyrke: Det er ingen begrensning til maksimal tillatt lysstyrke. 4 Plassering: Lykter for ekstra fjernlys må plasseres foran på kjøretøyet. Dette anses oppfylt hvis lyset ikke er til sjenanse for føreren hverken direkte eller indirekte gjennom speil eller andre reflekterende flater på kjøretøyet.
-Det er ingen krav til innbyrdes avstand mellom ekstra fjernlyslykter, eller avstand mellom ekstra fjernlyslykter og original hovedlykt.
-Kobling: Ekstra fjernlys skal bare kunne lyse når bryteren for omkobling mellom nær- og fjernlys står i stilling for fjernlys.
-Kjøretøy i gruppe L4: Bestemmelsene her gjelder ikke for sidevognen.
+Annet tillatt lysutstyr.
+
+- Nær-/fjernlys kan være koblet slik at de tennes automatisk når motoren er i gang. Tenning av lysene kan også skje ved at kjøretøyet settes i bevegelse.
+- For blått blinkende lys gjelder bestemmelsene i [§ 28-6](forskrift/1994-10-04-918/§28-6) nr. 9 og [§ 28-7](forskrift/1994-10-04-918/§28-7) nr. 8.
+- For gult blinkende lys gjelder bestemmelsene i [§ 28-3](forskrift/1994-10-04-918/§28-3) nr. 3.
+- For reklameskilt gjelder bestemmelsene i [§ 28-9](forskrift/1994-10-04-918/§28-9).
+- For instrumentlys m.m. gjelder bestemmelsene i [§ 28-9](forskrift/1994-10-04-918/§28-9).
+- Lykter for baklys, stopplys og retningslys som er godkjent og merket etter SAE eller DOT standard godtas dersom fargen er tilnærmet i samsvar med angivelse i direktiv/standarder som nevnt i [§ 28-2](forskrift/1994-10-04-918/§28-2) nr. 3 eller nr. 4
+- Ekstra fjernlys:
+  Antall: Fritt antall lykter for ekstra fjernlys.
+  Lysstyrke: Det er ingen begrensning til maksimal tillatt lysstyrke. 4 Plassering: Lykter for ekstra fjernlys må plasseres foran på kjøretøyet. Dette anses oppfylt hvis lyset ikke er til sjenanse for føreren hverken direkte eller indirekte gjennom speil eller andre reflekterende flater på kjøretøyet.
+  Det er ingen krav til innbyrdes avstand mellom ekstra fjernlyslykter, eller avstand mellom ekstra fjernlyslykter og original hovedlykt.
+  Kobling: Ekstra fjernlys skal bare kunne lyse når bryteren for omkobling mellom nær- og fjernlys står i stilling for fjernlys.
+  Kjøretøy i gruppe L4: Bestemmelsene her gjelder ikke for sidevognen.
 
 6\.
 
@@ -6374,7 +7825,11 @@ Motorvogn som nyttes som utrykningskjøretøy skal ha en eller flere varsellykte
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet B i henhold til ECE-reg.nr. 65.Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet B i henhold til ECE-reg.nr. 65.
+2. Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a.
 
 2.2
 
@@ -6400,7 +7855,11 @@ Motorvogn som nyttes for å ledsage og varsle spesielle transporter som kan vær
 
 3.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet A i henhold til ECE-reg.nr. 65.Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet A i henhold til ECE-reg.nr. 65.
+2. Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a.
 
 3.2
 
@@ -6504,7 +7963,11 @@ Bil skal ha enten to eller fire lykter som gir hvitt eller gult fjernlys.
 
 1.1
 
-Lyktene skal tilfredstille minst ett av følgende krav (Lyktene kan være merket i kombinasjon med nærlys):Være E-merket med symbolene R (ECE-reg.nr. 1), SR (ECE-reg.nr. 5), HR (ECE-reg.nr. 8) eller HC/R eller HC (ECE-reg.nr. 20), hhv. serie 01/03/02/04/02, tillegg 3/-/2/4/3/, rettelse 1/1/-/-/.Være e-merket med symbolet R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredstille minst ett av følgende krav (Lyktene kan være merket i kombinasjon med nærlys):
+
+1. Være E-merket med symbolene R (ECE-reg.nr. 1), SR (ECE-reg.nr. 5), HR (ECE-reg.nr. 8) eller HC/R eller HC (ECE-reg.nr. 20), hhv. serie 01/03/02/04/02, tillegg 3/-/2/4/3/, rettelse 1/1/-/-/.
+2. Være e-merket med symbolet R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 1.2
 
@@ -6534,7 +7997,11 @@ Bil skal ha to lykter foran som gir hvitt eller gult nærlys.
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav (Lyktene kan være merket i kombinasjon med fjernlys):Være E-merket med symbolene C (ECE-reg.nr. 1), HC (ECE-reg.nr. 5), SC (ECE-reg.nr. 8) eller HC/R eller HR (ECE-reg.nr. 20), hhv. serie 01/03/02/04/02/, tillegg 3/-/2/4/3/, rettelse 1/1/-/-/.Være e-merket med symbolet C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav (Lyktene kan være merket i kombinasjon med fjernlys):
+
+1. Være E-merket med symbolene C (ECE-reg.nr. 1), HC (ECE-reg.nr. 5), SC (ECE-reg.nr. 8) eller HC/R eller HR (ECE-reg.nr. 20), hhv. serie 01/03/02/04/02/, tillegg 3/-/2/4/3/, rettelse 1/1/-/-/.
+2. Være e-merket med symbolet C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 2.2
 
@@ -6576,7 +8043,11 @@ Bil skal ha to lykter foran som gir hvitt parkeringslys.
 
 3.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 3.2
 
@@ -6602,7 +8073,11 @@ Bil skal ha minst to lykter foran som gir hvitt markeringslys fremover, når bil
 
 4.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
 
 4.2
 
@@ -6620,7 +8095,11 @@ Bil skal ha minst to lykter foran, minst to bak og minst en på hver side som gi
 
 5.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symboler som angitt med kombinasjoner i henhold til ECE-reg.nr. 6, serie 01, tillegg 5, rettelse 2.Være e-merket med symboler som angitt med kombinasjoner i henhold direktiv [76/759/EØF](eu/31976l0759), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/277/EØF](eu/31989l0277*).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symboler som angitt med kombinasjoner i henhold til ECE-reg.nr. 6, serie 01, tillegg 5, rettelse 2.
+2. Være e-merket med symboler som angitt med kombinasjoner i henhold direktiv [76/759/EØF](eu/31976l0759), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/277/EØF](eu/31989l0277*).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 5.2
 
@@ -6682,7 +8161,11 @@ Bil skal ha minst to lykter bak som gir rødt baklys.
 
 7.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet RD i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbolet R i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet RD i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbolet R i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 7.2
 
@@ -6712,7 +8195,11 @@ Bil skal ha minst to lykter bak som gir rødt stopplys og som tennes straks drif
 
 8.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet S1/S2 i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbolet S i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet S1/S2 i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbolet S i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
 
 8.2
 
@@ -6734,7 +8221,11 @@ Bil skal ha minst to røde refleksanordninger bak.
 
 9.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
 
 9.2
 
@@ -6764,7 +8255,11 @@ Bil skal ha lykt(er) bak som gir hvitt lys for kjennemerke.
 
 10.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 4, tillegg 4.Være e-merket i henhold til direktiv [76/760/EØF](eu/31976l0760), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 4, tillegg 4.
+2. Være e-merket i henhold til direktiv [76/760/EØF](eu/31976l0760), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 10.2
 
@@ -6852,7 +8347,11 @@ Bil kan ha to lykter foran som gir hvitt eller gult kurve-/tåkelys.
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet B i henhold til ECE-reg.nr. 19.Være e-merket med symbolet B i henhold til direktiv [76/762/EØF](eu/31976l0762), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354) eller direktiv [1999/18/EF](eu/31999l0018).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alternativ a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet B i henhold til ECE-reg.nr. 19.
+2. Være e-merket med symbolet B i henhold til direktiv [76/762/EØF](eu/31976l0762), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354) eller direktiv [1999/18/EF](eu/31999l0018).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alternativ a eller b.
 
 1.2
 
@@ -6902,7 +8401,11 @@ Bil kan ha lykter på sidene, foran og/eller bak som gir hvitt markeringslys fre
 
 4.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbolet A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbolet A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 4.2
 
@@ -6924,7 +8427,11 @@ Bil kan ha to eller flere hvite refleksanordninger foran.
 
 5.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 5.2
 
@@ -6942,7 +8449,11 @@ Bil kan ha to eller flere gule refleksanordninger på hver side.
 
 6.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a eller b.
 
 6.2
 
@@ -7014,7 +8525,11 @@ Bil kan ha en eller to lykter som gir rødt tåkebaklys.
 
 10.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol F i henhold til ECE-reg.nr. 38, tillegg 2 (ev. B i henhold til tidligere godkjent merking).Være e-merket med symbol F i henhold til direktiv [77/538/EØF](eu/31977l0538*), som endret ved direktiv [87/534/EØF](eu/31987*0534) og direktiv [89/518/EØF](eu/31989l0518), eventuelt som endret ved direktiv [1999/14/EF](eu/31999l0014).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol F i henhold til ECE-reg.nr. 38, tillegg 2 (ev. B i henhold til tidligere godkjent merking).
+2. Være e-merket med symbol F i henhold til direktiv [77/538/EØF](eu/31977l0538*), som endret ved direktiv [87/534/EØF](eu/31987*0534) og direktiv [89/518/EØF](eu/31989l0518), eventuelt som endret ved direktiv [1999/14/EF](eu/31999l0014).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 10.2
 
@@ -7148,7 +8663,13 @@ To- og trehjulede motorvogner skal ha minst to lykter foran som gir hvitt eller 
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol MB i henhold til ECE-reg.nr. 57 eller MBH i henhold ECE-reg.nr. 72.Være E-merket med symbol R i henhold til ECE-reg.nr. 1 eller HR i henhold til ECE-reg.nr. 8.Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761) som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a, b eller c.På moped kan lykten være E-merket i henhold til ECE-reg.nr. 56.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57 eller MBH i henhold ECE-reg.nr. 72.
+2. Være E-merket med symbol R i henhold til ECE-reg.nr. 1 eller HR i henhold til ECE-reg.nr. 8.
+3. Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761) som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+4. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a, b eller c.
+5. På moped kan lykten være E-merket i henhold til ECE-reg.nr. 56.
 
 1.2
 
@@ -7174,7 +8695,13 @@ To- og trehjuls motorvogn skal ha to lykter foran som gir hvitt eller gult nærl
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol MB i henhold til ECE-reg.nr. 57 eller MBH i henhold ECE-reg.nr. 72.Være E-merket med symbol C i henhold til ECE-reg.nr. 1 eller HC i henhold til ECE-reg.nr. 8.Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761) som endret ved direktiv [87/534/EØF](eu/31987*0534) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.På moped kan lykten være E-merket i henhold til ECE-reg.nr. 56.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57 eller MBH i henhold ECE-reg.nr. 72.
+2. Være E-merket med symbol C i henhold til ECE-reg.nr. 1 eller HC i henhold til ECE-reg.nr. 8.
+3. Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761) som endret ved direktiv [87/534/EØF](eu/31987*0534) og direktiv [89/517/EØF](eu/31989l0517).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+5. På moped kan lykten være E-merket i henhold til ECE-reg.nr. 56.
 
 2.2
 
@@ -7210,7 +8737,12 @@ To- og trehjuls motorvogn skal ha to lykter foran som gir hvitt parkeringslys.
 
 3.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 57, tillegg 2, rettelse 1.Være E-merket med symbol A i henhold til ECE-reg.nr. 7.Være e-merket med symbol P i henhold til direktiv [77/540/EØF](eu/31977l0540*), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 57, tillegg 2, rettelse 1.
+2. Være E-merket med symbol A i henhold til ECE-reg.nr. 7.
+3. Være e-merket med symbol P i henhold til direktiv [77/540/EØF](eu/31977l0540*), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 3.2
 
@@ -7236,7 +8768,12 @@ To- og trehjuls motorvogn skal ha minst to lykter foran, minst to bak og/eller m
 
 4.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 50.Være E-merket med symbol A i henhold til ECE-reg.nr. 6, serie 01, tillegg 5, rettelse 2.Være e-merket i henhold til direktiv [76/759/EØF](eu/31976l0759), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/277/EØF](eu/31989l0277*).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 50.
+2. Være E-merket med symbol A i henhold til ECE-reg.nr. 6, serie 01, tillegg 5, rettelse 2.
+3. Være e-merket i henhold til direktiv [76/759/EØF](eu/31976l0759), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/277/EØF](eu/31989l0277*).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 4.2
 
@@ -7280,7 +8817,12 @@ To- og trehjuls motorvogn skal ha minst to lykter bak som gir rødt baklys.
 
 5.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 50.Være E-merket med symbol R i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbol R i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 50.
+2. Være E-merket med symbol R i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+3. Være e-merket med symbol R i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 5.2
 
@@ -7312,7 +8854,12 @@ På kjøretøy med to driftsbremseanlegg (dvs. atskilt driftsbremseanlegg for fo
 
 6.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 50.Være E-merket med symbol S i henhold til ECE-reg.nr. 7.Være e-merket i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 50.
+2. Være E-merket med symbol S i henhold til ECE-reg.nr. 7.
+3. Være e-merket i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 6.2
 
@@ -7330,7 +8877,11 @@ To- og trehjuls motorvogn skal ha minst to røde refleksanordninger bak.
 
 7.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a, b eller c.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvar ende krav som i alt. a, b eller c.
 
 7.2
 
@@ -7360,7 +8911,11 @@ To- og trehjuls motorvogn skal ha lykt(er) bak som gir hvitt lys for kjennemerke
 
 8.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 4, tillegg 4.Være e-merket i henhold til direktiv [76/760/EØF](eu/31976l0760), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 4, tillegg 4.
+2. Være e-merket i henhold til direktiv [76/760/EØF](eu/31976l0760), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 8.2
 
@@ -7594,7 +9149,11 @@ Sidevogn til motorsykkel skal ha en lykt som gir hvitt parkeringslys fremover.
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 77, tillegg 2, rettelse 1.Være e-merket i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 77, tillegg 2, rettelse 1.
+2. Være e-merket i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 1.2
 
@@ -7620,7 +9179,11 @@ Sidevogn til motorsykkel skal ha minst en hvit refleksanordning foran.
 
 2.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 2, tillegg 1.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3, serie 2, tillegg 1.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 2.2
 
@@ -7768,7 +9331,12 @@ Beltebil/beltemotorsykkel skal ha minst to lykter som gir hvitt eller gult fjern
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol R i henhold til ECE-reg.nr. 1, med symbol SR i henhold til ECE-reg.nr. 8 eller med symbol HR i henhold til ECE-reg.nr. 5.Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol R i henhold til ECE-reg.nr. 1, med symbol SR i henhold til ECE-reg.nr. 8 eller med symbol HR i henhold til ECE-reg.nr. 5.
+2. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.
+3. Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 1.2
 
@@ -7790,7 +9358,12 @@ Beltebil/beltemotorsykkel skal ha to lykter foran som gir hvitt eller gult nærl
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol C i henhold til ECE-reg.nr. 1, med symbol SC i henhold til ECE-reg.nr. 5 eller med symbol HC i henhold til ECE-reg.nr. 8.Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol C i henhold til ECE-reg.nr. 1, med symbol SC i henhold til ECE-reg.nr. 5 eller med symbol HC i henhold til ECE-reg.nr. 8.
+2. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.
+3. Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 2.2
 
@@ -7832,7 +9405,12 @@ Beltebil/beltemotorsykkel skal ha to lykter foran som gir hvitt parkeringslys.
 
 3.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 50.Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 1, tillegg 4, rettelse 2.Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 50.
+2. Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 1, tillegg 4, rettelse 2.
+3. Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 3.2
 
@@ -7902,7 +9480,12 @@ Beltebil/beltemotorsykkel skal ha minst to lykter bak som gir rødt baklys.
 
 5.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol RD i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være E-merket med symbol R i henhold til ECE-reg.nr. 50.Være e-merket med symbol RD i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol RD i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være E-merket med symbol R i henhold til ECE-reg.nr. 50.
+3. Være e-merket med symbol RD i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 5.2
 
@@ -7932,7 +9515,11 @@ Beltebil/beltemotorsykkel skal ha minst to røde refleksanordninger bak.
 
 6.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 6.2
 
@@ -7984,7 +9571,11 @@ Beltebil/beltemotorsykkel skal ha en eller to lykter foran som gir hvitt eller g
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol R, SR eller HR i henhold til ECE-reg.nr. 57.Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol R, SR eller HR i henhold til ECE-reg.nr. 57.
+2. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 1.2
 
@@ -8008,7 +9599,12 @@ Dersom det nyttes en lykt, skal kravene i dette nr. oppfylles. Dersom det nyttes
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol C i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/8/9, rettelse 1/1/-/-/-/2, med symbol SC i henhold til ECE-reg.nr. 5 eller med symbol HC i henhold til ECE-reg.nr. 8.Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol C i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/8/9, rettelse 1/1/-/-/-/2, med symbol SC i henhold til ECE-reg.nr. 5 eller med symbol HC i henhold til ECE-reg.nr. 8.
+2. Være E-merket med symbol MB i henhold til ECE-reg.nr. 57.
+3. Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 2.2
 
@@ -8084,7 +9680,11 @@ Beltebilen/beltemotorsykkel skal ha minst en rød refleksanordning bak.
 
 5.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse I i henhold til ECE-reg.nr. 3.Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse I i henhold til ECE-reg.nr. 3.
+2. Være e-merket og av klasse I i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 Dersom det brukes én refleksanordning, skal kravene i nr. 5.2 – 5.6 oppfylles. Dersom det brukes to eller flere, skal kravene i [§ 28-10](forskrift/1994-10-04-918/§28-10) nr. 6 oppfylles.
 
@@ -8158,7 +9758,12 @@ Dersom det brukes én lykt skal kravene i nr. 5.1-5.6 oppfylles, men dersom det 
 
 5.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket i henhold til ECE-reg.nr. 50.Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket i henhold til ECE-reg.nr. 50.
+2. Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+3. Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+4. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a, b eller c.
 
 5.2
 
@@ -8218,7 +9823,11 @@ Traktor og motorredskap skal ha minst to lykter foran som gir hvitt eller gult f
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol R i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/3/9, rettelse 1/1/-/-/-/2, SR i henhold til ECE-reg.nr. 8 eller HR i henhold til ECE-reg.nr. 5.Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol R i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/3/9, rettelse 1/1/-/-/-/2, SR i henhold til ECE-reg.nr. 8 eller HR i henhold til ECE-reg.nr. 5.
+2. Være e-merket med symbol R i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i a eller b.
 
 1.2
 
@@ -8240,7 +9849,11 @@ Traktor og motorredskap skal ha to lykter foran som gir hvitt eller gult nærlys
 
 2.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol C i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/3/9, rettelse 1/1/-/-/-/2, SC i henhold til ECE-reg.nr. 8 eller HC i henhold til ECE-reg.nr. 5.Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol C i henhold til ECE-reg.nr. 1/2/5/8/20/37, serie 01/03/02/04/02/03, tillegg 3/-/2/4/3/9, rettelse 1/1/-/-/-/2, SC i henhold til ECE-reg.nr. 8 eller HC i henhold til ECE-reg.nr. 5.
+2. Være e-merket med symbol C i henhold til direktiv [76/761/EØF](eu/31976l0761), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/517/EØF](eu/31989l0517).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i a eller b.
 
 2.2
 
@@ -8282,7 +9895,11 @@ Traktor og motorredskap skal ha to lykter foran som gir hvitt parkeringslys.
 
 3.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol A i henhold til ECE-reg.nr. 7, serie 01, tillegg 4, rettelse 2.
+2. Være e-merket med symbol A i henhold til direktiv [76/758/EØF](eu/31976l0758), som endret ved direktiv [87/354/EØF](eu/31987l0354) og direktiv [89/516/EØF](eu/31989l0516).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 3.2
 
@@ -8444,7 +10061,11 @@ Motorvogn som er bestemt til å føres av gående person skal, når den er tilko
 
 1.1
 
-Lyktene skal tilfredsstille minst ett av følgende krav:Være E-merket med symbol C i henhold til ECE-reg.nr. 1, SC i henhold til ECE-reg.nr. 5 eller HC i henhold til ECE-reg.nr. 8.Være e-merket i henhold til direktiv [79/532/EØF](eu/31979l0532), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890) eller direktiv [97/54/EF](eu/31997l0054), eller direktiv [2009/68/EF](eu/32009l0068).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i alt. a eller b.
+Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket med symbol C i henhold til ECE-reg.nr. 1, SC i henhold til ECE-reg.nr. 5 eller HC i henhold til ECE-reg.nr. 8.
+2. Være e-merket i henhold til direktiv [79/532/EØF](eu/31979l0532), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890) eller direktiv [97/54/EF](eu/31997l0054), eller direktiv [2009/68/EF](eu/32009l0068).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i nevnt i alt. a eller b.
 
 1.2
 
@@ -8864,7 +10485,11 @@ Tilhenger skal ha minst to trekantede, røde refleksanordninger bak.
 
 7.1
 
-Refleksanordningene skal tilfredsstille minst ett av følgende krav:Være E-merket og av klasse III i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.Være e-merket og av klasse III i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
+Refleksanordningene skal tilfredsstille minst ett av følgende krav:
+
+1. Være E-merket og av klasse III i henhold til ECE-reg.nr. 3, serie 02, tillegg 1.
+2. Være e-merket og av klasse III i henhold til direktiv [76/757/EØF](eu/31976l0757), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i alt. a eller b.
 
 7.2
 
@@ -9030,15 +10655,27 @@ For lydmåling i dette kapittel benyttes måleenheten dB (A), hvilket innebærer
 
 *Sirene:* Signalhorn som ved aktivering avgir lydsignal som varierer kontinuerlig mellom to frekvenser (ytterfrekvenser) og innenfor et periodeområde målt pr. minutt.
 
-2\. Motorvogn, unntatt beltemotorsykkel, skal ha signalhorn som gir tilstrekkelig lyd med jevn styrke og tonehøyde. Lyden må ikke være overdrevet kraftig eller skingrende. Motorvogn kan ha to forskjellige lydsignaler. Det må ikke kunne veksles automatisk mellom disse.Motorvogn som nyttes som utrykningskjøretøy kan i tillegg ha signalhorn med stor lydstyrke. Tonehøyden skal ikke være jevn.Signalhorn med vekslende tonehøyde tillates ikke.
+2\. Motorvogn, unntatt beltemotorsykkel, skal ha signalhorn som gir tilstrekkelig lyd med jevn styrke og tonehøyde. Lyden må ikke være overdrevet kraftig eller skingrende. Motorvogn kan ha to forskjellige lydsignaler. Det må ikke kunne veksles automatisk mellom disse.
 
-3\. Måling av lydtrykk på signalhornet skal gjøres på basis av kurve A etter IEC-standarden (International Electrotechnical Commission) med lydtrykkmåler som spesifisert i IEC publikasjon nr. 179 1965 «Precision sound level meters».Målingen skal foretas i frie og mest mulig stille omgivelser eller i ekkofritt rom. Utendørs måling skal foretas på horisontal veg med fast dekke. Det skal ikke være lydreflekterende eller akustisk forstyrrende gjenstander som bygninger, trær, hekker, løs snø, høyt gress e.l. nærmere enn 20 m fra lydtrykkmåleren. Under målingen må personer ikke oppholde seg mellom mikrofon og signalhornet eller i umiddelbar nærhet av mikrofonen.Måling skal ikke foretas under nedbør eller i tett tåke. Støynivået fra andre støykilder, iberegnet vindstøy, skal ligge minst 10 dB (A) under de målte verdier.
+Motorvogn som nyttes som utrykningskjøretøy kan i tillegg ha signalhorn med stor lydstyrke. Tonehøyden skal ikke være jevn.
+
+Signalhorn med vekslende tonehøyde tillates ikke.
+
+3\. Måling av lydtrykk på signalhornet skal gjøres på basis av kurve A etter IEC-standarden (International Electrotechnical Commission) med lydtrykkmåler som spesifisert i IEC publikasjon nr. 179 1965 «Precision sound level meters».
+
+Målingen skal foretas i frie og mest mulig stille omgivelser eller i ekkofritt rom. Utendørs måling skal foretas på horisontal veg med fast dekke. Det skal ikke være lydreflekterende eller akustisk forstyrrende gjenstander som bygninger, trær, hekker, løs snø, høyt gress e.l. nærmere enn 20 m fra lydtrykkmåleren. Under målingen må personer ikke oppholde seg mellom mikrofon og signalhornet eller i umiddelbar nærhet av mikrofonen.
+
+Måling skal ikke foretas under nedbør eller i tett tåke. Støynivået fra andre støykilder, iberegnet vindstøy, skal ligge minst 10 dB (A) under de målte verdier.
 
 4\. Lydsignalet fra separat signalhorn (atskilt fra motorvognen) skal måles slik som angitt i punktene 6.2.1-6.2.6 i ECE-reg.nr. 28 eller i vedlegg I nr. 1 i direktiv [70/388/EØF](eu/31970l0388*), eventuelt som endret i direktiv [87/354/EØF](eu/31987l0354).
 
 5\. Lydsignal fra signalhorn montert på motorvognen skal måles på en avstand av 7 m. Høyeste lydtrykk skal måles mellom 0,5 og 1,5 m over bakken. Mikrofonen skal være plassert i forlengelsen av motorvognens langsgående midtlinje. Motorvognens motor skal være stoppet under prøven.
 
-6\. Trykkluftdrevet signalhorn kan være tilkoplet egen energikilde eller være koplet til motorvognens trykkluftanlegg.Trykkluftdrevet signalhorn på motorvogn med trykkluftbremseanlegg må bare tilføres energi på en slik måte at bruken av signalhornet eller feil i dette ikke kan medføre at det trykk som står til rådighet for bremsing i noen krets underskrider 65% av bremseanleggets beregningstrykk. Mellom trykkluftbeholder og signalhorn må det være installert en reduksjonsventil som sikrer det driftstrykk signalhornet er bygget for.Vakuumdrevet signalhorn skal være tilkoplet egen energikilde.
+6\. Trykkluftdrevet signalhorn kan være tilkoplet egen energikilde eller være koplet til motorvognens trykkluftanlegg.
+
+Trykkluftdrevet signalhorn på motorvogn med trykkluftbremseanlegg må bare tilføres energi på en slik måte at bruken av signalhornet eller feil i dette ikke kan medføre at det trykk som står til rådighet for bremsing i noen krets underskrider 65% av bremseanleggets beregningstrykk. Mellom trykkluftbeholder og signalhorn må det være installert en reduksjonsventil som sikrer det driftstrykk signalhornet er bygget for.
+
+Vakuumdrevet signalhorn skal være tilkoplet egen energikilde.
 
 7\. Lydtrykket for signalhorn med jevn tonehøyde skal være høyst 118 dB (A) etter målemetoden i nr. 4 og 106 dB (A) etter målemetoden i nr. 5, men ikke lavere enn:
 
@@ -9053,11 +10690,31 @@ Signalhorn målt under målebetingelser som angitt i nr. 3 og etter målemetode 
 
 Lydsignal kan være sammensatt av lyd fra flere signalhorn. I så fall skal de gi en sammensatt lyd som tilfredsstiller kravene til lydtrykksnivå og frekvensområde.
 
-8\. I sirene skal lydtrykket for hver av grunntonene være 113-121 dB (A), målt etter målemetoden i nr. 4 og 101-109 dB (A), målt etter målemetoden i nr. 5.Ytterfrekvensene skal være minst 400 Hz og høyst 1.200 Hz.Periodetallet målt pr. minutt skal være minst 10 og høyst 25.I tillegg til sirene som beskrevet i de foregående ledd («wail»), kan motorvogn være utstyrt med sirene etter følgende spesifikasjon («yelp»):Det samlede lydtrykk, målt etter målemetoden i nr. 4 eller nr. 5, må være lavere enn 121 dB (A), respektive 109 dB (A).Ytterfrekvensen skal være minst 500 Hz og høyst 1.600 Hz.Periodetallet målt pr. minutt skal være minst 150 og høyst 250.Aktivisering av sirenen skal skje ved en manuelt operert tidsbryter som gir en aktiviseringstid på høyst 10 sekunder. Sirenen («yelp») skal være koplet slik at sirenen («wail») automatisk utkoples i den tid sirenen («yelp») er aktivert.Sirene skal være slik koblet at den bare kan virke sammen med varsellykt som gir blinkende blått lys til alle sider.
+8\. I sirene skal lydtrykket for hver av grunntonene være 113-121 dB (A), målt etter målemetoden i nr. 4 og 101-109 dB (A), målt etter målemetoden i nr. 5.
 
-9\. Ved første gangs godkjenning og ved godkjenning av ettermontert signalhorn skal det fremlegges bevitnelse fra kjøretøyfabrikanten eller produsenten eller fra kompetent uavhengig laboratorium om at signalhornet er målt etter de foreskrevne målemetoder og målebetingelser og at lydtrykket og frekvensene tilfredsstiller kravene.Slik bevitnelse kreves ikke for signalhorn med jevn tonehøyde dersom signalhornet eller motorvognen er E-merket i samsvar med ECE-reg.nr. 28 eller er e-merket i samsvar med direktiv [70/388/EØF](eu/31970l0388*), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).For to- og trehjulede motorvogner godtas at signalhorn tilfredsstiller kravene i direktiv [93/30/EØF](eu/31993l0030), og er e-merket i henhold til dette.For jordbruks- eller skogbrukstraktor gjelder at bevitnelse ikke kreves dersom traktoren eller signalhornet er e-merket i henhold til direktiv [74/151/EØF](eu/31974l0151*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054) eller direktiv [98/38/EF](eu/31998l0038), eller direktiv [2009/63/EF](eu/32009l0063).
+Ytterfrekvensene skal være minst 400 Hz og høyst 1.200 Hz.
 
-10\. Når det gjelder to- og trehjulede motorvogner, får bestemmelsene i nr. 3, 4, 5, 6 og 7 i denne paragraf bare anvendelse for motorvogner typegodkjent før 1. oktober 1999 og/eller som registreres før 17. juni 2003.Eksempel på merking av lydsignalinnretningen:
+Periodetallet målt pr. minutt skal være minst 10 og høyst 25.
+
+I tillegg til sirene som beskrevet i de foregående ledd («wail»), kan motorvogn være utstyrt med sirene etter følgende spesifikasjon («yelp»):
+
+- Det samlede lydtrykk, målt etter målemetoden i nr. 4 eller nr. 5, må være lavere enn 121 dB (A), respektive 109 dB (A).
+- Ytterfrekvensen skal være minst 500 Hz og høyst 1.600 Hz.
+- Periodetallet målt pr. minutt skal være minst 150 og høyst 250.
+- Aktivisering av sirenen skal skje ved en manuelt operert tidsbryter som gir en aktiviseringstid på høyst 10 sekunder. Sirenen («yelp») skal være koplet slik at sirenen («wail») automatisk utkoples i den tid sirenen («yelp») er aktivert.
+- Sirene skal være slik koblet at den bare kan virke sammen med varsellykt som gir blinkende blått lys til alle sider.
+
+9\. Ved første gangs godkjenning og ved godkjenning av ettermontert signalhorn skal det fremlegges bevitnelse fra kjøretøyfabrikanten eller produsenten eller fra kompetent uavhengig laboratorium om at signalhornet er målt etter de foreskrevne målemetoder og målebetingelser og at lydtrykket og frekvensene tilfredsstiller kravene.
+
+Slik bevitnelse kreves ikke for signalhorn med jevn tonehøyde dersom signalhornet eller motorvognen er E-merket i samsvar med ECE-reg.nr. 28 eller er e-merket i samsvar med direktiv [70/388/EØF](eu/31970l0388*), eventuelt som endret ved direktiv [87/354/EØF](eu/31987l0354).
+
+For to- og trehjulede motorvogner godtas at signalhorn tilfredsstiller kravene i direktiv [93/30/EØF](eu/31993l0030), og er e-merket i henhold til dette.
+
+For jordbruks- eller skogbrukstraktor gjelder at bevitnelse ikke kreves dersom traktoren eller signalhornet er e-merket i henhold til direktiv [74/151/EØF](eu/31974l0151*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [88/410/EØF](eu/31988l0410), direktiv [97/54/EF](eu/31997l0054) eller direktiv [98/38/EF](eu/31998l0038), eller direktiv [2009/63/EF](eu/32009l0063).
+
+10\. Når det gjelder to- og trehjulede motorvogner, får bestemmelsene i nr. 3, 4, 5, 6 og 7 i denne paragraf bare anvendelse for motorvogner typegodkjent før 1. oktober 1999 og/eller som registreres før 17. juni 2003.
+
+Eksempel på merking av lydsignalinnretningen:
 
 Fig. 1
 
@@ -9117,13 +10774,54 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 1\. Speil skal ha slik størrelse og være slik utformet og plassert at de gir tilstrekkelig utsyn bakover fra førerplassen.
 
-2\. Speil skal være utført uten skarpe kanter, spisser mv. og for øvrig slik at unødig fare ved berøring eller sammenstøt unngås.Speil skal dessuten være slik utført at gjenstående deler ikke er til unødig fare ved brudd på steder hvor slikt kan påregnes skje ved slag mot speilet.Innvendig speil som er slik plassert at førerens eller passasjerers hode kan støte mot det under kollisjon e.l. skal være slik konstruert at foten brekker, løsner eller gir etter uten å etterlate skarpe kanter, spisser e.l. når speilet bakfra (mot speilflaten) eller fra sidene, i ethvert plan innenfor en vinkel av 45° over og under horisontalplanet gjennom speilets senter, utsettes for en kraft som er 40 kp eller mer.Utvendig speil som rager utenfor kjøretøyets ytre begrensningslinje skal være slik konstruert at det gir etter og blir ført innenfor nevnte begrensningslinje når det utsettes for en kraft forfra eller bakfra, parallelt med kjøretøyets, lengdeakse, som er 25 kp eller mer.Utvendig speil som er anbragt foran et vertikalplan midt mellom støtfangerens og frontrutens forreste punkt, vinkelrett på kjøretøyets lengdeakse, skal være slik konstruert at det gir etter når det utsetttes for en kraft forfra, parallelt med kjøretøyets lengdeakse, som er 25 kp eller mer. Dette gjelder ikke for speil hvor huset er plassert helt ned til karosseriet i myk overgang fra dette uten fremspring e.l. og hvor speilets høyde ikke er større enn bredden.Speil skal være stillbart. Det skal være slik utført at innstillingen ikke forandres på grunn av rystelser som normalt vil kunne oppstå i kjøretøyet eller på grunn av trykket fra fartsvinden.Innvendig speil og utvendig speil på den siden hvor rattet er anbragt skal være slik utført at de kan innstilles uten hjelp av verktøy.Speil skal være godt festet på kjøretøyet.
+2\. Speil skal være utført uten skarpe kanter, spisser mv. og for øvrig slik at unødig fare ved berøring eller sammenstøt unngås.
 
-3\. Speilflaten skal være plan eller svakt konveks.Krumningsradius for konveks speilflate skal ikke være mindre enn 1.200 mm.Speilflaten skal gjengi det reflekterende bilde på tydelig måte uten nevneverdig forvrengning og slik at farger og lyssignaler kan identifiseres.For speil med to eller flere speilflater, som er forskjøvet i en viss vinkel i forhold til hverandre for å oppnå større synsfelt, skal de fastsatte krav til minimumsstørrelse på speilflaten og til synsfelt for de forskjellige kjøretøygrupper gjelde for hovedspeilflaten.
+Speil skal dessuten være slik utført at gjenstående deler ikke er til unødig fare ved brudd på steder hvor slikt kan påregnes skje ved slag mot speilet.
 
-4\. Speil skal være slik plassert at det ikke unødig, og ikke mer enn det som er forsvarlig, reduserer sikten fremover eller til noen av sidene.Utvendig speil skal være slik plassert at hele speilflaten kan sees gjennom sideruten eller gjennom den del av frontruten som rengjøres av vinduspusserne.Utvendig speil skal være slik plassert at det så lite som mulig blir ragende utenfor kjøretøyets ytre begrensning, utover det som er nødvendig for å oppfylle kravene om synsfelt.Utvendig speil på den side hvor rattet er anbragt skal være plassert slik at det kan innstilles fra førerplassen.
+Innvendig speil som er slik plassert at førerens eller passasjerers hode kan støte mot det under kollisjon e.l. skal være slik konstruert at foten brekker, løsner eller gir etter uten å etterlate skarpe kanter, spisser e.l. når speilet bakfra (mot speilflaten) eller fra sidene, i ethvert plan innenfor en vinkel av 45° over og under horisontalplanet gjennom speilets senter, utsettes for en kraft som er 40 kp eller mer.
 
-5\. Speil skal gi slikt synsfelt at føreren i normal kjørestilling har tilstrekkelig oversikt over vegbanen og trafikken bakenfor.Innvendig speil skal både ved belastet og ubelastet kjøretøy gi slikt synsfelt at føreren, også når førersetet er i bakerste stilling, kan se vegbanen i en bredde av minst 3,5 m til hver side for vertikalplanet gjennom kjøretøyets lengdeakse på en avstand av 20 m bakenfor speilet og videre bakover så langt øyet rekker.Utvendig speil skal både ved belastet og ubelastet kjøretøy gi slikt synsfelt at føreren, også når førersetet står i bakerste stilling, kan se vegbanenpå venstre side i en bredde av minst 2,5 m på en avstand av 10 m bakenfor speilet og videre bakover så langt øyet rekker.på høyre side i en bredde av minst 2 m på en avstand av 10 m bakenfor speilet og videre så langt bakover som øyet rekker.Bredden måles fra et vertikalplan parallelt med kjøretøyets lengdeakse som tangerer kjøretøyet på den side som speilet er plassert.For vogntog, hvor tilhengeren/tilhengerredskapen er bredere enn trekkvognen, måles bredden fra et vertikalplan som tangerer tilhengeren/-tilhengerredskapen parallelt med vogntogets lengdeakse.Minst ett speil på kjøretøy som trekker tilhenger/tilhengerredskap skal gi slikt synsfelt at tilhengeren/tilhengerredskapen kan sees.Er tilhengeren/tilhengerredskapen like bred eller bredere enn trekkvognen, skal minst begge sider av tilhengeren/tilhengerredskapen kunne sees i de utvendige speil.
+Utvendig speil som rager utenfor kjøretøyets ytre begrensningslinje skal være slik konstruert at det gir etter og blir ført innenfor nevnte begrensningslinje når det utsettes for en kraft forfra eller bakfra, parallelt med kjøretøyets, lengdeakse, som er 25 kp eller mer.
+
+Utvendig speil som er anbragt foran et vertikalplan midt mellom støtfangerens og frontrutens forreste punkt, vinkelrett på kjøretøyets lengdeakse, skal være slik konstruert at det gir etter når det utsetttes for en kraft forfra, parallelt med kjøretøyets lengdeakse, som er 25 kp eller mer. Dette gjelder ikke for speil hvor huset er plassert helt ned til karosseriet i myk overgang fra dette uten fremspring e.l. og hvor speilets høyde ikke er større enn bredden.
+
+Speil skal være stillbart. Det skal være slik utført at innstillingen ikke forandres på grunn av rystelser som normalt vil kunne oppstå i kjøretøyet eller på grunn av trykket fra fartsvinden.
+
+Innvendig speil og utvendig speil på den siden hvor rattet er anbragt skal være slik utført at de kan innstilles uten hjelp av verktøy.
+
+Speil skal være godt festet på kjøretøyet.
+
+3\. Speilflaten skal være plan eller svakt konveks.
+
+Krumningsradius for konveks speilflate skal ikke være mindre enn 1.200 mm.
+
+Speilflaten skal gjengi det reflekterende bilde på tydelig måte uten nevneverdig forvrengning og slik at farger og lyssignaler kan identifiseres.
+
+For speil med to eller flere speilflater, som er forskjøvet i en viss vinkel i forhold til hverandre for å oppnå større synsfelt, skal de fastsatte krav til minimumsstørrelse på speilflaten og til synsfelt for de forskjellige kjøretøygrupper gjelde for hovedspeilflaten.
+
+4\. Speil skal være slik plassert at det ikke unødig, og ikke mer enn det som er forsvarlig, reduserer sikten fremover eller til noen av sidene.
+
+Utvendig speil skal være slik plassert at hele speilflaten kan sees gjennom sideruten eller gjennom den del av frontruten som rengjøres av vinduspusserne.
+
+Utvendig speil skal være slik plassert at det så lite som mulig blir ragende utenfor kjøretøyets ytre begrensning, utover det som er nødvendig for å oppfylle kravene om synsfelt.
+
+Utvendig speil på den side hvor rattet er anbragt skal være plassert slik at det kan innstilles fra førerplassen.
+
+5\. Speil skal gi slikt synsfelt at føreren i normal kjørestilling har tilstrekkelig oversikt over vegbanen og trafikken bakenfor.
+
+Innvendig speil skal både ved belastet og ubelastet kjøretøy gi slikt synsfelt at føreren, også når førersetet er i bakerste stilling, kan se vegbanen i en bredde av minst 3,5 m til hver side for vertikalplanet gjennom kjøretøyets lengdeakse på en avstand av 20 m bakenfor speilet og videre bakover så langt øyet rekker.
+
+Utvendig speil skal både ved belastet og ubelastet kjøretøy gi slikt synsfelt at føreren, også når førersetet står i bakerste stilling, kan se vegbanen
+
+1. på venstre side i en bredde av minst 2,5 m på en avstand av 10 m bakenfor speilet og videre bakover så langt øyet rekker.
+2. på høyre side i en bredde av minst 2 m på en avstand av 10 m bakenfor speilet og videre så langt bakover som øyet rekker.
+
+Bredden måles fra et vertikalplan parallelt med kjøretøyets lengdeakse som tangerer kjøretøyet på den side som speilet er plassert.
+
+For vogntog, hvor tilhengeren/tilhengerredskapen er bredere enn trekkvognen, måles bredden fra et vertikalplan som tangerer tilhengeren/-tilhengerredskapen parallelt med vogntogets lengdeakse.
+
+Minst ett speil på kjøretøy som trekker tilhenger/tilhengerredskap skal gi slikt synsfelt at tilhengeren/tilhengerredskapen kan sees.
+
+Er tilhengeren/tilhengerredskapen like bred eller bredere enn trekkvognen, skal minst begge sider av tilhengeren/tilhengerredskapen kunne sees i de utvendige speil.
 
 6\. Speil som tilfredsstiller ECE-regulativ nr. 46 (er E-merket) eller direktiv [71/127/EØF](eu/31971l0127*), eventuelt som endret ved direktiv [79/795/EØF](eu/31979l0795*), direktiv [85/205/EØF](eu/31985l0205), direktiv [86/562/EØF](eu/31986l0562), direktiv [88/321/EØF](eu/31988l0321) eller direktiv [2003/97/EF](eu/32003l0097) som endret ved direktiv [2005/27/EF](eu/32005l0027) (er e-merket) godkjennes, selv om de avviker fra bestemmelsene i dette kapittel.
 
@@ -9164,7 +10862,13 @@ Komponenter og tekniske enheter til bruk som reservedeler kan fortsatt godkjenne
 
 2\. Bil skal ha minst tre speil, hvorav ett skal være plassert innvendig og ett på hver side utvendig. Innvendig speil kreves dog ikke dersom bilen på grunn av bruksområde eller nødvendige konstruktive hensyn er bygd slik at speilet aldri kan brukes.
 
-3\. Innvendig speil skal ha speilflate på minst 70 cm2 .Utvendig speil skal ha speilflate av følgende størrelse:På bil med største lengde mindre enn 6 m: minst 70 cm2På buss med største lengde 6 m eller mer: minst 300 cm2På annen bil enn buss med største lengde 6 m eller mer: konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
+3\. Innvendig speil skal ha speilflate på minst 70 cm2 .
+
+Utvendig speil skal ha speilflate av følgende størrelse:
+
+1. På bil med største lengde mindre enn 6 m: minst 70 cm2
+2. På buss med største lengde 6 m eller mer: minst 300 cm2
+3. På annen bil enn buss med største lengde 6 m eller mer: konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
 
 4\. Bil som tilfredsstiller kravene i direktiv [71/127/EØF](eu/31971l0127*), eventuelt som endret ved direktiv [79/795/EØF](eu/31979l0795*), direktiv [85/205/EØF](eu/31985l0205), direktiv [86/562/EØF](eu/31986l0562), direktiv [87/354/EØF](eu/31987l0354) eller direktiv [88/321/EØF](eu/31988l0321), eller kravene i ECE-reg.nr. 46, serie 01, tillegg 2, rettelse 1, anses å oppfylle bestemmelsene i nr. 2 og 3.
 
@@ -9190,7 +10894,9 @@ Komponenter og tekniske enheter til bruk som reservedeler kan fortsatt godkjenne
 
 ### § 30-5. Speil på to- og trehjuls motorvogn
 
-1\. Åpen to- og trehjuls motorvogn skal ha minst ett speil som skal være plassert på venstre side.Lukket to- og trehjuls motorvogn skal ha minst tre speil, hvorav ett skal være plassert innvendig og ett på hver side utvendig. Innvendig speil kreves dog ikke dersom motorsykkelen på grunn av bruksområde eller nødvendige konstruktive hensyn er bygd slik at speilet aldri kan brukes.
+1\. Åpen to- og trehjuls motorvogn skal ha minst ett speil som skal være plassert på venstre side.
+
+Lukket to- og trehjuls motorvogn skal ha minst tre speil, hvorav ett skal være plassert innvendig og ett på hver side utvendig. Innvendig speil kreves dog ikke dersom motorsykkelen på grunn av bruksområde eller nødvendige konstruktive hensyn er bygd slik at speilet aldri kan brukes.
 
 2\. Innvendig og utvendig speil skal ha speilflate på minst 70 cm2 .
 
@@ -9202,15 +10908,27 @@ Komponenter og tekniske enheter til bruk som reservedeler kan fortsatt godkjenne
 
 1\. Beltebil skal ha minst to speil, hvorav det ene skal være plassert utvendig på venstre side.
 
-2\. Innvendig speil skal ha speilflate på minst 70 cm2 .Utvendig speil skal ha speilflate av følgende størrelse:På beltebil med største lengde ikke over 6 m: minst 70 cm2 .På beltebil med største lengde over 6 m konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
+2\. Innvendig speil skal ha speilflate på minst 70 cm2 .
+
+Utvendig speil skal ha speilflate av følgende størrelse:
+
+1. På beltebil med største lengde ikke over 6 m: minst 70 cm2 .
+2. På beltebil med største lengde over 6 m konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
 
 > Endret ved [forskrift 26 jan 2005 nr. 50](forskrift/2005-01-26-50) (tidligere § 30-5).
 
 ### § 30-7. Speil på traktor og motorredskap
 
-1\. Traktor og motorredskap som er konstruert for en hastighet på over 15 km/t og som har lukket førerhus skal ha minst to speil, hvorav det ene skal være plassert utvendig på venstre side.Traktor og motorredskap som er konstruert for en hastighet på over 15 km/t og som ikke har førerhus (åpen) skal ha minst ett speil som skal være plassert på venstre side.
+1\. Traktor og motorredskap som er konstruert for en hastighet på over 15 km/t og som har lukket førerhus skal ha minst to speil, hvorav det ene skal være plassert utvendig på venstre side.
 
-2\. Innvendig speil skal ha speilflate på minst 70 cm2 .Utvendig speil skal ha speilflate av følgende størrelse:På traktor og motorredskap med største lengde ikke over 6 m: minst 70 cm2 .På traktor og motorredskap med største lengde mer enn 6 m: konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
+Traktor og motorredskap som er konstruert for en hastighet på over 15 km/t og som ikke har førerhus (åpen) skal ha minst ett speil som skal være plassert på venstre side.
+
+2\. Innvendig speil skal ha speilflate på minst 70 cm2 .
+
+Utvendig speil skal ha speilflate av følgende størrelse:
+
+1. På traktor og motorredskap med største lengde ikke over 6 m: minst 70 cm2 .
+2. På traktor og motorredskap med største lengde mer enn 6 m: konveks speilflate minst 200 cm2 , plan speilflate minst 300 cm2 .
 
 3\. Jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [74/346/EØF](eu/31974l0346*), eventuelt som endret ved direktiv [82/890/EØF](eu/31982l0890), direktiv [97/54/EF](eu/31997l0054) eller direktiv [98/40/EF](eu/31998l0040), eller direktiv [2009/59/EF](eu/32009l0059), anses å oppfylle bestemmelsene i nr. 1 og 2.
 
@@ -9408,11 +11126,21 @@ Jord- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [74/347/EØF
 
 ### § 32-1. Generelt om skjerming av hjul
 
-1\. Bestemmelsene i denne paragraf gjelder ikke for to- og trehjulede motorvogner eller for beltebil/beltemotorsykkel.For traktor gjelder bestemmelsene når kjøretøyet har konstruktiv hastighet over 40 km/h. For motorredskap gjelder bestemmelsene når kjøretøyet har konstruktiv hastighet over 50 km/h.For tilhenger/tilhengerredskap gjelder bestemmelsene når kjøretøyet har en konstruktiv hastighet over 40 km/h.Oppheves.
+1\. Bestemmelsene i denne paragraf gjelder ikke for to- og trehjulede motorvogner eller for beltebil/beltemotorsykkel.
 
-2\. Kjøretøys hjul skal være tilstrekkelig skjermet. Avskjermingen skal være solid og slik at den dekker hjulene i hele deres bredde og slik at den mest mulig effektivt hindrer fare og ulempe for annen trafikk ved vann-, søle- og steinsprut fra hjulene.Avstanden mellom hjul og avskjerming skal være slik at det blir tilstrekkelig plass for kjøretøyets fjæringsbevegelse. På bil med tillatt totalvekt over 3.500 kg skal det dessuten være plass for kjettinger.
+For traktor gjelder bestemmelsene når kjøretøyet har konstruktiv hastighet over 40 km/h. For motorredskap gjelder bestemmelsene når kjøretøyet har konstruktiv hastighet over 50 km/h.
 
-3\. Bestemmelsene om skjerming av hjul skal være oppfylt med hjulene i normalstilling rett fram og med kjøretøyet i ubelastet tilstand. To- eller trehjuls motorvogn skal være belastet med fører.For kjøretøy med manuelt eller automatisk regulerbart nivåreguleringssystem skal bestemmelsene være oppfylt ved den normalstilling som er foreskrevet av fabrikanten.
+For tilhenger/tilhengerredskap gjelder bestemmelsene når kjøretøyet har en konstruktiv hastighet over 40 km/h.
+
+Oppheves.
+
+2\. Kjøretøys hjul skal være tilstrekkelig skjermet. Avskjermingen skal være solid og slik at den dekker hjulene i hele deres bredde og slik at den mest mulig effektivt hindrer fare og ulempe for annen trafikk ved vann-, søle- og steinsprut fra hjulene.
+
+Avstanden mellom hjul og avskjerming skal være slik at det blir tilstrekkelig plass for kjøretøyets fjæringsbevegelse. På bil med tillatt totalvekt over 3.500 kg skal det dessuten være plass for kjettinger.
+
+3\. Bestemmelsene om skjerming av hjul skal være oppfylt med hjulene i normalstilling rett fram og med kjøretøyet i ubelastet tilstand. To- eller trehjuls motorvogn skal være belastet med fører.
+
+For kjøretøy med manuelt eller automatisk regulerbart nivåreguleringssystem skal bestemmelsene være oppfylt ved den normalstilling som er foreskrevet av fabrikanten.
 
 4\. For kjøretøy med boggi- eller trippelaksel kan hjulene på samme side ha felles avskjerming, som foran det forreste hjulets sentrum og bakom det bakerste hjulets sentrum oppfyller bestemmelsene om avskjerming. Denne avskjerming skal være forbundet med en vannrett del over hjulene som skal oppfylle kravene til profildyp. Denne del av avskjermingen kan utgjøres av kjøretøyets karosseri/lasteplan.
 
@@ -9523,7 +11251,11 @@ Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uav
 
 2\. Virkeområde: Kjøretøy i gruppe M, N og O.
 
-3\. Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:trekkbiler for semitrailere,spesialtilhengere for transport av tømmerstokker og andre lange gjenstander,kjøretøyer som med underkjøringshinder bak ville bli hindret i sin bruk.
+3\. Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:
+
+- trekkbiler for semitrailere,
+- spesialtilhengere for transport av tømmerstokker og andre lange gjenstander,
+- kjøretøyer som med underkjøringshinder bak ville bli hindret i sin bruk.
 
 4\. Ikrafttreden:
 
@@ -9567,7 +11299,10 @@ Dersom andre faste deler på kjøretøyet enn underkjøringshinderet fyller hind
 
 1.7
 
-Fra krav om bredde gjøres følgende unntak:Er underkjøringshinderet innebygd i eller omfattet av kjøretøyets karosseri, og karosseriet har en største bredde som overstiger bakakselens bredde, målt som nevnt i nr. 4, får bredden av underkjøringshinderet overstige bakakselens bredde.På kjøretøy hvor det foran nevnte krav til største forskjell mellom bakakselens bredde og underkjøringshinderets bredde ikke kan overholdes av konstruksjonsmessige årsaker, f.eks. på vekselplanbiler, får denne avstanden økes så mye som er nødvendig.
+Fra krav om bredde gjøres følgende unntak:
+
+1. Er underkjøringshinderet innebygd i eller omfattet av kjøretøyets karosseri, og karosseriet har en største bredde som overstiger bakakselens bredde, målt som nevnt i nr. 4, får bredden av underkjøringshinderet overstige bakakselens bredde.
+2. På kjøretøy hvor det foran nevnte krav til største forskjell mellom bakakselens bredde og underkjøringshinderets bredde ikke kan overholdes av konstruksjonsmessige årsaker, f.eks. på vekselplanbiler, får denne avstanden økes så mye som er nødvendig.
 
 1.8
 
@@ -9623,7 +11358,14 @@ Bevitnelse som nevnt i nr. 3.1 og 3.2 kreves ikke dersom det kan dokumenteres at
 
 4.1
 
-Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:Kjøretøy under transport fra leverandør eller forhandler til karosseri- eller påbyggerverksted.Kjøretøy der rammen, karosseriet eller annen konstruksjonsdel er utformet slik at det med hensyn til beskyttelse for bakenforkjørende i hovedsak kan likestilles med kjøretøy som har underkjøringshinder etter disse bestemmelsene.Militærtaktiske kjøretøy så lenge disse er militært registrert.Lastebil som registreres for bruk utenfor offentlig veg og motorredskap og tilhenger som bare brukes utenfor offentlig veg.Trekkbil for semitrailer.Lastebil som skal brukes sammen med asfaltutlegger tillates kjørt uten underkjøringshinder bak når den brukes til slik kjøring.
+Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:
+
+1. Kjøretøy under transport fra leverandør eller forhandler til karosseri- eller påbyggerverksted.
+2. Kjøretøy der rammen, karosseriet eller annen konstruksjonsdel er utformet slik at det med hensyn til beskyttelse for bakenforkjørende i hovedsak kan likestilles med kjøretøy som har underkjøringshinder etter disse bestemmelsene.
+3. Militærtaktiske kjøretøy så lenge disse er militært registrert.
+4. Lastebil som registreres for bruk utenfor offentlig veg og motorredskap og tilhenger som bare brukes utenfor offentlig veg.
+5. Trekkbil for semitrailer.
+6. Lastebil som skal brukes sammen med asfaltutlegger tillates kjørt uten underkjøringshinder bak når den brukes til slik kjøring.
 
 > Endret ved [forskrift 30 mars 2007 nr. 390](forskrift/2007-03-30-390) (tidligere § 33-1).
 
@@ -9667,9 +11409,13 @@ Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:Kjøretøy un
 
 ### § 34-1. Generelt om låseutstyr
 
-1\. Motorvogn, herunder lukket to- eller trehjuls motorvogn, skal, foruten eventuell dørlås, ha fast montert enten tenningslås, girlås, rattlås eller annen fast montert låsinnretning med likeverdig sikkerhet, slik at uvedkommende hindres i å bruke motorvognen.Motorvogn som oppfyller kravene i direktiv [74/61/EØF](eu/31974l0061*), eventuelt som endret ved direktiv [95/56/EF](eu/31995l0056*), anses å tilfredsstille bestemmelsene i første ledd.
+1\. Motorvogn, herunder lukket to- eller trehjuls motorvogn, skal, foruten eventuell dørlås, ha fast montert enten tenningslås, girlås, rattlås eller annen fast montert låsinnretning med likeverdig sikkerhet, slik at uvedkommende hindres i å bruke motorvognen.
 
-2\. Åpen to- eller trehjuls motorvogn skal, foruten eventuell tenningslås, ha hjullås, styrelås eller annen fast montert låseinnretning med likeverdig sikkerhet.To- eller trehjuls motorvogn som oppfyller kravene i direktiv [93/33/EØF](eu/31993l0033) anses å tilfredsstille kravene i første ledd.
+Motorvogn som oppfyller kravene i direktiv [74/61/EØF](eu/31974l0061*), eventuelt som endret ved direktiv [95/56/EF](eu/31995l0056*), anses å tilfredsstille bestemmelsene i første ledd.
+
+2\. Åpen to- eller trehjuls motorvogn skal, foruten eventuell tenningslås, ha hjullås, styrelås eller annen fast montert låseinnretning med likeverdig sikkerhet.
+
+To- eller trehjuls motorvogn som oppfyller kravene i direktiv [93/33/EØF](eu/31993l0033) anses å tilfredsstille kravene i første ledd.
 
 3\. For to- og trehjulede motorvogner gjelder bestemmelsene i denne paragraf kjøretøy som er typegodkjent før 1. oktober 1999 og/eller som registreres før 17. juni 2003.
 
@@ -9715,19 +11461,33 @@ Følgende kjøretøy er unntatt fra kravet om underkjøringshinder:Kjøretøy un
 
 ### § 35-1. Hastighetsmåler på bil
 
-1\. Bil skal ha hastighetsmåler plassert godt synlig fra førerplassen. Den skal vise hastighet i km/t med tilnærmet nøyaktighet og må ikke vise mindre hastighet enn den virkelige.Hastighetsmåler som oppfyller kravene i direktiv [75/443/EØF](eu/31975l0443) vedlegg II, eventuelt som endret ved direktiv [97/39/EF](eu/31997l0039), eller ECE-reg.nr. 39, tillegg 1 anses å oppfylle bestemmelsene i første ledd.
+1\. Bil skal ha hastighetsmåler plassert godt synlig fra førerplassen. Den skal vise hastighet i km/t med tilnærmet nøyaktighet og må ikke vise mindre hastighet enn den virkelige.
+
+Hastighetsmåler som oppfyller kravene i direktiv [75/443/EØF](eu/31975l0443) vedlegg II, eventuelt som endret ved direktiv [97/39/EF](eu/31997l0039), eller ECE-reg.nr. 39, tillegg 1 anses å oppfylle bestemmelsene i første ledd.
 
 ### § 35-2. Hastighetsmåler på to- og trehjulede motorvogner (direktiv 2000/7/EF)
 
-1\. Kravnivå:Direktiv [2000/7/EF](eu/32000l0007).
+1\. Kravnivå:
 
-2\. Virkeområde m.m.:Direktivet gjelder for kjøretøy som omfattes av direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).Bestemmelsene gjelder ikke for militærtaktiske kjøretøy registrert på forsvaret.
+Direktiv [2000/7/EF](eu/32000l0007).
 
-3\. Alternativ standard:ECE-reg.nr. 39.
+2\. Virkeområde m.m.:
 
-4\. Godkjenning:Ved EØF-typegodkjenning og registrering av to- og trehjulede motorvogner skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+Direktivet gjelder for kjøretøy som omfattes av direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077).
 
-5\. Ikrafttreden:Denne paragraf trer i kraft 1. juli 2001 for to- og trehjulede motorvogner (1. juli 2002 for mopeder).
+Bestemmelsene gjelder ikke for militærtaktiske kjøretøy registrert på forsvaret.
+
+3\. Alternativ standard:
+
+ECE-reg.nr. 39.
+
+4\. Godkjenning:
+
+Ved EØF-typegodkjenning og registrering av to- og trehjulede motorvogner skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktivet er tilfredsstilt.
+
+5\. Ikrafttreden:
+
+Denne paragraf trer i kraft 1. juli 2001 for to- og trehjulede motorvogner (1. juli 2002 for mopeder).
 
 > Endret ved [forskrift 16 nov 2004 nr. 1470](forskrift/2004-11-16-1470).
 
@@ -9777,7 +11537,9 @@ Traktor som godkjennes før 1. juli 2005 og motorredskap, begge konstruert for e
 
 1\. Oppheves.
 
-2\. Frem til 1. juni 2017 gjelder følgende: Del av tilhengerkopling som er montert på trekkende kjøretøy (trekkdel) og den del som er montert på tilhenger/tilhengerredskap for å koples til trekkdelen (dragdel), skal være solid utført, godt festet, lett og sikker å betjene og sikker mot utilsiktet løsing. Etter 1. juni 2017 gjelder følgende: Del av tilhengerkopling som er montert på motorvogn (trekkdel) og den del som er montert på tilhenger/tilhengerredskap (dragdel) skal være solid utført, godt festet, lett og sikker å betjene og sikker mot utilsiktet utløsning.Tilhengerkopling som tilfredsstiller kravene i direktiv [94/20/EF](eu/31994l0020), eventuelt direktiv [97/24/EF](eu/31997l0024*), [kapittel 10](forskrift/1994-10-04-918/kap10), når det gjelder to- og trehjulede motorvogner, anses å oppfylle kravene i første ledd. Tilhengerkopling til jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [89/173/EØF](eu/31989l0173) vedlegg IV, eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054) eller direktiv [2002/1/EF](eu/32002l0001), ev. som erstattet ved direktiv [2009/144/EF](eu/32009l0144), anses også å oppfylle bestemmelsene i første ledd.
+2\. Frem til 1. juni 2017 gjelder følgende: Del av tilhengerkopling som er montert på trekkende kjøretøy (trekkdel) og den del som er montert på tilhenger/tilhengerredskap for å koples til trekkdelen (dragdel), skal være solid utført, godt festet, lett og sikker å betjene og sikker mot utilsiktet løsing. Etter 1. juni 2017 gjelder følgende: Del av tilhengerkopling som er montert på motorvogn (trekkdel) og den del som er montert på tilhenger/tilhengerredskap (dragdel) skal være solid utført, godt festet, lett og sikker å betjene og sikker mot utilsiktet utløsning.
+
+Tilhengerkopling som tilfredsstiller kravene i direktiv [94/20/EF](eu/31994l0020), eventuelt direktiv [97/24/EF](eu/31997l0024*), [kapittel 10](forskrift/1994-10-04-918/kap10), når det gjelder to- og trehjulede motorvogner, anses å oppfylle kravene i første ledd. Tilhengerkopling til jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv [89/173/EØF](eu/31989l0173) vedlegg IV, eventuelt som endret ved direktiv [97/54/EF](eu/31997l0054) eller direktiv [2002/1/EF](eu/32002l0001), ev. som erstattet ved direktiv [2009/144/EF](eu/32009l0144), anses også å oppfylle bestemmelsene i første ledd.
 
 3\. Godkjent kjøretøy skal fremstilles for ny godkjenning dersom det utstyres med trekkdel for tilhenger/tilhengerredskap, se [§ 6-8](forskrift/1994-10-04-918/§6-8).
 
@@ -9787,7 +11549,9 @@ Traktor som godkjennes før 1. juli 2005 og motorredskap, begge konstruert for e
 
 1\. Bestemmelsene i nr. 1-3 gjelder for personbil og varebil.
 
-2\. Bilens trekkdel skal ha tydelig og varig merking som angir fabrikat og største tillatte tilhengervekt.For trekkdel som er typegodkjent i henhold til direktiv [94/20/EF](eu/31994l0020) er merking som angitt i direktivet tilstrekkelig.
+2\. Bilens trekkdel skal ha tydelig og varig merking som angir fabrikat og største tillatte tilhengervekt.
+
+For trekkdel som er typegodkjent i henhold til direktiv [94/20/EF](eu/31994l0020) er merking som angitt i direktivet tilstrekkelig.
 
 3\. Bilens trekkdel skal ha en kule med diameter 50 mm.
 
@@ -9801,7 +11565,9 @@ Traktor som godkjennes før 1. juli 2005 og motorredskap, begge konstruert for e
 
 4\. Godkjenning: Ved godkjenning skal det det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at motorvognen tilfredsstiller ovennevnte krav. Dette gjelder ikke når motorvognen er ledsaget av gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077). Alternativt kan motorvogn, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.
 
-5\. Dersom kjøretøyprodusenten ikke oppgir krav i henhold til direktiv [97/24/EF](eu/31997l0024*) [kapittel 10](forskrift/1994-10-04-918/kap10) vedlegg 1 nr. 4.4 og 4.5, når det gjelder festepunkter og eventuelle deler til montering av trekkbeslag, type kopling, tilhengerens tillatte masse og/eller den statiske vertikale belastningen i koplingspunktet, kreves ikke dette. Tilhengerens tillatte masse fastsettes da i tråd med [§ 10-4](forskrift/1994-10-04-918/§10-4).Dersom kjøretøyprodusenten oppgir krav som nevnt i første ledd, skal disse legges til grunn for godkjenning.
+5\. Dersom kjøretøyprodusenten ikke oppgir krav i henhold til direktiv [97/24/EF](eu/31997l0024*) [kapittel 10](forskrift/1994-10-04-918/kap10) vedlegg 1 nr. 4.4 og 4.5, når det gjelder festepunkter og eventuelle deler til montering av trekkbeslag, type kopling, tilhengerens tillatte masse og/eller den statiske vertikale belastningen i koplingspunktet, kreves ikke dette. Tilhengerens tillatte masse fastsettes da i tråd med [§ 10-4](forskrift/1994-10-04-918/§10-4).
+
+Dersom kjøretøyprodusenten oppgir krav som nevnt i første ledd, skal disse legges til grunn for godkjenning.
 
 6\. Ikrafttreden:
 
@@ -9831,29 +11597,53 @@ Traktor som godkjennes før 1. juli 2005 og motorredskap, begge konstruert for e
 
 ### § 38-6. Tilhengerkopling på jordbruks- eller skogbrukstraktor (direktiv 2009/144/EF)
 
-1\. Kravnivå:Direktiv [2009/144/EF](eu/32009l0144).
+1\. Kravnivå:
 
-2\. VirkeområdeBestemmelsen i denne paragraf gjelder for jordbruks- eller skogbrukstraktorer.Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- eller skogbrukstraktorer.
+Direktiv [2009/144/EF](eu/32009l0144).
 
-3\. Alternativ standard:Ingen
+2\. Virkeområde
 
-4\. GodkjenningVed typegodkjenning av ny type jordbruks- eller skogbrukstraktor skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [2009/144/EF](eu/32009l0144) er tilfredsstilt.
+Bestemmelsen i denne paragraf gjelder for jordbruks- eller skogbrukstraktorer.
 
-5\. Ikrafttreden:Denne paragraf trer i kraft for typegodkjenning 1. juni 2010.
+Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- eller skogbrukstraktorer.
+
+3\. Alternativ standard:
+
+Ingen
+
+4\. Godkjenning
+
+Ved typegodkjenning av ny type jordbruks- eller skogbrukstraktor skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [2009/144/EF](eu/32009l0144) er tilfredsstilt.
+
+5\. Ikrafttreden:
+
+Denne paragraf trer i kraft for typegodkjenning 1. juni 2010.
 
 > Tilføyd ved [forskrift 26 juli 2011 nr. 793](forskrift/2011-07-26-793).
 
 ### § 38-7. Tilhengerkopling på jordbruks- eller skogbrukstraktor (direktiv 2000/1/EF)
 
-1\. Kravnivå:Direktiv [89/173/EØF](eu/31989l0173) som endret ved direktiv [2000/1/EF](eu/32000l0001*).
+1\. Kravnivå:
 
-2\. VirkeområdeBestemmelsen i denne paragraf gjelder for jordbruks- eller skogbrukstraktorer.Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- eller skogbrukstraktorer.
+Direktiv [89/173/EØF](eu/31989l0173) som endret ved direktiv [2000/1/EF](eu/32000l0001*).
 
-3\. Alternativ standard:Ingen
+2\. Virkeområde
 
-4\. GodkjenningVed typegodkjenning av ny type jordbruks- eller skogbrukstraktor skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [89/173/EØF](eu/31989l0173) som endret ved direktiv [2000/1/EF](eu/32000l0001*) er tilfredsstilt.
+Bestemmelsen i denne paragraf gjelder for jordbruks- eller skogbrukstraktorer.
 
-5\. Ikrafttreden:Denne paragraf trer i kraft for typegodkjenning 12. januar 2001.
+Bestemmelsene gjelder ikke for forsvarets militærtaktiske jordbruks- eller skogbrukstraktorer.
+
+3\. Alternativ standard:
+
+Ingen
+
+4\. Godkjenning
+
+Ved typegodkjenning av ny type jordbruks- eller skogbrukstraktor skal det fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at direktiv [89/173/EØF](eu/31989l0173) som endret ved direktiv [2000/1/EF](eu/32000l0001*) er tilfredsstilt.
+
+5\. Ikrafttreden:
+
+Denne paragraf trer i kraft for typegodkjenning 12. januar 2001.
 
 > Endret ved [forskrift 26 juli 2011 nr. 793](forskrift/2011-07-26-793) (tidligere § 38-6.)
 
@@ -9933,7 +11723,13 @@ For to- og trehjulede motorvogner gjelder bestemmelsene i denne paragraf kjøret
 
 ### § 39-3. Plassering av kjennemerker på bil
 
-1\. Kjennemerket foran skal være plassert slik at høyden fra vegbanen til nederste kant av kjennemerket er 25 cm eller mer, mens høyden fra vegbanen til øverste kant skal være mindre enn 80 cm.For kjennemerke bak skal de tilsvarende høyder være hhv. 30 cm og 120 cm.I særlige tilfelle, hvor en bils konstruksjon eller det utstyr den brukes med gjør det nødvendig, kan høyden fra vegbanen til øverste kant av kjennemerket økes til den høyde som er nødvendig.Målene skal tas når bilen er ubelastet.
+1\. Kjennemerket foran skal være plassert slik at høyden fra vegbanen til nederste kant av kjennemerket er 25 cm eller mer, mens høyden fra vegbanen til øverste kant skal være mindre enn 80 cm.
+
+For kjennemerke bak skal de tilsvarende høyder være hhv. 30 cm og 120 cm.
+
+I særlige tilfelle, hvor en bils konstruksjon eller det utstyr den brukes med gjør det nødvendig, kan høyden fra vegbanen til øverste kant av kjennemerket økes til den høyde som er nødvendig.
+
+Målene skal tas når bilen er ubelastet.
 
 2\. Kjennemerke skal være godt synlig i et område avgrenset av 4 plan gjennom kjennemerkets 4 sidekanter. Disse plan skal sideveis og utover danne en vinkel på minst 30° med bilens lengdeakse. Det øverste plan skal danne en vinkel på minst 30° oppover, målt i forhold til horisontalplanet, og det nederste plan må være horisontalt eller danne en vinkel nedover. Såfremt kjennemerkets øverste kant er høyere enn 120 cm fra vegbanen, skal det nederste plan danne en vinkel på minst 15° nedover i forhold til horisontalplanet.
 
@@ -10073,7 +11869,19 @@ Stort, smalt kjennemerke til tilhenger skal være 47 cm bredt og 11 cm høyt.
 
 ### § 39-11. Type kjennemerke etter kjøretøygruppe
 
-1\. Bil skal ha store kjennemerker. De kan være smale eller høye.Bil kan i enkelte tilfeller tildeles lite kjennemerke. De kan være smale eller høye. Bil kan i enkelte tilfeller også tildeles kjennemerke i størrelse 30,3 x 15,3 cm. Slikt kjennemerke kan tildeles bil hvor eier må foreta tilpasninger eller ombygginger for å få montert stort kjennemerke. Statens vegvesen fatter vedtak om tildeling av slikt kjennemerke.Lisensiert rallybil som er fritatt for engangsavgift/tilleggsavgift, skal ha lite kjennemerke. Det kan være smalt eller høyt.For lite kjennemerke tildelt 31. mai 2005 eller senere, men før 1. oktober 2008 gjelder følgende forutsatt at dette er anmerket i vognkortet; bil kan benytte lite kjennemerke bak, dersom det fra fabrikanten ikke er avsatt plass nok til stort kjennemerke.Bestemmelsen i fjerde ledd trer i kraft 31. mai 2005.For lite kjennemerke tildelt før 31. mai 2005 gjelder følgende forutsatt at dette er anmerket i vognkortet; bil som originalt ikke har plass nok for stort kjennemerke på det stedet fabrikanten har avsatt for dette, kan bruke lite kjennemerke, smalt eller høyt. Dersom slik bil originalt har plass til stort kjennemerke foran eller bak der fabrikanten har avsatt plass til dette, skal slikt kjennemerke brukes der.Bestemmelsen i sjette ledd trer i kraft 1. oktober 2001.
+1\. Bil skal ha store kjennemerker. De kan være smale eller høye.
+
+Bil kan i enkelte tilfeller tildeles lite kjennemerke. De kan være smale eller høye. Bil kan i enkelte tilfeller også tildeles kjennemerke i størrelse 30,3 x 15,3 cm. Slikt kjennemerke kan tildeles bil hvor eier må foreta tilpasninger eller ombygginger for å få montert stort kjennemerke. Statens vegvesen fatter vedtak om tildeling av slikt kjennemerke.
+
+Lisensiert rallybil som er fritatt for engangsavgift/tilleggsavgift, skal ha lite kjennemerke. Det kan være smalt eller høyt.
+
+For lite kjennemerke tildelt 31. mai 2005 eller senere, men før 1. oktober 2008 gjelder følgende forutsatt at dette er anmerket i vognkortet; bil kan benytte lite kjennemerke bak, dersom det fra fabrikanten ikke er avsatt plass nok til stort kjennemerke.
+
+Bestemmelsen i fjerde ledd trer i kraft 31. mai 2005.
+
+For lite kjennemerke tildelt før 31. mai 2005 gjelder følgende forutsatt at dette er anmerket i vognkortet; bil som originalt ikke har plass nok for stort kjennemerke på det stedet fabrikanten har avsatt for dette, kan bruke lite kjennemerke, smalt eller høyt. Dersom slik bil originalt har plass til stort kjennemerke foran eller bak der fabrikanten har avsatt plass til dette, skal slikt kjennemerke brukes der.
+
+Bestemmelsen i sjette ledd trer i kraft 1. oktober 2001.
 
 2\. Motorsykkel skal ha lite kjennemerke. Det kan være smalt eller høyt.
 
@@ -10081,15 +11889,31 @@ Stort, smalt kjennemerke til tilhenger skal være 47 cm bredt og 11 cm høyt.
 
 4\. Traktor og motorredskap skal ha lite kjennemerke. Det kan være smalt eller høyt.
 
-5\. Tilhenger skal ha stort kjennemerke. Det kan være smalt eller høyt.Tilhenger med bredde ikke over 1.25 m kan ha lite kjennemerke. Det kan være smalt eller høyt.
+5\. Tilhenger skal ha stort kjennemerke. Det kan være smalt eller høyt.
+
+Tilhenger med bredde ikke over 1.25 m kan ha lite kjennemerke. Det kan være smalt eller høyt.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810) (tidligere § 39-9), [26 mai 2005 nr. 485](forskrift/2005-05-26-485), [12 aug 2005 nr. 891](forskrift/2005-08-12-891), [17 juli 2008 nr. 921](forskrift/2008-07-17-921) (i kraft 1 okt 2008), [15 sep 2010 nr. 1273](forskrift/2010-09-15-1273) (tidligere § 39-10), [14 des 2016 nr. 1767](forskrift/2016-12-14-1767) (i kraft 1 jan 2017), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [9 sep 2020 nr. 2102](forskrift/2020-09-09-2102) (i kraft 26 okt 2020).
 
 ### § 39-12. Nasjonalitetsmerke
 
-1\. Integrert nasjonalitetsmerkeNasjonalitetsmerke kan inngå som en del av kjennemerket. Dette må være levert av den produsenten Statens vegvesen benytter og kan ikke påføres i etterkant.Integrert nasjonalitetsmerke skal bestå av den latinske bokstaven N malt i hvitt og supplert av det norske flagget. Begge symboler skal stå på blå, retroreflekterende bakgrunn. Bokstaven skal være 20 mm høy for stort kjennemerke og 16 mm høy for lite kjennemerke.Nasjonalitetsmerket skal være plassert helt til venstre på kjennemerket. Flagget skal være plassert over bokstaven.
+1\. Integrert nasjonalitetsmerke
 
-2\. Separat nasjonalitetsmerkeUtstyres kjøretøyet med separat nasjonalitetsmerke skal dette være utført som eget merke og må ikke være kombinert med nasjonalitetsflagg eller annet. Det må ikke være en del av kjennemerket.Merket skal være utformet som en ellipse med hvit bunn og være påført den latinske bokstaven N malt i sort og plassert symmetrisk om ellipsens midtpunkt. Ellipsen skal være minst 175 mm bred og 115 mm høy. Bokstaven skal ha en høyde på minst 80 mm og strektykkelse minst 10 mm.Når separat nasjonalitetsmerke benyttes skal dette være plassert bak på kjøretøyet og må ikke festes på en slik måte at det kan forveksles med kjennemerket eller hindre dets leselighet.Det skal være plassert vertikalt eller tilnærmet vertikalt og vinkelrett eller tilnærmet vinkelrett på kjøretøyets lengdeakse. Den lengste akse skal være horisontal.
+Nasjonalitetsmerke kan inngå som en del av kjennemerket. Dette må være levert av den produsenten Statens vegvesen benytter og kan ikke påføres i etterkant.
+
+Integrert nasjonalitetsmerke skal bestå av den latinske bokstaven N malt i hvitt og supplert av det norske flagget. Begge symboler skal stå på blå, retroreflekterende bakgrunn. Bokstaven skal være 20 mm høy for stort kjennemerke og 16 mm høy for lite kjennemerke.
+
+Nasjonalitetsmerket skal være plassert helt til venstre på kjennemerket. Flagget skal være plassert over bokstaven.
+
+2\. Separat nasjonalitetsmerke
+
+Utstyres kjøretøyet med separat nasjonalitetsmerke skal dette være utført som eget merke og må ikke være kombinert med nasjonalitetsflagg eller annet. Det må ikke være en del av kjennemerket.
+
+Merket skal være utformet som en ellipse med hvit bunn og være påført den latinske bokstaven N malt i sort og plassert symmetrisk om ellipsens midtpunkt. Ellipsen skal være minst 175 mm bred og 115 mm høy. Bokstaven skal ha en høyde på minst 80 mm og strektykkelse minst 10 mm.
+
+Når separat nasjonalitetsmerke benyttes skal dette være plassert bak på kjøretøyet og må ikke festes på en slik måte at det kan forveksles med kjennemerket eller hindre dets leselighet.
+
+Det skal være plassert vertikalt eller tilnærmet vertikalt og vinkelrett eller tilnærmet vinkelrett på kjøretøyets lengdeakse. Den lengste akse skal være horisontal.
 
 > Endret ved [forskrifter 23 des 2004 nr. 1810](forskrift/2004-12-23-1810) (tidligere § 39-10), [10 nov 2006 nr. 1286](forskrift/2006-11-10-1286), [15 sep 2010 nr. 1273](forskrift/2010-09-15-1273) (tidligere § 39-11).
 
@@ -10105,7 +11929,9 @@ Stort, smalt kjennemerke til tilhenger skal være 47 cm bredt og 11 cm høyt.
 
 1\. Bil skal være utstyrt med minst en varseltrekant.
 
-2\. Varseltrekanter skal tilfredsstille kravene i ECE-reg.nr. 27.03 og være merket i overensstemmelse med denne.Merkingen er utført som vist i fig. 1.
+2\. Varseltrekanter skal tilfredsstille kravene i ECE-reg.nr. 27.03 og være merket i overensstemmelse med denne.
+
+Merkingen er utført som vist i fig. 1.
 
 3\. Varseltrekanter skal være anbragt i emballasje av solid, tett og bestandig materiale.
 
@@ -10125,7 +11951,12 @@ Fig. 1
 
 1\. Styrthjelm skal tilfredsstille kravene i ECE-reg.nr. 22.02 og være merket i overensstemmelse med denne. Se fig. 1.
 
-2\. Med hver hjelm som leveres skal det medfølge en instruksjon skrevet på norsk, svensk eller dansk med følgende opplysninger:Hjelmen må være godt tilpasset hodet for å gi best mulig beskyttelse.Eventuell reguleringssnor må være knyttet slik at den ikke løsner.Hjelm som har vært utsatt for et kraftig støt må kasseres, selv om ikke skadene er synlige for øyet. Dette skyldes at hjelmen er konstruert slik at energien av et hardt støt blir absorbert ved en delvis ødeleggelse av skallet og/eller det beskyttende dempningsmaterialet inne i hjelmen.
+2\. Med hver hjelm som leveres skal det medfølge en instruksjon skrevet på norsk, svensk eller dansk med følgende opplysninger:
+
+1. Hjelmen må være godt tilpasset hodet for å gi best mulig beskyttelse.
+
+   Eventuell reguleringssnor må være knyttet slik at den ikke løsner.
+2. Hjelm som har vært utsatt for et kraftig støt må kasseres, selv om ikke skadene er synlige for øyet. Dette skyldes at hjelmen er konstruert slik at energien av et hardt støt blir absorbert ved en delvis ødeleggelse av skallet og/eller det beskyttende dempningsmaterialet inne i hjelmen.
 
 «E-merkingen» er utført slik:
 
@@ -10147,25 +11978,47 @@ Fig. 1
 | Gruppe 2: | For barn fra | 15 – | 25 kg |
 | Gruppe 3: | For barn fra | 22 – | 36 kg |
 
-2\. Utstyret deles videre inn i 3 kategorier:*Universell* som anvendes på alle typer kjøretøy.*Halv-universell* som anvendes på nærmere spesifiserte kjøretøy.*Særskilt kjøretøy* som anvendes på en bestemt type kjøretøy.
+2\. Utstyret deles videre inn i 3 kategorier:
 
-3\. *Utstyret kan dessuten være av 2 klasser*En *integrert* klasse bestående av en kombinasjon av bånd eller fleksible komponenter med en sikkerhetslås, instillingsanordning, innfestingsanordning og i noen tilfelle en ekstra stol og/eller fangpute som kan festes med sitt eget (egne) bånd.En *ikke-integrert* klasse som kan bestå av en del av et sikringsutstyr som, når det anvendes sammen med et voksenbelte som løper rundt barnets kropp eller holder fast den anordning som barnet er plassert i, danner et fullstendig sikringsutstyr for barn.
+*Universell* som anvendes på alle typer kjøretøy.
+
+*Halv-universell* som anvendes på nærmere spesifiserte kjøretøy.
+
+*Særskilt kjøretøy* som anvendes på en bestemt type kjøretøy.
+
+3\. *Utstyret kan dessuten være av 2 klasser*
+
+En *integrert* klasse bestående av en kombinasjon av bånd eller fleksible komponenter med en sikkerhetslås, instillingsanordning, innfestingsanordning og i noen tilfelle en ekstra stol og/eller fangpute som kan festes med sitt eget (egne) bånd.
+
+En *ikke-integrert* klasse som kan bestå av en del av et sikringsutstyr som, når det anvendes sammen med et voksenbelte som løper rundt barnets kropp eller holder fast den anordning som barnet er plassert i, danner et fullstendig sikringsutstyr for barn.
 
 4\. Sikringsutstyr for barn skal være av godkjent type og skal, dersom det tas i bruk, være montert på betryggende måte.
 
 5\. Opphevet.
 
-6\. Sikringsutstyret skal være forsynt med godkjenningsmerke i henhold til gjeldende ECE-regulativ, se fig. 1, eller gjeldende EU-direktiv, se figur 2.I eksemplet i figur 1 er utstyret godkjent for bruk av alle typer kjøretøy, for barn fra 3-36 kg (Gr. 3) (Se dog monteringsanvisningen). Det er godkjent i Nederland (4) med godkjenningsnummer 032439 i henhold til ECE-reg.nr. 44.03 (03 i godkjenningsnummeret.
+6\. Sikringsutstyret skal være forsynt med godkjenningsmerke i henhold til gjeldende ECE-regulativ, se fig. 1, eller gjeldende EU-direktiv, se figur 2.
+
+I eksemplet i figur 1 er utstyret godkjent for bruk av alle typer kjøretøy, for barn fra 3-36 kg (Gr. 3) (Se dog monteringsanvisningen). Det er godkjent i Nederland (4) med godkjenningsnummer 032439 i henhold til ECE-reg.nr. 44.03 (03 i godkjenningsnummeret.
 
 Fig. 1
 
-Følgende symboler nyttes:Bokstaven «E» og godkjenningslandets kodetall/-bokstaver, omgitt av en sirkel.Til hvilke kjøretøykategori (i dette tilfelle er det et universalutstyr).Vektklasse (i dette tilfelle 1, 2 og 3).Utstyrets godkjenningsnummer (under sirkelen).
+Følgende symboler nyttes:
+
+- Bokstaven «E» og godkjenningslandets kodetall/-bokstaver, omgitt av en sirkel.
+- Til hvilke kjøretøykategori (i dette tilfelle er det et universalutstyr).
+- Vektklasse (i dette tilfelle 1, 2 og 3).
+- Utstyrets godkjenningsnummer (under sirkelen).
 
 I eksemplet i figur 2 er utstyret godkjent for bruk i alle typer kjøretøy, for barn fra 9-36 kg (Gr. 3) (Se dog monteringsanvisningen). Det er godkjent i Nederland (4) med godkjenningsnummer 03 1234 i henhold til direktiv [77/541/EØF](eu/31977l0541*), som endret ved direktiv [2000/3/EF](eu/32000l0003*) (03 i godkjenningsnummeret referer til direktiv [2000/3/EF](eu/32000l0003*)).
 
 Fig. 2
 
-Følgende symboler nyttes:Bokstaven «e» og godkjenningslandets kodetall/-bokstaver, omgitt av et rektangel.Til hvilke kjøretøykategori (i dette tilfelle er det et universalutstyr).Vektklasse (i dette tilfelle 1, 2 og 3).Utstyrets godkjenningsnummer (under rektangelet).
+Følgende symboler nyttes:
+
+- Bokstaven «e» og godkjenningslandets kodetall/-bokstaver, omgitt av et rektangel.
+- Til hvilke kjøretøykategori (i dette tilfelle er det et universalutstyr).
+- Vektklasse (i dette tilfelle 1, 2 og 3).
+- Utstyrets godkjenningsnummer (under rektangelet).
 
 ### § 43-2. Integrert barnesikringsutstyr i bil (direktiv 2000/3/EF, ECE-reg.nr. 44.03)
 
@@ -10271,7 +12124,10 @@ En statisk belastningsprøve skal være utført som fastsatt i nr. 3.2.1 nedenfo
 
 Kraften som skal belaste sidehinderet skal være på 1 KN (101,5 kp).
 
-Ved belastningsprøven gjelder atikke noen del av sidehinderet får forflytte seg mer enn 150 mm.ikke noen del av sidehinderet som befinner seg mindre enn 250 mm fra dets bakkant får forflytte seg mer enn 30 mm.
+Ved belastningsprøven gjelder at
+
+1. ikke noen del av sidehinderet får forflytte seg mer enn 150 mm.
+2. ikke noen del av sidehinderet som befinner seg mindre enn 250 mm fra dets bakkant får forflytte seg mer enn 30 mm.
 
 3.3
 
@@ -10355,21 +12211,31 @@ Bestemmelsene i denne paragraf gjelder for kjøretøy som registreres for bruk p
 
 1\. Bil gruppe N2 og N3 skal ha sidehinder, der avstanden mellom sentrene på to etterfølgende aksler er større enn 3 m.
 
-2\. Avstanden fra sidehinderets framkant til bakkant av nærmeste hjul foran sidehinderet får ikke være mer enn 300 mm.Dersom førerhus/skjerm, ev. eksosrør/luftfilterinntak stikker ned mellom sidehinderets forkant og bakkant av nærmeste hjul, får avstanden fra forkant av sidehinderet til den aktuelle konstruksjonsdel ikke være over 100 mm.
+2\. Avstanden fra sidehinderets framkant til bakkant av nærmeste hjul foran sidehinderet får ikke være mer enn 300 mm.
+
+Dersom førerhus/skjerm, ev. eksosrør/luftfilterinntak stikker ned mellom sidehinderets forkant og bakkant av nærmeste hjul, får avstanden fra forkant av sidehinderet til den aktuelle konstruksjonsdel ikke være over 100 mm.
 
 ### § 44-3. Sidehinder på motorredskap
 
 1\. Motorredskap med største totalvekt over 3.500 kg, og som er konstruert for en hastighet på over 50 km/t, skal ha sidehinder, der avstanden mellom sentrene på to etterfølgende aksler er større enn 3 m.
 
-2\. Avstanden fra sidehinderets framkant til bakkant av nærmeste hjul foran sidehinderet får ikke være mer enn 300 mm.Dersom førerhus/skjerm, ev. eksosrør/luftfilterinntak stikker ned mellom sidehinderets forkant og bakkant av nærmeste hjul, får avstanden fra forkant av sidehinderet til den aktuelle konstruksjonsdel ikke være over 100 mm.
+2\. Avstanden fra sidehinderets framkant til bakkant av nærmeste hjul foran sidehinderet får ikke være mer enn 300 mm.
+
+Dersom førerhus/skjerm, ev. eksosrør/luftfilterinntak stikker ned mellom sidehinderets forkant og bakkant av nærmeste hjul, får avstanden fra forkant av sidehinderet til den aktuelle konstruksjonsdel ikke være over 100 mm.
 
 ### § 44-4. Sidehinder på tilhenger
 
-1\. Tilhenger i gruppe O3 og O4 skal ha sidehindernår avstanden mellom sentrene på to etterfølgende aksler er større enn 3 m.når tilhengeren er en semitrailer og avstanden mellom senteret av den fremste akselen og senterlinjen gjennom king-pin er mer enn 4,5 m. Har semitraileren mer enn en king-pin, måles det til den bakerste.når tilhengeren er en påhengsvogn og avstanden mellom senteret av den fremste akselen og framkant av påbygget (karosseri, lasteplan e.l.) er mer enn 1,5 m.
+1\. Tilhenger i gruppe O3 og O4 skal ha sidehinder
+
+1. når avstanden mellom sentrene på to etterfølgende aksler er større enn 3 m.
+2. når tilhengeren er en semitrailer og avstanden mellom senteret av den fremste akselen og senterlinjen gjennom king-pin er mer enn 4,5 m. Har semitraileren mer enn en king-pin, måles det til den bakerste.
+3. når tilhengeren er en påhengsvogn og avstanden mellom senteret av den fremste akselen og framkant av påbygget (karosseri, lasteplan e.l.) er mer enn 1,5 m.
 
 2\. For slepvogn gjelder at avstanden fra sidehinderets framkant til bakerste del av det nærmeste foranliggende hjul ikke får være mer enn 500 mm.
 
-3\. For semitrailer gjelder at avstanden fra sidehinderets framkant til et vertikalt plan gjennom king-pin-senter og vertikalt på semitrailerens lengdeakse ikke får være mer enn 2,7 m. Har semitraileren mer enn en king-pin, måles det til den bakerste.Har semitraileren støtteben, gjelder dessuten at avstanden fra sidehinderets framkant til et vertikalt plan gjennom støttebenets innfestingspunkt og vertikalt på semitrailerens lengdeakse ikke får være mer enn 250 mm.
+3\. For semitrailer gjelder at avstanden fra sidehinderets framkant til et vertikalt plan gjennom king-pin-senter og vertikalt på semitrailerens lengdeakse ikke får være mer enn 2,7 m. Har semitraileren mer enn en king-pin, måles det til den bakerste.
+
+Har semitraileren støtteben, gjelder dessuten at avstanden fra sidehinderets framkant til et vertikalt plan gjennom støttebenets innfestingspunkt og vertikalt på semitrailerens lengdeakse ikke får være mer enn 250 mm.
 
 4\. For påhengsvogn gjelder at sidehinderet skal trekkes fram til framkant av påbygget (karosseri, lasteplan e.l.) og derfra knekkes inn mot tilhengerdraget i en vinkel på maksimalt 45° (sidehinderet skal trekkes helt inn til tilhengerdraget, eller så langt inn mot draget som mulig).
 
@@ -10448,11 +12314,21 @@ Beskyttelsesvegg skal også, uten å briste eller få varig deformasjon på mer 
 
 5.3
 
-Følgende unntak gjelder:Forlem kreves ikke på kjøretøy som er spesielt innrettet for transport av lukket container i henhold til ISO eller tilsvarende nasjonal standard.Forlem kreves ikke på kjøretøy som utelukkende er utstyrt med betongtrommel eller fast, formstabil tank.På lastebil hvor langt gods transporteres dels på lasteplan og dels på lastegafler på siden av førerhuset behøver ikke forlemmen ha større bredde enn førerhuset.På lastebil med kran montert foran forlemmen kan forlemmens høyde reduseres så mye som er nødvendig for at kranen skal kunne brukes, men den må ikke være lavere enn 1,0 meter. Det samme gjelder for semitrailer koplet til trekkbil med påmontert kran.Forlem kreves ikke på nedbygget («svanehals») semitrailer som er spesielt innrettet for transport av tunge maskiner e.l. på den nedbyggede del.
+Følgende unntak gjelder:
+
+1. Forlem kreves ikke på kjøretøy som er spesielt innrettet for transport av lukket container i henhold til ISO eller tilsvarende nasjonal standard.
+2. Forlem kreves ikke på kjøretøy som utelukkende er utstyrt med betongtrommel eller fast, formstabil tank.
+3. På lastebil hvor langt gods transporteres dels på lasteplan og dels på lastegafler på siden av førerhuset behøver ikke forlemmen ha større bredde enn førerhuset.
+4. På lastebil med kran montert foran forlemmen kan forlemmens høyde reduseres så mye som er nødvendig for at kranen skal kunne brukes, men den må ikke være lavere enn 1,0 meter. Det samme gjelder for semitrailer koplet til trekkbil med påmontert kran.
+5. Forlem kreves ikke på nedbygget («svanehals») semitrailer som er spesielt innrettet for transport av tunge maskiner e.l. på den nedbyggede del.
 
 5.4
 
-Som dokumentasjon på at overnevnte krav til forlem/beskyttelsesvegg er oppfylt, kan godtas:Prøverapport som viser at en identisk vegg og dens innfesting har gjennomgått belastningsprøve og har tilstrekkelig styrke.Beregninger som viser at en identisk vegg og dens innfesting har tilstrekkelig styrke.Ved enkeltgodkjenning kan Statens vegvesen etter eget skjønn godta vegg som åpenbart har tilstrekkelig styrke, selv om det ikke foreligger dokumentasjon som nevnt ovenfor.
+Som dokumentasjon på at overnevnte krav til forlem/beskyttelsesvegg er oppfylt, kan godtas:
+
+1. Prøverapport som viser at en identisk vegg og dens innfesting har gjennomgått belastningsprøve og har tilstrekkelig styrke.
+2. Beregninger som viser at en identisk vegg og dens innfesting har tilstrekkelig styrke.
+3. Ved enkeltgodkjenning kan Statens vegvesen etter eget skjønn godta vegg som åpenbart har tilstrekkelig styrke, selv om det ikke foreligger dokumentasjon som nevnt ovenfor.
 
 6\.
 
@@ -10538,7 +12414,12 @@ Syntetisk fiberbånd som benyttes til surring skal være UV-bestandig og ha meka
 
 11.3
 
-Bånd som tåler en strekkraft på 20000 N skal være tydelig og varig merket med:Produsent eller leverandørStrekkraft (enkel part i rett strekk). Hvis andre deler enn båndet, f.eks. lås, krok e.l. har mindre strekkraft, skal denne angisProduksjonsårMaterialtype.
+Bånd som tåler en strekkraft på 20000 N skal være tydelig og varig merket med:
+
+- Produsent eller leverandør
+- Strekkraft (enkel part i rett strekk). Hvis andre deler enn båndet, f.eks. lås, krok e.l. har mindre strekkraft, skal denne angis
+- Produksjonsår
+- Materialtype.
 
 11.4
 
@@ -10560,7 +12441,10 @@ Automatisk surringsspenner skal være utstyrt med anordning som tydelig varsler 
 
 Låseanordning for container.
 
-Hver låseanordning og dens befestigelse i kjøretøyet skal ha en slik styrke at den kan tåle følgende belastninger:Langs kjøretøyet: Halvdelen av den tillatte masse (vekt) av den største container låseanordningene kan benyttes til.Til sidene og oppover: en fjerdedel av den tillatte masse (vekt) av den største container låseanordningene kan benyttes til.
+Hver låseanordning og dens befestigelse i kjøretøyet skal ha en slik styrke at den kan tåle følgende belastninger:
+
+1. Langs kjøretøyet: Halvdelen av den tillatte masse (vekt) av den største container låseanordningene kan benyttes til.
+2. Til sidene og oppover: en fjerdedel av den tillatte masse (vekt) av den største container låseanordningene kan benyttes til.
 
 14\.
 
@@ -10598,13 +12482,36 @@ Taklastbærer som skal monteres på biltak skal være tydelig og varig merket me
 
 ### § 47-1. Hastighetsbegrenser på bil
 
-1\. Bil i gruppe M2, M3, N2 og N3 som godkjennes fra 1. januar 2005 skal i henhold til direktiv [92/6/EØF](eu/31992l0006*), senest endret ved direktiv [2002/85/EF](eu/32002l0085), være utstyrt med hastighetsbegrenser (e-merket) som tilfredsstiller kravene i direktiv [92/24/EØF](eu/31992l0024), som senest endret ved direktiv [2004/11/EF](eu/32004l0011).Bil i gruppe N2, med tillatt totalvekt ikke over 7500 kg, og M2 kan etter 1. januar 2005 godkjennes uten hastighetsbegrenser dersom de bare skal benyttes til nasjonal transport. Bil som godkjennes etter dette unntaket må innen 1. januar 2008 ha montert hastighetsbegrenser i henhold til direktiv [92/6/EØF](eu/31992l0006*), som senest endret ved direktiv [2002/85/EF](eu/32002l0085).Bil som tilfredsstiller grenseverdiene i direktiv [88/77/EØF](eu/31988l0077) (euro-3 motorer) og som er registrert mellom 1. oktober 2001 og 1. januar 2005 skal ha montert hastighetsbegrenser i henhold til direktiv [92/6/EØF](eu/31992l0006*), som senest endret ved direktiv [2002/85/EF](eu/32002l0085) innen følgende datoer:Bil gruppe N2 (lastebil)1. januar 2006 for internasjonal transport1. januar 2007 for nasjonal transport.Bil gruppe M2 (buss) og gruppe M3 (buss) med største tillatte totalvekt fra 5 til 10 tonn1. januar 2006 for internasjonal transport1. januar 2007 for nasjonal transport.
+1\. Bil i gruppe M2, M3, N2 og N3 som godkjennes fra 1. januar 2005 skal i henhold til direktiv [92/6/EØF](eu/31992l0006*), senest endret ved direktiv [2002/85/EF](eu/32002l0085), være utstyrt med hastighetsbegrenser (e-merket) som tilfredsstiller kravene i direktiv [92/24/EØF](eu/31992l0024), som senest endret ved direktiv [2004/11/EF](eu/32004l0011).
+
+Bil i gruppe N2, med tillatt totalvekt ikke over 7500 kg, og M2 kan etter 1. januar 2005 godkjennes uten hastighetsbegrenser dersom de bare skal benyttes til nasjonal transport. Bil som godkjennes etter dette unntaket må innen 1. januar 2008 ha montert hastighetsbegrenser i henhold til direktiv [92/6/EØF](eu/31992l0006*), som senest endret ved direktiv [2002/85/EF](eu/32002l0085).
+
+Bil som tilfredsstiller grenseverdiene i direktiv [88/77/EØF](eu/31988l0077) (euro-3 motorer) og som er registrert mellom 1. oktober 2001 og 1. januar 2005 skal ha montert hastighetsbegrenser i henhold til direktiv [92/6/EØF](eu/31992l0006*), som senest endret ved direktiv [2002/85/EF](eu/32002l0085) innen følgende datoer:
+
+1. Bil gruppe N2 (lastebil)
+
+   - 1\. januar 2006 for internasjonal transport
+   - 1\. januar 2007 for nasjonal transport.
+2. Bil gruppe M2 (buss) og gruppe M3 (buss) med største tillatte totalvekt fra 5 til 10 tonn
+
+   - 1\. januar 2006 for internasjonal transport
+   - 1\. januar 2007 for nasjonal transport.
 
 2\. Bil gruppe M3 med totalvekt over 10.000 kg og bil gruppe N3, registrert etter 1. januar 1988 og som ikke faller inn under [punkt](forskrift/1994-10-04-918/kap1) 1, skal i henhold til direktiv [92/6/EØF](eu/31992l0006*) være utstyrt med hastighetsbegrenser (e-merket) som tilfredsstiller kravene i direktiv [92/24/EØF](eu/31992l0024), som senest endret ved direktiv [2004/11/EF](eu/32004l0011).
 
-3\. Følgende kjøretøy er unntatt for kravet om hastighetsbegrenser:Bil som tilhører forsvaret, sivilforsvaret eller brannvesenet, utrykkningskjøretøy samt politiets biler.Bil som av konstruksjonsmessige årsaker ikke kan kjøres med større hastighet enn det hastighetsbegrenseren er innstilt på.Bil som brukes i vitenskapelig forsøk, etter samtykke fra Statens vegvesen.Bil som benyttes utelukkende til offentlig transport i tettbygd område.
+3\. Følgende kjøretøy er unntatt for kravet om hastighetsbegrenser:
 
-4\. Hastighetsbegrenser skal for bil i gruppe N2 og N3 være innstilt til maksimalt 90 km/h. Dette anses oppfylt dersom enten:hastighetsbegrenseren justeres etter fabrikantens opplysninger om maksimal toleranse, slik at justert hastighet er maksimalt 90 km/h minus maksimal toleranse, ellerhastighetsbegrenseren justeres ved bruk av hastighetssimulator, slik at maksimal hastighet ikke overstiger 90 km/h.Dersom maksimal toleranse ikke er oppgitt eller verkstedet ikke har hastighetssimulator, skal hastighetsbegrenseren justeres til 85 km/h.
+1. Bil som tilhører forsvaret, sivilforsvaret eller brannvesenet, utrykkningskjøretøy samt politiets biler.
+2. Bil som av konstruksjonsmessige årsaker ikke kan kjøres med større hastighet enn det hastighetsbegrenseren er innstilt på.
+3. Bil som brukes i vitenskapelig forsøk, etter samtykke fra Statens vegvesen.
+4. Bil som benyttes utelukkende til offentlig transport i tettbygd område.
+
+4\. Hastighetsbegrenser skal for bil i gruppe N2 og N3 være innstilt til maksimalt 90 km/h. Dette anses oppfylt dersom enten:
+
+1. hastighetsbegrenseren justeres etter fabrikantens opplysninger om maksimal toleranse, slik at justert hastighet er maksimalt 90 km/h minus maksimal toleranse, eller
+2. hastighetsbegrenseren justeres ved bruk av hastighetssimulator, slik at maksimal hastighet ikke overstiger 90 km/h.
+
+Dersom maksimal toleranse ikke er oppgitt eller verkstedet ikke har hastighetssimulator, skal hastighetsbegrenseren justeres til 85 km/h.
 
 5\. Hastighetsbegrenser for bil gruppe M2 og M3 skal være innstilt til maksimalt 100 km/h.
 
@@ -10620,9 +12527,25 @@ Taklastbærer som skal monteres på biltak skal være tydelig og varig merket me
 
 11\. Verkstedet må ha utstyr for montering av hastighetsbegrenser beskrevet av fabrikanten av vedkommende type hastighetsbegrenser.
 
-12\. Ved montering, justering og plombering av hastighetsbegrenser skal det på godt synlig sted i førerhuset monteres installasjonsmerke. Installasjonsmerke, som kan kombineres med installasjonsplaten for fartsskriver, skal inneholde følgende opplysninger:verkstedets navn og adressejustert hastighetdekkdimensjondato for montering/reparasjon.
+12\. Ved montering, justering og plombering av hastighetsbegrenser skal det på godt synlig sted i førerhuset monteres installasjonsmerke. Installasjonsmerke, som kan kombineres med installasjonsplaten for fartsskriver, skal inneholde følgende opplysninger:
 
-13\. Etter montering/reparasjon av hastighetsbegrenser skal det utfylles kontrollkort, som skal ha følgende opplysninger:fabrikant, samt kjøretøyets registreringsnummerkjøretøyets kilometerstand ved monteringdekkdimensjon og rulleomkretshastighetsbegrenserens type og merkejustert hastighetantall plombermonterings/reparasjons datoverkstedets underskrift og stempel.Kortet skal oppbevares i minst to år, og skal kunne forevises Statens vegvesen eller politiet ved kontroll.
+1. verkstedets navn og adresse
+2. justert hastighet
+3. dekkdimensjon
+4. dato for montering/reparasjon.
+
+13\. Etter montering/reparasjon av hastighetsbegrenser skal det utfylles kontrollkort, som skal ha følgende opplysninger:
+
+1. fabrikant, samt kjøretøyets registreringsnummer
+2. kjøretøyets kilometerstand ved montering
+3. dekkdimensjon og rulleomkrets
+4. hastighetsbegrenserens type og merke
+5. justert hastighet
+6. antall plomber
+7. monterings/reparasjons dato
+8. verkstedets underskrift og stempel.
+
+Kortet skal oppbevares i minst to år, og skal kunne forevises Statens vegvesen eller politiet ved kontroll.
 
 14\. Statens vegvesen er godkjenningsmyndighet for monteringsverksted for hastighetsbegrensere. Søknad om godkjenning som monteringsverksted for hastighetsbegrensere sendes Statens vegvesen. Søknaden skal vedlegges dokumentasjon fra fabrikant eller importør av vedkommende type hastighetsbegrenser om at verkstedet har nødvendig utstyr for montering av hastighetsbegrenser. Videre skal kopi av godkjenningsbevis for monteringsverksted eller plomberingsverksted for fartsskriver vedlegges.
 
@@ -10662,7 +12585,14 @@ Bestemmelsene i nr. 2 trer i kraft 1. oktober 1998 for typegodkjenning av ny typ
 
 ### § 48-4. Krav til egenskaper ved kollisjon med myke trafikanter (direktiv 2003/102/EF)
 
-1\. IkrafttredelseBestemmelsene i denne paragraf trer i kraft som følger:Fra 1. oktober 2005 skal det ikke utstedes EF-typegodkjenning eller nasjonal typegodkjenning med mindre biltypen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.1 eller nr. 3.2. Dette gjelder bare hvis biltypen med hensyn til karosseriets konstruksjon og utforming foran A-stolpene skiller seg vesentlig fra biltype som har fått EF-typegodkjenning eller nasjonal typegodkjenning før denne dato.Fra 1. september 2010 skal det ikke utstedes EØF-typegodkjenning eller nasjonal typegodkjenning med mindre biltypen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.2.Fra 31. desember 2012 skal det ikke registreres, selges eller tas i bruk ny bil med mindre bilen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.1 eller nr. 3.2.Fra 1. september 2015 skal det ikke registreres, selges eller tas i bruk ny bil med mindre bilen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.2.
+1\. Ikrafttredelse
+
+Bestemmelsene i denne paragraf trer i kraft som følger:
+
+- Fra 1. oktober 2005 skal det ikke utstedes EF-typegodkjenning eller nasjonal typegodkjenning med mindre biltypen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.1 eller nr. 3.2. Dette gjelder bare hvis biltypen med hensyn til karosseriets konstruksjon og utforming foran A-stolpene skiller seg vesentlig fra biltype som har fått EF-typegodkjenning eller nasjonal typegodkjenning før denne dato.
+- Fra 1. september 2010 skal det ikke utstedes EØF-typegodkjenning eller nasjonal typegodkjenning med mindre biltypen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.2.
+- Fra 31. desember 2012 skal det ikke registreres, selges eller tas i bruk ny bil med mindre bilen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.1 eller nr. 3.2.
+- Fra 1. september 2015 skal det ikke registreres, selges eller tas i bruk ny bil med mindre bilen oppfyller kravene i direktiv [2003/102/EF](eu/32003l0102) vedlegg I nr. 3.2.
 
 2\. For biler i gruppe M1 med tillatt totalvekt 2500 kg eller mindre, og biler i gruppe N1 som er avledet fra bil i gruppe M1 og har tillatt totalvekt 2500 kg eller mindre, skal det ved typegodkjenning og for nye ikke typegodkjente biler, ved første gangs registrering fremlegges dokumentasjon/bevitnelse/garanti fra fabrikant eller kompetent, uavhengig laboratorium for at kravene i direktiv [2003/102/EF](eu/32003l0102) er oppfylt.
 
@@ -10695,7 +12625,9 @@ Bestemmelsene i nr. 2 trer i kraft 1. oktober 1998 for typegodkjenning av ny typ
 | II | 1305 < RV ≤ 1760 | 1. januar 20072 | 1. januar 20082 |
 | III | 1760 < RV | 1. januar 20072 | 1. januar 20082 |
 
-1 Referansevekt = egenvekt + 100 kg.2 For etappevis godkjente N1 -varebiler utsettes ikrafttredelsesdatoene i tabellen over med 12 måneder.
+1 Referansevekt = egenvekt + 100 kg.
+
+2 For etappevis godkjente N1 -varebiler utsettes ikrafttredelsesdatoene i tabellen over med 12 måneder.
 
 > Tilføyd ved [forskrift 18 jan 2005 nr. 32](forskrift/2005-01-18-32). Endret ved [forskrift 22 sep 2008 nr. 1038](forskrift/2008-09-22-1038).
 
@@ -10726,11 +12658,17 @@ Nr. 1 trer i kraft:
 
 1\. Kravnivå: Direktiv [2005/64/EF](eu/32005l0064), eventuelt som endret ved direktiv [2009/1/EF](eu/32009l0001).
 
-2\. Virkeområde: Kjøretøy i klasse M1 og N1, som definert i del A i bilag II til direktiv [70/156/EØF](eu/31970l0156*), og på nye eller gjenbrukte komponenter til slike kjøretøy. Unntatt:Kjøretøy som er til spesiell bruk, definert i del A, pkt. 5 i bilag II til direktiv [70/156/EØF](eu/31970l0156*)kjøretøy i klasse N1 som er bygd i flere etapper hvis basiskjøretøy er i overensstemmelse med dette direktivkjøretøy som er produsert i små serier, omtalt i artikkel 8, stk. 2 litra a) i direktiv [70/156/EØF](eu/31970l0156*).
+2\. Virkeområde: Kjøretøy i klasse M1 og N1, som definert i del A i bilag II til direktiv [70/156/EØF](eu/31970l0156*), og på nye eller gjenbrukte komponenter til slike kjøretøy. Unntatt:
+
+- Kjøretøy som er til spesiell bruk, definert i del A, pkt. 5 i bilag II til direktiv [70/156/EØF](eu/31970l0156*)
+- kjøretøy i klasse N1 som er bygd i flere etapper hvis basiskjøretøy er i overensstemmelse med dette direktiv
+- kjøretøy som er produsert i små serier, omtalt i artikkel 8, stk. 2 litra a) i direktiv [70/156/EØF](eu/31970l0156*).
 
 3\. Alternativ standard: Ingen.
 
-4\. Godkjenning:Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent uavhengig laboratorium for at direktiv [2005/64/EF](eu/32005l0064) eventuelt som endret ved direktiv [2009/1/EF](eu/32009l0001) er tilfredsstilt.
+4\. Godkjenning:
+
+Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent uavhengig laboratorium for at direktiv [2005/64/EF](eu/32005l0064) eventuelt som endret ved direktiv [2009/1/EF](eu/32009l0001) er tilfredsstilt.
 
 5\. Ikrafttreden:
 
@@ -10948,6 +12886,15 @@ I = det samme som for T avhengig av klassene.
 
 ## Vedlegg 2 til kjøretøyforskriften
 
-Følgende regler skal også gjelde for kjøretøy som omfattes av [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om krav til kjøretøy:[§ 25-3](forskrift/1994-10-04-918/§25-3). Dog skal grenseverdien etter nr. 1 a) være 4,5 for biler registrert før 1. oktober 1986. Bestemmelsene i nr. 1 a) gjelder ikke for biler registrert før 1. januar 1974. Bestemmelsen i nr. 1 c) gjelder ikke for biler registrert før 1. januar 1980.[§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 2.14 annet ledd om forbud mot reservedelsbremsebelegg med asbest.[§ 25-2](forskrift/1994-10-04-918/§25-2).[§ 39-8](forskrift/1994-10-04-918/§39-8) og [§ 39-9](forskrift/1994-10-04-918/§39-9).Alle steder i forskriften der «biltilsynet» eller «vegkontoret» er nevnt skal leses som om det står «Statens vegvesen».[§ 16-4](forskrift/1994-10-04-918/§16-4) nr. 5 og [§ 18-1](forskrift/1994-10-04-918/§18-1) nr. 6.Krav til skjerming av hjul som angitt i [forskrift om krav til kjøretøy](forskrift/1990-01-25-91) § 29-1 nr. 12 gjelder ikke bil med fabrikasjonsår 1942 eller tidligere. Unntaket gjelder ikke bil med tvillingmonterte hjul.[Forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233) fastsetter når [forskrift 25. januar 1990 nr. 91 om krav til kjøretøy](forskrift/1990-01-25-91) får anvendelse.
+Følgende regler skal også gjelde for kjøretøy som omfattes av [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om krav til kjøretøy:
+
+1. [§ 25-3](forskrift/1994-10-04-918/§25-3). Dog skal grenseverdien etter nr. 1 a) være 4,5 for biler registrert før 1. oktober 1986. Bestemmelsene i nr. 1 a) gjelder ikke for biler registrert før 1. januar 1974. Bestemmelsen i nr. 1 c) gjelder ikke for biler registrert før 1. januar 1980.
+2. [§ 26-5](forskrift/1994-10-04-918/§26-5) nr. 2.14 annet ledd om forbud mot reservedelsbremsebelegg med asbest.
+3. [§ 25-2](forskrift/1994-10-04-918/§25-2).
+4. [§ 39-8](forskrift/1994-10-04-918/§39-8) og [§ 39-9](forskrift/1994-10-04-918/§39-9).
+5. Alle steder i forskriften der «biltilsynet» eller «vegkontoret» er nevnt skal leses som om det står «Statens vegvesen».
+6. [§ 16-4](forskrift/1994-10-04-918/§16-4) nr. 5 og [§ 18-1](forskrift/1994-10-04-918/§18-1) nr. 6.
+7. Krav til skjerming av hjul som angitt i [forskrift om krav til kjøretøy](forskrift/1990-01-25-91) § 29-1 nr. 12 gjelder ikke bil med fabrikasjonsår 1942 eller tidligere. Unntaket gjelder ikke bil med tvillingmonterte hjul.
+8. [Forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233) fastsetter når [forskrift 25. januar 1990 nr. 91 om krav til kjøretøy](forskrift/1990-01-25-91) får anvendelse.
 
 > Endret ved [forskrifter 26 nov 2019 nr. 1603](forskrift/2019-11-26-1603), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [21 juni 2021 nr. 2117](forskrift/2021-06-21-2117), [19 sep 2022 nr. 1594](forskrift/2022-09-19-1594) (i kraft 1 okt 2022).

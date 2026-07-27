@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nk (forordning [(EU) 2018/395](eu/32018r0395)) om fastsettelse av nærmere regler for ballongflyging i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216), som endret ved:forordning [(EU) 2020/357](eu/32020r0357),gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nk (forordning [(EU) 2018/395](eu/32018r0395)) om fastsettelse av nærmere regler for ballongflyging i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216), som endret ved:
+
+1. forordning [(EU) 2020/357](eu/32020r0357),
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved forskrift [17 sep 2024 nr. 2211](forskrift/2024-09-17-2211).
 
@@ -56,7 +60,15 @@ Ved brudd på bestemmelser gitt i lov eller forskrift kan Luftfartstilsynet pål
 
 ## § 7. Endring i andre forskrifter
 
-Det gjøres følgende endringer i andre forskrifter:[Forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner [§ 1](forskrift/2013-08-07-956/§1) første ledd ny bokstav j skal lyde: - - -[Forskrift 17. desember 2001 nr. 1488](forskrift/2001-12-17-1488) om bruk av flyplasser (BSL D 1-2) punkt 2 nytt tredje ledd skal lyde: - - -[Forskrift 11. januar 2003 nr. 40](forskrift/2003-01-11-40) om befordring av passasjerer i luftfartøy (BSL D 1-6) [§ 2](forskrift/2003-01-11-40/§2) første ledd skal lyde: - - -[Forskrift 11. januar 2003 nr. 41](forskrift/2003-01-11-41) om transport av gods i luftfartøy (BSL D 1-7) [§ 2](forskrift/2003-01-11-41/§2) første ledd skal lyde: - - -[Forskrift 9. oktober 1975 nr. 3206](forskrift/1975-10-09-3206) om førstehjelpsutstyr i luftfartøy (BSL D 1-9), kapittel I punkt 0.1 skal lyde: - - -[Forskrift 3. februar 1998 nr. 113](forskrift/1998-02-03-113) om medføring og bruk av radionavigasjonsutstyr og SSR-transponder i luftfartøy [§ 1](forskrift/1998-02-03-113/§1) tredje ledd skal lyde: - - -[Forskrift 26. juni 2003 nr. 863](forskrift/2003-06-26-863) om fotoflyging m.m. (BSL D 5-6) [§ 2](forskrift/2003-06-26-863/§2) andre ledd skal lyde: - - -
+Det gjøres følgende endringer i andre forskrifter:
+
+1. [Forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner [§ 1](forskrift/2013-08-07-956/§1) første ledd ny bokstav j skal lyde: - - -
+2. [Forskrift 17. desember 2001 nr. 1488](forskrift/2001-12-17-1488) om bruk av flyplasser (BSL D 1-2) punkt 2 nytt tredje ledd skal lyde: - - -
+3. [Forskrift 11. januar 2003 nr. 40](forskrift/2003-01-11-40) om befordring av passasjerer i luftfartøy (BSL D 1-6) [§ 2](forskrift/2003-01-11-40/§2) første ledd skal lyde: - - -
+4. [Forskrift 11. januar 2003 nr. 41](forskrift/2003-01-11-41) om transport av gods i luftfartøy (BSL D 1-7) [§ 2](forskrift/2003-01-11-41/§2) første ledd skal lyde: - - -
+5. [Forskrift 9. oktober 1975 nr. 3206](forskrift/1975-10-09-3206) om førstehjelpsutstyr i luftfartøy (BSL D 1-9), kapittel I punkt 0.1 skal lyde: - - -
+6. [Forskrift 3. februar 1998 nr. 113](forskrift/1998-02-03-113) om medføring og bruk av radionavigasjonsutstyr og SSR-transponder i luftfartøy [§ 1](forskrift/1998-02-03-113/§1) tredje ledd skal lyde: - - -
+7. [Forskrift 26. juni 2003 nr. 863](forskrift/2003-06-26-863) om fotoflyging m.m. (BSL D 5-6) [§ 2](forskrift/2003-06-26-863/§2) andre ledd skal lyde: - - -
 
 ## § 8. Ikrafttredelse
 

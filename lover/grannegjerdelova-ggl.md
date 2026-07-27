@@ -15,7 +15,7 @@ xml_hash: "616f832e463e43ab26b6ff636d6a1ac4a808430bc521a089309fa432a0daa787"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -152,7 +152,11 @@ Når den eine grannen ikkje oppfyller gjerdehaldsskyldnaden, kan namsfuten lata 
 
 ### § 18
 
-I vedtekt stadfest av Kongen kan kommunestyret:setja forbod mot visse slag grannegjerde og gjeva nærare føresegner om korleis gjerde skal vera,fastsetja andre krav til høgd, styrke og tettleik på jordbruksgjerde enn dei som er sette i [§ 15](lov/1961-05-05/§15), andre stykket,fastsetja kva tid på året marka skal reknast for tenleg til beiting, jfr. [§ 15](lov/1961-05-05/§15), andre stykket.
+I vedtekt stadfest av Kongen kan kommunestyret:
+
+1. setja forbod mot visse slag grannegjerde og gjeva nærare føresegner om korleis gjerde skal vera,
+2. fastsetja andre krav til høgd, styrke og tettleik på jordbruksgjerde enn dei som er sette i [§ 15](lov/1961-05-05/§15), andre stykket,
+3. fastsetja kva tid på året marka skal reknast for tenleg til beiting, jfr. [§ 15](lov/1961-05-05/§15), andre stykket.
 
 ## Ikraftsetjing og overgangsføresegner.
 

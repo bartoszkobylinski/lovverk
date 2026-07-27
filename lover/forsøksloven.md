@@ -15,7 +15,7 @@ xml_hash: "6e06b96cd444a740d689c031f377ffb4a4cb737545771107ea35cfb2ffadc85e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Denne lov gjelder for forsøk i den statlige, fylkeskommunale og kommunale forva
 
 ## § 3. Hva forsøkene kan omfatte
 
-Kongen kan godkjenne forsøk med:avvik fra gjeldende lover og forskrifter om hvordan staten, fylkeskommunene eller kommunene skal organisere sin virksomhet og løse sine oppgaveravvik fra bestemmelsene om oppgavefordelingen mellom statlige, fylkeskommunale og kommunale forvaltningsorganerunntak fra statlige kontrollordninger overfor fylkeskommunene og kommuneneenhetsfylke uten hinder av [§ 4](lov/1992-06-26-87/§4) første ledd bokstav a. Med enhetsfylke menes at fylkeskommunen og statsforvalteren integreres i ett regionalt organ med felles administrativ ledelse.
+Kongen kan godkjenne forsøk med:
+
+1. avvik fra gjeldende lover og forskrifter om hvordan staten, fylkeskommunene eller kommunene skal organisere sin virksomhet og løse sine oppgaver
+2. avvik fra bestemmelsene om oppgavefordelingen mellom statlige, fylkeskommunale og kommunale forvaltningsorganer
+3. unntak fra statlige kontrollordninger overfor fylkeskommunene og kommunene
+4. enhetsfylke uten hinder av [§ 4](lov/1992-06-26-87/§4) første ledd bokstav a. Med enhetsfylke menes at fylkeskommunen og statsforvalteren integreres i ett regionalt organ med felles administrativ ledelse.
 
 Godkjenning kan bare gis i samband med forsøk som tar sikte på å oppfylle de mål som er satt i [§ 1](lov/1992-06-26-87/§1), og som for øvrig finnes forsvarlig og faglig vel underbygget.
 
@@ -42,7 +47,11 @@ Godkjenning kan gis for en periode på inntil fire år. Forsøksperioden kan for
 
 ## § 4. Begrensninger i adgangen til å drive forsøk
 
-Kongen kan ikke godkjenne forsøk med avvik fra[kommunelovens](lov/2018-06-22-83) grunnleggende bestemmelser om organisering av virksomheten i kommuner og fylkeskommuner[forvaltningslovens](lov/1967-02-10) saksbehandlingsreglersaksbehandlingsregler i annen lovgivning, når bestemmelsene er gitt av hensyn til enkeltpersoners rettssikkerhet, og Kongen ikke finner at dette hensyn ivaretas minst like godt ved den framgangsmåte det søkes om samtykke til.
+Kongen kan ikke godkjenne forsøk med avvik fra
+
+1. [kommunelovens](lov/2018-06-22-83) grunnleggende bestemmelser om organisering av virksomheten i kommuner og fylkeskommuner
+2. [forvaltningslovens](lov/1967-02-10) saksbehandlingsregler
+3. saksbehandlingsregler i annen lovgivning, når bestemmelsene er gitt av hensyn til enkeltpersoners rettssikkerhet, og Kongen ikke finner at dette hensyn ivaretas minst like godt ved den framgangsmåte det søkes om samtykke til.
 
 Godkjenning kan ikke gis når dette vil innebære innskrenking av rettigheter eller utvidelse av plikter som enkeltpersoner har etter gjeldende lovgivning.
 

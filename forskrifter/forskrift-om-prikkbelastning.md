@@ -30,7 +30,28 @@ Forskriften gjelder for person som er fast bosatt i Norge og som fører motorvog
 
 ## § 2. Grunnlaget for prikkbelastning
 
-Følgende forhold som er avgjort ved rettskraftig dom, vedtatt forelegg eller vedtatt forenklet forelegg, og som ikke har medført tap av føreretten, fører til registrering av prikk, jf. [§ 3](forskrift/2003-09-19-1164/§3):Overtredelse av fartsreglene når fartsgrensen på stedet er 60 km/t eller lavere og fartsoverskridelsen er på mer enn 10 km/t, jf. [vegtrafikkloven § 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6), trafikkskilt 362 og 366.Overtredelse av fartsreglene når fartsgrensen på stedet er 70 km/t eller høyere og fartsoverskridelsen er på mer enn 15 km/t, jf. [vegtrafikkloven § 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6) og trafikkskilt 362 og 366.Kjøring i strid med trafikklyssignal med fast eller blinkende lys med rød farge, jf. [skiltforskriftene § 23](forskrift/2005-10-07-1219/§23) og [§ 24](forskrift/2005-10-07-1219/§24).Ulovlig forbikjøringlike foran eller i vegkryss, eller der sikten er hindret ved bakketopp, kurve eller på annen måte, jf. [trafikkreglene § 12](forskrift/1986-03-21-747/§12) nr. 5 første og annet leddforan gangfelt, jf. [trafikkreglene § 12](forskrift/1986-03-21-747/§12) nr. 6i strid med trafikkskilt 334 «Forbikjøringsforbud».Overtredelse av vikepliktsregleretter trafikkskilt 202 «Vikeplikt» og 204 «Stopp»overfor trafikk fra høyre, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 2overfor gående i gangfelt, jf. [trafikkreglene § 9](forskrift/1986-03-21-747/§9) nr. 2ved utkjøring fra parkeringsplass, holdeplass, torg, eiendom, bensinstasjon, gågate, gatetun eller lignende område, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 4overfor gående eller syklende der det skal kjøres inn ved svinging, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 3.Kjøring med motorvogn i sperreområde begrenset av heltrukken gul linje eller parallelle gule sperrelinjer, jf. [skiltforskriftene § 22](forskrift/2005-10-07-1219/§22) trafikkskilt 1014, jf. [§ 21](forskrift/2005-10-07-1219/§21) nr. 4.Kjøring med for liten avstand til forankjørende, jf. [trafikkreglene § 5](forskrift/1986-03-21-747/§5) nr. 3.Kjøring med trimmet motorsykkel, herunder moped, jf. [vegtrafikkloven § 13](lov/1965-06-18-4/§13) femte ledd og [§ 23](lov/1965-06-18-4/§23).Unnlatt sikring av passasjerer under 15 år, jf. [vegtrafikkloven § 23a](lov/1965-06-18-4/§23a) og [forskrift 21. september 1979 nr. 7](forskrift/1979-09-21-7) om bruk av personlig verneutstyr under kjøring med motorvogn [§ 3](forskrift/1979-09-21-7/§3) annet ledd.Overtredelse av bestemmelser gitt med hjemmel i [vegtrafikkloven § 23b](lov/1965-06-18-4/§23b).
+Følgende forhold som er avgjort ved rettskraftig dom, vedtatt forelegg eller vedtatt forenklet forelegg, og som ikke har medført tap av føreretten, fører til registrering av prikk, jf. [§ 3](forskrift/2003-09-19-1164/§3):
+
+1. Overtredelse av fartsreglene når fartsgrensen på stedet er 60 km/t eller lavere og fartsoverskridelsen er på mer enn 10 km/t, jf. [vegtrafikkloven § 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6), trafikkskilt 362 og 366.
+2. Overtredelse av fartsreglene når fartsgrensen på stedet er 70 km/t eller høyere og fartsoverskridelsen er på mer enn 15 km/t, jf. [vegtrafikkloven § 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6) og trafikkskilt 362 og 366.
+3. Kjøring i strid med trafikklyssignal med fast eller blinkende lys med rød farge, jf. [skiltforskriftene § 23](forskrift/2005-10-07-1219/§23) og [§ 24](forskrift/2005-10-07-1219/§24).
+4. Ulovlig forbikjøring
+
+   1. like foran eller i vegkryss, eller der sikten er hindret ved bakketopp, kurve eller på annen måte, jf. [trafikkreglene § 12](forskrift/1986-03-21-747/§12) nr. 5 første og annet ledd
+   2. foran gangfelt, jf. [trafikkreglene § 12](forskrift/1986-03-21-747/§12) nr. 6
+   3. i strid med trafikkskilt 334 «Forbikjøringsforbud».
+5. Overtredelse av vikepliktsregler
+
+   1. etter trafikkskilt 202 «Vikeplikt» og 204 «Stopp»
+   2. overfor trafikk fra høyre, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 2
+   3. overfor gående i gangfelt, jf. [trafikkreglene § 9](forskrift/1986-03-21-747/§9) nr. 2
+   4. ved utkjøring fra parkeringsplass, holdeplass, torg, eiendom, bensinstasjon, gågate, gatetun eller lignende område, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 4
+   5. overfor gående eller syklende der det skal kjøres inn ved svinging, jf. [trafikkreglene § 7](forskrift/1986-03-21-747/§7) nr. 3.
+6. Kjøring med motorvogn i sperreområde begrenset av heltrukken gul linje eller parallelle gule sperrelinjer, jf. [skiltforskriftene § 22](forskrift/2005-10-07-1219/§22) trafikkskilt 1014, jf. [§ 21](forskrift/2005-10-07-1219/§21) nr. 4.
+7. Kjøring med for liten avstand til forankjørende, jf. [trafikkreglene § 5](forskrift/1986-03-21-747/§5) nr. 3.
+8. Kjøring med trimmet motorsykkel, herunder moped, jf. [vegtrafikkloven § 13](lov/1965-06-18-4/§13) femte ledd og [§ 23](lov/1965-06-18-4/§23).
+9. Unnlatt sikring av passasjerer under 15 år, jf. [vegtrafikkloven § 23a](lov/1965-06-18-4/§23a) og [forskrift 21. september 1979 nr. 7](forskrift/1979-09-21-7) om bruk av personlig verneutstyr under kjøring med motorvogn [§ 3](forskrift/1979-09-21-7/§3) annet ledd.
+10. Overtredelse av bestemmelser gitt med hjemmel i [vegtrafikkloven § 23b](lov/1965-06-18-4/§23b).
 
 > Endret ved [forskrifter 20 mai 2011 nr. 509](forskrift/2011-05-20-509) (i kraft 1 juli 2011), [7 des 2018 nr. 1819](forskrift/2018-12-07-1819) (i kraft 1 jan 2019).
 

@@ -48,9 +48,20 @@ Bemanningsforetak skal være godkjent av Arbeidstilsynet, jf. [§ 4](forskrift/2
 
 ## § 4. Vilkår for godkjenning
 
-(1) Virksomheten skal legge frem dokumentasjon som viser at den:oppfyller vilkårene for registrering og garanti etter [§ 3 første](forskrift/2008-06-04-541/§3/ledd/1) og [andre ledd](forskrift/2008-06-04-541/§3/ledd/2), og kravet til fast representant etter [§ 3 tredje ledd](forskrift/2008-06-04-541/§3/ledd/3) hvis bemanningsforetaket er utenlandsk uten fast forretningssted eller hjemsted i Norge,oppfyller kravet om vernetjeneste etter [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og [7](lov/2005-06-17-62/kap7),har skriftlige arbeidsavtaler som fastsatt i [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,har rutiner som skal sikre at reglene om likebehandling av lønns- og arbeidsvilkår ved utleie fra bemanningsforetak oppfylles, jf. [arbeidsmiljøloven § 14-12a første ledd](lov/2005-06-17-62/§14-12a/ledd/1), oghar en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
+(1) Virksomheten skal legge frem dokumentasjon som viser at den:
 
-(2) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:EnhetsregisteretForetaksregisteretMerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteret.
+1. oppfyller vilkårene for registrering og garanti etter [§ 3 første](forskrift/2008-06-04-541/§3/ledd/1) og [andre ledd](forskrift/2008-06-04-541/§3/ledd/2), og kravet til fast representant etter [§ 3 tredje ledd](forskrift/2008-06-04-541/§3/ledd/3) hvis bemanningsforetaket er utenlandsk uten fast forretningssted eller hjemsted i Norge,
+2. oppfyller kravet om vernetjeneste etter [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og [7](lov/2005-06-17-62/kap7),
+3. har skriftlige arbeidsavtaler som fastsatt i [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,
+4. har rutiner som skal sikre at reglene om likebehandling av lønns- og arbeidsvilkår ved utleie fra bemanningsforetak oppfylles, jf. [arbeidsmiljøloven § 14-12a første ledd](lov/2005-06-17-62/§14-12a/ledd/1), og
+5. har en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
+
+(2) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:
+
+1. Enhetsregisteret
+2. Foretaksregisteret
+3. Merverdiavgiftsregisteret
+4. Arbeidstaker- og arbeidsgiverregisteret.
 
 (3) Virksomheten må oppfylle pålagt opplysningsplikt i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
 
@@ -60,7 +71,11 @@ Bemanningsforetak skal være godkjent av Arbeidstilsynet, jf. [§ 4](forskrift/2
 
 ## § 5. Register over bemanningsforetak
 
-(1) Arbeidstilsynet skal føre et register over bemanningsforetak som er godkjent etter [§ 4](forskrift/2008-06-04-541/§4), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Bemanningsforetak som inngår i registeret skal stå oppført med en av følgende statuser:godkjentsøknad under behandlingikke godkjent.
+(1) Arbeidstilsynet skal føre et register over bemanningsforetak som er godkjent etter [§ 4](forskrift/2008-06-04-541/§4), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Bemanningsforetak som inngår i registeret skal stå oppført med en av følgende statuser:
+
+1. godkjent
+2. søknad under behandling
+3. ikke godkjent.
 
 (2) Registeret skal være offentlig tilgjengelig.
 

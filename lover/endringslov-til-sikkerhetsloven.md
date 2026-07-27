@@ -15,7 +15,7 @@ xml_hash: "5a1c6b2118eb3c87fe1fa0edb0265f51de36b854568fd04ae609ad649c7379bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Ny [§ 10-4](lov/2018-06-01-24/§10-4) skal lyde:
 
 [§ 11-3](lov/2018-06-01-24/§11-3) første ledd skal lyde:
 
-Tilsynsmyndigheten kan ilegge en virksomhet overtredelsesgebyr dersom virksomheten eller noen som handler på dennes vegne, forsettlig eller uaktsomtovertrer bestemmelser gitt i eller i medhold av [§§ 3-4](lov/2018-06-01-24/§3-4), [4-3](lov/2018-06-01-24/§4-3), [4-4](lov/2018-06-01-24/§4-4), [4-5](lov/2018-06-01-24/§4-5), [5-2](lov/2018-06-01-24/§5-2), [6-2](lov/2018-06-01-24/§6-2), [6-3](lov/2018-06-01-24/§6-3) eller [§ 7-3](lov/2018-06-01-24/§7-3), [§ 9-2](lov/2018-06-01-24/§9-2) første ledd, [§ 9-4](lov/2018-06-01-24/§9-4) første ledd første punktum eller [§ 9-4](lov/2018-06-01-24/§9-4) andre ledd første eller andre punktumovertrer et pålegg gitt med hjemmel i [§ 3-6](lov/2018-06-01-24/§3-6)gir uriktige eller ufullstendige opplysninger til tilsynsmyndigheten etter [§§ 3-4](lov/2018-06-01-24/§3-4) eller [4-5](lov/2018-06-01-24/§4-5)medvirker til overtredelser som nevnt i bokstav a til c.
+Tilsynsmyndigheten kan ilegge en virksomhet overtredelsesgebyr dersom virksomheten eller noen som handler på dennes vegne, forsettlig eller uaktsomt
+
+1. overtrer bestemmelser gitt i eller i medhold av [§§ 3-4](lov/2018-06-01-24/§3-4), [4-3](lov/2018-06-01-24/§4-3), [4-4](lov/2018-06-01-24/§4-4), [4-5](lov/2018-06-01-24/§4-5), [5-2](lov/2018-06-01-24/§5-2), [6-2](lov/2018-06-01-24/§6-2), [6-3](lov/2018-06-01-24/§6-3) eller [§ 7-3](lov/2018-06-01-24/§7-3), [§ 9-2](lov/2018-06-01-24/§9-2) første ledd, [§ 9-4](lov/2018-06-01-24/§9-4) første ledd første punktum eller [§ 9-4](lov/2018-06-01-24/§9-4) andre ledd første eller andre punktum
+2. overtrer et pålegg gitt med hjemmel i [§ 3-6](lov/2018-06-01-24/§3-6)
+3. gir uriktige eller ufullstendige opplysninger til tilsynsmyndigheten etter [§§ 3-4](lov/2018-06-01-24/§3-4) eller [4-5](lov/2018-06-01-24/§4-5)
+4. medvirker til overtredelser som nevnt i bokstav a til c.
 
 [§ 11-3](lov/2018-06-01-24/§11-3) andre ledd skal lyde:
 

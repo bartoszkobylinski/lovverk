@@ -30,7 +30,14 @@ eu_basis: []
 
 Fra samme tid bestemmes i medhold av nevnte lov:
 
-Justisdepartementet bemyndiges til å gi bestemmelser om:Forbud mot å kjøpe eller på annen måte erverve våpen eller liknende som ikke faller inn under § 1 (lovens § 7 nytt sjuende ledd).Forbud mot å eie eller inneha våpen eller liknende som ikke faller inn under § 1 (lovens § 8 nytt annet ledd).Unntak fra bevillingsplikten for våpen som er nevnt i lovens § 5 (lovens § 16 første ledd).Forbud mot å innføre eller utføre våpen eller liknende som ikke faller under lovens § 1 (lovens § 23 nytt tredje ledd).Oppbevaring av og rådighet over skytevåpen, våpendeler og ammunisjon (lovens § 29 fjerde ledd og femte ledd).Overgangsbestemmelser som nevnt i lovens Del II.
+Justisdepartementet bemyndiges til å gi bestemmelser om:
+
+1. Forbud mot å kjøpe eller på annen måte erverve våpen eller liknende som ikke faller inn under § 1 (lovens § 7 nytt sjuende ledd).
+2. Forbud mot å eie eller inneha våpen eller liknende som ikke faller inn under § 1 (lovens § 8 nytt annet ledd).
+3. Unntak fra bevillingsplikten for våpen som er nevnt i lovens § 5 (lovens § 16 første ledd).
+4. Forbud mot å innføre eller utføre våpen eller liknende som ikke faller under lovens § 1 (lovens § 23 nytt tredje ledd).
+5. Oppbevaring av og rådighet over skytevåpen, våpendeler og ammunisjon (lovens § 29 fjerde ledd og femte ledd).
+6. Overgangsbestemmelser som nevnt i lovens Del II.
 
 ## III
 

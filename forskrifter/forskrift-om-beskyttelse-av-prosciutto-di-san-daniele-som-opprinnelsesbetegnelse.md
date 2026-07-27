@@ -77,7 +77,12 @@ Class 1.2: Meat products (cooked, salted, smoked, etc.).
 
 'Prosciutto di San Daniele' is a ham that is characteristically shaped like a guitar and includes the distal part of the leg (foot). The weight of a whole 'Prosciutto di San Daniele', including the bone, is normally between 8 and 10 kg, and in any case never less than 7,5 kg. The meat is firm, tender and supple, while the fat is pure white and is in the right proportion to the lean part, which is red and pink with some streaks of fat. It has a mildly sweet taste and a more pronounced after-taste. It has a fragrant, distinctive aroma that varies according to the maturing time.
 
-'Prosciutto di San Daniele' is characterised by the following chemical parameters.The moisture percentage must not be less than 57% or more than 63%.The coefficient of the ratio between the percentage of sodium chloride and that of moisture must not be less than 7,8 or more than 11,2.The coefficient of the ratio between the percentage of moisture and that of total protein must not be less than 1,9 or more than 2,5.The proteolysis index (percentage of nitrogen fractions soluble in trichloroacetic acid (TCA) in relation to the total nitrogen content) must not be more than 31.
+'Prosciutto di San Daniele' is characterised by the following chemical parameters.
+
+- The moisture percentage must not be less than 57% or more than 63%.
+- The coefficient of the ratio between the percentage of sodium chloride and that of moisture must not be less than 7,8 or more than 11,2.
+- The coefficient of the ratio between the percentage of moisture and that of total protein must not be less than 1,9 or more than 2,5.
+- The proteolysis index (percentage of nitrogen fractions soluble in trichloroacetic acid (TCA) in relation to the total nitrogen content) must not be more than 31.
 
 The above chemical parameters refer to the percentage composition of a fraction of the biceps femoris muscle measured before the logo is affixed.
 
@@ -89,7 +94,14 @@ The above chemical parameters refer to the percentage composition of a fraction 
 
 The production of 'Prosciutto di San Daniele' is subject to the rules set out below:
 
-The animals used must be pure-bred pigs of the traditional Large White and Landrace breeds or animals derived from those breeds, as improved by the Italian Herd Book.Also allowed are pigs of the Duroc breed, as improved by the Italian Herd Book.Pigs of other breeds, cross-bred or hybrid, are also allowed, provided that they are bred under selection or cross-breeding schemes for the production of heavy pigs the aims of which are compatible with those of the Italian Herd Book.In keeping with the tradition, animals carrying antithetic traits are excluded, in particular those sensitive to stress (PSS).Also excluded are pure-bred Belgian Landrace, Hampshire, Pietrain, Duroc and Spotted Poland animals.Boars and brood sows may not be used.The genetic types used must ensure the achievement of high weights and satisfactory efficiency and, in any case, a live weight per animal of 160 kg ± 10%.
+The animals used must be pure-bred pigs of the traditional Large White and Landrace breeds or animals derived from those breeds, as improved by the Italian Herd Book.
+
+- Also allowed are pigs of the Duroc breed, as improved by the Italian Herd Book.
+- Pigs of other breeds, cross-bred or hybrid, are also allowed, provided that they are bred under selection or cross-breeding schemes for the production of heavy pigs the aims of which are compatible with those of the Italian Herd Book.
+- In keeping with the tradition, animals carrying antithetic traits are excluded, in particular those sensitive to stress (PSS).
+- Also excluded are pure-bred Belgian Landrace, Hampshire, Pietrain, Duroc and Spotted Poland animals.
+- Boars and brood sows may not be used.
+- The genetic types used must ensure the achievement of high weights and satisfactory efficiency and, in any case, a live weight per animal of 160 kg ± 10%.
 
 *Fresh legs*
 
@@ -117,15 +129,29 @@ The packaging of the sliced product is carried out solely in the geographical ar
 
 'Prosciutto di San Daniele' is subject to specific rules on product identification which apply when the raw material is produced, and when the end product is prepared and marketed.
 
-The following identification requirements apply when the raw material for 'Prosciutto di San Daniele' is produced:the breeder must affix one or several marks;the slaughterer must affix a slaughter mark on the fresh legs;the producer must affix a seal on the fresh legs;a brand-mark of conformity must be affixed on the rind of the ham under the supervision and in presence of the inspection body.
+The following identification requirements apply when the raw material for 'Prosciutto di San Daniele' is produced:
 
-The labelling of whole 'Prosciutto di San Daniele' sold on the bone must bear the following details:'Prosciutto di San Daniele', followed by 'denominazione di origine protetta' (protected designation of origin);the producer's registered office.
+- the breeder must affix one or several marks;
+- the slaughterer must affix a slaughter mark on the fresh legs;
+- the producer must affix a seal on the fresh legs;
+- a brand-mark of conformity must be affixed on the rind of the ham under the supervision and in presence of the inspection body.
 
-The labelling of boned 'Prosciutto di San Daniele' sold in one piece, cut up into portions or sliced must bear the following details:'Prosciutto di San Daniele', followed by 'denominazione di origine protetta';the packaging site;the date of production, i.e. the date on which processing of the leg began, in all cases where the seal is no longer visible.
+The labelling of whole 'Prosciutto di San Daniele' sold on the bone must bear the following details:
+
+- 'Prosciutto di San Daniele', followed by 'denominazione di origine protetta' (protected designation of origin);
+- the producer's registered office.
+
+The labelling of boned 'Prosciutto di San Daniele' sold in one piece, cut up into portions or sliced must bear the following details:
+
+- 'Prosciutto di San Daniele', followed by 'denominazione di origine protetta';
+- the packaging site;
+- the date of production, i.e. the date on which processing of the leg began, in all cases where the seal is no longer visible.
 
 The packaging of sliced 'Prosciutto di San Daniele' must bear the graphic reproduction of the logo and the identification number of the packer.
 
 This is the same logo as that which is affixed on the hide of the matured ham and looks as follows:
+
+-
 
 4.*Concise definition of the geographical area*
 

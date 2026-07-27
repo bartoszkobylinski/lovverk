@@ -16,7 +16,7 @@ xml_hash: "a36fc2df5bd1329511897d98e4cdadc7af92142235cb8c4aef52acceb1ff6a7e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,7 +41,43 @@ For fôrvarer som tilvirkes og omsettes til vitenskapelig bruk ved private eller
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Akvatiske dyr:* Vannlevende dyr i alle stadier av livssyklusen, unntatt sjøpattedyr.*Daglig rasjon/dagsbehov:* Den totale mengde fôr beregnet med et vanninnhold på 12 %, som i gjennomsnitt er nødvendig for et dyr av en bestemt art, aldersgruppe og ytelse til å dekke dyrets daglige næringsbehov.*Diettfôr (fôrvarer med særlige ernæringsformål):* Fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess, kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](eu/31990l0167*).*Dyr:* Dyrearter som mennesker normalt fôrer og holder eller anvender til konsum samt dyr som lever fritt i naturen dersom de fôres med fôrvarer.*Fôrblanding:* Blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet til ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr.*Fôrmiddel:*1 Produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser.*Fôrvare (fôr eller dyrefôr):* Alle stoffer eller produkter, herunder tilsetningsstoffer, uansett om de er bearbeidet, delvis bearbeidet eller ubearbeidet, som er beregnet til fôring av dyr, herunder også levende fôr til akvatiske dyr.*Fullfôr:* En blanding av fôrvarer som på grunn av sin sammensetning er tilstrekkelig til å dekke dyrets dagsbehov.*Gen:* En DNA-sekvens som koder for et funksjonelt polypeptid, protein eller RNA-molekyl.*Innførsel:* å ta inn fôrvarer fra EØS-land eller tredjeland.*Import:* å ta inn fôrvarer fra tredjeland.*Første mottaker:* Den første virksomheten eller personen som etter innførsel mottar eller foretar en oppdeling av et vareparti.*Koksidiostatika:* Stoffer som er ment for å drepe eller hindre protozoa.*Mineralfôrblanding:* Tilskuddsfôr som inneholder minst 40 % råaske.*Omsetning:* Besittelse med sikte på salg, utbud for salg, distribusjon samt selve salget og enhver annen form for overdragelse med eller uten vederlag.*Premikser:* Blandinger av tilsetningsstoffer eller blandinger av ett eller flere tilsetningsstoffer med fôrmiddel eller vann som er brukt som bærestoffer, som ikke er ment for direkte fôring til dyr.*Dyr bestemt til matproduksjon*: Alle dyr som fôres, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men tilhører arter som normalt brukes til konsum i Fellesskapet.*Risikofôrvarer:* Fôrvarer hvor det er en forhøyet sannsynlighet for innhold av salmonella.*Råvare:* Se fôrmiddel.1*Særlige ernæringsformål:* formålet å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessig for deres tilstand.*Tilsetningsstoff:* Stoffer, mikroorganismer eller andre preparater enn fôrmidler eller premikser, som med hensikt tilsettes fôrvarer eller vann for særskilt å oppfylle en eller flere av følgende funksjoner:virke positivt på fôrets egenskapervirke positivt på animalske produkters egenskapervirke positivt på fargen hos akvariefisk og burfuglertilfredsstille dyrs næringsbehovvirke positivt på den miljøpåvirkningen husdyrproduksjonen girvirke positivt på animalsk produksjon, ytelse, velferd spesielt ved å påvirke mage- og tarmfloraen og fôrets fordøyelighet.*Tilskuddsfôr:* Fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer.*Tilvirke:* Å dyrke, framstille, foredle, blande, lagre, pakke og/eller merke fôrvarer, enkeltvis eller i blanding.*Uønskede stoffer:* Ethvert stoff eller produkt, unntatt patogene agens, som finnes i og/eller på produkter som er tenkt brukt til dyrefôr og som representerer en potensiell fare for helseskade hos dyr eller mennesker eller skade på miljøet, eller kan ha uheldig påvirkning på produkter fra matproduserende dyr.*Virksomhet:* Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i § 2 i matloven, bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.*Substrat:* Det insektene lever av og som gir dem nødvendig næringstilførsel. Substrat er å anse som en fôrvare.*Pollenerstatning:* En fôrblanding beregnet for bier.*Påvisning av salmonella:* Prøve hvor salmonella spp. er påvist av et akkreditert laboratorium etter EN ISO 6579-1 eller en alternativ metode som er validert iht. EN ISO 16140-2 og sertifisert av en uavhengig organisasjon.
+I denne forskriften menes med:
+
+1. *Akvatiske dyr:* Vannlevende dyr i alle stadier av livssyklusen, unntatt sjøpattedyr.
+2. *Daglig rasjon/dagsbehov:* Den totale mengde fôr beregnet med et vanninnhold på 12 %, som i gjennomsnitt er nødvendig for et dyr av en bestemt art, aldersgruppe og ytelse til å dekke dyrets daglige næringsbehov.
+3. *Diettfôr (fôrvarer med særlige ernæringsformål):* Fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess, kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](eu/31990l0167*).
+4. *Dyr:* Dyrearter som mennesker normalt fôrer og holder eller anvender til konsum samt dyr som lever fritt i naturen dersom de fôres med fôrvarer.
+5. *Fôrblanding:* Blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet til ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr.
+6. *Fôrmiddel:*1 Produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser.
+7. *Fôrvare (fôr eller dyrefôr):* Alle stoffer eller produkter, herunder tilsetningsstoffer, uansett om de er bearbeidet, delvis bearbeidet eller ubearbeidet, som er beregnet til fôring av dyr, herunder også levende fôr til akvatiske dyr.
+8. *Fullfôr:* En blanding av fôrvarer som på grunn av sin sammensetning er tilstrekkelig til å dekke dyrets dagsbehov.
+9. *Gen:* En DNA-sekvens som koder for et funksjonelt polypeptid, protein eller RNA-molekyl.
+10. *Innførsel:* å ta inn fôrvarer fra EØS-land eller tredjeland.
+11. *Import:* å ta inn fôrvarer fra tredjeland.
+12. *Første mottaker:* Den første virksomheten eller personen som etter innførsel mottar eller foretar en oppdeling av et vareparti.
+13. *Koksidiostatika:* Stoffer som er ment for å drepe eller hindre protozoa.
+14. *Mineralfôrblanding:* Tilskuddsfôr som inneholder minst 40 % råaske.
+15. *Omsetning:* Besittelse med sikte på salg, utbud for salg, distribusjon samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
+16. *Premikser:* Blandinger av tilsetningsstoffer eller blandinger av ett eller flere tilsetningsstoffer med fôrmiddel eller vann som er brukt som bærestoffer, som ikke er ment for direkte fôring til dyr.
+17. *Dyr bestemt til matproduksjon*: Alle dyr som fôres, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men tilhører arter som normalt brukes til konsum i Fellesskapet.
+18. *Risikofôrvarer:* Fôrvarer hvor det er en forhøyet sannsynlighet for innhold av salmonella.
+19. *Råvare:* Se fôrmiddel.1
+20. *Særlige ernæringsformål:* formålet å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessig for deres tilstand.
+21. *Tilsetningsstoff:* Stoffer, mikroorganismer eller andre preparater enn fôrmidler eller premikser, som med hensikt tilsettes fôrvarer eller vann for særskilt å oppfylle en eller flere av følgende funksjoner:
+
+    - virke positivt på fôrets egenskaper
+    - virke positivt på animalske produkters egenskaper
+    - virke positivt på fargen hos akvariefisk og burfugler
+    - tilfredsstille dyrs næringsbehov
+    - virke positivt på den miljøpåvirkningen husdyrproduksjonen gir
+    - virke positivt på animalsk produksjon, ytelse, velferd spesielt ved å påvirke mage- og tarmfloraen og fôrets fordøyelighet.
+22. *Tilskuddsfôr:* Fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer.
+23. *Tilvirke:* Å dyrke, framstille, foredle, blande, lagre, pakke og/eller merke fôrvarer, enkeltvis eller i blanding.
+24. *Uønskede stoffer:* Ethvert stoff eller produkt, unntatt patogene agens, som finnes i og/eller på produkter som er tenkt brukt til dyrefôr og som representerer en potensiell fare for helseskade hos dyr eller mennesker eller skade på miljøet, eller kan ha uheldig påvirkning på produkter fra matproduserende dyr.
+25. *Virksomhet:* Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i § 2 i matloven, bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.
+26. *Substrat:* Det insektene lever av og som gir dem nødvendig næringstilførsel. Substrat er å anse som en fôrvare.
+27. *Pollenerstatning:* En fôrblanding beregnet for bier.
+28. *Påvisning av salmonella:* Prøve hvor salmonella spp. er påvist av et akkreditert laboratorium etter EN ISO 6579-1 eller en alternativ metode som er validert iht. EN ISO 16140-2 og sertifisert av en uavhengig organisasjon.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 199](forskrift/2004-01-09-199), [12 april 2005 nr. 320](forskrift/2005-04-12-320), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010), [2 mai 2012 nr. 396](forskrift/2012-05-02-396) (i kraft 1 mai 2012), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159), [25 april 2016 nr. 428](forskrift/2016-04-25-428), [30 april 2025 nr. 744](forskrift/2025-04-30-744).
 
@@ -59,9 +95,15 @@ I denne forskriften menes med:*Akvatiske dyr:* Vannlevende dyr i alle stadier av
 
 ### § 4a. Godkjenning av genmodifiserte fôrvarer og tilsetningsstoffer
 
-Fôrvarer herunder tilsetningsstoffer, som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:produkter som omfattes av [lov 2. april 1993 nr. 38](lov/1993-04-02-38) (genteknologiloven),produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+Fôrvarer herunder tilsetningsstoffer, som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:
 
-Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, ellertilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
+1. produkter som omfattes av [lov 2. april 1993 nr. 38](lov/1993-04-02-38) (genteknologiloven),
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+
+Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:
+
+1. tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, eller
+2. tilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
 
 I forbindelse med søknad eller godkjenning kan Mattilsynet stille krav om analysemetodikk, prøvemateriale og sporbarhet mv.
 
@@ -75,9 +117,15 @@ Mattilsynet kan fastsette utfyllende forskrifter for gjennomføringen av bestemm
 
 ### § 4b. Merking av genmodifiserte fôrmidler og tilsetningsstoffer
 
-Et fôrmiddel eller tilsetningsstoff skal både ved omsetning og når det inngår i en blanding merkes med enten «genmodifisert» eller «produsert fra genmodifisert [navn på organismen]», umiddelbart etter fôrmiddelets eller tilsetningsstoffets spesifikke navn når:fôrmiddelet eller tilsetningsstoffet består av eller inneholder genmodifiserte organismer, ellerfôrmiddelet eller tilsetningsstoffet er produsert fra, men ikke inneholder genmodifiserte organismer. Merkeplikten gjelder også for genmodifiserte fôrmidler og tilsetningsstoffer hvor DNA og protein som stammer fra genmodifiseringen, ikke kan påvises.
+Et fôrmiddel eller tilsetningsstoff skal både ved omsetning og når det inngår i en blanding merkes med enten «genmodifisert» eller «produsert fra genmodifisert [navn på organismen]», umiddelbart etter fôrmiddelets eller tilsetningsstoffets spesifikke navn når:
 
-Merkeplikt etter første ledd gjelder ikke:ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale i fôrvarer opp til 0,9 %,produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materiale herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+1. fôrmiddelet eller tilsetningsstoffet består av eller inneholder genmodifiserte organismer, eller
+2. fôrmiddelet eller tilsetningsstoffet er produsert fra, men ikke inneholder genmodifiserte organismer. Merkeplikten gjelder også for genmodifiserte fôrmidler og tilsetningsstoffer hvor DNA og protein som stammer fra genmodifiseringen, ikke kan påvises.
+
+Merkeplikt etter første ledd gjelder ikke:
+
+1. ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale i fôrvarer opp til 0,9 %,
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materiale herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
 
 > Endret ved [forskrifter 12 april 2005 nr. 320](forskrift/2005-04-12-320), [9 sep 2005 nr. 1044](forskrift/2005-09-09-1044) (i kraft 15 sep 2005), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 25), [19 april 2011 nr. 427](forskrift/2011-04-19-427) (i kraft 1 mai 2011), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159) (tidligere § 15).
 
@@ -828,7 +876,11 @@ Hver sluttprøve skal veie minst 250 g og bestå av minimum 10 delprøver.
 
 Risikofôrvarer kan ikke tas i bruk i virksomheten uten at varepartiet er analysert og alle analyser er negative for salmonella.
 
-Følgende fôrmidler er klassifisert som risikofôrvarer:Oljefrø, oljefrukter og produkter fremstilt av disse)1Foredlede produkter av maisFiskemel, fjørfemel, svinemel og insektmel.
+Følgende fôrmidler er klassifisert som risikofôrvarer:
+
+1. Oljefrø, oljefrukter og produkter fremstilt av disse)1
+2. Foredlede produkter av mais
+3. Fiskemel, fjørfemel, svinemel og insektmel.
 
 1 Jf. [forskrift om merking og omsetning av fôrvarer § 4](forskrift/2011-04-02-360/§4), forordning [(EU) nr. 68/2013](eu/32013r0068), del C, Liste over fôrmidler punkt 2.
 
@@ -870,7 +922,14 @@ Virksomheten skal ta flere miljøprøver og oftere dersom det er identifisert fo
 
 *Kontrollpunkter*
 
-Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:råvareinntak (losselinjer med tilhørende filter)elevatorbunner, redlere m.m.hvis varmebehandling: rommet og området rundt kjølerluftfilter knyttet til det innvendige transportsystemettransportutstyr til lagersilotømt lagersilo før nytt vareparti.
+Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:
+
+1. råvareinntak (losselinjer med tilhørende filter)
+2. elevatorbunner, redlere m.m.
+3. hvis varmebehandling: rommet og området rundt kjøler
+4. luftfilter knyttet til det innvendige transportsystemet
+5. transportutstyr til lagersilo
+6. tømt lagersilo før nytt vareparti.
 
 ### 3. Miljøprøver i anlegg som produserer fôrblandinger
 
@@ -884,7 +943,17 @@ Virksomheten skal ta flere miljøprøver og oftere dersom det er identifisert fo
 
 *Kontrollpunkter*
 
-Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:Uren sone:råvareinntak (transportutstyr herunder elevatorbunner, redlere m.m.)aspiratør, avsug og filtrerommet og området rundt kjølerRen sone:innvendig i kjøler etter varmebehandling, inkludert luftinntak og luftuttak fra kjølertransportutstyr for ferdigvarer.
+Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:
+
+- Uren sone:
+
+  1. råvareinntak (transportutstyr herunder elevatorbunner, redlere m.m.)
+  2. aspiratør, avsug og filtre
+  3. rommet og området rundt kjøler
+- Ren sone:
+
+  1. innvendig i kjøler etter varmebehandling, inkludert luftinntak og luftuttak fra kjøler
+  2. transportutstyr for ferdigvarer.
 
 ### 4. Miljøprøver i kjøretøy for transport av fôrvarer i bulk
 

@@ -61,7 +61,11 @@ Kommunene og de regionale helseforetakene kan, som del av sin akuttmedisinske be
 
 ### § 6. Kommunens ansvar for kommunal legevaktordning
 
-Kommunen skal tilby legevaktordning som sikrer befolkningens behov for øyeblikkelig hjelp, og må sørge for at minst en lege er tilgjengelig for legevakt hele døgnet. Legevaktordningen skal blant annetvurdere, gi råd og veilede ved henvendelser om øyeblikkelig hjelpdiagnostisere og behandle akutte medisinske tilstander ved legekonsultasjoner og sykebesøk og ved behov henvise til andre tjenester i kommunen, blant annet fastlege, og eventuelt spesialisthelsetjeneste ogyte hjelp ved ulykker og andre akutte situasjoner, blant annet rykke ut umiddelbart når det er nødvendig.
+Kommunen skal tilby legevaktordning som sikrer befolkningens behov for øyeblikkelig hjelp, og må sørge for at minst en lege er tilgjengelig for legevakt hele døgnet. Legevaktordningen skal blant annet
+
+1. vurdere, gi råd og veilede ved henvendelser om øyeblikkelig hjelp
+2. diagnostisere og behandle akutte medisinske tilstander ved legekonsultasjoner og sykebesøk og ved behov henvise til andre tjenester i kommunen, blant annet fastlege, og eventuelt spesialisthelsetjeneste og
+3. yte hjelp ved ulykker og andre akutte situasjoner, blant annet rykke ut umiddelbart når det er nødvendig.
 
 ### § 7. Kompetansekrav for lege på vakt og krav til bakvakt
 
@@ -85,7 +89,14 @@ Kommunen skal sørge for at legevakten er organisert og utstyrt slik at helseper
 
 ### § 10. De regionale helseforetakenes ansvar for ambulansetjenester
 
-De regionale helseforetakenes ansvar for ambulansetjenester omfatterå bringe kompetent personell og akuttmedisinsk utstyr raskt frem til alvorlig syke eller skadde pasienterå utføre nødvendige undersøkelser, prioriteringer, behandling og overvåking, enten alene eller sammen med andre deler av tjenestenå bringe syke eller skadde pasienter med behov for overvåking og/eller behandling til forsvarlig behandlingssted og mellom behandlingsstederå ha beredskap for å kunne dekke behovet for ambulansetjenester ved større ulykker og kriser innenfor egen helseregion og på tvers av regions- og landegrenseneå ha beredskap for nødvendig følgetjeneste for gravide til fødestedet ogå delta i enkle søk og redningsoperasjoner.
+De regionale helseforetakenes ansvar for ambulansetjenester omfatter
+
+1. å bringe kompetent personell og akuttmedisinsk utstyr raskt frem til alvorlig syke eller skadde pasienter
+2. å utføre nødvendige undersøkelser, prioriteringer, behandling og overvåking, enten alene eller sammen med andre deler av tjenesten
+3. å bringe syke eller skadde pasienter med behov for overvåking og/eller behandling til forsvarlig behandlingssted og mellom behandlingssteder
+4. å ha beredskap for å kunne dekke behovet for ambulansetjenester ved større ulykker og kriser innenfor egen helseregion og på tvers av regions- og landegrensene
+5. å ha beredskap for nødvendig følgetjeneste for gravide til fødestedet og
+6. å delta i enkle søk og redningsoperasjoner.
 
 De regionale helseforetakene har ansvar for at bil-, båt- og luftambulansetjenesten i nødvendig grad er samordnet nasjonalt.
 
@@ -111,25 +122,67 @@ Virksomhetsledelsen kan etter en konkret vurdering gjøre unntak fra kravet i f�
 
 ### § 12. Kommunens ansvar for nødmeldetjenesten
 
-Kommunen har ansvar forå etablere et døgnbemannet telefonnummer med nødvendig linjekapasitet for kobling til et nasjonalt legevaktnummerå etablere et fast og offentlig kjent 8-sifret direktenummer til legevaktsentralenå etablere og drifte døgnbemannet legevaktsentralå legge til rette for sikker drift av nasjonalt legevaktnummer, blant annet å sørge for alternative svarstederå ha et system for sporing/posisjonering av samtalerå ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr knyttet til et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett for helsepersonell i akuttmedisinsk beredskap i kommunen ogå samarbeide med regionale helseforetak for å samordne kommunikasjonen mellom legevaktsentralen, den kommunale legevaktordningen, AMK-sentralene og øvrige akuttmedisinske tjenester.
+Kommunen har ansvar for
+
+1. å etablere et døgnbemannet telefonnummer med nødvendig linjekapasitet for kobling til et nasjonalt legevaktnummer
+2. å etablere et fast og offentlig kjent 8-sifret direktenummer til legevaktsentralen
+3. å etablere og drifte døgnbemannet legevaktsentral
+4. å legge til rette for sikker drift av nasjonalt legevaktnummer, blant annet å sørge for alternative svarsteder
+5. å ha et system for sporing/posisjonering av samtaler
+6. å ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr knyttet til et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett for helsepersonell i akuttmedisinsk beredskap i kommunen og
+7. å samarbeide med regionale helseforetak for å samordne kommunikasjonen mellom legevaktsentralen, den kommunale legevaktordningen, AMK-sentralene og øvrige akuttmedisinske tjenester.
 
 ### § 13. Krav til organisering og bemanning av legevaktsentralene
 
-Legevaktsentralene (LV-sentralene) skalmotta og håndtere henvendelser om øyeblikkelig hjelp innenfor legevaktdistriktet via et nasjonalt legevaktnummerkunne kommunisere direkte og videreformidle eller konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentral, eller øyeblikkelig hjelp til annen legevaktsentralgi medisinskfaglige råd og veiledning, prioritere, registrere, iverksette og følge opp henvendelser om behov for øyeblikkelig hjelp, blant annet å videreformidle henvendelser til helse- og omsorgstjenesten i kommunen, lege i vakt, fastlege, jordmor, kriseteam og andre relevante instanserinnrette systemet for mottak av telefonhenvendelser slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutterha utstyr for lydopptak av viktig trafikk, herunder lydopptak til bruk for dokumentasjon og kvalitetssikring av virksomheten ogbemannes med personell med relevant helsefaglig utdanning på bachelornivå, nødvendig klinisk praksis og gjennomført tilleggsopplæring for arbeid som operatør.
+Legevaktsentralene (LV-sentralene) skal
+
+1. motta og håndtere henvendelser om øyeblikkelig hjelp innenfor legevaktdistriktet via et nasjonalt legevaktnummer
+2. kunne kommunisere direkte og videreformidle eller konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentral, eller øyeblikkelig hjelp til annen legevaktsentral
+3. gi medisinskfaglige råd og veiledning, prioritere, registrere, iverksette og følge opp henvendelser om behov for øyeblikkelig hjelp, blant annet å videreformidle henvendelser til helse- og omsorgstjenesten i kommunen, lege i vakt, fastlege, jordmor, kriseteam og andre relevante instanser
+4. innrette systemet for mottak av telefonhenvendelser slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutter
+5. ha utstyr for lydopptak av viktig trafikk, herunder lydopptak til bruk for dokumentasjon og kvalitetssikring av virksomheten og
+6. bemannes med personell med relevant helsefaglig utdanning på bachelornivå, nødvendig klinisk praksis og gjennomført tilleggsopplæring for arbeid som operatør.
 
 ### § 14. Det regionale helseforetakets ansvar for nødmeldetjenesten
 
-Det regionale helseforetaket har ansvar forå etablere og drifte det til en hver tid gjeldende telefonnummer for medisinsk nødhjelp i helseregionenå etablere og drifte AMK-sentralerå ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr for AMK-sentraler, sykehus med akuttfunksjon, ambulansetjenesten og andre deler av spesialisthelsetjenesten som inngår i det regionale helseforetakets akuttmedisinske beredskapå samarbeide med relevante parter for å sikre nødvendig samordning med den kommunale legevaktordningen, legevaktsentralene, brannvesen, politi, hovedredningssentralene og andre samarbeidspartnere ogå fastsette hvilken AMK-sentral som skal ha overordnet koordineringsansvar i regionen.
+Det regionale helseforetaket har ansvar for
+
+1. å etablere og drifte det til en hver tid gjeldende telefonnummer for medisinsk nødhjelp i helseregionen
+2. å etablere og drifte AMK-sentraler
+3. å ha kommunikasjonsberedskap og nødvendig kommunikasjonsutstyr for AMK-sentraler, sykehus med akuttfunksjon, ambulansetjenesten og andre deler av spesialisthelsetjenesten som inngår i det regionale helseforetakets akuttmedisinske beredskap
+4. å samarbeide med relevante parter for å sikre nødvendig samordning med den kommunale legevaktordningen, legevaktsentralene, brannvesen, politi, hovedredningssentralene og andre samarbeidspartnere og
+5. å fastsette hvilken AMK-sentral som skal ha overordnet koordineringsansvar i regionen.
 
 ### § 15. Krav til AMK-sentralene
 
-AMK-sentralene skalhåndtere henvendelser om akuttmedisinsk bistandbesvare 90 prosent av henvendelser fra publikum innen 10 sekundergi nødvendige råd og veiledning, prioritere, registrere, iverksette, koordinere og følge opp akuttmedisinske oppdragumiddelbart iverksette varsling (trippelvarsling) ved behov for samtidig innsats fra flere nødetaterved behov varsle hovedredningssentralene samt AMK-sentraler som er berørtvarsle den kommunale legevaktsentralen om behov for øyeblikkelig hjelp i kommunensom hovedregel sette samtalen over til legevaktsentral på forhåndsdefinerte linjer når henvendelsen gjelder allmennmedisinske problemstillinger uten behov for utrykning fra spesialisthelsetjenestenha nødvendig utstyr for å koordinere og følge opp ambulanseoppdragha et system for å holde oversikt over den akuttmedisinske beredskapen i og utenfor eget ansvarsområdeha utstyr for lydopptak av viktig trafikk, inkludert lydopptak til bruk for dokumentasjon og kvalitetssikring av egen virksomhetha et system for sporing/posisjonering av samtalerbemannes med sykepleier, ambulansearbeider eller paramedisiner som har gjennomført tilleggsopplæring for arbeid som operatørha tilgjengelig lege med akuttmedisinsk kompetanse på døgnbasisi tillegg til norsk kunne kommunisere med innringer på engelsk og ha etablert beredskap med tolketjeneste for samiske språk og aktuelle fremmedspråkha beredskap for å dekke behovet for kapasitet ved større ulykker og kriser ogha reserveløsninger for AMK-sentralenes funksjoner ved svikt.
+AMK-sentralene skal
+
+1. håndtere henvendelser om akuttmedisinsk bistand
+2. besvare 90 prosent av henvendelser fra publikum innen 10 sekunder
+3. gi nødvendige råd og veiledning, prioritere, registrere, iverksette, koordinere og følge opp akuttmedisinske oppdrag
+4. umiddelbart iverksette varsling (trippelvarsling) ved behov for samtidig innsats fra flere nødetater
+5. ved behov varsle hovedredningssentralene samt AMK-sentraler som er berørt
+6. varsle den kommunale legevaktsentralen om behov for øyeblikkelig hjelp i kommunen
+7. som hovedregel sette samtalen over til legevaktsentral på forhåndsdefinerte linjer når henvendelsen gjelder allmennmedisinske problemstillinger uten behov for utrykning fra spesialisthelsetjenesten
+8. ha nødvendig utstyr for å koordinere og følge opp ambulanseoppdrag
+9. ha et system for å holde oversikt over den akuttmedisinske beredskapen i og utenfor eget ansvarsområde
+10. ha utstyr for lydopptak av viktig trafikk, inkludert lydopptak til bruk for dokumentasjon og kvalitetssikring av egen virksomhet
+11. ha et system for sporing/posisjonering av samtaler
+12. bemannes med sykepleier, ambulansearbeider eller paramedisiner som har gjennomført tilleggsopplæring for arbeid som operatør
+13. ha tilgjengelig lege med akuttmedisinsk kompetanse på døgnbasis
+14. i tillegg til norsk kunne kommunisere med innringer på engelsk og ha etablert beredskap med tolketjeneste for samiske språk og aktuelle fremmedspråk
+15. ha beredskap for å dekke behovet for kapasitet ved større ulykker og kriser og
+16. ha reserveløsninger for AMK-sentralenes funksjoner ved svikt.
 
 > Endret ved forskrift [22 april 2022 nr. 598](forskrift/2022-04-22-598) (i kraft 1 mai 2022).
 
 ### § 16. Nærmere om sykehus med akuttfunksjoner
 
-Sykehus med akuttfunksjoner er en del av medisinsk nødmeldetjeneste og skal kunnehåndtere og koordinere henvendelser om øyeblikkelig-hjelp-innleggelser i sykehusethåndtere, kommunisere direkte, videreformidle og konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentraler og legevaktsentraler ogsette personell i akuttmedisinsk beredskap utenfor sykehus i kontakt med personell i sykehus.
+Sykehus med akuttfunksjoner er en del av medisinsk nødmeldetjeneste og skal kunne
+
+1. håndtere og koordinere henvendelser om øyeblikkelig-hjelp-innleggelser i sykehuset
+2. håndtere, kommunisere direkte, videreformidle og konferansekoble henvendelser om akuttmedisinsk hjelp til AMK-sentraler og legevaktsentraler og
+3. sette personell i akuttmedisinsk beredskap utenfor sykehus i kontakt med personell i sykehus.
 
 ### § 17. Kommunikasjonsberedskap
 

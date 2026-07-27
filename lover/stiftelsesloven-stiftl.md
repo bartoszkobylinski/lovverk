@@ -15,7 +15,7 @@ xml_hash: "ee665c06cec5477fa537b47c56d4e63a98a9c582793e054938cd97edb1d30ca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,9 +44,16 @@ Når stiftelsen er opprettet, jf. [§ 2](lov/2001-06-15-59/§2), har oppretteren
 
 En stiftelse kan være en alminnelig stiftelse eller en næringsdrivende stiftelse.
 
-Med næringsdrivende stiftelser menes i denne loven:stiftelser som har til formål å drive næringsvirksomhet selv,stiftelser som driver næringsvirksomhet selv,stiftelser som på grunn av avtale, eller som eier av aksjer eller selskapsandeler, har bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen.
+Med næringsdrivende stiftelser menes i denne loven:
 
-Ved vurderingen av om man har å gjøre med en næringsdrivende stiftelse etter annet ledd bokstav c, regnes en stiftelse alltid for å ha bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen når:stiftelsen eier så mange aksjer eller andeler i et selskap som driver næringsvirksomhet, at aksjene eller andelene representerer flertallet av stemmene i selskapet, ellerstiftelsen har rett til å velge eller avsette et flertall av styremedlemmene i et selskap som driver næringsvirksomhet.
+1. stiftelser som har til formål å drive næringsvirksomhet selv,
+2. stiftelser som driver næringsvirksomhet selv,
+3. stiftelser som på grunn av avtale, eller som eier av aksjer eller selskapsandeler, har bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen.
+
+Ved vurderingen av om man har å gjøre med en næringsdrivende stiftelse etter annet ledd bokstav c, regnes en stiftelse alltid for å ha bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen når:
+
+1. stiftelsen eier så mange aksjer eller andeler i et selskap som driver næringsvirksomhet, at aksjene eller andelene representerer flertallet av stemmene i selskapet, eller
+2. stiftelsen har rett til å velge eller avsette et flertall av styremedlemmene i et selskap som driver næringsvirksomhet.
 
 Alminnelige stiftelser er stiftelser som ikke er næringsdrivende.
 
@@ -54,17 +61,31 @@ Stiftelsestilsynet avgjør i tvilstilfelle om en stiftelse er en næringsdrivend
 
 ### § 5. Nærstående
 
-Som noens nærstående menes i denne loven:ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold,slektninger i rett opp- eller nedstigende linje og søsken,slektninger i rett opp- eller nedstigende linje og søsken til en person som nevnt i bokstav a,ektefelle til, og en person som bor sammen i ekteskapsliknende forhold med, noen som er nevnt i bokstav b,selskap der vedkommende selv eller noen som er nevnt i bokstav a til d, hver for seg eller til sammen har slik bestemmende innflytelse som nevnt i [§ 4](lov/2001-06-15-59/§4) tredje ledd.
+Som noens nærstående menes i denne loven:
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold,
+2. slektninger i rett opp- eller nedstigende linje og søsken,
+3. slektninger i rett opp- eller nedstigende linje og søsken til en person som nevnt i bokstav a,
+4. ektefelle til, og en person som bor sammen i ekteskapsliknende forhold med, noen som er nevnt i bokstav b,
+5. selskap der vedkommende selv eller noen som er nevnt i bokstav a til d, hver for seg eller til sammen har slik bestemmende innflytelse som nevnt i [§ 4](lov/2001-06-15-59/§4) tredje ledd.
 
 ### § 6. Unntak fra lovens virkeområde
 
-Loven gjelder ikke:kirker og gravplasser og verdier for øvrig som soknet eller et trossamfunn eier,pensjonskasser og pensjonsfond som er under Finanstilsynets tilsyn, jf. [finanstilsynsloven § 1-2 første ledd bokstav k](lov/2024-06-21-41/§1-2/ledd/1/bokstav/k),sparebanker.
+Loven gjelder ikke:
+
+1. kirker og gravplasser og verdier for øvrig som soknet eller et trossamfunn eier,
+2. pensjonskasser og pensjonsfond som er under Finanstilsynets tilsyn, jf. [finanstilsynsloven § 1-2 første ledd bokstav k](lov/2024-06-21-41/§1-2/ledd/1/bokstav/k),
+3. sparebanker.
 
 > Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [26 aug 2011 nr. 40](lov/2011-08-26-40) (ikr. 1 jan 2012 iflg. [res. 26 aug 2011 nr. 866](forskrift/2011-08-26-866)), [21 juni 2024 nr. 41](lov/2024-06-21-41) (i kraft 1 april 2025 iflg. [res. 21 mars 2025 nr. 479](forskrift/2025-03-21-479)).
 
 ### § 7. Stiftelsestilsynet
 
-Stiftelsestilsynet fører tilsyn med stiftelser. Stiftelsestilsynets oppgaver er:å føre et stiftelsesregister der alle stiftelser skal være registrert, jf. [§ 8](lov/2001-06-15-59/§8),å føre tilsyn og kontroll med at forvaltningen av stiftelsene skjer i samsvar med stiftelsens vedtekter og denne lov,å treffe vedtak med hjemmel i denne lov.
+Stiftelsestilsynet fører tilsyn med stiftelser. Stiftelsestilsynets oppgaver er:
+
+1. å føre et stiftelsesregister der alle stiftelser skal være registrert, jf. [§ 8](lov/2001-06-15-59/§8),
+2. å føre tilsyn og kontroll med at forvaltningen av stiftelsene skjer i samsvar med stiftelsens vedtekter og denne lov,
+3. å treffe vedtak med hjemmel i denne lov.
 
 Stiftelsen, dens tillitsvalgte og ansatte og stiftelsens revisor har plikt til å gi Stiftelsestilsynet de opplysninger og annen bistand som er nødvendig for at Stiftelsestilsynet skal kunne gjennomføre sine oppgaver etter loven. Revisors taushetsplikt gjelder ikke i forhold til Stiftelsestilsynet.
 
@@ -94,7 +115,18 @@ Departementet kan gi forskrift med nærmere bestemmelser om Stiftelsesklagenemnd
 
 ### § 8. Stiftelsesregisteret
 
-Alle stiftelser skal være registrert i et sentralt register som føres av Stiftelsestilsynet (Stiftelsesregisteret). Stiftelsesregisteret skal inneholde følgende opplysninger, som skal meldes ved opprettelsen av stiftelsen, jf. [§ 11](lov/2001-06-15-59/§11):datoen for opprettelsen av stiftelsen og oppretterens navn;stiftelsens adresse;hvem som er medlemmer av stiftelsens styre og hvem som er styreleder, og i tilfelle hvem som er varamedlemmer og observatører til styret;hvem som er daglig leder, hvis stiftelsen har det;hvem som er revisor, og revisors forretningsadresse og revisornummer;hvem som er regnskapsfører, hvis stiftelsen har det (jf. [lov 18. juni 1993 nr. 109](lov/1993-06-18-109) om autorisasjon av regnskapsførere), og regnskapsførerens adresse og registreringsnummer;stiftelsens vedtekter;om stiftelsen er alminnelig eller næringsdrivende.For styremedlem, varamedlem, observatør og daglig leder skal registeret også inneholde opplysninger om fødselsnummer og adresse. Er en annen stiftelse styre, jf. [§ 21](lov/2001-06-15-59/§21) annet ledd annet punktum, skal stiftelsens navn og organisasjonsnummer registreres.
+Alle stiftelser skal være registrert i et sentralt register som føres av Stiftelsestilsynet (Stiftelsesregisteret). Stiftelsesregisteret skal inneholde følgende opplysninger, som skal meldes ved opprettelsen av stiftelsen, jf. [§ 11](lov/2001-06-15-59/§11):
+
+1. datoen for opprettelsen av stiftelsen og oppretterens navn;
+2. stiftelsens adresse;
+3. hvem som er medlemmer av stiftelsens styre og hvem som er styreleder, og i tilfelle hvem som er varamedlemmer og observatører til styret;
+4. hvem som er daglig leder, hvis stiftelsen har det;
+5. hvem som er revisor, og revisors forretningsadresse og revisornummer;
+6. hvem som er regnskapsfører, hvis stiftelsen har det (jf. [lov 18. juni 1993 nr. 109](lov/1993-06-18-109) om autorisasjon av regnskapsførere), og regnskapsførerens adresse og registreringsnummer;
+7. stiftelsens vedtekter;
+8. om stiftelsen er alminnelig eller næringsdrivende.
+
+For styremedlem, varamedlem, observatør og daglig leder skal registeret også inneholde opplysninger om fødselsnummer og adresse. Er en annen stiftelse styre, jf. [§ 21](lov/2001-06-15-59/§21) annet ledd annet punktum, skal stiftelsens navn og organisasjonsnummer registreres.
 
 Opphører en stiftelse, skal dette meldes til Stiftelsesregisteret, og stiftelsen skal slettes. Meldingen skal gis uten ugrunnet opphold. Det samme gjelder dersom det for øvrig skjer endringer i forhold som er registrert, eller det inntrer nye forhold som stiftelsen har plikt til å melde etter første ledd. Endring av adresse for andre enn stiftelsen er det likevel ikke plikt til å melde.
 
@@ -110,7 +142,12 @@ Følgende bestemmelser i [foretaksregisterloven](lov/2025-06-20-106) gjelder til
 
 ### § 9. Stiftelsesdokument
 
-Den som skal opprette en stiftelse, skal utarbeide et stiftelsesdokument for stiftelsen, som minst skal angi:stiftelsens formål,hvilke eiendeler som skal brukes som grunnkapital, jf. [§ 15](lov/2001-06-15-59/§15),styrets sammensetning, hvis ikke sammensetningen av stiftelsens første styre reguleres av vedtektsbestemmelse som nevnt i [§ 10](lov/2001-06-15-59/§10) første ledd bokstav c,eventuelle særrettigheter som skal gis oppretteren eller andre i forbindelse med opprettelsen av stiftelsen.
+Den som skal opprette en stiftelse, skal utarbeide et stiftelsesdokument for stiftelsen, som minst skal angi:
+
+1. stiftelsens formål,
+2. hvilke eiendeler som skal brukes som grunnkapital, jf. [§ 15](lov/2001-06-15-59/§15),
+3. styrets sammensetning, hvis ikke sammensetningen av stiftelsens første styre reguleres av vedtektsbestemmelse som nevnt i [§ 10](lov/2001-06-15-59/§10) første ledd bokstav c,
+4. eventuelle særrettigheter som skal gis oppretteren eller andre i forbindelse med opprettelsen av stiftelsen.
 
 Stiftelsesdokumentet skal også inneholde stiftelsens vedtekter, jf. [§ 10](lov/2001-06-15-59/§10).
 
@@ -120,7 +157,13 @@ Hvis en stiftelse er opprettet uten at oppretteren har utarbeidet et stiftelsesd
 
 ### § 10. Vedtekter
 
-En stiftelse skal ha vedtekter som minst skal angi:stiftelsens navn,stiftelsens formål,antallet eller laveste og høyeste antall styremedlemmer og hvordan styret skal velges,hvis stiftelsen skal ha andre organer enn styret, hvilke organer dette er, hvordan organenes medlemmer skal velges, og hvilken myndighet og hvilke oppgaver disse skal ha (jf. [§ 36](lov/2001-06-15-59/§36)),grunnkapitalens størrelse (jf. [§ 14](lov/2001-06-15-59/§14) første ledd og [§ 22](lov/2001-06-15-59/§22)).
+En stiftelse skal ha vedtekter som minst skal angi:
+
+1. stiftelsens navn,
+2. stiftelsens formål,
+3. antallet eller laveste og høyeste antall styremedlemmer og hvordan styret skal velges,
+4. hvis stiftelsen skal ha andre organer enn styret, hvilke organer dette er, hvordan organenes medlemmer skal velges, og hvilken myndighet og hvilke oppgaver disse skal ha (jf. [§ 36](lov/2001-06-15-59/§36)),
+5. grunnkapitalens størrelse (jf. [§ 14](lov/2001-06-15-59/§14) første ledd og [§ 22](lov/2001-06-15-59/§22)).
 
 Vedtektene for en næringsdrivende stiftelse skal også angi stiftelsens foretaksnavn, jf. [foretaksnavneloven § 2-2](lov/1985-06-21-79/§2-2) åttende ledd.
 
@@ -138,7 +181,12 @@ Stiftelsen kan ikke registreres uten at det er utarbeidet et stiftelsesdokument 
 
 ### § 12. Vedlegg til melding etter § 11
 
-Som vedlegg til meldingen etter [§ 11](lov/2001-06-15-59/§11) skal følge:bekreftet kopi av stiftelsesdokumentet,erklæring fra revisor og styremedlem om at han eller hun mottar valget,erklæring fra revisor om at hele grunnkapitalen er stilt til stiftelsens rådighet, jf. [§ 11](lov/2001-06-15-59/§11) annet ledd,hvis grunnkapitalen består av andre eiendeler enn penger, erklæring fra revisor om at eiendelene har en verdi som minst svarer til det beløpet grunnkapitalen er fastsatt til i vedtektene, jf. [§ 15](lov/2001-06-15-59/§15) annet ledd.
+Som vedlegg til meldingen etter [§ 11](lov/2001-06-15-59/§11) skal følge:
+
+1. bekreftet kopi av stiftelsesdokumentet,
+2. erklæring fra revisor og styremedlem om at han eller hun mottar valget,
+3. erklæring fra revisor om at hele grunnkapitalen er stilt til stiftelsens rådighet, jf. [§ 11](lov/2001-06-15-59/§11) annet ledd,
+4. hvis grunnkapitalen består av andre eiendeler enn penger, erklæring fra revisor om at eiendelene har en verdi som minst svarer til det beløpet grunnkapitalen er fastsatt til i vedtektene, jf. [§ 15](lov/2001-06-15-59/§15) annet ledd.
 
 Som vedlegg til meldingen skal det også følge en åpningsbalanse for stiftelsen. Åpningsbalansen skal settes opp i samsvar med [regnskapslovens](lov/1998-07-17-56) bestemmelser. Revisor skal avgi erklæring om at balansen er utarbeidet i samsvar med disse reglene. Åpningsbalansen med revisors erklæring skal tidligst være datert fire uker før meldingen til Stiftelsesregisteret etter [§ 11](lov/2001-06-15-59/§11).
 
@@ -172,7 +220,10 @@ Eiendeler som skal brukes som grunnkapital, kan ikke settes til høyere verdi en
 
 Beslutning om å forhøye grunnkapitalen treffes av styret. Styret kan ikke treffe slik beslutning dersom forhøyelsen vil være i strid med stiftelsens formål, vedtektene eller oppretterens forutsetninger for øvrig.
 
-Grunnkapitalen kan forhøyes ved at:annen egenkapital overføres til grunnkapitalen,eiendeler som stiftelsen blir tilført etter opprettelsen ved testament, gave eller annen ensidig disposisjon, legges til grunnkapitalen. Dette gjelder likevel ikke hvis noe annet er bestemt eller klart forutsatt av den som har overført eiendelene.
+Grunnkapitalen kan forhøyes ved at:
+
+1. annen egenkapital overføres til grunnkapitalen,
+2. eiendeler som stiftelsen blir tilført etter opprettelsen ved testament, gave eller annen ensidig disposisjon, legges til grunnkapitalen. Dette gjelder likevel ikke hvis noe annet er bestemt eller klart forutsatt av den som har overført eiendelene.
 
 Kapitalforhøyelsen skal meldes til Stiftelsesregisteret, og i tilfelle til Foretaksregisteret, innen seks uker etter at beslutningen ble truffet. Med melding om kapitalforhøyelse etter annet ledd bokstav b skal det som vedlegg følge erklæringer som nevnt i [§ 12](lov/2001-06-15-59/§12) første ledd bokstav c og d, jf [§ 8](lov/2001-06-15-59/§8) tredje ledd annet punktum. Er kapitalforhøyelsen ikke meldt innen fristen, faller den bort.
 
@@ -180,7 +231,10 @@ Kapitalforhøyelsen skal meldes til Stiftelsesregisteret, og i tilfelle til Fore
 
 Beslutning om å nedsette grunnkapitalen treffes av styret. Styret kan ikke treffe slik beslutning dersom det følger av vedtektene eller på annen måte er bestemt eller klart forutsatt av oppretteren at den opprinnelige grunnkapitalen ikke skal kunne brukes til utdelinger.
 
-Beslutningen skal angi det beløpet grunnkapitalen skal nedsettes med, og fastsette om beløpet skal anvendes tildekning av tap som ikke kan dekkes på annen måte, elleroverføring til annen egenkapital.
+Beslutningen skal angi det beløpet grunnkapitalen skal nedsettes med, og fastsette om beløpet skal anvendes til
+
+1. dekning av tap som ikke kan dekkes på annen måte, eller
+2. overføring til annen egenkapital.
 
 Beslutning om å nedsette grunnkapitalen skal meldes til Stiftelsestilsynet, og i tilfelle til Foretaksregisteret, innen seks uker etter at beslutningen ble truffet. Er nedsettingen ikke meldt innen fristen, faller den bort.
 
@@ -202,7 +256,11 @@ Er det skjedd utdelinger fra stiftelsen i strid med reglene i første eller anne
 
 Oppretteren, oppretterens nærstående, styremedlem, observatør, person med verv i organ som nevnt i [§ 36](lov/2001-06-15-59/§36) og daglig leder kan ikke ha lån i stiftelsen. Det samme gjelder sikkerhetsstillelse til fordel for disse personene.
 
-Første ledd er ikke til hinder for at stiftelsen yter lån eller stiller sikkerhet til fordel for en ansatt nården ansatte er valgt som de ansattes representant eller observatør i styret etter reglene i [§§ 41](lov/2001-06-15-59/§41) og [42](lov/2001-06-15-59/§42), ogskyldneren er ansatt i hovedstilling i stiftelsen, oglånet eller sikkerhetsstillelsen ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
+Første ledd er ikke til hinder for at stiftelsen yter lån eller stiller sikkerhet til fordel for en ansatt når
+
+1. den ansatte er valgt som de ansattes representant eller observatør i styret etter reglene i [§§ 41](lov/2001-06-15-59/§41) og [42](lov/2001-06-15-59/§42), og
+2. skyldneren er ansatt i hovedstilling i stiftelsen, og
+3. lånet eller sikkerhetsstillelsen ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
 
 Har stiftelsen gitt lån eller stilt sikkerhet i strid med første og annet ledd, gjelder [aksjeloven § 8-11](lov/1997-06-13-44/§8-11) tilsvarende.
 
@@ -210,7 +268,12 @@ Har stiftelsen gitt lån eller stilt sikkerhet i strid med første og annet ledd
 
 Eiendelene til en stiftelse skal holdes atskilt fra andre eiendeler.
 
-Dette gjelder ikke foreiendeler som etter vedtektene eller styrets beslutning forvaltes av statsforvalteren etter [vergemålsloven § 97](lov/2010-03-26-9/§97), ogeiendeler som Stiftelsestilsynet har bestemt at kan forvaltes sammen med eiendeler fra andre stiftelser (fellesforvaltning).Er eiendeler fra flere stiftelser lagt under felles forvaltning av en stiftelse, kan Stiftelsestilsynet beslutte at den stiftelsen som utfører den felles forvaltningen, skal være stiftelsenes styre.
+Dette gjelder ikke for
+
+1. eiendeler som etter vedtektene eller styrets beslutning forvaltes av statsforvalteren etter [vergemålsloven § 97](lov/2010-03-26-9/§97), og
+2. eiendeler som Stiftelsestilsynet har bestemt at kan forvaltes sammen med eiendeler fra andre stiftelser (fellesforvaltning).
+
+Er eiendeler fra flere stiftelser lagt under felles forvaltning av en stiftelse, kan Stiftelsestilsynet beslutte at den stiftelsen som utfører den felles forvaltningen, skal være stiftelsenes styre.
 
 > Endret ved lover [21 des 2005 nr. 130](lov/2005-12-21-130), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -246,9 +309,17 @@ Styret skal ha en leder. Styrelederen velges av styret, hvis ikke noe annet er b
 
 Juridiske personer kan ikke være styremedlemmer, jf. likevel [§ 21](lov/2001-06-15-59/§21) annet ledd annet punktum. Det samme gjelder mindreårige, personer som er fratatt rettslig handleevne, og personer det har inntrådt slik hindring for som nevnt i [konkursloven § 142](lov/1984-06-08-58/§142).
 
-Minst halvdelen av styrets medlemmer skal værebosatt her i riket;statsborgere i stater som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl) eller statsborgere i Det forente kongerike Storbritannia og Nord-Irland, når de er bosatt i en slik stat.1
+Minst halvdelen av styrets medlemmer skal være
 
-Følgende personer kan ikke hver for seg eller sammen være de eneste medlemmer av styret:den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,nærstående av den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,person som har tillitsverv i, eller står i et ansettelses- eller underordningsforhold til den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,hvis den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen, er en juridisk person, person som har slik innflytelse som nevnt i [§ 4](lov/2001-06-15-59/§4) tredje ledd over den juridiske personen, og hans eller hennes nærstående.
+1. bosatt her i riket;
+2. statsborgere i stater som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl) eller statsborgere i Det forente kongerike Storbritannia og Nord-Irland, når de er bosatt i en slik stat.1
+
+Følgende personer kan ikke hver for seg eller sammen være de eneste medlemmer av styret:
+
+1. den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,
+2. nærstående av den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,
+3. person som har tillitsverv i, eller står i et ansettelses- eller underordningsforhold til den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen,
+4. hvis den som har avgitt en formuesverdi som inngår som grunnkapital i stiftelsen, er en juridisk person, person som har slik innflytelse som nevnt i [§ 4](lov/2001-06-15-59/§4) tredje ledd over den juridiske personen, og hans eller hennes nærstående.
 
 Har styret bare to styremedlemmer, kan person som nevnt i tredje ledd, heller ikke være styrets leder.
 
@@ -264,7 +335,13 @@ Lovens regler om styremedlemmer gjelder så langt de passer, også for varamedle
 
 (1) Bestemmelsene i denne paragrafen gjelder for næringsdrivende stiftelser, stiftelser som etter vedtektene har utdeling til formål og stiftelser der staten, en fylkeskommune eller kommune skal oppnevne ett eller flere styremedlemmer.
 
-(2) Har styret tre eller flere medlemmer, skal kjønnssammensetningen i styret oppfylle følgende krav:Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
+(2) Har styret tre eller flere medlemmer, skal kjønnssammensetningen i styret oppfylle følgende krav:
+
+1. Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.
+2. Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.
+3. Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.
+4. Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.
+5. Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
 
 (3) Annet ledd gjelder tilsvarende for varamedlemmer.
 
@@ -356,7 +433,18 @@ Daglig leder skal sørge for at stiftelsens regnskap er i samsvar med lov og for
 
 I vedtektene kan det bestemmes at stiftelsen skal ha andre organer enn styre og daglig leder.
 
-Vedtektene kan fastsette at slike organer skal ha myndighet til:å velge styremedlemmer og til å avsette styremedlemmer når vilkårene i [§ 29](lov/2001-06-15-59/§29) annet ledd er til stede. Dette gjelder likevel ikke styremedlem som skal velges eller er valgt av de ansatte;å fastsette styremedlemmenes godtgjørelse;å føre tilsyn med stiftelsens virksomhet;å avgi uttalelse om årsregnskapet og årsberetningen;å beslutte gransking;å velge stiftelsens revisor;å beslutte omdanning av stiftelsen etter forslag fra styret;å avgi uttalelse til styret eller annet organ i stiftelsen.Vedtektene kan også fastsette at stiftelsen skal ha et saksforberedende, rådgivende eller besluttende organ som fullt ut er underlagt styrets omgjørings- og instruksjonsmyndighet.
+Vedtektene kan fastsette at slike organer skal ha myndighet til:
+
+1. å velge styremedlemmer og til å avsette styremedlemmer når vilkårene i [§ 29](lov/2001-06-15-59/§29) annet ledd er til stede. Dette gjelder likevel ikke styremedlem som skal velges eller er valgt av de ansatte;
+2. å fastsette styremedlemmenes godtgjørelse;
+3. å føre tilsyn med stiftelsens virksomhet;
+4. å avgi uttalelse om årsregnskapet og årsberetningen;
+5. å beslutte gransking;
+6. å velge stiftelsens revisor;
+7. å beslutte omdanning av stiftelsen etter forslag fra styret;
+8. å avgi uttalelse til styret eller annet organ i stiftelsen.
+
+Vedtektene kan også fastsette at stiftelsen skal ha et saksforberedende, rådgivende eller besluttende organ som fullt ut er underlagt styrets omgjørings- og instruksjonsmyndighet.
 
 Annen myndighet enn det som følger av annet ledd, kan ikke legges til slike organer.
 
@@ -442,9 +530,21 @@ Styret skal hvert år ha et møte med revisor uten at daglig leder eller andre f
 
 Med omdanning menes i loven her endring eller opphevelse av den rettslige disposisjonen som danner grunnlaget for stiftelsen, eller av stiftelsens vedtekter.
 
-I tillegg til endring eller opphevelse av enkeltbestemmelser i den rettslige disposisjonen som danner grunnlaget for stiftelsen, eller i stiftelsens vedtekter, kan omdanning blant annet gå ut på:at stiftelsen oppheves og avvikles,at stiftelsen slås sammen med én eller flere andre stiftelser med i det vesentlige likeartet formål,at stiftelsen deles i flere stiftelser,at båndlagt eiendom som tilhører stiftelsen, frigis,at det gjøres unntak fra vedtektene i enkelttilfelle.
+I tillegg til endring eller opphevelse av enkeltbestemmelser i den rettslige disposisjonen som danner grunnlaget for stiftelsen, eller i stiftelsens vedtekter, kan omdanning blant annet gå ut på:
 
-Reglene om omdanning i dette kapitlet gjelder ikke forforhøyelse og nedsetting av grunnkapital,vedtektsendring som er nødvendig for å bringe vedtektene i samsvar med de krav som gjelder for næringsdrivende stiftelser,vedtektsendring som er nødvendig for å bringe vedtektene i samsvar med [§ 10 tredje ledd](lov/2001-06-15-59/§10/ledd/3) om navn til alminnelige stiftelser.Vedtektsendringer som nevnt i dette ledd kan vedtas av styret.
+1. at stiftelsen oppheves og avvikles,
+2. at stiftelsen slås sammen med én eller flere andre stiftelser med i det vesentlige likeartet formål,
+3. at stiftelsen deles i flere stiftelser,
+4. at båndlagt eiendom som tilhører stiftelsen, frigis,
+5. at det gjøres unntak fra vedtektene i enkelttilfelle.
+
+Reglene om omdanning i dette kapitlet gjelder ikke for
+
+1. forhøyelse og nedsetting av grunnkapital,
+2. vedtektsendring som er nødvendig for å bringe vedtektene i samsvar med de krav som gjelder for næringsdrivende stiftelser,
+3. vedtektsendring som er nødvendig for å bringe vedtektene i samsvar med [§ 10 tredje ledd](lov/2001-06-15-59/§10/ledd/3) om navn til alminnelige stiftelser.
+
+Vedtektsendringer som nevnt i dette ledd kan vedtas av styret.
 
 Reglene i dette kapitlet kan ikke fravikes i den rettslige disposisjonen som danner grunnlaget for stiftelsen, i vedtektene eller av den som er tillagt omdanningsmyndighet.
 
@@ -452,7 +552,12 @@ Reglene i dette kapitlet kan ikke fravikes i den rettslige disposisjonen som dan
 
 ### § 46. Vilkår for omdanning
 
-Omdanning kan foretas når en bestemmelse i vedtektene eller den rettslige disposisjonen som danner grunnlaget for stiftelsenikke lar seg etterleve, for eksempel fordi stiftelsens kapital er utilstrekkelig til å tilgodese dens formål på en rimelig måte,er åpenbart unyttig,er i strid med hensikten i den disposisjonen som danner grunnlaget for stiftelsen, for eksempel fordi oppretterens forutsetninger for bestemmelsen har sviktet, ellerer åpenbart uheldig eller åpenbart ufornuftig.
+Omdanning kan foretas når en bestemmelse i vedtektene eller den rettslige disposisjonen som danner grunnlaget for stiftelsen
+
+1. ikke lar seg etterleve, for eksempel fordi stiftelsens kapital er utilstrekkelig til å tilgodese dens formål på en rimelig måte,
+2. er åpenbart unyttig,
+3. er i strid med hensikten i den disposisjonen som danner grunnlaget for stiftelsen, for eksempel fordi oppretterens forutsetninger for bestemmelsen har sviktet, eller
+4. er åpenbart uheldig eller åpenbart ufornuftig.
 
 Dersom bestemmelsen ikke gjelder formålet med stiftelsen, og det ellers må antas at det ved opprettelsen ikke er lagt vesentlig vekt på den, kan omdanning skje når bestemmelsen viser seg å være uheldig eller uhensiktsmessig.
 
@@ -522,7 +627,11 @@ Vedtaket om deling skal angi hvordan stiftelsens eiendeler, rettigheter og forpl
 
 ### § 55. Omdanning av annet enn stiftelser
 
-Reglene i dette kapitlet gjelder tilsvarende for:formuesverdier som ved avtale, testament, gavebrev eller annen privatrettslig disposisjon er overført til en bestående stiftelse eller en annen form for rettssubjekt (enkeltperson, forening, selskap, offentlig institusjon mv.), med bestemmelse om hvordan formuesverdien skal brukes. Dette gjelder likevel ikke rettigheter som omfattes av [servituttloven](lov/1968-11-29);formuesverdier som er samlet inn til et bestemt formål;formuesverdier som tilhører en forening, når det følger av foreningsrettslige regler at foreningen ikke har fri rådighet over midlene.
+Reglene i dette kapitlet gjelder tilsvarende for:
+
+1. formuesverdier som ved avtale, testament, gavebrev eller annen privatrettslig disposisjon er overført til en bestående stiftelse eller en annen form for rettssubjekt (enkeltperson, forening, selskap, offentlig institusjon mv.), med bestemmelse om hvordan formuesverdien skal brukes. Dette gjelder likevel ikke rettigheter som omfattes av [servituttloven](lov/1968-11-29);
+2. formuesverdier som er samlet inn til et bestemt formål;
+3. formuesverdier som tilhører en forening, når det følger av foreningsrettslige regler at foreningen ikke har fri rådighet over midlene.
 
 Reglene i dette kapittel gjelder tilsvarende for offentlige fond (fond som offentlig organ har avsatt til bestemt formål ved bevilgning eller avgiftspålegg) i den utstrekning vedkommende myndighet bestemmer.
 
@@ -534,7 +643,10 @@ Søknad om omdanning etter første og annet ledd kan settes frem av den som forp
 
 ### § 55 a. Virkeområde
 
-Bestemmelsene i dette kapitlet gjelder for stiftelser somhar til formål å skaffe boliger til personer som ikke kan ivareta sine interesser på boligmarkedet, og derfor trenger bistand til å skaffe eller beholde egnet bolig, oger opprettet av én eller flere kommuner.
+Bestemmelsene i dette kapitlet gjelder for stiftelser som
+
+1. har til formål å skaffe boliger til personer som ikke kan ivareta sine interesser på boligmarkedet, og derfor trenger bistand til å skaffe eller beholde egnet bolig, og
+2. er opprettet av én eller flere kommuner.
 
 Ved opphevelse av boligstiftelser etter reglene i dette kapitlet gjelder ikke [kapittel 6](lov/2001-06-15-59/kap6).
 
@@ -550,7 +662,14 @@ Vedtak om opphevelse skal meldes til Stiftelsesregisteret uten ugrunnet opphold.
 
 ### § 55 c. Rapport om opphevelsen
 
-Før kommunen treffer vedtak etter [§ 55 b](lov/2001-06-15-59/§55b), skal kommunen utarbeide en rapport om opphevelsen. Rapporten skal minst angihvordan kommunen planlegger å bruke eiendelene i stiftelsenkonsekvenser for stiftelsens kreditorerkonsekvenser for ansatte i stiftelsenhvordan stiftelsens eiendeler, rettigheter og forpliktelser skal overføres til kommunenplan for gjennomføring av opphevelsenfordeling av stiftelsens eiendeler, rettigheter og forpliktelser dersom stiftelsen er opprettet av to eller flere kommuner, eller dersom oppretterkommunen har opphørt å eksistere.
+Før kommunen treffer vedtak etter [§ 55 b](lov/2001-06-15-59/§55b), skal kommunen utarbeide en rapport om opphevelsen. Rapporten skal minst angi
+
+1. hvordan kommunen planlegger å bruke eiendelene i stiftelsen
+2. konsekvenser for stiftelsens kreditorer
+3. konsekvenser for ansatte i stiftelsen
+4. hvordan stiftelsens eiendeler, rettigheter og forpliktelser skal overføres til kommunen
+5. plan for gjennomføring av opphevelsen
+6. fordeling av stiftelsens eiendeler, rettigheter og forpliktelser dersom stiftelsen er opprettet av to eller flere kommuner, eller dersom oppretterkommunen har opphørt å eksistere.
 
 Som vedlegg til rapporten skal følge stiftelsens vedtekter, siste årsregnskap og eventuell årsberetning og revisjonsberetning for stiftelsen. Det samme gjelder mellombalanse for stiftelsen, dersom rapporten utarbeides mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet.
 
@@ -568,7 +687,11 @@ Når Stiftelsestilsynet har fått melding om vedtak om opphevelse etter [§ 55 b
 
 ### § 55 e. Ikrafttredelse av opphevelsen
 
-Når vedtaket om opphevelse er registrert i Stiftelsesregisteret, inntrer følgende virkninger:stiftelsen er opphevetstiftelsens eiendeler, rettigheter og forpliktelser er overført til kommunenandre virkninger som er bestemt i rapporten etter [§ 55 c](lov/2001-06-15-59/§55c).
+Når vedtaket om opphevelse er registrert i Stiftelsesregisteret, inntrer følgende virkninger:
+
+1. stiftelsen er opphevet
+2. stiftelsens eiendeler, rettigheter og forpliktelser er overført til kommunen
+3. andre virkninger som er bestemt i rapporten etter [§ 55 c](lov/2001-06-15-59/§55c).
 
 > Tilføyd ved lov [16 des 2022 nr. 93](lov/2022-12-16-93) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2247](forskrift/2022-12-16-2247)).
 
@@ -618,7 +741,17 @@ Loven gjelder fra den tid1 Kongen bestemmer.
 
 ### § 61. Overgangsregler
 
-For stiftelser som er opprettet før loven trer i kraft, gjelder loven med følgende unntak og særregler:Kravet i [§ 14](lov/2001-06-15-59/§14) første ledd om at stiftelser skal ha en grunnkapital på minst 100.000 kroner ved opprettelsen, gjelder ikke for stiftelser som er opprettet før loven trer i kraft.Næringsdrivende stiftelser som nevnt i [§ 4](lov/2001-06-15-59/§4) annet ledd bokstavene a og b, og som på det tidspunktet loven trer i kraft, har en grunnkapital på mindre enn 200 000 kroner, skal senest innen fem år etter ikrafttredelsen ha hevet grunnkapitalen til minst dette beløpet, jf. [§ 22](lov/2001-06-15-59/§22) første punktum. Stiftelsestilsynet kan etter søknad gjøre unntak fra første punktum.Stiftelser som er opprettet før loven trer i kraft skal senest innen to år etter ikrafttredelsen være meldt til Stiftelsestilsynet i samsvar med [§ 11](lov/2001-06-15-59/§11) første ledd. [§ 12](lov/2001-06-15-59/§12) første ledd bokstavene a og b gjelder tilsvarende.Vedtekter som ikke er i samsvar med loven, skal senest innen to år etter ikrafttredelsen være brakt i overensstemmelse med denne. Endringer som er nødvendige for å bringe vedtektene i samsvar med loven, skal gjennomføres etter reglene i [kapittel 6](lov/2001-06-15-59/kap6), likevel med unntak av [§ 46](lov/2001-06-15-59/§46).Lån eller sikkerhetsstillelse som er i strid med [§ 20](lov/2001-06-15-59/§20), skal avvikles eller bringes i samsvar med bestemmelsen senest innen to år etter ikrafttredelsen av loven.Stiftelser som er opprettet før loven trer i kraft, skal være organisert i samsvar med reglene i [kapittel 4](lov/2001-06-15-59/kap4) senest innen to år etter ikrafttredelsen.Omdanning som det er truffet vedtak om eller søkt fylkesmannen om før loven trer i kraft, gjennomføres etter reglene i lov [23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m. kapittel VI.Frem til 1. januar 2009 kan Stiftelsestilsynet unnlate å kunngjøre vedtak om opphevelse av en stiftelse etter reglene i [§ 52](lov/2001-06-15-59/§52) annet ledd, dersom tilsynet finner at hensynet til stiftelsens kreditorer er tilstrekkelig ivaretatt uten slik kunngjøring eller ved begrenset kunngjøring. Alle kreditorer med kjent adresse skal uansett så vidt mulig ha særskilt varsel.Kongen kan gi nærmere overgangsregler.
+For stiftelser som er opprettet før loven trer i kraft, gjelder loven med følgende unntak og særregler:
+
+1. Kravet i [§ 14](lov/2001-06-15-59/§14) første ledd om at stiftelser skal ha en grunnkapital på minst 100.000 kroner ved opprettelsen, gjelder ikke for stiftelser som er opprettet før loven trer i kraft.
+2. Næringsdrivende stiftelser som nevnt i [§ 4](lov/2001-06-15-59/§4) annet ledd bokstavene a og b, og som på det tidspunktet loven trer i kraft, har en grunnkapital på mindre enn 200 000 kroner, skal senest innen fem år etter ikrafttredelsen ha hevet grunnkapitalen til minst dette beløpet, jf. [§ 22](lov/2001-06-15-59/§22) første punktum. Stiftelsestilsynet kan etter søknad gjøre unntak fra første punktum.
+3. Stiftelser som er opprettet før loven trer i kraft skal senest innen to år etter ikrafttredelsen være meldt til Stiftelsestilsynet i samsvar med [§ 11](lov/2001-06-15-59/§11) første ledd. [§ 12](lov/2001-06-15-59/§12) første ledd bokstavene a og b gjelder tilsvarende.
+4. Vedtekter som ikke er i samsvar med loven, skal senest innen to år etter ikrafttredelsen være brakt i overensstemmelse med denne. Endringer som er nødvendige for å bringe vedtektene i samsvar med loven, skal gjennomføres etter reglene i [kapittel 6](lov/2001-06-15-59/kap6), likevel med unntak av [§ 46](lov/2001-06-15-59/§46).
+5. Lån eller sikkerhetsstillelse som er i strid med [§ 20](lov/2001-06-15-59/§20), skal avvikles eller bringes i samsvar med bestemmelsen senest innen to år etter ikrafttredelsen av loven.
+6. Stiftelser som er opprettet før loven trer i kraft, skal være organisert i samsvar med reglene i [kapittel 4](lov/2001-06-15-59/kap4) senest innen to år etter ikrafttredelsen.
+7. Omdanning som det er truffet vedtak om eller søkt fylkesmannen om før loven trer i kraft, gjennomføres etter reglene i lov [23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m. kapittel VI.
+8. Frem til 1. januar 2009 kan Stiftelsestilsynet unnlate å kunngjøre vedtak om opphevelse av en stiftelse etter reglene i [§ 52](lov/2001-06-15-59/§52) annet ledd, dersom tilsynet finner at hensynet til stiftelsens kreditorer er tilstrekkelig ivaretatt uten slik kunngjøring eller ved begrenset kunngjøring. Alle kreditorer med kjent adresse skal uansett så vidt mulig ha særskilt varsel.
+9. Kongen kan gi nærmere overgangsregler.
 
 > Endret ved [lov 15 juni 2007 nr. 36](lov/2007-06-15-36).
 

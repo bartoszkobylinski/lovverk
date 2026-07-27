@@ -15,7 +15,7 @@ xml_hash: "3c38880739dcc19e5f6aa8b0843c0535ae95825c23974d04de9cd7d67d2adc8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,11 @@ Etteroppgjør utsettes ikke som følge av klage over ligningen, men en pensjonis
 
 ## § 7. Etteroppgjør for år der AFP er utbetalt for en del av kalenderåret
 
-Toleransebeløpet skal være 0,26 ganger folketrygdens grunnbeløp per 1. januar i det enkelte år også når pensjonisten har mottatt AFP bare en del av året. Forventet arbeidsinntekt ved anvendelsen av [§ 6](forskrift/2010-11-30-1493/§6) skal for slike år settes til summen av forventet arbeidsinntekt på månedsbasis i de enkelte månedene med AFP. For øvrig gjelder følgende regler:Ved etteroppgjør for uttaksåret skal faktisk arbeidsinntekt reduseres med inntekt før uttaket. Fradraget settes til en forholdsmessig del av tidligere inntekt, med mindre pensjonisten godtgjør at den faktiske inntekten før uttaket var høyere.Ved etteroppgjør for det år AFP opphører, legges det til grunn at faktisk inntekt er likt fordelt over hele året, med mindre pensjonisten godtgjør noe annet.Eventuell omregning av pensjonen skjer på grunnlag av forholdet mellom tidligere inntekt og faktisk inntekt i perioden med AFP, omregnet til årsbeløp.
+Toleransebeløpet skal være 0,26 ganger folketrygdens grunnbeløp per 1. januar i det enkelte år også når pensjonisten har mottatt AFP bare en del av året. Forventet arbeidsinntekt ved anvendelsen av [§ 6](forskrift/2010-11-30-1493/§6) skal for slike år settes til summen av forventet arbeidsinntekt på månedsbasis i de enkelte månedene med AFP. For øvrig gjelder følgende regler:
+
+1. Ved etteroppgjør for uttaksåret skal faktisk arbeidsinntekt reduseres med inntekt før uttaket. Fradraget settes til en forholdsmessig del av tidligere inntekt, med mindre pensjonisten godtgjør at den faktiske inntekten før uttaket var høyere.
+2. Ved etteroppgjør for det år AFP opphører, legges det til grunn at faktisk inntekt er likt fordelt over hele året, med mindre pensjonisten godtgjør noe annet.
+3. Eventuell omregning av pensjonen skjer på grunnlag av forholdet mellom tidligere inntekt og faktisk inntekt i perioden med AFP, omregnet til årsbeløp.
 
 > Endret ved forskrift [9 sep 2024 nr. 2091](forskrift/2024-09-09-2091) (i kraft 1 jan 2025).
 

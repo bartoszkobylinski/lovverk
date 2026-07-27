@@ -34,7 +34,11 @@ Tilskudd kan gis til studentsamskipnader og i særlige tilfeller studentboligsti
 
 ## § 3. Hva det kan gis tilskudd til
 
-Det kan gis tilskudd til:oppføring av studentboliger.kjøp og ombygging av eksisterende bygningsmasse til studentboliger.rehabilitering av eksisterende studentboliger i særlige tilfeller.
+Det kan gis tilskudd til:
+
+1. oppføring av studentboliger.
+2. kjøp og ombygging av eksisterende bygningsmasse til studentboliger.
+3. rehabilitering av eksisterende studentboliger i særlige tilfeller.
 
 > Endret ved forskrifter [21 sep 2007 nr. 1077](forskrift/2007-09-21-1077), [2 nov 2009 nr. 1330](forskrift/2009-11-02-1330).
 

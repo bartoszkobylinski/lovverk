@@ -15,7 +15,7 @@ xml_hash: "76ed23e0bcbfdfe35cc289aa7cd7d84c0525974d6ea665077adcb70796de17c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,15 @@ Lovens tittel skal lyde:
 
 [§ 5 første ledd](lov/1980-06-13-35/§5/ledd/1) skal lyde:
 
-Fri rettshjelp omfatter ikke bistand som dekkes av andre ordninger eller som kan erstattes på annen måte, herunder gjennom:oppnevning av forsvarer eller bistandsadvokat i straffesaker etter [straffeprosessloven](lov/1981-05-22-25),private forsikringer som omfatter rettshjelp,[forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger,etablerte offentlige service- og rådgivningskontorer og tvisteløsningsorganer,det offentliges opplysnings- og veiledningsplikt, jf. bl.a. [forvaltningsloven § 11](lov/1967-02-10/§11),medlemskap i foreninger og lag,private eller offentlige rettshjelpsordninger i andre land.
+Fri rettshjelp omfatter ikke bistand som dekkes av andre ordninger eller som kan erstattes på annen måte, herunder gjennom:
+
+- oppnevning av forsvarer eller bistandsadvokat i straffesaker etter [straffeprosessloven](lov/1981-05-22-25),
+- private forsikringer som omfatter rettshjelp,
+- [forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger,
+- etablerte offentlige service- og rådgivningskontorer og tvisteløsningsorganer,
+- det offentliges opplysnings- og veiledningsplikt, jf. bl.a. [forvaltningsloven § 11](lov/1967-02-10/§11),
+- medlemskap i foreninger og lag,
+- private eller offentlige rettshjelpsordninger i andre land.
 
 [§ 11 første ledd nr. 1](lov/1980-06-13-35/§11/ledd/1/nummer/1) skal lyde:
 
@@ -59,7 +67,9 @@ i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven
 
 [§ 11 andre ledd nr. 6](lov/1980-06-13-35/§11/ledd/2/nummer/6) og [7](lov/1967-02-10/§11/ledd/2/nummer/7) skal lyde:
 
-for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
+for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.
+
+for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
 
 [§ 11 fjerde ledd](lov/1980-06-13-35/§11/ledd/4) skal lyde:
 
@@ -71,11 +81,15 @@ Det innvilges ikke fritt rettsråd etter første ledd dersom det er urimelig at 
 
 [§ 16 første ledd nr. 4](lov/1980-06-13-35/§16/ledd/1/nummer/4) og [5](lov/2005-05-20-28/§16/ledd/1/nummer/5) skal lyde:
 
-for utlending i tilfeller som nevnt i [utlendingsloven § 92](lov/2008-05-15-35/§92) [tredje](lov/2008-05-15-35/§92/ledd/3) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4) og [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd annet](lov/2005-06-10-51/§27/ledd/7/setning/2) eller [tredje punktum](lov/2005-06-10-51/§27/ledd/7/setning/3),til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter [vergemålsloven § 76 første ledd](lov/2010-03-26-9/§76/ledd/1).
+for utlending i tilfeller som nevnt i [utlendingsloven § 92](lov/2008-05-15-35/§92) [tredje](lov/2008-05-15-35/§92/ledd/3) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4) og [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd annet](lov/2005-06-10-51/§27/ledd/7/setning/2) eller [tredje punktum](lov/2005-06-10-51/§27/ledd/7/setning/3),
+
+til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter [vergemålsloven § 76 første ledd](lov/2010-03-26-9/§76/ledd/1).
 
 [§ 16 andre ledd nr. 5](lov/1980-06-13-35/§16/ledd/2/nummer/5) og ny nr. 6 skal lyde:
 
-saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig,saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
+saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig,
+
+saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
 
 [§ 16 fjerde](lov/1980-06-13-35/§16/ledd/4) og [femte ledd](lov/2005-05-20-28/§16/ledd/5) skal lyde:
 

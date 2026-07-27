@@ -32,7 +32,14 @@ Norske fartøy som har tillatelse til å fiske patagonisk tannfisk (Dissostichus
 
 ## § 3. Krav til fangstdokument
 
-Fangstdokument utgis av Fiskeridirektoratet og skal inneholde følgende opplysninger:navn, adresse, telefon- og faksnummer til Fiskeridirektoratet,fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype, fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,tidsperioden (fra dato til dato) da fangsten ble tatt,dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, ognavn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
+Fangstdokument utgis av Fiskeridirektoratet og skal inneholde følgende opplysninger:
+
+1. navn, adresse, telefon- og faksnummer til Fiskeridirektoratet,
+2. fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,
+3. vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype, fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,
+4. tidsperioden (fra dato til dato) da fangsten ble tatt,
+5. dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, og
+6. navn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
 
 ## § 4. Utfylling av fangstdokument
 

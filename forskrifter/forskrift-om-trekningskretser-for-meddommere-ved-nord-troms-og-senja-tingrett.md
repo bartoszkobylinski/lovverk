@@ -24,7 +24,30 @@ eu_basis: []
 
 ## § 1.
 
-Nord-Troms og Senja tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:Trekningskrets 1 Nord-Troms, sør (rettssted Tromsø)Balsfjord kommuneKarlsøy kommuneLyngen kommuneOmasvuotna/Storfjord/Omasvuono kommuneTromsø kommune.Trekningskrets 2 Nord-Troms, nord (rettssted Tromsø)Gáivuotna/Kåfjord/Kaivuno kommuneNordreisa/Ráisa/Raisi kommuneSkjervøy kommune.Trekningskrets 3 Senja (rettssted Finnsnes)Bardu kommuneDyrøy kommuneMålselv kommuneSenja kommuneSørreisa kommune.Trekningskrets 4 Svalbard (rettssted Tromsø)Svalbard (Longyearbyen lokalstyre).
+Nord-Troms og Senja tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
+
+- Trekningskrets 1 Nord-Troms, sør (rettssted Tromsø)
+
+  - Balsfjord kommune
+  - Karlsøy kommune
+  - Lyngen kommune
+  - Omasvuotna/Storfjord/Omasvuono kommune
+  - Tromsø kommune.
+- Trekningskrets 2 Nord-Troms, nord (rettssted Tromsø)
+
+  - Gáivuotna/Kåfjord/Kaivuno kommune
+  - Nordreisa/Ráisa/Raisi kommune
+  - Skjervøy kommune.
+- Trekningskrets 3 Senja (rettssted Finnsnes)
+
+  - Bardu kommune
+  - Dyrøy kommune
+  - Målselv kommune
+  - Senja kommune
+  - Sørreisa kommune.
+- Trekningskrets 4 Svalbard (rettssted Tromsø)
+
+  - Svalbard (Longyearbyen lokalstyre).
 
 > Endret ved forskrift [29 nov 2021 nr. 3328](forskrift/2021-11-29-3328) (i kraft 1 jan 2022).
 

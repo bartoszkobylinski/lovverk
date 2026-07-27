@@ -22,9 +22,15 @@ eu_basis: []
 
 # Delegering av myndighet til kommunen og statsforvalteren etter plantevernmiddelforskriften
 
-Mattilsynet delegerer med dette følgende myndighet til samtlige av landets kommuner og statsforvaltere:Myndighet til å holde eksamen og utstede autorisasjonsbevis for plantevernmidler og tilleggsbevis for gnagermidler, herunder å sørge for at det arrangeres autorisasjonskurs jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 9](forskrift/2015-05-06-455/§9) annet ledd, jf. [§ 8](forskrift/2015-05-06-455/§8) og [§ 8a](forskrift/2015-05-06-455/§8a).
+Mattilsynet delegerer med dette følgende myndighet til samtlige av landets kommuner og statsforvaltere:
 
-Mattilsynet delegerer med dette følgende myndighet til samtlige av landets kommuner:Myndighet til å fatte vedtak om tillatelse til spredning av plantevernmidler fra luftfartøy jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 18](forskrift/2015-05-06-455/§18) første ledd jf. [§ 17](forskrift/2015-05-06-455/§17) annet ledd.Myndighet til å fatte vedtak om tillatelse til spredning av plantevernmidler i kantsoner og på åkerholmer som ledd i skjøtselen av kulturlandskapet, jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 19](forskrift/2015-05-06-455/§19) annet ledd.Myndighet til å fatte vedtak om tillatelse til å spre plantevernmidler på sprøytefelt i utmark som er 15 dekar eller større, jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 22](forskrift/2015-05-06-455/§22) annet ledd.
+- Myndighet til å holde eksamen og utstede autorisasjonsbevis for plantevernmidler og tilleggsbevis for gnagermidler, herunder å sørge for at det arrangeres autorisasjonskurs jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 9](forskrift/2015-05-06-455/§9) annet ledd, jf. [§ 8](forskrift/2015-05-06-455/§8) og [§ 8a](forskrift/2015-05-06-455/§8a).
+
+Mattilsynet delegerer med dette følgende myndighet til samtlige av landets kommuner:
+
+- Myndighet til å fatte vedtak om tillatelse til spredning av plantevernmidler fra luftfartøy jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 18](forskrift/2015-05-06-455/§18) første ledd jf. [§ 17](forskrift/2015-05-06-455/§17) annet ledd.
+- Myndighet til å fatte vedtak om tillatelse til spredning av plantevernmidler i kantsoner og på åkerholmer som ledd i skjøtselen av kulturlandskapet, jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 19](forskrift/2015-05-06-455/§19) annet ledd.
+- Myndighet til å fatte vedtak om tillatelse til å spre plantevernmidler på sprøytefelt i utmark som er 15 dekar eller større, jf. [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler [§ 22](forskrift/2015-05-06-455/§22) annet ledd.
 
 Vedtaket trer i kraft fra 1. juni 2015.
 

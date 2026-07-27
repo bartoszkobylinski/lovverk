@@ -15,7 +15,7 @@ xml_hash: "b67d3d1b285e681238332e54ebe7c52ae4ae656f7d91526473806983862c4653"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,9 @@ eu_basis: []
 
 (2) Forskriften gjelder for opptak og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har studierett og status som student ved fagskolen.
 
-1 [Lov 8. juni 2018 nr. 28](lov/2018-06-08-28) om høyere yrkesfaglig utdanning.2 [Forskrift 11. juli 2019 nr. 1005](forskrift/2019-07-11-1005) om høyere yrkesfaglig utdanning.
+1 [Lov 8. juni 2018 nr. 28](lov/2018-06-08-28) om høyere yrkesfaglig utdanning.
+
+2 [Forskrift 11. juli 2019 nr. 1005](forskrift/2019-07-11-1005) om høyere yrkesfaglig utdanning.
 
 ### § 1-2. Definisjoner
 
@@ -42,7 +44,10 @@ eu_basis: []
 
 ### § 2-1. Kriterier for opptak
 
-(1) For opptak på grunnlag av formell kompetanse kreves entenfullført og bestått videregående opplæring innen helse- og oppvekstfag, med fagbrev som helsefagarbeider eller omsorgsarbeider, ellervitnemål for yrkeskompetanse som hjelpepleier eller aktivitør.
+(1) For opptak på grunnlag av formell kompetanse kreves enten
+
+1. fullført og bestått videregående opplæring innen helse- og oppvekstfag, med fagbrev som helsefagarbeider eller omsorgsarbeider, eller
+2. vitnemål for yrkeskompetanse som hjelpepleier eller aktivitør.
 
 (2) Søkere med utenlandsk fag- eller yrkesopplæring kan gis opptak på grunnlag av formell kompetanse dersom opplæringen er godkjent som sidestilt med norsk vitnemål eller fagbrev som nevnt i første ledd. Søkere må være autorisert som helsepersonell i Norge.
 
@@ -54,7 +59,9 @@ eu_basis: []
 
 > Endret ved forskrift [26 juni 2023 nr. 1313](forskrift/2023-06-26-1313) (i kraft 15 aug 2023).
 
-1 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (1).2 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (2).
+1 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (1).
+
+2 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (2).
 
 ### § 2-2. Gjennomføring av opptak
 
@@ -96,7 +103,12 @@ For reservasjon av studieplass vises det til fagskoleforskriften § 13.
 
 ### § 2-6. Krav om politiattest
 
-(1) Studenter ved fagskolen som får tilbud om opptak til utdanningenedemensomsorg og alderspsykiatri, ellerutviklingshemning, miljøarbeid og aldring,må fremlegge politiattest som nevnt i [helsepersonelloven § 20a](lov/1999-07-02-64/§20a)1 og [helse- og omsorgstjenesteloven § 5-4](lov/2011-06-24-30/§5-4)2.
+(1) Studenter ved fagskolen som får tilbud om opptak til utdanningene
+
+1. demensomsorg og alderspsykiatri, eller
+2. utviklingshemning, miljøarbeid og aldring,
+
+må fremlegge politiattest som nevnt i [helsepersonelloven § 20a](lov/1999-07-02-64/§20a)1 og [helse- og omsorgstjenesteloven § 5-4](lov/2011-06-24-30/§5-4)2.
 
 (2) Alle søkere som får tilbud om plass ved utdanningene nevnt i første ledd, skal sende politiattest til fagskolen innen fire uker fra tilbudet kommer frem. Politiattesten må ikke være eldre enn tre måneder på tidspunktet for fremleggelse av attesten.
 
@@ -110,11 +122,18 @@ For reservasjon av studieplass vises det til fagskoleforskriften § 13.
 
 > Endret ved forskrift [26 juni 2023 nr. 1313](forskrift/2023-06-26-1313) (i kraft 15 aug 2023).
 
-1 [Lov 2. juli 1999 nr. 64 om helsepersonell](lov/1999-07-02-64).2[Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m.](lov/2011-06-24-30)
+1 [Lov 2. juli 1999 nr. 64 om helsepersonell](lov/1999-07-02-64).
+
+2[Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m.](lov/2011-06-24-30)
 
 ### § 2-7. Skikkethetsvurdering
 
-(1) Det skal foretas skikkethetsvurderinger av studentene ved utdanningenedemensomsorg og alderspsykiatriutviklingshemning, miljøarbeid og aldringetter [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5), både ved opptak og løpende gjennom hele fagskoleutdanningen. Den lokale klagenemnda kan fatte vedtak om at en student ikke er skikket for yrket og at studenten skal utestenges fra utdanningen i inntil fem år etter en særskilt skikkethetsvurdering. Saksbehandlingen for både den løpende og den særskilte skikkethetsvurderingen følger av [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5).
+(1) Det skal foretas skikkethetsvurderinger av studentene ved utdanningene
+
+1. demensomsorg og alderspsykiatri
+2. utviklingshemning, miljøarbeid og aldring
+
+etter [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5), både ved opptak og løpende gjennom hele fagskoleutdanningen. Den lokale klagenemnda kan fatte vedtak om at en student ikke er skikket for yrket og at studenten skal utestenges fra utdanningen i inntil fem år etter en særskilt skikkethetsvurdering. Saksbehandlingen for både den løpende og den særskilte skikkethetsvurderingen følger av [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5).
 
 (2) Vedtak etter denne bestemmelsen fattes av den lokale klagenemnda, og kan påklages til den nasjonale klagenemnda etter bestemmelsene i denne forskriftens [kapittel 4](forskrift/2019-12-13-1794/kap4). Klagen sendes til den lokale klagenemnda.
 
@@ -221,7 +240,11 @@ En student kan klage over formelle feil ved eksamen innen tre uker etter at stud
 
 (1) For annullering av eksamen eller annet arbeid på grunn av fusk eller forsettlig forsøk på fusk se [fagskoleloven § 24](lov/2018-06-08-28/§24) andre ledd.
 
-(2) Fusk kan være å:bruke hjelpemidler som ikke er tillatt på eksamenutgi andres arbeid som egetsitere kilder uten å benytte kildehenvisning.
+(2) Fusk kan være å:
+
+1. bruke hjelpemidler som ikke er tillatt på eksamen
+2. utgi andres arbeid som eget
+3. sitere kilder uten å benytte kildehenvisning.
 
 (3) Dersom det under vurdering oppstår mistanke om fusk eller forsettlig forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte vurderingen.
 

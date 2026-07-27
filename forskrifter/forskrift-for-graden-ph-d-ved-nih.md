@@ -15,7 +15,7 @@ xml_hash: "61e20e8cd5739cd965c80e1d9919a9d89c6678d83dc8fd9eb6f17557d8f90acc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,15 @@ Styret ved NIH har gitt Komité for forskerutdanning (KFU) ansvaret for doktorgr
 
 Doktorgradsutdanningen er i hovedsak aktivt forskningsarbeid under veiledning.
 
-Doktorgradsutdanningen omfatter:Gjennomføring av et selvstendig forskningsarbeid i aktivt samarbeid med veileder(e).En godkjent opplæringsdel.Deltakelse i aktive forskermiljøer.Faglig formidling nasjonalt og internasjonalt som er nært relatert til det pågående doktorgradsarbeid.
+Doktorgradsutdanningen omfatter:
+
+Gjennomføring av et selvstendig forskningsarbeid i aktivt samarbeid med veileder(e).
+
+En godkjent opplæringsdel.
+
+Deltakelse i aktive forskermiljøer.
+
+Faglig formidling nasjonalt og internasjonalt som er nært relatert til det pågående doktorgradsarbeid.
 
 ## § 5. Opptak
 
@@ -56,7 +64,17 @@ Søkere som kan dokumentere omfattende idrettsvitenskapelig kunnskap kan i særs
 
 *Søknaden*
 
-Søknad om opptak skal inneholde:ProsjektbeskrivelseFremdriftsplan for gjennomføring av utdanningenFinansieringsplanRedegjørelse for nødvendig infrastrukturRedegjørelse for veiledningsbehov og forslag til veiledereEventuelle planer for opphold ved andre, herunder utenlandske, forskningsinstitusjoner eller virksomheterPlan for faglig formidlingDokumentasjon av den utdanning som skal ligge til grunn for opptaketOpplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+Søknad om opptak skal inneholde:
+
+1. Prosjektbeskrivelse
+2. Fremdriftsplan for gjennomføring av utdanningen
+3. Finansieringsplan
+4. Redegjørelse for nødvendig infrastruktur
+5. Redegjørelse for veiledningsbehov og forslag til veiledere
+6. Eventuelle planer for opphold ved andre, herunder utenlandske, forskningsinstitusjoner eller virksomheter
+7. Plan for faglig formidling
+8. Dokumentasjon av den utdanning som skal ligge til grunn for opptaket
+9. Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
 
 Institusjonen fastsetter søknadsskjema.
 
@@ -86,7 +104,10 @@ Opptaket kan skje med forbehold om finansiering, opptakskapasitet, utarbeidelse 
 
 I opptaksvedtaket skal veileder oppnevnes, ansvaret for løsningen av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastlegges med startdato og varighet. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt.
 
-Opptak kan nektes dersom:opphavsrettslige avtaler er til hinder for publisering og åpen disputasde immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet.
+Opptak kan nektes dersom:
+
+- opphavsrettslige avtaler er til hinder for publisering og åpen disputas
+- de immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet.
 
 KFU er ansvarlig for avgjørelser angående opptak til doktorgradsutdanningen, KFU har også den endelige avgjørelse når det gjelder krav om særskilt prøve før opptak eller tilleggskrav til opplæringsdelen i programmet etter anbefaling fra den seksjon kandidaten skal knyttes til.
 
@@ -156,7 +177,11 @@ Høgskolen kan gjennomføre årlige kurs/seminar for doktorgradsstudentene.
 
 *Formidling (5 studiepoeng)*
 
-Det stilles krav om at dr.gradsstudenten i løpet av studiet utfører faglig formidling enten ved:Forelesninger eller seminar på til sammen 15-20 timerEt populærvitenskapelig arbeidAnnet formidlingsarbeid som utstillinger, videoer eller lignende.
+Det stilles krav om at dr.gradsstudenten i løpet av studiet utfører faglig formidling enten ved:
+
+1. Forelesninger eller seminar på til sammen 15-20 timer
+2. Et populærvitenskapelig arbeid
+3. Annet formidlingsarbeid som utstillinger, videoer eller lignende.
 
 Det skal gis veiledning i tilknytning til dr.gradsstudentenes formidlingsoppgaver. Omfanget av veiledningen skal nedfelles i avtale for doktorgradsutdanningen.
 
@@ -228,7 +253,11 @@ Dersom en Ph.D.-student ikke har levert avhandlingen til bedømmelse innen 8 år
 
 ## § 13. Bedømmelse
 
-Doktorgraden tildeles på grunnlag av:Godkjent vitenskapelig avhandling og et tilfredsstillende forsvar i en offentlig disputasGodkjent gjennomføring av opplæringsprogrammet, ev. annen godkjent faglig skolering eller kompetanseGodkjent prøveforelesning over oppgitt emne.
+Doktorgraden tildeles på grunnlag av:
+
+- Godkjent vitenskapelig avhandling og et tilfredsstillende forsvar i en offentlig disputas
+- Godkjent gjennomføring av opplæringsprogrammet, ev. annen godkjent faglig skolering eller kompetanse
+- Godkjent prøveforelesning over oppgitt emne.
 
 ## § 14. Innlevering
 
@@ -242,7 +271,12 @@ Søknaden om å få avhandlingen bedømt sendes Norges idrettshøgskole v/Avdeli
 
 ## § 15. Oppnevning av bedømmelseskomité
 
-Til å bedømme avhandlingen oppnevner institusjonen en sakkyndig bedømmelseskomité på minst tre medlemmer. Komiteen skal settes sammen slik at:begge kjønn, såfremt mulig, er representertminst ett av medlemmene er uten tilknytning til institusjonenminst ett av medlemmene, såfremt mulig, er utenlandskalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Til å bedømme avhandlingen oppnevner institusjonen en sakkyndig bedømmelseskomité på minst tre medlemmer. Komiteen skal settes sammen slik at:
+
+- begge kjønn, såfremt mulig, er representert
+- minst ett av medlemmene er uten tilknytning til institusjonen
+- minst ett av medlemmene, såfremt mulig, er utenlandsk
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Grunnenhet eller fagmiljø foreslår bedømmelseskomité. Forslaget skal begrunnes og bør vise til hvordan komiteen samlet sett dekker avhandlingens fagfelt.
 
@@ -342,6 +376,8 @@ Ved klage på avslag på søknad om godkjenning av kurs eller andre deler av opp
 
 Klage vedrørende godkjenning av kurs eller andre deler av opplæringsprogrammet oversendes KFU. Dersom KFU opprettholder tidligere avgjørelse/vedtak, kan klagen ankes til Den sentrale klagenemnd.
 
-Klage på eksamen i opplæringsprogrammet behandles etter lov om universiteter og høyskoler og NIHs forskrift om opptak, studier og eksamen.*Klage på avslag på søknad om bedømmelse eller underkjenning av avhandling, prøveforelesning eller forsvar*
+Klage på eksamen i opplæringsprogrammet behandles etter lov om universiteter og høyskoler og NIHs forskrift om opptak, studier og eksamen.
+
+*Klage på avslag på søknad om bedømmelse eller underkjenning av avhandling, prøveforelesning eller forsvar*
 
 Underkjenning av avhandling, prøveforelesning eller forsvar kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) flg. Grunngitt klage sendes institusjonen. Institusjonen kan prøve alle sider ved det påklagede vedtak.

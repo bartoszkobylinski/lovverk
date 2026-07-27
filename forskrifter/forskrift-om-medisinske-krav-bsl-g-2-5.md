@@ -15,7 +15,7 @@ xml_hash: "5c3cb90c1706f7319f352a83d02f64009112696347ecaae439f00b27a7b3e731"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,14 @@ De medisinske undersøkelser skal utføres av lege oppnevnt av Flymedisinsk Seks
 
 3.2
 
-AFIS- eller HFIS-fullmektig/operatør skal etter gjennomførte medisinske undersøkelser tilfredsstille følgende medisinske krav:generelle helsekravsynskravfargesanskravhørselskrav,jf. pkt. 4 til og med 7.1.
+AFIS- eller HFIS-fullmektig/operatør skal etter gjennomførte medisinske undersøkelser tilfredsstille følgende medisinske krav:
+
+1. generelle helsekrav
+2. synskrav
+3. fargesanskrav
+4. hørselskrav,
+
+jf. pkt. 4 til og med 7.1.
 
 3.3
 
@@ -117,17 +124,32 @@ Luftfartstilsynet ved Flymedisinsk Seksjon kan når den finner grunn til det, fo
 
 4.1
 
-Søkeren skal ikke fremvise tegn til sykdom eller funksjonsforstyrrelse som kan medføre at tjenesten ikke kan utføres på en sikker måte:medfødt eller ervervet defekt eller lyteaktiv, latent, akutt eller kronisk funksjonsforstyrrelseskade eller tilstand som følge av kirurgisk inngrep som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte.
+Søkeren skal ikke fremvise tegn til sykdom eller funksjonsforstyrrelse som kan medføre at tjenesten ikke kan utføres på en sikker måte:
+
+1. medfødt eller ervervet defekt eller lyte
+2. aktiv, latent, akutt eller kronisk funksjonsforstyrrelse
+3. skade eller tilstand som følge av kirurgisk inngrep som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte.
 
 4.2*Mentale forhold og nervesystem*
 
 4.2.1
 
-Aktuell eller tidligere sykdomstilstand som nevnt nedenfor, og som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte, medfører udyktighet:psykosealkoholismeandre former for misbruk av stimulerende eller bedøvende midlerpersonlighetsforstyrrelse av alvorlig artmental abnormitet eller nevrose.
+Aktuell eller tidligere sykdomstilstand som nevnt nedenfor, og som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte, medfører udyktighet:
+
+1. psykose
+2. alkoholisme
+3. andre former for misbruk av stimulerende eller bedøvende midler
+4. personlighetsforstyrrelse av alvorlig art
+5. mental abnormitet eller nevrose.
 
 4.2.2
 
-Søkeren skal ikke ha noen anamnestisk eller diagnostisert sykdom som nevnt nedenfor:aktiv eller latent sykdom i nervesystemetepilepsi eller øket risiko for andre krampetilstanderbevissthetsforstyrrelse eller bevissthetstap uten tilfredsstillende medisinsk forklaringalvorlig hjerne- eller hodeskader.
+Søkeren skal ikke ha noen anamnestisk eller diagnostisert sykdom som nevnt nedenfor:
+
+1. aktiv eller latent sykdom i nervesystemet
+2. epilepsi eller øket risiko for andre krampetilstander
+3. bevissthetsforstyrrelse eller bevissthetstap uten tilfredsstillende medisinsk forklaring
+4. alvorlig hjerne- eller hodeskader.
 
 4.3*Hjerte- og sirkulasjonsorganer*
 
@@ -203,7 +225,13 @@ Aktiv sykdom i øynene, tilgrensende strukturer og i øynenes bevegelsesapparat 
 
 4.12.1
 
-Søkeren skal ikke ha noen betydningsfull funksjonsforstyrrelse av organene nevnt nedenfor:nesebortrommehinner, mellomøre og indre øretuba Eustachiivestibularisapparatetmunnhule og øvre luftveier.
+Søkeren skal ikke ha noen betydningsfull funksjonsforstyrrelse av organene nevnt nedenfor:
+
+1. nesebor
+2. trommehinner, mellomøre og indre øre
+3. tuba Eustachii
+4. vestibularisapparatet
+5. munnhule og øvre luftveier.
 
 4.12.2
 
@@ -217,7 +245,12 @@ Søkeren skal ha normale synsfelt.
 
 5.2
 
-Søkeren skal ha en synsstyrke (fjern) på hvert øye for seg, med eller uten korreksjon, som ikke er dårligere enn 6/12 (20/40, 0,5). Hvis minste tillatte synsstyrke bare kan oppnås med korreksjon, kan søkeren godkjennes under forutsetning av at følgende krav oppfylles:søkerens synsstyrke uten korreksjon på hvert øye for seg, ikke er dårligere enn 6/60 (20/200, 0,1)øyets refraksjon i akkomodasjonshvile ikke overstiger +5 til -8 dioptrier i noen meridiankorreksjonsglass bæres under tjenesteutøvelsenden nødvendige korreksjon ikke medfører dobbeltsyn.
+Søkeren skal ha en synsstyrke (fjern) på hvert øye for seg, med eller uten korreksjon, som ikke er dårligere enn 6/12 (20/40, 0,5). Hvis minste tillatte synsstyrke bare kan oppnås med korreksjon, kan søkeren godkjennes under forutsetning av at følgende krav oppfylles:
+
+1. søkerens synsstyrke uten korreksjon på hvert øye for seg, ikke er dårligere enn 6/60 (20/200, 0,1)
+2. øyets refraksjon i akkomodasjonshvile ikke overstiger +5 til -8 dioptrier i noen meridian
+3. korreksjonsglass bæres under tjenesteutøvelsen
+4. den nødvendige korreksjon ikke medfører dobbeltsyn.
 
 5.3
 
@@ -249,7 +282,10 @@ Søker som ikke har normal fargesans kan godkjennes når prøve med fargelantern
 
 7.1
 
-Av søkeren kreves:hørselen skal, undersøkt på hvert øre for seg, ikke være nedsatt med mer enn 35 dB ved frekvensene 500, 1.000, 2.000 Hz, og ikke mer enn 50 dB ved 3.000 Hz.hvis søkeren ikke oppfyller ovennevnte krav, kan godkjenning gis under forutsetning av at: søkeren med ryggen vendt mot den undersøkende lege oppfatter vanlig tale på 2 m avstand på hvert øre for seg, i et lokale hvor bakgrunnsstøyen er mindre enn 50 dB.
+Av søkeren kreves:
+
+1. hørselen skal, undersøkt på hvert øre for seg, ikke være nedsatt med mer enn 35 dB ved frekvensene 500, 1.000, 2.000 Hz, og ikke mer enn 50 dB ved 3.000 Hz.
+2. hvis søkeren ikke oppfyller ovennevnte krav, kan godkjenning gis under forutsetning av at: søkeren med ryggen vendt mot den undersøkende lege oppfatter vanlig tale på 2 m avstand på hvert øre for seg, i et lokale hvor bakgrunnsstøyen er mindre enn 50 dB.
 
 8*Dispensasjon*
 

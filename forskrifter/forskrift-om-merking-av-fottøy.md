@@ -15,7 +15,7 @@ xml_hash: "d08312df2a687f9876161936f02ccede14de3442c8e7563fbffc28ca804e4def"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Med «fottøy» menes alle varer som er utstyrt med såle og beregnet på å bes
 
 En eksempelliste over varer som er omfattet i denne forskriften, er oppført i vedlegg II.
 
-Forskriften omfatter ikkebrukt fottøy,vernefottøy som omfattes av [forskrift av 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr,fottøy som har karakter av leketøy og omfattes av forskrift av 30. desember 1992 og [10. mai 1993 nr. 338](forskrift/1993-05-10-338) om sikkerheten ved leketøy.
+Forskriften omfatter ikke
+
+- brukt fottøy,
+- vernefottøy som omfattes av [forskrift av 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr,
+- fottøy som har karakter av leketøy og omfattes av forskrift av 30. desember 1992 og [10. mai 1993 nr. 338](forskrift/1993-05-10-338) om sikkerheten ved leketøy.
 
 ## § 2. Forbud
 
@@ -38,7 +42,11 @@ Det er forbudt å markedsføre, selge eller framby til salg, fottøy som ikke er
 
 ## § 3. Krav til merking
 
-Merkingen skal inneholde opplysninger om sammensetningen av følgende tre deler av fottøyet:overdelen,fôret og innersålen/bindsålen, ogyttersålen.
+Merkingen skal inneholde opplysninger om sammensetningen av følgende tre deler av fottøyet:
+
+1. overdelen,
+2. fôret og innersålen/bindsålen, og
+3. yttersålen.
 
 Merkingen skal inneholde opplysninger om det materiale som utgjør minst 80% av overflaten av overdelen, fôret og innersålen/bindsålen av fottøyet og minst 80% av innholdet i yttersålen. Dersom ikke ett materiale utgjør minst 80%, skal det gis opplysninger om de to hovedmaterialene fottøyet er sammensatt av.
 
@@ -177,6 +185,16 @@ Piktogrammene til materialene skal vises på merkingen i nærheten av piktogramm
 
 ## Vedlegg II. Eksempler på fottøy som omfattes av denne forskrift
 
-«Fottøy» kan variere fra sandaler med en overdel av bare løse lisser eller bånd, til lårhøye støvler med overdel som dekker legg og lår. Denne betegnelsen omfatter altså særligflate eller høyhælte sko eller sko uten hæl, til innendørs eller utendørs bruk,ankelstøvler, halvhøye støvler, knehøye støvler og lårhøye støvler,sandaler av ulike slag, «espadrillos» (sko med overdel av lerret og med såle av flettet plantemateriale), tennissko, løpesko og andre sportssko, badesandaler og annet fottøy til fritidsbruk,spesialfottøy for sport som er utstyrt med eller som kan utstyres med pigger, knotter, brodder og lignende, samt skøytestøvler, skistøvler, brytestøvler, boksestøvler og sykkelsko. Sammensatte artikler av sko og skøyter (isskøyter eller rulleskøyter) er også omfattet,dansesko,sko formet i ett enkelt stykke, særlig ved støping av gummi eller plast, unntatt engangsartikler av lette materialer (papir, plastfilm, etc. uten påsatte såler),overtrekkssko til bruk utenpå annet fottøy og som i noen tilfeller er uten hæl,engangsfottøy med påsatte såler, spesielt beregnet på å bli brukt en enkelt gang,ortopedisk fottøy.
+«Fottøy» kan variere fra sandaler med en overdel av bare løse lisser eller bånd, til lårhøye støvler med overdel som dekker legg og lår. Denne betegnelsen omfatter altså særlig
+
+1. flate eller høyhælte sko eller sko uten hæl, til innendørs eller utendørs bruk,
+2. ankelstøvler, halvhøye støvler, knehøye støvler og lårhøye støvler,
+3. sandaler av ulike slag, «espadrillos» (sko med overdel av lerret og med såle av flettet plantemateriale), tennissko, løpesko og andre sportssko, badesandaler og annet fottøy til fritidsbruk,
+4. spesialfottøy for sport som er utstyrt med eller som kan utstyres med pigger, knotter, brodder og lignende, samt skøytestøvler, skistøvler, brytestøvler, boksestøvler og sykkelsko. Sammensatte artikler av sko og skøyter (isskøyter eller rulleskøyter) er også omfattet,
+5. dansesko,
+6. sko formet i ett enkelt stykke, særlig ved støping av gummi eller plast, unntatt engangsartikler av lette materialer (papir, plastfilm, etc. uten påsatte såler),
+7. overtrekkssko til bruk utenpå annet fottøy og som i noen tilfeller er uten hæl,
+8. engangsfottøy med påsatte såler, spesielt beregnet på å bli brukt en enkelt gang,
+9. ortopedisk fottøy.
 
 For å oppnå ensartethet og klarhet, og med forbehold for bestemmelsene nevnt i beskrivelsen av produktene som omfattes av dette direktiv, kan produktene som omfattes av kapittel 64 i den kombinerte nomenklatur som hovedregel anses som å høre inn under denne forskrifts virkeområde.

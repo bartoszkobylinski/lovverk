@@ -15,7 +15,7 @@ xml_hash: "1885d653d06670b632caef4c9281600a09c8b294a4ac7c494ea687b21917542d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,13 +28,44 @@ eu_basis: []
 
 Forskriften gjelder pyrotekniske artikler, krav til markedsdeltakere som bringer pyrotekniske artikler i omsetning eller gjør pyrotekniske artikler tilgjengelig på markedet, og krav til samsvarsvurderingsorganer.
 
-Unntatt fra forskriften er:Pyrotekniske artikler beregnet til ikke-kommersiell bruk i henhold til nasjonal lovgivning av de væpnede styrker, politiet eller brannvesenetUtstyr i henhold til direktiv [96/98/EF](eu/31996l0098*) om skipsutstyrPyrotekniske artikler beregnet til bruk i luft- og romfartsindustrienKnallhetter spesielt beregnet til leketøy, som er omfattet av direktiv [2009/48/EF](eu/32009l0048*) om sikkerhetskrav til leketøyEksplosive varer i henhold til direktiv [93/15/EØF](eu/31993l0015*) om markedsføring av og kontroll med eksplosive varer til sivilt brukAmmunisjonFyrverkeri produsert for produsentens egen bruk og som er godkjent av tilsynsmyndigheten.
+Unntatt fra forskriften er:
+
+1. Pyrotekniske artikler beregnet til ikke-kommersiell bruk i henhold til nasjonal lovgivning av de væpnede styrker, politiet eller brannvesenet
+2. Utstyr i henhold til direktiv [96/98/EF](eu/31996l0098*) om skipsutstyr
+3. Pyrotekniske artikler beregnet til bruk i luft- og romfartsindustrien
+4. Knallhetter spesielt beregnet til leketøy, som er omfattet av direktiv [2009/48/EF](eu/32009l0048*) om sikkerhetskrav til leketøy
+5. Eksplosive varer i henhold til direktiv [93/15/EØF](eu/31993l0015*) om markedsføring av og kontroll med eksplosive varer til sivilt bruk
+6. Ammunisjon
+7. Fyrverkeri produsert for produsentens egen bruk og som er godkjent av tilsynsmyndigheten.
 
 Forskriften gjelder ikke på Svalbard.
 
 ### § 2. Definisjoner
 
-I forskriften menes med*pyroteknisk artikkel:* artikkel som inneholder eksplosjonsfarlig stoff eller en eksplosiv blanding av stoffer beregnet til å utvikle varme, lys, lyd, gass eller røyk eller en kombinasjon av disse ved hjelp av eksoterme kjemiske reaksjoner, som holder seg selv i gang*akkreditering:* en attestering fra Norsk akkreditering om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, herunder dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet*ammunisjon:* prosjektiler, drivladninger og løs ammunisjon brukt i håndvåpen, andre skytevåpen og artilleri*bringe i omsetning:* gjøre en pyroteknisk artikkel tilgjengelig innenfor EØS for første gang*CE-merking:* merking der produsenten angir at en pyroteknisk artikkel oppfyller gjeldende krav fastsatt i EØS' harmoniseringsregelverk for slik merking*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør en pyroteknisk artikkel tilgjengelig på markedet*EØS' harmoniseringsregelverk:* alt EØS-regelverk som harmoniserer vilkårene for markedsføring av produkter*fyrverkeri:* pyroteknisk artikkel beregnet til underholdning*gjøre tilgjengelig på markedet:* enhver levering av en pyroteknisk artikkel for distribusjon, forbruk eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*harmonisert standard:* en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv*importør:* enhver fysisk eller juridisk person etablert innenfor EØS som bringer en pyroteknisk artikkel fra en tredjestat i omsetning innenfor EØS*markedsdeltakere:* produsenten, importøren og distributøren*produsent:* enhver fysisk eller juridisk person som produserer en pyroteknisk artikkel, eller som får en slik artikkel konstruert eller produsert, og som markedsfører artikkelen under sitt navn eller varemerke*profesjonell*: person, som har autorisasjon fra en EØS-stat til på den statens territorium å håndtere og/eller bruke fyrverkeri i kategori 4, scenefyrverkeri i kategori T2 og/eller andre pyrotekniske artikler i kategori P2*pyrotekniske artikler til kjøretøyer:* komponenter i sikkerhetsinnretninger i kjøretøyer som inneholder pyrotekniske stoffer beregnet til aktivering av disse eller andre innretninger i kjøretøyer*samsvarsvurdering:* en prosess for å fastslå om de grunnleggende sikkerhetskravene til en pyroteknisk artikkel er oppfylt*samsvarsvurderingsorgan:* et organ som utfører samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjon*scenefyrverkeri:* pyrotekniske artikler beregnet til innendørs eller utendørs scenebruk, herunder i forbindelse med film- og tv-produksjoner og lignende*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av en pyroteknisk artikkel*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av en pyroteknisk artikkel som allerede er gjort tilgjengelig for sluttbrukeren*tilbaketrekking:* ethvert tiltak med sikte på å hindre at en pyroteknisk artikkel i omsetningskjeden blir gjort tilgjengelig på markedet.
+I forskriften menes med
+
+1. *pyroteknisk artikkel:* artikkel som inneholder eksplosjonsfarlig stoff eller en eksplosiv blanding av stoffer beregnet til å utvikle varme, lys, lyd, gass eller røyk eller en kombinasjon av disse ved hjelp av eksoterme kjemiske reaksjoner, som holder seg selv i gang
+2. *akkreditering:* en attestering fra Norsk akkreditering om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, herunder dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet
+3. *ammunisjon:* prosjektiler, drivladninger og løs ammunisjon brukt i håndvåpen, andre skytevåpen og artilleri
+4. *bringe i omsetning:* gjøre en pyroteknisk artikkel tilgjengelig innenfor EØS for første gang
+5. *CE-merking:* merking der produsenten angir at en pyroteknisk artikkel oppfyller gjeldende krav fastsatt i EØS' harmoniseringsregelverk for slik merking
+6. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør en pyroteknisk artikkel tilgjengelig på markedet
+7. *EØS' harmoniseringsregelverk:* alt EØS-regelverk som harmoniserer vilkårene for markedsføring av produkter
+8. *fyrverkeri:* pyroteknisk artikkel beregnet til underholdning
+9. *gjøre tilgjengelig på markedet:* enhver levering av en pyroteknisk artikkel for distribusjon, forbruk eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+10. *harmonisert standard:* en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv
+11. *importør:* enhver fysisk eller juridisk person etablert innenfor EØS som bringer en pyroteknisk artikkel fra en tredjestat i omsetning innenfor EØS
+12. *markedsdeltakere:* produsenten, importøren og distributøren
+
+    1. *produsent:* enhver fysisk eller juridisk person som produserer en pyroteknisk artikkel, eller som får en slik artikkel konstruert eller produsert, og som markedsfører artikkelen under sitt navn eller varemerke
+13. *profesjonell*: person, som har autorisasjon fra en EØS-stat til på den statens territorium å håndtere og/eller bruke fyrverkeri i kategori 4, scenefyrverkeri i kategori T2 og/eller andre pyrotekniske artikler i kategori P2
+14. *pyrotekniske artikler til kjøretøyer:* komponenter i sikkerhetsinnretninger i kjøretøyer som inneholder pyrotekniske stoffer beregnet til aktivering av disse eller andre innretninger i kjøretøyer
+15. *samsvarsvurdering:* en prosess for å fastslå om de grunnleggende sikkerhetskravene til en pyroteknisk artikkel er oppfylt
+16. *samsvarsvurderingsorgan:* et organ som utfører samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjon
+17. *scenefyrverkeri:* pyrotekniske artikler beregnet til innendørs eller utendørs scenebruk, herunder i forbindelse med film- og tv-produksjoner og lignende
+18. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av en pyroteknisk artikkel
+19. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av en pyroteknisk artikkel som allerede er gjort tilgjengelig for sluttbrukeren
+20. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at en pyroteknisk artikkel i omsetningskjeden blir gjort tilgjengelig på markedet.
 
 ## Kapittel 2. Markedsdeltakere og tekniske krav til pyrotekniske artikler
 
@@ -58,7 +89,13 @@ Pyrotekniske artikler i alle kategorier kan gjøres tilgjengelig for profesjonel
 
 Kun fyrverkeri i kategori 1 og fyrverkeri som nevnt i vedlegg III kan gjøres tilgjengelig for forbruker.
 
-Pyrotekniske artikler skal ikke gjøres tilgjengelig for forbrukere under følgende alder:Fyrverkerikategori 1: 12 årkategori 2 og 3: 18 år.Pyrotekniske artikler i kategori P1 og scenefyrverkeri i kategori T1: 18 år.
+Pyrotekniske artikler skal ikke gjøres tilgjengelig for forbrukere under følgende alder:
+
+1. Fyrverkeri
+
+   1. kategori 1: 12 år
+   2. kategori 2 og 3: 18 år.
+2. Pyrotekniske artikler i kategori P1 og scenefyrverkeri i kategori T1: 18 år.
 
 ### § 5. Produsentens plikter knyttet til tekniske krav, merking og dokumentasjon
 
@@ -80,7 +117,22 @@ Produsenten skal sikre at de pyrotekniske artiklene er merket i overensstemmelse
 
 ### § 6. Kategorier
 
-Pyrotekniske artikler skal kategoriseres etter bruk, formål og risiko, herunder støynivå. Artiklene skal kategoriseres som følger:*Fyrverkeri**kategori 1:* fyrverkeri forbundet med lav risiko og minimalt støynivå, som er beregnet til bruk i fysisk begrensede områder, herunder fyrverkeri til innendørs bruk i boliger*kategori 2:* fyrverkeri forbundet med lav risiko og lavt støynivå, som er beregnet til utendørs bruk i fysisk begrensede områder*kategori 3:* fyrverkeri forbundet med middels risiko, som er beregnet til utendørs bruk i større, fysisk åpne områder og hvis støynivå ikke er helseskadelig*kategori 4:* fyrverkeri forbundet med høy risiko, som er beregnet til kun å bli brukt av profesjonelle og hvis støynivå ikke er helseskadelig.*Scenefyrverkeri**kategori T1:* pyrotekniske artikler til scenebruk med lav risiko*kategori T2:* pyrotekniske artikler til scenebruk, som er beregnet til kun å bli brukt av profesjonelle.*Andre pyrotekniske artikler**kategori P1:* andre pyrotekniske artikler enn fyrverkeri og scenefyrverkeri, som er forbundet med lav risiko*kategori P2:* andre pyrotekniske artikler enn fyrverkeri og scenefyrverkeri, som er beregnet til kun å bli håndtert eller brukt av profesjonelle.
+Pyrotekniske artikler skal kategoriseres etter bruk, formål og risiko, herunder støynivå. Artiklene skal kategoriseres som følger:
+
+1. *Fyrverkeri*
+
+   1. *kategori 1:* fyrverkeri forbundet med lav risiko og minimalt støynivå, som er beregnet til bruk i fysisk begrensede områder, herunder fyrverkeri til innendørs bruk i boliger
+   2. *kategori 2:* fyrverkeri forbundet med lav risiko og lavt støynivå, som er beregnet til utendørs bruk i fysisk begrensede områder
+   3. *kategori 3:* fyrverkeri forbundet med middels risiko, som er beregnet til utendørs bruk i større, fysisk åpne områder og hvis støynivå ikke er helseskadelig
+   4. *kategori 4:* fyrverkeri forbundet med høy risiko, som er beregnet til kun å bli brukt av profesjonelle og hvis støynivå ikke er helseskadelig.
+2. *Scenefyrverkeri*
+
+   1. *kategori T1:* pyrotekniske artikler til scenebruk med lav risiko
+   2. *kategori T2:* pyrotekniske artikler til scenebruk, som er beregnet til kun å bli brukt av profesjonelle.
+3. *Andre pyrotekniske artikler*
+
+   1. *kategori P1:* andre pyrotekniske artikler enn fyrverkeri og scenefyrverkeri, som er forbundet med lav risiko
+   2. *kategori P2:* andre pyrotekniske artikler enn fyrverkeri og scenefyrverkeri, som er beregnet til kun å bli håndtert eller brukt av profesjonelle.
 
 ### § 7. Produsentens plikter ved manglende samsvar
 
@@ -142,7 +194,15 @@ Pyrotekniske artikler som er i samsvar med harmoniserte standarder eller deler a
 
 ### § 16. Fremgangsmåter for samsvarsvurdering
 
-Ved vurderingen av pyrotekniske artiklers samsvar skal produsenten følge en av følgende fremgangsmåter:EF-typeprøving (modul B) som nevnt i vedlegg II og etter produsentens eget valg en av følgende fremgangsmåter:typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom (modul C2) som nevnt i vedlegg IItypesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen (modul D) som nevnt i vedlegg IItypesamsvar på grunnlag av kvalitetssikring av produkter (modul E) som nevnt i vedlegg IISamsvar på grunnlag av verifisering av enkelteksemplarer (modul G) som nevnt i vedlegg IISamsvar på grunnlag av full kvalitetssikring (modul H) som nevnt i vedlegg II, så lenge det er snakk om fyrverkeri i kategori 4.
+Ved vurderingen av pyrotekniske artiklers samsvar skal produsenten følge en av følgende fremgangsmåter:
+
+1. EF-typeprøving (modul B) som nevnt i vedlegg II og etter produsentens eget valg en av følgende fremgangsmåter:
+
+   1. typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom (modul C2) som nevnt i vedlegg II
+   2. typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen (modul D) som nevnt i vedlegg II
+   3. typesamsvar på grunnlag av kvalitetssikring av produkter (modul E) som nevnt i vedlegg II
+2. Samsvar på grunnlag av verifisering av enkelteksemplarer (modul G) som nevnt i vedlegg II
+3. Samsvar på grunnlag av full kvalitetssikring (modul H) som nevnt i vedlegg II, så lenge det er snakk om fyrverkeri i kategori 4.
 
 ### § 17. Samsvarserklæring
 
@@ -176,9 +236,17 @@ Pyrotekniske artikler, med unntak av pyrotekniske artikler til kjøretøy, skal 
 
 Merkingen av pyrotekniske artikler skal minst omfatte produsentens navn og adresse, artikkelens navn og type, registreringsnummer, minimums aldersgrense i henhold til [§ 4](forskrift/2013-10-03-1199/§4), den relevante kategori og bruksanvisning, produksjonsår for fyrverkeri kategori 3 og 4, netto eksplosivinnhold (NEI), og når det er relevant, minste sikkerhetsavstand. Dersom produsenten ikke er etablert i EØS, skal produsentens navn og adresse erstattes med produsentens navn og importørens navn og adresse.
 
-Fyrverkeri skal i tillegg minst være forsynt med følgende opplysninger:*kategori 1:* hvis relevant: «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand*kategori 2:* «kun til utendørs bruk» og hvis relevant, en angivelse av minste sikkerhetsavstand (-er)*kategori 3:* «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand (-er)*kategori 4:* «kun til profesjonelt bruk» og en angivelse av minste sikkerhetsavstand (-er).
+Fyrverkeri skal i tillegg minst være forsynt med følgende opplysninger:
 
-Scenefyrverkeri skal dessuten minst være forsynt med følgende opplysninger:*kategori T1:* hvis relevant: «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand*kategori T2:* «kun til profesjonelt bruk» og en angivelse av minste sikkerhetsavstand.
+1. *kategori 1:* hvis relevant: «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand
+2. *kategori 2:* «kun til utendørs bruk» og hvis relevant, en angivelse av minste sikkerhetsavstand (-er)
+3. *kategori 3:* «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand (-er)
+4. *kategori 4:* «kun til profesjonelt bruk» og en angivelse av minste sikkerhetsavstand (-er).
+
+Scenefyrverkeri skal dessuten minst være forsynt med følgende opplysninger:
+
+1. *kategori T1:* hvis relevant: «kun til utendørs bruk» og en angivelse av minste sikkerhetsavstand
+2. *kategori T2:* «kun til profesjonelt bruk» og en angivelse av minste sikkerhetsavstand.
 
 Dersom det ikke er mulig å merke den pyrotekniske artikkelen i henhold til annet og tredje ledd, skal opplysningene angis på den minste emballasjeenheten.
 
@@ -218,7 +286,11 @@ CE-merket skal ha en høyde på minst 5 mm. Dersom CE-merket blir forminsket ell
 
 ### § 22a. Merking for sporbarhet
 
-Produsenten skal merke pyrotekniske artikler med et registreringsnummer, som skal bestå av:det firesifrede identifikasjonsnummeret til det meldte organet som har utstedt EF-typeprøvingssertifikat i samsvar med vedlegg II modul B, samsvarssertifikat i henhold til vedlegg II modul G, eller godkjenning av kvalitetssystem etter vedlegg II modul H,kategoriseringskoden etter [§ 6](forskrift/2013-10-03-1199/§6), angitt ved bruk av betegnelsene F1, F2, F3, F4, T1, T2, P1, eller P2, ogdet meldte organets behandlingsnummer for den pyrotekniske artikkelen.
+Produsenten skal merke pyrotekniske artikler med et registreringsnummer, som skal bestå av:
+
+1. det firesifrede identifikasjonsnummeret til det meldte organet som har utstedt EF-typeprøvingssertifikat i samsvar med vedlegg II modul B, samsvarssertifikat i henhold til vedlegg II modul G, eller godkjenning av kvalitetssystem etter vedlegg II modul H,
+2. kategoriseringskoden etter [§ 6](forskrift/2013-10-03-1199/§6), angitt ved bruk av betegnelsene F1, F2, F3, F4, T1, T2, P1, eller P2, og
+3. det meldte organets behandlingsnummer for den pyrotekniske artikkelen.
 
 Registreringsnummeret skal settes sammen slik: «XXXX – YY – ZZZZ ...», der XXXX skal referere til bokstav a), YY til bokstav b) og ZZZZ til bokstav c).
 
@@ -252,11 +324,20 @@ Samsvarsvurderingsorganer og deres personale skal utøve sin samsvarsvurderingsv
 
 Et samsvarsvurderingsorgan skal kunne utføre alle de samsvarsvurderingsoppgavene som er tillagt det i henhold til [§ 16](forskrift/2013-10-03-1199/§16), og som det er meldt for, uansett om disse oppgavene blir utført av samsvarsvurderingsorganet selv eller på dets vegne og under dets ansvar.
 
-Et samsvarsvurderingsorgan skal til enhver tid og for hver fremgangsmåte for samsvarsvurdering og hver type eller kategori av pyrotekniske artikler som det er meldt for, ha til rådighet:nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavene,beskrivelser av fremgangsmåter for samsvarsvurderingen som sikrer åpenhet og mulighet til å gjenta disse fremgangsmåtene. Organet skal ha egnede prinsipper og fremgangsmåter for å skille mellom oppgaver det utfører som et meldt organ, og annen virksomhet,fremgangsmåter for utøvelsen av virksomheten som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle produktets teknologi er, samt produksjonsprosessens masse- eller seriepreg.
+Et samsvarsvurderingsorgan skal til enhver tid og for hver fremgangsmåte for samsvarsvurdering og hver type eller kategori av pyrotekniske artikler som det er meldt for, ha til rådighet:
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavene,
+2. beskrivelser av fremgangsmåter for samsvarsvurderingen som sikrer åpenhet og mulighet til å gjenta disse fremgangsmåtene. Organet skal ha egnede prinsipper og fremgangsmåter for å skille mellom oppgaver det utfører som et meldt organ, og annen virksomhet,
+3. fremgangsmåter for utøvelsen av virksomheten som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle produktets teknologi er, samt produksjonsprosessens masse- eller seriepreg.
 
 Det skal ha de nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr eller alle nødvendige fasiliteter.
 
-Personalet med ansvar for å utføre samsvarsvurderinger skal ha:solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som samsvarsvurderingsorganet er meldt for,tilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og den nødvendige myndighet til å utføre disse vurderingene,tilfredsstillende kunnskap om og forståelse av de grunnleggende sikkerhetskravene i vedlegg I, de relevante harmoniserte standardene og gjeldende EØS' harmoniseringsregelverk og dets gjennomføringsbestemmelser,de nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+Personalet med ansvar for å utføre samsvarsvurderinger skal ha:
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som samsvarsvurderingsorganet er meldt for,
+2. tilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og den nødvendige myndighet til å utføre disse vurderingene,
+3. tilfredsstillende kunnskap om og forståelse av de grunnleggende sikkerhetskravene i vedlegg I, de relevante harmoniserte standardene og gjeldende EØS' harmoniseringsregelverk og dets gjennomføringsbestemmelser,
+4. de nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 Det skal sikres at samsvarsvurderingsorganene, deres øverste ledelse og vurderingspersonalet er upartisk.
 
@@ -310,7 +391,12 @@ Dersom utpekingen etter [kapittel 4](forskrift/2013-10-03-1199/kap4) trekkes til
 
 ### § 28. Meldte organers rapporteringsplikt overfor tilsynsmyndigheten
 
-Et meldt organ skal underrette tilsynsmyndigheten om:avslag på, begrensning i, midlertidig inndragning eller tilbakekall av et sertifikatforhold, som har innvirkning på omfanget av og vilkårene for utpekingenpå forespørsel, informasjon om utførte aktiviteterpå forespørsel, samsvarsvurderingsvirksomhet, som er utøvd innenfor rammen av utpekingen, og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene.
+Et meldt organ skal underrette tilsynsmyndigheten om:
+
+1. avslag på, begrensning i, midlertidig inndragning eller tilbakekall av et sertifikat
+2. forhold, som har innvirkning på omfanget av og vilkårene for utpekingen
+3. på forespørsel, informasjon om utførte aktiviteter
+4. på forespørsel, samsvarsvurderingsvirksomhet, som er utøvd innenfor rammen av utpekingen, og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene.
 
 ### § 29. Meldte organers informasjonsplikt overfor andre meldte organer
 
@@ -340,7 +426,16 @@ Ved overtredelse av forskriften eller vedtak truffet i medhold av denne, gjelder
 
 Dersom et meldt organ ikke oppfyller sine forpliktelser, kan Direktoratet for samfunnssikkerhet og beredskap begrense eller inndra utpekingen.
 
-Dersom pyrotekniske artikler kan utgjøre en fare, eller ikke er i samsvar med denne forskriften, kan Direktoratet for samfunnssikkerhet og beredskap:nedlegge forbud mot å bringe i omsetning eller gjøre tilgjengelig pyrotekniske artikler på markedetkreve at pyrotekniske artikler tilbaketrekkeskreve at pyrotekniske artikler tilbakekalleskreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av pyrotekniske artiklerkreve retting av pyrotekniske artiklerkreve at pyrotekniske artikler tilintetgjøresnedlegge forbud mot bruk av pyrotekniske artiklerkreve merking av pyrotekniske artikler.
+Dersom pyrotekniske artikler kan utgjøre en fare, eller ikke er i samsvar med denne forskriften, kan Direktoratet for samfunnssikkerhet og beredskap:
+
+1. nedlegge forbud mot å bringe i omsetning eller gjøre tilgjengelig pyrotekniske artikler på markedet
+2. kreve at pyrotekniske artikler tilbaketrekkes
+3. kreve at pyrotekniske artikler tilbakekalles
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av pyrotekniske artikler
+5. kreve retting av pyrotekniske artikler
+6. kreve at pyrotekniske artikler tilintetgjøres
+7. nedlegge forbud mot bruk av pyrotekniske artikler
+8. kreve merking av pyrotekniske artikler.
 
 ### § 33. Overgangsbestemmelser
 
@@ -372,41 +467,372 @@ Hver pyroteknisk artikkel skal fungere korrekt når den brukes til det formålet
 
 Hver pyroteknisk artikkel skal prøves under realistiske forhold. Dersom dette ikke er mulig i et laboratorium, skal prøvingene utføres under de forholdene som råder der den pyrotekniske artikkelen er beregnet å skulle brukes.
 
-Følgende opplysninger og egenskaper skal, der dette er relevant, tas i betraktning eller prøves:Utforming, konstruksjon og karakteristiske egenskaper, herunder detaljert kjemisk sammensetning (angivelse av masse og prosentdel for de stoffer som er brukt) og mål,den pyrotekniske artikkelens fysiske og kjemiske stabilitet under alle normale, påregnelige miljøforhold,følsomhet overfor normal, påregnelig håndtering og transport,kompatibilitet mellom alle bestanddeler når det gjelder deres kjemiske stabilitet,den pyrotekniske artikkelens bestandighet mot fukt når den skal brukes under fuktige eller våte forhold og når dens sikkerhet og pålitelighet kan svekkes av fukt,bestandighet mot lave og høye temperaturer når den pyrotekniske artikkelen skal oppbevares eller brukes ved slike temperaturer og dens sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av den pyrotekniske artikkelen som helhet,sikkerhetsinnretninger som skal forhindre at initiering eller tenning skjer i utide eller ved uaktsomhet,hensiktsmessige anvisninger og, om nødvendig, merking vedrørende sikker håndtering, oppbevaring, bruk (herunder sikkerhetsavstand) og tilintetgjøring, på norsk,den pyrotekniske artikkelens, emballasjens eller andre bestanddelers evne til å motstå forringelse under normale, påregnelige oppbevaringsforhold,detaljert angivelse av alle nødvendige innretninger og alt nødvendig tilbehør samt bruksanvisning for at den pyrotekniske artikkelen skal fungere sikkert.Under transport og ved normal håndtering skal de pyrotekniske artiklene inneholde den pyrotekniske sammensetningen, med mindre annet er angitt i produsentens anvisning.
+Følgende opplysninger og egenskaper skal, der dette er relevant, tas i betraktning eller prøves:
+
+1. Utforming, konstruksjon og karakteristiske egenskaper, herunder detaljert kjemisk sammensetning (angivelse av masse og prosentdel for de stoffer som er brukt) og mål,
+2. den pyrotekniske artikkelens fysiske og kjemiske stabilitet under alle normale, påregnelige miljøforhold,
+3. følsomhet overfor normal, påregnelig håndtering og transport,
+4. kompatibilitet mellom alle bestanddeler når det gjelder deres kjemiske stabilitet,
+5. den pyrotekniske artikkelens bestandighet mot fukt når den skal brukes under fuktige eller våte forhold og når dens sikkerhet og pålitelighet kan svekkes av fukt,
+6. bestandighet mot lave og høye temperaturer når den pyrotekniske artikkelen skal oppbevares eller brukes ved slike temperaturer og dens sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av den pyrotekniske artikkelen som helhet,
+7. sikkerhetsinnretninger som skal forhindre at initiering eller tenning skjer i utide eller ved uaktsomhet,
+8. hensiktsmessige anvisninger og, om nødvendig, merking vedrørende sikker håndtering, oppbevaring, bruk (herunder sikkerhetsavstand) og tilintetgjøring, på norsk,
+9. den pyrotekniske artikkelens, emballasjens eller andre bestanddelers evne til å motstå forringelse under normale, påregnelige oppbevaringsforhold,
+10. detaljert angivelse av alle nødvendige innretninger og alt nødvendig tilbehør samt bruksanvisning for at den pyrotekniske artikkelen skal fungere sikkert.
+
+    Under transport og ved normal håndtering skal de pyrotekniske artiklene inneholde den pyrotekniske sammensetningen, med mindre annet er angitt i produsentens anvisning.
 
 4\.
 
-Pyrotekniske artikler skal ikke inneholde andre eksplosiver som kan detonere enn svartkrutt og sammensetning for å oppnå lyseffekter, bortsett fra artikler i kategori P1, P2, T2 og fyrverkeri i kategori 4, som oppfyller følgende betingelser:eksplosiver som kan detonere, skal ikke uten videre kunne utvinnes av artikkelenfor kategori P1, artikkelen skal ikke kunne detonere eller i seg selv initiere sekundære eksplosiverfor kategori 4, T2 og P2, artikkelen skal være konstruert og beregnet til ikke å kunne detonere eller, hvis den er konstruert til å detonere, ikke i seg selv initiere sekundære eksplosiver.
+Pyrotekniske artikler skal ikke inneholde andre eksplosiver som kan detonere enn svartkrutt og sammensetning for å oppnå lyseffekter, bortsett fra artikler i kategori P1, P2, T2 og fyrverkeri i kategori 4, som oppfyller følgende betingelser:
+
+1. eksplosiver som kan detonere, skal ikke uten videre kunne utvinnes av artikkelen
+2. for kategori P1, artikkelen skal ikke kunne detonere eller i seg selv initiere sekundære eksplosiver
+3. for kategori 4, T2 og P2, artikkelen skal være konstruert og beregnet til ikke å kunne detonere eller, hvis den er konstruert til å detonere, ikke i seg selv initiere sekundære eksplosiver.
 
 5\.
 
-De ulike gruppene pyrotekniske artikler skal også som minimum oppfylle følgende krav:*Fyrverkeri*Produsenten skal dele fyrverkeriet inn i ulike kategorier i henhold til [§ 6](forskrift/2013-10-03-1199/§6) etter netto eksplosivinnhold (NEI), sikkerhetsavstand, støynivå, eller tilsvarende. Kategorien skal tydelig angis på etiketten.Fyrverkeri i kategori 1 skal oppfylle følgende vilkår:Sikkerhetsavstanden skal være minst 1 m, men den kan være kortere når det er hensiktsmessig.Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.Kategori 1 skal ikke omfatte smellende artikler, smellbatterier, smellende lyseffekter og smellende lyseffektbatterier.Kasteknall i kategori 1 skal ikke inneholde mer enn 2,5 mg sølvfulminat.Fyrverkeri i kategori 2 skal oppfylle følgende vilkår:Sikkerhetsavstanden skal være minst 8 m, men den kan være kortere når det er hensiktsmessig.Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.Fyrverkeri i kategori 3 skal oppfylle følgende vilkår:Sikkerhetsavstanden skal være minst 15 m, men den kan være kortere når det er hensiktsmessig.Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.Fyrverkeri kan bare framstilles av materialer som minimerer faren rester kan innebære for helse, eiendom og miljø.Tennmetoden skal være klart synlig eller angis på etiketten eller i bruksanvisningen.Fyrverkeri skal ikke kunne bevege seg tilfeldig og uventet.Fyrverkeri i kategori 1, 2 og 3 skal beskyttes mot utilsiktet tenning, enten med beskyttelseshette, med emballasjen eller med artikkelens konstruksjon. Fyrverkeri i kategori 4 skal beskytter mot utilsiktet tenning ved metoder som angis av produsenten.*Andre pyrotekniske artikler*Pyrotekniske artikler skal konstrueres på en slik måte at faren for helse, eiendom og miljø, minimeres ved normal bruk.Tennmetoden skal være klart synlig eller angis på etiketten eller i bruksanvisningen.Pyrotekniske artikler skal konstrueres på en slik måte at faren som rester innebærer for helse, eiendom og miljø, minimeres ved utilsiktet tenning.Der det er relevant, skal den pyrotekniske artikkelen fungere etter hensikten frem til siste forbruksdato angitt av produsenten.*Tennmekanismer*Tennmekanismer skal kunne initieres på en pålitelig måte og ha tilstrekkelig initieringsevne under normale, påregnelige bruksvilkår.Tennmekanismer skal være beskyttet mot elektrostatiske utladninger under normale, påregnelige bruks- og oppbevaringsvilkår.Elektriske tennere skal være beskyttet mot elektromagnetiske felt under normale, påregnelige bruks- og oppbevaringsvilkår.Luntebeskyttelse skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad kunne beskytte det eksplosive materialet, når lunten utsettes for normal, påregnelig mekanisk belastning.Opplysninger om luntenes brenntider skal følge med artikkelen.Opplysninger om elektriske tenneres elektriske egenskaper (f.eks. minste tennenergi, motstand, osv.) skal følge med artikkelen.Ledningene til de elektriske tennerne skal i betraktning av deres bruksformål, ha tilstrekkelig isolering og mekanisk motstandsevne, og forbindelsen til tenneren, skal være tilstrekkelig solid.
+De ulike gruppene pyrotekniske artikler skal også som minimum oppfylle følgende krav:
+
+1. *Fyrverkeri*
+
+   1. Produsenten skal dele fyrverkeriet inn i ulike kategorier i henhold til [§ 6](forskrift/2013-10-03-1199/§6) etter netto eksplosivinnhold (NEI), sikkerhetsavstand, støynivå, eller tilsvarende. Kategorien skal tydelig angis på etiketten.
+
+      1. Fyrverkeri i kategori 1 skal oppfylle følgende vilkår:
+
+         1. Sikkerhetsavstanden skal være minst 1 m, men den kan være kortere når det er hensiktsmessig.
+         2. Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.
+         3. Kategori 1 skal ikke omfatte smellende artikler, smellbatterier, smellende lyseffekter og smellende lyseffektbatterier.
+         4. Kasteknall i kategori 1 skal ikke inneholde mer enn 2,5 mg sølvfulminat.
+      2. Fyrverkeri i kategori 2 skal oppfylle følgende vilkår:
+
+         1. Sikkerhetsavstanden skal være minst 8 m, men den kan være kortere når det er hensiktsmessig.
+         2. Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.
+      3. Fyrverkeri i kategori 3 skal oppfylle følgende vilkår:
+
+         1. Sikkerhetsavstanden skal være minst 15 m, men den kan være kortere når det er hensiktsmessig.
+         2. Det maksimale støynivået skal ikke overstige 120 dB (A, imp), eller tilsvarende støynivå målt med en annen hensiktsmessig metode, ved sikkerhetsavstanden.
+   2. Fyrverkeri kan bare framstilles av materialer som minimerer faren rester kan innebære for helse, eiendom og miljø.
+   3. Tennmetoden skal være klart synlig eller angis på etiketten eller i bruksanvisningen.
+   4. Fyrverkeri skal ikke kunne bevege seg tilfeldig og uventet.
+   5. Fyrverkeri i kategori 1, 2 og 3 skal beskyttes mot utilsiktet tenning, enten med beskyttelseshette, med emballasjen eller med artikkelens konstruksjon. Fyrverkeri i kategori 4 skal beskytter mot utilsiktet tenning ved metoder som angis av produsenten.
+2. *Andre pyrotekniske artikler*
+
+   1. Pyrotekniske artikler skal konstrueres på en slik måte at faren for helse, eiendom og miljø, minimeres ved normal bruk.
+   2. Tennmetoden skal være klart synlig eller angis på etiketten eller i bruksanvisningen.
+   3. Pyrotekniske artikler skal konstrueres på en slik måte at faren som rester innebærer for helse, eiendom og miljø, minimeres ved utilsiktet tenning.
+   4. Der det er relevant, skal den pyrotekniske artikkelen fungere etter hensikten frem til siste forbruksdato angitt av produsenten.
+3. *Tennmekanismer*
+
+   1. Tennmekanismer skal kunne initieres på en pålitelig måte og ha tilstrekkelig initieringsevne under normale, påregnelige bruksvilkår.
+   2. Tennmekanismer skal være beskyttet mot elektrostatiske utladninger under normale, påregnelige bruks- og oppbevaringsvilkår.
+   3. Elektriske tennere skal være beskyttet mot elektromagnetiske felt under normale, påregnelige bruks- og oppbevaringsvilkår.
+   4. Luntebeskyttelse skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad kunne beskytte det eksplosive materialet, når lunten utsettes for normal, påregnelig mekanisk belastning.
+   5. Opplysninger om luntenes brenntider skal følge med artikkelen.
+   6. Opplysninger om elektriske tenneres elektriske egenskaper (f.eks. minste tennenergi, motstand, osv.) skal følge med artikkelen.
+   7. Ledningene til de elektriske tennerne skal i betraktning av deres bruksformål, ha tilstrekkelig isolering og mekanisk motstandsevne, og forbindelsen til tenneren, skal være tilstrekkelig solid.
 
 ## Vedlegg II Fremgangsmåter for samsvarsvurdering
 
 1\.
 
-MODUL B: *EF-typeprøving*EF-typeprøving er den delen av fremgangsmåten for samsvarsvurdering der et meldt organ undersøker den tekniske konstruksjonen av en pyroteknisk artikkel og kontrollerer og bekrefter at den tekniske konstruksjonen oppfyller kravene i denne forskriften.EF-typeprøving skal utføres som en undersøkelse av et eksemplar som er representativt for den planlagte produksjonen, av hele den pyrotekniske artikkelen (produksjonstype),Produsenten skal inngi en søknad om EF-typeprøving til ett meldt organ etter eget valg.Søknaden skal inneholde:produsentens navn og adresse,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om den pyrotekniske artikkelen er i samsvar med de relevante kravene i denne forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte den pyrotekniske artikkelens konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:en generell beskrivelse av den pyrotekniske artikkelenkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.eksemplarer som er representative for den planlagte produksjonen. Det meldte organet kan anmode om ytterligere eksemplarer dersom det er nødvendig for å kunne gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.Det meldte organet skal:for den pyrotekniske artikkelen:undersøke den tekniske dokumentasjon og underlagsdokumentasjonen for å vurdere om den pyrotekniske artikkelens tekniske konstruksjon er tilfredsstillende,for prøveeksemplarene:kontrollere at prøveeksemplarene er produsert i samsvar med den tekniske dokumentasjonen og fastslå hvilke deler som er konstruert i samsvar med gjeldende bestemmelser i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, samt hvilke deler som er konstruert uten at gjeldende bestemmelser i de nevnte standardene er blitt anvendt,utføre eller få utført egnede undersøkelser og prøvinger for i de tilfeller der produsenten har valgt å anvende løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, å kontrollere om disse løsningene er anvendt korrekt,utføre eller få utført egnede undersøkelser og prøvinger for, i de tilfeller der løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt, å kontrollere om de løsningene som produsenten har valgt, oppfyller de grunnleggende sikkerhetskravene i vedlegg I,avtale med produsenten hvor undersøkelsene og prøvingene skal utføres.Det meldte organet skal utarbeide en vurderingsrapport om hvilke tiltak som er truffet i samsvar med nr. 4, samt resultatene av dem. Uten at det berører det meldte organets plikter overfor tilsynsmyndigheten, skal det meldte organet helt eller delvis offentliggjøre innholdet i denne rapporten bare med produsentens samtykke.Dersom typen oppfyller kravene i denne forskriften, skal det meldte organet utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene fra undersøkelsen, eventuelle vilkår for sertifikatets gyldighet og de nødvendige data for identifikasjon av den godkjente typen. Sertifikatet kan ha ett eller flere vedlegg. Sertifikatet og dets vedlegg skal inneholde alle opplysninger som er nødvendige for å vurdere om de produserte pyrotekniske artiklene er i samsvar med den undersøkte typen og for å kontrollere pyrotekniske artikler under bruk. Dersom typen ikke oppfyller gjeldende krav i denne forskriften, skal det meldte organet nekte å utstede et EF-typeprøvingssertifikat, underrette søkeren om dette og gi en detaljert begrunnelse for avslaget.Det meldte organet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller kravene i denne forskriften, og bestemme om slike endringer krever ytterligere undersøkelser. Dersom det er tilfellet, skal det meldte organet underrette produsenten om dette.Produsenten skal underrette det meldte organet som oppbevarer den tekniske dokumentasjonen med hensyn til EF-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan påvirke den pyrotekniske artikkelens samsvar med de grunnleggende sikkerhetskravene i denne forskriften eller vilkårene for sertifikatets gyldighet. Slike endringer krever ytterligere godkjenning i form av et tillegg til det opprinnelige EF-typeprøvingssertifikatet.Hvert meldt organ skal underrette sine tilsynsmyndigheter om de EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for sine tilsynsmyndigheter listen over sertifikater og/eller eventuelle tillegg til disse som er avslått, midlertidig opphevet eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som det har avslått, trukket tilbake, midlertidig opphevet eller på annen måte begrenset, og på anmodning om de sertifikater og/eller tillegg til disse som det har utstedt.Kommisjonen, EØS-statene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller tilleggene til disse. På anmodning kan Kommisjonen og EØS-statene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene utført av det meldte organet. Det meldte organet skal oppbevare en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt de tekniske data, herunder den dokumentasjonen som er lagt frem av produsenten, frem til utløpet av sertifikatets gyldighetsperiode.Produsenten skal kunne stille en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.
+MODUL B: *EF-typeprøving*
+
+1. EF-typeprøving er den delen av fremgangsmåten for samsvarsvurdering der et meldt organ undersøker den tekniske konstruksjonen av en pyroteknisk artikkel og kontrollerer og bekrefter at den tekniske konstruksjonen oppfyller kravene i denne forskriften.
+2. EF-typeprøving skal utføres som en undersøkelse av et eksemplar som er representativt for den planlagte produksjonen, av hele den pyrotekniske artikkelen (produksjonstype),
+3. Produsenten skal inngi en søknad om EF-typeprøving til ett meldt organ etter eget valg.
+
+   Søknaden skal inneholde:
+
+   1. produsentens navn og adresse,
+   2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+   3. den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om den pyrotekniske artikkelen er i samsvar med de relevante kravene i denne forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte den pyrotekniske artikkelens konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:
+
+      1. en generell beskrivelse av den pyrotekniske artikkelen
+      2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+      3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virker,
+      4. en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+      5. resultatene av konstruksjonsberegninger, undersøkelser osv.,
+      6. prøvingsrapporter.
+   4. eksemplarer som er representative for den planlagte produksjonen. Det meldte organet kan anmode om ytterligere eksemplarer dersom det er nødvendig for å kunne gjennomføre prøvingsprogrammet,
+   5. underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+4. Det meldte organet skal:
+
+   for den pyrotekniske artikkelen:
+5. undersøke den tekniske dokumentasjon og underlagsdokumentasjonen for å vurdere om den pyrotekniske artikkelens tekniske konstruksjon er tilfredsstillende,
+
+   for prøveeksemplarene:
+6. kontrollere at prøveeksemplarene er produsert i samsvar med den tekniske dokumentasjonen og fastslå hvilke deler som er konstruert i samsvar med gjeldende bestemmelser i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, samt hvilke deler som er konstruert uten at gjeldende bestemmelser i de nevnte standardene er blitt anvendt,
+7. utføre eller få utført egnede undersøkelser og prøvinger for i de tilfeller der produsenten har valgt å anvende løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, å kontrollere om disse løsningene er anvendt korrekt,
+8. utføre eller få utført egnede undersøkelser og prøvinger for, i de tilfeller der løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt, å kontrollere om de løsningene som produsenten har valgt, oppfyller de grunnleggende sikkerhetskravene i vedlegg I,
+9. avtale med produsenten hvor undersøkelsene og prøvingene skal utføres.
+10. Det meldte organet skal utarbeide en vurderingsrapport om hvilke tiltak som er truffet i samsvar med nr. 4, samt resultatene av dem. Uten at det berører det meldte organets plikter overfor tilsynsmyndigheten, skal det meldte organet helt eller delvis offentliggjøre innholdet i denne rapporten bare med produsentens samtykke.
+11. Dersom typen oppfyller kravene i denne forskriften, skal det meldte organet utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene fra undersøkelsen, eventuelle vilkår for sertifikatets gyldighet og de nødvendige data for identifikasjon av den godkjente typen. Sertifikatet kan ha ett eller flere vedlegg. Sertifikatet og dets vedlegg skal inneholde alle opplysninger som er nødvendige for å vurdere om de produserte pyrotekniske artiklene er i samsvar med den undersøkte typen og for å kontrollere pyrotekniske artikler under bruk. Dersom typen ikke oppfyller gjeldende krav i denne forskriften, skal det meldte organet nekte å utstede et EF-typeprøvingssertifikat, underrette søkeren om dette og gi en detaljert begrunnelse for avslaget.
+12. Det meldte organet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller kravene i denne forskriften, og bestemme om slike endringer krever ytterligere undersøkelser. Dersom det er tilfellet, skal det meldte organet underrette produsenten om dette.
+
+    Produsenten skal underrette det meldte organet som oppbevarer den tekniske dokumentasjonen med hensyn til EF-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan påvirke den pyrotekniske artikkelens samsvar med de grunnleggende sikkerhetskravene i denne forskriften eller vilkårene for sertifikatets gyldighet. Slike endringer krever ytterligere godkjenning i form av et tillegg til det opprinnelige EF-typeprøvingssertifikatet.
+13. Hvert meldt organ skal underrette sine tilsynsmyndigheter om de EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for sine tilsynsmyndigheter listen over sertifikater og/eller eventuelle tillegg til disse som er avslått, midlertidig opphevet eller på annen måte begrenset.
+
+    Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som det har avslått, trukket tilbake, midlertidig opphevet eller på annen måte begrenset, og på anmodning om de sertifikater og/eller tillegg til disse som det har utstedt.
+
+    Kommisjonen, EØS-statene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller tilleggene til disse. På anmodning kan Kommisjonen og EØS-statene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene utført av det meldte organet. Det meldte organet skal oppbevare en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt de tekniske data, herunder den dokumentasjonen som er lagt frem av produsenten, frem til utløpet av sertifikatets gyldighetsperiode.
+14. Produsenten skal kunne stille en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.
 
 2\.
 
-MODUL C2: *Typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom*Typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.ProduksjonProdusenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.ProduktkontrollerEtter produsentens valg skal et akkreditert internt organ eller et meldt organ valgt av produsenten utføre eller få utført produktkontroller med ujevne mellomrom som fastsettes av organet, for å kontrollere kvaliteten på den interne produktkontrollen, idet det blant annet tas hensyn til den pyrotekniske artikkelens teknologiske kompleksitet og produksjonsmengden. En passende stikkprøve av de ferdige pyrotekniske artiklene, tatt på stedet av det meldte organet før den pyrotekniske artikkelen bringes i omsetning, skal undersøkes, og egnede prøvinger som fastsatt i relevante deler av de harmoniserte standardene og/eller tekniske spesifikasjonene, eller tilsvarende prøvinger, skal utføres for å kontrollere at den pyrotekniske artikkelen er i samsvar med kravene i denne forskriften. Dersom en stikkprøve ikke er i samsvar med det akseptable kvalitetsnivået, skal organet treffe egnede tiltak.Formålet med den fremgangsmåten for stikkprøvetaking som skal anvendes, er å avgjøre om produksjonen av den pyrotekniske artikkelen skjer innenfor akseptable grenser med sikte på å sikre den pyrotekniske artikkelens samsvar.Dersom prøvingene utføres av et meldt organ, skal produsenten, på det meldte organets ansvar, påføre det meldte organets identifikasjonsnummer under produksjonsprosessen.Samsvarsmerking og samsvarserklæringProdusenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
+MODUL C2: *Typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom*
+
+1. Typesamsvar på grunnlag av intern produksjonskontroll og overvåket produktkontroll med ujevne mellomrom er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.
+2. Produksjon
+
+   Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.
+3. Produktkontroller
+
+   Etter produsentens valg skal et akkreditert internt organ eller et meldt organ valgt av produsenten utføre eller få utført produktkontroller med ujevne mellomrom som fastsettes av organet, for å kontrollere kvaliteten på den interne produktkontrollen, idet det blant annet tas hensyn til den pyrotekniske artikkelens teknologiske kompleksitet og produksjonsmengden. En passende stikkprøve av de ferdige pyrotekniske artiklene, tatt på stedet av det meldte organet før den pyrotekniske artikkelen bringes i omsetning, skal undersøkes, og egnede prøvinger som fastsatt i relevante deler av de harmoniserte standardene og/eller tekniske spesifikasjonene, eller tilsvarende prøvinger, skal utføres for å kontrollere at den pyrotekniske artikkelen er i samsvar med kravene i denne forskriften. Dersom en stikkprøve ikke er i samsvar med det akseptable kvalitetsnivået, skal organet treffe egnede tiltak.
+
+   Formålet med den fremgangsmåten for stikkprøvetaking som skal anvendes, er å avgjøre om produksjonen av den pyrotekniske artikkelen skjer innenfor akseptable grenser med sikte på å sikre den pyrotekniske artikkelens samsvar.
+
+   Dersom prøvingene utføres av et meldt organ, skal produsenten, på det meldte organets ansvar, påføre det meldte organets identifikasjonsnummer under produksjonsprosessen.
+4. Samsvarsmerking og samsvarserklæring
+5. Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.
+6. Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.
+
+   En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
 
 3\.
 
-MODUL D: *Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen*Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.ProduksjonProdusenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for produksjon samt inspeksjon og prøving av ferdige pyrotekniske artikler, og skal være underlagt tilsynet omhandlet i nr. 4.KvalitetssystemProdusenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til ett meldt organ etter eget valg.Søknaden skal inneholde:produsentens navn og adresse,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger av betydning for den planlagte kategori pyrotekniske artikkel,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.Den skal særlig inneholde en tilstrekkelig beskrivelse av:kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at den produktkvalitet som kreves, oppnås, og at kvalitetssystemet fungerer effektivt.Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2. Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller de tekniske spesifikasjonene, oppfyller disse kravene.I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav e for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i forskriften og til å gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Tilsyn på det meldte organets ansvarFormålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.Produsenten skal gi det meldte organet adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemetkvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.Samsvarsmerking og samsvarserklæringProdusenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:dokumentasjonen nevnt i nr. 3.1endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det meldte organet nevnt i nr. 3.5, 4.3 og 4.4.Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet, trukket tilbake eller på annen måte begrenset, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
+MODUL D: *Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen*
+
+- Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.
+- Produksjon
+
+  Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for produksjon samt inspeksjon og prøving av ferdige pyrotekniske artikler, og skal være underlagt tilsynet omhandlet i nr. 4.
+- Kvalitetssystem
+- Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til ett meldt organ etter eget valg.
+
+  Søknaden skal inneholde:
+
+  1. produsentens navn og adresse,
+  2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+  3. alle opplysninger av betydning for den planlagte kategori pyrotekniske artikkel,
+  4. dokumentasjon for kvalitetssystemet, og
+  5. den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+- Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.
+
+  Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
+
+  Den skal særlig inneholde en tilstrekkelig beskrivelse av:
+
+  1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+  2. teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+  3. undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,
+  4. kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+  5. midler til å føre tilsyn med at den produktkvalitet som kreves, oppnås, og at kvalitetssystemet fungerer effektivt.
+- Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2. Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller de tekniske spesifikasjonene, oppfyller disse kravene.
+
+  I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav e for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i forskriften og til å gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.
+
+  Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+- Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.
+- Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.
+
+  Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.
+
+  Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+- Tilsyn på det meldte organets ansvar
+- Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+- Produsenten skal gi det meldte organet adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+  1. dokumentasjon for kvalitetssystemet
+  2. kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+- Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.
+- Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.
+- Samsvarsmerking og samsvarserklæring
+- Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.
+- Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.
+
+  En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
+- Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:
+
+  1. dokumentasjonen nevnt i nr. 3.1
+  2. endringen nevnt i nr. 3.5, som godkjent,
+  3. vedtakene og rapportene fra det meldte organet nevnt i nr. 3.5, 4.3 og 4.4.
+- Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.
+
+  Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet, trukket tilbake eller på annen måte begrenset, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
 
 4\.
 
-MODUL E: *Typesamsvar på grunnlag av kvalitetssikring av produkter*Typesamsvar på grunnlag av kvalitetssikring av produkter er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.ProduksjonProdusenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for inspeksjon og prøving av ferdige pyrotekniske artikler og skal være underlagt tilsynet omhandlet i nr. 4.KvalitetssystemProdusenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til et meldt organ etter eget valg.Søknaden skal inneholde:produsentens navn og adresse,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger av betydning for den planlagte kategori pyroteknisk artikkel,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i denne forskriften.Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.Den skal særlig inneholde en tilstrekkelig beskrivelse av:kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelser og prøvinger som skal utføres etter selve produksjonen,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at kvalitetssystemet virker effektivt.Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller den tekniske spesifikasjonen, oppfyller disse kravene.I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav e for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i forskriften og til å gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Tilsyn på det meldte organets ansvarFormålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.Produsenten skal gi det meldte organet adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.Samsvarsmerking og samsvarserklæringProdusenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det meldte organet nevnt i nr. 3.5, 4.3 og 4.4.Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller trukket tilbake, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
+MODUL E: *Typesamsvar på grunnlag av kvalitetssikring av produkter*
+
+1. Typesamsvar på grunnlag av kvalitetssikring av produkter er den delen av fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i denne forskriften.
+2. Produksjon
+
+   Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for inspeksjon og prøving av ferdige pyrotekniske artikler og skal være underlagt tilsynet omhandlet i nr. 4.
+3. Kvalitetssystem
+
+   - Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til et meldt organ etter eget valg.
+
+     Søknaden skal inneholde:
+
+     1. produsentens navn og adresse,
+     2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+     3. alle opplysninger av betydning for den planlagte kategori pyroteknisk artikkel,
+     4. dokumentasjon for kvalitetssystemet, og
+     5. den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+   - Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i denne forskriften.
+
+     Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
+
+     Den skal særlig inneholde en tilstrekkelig beskrivelse av:
+
+     1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+     2. undersøkelser og prøvinger som skal utføres etter selve produksjonen,
+     3. kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+     4. midler til å føre tilsyn med at kvalitetssystemet virker effektivt.
+   - Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
+
+     Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller den tekniske spesifikasjonen, oppfyller disse kravene.
+
+     I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav e for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i forskriften og til å gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.
+
+     Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+   - Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.
+   - Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.
+
+     Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.
+
+     Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+4. Tilsyn på det meldte organets ansvar
+
+   - Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+   - Produsenten skal gi det meldte organet adgang til å inspisere steder der produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+     1. dokumentasjon for kvalitetssystemet,
+     2. kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+   - Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.
+   - Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.
+5. Samsvarsmerking og samsvarserklæring
+
+   1. Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.
+   2. Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.
+
+      En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
+6. Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:
+
+   1. dokumentasjonen nevnt i nr. 3.1,
+   2. endringen nevnt i nr. 3.5, som godkjent,
+   3. vedtakene og rapportene fra det meldte organet nevnt i nr. 3.5, 4.3 og 4.4.
+7. Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.
+
+   Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller trukket tilbake, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
 
 5\.
 
-MODUL G: *Samsvar på grunnlag av verifisering av enkelteksemplarer*Samsvar på grunnlag av verifisering av enkelteksemplarer er den fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene i nr. 2, 3 og 5, og sikrer og erklærer som eneansvarlig at den berørte pyrotekniske artikkelen, som er omfattet av bestemmelsene i nr. 4, er i samsvar med kravene i denne forskriften.Teknisk dokumentasjonProdusenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organet nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om den pyrotekniske artikkelen er i samsvar med de grunnleggende sikkerhetskravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de grunnleggende sikkerhetskravene og skal, i den grad det er relevant for vurderingen, omfatte den pyrotekniske artikkelens konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:en generell beskrivelse av den pyrotekniske artikkelenkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.ProduksjonProdusenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte pyrotekniske artiklene oppfyller gjeldende krav i denne forskriften.VerifiseringEt meldt organ valgt av produsenten skal utføre eller få utført egnede undersøkelser og prøvinger, som fastsatt i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, eller tilsvarende prøvinger, for å kontrollere at den pyrotekniske artikkelen er i samsvar med gjeldende krav i forskriften. I mangel av en slik harmonisert standard og/eller teknisk spesifikasjon skal det meldte organet bestemme hvilke egnede prøvinger som skal utføres.Det meldte organet skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelsene og prøvingene, og skal påføre sitt identifikasjonsnummer på den godkjente pyrotekniske artikkelen eller få det påført på det meldte organets ansvar.Produsenten skal kunne stille samsvarssertifikatene til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.Samsvarsmerking og samsvarserklæringProdusenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 4, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som oppfyller gjeldende krav i denne forskriften.Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
+MODUL G: *Samsvar på grunnlag av verifisering av enkelteksemplarer*
+
+1. Samsvar på grunnlag av verifisering av enkelteksemplarer er den fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene i nr. 2, 3 og 5, og sikrer og erklærer som eneansvarlig at den berørte pyrotekniske artikkelen, som er omfattet av bestemmelsene i nr. 4, er i samsvar med kravene i denne forskriften.
+2. Teknisk dokumentasjon
+
+   Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organet nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om den pyrotekniske artikkelen er i samsvar med de grunnleggende sikkerhetskravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de grunnleggende sikkerhetskravene og skal, i den grad det er relevant for vurderingen, omfatte den pyrotekniske artikkelens konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:
+
+   1. en generell beskrivelse av den pyrotekniske artikkelen
+   2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+   3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virker,
+   4. en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+   5. resultatene av konstruksjonsberegninger, undersøkelser osv.,
+   6. prøvingsrapporter.
+
+      Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.
+3. Produksjon
+
+   Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte pyrotekniske artiklene oppfyller gjeldende krav i denne forskriften.
+4. Verifisering
+
+   Et meldt organ valgt av produsenten skal utføre eller få utført egnede undersøkelser og prøvinger, som fastsatt i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, eller tilsvarende prøvinger, for å kontrollere at den pyrotekniske artikkelen er i samsvar med gjeldende krav i forskriften. I mangel av en slik harmonisert standard og/eller teknisk spesifikasjon skal det meldte organet bestemme hvilke egnede prøvinger som skal utføres.
+
+   Det meldte organet skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelsene og prøvingene, og skal påføre sitt identifikasjonsnummer på den godkjente pyrotekniske artikkelen eller få det påført på det meldte organets ansvar.
+
+   Produsenten skal kunne stille samsvarssertifikatene til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning.
+5. Samsvarsmerking og samsvarserklæring
+6. Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften og, under ansvar av det meldte organet nevnt i nr. 4, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som oppfyller gjeldende krav i denne forskriften.
+7. Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.
+
+   En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
 
 6\.
 
-MODUL H: *Samsvar på grunnlag av full kvalitetssikring*Samsvar på grunnlag av full kvalitetssikring er den fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene oppfyller kravene i denne forskriften.ProduksjonProdusenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for konstruksjon, produksjon samt inspeksjon og prøving av ferdige pyrotekniske artikler, og skal være underlagt tilsynet omhandlet i nr. 4.KvalitetssystemProdusenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til et meldt organ etter eget valg.Søknaden skal inneholde:produsentens navn og adresse,den tekniske dokumentasjonen for én modell av hver kategori pyrotekniske artikler som skal produseres. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:en generell beskrivelse av den pyrotekniske artikkelenkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virkeren liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.dokumentasjon for kvalitetssystemet,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ.Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med kravene i denne forskriften.Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.Den skal særlig inneholde en tilstrekkelig beskrivelse av:kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til konstruksjons- og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder som skal anvendes, og dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke blir anvendt i sin helhet, hvilke midler som vil bli brukt for å sikre at de grunnleggende sikkerhetskravene i denne forskriften, vil bli oppfylt,teknikker for kontroll og verifisering av konstruksjon samt prosesser og systematiske tiltak som benyttes ved konstruksjon av pyrotekniske artikler i forbindelse med den aktuelle kategori pyroteknisk artikkel,tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,midler til å føre tilsyn med at den konstruksjons- og produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller den tekniske spesifikasjonen, oppfyller disse kravene.I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav b for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i denne forskriften og gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.Tilsyn på det meldte organets ansvarFormålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.Produsenten skal gi det meldte organet adgang til å inspisere steder der konstruksjon, produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, prøvinger osv.,kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet utføre eller få utført prøvinger av de pyrotekniske artiklene for å kontrollere om kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.Samsvarsmerking og samsvarserklæringProdusenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften, og under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som oppfyller gjeldende krav i denne forskriften.Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:den tekniske dokumentasjonen nevnt i nr. 3.1,dokumentasjonen for kvalitetssystemet som nevnt i nr. 3.1endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det meldte organet nevnt i 3.5, 4.3 og 4.4.Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller trukket tilbake, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
+MODUL H: *Samsvar på grunnlag av full kvalitetssikring*
+
+- Samsvar på grunnlag av full kvalitetssikring er den fremgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte pyrotekniske artiklene oppfyller kravene i denne forskriften.
+- Produksjon
+
+  Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for konstruksjon, produksjon samt inspeksjon og prøving av ferdige pyrotekniske artikler, og skal være underlagt tilsynet omhandlet i nr. 4.
+- Kvalitetssystem
+- Produsenten skal inngi en søknad om vurdering av kvalitetssystemet for de berørte pyrotekniske artiklene til et meldt organ etter eget valg.
+
+  Søknaden skal inneholde:
+
+  1. produsentens navn og adresse,
+  2. den tekniske dokumentasjonen for én modell av hver kategori pyrotekniske artikler som skal produseres. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde:
+
+     - en generell beskrivelse av den pyrotekniske artikkelen
+     - konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+     - beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan den pyrotekniske artikkelen virker
+     - en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i Den europeiske unions tidende, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i denne forskriften når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,
+     - resultatene av konstruksjonsberegninger, undersøkelser osv.,
+     - prøvingsrapporter.
+  3. dokumentasjon for kvalitetssystemet,
+  4. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ.
+- Kvalitetssystemet skal sikre at de pyrotekniske artiklene er i samsvar med kravene i denne forskriften.
+
+  Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, fremgangsmåter og instruksjoner. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemets programmer, planer, håndbøker og registre på en ensartet måte.
+
+  Den skal særlig inneholde en tilstrekkelig beskrivelse av:
+
+  1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til konstruksjons- og produktkvalitet,
+  2. tekniske konstruksjonsspesifikasjoner, herunder standarder som skal anvendes, og dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke blir anvendt i sin helhet, hvilke midler som vil bli brukt for å sikre at de grunnleggende sikkerhetskravene i denne forskriften, vil bli oppfylt,
+  3. teknikker for kontroll og verifisering av konstruksjon samt prosesser og systematiske tiltak som benyttes ved konstruksjon av pyrotekniske artikler i forbindelse med den aktuelle kategori pyroteknisk artikkel,
+  4. tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+  5. undersøkelser og prøvinger som skal utføres før, under og etter produksjonen, samt hvor ofte de vil bli utført,
+  6. kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.,
+  7. midler til å føre tilsyn med at den konstruksjons- og produktkvalitet som kreves, oppnås, og at kvalitetssystemet virker effektivt.
+- Det meldte organet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
+
+  Det skal forutsette at de delene av kvalitetssystemet som er i samsvar med tilsvarende spesifikasjoner i den nasjonale standarden som gjennomfører den relevante harmoniserte standarden og/eller den tekniske spesifikasjonen, oppfyller disse kravene.
+
+  I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innenfor vurdering av det aktuelle produktområdet og den berørte produktteknologi samt kunnskap om gjeldende krav i denne forskriften. Revisjonen skal omfatte et vurderingsbesøk på produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1 bokstav b for å kontrollere produsentens evne til å sette seg inn i gjeldende krav i denne forskriften og gjennomføre nødvendige undersøkelser for å sikre at den pyrotekniske artikkelen er i samsvar med disse kravene.
+
+  Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+- Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og å vedlikeholde det slik at det fortsatt virker hensiktsmessig og effektivt.
+- Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om enhver planlagt endring av kvalitetssystemet.
+
+  Det meldte organet skal vurdere de foreslåtte endringene og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene nevnt i nr. 3.2, eller om en ny vurdering er nødvendig.
+
+  Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og et begrunnet vurderingsvedtak.
+- Tilsyn på det meldte organets ansvar
+- Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+- Produsenten skal gi det meldte organet adgang til å inspisere steder der konstruksjon, produksjon, inspeksjon, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+  1. dokumentasjon for kvalitetssystemet,
+  2. kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, prøvinger osv.,
+  3. kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+- Det meldte organet skal utføre regelmessig revisjon for å sikre at produsenten vedlikeholder og anvender kvalitetssystemet, og det skal fremlegge en revisjonsrapport for produsenten.
+- Det meldte organet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organet utføre eller få utført prøvinger av de pyrotekniske artiklene for å kontrollere om kvalitetssystemet virker korrekt. Det meldte organet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det er utført prøvinger.
+- Samsvarsmerking og samsvarserklæring
+- Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i denne forskriften, og under ansvar av det meldte organet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hver enkel pyroteknisk artikkel som oppfyller gjeldende krav i denne forskriften.
+- Produsenten skal utarbeide en skriftlig samsvarserklæring for den pyrotekniske artikkelen og kunne stille den til rådighet for tilsynsmyndigheten i ti år etter at den pyrotekniske artikkelen er brakt i omsetning. I samsvarserklæringen skal det angis hvilken pyroteknisk artikkel den er utarbeidet for.
+
+  En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for tilsynsmyndigheten.
+- Produsenten skal i minst ti år etter at den pyrotekniske artikkelen er brakt i omsetning, kunne stille følgende til rådighet for tilsynsmyndigheten:
+
+  1. den tekniske dokumentasjonen nevnt i nr. 3.1,
+  2. dokumentasjonen for kvalitetssystemet som nevnt i nr. 3.1
+  3. endringen nevnt i nr. 3.5, som godkjent,
+  4. vedtakene og rapportene fra det meldte organet nevnt i 3.5, 4.3 og 4.4.
+- Hvert meldt organ skal underrette tilsynsmyndigheten om de godkjenninger av kvalitetssystemer som er utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for tilsynsmyndigheten listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.
+
+  Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller trukket tilbake, og på anmodning om de godkjenningene av kvalitetssystemer som det har utstedt.
 
 ## Vedlegg III Fyrverkeri som kan gjøres tilgjengelig for forbruker
 

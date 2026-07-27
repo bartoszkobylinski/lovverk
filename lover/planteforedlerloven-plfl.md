@@ -15,7 +15,7 @@ xml_hash: "8232555b480e74881eedb656dc54a048c75f97bb7915b207dad39bab69f210e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,26 @@ Den som har foredlet en plantesort eller som foredlerens rett er gått over til 
 
 Planteforedlerrett meddeles for plantesorter som tilhører de planteslekter eller plantearter som Kongen har fastsatt at loven skal gjelde for.
 
-Planteforedlerrett kan bare gis til sortseiere somhar bopel eller sete her i riket ellerer statsborger av eller har bopel eller sete i en stat som er medlem av Den internasjonale union for beskyttelse av nye plantesorter.Kongen kan ved forskrift eller enkeltvedtak bestemme at planteforedlerrett kan meddeles i andre tilfeller enn nevnt i første punktum.
+Planteforedlerrett kan bare gis til sortseiere som
+
+1. har bopel eller sete her i riket eller
+2. er statsborger av eller har bopel eller sete i en stat som er medlem av Den internasjonale union for beskyttelse av nye plantesorter.
+
+Kongen kan ved forskrift eller enkeltvedtak bestemme at planteforedlerrett kan meddeles i andre tilfeller enn nevnt i første punktum.
 
 > Endret ved lov [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996).
 
 ### § 2. Vilkår for meddelelse av planteforedlerrett. Prioritet
 
-Planteforedlerrett kan bare meddeles for sortersom klart kan skilles fra alle andre sorter som var kjent på søknadsdagen, jf. annet ledd,som er tilstrekkelig ensartede,som er stabile i de kjennetegn som gjør at sorten klart kan skilles fra andre sorter som nevnt i bokstav a, under formering på den måten som sortseieren har angitt, ogsom ikke er solgt eller utbudt for salg med sortseierens samtykkeher i riket forut for søknadsdagen, elleri utlandet tidligere enn seks år forut for søknadsdagen når det gjelder trær og vinranker og tidligere enn fire år forut for søknadsdagen når det gjelder andre planter.
+Planteforedlerrett kan bare meddeles for sorter
+
+1. som klart kan skilles fra alle andre sorter som var kjent på søknadsdagen, jf. annet ledd,
+2. som er tilstrekkelig ensartede,
+3. som er stabile i de kjennetegn som gjør at sorten klart kan skilles fra andre sorter som nevnt i bokstav a, under formering på den måten som sortseieren har angitt, og
+4. som ikke er solgt eller utbudt for salg med sortseierens samtykke
+
+   1. her i riket forut for søknadsdagen, eller
+   2. i utlandet tidligere enn seks år forut for søknadsdagen når det gjelder trær og vinranker og tidligere enn fire år forut for søknadsdagen når det gjelder andre planter.
 
 En plantesort anses som kjent etter første ledd bokstav a dersom materiale av sorten ervervsmessig er solgt eller utbudt for salg. Sorten anses også som kjent dersom den er inntatt i en offisiell sortsliste, finnes i en allment tilgjengelig referansesamling, er nøye beskrevet i et allment tilgjengelig skrift eller er kommet til allmennhetens kjennskap på annen måte. En sort som er beskrevet i en søknad om planteforedlerrett eller patent eller om opptak i en offisiell sortsliste her i riket eller i en annen stat, anses som kjent fra søknadstidspunktet dersom søknaden leder til meddelelse av planteforedlerrett eller patent eller opptak i sortslisten.
 
@@ -44,7 +57,11 @@ Har sortseieren søkt om planteforedlerrett eller patent for en sort i en eller 
 
 ### § 3. Planteforedlerrettens innhold
 
-Planteforedlerrett innebærer at andre enn sortseieren ikke kan utnytte sorten ervervsmessig uten sortseierens samtykke ved åfremstille plantemateriale av sorten med sikte på at materialet skal utbys for salg til eller på annen måte tilbys for formeringsformål,innføre plantemateriale av sorten med sikte på at materialet skal utbys for salg til eller på annen måte tilbys for formeringsformål, ellerutby plantemateriale av sorten for salg til formeringsformål eller på annen måte tilby plantemateriale av sorten for formeringsformål.
+Planteforedlerrett innebærer at andre enn sortseieren ikke kan utnytte sorten ervervsmessig uten sortseierens samtykke ved å
+
+1. fremstille plantemateriale av sorten med sikte på at materialet skal utbys for salg til eller på annen måte tilbys for formeringsformål,
+2. innføre plantemateriale av sorten med sikte på at materialet skal utbys for salg til eller på annen måte tilbys for formeringsformål, eller
+3. utby plantemateriale av sorten for salg til formeringsformål eller på annen måte tilby plantemateriale av sorten for formeringsformål.
 
 For prydplanter innebærer dessuten planteforedlerretten at andre enn sortseieren ikke uten dennes samtykke kan utnytte planter eller deler av planter av sorten som formeringsmateriale for ervervsmessig produksjon av snittblomster eller annet materiale for prydformål.
 
@@ -74,7 +91,14 @@ I samme søknad kan det bare søkes om beskyttelse av én sort.
 
 Sortsnavnet skal være egnet til å skille sorten fra andre sorter.
 
-Som sortsnavn kan ikke nyttes en betegnelse sombare består av tall med mindre det er alminnelig praksis ved navngivning av en slik sort,er egnet til å villede,strider mot lov eller den offentlige orden eller er egnet til å vekke forargelse,kan forveksles med en betegnelse som er innført eller søkt innført i Plantesortsregisteret eller er innført i et register over beskyttede sorter i en fremmed stat som navn på en annen sort av samme eller nærstående art, eller som allerede nyttes som betegnelse for en sort eller formeringsmateriale av en sort av samme eller nærstående art,kan forveksles med et varemerke, navn, foretaksnavn eller annet kjennetegn som en annen enn søkeren har beskyttelse for på en slik måte at betegnelsen ikke vil kunne registreres som varemerke for plantemateriale eller varer av lignende slag, ellerkan forveksles med et varemerke for plantemateriale eller varer av lignende slag som søkeren har beskyttelse for.
+Som sortsnavn kan ikke nyttes en betegnelse som
+
+1. bare består av tall med mindre det er alminnelig praksis ved navngivning av en slik sort,
+2. er egnet til å villede,
+3. strider mot lov eller den offentlige orden eller er egnet til å vekke forargelse,
+4. kan forveksles med en betegnelse som er innført eller søkt innført i Plantesortsregisteret eller er innført i et register over beskyttede sorter i en fremmed stat som navn på en annen sort av samme eller nærstående art, eller som allerede nyttes som betegnelse for en sort eller formeringsmateriale av en sort av samme eller nærstående art,
+5. kan forveksles med et varemerke, navn, foretaksnavn eller annet kjennetegn som en annen enn søkeren har beskyttelse for på en slik måte at betegnelsen ikke vil kunne registreres som varemerke for plantemateriale eller varer av lignende slag, eller
+6. kan forveksles med et varemerke for plantemateriale eller varer av lignende slag som søkeren har beskyttelse for.
 
 Har søkeren søkt om beskyttelse for sorten i en fremmed stat som er medlem av Den internasjonale union for beskyttelse av nye plantesorter, skal det benyttes samme sortsnavn her i riket som i den fremmede staten med mindre det sortsnavnet som er benyttet i den fremmede staten, strider mot første eller annet ledd, eller av en annen grunn er uegnet som sortsnavn her i riket.
 
@@ -162,7 +186,10 @@ Søksmål om at en planteforedlerrett er ugyldig fordi den er meddelt til en ann
 
 ### § 18. Opphør etter vedtak av Plantesortsnemnda
 
-Plantesortsnemnda skal treffe vedtak om opphør av en planteforedlerrett dersomsortseieren ikke lenger er i stand til å forsyne Plantesortsnemnda med formeringsmateriale av sorten med de egenskaper den ved meddelelsen av planteforedlerretten ble angitt å ha, ellersortseieren ikke innen en fastsatt frist fremskaffer det formeringsmateriale eller de dokumenter eller opplysninger som Plantesortsnemnda trenger for etterkontroll av sorten.
+Plantesortsnemnda skal treffe vedtak om opphør av en planteforedlerrett dersom
+
+1. sortseieren ikke lenger er i stand til å forsyne Plantesortsnemnda med formeringsmateriale av sorten med de egenskaper den ved meddelelsen av planteforedlerretten ble angitt å ha, eller
+2. sortseieren ikke innen en fastsatt frist fremskaffer det formeringsmateriale eller de dokumenter eller opplysninger som Plantesortsnemnda trenger for etterkontroll av sorten.
 
 [§§ 6](lov/1993-03-12-32/§6) og [12](lov/1993-03-12-32/§12) gjelder tilsvarende.
 
@@ -204,7 +231,13 @@ Den som overtrer reglene om anvendelse av sortsnavn i [§ 20](lov/1993-03-12-32/
 
 ### § 23. Vederlag og erstatning for inngrep
 
-For forsettlig eller uaktsomt inngrep i en planteforedlerrett skal inngriperen betale til rettighetshaveren:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,erstatning for skade som følge av inngrepet, ellervederlag svarende til vinningen som er oppnådd ved inngrepet.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
+For forsettlig eller uaktsomt inngrep i en planteforedlerrett skal inngriperen betale til rettighetshaveren:
+
+1. vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,
+2. erstatning for skade som følge av inngrepet, eller
+3. vederlag svarende til vinningen som er oppnådd ved inngrepet.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
 
 Er det handlet forsettlig eller grovt uaktsomt skal inngriperen, dersom rettighetshaveren krever det, i stedet for vederlag og erstatning fastsatt etter første ledd, betale vederlag svarende til det dobbelte av en rimelig lisensavgift for utnyttelsen.
 
@@ -220,7 +253,14 @@ Ansvaret etter første til tredje og femte ledd kan lempes etter [lov 13. juni 1
 
 ### § 24. Tiltak for å hindre inngrep
 
-For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for plantemateriale som utgjør inngrep i en planteforedlerrett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slikt plantemateriale. Slikt pålegg kan blant annet gå ut på at plantemateriale og materialer og hjelpemidler skal:tilbakekalles fra handelen,definitivt fjernes fra handelen,ødelegges, ellerutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for plantemateriale som utgjør inngrep i en planteforedlerrett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slikt plantemateriale. Slikt pålegg kan blant annet gå ut på at plantemateriale og materialer og hjelpemidler skal:
+
+1. tilbakekalles fra handelen,
+2. definitivt fjernes fra handelen,
+3. ødelegges, eller
+4. utleveres til rettighetshaveren.
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
 
 Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 21 a](lov/1993-03-12-32/§21a) annet punktum.
 

@@ -254,7 +254,27 @@ Utvalet kan òg delegere til Kulturdirektoratet å godkjenne rapportar.
 
 Den årlege fordelinga av midlane mellom dei ulike kunstnargruppene som er lista opp i andre ledd, blir fastsett av Kultur- og likestillingsdepartementet etter innstilling frå utvalet for Statens kunstnarstipend.
 
-Følgjande kunstnargrupper kan få tildelt stipendkvote etter første ledd:Andre kunstnargrupperBarne- og ungdomslitterære forfattararBiletkunstnararDansekunstnararDramatikararFaglitterære forfattarar og omsetjararFilmkunstnararFolkekunstnararFotografarKomponistarKritikararKunsthandverkararMusikarar, songarar og dirigentarPopulærkomponistarSceneinstruktørarScenografar og kostymedesignararSkjønlitterære forfattararSkjønlitterære omsetjararSkodespelarar og dukkespelarar.
+Følgjande kunstnargrupper kan få tildelt stipendkvote etter første ledd:
+
+1. Andre kunstnargrupper
+2. Barne- og ungdomslitterære forfattarar
+3. Biletkunstnarar
+4. Dansekunstnarar
+5. Dramatikarar
+6. Faglitterære forfattarar og omsetjarar
+7. Filmkunstnarar
+8. Folkekunstnarar
+9. Fotografar
+10. Komponistar
+11. Kritikarar
+12. Kunsthandverkarar
+13. Musikarar, songarar og dirigentar
+14. Populærkomponistar
+15. Sceneinstruktørar
+16. Scenografar og kostymedesignarar
+17. Skjønlitterære forfattarar
+18. Skjønlitterære omsetjarar
+19. Skodespelarar og dukkespelarar.
 
 ### § 33. Høyring av kvotefordelinga
 

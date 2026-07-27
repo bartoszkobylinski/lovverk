@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-I medhold av [trygderettsloven § 2 andre ledd](lov/1966-12-16-9/§2/ledd/2) skal vedtak om individuelle rettigheter og plikter i følgende ordninger kunne ankes inn for Trygderetten:kommunale pensjonsordninger omfattet av [forsikringsvirksomhetsloven kapittel 4](lov/2005-06-10-44/kap4),pensjonsordninger for folkevalgte i kommuner og fylkeskommuner, jf. [kommuneloven § 8-7](lov/2018-06-22-83/§8-7),Sykehjelps- og pensjonsordningen for leger, ogSykehjelpsordningen for tannleger.
+I medhold av [trygderettsloven § 2 andre ledd](lov/1966-12-16-9/§2/ledd/2) skal vedtak om individuelle rettigheter og plikter i følgende ordninger kunne ankes inn for Trygderetten:
+
+1. kommunale pensjonsordninger omfattet av [forsikringsvirksomhetsloven kapittel 4](lov/2005-06-10-44/kap4),
+2. pensjonsordninger for folkevalgte i kommuner og fylkeskommuner, jf. [kommuneloven § 8-7](lov/2018-06-22-83/§8-7),
+3. Sykehjelps- og pensjonsordningen for leger, og
+4. Sykehjelpsordningen for tannleger.
 
 ## § 2.
 

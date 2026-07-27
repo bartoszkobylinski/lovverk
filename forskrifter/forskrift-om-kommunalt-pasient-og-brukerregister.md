@@ -52,7 +52,45 @@ Den dataansvarlige skal opprette et fagråd hvor minst pasient- og brukerorganis
 
 ### § 2-1. Opplysningstyper som kan registreres
 
-Når det er nødvendig for registerets formål, jf. [§ 1-1](forskrift/2017-08-25-1292/§1-1) andre ledd, kan følgende opplysningstyper registreres:direkte personidentifiserende kjennetegn:fødselsnummer eller annen personidentifikatordemografiske og sosioøkonomiske opplysninger:fødselsdatokjønnfødekommune/fødeland og innvandringstidspunktbosted/utvandringstidspunktbo- og omsorgssituasjonsivilstandutdanningarbeidstilknytninginntektdødsdatoadministrative opplysninger om tjenestene:tjenesteyter/organisasjontidsangivelse for varighet av og form for kontakt med tjenestenom det er utarbeidet individuell plan, omsorgslønn og brukerstyrt personlig assistanse (BPA)samhandling innad i tjenestenhelse- og omsorgsfaglige opplysninger:helsetilstanddiagnosefunksjonsevnerisikofaktorer for sykdom og funksjonssviktkategorisering av/type tjenestebehovtype helsehjelp eller tjenesteopplysninger om ulykker og skader:skadestedskadetidspunktandre opplysninger om skadeopplysninger om finansiering av tjenestenopplysninger om den registrerte har motsatt seg behandling av helseopplysningerpasient- og brukerrapporterte opplysninger.
+Når det er nødvendig for registerets formål, jf. [§ 1-1](forskrift/2017-08-25-1292/§1-1) andre ledd, kan følgende opplysningstyper registreres:
+
+1. direkte personidentifiserende kjennetegn:
+
+   - fødselsnummer eller annen personidentifikator
+2. demografiske og sosioøkonomiske opplysninger:
+
+   - fødselsdato
+   - kjønn
+   - fødekommune/fødeland og innvandringstidspunkt
+   - bosted/utvandringstidspunkt
+   - bo- og omsorgssituasjon
+   - sivilstand
+   - utdanning
+   - arbeidstilknytning
+   - inntekt
+   - dødsdato
+3. administrative opplysninger om tjenestene:
+
+   - tjenesteyter/organisasjon
+   - tidsangivelse for varighet av og form for kontakt med tjenesten
+   - om det er utarbeidet individuell plan, omsorgslønn og brukerstyrt personlig assistanse (BPA)
+   - samhandling innad i tjenesten
+4. helse- og omsorgsfaglige opplysninger:
+
+   - helsetilstand
+   - diagnose
+   - funksjonsevne
+   - risikofaktorer for sykdom og funksjonssvikt
+   - kategorisering av/type tjenestebehov
+   - type helsehjelp eller tjeneste
+5. opplysninger om ulykker og skader:
+
+   - skadested
+   - skadetidspunkt
+   - andre opplysninger om skade
+6. opplysninger om finansiering av tjenesten
+7. opplysninger om den registrerte har motsatt seg behandling av helseopplysninger
+8. pasient- og brukerrapporterte opplysninger.
 
 Opplysningstypene som nevnt i [§ 2-1](forskrift/2017-08-25-1292/§2-1) bokstav a til g kan registreres i registeret uten samtykke fra den registrerte.
 

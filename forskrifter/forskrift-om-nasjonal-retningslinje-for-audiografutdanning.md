@@ -42,7 +42,15 @@ Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for li
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1471/kap2) til [8](forskrift/2025-07-04-1471/kap8) under følgende kompetanseområder:Profesjonalitet og etikkIndivid, omgivelser, funksjon og helseKunnskapsbasert yrkesutøvelseLyd og persepsjonFolkehelse og kulturforståelseSamhandling og rettigheterForskning og utvikling.
+Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1471/kap2) til [8](forskrift/2025-07-04-1471/kap8) under følgende kompetanseområder:
+
+- Profesjonalitet og etikk
+- Individ, omgivelser, funksjon og helse
+- Kunnskapsbasert yrkesutøvelse
+- Lyd og persepsjon
+- Folkehelse og kulturforståelse
+- Samhandling og rettigheter
+- Forskning og utvikling.
 
 Læringsutbyttebeskrivelsene [§ 6](forskrift/2025-07-04-1471/§6) a, [§ 8](forskrift/2025-07-04-1471/§8) b, [§ 10](forskrift/2025-07-04-1471/§10) d og f, [§ 11](forskrift/2025-07-04-1471/§11) e, [§ 16](forskrift/2025-07-04-1471/§16) b og c, [§ 17](forskrift/2025-07-04-1471/§17) a og b, [§ 19](forskrift/2025-07-04-1471/§19) a, b og c, [§ 20](forskrift/2025-07-04-1471/§20) a og b, [§ 23](forskrift/2025-07-04-1471/§23) a og c og [§ 24](forskrift/2025-07-04-1471/§24) d er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -52,99 +60,183 @@ Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjø
 
 ### § 4. Profesjonalitet og etikk – Kunnskap
 
-Kandidatenhar kunnskap om audiologiens historie, utvikling, egenart og plass i samfunnet, og kjenner til fremtidige utfordringer innen fagfeltet og i samfunnet forøvrighar kunnskap om etisk teori, ulike verdioppfatninger og menneskesyn knyttet til yrkesutøvelsenkan oppdatere sin kunnskap innen audiologisk profesjonsutvikling på nasjonalt og internasjonalt nivå.
+Kandidaten
+
+1. har kunnskap om audiologiens historie, utvikling, egenart og plass i samfunnet, og kjenner til fremtidige utfordringer innen fagfeltet og i samfunnet forøvrig
+2. har kunnskap om etisk teori, ulike verdioppfatninger og menneskesyn knyttet til yrkesutøvelsen
+3. kan oppdatere sin kunnskap innen audiologisk profesjonsutvikling på nasjonalt og internasjonalt nivå.
 
 ### § 5. Profesjonalitet og etikk – Ferdigheter
 
-Kandidatenkan anvende relevant kunnskap for å møte andre med et helhetlig menneskesyn, respekt og empatikan reflektere over egen profesjonsidentitet og justere egen faglig utøvelse i behandlingssituasjoner og i samhandling med aktuelle samarbeidspartnere.
+Kandidaten
+
+1. kan anvende relevant kunnskap for å møte andre med et helhetlig menneskesyn, respekt og empati
+2. kan reflektere over egen profesjonsidentitet og justere egen faglig utøvelse i behandlingssituasjoner og i samhandling med aktuelle samarbeidspartnere.
 
 ### § 6. Profesjonalitet og etikk – Generell kompetanse
 
-Kandidatenhar innsikt i og kan selvstendig identifisere, reflektere og håndtere etiske problemstillinger i sin tjenesteutøvelsehar innsikt i og kan følge audiografenes yrkesetiske retningslinjer.
+Kandidaten
+
+1. har innsikt i og kan selvstendig identifisere, reflektere og håndtere etiske problemstillinger i sin tjenesteutøvelse
+2. har innsikt i og kan følge audiografenes yrkesetiske retningslinjer.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet individ, omgivelser, funksjon og helse
 
 ### § 7. Individ, omgivelser, funksjon og helse – Kunnskap
 
-Kandidatenhar bred kunnskap om hørselssystemets anatomi, patologi og fysiologihar bred kunnskap om hvordan samspillet mellom individ, funksjonsnedsettelse og omgivelser påvirker aktivitetsutførelse, deltakelse, helse og livskvalitet gjennom livsløpethar kunnskap om psykososiale forhold, kroppens anatomi, funksjon og utvikling som forutsetning for helse, aktivitet og deltagelse.
+Kandidaten
+
+1. har bred kunnskap om hørselssystemets anatomi, patologi og fysiologi
+2. har bred kunnskap om hvordan samspillet mellom individ, funksjonsnedsettelse og omgivelser påvirker aktivitetsutførelse, deltakelse, helse og livskvalitet gjennom livsløpet
+3. har kunnskap om psykososiale forhold, kroppens anatomi, funksjon og utvikling som forutsetning for helse, aktivitet og deltagelse.
 
 ### § 8. Individ, omgivelser, funksjon og helse – Ferdighet
 
-Kandidatenkan anvende hørselsfaglig kunnskap for å møte individets behov i et helhetsperspektiv, og tilrettelegge for å fremme mestring, selvstendighet og deltagelsekan anvende faglig kunnskap for å veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser.
+Kandidaten
+
+1. kan anvende hørselsfaglig kunnskap for å møte individets behov i et helhetsperspektiv, og tilrettelegge for å fremme mestring, selvstendighet og deltagelse
+2. kan anvende faglig kunnskap for å veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser.
 
 ### § 9. Individ, omgivelser, funksjon og helse – Generell kompetanse
 
-Kandidatenkjenner til hvordan forekomst av flere ulike sykdommer eller lidelser samtidig hos samme person kan påvirke individets totale funksjon, og tar hensyn til dette i behandlingsforløpet.
+Kandidaten
+
+1. kjenner til hvordan forekomst av flere ulike sykdommer eller lidelser samtidig hos samme person kan påvirke individets totale funksjon, og tar hensyn til dette i behandlingsforløpet.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet kunnskapsbasert yrkesutøvelse
 
 ### § 10. Kunnskapsbasert yrkesutøvelse – Kunnskap
 
-Kandidatenhar bred kunnskap om teorier og metoder innen audiologisk utredning, habilitering og rehabilitering og ivaretar ulike forutsetninger og behov hos barn, unge, voksne og eldrehar bred kunnskap om audiologiske utfordringer hos barn og unge, ivaretar deres særskilte behov for audiologisk behandling og/eller hørselsrelaterte tjenester, og henviser videre ved behovhar bred kunnskap om pasientsikkerhet, basale smittevernsrutiner, relevante kvalitetssikringsmetoder, standarder og retningslinjerhar bred kunnskap om relasjons-, kommunikasjons-, rådgivnings- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende. Videre skal kandidaten ha kunnskap om hvordan språk og kultur påvirker dettehar kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorghar kunnskap om digital teknologi, herunder digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå innen det audiologiske fagfeltetkan oppdatere sin kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksiskjenner til viktigheten av bruker- og pårørendekunnskap.
+Kandidaten
+
+1. har bred kunnskap om teorier og metoder innen audiologisk utredning, habilitering og rehabilitering og ivaretar ulike forutsetninger og behov hos barn, unge, voksne og eldre
+2. har bred kunnskap om audiologiske utfordringer hos barn og unge, ivaretar deres særskilte behov for audiologisk behandling og/eller hørselsrelaterte tjenester, og henviser videre ved behov
+3. har bred kunnskap om pasientsikkerhet, basale smittevernsrutiner, relevante kvalitetssikringsmetoder, standarder og retningslinjer
+4. har bred kunnskap om relasjons-, kommunikasjons-, rådgivnings- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende. Videre skal kandidaten ha kunnskap om hvordan språk og kultur påvirker dette
+5. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg
+6. har kunnskap om digital teknologi, herunder digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå innen det audiologiske fagfeltet
+7. kan oppdatere sin kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis
+8. kjenner til viktigheten av bruker- og pårørendekunnskap.
 
 ### § 11. Kunnskapsbasert yrkesutøvelse – Ferdighet
 
-Kandidatenkan anvende faglige kunnskaper om hensiktsmessige metoder for kvalitetssikring innen forebyggende audiologi og ved utredning, behandling og oppfølging av personer i et pasientforløpkan anvende faglig kunnskap for tolkning og formidling av audiologiske testresultaterkan anvende faglig kunnskap om hensiktsmessige teknikker, metoder, utstyr og medisinskteknologiske løsninger, og valg av disse i utredning, habiliterings- og rehabiliteringsprosesser i alle livsfaserkan beherske livreddende førstehjelpkan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk.
+Kandidaten
+
+1. kan anvende faglige kunnskaper om hensiktsmessige metoder for kvalitetssikring innen forebyggende audiologi og ved utredning, behandling og oppfølging av personer i et pasientforløp
+2. kan anvende faglig kunnskap for tolkning og formidling av audiologiske testresultater
+3. kan anvende faglig kunnskap om hensiktsmessige teknikker, metoder, utstyr og medisinskteknologiske løsninger, og valg av disse i utredning, habiliterings- og rehabiliteringsprosesser i alle livsfaser
+4. kan beherske livreddende førstehjelp
+5. kan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk.
 
 ### § 12. Kunnskapsbasert yrkesutøvelse – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre habiliterings- og rehabiliteringsprosesser i samarbeid med pasienter, pårørende og andre helseaktørerkan planlegge, dokumentere og formidle sin faglige kunnskap på måter som er tilpasset målgruppenkan planlegge og initiere tverrprofesjonelt og tverrsektorielt samarbeid.
+Kandidaten
+
+1. kan planlegge og gjennomføre habiliterings- og rehabiliteringsprosesser i samarbeid med pasienter, pårørende og andre helseaktører
+2. kan planlegge, dokumentere og formidle sin faglige kunnskap på måter som er tilpasset målgruppen
+3. kan planlegge og initiere tverrprofesjonelt og tverrsektorielt samarbeid.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet lyd og persepsjon
 
 ### § 13. Kompetanseområdet lyd og persepsjon – Kunnskap
 
-Kandidatenhar bred kunnskap om persepsjon av lyd og faktorer som påvirker lydoppfattelsen hos personer med normal hørsel, ulike hørselstap og andre hørselsproblemerhar bred kunnskap om talens akustiske oppbygging som inkluderer produksjon, overføring og persepsjon av talelyderhar bred kunnskap om hvordan støy påvirker hørselssystemet og individet generelthar kunnskap om signalers oppbygging, egenskaper og anvendelse i ulike audiologiske sammenhengerhar kunnskap om lydmålinger og regelverk for støybelastningkan oppdatere sin kunnskap om regelverk, prinsipper og standarder innen lydmiljø, akustikk og universell utforming.
+Kandidaten
+
+1. har bred kunnskap om persepsjon av lyd og faktorer som påvirker lydoppfattelsen hos personer med normal hørsel, ulike hørselstap og andre hørselsproblemer
+2. har bred kunnskap om talens akustiske oppbygging som inkluderer produksjon, overføring og persepsjon av talelyder
+3. har bred kunnskap om hvordan støy påvirker hørselssystemet og individet generelt
+4. har kunnskap om signalers oppbygging, egenskaper og anvendelse i ulike audiologiske sammenhenger
+5. har kunnskap om lydmålinger og regelverk for støybelastning
+6. kan oppdatere sin kunnskap om regelverk, prinsipper og standarder innen lydmiljø, akustikk og universell utforming.
 
 ### § 14. Kompetanseområdet lyd og persepsjon – Ferdighet
 
-Kandidatenkan anvende faglig kunnskap om sammenhengen mellom lydens egenskaper og hvordan den oppfatteskan anvende faglig kunnskap for å forstå bakgrunnen for målinger av ulike nivå i hørselssystemet og konsekvenser av hørselstapkan anvende faglig kunnskap for å forstå hvordan ulike hørselstap og redusert kognitiv funksjon kan påvirke evne til å oppfatte tale, og hvilke begrensninger hørselstekniske hjelpemidler kan ha.
+Kandidaten
+
+1. kan anvende faglig kunnskap om sammenhengen mellom lydens egenskaper og hvordan den oppfattes
+2. kan anvende faglig kunnskap for å forstå bakgrunnen for målinger av ulike nivå i hørselssystemet og konsekvenser av hørselstap
+3. kan anvende faglig kunnskap for å forstå hvordan ulike hørselstap og redusert kognitiv funksjon kan påvirke evne til å oppfatte tale, og hvilke begrensninger hørselstekniske hjelpemidler kan ha.
 
 ### § 15. Kompetanseområdet lyd og persepsjon – Generell kompetanse
 
-Kandidatenkan formidle sammenhengen mellom lydoppfattelse, hørselsfunksjon og konsekvenser av hørselsrelaterte problemer til pasienter, pårørende og personer i og utenfor fagfeltet.
+Kandidaten
+
+1. kan formidle sammenhengen mellom lydoppfattelse, hørselsfunksjon og konsekvenser av hørselsrelaterte problemer til pasienter, pårørende og personer i og utenfor fagfeltet.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet folkehelse og kulturforståelse
 
 ### § 16. Folkehelse og kulturforståelse – Kunnskap
 
-Kandidatenhar bred kunnskap om folkehelse og forebyggende virksomhet innen audiologihar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kan henvise videre ved behovhar kunnskap om hvordan lokale, nasjonale og globale helse- og miljøutfordringer og forskjeller påvirker individers aktivitetsmulighet og livskvalitet.
+Kandidaten
+
+1. har bred kunnskap om folkehelse og forebyggende virksomhet innen audiologi
+2. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+3. har kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kan henvise videre ved behov
+4. har kunnskap om hvordan lokale, nasjonale og globale helse- og miljøutfordringer og forskjeller påvirker individers aktivitetsmulighet og livskvalitet.
 
 ### § 17. Folkehelse og kulturforståelse – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap til å identifisere og følge opp personer med sosiale og helsemessige problemer som har hørselsrelaterte utfordringer, sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behovkan anvende faglig kunnskap for å forstå sammenhengene mellom helse, utdanning, arbeid og levekår, og bruke dette i sin tjenesteutøvelse overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering.
+Kandidaten
+
+1. kan anvende faglig kunnskap til å identifisere og følge opp personer med sosiale og helsemessige problemer som har hørselsrelaterte utfordringer, sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov
+2. kan anvende faglig kunnskap for å forstå sammenhengene mellom helse, utdanning, arbeid og levekår, og bruke dette i sin tjenesteutøvelse overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering.
 
 ### § 18. Folkehelse og kulturforståelse – Generell kompetanse
 
-Kandidatenhar innsikt i kulturelt betingede oppfatninger av funksjonshemming, helse, sykdom og behandling, kan utveksle faglige vurderinger med pasienter, pårørende og fagpersoner, og forstå andres perspektiver og ståsteder.
+Kandidaten
+
+1. har innsikt i kulturelt betingede oppfatninger av funksjonshemming, helse, sykdom og behandling, kan utveksle faglige vurderinger med pasienter, pårørende og fagpersoner, og forstå andres perspektiver og ståsteder.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet samhandling og rettigheter
 
 ### § 19. Samhandling og rettigheter – Kunnskap
 
-Kandidatenhar kunnskap om og forholder seg til helse- og sosialpolitiske føringerhar kunnskap om barn og unge og er en utøver som ivaretar deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheterhar kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet.
+Kandidaten
+
+1. har kunnskap om og forholder seg til helse- og sosialpolitiske føringer
+2. har kunnskap om barn og unge og er en utøver som ivaretar deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter
+3. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet.
 
 ### § 20. Samhandling og rettigheter – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap for å samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandlingkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.
+Kandidaten
+
+1. kan anvende faglig kunnskap for å samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandling
+2. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.
 
 ### § 21. Samhandling og rettigheter – Generell kompetanse
 
-Kandidatenhar innsikt i og forholder seg til helse- og sosialpolitiske føringer, og kjenner til og kan anvende oppdatert kunnskap om helse- og velferdssystemethar innsikt i andre relevante profesjoners kompetanseområde som grunnlag for samarbeid.
+Kandidaten
+
+1. har innsikt i og forholder seg til helse- og sosialpolitiske føringer, og kjenner til og kan anvende oppdatert kunnskap om helse- og velferdssystemet
+2. har innsikt i andre relevante profesjoners kompetanseområde som grunnlag for samarbeid.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet forskning og utvikling
 
 ### § 22. Forskning og utvikling – Kunnskap
 
-Kandidatenhar kunnskap om forskningsetikk og metoder for innsamling og analyse av empirisk materialehar kunnskap om forskningsmetoder, vitenskapsteorier og kunnskapsteorier med relevans for audiologikan oppdatere sin kunnskap innen relevant litteratur, forskningsmetoder og referansebruk.
+Kandidaten
+
+1. har kunnskap om forskningsetikk og metoder for innsamling og analyse av empirisk materiale
+2. har kunnskap om forskningsmetoder, vitenskapsteorier og kunnskapsteorier med relevans for audiologi
+3. kan oppdatere sin kunnskap innen relevant litteratur, forskningsmetoder og referansebruk.
 
 ### § 23. Forskning og utvikling – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap til å dokumentere, kvalitetssikre, vurdere og formidle egen praksiskan finne, vurdere og henvise til informasjon og fagstoff fra forsknings- og utviklingsarbeid, og fremstille dette slik at det belyser en problemstillingkan vurdere og beskrive egne læringsbehov, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
+Kandidaten
+
+1. kan anvende faglig kunnskap til å dokumentere, kvalitetssikre, vurdere og formidle egen praksis
+2. kan finne, vurdere og henvise til informasjon og fagstoff fra forsknings- og utviklingsarbeid, og fremstille dette slik at det belyser en problemstilling
+3. kan vurdere og beskrive egne læringsbehov, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
 
 ### § 24. Forskning og utvikling – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre arbeidsoppgaver selvstendig og ansvarlig i ulike situasjoner og vise evne til refleksjon og kritisk tekningkan planlegge og gjennomføre kunnskaps- og utviklingsprosjekter systematiskkan planlegge, gjennomføre og lede kvalitetsforberedende arbeidsprosesserkjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser.
+Kandidaten
+
+1. kan planlegge og gjennomføre arbeidsoppgaver selvstendig og ansvarlig i ulike situasjoner og vise evne til refleksjon og kritisk tekning
+2. kan planlegge og gjennomføre kunnskaps- og utviklingsprosjekter systematisk
+3. kan planlegge, gjennomføre og lede kvalitetsforberedende arbeidsprosesser
+4. kjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser.
 
 ## Kapittel 9. Studiets oppbygning og praksisstudier
 

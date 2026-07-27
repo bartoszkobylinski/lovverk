@@ -15,7 +15,7 @@ xml_hash: "56b6122c5f56d6373b0b2a44e4b7698907d2cecfe2c9ad847c85c2a730db1d18"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,16 @@ eu_basis: []
 
 ## § 1. Konsesjonsgrenser
 
-Grensene for svine- og fjørfehold som kan drives uten departementets tillatelse er 2 100 konsesjonsenheter som fordeler seg slik;maksimalt 280 000 omsatte eller slaktede kyllinger pr. år,maksimalt 60 000 omsatte eller slaktede kalkuner pr. år,maksimalt 7 500 verpehøner på ethvert tidspunkt,maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år,maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 150 utrangerte avlspurker pr. år (faktor 1,4286),produksjon i registrerte foredlingsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 438 utrangerte avlspurker pr. år (faktor 4,1714),produksjon i registrerte formeringsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 220 utrangerte avlspurker pr. år (faktor 2,0952), ellersatellitt i purkering med maksimalt 53 avlspurker på ethvert tidspunkt, eller maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år.
+Grensene for svine- og fjørfehold som kan drives uten departementets tillatelse er 2 100 konsesjonsenheter som fordeler seg slik;
+
+1. maksimalt 280 000 omsatte eller slaktede kyllinger pr. år,
+2. maksimalt 60 000 omsatte eller slaktede kalkuner pr. år,
+3. maksimalt 7 500 verpehøner på ethvert tidspunkt,
+4. maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år,
+5. maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 150 utrangerte avlspurker pr. år (faktor 1,4286),
+6. produksjon i registrerte foredlingsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 438 utrangerte avlspurker pr. år (faktor 4,1714),
+7. produksjon i registrerte formeringsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 220 utrangerte avlspurker pr. år (faktor 2,0952), eller
+8. satellitt i purkering med maksimalt 53 avlspurker på ethvert tidspunkt, eller maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år.
 
 For purkeringer kan det innvilges konsesjon for maksimalt 450 avlspurker i navet, og maksimalt 1010 utrangerte avlspurker per år (faktor 2,2444).
 
@@ -38,13 +47,34 @@ Det er tillatt å overstige konsesjonsgrensen eller innvilget dyretall med innti
 
 ## § 3. Forholdstall
 
-Som konsesjonsenheter teller*slaktegris*: 1 konsesjonsenhet*avlspurke*: 20 konsesjonsenheter*avlspurke i purkering*: 40 konsesjonsenheter*slaktekylling*: 0,0075 konsesjonsenheter*kalkun*: 0,035 konsesjonsenheter*verpehøne*: 0,28 konsesjonsenheter*utrangert avlspurke*: 14 konsesjonsenheter*utrangert avlspurke i foredlingsbesetning*: 4,8 konsesjonsenheter*utrangert avlspurke i formeringsbesetning*: 9,54545 konsesjonsenheter*utrangert avlspurke i nav i purkering*: 2,08 konsesjonsenheter.
+Som konsesjonsenheter teller
+
+1. *slaktegris*: 1 konsesjonsenhet
+2. *avlspurke*: 20 konsesjonsenheter
+3. *avlspurke i purkering*: 40 konsesjonsenheter
+4. *slaktekylling*: 0,0075 konsesjonsenheter
+5. *kalkun*: 0,035 konsesjonsenheter
+6. *verpehøne*: 0,28 konsesjonsenheter
+7. *utrangert avlspurke*: 14 konsesjonsenheter
+8. *utrangert avlspurke i foredlingsbesetning*: 4,8 konsesjonsenheter
+9. *utrangert avlspurke i formeringsbesetning*: 9,54545 konsesjonsenheter
+10. *utrangert avlspurke i nav i purkering*: 2,08 konsesjonsenheter.
 
 > Endret ved [forskrifter 26 april 2013 nr. 453](forskrift/2013-04-26-453), [15 des 2014 nr. 1613](forskrift/2014-12-15-1613) (i kraft 1 jan 2015), [17 okt 2019 nr. 1375](forskrift/2019-10-17-1375) (i kraft 1 jan 2020).
 
 ## § 4. Definisjoner
 
-I denne forskriften betyr*slaktekylling*: slaktekylling fra én ukes alder.*kalkun*: kalkun fra én ukes alder.*verpehøne*: høne fra 20 ukers alder som produserer egg til konsum eller rugeeggproduksjon.*slaktegris*: gris fra 50 kg levende vekt.*avlspurke*: gris som har født minst ett kull.*purkering*: driftsopplegg der en produsent med en besetning av avlspurker (nav) leier ut høydrektige avlspurker til flere produsenter (satellitter) for smågris- eller slaktegrisproduksjon.*foredlingsbesetning*: driftsopplegg med produksjon av eliteråner til bruk i avlspopulasjonen i et godkjent norsk avlssystem, testing og egenrekruttering av renavlspurker, salg av renavlspurker til formeringsbesetninger og bruksbesetninger, og hvor produsenten har avtale med en norsk offentlig anerkjent avlsorganisasjon.*formeringsbesetning*: driftsopplegg med produksjon av krysningspurker for videresalg til bruksbesetninger, besetningen skal inneha kun renavlspurker som basis for produksjon av krysningspurker og produsenten har avtale med norsk offentlig anerkjent avlsorganisasjon.*utrangert avlspurke*: avlspurke som er omsatt, slaktet, destruert eller avhendet på annen måte.
+I denne forskriften betyr
+
+1. *slaktekylling*: slaktekylling fra én ukes alder.
+2. *kalkun*: kalkun fra én ukes alder.
+3. *verpehøne*: høne fra 20 ukers alder som produserer egg til konsum eller rugeeggproduksjon.
+4. *slaktegris*: gris fra 50 kg levende vekt.
+5. *avlspurke*: gris som har født minst ett kull.
+6. *purkering*: driftsopplegg der en produsent med en besetning av avlspurker (nav) leier ut høydrektige avlspurker til flere produsenter (satellitter) for smågris- eller slaktegrisproduksjon.
+7. *foredlingsbesetning*: driftsopplegg med produksjon av eliteråner til bruk i avlspopulasjonen i et godkjent norsk avlssystem, testing og egenrekruttering av renavlspurker, salg av renavlspurker til formeringsbesetninger og bruksbesetninger, og hvor produsenten har avtale med en norsk offentlig anerkjent avlsorganisasjon.
+8. *formeringsbesetning*: driftsopplegg med produksjon av krysningspurker for videresalg til bruksbesetninger, besetningen skal inneha kun renavlspurker som basis for produksjon av krysningspurker og produsenten har avtale med norsk offentlig anerkjent avlsorganisasjon.
+9. *utrangert avlspurke*: avlspurke som er omsatt, slaktet, destruert eller avhendet på annen måte.
 
 > Endret ved [forskrift 17 okt 2019 nr. 1375](forskrift/2019-10-17-1375) (i kraft 1 jan 2020).
 
@@ -88,7 +118,9 @@ Drives produksjonen ut over gjeldende konsesjonsgrenser eller innvilget konsesjo
 | 6. Avlspurke i satellitt i purkering | 32 000 | 23 900 |
 | 7. Avlspurke i nav i purkering | 2 650 | 1 975 |
 
-Sats for utrangert avlspurke (inntil 150 for mange utrangerte) beregnes med jevnt avtakende sats ved bruk av formelen hvor S = 6 050, t = 6 og n = antall: \\(\\text{Standardisert erstatning} = \\sum\\limits_{n=0}^{150} (S-tn)\\)
+Sats for utrangert avlspurke (inntil 150 for mange utrangerte) beregnes med jevnt avtakende sats ved bruk av formelen hvor S = 6 050, t = 6 og n = antall:
+
+\\(\\text{Standardisert erstatning} = \\sum\\limits_{n=0}^{150} (S-tn)\\)
 
 Utrangeres mer enn 150 avlspurker for mye, er satsen 5 150 for alle utover de 150.
 

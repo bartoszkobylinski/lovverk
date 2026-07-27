@@ -58,13 +58,41 @@ Alle opplysninger fra et klinisk forsøk registreres, behandles og lagres slik a
 
 ### § 1-4. Vilkår for igangsetting av en klinisk utprøving
 
-Klinisk utprøving kan bare igangsettes dersomreglene i [kapittel 2](forskrift/2009-10-30-1321/kap2) om beskyttelse av forsøkspersonene er oppfyltdet foreligger en forhåndsgodkjenning fra etikkomiteen etter reglene i [kapittel 3](forskrift/2009-10-30-1321/kap3)Direktoratet for medisinske produkter ikke har innsigelser etter reglene i [kapittel 4](forskrift/2009-10-30-1321/kap4).
+Klinisk utprøving kan bare igangsettes dersom
+
+1. reglene i [kapittel 2](forskrift/2009-10-30-1321/kap2) om beskyttelse av forsøkspersonene er oppfylt
+2. det foreligger en forhåndsgodkjenning fra etikkomiteen etter reglene i [kapittel 3](forskrift/2009-10-30-1321/kap3)
+3. Direktoratet for medisinske produkter ikke har innsigelser etter reglene i [kapittel 4](forskrift/2009-10-30-1321/kap4).
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ### § 1-5. Definisjoner
 
-I forskriften menes med*alvorlig uønsket medisinsk hendelse eller alvorlig bivirkning:* skadelig og utilsiktet respons eller effekt, som i hvilken som helst dose resulterer i død, er livstruende, krever sykehusinnleggelse eller forlengelse av sykehusopphold, resulterer i vedvarende eller betydelig handikap eller uførhet, eller er en medfødt anomali eller fødselsskade;*bivirkning:* en uønsket medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, der årsakssammenheng mellom hendelsen og legemidlet som utprøves er sannsynlig eller mulig;*Clinical research organisation (CRO):* en person, eller en organisasjon (kommersiell, akademisk, eller andre) som er engasjert av sponsor til å gjennomføre en eller flere av sponsors utprøvingsrelaterte plikter og funksjoner;*etikkomité:* Den regionale komité for medisinsk og helsefaglig forskningsetikk. Etikkomiteen skal sikre at de personer som deltar i en klinisk utprøving får den beskyttelse de har krav på gjennom å vurdere protokoll, utprøvers kvalifikasjoner, utprøvingsstedets egnethet, og den fremgangsmåte og det materiale som benyttes for å informere forsøkspersonene før informert samtykke avgis;*forsøksperson:* en person som deltar i en klinisk utprøving og som enten mottar utprøvingspreparat, eller som deltar i en kontrollgruppe;*god klinisk utprøvingspraksis (GCP):* en standard for design, ledelse, utførelse, monitorering, auditering, registrering og rapportering av kliniske utprøvinger, og som sikrer at data og de rapporterte resultater er troverdige og nøyaktige, og at forsøkspersonenes rettigheter, integritet og konfidensialitet er beskyttet;*hovedutprøver:* utprøver som leder utprøvingen ved det enkelte utprøvingssted;*ikke-intervensjonsstudie:* en studie der ett eller flere legemidler rekvireres på vanlig måte i samsvar med betingelsene satt i markedsføringstillatelsen. Terapeutisk strategi for hver enkelt pasient bestemmes ikke på forhånd av en studieprotokoll, men faller inn under nåværende praksis, og rekvirering av legemidlene er klart atskilt fra avgjørelsen om å inkludere pasienten i studien. Det skal ikke være nødvendig med tilleggsprosedyrer for diagnostisering eller monitorering av pasienten, og epidemiologiske metoder skal brukes for å analysere de innsamlede data;*informert samtykke:* skriftlig, datert og underskrevet erklæring om å delta i en klinisk utprøving som gis av en person som er i stand til å samtykke. Erklæringen avgis frivillig etter at forsøkspersonen har mottatt fyllestgjørende informasjon om forsøkets art, betydning, rekkevidde og risiko. Er personen ikke i stand til å samtykke, gis samtykket av den som kan samtykke på vedkommendes vegne;*inspeksjon:* en handling fra en regulatorisk myndighet med gjennomgang av dokumenter, fasiliteter, journaler (nedtegnelser), ordninger for kvalitetssikring og hvilke som helst hjelpemiddel som myndighetene anser som relatert til utprøvingen, og som kan være lokalisert på utprøvingsstedet, hos sponsor, og/eller hos CRO, eller ved andre virksomheter som myndighetene finner grunn til å inspisere;*investigator's brochure:* en sammenfatning av de kliniske og prekliniske data vedrørende utprøvingspreparatet(ene) som er relevante for utprøving av preparatet(ene) i mennesker;*klinisk utprøving:* enhver systematisk studie av legemidler til mennesker i den hensikt å skaffe til veie eller etterprøve kunnskap om legemidlenes effekter eller påvirkning av fysiologisk funksjon, interaksjoner, bivirkninger, opptak, fordeling, metabolisme og utskillelse, eller for å studere deres terapeutiske verdi;*legemiddel:* stoffer, droger eller preparater mv. som definert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2);*monitor:* den person som skal påse at studien blir gjennomført, registrert og rapportert i overensstemmelse med protokollen, standard operasjonsprosedyrer, gjeldende retningslinjer for god klinisk utprøvingspraksis, norsk lovgivning for øvrig, samt påse at studien har den avtalte progresjon;*multisenterutprøving:* klinisk utprøving som foregår ved flere sentre samtidig og etter samme protokoll;*nasjonal koordinerende utprøver:* utprøver i Norge som koordinerer de norske sentrene som deltar i en multisenterutprøving;*protokoll:* et dokument som beskriver formål, design, metodologi, statistiske betraktninger og organisering av utprøvingen. Protokollen skal blant annet beskrive hvilke forsøkspersoner som kan eller ikke kan delta i den kliniske utprøvingen, og reglene for overvåkning og publisering;*protokolltillegg:* en skriftlig beskrivelse av en eller flere forandringer av, eller en formell oppklaring av protokollen;*sponsor:* en person, et firma, en institusjon eller organisasjon som er ansvarlig for iverksetting, ledelse og/eller finansiering av en klinisk studie;*utprøver:* lege eller tannlege som utfører klinisk utprøving;*utprøvingspreparat:* en farmasøytisk formulering av et aktivt virkestoff eller placebo, som blir utprøvd eller benyttet som en referanse i en klinisk utprøving. Som utprøvningspreparat regnes også legemiddel med markedsføringstillatelse dersom de blir brukt, formulert, eller pakket på en annen måte enn den godkjente formuleringen, eller brukt for en ikke godkjent indikasjon, eller for å skaffe til veie ytterligere informasjon om den markedsførte formuleringen;*uventet bivirkning:* en bivirkning der egenskapene og/eller alvorlighetsgraden ikke er i overensstemmelse med gjeldende produktinformasjon;*uønsket medisinsk hendelse:* en uheldig medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, og som ikke nødvendigvis har direkte sammenheng med denne behandlingen.
+I forskriften menes med
+
+1. *alvorlig uønsket medisinsk hendelse eller alvorlig bivirkning:* skadelig og utilsiktet respons eller effekt, som i hvilken som helst dose resulterer i død, er livstruende, krever sykehusinnleggelse eller forlengelse av sykehusopphold, resulterer i vedvarende eller betydelig handikap eller uførhet, eller er en medfødt anomali eller fødselsskade;
+2. *bivirkning:* en uønsket medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, der årsakssammenheng mellom hendelsen og legemidlet som utprøves er sannsynlig eller mulig;
+3. *Clinical research organisation (CRO):* en person, eller en organisasjon (kommersiell, akademisk, eller andre) som er engasjert av sponsor til å gjennomføre en eller flere av sponsors utprøvingsrelaterte plikter og funksjoner;
+4. *etikkomité:* Den regionale komité for medisinsk og helsefaglig forskningsetikk. Etikkomiteen skal sikre at de personer som deltar i en klinisk utprøving får den beskyttelse de har krav på gjennom å vurdere protokoll, utprøvers kvalifikasjoner, utprøvingsstedets egnethet, og den fremgangsmåte og det materiale som benyttes for å informere forsøkspersonene før informert samtykke avgis;
+5. *forsøksperson:* en person som deltar i en klinisk utprøving og som enten mottar utprøvingspreparat, eller som deltar i en kontrollgruppe;
+6. *god klinisk utprøvingspraksis (GCP):* en standard for design, ledelse, utførelse, monitorering, auditering, registrering og rapportering av kliniske utprøvinger, og som sikrer at data og de rapporterte resultater er troverdige og nøyaktige, og at forsøkspersonenes rettigheter, integritet og konfidensialitet er beskyttet;
+7. *hovedutprøver:* utprøver som leder utprøvingen ved det enkelte utprøvingssted;
+8. *ikke-intervensjonsstudie:* en studie der ett eller flere legemidler rekvireres på vanlig måte i samsvar med betingelsene satt i markedsføringstillatelsen. Terapeutisk strategi for hver enkelt pasient bestemmes ikke på forhånd av en studieprotokoll, men faller inn under nåværende praksis, og rekvirering av legemidlene er klart atskilt fra avgjørelsen om å inkludere pasienten i studien. Det skal ikke være nødvendig med tilleggsprosedyrer for diagnostisering eller monitorering av pasienten, og epidemiologiske metoder skal brukes for å analysere de innsamlede data;
+9. *informert samtykke:* skriftlig, datert og underskrevet erklæring om å delta i en klinisk utprøving som gis av en person som er i stand til å samtykke. Erklæringen avgis frivillig etter at forsøkspersonen har mottatt fyllestgjørende informasjon om forsøkets art, betydning, rekkevidde og risiko. Er personen ikke i stand til å samtykke, gis samtykket av den som kan samtykke på vedkommendes vegne;
+10. *inspeksjon:* en handling fra en regulatorisk myndighet med gjennomgang av dokumenter, fasiliteter, journaler (nedtegnelser), ordninger for kvalitetssikring og hvilke som helst hjelpemiddel som myndighetene anser som relatert til utprøvingen, og som kan være lokalisert på utprøvingsstedet, hos sponsor, og/eller hos CRO, eller ved andre virksomheter som myndighetene finner grunn til å inspisere;
+11. *investigator's brochure:* en sammenfatning av de kliniske og prekliniske data vedrørende utprøvingspreparatet(ene) som er relevante for utprøving av preparatet(ene) i mennesker;
+12. *klinisk utprøving:* enhver systematisk studie av legemidler til mennesker i den hensikt å skaffe til veie eller etterprøve kunnskap om legemidlenes effekter eller påvirkning av fysiologisk funksjon, interaksjoner, bivirkninger, opptak, fordeling, metabolisme og utskillelse, eller for å studere deres terapeutiske verdi;
+13. *legemiddel:* stoffer, droger eller preparater mv. som definert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2);
+14. *monitor:* den person som skal påse at studien blir gjennomført, registrert og rapportert i overensstemmelse med protokollen, standard operasjonsprosedyrer, gjeldende retningslinjer for god klinisk utprøvingspraksis, norsk lovgivning for øvrig, samt påse at studien har den avtalte progresjon;
+15. *multisenterutprøving:* klinisk utprøving som foregår ved flere sentre samtidig og etter samme protokoll;
+16. *nasjonal koordinerende utprøver:* utprøver i Norge som koordinerer de norske sentrene som deltar i en multisenterutprøving;
+17. *protokoll:* et dokument som beskriver formål, design, metodologi, statistiske betraktninger og organisering av utprøvingen. Protokollen skal blant annet beskrive hvilke forsøkspersoner som kan eller ikke kan delta i den kliniske utprøvingen, og reglene for overvåkning og publisering;
+18. *protokolltillegg:* en skriftlig beskrivelse av en eller flere forandringer av, eller en formell oppklaring av protokollen;
+19. *sponsor:* en person, et firma, en institusjon eller organisasjon som er ansvarlig for iverksetting, ledelse og/eller finansiering av en klinisk studie;
+20. *utprøver:* lege eller tannlege som utfører klinisk utprøving;
+21. *utprøvingspreparat:* en farmasøytisk formulering av et aktivt virkestoff eller placebo, som blir utprøvd eller benyttet som en referanse i en klinisk utprøving. Som utprøvningspreparat regnes også legemiddel med markedsføringstillatelse dersom de blir brukt, formulert, eller pakket på en annen måte enn den godkjente formuleringen, eller brukt for en ikke godkjent indikasjon, eller for å skaffe til veie ytterligere informasjon om den markedsførte formuleringen;
+22. *uventet bivirkning:* en bivirkning der egenskapene og/eller alvorlighetsgraden ikke er i overensstemmelse med gjeldende produktinformasjon;
+23. *uønsket medisinsk hendelse:* en uheldig medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, og som ikke nødvendigvis har direkte sammenheng med denne behandlingen.
 
 > Endret ved forskrift [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022).
 
@@ -130,7 +158,10 @@ Tilvirkning og import av legemidler til klinisk utprøvning krever tillatelse fr
 
 ### § 2-1. Vurdering av legemidlets nytte og risikoforhold
 
-En klinisk utprøving kan bare igangsettes dersom:det kjente nytte- og risikoforholdet er veiet i forhold til den antatte gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienteretikkomiteen og Direktoratet for medisinske produkter finner at legemidlets forventede nytte kan berettige risikoen ved å gjennomføre forsøket, jf. [kapittel 3](forskrift/2009-10-30-1321/kap3) og [kapittel 4](forskrift/2009-10-30-1321/kap4).
+En klinisk utprøving kan bare igangsettes dersom:
+
+1. det kjente nytte- og risikoforholdet er veiet i forhold til den antatte gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienter
+2. etikkomiteen og Direktoratet for medisinske produkter finner at legemidlets forventede nytte kan berettige risikoen ved å gjennomføre forsøket, jf. [kapittel 3](forskrift/2009-10-30-1321/kap3) og [kapittel 4](forskrift/2009-10-30-1321/kap4).
 
 Sponsor skal under forsøket fortløpende vurdere om kravene i første ledd er oppfylt.
 
@@ -170,7 +201,18 @@ Forsøkspersonen skal informeres om et kontaktpunkt der vedkommende kan få ytte
 
 ### § 2-8. Klinisk utprøving på personer under 18 år
 
-I tillegg til kravene som fremkommer i [§ 2-1](forskrift/2009-10-30-1321/§2-1) til [§ 2-7](forskrift/2009-10-30-1321/§2-7), forutsetter utprøving på personer under 18 år informert samtykke fra foreldre eller andre som har foreldreansvaret. Utprøving på personer mellom 16 og 18 år forutsetter også samtykke fra den mindreårige. I tillegg må følgende vilkår være oppfylt:den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med [§ 2-2](forskrift/2009-10-30-1321/§2-2)samtykket antas å uttrykke den mindreåriges viljeden mindreårige har mottatt informasjon om utprøvingen, risikoen og fordelen avpasset i forhold til vedkommendes forståelsesevneutprøvingen kan forventes å gi pasientgruppen en direkte gevinstutprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykkeutprøvingen enten direkte vedrører en klinisk tilstand som den mindreårige befinner seg i, eller utprøvingen er av en slik art at den kun kan foretas på mindreårigerelevante retningslinjer fra det europeiske legemiddelkontor (EMEA) følgesutprøvingen er utformet slik at smerter, ubehag, frykt og enhver annen risiko minimeres i forhold til sykdommenprotokollen er godkjent av etikkomiteen, som har ekspertise i pediatri eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende pediatriforsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesser.
+I tillegg til kravene som fremkommer i [§ 2-1](forskrift/2009-10-30-1321/§2-1) til [§ 2-7](forskrift/2009-10-30-1321/§2-7), forutsetter utprøving på personer under 18 år informert samtykke fra foreldre eller andre som har foreldreansvaret. Utprøving på personer mellom 16 og 18 år forutsetter også samtykke fra den mindreårige. I tillegg må følgende vilkår være oppfylt:
+
+1. den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med [§ 2-2](forskrift/2009-10-30-1321/§2-2)
+2. samtykket antas å uttrykke den mindreåriges vilje
+3. den mindreårige har mottatt informasjon om utprøvingen, risikoen og fordelen avpasset i forhold til vedkommendes forståelsesevne
+4. utprøvingen kan forventes å gi pasientgruppen en direkte gevinst
+5. utprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykke
+6. utprøvingen enten direkte vedrører en klinisk tilstand som den mindreårige befinner seg i, eller utprøvingen er av en slik art at den kun kan foretas på mindreårige
+7. relevante retningslinjer fra det europeiske legemiddelkontor (EMEA) følges
+8. utprøvingen er utformet slik at smerter, ubehag, frykt og enhver annen risiko minimeres i forhold til sykdommen
+9. protokollen er godkjent av etikkomiteen, som har ekspertise i pediatri eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende pediatri
+10. forsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesser.
 
 Oppfatningen til forsøkspersoner under 18 år skal telle med som en stadig viktigere bestemmende faktor, i takt med hans eller hennes alder og modenhet.
 
@@ -178,7 +220,17 @@ All bruk av belønninger overfor mindreårige forsøkspersoner er forbudt, unnta
 
 ### § 2-9. Utprøving på personer uten samtykkekompetanse eller med redusert samtykkekompetanse
 
-I tillegg til kravene som fremkommer i § 2-1 til § 2-7, forutsetter utprøving på personer under vergemål som ikke har rettslig handleevne til å samtykke til deltakelse i klinisk utprøving, at vilkårene i [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 4-7](lov/1999-07-02-63/§4-7) er oppfylt. Utprøvning på myndig person som ikke er i stand til å samtykke på grunn av mangelfulle mentale evner, sykdom eller andre årsaker, forutsetter at nærmeste pårørende etter [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 1-3](lov/1999-07-02-63/§1-3) bokstav b samtykker. I tillegg må følgende vilkår være oppfylt:den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med [§ 2-2](forskrift/2009-10-30-1321/§2-2)samtykket antas å uttrykke forsøkspersonens vilje, og vedkommende heller ikke motsetter seg tiltaketforsøkspersonen har mottatt informasjon om utprøvingen, risiko og fordeler, avpasset i forhold til vedkommendes forståelsesevnedet er grunn til å anta at resultatene av utprøvingen er til direkte fordel for forsøkspersonens helseutprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykke, og den direkte vedrører en livstruende eller svekkende klinisk tilstand som forsøkspersonen befinner seg i, eller informasjonen ikke kan innhentes på grunnlag av samtykke avgitt i henhold til [§ 2-2](forskrift/2009-10-30-1321/§2-2)utprøvingen medfører bare minimal risiko og byrde for forsøkspersonenforsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesserutprøvingen er utformet slik at smerter, ubehag, frykt, og enhver annen risiko minimeres i forhold til sykdommenprotokollen er godkjent av etikkomiteen, som har ekspertise i den aktuelle sykdom og den aktuelle pasientgruppe eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende den aktuelle sykdom og den aktuelle pasientgruppe.
+I tillegg til kravene som fremkommer i § 2-1 til § 2-7, forutsetter utprøving på personer under vergemål som ikke har rettslig handleevne til å samtykke til deltakelse i klinisk utprøving, at vilkårene i [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 4-7](lov/1999-07-02-63/§4-7) er oppfylt. Utprøvning på myndig person som ikke er i stand til å samtykke på grunn av mangelfulle mentale evner, sykdom eller andre årsaker, forutsetter at nærmeste pårørende etter [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 1-3](lov/1999-07-02-63/§1-3) bokstav b samtykker. I tillegg må følgende vilkår være oppfylt:
+
+1. den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med [§ 2-2](forskrift/2009-10-30-1321/§2-2)
+2. samtykket antas å uttrykke forsøkspersonens vilje, og vedkommende heller ikke motsetter seg tiltaket
+3. forsøkspersonen har mottatt informasjon om utprøvingen, risiko og fordeler, avpasset i forhold til vedkommendes forståelsesevne
+4. det er grunn til å anta at resultatene av utprøvingen er til direkte fordel for forsøkspersonens helse
+5. utprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykke, og den direkte vedrører en livstruende eller svekkende klinisk tilstand som forsøkspersonen befinner seg i, eller informasjonen ikke kan innhentes på grunnlag av samtykke avgitt i henhold til [§ 2-2](forskrift/2009-10-30-1321/§2-2)
+6. utprøvingen medfører bare minimal risiko og byrde for forsøkspersonen
+7. forsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesser
+8. utprøvingen er utformet slik at smerter, ubehag, frykt, og enhver annen risiko minimeres i forhold til sykdommen
+9. protokollen er godkjent av etikkomiteen, som har ekspertise i den aktuelle sykdom og den aktuelle pasientgruppe eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende den aktuelle sykdom og den aktuelle pasientgruppe.
 
 > Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [22 april 2013 nr. 408](forskrift/2013-04-22-408) (i kraft 1 juli 2013).
 
@@ -190,7 +242,21 @@ Søknad om klinisk utprøvning sendes etikkomiteen. Før en klinisk utprøving i
 
 ### § 3-2. Etikkomiteens vurdering av søknaden
 
-Etikkomiteen skal ved behandlingen av søknaden spesielt vurdere følgende:den kliniske utprøvingens relevans og utformingom den antatte risiko og ulempe er avveiet i forhold til gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienter, og om konklusjonen er berettigetprotokollutprøvers og det øvrige personalets egnethetinvestigator's brochureutprøvingsstedets egnethetrelevans og fullstendighet av samtykkeformularet og informasjonsprosessen i forbindelse med innhenting av informert samtykkebegrunnelse for forskning på personer som ikke er i stand til å gi et informert samtykkebestemmelsene om erstatning eller godtgjørelse dersom en forsøksperson lider skade eller dør som følge av et klinisk forsøkforsikringer eller godtgjørelser til dekning av utprøvers og sponsors ansvarstørrelsen av, og de nærmere regler for utbetaling av eventuelt honorar eller eventuell kompensasjon til utprøverne og forsøkspersonerrelevante klausuler i enhver påtenkt kontrakt mellom sponsor og utprøvingssted, oghvordan forsøkspersonene rekrutteres.
+Etikkomiteen skal ved behandlingen av søknaden spesielt vurdere følgende:
+
+1. den kliniske utprøvingens relevans og utforming
+2. om den antatte risiko og ulempe er avveiet i forhold til gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienter, og om konklusjonen er berettiget
+3. protokoll
+4. utprøvers og det øvrige personalets egnethet
+5. investigator's brochure
+6. utprøvingsstedets egnethet
+7. relevans og fullstendighet av samtykkeformularet og informasjonsprosessen i forbindelse med innhenting av informert samtykke
+8. begrunnelse for forskning på personer som ikke er i stand til å gi et informert samtykke
+9. bestemmelsene om erstatning eller godtgjørelse dersom en forsøksperson lider skade eller dør som følge av et klinisk forsøk
+10. forsikringer eller godtgjørelser til dekning av utprøvers og sponsors ansvar
+11. størrelsen av, og de nærmere regler for utbetaling av eventuelt honorar eller eventuell kompensasjon til utprøverne og forsøkspersoner
+12. relevante klausuler i enhver påtenkt kontrakt mellom sponsor og utprøvingssted, og
+13. hvordan forsøkspersonene rekrutteres.
 
 ### § 3-3. Saksbehandlingsfrister
 
@@ -244,7 +310,13 @@ Dersom Direktoratet for medisinske produkter har innsigelser til søknaden, har 
 
 Dersom Direktoratet for medisinske produkter ikke har avgitt sin vurdering innen fristen som nevnt i [§ 4-2](forskrift/2009-10-30-1321/§4-2), kan utprøvingen starte, forutsatt at etikkomiteen har godkjent utprøvningen.
 
-En klinisk utprøving kan ikke starte uten skriftlig tilbakemelding fra Direktoratet for medisinske produkter, dersom utprøvingen gjelder:et legemiddel uten markedsføringstillatelse som er omhandlet i del A i vedlegget til forordning [(EØF) nr. 2309/93](eu/31993r2309),et legemiddel der virkestoffet er et biologisk produkt som stammer fra dyr eller mennesker,et legemiddel som inneholder biologiske bestanddeler som stammer fra dyr eller mennesker, eller hvis fremstilling krever slike komponenter,et legemiddel til genterapi, somatisk celleterapi, herunder xenogen celleterapi, elleret legemiddel som inneholder genetisk modifiserte organismer.
+En klinisk utprøving kan ikke starte uten skriftlig tilbakemelding fra Direktoratet for medisinske produkter, dersom utprøvingen gjelder:
+
+1. et legemiddel uten markedsføringstillatelse som er omhandlet i del A i vedlegget til forordning [(EØF) nr. 2309/93](eu/31993r2309),
+2. et legemiddel der virkestoffet er et biologisk produkt som stammer fra dyr eller mennesker,
+3. et legemiddel som inneholder biologiske bestanddeler som stammer fra dyr eller mennesker, eller hvis fremstilling krever slike komponenter,
+4. et legemiddel til genterapi, somatisk celleterapi, herunder xenogen celleterapi, eller
+5. et legemiddel som inneholder genetisk modifiserte organismer.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -264,7 +336,13 @@ Med mindre Direktoratet for medisinske produkter i forbindelse med søknaden om 
 
 Sponsor kan endre protokollen etter at den kliniske utprøvingen er iverksatt.
 
-Ønsker sponsor å foreta vesentlige endringer av protokollensom kan få innvirkning på forsøkspersonenes sikkerhet, ellersom kan medføre endringer av fortolkningen av den vitenskapelige dokumentasjon, ellersom er betydningsfulle,skal sponsor varsle Direktoratet for medisinske produkter og etikkomiteen. Sammen med varslet skal det gis en redegjørelse og en begrunnelse for endringene.
+Ønsker sponsor å foreta vesentlige endringer av protokollen
+
+1. som kan få innvirkning på forsøkspersonenes sikkerhet, eller
+2. som kan medføre endringer av fortolkningen av den vitenskapelige dokumentasjon, eller
+3. som er betydningsfulle,
+
+skal sponsor varsle Direktoratet for medisinske produkter og etikkomiteen. Sammen med varslet skal det gis en redegjørelse og en begrunnelse for endringene.
 
 Etikkomiteen skal innen 35 dager etter mottak av en komplett søknad godkjenne eller avslå søknaden i henhold til kriteriene som nevnt i [§ 3-3](forskrift/2009-10-30-1321/§3-3). Dersom komiteen avslår søknaden, kan sponsor ikke foreta endringene i protokollen.
 
@@ -284,7 +362,11 @@ Sponsor skal umiddelbart informere etikkomiteen og Direktoratet for medisinske p
 
 ### § 5-3. Stansing av klinisk utprøving
 
-Direktoratet for medisinske produkter kan stanse en igangsatt klinisk utprøving, dersomvilkårene for igangsetting ikke lenger anses oppfyltnye opplysninger skaper tvil om sikkerheten i utprøvingennye opplysninger skaper tvil om den vitenskapelige verdien av utprøvingen.
+Direktoratet for medisinske produkter kan stanse en igangsatt klinisk utprøving, dersom
+
+1. vilkårene for igangsetting ikke lenger anses oppfylt
+2. nye opplysninger skaper tvil om sikkerheten i utprøvingen
+3. nye opplysninger skaper tvil om den vitenskapelige verdien av utprøvingen.
 
 Før Direktoratet for medisinske produkter fatter vedtak etter første ledd, skal sponsor eller utprøver gis en frist på en uke til å uttale seg i saken, dersom en slik utsettelse av avgjørelsen ikke innebærer en risiko.
 
@@ -306,7 +388,11 @@ Direktoratet for medisinske produkter fører tilsyn med at kravet til god klinis
 
 Direktoratet for medisinske produkter kan som ledd i tilsynet foreta inspeksjon hos enhver som er eller har vært involvert i gjennomføringen av utprøvingen.
 
-Inspeksjon kan foretasfør, under og etter gjennomføring av en klinisk utprøvingsom ledd i vurderingen av søknad om markedsføringstillatelse etter [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidlersom oppfølging av en utstedt markedsføringstillatelse.
+Inspeksjon kan foretas
+
+1. før, under og etter gjennomføring av en klinisk utprøving
+2. som ledd i vurderingen av søknad om markedsføringstillatelse etter [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler
+3. som oppfølging av en utstedt markedsføringstillatelse.
 
 Inspeksjon kan foretas uten hinder av lovbestemt taushetsplikt, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 28](lov/1992-12-04-132/§28) annet ledd.
 
@@ -320,7 +406,16 @@ På grunnlag av tilsynet utarbeider Direktoratet for medisinske produkter en ins
 
 ### § 6-4. GCP-inspektør
 
-Inspeksjon etter denne forskrift foretas av en eller flere GCP-inspektører. En inspektør skalha utdannelse på universitetsnivå eller ha tilsvarende erfaring innen medisin, farmasi, farmakologi, toksikologi eller andre relevante områderha kjennskap til prinsipper og prosedyrer knyttet til utvikling av legemidler og til klinisk utprøving av legemidlerha kjennskap til nasjonalt og internasjonalt regelverk vedrørende klinisk utprøving av legemidler samt reglene om utstedelse av markedsføringstillatelsevedlikeholde og utvikle sine faglige kvalifikasjonervære kjent med den taushetsplikt som gjelder i forhold til taushetsbelagte opplysninger vedkommende blir kjent med gjennom sitt arbeidha kjennskap til prosedyrer og systemer for registrering av kliniske dataha kjennskap til helsevesenets oppbygning og lovgivning i EØS-området og i relevant tredjelandvære utstyrt med legitimasjon som viser vedkommendes status som inspektør.
+Inspeksjon etter denne forskrift foretas av en eller flere GCP-inspektører. En inspektør skal
+
+1. ha utdannelse på universitetsnivå eller ha tilsvarende erfaring innen medisin, farmasi, farmakologi, toksikologi eller andre relevante områder
+2. ha kjennskap til prinsipper og prosedyrer knyttet til utvikling av legemidler og til klinisk utprøving av legemidler
+3. ha kjennskap til nasjonalt og internasjonalt regelverk vedrørende klinisk utprøving av legemidler samt reglene om utstedelse av markedsføringstillatelse
+4. vedlikeholde og utvikle sine faglige kvalifikasjoner
+5. være kjent med den taushetsplikt som gjelder i forhold til taushetsbelagte opplysninger vedkommende blir kjent med gjennom sitt arbeid
+6. ha kjennskap til prosedyrer og systemer for registrering av kliniske data
+7. ha kjennskap til helsevesenets oppbygning og lovgivning i EØS-området og i relevant tredjeland
+8. være utstyrt med legitimasjon som viser vedkommendes status som inspektør.
 
 Dersom den enkelte inspektør ikke oppfyller samtlige krav i bestemmelsens første ledd, er det tilstrekkelig at inspektørene samlet sett under en inspeksjon oppfyller kravene.
 
@@ -358,7 +453,10 @@ Sponsor skal informere alle utprøverne for det aktuelle utprøvingspreparatet o
 
 ### § 7-4. Årsrapport
 
-Sponsor skal årlig sende myndighetene i de landene forsøket pågår,en liste over alle antatte alvorlige bivirkninger som er inntruffet i det aktuelle tidsrommet, ogen rapport om forsøkspersonenes sikkerhet.
+Sponsor skal årlig sende myndighetene i de landene forsøket pågår,
+
+1. en liste over alle antatte alvorlige bivirkninger som er inntruffet i det aktuelle tidsrommet, og
+2. en rapport om forsøkspersonenes sikkerhet.
 
 Plikten etter første ledd gjelder så lenge den kliniske utprøvingen pågår.
 
@@ -394,7 +492,11 @@ Kun navngitte personer med ansvar for arkivet skal ha tilgang til det.
 
 ### § 8-4. Krav til medier for oppbevaring av dokumenter
 
-De medier som benyttes til arkivering av dokumenter, skal sikreat dokumentene forblir fullstendige og leselige i hele den perioden de skal oppbevaresat dokumentene på forespørsel kan stilles til rådighet for myndigheteneat enhver endring i dokumentene kan spores.
+De medier som benyttes til arkivering av dokumenter, skal sikre
+
+1. at dokumentene forblir fullstendige og leselige i hele den perioden de skal oppbevares
+2. at dokumentene på forespørsel kan stilles til rådighet for myndighetene
+3. at enhver endring i dokumentene kan spores.
 
 ### § 8-5. Sluttmelding og sluttrapport
 

@@ -15,7 +15,7 @@ xml_hash: "4ab14159f83e1a69dabf491e1ad3f2ece6df3ff862aac1e527dcee83b0af8774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,10 @@ Med norsk borger i overføringskonvensjonens forstand menes en person som har no
 
 ### § 5
 
-Når det er bestemt at en domfelt skal overføres til Norge, kan departementet bestemme at fullbyrdingen av straffen skal skjeetter reglene om fortsatt fullbyrding i overføringskonvensjonen art. 10, jf. § 6 i loven, elleretter reglene om omgjøring av straffen i overføringskonvensjonen art. 11, jf. § 7 i loven.
+Når det er bestemt at en domfelt skal overføres til Norge, kan departementet bestemme at fullbyrdingen av straffen skal skje
+
+1. etter reglene om fortsatt fullbyrding i overføringskonvensjonen art. 10, jf. § 6 i loven, eller
+2. etter reglene om omgjøring av straffen i overføringskonvensjonen art. 11, jf. § 7 i loven.
 
 Fullbyrding i Norge av en utenlandsk straffereaksjon mot en utilregnelig person kan bare skje etter dom på overføring til tvungent psykisk helsevern etter [straffeloven § 62](lov/2005-05-20-28/§62) eller til tvungen omsorg etter [straffeloven § 63](lov/2005-05-20-28/§63).
 
@@ -66,7 +69,12 @@ Når departementet bestemmer at det skal skje fortsatt fullbyrding, anmodes krim
 
 ### § 7
 
-Når departementet bestemmer at den strafferettslige reaksjonen skal omgjøres, anmodes påtalemyndigheten om å bringe saken inn for retten. Retten skal ved dom omgjøre den utenlandske straffen til den frihetsstraff som følger av norsk rett for tilsvarende forhold. Retten skal ved straffutmålingenvære bundet av den beskrivelsen av faktum som uttrykkelig eller underforstått er lagt til grunn i den utenlandske dommen,ikke gjøre en frihetsstraff om til en økonomisk sanksjon,fullt ut trekke fra den tiden den domfelte har vært berøvet friheten, ogikke skjerpe den domfeltes strafferettslige stilling. Domstolen skal herunder ikke være bundet av den minstestraffen som er fastsatt i norsk rett for det forholdet saken gjelder.
+Når departementet bestemmer at den strafferettslige reaksjonen skal omgjøres, anmodes påtalemyndigheten om å bringe saken inn for retten. Retten skal ved dom omgjøre den utenlandske straffen til den frihetsstraff som følger av norsk rett for tilsvarende forhold. Retten skal ved straffutmålingen
+
+1. være bundet av den beskrivelsen av faktum som uttrykkelig eller underforstått er lagt til grunn i den utenlandske dommen,
+2. ikke gjøre en frihetsstraff om til en økonomisk sanksjon,
+3. fullt ut trekke fra den tiden den domfelte har vært berøvet friheten, og
+4. ikke skjerpe den domfeltes strafferettslige stilling. Domstolen skal herunder ikke være bundet av den minstestraffen som er fastsatt i norsk rett for det forholdet saken gjelder.
 
 ### § 7 a
 
@@ -158,7 +166,12 @@ I *den europeiske konvensjonen 21. mars 1983* om overføring av domfelte lyder f
 
 ### Art 1. Definisjoner
 
-I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller annen reaksjon som er idømt av en domstol på grunn av et straffbart forhold, og som innebærer frihetsberøvelse for et begrenset eller ubegrenset tidsrom;«dom» bety en domstolsavgjørelse som ilegger noen en strafferettslig reaksjon;«domslandet» bety den staten hvor den strafferettslige reaksjonen ble ilagt den personen som kan bli eller er blitt overført;«fullbyrdingslandet» bety den staten som den domfelte kan bli eller er blitt overført til for fullbyrding av den strafferettslige reaksjonen.
+I denne konvensjonen skal:
+
+1. «strafferettslig reaksjon» bety enhver straff eller annen reaksjon som er idømt av en domstol på grunn av et straffbart forhold, og som innebærer frihetsberøvelse for et begrenset eller ubegrenset tidsrom;
+2. «dom» bety en domstolsavgjørelse som ilegger noen en strafferettslig reaksjon;
+3. «domslandet» bety den staten hvor den strafferettslige reaksjonen ble ilagt den personen som kan bli eller er blitt overført;
+4. «fullbyrdingslandet» bety den staten som den domfelte kan bli eller er blitt overført til for fullbyrding av den strafferettslige reaksjonen.
 
 ### Art 2. Alminnelige prinsipper
 
@@ -170,7 +183,14 @@ I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller 
 
 ### Art 3. Vilkår for overføring
 
-1\. Overføring av en domfelt etter konvensjonen kan bare skje på følgende vilkår:at den domfelte er borger av fullbyrdingslandet;at dommen er rettskraftig;at den domfelte på det tidspunktet overføringsanmodningen mottas, ennå har minst seks måneder igjen å sone av den strafferettslige reaksjonen, eller at den strafferettslige reaksjonen er tidsubestemt;at den domfelte samtykker i overføringen eller, hvor en av de to statene finner det nødvendig på grunn av den domfeltes alder eller hans fysiske eller mentale tilstand, at den domfeltes verge eller annen rettslig stedfortreder samtykker;at de handlingene eller unnlatelsene som den strafferettslige reaksjonen er ilagt på grunn av, er straffbare etter loven i fullbyrdingslandet eller ville være straffbare dersom de ble begått på fullbyrdingslandets territorium; ogat domslandet og fullbyrdingslandet er enige om overføringen.
+1\. Overføring av en domfelt etter konvensjonen kan bare skje på følgende vilkår:
+
+1. at den domfelte er borger av fullbyrdingslandet;
+2. at dommen er rettskraftig;
+3. at den domfelte på det tidspunktet overføringsanmodningen mottas, ennå har minst seks måneder igjen å sone av den strafferettslige reaksjonen, eller at den strafferettslige reaksjonen er tidsubestemt;
+4. at den domfelte samtykker i overføringen eller, hvor en av de to statene finner det nødvendig på grunn av den domfeltes alder eller hans fysiske eller mentale tilstand, at den domfeltes verge eller annen rettslig stedfortreder samtykker;
+5. at de handlingene eller unnlatelsene som den strafferettslige reaksjonen er ilagt på grunn av, er straffbare etter loven i fullbyrdingslandet eller ville være straffbare dersom de ble begått på fullbyrdingslandets territorium; og
+6. at domslandet og fullbyrdingslandet er enige om overføringen.
 
 2\. I særlige tilfelle kan Partene samtykke i en overføring selv om den tiden som gjenstår å sone for den domfelte, er mindre enn det som er fastsatt i første ledd bokstav c.
 
@@ -184,7 +204,12 @@ I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller 
 
 2\. Dersom den domfelte overfor domslandet har gitt uttrykk for et ønske om å bli overført i medhold av konvensjonen, skal denne staten underrette fullbyrdingslandet om dette så snart som praktisk mulig etter at dommen er blitt rettskraftig.
 
-3\. Underretningen skal inneholde følgende opplysninger:domfeltes navn, fødselsdato og fødested;hans eventuelle adresse i fullbyrdingslandet;en beskrivelse av de faktiske forhold som lå til grunn for den strafferettslige reaksjonen;den strafferettslige reaksjonens art og varighet og når soningen ble påbegynt.
+3\. Underretningen skal inneholde følgende opplysninger:
+
+1. domfeltes navn, fødselsdato og fødested;
+2. hans eventuelle adresse i fullbyrdingslandet;
+3. en beskrivelse av de faktiske forhold som lå til grunn for den strafferettslige reaksjonen;
+4. den strafferettslige reaksjonens art og varighet og når soningen ble påbegynt.
 
 4\. Dersom den domfelte har gitt uttrykk for sitt ønske overfor fullbyrdingslandet, skal domslandet, etter anmodning, gi fullbyrdingslandet de opplysningene som er nevnt i tredje ledd ovenfor.
 
@@ -202,9 +227,18 @@ I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller 
 
 ### Art 6. Ledsagende dokumenter
 
-1\. Fullbyrdingslandet skal, dersom det er anmodet om det av domslandet, sende dette følgende dokumenter:et dokument eller en erklæring som viser at den domfelte er borger av fullbyrdingslandet;en kopi av vedkommende lovbestemmelse i fullbyrdingslandet som viser at de handlingene eller unnlatelsene som den strafferettslige reaksjonen er ilagt på grunn av i domslandet, er straffbare etter loven i fullbyrdingslandet, eller ville være straffbare dersom de ble begått på dets territorium;en erklæring som inneholder de opplysningene som er nevnt i artikkel 9 andre ledd.
+1\. Fullbyrdingslandet skal, dersom det er anmodet om det av domslandet, sende dette følgende dokumenter:
 
-2\. Dersom det anmodes om en overføring, skal domslandet sende følgende dokumenter til fullbyrdingslandet, med mindre en av statene allerede har angitt at den ikke vil samtykke i overføringen:en bekreftet gjenpart av dommen og de lovbestemmelsene som ligger til grunn for den;en erklæring som angir hvor mye av den strafferettslige reaksjonen som allerede er sonet, herunder opplysninger om eventuell varetektsfengsling eller annen fengslig forvaring før domfellelsen, om ettergivelse og om ethvert annet forhold av betydning for fullbyrding av den strafferettslige reaksjonen;en erklæring som inneholder samtykke til overføringen som nevnt i artikkel 3 første ledd bokstav d; ognår det er grunn til det, eventuelle medisinske rapporter eller personundersøkelser om den domfelte, opplysninger om behandlingen av ham i domslandet og eventuelle anbefalinger om den videre behandlingen av ham i fullbyrdingslandet.
+1. et dokument eller en erklæring som viser at den domfelte er borger av fullbyrdingslandet;
+2. en kopi av vedkommende lovbestemmelse i fullbyrdingslandet som viser at de handlingene eller unnlatelsene som den strafferettslige reaksjonen er ilagt på grunn av i domslandet, er straffbare etter loven i fullbyrdingslandet, eller ville være straffbare dersom de ble begått på dets territorium;
+3. en erklæring som inneholder de opplysningene som er nevnt i artikkel 9 andre ledd.
+
+2\. Dersom det anmodes om en overføring, skal domslandet sende følgende dokumenter til fullbyrdingslandet, med mindre en av statene allerede har angitt at den ikke vil samtykke i overføringen:
+
+1. en bekreftet gjenpart av dommen og de lovbestemmelsene som ligger til grunn for den;
+2. en erklæring som angir hvor mye av den strafferettslige reaksjonen som allerede er sonet, herunder opplysninger om eventuell varetektsfengsling eller annen fengslig forvaring før domfellelsen, om ettergivelse og om ethvert annet forhold av betydning for fullbyrding av den strafferettslige reaksjonen;
+3. en erklæring som inneholder samtykke til overføringen som nevnt i artikkel 3 første ledd bokstav d; og
+4. når det er grunn til det, eventuelle medisinske rapporter eller personundersøkelser om den domfelte, opplysninger om behandlingen av ham i domslandet og eventuelle anbefalinger om den videre behandlingen av ham i fullbyrdingslandet.
 
 3\. Hver av statene kan be om å få seg forelagt ethvert dokument eller enhver erklæring som er nevnt i første eller andre ledd ovenfor, før den framsetter en anmodning om overføring eller treffer en avgjørelse om hvorvidt den samtykker i overføringen eller ikke.
 
@@ -222,7 +256,10 @@ I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller 
 
 ### Art 9. Virkningen av overføring for fullbyrdingslandet
 
-1\. De kompetente myndighetene i fullbyrdingslandet skal:fortsette fullbyrdingen av den strafferettslige reaksjonen umiddelbart eller gjennom en domstolsavgjørelse eller et forvaltningsvedtak på de vilkårene som er fastsatt i artikkel 10, ellergjennom en rettslig eller administrativ avgjørelse omgjøre den strafferettslige reaksjonen som er idømt i domslandet, til en sanksjon som er fastsatt i loven i fullbyrdingslandet for samme overtredelse, på de vilkårene som er fastsatt i artikkel 11.
+1\. De kompetente myndighetene i fullbyrdingslandet skal:
+
+1. fortsette fullbyrdingen av den strafferettslige reaksjonen umiddelbart eller gjennom en domstolsavgjørelse eller et forvaltningsvedtak på de vilkårene som er fastsatt i artikkel 10, eller
+2. gjennom en rettslig eller administrativ avgjørelse omgjøre den strafferettslige reaksjonen som er idømt i domslandet, til en sanksjon som er fastsatt i loven i fullbyrdingslandet for samme overtredelse, på de vilkårene som er fastsatt i artikkel 11.
 
 2\. Når den blir anmodet om det, skal fullbyrdingslandet meddele domslandet før overføring av den domfelte hvilken av de nevnte framgangsmåtene den akter å følge.
 
@@ -238,7 +275,12 @@ I denne konvensjonen skal:«strafferettslig reaksjon» bety enhver straff eller 
 
 ### Art 11. Omgjøring av den strafferettslige reaksjonen
 
-1\. I tilfelle omgjøring av den strafferettslige reaksjonen skal de framgangsmåtene som er fastsatt i fullbyrdingslandets lovgivning, anvendes. Ved omgjøring av den strafferettslige reaksjonen skal den kompetente myndighet:være bundet av den beskrivelsen av faktum som uttrykkelig eller underforstått er lagt til grunn i den dommen som er avsagt i domslandet;ikke gjøre en sanksjon som går ut på frihetsberøvelse om til en økonomisk sanksjon;fullt ut trekke fra den tiden den domfelte har vært berøvet friheten; ogikke skjerpe den domfeltes strafferettslige stilling og ikke være bundet av den minstestraffen som måtte være fastsatt i fullbyrdingslandets lovgivning for det eller de straffbare forhold som er begått.
+1\. I tilfelle omgjøring av den strafferettslige reaksjonen skal de framgangsmåtene som er fastsatt i fullbyrdingslandets lovgivning, anvendes. Ved omgjøring av den strafferettslige reaksjonen skal den kompetente myndighet:
+
+1. være bundet av den beskrivelsen av faktum som uttrykkelig eller underforstått er lagt til grunn i den dommen som er avsagt i domslandet;
+2. ikke gjøre en sanksjon som går ut på frihetsberøvelse om til en økonomisk sanksjon;
+3. fullt ut trekke fra den tiden den domfelte har vært berøvet friheten; og
+4. ikke skjerpe den domfeltes strafferettslige stilling og ikke være bundet av den minstestraffen som måtte være fastsatt i fullbyrdingslandets lovgivning for det eller de straffbare forhold som er begått.
 
 2\. Dersom omgjøringssaken behandles etter overføringen av den domfelte, skal fullbyrdingslandet holde vedkommende i fengslig forvaring eller på annen måte sikre at han er til stede i fullbyrdingslandet i påvente av resultatet av saken.
 
@@ -256,13 +298,20 @@ Fullbyrdingslandet skal bringe fullbyrdingen av den strafferettslige reaksjonen 
 
 ### Art 15. Opplysninger om fullbyrding
 
-Fullbyrdingslandet skal gi domslandet opplysninger om fullbyrdingen av den strafferettslige reaksjonen:når den anser fullbyrdingen av den strafferettslige reaksjonen som fullført;dersom den domfelte har unnsluppet fra varetekt eller annen fengslig forvaring før fullbyrdingen av den strafferettslige reaksjonen er fullført; ellerdersom domslandet anmoder om en særskilt redegjørelse.
+Fullbyrdingslandet skal gi domslandet opplysninger om fullbyrdingen av den strafferettslige reaksjonen:
+
+1. når den anser fullbyrdingen av den strafferettslige reaksjonen som fullført;
+2. dersom den domfelte har unnsluppet fra varetekt eller annen fengslig forvaring før fullbyrdingen av den strafferettslige reaksjonen er fullført; eller
+3. dersom domslandet anmoder om en særskilt redegjørelse.
 
 ### Art 16. Transitt
 
 1\. En Part skal i samsvar med egen lovgivning innvilge en anmodning om transitt av en domfelt over sitt territorium, dersom anmodningen er framsatt av en annen Part og denne er blitt enig med nok en annen Part eller en tredje stat om overføring av vedkommende person til eller fra sitt territorium.
 
-2\. En Part kan nekte transitt:dersom den domfelte er en av Partens egne borgere, ellerdersom overtredelsen som den strafferettslige reaksjonen er ilagt for, ikke utgjør en overtredelse etter dens egen lov.
+2\. En Part kan nekte transitt:
+
+1. dersom den domfelte er en av Partens egne borgere, eller
+2. dersom overtredelsen som den strafferettslige reaksjonen er ilagt for, ikke utgjør en overtredelse etter dens egen lov.
 
 3\. Anmodninger om transitt og svar skal meddeles gjennom de kanalene som er nevnt i bestemmelsene i artikkel 5 andre og tredje ledd.
 
@@ -336,7 +385,12 @@ Europarådets styringskomité for kriminalspørsmål skal holdes orientert om an
 
 ### Art 25. Meddelelser
 
-Europarådets generalsekretær skal underrette medlemmene av Europarådet, de ikke-medlemsstatene som har deltatt i utarbeidelsen av konvensjonen, og stater som har tiltrådt konvensjonen om:enhver undertegning;deponeringen av ratifikasjons-, godkjennings-, tilslutnings- eller tiltredelsesdokumenter;enhver dato for konvensjonens ikrafttreden i samsvar med artiklene 18 andre og tredje ledd, 19 andre ledd og 20 paragrafene andre og tredje ledd;enhver annen handling, erklæring, meddelelse eller kommunikasjon som gjelder konvensjonen.
+Europarådets generalsekretær skal underrette medlemmene av Europarådet, de ikke-medlemsstatene som har deltatt i utarbeidelsen av konvensjonen, og stater som har tiltrådt konvensjonen om:
+
+1. enhver undertegning;
+2. deponeringen av ratifikasjons-, godkjennings-, tilslutnings- eller tiltredelsesdokumenter;
+3. enhver dato for konvensjonens ikrafttreden i samsvar med artiklene 18 andre og tredje ledd, 19 andre ledd og 20 paragrafene andre og tredje ledd;
+4. enhver annen handling, erklæring, meddelelse eller kommunikasjon som gjelder konvensjonen.
 
 ### Tilleggsprotokoll
 
@@ -362,7 +416,9 @@ I *tilleggsprotokollen av 18. desember 1997* til den europeiske konvensjon av 21
 
 > Tilføyd ved [lov 7 juli 2000 nr. 69](lov/2000-07-07-69) (ikr. 1 jan 2001).
 
-1 Jf. art. 1, c.2 Jf. art. 1, d.
+1 Jf. art. 1, c.
+
+2 Jf. art. 1, d.
 
 ### Art 3. Domfelte som er gjenstand for utvisningsvedtak
 
@@ -370,9 +426,15 @@ I *tilleggsprotokollen av 18. desember 1997* til den europeiske konvensjon av 21
 
 2\. Fullbyrdingsstaten skal ikke gi sin tilslutning som nevnt i nr 1 uten å ha tatt hensyn til den domfeltes eget syn.
 
-3\. I forbindelse med anvendelsen av denne artikkel skal domsstaten legge fram for fullbyrdingsstaten:en erklæring som inneholder den domfeltes eget syn på den foreslåtte overføringen, ogen kopi av utvisningsvedtak eller annet vedtak som har til følge at domfelte ikke lenger får oppholde seg på domsstatens territorium når han eller hun løslates fra fengsel.
+3\. I forbindelse med anvendelsen av denne artikkel skal domsstaten legge fram for fullbyrdingsstaten:
 
-4\. Den som overføres i henhold til bestemmelsene i denne artikkel, skal ikke straffeforfølges, ilegges straffereaksjon eller holdes i varetekt med henblikk på gjennomføring av en strafferettslig reaksjon eller vedtak om varetekt, for noen straffbar handling begått før han eller hun ble overført unntatt den handling som ligger til grunn for den strafferettslige reaksjonen som skal fullbyrdes, og hans eller hennes personlige frihet skal heller ikke innskrenkes av noen annen grunn, unntatt i følgende tilfeller:når domsstaten tillater det; anmodning om tillatelse skal fremmes sammen med alle relevante dokumenter og en rettsprotokoll inneholdende den domfeltes forklaring; tillatelse skal gis når den straffbare handling som ligger til grunn for anmodningen, i seg selv ville begrunnet utlevering etter domsstatens lov, eller når bare straffeomfanget ville utelukke utlevering;når den domfelte, etter å ha hatt anledning til å forlate fullbyrdingsstatens territorium, ikke har gjort dette innen 45 dager etter endelig løslatelse, eller hvis han eller hun har vendt tilbake til dette territoriet etter å ha forlatt det.
+1. en erklæring som inneholder den domfeltes eget syn på den foreslåtte overføringen, og
+2. en kopi av utvisningsvedtak eller annet vedtak som har til følge at domfelte ikke lenger får oppholde seg på domsstatens territorium når han eller hun løslates fra fengsel.
+
+4\. Den som overføres i henhold til bestemmelsene i denne artikkel, skal ikke straffeforfølges, ilegges straffereaksjon eller holdes i varetekt med henblikk på gjennomføring av en strafferettslig reaksjon eller vedtak om varetekt, for noen straffbar handling begått før han eller hun ble overført unntatt den handling som ligger til grunn for den strafferettslige reaksjonen som skal fullbyrdes, og hans eller hennes personlige frihet skal heller ikke innskrenkes av noen annen grunn, unntatt i følgende tilfeller:
+
+1. når domsstaten tillater det; anmodning om tillatelse skal fremmes sammen med alle relevante dokumenter og en rettsprotokoll inneholdende den domfeltes forklaring; tillatelse skal gis når den straffbare handling som ligger til grunn for anmodningen, i seg selv ville begrunnet utlevering etter domsstatens lov, eller når bare straffeomfanget ville utelukke utlevering;
+2. når den domfelte, etter å ha hatt anledning til å forlate fullbyrdingsstatens territorium, ikke har gjort dette innen 45 dager etter endelig løslatelse, eller hvis han eller hun har vendt tilbake til dette territoriet etter å ha forlatt det.
 
 5\. Uten hensyn til bestemmelsene i nr. 4 kan fullbyrdingsstaten treffe de tiltak som måtte være nødvendige etter dens lovgivning, herunder straffeforfølgning in absentia, for å forhindre rettslige virkninger av utløpt tidsfrist.
 
@@ -380,7 +442,9 @@ I *tilleggsprotokollen av 18. desember 1997* til den europeiske konvensjon av 21
 
 > Tilføyd ved [lov 7 juli 2000 nr. 69](lov/2000-07-07-69) (ikr. 1 jan 2001), endret ved [lov 24 juni 2011 nr. 34](lov/2011-06-24-34).
 
-1 Jf. art. 1, c.2 Jf. art. 1, d.
+1 Jf. art. 1, c.
+
+2 Jf. art. 1, d.
 
 ### Del C.
 
@@ -390,7 +454,15 @@ I *den europiske konvensjonen 28. mai 1970* om internasjonal gyldighet av straff
 
 ### Art 1
 
-I denne konvensjonbetyr «europeisk straffedom» enhver endelig avgjørelse truffet av en straffedomstol i en kontraherende stat etter en forfølgning i straffeprosessuelle former;omfatter «lovovertredelse», foruten handlinger som omfattes av straffelovgivningen, slike handlinger som behandles etter de bestemmelser som er oppregnet i bilag II til denne konvensjon, forutsatt at vedkommende person, dersom disse bestemmelsene legger avgjørelsen til en administrativ myndighet, har mulighet for å få saken prøvd av en domstol;betyr «domfellelse» ileggelse av en sanksjon;betyr «sanksjon» enhver straff eller annen foranstaltning, som i anledning av en lovovertredelse uttrykkelig er pålagt en person i en europeisk straffedom eller i en «ordonnance pénale»;betyr «rettighetstap» ethvert varig eller tidsbegrenset tap av rettigheter, ethvert forhold eller tap av rettsevne;betyr «uteblivelsesdom» enhver avgjørelse, som betraktes som sådan i medhold av artikkel 21 nr. 2;betyr «ordonnance pénale» enhver av de avgjørelser som er oppregnet i bilag III til denne konvensjon og som er truffet i en annen kontraherende stat.
+I denne konvensjon
+
+1. betyr «europeisk straffedom» enhver endelig avgjørelse truffet av en straffedomstol i en kontraherende stat etter en forfølgning i straffeprosessuelle former;
+2. omfatter «lovovertredelse», foruten handlinger som omfattes av straffelovgivningen, slike handlinger som behandles etter de bestemmelser som er oppregnet i bilag II til denne konvensjon, forutsatt at vedkommende person, dersom disse bestemmelsene legger avgjørelsen til en administrativ myndighet, har mulighet for å få saken prøvd av en domstol;
+3. betyr «domfellelse» ileggelse av en sanksjon;
+4. betyr «sanksjon» enhver straff eller annen foranstaltning, som i anledning av en lovovertredelse uttrykkelig er pålagt en person i en europeisk straffedom eller i en «ordonnance pénale»;
+5. betyr «rettighetstap» ethvert varig eller tidsbegrenset tap av rettigheter, ethvert forhold eller tap av rettsevne;
+6. betyr «uteblivelsesdom» enhver avgjørelse, som betraktes som sådan i medhold av artikkel 21 nr. 2;
+7. betyr «ordonnance pénale» enhver av de avgjørelser som er oppregnet i bilag III til denne konvensjon og som er truffet i en annen kontraherende stat.
 
 ### Del II. Fullbyrding av europeiske straffedommer.1
 
@@ -402,7 +474,11 @@ I denne konvensjonbetyr «europeisk straffedom» enhver endelig avgjørelse truf
 
 ###### Art 2.
 
-Denne del gjelder:sanksjoner som medfører frihetsberøvelse;bøter eller inndragning;rettighetstap.
+Denne del gjelder:
+
+1. sanksjoner som medfører frihetsberøvelse;
+2. bøter eller inndragning;
+3. rettighetstap.
 
 ###### Art 3.
 
@@ -418,17 +494,39 @@ Denne del gjelder:sanksjoner som medfører frihetsberøvelse;bøter eller inndra
 
 2\. Dersom domfellelsen angår to eller flere lovovertredelser og noen av disse ikke oppfyller vilkårene etter nr. 1, skal den dømmende stat angi hvilken del av sanksjonen det er som gjelder de lovovertredelser som oppfyller vilkårene.
 
-1 Se del I, art 1, d.2 Se del I, art 1, b.
+1 Se del I, art 1, d.
+
+2 Se del I, art 1, b.
 
 ###### Art 5.
 
-Den dømmende stat kan bare anmode en annen kontraherende stat om å fullbyrde sanksjonen1 dersom ett eller flere av følgende vilkår er oppfylt:domfelte er fast bosatt i den annen stat;det må antas at fullbyrdingen av sanksjonen i den annen stat vil forbedre mulighetene for sosial rehabilitering av domfelte;sanksjonen medfører frihetsberøvelse og den vil kunne fullbyrdes i fortsettelse av en annen sanksjon, som medfører frihetsberøvelse, og som domfelte soner eller skal sone i den annen stat;den annen stat er domfeltes opprinnelige hjemland og har erklært seg villig til å påta seg ansvaret for å fullbyrde denne sanksjonen;den dømmende stat finner at den selv ikke kan fullbyrde sanksjonen, selv ikke ved å gjøre bruk av utlevering, og at den annen stat er i stand til det.
+Den dømmende stat kan bare anmode en annen kontraherende stat om å fullbyrde sanksjonen1 dersom ett eller flere av følgende vilkår er oppfylt:
+
+1. domfelte er fast bosatt i den annen stat;
+2. det må antas at fullbyrdingen av sanksjonen i den annen stat vil forbedre mulighetene for sosial rehabilitering av domfelte;
+3. sanksjonen medfører frihetsberøvelse og den vil kunne fullbyrdes i fortsettelse av en annen sanksjon, som medfører frihetsberøvelse, og som domfelte soner eller skal sone i den annen stat;
+4. den annen stat er domfeltes opprinnelige hjemland og har erklært seg villig til å påta seg ansvaret for å fullbyrde denne sanksjonen;
+5. den dømmende stat finner at den selv ikke kan fullbyrde sanksjonen, selv ikke ved å gjøre bruk av utlevering, og at den annen stat er i stand til det.
 
 1 Se del I, art 1, d.
 
 ###### Art 6.
 
-Fullbyrding som det er anmodet om i samsvar med de foregående bestemmelser, kan avslås helt eller delvis i følgende tilfelle:dersom fullbyrding ville stride mot mottakerstatens grunnleggende rettsprinsipper;dersom mottakerstaten anser den pådømte lovovertredelse for å være av politisk karakter eller for å være en rent militær lovovertredelse;dersom mottakerstaten finner at det er vektige grunner til å anta at dommen skyldes eller er skjerpet på grunn av rase, religion, nasjonalitet eller politisk oppfatning;dersom fullbyrdingen ville stride mot mottakerstatens internasjonale forpliktelser;dersom handlingen allerede er gjenstand for rettsforfølgning i mottakerstaten eller denne beslutter å innlede rettsforfølgning for handlingen;dersom kompetent myndighet i mottakerstaten har besluttet å unnlate rettsforfølgning eller å innstille en allerede påbegynt rettsforfølgning for den samme handling;dersom handlingen er begått utenfor avsenderstatens territorium;dersom mottakerstaten ikke er i stand til å fullbyrde sanksjonen;dersom anmodningen er begrunnet i artikkel 5 bokstav e og ingen av de øvrige betingelser som er nevnt i artikkel 5 er oppfylt;dersom mottakerstaten finner at avsenderstaten selv er i stand til å fullbyrde sanksjonen;dersom det ikke ville kunne reises tiltale mot domfelte i mottakerstaten på grunn av hans alder på det tidspunkt da lovovertredelsen ble begått;dersom den ilagte sanksjon etter lovgivningen i mottakerstaten ikke lenger kan fullbyrdes på grunn av foreldelse;for så vidt domfellelsen medfører rettighetstap.1
+Fullbyrding som det er anmodet om i samsvar med de foregående bestemmelser, kan avslås helt eller delvis i følgende tilfelle:
+
+1. dersom fullbyrding ville stride mot mottakerstatens grunnleggende rettsprinsipper;
+2. dersom mottakerstaten anser den pådømte lovovertredelse for å være av politisk karakter eller for å være en rent militær lovovertredelse;
+3. dersom mottakerstaten finner at det er vektige grunner til å anta at dommen skyldes eller er skjerpet på grunn av rase, religion, nasjonalitet eller politisk oppfatning;
+4. dersom fullbyrdingen ville stride mot mottakerstatens internasjonale forpliktelser;
+5. dersom handlingen allerede er gjenstand for rettsforfølgning i mottakerstaten eller denne beslutter å innlede rettsforfølgning for handlingen;
+6. dersom kompetent myndighet i mottakerstaten har besluttet å unnlate rettsforfølgning eller å innstille en allerede påbegynt rettsforfølgning for den samme handling;
+7. dersom handlingen er begått utenfor avsenderstatens territorium;
+8. dersom mottakerstaten ikke er i stand til å fullbyrde sanksjonen;
+9. dersom anmodningen er begrunnet i artikkel 5 bokstav e og ingen av de øvrige betingelser som er nevnt i artikkel 5 er oppfylt;
+10. dersom mottakerstaten finner at avsenderstaten selv er i stand til å fullbyrde sanksjonen;
+11. dersom det ikke ville kunne reises tiltale mot domfelte i mottakerstaten på grunn av hans alder på det tidspunkt da lovovertredelsen ble begått;
+12. dersom den ilagte sanksjon etter lovgivningen i mottakerstaten ikke lenger kan fullbyrdes på grunn av foreldelse;
+13. for så vidt domfellelsen medfører rettighetstap.1
 
 1 Se del I, art 1, e.
 
@@ -444,7 +542,10 @@ Ved anvendelsen av artikkel 6 bokstav 1 og det forbehold som er nevnt i bilag I 
 
 ###### Art 9.
 
-1\. En domfelt som er blitt fengslet i avsenderstaten og er blitt overført til mottakerstaten med henblikk på fullbyrding, kan ikke siktes, tiltales, domfelles eller fengsles med henblikk på fullbyrding av straff eller sikkerhetstiltak eller undergis noen annen begrensning i sin personlige frihet for noen annen lovovertredelse begått før overføringen enn den som ligger til grunn for den dom som skal fullbyrdes, unntatt i følgende tilfelle:Når den stat som har overført ham samtykker. Det skal framsettes anmodning om samtykke, vedlagt alle relevante dokumenter og en utskrift av enhver forklaring domfelte måtte ha avgitt angående vedkommende lovovertredelse. Samtykke skal gis når den lovovertredelse anmodningen gjelder i seg selv ville gi adgang til utlevering etter den anmodende stats lovgivning, eller når utlevering ville være utelukket bare på grunn av straffens størrelse.Når domfelte, selv om han har hatt mulighet for det, ikke har forlatt den stat han er blitt overført til innen 45 dager etter sin endelige løslatelse, eller han er vendt tilbake til denne stats territorium etter å ha forlatt det.
+1\. En domfelt som er blitt fengslet i avsenderstaten og er blitt overført til mottakerstaten med henblikk på fullbyrding, kan ikke siktes, tiltales, domfelles eller fengsles med henblikk på fullbyrding av straff eller sikkerhetstiltak eller undergis noen annen begrensning i sin personlige frihet for noen annen lovovertredelse begått før overføringen enn den som ligger til grunn for den dom som skal fullbyrdes, unntatt i følgende tilfelle:
+
+1. Når den stat som har overført ham samtykker. Det skal framsettes anmodning om samtykke, vedlagt alle relevante dokumenter og en utskrift av enhver forklaring domfelte måtte ha avgitt angående vedkommende lovovertredelse. Samtykke skal gis når den lovovertredelse anmodningen gjelder i seg selv ville gi adgang til utlevering etter den anmodende stats lovgivning, eller når utlevering ville være utelukket bare på grunn av straffens størrelse.
+2. Når domfelte, selv om han har hatt mulighet for det, ikke har forlatt den stat han er blitt overført til innen 45 dager etter sin endelige løslatelse, eller han er vendt tilbake til denne stats territorium etter å ha forlatt det.
 
 2\. Mottakerstaten kan likevel treffe ethvert tiltak som er nødvendig for å fjerne vedkommende fra sitt territorium, eller som etter dens lovgivning er nødvendig for å avbryte foreldelse, herunder rettsforfølgning uten at vedkommende er til stede.
 
@@ -460,9 +561,15 @@ Ved anvendelsen av artikkel 6 bokstav 1 og det forbehold som er nevnt i bilag I 
 
 1\. Når den dømmende stat har anmodet om fullbyrding, kan den ikke lenger selv innlede fullbyrdingen av en sanksjon2 som anmodningen gjelder. Den dømmende stat kan likevel innlede fullbyrdingen av en sanksjon2 som medfører frihetsberøvelse, når domfelte allerede er fengslet innen denne stats territorium på den tid anmodningen framsettes.
 
-2\. Avsenderstaten får tilbake retten til fullbyrding:dersom den trekker anmodningen tilbake før mottakerstaten har underrettet den om at den akter å fremme anmodningen;dersom mottakerstaten gir underretning om avslag på å fremme anmodningen;dersom mottakerstaten uttrykkelig gir avkall på sin rett til fullbyrding. Slikt avkall kan bare skje dersom begge de to stater er enige om det, eller fullbyrding ikke lenger er mulig i mottakerstaten. I det siste tilfelle er mottakerstaten forpliktet til å gi avkall, dersom avsenderstaten ber om det.
+2\. Avsenderstaten får tilbake retten til fullbyrding:
 
-1 Se art. 51.2 Se del I, art 1, d.
+1. dersom den trekker anmodningen tilbake før mottakerstaten har underrettet den om at den akter å fremme anmodningen;
+2. dersom mottakerstaten gir underretning om avslag på å fremme anmodningen;
+3. dersom mottakerstaten uttrykkelig gir avkall på sin rett til fullbyrding. Slikt avkall kan bare skje dersom begge de to stater er enige om det, eller fullbyrding ikke lenger er mulig i mottakerstaten. I det siste tilfelle er mottakerstaten forpliktet til å gi avkall, dersom avsenderstaten ber om det.
+
+1 Se art. 51.
+
+2 Se del I, art 1, d.
 
 ###### Art 12.
 
@@ -476,9 +583,15 @@ Ved anvendelsen av artikkel 6 bokstav 1 og det forbehold som er nevnt i bilag I 
 
 1\. Transitt gjennom en kontraherende stats territorium av en fengslet person som skal overføres til en tredje kontraherende stat i medhold av denne konvensjon, skal tillates etter anmodning fra den stat hvor vedkommende er blitt fengslet. Transittstaten kan kreve å få tilsendt ethvert behørig dokument før den treffer avgjørelse om anmodningen. Den person som skal overføres, skal forbli fengslet på transittstatens territorium, med mindre den stat han overføres fra anmoder om at han frigis.
 
-2\. Unntatt de tilfelle hvor det anmodes om overførsel i medhold av artikkel 34, kan enhver kontraherende stat nekte å gi tillatelse til transittav en av de grunner som er nevnt i artikkel 6 bokstav b og c,dersom vedkommende person er en av dens egne statsborgere,
+2\. Unntatt de tilfelle hvor det anmodes om overførsel i medhold av artikkel 34, kan enhver kontraherende stat nekte å gi tillatelse til transitt
 
-3\. Dersom det brukes lufttransport, gjelder følgende bestemmelser:Når det ikke er meningen at landing skulle skje, kan den stat vedkommende skal overføres fra, underrette den stat hvis territorium skal overflys, om at vedkommende overføres i medhold av denne konvensjon. I tilfelle av uforutsett landing, har denne underretning virkning som en anmodning om pågripelse og fengsling som nevnt i artikkel 32 nr. 2, og det skal framsettes formell anmodning om transitt.Når det er meningen at landing skal skje, skal det framsettes formell anmodning om transitt.
+1. av en av de grunner som er nevnt i artikkel 6 bokstav b og c,
+2. dersom vedkommende person er en av dens egne statsborgere,
+
+3\. Dersom det brukes lufttransport, gjelder følgende bestemmelser:
+
+1. Når det ikke er meningen at landing skulle skje, kan den stat vedkommende skal overføres fra, underrette den stat hvis territorium skal overflys, om at vedkommende overføres i medhold av denne konvensjon. I tilfelle av uforutsett landing, har denne underretning virkning som en anmodning om pågripelse og fengsling som nevnt i artikkel 32 nr. 2, og det skal framsettes formell anmodning om transitt.
+2. Når det er meningen at landing skal skje, skal det framsettes formell anmodning om transitt.
 
 ###### Art 14.
 
@@ -528,25 +641,39 @@ Bevismateriale og dokumenter som sendes i medhold av denne konvensjon, behøver 
 
 2\. Bortsett fra bestemmelsen i nr. 3, betyr en uteblivelsesdom1 i denne konvensjon enhver dom som avsies av en domstol i en kontraherende stat etter en forfølgning i straffeprosessuelle former, hvor domfelte ikke har møtt personlig under rettsforhandlingen.
 
-3\. Uten at det berører bestemmelsene i artiklene 25 nr. 2, 26 nr. 2 og 29, betraktes følgende som dommer avsagt etter at tiltalte har møtt:enhver uteblivelsesdom1 og enhver «ordonnance pénale»,2 som er stadfestet eller avsagt i den dømmende stat etter at domfelte har gjort innsigelse;enhver uteblivelsesdom1 avsagt av en appellinstans, forutsatt at det er domfelte som har appellert underinstansens dom.
+3\. Uten at det berører bestemmelsene i artiklene 25 nr. 2, 26 nr. 2 og 29, betraktes følgende som dommer avsagt etter at tiltalte har møtt:
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1. enhver uteblivelsesdom1 og enhver «ordonnance pénale»,2 som er stadfestet eller avsagt i den dømmende stat etter at domfelte har gjort innsigelse;
+2. enhver uteblivelsesdom1 avsagt av en appellinstans, forutsatt at det er domfelte som har appellert underinstansens dom.
+
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 22
 
 Enhver uteblivelsesdom1 og enhver «ordonnance pénale»2 som ennå ikke har vært gjenstand for appell eller innsigelse, kan så snart den er avsagt, sendes mottakerstaten med henblikk på underretning til vedkommende og eventuell fullbyrding.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 23
 
 1\. Dersom mottakerstaten finner grunnlag for å fremme en anmodning om fullbyrding av en uteblivelsesdom1 eller en «ordonnance pénale»,2 skal den sørge for at domfelte blir personlig underrettet om den avgjørelsen som er truffet i avsenderstaten.
 
-2\. I underretningen til domfelte skal det også gis opplysning om:at en anmodning om fullbyrding er framsatt i medhold av denne konvensjon;at det eneste mulige rettsmiddel er innsigelse i medhold av bestemmelsene i denne konvensjons artikkel 24;at innsigelsen skal framsettes overfor en nærmere angitt myndighet, at innsigelsen for å bli behandlet må være i samsvar med vilkårene i artikkel 24 i denne konvensjon, og at domfelte kan be om å få saken behandlet av myndighetene i den stat som har avsagt dommen;at dommen, dersom det ikke framsettes innsigelse innen den fastsatte tidsfrist, i forhold til denne konvensjon fullt ut vil bli ansett for avsagt etter at tiltalte har møtt.
+2\. I underretningen til domfelte skal det også gis opplysning om:
+
+1. at en anmodning om fullbyrding er framsatt i medhold av denne konvensjon;
+2. at det eneste mulige rettsmiddel er innsigelse i medhold av bestemmelsene i denne konvensjons artikkel 24;
+3. at innsigelsen skal framsettes overfor en nærmere angitt myndighet, at innsigelsen for å bli behandlet må være i samsvar med vilkårene i artikkel 24 i denne konvensjon, og at domfelte kan be om å få saken behandlet av myndighetene i den stat som har avsagt dommen;
+4. at dommen, dersom det ikke framsettes innsigelse innen den fastsatte tidsfrist, i forhold til denne konvensjon fullt ut vil bli ansett for avsagt etter at tiltalte har møtt.
 
 3\. En gjenpart av underretningen skal uten opphold sendes den myndighet som har anmodet om fullbyrding.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 24
 
@@ -562,7 +689,9 @@ Enhver uteblivelsesdom1 og enhver «ordonnance pénale»2 som ennå ikke har væ
 
 3\. Dersom domfelte møter personlig eller er representert i samsvar med avsenderstatens lovgivning, og innsigelsen ikke avvises, skal anmodningen om fullbyrding anses bortfalt.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 26
 
@@ -574,13 +703,17 @@ Enhver uteblivelsesdom1 og enhver «ordonnance pénale»2 som ennå ikke har væ
 
 4\. Ethvert skritt med henblikk på rettsforfølgning eller forutgående undersøkelse som er foretatt i den dømmende stat i samsvar med dens lover og forskrifter, har gyldighet i mottakerstaten som om det var foretatt av denne stats myndigheter, forutsatt at likestillingen ikke gir slike skritt større beviskraft enn de har i avsenderstaten.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 27
 
 Til framsending av innsigelse og under den senere rettssak har den som er dømt ved uteblivelsesdom1 eller ved en «ordonnance pénale»,2 rett til juridisk bistand i de tilfelle og på de vilkår som er fastsatt i lovgivningen i mottakerstaten og i tilfelle i avsenderstaten.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 28
 
@@ -590,7 +723,9 @@ De rettslige avgjørelser som treffes i medhold av artikkel 26 nr. 3 og fullbyrd
 
 Dersom den som er dømt ved en uteblivelsesdom1 eller ved en «ordonnance pénale»,2 ikke framsetter innsigelse, skal avgjørelsen fullt ut etter denne konvensjon anses utferdiget etter at tiltalte har møtt.
 
-1 Se del I, art 1, f.2 Se del I, art 1, g.
+1 Se del I, art 1, f.
+
+2 Se del I, art 1, g.
 
 ### Art 30
 
@@ -604,7 +739,10 @@ Dersom domfelte er til stede i avsenderstaten etter at det er mottatt underretni
 
 ### Art 32
 
-1\. Når avsenderstaten har anmodet om fullbyrding, kan mottakerstaten pågripe og fengsle domfelte:dersom mottakerstatens lovgivning gir heimel for varetektsfengsel for en slik lovovertredelse, ogdet er fare for flukt, eller det, dersom det gjelder en uteblivelsesdom,1 er fare for svekkelse av bevis.
+1\. Når avsenderstaten har anmodet om fullbyrding, kan mottakerstaten pågripe og fengsle domfelte:
+
+1. dersom mottakerstatens lovgivning gir heimel for varetektsfengsel for en slik lovovertredelse, og
+2. det er fare for flukt, eller det, dersom det gjelder en uteblivelsesdom,1 er fare for svekkelse av bevis.
 
 2\. Når avsenderstaten opplyser at den akter å anmode om fullbyrding, kan mottakerstaten på avsenderstatens anmodning pågripe og fengsle domfelte, forutsatt at vilkårene i nr. 1 bokstav a og b er oppfylt. Denne anmodningen skal nevne den lovovertredelse som ligger til grunn for dommen og tidspunktet og stedet for overtredelsen, og den skal inneholde en nøyaktigst mulig beskrivelse av domfelte. Den skal likeledes inneholde en kort redegjørelse for de faktiske omstendigheter dommen bygger på.
 
@@ -614,7 +752,10 @@ Dersom domfelte er til stede i avsenderstaten etter at det er mottatt underretni
 
 1\. Lovreglene i mottakerstaten gjelder for oppholdet i varetektsfengsel, og disse reglene bestemmer også vilkårene for å løslate den fengslede.
 
-2\. Den fengslede skal i alle tilfelle løslates:etter et tidsforløp som svarer til varigheten av den frihetsberøvelse som er fastsatt i dommen;dersom han er pågrepet og fengslet i medhold av artikkel 32 nr. 2, og mottakerstaten ikke innen 18 dager etter pågripelsesdagen har mottatt anmodningen vedlagt de dokumenter som er nevnt i artikkel 16.
+2\. Den fengslede skal i alle tilfelle løslates:
+
+1. etter et tidsforløp som svarer til varigheten av den frihetsberøvelse som er fastsatt i dommen;
+2. dersom han er pågrepet og fengslet i medhold av artikkel 32 nr. 2, og mottakerstaten ikke innen 18 dager etter pågripelsesdagen har mottatt anmodningen vedlagt de dokumenter som er nevnt i artikkel 16.
 
 ### Art 34
 
@@ -656,11 +797,21 @@ Saken skal bringes inn for retten eller for den myndighet som er utpekt i medhol
 
 ###### Art 40.
 
-1\. Domstolen eller den myndighet som behandler saken i medhold av artikkel 37, skal forvisse seg om:at den sanksjon som begjæres fullbyrdet, er idømt ved en europeisk straffedom;1at vilkårene i artikkel 4 er oppfylt;at vilkåret i artikkel 6 bokstav a ikke er oppfylt eller ikke bør utelukke fullbyrding;at fullbyrding ikke er utelukket i medhold av artikkel 7;at vilkårene i denne dels avsnitt 3 er oppfylt dersom det dreier seg om en uteblivelsesdom2 eller en «ordonnance pénale».3
+1\. Domstolen eller den myndighet som behandler saken i medhold av artikkel 37, skal forvisse seg om:
+
+1. at den sanksjon som begjæres fullbyrdet, er idømt ved en europeisk straffedom;1
+2. at vilkårene i artikkel 4 er oppfylt;
+3. at vilkåret i artikkel 6 bokstav a ikke er oppfylt eller ikke bør utelukke fullbyrding;
+4. at fullbyrding ikke er utelukket i medhold av artikkel 7;
+5. at vilkårene i denne dels avsnitt 3 er oppfylt dersom det dreier seg om en uteblivelsesdom2 eller en «ordonnance pénale».3
 
 2\. Enhver kontraherende stat kan pålegge retten eller den myndighet som er utpekt i medhold av artikkel 37 å undersøke andre av de vilkår for fullbyrding som er fastsatt i denne konvensjon.
 
-1 Se del I, art 1, a.2 Se del I, art 1, f.3 Se del I, art 1, g.
+1 Se del I, art 1, a.
+
+2 Se del I, art 1, f.
+
+3 Se del I, art 1, g.
 
 ###### Art 41.
 
@@ -686,7 +837,9 @@ Dersom domfelte er fengslet i avsenderstaten, skal han, med mindre denne stats l
 
 4\. Enhver kontraherende stat kan når som helst deponere hos Europarådets generalsekretær en erklæring som gir den rett til i medhold av denne konvensjon å fullbyrde en frihetsberøvelse av samme art som den som er idømt i avsenderstaten, selv om dens varighet overstiger det maksimum som er fastsatt i mottakerstatens nasjonale lovgivning for en sanksjon av samme [art](lov/1991-07-20-67). Denne regel gjelder likevel bare i tilfelle denne stats nasjonale lovgivning gir adgang til å idømme for den samme lovovertredelse en sanksjon av minst samme varighet som den som er idømt i avsenderstaten, men som er av strengere [art](lov/1991-07-20-67). Den sanksjon1 som pålegges etter denne bestemmelse kan, dersom dens varighet og formål krever det, fullbyrdes i en straffanstalt som er bestemt for fullbyrding av sanksjoner av annen [art](lov/1991-07-20-67).
 
-1 Se del I, art 1, d.2 Se del I, art 1, b.
+1 Se del I, art 1, d.
+
+2 Se del I, art 1, b.
 
 ### c. Bestemmelser spesielt om fullbyrding av bøter og inndragning.
 
@@ -694,7 +847,9 @@ Dersom domfelte er fengslet i avsenderstaten, skal han, med mindre denne stats l
 
 1\. Dersom en anmodning om fullbyrding av en bot eller inndragning av et pengebeløp imøtekommes, skal retten eller den myndighet som er utpekt i medhold av artikkel 37, omsette beløpet til mottakerstatens myntenhet etter den vekselkurs som gjelder når avgjørelsen treffes. Den skal således fastsette boten eller det beløp som skal inndras, men kan likevel ikke overskride det maksimumsbeløp som er fastsatt i dens egen lovgivning for samme lovovertredelse, eller dersom det ikke er fastsatt noe maksimumsbeløp, det høyeste beløp som normalt pålegges i mottakerstaten for en slik lovovertredelse.
 
-2\. Retten eller den myndighet som er utpekt i medhold av artikkel 37, kan likevel opprettholde bot eller inndragning inntil det beløp som er idømt i avsenderstaten, dersom en slik sanksjon ikke er hjemlet i mottakerstatens lovgivning for samme lovovertredelse, men denne lovgivning gir mulighet for å idømme strengere sanksjoner.Det samme gjelder dersom den sanksjonen som er idømt i avsenderstaten, overstiger det maksimumsbeløp som er fastsatt i mottakerstatens lovgivning for samme lovovertredelse, men denne lovgivningen gir mulighet for å idømme strengere sanksjoner.
+2\. Retten eller den myndighet som er utpekt i medhold av artikkel 37, kan likevel opprettholde bot eller inndragning inntil det beløp som er idømt i avsenderstaten, dersom en slik sanksjon ikke er hjemlet i mottakerstatens lovgivning for samme lovovertredelse, men denne lovgivning gir mulighet for å idømme strengere sanksjoner.
+
+Det samme gjelder dersom den sanksjonen som er idømt i avsenderstaten, overstiger det maksimumsbeløp som er fastsatt i mottakerstatens lovgivning for samme lovovertredelse, men denne lovgivningen gir mulighet for å idømme strengere sanksjoner.
 
 3\. Enhver lemping med hensyn til tidspunktet for betalingen eller avdragsvis betaling som er innrømmet i avsenderstaten, skal respekteres av mottakerstaten.
 
@@ -714,7 +869,10 @@ Dersom domfelte er fengslet i avsenderstaten, skal han, med mindre denne stats l
 
 ###### Art 48.
 
-Dersom en bot ikke kan inndrives, kan retten i mottakerstaten idømme en subsidiær sanksjon som medfører frihetsberøvelse, for så vidt begge staters lovgivning gir heimel for det i slike tilfelle, med mindre avsenderstaten uttrykkelig har begrenset sin anmodning til bare å gjelde inndrivelse av boten. Dersom retten beslutter å pålegge en subsidiær sanksjon som medfører frihetsberøvelse, gjelder følgende regler:Dersom omsetting av en bot til en sanksjon som medfører frihetsberøvelse, allerede er foreskrevet enten i den dom som er avsagt i avsenderstaten eller direkte i denne stats lovgivning, skal retten i mottakerstaten fastsette denne sanksjons art og varighet i samsvar med reglene i dens egen lovgivning. Såframt den frihetsberøvende sanksjon,1 som allerede er fastsatt i avsenderstaten, ligger under den minstestraff som kan idømmes etter mottakerstatens lovgivning, er retten ikke bundet av denne minstestraff, men den skal idømme en sanksjon1 som svarer til den som er fastsatt i avsenderstaten. Ved fastsettelse av sanksjonen må retten ikke forverre domfeltes strafferettslige situasjon som følger av den avgjørelse som er truffet i avsenderstaten.I alle andre tilfelle skal retten i mottakerstaten omsette boten i samsvar med dens egen lovgivning, men under hensyn til de rammer som er fastsatt i avsenderstatens lovgivning.
+Dersom en bot ikke kan inndrives, kan retten i mottakerstaten idømme en subsidiær sanksjon som medfører frihetsberøvelse, for så vidt begge staters lovgivning gir heimel for det i slike tilfelle, med mindre avsenderstaten uttrykkelig har begrenset sin anmodning til bare å gjelde inndrivelse av boten. Dersom retten beslutter å pålegge en subsidiær sanksjon som medfører frihetsberøvelse, gjelder følgende regler:
+
+1. Dersom omsetting av en bot til en sanksjon som medfører frihetsberøvelse, allerede er foreskrevet enten i den dom som er avsagt i avsenderstaten eller direkte i denne stats lovgivning, skal retten i mottakerstaten fastsette denne sanksjons art og varighet i samsvar med reglene i dens egen lovgivning. Såframt den frihetsberøvende sanksjon,1 som allerede er fastsatt i avsenderstaten, ligger under den minstestraff som kan idømmes etter mottakerstatens lovgivning, er retten ikke bundet av denne minstestraff, men den skal idømme en sanksjon1 som svarer til den som er fastsatt i avsenderstaten. Ved fastsettelse av sanksjonen må retten ikke forverre domfeltes strafferettslige situasjon som følger av den avgjørelse som er truffet i avsenderstaten.
+2. I alle andre tilfelle skal retten i mottakerstaten omsette boten i samsvar med dens egen lovgivning, men under hensyn til de rammer som er fastsatt i avsenderstatens lovgivning.
 
 1 Se del I, art 1, d.
 
@@ -752,13 +910,23 @@ Mottakerstaten kan gi domfelte tilbake de rettigheter han er frakjent i medhold 
 
 ### Art 53
 
-1\. Er det avsagt en europeisk straffedom1 overfor en person kan han ikke siktes, tiltales, domfelles eller gjøres til gjenstand for fullbyrdelse av en sanksjon2 for samme handling i en annen kontraherende stat:dersom han ble frifunnet;dersom den idømte sanksjon:2er blitt fullstendig fullbyrdet eller er under fullbyrding, ellerhar vært gjenstand for benådning eller amnesti for så vidt angår hele sanksjonen eller den del av den, som ikke er fullbyrdet, ellerikke lenger kan fullbyrdes på grunn av foreldelse;dersom lovovertrederen er funnet skyldig uten at det er fastsatt noen sanksjon.
+1\. Er det avsagt en europeisk straffedom1 overfor en person kan han ikke siktes, tiltales, domfelles eller gjøres til gjenstand for fullbyrdelse av en sanksjon2 for samme handling i en annen kontraherende stat:
+
+1. dersom han ble frifunnet;
+2. dersom den idømte sanksjon:2
+
+   1. er blitt fullstendig fullbyrdet eller er under fullbyrding, eller
+   2. har vært gjenstand for benådning eller amnesti for så vidt angår hele sanksjonen eller den del av den, som ikke er fullbyrdet, eller
+   3. ikke lenger kan fullbyrdes på grunn av foreldelse;
+3. dersom lovovertrederen er funnet skyldig uten at det er fastsatt noen sanksjon.
 
 2\. Med mindre en kontraherende stat selv har begjært rettsforfølgningen, plikter den likevel ikke å anerkjenne virkningen av ne bis in idem dersom den pådømte handling enten var rettet mot en person med offentlig verv i denne stat eller en offentlig institusjon eller annet som der er av offentlig karakter, eller domfelte selv hadde offentlig verv i denne stat.
 
 3\. Videre er ingen kontraherende stat hvor handlingen er begått eller etter dens lovgivning anses for begått, forpliktet til å anerkjenne virkningen av ne bis in idem med mindre den selv har begjært rettsforfølgning.
 
-1 Se del I, art 1, a.2 Se del I, art 1, d.
+1 Se del I, art 1, a.
+
+2 Se del I, art 1, d.
 
 ### Art 54
 
@@ -780,7 +948,9 @@ Enhver kontraherende stat skal gjennomføre de lovgivningstiltak den anser egnet
 
 Enhver kontraherende stat skal gjennomføre de lovgivningstiltak den anser egnet for å gjøre det mulig å ta i betraktning enhver europeisk straffedom1 som er avsagt etter at tiltalte har møtt, slik at rettighetstap2 som etter dens lovgivning er knyttet til dommer avsagt innenfor dens eget territorium, kan komme helt eller delvis til anvendelse. Den avgjør vilkårene for å ta i betraktning den europeiske dom.
 
-1 Se del I, art 1, a.2 Se del I, art 1, e.
+1 Se del I, art 1, a.
+
+2 Se del I, art 1, e.
 
 ### Del IV. Avsluttende bestemmelser.
 
@@ -852,7 +1022,19 @@ Europarådets komité for kriminalspørsmål skal holdes underrettet om anvendel
 
 ### Art 67
 
-Europarådets generalsekretær skal underrette de av Rådets medlemmer som er representert i Ministerkomiteen, og enhver stat som har tiltrådt konvensjonen, om:enhver undertegning;enhver deponering av et ratifikasjons-, godkjennings- eller tiltredelsesdokument;enhver ikrafttredelse av denne konvensjon i medhold av artikkel 58;enhver erklæring mottatt etter artikkel 19 nr. 2;enhver erklæring mottatt etter artikkel 44 nr. 4;enhver erklæring mottatt etter artikkel 60;ethvert forbehold tatt i medhold av bestemmelsene i artikkel 61 nr. 1, samt tilbakekall av slikt forbehold;enhver erklæring mottatt etter artikkel 62 nr. 1, samt enhver senere underretning mottatt etter artikkel 62 nr. 2;enhver opplysning mottatt etter artikkel 63 nr. 1, samt enhver senere underretning mottatt etter artikkel 63 nr. 2;enhver underretning om bilaterale eller mulitilaterale overenskomster inngått etter artikkel 64 nr. 2, eller om ensartet lovgivning innført etter artikkel 64 nr. 3;enhver underretning mottatt etter artikkel 66 samt datoen oppsigelsen trer i kraft.
+Europarådets generalsekretær skal underrette de av Rådets medlemmer som er representert i Ministerkomiteen, og enhver stat som har tiltrådt konvensjonen, om:
+
+1. enhver undertegning;
+2. enhver deponering av et ratifikasjons-, godkjennings- eller tiltredelsesdokument;
+3. enhver ikrafttredelse av denne konvensjon i medhold av artikkel 58;
+4. enhver erklæring mottatt etter artikkel 19 nr. 2;
+5. enhver erklæring mottatt etter artikkel 44 nr. 4;
+6. enhver erklæring mottatt etter artikkel 60;
+7. ethvert forbehold tatt i medhold av bestemmelsene i artikkel 61 nr. 1, samt tilbakekall av slikt forbehold;
+8. enhver erklæring mottatt etter artikkel 62 nr. 1, samt enhver senere underretning mottatt etter artikkel 62 nr. 2;
+9. enhver opplysning mottatt etter artikkel 63 nr. 1, samt enhver senere underretning mottatt etter artikkel 63 nr. 2;
+10. enhver underretning om bilaterale eller mulitilaterale overenskomster inngått etter artikkel 64 nr. 2, eller om ensartet lovgivning innført etter artikkel 64 nr. 3;
+11. enhver underretning mottatt etter artikkel 66 samt datoen oppsigelsen trer i kraft.
 
 ### Art 68
 

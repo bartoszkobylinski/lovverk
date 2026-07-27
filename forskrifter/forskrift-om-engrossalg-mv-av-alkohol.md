@@ -15,7 +15,7 @@ xml_hash: "50f679fbf35e6d4ae4df2d7d2e4002d7cb1525a974908204446bec9236a0a6bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,11 +42,19 @@ Med varelager menes lokaler hvor det lagres alkoholholdig drikk, samt sats og gj
 
 ### § 2-3
 
-Varelageret skal til enhver tid væreforsvarlig låst og sikret mot innbrudd,i god orden, ogutilgjengelig for uvedkommende.
+Varelageret skal til enhver tid være
+
+1. forsvarlig låst og sikret mot innbrudd,
+2. i god orden, og
+3. utilgjengelig for uvedkommende.
 
 ### § 2-4
 
-Det må til enhver tid foreligge forsvarlige rutiner forå holde oversikt over hvilke varer som befinner seg på varelageret. Rutinene skal sikre oversikt over beholdningen og inn- og uttak av varer.oppfølging når det avdekkes manko i beholdningen.kontroll med at uvedkommende personer ikke har adgang til lageret og de alkoholholdige varene som oppbevares der.
+Det må til enhver tid foreligge forsvarlige rutiner for
+
+1. å holde oversikt over hvilke varer som befinner seg på varelageret. Rutinene skal sikre oversikt over beholdningen og inn- og uttak av varer.
+2. oppfølging når det avdekkes manko i beholdningen.
+3. kontroll med at uvedkommende personer ikke har adgang til lageret og de alkoholholdige varene som oppbevares der.
 
 ### § 2-5
 
@@ -92,7 +100,11 @@ Gebyrplikten omfatter bevilling for tilvirkning av alkoholholdig drikk.
 
 Bevillingsgebyret beregnes på grunnlag av omsatt mengde tilvirket alkoholholdig drikk. Gebyret differensieres etter alkoholinnhold og alkoholtype.
 
-Med omsatt mengde menesuttak fra lager, herunder tyveri, brann mv., med mindre varen overføres til et annet av bevillingshaverens godkjente lagresalg uten at varen er innom lagersvinn/manko, unntatt driftsmessig svinn.
+Med omsatt mengde menes
+
+- uttak fra lager, herunder tyveri, brann mv., med mindre varen overføres til et annet av bevillingshaverens godkjente lagre
+- salg uten at varen er innom lager
+- svinn/manko, unntatt driftsmessig svinn.
 
 Omsetningen er gebyrpliktig også om varen tidligere har gitt grunnlag for gebyrplikt.
 
@@ -142,7 +154,11 @@ Helsedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gje
 
 Engrossalg med varer som det er betalt særavgift for kan bare skje på grunnlag av registrering hos skattekontoret.
 
-Følgende bestemmelser gjelder tilsvarende for engrossalg med varer som det er betalt særavgift for:[forskrift 11. desember 2001 nr. 1451](forskrift/2001-12-11-1451) om særavgifter [§ 5-3](forskrift/2001-12-11-1451/§5-3) tredje ledd, [§ 5-4](forskrift/2001-12-11-1451/§5-4), [§ 5-6](forskrift/2001-12-11-1451/§5-6) annet ledd og [§ 5-7](forskrift/2001-12-11-1451/§5-7) så langt den passer,[lov 27. mai 2016 nr. 14](lov/2016-05-27-14) om skatteforvaltning [§ 8-13](lov/2016-05-27-14/§8-13), [§ 10-1](lov/2016-05-27-14/§10-1) til [§ 10-4](lov/2016-05-27-14/§10-4) og [§ 10-5](lov/2016-05-27-14/§10-5) annet ledd bokstav e og[forskrift 23. november 2016 nr. 1360](forskrift/2016-11-23-1360) til skatteforvaltningsloven § 8-13-2 så langt den passer.
+Følgende bestemmelser gjelder tilsvarende for engrossalg med varer som det er betalt særavgift for:
+
+- [forskrift 11. desember 2001 nr. 1451](forskrift/2001-12-11-1451) om særavgifter [§ 5-3](forskrift/2001-12-11-1451/§5-3) tredje ledd, [§ 5-4](forskrift/2001-12-11-1451/§5-4), [§ 5-6](forskrift/2001-12-11-1451/§5-6) annet ledd og [§ 5-7](forskrift/2001-12-11-1451/§5-7) så langt den passer,
+- [lov 27. mai 2016 nr. 14](lov/2016-05-27-14) om skatteforvaltning [§ 8-13](lov/2016-05-27-14/§8-13), [§ 10-1](lov/2016-05-27-14/§10-1) til [§ 10-4](lov/2016-05-27-14/§10-4) og [§ 10-5](lov/2016-05-27-14/§10-5) annet ledd bokstav e og
+- [forskrift 23. november 2016 nr. 1360](forskrift/2016-11-23-1360) til skatteforvaltningsloven § 8-13-2 så langt den passer.
 
 > Endret ved [forskrifter 20 nov 2015 nr. 1352](forskrift/2015-11-20-1352) (i kraft 1 jan 2016), [8 april 2019 nr. 467](forskrift/2019-04-08-467).
 
@@ -162,13 +178,21 @@ Innehaver av tilvirkningsbevilling har rett til å drive engrossalg med den type
 
 Bevillingshaver og den som driver engrossalg plikter etter anmodning å avgi opplysninger til statistiske formål til Helsedirektoratet.
 
-Opplysninger som kan kreves avgitt gjelderimport, herunder avgiverland, bulk- eller flaskeleveranseomsetning av alkoholholdig drikk, herunder vareliter, type alkoholholdig drikk, alkoholstyrke, selgere/kjøperetilvirkning av alkoholholdig drikk, herunder omfang, type alkoholholdig drikk, alkoholstyrke, kjøpere.
+Opplysninger som kan kreves avgitt gjelder
+
+- import, herunder avgiverland, bulk- eller flaskeleveranse
+- omsetning av alkoholholdig drikk, herunder vareliter, type alkoholholdig drikk, alkoholstyrke, selgere/kjøpere
+- tilvirkning av alkoholholdig drikk, herunder omfang, type alkoholholdig drikk, alkoholstyrke, kjøpere.
 
 > Endret ved [forskrift 8 des 2011 nr. 1219](forskrift/2011-12-08-1219) (i kraft 1 jan 2012).
 
 ### § 6-2. Innhenting og bearbeiding av opplysninger
 
-Helsedirektoratet kan bestemme hvordan opplysningene skal innhentes og hvorledes statistikken skal utarbeides, herunderdefinisjon av statistiske enheter, kjennemerker, klassifikasjoner mv.,datainnhenting, herunder registreringsskjemaets form og innhold,databearbeidingen.
+Helsedirektoratet kan bestemme hvordan opplysningene skal innhentes og hvorledes statistikken skal utarbeides, herunder
+
+- definisjon av statistiske enheter, kjennemerker, klassifikasjoner mv.,
+- datainnhenting, herunder registreringsskjemaets form og innhold,
+- databearbeidingen.
 
 Det skal legges vekt på statistikkhensyn og på hensynet til de berørte parters kostnader ved innhenting av opplysninger og utarbeidelse av statistikk.
 
@@ -196,11 +220,30 @@ Det skal legges til rette for at det kan benyttes opplysninger fra Enhetsregiste
 
 ### § 7-4. Registerets innhold
 
-Registeret kan inneholde følgende typer opplysninger:bevillingshavers fødselsnummer og adressefødselsnummer og adresse for person som nevnt i [alkoholloven § 6-2](lov/1989-06-02-27/§6-2) nr. 1organisasjonsnummer/foretaksnummeropplysninger som kan innhentes av Enhetsregisteret, jf. [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregisteret [§ 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6)opplysninger om overdragelse av virksomheten eller av aksjer eller andeler i et selskap som eier slik virksomhetopplysninger avgitt fra næringsmiddeltilsynet, tollmyndighetene, politiet og skattemyndighetene, jf. [alkoholloven § 6-5](lov/1989-06-02-27/§6-5)virksomhetens kapital og omsetninginnbetalt og eventuelt skyldig gebyr og sikkerhetsstillelseannen virksomhet foretaket driveravbrudd eller nedleggelser i driftenlageradressesikkerhetstiltak for lagerdistribusjonsnett og -organiseringomfanget av bevillingen, jf. [alkoholloven § 6-1](lov/1989-06-02-27/§6-1)eventuelle andre bevillinger etter alkoholloven som virksomheten innehar.
+Registeret kan inneholde følgende typer opplysninger:
+
+- bevillingshavers fødselsnummer og adresse
+- fødselsnummer og adresse for person som nevnt i [alkoholloven § 6-2](lov/1989-06-02-27/§6-2) nr. 1
+- organisasjonsnummer/foretaksnummer
+- opplysninger som kan innhentes av Enhetsregisteret, jf. [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregisteret [§ 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6)
+- opplysninger om overdragelse av virksomheten eller av aksjer eller andeler i et selskap som eier slik virksomhet
+- opplysninger avgitt fra næringsmiddeltilsynet, tollmyndighetene, politiet og skattemyndighetene, jf. [alkoholloven § 6-5](lov/1989-06-02-27/§6-5)
+- virksomhetens kapital og omsetning
+- innbetalt og eventuelt skyldig gebyr og sikkerhetsstillelse
+- annen virksomhet foretaket driver
+- avbrudd eller nedleggelser i driften
+- lageradresse
+- sikkerhetstiltak for lager
+- distribusjonsnett og -organisering
+- omfanget av bevillingen, jf. [alkoholloven § 6-1](lov/1989-06-02-27/§6-1)
+- eventuelle andre bevillinger etter alkoholloven som virksomheten innehar.
 
 ### § 7-5. Utlevering av opplysninger fra registeret
 
-Utlevering av personopplysninger er ikke tillatt uten i følgende tilfeller:når den person eller foretak opplysningene gjelder har gitt skriftlig samtykketil statistisk formål, jf. [alkoholloven § 6-6](lov/1989-06-02-27/§6-6) fjerde ledd.
+Utlevering av personopplysninger er ikke tillatt uten i følgende tilfeller:
+
+1. når den person eller foretak opplysningene gjelder har gitt skriftlig samtykke
+2. til statistisk formål, jf. [alkoholloven § 6-6](lov/1989-06-02-27/§6-6) fjerde ledd.
 
 For øvrig kan utlevering skje når lovbestemt taushetsplikt ikke er til hinder for dette.
 
@@ -260,7 +303,13 @@ Det skal legges til rette for at det kan benyttes opplysninger fra Enhetsregiste
 
 ### § 8-4. Registerets innhold
 
-Registeret skal inneholde følgende typer opplysninger:om virksomheten utøves på grunnlag av tilvirkningsbevilling eller registrering etter [alkoholloven § 1-4c](lov/1989-06-02-27/§1-4c) og hvilke rettigheter som omfattes av tilvirkningsbevilling, jf. [alkoholloven § 6-1](lov/1989-06-02-27/§6-1) første leddbevillingshavers eller den som driver engrossalgs firmanavn og organisasjonsnummer/foretaksnummervirksomhetens adresse og andre kontaktopplysningerbevilling gitt eller registrering foretatt (dato)bevilling inndradd eller registrering tilbakekalt (dato).
+Registeret skal inneholde følgende typer opplysninger:
+
+1. om virksomheten utøves på grunnlag av tilvirkningsbevilling eller registrering etter [alkoholloven § 1-4c](lov/1989-06-02-27/§1-4c) og hvilke rettigheter som omfattes av tilvirkningsbevilling, jf. [alkoholloven § 6-1](lov/1989-06-02-27/§6-1) første ledd
+2. bevillingshavers eller den som driver engrossalgs firmanavn og organisasjonsnummer/foretaksnummer
+3. virksomhetens adresse og andre kontaktopplysninger
+4. bevilling gitt eller registrering foretatt (dato)
+5. bevilling inndradd eller registrering tilbakekalt (dato).
 
 ### § 8-5. Utlevering av opplysninger fra registeret
 
@@ -286,7 +335,11 @@ Bevillingshaver og den som driver engrossalg kan selge fire kvoter alkoholholdig
 
 Som ansatt regnes person som har arbeidet i selskapets tjeneste sammenhengende i minst 3 måneder.
 
-En kvote utgjør:alternativ 1: 24 liter drikk med høyst 4,7 volumprosent alkohol, elleralternativ 2: 7,5 liter drikk med lavere alkoholinnhold enn 22 volumprosent, elleralternativ 3: 1,4 liter drikk med 22 volumprosent alkohol eller mer og 3 liter flasker drikk med lavere alkoholinnhold enn 22 volumprosent.
+En kvote utgjør:
+
+- alternativ 1: 24 liter drikk med høyst 4,7 volumprosent alkohol, eller
+- alternativ 2: 7,5 liter drikk med lavere alkoholinnhold enn 22 volumprosent, eller
+- alternativ 3: 1,4 liter drikk med 22 volumprosent alkohol eller mer og 3 liter flasker drikk med lavere alkoholinnhold enn 22 volumprosent.
 
 De forskjellige typene alkoholholdig drikk kan kombineres. 2,25 liter av alternativ 2 tilsvarer da 8 liter av alternativ 1 eller 0,70 liter drikk med 22 volumprosent alkohol eller mer. Det er likevel ikke tillatt å selge mer enn 1,4 liter drikk med 22 volumprosent alkohol eller mer per kvote. Det kan bare selges en kvote i løpet av tre måneder. Kvotene reduseres forholdsmessig for deltidsansatte.
 

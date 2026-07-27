@@ -46,13 +46,40 @@ Kongen kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særl
 
 ### § 2. Definisjoner
 
-I denne lov forstås vedhundeholder: den som eier eller har tatt omsorg for eller hånd om en hund for kortere eller lengre tidbarn: personer under 12 århusdyr: storfe, sau, geit, hest, gris, fjærkre og andre produksjonsdyrtamrein: rein som eies og driftes innenfor det samiske reinbeiteområde, jf. [reindriftsloven § 4](lov/2007-06-15-40/§4) første ledd, eller med tillatelse etter [reindriftsloven § 8](lov/2007-06-15-40/§8) første leddskade på menneske: bitt av tenner som berører hud med et visst trykk slik at det etterlater merke, men som ikke er en «betydelig skade» etter bokstav fbetydelig skade på menneske:flere dype, punktformede sår som når dypt ned i underhuden eller penetrerer ned i muskulatur og som tydelig viser at det dreier seg om flere bitt, og at skaden er påført med en viss voldsomhetutrivning, dyp flenge, i underhud eller muskulaturbittlesjoner som medfører tap av vevbitt som medfører døden, uten at bittet i seg selv har forårsaket skader som nevnt i nr. 1 til 3betydelig skade på husdyr, tamrein, hunder eller hjortevilt:flere dype, punktformede sår som når dypt ned i underhuden eller penetrerer ned i muskulatur; og som tydelig viser at det dreier seg om flere bitt, og at skaden er påført med en viss voldsomhetutrivning, dyp flenge, i underhud eller muskulaturbittlesjoner som medfører tap av vev, likevel ikke hakk i andre hunders ører eller lepperbitt som medfører døden, herunder at hunden rister en annen hund til døde, uten at bittet i seg selv har forårsaket skader som nevnt i nr. 1 til 3død, utmattelse, skader eller hjelpeløshet som følge av jaging, blant annet kasting av foster og at avkom og mordyr skilles som følge av jagingangrep: at en hund som ikke er sikret gjør en målrettet bevegelse mot et annet dyr eller et menneske med den hensikt å skadeensidig angrep: et angrep som ikke kan ses som en direkte følge av en handling utført av et menneske eller et annet dyrjage: at hunden springer målrettet etter ett eller flere mennesker eller ett eller flere dyrklar fare: at hunden enten fortsatt gjør utfall, eller at hendelsesforløpet tilsier at den vil angripe igjen dersom ikke situasjonen løses opp
+I denne lov forstås ved
+
+1. hundeholder: den som eier eller har tatt omsorg for eller hånd om en hund for kortere eller lengre tid
+2. barn: personer under 12 år
+3. husdyr: storfe, sau, geit, hest, gris, fjærkre og andre produksjonsdyr
+4. tamrein: rein som eies og driftes innenfor det samiske reinbeiteområde, jf. [reindriftsloven § 4](lov/2007-06-15-40/§4) første ledd, eller med tillatelse etter [reindriftsloven § 8](lov/2007-06-15-40/§8) første ledd
+5. skade på menneske: bitt av tenner som berører hud med et visst trykk slik at det etterlater merke, men som ikke er en «betydelig skade» etter bokstav f
+6. betydelig skade på menneske:
+
+   1. flere dype, punktformede sår som når dypt ned i underhuden eller penetrerer ned i muskulatur og som tydelig viser at det dreier seg om flere bitt, og at skaden er påført med en viss voldsomhet
+   2. utrivning, dyp flenge, i underhud eller muskulatur
+   3. bittlesjoner som medfører tap av vev
+   4. bitt som medfører døden, uten at bittet i seg selv har forårsaket skader som nevnt i nr. 1 til 3
+7. betydelig skade på husdyr, tamrein, hunder eller hjortevilt:
+
+   1. flere dype, punktformede sår som når dypt ned i underhuden eller penetrerer ned i muskulatur; og som tydelig viser at det dreier seg om flere bitt, og at skaden er påført med en viss voldsomhet
+   2. utrivning, dyp flenge, i underhud eller muskulatur
+   3. bittlesjoner som medfører tap av vev, likevel ikke hakk i andre hunders ører eller lepper
+   4. bitt som medfører døden, herunder at hunden rister en annen hund til døde, uten at bittet i seg selv har forårsaket skader som nevnt i nr. 1 til 3
+   5. død, utmattelse, skader eller hjelpeløshet som følge av jaging, blant annet kasting av foster og at avkom og mordyr skilles som følge av jaging
+8. angrep: at en hund som ikke er sikret gjør en målrettet bevegelse mot et annet dyr eller et menneske med den hensikt å skade
+9. ensidig angrep: et angrep som ikke kan ses som en direkte følge av en handling utført av et menneske eller et annet dyr
+10. jage: at hunden springer målrettet etter ett eller flere mennesker eller ett eller flere dyr
+11. klar fare: at hunden enten fortsatt gjør utfall, eller at hendelsesforløpet tilsier at den vil angripe igjen dersom ikke situasjonen løses opp
 
 > Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)).
 
 ### § 3. Generelt aktsomhetskrav
 
-Hundeholderen skalforebygge og vise aktsomhet for å unngå at hunden blir satt i en situasjon der den kan gjøre skade på folk, dyr, eiendom eller tingsørge for at hunden eller hundeholdet ikke er til urimelig ulempe for folk, dyr, miljø eller andre interesser.sikre trygghet for hunden, folk og andre dyr ved å holde hunden under forsvarlig tilsyn, og håndtere hunden på en slik måte at den får dekket individuelle behov.
+Hundeholderen skal
+
+1. forebygge og vise aktsomhet for å unngå at hunden blir satt i en situasjon der den kan gjøre skade på folk, dyr, eiendom eller ting
+2. sørge for at hunden eller hundeholdet ikke er til urimelig ulempe for folk, dyr, miljø eller andre interesser.
+3. sikre trygghet for hunden, folk og andre dyr ved å holde hunden under forsvarlig tilsyn, og håndtere hunden på en slik måte at den får dekket individuelle behov.
 
 En hundeholder som midlertidig ønsker å overlate ansvaret for hunden til en annen, må forsikre seg om at vedkommende har de nødvendige forutsetningene for å utvise tilsvarende aktsomhet.
 
@@ -96,7 +123,14 @@ Hundeholderen skal ikke gå fra en bundet hund rett ved inngangen til en bygning
 
 I tiden fra og med 1. april til og med 20. august skal en hund bli holdt i bånd eller forsvarlig inngjerdet eller innestengt, slik at ikke den kan jage eller skade husdyr, tamrein eller viltlevende dyr og deres reir, bo eller hi.
 
-Kommunen kan gi forskrift om at hunder skal holdes i bånd eller forsvarlig innestengt eller inngjerdeti og i tilknytning til boligområder og handleområder,i parker, på gravplasser, på og ved skoler, barnehager og anlegg for lek, idrett, sport eller rekreasjon,på og ved bestemt/angitte turstier, turveier, merkede skiløyper, leir- og rasteplasser,i bestemt angitte andre områder på land, i vann eller sjø som er allment benyttet som tur- og rekreasjonsområder,i hele eller deler av kommunen i bestemt angitt tidsrom når husdyr normalt går ute, ellerunder ekstraordinære forhold som gjør båndtvang påkrevd for å beskytte viltet.
+Kommunen kan gi forskrift om at hunder skal holdes i bånd eller forsvarlig innestengt eller inngjerdet
+
+1. i og i tilknytning til boligområder og handleområder,
+2. i parker, på gravplasser, på og ved skoler, barnehager og anlegg for lek, idrett, sport eller rekreasjon,
+3. på og ved bestemt/angitte turstier, turveier, merkede skiløyper, leir- og rasteplasser,
+4. i bestemt angitte andre områder på land, i vann eller sjø som er allment benyttet som tur- og rekreasjonsområder,
+5. i hele eller deler av kommunen i bestemt angitt tidsrom når husdyr normalt går ute, eller
+6. under ekstraordinære forhold som gjør båndtvang påkrevd for å beskytte viltet.
 
 Båndtvang etter bokstav c og d kan ikke fastsettes i større grad enn nødvendig og slik at hensynet til de som ønsker å ferdes med løs hund også ivaretas i tilstrekkelig grad, både hva angår omfang og geografisk spredning. Båndtvang etter annet ledd bokstav e og f kan bare innføres i de områder av kommunen hvor husdyr har rett til å beite og faktisk beiter, eller hvor vilt man ønsker å beskytte har sitt leveområde. Båndtvang fastsatt i medhold av annet ledd bokstav f må opphøre straks forholdene tilsier det. Der beite, natur- og rekreasjonsområder berører flere kommuner, bør disse samordne sine forskrifter. Kommunens innføring av båndtvang etter bokstav f kan påklages til statsforvalteren.
 
@@ -122,7 +156,15 @@ For bruk av hund under jakt og fangst mv. gjelder også [viltressursloven § 27]
 
 ### § 9. Unntak fra sikringsreglene
 
-Båndtvang fastsatt i eller i medhold av [§§ 4](lov/2003-07-04-74/§4), [6](lov/2003-07-04-74/§6) og [7](lov/2003-07-04-74/§7) gjelder ikke forhund når den brukes i reindriftdressert bufehund når den brukes til å vokte eller gjete storfe, sau eller geithund i aktiv politi-, toll-, militær-, rednings- og offentlig oppsynstjeneste, når den offentlige oppsynstjenesten er etablert med hjemmel i lov, eller under trening eller prøving for slike tjenesterhund i aktiv bruk som ettersøkshund etter såret eller sykt vilthund med særlige bruksformål, avgrensede områder eller nærmere angitte hunderaser, eller hundetyper eller for hunder som har særskilt trening, når dette er fastsatt av kommunen ved forskrift eller enkeltvedtak. Ved dette kan kommunen blant annet legge ut et område som dressurområde for hunder, dersom samtykke som nevnt i [§ 8](lov/2003-07-04-74/§8) første ledd foreliggerhund når den brukes for jakt, jakthundtrening og jaktprøver mellom 20. august og 1. april eller når båndtvang er fastsatt i medhold av [§ 6](lov/2003-07-04-74/§6) annet ledd bokstavene c, d og eførerhunder i aktiv tjeneste eller under trening eller prøving for slik tjeneste
+Båndtvang fastsatt i eller i medhold av [§§ 4](lov/2003-07-04-74/§4), [6](lov/2003-07-04-74/§6) og [7](lov/2003-07-04-74/§7) gjelder ikke for
+
+1. hund når den brukes i reindrift
+2. dressert bufehund når den brukes til å vokte eller gjete storfe, sau eller geit
+3. hund i aktiv politi-, toll-, militær-, rednings- og offentlig oppsynstjeneste, når den offentlige oppsynstjenesten er etablert med hjemmel i lov, eller under trening eller prøving for slike tjenester
+4. hund i aktiv bruk som ettersøkshund etter såret eller sykt vilt
+5. hund med særlige bruksformål, avgrensede områder eller nærmere angitte hunderaser, eller hundetyper eller for hunder som har særskilt trening, når dette er fastsatt av kommunen ved forskrift eller enkeltvedtak. Ved dette kan kommunen blant annet legge ut et område som dressurområde for hunder, dersom samtykke som nevnt i [§ 8](lov/2003-07-04-74/§8) første ledd foreligger
+6. hund når den brukes for jakt, jakthundtrening og jaktprøver mellom 20. august og 1. april eller når båndtvang er fastsatt i medhold av [§ 6](lov/2003-07-04-74/§6) annet ledd bokstavene c, d og e
+7. førerhunder i aktiv tjeneste eller under trening eller prøving for slik tjeneste
 
 Hund som nevnt i første ledd bokstav a til d eller i bestemmelse som gjelder særlige bruksformål etter bokstav e, kan på en aktsom måte slippes slik det er naturlig ut fra bruksformålet.
 
@@ -164,7 +206,12 @@ For å ivareta folks og dyrs sikkerhet og ro og orden, kan kommunen gi forskrift
 
 Private organisasjoner kan etablere og drive en ordning for registrering og merking av alle hunder.
 
-Kongen kan gi forskrift omat alle hunder skal være merket, og at de skal være registrert i et register som føres av en eller flere private organisasjoner eller av et offentlig organ,at en hundeholder plikter å gi genetiske og andre opplysninger til registeret om hunden og hundeholdet,at hundeholderne skal betale gebyr som dekker de nødvendige kostnadene ved ordningen, ogat politiet skal ha innsyn i registeret.
+Kongen kan gi forskrift om
+
+1. at alle hunder skal være merket, og at de skal være registrert i et register som føres av en eller flere private organisasjoner eller av et offentlig organ,
+2. at en hundeholder plikter å gi genetiske og andre opplysninger til registeret om hunden og hundeholdet,
+3. at hundeholderne skal betale gebyr som dekker de nødvendige kostnadene ved ordningen, og
+4. at politiet skal ha innsyn i registeret.
 
 > Endret ved lov [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)).
 
@@ -176,7 +223,11 @@ Hundeholderen skal sørge for å holde eller kalle hunden tilbake og gjøre det 
 
 Et ellers ulovlig inngrep mot en hund er lovlig når noen gjør det for å avverge at hunden urettmessig jager eller angriper mennesker eller dyr, dersom inngrepet ikke går lenger enn nødvendig for å avverge skade, og dessuten ikke går utover det forsvarlige i betraktning av angrepets farlighet og den angrepnes interesse.
 
-Så langt følgende særlige bestemmelser rekker, gjelder de foran den generelle regelen i andre ledd:Ved pågående eller nært forestående angrep mot en person kan enhver gjøre det inngrep mot hunden som fremstår som nødvendig for å avverge skade, herunder avliving. Det samme gjelder dersom en hund påtreffes i umiddelbar forbindelse med at den har påført en person betydelig skade, og hunden fortsatt utgjør en klar fare. Dette fritar ikke den som helt eller delvis har fremprovosert et angrep, fra straffansvar eller erstatningsansvar.Når en hund jager eller angriper tamrein eller husdyr som beiter lovlig, eller når hunden ensidig angriper en annen hund, kan det utsatte dyrets eier, innehaver eller den som passer dyret, gjøre det inngrep mot hunden som fremstår som nødvendig for å avverge skade, herunder avliving, så sant inngrepet ikke går lenger enn nødvendig og ikke utover det forsvarlige. Det samme gjelder hvis hunden har voldt betydelig skade på tamrein, husdyr eller en annen hund, og den fortsatt utgjør en klar fare. Denne bestemmelsen kan ikke påberopes når det dyret som blir jaget eller angrepet, urettmessig er kommet inn på eiendom som hundeholderen disponerer.Når en hund angriper hjortevilt og båndtvang gjelder, kan grunneier, noen som opptrer på dennes vegne, eller jakt- og fangstberettigde gjøre det inngrep mot hunden som fremstår som nødvendig, herunder avliving, for å avverge skade, så sant inngrepet ikke går lenger enn nødvendig og ikke utover det forsvarlige. Dette gjelder likevel ikke en hund som er i aktiv bruk som ettersøkshund etter sykt eller såret vilt.
+Så langt følgende særlige bestemmelser rekker, gjelder de foran den generelle regelen i andre ledd:
+
+1. Ved pågående eller nært forestående angrep mot en person kan enhver gjøre det inngrep mot hunden som fremstår som nødvendig for å avverge skade, herunder avliving. Det samme gjelder dersom en hund påtreffes i umiddelbar forbindelse med at den har påført en person betydelig skade, og hunden fortsatt utgjør en klar fare. Dette fritar ikke den som helt eller delvis har fremprovosert et angrep, fra straffansvar eller erstatningsansvar.
+2. Når en hund jager eller angriper tamrein eller husdyr som beiter lovlig, eller når hunden ensidig angriper en annen hund, kan det utsatte dyrets eier, innehaver eller den som passer dyret, gjøre det inngrep mot hunden som fremstår som nødvendig for å avverge skade, herunder avliving, så sant inngrepet ikke går lenger enn nødvendig og ikke utover det forsvarlige. Det samme gjelder hvis hunden har voldt betydelig skade på tamrein, husdyr eller en annen hund, og den fortsatt utgjør en klar fare. Denne bestemmelsen kan ikke påberopes når det dyret som blir jaget eller angrepet, urettmessig er kommet inn på eiendom som hundeholderen disponerer.
+3. Når en hund angriper hjortevilt og båndtvang gjelder, kan grunneier, noen som opptrer på dennes vegne, eller jakt- og fangstberettigde gjøre det inngrep mot hunden som fremstår som nødvendig, herunder avliving, for å avverge skade, så sant inngrepet ikke går lenger enn nødvendig og ikke utover det forsvarlige. Dette gjelder likevel ikke en hund som er i aktiv bruk som ettersøkshund etter sykt eller såret vilt.
 
 Paragrafen her gjelder ikke politihunder som brukes lovlig. Heller ikke gjelder paragrafen der reglene om nødrett og nødverge gjør en farlig bruk av hunden rettmessig.
 
@@ -202,7 +253,15 @@ Den som har avlivet eller påført hund skade etter [§§ 14](lov/2003-07-04-74/
 
 Politiet kan i samsvar med reglene i [politiloven § 6](lov/1995-08-04-53/§6) gripe inn overfor hunder og hundeholdere for å ivareta enkeltpersoners eller allmennhetens sikkerhet eller trygghet, eller for å verne andre dyr.
 
-Politiet kan for øvrig i slike tilfeller blant annet:ta seg inn på privat eiendom eller områdepålegge båndtvang eller tidsbegrenset bruk av munnkurv, men munnkurv må i så fall ikke benyttes i strid med regler om dyrevelferdforby hunders tilstedeværelse i bestemte områdergi pålegg om at hunden kun kan luftes av eier, eller av andre navngitte personer over 18 år, eller at hunden ikke må luftes sammen med andre hundergi detaljerte pålegg om inngjerding av eiendom der hund oppholder seggi andre pålegg eller forbud som gjelder hundeholdet eller sikring av hunderom nødvendig ta hunder i kortvarig forvaring
+Politiet kan for øvrig i slike tilfeller blant annet:
+
+1. ta seg inn på privat eiendom eller område
+2. pålegge båndtvang eller tidsbegrenset bruk av munnkurv, men munnkurv må i så fall ikke benyttes i strid med regler om dyrevelferd
+3. forby hunders tilstedeværelse i bestemte områder
+4. gi pålegg om at hunden kun kan luftes av eier, eller av andre navngitte personer over 18 år, eller at hunden ikke må luftes sammen med andre hunder
+5. gi detaljerte pålegg om inngjerding av eiendom der hund oppholder seg
+6. gi andre pålegg eller forbud som gjelder hundeholdet eller sikring av hunder
+7. om nødvendig ta hunder i kortvarig forvaring
 
 Unnlater hundeholderen å etterkomme pålegg eller forbud, kan politiet for hundeholderens regning sørge for at det nødvendige blir gjort for å ivareta de hensyn som er nevnt i første ledd.
 
@@ -228,7 +287,15 @@ Vedtak om avliving skal stadfestes skriftlig i etterkant.
 
 ### § 18. Avliving eller omplassering av en hund etter angrep eller skade på menneske når det er nødvendig for å avverge fremtidig risiko
 
-Politiet kan vedta å avlive en hund som har angrepet eller skadet et menneske, dersom ikke dette fremstår som et uforholdsmessig tiltak. Ved vurderingen skal det særlig legges vekt på:hvilken fare som har vært til stede, blant annet om det er et barn som har vært angrepetomfang og type av påført skade, blant annet om det er barn som er påført skade, men det økonomiske tapet etter påført skade skal ikke tillegges vekthvorvidt den som er blitt angrepet eller skadet, helt eller delvis har provosert et angrepden risikoen hunden og hundeholdet kan antas å medføre i fremtidenhundens nytteverdi, men hundens økonomiske verdi skal ikke tillegges vektom særskilte forhold ved hundens helse har medvirket til at hunden utøvet uønsket adferdom det finnes andre tiltak som kan forebygge fremtidig risiko
+Politiet kan vedta å avlive en hund som har angrepet eller skadet et menneske, dersom ikke dette fremstår som et uforholdsmessig tiltak. Ved vurderingen skal det særlig legges vekt på:
+
+1. hvilken fare som har vært til stede, blant annet om det er et barn som har vært angrepet
+2. omfang og type av påført skade, blant annet om det er barn som er påført skade, men det økonomiske tapet etter påført skade skal ikke tillegges vekt
+3. hvorvidt den som er blitt angrepet eller skadet, helt eller delvis har provosert et angrep
+4. den risikoen hunden og hundeholdet kan antas å medføre i fremtiden
+5. hundens nytteverdi, men hundens økonomiske verdi skal ikke tillegges vekt
+6. om særskilte forhold ved hundens helse har medvirket til at hunden utøvet uønsket adferd
+7. om det finnes andre tiltak som kan forebygge fremtidig risiko
 
 Vurdering etter første ledd bokstav f skal utføres av en autorisert veterinær.
 
@@ -242,9 +309,18 @@ Ved avliving av hunden kan hundeholderen tilbys ett samvær med hunden før avli
 
 ### § 18 a. Avliving eller omplassering av en hund etter angrep eller skade på tamrein, husdyr, hjortevilt eller annen hund når det er nødvendig for å avverge fremtidig risiko
 
-Politiet kan vedta å avlive en hund som har jaget og skadet tamrein, husdyr, eller hjortevilt, dersom det ikke fremstår som et uforholdsmessig tiltak. Ved vurderingen skal det særlig legges vekt på:hvilken fare som har vært til stedeomfang og type av påført skadeden risiko hunden og hundeholdet kan antas å medføre i fremtidenhundens nytteverdiom det finnes andre tiltak som kan forebygge fremtidig risiko
+Politiet kan vedta å avlive en hund som har jaget og skadet tamrein, husdyr, eller hjortevilt, dersom det ikke fremstår som et uforholdsmessig tiltak. Ved vurderingen skal det særlig legges vekt på:
 
-Politiet kan også vedta å avlive en hund som ved ensidig angrep har betydelig skadet andre hunder eller kjæledyr, dersom ikke det skadete dyret urettmessig var kommet inn på eiendom som hundeholderen disponerer. Ved vurderingen skal det også legges vekt på:om hunden antas å utgjøre større risiko i fremtiden enn hunder vanligvis gjørom hunden kan fryktes å angripe og skade samme eiers dyr på nytt
+1. hvilken fare som har vært til stede
+2. omfang og type av påført skade
+3. den risiko hunden og hundeholdet kan antas å medføre i fremtiden
+4. hundens nytteverdi
+5. om det finnes andre tiltak som kan forebygge fremtidig risiko
+
+Politiet kan også vedta å avlive en hund som ved ensidig angrep har betydelig skadet andre hunder eller kjæledyr, dersom ikke det skadete dyret urettmessig var kommet inn på eiendom som hundeholderen disponerer. Ved vurderingen skal det også legges vekt på:
+
+1. om hunden antas å utgjøre større risiko i fremtiden enn hunder vanligvis gjør
+2. om hunden kan fryktes å angripe og skade samme eiers dyr på nytt
 
 Dersom det anses praktisk mulig og forsvarlig, skal politiet søke å omplassere en hund fremfor å avlive den.
 
@@ -254,7 +330,11 @@ Ved avliving av hunden kan hundeholderen tilbys ett samvær med hunden før avli
 
 ### § 19. Farlige hunder
 
-Det er forbudt å holde eller innføre hunder somer gitt trening i eller for å angripe eller forsvare seg eller hundeholderen mot mennesker,er gitt trening i eller for å angripe andre hunder, ellerenkelthunder som fremstår som spesielt aggressive, kampvillige eller med andre sterkt uønskede egenskaper eller fremtreden, slik at de kan være farlige for mennesker eller dyr.
+Det er forbudt å holde eller innføre hunder som
+
+1. er gitt trening i eller for å angripe eller forsvare seg eller hundeholderen mot mennesker,
+2. er gitt trening i eller for å angripe andre hunder, eller
+3. enkelthunder som fremstår som spesielt aggressive, kampvillige eller med andre sterkt uønskede egenskaper eller fremtreden, slik at de kan være farlige for mennesker eller dyr.
 
 Er det tvil om en hund går inn under første ledd bokstav c, kan politiet ta hunden i forvaring og kreve at hundeholderen bekoster og medvirker ved en kyndig undersøkelse av hundens adferd for å avklare om den er vel avbalansert eller har en lav terskel for aggresjon eller andre farlige egenskaper mv. Dersom ikke hundeholderen følger opp innen en rimelig frist satt av politiet, regnes hunden for å gå inn under første ledd bokstav c.
 
@@ -288,7 +368,14 @@ Kongen kan i forskrift sette vilkår for å innføre, holde eller drive avl med 
 
 ### § 22. Forbud mot at en person skal kunne ha med hund å gjøre
 
-Politiet kan ved enkeltvedtak forby en hundeholder å ha med hund å gjørenår hundeholderens hund blir vedtatt avlivet, omplassert eller utført fra riket etter [§§ 18](lov/2003-07-04-74/§18), [19](lov/2003-07-04-74/§19), [20](lov/2003-07-04-74/§20), eller [§ 21](lov/2003-07-04-74/§21), jf. [§ 24](lov/2003-07-04-74/§24)dersom pålegg fra politiet etter [§ 17](lov/2003-07-04-74/§17) ikke er fulgt oppdersom politiet har avlivet eller omplassert hundeholderens hund etter [§§ 17](lov/2003-07-04-74/§17) og [17 a](lov/2003-07-04-74/§17a)dersom hundeholderens hund har angrepet et menneske, og hunden ble avlivet på stedet etter [§ 14](lov/2003-07-04-74/§14)dersom personen har trent en hund for angrep på eller forsvar mot mennesker i strid med loven eller i forskrift gitt i medhold av lovendersom personen har latt en hund delta i hundekamp eller har trent en hund for dette
+Politiet kan ved enkeltvedtak forby en hundeholder å ha med hund å gjøre
+
+1. når hundeholderens hund blir vedtatt avlivet, omplassert eller utført fra riket etter [§§ 18](lov/2003-07-04-74/§18), [19](lov/2003-07-04-74/§19), [20](lov/2003-07-04-74/§20), eller [§ 21](lov/2003-07-04-74/§21), jf. [§ 24](lov/2003-07-04-74/§24)
+2. dersom pålegg fra politiet etter [§ 17](lov/2003-07-04-74/§17) ikke er fulgt opp
+3. dersom politiet har avlivet eller omplassert hundeholderens hund etter [§§ 17](lov/2003-07-04-74/§17) og [17 a](lov/2003-07-04-74/§17a)
+4. dersom hundeholderens hund har angrepet et menneske, og hunden ble avlivet på stedet etter [§ 14](lov/2003-07-04-74/§14)
+5. dersom personen har trent en hund for angrep på eller forsvar mot mennesker i strid med loven eller i forskrift gitt i medhold av loven
+6. dersom personen har latt en hund delta i hundekamp eller har trent en hund for dette
 
 Forbud etter første ledd kan bare bli satt dersom personens hundehold ikke anses å ha vært sikkerhetsmessig forsvarlig, eller dersom forbudet må anses nødvendig for å bedre allmennhetens eller enkeltpersoners sikkerhet.
 
@@ -320,7 +407,11 @@ Kongen kan gi forskrift om behandlingen, blant annet om formålet med behandling
 
 ### § 24. Politiets forvaring av hund
 
-Politiet kan om nødvendig ta hånd om en hund dersomvilkårene i [§ 10](lov/2003-07-04-74/§10) er til stede.vilkårene i [§§ 18](lov/2003-07-04-74/§18), [18 a](lov/2003-07-04-74/§18a), [19](lov/2003-07-04-74/§19) eller [20](lov/2003-07-04-74/§20) er til stede,hunden blir holdt, brukt eller satt i avl i strid med bestemmelser gitt i medhold av [§ 21](lov/2003-07-04-74/§21).
+Politiet kan om nødvendig ta hånd om en hund dersom
+
+1. vilkårene i [§ 10](lov/2003-07-04-74/§10) er til stede.
+2. vilkårene i [§§ 18](lov/2003-07-04-74/§18), [18 a](lov/2003-07-04-74/§18a), [19](lov/2003-07-04-74/§19) eller [20](lov/2003-07-04-74/§20) er til stede,
+3. hunden blir holdt, brukt eller satt i avl i strid med bestemmelser gitt i medhold av [§ 21](lov/2003-07-04-74/§21).
 
 Har politiet tatt hånd om hunden etter hjemler i denne lov, kan den holdes i forvaring inntil saken om salg, omplassering, utførsel eller avliving er endelig avgjort.
 
@@ -370,11 +461,19 @@ Om erstatningsansvar for skade voldt av hund gjelder det som følger av andre lo
 
 Med bøter straffes en hundeholder som forsettlig eller uaktsomt overtrer [§§ 4](lov/2003-07-04-74/§4)–7 jf. [§ 9](lov/2003-07-04-74/§9) eller forskrifter eller enkeltvedtak etter [§§ 6](lov/2003-07-04-74/§6), [7](lov/2003-07-04-74/§7), [11](lov/2003-07-04-74/§11), [12](lov/2003-07-04-74/§12). Kongen kan gi nærmere bestemmelser om botens størrelse.
 
-Med bøter eller fengsel inntil seks måneder straffes en hundeholder som forsettlig eller uaktsomt har unnlatt å forebygge eller avverge at hunden rettsstridigangriper eller skader person,jager, angriper eller skader dyr.
+Med bøter eller fengsel inntil seks måneder straffes en hundeholder som forsettlig eller uaktsomt har unnlatt å forebygge eller avverge at hunden rettsstridig
+
+1. angriper eller skader person,
+2. jager, angriper eller skader dyr.
 
 Ved angrep på hjortevilt regnes grunneier, jakt- eller fangstberettiget i området og viltorganene som fornærmet.
 
-Med bøter eller fengsel inntil seks måneder og bot straffes den som forsettlig eller uaktsomtunnlater å etterkomme pålegg og forbud nedlagt av politiet i samsvar med lovens [§ 17](lov/2003-07-04-74/§17), ellerovertrer forbud gitt ved [§§ 19](lov/2003-07-04-74/§19), [21](lov/2003-07-04-74/§21), [22](lov/2003-07-04-74/§22) eller ved forskrifter eller enkeltvedtak gitt etter disse bestemmelsene.På samme måte straffes forsøk.
+Med bøter eller fengsel inntil seks måneder og bot straffes den som forsettlig eller uaktsomt
+
+1. unnlater å etterkomme pålegg og forbud nedlagt av politiet i samsvar med lovens [§ 17](lov/2003-07-04-74/§17), eller
+2. overtrer forbud gitt ved [§§ 19](lov/2003-07-04-74/§19), [21](lov/2003-07-04-74/§21), [22](lov/2003-07-04-74/§22) eller ved forskrifter eller enkeltvedtak gitt etter disse bestemmelsene.
+
+På samme måte straffes forsøk.
 
 > Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)).
 
@@ -400,7 +499,11 @@ Når loven trer i kraft, endres andre lover slik: – – –
 
 Forskrifter gitt med hjemmel i [lov 4. juli 1991 nr. 48](lov/1991-07-04-48) om forbud mot innførsel, hold og avl av farlige hunder gjelder til de blir opphevet av Kongen.
 
-Forskrifter om hunder og hundehold gitt med hjemmel i andre bestemmelser som blir opphevet eller endret ved [§ 31](lov/2003-07-04-74/§31), gjelder til og med 31. desember 2006. Bestemmelser i slike forskrifter bortfaller tidligere dersomloven her ikke gir noen instans hjemmel til å gi en bestemmelse med det aktuelle innhold,det blir fastsatt en bestemmelse med hjemmel i loven her som strider mot den eldre bestemmelsen, ellerbestemmelsen blir opphevet av det organ som har vedtatt den.
+Forskrifter om hunder og hundehold gitt med hjemmel i andre bestemmelser som blir opphevet eller endret ved [§ 31](lov/2003-07-04-74/§31), gjelder til og med 31. desember 2006. Bestemmelser i slike forskrifter bortfaller tidligere dersom
+
+1. loven her ikke gir noen instans hjemmel til å gi en bestemmelse med det aktuelle innhold,
+2. det blir fastsatt en bestemmelse med hjemmel i loven her som strider mot den eldre bestemmelsen, eller
+3. bestemmelsen blir opphevet av det organ som har vedtatt den.
 
 ### § 33. Enkeltvedtak etter eldre lovgivning
 

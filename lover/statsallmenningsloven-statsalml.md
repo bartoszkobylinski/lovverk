@@ -15,7 +15,7 @@ xml_hash: "ecd77bd92daf8aaa8191bda8d205351d1dec666a0a99f67e991d187875985128"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,13 @@ For årsmøteforhandlingene og allmenningsstyrevalget skal det føres en protoko
 
 ### § 1-6. (årsmøtets saker og myndighet)
 
-Årsmøtet skal:Avgi uttalelse til allmenningsstyrets årsmelding og til regnskapene for allmenningsfondet og for allmenningskassen, jfr. [§ 1-4](lov/1992-06-19-60/§1-4), og eventuelt treffe bestemmelse om revisjon av regnskapet for allmenningskassen.Velge allmenningsstyre og valgkomité etter bestemmelsene i [kapittel 3](lov/1992-06-19-60/kap3).Fastsette godtgjørelse for medlemmene av allmenningsstyret.Avgi uttalelse i saker som noen med møterett ved skriftlig henvendelse til allmenningsstyret senest én uke før årsmøtet holdes, har krevd behandlet.Avgi uttalelse i andre saker som fremlegges av allmenningsstyret.
+Årsmøtet skal:
+
+1. Avgi uttalelse til allmenningsstyrets årsmelding og til regnskapene for allmenningsfondet og for allmenningskassen, jfr. [§ 1-4](lov/1992-06-19-60/§1-4), og eventuelt treffe bestemmelse om revisjon av regnskapet for allmenningskassen.
+2. Velge allmenningsstyre og valgkomité etter bestemmelsene i [kapittel 3](lov/1992-06-19-60/kap3).
+3. Fastsette godtgjørelse for medlemmene av allmenningsstyret.
+4. Avgi uttalelse i saker som noen med møterett ved skriftlig henvendelse til allmenningsstyret senest én uke før årsmøtet holdes, har krevd behandlet.
+5. Avgi uttalelse i andre saker som fremlegges av allmenningsstyret.
 
 Årsmøtet har ingen beslutningsmyndighet i andre saker enn valg av allmenningsstyre og valgkomité og fastsettelse av godtgjørelse for allmenningsstyrets medlemmer og eventuelt å treffe bestemmelser om revisjon av regnskapet for allmenningskassen. Uttalelser fra årsmøtet er veiledende og binder ikke allmenningsstyret.
 
@@ -116,7 +122,13 @@ Ved eierskifte og ved andre begivenheter som medfører endringer med hensyn til 
 
 ### § 2-6. (bortfall av virkesrett)
 
-Virkesretten faller bort:Hvis jordbruksdriften på eiendommen blir lagt ned, ogjorden tas i bruk til annet formål, ellerblir liggende nede i et sammenhengende tidsrom av fem år.Hvis eiendommen ved frasalg, annen frivillig avståelse, ekspropriasjon eller omdisponering mister sin karakter av jordbruk etter [§ 2-1](lov/1992-06-19-60/§2-1) annet ledd.
+Virkesretten faller bort:
+
+1. Hvis jordbruksdriften på eiendommen blir lagt ned, og
+
+   1. jorden tas i bruk til annet formål, eller
+   2. blir liggende nede i et sammenhengende tidsrom av fem år.
+2. Hvis eiendommen ved frasalg, annen frivillig avståelse, ekspropriasjon eller omdisponering mister sin karakter av jordbruk etter [§ 2-1](lov/1992-06-19-60/§2-1) annet ledd.
 
 Gjenopptas jordbruksdriften på en eiendom hvor virkesretten er falt bort etter første ledd nr. 1, gjelder [§ 2-1](lov/1992-06-19-60/§2-1) tilsvarende for ny virkesrett. For behandlingen av spørsmål om bortfall av bruksrett gjelder [§ 2-21](lov/1992-06-19-60/§2-21).
 
@@ -206,9 +218,25 @@ Departementet kan gi nærmere bestemmelser om hvordan det skal forholdes ved uen
 
 Det skal fastsettes bruksregler om utøvelsen av virkesretten i allmenningen. Bruksreglene må ikke stride mot loven her.
 
-Bruksreglene skal inneholde:Retningslinjer om tildeling av virke, eventuelt om virkesrabatt og om tilskudd ved bruk av materialer som erstatter uttak av virke.Bestemmelse om antall medlemmer og varamedlemmer i allmenningsstyret, jfr. [§ 1-2](lov/1992-06-19-60/§1-2).Bestemmelser om frister i forbindelse med utøvelse av virkesrett, og om hva søknader om tildeling av ytelser må inneholde.Bestemmelser om kontroll med anvendelse av ytelser til de virkesberettigede.Bestemmelser om fordeling av oppgaver mellom skogforvaltningen og allmenningsstyret.
+Bruksreglene skal inneholde:
 
-Bruksreglene kan dessuten inneholde:Retningslinjer for bruk av midler til ulike formål.Bestemmelser om utarbeidelse av budsjett, og eventuelt om frister o.l. i den forbindelse.Bestemmelser om avgifter som nevnt i [§ 2-8](lov/1992-06-19-60/§2-8).Bestemmelser om at visse spørsmål skal avgjøres ved avstemning blant de virkesberettigede.Nærmere regler om refusjon etter [§ 2-11](lov/1992-06-19-60/§2-11) første og tredje ledd.Nærmere vilkår for ytelser til gjenoppbygging og utbedring av bygninger etter brann m.v., jfr. [§ 2-12](lov/1992-06-19-60/§2-12) annet ledd.Bestemmelser om størrelse og standard på føderådsbygninger som det gis ytelser til oppføring og vedlikehold av, jfr. [§ 2-14](lov/1992-06-19-60/§2-14).Bestemmelse om at årsmøtet bare skal avholdes hvert annet år.Andre forhold som det anses hensiktsmessig å regulere ved bestemmelser i allmenningens bruksregler.
+1. Retningslinjer om tildeling av virke, eventuelt om virkesrabatt og om tilskudd ved bruk av materialer som erstatter uttak av virke.
+2. Bestemmelse om antall medlemmer og varamedlemmer i allmenningsstyret, jfr. [§ 1-2](lov/1992-06-19-60/§1-2).
+3. Bestemmelser om frister i forbindelse med utøvelse av virkesrett, og om hva søknader om tildeling av ytelser må inneholde.
+4. Bestemmelser om kontroll med anvendelse av ytelser til de virkesberettigede.
+5. Bestemmelser om fordeling av oppgaver mellom skogforvaltningen og allmenningsstyret.
+
+Bruksreglene kan dessuten inneholde:
+
+1. Retningslinjer for bruk av midler til ulike formål.
+2. Bestemmelser om utarbeidelse av budsjett, og eventuelt om frister o.l. i den forbindelse.
+3. Bestemmelser om avgifter som nevnt i [§ 2-8](lov/1992-06-19-60/§2-8).
+4. Bestemmelser om at visse spørsmål skal avgjøres ved avstemning blant de virkesberettigede.
+5. Nærmere regler om refusjon etter [§ 2-11](lov/1992-06-19-60/§2-11) første og tredje ledd.
+6. Nærmere vilkår for ytelser til gjenoppbygging og utbedring av bygninger etter brann m.v., jfr. [§ 2-12](lov/1992-06-19-60/§2-12) annet ledd.
+7. Bestemmelser om størrelse og standard på føderådsbygninger som det gis ytelser til oppføring og vedlikehold av, jfr. [§ 2-14](lov/1992-06-19-60/§2-14).
+8. Bestemmelse om at årsmøtet bare skal avholdes hvert annet år.
+9. Andre forhold som det anses hensiktsmessig å regulere ved bestemmelser i allmenningens bruksregler.
 
 > Endret ved lov [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 9 juni 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
@@ -258,7 +286,12 @@ Allmenningsstyre velges av og blant de virkesberettigede i allmenningen. Virkesr
 
 ### § 3-2. (stemmerettens innhold, stemmegivning og fullmakt til å avgi stemme)
 
-Det kan avgis to stemmer for hver eiendom bruksrett ligger til, enten slik at den som alene har stemmerett kan avgi to stemmer, eller slik at to som begge har stemmerett kan avgi hver sin stemme ved fremmøte. Følgende regler gjelder for utøvelse av stemmeretten:Ektefeller har begge stemmerett ved fremmøte. Det samme gjelder samboere hvor begge har undertegnet erklæring til allmenningsstyret om at begge skal stå i manntallet som stemmeberettigede.Eies den eiendom bruksretten ligger til i sameie mellom to personer, har hver én stemme ved fremmøte. Ellers kan stemmeretten utøves av en eller to av sameierne som fremlegger skriftlig fullmakt gitt i henhold til reglene i [lov av 18. juni 1965 nr. 6](lov/1965-06-18-6) om sameige [§§ 4](lov/1965-06-18-6/§4) til 7. For ektefeller som er sameiere gjelder nr. 1 ovenfor.For eiendom som eies av en fylkeskommune, en kommune, et selskap, et samvirkeforetak, en stiftelse, en forening, et bo eller lignende, utøves stemmeretten ved skriftlig fullmakt undertegnet av rette vedkommende.For eiendom som er forpaktet tilligger stemmeretten eieren, med mindre det overensstemmende med [§ 2-4](lov/1992-06-19-60/§2-4) er avtalt at virkesretten skal utøves av forpakteren, og det på valgdagen gjenstår minst to år av forpaktningstiden. Når stemmeretten tilligger forpakteren har også dennes ektefelle stemmerett i samsvar med nr. 1 ovenfor.
+Det kan avgis to stemmer for hver eiendom bruksrett ligger til, enten slik at den som alene har stemmerett kan avgi to stemmer, eller slik at to som begge har stemmerett kan avgi hver sin stemme ved fremmøte. Følgende regler gjelder for utøvelse av stemmeretten:
+
+1. Ektefeller har begge stemmerett ved fremmøte. Det samme gjelder samboere hvor begge har undertegnet erklæring til allmenningsstyret om at begge skal stå i manntallet som stemmeberettigede.
+2. Eies den eiendom bruksretten ligger til i sameie mellom to personer, har hver én stemme ved fremmøte. Ellers kan stemmeretten utøves av en eller to av sameierne som fremlegger skriftlig fullmakt gitt i henhold til reglene i [lov av 18. juni 1965 nr. 6](lov/1965-06-18-6) om sameige [§§ 4](lov/1965-06-18-6/§4) til 7. For ektefeller som er sameiere gjelder nr. 1 ovenfor.
+3. For eiendom som eies av en fylkeskommune, en kommune, et selskap, et samvirkeforetak, en stiftelse, en forening, et bo eller lignende, utøves stemmeretten ved skriftlig fullmakt undertegnet av rette vedkommende.
+4. For eiendom som er forpaktet tilligger stemmeretten eieren, med mindre det overensstemmende med [§ 2-4](lov/1992-06-19-60/§2-4) er avtalt at virkesretten skal utøves av forpakteren, og det på valgdagen gjenstår minst to år av forpaktningstiden. Når stemmeretten tilligger forpakteren har også dennes ektefelle stemmerett i samsvar med nr. 1 ovenfor.
 
 Stemmegivningen kan bare skje skriftlig på stemmesedler som utleveres under årsmøtet. Stemmegivning ved fullmakt kan bare skje i de tilfelle som er nevnt i første ledd nr. 2 og 3.
 
@@ -270,7 +303,12 @@ Ingen kan avgi mer enn to stemmer. I tilfelle hvor både vergen og person som ne
 
 ### § 3-3. (valgbarhet)
 
-Valgbare som medlemmer og varamedlemmer av allmenningsstyret er myndige personer som har stemmerett etter [§§ 3-1](lov/1992-06-19-60/§3-1) og [3-2](lov/1992-06-19-60/§3-2), eller som er sameiere i eiendom med tilliggende virkesrett i allmenningen, med følgende begrensninger:Av flere personer som har stemmerett for en og samme eiendom, er bare én valgbar.En verge er ikke valgbar i egenskap av verge.En forpakter med forpaktningsavtale som utløper i perioden er ikke valgbar.Stemmeberettigede som er fast bosatte utenfor allmenningsbygdelaget er ikke valgbare.
+Valgbare som medlemmer og varamedlemmer av allmenningsstyret er myndige personer som har stemmerett etter [§§ 3-1](lov/1992-06-19-60/§3-1) og [3-2](lov/1992-06-19-60/§3-2), eller som er sameiere i eiendom med tilliggende virkesrett i allmenningen, med følgende begrensninger:
+
+1. Av flere personer som har stemmerett for en og samme eiendom, er bare én valgbar.
+2. En verge er ikke valgbar i egenskap av verge.
+3. En forpakter med forpaktningsavtale som utløper i perioden er ikke valgbar.
+4. Stemmeberettigede som er fast bosatte utenfor allmenningsbygdelaget er ikke valgbare.
 
 ### § 3-4. (bortfall av valgbarhet i valgperioden, innkalling av varamedlem)
 
@@ -306,7 +344,12 @@ Klage over manntallet må fremsettes skriftlig overfor allmenningsstyret senest 
 
 ### § 3-10. (gjennomføring av valget)
 
-Valg av allmenningsstyre foregår på følgende måte:Det stemmes ved en og samme stemmeseddel på styremedlemmer og varamedlemmer i det antall som skal velges. Alle stemmesedler hvor minst én valgbar person står oppført, telles med.Stemmer på personer som ikke er valgbare, settes ut av betraktning ved valgoppgjøret. Er et navn ført opp flere ganger, regnes det som oppført bare én gang. Er det på en stemmeseddel oppført navn på flere valgbare personer enn det antall styremedlemmer og varamedlemmer som skal velges, anses de overskytende navn som står sist i rekkefølgen som ikke oppført.Ved valgoppgjøret telles samtlige stemmer. De som har fått flest stemmer er valgt til styremedlemmer. De som deretter har fått flest stemmer er valgt til varamedlemmer.I tilfelle av stemmelikhet avgjøres valget ved loddtrekning.
+Valg av allmenningsstyre foregår på følgende måte:
+
+1. Det stemmes ved en og samme stemmeseddel på styremedlemmer og varamedlemmer i det antall som skal velges. Alle stemmesedler hvor minst én valgbar person står oppført, telles med.
+2. Stemmer på personer som ikke er valgbare, settes ut av betraktning ved valgoppgjøret. Er et navn ført opp flere ganger, regnes det som oppført bare én gang. Er det på en stemmeseddel oppført navn på flere valgbare personer enn det antall styremedlemmer og varamedlemmer som skal velges, anses de overskytende navn som står sist i rekkefølgen som ikke oppført.
+3. Ved valgoppgjøret telles samtlige stemmer. De som har fått flest stemmer er valgt til styremedlemmer. De som deretter har fått flest stemmer er valgt til varamedlemmer.
+4. I tilfelle av stemmelikhet avgjøres valget ved loddtrekning.
 
 ### § 3-11. (protokollføring)
 

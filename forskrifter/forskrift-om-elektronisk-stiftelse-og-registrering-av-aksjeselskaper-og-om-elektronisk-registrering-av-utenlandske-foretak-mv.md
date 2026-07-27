@@ -15,7 +15,7 @@ xml_hash: "dcd10039080de48909e5e3e0d61c06a4d9216c3777b6d41e6b73177bf9885e55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,12 @@ Ved elektronisk stiftelse av aksjeselskap etter [aksjeloven § 2-1 første ledd 
 
 ### § 4. Tilgjengeliggjøring av informasjon om regler om stiftelse og registrering av aksjeselskaper
 
-(1) Registerføreren skal sørge for at det utarbeides informasjon om regler om stiftelse og registering av aksjeselskaper. Informasjonen skal minst inneholde:En oversikt over reglene for å stifte aksjeselskaper og registrere slike selskaper i Foretaksregisteret, herunder om elektronisk stiftelse og registrering, krav til bruk av mal, skjema eller løsning, identifisering av fysiske personer, språkkrav og gebyrer for registrering.En oversikt over reglene for å bli styremedlem eller daglig leder i et aksjeselskap.En oversikt over reglene om myndigheten og ansvaret til styret og daglig leder i et aksjeselskap, herunder om myndighet til å representere selskapet utad.En oversikt over reglene om frakjennelse av retten til å ha tillitsverv i et aksjeselskap og om myndigheter eller organer som er ansvarlige for å oppbevare informasjon om personer som er frakjent retten til å ha tillitsverv.
+(1) Registerføreren skal sørge for at det utarbeides informasjon om regler om stiftelse og registering av aksjeselskaper. Informasjonen skal minst inneholde:
+
+1. En oversikt over reglene for å stifte aksjeselskaper og registrere slike selskaper i Foretaksregisteret, herunder om elektronisk stiftelse og registrering, krav til bruk av mal, skjema eller løsning, identifisering av fysiske personer, språkkrav og gebyrer for registrering.
+2. En oversikt over reglene for å bli styremedlem eller daglig leder i et aksjeselskap.
+3. En oversikt over reglene om myndigheten og ansvaret til styret og daglig leder i et aksjeselskap, herunder om myndighet til å representere selskapet utad.
+4. En oversikt over reglene om frakjennelse av retten til å ha tillitsverv i et aksjeselskap og om myndigheter eller organer som er ansvarlige for å oppbevare informasjon om personer som er frakjent retten til å ha tillitsverv.
 
 (2) Informasjon som nevnt i første ledd skal utarbeides på norsk og engelsk, og være gratis og offentlig tilgjengelig. Registerføreren skal sørge for at informasjonen på engelsk er tilgjengelig på nettsider eller registreringsportaler som kan nås via Single Digital Gateway.
 

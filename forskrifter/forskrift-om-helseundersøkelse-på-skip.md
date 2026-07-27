@@ -15,7 +15,7 @@ xml_hash: "d7ed83aeed2b8ccac5f27ce8ad17685f5611ada8beadcf5f2db87bdb47aaa615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,16 @@ Forskriften skal sikre at den som har sitt arbeid på norsk skip eller flyttbar 
 
 ### § 2. Virkeområde
 
-Forskriften gjelder for den som har sitt arbeid på norsk skip eller flyttbare innretning, med unntak av den som barearbeider om bord mens fartøyet ligger i havnforetar inspeksjoner om bord.
+Forskriften gjelder for den som har sitt arbeid på norsk skip eller flyttbare innretning, med unntak av den som bare
 
-Forskriften gjelder ikke for den som er fylt 18 år og som har sitt arbeid på følgende fartøy, når fartøyet ikke er sammenhengende ute i sjøen i mer enn tre dager:fiskefartøy med største lengde opp til 15 meter eller med bruttotonnasje under 100 når fartøyet har en lengde (L) under 24 meterfiskefartøy med lengde (L) under 24 meter, som er sertifisert for Bankfiske I eller mindre fartsområderlasteskip med lengde (L) under 15 meter i innenriksfart.
+1. arbeider om bord mens fartøyet ligger i havn
+2. foretar inspeksjoner om bord.
+
+Forskriften gjelder ikke for den som er fylt 18 år og som har sitt arbeid på følgende fartøy, når fartøyet ikke er sammenhengende ute i sjøen i mer enn tre dager:
+
+1. fiskefartøy med største lengde opp til 15 meter eller med bruttotonnasje under 100 når fartøyet har en lengde (L) under 24 meter
+2. fiskefartøy med lengde (L) under 24 meter, som er sertifisert for Bankfiske I eller mindre fartsområder
+3. lasteskip med lengde (L) under 15 meter i innenriksfart.
 
 Forskriften gjelder for sjøfartsleger.
 
@@ -42,7 +49,13 @@ Forskriften gjelder for sjøfartsleger.
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*«Sjøfartslege»:* Lege som er godkjent til å utføre helseundersøkelse og treffe vedtak i samsvar med bestemmelsene i forskriften her.*«Helseerklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og funnet helsemessig skikket til å gjøre tjeneste om bord.*«Permanent udyktighetserklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord og det ikke er sannsynlig at personen vil oppfylle vilkårene innen to år.*«Foreløpig udyktighetserklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord, men det er sannsynlig at personen vil kunne oppfylle vilkårene innen to år.*«Midlertidig udyktighetserklæring»:* Erklæring fra sjøfartslege, uten forutgående helseundersøkelse, om at en person ikke anses helsemessig skikket til å gjøre tjeneste om bord.
+I denne forskrift menes med:
+
+1. *«Sjøfartslege»:* Lege som er godkjent til å utføre helseundersøkelse og treffe vedtak i samsvar med bestemmelsene i forskriften her.
+2. *«Helseerklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og funnet helsemessig skikket til å gjøre tjeneste om bord.
+3. *«Permanent udyktighetserklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord og det ikke er sannsynlig at personen vil oppfylle vilkårene innen to år.
+4. *«Foreløpig udyktighetserklæring»:* Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord, men det er sannsynlig at personen vil kunne oppfylle vilkårene innen to år.
+5. *«Midlertidig udyktighetserklæring»:* Erklæring fra sjøfartslege, uten forutgående helseundersøkelse, om at en person ikke anses helsemessig skikket til å gjøre tjeneste om bord.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -92,7 +105,11 @@ Den som har sitt arbeid om bord, som har grunn til å anta at helsekravene i for
 
 ### § 6a. Dispensasjon ved innflagging av fartøy
 
-Når et fartøy skal registreres i et norsk skipsregister i forbindelse med innflagging, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet gi et tidsavgrenset unntak fra kravet om gyldig helseerklæring etter denne forskriften dersom rederiet godtgjør at følgende vilkår er oppfylt:det ikke med rimelighet er mulig å fremlegge gyldige helseerklæringer etter denne forskriften for alle som har sitt arbeid om bord, før tidspunktet for registrering i et norsk skipsregister,de som har sitt arbeid om bord, har gyldige helseerklæringer som er utstedt av en flaggstat som har ratifisert den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk (STCW), og det fremgår av helseerklæringene at de er utstedt i samsvar med STCW,kopi av gyldige helseerklæringer etter denne forskriften vil bli sendt inn så snart som mulig og senest innen tre måneder etter at fartøyet er blitt registrert i et norsk skipsregister.
+Når et fartøy skal registreres i et norsk skipsregister i forbindelse med innflagging, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet gi et tidsavgrenset unntak fra kravet om gyldig helseerklæring etter denne forskriften dersom rederiet godtgjør at følgende vilkår er oppfylt:
+
+1. det ikke med rimelighet er mulig å fremlegge gyldige helseerklæringer etter denne forskriften for alle som har sitt arbeid om bord, før tidspunktet for registrering i et norsk skipsregister,
+2. de som har sitt arbeid om bord, har gyldige helseerklæringer som er utstedt av en flaggstat som har ratifisert den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk (STCW), og det fremgår av helseerklæringene at de er utstedt i samsvar med STCW,
+3. kopi av gyldige helseerklæringer etter denne forskriften vil bli sendt inn så snart som mulig og senest innen tre måneder etter at fartøyet er blitt registrert i et norsk skipsregister.
 
 > Tilføyd ved [forskrift 3 feb 2020 nr. 102](forskrift/2020-02-03-102).
 
@@ -102,7 +119,16 @@ Når et fartøy skal registreres i et norsk skipsregister i forbindelse med innf
 
 ### § 7. Krav for å bli godkjent som sjøfartslege
 
-Sjøfartsdirektoratet eller norsk utenriks fagstasjon kan gi godkjenning som sjøfartslege til lege med autorisasjon i henhold til nasjonale bestemmelser i det landet hvor vedkommende har sin praksis, og somhar gjennomført kurs i sjøfartsmedisin godkjent av Sjøfartsdirektoratetkan gjennomføre helseundersøkelser etter forskriften her i et slikt omfang at sjøfartsmedisinsk kompetanse opprettholdesdeltar på oppfriskningskurs i sjøfartsmedisin i løpet av godkjenningsperiodenhar tilgang til det utstyret som kreves for å gjennomføre helseundersøkelser etter forskriften herhar normalt fargesyn eller har organisert seg slik at fargesynet til den som har sitt arbeid om bord, kan bli forsvarlig undersøktbehersker norsk eller engelskhar nødvendig kjennskap til norsk regelverk, særlig forskriften her og forvaltningslovenhar et kvalitetssystem i henhold til en internasjonalt anerkjent standard.
+Sjøfartsdirektoratet eller norsk utenriks fagstasjon kan gi godkjenning som sjøfartslege til lege med autorisasjon i henhold til nasjonale bestemmelser i det landet hvor vedkommende har sin praksis, og som
+
+1. har gjennomført kurs i sjøfartsmedisin godkjent av Sjøfartsdirektoratet
+2. kan gjennomføre helseundersøkelser etter forskriften her i et slikt omfang at sjøfartsmedisinsk kompetanse opprettholdes
+3. deltar på oppfriskningskurs i sjøfartsmedisin i løpet av godkjenningsperioden
+4. har tilgang til det utstyret som kreves for å gjennomføre helseundersøkelser etter forskriften her
+5. har normalt fargesyn eller har organisert seg slik at fargesynet til den som har sitt arbeid om bord, kan bli forsvarlig undersøkt
+6. behersker norsk eller engelsk
+7. har nødvendig kjennskap til norsk regelverk, særlig forskriften her og forvaltningsloven
+8. har et kvalitetssystem i henhold til en internasjonalt anerkjent standard.
 
 Lege med praksis i Norge godkjennes som sjøfartslege av Sjøfartsdirektoratet.
 
@@ -134,7 +160,11 @@ Sjøfartslegen skal oppbevare egenerklæringen.
 
 ### § 9. Sjøfartslegens kompetanse og saksbehandling
 
-Sjøfartslege kan foreta helseundersøkelse og utstede:helseerklæringbegrenset helseerklæringpermanent, foreløpig eller midlertidig udyktighetserklæring.
+Sjøfartslege kan foreta helseundersøkelse og utstede:
+
+1. helseerklæring
+2. begrenset helseerklæring
+3. permanent, foreløpig eller midlertidig udyktighetserklæring.
 
 Sjøfartslegens vedtak etter første ledd er enkeltvedtak etter forvaltningsloven.
 
@@ -164,7 +194,12 @@ Sjøfartslegen skal signere helseerklæringen og stemple den med et stempel som 
 
 En helseerklæring kan begrenses til et bestemt fartsområde, et bestemt tidsrom eller en bestemt tjeneste om bord.
 
-I vurderingen av om det skal utstedes begrenset helseerklæring, skal sjøfartslegen blant annet ta hensyn tilhelsen til den som har sitt arbeid om bordarbeidsoppgavene som følger tjenesten til den som har sitt arbeid om bordom den som har sitt arbeid om bord, kan fungere effektivt i en nøds- eller ulykkessituasjonom den som har sitt arbeid om bord, utgjør en fare for helsen eller sikkerheten til andre som har sitt arbeid om bord.
+I vurderingen av om det skal utstedes begrenset helseerklæring, skal sjøfartslegen blant annet ta hensyn til
+
+1. helsen til den som har sitt arbeid om bord
+2. arbeidsoppgavene som følger tjenesten til den som har sitt arbeid om bord
+3. om den som har sitt arbeid om bord, kan fungere effektivt i en nøds- eller ulykkessituasjon
+4. om den som har sitt arbeid om bord, utgjør en fare for helsen eller sikkerheten til andre som har sitt arbeid om bord.
 
 Sjøfartslege som har tilgang til elektronisk registrering av helse- og udyktighetserklæringer, skal registrere den begrensede helseerklæringen i Sjøfartsdirektoratets database. Sjøfartslege som ikke har tilgang til elektronisk registrering, skal sende en kopi av den begrensede helseerklæringen til Sjøfartsdirektoratet.
 
@@ -214,7 +249,10 @@ Den som har sitt arbeid om bord, kan i henhold til forvaltningslovens regler kla
 
 ### § 16. Dispensasjon
 
-Fagnemnda for helsesaker kan gi den som har sitt arbeid om bord, dispensasjon fra ett eller flere av helsekravene i forskriften her når vedkommende søker skriftlig om unntak, og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard, ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig, jf. § 1 i forskriften her.Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard og at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften her.
+Fagnemnda for helsesaker kan gi den som har sitt arbeid om bord, dispensasjon fra ett eller flere av helsekravene i forskriften her når vedkommende søker skriftlig om unntak, og ett av følgende vilkår er oppfylt:
+
+1. Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard, ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig, jf. § 1 i forskriften her.
+2. Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard og at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften her.
 
 Søknad om dispensasjon fremsettes for den sjøfartslege som har truffet vedtak om utstedelse av begrenset helseerklæring eller udyktighetserklæring.
 
@@ -224,7 +262,10 @@ Sjøfartslegen skal foreta de undersøkelsene som søknaden gir grunn til. Sjøf
 
 ### § 17. Utsatt iverksetting av vedtak
 
-Ved klage eller søknad om dispensasjon kan sjøfartslegen tillate at den som har sitt arbeid om bord, fortsetter i samme eller mindre krevende tjeneste om bord inntil klagen eller søknaden er avgjort, hvisrederiet eller skipsføreren har gitt skriftlig samtykke til sjøfartslegensjøfartslegen finner at en utsatt iverksetting av vedtaket ikke vil være i strid med [§ 1](forskrift/2014-06-05-805/§1).
+Ved klage eller søknad om dispensasjon kan sjøfartslegen tillate at den som har sitt arbeid om bord, fortsetter i samme eller mindre krevende tjeneste om bord inntil klagen eller søknaden er avgjort, hvis
+
+1. rederiet eller skipsføreren har gitt skriftlig samtykke til sjøfartslegen
+2. sjøfartslegen finner at en utsatt iverksetting av vedtaket ikke vil være i strid med [§ 1](forskrift/2014-06-05-805/§1).
 
 En tillatelse etter første ledd kan gis for en periode som ikke skal overstige seks måneder og kan ikke forlenges gjennom nytt vedtak om utsatt iverksetting.
 
@@ -353,11 +394,27 @@ Dersom det er nødvendig, må det installeres hørselshjelpemidler som sikrer at
 
 ### Introduksjon
 
-De fysiske funksjonskravene for arbeid til sjøs varierer vidt og omfatter både rutineoppgaver og nødprosedyrer. Dette krever tilstrekkelig funksjonsdyktighet på følgende områder:styrkeutholdenhetfleksibilitetbalanse og koordinasjonstørrelse – forenlig med å kunne komme gjennom trange åpninger og arbeide i trange områderarbeidskapasitet – hjerte/lunge-reserve ogegnethet for spesielle oppgaver som f.eks. å kunne bære pusteapparat for røykdykkere.
+De fysiske funksjonskravene for arbeid til sjøs varierer vidt og omfatter både rutineoppgaver og nødprosedyrer. Dette krever tilstrekkelig funksjonsdyktighet på følgende områder:
+
+1. styrke
+2. utholdenhet
+3. fleksibilitet
+4. balanse og koordinasjon
+5. størrelse – forenlig med å kunne komme gjennom trange åpninger og arbeide i trange områder
+6. arbeidskapasitet – hjerte/lunge-reserve og
+7. egnethet for spesielle oppgaver som f.eks. å kunne bære pusteapparat for røykdykkere.
 
 ### Medisinske tilstander og fysisk funksjonsevne
 
-Noen medisinske tilstander kan medføre reduksjon av fysisk funksjonsevne på flere måter, som f.eks.:høy eller lav kroppsvekt/fedmealvorlig redusert muskelmassemuskel- og skjelettsykdommer, smerte eller bevegelsesinnskrenkningfølgetilstand etter skade eller kirurgilungesykdommerhjerte- og karsykdommernevrologiske sykdommer.
+Noen medisinske tilstander kan medføre reduksjon av fysisk funksjonsevne på flere måter, som f.eks.:
+
+1. høy eller lav kroppsvekt/fedme
+2. alvorlig redusert muskelmasse
+3. muskel- og skjelettsykdommer, smerte eller bevegelsesinnskrenkning
+4. følgetilstand etter skade eller kirurgi
+5. lungesykdommer
+6. hjerte- og karsykdommer
+7. nevrologiske sykdommer.
 
 ### Testing av fysisk funksjonsevne
 
@@ -367,21 +424,47 @@ Hva som skal testes avhenger av grunner for å gjøre det.
 
 Tabell B-I/9 i STCW-konvensjonen gir anbefalinger om hva som skal testes for de ulike funksjonene.
 
-Nedenstående anbefaling viser hvordan man kan vurdere om kravene er oppfylt.Observert evne til å utføre rutine- og nødprosedyrer sikkert og effektivt.Oppgaver som ligner på rutine- og nødprosedyrene.Vurdering av kardiorespiratorisk reserve, inkludert spirometri og ergometriske tester. Disse vil gi et mål for maksimum arbeidskapasitet og indirekte fortelle noe om arbeidstakers evne til å utføre fysisk krevende arbeid. En stor reserve vil også indikere at hjerte- og lungefunksjonen med stor sannsynlighet holder i hele gyldighetsperioden for helseerklæringen. Rettesnoren er måling av maksimalt oksygenopptak (VO2 maks), men dette krever avansert utstyr. Step-tester som Chester eller Harvard er enklere alternativer og kan brukes for screening. Hvis step-testen er unormal kan man henvise til VO2 maks eller tredemølletest.Uformell testing av kardiorespiratorisk reserve, f.eks. ved å løpe trapper (3–6 etasjer) og observere graden av slitenhet, tungpust o.l. samt pulsfrekvens når man stopper. Dette er ikke reproduserbart av andre enn samme lege ved neste undersøkelse.Klinisk vurdering av styrke, bevegelsesevne, koordinering osv.
+Nedenstående anbefaling viser hvordan man kan vurdere om kravene er oppfylt.
 
-Tilleggsinformasjon kan stamme fra arbeidstakers egen beskrivelse av aktiviteter som arbeidstaker har gjort nylig eller gjør regelmessig, så somfysisk krevende arbeidsoppgaver på skipet (bære tunge ting, håndtere fortøyninger etc.)gjennomføring av et fysisk krevende kurs, så som røykdykkerkurs, helikopterrømningskurs, sikkerhetskurs etter STCW-konvensjonen eller lignendebekreftet individuelt treningsprogram.
+- Observert evne til å utføre rutine- og nødprosedyrer sikkert og effektivt.
+- Oppgaver som ligner på rutine- og nødprosedyrene.
+- Vurdering av kardiorespiratorisk reserve, inkludert spirometri og ergometriske tester. Disse vil gi et mål for maksimum arbeidskapasitet og indirekte fortelle noe om arbeidstakers evne til å utføre fysisk krevende arbeid. En stor reserve vil også indikere at hjerte- og lungefunksjonen med stor sannsynlighet holder i hele gyldighetsperioden for helseerklæringen. Rettesnoren er måling av maksimalt oksygenopptak (VO2 maks), men dette krever avansert utstyr. Step-tester som Chester eller Harvard er enklere alternativer og kan brukes for screening. Hvis step-testen er unormal kan man henvise til VO2 maks eller tredemølletest.
+- Uformell testing av kardiorespiratorisk reserve, f.eks. ved å løpe trapper (3–6 etasjer) og observere graden av slitenhet, tungpust o.l. samt pulsfrekvens når man stopper. Dette er ikke reproduserbart av andre enn samme lege ved neste undersøkelse.
+- Klinisk vurdering av styrke, bevegelsesevne, koordinering osv.
+
+Tilleggsinformasjon kan stamme fra arbeidstakers egen beskrivelse av aktiviteter som arbeidstaker har gjort nylig eller gjør regelmessig, så som
+
+- fysisk krevende arbeidsoppgaver på skipet (bære tunge ting, håndtere fortøyninger etc.)
+- gjennomføring av et fysisk krevende kurs, så som røykdykkerkurs, helikopterrømningskurs, sikkerhetskurs etter STCW-konvensjonen eller lignende
+- bekreftet individuelt treningsprogram.
 
 ### Tolking av resultater
 
 - Er det evidens for at arbeidstakeren ikke er i stand til å utføre sine arbeidsoppgaver i rutine- og nødssituasjoner sikkert og effektivt?
 - Er det observert noen begrensning i styrke, bevegelighet, utholdenhet eller koordinasjon?
-- Hva var resultatet av arbeidskapasitetstestingen?Testen begrenset pga. kortpust, muskel/skjelett-smerte eller annen smerte, eller utmattelse. Årsaker må undersøkes og tas i betrakting når man vurderer fysisk funksjonsevne.Ikke i stand til å gjennomføre testen.Gjennomført test, men sliten og med dårlig restitusjon etter avsluttet test.Gjennomført test til god eller gjennomsnittlig standard.
+- Hva var resultatet av arbeidskapasitetstestingen?
+
+  - Testen begrenset pga. kortpust, muskel/skjelett-smerte eller annen smerte, eller utmattelse. Årsaker må undersøkes og tas i betrakting når man vurderer fysisk funksjonsevne.
+  - Ikke i stand til å gjennomføre testen.
+  - Gjennomført test, men sliten og med dårlig restitusjon etter avsluttet test.
+  - Gjennomført test til god eller gjennomsnittlig standard.
 
 Diskuter subjektive opplevelser under testen med arbeidstaker og spør også hvordan det fungerer om bord ved vanlige arbeidsoppgaver og øvelser i nødprosedyrer (f.eks. livbåtøvelser). Innhent komparentopplysninger ved usikkerhet om konklusjonen.
 
 ### Beslutningstagning
 
-Informasjon fra flere kilder kan være nødvendig og mange av disse er ikke tilgjengelige i løpet av den medisinske undersøkelsen.Er det indikasjon for at fysisk funksjonsevne er redusert? (stivhet, fedme, sykehistorie med hjertesykdom osv.)Hvis NEI – Ingen test nødvendig.Hvis JA – Vurder hvilke tester eller observasjoner som må utføres for å kunne vurdere arbeidstakers funksjonsevne i relasjon til arbeidsoppgavene.Indikerer testresultatene at funksjonsevnen er redusert?NEI – under forutsetning av at det ikke foreligger en underliggende sykdom som påvirker? Gjennomføringen av testen. → Ubegrenset helseerklæringJA – men tjenestepliktene kan modifiseres slik at arbeidstakeren kan arbeide trygt og effektivt uten å legge for store byrder på andre. → Begrenset helseerklæringJA – men årsaken til begrensningen kan bli behandlet. Ikke forenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgavene. → Foreløpig udyktighetserklæringJA – og årsaken til begrensningen kan ikke behandles. Ikke forenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgavene. → Permanent udyktighetserklæring.
+Informasjon fra flere kilder kan være nødvendig og mange av disse er ikke tilgjengelige i løpet av den medisinske undersøkelsen.
+
+- Er det indikasjon for at fysisk funksjonsevne er redusert? (stivhet, fedme, sykehistorie med hjertesykdom osv.)
+
+  - Hvis NEI – Ingen test nødvendig.
+  - Hvis JA – Vurder hvilke tester eller observasjoner som må utføres for å kunne vurdere arbeidstakers funksjonsevne i relasjon til arbeidsoppgavene.
+- Indikerer testresultatene at funksjonsevnen er redusert?
+
+  - NEI – under forutsetning av at det ikke foreligger en underliggende sykdom som påvirker? Gjennomføringen av testen. → Ubegrenset helseerklæring
+  - JA – men tjenestepliktene kan modifiseres slik at arbeidstakeren kan arbeide trygt og effektivt uten å legge for store byrder på andre. → Begrenset helseerklæring
+  - JA – men årsaken til begrensningen kan bli behandlet. Ikke forenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgavene. → Foreløpig udyktighetserklæring
+  - JA – og årsaken til begrensningen kan ikke behandles. Ikke forenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgavene. → Permanent udyktighetserklæring.
 
 ### D – Bruk av medikamenter
 
@@ -401,7 +484,11 @@ Hvis medikasjonen er klinisk essensiell for effektiv kontroll av sykdommen, f.ek
 
 Sjøfartslegen må sørge for at arbeidstaker har skriftlig dokumentasjon for medikamentene som er i bruk. Denne bør være i en form som kan vises til inspektører som spør om bruk av medikamenter om bord. Dette er spesielt viktig for medikamenter som har streng forskrivningsregulering (reseptgruppe A og B i Norge) og medikamenter som kan misbrukes.
 
-Alle arbeidstakere som kan godkjennes helsemessig, og som går på fast medikasjon, skal utstyres med erklæring fra sjøfartslegen med:spesifikasjon av medikamentets navn,dosering ogen bekreftelse på at det er gitt tillatelse til å bruke medikamentene under tjenestegjøring om bord på skip.
+Alle arbeidstakere som kan godkjennes helsemessig, og som går på fast medikasjon, skal utstyres med erklæring fra sjøfartslegen med:
+
+1. spesifikasjon av medikamentets navn,
+2. dosering og
+3. en bekreftelse på at det er gitt tillatelse til å bruke medikamentene under tjenestegjøring om bord på skip.
 
 ### Korttidsbehandling med medikamenter
 
@@ -431,7 +518,24 @@ En rekke forskjellige medikamenter, så som antidiabetika, antihypertensiva og s
 
 ### Utstedelse av helseerklæring
 
-Sjøfartslegen må basere sin avgjørelse på pålitelig informasjon om medikamentbruk, medikamentenes bivirkningsforekomst, den tilgrunnliggende tilstand og dens behandlingsbehov, og gjøre sin vurdering av medikamentbruken etter en personlig undersøkelse av arbeidstaker.UDYKTIGHETDet er uforenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgaver i rutine- og nødssituasjoner hvis:det er risiko for livstruende konsekvenser hvis man ikke får medisinen som bestemtdet er risiko for kognitiv påvirkning når medikamentet tas som foreskrevetdet er risiko for alvorlige bivirkninger som kan være farlige til sjøs, f.eks. blødningsrisiko ved bruk av antikoagulantia.BEGRENSET HELSEERKLÆRINGDet er en risiko for bivirkninger, men disse utvikles over tid, og arbeid i kystfart kan være akseptabelt.TIDSBEGRENSET HELSEERKLÆRINGDet er behov for overvåkning av effekt av behandling eller bivirkninger hyppigere enn varigheten av en helseerklæring.UBEGRENSET HELSEERKLÆRINGIngen bivirkninger, ingen krav om hyppige kontroller og ingen risiko for livstruende konsekvenser dersom medikamentet ikke inntas.
+Sjøfartslegen må basere sin avgjørelse på pålitelig informasjon om medikamentbruk, medikamentenes bivirkningsforekomst, den tilgrunnliggende tilstand og dens behandlingsbehov, og gjøre sin vurdering av medikamentbruken etter en personlig undersøkelse av arbeidstaker.
+
+- UDYKTIGHET
+
+  - Det er uforenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgaver i rutine- og nødssituasjoner hvis:
+
+    - det er risiko for livstruende konsekvenser hvis man ikke får medisinen som bestemt
+    - det er risiko for kognitiv påvirkning når medikamentet tas som foreskrevet
+    - det er risiko for alvorlige bivirkninger som kan være farlige til sjøs, f.eks. blødningsrisiko ved bruk av antikoagulantia.
+- BEGRENSET HELSEERKLÆRING
+
+  - Det er en risiko for bivirkninger, men disse utvikles over tid, og arbeid i kystfart kan være akseptabelt.
+- TIDSBEGRENSET HELSEERKLÆRING
+
+  - Det er behov for overvåkning av effekt av behandling eller bivirkninger hyppigere enn varigheten av en helseerklæring.
+- UBEGRENSET HELSEERKLÆRING
+
+  - Ingen bivirkninger, ingen krav om hyppige kontroller og ingen risiko for livstruende konsekvenser dersom medikamentet ikke inntas.
 
 ### E – Helsekrav for vanlige medisinske tilstander
 

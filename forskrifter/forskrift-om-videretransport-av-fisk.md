@@ -15,7 +15,7 @@ xml_hash: "b7cc04b732ef6f8b3488708e002429d3e2a821388c6a5738f37508e0ebf77ec9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder videretransport av fisk fanget av og brakt i land fra fartøy som fører flagg tilhørende en medlemsstat i Den europeiske union fra Norge til Den europeiske union eller til Storbritannia, eller fra fartøy som fører flagg tilhørende Storbritannia fra Norge til Storbritannia eller Den europeiske union. Med videretransport forstås i denne forskrift at:fisken utføres fra Norge uten at forbudet mot utførsel i [forskrift 20. desember 2013 nr. 1665 om førstehandsomsetning av viltlevande marine ressursar](forskrift/2013-12-20-1665) får anvendelse, jf. forskriftens [§ 2 fjerde ledd](forskrift/2013-12-20-1665/§2/ledd/4), ogfisken ikke har vært underlagt prosedyren overgang til fri disponering i Norge, og utføres i samsvar med [lov 11. mars 2022 nr. 9 om inn- og utførsel av varer (vareførselsloven)](lov/2022-03-11-9) og bestemmelser gitt i medhold av loven.
+Forskriften gjelder videretransport av fisk fanget av og brakt i land fra fartøy som fører flagg tilhørende en medlemsstat i Den europeiske union fra Norge til Den europeiske union eller til Storbritannia, eller fra fartøy som fører flagg tilhørende Storbritannia fra Norge til Storbritannia eller Den europeiske union. Med videretransport forstås i denne forskrift at:
+
+1. fisken utføres fra Norge uten at forbudet mot utførsel i [forskrift 20. desember 2013 nr. 1665 om førstehandsomsetning av viltlevande marine ressursar](forskrift/2013-12-20-1665) får anvendelse, jf. forskriftens [§ 2 fjerde ledd](forskrift/2013-12-20-1665/§2/ledd/4), og
+2. fisken ikke har vært underlagt prosedyren overgang til fri disponering i Norge, og utføres i samsvar med [lov 11. mars 2022 nr. 9 om inn- og utførsel av varer (vareførselsloven)](lov/2022-03-11-9) og bestemmelser gitt i medhold av loven.
 
 Denne forskrift gjelder til og med 30. april 2030 for fartøy som fører flagg tilhørende en medlemsstat i Den europeiske union.
 
@@ -52,7 +55,12 @@ Fiskeridirektoratet kan treffe vedtak om at godkjenning som agent bortfaller der
 
 ## § 5. Rapportering og plikter for godkjent agent
 
-Agent godkjent i medhold av [§ 3](forskrift/2006-04-21-433/§3) skal:Påse at fisk som mottas med formål om videretransport leveres i henhold til de tidsfrister som er satt i [§ 2](forskrift/2006-04-21-433/§2) for forhåndsmelding til Fiskeridirektoratet.Sikre at fisk som mottas med formål om videretransport oppbevares atskilt fra øvrig fisk.Overføre landingsseddel, som utstedes etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel](forskrift/2014-05-06-607), elektronisk, i samsvar med forskriftens bestemmelser.Gi melding når et parti fisk tas ut fra anlegget og videretransport iverksettes på den måten Fiskeridirektoratet bestemmer.
+Agent godkjent i medhold av [§ 3](forskrift/2006-04-21-433/§3) skal:
+
+- Påse at fisk som mottas med formål om videretransport leveres i henhold til de tidsfrister som er satt i [§ 2](forskrift/2006-04-21-433/§2) for forhåndsmelding til Fiskeridirektoratet.
+- Sikre at fisk som mottas med formål om videretransport oppbevares atskilt fra øvrig fisk.
+- Overføre landingsseddel, som utstedes etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel](forskrift/2014-05-06-607), elektronisk, i samsvar med forskriftens bestemmelser.
+- Gi melding når et parti fisk tas ut fra anlegget og videretransport iverksettes på den måten Fiskeridirektoratet bestemmer.
 
 > Endret ved [forskrifter 29 juni 2016 nr. 846](forskrift/2016-06-29-846) (i kraft 1 sep 2016), [3 sep 2023 nr. 1399](forskrift/2023-09-03-1399).
 

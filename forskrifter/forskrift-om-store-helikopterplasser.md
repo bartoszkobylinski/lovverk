@@ -15,7 +15,7 @@ xml_hash: "44a8796948282df3b4acf7f818e8de7aab20cb04241e8498602482f1754404a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -190,7 +190,12 @@ I denne forskrift menes med:
 
 (1) En lufttransittrute skal tillate taksing med et helikopter i luften i en høyde mindre enn 30 meter over bakken og med en bakkefart som kan overstige 15 knop.
 
-(2) Bredden av en lufttransittrute skal ikke være mindre enn:7 ganger RD-verdien når den skal brukes i dagslys10 ganger RD-verdien når den skal brukes i mørkefor det største helikopter som skal tillates å bruke lufttransittruten.
+(2) Bredden av en lufttransittrute skal ikke være mindre enn:
+
+1. 7 ganger RD-verdien når den skal brukes i dagslys
+2. 10 ganger RD-verdien når den skal brukes i mørke
+
+for det største helikopter som skal tillates å bruke lufttransittruten.
 
 (3) Senterlinjen for en lufttransittrute skal ikke endre retning mer enn 120 grader i en enkelt sving, og svingradius skal ikke være mindre enn 270 meter.
 
@@ -234,7 +239,11 @@ Oppstillingsplattform for helikopter skal utformes i samsvar med kravene til opp
 
 (1) For hver innflygingsretning til FATO skal det fastsettes en innflygingsflate. For hver innflygingsflate skal det dessuten være en motstående utflygingsflate.
 
-(2) En innflygingsflate skal begrenses av:En innerkant som er horisontal og like lang som bredden av FATO pluss sikkerhetsområdet, og plassert vinkelrett på flatens senterlinje og slik at den tangerer sikkerhetsområdets ytterkant.To sidekanter som divergerer med, eventuelt er parallelle med, flatens senterlinje.En ytterkant parallell med innerkanten.
+(2) En innflygingsflate skal begrenses av:
+
+1. En innerkant som er horisontal og like lang som bredden av FATO pluss sikkerhetsområdet, og plassert vinkelrett på flatens senterlinje og slik at den tangerer sikkerhetsområdets ytterkant.
+2. To sidekanter som divergerer med, eventuelt er parallelle med, flatens senterlinje.
+3. En ytterkant parallell med innerkanten.
 
 ### § 20. Innflygingsflate i sving
 
@@ -260,7 +269,11 @@ Oppstillingsplattform for helikopter skal utformes i samsvar med kravene til opp
 
 (1) For hver utflygingsretning fra et FATO skal det fastsettes en utflygingsflate, og for hver innflygingsretning til et FATO skal det fastsettes en motstående utflygingsflate. Vinkelen mellom senterlinjene for en innflygingsflate og motstående utflygingsflate skal være 180°, dog kan den for et sirkelformet FATO, som bare skal godkjennes for VFR-forhold, være ned til 150.
 
-(2) En utflygingsflate skal begrenses av:En innerkant som er horisontal og like lang som FATO pluss sikkerhetsområde, og som er plassert vinkelrett på utflygingsflatens senterlinje og ved enden av sikkerhetsområdet eller eventuelt hinderfritt stigeområde.To sidekanter som divergerer med nedenstående verdier, eller er parallelle, i forhold til utflygingsflatens senterlinje.En ytterkant parallell med innerkanten.
+(2) En utflygingsflate skal begrenses av:
+
+1. En innerkant som er horisontal og like lang som FATO pluss sikkerhetsområde, og som er plassert vinkelrett på utflygingsflatens senterlinje og ved enden av sikkerhetsområdet eller eventuelt hinderfritt stigeområde.
+2. To sidekanter som divergerer med nedenstående verdier, eller er parallelle, i forhold til utflygingsflatens senterlinje.
+3. En ytterkant parallell med innerkanten.
 
 (3) En utflygingsflates innerkant skal ligge på samme nivå som senterlinjen på sikkerhetsområdet har der utflygingsflaten begynner. Dersom det er hinderfritt stigeområde, skal innerkanten ligge på samme nivå som det senterlinjen til stigeområdet har der utflygingsflaten begynner.
 
@@ -298,7 +311,11 @@ Oppstillingsplattform for helikopter skal utformes i samsvar med kravene til opp
 
 (1) For et FATO skal det fastsettes det antall sideflater som inn- og utflygingsflatene tilsier.
 
-(2) En sideflate skal begrenses av:En innerkant som faller sammen med sikkerhetsområdets ytterkant.To sidekanter. En som faller sammen med sidekanten til første seksjon av innflygingsflaten, og en som faller sammen med sidekanten til første seksjon av utflygingsflaten.En ytterkant. For et FATO som skal godkjennes for IFR-forhold, skal sideflaten begrenses av en ytterkant som dannes der sideflaten skjærer gjennom horisontalflaten. Sideflaten for et FATO som bare skal godkjennes for VFR-forhold, skal ha en utstrekning slik at den går klar alle hindringer i aktuelle retning.
+(2) En sideflate skal begrenses av:
+
+1. En innerkant som faller sammen med sikkerhetsområdets ytterkant.
+2. To sidekanter. En som faller sammen med sidekanten til første seksjon av innflygingsflaten, og en som faller sammen med sidekanten til første seksjon av utflygingsflaten.
+3. En ytterkant. For et FATO som skal godkjennes for IFR-forhold, skal sideflaten begrenses av en ytterkant som dannes der sideflaten skjærer gjennom horisontalflaten. Sideflaten for et FATO som bare skal godkjennes for VFR-forhold, skal ha en utstrekning slik at den går klar alle hindringer i aktuelle retning.
 
 (3) En sideflate skal ha en positiv helning i forhold til horisontalplanet på 50% for et FATO for VFR-forhold, og en helning på 20% for et FATO for IFR-forhold.
 
@@ -306,7 +323,10 @@ Oppstillingsplattform for helikopter skal utformes i samsvar med kravene til opp
 
 (1) For et FATO som skal godkjennes for IFR-forhold, skal det fastsettes en konisk flate.
 
-(2) En konisk flate skal begrenses av:En innerkant som faller sammen med horisontalflatens ytterkant.En ytterkant som dannes der den koniske flaten når en høyde på 55 m over horisontalflaten.
+(2) En konisk flate skal begrenses av:
+
+1. En innerkant som faller sammen med horisontalflatens ytterkant.
+2. En ytterkant som dannes der den koniske flaten når en høyde på 55 m over horisontalflaten.
 
 (3) En konisk flate skal ha en positiv helning i forhold til horisontalplanet på 5%.
 
@@ -399,7 +419,9 @@ Innenfor det området som omfattes av en innflygingsflate, en utflygingsflate el
 
 (1) FATO med lengde over 100 m skal merkes med banenummer og bokstaven «H».
 
-(2) Banenummer skal bestå av to tall, som skal angi nærmeste hele 10° for FATOs senterlinjes magnetiske kompassretning i innflygingsretningen. For kompassretninger mindre enn 95° skal første tall være 0.Dersom banenummeret i følge ovenstående blir 02/20 eller 13/31, skal de erstattes av den nærmeste kombinasjonen; 01/19 eller 03/21, respektive 12/30 eller 14/32.
+(2) Banenummer skal bestå av to tall, som skal angi nærmeste hele 10° for FATOs senterlinjes magnetiske kompassretning i innflygingsretningen. For kompassretninger mindre enn 95° skal første tall være 0.
+
+Dersom banenummeret i følge ovenstående blir 02/20 eller 13/31, skal de erstattes av den nærmeste kombinasjonen; 01/19 eller 03/21, respektive 12/30 eller 14/32.
 
 (3) Banenummer og Bokstaven «H» skal plasseres ved endene av FATO som vist på vedlegg 2 fig. 1, og utformingen av tallene skal være som angitt i forskrift om utforming av store flyplasser (BSL E 3-2).
 
@@ -567,7 +589,13 @@ Ytterkanten av TLOF skal merkes dersom det av hensyn til sikkerheten er nødvend
 
 (2) Vindpølsen eller vindpølsene skal plasseres godt synlig fra helikopter i luften og på ferdselsområdet, og slik at vindpølsene blir minst mulig påvirket av forstyrrende luftstrømmer.
 
-(3) Vindpølse skal tilfredsstille følgende krav:den skal gi presis indikasjon på vindretning og grov indikasjon på vindstyrke,den skal være traktformet og åpen i begge ender,lengden skal være minst 2,4 meter,den største åpningen skal ikke være mindre enn 0,6 m, og den minste åpningen ikke mindre enn 0,3 m,den skal være oransje eller oransje og hvit. Dersom oransje og hvit velges, skal fargene være i form av 5 sirkulære bånd der første og siste bånd er oransje.
+(3) Vindpølse skal tilfredsstille følgende krav:
+
+1. den skal gi presis indikasjon på vindretning og grov indikasjon på vindstyrke,
+2. den skal være traktformet og åpen i begge ender,
+3. lengden skal være minst 2,4 meter,
+4. den største åpningen skal ikke være mindre enn 0,6 m, og den minste åpningen ikke mindre enn 0,3 m,
+5. den skal være oransje eller oransje og hvit. Dersom oransje og hvit velges, skal fargene være i form av 5 sirkulære bånd der første og siste bånd er oransje.
 
 (4) Dersom vindpølsen gjennomtrenger en hinderflate skal den utformes slik at skader på luftfartøy reduseres i størst mulig grad.
 
@@ -607,9 +635,24 @@ Dersom helikopterplassens TLOF ikke er sammenfallende med FATO, skal TLOFs høyd
 
 ### § 62. Utforming
 
-(1) Følgende data skal måles og beskrives som relevant for helikopterplassen:om helikopterplassen er plassert på land, vann, bygning eller annen konstruksjon,rettvisende retning til inn- og utflygingsflatenes senterlinjer i grader og hundredelsgrader,TLOF diameter, alternativt lengde og bredde i hele meter, samt største helning i hele og tiendedels prosent, type overflate, bæreevne i hele tonn,FATO lengde og bredde i hele meter, eventuelt banenummer, største tverr- og lengdehelning i hele og tiendedels prosent og type overflate, i tilfeller hvor FATO ikke er sammenfallende med og like stort som TLOF,sikkerhetsområdets diameter eller lengde og bredde i hele meter, og type overflate,benevning, bredde i hele meter og type overflate for taksebaner, lufttaksebaner og lufttransittruter,type overflate, betegnelse og RD-verdi for hver enkelt oppstillingsplass,lengde i hele meter og senterlinjens lengdeprofil for hinderfritt stigeområde,type og plassering av merking og lysanlegg, angitt på tegning i passende målestokk, ogavstand i hele meter fra ytterkant av FATO og/eller TLOF til eventuelle antenner for instrumentlandingssystemer.
+(1) Følgende data skal måles og beskrives som relevant for helikopterplassen:
 
-(2) For helikopterplass med trafikk under IFR-forhold og/eller luftrutetrafikk skal posisjonen for følgende elementer fastsettes i grader, minutter, sekunder og hundredels sekunder:det geometriske sentrum for TLOF og/eller hver av tersklene til FATO,hensiktsmessige punkter på senterlinjen til taksebanene, lufttaksebanene og lufttransittrutene, oghver enkelt oppstillingsplass.
+1. om helikopterplassen er plassert på land, vann, bygning eller annen konstruksjon,
+2. rettvisende retning til inn- og utflygingsflatenes senterlinjer i grader og hundredelsgrader,
+3. TLOF diameter, alternativt lengde og bredde i hele meter, samt største helning i hele og tiendedels prosent, type overflate, bæreevne i hele tonn,
+4. FATO lengde og bredde i hele meter, eventuelt banenummer, største tverr- og lengdehelning i hele og tiendedels prosent og type overflate, i tilfeller hvor FATO ikke er sammenfallende med og like stort som TLOF,
+5. sikkerhetsområdets diameter eller lengde og bredde i hele meter, og type overflate,
+6. benevning, bredde i hele meter og type overflate for taksebaner, lufttaksebaner og lufttransittruter,
+7. type overflate, betegnelse og RD-verdi for hver enkelt oppstillingsplass,
+8. lengde i hele meter og senterlinjens lengdeprofil for hinderfritt stigeområde,
+9. type og plassering av merking og lysanlegg, angitt på tegning i passende målestokk, og
+10. avstand i hele meter fra ytterkant av FATO og/eller TLOF til eventuelle antenner for instrumentlandingssystemer.
+
+(2) For helikopterplass med trafikk under IFR-forhold og/eller luftrutetrafikk skal posisjonen for følgende elementer fastsettes i grader, minutter, sekunder og hundredels sekunder:
+
+1. det geometriske sentrum for TLOF og/eller hver av tersklene til FATO,
+2. hensiktsmessige punkter på senterlinjen til taksebanene, lufttaksebanene og lufttransittrutene, og
+3. hver enkelt oppstillingsplass.
 
 ### § 63. Hinder
 
@@ -621,11 +664,20 @@ Dersom helikopterplassens TLOF ikke er sammenfallende med FATO, skal TLOFs høyd
 
 ### § 64. Banelengder
 
-Følgende banelengder skal angis i hele meter for hver FATO retning:tilgjengelig startdistanse (TODAH),tilgjengelig distanse for avbrutt start (RTODAH), ogtilgjengelig landingsdistanse (LDAH).
+Følgende banelengder skal angis i hele meter for hver FATO retning:
+
+1. tilgjengelig startdistanse (TODAH),
+2. tilgjengelig distanse for avbrutt start (RTODAH), og
+3. tilgjengelig landingsdistanse (LDAH).
 
 ### § 65. Restriksjoner og merknader
 
-Helikopterplassens innehaver skal fremskaffe følgende data:helikopterplassens bruksområde (jf. godkjenningsvilkårene),alle avvik fra godkjenningsvilkårene, herunder fra denne forskrift og andre aktuelle forskrifter,alle dispensasjoner og kompenserende tiltak i medhold av [§ 66](forskrift/2005-04-29-418/§66) og [§ 67](forskrift/2005-04-29-418/§67), ogandre opplysninger av flysikkerhetsmessig betydning.
+Helikopterplassens innehaver skal fremskaffe følgende data:
+
+1. helikopterplassens bruksområde (jf. godkjenningsvilkårene),
+2. alle avvik fra godkjenningsvilkårene, herunder fra denne forskrift og andre aktuelle forskrifter,
+3. alle dispensasjoner og kompenserende tiltak i medhold av [§ 66](forskrift/2005-04-29-418/§66) og [§ 67](forskrift/2005-04-29-418/§67), og
+4. andre opplysninger av flysikkerhetsmessig betydning.
 
 ## Kapittel 11. Avsluttende bestemmelser
 
@@ -645,7 +697,12 @@ Helikopterplassens innehaver skal fremskaffe følgende data:helikopterplassens b
 
 (3) Avgjørelse om fastsettelse av kompenserende tiltak og det nærmere innhold av slike tiltak treffes i alle tilfelle av Luftfartstilsynet, etter en konkret vurdering for den enkelte helikopterplass. Helikopterplassens innehaver skal gis anledning til å utarbeide forslag til kompenserende tiltak, som skal vurderes av Luftfartstilsynet før avgjørelse treffes.
 
-(4) Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:operasjonelle begrensninger ved helikopterplassen, f.eks. slik at spesielle fartøytyper ikke skal kunne benytte helikopterplassen,spesielle inn- og utflygningsprosedyrer,særlige krav til operatører og fartøysjefer, ellerfor hinder, spesielle krav til hinderets høyde, masse og brekkbarhet.
+(4) Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:
+
+1. operasjonelle begrensninger ved helikopterplassen, f.eks. slik at spesielle fartøytyper ikke skal kunne benytte helikopterplassen,
+2. spesielle inn- og utflygningsprosedyrer,
+3. særlige krav til operatører og fartøysjefer, eller
+4. for hinder, spesielle krav til hinderets høyde, masse og brekkbarhet.
 
 ### § 68. Ikrafttredelse
 

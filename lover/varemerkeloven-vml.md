@@ -15,7 +15,7 @@ xml_hash: "991acb5d564772f19ba6b136fd14dc0babf5571a1a3e7e9e785fdef8925de1b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32015L2436"
@@ -53,11 +53,21 @@ Varemerkerett oppnås uten registrering når merket er innarbeidet. Et varemerke
 
 ### § 4. Varemerkerettens innhold
 
-Varemerkeretten gir en enerett som innebærer at ingen uten samtykke fra innehaveren av varemerkeretten (merkehaveren) i forbindelse med varer eller tjenester i næringsvirksomhet kan bruke:tegn som er identisk med varemerket for slike varer eller tjenester som varemerket er beskyttet fortegn som er identisk med eller ligner varemerket for varer eller tjenester av samme eller lignende slag, såfremt det er risiko for forveksling, for eksempel ved at bruken av tegnet kan gi inntrykk av at det finnes en forbindelse mellom tegnet og varemerket
+Varemerkeretten gir en enerett som innebærer at ingen uten samtykke fra innehaveren av varemerkeretten (merkehaveren) i forbindelse med varer eller tjenester i næringsvirksomhet kan bruke:
+
+1. tegn som er identisk med varemerket for slike varer eller tjenester som varemerket er beskyttet for
+2. tegn som er identisk med eller ligner varemerket for varer eller tjenester av samme eller lignende slag, såfremt det er risiko for forveksling, for eksempel ved at bruken av tegnet kan gi inntrykk av at det finnes en forbindelse mellom tegnet og varemerket
 
 For et varemerke som er velkjent her i riket, innebærer varemerkeretten at ingen uten samtykke fra innehaveren i forbindelse med varer eller tjenester i næringsvirksomhet kan bruke tegn som er identisk med eller ligner varemerket for varer eller tjenester av samme eller annet slag, hvis bruken uten rimelig grunn ville medføre en urimelig utnyttelse av eller skade på det velkjente varemerkets særpreg eller anseelse (goodwill).
 
-Som bruk anses blant annet:å sette merket på varer eller deres emballasjeå tilby varer for salg eller på annen måte bringe dem på markedet, lagre eller levere dem under tegnet, eller å tilby eller levere tjenester under tegnetå innføre eller utføre varer med merket påå bruke tegnet på forretningspapirer og i reklameå bruke tegnet som foretaksnavn eller forretningskjennetegn, eller som del av et foretaksnavn eller forretningskjennetegnå bruke tegnet i sammenlignende reklame i strid med forskrift etter [markedsføringsloven § 26](lov/2009-01-09-2/§26) annet ledd.
+Som bruk anses blant annet:
+
+1. å sette merket på varer eller deres emballasje
+2. å tilby varer for salg eller på annen måte bringe dem på markedet, lagre eller levere dem under tegnet, eller å tilby eller levere tjenester under tegnet
+3. å innføre eller utføre varer med merket på
+4. å bruke tegnet på forretningspapirer og i reklame
+5. å bruke tegnet som foretaksnavn eller forretningskjennetegn, eller som del av et foretaksnavn eller forretningskjennetegn
+6. å bruke tegnet i sammenlignende reklame i strid med forskrift etter [markedsføringsloven § 26](lov/2009-01-09-2/§26) annet ledd.
 
 Også muntlig bruk av tegnet anses som bruk.
 
@@ -67,7 +77,10 @@ Også muntlig bruk av tegnet anses som bruk.
 
 Varemerkeretten innebærer at ingen uten samtykke fra merkehaveren i næringsvirksomhet kan innføre varer til norsk tollområde, selv om disse ikke går over i fri disponering her i landet, hvis varene, herunder emballasjen, er påført et varemerke som er identisk med eller i vesentlige elementer ikke kan skilles fra et varemerke som er registrert her i landet for varer av samme slag. Dette gjelder likevel ikke om eieren eller mottakeren av varene godtgjør at merkehaveren ikke har rett til å forby omsetning av varene i destinasjonslandet.
 
-Hvis det er risiko for at emballasje, etiketter, merkelapper, sikkerhets- eller ekthetskomponenter, eller utstyr eller andre midler som varemerket kan anbringes på, kan bli brukt i forbindelse med varer eller tjenester, og denne bruken vil utgjøre inngrep i et registrert varemerke etter [§ 4](lov/2010-03-26-8/§4), kan merkehaveren motsette seg at følgende handlinger utføres i næringsvirksomhet:å anbringe et tegn som er identisk med eller ligner varemerket på emballasje, etiketter, merkelapper, sikkerhets- eller ekthetskomponenter, utstyr eller andre midler som merket kan anbringes påå tilby eller bringe på markedet, eller lagre for disse formål, innføre eller utføre emballasje, etiketter, merker, sikkerhets- eller ekthetskomponenter eller utstyr eller andre midler som merket er anbrakt på.
+Hvis det er risiko for at emballasje, etiketter, merkelapper, sikkerhets- eller ekthetskomponenter, eller utstyr eller andre midler som varemerket kan anbringes på, kan bli brukt i forbindelse med varer eller tjenester, og denne bruken vil utgjøre inngrep i et registrert varemerke etter [§ 4](lov/2010-03-26-8/§4), kan merkehaveren motsette seg at følgende handlinger utføres i næringsvirksomhet:
+
+1. å anbringe et tegn som er identisk med eller ligner varemerket på emballasje, etiketter, merkelapper, sikkerhets- eller ekthetskomponenter, utstyr eller andre midler som merket kan anbringes på
+2. å tilby eller bringe på markedet, eller lagre for disse formål, innføre eller utføre emballasje, etiketter, merker, sikkerhets- eller ekthetskomponenter eller utstyr eller andre midler som merket er anbrakt på.
 
 Er et varemerke registrert i en agents eller representants navn uten merkehaverens samtykke, og uten at agenten eller representanten har grunnlag for sin handling, kan merkehaveren kreve at merket overføres til seg og motsette seg agentens eller representantens bruk av merket.
 
@@ -77,7 +90,11 @@ Er et varemerke registrert i en agents eller representants navn uten merkehavere
 
 Varemerkerett oppnådd ved registrering omfatter ikke slik del av et varemerke som det ikke ville være adgang til å registrere særskilt.
 
-Varemerkeretten er ikke til hinder for at noen i samsvar med god forretningsskikk bruker:sitt navn eller sin adressetegn eller angivelser uten særpreg og angivelser som gjelder varens eller tjenestens art, beskaffenhet, mengde, formål, verdi, geografiske opprinnelse, tidspunktet for varens fremstilling eller for utførelse av tjenesten eller andre egenskaper ved varen eller tjenestenvaremerket for å identifisere eller henvise til varer eller tjenester som tilhørende merkehaveren, blant annet når bruk av merket er nødvendig for å angi bruksformålet for en vare eller tjeneste, for eksempel når merket angir at varens bruksformål er som tilbehør eller reservedel.
+Varemerkeretten er ikke til hinder for at noen i samsvar med god forretningsskikk bruker:
+
+1. sitt navn eller sin adresse
+2. tegn eller angivelser uten særpreg og angivelser som gjelder varens eller tjenestens art, beskaffenhet, mengde, formål, verdi, geografiske opprinnelse, tidspunktet for varens fremstilling eller for utførelse av tjenesten eller andre egenskaper ved varen eller tjenesten
+3. varemerket for å identifisere eller henvise til varer eller tjenester som tilhørende merkehaveren, blant annet når bruk av merket er nødvendig for å angi bruksformålet for en vare eller tjeneste, for eksempel når merket angir at varens bruksformål er som tilbehør eller reservedel.
 
 Enerett til en geografisk betegnelse oppnådd ved registrering som fellesmerke eller garanti- eller kontrollmerke, er ikke til hinder for at andre bruker betegnelsen når bruken skjer i samsvar med god forretningsskikk.
 
@@ -127,7 +144,13 @@ Gir gjengivelsen av et varemerke i leksikon, ordbok eller lignende oppslagsverk 
 
 Søknad om registrering av et varemerke leveres skriftlig til Patentstyret.
 
-Søknaden skal oppgi:søkerens navn og adresseen klar og tydelig gjengivelse av merket, jf. [§ 14](lov/2010-03-26-8/§14) første ledd første punktumen liste over de varer eller tjenester som merket søkes registrert for.En søknad om registrering av et fellesmerke eller garanti- eller kontrollmerke skal dessuten angi om det gjelder et fellesmerke eller et garanti- eller kontrollmerke, og inneholde de bestemmelser som er fastsatt for bruken av merket, jf. [§ 12 a](lov/2010-03-26-8/§12a).
+Søknaden skal oppgi:
+
+1. søkerens navn og adresse
+2. en klar og tydelig gjengivelse av merket, jf. [§ 14](lov/2010-03-26-8/§14) første ledd første punktum
+3. en liste over de varer eller tjenester som merket søkes registrert for.
+
+En søknad om registrering av et fellesmerke eller garanti- eller kontrollmerke skal dessuten angi om det gjelder et fellesmerke eller et garanti- eller kontrollmerke, og inneholde de bestemmelser som er fastsatt for bruken av merket, jf. [§ 12 a](lov/2010-03-26-8/§12a).
 
 Søknaden skal i tillegg oppfylle de kravene som er fastsatt av Kongen i forskrift. Det skal betales fastsatt gebyr, ellers henlegges søknaden.
 
@@ -135,7 +158,13 @@ Søknaden skal i tillegg oppfylle de kravene som er fastsatt av Kongen i forskri
 
 ### § 12 a. Tilleggskrav for fellesmerker og garanti- og kontrollmerker
 
-Bestemmelsene som er fastsatt for bruken av et fellesmerke, skal oppgi:hvem som har rett til å bruke fellesmerketvilkårene for medlemskap i sammenslutningenvilkårene for bruk av fellesmerket, herunder sanksjonermerkehaverens forpliktelser til å gjøre ansvar gjeldende mot den som bruker merket i strid med bestemmelsenemerkehaverens rettigheter og forpliktelser overfor brukerne, herunder rett til kontroll, eventuelt ved bestemte kontrollorgan.
+Bestemmelsene som er fastsatt for bruken av et fellesmerke, skal oppgi:
+
+1. hvem som har rett til å bruke fellesmerket
+2. vilkårene for medlemskap i sammenslutningen
+3. vilkårene for bruk av fellesmerket, herunder sanksjoner
+4. merkehaverens forpliktelser til å gjøre ansvar gjeldende mot den som bruker merket i strid med bestemmelsene
+5. merkehaverens rettigheter og forpliktelser overfor brukerne, herunder rett til kontroll, eventuelt ved bestemte kontrollorgan.
 
 Består et fellesmerke av en geografisk betegnelse, skal bestemmelsene for bruken av merket gi enhver som omsetter varer eller tjenester med opprinnelse i det geografiske området, rett til å bli medlem i sammenslutningen som er merkehaver, forutsatt at vedkommende oppfyller alle øvrige vilkår i bestemmelsene.
 
@@ -145,7 +174,12 @@ Bestemmelsene som er fastsatt for bruken av et garanti- eller kontrollmerke, ska
 
 ### § 12 b. Søknadsdag
 
-Søknaden anses som levert (får søknadsdag) den dagen følgende opplysninger er kommet inn til Patentstyret:en anmodning om registreringopplysninger som gjør det mulig å identifisere søkerenen klar og tydelig gjengivelse av merket, jf. [§ 14](lov/2010-03-26-8/§14) første ledd første punktumen liste over de varer og tjenester merket søkes registrert for.
+Søknaden anses som levert (får søknadsdag) den dagen følgende opplysninger er kommet inn til Patentstyret:
+
+1. en anmodning om registrering
+2. opplysninger som gjør det mulig å identifisere søkeren
+3. en klar og tydelig gjengivelse av merket, jf. [§ 14](lov/2010-03-26-8/§14) første ledd første punktum
+4. en liste over de varer og tjenester merket søkes registrert for.
 
 > Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
@@ -159,7 +193,10 @@ Listen over varer eller tjenester som merket søkes registrert for kan begrenses
 
 Et varemerke som skal registreres, må bestå av et tegn som kan beskyttes etter [§ 2](lov/2010-03-26-8/§2), og som kan gjengis i varemerkeregisteret på en slik måte at myndighetene og allmennheten klart og tydelig kan avgjøre gjenstanden for den beskyttelse merkehaveren gis. Det må ha særpreg som kjennetegn for slike varer eller tjenester som det gjelder.
 
-Et varemerke kan ikke registreres hvis det utelukkende, eller bare med uvesentlige endringer eller tillegg, består av tegn eller angivelser som:angir varens eller tjenestens art, beskaffenhet, mengde, formål, verdi eller geografiske opprinnelse, tiden for fremstillingen av varen eller prestasjonen av tjenesten, eller andre egenskaper ved varen eller tjenesten, elleri alminnelig språkbruk eller etter lojal og etablert forretningsskikk utgjør sedvanlige betegnelser for varen eller tjenesten.
+Et varemerke kan ikke registreres hvis det utelukkende, eller bare med uvesentlige endringer eller tillegg, består av tegn eller angivelser som:
+
+1. angir varens eller tjenestens art, beskaffenhet, mengde, formål, verdi eller geografiske opprinnelse, tiden for fremstillingen av varen eller prestasjonen av tjenesten, eller andre egenskaper ved varen eller tjenesten, eller
+2. i alminnelig språkbruk eller etter lojal og etablert forretningsskikk utgjør sedvanlige betegnelser for varen eller tjenesten.
 
 Vilkårene i første og annet ledd må være oppfylt både på søknadsdagen og registreringsdagen. Ved vurderingen etter første ledd annet punktum og annet ledd skal det tas hensyn til alle omstendigheter som forelå på søknadsdagen, og særlig til virkninger av bruk av varemerket før dette tidspunktet.
 
@@ -169,7 +206,14 @@ Et tegn som i næringsvirksomhet brukes for å angi den geografiske opprinnelsen
 
 ### § 15. Absolutte registreringshindre
 
-Et varemerke kan ikke registreres hvis det:strider mot lov, offentlig orden eller moral,er egnet til å villede, for eksempel med hensyn til varens eller tjenestens art, beskaffenhet eller geografiske opprinnelse,uten tillatelse inneholder et våpen eller annet tegn som er omfattet av [straffeloven § 165](lov/2005-05-20-28/§165) bokstav b og [§ 166](lov/2005-05-20-28/§166), et statsflagg, eller noe som er egnet til å oppfattes som et slikt tegn eller flagg,er utelukket fra registrering i medhold av forskrift etter matloven om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser eller tradisjonelle betegnelser for vin,består av eller i vesentlige elementer gjengir et plantesortsnavn beskyttet med planteforedlerrett, og gjelder en plantesort av samme eller nært beslektet art, ellersøkes registrert i ond tro.
+Et varemerke kan ikke registreres hvis det:
+
+1. strider mot lov, offentlig orden eller moral,
+2. er egnet til å villede, for eksempel med hensyn til varens eller tjenestens art, beskaffenhet eller geografiske opprinnelse,
+3. uten tillatelse inneholder et våpen eller annet tegn som er omfattet av [straffeloven § 165](lov/2005-05-20-28/§165) bokstav b og [§ 166](lov/2005-05-20-28/§166), et statsflagg, eller noe som er egnet til å oppfattes som et slikt tegn eller flagg,
+4. er utelukket fra registrering i medhold av forskrift etter matloven om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser eller tradisjonelle betegnelser for vin,
+5. består av eller i vesentlige elementer gjengir et plantesortsnavn beskyttet med planteforedlerrett, og gjelder en plantesort av samme eller nært beslektet art, eller
+6. søkes registrert i ond tro.
 
 For vin og brennevin kan det heller ikke registreres varemerke som består av eller inneholder noe som er egnet til å oppfattes som en geografisk betegnelse for vin eller brennevin, med mindre varen har den geografiske opprinnelsen betegnelsen utpeker.
 
@@ -179,7 +223,13 @@ Et fellesmerke eller garanti- eller kontrollmerke kan dessuten ikke registreres 
 
 ### § 16. Relative registreringshindre
 
-Et varemerke kan ikke registreres uten samtykke av vedkommende rettighetshaver hvis:bruk av merket ville krenke en annens rett her i riket til et varemerke, foretaksnavn eller annet forretningskjennetegn,merket er søkt registrert av en agent eller representant i eget navn uten merkehaverens samtykke, og uten at agenten eller representanten har grunnlag for sin handling,merket inneholder noe som er egnet til å oppfattes som en annens navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person,merket inneholder noe som er egnet til å oppfattes som den særpregede tittelen på en annens beskyttede åndsverk, eller krenker en annens rett her i riket til et åndsverk eller fotografisk bilde eller en design, ellermerket krenker en annens rett her i riket til en betegnelse som er beskyttet ved forskrift etter matloven.
+Et varemerke kan ikke registreres uten samtykke av vedkommende rettighetshaver hvis:
+
+1. bruk av merket ville krenke en annens rett her i riket til et varemerke, foretaksnavn eller annet forretningskjennetegn,
+2. merket er søkt registrert av en agent eller representant i eget navn uten merkehaverens samtykke, og uten at agenten eller representanten har grunnlag for sin handling,
+3. merket inneholder noe som er egnet til å oppfattes som en annens navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person,
+4. merket inneholder noe som er egnet til å oppfattes som den særpregede tittelen på en annens beskyttede åndsverk, eller krenker en annens rett her i riket til et åndsverk eller fotografisk bilde eller en design, eller
+5. merket krenker en annens rett her i riket til en betegnelse som er beskyttet ved forskrift etter matloven.
 
 > Endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
@@ -267,7 +317,14 @@ Dokumenter som Patentstyret har utarbeidet for sin egen interne saksforberedelse
 
 Når registreringen av et varemerke er kunngjort, kan enhver fremsette innsigelse mot registreringen. En innsigelse skal fremsettes skriftlig og må være kommet inn til Patentstyret innen tre måneder fra kunngjøringsdagen.
 
-Innsigelsen skal inneholde:innsigerens navn og adresseangivelse av hvilken registrering innsigelsen gjelderde grunner innsigelsen bygger pånødvendig dokumentasjon av forhold som påberopes til støtte for innsigelsen.Innsigelsen skal i tillegg oppfylle de krav som er fastsatt av Kongen i forskrift.
+Innsigelsen skal inneholde:
+
+1. innsigerens navn og adresse
+2. angivelse av hvilken registrering innsigelsen gjelder
+3. de grunner innsigelsen bygger på
+4. nødvendig dokumentasjon av forhold som påberopes til støtte for innsigelsen.
+
+Innsigelsen skal i tillegg oppfylle de krav som er fastsatt av Kongen i forskrift.
 
 Når en innsigelse er kommet inn til Patentstyret, skal dette innføres i varemerkeregistret og kunngjøres.
 
@@ -375,13 +432,23 @@ Hvis et eldre varemerke eller foretaksnavn bare har vært i reell bruk for deler
 
 ### § 35 b. Mellomliggende rettigheter
 
-Et krav om ugyldighet på grunnlag av et eldre varemerke kan ikke tas til følge hvis kravet ikke ville blitt tatt til følge på søknads- eller prioritetsdagen for det yngre merket fordi:det eldre varemerket ikke oppfylte vilkårene i [§ 14](lov/2010-03-26-8/§14) første ledd annet punktum eller [§ 14](lov/2010-03-26-8/§14) annet ledd og ennå ikke hadde oppnådd særpreg etter [§ 14](lov/2010-03-26-8/§14) tredje ledd annet punktum,kravet om ugyldighet er begrunnet i [§ 4](lov/2010-03-26-8/§4) første ledd bokstav b, og det eldre varemerket ennå ikke hadde oppnådd slikt særpreg at det forelå risiko for forveksling, ellerkravet om ugyldighet er begrunnet i [§ 4](lov/2010-03-26-8/§4) annet ledd, og det eldre varemerket ennå ikke var velkjent.
+Et krav om ugyldighet på grunnlag av et eldre varemerke kan ikke tas til følge hvis kravet ikke ville blitt tatt til følge på søknads- eller prioritetsdagen for det yngre merket fordi:
+
+1. det eldre varemerket ikke oppfylte vilkårene i [§ 14](lov/2010-03-26-8/§14) første ledd annet punktum eller [§ 14](lov/2010-03-26-8/§14) annet ledd og ennå ikke hadde oppnådd særpreg etter [§ 14](lov/2010-03-26-8/§14) tredje ledd annet punktum,
+2. kravet om ugyldighet er begrunnet i [§ 4](lov/2010-03-26-8/§4) første ledd bokstav b, og det eldre varemerket ennå ikke hadde oppnådd slikt særpreg at det forelå risiko for forveksling, eller
+3. kravet om ugyldighet er begrunnet i [§ 4](lov/2010-03-26-8/§4) annet ledd, og det eldre varemerket ennå ikke var velkjent.
 
 > Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
 ### § 36. Sletting ved degenerasjon mv.
 
-En registrering av et varemerke skal helt eller delvis slettes ved dom eller ved administrativ overprøving etter bestemmelsene i [§§ 38](lov/2010-03-26-8/§38) til [40](lov/2010-03-26-8/§40) hvis:merket, som følge av merkehaverens handlinger eller passivitet, er blitt den alminnelige betegnelsen innen bransjen for slike varer eller tjenester som det er registrert for,merket, som følge av den bruk merkehaveren eller noen med dennes samtykke har gjort av det for slike varer eller tjenester som det er registrert for, er blitt egnet til å villede, særlig med hensyn til varenes eller tjenestenes art, beskaffenhet eller geografiske opprinnelse,fellesmerke eller garanti- eller kontrollmerke er brukt i strid med bestemmelsene for bruken av merket, herunder eventuelle endringer innført i varemerkeregisteret, uten at merkehaveren har tatt rimelige skritt for å hindre slik bruk,fellesmerke eller garanti- eller kontrollmerke er brukt av dem som har rett til å bruke merket, på en måte som har gjort merket egnet til å villede med hensyn til dets karakter eller betydning som nevnt i [§ 15](lov/2010-03-26-8/§15) tredje ledd, ellerendringer i bestemmelsene for bruken av fellesmerke eller garanti- eller kontrollmerke er innført i varemerkeregisteret i strid med kravene nevnt i [§ 22](lov/2010-03-26-8/§22) annet ledd tredje punktum, med mindre merkehaveren retter mangelen ved ytterligere endring av bestemmelsene.
+En registrering av et varemerke skal helt eller delvis slettes ved dom eller ved administrativ overprøving etter bestemmelsene i [§§ 38](lov/2010-03-26-8/§38) til [40](lov/2010-03-26-8/§40) hvis:
+
+1. merket, som følge av merkehaverens handlinger eller passivitet, er blitt den alminnelige betegnelsen innen bransjen for slike varer eller tjenester som det er registrert for,
+2. merket, som følge av den bruk merkehaveren eller noen med dennes samtykke har gjort av det for slike varer eller tjenester som det er registrert for, er blitt egnet til å villede, særlig med hensyn til varenes eller tjenestenes art, beskaffenhet eller geografiske opprinnelse,
+3. fellesmerke eller garanti- eller kontrollmerke er brukt i strid med bestemmelsene for bruken av merket, herunder eventuelle endringer innført i varemerkeregisteret, uten at merkehaveren har tatt rimelige skritt for å hindre slik bruk,
+4. fellesmerke eller garanti- eller kontrollmerke er brukt av dem som har rett til å bruke merket, på en måte som har gjort merket egnet til å villede med hensyn til dets karakter eller betydning som nevnt i [§ 15](lov/2010-03-26-8/§15) tredje ledd, eller
+5. endringer i bestemmelsene for bruken av fellesmerke eller garanti- eller kontrollmerke er innført i varemerkeregisteret i strid med kravene nevnt i [§ 22](lov/2010-03-26-8/§22) annet ledd tredje punktum, med mindre merkehaveren retter mangelen ved ytterligere endring av bestemmelsene.
 
 > Endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
@@ -407,7 +474,14 @@ Søksmål eller krav om administrativ overprøving som bygger på [§§ 35](lov/
 
 ### § 40. Levering og behandling av krav om administrativ overprøving
 
-Kravet om administrativ overprøving etter [§§ 35](lov/2010-03-26-8/§35) til [37](lov/2010-03-26-8/§37) kan fremsettes når innsigelsesfristen er utløpt og eventuelle innsigelsessaker er endelig avgjort. Kravet skal leveres skriftlig til Patentstyret og inneholde:navnet og adressen til den som har innlevert kravetangivelse av hvilken varemerkeregistrering kravet gjelderde grunner kravet bygger pånødvendig dokumentasjon av forhold som påberopes til støtte for kravet.Kravet skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen i forskrift. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
+Kravet om administrativ overprøving etter [§§ 35](lov/2010-03-26-8/§35) til [37](lov/2010-03-26-8/§37) kan fremsettes når innsigelsesfristen er utløpt og eventuelle innsigelsessaker er endelig avgjort. Kravet skal leveres skriftlig til Patentstyret og inneholde:
+
+1. navnet og adressen til den som har innlevert kravet
+2. angivelse av hvilken varemerkeregistrering kravet gjelder
+3. de grunner kravet bygger på
+4. nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+
+Kravet skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen i forskrift. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
 
 Hvis kravet ikke oppfyller vilkårene i første ledd og [§ 39](lov/2010-03-26-8/§39), skal Patentstyret gi en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal kravet avvises hvis ikke Patentstyret finner at det bør gis en ny frist for retting. Patentstyret kan også avvise kravet hvis saken ikke egner seg for avgjørelse av Patentstyret, særlig fordi de faktiske forholdene er omtvistet eller lite opplyst.
 
@@ -487,7 +561,16 @@ Avgjørelsen av en sak om administrativ overprøving etter [§§ 35](lov/2010-03
 
 Avgjørelsen om å oppheve en registrering etter [§§ 30](lov/2010-03-26-8/§30) eller [45](lov/2010-03-26-8/§45), eller om å slette en registrering etter [§ 43](lov/2010-03-26-8/§43), kan påklages til Klagenemnden av merkehaveren.
 
-Avgjørelsen om å avvise eller avslå krav om:gjenopptagelse etter [§ 23](lov/2010-03-26-8/§23) fjerde leddunntak fra offentlighet etter [§ 25](lov/2010-03-26-8/§25) annet ledd, [§§ 31](lov/2010-03-26-8/§31), [48](lov/2010-03-26-8/§48), [§ 51](lov/2010-03-26-8/§51) femte ledd og [§ 76](lov/2010-03-26-8/§76)innsyn i dokumenter i saker etter loven herfornyelse av varemerkeregistrering etter [§ 33](lov/2010-03-26-8/§33)endring av et varemerke etter [§ 34](lov/2010-03-26-8/§34)at saken blir tatt under behandling etter [§ 80](lov/2010-03-26-8/§80)kan påklages til Klagenemnden av den som har fremsatt kravet.
+Avgjørelsen om å avvise eller avslå krav om:
+
+1. gjenopptagelse etter [§ 23](lov/2010-03-26-8/§23) fjerde ledd
+2. unntak fra offentlighet etter [§ 25](lov/2010-03-26-8/§25) annet ledd, [§§ 31](lov/2010-03-26-8/§31), [48](lov/2010-03-26-8/§48), [§ 51](lov/2010-03-26-8/§51) femte ledd og [§ 76](lov/2010-03-26-8/§76)
+3. innsyn i dokumenter i saker etter loven her
+4. fornyelse av varemerkeregistrering etter [§ 33](lov/2010-03-26-8/§33)
+5. endring av et varemerke etter [§ 34](lov/2010-03-26-8/§34)
+6. at saken blir tatt under behandling etter [§ 80](lov/2010-03-26-8/§80)
+
+kan påklages til Klagenemnden av den som har fremsatt kravet.
 
 Andre avgjørelser fra Patentstyret kan ikke påklages.
 
@@ -495,7 +578,14 @@ Andre avgjørelser fra Patentstyret kan ikke påklages.
 
 ### § 50. Levering av klage
 
-En klage leveres skriftlig til Patentstyret innen to måneder etter den dagen melding om avgjørelsen ble sendt vedkommende part. Klagen skal oppgi:klagerens navn og adresseavgjørelsen som det klages overhvilken endring som ønskes i avgjørelsenhvilke grunner klagen bygger på.Klagen skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen i forskrift. Det skal betales fastsatt klagegebyr, ellers opptas ikke klagen til behandling.
+En klage leveres skriftlig til Patentstyret innen to måneder etter den dagen melding om avgjørelsen ble sendt vedkommende part. Klagen skal oppgi:
+
+1. klagerens navn og adresse
+2. avgjørelsen som det klages over
+3. hvilken endring som ønskes i avgjørelsen
+4. hvilke grunner klagen bygger på.
+
+Klagen skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen i forskrift. Det skal betales fastsatt klagegebyr, ellers opptas ikke klagen til behandling.
 
 > Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
 
@@ -593,7 +683,13 @@ Forbud kan likevel ikke nedlegges hvis vilkårene etter [§ 37](lov/2010-03-26-8
 
 ### § 58. Vederlag og erstatning for varemerkeinngrep
 
-For forsettlig eller uaktsomt varemerkeinngrep skal inngriperen betale til rettighetshaveren:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,erstatning for skade som følge av inngrepet, ellervederlag svarende til vinningen som er oppnådd ved inngrepet.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
+For forsettlig eller uaktsomt varemerkeinngrep skal inngriperen betale til rettighetshaveren:
+
+1. vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,
+2. erstatning for skade som følge av inngrepet, eller
+3. vederlag svarende til vinningen som er oppnådd ved inngrepet.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
 
 Er det handlet forsettlig eller grovt uaktsomt, skal inngriperen, dersom rettighetshaveren krever det, i stedet for vederlag og erstatning fastsatt etter første ledd, betale vederlag svarende til det dobbelte av en rimelig lisensavgift for utnyttelsen.
 
@@ -609,7 +705,14 @@ Innehaveren av et fellesmerke eller garanti- eller kontrollmerke kan kreve ersta
 
 ### § 59. Tiltak for å hindre inngrep
 
-For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør inngrep i en varemerkerett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal:tilbakekalles fra handelen,definitivt fjernes fra handelen,ødelegges, ellerutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør inngrep i en varemerkerett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal:
+
+1. tilbakekalles fra handelen,
+2. definitivt fjernes fra handelen,
+3. ødelegges, eller
+4. utleveres til rettighetshaveren.
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
 
 Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 57](lov/2010-03-26-8/§57) annet punktum.
 
@@ -651,7 +754,11 @@ Foreldelsesfristen for krav etter denne paragrafen begynner ikke å løpe før v
 
 ### § 62. Tvungent verneting
 
-Følgende søksmål må reises ved Oslo tingrett:søksmål om prøving av avgjørelse truffet av Klagenemnden som omtalt i [§ 52](lov/2010-03-26-8/§52)søksmål om ugyldighet eller sletting av en varemerkeregistrering etter [§§ 35](lov/2010-03-26-8/§35) til [37](lov/2010-03-26-8/§37)sivilt søksmål om inngrep i registrert varemerke.
+Følgende søksmål må reises ved Oslo tingrett:
+
+1. søksmål om prøving av avgjørelse truffet av Klagenemnden som omtalt i [§ 52](lov/2010-03-26-8/§52)
+2. søksmål om ugyldighet eller sletting av en varemerkeregistrering etter [§§ 35](lov/2010-03-26-8/§35) til [37](lov/2010-03-26-8/§37)
+3. sivilt søksmål om inngrep i registrert varemerke.
 
 Oslo tingrett er verneting for søkere og merkehavere som ikke har bopel i Norge.
 
@@ -691,7 +798,15 @@ Patentstyret er varemerkemyndighet i Norge i saker om internasjonal varemerkereg
 
 Den som er norsk statsborger eller er bosatt eller driver virksomhet i Norge og innehar en varemerkeregistrering eller har innlevert søknad om slik registrering her i riket, kan søke om internasjonal registrering av varemerket ved å levere søknad om det til Patentstyret.
 
-Søknaden skal være skriftlig, avfattet på engelsk og oppgi:søkerens navn og adressenummer og dato for den eller de norske varemerkeregistreringer eller søknader som den internasjonale registreringen skal bygge påen gjengivelse av merketen liste over de varer eller tjenester som merket søkes registrert foren liste over land eller mellomstatlig organisasjon som registreringen ønskes gitt virkning for.Søknaden skal i tillegg oppfylle de krav som er fastsatt av Kongen i forskrift. Det skal betales fastsatt gebyr, ellers anses søknaden som ikke innkommet.
+Søknaden skal være skriftlig, avfattet på engelsk og oppgi:
+
+1. søkerens navn og adresse
+2. nummer og dato for den eller de norske varemerkeregistreringer eller søknader som den internasjonale registreringen skal bygge på
+3. en gjengivelse av merket
+4. en liste over de varer eller tjenester som merket søkes registrert for
+5. en liste over land eller mellomstatlig organisasjon som registreringen ønskes gitt virkning for.
+
+Søknaden skal i tillegg oppfylle de krav som er fastsatt av Kongen i forskrift. Det skal betales fastsatt gebyr, ellers anses søknaden som ikke innkommet.
 
 > Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
 
@@ -707,7 +822,12 @@ Hvis søknaden ikke oppfyller kravene som nevnt i første ledd, skal Patentstyre
 
 Den som er norsk statsborger eller er bosatt eller driver virksomhet i Norge og som innehar en internasjonal registrering som bygger på en norsk registrering eller søknad, og som ønsker at den internasjonale registreringen skal ha virkning i ytterligere land eller i mellomstatlige organisasjoner, kan levere søknad om dette til Det internasjonale byrået eller til Patentstyret.
 
-Søknad som leveres til Patentstyret må være skriftlig, avfattet på engelsk og oppgi:søkerens navn og adresseden internasjonale registreringens nummerhvilket eller hvilke ytterligere land eller mellomstatlige organisasjoner registreringen ønskes gitt virkning forom søknaden gjelder alle eller bare nærmere angitte av de varene eller tjenestene den internasjonale registreringen omfatter.
+Søknad som leveres til Patentstyret må være skriftlig, avfattet på engelsk og oppgi:
+
+1. søkerens navn og adresse
+2. den internasjonale registreringens nummer
+3. hvilket eller hvilke ytterligere land eller mellomstatlige organisasjoner registreringen ønskes gitt virkning for
+4. om søknaden gjelder alle eller bare nærmere angitte av de varene eller tjenestene den internasjonale registreringen omfatter.
 
 ### § 70. Krav om at en internasjonal varemerkeregistrering skal ha virkning i Norge
 
@@ -815,7 +935,16 @@ For kopier av dokumenter som er offentlige etter loven her, skal det betales fas
 
 ### § 82. Forskrifter til loven (avgifter og gebyrer mv.)
 
-Kongen kan i forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her. Kongen kan blant annet gi bestemmelser om:levering og behandling av søknader og innsigelser, herunder om adgang til å bruke annet språk enn norsk i korrespondanse med Patentstyretinternasjonale søknader og registreringerdeling og sammenslåing av søknader og registreringer og om gebyrer for dettelengden på frister etter lovenføring av og innsyn i varemerkeregisteret, herunder om krav om anmerkninger i registeret og behandlingen av demkunngjøringer etter lovenden tidende Patentstyret utgirsatser for avgifter og gebyr, og betaling av disse.
+Kongen kan i forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her. Kongen kan blant annet gi bestemmelser om:
+
+1. levering og behandling av søknader og innsigelser, herunder om adgang til å bruke annet språk enn norsk i korrespondanse med Patentstyret
+2. internasjonale søknader og registreringer
+3. deling og sammenslåing av søknader og registreringer og om gebyrer for dette
+4. lengden på frister etter loven
+5. føring av og innsyn i varemerkeregisteret, herunder om krav om anmerkninger i registeret og behandlingen av dem
+6. kunngjøringer etter loven
+7. den tidende Patentstyret utgir
+8. satser for avgifter og gebyr, og betaling av disse.
 
 > Endret ved lover [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 

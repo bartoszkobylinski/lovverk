@@ -15,7 +15,7 @@ xml_hash: "0d0a1d421bbca1bd85c7bc68c0cc652a65e859bb2b921f0b9d5218c29fa826e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,13 @@ Dersom det vurderes å treffe vedtak i medhold av denne lov som vil berøre sami
 
 ### § 5. Definisjoner
 
-I denne lov menes med:«anadrome laksefisk»: laksefisk som vandrer mellom sjø og ferskvann og som er avhengig av ferskvann for å reprodusere seg, samt rogn og unger av slik fisk.«innlandsfisk»: all annen fisk i vassdrag enn anadrome laksefisk, herunder ål, samt rogn og unger av slik fisk.«vassdrag»: innsjø, vann, tjern, elv, elvearm, bekk, kanal og kunstige dammer.«fritt fiske»: det fisket som ifølge lokal sedvanerett eller annen særlig rettshjemmel ikke anses for å tilhøre grunneieren.«nasjonale laksevassdrag og nasjonale laksefjorder»: vassdrag, fjorder og kyststrekninger som Stortinget har vedtatt opprettet som nasjonale laksevassdrag eller nasjonale laksefjorder.
+I denne lov menes med:
+
+1. «anadrome laksefisk»: laksefisk som vandrer mellom sjø og ferskvann og som er avhengig av ferskvann for å reprodusere seg, samt rogn og unger av slik fisk.
+2. «innlandsfisk»: all annen fisk i vassdrag enn anadrome laksefisk, herunder ål, samt rogn og unger av slik fisk.
+3. «vassdrag»: innsjø, vann, tjern, elv, elvearm, bekk, kanal og kunstige dammer.
+4. «fritt fiske»: det fisket som ifølge lokal sedvanerett eller annen særlig rettshjemmel ikke anses for å tilhøre grunneieren.
+5. «nasjonale laksevassdrag og nasjonale laksefjorder»: vassdrag, fjorder og kyststrekninger som Stortinget har vedtatt opprettet som nasjonale laksevassdrag eller nasjonale laksefjorder.
 
 > Endret ved [lover 17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
@@ -64,7 +70,13 @@ I denne lov menes med:«anadrome laksefisk»: laksefisk som vandrer mellom sjø 
 
 ### § 6. Fiskeforvaltningen
 
-Fiskeforvaltningen etter denne lov er:Departementet1MiljødirektoratetStatsforvalterenFylkeskommunenKommunen
+Fiskeforvaltningen etter denne lov er:
+
+1. Departementet1
+2. Miljødirektoratet
+3. Statsforvalteren
+4. Fylkeskommunen
+5. Kommunen
 
 Kongen1 kan gi nærmere regler om etablering av særskilte organer for forvaltning av anadrome laksefisk.
 
@@ -128,7 +140,9 @@ Selv om det er tillatt å fiske i henhold til bestemmelser gitt i eller i medhol
 
 Departementet2 kan med øyeblikkelig virkning forlenge eller stoppe et fiske når vannføringen eller andre særlige forhold tilsier det.
 
-1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
+2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 12. Tiltak i særskilte situasjoner
 
@@ -168,13 +182,19 @@ Grensene skal avmerkes med tydelige merker. Utgiftene til dette dekkes av statsk
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
-1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
+2 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ## Kapittel IV. Bestemmelser om fiskeretten.
 
 ### § 16. Grunneierens rett til fiske etter anadrome laksefisk
 
-Med de innskrenkninger som følger av bestemmelser gitt i eller i medhold av lov, sedvane, alders tids bruk eller annen hjemmel, gjelder følgende:I vassdrag har grunneieren enerett til fiske etter anadrome laksefisk.I sjøen har grunneieren enerett til fiske etter anadrome laksefisk med faststående bundne redskaper så langt hans grunn går.I sjøen har eieren av nærmest tilstøtende grunn enerett til fiske etter anadrome laksefisk med kilenot, lakseverp, krokgarn, bunngarn med faste pelestikk eller liknende redskap. Eneretten omfatter også retten til å sette ut ledegarn, redskapsfortøyninger o.l. Retten gjelder i den utstrekning dette må anses naturlig når hensyn tas til de stedlige forhold som bunnformasjoner og avstanden fra grunneierens eiendom til vedkommende fiskeplass, eller den sedvanemessige utøving av fisket.
+Med de innskrenkninger som følger av bestemmelser gitt i eller i medhold av lov, sedvane, alders tids bruk eller annen hjemmel, gjelder følgende:
+
+1. I vassdrag har grunneieren enerett til fiske etter anadrome laksefisk.
+2. I sjøen har grunneieren enerett til fiske etter anadrome laksefisk med faststående bundne redskaper så langt hans grunn går.
+3. I sjøen har eieren av nærmest tilstøtende grunn enerett til fiske etter anadrome laksefisk med kilenot, lakseverp, krokgarn, bunngarn med faste pelestikk eller liknende redskap. Eneretten omfatter også retten til å sette ut ledegarn, redskapsfortøyninger o.l. Retten gjelder i den utstrekning dette må anses naturlig når hensyn tas til de stedlige forhold som bunnformasjoner og avstanden fra grunneierens eiendom til vedkommende fiskeplass, eller den sedvanemessige utøving av fisket.
 
 Eneretten for eieren av nærmest tilstøtende grunn gjelder også for øy, holme eller skjær som ikke ligger under havflaten ved vanlig flo sjø.
 
@@ -288,7 +308,9 @@ For gjennomføring av felles organisering kan bruksordning kreves etter jordskif
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
-1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
+2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 25 a. Driftsplanlegging
 
@@ -322,7 +344,9 @@ Kongen2 kan gi regler om forbud mot framleie av fiskerett.
 
 > Endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
-1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
+2 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 28. Pålegg om fiskekulturtiltak
 
@@ -372,7 +396,13 @@ Departementet1 fastsetter størrelsen på avgiften og for hvilket tidsrom betali
 
 ### § 31. Tvist om grenser m.m.
 
-Fiskeberettiget eier eller bruker av fiskerett i sjø eller vassdrag, det lokale fiskeorgan, statsforvalteren, politimesteren eller Miljødirektoratet kan kreve at departementet1 avgjør:midtstrømslinje i elv eller bekk, jfr. [§ 35](lov/1992-05-15-47/§35) annet ledd,om elvestrekning skal anses som foss,bredden av vassdrag ved middels sommervannstand og bredden av fjord eller sund ved vanlig fjære sjø midtsommers,grensen mellom elv eller bekk og innsjø eller tjern og grensen mellom elv eller bekk og sjø,om vassdrag eller deler av vassdrag skal anses for å føre anadrome laksefisk.
+Fiskeberettiget eier eller bruker av fiskerett i sjø eller vassdrag, det lokale fiskeorgan, statsforvalteren, politimesteren eller Miljødirektoratet kan kreve at departementet1 avgjør:
+
+1. midtstrømslinje i elv eller bekk, jfr. [§ 35](lov/1992-05-15-47/§35) annet ledd,
+2. om elvestrekning skal anses som foss,
+3. bredden av vassdrag ved middels sommervannstand og bredden av fjord eller sund ved vanlig fjære sjø midtsommers,
+4. grensen mellom elv eller bekk og innsjø eller tjern og grensen mellom elv eller bekk og sjø,
+5. om vassdrag eller deler av vassdrag skal anses for å føre anadrome laksefisk.
 
 Når det er nødvendig, kan departementet1 avgjøre ovennevnte spørsmål uten at det foreligger krav om det fra de som er nevnt i første punktum.
 
@@ -440,7 +470,16 @@ Fiske og fangst av arter som omfattes av denne lovs virkeområde, skal foregå p
 
 Tiltak av enhver art som ikke har annet formål enn å skremme fisken eller hindre dens frie gang er forbudt.
 
-Så vel i sjøen som i vassdrag er det til fangst og avliving av fisk forbudt å bruke:Stoff med giftig, lammende eller kvelende virkning.Sprengstoff.Skytevåpen, jf. lov 9. juni 1961 om skytevåpen og ammunisjon, unntatt for fangst av gjedde.Elektrisk strøm.Kunstig endring av vannføringen.Lyster eller liknende redskap med spiss eller krok som ikke er beregnet på å slukes av fisken. Det er likevel tillatt å bruke slikt redskap som hjelperedskap for å ta opp fisk som er fanget med annet lovlig redskap.Kunstig lys, unntatt for åle- og krepsefangst.Fisk som agn i vassdrag, unntatt død fisk fra samme vassdrag som agnet benyttes i.
+Så vel i sjøen som i vassdrag er det til fangst og avliving av fisk forbudt å bruke:
+
+1. Stoff med giftig, lammende eller kvelende virkning.
+2. Sprengstoff.
+3. Skytevåpen, jf. lov 9. juni 1961 om skytevåpen og ammunisjon, unntatt for fangst av gjedde.
+4. Elektrisk strøm.
+5. Kunstig endring av vannføringen.
+6. Lyster eller liknende redskap med spiss eller krok som ikke er beregnet på å slukes av fisken. Det er likevel tillatt å bruke slikt redskap som hjelperedskap for å ta opp fisk som er fanget med annet lovlig redskap.
+7. Kunstig lys, unntatt for åle- og krepsefangst.
+8. Fisk som agn i vassdrag, unntatt død fisk fra samme vassdrag som agnet benyttes i.
 
 Kongen kan ved forskrift forby andre fangst- og avlivingsmetoder.
 

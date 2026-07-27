@@ -15,7 +15,7 @@ xml_hash: "03f9e4ec7c498f5fac69a7642a23db95a6d8636cda05f9b13d304c2e0b19ba68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -386,7 +386,11 @@ Dykkesystemet skal tillate sikker overføring av en person under trykk fra dykke
 
 2.3.1.
 
-En dykkerklokke skal:være utstyrt med tilfredsstillende beskyttelse mot mekaniske skader ved håndteringsoperasjon:være utstyrt med et ekstra løftepunkt konstruert for å tåle hele vekten av klokken i luft inkludert ballast og utstyr samt vekten av dykkere som befinner seg i klokken:være utstyrt på en slik måte at hver dykker som bruker klokken kan komme inn i og forlate den på en sikker måte og slik at en bevisstløs dykker kan tas opp i en tørr klokke.
+En dykkerklokke skal:
+
+1. være utstyrt med tilfredsstillende beskyttelse mot mekaniske skader ved håndteringsoperasjon:
+2. være utstyrt med et ekstra løftepunkt konstruert for å tåle hele vekten av klokken i luft inkludert ballast og utstyr samt vekten av dykkere som befinner seg i klokken:
+3. være utstyrt på en slik måte at hver dykker som bruker klokken kan komme inn i og forlate den på en sikker måte og slik at en bevisstløs dykker kan tas opp i en tørr klokke.
 
 2.3.2.
 
@@ -660,7 +664,14 @@ Inne i klokken skal det finnes mulighet for uavhengig overvåking av oksygen- og
 
 2.12.1.
 
-Kommunikasjonssystemer skal være beregnet for direkte toveis kommunikasjon mellom kontrollposisjon ogdykker i vanndykkerklokkehvert rom i kammeretdykkesystemets håndteringsposisjonerdynamisk posisjonsrombro, skipets kommandosentral eller boredekk.
+Kommunikasjonssystemer skal være beregnet for direkte toveis kommunikasjon mellom kontrollposisjon og
+
+- dykker i vann
+- dykkerklokke
+- hvert rom i kammeret
+- dykkesystemets håndteringsposisjoner
+- dynamisk posisjonsrom
+- bro, skipets kommandosentral eller boredekk.
 
 2.12.2.
 

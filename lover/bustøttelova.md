@@ -15,7 +15,7 @@ xml_hash: "25f2c5c65697c1ba9095855422cba485bedaab900cd60e3e24d88f3fb1d9e684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Lova gjeld for personar som er registrerte i folkeregisteret og lovleg busette i
 
 ### § 3. Vilkår for rett til bustøtte
 
-Rett til bustøtte har søkjarar somer over 18 år eller har eigne barn som bur i bustaden,svarar for buutgifter i ein bustad som fyller vilkåra i [§ 5](lov/2012-08-24-64/§5), ogsjølve bur i bustaden.
+Rett til bustøtte har søkjarar som
+
+1. er over 18 år eller har eigne barn som bur i bustaden,
+2. svarar for buutgifter i ein bustad som fyller vilkåra i [§ 5](lov/2012-08-24-64/§5), og
+3. sjølve bur i bustaden.
 
 ### § 4. Unntak for visse personar
 
@@ -50,7 +54,12 @@ Bebuarar i ein institusjon der det kan bli kravd vederlag for opphaldet på grun
 
 ### § 5. Krav til bustaden
 
-Vilkår for å få rett til bustøtte er at bustadener godkjend som bustader ein sjølvstendig bustad med eigen innganghar eige bad og toalett og gjev høve til matlaging, oggjev høve til kvile.
+Vilkår for å få rett til bustøtte er at bustaden
+
+1. er godkjend som bustad
+2. er ein sjølvstendig bustad med eigen inngang
+3. har eige bad og toalett og gjev høve til matlaging, og
+4. gjev høve til kvile.
 
 Personar som av helse- eller sosialfaglege årsaker bur i eit bufellesskap utan å høyre til same husstand, kan få bustøtte på individuelt grunnlag dersom kommunen godkjenner at bustaden er eigna. Kommunen kan i vurderinga av om bustaden er eigna gjere unntak frå kvalitetskravet i første ledd bokstav b. Kommunen kan også gjere unntak frå krava i bokstav c dersom funksjonane som er nemnde der, er del av bufellesskapet elles.
 
@@ -142,7 +151,12 @@ Uforfalne krav på bustøtte kan overførast til kommunar som gjev forskot til d
 
 ### § 10. Rett til å krevje for mykje utbetalt bustøtte tilbake
 
-Husbanken kan krevje bustøtta tilbake dersommottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,mottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,Husbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, ellerhusstanden i perioden det er motteke bustøtte for, har hatt inntekt eller formue som i ettertid syner seg å overskride den inntekta eller formuen som var lagd til grunn då støtta blei fastsett. Det gjeld utan omsyn til kven som er skuld i at det er betalt ut for mykje. For mykje utbetalt støtte kan også motreknast i seinare utbetalingar av bustøtte.
+Husbanken kan krevje bustøtta tilbake dersom
+
+1. mottakaren visste eller burde ha visst at han eller ho ikkje har hatt krav på støtte,
+2. mottakaren eller nokon som har handla på vegner av mottakaren, aktlaust har gjeve galne eller mangelfulle opplysningar,
+3. Husbanken eller kommunen har gjort eit mistak og mottakaren burde ha skjøna det, eller
+4. husstanden i perioden det er motteke bustøtte for, har hatt inntekt eller formue som i ettertid syner seg å overskride den inntekta eller formuen som var lagd til grunn då støtta blei fastsett. Det gjeld utan omsyn til kven som er skuld i at det er betalt ut for mykje. For mykje utbetalt støtte kan også motreknast i seinare utbetalingar av bustøtte.
 
 Departementet kan i forskrift gje reglar om tilbakebetaling av bustøtte.
 

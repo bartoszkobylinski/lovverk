@@ -15,7 +15,7 @@ xml_hash: "b8c854f6c34bffcef9e021d28700a9f2274a4abb6f2cfc44155adad309aeb752"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,9 +76,18 @@ Departementet kan gi forskrift om lovens anvendelse for Svalbard og fastsette s�
 
 ## § 7. Beregning av støtte
 
-(1) Støtte beregnes på følgende måte:Maksimal støtte er begrenset oppad til 40 000 kroner per ansatt per støttemåned. For lærlinger er maksimal støtte begrenset oppad til 15 000 kroner per ansatt per støttemåned. Ved lavere omsetningsfall enn 100 prosent avkortes det maksimale støttebeløpet lineært til 4 000 kroner ved 20 prosent omsetningsfall. Lavere omsetningsfall enn 20 prosent gir ikke rett til støtte.Beløpet etter bokstav a skal avkortes med en beregnet stillingsprosent. Stillingsprosenten beregnes ved å dividere opptjent bruttolønn, eksklusiv arbeidsgiveravgift, på produktet av den ansattes timelønn og antallet timer per måned i en fulltidsstilling. Stillingsprosenten kan ikke overstige 100 prosent.Maksimal støtte beregnet etter dette ledd begrenses per ansatt til 80 prosent av summen av opptjent bruttolønn i støttemåneden tillagt arbeidsgiveravgift, fratrukket estimert opptjent bruttolønn som skal dekkes av refusjoner eller tilskudd fra NAV tillagt arbeidsgiveravgift.
+(1) Støtte beregnes på følgende måte:
 
-(2) Samlet støtte til foretaket beregnet etter første ledd begrenses etter følgende regler i den rekkefølgen som fremgår av dette ledd:Dersom foretakets grunnlag for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift for støttemåneden har falt fra referanseperioden, avkortes den totale støtten etter bestemmelser fastsatt av departementet i forskrift.Samlet støtte til foretaket er begrenset oppad til 47 millioner kroner per støttemåned for desember 2021 og januar 2022. For februar 2022 er samlet støtte til foretaket begrenset oppad til 40 millioner kroner. For konsern gjelder grensene i første og annet punktum for den samlede støtten til konsernet.Støtten kan ikke overstige omsetningsfallet i kroner.Foretakets samlede støtte fra offentlige ordninger til lønnskostnader kan ikke overstige foretakets samlede brutto skattepliktige lønnsytelser tillagt arbeidsgiveravgift, for støttemåneden. Overskytende beløp vil komme til fratrekk etter bestemmelser fastsatt av departementet i forskrift.
+1. Maksimal støtte er begrenset oppad til 40 000 kroner per ansatt per støttemåned. For lærlinger er maksimal støtte begrenset oppad til 15 000 kroner per ansatt per støttemåned. Ved lavere omsetningsfall enn 100 prosent avkortes det maksimale støttebeløpet lineært til 4 000 kroner ved 20 prosent omsetningsfall. Lavere omsetningsfall enn 20 prosent gir ikke rett til støtte.
+2. Beløpet etter bokstav a skal avkortes med en beregnet stillingsprosent. Stillingsprosenten beregnes ved å dividere opptjent bruttolønn, eksklusiv arbeidsgiveravgift, på produktet av den ansattes timelønn og antallet timer per måned i en fulltidsstilling. Stillingsprosenten kan ikke overstige 100 prosent.
+3. Maksimal støtte beregnet etter dette ledd begrenses per ansatt til 80 prosent av summen av opptjent bruttolønn i støttemåneden tillagt arbeidsgiveravgift, fratrukket estimert opptjent bruttolønn som skal dekkes av refusjoner eller tilskudd fra NAV tillagt arbeidsgiveravgift.
+
+(2) Samlet støtte til foretaket beregnet etter første ledd begrenses etter følgende regler i den rekkefølgen som fremgår av dette ledd:
+
+1. Dersom foretakets grunnlag for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift for støttemåneden har falt fra referanseperioden, avkortes den totale støtten etter bestemmelser fastsatt av departementet i forskrift.
+2. Samlet støtte til foretaket er begrenset oppad til 47 millioner kroner per støttemåned for desember 2021 og januar 2022. For februar 2022 er samlet støtte til foretaket begrenset oppad til 40 millioner kroner. For konsern gjelder grensene i første og annet punktum for den samlede støtten til konsernet.
+3. Støtten kan ikke overstige omsetningsfallet i kroner.
+4. Foretakets samlede støtte fra offentlige ordninger til lønnskostnader kan ikke overstige foretakets samlede brutto skattepliktige lønnsytelser tillagt arbeidsgiveravgift, for støttemåneden. Overskytende beløp vil komme til fratrekk etter bestemmelser fastsatt av departementet i forskrift.
 
 (3) Departementet kan i forskrift gi nærmere bestemmelser om beregning av støtte og om hva som anses som opptjent bruttolønn.
 

@@ -15,7 +15,7 @@ xml_hash: "a3616841eea007117700ad7e84e3381f8227b2ee57b610765867e509dd312742"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Forskriften gjelder for norsk land- og sjøterritorium, på norske luft- og sjø
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med«Småfe»: sau og geit.«Livdyrsamarbeid»: en avtale mellom driftsansvarlige fra inntil fire anlegg der småfe holdes, som innebærer at småfe kan flyttes mellom anlegg eller holdes på fellesseter hvor småfe melkes.
+I denne forskriften menes med
+
+1. «Småfe»: sau og geit.
+2. «Livdyrsamarbeid»: en avtale mellom driftsansvarlige fra inntil fire anlegg der småfe holdes, som innebærer at småfe kan flyttes mellom anlegg eller holdes på fellesseter hvor småfe melkes.
 
 Definisjonene angitt i [dyrehelseforskriften](forskrift/2022-04-06-631) gjelder tilsvarende i denne forskriften.
 
@@ -68,11 +71,17 @@ Kravene om rengjøring og desinfisering av transportmidler i [§ 4](forskrift/20
 
 ### § 8. Unntak om oppsamling på transportmiddel før forflytning av hov- og klovdyr og fjørfe til EØS-området
 
-Oppsamling av hov- og klovdyr og fjørfe under forflytning til et annet EØS-land kan skje med et transportmiddel som henter holdte hov- og klovdyr eller fjørfe direkte fra opprinnelsesanleggene dersom dyrene ikke lastes av under oppsamlingen og før de ankommerdet endelige bestemmelsesstedet eller anlegget, elleret anlegg som er godkjent til oppsamling.
+Oppsamling av hov- og klovdyr og fjørfe under forflytning til et annet EØS-land kan skje med et transportmiddel som henter holdte hov- og klovdyr eller fjørfe direkte fra opprinnelsesanleggene dersom dyrene ikke lastes av under oppsamlingen og før de ankommer
+
+1. det endelige bestemmelsesstedet eller anlegget, eller
+2. et anlegg som er godkjent til oppsamling.
 
 ### § 9. Transport av dyr fra anlegg med næringsrettet dyrehold
 
-Transportøren skal sikre at dyr fra et anlegg med næringsrettet dyreholdikke transporteres tilbake til anlegget de kommer fra eller til andre anlegg med livdyr når dyrene er lastet på transportmidlet for å transporteres til slakteriet eller er tatt inn på slaktefjøsetoppstalles eller omlastes under transport på et sted som er skilt fra andre dyr, slik at smitte ikke kan overføres.
+Transportøren skal sikre at dyr fra et anlegg med næringsrettet dyrehold
+
+1. ikke transporteres tilbake til anlegget de kommer fra eller til andre anlegg med livdyr når dyrene er lastet på transportmidlet for å transporteres til slakteriet eller er tatt inn på slaktefjøset
+2. oppstalles eller omlastes under transport på et sted som er skilt fra andre dyr, slik at smitte ikke kan overføres.
 
 ### § 10. Påbud om vaksinasjon for duer
 
@@ -86,7 +95,12 @@ Mens smittestatusen undersøkes, skal dyrene isoleres på et sted som på forhå
 
 Mattilsynet kan tillate at dyr som kommer fra et anlegg som ikke er overvåket, isoleres sammen med dyr som er overvåket. Dyrene som holdes sammen regnes da for ikke å være overvåket.
 
-Isolasjonsperioden skal ikke vare lenger enn6 måneder for storfe og dyr av kamelfamilien2 år for småfe2 måneder for svin14 uker for høns, kalkuner, rapphøns, vaktler, fasaner og perlehøns.
+Isolasjonsperioden skal ikke vare lenger enn
+
+1. 6 måneder for storfe og dyr av kamelfamilien
+2. 2 år for småfe
+3. 2 måneder for svin
+4. 14 uker for høns, kalkuner, rapphøns, vaktler, fasaner og perlehøns.
 
 Isolasjonsperioden for storfe og dyr av kamelfamilien skal likevel vare til dyrene er minst 2 ½ år gamle.
 
@@ -96,7 +110,11 @@ Kravet i første ledd gjelder ikke for dyr som kommer fra EØS-stater med frista
 
 ### § 12. Karenstid for storfe, svin og dyr av kamelfamilien ved forflytning i Norge
 
-Med mindre den driftsansvarlige er den samme på begge anleggene skal storfe, svin og dyr av kamelfamilien som flyttes fra ett anlegg i landet til et annet følges av en egenerklæring som bekrefter at alle de følgende vilkårene er oppfylt:Dyr i avsenderanlegget har ikke vist tegn på smittsom sykdom de siste 14 dagene før flytting.Dyret har oppholdt seg mer enn 30 dager i avsenderanlegget før flytting, med unntak av dyr som er født på anlegget.Avsenderanlegget har i løpet av de siste 14 dagene ikke mottatt storfe, svin og dyr fra kamelfamilien fra andre anlegg, fellesbeiter eller dyreansamlinger.
+Med mindre den driftsansvarlige er den samme på begge anleggene skal storfe, svin og dyr av kamelfamilien som flyttes fra ett anlegg i landet til et annet følges av en egenerklæring som bekrefter at alle de følgende vilkårene er oppfylt:
+
+1. Dyr i avsenderanlegget har ikke vist tegn på smittsom sykdom de siste 14 dagene før flytting.
+2. Dyret har oppholdt seg mer enn 30 dager i avsenderanlegget før flytting, med unntak av dyr som er født på anlegget.
+3. Avsenderanlegget har i løpet av de siste 14 dagene ikke mottatt storfe, svin og dyr fra kamelfamilien fra andre anlegg, fellesbeiter eller dyreansamlinger.
 
 Egenerklæringen skal ikke være eldre enn 7 dager.
 
@@ -104,7 +122,10 @@ Første og annet ledd gjelder ikke for dyreansamlinger, registreringspliktige an
 
 Første ledd, bokstav b og c gjelder ikke når dyr av kamelfamilien skal flyttes for bedekning hvis dette skjer smittemessig skilt fra andre dyr på anlegget, og dyrene som flyttes, følges av en veterinærattest. Attesten skal ikke være eldre enn 7 dager og skal bekrefte at dyrene ikke viser tegn på smittsom sykdom.
 
-Første ledd, bokstav c gjelder ikke forpurker innenfor en purkeringsvin fra anlegg som de siste 6 månedene har mottatt dyr fra bare et annet anlegg, og hvor dyrene transporteres direkte fra avsenderen til mottakeren uten å komme i kontakt med dyr fra andre anlegg.
+Første ledd, bokstav c gjelder ikke for
+
+1. purker innenfor en purkering
+2. svin fra anlegg som de siste 6 månedene har mottatt dyr fra bare et annet anlegg, og hvor dyrene transporteres direkte fra avsenderen til mottakeren uten å komme i kontakt med dyr fra andre anlegg.
 
 ### § 13. Vilkår for forflytning av honningbier i Norge
 
@@ -114,7 +135,11 @@ Den driftsansvarlige skal sikre at honningbier, som flyttes fra en bigård i reg
 
 Den driftsansvarlige skal sikre at honningbier, som flyttes fra en bigård i sone B2 som angitt i vedlegg II, til en annen bigård i Norge, kommer fra en bigård der det i løpet av de siste to årene er foretatt en mikroskopisk undersøkelse for trakémiddinfeksjon med negativt resultat. Dersom den driftsansvarlige er driftsansvarlig i flere bigårder i sonen, skal undersøkelsen være foretatt i alle bigårdene.
 
-Varroaundersøkelsen omhandlet i annet ledd skal være foretatt med egnet utstyr på en samleprøve av nedfall fra alle bikubene i bigården. Nedfallet skal være samlet opp ved bruk av dertil beregnet utstyr (diagnosebrett e.l.) og ha en kvalitet som gjør at det kan undersøkes med sikkert resultat. Oppsamlingen av nedfallet skal ha foregått i en sammenhengende periode på minst:6 uker i tiden mellom 15. august og 30. november (naturlig høstnedfall),4 måneder i løpet av bienes innesittingsperiode (naturlig vinternedfall), eller2 uker i tiden mellom 1. april og 30. november etter at honningbiene er blitt behandlet mot varroainfeksjon (provosert nedfall). Diagnosebrettene e.l. skal ha vært installert i kubene i minst to uker regnet fra behandlingsstart.
+Varroaundersøkelsen omhandlet i annet ledd skal være foretatt med egnet utstyr på en samleprøve av nedfall fra alle bikubene i bigården. Nedfallet skal være samlet opp ved bruk av dertil beregnet utstyr (diagnosebrett e.l.) og ha en kvalitet som gjør at det kan undersøkes med sikkert resultat. Oppsamlingen av nedfallet skal ha foregått i en sammenhengende periode på minst:
+
+1. 6 uker i tiden mellom 15. august og 30. november (naturlig høstnedfall),
+2. 4 måneder i løpet av bienes innesittingsperiode (naturlig vinternedfall), eller
+3. 2 uker i tiden mellom 1. april og 30. november etter at honningbiene er blitt behandlet mot varroainfeksjon (provosert nedfall). Diagnosebrettene e.l. skal ha vært installert i kubene i minst to uker regnet fra behandlingsstart.
 
 Trakémiddundersøkelsen omhandlet i tredje ledd skal være foretatt ved et laboratorium utpekt av Mattilsynet på en prøve som består av minst 60 fullt utviklede bier tatt jevnt fordelt fra bikubene i bigården i tiden mellom 1. september og 31. mars. Prøven må i tillegg ha en kvalitet som gjør at den kan undersøkes med sikkert resultat.
 
@@ -130,7 +155,11 @@ For å begrense spredningen av varroainfeksjon i Norge, er det forbudt å overf�
 
 For å forebygge spredningen av trakémiddinfeksjon i Norge, er det forbudt å overføre fullt utviklede honningbier (imago) fra sone B1 som angitt i vedlegg II, til andre deler av landet.
 
-Unntatt fra forbudet i første ledd er overføring av bidronninger på følgende vilkår:Før avsendelse skal bidronningene være visuelt undersøkt under stereolupe i et bifritt rom og funnet fri for varroainfeksjon.Bidronningene skal sendes til mottakeren i lukkede bur som hvert inneholder én enkelt bidronning og maksimum 20 følgebier. Følgebiene skal komme fra en bigård mottakerregionen som har gjennomgått alle undersøkelsene i [§ 13](forskrift/2022-04-07-636/§13).Ved ankomst til mottakeren skal følgebiene destrueres og bidronningene undersøkes visuelt for varroamidd. Bidronningene kan bare innføres i mottakerbigården dersom resultatet av undersøkelsen er negativt.
+Unntatt fra forbudet i første ledd er overføring av bidronninger på følgende vilkår:
+
+1. Før avsendelse skal bidronningene være visuelt undersøkt under stereolupe i et bifritt rom og funnet fri for varroainfeksjon.
+2. Bidronningene skal sendes til mottakeren i lukkede bur som hvert inneholder én enkelt bidronning og maksimum 20 følgebier. Følgebiene skal komme fra en bigård mottakerregionen som har gjennomgått alle undersøkelsene i [§ 13](forskrift/2022-04-07-636/§13).
+3. Ved ankomst til mottakeren skal følgebiene destrueres og bidronningene undersøkes visuelt for varroamidd. Bidronningene kan bare innføres i mottakerbigården dersom resultatet av undersøkelsen er negativt.
 
 Unntatt fra forbudet i første ledd er overføring av brukt bikubemateriell som ikke har vært i kontakt med bier de siste 10 døgn.
 
@@ -140,7 +169,11 @@ Dyr i sirkus skal ikke ha kontakt med dyr utenfor sirkuset. Dyr fra dyrehager og
 
 Utenom framvisningssesongen kan dyr fra sirkus, dyrehage og besøksgårder flyttes til andre oppholdssteder, der de ikke har kontakt med andre dyr. Dette skal meldes til Mattilsynet. Hunder og katter fra sirkus og besøksgårder, og hester fra besøksgårder, kan likevel ha kontakt med andre dyrehold. For hunder og katter fra sirkus gjelder dette bare utenom framvisningssesongen.
 
-Dyr i institusjoner for forsking og diagnostikk kan ikke flyttes tilbake til opprinnelsesanlegget eller til andre dyrehold. Dette gjelder ikke forhesterkjæledyrdyr som er oppstallet under særskilte smittebeskyttelsestiltak.
+Dyr i institusjoner for forsking og diagnostikk kan ikke flyttes tilbake til opprinnelsesanlegget eller til andre dyrehold. Dette gjelder ikke for
+
+1. hester
+2. kjæledyr
+3. dyr som er oppstallet under særskilte smittebeskyttelsestiltak.
 
 Lokaler som blir brukt til å oppstalle dyr under særskilte smittebeskyttelsestiltak som nevnt i tredje ledd bokstav c, skal være godkjent av Mattilsynet. Institusjonene skal ha en smittevernplan for oppstallingen. Smittevernplanen skal legges fram for Mattilsynet når Mattilsynet ber om det.
 
@@ -162,17 +195,37 @@ Annet og tredje ledd gjelder ikke dersom det er gitt tillatelse til å isolere s
 
 Med mindre den driftsansvarlige er den samme på begge anleggene kan hunndyr av småfe ikke flyttes mellom anlegg med småfe. Mattilsynet kan likevel gi tillatelse til slik forflytning etter søknad fra driftsansvarlig i mottakeranlegget.
 
-Småfe kan ikke flyttesmellom småferegionene som er fastsatt i vedlegg IVut av Nordlandut av området som består av Rogaland og kommunene Sveio og Etne i Vestland.
+Småfe kan ikke flyttes
 
-Som unntak fra annet ledd kan Mattilsynet etter søknad gi tillatelse til at:småfe flyttes fra områdene nevnt i annet ledd til utmarksbeiter for inntil 10 år.avlsdyr flyttes fra følgende steder dersom det er nødvendig for å opprettholde bevaringsverdige raser og andre raser med få dyr i en region:småferegion 1 unntatt Nordlandsmåferegion 4Agder.
+1. mellom småferegionene som er fastsatt i vedlegg IV
+2. ut av Nordland
+3. ut av området som består av Rogaland og kommunene Sveio og Etne i Vestland.
+
+Som unntak fra annet ledd kan Mattilsynet etter søknad gi tillatelse til at:
+
+1. småfe flyttes fra områdene nevnt i annet ledd til utmarksbeiter for inntil 10 år.
+2. avlsdyr flyttes fra følgende steder dersom det er nødvendig for å opprettholde bevaringsverdige raser og andre raser med få dyr i en region:
+
+   1. småferegion 1 unntatt Nordland
+   2. småferegion 4
+   3. Agder.
 
 ### § 18. Tilleggsdokumentasjon ved forflytning av geiter i Norge
 
 Med mindre den driftsansvarlige er den samme på begge anleggene skal geiter som flyttes til et annet eller nytt anlegg med småfe følges av en egenerklæring fra den driftsansvarlige og en attest fra en veterinær.
 
-Egenerklæringen nevnt i første ledd skal bekrefte at:småfe på avsenderanlegget minst er i TSE-klasse 3 i henhold til vedlegg IIIdet ikke er mistanke om klassisk skrapesjuke, paratuberkulose, mædi, CAE, byllesjuke eller fotråte hos småfe i avsenderanleggetdet ikke er mistanke om Psoroptes ovis hos geiter i avsenderanlegget.
+Egenerklæringen nevnt i første ledd skal bekrefte at:
 
-Attesten fra veterinær nevnt i første ledd skal bekrefte at:en veterinær har gjennomført en klinisk undersøkelse av dyrene som skal flyttesat dyrene ikke har tegn på smittsomme dyresykdommerat det ikke er mistanke om smittsomme dyresykdommer i anleggetat testene i vedlegg V er tatt med negativt resultat.
+1. småfe på avsenderanlegget minst er i TSE-klasse 3 i henhold til vedlegg III
+2. det ikke er mistanke om klassisk skrapesjuke, paratuberkulose, mædi, CAE, byllesjuke eller fotråte hos småfe i avsenderanlegget
+3. det ikke er mistanke om Psoroptes ovis hos geiter i avsenderanlegget.
+
+Attesten fra veterinær nevnt i første ledd skal bekrefte at:
+
+1. en veterinær har gjennomført en klinisk undersøkelse av dyrene som skal flyttes
+2. at dyrene ikke har tegn på smittsomme dyresykdommer
+3. at det ikke er mistanke om smittsomme dyresykdommer i anlegget
+4. at testene i vedlegg V er tatt med negativt resultat.
 
 Når geiter som flyttes kommer fra anlegg i et livdyrsamarbeid skal egenerklæringen og attesten bekrefte helsestatusen i alle anleggene i livdyrsamarbeidet. Testene angitt i vedlegg V baseres på antall dyr i hvert anlegg i livdyrsamarbeidet.
 
@@ -180,9 +233,21 @@ Egenerklæringen og attestene i denne bestemmelsen skal ikke være eldre enn 7 d
 
 ### § 19. Tilleggsdokumentasjon ved forflytning av sauer i Norge
 
-Med mindre den driftsansvarlige er den samme på begge anleggene skal sauer som flyttes til et annet eller nytt anlegg med småfe følges av en egenerklæring som bekrefter at:småfe på avsenderanlegget minst er i TSE-klasse 3 i henhold til vedlegg IIIdet ikke er mistanke om klassisk skrapesjuke, paratuberkulose, mædi, CAE, byllesjuke eller fotråte hos småfe i avsenderanlegget.Hunndyr av sau skal også følges av dokumentasjon som bekrefter at testene i vedlegg V for lentivirus er tatt med negativt resultat.
+Med mindre den driftsansvarlige er den samme på begge anleggene skal sauer som flyttes til et annet eller nytt anlegg med småfe følges av en egenerklæring som bekrefter at:
 
-Med mindre den driftsansvarlige er den samme på begge anleggene skal sauer som flyttes over fylkesgrenser til et annet eller nytt anlegg med småfe også følges av en attest fra en veterinær. Attesten skal bekrefte at:en veterinær har gjennomført en klinisk undersøkelse av dyrene som skal flyttesat dyrene ikke har tegn på smittsomme dyresykdommerat det ikke er mistanke om smittsomme dyresykdommer i anleggetat testene i vedlegg V er tatt med negativt resultat.Kravet om attest fra veterinær gjelder likevel ikke for sauer som flyttes mellom Oslo og tidligere Akershus i Viken og mellom Rogaland og kommunene Sveio eller Etne i Vestland.
+1. småfe på avsenderanlegget minst er i TSE-klasse 3 i henhold til vedlegg III
+2. det ikke er mistanke om klassisk skrapesjuke, paratuberkulose, mædi, CAE, byllesjuke eller fotråte hos småfe i avsenderanlegget.
+
+Hunndyr av sau skal også følges av dokumentasjon som bekrefter at testene i vedlegg V for lentivirus er tatt med negativt resultat.
+
+Med mindre den driftsansvarlige er den samme på begge anleggene skal sauer som flyttes over fylkesgrenser til et annet eller nytt anlegg med småfe også følges av en attest fra en veterinær. Attesten skal bekrefte at:
+
+1. en veterinær har gjennomført en klinisk undersøkelse av dyrene som skal flyttes
+2. at dyrene ikke har tegn på smittsomme dyresykdommer
+3. at det ikke er mistanke om smittsomme dyresykdommer i anlegget
+4. at testene i vedlegg V er tatt med negativt resultat.
+
+Kravet om attest fra veterinær gjelder likevel ikke for sauer som flyttes mellom Oslo og tidligere Akershus i Viken og mellom Rogaland og kommunene Sveio eller Etne i Vestland.
 
 Når sauer som flyttes kommer fra anlegg i livdyrsamarbeid skal egenerklæringen og attesten bekrefte helsestatusen i alle anleggene i livdyrsamarbeidet. Testene angitt i vedlegg V baseres på antall dyr i hvert anlegg i livdyrsamarbeidet.
 
@@ -190,7 +255,11 @@ Egenerklæringen og attestene i denne bestemmelsen skal ikke være eldre enn 7 d
 
 ### § 20. Unntak for visse forflytninger av småfe
 
-[§ 16](forskrift/2022-04-07-636/§16) annet ledd, [§ 17](forskrift/2022-04-07-636/§17), [§ 18](forskrift/2022-04-07-636/§18) og [§ 19](forskrift/2022-04-07-636/§19) gjelder ikke når dyr flyttestil slakterierfra sted til sted i sirkustil institusjoner for forskning og diagnostikk med lokaler godkjent etter [§ 15](forskrift/2022-04-07-636/§15).
+[§ 16](forskrift/2022-04-07-636/§16) annet ledd, [§ 17](forskrift/2022-04-07-636/§17), [§ 18](forskrift/2022-04-07-636/§18) og [§ 19](forskrift/2022-04-07-636/§19) gjelder ikke når dyr flyttes
+
+1. til slakterier
+2. fra sted til sted i sirkus
+3. til institusjoner for forskning og diagnostikk med lokaler godkjent etter [§ 15](forskrift/2022-04-07-636/§15).
 
 [§ 17](forskrift/2022-04-07-636/§17), [§ 18](forskrift/2022-04-07-636/§18) og [§ 19](forskrift/2022-04-07-636/§19) gjelder ikke når dyr flyttes til avlsstasjoner.
 
@@ -204,7 +273,19 @@ Egenerklæringen og attestene i denne bestemmelsen skal ikke være eldre enn 7 d
 
 Hunndyr av småfe kan flyttes innenfor et livdyrsamarbeid uten særskilt tillatelse fra Mattilsynet etter [§ 17](forskrift/2022-04-07-636/§17) første ledd. Småfe kan flyttes innenfor et livdyrsamarbeid uten tilleggsdokumentasjon etter [§ 18](forskrift/2022-04-07-636/§18) og [§ 19](forskrift/2022-04-07-636/§19).
 
-Første ledd gjelder bare dersomlivdyrsamarbeidet er meldt til Mattilsynet før dyret flyttes med følgende opplysninger:den skriftlige samarbeidsavtalenIdentiteten til alle driftsansvarlige i livdyrsamarbeidetRegistreringsnummeret til anleggene som inngår i livdyrsamarbeidetEn egenerklæring som bekrefter tilsvarende som i [§ 18](forskrift/2022-04-07-636/§18) annet ledd eller [§ 19](forskrift/2022-04-07-636/§19) første ledd.småfe som holdes i anleggene ikke inngår i flere enn ett livdyrsamarbeidanleggene i livdyrsamarbeidet ikke har inngått i andre livdyrsamarbeid med småfe siste 12 månedersmåfe som holdes i anleggene som inngår i livdyrsamarbeidet er testet for lentivirus med negativt resultat i henhold til vedlegg V før livdyrsamarbeidet inngåsdet ikke tas inn hunndyr av småfe fra anlegg utenfor livdyrsamarbeidet så lenge livdyrsamarbeidet pågårlivdyrsamarbeidet ikke går på tvers av fylkesgrenser. Dette vilkåret gjelder ikke grensen mellom Oslo fylke og tidligere Akershus fylke i Viken og mellom Rogaland fylke og kommunene Sveio og Etne i Vestland.
+Første ledd gjelder bare dersom
+
+1. livdyrsamarbeidet er meldt til Mattilsynet før dyret flyttes med følgende opplysninger:
+
+   1. den skriftlige samarbeidsavtalen
+   2. Identiteten til alle driftsansvarlige i livdyrsamarbeidet
+   3. Registreringsnummeret til anleggene som inngår i livdyrsamarbeidet
+   4. En egenerklæring som bekrefter tilsvarende som i [§ 18](forskrift/2022-04-07-636/§18) annet ledd eller [§ 19](forskrift/2022-04-07-636/§19) første ledd.
+2. småfe som holdes i anleggene ikke inngår i flere enn ett livdyrsamarbeid
+3. anleggene i livdyrsamarbeidet ikke har inngått i andre livdyrsamarbeid med småfe siste 12 måneder
+4. småfe som holdes i anleggene som inngår i livdyrsamarbeidet er testet for lentivirus med negativt resultat i henhold til vedlegg V før livdyrsamarbeidet inngås
+5. det ikke tas inn hunndyr av småfe fra anlegg utenfor livdyrsamarbeidet så lenge livdyrsamarbeidet pågår
+6. livdyrsamarbeidet ikke går på tvers av fylkesgrenser. Dette vilkåret gjelder ikke grensen mellom Oslo fylke og tidligere Akershus fylke i Viken og mellom Rogaland fylke og kommunene Sveio og Etne i Vestland.
 
 Meldingen etter annet ledd, bokstav a er gyldig i 2 år. Egenerklæringen nevnt i annet ledd bokstav a må fornyes hvert år innen 1. januar.
 
@@ -214,7 +295,11 @@ Livdyr kan bare flyttes ut av livdyrsamarbeidet dersom alle anleggene i samarbei
 
 ### § 22. Utsetting av fjørfe som fuglevilt
 
-Rugeegg til produksjon av fjørfe som skal settes ut som fuglevilt og fjørfe som skal settes ut som fuglevilt skal komme fra et godkjent eller sertifisert anlegg eller fra et registrert anlegg der minst følgende biosikkerhetstiltak blir truffet:Fuglene blir fôret og vannet under tak.Besøkende bærer overtrekkstøy og personalet bærer egnet arbeidstøy og opptrer i samsvar med hygieneregler utarbeidet av den driftsansvarlige.Fuglene holdes i rom eller innhegninger som forhindrer fuglene fra å komme i direkte kontakt med ville dyr og blir tømt for fugler minst en gang i året. I tomperioden skal rommene eller innhegningene, samt utstyr som blir brukt der, rengjøres og desinfiseres.
+Rugeegg til produksjon av fjørfe som skal settes ut som fuglevilt og fjørfe som skal settes ut som fuglevilt skal komme fra et godkjent eller sertifisert anlegg eller fra et registrert anlegg der minst følgende biosikkerhetstiltak blir truffet:
+
+1. Fuglene blir fôret og vannet under tak.
+2. Besøkende bærer overtrekkstøy og personalet bærer egnet arbeidstøy og opptrer i samsvar med hygieneregler utarbeidet av den driftsansvarlige.
+3. Fuglene holdes i rom eller innhegninger som forhindrer fuglene fra å komme i direkte kontakt med ville dyr og blir tømt for fugler minst en gang i året. I tomperioden skal rommene eller innhegningene, samt utstyr som blir brukt der, rengjøres og desinfiseres.
 
 ## Kapittel IV. Utfyllende nasjonale bestemmelser – unntak ved forflytning av dyr til Norge
 
@@ -246,7 +331,15 @@ Unntaket i denne bestemmelsen gir ikke unntak fra begrensninger i CWD-regelverke
 
 ### § 26. Unntak fra krav om helsesertifikat for hester ved forflytting mellom Norge og Danmark, Sverige, Finland eller Estland for deltakelse i arrangementer med hest
 
-Registrerte hester som midlertidig flyttes mellom Norge og Danmark, Sverige, Finland eller Estland for å delta i arrangementer med hest kan flyttes uten helsesertifikat i henhold til forordning [(EU) 2020/688](eu/32020r0688) artikkel 69 forutsatt at:Hesten oppfyller generelle helsekrav til forflytning innen EØS-området gitt i [dyrehelseforskriften § 4](forskrift/2022-04-06-631/§4), jf. forordning [(EU) 2016/429](eu/32016r0429) artiklene 124–127, samt [§ 4](forskrift/2022-04-06-631/§4) av denne forskrift, jf. forordning [(EU) 2020/688](eu/32020r0688) artikkel 22.Hesten kommer fra et opprinnelsesland der ingen kategori D-sykdommer som kan smitte hester er påvist hos hester de siste 36 månedene, med unntak av virusarteritt og smittsom metritt.Hesten skal returnere til opprinnelseslandet eller anlegget der hesten vanligvis holdes i Norge innen 10 dager etter avreise.Hesten skal under hele forflytningen ledsages av:egenerklæring i form av et utfylt DOCOM-sertifikat fra TRACEShestepass.
+Registrerte hester som midlertidig flyttes mellom Norge og Danmark, Sverige, Finland eller Estland for å delta i arrangementer med hest kan flyttes uten helsesertifikat i henhold til forordning [(EU) 2020/688](eu/32020r0688) artikkel 69 forutsatt at:
+
+1. Hesten oppfyller generelle helsekrav til forflytning innen EØS-området gitt i [dyrehelseforskriften § 4](forskrift/2022-04-06-631/§4), jf. forordning [(EU) 2016/429](eu/32016r0429) artiklene 124–127, samt [§ 4](forskrift/2022-04-06-631/§4) av denne forskrift, jf. forordning [(EU) 2020/688](eu/32020r0688) artikkel 22.
+2. Hesten kommer fra et opprinnelsesland der ingen kategori D-sykdommer som kan smitte hester er påvist hos hester de siste 36 månedene, med unntak av virusarteritt og smittsom metritt.
+3. Hesten skal returnere til opprinnelseslandet eller anlegget der hesten vanligvis holdes i Norge innen 10 dager etter avreise.
+4. Hesten skal under hele forflytningen ledsages av:
+
+   - egenerklæring i form av et utfylt DOCOM-sertifikat fra TRACES
+   - hestepass.
 
 Transportør av hesten skal til enhver tid under forflytningen kunne fremlegge dokumentene angitt i første ledd bokstav d) for Mattilsynet eller Tolletaten.
 
@@ -260,7 +353,12 @@ Arrangementer med hest i denne bestemmelsen defineres som utstillinger, sports- 
 
 Hester kan flyttes mellom Norge og Sverige uten helsesertifikat og uten forhåndsmelding, i forbindelse med deltakelse i aktiviteter i nærheten av grensen. Aktiviteter som gjelder for unntaket er rekreasjon, utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer, beiting på fast sted og arbeid. Områdene i Norge og Sverige som anses for å være i nærheten av grensen følger av [vedlegg VI](forskrift/2022-04-07-636/vedleggVI).
 
-For at unntaket i første ledd skal gjelde må:driftsansvarlig fylle ut egenerklæringsdokumentet samme dag som hesten flyttes fra opprinnelsesanlegget.hesten ha vært i opprinnelsesanlegget uten kontakt med hester med lavere helsestatus de siste 15 dagene før forflytning.hesten ikke ha kontakt med hester med lavere helsestatus under forflytningen.hesten returneres til opprinnelseslandet innen 10 dager fra riksgrensen ble krysset for første gang under reisen, eller innen 30 dager fra kyssingen av riksgrensen der beiting på fast sted var formålet med forflytningen.
+For at unntaket i første ledd skal gjelde må:
+
+1. driftsansvarlig fylle ut egenerklæringsdokumentet samme dag som hesten flyttes fra opprinnelsesanlegget.
+2. hesten ha vært i opprinnelsesanlegget uten kontakt med hester med lavere helsestatus de siste 15 dagene før forflytning.
+3. hesten ikke ha kontakt med hester med lavere helsestatus under forflytningen.
+4. hesten returneres til opprinnelseslandet innen 10 dager fra riksgrensen ble krysset for første gang under reisen, eller innen 30 dager fra kyssingen av riksgrensen der beiting på fast sted var formålet med forflytningen.
 
 På vei til aktiviteten i Norge er det også unntak fra kravet om å flytte hesten direkte til bestemmelsesstedet dersom hesten ikke flyttes på transportmiddel.
 
@@ -345,8 +443,25 @@ Småfe i nyetablerte anlegg med småfe tilhører samme TSE-klasse som dyrene på
 
 ## Vedlegg V. Krav til testing av småfe etter [§ 18](forskrift/2022-04-07-636/§18) og [§ 19](forskrift/2022-04-07-636/§19)
 
-1. *Lentivirustesting* av anlegg med småfe er foretatt med negativt resultat under følgende forutsetninger:Prøveresultat fra tankmelk og samleprøver av individuelle melkeprøver, skal ikke være eldre enn 12 måneder, og resultat fra blodprøver skal ikke være eldre enn 36 måneder. Fra sau skal det tas individuelle blodprøver. Prøveuttaket skal være representativt for anlegget, jf. tabell nedenfor.Det skal ikke være tatt inn hunndyr av småfe de siste 10 måneder før prøveuttaket. Kravet gjelder ikke dersom avsenderanlegget kun har mottatt dyr fra anlegg der dyr er testet for lentivirus i henhold til punkt A.1.Blodprøver av småfe for undersøkelse av antistoffer mot lentivirus, skal være tatt ut i samsvar med følgende tabell:*Antall vinterfôra dyr i anlegget**Antall prøver per anlegg*Inntil 99Alle over 1 år100 eller flere100Dyrene som prøvetas skal være blant de eldste dyrene, men samtidig være et representativt utvalg av dyr i anlegget som inkluderer eventuelle værer/bukker og innkjøpte dyr. Prøver av dyr som ikke er født på anlegget skal likevel ikke utgjøre mer enn halvparten av dyrene som prøvetas.For at tankmelk- eller samleprøve av individuelle melkeprøver skal kunne erstatte individuelle blodprøver hos geit, må anlegget bestå av minst 10 dyr over 12 måneders alder og minst 80 % av de voksne dyrene må være representert i prøveuttaket.
-2. *Paratuberkulosetesting* av avsenderanlegget med geit og med kombinert sau og geit fra fylkene Møre- og Romsdal, Vestland og Rogaland, samt tidligere Telemark i Vestfold og Telemark og tidligere Buskerud i Viken er foretatt med negativt resultat under følgende forutsetninger:Blodprøver fra alle geiter i anlegget over 1,5 år skal være testa serologisk med negativt resultat. Prøveresultatene skal ikke være eldre enn 36 måneder. Tankmelk kan brukes i stedet for individuelle blodprøver dersom det gir like sikre prøveresultater. Avføringsprøver for PCR-undersøkelse av alle dyr over 1 år kan erstatte nevnte prøver.Dersom avsenderanlegget har kjøpt inn geit eller småfe i anlegget har hatt annen kontakt med geiter fra et anlegg med småfe med ukjent paratuberkulosestatus, skal prøveuttaket foretas tidligst 3 år etter siste livdyrkjøp eller kontakt. Dette kravet gjelder ikke dersom avsenderanlegget bare har kjøpt inn dyr eller hatt kontakt med dyr fra anlegg der dyr er testet for paratuberkulose i henhold til punkt B. 1, eller kommer fra andre fylker enn de som er nevnt i pkt. B.
+1. *Lentivirustesting* av anlegg med småfe er foretatt med negativt resultat under følgende forutsetninger:
+
+   1. Prøveresultat fra tankmelk og samleprøver av individuelle melkeprøver, skal ikke være eldre enn 12 måneder, og resultat fra blodprøver skal ikke være eldre enn 36 måneder. Fra sau skal det tas individuelle blodprøver. Prøveuttaket skal være representativt for anlegget, jf. tabell nedenfor.
+   2. Det skal ikke være tatt inn hunndyr av småfe de siste 10 måneder før prøveuttaket. Kravet gjelder ikke dersom avsenderanlegget kun har mottatt dyr fra anlegg der dyr er testet for lentivirus i henhold til punkt A.1.
+
+   Blodprøver av småfe for undersøkelse av antistoffer mot lentivirus, skal være tatt ut i samsvar med følgende tabell:
+
+   | *Antall vinterfôra dyr i anlegget* | *Antall prøver per anlegg* |
+   | --- | --- |
+   | Inntil 99 | Alle over 1 år |
+   | 100 eller flere | 100 |
+
+   Dyrene som prøvetas skal være blant de eldste dyrene, men samtidig være et representativt utvalg av dyr i anlegget som inkluderer eventuelle værer/bukker og innkjøpte dyr. Prøver av dyr som ikke er født på anlegget skal likevel ikke utgjøre mer enn halvparten av dyrene som prøvetas.
+
+   For at tankmelk- eller samleprøve av individuelle melkeprøver skal kunne erstatte individuelle blodprøver hos geit, må anlegget bestå av minst 10 dyr over 12 måneders alder og minst 80 % av de voksne dyrene må være representert i prøveuttaket.
+2. *Paratuberkulosetesting* av avsenderanlegget med geit og med kombinert sau og geit fra fylkene Møre- og Romsdal, Vestland og Rogaland, samt tidligere Telemark i Vestfold og Telemark og tidligere Buskerud i Viken er foretatt med negativt resultat under følgende forutsetninger:
+
+   1. Blodprøver fra alle geiter i anlegget over 1,5 år skal være testa serologisk med negativt resultat. Prøveresultatene skal ikke være eldre enn 36 måneder. Tankmelk kan brukes i stedet for individuelle blodprøver dersom det gir like sikre prøveresultater. Avføringsprøver for PCR-undersøkelse av alle dyr over 1 år kan erstatte nevnte prøver.
+   2. Dersom avsenderanlegget har kjøpt inn geit eller småfe i anlegget har hatt annen kontakt med geiter fra et anlegg med småfe med ukjent paratuberkulosestatus, skal prøveuttaket foretas tidligst 3 år etter siste livdyrkjøp eller kontakt. Dette kravet gjelder ikke dersom avsenderanlegget bare har kjøpt inn dyr eller hatt kontakt med dyr fra anlegg der dyr er testet for paratuberkulose i henhold til punkt B. 1, eller kommer fra andre fylker enn de som er nevnt i pkt. B.
 
 ## Vedlegg VI. Områdene i Norge og Sverige som anses for å være i nærheten av grensen etter [§ 26A](forskrift/2022-04-07-636/§26a)
 
@@ -467,13 +582,58 @@ Ved denne forordningen utfylles reglene for forebygging og bekjempelse av dyresy
 
 ### Artikkel 2. Virkeområde
 
-1\. Denne forordningen får anvendelse påholdte og viltlevende landdyr og rugeegg,anlegg der disse dyrene og rugeeggene holdes eller gjennomgår oppsamling,driftsansvarlige som holder disse dyrene og rugeeggene,driftsansvarlige som transporterer landdyr og rugeegg,vedkommende myndigheter i medlemsstatene.
+1\. Denne forordningen får anvendelse på
+
+1. holdte og viltlevende landdyr og rugeegg,
+2. anlegg der disse dyrene og rugeeggene holdes eller gjennomgår oppsamling,
+3. driftsansvarlige som holder disse dyrene og rugeeggene,
+4. driftsansvarlige som transporterer landdyr og rugeegg,
+5. vedkommende myndigheter i medlemsstatene.
 
 2\. Del II får bare anvendelse på forflytning av holdte landdyr og rugeegg som finner sted mellom medlemsstater, med unntak av artikkel 4–6 og artikkel 63, som dessuten får anvendelse på forflytning av holdte landdyr og rugeegg innenfor en medlemsstat.
 
 ### Artikkel 3. Definisjoner
 
-I denne forordningen menes med«transportmiddel» vei- eller skinnegående kjøretøy, fartøy og luftfartøy,«container» en kasse, boks, beholder eller en annen stiv konstruksjon som brukes til transport av dyr eller egg, men som ikke er et transportmiddel,«produksjonsanlegg som er isolert fra det omgivende miljøet» et anlegg hvis konstruksjon sammen med strenge biosikkerhetstiltak sikrer effektiv isolasjon av dyreproduksjonen fra de tilhørende fasilitetene og fra det omgivende miljøet,«storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison*, *Bos* (herunder underslektene *Bos*, *Bibos*, *Novibos*, *Poephagus*) og *Bubalus* (herunder underslekten *Anoa*) og avkom framkommet ved kryssing av disse,«anlegg som er fritt for 'sykdom'» et anlegg som er tildelt sykdomsfri status i samsvar med kravene fastsatt i delegert forordning [(EU) 2020/689](eu/32020r0689),«status som fri for 'sykdom'» sykdomsfri status for en medlemsstat eller en sone i denne som er godkjent av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) 2016/429](eu/32016r0429),«det er ikke rapportert om 'sykdom'» at ingen dyr eller grupper av dyr av relevante arter som holdes i anlegget, er blitt klassifisert som et bekreftet tilfelle av sykdommen, og alle mistenkte tilfeller av denne sykdommen er blitt utelukket,«'dyr' beregnet på slakting» holdte landdyr som skal transporteres, enten direkte eller etter å ha gjennomgått oppsamling, til et slakteri,«godkjent karanteneanlegg» et anlegg som har fått godkjenning i samsvar med artikkel 14 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«godkjent utryddelsesprogram» et program for utryddelse av sykdom som gjennomføres i en medlemsstat eller en sone i denne som er godkjent av Kommisjonen i samsvar med artikkel 31 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429),«sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis* og avkom framkommet ved kryssing av disse,«geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra* og avkom framkommet ved kryssing av disse,«svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),«hestedyr» dyr av artene av enhovede dyr som tilhører slekten *Equus* (herunder hester, esler og sebraer) og avkom framkommet ved kryssing av disse,«dyr av kamelfamilien» dyr av artene av hov- og klovdyr som tilhører familien *Camelidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),«hjortedyr» dyr av artene av hov- og klovdyr som tilhører familien *Cervidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),«andre holdte hov- og klovdyr» andre holdte hov- og klovdyr enn storfe, sau, geit, svin, hestedyr, dyr av kamelfamilien og hjortedyr,«vektorbeskyttet anlegg» en del av eller alle fasiliteter i et anlegg som er beskyttet mot angrep fra *Culicoides* ved hjelp av passende fysiske og driftsmessige tiltak, med status som vektorbeskyttet anlegg som er tildelt av vedkommende myndighet i samsvar med artikkel 44 i delegert forordning [(EU) 2020/689](eu/32020r0689),«vektorfri sesong» et tidsrom i et bestemt område når *Culicoides* er inaktive, fastsatt i samsvar med del II kapittel 1 avsnitt 5 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),«avlsfjørfe» fjørfe som er 72 timer gamle eller eldre, og som er beregnet på produksjon av rugeegg,«produksjonsfjørfe» fjørfe som er 72 timer gamle eller eldre, og som er oppdrettet med sikte på produksjon av kjøtt, egg til konsum eller andre produkter for å gjenoppbygge fugleviltbestanden,«flokk» alt fjørfe eller alle fugler i fangenskap med samme helsestatus som holdes i samme lokale eller samme innhegning, og som utgjør en epidemiologisk enhet; for fjørfe som holdes innendørs, omfatter dette alle fugler som deler samme luftrom,«daggamle kyllinger» alt fjørfe som er yngre enn 72 timer,«egg som er fri for spesifiserte patogener» rugeegg som stammer fra kyllingflokker som er fri for spesifiserte patogener, som beskrevet i Den europeiske farmakopé16, og som utelukkende er beregnet på diagnostikk, forskning eller farmasøytisk bruk,«registrert hestedyr»et renraset avlsdyr av arten *Equus caballus* og *Equus asinus* som er innført eller er berettiget til å bli innført i hovedavsnittet i en stambok opprettet av et avlslag eller et avlsorgan som er godkjent i samsvar med artikkel 4 eller 34 i forordning (EU) 2016/1012,et holdt dyr av arten *Equus caballus* som er registrert hos en internasjonal sammenslutning eller organisasjon, enten direkte eller gjennom nasjonale forbund eller avdelinger, som administrerer konkurranse- eller løpshester («registrert hest»),«primater» dyr av arter som tilhører ordenen primater, unntatt mennesker,«honningbie» et dyr av arten *Apis mellifera*,«humle» dyr av artene som tilhører slekten *Bombus,*«hund» et holdt dyr av arten *Canis lupus*,«katt» et holdt dyr av arten *Felis silvestris*,«ilder» et holdt dyr av arten *Mustela putorius furo*,«andre kjøttetere» dyr av andre arter som tilhører ordenen *Carnivora* enn hunder, katter og ildrer,«omreisende sirkus» en utstilling eller et marked som inneholder dyr eller dyreforestillinger som etter planen skal flyttes mellom medlemsstater,«dyreforestilling» en forestilling med dyr som holdes for en utstilling eller et marked, og som kan være en del av et sirkus,«brevdue» due som transporteres eller er beregnet på transport fra sitt duehus til en annen medlemsstat for å bli sluppet løs slik at den kan fly tilbake til opprinnelsesmedlemsstaten.
+I denne forordningen menes med
+
+1. «transportmiddel» vei- eller skinnegående kjøretøy, fartøy og luftfartøy,
+2. «container» en kasse, boks, beholder eller en annen stiv konstruksjon som brukes til transport av dyr eller egg, men som ikke er et transportmiddel,
+3. «produksjonsanlegg som er isolert fra det omgivende miljøet» et anlegg hvis konstruksjon sammen med strenge biosikkerhetstiltak sikrer effektiv isolasjon av dyreproduksjonen fra de tilhørende fasilitetene og fra det omgivende miljøet,
+4. «storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison*, *Bos* (herunder underslektene *Bos*, *Bibos*, *Novibos*, *Poephagus*) og *Bubalus* (herunder underslekten *Anoa*) og avkom framkommet ved kryssing av disse,
+5. «anlegg som er fritt for 'sykdom'» et anlegg som er tildelt sykdomsfri status i samsvar med kravene fastsatt i delegert forordning [(EU) 2020/689](eu/32020r0689),
+6. «status som fri for 'sykdom'» sykdomsfri status for en medlemsstat eller en sone i denne som er godkjent av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) 2016/429](eu/32016r0429),
+7. «det er ikke rapportert om 'sykdom'» at ingen dyr eller grupper av dyr av relevante arter som holdes i anlegget, er blitt klassifisert som et bekreftet tilfelle av sykdommen, og alle mistenkte tilfeller av denne sykdommen er blitt utelukket,
+8. «'dyr' beregnet på slakting» holdte landdyr som skal transporteres, enten direkte eller etter å ha gjennomgått oppsamling, til et slakteri,
+9. «godkjent karanteneanlegg» et anlegg som har fått godkjenning i samsvar med artikkel 14 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+10. «godkjent utryddelsesprogram» et program for utryddelse av sykdom som gjennomføres i en medlemsstat eller en sone i denne som er godkjent av Kommisjonen i samsvar med artikkel 31 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429),
+11. «sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis* og avkom framkommet ved kryssing av disse,
+12. «geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra* og avkom framkommet ved kryssing av disse,
+13. «svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),
+14. «hestedyr» dyr av artene av enhovede dyr som tilhører slekten *Equus* (herunder hester, esler og sebraer) og avkom framkommet ved kryssing av disse,
+15. «dyr av kamelfamilien» dyr av artene av hov- og klovdyr som tilhører familien *Camelidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),
+16. «hjortedyr» dyr av artene av hov- og klovdyr som tilhører familien *Cervidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),
+17. «andre holdte hov- og klovdyr» andre holdte hov- og klovdyr enn storfe, sau, geit, svin, hestedyr, dyr av kamelfamilien og hjortedyr,
+18. «vektorbeskyttet anlegg» en del av eller alle fasiliteter i et anlegg som er beskyttet mot angrep fra *Culicoides* ved hjelp av passende fysiske og driftsmessige tiltak, med status som vektorbeskyttet anlegg som er tildelt av vedkommende myndighet i samsvar med artikkel 44 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+19. «vektorfri sesong» et tidsrom i et bestemt område når *Culicoides* er inaktive, fastsatt i samsvar med del II kapittel 1 avsnitt 5 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),
+20. «avlsfjørfe» fjørfe som er 72 timer gamle eller eldre, og som er beregnet på produksjon av rugeegg,
+21. «produksjonsfjørfe» fjørfe som er 72 timer gamle eller eldre, og som er oppdrettet med sikte på produksjon av kjøtt, egg til konsum eller andre produkter for å gjenoppbygge fugleviltbestanden,
+22. «flokk» alt fjørfe eller alle fugler i fangenskap med samme helsestatus som holdes i samme lokale eller samme innhegning, og som utgjør en epidemiologisk enhet; for fjørfe som holdes innendørs, omfatter dette alle fugler som deler samme luftrom,
+23. «daggamle kyllinger» alt fjørfe som er yngre enn 72 timer,
+24. «egg som er fri for spesifiserte patogener» rugeegg som stammer fra kyllingflokker som er fri for spesifiserte patogener, som beskrevet i Den europeiske farmakopé16, og som utelukkende er beregnet på diagnostikk, forskning eller farmasøytisk bruk,
+25. «registrert hestedyr»
+
+    1. et renraset avlsdyr av arten *Equus caballus* og *Equus asinus* som er innført eller er berettiget til å bli innført i hovedavsnittet i en stambok opprettet av et avlslag eller et avlsorgan som er godkjent i samsvar med artikkel 4 eller 34 i forordning (EU) 2016/1012,
+    2. et holdt dyr av arten *Equus caballus* som er registrert hos en internasjonal sammenslutning eller organisasjon, enten direkte eller gjennom nasjonale forbund eller avdelinger, som administrerer konkurranse- eller løpshester («registrert hest»),
+26. «primater» dyr av arter som tilhører ordenen primater, unntatt mennesker,
+27. «honningbie» et dyr av arten *Apis mellifera*,
+28. «humle» dyr av artene som tilhører slekten *Bombus,*
+29. «hund» et holdt dyr av arten *Canis lupus*,
+30. «katt» et holdt dyr av arten *Felis silvestris*,
+31. «ilder» et holdt dyr av arten *Mustela putorius furo*,
+32. «andre kjøttetere» dyr av andre arter som tilhører ordenen *Carnivora* enn hunder, katter og ildrer,
+33. «omreisende sirkus» en utstilling eller et marked som inneholder dyr eller dyreforestillinger som etter planen skal flyttes mellom medlemsstater,
+34. «dyreforestilling» en forestilling med dyr som holdes for en utstilling eller et marked, og som kan være en del av et sirkus,
+35. «brevdue» due som transporteres eller er beregnet på transport fra sitt duehus til en annen medlemsstat for å bli sluppet løs slik at den kan fly tilbake til opprinnelsesmedlemsstaten.
 
 16 [http://www.edqm.eu](https://www.edqm.eu) (siste utgave).
 
@@ -491,15 +651,41 @@ Sykdomsforebyggende tiltak i forbindelse med transport innenfor Unionen i tilleg
 
 Generelle krav til transportmidler
 
-De driftsansvarlige, herunder transportørene, skal sikre at transportmidlene som brukes til transport av holdte landdyr eller rugeegg, med unntak av transportmidlene for landdyr nevnt i artikkel 6,er konstruert på en slik måte atdyr eller rugeegg ikke kan slippe ut eller falle ut,det er mulig med visuell kontroll av det rommet der dyrene holdes,utslipp av dyreekskrementer, strø og fôr hindres eller minimeres,utslipp av fjør hindres eller minimeres når det gjelder fjørfe og fugler i fangenskap,rengjøres og desinfiseres så snart som mulig etter hver transport av dyr, rugeegg eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig rengjøres og desinfiseres igjen og under alle omstendigheter tørkes eller får tørke før de lastes på nytt med dyr eller rugeegg.
+De driftsansvarlige, herunder transportørene, skal sikre at transportmidlene som brukes til transport av holdte landdyr eller rugeegg, med unntak av transportmidlene for landdyr nevnt i artikkel 6,
+
+1. er konstruert på en slik måte at
+
+   1. dyr eller rugeegg ikke kan slippe ut eller falle ut,
+   2. det er mulig med visuell kontroll av det rommet der dyrene holdes,
+   3. utslipp av dyreekskrementer, strø og fôr hindres eller minimeres,
+   4. utslipp av fjør hindres eller minimeres når det gjelder fjørfe og fugler i fangenskap,
+2. rengjøres og desinfiseres så snart som mulig etter hver transport av dyr, rugeegg eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig rengjøres og desinfiseres igjen og under alle omstendigheter tørkes eller får tørke før de lastes på nytt med dyr eller rugeegg.
 
 ###### Artikkel 5
 
 Krav til containere som holdte landdyr og rugeegg transporteres i
 
-1\. De driftsansvarlige, herunder transportørene, skal sikre at containere som holdte landdyr og rugeegg transporteres i, med unntak av containere for landdyr nevnt i artikkel 6,oppfyller kravene i artikkel 4 bokstav a),bare inneholder dyr eller rugeegg fra samme art og av samme kategori og type, og med samme helsestatus,erenten ubrukte eller spesialutformede engangscontainere som skal destrueres etter at de er brukt første gang,ellerer rengjort eller desinfisert etter bruk og er tørket eller har fått tørke før de brukes igjen.
+1\. De driftsansvarlige, herunder transportørene, skal sikre at containere som holdte landdyr og rugeegg transporteres i, med unntak av containere for landdyr nevnt i artikkel 6,
 
-2\. Når det gjelder fjørfe og rugeegg, skal de driftsansvarlige, herunder transportørene, sikre at containere som fjørfe og rugeegg transporteres i på transportmiddelet, er påført følgende opplysninger:For daggamle kyllinger og rugeegg:Navnet på opprinnelsesmedlemsstaten.Opprinnelsesanleggets godkjennings- eller registreringsnummer.Arten av det aktuelle fjørfeet.Antallet dyr eller rugeegg.For avlsfjørfe og produksjonsfjørfe, opprinnelsesanleggets godkjennings- eller registreringsnummer.
+1. oppfyller kravene i artikkel 4 bokstav a),
+2. bare inneholder dyr eller rugeegg fra samme art og av samme kategori og type, og med samme helsestatus,
+3. er
+
+   1. enten ubrukte eller spesialutformede engangscontainere som skal destrueres etter at de er brukt første gang,
+
+   eller
+
+   1. er rengjort eller desinfisert etter bruk og er tørket eller har fått tørke før de brukes igjen.
+
+2\. Når det gjelder fjørfe og rugeegg, skal de driftsansvarlige, herunder transportørene, sikre at containere som fjørfe og rugeegg transporteres i på transportmiddelet, er påført følgende opplysninger:
+
+1. For daggamle kyllinger og rugeegg:
+
+   1. Navnet på opprinnelsesmedlemsstaten.
+   2. Opprinnelsesanleggets godkjennings- eller registreringsnummer.
+   3. Arten av det aktuelle fjørfeet.
+   4. Antallet dyr eller rugeegg.
+2. For avlsfjørfe og produksjonsfjørfe, opprinnelsesanleggets godkjennings- eller registreringsnummer.
 
 3\. Når det gjelder honningbidronninger som transporteres i henhold til unntaket fastsatt i artikkel 49, skal de driftsansvarlige, herunder transportørene, sikre at containerne eller hele forsendelsen dekkes med et finmasket nett med en maskevidde på høyst 2 mm umiddelbart etter den offentlige veterinærens visuelle undersøkelse med sikte på utstedelse av helsesertifikat.
 
@@ -509,11 +695,33 @@ Krav til containere som holdte landdyr og rugeegg transporteres i
 
 Unntak fra kravene til transportmidler og containere som holdte landdyr og rugeegg transporteres i
 
-1\. Kravene i artikkel 4 og 5 får ikke anvendelse på transport avlanddyr som holdes i omreisende sirkus og dyreforestillinger,dyr av arter oppført i del A i vedlegg I til forordning [(EU) 2016/429](eu/32016r0429) i et antall som overskrider det som er tillatt i samsvar med artikkel 246 nr. 1 og 2 i nevnte forordning, dersom de transporteres for ikke-kommersielle formål,dyr av arter oppført i del B i vedlegg I til forordning [(EU) 2016/429](eu/32016r0429) som transporteres for ikke-kommersielle formål i et antall som overskrider det som er fastsatt for disse artene, dersom det i samsvar med artikkel 246 nr. 3 er fastsatt regler om det høyeste antallet kjæledyr av de aktuelle artene.
+1\. Kravene i artikkel 4 og 5 får ikke anvendelse på transport av
+
+1. landdyr som holdes i omreisende sirkus og dyreforestillinger,
+2. dyr av arter oppført i del A i vedlegg I til forordning [(EU) 2016/429](eu/32016r0429) i et antall som overskrider det som er tillatt i samsvar med artikkel 246 nr. 1 og 2 i nevnte forordning, dersom de transporteres for ikke-kommersielle formål,
+3. dyr av arter oppført i del B i vedlegg I til forordning [(EU) 2016/429](eu/32016r0429) som transporteres for ikke-kommersielle formål i et antall som overskrider det som er fastsatt for disse artene, dersom det i samsvar med artikkel 246 nr. 3 er fastsatt regler om det høyeste antallet kjæledyr av de aktuelle artene.
 
 2\. Kravene i artikkel 4 bokstav b) og i artikkel 5 nr. 1 bokstav b) og c) får ikke anvendelse på transport av hestedyr innenfor en medlemsstat, med mindre disse hestedyrene er beregnet på slakting.
 
-3\. Vedkommende myndighet kan beslutte at kravene i artikkel 4 bokstav b) ikke skal få anvendelse på transportinnenfor et anlegg dersomde transporterte dyrene holdes i anlegget og transporten utføres av den driftsansvarlige for anlegget,ogtransportmiddelet som brukes til transport av holdte landdyr, rengjøres og desinfiseres før det forlater anlegget,ellermellom anlegg innenfor medlemsstaten dersomanleggene tilhører samme forsyningskjede,ogtransportmiddelet som brukes til transport av holdte landdyr, rengjøres og desinfiseres på slutten av hver dag dersom det er transportert dyr i disse transportmidlene.
+3\. Vedkommende myndighet kan beslutte at kravene i artikkel 4 bokstav b) ikke skal få anvendelse på transport
+
+1. innenfor et anlegg dersom
+
+   1. de transporterte dyrene holdes i anlegget og transporten utføres av den driftsansvarlige for anlegget,
+
+   og
+
+   1. transportmiddelet som brukes til transport av holdte landdyr, rengjøres og desinfiseres før det forlater anlegget,
+
+eller
+
+1. mellom anlegg innenfor medlemsstaten dersom
+
+   1. anleggene tilhører samme forsyningskjede,
+
+   og
+
+   1. transportmiddelet som brukes til transport av holdte landdyr, rengjøres og desinfiseres på slutten av hver dag dersom det er transportert dyr i disse transportmidlene.
 
 4\. Kravene i artikkel 4 og artikkel 5 nr. 1 og 2 får ikke anvendelse på transport av honningbier og humler.
 
@@ -541,7 +749,13 @@ Driftsansvarlige for slakterier skal sikre at holdte hov- og klovdyr og holdt fj
 
 Utfyllende risikoreduserende tiltak for driftsansvarlige for slakterier
 
-1\. Driftsansvarlige for slakterier skal sikre at dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), slaktes senest 24 timer etter ankomst til slakteriet dersom de kommer fra en annen medlemsstat og ikke oppfyller minst ett av følgende kriterier:De oppfyller minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),ellerde oppfyller vilkårene nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) som vedkommende myndighet i bestemmelsesmedlemsstaten har godkjent.
+1\. Driftsansvarlige for slakterier skal sikre at dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), slaktes senest 24 timer etter ankomst til slakteriet dersom de kommer fra en annen medlemsstat og ikke oppfyller minst ett av følgende kriterier:
+
+1. De oppfyller minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),
+
+eller
+
+1. de oppfyller vilkårene nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) som vedkommende myndighet i bestemmelsesmedlemsstaten har godkjent.
 
 2\. I tillegg til kravene fastsatt i nr. 1 skal driftsansvarlige for slakterier, dersom dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), transporteres gjennom en annen medlemsstat og ikke oppfyller minst ett av vilkårene i artikkel 32 nr. 1 bokstav a)–c) eller i artikkel 32 nr. 2, sikre at disse dyrene slaktes senest 24 timer etter ankomst til slakteriet.
 
@@ -562,17 +776,94 @@ Storfe
 
 Krav ved forflytning av holdt storfe til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdt storfe som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Dyrene kommer fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* uten vaksinasjon når det gjelder storfe, og ett av følgende vilkår er oppfylt:Anlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med hensyn til storfepopulasjonen,ellerdyrene har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst,ellerdyrene er yngre enn tolv måneder,ellerdyrene er kastrerte.Dyrene kommer fra et anlegg som er fritt for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*), og minst ett av følgende vilkår er oppfylt:Anlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*),ellerdyrene har gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 2 i vedlegg I, utført med negativt resultat i løpet av de siste 30 dagene før avsendelse,ellerdyrene er yngre enn seks uker.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.►**M3**Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virusikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, ellerer rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.◄**M3**►**M4**Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.◄**M4**Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.Bortsett fra når det gjelder holdt storfe nevnt i artikkel 11 nr. 4, artikkel 12 nr. 4 og artikkel 13, oppfyller dyrene minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
+1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdt storfe som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Dyrene kommer fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* uten vaksinasjon når det gjelder storfe, og ett av følgende vilkår er oppfylt:
+
+   1. Anlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med hensyn til storfepopulasjonen,
+
+   eller
+
+   1. dyrene har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst,
+
+   eller
+
+   1. dyrene er yngre enn tolv måneder,
+
+   eller
+
+   1. dyrene er kastrerte.
+4. Dyrene kommer fra et anlegg som er fritt for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*), og minst ett av følgende vilkår er oppfylt:
+
+   1. Anlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*),
+
+   eller
+
+   1. dyrene har gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 2 i vedlegg I, utført med negativt resultat i løpet av de siste 30 dagene før avsendelse,
+
+   eller
+
+   1. dyrene er yngre enn seks uker.
+5. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+
+   ►**M3**
+6. Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virus
+
+   1. ikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, eller
+   2. er rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:
+
+      1. Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.
+      2. Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.
+
+      ◄**M3**
+
+      ►**M4**
+
+      1. Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:
+
+         - De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.
+         - De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.
+
+   ◄**M4**
+7. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+8. Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.
+9. Bortsett fra når det gjelder holdt storfe nevnt i artikkel 11 nr. 4, artikkel 12 nr. 4 og artikkel 13, oppfyller dyrene minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+10. Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
 
 ►**M4**
 
-Som unntak fra første ledd bokstav f) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav f) ii), ellerForflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
+Som unntak fra første ledd bokstav f) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:
+
+1. Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav f) ii), eller
+2. Forflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
 
 ◄**M4**
 
 ►**M4**
 
-Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
+Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:
+
+1. De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, og
+
+   - den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, eller
+   - dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,
+2. medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
 
 Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflytning i samsvar med andre ledd dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, når det gjelder tredje ledd bokstav b), vedkommende myndighet i medlemsstaten dyrene passerer gjennom, har underrettet Kommisjonen og de øvrige medlemsstatene om tillatelsen til slike typer forflytning, uavhengig av opprinnelsesmedlemsstaten eller et område i denne.
 
@@ -584,13 +875,55 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflyt
 
 Utfyllende krav ved forflytning av holdt storfe til andre medlemsstater eller soner i disse med status som fri for bestemte sykdommer
 
-1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for enzootisk bovin leukose dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dyrene kommer fra et anlegg som er fritt for enzootisk bovin leukose,ellerdersom dyrene kommer fra et anlegg som ikke er fritt for enzootisk bovin leukose, er det ikke rapportert om enzootisk bovin leukose i dette anlegget i løpet av de siste 24 månedene før avsendelse, ogdersom dyrene er eldre enn 24 måneder, har de gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultatenten på prøver som er tatt ved to anledninger med minst fire måneders mellomrom, samtidig med at dyrene er holdt isolert fra annet storfe i anlegget,ellerpå en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og alt storfe som er eldre enn 24 måneder og som holdes i anlegget, har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene,ellerdersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene.
+1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for enzootisk bovin leukose dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
 
-2\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt dersom dyrene oppfyller kravene i artikkel 10, dersom de ikke er vaksinert mot infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
-entenligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,ellerer dyrene holdt i karantene i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot bovint herpesvirus type 1 (helvirus) (BoHV-1) ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse.Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, er de holdt i et godkjent karanteneanlegg i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 21 dager etter begynnelsen av karantenen.
+1. Dyrene kommer fra et anlegg som er fritt for enzootisk bovin leukose,
 
-3\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for bovin virusdiaré dersom dyrene oppfyller kravene i artikkel 10, dersom de ikke er vaksinert mot bovin virusdiaré, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for bovin virusdiaré,ligger anlegget enten i en medlemsstat eller en sone i denne med status som fri for bovin virusdiaré eller har gjennomgått en testordning som nevnt i del VI kapittel 1 avsnitt 2 nr. 1 bokstav c) ii) eller iii) i vedlegg IV til delegert forordning [(EU) 2020/689](eu/32020r0689), utført med negativt resultat i løpet av de siste fire månedene før avsendelse av dyrene,ellerer dyrene blitt testet enkeltvis for å utelukke forekomst av bovin virusdiaré-virus før avsendelse.Dersom dyrene kommer fra et anlegg som ikke er fritt for bovin virusdiaré, har de gjennomgått en test for antigen eller genom for bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat, og
-entendyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsendelse, og når det gjelder drektige mordyr, har de gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat på prøver som er tatt minst 21 dager etter begynnelsen av karantenen,ellerdyrene har gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med positivt resultat på prøver som er tatt enten før avsendelse, eller når det gjelder drektige mordyr, før insemineringen forut for den pågående drektigheten.
+eller
+
+1. dersom dyrene kommer fra et anlegg som ikke er fritt for enzootisk bovin leukose, er det ikke rapportert om enzootisk bovin leukose i dette anlegget i løpet av de siste 24 månedene før avsendelse, og
+
+   1. dersom dyrene er eldre enn 24 måneder, har de gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat
+
+      - enten på prøver som er tatt ved to anledninger med minst fire måneders mellomrom, samtidig med at dyrene er holdt isolert fra annet storfe i anlegget,
+
+      eller
+
+      - på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og alt storfe som er eldre enn 24 måneder og som holdes i anlegget, har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene,
+
+   eller
+
+   1. dersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene.
+
+2\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt dersom dyrene oppfyller kravene i artikkel 10, dersom de ikke er vaksinert mot infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+
+1. Dersom dyrene kommer fra et anlegg som er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+   enten
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+
+   eller
+
+   1. er dyrene holdt i karantene i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot bovint herpesvirus type 1 (helvirus) (BoHV-1) ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse.
+2. Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, er de holdt i et godkjent karanteneanlegg i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 21 dager etter begynnelsen av karantenen.
+
+3\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med status som fri for bovin virusdiaré dersom dyrene oppfyller kravene i artikkel 10, dersom de ikke er vaksinert mot bovin virusdiaré, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+
+1. Dersom dyrene kommer fra et anlegg som er fritt for bovin virusdiaré,
+
+   1. ligger anlegget enten i en medlemsstat eller en sone i denne med status som fri for bovin virusdiaré eller har gjennomgått en testordning som nevnt i del VI kapittel 1 avsnitt 2 nr. 1 bokstav c) ii) eller iii) i vedlegg IV til delegert forordning [(EU) 2020/689](eu/32020r0689), utført med negativt resultat i løpet av de siste fire månedene før avsendelse av dyrene,
+
+   eller
+
+   1. er dyrene blitt testet enkeltvis for å utelukke forekomst av bovin virusdiaré-virus før avsendelse.
+2. Dersom dyrene kommer fra et anlegg som ikke er fritt for bovin virusdiaré, har de gjennomgått en test for antigen eller genom for bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat, og
+   enten
+
+   1. dyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsendelse, og når det gjelder drektige mordyr, har de gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat på prøver som er tatt minst 21 dager etter begynnelsen av karantenen,
+
+   eller
+
+   1. dyrene har gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med positivt resultat på prøver som er tatt enten før avsendelse, eller når det gjelder drektige mordyr, før insemineringen forut for den pågående drektigheten.
 
 4\. Som unntak fra artikkel 10 nr. 1 bokstav i) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdt storfe som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
@@ -600,14 +933,79 @@ entendyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsende
 
 Utfyllende krav ved forflytning av holdt storfe til andre medlemsstater eller soner i disse med godkjente utryddelsesprogrammer for bestemte sykdommer
 
-1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for enzootisk bovin leukose dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dyrene kommer fra et anlegg som er fritt for enzootisk bovin leukose,ellerdersom dyrene kommer fra et anlegg som ikke er fritt for enzootisk bovin leukose, er det ikke rapportert om enzootisk bovin leukose i dette anlegget i løpet av de siste 24 månedene før avsendelse av dyrene, ogdersom dyrene er eldre enn 24 måneder, har de gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat
-entenpå prøver som er tatt ved to anledninger med minst fire måneders mellomrom, samtidig med at dyrene er holdt isolert fra annet storfe i anlegget,ellerpå prøver som er tatt i løpet av de siste 30 dagene før avsendelsen, forutsatt at alt storfe som er eldre enn 24 måneder og som holdes i anlegget, har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene,ellerdersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene.
+1\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for enzootisk bovin leukose dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
 
-2\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
-entenligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,ellerligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,ellerer dyrene holdt i karantene i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1, eller når det gjelder dyr som er vaksinert med en deletert gE-vaksine, antistoffer mot BoHV-1 gE-protein, ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse,ellerer dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon uten kontakt med storfe på andre anlegg, og herfra flyttes de direkte til slakteriet,ellerdersom dyrene kommer fra et anlegg som ikke er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, er de holdt i et godkjent karanteneanlegg i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 21 dager etter begynnelsen av karantenen.
+1. Dyrene kommer fra et anlegg som er fritt for enzootisk bovin leukose,
 
-3\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for bovin virusdiaré,ligger anlegget i en medlemsstat eller en sone i denne med status som fri for bovin virusdiaré,ellerligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré,ellerhar anlegget gjennomgått en testordning som nevnt i del VI kapittel 1 avsnitt 2 nr. 1 bokstav c) ii) eller iii) i vedlegg IV til delegert forordning [(EU) 2020/689](eu/32020r0689), utført med negativt resultat i løpet av de siste fire månedene før avsendelse,ellerer dyrene blitt testet enkeltvis for å utelukke forekomst av bovin virusdiaré-virus før avsendelse,ellerer dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon atskilt fra storfe på andre anlegg, og herfra flyttes de direkte til slakteriet.Dersom dyrene kommer fra et anlegg som ikke er fritt for bovin virusdiaré, har de gjennomgått en test for antigen eller genom for bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat,
-ogdyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsendelse, og når det gjelder drektige mordyr, har de gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat på prøver som er tatt minst 21 dager etter begynnelsen av karantenen,ellerdyrene har gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med positivt resultat på prøver som er tatt enten før avsendelse, eller når det gjelder drektige mordyr, før insemineringen forut for den pågående drektigheten.
+eller
+
+1. dersom dyrene kommer fra et anlegg som ikke er fritt for enzootisk bovin leukose, er det ikke rapportert om enzootisk bovin leukose i dette anlegget i løpet av de siste 24 månedene før avsendelse av dyrene, og
+
+   1. dersom dyrene er eldre enn 24 måneder, har de gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat
+      enten
+
+      - på prøver som er tatt ved to anledninger med minst fire måneders mellomrom, samtidig med at dyrene er holdt isolert fra annet storfe i anlegget,
+
+      eller
+
+      - på prøver som er tatt i løpet av de siste 30 dagene før avsendelsen, forutsatt at alt storfe som er eldre enn 24 måneder og som holdes i anlegget, har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene,
+
+   eller
+
+   1. dersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene.
+
+2\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+
+1. Dersom dyrene kommer fra et anlegg som er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+   enten
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+
+   eller
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+
+   eller
+
+   1. er dyrene holdt i karantene i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1, eller når det gjelder dyr som er vaksinert med en deletert gE-vaksine, antistoffer mot BoHV-1 gE-protein, ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse,
+
+   eller
+
+   1. er dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon uten kontakt med storfe på andre anlegg, og herfra flyttes de direkte til slakteriet,
+
+eller
+
+1. dersom dyrene kommer fra et anlegg som ikke er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, er de holdt i et godkjent karanteneanlegg i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 21 dager etter begynnelsen av karantenen.
+
+3\. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+
+1. Dersom dyrene kommer fra et anlegg som er fritt for bovin virusdiaré,
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med status som fri for bovin virusdiaré,
+
+   eller
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré,
+
+   eller
+
+   1. har anlegget gjennomgått en testordning som nevnt i del VI kapittel 1 avsnitt 2 nr. 1 bokstav c) ii) eller iii) i vedlegg IV til delegert forordning [(EU) 2020/689](eu/32020r0689), utført med negativt resultat i løpet av de siste fire månedene før avsendelse,
+
+   eller
+
+   1. er dyrene blitt testet enkeltvis for å utelukke forekomst av bovin virusdiaré-virus før avsendelse,
+
+   eller
+
+   1. er dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon atskilt fra storfe på andre anlegg, og herfra flyttes de direkte til slakteriet.
+2. Dersom dyrene kommer fra et anlegg som ikke er fritt for bovin virusdiaré, har de gjennomgått en test for antigen eller genom for bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat,
+   og
+
+   1. dyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsendelse, og når det gjelder drektige mordyr, har de gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat på prøver som er tatt minst 21 dager etter begynnelsen av karantenen,
+
+   eller
+
+   1. dyrene har gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med positivt resultat på prøver som er tatt enten før avsendelse, eller når det gjelder drektige mordyr, før insemineringen forut for den pågående drektigheten.
 
 4\. Som unntak fra artikkel 10 nr. 1 bokstav i) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdt storfe som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
@@ -623,8 +1021,30 @@ Som unntak fra artikkel 10 nr. 1 bokstav i) kan vedkommende myndighet i opprinne
 
 Unntak for forflytning av holdt storfe beregnet på slakting til andre medlemsstater
 
-Som unntak fra kravene i artikkel 10, 11 og 12 kan de driftsansvarlige flytte holdt storfe beregnet på slakting til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene
-entenkommer fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med eller uten vaksinasjon når det gjelder storfe,ellerer kastrerte,ellerer ukastrert storfe som er eldre enn tolv måneder og har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, på en prøve som er tatt minst 30 dager etter nedkomst.Dyrenekommer fra et anlegg som er fritt for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*),ellerhar gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 2 i vedlegg I, utført med negativt resultat i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
+Som unntak fra kravene i artikkel 10, 11 og 12 kan de driftsansvarlige flytte holdt storfe beregnet på slakting til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene
+   enten
+
+   1. kommer fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med eller uten vaksinasjon når det gjelder storfe,
+
+   eller
+
+   1. er kastrerte,
+
+   eller
+
+   1. er ukastrert storfe som er eldre enn tolv måneder og har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, på en prøve som er tatt minst 30 dager etter nedkomst.
+2. Dyrene
+
+   1. kommer fra et anlegg som er fritt for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*),
+
+   eller
+
+   1. har gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 2 i vedlegg I, utført med negativt resultat i løpet av de siste 30 dagene før avsendelse.
+3. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+5. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
 
 ###### Avsnitt 2
 
@@ -634,18 +1054,83 @@ Sau og geit
 
 Krav ved forflytning av holdte sauer og geiter til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte holdte sauer og geiter til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte sauer og geiter som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Dyrene kommer, unntatt dersom de flyttes i samsvar med artikkel 16, fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* uten vaksinasjon når det gjelder sau og geit, og
-entenanlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med hensyn til saue- og geitepopulasjonen,ellerdyrene har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst,ellerdyrene er yngre enn seks måneder,ellerdyrene er kastrerte.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.►**M3**Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virusikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, ellerer rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.◄**M3**►**M4**Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.◄**M4**Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.Bortsett fra når dyrene flyttes i samsvar med artikkel 17, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
+1\. De driftsansvarlige skal bare flytte holdte sauer og geiter til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte sauer og geiter som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Dyrene kommer, unntatt dersom de flyttes i samsvar med artikkel 16, fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* uten vaksinasjon når det gjelder sau og geit, og
+   enten
+
+   1. anlegget ligger i en medlemsstat eller en sone i denne med status som fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med hensyn til saue- og geitepopulasjonen,
+
+   eller
+
+   1. dyrene har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst,
+
+   eller
+
+   1. dyrene er yngre enn seks måneder,
+
+   eller
+
+   1. dyrene er kastrerte.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+
+   ►**M3**
+5. Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virus
+
+   1. ikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, eller
+   2. er rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:
+
+      1. Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.
+      2. Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.
+
+         ◄**M3**
+
+         ►**M4**
+      3. Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:
+
+         - De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.
+         - De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.
+
+   ◄**M4**
+6. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+7. Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.
+8. Bortsett fra når dyrene flyttes i samsvar med artikkel 17, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+9. Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
 
 ►**M4**
 
-Som unntak fra første ledd bokstav e) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav e) ii), ellerForflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
+Som unntak fra første ledd bokstav e) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:
+
+1. Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav e) ii), eller
+2. Forflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
 
 ◄**M4**
 
 ►**M4**
 
-Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
+Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:
+
+1. De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, og
+
+   - den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, eller
+   - dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,
+2. medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
 
 Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflytning i samsvar med andre ledd dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, når det gjelder tredje ledd bokstav b), vedkommende myndighet i medlemsstaten dyrene passerer gjennom, har underrettet Kommisjonen og de øvrige medlemsstatene om tillatelsen til slike typer forflytning, uavhengig av opprinnelsesmedlemsstaten eller et område i denne
 
@@ -653,9 +1138,15 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflyt
 
 2\. De driftsansvarlige skal bare flytte holdte sauer til en annen medlemsstat dersom kravene i nr. 1 er oppfylt og dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) i løpet av de siste 42 dagene før avsendelse.
 
-3\. De driftsansvarlige skal bare flytte holdte geiter til en annen medlemsstat dersom kravene i nr. 1 er oppfylt og dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de geitene som er holdt i anlegget i samsvar med del 1 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommeter bare geiter fra anlegg som iverksetter tiltakene fastsatt i dette nummeret, blitt tatt inn i det anlegget som er nevnt i nr. 1 bokstav a),er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geiter som holdes i anlegget, truffet tiltak i samsvar med del 1 nr. 3 i vedlegg II.
+3\. De driftsansvarlige skal bare flytte holdte geiter til en annen medlemsstat dersom kravene i nr. 1 er oppfylt og dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de geitene som er holdt i anlegget i samsvar med del 1 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommet
 
-4\. De driftsansvarlige skal bare flytte holdte, ukastrerte hanndyr av sau til en annen medlemsstat dersom kravene i nr. 1 og 2 er oppfylt, og forutsatt at følgende krav er oppfylt:Dyrene kommer fra et anlegg der det ikke er rapportert om epididymitt hos sau (*Brucella ovis*) i løpet av de siste tolv månedene før avsendelse.Dyrene har gjennomgått en serologisk test for epididymitt hos sau (*Brucella ovis*) utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse.
+1. er bare geiter fra anlegg som iverksetter tiltakene fastsatt i dette nummeret, blitt tatt inn i det anlegget som er nevnt i nr. 1 bokstav a),
+2. er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geiter som holdes i anlegget, truffet tiltak i samsvar med del 1 nr. 3 i vedlegg II.
+
+4\. De driftsansvarlige skal bare flytte holdte, ukastrerte hanndyr av sau til en annen medlemsstat dersom kravene i nr. 1 og 2 er oppfylt, og forutsatt at følgende krav er oppfylt:
+
+1. Dyrene kommer fra et anlegg der det ikke er rapportert om epididymitt hos sau (*Brucella ovis*) i løpet av de siste tolv månedene før avsendelse.
+2. Dyrene har gjennomgått en serologisk test for epididymitt hos sau (*Brucella ovis*) utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse.
 
 5\. Bestemmelsene i nr. 1–4 får ikke anvendelse på holdte sauer og geiter som er beregnet på slakting som nevnt i artikkel 18.
 
@@ -669,7 +1160,10 @@ Som unntak fra kravene i artikkel 15 nr. 1 bokstav c) kan driftsansvarlige flytt
 
 Unntak for forflytning av holdte sauer og geiter til andre medlemsstater eller soner i disse med hensyn til infeksjon med blåtungevirus (serotype 1–24)
 
-Som unntak fra artikkel 15 nr. 1 bokstav h) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte sauer og geiter som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+Som unntak fra artikkel 15 nr. 1 bokstav h) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte sauer og geiter som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+2. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ###### Artikkel 18
 
@@ -684,7 +1178,17 @@ Som unntak fra kravene i artikkel 15 kan de driftsansvarlige flytte holdte sauer
 ◄**M3**
 
 1. Dyrene
-kommer entenfra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med eller uten vaksinasjon når det gjelder sau og geit,ellerer eldre enn seks måneder og har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, minst 30 dager etter nedkomst,ellerer kastrerte.
+   kommer enten
+
+   1. fra et anlegg som er fritt for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* med eller uten vaksinasjon når det gjelder sau og geit,
+
+   eller
+
+   1. er eldre enn seks måneder og har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, minst 30 dager etter nedkomst,
+
+   eller
+
+   1. er kastrerte.
 2. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
 3. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
 4. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
@@ -697,8 +1201,24 @@ Svin
 
 Krav ved forflytning av holdte svin til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte svin som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med pseudorabiesvirus i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* and *B. suis* hos svin i løpet av de siste 42 dagene før avsendelse, og der det i minst de siste tolv månedene før avsendelse
-entener iverksatt biosikkerhetstiltak og risikoreduserende tiltak, særlig med hensyn til oppstallingsforhold og fôringssystemer, etter hva som kreves for å hindre overføring av infeksjon med *Brucella abortus, B. melitensis* og *B. suis* fra viltlevende dyr av arter som er listeført for denne sykdommen, til svin som holdes i anlegget, og bare svin fra anlegg som anvender tilsvarende biosikkerhetstiltak og risikoreduserende tiltak, er tatt inn,ellerer gjennomført overvåking av infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos de svinene som er holdt i anlegget i samsvar med nr. 1 og 2 i vedlegg III minst de siste tolv månedene før avsendelse, og i dette tidsrommeter bare svin fra anlegg som iverksetter tiltakene fastsatt i punkt i) eller i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),er det, dersom det er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos svin som holdes i anlegget, truffet tiltak i samsvar med nr. 3 i vedlegg III.
+1\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte svin som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med pseudorabiesvirus i løpet av de siste 30 dagene før avsendelse.
+5. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+6. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* and *B. suis* hos svin i løpet av de siste 42 dagene før avsendelse, og der det i minst de siste tolv månedene før avsendelse
+   enten
+
+   1. er iverksatt biosikkerhetstiltak og risikoreduserende tiltak, særlig med hensyn til oppstallingsforhold og fôringssystemer, etter hva som kreves for å hindre overføring av infeksjon med *Brucella abortus, B. melitensis* og *B. suis* fra viltlevende dyr av arter som er listeført for denne sykdommen, til svin som holdes i anlegget, og bare svin fra anlegg som anvender tilsvarende biosikkerhetstiltak og risikoreduserende tiltak, er tatt inn,
+
+   eller
+
+   1. er gjennomført overvåking av infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos de svinene som er holdt i anlegget i samsvar med nr. 1 og 2 i vedlegg III minst de siste tolv månedene før avsendelse, og i dette tidsrommet
+
+      - er bare svin fra anlegg som iverksetter tiltakene fastsatt i punkt i) eller i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),
+      - er det, dersom det er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos svin som holdes i anlegget, truffet tiltak i samsvar med nr. 3 i vedlegg III.
 
 2\. Bestemmelsene i nr. 1 får ikke anvendelse på holdte svin beregnet på slakting som nevnt i artikkel 21.
 
@@ -706,11 +1226,45 @@ entener iverksatt biosikkerhetstiltak og risikoreduserende tiltak, særlig med h
 
 Utfyllende krav ved forflytning av holdte svin til medlemsstater eller soner i disse med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus
 
-1\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus dersom dyrene oppfyller kravene i artikkel 19, dersom de ikke er vaksinert mot infeksjon med pseudorabiesvirus, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for infeksjon med pseudorabiesvirus,
-entenligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus,ellerhar dyrene gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies ved hjelp av en av de diagnostiske metodene som er angitt i del 7 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse. For svin som er yngre enn fire måneder og som er avkom av mordyr vaksinert med en deletert gE-vaksine, kan den diagnostiske metoden for påvisning av antistoffer mot gE-protein av pseudorabiesvirus fastsatt i del 7 i vedlegg I benyttes. Antallet svin som testes, skal minst gjøre det mulig, med et konfidensnivå på 95 %, å påvise 10 % seroprevalens i forsendelsen.Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksjon med pseudorabiesvirus, skal følgende krav være oppfylt:Dyrene vært holdt i et godkjent karanteneanlegg i minst 30 dager,ogdyrene har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies ved hjelp av den diagnostiske metoden angitt i del 7 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst 30 dagers mellomrom, og den siste prøven er tatt i løpet av de siste 15 dagene før avsendelse.
+1\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus dersom dyrene oppfyller kravene i artikkel 19, dersom de ikke er vaksinert mot infeksjon med pseudorabiesvirus, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
 
-2\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus dersom dyrene oppfyller kravene i artikkel 19, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:Dersom dyrene kommer fra et anlegg som er fritt for infeksjon med pseudorabiesvirus,
-entenligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus,ellerligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus,ellerhar dyrene gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies eller antistoffer mot gE-protein av pseudorabiesvirus, dersom det er relevant, ved hjelp av en av de diagnostiske metodene som er angitt i del 7 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse. Antallet svin som testes, skal minst gjøre det mulig, med et konfidensnivå på 95 %, å påvise 10 % seroprevalens i forsendelsen.Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksjon med pseudorabiesvirus, skal følgende krav være oppfylt:De vært holdt i et godkjent karanteneanlegg i minst 30 dager,ogde har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies eller antistoffer mot gE-protein av pseudorabiesvirus, dersom det er relevant, ved hjelp av en av de diagnostiske metodene angitt i del 7 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst 30 dagers mellomrom, og den siste prøven er tatt i løpet av de siste 15 dagene før avsendelse.
+1. Dersom dyrene kommer fra et anlegg som er fritt for infeksjon med pseudorabiesvirus,
+   enten
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus,
+
+   eller
+
+   1. har dyrene gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies ved hjelp av en av de diagnostiske metodene som er angitt i del 7 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse. For svin som er yngre enn fire måneder og som er avkom av mordyr vaksinert med en deletert gE-vaksine, kan den diagnostiske metoden for påvisning av antistoffer mot gE-protein av pseudorabiesvirus fastsatt i del 7 i vedlegg I benyttes. Antallet svin som testes, skal minst gjøre det mulig, med et konfidensnivå på 95 %, å påvise 10 % seroprevalens i forsendelsen.
+2. Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksjon med pseudorabiesvirus, skal følgende krav være oppfylt:
+
+   1. Dyrene vært holdt i et godkjent karanteneanlegg i minst 30 dager,
+
+   og
+
+   1. dyrene har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies ved hjelp av den diagnostiske metoden angitt i del 7 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst 30 dagers mellomrom, og den siste prøven er tatt i løpet av de siste 15 dagene før avsendelse.
+
+2\. De driftsansvarlige skal bare flytte holdte svin til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus dersom dyrene oppfyller kravene i artikkel 19, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+
+1. Dersom dyrene kommer fra et anlegg som er fritt for infeksjon med pseudorabiesvirus,
+   enten
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus,
+
+   eller
+
+   1. ligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus,
+
+   eller
+
+   1. har dyrene gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies eller antistoffer mot gE-protein av pseudorabiesvirus, dersom det er relevant, ved hjelp av en av de diagnostiske metodene som er angitt i del 7 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse. Antallet svin som testes, skal minst gjøre det mulig, med et konfidensnivå på 95 %, å påvise 10 % seroprevalens i forsendelsen.
+2. Dersom dyrene kommer fra et anlegg som ikke er fritt for infeksjon med pseudorabiesvirus, skal følgende krav være oppfylt:
+
+   1. De vært holdt i et godkjent karanteneanlegg i minst 30 dager,
+
+   og
+
+   1. de har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies eller antistoffer mot gE-protein av pseudorabiesvirus, dersom det er relevant, ved hjelp av en av de diagnostiske metodene angitt i del 7 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst 30 dagers mellomrom, og den siste prøven er tatt i løpet av de siste 15 dagene før avsendelse.
 
 3\. Bestemmelsene i nr. 1 og 2 får ikke anvendelse på holdte svin beregnet på slakting som nevnt i artikkel 21.
 
@@ -718,9 +1272,15 @@ entenligger anlegget i en medlemsstat eller en sone i denne med status som fri f
 
 Unntak for forflytning av holdte svin beregnet på slakting til andre medlemsstater
 
-1\. Som unntak fra kravene i artikkel 19 kan de driftsansvarlige flytte holdte svin beregnet på slakting til en annen medlemsstat dersom disse dyrene kommer fra et anleggder det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+1\. Som unntak fra kravene i artikkel 19 kan de driftsansvarlige flytte holdte svin beregnet på slakting til en annen medlemsstat dersom disse dyrene kommer fra et anlegg
 
-2\. Som unntak fra kravene i artikkel 20 kan driftsansvarlige flytte holdte svin beregnet på slakting til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus, eller med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus, dersom dyrene oppfyller kravene i nr. 1 og følgende krav er oppfylt:Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med pseudorabiesvirus i løpet av de siste 30 dagene før avsendelse.Dyrene transporteres direkte til slakteriet i bestemmelsesmedlemsstaten uten å ha gjennomgått oppsamling i den medlemsstaten eller en sone i denne, eller i enhver medlemsstat eller sone i denne som dyrene passerer gjennom, og som har status som fri for infeksjon med pseudorabiesvirus.
+1. der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,
+2. der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+
+2\. Som unntak fra kravene i artikkel 20 kan driftsansvarlige flytte holdte svin beregnet på slakting til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med pseudorabiesvirus, eller med et godkjent utryddelsesprogram for infeksjon med pseudorabiesvirus, dersom dyrene oppfyller kravene i nr. 1 og følgende krav er oppfylt:
+
+1. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med pseudorabiesvirus i løpet av de siste 30 dagene før avsendelse.
+2. Dyrene transporteres direkte til slakteriet i bestemmelsesmedlemsstaten uten å ha gjennomgått oppsamling i den medlemsstaten eller en sone i denne, eller i enhver medlemsstat eller sone i denne som dyrene passerer gjennom, og som har status som fri for infeksjon med pseudorabiesvirus.
 
 ###### Avsnitt 4
 
@@ -730,8 +1290,53 @@ Hestedyr
 
 Krav ved forflytning av hestedyr til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte hestedyr til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at det siste smittede dyret ble fjernet fra anlegget.Dyrene kommer fra et anlegg der det ikke er rapportert om ondartet beskjelersyke i løpet av de siste seks månedene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om ondartet beskjelersyke i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, eller de smittede ukastrerte hanndyrene av hestefamilien ble kastrert,ogde gjenværende hestedyrene i anlegget, med unntak av de kastrerte hanndyrene av hestefamilien nevnt i punkt i), gjennomgikk en test for ondartet beskjelersyke ved hjelp av den diagnostiske metoden som er angitt i del 8 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at tiltakene beskrevet i punkt i) var avsluttet.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksiøs anemi hos hest i løpet av de siste 90 dagene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om infeksiøs anemi hos hest i løpet av de siste tolv månedene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, og anlegget var rengjort og desinfisert,ogde gjenværende dyrene i anlegget gjennomgikk en test for infeksiøs anemi hos hest ved hjelp av den diagnostiske metoden som er angitt i del 9 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst tre måneders mellomrom etter at tiltakene beskrevet i punkt i) var avsluttet.Dyrene kommer fra et anlegg der det ikke er rapportert om venezuelansk encefalomyelitt hos hest i løpet av de siste seks månedene før avsendelse, eller dersom de kommer fra et anlegg som ligger i en medlemsstat eller en sone i denne der det er rapportert om venezuelansk encefalomyelitt hos hest i løpet av de siste to årene, oppfyller de vilkårene i punkt i) og vilkårene i enten punkt ii) eller iii)I minst 21 dager før avsendelsen har de holdt seg klinisk friske, og alle dyr som er nevnt i punkt ii) eller punkt iii) som viste en økning i kroppstemperatur, målt daglig, over den fysiologiske grensen, har med negativt resultat gjennomgått en diagnostisk test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden fastsatt i del 10 nr. 1 bokstav a) i vedlegg I,ogdyrene ble holdt i karantene i minst 21 dager beskyttet mot angrep fra vektorinsekter, og
-entener blitt vaksinert mot venezuelansk encefalomyelitt hos hest med en fullstendig første runde og revaksinert i samsvar med produsentens anbefalinger minst 60 dager og høyst tolv måneder før avsendelsesdatoen,ellerhar gjennomgått en test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 1 bokstav b) i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 14 dager etter datoen de ble satt i karantene,dyrene har gjennomgåtten test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 1 bokstav b) i vedlegg I, uten økning i antistofftiter, utført på parede prøver som er tatt ved to anledninger med 21 dagers mellomrom, og den andre av disse ble tatt i løpet av de siste ti dagene før avsendelsesdatoen,ogen test for påvisning av et virusgenom for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 2 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 48 timene før avsendelse, og dyrene er blitt beskyttet mot angrep fra vektorinsekter etter prøvetaking fram til avsendelsen.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene har ikke vært i kontakt med holdte dyr av listeførte arter for sykdommene nevnt i bokstav a)–f) som ikke oppfyller kravene i bokstav a)–e), i løpet av de siste 30 dagene før avsendelse, samt kravet i bokstav f) i løpet av de siste 15 dagene før avsendelse.
+1\. De driftsansvarlige skal bare flytte hestedyr til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at det siste smittede dyret ble fjernet fra anlegget.
+2. Dyrene kommer fra et anlegg der det ikke er rapportert om ondartet beskjelersyke i løpet av de siste seks månedene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om ondartet beskjelersyke i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble avlivet og destruert eller slaktet, eller de smittede ukastrerte hanndyrene av hestefamilien ble kastrert,
+
+   og
+
+   1. de gjenværende hestedyrene i anlegget, med unntak av de kastrerte hanndyrene av hestefamilien nevnt i punkt i), gjennomgikk en test for ondartet beskjelersyke ved hjelp av den diagnostiske metoden som er angitt i del 8 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at tiltakene beskrevet i punkt i) var avsluttet.
+3. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksiøs anemi hos hest i løpet av de siste 90 dagene før avsendelse, eller dersom de kommer fra et anlegg der det er rapportert om infeksiøs anemi hos hest i løpet av de siste tolv månedene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble avlivet og destruert eller slaktet, og anlegget var rengjort og desinfisert,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for infeksiøs anemi hos hest ved hjelp av den diagnostiske metoden som er angitt i del 9 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst tre måneders mellomrom etter at tiltakene beskrevet i punkt i) var avsluttet.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om venezuelansk encefalomyelitt hos hest i løpet av de siste seks månedene før avsendelse, eller dersom de kommer fra et anlegg som ligger i en medlemsstat eller en sone i denne der det er rapportert om venezuelansk encefalomyelitt hos hest i løpet av de siste to årene, oppfyller de vilkårene i punkt i) og vilkårene i enten punkt ii) eller iii)
+
+   1. I minst 21 dager før avsendelsen har de holdt seg klinisk friske, og alle dyr som er nevnt i punkt ii) eller punkt iii) som viste en økning i kroppstemperatur, målt daglig, over den fysiologiske grensen, har med negativt resultat gjennomgått en diagnostisk test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden fastsatt i del 10 nr. 1 bokstav a) i vedlegg I,
+
+   og
+
+   1. dyrene ble holdt i karantene i minst 21 dager beskyttet mot angrep fra vektorinsekter, og
+      enten
+
+      - er blitt vaksinert mot venezuelansk encefalomyelitt hos hest med en fullstendig første runde og revaksinert i samsvar med produsentens anbefalinger minst 60 dager og høyst tolv måneder før avsendelsesdatoen,
+
+      eller
+
+      - har gjennomgått en test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 1 bokstav b) i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 14 dager etter datoen de ble satt i karantene,
+   2. dyrene har gjennomgått
+
+      - en test for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 1 bokstav b) i vedlegg I, uten økning i antistofftiter, utført på parede prøver som er tatt ved to anledninger med 21 dagers mellomrom, og den andre av disse ble tatt i løpet av de siste ti dagene før avsendelsesdatoen,
+
+      og
+
+      - en test for påvisning av et virusgenom for venezuelansk encefalomyelitt hos hest ved hjelp av den diagnostiske metoden som er angitt i del 10 nr. 2 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 48 timene før avsendelse, og dyrene er blitt beskyttet mot angrep fra vektorinsekter etter prøvetaking fram til avsendelsen.
+5. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+6. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+7. Dyrene har ikke vært i kontakt med holdte dyr av listeførte arter for sykdommene nevnt i bokstav a)–f) som ikke oppfyller kravene i bokstav a)–e), i løpet av de siste 30 dagene før avsendelse, samt kravet i bokstav f) i løpet av de siste 15 dagene før avsendelse.
 
 2\. Som unntak fra nr. 1 bokstav a), b) og c) skal forflytningsrestriksjonene nevnt i nr. 1 bokstav a), b) og c) gjelde i minst 30 dager etter at det siste dyret i anlegget av listeførte arter for den respektive sykdommen nevnt i nr. 1 bokstav a), b) og c), enten ble avlivet og destruert eller slaktet, og anlegget var rengjort og desinfisert.
 
@@ -745,17 +1350,73 @@ Dyr av kamelfamilien
 
 Krav ved forflytning av holdte dyr av kamelfamilien til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte holdte dyr av kamelfamilien til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte dyr av kamelfamilien som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos dyr av kamelfamilien i løpet av de siste 42 dagene før avsendelse, og de har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst.Dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de dyrene av kamelfamilien som er holdt i anlegget i samsvar med del 2 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommeter bare dyr av kamelfamilien fra anlegg som iverksetter tiltakene fastsatt i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien som holdes i anlegget, truffet tiltak i samsvar med del 2 nr. 3 i vedlegg II.Dersom dyrene flyttes til en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos storfe, kommer de fra et anlegg der det ikke er rapportert om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos dyr av kamelfamilien i løpet av de siste 30 dagene før avsendelse.►**M3**Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virusikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, ellerer rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.◄**M3**►**M4**Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.◄**M4**Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.Bortsett fra når dyrene flyttes i samsvar med artikkel 24, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
+1\. De driftsansvarlige skal bare flytte holdte dyr av kamelfamilien til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte dyr av kamelfamilien som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos dyr av kamelfamilien i løpet av de siste 42 dagene før avsendelse, og de har gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 30 dagene før avsendelse, og når det gjelder hunndyr som har født, som er tatt minst 30 dager etter nedkomst.
+5. Dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de dyrene av kamelfamilien som er holdt i anlegget i samsvar med del 2 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommet
+
+   1. er bare dyr av kamelfamilien fra anlegg som iverksetter tiltakene fastsatt i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),
+   2. er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien som holdes i anlegget, truffet tiltak i samsvar med del 2 nr. 3 i vedlegg II.
+6. Dersom dyrene flyttes til en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos storfe, kommer de fra et anlegg der det ikke er rapportert om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos dyr av kamelfamilien i løpet av de siste 30 dagene før avsendelse.
+
+   ►**M3**
+7. Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virus
+
+   1. ikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, eller
+   2. er rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:
+
+      1. Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.
+      2. Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.
+
+         ◄**M3**
+
+         ►**M4**
+      3. Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:
+
+         - De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.
+         - De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.
+
+   ◄**M4**
+8. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+9. Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.
+10. Bortsett fra når dyrene flyttes i samsvar med artikkel 24, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+11. Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
 
 ►**M4**
 
-Som unntak fra første ledd bokstav g) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytninger til en annen medlemsstat eller et område i denne:Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav g) ii), ellerForflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
+Som unntak fra første ledd bokstav g) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytninger til en annen medlemsstat eller et område i denne:
+
+1. Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav g) ii), eller
+2. Forflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
 
 ◄**M4**
 
 ►**M4**
 
-Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
+Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:
+
+1. De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, og
+
+   - den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, eller
+   - dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,
+2. medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
 
 Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflytning i samsvar med andre ledd dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, når det gjelder tredje ledd bokstav b), vedkommende myndighet i medlemsstaten dyrene passerer gjennom, har underrettet Kommisjonen og de øvrige medlemsstatene om tillatelsen til slike typer forflytning, uavhengig av opprinnelsesmedlemsstaten eller et område i denne
 
@@ -767,13 +1428,20 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflyt
 
 Unntak for forflytning av holdte dyr av kamelfamilien til andre medlemsstater eller soner i disse med hensyn til infeksjon med blåtungevirus (serotype 1–24)
 
-Som unntak fra artikkel 23 nr. 1 bokstav j) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte dyr av kamelfamilien som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+Som unntak fra artikkel 23 nr. 1 bokstav j) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte dyr av kamelfamilien som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+2. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ###### Artikkel 25
 
 Unntak for forflytning av holdte dyr av kamelfamilien beregnet på slakting til andre medlemsstater
 
-Som unntak fra kravene i artikkel 23 kan de driftsansvarlige flytte holdte dyr av kamelfamilien beregnet på slakting til en annen medlemsstat eller en sone i denne dersom disse dyrene kommer fra et anleggder det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
+Som unntak fra kravene i artikkel 23 kan de driftsansvarlige flytte holdte dyr av kamelfamilien beregnet på slakting til en annen medlemsstat eller en sone i denne dersom disse dyrene kommer fra et anlegg
+
+1. der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,
+2. der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,
+3. der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
 
 ###### Avsnitt 6
 
@@ -783,17 +1451,73 @@ Hjortedyr
 
 Krav ved forflytning av holdte hjortedyr til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte holdte hjortedyr til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte hjortedyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos holdte hjortedyr i løpet av de siste 42 dagene før avsendelse.Dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de hjortedyrene som er holdt i anlegget i samsvar med del 3 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommeter bare hjortedyr fra anlegg som iverksetter tiltakene fastsatt i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, iverksatt tiltak i samsvar med del 3 nr. 3 i vedlegg II.Dersom dyrene flyttes til en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos storfe, kommer de fra et anlegg der det ikke er rapportert om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos hjortedyr i løpet av de siste 30 dagene før avsendelse.►**M3**Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virusikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, ellerer rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.◄**M3**►**M4**Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.◄**M4**Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.Bortsett fra når de flyttes i samsvar med artikkel 27, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
+1\. De driftsansvarlige skal bare flytte holdte hjortedyr til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte hjortedyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+4. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos holdte hjortedyr i løpet av de siste 42 dagene før avsendelse.
+5. Dyrene kommer fra et anlegg der det er gjennomført overvåking av infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos de hjortedyrene som er holdt i anlegget i samsvar med del 3 nr. 1 og 2 i vedlegg II minst de siste tolv månedene før avsendelse, og i dette tidsrommet
+
+   1. er bare hjortedyr fra anlegg som iverksetter tiltakene fastsatt i dette punktet, blitt tatt inn i det anlegget som er nevnt i bokstav a),
+   2. er det, dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, iverksatt tiltak i samsvar med del 3 nr. 3 i vedlegg II.
+6. Dersom dyrene flyttes til en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos storfe, kommer de fra et anlegg der det ikke er rapportert om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt hos hjortedyr i løpet av de siste 30 dagene før avsendelse.
+
+   ►**M3**
+7. Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virus
+
+   1. ikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, eller
+   2. er rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:
+
+      1. Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.
+      2. Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.
+
+         ◄**M3**
+
+         ►**M4**
+      3. Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:
+
+         - De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.
+         - De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.
+
+   ◄**M4**
+8. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+9. Dyrene kommer fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.
+10. Bortsett fra når de flyttes i samsvar med artikkel 27, oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+11. Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
 
 ►**M4**
 
-Som unntak fra første ledd bokstav g) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytninger til en annen medlemsstat eller et område i denne:Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav g) ii), ellerForflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
+Som unntak fra første ledd bokstav g) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytninger til en annen medlemsstat eller et område i denne:
+
+1. Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav g) ii), eller
+2. Forflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
 
 ◄**M4**
 
 ►**M4**
 
-Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
+Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:
+
+1. De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, og
+
+   - den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, eller
+   - dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,
+2. medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
 
 Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflytning i samsvar med andre ledd dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, når det gjelder tredje ledd bokstav b), vedkommende myndighet i medlemsstaten dyrene passerer gjennom, har underrettet Kommisjonen og de øvrige medlemsstatene om tillatelsen til slike typer forflytning, uavhengig av opprinnelsesmedlemsstaten eller et område i denne
 
@@ -805,13 +1529,20 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflyt
 
 Unntak for forflytning av holdte hjortedyr til andre medlemsstater eller soner i disse med hensyn til infeksjon med blåtungevirus (serotype 1–24)
 
-Som unntak fra artikkel 26 nr. 1 bokstav j) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte hjortedyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+Som unntak fra artikkel 26 nr. 1 bokstav j) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte hjortedyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+2. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ###### Artikkel 28
 
 Unntak for forflytning av holdte hjortedyr beregnet på slakting til andre medlemsstater
 
-Som unntak fra kravene i artikkel 26 kan de driftsansvarlige flytte holdte hjortedyr beregnet på slakting til en annen medlemsstat eller en sone i denne dersom disse dyrene kommer fra et anleggder det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
+Som unntak fra kravene i artikkel 26 kan de driftsansvarlige flytte holdte hjortedyr beregnet på slakting til en annen medlemsstat eller en sone i denne dersom disse dyrene kommer fra et anlegg
+
+1. der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,
+2. der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,
+3. der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
 
 ###### Avsnitt 7
 
@@ -821,17 +1552,69 @@ Andre hov- og klovdyr
 
 Krav ved forflytning av andre holdte hov- og klovdyr til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte andre holdte hov- og klovdyr til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med andre holdte hov- og klovdyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med rabiesvirus, kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos andre holdte hov- og klovdyr av listeførte arter for denne sykdommen i løpet av de siste 42 dagene før avsendelse.Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*), kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos holdte dyr av listeførte arter for denne sykdommen i løpet av de siste 42 dagene før avsendelse.►**M3**Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virusikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, ellerer rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3i minst de siste 60 dagene før forflytningsdatoen, elleri minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, elleri minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.◄**M3**►**M4**Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.◄**M4**Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for surra (*Trypanosoma evansi*), kommer de fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget,ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689). Denne bokstaven får ikke anvendelse på andre holdte hov- og klovdyr nevnt i artikkel 30.Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
+1\. De driftsansvarlige skal bare flytte andre holdte hov- og klovdyr til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i anlegget minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med andre holdte hov- og klovdyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i bokstav a), og som tas inn i anlegget der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+3. Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med rabiesvirus, kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+4. Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos andre holdte hov- og klovdyr av listeførte arter for denne sykdommen i løpet av de siste 42 dagene før avsendelse.
+5. Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*), kommer dyrene fra et anlegg der det ikke er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae og M. tuberculosis*) hos holdte dyr av listeførte arter for denne sykdommen i løpet av de siste 42 dagene før avsendelse.
+
+   ►**M3**
+6. Dyrene kommer fra et anlegg som ligger i et område med en radius på minst 150 km rundt anlegget der infeksjon med hemoragisk epizooti-virus
+
+   1. ikke er rapportert hos arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, eller
+   2. er rapportert hos holdte dyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse, men ett av følgende krav er oppfylt:
+
+      1. Dyrene har vært holdt i en sone som er sesongmessig fri for hemoragisk epizooti i samsvar med vedlegg IX del 1 og 2
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter datoen for innførsel av dyret til det sesongmessig sykdomsfrie området.
+      2. Dyrene er blitt beskyttet mot angrep fra vektorer under transport til bestemmelsesstedet, og de er holdt beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg som oppfyller kravene i vedlegg IX del 3
+
+         - i minst de siste 60 dagene før forflytningsdatoen, eller
+         - i minst de siste 28 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en serologisk test utført på prøver som er tatt minst 28 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer, eller
+         - i minst de siste 14 dagene før forflytningsdatoen, og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter startdatoen for perioden med beskyttelse mot angrep fra vektorer.
+
+         ◄**M3**
+
+         ►**M4**
+      3. Dyrene er vaksinert mot infeksjon med epizootisk hemoragisk-virus, og de er omfattet av den immunitetsperioden som garanteres i spesifikasjonene for vaksinen, og de oppfyller minst ett av følgende vilkår:
+
+         - De er blitt vaksinert mer enn 60 dager før datoen for forflytningen.
+         - De er blitt vaksinert med en inaktivert vaksine og har med negativt resultat gjennomgått en PCR-test utført på prøver som er tatt minst 14 dager etter at immunbeskyttelsen skal begynne å virke i henhold til spesifikasjonene for vaksinen.
+
+   ◄**M4**
+7. Dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+8. Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for surra (*Trypanosoma evansi*), kommer de fra et anlegg der det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse, og dersom de kommer fra et anlegg der det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene før avsendelse, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram til
+
+   1. de smittede dyrene ble fjernet fra anlegget,
+
+   og
+
+   1. de gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I, utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget.
+9. Når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), oppfyller de minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689). Denne bokstaven får ikke anvendelse på andre holdte hov- og klovdyr nevnt i artikkel 30.
+10. Vilkårene fastsatt i artikkel 32 og 33 er oppfylt når det er relevant.
 
 ►**M4**
 
-Som unntak fra første ledd bokstav f) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav f) ii), ellerForflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
+Som unntak fra første ledd bokstav f) ii) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate følgende typer forflytning til en annen medlemsstat eller et område i denne:
+
+1. Forflytninger som ikke oppfyller noen av kravene fastsatt i første ledd bokstav f) ii), eller
+2. Forflytninger som oppfyller spesifikke risikoreduserende tiltak som er fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten når den meddeler at den gir tillatelse i henhold til fjerde ledd.
 
 ◄**M4**
 
 ►**M4**
 
-Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
+Med henblikk på andre ledd bokstav a) eller b) skal forflytninger fra opprinnelsesmedlemsstaten til bestemmelsesmedlemsstaten gjennom en annen medlemsstat («medlemsstaten som dyrene passerer gjennom») eller et område i denne oppfylle minst ett av følgende krav:
+
+1. De skal foregå ved hjelp av transportmidler som er beskyttet mot angrep fra vektorer under transporten, og
+
+   - den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn, eller
+   - dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen,
+2. medlemsstaten som dyrene passerer gjennom, har gitt tillatelse til denne typen forflytning.
 
 Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflytning i samsvar med andre ledd dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, når det gjelder tredje ledd bokstav b), vedkommende myndighet i medlemsstaten dyrene passerer gjennom, har underrettet Kommisjonen og de øvrige medlemsstatene om tillatelsen til slike typer forflytning, uavhengig av opprinnelsesmedlemsstaten eller et område i denne
 
@@ -843,13 +1626,20 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten kan bare tillate typer forflyt
 
 Unntak for forflytning av andre holdte hov- og klovdyr til andre medlemsstater eller soner i disse med hensyn til infeksjon med blåtungevirus (serotype 1–24)
 
-Som unntak fra artikkel 29 nr. 1 bokstav i) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+Som unntak fra artikkel 29 nr. 1 bokstav i) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+2. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ###### Artikkel 31
 
 Unntak for forflytning av andre holdte hov- og klovdyr beregnet på slakting til andre medlemsstater
 
-Som unntak fra kravene i artikkel 29 kan de driftsansvarlige flytte andre holdte hov- og klovdyr beregnet på slakting til en annen medlemsstat eller en sone i dennedersom disse dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med rabiesvirus, dersom dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), dersom dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
+Som unntak fra kravene i artikkel 29 kan de driftsansvarlige flytte andre holdte hov- og klovdyr beregnet på slakting til en annen medlemsstat eller en sone i denne
+
+1. dersom disse dyrene kommer fra et anlegg der det ikke er rapportert om miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse,
+2. når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med rabiesvirus, dersom dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse,
+3. når det gjelder andre holdte hov- og klovdyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), dersom dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 30 dagene før avsendelse.
 
 ###### Avsnitt 8
 
@@ -859,17 +1649,56 @@ Utfyllende krav til dyrehelse med hensyn til infeksjon med blåtungevirus (serot
 
 Biosikkerhetstiltak og risikoreduserende tiltak ved transport til en annen medlemsstat eller en sone i denne med status som fri for infeksjon med blåtungevirus (serotype 1–24) eller med et godkjent utryddelsesprogram for denne sykdommen
 
-1\. De driftsansvarlige skal bare flytte holdte dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) til en annen medlemsstat eller en sone i denne med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom minst ett av følgende krav er oppfylt:Transporten finner sted i en medlemsstat eller en sone i denne med status som fri for infeksjon med blåtungevirus (serotype 1–24).Dyrene er beskyttet mot angrep fra vektorer,
-ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn,ellerdyrene er losset i et vektorbeskyttet anlegg,ellerdyrene er losset i en medlemsstat eller en sone i denne i den vektorfrie sesongen.Dyreneer blitt vaksinert mot alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene er rapportert i medlemsstaten eller en sone i denne som dyrene passerer gjennom, og de er fortsatt innenfor den immunitetsperioden som garanteres i spesifikasjonene for vaksinen,ellerhar med positivt resultat gjennomgått en serologisk test som gjør det mulig å påvise spesifikke antistoffer mot alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom.Dyrene er beregnet på slakting.
+1\. De driftsansvarlige skal bare flytte holdte dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) til en annen medlemsstat eller en sone i denne med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom minst ett av følgende krav er oppfylt:
 
-2\. Som unntak fra nr. 1 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte dyr, dersom vedkommende myndighet i bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689), og ett av følgende vilkår er oppfylt:Dyrene oppfyller de særlige kravene til dyrehelse som er definert av vedkommende myndighet på bestemmelsesstedet for å sikre at dyrene før avsendelse har tilstrekkelig immunologisk beskyttelse med hensyn til alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom,ellerdyrene oppfyller kravene fastsatt i bokstav a) i dette nummer eller i nr. 1 bokstav c) for å sikre at de er beskyttet mot de serotypene av blåtungevirus som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom, og som det i samme tidsrom ikke er rapportert om i bestemmelsesmedlemsstaten eller -sonen.
+1. Transporten finner sted i en medlemsstat eller en sone i denne med status som fri for infeksjon med blåtungevirus (serotype 1–24).
+2. Dyrene er beskyttet mot angrep fra vektorer,
+   og
+
+   1. den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn,
+
+   eller
+
+   1. dyrene er losset i et vektorbeskyttet anlegg,
+
+   eller
+
+   1. dyrene er losset i en medlemsstat eller en sone i denne i den vektorfrie sesongen.
+3. Dyrene
+
+   1. er blitt vaksinert mot alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene er rapportert i medlemsstaten eller en sone i denne som dyrene passerer gjennom, og de er fortsatt innenfor den immunitetsperioden som garanteres i spesifikasjonene for vaksinen,
+
+   eller
+
+   1. har med positivt resultat gjennomgått en serologisk test som gjør det mulig å påvise spesifikke antistoffer mot alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom.
+4. Dyrene er beregnet på slakting.
+
+2\. Som unntak fra nr. 1 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdte dyr, dersom vedkommende myndighet i bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689), og ett av følgende vilkår er oppfylt:
+
+1. Dyrene oppfyller de særlige kravene til dyrehelse som er definert av vedkommende myndighet på bestemmelsesstedet for å sikre at dyrene før avsendelse har tilstrekkelig immunologisk beskyttelse med hensyn til alle serotyper av blåtungevirus (serotype 1–24) som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom,
+
+eller
+
+1. dyrene oppfyller kravene fastsatt i bokstav a) i dette nummer eller i nr. 1 bokstav c) for å sikre at de er beskyttet mot de serotypene av blåtungevirus som i løpet av de siste to årene før avsendelse er rapportert i medlemsstaten eller i en sone i denne som dyrene passerer gjennom, og som det i samme tidsrom ikke er rapportert om i bestemmelsesmedlemsstaten eller -sonen.
 
 ###### Artikkel 33
 
 Biosikkerhetstiltak og risikoreduserende tiltak ved transport gjennom en annen medlemsstat eller en sone i denne med status som fri for infeksjon med blåtungevirus (serotype 1–24) eller med et godkjent utryddelsesprogram for denne sykdommen
 
-1\. De driftsansvarlige skal bare flytte dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) gjennom en annen medlemsstat eller en sone i denne som dyrene passerer gjennom, med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom minst ett av følgende krav er oppfylt:Dyrene oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),ellerdet transportmiddelet som dyrene er lastet på, er beskyttet mot angrep fra vektorer under transporten,
-ogden planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn,ellerdyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen.
+1\. De driftsansvarlige skal bare flytte dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) gjennom en annen medlemsstat eller en sone i denne som dyrene passerer gjennom, med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom minst ett av følgende krav er oppfylt:
+
+1. Dyrene oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689),
+
+eller
+
+1. det transportmiddelet som dyrene er lastet på, er beskyttet mot angrep fra vektorer under transporten,
+   og
+
+   1. den planlagte reisen omfatter ikke lossing av dyr i mer enn ett døgn,
+
+   eller
+
+   1. dyrene er losset i et vektorbeskyttet anlegg eller i den vektorfrie sesongen.
 
 2\. Som unntak fra nr. 1 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) gjennom en annen medlemsstat eller en sone i denne som dyrene passerer gjennom, med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom medlemsstaten som dyrene passerer gjennom, har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er fastsatt i artikkel 43 nr. 2 bokstav a), c) og d) i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
@@ -884,12 +1713,43 @@ Fjørfe
 
 Krav ved forflytning av avlsfjørfe og produksjonsfjørfe
 
-1\. De driftsansvarlige skal bare flytte avlsfjørfe og produksjonsfjørfe til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i ett eller flere godkjente anlegg der det holdes fjørfe,siden klekking,elleri minst
-►**M1**42 dager før avsendelse når det gjelder avlsfjørfe og produksjonsfjørfe for produksjon av kjøtt, egg til konsum eller andre produkter,◄**M1**
-eller21 dager før avsendelsen når det gjelder produksjonsfjørfe for gjenoppbygging av fugleviltbestanden.Dyrene kommer fra en flokk der det ikke er rapportert om infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae*, og disse dyrene kommer fra anlegg hvor det dersom infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* er blitt bekreftet i løpet av de siste tolv månedene før avsendelse, er iverksatt følgende tiltak:Den smittede flokken er slaktet eller avlivet og destruert.Etter slaktingen eller avlivingen av den smittede flokken nevnt i punkt i), er anlegget rengjort og desinfisert.Etter rengjøringen og desinfiseringen nevnt i punkt ii), har alle flokker i anlegget testet negativt for infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* i to tester utført med minst 21 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035).Dyrene kommer fra en flokk der det ikke er rapportert om aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*), og disse dyrene kommer fra anlegg der det dersom aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) er blitt bekreftet i løpet av de siste tolv månedene før avsendelse, er iverksatt følgende tiltak:
-entenDen smittede flokken har testet negativt for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i to tester utført på hele flokken med minst 60 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035),ellerden smittede flokken er slaktet eller avlivet og destruert, anlegget er rengjort og desinfisert, og etter rengjøringen og desinfiseringen har alle flokker i anlegget testet negativt for aviær mykoplasma *(Mycoplasma gallisepticum* og *M. meleagridis*) i to tester utført med minst 21 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035).Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
-►**M1**Den overvåkingen som er fastsatt i artikkel 3 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), har ikke påvist noen bekreftede tilfeller av infeksjon med lavpatogene aviær influensa-virus i dyrenes opprinnelsesflokk de siste 21 dagene før avsendelse.
-◄**M1**Når det gjelder produksjonsfjørfe for gjenoppbygging av fugleviltbestanden, har dyrene ikke vært i kontakt med fugler med lavere helsestatus i løpet av de siste 21 dagene før avsendelse.Når det gjelder ender og gjess, har dyrene med negativt resultat gjennomgått en test for høypatogen aviær influensa i samsvar med vedlegg IV.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
+1\. De driftsansvarlige skal bare flytte avlsfjørfe og produksjonsfjørfe til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i ett eller flere godkjente anlegg der det holdes fjørfe,
+
+   1. siden klekking,
+
+   eller
+
+   1. i minst
+      ►**M1**
+
+      - 42 dager før avsendelse når det gjelder avlsfjørfe og produksjonsfjørfe for produksjon av kjøtt, egg til konsum eller andre produkter,
+
+      ◄**M1**
+      eller
+
+      - 21 dager før avsendelsen når det gjelder produksjonsfjørfe for gjenoppbygging av fugleviltbestanden.
+2. Dyrene kommer fra en flokk der det ikke er rapportert om infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae*, og disse dyrene kommer fra anlegg hvor det dersom infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* er blitt bekreftet i løpet av de siste tolv månedene før avsendelse, er iverksatt følgende tiltak:
+
+   1. Den smittede flokken er slaktet eller avlivet og destruert.
+   2. Etter slaktingen eller avlivingen av den smittede flokken nevnt i punkt i), er anlegget rengjort og desinfisert.
+   3. Etter rengjøringen og desinfiseringen nevnt i punkt ii), har alle flokker i anlegget testet negativt for infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* i to tester utført med minst 21 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+3. Dyrene kommer fra en flokk der det ikke er rapportert om aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*), og disse dyrene kommer fra anlegg der det dersom aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) er blitt bekreftet i løpet av de siste tolv månedene før avsendelse, er iverksatt følgende tiltak:
+   enten
+
+   1. Den smittede flokken har testet negativt for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i to tester utført på hele flokken med minst 60 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+
+   eller
+
+   1. den smittede flokken er slaktet eller avlivet og destruert, anlegget er rengjort og desinfisert, og etter rengjøringen og desinfiseringen har alle flokker i anlegget testet negativt for aviær mykoplasma *(Mycoplasma gallisepticum* og *M. meleagridis*) i to tester utført med minst 21 dagers mellomrom i samsvar med overvåkingsprogrammet nevnt i artikkel 8 bokstav b) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+4. Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+   ►**M1**
+5. Den overvåkingen som er fastsatt i artikkel 3 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), har ikke påvist noen bekreftede tilfeller av infeksjon med lavpatogene aviær influensa-virus i dyrenes opprinnelsesflokk de siste 21 dagene før avsendelse.
+   ◄**M1**
+6. Når det gjelder produksjonsfjørfe for gjenoppbygging av fugleviltbestanden, har dyrene ikke vært i kontakt med fugler med lavere helsestatus i løpet av de siste 21 dagene før avsendelse.
+7. Når det gjelder ender og gjess, har dyrene med negativt resultat gjennomgått en test for høypatogen aviær influensa i samsvar med vedlegg IV.
+8. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
 
 2\. Bestemmelsene i nr. 1 får ikke anvendelse på forflytning av færre enn 20 dyr av annet fjørfe enn strutsefugler som flyttes i samsvar med artikkel 37.
 
@@ -897,7 +1757,17 @@ entenDen smittede flokken har testet negativt for aviær mykoplasmainfeksjon (*M
 
 Krav ved forflytning av fjørfe beregnet på slakting
 
-1\. De driftsansvarlige skal bare flytte fjørfe beregnet på slakting til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har oppholdt seg kontinuerlig i et registrert eller godkjent anlegg der det holdes fjørfe,siden klekking,elleri minst 21 dager før avsendelse.Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
+1\. De driftsansvarlige skal bare flytte fjørfe beregnet på slakting til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene har oppholdt seg kontinuerlig i et registrert eller godkjent anlegg der det holdes fjørfe,
+
+   1. siden klekking,
+
+   eller
+
+   1. i minst 21 dager før avsendelse.
+2. Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+3. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
 
 2\. Bestemmelsene i nr. 1 får ikke anvendelse på forflytning av færre enn 20 dyr av annet fjørfe enn strutsefugler som flyttes i samsvar med artikkel 37.
 
@@ -905,7 +1775,17 @@ Krav ved forflytning av fjørfe beregnet på slakting
 
 Krav ved forflytning av daggamle kyllinger
 
-1\. De driftsansvarlige skal bare flytte daggamle kyllinger til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene kommer fra et godkjent rugeri.Dyrene er utklekket fra rugeegg somoppfyller kravene i artikkel 38 og kommer fra flokker som har gjennomgått kontroller i samsvar med artikkel 91 nr. 1 bokstav f) og artikkel 91 nr. 2 bokstav f),ellerer innført til Unionen fra et tredjeland eller territorium eller en sone i disse.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
+1\. De driftsansvarlige skal bare flytte daggamle kyllinger til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene kommer fra et godkjent rugeri.
+2. Dyrene er utklekket fra rugeegg som
+
+   1. oppfyller kravene i artikkel 38 og kommer fra flokker som har gjennomgått kontroller i samsvar med artikkel 91 nr. 1 bokstav f) og artikkel 91 nr. 2 bokstav f),
+
+   eller
+
+   1. er innført til Unionen fra et tredjeland eller territorium eller en sone i disse.
+3. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
 
 2\. Når det gjelder daggamle kyllinger som er utklekket fra rugeegg som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse, skal vedkommende myndighet i de daggamle kyllingenes opprinnelsesmedlemsstat underrette vedkommende myndighet i den tiltenkte bestemmelsesmedlemsstaten om at rugeeggene er innført til Unionen fra et tredjeland.
 
@@ -917,7 +1797,15 @@ Krav ved forflytning av daggamle kyllinger
 
 Unntak for forflytning av færre enn 20 dyr av andre fjørfe enn strutsefugler
 
-1\. Som unntak fra kravene i artikkel 34, 35 og 36 kan de driftsansvarlige flytte færre enn 20 dyr av andre fjørfe enn strutsefugler til en annen medlemsstat når følgende krav er oppfylt:Dyrene kommer fra flokker som har oppholdt seg uten avbrudd på et enkelt registrert anlegg siden klekkingen eller i minst de siste 21 dagene før avsendelsen.Dyrene kommer fra flokker som ikke viser kliniske tegn på eller vekker mistanke om listeførte sykdommer som er relevante for arten.Den overvåkingen som er fastsatt i artikkel 3 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), har ikke påvist noen bekreftede tilfeller av infeksjon med lavpatogene aviær influensa-virus i dyrenes opprinnelsesflokk de siste 21 dagene før avsendelsen.Dyrene har ikke vært i kontakt med nylig ankommet fjørfe eller fugler med dårligere helsestatus i de siste 21 dagene før avsendelsen.Når det gjelder ender og gjess, bortsett fra ender og gjess beregnet på slakting, har dyrene gjennomgått en test med negativt resultat for høypatogen aviær influensa i samsvar med vedlegg IV.Dyrene har med negativt resultat gjennomgått tester for infeksjon med *Salmonella Pullorum*, *S. Gallinarum* og *S. arizonae* og for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i samsvar med vedlegg V.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
+1\. Som unntak fra kravene i artikkel 34, 35 og 36 kan de driftsansvarlige flytte færre enn 20 dyr av andre fjørfe enn strutsefugler til en annen medlemsstat når følgende krav er oppfylt:
+
+1. Dyrene kommer fra flokker som har oppholdt seg uten avbrudd på et enkelt registrert anlegg siden klekkingen eller i minst de siste 21 dagene før avsendelsen.
+2. Dyrene kommer fra flokker som ikke viser kliniske tegn på eller vekker mistanke om listeførte sykdommer som er relevante for arten.
+3. Den overvåkingen som er fastsatt i artikkel 3 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), har ikke påvist noen bekreftede tilfeller av infeksjon med lavpatogene aviær influensa-virus i dyrenes opprinnelsesflokk de siste 21 dagene før avsendelsen.
+4. Dyrene har ikke vært i kontakt med nylig ankommet fjørfe eller fugler med dårligere helsestatus i de siste 21 dagene før avsendelsen.
+5. Når det gjelder ender og gjess, bortsett fra ender og gjess beregnet på slakting, har dyrene gjennomgått en test med negativt resultat for høypatogen aviær influensa i samsvar med vedlegg IV.
+6. Dyrene har med negativt resultat gjennomgått tester for infeksjon med *Salmonella Pullorum*, *S. Gallinarum* og *S. arizonae* og for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i samsvar med vedlegg V.
+7. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42 for den bestemte fjørfekategorien.
 
 2\. Når det gjelder daggamle kyllinger som er utklekket fra rugeegg som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse, skal vedkommende myndighet i de daggamle kyllingenes opprinnelsesmedlemsstat underrette vedkommende myndighet i den tiltenkte bestemmelsesmedlemsstaten om at rugeeggene er innført til Unionen fra et tredjeland.
 
@@ -931,19 +1819,38 @@ Rugeegg fra fjørfe
 
 Krav ved forflytning av rugeegg fra fjørfe
 
-De driftsansvarlige skal bare flytte rugeegg fra fjørfe til en annen medlemsstat dersom disse eggene oppfyller følgende krav:De kommer fra et godkjent anlegg.De kommer fra flokker som siden klekkingen eller minst de siste 42 dagene før innsamlingen av eggene har oppholdt seg kontinuerlig i ett eller flere godkjente anlegg der det holdes fjørfe.De kommer fra dyr som oppfyller kravene i artikkel 34 nr. 1 bokstav b), c) og d).De er individuelt merket med godkjenningsnummeret til opprinnelsesflokkens anlegg som nevnt i artikkel 21 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).De er blitt desinfisert.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42.
+De driftsansvarlige skal bare flytte rugeegg fra fjørfe til en annen medlemsstat dersom disse eggene oppfyller følgende krav:
+
+1. De kommer fra et godkjent anlegg.
+2. De kommer fra flokker som siden klekkingen eller minst de siste 42 dagene før innsamlingen av eggene har oppholdt seg kontinuerlig i ett eller flere godkjente anlegg der det holdes fjørfe.
+3. De kommer fra dyr som oppfyller kravene i artikkel 34 nr. 1 bokstav b), c) og d).
+4. De er individuelt merket med godkjenningsnummeret til opprinnelsesflokkens anlegg som nevnt i artikkel 21 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+5. De er blitt desinfisert.
+6. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42.
 
 ###### Artikkel 39
 
 Unntak for forflytning av færre enn 20 rugeegg fra annet fjørfe enn strutsefugler
 
-Som unntak fra kravene i artikkel 38 kan de driftsansvarlige flytte færre enn 20 rugeegg fra annet fjørfe enn strutsefugler til en annen medlemsstat dersom disse eggene oppfyller følgende krav:De kommer fra et registrert anlegg.De kommer fra flokker somhar oppholdt seg kontinuerlig i et registrert anlegg siden klekkingen eller minst de siste 21 dagene før innsamlingen av eggene,ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten,har med negativt resultat gjennomgått tester for infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* og for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i samsvar med vedlegg V.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42.
+Som unntak fra kravene i artikkel 38 kan de driftsansvarlige flytte færre enn 20 rugeegg fra annet fjørfe enn strutsefugler til en annen medlemsstat dersom disse eggene oppfyller følgende krav:
+
+1. De kommer fra et registrert anlegg.
+2. De kommer fra flokker som
+
+   1. har oppholdt seg kontinuerlig i et registrert anlegg siden klekkingen eller minst de siste 21 dagene før innsamlingen av eggene,
+   2. ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten,
+   3. har med negativt resultat gjennomgått tester for infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae* og for aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*) i samsvar med vedlegg V.
+3. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 41 og 42.
 
 ###### Artikkel 40
 
 Unntak for forflytning av egg som er fri for spesifiserte patogener
 
-Som unntak fra kravene i artikkel 38 kan de driftsansvarlige bare flytte egg som er fri for spesifiserte patogener til en annen medlemsstat dersom disse eggene oppfyller følgende krav:De kommer fra et godkjent anlegg der det holdes fjørfe.De kommer fra flokker som er fri for spesifiserte patogener som beskrevet i Den europeiske farmakopé, og resultatene av alle tester og kliniske undersøkelser som kreves for denne særlige statusen, har vært fordelaktige.De er individuelt merket med opprinnelsesanleggets godkjenningsnummer som nevnt i artikkel 21 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+Som unntak fra kravene i artikkel 38 kan de driftsansvarlige bare flytte egg som er fri for spesifiserte patogener til en annen medlemsstat dersom disse eggene oppfyller følgende krav:
+
+1. De kommer fra et godkjent anlegg der det holdes fjørfe.
+2. De kommer fra flokker som er fri for spesifiserte patogener som beskrevet i Den europeiske farmakopé, og resultatene av alle tester og kliniske undersøkelser som kreves for denne særlige statusen, har vært fordelaktige.
+3. De er individuelt merket med opprinnelsesanleggets godkjenningsnummer som nevnt i artikkel 21 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
 
 ###### Avsnitt 3
 
@@ -963,8 +1870,44 @@ Særlige vilkår for forflytning til medlemsstater eller soner i disse med statu
 
 Ytterligere krav ved forflytning av fjørfe og rugeegg fra fjørfe til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon
 
-De driftsansvarlige skal bare flytte fjørfe og rugeegg fra fjørfe fra en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, dersom disse dyrene og rugeeggene, i tillegg til kravene i avsnitt 1–3 for den spesifikke varen, oppfyller følgende krav med hensyn til infeksjon med Newcastle disease-virus:Når det gjelder avlsfjørfe og produksjonsfjørfe,er de ikke vaksinert mot infeksjon med Newcastle disease-virus,har de vært holdt isolert i 14 dager før avsendelse, enten i opprinnelsesanlegget under tilsyn av en offentlig veterinær eller i et godkjent karanteneanlegg, deringen fjørfe er blitt vaksinert mot infeksjon med Newcastle disease-virus i løpet av de siste 21 dagene før avsendelse,ingen andre fugler ble innført i løpet av de siste 21 dagene før avsendelse,det ikke har vært foretatt noen vaksinasjon i karanteneanlegget,har de i løpet av de siste 14 dagene før avsendelse testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.Når det gjelder fjørfe beregnet på slakting, kommer disse dyrene fra flokker som entenikke er vaksinert mot infeksjon med Newcastle disease-virus og i løpet av de siste 14 dagene før avsendelse har testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %,ellerer vaksinert mot infeksjon med Newcastle disease-virus og i løpet av de siste 14 dagene før avsendelse har testet negativt på en test for å påvise forekomst av Newcastle disease-virus, som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.Når det gjelder daggamle kyllinger,er de ikke vaksinert mot infeksjon med Newcastle disease-virus,kommer de fra rugeegg som oppfyller vilkårene i bokstav d),kommer de fra et rugeri der arbeidsmetodene sikrer at slike rugeegg inkuberes på helt andre tidspunkter og helt andre steder enn rugeegg som ikke oppfyller vilkårene i bokstav d).Når det gjelder rugeegg fra fjørfeer de ikke vaksinert mot infeksjon med Newcastle disease-virus,kommer de fra flokker som
-entenikke er vaksinert mot infeksjon med Newcastle disease-virus,ellerer vaksinert mot infeksjon med Newcastle disease-virus med inaktiverte vaksiner,ellerer vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
+De driftsansvarlige skal bare flytte fjørfe og rugeegg fra fjørfe fra en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, dersom disse dyrene og rugeeggene, i tillegg til kravene i avsnitt 1–3 for den spesifikke varen, oppfyller følgende krav med hensyn til infeksjon med Newcastle disease-virus:
+
+1. Når det gjelder avlsfjørfe og produksjonsfjørfe,
+
+   1. er de ikke vaksinert mot infeksjon med Newcastle disease-virus,
+   2. har de vært holdt isolert i 14 dager før avsendelse, enten i opprinnelsesanlegget under tilsyn av en offentlig veterinær eller i et godkjent karanteneanlegg, der
+
+      - ingen fjørfe er blitt vaksinert mot infeksjon med Newcastle disease-virus i løpet av de siste 21 dagene før avsendelse,
+      - ingen andre fugler ble innført i løpet av de siste 21 dagene før avsendelse,
+      - det ikke har vært foretatt noen vaksinasjon i karanteneanlegget,
+   3. har de i løpet av de siste 14 dagene før avsendelse testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.
+2. Når det gjelder fjørfe beregnet på slakting, kommer disse dyrene fra flokker som enten
+
+   1. ikke er vaksinert mot infeksjon med Newcastle disease-virus og i løpet av de siste 14 dagene før avsendelse har testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %,
+
+   eller
+
+   1. er vaksinert mot infeksjon med Newcastle disease-virus og i løpet av de siste 14 dagene før avsendelse har testet negativt på en test for å påvise forekomst av Newcastle disease-virus, som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.
+3. Når det gjelder daggamle kyllinger,
+
+   1. er de ikke vaksinert mot infeksjon med Newcastle disease-virus,
+   2. kommer de fra rugeegg som oppfyller vilkårene i bokstav d),
+   3. kommer de fra et rugeri der arbeidsmetodene sikrer at slike rugeegg inkuberes på helt andre tidspunkter og helt andre steder enn rugeegg som ikke oppfyller vilkårene i bokstav d).
+4. Når det gjelder rugeegg fra fjørfe
+
+   1. er de ikke vaksinert mot infeksjon med Newcastle disease-virus,
+   2. kommer de fra flokker som
+      enten
+
+      - ikke er vaksinert mot infeksjon med Newcastle disease-virus,
+
+      eller
+
+      - er vaksinert mot infeksjon med Newcastle disease-virus med inaktiverte vaksiner,
+
+      eller
+
+      - er vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
 
 ### KAPITTEL 4
 Oppsamling av holdte hov- og klovdyr og holdt fjørfe
@@ -973,7 +1916,10 @@ Oppsamling av holdte hov- og klovdyr og holdt fjørfe
 
 Særlige regler for oppsamling av holdte hov- og klovdyr og holdt fjørfe
 
-1\. Under forflytning av holdte hov- og klovdyr og holdt fjørfe fra opprinnelsesanlegget til et anlegg i bestemmelsesmedlemsstaten skal de driftsansvarlige sikre at dyrene ikke gjennomgår mer enn tre oppsamlinger, og at disse oppsamlingene gjennomføres i anlegg som er godkjent for oppsamling eller på transportmidler i samsvar med artikkel 44, på følgende vilkår:Hvert enkelt holdt hov- og klovdyr og fjørfe som gjennomgår slik oppsamling, flyttes til sitt endelige bestemmelsessted i en annen medlemsstat senest 20 dager etter at de har forlatt opprinnelsesanlegget.Tidsrommet mellom datoen for avsendelse av hvert enkelt holdt hov- og klovdyr og fjørfe fra opprinnelsesanlegget og datoen for avsendelse fra anlegget som er godkjent for oppsamling i opprinnelsesmedlemsstaten til en annen medlemsstat, skal ikke overstige 14 dager.
+1\. Under forflytning av holdte hov- og klovdyr og holdt fjørfe fra opprinnelsesanlegget til et anlegg i bestemmelsesmedlemsstaten skal de driftsansvarlige sikre at dyrene ikke gjennomgår mer enn tre oppsamlinger, og at disse oppsamlingene gjennomføres i anlegg som er godkjent for oppsamling eller på transportmidler i samsvar med artikkel 44, på følgende vilkår:
+
+1. Hvert enkelt holdt hov- og klovdyr og fjørfe som gjennomgår slik oppsamling, flyttes til sitt endelige bestemmelsessted i en annen medlemsstat senest 20 dager etter at de har forlatt opprinnelsesanlegget.
+2. Tidsrommet mellom datoen for avsendelse av hvert enkelt holdt hov- og klovdyr og fjørfe fra opprinnelsesanlegget og datoen for avsendelse fra anlegget som er godkjent for oppsamling i opprinnelsesmedlemsstaten til en annen medlemsstat, skal ikke overstige 14 dager.
 
 2\. På anmodning fra vedkommende myndighet skal den driftsansvarlige som søker om helsesertifikat for å oppfylle artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), legge fram forflytningshistorikk, herunder alle oppsamlinger, som dyrene som inngår i forsendelsen har gjennomgått siden de ble sendt fra opprinnelsesanlegget.
 
@@ -995,7 +1941,10 @@ Driftsansvarlige i anlegg der det holdes hov- og klovdyr eller fjørfe som er be
 
 Nærmere regler for biosikkerhetstiltak ved oppsamling
 
-1\. Driftsansvarlige for anlegg som er godkjent for oppsamling, skal sikre atanlegget eller epidemiologisk atskilte områder for oppstalling av dyr i anlegget er tømt for dyr og rengjøres og desinfiseres med jevne mellomrom på høyst 14 dager ved uavbrutt oppstalling,dekkene på transportmiddelet som dyrene losses av eller lastes på, desinfiseres før det forlater anlegget.
+1\. Driftsansvarlige for anlegg som er godkjent for oppsamling, skal sikre at
+
+1. anlegget eller epidemiologisk atskilte områder for oppstalling av dyr i anlegget er tømt for dyr og rengjøres og desinfiseres med jevne mellomrom på høyst 14 dager ved uavbrutt oppstalling,
+2. dekkene på transportmiddelet som dyrene losses av eller lastes på, desinfiseres før det forlater anlegget.
 
 2\. Driftsansvarlige som utfører oppsamling av holdte hov- og klovdyr eller fjørfe på transportmidler, skal sikre at dekkene på transportmiddelet desinfiseres før det forlater opprinnelsesanlegget.
 
@@ -1018,7 +1967,15 @@ Primater
 
 Krav ved forflytning av primater til andre medlemsstater
 
-De driftsansvarlige skal bare flytte primater til en annen medlemsstat dersom dyreneentener blitt holdt i et avgrenset anlegg og transporteres til et avgrenset anlegg i bestemmelsesmedlemsstaten i samsvar med kravene i artikkel 64 nr. 1,ellerkommer fra et annet anlegg enn et avgrenset anlegg og transporteres til et avgrenset anlegg i bestemmelsesmedlemsstaten i samsvar med kravene i artikkel 63 nr. 2 bokstav b).
+De driftsansvarlige skal bare flytte primater til en annen medlemsstat dersom dyrene
+
+enten
+
+1. er blitt holdt i et avgrenset anlegg og transporteres til et avgrenset anlegg i bestemmelsesmedlemsstaten i samsvar med kravene i artikkel 64 nr. 1,
+
+eller
+
+1. kommer fra et annet anlegg enn et avgrenset anlegg og transporteres til et avgrenset anlegg i bestemmelsesmedlemsstaten i samsvar med kravene i artikkel 63 nr. 2 bokstav b).
 
 ###### Avsnitt 2
 
@@ -1028,31 +1985,53 @@ Honningbier og humler
 
 Krav ved forflytning av honningbier til andre medlemsstater
 
-De driftsansvarlige skal bare flytte honningbier i alle stadier av deres livssyklus, også honningbiyngel, til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene og opprinnelseskubene viser ikke tegn på lukket yngelråte, infestasjon med *Aethina tumida* (liten kubebille) eller infestasjon med *Tropilaelaps spp.*De kommer fra en bigård som ligger i midten av en sirkel med en radius på minst3 km der det ikke er rapportert om lukket yngelråte i løpet av de siste 30 dagene før avsendelse, og som ikke er underlagt restriksjoner på grunn av et utbrudd av lukket yngelråte,100 km der det ikke er rapportert om infestasjon med *Aethina tumida* (liten kubebille), og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille), med mindre det er gitt unntak i henhold til artikkel 49,100 km der det ikke er rapportert om infestasjon med *Tropilaelaps spp.*, og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Tropilaelaps spp.*
+De driftsansvarlige skal bare flytte honningbier i alle stadier av deres livssyklus, også honningbiyngel, til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene og opprinnelseskubene viser ikke tegn på lukket yngelråte, infestasjon med *Aethina tumida* (liten kubebille) eller infestasjon med *Tropilaelaps spp.*
+2. De kommer fra en bigård som ligger i midten av en sirkel med en radius på minst
+
+   1. 3 km der det ikke er rapportert om lukket yngelråte i løpet av de siste 30 dagene før avsendelse, og som ikke er underlagt restriksjoner på grunn av et utbrudd av lukket yngelråte,
+   2. 100 km der det ikke er rapportert om infestasjon med *Aethina tumida* (liten kubebille), og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille), med mindre det er gitt unntak i henhold til artikkel 49,
+   3. 100 km der det ikke er rapportert om infestasjon med *Tropilaelaps spp.*, og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Tropilaelaps spp.*
 
 ###### Artikkel 49
 
 Unntak for forflytning av honningbidronninger til andre medlemsstater
 
-Som unntak fra artikkel 48 bokstav b) ii) kan driftsansvarlige flytte honningbidronninger dersom disse dyrene oppfyller kravene i artikkel 48 bokstav a) og bokstav b) i) og iii) samt følgende krav:Det er ikke rapportert om infestasjon med *Aethina tumida* (liten kubebille) i opprinnelsesbigården, og bigården ligger minst 30 km fra grensene for en vernesone med en radius på minst 20 km som er opprettet av vedkommende myndighet rundt en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille).Opprinnelsesbigården ligger ikke i en sone som er omfattet av vernetiltak innført av Unionen som følge av bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille).Opprinnelsesbigården ligger i et område hvor vedkommende myndighet gjennomfører årlig overvåking for å påvise infestasjon med *Aethina tumida* (liten kubebille) med et konfidensnivå på minst 95 % for påvisning av infestasjon med *Aethina tumida* (liten kubebille) dersom minst 2 % av bigårdene er infestert.Opprinnelsesbigården undersøkes hver måned i produksjonssesongen av vedkommende myndighet med negativt resultat og med et konfidensnivå på minst 95 % for påvisning av infestasjon med *Aethina tumida* (liten kubebille) dersom minst 2 % av bikubene er infestert.De er plassert enkeltvis i bur sammen med høyst 20 følgebier.
+Som unntak fra artikkel 48 bokstav b) ii) kan driftsansvarlige flytte honningbidronninger dersom disse dyrene oppfyller kravene i artikkel 48 bokstav a) og bokstav b) i) og iii) samt følgende krav:
+
+1. Det er ikke rapportert om infestasjon med *Aethina tumida* (liten kubebille) i opprinnelsesbigården, og bigården ligger minst 30 km fra grensene for en vernesone med en radius på minst 20 km som er opprettet av vedkommende myndighet rundt en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille).
+2. Opprinnelsesbigården ligger ikke i en sone som er omfattet av vernetiltak innført av Unionen som følge av bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille).
+3. Opprinnelsesbigården ligger i et område hvor vedkommende myndighet gjennomfører årlig overvåking for å påvise infestasjon med *Aethina tumida* (liten kubebille) med et konfidensnivå på minst 95 % for påvisning av infestasjon med *Aethina tumida* (liten kubebille) dersom minst 2 % av bigårdene er infestert.
+4. Opprinnelsesbigården undersøkes hver måned i produksjonssesongen av vedkommende myndighet med negativt resultat og med et konfidensnivå på minst 95 % for påvisning av infestasjon med *Aethina tumida* (liten kubebille) dersom minst 2 % av bikubene er infestert.
+5. De er plassert enkeltvis i bur sammen med høyst 20 følgebier.
 
 ###### Artikkel 50
 
 Ytterligere krav med hensyn til infestasjon med *Varroa* spp. ved forflytning av honningbier til andre medlemsstater
 
-De driftsansvarlige skal bare flytte honningbier i alle stadier av deres livssyklus, også honningbiyngel, til en annen medlemsstat eller en sone i denne med status som fri for infestasjon med *Varroa spp.*, dersom kravene i artikkel 48 er oppfylt, og forutsatt at følgende krav er oppfylt:De kommer fra en medlemsstat eller en sone i denne med status som fri for infestasjon med *Varroa spp.*De er beskyttet mot infestasjon med *Varroa spp.* under transport.
+De driftsansvarlige skal bare flytte honningbier i alle stadier av deres livssyklus, også honningbiyngel, til en annen medlemsstat eller en sone i denne med status som fri for infestasjon med *Varroa spp.*, dersom kravene i artikkel 48 er oppfylt, og forutsatt at følgende krav er oppfylt:
+
+1. De kommer fra en medlemsstat eller en sone i denne med status som fri for infestasjon med *Varroa spp.*
+2. De er beskyttet mot infestasjon med *Varroa spp.* under transport.
 
 ###### Artikkel 51
 
 Krav ved forflytning av humler til andre medlemsstater
 
-De driftsansvarlige skal bare flytte humler til andre medlemsstater dersom følgende krav er oppfylt:De viser ikke tegn på infestasjon med *Aethina tumida* (liten kubebille).De kommer fra et anlegg som ligger i midten av en sirkel med en radius på minst 100 km der det ikke er rapportert om infestasjon med *Aethina tumida* (liten kubebille), og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille). Disse kravene får ikke anvendelse på humler fra produksjonsanlegg som er isolert fra det omgivende miljøet, som flyttes i samsvar med artikkel 52.
+De driftsansvarlige skal bare flytte humler til andre medlemsstater dersom følgende krav er oppfylt:
+
+1. De viser ikke tegn på infestasjon med *Aethina tumida* (liten kubebille).
+2. De kommer fra et anlegg som ligger i midten av en sirkel med en radius på minst 100 km der det ikke er rapportert om infestasjon med *Aethina tumida* (liten kubebille), og som ikke er underlagt restriksjoner på grunn av mistanke om et tilfelle eller en bekreftet forekomst av infestasjon med *Aethina tumida* (liten kubebille). Disse kravene får ikke anvendelse på humler fra produksjonsanlegg som er isolert fra det omgivende miljøet, som flyttes i samsvar med artikkel 52.
 
 ###### Artikkel 52
 
 Unntak for forflytning av humler fra produksjonsanlegg for humler som er isolert fra det omgivende miljøet, til andre medlemsstater
 
-Som unntak fra artikkel 51 bokstav b) kan driftsansvarlige flytte humler fra produksjonsanlegg for humler som er isolert fra det omgivende miljøet, til andre medlemsstater dersom kravene i artikkel 51 bokstav a) er oppfylt, og forutsatt at følgende krav er oppfylt:De er blitt avlet isolert i atskilte epidemiologiske enheter med hver humlekoloni i en lukket container som var ny eller rengjort og desinfisert før bruk.Regelmessige undersøkelser ved den epidemiologiske enheten som er utført i samsvar med skriftlige standardiserte framgangsmåter, har ikke påvist infestasjon med *Aethina tumida* (liten kubebille) i den epidemiologiske enheten.
+Som unntak fra artikkel 51 bokstav b) kan driftsansvarlige flytte humler fra produksjonsanlegg for humler som er isolert fra det omgivende miljøet, til andre medlemsstater dersom kravene i artikkel 51 bokstav a) er oppfylt, og forutsatt at følgende krav er oppfylt:
+
+1. De er blitt avlet isolert i atskilte epidemiologiske enheter med hver humlekoloni i en lukket container som var ny eller rengjort og desinfisert før bruk.
+2. Regelmessige undersøkelser ved den epidemiologiske enheten som er utført i samsvar med skriftlige standardiserte framgangsmåter, har ikke påvist infestasjon med *Aethina tumida* (liten kubebille) i den epidemiologiske enheten.
 
 ###### Avsnitt 3
 
@@ -1062,16 +2041,42 @@ Hunder, katter og ildrer
 
 Krav ved forflytning av hunder, katter og ildrer til andre medlemsstater
 
-De driftsansvarlige skal bare flytte hunder, katter og ildrer til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene er individuelt identifisert
-enteni samsvar med artikkel 70 i delegert forordning [(EU) 2019/2035](eu/32019r2035),ellermed en lett leselig tatovering som er påført før 3. juli 2011.►**M3**Dyrene ledsages av et individuelt identifikasjonsdokument som fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), og følgende gjelder:
-◄**M3**Det identifiserte dyret kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse, og har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før forflytningen, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII. Dette kravet får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 54 nr. 1 og 2.Dersom det gjelder hunder, har de gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 1 i vedlegg VII, og dersom det er relevant, når det gjelder hunder, katter eller ildrer, for andre sykdommer i samsvar med del 2 nr. 3 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes. Dette kravet får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 54 nr. 2.►**M1**Dyr som samles opp etter at de har forlatt opprinnelsesanlegget, samles i oppsamlingssentraler for hunder, katter og ildrer som er godkjent i samsvar med artikkel 10 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035).
-◄**M1**
+De driftsansvarlige skal bare flytte hunder, katter og ildrer til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene er individuelt identifisert
+   enten
+
+   1. i samsvar med artikkel 70 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+
+   eller
+
+   1. med en lett leselig tatovering som er påført før 3. juli 2011.
+
+   ►**M3**
+2. Dyrene ledsages av et individuelt identifikasjonsdokument som fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), og følgende gjelder:
+   ◄**M3**
+
+   1. Det identifiserte dyret kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse, og har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før forflytningen, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII. Dette kravet får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 54 nr. 1 og 2.
+   2. Dersom det gjelder hunder, har de gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 1 i vedlegg VII, og dersom det er relevant, når det gjelder hunder, katter eller ildrer, for andre sykdommer i samsvar med del 2 nr. 3 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes. Dette kravet får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 54 nr. 2.
+
+   ►**M1**
+3. Dyr som samles opp etter at de har forlatt opprinnelsesanlegget, samles i oppsamlingssentraler for hunder, katter og ildrer som er godkjent i samsvar med artikkel 10 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035).
+   ◄**M1**
 
 ###### Artikkel 54
 
 Unntak fra kravene med hensyn til vaksinasjon mot rabies og behandling mot infestasjon med Echinococcus multilocularis
 
-1\. Som unntak fra artikkel 53 bokstav b) i) kan driftsansvarlige flytte hunder, katter og ildrer som er yngre enn tolv uker og som ikke er blitt vaksinert mot rabies, eller som er mellom 12 og 16 uker gamle og er blitt vaksinert mot rabies, men som ennå ikke oppfyller gyldighetskravene i del 1 i vedlegg VII, til en annen medlemsstat, forutsatt atbestemmelsesmedlemsstaten generelt har tillatt slike forflytninger og har informert offentligheten på et eget nettsted om at slike forflytninger er tillatt, ogett av følgende vilkår er oppfylt:Helsesertifikatet nevnt i artikkel 86 utfylles med en erklæring fra den driftsansvarlige som fastslår at dyrene fra fødselen og fram til avsendelsen ikke har vært i kontakt med holdte landdyr som er mistenkt å være smittet med rabiesvirus, eller viltlevende dyr av arter som er listeført for infeksjon med rabiesvirus,ellerdet framgår av identifikasjonsdokumentet som ledsager moren, som dyrene nevnt i dette nummeret fortsatt er avhengige av, at moren, før de ble født, ble vaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.
+1\. Som unntak fra artikkel 53 bokstav b) i) kan driftsansvarlige flytte hunder, katter og ildrer som er yngre enn tolv uker og som ikke er blitt vaksinert mot rabies, eller som er mellom 12 og 16 uker gamle og er blitt vaksinert mot rabies, men som ennå ikke oppfyller gyldighetskravene i del 1 i vedlegg VII, til en annen medlemsstat, forutsatt at
+
+1. bestemmelsesmedlemsstaten generelt har tillatt slike forflytninger og har informert offentligheten på et eget nettsted om at slike forflytninger er tillatt, og
+2. ett av følgende vilkår er oppfylt:
+
+   1. Helsesertifikatet nevnt i artikkel 86 utfylles med en erklæring fra den driftsansvarlige som fastslår at dyrene fra fødselen og fram til avsendelsen ikke har vært i kontakt med holdte landdyr som er mistenkt å være smittet med rabiesvirus, eller viltlevende dyr av arter som er listeført for infeksjon med rabiesvirus,
+
+   eller
+
+   1. det framgår av identifikasjonsdokumentet som ledsager moren, som dyrene nevnt i dette nummeret fortsatt er avhengige av, at moren, før de ble født, ble vaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.
 
 2\. Som unntak fra artikkel 53 bokstav b) i) og ii) kan driftsansvarlige flytte hunder, katter og ildrer som ikke er vaksinert mot rabies, og hunder som ikke er behandlet mot infestasjon med *Echinococcus multilocularis,* ved direkte transport til et avgrenset anlegg.
 
@@ -1079,14 +2084,35 @@ Unntak fra kravene med hensyn til vaksinasjon mot rabies og behandling mot infes
 
 Kjæledyrholderes forpliktelser ved andre forflytninger av hunder, katter og ildrer enn ikke-kommersiell forflytning
 
-Hvis en ikke-kommersiell forflytning av hunder, katter eller ildrer som holdes som kjæledyr i husholdninger, ikke kan gjennomføres i samsvar med vilkårene i artikkel 245 nr. 2 eller artikkel 246 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429), skal kjæledyrholdere bare flytte hunder, katter og ildrer som holdes som kjæledyr i husholdninger, til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene er individuelt identifisert
-enteni samsvar med artikkel 70 i delegert forordning [(EU) 2019/2035](eu/32019r2035),ellermed en lett leselig tatovering som er påført før 3. juli 2011.Dyrene ledsages av et individuelt identifikasjonsdokument som fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035) som dokumenterer følgende:Det identifiserte dyret har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før avsendelse, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII. Denne bestemmelsen får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 56.Dersom det gjelder hunder, har de gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 1 i vedlegg VII, og dersom det er relevant, når det gjelder hunder, katter eller ildrer, for andre sykdommer i samsvar med del 2 nr. 3 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes.
+Hvis en ikke-kommersiell forflytning av hunder, katter eller ildrer som holdes som kjæledyr i husholdninger, ikke kan gjennomføres i samsvar med vilkårene i artikkel 245 nr. 2 eller artikkel 246 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429), skal kjæledyrholdere bare flytte hunder, katter og ildrer som holdes som kjæledyr i husholdninger, til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Dyrene er individuelt identifisert
+   enten
+
+   1. i samsvar med artikkel 70 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+
+   eller
+
+   1. med en lett leselig tatovering som er påført før 3. juli 2011.
+2. Dyrene ledsages av et individuelt identifikasjonsdokument som fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035) som dokumenterer følgende:
+
+   1. Det identifiserte dyret har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før avsendelse, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII. Denne bestemmelsen får ikke anvendelse på hunder, katter og ildrer som flyttes i samsvar med artikkel 56.
+   2. Dersom det gjelder hunder, har de gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 1 i vedlegg VII, og dersom det er relevant, når det gjelder hunder, katter eller ildrer, for andre sykdommer i samsvar med del 2 nr. 3 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes.
 
 ###### Artikkel 56
 
 Unntak fra kravet om vaksinasjon mot rabies ved andre forflytninger av hunder, katter og ildrer enn ikke-kommersiell forflytning
 
-Som unntak fra artikkel 55 bokstav b) i) kan kjæledyrholdere flytte hunder, katter og ildrer som er yngre enn tolv uker og som ikke er blitt vaksinert mot rabies, eller som er mellom 12 og 16 uker gamle og er blitt vaksinert mot rabies, men som ennå ikke oppfyller gyldighetskravene i del 1 i vedlegg VII, og som holdes som kjæledyr i husholdninger, til en annen medlemsstat, forutsatt atbestemmelsesmedlemsstaten generelt har tillatt slike forflytninger og har informert offentligheten på et eget nettsted om at slike forflytninger er tillatt, ogett av følgende vilkår er oppfylt:Helsesertifikatet nevnt i artikkel 86 utfylles med en erklæring fra kjæledyrholderen som fastslår at dyrene fra fødselen og fram til avsendelsen ikke har vært i kontakt med holdte landdyr som er mistenkt å være smittet med rabiesvirus, eller viltlevende dyr av arter som er listeført for infeksjon med rabiesvirus,ellerdet framgår av identifikasjonsdokumentet som ledsager moren, som dyrene nevnt i dette nummeret fortsatt er avhengige av, at moren, før de ble født, ble vaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.
+Som unntak fra artikkel 55 bokstav b) i) kan kjæledyrholdere flytte hunder, katter og ildrer som er yngre enn tolv uker og som ikke er blitt vaksinert mot rabies, eller som er mellom 12 og 16 uker gamle og er blitt vaksinert mot rabies, men som ennå ikke oppfyller gyldighetskravene i del 1 i vedlegg VII, og som holdes som kjæledyr i husholdninger, til en annen medlemsstat, forutsatt at
+
+1. bestemmelsesmedlemsstaten generelt har tillatt slike forflytninger og har informert offentligheten på et eget nettsted om at slike forflytninger er tillatt, og
+2. ett av følgende vilkår er oppfylt:
+
+   1. Helsesertifikatet nevnt i artikkel 86 utfylles med en erklæring fra kjæledyrholderen som fastslår at dyrene fra fødselen og fram til avsendelsen ikke har vært i kontakt med holdte landdyr som er mistenkt å være smittet med rabiesvirus, eller viltlevende dyr av arter som er listeført for infeksjon med rabiesvirus,
+
+   eller
+
+   1. det framgår av identifikasjonsdokumentet som ledsager moren, som dyrene nevnt i dette nummeret fortsatt er avhengige av, at moren, før de ble født, ble vaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.
 
 ###### Artikkel 57
 
@@ -1102,9 +2128,21 @@ Andre kjøttetere
 
 Krav ved forflytning av andre kjøttetere til andre medlemsstater
 
-1\. De driftsansvarlige skal bare flytte andre kjøttetere til en annen medlemsstat dersom disse andre kjøtteterne oppfyller følgende krav:Dyrene er enten individuelt identifisert eller identifisert som en gruppe dyr av samme art som holdes sammen under forflytningen til bestemmelsesstedet.Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.Dyret har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før avsendelse, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.Dersom det gjelder dyr av hundefamilien, har dyrene gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 2 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes.I den grad det er vedtatt tiltak i henhold til forordning [(EU) 2016/429](eu/32016r0429) for andre infeksjoner enn rabies som er listeført for kjøttetere eller visse arter av kjøttetere, har dyrene av de artene som omfattes av disse tiltakene, gjennomgått risikoreduserende tiltak i samsvar med del 2 nr. 3 i vedlegg VII for disse kjøttetende artene innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes for dyr som tilhører disse kjøttetende artene.
+1\. De driftsansvarlige skal bare flytte andre kjøttetere til en annen medlemsstat dersom disse andre kjøtteterne oppfyller følgende krav:
 
-2\. Som unntak fra nr. 1 bokstav c) og d) kan driftsansvarlige flytte andre kjøttetere som ikke er vaksinert mot rabies, og dyr av hundefamilien som ikke er behandlet mot infestasjon med *Echinococcus multilocularis*, når dyrene transporteres direkte tilet avgrenset anlegg,elleret anlegg der disse dyrene holdes som pelsdyr som definert i nr. 1 i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)17.
+1. Dyrene er enten individuelt identifisert eller identifisert som en gruppe dyr av samme art som holdes sammen under forflytningen til bestemmelsesstedet.
+2. Dyrene kommer fra et anlegg der det ikke er rapportert om infeksjon med rabiesvirus hos holdte landdyr i løpet av de siste 30 dagene før avsendelse.
+3. Dyret har gjennomgått en fullstendig første runde med rabiesvaksine minst 21 dager før avsendelse, eller er blitt revaksinert mot rabies i samsvar med gyldighetskravene i del 1 i vedlegg VII.
+4. Dersom det gjelder dyr av hundefamilien, har dyrene gjennomgått risikoreduserende tiltak for infestasjon med *Echinococcus multilocularis* i samsvar med del 2 nr. 2 i vedlegg VII innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes.
+5. I den grad det er vedtatt tiltak i henhold til forordning [(EU) 2016/429](eu/32016r0429) for andre infeksjoner enn rabies som er listeført for kjøttetere eller visse arter av kjøttetere, har dyrene av de artene som omfattes av disse tiltakene, gjennomgått risikoreduserende tiltak i samsvar med del 2 nr. 3 i vedlegg VII for disse kjøttetende artene innen fristen fastsatt der, før de innføres til en medlemsstat eller en sone i denne som kan kreve at disse tiltakene iverksettes for dyr som tilhører disse kjøttetende artene.
+
+2\. Som unntak fra nr. 1 bokstav c) og d) kan driftsansvarlige flytte andre kjøttetere som ikke er vaksinert mot rabies, og dyr av hundefamilien som ikke er behandlet mot infestasjon med *Echinococcus multilocularis*, når dyrene transporteres direkte til
+
+1. et avgrenset anlegg,
+
+eller
+
+1. et anlegg der disse dyrene holdes som pelsdyr som definert i nr. 1 i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)17.
 
 17 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
 
@@ -1116,15 +2154,37 @@ Fugler i fangenskap og rugeegg fra fugler i fangenskap
 
 Krav ved forflytning av fugler i fangenskap
 
-1\. De driftsansvarlige skal bare flytte andre fugler i fangenskap enn fugler av papegøyefamilien til en annen medlemsstat dersom følgende krav er oppfylt:Dyrene har siden klekkingen eller minst de siste 21 dagene før avsendelse oppholdt seg kontinuerlig i et registrert eller avgrenset anlegg.Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Dyrene viser ingen kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Dersom dyrene er innført til Unionen fra et tredjeland eller et territorium eller en sone i disse, har de vært holdt i karantene i samsvar med kravene for innførsel til Unionen i det godkjente karanteneanlegget på bestemmelsesstedet i Unionen.Når det gjelder duer, er dyrene vaksinert mot infeksjon med Newcastle disease-virus og kommer fra et anlegg der det utføres vaksinasjon mot infeksjon med Newcastle disease-virus.De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 61 og 62.
+1\. De driftsansvarlige skal bare flytte andre fugler i fangenskap enn fugler av papegøyefamilien til en annen medlemsstat dersom følgende krav er oppfylt:
 
-2\. De driftsansvarlige skal bare flytte fugler av papegøyefamilien til en annen medlemsstat dersom følgende krav er oppfylt:Vilkårene fastsatt i nr. 1 er oppfylt.Dyrene kommer fra et anlegg der det ikke er bekreftet aviær klamydia i løpet av de siste 60 dagene før avsendelse, og der det dersom aviær klamydia er blitt bekreftet i løpet av de siste seks månedene før avsendelse, er iverksatt følgende tiltak:Smittede fugler og fugler som forventes å bli smittet, har fått behandling.Etter avsluttet behandling har de vist seg å være negative ved laboratorieundersøkelser for aviær klamydia.Etter avsluttet behandling er anlegget blitt rengjort og desinfisert.Det har gått minst 60 dager etter at rengjøringen og desinfiseringen nevnt i punkt iii) er avsluttet.Dersom dyrene har vært i kontakt med fugler i fangenskap fra anlegg der det er diagnostisert aviær klamydia i løpet av de siste 60 dagene før avsendelse, har de vist seg å være negative ved laboratorieundersøkelser for aviær klamydia utført minst 14 dager etter kontakten.Dyrene er identifisert i samsvar med artikkel 76 i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+1. Dyrene har siden klekkingen eller minst de siste 21 dagene før avsendelse oppholdt seg kontinuerlig i et registrert eller avgrenset anlegg.
+2. Dyrene kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+3. Dyrene viser ingen kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+4. Dersom dyrene er innført til Unionen fra et tredjeland eller et territorium eller en sone i disse, har de vært holdt i karantene i samsvar med kravene for innførsel til Unionen i det godkjente karanteneanlegget på bestemmelsesstedet i Unionen.
+5. Når det gjelder duer, er dyrene vaksinert mot infeksjon med Newcastle disease-virus og kommer fra et anlegg der det utføres vaksinasjon mot infeksjon med Newcastle disease-virus.
+6. De relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 61 og 62.
+
+2\. De driftsansvarlige skal bare flytte fugler av papegøyefamilien til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. Vilkårene fastsatt i nr. 1 er oppfylt.
+2. Dyrene kommer fra et anlegg der det ikke er bekreftet aviær klamydia i løpet av de siste 60 dagene før avsendelse, og der det dersom aviær klamydia er blitt bekreftet i løpet av de siste seks månedene før avsendelse, er iverksatt følgende tiltak:
+
+   1. Smittede fugler og fugler som forventes å bli smittet, har fått behandling.
+   2. Etter avsluttet behandling har de vist seg å være negative ved laboratorieundersøkelser for aviær klamydia.
+   3. Etter avsluttet behandling er anlegget blitt rengjort og desinfisert.
+   4. Det har gått minst 60 dager etter at rengjøringen og desinfiseringen nevnt i punkt iii) er avsluttet.
+3. Dersom dyrene har vært i kontakt med fugler i fangenskap fra anlegg der det er diagnostisert aviær klamydia i løpet av de siste 60 dagene før avsendelse, har de vist seg å være negative ved laboratorieundersøkelser for aviær klamydia utført minst 14 dager etter kontakten.
+4. Dyrene er identifisert i samsvar med artikkel 76 i delegert forordning [(EU) 2019/2035](eu/32019r2035).
 
 ###### Artikkel 60
 
 Krav ved forflytning av rugeegg fra fugler i fangenskap
 
-De driftsansvarlige skal bare flytte rugeegg fra fugler i fangenskap til en annen medlemsstat dersom disse eggene oppfyller følgende krav:De kommer fra et registrert eller avgrenset anlegg.De kommer fra flokker som er blitt holdt i et registrert eller avgrenset anlegg.De kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.De oppfyller de relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 61 og 62.
+De driftsansvarlige skal bare flytte rugeegg fra fugler i fangenskap til en annen medlemsstat dersom disse eggene oppfyller følgende krav:
+
+1. De kommer fra et registrert eller avgrenset anlegg.
+2. De kommer fra flokker som er blitt holdt i et registrert eller avgrenset anlegg.
+3. De kommer fra flokker som ikke viser kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+4. De oppfyller de relevante kravene knyttet til vaksinasjon som fastsatt i artikkel 61 og 62.
 
 ###### Artikkel 61
 
@@ -1136,8 +2196,32 @@ Dersom fugler i fangenskap, rugeegg fra fugler i fangenskap eller opprinnelsesfl
 
 Krav ved forflytning av fugler i fangenskap og rugeegg fra fugler i fangenskap til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon
 
-De driftsansvarlige skal bare flytte fugler i fangenskap av arter i ordenen Galliformes og rugeegg fra fugler i fangenskap av arter i ordenen Galliformes fra en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, dersom kravene i artikkel 59–61 for den spesifikke varen er oppfylt, og disse dyrene og rugeeggene oppfyller følgende krav med hensyn til infeksjon med Newcastle disease-virus:Når det gjelder fugler i fangenskap,er dyrene ikke vaksinert mot infeksjon med Newcastle disease-virus,har dyrene vært holdt isolert i 14 dager før avsendelse, enten i opprinnelsesanlegget under tilsyn av en offentlig veterinær eller i et godkjent karanteneanlegg, deringen fugler i fangenskap er blitt vaksinert mot infeksjon med Newcastle disease-virus i løpet av de siste 21 dagene før avsendelse,ingen andre fugler ble tatt inn i løpet av de siste 21 dagene før avsendelse,det ikke har vært foretatt noen vaksinasjon i karanteneanlegget,har dyrene i løpet av de siste 14 dagene før avsendelse testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.Når det gjelder rugeegg fra fugler i fangenskap,er de ikke vaksinert mot infeksjon med Newcastle disease-virus,kommer de fra flokker som
-entenikke er vaksinert mot infeksjon med Newcastle disease-virus,ellerer vaksinert mot infeksjon med Newcastle disease-virus med inaktiverte vaksiner,ellerer vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
+De driftsansvarlige skal bare flytte fugler i fangenskap av arter i ordenen Galliformes og rugeegg fra fugler i fangenskap av arter i ordenen Galliformes fra en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, til en medlemsstat eller en sone i denne med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, dersom kravene i artikkel 59–61 for den spesifikke varen er oppfylt, og disse dyrene og rugeeggene oppfyller følgende krav med hensyn til infeksjon med Newcastle disease-virus:
+
+1. Når det gjelder fugler i fangenskap,
+
+   1. er dyrene ikke vaksinert mot infeksjon med Newcastle disease-virus,
+   2. har dyrene vært holdt isolert i 14 dager før avsendelse, enten i opprinnelsesanlegget under tilsyn av en offentlig veterinær eller i et godkjent karanteneanlegg, der
+
+      - ingen fugler i fangenskap er blitt vaksinert mot infeksjon med Newcastle disease-virus i løpet av de siste 21 dagene før avsendelse,
+      - ingen andre fugler ble tatt inn i løpet av de siste 21 dagene før avsendelse,
+      - det ikke har vært foretatt noen vaksinasjon i karanteneanlegget,
+   3. har dyrene i løpet av de siste 14 dagene før avsendelse testet negativt på serologiske tester for å påvise antistoffer mot Newcastle disease-virus, utført på blodprøver som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.
+2. Når det gjelder rugeegg fra fugler i fangenskap,
+
+   1. er de ikke vaksinert mot infeksjon med Newcastle disease-virus,
+   2. kommer de fra flokker som
+      enten
+
+      - ikke er vaksinert mot infeksjon med Newcastle disease-virus,
+
+      eller
+
+      - er vaksinert mot infeksjon med Newcastle disease-virus med inaktiverte vaksiner,
+
+      eller
+
+      - er vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
 
 ### KAPITTEL 6
 Krav ved forflytning av holdte landdyr til avgrensede anlegg
@@ -1146,10 +2230,27 @@ Krav ved forflytning av holdte landdyr til avgrensede anlegg
 
 Krav ved forflytning av holdte landdyr fra andre anlegg enn avgrensede anlegg til et avgrenset anlegg
 
-1\. De driftsansvarlige skal bare flytte andre holdte landdyr enn primater som kommer fra andre anlegg enn avgrensede anlegg, til et avgrenset anlegg i samsvar med følgende krav:Dyrene settes i karantene i et tidsrom som er tilpasset sykdommene som er listeført for artene som skal flyttes, og i alle tilfeller i minst 30 dager, og i dette tidsrommet holdes de
-entenfør forflytningen, i et godkjent karanteneanlegg eller i karantenefasiliteter i et annet avgrenset anlegg,elleretter forflytningen, i en karantenefasilitet i det avgrensede anlegget på det endelige bestemmelsesstedet.Dyrene viser ingen kliniske tegn på eller mistanke om listeførte sykdommer for de aktuelle artene på tidspunktet for forflytningen.Dyrene oppfyller kravene til identifikasjon fastsatt i delegert forordning [(EU) 2019/2035](eu/32019r2035) som er relevante for arten.Dyrene oppfyller kravene til vaksinasjon, behandling eller testing fastsatt i denne forordningen og som gjelder ved forflytning av dyrene.
+1\. De driftsansvarlige skal bare flytte andre holdte landdyr enn primater som kommer fra andre anlegg enn avgrensede anlegg, til et avgrenset anlegg i samsvar med følgende krav:
 
-2\. De driftsansvarlige skal bare flytte holdte primater til et avgrenset anlegg i samsvar med regler som er minst like strenge som dem som er nevnt i 2018-utgaven av Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyrs artikkel 5.9.1–5.9.5 med hensyn til de karantenetiltakene som gjelder for primater, og artikkel 6.12.4 med hensyn til karantenekravene som gjelder for primater fra et ikke-kontrollert miljø, og denne forflytningen er tillattved forflytning innenfor en medlemsstat av vedkommende myndighet i den aktuelle medlemsstaten,ellerved forflytning til en annen medlemsstat, etter avtale mellom vedkommende myndighet i opprinnelsesmedlemsstaten og vedkommende myndighet i bestemmelsesmedlemsstaten.
+1. Dyrene settes i karantene i et tidsrom som er tilpasset sykdommene som er listeført for artene som skal flyttes, og i alle tilfeller i minst 30 dager, og i dette tidsrommet holdes de
+   enten
+
+   1. før forflytningen, i et godkjent karanteneanlegg eller i karantenefasiliteter i et annet avgrenset anlegg,
+
+   eller
+
+   1. etter forflytningen, i en karantenefasilitet i det avgrensede anlegget på det endelige bestemmelsesstedet.
+2. Dyrene viser ingen kliniske tegn på eller mistanke om listeførte sykdommer for de aktuelle artene på tidspunktet for forflytningen.
+3. Dyrene oppfyller kravene til identifikasjon fastsatt i delegert forordning [(EU) 2019/2035](eu/32019r2035) som er relevante for arten.
+4. Dyrene oppfyller kravene til vaksinasjon, behandling eller testing fastsatt i denne forordningen og som gjelder ved forflytning av dyrene.
+
+2\. De driftsansvarlige skal bare flytte holdte primater til et avgrenset anlegg i samsvar med regler som er minst like strenge som dem som er nevnt i 2018-utgaven av Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyrs artikkel 5.9.1–5.9.5 med hensyn til de karantenetiltakene som gjelder for primater, og artikkel 6.12.4 med hensyn til karantenekravene som gjelder for primater fra et ikke-kontrollert miljø, og denne forflytningen er tillatt
+
+1. ved forflytning innenfor en medlemsstat av vedkommende myndighet i den aktuelle medlemsstaten,
+
+eller
+
+1. ved forflytning til en annen medlemsstat, etter avtale mellom vedkommende myndighet i opprinnelsesmedlemsstaten og vedkommende myndighet i bestemmelsesmedlemsstaten.
 
 ###### Artikkel 64
 
@@ -1159,7 +2260,13 @@ Krav ved forflytning av holdte landdyr fra avgrensede anlegg til avgrensede anle
 
 2\. De driftsansvarlige skal bare flytte holdte dyr som tilhører familiene *Antilocapridae*, *Bovidae*, *Camelidae*, *Cervidae*, *Giraffidae*, *Moschidae* eller *Tragulidae* til en annen medlemsstat eller en sone i denne dersom de oppfyller minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
-3\. Som unntak fra nr. 2 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av slike dyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),elleruten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+3\. Som unntak fra nr. 2 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av slike dyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+
+eller
+
+1. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### KAPITTEL 7
 Særlige regler og unntak
@@ -1168,18 +2275,40 @@ Særlige regler og unntak
 
 Særlige regler for forflytning av omreisende sirkus og dyreforestillinger til andre medlemsstater
 
-1\. De driftsansvarlige for omreisende sirkus og dyreforestillinger skal bare flytte sine sirkus og dyreforestillinger til en annen medlemsstat dersom følgende krav er oppfylt:De gir vedkommende myndighet i medlemsstaten der det omreisende sirkuset eller dyreforestillingen befinner seg, en reiserute for sin planlagte forflytning til en annen medlemsstat minst ti virkedager før avreisen.Transportdokumentet nevnt i artikkel 77 i delegert forordning [(EU) 2019/2035](eu/32019r2035) som ledsager alle dyr som skal flyttes, er korrekt oppdatert,
-ogdet individuelle identifikasjonsdokumentet for hver hund, katt og ilder som skal flyttes, som nevnt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), er korrekt utfylt med opplysningene nevnt i artikkel 53 bokstav b) i) og ii),identifikasjonsdokumentet for gruppen av holdte fugler som skal flyttes, som nevnt i artikkel 79 i delegert forordning [(EU) 2019/2035](eu/32019r2035), er korrekt oppdatert.I løpet av de siste tolv månedene før avsendelsehar storfe, sauer, geiter, dyr av kamelfamilien og hjortedyr med negativt resultat gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I,har sauer, geiter og hjortedyr med negativt resultat gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I,er duer blitt vaksinert mot infeksjon med Newcastle disease-virus.Alle dyr i omreisende sirkus og dyreforestillinger ble undersøkt av den offentlige veterinæren i løpet av de ti siste virkedagene før sirkusets og dyreforestillingens avreise, og viste seg å være klinisk friske med hensyn til de listeførte sykdommene som gjelder for listeførte arter eller for kategorier av dyr.
+1\. De driftsansvarlige for omreisende sirkus og dyreforestillinger skal bare flytte sine sirkus og dyreforestillinger til en annen medlemsstat dersom følgende krav er oppfylt:
+
+1. De gir vedkommende myndighet i medlemsstaten der det omreisende sirkuset eller dyreforestillingen befinner seg, en reiserute for sin planlagte forflytning til en annen medlemsstat minst ti virkedager før avreisen.
+2. Transportdokumentet nevnt i artikkel 77 i delegert forordning [(EU) 2019/2035](eu/32019r2035) som ledsager alle dyr som skal flyttes, er korrekt oppdatert,
+   og
+
+   1. det individuelle identifikasjonsdokumentet for hver hund, katt og ilder som skal flyttes, som nevnt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), er korrekt utfylt med opplysningene nevnt i artikkel 53 bokstav b) i) og ii),
+   2. identifikasjonsdokumentet for gruppen av holdte fugler som skal flyttes, som nevnt i artikkel 79 i delegert forordning [(EU) 2019/2035](eu/32019r2035), er korrekt oppdatert.
+3. I løpet av de siste tolv månedene før avsendelse
+
+   1. har storfe, sauer, geiter, dyr av kamelfamilien og hjortedyr med negativt resultat gjennomgått en test for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I,
+   2. har sauer, geiter og hjortedyr med negativt resultat gjennomgått en test for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) ved hjelp av en av de diagnostiske metodene som er angitt i del 1 i vedlegg I,
+   3. er duer blitt vaksinert mot infeksjon med Newcastle disease-virus.
+4. Alle dyr i omreisende sirkus og dyreforestillinger ble undersøkt av den offentlige veterinæren i løpet av de ti siste virkedagene før sirkusets og dyreforestillingens avreise, og viste seg å være klinisk friske med hensyn til de listeførte sykdommene som gjelder for listeførte arter eller for kategorier av dyr.
 
 2\. De driftsansvarlige for omreisende sirkus og dyreforestillinger skal bare flytte holdte dyr som tilhører familiene *Antilocapridae*, *Bovidae*, *Camelidae*, *Cervidae*, *Giraffidae*, *Moschidae* eller *Tragulidae* til en annen medlemsstat eller en sone i denne dersom de oppfyller minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
-3\. Som unntak fra nr. 2 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av slike dyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i dennemed sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),elleruten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+3\. Som unntak fra nr. 2 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av slike dyr som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689), til en annen medlemsstat eller en sone i denne
+
+1. med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+
+eller
+
+1. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ###### Artikkel 66
 
 Vedkommende myndighets forpliktelser i forbindelse med forflytning av omreisende sirkus og dyreforestillinger til andre medlemsstater
 
-Vedkommende myndighet i opprinnelsesmedlemsstaten skal undertegne og stemple reiseruten nevnt i artikkel 65 nr. 1 bokstav a), forutsatt atdet omreisende sirkuset eller dyreforestillingen ikke er underlagt noen dyrehelserestriksjoner med hensyn til en sykdom som er listeført for den dyrearten som holdes i det omreisende sirkuset og dyreforestillingen,kravene til dyrehelse fastsatt i artikkel 65 er oppfylt,alle identifikasjonsdokumenter som ledsager dyrene under forflytning av det omreisende sirkuset og dyreforestillingen, er korrekt oppdatert, og dyrene oppfyller de kravene til vaksinasjon, behandling eller testing som er fastsatt i denne forordningen, og som gjelder for forflytning av relevante arter.
+Vedkommende myndighet i opprinnelsesmedlemsstaten skal undertegne og stemple reiseruten nevnt i artikkel 65 nr. 1 bokstav a), forutsatt at
+
+1. det omreisende sirkuset eller dyreforestillingen ikke er underlagt noen dyrehelserestriksjoner med hensyn til en sykdom som er listeført for den dyrearten som holdes i det omreisende sirkuset og dyreforestillingen,
+2. kravene til dyrehelse fastsatt i artikkel 65 er oppfylt,
+3. alle identifikasjonsdokumenter som ledsager dyrene under forflytning av det omreisende sirkuset og dyreforestillingen, er korrekt oppdatert, og dyrene oppfyller de kravene til vaksinasjon, behandling eller testing som er fastsatt i denne forordningen, og som gjelder for forflytning av relevante arter.
 
 ►**M2**
 
@@ -1189,16 +2318,46 @@ Krav ved forflytning av fugler i fangenskap beregnet på utstillinger
 
 1\. De driftsansvarlige skal bare flytte fugler i fangenskap til en utstilling i en annen medlemsstat dersom disse dyrene oppfyller vilkårene i artikkel 59.
 
-2\. Før forflytning til en utstilling i en annen medlemsstat kan de driftsansvarlige i en medlemsstat samle fugler i fangenskap i ett enkelt registrert anlegg i samme medlemsstat på følgende vilkår:Fuglene i fangenskap oppholder seg i anlegget i høyst 12 timer.På innsamlingstidspunktet holder anlegget bare fugler i fangenskap som er bestemt for den aktuelle utstillingen.Alle fugler i fangenskap som samles i anlegget, kommer direkte fra registrerte eller godkjente anlegg der de kontinuerlig holdes, og der de oppfyller vilkårene i artikkel 59.
+2\. Før forflytning til en utstilling i en annen medlemsstat kan de driftsansvarlige i en medlemsstat samle fugler i fangenskap i ett enkelt registrert anlegg i samme medlemsstat på følgende vilkår:
 
-3\. Den driftsansvarlige for utstillingen, med unntak av utstillinger med flygeoppvisninger, skal sikre atinnførselen av dyr til utstillingen er begrenset til fugler i fangenskap som er registrert på forhånd for deltakelse i utstillingen,innførselen til utstillingen av fugler som kommer fra anlegg som ligger i medlemsstaten der utstillingen finner sted, ikke setter helsestatusen til fugler som deltar i utstillingen i fare, ved å
-entenkreve samme helsestatus for alle fugler i fangenskap som deltar i utstillingen,ellerholde de fuglene i fangenskap som kommer fra medlemsstaten der utstillingen finner sted, i separate lokaler eller avlukker atskilt fra fugler i fangenskap som kommer fra andre medlemsstater,en veterinærutfører identitetskontroll av fugler i fangenskap som deltar i utstillingen, før de innføres til utstillingen,overvåker fuglenes kliniske tilstand ved innførsel til og under utstillingen.
+1. Fuglene i fangenskap oppholder seg i anlegget i høyst 12 timer.
+2. På innsamlingstidspunktet holder anlegget bare fugler i fangenskap som er bestemt for den aktuelle utstillingen.
+3. Alle fugler i fangenskap som samles i anlegget, kommer direkte fra registrerte eller godkjente anlegg der de kontinuerlig holdes, og der de oppfyller vilkårene i artikkel 59.
+
+3\. Den driftsansvarlige for utstillingen, med unntak av utstillinger med flygeoppvisninger, skal sikre at
+
+1. innførselen av dyr til utstillingen er begrenset til fugler i fangenskap som er registrert på forhånd for deltakelse i utstillingen,
+2. innførselen til utstillingen av fugler som kommer fra anlegg som ligger i medlemsstaten der utstillingen finner sted, ikke setter helsestatusen til fugler som deltar i utstillingen i fare, ved å
+   enten
+
+   1. kreve samme helsestatus for alle fugler i fangenskap som deltar i utstillingen,
+
+   eller
+
+   1. holde de fuglene i fangenskap som kommer fra medlemsstaten der utstillingen finner sted, i separate lokaler eller avlukker atskilt fra fugler i fangenskap som kommer fra andre medlemsstater,
+3. en veterinær
+
+   1. utfører identitetskontroll av fugler i fangenskap som deltar i utstillingen, før de innføres til utstillingen,
+   2. overvåker fuglenes kliniske tilstand ved innførsel til og under utstillingen.
 
 ►**M3**
 
-4\. De driftsansvarlige skal sikre at fugler i fangenskap som er blitt flyttet til en utstilling i samsvar med nr. 1 og 2, bare flyttes tilbake til opprinnelsesmedlemsstaten dersom følgende krav er oppfylt:Fuglene ledsages av et helsesertifikat som er utstedt av enten vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, eller av vedkommende myndighet i medlemsstaten der utstillingen finner sted. Sistnevnte myndighet skal utstede helsesertifikatet på grunnlag av offentlige opplysninger i sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.Forflytningen finner sted i gyldighetstiden for sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.Fuglene har ikke vært i kontakt med fugler med en lavere helsestatus under utstillingen.Dersom helsesertifikatet er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten, skal en erklæring om at fuglene ikke har vært i kontakt med fugler med en lavere helsetilstand under utstillingen, utstedes av veterinæren nevnt i nr. 3 bokstav c) for andre fugler enn dem som deltar i utstillinger med flygeoppvisninger, eller av den driftsansvarlige som er ansvarlig for de fuglene som deltok i flygeoppvisninger.
+4\. De driftsansvarlige skal sikre at fugler i fangenskap som er blitt flyttet til en utstilling i samsvar med nr. 1 og 2, bare flyttes tilbake til opprinnelsesmedlemsstaten dersom følgende krav er oppfylt:
 
-5\. De driftsansvarlige skal sikre at fugler i fangenskap som er blitt flyttet til en utstilling i samsvar med nr. 1 og 2, bare flyttes til en medlemsstat som ikke er opprinnelsesmedlemsstaten dersom følgende krav er oppfylt:Fuglene ledsages av helsesertifikatet som er utstedt av vedkommende myndighet i medlemsstaten der utstillingen finner sted, og som er utfylt på grunnlag av offentlige opplysninger i sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1.Forflytningen finner sted i gyldighetstiden for sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.Fuglene har ikke vært i kontakt med fugler med en lavere helsestatus under utstillingen.Dersom utstillingen finner sted i en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, flyttes fugler av arter i ordenen Galliformes ikke til en medlemsstat eller en sone i denne som har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, bortsett fra dersom alle fugler av arter i ordenen Galliformes på utstillingen oppfyller kravene i artikkel 62 bokstav a).Den driftsansvarlige på bestemmelsesstedet skal sikre at fuglene holdes isolert fra alle andre fugler i 21 dager etter ankomst.
+1. Fuglene ledsages av et helsesertifikat som er utstedt av enten vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, eller av vedkommende myndighet i medlemsstaten der utstillingen finner sted. Sistnevnte myndighet skal utstede helsesertifikatet på grunnlag av offentlige opplysninger i sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.
+2. Forflytningen finner sted i gyldighetstiden for sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.
+3. Fuglene har ikke vært i kontakt med fugler med en lavere helsestatus under utstillingen.
+
+Dersom helsesertifikatet er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten, skal en erklæring om at fuglene ikke har vært i kontakt med fugler med en lavere helsetilstand under utstillingen, utstedes av veterinæren nevnt i nr. 3 bokstav c) for andre fugler enn dem som deltar i utstillinger med flygeoppvisninger, eller av den driftsansvarlige som er ansvarlig for de fuglene som deltok i flygeoppvisninger.
+
+5\. De driftsansvarlige skal sikre at fugler i fangenskap som er blitt flyttet til en utstilling i samsvar med nr. 1 og 2, bare flyttes til en medlemsstat som ikke er opprinnelsesmedlemsstaten dersom følgende krav er oppfylt:
+
+1. Fuglene ledsages av helsesertifikatet som er utstedt av vedkommende myndighet i medlemsstaten der utstillingen finner sted, og som er utfylt på grunnlag av offentlige opplysninger i sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1.
+2. Forflytningen finner sted i gyldighetstiden for sertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten.
+3. Fuglene har ikke vært i kontakt med fugler med en lavere helsestatus under utstillingen.
+4. Dersom utstillingen finner sted i en medlemsstat eller en sone i denne som ikke har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, flyttes fugler av arter i ordenen Galliformes ikke til en medlemsstat eller en sone i denne som har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, bortsett fra dersom alle fugler av arter i ordenen Galliformes på utstillingen oppfyller kravene i artikkel 62 bokstav a).
+
+Den driftsansvarlige på bestemmelsesstedet skal sikre at fuglene holdes isolert fra alle andre fugler i 21 dager etter ankomst.
 
 ◄**M3**
 
@@ -1223,7 +2382,11 @@ Krav om utstedelse av helsesertifikater
 
 Unntak for forflytning av holdte hestedyr til andre medlemsstater
 
-Vedkommende myndighet i opprinnelsesstaten kan tillate forflytning til en annen medlemsstat av registrerte hestedyr som ikke oppfyller kravene til utstedelse av helsesertifikat fastsatt i artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), forutsatt atvedkommende myndighet i bestemmelsesmedlemsstaten har fastsatt vilkårene på grunnlag av kravene i bokstav b) og c) og har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt,dyrene som holdes og flyttes på de respektive territoriene til opprinnelsesmedlemsstaten og bestemmelsesmedlemsstaten, oppfyller minst kravene til dyrehelse ved forflytning av holdte hestedyr til andre medlemsstater, særlig de spesifikke kravene til dyrehelse fastsatt i artikkel 22,vedkommende myndighet i opprinnelsesmedlemsstaten oppfyller det vilkåret som vedkommende myndighet i bestemmelsesmedlemsstaten har fastsatt, om at dyrene som flyttes, skal kunne spores, og underretter vedkommende myndighet i bestemmelsesmedlemsstaten om at den har til hensikt å benytte seg av unntaket.
+Vedkommende myndighet i opprinnelsesstaten kan tillate forflytning til en annen medlemsstat av registrerte hestedyr som ikke oppfyller kravene til utstedelse av helsesertifikat fastsatt i artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), forutsatt at
+
+1. vedkommende myndighet i bestemmelsesmedlemsstaten har fastsatt vilkårene på grunnlag av kravene i bokstav b) og c) og har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt,
+2. dyrene som holdes og flyttes på de respektive territoriene til opprinnelsesmedlemsstaten og bestemmelsesmedlemsstaten, oppfyller minst kravene til dyrehelse ved forflytning av holdte hestedyr til andre medlemsstater, særlig de spesifikke kravene til dyrehelse fastsatt i artikkel 22,
+3. vedkommende myndighet i opprinnelsesmedlemsstaten oppfyller det vilkåret som vedkommende myndighet i bestemmelsesmedlemsstaten har fastsatt, om at dyrene som flyttes, skal kunne spores, og underretter vedkommende myndighet i bestemmelsesmedlemsstaten om at den har til hensikt å benytte seg av unntaket.
 
 ◄**M3**
 
@@ -1273,9 +2436,18 @@ Nærmere opplysninger om innhold i helsesertifikat for holdt storfe
 
 Nærmere opplysninger om innhold i helsesertifikat for holdte sauer og geiter
 
-1\. Helsesertifikatet for holdte sauer og geiter, bortsett fra holdte sauer og geiter nevnt i nr. 2 og 3, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravenei artikkel 15 nr. 1 og 2 når det gjelder sauer, bortsett fra ukastrerte hanndyr av sau,i artikkel 15 nr. 1 og 3 når det gjelder geiter,i artikkel 15 nr. 1, 2 og 4 når det gjelder ukastrerte hanndyr av sau,i artikkel 17 når det er relevant.
+1\. Helsesertifikatet for holdte sauer og geiter, bortsett fra holdte sauer og geiter nevnt i nr. 2 og 3, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene
 
-2\. Helsesertifikatet for holdte sauer og geiter som flyttes til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravenei artikkel 15 nr. 1 bokstav a), b) og d)–h),i enten artikkel 15 nr. 1 bokstav c) eller artikkel 16,i artikkel 17 når det er relevant.
+1. i artikkel 15 nr. 1 og 2 når det gjelder sauer, bortsett fra ukastrerte hanndyr av sau,
+2. i artikkel 15 nr. 1 og 3 når det gjelder geiter,
+3. i artikkel 15 nr. 1, 2 og 4 når det gjelder ukastrerte hanndyr av sau,
+4. i artikkel 17 når det er relevant.
+
+2\. Helsesertifikatet for holdte sauer og geiter som flyttes til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene
+
+1. i artikkel 15 nr. 1 bokstav a), b) og d)–h),
+2. i enten artikkel 15 nr. 1 bokstav c) eller artikkel 16,
+3. i artikkel 17 når det er relevant.
 
 3\. Helsesertifikatet for holdte sauer og geiter som flyttes enten direkte eller etter å ha gjennomgått oppsamling til et slakteri i en annen medlemsstat for umiddelbar slakting, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 18.
 
@@ -1293,7 +2465,19 @@ Nærmere opplysninger om innhold i helsesertifikat for holdte hestedyr
 
 1\. Helsesertifikatet for holdte hestedyr som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 22.
 
-2\. Helsesertifikatet nevnt i nr. 1skal utstedes for et enkelt hestedyr,ellerkan utstedes for en forsendelse av hestedyrsom sendes direkte til en annen medlemsstat uten å gjennomgå oppsamling,ellersom transporteres enten direkte eller etter å ha gjennomgått oppsamling til et slakteri i en annen medlemsstat for umiddelbar slakting.
+2\. Helsesertifikatet nevnt i nr. 1
+
+1. skal utstedes for et enkelt hestedyr,
+
+eller
+
+1. kan utstedes for en forsendelse av hestedyr
+
+   1. som sendes direkte til en annen medlemsstat uten å gjennomgå oppsamling,
+
+   eller
+
+   1. som transporteres enten direkte eller etter å ha gjennomgått oppsamling til et slakteri i en annen medlemsstat for umiddelbar slakting.
 
 ###### Artikkel 77
 
@@ -1323,7 +2507,12 @@ Nærmere opplysninger om innhold i helsesertifikat for andre holdte hov- og klov
 
 Nærmere opplysninger om innhold i helsesertifikat for fjørfe
 
-Helsesertifikatet for fjørfe som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravenei artikkel 34 når det gjelder avlsfjørfe og produksjonsfjørfe, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,i artikkel 35 når det gjelder slaktefjørfe, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,i artikkel 36 når det gjelder daggamle kyllinger, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,i artikkel 37 når det gjelder færre enn 20 dyr av annet fjørfe enn strutsefugler, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42.
+Helsesertifikatet for fjørfe som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene
+
+1. i artikkel 34 når det gjelder avlsfjørfe og produksjonsfjørfe, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,
+2. i artikkel 35 når det gjelder slaktefjørfe, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,
+3. i artikkel 36 når det gjelder daggamle kyllinger, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42,
+4. i artikkel 37 når det gjelder færre enn 20 dyr av annet fjørfe enn strutsefugler, og når det er relevant for den bestemte fjørfekategorien, i artikkel 41 og 42.
 
 ###### Artikkel 81
 
@@ -1351,7 +2540,11 @@ Nærmere opplysninger om innhold i helsesertifikat for fugler i fangenskap
 
 Nærmere opplysninger om innhold i helsesertifikat for rugeegg fra fjørfe
 
-Helsesertifikatet for rugeegg fra fjørfe som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 161 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 2 i vedlegg VIII og en attestering av samsvar med kravenei artikkel 38 når det gjelder rugeegg fra fjørfe, bortsett fra dem som er nevnt i artikkel 38 bokstav b) og c), og når det er relevant for den bestemte kategorien av egg, i artikkel 41 og 42,i artikkel 39 når det gjelder færre enn 20 rugeegg fra annet fjørfe enn strutsefugler, og når det er relevant for den bestemte kategorien av egg, i artikkel 41 og 42,i artikkel 40 når det gjelder egg som er fri for spesifiserte patogener.
+Helsesertifikatet for rugeegg fra fjørfe som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 161 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal inneholde de generelle opplysningene fastsatt i del 1 nr. 2 i vedlegg VIII og en attestering av samsvar med kravene
+
+1. i artikkel 38 når det gjelder rugeegg fra fjørfe, bortsett fra dem som er nevnt i artikkel 38 bokstav b) og c), og når det er relevant for den bestemte kategorien av egg, i artikkel 41 og 42,
+2. i artikkel 39 når det gjelder færre enn 20 rugeegg fra annet fjørfe enn strutsefugler, og når det er relevant for den bestemte kategorien av egg, i artikkel 41 og 42,
+3. i artikkel 40 når det gjelder egg som er fri for spesifiserte patogener.
 
 ###### Artikkel 83
 
@@ -1405,14 +2598,45 @@ Krav om utstedelse av helsesertifikat til bruk ved bestemte typer forflytninger 
 
 Utstedelse av helsesertifikat til bruk ved forflytning av hov- og klovdyr og fjørfe gjennom anlegg som utfører oppsamling
 
-Vedkommende myndighet skal utstede helsesertifikatet nevnt i artikkel 73–80 ved forflytning til en annen medlemsstat av hov- og klovdyr og fjørfe som skal gjennomgå oppsamling, i samsvar med følgende:Det utføres dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser som nevnt i artikkel 91 nr. 1 før utstedelse av det første helsesertifikatet nevnt i artikkel 73–80,
-enteni opprinnelsesanlegget dersom dyrene er beregnet pådirekte forflytning til et anlegg som er godkjent for oppsamling i den medlemsstaten som dyrene passerer gjennom,elleren oppsamling på et transportmiddel i opprinnelsesmedlemsstaten for å flyttes direkte til en annen medlemsstat,elleri et anlegg som er godkjent for oppsamling, dersom dyrene er oppsamlet i opprinnelsesmedlemsstaten for avsendelse til en annen medlemsstat,elleri et anlegg som er godkjent for oppsamling i en medlemsstat som dyrene passerer gjennom, dersom dyrene har gjennomgått oppsamling i en slik medlemsstat.Helsesertifikatet nevnt i artikkel 73–80 fylles ut på grunnlag av offentlige opplysningersom er tilgjengelige for den attesterende offentlige veterinæren som utførte kontrollene og undersøkelsene nevnt i bokstav a) i) og ii) i opprinnelsesmedlemsstaten,ellersom er angitt i det første eller andre helsesertifikatet nevnt i artikkel 73–80, og som er tilgjengelige for den attesterende offentlige veterinæren som utførte kontrollene og undersøkelsene nevnt i bokstav a) iii) i medlemsstaten som dyrene passerer gjennom, dersom en slik stat er besøkt.
+Vedkommende myndighet skal utstede helsesertifikatet nevnt i artikkel 73–80 ved forflytning til en annen medlemsstat av hov- og klovdyr og fjørfe som skal gjennomgå oppsamling, i samsvar med følgende:
+
+1. Det utføres dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser som nevnt i artikkel 91 nr. 1 før utstedelse av det første helsesertifikatet nevnt i artikkel 73–80,
+   enten
+
+   1. i opprinnelsesanlegget dersom dyrene er beregnet på
+
+      - direkte forflytning til et anlegg som er godkjent for oppsamling i den medlemsstaten som dyrene passerer gjennom,
+
+      eller
+
+      - en oppsamling på et transportmiddel i opprinnelsesmedlemsstaten for å flyttes direkte til en annen medlemsstat,
+
+   eller
+
+   1. i et anlegg som er godkjent for oppsamling, dersom dyrene er oppsamlet i opprinnelsesmedlemsstaten for avsendelse til en annen medlemsstat,
+
+   eller
+
+   1. i et anlegg som er godkjent for oppsamling i en medlemsstat som dyrene passerer gjennom, dersom dyrene har gjennomgått oppsamling i en slik medlemsstat.
+2. Helsesertifikatet nevnt i artikkel 73–80 fylles ut på grunnlag av offentlige opplysninger
+
+   1. som er tilgjengelige for den attesterende offentlige veterinæren som utførte kontrollene og undersøkelsene nevnt i bokstav a) i) og ii) i opprinnelsesmedlemsstaten,
+
+   eller
+
+   1. som er angitt i det første eller andre helsesertifikatet nevnt i artikkel 73–80, og som er tilgjengelige for den attesterende offentlige veterinæren som utførte kontrollene og undersøkelsene nevnt i bokstav a) iii) i medlemsstaten som dyrene passerer gjennom, dersom en slik stat er besøkt.
 
 ###### Artikkel 90
 
 Utstedelse av helsesertifikat for holdte hov- og klovdyr og holdt fjørfe beregnet på eksport til tredjeland under deres forflytning fra opprinnelsesmedlemsstaten gjennom andre medlemsstaters territorium til Unionens ytre grense
 
-De driftsansvarlige skal sikre at holdte hov- og klovdyr og holdt fjørfe som er beregnet på eksport til et tredjeland og transporteres til Unionens ytre grense gjennom en annen medlemsstats territorium, ledsages av helsesertifikater der det attesteres atdyrene minst oppfyller kravene i dette kapittelet for forflytning av holdte hov- og klovdyr eller holdt fjørfe som er beregnet på slakting i den medlemsstaten der utførselsstedet ligger,ognår det gjelder dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), oppfyller dyrene minst kravene i artikkel 33 dersom utførselsstedet ligger i en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24).
+De driftsansvarlige skal sikre at holdte hov- og klovdyr og holdt fjørfe som er beregnet på eksport til et tredjeland og transporteres til Unionens ytre grense gjennom en annen medlemsstats territorium, ledsages av helsesertifikater der det attesteres at
+
+1. dyrene minst oppfyller kravene i dette kapittelet for forflytning av holdte hov- og klovdyr eller holdt fjørfe som er beregnet på slakting i den medlemsstaten der utførselsstedet ligger,
+
+og
+
+1. når det gjelder dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24), oppfyller dyrene minst kravene i artikkel 33 dersom utførselsstedet ligger i en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24).
 
 ###### Avsnitt 4
 
@@ -1422,13 +2646,68 @@ Regler for vedkommende myndighets ansvar for utstedelse av helsesertifikat
 
 Vedkommende myndighets ansvar for utstedelse av helsesertifikat
 
-1\. Før et helsesertifikat undertegnes, skal den offentlige veterinæren utføre følgende typer dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser for å verifisere at kravene oppfylles:Når det gjelder holdte hov- og klovdyr, en identitetskontroll og en klinisk undersøkelse av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Når det gjelder avlsfjørfe, produksjonsfjørfe og færre enn 20 dyr av annet fjørfe enn strutsefugler, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av dyrene i forsendelsen og en klinisk inspeksjon av opprinnelsesflokken og av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Når det gjelder fjørfe beregnet på slakting, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av dyrene i forsendelsen og en klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Når det gjelder daggamle kyllinger, en dokumentkontroll av de helse- og produksjonsjournalene som føres i opprinnelsesflokkens anlegg, med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Når det gjelder fugler i fangenskap,en identitetskontroll av dyrene i forsendelsen,en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, og en klinisk inspeksjon av opprinnelsesflokken og av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
-►**M2**for fugler i fangenskap som flyttes til en utstilling i en annen medlemsstat fra ett enkelt registrert anlegg i henhold til artikkel 67 nr. 2: identitetskontroll og fysisk kontroll av fuglene i fangenskap og dokumentkontroll av helse- og produksjonsjournaler fra det registrerte eller godkjente opprinnelsesanlegget og av en erklæring fra driftslederen ved dette anlegget om atfuglene i fangenskap framstilt for sertifisering har oppholdt seg kontinuerlig i opprinnelsesanlegget siden klekking eller minst de siste 21 dagene før avgang,det finnes ikke unormal dødelighet av ubestemt årsak i opprinnelsesflokken, ogfuglene i opprinnelsesflokken har i løpet av de siste 48 timene ikke vist kliniske tegn på eller gitt anledning til mistanke om listeførte sykdommer som er relevante for arten.
-◄**M2**Når det gjelder rugeegg fra fjørfe, en dokumentkontroll av de helse- og produksjonsjournalene som føres i opprinnelsesflokkens anlegg, og dersom det er relevant, journalene som føres på avsenderrugeriet, en identitetskontroll av rugeeggene og
-entenen klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten,ellermånedlige besøk med helsekontroll av opprinnelsesflokkens helsestatus og en vurdering av dens nåværende helsestatus ved hjelp av oppdatert informasjon framlagt av den driftsansvarlige.Når det gjelder rugeegg fra fugler i fangenskap, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av rugeeggene og en klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.Når det gjelder honningbier og humler, en identitetskontroll og
-entenen visuell undersøkelse av dyrene, deres emballasje og eventuelt ledsagende fôr eller annet materiale for å påvise forekomst av lukket yngelråte, *Aethina tumida* (liten kubebille) og *Tropilaelaps spp.* for honningbier eller *Aethina tumida* (liten kubebille) for humler,ellernår det gjelder honningbidronninger som skal attesteres i henhold til unntaket fastsatt i artikkel 49, en dokumentkontroll av journalene fra det månedlige besøket med helsekontroll i produksjonssesongen, en visuell undersøkelse av deres individuelle bur med henblikk på verifisering av høyeste antall følgebier per bur, og en visuell undersøkelse av dyrene, deres emballasje og eventuelt ledsagende fôr eller annet materiale for å påvise forekomst av lukket yngelråte, *Aethina tumida* (liten kubebille) og *Tropilaelaps spp.*Når det gjelder primater, en dokumentkontroll av helsejournalene, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyret/dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.►**M3**Når det gjelder hunder, katter og ildrer, en dokumentkontroll av det individuelle identifikasjonsdokumentet fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), og når det gjelder hunder, katter, ildrer og andre kjøttetere, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.◄**M3**Når det gjelder landdyr fra et avgrenset anlegg som flyttes til et avgrenset anlegg i en annen medlemsstat, en dokumentkontroll av helsejournalene, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+1\. Før et helsesertifikat undertegnes, skal den offentlige veterinæren utføre følgende typer dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser for å verifisere at kravene oppfylles:
 
-2\. Den offentlige veterinæren skal utføre dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser som fastsatt i nr. 1 og utstede helsesertifikatetnår det gjelder holdte hov- og klovdyr bortsett fra hestedyr, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget, eller dersom det er relevant, anlegget som er godkjent for oppsamling,►**M3**når det gjelder hestedyr, i løpet av de siste 48 timene eller på den siste virkedagen før avsendelse fra opprinnelsesanlegget,◄**M3**når det gjelder avlsfjørfe, produksjonsfjørfe, færre enn 20 dyr av annet fjørfe enn strutsefugler og fugler i fangenskap, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,når det gjelder fjørfe beregnet på slakting, i løpet av de siste 5 dagene før avsendelse fra opprinnelsesanlegget,når det gjelder daggamle kyllinger, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget,når det gjelder rugeegg fra fjørfe,i løpet av de siste 72 timene før avsendelse av rugeeggene fra opprinnelsesanlegget når det gjelder dokumentkontroll, identitetskontroll, klinisk inspeksjon av opprinnelsesflokken og vurdering av dens nåværende helsestatus ved hjelp av oppdatert informasjon framlagt av den driftsansvarlige,i løpet av de siste 31 dagene før avsendelse av rugeeggene fra opprinnelsesanlegget når det gjelder månedlige besøk med helsekontroll av opprinnelsesflokken,når det gjelder rugeegg fra fugler i fangenskap, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,når det gjelder honningbier og humler, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget, og når det gjelder honningbidronninger som skal attesteres i henhold til et unntak, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget,når det gjelder primater, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,når det gjelder hunder, katter, ildrer og andre kjøttetere, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,når det gjelder landdyr som flyttes fra et avgrenset anlegg til et avgrenset anlegg i en annen medlemsstat, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget.
+1. Når det gjelder holdte hov- og klovdyr, en identitetskontroll og en klinisk undersøkelse av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+2. Når det gjelder avlsfjørfe, produksjonsfjørfe og færre enn 20 dyr av annet fjørfe enn strutsefugler, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av dyrene i forsendelsen og en klinisk inspeksjon av opprinnelsesflokken og av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+3. Når det gjelder fjørfe beregnet på slakting, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av dyrene i forsendelsen og en klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+4. Når det gjelder daggamle kyllinger, en dokumentkontroll av de helse- og produksjonsjournalene som føres i opprinnelsesflokkens anlegg, med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+5. Når det gjelder fugler i fangenskap,
+
+   1. en identitetskontroll av dyrene i forsendelsen,
+   2. en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, og en klinisk inspeksjon av opprinnelsesflokken og av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+      ►**M2**
+   3. for fugler i fangenskap som flyttes til en utstilling i en annen medlemsstat fra ett enkelt registrert anlegg i henhold til artikkel 67 nr. 2: identitetskontroll og fysisk kontroll av fuglene i fangenskap og dokumentkontroll av helse- og produksjonsjournaler fra det registrerte eller godkjente opprinnelsesanlegget og av en erklæring fra driftslederen ved dette anlegget om at
+
+      - fuglene i fangenskap framstilt for sertifisering har oppholdt seg kontinuerlig i opprinnelsesanlegget siden klekking eller minst de siste 21 dagene før avgang,
+      - det finnes ikke unormal dødelighet av ubestemt årsak i opprinnelsesflokken, og
+      - fuglene i opprinnelsesflokken har i løpet av de siste 48 timene ikke vist kliniske tegn på eller gitt anledning til mistanke om listeførte sykdommer som er relevante for arten.
+        ◄**M2**
+6. Når det gjelder rugeegg fra fjørfe, en dokumentkontroll av de helse- og produksjonsjournalene som føres i opprinnelsesflokkens anlegg, og dersom det er relevant, journalene som føres på avsenderrugeriet, en identitetskontroll av rugeeggene og
+   enten
+
+   1. en klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten,
+
+   eller
+
+   1. månedlige besøk med helsekontroll av opprinnelsesflokkens helsestatus og en vurdering av dens nåværende helsestatus ved hjelp av oppdatert informasjon framlagt av den driftsansvarlige.
+7. Når det gjelder rugeegg fra fugler i fangenskap, en dokumentkontroll av de helse- og produksjonsjournalene som føres i anlegget, en identitetskontroll av rugeeggene og en klinisk inspeksjon av opprinnelsesflokken med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+8. Når det gjelder honningbier og humler, en identitetskontroll og
+   enten
+
+   1. en visuell undersøkelse av dyrene, deres emballasje og eventuelt ledsagende fôr eller annet materiale for å påvise forekomst av lukket yngelråte, *Aethina tumida* (liten kubebille) og *Tropilaelaps spp.* for honningbier eller *Aethina tumida* (liten kubebille) for humler,
+
+   eller
+
+   1. når det gjelder honningbidronninger som skal attesteres i henhold til unntaket fastsatt i artikkel 49, en dokumentkontroll av journalene fra det månedlige besøket med helsekontroll i produksjonssesongen, en visuell undersøkelse av deres individuelle bur med henblikk på verifisering av høyeste antall følgebier per bur, og en visuell undersøkelse av dyrene, deres emballasje og eventuelt ledsagende fôr eller annet materiale for å påvise forekomst av lukket yngelråte, *Aethina tumida* (liten kubebille) og *Tropilaelaps spp.*
+9. Når det gjelder primater, en dokumentkontroll av helsejournalene, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyret/dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+
+   ►**M3**
+10. Når det gjelder hunder, katter og ildrer, en dokumentkontroll av det individuelle identifikasjonsdokumentet fastsatt i artikkel 71 i delegert forordning [(EU) 2019/2035](eu/32019r2035), og når det gjelder hunder, katter, ildrer og andre kjøttetere, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+
+    ◄**M3**
+11. Når det gjelder landdyr fra et avgrenset anlegg som flyttes til et avgrenset anlegg i en annen medlemsstat, en dokumentkontroll av helsejournalene, en identitetskontroll og en klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte sykdommer som er relevante for arten.
+
+2\. Den offentlige veterinæren skal utføre dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser som fastsatt i nr. 1 og utstede helsesertifikatet
+
+1. når det gjelder holdte hov- og klovdyr bortsett fra hestedyr, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget, eller dersom det er relevant, anlegget som er godkjent for oppsamling,
+
+   ►**M3**
+2. når det gjelder hestedyr, i løpet av de siste 48 timene eller på den siste virkedagen før avsendelse fra opprinnelsesanlegget,
+
+   ◄**M3**
+3. når det gjelder avlsfjørfe, produksjonsfjørfe, færre enn 20 dyr av annet fjørfe enn strutsefugler og fugler i fangenskap, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,
+4. når det gjelder fjørfe beregnet på slakting, i løpet av de siste 5 dagene før avsendelse fra opprinnelsesanlegget,
+5. når det gjelder daggamle kyllinger, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget,
+6. når det gjelder rugeegg fra fjørfe,
+
+   1. i løpet av de siste 72 timene før avsendelse av rugeeggene fra opprinnelsesanlegget når det gjelder dokumentkontroll, identitetskontroll, klinisk inspeksjon av opprinnelsesflokken og vurdering av dens nåværende helsestatus ved hjelp av oppdatert informasjon framlagt av den driftsansvarlige,
+   2. i løpet av de siste 31 dagene før avsendelse av rugeeggene fra opprinnelsesanlegget når det gjelder månedlige besøk med helsekontroll av opprinnelsesflokken,
+7. når det gjelder rugeegg fra fugler i fangenskap, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,
+8. når det gjelder honningbier og humler, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget, og når det gjelder honningbidronninger som skal attesteres i henhold til et unntak, i løpet av de siste 24 timene før avsendelse fra opprinnelsesanlegget,
+9. når det gjelder primater, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,
+10. når det gjelder hunder, katter, ildrer og andre kjøttetere, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget,
+11. når det gjelder landdyr som flyttes fra et avgrenset anlegg til et avgrenset anlegg i en annen medlemsstat, i løpet av de siste 48 timene før avsendelse fra opprinnelsesanlegget.
 
 3\. Helsesertifikatet skal være gyldig i ti dager fra utstedelsesdatoen, uten at det berører unntakene i artikkel 92.
 
@@ -1440,12 +2719,18 @@ Unntak fra gyldighetstiden for helsesertifikatet
 
 ►**M3**
 
-2\. Også som unntak fra gyldighetstiden for helsesertifikatet nevnt i artikkel 91 nr. 3 skal helsesertifikatet utstedt for et enkelt hestedyr nevnt i artikkel 76 nr. 2 bokstav a) være gyldig i 30 dager forutsatt athestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429), som omfatter et gyldig valideringsmerke utstedt av vedkommende myndighet eller det organet som denne oppgaven er blitt delegert til i en periode på høyst fire år, for å dokumentere at dyret vanligvis oppholder seg i et anlegg som vedkommende myndighet har godkjent som et anlegg med lav helserisiko på grunn av hyppige dyrehelsebesøk, ytterligere identitetskontroller og helsekontroller samt ingen bruk av naturlig bedekning i anlegget, unntatt i særlige lokaler som er beregnet på dette,
-ellerdet registrerte hestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429), som omfatter en gyldig lisens utstedt for en periode på høyst fire år, av det nasjonale forbundet av Det internasjonale rideforbund for deltakelse i hestekonkurranser, eller av den vedkommende veddeløpsmyndigheten for deltakelse i løp, og som dokumenterer minst to besøk per år av en veterinær, også besøk som er nødvendige for å utføre regelmessig vaksinasjon mot hesteinfluensa og undersøkelser som kreves for forflytning til andre medlemsstater eller tredjeland.
+2\. Også som unntak fra gyldighetstiden for helsesertifikatet nevnt i artikkel 91 nr. 3 skal helsesertifikatet utstedt for et enkelt hestedyr nevnt i artikkel 76 nr. 2 bokstav a) være gyldig i 30 dager forutsatt at
+
+1. hestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429), som omfatter et gyldig valideringsmerke utstedt av vedkommende myndighet eller det organet som denne oppgaven er blitt delegert til i en periode på høyst fire år, for å dokumentere at dyret vanligvis oppholder seg i et anlegg som vedkommende myndighet har godkjent som et anlegg med lav helserisiko på grunn av hyppige dyrehelsebesøk, ytterligere identitetskontroller og helsekontroller samt ingen bruk av naturlig bedekning i anlegget, unntatt i særlige lokaler som er beregnet på dette,
+   eller
+2. det registrerte hestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429), som omfatter en gyldig lisens utstedt for en periode på høyst fire år, av det nasjonale forbundet av Det internasjonale rideforbund for deltakelse i hestekonkurranser, eller av den vedkommende veddeløpsmyndigheten for deltakelse i løp, og som dokumenterer minst to besøk per år av en veterinær, også besøk som er nødvendige for å utføre regelmessig vaksinasjon mot hesteinfluensa og undersøkelser som kreves for forflytning til andre medlemsstater eller tredjeland.
 
 ◄**M3**
 
-3\. I gyldighetstiden skal sertifikatet nevnt i nr. 2 være tilstrekkelig forflere innførsler til andre medlemsstater,hjemtransport til det avsenderanlegget som er angitt der.
+3\. I gyldighetstiden skal sertifikatet nevnt i nr. 2 være tilstrekkelig for
+
+1. flere innførsler til andre medlemsstater,
+2. hjemtransport til det avsenderanlegget som er angitt der.
 
 ###### Avsnitt 5
 
@@ -1473,13 +2758,19 @@ Når det gjelder rugeegg fra fugler i fangenskap som flyttes til en annen medlem
 
 Driftsansvarliges informasjonsplikt i forbindelse med melding om forflytning av holdte landdyr til andre medlemsstater
 
-De driftsansvarlige som gir melding til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 152 i forordning [(EU) 2016/429](eu/32016r0429), skal gi vedkommende myndighet informasjon om hver forsendelse av holdte landdyr som skal flyttes til en annen medlemsstat, som fastsatt idel 1 nr. 1 bokstav a)–d) i vedlegg VIII med hensyn til holdte landdyr, bortsett fra humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, som skal flyttes til en annen medlemsstat,del 2 i vedlegg VIII med hensyn til humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet.
+De driftsansvarlige som gir melding til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 152 i forordning [(EU) 2016/429](eu/32016r0429), skal gi vedkommende myndighet informasjon om hver forsendelse av holdte landdyr som skal flyttes til en annen medlemsstat, som fastsatt i
+
+1. del 1 nr. 1 bokstav a)–d) i vedlegg VIII med hensyn til holdte landdyr, bortsett fra humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, som skal flyttes til en annen medlemsstat,
+2. del 2 i vedlegg VIII med hensyn til humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet.
 
 ###### Artikkel 97
 
 Vedkommende myndighets informasjonsplikt i forbindelse med melding om forflytning av holdte landdyr til andre medlemsstater
 
-Vedkommende myndighet i opprinnelsesmedlemsstaten som gir melding til vedkommende myndighet i bestemmelsesmedlemsstaten i samsvar med artikkel 153 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gi informasjon om hver forsendelse av holdte landdyr som skal flyttes til en annen medlemsstat, som fastsatt idel 1 nr. 1 bokstav a)–d) i vedlegg VIII med hensyn til holdte landdyr, bortsett fra humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, som skal flyttes til en annen medlemsstat,del 2 i vedlegg VIII med hensyn til humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet.
+Vedkommende myndighet i opprinnelsesmedlemsstaten som gir melding til vedkommende myndighet i bestemmelsesmedlemsstaten i samsvar med artikkel 153 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gi informasjon om hver forsendelse av holdte landdyr som skal flyttes til en annen medlemsstat, som fastsatt i
+
+1. del 1 nr. 1 bokstav a)–d) i vedlegg VIII med hensyn til holdte landdyr, bortsett fra humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, som skal flyttes til en annen medlemsstat,
+2. del 2 i vedlegg VIII med hensyn til humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet.
 
 ###### Artikkel 98
 
@@ -1497,7 +2788,12 @@ Ved strømbrudd og andre forstyrrelser i IMSOC skal vedkommende myndighet på op
 
 Utpeking av regioner til forvaltning av meldinger om forflytning
 
-Når medlemsstatene utpeker regioner til forvaltning av meldinger om forflytning som fastsatt i artikkel 97 og 98, skal de sikre atalle deler av deres territorium er dekket av minst én region,hver utpekt region hører inn under ansvarsområdet for en vedkommende myndighet som er utpekt for utstedelse av helsesertifikat i denne regionen,vedkommende myndighet som er ansvarlig for den utpekte regionen, har tilgang til IMSOC,personalet fra vedkommende myndighet som er ansvarlig for den utpekte regionen, har relevant kompetanse og kunnskap, og har fått særskilt opplæring eller har tilsvarende praktisk erfaring i bruken av IMSOC til utarbeiding, håndtering og oversending av informasjonen fastsatt i artikkel 97 og 98.
+Når medlemsstatene utpeker regioner til forvaltning av meldinger om forflytning som fastsatt i artikkel 97 og 98, skal de sikre at
+
+1. alle deler av deres territorium er dekket av minst én region,
+2. hver utpekt region hører inn under ansvarsområdet for en vedkommende myndighet som er utpekt for utstedelse av helsesertifikat i denne regionen,
+3. vedkommende myndighet som er ansvarlig for den utpekte regionen, har tilgang til IMSOC,
+4. personalet fra vedkommende myndighet som er ansvarlig for den utpekte regionen, har relevant kompetanse og kunnskap, og har fått særskilt opplæring eller har tilsvarende praktisk erfaring i bruken av IMSOC til utarbeiding, håndtering og oversending av informasjonen fastsatt i artikkel 97 og 98.
 
 ### DEL III
 FORFLYTNING AV VILTLEVENDE LANDDYR
@@ -1506,13 +2802,40 @@ FORFLYTNING AV VILTLEVENDE LANDDYR
 
 1\. De driftsansvarlige skal bare flytte viltlevende landdyr fra deres opprinnelseshabitat ved å laste dem direkte på et transportmiddel som skal frakte dem til et habitat eller et anlegg i en annen medlemsstat, uten at dyrene tas inn i noe anlegg i opprinnelsesmedlemsstaten.
 
-2\. Driftsansvarlige og transportører skal sikre at transportmiddelet som brukes til transport av viltlevende landdyr, bortsett fra honningbier og humler,er konstruert på en slik måte atdyr ikke kan slippe ut eller falle ut,det er mulig med visuell kontroll av dyrene på transportmiddelet,utslipp av dyreekskrementer, strø og fôr hindres eller minimeres,utslipp av fjør hindres eller minimeres når det gjelder fugler,dyrene om nødvendig kan fikseres eller transporteres sedert,rengjøres og desinfiseres umiddelbart etter hver transport av dyr eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig desinfiseres igjen og under alle omstendigheter tørkes eller får tørke før de lastes på nytt med dyr.
+2\. Driftsansvarlige og transportører skal sikre at transportmiddelet som brukes til transport av viltlevende landdyr, bortsett fra honningbier og humler,
 
-3\. Driftsansvarlige og transportører skal sikre at containere som brukes til transport av viltlevende landdyr, bortsett fra honningbier og humler,oppfyller vilkårene i nr. 2 bokstav a),bare inneholder viltlevende dyr av samme art som kommer fra samme habitat,er merket med nærmere opplysninger om art og antall dyr,er enten ubrukte, spesialutformede engangscontainere som skal destrueres etter at de er brukt første gang, eller er rengjort eller desinfisert etter bruk og tørket eller har fått tørke før de brukes igjen.
+1. er konstruert på en slik måte at
 
-4\. De driftsansvarlige skal bare flytte viltlevende landdyr fra deres opprinnelseshabitat til et habitat eller et anlegg i en annen medlemsstat dersom følgende utfyllende krav er oppfylt:Flertallet av dyrene i forsendelsen har oppholdt seg i opprinnelseshabitatet minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte dyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i nr. 1, og som tas inn i et anlegg som ligger i habitatet der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
-►**M1**Dyr fra arter som er listeført for de relevante sykdommene, kommer fra et habitat der det ikke er rapportert om følgende sykdommer og infeksjoner innenfor de angitte tidsrommene:
-◄**M1**Infeksjon med rabiesvirus i løpet av de siste 30 dagene før avsendelse.Infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste 42 dagene før avsendelse.Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste 42 dagene før avsendelse.Infeksjon med hemoragisk epizooti-virus innenfor en radius på 150 km hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse.Miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.Surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse.Dersom disse dyrene tilhører familiene *Antilocapridae*, *Bovidae*, *Camelidae*, *Cervidae*, *Giraffidae*, *Moschidae* eller *Tragulidae*, skal opprinnelseshabitatet oppfylle minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).Disse dyrene har så vidt man kjenner til, ikke vært i kontakt med viltlevende landdyr som ikke oppfyller kravene i bokstav c), i løpet av de siste 30 dagene før avsendelse.
+   1. dyr ikke kan slippe ut eller falle ut,
+   2. det er mulig med visuell kontroll av dyrene på transportmiddelet,
+   3. utslipp av dyreekskrementer, strø og fôr hindres eller minimeres,
+   4. utslipp av fjør hindres eller minimeres når det gjelder fugler,
+   5. dyrene om nødvendig kan fikseres eller transporteres sedert,
+2. rengjøres og desinfiseres umiddelbart etter hver transport av dyr eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig desinfiseres igjen og under alle omstendigheter tørkes eller får tørke før de lastes på nytt med dyr.
+
+3\. Driftsansvarlige og transportører skal sikre at containere som brukes til transport av viltlevende landdyr, bortsett fra honningbier og humler,
+
+1. oppfyller vilkårene i nr. 2 bokstav a),
+2. bare inneholder viltlevende dyr av samme art som kommer fra samme habitat,
+3. er merket med nærmere opplysninger om art og antall dyr,
+4. er enten ubrukte, spesialutformede engangscontainere som skal destrueres etter at de er brukt første gang, eller er rengjort eller desinfisert etter bruk og tørket eller har fått tørke før de brukes igjen.
+
+4\. De driftsansvarlige skal bare flytte viltlevende landdyr fra deres opprinnelseshabitat til et habitat eller et anlegg i en annen medlemsstat dersom følgende utfyllende krav er oppfylt:
+
+1. Flertallet av dyrene i forsendelsen har oppholdt seg i opprinnelseshabitatet minst de siste 30 dagene før avsendelse, eller siden fødselen dersom de er yngre enn 30 dager, og i dette tidsrommet har de ikke vært i kontakt med holdte dyr som har lavere helsestatus eller er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker, eller med holdte dyr som kommer fra et anlegg som ikke oppfyller kravene i bokstav b).
+2. Alle dyr som innføres til Unionen fra et tredjeland eller et territorium i løpet av de siste 30 dagene før avsendelse av dyrene nevnt i nr. 1, og som tas inn i et anlegg som ligger i habitatet der disse dyrene oppholdt seg, skal holdes atskilt for å hindre direkte og indirekte kontakt med alle andre dyr i anlegget.
+   ►**M1**
+3. Dyr fra arter som er listeført for de relevante sykdommene, kommer fra et habitat der det ikke er rapportert om følgende sykdommer og infeksjoner innenfor de angitte tidsrommene:
+   ◄**M1**
+
+   1. Infeksjon med rabiesvirus i løpet av de siste 30 dagene før avsendelse.
+   2. Infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste 42 dagene før avsendelse.
+   3. Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste 42 dagene før avsendelse.
+   4. Infeksjon med hemoragisk epizooti-virus innenfor en radius på 150 km hos viltlevende landdyr av arter som er listeført for denne sykdommen, i løpet av de siste to årene før avsendelse.
+   5. Miltbrann hos hov- og klovdyr i løpet av de siste 15 dagene før avsendelse.
+   6. Surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene før avsendelse.
+4. Dersom disse dyrene tilhører familiene *Antilocapridae*, *Bovidae*, *Camelidae*, *Cervidae*, *Giraffidae*, *Moschidae* eller *Tragulidae*, skal opprinnelseshabitatet oppfylle minst ett av kravene for infeksjon med blåtungevirus (serotype 1–24) fastsatt i del II kapittel 2 avsnitt 1 nr. 1–3 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
+5. Disse dyrene har så vidt man kjenner til, ikke vært i kontakt med viltlevende landdyr som ikke oppfyller kravene i bokstav c), i løpet av de siste 30 dagene før avsendelse.
 
 ►**M1**
 
@@ -1532,7 +2855,11 @@ Helsesertifikatet for viltlevende landdyr som er utstedt av vedkommende myndighe
 
 ### Artikkel 103. Regler for vedkommende myndighets ansvar for utstedelse av helsesertifikat til bruk ved forflytning av viltlevende landdyr til andre medlemsstater
 
-1\. Før helsesertifikatet fastsatt i artikkel 102 til bruk ved forflytning av viltlevende landdyr undertegnes, skal den offentlige veterinæren utføre følgende typer identitetskontroll og undersøkelser:En undersøkelse av tilgjengelige opplysninger som viser at kravene i artikkel 101 nr. 4 er oppfylt.En identitetskontroll.En klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte eller nye sykdommer som er relevante for arten.
+1\. Før helsesertifikatet fastsatt i artikkel 102 til bruk ved forflytning av viltlevende landdyr undertegnes, skal den offentlige veterinæren utføre følgende typer identitetskontroll og undersøkelser:
+
+1. En undersøkelse av tilgjengelige opplysninger som viser at kravene i artikkel 101 nr. 4 er oppfylt.
+2. En identitetskontroll.
+3. En klinisk undersøkelse, og dersom dette ikke er mulig, en klinisk inspeksjon av dyrene i forsendelsen med henblikk på påvisning av kliniske tegn på eller mistanke om listeførte eller nye sykdommer som er relevante for arten.
 
 2\. Den offentlige veterinæren skal utføre dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser som fastsatt i nr. 1 og utstede helsesertifikatet i løpet av de siste 24 timene før avsendelse av forsendelsen fra habitatet.
 
@@ -1565,7 +2892,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. desember 2019.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. desember 2019.
 
 |  |  |
 | --- | --- |
@@ -1581,25 +2910,54 @@ DIAGNOSTISKE METODER
 ### Del 1
 Infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
 
-1. Serologiske tester for storfe, sau, geit og dyr av kamelfamilien:Bufrede brucella-antigentester.Komplementbindingstest (CFT).Indirekte enzymmerket antistoffprøve (I-ELISA).Fluorescenspolariseringstest (FPA).Kompetitiv enzymmerket antistoffprøve (C-ELISA).
-2. Serologiske tester for svin:Bufrede brucella-antigentester.Komplementbindingstest (CFT).Indirekte enzymmerket antistoffprøve (I-ELISA).Fluorescenspolariseringstest (FPA).Kompetitiv enzymmerket antistoffprøve (C-ELISA).
+1. Serologiske tester for storfe, sau, geit og dyr av kamelfamilien:
+
+   1. Bufrede brucella-antigentester.
+   2. Komplementbindingstest (CFT).
+   3. Indirekte enzymmerket antistoffprøve (I-ELISA).
+   4. Fluorescenspolariseringstest (FPA).
+   5. Kompetitiv enzymmerket antistoffprøve (C-ELISA).
+2. Serologiske tester for svin:
+
+   1. Bufrede brucella-antigentester.
+   2. Komplementbindingstest (CFT).
+   3. Indirekte enzymmerket antistoffprøve (I-ELISA).
+   4. Fluorescenspolariseringstest (FPA).
+   5. Kompetitiv enzymmerket antistoffprøve (C-ELISA).
 3. Brucellin-hudtest (BST) for sau, geit og svin.
 
 ### Del 2
 Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*)
 
-1. Tuberkulinhudtester:Enkel intrakutan tuberkulintest (SITT).Komparativ intrakutan tuberkulintest (CITT).
-2. Tilgjengelig test av blodprøver:Gammainterferontest.
+1. Tuberkulinhudtester:
+
+   1. Enkel intrakutan tuberkulintest (SITT).
+   2. Komparativ intrakutan tuberkulintest (CITT).
+2. Tilgjengelig test av blodprøver:
+
+   1. Gammainterferontest.
 
 ### Del 3
 Surra (*Trypanosoma evansi*)
 
-Serologiske tester:Enzymmerket antistoffprøve (ELISA) for trypanosomiasis.Kortagglutinasjonstest for trypanosomiasis (CATT) ved en serumfortynning på 1:4.
+Serologiske tester:
+
+1. Enzymmerket antistoffprøve (ELISA) for trypanosomiasis.
+2. Kortagglutinasjonstest for trypanosomiasis (CATT) ved en serumfortynning på 1:4.
 
 ### Del 4
 Enzootisk bovin leukose
 
-Serologiske tester:Tester av blodprøver:Agargel-immundiffusjonstest (AGID).Blokkerende enzymmerket antistoffprøve (B-ELISA).Indirekte enzymmerket antistoffprøve (I-ELISA).Test av melkeprøver:Indirekte enzymmerket antistoffprøve (I-ELISA).
+Serologiske tester:
+
+1. Tester av blodprøver:
+
+   1. Agargel-immundiffusjonstest (AGID).
+   2. Blokkerende enzymmerket antistoffprøve (B-ELISA).
+   3. Indirekte enzymmerket antistoffprøve (I-ELISA).
+2. Test av melkeprøver:
+
+   1. Indirekte enzymmerket antistoffprøve (I-ELISA).
 
 ### Del 5
 Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt
@@ -1616,10 +2974,17 @@ Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt
 ### Del 6
 Bovin virusdiaré
 
-1. Direkte metoder:Sanntids revers transkripsjon-polymerasekjedereaksjon (sanntids RT-PCR).Enzymmerket antistoffprøve (ELISA) for påvisning av antigen mot bovin virusdiaré-virus (BVDV).
-2. Serologiske tester:Indirekte enzymmerket antistoffprøve (I-ELISA).Blokkerende enzymmerket antistoffprøve (B-ELISA).
-►**M3**Virusnøytralisasjon.
-◄**M3**
+1. Direkte metoder:
+
+   1. Sanntids revers transkripsjon-polymerasekjedereaksjon (sanntids RT-PCR).
+   2. Enzymmerket antistoffprøve (ELISA) for påvisning av antigen mot bovin virusdiaré-virus (BVDV).
+2. Serologiske tester:
+
+   1. Indirekte enzymmerket antistoffprøve (I-ELISA).
+   2. Blokkerende enzymmerket antistoffprøve (B-ELISA).
+      ►**M3**
+   3. Virusnøytralisasjon.
+      ◄**M3**
 
 ### Del 7
 Infeksjon med pseudorabiesvirus
@@ -1639,13 +3004,21 @@ Komplementbindingstest for ondartet beskjelersyke ved en serumfortynning på 1:5
 ### Del 9
 Infeksiøs anemi hos hest
 
-Serologiske tester:Agargel-immundiffusjonstest (AGID).Enzymmerket antistoffprøve (ELISA) for infeksiøs anemi hos hest.
+Serologiske tester:
+
+1. Agargel-immundiffusjonstest (AGID).
+2. Enzymmerket antistoffprøve (ELISA) for infeksiøs anemi hos hest.
 
 ### Del 10
 Venezuelansk encefalomyelitt hos hest
 
-1. Serologiske tester:Virusisolasjonstest for venezuelansk encefalomyelitt hos hest.Hemagglutinasjonshemmingstest for venezuelansk encefalomyelitt hos hest.
-2. Direkte metode:Revers transkripsjon-polymerasekjedereaksjon (RT-PCR) for påvisning av virusgenom for venezuelansk encefalomyelitt hos hest.
+1. Serologiske tester:
+
+   1. Virusisolasjonstest for venezuelansk encefalomyelitt hos hest.
+   2. Hemagglutinasjonshemmingstest for venezuelansk encefalomyelitt hos hest.
+2. Direkte metode:
+
+   Revers transkripsjon-polymerasekjedereaksjon (RT-PCR) for påvisning av virusgenom for venezuelansk encefalomyelitt hos hest.
 
 ### VEDLEGG II
 MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *MYCOBACTERIUM TUBERCULOSIS*-KOMPLEKS (*M. BOVIS, M. CAPRAE* OG *M. TUBERCULOSIS*) HOS GEIT, DYR AV KAMELFAMILIEN OG HJORTEDYR
@@ -1653,32 +3026,70 @@ MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *MYCOBACTERIUM TUBERCUL
 ### Del 1
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geit
 
-1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte geiter til en annen medlemsstat som nevnt i artikkel 15 nr. 3, skal minst omfatte følgende elementer:Kontroll post mortem av alle slaktede geiter fra anlegget.Kontroll post mortem av alle selvdøde geiter som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.Et årlig dyrehelsebesøk av en veterinær.Årlig testing med negativt resultat av alle geiter som holdes i anlegget for avlsformål.
+1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte geiter til en annen medlemsstat som nevnt i artikkel 15 nr. 3, skal minst omfatte følgende elementer:
+
+   1. Kontroll post mortem av alle slaktede geiter fra anlegget.
+   2. Kontroll post mortem av alle selvdøde geiter som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.
+   3. Et årlig dyrehelsebesøk av en veterinær.
+   4. Årlig testing med negativt resultat av alle geiter som holdes i anlegget for avlsformål.
 2. Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:
-►**M1**Elementene nevnt i nr. 1 bokstav a), b) og c) som utgjør en del av programmet for overvåking før forflytning opprettet i nr. 1, er blitt gjennomført i anlegget nevnt i nr. 1 i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geiter som holdes i anlegget, er ikke rapportert i denne perioden.◄**M1**Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.►**M1**
+   ►**M1**
+
+   1. Elementene nevnt i nr. 1 bokstav a), b) og c) som utgjør en del av programmet for overvåking før forflytning opprettet i nr. 1, er blitt gjennomført i anlegget nevnt i nr. 1 i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geiter som holdes i anlegget, er ikke rapportert i denne perioden.
+
+   ◄**M1**
+
+   1. Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.
+
+   ►**M1**
 3. Dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geiter som holdes i anlegget nevnt i nr. 1, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle geiter som er eldre enn seks uker, og som holdes i anlegget, er blitt testet med negativt resultat. Disse testene skal utføres på geiter eller på prøver som er tatt av geiter, minst 42 dager etter at det siste bekreftede tilfellet og det siste dyret som testet positivt ved hjelp av en diagnostisk metode, ble fjernet.
-◄**M1**
+   ◄**M1**
 
 ### Del 2
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien
 
-1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte dyr av kamelfamilien til en annen medlemsstat som nevnt i artikkel 23 nr. 1 bokstav e), skal minst omfatte følgende elementer:Kontroll post mortem av alle slaktede dyr av kamelfamilien fra anlegget.Kontroll post mortem av alle selvdøde dyr av kamelfamilien som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.Et årlig dyrehelsebesøk av en veterinær.Årlig testing med negativt resultat av alle dyr av kamelfamilien som holdes i anlegget for avlsformål.
-2. Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:Programmet for overvåking før forflytning nevnt i nr. 1 er blitt gjennomført i anlegget i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien som holdes i anlegget, ikke er rapportert i denne perioden.Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.►**M1**
+1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte dyr av kamelfamilien til en annen medlemsstat som nevnt i artikkel 23 nr. 1 bokstav e), skal minst omfatte følgende elementer:
+
+   1. Kontroll post mortem av alle slaktede dyr av kamelfamilien fra anlegget.
+   2. Kontroll post mortem av alle selvdøde dyr av kamelfamilien som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.
+   3. Et årlig dyrehelsebesøk av en veterinær.
+   4. Årlig testing med negativt resultat av alle dyr av kamelfamilien som holdes i anlegget for avlsformål.
+2. Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:
+
+   1. Programmet for overvåking før forflytning nevnt i nr. 1 er blitt gjennomført i anlegget i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien som holdes i anlegget, ikke er rapportert i denne perioden.
+   2. Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.
+
+   ►**M1**
 3. Dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien som holdes i anlegget nevnt i nr. 1, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle dyr av kamelfamilien som er eldre enn seks uker, og som holdes i anlegget, er blitt testet med negativt resultat. Disse testene skal utføres på dyr av kamelfamilien eller på prøver som er tatt av dyr av kamelfamilien, minst 42 dager etter at det siste bekreftede tilfellet og det siste dyret som testet positivt ved hjelp av en diagnostisk metode, ble fjernet.
-◄**M1**
+   ◄**M1**
 
 ### Del 3
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr
 
-1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte hjortedyr til en annen medlemsstat som nevnt i artikkel 26 nr. 1 bokstav e), skal minst omfatte følgende elementer:Kontroll post mortem av alle slaktede hjortedyr fra anlegget.Kontroll post mortem av alle selvdøde hjortedyr som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.Et årlig dyrehelsebesøk av en veterinær.Årlig testing med negativt resultat av alle hjortedyr som holdes i anlegget for avlsformål.
-2. Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:Programmet for overvåking før forflytning nevnt i nr. 1 er blitt gjennomført i anlegget i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, ikke er rapportert i denne perioden.Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.
+1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte hjortedyr til en annen medlemsstat som nevnt i artikkel 26 nr. 1 bokstav e), skal minst omfatte følgende elementer:
+
+   1. Kontroll post mortem av alle slaktede hjortedyr fra anlegget.
+   2. Kontroll post mortem av alle selvdøde hjortedyr som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.
+   3. Et årlig dyrehelsebesøk av en veterinær.
+   4. Årlig testing med negativt resultat av alle hjortedyr som holdes i anlegget for avlsformål.
+2. Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:
+
+   1. Programmet for overvåking før forflytning nevnt i nr. 1 er blitt gjennomført i anlegget i minst 24 måneder, og infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, ikke er rapportert i denne perioden.
+   2. Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos storfepopulasjonen.
 3. Dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle hjortedyr som er eldre enn seks uker og som holdes i anlegget, er blitt testet med negativt resultat ved to anledninger med minst seks måneders mellomrom for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*). Den første testen skal utføres på hjortedyr eller prøver som er tatt fra hjortedyr minst seks måneder etter at det siste bekreftede tilfellet og det siste dyret som testet positivt ved hjelp av en diagnostisk metode, ble fjernet.
 
 ### VEDLEGG III
 MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *BRUCELLA ABORTUS, B. MELITENSIS* OG *B SUIS* HOS SVIN
 
-1. Programmet for overvåking før forflytning for å påvise infeksjon med *Brucella abortus, B. melitensis* og *B suis* i et anlegg med henblikk på forflytning av holdte svin til en annen medlemsstat som nevnt i artikkel 19 nr. 1 bokstav f) ii), skal minst omfatte følgende elementer:Et årlig dyrehelsebesøk av en veterinær.Dersom det holdes svin i anlegget for avlsformål, en årlig immunologisk undersøkelse av svinepopulasjonen i anlegget ved hjelp av en av de diagnostiske metodene angitt i del 1 nr. 2 i vedlegg I, som minst skal gjøre det mulig med et konfidensnivå på 95 %, å påvise at det ikke forekommer infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis* med en målprevalens på 10 %.
-2. Som unntak fra nr. 1 er det årlige dyrehelsebesøket nevnt i nr. 1 bokstav a) og undersøkelsen fastsatt i nr. 1 bokstav b) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:Det er ikke rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* i populasjonen av holdte svin i løpet av de siste fem årene.Det er ikke rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* i populasjonen av viltlevende dyr av listeførte arter i løpet av de siste fem årene, og i dette tidsrommet har villsvin vært inkludert i målpopulasjonen for overvåking som fastsatt i artikkel 4 i delegert forordning [(EU) 2020/689](eu/32020r0689).Medlemsstaten eller sonen i denne er fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos storfe-, saue- og geitepopulasjonen.
+1. Programmet for overvåking før forflytning for å påvise infeksjon med *Brucella abortus, B. melitensis* og *B suis* i et anlegg med henblikk på forflytning av holdte svin til en annen medlemsstat som nevnt i artikkel 19 nr. 1 bokstav f) ii), skal minst omfatte følgende elementer:
+
+   1. Et årlig dyrehelsebesøk av en veterinær.
+   2. Dersom det holdes svin i anlegget for avlsformål, en årlig immunologisk undersøkelse av svinepopulasjonen i anlegget ved hjelp av en av de diagnostiske metodene angitt i del 1 nr. 2 i vedlegg I, som minst skal gjøre det mulig med et konfidensnivå på 95 %, å påvise at det ikke forekommer infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis* med en målprevalens på 10 %.
+2. Som unntak fra nr. 1 er det årlige dyrehelsebesøket nevnt i nr. 1 bokstav a) og undersøkelsen fastsatt i nr. 1 bokstav b) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:
+
+   1. Det er ikke rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* i populasjonen av holdte svin i løpet av de siste fem årene.
+   2. Det er ikke rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* i populasjonen av viltlevende dyr av listeførte arter i løpet av de siste fem årene, og i dette tidsrommet har villsvin vært inkludert i målpopulasjonen for overvåking som fastsatt i artikkel 4 i delegert forordning [(EU) 2020/689](eu/32020r0689).
+   3. Medlemsstaten eller sonen i denne er fri for infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos storfe-, saue- og geitepopulasjonen.
 3. Dersom det er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos svin som holdes i anlegget, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle svin som holdes i anlegget, er blitt testet med negativt resultat ved to anledninger. Den første testen skal utføres på prøver som er tatt minst tre måneder etter at de smittede dyrene og dyrene som testet positivt ved hjelp av en av de diagnostiske metodene fastsatt i del 1 nr. 2 i vedlegg I, ble fjernet. Den andre testen skal utføres på prøver som er tatt minst seks måneder og høyst tolv måneder etter den første testen.
 
 ### VEDLEGG IV
@@ -1689,13 +3100,23 @@ I løpet av den siste uken før lasting for avsendelse skal ender og gjess ha te
 ### VEDLEGG V
 KRAV TIL TESTING AV FORSENDELSER AV FÆRRE ENN 20 DYR AV ANNET FJØRFE ENN STRUTSEFUGLER ELLER FÆRRE ENN 20 RUGEEGG FRA ANNET FJØRFE ENN STRUTSEFUGLER
 
-1. Forsendelser av færre enn 20 dyr av annet fjørfe enn strutsefugler eller færre enn 20 rugeegg fra annet fjørfe enn strutsefugler skal ha testet negativt i samsvar med nr. 2 for følgende sykdomsagenser for de relevante listeførte artene:Infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae.*Aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*).
-2. Testing:Når det gjelder avlsfjørfe, produksjonsfjørfe og fjørfe beregnet på slakting, skal dyrene i løpet av de siste 21 dagene før lasting for avsendelse ha testet negativt ved serologiske og/eller bakteriologiske tester for påvisning av sykdommene nevnt i nr. 1.Når det gjelder rugeegg og daggamle kyllinger, skal opprinnelsesflokken i løpet av de siste 21 dagene før lasting for avsendelse ha testet negativt ved serologiske og/eller bakteriologiske tester for påvisning av sykdommene nevnt i nr. 1, som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.Dersom dyrene er blitt vaksinert mot infeksjon med en hvilken som helst serotype av *Salmonella* eller *Mycoplasma*, skal det bare brukes bakteriologiske tester. Bekreftelsesmetoden skal kunne differensiere mellom levende vaksinestammer og feltstammer.
+1. Forsendelser av færre enn 20 dyr av annet fjørfe enn strutsefugler eller færre enn 20 rugeegg fra annet fjørfe enn strutsefugler skal ha testet negativt i samsvar med nr. 2 for følgende sykdomsagenser for de relevante listeførte artene:
+
+   1. Infeksjon med *Salmonella* Pullorum, *S.* Gallinarum og *S. arizonae.*
+   2. Aviær mykoplasmainfeksjon (*Mycoplasma gallisepticum* og *M. meleagridis*).
+2. Testing:
+
+   1. Når det gjelder avlsfjørfe, produksjonsfjørfe og fjørfe beregnet på slakting, skal dyrene i løpet av de siste 21 dagene før lasting for avsendelse ha testet negativt ved serologiske og/eller bakteriologiske tester for påvisning av sykdommene nevnt i nr. 1.
+   2. Når det gjelder rugeegg og daggamle kyllinger, skal opprinnelsesflokken i løpet av de siste 21 dagene før lasting for avsendelse ha testet negativt ved serologiske og/eller bakteriologiske tester for påvisning av sykdommene nevnt i nr. 1, som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.
+   3. Dersom dyrene er blitt vaksinert mot infeksjon med en hvilken som helst serotype av *Salmonella* eller *Mycoplasma*, skal det bare brukes bakteriologiske tester. Bekreftelsesmetoden skal kunne differensiere mellom levende vaksinestammer og feltstammer.
 
 ### VEDLEGG VI
 KRITERIER FOR VAKSINER MOT INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 
-Svekkede levende vaksiner mot infeksjon med Newcastle disease-virus skal framstilles av en stamme av Newcastle disease-virus der originalvirusstammen er blitt testet og har vist seg å ha en intracerebral patogenitetsindeks (ICPI) påmindre enn 0,4 dersom minst 107 EID50 (50 % Embryo Infectious Dose) er gitt til hver fugl som inngår i ICPI-testen, ellermindre enn 0,5 dersom minst 108 EID50 er gitt til hver fugl som inngår i ICPI-testen.
+Svekkede levende vaksiner mot infeksjon med Newcastle disease-virus skal framstilles av en stamme av Newcastle disease-virus der originalvirusstammen er blitt testet og har vist seg å ha en intracerebral patogenitetsindeks (ICPI) på
+
+1. mindre enn 0,4 dersom minst 107 EID50 (50 % Embryo Infectious Dose) er gitt til hver fugl som inngår i ICPI-testen, eller
+2. mindre enn 0,5 dersom minst 108 EID50 er gitt til hver fugl som inngår i ICPI-testen.
 
 ### VEDLEGG VII
 GYLDIGHET AV VAKSINASJON MOT RABIES OG RISIKOREDUSERENDE TILTAK FOR ANDRE SYKDOMMER ENN RABIES
@@ -1726,14 +3147,72 @@ OPPLYSNINGER SOM SKAL INNGÅ I HELSESERTIFIKATER OG MELDINGER
 ### Del 1
 Opplysninger som skal inngå i helsesertifikatet for landdyr og rugeegg som flyttes til en annen medlemsstat
 
-1. Helsesertifikatet for holdte landdyr nevnt i artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 71 nr. 1 i denne forordningen og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:Avsenderens og mottakerens navn og adresse.Avsenderanleggets navn og adresse, ogdersom avsenderanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom avsenderanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bestemmelsesanleggets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Art og kategori av dyr, og dersom det er påkrevd, identifikasjon.Opplysninger om dyrehelsesituasjonen og tilleggsgarantier når det gjelderopprinnelsesmedlemsstaten eller -sonen,dyrenes opprinnelsesanlegg og opprinnelsesflokk, herunder testresultater dersom det er relevant,dyrene som skal sendes, herunder testresultater eller vaksinasjoner dersom det er relevant.Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
-2. Helsesertifikatet for rugeegg nevnt i artikkel 161 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 72 i denne forordningen og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:Avsenderens og mottakerens navn og adresse.Avsenderanleggets navn og adresse, ogdersom avsenderanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom avsenderanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bestemmelsesanleggets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Kategorien av rugeegg.Opplysninger som gjør det mulig å identifisere rugeegg, somart og, dersom det er påkrevd, identifikasjon av dyrene de kommer fra,merkingen som er påført rugeeggene, dersom det er påkrevd,deres innsamlingssted og -dato.Opplysninger om dyrehelsesituasjonen og tilleggsgarantier når det gjelderopprinnelsesmedlemsstaten eller -sonen i denne,opprinnelsesanlegget og opprinnelsesflokken, herunder testresultater dersom det er relevant,dyrene som rugeeggene ble innsamlet fra, herunder testresultater dersom det er relevant,de rugeeggene som skal sendes.Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
-3. Helsesertifikatet for viltlevende landdyr nevnt i artikkel 155 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429) og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:Avsenderens og mottakerens navn og adresse.Det stedet der dyrene ble fanget og lastet for avsendelse.Bestemmelsesstedet ogdersom bestemmelsesstedet er habitatet, det stedet der dyrene skal losses, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Artene og kategoriene av dyr.Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
+1. Helsesertifikatet for holdte landdyr nevnt i artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 71 nr. 1 i denne forordningen og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Avsenderanleggets navn og adresse, og
+
+      1. dersom avsenderanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom avsenderanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   3. Bestemmelsesanleggets navn og adresse, og
+
+      1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   4. Art og kategori av dyr, og dersom det er påkrevd, identifikasjon.
+   5. Opplysninger om dyrehelsesituasjonen og tilleggsgarantier når det gjelder
+
+      1. opprinnelsesmedlemsstaten eller -sonen,
+      2. dyrenes opprinnelsesanlegg og opprinnelsesflokk, herunder testresultater dersom det er relevant,
+      3. dyrene som skal sendes, herunder testresultater eller vaksinasjoner dersom det er relevant.
+   6. Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
+2. Helsesertifikatet for rugeegg nevnt i artikkel 161 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 72 i denne forordningen og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Avsenderanleggets navn og adresse, og
+
+      1. dersom avsenderanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom avsenderanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   3. Bestemmelsesanleggets navn og adresse, og
+
+      1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   4. Kategorien av rugeegg.
+   5. Opplysninger som gjør det mulig å identifisere rugeegg, som
+
+      1. art og, dersom det er påkrevd, identifikasjon av dyrene de kommer fra,
+      2. merkingen som er påført rugeeggene, dersom det er påkrevd,
+      3. deres innsamlingssted og -dato.
+   6. Opplysninger om dyrehelsesituasjonen og tilleggsgarantier når det gjelder
+
+      1. opprinnelsesmedlemsstaten eller -sonen i denne,
+      2. opprinnelsesanlegget og opprinnelsesflokken, herunder testresultater dersom det er relevant,
+      3. dyrene som rugeeggene ble innsamlet fra, herunder testresultater dersom det er relevant,
+      4. de rugeeggene som skal sendes.
+   7. Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
+3. Helsesertifikatet for viltlevende landdyr nevnt i artikkel 155 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429) og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Det stedet der dyrene ble fanget og lastet for avsendelse.
+   3. Bestemmelsesstedet og
+
+      1. dersom bestemmelsesstedet er habitatet, det stedet der dyrene skal losses, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   4. Artene og kategoriene av dyr.
+   5. Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
 
 ### Del 2
 Opplysninger i meldingen om forflytning av visse landdyr som det ikke kreves helsesertifikat for
 
-Meldingen om forflytning av humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, til en annen medlemsstat, skal inneholde minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Avsenderanleggets navn, adresse og unike godkjenningsnummer.Bestemmelsesanleggets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bifolkenes art, kategori og antall, samt kolonienes størrelse.Avsendelsesdatoen.
+Meldingen om forflytning av humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, til en annen medlemsstat, skal inneholde minst følgende opplysninger:
+
+1. Avsenderens og mottakerens navn og adresse.
+2. Avsenderanleggets navn, adresse og unike godkjenningsnummer.
+3. Bestemmelsesanleggets navn og adresse, og
+
+   1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+   2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+4. Bifolkenes art, kategori og antall, samt kolonienes størrelse.
+5. Avsendelsesdatoen.
 
 ►**M3**
 
@@ -1754,7 +3233,12 @@ Entomologisk overvåking
 
 1\. Entomologisk overvåking skal bestå av minst et aktivt årlig program for å fange vektorer ved hjelp av fast oppsatte sugefeller, slik at populasjonsdynamikken for vektoren kan kartlegges, og dersom det er relevant, den vektorfrie sesongen.
 
-2\. Det skal brukes sugefeller med ultrafiolett lys i samsvar med forhåndsfastsatte protokoller; fellene skal være i funksjon hele natten og skal fungere minstén natt per uke i måneden før den forventede begynnelsen og i måneden før den forventede slutten av den vektorfrie sesongen, ogén natt per måned i den vektorfrie sesongen.Brukshyppigheten for sugefellene kan endres på grunnlag av de opplysningene som framkommer i løpet av de første tre årene fellene er i bruk.
+2\. Det skal brukes sugefeller med ultrafiolett lys i samsvar med forhåndsfastsatte protokoller; fellene skal være i funksjon hele natten og skal fungere minst
+
+1. én natt per uke i måneden før den forventede begynnelsen og i måneden før den forventede slutten av den vektorfrie sesongen, og
+2. én natt per måned i den vektorfrie sesongen.
+
+Brukshyppigheten for sugefellene kan endres på grunnlag av de opplysningene som framkommer i løpet av de første tre årene fellene er i bruk.
 
 3\. Minst én sugefelle skal plasseres i hver geografisk enhet på 45 km x 45 km i hele den sonen som er sesongmessig fri for hemoragisk epizooti, og de geografiske enhetene kan tilpasses den epidemiologiske situasjonen. En andel av knotten som samles opp i sugefellene, skal sendes til et spesialisert laboratorium som kan telle og identifisere de mistenkte artene eller kompleksene av vektorer.
 
@@ -1763,7 +3247,13 @@ Entomologisk overvåking
 ### Del 3
 Vektorbeskyttet anlegg
 
-Et vektorbeskyttede anlegg skal oppfylle følgende krav:Det har egnede fysiske barrierer ved innganger og utganger.Alle åpninger er beskyttet mot vektorer ved hjelp av netting med passende maskestørrelse, som regelmessig skal impregneres med et godkjent insektmiddel i samsvar med produsentens anvisninger.Vektorer overvåkes og holdes under kontroll inne i og omkring det vektorbeskyttede anlegget.Det treffes tiltak for å begrense eller fjerne yngleplasser for vektorer i nærheten av det vektorbeskyttede anlegget.Det foreligger standardiserte framgangsmåter for drift av det vektorbeskyttede anlegget og transport av dyr til lastestedet, inkludert beskrivelser av reserve- og alarmsystemer.
+Et vektorbeskyttede anlegg skal oppfylle følgende krav:
+
+1. Det har egnede fysiske barrierer ved innganger og utganger.
+2. Alle åpninger er beskyttet mot vektorer ved hjelp av netting med passende maskestørrelse, som regelmessig skal impregneres med et godkjent insektmiddel i samsvar med produsentens anvisninger.
+3. Vektorer overvåkes og holdes under kontroll inne i og omkring det vektorbeskyttede anlegget.
+4. Det treffes tiltak for å begrense eller fjerne yngleplasser for vektorer i nærheten av det vektorbeskyttede anlegget.
+5. Det foreligger standardiserte framgangsmåter for drift av det vektorbeskyttede anlegget og transport av dyr til lastestedet, inkludert beskrivelser av reserve- og alarmsystemer.
 
 ◄**M3**
 

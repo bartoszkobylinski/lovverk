@@ -30,7 +30,10 @@ Føresegnene gjeld eigedomsinngrep til riks-, fylkes- og kommunal veg etter [veg
 
 Før vedtak om eigedomsinngrep kan gjerast, skal vegstyremakta, eller kommunen i saker som blir fremma etter [§ 5](forskrift/1981-09-11-8603/§5) første eller andre ledd i føresegnene her, prøve å nå fram til semje med dei inngrepet råkar.
 
-Unntak frå regelen i første ledd kan gjerast når vegstyremaktaser det som rådlaust å nå fram til semje, ellerfinn at saka er av ein slik karakter eller eit slikt omfang at det ikkje ligg til rette for minnelege forhandlingar.
+Unntak frå regelen i første ledd kan gjerast når vegstyremakta
+
+1. ser det som rådlaust å nå fram til semje, eller
+2. finn at saka er av ein slik karakter eller eit slikt omfang at det ikkje ligg til rette for minnelege forhandlingar.
 
 ## § 3. Plankrav
 
@@ -42,13 +45,21 @@ Vedtak kan ikkje gjerast dersom det har gått meir enn 10 år sidan reguleringsp
 
 ## § 4. Unntak frå plankrav
 
-Regelen om plankrav etter [§ 3](forskrift/1981-09-11-8603/§3) gjeld ikkje for:små inngrep i samband med vedlikehald, drift og mindre utbetringar av offentleg veg, så langt dette ikkje er i strid med plan etter plan- og bygningslova eller med plan- og [bygningslova § 12-1](lov/2008-06-27-71/§12-1).inngrep i samband med tiltak utanfor reguleringsområdet (leidningar, lokale støytiltak, anleggsvegar o.l.), så langt dette ikkje er i strid med plan etter plan- og bygningslova eller med plan- og [bygningslova § 12-1](lov/2008-06-27-71/§12-1).vedtak etter § 50 første ledd, siste punktum og § 50 andre ledd.avgjerd som tingretten tek etter § 50 tredje ledd.
+Regelen om plankrav etter [§ 3](forskrift/1981-09-11-8603/§3) gjeld ikkje for:
+
+1. små inngrep i samband med vedlikehald, drift og mindre utbetringar av offentleg veg, så langt dette ikkje er i strid med plan etter plan- og bygningslova eller med plan- og [bygningslova § 12-1](lov/2008-06-27-71/§12-1).
+2. inngrep i samband med tiltak utanfor reguleringsområdet (leidningar, lokale støytiltak, anleggsvegar o.l.), så langt dette ikkje er i strid med plan etter plan- og bygningslova eller med plan- og [bygningslova § 12-1](lov/2008-06-27-71/§12-1).
+3. vedtak etter § 50 første ledd, siste punktum og § 50 andre ledd.
+4. avgjerd som tingretten tek etter § 50 tredje ledd.
 
 > Endra ved [forskrifter 13 des 2002 nr. 1603](forskrift/2002-12-13-1603) (i kraft 1 jan 2003), [27 aug 2004 nr. 1217](forskrift/2004-08-27-1217), [6 mai 2014 nr. 609](forskrift/2014-05-06-609).
 
 ## § 5. Forholdet til kommunen
 
-Vegstyremakta skal på vanleg måte gjere vedtak om eigedominngrep i saker der kommunen er pålagt å stå for gjennomføringa av eigedomsinngrep tilriksveg med heimel i [veglova § 14](lov/1963-06-21-23/§14), ogfylkesveg med heimel i [veglova § 15](lov/1963-06-21-23/§15).
+Vegstyremakta skal på vanleg måte gjere vedtak om eigedominngrep i saker der kommunen er pålagt å stå for gjennomføringa av eigedomsinngrep til
+
+1. riksveg med heimel i [veglova § 14](lov/1963-06-21-23/§14), og
+2. fylkesveg med heimel i [veglova § 15](lov/1963-06-21-23/§15).
 
 Den vegstyremakta som har heimel til å gjere vedtak om eigedomsinngrep for riks- eller fylkesveg, kan avtale med kommunen at denne skal stå for gjennomføringa av eigedomsinngrepet.
 

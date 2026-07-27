@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1
 
-[Lov 29. juni 2007 nr. 73](lov/2007-06-29-73) om eiendomsmegling trer i kraft 1. januar 2008, med følgende unntak:§ 4-4 første og annet ledd og § 6-2 første ledd annet punktum trer i kraft 1. juli 2011.– – –For advokater som driver eiendomsmegling, jf. loven § 2-1 første ledd nummer 2, trer § 5-1 i kraft to år etter lovens ikrafttredelse. I overgangsperioden får [lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling [§ 2-6](lov/1989-06-16-53/§2-6) fjerde ledd tilsvarende anvendelse.For personer som er ansatt hos eller har tilsvarende tilknytning til et foretak eller advokat som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), men ikke har eiendomsmeglerbrev, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2), eller tillatelse etter § 5, trer eiendomsmeglingsloven § 5-2 i kraft to år etter lovens ikrafttredelse.
+[Lov 29. juni 2007 nr. 73](lov/2007-06-29-73) om eiendomsmegling trer i kraft 1. januar 2008, med følgende unntak:
+
+1. § 4-4 første og annet ledd og § 6-2 første ledd annet punktum trer i kraft 1. juli 2011.
+2. – – –
+3. For advokater som driver eiendomsmegling, jf. loven § 2-1 første ledd nummer 2, trer § 5-1 i kraft to år etter lovens ikrafttredelse. I overgangsperioden får [lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling [§ 2-6](lov/1989-06-16-53/§2-6) fjerde ledd tilsvarende anvendelse.
+4. For personer som er ansatt hos eller har tilsvarende tilknytning til et foretak eller advokat som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), men ikke har eiendomsmeglerbrev, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2), eller tillatelse etter § 5, trer eiendomsmeglingsloven § 5-2 i kraft to år etter lovens ikrafttredelse.
 
 > Endret ved [forskrifter 27 sep 2010 nr. 1294](forskrift/2010-09-27-1294), [17 des 2018 nr. 2014](forskrift/2018-12-17-2014).
 
@@ -48,7 +53,12 @@ Foretak med bevilling til å drive eiendomsmegling etter [lov 16. juni 1989 nr. 
 
 ### § 5
 
-(1) Personer uten eiendomsmeglerbrev, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2), kan etter søknad til Finanstilsynet gis tillatelse til å være ansvarlig megler, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2), dersom vedkommende på søknadstidspunktet:har minst tre års praktisk erfaring med eiendomsmegling, hvorav minst to år er opparbeidet de siste fem år før lovens ikrafttredelse,har bestått prøve godkjent av Finanstilsynet,oppfyller kravene i [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 1, 4 og 5, ogframlegger politiattest, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) annet ledd.
+(1) Personer uten eiendomsmeglerbrev, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2), kan etter søknad til Finanstilsynet gis tillatelse til å være ansvarlig megler, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2), dersom vedkommende på søknadstidspunktet:
+
+1. har minst tre års praktisk erfaring med eiendomsmegling, hvorav minst to år er opparbeidet de siste fem år før lovens ikrafttredelse,
+2. har bestått prøve godkjent av Finanstilsynet,
+3. oppfyller kravene i [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 1, 4 og 5, og
+4. framlegger politiattest, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) annet ledd.
 
 (2) [Eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) sjette ledd, [§ 4-6](lov/2007-06-29-73/§4-6), [§ 6-1](lov/2007-06-29-73/§6-1) annet ledd, [§ 8-1](lov/2007-06-29-73/§8-1) og [§ 8-4](lov/2007-06-29-73/§8-4) gjelder tilsvarende for personer med tillatelse etter første ledd.
 

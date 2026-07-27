@@ -54,7 +54,15 @@ Det kan bare tildeles spesiell tillatelse etter denne forskriften dersom et av v
 
 ### § 1-4. (driftskrav ved tildeling av spesiell tillatelse)
 
-Det er et vilkår for tildeling av spesiell tillatelse ved salg av fartøy for fortsatt drift eller ved oppgivelse av tilsvarende spesiell tillatelse fra annet fartøy, jf. [deltakerloven § 17](lov/1999-03-26-15/§17) første ledd bokstav b og c, at den som selger fartøyet eller oppgir tillatelsen har levert fangst i medhold av den aktuelle tillatelsen i løpet av inneværende kalenderår eller de to foregående. Dette driftskravet gjelder ikke for tildeling av:avgrenset nordsjøtråltillatelsenorsk vårgytende sildtråltillatelsemakrelltråltillatelseloddetråltillatelsekolmuletråltillatelsevassildtråltillatelse ellerseinottillatelse.
+Det er et vilkår for tildeling av spesiell tillatelse ved salg av fartøy for fortsatt drift eller ved oppgivelse av tilsvarende spesiell tillatelse fra annet fartøy, jf. [deltakerloven § 17](lov/1999-03-26-15/§17) første ledd bokstav b og c, at den som selger fartøyet eller oppgir tillatelsen har levert fangst i medhold av den aktuelle tillatelsen i løpet av inneværende kalenderår eller de to foregående. Dette driftskravet gjelder ikke for tildeling av:
+
+1. avgrenset nordsjøtråltillatelse
+2. norsk vårgytende sildtråltillatelse
+3. makrelltråltillatelse
+4. loddetråltillatelse
+5. kolmuletråltillatelse
+6. vassildtråltillatelse eller
+7. seinottillatelse.
 
 Fiskeridirektoratet kan gi dispensasjon fra driftskravet hvis tildelingen skjer i forbindelse med bruk av en strukturkvoteordning.
 
@@ -70,7 +78,11 @@ Erstatningsfartøyet må oppfylle de vilkår som til enhver tid er fastsatt i el
 
 ### § 1-6. (tilordning av kvote fra fartøy eieren har eierandel i)
 
-Kvote fra fartøy en eier har eierandel i skal tilordnes eieren som følger:når eierandelen i et fartøy er over 50%, tilordnes eieren fartøyets kvote fullt ut,når eierandelen i et fartøy er mellom 20% og 50%, tilordnes eieren en forholdsmessig andel av fartøyets kvote, ognår eierandelen i et fartøy er mindre enn 20%, tilordnes eieren ikke noe av fartøyets kvote.
+Kvote fra fartøy en eier har eierandel i skal tilordnes eieren som følger:
+
+1. når eierandelen i et fartøy er over 50%, tilordnes eieren fartøyets kvote fullt ut,
+2. når eierandelen i et fartøy er mellom 20% og 50%, tilordnes eieren en forholdsmessig andel av fartøyets kvote, og
+3. når eierandelen i et fartøy er mindre enn 20%, tilordnes eieren ikke noe av fartøyets kvote.
 
 Bestemmelsen får anvendelse ved tilordning av kvote fra fartøy eieren har eierandel i etter [§ 2-4](forskrift/2006-10-13-1157/§2-4), [§ 2-5](forskrift/2006-10-13-1157/§2-5), [§ 2-9](forskrift/2006-10-13-1157/§2-9), [§ 2-16](forskrift/2006-10-13-1157/§2-16) eller [§ 4-5](forskrift/2006-10-13-1157/§4-5).
 
@@ -122,7 +134,10 @@ Tilsvarende konsentrasjonsgrenser skal legges til grunn for tillatelse til endri
 
 ### § 2-5. (særlige regler om eierkonsentrasjon når fartøy og fiskeindustribedrift eies av samme eier)
 
-Når fartøy og fiskeindustribedrift er eid av samme eier gjelder følgende konsentrasjonsgrenser:eieren kan ikke inneha torsketråltillatelse for flere fartøy enn det antall fartøy som til sammen vil bli tildelt inntil ni kvotefaktorer uavhengig av hvilke fiskeindustribedrifter fangsten leveres til, ognår mer enn en fiskeindustribedrift er eid av samme eier, kan eieren inneha torsketråltillatelse for fartøy som til sammen vil bli tildelt inntil sju kvotefaktorer for hver fiskeindustribedrift han eier når han har plikt til å levere fangsten fra fartøyet etter [forskrift 12. september 2003 nr. 1131](forskrift/2003-09-12-1131) om leveringsplikt for fartøy med torsketråltillatelse til fiskeindustribedriften.
+Når fartøy og fiskeindustribedrift er eid av samme eier gjelder følgende konsentrasjonsgrenser:
+
+1. eieren kan ikke inneha torsketråltillatelse for flere fartøy enn det antall fartøy som til sammen vil bli tildelt inntil ni kvotefaktorer uavhengig av hvilke fiskeindustribedrifter fangsten leveres til, og
+2. når mer enn en fiskeindustribedrift er eid av samme eier, kan eieren inneha torsketråltillatelse for fartøy som til sammen vil bli tildelt inntil sju kvotefaktorer for hver fiskeindustribedrift han eier når han har plikt til å levere fangsten fra fartøyet etter [forskrift 12. september 2003 nr. 1131](forskrift/2003-09-12-1131) om leveringsplikt for fartøy med torsketråltillatelse til fiskeindustribedriften.
 
 Tilsvarende konsentrasjonsgrenser skal legges til grunn for tillatelse til endring i eiersammensetningen i medhold av [deltakerloven § 9](lov/1999-03-26-15/§9).
 
@@ -332,7 +347,10 @@ Det kan ikke fastsettes større konsesjonskapasitet for fartøy det er tildelt r
 
 Eier av fartøy med reketråltillatelse kan gis tillatelse til å erverve annet fartøy med reketråltillatelse for å øke konsesjonskapasiteten på ett av fartøyene.
 
-Tillatelse til sammenslåing kan gis når:ett av fartøyene blir meldt ut av registeret over fiskefartøy og blir kondemnert ogalle tillatelser og deltakeradganger knyttet til fartøyet som blir meldt ut av registeret blir oppgitt.
+Tillatelse til sammenslåing kan gis når:
+
+1. ett av fartøyene blir meldt ut av registeret over fiskefartøy og blir kondemnert og
+2. alle tillatelser og deltakeradganger knyttet til fartøyet som blir meldt ut av registeret blir oppgitt.
 
 Ved sammenslåing av tillatelser kan konsesjonskapasiteten for det fartøyet som blir i rekefisket økes med inntil 70% av fastsatt konsesjonskapasitet til det fartøyet som trekkes ut av fiske.
 
@@ -402,9 +420,17 @@ Fiskeridirektoratet tildeler tillatelse til fangst av snøkrabbe i Barentshavet 
 
 ### § 6-2. (vilkår for tildeling av snøkrabbetillatelse)
 
-For nytildeling av snøkrabbetillatelse må følgende vilkår være oppfylt:Fartøyeier må ha fangstet snøkrabbe med fartøy med snøkrabbetillatelse i to av årene 2020, 2021 og 2022 innen 16. mai. Dersom fartøyeier skiftet fartøy i denne perioden, skal man se hen til fangst både med utskiftingsfartøyet og med erstatningsfartøyet. Tillatelsen tildeles erstatningsfartøyet, dersom fartøyeieren har skiftet fartøy etter 16. mai 2022 og oppfylte vilkåret i første punktum med utskiftingsfartøyet.Fartøyet må være registrert i Merkeregisteret.Fartøyet må være egnet og utrustet for fangst av snøkrabbe med teiner i Barentshavet.Søknad om tildeling av snøkrabbetillatelse må være innsendt innen frist fastsatt av Fiskeridirektoratet. Denne fristen gjelder også søknad om unntak fra hovedregelen.
+For nytildeling av snøkrabbetillatelse må følgende vilkår være oppfylt:
 
-Det kan gjøres unntak fra vilkåret første ledd bokstav a i følgende tilfeller:Dersom eier av fartøyet er tildelt ervervstillatelse for nybygg og snøkrabbetillatelse, og har inngått bindende kontrakt om kontrahering av nybygg utrustet og egnet for fangst av snøkrabbe før 16. mai 2022.Dersom eier av fartøyet er tildelt snøkrabbetillatelse for fartøyet og før 16. mai 2022 har gjort omfattende ombygging av fartøyet for å tilpasse dette til fangst av snøkrabbe på en måte som ikke er reverserbar.
+1. Fartøyeier må ha fangstet snøkrabbe med fartøy med snøkrabbetillatelse i to av årene 2020, 2021 og 2022 innen 16. mai. Dersom fartøyeier skiftet fartøy i denne perioden, skal man se hen til fangst både med utskiftingsfartøyet og med erstatningsfartøyet. Tillatelsen tildeles erstatningsfartøyet, dersom fartøyeieren har skiftet fartøy etter 16. mai 2022 og oppfylte vilkåret i første punktum med utskiftingsfartøyet.
+2. Fartøyet må være registrert i Merkeregisteret.
+3. Fartøyet må være egnet og utrustet for fangst av snøkrabbe med teiner i Barentshavet.
+4. Søknad om tildeling av snøkrabbetillatelse må være innsendt innen frist fastsatt av Fiskeridirektoratet. Denne fristen gjelder også søknad om unntak fra hovedregelen.
+
+Det kan gjøres unntak fra vilkåret første ledd bokstav a i følgende tilfeller:
+
+1. Dersom eier av fartøyet er tildelt ervervstillatelse for nybygg og snøkrabbetillatelse, og har inngått bindende kontrakt om kontrahering av nybygg utrustet og egnet for fangst av snøkrabbe før 16. mai 2022.
+2. Dersom eier av fartøyet er tildelt snøkrabbetillatelse for fartøyet og før 16. mai 2022 har gjort omfattende ombygging av fartøyet for å tilpasse dette til fangst av snøkrabbe på en måte som ikke er reverserbar.
 
 Unntak etter andre ledd skal ikke gjøres dersom fartøyet var egnet og utrustet for fangst før 1. januar 2020.
 
@@ -432,7 +458,11 @@ Fiskeridirektoratet tildeler tillatelse til å drive fangst av vågehval. Tillat
 
 ### § 7-2. (vilkår for tillatelse)
 
-Tillatelse til å drive fangst av vågehval kan bare tildeles dersom følgende vilkår er oppfylt:fartøyet må være registrert i merkeregisteret.eier må være ført på blad B i fiskermanntallet.eier eller minst en av mannskapet må ha deltatt i fangst av vågehval i minst ett av de seks siste årene. Det skal legges vekt på de faglige og tekniske forutsetningene for å drive hvalfangst.
+Tillatelse til å drive fangst av vågehval kan bare tildeles dersom følgende vilkår er oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret.
+2. eier må være ført på blad B i fiskermanntallet.
+3. eier eller minst en av mannskapet må ha deltatt i fangst av vågehval i minst ett av de seks siste årene. Det skal legges vekt på de faglige og tekniske forutsetningene for å drive hvalfangst.
 
 Søknad om tillatelse til å drive fangst av vågehval kan avslås dersom fartøyeieren eller andre som har drevet fartøyet, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av deltakerloven eller annen fiskerilovgivning.
 
@@ -444,7 +474,11 @@ Det er et vilkår for tildeling av tillatelse til å drive fangst av vågehval a
 
 ### § 7-3. (stedfortreder)
 
-Fiskeridirektoratet kan i særlige tilfeller og på følgende vilkår gi tillatelse til å drive fangst av vågehval med stedfortreder:stedfortreder må være ført på blad B i fiskermanntalletstedfortreder må ha deltatt i fangst av vågehval i minst ett av de seks siste årenestedfortreder må ha gjennomgått de kursene som Fiskeridirektoratet bestemmer.
+Fiskeridirektoratet kan i særlige tilfeller og på følgende vilkår gi tillatelse til å drive fangst av vågehval med stedfortreder:
+
+1. stedfortreder må være ført på blad B i fiskermanntallet
+2. stedfortreder må ha deltatt i fangst av vågehval i minst ett av de seks siste årene
+3. stedfortreder må ha gjennomgått de kursene som Fiskeridirektoratet bestemmer.
 
 Fiskeridirektoratet kan dispensere fra vilkåret i første ledd bokstav b dersom det er nødvendig for at fartøyet skal kunne gjennomføre fangsten.
 
@@ -470,7 +504,12 @@ Med Østisen forstås områdene øst for 20° Ø i Russlands økonomiske sone.
 
 ### § 8-2. (vilkår for selfangsttillatelse)
 
-Selfangsttillatelse kan bare tildeles dersom følgende vilkår er oppfylt:Fartøyet må være registrert i merkeregisteret.Fartøyet må være egnet og utrustet for å drive selfangst. Fartøyet må ha kapasitet, herunder frysekapasitet og kapasitet for ombordbehandling, som er egnet til å sikre at råvaren blir utnyttet på en økonomisk hensiktsmessig og tilfredsstillende måte.Fartøyets skipper må ha deltatt på Fiskeridirektoratets kurs for selfangere i det kalenderåret tillatelsen skal gjelde for. Dette gjelder også medlemmer av fartøyets mannskap som ikke deltok på Fiskeridirektoratets kurs for selfangere i foregående kalenderår. Fiskeridirektoratet kan i særlige tilfeller dispensere fra kravene i første og annet punktum. Fiskeridirektoratet kan i særlige tilfeller bestemme at hele eller deler av mannskapet skal delta på kurs for selfangere, uavhengig av deltakelse foregående kalenderår.Det må være sendt skriftlig søknad om deltakelse til Fiskeridirektoratet innen en nærmere fastsatt frist.
+Selfangsttillatelse kan bare tildeles dersom følgende vilkår er oppfylt:
+
+1. Fartøyet må være registrert i merkeregisteret.
+2. Fartøyet må være egnet og utrustet for å drive selfangst. Fartøyet må ha kapasitet, herunder frysekapasitet og kapasitet for ombordbehandling, som er egnet til å sikre at råvaren blir utnyttet på en økonomisk hensiktsmessig og tilfredsstillende måte.
+3. Fartøyets skipper må ha deltatt på Fiskeridirektoratets kurs for selfangere i det kalenderåret tillatelsen skal gjelde for. Dette gjelder også medlemmer av fartøyets mannskap som ikke deltok på Fiskeridirektoratets kurs for selfangere i foregående kalenderår. Fiskeridirektoratet kan i særlige tilfeller dispensere fra kravene i første og annet punktum. Fiskeridirektoratet kan i særlige tilfeller bestemme at hele eller deler av mannskapet skal delta på kurs for selfangere, uavhengig av deltakelse foregående kalenderår.
+4. Det må være sendt skriftlig søknad om deltakelse til Fiskeridirektoratet innen en nærmere fastsatt frist.
 
 Søknad om tillatelse til å delta i fangst av sel kan avslås uten hensyn til om ovennevnte vilkår er oppfylt, dersom fartøyeieren eller andre som har drevet fartøyet, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av deltakerloven eller annen fiskerilovgivning.
 
@@ -510,7 +549,12 @@ Fiskeridirektoratet har myndighet til å treffe vedtak etter denne forskriften. 
 
 Forskriften gjelder straks.
 
-Fra samme tid oppheves følgende forskrifter:[forskrift 12. desember 1986 nr. 2185](forskrift/1986-12-12-2185) om tildeling av tillatelse til å drive fiske med trål[forskrift 2. mars 1979 nr. 1](forskrift/1979-03-02-1) om adgang til å delta i fiske med ringnot[forskrift 29. juni 1984 nr. 1318](forskrift/1984-06-29-1318) om adgangen til å drive trålfiske etter reker[forskrift 8. mars 1974 nr. 3](forskrift/1974-03-08-3) om adgangen til å delta i snurpenotfiske etter sei.
+Fra samme tid oppheves følgende forskrifter:
+
+- [forskrift 12. desember 1986 nr. 2185](forskrift/1986-12-12-2185) om tildeling av tillatelse til å drive fiske med trål
+- [forskrift 2. mars 1979 nr. 1](forskrift/1979-03-02-1) om adgang til å delta i fiske med ringnot
+- [forskrift 29. juni 1984 nr. 1318](forskrift/1984-06-29-1318) om adgangen til å drive trålfiske etter reker
+- [forskrift 8. mars 1974 nr. 3](forskrift/1974-03-08-3) om adgangen til å delta i snurpenotfiske etter sei.
 
 Fra samme tid oppheves følgende bestemmelser i [forskrift 4. mars 2005 nr. 193](forskrift/2005-03-04-193) om strukturkvoteordning mv. for havfiskeflåten: [§ 8](forskrift/2005-03-04-193/§8) tredje ledd, [§ 9](forskrift/2005-03-04-193/§9) femte ledd, [§ 11](forskrift/2005-03-04-193/§11) første ledd og [§ 13](forskrift/2005-03-04-193/§13) andre ledd.
 

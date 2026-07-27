@@ -15,7 +15,7 @@ xml_hash: "432dd0a65fc840cea0f13469e4b88d7d1c972f53e2287d932b6b9dea43c15d4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ Formålet med loven er å forebygge boligsosiale utfordringer og å bidra til at
 
 ## § 2. Virkeområde
 
-Loven gjelder for alle som oppholder seg i riket, med unntak avpersoner som ikke har lovlig opphold i riketpersoner som har søkt om beskyttelse, og som har eller kan få statlig innkvarteringpersoner som ikke er norske statsborgere, og som ikke har tilknytning til riket, med mindre annet følger av en folkerettslig avtale.
+Loven gjelder for alle som oppholder seg i riket, med unntak av
+
+1. personer som ikke har lovlig opphold i riket
+2. personer som har søkt om beskyttelse, og som har eller kan få statlig innkvartering
+3. personer som ikke er norske statsborgere, og som ikke har tilknytning til riket, med mindre annet følger av en folkerettslig avtale.
 
 ## § 3. Ansvarlig kommune
 

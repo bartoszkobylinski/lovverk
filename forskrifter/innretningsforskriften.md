@@ -34,7 +34,18 @@ Krav til innretninger i denne forskriften gjelder også for anlegg og utstyr som
 
 Krav i denne forskriften [§ 13](forskrift/2010-04-29-634/§13), [§ 56](forskrift/2010-04-29-634/§56), [§ 62](forskrift/2010-04-29-634/§62), [§ 69](forskrift/2010-04-29-634/§69) og [§ 72](forskrift/2010-04-29-634/§72) gjelder også for de delene av fartøy som er nødvendige for at petroleumsvirksomhet på enklere innretninger skal være forsvarlig, jf. [rammeforskriften § 2](forskrift/2010-02-12-158/§2) og [§ 10](forskrift/2010-02-12-158/§10).
 
-For flyttbare innretninger som er registrert i et nasjonalt skipsregister, og som følger et maritimt driftskonsept, kan relevante tekniske krav i Sjøfartsdirektoratets regelverk for flyttbare innretninger (rødboka) slik det lyder etter endringene i 2007 og senere endringer, legges til grunn med følgende presiseringer og begrensinger, jamfør [rammeforskriften § 3](forskrift/2010-02-12-158/§3):[rammeforskriften § 3](forskrift/2010-02-12-158/§3) omfatter bare bestemmelser om forhold av maritim karakter som ikke er direkte knyttet til den petroleumsfunksjonen som innretningen skal utføre. Paragrafen omfatter ikke bestemmelser om:bore- og prosessutstyr,allmenngyldige lyd- og lysalarmer,utstyr for personellforflytting og krav til personellforflytting på boredekk,arbeidsmiljøet for øvrig,innretningen må brukes på en måte som gjør det mulig å bruke en flagg- og klassepraksis som innebærer en kalenderbasert resertifisering, deriblant femårig hovedbesiktigelse,det skal være klargjort hvilke operasjonelle forutsetninger som ligger til grunn for prosjektering, fabrikasjon og bruk,eventuelle unntak som er gitt av flaggstatsmyndigheten, skal vurderes og legges fram for Havindustritilsynet for vurdering dersom de har betydning for sikkerheten i petroleumsvirksomheten,bestemmelser om dokumentasjon, tilsyn, godkjenninger med mer gjelder ikke, med mindre annet framgår direkte av petroleumsregelverket.
+For flyttbare innretninger som er registrert i et nasjonalt skipsregister, og som følger et maritimt driftskonsept, kan relevante tekniske krav i Sjøfartsdirektoratets regelverk for flyttbare innretninger (rødboka) slik det lyder etter endringene i 2007 og senere endringer, legges til grunn med følgende presiseringer og begrensinger, jamfør [rammeforskriften § 3](forskrift/2010-02-12-158/§3):
+
+1. [rammeforskriften § 3](forskrift/2010-02-12-158/§3) omfatter bare bestemmelser om forhold av maritim karakter som ikke er direkte knyttet til den petroleumsfunksjonen som innretningen skal utføre. Paragrafen omfatter ikke bestemmelser om:
+
+   - bore- og prosessutstyr,
+   - allmenngyldige lyd- og lysalarmer,
+   - utstyr for personellforflytting og krav til personellforflytting på boredekk,
+   - arbeidsmiljøet for øvrig,
+2. innretningen må brukes på en måte som gjør det mulig å bruke en flagg- og klassepraksis som innebærer en kalenderbasert resertifisering, deriblant femårig hovedbesiktigelse,
+3. det skal være klargjort hvilke operasjonelle forutsetninger som ligger til grunn for prosjektering, fabrikasjon og bruk,
+4. eventuelle unntak som er gitt av flaggstatsmyndigheten, skal vurderes og legges fram for Havindustritilsynet for vurdering dersom de har betydning for sikkerheten i petroleumsvirksomheten,
+5. bestemmelser om dokumentasjon, tilsyn, godkjenninger med mer gjelder ikke, med mindre annet framgår direkte av petroleumsregelverket.
 
 > Endret ved [forskrifter 16 des 2014 nr. 1754](forskrift/2014-12-16-1754) (i kraft 1 jan 2015), [18 des 2015 nr. 1798](forskrift/2015-12-18-1798) (i kraft 1 jan 2016), [26 april 2019 nr. 544](forskrift/2019-04-26-544) (i kraft 1 mai 2019), [18 des 2023 nr. 2156](forskrift/2023-12-18-2156) (i kraft 1 jan 2024).
 
@@ -46,7 +57,64 @@ For flyttbare innretninger som er registrert i et nasjonalt skipsregister, og so
 
 Definisjoner som nevnt i [rammeforskriften § 6](forskrift/2010-02-12-158/§6) gjelder tilsvarende for denne forskriften.
 
-I denne forskriften menes med:bemannede innretninger, innretninger med boligkvarter, eller innretninger som inngår som en del av en integrert utbyggingsløsning med broforbindelser til innretning med boligkvarter,permanent bemannede innretninger, innretninger som er kontinuerlig bemannet, eller som inngår som en del av en integrert utbyggingsløsning med broforbindelser,enklere innretninger, innretninger som ikke er utstyrt med boligkvarter, og somer ubemannet i normal drift,bare blir bemannet når personellet kan komme om bord og til enhver tid forlate innretningen på en sikker måte,ikke inngår som en del av en integrert utbyggingsløsning med broforbindelse til bemannet innretning og har tilstrekkelig avstand slik at den ikke utgjør en fare for andre permanent plasserte innretninger.Enklere innretninger kan være utstyrt med nødkvarter.bærende konstruksjoner, de delene av innretningen som har som hovedoppgave å overføre belastninger,nødkvarter, kvarter som gjør det mulig for personellet å overnatte i en nødsituasjon på enklere innretninger,høytrykk-og-høytemperatur-brønner (HTHT-brønner), brønner som har et forventet innstengningstrykk større enn 69 MPa (690 bar), eller en temperatur høyere enn 150 °C,løfteinnretning, en sammenbygd enhet som brukes til heising og låring av last, med eller uten horisontal forflytting,løfteredskap, komponenter eller utstyr som brukes mellom løfteinnretningen og lasten eller på lasten for å gripe denne, og som ikke er en integrert del av løfteinnretningen,rørledningssystemer, undervannsrørledninger og stigerør som transporterer hydrokarboner og andre fluider, med tilhørende sikringssystemer, ventiler, sluser, korrosjonsbeskyttelsessystemer og lignende,hovedområde, område på en innretning med en spesifikk oppgave eller funksjon,brannområde, et område som er adskilt fra andre områder med enten brann-/eksplosjonsskille eller tilstrekkelig avstand, slik at designlast for brann eller eksplosjon ikke medfører spredning til et annet brannområde,brannskille av klasse A, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:det er tilstrekkelig avstivet,det hindrer spredning av flammer og røyk i minst én time av normert brannprøve,det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 180 °C over den opprinnelige temperaturen innenfor følgende tider:klasse A-60: 60 minutter,klasse A-30: 30 minutter,klasse A-15: 15 minutter,klasse A-0: 0 minutter,eventuelle isolasjonsmaterialer er brannprøvd ved en institusjon som er internasjonalt eller nasjonalt anerkjent på fagområdet.brannskille av klasse B, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:det hindrer spredning av flammer i minst en halv time av normert brannprøve,det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 225 °C over den opprinnelige temperaturen innenfor følgende tider:klasse B-30: 30 minutter,klasse B-15: 15 minutter,klasse B-0: 0 minutter,brannskille av klasse H, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:det er tilstrekkelig avstivet,det hindrer spredning av flammer og røyk i minst to timer av normert brannprøve,det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 180 °C over den opprinnelige temperaturen innenfor følgende tider:klasse H-120: 120 minutter,klasse H-60: 60 minutter,klasse H-0: 0 minutter,eventuelle isolasjonsmaterialer er brannprøvd ved en institusjon som er internasjonalt eller nasjonalt anerkjent på *fagområdet,*sikkerhetssystem, tekniske barriereelementer som er realisert i et felles system,sikkerhetsfunksjoner, tekniske barriereelementer som skal redusere muligheten for at konkrete feil, fare- og ulykkessituasjoner inntreffer, eller som begrenser eller forhindrer skader eller ulemper,dynamiske posisjoneringssystem (DP-system), et system der kraftforsyning, trustersystem og kontrollsystem er bygget sammen og kan opereres slik at en automatisk opprettholder en fast posisjon,forankringssystem, forankringssystem av kjedelinjetype eller en kombinasjon av trustersystem og forankring av kjedelinjetype,dimensjonerende last, karakteristisk last multiplisert med lastkoeffisienter,ulykkeslaster, laster som innretningen kan utsettes for ved uriktig bruk, teknisk svikt eller uønsket ytre påvirkning,dimensjonerende ulykkeslast, en ulykkeslast som en funksjon eller et system skal kunne motstå i et gitt tidsrom for å møte de definerte akseptkriteriene for risiko,designulykkeslast, ulykkeslast som legges til grunn for design,funksjonslaster, laster som har sin årsak i fysisk eksistens, bruk og behandling av innretningen,naturlaster, laster som forårsakes av naturforhold.
+I denne forskriften menes med:
+
+1. bemannede innretninger, innretninger med boligkvarter, eller innretninger som inngår som en del av en integrert utbyggingsløsning med broforbindelser til innretning med boligkvarter,
+2. permanent bemannede innretninger, innretninger som er kontinuerlig bemannet, eller som inngår som en del av en integrert utbyggingsløsning med broforbindelser,
+3. enklere innretninger, innretninger som ikke er utstyrt med boligkvarter, og som
+
+   1. er ubemannet i normal drift,
+   2. bare blir bemannet når personellet kan komme om bord og til enhver tid forlate innretningen på en sikker måte,
+   3. ikke inngår som en del av en integrert utbyggingsløsning med broforbindelse til bemannet innretning og har tilstrekkelig avstand slik at den ikke utgjør en fare for andre permanent plasserte innretninger.
+
+   Enklere innretninger kan være utstyrt med nødkvarter.
+4. bærende konstruksjoner, de delene av innretningen som har som hovedoppgave å overføre belastninger,
+5. nødkvarter, kvarter som gjør det mulig for personellet å overnatte i en nødsituasjon på enklere innretninger,
+6. høytrykk-og-høytemperatur-brønner (HTHT-brønner), brønner som har et forventet innstengningstrykk større enn 69 MPa (690 bar), eller en temperatur høyere enn 150 °C,
+7. løfteinnretning, en sammenbygd enhet som brukes til heising og låring av last, med eller uten horisontal forflytting,
+8. løfteredskap, komponenter eller utstyr som brukes mellom løfteinnretningen og lasten eller på lasten for å gripe denne, og som ikke er en integrert del av løfteinnretningen,
+9. rørledningssystemer, undervannsrørledninger og stigerør som transporterer hydrokarboner og andre fluider, med tilhørende sikringssystemer, ventiler, sluser, korrosjonsbeskyttelsessystemer og lignende,
+10. hovedområde, område på en innretning med en spesifikk oppgave eller funksjon,
+11. brannområde, et område som er adskilt fra andre områder med enten brann-/eksplosjonsskille eller tilstrekkelig avstand, slik at designlast for brann eller eksplosjon ikke medfører spredning til et annet brannområde,
+12. brannskille av klasse A, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:
+
+    1. det er tilstrekkelig avstivet,
+    2. det hindrer spredning av flammer og røyk i minst én time av normert brannprøve,
+    3. det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 180 °C over den opprinnelige temperaturen innenfor følgende tider:
+
+       - klasse A-60: 60 minutter,
+       - klasse A-30: 30 minutter,
+       - klasse A-15: 15 minutter,
+       - klasse A-0: 0 minutter,
+    4. eventuelle isolasjonsmaterialer er brannprøvd ved en institusjon som er internasjonalt eller nasjonalt anerkjent på fagområdet.
+13. brannskille av klasse B, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:
+
+    1. det hindrer spredning av flammer i minst en halv time av normert brannprøve,
+    2. det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 225 °C over den opprinnelige temperaturen innenfor følgende tider:
+
+       - klasse B-30: 30 minutter,
+       - klasse B-15: 15 minutter,
+       - klasse B-0: 0 minutter,
+14. brannskille av klasse H, et skille utført i ubrennbare materialer som oppfyller følgende kriterier:
+
+    1. det er tilstrekkelig avstivet,
+    2. det hindrer spredning av flammer og røyk i minst to timer av normert brannprøve,
+    3. det er utformet slik at gjennomsnittstemperaturen og temperaturen ikke på noe enkeltpunkt på ueksponert side stiger mer enn henholdsvis 140 °C og 180 °C over den opprinnelige temperaturen innenfor følgende tider:
+
+       - klasse H-120: 120 minutter,
+       - klasse H-60: 60 minutter,
+       - klasse H-0: 0 minutter,
+    4. eventuelle isolasjonsmaterialer er brannprøvd ved en institusjon som er internasjonalt eller nasjonalt anerkjent på *fagområdet,*
+15. sikkerhetssystem, tekniske barriereelementer som er realisert i et felles system,
+16. sikkerhetsfunksjoner, tekniske barriereelementer som skal redusere muligheten for at konkrete feil, fare- og ulykkessituasjoner inntreffer, eller som begrenser eller forhindrer skader eller ulemper,
+17. dynamiske posisjoneringssystem (DP-system), et system der kraftforsyning, trustersystem og kontrollsystem er bygget sammen og kan opereres slik at en automatisk opprettholder en fast posisjon,
+18. forankringssystem, forankringssystem av kjedelinjetype eller en kombinasjon av trustersystem og forankring av kjedelinjetype,
+19. dimensjonerende last, karakteristisk last multiplisert med lastkoeffisienter,
+20. ulykkeslaster, laster som innretningen kan utsettes for ved uriktig bruk, teknisk svikt eller uønsket ytre påvirkning,
+21. dimensjonerende ulykkeslast, en ulykkeslast som en funksjon eller et system skal kunne motstå i et gitt tidsrom for å møte de definerte akseptkriteriene for risiko,
+22. designulykkeslast, ulykkeslast som legges til grunn for design,
+23. funksjonslaster, laster som har sin årsak i fysisk eksistens, bruk og behandling av innretningen,
+24. naturlaster, laster som forårsakes av naturforhold.
 
 > Endret ved [forskrifter 16 des 2014 nr. 1754](forskrift/2014-12-16-1754) (i kraft 1 jan 2015), [26 april 2019 nr. 544](forskrift/2019-04-26-544) (i kraft 1 mai 2019), [19 des 2022 nr. 2442](forskrift/2022-12-19-2442) (i kraft 1 jan 2023), [17 des 2025 nr. 2643](forskrift/2025-12-17-2643) (i kraft 1 jan 2026).
 
@@ -54,11 +122,34 @@ I denne forskriften menes med:bemannede innretninger, innretninger med boligkvar
 
 ### § 4. Valg av utbyggingsløsning
 
-Ved valg av utbyggingsløsning skal det tas hensyn tilstorulykkesrisiko,driftsformen,risiko for forurensning,den geografiske beliggenheten,lokasjonsbetingelsene,reservoaregenskapene,regularitetskravene,levetiden,eventuell senere fjerning,behov for utvikling av ny teknologi.
+Ved valg av utbyggingsløsning skal det tas hensyn til
+
+1. storulykkesrisiko,
+2. driftsformen,
+3. risiko for forurensning,
+4. den geografiske beliggenheten,
+5. lokasjonsbetingelsene,
+6. reservoaregenskapene,
+7. regularitetskravene,
+8. levetiden,
+9. eventuell senere fjerning,
+10. behov for utvikling av ny teknologi.
 
 ### § 5. Utforming av innretninger
 
-Innretninger skal baseres på robuste og enklest mulige løsninger og utformes slik atdet ikke medfører uakseptable konsekvenser om de blir eksponert for laster som nevnt i [§ 11](forskrift/2010-04-29-634/§11),storulykkesrisikoen blir så lav som mulig,svikt i en komponent, i et system eller en enkelt feilhandling ikke gir uakseptable konsekvenser,hovedsikkerhetsfunksjonene som nevnt i [§ 7](forskrift/2010-04-29-634/§7) opprettholdes,materialhåndtering og transport kan foregå effektivt og forsvarlig, jf. [§ 13](forskrift/2010-04-29-634/§13),operasjonelle forutsetninger og begrensninger ivaretas på en forsvarlig måte,det legges til rette for et forsvarlig arbeidsmiljø, jf. [kapittel IV](forskrift/2010-04-29-634/kapiv),det etableres barrierer som både kan oppdage unormale tilstander og redusere muligheten for at feil og fare- og ulykkessituasjoner utvikler seg, og som kan begrense mulige skader og ulemper, jf. [styringsforskriften § 5](forskrift/2010-04-29-611/§5),det legges til rette for at helsemessige forhold ivaretas på en forsvarlig måte,det legges til rette for lavest mulig risiko for forurensning,det legges til rette for et forsvarlig vedlikehold.
+Innretninger skal baseres på robuste og enklest mulige løsninger og utformes slik at
+
+1. det ikke medfører uakseptable konsekvenser om de blir eksponert for laster som nevnt i [§ 11](forskrift/2010-04-29-634/§11),
+2. storulykkesrisikoen blir så lav som mulig,
+3. svikt i en komponent, i et system eller en enkelt feilhandling ikke gir uakseptable konsekvenser,
+4. hovedsikkerhetsfunksjonene som nevnt i [§ 7](forskrift/2010-04-29-634/§7) opprettholdes,
+5. materialhåndtering og transport kan foregå effektivt og forsvarlig, jf. [§ 13](forskrift/2010-04-29-634/§13),
+6. operasjonelle forutsetninger og begrensninger ivaretas på en forsvarlig måte,
+7. det legges til rette for et forsvarlig arbeidsmiljø, jf. [kapittel IV](forskrift/2010-04-29-634/kapiv),
+8. det etableres barrierer som både kan oppdage unormale tilstander og redusere muligheten for at feil og fare- og ulykkessituasjoner utvikler seg, og som kan begrense mulige skader og ulemper, jf. [styringsforskriften § 5](forskrift/2010-04-29-611/§5),
+9. det legges til rette for at helsemessige forhold ivaretas på en forsvarlig måte,
+10. det legges til rette for lavest mulig risiko for forurensning,
+11. det legges til rette for et forsvarlig vedlikehold.
 
 Det skal fastsettes krav til ytelse for den enkelte barrieren, jf. [styringsforskriften § 5](forskrift/2010-04-29-611/§5).
 
@@ -92,7 +183,13 @@ Innretningen skal utformes slik at behov for bemanning og antall besøk blir så
 
 Hovedsikkerhetsfunksjonene skal defineres på en entydig måte for hver enkelt innretning slik at sikkerheten for personell ivaretas og forurensning begrenses.
 
-Følgende hovedsikkerhetsfunksjoner skal opprettholdes ved en ulykkessituasjon:hindring av eskalering av ulykkessituasjoner slik at personell som er utenfor brannområdet ikke skades,hovedbæreevnen i bærende konstruksjoner inntil innretningen er evakuert,beskyttelse av rom som er av betydning for bekjempelse av ulykkehendelser slik at de er operative inntil innretningen er evakuert,beskyttelse av innretningens sikre områder slik at disse er intakt inntil innretningen er evakuert,minst én evakueringsvei fra ethvert område der personell kan oppholde seg inntil evakuering til innretningens sikre områder og redning av personell er gjennomført.
+Følgende hovedsikkerhetsfunksjoner skal opprettholdes ved en ulykkessituasjon:
+
+1. hindring av eskalering av ulykkessituasjoner slik at personell som er utenfor brannområdet ikke skades,
+2. hovedbæreevnen i bærende konstruksjoner inntil innretningen er evakuert,
+3. beskyttelse av rom som er av betydning for bekjempelse av ulykkehendelser slik at de er operative inntil innretningen er evakuert,
+4. beskyttelse av innretningens sikre områder slik at disse er intakt inntil innretningen er evakuert,
+5. minst én evakueringsvei fra ethvert område der personell kan oppholde seg inntil evakuering til innretningens sikre områder og redning av personell er gjennomført.
 
 Vurdering av konsekvenser av tap av hovedsikkerhetsfunksjoner etter at innretningen er evakuert skal også omfatte alvorlig skade på miljøet og/eller tap av større økonomiske verdier.
 
@@ -100,7 +197,11 @@ Vurdering av konsekvenser av tap av hovedsikkerhetsfunksjoner etter at innretnin
 
 ### § 8. Sikkerhetsfunksjoner
 
-Innretninger skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kanoppdage unormale tilstander,hindre at unormale tilstander utvikler seg til fare- og ulykkessituasjoner,begrense skadene ved ulykker.
+Innretninger skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kan
+
+1. oppdage unormale tilstander,
+2. hindre at unormale tilstander utvikler seg til fare- og ulykkessituasjoner,
+3. begrense skadene ved ulykker.
 
 Det skal fastsettes krav til ytelsen for sikkerhetsfunksjoner.
 
@@ -118,7 +219,11 @@ Kvalifiseringen eller prøvingen skal demonstrere at gjeldende krav kan oppfylle
 
 ### § 10. Anlegg, systemer og utstyr
 
-Anlegg, systemer og utstyr skal utformes robust og på enklest mulig måte og slik atmuligheten for menneskelige feilhandlinger begrenses,de eller det kan opereres, prøves og vedlikeholdes med lavest mulig risiko for personell og forurensning,de eller det er egnet for bruk og i stand til å motstå de lastene de eller det kan bli utsatt for under drift.
+Anlegg, systemer og utstyr skal utformes robust og på enklest mulig måte og slik at
+
+1. muligheten for menneskelige feilhandlinger begrenses,
+2. de eller det kan opereres, prøves og vedlikeholdes med lavest mulig risiko for personell og forurensning,
+3. de eller det er egnet for bruk og i stand til å motstå de lastene de eller det kan bli utsatt for under drift.
 
 Anlegg, systemer og utstyr skal være merket slik at det legges til rette for en sikker drift og et forsvarlig vedlikehold.
 
@@ -152,7 +257,18 @@ Innretninger eller deler av innretninger skal kunne motstå de dimensjonerende l
 
 ### § 12. Materialer
 
-Materialer som skal brukes i eller på innretninger, skal velges med hensyn tilkravene til laster som nevnt i [§ 11](forskrift/2010-04-29-634/§11),framstillings-, sammenføynings- og byggeprosesser,eventuell bruk av materialbeskyttelse,branntekniske egenskaper,effekt av tilsatte kjemikalier, enkeltvis og i kombinasjon, på materialegenskapene til konstruksjoner, rørledninger og prosessutstyr,sannsynlige endringer i driftsforhold,muligheten for reduksjon av framtidig kjemikaliebruk og forurensning,muligheten for reduksjon, gjenbruk og gjenvinning av avfall,arbeidstakernes helse og arbeidsmiljø,eventuell framtidig fjerning.
+Materialer som skal brukes i eller på innretninger, skal velges med hensyn til
+
+1. kravene til laster som nevnt i [§ 11](forskrift/2010-04-29-634/§11),
+2. framstillings-, sammenføynings- og byggeprosesser,
+3. eventuell bruk av materialbeskyttelse,
+4. branntekniske egenskaper,
+5. effekt av tilsatte kjemikalier, enkeltvis og i kombinasjon, på materialegenskapene til konstruksjoner, rørledninger og prosessutstyr,
+6. sannsynlige endringer i driftsforhold,
+7. muligheten for reduksjon av framtidig kjemikaliebruk og forurensning,
+8. muligheten for reduksjon, gjenbruk og gjenvinning av avfall,
+9. arbeidstakernes helse og arbeidsmiljø,
+10. eventuell framtidig fjerning.
 
 > Endret ved forskrift [18 des 2024 nr. 3246](forskrift/2024-12-18-3246) (i kraft 1 jan 2025).
 
@@ -176,7 +292,12 @@ Inneklimaet skal være tilpasset det enkelte rommet med hensyn til luftbehov, tr
 
 Det skal velges kjemikalier og tekniske løsninger som hindrer skadelig kjemisk påvirkning på mennesker og miljø, og som reduserer behovet for bruk av kjemikalier.
 
-Ved valg, utforming og plassering av anlegg for lagring, bruk, gjenvinning og destruksjon av kjemikalier skal det tas hensyn tilhelse og sikkerhet for personell,korrosjon og andre former for nedbryting av materialer,brann- og eksplosjonsfare,risiko for forurensning.
+Ved valg, utforming og plassering av anlegg for lagring, bruk, gjenvinning og destruksjon av kjemikalier skal det tas hensyn til
+
+1. helse og sikkerhet for personell,
+2. korrosjon og andre former for nedbryting av materialer,
+3. brann- og eksplosjonsfare,
+4. risiko for forurensning.
 
 > Endret ved [forskrift 20 des 2012 nr. 1357](forskrift/2012-12-20-1357) (i kraft 1 jan 2013).
 
@@ -196,7 +317,10 @@ Den første innretningen av en ny type skal instrumenteres for å samle inn data
 
 ### § 18. Systemer for havovervåking, intern og ekstern kommunikasjon
 
-Innretninger skal utstyres med havovervåkings- og kommunikasjonssystemer som til enhver tid gjør det mulig å overvåke trafikk og kommunisere internt på innretningen, og mellom innretningen og skip, luftfartøy og land. Videre skal disse innretningene utstyres med alarmsystemer som til enhver tid kan varsle personellet om fare- og ulykkessituasjoner. Følgende lyd- og lysalarmer skal kunne gis:generell alarm i form av avbrutte lydsignaler og gult blinkende lys,forbered evakuering i form av uavbrutte lydsignaler og gult blinkende lys.
+Innretninger skal utstyres med havovervåkings- og kommunikasjonssystemer som til enhver tid gjør det mulig å overvåke trafikk og kommunisere internt på innretningen, og mellom innretningen og skip, luftfartøy og land. Videre skal disse innretningene utstyres med alarmsystemer som til enhver tid kan varsle personellet om fare- og ulykkessituasjoner. Følgende lyd- og lysalarmer skal kunne gis:
+
+1. generell alarm i form av avbrutte lydsignaler og gult blinkende lys,
+2. forbered evakuering i form av uavbrutte lydsignaler og gult blinkende lys.
 
 Det skal være etablert minst to uavhengige varslingsveier til land, fortrinnsvis ved hjelp av faste samband.
 
@@ -300,7 +424,11 @@ Gjennomføringer skal ikke svekke brannskillene. Dører i brannskiller skal vær
 
 ### § 31. Brannskiller i boligkvarter
 
-Boligkvarteret skal være beskyttet av brannskiller som minst oppfyller brannklasseH-60 for yttervegger som kan eksponeres for hydrokarbonbrann,A-60 for øvrige yttervegger,A-0 for yttervegger på boligkvarteret som er plassert på en egen innretning i sikker avstand fra produksjons- eller boreinnretninger, og for yttervegger på nødkvarteret på enklere innretninger, dersom dette kvarteret er atskilt fra produksjons- eller brønnhodeområdet med et hovedbrannskille som minst oppfyller brannklasse H-0.
+Boligkvarteret skal være beskyttet av brannskiller som minst oppfyller brannklasse
+
+1. H-60 for yttervegger som kan eksponeres for hydrokarbonbrann,
+2. A-60 for øvrige yttervegger,
+3. A-0 for yttervegger på boligkvarteret som er plassert på en egen innretning i sikker avstand fra produksjons- eller boreinnretninger, og for yttervegger på nødkvarteret på enklere innretninger, dersom dette kvarteret er atskilt fra produksjons- eller brønnhodeområdet med et hovedbrannskille som minst oppfyller brannklasse H-0.
 
 Den innvendige utformingen av boligkvarteret skal være slik at den begrenser brannspredning.
 
@@ -348,7 +476,10 @@ Væskeutskillere som er installert i gassutslippssystemet, skal sikres mot overf
 
 ### § 36. Brannvannforsyning
 
-Alle innretninger med overnattingsmuligheter skal ha tilstrekkelig brannvannsforsyning til åbekjempe branner ogdempe gasseksplosjoner dersom dette kan medføre lavere eksplosjonstrykk, jf. [§ 37](forskrift/2010-04-29-634/§37).
+Alle innretninger med overnattingsmuligheter skal ha tilstrekkelig brannvannsforsyning til å
+
+1. bekjempe branner og
+2. dempe gasseksplosjoner dersom dette kan medføre lavere eksplosjonstrykk, jf. [§ 37](forskrift/2010-04-29-634/§37).
 
 Bemannede innretninger skal ha brannvannforsyning fra brannpumper eller annen uavhengig forsyning slik at det til enhver tid er tilstrekkelig kapasitet selv om deler av forsyningen er ute av drift.
 
@@ -466,7 +597,19 @@ Innretninger skal være utstyrt med tilstrekkelig manuelt brannbekjempelses- og 
 
 Elektriske anlegg skal dimensjoneres og konfigureres slik at nødvendig effektbehov kan dekkes i alle driftsmodi.
 
-Elektriske anlegg skal utformes med vern og annen beskyttelse slik at unormale tilstander og feil som kan medføre fare for personellet og innretningen, unngås. Anleggene skal utformes med tilstrekkelig beskyttelse mot blant annetelektriske støt under normal bruk og ved feil,termiske virkninger,overstrøm,feilstrømmer,overspenning,underspenning,variasjoner i spenning og frekvens,avbrudd i kraftforsyningen,antennelse av eksplosiv gassatmosfære,elektromagnetiske forstyrrelser,helseskade som følge av elektromagnetiske felt.
+Elektriske anlegg skal utformes med vern og annen beskyttelse slik at unormale tilstander og feil som kan medføre fare for personellet og innretningen, unngås. Anleggene skal utformes med tilstrekkelig beskyttelse mot blant annet
+
+1. elektriske støt under normal bruk og ved feil,
+2. termiske virkninger,
+3. overstrøm,
+4. feilstrømmer,
+5. overspenning,
+6. underspenning,
+7. variasjoner i spenning og frekvens,
+8. avbrudd i kraftforsyningen,
+9. antennelse av eksplosiv gassatmosfære,
+10. elektromagnetiske forstyrrelser,
+11. helseskade som følge av elektromagnetiske felt.
 
 > Endret ved [forskrift 18 des 2019 nr. 1911](forskrift/2019-12-18-1911) (i kraft 1 jan 2020).
 
@@ -692,7 +835,10 @@ Helikopterdekk skal utformes og utstyres slik at de oppfyller kravene i [forskri
 
 ### § 70a. Utstyr for brannbekjempelse på helikopterdekk
 
-Utstyr for brannbekjempelse på helikopterdekk skal utformes og plasseres slik atbranner på helikopterdekket, både på og inne i helikoptre, kan bekjempes sikkert og effektivt,redningsmannskapet og annet personell beskyttes under evakuering av helikoptre.
+Utstyr for brannbekjempelse på helikopterdekk skal utformes og plasseres slik at
+
+1. branner på helikopterdekket, både på og inne i helikoptre, kan bekjempes sikkert og effektivt,
+2. redningsmannskapet og annet personell beskyttes under evakuering av helikoptre.
 
 Skumslokkingsanlegg skal kunne utløses ved hver atkomstvei samt fjernbetjenes fra et sentralt, beskyttet sted med god oversikt over helikopterdekket.
 

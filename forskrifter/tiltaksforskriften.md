@@ -30,7 +30,11 @@ Hovedformålet med arbeidsmarkedstiltakene er å styrke tiltaksdeltakernes mulig
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*tiltaksdeltakere* – personer som deltar på arbeidsmarkedstiltak,*tiltaksarrangører* – virksomheter/organisasjoner som gjennomfører arbeidsmarkedstiltak i samarbeid med Arbeids- og velferdsetaten, og*arbeidstaker* – enhver som utfører arbeid i annens tjeneste, jf. [arbeidsmiljøloven § 1-8](lov/2005-06-17-62/§1-8) første ledd.
+I denne forskriften menes med
+
+1. *tiltaksdeltakere* – personer som deltar på arbeidsmarkedstiltak,
+2. *tiltaksarrangører* – virksomheter/organisasjoner som gjennomfører arbeidsmarkedstiltak i samarbeid med Arbeids- og velferdsetaten, og
+3. *arbeidstaker* – enhver som utfører arbeid i annens tjeneste, jf. [arbeidsmiljøloven § 1-8](lov/2005-06-17-62/§1-8) første ledd.
 
 ### § 1-3. Vilkår for deltakelse i tiltak
 
@@ -70,7 +74,11 @@ Arbeids- og velferdsdirektoratet bestemmer også kompetent organ for anvisning o
 
 Tiltaksplasser skal ikke fortrenge ordinær arbeidskraft i tiltaksarrangørs virksomhet, og skal ikke virke konkurransevridende.
 
-En virksomhet som er arrangør av flere arbeidsmarkedstiltak, eller driver ordinær forretningsdrift, må dokumentereøkonomioppfølging og kvalitets- og resultatkrav for det enkelte tiltak eller den enkelte tilskuddsordning,at tiltakene organiseres slik at faglige og økonomiske krav oppfylles, ogat subsidiering ikke forekommer på tvers av de enkelte tiltakene eller fra tiltaket til annen virksomhet som for eksempel forretningsdrift.
+En virksomhet som er arrangør av flere arbeidsmarkedstiltak, eller driver ordinær forretningsdrift, må dokumentere
+
+1. økonomioppfølging og kvalitets- og resultatkrav for det enkelte tiltak eller den enkelte tilskuddsordning,
+2. at tiltakene organiseres slik at faglige og økonomiske krav oppfylles, og
+3. at subsidiering ikke forekommer på tvers av de enkelte tiltakene eller fra tiltaket til annen virksomhet som for eksempel forretningsdrift.
 
 Tiltaksarrangørene kan ikke få tilskudd til arbeidsmarkedstiltak for egne familiemedlemmer eller andre nærstående, med mindre særlige grunner foreligger.
 
@@ -114,7 +122,13 @@ Ved brudd på regelverket kan godkjenning som tiltaksarrangør trekkes tilbake.
 
 ### § 1-13. Støtte etter gruppeunntaksforordningen
 
-Tilskudd skal ikke gis sammen medannen støtte som er unntatt etter det alminnelige gruppeunntaket, jf. [forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2023-01-02-2/§1)bagatellmessig støtte, jf. [forskrift om unntak fra notifikasjonsplikt for offentlig støtte § 2](forskrift/2023-01-02-2/§2) og [§ 4](forskrift/2023-01-02-2/§4), ellerannen fellesskapsfinansiering som helt eller delvis gjelde de samme støtteberettigede kostnadene,dersom en slik kumulering ville føre til at støtten overstiger den gjeldende høyeste støtteandelen eller det gjeldende høyeste støttebeløpet for denne type støtte i henhold til det alminnelige gruppeunntaket.
+Tilskudd skal ikke gis sammen med
+
+1. annen støtte som er unntatt etter det alminnelige gruppeunntaket, jf. [forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2023-01-02-2/§1)
+2. bagatellmessig støtte, jf. [forskrift om unntak fra notifikasjonsplikt for offentlig støtte § 2](forskrift/2023-01-02-2/§2) og [§ 4](forskrift/2023-01-02-2/§4), eller
+3. annen fellesskapsfinansiering som helt eller delvis gjelde de samme støtteberettigede kostnadene,
+
+dersom en slik kumulering ville føre til at støtten overstiger den gjeldende høyeste støtteandelen eller det gjeldende høyeste støttebeløpet for denne type støtte i henhold til det alminnelige gruppeunntaket.
 
 Det kan ikke gis tilskudd til vanskeligstilte bedrifter eller bedrifter som har et utestående tilbakebetalingskrav mot seg etter vedtak om ulovlig støtte.
 
@@ -250,7 +264,11 @@ Med utgangspunkt i en behovs- eller arbeidsevnevurdering skal varigheten av ment
 
 ### § 5-5. Krav til tiltaksarrangør
 
-Tiltaksarrangøren kan væreen arbeidsgiver i ordinær virksomhet som har ansatt en arbeidstaker med behov for mentor eller har inngått en avtale med Arbeids- og velferdsetaten om å opprette en tiltaksplass for arbeidstrening, sommerjobb, midlertidig lønnstilskudd eller varig lønnstilskudd, elleret opplæringssted der tiltaksdeltakeren gjennomfører opplæring, elleren godkjent lærebedrift der tiltaksdeltakeren gjennomfører fagopplæring.
+Tiltaksarrangøren kan være
+
+1. en arbeidsgiver i ordinær virksomhet som har ansatt en arbeidstaker med behov for mentor eller har inngått en avtale med Arbeids- og velferdsetaten om å opprette en tiltaksplass for arbeidstrening, sommerjobb, midlertidig lønnstilskudd eller varig lønnstilskudd, eller
+2. et opplæringssted der tiltaksdeltakeren gjennomfører opplæring, eller
+3. en godkjent lærebedrift der tiltaksdeltakeren gjennomfører fagopplæring.
 
 Arbeids- og velferdsetaten kan be om at tiltaksarrangør avgir rapport eller vurdering av gjennomføring av tiltaket.
 
@@ -304,7 +322,11 @@ På grunnlag av en vurdering av tiltaksdeltakerens individuelle behov, fastsette
 
 ### § 6-5. Tilskudd og utbetaling
 
-Det kan gis tilskudd til dekning avfunksjonsassistentens lønnsutgifter, dvs. lønn, arbeidsgiveravgift, eventuelt feriepenger og innskudd til obligatorisk tjenestepensjon,dokumenterte ekstrautgifter til vikar ved funksjonsassistentens sykdom, ferie eller lignende, ellerreise- og oppholdsutgifter til funksjonsassistent dersom dette er nødvendig ved tiltaksdeltakerens arbeidsrelaterte reiser.
+Det kan gis tilskudd til dekning av
+
+1. funksjonsassistentens lønnsutgifter, dvs. lønn, arbeidsgiveravgift, eventuelt feriepenger og innskudd til obligatorisk tjenestepensjon,
+2. dokumenterte ekstrautgifter til vikar ved funksjonsassistentens sykdom, ferie eller lignende, eller
+3. reise- og oppholdsutgifter til funksjonsassistent dersom dette er nødvendig ved tiltaksdeltakerens arbeidsrelaterte reiser.
 
 Tilskuddet utbetales til funksjonsassistentens arbeidsgiver. Tilskuddet kan utbetales direkte til tiltaksdeltakeren når denne er selvstendig næringsdrivende eller frilanser.
 
@@ -336,7 +358,14 @@ Opplæring skal bidra til at arbeidssøkere kvalifiseres til ledige jobber.
 
 ### § 7-2. Innhold
 
-Opplæring kan gis somkortvarige kurs basert på behov i arbeidsmarkedet (arbeidsmarkedsopplæring). Arbeidsmarkedsopplæringen skal som hovedregel gi dokumentert kompetanse i form av offentlige prøvebevis, sertifikater o.l.norskopplæring, kurs i grunnleggende ferdigheter eller forberedende opplæring for voksne (FOV),fag fra utdanningsprogrammet studiespesialisering,fag- og yrkesopplæring på videregående nivå, også der opplæringen gjennomføres i kombinasjon med opplæring etter bokstav b (kombinasjonsløp),høyere yrkesfaglig utdanning,høyere utdanning.
+Opplæring kan gis som
+
+1. kortvarige kurs basert på behov i arbeidsmarkedet (arbeidsmarkedsopplæring). Arbeidsmarkedsopplæringen skal som hovedregel gi dokumentert kompetanse i form av offentlige prøvebevis, sertifikater o.l.
+2. norskopplæring, kurs i grunnleggende ferdigheter eller forberedende opplæring for voksne (FOV),
+3. fag fra utdanningsprogrammet studiespesialisering,
+4. fag- og yrkesopplæring på videregående nivå, også der opplæringen gjennomføres i kombinasjon med opplæring etter bokstav b (kombinasjonsløp),
+5. høyere yrkesfaglig utdanning,
+6. høyere utdanning.
 
 > Endret ved [forskrifter 19 sep 2016 nr. 1089](forskrift/2016-09-19-1089) (i kraft 1 okt 2016), [9 mai 2019 nr. 597](forskrift/2019-05-09-597) (i kraft 1 juli 2019), [31 jan 2025 nr. 117](forskrift/2025-01-31-117) (i kraft 1 juli 2025).
 
@@ -586,7 +615,20 @@ Inkluderingstilskuddet skal kompensere for tilleggskostnader virksomheter i ordi
 
 ### § 11-2. Personkrets
 
-Inkluderingstilskuddet kan gis til virksomheter som tilbyr en arbeidsplass til tiltaksdeltakere på følgende tiltak:avklaring, jf. [kap. 2](forskrift/2015-12-11-1598/kap2),arbeidstrening, jf. [kap. 3](forskrift/2015-12-11-1598/kap3),oppfølging, jf. [kap. 4](forskrift/2015-12-11-1598/kap4),mentor, jf. [kap. 5](forskrift/2015-12-11-1598/kap5),kortvarig arbeidsrettede kurs (arbeidsmarkedskurs), jf. [§ 7-2](forskrift/2015-12-11-1598/§7-2) bokstav a,funksjonsassistanse, jf. [kap. 6](forskrift/2015-12-11-1598/kap6),tilskudd til sommerjobb, jf. [kap. 8](forskrift/2015-12-11-1598/kap8),midlertidig lønnstilskudd, jf. [kap. 9](forskrift/2015-12-11-1598/kap9),varig lønnstilskudd, jf. [kap. 10](forskrift/2015-12-11-1598/kap10),arbeidsrettet rehabilitering, jf. [kap. 12](forskrift/2015-12-11-1598/kap12),arbeidsforberedende trening jf. [kap. 13](forskrift/2015-12-11-1598/kap13) ellervarig tilrettelagt arbeid i ordinært arbeidsliv eller ved hospitering i ordinær virksomhet, jf. [kap. 14](forskrift/2015-12-11-1598/kap14).
+Inkluderingstilskuddet kan gis til virksomheter som tilbyr en arbeidsplass til tiltaksdeltakere på følgende tiltak:
+
+1. avklaring, jf. [kap. 2](forskrift/2015-12-11-1598/kap2),
+2. arbeidstrening, jf. [kap. 3](forskrift/2015-12-11-1598/kap3),
+3. oppfølging, jf. [kap. 4](forskrift/2015-12-11-1598/kap4),
+4. mentor, jf. [kap. 5](forskrift/2015-12-11-1598/kap5),
+5. kortvarig arbeidsrettede kurs (arbeidsmarkedskurs), jf. [§ 7-2](forskrift/2015-12-11-1598/§7-2) bokstav a,
+6. funksjonsassistanse, jf. [kap. 6](forskrift/2015-12-11-1598/kap6),
+7. tilskudd til sommerjobb, jf. [kap. 8](forskrift/2015-12-11-1598/kap8),
+8. midlertidig lønnstilskudd, jf. [kap. 9](forskrift/2015-12-11-1598/kap9),
+9. varig lønnstilskudd, jf. [kap. 10](forskrift/2015-12-11-1598/kap10),
+10. arbeidsrettet rehabilitering, jf. [kap. 12](forskrift/2015-12-11-1598/kap12),
+11. arbeidsforberedende trening jf. [kap. 13](forskrift/2015-12-11-1598/kap13) eller
+12. varig tilrettelagt arbeid i ordinært arbeidsliv eller ved hospitering i ordinær virksomhet, jf. [kap. 14](forskrift/2015-12-11-1598/kap14).
 
 Tilskuddet kan også gis til virksomheter som ansetter personer som har et særskilt tilretteleggingsbehov i den konkrete jobben.
 
@@ -598,7 +640,15 @@ Tilskuddet kan også gis til virksomheter som inngår i forskriftsfestede forsø
 
 Tilskuddet dekker bare utgifter som kommer i tillegg til de utgifter som virksomheten normalt vil ha i forbindelse med ansettelser.
 
-Tilskuddet kan dekke tilleggsutgifter knyttet tilnødvendig vurdering av personens funksjonsevne eller tilretteleggingsbehov på den konkrete arbeidsplassen,opprettelse av ekstra tiltaksplass, for eksempel kontormøbler,personlig utstyr som arbeidstøy, vernesko, databriller o.l. knyttet til arbeidet,nødvendige gjenstander og arbeidshjelpemidler personen trenger for å utføre arbeidet og tilpasninger som ikke kan dekkes etter [folketrygdlovens § 10-5](lov/1997-02-28-19/§10-5),merkostnader til å kjøpe og installere programvare som skal brukes av personen, herunder teknologisk utstyr eller teknologiske hjelpemidler,nødvendige merutgifter til forsikring, lisenser, sertifisering o.l. knyttet til arbeidet, ogekstern opplæring for å kunne utføre arbeidet i virksomheten.
+Tilskuddet kan dekke tilleggsutgifter knyttet til
+
+1. nødvendig vurdering av personens funksjonsevne eller tilretteleggingsbehov på den konkrete arbeidsplassen,
+2. opprettelse av ekstra tiltaksplass, for eksempel kontormøbler,
+3. personlig utstyr som arbeidstøy, vernesko, databriller o.l. knyttet til arbeidet,
+4. nødvendige gjenstander og arbeidshjelpemidler personen trenger for å utføre arbeidet og tilpasninger som ikke kan dekkes etter [folketrygdlovens § 10-5](lov/1997-02-28-19/§10-5),
+5. merkostnader til å kjøpe og installere programvare som skal brukes av personen, herunder teknologisk utstyr eller teknologiske hjelpemidler,
+6. nødvendige merutgifter til forsikring, lisenser, sertifisering o.l. knyttet til arbeidet, og
+7. ekstern opplæring for å kunne utføre arbeidet i virksomheten.
 
 Tilskudd kan ikke gis dersom de samme utgiftene dekkes i forbindelse med deltakelse i tiltak som nevnt i [§ 11-2](forskrift/2015-12-11-1598/§11-2).
 
@@ -668,7 +718,14 @@ Arbeidsforberedende trening skal bidra til å prøve ut den enkeltes arbeidsevne
 
 Arbeidsforberedende trening skal gi arbeidsutprøving og kvalifisering i tilrettelagt arbeidsmiljø og i ordinært arbeidsliv.
 
-Arbeidsforberedende trening kan inneholde:kartlegging av ressurser og karriereveiledning,utprøving av arbeidsevne og arbeidstrening i et tilrettelagt arbeidsmiljø,individuelt tilpasset opplæring og utdanning som gir formell kompetanse eller med sikte på å oppnå formell kompetanse,bistand til å finne passende arbeidstrening i ordinære virksomheter med sikte på ansettelse i ordinært arbeidsliv,oppfølging under arbeidstrening i ordinært arbeidsliv og etter ansettelse, ogoppfølging av tiltaksdeltakere som inngår lærekontrakt eller opplæringskontrakt i ordinært arbeidsliv
+Arbeidsforberedende trening kan inneholde:
+
+1. kartlegging av ressurser og karriereveiledning,
+2. utprøving av arbeidsevne og arbeidstrening i et tilrettelagt arbeidsmiljø,
+3. individuelt tilpasset opplæring og utdanning som gir formell kompetanse eller med sikte på å oppnå formell kompetanse,
+4. bistand til å finne passende arbeidstrening i ordinære virksomheter med sikte på ansettelse i ordinært arbeidsliv,
+5. oppfølging under arbeidstrening i ordinært arbeidsliv og etter ansettelse, og
+6. oppfølging av tiltaksdeltakere som inngår lærekontrakt eller opplæringskontrakt i ordinært arbeidsliv
 
 Tiltaksarrangøren skal utarbeide en plan for den enkelte deltaker. Planen skal blant annet inneholde en beskrivelse av deltakers målsettinger og aktiviteter for å nå disse, samt en beskrivelse av hvilken oppfølging og tilrettelegging deltaker har behov for. Planen skal endres ved behov.
 
@@ -704,7 +761,12 @@ Tiltaksdeltakerne skal ikke være ansatt i virksomheten som arrangerer arbeidsfo
 
 Virksomheten skal være organisert som et aksjeselskap med kommunal/fylkeskommunal aksjemajoritet. Arbeids- og velferdsetaten kan godta annen organisering dersom det anses hensiktsmessig ut fra hensynet til gjennomføringen av tiltaket i det enkelte tilfellet.
 
-For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområde,overskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,det skal ikke utbetales utbytte, ogvirksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
+For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:
+
+1. virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområde,
+2. overskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,
+3. det skal ikke utbetales utbytte, og
+4. virksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
 
 Arbeids- og velferdsetaten kan etter en konkret vurdering godkjenne at virksomheten i tillegg til arbeidsforberedende trening og/eller varig tilrettelagt arbeid etter bokstav a, driver andre virksomhetsområder med lignende innhold for samme målgruppe.
 
@@ -762,7 +824,12 @@ Tiltaket er ikke tidsbegrenset. Det skal likevel jevnlig vurderes om det kan væ
 
 Virksomheten skal være organisert som et aksjeselskap med kommunal/fylkeskommunal aksjemajoritet. Arbeids- og velferdsetaten kan godta annen organisering dersom det anses hensiktsmessig ut fra hensynet til gjennomføringen av tiltaket i det enkelte tilfellet.
 
-For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområdeoverskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,det skal ikke utbetales utbytte, ogvirksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
+For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:
+
+1. virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområde
+2. overskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,
+3. det skal ikke utbetales utbytte, og
+4. virksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
 
 Arbeids- og velferdsetaten kan etter en konkret vurdering godkjenne at virksomheten i tillegg til arbeidsforberedende trening og/eller varig tilrettelagt arbeid etter bokstav a, driver andre virksomhetsområder med lignende innhold for samme målgruppe.
 
@@ -816,7 +883,19 @@ I hospiteringsperioden skal tiltaksdeltakeren fortsatt være ansatt i den forhå
 
 Det skal inngås en skriftlig avtale om hospitering mellom den forhåndsgodkjente virksomheten, hospiteringsvirksomheten og tiltaksdeltakeren. Avtalen skal inngås før hospiteringsoppholdet starter. NAV-kontoret skal informeres om innholdet i avtalen før inngåelse.
 
-Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for hospiteringsoppholdet, herunder:om hospiteringsperioden skal være løpende eller ha tidsbegrensning,en beskrivelse av tiltaksdeltakerens arbeid i hospiteringsvirksomheten,arbeidstid og pauser i hospiteringsvirksomheten,eventuell bonuslønn, jf. [§ 14-7](forskrift/2015-12-11-1598/§14-7) andre ledd,hospiteringsvirksomhetens tilretteleggings- og opplæringsansvar,omfanget av den forhåndsgodkjente virksomhetens oppfølgingsansvar,instruksjonsmyndighet,HMS-ansvar,forsikringsordning,partenes oppsigelsesadgang og -frister, ogtidspunkt for revidering av avtalen.
+Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for hospiteringsoppholdet, herunder:
+
+1. om hospiteringsperioden skal være løpende eller ha tidsbegrensning,
+2. en beskrivelse av tiltaksdeltakerens arbeid i hospiteringsvirksomheten,
+3. arbeidstid og pauser i hospiteringsvirksomheten,
+4. eventuell bonuslønn, jf. [§ 14-7](forskrift/2015-12-11-1598/§14-7) andre ledd,
+5. hospiteringsvirksomhetens tilretteleggings- og opplæringsansvar,
+6. omfanget av den forhåndsgodkjente virksomhetens oppfølgingsansvar,
+7. instruksjonsmyndighet,
+8. HMS-ansvar,
+9. forsikringsordning,
+10. partenes oppsigelsesadgang og -frister, og
+11. tidspunkt for revidering av avtalen.
 
 > Tilføyd ved forskrift [10 mai 2022 nr. 855](forskrift/2022-05-10-855) (i kraft 1 jan 2023).
 
@@ -866,7 +945,10 @@ Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for hospit
 
 Denne forskriften trer i kraft 1. januar 2016.
 
-Fra samme tidspunkt oppheves[forskrift 12. desember 2011 nr. 1362](forskrift/2011-12-12-1362) om forsøk med tilretteleggingstilskudd for rekruttering av arbeidssøkere med nedsatt arbeidsevne[forskrift 3. mai 2007 nr. 495](forskrift/2007-05-03-495) om forsøk med tidsubestemt lønnstilskudd.
+Fra samme tidspunkt oppheves
+
+- [forskrift 12. desember 2011 nr. 1362](forskrift/2011-12-12-1362) om forsøk med tilretteleggingstilskudd for rekruttering av arbeidssøkere med nedsatt arbeidsevne
+- [forskrift 3. mai 2007 nr. 495](forskrift/2007-05-03-495) om forsøk med tidsubestemt lønnstilskudd.
 
 ### § 15-2. Overgangsperiode for igangsatte tiltaksplasser i arbeidstrening i ordinær virksomhet
 

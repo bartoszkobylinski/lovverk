@@ -15,7 +15,7 @@ xml_hash: "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ eu_basis: []
 
 (2) Med *finansiell tjeneste* menes i denne loven alle banktjenester, kredittjenester og betalingstjenester og alle tjenester som gjelder investering og individuelle pensjoner.
 
-(3) Med *finansoppdrag* menes i denne loven formidling av en finansiell tjeneste mellom en kunde og en tjenesteyter. Med formidling menes mellomleddvirksomhet mot vederlag som består iå gi råd om eller utføre forberedende arbeid i forbindelse med inngåelse av avtaler om finansielle tjenesterå inngå avtale for en tjenesteyter eller å bistå ved tjenesteyterens forvaltning eller gjennomføring av avtaler om finansielle tjenesterå levere opplysninger om en eller flere finansielle tjenester i overensstemmelse med kundens valgte kriterier via et nettsted eller andre medier, herunder utarbeidelse av en prioritert liste over avtaler som omfatter pris- og produktsammenligninger eller prisrabatter på en finansiell tjeneste, hvis kunden er i stand til direkte eller indirekte å inngå en avtale ved å bruke et nettsted eller andre medier.
+(3) Med *finansoppdrag* menes i denne loven formidling av en finansiell tjeneste mellom en kunde og en tjenesteyter. Med formidling menes mellomleddvirksomhet mot vederlag som består i
+
+1. å gi råd om eller utføre forberedende arbeid i forbindelse med inngåelse av avtaler om finansielle tjenester
+2. å inngå avtale for en tjenesteyter eller å bistå ved tjenesteyterens forvaltning eller gjennomføring av avtaler om finansielle tjenester
+3. å levere opplysninger om en eller flere finansielle tjenester i overensstemmelse med kundens valgte kriterier via et nettsted eller andre medier, herunder utarbeidelse av en prioritert liste over avtaler som omfatter pris- og produktsammenligninger eller prisrabatter på en finansiell tjeneste, hvis kunden er i stand til direkte eller indirekte å inngå en avtale ved å bruke et nettsted eller andre medier.
 
 ### § 1-4. Forbruker, kunde og tjenesteyter
 
@@ -68,7 +72,20 @@ eu_basis: []
 
 ### § 1-5. Definisjoner som gjelder kontoavtaler og betalingstjenester
 
-(1) Med *betalingstjeneste* menes i denne loven en tjeneste med meldeplikt eller krav om særskilt tillatelse etter [finansforetaksloven](lov/2015-04-10-17), og som omfatter en eller flere av følgende forretningsaktiviteter:innskudd og uttak av kontanter på en kontoaktiviteter som kreves for å forvalte en kontobetalingstransaksjoner, herunder overføring av betalingsmidler på en konto som gjennomføres veddirektebelastninger iverksatt av betalingsmottakeren, herunder direkte engangsbelastningerbruk av betalingskort eller lignende enhetbetalerens instruksjon om kontobetalinger, herunder faste betalingsoppdraggjennomføring av betalingstransaksjoner som nevnt i bokstav c med betalingsmidler som er omfattet av en kredittmulighet (kredittgrense)utstedelse av betalingsinstrumenter og innløsning av betalingstransaksjoneroverføring eller mottak av betalingsmidler uten kontoavtalebetalingsfullmakttjenesterkontoinformasjonstjenester.
+(1) Med *betalingstjeneste* menes i denne loven en tjeneste med meldeplikt eller krav om særskilt tillatelse etter [finansforetaksloven](lov/2015-04-10-17), og som omfatter en eller flere av følgende forretningsaktiviteter:
+
+1. innskudd og uttak av kontanter på en konto
+2. aktiviteter som kreves for å forvalte en konto
+3. betalingstransaksjoner, herunder overføring av betalingsmidler på en konto som gjennomføres ved
+
+   1. direktebelastninger iverksatt av betalingsmottakeren, herunder direkte engangsbelastninger
+   2. bruk av betalingskort eller lignende enhet
+   3. betalerens instruksjon om kontobetalinger, herunder faste betalingsoppdrag
+4. gjennomføring av betalingstransaksjoner som nevnt i bokstav c med betalingsmidler som er omfattet av en kredittmulighet (kredittgrense)
+5. utstedelse av betalingsinstrumenter og innløsning av betalingstransaksjoner
+6. overføring eller mottak av betalingsmidler uten kontoavtale
+7. betalingsfullmakttjenester
+8. kontoinformasjonstjenester.
 
 (2) Med *betalingsinstrument* menes i denne loven en personlig innretning eller et sett av fremgangsmåter som er avtalt mellom kunden og betalingstjenesteyteren og benyttes for å iverksette betalingsoppdrag.
 
@@ -106,7 +123,10 @@ eu_basis: []
 
 (2) Med *kausjon* menes i denne loven en avtale hvor en part (kausjonisten) overfor kredittyteren påtar seg en betinget forpliktelse eller garanti i tilknytning til oppfyllelsen av en kredittavtale etter [kapittel 5](lov/2020-12-18-146/kap5) eller leiefinansiering nevnt i [§ 5-23](lov/2020-12-18-146/§5-23) annet ledd som er inngått med en tredjepart.
 
-(3) Med *boliglån* menes i denne lovenkredittavtale som er sikret ved pant eller tilsvarende sikkerhetsstillelse som benyttes i en EØS-stat, i fast eiendom som benyttes til boligformål eller hovedsakelig ikke benyttes til næringsformål, eller i rettighet knyttet til slik eiendomkredittavtale som har til formål å erverve eller bevare eiendomsrett til grunnarealer eller til eksisterende eller prosjekterte bygninger.
+(3) Med *boliglån* menes i denne loven
+
+1. kredittavtale som er sikret ved pant eller tilsvarende sikkerhetsstillelse som benyttes i en EØS-stat, i fast eiendom som benyttes til boligformål eller hovedsakelig ikke benyttes til næringsformål, eller i rettighet knyttet til slik eiendom
+2. kredittavtale som har til formål å erverve eller bevare eiendomsrett til grunnarealer eller til eksisterende eller prosjekterte bygninger.
 
 (4) Med *kredittyter* menes i denne loven en tjenesteyter som tilbyr finansielle tjenester som er omfattet av [kapittel 5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6).
 
@@ -118,7 +138,10 @@ eu_basis: []
 
 (8) Med *brukskontokreditt* menes i denne loven en uttrykkelig kredittavtale der en kredittyter gir kunden tilgang til betalingsmidler som overstiger innestående innskudd på kundens konto.
 
-(9) Med *valutalån* menes i denne lovenkreditt der kundens inntekt og formue er i en valuta som er forskjellig fra den valutaen som er angitt i kredittavtalen, ellerkreditt der valutaen i den EØS-staten som kunden er bosatt i, er forskjellig fra den valutaen som er angitt i kredittavtalen.
+(9) Med *valutalån* menes i denne loven
+
+1. kreditt der kundens inntekt og formue er i en valuta som er forskjellig fra den valutaen som er angitt i kredittavtalen, eller
+2. kreditt der valutaen i den EØS-staten som kunden er bosatt i, er forskjellig fra den valutaen som er angitt i kredittavtalen.
 
 ### § 1-8. Andre definisjoner
 
@@ -154,13 +177,20 @@ eu_basis: []
 
 ### § 1-10. Lovvalg
 
-(1) Har en forbruker som er bosatt i riket, inngått avtale med en tjenesteyter hjemmehørende i en annen stat, skal norsk rett gjelde for avtalen dersomtjenesteyteren har gitt forbrukeren tilbud eller markedsført tjenesten her i riket, og forbrukeren her har gjort det som er nødvendig for at avtalen skal kunne inn gås,tjenesteyteren eller en kommisjonær, agent eller annen representant for denne eller en megler her i riket har mottatt forbrukerens tilbud, aksept eller bestilling, elleravtalen er inngått av forbrukeren etter reise til utlandet i forbindelse med erverv av fast eiendom eller løsøregjenstand eller finansiering av ervervet, og reisen er arrangert av tjenesteyteren, eller av selger i forståelse med tjenesteyteren.
+(1) Har en forbruker som er bosatt i riket, inngått avtale med en tjenesteyter hjemmehørende i en annen stat, skal norsk rett gjelde for avtalen dersom
+
+1. tjenesteyteren har gitt forbrukeren tilbud eller markedsført tjenesten her i riket, og forbrukeren her har gjort det som er nødvendig for at avtalen skal kunne inn gås,
+2. tjenesteyteren eller en kommisjonær, agent eller annen representant for denne eller en megler her i riket har mottatt forbrukerens tilbud, aksept eller bestilling, eller
+3. avtalen er inngått av forbrukeren etter reise til utlandet i forbindelse med erverv av fast eiendom eller løsøregjenstand eller finansiering av ervervet, og reisen er arrangert av tjenesteyteren, eller av selger i forståelse med tjenesteyteren.
 
 (2) Det kan ikke avtales at rettsreglene i en stat utenfor EØS skal anvendes på en kredittavtale som har nær tilknytning til EØS-statenes territorium, dersom forbrukeren ved dette får en dårligere rettsbeskyttelse enn etter loven her.
 
 ### § 1-11. Gjennomføring av EØS-regelverk
 
-(1) Følgende rettsakter gjelder som lov med de tilpasninger som følger av [vedlegg XII](avtale/avt-1992-05-02-1-v12), protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl) og avtalen for øvrig:[EØS-avtalen vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 3 (forordning [(EU) 2021/1230](eu/32021r1230) om betalinger på tvers av landegrensene i Unionen)[EØS-avtalen vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 3a (forordning [(EU) nr. 260/2012](eu/32012r0260) og forordning [(EU) nr. 248/2014](eu/32014r0248) om tekniske og forretningsmessige krav til kredittoverføringer og direkte debiteringer i euro).
+(1) Følgende rettsakter gjelder som lov med de tilpasninger som følger av [vedlegg XII](avtale/avt-1992-05-02-1-v12), protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl) og avtalen for øvrig:
+
+1. [EØS-avtalen vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 3 (forordning [(EU) 2021/1230](eu/32021r1230) om betalinger på tvers av landegrensene i Unionen)
+2. [EØS-avtalen vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 3a (forordning [(EU) nr. 260/2012](eu/32012r0260) og forordning [(EU) nr. 248/2014](eu/32014r0248) om tekniske og forretningsmessige krav til kredittoverføringer og direkte debiteringer i euro).
 
 (2) Kongen kan i forskrift gi regler til gjennomføring av direktiv [(EU) 2019/882](eu/32019l0882) om tilgjengelighetskrav for produkter og tjenester for banktjenester rettet til forbrukere som nevnt i artikkel 2 nr. 2 bokstav d.
 
@@ -186,7 +216,10 @@ eu_basis: []
 
 (1) Dersom betaleren har rett til å foreta oppgjør ved overføring til mottakerens konto, anses betalingen for å være skjedd når beløpet er godskrevet mottakerens betalingstjenesteyter. Ved overføring hos samme betalingstjenesteyter anses betalingen for å være skjedd når beløpet er godskrevet mottakerens konto. Når oppgjør skal skje med utbetaling i kontanter, anses betalingen for å være skjedd når beløpet er stilt til mottakerens disposisjon gjennom en betalingstjenesteyter på mottakerens sted og melding om dette er kommet frem til mottakeren.
 
-(2) Dersom ikke annet er avtalt, anses dessuten en fastsatt betalingsfrist for å være avbruttnår en betalingstjenesteyter har mottatt betalingsoppdrag fra en betaler som er forbruker, jf. [§ 4-5](lov/2020-12-18-146/§4-5) annet leddnår mottakeren mottar og aksepterer sjekk eller betalingsmiddel.
+(2) Dersom ikke annet er avtalt, anses dessuten en fastsatt betalingsfrist for å være avbrutt
+
+1. når en betalingstjenesteyter har mottatt betalingsoppdrag fra en betaler som er forbruker, jf. [§ 4-5](lov/2020-12-18-146/§4-5) annet ledd
+2. når mottakeren mottar og aksepterer sjekk eller betalingsmiddel.
 
 (3) Dersom et mottatt betalingsoppdrag ikke skal utføres straks, regnes avbruddet av betalingsfristen fra den avtalte betalingsdagen.
 
@@ -242,7 +275,11 @@ Vilkår i en kausjonsavtale med en forbruker om at forbrukeren skal være avskå
 
 ### § 2-10. Tap og gevinst ved førtidig tilbakebetaling av fastrentekreditt
 
-(1) Ved førtidig tilbakebetaling av kreditt der en eller flere rentesatser etter avtalen er helt eller delvis bundet for kredittavtalens varighet eller en del av kredittavtalens varighet (fastrentekreditt), kan kreditor kreve dekket tap som følge av tilbakebetalingen dersom dette følger av avtalen. Skyldneren hefter ikke for mer enn det rentebeløpet som ellers skulle ha vært betalt ved forfall. Første punktum gjelder ikkedersom skyldig beløp er 50 000 kroner eller mindredersom skyldneren ikke er opplyst om kreditors rett til tapsdekning etter [§ 3-25](lov/2020-12-18-146/§3-25) bokstav gdersom skyldneren før utløpet av akseptfristen i et forslag til endring av kredittvilkårene har varslet om førtidig tilbakebetaling, og betalingen skjer senest fire uker etter utløpet av akseptfristen. Etter utløpet av akseptfristen skal skyldneren betale markedsrente for benyttet kreditt.
+(1) Ved førtidig tilbakebetaling av kreditt der en eller flere rentesatser etter avtalen er helt eller delvis bundet for kredittavtalens varighet eller en del av kredittavtalens varighet (fastrentekreditt), kan kreditor kreve dekket tap som følge av tilbakebetalingen dersom dette følger av avtalen. Skyldneren hefter ikke for mer enn det rentebeløpet som ellers skulle ha vært betalt ved forfall. Første punktum gjelder ikke
+
+1. dersom skyldig beløp er 50 000 kroner eller mindre
+2. dersom skyldneren ikke er opplyst om kreditors rett til tapsdekning etter [§ 3-25](lov/2020-12-18-146/§3-25) bokstav g
+3. dersom skyldneren før utløpet av akseptfristen i et forslag til endring av kredittvilkårene har varslet om førtidig tilbakebetaling, og betalingen skjer senest fire uker etter utløpet av akseptfristen. Etter utløpet av akseptfristen skal skyldneren betale markedsrente for benyttet kreditt.
 
 (2) Dersom kreditor etter avtalen kan kreve dekning av tap etter første ledd, skal skyldneren i tilsvarende utstrekning godskrives gevinst som kreditor oppnår som følge av førtidig betaling. Retten til godskriving av slik gevinst kan fravikes i avtalen selv om skyldneren er forbruker. Forbrukeren må i så fall være gjort kjent med dette før avtaleinngåelsen.
 
@@ -332,7 +369,10 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 ### § 3-4. Personer med verge
 
-(1) Når en tjenesteyter skal gi opplysninger til en kunde etter bestemmelser gitt i eller i medhold av denne loven, og kunden har verge, gjelder følgende når ikke annet er særskilt bestemt:Er kunden under 18 år, skal opplysningene gis til kundens verge eller verger, med mindre noe annet følger av [§ 4-52](lov/2020-12-18-146/§4-52). Tjenesteyteren skal gi kunder som har fylt 12 år, innsyn i opplysninger om eget kundeforhold når den mindreårige kunden ber om det.Har kunden fylt 18 år, skal opplysningene gis til både kunden og vergen.
+(1) Når en tjenesteyter skal gi opplysninger til en kunde etter bestemmelser gitt i eller i medhold av denne loven, og kunden har verge, gjelder følgende når ikke annet er særskilt bestemt:
+
+1. Er kunden under 18 år, skal opplysningene gis til kundens verge eller verger, med mindre noe annet følger av [§ 4-52](lov/2020-12-18-146/§4-52). Tjenesteyteren skal gi kunder som har fylt 12 år, innsyn i opplysninger om eget kundeforhold når den mindreårige kunden ber om det.
+2. Har kunden fylt 18 år, skal opplysningene gis til både kunden og vergen.
 
 (2) Første ledd gjelder tilsvarende for opplysninger som en tjenesteyter skal gi til en kunde etter en avtale som er omfattet av denne loven.
 
@@ -374,7 +414,12 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 (3) Når ikke noe annet følger av tjenesteyterens plikter som nevnt i første ledd eller regler om heving, gjelder reglene om tjenesteyterens oppsigelse av kontoavtaler i [§ 4-42](lov/2020-12-18-146/§4-42) tredje ledd og reglene om oppsigelse av kredittavtale i [§ 5-13](lov/2020-12-18-146/§5-13) annet og tredje ledd tilsvarende så langt de passer for avvikling av en kontoavtale eller en kredittavtale.
 
-(4) Kunden kan gjøre krav gjeldende mot tjenesteyteren etter reglene i denne loven som følge av avvikling bare dersom tjenesteyteren på avtaletidspunktetforstod eller måtte forstå at avtalen ville være i strid med de forhold som senere medfører avvikling av avtalen etter første ledd, ogforstod eller måtte forstå at forholdene ville føre til avvikling av avtalen.Tjenesteyteren er ikke ansvarlig overfor kunden for avvikling som skyldes forhold som kunden kan klandres for.
+(4) Kunden kan gjøre krav gjeldende mot tjenesteyteren etter reglene i denne loven som følge av avvikling bare dersom tjenesteyteren på avtaletidspunktet
+
+1. forstod eller måtte forstå at avtalen ville være i strid med de forhold som senere medfører avvikling av avtalen etter første ledd, og
+2. forstod eller måtte forstå at forholdene ville føre til avvikling av avtalen.
+
+Tjenesteyteren er ikke ansvarlig overfor kunden for avvikling som skyldes forhold som kunden kan klandres for.
 
 ### II. Avtaleinngåelse
 
@@ -382,9 +427,18 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 (1) Med mindre noe annet er særskilt bestemt, skal avtale om finansiell tjeneste inngås i et skriftlig dokument.
 
-(2) Tjenesteyteren skal ved avtaleinngåelsen påseat avtalens innhold på dette tidspunktet i sin helhet er tilgjengelig for kunden i et skriftlig dokumentat det benyttes en betryggende autentiseringsmetode for å bekrefte inngåelse av en avtale med kunden og med det angitte innholdetat avtalen blir signert hvis kunden er forbruker.
+(2) Tjenesteyteren skal ved avtaleinngåelsen påse
 
-(3) Avtalen og avtalevilkårene er bindende for kunden bare dersom avtaleinngåelsen er gjennomført i samsvar med første og annet ledd. Dette gjelder likevel ikkehvis kunden ikke ønsker å påberope seg manglende avtalebinding, ellerhvis tjenesteyteren, under hensyn til avtalens karakter og vilkårenes betydning for kunden, godtgjør at kunden likevel har gitt samtykke til å bli bundet av avtalevilkårene.Bokstav b gjelder ikke for kausjonsavtaler som ikke inneholder opplysninger om kausjonsansvaret etter [§ 3-36](lov/2020-12-18-146/§3-36) annet ledd. Er kunden forbruker, gjelder bokstav b heller ikke for innledende avtale om kreditt eller kausjon som ikke er signert etter annet ledd bokstav c.
+1. at avtalens innhold på dette tidspunktet i sin helhet er tilgjengelig for kunden i et skriftlig dokument
+2. at det benyttes en betryggende autentiseringsmetode for å bekrefte inngåelse av en avtale med kunden og med det angitte innholdet
+3. at avtalen blir signert hvis kunden er forbruker.
+
+(3) Avtalen og avtalevilkårene er bindende for kunden bare dersom avtaleinngåelsen er gjennomført i samsvar med første og annet ledd. Dette gjelder likevel ikke
+
+1. hvis kunden ikke ønsker å påberope seg manglende avtalebinding, eller
+2. hvis tjenesteyteren, under hensyn til avtalens karakter og vilkårenes betydning for kunden, godtgjør at kunden likevel har gitt samtykke til å bli bundet av avtalevilkårene.
+
+Bokstav b gjelder ikke for kausjonsavtaler som ikke inneholder opplysninger om kausjonsansvaret etter [§ 3-36](lov/2020-12-18-146/§3-36) annet ledd. Er kunden forbruker, gjelder bokstav b heller ikke for innledende avtale om kreditt eller kausjon som ikke er signert etter annet ledd bokstav c.
 
 (4) Etter at avtalen er inngått, skal tjenesteyteren på forespørsel straks gi kunden tilgang til skriftlig dokument med avtalevilkårene som nevnt i annet ledd bokstav a, jf. også [§ 3-22](lov/2020-12-18-146/§3-22) fjerde ledd. En kunde som er forbruker, kan kreve at avtalevilkårene gis på papir.
 
@@ -424,7 +478,10 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 ### § 3-15. Referanserente og referansevekslingskurs
 
-(1) Endring av rentesats eller vekslingskurs kan gjennomføres straks og uten varsel etter [§ 3-14](lov/2020-12-18-146/§3-14) annet ledd dersom dette følger av avtalen og endringen bygger påen rentesats som stammer fra en offentlig tilgjengelig kilde som begge parter kan kontrollere (referanserentesats), elleren vekslingskurs som stilles til rådighet av betalingstjenesteyteren eller stammer fra en offentlig tilgjengelig kilde (referansevekslingskurs).
+(1) Endring av rentesats eller vekslingskurs kan gjennomføres straks og uten varsel etter [§ 3-14](lov/2020-12-18-146/§3-14) annet ledd dersom dette følger av avtalen og endringen bygger på
+
+1. en rentesats som stammer fra en offentlig tilgjengelig kilde som begge parter kan kontrollere (referanserentesats), eller
+2. en vekslingskurs som stilles til rådighet av betalingstjenesteyteren eller stammer fra en offentlig tilgjengelig kilde (referansevekslingskurs).
 
 (2) Ved endring av rentesats eller vekslingskurs etter første ledd skal kunden informeres om enhver endring av rentesatsen i et skriftlig dokument så snart som mulig, med mindre det er avtalt at opplysningene skal stilles til rådighet med en bestemt hyppighet eller på en bestemt måte. Endringer i rentesatser eller vekslingskurser som benyttes i betalingstransaksjoner, skal beregnes og gjennomføres på en nøytral måte uten forskjellsbehandling mellom kundene.
 
@@ -432,7 +489,12 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 ### § 3-16. Definisjoner og virkeområde
 
-(1) I [§§ 3-17](lov/2020-12-18-146/§3-17) til [3-21](lov/2020-12-18-146/§3-21) menes medelektronisk signatur: kvalifisert elektronisk signatur i samsvar med forordning [(EU) nr. 910/2014](eu/32014r0910) om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked og regler gitt i eller i medhold av [lov om elektroniske tillitstjenester](lov/2018-06-15-44)rettighetshaver: en fysisk person som har rett til å fremstille en elektronisk signatur som kan benyttes til å inngå avtale om finansiell tjenestetilbyder: en tilbyder av tillitstjenester som leverer en eller flere kvalifiserte tillitstjenester, som har fått tildelt status som kvalifisert av et tilsynsorgan, og som tilbyr en elektronisk tjeneste bestående av fremstilling, kontroll og validering av elektroniske signaturermisbruk: tap, tyveri eller uberettiget tilegnelse av elektroniske signaturfremstillingsdata.
+(1) I [§§ 3-17](lov/2020-12-18-146/§3-17) til [3-21](lov/2020-12-18-146/§3-21) menes med
+
+1. elektronisk signatur: kvalifisert elektronisk signatur i samsvar med forordning [(EU) nr. 910/2014](eu/32014r0910) om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked og regler gitt i eller i medhold av [lov om elektroniske tillitstjenester](lov/2018-06-15-44)
+2. rettighetshaver: en fysisk person som har rett til å fremstille en elektronisk signatur som kan benyttes til å inngå avtale om finansiell tjeneste
+3. tilbyder: en tilbyder av tillitstjenester som leverer en eller flere kvalifiserte tillitstjenester, som har fått tildelt status som kvalifisert av et tilsynsorgan, og som tilbyr en elektronisk tjeneste bestående av fremstilling, kontroll og validering av elektroniske signaturer
+4. misbruk: tap, tyveri eller uberettiget tilegnelse av elektroniske signaturfremstillingsdata.
 
 (2) Reglene i [§§ 3-17](lov/2020-12-18-146/§3-17) til [3-21](lov/2020-12-18-146/§3-21) gjelder tilsvarende for juridiske personers fremstilling av elektroniske segl.
 
@@ -470,7 +532,13 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 (4) Rettighetshaveren svarer med en egenandel tilsvarende det tapet tjenesteyteren kan gjøre gjeldende i samsvar med ellers gjeldende rettsregler, dersom rettighetshaveren har misligholdt en eller flere av sine plikter etter [§ 3-19](lov/2020-12-18-146/§3-19) første og annet ledd forsettlig slik at rettighetshaveren måtte forstå at misligholdet kunne innebære en nærliggende fare for at de elektroniske signaturfremstillingsdataene kunne bli misbrukt.
 
-(5) Rettighetshaveren svarer ikke for tap som skyldes tjenesteyteren selv, noen som opptrer på tjenesteyterens vegne, eller noen som tjenesteyteren selv representerer. Med mindre rettighetshaveren har opptrådt svikaktig, svarer rettighetshaveren heller ikke for tap i følgende tilfeller:når tap oppstår etter at rettighetshaveren har varslet tilbyderen eller tjenesteyteren om misbruk eller fare for misbruk i samsvar med [§ 3-19](lov/2020-12-18-146/§3-19) annet leddnår plikten til å tilrettelegge for varsling etter [§ 3-17](lov/2020-12-18-146/§3-17) eller [§ 3-18](lov/2020-12-18-146/§3-18) er misligholdtnår den elektroniske signeringen ikke er tilstrekkelig sikkernår tjenesteyteren ikke har krevd sterk kundeautentisering eller tilsvarende sikkerhet i den utstrekning det for øvrig er relevant i forbindelse med avtaleinngåelsennår det foreligger forhold som gjør at tjenesteyteren er nærmest til selv å bære risikoen for misbruk.
+(5) Rettighetshaveren svarer ikke for tap som skyldes tjenesteyteren selv, noen som opptrer på tjenesteyterens vegne, eller noen som tjenesteyteren selv representerer. Med mindre rettighetshaveren har opptrådt svikaktig, svarer rettighetshaveren heller ikke for tap i følgende tilfeller:
+
+1. når tap oppstår etter at rettighetshaveren har varslet tilbyderen eller tjenesteyteren om misbruk eller fare for misbruk i samsvar med [§ 3-19](lov/2020-12-18-146/§3-19) annet ledd
+2. når plikten til å tilrettelegge for varsling etter [§ 3-17](lov/2020-12-18-146/§3-17) eller [§ 3-18](lov/2020-12-18-146/§3-18) er misligholdt
+3. når den elektroniske signeringen ikke er tilstrekkelig sikker
+4. når tjenesteyteren ikke har krevd sterk kundeautentisering eller tilsvarende sikkerhet i den utstrekning det for øvrig er relevant i forbindelse med avtaleinngåelsen
+5. når det foreligger forhold som gjør at tjenesteyteren er nærmest til selv å bære risikoen for misbruk.
 
 (6) Kongen kan i forskrift gi nærmere regler om krav til sikkerhet etter femte ledd bokstav c og d.
 
@@ -488,7 +556,11 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 (1) Når ikke noe annet er særskilt bestemt, skal tjenesteyteren i god tid før avtale inngås gi kunden avtalevilkårene og alle relevante opplysninger i samsvar med reglene gitt i eller i medhold av annet til sjette ledd og [§§ 3-23](lov/2020-12-18-146/§3-23) til [3-39](lov/2020-12-18-146/§3-39).
 
-(2) Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder for alle avtaler om finansielle tjenester som inngås ved fjernsalg, og for avtaler etter [kapittel 4](lov/2020-12-18-146/kap4), [5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6) uansett salgsform. Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder uansett salgsform også for følgende avtaler:avtaler om finansoppdrag som ikke er omfattet av [verdipapirhandelloven](lov/2007-06-29-75) eller [verdipapirfondloven](lov/2011-11-25-44)avtaler som inngås med en forbruker om leiefinansiering som nevnt i [§ 5-23](lov/2020-12-18-146/§5-23) annet ledd når avtalen varer mer enn 30 dager regnet fra utløpet av leveringsmåneden for leieobjektetavtaler om finansiell garanti e.l. til fordel for en forbruker.
+(2) Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder for alle avtaler om finansielle tjenester som inngås ved fjernsalg, og for avtaler etter [kapittel 4](lov/2020-12-18-146/kap4), [5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6) uansett salgsform. Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder uansett salgsform også for følgende avtaler:
+
+1. avtaler om finansoppdrag som ikke er omfattet av [verdipapirhandelloven](lov/2007-06-29-75) eller [verdipapirfondloven](lov/2011-11-25-44)
+2. avtaler som inngås med en forbruker om leiefinansiering som nevnt i [§ 5-23](lov/2020-12-18-146/§5-23) annet ledd når avtalen varer mer enn 30 dager regnet fra utløpet av leveringsmåneden for leieobjektet
+3. avtaler om finansiell garanti e.l. til fordel for en forbruker.
 
 (3) Blir avtalen inngått på forespørsel fra kunden ved bruk av fjernkommunikasjon, slik at det ikke er mulig å gi kunden avtalevilkår og opplysninger før avtaleinngåelsen, skal avtalevilkårene og opplysningene gis kunden umiddelbart etter at avtalen er inngått eller det er gjennomført en enkeltstående betalingstransaksjon. Første punktum innebærer ingen begrensning i de regler som gjelder for avtaleinngåelsen, herunder krav til signatur. For alle avtaler om finansielle tjenester som inngås utenom tjenesteyterens faste forretningslokaler, skal tjenesteyteren sørge for at kunden gis opplysninger om angrerett som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav h, selv om det for øvrig ikke gjelder en opplysningsplikt etter regler i annet ledd.
 
@@ -512,43 +584,109 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 ### § 3-24. Opplysninger om tjenesteyteren
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om tjenesteyteren:tjenesteyterens primære virksomhet, foretaksnavn og hovedkontorets geografiske adressetilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norgeannen relevant kontaktinformasjon for å kunne kommunisere med tjenesteyteren, herunder e-postadresseeventuelle godkjenningsordninger og kontaktopplysninger til relevant tilsynsmyndighetdet offentlige register hvor virksomhetstillatelse er registrert (foretaksregister), samt registreringsnummeret eller tilsvarende identifikasjonsopplysningertjenesteyterens eventuelle egne interesser i avtaleforholdet.
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om tjenesteyteren:
+
+1. tjenesteyterens primære virksomhet, foretaksnavn og hovedkontorets geografiske adresse
+2. tilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norge
+3. annen relevant kontaktinformasjon for å kunne kommunisere med tjenesteyteren, herunder e-postadresse
+4. eventuelle godkjenningsordninger og kontaktopplysninger til relevant tilsynsmyndighet
+5. det offentlige register hvor virksomhetstillatelse er registrert (foretaksregister), samt registreringsnummeret eller tilsvarende identifikasjonsopplysninger
+6. tjenesteyterens eventuelle egne interesser i avtaleforholdet.
 
 ### § 3-25. Opplysninger om avtaleinngåelsen og om senere endringer av avtalen
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om avtaleinngåelsen og om senere endringer av avtalen:kundens rett til uforpliktende å motta utkast til avtale og opplysninger som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) første leddhvor ofte og hvordan tjenesteyteren vil gi eventuelle opplysninger i tilknytning til avtalen, jf. [§ 3-1](lov/2020-12-18-146/§3-1) annet leddhvilket språk opplysninger og avtalevilkår er tilgjengelige på i samsvar med [§ 3-1](lov/2020-12-18-146/§3-1) annet leddeventuell akseptfristeventuelle vilkår om passivt samtykke av nye avtalevilkår og vilkår om at kunden for å unngå å bli bundet må varsle tjenesteyteren innen en fastsatt frist, jf. [§§ 3-13](lov/2020-12-18-146/§3-13) og [3-14](lov/2020-12-18-146/§3-14)avtalens varigheteventuell rett eller begrensning i partenes adgang til førtidig eller ensidig å avslutte avtaleforholdet og kostnader som eventuelt er avtalt at skal betales i denne sammenhengen, herunder ved bindingstid for innskudd og fastrentekreditt etter reglene i [§§ 4-44](lov/2020-12-18-146/§4-44) og [2-10](lov/2020-12-18-146/§2-10)vilkår og fremgangsmåte for bruk av eventuell angrerett etter [§§ 3-40](lov/2020-12-18-146/§3-40) til [3-45](lov/2020-12-18-146/§3-45).
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om avtaleinngåelsen og om senere endringer av avtalen:
+
+1. kundens rett til uforpliktende å motta utkast til avtale og opplysninger som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) første ledd
+2. hvor ofte og hvordan tjenesteyteren vil gi eventuelle opplysninger i tilknytning til avtalen, jf. [§ 3-1](lov/2020-12-18-146/§3-1) annet ledd
+3. hvilket språk opplysninger og avtalevilkår er tilgjengelige på i samsvar med [§ 3-1](lov/2020-12-18-146/§3-1) annet ledd
+4. eventuell akseptfrist
+5. eventuelle vilkår om passivt samtykke av nye avtalevilkår og vilkår om at kunden for å unngå å bli bundet må varsle tjenesteyteren innen en fastsatt frist, jf. [§§ 3-13](lov/2020-12-18-146/§3-13) og [3-14](lov/2020-12-18-146/§3-14)
+6. avtalens varighet
+7. eventuell rett eller begrensning i partenes adgang til førtidig eller ensidig å avslutte avtaleforholdet og kostnader som eventuelt er avtalt at skal betales i denne sammenhengen, herunder ved bindingstid for innskudd og fastrentekreditt etter reglene i [§§ 4-44](lov/2020-12-18-146/§4-44) og [2-10](lov/2020-12-18-146/§2-10)
+8. vilkår og fremgangsmåte for bruk av eventuell angrerett etter [§§ 3-40](lov/2020-12-18-146/§3-40) til [3-45](lov/2020-12-18-146/§3-45).
 
 ### § 3-26. Opplysninger om tvisteløsning og klageorgan
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om tvisteløsning og klageorgan:eventuelle avtalevilkår om lovvalg eller vernetingbehandling av tvister i klageorgan etter [§ 3-54](lov/2020-12-18-146/§3-54)ved fjernsalg, hvilket lands lovgivning som ligger til grunn for tjenesteyterens kontakt med kunden før avtaleinngåelsen.
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om tvisteløsning og klageorgan:
+
+1. eventuelle avtalevilkår om lovvalg eller verneting
+2. behandling av tvister i klageorgan etter [§ 3-54](lov/2020-12-18-146/§3-54)
+3. ved fjernsalg, hvilket lands lovgivning som ligger til grunn for tjenesteyterens kontakt med kunden før avtaleinngåelsen.
 
 ### § 3-27. Opplysninger om bruk av den finansielle tjenesten
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om bruken av den finansielle tjenesten:den finansielle tjenestens viktigste egenskaperinnskuddsgaranti etter [finansforetaksloven § 16-5](lov/2015-04-10-17/§16-5) eller andre garantifond og erstatningsordningersærskilt risiko forbundet med eventuelle finansielle instrumenter, endringer i valutakurs og andre operasjoner som skal utføres i forbindelse med den finansielle tjenesteneventuelt andre betingelser for levering av tjenesten.
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om bruken av den finansielle tjenesten:
+
+1. den finansielle tjenestens viktigste egenskaper
+2. innskuddsgaranti etter [finansforetaksloven § 16-5](lov/2015-04-10-17/§16-5) eller andre garantifond og erstatningsordninger
+3. særskilt risiko forbundet med eventuelle finansielle instrumenter, endringer i valutakurs og andre operasjoner som skal utføres i forbindelse med den finansielle tjenesten
+4. eventuelt andre betingelser for levering av tjenesten.
 
 ### § 3-28. Opplysninger om kostnader
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om kostnader:det totale beløpet for alle kostnader og gebyrer mv. som kunden skal betale til tjenesteyteren, og en spesifikasjon av eventuelle enkeltelementer, jf. også [§ 3-34](lov/2020-12-18-146/§3-34), eller utregningsgrunnlaget hvis nøyaktig kostnad for tjenestene ikke kan oppgiseventuelle kostnader som er avhengige av svingninger i finansmarkedene, og i tilfelle opplysninger om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på fremtidig utvikling og avkastningeventuelle rentesatser og vekslingskurser som skal benyttes, jf. [§ 3-15](lov/2020-12-18-146/§3-15), herunder opplysninger om at disse eventuelt kan endres, og dersom referanserentesats eller referansevekslingskurs er avtalt, opplysninger om beregningsmetoden for den faktiske renten eller vekslingskursen og relevant dato, indeks eller grunnlag for fastsetting av referanserentesats eller referansevekslingskurseventuelle vilkår om en umiddelbar anvendelse av endringer i referanserentesatsen eller referansevekslingskursen og i tilfelle hvordan opplysninger om disse endringene vil bli gitt etter [§ 3-15](lov/2020-12-18-146/§3-15) annet leddeventuelle særskilte kostnader som kunden skal betale for bruk av fjernkommunikasjonsmiddel utenom betalinger til tjenesteytereneventuelt at det kan finnes også andre kostnader utenom betalinger til tjenesteyterenhvilke betalingsordninger som er tilgjengelige.
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om kostnader:
+
+1. det totale beløpet for alle kostnader og gebyrer mv. som kunden skal betale til tjenesteyteren, og en spesifikasjon av eventuelle enkeltelementer, jf. også [§ 3-34](lov/2020-12-18-146/§3-34), eller utregningsgrunnlaget hvis nøyaktig kostnad for tjenestene ikke kan oppgis
+2. eventuelle kostnader som er avhengige av svingninger i finansmarkedene, og i tilfelle opplysninger om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på fremtidig utvikling og avkastning
+3. eventuelle rentesatser og vekslingskurser som skal benyttes, jf. [§ 3-15](lov/2020-12-18-146/§3-15), herunder opplysninger om at disse eventuelt kan endres, og dersom referanserentesats eller referansevekslingskurs er avtalt, opplysninger om beregningsmetoden for den faktiske renten eller vekslingskursen og relevant dato, indeks eller grunnlag for fastsetting av referanserentesats eller referansevekslingskurs
+4. eventuelle vilkår om en umiddelbar anvendelse av endringer i referanserentesatsen eller referansevekslingskursen og i tilfelle hvordan opplysninger om disse endringene vil bli gitt etter [§ 3-15](lov/2020-12-18-146/§3-15) annet ledd
+5. eventuelle særskilte kostnader som kunden skal betale for bruk av fjernkommunikasjonsmiddel utenom betalinger til tjenesteyteren
+6. eventuelt at det kan finnes også andre kostnader utenom betalinger til tjenesteyteren
+7. hvilke betalingsordninger som er tilgjengelige.
 
 ### § 3-29. Opplysninger om kredittvurdering
 
-Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om eventuell kredittvurdering:at det vil bli gjennomført en kredittvurdering, herunder ved søk i relevante databaserrett til å motta varsel om resultatet av databasesøk når tjenesten avslås på grunnlag av databasesøkeventuell forutsetning om at det innen den fastsatte tidsfristen oppgis korrekte og fullstendige opplysninger og dokumentasjon som er nødvendig for å gjennomføre kredittvurderingen, og om tjenesteyteren forbeholder seg rett til å heve avtalen dersom det ved svik er oppgitt uriktige opplysninger.
+Ved avtaler nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd skal det gis følgende opplysninger om eventuell kredittvurdering:
+
+1. at det vil bli gjennomført en kredittvurdering, herunder ved søk i relevante databaser
+2. rett til å motta varsel om resultatet av databasesøk når tjenesten avslås på grunnlag av databasesøk
+3. eventuell forutsetning om at det innen den fastsatte tidsfristen oppgis korrekte og fullstendige opplysninger og dokumentasjon som er nødvendig for å gjennomføre kredittvurderingen, og om tjenesteyteren forbeholder seg rett til å heve avtalen dersom det ved svik er oppgitt uriktige opplysninger.
 
 ### § 3-30. Opplysninger om bruk av betalingstjenester
 
-Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) skal det gis følgende opplysninger om bruk av betalingstjenester:kontonummer eller annen unik identifikasjonskode og opplysningene som kunden må oppgi for at et betalingsoppdrag skal kunne iverksettes eller gjennomføres korrektform og prosedyre for å gi eller tilbakekalle samtykke til å iverksette et betalingsoppdrag eller til å gjennomføre en betalingstransaksjon, jf. [§ 4-2](lov/2020-12-18-146/§4-2)tidspunktet for når et betalingsoppdrag anses mottatt, og eventuelle tidsfrister betalingstjenesteyteren har fastsatt for mottak av betalingsoppdrag, jf. [§ 4-5](lov/2020-12-18-146/§4-5)maksimal gjennomføringstid for den aktuelle betalingstjenesten, jf. [§§ 4-11](lov/2020-12-18-146/§4-11) og [4-12](lov/2020-12-18-146/§4-12)om det er mulig å avtale beløpsmessige belastningsgrenser for bruk av betalingsinstrument, jf. [§ 4-9](lov/2020-12-18-146/§4-9)ved utstedelse av betalingskort med flere varemerker, kundens rettigheter etter [artikkel 8 i forordning (EU) 2015/751](eu/32015r0751/a8) om formidlingsgebyrer for kortbaserte betalingstransaksjoner.
+Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) skal det gis følgende opplysninger om bruk av betalingstjenester:
+
+1. kontonummer eller annen unik identifikasjonskode og opplysningene som kunden må oppgi for at et betalingsoppdrag skal kunne iverksettes eller gjennomføres korrekt
+2. form og prosedyre for å gi eller tilbakekalle samtykke til å iverksette et betalingsoppdrag eller til å gjennomføre en betalingstransaksjon, jf. [§ 4-2](lov/2020-12-18-146/§4-2)
+3. tidspunktet for når et betalingsoppdrag anses mottatt, og eventuelle tidsfrister betalingstjenesteyteren har fastsatt for mottak av betalingsoppdrag, jf. [§ 4-5](lov/2020-12-18-146/§4-5)
+4. maksimal gjennomføringstid for den aktuelle betalingstjenesten, jf. [§§ 4-11](lov/2020-12-18-146/§4-11) og [4-12](lov/2020-12-18-146/§4-12)
+5. om det er mulig å avtale beløpsmessige belastningsgrenser for bruk av betalingsinstrument, jf. [§ 4-9](lov/2020-12-18-146/§4-9)
+6. ved utstedelse av betalingskort med flere varemerker, kundens rettigheter etter [artikkel 8 i forordning (EU) 2015/751](eu/32015r0751/a8) om formidlingsgebyrer for kortbaserte betalingstransaksjoner.
 
 ### § 3-31. Opplysninger om sikkerhet og ansvar mv. ved bruk av betalingstjenester
 
-Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) skal det gis følgende opplysninger om sikkerhet og ansvar mv. ved bruk av betalingstjenester:forholdsregler kunden skal ta for å beskytte et betalingsinstrument, jf. [§ 4-23](lov/2020-12-18-146/§4-23)en sikker prosedyre betalingstjenesteyteren kan bruke for å varsle kunden ved mistanke om eller tilfelle av svik eller sikkerhetstruslervilkårene for en eventuell avtalt rett for betalingstjenesteyteren til å sperre et betalingsinstrument og i tilfelle om varsling av kunden, jf. [§ 4-45](lov/2020-12-18-146/§4-45)kundens ansvar for ikke godkjente betalingstransaksjoner etter [§ 4-32](lov/2020-12-18-146/§4-32), herunder egenandelerhvordan og innen hvilken frist kunden skal varsle betalingstjenesteyteren om en ikke godkjent betalingstransaksjon eller en feil gjennomført betalingstransaksjon, jf. [§ 4-24](lov/2020-12-18-146/§4-24)betalingstjenesteyterens ansvar for iverksetting eller gjennomføring av betalingstransaksjoner etter [§§ 4-28](lov/2020-12-18-146/§4-28) og [4-29](lov/2020-12-18-146/§4-29)vilkårene for tilbakebetaling ved direktebelastning etter [§ 4-27](lov/2020-12-18-146/§4-27).
+Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) skal det gis følgende opplysninger om sikkerhet og ansvar mv. ved bruk av betalingstjenester:
+
+1. forholdsregler kunden skal ta for å beskytte et betalingsinstrument, jf. [§ 4-23](lov/2020-12-18-146/§4-23)
+2. en sikker prosedyre betalingstjenesteyteren kan bruke for å varsle kunden ved mistanke om eller tilfelle av svik eller sikkerhetstrusler
+3. vilkårene for en eventuell avtalt rett for betalingstjenesteyteren til å sperre et betalingsinstrument og i tilfelle om varsling av kunden, jf. [§ 4-45](lov/2020-12-18-146/§4-45)
+4. kundens ansvar for ikke godkjente betalingstransaksjoner etter [§ 4-32](lov/2020-12-18-146/§4-32), herunder egenandeler
+5. hvordan og innen hvilken frist kunden skal varsle betalingstjenesteyteren om en ikke godkjent betalingstransaksjon eller en feil gjennomført betalingstransaksjon, jf. [§ 4-24](lov/2020-12-18-146/§4-24)
+6. betalingstjenesteyterens ansvar for iverksetting eller gjennomføring av betalingstransaksjoner etter [§§ 4-28](lov/2020-12-18-146/§4-28) og [4-29](lov/2020-12-18-146/§4-29)
+7. vilkårene for tilbakebetaling ved direktebelastning etter [§ 4-27](lov/2020-12-18-146/§4-27).
 
 ### § 3-32. Særskilte regler om opplysningsplikt for visse betalingstjenester
 
-(1) Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) er det for tjenester som nevnt i bokstavene a til d tilstrekkelig at relevante opplysninger etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-31](lov/2020-12-18-146/§3-31) er stilt til rådighet på en lett tilgjengelig måte, og at det opplyses om hvor de er stilt til rådighet, jf. likevel tredje ledd. Tjenesteyteren skal dessuten gi opplysninger etter følgende regler:Ved enkeltstående betalingstransaksjoner som nevnt i [§ 4-51](lov/2020-12-18-146/§4-51) skal betalingstjenesteyteren på forespørsel gi kunden et skriftlig dokument med opplysninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a om kostnader og bokstav c om renter samt [§ 3-30](lov/2020-12-18-146/§3-30) bokstav a om hva kunden må oppgi for at et betalingsoppdrag skal kunne iverksettes eller gjennomføres korrekt, og bokstav c om tidspunktet eller tidsfrist for mottak av betalingsoppdrag.Ved betalingsfullmakttjenester skal betalingsfullmektigen på forespørsel gi betaleren et skriftlig dokument med opplysninger om enkeltstående betalingstransaksjoner i samsvar med bokstav a og opplysninger om betalingsfullmektigens kontaktinformasjon mv. etter [§ 3-24](lov/2020-12-18-146/§3-24) bokstav a til d.Ved kontoinformasjonstjenester skal opplysningsfullmektigen gi kunden enkel tilgang til opplysninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a om kostnader og [§ 3-30](lov/2020-12-18-146/§3-30) bokstav d om den maksimale gjennomføringstiden for tjenesten.Ved avtale om elektroniske småpenger som nevnt i [§ 4-50](lov/2020-12-18-146/§4-50) skal betalingstjenesteyteren gi kunden enkel tilgang til opplysninger som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav a om tjenestens viktigste egenskaper, herunder om hvordan betalingsinstrumentet kan brukes, ansvar, innkrevde gebyrer og andre viktige opplysninger som er nødvendige for at kunden skal kunne ta en informert beslutning.
+(1) Ved avtaler etter [kapittel 4](lov/2020-12-18-146/kap4) er det for tjenester som nevnt i bokstavene a til d tilstrekkelig at relevante opplysninger etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-31](lov/2020-12-18-146/§3-31) er stilt til rådighet på en lett tilgjengelig måte, og at det opplyses om hvor de er stilt til rådighet, jf. likevel tredje ledd. Tjenesteyteren skal dessuten gi opplysninger etter følgende regler:
+
+1. Ved enkeltstående betalingstransaksjoner som nevnt i [§ 4-51](lov/2020-12-18-146/§4-51) skal betalingstjenesteyteren på forespørsel gi kunden et skriftlig dokument med opplysninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a om kostnader og bokstav c om renter samt [§ 3-30](lov/2020-12-18-146/§3-30) bokstav a om hva kunden må oppgi for at et betalingsoppdrag skal kunne iverksettes eller gjennomføres korrekt, og bokstav c om tidspunktet eller tidsfrist for mottak av betalingsoppdrag.
+2. Ved betalingsfullmakttjenester skal betalingsfullmektigen på forespørsel gi betaleren et skriftlig dokument med opplysninger om enkeltstående betalingstransaksjoner i samsvar med bokstav a og opplysninger om betalingsfullmektigens kontaktinformasjon mv. etter [§ 3-24](lov/2020-12-18-146/§3-24) bokstav a til d.
+3. Ved kontoinformasjonstjenester skal opplysningsfullmektigen gi kunden enkel tilgang til opplysninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a om kostnader og [§ 3-30](lov/2020-12-18-146/§3-30) bokstav d om den maksimale gjennomføringstiden for tjenesten.
+4. Ved avtale om elektroniske småpenger som nevnt i [§ 4-50](lov/2020-12-18-146/§4-50) skal betalingstjenesteyteren gi kunden enkel tilgang til opplysninger som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav a om tjenestens viktigste egenskaper, herunder om hvordan betalingsinstrumentet kan brukes, ansvar, innkrevde gebyrer og andre viktige opplysninger som er nødvendige for at kunden skal kunne ta en informert beslutning.
 
 (2) Når flere enn én tjenesteyter er pålagt opplysningsplikt etter denne paragrafen, gjelder [§ 4-51](lov/2020-12-18-146/§4-51) tilsvarende.
 
-(3) Når avtale etter første ledd inngås ved fjernsalg til en forbruker, skal det i samsvar med reglene i [§§ 3-22](lov/2020-12-18-146/§3-22) og [3-23](lov/2020-12-18-146/§3-23) likevel gis opplysninger omeventuell akseptfrist som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav dvilkår og fremgangsmåte for å benytte en eventuell angrerett som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav hlovgivning som ligger til grunn for fjernsalgsvirksomheten som nevnt i [§ 3-26](lov/2020-12-18-146/§3-26) bokstav cgarantifond og erstatningsordninger som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav bsærskilt risiko forbundet med finansielle instrumenter mv. som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav ceventuelt andre betingelser som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav deventuelle kostnader utenom betalingene til tjenesteyteren som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav ftilgjengelige betalingsordninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav g.
+(3) Når avtale etter første ledd inngås ved fjernsalg til en forbruker, skal det i samsvar med reglene i [§§ 3-22](lov/2020-12-18-146/§3-22) og [3-23](lov/2020-12-18-146/§3-23) likevel gis opplysninger om
+
+1. eventuell akseptfrist som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav d
+2. vilkår og fremgangsmåte for å benytte en eventuell angrerett som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav h
+3. lovgivning som ligger til grunn for fjernsalgsvirksomheten som nevnt i [§ 3-26](lov/2020-12-18-146/§3-26) bokstav c
+4. garantifond og erstatningsordninger som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav b
+5. særskilt risiko forbundet med finansielle instrumenter mv. som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav c
+6. eventuelt andre betingelser som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav d
+7. eventuelle kostnader utenom betalingene til tjenesteyteren som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav f
+8. tilgjengelige betalingsordninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav g.
 
 ### § 3-33. Standardisert gebyropplysningsskjema og forklarende ordliste
 
@@ -556,7 +694,19 @@ Ved avtaler om betalingskonto etter [kapittel 4](lov/2020-12-18-146/kap4) med en
 
 ### § 3-34. Opplysninger om kredittavtaler
 
-(1) Ved avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) skal det gis opplysninger omkredittypetilgjengelig kredittbeløpvilkår for bruk av kreditten som tilbyseventuell kontantpris for varen eller tjenesten ved betalingsutsettelseeffektiv rente og et illustrert eksempel som angir alle de antakelser som er lagt til grunn for beregningen av prosentsatseneventuelle avdrag, herunder avdragenes størrelse, antall og hyppighet. Skal det anvendes ulik rente for en del av kreditten, skal fordelingen av avdragene på slike deler spesifisereseventuelle vilkår om kjøp av gjeldsforsikring eller andre tilleggstjenester og om disse kan leveres av andre enn kredittyterenrisiko forbundet med å ikke overholde betalingsfrister, herunder gjeldende forsinkelsesrente og kostnader som kunden må betale ved misligholdtydelig angivelse av en eventuell risiko for at kreditten ikke blir fullt nedbetalt selv om vilkår og betingelser i kredittavtalen er overholdteventuell sikkerhet som kreveseventuelt vilkårene for å gjøre innsigelser mot selgeren gjeldende overfor kredittyteren etter [§ 2-7](lov/2020-12-18-146/§2-7).
+(1) Ved avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) skal det gis opplysninger om
+
+1. kredittype
+2. tilgjengelig kredittbeløp
+3. vilkår for bruk av kreditten som tilbys
+4. eventuell kontantpris for varen eller tjenesten ved betalingsutsettelse
+5. effektiv rente og et illustrert eksempel som angir alle de antakelser som er lagt til grunn for beregningen av prosentsatsen
+6. eventuelle avdrag, herunder avdragenes størrelse, antall og hyppighet. Skal det anvendes ulik rente for en del av kreditten, skal fordelingen av avdragene på slike deler spesifiseres
+7. eventuelle vilkår om kjøp av gjeldsforsikring eller andre tilleggstjenester og om disse kan leveres av andre enn kredittyteren
+8. risiko forbundet med å ikke overholde betalingsfrister, herunder gjeldende forsinkelsesrente og kostnader som kunden må betale ved mislighold
+9. tydelig angivelse av en eventuell risiko for at kreditten ikke blir fullt nedbetalt selv om vilkår og betingelser i kredittavtalen er overholdt
+10. eventuell sikkerhet som kreves
+11. eventuelt vilkårene for å gjøre innsigelser mot selgeren gjeldende overfor kredittyteren etter [§ 2-7](lov/2020-12-18-146/§2-7).
 
 (2) Første ledd bokstav c, d og f gjelder ikke for brukskontokreditt. For brukskontokreditt som skal tilbakebetales ved krav om tilbakebetaling, skal det opplyses om at kredittyteren når som helst kan kreve tilbakebetaling av hele kredittbeløpet.
 
@@ -566,7 +716,11 @@ Ved avtaler om betalingskonto etter [kapittel 4](lov/2020-12-18-146/kap4) med en
 
 ### § 3-35. Standardisert kredittopplysningsskjema
 
-(1) For avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6) skal det benyttes følgende standardiserte kredittopplysningsskjema:for boliglån: skjemaet som er inntatt som vedlegg II til boliglåndirektivet (direktiv [2014/17/EU](eu/32014l0017))for brukskontokreditt, refinansiering og kredittavtaler som samvirkeforetak tilbyr egne medlemmer på særskilte vilkår: skjemaet som er inntatt som vedlegg III til forbrukerkredittdirektivet (direktiv [2008/48/EF](eu/32008l0048))for kredittavtaler som ikke er omfattet av bokstav a eller b: skjemaet som er inntatt som vedlegg II til forbrukerkredittdirektivet (direktiv [2008/48/EF](eu/32008l0048)).
+(1) For avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6) skal det benyttes følgende standardiserte kredittopplysningsskjema:
+
+1. for boliglån: skjemaet som er inntatt som vedlegg II til boliglåndirektivet (direktiv [2014/17/EU](eu/32014l0017))
+2. for brukskontokreditt, refinansiering og kredittavtaler som samvirkeforetak tilbyr egne medlemmer på særskilte vilkår: skjemaet som er inntatt som vedlegg III til forbrukerkredittdirektivet (direktiv [2008/48/EF](eu/32008l0048))
+3. for kredittavtaler som ikke er omfattet av bokstav a eller b: skjemaet som er inntatt som vedlegg II til forbrukerkredittdirektivet (direktiv [2008/48/EF](eu/32008l0048)).
 
 (2) Kredittopplysningsskjemaet skal gis kunden før kredittavtalen inngås. Ved kredittavtaler nevnt i første ledd bokstav b kan kredittyteren oppfylle sin opplysningsplikt også på annen måte som like tydelig angir alle opplysninger og avtalevilkår i samsvar med [§ 3-23](lov/2020-12-18-146/§3-23) første ledd.
 
@@ -578,23 +732,56 @@ Ved avtaler om betalingskonto etter [kapittel 4](lov/2020-12-18-146/kap4) med en
 
 ### § 3-36. Opplysninger om kausjonsansvar
 
-(1) Ved avtaler etter [kapittel 6](lov/2020-12-18-146/kap6) skal det gis følgende opplysninger om kausjonsansvar:avtalevilkår og opplysninger som skal gis kredittkunden etter [§ 3-22](lov/2020-12-18-146/§3-22) første leddden alminnelige risiko som knytter seg til kausjonsansvareventuelle vilkår om kjøp av gjeldsforsikring for kausjonsansvaret eller andre tilleggstjenester og om disse kan leveres av andre enn kredittytereneventuell sikkerhet som forutsettes stilt av kausjonisten for kausjonsansvarethvis det er relevant, opplysninger om at kausjonsansvaret skal omfatte eldre gjeld, om denne gjelden er misligholdt, og resultatet av kredittvurderingen av kredittkunden etter [§ 6-1](lov/2020-12-18-146/§6-1) annet ledd tredje punktumretten til å fri seg fra kausjonsansvaret etter [§ 6-9](lov/2020-12-18-146/§6-9) og om kausjonistens krav mot kredittkunden etter [§ 6-13](lov/2020-12-18-146/§6-13).
+(1) Ved avtaler etter [kapittel 6](lov/2020-12-18-146/kap6) skal det gis følgende opplysninger om kausjonsansvar:
+
+1. avtalevilkår og opplysninger som skal gis kredittkunden etter [§ 3-22](lov/2020-12-18-146/§3-22) første ledd
+2. den alminnelige risiko som knytter seg til kausjonsansvar
+3. eventuelle vilkår om kjøp av gjeldsforsikring for kausjonsansvaret eller andre tilleggstjenester og om disse kan leveres av andre enn kredittyteren
+4. eventuell sikkerhet som forutsettes stilt av kausjonisten for kausjonsansvaret
+5. hvis det er relevant, opplysninger om at kausjonsansvaret skal omfatte eldre gjeld, om denne gjelden er misligholdt, og resultatet av kredittvurderingen av kredittkunden etter [§ 6-1](lov/2020-12-18-146/§6-1) annet ledd tredje punktum
+6. retten til å fri seg fra kausjonsansvaret etter [§ 6-9](lov/2020-12-18-146/§6-9) og om kausjonistens krav mot kredittkunden etter [§ 6-13](lov/2020-12-18-146/§6-13).
 
 (2) I tillegg til opplysninger nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a som eventuelt får anvendelse på en kausjonsavtale, skal kredittyteren gi kausjonisten opplysninger om det totale beløpet eller det høyeste beløpet kausjonsansvaret skal sikre, og om kausjonisten i tillegg skal ha ansvar for renter og kostnader ved kredittkundens mislighold, jf. [§§ 6-11](lov/2020-12-18-146/§6-11) og [6-12](lov/2020-12-18-146/§6-12).
 
 ### § 3-37. Opplysninger om leiefinansiering
 
-Ved avtaler om leiefinansiering som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bokstav b skal det gis følgende opplysninger:kundens oppsigelsesrettleiebeløpenes størrelse og når de skal betaleseventuelt summen av alle kostnader pr. år ved leieavtaler som ikke har en bestemt varighet, herunder leiebeløp og eventuelle tillegg mv.eventuell kontantpris dersom utleieren også driver regulert salg av leieobjektet.
+Ved avtaler om leiefinansiering som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bokstav b skal det gis følgende opplysninger:
+
+1. kundens oppsigelsesrett
+2. leiebeløpenes størrelse og når de skal betales
+3. eventuelt summen av alle kostnader pr. år ved leieavtaler som ikke har en bestemt varighet, herunder leiebeløp og eventuelle tillegg mv.
+4. eventuell kontantpris dersom utleieren også driver regulert salg av leieobjektet.
 
 ### § 3-38. Opplysninger om finansoppdrag
 
-Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bokstav a skal det gis følgende opplysninger:om oppdragsforetaket opptrer som et uavhengig mellomleddom oppdragsforetaket ved utførelsen av finansoppdraget representerer kunden eller tjenesteyterenom finansoppdraget gjelder rådgivning på grunnlag av en vurdering av et flertall av de tilgjengelige finansielle tjenestene i markedet for den produktkategorien oppdraget gjelder, eller på grunnlag av en vurdering av et mindre, men tilstrekkelig, antall finansielle tjenester, samt hva dette innebærer for kundentjenesteyterens navn dersom oppdragsforetaket er avtalerettslig forpliktet til å formidle finansielle tjenester på vegne av en eller flere tjenesteyteredersom finansoppdraget ikke er omfattet av bokstav b eller c, navnet på den tjenesteyteren eller de tjenesteyterne som oppdragsforetaket kan benytte eller faktisk benytter ved utførelse av finansoppdragetdersom opplysningene ikke er gitt uttrykkelig etter [§ 3-28](lov/2020-12-18-146/§3-28), hvordan vederlag og annen økonomisk fordel som oppdragsforetaket og vedkommende ansatt mottar i forbindelse med finansoppdraget, fastsettes, herunder om vederlaget er provisjonsbasert, størrelsen på slikt vederlag og metoden for beregning av dette, og om kunden skal betale vederlaget direkte eller om det inngår i prisen på den finansielle tjenesten som formidles gjennom finansoppdraget.
+Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bokstav a skal det gis følgende opplysninger:
+
+1. om oppdragsforetaket opptrer som et uavhengig mellomledd
+2. om oppdragsforetaket ved utførelsen av finansoppdraget representerer kunden eller tjenesteyteren
+3. om finansoppdraget gjelder rådgivning på grunnlag av en vurdering av et flertall av de tilgjengelige finansielle tjenestene i markedet for den produktkategorien oppdraget gjelder, eller på grunnlag av en vurdering av et mindre, men tilstrekkelig, antall finansielle tjenester, samt hva dette innebærer for kunden
+4. tjenesteyterens navn dersom oppdragsforetaket er avtalerettslig forpliktet til å formidle finansielle tjenester på vegne av en eller flere tjenesteytere
+5. dersom finansoppdraget ikke er omfattet av bokstav b eller c, navnet på den tjenesteyteren eller de tjenesteyterne som oppdragsforetaket kan benytte eller faktisk benytter ved utførelse av finansoppdraget
+6. dersom opplysningene ikke er gitt uttrykkelig etter [§ 3-28](lov/2020-12-18-146/§3-28), hvordan vederlag og annen økonomisk fordel som oppdragsforetaket og vedkommende ansatt mottar i forbindelse med finansoppdraget, fastsettes, herunder om vederlaget er provisjonsbasert, størrelsen på slikt vederlag og metoden for beregning av dette, og om kunden skal betale vederlaget direkte eller om det inngår i prisen på den finansielle tjenesten som formidles gjennom finansoppdraget.
 
 ### § 3-39. Særskilt opplysningsplikt ved tilbud om finansiell tjeneste i telefonsamtale
 
-(1) Tilbys en forbruker en finansiell tjeneste i en telefonsamtale, skal tjenesteyteren opplyse om salgsformålet så snart samtalen har startet. Selv om forbrukeren gir uttrykkelig samtykke til at tjenesteyteren kan begrense sin ellers gjeldende opplysningsplikt, skal tjenesteyteren likevel opplyse om navnet på personen som kontakter forbrukeren, forholdet til tjenesteyteren og opplysninger som nevnt i [§ 3-24](lov/2020-12-18-146/§3-24) bokstav a og b samt gi forbrukeren opplysninger omangrerett som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav htjenestens viktigste egenskaper som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav a og eventuell særskilt risiko nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav ctotalbeløpet som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav akostnader utenom betalinger til tjenesteyteren som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav fat eventuelle tilbud som gis i telefonsamtale, uten at forbrukeren selv har oppfordret tjenesteyteren om å gi tilbudet, må aksepteres skriftlig av forbrukeren for at bindende avtale skal inngås. Denne opplysningen skal gis skriftlig til forbrukeren før avtale inngås.
+(1) Tilbys en forbruker en finansiell tjeneste i en telefonsamtale, skal tjenesteyteren opplyse om salgsformålet så snart samtalen har startet. Selv om forbrukeren gir uttrykkelig samtykke til at tjenesteyteren kan begrense sin ellers gjeldende opplysningsplikt, skal tjenesteyteren likevel opplyse om navnet på personen som kontakter forbrukeren, forholdet til tjenesteyteren og opplysninger som nevnt i [§ 3-24](lov/2020-12-18-146/§3-24) bokstav a og b samt gi forbrukeren opplysninger om
 
-(2) Ved avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) skal det i tillegg til opplysninger som nevnt i første ledd gis opplysninger omrentesatser og vekslingskurser som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav ckredittype som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav avilkår for bruk av kreditten som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav ceventuell kontantpris som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav deffektiv rente som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav eeventuelle avdrag som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav feventuelle vilkår om tilbakebetaling av hele kredittbeløpet som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) annet ledd.
+1. angrerett som nevnt i [§ 3-25](lov/2020-12-18-146/§3-25) bokstav h
+2. tjenestens viktigste egenskaper som nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav a og eventuell særskilt risiko nevnt i [§ 3-27](lov/2020-12-18-146/§3-27) bokstav c
+3. totalbeløpet som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav a
+4. kostnader utenom betalinger til tjenesteyteren som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav f
+5. at eventuelle tilbud som gis i telefonsamtale, uten at forbrukeren selv har oppfordret tjenesteyteren om å gi tilbudet, må aksepteres skriftlig av forbrukeren for at bindende avtale skal inngås. Denne opplysningen skal gis skriftlig til forbrukeren før avtale inngås.
+
+(2) Ved avtaler etter [kapittel 5](lov/2020-12-18-146/kap5) skal det i tillegg til opplysninger som nevnt i første ledd gis opplysninger om
+
+1. rentesatser og vekslingskurser som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) bokstav c
+2. kredittype som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav a
+3. vilkår for bruk av kreditten som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav c
+4. eventuell kontantpris som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav d
+5. effektiv rente som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav e
+6. eventuelle avdrag som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav f
+7. eventuelle vilkår om tilbakebetaling av hele kredittbeløpet som nevnt i [§ 3-34](lov/2020-12-18-146/§3-34) annet ledd.
 
 (3) Ved boliglån skal det i tillegg til opplysninger nevnt i første ledd gis relevante opplysninger som nevnt i [§ 3-28](lov/2020-12-18-146/§3-28) og [§ 3-34](lov/2020-12-18-146/§3-34) første ledd bokstav a, b, c, e, f og j.
 
@@ -614,7 +801,10 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 (1) En forbruker har angrerett ved inngåelse av kredittavtale etter [kapittel 5](lov/2020-12-18-146/kap5) og kausjonsavtale etter [kapittel 6](lov/2020-12-18-146/kap6). Dette gjelder likevel ikke avtaler som nevnt i [§ 3-40](lov/2020-12-18-146/§3-40).
 
-(2) En forbruker har angrerett ved inngåelse av enhver avtale om finansielle tjenester når avtalen inngås ved fjernsalg. Første punktum gjelder likevel ikke avtaler som nevnt i [§ 3-40](lov/2020-12-18-146/§3-40). Første punktum gjelder heller ikke fortjenester der prisen avhenger av svingninger i finansmarkedet som tjenesteyteren ikke har innflytelse på, og som kan forekomme før utløpet av angrefristenavtaler som fullt ut er oppfylt av forbrukeren og tjenesteyteren fordi forbrukeren uttrykkelig har bedt om oppfyllelse uten å bruke angreretten før oppfyllelsen.
+(2) En forbruker har angrerett ved inngåelse av enhver avtale om finansielle tjenester når avtalen inngås ved fjernsalg. Første punktum gjelder likevel ikke avtaler som nevnt i [§ 3-40](lov/2020-12-18-146/§3-40). Første punktum gjelder heller ikke for
+
+1. tjenester der prisen avhenger av svingninger i finansmarkedet som tjenesteyteren ikke har innflytelse på, og som kan forekomme før utløpet av angrefristen
+2. avtaler som fullt ut er oppfylt av forbrukeren og tjenesteyteren fordi forbrukeren uttrykkelig har bedt om oppfyllelse uten å bruke angreretten før oppfyllelsen.
 
 (3) En forbruker har angrerett også ved inngåelse av enhver avtale om finansielle tjenester når avtalen inngås utenom tjenesteyterens faste forretningslokaler. Første punktum gjelder likevel ikke avtaler som nevnt i [§ 3-40](lov/2020-12-18-146/§3-40).
 
@@ -660,7 +850,15 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 (1) Brukes angreretten til å gå fra en avtale som er inngått utenom tjenesteyterens faste forretningslokaler, skal tjenesteyteren tilbakebetale det forbrukeren har betalt, og eventuelt et beløp til dekning av returkostnader, senest 14 dager fra den dagen melding om bruk av angreretten er mottatt.
 
-(2) Har forbrukeren mottatt varer i forbindelse med tjenesteavtalen, gjelder følgende:Returkostnader bæres av selgeren.Forbrukeren kan holde varen tilbake inntil han eller hun har mottatt tilbakebetaling og eventuelt et beløp tilsvarende returkostnader fra selgeren.Når forbrukeren har mottatt det selgeren skal betale, skal forbrukeren sende eller levere varen til selgeren innen rimelig tid.Er varen sendt gjennom posten eller en annen selvstendig fraktfører, skal den sendes tilbake på tilsvarende måte. Dersom selgeren ikke har ordnet med hensiktsmessig returpakning, gjelder bestemmelsen i bokstav e.Er varen levert på annen måte, skal den stilles til selgerens rådighet for avhenting på det stedet varen ble mottatt. Er varen i disse tilfellene levert på et annet sted enn i forbrukerens hjem, kan det avtales at varen skal sendes eller leveres på en annen måte som ikke medfører urimelig ulempe for forbrukeren.Forbrukeren plikter ikke å motta eller innløse en vare før den returneres til selgeren, men kan i stedet be den som leverer varen, om å returnere varen til selgeren.Dersom forbrukeren har gitt melding til selgeren om at varen kan hentes etter reglene i bokstav e, og dette ikke skjer innen tre måneder fra meldingen er mottatt, tilfaller den forbrukeren vederlagsfritt.
+(2) Har forbrukeren mottatt varer i forbindelse med tjenesteavtalen, gjelder følgende:
+
+1. Returkostnader bæres av selgeren.
+2. Forbrukeren kan holde varen tilbake inntil han eller hun har mottatt tilbakebetaling og eventuelt et beløp tilsvarende returkostnader fra selgeren.
+3. Når forbrukeren har mottatt det selgeren skal betale, skal forbrukeren sende eller levere varen til selgeren innen rimelig tid.
+4. Er varen sendt gjennom posten eller en annen selvstendig fraktfører, skal den sendes tilbake på tilsvarende måte. Dersom selgeren ikke har ordnet med hensiktsmessig returpakning, gjelder bestemmelsen i bokstav e.
+5. Er varen levert på annen måte, skal den stilles til selgerens rådighet for avhenting på det stedet varen ble mottatt. Er varen i disse tilfellene levert på et annet sted enn i forbrukerens hjem, kan det avtales at varen skal sendes eller leveres på en annen måte som ikke medfører urimelig ulempe for forbrukeren.
+6. Forbrukeren plikter ikke å motta eller innløse en vare før den returneres til selgeren, men kan i stedet be den som leverer varen, om å returnere varen til selgeren.
+7. Dersom forbrukeren har gitt melding til selgeren om at varen kan hentes etter reglene i bokstav e, og dette ikke skjer innen tre måneder fra meldingen er mottatt, tilfaller den forbrukeren vederlagsfritt.
 
 (3) Dersom forbrukeren bruker sin angrerett, faller alle tilknyttede avtaler bort uten kostnad for forbrukeren. Etter å ha mottatt melding om bruk av angrerett skal tjenesteyteren straks gi beskjed til en tredjepart som har inngått en tilknyttet avtale med forbrukeren.
 
@@ -718,7 +916,13 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 ### § 3-51. Tjenesteyterens rett til å heve avtalen. Reklamasjon
 
-(1) Tjenesteyteren kan på vilkår som nevnt i denne paragrafen heve en avtale ved vesentlig mislighold fra kundens side. Det samme gjelder dersomtjenesteyteren har gjort det klart for kunden at fremlegging av opplysninger eller nødvendig dokumentasjon er en forutsetning for å kunne vurdere om kunden skal gis et tilbud om avtale på angitte vilkår, og det senere påvises at kunden bevisst har tilbakeholdt eller forfalsket opplysninger eller nødvendig dokumentasjondet blir åpnet konkurs eller gjeldsforhandling etter [konkursloven](lov/1984-06-08-58) hos kundenkunden avgår ved døden uten at det innen rimelig frist foreligger eller etter varsel blir stilt betryggende sikkerhet for oppfyllelse fra en samskyldner eller kausjonistkunden har stilt pant som sikkerhet for pengekravet og vilkårene i [panteloven § 1-9](lov/1980-02-08-2/§1-9) eller [sjøloven § 44](lov/1994-06-24-39/§44) er oppfyltdet er klart at avtalen vil bli vesentlig misligholdt, samtidig som et krav om at det omgående stilles betryggende sikkerhet for oppfyllelse av avtalen, ikke etterkommes.
+(1) Tjenesteyteren kan på vilkår som nevnt i denne paragrafen heve en avtale ved vesentlig mislighold fra kundens side. Det samme gjelder dersom
+
+1. tjenesteyteren har gjort det klart for kunden at fremlegging av opplysninger eller nødvendig dokumentasjon er en forutsetning for å kunne vurdere om kunden skal gis et tilbud om avtale på angitte vilkår, og det senere påvises at kunden bevisst har tilbakeholdt eller forfalsket opplysninger eller nødvendig dokumentasjon
+2. det blir åpnet konkurs eller gjeldsforhandling etter [konkursloven](lov/1984-06-08-58) hos kunden
+3. kunden avgår ved døden uten at det innen rimelig frist foreligger eller etter varsel blir stilt betryggende sikkerhet for oppfyllelse fra en samskyldner eller kausjonist
+4. kunden har stilt pant som sikkerhet for pengekravet og vilkårene i [panteloven § 1-9](lov/1980-02-08-2/§1-9) eller [sjøloven § 44](lov/1994-06-24-39/§44) er oppfylt
+5. det er klart at avtalen vil bli vesentlig misligholdt, samtidig som et krav om at det omgående stilles betryggende sikkerhet for oppfyllelse av avtalen, ikke etterkommes.
 
 (2) Uten hensyn til avtalevilkårene kan tjenesteyteren heve en avtale når kunden overfor tjenesteyteren har handlet klart i strid med redelighet og god tro. Det samme gjelder andre tjenesteytere i samme konsern dersom dette er saklig begrunnet.
 
@@ -756,7 +960,13 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 (1) Kongen kan godkjenne klageorgan for behandling av tvister når organet er opprettet ved avtale mellom en eller flere tjenesteytere eller organisasjoner for tjenesteytere på den ene siden og en eller flere organisasjoner som representerer tjenesteyternes kunder, på den andre siden.
 
-(2) Kongen kan i forskrift gi regler om klageorganets virksomhet, herunder omhvem som kan bringe saker inn for klageorganetvilkår for behandling av saker hos klageorganetbehandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelserforholdet til annen lovgivning om behandling av tvister i klageorganopplysningsplikt overfor tjenesteyterens kunder.
+(2) Kongen kan i forskrift gi regler om klageorganets virksomhet, herunder om
+
+1. hvem som kan bringe saker inn for klageorganet
+2. vilkår for behandling av saker hos klageorganet
+3. behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser
+4. forholdet til annen lovgivning om behandling av tvister i klageorgan
+5. opplysningsplikt overfor tjenesteyterens kunder.
 
 ### § 3-55. Tilsyn
 
@@ -786,13 +996,21 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 ### § 3-57. Krav til finansmegleres uavhengighet mv.
 
-En finansmegler skal på betryggende måte ivareta partenes interesser i samsvar med god meglerskikk og ikke innrette seg eller opptre på en måte som er egnet til å skape tvil om stillingen som uavhengig mellomledd. Ved vurderingen av finansmeglerens uavhengighet skal det særlig ses hen til oppdragets art, partenes stilling og finansmeglerens interesser. Like med et foretaks interesser regnes interesser tilandre foretak i samme konsernansatte meglere og rådgivere, ledende ansatte og tillitsvalgte i foretaketnærstående til foretaket eller til en som er nevnt i bokstav a eller b.
+En finansmegler skal på betryggende måte ivareta partenes interesser i samsvar med god meglerskikk og ikke innrette seg eller opptre på en måte som er egnet til å skape tvil om stillingen som uavhengig mellomledd. Ved vurderingen av finansmeglerens uavhengighet skal det særlig ses hen til oppdragets art, partenes stilling og finansmeglerens interesser. Like med et foretaks interesser regnes interesser til
+
+1. andre foretak i samme konsern
+2. ansatte meglere og rådgivere, ledende ansatte og tillitsvalgte i foretaket
+3. nærstående til foretaket eller til en som er nevnt i bokstav a eller b.
 
 ### § 3-58. Særskilte plikter ved finansoppdrag
 
 (1) En finansagent kan ikke motta godtgjørelse fra andre enn sin oppdragsgiver. Andre oppdragsforetak kan motta vederlag eller annen økonomisk fordel fra tjenesteyteren bare dersom oppdragsforetaket har vurdert et flertall av de tilgjengelige finansielle tjenestene i markedet for den produktkategorien oppdraget gjelder. Oppdragsforetak som yter uavhengig rådgivning, kan for sin virksomhet ikke kreve vederlag fra andre enn sin oppdragsgiver og kan ikke påta seg et oppdrag dersom personlige eller økonomiske interesser kan komme i konflikt med oppdragsgiverens interesser eller særskilt fastsatte krav til oppdraget eller til tjenesten som formidles.
 
-(2) Et oppdragsforetak skal i tillegg til de plikter som gjelder for oppdragsforetaket som tjenesteyter etter denne loven, påse følgende:Det skal fremskaffes dokumentasjon som er nødvendig for at en avtale skal kunne komme i stand, og partene skal meddeles alle kjente opplysninger som må antas å ha betydning ved vurderingen av om avtalen skal inngås, herunder skal nødvendige opplysninger til bruk ved kredittvurdering og ved beregning av den effektive renten videreformidles til tjenesteyteren.Oppdragsgiveren skal frarådes å bruke en tjenesteyter og tjenesteyteren skal frarådes å inngå avtale med en kunde hvis det er tvilsomt om tjenesteyteren eller kunden vil være i stand til å oppfylle sine plikter etter finansavtalen.Oppdragsforetaket skal innenfor rammen av finansoppdraget sørge for at tjenesteyterens plikter overfor kunden blir oppfylt, så langt disse ikke er oppfylt av en tjenesteyter som er underlagt krav om meldeplikt eller særskilt tillatelse som nevnt i [§ 1-2](lov/2020-12-18-146/§1-2) sjette ledd.
+(2) Et oppdragsforetak skal i tillegg til de plikter som gjelder for oppdragsforetaket som tjenesteyter etter denne loven, påse følgende:
+
+1. Det skal fremskaffes dokumentasjon som er nødvendig for at en avtale skal kunne komme i stand, og partene skal meddeles alle kjente opplysninger som må antas å ha betydning ved vurderingen av om avtalen skal inngås, herunder skal nødvendige opplysninger til bruk ved kredittvurdering og ved beregning av den effektive renten videreformidles til tjenesteyteren.
+2. Oppdragsgiveren skal frarådes å bruke en tjenesteyter og tjenesteyteren skal frarådes å inngå avtale med en kunde hvis det er tvilsomt om tjenesteyteren eller kunden vil være i stand til å oppfylle sine plikter etter finansavtalen.
+3. Oppdragsforetaket skal innenfor rammen av finansoppdraget sørge for at tjenesteyterens plikter overfor kunden blir oppfylt, så langt disse ikke er oppfylt av en tjenesteyter som er underlagt krav om meldeplikt eller særskilt tillatelse som nevnt i [§ 1-2](lov/2020-12-18-146/§1-2) sjette ledd.
 
 (3) For oppdragsforetak som ikke er omfattet av reglene i låneformidlingsloven, gjelder reglene fastsatt i og i medhold av [låneformidlingsloven §§ 6-1](lov/2022-12-16-91/§6-1) til [6-3](lov/2022-12-16-91/§6-3) om forsikringsplikt mv. tilsvarende så langt de passer. For oppdragsforetakets klientmidler gjelder reglene fastsatt i og i medhold av [forsikringsformidlingsloven § 8-3](lov/2021-12-22-163/§8-3) tilsvarende så langt de passer.
 
@@ -832,7 +1050,13 @@ En finansmegler skal på betryggende måte ivareta partenes interesser i samsvar
 
 (1) Betaleren kan gi en betalingsmottaker fullmakt til å iverksette en serie direktebelastninger på betalerens konto (direktebelastningsfullmakt).
 
-(2) Fullmakten skal gis i et skriftlig dokument. Fullmakten skal klart og entydig angibetalingsmottakerenkontoen som kan belastesbeløpsgrensen for samlet belastningtidspunktene eller tidsperioden som beløpsgrensen gjelder forbetalerens samtykke til de betalingstransaksjonene som skal gjennomføres i samsvar med bokstav a til d.
+(2) Fullmakten skal gis i et skriftlig dokument. Fullmakten skal klart og entydig angi
+
+1. betalingsmottakeren
+2. kontoen som kan belastes
+3. beløpsgrensen for samlet belastning
+4. tidspunktene eller tidsperioden som beløpsgrensen gjelder for
+5. betalerens samtykke til de betalingstransaksjonene som skal gjennomføres i samsvar med bokstav a til d.
 
 (3) Betaleren skal varsle sin betalingstjenesteyter skriftlig om direktebelastningsfullmakt etter første og annet ledd. Betalerens betalingstjenesteyter skal før hver direktebelastning kontrollere at skriftlig melding fra betaleren om fullmakten er mottatt, og at kontoen belastes i samsvar med fullmakten.
 
@@ -842,7 +1066,13 @@ En finansmegler skal på betryggende måte ivareta partenes interesser i samsvar
 
 ### § 4-4. Fast betalingsoppdrag
 
-Et fast betalingsoppdrag skal klart og entydig angibetalingsmottakerenkontoen som kan belastesbeløpsgrensen for samlet belastningtidspunktene eller tidsperioden som beløpsgrensen gjelder forbetalerens samtykke til de betalingstransaksjoner som skal gjennomføres i samsvar med bokstav a til d.
+Et fast betalingsoppdrag skal klart og entydig angi
+
+1. betalingsmottakeren
+2. kontoen som kan belastes
+3. beløpsgrensen for samlet belastning
+4. tidspunktene eller tidsperioden som beløpsgrensen gjelder for
+5. betalerens samtykke til de betalingstransaksjoner som skal gjennomføres i samsvar med bokstav a til d.
 
 ### § 4-5. Mottak av betalingsoppdrag
 
@@ -876,7 +1106,11 @@ Et fast betalingsoppdrag skal klart og entydig angibetalingsmottakerenkontoen so
 
 ### § 4-8. Bekreftelse på dekning på betalerens betalingskonto
 
-(1) Kontotilbyderen skal etter henvendelse fra utstederen av et kortbasert betalingsinstrument umiddelbart opplyse om det er dekning for å gjennomføre en betalingstransaksjon som er knyttet til betalingsinstrumentet. Første punktum gjelder likevel bare dersombetaleren har gitt samtykke til at kontotilbyderen gir disse opplysningene,betaleren har iverksatt den kortbaserte betalingstransaksjonen for det aktuelle beløpet og har gitt samtykke til at utstederen av det kortbaserte betalingsinstrumentet kan be kontotilbyderen om disse opplysningene, ogbetalingskontoen er tilgjengelig på internett på tidspunktet for henvendelsen.
+(1) Kontotilbyderen skal etter henvendelse fra utstederen av et kortbasert betalingsinstrument umiddelbart opplyse om det er dekning for å gjennomføre en betalingstransaksjon som er knyttet til betalingsinstrumentet. Første punktum gjelder likevel bare dersom
+
+1. betaleren har gitt samtykke til at kontotilbyderen gir disse opplysningene,
+2. betaleren har iverksatt den kortbaserte betalingstransaksjonen for det aktuelle beløpet og har gitt samtykke til at utstederen av det kortbaserte betalingsinstrumentet kan be kontotilbyderen om disse opplysningene, og
+3. betalingskontoen er tilgjengelig på internett på tidspunktet for henvendelsen.
 
 (2) Kontotilbyderens svar på om transaksjonen har dekning i kontoen, skal være et bekreftende «ja» eller avkreftende «nei». På forespørsel fra betaleren skal kontotilbyderen gi betaleren opplysninger om identiteten til utstederen, og svaret som ble gitt av kontotilbyderen.
 
@@ -890,13 +1124,23 @@ Dersom et betalingsinstrument benyttes for å gi samtykke til gjennomføring av 
 
 ### § 4-10. Samtykke til reservasjon av beløp på betalerens konto
 
-(1) Betalerens betalingstjenesteyter kan reservere betalingsmidler på betalerens konto når følgende vilkår er oppfylt:betalingstransaksjonen iverksettes av eller gjennom betalingsmottakeren i forbindelse med en kortbasert betalingstransaksjonbetaleren har gitt samtykke til betalingstransaksjonen, jf. [§ 4-2](lov/2020-12-18-146/§4-2)det nøyaktige beløpet som skal betales, var ikke kjent på det tidspunktet betaleren samtykket til betalingstransaksjonen, ogbetaleren har gitt særskilt samtykke til at et nøyaktig beløp kan reserveres på kontoen.
+(1) Betalerens betalingstjenesteyter kan reservere betalingsmidler på betalerens konto når følgende vilkår er oppfylt:
+
+1. betalingstransaksjonen iverksettes av eller gjennom betalingsmottakeren i forbindelse med en kortbasert betalingstransaksjon
+2. betaleren har gitt samtykke til betalingstransaksjonen, jf. [§ 4-2](lov/2020-12-18-146/§4-2)
+3. det nøyaktige beløpet som skal betales, var ikke kjent på det tidspunktet betaleren samtykket til betalingstransaksjonen, og
+4. betaleren har gitt særskilt samtykke til at et nøyaktig beløp kan reserveres på kontoen.
 
 (2) De reserverte midlene på betalerens konto skal frigis straks betalerens betalingstjenesteyter mottar opplysninger om det nøyaktige transaksjonsbeløpet, og senest umiddelbart etter at betalingsoppdraget er mottatt.
 
 ### § 4-11. Overføringstid for betalingstjenesteyteren
 
-(1) Hvis ikke noe annet følger av annet til fjerde ledd, skal betalerens betalingstjenesteyter etter at betalingsoppdraget er mottatt etter [§ 4-5](lov/2020-12-18-146/§4-5), sørge for at beløpet godskrives betalingsmottakerens betalingstjenesteyter senest innen utløpet av følgende frister:samme virkedag, ved innenlandsk betalingstransaksjon i norske kronerførste påfølgende virkedag, ved betalingstransaksjon i euro som gjennomføres innenfor EØS uten valutaomregningførste påfølgende virkedag, ved grensekryssende betalingstransaksjon i euro som gjennomføres innenfor EØS, når det i Norge er foretatt høyst én valutaomregning fra norske kroner til eurofjerde påfølgende virkedag, ved andre betalingstransaksjoner til en betalingsmottaker i EØS.
+(1) Hvis ikke noe annet følger av annet til fjerde ledd, skal betalerens betalingstjenesteyter etter at betalingsoppdraget er mottatt etter [§ 4-5](lov/2020-12-18-146/§4-5), sørge for at beløpet godskrives betalingsmottakerens betalingstjenesteyter senest innen utløpet av følgende frister:
+
+1. samme virkedag, ved innenlandsk betalingstransaksjon i norske kroner
+2. første påfølgende virkedag, ved betalingstransaksjon i euro som gjennomføres innenfor EØS uten valutaomregning
+3. første påfølgende virkedag, ved grensekryssende betalingstransaksjon i euro som gjennomføres innenfor EØS, når det i Norge er foretatt høyst én valutaomregning fra norske kroner til euro
+4. fjerde påfølgende virkedag, ved andre betalingstransaksjoner til en betalingsmottaker i EØS.
 
 (2) Fristene i første ledd kan forlenges med én virkedag når betalingstransaksjonen iverksettes ved bruk av et papirbasert betalingsinstrument.
 
@@ -926,9 +1170,17 @@ Dersom et betalingsinstrument benyttes for å gi samtykke til gjennomføring av 
 
 ### § 4-14. Informasjon ved bruk av betalingsfullmektig
 
-(1) En betalingsfullmektig skal umiddelbart etter at betalingsoppdraget er iverksatt, stille følgende opplysninger til rådighet for betaleren og, når det er relevant, for betalingsmottakeren:en bekreftelse på at betalingsoppdraget er iverksatt korrekt hos kontotilbyderenbeløpet betalingstransaksjonen gjelderen referanse som gjør det mulig å identifisere betalingstransaksjonen for betaleren og for betalingsmottakerennår det er relevant, størrelsen på eventuelle gebyrer som skal betales til betalingsfullmektigen for transaksjonen, herunder med en spesifikasjon av enkeltelementene i relevante tilfeller.
+(1) En betalingsfullmektig skal umiddelbart etter at betalingsoppdraget er iverksatt, stille følgende opplysninger til rådighet for betaleren og, når det er relevant, for betalingsmottakeren:
 
-(2) En betalingsfullmektig skal umiddelbart etter at betalingsoppdraget er iverksatt, i tillegg stille til rådighet for betalingsmottakerenalle opplysninger som ble overført sammen med betalingstransaksjonenen referanse som gjør det mulig for betalingsmottakeren å identifisere betaleren.
+1. en bekreftelse på at betalingsoppdraget er iverksatt korrekt hos kontotilbyderen
+2. beløpet betalingstransaksjonen gjelder
+3. en referanse som gjør det mulig å identifisere betalingstransaksjonen for betaleren og for betalingsmottakeren
+4. når det er relevant, størrelsen på eventuelle gebyrer som skal betales til betalingsfullmektigen for transaksjonen, herunder med en spesifikasjon av enkeltelementene i relevante tilfeller.
+
+(2) En betalingsfullmektig skal umiddelbart etter at betalingsoppdraget er iverksatt, i tillegg stille til rådighet for betalingsmottakeren
+
+1. alle opplysninger som ble overført sammen med betalingstransaksjonen
+2. en referanse som gjør det mulig for betalingsmottakeren å identifisere betaleren.
 
 ### § 4-15. Informasjon ved gjennomføring av betalingsoppdrag
 
@@ -964,13 +1216,33 @@ Opplysningsfullmektigen skal i forbindelse med kontoinformasjonstjenester bare h
 
 ### § 4-19. Kontoinformasjon
 
-(1) Kontoavtalen skal angi at kunden i et skriftlig dokument jevnlig og minst hver måned har krav på kontoinformasjon som minst skal omfatte opplysninger omperioden kontoinformasjonen dekkerdato og saldo ved forrige kontoinformasjonoppdatert saldotransaksjonsopplysninger for hver gjennomførte betalingstransaksjon, jf. fjerde ledd.
+(1) Kontoavtalen skal angi at kunden i et skriftlig dokument jevnlig og minst hver måned har krav på kontoinformasjon som minst skal omfatte opplysninger om
 
-(2) Dersom det er knyttet kreditt til kontoen eller avtalt vilkår om kompensasjon ved overtrekk, skal kontoinformasjonen dessuten opplyse ombenyttet nominell rentekredittkostnader som ikke er omfattet av første ledd, jf. fjerde ledddet minimumsbeløpet kunden eventuelt er forpliktet til å betale.
+1. perioden kontoinformasjonen dekker
+2. dato og saldo ved forrige kontoinformasjon
+3. oppdatert saldo
+4. transaksjonsopplysninger for hver gjennomførte betalingstransaksjon, jf. fjerde ledd.
 
-(3) Når kunden er forbruker, skal følgende kontoinformasjon stilles til kundens rådighet i et skriftlig dokument minst en gang hvert år i tilknytning til en betalingskonto:alle påløpte gebyrer og rentesatser knyttet til kontoavtalen, jf. [§ 4-20](lov/2020-12-18-146/§4-20)rente- og gebyrsatser for alternative typer kontoer som betalingstjenesteyteren tilbyr, jf. [§ 4-20](lov/2020-12-18-146/§4-20)reglene som gjelder for innskuddsgaranti.
+(2) Dersom det er knyttet kreditt til kontoen eller avtalt vilkår om kompensasjon ved overtrekk, skal kontoinformasjonen dessuten opplyse om
 
-(4) Transaksjonsopplysninger for gjennomførte betalingstransaksjoner skal omfatteen referanse som identifiserer betalingstransaksjonenrelevant informasjon om betalingsmottakeren eller betaleren og eventuelle ytterligere opplysninger som fulgte transaksjonenbeløpet i den valutaen som ble benyttet ved belastning eller godskriving av konto, som er angitt i betalingsoppdraget, eller som er stilt til kundens rådigheteventuelle gebyrer eller renter som kunden skal betale, og en spesifikasjon av disse når det er relevanteventuell vekslingskurs som er benyttet av betalingstjenesteyteren, og det overførte beløpet etter valutaomregningenbelastnings- eller godskrivingsdag, jf. [§ 4-12](lov/2020-12-18-146/§4-12), eller datoen da betalingsoppdraget ble mottatt.
+1. benyttet nominell rente
+2. kredittkostnader som ikke er omfattet av første ledd, jf. fjerde ledd
+3. det minimumsbeløpet kunden eventuelt er forpliktet til å betale.
+
+(3) Når kunden er forbruker, skal følgende kontoinformasjon stilles til kundens rådighet i et skriftlig dokument minst en gang hvert år i tilknytning til en betalingskonto:
+
+1. alle påløpte gebyrer og rentesatser knyttet til kontoavtalen, jf. [§ 4-20](lov/2020-12-18-146/§4-20)
+2. rente- og gebyrsatser for alternative typer kontoer som betalingstjenesteyteren tilbyr, jf. [§ 4-20](lov/2020-12-18-146/§4-20)
+3. reglene som gjelder for innskuddsgaranti.
+
+(4) Transaksjonsopplysninger for gjennomførte betalingstransaksjoner skal omfatte
+
+1. en referanse som identifiserer betalingstransaksjonen
+2. relevant informasjon om betalingsmottakeren eller betaleren og eventuelle ytterligere opplysninger som fulgte transaksjonen
+3. beløpet i den valutaen som ble benyttet ved belastning eller godskriving av konto, som er angitt i betalingsoppdraget, eller som er stilt til kundens rådighet
+4. eventuelle gebyrer eller renter som kunden skal betale, og en spesifikasjon av disse når det er relevant
+5. eventuell vekslingskurs som er benyttet av betalingstjenesteyteren, og det overførte beløpet etter valutaomregningen
+6. belastnings- eller godskrivingsdag, jf. [§ 4-12](lov/2020-12-18-146/§4-12), eller datoen da betalingsoppdraget ble mottatt.
 
 (5) Kongen kan i forskrift gi nærmere regler som utfyller eller begrenser opplysningsplikten etter denne paragrafen, og kan gi regler om hvordan opplysninger skal utformes.
 
@@ -978,7 +1250,14 @@ Opplysningsfullmektigen skal i forbindelse med kontoinformasjonstjenester bare h
 
 (1) Når kunden er forbruker, skal betalingstjenesteyteren minst en gang i året gi kunden en oversikt over alle påløpte gebyrer, og hvis det er relevant, rentesatser for innestående innskudd og skyldig brukskontokreditt knyttet til en betalingskonto, jf. [§ 4-19](lov/2020-12-18-146/§4-19) tredje ledd bokstav a.
 
-(2) I oversikten etter første ledd skal følgende opplysninger spesifiseres:gebyret som er påløpt for hver enkelt tjeneste, og antallet ganger tjenesten er brukt i periodenhvis tjenester er satt sammen i en pakke, gebyret som er påløpt for pakken som helhet, og antall ganger pakkegebyret er krevd i perioden og eventuelle ytterligere gebyrer for tjenester utover det antallet som dekkes av pakkegebyretdet samlede gebyrbeløpet som er påløpt i perioden for hver enkelt tjeneste, for hver pakke av tjenester og for tjenester utover det antallet som dekkes av pakkegebyreteventuell rentesats for brukskontokreditt som gjelder for betalingskontoen, og det samlede rentebeløpet som er belastet for brukskontokreditt i periodeneventuell nominell rentesats som gjelder for innestående innskudd på betalingskontoen, og det samlede rentebeløpet opptjent i periodensamlet gebyrbeløp for alle tjenester som er belastet betalingskontoen i perioden.
+(2) I oversikten etter første ledd skal følgende opplysninger spesifiseres:
+
+1. gebyret som er påløpt for hver enkelt tjeneste, og antallet ganger tjenesten er brukt i perioden
+2. hvis tjenester er satt sammen i en pakke, gebyret som er påløpt for pakken som helhet, og antall ganger pakkegebyret er krevd i perioden og eventuelle ytterligere gebyrer for tjenester utover det antallet som dekkes av pakkegebyret
+3. det samlede gebyrbeløpet som er påløpt i perioden for hver enkelt tjeneste, for hver pakke av tjenester og for tjenester utover det antallet som dekkes av pakkegebyret
+4. eventuell rentesats for brukskontokreditt som gjelder for betalingskontoen, og det samlede rentebeløpet som er belastet for brukskontokreditt i perioden
+5. eventuell nominell rentesats som gjelder for innestående innskudd på betalingskontoen, og det samlede rentebeløpet opptjent i perioden
+6. samlet gebyrbeløp for alle tjenester som er belastet betalingskontoen i perioden.
 
 (3) Finanstilsynet kan fastsette en teknisk standard for presentasjonsformatet som betalingstjenesteyteren skal bruke.
 
@@ -988,7 +1267,12 @@ Opplysningsfullmektigen skal i forbindelse med kontoinformasjonstjenester bare h
 
 (2) Dersom det kreves løpende gebyr, kan betalingstjenesteyteren kreve gebyr bare for perioden frem til oppsigelsestidspunktet.
 
-(3) En betalingstjenesteyter kan ikke kreve gebyr eller annet vederlag forå utlevere utkast til kontoavtale, jf. [§ 3-25](lov/2020-12-18-146/§3-25) bokstav a og [§ 3-9](lov/2020-12-18-146/§3-9) annet ledd bokstav aoppsigelse av en kontoavtale som er inngått på ubestemt tid eller for en bestemt periode på mer enn seks måneder hvis kunden sier opp avtalen etter utløpet av seks måneder, bortsett fra ved avtale om bindingstid som nevnt i [§ 4-44](lov/2020-12-18-146/§4-44) annet leddå ta imot varsel fra kunden i samsvar med [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd. Direkte kostnader til utskifting av betalingsinstrumentet kan likevel kreves dekketå varsle om at en tjeneste eller et betalingsoppdrag nektes gjennomført, med mindre noe annet er avtalt, ikke skyldes forhold på tjenesteyterens side og er objektivt begrunnet, jf. [§ 4-6](lov/2020-12-18-146/§4-6).
+(3) En betalingstjenesteyter kan ikke kreve gebyr eller annet vederlag for
+
+1. å utlevere utkast til kontoavtale, jf. [§ 3-25](lov/2020-12-18-146/§3-25) bokstav a og [§ 3-9](lov/2020-12-18-146/§3-9) annet ledd bokstav a
+2. oppsigelse av en kontoavtale som er inngått på ubestemt tid eller for en bestemt periode på mer enn seks måneder hvis kunden sier opp avtalen etter utløpet av seks måneder, bortsett fra ved avtale om bindingstid som nevnt i [§ 4-44](lov/2020-12-18-146/§4-44) annet ledd
+3. å ta imot varsel fra kunden i samsvar med [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd. Direkte kostnader til utskifting av betalingsinstrumentet kan likevel kreves dekket
+4. å varsle om at en tjeneste eller et betalingsoppdrag nektes gjennomført, med mindre noe annet er avtalt, ikke skyldes forhold på tjenesteyterens side og er objektivt begrunnet, jf. [§ 4-6](lov/2020-12-18-146/§4-6).
 
 ### § 4-22. Overtrekk
 
@@ -1036,7 +1320,12 @@ Opplysningsfullmektigen skal i forbindelse med kontoinformasjonstjenester bare h
 
 ### § 4-27. Betalerens rett til tilbakebetaling ved direktebelastninger
 
-(1) Betalerens betalingstjenesteyter skal tilbakebetale en betalingstransaksjons fulle beløp og rentetap når betalingstransaksjonen er iverksatt av eller via betalingsmottakeren og betaleren kan påvise atbetaleren ikke har godkjent det eksakte beløpet for betalingstransaksjonen, jf. [§ 4-2](lov/2020-12-18-146/§4-2), ogbeløpet oversteg det beløpet betaleren med rimelighet kunne ha forventet ut fra sitt tidligere bruksmønster, vilkårene i kontoavtalen og omstendighetene for øvrig.Endringer i valutakursen kan ikke påberopes etter bokstav b dersom kursen ble beregnet på grunnlag av en avtalt referansevekslingskurs, jf. [§ 3-15](lov/2020-12-18-146/§3-15).
+(1) Betalerens betalingstjenesteyter skal tilbakebetale en betalingstransaksjons fulle beløp og rentetap når betalingstransaksjonen er iverksatt av eller via betalingsmottakeren og betaleren kan påvise at
+
+1. betaleren ikke har godkjent det eksakte beløpet for betalingstransaksjonen, jf. [§ 4-2](lov/2020-12-18-146/§4-2), og
+2. beløpet oversteg det beløpet betaleren med rimelighet kunne ha forventet ut fra sitt tidligere bruksmønster, vilkårene i kontoavtalen og omstendighetene for øvrig.
+
+Endringer i valutakursen kan ikke påberopes etter bokstav b dersom kursen ble beregnet på grunnlag av en avtalt referansevekslingskurs, jf. [§ 3-15](lov/2020-12-18-146/§3-15).
 
 (2) Med mindre det er avtalt vilkår som nevnt i tredje ledd, kan betaleren kreve tilbakebetalt en tidligere godkjent betalingstransaksjon som er iverksatt av betalingsmottakeren. Tilbakebetalingskravet må gjøres gjeldende senest åtte uker etter belastningsdagen overfor betalerens betalingstjenesteyter. Betalerens betalingstjenesteyter skal tilbakebetale det fulle beløpet og rentetapet innen ti dager etter at kravet ble mottatt.
 
@@ -1070,7 +1359,11 @@ Opplysningsfullmektigen skal i forbindelse med kontoinformasjonstjenester bare h
 
 (4) Kunden svarer for hele tapet dersom tapet skyldes at kunden forsettlig har misligholdt sine plikter slik at kunden måtte forstå at misligholdet kunne innebære en nærliggende fare for at betalingsinstrumentet kunne bli misbrukt.
 
-(5) Kunden svarer ikke for tap som skyldes betalingstjenesteyteren selv, noen som opptrer på betalingstjenesteyterens vegne, eller som betalingstjenesteyteren selv representerer. Med mindre kunden har opptrådt svikaktig, svarer kunden heller ikke for tap i følgende tilfeller:når tap oppstår etter at kunden har varslet i samsvar med [§ 4-24](lov/2020-12-18-146/§4-24) første leddnår plikten til å tilrettelegge for varsling etter [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd er misligholdtnår betalerens betalingstjenesteyter ikke har krevd sterk kundeautentisering.
+(5) Kunden svarer ikke for tap som skyldes betalingstjenesteyteren selv, noen som opptrer på betalingstjenesteyterens vegne, eller som betalingstjenesteyteren selv representerer. Med mindre kunden har opptrådt svikaktig, svarer kunden heller ikke for tap i følgende tilfeller:
+
+1. når tap oppstår etter at kunden har varslet i samsvar med [§ 4-24](lov/2020-12-18-146/§4-24) første ledd
+2. når plikten til å tilrettelegge for varsling etter [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd er misligholdt
+3. når betalerens betalingstjenesteyter ikke har krevd sterk kundeautentisering.
 
 ### § 4-31. Lemping av kundens ansvar etter § 4-30
 
@@ -1128,7 +1421,13 @@ Den mottakende betalingstjenesteyteren skal anmode den overførende betalingstje
 
 ### § 4-37. Den overførende betalingstjenesteyterens oppgaver
 
-(1) På grunnlag av anmodning fra den mottakende betalingstjenesteyteren og forbrukerens fullmakt skal den overførende betalingstjenesteyterensende den mottakende betalingstjenesteyteren en liste over aktive faste betalingsoppdrag og tilgjengelige opplysninger om direktebelastningsfullmakter som skal flyttessende den mottakende betalingstjenesteyteren tilgjengelige opplysninger om innbetalinger og direktebelastninger som har vært utført regelmessig de siste 13 månedenekansellere faste betalingsoppdrag med virkning fra datoen forbrukeren har angitt i fullmaktenoverføre eventuell positiv saldo til forbrukerens betalingskonto hos den mottakende betalingstjenesteyteren på datoen forbrukeren har angitt i fullmaktenavslutte betalingskontoen på datoen forbrukeren har angitt i fullmakten, forutsatt at oppgavene etter bokstav a til d er gjennomført og ikke noe annet følger av tredje ledd.
+(1) På grunnlag av anmodning fra den mottakende betalingstjenesteyteren og forbrukerens fullmakt skal den overførende betalingstjenesteyteren
+
+1. sende den mottakende betalingstjenesteyteren en liste over aktive faste betalingsoppdrag og tilgjengelige opplysninger om direktebelastningsfullmakter som skal flyttes
+2. sende den mottakende betalingstjenesteyteren tilgjengelige opplysninger om innbetalinger og direktebelastninger som har vært utført regelmessig de siste 13 månedene
+3. kansellere faste betalingsoppdrag med virkning fra datoen forbrukeren har angitt i fullmakten
+4. overføre eventuell positiv saldo til forbrukerens betalingskonto hos den mottakende betalingstjenesteyteren på datoen forbrukeren har angitt i fullmakten
+5. avslutte betalingskontoen på datoen forbrukeren har angitt i fullmakten, forutsatt at oppgavene etter bokstav a til d er gjennomført og ikke noe annet følger av tredje ledd.
 
 (2) Opplysninger som nevnt i bokstav a og b skal sendes innen fem virkedager. Opplysningene skal også sendes til forbrukeren dersom forbrukeren har bedt om det.
 
@@ -1140,7 +1439,13 @@ Den mottakende betalingstjenesteyteren skal anmode den overførende betalingstje
 
 ### § 4-38. Den mottakende betalingstjenesteyterens oppgaver
 
-(1) Den mottakende betalingstjenesteyteren skalopprette de faste betalingsoppdragene som forbrukeren har anmodet om, og utføre dem med virkning fra datoen forbrukeren har angitt i fullmaktengjøre nødvendige forberedelser for å kunne akseptere direktebelastninger og akseptere dem med virkning fra datoen forbrukeren har angitt i fullmaktenopplyse forbrukeren om forbrukerens rettigheter etter forordning [(EU) nr. 260/2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro artikkel 5](eu/32012r0260/a5) nr. 3 bokstav d, dersom det er relevantopplyse de betalerne som ifølge fullmakten foretar regelmessige innbetalinger, om forbrukerens betalingskonto hos den mottakende betalingstjenesteyterenopplyse de betalingsmottakerne som er angitt i fullmakten som foretar direktebelastninger, om forbrukerens betalingskonto hos den mottakende betalingstjenesteyteren og fra hvilken dato det skal foretas direktebelastninger fra denne betalingskontoen.
+(1) Den mottakende betalingstjenesteyteren skal
+
+1. opprette de faste betalingsoppdragene som forbrukeren har anmodet om, og utføre dem med virkning fra datoen forbrukeren har angitt i fullmakten
+2. gjøre nødvendige forberedelser for å kunne akseptere direktebelastninger og akseptere dem med virkning fra datoen forbrukeren har angitt i fullmakten
+3. opplyse forbrukeren om forbrukerens rettigheter etter forordning [(EU) nr. 260/2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro artikkel 5](eu/32012r0260/a5) nr. 3 bokstav d, dersom det er relevant
+4. opplyse de betalerne som ifølge fullmakten foretar regelmessige innbetalinger, om forbrukerens betalingskonto hos den mottakende betalingstjenesteyteren
+5. opplyse de betalingsmottakerne som er angitt i fullmakten som foretar direktebelastninger, om forbrukerens betalingskonto hos den mottakende betalingstjenesteyteren og fra hvilken dato det skal foretas direktebelastninger fra denne betalingskontoen.
 
 (2) Oppgavene etter første ledd gjelder bare i den utstrekning det følger av forbrukerens fullmakt og opplysningene fra den overførende betalingstjenesteyteren gjør det mulig.
 
@@ -1152,7 +1457,11 @@ Den mottakende betalingstjenesteyteren skal anmode den overførende betalingstje
 
 ### § 4-39. Kontobytte mellom EØS-stater
 
-(1) Hvis en forbruker meddeler sin betalingstjenesteyter et ønske om å åpne betalingskonto hos en betalingstjenesteyter som er etablert i en annen EØS-stat, skal den overførende betalingstjenesteyteren tilby forbrukerenen liste med tilsvarende opplysninger som er omfattet av [§ 4-37](lov/2020-12-18-146/§4-37) første ledd bokstav a og bå overføre eventuell positiv saldo til forbrukerens betalingskonto hos den nye betalingstjenesteyteren, forutsatt at forbrukeren har oppgitt fullstendige opplysninger som gjør det mulig å identifisere den nye betalingstjenesteyteren og forbrukerens betalingskontoå avslutte betalingskontoen.
+(1) Hvis en forbruker meddeler sin betalingstjenesteyter et ønske om å åpne betalingskonto hos en betalingstjenesteyter som er etablert i en annen EØS-stat, skal den overførende betalingstjenesteyteren tilby forbrukeren
+
+1. en liste med tilsvarende opplysninger som er omfattet av [§ 4-37](lov/2020-12-18-146/§4-37) første ledd bokstav a og b
+2. å overføre eventuell positiv saldo til forbrukerens betalingskonto hos den nye betalingstjenesteyteren, forutsatt at forbrukeren har oppgitt fullstendige opplysninger som gjør det mulig å identifisere den nye betalingstjenesteyteren og forbrukerens betalingskonto
+3. å avslutte betalingskontoen.
 
 (2) Oppgavene etter første ledd skal gjennomføres på datoen forbrukeren har angitt, hvis ikke forbrukerens utestående forpliktelser er til hinder for dette. Datoen forbrukeren fastsetter, skal være minst seks virkedager etter at den overførende betalingstjenesteyteren har mottatt anmodningen fra forbrukeren, med mindre partene har avtalt noe annet. Den overførende betalingstjenesteyteren skal straks gi forbrukeren melding dersom utestående forpliktelser er til hinder for at betalingskontoen avsluttes.
 
@@ -1172,13 +1481,22 @@ Hvis betalingstjenesteyteren krever gebyr for tjenester som nevnt i [§§ 4-34](
 
 (2) Tjenesteyteren kan kreve gebyr for oppsigelse av kontoavtalen bare dersom det er mindre enn seks måneder siden avtalen trådte i kraft.
 
-(3) Når en konto avsluttes som følge av kundens oppsigelse av kontoavtalen, har kunden rett tilå få utbetalt saldo i sin favør med påløpte renter på kontoen eller et forhåndsbetalt betalingsinstrumentå få tilbakebetalt en forholdsmessig del av forhåndsbetalte kostnaderå få utlevert eller på annen egnet måte få tilgang til opplysninger om transaksjoner fra tiden før kontoavtalen ble avsluttet.
+(3) Når en konto avsluttes som følge av kundens oppsigelse av kontoavtalen, har kunden rett til
+
+1. å få utbetalt saldo i sin favør med påløpte renter på kontoen eller et forhåndsbetalt betalingsinstrument
+2. å få tilbakebetalt en forholdsmessig del av forhåndsbetalte kostnader
+3. å få utlevert eller på annen egnet måte få tilgang til opplysninger om transaksjoner fra tiden før kontoavtalen ble avsluttet.
 
 (4) Reglene i første til tredje ledd begrenser ikke kundens rett til å si opp avtalen straks og vederlagsfritt innen iverksettingstidspunktet for nye avtalevilkår etter [§ 3-14](lov/2020-12-18-146/§3-14) annet ledd annet punktum.
 
 ### § 4-43. Betalingstjenesteyterens oppsigelse
 
-(1) Betalingstjenesteyteren kan si opp en kontoavtale som er inngått på ubestemt tid, eller sperre kundens tilgang til tjenestene, dersom dette følger av avtalen og det foreligger saklig grunn. Som saklig grunn for oppsigelse eller sperring regnes i alle tilfellerat det er gått mer enn 24 måneder siden siste transaksjon når godskriving av renter ikke medregnesat kunden med hensikt har brukt kontoen til ulovlige formålat kunden har gitt uriktige opplysninger for å få rett til betalingskonto eller betalingstjenester som nevnt i [§ 4-1](lov/2020-12-18-146/§4-1) dersom korrekte opplysninger ville ha ført til avslag fra betalingstjenesteyterenat kunden ikke lenger er lovlig bosatt innenfor EØS, jf. [§ 4-1](lov/2020-12-18-146/§4-1) tredje ledd første punktum.
+(1) Betalingstjenesteyteren kan si opp en kontoavtale som er inngått på ubestemt tid, eller sperre kundens tilgang til tjenestene, dersom dette følger av avtalen og det foreligger saklig grunn. Som saklig grunn for oppsigelse eller sperring regnes i alle tilfeller
+
+1. at det er gått mer enn 24 måneder siden siste transaksjon når godskriving av renter ikke medregnes
+2. at kunden med hensikt har brukt kontoen til ulovlige formål
+3. at kunden har gitt uriktige opplysninger for å få rett til betalingskonto eller betalingstjenester som nevnt i [§ 4-1](lov/2020-12-18-146/§4-1) dersom korrekte opplysninger ville ha ført til avslag fra betalingstjenesteyteren
+4. at kunden ikke lenger er lovlig bosatt innenfor EØS, jf. [§ 4-1](lov/2020-12-18-146/§4-1) tredje ledd første punktum.
 
 (2) Betalingstjenesteyteren kan avslutte kontoavtalen på grunnlag av oppsigelse etter første ledd tidligst to måneder etter at kunden i et skriftlig dokument er blitt varslet om oppsigelsen og om begrunnelsen for oppsigelsen. Betalingstjenesteyteren kan likevel avslutte kontoavtalen straks hvis grunnlaget for oppsigelsen er forhold som nevnt i første ledd bokstav b eller c. Kunden skal i så fall straks varsles om oppsigelsen og om begrunnelsen for oppsigelsen. I varsel etter første og tredje punktum skal det gis opplysninger om klagebehandling etter [§ 3-53](lov/2020-12-18-146/§3-53) tredje ledd tredje og fjerde punktum.
 
@@ -1228,13 +1546,28 @@ Ved uttak av kontanter i kontantautomat skal kunden få opplysninger om eventuel
 
 ### § 4-50. Særskilt om elektroniske småpenger
 
-(1) Med elektroniske småpenger menes et betalingsinstrument der det følger av avtalevilkårene at betalingsinstrumentet kun gjelderhøyst 500 kroner for enkeltstående betalingstransaksjonerhøyst 2 000 kroner som fastsatt beløpsgrense, ellerhøyst 2 000 kroner som den til enhver tid høyeste tillatte lagringsverdien.
+(1) Med elektroniske småpenger menes et betalingsinstrument der det følger av avtalevilkårene at betalingsinstrumentet kun gjelder
+
+1. høyst 500 kroner for enkeltstående betalingstransaksjoner
+2. høyst 2 000 kroner som fastsatt beløpsgrense, eller
+3. høyst 2 000 kroner som den til enhver tid høyeste tillatte lagringsverdien.
 
 (2) For forhåndsbetalte betalingsinstrumenter (kontantkort) kan beløpsgrensene i første ledd gå ut på et høyere beløp, men ikke over 4 000 kroner for noen av alternativene.
 
-(3) Følgende regler gjelder ikke for elektroniske småpenger som kan brukes anonymt av kunden:reglene om avtaleinngåelsen i [§ 3-9](lov/2020-12-18-146/§3-9) første til tredje leddreglene om krav til avtalens innhold i [§ 3-12](lov/2020-12-18-146/§3-12) første leddreglene om bevis på autentisering eller gjennomføring av betalingstransaksjon i [§ 3-7](lov/2020-12-18-146/§3-7)reglene om ansvar for ikke godkjente betalingstransaksjoner i [§ 4-32](lov/2020-12-18-146/§4-32) og reglene om ansvar ved misbruk av betalingsinstrument i [§ 4-30](lov/2020-12-18-146/§4-30) dersom betalerens betalingstjenesteyter ikke har krevd sterk kundeautentisering etter [§ 4-30](lov/2020-12-18-146/§4-30) femte ledd bokstav c.
+(3) Følgende regler gjelder ikke for elektroniske småpenger som kan brukes anonymt av kunden:
 
-(4) For elektroniske småpenger kan det avtaleså fravike reglene i [§ 3-14](lov/2020-12-18-146/§3-14) om endringer i kontoavtalen ved passivt samtykkeå fravike reglene i [§ 4-6](lov/2020-12-18-146/§4-6) om varsling om avvisning av betalingsoppdrag, hvis avvisningen fremgår tydelig av sammenhengenat betalingsoppdrag ikke kan kanselleres etter at det er godkjent, eller etter at betaleren har gitt samtykke til gjennomføring av betalingstransaksjonen til betalingsmottakeren, jf. [§ 4-7](lov/2020-12-18-146/§4-7)andre overføringstider enn dem som er angitt i [§ 4-11](lov/2020-12-18-146/§4-11) første ledd bokstav b til d eller i annet og tredje leddat kundens varslingsplikt etter [§ 4-24](lov/2020-12-18-146/§4-24) første ledd og betalingstjenesteyterens dokumentasjonsplikt etter [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd tredje punktum ikke gjelder hvis det er umulig å sperre betalingsinstrumentet for bruk.
+1. reglene om avtaleinngåelsen i [§ 3-9](lov/2020-12-18-146/§3-9) første til tredje ledd
+2. reglene om krav til avtalens innhold i [§ 3-12](lov/2020-12-18-146/§3-12) første ledd
+3. reglene om bevis på autentisering eller gjennomføring av betalingstransaksjon i [§ 3-7](lov/2020-12-18-146/§3-7)
+4. reglene om ansvar for ikke godkjente betalingstransaksjoner i [§ 4-32](lov/2020-12-18-146/§4-32) og reglene om ansvar ved misbruk av betalingsinstrument i [§ 4-30](lov/2020-12-18-146/§4-30) dersom betalerens betalingstjenesteyter ikke har krevd sterk kundeautentisering etter [§ 4-30](lov/2020-12-18-146/§4-30) femte ledd bokstav c.
+
+(4) For elektroniske småpenger kan det avtales
+
+1. å fravike reglene i [§ 3-14](lov/2020-12-18-146/§3-14) om endringer i kontoavtalen ved passivt samtykke
+2. å fravike reglene i [§ 4-6](lov/2020-12-18-146/§4-6) om varsling om avvisning av betalingsoppdrag, hvis avvisningen fremgår tydelig av sammenhengen
+3. at betalingsoppdrag ikke kan kanselleres etter at det er godkjent, eller etter at betaleren har gitt samtykke til gjennomføring av betalingstransaksjonen til betalingsmottakeren, jf. [§ 4-7](lov/2020-12-18-146/§4-7)
+4. andre overføringstider enn dem som er angitt i [§ 4-11](lov/2020-12-18-146/§4-11) første ledd bokstav b til d eller i annet og tredje ledd
+5. at kundens varslingsplikt etter [§ 4-24](lov/2020-12-18-146/§4-24) første ledd og betalingstjenesteyterens dokumentasjonsplikt etter [§ 4-23](lov/2020-12-18-146/§4-23) annet ledd tredje punktum ikke gjelder hvis det er umulig å sperre betalingsinstrumentet for bruk.
 
 (5) For elektroniske småpenger kan det avtales å fravike reglene i [§ 4-15](lov/2020-12-18-146/§4-15) om informasjon ved gjennomføring av betalingstransaksjoner. Betalingstjenesteyteren skal i så fall i stedet gi kunden tilgang til opplysninger som identifiserer betalingstransaksjonen, det overførte beløpet og gebyrene og eventuelt det totale beløpet og de totale gebyrene ved flere transaksjoner av samme type til samme betalingsmottaker. Opplysningsplikten etter annet punktum gjelder ikke dersom betalingsinstrumentet kan brukes anonymt eller det er teknisk umulig å gi opplysningene. Betalingstjenesteyteren skal uansett gi kunden mulighet til å kontrollere saldoen.
 
@@ -1262,7 +1595,11 @@ Ved uttak av kontanter i kontantautomat skal kunden få opplysninger om eventuel
 
 ### § 5-1. Forklaringsplikt
 
-(1) Kredittyteren skal i forbindelse med veiledningsplikten etter [§ 3-1](lov/2020-12-18-146/§3-1) tredje ledd gi en kunde som er forbruker, tilstrekkelige og tilpassede forklaringer før avtaleinngåelsen omden tilbudte kredittavtalens viktigste egenskaperhvilken betydning eventuelle vilkår om tilleggstjenester får for kundenkonsekvenser ved kundens mislighold av kredittavtalen.
+(1) Kredittyteren skal i forbindelse med veiledningsplikten etter [§ 3-1](lov/2020-12-18-146/§3-1) tredje ledd gi en kunde som er forbruker, tilstrekkelige og tilpassede forklaringer før avtaleinngåelsen om
+
+1. den tilbudte kredittavtalens viktigste egenskaper
+2. hvilken betydning eventuelle vilkår om tilleggstjenester får for kunden
+3. konsekvenser ved kundens mislighold av kredittavtalen.
 
 (2) Kredittyteren skal i rimelig omfang forsikre seg om at forklaringene som gis, er tilstrekkelige til at kunden kan vurdere om kredittavtalen passer for sitt behov og sin økonomi.
 
@@ -1292,7 +1629,13 @@ Ved uttak av kontanter i kontantautomat skal kunden få opplysninger om eventuel
 
 ### § 5-4. Avslagsplikt
 
-(1) Kredittyteren kan inngå kredittavtale med en kunde som er forbruker, bare dersom det på grunnlag av kredittvurderingen er sannsynlig at kunden har tilstrekkelig kredittevne til å oppfylle forpliktelsene på den måten som kreves etter de tilbudte vilkårene. Herunder kan det vektlegges at kundens kredittevne vurderes som tilstrekkelig på grunnlag av tilbudte vilkår ommellomfinansieringkapitalfrigjøringslånrefinansieringrente- eller avdragsfrie perioderandre forhold av betydning for kredittevnen.
+(1) Kredittyteren kan inngå kredittavtale med en kunde som er forbruker, bare dersom det på grunnlag av kredittvurderingen er sannsynlig at kunden har tilstrekkelig kredittevne til å oppfylle forpliktelsene på den måten som kreves etter de tilbudte vilkårene. Herunder kan det vektlegges at kundens kredittevne vurderes som tilstrekkelig på grunnlag av tilbudte vilkår om
+
+1. mellomfinansiering
+2. kapitalfrigjøringslån
+3. refinansiering
+4. rente- eller avdragsfrie perioder
+5. andre forhold av betydning for kredittevnen.
 
 (2) Tilstrekkelig kredittevne kan ikke utelukkende begrunnes med at den nåværende verdien av sikkerhet som stilles, overstiger eller vil overstige kredittbeløpet, med mindre kredittavtalen er et boliglån med formål å finansiere renovering eller oppføring av fast eiendom til boligformål. Det samme gjelder for anslag om sikkerhetens fremtidige verdi.
 
@@ -1334,7 +1677,11 @@ Det kan ikke settes som vilkår for å inngå en kredittavtale at kunden også i
 
 (1) Kredittyteren skal ikke fremsette krav om gebyr eller annet vederlag utover det som er skriftlig avtalt med kunden, jf. [§ 3-1](lov/2020-12-18-146/§3-1) femte ledd.
 
-(2) En kredittyter kan ikke kreve gebyr eller annet vederlag forå utlevere utkast til kredittavtale, jf. [§ 3-9](lov/2020-12-18-146/§3-9) annet ledd bokstav a og [§ 3-25](lov/2020-12-18-146/§3-25) bokstav abruk av angrerett. Dette berører ikke kredittyterens rett til renter som angitt i [§ 3-43](lov/2020-12-18-146/§3-43) eller kompensasjon for det som er betalt til offentlige myndigheter i forbindelse med kredittavtalen og ikke kan kreves tilbakeoppsigelse i samsvar med [§ 5-13](lov/2020-12-18-146/§5-13) eller [§ 5-14](lov/2020-12-18-146/§5-14).
+(2) En kredittyter kan ikke kreve gebyr eller annet vederlag for
+
+1. å utlevere utkast til kredittavtale, jf. [§ 3-9](lov/2020-12-18-146/§3-9) annet ledd bokstav a og [§ 3-25](lov/2020-12-18-146/§3-25) bokstav a
+2. bruk av angrerett. Dette berører ikke kredittyterens rett til renter som angitt i [§ 3-43](lov/2020-12-18-146/§3-43) eller kompensasjon for det som er betalt til offentlige myndigheter i forbindelse med kredittavtalen og ikke kan kreves tilbake
+3. oppsigelse i samsvar med [§ 5-13](lov/2020-12-18-146/§5-13) eller [§ 5-14](lov/2020-12-18-146/§5-14).
 
 ### § 5-11. Løpetid for annuitetslån
 
@@ -1346,7 +1693,10 @@ Det kan ikke settes som vilkår for å inngå en kredittavtale at kunden også i
 
 ### § 5-12. Valutalån
 
-(1) En kunde som er forbruker, eller en forbruker som innfrir kreditt etter reglene om kausjonsansvar, kan kreve at kreditt som ved avtaleinngåelsen var valutalån, skal konverteres tilen valuta som kunden hadde sin hovedinntekt eller formue i ved siste kredittvurderingen valuta som benyttes i en EØS-stat der kunden var bosatt da avtalen ble inngått.
+(1) En kunde som er forbruker, eller en forbruker som innfrir kreditt etter reglene om kausjonsansvar, kan kreve at kreditt som ved avtaleinngåelsen var valutalån, skal konverteres til
+
+1. en valuta som kunden hadde sin hovedinntekt eller formue i ved siste kredittvurdering
+2. en valuta som benyttes i en EØS-stat der kunden var bosatt da avtalen ble inngått.
 
 (2) Når ikke noe annet er avtalt, skal det ved konverteringen benyttes alminnelig vekslingskurs på konverteringsdagen.
 
@@ -1408,7 +1758,11 @@ Reglene i [§§ 5-17](lov/2020-12-18-146/§5-17) til [5-21](lov/2020-12-18-146/�
 
 ### § 5-19. Samskyldnerens rett til opplysninger
 
-En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket aktuelt beløp hver av samskyldnerne hefter forhvilken rente og andre kredittkostnader som gjelder for kredittavtalenresultatet av eventuelle undersøkelser som kredittyteren har foretatt av en annen samskyldners evne til å oppfylle forpliktelsene etter kredittavtalen, eller av verdien av de sikkerheter som er stilt for kredittyterens krav. Begrunnelsen for resultatet kan oppgis bare med samtykke fra den samskyldneren som kredittvurderingen gjelder.
+En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser om
+
+1. hvilket aktuelt beløp hver av samskyldnerne hefter for
+2. hvilken rente og andre kredittkostnader som gjelder for kredittavtalen
+3. resultatet av eventuelle undersøkelser som kredittyteren har foretatt av en annen samskyldners evne til å oppfylle forpliktelsene etter kredittavtalen, eller av verdien av de sikkerheter som er stilt for kredittyterens krav. Begrunnelsen for resultatet kan oppgis bare med samtykke fra den samskyldneren som kredittvurderingen gjelder.
 
 ### § 5-20. Frigivelse av sikkerhet mv.
 
@@ -1430,7 +1784,13 @@ En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilk
 
 ### § 5-22. Unntak for visse kredittavtaler
 
-(1) Reglene i [kapittel 5](lov/2020-12-18-146/kap5) gjelder ikkekreditt som er resultatet av et rettsforlikkreditt til egne ansatte som gis til lavere effektiv rente enn markedsrenten når kredittytelser ikke er en del av arbeidsgiverens hovedvirksomhetfaktoringovertrekk på kontonår en selger gir betalingsutsettelse for vederlag for en vare eller tjeneste og uten eller til ubetydelig kostnad for kunden, og kreditten ikke er ment å overstige 90 dager. Dette gjelder likevel ikke dersom pengekravet overdras før det er forfalt til betaling.
+(1) Reglene i [kapittel 5](lov/2020-12-18-146/kap5) gjelder ikke
+
+1. kreditt som er resultatet av et rettsforlik
+2. kreditt til egne ansatte som gis til lavere effektiv rente enn markedsrenten når kredittytelser ikke er en del av arbeidsgiverens hovedvirksomhet
+3. faktoring
+4. overtrekk på konto
+5. når en selger gir betalingsutsettelse for vederlag for en vare eller tjeneste og uten eller til ubetydelig kostnad for kunden, og kreditten ikke er ment å overstige 90 dager. Dette gjelder likevel ikke dersom pengekravet overdras før det er forfalt til betaling.
 
 (2) For kreditt der kunden utelukkende hefter med en deponert gjenstand (pantelån), gjelder bare [§§ 3-22](lov/2020-12-18-146/§3-22) og [5-1](lov/2020-12-18-146/§5-1).
 
@@ -1438,7 +1798,10 @@ En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilk
 
 (1) Reglene i [kapittel 5](lov/2020-12-18-146/kap5) gjelder ikke for avtale om leie der det ikke er avtalt en plikt for leieren til å bli eier.
 
-(2) For leieavtaler som i det vesentlige fyller samme økonomiske funksjon som et kredittkjøp, men der det likevel ikke er avtalt en plikt for leieren til å bli eier, gjelder følgende regler:En kunde som er forbruker, kan til enhver tid si opp leieavtalen. Det kan avtales en oppsigelsesfrist, men fristen kan ikke overstige én måned.Tjenesteyteren kan kreve gebyr for oppsigelse av leieavtalen bare dersom det er mindre enn tre måneder siden avtalen trådte i kraft. Gebyret og tidligere betalte leiekostnader kan ikke sammenlagt overstige tre måneders leiekostnad. Når det er skriftlig avtalt i leieavtalen, kan tjenesteyteren i stedet for avtalt leiekostnad kreve leiekostnader etter tjenesteyterens alminnelige leievilkår for den tidsperioden som kunden har disponert tingen.
+(2) For leieavtaler som i det vesentlige fyller samme økonomiske funksjon som et kredittkjøp, men der det likevel ikke er avtalt en plikt for leieren til å bli eier, gjelder følgende regler:
+
+1. En kunde som er forbruker, kan til enhver tid si opp leieavtalen. Det kan avtales en oppsigelsesfrist, men fristen kan ikke overstige én måned.
+2. Tjenesteyteren kan kreve gebyr for oppsigelse av leieavtalen bare dersom det er mindre enn tre måneder siden avtalen trådte i kraft. Gebyret og tidligere betalte leiekostnader kan ikke sammenlagt overstige tre måneders leiekostnad. Når det er skriftlig avtalt i leieavtalen, kan tjenesteyteren i stedet for avtalt leiekostnad kreve leiekostnader etter tjenesteyterens alminnelige leievilkår for den tidsperioden som kunden har disponert tingen.
 
 (3) Kongen kan i forskrift gi nærmere regler om leiefinansiering.
 
@@ -1480,7 +1843,11 @@ En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilk
 
 ### § 6-4. Kausjonistens rett til opplysninger
 
-Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket aktuelt beløp kausjonisten hefter forhvilken rente og andre kredittkostnader som gjelder i kredittforholdetresultatet av eventuelle undersøkelser som kredittyteren har foretatt av kredittkundens evne til å oppfylle forpliktelsene etter kredittavtalen eller av verdien av de sikkerheter som er stilt for kredittyterens krav, og som skal utnyttes før kausjonsansvaret.
+Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser om
+
+1. hvilket aktuelt beløp kausjonisten hefter for
+2. hvilken rente og andre kredittkostnader som gjelder i kredittforholdet
+3. resultatet av eventuelle undersøkelser som kredittyteren har foretatt av kredittkundens evne til å oppfylle forpliktelsene etter kredittavtalen eller av verdien av de sikkerheter som er stilt for kredittyterens krav, og som skal utnyttes før kausjonsansvaret.
 
 ### § 6-5. Endring av kausjonskravet og innsigelser til kredittavtalen
 
@@ -1606,7 +1973,13 @@ Den som formidler kausjon som ledd i næringsvirksomhet mellom en kausjonist som
 
 (1) Loven gjelder for avtaler som er inngått før loven er trådt i kraft, med de særregler som er fastsatt i annet ledd eller forskrift gitt i medhold av tredje ledd. Lovens regler om avtaleinngåelse og plikter i forbindelse med avtaleinngåelsen, herunder regler om opplysningsplikt forut for avtaleinngåelsen og regler om angrerett og betenkningstid, gjelder når avtalen inngås etter at loven er trådt i kraft.
 
-(2) For eldre avtaler gjelder følgende særregler:[§§ 3-46](lov/2020-12-18-146/§3-46) til [3-52](lov/2020-12-18-146/§3-52) gjelder bare når misligholdet inntrer etter lovens ikrafttredelse.[§§ 4-30](lov/2020-12-18-146/§4-30) til [4-33](lov/2020-12-18-146/§4-33) om ansvar ved ikke godkjente betalingstransaksjoner gjelder bare for betalingstransaksjoner som iverksettes etter lovens ikrafttredelse.[§ 4-44](lov/2020-12-18-146/§4-44) om oppsigelse av konto med bindingstid gjelder bare for kontoavtaler som inngås etter lovens ikrafttredelse.Reglene i [§ 5-12](lov/2020-12-18-146/§5-12) om valutalån gjelder bare for avtaler som er inngått etter lovens ikrafttredelse. Ved økning av tilgjengelig kredittbeløp etter lovens ikrafttredelse gjelder [§ 5-12](lov/2020-12-18-146/§5-12) likevel også for avtaler som er inngått før ikrafttredelsen.[§ 7-1](lov/2020-12-18-146/§7-1) om straff og [§ 7-2](lov/2020-12-18-146/§7-2) om overtredelsesgebyr gjelder bare for overtredelser som finner sted etter lovens ikrafttredelse. For overtredelser som finner sted før lovens ikrafttredelse, gjelder reglene i [lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag](lov/1999-06-25-46) og [lov 20. juni 2014 nr. 27 om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler](lov/2014-06-20-27) slik loven lød før ikrafttredelsen av loven her.
+(2) For eldre avtaler gjelder følgende særregler:
+
+1. [§§ 3-46](lov/2020-12-18-146/§3-46) til [3-52](lov/2020-12-18-146/§3-52) gjelder bare når misligholdet inntrer etter lovens ikrafttredelse.
+2. [§§ 4-30](lov/2020-12-18-146/§4-30) til [4-33](lov/2020-12-18-146/§4-33) om ansvar ved ikke godkjente betalingstransaksjoner gjelder bare for betalingstransaksjoner som iverksettes etter lovens ikrafttredelse.
+3. [§ 4-44](lov/2020-12-18-146/§4-44) om oppsigelse av konto med bindingstid gjelder bare for kontoavtaler som inngås etter lovens ikrafttredelse.
+4. Reglene i [§ 5-12](lov/2020-12-18-146/§5-12) om valutalån gjelder bare for avtaler som er inngått etter lovens ikrafttredelse. Ved økning av tilgjengelig kredittbeløp etter lovens ikrafttredelse gjelder [§ 5-12](lov/2020-12-18-146/§5-12) likevel også for avtaler som er inngått før ikrafttredelsen.
+5. [§ 7-1](lov/2020-12-18-146/§7-1) om straff og [§ 7-2](lov/2020-12-18-146/§7-2) om overtredelsesgebyr gjelder bare for overtredelser som finner sted etter lovens ikrafttredelse. For overtredelser som finner sted før lovens ikrafttredelse, gjelder reglene i [lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag](lov/1999-06-25-46) og [lov 20. juni 2014 nr. 27 om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler](lov/2014-06-20-27) slik loven lød før ikrafttredelsen av loven her.
 
 (3) Departementet kan gi overgangsregler. I overgangsreglene kan det gjøres unntak fra reglene i denne paragrafen.
 

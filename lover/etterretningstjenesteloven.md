@@ -15,7 +15,7 @@ xml_hash: "b2d0b168f97854db5b85977bf268455734e4732ddef8592455fb6a23a54029de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Loven skalbidra til å trygge Norges suverenitet, territorielle integritet, demokratiske styreform og andre nasjonale sikkerhetsinteresser, herunder forebygge, avdekke og motvirke utenlandske trusler mot Norge og norske interesserbidra til å trygge tilliten til og sikre grunnlaget for kontroll med Etterretningstjenestens virksomhetsikre at Etterretningstjenestens virksomhet utøves i samsvar med menneskerettighetene og andre grunnleggende verdier i et demokratisk samfunn.
+Loven skal
+
+1. bidra til å trygge Norges suverenitet, territorielle integritet, demokratiske styreform og andre nasjonale sikkerhetsinteresser, herunder forebygge, avdekke og motvirke utenlandske trusler mot Norge og norske interesser
+2. bidra til å trygge tilliten til og sikre grunnlaget for kontroll med Etterretningstjenestens virksomhet
+3. sikre at Etterretningstjenestens virksomhet utøves i samsvar med menneskerettighetene og andre grunnleggende verdier i et demokratisk samfunn.
 
 ### § 1-2. Virkeområde
 
@@ -36,7 +40,18 @@ Loven gjelder ikke innhenting og annen behandling av informasjon som utelukkende
 
 ### § 1-3. Definisjoner
 
-I denne loven menes med:personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk personbehandling av personopplysninger: enhver operasjon eller rekke av operasjoner som gjøres med personopplysninger, enten automatisert eller ikkeetterretningsformål: formål om å ivareta en eller flere av Etterretningstjenestens oppgaver etter [kapittel 3](lov/2020-06-19-77/kap3)etterretningsmål: objekt, person, virksomhet eller annet som informasjonsinnhentingen retter seg motmålsøking: systematisk arbeid for å identifisere nye etterretningsmålmålrettet innhenting: systematisk arbeid for å finne informasjon knyttet til identifiserte etterretningsmåloverskuddsinformasjon: informasjon som er uten interesse for etterretningsformålrådata: ubearbeidet eller automatisk bearbeidet informasjon i enhver form hvis etterretningsverdi ikke er vurdertbulk: informasjonssamlinger og datasett hvorav en vesentlig andel av informasjonen antas å være irrelevant for etterretningsformålutlevering: enhver formidling av opplysninger, både skriftlig og muntlig, til mottaker utenfor Etterretningstjenesten som ikke utfører tjeneste eller oppdrag for tjenesten.
+I denne loven menes med:
+
+1. personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk person
+2. behandling av personopplysninger: enhver operasjon eller rekke av operasjoner som gjøres med personopplysninger, enten automatisert eller ikke
+3. etterretningsformål: formål om å ivareta en eller flere av Etterretningstjenestens oppgaver etter [kapittel 3](lov/2020-06-19-77/kap3)
+4. etterretningsmål: objekt, person, virksomhet eller annet som informasjonsinnhentingen retter seg mot
+5. målsøking: systematisk arbeid for å identifisere nye etterretningsmål
+6. målrettet innhenting: systematisk arbeid for å finne informasjon knyttet til identifiserte etterretningsmål
+7. overskuddsinformasjon: informasjon som er uten interesse for etterretningsformål
+8. rådata: ubearbeidet eller automatisk bearbeidet informasjon i enhver form hvis etterretningsverdi ikke er vurdert
+9. bulk: informasjonssamlinger og datasett hvorav en vesentlig andel av informasjonen antas å være irrelevant for etterretningsformål
+10. utlevering: enhver formidling av opplysninger, både skriftlig og muntlig, til mottaker utenfor Etterretningstjenesten som ikke utfører tjeneste eller oppdrag for tjenesten.
 
 ## Kapittel 2. Organisering, styring og kontroll
 
@@ -60,7 +75,10 @@ Departementet kan fastsette andre særlige ordninger og rapporteringsrutiner for
 
 ### § 2-4. Varsling og rapportering
 
-Etterretningstjenesten skal innenfor rammen av oppgavene etter [kapittel 3](lov/2020-06-19-77/kap3)varsle norske myndigheter om trusler og andre forhold som Etterretningstjenesten blir kjent med og som krever umiddelbar handling eller av andre årsaker er av tidskritisk natur, ograpportere til norske myndigheter om utenlandske forhold av betydning for Norge og norske interesser.
+Etterretningstjenesten skal innenfor rammen av oppgavene etter [kapittel 3](lov/2020-06-19-77/kap3)
+
+1. varsle norske myndigheter om trusler og andre forhold som Etterretningstjenesten blir kjent med og som krever umiddelbar handling eller av andre årsaker er av tidskritisk natur, og
+2. rapportere til norske myndigheter om utenlandske forhold av betydning for Norge og norske interesser.
 
 Etterretningstjenesten skal varsle og rapportere til militære myndigheter i samsvar med forsvarssjefens bestemmelser og til sivile myndigheter i samsvar med departementets bestemmelser.
 
@@ -68,7 +86,11 @@ Etter departementets bestemmelser kan Etterretningstjenesten varsle og rådgi pe
 
 ### § 2-5. Saker som skal forelegges departementet for beslutning
 
-Etterretningstjenesten skal forelegge følgende saker for departementet for beslutning:etablering av samarbeid og avtaler med utenlandske tjenester eller internasjonale organisasjoneriverksettelse av særskilte etterretningsoperasjoner som kan reise politiske problemstillingerandre særlig viktige saker.
+Etterretningstjenesten skal forelegge følgende saker for departementet for beslutning:
+
+1. etablering av samarbeid og avtaler med utenlandske tjenester eller internasjonale organisasjoner
+2. iverksettelse av særskilte etterretningsoperasjoner som kan reise politiske problemstillinger
+3. andre særlig viktige saker.
 
 ### § 2-6. EOS-utvalgets og Riksrevisjonens kontroll
 
@@ -90,11 +112,26 @@ Domstolene fører kontroll med tilrettelagt innhenting av grenseoverskridende el
 
 ### § 3-1. Informasjonsinnhenting om utenlandske trusler
 
-Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra til å avdekke og motvirketrusler mot Norges selvstendighet og sikkerhet, territorielle integritet og politiske og økonomiske handlefrihetalvorlige trusler mot samfunnssikkerheten i Norgealvorlige trusler mot norske interesser i utlandetfremmed etterretningsvirksomhetfremmede sabotasje- og påvirkningsoperasjonergrenseoverskridende terrorismespredning av masseødeleggelsesvåpen og utstyr og materiale for fremstilling av slike våpeninternasjonal våpenhandel som kan utgjøre en alvorlig sikkerhetstrusseleksport av sanksjonerte, listeførte eller sensitive varer og tjenester.
+Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra til å avdekke og motvirke
+
+1. trusler mot Norges selvstendighet og sikkerhet, territorielle integritet og politiske og økonomiske handlefrihet
+2. alvorlige trusler mot samfunnssikkerheten i Norge
+3. alvorlige trusler mot norske interesser i utlandet
+4. fremmed etterretningsvirksomhet
+5. fremmede sabotasje- og påvirkningsoperasjoner
+6. grenseoverskridende terrorisme
+7. spredning av masseødeleggelsesvåpen og utstyr og materiale for fremstilling av slike våpen
+8. internasjonal våpenhandel som kan utgjøre en alvorlig sikkerhetstrussel
+9. eksport av sanksjonerte, listeførte eller sensitive varer og tjenester.
 
 ### § 3-2. Informasjonsinnhenting om andre utenlandske forhold
 
-Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra tilivaretakelse av prioriterte utenriks-, forsvars- eller sikkerhetspolitiske interesser knyttet til forhold og utviklingstrekk i andre stater og regionernasjonal beredskapsplanleggingepisode- og krisehåndteringplanlegging og gjennomføring av nasjonale eller internasjonale militære operasjoner.
+Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra til
+
+1. ivaretakelse av prioriterte utenriks-, forsvars- eller sikkerhetspolitiske interesser knyttet til forhold og utviklingstrekk i andre stater og regioner
+2. nasjonal beredskapsplanlegging
+3. episode- og krisehåndtering
+4. planlegging og gjennomføring av nasjonale eller internasjonale militære operasjoner.
 
 ### § 3-3. Okkupasjonsberedskap
 
@@ -108,7 +145,12 @@ Når det er i Norges interesse, kan Etterretningstjenesten innhente og analysere
 
 ### § 3-5. Innhenting av evneinformasjon
 
-Etterretningstjenesten kan innhente og analysere informasjon om forhold som utgjør nødvendige forutsetninger for å kunne gjennomføre innhenting etter dette kapittelet, for å kunnesørge for at innhenting ikke skjer i større utstrekning enn nødvendigivareta sikkerheten til Etterretningstjenestens personell og operasjonergjennomføre testing av teknisk utstyr og annen trenings- og øvingsaktivitetopprettholde og videreutvikle Etterretningstjenestens informasjonstilganger og metodiske, teknologiske og øvrige evne til å utføre pålagte oppgaver.
+Etterretningstjenesten kan innhente og analysere informasjon om forhold som utgjør nødvendige forutsetninger for å kunne gjennomføre innhenting etter dette kapittelet, for å kunne
+
+1. sørge for at innhenting ikke skjer i større utstrekning enn nødvendig
+2. ivareta sikkerheten til Etterretningstjenestens personell og operasjoner
+3. gjennomføre testing av teknisk utstyr og annen trenings- og øvingsaktivitet
+4. opprettholde og videreutvikle Etterretningstjenestens informasjonstilganger og metodiske, teknologiske og øvrige evne til å utføre pålagte oppgaver.
 
 ## Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud
 
@@ -260,7 +302,12 @@ Beslutningen skal ikke gis for lengre tid enn nødvendig, og ikke for mer enn et
 
 ### § 6-13. Krav til beslutningen
 
-Beslutningen etter [§ 6-12](lov/2020-06-19-77/§6-12) skal være skriftlig og angioppdraget som innhentingen knytter seg tilhva eller hvem innhentingen gjelderdet faktiske og rettslige grunnlaget for innhentingenbeslutningens varighet.
+Beslutningen etter [§ 6-12](lov/2020-06-19-77/§6-12) skal være skriftlig og angi
+
+1. oppdraget som innhentingen knytter seg til
+2. hva eller hvem innhentingen gjelder
+3. det faktiske og rettslige grunnlaget for innhentingen
+4. beslutningens varighet.
 
 I hastetilfeller kan beslutningen treffes muntlig. Den skal i så fall snarest mulig nedtegnes.
 
@@ -274,7 +321,14 @@ Bestemmelsene i [kapittel 7](lov/2020-06-19-77/kap7) og [8](lov/2020-06-19-77/ka
 
 ### § 7-2. Tilretteleggingsplikt for ekomtilbydere
 
-Etter pålegg gitt i medhold av [§ 7-3](lov/2003-07-04-83/§7-3), skal tilbydere som omfattes av [ekomloven § 1-5](lov/2003-07-04-83/§1-5) og tilbydere av internettbaserte kommunikasjons- eller meldingstjenester som er tilgjengelige for allmennheten, speile og gjøre tilgjengelig for Etterretningstjenesten utvalgte kommunikasjonsstrømmer og på annen måte tilrettelegge for utvalg, filtrering, testing, innhenting, lagring og søk som beskrevet i dette kapittelet, blant annet ved ågi informasjon om signalmiljø, dataformater, tekniske innretninger og fremgangsmåtertillate at tjenesten installerer utstyr og etablerer tilstedeværelse for å drifte utstyr på steder som kontrolleres av tilbydermedvirke til teknisk drift og vedlikehold av etablerte løsningerbidra til at tjenesten kan gjennomføre testinnhenting og testanalyser av trafikk i nett og tjenestersørge for tilgang til kommunikasjon uten hinder av linkkryptering eller tilsvarende kryptering som tilbyder kontrollerermedvirke til sikkerhetsmessig forsvarlige løsninger.
+Etter pålegg gitt i medhold av [§ 7-3](lov/2003-07-04-83/§7-3), skal tilbydere som omfattes av [ekomloven § 1-5](lov/2003-07-04-83/§1-5) og tilbydere av internettbaserte kommunikasjons- eller meldingstjenester som er tilgjengelige for allmennheten, speile og gjøre tilgjengelig for Etterretningstjenesten utvalgte kommunikasjonsstrømmer og på annen måte tilrettelegge for utvalg, filtrering, testing, innhenting, lagring og søk som beskrevet i dette kapittelet, blant annet ved å
+
+1. gi informasjon om signalmiljø, dataformater, tekniske innretninger og fremgangsmåter
+2. tillate at tjenesten installerer utstyr og etablerer tilstedeværelse for å drifte utstyr på steder som kontrolleres av tilbyder
+3. medvirke til teknisk drift og vedlikehold av etablerte løsninger
+4. bidra til at tjenesten kan gjennomføre testinnhenting og testanalyser av trafikk i nett og tjenester
+5. sørge for tilgang til kommunikasjon uten hinder av linkkryptering eller tilsvarende kryptering som tilbyder kontrollerer
+6. medvirke til sikkerhetsmessig forsvarlige løsninger.
 
 Tilretteleggingen skal ikke forringe elektroniske kommunikasjonstjenester for brukerne. Merutgifter for tilbyder som følge av tilretteleggingen skal dekkes av staten.
 
@@ -382,7 +436,13 @@ Etterretningstjenesten plikter å hindre at uvedkommende får tilgang til inform
 
 ### § 8-1. Kjennelse om tillatelse til tilrettelagt innhenting mv.
 
-Retten kan ved kjennelse gi Etterretningstjenesten tillatelse til ågi pålegg om å speile elektronisk kommunikasjon som transporteres over den norske grensen etter [§ 7-3](lov/2020-06-19-77/§7-3) første leddiverksette søk i lagrede metadata etter [§ 7-8](lov/2020-06-19-77/§7-8)iverksette målrettet innhenting og lagring av innholdsdata etter [§ 7-9](lov/2020-06-19-77/§7-9)iverksette målrettet innhenting etter [§ 5-2](lov/2020-06-19-77/§5-2) andre leddbehandle opplysninger som omfattes av [§ 9-6](lov/2020-06-19-77/§9-6) første ledd.
+Retten kan ved kjennelse gi Etterretningstjenesten tillatelse til å
+
+1. gi pålegg om å speile elektronisk kommunikasjon som transporteres over den norske grensen etter [§ 7-3](lov/2020-06-19-77/§7-3) første ledd
+2. iverksette søk i lagrede metadata etter [§ 7-8](lov/2020-06-19-77/§7-8)
+3. iverksette målrettet innhenting og lagring av innholdsdata etter [§ 7-9](lov/2020-06-19-77/§7-9)
+4. iverksette målrettet innhenting etter [§ 5-2](lov/2020-06-19-77/§5-2) andre ledd
+5. behandle opplysninger som omfattes av [§ 9-6](lov/2020-06-19-77/§9-6) første ledd.
 
 Det kan oppstilles vilkår i kjennelsen. Kjennelsen skal begrunnes. Retten kan omgjøre kjennelsen.
 
@@ -410,7 +470,11 @@ Rettsmøtene holdes for lukkede dører.
 
 ### § 8-4. Hva retten skal prøve
 
-Retten skal prøve om vilkårene etter denne loven er oppfylt. Dette omfatter blant annetom tiltaket ligger innenfor Etterretningstjenestens oppgaver etter [kapittel 3](lov/2020-06-19-77/kap3)om noen av forbudene i [§§ 4-1](lov/2020-06-19-77/§4-1), [4-8](lov/2020-06-19-77/§4-8), [4-9](lov/2020-06-19-77/§4-9) eller [9-4](lov/2020-06-19-77/§9-4) er til hinder for tiltaketom grunnvilkårene etter [kapittel 5](lov/2020-06-19-77/kap5) er oppfylt.
+Retten skal prøve om vilkårene etter denne loven er oppfylt. Dette omfatter blant annet
+
+1. om tiltaket ligger innenfor Etterretningstjenestens oppgaver etter [kapittel 3](lov/2020-06-19-77/kap3)
+2. om noen av forbudene i [§§ 4-1](lov/2020-06-19-77/§4-1), [4-8](lov/2020-06-19-77/§4-8), [4-9](lov/2020-06-19-77/§4-9) eller [9-4](lov/2020-06-19-77/§9-4) er til hinder for tiltaket
+3. om grunnvilkårene etter [kapittel 5](lov/2020-06-19-77/kap5) er oppfylt.
 
 > Endret ved lov [16 juni 2023 nr. 54](lov/2023-06-16-54) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 900](forskrift/2023-06-16-900)).
 
@@ -538,7 +602,14 @@ Etterretningstjenesten skal etablere og opprettholde etterretningssamarbeid med 
 
 ### § 10-2. Utlevering av etterretningsinformasjon som ledd i nasjonalt samarbeid
 
-Etterretningstjenesten kan utlevere etterretningsinformasjon til andre norske myndigheter dersomutleveringen skjer for etterretningsformål eller er nødvendig for å fremme mottakerens oppgaver eller hindre at virksomhet blir utøvd på en uforsvarlig måteutlevering av informasjon som Etterretningstjenesten har mottatt fra en tredjepart, skjer med dennes samtykkeutlevering av personopplysninger er i samsvar med [kapittel 9](lov/2020-06-19-77/kap9)utleveringen er forholdsmessig etter [§ 5-4](lov/2020-06-19-77/§5-4)utleveringen er forsvarlig i lys av opplysningenes kvalitet, hvem som er mottaker av opplysningene, og hvordan mottakeren antas å bruke demutleverte opplysninger forventes å bli forsvarlig sikkerhetsmessig behandlet.
+Etterretningstjenesten kan utlevere etterretningsinformasjon til andre norske myndigheter dersom
+
+1. utleveringen skjer for etterretningsformål eller er nødvendig for å fremme mottakerens oppgaver eller hindre at virksomhet blir utøvd på en uforsvarlig måte
+2. utlevering av informasjon som Etterretningstjenesten har mottatt fra en tredjepart, skjer med dennes samtykke
+3. utlevering av personopplysninger er i samsvar med [kapittel 9](lov/2020-06-19-77/kap9)
+4. utleveringen er forholdsmessig etter [§ 5-4](lov/2020-06-19-77/§5-4)
+5. utleveringen er forsvarlig i lys av opplysningenes kvalitet, hvem som er mottaker av opplysningene, og hvordan mottakeren antas å bruke dem
+6. utleverte opplysninger forventes å bli forsvarlig sikkerhetsmessig behandlet.
 
 Utlevering med sikte på innhenting eller andre tiltak hos mottaker på vegne av Etterretningstjenesten kan bare skje dersom tjenesten selv ville hatt adgang til å gjennomføre innhentingen eller tiltaket.
 
@@ -548,7 +619,11 @@ Denne paragrafen gjelder ikke for utlevering av informasjon til EOS-utvalget og 
 
 ### § 10-3. Utlevering av etterretningsinformasjon som ledd i internasjonalt samarbeid
 
-Etterretningstjenesten kan utlevere etterretningsinformasjon til andre staters myndigheter eller internasjonale organisasjoner dersomvilkårene etter [§ 10-2](lov/2020-06-19-77/§10-2) er oppfyltutleveringen er under nasjonal kontroll og i Norges interessedet settes som vilkår at informasjonen ikke kan brukes som grunnlag for innhenting rettet mot personer i Norge, med unntak for personer som omfattes av [§ 4-2](lov/2020-06-19-77/§4-2) første ledd og som det er i Norges interesse at mottakeren innhenter opplysninger om.
+Etterretningstjenesten kan utlevere etterretningsinformasjon til andre staters myndigheter eller internasjonale organisasjoner dersom
+
+1. vilkårene etter [§ 10-2](lov/2020-06-19-77/§10-2) er oppfylt
+2. utleveringen er under nasjonal kontroll og i Norges interesse
+3. det settes som vilkår at informasjonen ikke kan brukes som grunnlag for innhenting rettet mot personer i Norge, med unntak for personer som omfattes av [§ 4-2](lov/2020-06-19-77/§4-2) første ledd og som det er i Norges interesse at mottakeren innhenter opplysninger om.
 
 Etterretningstjenesten skal ikke utlevere etterretningsinformasjon hvis det er en reell risiko for at informasjonen kan medvirke til at noen utsettes for tortur eller annen umenneskelig eller nedverdigende behandling eller straff.
 
@@ -566,7 +641,11 @@ Norske myndigheter kan uten hinder av lovbestemt taushetsplikt utlevere informas
 
 ### § 10-6. Formidling av opplysninger på vegne av norske myndigheter
 
-Etterretningstjenesten kan på vegne av andre norske myndigheter formidle opplysninger til og fra andre staters myndigheter dersomden norske myndigheten har anmodet Etterretningstjenesten om å formidle opplysningenemottakeren opplyses om at formidlingen skjer på vegne av den norske myndighetenEtterretningstjenesten ikke endrer opplysningene, legger til egen informasjon eller ber mottakeren om å handle på en bestemt måte i lys av opplysningene.
+Etterretningstjenesten kan på vegne av andre norske myndigheter formidle opplysninger til og fra andre staters myndigheter dersom
+
+1. den norske myndigheten har anmodet Etterretningstjenesten om å formidle opplysningene
+2. mottakeren opplyses om at formidlingen skjer på vegne av den norske myndigheten
+3. Etterretningstjenesten ikke endrer opplysningene, legger til egen informasjon eller ber mottakeren om å handle på en bestemt måte i lys av opplysningene.
 
 Mottakeren skal opplyses om at videreformidling til tredjeparter krever samtykke fra den norske myndigheten, og eventuelt om at slikt samtykke allerede er gitt.
 

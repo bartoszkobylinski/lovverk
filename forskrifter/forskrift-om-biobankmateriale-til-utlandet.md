@@ -30,13 +30,36 @@ Formålet med forskriften er å regulere unntak fra hovedregelen om godkjenning 
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:anonymt/anonymisert biobankmateriale:Biobankmateriale der navn, fødselsnummer og andre personentydige kjennetegn er fjernet slik at biobankmaterialet ikke lenger kan knyttes til en enkeltperson.avidentifisert biobankmateriale:Biobankmateriale der navn, fødselsnummer og andre personentydige kjennetegn er fjernet slik at materialet ikke lenger kan knyttes til en enkeltperson, og hvor identiteten bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet.diagnostisk biobank og behandlingsbiobank:En samling humant biologisk materiale som er avgitt for medisinsk undersøkelse, diagnostikk og behandling.forskningsbiobank:En samling humant biologisk materiale og opplysninger som direkte fremkommer ved analyse av dette materialet, og som anvendes eller skal anvendes til forskning.humant biologisk materiale:Organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker.human cellekultur:Kultur av celler som er etablert fra humane celler eller vev og som dyrkes in vitro i laboratoriet.
+I denne forskrift forstås med:
+
+1. anonymt/anonymisert biobankmateriale:
+
+   Biobankmateriale der navn, fødselsnummer og andre personentydige kjennetegn er fjernet slik at biobankmaterialet ikke lenger kan knyttes til en enkeltperson.
+2. avidentifisert biobankmateriale:
+
+   Biobankmateriale der navn, fødselsnummer og andre personentydige kjennetegn er fjernet slik at materialet ikke lenger kan knyttes til en enkeltperson, og hvor identiteten bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet.
+3. diagnostisk biobank og behandlingsbiobank:
+
+   En samling humant biologisk materiale som er avgitt for medisinsk undersøkelse, diagnostikk og behandling.
+4. forskningsbiobank:
+
+   En samling humant biologisk materiale og opplysninger som direkte fremkommer ved analyse av dette materialet, og som anvendes eller skal anvendes til forskning.
+5. humant biologisk materiale:
+
+   Organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker.
+6. human cellekultur:
+
+   Kultur av celler som er etablert fra humane celler eller vev og som dyrkes in vitro i laboratoriet.
 
 ## Kapittel 2. Overføring til utlandet uten særskilt godkjenning
 
 ### § 3. Anonymt eller avidentifisert materiale
 
-Anonymt eller avidentifisert biobankmateriale kan som ledd i alminnelig internasjonalt samarbeid overføres til utlandet uten godkjenning fra departementet når følgende tre vilkår er oppfylt:biobanken er forankret i Norge,overføring skjer kun for å få gjennomført analyser av materialet og analyseresultatene skal tilbakeføres til avsender i Norge, eller overføringen skjer utelukkende som ledd i alminnelig kvalitetskontroll av analysemetoder ogdet biologiske materialet blir destruert av mottaker i utlandet eller returnert til avsender etter at analysen er utført.
+Anonymt eller avidentifisert biobankmateriale kan som ledd i alminnelig internasjonalt samarbeid overføres til utlandet uten godkjenning fra departementet når følgende tre vilkår er oppfylt:
+
+1. biobanken er forankret i Norge,
+2. overføring skjer kun for å få gjennomført analyser av materialet og analyseresultatene skal tilbakeføres til avsender i Norge, eller overføringen skjer utelukkende som ledd i alminnelig kvalitetskontroll av analysemetoder og
+3. det biologiske materialet blir destruert av mottaker i utlandet eller returnert til avsender etter at analysen er utført.
 
 ### § 4. Utveksling av forskningsdata
 
@@ -70,11 +93,25 @@ I vurderingen av om generell godkjenning skal gis, skal departementet bl.a. legg
 
 ### § 8. Søknad om generell godkjenning
 
-Søknader om generell godkjenning etter [§ 7](forskrift/2004-02-26-511/§7) skal så langt det er mulig inneholde opplysninger om:formålet med overføringene, herunder hva slags analyser som skal gjennomføres, hvilke resultater som forventes og hva disse skal brukes til,navn på prosjektansvarlige og ansvarshavende i Norge,omfanget av overføringene, for eksempel anslagsvis hvor mange personer eller prøver som skal inngå,eksisterende forskningssamarbeid og planlagte prosjekter som skal omfattes av den generelle godkjenningen for overføring til utlandet,beskrivelse av biobankmaterialet. Det skal fremgå om overføringen gjelder vev, celler, blod e.l., bestanddeler av humant biologisk materiale som RNA, DNA og proteiner, eller opplysninger som er utledet av biologisk materiale,navn på kontaktpersoner og samarbeidende institusjoner i utlandet. Det skal redegjøres for hvordan det er tenkt at resultatene skal offentliggjøres, for eksempel publisering i internasjonale tidsskrifter,samtykke fra giverne av materialet. Kopi av standardisert samtykkeskjema skal legges ved søknaden,det skal opplyses om prøvene blir anonymisert eller avidentifisert før utsendelse,uttalelser fra regional komité for medisinsk forskningsetikk. Kopi av eventuelle uttalelser skal legges ved.
+Søknader om generell godkjenning etter [§ 7](forskrift/2004-02-26-511/§7) skal så langt det er mulig inneholde opplysninger om:
+
+1. formålet med overføringene, herunder hva slags analyser som skal gjennomføres, hvilke resultater som forventes og hva disse skal brukes til,
+2. navn på prosjektansvarlige og ansvarshavende i Norge,
+3. omfanget av overføringene, for eksempel anslagsvis hvor mange personer eller prøver som skal inngå,
+4. eksisterende forskningssamarbeid og planlagte prosjekter som skal omfattes av den generelle godkjenningen for overføring til utlandet,
+5. beskrivelse av biobankmaterialet. Det skal fremgå om overføringen gjelder vev, celler, blod e.l., bestanddeler av humant biologisk materiale som RNA, DNA og proteiner, eller opplysninger som er utledet av biologisk materiale,
+6. navn på kontaktpersoner og samarbeidende institusjoner i utlandet. Det skal redegjøres for hvordan det er tenkt at resultatene skal offentliggjøres, for eksempel publisering i internasjonale tidsskrifter,
+7. samtykke fra giverne av materialet. Kopi av standardisert samtykkeskjema skal legges ved søknaden,
+8. det skal opplyses om prøvene blir anonymisert eller avidentifisert før utsendelse,
+9. uttalelser fra regional komité for medisinsk forskningsetikk. Kopi av eventuelle uttalelser skal legges ved.
 
 ### § 9. Rapporteringsplikt
 
-Den som innehar generell godkjenning etter [§ 7](forskrift/2004-02-26-511/§7) skal sende inn en årlig rapport over virksomheten. Rapporten skal sendes departementet innen 15. mars påfølgende år. Rapporten skal inneholde følgende opplysninger:oversikt over prosjekter som medførte oversendelse av biobankmateriale til utlandet,opplysning om hvor mange prøver som er sendt, hva slags materiale, hva slags analyser og hvor mange pasienter/forsøkspersoner som er involvert,liste over eventuelle publikasjoner fra de aktuelle prosjektene.
+Den som innehar generell godkjenning etter [§ 7](forskrift/2004-02-26-511/§7) skal sende inn en årlig rapport over virksomheten. Rapporten skal sendes departementet innen 15. mars påfølgende år. Rapporten skal inneholde følgende opplysninger:
+
+1. oversikt over prosjekter som medførte oversendelse av biobankmateriale til utlandet,
+2. opplysning om hvor mange prøver som er sendt, hva slags materiale, hva slags analyser og hvor mange pasienter/forsøkspersoner som er involvert,
+3. liste over eventuelle publikasjoner fra de aktuelle prosjektene.
 
 ### § 10. Endrede forhold
 

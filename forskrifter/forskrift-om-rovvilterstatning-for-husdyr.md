@@ -15,7 +15,7 @@ xml_hash: "949f5f22615e73d57a6a763d8955d079164777468fdadb61121b20b63bc1a4c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,19 +28,36 @@ Formålet med forskriften er å erstatte dyreeierens tap og følgekostnader når
 
 ## § 2. Definisjoner
 
-I forskriften menes med*husdyr:* sau, geit, storfe, hest, gjeterhund, vokterhund og jakthund i bruk under lovlig jakt, lovlig trening eller jakthundprøver*rovvilt:* gaupe, jerv, bjørn, ulv og kongeørn*tap av husdyr:* det dyreeier mister av husdyr som er drept eller skadet av rovvilt*normaltap:* tapet av husdyr som erfaringsmessig inntreffer i besetningen på utmarksbeite uten forekomst av rovvilt*erstatning for tap:* dekning av direkte økonomiske tap som dyreeier er påført, jf. bokstav c*erstatning for følgekostnader:* dekning av andre tap og ulemper som dyreeier er påført og som står i årsakssammenheng med tapet av husdyr.
+I forskriften menes med
+
+1. *husdyr:* sau, geit, storfe, hest, gjeterhund, vokterhund og jakthund i bruk under lovlig jakt, lovlig trening eller jakthundprøver
+2. *rovvilt:* gaupe, jerv, bjørn, ulv og kongeørn
+3. *tap av husdyr:* det dyreeier mister av husdyr som er drept eller skadet av rovvilt
+4. *normaltap:* tapet av husdyr som erfaringsmessig inntreffer i besetningen på utmarksbeite uten forekomst av rovvilt
+5. *erstatning for tap:* dekning av direkte økonomiske tap som dyreeier er påført, jf. bokstav c
+6. *erstatning for følgekostnader:* dekning av andre tap og ulemper som dyreeier er påført og som står i årsakssammenheng med tapet av husdyr.
 
 ## § 3. Hvem som har krav på erstatning
 
 Dyreeier har etter søknad krav på erstatning for tap og følgekostnader når husdyr blir drept eller skadet av rovvilt.
 
-Det ytes likevel ikke erstatning når:dyreeier har et produksjonsomfang som er lavere enn det som gir rett til produksjonstillegg etter jordbruksavtalen, såfremt dyreeier ikke er en værring, sauavlslag eller tilsvarende,dyreeier ikke har fast bopel i Norge ellerdyreeier ikke fremmer søknad innen den fastsatte frist.
+Det ytes likevel ikke erstatning når:
+
+1. dyreeier har et produksjonsomfang som er lavere enn det som gir rett til produksjonstillegg etter jordbruksavtalen, såfremt dyreeier ikke er en værring, sauavlslag eller tilsvarende,
+2. dyreeier ikke har fast bopel i Norge eller
+3. dyreeier ikke fremmer søknad innen den fastsatte frist.
 
 Bestemmelsen i annet ledd bokstav a gjelder ikke ved erstatning for hest og hund som nevnt i [§ 2](forskrift/2014-05-30-677/§2) bokstav a.
 
 ## § 4. Vilkår for erstatning
 
-Følgende vilkår må oppfylles for å få full erstatning:dyreeier har handlet aktsomt og har gjort det som med rimelighet kan forventes for å avverge eller redusere tap, vurdert i forhold til de verdier som står på spill og den foreliggende risikodyreholdet i besetningen er i samsvar med [lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd og forskrifter til lovendyreeier har bidratt til at tap oppdages så tidlig som mulig. Straks et taps- eller skadetilfelle oppdages skal det gis melding til Statens naturoppsyn for vurdering av årsakdyreeier har gitt riktige og nødvendige opplysninger for å underbygge kravet om erstatning. Dette innebærer besetningsdata på individnivå, herunder data over tapte og skadde dyr. Dersom dyreeier har gitt fullstendige besetningsdata til sauekontrollen, og har samtykket i bruk av besetningsdata fra denne, anses dette kravet som oppfyltdyr gjenfunnet i live etter at søknad om erstatning er sendt skal straks meldes statsforvalteren. Om dyreeier ikke melder om dyr som er gjenfunnet skal erstatning avkortes eller bortfalle.
+Følgende vilkår må oppfylles for å få full erstatning:
+
+1. dyreeier har handlet aktsomt og har gjort det som med rimelighet kan forventes for å avverge eller redusere tap, vurdert i forhold til de verdier som står på spill og den foreliggende risiko
+2. dyreholdet i besetningen er i samsvar med [lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd og forskrifter til loven
+3. dyreeier har bidratt til at tap oppdages så tidlig som mulig. Straks et taps- eller skadetilfelle oppdages skal det gis melding til Statens naturoppsyn for vurdering av årsak
+4. dyreeier har gitt riktige og nødvendige opplysninger for å underbygge kravet om erstatning. Dette innebærer besetningsdata på individnivå, herunder data over tapte og skadde dyr. Dersom dyreeier har gitt fullstendige besetningsdata til sauekontrollen, og har samtykket i bruk av besetningsdata fra denne, anses dette kravet som oppfylt
+5. dyr gjenfunnet i live etter at søknad om erstatning er sendt skal straks meldes statsforvalteren. Om dyreeier ikke melder om dyr som er gjenfunnet skal erstatning avkortes eller bortfalle.
 
 > Endret ved forskrift [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021).
 
@@ -54,7 +71,12 @@ Døde eller skadde husdyr anses drept eller skadet av rovvilt når de blir funne
 
 ## § 7. Rovvilttap sannsynliggjort ved oppfyllelse av faste kriterier
 
-Tap av alle husdyr utover normaltap anses som tapt til rovvilt når følgende kriterier er oppfylt:Beiteområdet har fast bestand av rovvilt,det er påvist regelmessig rovviltskade på husdyr i beiteområdet i beitesesongen,tapsbildet er sammenfallende med kunnskap og erfaring om skademønster voldt av tilstedeværende rovviltart ogtapsbildet er sammenfallende med sammenlignbare besetninger i beiteområdet eller nærliggende beiteområder.
+Tap av alle husdyr utover normaltap anses som tapt til rovvilt når følgende kriterier er oppfylt:
+
+1. Beiteområdet har fast bestand av rovvilt,
+2. det er påvist regelmessig rovviltskade på husdyr i beiteområdet i beitesesongen,
+3. tapsbildet er sammenfallende med kunnskap og erfaring om skademønster voldt av tilstedeværende rovviltart og
+4. tapsbildet er sammenfallende med sammenlignbare besetninger i beiteområdet eller nærliggende beiteområder.
 
 Dersom ett eller flere av kriteriene ikke er oppfylt, skal sannsynlighetsvurderingen for hele tapet gjøres i henhold til [§ 8](forskrift/2014-05-30-677/§8).
 
@@ -92,7 +114,10 @@ For storfe og hest, som nevnt i [§ 2](forskrift/2014-05-30-677/§2) bokstav a, 
 
 ## § 12. Erstatning for følgekostnader knyttet til det enkelte dyr
 
-I tillegg til erstatning etter [§ 11](forskrift/2014-05-30-677/§11) kan det ytes erstatning for dokumenterte kostnader, ulemper og følgetap som står i direkte årsakssammenheng med tap av eller skade på det enkelte dyr. For sau ytes erstatning for følgekostnader knyttet til det enkelte dyr somlivdyrverdi for tapte lamredusert fremtidig produksjon ved tap av voksne søyer.
+I tillegg til erstatning etter [§ 11](forskrift/2014-05-30-677/§11) kan det ytes erstatning for dokumenterte kostnader, ulemper og følgetap som står i direkte årsakssammenheng med tap av eller skade på det enkelte dyr. For sau ytes erstatning for følgekostnader knyttet til det enkelte dyr som
+
+1. livdyrverdi for tapte lam
+2. redusert fremtidig produksjon ved tap av voksne søyer.
 
 For geit, storfe og hest må dyreeier legge frem nødvendig dokumentasjon som grunnlag for vurdering av følgekostnader. Slik erstatning kan ikke gis for hunder som nevnt i [§ 2](forskrift/2014-05-30-677/§2) bokstav a.
 
@@ -100,7 +125,10 @@ For geit, storfe og hest må dyreeier legge frem nødvendig dokumentasjon som gr
 
 I tillegg til erstatning etter [§ 11](forskrift/2014-05-30-677/§11) og [§ 12](forskrift/2014-05-30-677/§12) kan det ytes erstatning for dokumenterte omkostninger, ulemper og følgeskader på besetningsnivå. Slik erstatning kan ikke gis for hunder som nevnt i [§ 2](forskrift/2014-05-30-677/§2) bokstav a.
 
-Erstatning for følgekostnader i sauebesetninger ytes etter satser som gir økt erstatning ved økende tap. Det ytes erstatning forredusert avlsmessig fremgang som skyldes rovvilttapøkt arbeidsforbruk i beitetida og andre følgekostnader.
+Erstatning for følgekostnader i sauebesetninger ytes etter satser som gir økt erstatning ved økende tap. Det ytes erstatning for
+
+1. redusert avlsmessig fremgang som skyldes rovvilttap
+2. økt arbeidsforbruk i beitetida og andre følgekostnader.
 
 Erstatningen for andre følgekostnader kan ikke settes høyere enn erstatningen for økt arbeidsforbruk.
 
@@ -285,7 +313,12 @@ Det skal føres tilsyn med dyr på utmarksbeite i et omfang som er tilpasset bes
 
 Dyreeier har plikt til å avdekke tap så tidlig som mulig, og det er dyreeiers selvstendige ansvar å sannsynliggjøre at tap er forårsaket av rovvilt. Det er SNO som utfører skadedokumentasjon. Straks et taps- eller skadetilfelle avdekkes, hvor det antas at rovvilt er skadevolder, skal det gis melding til SNOs rovviltkontakter.
 
-Innmelding av kadavre og skadde dyr har bl.a. følgende målsettinger:gi grunnlag for å yte erstatning til skadelidte, og for å sannsynliggjøre skade i beiteområdetbidra til å fastslå hvilken eller hvilke rovviltarter som volder skade innenfor en besetning eller et beiteområdeøke kunnskap om aktuelle skadevoldere for å iverksette og tilpasse tiltak som kan forebygge skaderøke den generelle kunnskap om skademønster, skadetidspunkt og tapssammensetning for ulike rovviltarter.
+Innmelding av kadavre og skadde dyr har bl.a. følgende målsettinger:
+
+- gi grunnlag for å yte erstatning til skadelidte, og for å sannsynliggjøre skade i beiteområdet
+- bidra til å fastslå hvilken eller hvilke rovviltarter som volder skade innenfor en besetning eller et beiteområde
+- øke kunnskap om aktuelle skadevoldere for å iverksette og tilpasse tiltak som kan forebygge skader
+- øke den generelle kunnskap om skademønster, skadetidspunkt og tapssammensetning for ulike rovviltarter.
 
 Dyreeiere som unnlater å melde om funn av kadavre og skadde dyr, forhindrer også andre brukere i samme område og forvaltningsmyndigheter i å avdekke/sannsynliggjøre tap, og i neste omgang å iverksette tiltak for å avverge tap. Mangel på innmelding kan derfor forårsake at det ikke oppnås tilstrekkelig grunnlag for å tilkjenne erstatning til andre brukere innenfor et beiteområde. Dersom brukere unnlater å melde fra om kadaverfunn hvor rovvilt antas å være skadevolder skal erstatningsmyndigheten avkorte eller avslå erstatning, jf. [§ 10](forskrift/2014-05-30-677/§10).
 
@@ -309,7 +342,13 @@ Dyr gjenfunnet i live etter sendt søknad skal straks varsles statsforvalteren. 
 
 I enkelttilfeller vil erstatningsmyndigheten kunne tilstå erstatning til tross for at det foreligger en betydelig usikkerhet omkring eksempelvis utøvelse av dyrehold eller om årsakene til tapet. I slike tilfeller kan erstatningsmyndigheten fastsette særlige vilkår for å tilstå erstatning for påfølgende år. Forholdene må være av en slik karakter at de krever avklaring for å kunne tilkjenne erstatning ved eventuelle fremtidige søknader.
 
-Slike særlige vilkår kan eksempelvis omfatte:dokumentert loggbok for tilsyn av besetning som legges frem sammen med søknadveterinærundersøkelse av besetning før beiteslipptilstandsrapport for besetningen i løpet av beitesesongenfrist for nedsanking av dyr om høsten og hvordan dette skal gjennomføresminstevekt på lam ved beiteslipp.
+Slike særlige vilkår kan eksempelvis omfatte:
+
+- dokumentert loggbok for tilsyn av besetning som legges frem sammen med søknad
+- veterinærundersøkelse av besetning før beiteslipp
+- tilstandsrapport for besetningen i løpet av beitesesongen
+- frist for nedsanking av dyr om høsten og hvordan dette skal gjennomføres
+- minstevekt på lam ved beiteslipp.
 
 Opplistingen av mulige vilkår er ikke uttømmende. Vilkårsfastsettelsen må tilpasses en individuell behovsvurdering.
 
@@ -425,9 +464,16 @@ Den erstatning som beregnes for det enkelte tapte dyr er full erstatning. Med fu
 
 Saueholdet i Norge kan ikke defineres innenfor et enkelt sett med parametre og rammevilkår. Produksjonen kan variere med en rekke ulike faktorer, som f.eks. geografi, driftsform, rase, beitekvalitet, beitetidsrom, vær, nedbør, rovvilt, landbrukspolitikk, etc. Konsekvensen av dette er at det eksisterer en rekke faktorer på individnivå, besetningsnivå og regionnivå som påvirker det endelige sluttresultatet i produksjonen, selv i områder helt uten rovvilt. Med rovvilt tilstede blir imidlertid bildet enda mer sammensatt. Norsk institutt for landbruksøkonomisk forskning (NILF) har gjennomgått enkeltvise faktorer som påvirker det endelige resultat, og deretter forsøkt å se disse i sammenheng.
 
-Det finnes ikke et forsvarlig faglig grunnlag for å fastsette en fullstendig dekkende individuell sats i forskriften. Dette innebærer at det nedfelte mål om å yte full erstatning ikke kan oppnås på individuelt grunnlag uten at det foretas en omfattende gjennomgang av samtlige faktorer på det enkelte bruk eller for det enkelte tapte dyr. Forskriften skiller derfor mellom:Søknadsbehandling på generelt grunnlag, der søkere behandles etter en generell gjennomsnittsløsning i henhold til [§ 11](forskrift/2014-05-30-677/§11) til [§ 13](forskrift/2014-05-30-677/§13).En individuell behandling av den enkelte dyreeier i henhold til [§ 14](forskrift/2014-05-30-677/§14), der søkeren plikter å fremlegge dokumentasjon på de faktorer som skal inngå i beregningsgrunnlaget. Ved en individuell behandling forutsettes det at denne omfatter samtlige faktorer, og ikke en enkeltfaktor, jf. retningslinjene til [§ 14](forskrift/2014-05-30-677/§14). En gjennomsnittsberegning vil i praksis innebære at noen enkeltbrukere vil kunne komme dårligere ut enn de ville gjort ved en rovviltfri produksjon, mens andre kommer bedre ut.
+Det finnes ikke et forsvarlig faglig grunnlag for å fastsette en fullstendig dekkende individuell sats i forskriften. Dette innebærer at det nedfelte mål om å yte full erstatning ikke kan oppnås på individuelt grunnlag uten at det foretas en omfattende gjennomgang av samtlige faktorer på det enkelte bruk eller for det enkelte tapte dyr. Forskriften skiller derfor mellom:
 
-I beregningen av faktisk utbetalt beløp skilles det mellom:dyrets slakteverdi, [§ 11](forskrift/2014-05-30-677/§11)følgekostnader knyttet til det enkelte tapte dyr, [§ 12](forskrift/2014-05-30-677/§12)følgekostnader knyttet til en sum av tapte dyr, [§ 13](forskrift/2014-05-30-677/§13).
+1. Søknadsbehandling på generelt grunnlag, der søkere behandles etter en generell gjennomsnittsløsning i henhold til [§ 11](forskrift/2014-05-30-677/§11) til [§ 13](forskrift/2014-05-30-677/§13).
+2. En individuell behandling av den enkelte dyreeier i henhold til [§ 14](forskrift/2014-05-30-677/§14), der søkeren plikter å fremlegge dokumentasjon på de faktorer som skal inngå i beregningsgrunnlaget. Ved en individuell behandling forutsettes det at denne omfatter samtlige faktorer, og ikke en enkeltfaktor, jf. retningslinjene til [§ 14](forskrift/2014-05-30-677/§14). En gjennomsnittsberegning vil i praksis innebære at noen enkeltbrukere vil kunne komme dårligere ut enn de ville gjort ved en rovviltfri produksjon, mens andre kommer bedre ut.
+
+I beregningen av faktisk utbetalt beløp skilles det mellom:
+
+- dyrets slakteverdi, [§ 11](forskrift/2014-05-30-677/§11)
+- følgekostnader knyttet til det enkelte tapte dyr, [§ 12](forskrift/2014-05-30-677/§12)
+- følgekostnader knyttet til en sum av tapte dyr, [§ 13](forskrift/2014-05-30-677/§13).
 
 ### Retningslinjer til § 11
 
@@ -439,7 +485,12 @@ Satsene for erstatning av tapt sau og geit fastsettes av Miljødirektoratet om h
 
 Erstatningssatsen bygger på at produksjonen av sauekjøtt tar sikte på å levere et sluttprodukt som slakt. Uavhengig av tapstidspunkt skal dermed verdien som sluttprodukt erstattes. Det er en betydelig spredning i den økonomiske effekt av ulike produksjonsformer, produksjonstid, produksjonssted etc. Satsen bygger på målte gjennomsnittsverdier som fanger opp hovedtyngden av det norske saueholdet.
 
-Grunnverdien beregnes ved hjelp av følgende faktorer:Slaktevekter fastsettes ut fra gjennomsnittlige slaktevekter registrert hos Norsk Kjøtt siste tre år. For lam vil det være aktuelt å bruke gjennomsnittsvekter fra sesongen august til oktober. For søyer brukes gjennomsnittsvekter på årsbasis.Det legges til grunn en slaktekvalitet tilsvarende den som hovedtyngden av alt slakt blir klassifisert i. Det gjøres ingen fratrekk for fettmengde.Det brukes forhåndsestimerte noteringspriser (prisløype) fra Norsk Kjøtt for ukene 36–43 i tapsåret. Det legges til grunn en vektklasse tilsvarende den gjennomsnittsvekten som blir brukt.Ullverdien beregnes som et produkt av ullvekt og pris. Satsen fastsettes basert på gjennomsnittspris for høstull av crossbreed type levert norsk kjøttsamvirke. Det benyttes en ullvekt på 1,3 kg for lam og 2,2 kg for søyer multiplisert med snittprisen.
+Grunnverdien beregnes ved hjelp av følgende faktorer:
+
+- Slaktevekter fastsettes ut fra gjennomsnittlige slaktevekter registrert hos Norsk Kjøtt siste tre år. For lam vil det være aktuelt å bruke gjennomsnittsvekter fra sesongen august til oktober. For søyer brukes gjennomsnittsvekter på årsbasis.
+- Det legges til grunn en slaktekvalitet tilsvarende den som hovedtyngden av alt slakt blir klassifisert i. Det gjøres ingen fratrekk for fettmengde.
+- Det brukes forhåndsestimerte noteringspriser (prisløype) fra Norsk Kjøtt for ukene 36–43 i tapsåret. Det legges til grunn en vektklasse tilsvarende den gjennomsnittsvekten som blir brukt.
+- Ullverdien beregnes som et produkt av ullvekt og pris. Satsen fastsettes basert på gjennomsnittspris for høstull av crossbreed type levert norsk kjøttsamvirke. Det benyttes en ullvekt på 1,3 kg for lam og 2,2 kg for søyer multiplisert med snittprisen.
 
 Distriktstilskuddet inngår ikke i grunnverdien. Dette beregnes separat for den enkelte dyreeier basert på brukets beliggenhet i forhold til sonegrensene. Distriktstilskuddet fremkommer som et tillegg pr. kg slaktevekt.
 
@@ -501,7 +552,18 @@ Dersom dyreeier ikke ønsker å bli behandlet etter de standardiserte satser, me
 
 De samme faktorer som ligger til grunn for gjennomsnittsberegningen vil måtte beregnes individuelt for de som ønsker slik behandling i henhold til [§ 14](forskrift/2014-05-30-677/§14). I tillegg vil enkeltfaktorer som har marginal betydning i en gjennomsnittsberegning også tas med i den individuelle vurderingen.
 
-For å gjennomføre en individuell analyse, må dyreeier fremlegge følgende nødvendige dokumentasjon, der alle individer i besetningen kan identifiseres:antall dyr som søkes erstattet, fordelt på søyer og lamantall søyer som må utrangeres pga. skade forårsaket av rovdyr (veterinærbekreftet)antall tapte lam som tilhørte tapte søyerantall lam ved beiteslipp tilhørende tapte søyertotalt antall dyr sluppet, fordelt på søyer og lamalder på tapte dyrslakteresultater i tapsåret og eventuelle resultater fra tidligere år; aktuell dokumentasjon er årsutskrift fra sauekontrollen eller avregninger fra slakteriavregning ulloppgjør, dersom dyra er klippet hjemme før slaktingsone for distriktstilskudd, eventuelt brukets beliggenhet (dette vil som oftest gå frem av andre dokumenter)veterinærutgifter til behandling/attestasjon av skadde dyr.
+For å gjennomføre en individuell analyse, må dyreeier fremlegge følgende nødvendige dokumentasjon, der alle individer i besetningen kan identifiseres:
+
+- antall dyr som søkes erstattet, fordelt på søyer og lam
+- antall søyer som må utrangeres pga. skade forårsaket av rovdyr (veterinærbekreftet)
+- antall tapte lam som tilhørte tapte søyer
+- antall lam ved beiteslipp tilhørende tapte søyer
+- totalt antall dyr sluppet, fordelt på søyer og lam
+- alder på tapte dyr
+- slakteresultater i tapsåret og eventuelle resultater fra tidligere år; aktuell dokumentasjon er årsutskrift fra sauekontrollen eller avregninger fra slakteri
+- avregning ulloppgjør, dersom dyra er klippet hjemme før slakting
+- sone for distriktstilskudd, eventuelt brukets beliggenhet (dette vil som oftest gå frem av andre dokumenter)
+- veterinærutgifter til behandling/attestasjon av skadde dyr.
 
 Analysen skal gjennomføres av NILF eller annen uavhengig forskningsinstitusjon. Det må påregnes en vesentlig økning i behandlingstid i forhold til en vanlig behandlingsmåte, noe avhengig av antallet søkere som ønsker slik behandling. På bakgrunn av den lengre behandlingstiden vil søkerne i første omgang bli behandlet på lik linje med andre søkere, etter de standardiserte reglene angitt i [§ 11](forskrift/2014-05-30-677/§11). Statsforvalteren må på grunnlag av den utførte analysen fatte endelig vedtak om erstatning på et senere tidspunkt. Dette kan resultere i en eventuell etterbetaling eller krav om tilbakebetaling av allerede utbetalt erstatning, jf. [§ 17](forskrift/2014-05-30-677/§17).
 
@@ -527,7 +589,12 @@ Etter [forvaltningsloven § 27b](lov/1967-02-10/§27b) kan erstatningsmyndighete
 
 Det kan oppstå tilfeller der det er utbetalt for mye i erstatning. Dette kan skyldes feil beregning av erstatningsmyndighet eller at det er gitt feil opplysninger fra søker. I begge tilfeller er dyreeier pliktig til å betale tilbake det som urettmessig er utbetalt i erstatning.
 
-I [§ 17](forskrift/2014-05-30-677/§17) er det fire grunnlag for tilbakekreving:Når en dyreeier har mottatt erstatning i strid med redelighet og god tro etter bestemmelsens første ledd, første punktum.Når dyreeier har gitt feilaktige, mangelfulle eller misvisende opplysninger etter første ledd, annet punktum.Når utbetalingen skyldes feil fra myndighetenes side etter første ledd, tredje punktum.Når det er gitt forskudd på utbetaling eller à kontoutbetaling etter [§ 14](forskrift/2014-05-30-677/§14), og forskudds- eller à kontoutbetaling overstiger det endelig fastsatte erstatningsbeløpet (etter første ledd fjerde punktum).
+I [§ 17](forskrift/2014-05-30-677/§17) er det fire grunnlag for tilbakekreving:
+
+- Når en dyreeier har mottatt erstatning i strid med redelighet og god tro etter bestemmelsens første ledd, første punktum.
+- Når dyreeier har gitt feilaktige, mangelfulle eller misvisende opplysninger etter første ledd, annet punktum.
+- Når utbetalingen skyldes feil fra myndighetenes side etter første ledd, tredje punktum.
+- Når det er gitt forskudd på utbetaling eller à kontoutbetaling etter [§ 14](forskrift/2014-05-30-677/§14), og forskudds- eller à kontoutbetaling overstiger det endelig fastsatte erstatningsbeløpet (etter første ledd fjerde punktum).
 
 Disse fire alternative grunnlagene for tilbakekreving fra dyreeier er uttømmende. Tilbakekreving overfor en dyreeier skal bare skje dersom minst ett av grunnlagene er til stede.
 

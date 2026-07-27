@@ -15,7 +15,7 @@ xml_hash: "9919c31d6d4283d6d9ecb9ef2c31d8ea4a456740279149c1814d5d17ce577d71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,16 @@ Tilskuddet skal bidra til å jevne ut transportkostnadene ved frakt av storfe, s
 
 ## § 2. Definisjoner
 
-Ved beregningen av satsene i denne forskriften menes med*store slakterianlegg:* Slakterianlegg som årlig slakter mer enn 1500 tonn storfe, småfe og gris*små slakterianlegg:* Slakterianlegg som årlig slakter mindre enn eller akkurat 1500 tonn storfe, småfe og gris*mobilt slakterianlegg:* Slakterianlegg som fraktes til produsenten*storfe:* Ku, okse, kvige og kalv*småfe:* Søye, vær og lam, geit, bukk og kje*gris:* Purke, råne og slaktegris over 20 kg*kommunesenter:* Rådhuset i den kommunen hvor husdyrprodusenten har sitt driftssenter*referanseperiode:* 1. juli–30. juni.
+Ved beregningen av satsene i denne forskriften menes med
+
+- *store slakterianlegg:* Slakterianlegg som årlig slakter mer enn 1500 tonn storfe, småfe og gris
+- *små slakterianlegg:* Slakterianlegg som årlig slakter mindre enn eller akkurat 1500 tonn storfe, småfe og gris
+- *mobilt slakterianlegg:* Slakterianlegg som fraktes til produsenten
+- *storfe:* Ku, okse, kvige og kalv
+- *småfe:* Søye, vær og lam, geit, bukk og kje
+- *gris:* Purke, råne og slaktegris over 20 kg
+- *kommunesenter:* Rådhuset i den kommunen hvor husdyrprodusenten har sitt driftssenter
+- *referanseperiode:* 1. juli–30. juni.
 
 ## § 3. Tilskuddssatser for frakt til små slakterianlegg
 

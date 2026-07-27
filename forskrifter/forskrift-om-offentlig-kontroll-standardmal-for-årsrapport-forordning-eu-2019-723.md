@@ -17,7 +17,7 @@ xml_hash: "efb34ef2764eb46b88d724c417979974580e9d37dd8a20f9c7b24f99014d65be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,9 @@ I denne forordning fastsettes standardskjemaet for opplysninger og data som skal
 
 Medlemsstatene skal sende inn de opplysningene og dataene som er nevnt i artikkel 113 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625), ved hjelp av standardskjemaet i vedlegget til denne forordningen. Dette skal gjøres ved å bruke den elektroniske versjonen av standardskjemaet i det databaserte informasjonsstyringssystemet for offentlig kontroll (IMSOC). Imidlertid skal de opplysningene og dataene om økologisk produksjon og merking av økologiske produkter som er nevnt i del II avsnitt 9 i skjemaet, sendes inn via informasjonssystemet for økologisk landbruk (OFIS).
 
-Medlemsstatene skal deretter bekrefte i den elektroniske versjonen av standardskjemaet i IMSOC at del II avsnitt 9 i skjemaet er sendt inn via OFIS.◄**M1**
+Medlemsstatene skal deretter bekrefte i den elektroniske versjonen av standardskjemaet i IMSOC at del II avsnitt 9 i skjemaet er sendt inn via OFIS.
+
+◄**M1**
 
 ### Artikkel 3. Oppheving
 

@@ -15,7 +15,7 @@ xml_hash: "6245647ee98bbaf2795fc7d8e2c8cf87c19eaf173f5ebfd3ee1e72f6c3e94f1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,9 @@ eu_basis: []
 
 ## § 1.
 
-1\. I statsrådet, som består av så mange medlemmer som til enhver tid bestemt, er statsministeren formann og kan som sådan forlange av ethvert av Regjeringens departementer enhver oplysning som han måtte finne anledning til, om enhver under vedkommende departement hørende sak.Statsministeren skal påse, at der – bortsett fra uforutsette forfallstilfelle – nårsomhelst med kort varsel kan tilkalles det fornødne antall statsråder til avholdelse av beslutningsdyktig statsråd.
+1\. I statsrådet, som består av så mange medlemmer som til enhver tid bestemt, er statsministeren formann og kan som sådan forlange av ethvert av Regjeringens departementer enhver oplysning som han måtte finne anledning til, om enhver under vedkommende departement hørende sak.
+
+Statsministeren skal påse, at der – bortsett fra uforutsette forfallstilfelle – nårsomhelst med kort varsel kan tilkalles det fornødne antall statsråder til avholdelse av beslutningsdyktig statsråd.
 
 2\. Ethvert av statsraadets medlemmer er i regelen chef for et departement.
 
@@ -32,7 +34,17 @@ eu_basis: []
 
 ## § 2.
 
-1\. Regjeringens departementer er indtil videre:1For Utenrikske Anliggender.For Kirke- og Undervisningsvæsenet.For Justis- og Politivæsenet.For Handel, Sjøfart og Industri.For Landbruksvæsenet.For de Offentlige Arbeider.For Finans- og Toldvæsenet.For Forsvarsvæsenet.For Revisionsvæsenet.
+1\. Regjeringens departementer er indtil videre:1
+
+1. For Utenrikske Anliggender.
+2. For Kirke- og Undervisningsvæsenet.
+3. For Justis- og Politivæsenet.
+4. For Handel, Sjøfart og Industri.
+5. For Landbruksvæsenet.
+6. For de Offentlige Arbeider.
+7. For Finans- og Toldvæsenet.
+8. For Forsvarsvæsenet.
+9. For Revisionsvæsenet.
 
 2\. Den nærmere fordeling av forretningene mellem departementerne foregaar i overensstemmelse med de forskjellige forskrifter, som derom til enhver tid er gjeldende.
 
@@ -82,7 +94,14 @@ Som departementchefer paaligger det statsraaderne, enhver for sit departements v
 
 ## § 5.
 
-1\. Følgende saker kan avgjøres av vedkommende departement uten at foredrages for Kongen eller den Midlertidige Regjering:De som vedkommer regnskapsvæsenet samt regnskapers revision og decision i overensstemmelse med gjældende lover, reglementer og bestemmelser.Anvisninger av penger til utgifter og uttællinger overensstemmende med gjeldende lover og bevilgninger.Saker, som kun vedkommer en bestemt iverksættelse av love og anordninger, av Stortinget fattede beslutninger eller av resolutioner, git av Kongen eller den Midlertidige Regjering.Saker som ved love eller anordninger er overlatt til vedkommende departements avgjørelse eller som ved særskilte kongelige resolutioner er eller herefter maatte bli bestemt avgjort paa saadan måte.Saker, som, om de end ikke likefrem hører under nogen av de foran nævnte, dog hittil stadig har været avgjort av vedkommende departement.Oppnevning av delegasjoner og utsendinger, når vervet er av kort varighet, og oppnevning av utredningsutvalg.
+1\. Følgende saker kan avgjøres av vedkommende departement uten at foredrages for Kongen eller den Midlertidige Regjering:
+
+1. De som vedkommer regnskapsvæsenet samt regnskapers revision og decision i overensstemmelse med gjældende lover, reglementer og bestemmelser.
+2. Anvisninger av penger til utgifter og uttællinger overensstemmende med gjeldende lover og bevilgninger.
+3. Saker, som kun vedkommer en bestemt iverksættelse av love og anordninger, av Stortinget fattede beslutninger eller av resolutioner, git av Kongen eller den Midlertidige Regjering.
+4. Saker som ved love eller anordninger er overlatt til vedkommende departements avgjørelse eller som ved særskilte kongelige resolutioner er eller herefter maatte bli bestemt avgjort paa saadan måte.
+5. Saker, som, om de end ikke likefrem hører under nogen av de foran nævnte, dog hittil stadig har været avgjort av vedkommende departement.
+6. Oppnevning av delegasjoner og utsendinger, når vervet er av kort varighet, og oppnevning av utredningsutvalg.
 
 2\. Vedkommende departementssjef kan bringe en sak som han etter bestemmelsen foran selv kan avgjøre, inn for Kongen, når han finner at det bør gjøres på grunn av sakens særegne betydning eller tvilsomhet.
 
@@ -96,6 +115,13 @@ Alle saker, hvorom det efter lovgivningens bud eller efter deres beskaffenhet ti
 
 1\. Statssekretæren opbevarer rikets segl og er ansvarlig for, at det ikke uten behørig bemyndigelse blir påtrykt noget dokument. Han har å utferdige og parafere alle akter, bestallinger m.v. som underskrives av Kongen eller av den Midlertidige Regjering, samt å innestå for, at disse akter m.v. er i overensstemmelse med de falne resolusjoner eller de lovbestemmelser efter hvilke dokumentene er utferdiget.
 
-2\. Fremdeles påligger det statssekretæren som chef for Statssekretariatet:Å opbevare de protokoller som omhandles i [§ 4](lov/1909-03-23/§4) nr. 3-7. De almindelige statsrådsprotokoller skal han la innbinde i kronologisk orden og oversende til Stortinget. De hemmelige statsrådsprotokoller over diplomatiske saker og militære kommandosaker skal forbli under statssekretærens personlige forvaring, inntil de kan sendes til den ved Grunnlovens § 75 f. anordnede særlige komité av Odelstinget.1Å motta og åpne alle innløpende saker, forsåvidt de ikke har utskrift til et bestemt departement, og oversende dem til rette vedkommende.Å påse, at alt stoff som skal tas inn i Lovtidendens første avdeling, snarest mulig føres inn av tidendens redaktør.Å la føre fornødne journaler og fortegnelser over de ekspedisjoner og akter som passerer Statssekretariatet eller der utferdiges, samt kopibok for utgående brev.Å avgi til ethvert departement, ethvert for sitt vedkommende, meddelse om de beslutninger som er fattet av Kongen eller den Midlertidige Regjering samt, såfremt beslutningen avviker fra vedkommende departements innstilling, grunnene for den trufne avgjørelse overensstemmende med hvad der i så henseende er tilført statsrådsprotokollen.Å paase, at Statssekretariatets tjenestemenn nøie overholder sine plikter såvel med hensyn til tjenesten som like overfor almenheten.
+2\. Fremdeles påligger det statssekretæren som chef for Statssekretariatet:
+
+1. Å opbevare de protokoller som omhandles i [§ 4](lov/1909-03-23/§4) nr. 3-7. De almindelige statsrådsprotokoller skal han la innbinde i kronologisk orden og oversende til Stortinget. De hemmelige statsrådsprotokoller over diplomatiske saker og militære kommandosaker skal forbli under statssekretærens personlige forvaring, inntil de kan sendes til den ved Grunnlovens § 75 f. anordnede særlige komité av Odelstinget.1
+2. Å motta og åpne alle innløpende saker, forsåvidt de ikke har utskrift til et bestemt departement, og oversende dem til rette vedkommende.
+3. Å påse, at alt stoff som skal tas inn i Lovtidendens første avdeling, snarest mulig føres inn av tidendens redaktør.
+4. Å la føre fornødne journaler og fortegnelser over de ekspedisjoner og akter som passerer Statssekretariatet eller der utferdiges, samt kopibok for utgående brev.
+5. Å avgi til ethvert departement, ethvert for sitt vedkommende, meddelse om de beslutninger som er fattet av Kongen eller den Midlertidige Regjering samt, såfremt beslutningen avviker fra vedkommende departements innstilling, grunnene for den trufne avgjørelse overensstemmende med hvad der i så henseende er tilført statsrådsprotokollen.
+6. Å paase, at Statssekretariatets tjenestemenn nøie overholder sine plikter såvel med hensyn til tjenesten som like overfor almenheten.
 
 1 Inkurie: Skal vel være Stortinget etter grlbest. 20 feb 2007.

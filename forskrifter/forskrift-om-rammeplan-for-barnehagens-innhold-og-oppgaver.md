@@ -130,13 +130,29 @@ Barnehagens fysiske miljø skal være trygt og utfordrende og gi barna allsidige
 
 Omsorg er en forutsetning for barnas trygghet og trivsel, og for utvikling av empati og nestekjærlighet. Barnehagen skal gi barna mulighet til å utvikle tillit til seg selv og andre. I barnehagen skal alle barna oppleve å bli sett, forstått, respektert og få den hjelp og støtte de har behov for. Barnehagen skal aktivt legge til rette for omsorgsfulle relasjoner mellom barna og personalet og mellom barna, som grunnlag for trivsel, glede og mestring. Personalet skal arbeide for et miljø som ikke bare gjør barna til mottakere av omsorg, men som også verdsetter barnas egne omsorgshandlinger.
 
-Personalet skalivareta barnas behov for fysisk omsorg, inkludert behov for ro og hvilelegge til rette for at barna kan knytte seg til personalet og til hverandresørge for at alle barn opplever trygghet, tilhørighet og trivsel i barnehagenmøte alle barn med åpenhet, varme og interesse og vise omsorg for hvert enkelt barnvære lydhør for barnas uttrykk og imøtekomme deres behov for omsorg med sensitivitetstøtte og oppmuntre barna til å vise omsorg for andre og til selv å kunne ta imot omsorgbidra til at barna kan utvikle tillit til seg selv og andre.
+Personalet skal
+
+- ivareta barnas behov for fysisk omsorg, inkludert behov for ro og hvile
+- legge til rette for at barna kan knytte seg til personalet og til hverandre
+- sørge for at alle barn opplever trygghet, tilhørighet og trivsel i barnehagen
+- møte alle barn med åpenhet, varme og interesse og vise omsorg for hvert enkelt barn
+- være lydhør for barnas uttrykk og imøtekomme deres behov for omsorg med sensitivitet
+- støtte og oppmuntre barna til å vise omsorg for andre og til selv å kunne ta imot omsorg
+- bidra til at barna kan utvikle tillit til seg selv og andre.
 
 ### Barnehagen skal ivareta barnas behov for lek
 
 Leken skal ha en sentral plass i barnehagen, og lekens egenverdi skal anerkjennes. Barnehagen skal gi gode vilkår for lek, vennskap og barnas egen kultur. Leken skal være en arena for barnas utvikling og læring, og for sosial og språklig samhandling. Barnehagen skal inspirere til og gi rom for ulike typer lek både ute og inne. Barnehagen skal bidra til at alle barn kan oppleve glede, humor, spenning og engasjement gjennom lek – alene og sammen med andre.
 
-Personalet skalorganisere rom, tid og lekemateriale for å inspirere til ulike typer lekbidra til at barna får felles erfaringer som grunnlag for lek og legge til rette for utvikling av leketemaerfremme et inkluderende miljø der alle barna kan delta i lek og erfare glede i lekobservere, analysere, støtte, delta i og berike leken på barnas premisserveilede barna hvis leken medfører uheldige samspillsmønstrevære bevisst på og vurdere egen rolle og deltakelse i barnas lekta initiativ til lek og aktivt bidra til at alle kommer inn i leken.
+Personalet skal
+
+- organisere rom, tid og lekemateriale for å inspirere til ulike typer lek
+- bidra til at barna får felles erfaringer som grunnlag for lek og legge til rette for utvikling av leketemaer
+- fremme et inkluderende miljø der alle barna kan delta i lek og erfare glede i lek
+- observere, analysere, støtte, delta i og berike leken på barnas premisser
+- veilede barna hvis leken medfører uheldige samspillsmønstre
+- være bevisst på og vurdere egen rolle og deltakelse i barnas lek
+- ta initiativ til lek og aktivt bidra til at alle kommer inn i leken.
 
 ### Barnehagen skal fremme danning
 
@@ -144,25 +160,53 @@ Barnehagen skal støtte barna i å forholde seg prøvende og nysgjerrig til omve
 
 I barnehagen skal barna få delta i beslutningsprosesser og utvikling av felles innhold. Barna skal støttes i å uttrykke synspunkter og skape mening i den verden de er en del av. Gjennom samspill, dialog, lek og utforsking skal barnehagen bidra til at barna utvikler kritisk tenkning, etisk vurderingsevne, evne til å yte motstand og handlingskompetanse, slik at de kan bidra til endringer.
 
-Personalet skaltilrettelegge for meningsfulle opplevelser og støtte barnas identitetsutvikling og positive selvforståelsestøtte barnas aktivitet, engasjement og deltakelse i fellesskapetsynliggjøre og verdsette ulike behov, meninger og perspektiver i fellesskapetlegge merke til, anerkjenne og følge opp barnas perspektiver og handlingerutfordre barnas tenkning og invitere dem inn i utforskende samtalersynliggjøre og fremheve mangfold og ulikhet som grunnlag for opplevelser, utforsking og læring.
+Personalet skal
+
+- tilrettelegge for meningsfulle opplevelser og støtte barnas identitetsutvikling og positive selvforståelse
+- støtte barnas aktivitet, engasjement og deltakelse i fellesskapet
+- synliggjøre og verdsette ulike behov, meninger og perspektiver i fellesskapet
+- legge merke til, anerkjenne og følge opp barnas perspektiver og handlinger
+- utfordre barnas tenkning og invitere dem inn i utforskende samtaler
+- synliggjøre og fremheve mangfold og ulikhet som grunnlag for opplevelser, utforsking og læring.
 
 ### Barnehagen skal fremme læring
 
 I barnehagen skal barna oppleve et stimulerende miljø som støtter opp om deres lyst til å leke, utforske, lære og mestre. Barnehagen skal introdusere nye situasjoner, temaer, fenomener, materialer og redskaper som bidrar til meningsfull samhandling. Barnas nysgjerrighet, kreativitet og vitebegjær skal anerkjennes, stimuleres og legges til grunn for deres læringsprosesser. Barna skal få undersøke, oppdage og forstå sammenhenger, utvide perspektiver og få ny innsikt. Barna skal få bruke hele kroppen og alle sanser i sine læringsprosesser. Barnehagen skal bidra til læringsfellesskap der barna skal få bidra i egen og andres læring.
 
-Personalet skalsørge for et inkluderende fellesskap og legge til rette for at barn kan bidra i egen og andres læringlegge til rette for helhetlige læringsprosesser som fremmer barnas trivsel og allsidige utviklingvære oppmerksomme på barnas interesser og engasjement og legge til rette for læring i ulike situasjoner og aktiviteterstøtte og berike barnas initiativ, undring, nysgjerrighet, kreativitet, læringslyst og tiltro til egne evnerutvide barnas erfaringer og sørge for progresjon og utvikling i barnehagens innholdstøtte barnas refleksjoner rundt situasjoner, temaer og fenomener og skape forståelse og mening sammen med demsørge for at alle barn kan få rike og varierte opplevelser og erfaringer, utfordringer og mestringsopplevelser.
+Personalet skal
+
+- sørge for et inkluderende fellesskap og legge til rette for at barn kan bidra i egen og andres læring
+- legge til rette for helhetlige læringsprosesser som fremmer barnas trivsel og allsidige utvikling
+- være oppmerksomme på barnas interesser og engasjement og legge til rette for læring i ulike situasjoner og aktiviteter
+- støtte og berike barnas initiativ, undring, nysgjerrighet, kreativitet, læringslyst og tiltro til egne evner
+- utvide barnas erfaringer og sørge for progresjon og utvikling i barnehagens innhold
+- støtte barnas refleksjoner rundt situasjoner, temaer og fenomener og skape forståelse og mening sammen med dem
+- sørge for at alle barn kan få rike og varierte opplevelser og erfaringer, utfordringer og mestringsopplevelser.
 
 ### Barnehagen skal fremme vennskap og fellesskap
 
 Sosial kompetanse er en forutsetning for å fungere godt sammen med andre og omfatter ferdigheter, kunnskaper og holdninger som utvikles gjennom sosialt samspill. I barnehagen skal alle barn kunne erfare å være betydningsfulle for fellesskapet og å være i positivt samspill med barn og voksne. Barnehagen skal aktivt legge til rette for utvikling av vennskap og sosialt fellesskap. Barnas selvfølelse skal støttes, samtidig som de skal få hjelp til å mestre balansen mellom å ivareta egne behov og det å ta hensyn til andres behov.
 
-Personalet skalstøtte barnas initiativ til samspill og bidra til at alle kan få leke med andre, oppleve vennskap og lære å beholde vennersamtale om normer for samhandling og invitere barna til å utforme normer for samhandling i fellesskapstøtte barna i å ta andres perspektiv, se en sak fra flere synsvinkler og reflektere over egne og andres følelser, opplevelser og meningerstøtte barna i å sette egne grenser, respektere andres grenser og finne løsninger i konfliktsituasjonerforebygge, stoppe og følge opp diskriminering, utestenging, mobbing, krenkelser og uheldige samspillsmønstre.
+Personalet skal
+
+- støtte barnas initiativ til samspill og bidra til at alle kan få leke med andre, oppleve vennskap og lære å beholde venner
+- samtale om normer for samhandling og invitere barna til å utforme normer for samhandling i fellesskap
+- støtte barna i å ta andres perspektiv, se en sak fra flere synsvinkler og reflektere over egne og andres følelser, opplevelser og meninger
+- støtte barna i å sette egne grenser, respektere andres grenser og finne løsninger i konfliktsituasjoner
+- forebygge, stoppe og følge opp diskriminering, utestenging, mobbing, krenkelser og uheldige samspillsmønstre.
 
 ### Barnehagen skal fremme kommunikasjon og språk
 
 Barnehagen skal være bevisst på at kommunikasjon og språk påvirker og påvirkes av alle sider ved barnets utvikling. Gjennom dialog og samspill skal barna støttes i å kommunisere, medvirke, lytte, forstå og skape mening. Barnehagen skal anerkjenne og verdsette barnas ulike kommunikasjonsuttrykk og språk, herunder tegnspråk. Alle barn skal få god språkstimulering gjennom barnehagehverdagen, og alle barn skal få delta i aktiviteter som fremmer kommunikasjon og en helhetlig språkutvikling. I barnehager for samiske barn i samiske distrikt skal barnehagen fremme barnas samiskspråklige kompetanse.
 
-Personalet skalanerkjenne og respondere på barnas ulike verbale og non-verbale uttrykk og støtte deres språkutviklingstimulere barns verbale og non-verbale kommunikasjon og legge til rette for at alle barn involveres i samspill og i samtalersørge for at alle barn får varierte og positive erfaringer med å bruke språk som kommunikasjonsmiddel, som redskap for tenkning og som uttrykk for egne tanker og følelservære bevisst på sine roller som språklige forbilder og være lydhøre i kommunikasjon med alle barnfølge med på barnas kommunikasjon og språk og fange opp og støtte barn som har ulike former for kommunikasjonsvansker, som er lite språklig aktive, eller som har sen språkutviklingbidra til at språklig mangfold blir en berikelse for hele barnegruppen, støtte flerspråklige barn i å bruke sitt morsmål og samtidig aktivt fremme og utvikle barnas norsk-/samiskspråklige kompetanse.
+Personalet skal
+
+- anerkjenne og respondere på barnas ulike verbale og non-verbale uttrykk og støtte deres språkutvikling
+- stimulere barns verbale og non-verbale kommunikasjon og legge til rette for at alle barn involveres i samspill og i samtaler
+- sørge for at alle barn får varierte og positive erfaringer med å bruke språk som kommunikasjonsmiddel, som redskap for tenkning og som uttrykk for egne tanker og følelser
+- være bevisst på sine roller som språklige forbilder og være lydhøre i kommunikasjon med alle barn
+- følge med på barnas kommunikasjon og språk og fange opp og støtte barn som har ulike former for kommunikasjonsvansker, som er lite språklig aktive, eller som har sen språkutvikling
+- bidra til at språklig mangfold blir en berikelse for hele barnegruppen, støtte flerspråklige barn i å bruke sitt morsmål og samtidig aktivt fremme og utvikle barnas norsk-/samiskspråklige kompetanse.
 
 > Endret ved [forskrift 8 mai 2017 nr. 588](forskrift/2017-05-08-588) (i kraft 1 aug 2017).
 
@@ -268,19 +312,40 @@ Barnehagen skal sørge for at barn som mottar spesialpedagogisk hjelp, inkludere
 
 Arbeidsmåtene skal ivareta barnas behov for omsorg og lek, fremme læring og danning og gi barn mulighet for medvirkning. Personalet skal ta i bruk varierte arbeidsmåter, og de skal tilpasses til enkeltbarn, barnegruppen og lokalmiljøet. Valg av arbeidsmåter gir muligheter for å gjøre barnehagens innhold spennende og variert. Arbeidsmåtene kan bidra til å skape engasjement, interesse og motivasjon og gir mulighet for å tilføre nye erfaringer og opplevelser i barnehagen.
 
-Personalet skalta utgangspunkt i barnas erfaringer, interesser, synspunkter og initiativ i barnehagens daglige arbeid og ved valg og gjennomføring av temaer og prosjekterbygge på kreativitet og lek og være åpne for improvisasjon og barns medvirkningveksle mellom spontane og planlagte aktiviteterstimulere barnas undring og evne til å stille spørsmål, søke opplevelser, ta initiativ og mestre nye tinggi barna varierte inntrykk og mulighet til å uttrykke seg på forskjellige måterarbeide tverrfaglig og helhetlig og se de ulike delene i rammeplanen i sammenhenginkludere nærmiljø og lokale forhold ved planlegging og gjennomføring av aktiviteterjevnlig vurdere om valg av arbeidsmåter bidrar til å realisere rammeplanen.
+Personalet skal
+
+- ta utgangspunkt i barnas erfaringer, interesser, synspunkter og initiativ i barnehagens daglige arbeid og ved valg og gjennomføring av temaer og prosjekter
+- bygge på kreativitet og lek og være åpne for improvisasjon og barns medvirkning
+- veksle mellom spontane og planlagte aktiviteter
+- stimulere barnas undring og evne til å stille spørsmål, søke opplevelser, ta initiativ og mestre nye ting
+- gi barna varierte inntrykk og mulighet til å uttrykke seg på forskjellige måter
+- arbeide tverrfaglig og helhetlig og se de ulike delene i rammeplanen i sammenheng
+- inkludere nærmiljø og lokale forhold ved planlegging og gjennomføring av aktiviteter
+- jevnlig vurdere om valg av arbeidsmåter bidrar til å realisere rammeplanen.
 
 ### Progresjon
 
 Progresjon i barnehagen innebærer at alle barna skal utvikle seg, lære og oppleve fremgang. Alle barna skal kunne oppleve progresjon i barnehagens innhold, og barnehagen skal legge til rette for at barn i alle aldersgrupper får varierte leke-, aktivitets- og læringsmuligheter. Personalet skal utvide og bygge videre på barnas interesser og gi barna varierte erfaringer og opplevelser. Barnehagen skal legge til rette for progresjon gjennom valg av pedagogisk innhold, arbeidsmåter, leker, materialer og utforming av fysisk miljø. Barn skal få utfordringer tilpasset sine erfaringer, interesser, kunnskaper og ferdigheter.
 
-Personalet skaloppdage, følge opp og utvide det barna allerede er opptatt avplanlegge og tilrettelegge for progresjon i barnehagens innhold for alle barnbidra til at barna får mestringsopplevelser og samtidig har noe å strekke seg etterlegge til rette for fordypning, gjenkjennelse og gjentakelse i barnehagens innhold og arbeidsmåterintrodusere nye perspektiver og tilrettelegge for nye opplevelser og erfaringersørge for progresjon gjennom bevisst bruk av materialer, bøker, leker, verktøy og utstyr og gjøre disse tilgjengelig for barna.
+Personalet skal
+
+- oppdage, følge opp og utvide det barna allerede er opptatt av
+- planlegge og tilrettelegge for progresjon i barnehagens innhold for alle barn
+- bidra til at barna får mestringsopplevelser og samtidig har noe å strekke seg etter
+- legge til rette for fordypning, gjenkjennelse og gjentakelse i barnehagens innhold og arbeidsmåter
+- introdusere nye perspektiver og tilrettelegge for nye opplevelser og erfaringer
+- sørge for progresjon gjennom bevisst bruk av materialer, bøker, leker, verktøy og utstyr og gjøre disse tilgjengelig for barna.
 
 ### Barnehagens digitale praksis
 
 Barnehagens digitale praksis skal bidra til barnas lek, kreativitet og læring. Ved bruk av digitale verktøy i det pedagogiske arbeidet skal dette støtte opp om barns læreprosesser og bidra til å oppfylle rammeplanens føringer for et rikt og allsidig læringsmiljø for alle barn. Ved bruk av digitale verktøy skal personalet være aktive sammen med barna. Samtidig skal digitale verktøy brukes med omhu og ikke dominere som arbeidsmåte. Barnehagen skal utøve digital dømmekraft og bidra til at barna utvikler en begynnende etisk forståelse knyttet til digitale medier.
 
-Personalet skalutøve digital dømmekraft når det gjelder informasjonssøk, ha et bevisst forhold til opphavsrett og kildekritikk og ivareta barnas personvernlegge til rette for at barn utforsker, leker, lærer og selv skaper noe gjennom digitale uttrykksformervurdere relevans og egnethet og delta i barnas mediebrukutforske kreativ og skapende bruk av digitale verktøy sammen med barna.
+Personalet skal
+
+- utøve digital dømmekraft når det gjelder informasjonssøk, ha et bevisst forhold til opphavsrett og kildekritikk og ivareta barnas personvern
+- legge til rette for at barn utforsker, leker, lærer og selv skaper noe gjennom digitale uttrykksformer
+- vurdere relevans og egnethet og delta i barnas mediebruk
+- utforske kreativ og skapende bruk av digitale verktøy sammen med barna.
 
 ## 9 Barnehagens fagområder
 
@@ -294,9 +359,25 @@ Gjennom arbeid med fagområdet skal barnehagen bidra til at barna får utforske 
 
 I barnehagen skal barna få mulighet til å erfare ulike formidlingsmåter av tekster og fortellinger, som kilde til estetiske opplevelser, kunnskap, refleksjon og møter med språk og kultur. Personalet skal invitere til utforsking av både muntlige språk og skriftspråk.
 
-Gjennom arbeid med kommunikasjon, språk og tekst skal barnehagen bidra til at barnauttrykker sine følelser, tanker, meninger og erfaringer på ulike måterbruker språk til å skape relasjoner, delta i lek og som redskap til å løse konfliktervidereutvikler sin begrepsforståelse og bruker et variert ordforrådleker, improviserer og eksperimenterer med rim, rytme, lyder og ordmøter et mangfold av eventyr, fortellinger, sagn og uttrykksformeropplever spenning og glede ved høytlesning, fortelling, sang og samtaleutforsker og gjør seg erfaringer med ulike skriftspråksuttrykk, som lekeskrift, tegning og bokstaver, gjennom lese- og skriveaktiviteter.
+Gjennom arbeid med kommunikasjon, språk og tekst skal barnehagen bidra til at barna
 
-Personalet skalskape et variert språkmiljø der barna får mulighet til å oppleve glede ved å bruke språk og kommunisere med andresynliggjøre språklig og kulturelt mangfold, støtte barnas ulike kulturelle uttrykk og identiteter og fremme mangfold i kommunikasjon, språk og andre uttrykksformerinvitere til ulike typer samtaler der barna får anledning til å fortelle, undre seg, reflektere og stille spørsmåloppmuntre barna til å fabulere og leke med språk, lyd, rim og rytmestøtte barnas lek med og utforsking av skriftspråketbruke varierte formidlingsformer og tilby et mangfold av bøker, sanger, bilder og uttrykksformerinkludere alle barna i språkstimulerende aktiviteter.
+- uttrykker sine følelser, tanker, meninger og erfaringer på ulike måter
+- bruker språk til å skape relasjoner, delta i lek og som redskap til å løse konflikter
+- videreutvikler sin begrepsforståelse og bruker et variert ordforråd
+- leker, improviserer og eksperimenterer med rim, rytme, lyder og ord
+- møter et mangfold av eventyr, fortellinger, sagn og uttrykksformer
+- opplever spenning og glede ved høytlesning, fortelling, sang og samtale
+- utforsker og gjør seg erfaringer med ulike skriftspråksuttrykk, som lekeskrift, tegning og bokstaver, gjennom lese- og skriveaktiviteter.
+
+Personalet skal
+
+- skape et variert språkmiljø der barna får mulighet til å oppleve glede ved å bruke språk og kommunisere med andre
+- synliggjøre språklig og kulturelt mangfold, støtte barnas ulike kulturelle uttrykk og identiteter og fremme mangfold i kommunikasjon, språk og andre uttrykksformer
+- invitere til ulike typer samtaler der barna får anledning til å fortelle, undre seg, reflektere og stille spørsmål
+- oppmuntre barna til å fabulere og leke med språk, lyd, rim og rytme
+- støtte barnas lek med og utforsking av skriftspråket
+- bruke varierte formidlingsformer og tilby et mangfold av bøker, sanger, bilder og uttrykksformer
+- inkludere alle barna i språkstimulerende aktiviteter.
 
 ### Kropp, bevegelse, mat og helse
 
@@ -304,9 +385,24 @@ Vaner og handlingsmønstre tar form allerede fra tidlig alder. Gode vaner som ti
 
 Gjennom arbeid med fagområdet skal barna få mulighet til å sanse, oppleve, leke, lære og skape med kroppen som utgangspunkt. Gjennom medvirkning i mat- og måltidsaktiviteter skal barna motiveres til å spise sunn mat og få grunnleggende forståelse for hvordan sunn mat kan bidra til god helse.
 
-Gjennom arbeid med kropp, bevegelse, mat og helse skal barnehagen bidra til at barnaopplever trivsel, glede og mestring ved allsidige bevegelseserfaringer, inne og ute, året rundtblir kjent med egne behov, får kjennskap til menneskekroppen og utvikler gode vaner for hygiene og et variert kostholdvidereutvikler motoriske ferdigheter, kroppsbeherskelse, koordinasjon og fysiske egenskaperopplever å vurdere og mestre risikofylt lek gjennom kroppslige utfordringerblir trygge på egen kropp, får en positiv oppfatning av seg selv og blir kjent med egne følelsersetter grenser for egen kropp og respekterer andres grenserfår innsikt i matens opprinnelse, produksjon av matvarer og veien fra mat til måltid.
+Gjennom arbeid med kropp, bevegelse, mat og helse skal barnehagen bidra til at barna
 
-Personalet skalvære aktive og tilstedeværende, støtte og utfordre barna til variert kroppslig lek og anerkjenne barnets mestringbidra til at barna kan tilegne seg gode vaner, holdninger og kunnskaper om kost, hygiene, aktivitet og hvilegi barna tilgang til varierte og utfordrende bevegelsesmiljøer, sanseopplevelser og kroppslig lek ute og inne, i og utenfor barnehageområdetbidra til at barna utvikler et bevisst forhold til retten til å bestemme over egen kropp og respekt for andres grenserlegge til rette for at måltider og matlaging bidrar til måltidsglede, deltakelse, samtaler og fellesskapsfølelse hos barnakjenne og praktisere nasjonale føringer for helsefremmende og forebyggende tiltak som gjelder barn.
+- opplever trivsel, glede og mestring ved allsidige bevegelseserfaringer, inne og ute, året rundt
+- blir kjent med egne behov, får kjennskap til menneskekroppen og utvikler gode vaner for hygiene og et variert kosthold
+- videreutvikler motoriske ferdigheter, kroppsbeherskelse, koordinasjon og fysiske egenskaper
+- opplever å vurdere og mestre risikofylt lek gjennom kroppslige utfordringer
+- blir trygge på egen kropp, får en positiv oppfatning av seg selv og blir kjent med egne følelser
+- setter grenser for egen kropp og respekterer andres grenser
+- får innsikt i matens opprinnelse, produksjon av matvarer og veien fra mat til måltid.
+
+Personalet skal
+
+- være aktive og tilstedeværende, støtte og utfordre barna til variert kroppslig lek og anerkjenne barnets mestring
+- bidra til at barna kan tilegne seg gode vaner, holdninger og kunnskaper om kost, hygiene, aktivitet og hvile
+- gi barna tilgang til varierte og utfordrende bevegelsesmiljøer, sanseopplevelser og kroppslig lek ute og inne, i og utenfor barnehageområdet
+- bidra til at barna utvikler et bevisst forhold til retten til å bestemme over egen kropp og respekt for andres grenser
+- legge til rette for at måltider og matlaging bidrar til måltidsglede, deltakelse, samtaler og fellesskapsfølelse hos barna
+- kjenne og praktisere nasjonale føringer for helsefremmende og forebyggende tiltak som gjelder barn.
 
 ### Kunst, kultur og kreativitet
 
@@ -314,9 +410,25 @@ Opplevelser med kunst og kultur i barnehagen kan legge grunnlag for tilhørighet
 
 Fagområdet omhandler uttrykksformer som billedkunst og kunsthåndverk, musikk, dans, drama, språk, litteratur, film, arkitektur og design. Barnehagen skal la barna møte ulike kunstneriske og kulturelle uttrykk som gjenspeiler et mangfoldig samfunn og ulike tidsepoker. I arbeid med fagområdet skal personalet stimulere barnas nysgjerrighet, utvide deres forståelse og bidra til undring, undersøkelser, utprøvinger og eksperimentering. Barnehagen må legge til rette for og videreutvikle barnas kreative prosesser og uttrykk.
 
-Gjennom arbeid med kunst, kultur og kreativitet skal barnehagen bidra til at barnahar tilgang til ting, rom og materialer som støtter opp om deres lekende og estetiske uttrykksformertar i bruk fantasi, kreativ tenkning og skapergledebearbeider inntrykk og følelser i møte med kunst, kultur og estetikk gjennom skapende virksomhet ute og innemøter et mangfold av kunstneriske og kulturelle uttrykksformer og utforsker og deltar i kunst- og kulturopplevelser sammen med andrebruker ulike teknikker, materialer, verktøy og teknologi til å uttrykke seg estetiskopplever glede og stolthet over egen kulturell tilhørighet.
+Gjennom arbeid med kunst, kultur og kreativitet skal barnehagen bidra til at barna
 
-Personalet skalsamtale med barna om deres og andres kunstneriske og kulturelle uttrykkgi rom for, støtte og berike barnas bearbeiding av møter med kunst og kulturvære lydhøre, anerkjenne og imøtekomme barns egen tradisjonskultur og barnekulturvære lyttende og oppmerksomme på barnas ulike kulturelle uttrykk, vise respekt for deres ytringsformer og fremme lyst til å gå videre i utforsking av de estetiske områdenemotivere barna til å uttrykke seg gjennom musikk, dans, drama og annen skapende virksomhet, og gi dem mulighet til å utvikle varierte uttrykksformersynliggjøre og skape estetiske dimensjoner i barnehagens inne- og uteromgi barna anledning til å bli kjent med et mangfold av tradisjoner og kunst- og kulturuttrykk fra fortid og samtidbidra til at kulturelt mangfold blir en berikelse for hele barnegruppen.
+- har tilgang til ting, rom og materialer som støtter opp om deres lekende og estetiske uttrykksformer
+- tar i bruk fantasi, kreativ tenkning og skaperglede
+- bearbeider inntrykk og følelser i møte med kunst, kultur og estetikk gjennom skapende virksomhet ute og inne
+- møter et mangfold av kunstneriske og kulturelle uttrykksformer og utforsker og deltar i kunst- og kulturopplevelser sammen med andre
+- bruker ulike teknikker, materialer, verktøy og teknologi til å uttrykke seg estetisk
+- opplever glede og stolthet over egen kulturell tilhørighet.
+
+Personalet skal
+
+- samtale med barna om deres og andres kunstneriske og kulturelle uttrykk
+- gi rom for, støtte og berike barnas bearbeiding av møter med kunst og kultur
+- være lydhøre, anerkjenne og imøtekomme barns egen tradisjonskultur og barnekultur
+- være lyttende og oppmerksomme på barnas ulike kulturelle uttrykk, vise respekt for deres ytringsformer og fremme lyst til å gå videre i utforsking av de estetiske områdene
+- motivere barna til å uttrykke seg gjennom musikk, dans, drama og annen skapende virksomhet, og gi dem mulighet til å utvikle varierte uttrykksformer
+- synliggjøre og skape estetiske dimensjoner i barnehagens inne- og uterom
+- gi barna anledning til å bli kjent med et mangfold av tradisjoner og kunst- og kulturuttrykk fra fortid og samtid
+- bidra til at kulturelt mangfold blir en berikelse for hele barnegruppen.
 
 ### Natur, miljø og teknologi
 
@@ -324,9 +436,22 @@ Opplevelser og erfaringer i naturen kan fremme forståelse for naturens egenart 
 
 Barnehagen skal legge til rette for at barna kan få et mangfold av naturopplevelser og få oppleve naturen som arena for lek og læring. Barnehagen skal legge til rette for at barna kan forbli nysgjerrige på naturvitenskapelige fenomener, oppleve tilhørighet til naturen og gjøre erfaringer med bruk av teknologi og redskaper.
 
-Gjennom arbeid med natur, miljø og teknologi skal barnehagen bidra til at barnaopplever og utforsker naturen og naturens mangfoldfår gode opplevelser med friluftsliv året rundtopplever, utforsker og eksperimenterer med naturfenomener og fysiske loverfår kjennskap til naturen og bærekraftig utvikling, lærer av naturen og utvikler respekt og begynnende forståelse for hvordan de kan ta vare på naturenfår kunnskap om dyr og dyrelivlager konstruksjoner av ulike materialer og utforsker muligheter som ligger i redskaper og teknologifår kjennskap til menneskets livssyklus.
+Gjennom arbeid med natur, miljø og teknologi skal barnehagen bidra til at barna
 
-Personalet skallegge til rette for mangfoldige naturopplevelser og bruke naturen som arena for lek, undring, utforsking og læringgi barna tid og anledning til å stille spørsmål, reflektere og lage egne forklaringer på problemstillinger, og til å delta i samtaler om det de har erfart og opplevdsynliggjøre naturfenomener og reflektere sammen med barna om sammenhenger i naturenutforske og eksperimentere med teknologi og naturfenomener sammen med barna.
+- opplever og utforsker naturen og naturens mangfold
+- får gode opplevelser med friluftsliv året rundt
+- opplever, utforsker og eksperimenterer med naturfenomener og fysiske lover
+- får kjennskap til naturen og bærekraftig utvikling, lærer av naturen og utvikler respekt og begynnende forståelse for hvordan de kan ta vare på naturen
+- får kunnskap om dyr og dyreliv
+- lager konstruksjoner av ulike materialer og utforsker muligheter som ligger i redskaper og teknologi
+- får kjennskap til menneskets livssyklus.
+
+Personalet skal
+
+- legge til rette for mangfoldige naturopplevelser og bruke naturen som arena for lek, undring, utforsking og læring
+- gi barna tid og anledning til å stille spørsmål, reflektere og lage egne forklaringer på problemstillinger, og til å delta i samtaler om det de har erfart og opplevd
+- synliggjøre naturfenomener og reflektere sammen med barna om sammenhenger i naturen
+- utforske og eksperimentere med teknologi og naturfenomener sammen med barna.
 
 ### Antall, rom og form
 
@@ -334,9 +459,23 @@ Fagområdet handler om å oppdage, utforske og skape strukturer og hjelper barna
 
 Fagområdet omfatter lekende og undersøkende arbeid med sammenligning, sortering, plassering, orientering, visualisering, former, mønster, tall, telling og måling. Det handler også om å stille spørsmål, resonnere, argumentere og søke løsninger.
 
-Gjennom arbeid med antall, rom og form skal barnehagen bidra til at barnaoppdager og undrer seg over matematiske sammenhengerutvikler forståelse for grunnleggende matematiske begreperleker og eksperimenterer med tall, mengde og telling og får erfaring med ulike måter å uttrykke dette påerfarer størrelser i sine omgivelser og sammenligner dissebruker kroppen og sansene for å utvikle romforståelseundersøker og gjenkjenner egenskaper ved former og sorterer dem på forskjellige måterundersøker og får erfaring med løsning av matematiske problemer og opplever matematikkglede.
+Gjennom arbeid med antall, rom og form skal barnehagen bidra til at barna
 
-Personalet skalbruke matematiske begreper reflektert og aktivt i hverdagenbruke bøker, spill, musikk, digitale verktøy, naturmaterialer, leker og utstyr for å inspirere barna til matematisk tenkningstyrke barnas nysgjerrighet, matematikkglede og interesse for matematiske sammenhenger med utgangspunkt i barnas uttrykksformerlegge til rette for matematiske erfaringer gjennom å berike barnas lek og hverdag med matematiske ideer og utdypende samtalerstimulere og støtte barnas evne og utholdenhet i problemløsing.
+- oppdager og undrer seg over matematiske sammenhenger
+- utvikler forståelse for grunnleggende matematiske begreper
+- leker og eksperimenterer med tall, mengde og telling og får erfaring med ulike måter å uttrykke dette på
+- erfarer størrelser i sine omgivelser og sammenligner disse
+- bruker kroppen og sansene for å utvikle romforståelse
+- undersøker og gjenkjenner egenskaper ved former og sorterer dem på forskjellige måter
+- undersøker og får erfaring med løsning av matematiske problemer og opplever matematikkglede.
+
+Personalet skal
+
+- bruke matematiske begreper reflektert og aktivt i hverdagen
+- bruke bøker, spill, musikk, digitale verktøy, naturmaterialer, leker og utstyr for å inspirere barna til matematisk tenkning
+- styrke barnas nysgjerrighet, matematikkglede og interesse for matematiske sammenhenger med utgangspunkt i barnas uttrykksformer
+- legge til rette for matematiske erfaringer gjennom å berike barnas lek og hverdag med matematiske ideer og utdypende samtaler
+- stimulere og støtte barnas evne og utholdenhet i problemløsing.
 
 ### Etikk, religion og filosofi
 
@@ -344,9 +483,22 @@ Etikk, religion og filosofi er med på å forme måter å oppfatte verden og men
 
 Barnehagen skal la barna få kjennskap til fortellinger, tradisjoner, verdier og høytider i ulike religioner og livssyn og erfaringer med at kulturelle uttrykk har egenverdi. Barnehagen skal skape interesse for samfunnets mangfold og forståelse for andre menneskers livsverden og levesett. Gjennom å samtale om og undre seg over eksistensielle, etiske og filosofiske spørsmål skal barn få anledning til selv å formulere spørsmål, lytte til andre, reflektere og finne svar. Slik skal barnehagen bidra til å legge grunnlag for kritisk tenkning og dømmekraft.
 
-Gjennom arbeid med etikk, religion og filosofi skal barnehagen bidra til at barnafår kjennskap til grunnleggende verdier i kristen og humanistisk arv og tradisjon og blir kjent med religioner og livssyn som er representert i barnehagenutforsker og undrer seg over eksistensielle, etiske og filosofiske spørsmålfår kjennskap til, forstår og reflekterer over grunnleggende normer og verdierfår en forståelse for at det finnes mange ulike måter å forstå ting på og leve sammen påutvikler interesse og respekt for hverandre og forstår verdien av likheter og ulikheter i et fellesskap.
+Gjennom arbeid med etikk, religion og filosofi skal barnehagen bidra til at barna
 
-Personalet skalformidle fortellinger og skape rom for barnas opplevelser, samtaler, erfaringer og tanker om religion, livssyn, etikk og eksistensielle temaerutforske og undre seg over eksistensielle, etiske, religiøse, livssynsmessige og filosofiske spørsmål sammen med barnabidra til å utvikle barnas toleranse, interesse og respekt for hverandre og for mennesker med ulik kulturell, religiøs eller livssynsmessig tilhørighetgi barna kjennskap til og markere merkedager, høytider og tradisjoner i den kristne kulturarven og andre religioner og livssyn som er representert i barnehagensamtale med barna om religiøse og kulturelle uttrykk og være bevisst på hvordan egen deltakelse kan støtte og utvide barnas tenkningidentifisere verdikonflikter i hverdagen, reflektere over verdiprioriteringer og holdninger og ha et bevisst forhold til hvordan disse kommer til uttrykk i arbeidet med barna.
+- får kjennskap til grunnleggende verdier i kristen og humanistisk arv og tradisjon og blir kjent med religioner og livssyn som er representert i barnehagen
+- utforsker og undrer seg over eksistensielle, etiske og filosofiske spørsmål
+- får kjennskap til, forstår og reflekterer over grunnleggende normer og verdier
+- får en forståelse for at det finnes mange ulike måter å forstå ting på og leve sammen på
+- utvikler interesse og respekt for hverandre og forstår verdien av likheter og ulikheter i et fellesskap.
+
+Personalet skal
+
+- formidle fortellinger og skape rom for barnas opplevelser, samtaler, erfaringer og tanker om religion, livssyn, etikk og eksistensielle temaer
+- utforske og undre seg over eksistensielle, etiske, religiøse, livssynsmessige og filosofiske spørsmål sammen med barna
+- bidra til å utvikle barnas toleranse, interesse og respekt for hverandre og for mennesker med ulik kulturell, religiøs eller livssynsmessig tilhørighet
+- gi barna kjennskap til og markere merkedager, høytider og tradisjoner i den kristne kulturarven og andre religioner og livssyn som er representert i barnehagen
+- samtale med barna om religiøse og kulturelle uttrykk og være bevisst på hvordan egen deltakelse kan støtte og utvide barnas tenkning
+- identifisere verdikonflikter i hverdagen, reflektere over verdiprioriteringer og holdninger og ha et bevisst forhold til hvordan disse kommer til uttrykk i arbeidet med barna.
 
 ### Nærmiljø og samfunn
 
@@ -356,6 +508,21 @@ Barnehagen skal bidra til kunnskap om og erfaring med lokale tradisjoner, samfun
 
 Fagområdet skal omfatte kjennskap til samisk språk, kultur og tradisjon og kjennskap til nasjonale minoriteter. Grupper med langvarig tilknytning til landet defineres som nasjonale minoriteter. I Norge er dette kvener/norskfinner, jøder, skogfinner, rom og romanifolk/tatere.
 
-Gjennom arbeid med nærmiljø og samfunn skal barnehagen bidra til at barnaoppmuntres til å medvirke i egen hverdag og utvikler tillit til deltakelse i samfunneterfarer at alle får utfordringer og like muligheter til deltakelseutforsker ulike landskap, blir kjent med institusjoner og steder i nærmiljøet og lærer å orientere seg og ferdes trygtblir kjent med lokalhistorie og lokale tradisjonerblir kjent med ulike tradisjoner, levesett og familieformerblir kjent med at samene er Norges urfolk, og får kjennskap til samisk kulturfår kjennskap til nasjonale minoriteter.
+Gjennom arbeid med nærmiljø og samfunn skal barnehagen bidra til at barna
 
-Personalet skalsørge for at barna erfarer at deres valg og handlinger kan påvirke situasjonen både for dem selv og for andreintrodusere barna for personer, steder og samfunnsinstitusjoner i nærmiljøet for å skape tilhørighet og hjelpe barna med å orientere seg og ferdes trygtgi barna like muligheter, fremme likestilling og motvirke diskriminering, fordommer, stereotypier og rasismegi barna forståelse av at samfunnet er i endring, og at de inngår i en historisk, nåtidig og fremtidig sammenhenggjøre barna kjent med samisk kultur og levesett og knytte det samiske perspektivet til merkedager og hverdagsliv, kunst og kultur og mattradisjonergi barna begynnende kjennskap til betydningen av menneskerettighetene, spesielt [barnekonvensjonen.](lov/1999-05-21-30)
+- oppmuntres til å medvirke i egen hverdag og utvikler tillit til deltakelse i samfunnet
+- erfarer at alle får utfordringer og like muligheter til deltakelse
+- utforsker ulike landskap, blir kjent med institusjoner og steder i nærmiljøet og lærer å orientere seg og ferdes trygt
+- blir kjent med lokalhistorie og lokale tradisjoner
+- blir kjent med ulike tradisjoner, levesett og familieformer
+- blir kjent med at samene er Norges urfolk, og får kjennskap til samisk kultur
+- får kjennskap til nasjonale minoriteter.
+
+Personalet skal
+
+- sørge for at barna erfarer at deres valg og handlinger kan påvirke situasjonen både for dem selv og for andre
+- introdusere barna for personer, steder og samfunnsinstitusjoner i nærmiljøet for å skape tilhørighet og hjelpe barna med å orientere seg og ferdes trygt
+- gi barna like muligheter, fremme likestilling og motvirke diskriminering, fordommer, stereotypier og rasisme
+- gi barna forståelse av at samfunnet er i endring, og at de inngår i en historisk, nåtidig og fremtidig sammenheng
+- gjøre barna kjent med samisk kultur og levesett og knytte det samiske perspektivet til merkedager og hverdagsliv, kunst og kultur og mattradisjoner
+- gi barna begynnende kjennskap til betydningen av menneskerettighetene, spesielt [barnekonvensjonen.](lov/1999-05-21-30)

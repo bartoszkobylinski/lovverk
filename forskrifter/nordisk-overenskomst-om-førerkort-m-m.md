@@ -54,7 +54,12 @@ Hvert land skal oppnevne en myndighet som skal ta i mot underretninger og fører
 
 Motordrevne kjøretøy som er registrert i et av landene, samt tilhengere til kjøretøy kan benyttes i de andre land i inntil ett år. Kjøretøyet skal være i trafikksikkerhetsmessig stand og oppfylle besøkslandets regler om akseltrykk, bruttovekt, lengde, høyde og bredde. Kjøretøyet skal være forsynt med hjemlandets kjennemerke og nasjonalitetsmerke.
 
-Som bevis for registreringen gjelder kjøretøyenes kjennemerke ogfor andre danske kjøretøy enn personbiler, motorsykler og tilhengere koplet til personbiler: registreringsattest.for finske kjøretøy: «registerutdrag» for kjøretøyet, eller registreringsattest som beviser at kjøretøyet kan anvendes i utlandet, eller «interimsinstyg».for norske kjøretøy: vognkort.for andre svenske kjøretøy enn terrengkjøretøy: «kontrollmärke», for svenske lastebiler, biler med tilhengere og terrenggående kjøretøy: i tillegg det sist utstedte «registreringsbeviset» for hvert kjøretøy.
+Som bevis for registreringen gjelder kjøretøyenes kjennemerke og
+
+1. for andre danske kjøretøy enn personbiler, motorsykler og tilhengere koplet til personbiler: registreringsattest.
+2. for finske kjøretøy: «registerutdrag» for kjøretøyet, eller registreringsattest som beviser at kjøretøyet kan anvendes i utlandet, eller «interimsinstyg».
+3. for norske kjøretøy: vognkort.
+4. for andre svenske kjøretøy enn terrengkjøretøy: «kontrollmärke», for svenske lastebiler, biler med tilhengere og terrenggående kjøretøy: i tillegg det sist utstedte «registreringsbeviset» for hvert kjøretøy.
 
 ## Art 8.
 
@@ -62,7 +67,12 @@ Hvis det i et av landene er gitt spesiell tillatelse til midlertidig benyttelse 
 
 Kjøretøyet skal være i trafikksikkerhetsmessig stand og skal oppfylle besøkslandets regler om akseltrykk, totalvekt, lengde, høyde og bredde.
 
-Følgende skal gjelde som bevis for kjøretøy som har fått tillatelsen, iDanmark: «midlertidig registreringsattest» og «grænsenummerskilt».Finland: «Interimistisk registreringsbevis» og tilsvarende skilt, eller «Interimsintyg», og tilsvarende «SF-skylt».Norge: «Vognkort» og tilsvarende skilt for særlig registrering.Sverige: «Turistvagnslicens» og «turistvagnsskylt», bevis for «eksportvagnregistrering» og «eksportvagnskylt» i tillegg til «besiktningsinstrument» eller «interimslicens» og «Interimsskylt».
+Følgende skal gjelde som bevis for kjøretøy som har fått tillatelsen, i
+
+1. Danmark: «midlertidig registreringsattest» og «grænsenummerskilt».
+2. Finland: «Interimistisk registreringsbevis» og tilsvarende skilt, eller «Interimsintyg», og tilsvarende «SF-skylt».
+3. Norge: «Vognkort» og tilsvarende skilt for særlig registrering.
+4. Sverige: «Turistvagnslicens» og «turistvagnsskylt», bevis for «eksportvagnregistrering» og «eksportvagnskylt» i tillegg til «besiktningsinstrument» eller «interimslicens» og «Interimsskylt».
 
 Kjøretøyene skal være merket med hjemlandets nasjonalitetsmerker.
 
@@ -74,7 +84,11 @@ Som legitimasjon for de danske kjøretøyer skal i denne forbindelse «registrer
 
 ## Art 10.
 
-Artiklene 7-9 gjelder under forutsetning av at kjøretøyet kan benyttes i sitt hjemland, og atdet eies av en fysisk person, som normalt ikke har bopel i besøkslandet, eller av en juridisk person som er etablert i et annet land enn besøkslandet,det ikke er eller skal være registrert i besøkslandet,det er innført til midlertidig bruk i besøkslandet.
+Artiklene 7-9 gjelder under forutsetning av at kjøretøyet kan benyttes i sitt hjemland, og at
+
+1. det eies av en fysisk person, som normalt ikke har bopel i besøkslandet, eller av en juridisk person som er etablert i et annet land enn besøkslandet,
+2. det ikke er eller skal være registrert i besøkslandet,
+3. det er innført til midlertidig bruk i besøkslandet.
 
 Hvert land kan bestemme at artiklene 7-9 ikke skal gjelde, når kjøretøyene benyttes av personer som har bopel i besøkslandet.
 

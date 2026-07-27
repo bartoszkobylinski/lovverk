@@ -26,11 +26,23 @@ eu_basis: []
 
 Rådet for Fiskeridirektoratets Ernæringsinstitutt består av 7 medlemmer med personlige varamedlemmer som oppnevnes av Fiskeridepartementet for 4 år.
 
-Rådet skal:Drøfte opplegget for instituttets virksomhet og drift og bidra til at dets formål realiseres.Behandle langtidsprogram, instituttets budsjettforslag og stillingsforslag, årsrapport og regnskap.Drøfte instituttets arbeid, herunder dets faglige virksomhet. Bidra til at fiskeriadministrasjonens oppdrag og behov for tjenester gis den nødvendige prioritet.Medvirke til samarbeid med andre institusjoner og bedrifter.
+Rådet skal:
+
+1. Drøfte opplegget for instituttets virksomhet og drift og bidra til at dets formål realiseres.
+2. Behandle langtidsprogram, instituttets budsjettforslag og stillingsforslag, årsrapport og regnskap.
+3. Drøfte instituttets arbeid, herunder dets faglige virksomhet. Bidra til at fiskeriadministrasjonens oppdrag og behov for tjenester gis den nødvendige prioritet.
+4. Medvirke til samarbeid med andre institusjoner og bedrifter.
 
 ## § 2.
 
-Rådet sammensettes slik:Fiskeridirektøren1 representant fra ernæringsforskningen2 representanter for fiskeindustrien1 representant for instituttets ansatte1 representant fra Fiskeridepartementet1 representant fra Norges Fiskeriforskningsråd.
+Rådet sammensettes slik:
+
+- Fiskeridirektøren
+- 1 representant fra ernæringsforskningen
+- 2 representanter for fiskeindustrien
+- 1 representant for instituttets ansatte
+- 1 representant fra Fiskeridepartementet
+- 1 representant fra Norges Fiskeriforskningsråd.
 
 Representanten fra Norges Fiskeriforskningsråd skal være formann.
 

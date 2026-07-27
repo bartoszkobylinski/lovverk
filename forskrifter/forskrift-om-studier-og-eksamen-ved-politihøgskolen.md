@@ -122,7 +122,11 @@ Bytte av studiested kan skje mellom andre og tredje studieår dersom progresjons
 
 ### § 2-3. Tap av studierett
 
-(1) Politihøgskolen fatter selv vedtak om tap av studierett. Studenten kan tape studieretten når:Studenten ikke betaler semesteravgift og/eller andre avgifter det aktuelle studiet pålegger studenten jf. [§ 2-1](forskrift/2016-12-07-1957/§2-1) (2), innen fastsatt frist.Det etter at studenten har fått tilbud om studieplass fremkommer opplysninger som innebærer at vilkår for opptak ikke er tilstede.Studenten har blitt bedt om å innlevere originaldokumenter i forbindelse med opptaket og ikke leverer disse til kontroll innen fastsatt frist. Studenten kan søke om utsatt frist dersom studenten ikke har hatt mulighet til å fremskaffe originaldokumentene innen fastsatt frist. Begrunnelse for søknad om utsatt frist må knyttes til forhold studenten selv ikke har kontroll over.
+(1) Politihøgskolen fatter selv vedtak om tap av studierett. Studenten kan tape studieretten når:
+
+1. Studenten ikke betaler semesteravgift og/eller andre avgifter det aktuelle studiet pålegger studenten jf. [§ 2-1](forskrift/2016-12-07-1957/§2-1) (2), innen fastsatt frist.
+2. Det etter at studenten har fått tilbud om studieplass fremkommer opplysninger som innebærer at vilkår for opptak ikke er tilstede.
+3. Studenten har blitt bedt om å innlevere originaldokumenter i forbindelse med opptaket og ikke leverer disse til kontroll innen fastsatt frist. Studenten kan søke om utsatt frist dersom studenten ikke har hatt mulighet til å fremskaffe originaldokumentene innen fastsatt frist. Begrunnelse for søknad om utsatt frist må knyttes til forhold studenten selv ikke har kontroll over.
 
 (2) Studenter som ikke er funnet skikket til tjeneste i politi- og lensmannsetaten, jf. [politilovens § 24c](lov/1995-08-04-53/§24c), kan tape, eller midlertidig tape, studieretten etter behandling i skikkethetsnemnda og vedtak i styret ved Politihøgskolen.
 
@@ -166,7 +170,12 @@ Studenter som innen svarfristen har takket ja til studieplass på Bachelor – p
 
 ### § 3-1. Rett til eksamen
 
-For å få fremstille seg til eksamen, må studenten:Ha godkjent sin utdanningsplan innen de frister som er fastsatt av Politihøgskolen.Ha meldt seg opp til eksamen jf. [§ 3-2](forskrift/2016-12-07-1957/§3-2) (3) og (4).Være semesterregistrert for gjeldende semester, og ha betalt semesteravgiften i henhold til [lov om studentsamskipnader](lov/2007-12-14-116), samt andre pålagte avgifter innen gjeldende frister.Ha fått godkjent eventuelle obligatoriske aktiviteter, innen fastsatte frister, som i fag- eller studieplan er satt som vilkår for å fremstille seg til den aktuelle eksamen.
+For å få fremstille seg til eksamen, må studenten:
+
+1. Ha godkjent sin utdanningsplan innen de frister som er fastsatt av Politihøgskolen.
+2. Ha meldt seg opp til eksamen jf. [§ 3-2](forskrift/2016-12-07-1957/§3-2) (3) og (4).
+3. Være semesterregistrert for gjeldende semester, og ha betalt semesteravgiften i henhold til [lov om studentsamskipnader](lov/2007-12-14-116), samt andre pålagte avgifter innen gjeldende frister.
+4. Ha fått godkjent eventuelle obligatoriske aktiviteter, innen fastsatte frister, som i fag- eller studieplan er satt som vilkår for å fremstille seg til den aktuelle eksamen.
 
 > Endret ved forskrift [9 feb 2021 nr. 495](forskrift/2021-02-09-495).
 
@@ -192,7 +201,10 @@ For å få fremstille seg til eksamen, må studenten:Ha godkjent sin utdanningsp
 
 ### § 3-3. Antall forsøk til eksamen
 
-En student kan fremstille seg til eksamen i samme emne inntil tre ganger for å bestå emnet. I særlige tilfeller kan Politihøgskolen gi dispensasjon til et fjerde og siste eksamensforsøk. Særlige tilfeller kan være:Der Politihøgskolens styre har fattet vedtak om at studentene automatisk skal bli innvilget et fjerde forsøk i spesielle emner.Sykdom på eksamenstidspunktet som kan dokumenteres, men hvor dokumentasjon ikke er levert inn innen tidsfrist jf. [§ 4-7](forskrift/2016-12-07-1957/§4-7) (2).
+En student kan fremstille seg til eksamen i samme emne inntil tre ganger for å bestå emnet. I særlige tilfeller kan Politihøgskolen gi dispensasjon til et fjerde og siste eksamensforsøk. Særlige tilfeller kan være:
+
+1. Der Politihøgskolens styre har fattet vedtak om at studentene automatisk skal bli innvilget et fjerde forsøk i spesielle emner.
+2. Sykdom på eksamenstidspunktet som kan dokumenteres, men hvor dokumentasjon ikke er levert inn innen tidsfrist jf. [§ 4-7](forskrift/2016-12-07-1957/§4-7) (2).
 
 ### § 3-4. Vurdering av, og antall forsøk i praksisåret i Bachelorutdanningen
 
@@ -246,9 +258,18 @@ En student kan fremstille seg til eksamen i samme emne inntil tre ganger for å 
 
 (2) Enkelte deler av emner og leiraktiviteter har krav om 100 % deltakelse i undervisningen.
 
-(3) Dersom fraværet overstiger grensen for fravær kan følgende grunner regnes som gyldig fravær:Rettsoppmøte eller vitnestevning.Deltakelse i organer som krever studentrepresentasjon etter lov.Dokumentert sykefravær. Eget eller for barn under 12 år.Andre tungtveiende grunner.
+(3) Dersom fraværet overstiger grensen for fravær kan følgende grunner regnes som gyldig fravær:
 
-(4) Fagansatt skal, i samråd med studieleder, avgjøre om:Noe tapt undervisning kan tas igjen.Det kan kompenseres med en skriftlig oppgave eller andre læringsaktiviteter.Studenten ikke får godkjent kravet til obligatorisk deltakelse.
+1. Rettsoppmøte eller vitnestevning.
+2. Deltakelse i organer som krever studentrepresentasjon etter lov.
+3. Dokumentert sykefravær. Eget eller for barn under 12 år.
+4. Andre tungtveiende grunner.
+
+(4) Fagansatt skal, i samråd med studieleder, avgjøre om:
+
+1. Noe tapt undervisning kan tas igjen.
+2. Det kan kompenseres med en skriftlig oppgave eller andre læringsaktiviteter.
+3. Studenten ikke får godkjent kravet til obligatorisk deltakelse.
 
 > Tilføyd ved forskrift [9 feb 2021 nr. 495](forskrift/2021-02-09-495).
 
@@ -316,7 +337,13 @@ Opplysning om vurderingsform i de enkelte emner skal fremgå av fag- og programp
 
 (1) Normalt avvikles ny eksamen i påfølgende semester etter ordinær eksamen.
 
-(2) Studenter har rett til å fremstille seg til ny eksamen dersom de:har hatt gyldig fravær fra ordinær eksamen jf. [§ 4-7](forskrift/2016-12-07-1957/§4-7) (2)ikke har møtt til ordinær eksamenhar trukket besvarelsen under ordinær eksamenhar fått eksamensbesvarelsen vurdert til karakter «F» eller «ikke bestått»har fått godkjent alle sine arbeidskrav knyttet til emnet i perioden mellom ordinær og ny avvikling.
+(2) Studenter har rett til å fremstille seg til ny eksamen dersom de:
+
+1. har hatt gyldig fravær fra ordinær eksamen jf. [§ 4-7](forskrift/2016-12-07-1957/§4-7) (2)
+2. ikke har møtt til ordinær eksamen
+3. har trukket besvarelsen under ordinær eksamen
+4. har fått eksamensbesvarelsen vurdert til karakter «F» eller «ikke bestått»
+5. har fått godkjent alle sine arbeidskrav knyttet til emnet i perioden mellom ordinær og ny avvikling.
 
 (3) Studenter må selv melde seg opp til ny eksamen innen gjeldende frist.
 
@@ -430,7 +457,15 @@ Klage over formelle feil ved vurdering eller sensur behandles etter [universitet
 
 ### § 5-5. Fusk eller forsøk på fusk
 
-(1) Fusk defineres som opptreden i strid med Politihøgskolens regelverk eller retningslinjer for den enkelte eksamen eller arbeidskrav.Fusk eller forsøk på fusk er bl.a.:benytte eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller prøveå presentere andres arbeid som sitt eget, herunder manglende kildehenvisninger og/eller manglende klar markering av sitatpresentere eget tidligere arbeid uten referanseureglementert samarbeid mellom eksamenskandidaterurettmessig å ha skaffet seg adgang til vurdering.
+(1) Fusk defineres som opptreden i strid med Politihøgskolens regelverk eller retningslinjer for den enkelte eksamen eller arbeidskrav.
+
+Fusk eller forsøk på fusk er bl.a.:
+
+- benytte eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller prøve
+- å presentere andres arbeid som sitt eget, herunder manglende kildehenvisninger og/eller manglende klar markering av sitat
+- presentere eget tidligere arbeid uten referanse
+- ureglementert samarbeid mellom eksamenskandidater
+- urettmessig å ha skaffet seg adgang til vurdering.
 
 (2) En student som mistenkes for fusk eller forsøk på fusk, vil få anledning til å fullføre eksamen. Etter at studenten har levert besvarelsen, blir studenten informert om mistanke om fusk og det avholdes umiddelbart møte mellom studenten og ledelsen.
 
@@ -452,7 +487,9 @@ Politihøgskolen tildeler bachelorgrad av 180 studiepoengs omfang, og mastergrad
 
 (1) Graden bachelor oppnås på grunnlag av bestått eksamen i emner med minimum 180 studiepoengs omfang.
 
-(2) Grunnlaget for bachelorgraden ved Politihøgskolen er:Treårig politiutdanning etter rammeplan fastsatt av Justis- og beredskapsdepartementet.
+(2) Grunnlaget for bachelorgraden ved Politihøgskolen er:
+
+- Treårig politiutdanning etter rammeplan fastsatt av Justis- og beredskapsdepartementet.
 
 ### § 6-3. Godkjenning av politiutdanning i forhold til bachelorgrad
 

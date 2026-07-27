@@ -15,7 +15,7 @@ xml_hash: "ce661e65f1fab4c1e181a19d4e9d35f2a511ea3b81e3a522808faba79103c050"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,11 +60,16 @@ For opptak til studiet ved DnE som omfattes av denne forskriften kreves generell
 
 ### § 6. Rangeringsregler for studiet
 
-Når antall kvalifiserte søkere overstiger antall tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammet:Søkere blir rangert på grunnlag av opptaksprøven etter evne til bevegelsesuttrykk, kreativitet og motivasjon.Karakter trekkes kun inn i de tilfeller hvor det er søkere som vektes likt i de tre ovennevnte punkter og hvor det er tvilstilfeller.
+Når antall kvalifiserte søkere overstiger antall tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammet:
+
+1. Søkere blir rangert på grunnlag av opptaksprøven etter evne til bevegelsesuttrykk, kreativitet og motivasjon.
+2. Karakter trekkes kun inn i de tilfeller hvor det er søkere som vektes likt i de tre ovennevnte punkter og hvor det er tvilstilfeller.
 
 ### § 7. Kvoter
 
-Opptak til studieplasser som omfattes av kvoteringene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høyskolen har følgende kvoter:Ved like gode søkere som tilfredsstiller generelle og spesielle opptakskrav prioriteres gutter ut i fra kjønnskvotering.
+Opptak til studieplasser som omfattes av kvoteringene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høyskolen har følgende kvoter:
+
+1. Ved like gode søkere som tilfredsstiller generelle og spesielle opptakskrav prioriteres gutter ut i fra kjønnskvotering.
 
 ### § 8. Opptakskomité
 
@@ -99,7 +104,9 @@ Søkere som er tatt opp som student ved DnE kan få reservert studieplassen til 
 ### § 14. Opptak som hospitant på fagområde
 
 1. Personer uten studierett på høyskolens studieprogram kan få anledning til å følge undervisning og ta eksamen som hospitant. En hospitant må fylle opptakskrav og forkunnskapskrav som er fastsatt for studieforløpet. Hospitanter må betale semesteravgift for å følge undervisning og ta eksamen.
-2. Personer som kan få hospitantstatus er:Personer med utenlandsk utdanning som ønsker å få godkjent sin utdanning ved Den norske Eurytmihøyskole.
+2. Personer som kan få hospitantstatus er:
+
+   - Personer med utenlandsk utdanning som ønsker å få godkjent sin utdanning ved Den norske Eurytmihøyskole.
 3. Hospitantstatus gir rett til å følge undervisning og ta eksamen i samme periode.
 4. Hospitanter skal ha samme vurderingsform og vurderingsordning som ordinære studenter. Hospitanter omfattes av øvrige krav som ordinære studenter har.
 
@@ -121,7 +128,15 @@ Søknad om opptak skjer på fastsatt søknadsskjema. Alle dokumenter som skal gi
 
 Studiet ved DnE er organisert i et studieforløp som består av flere fagområder.
 
-Studieforløpet skal ha en studieplan. Studieplanen skal fastsette:Studieforløpets/fagområdets mål, innhold, organisering, arbeidsformer, eksamensordning og vurderingsform.Eventuelle forkunnskapskrav, eller anbefalte forkunnskaper for studiet.Hvilke fagområder som undervises og som det kan avlegges eksamen i.Faglig beskrivelse av fagområdene som inngår i studiet.Eventuelle krav til progresjon for fagområdene i studieforløpet.Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.Fagområdenes størrelse i forhold til studiepoeng.
+Studieforløpet skal ha en studieplan. Studieplanen skal fastsette:
+
+- Studieforløpets/fagområdets mål, innhold, organisering, arbeidsformer, eksamensordning og vurderingsform.
+- Eventuelle forkunnskapskrav, eller anbefalte forkunnskaper for studiet.
+- Hvilke fagområder som undervises og som det kan avlegges eksamen i.
+- Faglig beskrivelse av fagområdene som inngår i studiet.
+- Eventuelle krav til progresjon for fagområdene i studieforløpet.
+- Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
+- Fagområdenes størrelse i forhold til studiepoeng.
 
 ### § 18. Fastsetting av studieplanen
 
@@ -132,8 +147,14 @@ Fagseksjonen utarbeider forslag til studieplaner. Styret vedtar studieplan for s
 ### § 19. Studierett og studieprogresjon
 
 1. Opptak til studiet gir studenten studierett til studiet. En student som ikke fyller eventuelle betingelser som er knyttet til studiet ved studiestart, mister studieretten.
-2. Studieretten opphører når:Studenten har fullført studiet ellerDnE mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført ellerstudenten blir fratatt sin studierett.
-3. En student på lavere grads studie som ikke har inngått studieplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:30 studiepoeng eller mindre etter første studieår.
+2. Studieretten opphører når:
+
+   1. Studenten har fullført studiet eller
+   2. DnE mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført eller
+   3. studenten blir fratatt sin studierett.
+3. En student på lavere grads studie som ikke har inngått studieplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:
+
+   - 30 studiepoeng eller mindre etter første studieår.
 
 ### § 20. Permisjon
 
@@ -221,7 +242,18 @@ En student kan få fritak fra eksamen, prøve eller obligatorisk undervisning n�
 
 ### § 37. Karaktersystem
 
-1. Ved eksamen skal det benyttes bestått/ikke bestått eller bokstavkarakter etter en skala fra A-F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.Bokstavkarakterene har følgende betegnelse og generell beskrivelse:*Karakter**Betegnelse**Generell, kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Viser svært god innsikt i det kunnskapsinnholdet som er definert for fagnivået, og har et analytisk og kritisk grep om stoffet. Kunnskap fra ulike sider ved pensum er kombinert og fremstilt på en selvstendig og innsiktsfull måte.BMeget godViser meget god presentasjon. Viser meget godt kunnskapsinnholdet som er definert for fagnivået. Kunnskapen er fremstilt med en faglig sammenheng som viser selvstendighet i valg og anvendelse av teori.CGodJevn god presentasjon som greier å trekke ut de viktigste elementene i det kunnskapsinnholdet som er definert for fagnivået. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områder.DNokså godEn akseptabel presentasjon og svarer i hovedtrekk til det som er spurt om. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPresentasjonen tilfredsstiller minimumskrav og svarer i store trekk riktig på deler av oppgaven. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPresentasjon som ikke tilfredsstiller de faglige minimumskrav og mangler både detaljkunnskap og oversikt. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+1. Ved eksamen skal det benyttes bestått/ikke bestått eller bokstavkarakter etter en skala fra A-F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.
+
+   Bokstavkarakterene har følgende betegnelse og generell beskrivelse:
+
+   | *Karakter* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+   | --- | --- | --- |
+   | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser svært god innsikt i det kunnskapsinnholdet som er definert for fagnivået, og har et analytisk og kritisk grep om stoffet. Kunnskap fra ulike sider ved pensum er kombinert og fremstilt på en selvstendig og innsiktsfull måte. |
+   | B | Meget god | Viser meget god presentasjon. Viser meget godt kunnskapsinnholdet som er definert for fagnivået. Kunnskapen er fremstilt med en faglig sammenheng som viser selvstendighet i valg og anvendelse av teori. |
+   | C | God | Jevn god presentasjon som greier å trekke ut de viktigste elementene i det kunnskapsinnholdet som er definert for fagnivået. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områder. |
+   | D | Nokså god | En akseptabel presentasjon og svarer i hovedtrekk til det som er spurt om. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+   | E | Tilstrekkelig | Presentasjonen tilfredsstiller minimumskrav og svarer i store trekk riktig på deler av oppgaven. Kandidaten viser liten vurderingsevne og selvstendighet. |
+   | F | Ikke bestått | Presentasjon som ikke tilfredsstiller de faglige minimumskrav og mangler både detaljkunnskap og oversikt. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 2. Dersom en student har bestått samme eksamen mer enn én gang, gjelder beste karakter.
 3. Ved fastsetting av sammenlagt karakter på bakgrunn av flere deleksamener, må alle deleksamener være bestått for at studenten kan få endelig karakter.
 4. Bokstavkarakterene er gitt tallverdier som benyttes ved fastsetting av sammenlagt karakter, til rangering av søkere ved opptak mv. Tallverdiene er følgende: A-5, B-4, C-3, D-2, E-1. Tallverdiene regnes ut med én desimal som forhøyes til nærmeste hele tall.

@@ -78,7 +78,14 @@ Ved mindre overdragelser gjelder likevel en meldeplikt etter dette kapittel, jf.
 
 ### § 4b. Overdragelser hvor det er tilstrekkelig med en meldeplikt
 
-For at overdragelse av aksje eller part i selskap eller sammenslutning som eier merkeregistrert fartøy skal være underlagt meldeplikt, må følgende vilkår være oppfyltOverdragelsen reduserer ikke den totale eierandelen til de aktive fiskerne til 50 pst. eller mindreOverdragelsen medfører ikke at nasjonalitetskravet for ervervstillatelse i [deltakerloven § 5](lov/1999-03-26-15/§5) ikke er oppfyltOverdragelsen medfører ikke overtredelse av eierkonsentrasjonsreglene i konsesjonsforskriften og deltakerforskriftenOverdragelsen medfører ikke overtredelse av reglene om landsdelsbinding i deltakerforskriftenDet må ikke være gitt unntak fra aktivitetskravet i medhold av [deltakerloven § 6](lov/1999-03-26-15/§6) tredje ledd første punktumFartøyet oppfyller kravet i [§ 3](forskrift/2012-12-07-1144/§3) første ledd.
+For at overdragelse av aksje eller part i selskap eller sammenslutning som eier merkeregistrert fartøy skal være underlagt meldeplikt, må følgende vilkår være oppfylt
+
+1. Overdragelsen reduserer ikke den totale eierandelen til de aktive fiskerne til 50 pst. eller mindre
+2. Overdragelsen medfører ikke at nasjonalitetskravet for ervervstillatelse i [deltakerloven § 5](lov/1999-03-26-15/§5) ikke er oppfylt
+3. Overdragelsen medfører ikke overtredelse av eierkonsentrasjonsreglene i konsesjonsforskriften og deltakerforskriften
+4. Overdragelsen medfører ikke overtredelse av reglene om landsdelsbinding i deltakerforskriften
+5. Det må ikke være gitt unntak fra aktivitetskravet i medhold av [deltakerloven § 6](lov/1999-03-26-15/§6) tredje ledd første punktum
+6. Fartøyet oppfyller kravet i [§ 3](forskrift/2012-12-07-1144/§3) første ledd.
 
 Fiskeridirektoratet kan bestemme at eierendring som er underlagt meldeplikt etter denne paragraf likevel skal underlegges søknadsplikt, jf. [§ 4a](forskrift/2012-12-07-1144/§4a) og [deltakerloven § 9](lov/1999-03-26-15/§9) første ledd. Fiskeridirektoratet skal gi fartøyeier beskjed om dette innen 10 virkedager etter at direktoratet har mottatt melding fra fartøyeier.
 
@@ -90,7 +97,14 @@ Melding om eierendring skal fremmes på fastsatt skjema og sendes til Fiskeridir
 
 Melding fremmes av selskapet eller sammenslutningen som eier fiskefartøyet eller fullmektig på deres vegne. Dersom endringen skjer i bakenforliggende selskap eller sammenslutning som er medeier i flere selskap eller sammenslutninger som eier fiskefartøy, kan melding fremmes av det bakenforliggende selskap eller sammenslutning. Både det selskap det skjer eierendring i og det selskap som direkte eier fartøyet er ansvarlig for at det sendes inn melding etter dette kapittel.
 
-Meldingen skal inneholde følgende:Navn på selskap eller sammenslutning som meldingen gjelder, og detaljert og klar oversikt over eiersammensetningen i fartøyeiende selskap og bakenforliggende selskap før og etter endringenNavn på alle fartøy som selskapet eller sammenslutningen direkte eller indirekte er medeier iAksjeeierbøker/deltakerliste og oversikt over planlagte endringer i disse. Av aksjeeierbøker skal det fremgå klart hvilke aksjer som har stemmerett og hvilke som ikke har det, og oversikt over planlagte endringerAksjonæravtaler eller andre underliggende avtaler og oversikt over planlagte endringer i disseSelskapsavtale/vedtekter og oversikt over planlagte endringer i disseStyresammensetning og oversikt over planlagte endringer i styresammensetningen.
+Meldingen skal inneholde følgende:
+
+1. Navn på selskap eller sammenslutning som meldingen gjelder, og detaljert og klar oversikt over eiersammensetningen i fartøyeiende selskap og bakenforliggende selskap før og etter endringen
+2. Navn på alle fartøy som selskapet eller sammenslutningen direkte eller indirekte er medeier i
+3. Aksjeeierbøker/deltakerliste og oversikt over planlagte endringer i disse. Av aksjeeierbøker skal det fremgå klart hvilke aksjer som har stemmerett og hvilke som ikke har det, og oversikt over planlagte endringer
+4. Aksjonæravtaler eller andre underliggende avtaler og oversikt over planlagte endringer i disse
+5. Selskapsavtale/vedtekter og oversikt over planlagte endringer i disse
+6. Styresammensetning og oversikt over planlagte endringer i styresammensetningen.
 
 > Tilføyd ved [forskrift 23 aug 2013 nr. 1033](forskrift/2013-08-23-1033) (i kraft 1 jan 2014), endret ved [forskrifter 4 juni 2015 nr. 589](forskrift/2015-06-04-589), [31 okt 2022 nr. 1889](forskrift/2022-10-31-1889) (i kraft 1 nov 2022).
 
@@ -142,7 +156,14 @@ Hvis et fiskefartøy blir solgt på auksjon eller ved medhjelpersalg må ikke bu
 
 Søknad om ervervstillatelse, spesiell tillatelse og årlig deltakeradgang samt søknader om spesielle kvoteordninger skal fremmes på fastsatt skjema og sendes Fiskeridirektoratet.
 
-Søknaden skal inneholde følgende opplysninger:identifikasjon av fartøyeier, herunder fødselsnummer eller organisasjonsnummerDersom fartøyeier er et foretak, eventuelt foretak under stiftelse, skal samtlige eiere i foretaket oppgis. Dersom disse også er foretak, skal deres eiere også oppgis osv.Fartøyets driftsgrunnlag og hvilke former for fiske eller fangst det søkes om tillatelse til å delta i,opplysninger om fartøyets nåværende eller tidligere fiskerimerke, kjenningssignal, største lengde, bredde, bruttotonnasje og lasteromsvolum samt IMO-nummer dersom fartøyet er tildelt slikt,dokumentasjon på at saksbehandlingsgebyr er betalt, jf. [§ 10](forskrift/2012-12-07-1144/§10) og [§ 11](forskrift/2012-12-07-1144/§11),dersom søknaden innebærer en reduksjon av fartøyets driftsgrunnlag skal det vedlegges bekreftelse fra eventuell panthaver om at denne er kjent med søknaden.
+Søknaden skal inneholde følgende opplysninger:
+
+1. identifikasjon av fartøyeier, herunder fødselsnummer eller organisasjonsnummer
+2. Dersom fartøyeier er et foretak, eventuelt foretak under stiftelse, skal samtlige eiere i foretaket oppgis. Dersom disse også er foretak, skal deres eiere også oppgis osv.
+3. Fartøyets driftsgrunnlag og hvilke former for fiske eller fangst det søkes om tillatelse til å delta i,
+4. opplysninger om fartøyets nåværende eller tidligere fiskerimerke, kjenningssignal, største lengde, bredde, bruttotonnasje og lasteromsvolum samt IMO-nummer dersom fartøyet er tildelt slikt,
+5. dokumentasjon på at saksbehandlingsgebyr er betalt, jf. [§ 10](forskrift/2012-12-07-1144/§10) og [§ 11](forskrift/2012-12-07-1144/§11),
+6. dersom søknaden innebærer en reduksjon av fartøyets driftsgrunnlag skal det vedlegges bekreftelse fra eventuell panthaver om at denne er kjent med søknaden.
 
 Dersom det ikke vedlegges dokumentasjon som nevnt i annet ledd bokstav f), skal fiskerimyndighetene varsle panthaver og stille behandlingen av søknaden i bero i inntil fire uker. Det samme gjelder dersom det fremgår av bekreftelsen at panthaver har innsigelser mot slik søknad.
 
@@ -302,11 +323,32 @@ Bokstavene i merket plasseres slik at fylkesbokstavene står foran og kommunebok
 
 Hvor merket ikke kan males og sees tydelig på grunn av ujevnheter i skipssiden skal disse jevnes ut. Merket skal plasseres på mest mulig loddrett flate.
 
-For fartøy på eller over 15 meter største lengde (klasse 1) skal fiskerimerket og bunnfargen oppfylle følgende krav:Bunnfargen skal være 65 cm høy, og lengden skal være slik at den rekker en bokstavbredde (27 cm) foran første og etter siste bokstav.Høyden av bokstaver og tall skal være 45 cm.Bredden av bokstaver og tall skal være 27 cm. For bokstaven I og tallet 1 skal likevel bredden være 6 cm, og for bokstaven M skal den være 36 cm.Tykkelsen av bokstaver og tall (fargebredden) skal være 6 cm.Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være den dobbelte (12 cm) av bokstavens tykkelse (fargebredde).Mellom bokstaver og tall skal det tas inn en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (6 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (12 cm) av bokstavtykkelsen.
+For fartøy på eller over 15 meter største lengde (klasse 1) skal fiskerimerket og bunnfargen oppfylle følgende krav:
 
-For fartøy på eller over 9 meter største lengde, men under 15 meter største lengde (klasse 2) skal fiskerimerket og bunnfargen oppfylle følgende krav:Bunnfargen skal være 37 cm høy og lengden skal være slik at den rekker en bokstavbredd (15 cm) foran første og etter siste bokstav. Bunnfargen, der tilleggstall for hjelpefartøy settes, skal rekke en halv bokstavbredde foran og etter tallet.Høyden av bokstaver og tall skal være 25 cm.Bredden av bokstaver og tall skal være 15 cm. For bokstaven I og tallet 1 skal likevel bredden være 4 cm, og for bokstaven M skal den være 20 cm.Tykkelsen av bokstaver og tall (fargebredden) skal være 4 cm.Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være den dobbelte (8 cm) av bokstavenes tykkelse (fargebredde).Mellom bokstaver og tall skal det tas inn en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (4 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (8 cm) av bokstavtykkelsen.
+1. Bunnfargen skal være 65 cm høy, og lengden skal være slik at den rekker en bokstavbredde (27 cm) foran første og etter siste bokstav.
+2. Høyden av bokstaver og tall skal være 45 cm.
+3. Bredden av bokstaver og tall skal være 27 cm. For bokstaven I og tallet 1 skal likevel bredden være 6 cm, og for bokstaven M skal den være 36 cm.
+4. Tykkelsen av bokstaver og tall (fargebredden) skal være 6 cm.
+5. Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være den dobbelte (12 cm) av bokstavens tykkelse (fargebredde).
+6. Mellom bokstaver og tall skal det tas inn en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (6 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (12 cm) av bokstavtykkelsen.
 
-For fartøy på eller under 9 meter største lengde (klasse 3) skal fiskerimerket og bunnfargen oppfylle følgende krav:Bunnfargen skal være 23 cm høy og lengden skal være slik at den rekker en bokstavbredde (9 cm) foran første og etter siste bokstav.Høyden av bokstaver og tall skal være 15 cm.Bredden av bokstaver og tall skal være 9 cm. For bokstaven I og tallet 1 skal likevel bredden være 2,5 cm, og for bokstaven M skal den være 12 cm.Tykkelsen av bokstaver og tall (fargebredden) skal være 2,5 cm.Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være det dobbelte (5 cm) av bokstavenes tykkelse (fargebredde).Mellom bokstaver og tall skal anbringes en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (2,5 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (5 cm) av bokstavtykkelsen.
+For fartøy på eller over 9 meter største lengde, men under 15 meter største lengde (klasse 2) skal fiskerimerket og bunnfargen oppfylle følgende krav:
+
+1. Bunnfargen skal være 37 cm høy og lengden skal være slik at den rekker en bokstavbredd (15 cm) foran første og etter siste bokstav. Bunnfargen, der tilleggstall for hjelpefartøy settes, skal rekke en halv bokstavbredde foran og etter tallet.
+2. Høyden av bokstaver og tall skal være 25 cm.
+3. Bredden av bokstaver og tall skal være 15 cm. For bokstaven I og tallet 1 skal likevel bredden være 4 cm, og for bokstaven M skal den være 20 cm.
+4. Tykkelsen av bokstaver og tall (fargebredden) skal være 4 cm.
+5. Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være den dobbelte (8 cm) av bokstavenes tykkelse (fargebredde).
+6. Mellom bokstaver og tall skal det tas inn en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (4 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (8 cm) av bokstavtykkelsen.
+
+For fartøy på eller under 9 meter største lengde (klasse 3) skal fiskerimerket og bunnfargen oppfylle følgende krav:
+
+1. Bunnfargen skal være 23 cm høy og lengden skal være slik at den rekker en bokstavbredde (9 cm) foran første og etter siste bokstav.
+2. Høyden av bokstaver og tall skal være 15 cm.
+3. Bredden av bokstaver og tall skal være 9 cm. For bokstaven I og tallet 1 skal likevel bredden være 2,5 cm, og for bokstaven M skal den være 12 cm.
+4. Tykkelsen av bokstaver og tall (fargebredden) skal være 2,5 cm.
+5. Avstanden mellom bokstaver innbyrdes og mellom tall innbyrdes skal være det dobbelte (5 cm) av bokstavenes tykkelse (fargebredde).
+6. Mellom bokstaver og tall skal anbringes en firkant som skilletegn. Denne firkant skal ha samme høyde og bredde som bokstavtykkelsen (2,5 cm), og avstanden til firkanten fra det foregående og etterfølgende siffer skal være det dobbelte (5 cm) av bokstavtykkelsen.
 
 Tilleggstallets størrelse for hjelpefartøy skal være av klasse 2.
 
@@ -348,7 +390,15 @@ Departementet kan endre denne forskriften. Fiskeridirektoratet kan fastsette ins
 
 Denne forskrift trer i kraft 1. januar 2013.
 
-Fra samme tid oppheves:[Lov 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer.[Forskrift 22. februar 1950 nr. 1](forskrift/1950-02-22-1) om merking av fiske- og fangstfarkoster.[Forskrift 18. juli 1956 nr. 1](forskrift/1956-07-18-1) om eiendomsrett til fiskefartøyer.[Forskrift 23. desember 1985 nr. 2301](forskrift/1985-12-23-2301) om gebyr ved innføring av fartøy i registeret over norske fiskefartøy (merkeregisteret) og om årlig avgift så lenge fartøyet står i merkeregisteret.[Forskrift 26. juni 1998 nr. 606](forskrift/1998-06-26-606) om gebyr for behandling av søknad om ervervstillatelse og spesiell tillatelse til å drive fiske.[Forskrift 21. september 2001 nr. 1158](forskrift/2001-09-21-1158) om tilbakekall av ervervstillatelse mv. for fartøy som ikke nyttes til ervervsmessig fiske og fangst.[Forskrift 28. september 2007 nr. 1091](forskrift/2007-09-28-1091) om behandling av fisketillatelser ved konkurs, tvangssalg mv.
+Fra samme tid oppheves:
+
+1. [Lov 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer.
+2. [Forskrift 22. februar 1950 nr. 1](forskrift/1950-02-22-1) om merking av fiske- og fangstfarkoster.
+3. [Forskrift 18. juli 1956 nr. 1](forskrift/1956-07-18-1) om eiendomsrett til fiskefartøyer.
+4. [Forskrift 23. desember 1985 nr. 2301](forskrift/1985-12-23-2301) om gebyr ved innføring av fartøy i registeret over norske fiskefartøy (merkeregisteret) og om årlig avgift så lenge fartøyet står i merkeregisteret.
+5. [Forskrift 26. juni 1998 nr. 606](forskrift/1998-06-26-606) om gebyr for behandling av søknad om ervervstillatelse og spesiell tillatelse til å drive fiske.
+6. [Forskrift 21. september 2001 nr. 1158](forskrift/2001-09-21-1158) om tilbakekall av ervervstillatelse mv. for fartøy som ikke nyttes til ervervsmessig fiske og fangst.
+7. [Forskrift 28. september 2007 nr. 1091](forskrift/2007-09-28-1091) om behandling av fisketillatelser ved konkurs, tvangssalg mv.
 
 Fra samme tid gjøres det med hjemmel i [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) § 7, § 11 – § 16 og § 38 følgende endringer i [forskrift 30. juli 1992 nr. 593](forskrift/1992-07-30-593) om registrering av skip i norsk ordinært skipsregister (NOR): ---
 

@@ -15,7 +15,7 @@ xml_hash: "fd30a7969a07e69990958e0b2542012087fc332c4379fd5cb23d3a673c16542e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,19 @@ Instruksen gjelder tilsyn og kontroll ved innførsel og utførsel av levende dyr
 
 3\. *Definisjoner*
 
-I denne instruks forstås med:produkter av animalsk opprinnelse; produkter som helt eller delvis stammer fra dyr eller bier, som ikke er næringsmidler,3 og som er omfattet av særskilt forskrift.4forsendelse; en mengde levende dyr, annet avlsmateriale, animalsk avfall eller produkter av animalsk opprinnelse, som sendes med samme transportmiddel, med samme rute og bestemmelsessted, og som dekkes av samme helsesertifikat eller annen pålagt dokumentasjon.
+I denne instruks forstås med:
+
+1. produkter av animalsk opprinnelse; produkter som helt eller delvis stammer fra dyr eller bier, som ikke er næringsmidler,3 og som er omfattet av særskilt forskrift.4
+2. forsendelse; en mengde levende dyr, annet avlsmateriale, animalsk avfall eller produkter av animalsk opprinnelse, som sendes med samme transportmiddel, med samme rute og bestemmelsessted, og som dekkes av samme helsesertifikat eller annen pålagt dokumentasjon.
 
 4\. *Unntatt fra instruksen*
 
-Instruksen gjelder ikke for tilsyn og kontroll ved innførsel og utførsel av:kjæledyr i følge med eier eller under ansvar av en privatperson, når innførselen eller utførselen ikke er gjenstand for kommersiell handel.levende skjell og skalldyr beregnet til konsum.produkter til privat bruk i egen husholdning.produkter av animalsk opprinnelse til konsum.
+Instruksen gjelder ikke for tilsyn og kontroll ved innførsel og utførsel av:
+
+1. kjæledyr i følge med eier eller under ansvar av en privatperson, når innførselen eller utførselen ikke er gjenstand for kommersiell handel.
+2. levende skjell og skalldyr beregnet til konsum.
+3. produkter til privat bruk i egen husholdning.
+4. produkter av animalsk opprinnelse til konsum.
 
 5\. *Hygiene*
 
@@ -62,7 +70,18 @@ Instruksen trer i kraft straks og opphever instruks av 11. februar 2000 om tilsy
 
 1\. *Kontroll på avsenderstedet*
 
-Ved utførsel av levende dyr, annet avlsmateriale, animalsk avfall og produkter av animalsk opprinnelse til et land i EØS skal Statens dyrehelsetilsyn – distriktsveterinæren kontrollere at:de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel, [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)1 og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471)2 er oppfylt.de dyrehelsemessige krav som mottakerlandet stiller er oppfylt dersom den aktuelle forsendelsen består av arter/varer som ikke omfattes av EØS-regelverk.forsendelsen kommer fra dyrehold som oppfyller eventuelle tilleggskrav som stilles i mottakerlandet på grunnlag av tilleggsgarantier/fristatus som er innvilget.forsendelsen er merket slik at den kan identifiseres i henhold til gjeldende bestemmelser og at virksomheten/dyreholdet er registrert slik at opprinnelsen kan spores.forsendelsen ikke stammer fra dyrehold eller områder som er pålagt restriksjoner.forsendelsen ikke stammer fra dyrehold som kan bli nedslaktet i forbindelse med program for sjukdomsbekjempelse.forsendelser som ikke kan omsettes i Norge av dyrehelsemessige årsaker ikke uføres til andre land i EØS.forsendelsen følges av gyldig helsesertifikat eller handelsdokument og/eller annen nødvendig dokumentasjon. Dersom forsendelsen skal sendes til flere ulike bestemmelsessteder, skal den deles opp i like mange delforsendelser som det er bestemmelsessteder. Hver enkelt delforsendelse skal følges av nevnte dokumentasjon.forsendelser som ikke oppfyller eller ikke omfattes av EØS-regelverk og som skal utføres til et land utenfor EØS gjennom et annet land i EØS, bare utføres dersom de enkelte land i EØS har gitt sin godkjennelse.transport av forsendelsen skjer i henhold til bestemmelser om hygiene.
+Ved utførsel av levende dyr, annet avlsmateriale, animalsk avfall og produkter av animalsk opprinnelse til et land i EØS skal Statens dyrehelsetilsyn – distriktsveterinæren kontrollere at:
+
+1. de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel, [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)1 og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471)2 er oppfylt.
+2. de dyrehelsemessige krav som mottakerlandet stiller er oppfylt dersom den aktuelle forsendelsen består av arter/varer som ikke omfattes av EØS-regelverk.
+3. forsendelsen kommer fra dyrehold som oppfyller eventuelle tilleggskrav som stilles i mottakerlandet på grunnlag av tilleggsgarantier/fristatus som er innvilget.
+4. forsendelsen er merket slik at den kan identifiseres i henhold til gjeldende bestemmelser og at virksomheten/dyreholdet er registrert slik at opprinnelsen kan spores.
+5. forsendelsen ikke stammer fra dyrehold eller områder som er pålagt restriksjoner.
+6. forsendelsen ikke stammer fra dyrehold som kan bli nedslaktet i forbindelse med program for sjukdomsbekjempelse.
+7. forsendelser som ikke kan omsettes i Norge av dyrehelsemessige årsaker ikke uføres til andre land i EØS.
+8. forsendelsen følges av gyldig helsesertifikat eller handelsdokument og/eller annen nødvendig dokumentasjon. Dersom forsendelsen skal sendes til flere ulike bestemmelsessteder, skal den deles opp i like mange delforsendelser som det er bestemmelsessteder. Hver enkelt delforsendelse skal følges av nevnte dokumentasjon.
+9. forsendelser som ikke oppfyller eller ikke omfattes av EØS-regelverk og som skal utføres til et land utenfor EØS gjennom et annet land i EØS, bare utføres dersom de enkelte land i EØS har gitt sin godkjennelse.
+10. transport av forsendelsen skjer i henhold til bestemmelser om hygiene.
 
 Utøvelse av kontrollen på avsenderstedet skal utføres like grundig som om forsendelsen skulle gå til eget marked.
 
@@ -84,7 +103,13 @@ Når helsesertifikat er utstedt og dyr/produkt er klarert for utførsel skal det
 
 På dyrenes eller produktenes bestemmelsessted og på midlertidige oppsamlingssteder skal Statens dyrehelsetilsyn – distriktsveterinæren foreta stikkprøvekontroll for å undersøke om vilkårene slik de er nedfelt i kapittel II, er oppfylt.
 
-Stikkprøvekontroll omfatter kontroll med at:forsendelsen følges av gyldig helsesertifikat eller handelsdokument og/eller annen pålagt dokumentasjon.ved tilfelle av avlasting underveis skal det, når det gjelder produkter, i tillegg påses at det er de originale dokumenter som følger forsendelsen videre, jf. de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel. Det skal være samsvar mellom dokumentasjonen og forsendelsen.forsendelsen er forskriftsmessig merket.levende dyr ikke viser tegn til smittsom sjukdom.transporten ikke representerer fare for smittespredning og at krav til transport av levende dyr er oppfylt.
+Stikkprøvekontroll omfatter kontroll med at:
+
+1. forsendelsen følges av gyldig helsesertifikat eller handelsdokument og/eller annen pålagt dokumentasjon.
+2. ved tilfelle av avlasting underveis skal det, når det gjelder produkter, i tillegg påses at det er de originale dokumenter som følger forsendelsen videre, jf. de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel. Det skal være samsvar mellom dokumentasjonen og forsendelsen.
+3. forsendelsen er forskriftsmessig merket.
+4. levende dyr ikke viser tegn til smittsom sjukdom.
+5. transporten ikke representerer fare for smittespredning og at krav til transport av levende dyr er oppfylt.
 
 2\. *Uttak av prøver*
 
@@ -98,7 +123,12 @@ Statens dyrehelsetilsyn – distriktsveterinæren skal foreta kontroll av produk
 
 1\. *Tilbakeholdelse/isolering/avvisning*
 
-Dersom forsendelsen ikke tilfredsstiller gjeldende krav til dokumentasjon eller helsestatus, eller det påvises sykdom eller smitte som tilsier at innførsel ikke kan skje, eller forsendelsen ikke oppfyller krav i henhold til særskilte forskrifter, kan Statens dyrehelsetilsyn – distriktsveterinæren etter først å ha informert importøren enten:sette dyrene i isolasjon, eller holde forsendelsen tilbake til nødvendig dokumentasjon er lagt fram innen nærmere bestemte frister, ellermed tillatelse fra veterinærmyndighetene i avsenderlandet og forhåndsunderretning til veterinærmyndighetene i eventuelle andre land som forsendelsen må passere, returnere forsendelsen, ellerbenytte produktene1 til andre formål dersom dyrehelsemessige forhold tilsier det, elleravlive dyr eller destruere produkter.
+Dersom forsendelsen ikke tilfredsstiller gjeldende krav til dokumentasjon eller helsestatus, eller det påvises sykdom eller smitte som tilsier at innførsel ikke kan skje, eller forsendelsen ikke oppfyller krav i henhold til særskilte forskrifter, kan Statens dyrehelsetilsyn – distriktsveterinæren etter først å ha informert importøren enten:
+
+1. sette dyrene i isolasjon, eller holde forsendelsen tilbake til nødvendig dokumentasjon er lagt fram innen nærmere bestemte frister, eller
+2. med tillatelse fra veterinærmyndighetene i avsenderlandet og forhåndsunderretning til veterinærmyndighetene i eventuelle andre land som forsendelsen må passere, returnere forsendelsen, eller
+3. benytte produktene1 til andre formål dersom dyrehelsemessige forhold tilsier det, eller
+4. avlive dyr eller destruere produkter.
 
 2\. *Avliving og destruksjon*
 
@@ -116,7 +146,13 @@ Statens dyrehelsetilsyn – distriktsveterinæren skal bruke databasen Matilda V
 
 2\. *Rapportering ved uregelmessigheter*
 
-Det skal i tillegg til registrering i databasen Matilda VAM straks sendes skriftlig rapport til Statens dyrehelsetilsyn – fylkesveterinæren med kopi til Statens dyrehelsetilsyn – Sentralforvaltningen når det foreligger uregelmessigheter, positive prøvefunn eller det av andre årsaker anses nødvendig. Det skal opplyses om eventuelle tiltak, vedtak som er truffet, begrunnelse for avgjørelsen og vedlegges kopi av saksdokumenter. Følgende informasjon skal følge rapporten:kopi av handelsattest eller helsesertifikat, samt ANIMO-melding, og om nødvendig en beskrivelse av dyr i forsendelsen,dato for ankomst bestemmelsessted,dato for uttak av prøver, samt dato for laboratorieundersøkelse,dato for når kontrollen ble utført,beskrivelse av resultatet av kontrollen som er utført. Dersom det er tatt ut prøver, skal det følge med en beskrivelse av hvilke tester som er gjennomført, og resultatet av testene. For levende dyr skal det i tillegg følge med en beskrivelse av hvilke dyr det er tatt tester av.
+Det skal i tillegg til registrering i databasen Matilda VAM straks sendes skriftlig rapport til Statens dyrehelsetilsyn – fylkesveterinæren med kopi til Statens dyrehelsetilsyn – Sentralforvaltningen når det foreligger uregelmessigheter, positive prøvefunn eller det av andre årsaker anses nødvendig. Det skal opplyses om eventuelle tiltak, vedtak som er truffet, begrunnelse for avgjørelsen og vedlegges kopi av saksdokumenter. Følgende informasjon skal følge rapporten:
+
+1. kopi av handelsattest eller helsesertifikat, samt ANIMO-melding, og om nødvendig en beskrivelse av dyr i forsendelsen,
+2. dato for ankomst bestemmelsessted,
+3. dato for uttak av prøver, samt dato for laboratorieundersøkelse,
+4. dato for når kontrollen ble utført,
+5. beskrivelse av resultatet av kontrollen som er utført. Dersom det er tatt ut prøver, skal det følge med en beskrivelse av hvilke tester som er gjennomført, og resultatet av testene. For levende dyr skal det i tillegg følge med en beskrivelse av hvilke dyr det er tatt tester av.
 
 3\. *Rapportering vedrørende virksomheter godkjent for eksport til EØS*
 

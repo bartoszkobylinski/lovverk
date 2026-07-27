@@ -15,7 +15,7 @@ xml_hash: "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -97,7 +97,10 @@ Utlendingsdirektoratet kan i særlige tilfeller frita en utlending fra kravet om
 
 ### § 9. Visumplikt og visumfrihet
 
-Utlendinger må ha visum til Norge for å kunne reise inn i riket, med mindre Kongen i forskrift har gjort unntak fra dette kravet. En utlending som er på norsk grense og som søker beskyttelse (asyl) etter reglene i [kapittel 4](lov/2008-05-15-35/kap4), eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, har likevel rett til innreise uten visum, med mindredet foreligger en krisesituasjon med ekstraordinært høye ankomster, og Kongen i statsråd på den bakgrunn har besluttet at det etter individuelle vurderinger kan treffes vedtak på grensestedet om å nekte realitetsbehandling av asylsøknader, ellerutlendingen ankommer grensen mot nordisk nabostat og Kongen i statsråd har truffet beslutninger som nevnt i [§ 32](lov/2008-05-15-35/§32) femte ledd om å nekte realitetsbehandling av asylsøknader fremmet på grensen mot den aktuelle nordiske nabostaten.
+Utlendinger må ha visum til Norge for å kunne reise inn i riket, med mindre Kongen i forskrift har gjort unntak fra dette kravet. En utlending som er på norsk grense og som søker beskyttelse (asyl) etter reglene i [kapittel 4](lov/2008-05-15-35/kap4), eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, har likevel rett til innreise uten visum, med mindre
+
+1. det foreligger en krisesituasjon med ekstraordinært høye ankomster, og Kongen i statsråd på den bakgrunn har besluttet at det etter individuelle vurderinger kan treffes vedtak på grensestedet om å nekte realitetsbehandling av asylsøknader, eller
+2. utlendingen ankommer grensen mot nordisk nabostat og Kongen i statsråd har truffet beslutninger som nevnt i [§ 32](lov/2008-05-15-35/§32) femte ledd om å nekte realitetsbehandling av asylsøknader fremmet på grensen mot den aktuelle nordiske nabostaten.
 
 Utlendinger som har oppholdstillatelse utstedt av et land som deltar i Schengensamarbeidet (Schengenland), slik dette er definert i forskrift, og har gyldig reisedokument, er unntatt fra visumplikt.
 
@@ -115,7 +118,13 @@ Avgjørelse om tillatelse til innreise etter første ledd bokstav a og b kan tre
 
 ### § 9 a. Fremreisetillatelse
 
-Forordning [(EU) 2018/1240](eu/32018r1240) om etableringen av fremreisesystemet (ETIAS-forordningen) gjelder som lov. Forordningen gjelder med de endringene som følger avforordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)forordning [(EU) 2024/1356](eu/32024r1356)forordning [(EU) 2024/1358](eu/32024r1358)
+Forordning [(EU) 2018/1240](eu/32018r1240) om etableringen av fremreisesystemet (ETIAS-forordningen) gjelder som lov. Forordningen gjelder med de endringene som følger av
+
+- forordning [(EU) 2019/817](eu/32019r0817)
+- forordning [(EU) 2021/1134](eu/32021r1134)
+- forordning [(EU) 2021/1152](eu/32021r1152)
+- forordning [(EU) 2024/1356](eu/32024r1356)
+- forordning [(EU) 2024/1358](eu/32024r1358)
 
 Kongen kan gi forskrift om gjennomføringen av forordningen, blant annet om saksbehandlingen for søknader om fremreisetillatelse og hvem som er klageinstans.
 
@@ -123,7 +132,14 @@ Kongen kan gi forskrift om gjennomføringen av forordningen, blant annet om saks
 
 ### § 10. Schengenvisum
 
-En søker har rett til visum for besøk inntil tre måneder i løpet av en periode på seks måneder når følgende vilkår er oppfylt:utlendingen er i besittelse av et gyldig reisedokument eller dokumenter som tillater grensepassering,utlendingen kan sannsynliggjøre det planlagte formålet med oppholdet og har tilstrekkelige midler til sitt livsopphold, både under oppholdet og til tilbakereise til sitt hjemland eller til transitt til et tredjeland der utlendingen er sikret rett til innreise, eller kan erverve slike midler på lovlig måte,utlendingen er ikke innmeldt i Schengen Informasjonssystem (SIS) med henblikk på nekting av innreise,utlendingen anses ikke som en trussel for Norges eller andre Schengenlands offentlige orden, indre sikkerhet, folkehelse eller deres internasjonale forbindelser, særlig hvis det ikke foreligger noen melding i medlemsstatenes nasjonale dataregistre med henblikk på nekting av innreise på samme grunnlag.For øvrig må det være i samsvar med kriteriene for visumutstedelse som følger av Schengensamarbeidet å utstede visum. Kongen kan gi utfyllende bestemmelser i forskrift, herunder om krav til reise- og sykeforsikring som følger av Schengensamarbeidet.
+En søker har rett til visum for besøk inntil tre måneder i løpet av en periode på seks måneder når følgende vilkår er oppfylt:
+
+1. utlendingen er i besittelse av et gyldig reisedokument eller dokumenter som tillater grensepassering,
+2. utlendingen kan sannsynliggjøre det planlagte formålet med oppholdet og har tilstrekkelige midler til sitt livsopphold, både under oppholdet og til tilbakereise til sitt hjemland eller til transitt til et tredjeland der utlendingen er sikret rett til innreise, eller kan erverve slike midler på lovlig måte,
+3. utlendingen er ikke innmeldt i Schengen Informasjonssystem (SIS) med henblikk på nekting av innreise,
+4. utlendingen anses ikke som en trussel for Norges eller andre Schengenlands offentlige orden, indre sikkerhet, folkehelse eller deres internasjonale forbindelser, særlig hvis det ikke foreligger noen melding i medlemsstatenes nasjonale dataregistre med henblikk på nekting av innreise på samme grunnlag.
+
+For øvrig må det være i samsvar med kriteriene for visumutstedelse som følger av Schengensamarbeidet å utstede visum. Kongen kan gi utfyllende bestemmelser i forskrift, herunder om krav til reise- og sykeforsikring som følger av Schengensamarbeidet.
 
 Det kan gjøres unntak fra retten til visum etter første ledd dersom innvandringsregulerende hensyn taler mot at visum gis, eller det foreligger omstendigheter som ville gitt grunn til å nekte utlendingen adgang til riket eller opphold i medhold av andre bestemmelser i loven.
 
@@ -179,7 +195,22 @@ Kongen kan gi forskrift om vilkårene for sjøfolk og blindpassasjerers adgang t
 
 ### § 17. Bortvisning
 
-En utlending kan bortvises:når utlendingen ikke viser gyldig pass eller annet godkjent reisedokument når dette er nødvendig,når utlendingen ikke viser visum eller fremreisetillatelse når dette er nødvendig,når utlendingen er registrert i Schengen Informasjonssystem (SIS) med sikte på å nekte innreise,når utlendingen mangler nødvendig tillatelse etter loven,når utlendingen ikke kan sannsynliggjøre det oppgitte formålet med oppholdet,når utlendingen ikke kan sannsynliggjøre å ha eller være sikret tilstrekkelig midler til opphold i riket eller i annet Schengenland og til hjemreise,når utlendingen er straffet eller er ilagt særreaksjon som nevnt i [§ 66](lov/2008-05-15-35/§66) første ledd bokstav b, for mindre enn to år siden har sonet eller er ilagt straff eller særreaksjon for et forhold som nevnt i [§ 66](lov/2008-05-15-35/§66) første ledd bokstav c, eller når andre omstendigheter gir grunn til å frykte at utlendingen her i riket eller i et annet Schengenland har begått eller vil begå en straffbar handling som kan føre til fengselsstraff. Tilsvarende gjelder når det er grunn til å frykte at utlendingen her i riket eller i et annet Schengenland har begått eller vil begå straffbare handlinger som nevnt i [straffeloven § 323](lov/2005-05-20-28/§323) (mindre tyveri), [§ 326](lov/2005-05-20-28/§326) (mindre underslag), [§ 334](lov/2005-05-20-28/§334) (mindre heleri), [§ 339](lov/2005-05-20-28/§339) (mindre hvitvasking), [§ 362](lov/2005-05-20-28/§362) (mindre dokumentfalsk) eller [§ 373](lov/2005-05-20-28/§373) (mindre bedrageri),når utlendingen i utlandet er straffet eller er ilagt særreaksjon for et forhold som etter norsk lov kan føre til fengselsstraff i fem år eller mer,når en myndighet i et Schengenland har truffet endelig avgjørelse om bortvisning eller utvisning av utlendingen fordi det er særlig grunn til å anta at vedkommende har begått alvorlige straffbare handlinger, eller fordi det foreligger reelle holdepunkter for at vedkommende planlegger å begå slike handlinger på territoriet til et Schengenland,når kompetent helsepersonell finner at utlendingen åpenbart lider av alvorlig sinnslidelse,når utlendingen ikke har dekket utgifter som er blitt påført det offentlige i forbindelse med at utlendingen tidligere er ført ut av riket eller har uoppgjort bøtestraff,når det er nødvendig av hensyn til Norges eller et annet Schengenlands indre sikkerhet, folkehelse eller offentlig orden, ellernår utlendingen har fått avslag på søknad om beskyttelse, jf. [lovens § 28](lov/2008-05-15-35/§28), eller har blitt nektet realitetsbehandling, jf. [lovens § 32](lov/2008-05-15-35/§32), og heller ikke har fått oppholdstillatelse etter [lovens § 38](lov/2008-05-15-35/§38).når utlendingen nekter å avgi biometriske opplysninger når det er påkrevd etter grenseforordningen artikkel 6 nr. 1 bokstav f, jf. [grenseloven § 8 første ledd nr. 1](lov/2018-04-20-8/§8/ledd/1/nummer/1).
+En utlending kan bortvises:
+
+1. når utlendingen ikke viser gyldig pass eller annet godkjent reisedokument når dette er nødvendig,
+2. når utlendingen ikke viser visum eller fremreisetillatelse når dette er nødvendig,
+3. når utlendingen er registrert i Schengen Informasjonssystem (SIS) med sikte på å nekte innreise,
+4. når utlendingen mangler nødvendig tillatelse etter loven,
+5. når utlendingen ikke kan sannsynliggjøre det oppgitte formålet med oppholdet,
+6. når utlendingen ikke kan sannsynliggjøre å ha eller være sikret tilstrekkelig midler til opphold i riket eller i annet Schengenland og til hjemreise,
+7. når utlendingen er straffet eller er ilagt særreaksjon som nevnt i [§ 66](lov/2008-05-15-35/§66) første ledd bokstav b, for mindre enn to år siden har sonet eller er ilagt straff eller særreaksjon for et forhold som nevnt i [§ 66](lov/2008-05-15-35/§66) første ledd bokstav c, eller når andre omstendigheter gir grunn til å frykte at utlendingen her i riket eller i et annet Schengenland har begått eller vil begå en straffbar handling som kan føre til fengselsstraff. Tilsvarende gjelder når det er grunn til å frykte at utlendingen her i riket eller i et annet Schengenland har begått eller vil begå straffbare handlinger som nevnt i [straffeloven § 323](lov/2005-05-20-28/§323) (mindre tyveri), [§ 326](lov/2005-05-20-28/§326) (mindre underslag), [§ 334](lov/2005-05-20-28/§334) (mindre heleri), [§ 339](lov/2005-05-20-28/§339) (mindre hvitvasking), [§ 362](lov/2005-05-20-28/§362) (mindre dokumentfalsk) eller [§ 373](lov/2005-05-20-28/§373) (mindre bedrageri),
+8. når utlendingen i utlandet er straffet eller er ilagt særreaksjon for et forhold som etter norsk lov kan føre til fengselsstraff i fem år eller mer,
+9. når en myndighet i et Schengenland har truffet endelig avgjørelse om bortvisning eller utvisning av utlendingen fordi det er særlig grunn til å anta at vedkommende har begått alvorlige straffbare handlinger, eller fordi det foreligger reelle holdepunkter for at vedkommende planlegger å begå slike handlinger på territoriet til et Schengenland,
+10. når kompetent helsepersonell finner at utlendingen åpenbart lider av alvorlig sinnslidelse,
+11. når utlendingen ikke har dekket utgifter som er blitt påført det offentlige i forbindelse med at utlendingen tidligere er ført ut av riket eller har uoppgjort bøtestraff,
+12. når det er nødvendig av hensyn til Norges eller et annet Schengenlands indre sikkerhet, folkehelse eller offentlig orden, eller
+13. når utlendingen har fått avslag på søknad om beskyttelse, jf. [lovens § 28](lov/2008-05-15-35/§28), eller har blitt nektet realitetsbehandling, jf. [lovens § 32](lov/2008-05-15-35/§32), og heller ikke har fått oppholdstillatelse etter [lovens § 38](lov/2008-05-15-35/§38).
+14. når utlendingen nekter å avgi biometriske opplysninger når det er påkrevd etter grenseforordningen artikkel 6 nr. 1 bokstav f, jf. [grenseloven § 8 første ledd nr. 1](lov/2018-04-20-8/§8/ledd/1/nummer/1).
 
 En utlending som er født i riket, og som senere uavbrutt har hatt fast bopel her, kan ikke bortvises. Det samme gjelder utlendinger som har midlertidig eller permanent oppholdstillatelse, og nordiske borgere som er bosatt i riket.
 
@@ -191,7 +222,12 @@ Kongen kan i forskrift gi regler om unntak fra bestemmelsene i første ledd for 
 
 Vedtak om bortvisning ved innreise eller innen sju dager etter innreise treffes av politimesteren eller den politimesteren gir fullmakt, hvis ikke annet framgår av annet ledd. Sjudagersfristen anses overholdt dersom en sak om bortvisning er reist innen sju dager. Vedtak om bortvisning ved grensekontroll etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav a til c kan treffes av polititjenesteperson.
 
-Vedtak om bortvisning treffes av Utlendingsdirektoratet dersomutlendingen oppgir å være flyktning, jf. [§ 28](lov/2008-05-15-35/§28), eller for øvrig gir opplysninger som tyder på at utlendingen er vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73),vedtaket treffes senere enn sju dager etter innreise,vedtaket gjelder bortvisning etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav h og l, ellerUtlendingsdirektoratet beslutter at saken skal avgjøres av direktoratet.
+Vedtak om bortvisning treffes av Utlendingsdirektoratet dersom
+
+1. utlendingen oppgir å være flyktning, jf. [§ 28](lov/2008-05-15-35/§28), eller for øvrig gir opplysninger som tyder på at utlendingen er vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73),
+2. vedtaket treffes senere enn sju dager etter innreise,
+3. vedtaket gjelder bortvisning etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav h og l, eller
+4. Utlendingsdirektoratet beslutter at saken skal avgjøres av direktoratet.
 
 Kongen kan i forskrift gi myndighet til politimesteren eller den politimesteren gir fullmakt, til å treffe vedtak om bortvisning også senere enn sju dager etter innreise. Kongen kan også gi myndighet til politiet eller annen myndighet til å treffe vedtak om bortvisning av hensyn til folkehelsen etter [utlendingsloven § 17](lov/2008-05-15-35/§17) første ledd bokstav l.
 
@@ -207,7 +243,13 @@ Kongen kan i forskrift gi regler om at en utlending som ikke trenger oppholdstil
 
 ### § 20. Plikt i andre tilfeller til å gi melding til myndighetene
 
-Kongen kan i forskrift gi bestemmelser om at:den som driver hotell, pensjonat, losjihus, leirplass og lignende, skal føre fortegnelse over alle som overnatter og gi politiet melding om dem, samt at også andre kan pålegges å gi melding til politiet når en utlending overnatter hos dem hvis sikkerhets- eller beredskapshensyn tilsier dette,den som tar en utlending i sin tjeneste eller gir en utlending lønnet arbeid, skal melde dette til politiet før arbeidet begynner,den som driver arbeidsformidling skal gi melding til politiet om de utlendingene som søker eller får arbeid,folkeregisteret skal gi melding til politiet om utlendinger som meldes inn og ut,utdanningsinstitusjoner etter anmodning skal gi politiet fortegnelse over utenlandske elever eller studenter.
+Kongen kan i forskrift gi bestemmelser om at:
+
+1. den som driver hotell, pensjonat, losjihus, leirplass og lignende, skal føre fortegnelse over alle som overnatter og gi politiet melding om dem, samt at også andre kan pålegges å gi melding til politiet når en utlending overnatter hos dem hvis sikkerhets- eller beredskapshensyn tilsier dette,
+2. den som tar en utlending i sin tjeneste eller gir en utlending lønnet arbeid, skal melde dette til politiet før arbeidet begynner,
+3. den som driver arbeidsformidling skal gi melding til politiet om de utlendingene som søker eller får arbeid,
+4. folkeregisteret skal gi melding til politiet om utlendinger som meldes inn og ut,
+5. utdanningsinstitusjoner etter anmodning skal gi politiet fortegnelse over utenlandske elever eller studenter.
 
 Kongen kan i forskrift gi nærmere regler om hvilke opplysninger fortegnelsene skal inneholde og hvordan opplysningene skal formidles.
 
@@ -227,7 +269,10 @@ Ved planlagte aksjoner treffes beslutningen om kontroll i medhold av første led
 
 ### § 21 a. Tilbakeholdelse og innbringelse
 
-Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon eller annet lokale som benyttes under polititjenesten nårutlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, ellerutlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
+Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon eller annet lokale som benyttes under polititjenesten når
+
+1. utlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, eller
+2. utlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
 
 Ingen må holdes tilbake lenger enn nødvendig etter denne paragrafen og ikke ut over 4 timer. Tiden inngår i beregningen av frister etter [§§ 106 a](lov/2008-05-15-35/§106a) til [106 c](lov/2008-05-15-35/§106c) og [politiloven § 8](lov/1995-08-04-53/§8).
 
@@ -245,7 +290,12 @@ Kongen kan gi forskrift om Tolletatens og andre myndigheters adgang til å gjenn
 
 ### § 23. Oppholdstillatelse for arbeidstakere som skal arbeide for en arbeidsgiver i riket
 
-Etter nærmere regler fastsatt av Kongen i forskrift kan det gis oppholdstillatelse for å utføre arbeid for en arbeidsgiver i riket når følgende vilkår er oppfylt:Søkeren er fylt 18 år.Lønns- og arbeidsvilkår er ikke dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Dersom slik tariffavtale eller regulativ ikke foreligger, skal lønns- og arbeidsvilkår ikke være dårligere enn det som er normalt for vedkommende sted og yrke.Søkeren omfattes av en kvote fastsatt av departementet eller stillingen kan ikke besettes av innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området. Unntak gjelder dersom utlendingen i medhold av internasjonale avtaler som Norge er bundet av, har rett til oppholdstillatelse for å utføre arbeid. Unntak gjelder også for utenlandske sjøfolk som arbeider om bord på utenlandsk registrert sjøfartøy.Det foreligger et konkret tilbud om arbeid. Arbeidstilbudet skal som hovedregel gjelde heltidsarbeid for én arbeidsgiver, men unntak kan gjøres etter en konkret vurdering av stillingens art.
+Etter nærmere regler fastsatt av Kongen i forskrift kan det gis oppholdstillatelse for å utføre arbeid for en arbeidsgiver i riket når følgende vilkår er oppfylt:
+
+1. Søkeren er fylt 18 år.
+2. Lønns- og arbeidsvilkår er ikke dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Dersom slik tariffavtale eller regulativ ikke foreligger, skal lønns- og arbeidsvilkår ikke være dårligere enn det som er normalt for vedkommende sted og yrke.
+3. Søkeren omfattes av en kvote fastsatt av departementet eller stillingen kan ikke besettes av innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området. Unntak gjelder dersom utlendingen i medhold av internasjonale avtaler som Norge er bundet av, har rett til oppholdstillatelse for å utføre arbeid. Unntak gjelder også for utenlandske sjøfolk som arbeider om bord på utenlandsk registrert sjøfartøy.
+4. Det foreligger et konkret tilbud om arbeid. Arbeidstilbudet skal som hovedregel gjelde heltidsarbeid for én arbeidsgiver, men unntak kan gjøres etter en konkret vurdering av stillingens art.
 
 Kongen kan fastsette i forskrift at det skal kunne gis forhåndstilsagn om oppholdstillatelse for å utføre arbeid innen bestemte næringsgrener som har behov for ekstra bemanning i avgrensede perioder.
 
@@ -259,7 +309,12 @@ Kongen kan gi utfyllende bestemmelser i forskrift, herunder om innholdet av opph
 
 ### § 24. Oppholdstillatelse for å yte tjenester som utsendt arbeidstaker eller selvstendig oppdragstaker
 
-Etter nærmere regler fastsatt av Kongen i forskrift kan det gis oppholdstillatelse for å yte tjenester når følgende vilkår er oppfylt:Søkeren er fylt 18 år.Lønns- og arbeidsvilkår er ikke dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Dersom slik tariffavtale eller regulativ ikke foreligger, skal lønns- og arbeidsvilkår ikke være dårligere enn det som er normalt for vedkommende sted og yrke.Det kan ikke skaffes innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området til oppdraget. Unntak gjelder dersom utlendingen i medhold av internasjonale avtaler som Norge er bundet av, har rett til oppholdstillatelse for å utføre arbeid. Kongen kan i forskrift fastsette at utlendinger som er fagutdannet eller har spesielle kvalifikasjoner, skal kunne få oppholdstillatelse uten en individuell vurdering av om det kan skaffes innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området.Det foreligger et konkret tilbud om oppdrag. Tilbudet skal som hovedregel gjelde for én oppdragsgiver, med mindre særlige grunner tilsier noe annet.
+Etter nærmere regler fastsatt av Kongen i forskrift kan det gis oppholdstillatelse for å yte tjenester når følgende vilkår er oppfylt:
+
+1. Søkeren er fylt 18 år.
+2. Lønns- og arbeidsvilkår er ikke dårligere enn etter gjeldende tariffavtale eller regulativ for bransjen. Dersom slik tariffavtale eller regulativ ikke foreligger, skal lønns- og arbeidsvilkår ikke være dårligere enn det som er normalt for vedkommende sted og yrke.
+3. Det kan ikke skaffes innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området til oppdraget. Unntak gjelder dersom utlendingen i medhold av internasjonale avtaler som Norge er bundet av, har rett til oppholdstillatelse for å utføre arbeid. Kongen kan i forskrift fastsette at utlendinger som er fagutdannet eller har spesielle kvalifikasjoner, skal kunne få oppholdstillatelse uten en individuell vurdering av om det kan skaffes innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området.
+4. Det foreligger et konkret tilbud om oppdrag. Tilbudet skal som hovedregel gjelde for én oppdragsgiver, med mindre særlige grunner tilsier noe annet.
 
 Kongen kan fastsette i forskrift at en oppdragsgiver kan søke om tillatelse til å ta i arbeid et bestemt antall utenlandske tjenesteytere for tidsbegrenset arbeid (gruppetillatelse). Utlendinger som omfattes av en slik tillatelse, gis etter ankomst til riket individuelle oppholdstillatelser.
 
@@ -277,7 +332,10 @@ Kongen kan gi utfyllende bestemmelser i forskrift, herunder om vilkårene for op
 
 ### § 26. Oppholdstillatelse for studier og for vitenskapelig, religiøst eller kulturelt formål o.a.
 
-Kongen kan i forskrift fastsette regler for når oppholdstillatelse kan gis av andre grunner enn det som følger av de ulike bestemmelsene i loven, så langt det ikke berører hovedprinsipper ved innvandringsreguleringen. Kongen kan herunder gi regler omoppholdstillatelse til fremme av vitenskapelig, religiøst eller kulturelt samarbeid og utvikling i saker som etter sin art faller utenfor reglene i [§§ 23](lov/2008-05-15-35/§23), [24](lov/2008-05-15-35/§24) og [25](lov/2008-05-15-35/§25), ogoppholdstillatelse for å ta utdanning og lignende.
+Kongen kan i forskrift fastsette regler for når oppholdstillatelse kan gis av andre grunner enn det som følger av de ulike bestemmelsene i loven, så langt det ikke berører hovedprinsipper ved innvandringsreguleringen. Kongen kan herunder gi regler om
+
+1. oppholdstillatelse til fremme av vitenskapelig, religiøst eller kulturelt samarbeid og utvikling i saker som etter sin art faller utenfor reglene i [§§ 23](lov/2008-05-15-35/§23), [24](lov/2008-05-15-35/§24) og [25](lov/2008-05-15-35/§25), og
+2. oppholdstillatelse for å ta utdanning og lignende.
 
 Kongen kan gi utfyllende bestemmelser i forskrift, herunder om innholdet av oppholdstillatelsen, retten til permanent oppholdstillatelse og tilbakekall av oppholdstillatelsen.
 
@@ -317,7 +375,10 @@ Vedtak etter første eller annet ledd berører ikke retten til opphold etter [ka
 
 ### § 28. Oppholdstillatelse for utlendinger som trenger beskyttelse (asyl)
 
-En utlending som er i riket eller på norsk grense, skal etter søknad anerkjennes som flyktning dersom utlendingenhar en velbegrunnet frykt for forfølgelse på grunn av etnisitet, avstamning, hudfarge, religion, nasjonalitet, medlemskap i en spesiell sosial gruppe eller på grunn av politisk oppfatning, og er ute av stand til, eller på grunn av slik frykt er uvillig til, å påberope seg sitt hjemlands beskyttelse, jf. flyktningkonvensjonen 28. juli 1951 artikkel 1 A og protokoll 31. januar 1967, elleruten å falle inn under bokstav a likevel står i reell fare for å bli utsatt for dødsstraff, tortur eller annen umenneskelig eller nedverdigende behandling eller straff ved tilbakevending til hjemlandet.
+En utlending som er i riket eller på norsk grense, skal etter søknad anerkjennes som flyktning dersom utlendingen
+
+1. har en velbegrunnet frykt for forfølgelse på grunn av etnisitet, avstamning, hudfarge, religion, nasjonalitet, medlemskap i en spesiell sosial gruppe eller på grunn av politisk oppfatning, og er ute av stand til, eller på grunn av slik frykt er uvillig til, å påberope seg sitt hjemlands beskyttelse, jf. flyktningkonvensjonen 28. juli 1951 artikkel 1 A og protokoll 31. januar 1967, eller
+2. uten å falle inn under bokstav a likevel står i reell fare for å bli utsatt for dødsstraff, tortur eller annen umenneskelig eller nedverdigende behandling eller straff ved tilbakevending til hjemlandet.
 
 En utlending som anerkjennes som flyktning etter første ledd, har rett til oppholdstillatelse (asyl).
 
@@ -337,15 +398,40 @@ Kongen kan i forskrift gi nærmere regler om anvendelsen av denne paragrafen og 
 
 ### § 29. Nærmere om forfølgelse etter § 28 første ledd bokstav a
 
-For at handlinger skal anses å utgjøre forfølgelse i henhold til [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a, må de entenenkeltvis eller på grunn av gjentakelse utgjøre en alvorlig krenkelse av grunnleggende menneskerettigheter, særlig slike rettigheter som ikke kan fravikes i medhold av artikkel 15 nr. 2 i den europeiske menneskerettskonvensjon av 4. november 1950, ellerutgjøre flere forskjellige tiltak, herunder krenkelser av menneskerettigheter, som til sammen er så alvorlige at de berører et menneske på en måte som kan sammenlignes med situasjonen beskrevet i bokstav a.
+For at handlinger skal anses å utgjøre forfølgelse i henhold til [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a, må de enten
 
-Forfølgelse kan blant annet ta form avfysisk eller psykisk vold, herunder seksualisert vold,lovgivning og administrative, politimessige og judisielle tiltak, enten de er diskriminerende i seg selv eller praktiseres på en diskriminerende måte,strafforfølgelse og straffullbyrdelse som er uforholdsmessig eller diskriminerende,fravær av muligheten for rettslig overprøving når dette fører til straffer som er uforholdsmessige eller diskriminerende,strafforfølgelse for å nekte militærtjeneste i en konflikt der slik tjeneste vil inkludere forbrytelser eller handlinger som nevnt i [§ 31](lov/2008-05-15-35/§31) første ledd, ellerhandlinger som er rettet særskilt mot kjønn eller mot barn.
+1. enkeltvis eller på grunn av gjentakelse utgjøre en alvorlig krenkelse av grunnleggende menneskerettigheter, særlig slike rettigheter som ikke kan fravikes i medhold av artikkel 15 nr. 2 i den europeiske menneskerettskonvensjon av 4. november 1950, eller
+2. utgjøre flere forskjellige tiltak, herunder krenkelser av menneskerettigheter, som til sammen er så alvorlige at de berører et menneske på en måte som kan sammenlignes med situasjonen beskrevet i bokstav a.
 
-Forfølger kan værestaten,organisasjoner eller grupperinger som kontrollerer statsapparatet eller en så stor del av statens territorium at utlendingen ikke kan henvises til å søke beskyttelse i andre deler av landet, jf. [§ 28](lov/2008-05-15-35/§28) femte ledd, ellerikke-statlige aktører dersom de aktørene som er nevnt i bokstav a og b, inkludert internasjonale organisasjoner, er ute av stand til eller ikke er villige til å treffe rimelige tiltak for å forhindre forfølgelsen, blant annet gjennom et virksomt system for å avdekke, rettsforfølge og straffe handlinger som utgjør forfølgelse.
+Forfølgelse kan blant annet ta form av
+
+1. fysisk eller psykisk vold, herunder seksualisert vold,
+2. lovgivning og administrative, politimessige og judisielle tiltak, enten de er diskriminerende i seg selv eller praktiseres på en diskriminerende måte,
+3. strafforfølgelse og straffullbyrdelse som er uforholdsmessig eller diskriminerende,
+4. fravær av muligheten for rettslig overprøving når dette fører til straffer som er uforholdsmessige eller diskriminerende,
+5. strafforfølgelse for å nekte militærtjeneste i en konflikt der slik tjeneste vil inkludere forbrytelser eller handlinger som nevnt i [§ 31](lov/2008-05-15-35/§31) første ledd, eller
+6. handlinger som er rettet særskilt mot kjønn eller mot barn.
+
+Forfølger kan være
+
+1. staten,
+2. organisasjoner eller grupperinger som kontrollerer statsapparatet eller en så stor del av statens territorium at utlendingen ikke kan henvises til å søke beskyttelse i andre deler av landet, jf. [§ 28](lov/2008-05-15-35/§28) femte ledd, eller
+3. ikke-statlige aktører dersom de aktørene som er nevnt i bokstav a og b, inkludert internasjonale organisasjoner, er ute av stand til eller ikke er villige til å treffe rimelige tiltak for å forhindre forfølgelsen, blant annet gjennom et virksomt system for å avdekke, rettsforfølge og straffe handlinger som utgjør forfølgelse.
 
 ### § 30. Nærmere om grunnlaget for forfølgelse etter § 28 første ledd bokstav a
 
-Ved anvendelsen av [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a skal følgende legges til grunn ved vurderingen av grunnlaget for forfølgelsen:Religion skal særlig anses å omfattereligiøse og andre typer livssyn,deltakelse i eller tilsiktet fravær fra formell gudsdyrkelse, enten det skjer privat eller offentlig, alene eller sammen med andre,andre handlinger eller meningsytringer knyttet til vedkommendes religion eller livssyn,individuelle eller kollektive handlemåter som er diktert av religiøs eller livssynsmessig overbevisning,frihet til å skifte religion eller annet livssyn.Nasjonalitet skal foruten statsborgerskap eller mangel på statsborgerskap også omfatte medlemskap i en gruppe som er definert ved sin kulturelle, etniske eller språklige identitet, geografiske eller politiske opprinnelse eller forbindelse med befolkningen i en annen stat.En spesiell sosial gruppe skal særlig anses å omfatte en gruppe mennesker som har et felles kjennetegn ut over faren for å bli forfulgt, og som oppfattes som en gruppe av samfunnet. Det felles kjennetegnet kan være iboende eller av andre grunner uforanderlig, eller for øvrig utgjøres av en væremåte eller en overbevisning som er så grunnleggende for identitet, samvittighet eller utøvelse av menneskerettigheter at et menneske ikke kan forventes å oppgi den. Tidligere ofre for menneskehandel skal anses som medlemmer av en spesiell sosial gruppe.Politisk oppfatning skal særlig anses å omfatte oppfatninger om de aktuelle forfølgerne eller deres politikk eller metoder, uansett om søkeren har handlet i henhold til denne oppfatningen.
+Ved anvendelsen av [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a skal følgende legges til grunn ved vurderingen av grunnlaget for forfølgelsen:
+
+1. Religion skal særlig anses å omfatte
+
+   - religiøse og andre typer livssyn,
+   - deltakelse i eller tilsiktet fravær fra formell gudsdyrkelse, enten det skjer privat eller offentlig, alene eller sammen med andre,
+   - andre handlinger eller meningsytringer knyttet til vedkommendes religion eller livssyn,
+   - individuelle eller kollektive handlemåter som er diktert av religiøs eller livssynsmessig overbevisning,
+   - frihet til å skifte religion eller annet livssyn.
+2. Nasjonalitet skal foruten statsborgerskap eller mangel på statsborgerskap også omfatte medlemskap i en gruppe som er definert ved sin kulturelle, etniske eller språklige identitet, geografiske eller politiske opprinnelse eller forbindelse med befolkningen i en annen stat.
+3. En spesiell sosial gruppe skal særlig anses å omfatte en gruppe mennesker som har et felles kjennetegn ut over faren for å bli forfulgt, og som oppfattes som en gruppe av samfunnet. Det felles kjennetegnet kan være iboende eller av andre grunner uforanderlig, eller for øvrig utgjøres av en væremåte eller en overbevisning som er så grunnleggende for identitet, samvittighet eller utøvelse av menneskerettigheter at et menneske ikke kan forventes å oppgi den. Tidligere ofre for menneskehandel skal anses som medlemmer av en spesiell sosial gruppe.
+4. Politisk oppfatning skal særlig anses å omfatte oppfatninger om de aktuelle forfølgerne eller deres politikk eller metoder, uansett om søkeren har handlet i henhold til denne oppfatningen.
 
 Ved vurderingen av om det foreligger en velbegrunnet frykt for forfølgelse er det uten betydning om søkeren har de kjennetegn eller den oppfatning som fører til forfølgelsen, jf. [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a, såfremt forfølgeren mener at søkeren har kjennetegnet eller oppfatningen.
 
@@ -353,7 +439,11 @@ Ved vurderingen av om det foreligger en velbegrunnet frykt for forfølgelse er d
 
 ### § 31. Utelukkelse fra rett til anerkjennelse som flyktning etter § 28
 
-Rett til anerkjennelse som flyktning etter [§ 28](lov/2008-05-15-35/§28) første ledd foreligger ikke dersom utlendingen faller inn under flyktningkonvensjonen 28. juli 1951 artikkel 1D eller E, eller dersom det er alvorlig grunn til å anta at utlendingenhar gjort seg skyldig i en forbrytelse mot freden, en krigsforbrytelse eller en forbrytelse mot menneskeheten, slik disse forbrytelsene er definert i internasjonale avtaler som tar sikte på å gi bestemmelser om slike forbrytelser,har gjort seg skyldig i en alvorlig ikke-politisk forbrytelse utenfor Norges grenser, før han fikk adgang til Norge som flyktning, ellerhar gjort seg skyldig i handlinger som er i strid med FNs formål og prinsipper.
+Rett til anerkjennelse som flyktning etter [§ 28](lov/2008-05-15-35/§28) første ledd foreligger ikke dersom utlendingen faller inn under flyktningkonvensjonen 28. juli 1951 artikkel 1D eller E, eller dersom det er alvorlig grunn til å anta at utlendingen
+
+1. har gjort seg skyldig i en forbrytelse mot freden, en krigsforbrytelse eller en forbrytelse mot menneskeheten, slik disse forbrytelsene er definert i internasjonale avtaler som tar sikte på å gi bestemmelser om slike forbrytelser,
+2. har gjort seg skyldig i en alvorlig ikke-politisk forbrytelse utenfor Norges grenser, før han fikk adgang til Norge som flyktning, eller
+3. har gjort seg skyldig i handlinger som er i strid med FNs formål og prinsipper.
 
 Retten til anerkjennelse som flyktning etter [§ 28](lov/2008-05-15-35/§28) første ledd bokstav b foreligger heller ikke dersom utlendingen har fått endelig dom for en særlig alvorlig forbrytelse og av den grunn utgjør en fare for det norske samfunnet. Dersom det er grunnlag for utvisning av en utlending av hensyn til grunnleggende nasjonale interesser etter [§ 126](lov/2008-05-15-35/§126) annet ledd, gjelder [§ 126](lov/2008-05-15-35/§126) femte ledd.
 
@@ -367,7 +457,12 @@ For utlendinger som faller inn under første til fjerde ledd, men som etter [§ 
 
 ### § 32. Internasjonalt samarbeid mv. om behandling av søknader om opphold av beskyttelsesgrunner
 
-En søknad om oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) kan nektes realitetsbehandlet dersom søkerenhar fått asyl eller annen form for beskyttelse i et annet land,kan kreves mottatt av et annet land i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. fjerde ledd,kan kreves mottatt av en annen nordisk stat etter reglene i den nordiske passkontrolloverenskomsten,1har reist til riket etter å ha hatt opphold i en stat eller et område hvor utlendingen ikke var forfulgt.
+En søknad om oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) kan nektes realitetsbehandlet dersom søkeren
+
+1. har fått asyl eller annen form for beskyttelse i et annet land,
+2. kan kreves mottatt av et annet land i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. fjerde ledd,
+3. kan kreves mottatt av en annen nordisk stat etter reglene i den nordiske passkontrolloverenskomsten,1
+4. har reist til riket etter å ha hatt opphold i en stat eller et område hvor utlendingen ikke var forfulgt.
 
 I tilfeller som nevnt i første ledd bokstav b, c og d skal søknaden om oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) likevel tas til realitetsbehandling dersom utlendingen har en tilknytning til riket som gjør at Norge er nærmest til å realitetsbehandle den. Kongen kan gi nærmere regler i forskrift om når en søknad som faller inn under første ledd, skal realitetsbehandles.
 
@@ -381,7 +476,9 @@ Beslutninger som treffes av Kongen i statsråd i medhold av femte ledd skal fort
 
 > Endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [20 nov 2015 nr. 94](lov/2015-11-20-94), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 nov 2015 nr. 94](lov/2015-11-20-94) som endret ved lov [15 des 2017 nr. 108](lov/2017-12-15-108), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-1 Inntatt her etter lovteksten.2 Uoffisiell norsk oversettelse av forordning [(EU) 2024/1351](eu/32024r1351) og forordning [(EU) 2024/1359](eu/32024r1359) kan leses som vedlegg til [prop. 37 LS (2025-2026)](static/NL/prop-202526-037.pdf).
+1 Inntatt her etter lovteksten.
+
+2 Uoffisiell norsk oversettelse av forordning [(EU) 2024/1351](eu/32024r1351) og forordning [(EU) 2024/1359](eu/32024r1359) kan leses som vedlegg til [prop. 37 LS (2025-2026)](static/NL/prop-202526-037.pdf).
 
 ### § 33. Adgang til å stille saksbehandlingen i bero ved utsikt til bedring av situasjonen i et område
 
@@ -423,7 +520,14 @@ En utlending som har fått asyl eller reisebevis for flyktninger av en fremmed s
 
 ### § 37. Opphør og tilbakekall av oppholdstillatelse etter §§ 28 eller 34
 
-Ved siden av tilbakekall etter [§ 63](lov/2008-05-15-35/§63) kan status som flyktning og oppholdstillatelse etter [§§ 28](lov/2008-05-15-35/§28) og [34](lov/2008-05-15-35/§34) også tilbakekalles dersom utlendingen:frivillig på nytt har søkt beskyttelse fra det landet utlendingen er borger av,etter å ha mistet sitt statsborgerskap, frivillig har gjenervervet det,har ervervet nytt statsborgerskap og nyter beskyttelse av det landet utlendingen er blitt borger av,frivillig på nytt har bosatt seg i det landet utlendingen forlot eller oppholdt seg utenfor på grunn av frykt for forfølgelse,ikke lenger kan nekte å nyte godt av beskyttelse fra det landet utlendingen er borger av, fordi de forholdene som førte til at utlendingen ble anerkjent som flyktning etter [§ 28](lov/2008-05-15-35/§28) eller fikk beskyttelse etter [§ 34](lov/2008-05-15-35/§34), ikke lenger er til stede, ellerikke er borger av noe land, og på grunn av at de forholdene som førte til at utlendingen ble anerkjent som flyktning etter [§ 28](lov/2008-05-15-35/§28) eller fikk beskyttelse etter [§ 34](lov/2008-05-15-35/§34) ikke lenger er tilstede, er i stand til å vende tilbake til det landet hvor utlendingen tidligere hadde sin bopel.
+Ved siden av tilbakekall etter [§ 63](lov/2008-05-15-35/§63) kan status som flyktning og oppholdstillatelse etter [§§ 28](lov/2008-05-15-35/§28) og [34](lov/2008-05-15-35/§34) også tilbakekalles dersom utlendingen:
+
+1. frivillig på nytt har søkt beskyttelse fra det landet utlendingen er borger av,
+2. etter å ha mistet sitt statsborgerskap, frivillig har gjenervervet det,
+3. har ervervet nytt statsborgerskap og nyter beskyttelse av det landet utlendingen er blitt borger av,
+4. frivillig på nytt har bosatt seg i det landet utlendingen forlot eller oppholdt seg utenfor på grunn av frykt for forfølgelse,
+5. ikke lenger kan nekte å nyte godt av beskyttelse fra det landet utlendingen er borger av, fordi de forholdene som førte til at utlendingen ble anerkjent som flyktning etter [§ 28](lov/2008-05-15-35/§28) eller fikk beskyttelse etter [§ 34](lov/2008-05-15-35/§34), ikke lenger er til stede, eller
+6. ikke er borger av noe land, og på grunn av at de forholdene som førte til at utlendingen ble anerkjent som flyktning etter [§ 28](lov/2008-05-15-35/§28) eller fikk beskyttelse etter [§ 34](lov/2008-05-15-35/§34) ikke lenger er tilstede, er i stand til å vende tilbake til det landet hvor utlendingen tidligere hadde sin bopel.
 
 Oppholdstillatelse skal ikke tilbakekalles etter første ledd bokstav e eller f dersom utlendingen kan påberope seg tvingende grunner i forbindelse med tidligere forfølgelse for å avvise beskyttelse fra det landet utlendingen har statsborgerrett i, eller å nekte å vende tilbake til det landet hvor utlendingen tidligere hadde sin vanlige bopel.
 
@@ -433,13 +537,28 @@ Oppholdstillatelse skal ikke tilbakekalles etter første ledd bokstav e eller f 
 
 Det kan gis oppholdstillatelse selv om de øvrige vilkårene i loven ikke er oppfylt dersom det foreligger sterke menneskelige hensyn eller utlendingen har særlig tilknytning til riket.
 
-For å avgjøre om det foreligger sterke menneskelige hensyn skal det foretas en totalvurdering av saken. Det kan blant annet legges vekt på omutlendingen er enslig mindreårig uten forsvarlig omsorg ved retur,det foreligger tvingende helsemessige forhold som gjør at utlendingen har behov for opphold i riket,det foreligger sosiale eller humanitære forhold ved retursituasjonen som gir grunnlag for å innvilge oppholdstillatelse, ellerutlendingen har vært offer for menneskehandel.
+For å avgjøre om det foreligger sterke menneskelige hensyn skal det foretas en totalvurdering av saken. Det kan blant annet legges vekt på om
+
+1. utlendingen er enslig mindreårig uten forsvarlig omsorg ved retur,
+2. det foreligger tvingende helsemessige forhold som gjør at utlendingen har behov for opphold i riket,
+3. det foreligger sosiale eller humanitære forhold ved retursituasjonen som gir grunnlag for å innvilge oppholdstillatelse, eller
+4. utlendingen har vært offer for menneskehandel.
 
 I saker som berører barn, skal barnets beste være et grunnleggende hensyn. Barn kan gis oppholdstillatelse etter første ledd selv om situasjonen ikke har et slikt alvor at det ville blitt innvilget oppholdstillatelse til en voksen.
 
-Ved vurderingen av om tillatelse skal gis, kan det legges vekt på innvandringsregulerende hensyn, herundermulige konsekvenser for omfanget av søknader på liknende grunnlag,de samfunnsmessige konsekvensene,hensynet til kontroll, oghensynet til respekten for lovens øvrige regler.
+Ved vurderingen av om tillatelse skal gis, kan det legges vekt på innvandringsregulerende hensyn, herunder
 
-Når det er tvil om utlendingens identitet, når behovet er midlertidig, eller når andre særlige grunner tilsier det, kan det fastsettes attillatelsen ikke skal kunne danne grunnlag for permanent oppholdstillatelse,tillatelsen ikke skal kunne danne grunnlag for oppholdstillatelse etter [lovens kapittel 6](lov/2008-05-15-35/kap6) for utlendingens familiemedlemmer,tillatelsen ikke skal kunne fornyes, ellerat tillatelsens varighet skal være kortere enn ett år.
+1. mulige konsekvenser for omfanget av søknader på liknende grunnlag,
+2. de samfunnsmessige konsekvensene,
+3. hensynet til kontroll, og
+4. hensynet til respekten for lovens øvrige regler.
+
+Når det er tvil om utlendingens identitet, når behovet er midlertidig, eller når andre særlige grunner tilsier det, kan det fastsettes at
+
+1. tillatelsen ikke skal kunne danne grunnlag for permanent oppholdstillatelse,
+2. tillatelsen ikke skal kunne danne grunnlag for oppholdstillatelse etter [lovens kapittel 6](lov/2008-05-15-35/kap6) for utlendingens familiemedlemmer,
+3. tillatelsen ikke skal kunne fornyes, eller
+4. at tillatelsens varighet skal være kortere enn ett år.
 
 Kongen kan fastsette nærmere regler i forskrift.
 
@@ -453,7 +572,12 @@ Med referanseperson menes i denne loven den personen som søkeren ønsker å bli
 
 ### § 40. Oppholdstillatelse for ektefeller
 
-En søker som er ektefelle til en referanseperson, jf. [§ 39](lov/2008-05-15-35/§39), har rett til oppholdstillatelse når referansepersonen er:norsk eller nordisk statsborger som er bosatt eller skal bosette seg i riket,utlending med permanent oppholdstillatelse i riket,utlending som har eller får lovlig opphold i riket med oppholdstillatelse som kan danne grunnlag for permanent oppholdstillatelse, ellerutlending som har oppholdstillatelse etter bestemmelsen i [§ 34](lov/2008-05-15-35/§34) uten at ordningen med kollektiv beskyttelse har opphørt.
+En søker som er ektefelle til en referanseperson, jf. [§ 39](lov/2008-05-15-35/§39), har rett til oppholdstillatelse når referansepersonen er:
+
+1. norsk eller nordisk statsborger som er bosatt eller skal bosette seg i riket,
+2. utlending med permanent oppholdstillatelse i riket,
+3. utlending som har eller får lovlig opphold i riket med oppholdstillatelse som kan danne grunnlag for permanent oppholdstillatelse, eller
+4. utlending som har oppholdstillatelse etter bestemmelsen i [§ 34](lov/2008-05-15-35/§34) uten at ordningen med kollektiv beskyttelse har opphørt.
 
 Det er et vilkår for oppholdstillatelse etter første ledd at begge parter er over 18 år, med mindre partene er omfattet av 24-årskravet, jf. [§ 41 a](lov/2008-05-15-35/§41a).
 
@@ -471,9 +595,19 @@ Dersom referansepersonen får opphold i riket etter å ha inngått ekteskap med 
 
 ### § 40 a. Krav til referansepersonen om fire års arbeid eller utdanning i Norge
 
-Det er et vilkår for oppholdstillatelse etter [§ 40](lov/2008-05-15-35/§40) at referansepersonen har arbeidet eller tatt utdanning i Norge i fire år, når referansepersonen harasyl, jf. [§ 28](lov/2008-05-15-35/§28),oppholdstillatelse etter innreisetillatelse som overføringsflyktning, jf. [§ 35](lov/2008-05-15-35/§35) tredje ledd,kollektiv beskyttelse i en massefluktsituasjon, jf. [§ 34](lov/2008-05-15-35/§34),oppholdstillatelse på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, jf. [§ 38](lov/2008-05-15-35/§38),oppholdstillatelse som familiemedlem, jf. [§§ 40](lov/2008-05-15-35/§40) til [53](lov/2008-05-15-35/§53), ellerpermanent oppholdstillatelse på grunnlag av tillatelsene nevnt i bokstav a til e, jf. [§ 62](lov/2008-05-15-35/§62).
+Det er et vilkår for oppholdstillatelse etter [§ 40](lov/2008-05-15-35/§40) at referansepersonen har arbeidet eller tatt utdanning i Norge i fire år, når referansepersonen har
 
-Vilkåret i første ledd gjelder ikke nårekteskapet var inngått eller partene har unnfanget barn før tidspunktet for referansepersonens innreise i riket, ellerpartene har inngått ekteskap eller unnfanget barn mens begge har hatt oppholdstillatelse i Norge.
+1. asyl, jf. [§ 28](lov/2008-05-15-35/§28),
+2. oppholdstillatelse etter innreisetillatelse som overføringsflyktning, jf. [§ 35](lov/2008-05-15-35/§35) tredje ledd,
+3. kollektiv beskyttelse i en massefluktsituasjon, jf. [§ 34](lov/2008-05-15-35/§34),
+4. oppholdstillatelse på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, jf. [§ 38](lov/2008-05-15-35/§38),
+5. oppholdstillatelse som familiemedlem, jf. [§§ 40](lov/2008-05-15-35/§40) til [53](lov/2008-05-15-35/§53), eller
+6. permanent oppholdstillatelse på grunnlag av tillatelsene nevnt i bokstav a til e, jf. [§ 62](lov/2008-05-15-35/§62).
+
+Vilkåret i første ledd gjelder ikke når
+
+1. ekteskapet var inngått eller partene har unnfanget barn før tidspunktet for referansepersonens innreise i riket, eller
+2. partene har inngått ekteskap eller unnfanget barn mens begge har hatt oppholdstillatelse i Norge.
 
 Det kan gjøres unntak fra vilkåret dersom særlige grunner, herunder hensynet til familiens enhet, taler for det.
 
@@ -485,7 +619,10 @@ Kongen kan fastsette nærmere regler i forskrift.
 
 En søker som har levd i et fast og etablert samboerforhold i minst to år med en referanseperson som nevnt i [§ 40](lov/2008-05-15-35/§40) første ledd, har rett til oppholdstillatelse når partene akter å fortsette samlivet.
 
-En søker som ikke har levd i et fast og etablert samboerforhold med en referanseperson som nevnt i [§ 40](lov/2008-05-15-35/§40) første ledd, har rett til oppholdstillatelse dersom partene har barn sammen og akter å fortsette samlivet. Bestemmelsene i [§ 40 a](lov/2008-05-15-35/§40a) første, tredje og fjerde ledd gjelder tilsvarende, med mindrebarnet ble unnfanget før tidspunktet for referansepersonens innreise i riket, ellerbarnet ble unnfanget mens begge parter har hatt oppholdstillatelse i Norge.
+En søker som ikke har levd i et fast og etablert samboerforhold med en referanseperson som nevnt i [§ 40](lov/2008-05-15-35/§40) første ledd, har rett til oppholdstillatelse dersom partene har barn sammen og akter å fortsette samlivet. Bestemmelsene i [§ 40 a](lov/2008-05-15-35/§40a) første, tredje og fjerde ledd gjelder tilsvarende, med mindre
+
+1. barnet ble unnfanget før tidspunktet for referansepersonens innreise i riket, eller
+2. barnet ble unnfanget mens begge parter har hatt oppholdstillatelse i Norge.
 
 Oppholdstillatelse kan gis til en søker som ikke har levd i et fast og etablert samboerforhold med referansepersonen i minst to år, dersom partene venter barn sammen og akter å fortsette samlivet. Bestemmelsen i annet ledd annet punktum gjelder tilsvarende.
 
@@ -497,7 +634,10 @@ Kongen kan fastsette nærmere regler i forskrift.
 
 ### § 41 a. 24-årskrav for familieetablering
 
-Det er et vilkår for oppholdstillatelse etter [§§ 40](lov/2008-05-15-35/§40) (ektefeller) og [41](lov/2008-05-15-35/§41) (samboere) at begge parter har fylt 24 år, med mindreekteskapet var inngått eller samlivet var etablert før tidspunktet for referansepersonens innreise i Norge, ellerpartene har inngått ekteskap eller levd i et etablert samliv i Norge mens begge har hatt oppholdstillatelse eller norsk eller nordisk statsborgerskap.
+Det er et vilkår for oppholdstillatelse etter [§§ 40](lov/2008-05-15-35/§40) (ektefeller) og [41](lov/2008-05-15-35/§41) (samboere) at begge parter har fylt 24 år, med mindre
+
+1. ekteskapet var inngått eller samlivet var etablert før tidspunktet for referansepersonens innreise i Norge, eller
+2. partene har inngått ekteskap eller levd i et etablert samliv i Norge mens begge har hatt oppholdstillatelse eller norsk eller nordisk statsborgerskap.
 
 Det kan gjøres unntak fra vilkåret dersom det er åpenbart at ekteskapet eller samlivet er frivillig.
 
@@ -537,7 +677,11 @@ Kongen kan fastsette utfyllende bestemmelser i forskrift om adgang til å nekte 
 
 ### § 45. Oppholdstillatelse for mor eller far som skal ha samvær med norsk barn
 
-En søker som er mor eller far til norsk barn under 18 år som bor fast sammen med den andre av foreldrene i riket, har rett til oppholdstillatelse. Det er et vilkår at søkeren:har bodd sammen med barnet eller har utøvet samvær av et visst omfang det siste året i utlandet,har samværsrett av et visst omfang i riket, ogsannsynliggjør at samvær vil bli utøvet.
+En søker som er mor eller far til norsk barn under 18 år som bor fast sammen med den andre av foreldrene i riket, har rett til oppholdstillatelse. Det er et vilkår at søkeren:
+
+1. har bodd sammen med barnet eller har utøvet samvær av et visst omfang det siste året i utlandet,
+2. har samværsrett av et visst omfang i riket, og
+3. sannsynliggjør at samvær vil bli utøvet.
 
 Oppholdstillatelse kan likevel nektes dersom dette ville lede til at søkeren ville bli gjenforent med en herboende ektefelle som allerede er gift med eller samboer med en annen person her. Det samme gjelder dersom søkeren og den herboende forelderen ikke er gift på søknadstidspunktet, men det på et tidligere tidspunkt har bestått et bigamt forhold mellom søkeren, den herboende forelderen og dennes nåværende ektefelle eller samboer.
 
@@ -593,7 +737,11 @@ Dersom det ville være i strid med forutsetningene for referansepersonens opphol
 
 Oppholdstillatelse etter bestemmelsene i kapittelet her kan nektes dersom referansepersonen etter forespørsel ikke samtykker i at søkeren gis tillatelse, eller dersom det er sannsynlig at ekteskapet er inngått mot en av partenes vilje.
 
-Oppholdstillatelse etter bestemmelsene i kapittelet her kan nektes dersom familielivet kan utøves i et trygt land som familien samlet sett har sterkere tilknytning til, og referansepersonen haroppholdstillatelse som flyktning, jf. [§ 28](lov/2008-05-15-35/§28),oppholdstillatelse etter innreisetillatelse som overføringsflyktning, jf. [§ 35](lov/2008-05-15-35/§35) tredje ledd, ellerkollektiv beskyttelse i en massefluktsituasjon, jf. [§ 34](lov/2008-05-15-35/§34).
+Oppholdstillatelse etter bestemmelsene i kapittelet her kan nektes dersom familielivet kan utøves i et trygt land som familien samlet sett har sterkere tilknytning til, og referansepersonen har
+
+1. oppholdstillatelse som flyktning, jf. [§ 28](lov/2008-05-15-35/§28),
+2. oppholdstillatelse etter innreisetillatelse som overføringsflyktning, jf. [§ 35](lov/2008-05-15-35/§35) tredje ledd, eller
+3. kollektiv beskyttelse i en massefluktsituasjon, jf. [§ 34](lov/2008-05-15-35/§34).
 
 Kongen kan fastsette nærmere regler i forskrift, herunder unntak fra tredje ledd.
 
@@ -601,9 +749,17 @@ Kongen kan fastsette nærmere regler i forskrift, herunder unntak fra tredje led
 
 ### § 52. Fortsatt oppholdstillatelse på grunnlag av samværsordning med barn
 
-En søker som har foreldreansvaret for barn under 18 år som ikke bor fast sammen med søkeren, har rett til ny oppholdstillatelse når dette er nødvendig for å videreføre samvær med barnet i riket. Det er et vilkår at:søkeren har oppholdt seg i riket med tillatelse det siste året,barnet oppfyller vilkårene etter [§ 40](lov/2008-05-15-35/§40) første ledd og har opphold i riket sammen med den andre av foreldrene som barnet bor fast sammen med, ogsøkeren har samværsrett av et visst omfang og benytter denne.
+En søker som har foreldreansvaret for barn under 18 år som ikke bor fast sammen med søkeren, har rett til ny oppholdstillatelse når dette er nødvendig for å videreføre samvær med barnet i riket. Det er et vilkår at:
 
-En søker som har foreldreansvaret for barn under 18 år som bor fast sammen med søkeren, har rett til ny oppholdstillatelse når dette er nødvendig for å videreføre samvær mellom barnet og den andre av foreldrene i riket. Det er et vilkår at:søkeren har oppholdt seg i riket med tillatelse det siste året,den andre av foreldrene oppfyller vilkårene etter [§ 40](lov/2008-05-15-35/§40) første ledd, ogden andre av foreldrene har samværsrett av et visst omfang og benytter denne.
+1. søkeren har oppholdt seg i riket med tillatelse det siste året,
+2. barnet oppfyller vilkårene etter [§ 40](lov/2008-05-15-35/§40) første ledd og har opphold i riket sammen med den andre av foreldrene som barnet bor fast sammen med, og
+3. søkeren har samværsrett av et visst omfang og benytter denne.
+
+En søker som har foreldreansvaret for barn under 18 år som bor fast sammen med søkeren, har rett til ny oppholdstillatelse når dette er nødvendig for å videreføre samvær mellom barnet og den andre av foreldrene i riket. Det er et vilkår at:
+
+1. søkeren har oppholdt seg i riket med tillatelse det siste året,
+2. den andre av foreldrene oppfyller vilkårene etter [§ 40](lov/2008-05-15-35/§40) første ledd, og
+3. den andre av foreldrene har samværsrett av et visst omfang og benytter denne.
 
 Annet ledd gjelder tilsvarende for barnet dersom barnet mistet oppholdstillatelsen som følge av at forelderen som barnet bor fast sammen med, mistet sin tidligere oppholdstillatelse. Det er et vilkår at forelderen som barnet bor fast sammen med, også får innvilget oppholdstillatelse etter annet ledd.
 
@@ -613,7 +769,10 @@ Kongen kan fastsette nærmere bestemmelser i forskrift om kravet til omfanget og
 
 ### § 53. Fortsatt oppholdstillatelse på selvstendig grunnlag
 
-En utlending som har oppholdstillatelse etter [§§ 40](lov/2008-05-15-35/§40) eller [41](lov/2008-05-15-35/§41), skal etter søknad gis ny oppholdstillatelse på selvstendig grunnlag dersom:samlivet er opphørt på grunn av referansepersonens død, med mindre særlige grunner taler imot det, ellersamlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt mishandlet i samlivsforholdet eller av andre medlemmer av samme husstand, eller av svigerfamilie.
+En utlending som har oppholdstillatelse etter [§§ 40](lov/2008-05-15-35/§40) eller [41](lov/2008-05-15-35/§41), skal etter søknad gis ny oppholdstillatelse på selvstendig grunnlag dersom:
+
+1. samlivet er opphørt på grunn av referansepersonens død, med mindre særlige grunner taler imot det, eller
+2. samlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt mishandlet i samlivsforholdet eller av andre medlemmer av samme husstand, eller av svigerfamilie.
 
 Ny oppholdstillatelse på selvstendig grunnlag kan etter søknad også gis til en utlending som har oppholdstillatelse etter [§§ 40](lov/2008-05-15-35/§40) eller [41](lov/2008-05-15-35/§41), dersom utlendingen som følge av samlivsbruddet vil få urimelige vanskeligheter i hjemlandet grunnet de sosiale og kulturelle forholdene der.
 
@@ -641,7 +800,10 @@ Bestemmelsen i første ledd innebærer ingen begrensning i retten til å søke a
 
 Utlendingsmyndighetene kan i enkelttilfeller gjøre unntak fra vilkåret i første ledd når sterke rimelighetsgrunner tilsier det.
 
-Dersom oppholdstillatelse søkes etter [§§ 40](lov/2008-05-15-35/§40) eller [41](lov/2008-05-15-35/§41), og ekteskapet er inngått eller samboerforholdet er etablert i utlandet etter at referansepersonen, jf. [§ 39](lov/2008-05-15-35/§39), først har vært bosatt i Norge, kan oppholdstillatelse ikke innvilges før referansepersonen har vendt tilbake til Norge og har vært til intervju hos utlendingsmyndighetene, med mindresaken gjelder en søknad etter [§ 40](lov/2008-05-15-35/§40), og referansepersonen var til intervju i anledning saken før ekteskapet ble inngått, ellersøkeren har rett til innreise uten visum.
+Dersom oppholdstillatelse søkes etter [§§ 40](lov/2008-05-15-35/§40) eller [41](lov/2008-05-15-35/§41), og ekteskapet er inngått eller samboerforholdet er etablert i utlandet etter at referansepersonen, jf. [§ 39](lov/2008-05-15-35/§39), først har vært bosatt i Norge, kan oppholdstillatelse ikke innvilges før referansepersonen har vendt tilbake til Norge og har vært til intervju hos utlendingsmyndighetene, med mindre
+
+1. saken gjelder en søknad etter [§ 40](lov/2008-05-15-35/§40), og referansepersonen var til intervju i anledning saken før ekteskapet ble inngått, eller
+2. søkeren har rett til innreise uten visum.
 
 Kongen kan fastsette unntak fra første og fjerde ledd i forskrift. Kongen kan også gi nærmere bestemmelser i forskrift om fremgangsmåten ved fremsettelse av søknad om oppholdstillatelse og om gjennomføringen av intervjuer som nevnt i fjerde ledd.
 
@@ -679,7 +841,12 @@ Førstegangs oppholdstillatelse gis som midlertidig oppholdstillatelse for innti
 
 Kongen kan gi nærmere regler i forskrift om varigheten av oppholdstillatelser etter første ledd.
 
-Med mindre annet er særskilt fastsatt i loven eller i medhold av loven, gjelder følgende:oppholdstillatelsen gir rett til opphold i hele riket,oppholdstillatelsen gir rett til å ta arbeid og til å drive ervervsvirksomhet i hele riket,oppholdstillatelsen gir adgang til gjentatte innreiser i riket så lenge den gjelder, ogoppholdstillatelsen danner grunnlag for permanent oppholdstillatelse, jf. [§ 62](lov/2008-05-15-35/§62).
+Med mindre annet er særskilt fastsatt i loven eller i medhold av loven, gjelder følgende:
+
+1. oppholdstillatelsen gir rett til opphold i hele riket,
+2. oppholdstillatelsen gir rett til å ta arbeid og til å drive ervervsvirksomhet i hele riket,
+3. oppholdstillatelsen gir adgang til gjentatte innreiser i riket så lenge den gjelder, og
+4. oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse, jf. [§ 62](lov/2008-05-15-35/§62).
 
 Tillatelse gitt til et familiemedlem i medhold av bestemmelsene i [kapittel 6](lov/2008-05-15-35/kap6) gjelder med de samme begrensningene som er fastsatt for tillatelsen til referansepersonen, jf. [§ 39](lov/2008-05-15-35/§39). Begrensninger i referansepersonens tillatelse gitt etter [§ 23](lov/2008-05-15-35/§23), som går ut på at retten til å ta arbeid er knyttet til en bestemt arbeidsgiver, en bestemt type arbeid eller et bestemt arbeid, gjelder likevel ikke. Kongen kan fastsette unntak fra første punktum i forskrift.
 
@@ -711,7 +878,14 @@ Kongen kan gi nærmere regler i forskrift.
 
 ### § 62. Permanent oppholdstillatelse
 
-En utlending som de siste tre årene har oppholdt seg i riket med midlertidig oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse, har etter søknad rett til permanent oppholdstillatelse dersom følgende er oppfylt:utlendingen de siste tre årene ikke har oppholdt seg utenfor riket mer enn syv måneder til sammenutlendingen fortsatt oppfyller vilkårene for en midlertidig oppholdstillatelse som danner grunnlag for permanent oppholdstillatelsedet ikke foreligger forhold som nevnt i [§ 66](lov/2008-05-15-35/§66), er fastsatt krav til tilleggstid etter [§ 60](lov/2008-05-15-35/§60) sjette ledd første punktum eller [§ 70](lov/2008-05-15-35/§70) annet ledd første punktum som fortsatt løperutlendingen har bestått muntlig prøve i norskutlendingen har bestått prøve i samfunnskunnskap på et språk han eller hun forstårutlendingen har vært selvforsørget de siste tolv månedene.
+En utlending som de siste tre årene har oppholdt seg i riket med midlertidig oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse, har etter søknad rett til permanent oppholdstillatelse dersom følgende er oppfylt:
+
+1. utlendingen de siste tre årene ikke har oppholdt seg utenfor riket mer enn syv måneder til sammen
+2. utlendingen fortsatt oppfyller vilkårene for en midlertidig oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse
+3. det ikke foreligger forhold som nevnt i [§ 66](lov/2008-05-15-35/§66), er fastsatt krav til tilleggstid etter [§ 60](lov/2008-05-15-35/§60) sjette ledd første punktum eller [§ 70](lov/2008-05-15-35/§70) annet ledd første punktum som fortsatt løper
+4. utlendingen har bestått muntlig prøve i norsk
+5. utlendingen har bestått prøve i samfunnskunnskap på et språk han eller hun forstår
+6. utlendingen har vært selvforsørget de siste tolv månedene.
 
 En utlending med midlertidig oppholdstillatelse i medhold av lovens [§ 28](lov/2008-05-15-35/§28) eller [§ 38](lov/2008-05-15-35/§38) har likevel først rett til permanent oppholdstillatelse etter søknad dersom utlendingen de siste fem årene har oppholdt seg i riket med midlertidig oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse. Tilsvarende gjelder utlending som får oppholdstillatelse som familiemedlem til utlending som nevnt i første punktum, eller til utlending som har fått permanent oppholdstillatelse på grunnlag av tillatelse etter lovens [§ 28](lov/2008-05-15-35/§28) eller [§ 38](lov/2008-05-15-35/§38), jf. [kapittel 6](lov/2008-05-15-35/kap6). Det er et vilkår at utlendingen de siste fem årene ikke har oppholdt seg utenfor riket mer enn ti måneder til sammen. Vilkårene i første ledd bokstav b til f gjelder tilsvarende.
 
@@ -727,7 +901,11 @@ Permanent oppholdstillatelse gir rett til opphold i riket uten tidsbegrensning o
 
 Tillatelsen faller bort når innehaveren har oppholdt seg utenfor riket sammenhengende i mer enn to år. Oppholdet utenfor riket anses å være sammenhengende selv om utlendingen har hatt ett eller flere opphold av en viss varighet i riket. Vedtak om bortfall treffes av Utlendingsdirektoratet. En utlending kan etter søknad gis adgang til å oppholde seg utenfor riket i mer enn to år uten at tillatelsen faller bort.
 
-Kongen kan gi forskrift omat permanent oppholdstillatelse kan gis i andre tilfeller enn nevnt i første leddinnholdet i vilkårene etter første ledd bokstav d, e og f og fjerde ledd og unntak fra disse vilkårenebortfall av permanent oppholdstillatelse og hvor langvarig et mellomliggende opphold i Norge skal være for at et opphold i utlandet ikke regnes som sammenhengende etter åttende ledd.
+Kongen kan gi forskrift om
+
+1. at permanent oppholdstillatelse kan gis i andre tilfeller enn nevnt i første ledd
+2. innholdet i vilkårene etter første ledd bokstav d, e og f og fjerde ledd og unntak fra disse vilkårene
+3. bortfall av permanent oppholdstillatelse og hvor langvarig et mellomliggende opphold i Norge skal være for at et opphold i utlandet ikke regnes som sammenhengende etter åttende ledd.
 
 > Endret ved lover [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 okt 2016 iflg. [res. 30 sep 2016 nr. 1136](forskrift/2016-09-30-1136) for endr i annet til syvende ledd), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1588](forskrift/2016-12-16-1588) for endr i første ledd bokstav d og e og gjelder for søknader som fremmes 17 des 2016 eller senere), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2017 iflg. [res. 21 juni 2017 nr. 835](forskrift/2017-06-21-835) for endr i første ledd bokstav f og gjelder bare for søknader som fremmes 1 sep 2017 eller senere), [15 des 2017 nr. 108](lov/2017-12-15-108) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2045](forskrift/2017-12-15-2045)), [18 des 2020 nr. 150](lov/2020-12-18-150) (ikr. 18 des 2020 iflg. [res. 18 des 2020 nr. 2834](forskrift/2020-12-18-2834), endringen gjelder fra 1 des 2020, se loven del III nr. 2), [7 mai 2021 nr. 32](lov/2021-05-07-32) (ikr. 10 sep 2021 iflg. [res. 3 sep 2021 nr. 2659](forskrift/2021-09-03-2659)), [25 mars 2022 nr. 16](lov/2022-03-25-16) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 549](forskrift/2022-04-08-549)), [20 juni 2025 nr. 84](lov/2025-06-20-84) (i kraft 1 sep 2025 iflg. [res. 20 juni 2025 nr. 1125](forskrift/2025-06-20-1125), se endringsloven del III nr. 3 for overgangsregel).
 
@@ -771,9 +949,33 @@ Kongen kan i forskrift fastsette at politiet kan avgjøre søknader om midlertid
 
 ### § 66. Utvisning av utlendinger uten oppholdstillatelse
 
-En utlending uten oppholdstillatelse kan utvisesnår utlendingen grovt eller gjentatte ganger har overtrådt en eller flere bestemmelser i loven her eller [grenseloven](lov/2018-04-20-8), forsettlig eller grovt uaktsomt har gitt vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven, eller unndrar seg gjennomføringen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90),når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,når utlendingen her i riket er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff, eller for overtredelse av et av følgende straffebud i [straffeloven](lov/2005-05-20-28):[§ 323](lov/2005-05-20-28/§323) (mindre tyveri)[§ 326](lov/2005-05-20-28/§326) (mindre underslag)[§ 334](lov/2005-05-20-28/§334) (mindre heleri)[§ 339](lov/2005-05-20-28/§339) (mindre hvitvasking)[§ 362](lov/2005-05-20-28/§362) (mindre dokumentfalsk)[§ 373](lov/2005-05-20-28/§373) (mindre bedrageri)når en administrativ myndighet i et Schengenland har truffet en endelig avgjørelse om bortvisning eller utvisning av utlendingen på grunn av manglende overholdelse av landets bestemmelser om utlendingers innreise eller opphold,når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd,når utlendingens søknad om beskyttelse er nektet realitetsbehandlet i medhold av [§ 32 første ledd bokstav a](lov/2008-05-15-35/§32/ledd/1/bokstav/a) eller [d](lov/2008-05-15-35/§32/ledd/1/bokstav/d), og søkeren også tidligere har fått søknad nektet realitetsbehandlet, og søknaden fremstår som et misbruk av asylsystemet,når utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31 første ledd bokstav a](lov/2008-05-15-35/§31/ledd/1/bokstav/a) til [c](lov/2008-05-15-35/§31/ledd/1/bokstav/c), annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene, ellernår utlendingen har søkt eller har hatt urettmessig opphold med grunnlag i et omgåelsesekteskap, jf. [§ 40 fjerde ledd](lov/2008-05-15-35/§40/ledd/4) og [§ 120 sjette ledd](lov/2008-05-15-35/§120/ledd/6), og omgåelsen anses som bevisst og grov.
+En utlending uten oppholdstillatelse kan utvises
 
-Med mindre det vil være et uforholdsmessig tiltak, jf. [§ 70](lov/2008-05-15-35/§70), skal en utlending uten oppholdstillatelse utvisesnår utlendingen ikke har overholdt utreisefristen gitt i medhold av [§ 90 a](lov/2008-05-15-35/§90a), ellernår utlendingen ikke er gitt en utreisefristfordi det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av vedtaket, jf. [§ 90 a første ledd bokstav a](lov/2008-05-15-35/§90a/ledd/1/bokstav/a) og [§ 106 d](lov/2008-05-15-35/§106d),fordi en søknad er avslått som åpenbart grunnløs, eller som følge av vesentlig uriktige eller åpenbart villedende opplysninger, jf. [§ 90 a første ledd bokstav b](lov/2008-05-15-35/§90a/ledd/1/bokstav/b),fordi utlendingen er funnet å utgjøre en trussel mot offentlig orden etter [§ 90 a første ledd bokstav c](lov/2008-05-15-35/§90a/ledd/1/bokstav/c), ellerfordi utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser etter [§ 129 femte ledd](lov/2008-05-15-35/§129/ledd/5).
+1. når utlendingen grovt eller gjentatte ganger har overtrådt en eller flere bestemmelser i loven her eller [grenseloven](lov/2018-04-20-8), forsettlig eller grovt uaktsomt har gitt vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven, eller unndrar seg gjennomføringen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90),
+2. når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,
+3. når utlendingen her i riket er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff, eller for overtredelse av et av følgende straffebud i [straffeloven](lov/2005-05-20-28):
+
+   - [§ 323](lov/2005-05-20-28/§323) (mindre tyveri)
+   - [§ 326](lov/2005-05-20-28/§326) (mindre underslag)
+   - [§ 334](lov/2005-05-20-28/§334) (mindre heleri)
+   - [§ 339](lov/2005-05-20-28/§339) (mindre hvitvasking)
+   - [§ 362](lov/2005-05-20-28/§362) (mindre dokumentfalsk)
+   - [§ 373](lov/2005-05-20-28/§373) (mindre bedrageri)
+4. når en administrativ myndighet i et Schengenland har truffet en endelig avgjørelse om bortvisning eller utvisning av utlendingen på grunn av manglende overholdelse av landets bestemmelser om utlendingers innreise eller opphold,
+5. når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd,
+6. når utlendingens søknad om beskyttelse er nektet realitetsbehandlet i medhold av [§ 32 første ledd bokstav a](lov/2008-05-15-35/§32/ledd/1/bokstav/a) eller [d](lov/2008-05-15-35/§32/ledd/1/bokstav/d), og søkeren også tidligere har fått søknad nektet realitetsbehandlet, og søknaden fremstår som et misbruk av asylsystemet,
+7. når utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31 første ledd bokstav a](lov/2008-05-15-35/§31/ledd/1/bokstav/a) til [c](lov/2008-05-15-35/§31/ledd/1/bokstav/c), annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene, eller
+8. når utlendingen har søkt eller har hatt urettmessig opphold med grunnlag i et omgåelsesekteskap, jf. [§ 40 fjerde ledd](lov/2008-05-15-35/§40/ledd/4) og [§ 120 sjette ledd](lov/2008-05-15-35/§120/ledd/6), og omgåelsen anses som bevisst og grov.
+
+Med mindre det vil være et uforholdsmessig tiltak, jf. [§ 70](lov/2008-05-15-35/§70), skal en utlending uten oppholdstillatelse utvises
+
+1. når utlendingen ikke har overholdt utreisefristen gitt i medhold av [§ 90 a](lov/2008-05-15-35/§90a), eller
+2. når utlendingen ikke er gitt en utreisefrist
+
+   1. fordi det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av vedtaket, jf. [§ 90 a første ledd bokstav a](lov/2008-05-15-35/§90a/ledd/1/bokstav/a) og [§ 106 d](lov/2008-05-15-35/§106d),
+   2. fordi en søknad er avslått som åpenbart grunnløs, eller som følge av vesentlig uriktige eller åpenbart villedende opplysninger, jf. [§ 90 a første ledd bokstav b](lov/2008-05-15-35/§90a/ledd/1/bokstav/b),
+   3. fordi utlendingen er funnet å utgjøre en trussel mot offentlig orden etter [§ 90 a første ledd bokstav c](lov/2008-05-15-35/§90a/ledd/1/bokstav/c), eller
+   4. fordi utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser etter [§ 129 femte ledd](lov/2008-05-15-35/§129/ledd/5).
 
 Dersom forholdet som danner grunnlag for utvisning, er en straffbar handling som ble begått på et tidspunkt hvor utlendingen hadde gyldig midlertidig oppholdstillatelse, gjelder [§ 67](lov/2008-05-15-35/§67) selv om utlendingen står uten oppholdstillatelse på vedtakstidspunktet. Ettårsfristen i [§ 67](lov/2008-05-15-35/§67) gjelder likevel bare dersom utlendingen har fremmet søknad om fornyet oppholdstillatelse, og har rett til fortsatt opphold på samme vilkår inntil søknaden er endelig avgjort, etter reglene i [§ 61](lov/2008-05-15-35/§61).
 
@@ -781,7 +983,29 @@ Dersom forholdet som danner grunnlag for utvisning, er en straffbar handling som
 
 ### § 67. Utvisning av utlendinger som har midlertidig oppholdstillatelse
 
-En utlending som har midlertidig oppholdstillatelse kan utvises:når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff i mer enn ett år. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff i mer enn ett år,når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for overtredelse av et av følgende straffebud i straffeloven:§ 168 (brudd på oppholds- og kontaktforbud)§ 182 første ledd (opptøyer)§ 189 (ulovlig bevæpning på offentlig sted)§ 231 annet ledd (uaktsom narkotikaovertredelse)§ 237 fjerde ledd (grovt uaktsom smitteoverføring)§ 262 første ledd (brudd på ekteskapsloven)§ 263 (trusler)§ 271 første ledd (kroppskrenkelse)§ 297 (seksuell handling uten samtykke)§ 298 (seksuelt krenkende atferd offentlig eller uten samtykke)§ 305 (seksuelt krenkende atferd mv. overfor barn under 16 år)§ 306 (avtale om møte for å begå seksuelt overgrep)§ 374 første punktum (grovt uaktsomt bedrageri)§ 380 (grovt uaktsomt skattesvik)når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd,når utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31](lov/2008-05-15-35/§31) første ledd bokstav a til c, annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene, ellernår utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff for alvorlig overtredelse av én eller flere bestemmelser i vegtrafikkloven, og utlendingen ble dømt til ubetinget fengselsstraff, den straffbare handlingen skapte særlig stor fare for andre trafikanter eller for allmennheten, eller utlendingen er straffet for flere lovovertredelser som kan føre til tap av retten til å føre motorvogn, eller for flere tilfeller av kjøring uten førerrett.
+En utlending som har midlertidig oppholdstillatelse kan utvises:
+
+1. når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff i mer enn ett år. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,
+2. når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff i mer enn ett år,
+3. når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for overtredelse av et av følgende straffebud i straffeloven:
+
+   - § 168 (brudd på oppholds- og kontaktforbud)
+   - § 182 første ledd (opptøyer)
+   - § 189 (ulovlig bevæpning på offentlig sted)
+   - § 231 annet ledd (uaktsom narkotikaovertredelse)
+   - § 237 fjerde ledd (grovt uaktsom smitteoverføring)
+   - § 262 første ledd (brudd på ekteskapsloven)
+   - § 263 (trusler)
+   - § 271 første ledd (kroppskrenkelse)
+   - § 297 (seksuell handling uten samtykke)
+   - § 298 (seksuelt krenkende atferd offentlig eller uten samtykke)
+   - § 305 (seksuelt krenkende atferd mv. overfor barn under 16 år)
+   - § 306 (avtale om møte for å begå seksuelt overgrep)
+   - § 374 første punktum (grovt uaktsomt bedrageri)
+   - § 380 (grovt uaktsomt skattesvik)
+4. når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd,
+5. når utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31](lov/2008-05-15-35/§31) første ledd bokstav a til c, annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene, eller
+6. når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff for alvorlig overtredelse av én eller flere bestemmelser i vegtrafikkloven, og utlendingen ble dømt til ubetinget fengselsstraff, den straffbare handlingen skapte særlig stor fare for andre trafikanter eller for allmennheten, eller utlendingen er straffet for flere lovovertredelser som kan føre til tap av retten til å føre motorvogn, eller for flere tilfeller av kjøring uten førerrett.
 
 Dersom en straffbar handling ble begått før utlendingen fikk midlertidig oppholdstillatelse, gjelder [§ 66](lov/2008-05-15-35/§66) første ledd bokstav b og c tilsvarende. Det samme gjelder ved et sammenhengende straffbart forhold som delvis har pågått i en periode hvor utlendingen var uten oppholdstillatelse, og hvor utlendingen i perioden ikke har søkt om fornyelse av oppholdstillatelse med rett til fortsatt opphold på samme vilkår inntil søknaden er endelig avgjort, etter reglene i [§ 61](lov/2008-05-15-35/§61).
 
@@ -789,7 +1013,24 @@ Dersom en straffbar handling ble begått før utlendingen fikk midlertidig oppho
 
 ### § 68. Utvisning av utlendinger som har permanent oppholdstillatelse
 
-En utlending som har permanent oppholdstillatelse kan utvises:når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff i to år eller mer. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff i to år eller mer, eller for overtredelse av et av følgende straffebud i straffeloven:§ 182 første ledd (opptøyer)§ 189 (ulovlig bevæpning på offentlig sted)§ 231 annet ledd (uaktsom narkotikaovertredelse)§ 237 fjerde ledd (grovt uaktsom smitteoverføring)§ 262 første ledd (brudd på ekteskapsloven)§ 263 (trusler)§ 297 (seksuell handling uten samtykke)§ 298 (seksuelt krenkende atferd offentlig eller uten samtykke)§ 305 (seksuelt krenkende atferd mv. overfor barn under 16 år)§ 306 (avtale om møte for å begå seksuelt overgrep)§ 374 første punktum (grovt uaktsomt bedrageri)når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd, ellernår utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31](lov/2008-05-15-35/§31) første ledd bokstav a til c, annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene.
+En utlending som har permanent oppholdstillatelse kan utvises:
+
+1. når utlendingen for mindre enn fem år siden i utlandet har sonet eller er ilagt straff for et forhold som etter norsk lov kan føre til fengselsstraff i to år eller mer. Tilsvarende gjelder ved en ilagt særreaksjon som følge av et straffbart forhold som nevnt,
+2. når utlendingen for mindre enn ett år siden her i riket har sonet eller er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff i to år eller mer, eller for overtredelse av et av følgende straffebud i straffeloven:
+
+   - § 182 første ledd (opptøyer)
+   - § 189 (ulovlig bevæpning på offentlig sted)
+   - § 231 annet ledd (uaktsom narkotikaovertredelse)
+   - § 237 fjerde ledd (grovt uaktsom smitteoverføring)
+   - § 262 første ledd (brudd på ekteskapsloven)
+   - § 263 (trusler)
+   - § 297 (seksuell handling uten samtykke)
+   - § 298 (seksuelt krenkende atferd offentlig eller uten samtykke)
+   - § 305 (seksuelt krenkende atferd mv. overfor barn under 16 år)
+   - § 306 (avtale om møte for å begå seksuelt overgrep)
+   - § 374 første punktum (grovt uaktsomt bedrageri)
+3. når utlendingen har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd, eller
+4. når utlendingen er utelukket fra rett til anerkjennelse som flyktning etter [§ 31](lov/2008-05-15-35/§31) første ledd bokstav a til c, annet eller tredje ledd, eller ville blitt det ved en vurdering etter disse bestemmelsene.
 
 Dersom en straffbar handling ble begått før utlendingen fikk permanent oppholdstillatelse, gjelder [§ 67](lov/2008-05-15-35/§67) første ledd bokstav a, b, c og f og annet ledd tilsvarende. Det samme gjelder ved sammenhengende straffbare forhold som ble påbegynt før utlendingen fikk permanent oppholdstillatelse.
 
@@ -839,7 +1080,10 @@ Kongen kan gi nærmere regler i forskrift, herunder om avskjæring av frister gj
 
 ### § 73. Absolutt vern mot utsendelse
 
-En utlending kan ikke sendes til et område der vedkommende ville være i en situasjon som nevnt i [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a, med mindre:utlendingen er utelukket fra beskyttelse etter [§ 31](lov/2008-05-15-35/§31), ellerutlendingen med rimelig grunn anses som en fare for rikets sikkerhet eller har fått endelig dom for en særlig alvorlig forbrytelse og av den grunn utgjør en fare for det norske samfunn.
+En utlending kan ikke sendes til et område der vedkommende ville være i en situasjon som nevnt i [§ 28](lov/2008-05-15-35/§28) første ledd bokstav a, med mindre:
+
+1. utlendingen er utelukket fra beskyttelse etter [§ 31](lov/2008-05-15-35/§31), eller
+2. utlendingen med rimelig grunn anses som en fare for rikets sikkerhet eller har fått endelig dom for en særlig alvorlig forbrytelse og av den grunn utgjør en fare for det norske samfunn.
 
 En utlending kan ikke sendes til et område der vedkommende ville være i en situasjon som nevnt i [§ 28](lov/2008-05-15-35/§28) første ledd bokstav b. Vernet etter denne bestemmelsen gjelder også ved situasjoner som nevnt i første ledd bokstav a og b.
 
@@ -889,11 +1133,23 @@ Utlendingsnemnda skal videre ha nemndledere som må fylle kravene til dommere. D
 
 Utlendingsnemnda skal ha nemndmedlemmer oppnevnt av departementet etter forslag fra statsforvalterne, Norges Juristforbund, Samfunnsviterne og frivillige organisasjoner. Medlemmene oppnevnes for fire år. Vervet er frivillig, og den enkelte må derfor si seg villig til å påta seg vervet. Nemndmedlemmene skal opptre uavhengige og uten bindinger til den aktør som har foreslått dem. Gjenoppnevning kan foretas én gang. Suppleringer i løpet av perioden foretas av departementet etter forslag fra de samme instansene.
 
-Det kan bare oppnevnes personer somer norske statsborgere og bosatt i Norgeer mellom 18 og 70 år på oppnevningstidspunktetikke er under offentlig gjeldsforhandling eller konkursbehandling eller i konkurskarantenefyller kravene til vandel i [domstolloven § 72](lov/1915-08-13-5/§72)har tilstrekkelige norskkunnskaper oger personlig egnet til oppgaven.
+Det kan bare oppnevnes personer som
+
+1. er norske statsborgere og bosatt i Norge
+2. er mellom 18 og 70 år på oppnevningstidspunktet
+3. ikke er under offentlig gjeldsforhandling eller konkursbehandling eller i konkurskarantene
+4. fyller kravene til vandel i [domstolloven § 72](lov/1915-08-13-5/§72)
+5. har tilstrekkelige norskkunnskaper og
+6. er personlig egnet til oppgaven.
 
 Ansatte i departementene, Utlendingsdirektoratet, Utlendingsnemnda, politiet og påtalemyndigheten, personer som er tildelt begrenset politimyndighet, praktiserende advokater og advokatfullmektiger kan ikke være nemndmedlemmer.
 
-Departementet kan løse et nemndmedlem fra vervet dersom medlemmetikke oppfyller valgbarhetsvilkårene etter femte leddikke har overholdt sin taushetspliktgrovt har krenket andre plikter som følger av vervet ellerselv ber om det.
+Departementet kan løse et nemndmedlem fra vervet dersom medlemmet
+
+1. ikke oppfyller valgbarhetsvilkårene etter femte ledd
+2. ikke har overholdt sin taushetsplikt
+3. grovt har krenket andre plikter som følger av vervet eller
+4. selv ber om det.
 
 Nemndas møter foregår for lukkede dører. Enhver som deltar ved behandlingen av sak for nemnda har taushetsplikt etter [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g). Overtredelse straffes etter [straffeloven § 209](lov/2005-05-20-28/§209).
 
@@ -1019,7 +1275,19 @@ Kongen kan gi forskrift om behandlingen, blant annet om formålet med behandling
 
 ### § 84. Opplysningsplikt og unntak fra taushetsplikt for offentlige organer
 
-Dersom det organet som behandler en sak etter loven her, anser det som nødvendig for opplysning av saken, kan organet pålegge følgende organer å utlevere, uten hinder av taushetsplikt, opplysninger om utlendinger eller andre loven gjelder for:barnevernsmyndighetenekommuneneStatens lånekasse for utdanningarbeids- og velferdsforvaltningenskattemyndighetenepolitietfolkeregistermyndighetenfylkeskommuneneuniversiteter og offentlige høyskolerfrittstående skoler og private høyskolerDirektoratet for høyere utdanning og kompetanse
+Dersom det organet som behandler en sak etter loven her, anser det som nødvendig for opplysning av saken, kan organet pålegge følgende organer å utlevere, uten hinder av taushetsplikt, opplysninger om utlendinger eller andre loven gjelder for:
+
+1. barnevernsmyndighetene
+2. kommunene
+3. Statens lånekasse for utdanning
+4. arbeids- og velferdsforvaltningen
+5. skattemyndighetene
+6. politiet
+7. folkeregistermyndigheten
+8. fylkeskommunene
+9. universiteter og offentlige høyskoler
+10. frittstående skoler og private høyskoler
+11. Direktoratet for høyere utdanning og kompetanse
 
 Kongen skal i forskrift gi nærmere regler om hvilke organer som kan be om opplysninger etter første ledd, i hvilke sakstyper det kan innhentes opplysninger, hvem det kan innhentes opplysninger om og hvilke opplysninger som kan innhentes.
 
@@ -1029,7 +1297,21 @@ Kongen skal i forskrift gi nærmere regler om hvilke organer som kan be om opply
 
 Utlendingsmyndighetene skal uten hinder av taushetsplikt utlevere opplysninger til politiet når det er nødvendig for politiets oppgaver etter loven her, [grenseloven kapittel 3](lov/2018-04-20-8/kap3) eller forordning [(EU) 2024/1356](eu/32024r1356), jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6).
 
-Når det er nødvendig for politimessige formål som nevnt i [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13 eller for kvalitetskontroll av opplysninger i politiets registre, kan utlendingsmyndighetene uten hinder av taushetsplikt utlevere følgende personopplysninger til politiet:navn og eventuelle aliaskjønnDUF-nummer, D-nummer og fødselsnummerfødselsdato og fødestedfamilie- og personrelasjonerstatsborgerskapbosted i Norgebosted i tidligere oppholdslandreise- og identitetsdokumenteroppholdsstatuskontaktinformasjonspråknummer og utløpsdato på kort utstedt av utlendingsmyndighetene.
+Når det er nødvendig for politimessige formål som nevnt i [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13 eller for kvalitetskontroll av opplysninger i politiets registre, kan utlendingsmyndighetene uten hinder av taushetsplikt utlevere følgende personopplysninger til politiet:
+
+1. navn og eventuelle alias
+2. kjønn
+3. DUF-nummer, D-nummer og fødselsnummer
+4. fødselsdato og fødested
+5. familie- og personrelasjoner
+6. statsborgerskap
+7. bosted i Norge
+8. bosted i tidligere oppholdsland
+9. reise- og identitetsdokumenter
+10. oppholdsstatus
+11. kontaktinformasjon
+12. språk
+13. nummer og utløpsdato på kort utstedt av utlendingsmyndighetene.
 
 Utlendingsmyndighetene kan uten hinder av taushetsplikt utlevere andre personopplysninger enn de som er nevnt i annet ledd til politiet når det er nødvendig til forebygging og etterforskning av brudd på utlendingsloven eller andre lovbrudd som kan medføre høyere straff enn fengsel i seks måneder.
 
@@ -1045,7 +1327,12 @@ Ansatte som utfører arbeid eller tjeneste i mottak, skal etter anmodning gi utl
 
 For beboere som er enslige, mindreårige asylsøkere, kan utlendingsmyndighetene ikke anmode ansatte som nevnt i første ledd, og ansatte i omsorgssentre for enslige mindreårige asylsøkere og barnevernsinstitusjoner, jf. [barnevernsloven kapittel 10](lov/2021-06-18-97/kap10) og [11](lov/2021-06-18-97/kap11), om opplysninger etter første ledd.
 
-Politiet skal uten hinder av taushetsplikt og etter skriftlig anmodning til mottak, omsorgssenter som nevnt i annet ledd eller Utlendingsdirektoratet få utlevert følgende opplysninger når det er nødvendig for politiets oppgaver etter utlendingsloven eller for politimessige formål som nevnt i [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13:navn, fødselsdato og nasjonalitet til nåværende og tidligere beboere i asylmottak eller omsorgssenterdato for når beboere har flyttet til eller fra mottaket eller omsorgssenteretvarigheten av eventuelle permisjoner fra mottaket eller omsorgssenteretnytt bosted.
+Politiet skal uten hinder av taushetsplikt og etter skriftlig anmodning til mottak, omsorgssenter som nevnt i annet ledd eller Utlendingsdirektoratet få utlevert følgende opplysninger når det er nødvendig for politiets oppgaver etter utlendingsloven eller for politimessige formål som nevnt i [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13:
+
+1. navn, fødselsdato og nasjonalitet til nåværende og tidligere beboere i asylmottak eller omsorgssenter
+2. dato for når beboere har flyttet til eller fra mottaket eller omsorgssenteret
+3. varigheten av eventuelle permisjoner fra mottaket eller omsorgssenteret
+4. nytt bosted.
 
 Kongen kan gi forskrift om hvilke opplysninger som skal gis etter første ledd, om fremgangsmåten for innhenting av opplysninger etter første og tredje ledd, og den videre behandling av de innhentede opplysninger.
 
@@ -1109,7 +1396,11 @@ Kongen kan i forskrift gi regler om at det skal tas gebyr for å behandle søkna
 
 Vedtak som pålegger en utreiseplikt, innebærer at utlendingen skal forlate riket eller Schengen- og EU-området.
 
-Dersom utlendingen pålegges utreiseplikt fra Schengen- og EU-området, skal utreise skje tilutlendingens opprinnelsesland,et transittland i samsvar med fellesskapsavtaler eller bilaterale avtaler om tilbaketaking eller andre ordninger, elleret annet tredjeland etter utlendingens ønske, og som vil ta imot vedkommende.
+Dersom utlendingen pålegges utreiseplikt fra Schengen- og EU-området, skal utreise skje til
+
+1. utlendingens opprinnelsesland,
+2. et transittland i samsvar med fellesskapsavtaler eller bilaterale avtaler om tilbaketaking eller andre ordninger, eller
+3. et annet tredjeland etter utlendingens ønske, og som vil ta imot vedkommende.
 
 Utreise kan likevel skje til et annet land, dersom utlendingen bortvises eller utvises ved Schengenyttergrensen eller på grunn av ilagt straff etter andre bestemmelser enn [§ 108 annet ledd](lov/2008-05-15-35/§108/ledd/2).
 
@@ -1119,7 +1410,15 @@ Kongen kan gi nærmere regler i forskrift om utreiseplikt og hvilket land utreis
 
 ### § 90 a. Utreisefrist
 
-Utlendingen skal gis en frist på mellom sju og tretti dager til å overholde utreiseplikten. Dersom det anses nødvendig, kan det settes en lengre frist. Det kan settes en kortere frist enn sju dager eller unnlates å gi en utreisefrist nårdet er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av vedtaket, jf. [§ 106 d](lov/2008-05-15-35/§106d)en søknad er avslått som åpenbart grunnløs eller som følge av vesentlig uriktige eller åpenbart villedende opplysningerutlendingen er funnet å utgjøre en trussel mot offentlig ordenutlendingen omfattes av [§ 32](lov/2008-05-15-35/§32)utlendingen bortvises eller utvises ved Schengenyttergrensenutlendingen utvises etter [§ 66 første ledd bokstav b](lov/2008-05-15-35/§66/ledd/1/bokstav/b), [c](lov/2008-05-15-35/§66/ledd/1/bokstav/c), [e](lov/2008-05-15-35/§66/ledd/1/bokstav/e) eller [g](lov/2008-05-15-35/§90a/ledd/1/bokstav/g), [§ 66 annet ledd](lov/2008-05-15-35/§66/ledd/2), [§ 67](lov/2008-05-15-35/§67) eller [§ 68](lov/2008-05-15-35/§68)utlendingen er pågrepet ved indre Schengen-grense og bortvist, og besluttes overført i samsvar med prosedyren som fremgår av grenseforordningen artikkel 23a, jf. [grenseloven § 8 første ledd nr. 1](lov/2018-04-20-8/§8/ledd/1/nummer/1).
+Utlendingen skal gis en frist på mellom sju og tretti dager til å overholde utreiseplikten. Dersom det anses nødvendig, kan det settes en lengre frist. Det kan settes en kortere frist enn sju dager eller unnlates å gi en utreisefrist når
+
+1. det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av vedtaket, jf. [§ 106 d](lov/2008-05-15-35/§106d)
+2. en søknad er avslått som åpenbart grunnløs eller som følge av vesentlig uriktige eller åpenbart villedende opplysninger
+3. utlendingen er funnet å utgjøre en trussel mot offentlig orden
+4. utlendingen omfattes av [§ 32](lov/2008-05-15-35/§32)
+5. utlendingen bortvises eller utvises ved Schengenyttergrensen
+6. utlendingen utvises etter [§ 66 første ledd bokstav b](lov/2008-05-15-35/§66/ledd/1/bokstav/b), [c](lov/2008-05-15-35/§66/ledd/1/bokstav/c), [e](lov/2008-05-15-35/§66/ledd/1/bokstav/e) eller [g](lov/2008-05-15-35/§90a/ledd/1/bokstav/g), [§ 66 annet ledd](lov/2008-05-15-35/§66/ledd/2), [§ 67](lov/2008-05-15-35/§67) eller [§ 68](lov/2008-05-15-35/§68)
+7. utlendingen er pågrepet ved indre Schengen-grense og bortvist, og besluttes overført i samsvar med prosedyren som fremgår av grenseforordningen artikkel 23a, jf. [grenseloven § 8 første ledd nr. 1](lov/2018-04-20-8/§8/ledd/1/nummer/1).
 
 Kongen kan gi nærmere regler i forskrift om fastsettelse av utreisefrist.
 
@@ -1145,7 +1444,11 @@ Vedtak om å nekte realitetsbehandling etter [§ 32 første ledd bokstav a](lov/
 
 Vedtak om avslag på søknad om fornyet oppholdstillatelse eller permanent oppholdstillatelse fremsatt innen utløpet av fristen i [§ 61 sjette](lov/2008-05-15-35/§61/ledd/6) eller [sjuende ledd](lov/2008-05-15-35/§61/ledd/7), kan ikke iverksettes før det er endelig. Tilsvarende gjelder vedtak om tilbakekall etter [§ 63](lov/2008-05-15-35/§63) og vedtak om utvisning av en utlending som har oppholdstillatelse, eller en nordisk borger som har hatt opphold i riket i mer enn tre måneder. Dersom det er sannsynlig at utlendingen vil begå en straffbar handling overfor eller forfølge en annen person eller på annet vis alvorlig krenke en annen persons fred, kan vedtaket iverksettes på et tidligere tidspunkt enn det som følger av første og annet punktum.
 
-Påberoper en utlending seg rett til beskyttelse, jf. [§ 28](lov/2008-05-15-35), eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, kan et vedtak bare iverksettes før det er endelig dersomsøknaden om opphold er nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32)søkeren tidligere har fått avslag på søknad om beskyttelse i et annet land, ellervilkårene for opphold etter [§§ 28](lov/2008-05-15-35/§28) eller [73](lov/2008-05-15-35/§73) åpenbart ikke er oppfylt.
+Påberoper en utlending seg rett til beskyttelse, jf. [§ 28](lov/2008-05-15-35), eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, kan et vedtak bare iverksettes før det er endelig dersom
+
+1. søknaden om opphold er nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32)
+2. søkeren tidligere har fått avslag på søknad om beskyttelse i et annet land, eller
+3. vilkårene for opphold etter [§§ 28](lov/2008-05-15-35/§28) eller [73](lov/2008-05-15-35/§73) åpenbart ikke er oppfylt.
 
 Dersom en utlending påberoper seg omstendigheter som nevnt i [§ 28](lov/2008-05-15-35/§28) på tidspunktet for iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), og det ikke fremgår at det allerede er tatt standpunkt til de påberopte forholdene, skal politiet forelegge spørsmålet om utsatt iverksetting for den myndigheten som har truffet vedtaket.
 
@@ -1181,7 +1484,10 @@ Kongen kan gi forskrift om uttransportering av utlendinger som er pålagt en utr
 
 Melding om retur, jf. returforordningen artikkel 3, skal registreres i SIS etter reglene i returforordningen, jf. [SIS-loven § 1 nr. 3](lov/1999-07-16-66/§1/nummer/3), dersom det treffes et vedtak som pålegger en utreiseplikt fra Schengen- og EU-området, jf. § 90.
 
-Melding om nektet innreise og opphold, jf. grensekontrollforordningen artikkel 24, skal registreres i SIS etter reglene i grensekontrollforordningen, jf. [SIS-loven § 1 nr. 2](lov/1999-07-16-66/§1/nummer/2), dersomdet treffes et vedtak som innebærer nektelse av innreise og opphold fordi utlendingen anses for å utgjøre en trussel mot offentlig orden, offentlig sikkerhet eller nasjonal sikkerhetdet treffes et vedtak om utvisning som pålegger en utreiseplikt fra Schengen- og EU-området, jf. [§ 90](lov/2008-05-15-35/§90).
+Melding om nektet innreise og opphold, jf. grensekontrollforordningen artikkel 24, skal registreres i SIS etter reglene i grensekontrollforordningen, jf. [SIS-loven § 1 nr. 2](lov/1999-07-16-66/§1/nummer/2), dersom
+
+1. det treffes et vedtak som innebærer nektelse av innreise og opphold fordi utlendingen anses for å utgjøre en trussel mot offentlig orden, offentlig sikkerhet eller nasjonal sikkerhet
+2. det treffes et vedtak om utvisning som pålegger en utreiseplikt fra Schengen- og EU-området, jf. [§ 90](lov/2008-05-15-35/§90).
 
 Dersom et vedtak som nevnt i første og annet ledd gjelder en utlending med gyldig oppholdstillatelse eller gyldig visum for langvarig opphold utstedt av en Schengen- eller EU-medlemsstat, skal det gjennomføres konsultasjon, jf. returforordningen artikkel 10 og grensekontrollforordningen artikkel 28, før det kan registreres en melding i SIS. Medlemsstaten utlendingen har lovlig opphold i, skal da vurdere om det er grunnlag for tilbakekall. Dersom utlendingens lovlige opphold opprettholdes, skal det ikke registreres melding i SIS.
 
@@ -1233,7 +1539,13 @@ Retten skal av eget tiltak og uten behovsprøving gi bevilling til fri sakførse
 
 I de tilfellene det er ytet fri sakførsel eller fritt rettsråd uten behovsprøving, kan det offentliges utgifter i forbindelse med rettshjelpen kreves helt eller delvis erstattet dersom utlendingen har økonomisk evne til det.
 
-Kongen kan gi nærmere regler i forskrift om blant annetunntak fra retten til fritt rettsråd etter første ledd første punktum og annet ledd første punktum,at det på nærmere vilkår skal kunne gis rett til fritt rettsråd uten behovsprøving ved utvisning på grunn av ilagt straff eller særreaksjon, eller når det skal avholdes stornemndmøte i Utlendingsnemnda, samt regler til utfylling av bestemmelsene nevnt i bokstav a, herunder regler om rett til fritt rettsråd uten behovsprøving i første instans og om erstatningskrav etter [sjette ledd](lov/2008-05-15-35/§92/ledd/6),at politimesteren eller den politimesteren gir fullmakt på nærmere vilkår skal kunne oppnevne prosessfullmektig i saker om frihetsberøvelse etter [§ 92](lov/2008-05-15-35/§92) fjerde ledd,kriteriene for hvem som skal oppnevnes som prosessfullmektig, herunder om utlendingens rett til selv å velge prosessfullmektig, ogadgangen til å bringe politiets beslutning om oppnevning av prosessfullmektig inn for tingretten.
+Kongen kan gi nærmere regler i forskrift om blant annet
+
+1. unntak fra retten til fritt rettsråd etter første ledd første punktum og annet ledd første punktum,
+2. at det på nærmere vilkår skal kunne gis rett til fritt rettsråd uten behovsprøving ved utvisning på grunn av ilagt straff eller særreaksjon, eller når det skal avholdes stornemndmøte i Utlendingsnemnda, samt regler til utfylling av bestemmelsene nevnt i bokstav a, herunder regler om rett til fritt rettsråd uten behovsprøving i første instans og om erstatningskrav etter [sjette ledd](lov/2008-05-15-35/§92/ledd/6),
+3. at politimesteren eller den politimesteren gir fullmakt på nærmere vilkår skal kunne oppnevne prosessfullmektig i saker om frihetsberøvelse etter [§ 92](lov/2008-05-15-35/§92) fjerde ledd,
+4. kriteriene for hvem som skal oppnevnes som prosessfullmektig, herunder om utlendingens rett til selv å velge prosessfullmektig, og
+5. adgangen til å bringe politiets beslutning om oppnevning av prosessfullmektig inn for tingretten.
 
 > Endret ved lover [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [18 des 2009 nr. 132](lov/2009-12-18-132) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 3](forskrift/2010-01-08-3)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [17 des 2010 nr. 87](lov/2010-12-17-87) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1608](forskrift/2010-12-17-1608)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [12 des 2014 nr. 70](lov/2014-12-12-70) (ikr. 1 jan 2015 iflg. [res. 12 des 2014 nr. 1673](forskrift/2014-12-12-1673)), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [29 mai 2020 nr. 57](lov/2020-05-29-57) (ikr. 1 juni 2020 iflg. [res. 29 mai 2020 nr. 1099](forskrift/2020-05-29-1099)), [11 juni 2021 nr. 73](lov/2021-06-11-73) (i kraft 1 juni 2022 iflg. [res. 18 feb 2022 nr. 268](forskrift/2022-02-18-268)), [29 nov 2024 nr. 72](lov/2024-11-29-72) (i kraft 29 nov 2024 iflg. [res. 29 nov 2024 nr. 2892](forskrift/2024-11-29-2892)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
 
@@ -1255,7 +1567,11 @@ Kongen kan gi nærmere regler i forskrift om gjennomføringen av saksbehandlinge
 
 ### § 94. Søkerens rettsstilling under behandlingen av søknaden
 
-Søkeren kan gis rett til å ta arbeid inntil søknaden er avgjort. Det er en forutsetning for tillatelsen at følgende vilkår er oppfylt:det er gjennomført asylintervju av søkeren,det er ikke tvil om søkerens identitet, ogdet er ikke sannsynlig at et vedtak om bortvisning vil kunne iverksettes før utlendingen har oppholdt seg i riket i seks måneder, eller at det vil bli fremmet tilbaketakelsesbegjæring overfor et annet land.
+Søkeren kan gis rett til å ta arbeid inntil søknaden er avgjort. Det er en forutsetning for tillatelsen at følgende vilkår er oppfylt:
+
+1. det er gjennomført asylintervju av søkeren,
+2. det er ikke tvil om søkerens identitet, og
+3. det er ikke sannsynlig at et vedtak om bortvisning vil kunne iverksettes før utlendingen har oppholdt seg i riket i seks måneder, eller at det vil bli fremmet tilbaketakelsesbegjæring overfor et annet land.
 
 Det kan gjøres unntak fra kravet om gjennomført asylintervju i første ledd bokstav a dersom det er høy sannsynlighet for at søkeren vil få oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28).
 
@@ -1353,7 +1669,12 @@ Den som oppnevnes som representant, skal legge frem politiattest. I attesten ska
 
 Representanten skal ivareta den mindreåriges interesser i asylsaken og ellers utføre de oppgaver som tilkommer en verge i henhold til annen lovgivning. Under screening skal representanten ivareta den mindreåriges interesser i henhold til reglene i forordning [(EU) 2024/1356](eu/32024r1356) artikkel 13 nr. 3 og 4, jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6).
 
-I asylsaken skal representanten blant annetvære til stede ved de samtaler myndighetene har med den mindreårige,bistå den mindreårige ved undersøkelser om identitet, alder mv.,bistå den mindreårige i forbindelse med oppsporing av foreldre eller andre omsorgspersoner, ogha kontakt med den mindreåriges advokat og holde seg underrettet om fremdriften i saken.
+I asylsaken skal representanten blant annet
+
+1. være til stede ved de samtaler myndighetene har med den mindreårige,
+2. bistå den mindreårige ved undersøkelser om identitet, alder mv.,
+3. bistå den mindreårige i forbindelse med oppsporing av foreldre eller andre omsorgspersoner, og
+4. ha kontakt med den mindreåriges advokat og holde seg underrettet om fremdriften i saken.
 
 Representanten skal påse at den mindreåriges omsorgsbehov blir ivaretatt på en tilfredsstillende måte, men representanten har ikke ansvar for den mindreåriges forsørgelse og daglige omsorg.
 
@@ -1377,7 +1698,14 @@ Kongen kan i forskrift gi nærmere regler om godtgjøring og utgiftsdekning ette
 
 ### § 98 g. Opphør av representantoppdraget
 
-Representantens oppdrag opphører nården mindreårige fyller 18 år eller anses å være over 18 år i vedtak fra Utlendingsdirektoratet,den mindreårige innvilges oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse, og det er oppnevnt verge etter vergemålslovens bestemmelser,den mindreårige varig forlater landet,den mindreåriges foreldre eller andre med foreldreansvar kommer til Norge, eller på annen måte blir i stand til å utøve foreldreansvaret,screening av den mindreårige etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6), er avsluttet, ellervilkårene for oppnevnelsen for øvrig ikke lenger er til stede.
+Representantens oppdrag opphører når
+
+1. den mindreårige fyller 18 år eller anses å være over 18 år i vedtak fra Utlendingsdirektoratet,
+2. den mindreårige innvilges oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse, og det er oppnevnt verge etter vergemålslovens bestemmelser,
+3. den mindreårige varig forlater landet,
+4. den mindreåriges foreldre eller andre med foreldreansvar kommer til Norge, eller på annen måte blir i stand til å utøve foreldreansvaret,
+5. screening av den mindreårige etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6), er avsluttet, eller
+6. vilkårene for oppnevnelsen for øvrig ikke lenger er til stede.
 
 En oppnevnt representant kan med rimelig varsel til statsforvalteren kreve å bli løst fra oppdraget som representant. Statsforvalteren kan frata en oppnevnt representant oppdraget dersom hensynet til den mindreåriges beste tilsier det. Representantens oppdrag opphører ikke før en ny representant er oppnevnt.
 
@@ -1403,9 +1731,24 @@ Ved anke over kjennelse eller beslutning om tvangsmidler etter loven her gjelder
 
 ### § 100. Biometriske opplysninger i form av ansiktsbilde og fingeravtrykk
 
-For identifisering og verifisering av identitet kan det opptas og behandles biometriske opplysninger i form av ansiktsbilde og fingeravtrykk av en utlending somikke kan dokumentere sin identitet, som det er grunn til å mistenke for å oppgi uriktig identitet, eller som ikke medvirker til å klarlegge sin identitet, jf. [§§ 21](lov/2008-05-15-35/§21) og [83](lov/2008-05-15-35/§83),søker om oppholdstillatelse etter loven,søker om Schengen-visum, jf. [§ 10](lov/2008-05-15-35/§10), visum av humanitære grunner, jf. [§ 11](lov/2008-05-15-35/§11), eller nasjonalt visum, jf. [§ 12](lov/2008-05-15-35/§12),søker om grenseboerbevis etter avtale mellom Norge og Russland,er blitt innvilget eller har fått avslag på søknad om oppholdstillatelse etter loven, ellerer bortvist eller utvist, eller som antas å oppholde seg ulovlig i riket.
+For identifisering og verifisering av identitet kan det opptas og behandles biometriske opplysninger i form av ansiktsbilde og fingeravtrykk av en utlending som
 
-Opplysninger i registeret kan utleveres til politiet i forbindelse med etterforskningen av en eller flere handlinger som samlet kan medføre høyere straff enn fengsel i 6 måneder. Ansiktsbilde kan i tillegg utleveres til politiet dersom det er nødvendig forpolitiets oppgaver etter loven her eller [grenseloven kapittel 3](lov/2018-04-20-8/kap3),å finne en savnet person,å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpe,å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrest,forebygging av brudd på [utlendingsloven](lov/2008-05-15-35) eller andre lovbrudd som kan medføre høyere straff enn fengsel i seks måneder,kvalitetskontroll av politiets registre, ellerpolitiets oppgaver etter [passloven](lov/1997-06-19-82) eller [ID-kortloven](lov/2015-06-05-39).
+1. ikke kan dokumentere sin identitet, som det er grunn til å mistenke for å oppgi uriktig identitet, eller som ikke medvirker til å klarlegge sin identitet, jf. [§§ 21](lov/2008-05-15-35/§21) og [83](lov/2008-05-15-35/§83),
+2. søker om oppholdstillatelse etter loven,
+3. søker om Schengen-visum, jf. [§ 10](lov/2008-05-15-35/§10), visum av humanitære grunner, jf. [§ 11](lov/2008-05-15-35/§11), eller nasjonalt visum, jf. [§ 12](lov/2008-05-15-35/§12),
+4. søker om grenseboerbevis etter avtale mellom Norge og Russland,
+5. er blitt innvilget eller har fått avslag på søknad om oppholdstillatelse etter loven, eller
+6. er bortvist eller utvist, eller som antas å oppholde seg ulovlig i riket.
+
+Opplysninger i registeret kan utleveres til politiet i forbindelse med etterforskningen av en eller flere handlinger som samlet kan medføre høyere straff enn fengsel i 6 måneder. Ansiktsbilde kan i tillegg utleveres til politiet dersom det er nødvendig for
+
+1. politiets oppgaver etter loven her eller [grenseloven kapittel 3](lov/2018-04-20-8/kap3),
+2. å finne en savnet person,
+3. å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpe,
+4. å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrest,
+5. forebygging av brudd på [utlendingsloven](lov/2008-05-15-35) eller andre lovbrudd som kan medføre høyere straff enn fengsel i seks måneder,
+6. kvalitetskontroll av politiets registre, eller
+7. politiets oppgaver etter [passloven](lov/1997-06-19-82) eller [ID-kortloven](lov/2015-06-05-39).
 
 Utlevering kan skje i form av direkte søk.
 
@@ -1469,13 +1812,26 @@ Personopplysningsloven gjelder for behandling av opplysninger i VIS hvis ikke an
 
 ### § 102 a. Formålet med VIS
 
-Formålet med VIS er å forbedre gjennomføringen av Schengenlandenes felles visumpolitikk, konsulært samarbeid og konsultasjoner mellom sentrale konsulære myndigheter ved å forenkle utveksling av opplysninger om visumsøknader og avgjørelser av disse mellom medlemsstatene. Dette gjøres for å:forenkle visumsøknadsprosedyrene,unngå omgåelse av kriteriene som ligger til grunn for avgjørelsen av hvilken medlemsstat som er ansvarlig for å behandle søknaden,forenkle bekjempelsen av forfalskning,lette kontrollen ved medlemsstatenes yttergrenser og innenfor medlemsstatenes område,forenkle identifikasjonen av personer som ikke fyller vilkårene for innreise eller opphold på medlemsstatens territorium,lette anvendelsen av forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. [§ 32 fjerde ledd](lov/2008-05-15-35/§32/ledd/4), ogbidra til å avverge trusler mot den enkelte medlemsstats indre sikkerhet.
+Formålet med VIS er å forbedre gjennomføringen av Schengenlandenes felles visumpolitikk, konsulært samarbeid og konsultasjoner mellom sentrale konsulære myndigheter ved å forenkle utveksling av opplysninger om visumsøknader og avgjørelser av disse mellom medlemsstatene. Dette gjøres for å:
+
+1. forenkle visumsøknadsprosedyrene,
+2. unngå omgåelse av kriteriene som ligger til grunn for avgjørelsen av hvilken medlemsstat som er ansvarlig for å behandle søknaden,
+3. forenkle bekjempelsen av forfalskning,
+4. lette kontrollen ved medlemsstatenes yttergrenser og innenfor medlemsstatenes område,
+5. forenkle identifikasjonen av personer som ikke fyller vilkårene for innreise eller opphold på medlemsstatens territorium,
+6. lette anvendelsen av forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. [§ 32 fjerde ledd](lov/2008-05-15-35/§32/ledd/4), og
+7. bidra til å avverge trusler mot den enkelte medlemsstats indre sikkerhet.
 
 > Tilføyd ved lov [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 11 okt 2011 iflg. [res. 7 okt 2011 nr. 998](forskrift/2011-10-07-998)), endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)). **Oppheves** ved [lov 21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft fra den tid Kongen bestemmer).
 
 ### § 102 b. Opplysninger som skal registreres i VIS
 
-Følgende opplysninger skal registreres i VIS:alfanumeriske data om søker og om visum som det er søkt om, innvilget, avslått, annullert, tilbakekalt eller forlenget,bilde,fingeravtrykk,referanse til tidligere søknader, og til andre som søker reiser i gruppe sammen med.
+Følgende opplysninger skal registreres i VIS:
+
+1. alfanumeriske data om søker og om visum som det er søkt om, innvilget, avslått, annullert, tilbakekalt eller forlenget,
+2. bilde,
+3. fingeravtrykk,
+4. referanse til tidligere søknader, og til andre som søker reiser i gruppe sammen med.
 
 Meldinger som sendes gjennom VIS-infrastrukturen for å gi informasjon i forbindelse med konsultasjon, eller om en søkers erverv av et Schengenlands statsborgerskap eller forslag til endring av registrerte opplysninger, skal ikke registreres i VIS.
 
@@ -1501,21 +1857,43 @@ Utlendingsdirektoratet er behandlingsansvarlig for NORVIS. Datatilsynet er nasjo
 
 Politimyndigheter med ansvar for å forebygge, etterforske eller oppklare terrorhandlinger og andre alvorlige straffbare handlinger kan gis tilgang til informasjon om en person er registrert i VIS når slik informasjon i et bestemt tilfelle er nødvendig ved at det er rimelig grunn til å anta at informasjonen i vesentlig grad vil bidra til å forebygge, oppklare eller etterforske terrorhandlinger eller andre alvorlige straffbare handlinger.
 
-Søk i VIS skal i disse tilfellene begrenses til søk på en eller flere av følgende opplysninger:navn, kjønn, fødested og fødselsdato,nasjonalitet,reisedokument med dato for utstedelse og utløp og utstedende myndighet,hovedreisemål, reisens varighet og formål,dato for ankomst og avreise,planlagt ankomststed eller transittrute,oppholdssted,fingeravtrykk,visumtype og nummer på visumblanketten, ogidentitet på person som har utstedt invitasjon og/eller som garanterer for visumsøkerens opphold.
+Søk i VIS skal i disse tilfellene begrenses til søk på en eller flere av følgende opplysninger:
 
-Dersom søket bekrefter at personen er registrert i VIS, kan det gis tilgang til alle opplysninger som er angitt i annet ledd samt til:foto og øvrige opplysninger i visumsøknaden, ogmerknader som er nedtegnet i forbindelse med visum som er innvilget, avslått, annullert eller tilbakekalt.
+1. navn, kjønn, fødested og fødselsdato,
+2. nasjonalitet,
+3. reisedokument med dato for utstedelse og utløp og utstedende myndighet,
+4. hovedreisemål, reisens varighet og formål,
+5. dato for ankomst og avreise,
+6. planlagt ankomststed eller transittrute,
+7. oppholdssted,
+8. fingeravtrykk,
+9. visumtype og nummer på visumblanketten, og
+10. identitet på person som har utstedt invitasjon og/eller som garanterer for visumsøkerens opphold.
+
+Dersom søket bekrefter at personen er registrert i VIS, kan det gis tilgang til alle opplysninger som er angitt i annet ledd samt til:
+
+1. foto og øvrige opplysninger i visumsøknaden, og
+2. merknader som er nedtegnet i forbindelse med visum som er innvilget, avslått, annullert eller tilbakekalt.
 
 > Tilføyd ved lov [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 11 okt 2011 iflg. [res. 7 okt 2011 nr. 998](forskrift/2011-10-07-998)), endret ved lov [22 juni 2012 nr. 50](lov/2012-06-22-50) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 583](forskrift/2012-06-22-583)). **Oppheves** ved [lov 21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft fra den tid Kongen bestemmer).
 
 ### § 102 f. Forskrifter om VIS
 
-Kongen kan i forskrift gi nærmere regler om:behandling av opplysninger i VIS, herunder registrering, overføring av opplysninger til sentralenheten, lagring, søk, bruk, sikkerhet, innsyn, endring, retting og sletting,unntak fra kravet om opptak av biometriske opplysninger, ogtilgang til bestemte opplysninger for bestemte formål.
+Kongen kan i forskrift gi nærmere regler om:
+
+1. behandling av opplysninger i VIS, herunder registrering, overføring av opplysninger til sentralenheten, lagring, søk, bruk, sikkerhet, innsyn, endring, retting og sletting,
+2. unntak fra kravet om opptak av biometriske opplysninger, og
+3. tilgang til bestemte opplysninger for bestemte formål.
 
 > Tilføyd ved lov [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 12 mars 2010 iflg. [res. 12 mars 2010 nr. 363](forskrift/2010-03-12-363)), endret ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)). **Oppheves** ved [lov 21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft fra den tid Kongen bestemmer).
 
 ### § 103. Undersøkelse av utlendingens person, bolig eller lignende
 
-Det kan foretas undersøkelse av utlendingens person, bolig, rom eller annet oppbevaringssted dersom det er konkrete holdepunkter for å anta at utlendingenikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), oppgir uriktig identitet, eller skjuler eller tilbakeholder opplysninger av vesentlig betydning for en sak om oppholdstillatelse,har penger eller andre formuesgoder som kan brukes til å dekke utgifter i forbindelse med utreisen som utlendingen har plikt til å dekke, og det er konkrete holdepunkter for å anta at utlendingen ikke frivillig vil dekke utgiftene, ellerhar reisedokument, billetter eller annet materiale som kan sikre iverksetting av vedtaket, og det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen, jf. [§ 106 d](lov/2008-05-15-35/§106d). Det samme gjelder under behandlingen av en sak som kan føre til et slikt vedtak.
+Det kan foretas undersøkelse av utlendingens person, bolig, rom eller annet oppbevaringssted dersom det er konkrete holdepunkter for å anta at utlendingen
+
+1. ikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), oppgir uriktig identitet, eller skjuler eller tilbakeholder opplysninger av vesentlig betydning for en sak om oppholdstillatelse,
+2. har penger eller andre formuesgoder som kan brukes til å dekke utgifter i forbindelse med utreisen som utlendingen har plikt til å dekke, og det er konkrete holdepunkter for å anta at utlendingen ikke frivillig vil dekke utgiftene, eller
+3. har reisedokument, billetter eller annet materiale som kan sikre iverksetting av vedtaket, og det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen, jf. [§ 106 d](lov/2008-05-15-35/§106d). Det samme gjelder under behandlingen av en sak som kan føre til et slikt vedtak.
 
 Det er ikke adgang til undersøkelse av utlendingens bolig etter første ledd bokstav b og c, med mindre utlendingen har ulovlig opphold som omfattes av straffebestemmelsen i [§ 108](lov/2008-05-15-35/§108) eller det gjelder undersøkelse etter bokstav c, og utlendingen har unnlatt å etterkomme et pålegg etter [§ 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83) om å legge frem reisedokumenter.
 
@@ -1567,7 +1945,15 @@ Reglene i [straffeprosessloven §§ 204](lov/1981-05-22-25/§204) (forbud mot be
 
 ### § 105. Meldeplikt og bestemt oppholdssted
 
-En utlending kan pålegges meldeplikt eller bestemt oppholdssted nårutlendingen ikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), eller det er konkrete holdepunkter for å anta at utlendingen oppgir uriktig identitet,det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90). Det samme gjelder under behandlingen av en sak som kan føre til et slikt vedtak,utlendingen er asylsøker eller har ulovlig opphold og er ilagt straff for et straffbart forhold eller treffes på fersk gjerning ved utøvelse av et straffbart forhold, som kan føre til høyere straff enn fengsel i seks måneder,det eneste grunnlag for opphold i riket er vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73),utlendingens søknad om beskyttelse har blitt eller mest sannsynlig vil bli nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32) første ledd bokstav a eller d eller femte ledd,utlendingens søknad om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer, ellerutlendingen har blitt stanset i forbindelse med innreise og har blitt eller mest sannsynlig vil bli bortvist eller utvist. Dette gjelder ikke hvis utlendingen har søkt beskyttelse.
+En utlending kan pålegges meldeplikt eller bestemt oppholdssted når
+
+1. utlendingen ikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), eller det er konkrete holdepunkter for å anta at utlendingen oppgir uriktig identitet,
+2. det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90). Det samme gjelder under behandlingen av en sak som kan føre til et slikt vedtak,
+3. utlendingen er asylsøker eller har ulovlig opphold og er ilagt straff for et straffbart forhold eller treffes på fersk gjerning ved utøvelse av et straffbart forhold, som kan føre til høyere straff enn fengsel i seks måneder,
+4. det eneste grunnlag for opphold i riket er vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73),
+5. utlendingens søknad om beskyttelse har blitt eller mest sannsynlig vil bli nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32) første ledd bokstav a eller d eller femte ledd,
+6. utlendingens søknad om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer, eller
+7. utlendingen har blitt stanset i forbindelse med innreise og har blitt eller mest sannsynlig vil bli bortvist eller utvist. Dette gjelder ikke hvis utlendingen har søkt beskyttelse.
 
 Pålegg om meldeplikt og bestemt oppholdssted besluttes av politimesteren eller den politimesteren gir fullmakt. Beslutningen skal være skriftlig og opplyse om grunnen til pålegget. Utlendingen kan kreve innbrakt for retten spørsmålet om vilkårene for meldeplikt og bestemt oppholdssted foreligger, og om det er grunn til å opprettholde pålegget. Politiet sørger for at den som rammes av pålegget om meldeplikt og bestemt oppholdssted, blir gjort kjent med denne retten. Retten avgjør saken ved kjennelse, så vidt mulig innen rettsmøtets avslutning.
 
@@ -1579,7 +1965,18 @@ Kongen kan gi nærmere regler i forskrift om pålegg om meldeplikt eller bestemt
 
 ### § 106. Vilkår for pågripelse og internering
 
-En utlending kan pågripes og interneres nårutlendingen ikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), eller det er konkrete holdepunkter for å anta at utlendingen oppgir uriktig identitet,det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90). Pågripelse og internering kan også skje under behandlingen av en sak som kan føre til vedtak som nevnt i første punktum,det er konkrete holdepunkter for å anta at utlendingen vil unndra seg overføringsprosedyre i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. [§ 32 fjerde ledd](lov/2008-05-15-35/§32/ledd/4), eller det av hensyn til nasjonal sikkerhet eller offentlig orden er nødvendig for å sikre gjennomføringen av en slik prosedyre. Pågripelse og internering kan også skje i situasjoner som nevnt i første punktum under behandlingen av en sak som kan føre til vedtak som innebærer en slik overføringsprosedyre,utlendingen ikke overholder meldeplikt eller pålegg om bestemt oppholdssted etter [§ 105](lov/2008-05-15-35/§105) første ledd bokstav c, og utlendingen har en sak til behandling som ikke er endelig avgjort eller tidspunktet for utreisefristen ennå ikke er inntrådt,det er truffet vedtak om utvisning og vedtaket er endelig eller det er ikke gitt utsatt iverksettelse i forbindelse med klage, jf. [§ 90 c](lov/2008-05-15-35/§90c). Det er et vilkår at utlendingen er utvist på grunn av ilagt straff og at det ut fra utlendingens personlige forhold er fare for at utlendingen vil begå nye straffbare handlinger,utlendingen ikke gjør det som er nødvendig for å oppfylle plikten til å skaffe seg gyldig reisedokument, og formålet er å fremstille utlendingen for det aktuelle lands utenriksstasjon for å få utstedt reisedokument. Pågripelse og internering etter første punktum kan også skje under behandlingen av en sak,utlendingen er i transitt i norsk lufthavn, med sikte på utsendelse,utlendingens søknad om beskyttelse mest sannsynlig vil bli nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32) første ledd bokstav a eller d eller femte ledd. Dette gjelder ikke hvis utlendingen er mindreårig eller har mindreårige barn som også har søkt beskyttelse,utlendingens søknad om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer. Dette gjelder ikke hvis utlendingen er mindreårig eller har mindreårige barn som også har søkt beskyttelse, ellerutlendingen har blitt eller mest sannsynlig vil bli nektet innreise og bortvist eller utvist. Dette gjelder ikke hvis utlendingen har søkt beskyttelse, er mindreårig eller har med seg mindreårige barn som ikke fyller vilkårene for innreise.
+En utlending kan pågripes og interneres når
+
+1. utlendingen ikke samarbeider om å klarlegge sin identitet i henhold til [lovens § 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83), eller det er konkrete holdepunkter for å anta at utlendingen oppgir uriktig identitet,
+2. det er konkrete holdepunkter for å anta at utlendingen vil unndra seg iverksettingen av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90). Pågripelse og internering kan også skje under behandlingen av en sak som kan føre til vedtak som nevnt i første punktum,
+3. det er konkrete holdepunkter for å anta at utlendingen vil unndra seg overføringsprosedyre i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. [§ 32 fjerde ledd](lov/2008-05-15-35/§32/ledd/4), eller det av hensyn til nasjonal sikkerhet eller offentlig orden er nødvendig for å sikre gjennomføringen av en slik prosedyre. Pågripelse og internering kan også skje i situasjoner som nevnt i første punktum under behandlingen av en sak som kan føre til vedtak som innebærer en slik overføringsprosedyre,
+4. utlendingen ikke overholder meldeplikt eller pålegg om bestemt oppholdssted etter [§ 105](lov/2008-05-15-35/§105) første ledd bokstav c, og utlendingen har en sak til behandling som ikke er endelig avgjort eller tidspunktet for utreisefristen ennå ikke er inntrådt,
+5. det er truffet vedtak om utvisning og vedtaket er endelig eller det er ikke gitt utsatt iverksettelse i forbindelse med klage, jf. [§ 90 c](lov/2008-05-15-35/§90c). Det er et vilkår at utlendingen er utvist på grunn av ilagt straff og at det ut fra utlendingens personlige forhold er fare for at utlendingen vil begå nye straffbare handlinger,
+6. utlendingen ikke gjør det som er nødvendig for å oppfylle plikten til å skaffe seg gyldig reisedokument, og formålet er å fremstille utlendingen for det aktuelle lands utenriksstasjon for å få utstedt reisedokument. Pågripelse og internering etter første punktum kan også skje under behandlingen av en sak,
+7. utlendingen er i transitt i norsk lufthavn, med sikte på utsendelse,
+8. utlendingens søknad om beskyttelse mest sannsynlig vil bli nektet realitetsbehandlet i medhold av [§ 32](lov/2008-05-15-35/§32) første ledd bokstav a eller d eller femte ledd. Dette gjelder ikke hvis utlendingen er mindreårig eller har mindreårige barn som også har søkt beskyttelse,
+9. utlendingens søknad om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer. Dette gjelder ikke hvis utlendingen er mindreårig eller har mindreårige barn som også har søkt beskyttelse, eller
+10. utlendingen har blitt eller mest sannsynlig vil bli nektet innreise og bortvist eller utvist. Dette gjelder ikke hvis utlendingen har søkt beskyttelse, er mindreårig eller har med seg mindreårige barn som ikke fyller vilkårene for innreise.
 
 Det skal ikke besluttes pågripelse eller internering dersom det vil være tilstrekkelig med meldeplikt eller pålegg om bestemt oppholdssted, jf. [§ 105](lov/2008-05-15-35/§105).
 
@@ -1597,7 +1994,11 @@ Pågripelse foretas så skånsomt som forholdene tillater. Ting som den pågrepn
 
 Den som blir pågrepet, skal gis opplysning om grunnen til pågripelsen på et språk utlendingen forstår. Foreligger det skriftlig beslutning om pågripelse, skal utlendingen gis avskrift av beslutningen dersom vedkommende ber om det.
 
-Den pågrepne skal snarest mulig gis adgang til å forklare seg for politiet. [Straffeprosessloven § 230](lov/1981-05-22-25/§230) femte og sjette ledd gjelder tilsvarende. Forklaringsrett gjelder likevel ikke nåren utlending som er utvist, og ikke er gitt utreisefrist i medhold av [§ 90 a](lov/2008-05-15-35/§90a), pågripes ved løslatelse fra soning av dom,pågripelse skjer på grunn av fare for unndragelse og utlendingen allerede har oversittet en fastsatt utreisefrist, ellerpågripelse skjer etter at utlendingen har forklart seg for politiet i en alminnelig utlendingskontroll eller i en inn- eller utreisekontroll.
+Den pågrepne skal snarest mulig gis adgang til å forklare seg for politiet. [Straffeprosessloven § 230](lov/1981-05-22-25/§230) femte og sjette ledd gjelder tilsvarende. Forklaringsrett gjelder likevel ikke når
+
+1. en utlending som er utvist, og ikke er gitt utreisefrist i medhold av [§ 90 a](lov/2008-05-15-35/§90a), pågripes ved løslatelse fra soning av dom,
+2. pågripelse skjer på grunn av fare for unndragelse og utlendingen allerede har oversittet en fastsatt utreisefrist, eller
+3. pågripelse skjer etter at utlendingen har forklart seg for politiet i en alminnelig utlendingskontroll eller i en inn- eller utreisekontroll.
 
 Når pågripelse er foretatt, skal politiet sørge for underretning til den pågrepnes husstand eller annen person vedkommende utpeker. Underretning kan imidlertid unnlates dersom den pågrepne ikke ønsker slik underretning, de nevnte personene befinner seg i utlandet, eller særlige grunner tilsier det. Når underretning unnlates mot utlendingens vilje, og ikke skyldes at de aktuelle personene befinner seg i utlandet, skal spørsmålet forelegges for retten første gang utlendingen fremstilles.
 
@@ -1639,7 +2040,21 @@ En mindreårig utlending kan interneres for inntil 3 døgn (72 timer) av gangen.
 
 ### § 106 d. Fare for unndragelse
 
-Fare for unndragelse skal vurderes konkret i det enkelte tilfelle. For å avgjøre om det foreligger unndragelsesfare skal det foretas en totalvurdering hvor det blant annet kan legges vekt på omutlendingen har unndratt seg iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), herunder ikke overholdt en utreisefrist,utlendingen uttrykkelig har motsatt seg en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90),utlendingen er utvist fra riket,utlendingen er ilagt straff eller særreaksjon i riket,utlendingen har vist manglende samarbeid ved identitetstvil,utlendingen unngår eller vanskeliggjør forberedelsen til en utsendelse,utlendingen har gitt uriktige opplysninger til norske myndigheter ved søknad om tillatelse,utlendingen har unnlatt å gi melding om endring av bopel, jf. [§ 19](lov/2008-05-15-35/§19) annet ledd,utlendingen er ansvarlig for alvorlige ordensforstyrrelser ved innkvarteringssted for asylsøkere mv., jf. [§ 95](lov/2008-05-15-35/§95) første og annet ledd,utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser,utlendingens søknad om beskyttelse er nektet realitetsbehandlet etter [§ 32 første ledd bokstav a](lov/2008-05-15-35/§32/ledd/1/bokstav/a) eller d eller femte ledd,utlendingens søknad om oppholdstillatelse er avslått som åpenbart grunnløs, jf. [§ 90 a første ledd](lov/2008-05-15-35/§90a/ledd/1) bokstav b, ellerutlendingen ikke har overholdt plikten til å være tilgjengelig for screeningmyndigheten, jf. [grenseloven § 24 b](lov/2018-04-20-8/§24b).
+Fare for unndragelse skal vurderes konkret i det enkelte tilfelle. For å avgjøre om det foreligger unndragelsesfare skal det foretas en totalvurdering hvor det blant annet kan legges vekt på om
+
+1. utlendingen har unndratt seg iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), herunder ikke overholdt en utreisefrist,
+2. utlendingen uttrykkelig har motsatt seg en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90),
+3. utlendingen er utvist fra riket,
+4. utlendingen er ilagt straff eller særreaksjon i riket,
+5. utlendingen har vist manglende samarbeid ved identitetstvil,
+6. utlendingen unngår eller vanskeliggjør forberedelsen til en utsendelse,
+7. utlendingen har gitt uriktige opplysninger til norske myndigheter ved søknad om tillatelse,
+8. utlendingen har unnlatt å gi melding om endring av bopel, jf. [§ 19](lov/2008-05-15-35/§19) annet ledd,
+9. utlendingen er ansvarlig for alvorlige ordensforstyrrelser ved innkvarteringssted for asylsøkere mv., jf. [§ 95](lov/2008-05-15-35/§95) første og annet ledd,
+10. utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser,
+11. utlendingens søknad om beskyttelse er nektet realitetsbehandlet etter [§ 32 første ledd bokstav a](lov/2008-05-15-35/§32/ledd/1/bokstav/a) eller d eller femte ledd,
+12. utlendingens søknad om oppholdstillatelse er avslått som åpenbart grunnløs, jf. [§ 90 a første ledd](lov/2008-05-15-35/§90a/ledd/1) bokstav b, eller
+13. utlendingen ikke har overholdt plikten til å være tilgjengelig for screeningmyndigheten, jf. [grenseloven § 24 b](lov/2018-04-20-8/§24b).
 
 Ved vurderingen av unndragelsesfare etter første ledd kan også generelle erfaringer med unndragelse tillegges vekt.
 
@@ -1653,9 +2068,23 @@ Utlendingsinternatet er ikke underlagt kriminalomsorgen, men administreres av po
 
 Utlendingen har rett til blant annet å motta besøk, telefonere, motta og sende postsendinger, helsetjenester, fellesskap, opphold i friluft, fysisk aktivitet, privatliv, religionsutøvelse og livssynsutøvelse, såfremt ikke annet følger av loven her.
 
-Når det er nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), kan politietundersøke utlendingens person, rom og eiendeler, samt øvrige gjenstander, rom og areal på internatets område,midlertidig frata og forvare utlendingens penger og andre gjenstander,kontrollere og begrense utlendingens besøk, telefonsamtaler og postsendinger,kontrollere og begrense utlendingens fysiske aktivitet, opphold i friluft, religionsutøvelse og livssynsutøvelse, ellervisitere besøkende og andre som oppholder seg på internatets område.Tiltak etter bokstav a, b og c kan også iverksettes overfor en utlending når det er grunn til å tro at vedkommende skjuler eller tilbakeholder opplysninger om sin eller en annen utlendings identitet eller oppholdssted. Telefonavlytting etter bokstav c kan ikke foretas uten at samtalepartnerne er varslet på forhånd. Tiltak etter bokstav e kan også iverksettes for å undersøke om vedkommende skjuler opplysninger om en utlendings identitet. Tiltak etter dette leddet kan ikke iverksettes overfor utlendingens prosessfullmektig eller representanter for offentlig myndighet.
+Når det er nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), kan politiet
 
-Når det er strengt nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), og andre, mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelig, kan politietbruke makt og godkjente maktmidler, jf. [politiloven § 6](lov/1995-08-04-53/§6) fjerde ledd,plassere utlendingen i særlig sikret avdeling eller sikkerhetscelle, ellerutelukke utlendingen helt eller delvis fra fellesskapet på internatet.Uttalelse fra lege skal så vidt mulig innhentes og tas i betraktning ved vurderingen av iverksetting og opprettholdelse av tiltak etter dette leddet bokstav b og c.
+1. undersøke utlendingens person, rom og eiendeler, samt øvrige gjenstander, rom og areal på internatets område,
+2. midlertidig frata og forvare utlendingens penger og andre gjenstander,
+3. kontrollere og begrense utlendingens besøk, telefonsamtaler og postsendinger,
+4. kontrollere og begrense utlendingens fysiske aktivitet, opphold i friluft, religionsutøvelse og livssynsutøvelse, eller
+5. visitere besøkende og andre som oppholder seg på internatets område.
+
+Tiltak etter bokstav a, b og c kan også iverksettes overfor en utlending når det er grunn til å tro at vedkommende skjuler eller tilbakeholder opplysninger om sin eller en annen utlendings identitet eller oppholdssted. Telefonavlytting etter bokstav c kan ikke foretas uten at samtalepartnerne er varslet på forhånd. Tiltak etter bokstav e kan også iverksettes for å undersøke om vedkommende skjuler opplysninger om en utlendings identitet. Tiltak etter dette leddet kan ikke iverksettes overfor utlendingens prosessfullmektig eller representanter for offentlig myndighet.
+
+Når det er strengt nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting av et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), og andre, mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelig, kan politiet
+
+1. bruke makt og godkjente maktmidler, jf. [politiloven § 6](lov/1995-08-04-53/§6) fjerde ledd,
+2. plassere utlendingen i særlig sikret avdeling eller sikkerhetscelle, eller
+3. utelukke utlendingen helt eller delvis fra fellesskapet på internatet.
+
+Uttalelse fra lege skal så vidt mulig innhentes og tas i betraktning ved vurderingen av iverksetting og opprettholdelse av tiltak etter dette leddet bokstav b og c.
 
 Tiltak etter fjerde og femte ledd kan ikke brukes når det vil være et uforholdsmessig inngrep. Slike tiltak skal brukes med varsomhet. Politiet skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket.
 
@@ -1679,15 +2108,51 @@ Kongen kan gi utfyllende bestemmelser i forskrift.
 
 Med bot straffes den som forsettlig eller uaktsomt unnlater å oppfylle plikten etter [§ 117](lov/2008-05-15-35/§117) første ledd eller [§ 118](lov/2008-05-15-35/§118) første ledd.
 
-Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som:Forsettlig eller uaktsomt overtrer de bestemmelsene som er angitt i det følgende, eller forbud, påbud eller vilkår gitt i medhold av disse bestemmelsene:[§ 8](lov/2008-05-15-35/§8) første ledd[§ 9](lov/2008-05-15-35/§9) første og fjerde ledd[§ 16](lov/2018-04-20-8/§16) første ledd[§ 19](lov/2008-05-15-35/§19) første og annet ledd[§ 20](lov/2008-05-15-35/§20) tredje ledd[§ 21](lov/2008-05-15-35/§21) første ledd[§ 27](lov/2008-05-15-35/§27) første ledd, jf. fjerde ledd[§ 55](lov/2008-05-15-35/§55) første og annet ledd, med mindre overtredelsen rammes av tredje ledd bokstav f[§ 83](lov/2008-05-15-35/§83) første og annet ledd[§ 90 a](lov/2008-05-15-35/§90a)[§ 93](lov/2008-05-15-35/§93) første ledd annet punktum[§ 100 b](lov/2008-05-15-35/§100b) første ledd annet punktum[§ 105](lov/2008-05-15-35/§105) første ledd[§ 126](lov/2008-05-15-35/§126) første ledd[§ 130](lov/2008-05-15-35/§130) første ledd, jf. [§ 105](lov/2008-05-15-35/§105)forsettlig eller uaktsomt overtrer en forskrift gitt i medhold av loven her, eller forbud, påbud eller vilkår som er gitt i medhold av en slik forskrift, når Kongen har fastsatt i forskriften at forholdet skal kunne straffes etter bestemmelsen her,forsettlig eller grovt uaktsomt gir vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven.
+Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som:
 
-Med bot eller med fengsel inntil to år straffes den som:forsettlig eller grovt uaktsomt gjør bruk av en utlendings arbeidskraft når utlendingen ikke har nødvendig tillatelse etter loven,forsettlig eller grovt uaktsomt formidler arbeid eller bolig for en utlending, eller utferdiger eller formidler erklæringer, tilsagn eller dokumenter til bruk for en sak etter loven, når forholdet innebærer en utilbørlig utnyttelse av utlendingens situasjon,ved falske forespeilinger eller liknende utilbørlig atferd forleder en utlending til å reise inn i riket med sikte på å bosette seg her,overlater til en annen pass, reisebevis for flyktninger, annet reisedokument eller liknende dokument som kan bli brukt som reisedokument, standardisert oppholdskort eller liknende kort, når vedkommende vet eller bør forstå at det kan bli brukt av en utlending til å reise inn i riket eller til en annen stat,forsettlig eller uaktsomt reiser inn i Norge i strid med et innreiseforbud etter [§ 71 annet ledd](lov/2008-05-15-35/§71/ledd/2) eller [§ 124 første ledd](lov/2008-05-15-35/§124/ledd/1). Overtredelsen straffes likevel bare med bot, med mindre vedkommende er utvist på grunn av ilagt straff etter andre bestemmelser enn annet ledd, utreise fra Schengen- og EU-området har funnet sted eller returprosedyrer er anvendt uten at utreise fra Schengen- og EU-området har funnet sted,er utvist som følge av ilagt fengselsstraff, forvaring eller særreaksjon etter andre bestemmelser enn annet ledd, og forsettlig eller uaktsomt overtrer kravet om oppholdstillatelse i [utlendingsloven § 55](lov/2008-05-15-35/§55) annet ledd ved ikke å forlate riket.
+1. Forsettlig eller uaktsomt overtrer de bestemmelsene som er angitt i det følgende, eller forbud, påbud eller vilkår gitt i medhold av disse bestemmelsene:
 
-Med bot eller med fengsel inntil tre år straffes den somhjelper en utlending til ulovlig opphold i riket eller i et annet land som deltar i Schengensamarbeidet, ellerhjelper en utlending til ulovlig å reise inn i riket eller til et annet land. Dette gjelder likevel ikke dersom hensikten er å hjelpe en utlending som omfattes av [lovens § 28](lov/2008-05-15-35/§28) til å reise inn i første trygge land.
+   - [§ 8](lov/2008-05-15-35/§8) første ledd
+   - [§ 9](lov/2008-05-15-35/§9) første og fjerde ledd
+   - [§ 16](lov/2018-04-20-8/§16) første ledd
+   - [§ 19](lov/2008-05-15-35/§19) første og annet ledd
+   - [§ 20](lov/2008-05-15-35/§20) tredje ledd
+   - [§ 21](lov/2008-05-15-35/§21) første ledd
+   - [§ 27](lov/2008-05-15-35/§27) første ledd, jf. fjerde ledd
+   - [§ 55](lov/2008-05-15-35/§55) første og annet ledd, med mindre overtredelsen rammes av tredje ledd bokstav f
+   - [§ 83](lov/2008-05-15-35/§83) første og annet ledd
+   - [§ 90 a](lov/2008-05-15-35/§90a)
+   - [§ 93](lov/2008-05-15-35/§93) første ledd annet punktum
+   - [§ 100 b](lov/2008-05-15-35/§100b) første ledd annet punktum
+   - [§ 105](lov/2008-05-15-35/§105) første ledd
+   - [§ 126](lov/2008-05-15-35/§126) første ledd
+   - [§ 130](lov/2008-05-15-35/§130) første ledd, jf. [§ 105](lov/2008-05-15-35/§105)
+2. forsettlig eller uaktsomt overtrer en forskrift gitt i medhold av loven her, eller forbud, påbud eller vilkår som er gitt i medhold av en slik forskrift, når Kongen har fastsatt i forskriften at forholdet skal kunne straffes etter bestemmelsen her,
+3. forsettlig eller grovt uaktsomt gir vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven.
 
-Med bot eller med fengsel inntil seks år straffes den somi vinnings hensikt driver organisert ulovlig virksomhet med sikte på å hjelpe utlendinger til å reise inn i riket eller til en annen stat, elleri vinnings hensikt hjelper en utlending til ulovlig å reise inn i riket eller til en annen stat dersom handlingen medfører at personen som berøres av handlingen blir utsatt for livsfare.
+Med bot eller med fengsel inntil to år straffes den som:
 
-Den som yter humanitær bistand til utlending som oppholder seg ulovlig i riket, skal ikke kunne straffes for medvirkning til ulovlig opphold med mindrevedkommende har hatt til hensikt å hjelpe utlendingen til å unndra seg plikten til å forlate riket, oghjelpen har vanskeliggjort myndighetenes mulighet til å få til en utsendelse.
+1. forsettlig eller grovt uaktsomt gjør bruk av en utlendings arbeidskraft når utlendingen ikke har nødvendig tillatelse etter loven,
+2. forsettlig eller grovt uaktsomt formidler arbeid eller bolig for en utlending, eller utferdiger eller formidler erklæringer, tilsagn eller dokumenter til bruk for en sak etter loven, når forholdet innebærer en utilbørlig utnyttelse av utlendingens situasjon,
+3. ved falske forespeilinger eller liknende utilbørlig atferd forleder en utlending til å reise inn i riket med sikte på å bosette seg her,
+4. overlater til en annen pass, reisebevis for flyktninger, annet reisedokument eller liknende dokument som kan bli brukt som reisedokument, standardisert oppholdskort eller liknende kort, når vedkommende vet eller bør forstå at det kan bli brukt av en utlending til å reise inn i riket eller til en annen stat,
+5. forsettlig eller uaktsomt reiser inn i Norge i strid med et innreiseforbud etter [§ 71 annet ledd](lov/2008-05-15-35/§71/ledd/2) eller [§ 124 første ledd](lov/2008-05-15-35/§124/ledd/1). Overtredelsen straffes likevel bare med bot, med mindre vedkommende er utvist på grunn av ilagt straff etter andre bestemmelser enn annet ledd, utreise fra Schengen- og EU-området har funnet sted eller returprosedyrer er anvendt uten at utreise fra Schengen- og EU-området har funnet sted,
+6. er utvist som følge av ilagt fengselsstraff, forvaring eller særreaksjon etter andre bestemmelser enn annet ledd, og forsettlig eller uaktsomt overtrer kravet om oppholdstillatelse i [utlendingsloven § 55](lov/2008-05-15-35/§55) annet ledd ved ikke å forlate riket.
+
+Med bot eller med fengsel inntil tre år straffes den som
+
+1. hjelper en utlending til ulovlig opphold i riket eller i et annet land som deltar i Schengensamarbeidet, eller
+2. hjelper en utlending til ulovlig å reise inn i riket eller til et annet land. Dette gjelder likevel ikke dersom hensikten er å hjelpe en utlending som omfattes av [lovens § 28](lov/2008-05-15-35/§28) til å reise inn i første trygge land.
+
+Med bot eller med fengsel inntil seks år straffes den som
+
+1. i vinnings hensikt driver organisert ulovlig virksomhet med sikte på å hjelpe utlendinger til å reise inn i riket eller til en annen stat, eller
+2. i vinnings hensikt hjelper en utlending til ulovlig å reise inn i riket eller til en annen stat dersom handlingen medfører at personen som berøres av handlingen blir utsatt for livsfare.
+
+Den som yter humanitær bistand til utlending som oppholder seg ulovlig i riket, skal ikke kunne straffes for medvirkning til ulovlig opphold med mindre
+
+1. vedkommende har hatt til hensikt å hjelpe utlendingen til å unndra seg plikten til å forlate riket, og
+2. hjelpen har vanskeliggjort myndighetenes mulighet til å få til en utsendelse.
 
 Når allmenne hensyn krever det, skal Utlendingsdirektoratet anmelde forholdet når det er grunn til å tro at det har skjedd en overtredelse av annet ledd bokstav a eller tredje ledd bokstav a ved at det er gjort bruk av arbeidskraften til en utlending som ikke har nødvendig tillatelse etter loven.
 
@@ -1719,9 +2184,17 @@ Borgere av land som omfattes av EØS-avtalen, heretter omtalt som EØS-borgere, 
 
 Familiemedlemmer til en EØS-borger omfattes av bestemmelsene i dette kapittelet så lenge de følger eller slutter seg til en EØS-borger. Familiemedlemmer til en norsk borger omfattes av bestemmelsene i dette kapittelet dersom de følger eller slutter seg til en norsk borger som returnerer til riket etter å ha utøvet retten til fri bevegelighet etter [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen i et annet EØS-land eller EFTA-land.
 
-Med familiemedlem menesektefelle,samboer, dersom det foreligger en varig tilknytning til EØS-borgeren og denne tilknytningen kan dokumenteres,slektning i direkte nedstigende linje fra en EØS-borger eller fra en utlending nevnt i bokstav a eller b, som er under 21 år eller som forsørges av EØS-borgeren eller dennes ektefelle, ogslektning i direkte oppstigende linje fra en EØS-borger eller fra en utlending nevnt i bokstav a eller b som forsørges av EØS-borgeren eller dennes ektefelle.
+Med familiemedlem menes
 
-En utlending som faller utenfor bestemmelsene i første til tredje ledd, men som er arbeidstaker i et foretak etablert i et EØS-land, omfattes likevel av bestemmelsene i dette kapittelet så langt de passer i forhold til det oppdraget som skal utføres her i riket, når vedkommendeskal utføre arbeid etter reglene om fri bevegelighet for tjenester i EØS-avtalen, ellerskal etablere seg etter reglene om fri etableringsrett i EØS-avtalen.
+1. ektefelle,
+2. samboer, dersom det foreligger en varig tilknytning til EØS-borgeren og denne tilknytningen kan dokumenteres,
+3. slektning i direkte nedstigende linje fra en EØS-borger eller fra en utlending nevnt i bokstav a eller b, som er under 21 år eller som forsørges av EØS-borgeren eller dennes ektefelle, og
+4. slektning i direkte oppstigende linje fra en EØS-borger eller fra en utlending nevnt i bokstav a eller b som forsørges av EØS-borgeren eller dennes ektefelle.
+
+En utlending som faller utenfor bestemmelsene i første til tredje ledd, men som er arbeidstaker i et foretak etablert i et EØS-land, omfattes likevel av bestemmelsene i dette kapittelet så langt de passer i forhold til det oppdraget som skal utføres her i riket, når vedkommende
+
+1. skal utføre arbeid etter reglene om fri bevegelighet for tjenester i EØS-avtalen, eller
+2. skal etablere seg etter reglene om fri etableringsrett i EØS-avtalen.
 
 Kongen kan gi nærmere bestemmelser i forskrift, herunder om hvem som omfattes av annet ledd, at også andre familiemedlemmer enn utlendinger som nevnt i tredje ledd, helt eller delvis skal omfattes av bestemmelsene i dette kapittelet og om kravet til varig tilknytning og dokumentasjon som nevnt i tredje ledd bokstav b. Kongen kan gi nærmere bestemmelser om hvem som omfattes av fjerde ledd.
 
@@ -1741,9 +2214,19 @@ Kongen kan gi nærmere bestemmelser i forskrift, herunder om beregning av opphol
 
 ### § 112. Oppholdsrett i mer enn tre måneder for EØS-borgere
 
-En EØS-borger har oppholdsrett utover tre måneder så lenge vedkommendeer arbeidstaker eller selvstendig næringsdrivende,skal yte tjenester,råder over tilstrekkelige midler til å forsørge seg selv og eventuelle medfølgende familiemedlemmer og er omfattet av en sykeforsikring som dekker alle risikoer under oppholdet, ellerer opptatt ved en godkjent utdanningsinstitusjon. Det er et vilkår at formålet med oppholdet hovedsakelig er utdanning, herunder yrkesrettet utdanning, at vedkommende er omfattet av en sykeforsikring som dekker alle risikoer under oppholdet, og avgir en erklæring om at vedkommende har tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer.
+En EØS-borger har oppholdsrett utover tre måneder så lenge vedkommende
 
-En utlending som oppholder seg i riket etter første ledd bokstav a, men som opphører å være arbeidstaker eller selvstendig næringsdrivende, bevarer likevel sin status som arbeidstaker eller selvstendig næringsdrivende dersom vedkommendeer midlertidig arbeidsufør som følge av sykdom eller ulykke,dokumenterer å være ufrivillig arbeidsløs etter å ha hatt lønnet arbeid i mer enn ett år, og har meldt seg som arbeidssøkende hos Arbeids- og velferdsetaten,dokumenterer å være ufrivillig arbeidsløs etter utløpet av en tidsbegrenset arbeidskontrakt av mindre enn ett års varighet eller ufrivillig ha mistet sitt arbeid i løpet av de første tolv månedene, og har meldt seg som arbeidssøkende hos Arbeids- og velferdsetaten, ellerpåbegynner en yrkesrettet utdanning. Med mindre vedkommende ufrivillig er arbeidsløs, bevares status som arbeidstaker eller selvstendig næringsdrivende etter første ledd bokstav a bare så lenge den yrkesrettede utdanningen har sammenheng med vedkommendes tidligere arbeid.
+1. er arbeidstaker eller selvstendig næringsdrivende,
+2. skal yte tjenester,
+3. råder over tilstrekkelige midler til å forsørge seg selv og eventuelle medfølgende familiemedlemmer og er omfattet av en sykeforsikring som dekker alle risikoer under oppholdet, eller
+4. er opptatt ved en godkjent utdanningsinstitusjon. Det er et vilkår at formålet med oppholdet hovedsakelig er utdanning, herunder yrkesrettet utdanning, at vedkommende er omfattet av en sykeforsikring som dekker alle risikoer under oppholdet, og avgir en erklæring om at vedkommende har tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer.
+
+En utlending som oppholder seg i riket etter første ledd bokstav a, men som opphører å være arbeidstaker eller selvstendig næringsdrivende, bevarer likevel sin status som arbeidstaker eller selvstendig næringsdrivende dersom vedkommende
+
+1. er midlertidig arbeidsufør som følge av sykdom eller ulykke,
+2. dokumenterer å være ufrivillig arbeidsløs etter å ha hatt lønnet arbeid i mer enn ett år, og har meldt seg som arbeidssøkende hos Arbeids- og velferdsetaten,
+3. dokumenterer å være ufrivillig arbeidsløs etter utløpet av en tidsbegrenset arbeidskontrakt av mindre enn ett års varighet eller ufrivillig ha mistet sitt arbeid i løpet av de første tolv månedene, og har meldt seg som arbeidssøkende hos Arbeids- og velferdsetaten, eller
+4. påbegynner en yrkesrettet utdanning. Med mindre vedkommende ufrivillig er arbeidsløs, bevares status som arbeidstaker eller selvstendig næringsdrivende etter første ledd bokstav a bare så lenge den yrkesrettede utdanningen har sammenheng med vedkommendes tidligere arbeid.
 
 I tilfeller som nevnt i annet ledd bokstav c, bortfaller status etter første ledd bokstav a etter seks måneder.
 
@@ -1773,7 +2256,12 @@ En utlending som nevnt i [§ 110](lov/2008-05-15-35/§110) fjerde ledd, har opph
 
 Ved EØS-borgerens død bevarer et familiemedlem som ikke er EØS-borger, oppholdsretten hvis vedkommende har hatt opphold i riket som familiemedlem i ett år før dødsfallet og oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c eller oppholder seg i riket som familiemedlem til en person som oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c. Ved en EØS-borgers utreise fra riket eller død bevarer uansett EØS-borgerens barn og den personen som har foreldreansvaret, oppholdsretten så lenge barnet er opptatt ved en godkjent utdanningsinstitusjon.
 
-Ved skilsmisse eller opphør av samboerskap bevarer EØS-borgerens familiemedlemmer som ikke er EØS-borgere, oppholdsretten så lenge de selv oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c, eller er familiemedlem til en person som oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c, forutsatt atekteskapet på separasjonstidspunktet hadde vart i tre år og herunder ett år i riket,foreldreansvaret til barn av EØS-borgeren ved avtale eller dom er overført til ektefellen som ikke er EØS-borger,det foreligger en særlig vanskelig situasjon, for eksempel at ektefellen som ikke er EØS-borger, eller eventuelle barn har vært utsatt for vold eller andre alvorlige overgrep i ekteskapet, ellerektefellen som ikke er EØS-borger, ved avtale eller dom utøver samvær med barn i riket.
+Ved skilsmisse eller opphør av samboerskap bevarer EØS-borgerens familiemedlemmer som ikke er EØS-borgere, oppholdsretten så lenge de selv oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c, eller er familiemedlem til en person som oppfyller vilkårene i [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, b eller c, forutsatt at
+
+1. ekteskapet på separasjonstidspunktet hadde vart i tre år og herunder ett år i riket,
+2. foreldreansvaret til barn av EØS-borgeren ved avtale eller dom er overført til ektefellen som ikke er EØS-borger,
+3. det foreligger en særlig vanskelig situasjon, for eksempel at ektefellen som ikke er EØS-borger, eller eventuelle barn har vært utsatt for vold eller andre alvorlige overgrep i ekteskapet, eller
+4. ektefellen som ikke er EØS-borger, ved avtale eller dom utøver samvær med barn i riket.
 
 Kongen kan gi nærmere bestemmelser i forskrift om en videre oppholdsrett for personer med foreldreansvar eller samværsrett som nevnt i tredje og fjerde ledd, og ved opphør av samboerskap etter fjerde ledd.
 
@@ -1783,13 +2271,20 @@ Kongen kan gi nærmere bestemmelser i forskrift om en videre oppholdsrett for pe
 
 En EØS-borger som etter [§§ 112](lov/2008-05-15-35/§112) og [113](lov/2008-05-15-35/§113) har hatt sammenhengende lovlig opphold i riket i fem år, får varig oppholdsrett. Midlertidig opphold utenfor riket er under visse omstendigheter tillatt uten at kravet til sammenhengende opphold berøres. Den varige oppholdsretten består uavhengig av om vilkårene for opphold i [§§ 112](lov/2008-05-15-35/§112) og [113](lov/2008-05-15-35/§113) er oppfylt. Den varige oppholdsretten bortfaller hvis innehaveren oppholder seg utenfor riket i mer enn to påfølgende år.
 
-En EØS-borger som oppholder seg i riket etter [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, får varig oppholdsrett selv om vedkommende ikke har hatt sammenhengende opphold i fem år hvis vedkommendeved opphør av sin yrkesaktivitet går over på førtidspensjon eller har nådd den alderen som er fastsatt i lovgivningen for rett til alderspensjon, og har hatt sammenhengende opphold i riket i mer enn tre år og arbeid i riket i minst de tolv forutgående månedene,har oppholdt seg sammenhengende i riket i mer enn to år og blir varig arbeidsufør, elleretter å ha arbeidet og oppholdt seg i riket i tre sammenhengende år, arbeider i et annet EØS-land, men fortsatt oppholder seg i riket og vender tilbake til bostedet daglig eller minst en gang i uken.
+En EØS-borger som oppholder seg i riket etter [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, får varig oppholdsrett selv om vedkommende ikke har hatt sammenhengende opphold i fem år hvis vedkommende
+
+1. ved opphør av sin yrkesaktivitet går over på førtidspensjon eller har nådd den alderen som er fastsatt i lovgivningen for rett til alderspensjon, og har hatt sammenhengende opphold i riket i mer enn tre år og arbeid i riket i minst de tolv forutgående månedene,
+2. har oppholdt seg sammenhengende i riket i mer enn to år og blir varig arbeidsufør, eller
+3. etter å ha arbeidet og oppholdt seg i riket i tre sammenhengende år, arbeider i et annet EØS-land, men fortsatt oppholder seg i riket og vender tilbake til bostedet daglig eller minst en gang i uken.
 
 Hvis uførheten etter annet ledd bokstav b skyldes arbeidsulykke eller yrkessykdom som helt eller delvis gir vedkommende rett til offentlige ytelser, stilles ingen krav til oppholdets varighet.
 
 En EØS-borger som er familiemedlem og bor sammen med en person som nevnt i annet ledd, får varig oppholdsrett på det tidspunktet varig oppholdsrett etter annet ledd inntrer.
 
-En EØS-borger som er familiemedlem og bor sammen med en EØS-borger med oppholdsrett etter [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, får varig oppholdsrett ved EØS-borgerens død selv om avdøde ikke hadde varig oppholdsrett etter første eller annet ledd, hvisavdøde hadde hatt opphold i riket i to sammenhengende år før dødsfallet, ellerdødsfallet var forårsaket av en arbeidsulykke eller yrkessykdom.
+En EØS-borger som er familiemedlem og bor sammen med en EØS-borger med oppholdsrett etter [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a, får varig oppholdsrett ved EØS-borgerens død selv om avdøde ikke hadde varig oppholdsrett etter første eller annet ledd, hvis
+
+1. avdøde hadde hatt opphold i riket i to sammenhengende år før dødsfallet, eller
+2. dødsfallet var forårsaket av en arbeidsulykke eller yrkessykdom.
 
 Kongen kan gi nærmere bestemmelser i forskrift, herunder om hva som skal anses som sammenhengende lovlig opphold, om hva som ligger i midlertidig opphold utenfor riket, herunder om gyldige fraværsgrunner, om hva som ligger i vilkåret om å bo sammen og om bortfall av den varige oppholdsretten.
 
@@ -1809,9 +2304,17 @@ Kongen kan gi nærmere bestemmelser i forskrift, herunder om hva som skal anses 
 
 En EØS-borger som oppholder seg i riket etter [§§ 112](lov/2008-05-15-35/§112) eller [113 i](lov/2008-05-15-35/§113) mer enn tre måneder, skal registrere seg. Fristen for registrering er tre måneder fra innreisedatoen. Når EØS-borgeren framlegger dokumentasjon som nevnt i annet og tredje ledd, utstedes straks et registreringsbevis.
 
-For registrering av en EØS-borger med oppholdsrett etter [§ 112](lov/2008-05-15-35/§112) kan det i tillegg til gyldig identitetskort eller pass kreves framlagtbekreftelse fra arbeidsgiver på ansettelse eller bevis for at utlendingen utøver selvstendig næringsvirksomhet eller bekreftelse på avtale om tjenesteytelse, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a og b,sykeforsikring og dokumentasjon på at vedkommende har tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav c,bekreftelse på at vedkommende er opptatt ved en godkjent utdanningsinstitusjon, sykeforsikring og erklæring om at vedkommende råder over tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav d.
+For registrering av en EØS-borger med oppholdsrett etter [§ 112](lov/2008-05-15-35/§112) kan det i tillegg til gyldig identitetskort eller pass kreves framlagt
 
-For registrering av en EØS-borger som oppholder seg i riket som familiemedlem med oppholdsrett etter [§ 113](lov/2008-05-15-35/§113), kan det i tillegg til gyldig identitetskort eller pass kreves framlagtdokument som attesterer familieforholdet som er grunnlaget for oppholdsretten,registreringsbevis til EØS-borgeren som utlendingen følger eller gjenforenes med, ogdokumentasjon på forsørgelse i tilfeller hvor status som familiemedlem er betinget av at utlendingen forsørges, jf. [§ 110](lov/2008-05-15-35/§110) tredje ledd bokstav c og d.
+1. bekreftelse fra arbeidsgiver på ansettelse eller bevis for at utlendingen utøver selvstendig næringsvirksomhet eller bekreftelse på avtale om tjenesteytelse, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav a og b,
+2. sykeforsikring og dokumentasjon på at vedkommende har tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav c,
+3. bekreftelse på at vedkommende er opptatt ved en godkjent utdanningsinstitusjon, sykeforsikring og erklæring om at vedkommende råder over tilstrekkelige midler til å dekke underhold for seg selv og eventuelle familiemedlemmer, jf. [§ 112](lov/2008-05-15-35/§112) første ledd bokstav d.
+
+For registrering av en EØS-borger som oppholder seg i riket som familiemedlem med oppholdsrett etter [§ 113](lov/2008-05-15-35/§113), kan det i tillegg til gyldig identitetskort eller pass kreves framlagt
+
+1. dokument som attesterer familieforholdet som er grunnlaget for oppholdsretten,
+2. registreringsbevis til EØS-borgeren som utlendingen følger eller gjenforenes med, og
+3. dokumentasjon på forsørgelse i tilfeller hvor status som familiemedlem er betinget av at utlendingen forsørges, jf. [§ 110](lov/2008-05-15-35/§110) tredje ledd bokstav c og d.
 
 Kongen kan gi nærmere bestemmelser i forskrift, herunder om hvilken myndighet som registrerer og utsteder registreringsbevis og om å fastsette gebyr for utstedelsen. Kongen kan gi nærmere bestemmelser om arbeidssøkerens plikt til å registrere seg når EØS-borgeren finner arbeid etter utløpet av fristen i første ledd.
 
@@ -1821,9 +2324,17 @@ Kongen kan gi nærmere bestemmelser i forskrift, herunder om hvilken myndighet s
 
 En utlending som oppholder seg i riket etter [§ 114](lov/2008-05-15-35/§114) i mer enn tre måneder, plikter å anskaffe oppholdskort. Søknadsfristen for oppholdskort er tre måneder fra innreisedatoen. Når utlendingen framlegger dokumentasjon som nevnt i annet ledd, utstedes straks et bevis for at søknad om oppholdskort er levert.
 
-Ved søknad om oppholdskort for familiemedlemmer skal det framleggesgyldig pass,dokument som attesterer familieforholdet som er grunnlaget for oppholdsretten,registreringsbevis til EØS-borgeren som utlendingen følger eller gjenforenes med,dokumentasjon på forsørgelse i tilfeller hvor status som familiemedlem er betinget av at utlendingen forsørges, jf. [§ 110](lov/2008-05-15-35/§110) tredje ledd bokstav c og d.
+Ved søknad om oppholdskort for familiemedlemmer skal det framlegges
 
-Ved søknad om oppholdskort for utlendinger som nevnt i [§ 110](lov/2008-05-15-35/§110) fjerde ledd skal det framleggesgyldig pass ogdokumentasjon på at utlendingen skal utføre arbeid etter reglene om fri bevegelighet for tjenester i EØS-avtalen, eller skal etablere seg etter reglene om fri etableringsrett i EØS-avtalen.
+1. gyldig pass,
+2. dokument som attesterer familieforholdet som er grunnlaget for oppholdsretten,
+3. registreringsbevis til EØS-borgeren som utlendingen følger eller gjenforenes med,
+4. dokumentasjon på forsørgelse i tilfeller hvor status som familiemedlem er betinget av at utlendingen forsørges, jf. [§ 110](lov/2008-05-15-35/§110) tredje ledd bokstav c og d.
+
+Ved søknad om oppholdskort for utlendinger som nevnt i [§ 110](lov/2008-05-15-35/§110) fjerde ledd skal det framlegges
+
+1. gyldig pass og
+2. dokumentasjon på at utlendingen skal utføre arbeid etter reglene om fri bevegelighet for tjenester i EØS-avtalen, eller skal etablere seg etter reglene om fri etableringsrett i EØS-avtalen.
 
 Søknad om oppholdskort avgjøres innen seks måneder etter at søknaden er levert. Oppholdskortet er gyldig i fem år eller for EØS-borgerens oppholdsperiode hvis varigheten av denne antas å bli kortere enn fem år. Med mindre særlige grunner foreligger, opphører oppholdskortets gyldighet ved opphold utenfor riket i mer enn seks måneder per år.
 
@@ -1867,7 +2378,11 @@ Kongen kan gi nærmere bestemmelser i forskrift.
 
 ### § 121. Bortvisning
 
-EØS-borgere og deres familiemedlemmer kan bortvises nårde ikke viser gyldig pass eller annet godkjent reisedokument eller visum når dette er nødvendig,de reiser inn eller oppholder seg i riket uten rett til innreise, oppholdsrett eller varig oppholdsrett etter [§§ 111](lov/2008-05-15-35/§111), [112](lov/2008-05-15-35/§112), [113](lov/2008-05-15-35/§113), [114](lov/2008-05-15-35/§114), [115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116), og de heller ikke har rett til innreise eller oppholdstillatelse etter lovens alminnelige bestemmelser, ellerdet foreligger forhold som gir grunnlag for utvisning.
+EØS-borgere og deres familiemedlemmer kan bortvises når
+
+1. de ikke viser gyldig pass eller annet godkjent reisedokument eller visum når dette er nødvendig,
+2. de reiser inn eller oppholder seg i riket uten rett til innreise, oppholdsrett eller varig oppholdsrett etter [§§ 111](lov/2008-05-15-35/§111), [112](lov/2008-05-15-35/§112), [113](lov/2008-05-15-35/§113), [114](lov/2008-05-15-35/§114), [115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116), og de heller ikke har rett til innreise eller oppholdstillatelse etter lovens alminnelige bestemmelser, eller
+3. det foreligger forhold som gir grunnlag for utvisning.
 
 En utlending som nevnt i [§ 110](lov/2008-05-15-35/§110) fjerde ledd og som har oppholdsrett etter [§ 111](lov/2008-05-15-35/§111) annet ledd eller [§ 114](lov/2008-05-15-35/§114) annet ledd, kan bortvises når det foreligger forhold som gir grunnlag for utvisning.
 
@@ -1883,7 +2398,11 @@ Kongen kan gi nærmere bestemmelser i forskrift, herunder om at bortvisning ette
 
 EØS-borgere og deres familiemedlemmer, og utlendinger som nevnt i [lovens § 110](lov/2008-05-15-35/§110) fjerde ledd med oppholdsrett etter § 111 annet ledd eller § 114 annet ledd, kan utvises når hensynet til offentlig orden eller sikkerhet tilsier det. Det er et vilkår for utvisning at det hos utlendingen foreligger, eller må antas å foreligge, personlige forhold som innebærer en virkelig, umiddelbar og tilstrekkelig alvorlig trussel mot grunnleggende samfunnshensyn. Kongen kan i forskrift fastsette nærmere bestemmelser om hva som er omfattet av offentlig orden og sikkerhet.
 
-En utlending som kan utvises etter første ledd, kan likevel ikke utvises når utlendingenhar varig oppholdsrett etter [§§ 115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116) med mindre tungtveiende hensyn til offentlig orden eller sikkerhet tilsier det,er EØS-borger som har oppholdt seg de siste ti år i riket, med mindre det er tvingende nødvendig av hensyn til offentlig sikkerhet, ellerer EØS-borger som er mindreårig, med mindre det er tvingende nødvendig av hensyn til offentlig sikkerhet. Dette gjelder likevel ikke overfor mindreårige hvis utvisning av den mindreårige er nødvendig for å ivareta hensynet til barnets beste.
+En utlending som kan utvises etter første ledd, kan likevel ikke utvises når utlendingen
+
+1. har varig oppholdsrett etter [§§ 115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116) med mindre tungtveiende hensyn til offentlig orden eller sikkerhet tilsier det,
+2. er EØS-borger som har oppholdt seg de siste ti år i riket, med mindre det er tvingende nødvendig av hensyn til offentlig sikkerhet, eller
+3. er EØS-borger som er mindreårig, med mindre det er tvingende nødvendig av hensyn til offentlig sikkerhet. Dette gjelder likevel ikke overfor mindreårige hvis utvisning av den mindreårige er nødvendig for å ivareta hensynet til barnets beste.
 
 En utlending som har overtrådt [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått et slikt lovbrudd, kan utvises uavhengig av bestemmelsene i annet ledd.
 
@@ -1947,7 +2466,10 @@ Av hensyn til grunnleggende nasjonale interesser eller utenrikspolitiske hensyn 
 
 Selv om utlendingen blir utvist, bortvist eller for øvrig får et vedtak som innebærer at vedkommende mangler et lovlig oppholdsgrunnlag, kan ikke vedkommende pålegges å forlate landet i strid med vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73).
 
-I tillegg til den retten til fritt rettsråd uten behovsprøving som følger av [§ 92](lov/2008-05-15-35/§92) første og annet ledd, skal det gis fritt rettsråd uten behovsprøving i forbindelse med saksbehandlingen i Utlendingsdirektoratet, dersomutlendingen har søkt oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) eller har påberopt seg vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73), ogsaken kan berøre utenrikspolitiske hensyn eller grunnleggende nasjonale interesser.
+I tillegg til den retten til fritt rettsråd uten behovsprøving som følger av [§ 92](lov/2008-05-15-35/§92) første og annet ledd, skal det gis fritt rettsråd uten behovsprøving i forbindelse med saksbehandlingen i Utlendingsdirektoratet, dersom
+
+1. utlendingen har søkt oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) eller har påberopt seg vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73), og
+2. saken kan berøre utenrikspolitiske hensyn eller grunnleggende nasjonale interesser.
 
 Kongen kan gi nærmere regler i forskrift, herunder om forholdet til saksbehandlingsreglene i [lovens kapittel 11](lov/2008-05-15-35/kap11) og om unntak fra retten til fritt rettsråd.
 
@@ -1955,7 +2477,11 @@ Kongen kan gi nærmere regler i forskrift, herunder om forholdet til saksbehandl
 
 ### § 127. Vedtaksmyndighet
 
-Vedtak eller beslutninger i saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn treffes av Utlendingsdirektoratet, med mindredepartementet beslutter at saken skal avgjøres av departementet,avgjørelsen gjelder bruk av tvangsmidler eller andre beslutninger som etter loven skal treffes av politiet, ellerannet følger av paragrafen her.
+Vedtak eller beslutninger i saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn treffes av Utlendingsdirektoratet, med mindre
+
+1. departementet beslutter at saken skal avgjøres av departementet,
+2. avgjørelsen gjelder bruk av tvangsmidler eller andre beslutninger som etter loven skal treffes av politiet, eller
+3. annet følger av paragrafen her.
 
 I saker hvor Utlendingsdirektoratet mottar en vurdering fra Politiets sikkerhetstjeneste om grunnleggende nasjonale interesser eller fra Utenriksdepartementet om utenrikspolitiske hensyn, skal den mottatte vurderingen som hovedregel legges til grunn.
 
@@ -1965,7 +2491,12 @@ Vedtak etter [§ 126](lov/2008-05-15-35/§126) om å utvise en utlending som har
 
 Når departementet treffer vedtak eller beslutning etter første eller fjerde ledd, kan departementet også avgjøre alle andre tilknyttede saker.
 
-Kongen kan i forskrift fastsette unntak fra første, tredje og fjerde ledd, og kan gi nærmere regler om blant annetnår underliggende organer skal forelegge saker som kan berøre grunnleggende nasjonale interesser eller utenrikspolitiske hensyn, for departementet,innhenting av vurderinger fra Politiets sikkerhetstjeneste og Utenriksdepartementet,betydningen av uttalelser fra andre organer enn Politiets sikkerhetstjeneste og Utenriksdepartementet,vedtaksmyndighet i saker om bortvisning.
+Kongen kan i forskrift fastsette unntak fra første, tredje og fjerde ledd, og kan gi nærmere regler om blant annet
+
+1. når underliggende organer skal forelegge saker som kan berøre grunnleggende nasjonale interesser eller utenrikspolitiske hensyn, for departementet,
+2. innhenting av vurderinger fra Politiets sikkerhetstjeneste og Utenriksdepartementet,
+3. betydningen av uttalelser fra andre organer enn Politiets sikkerhetstjeneste og Utenriksdepartementet,
+4. vedtaksmyndighet i saker om bortvisning.
 
 > Tilføyd ved lov [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), endret ved lov [20 mai 2016 nr. 11](lov/2016-05-20-11) (ikr. 20 mai 2016 iflg. [res. 20 mai 2016 nr. 509](forskrift/2016-05-20-509)).
 
@@ -2001,7 +2532,11 @@ En beslutning fra departementet om å nekte samtykke etter [§ 127](lov/2008-05-
 
 Dersom utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser, kan det settes en kortere utreisefrist enn sju dager, jf. [§ 90 a](lov/2008-05-15-35/§90a) første ledd, og det kan besluttes at vedtaket skal iverksettes straks, jf. [§ 90 c](lov/2008-05-15-35/§90c).
 
-Påberoper en utlending seg å være flyktning eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, kan et vedtak bare iverksettes før det er endelig dersomsøknaden om opphold er avvist i medhold av [§ 32](lov/2008-05-15-35/§32),søkeren tidligere har fått avslag på søknad om asyl i annet land, ellervilkårene for opphold etter [§ 28](lov/2008-05-15-35/§28) eller for vern mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) åpenbart ikke er oppfylt.
+Påberoper en utlending seg å være flyktning eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) vil komme til anvendelse, kan et vedtak bare iverksettes før det er endelig dersom
+
+1. søknaden om opphold er avvist i medhold av [§ 32](lov/2008-05-15-35/§32),
+2. søkeren tidligere har fått avslag på søknad om asyl i annet land, eller
+3. vilkårene for opphold etter [§ 28](lov/2008-05-15-35/§28) eller for vern mot utsendelse etter [§ 73](lov/2008-05-15-35/§73) åpenbart ikke er oppfylt.
 
 Kongen kan gi nærmere regler i forskrift.
 
@@ -2009,7 +2544,10 @@ Kongen kan gi nærmere regler i forskrift.
 
 ### § 130. Tvangsmidler mv.
 
-Det kan foretas beslag av reisedokumenter etter [§ 104](lov/2008-05-15-35/§104), eller pålegges meldeplikt og bestemt oppholdssted etter [§ 105](lov/2008-05-15-35/§105), dersomutlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser ogikke har innrettet seg etter et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), eller tvangsretur for øvrig ikke lar seg gjennomføre.
+Det kan foretas beslag av reisedokumenter etter [§ 104](lov/2008-05-15-35/§104), eller pålegges meldeplikt og bestemt oppholdssted etter [§ 105](lov/2008-05-15-35/§105), dersom
+
+1. utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser og
+2. ikke har innrettet seg etter et vedtak som pålegger en utreiseplikt, jf. [§ 90](lov/2008-05-15-35/§90), eller tvangsretur for øvrig ikke lar seg gjennomføre.
 
 En utlending kan pågripes og interneres etter [§§ 106](lov/2008-05-15-35/§106) til [106 c](lov/2008-05-15-35/§106c) dersom utlendingen utgjør en trussel mot grunnleggende nasjonale interesser, og dette er fastslått i et vedtak i utlendingssaken, og det treffes tiltak mot utlendingen med sikte på utsendelse. Bestemmelsene om lengste samlede tid for internering i [§ 106 b](lov/2008-05-15-35/§106b) tredje ledd gjelder ikke.
 
@@ -2035,7 +2573,10 @@ Søksmål om gyldigheten av et vedtak etter dette kapittel eller krav om erstatn
 
 Vedtak som er truffet med begrunnelse i grunnleggende nasjonale interesser eller utenrikspolitiske hensyn etter reglene i kapittelet her, må bringes inn for tingretten innen én måned fra det tidspunkt underretningen om vedtaket er kommet frem til parten.
 
-Det kan gis oppfriskning ved oversittelse av fristen etter annet ledd dersomdet fremlegges opplysninger om vesentlige faktiske forhold som var ukjent eller ikke var inntruffet da saken ble avgjort, og utlendingen bringer saken inn for domstolen så snart som mulig etter at opplysningene blir kjent, elleren bindende avgjørelse av en internasjonal domstol, eller andre lignende forhold, tilsier at vedtak kan ha vært basert på uriktig anvendelse av folkeretten.
+Det kan gis oppfriskning ved oversittelse av fristen etter annet ledd dersom
+
+1. det fremlegges opplysninger om vesentlige faktiske forhold som var ukjent eller ikke var inntruffet da saken ble avgjort, og utlendingen bringer saken inn for domstolen så snart som mulig etter at opplysningene blir kjent, eller
+2. en bindende avgjørelse av en internasjonal domstol, eller andre lignende forhold, tilsier at vedtak kan ha vært basert på uriktig anvendelse av folkeretten.
 
 > Tilføyd ved lov [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)).
 
@@ -2135,7 +2676,12 @@ Med utlending forstås i denne overenskomst enhver som ikke er statsborger i Nor
 
 Med nordisk stat forstås i denne overenskomst Norge (unntatt Svalbard og Jan Mayen), Danmark (unntatt Grønland og Færøyene), Finland og Sverige.
 
-Med nordisk yttergrense forstås i denne overenskomst:landegrense mellom nordisk stat og ikke-nordisk stat,flyplass i nordisk stat som har regelmessig flyforbindelse med ikke-nordisk stat,havn i nordisk stat som har regelmessig båt- eller fergeforbindelse med ikke-nordisk stat,havn og flyplass i nordisk stat som har ikke-regelmessig anløp av skip eller luftfartøy fra ikke-nordisk stat eller fra hvilken skip eller luftfartøy avgår til ikke-nordisk stat.
+Med nordisk yttergrense forstås i denne overenskomst:
+
+1. landegrense mellom nordisk stat og ikke-nordisk stat,
+2. flyplass i nordisk stat som har regelmessig flyforbindelse med ikke-nordisk stat,
+3. havn i nordisk stat som har regelmessig båt- eller fergeforbindelse med ikke-nordisk stat,
+4. havn og flyplass i nordisk stat som har ikke-regelmessig anløp av skip eller luftfartøy fra ikke-nordisk stat eller fra hvilken skip eller luftfartøy avgår til ikke-nordisk stat.
 
 ### Art 2
 
@@ -2143,7 +2689,10 @@ Hver av de kontraherende stater skal foreta passkontroll av innreisende ved sine
 
 En kontraherende stat avgjør i hvilken utstrekning passkontroll av utreisende skal finne sted ved dens nordiske yttergrenser.
 
-Hver av de kontraherende stater skal anvende kontrollkort (innreisekort) som hjelpemiddel ved innreisekontroll med:utlendinger som er viseringspliktige i noen av de kontraherende stater såfremt denne krever kontrollkort,utlendinger som av en kontraherende stat i forbindelse med beslutning om utvisning har meddelt forbud mot å vende tilbake dit uten særskilt tillatelse.
+Hver av de kontraherende stater skal anvende kontrollkort (innreisekort) som hjelpemiddel ved innreisekontroll med:
+
+1. utlendinger som er viseringspliktige i noen av de kontraherende stater såfremt denne krever kontrollkort,
+2. utlendinger som av en kontraherende stat i forbindelse med beslutning om utvisning har meddelt forbud mot å vende tilbake dit uten særskilt tillatelse.
 
 ### Art 3
 
@@ -2167,7 +2716,14 @@ Ved anvendelsen av reglene i annet ledd skal den oppholdsfrie tid regnes fra og 
 
 ### Art 6
 
-De kontraherende stater bør avvise ved sine yttergrenser enhver utlending:som ikke har gyldig pass eller annet legitimasjonspapir som av vedkommende myndigheter i de kontraherende stater er godtatt som pass,som mangler nødvendig innreise- eller arbeidstillatelse i innreisestaten eller i den eller de øvrige nordiske stater som utlendingen har til hensikt å besøke,som må antas ikke å ha tilstrekkelige midler til å oppholde seg i den eller de kontraherende stater hvor han akter å oppholde seg, samt for sin hjemreise,som må antas ikke å ville ernære seg på ærlig måte,som tidligere er dømt til frihetsstraff og som kan antas å ville komme til å begå straffbar handling i nordisk stat, eller som på grunn av sin tidligere virksomhet eller av andre grunner kan fryktes å ville drive sabotasje, spionasje eller ulovlig etterretningsvirksomhet i noen av de kontraherende stater,som er oppført i noen av de kontraherende staters fortegnelser over utviste utlendinger.
+De kontraherende stater bør avvise ved sine yttergrenser enhver utlending:
+
+1. som ikke har gyldig pass eller annet legitimasjonspapir som av vedkommende myndigheter i de kontraherende stater er godtatt som pass,
+2. som mangler nødvendig innreise- eller arbeidstillatelse i innreisestaten eller i den eller de øvrige nordiske stater som utlendingen har til hensikt å besøke,
+3. som må antas ikke å ha tilstrekkelige midler til å oppholde seg i den eller de kontraherende stater hvor han akter å oppholde seg, samt for sin hjemreise,
+4. som må antas ikke å ville ernære seg på ærlig måte,
+5. som tidligere er dømt til frihetsstraff og som kan antas å ville komme til å begå straffbar handling i nordisk stat, eller som på grunn av sin tidligere virksomhet eller av andre grunner kan fryktes å ville drive sabotasje, spionasje eller ulovlig etterretningsvirksomhet i noen av de kontraherende stater,
+6. som er oppført i noen av de kontraherende staters fortegnelser over utviste utlendinger.
 
 For øvrig kan enhver utlending avvises, som antas av andre grunner ikke bør gis tillatelse til å reise inn i en eller flere av de kortraherende stater.
 
@@ -2350,7 +2906,31 @@ Denne forordning fastsetter kriterier og ordninger for å avgjøre hvilken medle
 
 ### Art 2. Definisjoner
 
-I denne forordning menes med«tredjelandsborger» enhver person som ikke er unionsborger i henhold til artikkel 20 nr. 1 i TEUV, og som ikke er borger av en stat som deltar i denne forordning i henhold til en avtale med Den europeiske union,«søknad om internasjonal beskyttelse» en søknad om internasjonal beskyttelse som definert i artikkel 2 bokstav h) i direktiv [2011/95/EU](eu/32011l0095),«søker» en tredjelandsborger som har inngitt en søknad om internasjonal beskyttelse som ennå ikke er endelig avgjort,«behandling av en søknad om internasjonal beskyttelse» enhver behandling av eller ethvert vedtak eller enhver dom avsagt i forbindelse med en søknad om internasjonal beskyttelse i samsvar med direktiv [2013/32/EU](eu/32013l0032) og direktiv [2011/95/EU](eu/32011l0095) av de kompetente myndigheter i samsvar med nasjonal rett, med unntak av prosedyrene for å avgjøre hvilken medlemsstat som er ansvarlig etter denne forordning,«tilbaketrekking av en søknad om internasjonal beskyttelse» de handlinger hvorved søkeren uttrykkelig eller stilltiende avslutter prosedyrene som ble innledet med inngivelsen av vedkommendes søknad om internasjonal beskyttelse, i samsvar med direktiv [2013/32/EU](eu/32013l0032),«person med rett til internasjonal beskyttelse» en tredjelandsborger eller statsløs som har fått innvilget internasjonal beskyttelse som definert i artikkel 2 bokstav a) i direktiv [2011/95/EU](eu/32011l0095),«familiemedlemmer», forutsatt at familien allerede eksisterte i hjemlandet, følgende medlemmer av søkerens familie som oppholder seg på medlemsstatenes territorium:søkerens ektefelle eller ugifte partner i et stabilt forhold når den berørte medlemsstats lovgivning eller sedvane behandler ugifte par på tilsvarende måte som ektepar i henhold til statens utlendingslov,mindreårige barn av par nevnt i første strekpunkt eller av søkeren, forutsatt at de er ugifte og uten hensyn til om de er født i eller utenfor ekteskap eller etter nasjonal rett er adoptert,dersom søkeren er en ugift mindreårig, faren, moren eller en annen voksen som er ansvarlig for søkeren i henhold til lovgivning eller sedvane i medlemsstaten der den voksne oppholder seg,dersom personen med rett til internasjonal beskyttelse er en ugift mindreårig, faren, moren eller en annen voksen som er ansvarlig for ham eller henne i henhold til lovgivning eller sedvane i medlemsstaten der personen med rett til internasjonal beskyttelse oppholder seg,«slektning» søkerens voksne tante eller onkel eller besteforelder som oppholder seg på territoriet til en medlemsstat, uten hensyn til om søkeren er født i eller utenfor ekteskap eller etter nasjonal rett er adoptert,«mindreårig» en tredjelandsborger eller statsløs som er under 18 år,«enslig mindreårig» en mindreårig som ankommer medlemsstatenes territorium uten følge av en voksen person som er ansvarlig for ham eller henne i henhold til den berørte medlemsstats lovgivning eller sedvane, og så lenge han eller hun ikke faktisk tas hånd om av en slik person; uttrykket omfatter mindreårige som blir alene etter innreise på medlemsstatenes territorium,«representant» en person eller organisasjon som de kompetente myndigheter har utpekt til å bistå og representere en enslig mindreårig i forbindelse med prosedyrene fastsatt i denne forordning, med henblikk på å sikre barnets beste og utøve rettslige handleevne på vegne av den mindreårige når det er nødvendig. Når en organisasjon blir utpekt som representant, skal denne utpeke en person som er ansvarlig for å utføre organisasjonens plikter med hensyn til den mindreårige, i samsvar med denne forordning,«oppholdsdokument» enhver tillatelse utstedt av en medlemsstats myndigheter som gir en tredjelandsborger eller statsløs rett til å oppholde seg på dens territorium, herunder dokumenter som bekrefter retten til opphold på territoriet i henhold til midlertidige beskyttelsesordninger eller til det ikke lenger er noe til hinder for at et vedtak om uttransportering kan iverksettes, med unntak av visum og tillatelser til å oppholde seg i landet som er utstedt i løpet av det tidsrom som kreves for å avgjøre hvilken medlemsstat som er ansvarlig i henhold til denne forordning, eller under behandlingen av en søknad om internasjonal beskyttelse eller en søknad om oppholdstillatelse,«visum» tillatelse eller vedtak i en medlemsstat som kreves ved transitt eller innreise med henblikk på et planlagt opphold i vedkommende medlemsstat eller i flere medlemsstater. Typen visum bestemmes i samsvar med følgende definisjoner:med «visum for langtidsopphold» menes en tillatelse eller et vedtak i en medlemsstat som kreves i henhold til nasjonal lovgivning eller unionsretten ved innreise med henblikk på et planlagt opphold i vedkommende medlemsstat av mer enn tre måneders varighet,med «visum for korttidsopphold» menes en tillatelse eller et vedtak i en medlemsstat som kreves ved transitt gjennom eller et planlagt opphold i vedkommende medlemsstat eller i flere medlemsstater av en varighet på høyst tre måneder i en seksmånedersperiode som begynner på datoen for første gangs innreise på medlemsstatenes territorium,med «lufthavntransittvisum» menes et visum som er gyldig for transitt gjennom de internasjonale transittområdene på en eller flere lufthavner i medlemsstatene,«fare for unndragelse» tilstedeværelsen i en konkret sak av forhold som basert på objektive kriterier fastlagt ved lov, gir grunn til å tro at en søker eller en tredjelandsborger eller statsløs som er gjenstand for en prosedyre for overføring, kan komme til å unndra seg.
+I denne forordning menes med
+
+1. «tredjelandsborger» enhver person som ikke er unionsborger i henhold til artikkel 20 nr. 1 i TEUV, og som ikke er borger av en stat som deltar i denne forordning i henhold til en avtale med Den europeiske union,
+2. «søknad om internasjonal beskyttelse» en søknad om internasjonal beskyttelse som definert i artikkel 2 bokstav h) i direktiv [2011/95/EU](eu/32011l0095),
+3. «søker» en tredjelandsborger som har inngitt en søknad om internasjonal beskyttelse som ennå ikke er endelig avgjort,
+4. «behandling av en søknad om internasjonal beskyttelse» enhver behandling av eller ethvert vedtak eller enhver dom avsagt i forbindelse med en søknad om internasjonal beskyttelse i samsvar med direktiv [2013/32/EU](eu/32013l0032) og direktiv [2011/95/EU](eu/32011l0095) av de kompetente myndigheter i samsvar med nasjonal rett, med unntak av prosedyrene for å avgjøre hvilken medlemsstat som er ansvarlig etter denne forordning,
+5. «tilbaketrekking av en søknad om internasjonal beskyttelse» de handlinger hvorved søkeren uttrykkelig eller stilltiende avslutter prosedyrene som ble innledet med inngivelsen av vedkommendes søknad om internasjonal beskyttelse, i samsvar med direktiv [2013/32/EU](eu/32013l0032),
+6. «person med rett til internasjonal beskyttelse» en tredjelandsborger eller statsløs som har fått innvilget internasjonal beskyttelse som definert i artikkel 2 bokstav a) i direktiv [2011/95/EU](eu/32011l0095),
+7. «familiemedlemmer», forutsatt at familien allerede eksisterte i hjemlandet, følgende medlemmer av søkerens familie som oppholder seg på medlemsstatenes territorium:
+
+   - søkerens ektefelle eller ugifte partner i et stabilt forhold når den berørte medlemsstats lovgivning eller sedvane behandler ugifte par på tilsvarende måte som ektepar i henhold til statens utlendingslov,
+   - mindreårige barn av par nevnt i første strekpunkt eller av søkeren, forutsatt at de er ugifte og uten hensyn til om de er født i eller utenfor ekteskap eller etter nasjonal rett er adoptert,
+   - dersom søkeren er en ugift mindreårig, faren, moren eller en annen voksen som er ansvarlig for søkeren i henhold til lovgivning eller sedvane i medlemsstaten der den voksne oppholder seg,
+   - dersom personen med rett til internasjonal beskyttelse er en ugift mindreårig, faren, moren eller en annen voksen som er ansvarlig for ham eller henne i henhold til lovgivning eller sedvane i medlemsstaten der personen med rett til internasjonal beskyttelse oppholder seg,
+8. «slektning» søkerens voksne tante eller onkel eller besteforelder som oppholder seg på territoriet til en medlemsstat, uten hensyn til om søkeren er født i eller utenfor ekteskap eller etter nasjonal rett er adoptert,
+9. «mindreårig» en tredjelandsborger eller statsløs som er under 18 år,
+10. «enslig mindreårig» en mindreårig som ankommer medlemsstatenes territorium uten følge av en voksen person som er ansvarlig for ham eller henne i henhold til den berørte medlemsstats lovgivning eller sedvane, og så lenge han eller hun ikke faktisk tas hånd om av en slik person; uttrykket omfatter mindreårige som blir alene etter innreise på medlemsstatenes territorium,
+11. «representant» en person eller organisasjon som de kompetente myndigheter har utpekt til å bistå og representere en enslig mindreårig i forbindelse med prosedyrene fastsatt i denne forordning, med henblikk på å sikre barnets beste og utøve rettslige handleevne på vegne av den mindreårige når det er nødvendig. Når en organisasjon blir utpekt som representant, skal denne utpeke en person som er ansvarlig for å utføre organisasjonens plikter med hensyn til den mindreårige, i samsvar med denne forordning,
+12. «oppholdsdokument» enhver tillatelse utstedt av en medlemsstats myndigheter som gir en tredjelandsborger eller statsløs rett til å oppholde seg på dens territorium, herunder dokumenter som bekrefter retten til opphold på territoriet i henhold til midlertidige beskyttelsesordninger eller til det ikke lenger er noe til hinder for at et vedtak om uttransportering kan iverksettes, med unntak av visum og tillatelser til å oppholde seg i landet som er utstedt i løpet av det tidsrom som kreves for å avgjøre hvilken medlemsstat som er ansvarlig i henhold til denne forordning, eller under behandlingen av en søknad om internasjonal beskyttelse eller en søknad om oppholdstillatelse,
+13. «visum» tillatelse eller vedtak i en medlemsstat som kreves ved transitt eller innreise med henblikk på et planlagt opphold i vedkommende medlemsstat eller i flere medlemsstater. Typen visum bestemmes i samsvar med følgende definisjoner:
+
+    - med «visum for langtidsopphold» menes en tillatelse eller et vedtak i en medlemsstat som kreves i henhold til nasjonal lovgivning eller unionsretten ved innreise med henblikk på et planlagt opphold i vedkommende medlemsstat av mer enn tre måneders varighet,
+    - med «visum for korttidsopphold» menes en tillatelse eller et vedtak i en medlemsstat som kreves ved transitt gjennom eller et planlagt opphold i vedkommende medlemsstat eller i flere medlemsstater av en varighet på høyst tre måneder i en seksmånedersperiode som begynner på datoen for første gangs innreise på medlemsstatenes territorium,
+    - med «lufthavntransittvisum» menes et visum som er gyldig for transitt gjennom de internasjonale transittområdene på en eller flere lufthavner i medlemsstatene,
+14. «fare for unndragelse» tilstedeværelsen i en konkret sak av forhold som basert på objektive kriterier fastlagt ved lov, gir grunn til å tro at en søker eller en tredjelandsborger eller statsløs som er gjenstand for en prosedyre for overføring, kan komme til å unndra seg.
 
 ### Kapittel II. Allmenne prinsipper og garantier
 
@@ -2358,27 +2938,49 @@ I denne forordning menes med«tredjelandsborger» enhver person som ikke er unio
 
 1\. Medlemsstatene skal behandle enhver søknad om internasjonal beskyttelse1 som inngis av en tredjelandsborger2 eller statsløs på territoriet til en av dem, herunder ved grensen eller i transittområder. Søknaden skal behandles av en enkelt medlemsstat, som skal være den medlemsstat som etter kriteriene fastsatt i [kapittel III](lov/2008-05-15-35/kapiii) er ansvarlig.
 
-2\. Når det ikke er mulig å utpeke noen ansvarlig medlemsstat på grunnlag av kriteriene fastsatt i denne forordning, skal den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, være ansvarlig for å behandle den.Når det ikke er mulig å overføre en søker3 til den medlemsstat som opprinnelig ble utpekt som ansvarlig, fordi det er vesentlige grunner til å tro at det finnes systemfeil ved asylprosedyren og mottaksforholdene for søkere i nevnte medlemsstat som medfører en risiko for umenneskelig eller nedverdigende behandling som definert i artikkel 4 i Den europeiske unions pakt om grunnleggende rettigheter, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, fortsette med å undersøke kriteriene i [kapittel III](lov/2008-05-15-35/kapiii) for å fastslå om en annen medlemsstat kan utpekes som ansvarlig.Dersom overføringen ikke kan foretas i henhold til dette nummer til noen medlemsstat utpekt på grunnlag av kriteriene i [kapittel III](lov/2008-05-15-35/kapiii), eller til den medlemsstat der søknaden først ble inngitt, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, bli den ansvarlige medlemsstat.
+2\. Når det ikke er mulig å utpeke noen ansvarlig medlemsstat på grunnlag av kriteriene fastsatt i denne forordning, skal den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, være ansvarlig for å behandle den.
+
+Når det ikke er mulig å overføre en søker3 til den medlemsstat som opprinnelig ble utpekt som ansvarlig, fordi det er vesentlige grunner til å tro at det finnes systemfeil ved asylprosedyren og mottaksforholdene for søkere i nevnte medlemsstat som medfører en risiko for umenneskelig eller nedverdigende behandling som definert i artikkel 4 i Den europeiske unions pakt om grunnleggende rettigheter, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, fortsette med å undersøke kriteriene i [kapittel III](lov/2008-05-15-35/kapiii) for å fastslå om en annen medlemsstat kan utpekes som ansvarlig.
+
+Dersom overføringen ikke kan foretas i henhold til dette nummer til noen medlemsstat utpekt på grunnlag av kriteriene i [kapittel III](lov/2008-05-15-35/kapiii), eller til den medlemsstat der søknaden først ble inngitt, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, bli den ansvarlige medlemsstat.
 
 3\. Enhver medlemsstat skal beholde retten til å sende en søker til et trygt tredjeland, med forbehold for reglene og garantiene fastsatt i direktiv [2013/32/EU](eu/32013l0032).
 
-1 Se art 2, d.2 Se art 2, a.3 Se art 2, c.
+1 Se art 2, d.
+
+2 Se art 2, a.
+
+3 Se art 2, c.
 
 ### Art 4. Rett til informasjon
 
-1\. Så snart en søknad om internasjonal beskyttelse1 er inngitt i en medlemsstat i henhold til artikkel 20 nr. 2, skal de kompetente myndigheter i medlemsstaten underrette søkeren2 om anvendelsen av denne forordning, og særlig omformålene med denne forordning og konsekvensene av å inngi en ny søknad i en annen medlemsstat samt konsekvensene av å flytte fra en medlemsstat til en annen mens vurderingen av hvilken medlemsstat som er ansvarlig i henhold til denne forordning pågår og søknaden om internasjonal beskyttelse behandles,kriteriene for å avgjøre hvilken medlemsstat som er ansvarlig, hierarkiet mellom kriteriene i de ulike trinnene i prosedyren og deres varighet, samt det faktum at når en søknad om internasjonal beskyttelse inngis i en medlemsstat, kan dette medføre at denne medlemsstat blir ansvarlig i henhold til denne forordning, selv når et slikt ansvar ikke følger av nevnte kriterier,det personlige intervjuet nevnt i artikkel 5, og muligheten til å gi opplysninger om at familiemedlemmer, slektninger eller andre nærstående oppholder seg i medlemsstatene, herunder på hvilken måte søkeren kan gi slike opplysninger,muligheten til å påklage et vedtak om overføring og, der det er relevant, anmode om utsettelse av overføringen,det faktum at de kompetente myndigheter i medlemsstatene kan utveksle opplysninger om ham eller henne utelukkende med henblikk på å oppfylle sine forpliktelser i henhold til denne forordning,at han eller hun har rett til å få innsyn i opplysninger om seg selv og kreve at slike opplysninger rettes hvis de er uriktige og slettes hvis de er ulovlig behandlet, samt prosedyrene for utøvelse av disse rettighetene, herunder kontaktopplysninger til myndighetene nevnt i artikkel 35, og til den nasjonale personvernmyndighet som har ansvar for å behandle klager som gjelder vern av personopplysninger.
+1\. Så snart en søknad om internasjonal beskyttelse1 er inngitt i en medlemsstat i henhold til artikkel 20 nr. 2, skal de kompetente myndigheter i medlemsstaten underrette søkeren2 om anvendelsen av denne forordning, og særlig om
 
-2\. Informasjonen nevnt i nr. 1 skal gis skriftlig på et språk som søkeren forstår eller som det med rimelighet kan forventes at han eller hun forstår. For dette formål skal medlemsstatene benytte den felles brosjyren som er utarbeidet i henhold til nr. 3.Når det er nødvendig for å sikre at søkeren forstår opplysningene korrekt, skal de også gis muntlig, for eksempel under det personlige intervjuet som nevnt i artikkel 5.
+1. formålene med denne forordning og konsekvensene av å inngi en ny søknad i en annen medlemsstat samt konsekvensene av å flytte fra en medlemsstat til en annen mens vurderingen av hvilken medlemsstat som er ansvarlig i henhold til denne forordning pågår og søknaden om internasjonal beskyttelse behandles,
+2. kriteriene for å avgjøre hvilken medlemsstat som er ansvarlig, hierarkiet mellom kriteriene i de ulike trinnene i prosedyren og deres varighet, samt det faktum at når en søknad om internasjonal beskyttelse inngis i en medlemsstat, kan dette medføre at denne medlemsstat blir ansvarlig i henhold til denne forordning, selv når et slikt ansvar ikke følger av nevnte kriterier,
+3. det personlige intervjuet nevnt i artikkel 5, og muligheten til å gi opplysninger om at familiemedlemmer, slektninger eller andre nærstående oppholder seg i medlemsstatene, herunder på hvilken måte søkeren kan gi slike opplysninger,
+4. muligheten til å påklage et vedtak om overføring og, der det er relevant, anmode om utsettelse av overføringen,
+5. det faktum at de kompetente myndigheter i medlemsstatene kan utveksle opplysninger om ham eller henne utelukkende med henblikk på å oppfylle sine forpliktelser i henhold til denne forordning,
+6. at han eller hun har rett til å få innsyn i opplysninger om seg selv og kreve at slike opplysninger rettes hvis de er uriktige og slettes hvis de er ulovlig behandlet, samt prosedyrene for utøvelse av disse rettighetene, herunder kontaktopplysninger til myndighetene nevnt i artikkel 35, og til den nasjonale personvernmyndighet som har ansvar for å behandle klager som gjelder vern av personopplysninger.
+
+2\. Informasjonen nevnt i nr. 1 skal gis skriftlig på et språk som søkeren forstår eller som det med rimelighet kan forventes at han eller hun forstår. For dette formål skal medlemsstatene benytte den felles brosjyren som er utarbeidet i henhold til nr. 3.
+
+Når det er nødvendig for å sikre at søkeren forstår opplysningene korrekt, skal de også gis muntlig, for eksempel under det personlige intervjuet som nevnt i artikkel 5.
 
 3\. Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide en felles brosjyre samt en særskilt brosjyre for enslige mindreårige, som minst skal inneholde informasjonen omhandlet i nr. 1. Denne felles brosjyren skal også inneholde opplysninger vedrørende anvendelsen av forordning [(EU) nr. 603/2013](eu/32013r0603) og særlig for hvilket formål en søkers opplysninger kan behandles i Eurodac. Den felles brosjyren skal utarbeides på en slik måte at det er mulig for medlemsstatene å supplere den med ytterligere opplysninger som er spesifikke for den enkelte medlemsstat. Gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2 i denne forordning.
 
-1 Se art 2, d.2 Se art 2, c.
+1 Se art 2, d.
+
+2 Se art 2, c.
 
 ### Art 5. Personlig intervju
 
 1\. For å gjøre det lettere å avgjøre hvilken medlemsstat som er ansvarlig, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, gjennomføre et personlig intervju med søkeren.1 Intervjuet skal også sikre at informasjonen som gis til søkeren i samsvar med artikkel 4, blir korrekt forstått.
 
-2\. Det er ikke nødvendig å gjennomføre det personlige intervjuet dersomsøkeren har unndratt seg, ellersøkeren etter å ha mottatt informasjonen nevnt i artikkel 4 allerede på annen måte har gitt de opplysninger som er relevante for å avgjøre hvilken medlemsstat som er ansvarlig. En medlemsstat som unnlater å gjennomføre intervjuet, skal gi søkeren mulighet til å legge fram alle ytterligere opplysninger som er relevante for å treffe en korrekt beslutning med hensyn til hvilken medlemsstat som er ansvarlig, før det gjøres vedtak om å overføre søkeren til den ansvarlige medlemsstat i henhold til artikkel 26 nr. 1.
+2\. Det er ikke nødvendig å gjennomføre det personlige intervjuet dersom
+
+1. søkeren har unndratt seg, eller
+2. søkeren etter å ha mottatt informasjonen nevnt i artikkel 4 allerede på annen måte har gitt de opplysninger som er relevante for å avgjøre hvilken medlemsstat som er ansvarlig. En medlemsstat som unnlater å gjennomføre intervjuet, skal gi søkeren mulighet til å legge fram alle ytterligere opplysninger som er relevante for å treffe en korrekt beslutning med hensyn til hvilken medlemsstat som er ansvarlig, før det gjøres vedtak om å overføre søkeren til den ansvarlige medlemsstat i henhold til artikkel 26 nr. 1.
 
 3\. Det personlige intervjuet skal gjennomføres innen rimelig tid og under alle omstendigheter før det gjøres vedtak om å overføre søkeren til den ansvarlige medlemsstat i henhold til artikkel 26 nr. 1.
 
@@ -2394,15 +2996,32 @@ I denne forordning menes med«tredjelandsborger» enhver person som ikke er unio
 
 1\. Barnets beste skal være et grunnleggende hensyn for medlemsstatene i alle prosedyrer som er fastsatt i denne forordning.
 
-2\. Medlemsstatene skal sikre at en representant representerer og/eller bistår en enslig mindreårig1 i forbindelse med alle prosedyrer som er fastsatt i denne forordning. Representantene skal ha de kvalifikasjoner og den sakkunnskap som er nødvendig for å sikre at det blir tatt hensyn til den mindreåriges beste under de prosedyrer som gjennomføres i henhold til denne forordning. En slik representant skal ha tilgang til innholdet i de relevante dokumenter i søkerens saksmappe, herunder den særskilte brosjyren for enslige mindreårige.Dette nummer skal ikke berøre de relevante bestemmelsene i artikkel 25 i direktiv [2013/32/EU](eu/32013l0032).
+2\. Medlemsstatene skal sikre at en representant representerer og/eller bistår en enslig mindreårig1 i forbindelse med alle prosedyrer som er fastsatt i denne forordning. Representantene skal ha de kvalifikasjoner og den sakkunnskap som er nødvendig for å sikre at det blir tatt hensyn til den mindreåriges beste under de prosedyrer som gjennomføres i henhold til denne forordning. En slik representant skal ha tilgang til innholdet i de relevante dokumenter i søkerens saksmappe, herunder den særskilte brosjyren for enslige mindreårige.
 
-3\. I vurderingen av barnets beste skal medlemsstatene samarbeide tett med hverandre og skal særlig ta behørig hensyn til følgende faktorer:mulighetene for familiegjenforening,den mindreåriges trivsel og sosiale utvikling,sikkerhetshensyn, særlig dersom det er en risiko for at barnet er offer for menneskehandel,den mindreåriges egen mening avhengig av vedkommendes alder og modenhet.
+Dette nummer skal ikke berøre de relevante bestemmelsene i artikkel 25 i direktiv [2013/32/EU](eu/32013l0032).
 
-4\. Ved anvendelse av artikkel 8 skal den medlemsstat der den enslige mindreårige har inngitt en søknad om internasjonal beskyttelse,2 raskest mulig iverksette hensiktsmessige tiltak for å identifisere den enslige mindreåriges familiemedlemmer,3 søsken eller slektninger4 på medlemsstatenes territorium, samtidig som den ivaretar barnets beste.Med henblikk på dette kan den berørte medlemsstat søke bistand fra internasjonale eller andre relevante organisasjoner og legge til rette for at den mindreårige kan få adgang til disse organisasjonenes sporingstjenester.Personalet hos de kompetente myndigheter som er nevnt i artikkel 35, og som behandler anmodninger som gjelder enslige mindreårige, skal ha fått og fortsette å få hensiktsmessig opplæring om mindreåriges særlige behov.
+3\. I vurderingen av barnets beste skal medlemsstatene samarbeide tett med hverandre og skal særlig ta behørig hensyn til følgende faktorer:
+
+1. mulighetene for familiegjenforening,
+2. den mindreåriges trivsel og sosiale utvikling,
+3. sikkerhetshensyn, særlig dersom det er en risiko for at barnet er offer for menneskehandel,
+4. den mindreåriges egen mening avhengig av vedkommendes alder og modenhet.
+
+4\. Ved anvendelse av artikkel 8 skal den medlemsstat der den enslige mindreårige har inngitt en søknad om internasjonal beskyttelse,2 raskest mulig iverksette hensiktsmessige tiltak for å identifisere den enslige mindreåriges familiemedlemmer,3 søsken eller slektninger4 på medlemsstatenes territorium, samtidig som den ivaretar barnets beste.
+
+Med henblikk på dette kan den berørte medlemsstat søke bistand fra internasjonale eller andre relevante organisasjoner og legge til rette for at den mindreårige kan få adgang til disse organisasjonenes sporingstjenester.
+
+Personalet hos de kompetente myndigheter som er nevnt i artikkel 35, og som behandler anmodninger som gjelder enslige mindreårige, skal ha fått og fortsette å få hensiktsmessig opplæring om mindreåriges særlige behov.
 
 5\. For å gjøre det lettere å iverksette hensiktsmessige tiltak for å identifisere den enslige mindreåriges familiemedlemmer, søsken eller slektninger som oppholder seg på en annen medlemsstats territorium, i samsvar med nr. 4, skal Kommisjonen vedta gjennomføringsrettsakter, herunder et standardskjema for utveksling av relevante opplysninger mellom medlemsstatene. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
-1 Se art 2, j.2 Se art 2, d.3 Se art 2, g.4 Se art 2, h.
+1 Se art 2, j.
+
+2 Se art 2, d.
+
+3 Se art 2, g.
+
+4 Se art 2, h.
 
 ### Kapittel III. Kriterier for å avgjøre hvilken medlemsstat som er ansvarlig
 
@@ -2414,7 +3033,9 @@ I denne forordning menes med«tredjelandsborger» enhver person som ikke er unio
 
 3\. Ved anvendelsen av kriteriene i artikkel 8, 10 og 16 skal medlemsstatene ta hensyn til alle tilgjengelige beviser vedrørende tilstedeværelsen av familiemedlemmer,1 slektninger2 eller andre nærstående på en medlemsstats territorium, forutsatt at slike beviser legges fram før en annen medlemsstat har akseptert anmodningen om å overta eller ta tilbake ansvaret for vedkommende, i henhold til henholdsvis artikkel 22 og 25, og forutsatt at det ennå ikke er truffet en første realitetsavgjørelse om søkerens tidligere søknader om internasjonal beskyttelse.
 
-1 Se art 2, g.2 Se art 2, h.
+1 Se art 2, g.
+
+2 Se art 2, h.
 
 ### Art 8. Mindreårige
 
@@ -2430,13 +3051,21 @@ I denne forordning menes med«tredjelandsborger» enhver person som ikke er unio
 
 6\. Kommisjonen skal gjennom gjennomføringsrettsakter fastsette ensartede vilkår for samråd og utveksling av opplysninger mellom medlemsstatene. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
-1 Se art 2, c.2 Se art 2, j.3 Se art 2, g.4 Se art 2, h.
+1 Se art 2, c.
+
+2 Se art 2, j.
+
+3 Se art 2, g.
+
+4 Se art 2, h.
 
 ### Art 9. Familiemedlemmer med rett til internasjonal beskyttelse
 
 Når søkeren,1 uavhengig av om familien opprinnelig var stiftet i hjemlandet, har et familiemedlem2 som i egenskap av å være en person med rett til internasjonal beskyttelse har fått tillatelse til å oppholde seg i en medlemsstat, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, forutsatt at de berørte personer skriftlig har uttrykt ønske om dette.
 
-1 Se art 2, c.2 Se art 2, g.
+1 Se art 2, c.
+
+2 Se art 2, g.
 
 ### Art 10. Familiemedlemmer som har søkt om internasjonal beskyttelse
 
@@ -2444,9 +3073,14 @@ Dersom søkeren har et familiemedlem i en medlemsstat og det ennå ikke er truff
 
 ### Art 11. Familieprosedyre
 
-Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir søknader om internasjonal beskyttelse i samme medlemsstat samtidig eller på datoer som er tilstrekkelig nær i tid til at det kan gjennomføres en felles prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, og dersom anvendelsen av kriteriene i denne forordning ville føre til at de ble skilt fra hverandre, skal avgjørelsen om hvilken medlemsstat som er ansvarlig, treffes på grunnlag av følgende bestemmelser:Ansvaret for behandlingen av søknadene om internasjonal beskyttelse1 til samtlige familiemedlemmer2 og/eller mindreårige ugifte søsken skal påhvile den medlemsstat som etter kriteriene er ansvarlig for det største antallet av dem.Dersom denne løsningen ikke er mulig, skal ansvaret påhvile den medlemsstat som etter kriteriene er ansvarlig for behandlingen av søknaden til den eldste av dem.
+Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir søknader om internasjonal beskyttelse i samme medlemsstat samtidig eller på datoer som er tilstrekkelig nær i tid til at det kan gjennomføres en felles prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, og dersom anvendelsen av kriteriene i denne forordning ville føre til at de ble skilt fra hverandre, skal avgjørelsen om hvilken medlemsstat som er ansvarlig, treffes på grunnlag av følgende bestemmelser:
 
-1 Se art 2, d.2 Se art 2, g.
+1. Ansvaret for behandlingen av søknadene om internasjonal beskyttelse1 til samtlige familiemedlemmer2 og/eller mindreårige ugifte søsken skal påhvile den medlemsstat som etter kriteriene er ansvarlig for det største antallet av dem.
+2. Dersom denne løsningen ikke er mulig, skal ansvaret påhvile den medlemsstat som etter kriteriene er ansvarlig for behandlingen av søknaden til den eldste av dem.
+
+1 Se art 2, d.
+
+2 Se art 2, g.
 
 ### Art 12. Utstedelse av oppholdsdokumenter eller visum
 
@@ -2454,19 +3088,35 @@ Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir
 
 2\. Når søkeren er i besittelse av et gyldig visum,4 skal den medlemsstat som har utstedt visumet, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, med mindre visumet ble utstedt på vegne av en annen medlemsstat i henhold til en representasjonsavtale som nevnt i artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 810/2009](eu/32009r0810*) om innføring av fellesskapsregler for visum.5 I så tilfelle skal sistnevnte medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
-3\. Når søkeren er i besittelse av flere gyldige oppholdsdokumenter eller visa som er utstedt av forskjellige medlemsstater, er medlemsstatene i følgende rekkefølge ansvarlige for behandlingen av søknaden om internasjonal beskyttelse:den medlemsstat som har utstedt oppholdsdokumentet som gir rett til lengst opphold, eller den medlemsstat som har utstedt oppholdsdokumentet som utløper senest, når varigheten er den samme,den medlemsstat som har utstedt det visum som utløper senest, når det dreier seg om visa av samme type,den medlemsstat som har utstedt visumet med lengst varighet, når visaene er av forskjellig type, eller den medlemsstat som har utstedt det visum som utløper senest, når varigheten er den samme.
+3\. Når søkeren er i besittelse av flere gyldige oppholdsdokumenter eller visa som er utstedt av forskjellige medlemsstater, er medlemsstatene i følgende rekkefølge ansvarlige for behandlingen av søknaden om internasjonal beskyttelse:
 
-4\. Når søkeren er i besittelse bare av et eller flere oppholdsdokumenter som utløp for mindre enn to år siden, eller et eller flere visa som utløp for mindre enn seks måneder siden, og som faktisk har gjort ham eller henne i stand til å reise inn på en medlemsstats territorium, får nr. 1, 2 og 3 anvendelse så lenge søkeren ikke har forlatt medlemsstatenes territorium.Når søkeren er i besittelse av et eller flere oppholdsdokumenter som utløp for mer enn to år siden, eller et eller flere visa som utløp for mer enn seks måneder siden, og som faktisk har gjort ham eller henne i stand til å reise inn på en medlemsstats territorium, og vedkommende ikke har forlatt medlemsstatenes territorium, skal den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt, være ansvarlig.
+1. den medlemsstat som har utstedt oppholdsdokumentet som gir rett til lengst opphold, eller den medlemsstat som har utstedt oppholdsdokumentet som utløper senest, når varigheten er den samme,
+2. den medlemsstat som har utstedt det visum som utløper senest, når det dreier seg om visa av samme type,
+3. den medlemsstat som har utstedt visumet med lengst varighet, når visaene er av forskjellig type, eller den medlemsstat som har utstedt det visum som utløper senest, når varigheten er den samme.
+
+4\. Når søkeren er i besittelse bare av et eller flere oppholdsdokumenter som utløp for mindre enn to år siden, eller et eller flere visa som utløp for mindre enn seks måneder siden, og som faktisk har gjort ham eller henne i stand til å reise inn på en medlemsstats territorium, får nr. 1, 2 og 3 anvendelse så lenge søkeren ikke har forlatt medlemsstatenes territorium.
+
+Når søkeren er i besittelse av et eller flere oppholdsdokumenter som utløp for mer enn to år siden, eller et eller flere visa som utløp for mer enn seks måneder siden, og som faktisk har gjort ham eller henne i stand til å reise inn på en medlemsstats territorium, og vedkommende ikke har forlatt medlemsstatenes territorium, skal den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt, være ansvarlig.
 
 5\. Det forhold at oppholdsdokumentet eller visumet ble utstedt på grunnlag av en falsk eller påtatt identitet eller etter framlegging av forfalskede, falske eller ugyldige dokumenter, skal ikke være til hinder for at ansvaret legges til den medlemsstat som har utstedt oppholdsdokumentet eller visumet. Den medlemsstat som har utstedt oppholdsdokumentet eller visumet, skal imidlertid ikke være ansvarlig dersom den kan godtgjøre at det ble begått bedrageri etter at dokumentet eller visumet var utstedt.
 
-1 Se art 2, c.2 Se art 2, l.3 Se art 2, d.4 Se art 2, m.5 EUT L 243 av 15.9.2009, s. 1.
+1 Se art 2, c.
+
+2 Se art 2, l.
+
+3 Se art 2, d.
+
+4 Se art 2, m.
+
+5 EUT L 243 av 15.9.2009, s. 1.
 
 ### Art 13. Innreise og/eller opphold
 
 1\. Når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 i denne forordning, herunder opplysningene nevnt i forordning [(EF) nr. 603/2013](eu/32013r0603), er fastslått at en søker1 ulovlig har krysset grensen land-, sjø- eller luftveien fra et tredjeland til en medlemsstat, skal den medlemsstat der innreisen fant sted, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse. Dette ansvar skal opphøre tolv måneder etter den dato da den ulovlige grensepasseringen fant sted.
 
-2\. Når en medlemsstat ikke kan eller ikke lenger kan holdes ansvarlig i henhold til nr. 1, og når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3, er fastslått at en søker som har reist ulovlig inn på medlemsstatenes territorium, eller der omstendighetene rundt søkerens innreise ikke kan fastslås, allerede har oppholdt seg i en medlemsstat sammenhengende i minst fem måneder før søknaden om internasjonal beskyttelse ble inngitt, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.Dersom søkeren har oppholdt seg i tidsrom på minst fem måneder i flere medlemsstater, skal den medlemsstat der dette senest har funnet sted, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
+2\. Når en medlemsstat ikke kan eller ikke lenger kan holdes ansvarlig i henhold til nr. 1, og når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3, er fastslått at en søker som har reist ulovlig inn på medlemsstatenes territorium, eller der omstendighetene rundt søkerens innreise ikke kan fastslås, allerede har oppholdt seg i en medlemsstat sammenhengende i minst fem måneder før søknaden om internasjonal beskyttelse ble inngitt, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
+
+Dersom søkeren har oppholdt seg i tidsrom på minst fem måneder i flere medlemsstater, skal den medlemsstat der dette senest har funnet sted, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
 1 Se art 2, c.
 
@@ -2476,7 +3126,9 @@ Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir
 
 2\. Prinsippet i nr. 1 skal ikke få anvendelse dersom tredjelandsborgeren eller den statsløse inngir sin søknad om internasjonal beskyttelse i en annen medlemsstat der han eller hun også er fritatt for visumplikt ved innreise. I så tilfelle skal sistnevnte medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
-1 Se art 2, a.2 Se art 2, d.
+1 Se art 2, a.
+
+2 Se art 2, d.
 
 ### Art 15. Inngivelse av søknad i et internasjonalt transittområde i en lufthavn
 
@@ -2500,9 +3152,19 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 17. Skjønnsbestemmelser
 
-1\. Som unntak fra artikkel 3 nr. 1 kan enhver medlemsstat velge å behandle en søknad om internasjonal beskyttelse1 som er inngitt til den av en tredjelandsborger eller statsløs, selv om slik behandling ikke er dens ansvar i henhold til kriteriene som er fastsatt i denne forordning.Den medlemsstat som velger å behandle en søknad om internasjonal beskyttelse i henhold til dette nummer, skal bli den ansvarlige medlemsstat og skal påta seg forpliktelsene som er forbundet med dette ansvar. Om relevant skal den, ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560), underrette den medlemsstat som tidligere var ansvarlig, den medlemsstat som gjennomfører en prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, eller den medlemsstat som har mottatt en anmodning om å overta eller ta tilbake ansvaret for søkeren.Den medlemsstat som blir ansvarlig i henhold til dette nummer, skal umiddelbart angi dette i Eurodac i samsvar med forordning [(EU) nr. 603/2013](eu/32013r0603) ved å legge inn datoen da beslutningen om å behandle søknaden ble truffet.
+1\. Som unntak fra artikkel 3 nr. 1 kan enhver medlemsstat velge å behandle en søknad om internasjonal beskyttelse1 som er inngitt til den av en tredjelandsborger eller statsløs, selv om slik behandling ikke er dens ansvar i henhold til kriteriene som er fastsatt i denne forordning.
 
-2\. Den medlemsstat der en søknad om internasjonal beskyttelse er inngitt, og som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, kan når som helst før det er truffet en første realitetsavgjørelse, anmode en annen medlemsstat om å overta ansvaret for en søker med henblikk på å føre nærstående sammen av humanitære grunner, særlig ut fra familiemessige eller kulturelle hensyn, selv om denne andre medlemsstat ikke er ansvarlig for behandlingen i henhold til kriteriene fastsatt i artikkel 8-11 og 16. De berørte personer må gi sitt skriftlige samtykke.Anmodningen om overtakelse skal inneholde alle opplysninger den anmodende medlemsstat har i sin besittelse, for å gjøre det mulig for den anmodede medlemsstat å vurdere situasjonen.Den anmodede medlemsstat skal foreta de nødvendige kontroller for å undersøke de anførte humanitære årsaker, og skal svare den anmodende medlemsstat senest to måneder etter mottak av anmodningen ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560). Dersom svaret på anmodningen er et avslag, skal avslaget begrunnes.Dersom den anmodede medlemsstat etterkommer anmodningen, skal ansvaret for behandlingen av søknaden overføres til denne staten.
+Den medlemsstat som velger å behandle en søknad om internasjonal beskyttelse i henhold til dette nummer, skal bli den ansvarlige medlemsstat og skal påta seg forpliktelsene som er forbundet med dette ansvar. Om relevant skal den, ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560), underrette den medlemsstat som tidligere var ansvarlig, den medlemsstat som gjennomfører en prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, eller den medlemsstat som har mottatt en anmodning om å overta eller ta tilbake ansvaret for søkeren.
+
+Den medlemsstat som blir ansvarlig i henhold til dette nummer, skal umiddelbart angi dette i Eurodac i samsvar med forordning [(EU) nr. 603/2013](eu/32013r0603) ved å legge inn datoen da beslutningen om å behandle søknaden ble truffet.
+
+2\. Den medlemsstat der en søknad om internasjonal beskyttelse er inngitt, og som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, kan når som helst før det er truffet en første realitetsavgjørelse, anmode en annen medlemsstat om å overta ansvaret for en søker med henblikk på å føre nærstående sammen av humanitære grunner, særlig ut fra familiemessige eller kulturelle hensyn, selv om denne andre medlemsstat ikke er ansvarlig for behandlingen i henhold til kriteriene fastsatt i artikkel 8-11 og 16. De berørte personer må gi sitt skriftlige samtykke.
+
+Anmodningen om overtakelse skal inneholde alle opplysninger den anmodende medlemsstat har i sin besittelse, for å gjøre det mulig for den anmodede medlemsstat å vurdere situasjonen.
+
+Den anmodede medlemsstat skal foreta de nødvendige kontroller for å undersøke de anførte humanitære årsaker, og skal svare den anmodende medlemsstat senest to måneder etter mottak av anmodningen ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560). Dersom svaret på anmodningen er et avslag, skal avslaget begrunnes.
+
+Dersom den anmodede medlemsstat etterkommer anmodningen, skal ansvaret for behandlingen av søknaden overføres til denne staten.
 
 1 Se art 2, d.
 
@@ -2510,19 +3172,34 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 18. Den ansvarlige medlemsstats forpliktelser
 
-1\. Den medlemsstat som er ansvarlig i henhold til denne forordning, skal være forpliktet til åoverta, på vilkårene fastsatt i artikkel 21, 22 og 29, ansvaret for en søker som har inngitt en søknad i en annen medlemsstat,ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en søker hvis søknad er under behandling, og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger1 eller statsløs som har trukket tilbake2 søknaden som er under behandling og inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger eller statsløs som har fått avslag på sin søknad og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument.
+1\. Den medlemsstat som er ansvarlig i henhold til denne forordning, skal være forpliktet til å
 
-2\. I tilfellene som faller inn under virkeområdet til nr. 1 bokstav a) og b), skal den ansvarlige medlemsstat behandle eller fullføre behandlingen av søknaden om internasjonal beskyttelse som søkeren har inngitt.Når den ansvarlige medlemsstat har innstilt behandlingen av en søknad etter at søkeren har trukket den tilbake før det er truffet en realitetsavgjørelse i første instans, skal denne medlemsstat i tilfellene som faller inn under virkeområdet til nr. 1 bokstav c), sikre at søkeren har rett til å anmode om at behandlingen av vedkommendes søknad fullføres, eller til å inngi en ny søknad om internasjonal beskyttelse, som ikke skal behandles som en etterfølgende søknad i henhold til direktiv [2013/32/EU](eu/32013l0032). I slike tilfeller skal medlemsstatene sikre at behandlingen av søknaden fullføres.Når det bare er gitt avslag på søknaden i første instans, skal den ansvarlige medlemsstat i tilfellene som faller inn under virkeområdet til nr. 1 bokstav d), sikre at vedkommende har eller har hatt tilgang til et effektivt rettsmiddel i henhold til artikkel 46 i direktiv [2013/32/EU](eu/32013l0032).
+1. overta, på vilkårene fastsatt i artikkel 21, 22 og 29, ansvaret for en søker som har inngitt en søknad i en annen medlemsstat,
+2. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en søker hvis søknad er under behandling, og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,
+3. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger1 eller statsløs som har trukket tilbake2 søknaden som er under behandling og inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,
+4. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger eller statsløs som har fått avslag på sin søknad og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument.
 
-1 Se art 2, a.2 Se art 2, c.
+2\. I tilfellene som faller inn under virkeområdet til nr. 1 bokstav a) og b), skal den ansvarlige medlemsstat behandle eller fullføre behandlingen av søknaden om internasjonal beskyttelse som søkeren har inngitt.
+
+Når den ansvarlige medlemsstat har innstilt behandlingen av en søknad etter at søkeren har trukket den tilbake før det er truffet en realitetsavgjørelse i første instans, skal denne medlemsstat i tilfellene som faller inn under virkeområdet til nr. 1 bokstav c), sikre at søkeren har rett til å anmode om at behandlingen av vedkommendes søknad fullføres, eller til å inngi en ny søknad om internasjonal beskyttelse, som ikke skal behandles som en etterfølgende søknad i henhold til direktiv [2013/32/EU](eu/32013l0032). I slike tilfeller skal medlemsstatene sikre at behandlingen av søknaden fullføres.
+
+Når det bare er gitt avslag på søknaden i første instans, skal den ansvarlige medlemsstat i tilfellene som faller inn under virkeområdet til nr. 1 bokstav d), sikre at vedkommende har eller har hatt tilgang til et effektivt rettsmiddel i henhold til artikkel 46 i direktiv [2013/32/EU](eu/32013l0032).
+
+1 Se art 2, a.
+
+2 Se art 2, c.
 
 ### Art 19. Opphør av ansvar
 
 1\. Når en medlemsstat utsteder et oppholdsdokument til en søker,1 skal forpliktelsene angitt i artikkel 18 nr. 1 overføres til denne medlemsstat.
 
-2\. Forpliktelsene i artikkel 18 nr. 1 skal opphøre når den ansvarlige medlemsstat kan godtgjøre, etter å ha blitt anmodet om å overta eller ta tilbake ansvaret for en søker eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), at vedkommende har forlatt medlemsstatenes territorium i minst tre måneder, med mindre vedkommende er i besittelse av et gyldig oppholdsdokument utstedt av den ansvarlige medlemsstat.En søknad som inngis etter fraværsperioden nevnt i første ledd, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
+2\. Forpliktelsene i artikkel 18 nr. 1 skal opphøre når den ansvarlige medlemsstat kan godtgjøre, etter å ha blitt anmodet om å overta eller ta tilbake ansvaret for en søker eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), at vedkommende har forlatt medlemsstatenes territorium i minst tre måneder, med mindre vedkommende er i besittelse av et gyldig oppholdsdokument utstedt av den ansvarlige medlemsstat.
 
-3\. Forpliktelsene angitt i artikkel 18 nr. 1 bokstav c) og d) skal opphøre når den ansvarlige medlemsstat kan godtgjøre, etter å ha blitt anmodet om å ta tilbake en søker eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), at vedkommende har forlatt medlemsstatenes territorium i samsvar med et vedtak om retur eller uttransportering som er gjort etter tilbaketrekkingen av eller avslaget på søknaden.En søknad som inngis etter at en uttransportering faktisk har funnet sted, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
+En søknad som inngis etter fraværsperioden nevnt i første ledd, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
+
+3\. Forpliktelsene angitt i artikkel 18 nr. 1 bokstav c) og d) skal opphøre når den ansvarlige medlemsstat kan godtgjøre, etter å ha blitt anmodet om å ta tilbake en søker eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), at vedkommende har forlatt medlemsstatenes territorium i samsvar med et vedtak om retur eller uttransportering som er gjort etter tilbaketrekkingen av eller avslaget på søknaden.
+
+En søknad som inngis etter at en uttransportering faktisk har funnet sted, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
 
 1 Se art 2, c.
 
@@ -2538,21 +3215,39 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 3\. I henhold til denne forordning skal situasjonen til en mindreårig som ledsager søkeren og oppfyller definisjonen av familiemedlem,1 være uløselig forbundet med vedkommendes familiemedlems situasjon og skal være et anliggende for den medlemsstat som er ansvarlig for behandlingen av nevnte familiemedlems søknad om internasjonal beskyttelse, selv om den mindreårige selv ikke er søker, under forutsetning av at dette er til den mindreåriges beste. Samme behandling skal gis barn født etter at søkeren har ankommet medlemsstatenes territorium, uten at det er nødvendig å innlede en ny prosedyre for å overta ansvaret for dem.
 
-4\. Dersom en søker2 som oppholder seg på en medlemsstats territorium, inngir en søknad om internasjonal beskyttelse til de kompetente myndigheter i en annen medlemsstat, skal den medlemsstat på hvis territorium søkeren oppholder seg, avgjøre hvilken medlemsstat som er ansvarlig. Sistnevnte medlemsstat skal uten opphold underrettes av den medlemsstat som mottok søknaden, og skal deretter, i henhold til denne forordning, betraktes som den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt.Søkeren skal underrettes skriftlig om endringen av medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, og om på hvilken dato endringen fant sted.
+4\. Dersom en søker2 som oppholder seg på en medlemsstats territorium, inngir en søknad om internasjonal beskyttelse til de kompetente myndigheter i en annen medlemsstat, skal den medlemsstat på hvis territorium søkeren oppholder seg, avgjøre hvilken medlemsstat som er ansvarlig. Sistnevnte medlemsstat skal uten opphold underrettes av den medlemsstat som mottok søknaden, og skal deretter, i henhold til denne forordning, betraktes som den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt.
 
-5\. En søker som oppholder seg i en annen medlemsstat uten et oppholdsdokument eller som inngir en søknad om internasjonal beskyttelse der etter å ha trukket tilbake3 sin første søknad inngitt i en annen medlemsstat mens prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig pågår, skal tas tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, av den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, med henblikk på å fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig.Denne forpliktelse skal opphøre dersom den medlemsstat som er blitt anmodet om fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, kan godtgjøre at søkeren i mellomtiden har forlatt medlemsstatenes territorium i et tidsrom på minst tre måneder, eller har fått utstedt et oppholdsdokument av en annen medlemsstat.En søknad som inngis etter fraværsperioden nevnt i annet ledd, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
+Søkeren skal underrettes skriftlig om endringen av medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, og om på hvilken dato endringen fant sted.
 
-1 Se art 2, g.2 Se art 2, c.3 Se art 2, e.
+5\. En søker som oppholder seg i en annen medlemsstat uten et oppholdsdokument eller som inngir en søknad om internasjonal beskyttelse der etter å ha trukket tilbake3 sin første søknad inngitt i en annen medlemsstat mens prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig pågår, skal tas tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, av den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, med henblikk på å fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig.
+
+Denne forpliktelse skal opphøre dersom den medlemsstat som er blitt anmodet om fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, kan godtgjøre at søkeren i mellomtiden har forlatt medlemsstatenes territorium i et tidsrom på minst tre måneder, eller har fått utstedt et oppholdsdokument av en annen medlemsstat.
+
+En søknad som inngis etter fraværsperioden nevnt i annet ledd, skal betraktes som en ny søknad som medfører en ny prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig.
+
+1 Se art 2, g.
+
+2 Se art 2, c.
+
+3 Se art 2, e.
 
 ### Avsnitt II. Prosedyrer for anmodninger om overtakelse
 
 ### Art 21. Framsetting av en anmodning om overtakelse
 
-1\. Dersom en medlemsstat som har mottatt en søknad om internasjonal beskyttelse, anser at en annen medlemsstat er ansvarlig for behandlingen av søknaden, kan den førstnevnte medlemsstat snarest mulig og i alle tilfeller innen tre måneder etter at søknaden ble inngitt i henhold til artikkel 20 nr. 2, anmode sistnevnte medlemsstat om å overta ansvaret for søkeren.Uten hensyn til første ledd skal anmodningen, ved et treff i Eurodac på grunnlag av opplysninger registrert i henhold til artikkel 14 i forordning [(EU) nr. 603/2013](eu/32013r0603), sendes senest to måneder etter at treffet ble registrert, i henhold til artikkel 15 nr. 2 i nevnte forordning.Når det ikke framsettes anmodning om å overta ansvaret for en søker innen fristene fastsatt i første og annet ledd, skal ansvaret for behandlingen av søknaden om internasjonal beskyttelse påhvile den medlemsstat der søknaden ble inngitt.
+1\. Dersom en medlemsstat som har mottatt en søknad om internasjonal beskyttelse, anser at en annen medlemsstat er ansvarlig for behandlingen av søknaden, kan den førstnevnte medlemsstat snarest mulig og i alle tilfeller innen tre måneder etter at søknaden ble inngitt i henhold til artikkel 20 nr. 2, anmode sistnevnte medlemsstat om å overta ansvaret for søkeren.
 
-2\. Den anmodende medlemsstat kan be om et hurtig svar dersom søknaden om internasjonal beskyttelse ble inngitt etter avslag på søknad om innreise- eller oppholdstillatelse, etter arrestasjon for ulovlig opphold eller etter forkynnelse eller iverksetting av et vedtak om uttransportering.I anmodningen skal det oppgis hvorfor det kreves hurtig svar, samt forventet svarfrist. Svarfristen skal være på minst én uke.
+Uten hensyn til første ledd skal anmodningen, ved et treff i Eurodac på grunnlag av opplysninger registrert i henhold til artikkel 14 i forordning [(EU) nr. 603/2013](eu/32013r0603), sendes senest to måneder etter at treffet ble registrert, i henhold til artikkel 15 nr. 2 i nevnte forordning.
 
-3\. I tilfellene nevnt i nr. 1 og 2 skal anmodningen til en annen medlemsstat om å overta ansvaret, fremmes ved bruk av et standardskjema og omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av søkerens erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.Kommisjonen skal gjennom gjennomføringsrettsakter vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om overtakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+Når det ikke framsettes anmodning om å overta ansvaret for en søker innen fristene fastsatt i første og annet ledd, skal ansvaret for behandlingen av søknaden om internasjonal beskyttelse påhvile den medlemsstat der søknaden ble inngitt.
+
+2\. Den anmodende medlemsstat kan be om et hurtig svar dersom søknaden om internasjonal beskyttelse ble inngitt etter avslag på søknad om innreise- eller oppholdstillatelse, etter arrestasjon for ulovlig opphold eller etter forkynnelse eller iverksetting av et vedtak om uttransportering.
+
+I anmodningen skal det oppgis hvorfor det kreves hurtig svar, samt forventet svarfrist. Svarfristen skal være på minst én uke.
+
+3\. I tilfellene nevnt i nr. 1 og 2 skal anmodningen til en annen medlemsstat om å overta ansvaret, fremmes ved bruk av et standardskjema og omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av søkerens erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.
+
+Kommisjonen skal gjennom gjennomføringsrettsakter vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om overtakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
 ### Art 22. Svar på en anmodning om overtakelse
 
@@ -2560,7 +3255,16 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 2\. Under prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, skal det benyttes bevismidler og indisier.
 
-3\. Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide og jevnlig revidere to lister som angir de relevante bevismidler og indisier i samsvar med kriteriene i bokstav a) og b) i dette nummer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.Bevis:Dette viser til formelle bevis som fastsetter ansvarsforholdet i henhold til denne forordning, forutsatt at de ikke gjendrives ved hjelp av motbevis.Medlemsstatene skal sørge for at komiteen nevnt i artikkel 44 får eksempler på ulike typer dokumenter som benyttes i forvaltningen, i samsvar med typologien fastsatt i listen over formelle bevis.Indisier:Dette viser til indikasjoner som til tross for at de kan gjendrives, i visse tilfeller kan være tilstrekkelige ut fra den bevisverdien de tillegges.Deres bevisverdi når det gjelder ansvaret for behandlingen av søknaden om internasjonal beskyttelse, skal vurderes i hvert enkelt tilfelle.
+3\. Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide og jevnlig revidere to lister som angir de relevante bevismidler og indisier i samsvar med kriteriene i bokstav a) og b) i dette nummer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+
+1. Bevis:
+
+   1. Dette viser til formelle bevis som fastsetter ansvarsforholdet i henhold til denne forordning, forutsatt at de ikke gjendrives ved hjelp av motbevis.
+   2. Medlemsstatene skal sørge for at komiteen nevnt i artikkel 44 får eksempler på ulike typer dokumenter som benyttes i forvaltningen, i samsvar med typologien fastsatt i listen over formelle bevis.
+2. Indisier:
+
+   1. Dette viser til indikasjoner som til tross for at de kan gjendrives, i visse tilfeller kan være tilstrekkelige ut fra den bevisverdien de tillegges.
+   2. Deres bevisverdi når det gjelder ansvaret for behandlingen av søknaden om internasjonal beskyttelse, skal vurderes i hvert enkelt tilfelle.
 
 4\. Kravet til bevis skal ikke være strengere enn det som er nødvendig for korrekt anvendelse av denne forordning.
 
@@ -2576,23 +3280,33 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 1\. Når en medlemsstat der en person som nevnt i artikkel 18 nr. 1 bokstav b), c) eller d), har inngitt en ny søknad om internasjonal beskyttelse, anser at en annen medlemsstat er ansvarlig i henhold til artikkel 20 nr. 5 og artikkel 18 nr. 1 bokstav b), c) eller d), kan den anmode den andre medlemsstat om å ta vedkommende tilbake.
 
-2\. En anmodning om tilbaketakelse skal framsettes så snart som mulig og under alle omstendigheter innen to måneder etter at treffet i Eurodac ble registret, i henhold til artikkel 9 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).Dersom anmodningen om tilbaketakelse er basert på andre beviser enn opplysninger fra Eurodac-systemet, skal den sendes til den anmodede medlemsstat senest tre måneder etter datoen da søknaden om internasjonal beskyttelse ble inngitt i henhold til artikkel 20 nr. 2.
+2\. En anmodning om tilbaketakelse skal framsettes så snart som mulig og under alle omstendigheter innen to måneder etter at treffet i Eurodac ble registret, i henhold til artikkel 9 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).
+
+Dersom anmodningen om tilbaketakelse er basert på andre beviser enn opplysninger fra Eurodac-systemet, skal den sendes til den anmodede medlemsstat senest tre måneder etter datoen da søknaden om internasjonal beskyttelse ble inngitt i henhold til artikkel 20 nr. 2.
 
 3\. Dersom anmodningen om tilbaketakelse ikke framsettes innen fristene fastsatt i annet ledd, skal ansvaret for behandlingen av søknaden om internasjonal beskyttelse påhvile den medlemsstat der den nye søknaden ble inngitt.
 
-4\. En anmodning om tilbaketakelse skal fremmes på et standardskjema og omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av vedkommendes erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.Kommisjonen skal gjennom gjennomføringsrettsakter vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om tilbaketakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+4\. En anmodning om tilbaketakelse skal fremmes på et standardskjema og omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av vedkommendes erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.
+
+Kommisjonen skal gjennom gjennomføringsrettsakter vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om tilbaketakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
 ### Art 24. Framsetting av en anmodning om tilbaketakelse når ingen ny søknad er inngitt i den anmodende medlemsstat
 
 1\. Dersom en medlemsstat på hvis territorium en person som nevnt i artikkel 18 nr. 1 bokstav b), c) eller d) oppholder seg uten oppholdsdokument, og som ikke har mottatt noen ny søknad om internasjonal beskyttelse, anser at en annen medlemsstat er ansvarlig i henhold til artikkel 20 nr. 5 og artikkel 18 nr. 1 bokstav b), c) eller d), kan den anmode den andre medlemsstaten om å ta vedkommende tilbake.
 
-2\. Som unntak fra artikkel 6 nr. 2 i europaparlaments- og rådsdirektiv [2008/115/EF](eu/32008l0115) av 16. desember 2008 om felles standarder og prosedyrer i medlemsstatene for retur av tredjelandsborgere med ulovlig opphold1 skal en medlemsstat på hvis territorium en person oppholder seg uten oppholdsdokument, når den beslutter å søke i Eurodac-systemet i samsvar med artikkel 17 i forordning [(EU) nr. 603/2013](eu/32013r0603), framsette anmodningen om tilbaketakelse av en person som nevnt i artikkel 18 nr. 1 bokstav b) eller c) i denne forordning, eller en person som nevnt i artikkel 18 nr. 1 bokstav d) i denne forordning, som ikke har fått endelig avslag på sin søknad om internasjonal beskyttelse, så raskt som mulig og under alle omstendigheter senest to måneder etter at treffet i Eurodac ble registrert i henhold til artikkel 17 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).Dersom anmodningen om tilbaketakelse er basert på andre beviser enn opplysninger fra Eurodac-systemet, skal den sendes til den anmodede medlemsstat senest tre måneder etter datoen da den anmodende medlemsstat ble oppmerksom på at en annen medlemsstat kan være ansvarlig for vedkommende.
+2\. Som unntak fra artikkel 6 nr. 2 i europaparlaments- og rådsdirektiv [2008/115/EF](eu/32008l0115) av 16. desember 2008 om felles standarder og prosedyrer i medlemsstatene for retur av tredjelandsborgere med ulovlig opphold1 skal en medlemsstat på hvis territorium en person oppholder seg uten oppholdsdokument, når den beslutter å søke i Eurodac-systemet i samsvar med artikkel 17 i forordning [(EU) nr. 603/2013](eu/32013r0603), framsette anmodningen om tilbaketakelse av en person som nevnt i artikkel 18 nr. 1 bokstav b) eller c) i denne forordning, eller en person som nevnt i artikkel 18 nr. 1 bokstav d) i denne forordning, som ikke har fått endelig avslag på sin søknad om internasjonal beskyttelse, så raskt som mulig og under alle omstendigheter senest to måneder etter at treffet i Eurodac ble registrert i henhold til artikkel 17 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).
+
+Dersom anmodningen om tilbaketakelse er basert på andre beviser enn opplysninger fra Eurodac-systemet, skal den sendes til den anmodede medlemsstat senest tre måneder etter datoen da den anmodende medlemsstat ble oppmerksom på at en annen medlemsstat kan være ansvarlig for vedkommende.
 
 3\. Når anmodningen om tilbaketakelse ikke framsettes innen fristene fastsatt i nr. 2, skal medlemsstaten på hvis territorium vedkommende oppholder seg uten oppholdsdokument, gi vedkommende mulighet til å inngi en ny søknad.
 
-4\. Når en person som nevnt i artikkel 18 nr. 1 bokstav d), som har fått endelig avslag på sin søknad om internasjonal beskyttelse i én medlemsstat, oppholder seg på en annen medlemsstats territorium uten oppholdsdokument, kan sistnevnte medlemsstat anmode førstnevnte medlemsstat enten om å ta tilbake vedkommende eller gjennomføre en prosedyre for retur i henhold til direktiv [2008/115/EF](eu/32008l0115).Når sistnevnte medlemsstat beslutter å anmode førstnevnte medlemsstat om å ta tilbake vedkommende, skal reglene i direktiv [2008/115/EF](eu/32008l0115) ikke komme til anvendelse.
+4\. Når en person som nevnt i artikkel 18 nr. 1 bokstav d), som har fått endelig avslag på sin søknad om internasjonal beskyttelse i én medlemsstat, oppholder seg på en annen medlemsstats territorium uten oppholdsdokument, kan sistnevnte medlemsstat anmode førstnevnte medlemsstat enten om å ta tilbake vedkommende eller gjennomføre en prosedyre for retur i henhold til direktiv [2008/115/EF](eu/32008l0115).
 
-5\. Anmodningen om tilbaketakelse av personen nevnt i artikkel 18 nr. 1 bokstav b), c) og d) skal fremmes ved bruk av et standardskjema og skal omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av søkerens erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide og jevnlig revidere to lister som angir de relevante bevismidler og indisier i samsvar med kriteriene i artikkel 22 nr. 3 bokstav a) og b) og skal vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om tilbaketakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+Når sistnevnte medlemsstat beslutter å anmode førstnevnte medlemsstat om å ta tilbake vedkommende, skal reglene i direktiv [2008/115/EF](eu/32008l0115) ikke komme til anvendelse.
+
+5\. Anmodningen om tilbaketakelse av personen nevnt i artikkel 18 nr. 1 bokstav b), c) og d) skal fremmes ved bruk av et standardskjema og skal omfatte bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 og/eller relevante deler av søkerens erklæring, slik at den anmodede medlemsstats myndigheter kan undersøke om den er ansvarlig på grunnlag av kriteriene fastsatt i denne forordning.
+
+Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide og jevnlig revidere to lister som angir de relevante bevismidler og indisier i samsvar med kriteriene i artikkel 22 nr. 3 bokstav a) og b) og skal vedta ensartede vilkår for utarbeidelse og framsetting av anmodninger om tilbaketakelse. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
 1 EUT L 348 av 24.12.2008, s. 98.
 
@@ -2608,7 +3322,9 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 1\. Når den anmodede medlemsstat etterkommer anmodningen om å overta eller ta tilbake ansvaret for en søker1 eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal den anmodende medlemsstat underrette vedkommende om vedtaket om å overføre ham eller henne til den ansvarlige medlemsstat og, om relevant, om at den ikke vil behandle hans eller hennes søknad om internasjonal beskyttelse. Dersom en juridisk rådgiver eller annen rådgiver representerer vedkommende, kan medlemsstatene velge å meddele beslutningen til en slik juridisk rådgiver eller annen rådgiver i stedet for til den berørte selv og, om relevant, underrette vedkommende om beslutningen.
 
-2\. Vedtaket nevnt i nr. 1 skal inneholde opplysninger om tilgjengelige rettsmidler, herunder om retten til eventuelt å framsette begjæring om oppsettende virkning, og om fristene for anvendelse av disse rettsmidler og for iverksetting av overføringen, og skal om nødvendig omfatte opplysninger om hvor og når vedkommende skal møte opp dersom han eller hun reiser til den ansvarlige medlemsstat på eget initiativ.Medlemsstatene skal sikre at opplysninger om personer eller enheter som kan yte juridisk bistand til vedkommende, formidles til vedkommende sammen med beslutningen nevnt i nr. 1, såfremt disse opplysningene ikke allerede er blitt formidlet til vedkommende.
+2\. Vedtaket nevnt i nr. 1 skal inneholde opplysninger om tilgjengelige rettsmidler, herunder om retten til eventuelt å framsette begjæring om oppsettende virkning, og om fristene for anvendelse av disse rettsmidler og for iverksetting av overføringen, og skal om nødvendig omfatte opplysninger om hvor og når vedkommende skal møte opp dersom han eller hun reiser til den ansvarlige medlemsstat på eget initiativ.
+
+Medlemsstatene skal sikre at opplysninger om personer eller enheter som kan yte juridisk bistand til vedkommende, formidles til vedkommende sammen med beslutningen nevnt i nr. 1, såfremt disse opplysningene ikke allerede er blitt formidlet til vedkommende.
 
 3\. Dersom vedkommende ikke bistås eller representeres av en juridisk rådgiver eller annen rådgiver, skal medlemsstatene underrette vedkommende om de viktigste elementene i beslutningen, som alltid skal omfatte opplysninger om tilgjengelige rettsmidler og fristene for anvendelse av disse, på et språk som vedkommende forstår eller som det med rimelighet kan forventes at han eller hun forstår.
 
@@ -2620,13 +3336,27 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 2\. Medlemsstatene skal fastsette en rimelig frist innenfor hvilken vedkommende kan utøve sin rett til effektive rettsmidler i henhold til nr. 1.
 
-3\. Med henblikk på tilfeller der vedtak om overføring påklages eller overprøves, skal det i medlemsstatenes nasjonale lovgivning fastsettes atklagen eller overprøvingen gir vedkommende rett til å forbli på vedkommende medlemsstats territorium inntil resultatet av klagen eller overprøvingen foreligger, eller atoverføringen automatisk utsettes, og at utsettelsen oppheves etter en viss rimelig tid i løpet av hvilken en domstol eller et domstollignende organ etter nøye og grundig vurdering skal ha truffet en avgjørelse om hvorvidt en klage eller overprøving skal gis oppsettende virkning, eller atvedkommende har mulighet til innen en rimelig frist å anmode en domstol eller et domstollignende organ om å utsette iverksettingen av vedtaket om overføring inntil resultatet av klagen eller overprøvingen foreligger. Medlemsstatene skal sikre at det finnes et effektivt rettsmiddel ved å utsette overføringen inntil den første anmodningen om utsettelse er avgjort. Enhver beslutning om hvorvidt iverksetting av vedtaket om overføring skal utsettes, skal treffes innen en rimelig frist som samtidig tillater at det foretas en nøye og grundig vurdering av anmodningen om utsettelse. En beslutning om ikke å utsette iverksettingen av overføringen skal være begrunnet.
+3\. Med henblikk på tilfeller der vedtak om overføring påklages eller overprøves, skal det i medlemsstatenes nasjonale lovgivning fastsettes at
+
+1. klagen eller overprøvingen gir vedkommende rett til å forbli på vedkommende medlemsstats territorium inntil resultatet av klagen eller overprøvingen foreligger, eller at
+2. overføringen automatisk utsettes, og at utsettelsen oppheves etter en viss rimelig tid i løpet av hvilken en domstol eller et domstollignende organ etter nøye og grundig vurdering skal ha truffet en avgjørelse om hvorvidt en klage eller overprøving skal gis oppsettende virkning, eller at
+3. vedkommende har mulighet til innen en rimelig frist å anmode en domstol eller et domstollignende organ om å utsette iverksettingen av vedtaket om overføring inntil resultatet av klagen eller overprøvingen foreligger. Medlemsstatene skal sikre at det finnes et effektivt rettsmiddel ved å utsette overføringen inntil den første anmodningen om utsettelse er avgjort. Enhver beslutning om hvorvidt iverksetting av vedtaket om overføring skal utsettes, skal treffes innen en rimelig frist som samtidig tillater at det foretas en nøye og grundig vurdering av anmodningen om utsettelse. En beslutning om ikke å utsette iverksettingen av overføringen skal være begrunnet.
 
 4\. Medlemsstatene kan fastsette at de kompetente myndigheter på eget initiativ kan beslutte å utsette iverksettingen av vedtaket om overføring inntil resultatet av klagen eller overprøvingen foreligger.
 
 5\. Medlemsstatene skal sikre at vedkommende har adgang til juridisk bistand og, om nødvendig, språklig bistand.
 
-6\. Medlemsstatene skal sikre at juridisk bistand på anmodning ytes gratis når vedkommende ikke selv har råd til å betale de kostnader dette medfører. Medlemsstatene kan fastsette at søkerne ikke skal behandles gunstigere med hensyn til gebyrer og andre kostnader enn den behandling landets egne statsborgere generelt får i spørsmål som gjelder juridisk bistand.Medlemsstatene kan, uten vilkårlig å begrense adgangen til gratis juridisk bistand eller juridisk representasjon, fastsette at det ikke skal ytes gratis juridisk bistand når den kompetente myndighet eller en domstol eller et domstollignende organ anser at klagen eller overprøvingen ikke har noen reelle utsikter til å føre fram.Dersom en beslutning om ikke å yte gratis juridisk bistand og juridisk representasjon i henhold til dette nummer treffes av en myndighet som ikke er en domstol eller et domstollignende organ, skal medlemsstatene stille til rådighet et effektivt rettsmiddel foran en domstol eller et domstollignende organ for å påklage beslutningen.Ved overholdelse av kravene i dette nummer skal medlemsstatene sikre at juridisk bistand og juridisk representasjon ikke begrenses vilkårlig, og at søkerens effektive adgang til rettslig prøving ikke hindres.Den juridiske bistanden skal minst omfatte utarbeidelse av de påkrevde saksdokumentene og representasjon for en domstol eller et domstollignende organ og kan begrenses til juridiske rådgivere eller andre rådgivere som er særskilt utpekt til å bistå og representere i henhold til nasjonal lovgivning.Prosedyrene for adgang til juridisk bistand skal fastsettes i nasjonal lovgivning.
+6\. Medlemsstatene skal sikre at juridisk bistand på anmodning ytes gratis når vedkommende ikke selv har råd til å betale de kostnader dette medfører. Medlemsstatene kan fastsette at søkerne ikke skal behandles gunstigere med hensyn til gebyrer og andre kostnader enn den behandling landets egne statsborgere generelt får i spørsmål som gjelder juridisk bistand.
+
+Medlemsstatene kan, uten vilkårlig å begrense adgangen til gratis juridisk bistand eller juridisk representasjon, fastsette at det ikke skal ytes gratis juridisk bistand når den kompetente myndighet eller en domstol eller et domstollignende organ anser at klagen eller overprøvingen ikke har noen reelle utsikter til å føre fram.
+
+Dersom en beslutning om ikke å yte gratis juridisk bistand og juridisk representasjon i henhold til dette nummer treffes av en myndighet som ikke er en domstol eller et domstollignende organ, skal medlemsstatene stille til rådighet et effektivt rettsmiddel foran en domstol eller et domstollignende organ for å påklage beslutningen.
+
+Ved overholdelse av kravene i dette nummer skal medlemsstatene sikre at juridisk bistand og juridisk representasjon ikke begrenses vilkårlig, og at søkerens effektive adgang til rettslig prøving ikke hindres.
+
+Den juridiske bistanden skal minst omfatte utarbeidelse av de påkrevde saksdokumentene og representasjon for en domstol eller et domstollignende organ og kan begrenses til juridiske rådgivere eller andre rådgivere som er særskilt utpekt til å bistå og representere i henhold til nasjonal lovgivning.
+
+Prosedyrene for adgang til juridisk bistand skal fastsettes i nasjonal lovgivning.
 
 ### Avsnitt V. Fengsling med henblikk på overføring
 
@@ -2636,7 +3366,13 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 2\. Når det foreligger en vesentlig unndragelsesfare,1 kan medlemsstatene holde vedkommende fengslet for å sikre prosedyrer for overføring i henhold til denne forordning, på grunnlag av en individuell vurdering og bare i den utstrekning fengsling er et forholdsmessig tiltak og alternative, mindre inngripende tiltak ikke kan anvendes effektivt.
 
-3\. Fengslingen skal være så kortvarig som mulig og skal ikke være lengre enn det som er rimelig for at de nødvendige forvaltningsmessige prosedyrer kan gjennomføres på behørig vis, fram til overføringen i henhold til denne forordning gjennomføres.Dersom en person holdes fengslet i henhold til denne artikkel, skal anmodningen om overtakelse eller tilbaketakelse framlegges senest én måned etter at søknaden er inngitt. Den medlemsstat som gjennomfører prosedyren i samsvar med denne forordning, skal i slike tilfeller be om et hurtig svar. Svaret skal gis innen to uker etter at anmodningen ble mottatt. Dersom det ikke foreligger svar ved utløpet av toukersfristen, skal anmodningen anses som etterkommet; den anmodede stat plikter da å overta eller ta tilbake ansvaret for personen, herunder å sørge for egnede tiltak med hensyn til ankomst.Dersom en person holdes fengslet i henhold til denne artikkel, skal vedkommende overføres fra den anmodende medlemsstat til den ansvarlige medlemsstat så snart dette praktisk lar seg gjennomføre, og senest seks uker etter at en annen medlemsstat stilltiende eller uttrykkelig har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter det tidspunkt da klagen eller overprøvingen ikke lenger har oppsettende virkning i samsvar med artikkel 27 nr. 3.Dersom den anmodende medlemsstat ikke overholder fristene for å framsette en anmodning om overtakelse eller tilbaketakelse eller overføringen ikke iverksettes innen utløpet av seksukersfristen nevnt i tredje ledd, skal vedkommende ikke lenger holdes fengslet. Artikkel 21, 23, 24 og 29 skal fortsatt få tilsvarende anvendelse.
+3\. Fengslingen skal være så kortvarig som mulig og skal ikke være lengre enn det som er rimelig for at de nødvendige forvaltningsmessige prosedyrer kan gjennomføres på behørig vis, fram til overføringen i henhold til denne forordning gjennomføres.
+
+Dersom en person holdes fengslet i henhold til denne artikkel, skal anmodningen om overtakelse eller tilbaketakelse framlegges senest én måned etter at søknaden er inngitt. Den medlemsstat som gjennomfører prosedyren i samsvar med denne forordning, skal i slike tilfeller be om et hurtig svar. Svaret skal gis innen to uker etter at anmodningen ble mottatt. Dersom det ikke foreligger svar ved utløpet av toukersfristen, skal anmodningen anses som etterkommet; den anmodede stat plikter da å overta eller ta tilbake ansvaret for personen, herunder å sørge for egnede tiltak med hensyn til ankomst.
+
+Dersom en person holdes fengslet i henhold til denne artikkel, skal vedkommende overføres fra den anmodende medlemsstat til den ansvarlige medlemsstat så snart dette praktisk lar seg gjennomføre, og senest seks uker etter at en annen medlemsstat stilltiende eller uttrykkelig har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter det tidspunkt da klagen eller overprøvingen ikke lenger har oppsettende virkning i samsvar med artikkel 27 nr. 3.
+
+Dersom den anmodende medlemsstat ikke overholder fristene for å framsette en anmodning om overtakelse eller tilbaketakelse eller overføringen ikke iverksettes innen utløpet av seksukersfristen nevnt i tredje ledd, skal vedkommende ikke lenger holdes fengslet. Artikkel 21, 23, 24 og 29 skal fortsatt få tilsvarende anvendelse.
 
 4\. Når det gjelder vilkårene for fengsling og garantiene som får anvendelse for personer som sitter fengslet, skal artikkel 9, 10 og 11 i direktiv [2013/33/EU](eu/32013l0033) få anvendelse med henblikk på å sikre prosedyrene for overføring.
 
@@ -2646,7 +3382,13 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 29. Nærmere bestemmelser og frister
 
-1\. Overføringen av søkeren1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) fra den anmodende medlemsstat til den ansvarlige medlemsstat skal gjennomføres i samsvar med nasjonal lovgivning i den anmodende medlemsstat, etter samråd mellom de berørte medlemsstater, så snart som mulig og senest innen seks måneder etter at en annen medlemsstat har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter at klagen eller overprøvingen med oppsettende virkning i samsvar med artikkel 27 nr. 3 er endelig avgjort.Dersom overføringer til den ansvarlige medlemsstat skjer ved kontrollert utreise eller med ledsagelse, skal medlemsstaten sikre at de gjennomføres på en human måte som fullt ut respekterer de grunnleggende rettigheter og menneskeverdet.Om nødvendig skal den anmodende medlemsstat utstyre søkeren med et passerbrev. Kommisjonen skal gjennom gjennomføringsrettsakter fastsette passerbrevets utforming. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.Den ansvarlige medlemsstat skal underrette den anmodende medlemsstat om at vedkommende er trygt ankommet eller ikke har vist seg innen den fastsatte frist, alt etter som.
+1\. Overføringen av søkeren1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) fra den anmodende medlemsstat til den ansvarlige medlemsstat skal gjennomføres i samsvar med nasjonal lovgivning i den anmodende medlemsstat, etter samråd mellom de berørte medlemsstater, så snart som mulig og senest innen seks måneder etter at en annen medlemsstat har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter at klagen eller overprøvingen med oppsettende virkning i samsvar med artikkel 27 nr. 3 er endelig avgjort.
+
+Dersom overføringer til den ansvarlige medlemsstat skjer ved kontrollert utreise eller med ledsagelse, skal medlemsstaten sikre at de gjennomføres på en human måte som fullt ut respekterer de grunnleggende rettigheter og menneskeverdet.
+
+Om nødvendig skal den anmodende medlemsstat utstyre søkeren med et passerbrev. Kommisjonen skal gjennom gjennomføringsrettsakter fastsette passerbrevets utforming. Disse gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+
+Den ansvarlige medlemsstat skal underrette den anmodende medlemsstat om at vedkommende er trygt ankommet eller ikke har vist seg innen den fastsatte frist, alt etter som.
 
 2\. Dersom overføringen ikke skjer innen seksmånedersfristen, skal den ansvarlige medlemsstat løses fra sitt ansvar for å overta eller ta tilbake ansvaret for vedkommende, og ansvaret overføres da til den anmodende medlemsstat. Denne fristen kan forlenges til inntil ett år dersom overføringen ikke har kunnet gjennomføres fordi vedkommende var fengslet, eller inntil atten måneder dersom vedkommende unndrar seg.
 
@@ -2670,7 +3412,12 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 1\. En medlemsstat som gjennomfører en overføring av en søker1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal oversende til den ansvarlige medlemsstat personopplysninger som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig, for det ene formål å sikre at de kompetente myndigheter, i samsvar med nasjonal lovgivning i den ansvarlige medlemsstat, er i stand til å gi vedkommende hensiktsmessig bistand, herunder den øyeblikkelige legehjelp vedkommende trenger for å beskytte sine vitale interesser, og sikre kontinuitet i den beskyttelse og de rettigheter som gis ved denne forordning og andre relevante asylrettslige instrumenter. Nevnte opplysninger skal oversendes til den ansvarlige medlemsstat innen rimelig tid før overføringen gjennomføres for å sikre at dens kompetente myndigheter i samsvar med nasjonal lovgivning har tilstrekkelig tid til å treffe de nødvendige tiltak.
 
-2\. Den overførende medlemsstat skal, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat alle opplysninger som er vesentlige for å ivareta de rettigheter og umiddelbare særlige behov personen som skal overføres har, da særlig:de umiddelbare tiltak som den ansvarlige medlemsstat må treffe for å sikre at de særlige behov personen som skal overføres har, blir tilfredsstillende ivaretatt, herunder eventuelt nødvendig umiddelbar tilgang til helsetjenester,kontaktopplysninger til familiemedlemmer, slektninger eller andre nærstående i mottakermedlemsstaten, om slike finnes,når det gjelder mindreårige,2 opplysninger om utdanning,en vurdering av søkerens alder.
+2\. Den overførende medlemsstat skal, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat alle opplysninger som er vesentlige for å ivareta de rettigheter og umiddelbare særlige behov personen som skal overføres har, da særlig:
+
+1. de umiddelbare tiltak som den ansvarlige medlemsstat må treffe for å sikre at de særlige behov personen som skal overføres har, blir tilfredsstillende ivaretatt, herunder eventuelt nødvendig umiddelbar tilgang til helsetjenester,
+2. kontaktopplysninger til familiemedlemmer, slektninger eller andre nærstående i mottakermedlemsstaten, om slike finnes,
+3. når det gjelder mindreårige,2 opplysninger om utdanning,
+4. en vurdering av søkerens alder.
 
 3\. Utvekslingen av opplysninger i henhold til denne artikkel skal finne sted bare mellom myndigheter som er meldt til Kommisjonen i samsvar med artikkel 35 ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560). Opplysningene som utveksles, skal ikke brukes for andre formål enn dem som er angitt i nr. 1, og skal ikke være gjenstand for videre behandling.
 
@@ -2678,11 +3425,15 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 5\. Reglene fastsatt i artikkel 34 nr. 8-12 skal få anvendelse på utvekslingen av opplysninger i samsvar med denne artikkel.
 
-1 Se art 2, c.2 Se art 2, i.
+1 Se art 2, c.
+
+2 Se art 2, i.
 
 ### Art 32. Utveksling av helseopplysninger før en overføring gjennomføres
 
-1\. For det ene formål å yte legehjelp eller behandling, særlig når det gjelder funksjonshemmede, eldre personer, gravide kvinner, mindreårige1 og personer som har vært utsatt for tortur, voldtekt eller andre alvorlige former for psykisk, fysisk og seksuell vold, skal den overførende medlemsstat, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat opplysninger om eventuelle særlige behov som personen som skal overføres har, noe som i visse tilfeller kan omfatte opplysninger om vedkommendes fysiske eller psykiske helse. Opplysningene skal overføres i form av en felles helseattest vedlagt de nødvendige dokumenter. Den ansvarlige medlemsstat skal sikre at nevnte særlige behov blir tilfredsstillende ivaretatt, særlig gjennom å gi nødvendig legehjelp.Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide den felles helseattesten. Gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
+1\. For det ene formål å yte legehjelp eller behandling, særlig når det gjelder funksjonshemmede, eldre personer, gravide kvinner, mindreårige1 og personer som har vært utsatt for tortur, voldtekt eller andre alvorlige former for psykisk, fysisk og seksuell vold, skal den overførende medlemsstat, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat opplysninger om eventuelle særlige behov som personen som skal overføres har, noe som i visse tilfeller kan omfatte opplysninger om vedkommendes fysiske eller psykiske helse. Opplysningene skal overføres i form av en felles helseattest vedlagt de nødvendige dokumenter. Den ansvarlige medlemsstat skal sikre at nevnte særlige behov blir tilfredsstillende ivaretatt, særlig gjennom å gi nødvendig legehjelp.
+
+Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide den felles helseattesten. Gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
 2\. Den overførende medlemsstat skal oversende bare de opplysninger som er nevnt i nr. 1 til den ansvarlige medlemsstat etter å ha fått søkerens og/eller dennes representants uttrykkelige samtykke eller, dersom søkeren er fysisk eller rettslig ute av stand til å gi sitt samtykke, der slik overføring er nødvendig for å beskytte søkerens eller en annen persons vitale interesser. Manglende samtykke, herunder nekting av samtykke, skal ikke være til hinder for overføringen.
 
@@ -2698,11 +3449,23 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 33. En ordning for tidlig varsling, beredskap og krisehåndtering
 
-1\. Dersom Kommisjonen, særlig på grunnlag av opplysninger som EASO har samlet inn i samsvar med forordning [(EU) nr. 439/2010](eu/32010r0439), slår fast at anvendelsen av denne forordning kan settes i fare, enten på grunn av en dokumentert risiko for særlig press på en medlemsstats asylordning og/eller på grunn av problemer med virkemåten til en medlemsstats asylordning, skal Kommisjonen i samarbeid med EASO komme med anbefalinger til nevnte medlemsstat og oppfordre den til å utarbeide en forebyggende handlingsplan.Den berørte medlemsstat skal underrette Rådet og Kommisjonen om hvorvidt den har til hensikt å legge fram en forebyggende handlingsplan for å overvinne presset og/eller problemene med virkemåten til dens asylordning og samtidig sikre vern av grunnleggende rettigheter for personer som har søkt om internasjonal beskyttelse.En medlemsstat kan, etter eget skjønn og på eget initiativ utarbeide en forebyggende handlingsplan og senere revidere denne. Når en forebyggende handlingsplan utarbeides, kan medlemsstaten anmode om bistand fra Kommisjonen, andre medlemsstater, EASO og andre relevante unionsorganer.
+1\. Dersom Kommisjonen, særlig på grunnlag av opplysninger som EASO har samlet inn i samsvar med forordning [(EU) nr. 439/2010](eu/32010r0439), slår fast at anvendelsen av denne forordning kan settes i fare, enten på grunn av en dokumentert risiko for særlig press på en medlemsstats asylordning og/eller på grunn av problemer med virkemåten til en medlemsstats asylordning, skal Kommisjonen i samarbeid med EASO komme med anbefalinger til nevnte medlemsstat og oppfordre den til å utarbeide en forebyggende handlingsplan.
 
-2\. Dersom en forebyggende handlingsplan utarbeides, skal den berørte medlemsstat legge den fram for Rådet og Kommisjonen og jevnlig rapportere til dem om gjennomføringen av den. Kommisjonen skal så informere Europaparlamentet om de viktigste elementene i den forebyggende handlingsplanen. Kommisjonen skal legge rapporter om handlingsplanens gjennomføring fram for Rådet og oversende dem til Europaparlamentet.Den berørte medlemsstat skal treffe alle hensiktsmessige tiltak for å håndtere en situasjon der dens asylordning utsettes for et særlig press, eller sikre at manglene som er påvist, håndteres før situasjonen forverrer seg. Dersom den forebyggende handlingsplanen omfatter tiltak som tar sikte på å avhjelpe et særlig press på en medlemsstats asylordning som kan sette anvendelsen av denne forordning i fare, skal Kommisjonen rådføre seg med EASO før den rapporterer til Europaparlamentet og Rådet.
+Den berørte medlemsstat skal underrette Rådet og Kommisjonen om hvorvidt den har til hensikt å legge fram en forebyggende handlingsplan for å overvinne presset og/eller problemene med virkemåten til dens asylordning og samtidig sikre vern av grunnleggende rettigheter for personer som har søkt om internasjonal beskyttelse.
 
-3\. Dersom Kommisjonen på grunnlag av EASOs analyse slår fast at de påviste mangler ikke er blitt avhjulpet av gjennomføringen av den forebyggende handlingsplanen, eller dersom det foreligger en alvorlig risiko for at asylsituasjonen i den berørte medlemsstat kan utvikle seg til en krise som det ikke kan forventes at den forebyggende handlingsplanen vil avhjelpe, kan Kommisjonen, eventuelt i samarbeid med EASO, anmode den berørte medlemsstat om å utarbeide en krisehåndteringsplan og ved behov reviderer denne. Krisehåndteringsplanen skal under hele prosessen sikre at Unionens asylregler følges, særlig når det gjelder grunnleggende rettigheter for personer som søker om internasjonal beskyttelse.Etter en anmodning om å utarbeide en krisehåndteringsplan skal den berørte medlemsstat i samarbeid med Kommisjonen og EASO umiddelbart, og senest tre måneder etter anmodningen, utarbeide en slik plan.Den berørte medlemsstat skal legge fram krisehåndteringsplanen for Kommisjonen og andre berørte parter, for eksempel EASO, og rapportere til dem minst hver tredje måned om gjennomføringen av den.Kommisjonen skal underrette Europaparlamentet og Rådet om krisehåndteringsplanen og eventuelle revisjoner og gjennomføringen av den. I disse rapportene skal den berørte medlemsstat rapportere opplysninger som gir mulighet for å kontrollere om krisehåndteringsplanen blir fulgt, for eksempel prosedyrens varighet, vilkårene for fengsling og mottakskapasitet i forhold til tilstrømningen av søkere.
+En medlemsstat kan, etter eget skjønn og på eget initiativ utarbeide en forebyggende handlingsplan og senere revidere denne. Når en forebyggende handlingsplan utarbeides, kan medlemsstaten anmode om bistand fra Kommisjonen, andre medlemsstater, EASO og andre relevante unionsorganer.
+
+2\. Dersom en forebyggende handlingsplan utarbeides, skal den berørte medlemsstat legge den fram for Rådet og Kommisjonen og jevnlig rapportere til dem om gjennomføringen av den. Kommisjonen skal så informere Europaparlamentet om de viktigste elementene i den forebyggende handlingsplanen. Kommisjonen skal legge rapporter om handlingsplanens gjennomføring fram for Rådet og oversende dem til Europaparlamentet.
+
+Den berørte medlemsstat skal treffe alle hensiktsmessige tiltak for å håndtere en situasjon der dens asylordning utsettes for et særlig press, eller sikre at manglene som er påvist, håndteres før situasjonen forverrer seg. Dersom den forebyggende handlingsplanen omfatter tiltak som tar sikte på å avhjelpe et særlig press på en medlemsstats asylordning som kan sette anvendelsen av denne forordning i fare, skal Kommisjonen rådføre seg med EASO før den rapporterer til Europaparlamentet og Rådet.
+
+3\. Dersom Kommisjonen på grunnlag av EASOs analyse slår fast at de påviste mangler ikke er blitt avhjulpet av gjennomføringen av den forebyggende handlingsplanen, eller dersom det foreligger en alvorlig risiko for at asylsituasjonen i den berørte medlemsstat kan utvikle seg til en krise som det ikke kan forventes at den forebyggende handlingsplanen vil avhjelpe, kan Kommisjonen, eventuelt i samarbeid med EASO, anmode den berørte medlemsstat om å utarbeide en krisehåndteringsplan og ved behov reviderer denne. Krisehåndteringsplanen skal under hele prosessen sikre at Unionens asylregler følges, særlig når det gjelder grunnleggende rettigheter for personer som søker om internasjonal beskyttelse.
+
+Etter en anmodning om å utarbeide en krisehåndteringsplan skal den berørte medlemsstat i samarbeid med Kommisjonen og EASO umiddelbart, og senest tre måneder etter anmodningen, utarbeide en slik plan.
+
+Den berørte medlemsstat skal legge fram krisehåndteringsplanen for Kommisjonen og andre berørte parter, for eksempel EASO, og rapportere til dem minst hver tredje måned om gjennomføringen av den.
+
+Kommisjonen skal underrette Europaparlamentet og Rådet om krisehåndteringsplanen og eventuelle revisjoner og gjennomføringen av den. I disse rapportene skal den berørte medlemsstat rapportere opplysninger som gir mulighet for å kontrollere om krisehåndteringsplanen blir fulgt, for eksempel prosedyrens varighet, vilkårene for fengsling og mottakskapasitet i forhold til tilstrømningen av søkere.
 
 4\. Gjennom hele prosessen for tidlig varsling, beredskap og krisehåndtering fastsatt i denne artikkel, skal Rådet overvåke situasjonen nøye og kan anmode om ytterligere opplysninger og gi politisk veiledning, særlig når det gjelder situasjonens hastekarakter og alvor, og dermed en medlemsstats behov for å utarbeide en forebyggende handlingsplan eller om nødvendig en krisehåndteringsplan. Europaparlamentet og Rådet kan gjennom hele prosessen drøfte og gi veiledning om eventuelle solidaritetstiltak som de finner hensiktsmessig.
 
@@ -2710,9 +3473,21 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 34. Informasjonsdeling
 
-1\. Hver medlemsstat skal oversende til enhver medlemsstat som anmoder om det, slike personopplysninger om søkeren som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig for åavgjøre hvilken medlemsstat som er ansvarlig,behandle søknaden om internasjonal beskyttelse,1gjennomføre alle forpliktelser i henhold til denne forordning.
+1\. Hver medlemsstat skal oversende til enhver medlemsstat som anmoder om det, slike personopplysninger om søkeren som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig for å
 
-2\. Informasjonen nevnt i nr. 1 kan bare omfattepersonopplysninger som gjelder søkeren,2 samt eventuelt hans eller hennes familiemedlemmer,3 slektninger4 eller andre nærstående (fullt navn og eventuelt tidligere navn, kallenavn eller pseudonymer, nåværende og tidligere nasjonalitet, fødselsdato og -sted),legitimasjons- og reisedokumenter (referanser, gyldighet, utstedelsesdato, utstedende myndighet, utstedelsessted osv.),annen informasjon som er nødvendig for å fastslå søkerens identitet, herunder fingeravtrykk behandlet i samsvar med forordning [(EU) nr. 603/2013](eu/32013r0603),bosteder og reiseruter,oppholdsdokumenter5 eller visaer6 utstedt av en medlemsstat,det sted søknaden ble inngitt,datoen da en eventuell tidligere søknad om internasjonal beskyttelse ble inngitt, datoen som den aktuelle søknad ble inngitt på, hvor langt behandlingen er kommet, samt vedtaket som eventuelt er gjort.
+1. avgjøre hvilken medlemsstat som er ansvarlig,
+2. behandle søknaden om internasjonal beskyttelse,1
+3. gjennomføre alle forpliktelser i henhold til denne forordning.
+
+2\. Informasjonen nevnt i nr. 1 kan bare omfatte
+
+1. personopplysninger som gjelder søkeren,2 samt eventuelt hans eller hennes familiemedlemmer,3 slektninger4 eller andre nærstående (fullt navn og eventuelt tidligere navn, kallenavn eller pseudonymer, nåværende og tidligere nasjonalitet, fødselsdato og -sted),
+2. legitimasjons- og reisedokumenter (referanser, gyldighet, utstedelsesdato, utstedende myndighet, utstedelsessted osv.),
+3. annen informasjon som er nødvendig for å fastslå søkerens identitet, herunder fingeravtrykk behandlet i samsvar med forordning [(EU) nr. 603/2013](eu/32013r0603),
+4. bosteder og reiseruter,
+5. oppholdsdokumenter5 eller visaer6 utstedt av en medlemsstat,
+6. det sted søknaden ble inngitt,
+7. datoen da en eventuell tidligere søknad om internasjonal beskyttelse ble inngitt, datoen som den aktuelle søknad ble inngitt på, hvor langt behandlingen er kommet, samt vedtaket som eventuelt er gjort.
 
 3\. Videre kan den ansvarlige medlemsstat, dersom det er nødvendig for å kunne behandle søknaden om internasjonal beskyttelse, anmode en annen medlemsstat om å opplyse hvilke grunner søkeren har oppgitt for sin søknad, og begrunnelsen for eventuelle beslutninger som er tatt vedrørende søknaden. Den andre medlemsstaten kan nekte å etterkomme anmodningen dersom utlevering av opplysningene vil kunne skade dens vesentlige interesser eller søkerens eller andre personers friheter og grunnleggende rettigheter. Uansett kan disse opplysninger bare utleveres dersom den anmodende medlemsstat har fått skriftlig samtykke fra personen som har søkt om internasjonal beskyttelse. I så tilfelle har søkeren krav på å vite nøyaktig hvilke opplysninger han eller hun samtykker til å utlevere.
 
@@ -2722,11 +3497,21 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 6\. Informasjonsutvekslingen skal skje på anmodning fra en medlemsstat og kan finne sted bare mellom de myndigheter som er utpekt av hver medlemsstat og meldt til Kommisjonen i samsvar med artikkel 35 nr. 1.
 
-7\. Opplysningene som utveksles, skal ikke brukes for andre formål enn dem som er angitt i nr. 1. I hver medlemsstat kan opplysningene, avhengig av deres art og den mottakende myndighets fullmakter, oversendes bare til myndigheter, domstoler og domstollignende organer som har til oppgave åavgjøre hvilken medlemsstat som er ansvarlig,behandle søknaden om internasjonal beskyttelse,gjennomføre alle forpliktelser i henhold til denne forordning.
+7\. Opplysningene som utveksles, skal ikke brukes for andre formål enn dem som er angitt i nr. 1. I hver medlemsstat kan opplysningene, avhengig av deres art og den mottakende myndighets fullmakter, oversendes bare til myndigheter, domstoler og domstollignende organer som har til oppgave å
+
+1. avgjøre hvilken medlemsstat som er ansvarlig,
+2. behandle søknaden om internasjonal beskyttelse,
+3. gjennomføre alle forpliktelser i henhold til denne forordning.
 
 8\. Den medlemsstat som oversender opplysningene, skal sikre at de er riktige og à jour. Dersom det viser seg at den har oversendt opplysninger som er uriktige, eller som ikke burde ha blitt oversendt, skal den mottakende medlemsstat umiddelbart underrettes om dette. De skal da rette eller slette disse opplysningene.
 
-9\. Søkeren skal ha rett til, etter anmodning, å bli informert om alle opplysninger vedrørende ham eller henne som behandles.Dersom søkeren finner at opplysningene har blitt behandlet i strid med denne forordning eller direktiv [95/46/EF](eu/31995l0046), særlig fordi de er ufullstendige eller uriktige, skal han eller hun ha rett til å få dem rettet eller slettet.Den myndighet som retter eller sletter opplysningene, skal, alt etter omstendighetene, underrette den medlemsstat som har oversendt eller mottatt opplysningene.Søkeren skal ha rett til å reise sak eller inngi en klage for de kompetente myndigheter, domstoler eller domstollignende organer i den medlemsstat som nektet ham eller henne innsyn i eller retten til å rette eller slette opplysningene om seg selv.
+9\. Søkeren skal ha rett til, etter anmodning, å bli informert om alle opplysninger vedrørende ham eller henne som behandles.
+
+Dersom søkeren finner at opplysningene har blitt behandlet i strid med denne forordning eller direktiv [95/46/EF](eu/31995l0046), særlig fordi de er ufullstendige eller uriktige, skal han eller hun ha rett til å få dem rettet eller slettet.
+
+Den myndighet som retter eller sletter opplysningene, skal, alt etter omstendighetene, underrette den medlemsstat som har oversendt eller mottatt opplysningene.
+
+Søkeren skal ha rett til å reise sak eller inngi en klage for de kompetente myndigheter, domstoler eller domstollignende organer i den medlemsstat som nektet ham eller henne innsyn i eller retten til å rette eller slette opplysningene om seg selv.
 
 10\. I hver berørt medlemsstat skal overføring og mottak av utvekslede opplysninger registreres i vedkommendes personlige mappe og/eller i et register.
 
@@ -2734,7 +3519,17 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 12\. Dersom opplysningene ikke behandles automatisk eller ikke ligger i eller skal legges inn i et register, skal hver medlemsstat treffe hensiktsmessige tiltak for å sikre, gjennom effektive kontrolltiltak, at denne artikkel overholdes.
 
-1 Se art 2, d.2 Se art 2, c.3 Se art 2, g.4 Se art 2, h.5 Se art 2, l.6 Se art 2, m.
+1 Se art 2, d.
+
+2 Se art 2, c.
+
+3 Se art 2, g.
+
+4 Se art 2, h.
+
+5 Se art 2, l.
+
+6 Se art 2, m.
 
 ### Art 35. Kompetente myndigheter og ressurser
 
@@ -2748,7 +3543,10 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 36. Forvaltningsavtaler
 
-1\. Medlemsstatene kan seg imellom inngå bilaterale forvaltningsavtaler om de nærmere regler for gjennomføring av denne forordning for legge til rette for anvendelsen av den og gjøre den mer effektiv. Disse avtalene kan gjeldeutveksling av kontaktpersoner,enklere prosedyrer og kortere frister for overføring og behandling av anmodninger om overtakelse eller tilbaketakelse av søkere.
+1\. Medlemsstatene kan seg imellom inngå bilaterale forvaltningsavtaler om de nærmere regler for gjennomføring av denne forordning for legge til rette for anvendelsen av den og gjøre den mer effektiv. Disse avtalene kan gjelde
+
+1. utveksling av kontaktpersoner,
+2. enklere prosedyrer og kortere frister for overføring og behandling av anmodninger om overtakelse eller tilbaketakelse av søkere.
 
 2\. Medlemsstatene kan også videreføre forvaltningsavtalene inngått i henhold til forordning [(EF) nr. 343/2003](eu/32003r0343). I den utstrekning slike avtaler ikke er forenlige med denne forordning, skal de berørte medlemsstater endre avtalene på en slik måte at eventuelle tilfeller av uforenlighet som er påvist, fjernes.
 
@@ -2764,7 +3562,13 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 1\. Dersom medlemsstatene ikke kan løse en tvist vedrørende anvendelsen av denne forordning, kan de anvende meglingsprosedyren beskrevet i nr. 2.
 
-2\. Meglingsprosedyren innledes ved en anmodning fra en av medlemsstatene i tvisten til lederen for komiteen nedsatt ved artikkel 44. Ved å samtykke til å bruke megling forplikter de berørte medlemsstater seg til å ta størst mulig hensyn til den løsning som foreslås.Lederen for komiteen skal utpeke tre medlemmer av komiteen som representerer tre medlemsstater som ikke er innblandet i tvisten. Disse skal ta imot partenes argumenter skriftlig eller muntlig og etter drøfting foreslå en løsning innen en måned, om nødvendig etter avstemning.Komiteens leder, eller hans eller hennes stedfortreder, skal lede drøftingene. Han eller hun kan gi uttrykk for sin oppfatning, men kan ikke delta i avstemningen.Uten hensyn til om partene godtar eller forkaster den foreslåtte løsningen, er den endelig og kan ikke endres.
+2\. Meglingsprosedyren innledes ved en anmodning fra en av medlemsstatene i tvisten til lederen for komiteen nedsatt ved artikkel 44. Ved å samtykke til å bruke megling forplikter de berørte medlemsstater seg til å ta størst mulig hensyn til den løsning som foreslås.
+
+Lederen for komiteen skal utpeke tre medlemmer av komiteen som representerer tre medlemsstater som ikke er innblandet i tvisten. Disse skal ta imot partenes argumenter skriftlig eller muntlig og etter drøfting foreslå en løsning innen en måned, om nødvendig etter avstemning.
+
+Komiteens leder, eller hans eller hennes stedfortreder, skal lede drøftingene. Han eller hun kan gi uttrykk for sin oppfatning, men kan ikke delta i avstemningen.
+
+Uten hensyn til om partene godtar eller forkaster den foreslåtte løsningen, er den endelig og kan ikke endres.
 
 ### Kapittel IX. Overgangsbestemmelser og sluttbestemmelser
 
@@ -2788,7 +3592,11 @@ Dersom en søknad er inngitt etter datoen angitt i artikkel 49 annet ledd, skal 
 
 ### Art 42. Beregning av frister
 
-Fristene fastsatt i denne forordning beregnes på følgende måte:Dersom en frist uttrykt i dager, uker eller måneder skal regnes fra det tidspunkt der en hendelse inntreffer eller en handling foretas, skal den dag da hendelsen inntreffer eller handlingen foretas, ikke tas med i beregningen av fristen.En frist som er uttrykt i uker eller måneder, utløper ved utgangen av den dag i fristens siste uke eller måned som faller på samme ukedag eller samme dato som den dag da den hendelse inntraff eller den handling ble foretatt som fristen regnes fra. Dersom en frist er uttrykt i måneder og den dag da fristen skulle utløpe ikke forekommer i den siste måneden, skal fristen utløpe ved utløpet av den siste dagen i måneden.Ved beregning av fristene medregnes lørdager og søndager og lovbestemte fri- og helligdager i de berørte medlemsstater.
+Fristene fastsatt i denne forordning beregnes på følgende måte:
+
+1. Dersom en frist uttrykt i dager, uker eller måneder skal regnes fra det tidspunkt der en hendelse inntreffer eller en handling foretas, skal den dag da hendelsen inntreffer eller handlingen foretas, ikke tas med i beregningen av fristen.
+2. En frist som er uttrykt i uker eller måneder, utløper ved utgangen av den dag i fristens siste uke eller måned som faller på samme ukedag eller samme dato som den dag da den hendelse inntraff eller den handling ble foretatt som fristen regnes fra. Dersom en frist er uttrykt i måneder og den dag da fristen skulle utløpe ikke forekommer i den siste måneden, skal fristen utløpe ved utløpet av den siste dagen i måneden.
+3. Ved beregning av fristene medregnes lørdager og søndager og lovbestemte fri- og helligdager i de berørte medlemsstater.
 
 ### Art 43. Geografisk virkeområde
 
@@ -2798,7 +3606,9 @@ Når det gjelder Den franske republikk, får bestemmelsene i denne forordning an
 
 1\. Kommisjonen skal bistås av en komité. Komiteen skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
 
-2\. Når det vises til dette nummer, skal artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) få anvendelse.Dersom komiteen ikke avgir noen uttalelse, skal Kommisjonen ikke vedta forslaget til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) kommer til anvendelse.
+2\. Når det vises til dette nummer, skal artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) få anvendelse.
+
+Dersom komiteen ikke avgir noen uttalelse, skal Kommisjonen ikke vedta forslaget til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) kommer til anvendelse.
 
 ### Art 45. Utøvelse av delegasjon
 
@@ -2844,7 +3654,11 @@ Henvisninger i denne forordning til forordning [(EU) nr. 603/2013](eu/32013r0603
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i medlemsstatene i henhold til traktatene.
 
-1 Rådsforordning [(EF) nr. 2725/2000](eu/32000r2725) av 11. desember 2000 om opprettelse av «Eurodac» for sammenligning av fingeravtrykk med henblikk på effektiv anvendelse av Dublin- konvensjonen (EFT L 316 av 15.12.2000, s. 1).2 Rådsdirektiv [2003/9/EF](eu/32003l0009) av 27. januar 2003 om fastsettelse av minstestandarder for mottak av asylsøkere (EUT L 31 av 6.2.2003, s. 18).3 Rådsdirektiv [2005/85/EF](eu/32005l0085) av 1. desember 2005 om minstestandarder for prosedyrer for tildeling og tilbaketrekking av flyktningstatus (EUT L 326 av 6.2.2003, s. 13).
+1 Rådsforordning [(EF) nr. 2725/2000](eu/32000r2725) av 11. desember 2000 om opprettelse av «Eurodac» for sammenligning av fingeravtrykk med henblikk på effektiv anvendelse av Dublin- konvensjonen (EFT L 316 av 15.12.2000, s. 1).
+
+2 Rådsdirektiv [2003/9/EF](eu/32003l0009) av 27. januar 2003 om fastsettelse av minstestandarder for mottak av asylsøkere (EUT L 31 av 6.2.2003, s. 18).
+
+3 Rådsdirektiv [2005/85/EF](eu/32005l0085) av 1. desember 2005 om minstestandarder for prosedyrer for tildeling og tilbaketrekking av flyktningstatus (EUT L 326 av 6.2.2003, s. 13).
 
 ### Vedlegg I. Opphevede forordninger (som nevnt i artikkel 48)
 

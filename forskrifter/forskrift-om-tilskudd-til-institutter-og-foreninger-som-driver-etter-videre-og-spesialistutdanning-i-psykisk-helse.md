@@ -34,7 +34,11 @@ Det kan gis tilskudd til institutter og foreninger som driver etter-, videre- og
 
 Tilskuddsmottaker skal innen 1. mars året etter det året tilskuddet gjelder for, rapportere til Helsedirektoratet på fastsatt skjema via Altinn.
 
-Rapporteringen skal inneholderapport med informasjon om måloppnåelse ut fra ordningens formålregnskap som er oppstilt og sammenlignet med budsjettrevisorattestasjon og revisorkontroll, dersom spesifisert i tilskuddsvedtaket.
+Rapporteringen skal inneholde
+
+1. rapport med informasjon om måloppnåelse ut fra ordningens formål
+2. regnskap som er oppstilt og sammenlignet med budsjett
+3. revisorattestasjon og revisorkontroll, dersom spesifisert i tilskuddsvedtaket.
 
 Foreligger det ikke nøyaktige opplysninger om måloppnåelsen under bokstav a, er omtrentlige anslag tilstrekkelig.
 
@@ -42,7 +46,18 @@ Foreligger det ikke nøyaktige opplysninger om måloppnåelsen under bokstav a, 
 
 En søknad om tilskudd skal sendes Helsedirektoratet på fastsatt skjema via Altinn. Søknaden skal sendes innen fristen som fremgår i utlysingen av tilskuddsordningen.
 
-Søknaden skalangi søkers kontaktinformasjonbeskrive tiltak det søkes om tilskudd til, med mål og fremdriftsplanangi søknadsbeløpinneholde et budsjett for tiltaksperiodenangi tilskudd søkeren har fått innvilget eller har søkt om fra andre instanserangi egenfinansiering av tiltaketbeskrive søkerens organisasjonsform med fullstendig organisasjonsoversikt som viser moder-, søster- og datterorganisasjonerangi eventuelt samarbeid med andre aktører om gjennomføringen av tiltaketoppgi planlagte interne og eksterne kontrolltiltak for å sikre korrekt rapportering og måloppnåelsedersom søkeren fikk tilskudd foregående år, dokumentere at rapporteringen fra foregående år er godkjent.
+Søknaden skal
+
+1. angi søkers kontaktinformasjon
+2. beskrive tiltak det søkes om tilskudd til, med mål og fremdriftsplan
+3. angi søknadsbeløp
+4. inneholde et budsjett for tiltaksperioden
+5. angi tilskudd søkeren har fått innvilget eller har søkt om fra andre instanser
+6. angi egenfinansiering av tiltaket
+7. beskrive søkerens organisasjonsform med fullstendig organisasjonsoversikt som viser moder-, søster- og datterorganisasjoner
+8. angi eventuelt samarbeid med andre aktører om gjennomføringen av tiltaket
+9. oppgi planlagte interne og eksterne kontrolltiltak for å sikre korrekt rapportering og måloppnåelse
+10. dersom søkeren fikk tilskudd foregående år, dokumentere at rapporteringen fra foregående år er godkjent.
 
 ## § 5. Søknadsbehandlingen
 
@@ -68,7 +83,11 @@ Helsedirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i
 
 ## § 9. Stans i utbetaling av tilskudd og krav om tilbakebetaling
 
-Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkertilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtakettilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
+Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersom
+
+1. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søker
+2. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket
+3. tilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
 
 ## § 10. Ikrafttredelse
 

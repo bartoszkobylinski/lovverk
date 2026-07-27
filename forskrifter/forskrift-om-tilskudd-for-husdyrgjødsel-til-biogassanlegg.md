@@ -15,7 +15,7 @@ xml_hash: "305a3a3f06612e12ee25925d59dca907c022187ce974961029a812af5b9b551c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,7 +63,11 @@ Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra 
 | Mjølkegeit1 | 311 |
 | Hest1 | 1296 |
 
-1 Oppgitt faktor gjelder gjødselmengde per årsdyr.2 Oppgitt faktor gjelder gjødselmengde per slaktede dyr.3 Oppgitt faktor gjelder gjødselmengde per slaktede eller leverte dyr.
+1 Oppgitt faktor gjelder gjødselmengde per årsdyr.
+
+2 Oppgitt faktor gjelder gjødselmengde per slaktede dyr.
+
+3 Oppgitt faktor gjelder gjødselmengde per slaktede eller leverte dyr.
 
 Dersom det omsøkte volum per år overstiger det beløp som er avsatt til ordningen, reduseres tilskuddssatsen relativt slik at forbruket tilpasses bevilgningen.
 

@@ -15,7 +15,7 @@ xml_hash: "5b01e06a39ea9189838db4b38bca4f1f4df08b3d226206b37e6bb672cc807b57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,11 +82,39 @@ For opptak til alle studier ved MF vitenskapelig høyskole som omfattes av denne
 
 ### § 6. Opptakskrav til mastergrad
 
-Opptakskrav til mastergrad: Søker må oppfylle krav fastsatt i [forskrift 2. juli 2002 nr. 738](forskrift/2002-07-02-738) om krav til mastergrad.Disiplinbasert mastergrad av to års varighet (120 studiepoeng):For å bli tatt opp til et disiplinbasert masterstudium må studenten haoppnådd bachelorgrad eller tilsvarende, ogoppfylle andre faglige krav som måtte være fastsatt i programplanen for det aktuelle masterstudiet.Som del av opptaksgrunnlaget eller et utvidet opptaksgrunnlag kreves eksamen i en fordypningsenhet på til sammen minst 80 studiepoeng innenfor samme fagområde som mastergraden.Gjennomsnittet må være C (eventuelt 2,7) eller bedre i den fordypningsenhet som inngår som opptaksgrunnlag for mastergrad.Erfaringsbasert mastergrad av ett og et halvt års varighet (90 studiepoeng):For å bli tatt opp til et erfaringsbasert masterstudium må studenten ha ett av følgende fullførte utdanningsløp:bachelorgradcand.mag.-gradannen grad eller utdanningsløp av minimum 3 års omfangannen utdanning som er vurdert som jevngod med en av de ovennevnte.Som del av opptaksgrunnlaget eller et utvidet opptaksgrunnlag kreves eksamen i til sammen minst 60 studiepoeng innenfor samme fagområde som mastergraden.I tillegg kreves minst 2 års relevant yrkespraksis. Institusjonen vurderer hva som er relevant yrkespraksis.Mastergrad av fem års varighet (300 studiepoeng):For å bli tatt opp til et masterstudium av fem års varighet må studenten ha generell studiekompetanse eller tilsvarende.
+Opptakskrav til mastergrad: Søker må oppfylle krav fastsatt i [forskrift 2. juli 2002 nr. 738](forskrift/2002-07-02-738) om krav til mastergrad.
+
+1. Disiplinbasert mastergrad av to års varighet (120 studiepoeng):
+
+   For å bli tatt opp til et disiplinbasert masterstudium må studenten ha
+
+   1. oppnådd bachelorgrad eller tilsvarende, og
+   2. oppfylle andre faglige krav som måtte være fastsatt i programplanen for det aktuelle masterstudiet.
+
+   Som del av opptaksgrunnlaget eller et utvidet opptaksgrunnlag kreves eksamen i en fordypningsenhet på til sammen minst 80 studiepoeng innenfor samme fagområde som mastergraden.
+
+   Gjennomsnittet må være C (eventuelt 2,7) eller bedre i den fordypningsenhet som inngår som opptaksgrunnlag for mastergrad.
+2. Erfaringsbasert mastergrad av ett og et halvt års varighet (90 studiepoeng):
+
+   For å bli tatt opp til et erfaringsbasert masterstudium må studenten ha ett av følgende fullførte utdanningsløp:
+
+   1. bachelorgrad
+   2. cand.mag.-grad
+   3. annen grad eller utdanningsløp av minimum 3 års omfang
+   4. annen utdanning som er vurdert som jevngod med en av de ovennevnte.
+
+   Som del av opptaksgrunnlaget eller et utvidet opptaksgrunnlag kreves eksamen i til sammen minst 60 studiepoeng innenfor samme fagområde som mastergraden.
+
+   I tillegg kreves minst 2 års relevant yrkespraksis. Institusjonen vurderer hva som er relevant yrkespraksis.
+3. Mastergrad av fem års varighet (300 studiepoeng):
+
+   For å bli tatt opp til et masterstudium av fem års varighet må studenten ha generell studiekompetanse eller tilsvarende.
 
 ### § 7. Opptakskrav til cand.theol.-studiet – høyere grad
 
-For å bli tatt opp til/fortsette på høyere grads studier av profesjonsutdanningen i teologi (cand.theol.) må studenten haoppnådd bachelorgrad i teologi i samsvar med kravene stilt til lavere grads studier av profesjonsutdanningen i teologi (cand.theol.).
+For å bli tatt opp til/fortsette på høyere grads studier av profesjonsutdanningen i teologi (cand.theol.) må studenten ha
+
+1. oppnådd bachelorgrad i teologi i samsvar med kravene stilt til lavere grads studier av profesjonsutdanningen i teologi (cand.theol.).
 
 Gjennomsnittet for bachelorgraden må være C (eventuelt 2,7) eller bedre. MF vitenskapelig høyskole avgjør hvilke emner som skal inngå i beregningsgrunnlaget.
 
@@ -133,7 +161,15 @@ I henhold til forskrift om opptak til grunnutdanninger ved universiteter og høy
 
 ### § 13. Tap av studierett
 
-1. En student kan miste sin studierett på et studium hun eller han er tatt opp til i følgende tilfeller:Dersom en student ikke er registrert som student eller har bekreftet sin utdanningsplan og betalt semesteravgift første semester etter opptak, og ikke har fått innvilget overføring av studieplassen til et senere år eller semester.Dersom en student unnlater å registrere seg eller bekrefte sin utdanningsplan for det aktuelle studiet i to semestre, og ikke på forhånd har søkt om permisjon.Dersom en student 2 år etter opptak eller senere i studiet over en periode på minst 2 år har hatt en studieprogresjon som er lavere enn 50 % av normert studieprogresjon for programmet som studenten er tatt opp til.Ved beregning av studieprogresjonen inngår ikke forsinkelser på grunn av innvilget utsatt studiestart, innvilgede permisjoner eller midlertidig utestenging etter [universitets- og høyskoleloven](lov/2005-04-01-15).Dersom en student har strøket 2 ganger på samme praksisperiode/kliniske studier (jf. [§ 18](forskrift/2005-11-02-1367/§18)) og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.Dersom en student har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne. Jf. [lov om universiteter og høyskoler § 4-7](lov/2005-04-01-15/§4-7) 1 b og [§ 4-8](lov/2005-04-01-15/§4-8). Se også [§ 36](forskrift/2005-11-02-1367/§36).
+1. En student kan miste sin studierett på et studium hun eller han er tatt opp til i følgende tilfeller:
+
+   1. Dersom en student ikke er registrert som student eller har bekreftet sin utdanningsplan og betalt semesteravgift første semester etter opptak, og ikke har fått innvilget overføring av studieplassen til et senere år eller semester.
+   2. Dersom en student unnlater å registrere seg eller bekrefte sin utdanningsplan for det aktuelle studiet i to semestre, og ikke på forhånd har søkt om permisjon.
+   3. Dersom en student 2 år etter opptak eller senere i studiet over en periode på minst 2 år har hatt en studieprogresjon som er lavere enn 50 % av normert studieprogresjon for programmet som studenten er tatt opp til.
+
+      Ved beregning av studieprogresjonen inngår ikke forsinkelser på grunn av innvilget utsatt studiestart, innvilgede permisjoner eller midlertidig utestenging etter [universitets- og høyskoleloven](lov/2005-04-01-15).
+   4. Dersom en student har strøket 2 ganger på samme praksisperiode/kliniske studier (jf. [§ 18](forskrift/2005-11-02-1367/§18)) og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.
+   5. Dersom en student har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne. Jf. [lov om universiteter og høyskoler § 4-7](lov/2005-04-01-15/§4-7) 1 b og [§ 4-8](lov/2005-04-01-15/§4-8). Se også [§ 36](forskrift/2005-11-02-1367/§36).
 2. Ved vurdering av om en student skal miste studieretten etter punkt 1 bokstav c, skal det legges vekt på hvilke grunner studenten har for å ikke ha avlagt eksamener i samsvar med utdanningsplanen eller studie-/fagplanen.
 3. Studenter som mister studieretten etter punkt 1 bokstav b, c eller d, kan søke nytt opptak til studiet ved MF vitenskapelig høyskole etter tre år, såframt overordnede bestemmelser gir anledning til dette.
 4. Institusjonen, i samråd med programleder for den aktuelle utdanningen/graden, fatter vedtak om tap av studierett. Vedtak fattet før frist for registrering og oppmelding eller bekrefting av utdanningsplan gjelder med virkning fra og med det aktuelle semesteret. Vedtak fattet etter denne fristen gjelder med virkning fra og med påfølgende semester.
@@ -170,13 +206,24 @@ I henhold til forskrift om opptak til grunnutdanninger ved universiteter og høy
 
 1. Studenter og privatister skal betale semesteravgift i samsvar med lov om studentsamskipnader med forskrifter. Studenter og privatister skal videre betale egenbetaling fastsatt av styret.
 2. Studenten er selv ansvarlig for å holde seg orientert om tid og sted for eksamen.
-3. En student som er tatt opp til studier av 60 studiepoengs omfang eller mer skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og institusjonen.Utdanningsplanen skal angi partenes viktigste rettigheter og plikter. Studiesjefen gir nærmere retningslinjer, herunder om utdanningsplanens form, lagring og arkivering; om frist og framgangsmåte for endring av planen, etc. Utdanningsplanen skal være inngått i løpet av studentens første semester. Studentene skal bekrefte utdanningsplanen for hvert semester innen fastsatt frist, herunder bekrefte undervisnings- og eksamensmelding for det aktuelle semesterets emner. En students undervisnings- og eksamensmelding er ikke gyldig før semesteravgiften er betalt.
-4. Mastergradsstudenter og studenter på profesjonsstudiet i teologi skal i tillegg undertegne avhandlingskontrakt det semesteret avhandlingsarbeidet påbegynnes for å kunne melde seg opp til et avhandlingsemne.Studentens rett til oppfølging og tilrettelegging underveis i utdanningen er betinget av at studentens forpliktelser etter utdanningsplanen og mastergradskontrakten blir overholdt.
+3. En student som er tatt opp til studier av 60 studiepoengs omfang eller mer skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og institusjonen.
+
+   Utdanningsplanen skal angi partenes viktigste rettigheter og plikter. Studiesjefen gir nærmere retningslinjer, herunder om utdanningsplanens form, lagring og arkivering; om frist og framgangsmåte for endring av planen, etc. Utdanningsplanen skal være inngått i løpet av studentens første semester. Studentene skal bekrefte utdanningsplanen for hvert semester innen fastsatt frist, herunder bekrefte undervisnings- og eksamensmelding for det aktuelle semesterets emner. En students undervisnings- og eksamensmelding er ikke gyldig før semesteravgiften er betalt.
+4. Mastergradsstudenter og studenter på profesjonsstudiet i teologi skal i tillegg undertegne avhandlingskontrakt det semesteret avhandlingsarbeidet påbegynnes for å kunne melde seg opp til et avhandlingsemne.
+
+   Studentens rett til oppfølging og tilrettelegging underveis i utdanningen er betinget av at studentens forpliktelser etter utdanningsplanen og mastergradskontrakten blir overholdt.
 5. Studenten melder seg normalt selv opp til ordinær eksamen ved å bekrefte utdanningsplanen. Studenter som ikke har utdanningsplan, må semesterregistrere seg og melde seg opp til eksamen over StudWeb innen fastsatt frist. Semesterregistrering og eksamensoppmelding forutsetter at semesteravgift er betalt.
 6. Studenter som tar ny eller utsatt eksamen, må selv melde seg opp innen nærmere fastsatte frister.
 7. Privatister skal i tillegg til semesteravgift betale eksamensavgift i samsvar med vedtak av styret selv og innen fastsatt frist.
 8. Institusjonen kan fastsette særskilt påmeldingsfrist for privatister og for påmelding til åpne studier eller emner.
-9. Institusjonen kan dispensere fra fristene i følgende tilfelle:dersom det er gjort avgjørende feil fra institusjonens sidedersom det har vært dødsfall i studentens nærmeste familie, eller ved dokumentert sykdom hos studenten selv eller i nær familie eller ved andre uforutsette hindringer som har gjort det umulig å overholde fristenvedkommende eksamen vil føre fram til avsluttet grad eller avsluttet studieprogrami andre særlige tilfelle.Omstendigheter som nevnt i bokstav a-d ovenfor må dokumenteres. Sykdom og fødsel må dokumenteres med erklæring fra lege eller psykolog.
+9. Institusjonen kan dispensere fra fristene i følgende tilfelle:
+
+   1. dersom det er gjort avgjørende feil fra institusjonens side
+   2. dersom det har vært dødsfall i studentens nærmeste familie, eller ved dokumentert sykdom hos studenten selv eller i nær familie eller ved andre uforutsette hindringer som har gjort det umulig å overholde fristen
+   3. vedkommende eksamen vil føre fram til avsluttet grad eller avsluttet studieprogram
+   4. i andre særlige tilfelle.
+
+   Omstendigheter som nevnt i bokstav a-d ovenfor må dokumenteres. Sykdom og fødsel må dokumenteres med erklæring fra lege eller psykolog.
 
 ### § 16. Vilkår for oppmelding til eksamen
 
@@ -191,7 +238,15 @@ Fagrådet kan gi regler om arbeidskrav/studiekrav, obligatoriske oppgaver, krav 
 
 ### § 18. Veiledet praksis og antall forsøk
 
-For program der gjennomføringen av praksis er gjenstand for en faglig vurdering, gjelder følgende:Studenten har rett til kontinuerlig veiledning og tilbakemelding, slik at han/hun hele tiden er orientert om hvordan han/hun fungerer i forhold til læringsmålene for praksisperioden.Dersom det på et tidspunkt i en veiledet praksisperiode kan være tvil om studenten vil kunne nå læringsmålene og bestå vurderingen, skal studenten kalles inn til et møte mellom de berørte parter (student, veileder, praksisleder). Studenten skal i møtet gis skriftlig melding/varsel om at det er tvil om studenten vil kunne oppfylle målene og bestå praksisperioden. Dette møtet skal avholdes på et tidspunkt som gir studenten mulighet til å vise tilfredsstillende praksis den siste del av perioden for å bestå.For hver praksisperiode skal det foretas avsluttende vurdering i forhold til læringsmålene for praksisperioden. Vurderingen skal bygge på vurdering underveis og eventuelle praktiske prøver. Vurderingsresultatet og beskrivelsen av hva som er vurdert skal være underskrevet av student, veileder og praksisleder. Studenten skal ha kopi av den skriftlige vurderingen.Rektor oppnevner et praksisutvalg som skal fatte endelig vedtak om ikke bestått praksis.Får en student vurderingen «ikke bestått» på en veiledet praksisperiode, må praksisperioden eller deler av denne tas om igjen. Får studenten vurdert samme praksisperiode til «ikke bestått» to ganger, må studiet normalt avbrytes, jf. [§ 13](forskrift/2005-11-02-1367/§13) punkt 1 d.Dersom det foreligger særskilte grunner, kan studenten søke fagrådet selv eller et utvalg med medlemmer fra fagrådet om å få tilrettelagt en tredje og siste praksisperiode dersom nasjonale planer gir anledning til dette.Dersom det etter varslingstidspunktet, jf. punkt 2, oppstår forhold som er av en slik art at det utvilsomt ville føre til at praksisperioden ble underkjent dersom det hadde oppstått tidligere, skal det likevel kunne føre til at praksisperioden blir vurdert til «ikke bestått».
+For program der gjennomføringen av praksis er gjenstand for en faglig vurdering, gjelder følgende:
+
+1. Studenten har rett til kontinuerlig veiledning og tilbakemelding, slik at han/hun hele tiden er orientert om hvordan han/hun fungerer i forhold til læringsmålene for praksisperioden.
+2. Dersom det på et tidspunkt i en veiledet praksisperiode kan være tvil om studenten vil kunne nå læringsmålene og bestå vurderingen, skal studenten kalles inn til et møte mellom de berørte parter (student, veileder, praksisleder). Studenten skal i møtet gis skriftlig melding/varsel om at det er tvil om studenten vil kunne oppfylle målene og bestå praksisperioden. Dette møtet skal avholdes på et tidspunkt som gir studenten mulighet til å vise tilfredsstillende praksis den siste del av perioden for å bestå.
+3. For hver praksisperiode skal det foretas avsluttende vurdering i forhold til læringsmålene for praksisperioden. Vurderingen skal bygge på vurdering underveis og eventuelle praktiske prøver. Vurderingsresultatet og beskrivelsen av hva som er vurdert skal være underskrevet av student, veileder og praksisleder. Studenten skal ha kopi av den skriftlige vurderingen.
+4. Rektor oppnevner et praksisutvalg som skal fatte endelig vedtak om ikke bestått praksis.
+5. Får en student vurderingen «ikke bestått» på en veiledet praksisperiode, må praksisperioden eller deler av denne tas om igjen. Får studenten vurdert samme praksisperiode til «ikke bestått» to ganger, må studiet normalt avbrytes, jf. [§ 13](forskrift/2005-11-02-1367/§13) punkt 1 d.
+6. Dersom det foreligger særskilte grunner, kan studenten søke fagrådet selv eller et utvalg med medlemmer fra fagrådet om å få tilrettelagt en tredje og siste praksisperiode dersom nasjonale planer gir anledning til dette.
+7. Dersom det etter varslingstidspunktet, jf. punkt 2, oppstår forhold som er av en slik art at det utvilsomt ville føre til at praksisperioden ble underkjent dersom det hadde oppstått tidligere, skal det likevel kunne føre til at praksisperioden blir vurdert til «ikke bestått».
 
 ## Kapittel V: Programplan og emnebeskrivelser
 
@@ -199,13 +254,42 @@ For program der gjennomføringen av praksis er gjenstand for en faglig vurdering
 
 Studiene ved MF vitenskapelig høyskole er organisert i studier og studieprogram, som består av flere emner. Alle studieprogram skal ha en programplan. Alle emner skal ha en emnebeskrivelse.
 
-1\. *Programplaner skal fastsette:*Graden og studieprogrammets omfang, innhold og opptakskrav, og studieprogrammets mål og utforming og dets ulike studieretninger.Omtale av programmets studieretning gjør greie forstudieretningens særpreg og overordnede mål,hvordan studiet er bygd opp, og hvordan emnene faglig hører sammen,for bachelorstudier: Krav til fordypningsenhet,ulike krav til sammensetning og rekkefølge av emner,hvilke emner som må eller kan inngå i programmet,studiets organisering og arbeidsformer,karakterskala og vurderingskriterier,andre bestemmelser om kvalitetssikringen av studiet.
+1\. *Programplaner skal fastsette:*
 
-2\. *Emnebeskrivelser angir*Tittel og omfang.Studiekrav, vurderingsformer, mål og innhold, organisering og arbeidsform.Eventuelle krav eller anbefalinger om forkunnskaper for hvert emne og for hvilke studieprogram og programplaner emnet kan inngå i.Når emnet undervises, og når det er mulig å avlegge eksamen i emnet.Eventuelle særlige vilkår for å gå opp til eksamen, slik som obligatoriske skriftlige arbeider, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.Emnene skal ha et omfang på minimum 5 studiepoeng og normalt ha en emnestørrelse som er delelig med 5. Til alle emner hvor det inngår studiekrav utover skriftlig eksamen, skal det før semesterstart utarbeides et emneark/emnehefte som beskriver hvordan studenten skal kunne oppfylle gjeldende studiekrav.
+Graden og studieprogrammets omfang, innhold og opptakskrav, og studieprogrammets mål og utforming og dets ulike studieretninger.
 
-3\. *Emnekatalog*Ved institusjonen utarbeides det én eller flere emnekatalog(er) som gir en faglig og organisatorisk beskrivelse av alle emner som det kan undervises og avlegges eksamen i ved MF vitenskapelig høyskole. I tillegg inneholder emnekatalogen lister over tillatte hjelpemidler.
+Omtale av programmets studieretning gjør greie for
 
-4\. *Generelle bestemmelser om emner*100-emner kan normalt bare inngå i bachelorgraden. Unntatt fra dette er språkemner og enkelte redskapsfag (som sosiologi eller psykologi), som kan inngå i mastergraden når de fungerer som faglig spesialisering.200-emner inngår normalt i bachelorgraden, men kan også i visse tilfeller inngå i mastergraden.500- og 600-emner kan normalt bare inngå i høyere grads studier.Nærmere bestemmelser kan fastsettes i programplanene.
+1. studieretningens særpreg og overordnede mål,
+2. hvordan studiet er bygd opp, og hvordan emnene faglig hører sammen,
+3. for bachelorstudier: Krav til fordypningsenhet,
+4. ulike krav til sammensetning og rekkefølge av emner,
+5. hvilke emner som må eller kan inngå i programmet,
+6. studiets organisering og arbeidsformer,
+7. karakterskala og vurderingskriterier,
+8. andre bestemmelser om kvalitetssikringen av studiet.
+
+2\. *Emnebeskrivelser angir*
+
+1. Tittel og omfang.
+2. Studiekrav, vurderingsformer, mål og innhold, organisering og arbeidsform.
+3. Eventuelle krav eller anbefalinger om forkunnskaper for hvert emne og for hvilke studieprogram og programplaner emnet kan inngå i.
+4. Når emnet undervises, og når det er mulig å avlegge eksamen i emnet.
+5. Eventuelle særlige vilkår for å gå opp til eksamen, slik som obligatoriske skriftlige arbeider, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.
+
+Emnene skal ha et omfang på minimum 5 studiepoeng og normalt ha en emnestørrelse som er delelig med 5. Til alle emner hvor det inngår studiekrav utover skriftlig eksamen, skal det før semesterstart utarbeides et emneark/emnehefte som beskriver hvordan studenten skal kunne oppfylle gjeldende studiekrav.
+
+3\. *Emnekatalog*
+
+Ved institusjonen utarbeides det én eller flere emnekatalog(er) som gir en faglig og organisatorisk beskrivelse av alle emner som det kan undervises og avlegges eksamen i ved MF vitenskapelig høyskole. I tillegg inneholder emnekatalogen lister over tillatte hjelpemidler.
+
+4\. *Generelle bestemmelser om emner*
+
+1. 100-emner kan normalt bare inngå i bachelorgraden. Unntatt fra dette er språkemner og enkelte redskapsfag (som sosiologi eller psykologi), som kan inngå i mastergraden når de fungerer som faglig spesialisering.
+2. 200-emner inngår normalt i bachelorgraden, men kan også i visse tilfeller inngå i mastergraden.
+3. 500- og 600-emner kan normalt bare inngå i høyere grads studier.
+
+Nærmere bestemmelser kan fastsettes i programplanene.
 
 > Endret ved [forskrift 30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
 
@@ -221,9 +305,19 @@ Endringer i en vedtatt programplan eller emnebeskrivelse kan først gjelde fra n
 
 I emner der flere eksamener inngår, skal som hovedregel alle være bestått for at emnet kan anses bestått. Det kan gjøres unntak fra dette i programplan/emnebeskrivelse, og det skal da angis hvor mange, eventuelt også hvilke, eksamener som skal være bestått for at hele emnet kan anses bestått.
 
-For emner med studiekrav som skal være fullført før avsluttende vurdering skal det i emnebeskrivelsen gis regler om:Antallet arbeider som skal være med i mappenArten og omfanget av de enkelte arbeideneHvor mange av arbeidene som skal danne grunnlag for eksamenskarakteren, og hvordan disse skal velges ut, eventuelt om studenten selv velger hvilket/hvilke arbeider som skal danne grunnlag for karakterenInnbyrdes vekt dersom to eller flere arbeider skal danne grunnlag for karakterenTillatte hjelpemidler ved avsluttende eksamen.
+For emner med studiekrav som skal være fullført før avsluttende vurdering skal det i emnebeskrivelsen gis regler om:
 
-Det skal i et emneark/emnehefte, som skal foreligge senest ved semesterstart, gis regler om:Rekkefølge for innlevering av de enkelte arbeidene, ev. om studenten selv kan velge rekkefølgenInnleveringsfrist for de enkelte arbeideneI hvilken form eller på hvilket medium arbeidene skal leveres inn.
+1. Antallet arbeider som skal være med i mappen
+2. Arten og omfanget av de enkelte arbeidene
+3. Hvor mange av arbeidene som skal danne grunnlag for eksamenskarakteren, og hvordan disse skal velges ut, eventuelt om studenten selv velger hvilket/hvilke arbeider som skal danne grunnlag for karakteren
+4. Innbyrdes vekt dersom to eller flere arbeider skal danne grunnlag for karakteren
+5. Tillatte hjelpemidler ved avsluttende eksamen.
+
+Det skal i et emneark/emnehefte, som skal foreligge senest ved semesterstart, gis regler om:
+
+1. Rekkefølge for innlevering av de enkelte arbeidene, ev. om studenten selv kan velge rekkefølgen
+2. Innleveringsfrist for de enkelte arbeidene
+3. I hvilken form eller på hvilket medium arbeidene skal leveres inn.
 
 > Endret ved [forskrift 26 nov 2007 nr. 1530](forskrift/2007-11-26-1530) (i kraft 1 jan 2008).
 
@@ -262,7 +356,11 @@ Ordinær eksamen gjennomføres med den vurderingsform og i det semester som er a
 7. Studenter som tidligere har bestått eksamen i emnet og kandidater som ikke hadde gyldig fravær ved siste ordinære eksamen, har ikke adgang til ny eller utsatt eksamen. Se dog punkt 4.
 8. Under forutsetning av at studenten har studierett til emnet, er det anledning til å framstille seg til en eksamen som alt er bestått, dersom kandidaten i mellomtiden ikke har bestått eksamen som faglig bygger på den aktuelle eksamenen. Studenter som ønsker å forbedre karakteren på en allerede avlagt eksamen henvises til ny ordinær eksamen i faget.
 9. Studenter som ikke gjennomfører eller ikke består ny eller utsatt eksamen, har ikke krav på å få gå opp på nytt før ved neste ordinære eksamen. Dette gjelder også studenter som har hatt gyldig fravær ved ny eller utsatt eksamen.
-10. For eksamen under masternivå gjelder det pensum og den eksamensform som til enhver tid er fastsatt for denne eksamen. Unntatt fra dette er utsatt eksamen, hvor det er samme pensum og eksamensform som ved den foregående ordinære eksamen.For eksamen på masternivå kan en student gå opp til eksamen i gammelt pensum og eksamensform i ett år etter at nytt pensum eller ny ordning ble innført. Dersom en eksamen/et emne opphører kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil to år.Det må søkes om å få avlegge eksamen etter tidligere ordning. Søknaden sendes studiesjefen.
+10. For eksamen under masternivå gjelder det pensum og den eksamensform som til enhver tid er fastsatt for denne eksamen. Unntatt fra dette er utsatt eksamen, hvor det er samme pensum og eksamensform som ved den foregående ordinære eksamen.
+
+    For eksamen på masternivå kan en student gå opp til eksamen i gammelt pensum og eksamensform i ett år etter at nytt pensum eller ny ordning ble innført. Dersom en eksamen/et emne opphører kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil to år.
+
+    Det må søkes om å få avlegge eksamen etter tidligere ordning. Søknaden sendes studiesjefen.
 11. Bestemmelsene om ny og utsatt eksamen gjelder også hjemmeeksamener, mappevurderinger og lignende vurderingsformer, så langt dette er mulig. Studiesjef kan fastsette andre ordninger for gjennomføring av ny og utsatt eksamen i slike tilfeller.
 12. Dersom en kandidat på grunn av akutt sykdom eller andre særskilte grunner ikke kan oppfylle de studiekrav som gjelder for den vurderingsformen vedkommende har meldt seg opp til, gis det anledning til å gå opp til alternativ vurderingsform der emnebeskrivelsen åpner for slik. Dersom det ikke finnes alternative vurderingsformer skal institusjonen så langt det er praktisk mulig sørge for at studenter med gyldig forfall får gjennomføre studiekravene i løpet av semesteret.
 13. Institusjonen kan i særlige tilfeller avholde ekstraordinær eksamen for studenter som av tvingende grunner ikke kan vente til neste ordinære eksamen, og som ikke fyller kravene til å delta på utsatt eksamen eller på ny eksamen. Det arrangeres ikke utsatt eksamen eller ny eksamen i forbindelse med ekstraordinære eksamener.
@@ -320,7 +418,12 @@ Dersom en eksamen/et emne opphører, kan studenten gå opp etter det pensum som 
 
 ### § 33. Grunnregler om eksamen
 
-En eksamen anses påbegynt:*Ved klausureksamen:* Straks eksamensoppgaven er utlevert.*Ved hjemmeeksamen:* På det tidspunktet som MF vitenskapelig høyskole har oppgitt at eksamensoppgaven kan avhentes, nedlastes eller lignende.*Ved mappevurdering:* Ved utløpet av innleveringsfristen for det første av arbeidene som inngår i mappevurderingen. Dette gjelder også om det i emnebeskrivelsen er fastsatt at studenten selv kan velge hvilke(t) av arbeidene som skal danne grunnlag for karakteren.*Ved andre eksamensformer:* Når det aktuelle emnet, den aktuelle praksisperioden etc. er påbegynt, eller når det er angitt i emnebeskrivelsen.
+En eksamen anses påbegynt:
+
+1. *Ved klausureksamen:* Straks eksamensoppgaven er utlevert.
+2. *Ved hjemmeeksamen:* På det tidspunktet som MF vitenskapelig høyskole har oppgitt at eksamensoppgaven kan avhentes, nedlastes eller lignende.
+3. *Ved mappevurdering:* Ved utløpet av innleveringsfristen for det første av arbeidene som inngår i mappevurderingen. Dette gjelder også om det i emnebeskrivelsen er fastsatt at studenten selv kan velge hvilke(t) av arbeidene som skal danne grunnlag for karakteren.
+4. *Ved andre eksamensformer:* Når det aktuelle emnet, den aktuelle praksisperioden etc. er påbegynt, eller når det er angitt i emnebeskrivelsen.
 
 > Endret ved [forskrift 30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
 
@@ -340,7 +443,9 @@ Besvarelsen følger normalt språket som er fastsatt for studieprogrammet. Studi
 4. Vesker o.l. som er medbrakt til eksamenslokalet må innleveres før oppgaven deles ut.
 5. Mobiltelefon, personsøker eller annet kommunikasjonsutstyr skal være avslått og ikke tilgjengelig for studenten.
 6. Det skal være ro og orden i eksamenslokalet slik at ingen blir forstyrret i sitt arbeide med oppgaven. Overtredelse kan medføre øyeblikkelig utvisning fra eksamenslokalet.
-7. Emnebeskrivelsen fastsetter hvilke hjelpemidler som er tillatt brukt under den enkelte eksamen.Hjelpemidler ut over dette kan ikke benyttes under eksamen.
+7. Emnebeskrivelsen fastsetter hvilke hjelpemidler som er tillatt brukt under den enkelte eksamen.
+
+   Hjelpemidler ut over dette kan ikke benyttes under eksamen.
 8. Studentene kan arbeide med oppgaven innenfor den oppsatte tiden. Utover dette gis det 15 minutter til å klargjøre/ordne papirene for innlevering.
 9. Kladdeark kan ikke leveres inn som del av besvarelsen.
 10. Studiesjefen organiserer lærers tilstedeværelse i eksamenslokalet under skriftlig eksamen.
@@ -371,7 +476,10 @@ Klagenemnda kan annullere eksamen eller annen vurdering, eller godkjenning av em
 
 ### § 38. Karakter
 
-Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter; entenSom «Bestått» eller «Ikke bestått», ev. «Pass/Fail», ellerSom en bokstav, etter skalaen A, B, C, D, E, F. De ulike verdiene skal gis etter følgende allmenne kriterier:
+Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter; enten
+
+1. Som «Bestått» eller «Ikke bestått», ev. «Pass/Fail», eller
+2. Som en bokstav, etter skalaen A, B, C, D, E, F. De ulike verdiene skal gis etter følgende allmenne kriterier:
 
 *Bokmål*
 
@@ -408,21 +516,53 @@ Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren s
 
 ### § 39. Vekting av karakter, gjennomsnittskarakter og hovedkarakter
 
-1\. *Vekting av karakter*Den vekt den enkelte karakter skal gis ved utregning av gjennomsnittskarakter i et emne eller en emnegruppe, eller ved utregning av hovedkarakter. Vekten skal angis i programplanen eller emnebeskrivelsen som en brøk av den samlede karakteren.
+1\. *Vekting av karakter*
 
-2\. *Gjennomsnittskarakter*En samlet karakter for et emne eller en emnegruppe. For emner skal gjennomsnittskarakteren regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A = «65»; B = «64»; C = «63»; D = «62»; E = «61». Disse tallverdiene brukes for at de ikke kan forveksles med tallkarakterer tilhørende de tidligere karaktersystemer ved MF vitenskapelig høyskole.For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til emnebeskrivelsen, og alle produktene summeres og divideres med det totale antall studiepoeng.Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.For emnegrupper regnes gjennomsnittskarakteren ut på tilsvarende måte, likevel slik at tallekvivalenten for hvert emne som inngår, skal multipliseres med emnets studiepoeng, og produktsummen divideres med det totale antallet studiepoeng som inngår i gjennomsnittskarakteren.Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.Gjennomsnittskarakteren angis som et bokstavsymbol dersom minst 75% av eksamenene i emnet eller emnegruppen, regnet etter vekt, er gitt bokstavkarakter. Ellers skal gjennomsnittkarakteren angis som «Bestått» eller «Ikke bestått».
+Den vekt den enkelte karakter skal gis ved utregning av gjennomsnittskarakter i et emne eller en emnegruppe, eller ved utregning av hovedkarakter. Vekten skal angis i programplanen eller emnebeskrivelsen som en brøk av den samlede karakteren.
 
-3\. *Hovedkarakter*Hovedkarakter er en samlet karakter som kan gis ved fullført grad eller utdanningsprogram. Det skal angis i programplanen om det gis hovedkarakter eller ikke. For mastergrader som bygger på fullført bachelorgrad eller tilsvarende, skal som hovedregel bare emner som inngår i mastergradsstudiet selv telle med i hovedkarakteren.Utregning av hovedkarakter skjer etter de samme prinsipper som utregningen av gjennomsnittskarakter. Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.
+2\. *Gjennomsnittskarakter*
 
-4\. *Justerende/korrigerende muntlig*Med justerende/korrigerende muntlig menes en muntlig prøve som ifølge emnebeskrivelsen foretas i forlengelse av en forutgående skriftlig prøving eller skriftlig arbeid.Etter at justerende/korrigerende muntlig er gjennomført, kan karakteren som er satt på den forutgående skriftlige prøven eller det forutgående skriftlige arbeidet, normalt justeres opp eller ned med én karakter. Hvis den muntlige prøven vurderes som ikke bestått, får studenten umiddelbart en ny oppgave. Slik ny muntlig prøve kan kun anvendes ved justerende/korrigerende muntlig. Vurderes også denne prøven som ikke bestått, vil også emnet i sin helhet vurderes som ikke bestått. Ved manglende frammøte til muntlig uten gyldig fraværsgrunn, skal den samlede karakteren settes til «F».
+En samlet karakter for et emne eller en emnegruppe. For emner skal gjennomsnittskarakteren regnes ut slik:
+
+1. Hver bokstavkarakter erstattes av en tallekvivalent, slik at A = «65»; B = «64»; C = «63»; D = «62»; E = «61». Disse tallverdiene brukes for at de ikke kan forveksles med tallkarakterer tilhørende de tidligere karaktersystemer ved MF vitenskapelig høyskole.
+2. For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til emnebeskrivelsen, og alle produktene summeres og divideres med det totale antall studiepoeng.
+3. Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.
+4. Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.
+
+For emnegrupper regnes gjennomsnittskarakteren ut på tilsvarende måte, likevel slik at tallekvivalenten for hvert emne som inngår, skal multipliseres med emnets studiepoeng, og produktsummen divideres med det totale antallet studiepoeng som inngår i gjennomsnittskarakteren.
+
+Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.
+
+Gjennomsnittskarakteren angis som et bokstavsymbol dersom minst 75% av eksamenene i emnet eller emnegruppen, regnet etter vekt, er gitt bokstavkarakter. Ellers skal gjennomsnittkarakteren angis som «Bestått» eller «Ikke bestått».
+
+3\. *Hovedkarakter*
+
+Hovedkarakter er en samlet karakter som kan gis ved fullført grad eller utdanningsprogram. Det skal angis i programplanen om det gis hovedkarakter eller ikke. For mastergrader som bygger på fullført bachelorgrad eller tilsvarende, skal som hovedregel bare emner som inngår i mastergradsstudiet selv telle med i hovedkarakteren.
+
+Utregning av hovedkarakter skjer etter de samme prinsipper som utregningen av gjennomsnittskarakter. Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.
+
+4\. *Justerende/korrigerende muntlig*
+
+Med justerende/korrigerende muntlig menes en muntlig prøve som ifølge emnebeskrivelsen foretas i forlengelse av en forutgående skriftlig prøving eller skriftlig arbeid.
+
+Etter at justerende/korrigerende muntlig er gjennomført, kan karakteren som er satt på den forutgående skriftlige prøven eller det forutgående skriftlige arbeidet, normalt justeres opp eller ned med én karakter. Hvis den muntlige prøven vurderes som ikke bestått, får studenten umiddelbart en ny oppgave. Slik ny muntlig prøve kan kun anvendes ved justerende/korrigerende muntlig. Vurderes også denne prøven som ikke bestått, vil også emnet i sin helhet vurderes som ikke bestått. Ved manglende frammøte til muntlig uten gyldig fraværsgrunn, skal den samlede karakteren settes til «F».
 
 > Endret ved [forskrift 30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
 
 ### § 40. Sensur. Ekstern evaluering av vurderingen og vurderingsordningen
 
 1. For gjennomføring av sensur gjelder [lov 8. mars 2024 nr. 9 om universiteter og høyskoler § 11-7](lov/2024-03-08-9/§11-7).
-2. Ekstern evaluering av vurderingsordningen kan gjennomføres for deler av et studium/studieprogram eller for ett eller flere studier eller studieprogram samlet. Det skal gjennomføres ekstern evaluering av vurderingsordningen innenfor alle studier og studieprogram minst hvert 5. år.Rektor fastsetter nærmere retningslinjer for ekstern evaluering av vurderingsordningen der dette også sees i sammenheng med rutiner i kvalitetssikringssystemet.Rektor kan fastsette utfyllende regler for bruk av ekstern sensor. Studiedirektøren har ansvar for at bruken av ekstern sensor koordineres og varierer over tid.Rektor oppnevner eksterne sensorer. Studiedirektøren oppnevner interne sensorer. Sensorer kan oppnevnes for en periode på inntil 4 år. Oppnevning skal gjelde både ordinær og påfølgende ny/utsatt eksamen. En intern eller ekstern sensor skal normalt ikke sensurere sammenhengende samme emne ved institusjonen i mer enn 6 år.
-3. Sensor må ha minst en av følgende kvalifikasjoner:være ansatt på høyskolelektor-/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivåi særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
+2. Ekstern evaluering av vurderingsordningen kan gjennomføres for deler av et studium/studieprogram eller for ett eller flere studier eller studieprogram samlet. Det skal gjennomføres ekstern evaluering av vurderingsordningen innenfor alle studier og studieprogram minst hvert 5. år.
+
+   Rektor fastsetter nærmere retningslinjer for ekstern evaluering av vurderingsordningen der dette også sees i sammenheng med rutiner i kvalitetssikringssystemet.
+
+   Rektor kan fastsette utfyllende regler for bruk av ekstern sensor. Studiedirektøren har ansvar for at bruken av ekstern sensor koordineres og varierer over tid.
+
+   Rektor oppnevner eksterne sensorer. Studiedirektøren oppnevner interne sensorer. Sensorer kan oppnevnes for en periode på inntil 4 år. Oppnevning skal gjelde både ordinær og påfølgende ny/utsatt eksamen. En intern eller ekstern sensor skal normalt ikke sensurere sammenhengende samme emne ved institusjonen i mer enn 6 år.
+3. Sensor må ha minst en av følgende kvalifikasjoner:
+
+   1. være ansatt på høyskolelektor-/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+   2. i særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
 4. Ekstern sensor skal ikke være ansatt i hel- eller deltidsstilling ved MF vitenskapelig høyskole i det gjeldende semester. Engasjerte forelesere/seminarholdere regnes som interne den tiden de mottar lønn fra institusjonen.
 5. Dersom to sensorer ikke blir enige om vurderingen av et innlevert arbeid, skal det oppnevnes en tredje intern eller ekstern sensor som fastsetter karakteren.
 6. Sensur kunngjøres på den måten institusjonen bestemmer.
@@ -443,7 +583,10 @@ Ved siden av de generelle, kvalitative beskrivelsene av vurderingskriterier i [�
 4. En student kan klage skriftlig over karakteren senest tre uker etter at sensuren er kunngjort, eller tre uker etter at begrunnelse er gitt. Dersom studenten har bedt om begrunnelse eller klaget over formelle feil ved eksamen løper klagefristen etter denne paragraf fra studenten har fått begrunnelse eller endelig avgjørelse av klagen foreligger.
 5. Ved klage over karakterfastsetting vil eksamen bli sensurert av to nye sensorer, hvorav minst en ekstern sensor. Ved ny karakterfastsetting kan endring skje både til gunst og ugunst for klager. Hvis den endelige karakter er fastsatt på grunnlag av både skriftlig og muntlig prøve, og klager får medhold i klage på sensuren over den skriftlige del av eksamen, holdes ny muntlig prøve til fastsetting av endelig karakter.
 6. Bedømmelse av muntlig prestasjon, bedømmelse av praktisk ferdighet eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages.
-7. Følgende bestemmelser gjelder for ny sensur etter klage:Dersom det gis én samlet karakter for alle deleksamenene som eksamenen består av, skal alle deleksamenene forelegges ny sensur.Dersom det gis separate delkarakterer underveis i studiet for de ulike deleksamenene som inngår i emnet, skal den enkelte deleksamen eller de enkelte deleksamen(ene) som studenten påklager, forelegges ny sensur. Kandidaten må selv spesifisere hvilken eller hvilke deler av eksamen som påklages.
+7. Følgende bestemmelser gjelder for ny sensur etter klage:
+
+   1. Dersom det gis én samlet karakter for alle deleksamenene som eksamenen består av, skal alle deleksamenene forelegges ny sensur.
+   2. Dersom det gis separate delkarakterer underveis i studiet for de ulike deleksamenene som inngår i emnet, skal den enkelte deleksamen eller de enkelte deleksamen(ene) som studenten påklager, forelegges ny sensur. Kandidaten må selv spesifisere hvilken eller hvilke deler av eksamen som påklages.
 8. For klage over gruppeeksamen gjelder lov. [8. mars 2024 nr. 9 om universiteter og høyskoler § 11-10 annet ledd](lov/2024-03-08-9/§11-10/ledd/2).
 9. Det kan ikke framsettes klage på en vurdering som kun er en tilbakemelding på læringsprosessen fra lærer/veileder, og som ikke resulterer i en karakterfastsettelse.
 
@@ -464,7 +607,9 @@ Ved siden av de generelle, kvalitative beskrivelsene av vurderingskriterier i [�
 
 ### § 45. Krav til innhold og sammensetning av bachelorgrad
 
-1. For å oppnå bachelorgraden må studenten ha avlagt eksamener som til sammen utgjør minst 180 studiepoeng.I de 180 studiepoengene inngår examen philosophicum og examen facultatum, hver på 10 studiepoeng. I de 180 studiepoengene skal det inngå en fordypningsenhet på til sammen minst 80 studiepoeng. Hva som er spesialisering, er definert i de enkelte programplanene. For å få tildelt Bachelorgraden i teologi må 160 av de avlagte studiepoengene være innen fagområdene teologi og kristendomskunnskap/KRL. Øvrige spesifikasjoner og krav er angitt i studieprogrammenes programplaner.
+1. For å oppnå bachelorgraden må studenten ha avlagt eksamener som til sammen utgjør minst 180 studiepoeng.
+
+   I de 180 studiepoengene inngår examen philosophicum og examen facultatum, hver på 10 studiepoeng. I de 180 studiepoengene skal det inngå en fordypningsenhet på til sammen minst 80 studiepoeng. Hva som er spesialisering, er definert i de enkelte programplanene. For å få tildelt Bachelorgraden i teologi må 160 av de avlagte studiepoengene være innen fagområdene teologi og kristendomskunnskap/KRL. Øvrige spesifikasjoner og krav er angitt i studieprogrammenes programplaner.
 2. For å få bachelorgraden utstedt fra MF vitenskapelig høyskole, er det et vilkår at minst 60 av de avlagte studiepoengene som danner grunnlag for graden, er avlagt ved MF vitenskapelig høyskole.
 
 > Endret ved [forskrifter 26 nov 2007 nr. 1530](forskrift/2007-11-26-1530) (i kraft 1 jan 2008), [30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
@@ -496,7 +641,11 @@ Programplanen kan angi andre krav som forutsetning for innpasning av ekstern utd
 
 For oppnådd grad utstedes vitnemål. Ved oppnådd bachelorgrad utstedes normalt vitnemål med tilleggsbetegnelse som angir på hvilket studieområde kandidaten har sin faglige spesialisering.
 
-Bachelorgraden ved MF vitenskapelig høyskole kan ha følgende tilleggsbetegnelser:For studenter som har fordypningsenhet med faglig tyngde innen kultur og samfunnsfag, dvs. innen fagområdene teologi og kristendomskunnskap/KRL, innen historisk-filosofiske – samfunnsvitenskapelige, pedagogiske –, medisinske – og juridiske fag, angis betegnelsen *bachelor i kultur- og samfunnsfag* på vitnemålet. Emnene som inngår i graden dokumenteres ved karakterutskrift.For studenter som oppfyller kravene i punkt 1, og som i tillegg har særskilt faglig spesialisering tatt ved institusjonen som inngår i grunnlaget for graden, angis betegnelsen *bachelor i kultur- og samfunnsfag med spesialisering i [spesialiseringens navn]* på vitnemålet. Emnene som inngår i graden dokumenteres ved karakterutskrift.For studenter som har bestått emner med 160 studiepoeng innen fagområdene teologi og kristendomskunnskap/KRL angis betegnelsen *bachelor i teologi*. Øvrige spesifikasjoner og krav er angitt i studieprogrammets programplaner.
+Bachelorgraden ved MF vitenskapelig høyskole kan ha følgende tilleggsbetegnelser:
+
+1. For studenter som har fordypningsenhet med faglig tyngde innen kultur og samfunnsfag, dvs. innen fagområdene teologi og kristendomskunnskap/KRL, innen historisk-filosofiske – samfunnsvitenskapelige, pedagogiske –, medisinske – og juridiske fag, angis betegnelsen *bachelor i kultur- og samfunnsfag* på vitnemålet. Emnene som inngår i graden dokumenteres ved karakterutskrift.
+2. For studenter som oppfyller kravene i punkt 1, og som i tillegg har særskilt faglig spesialisering tatt ved institusjonen som inngår i grunnlaget for graden, angis betegnelsen *bachelor i kultur- og samfunnsfag med spesialisering i [spesialiseringens navn]* på vitnemålet. Emnene som inngår i graden dokumenteres ved karakterutskrift.
+3. For studenter som har bestått emner med 160 studiepoeng innen fagområdene teologi og kristendomskunnskap/KRL angis betegnelsen *bachelor i teologi*. Øvrige spesifikasjoner og krav er angitt i studieprogrammets programplaner.
 
 Ved oppnådd mastergrad av 90/120 studiepoengs omfang angis betegnelsen *erfaringsbasert master i [studieprogrammets navn]* på vitnemålet. I tillegg oppgis eventuell studieretning, samt tittel på det selvstendige arbeidet. Emnene som inngår i graden dokumenteres ved karakterutskrift.
 

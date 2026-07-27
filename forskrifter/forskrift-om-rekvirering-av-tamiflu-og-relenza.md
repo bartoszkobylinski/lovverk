@@ -36,7 +36,11 @@ Journalene skal oppbevares i minst 10 år. De skal oppbevares slik at de ikke ko
 
 ## § 5. Melding om bivirkninger fra rekvirenter av oseltamivir og zanamivir
 
-Rekvirenter etter denne forskriften skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av oseltamivir eller zanamivir har ført til:dødelige eller livstruende bivirkningerbivirkninger som har gitt varige alvorlige følgeruventede eller nye bivirkninger.
+Rekvirenter etter denne forskriften skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av oseltamivir eller zanamivir har ført til:
+
+1. dødelige eller livstruende bivirkninger
+2. bivirkninger som har gitt varige alvorlige følger
+3. uventede eller nye bivirkninger.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 

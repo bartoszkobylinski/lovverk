@@ -98,7 +98,13 @@ Dersom organisasjonen gjør endringer på områder som er omfattet av erklæring
 
 ### § 15. Sikkerhetssystem
 
-En operativ organisasjon skal ha et sikkerhetssystem utviklet etter en standard for kvalitetssystem som er akseptert av Luftfartstilsynet. Sikkerhetssystemet skal ta utgangspunkt i en risikoanalyse som identifiserer konkrete farer, risikoer og behov for kompenserende tiltak. Sikkerhetssystemet skal minst omfatte:en beskrivelse av organisasjonen,mekanismer som sikrer at organisasjonen har operativ kontroll med at hver flyging gjennomføres i henhold til regelverket og sikkerhetssystemet,kravene til opplæring av personell, inkludert oppfølging av kompetanse og godkjenning av flygere,et system for rapportering av avvik,beskrivelse av metodene for etterlevelse og forbedring av sikkerhetssystemet.
+En operativ organisasjon skal ha et sikkerhetssystem utviklet etter en standard for kvalitetssystem som er akseptert av Luftfartstilsynet. Sikkerhetssystemet skal ta utgangspunkt i en risikoanalyse som identifiserer konkrete farer, risikoer og behov for kompenserende tiltak. Sikkerhetssystemet skal minst omfatte:
+
+1. en beskrivelse av organisasjonen,
+2. mekanismer som sikrer at organisasjonen har operativ kontroll med at hver flyging gjennomføres i henhold til regelverket og sikkerhetssystemet,
+3. kravene til opplæring av personell, inkludert oppfølging av kompetanse og godkjenning av flygere,
+4. et system for rapportering av avvik,
+5. beskrivelse av metodene for etterlevelse og forbedring av sikkerhetssystemet.
 
 ### § 16. Dimensjonering av organisasjonen
 
@@ -114,7 +120,12 @@ All dokumentasjon knyttet til driften av organisasjonen skal lagres i minst fem 
 
 En operativ organisasjon som har til formål å fremme bevaring og drift av luftfartøy, kan tilby opplevelsesflyging med landbaserte fly. Opplevelsesflyging er en flyging med avgang fra og landing på samme landingsplass, der hovedformålet med flygingen er å gi passasjerene en opplevelse av luftfartøyet.
 
-Opplevelsesflyging kan kun utføres medtidligere militære fly og kopier av slike,sivile fly der produksjonen ble stanset før 1975,sivile fly som har deltatt i spesielle hendelser eller som har spilt en viktig rolle i utviklingen av sivil luftfart, uavhengig av produksjonsår,restaurerte fly som nevnt over.
+Opplevelsesflyging kan kun utføres med
+
+1. tidligere militære fly og kopier av slike,
+2. sivile fly der produksjonen ble stanset før 1975,
+3. sivile fly som har deltatt i spesielle hendelser eller som har spilt en viktig rolle i utviklingen av sivil luftfart, uavhengig av produksjonsår,
+4. restaurerte fly som nevnt over.
 
 ### § 19. Krav om tillatelse
 

@@ -86,15 +86,29 @@ I denne forskrift menes med uttrykket «representant» alle medlemmer i WEAOs st
 
 ### § 4-2. (Representanters immunitet og privilegier)
 
-Representanter som er til stede på WEAO-møter som avholdes i Norge, er på tjenestereise i Norge eller deltar i WEAOs arbeid i Norge, innrømmes følgende immunitet og privilegier når de er i tjeneste eller er på reise til eller fra møtestedet:samme immunitet mot arrest og pågripelse som fremmed diplomatisk personell;immunitet med hensyn til rettsforfølgning for tjenestehandlinger;ukrenkelighet for alle offisielle papirer og dokumenter som er knyttet til deres tjeneste;rett til å bruke kode, og til å sende og motta korrespondanse ved kurér eller forseglet forsendelse;samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell;den samme immunitet og de samme lettelser med hensyn til sin personlige bagasje som fremmed diplomatisk personell.
+Representanter som er til stede på WEAO-møter som avholdes i Norge, er på tjenestereise i Norge eller deltar i WEAOs arbeid i Norge, innrømmes følgende immunitet og privilegier når de er i tjeneste eller er på reise til eller fra møtestedet:
+
+1. samme immunitet mot arrest og pågripelse som fremmed diplomatisk personell;
+2. immunitet med hensyn til rettsforfølgning for tjenestehandlinger;
+3. ukrenkelighet for alle offisielle papirer og dokumenter som er knyttet til deres tjeneste;
+4. rett til å bruke kode, og til å sende og motta korrespondanse ved kurér eller forseglet forsendelse;
+5. samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell;
+6. den samme immunitet og de samme lettelser med hensyn til sin personlige bagasje som fremmed diplomatisk personell.
 
 ### § 4-3. (Immunitet og privilegier for representanters kontorpersonale)
 
-Representanters offisielle kontorpersonale innrømmes følgende immunitet og privilegier når de er i tjeneste eller på reise til eller fra møtestedet:immunitet med hensyn til rettsforfølgning for tjenestehandlinger;ukrenkelighet for alle offisielle papirer og dokumenter som er knyttet til deres tjeneste;samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell.
+Representanters offisielle kontorpersonale innrømmes følgende immunitet og privilegier når de er i tjeneste eller på reise til eller fra møtestedet:
+
+1. immunitet med hensyn til rettsforfølgning for tjenestehandlinger;
+2. ukrenkelighet for alle offisielle papirer og dokumenter som er knyttet til deres tjeneste;
+3. samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell.
 
 ### § 4-4. (Immunitet og privilegier for administrerende direktør og internasjonal stab)
 
-WEAOs administrerende direktør og internasjonale stab innrømmes følgende immunitet og privilegier:immunitet mot rettsforfølgning med hensyn til tjenestehandlinger og muntlige og skriftlige uttalelser gitt i tjenesten og innenfor deres kompetanse;samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell.
+WEAOs administrerende direktør og internasjonale stab innrømmes følgende immunitet og privilegier:
+
+1. immunitet mot rettsforfølgning med hensyn til tjenestehandlinger og muntlige og skriftlige uttalelser gitt i tjenesten og innenfor deres kompetanse;
+2. samme privilegier med hensyn til valutalettelser som fremmed diplomatisk personell.
 
 ## Kap. 5 Ikrafttreden
 

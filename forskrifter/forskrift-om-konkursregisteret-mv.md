@@ -40,7 +40,31 @@ Konkursregisteret føres i et edb-basert registreringssystem og er felles for he
 
 ### § 3
 
-Opplysningene nevnt i nr. 1 til 13 nedenfor registreres i Konkursregisteret på konkursboets organisasjonsnummer.Har skyldneren drevet et enkeltpersonforetak registrert i Enhetsregisteret eller Foretaksregisteret, registreres skyldnerens navn, adresse og fødselsnummer (11 siffer), foretaksnavn, adresse og organisasjonsnummer.Ved konkurs i andre typer foretak som har vært registrert i Foretaksregisteret, registreres foretakets organisasjonsnummer, nåværende og eventuelt tidligere navn, adresse siste år, bransje, dato for kjennelse om konkursåpning, navn på den retten som har åpnet konkurs og konkursboets saksnummer.For andre skyldnere registreres skyldnerens navn, stilling, siste boligadresse og fødselsnummer (11 siffer).Registeret skal inneholde opplysning om konkursen er åpnet etter oppbud eller etter begjæring fra en fordringshaver, eller om boet er et tvangsavviklingsbo etter [aksjeloven 13. juni 1997 nr. 44 § 16-18](lov/1997-06-13-44/§16-18) første ledd eller [allmennaksjeloven 13. juni 1997 nr. 45 § 16-18](lov/1997-06-13-45/§16-18) første ledd.Registeret skal inneholde opplysning om registrert stiftelsesår for foretak og andre sammenslutninger, samt om ansvarskapitalens størrelse.Er skyldneren et selskap skal navn, fødselsnummer (11 siffer) og siste boligadresse til den eller dem som har vært daglig leder i selskapet de siste fem årene før konkursen og til dem som har vært styreledere og styremedlemmer de siste to årene før konkursen registreres. Det skal registreres når styreledernes og styremedlemmenes verv ble registrert i Foretaksregisteret, og eventuelt når de fratrådte. Registeret skal inneholde opplysning om hvem som har vært selskapets revisor de siste to årene før konkursen med angivelse av revisornummer og kontoradresse. Hadde selskapet ikke revisor, skal regnskapsførers navn, personnummer og eventuelt organisasjonsnummer og adresse registreres.Registeret skal inneholde opplysning om daglig leder, styreleder eller innehaver i foretak som er konkurs har lederansvar eller styreverv i andre foretak på konkursåpningstidspunktet.Ved konkurs i aksjeselskap stiftet senere enn fem år før konkursåpningen, skal stifterne registreres. Personlige stiftere registreres med navn, boligadresse og fødselsnummer, og foretak registreres med firma, kontoradresse og organisasjonsnummer.Ved konkurs i aksjeselskap skal registeret inneholde opplysninger om eiere som eier eller som i løpet av de siste fem årene før konkursåpningen har eid mer enn 20% av aksjene. Personlige eiere registreres med navn, boligadresse og fødselsnummer. Foretak registreres med firma, kontoradresse og organisasjonsnummer.Registeret skal inneholde opplysning om bostyrers navn, fødselsnummer, kontor- og postadresse, telefon- og telefaksnummer. Dersom borevisor er oppnevnt, registreres dennes navn, kontor- og postadresse, telefon og telefaksnummer.Dato for avsluttet bobehandling skal registreres. Registeret skal inneholde opplysning om med hvilken hjemmel bobehandlingen er innstilt. Er det foretatt utlodning etter § 128, skal dividenden angis.Registeret skal inneholde opplysninger om bomassen og fordringsmassen, herunder hvilken del av fordringsmassen som er pantesikret.Registeret skal inneholde opplysning om bostyrerens innberetning er oversendt påtalemyndigheten. Er innberetningen oversendt, skal politidistriktet og datoen for oversendelse registreres.Det skal registreres hvem som i praksis har fungert som daglig leder og styreleder, dersom det fremgår av bostyrers innberetning at dette er en annen enn det som fremkommer av nr. 4. Vedkommendes fødselsnummer og adresse skal registreres.Dersom det er ilagt konkurskarantene, skal følgende opplysninger registreres:navn, fødselsnummer (11 siffer) og siste boligadresse for den eller dem som er ilagt konkurskarantene,datoen for kjennelsen om konkurskarantene,karantenens utløpsdato,om kjennelsen innebærer at den som er ilagt karantene skal fjernes fra verv som nevnt i [konkursloven § 142](lov/1984-06-08-58/§142) fjerde ledd,en oversikt over eventuelle verv den som er ilagt konkurskarantene skal fjernes fra.
+Opplysningene nevnt i nr. 1 til 13 nedenfor registreres i Konkursregisteret på konkursboets organisasjonsnummer.
+
+1. Har skyldneren drevet et enkeltpersonforetak registrert i Enhetsregisteret eller Foretaksregisteret, registreres skyldnerens navn, adresse og fødselsnummer (11 siffer), foretaksnavn, adresse og organisasjonsnummer.
+
+   Ved konkurs i andre typer foretak som har vært registrert i Foretaksregisteret, registreres foretakets organisasjonsnummer, nåværende og eventuelt tidligere navn, adresse siste år, bransje, dato for kjennelse om konkursåpning, navn på den retten som har åpnet konkurs og konkursboets saksnummer.
+
+   For andre skyldnere registreres skyldnerens navn, stilling, siste boligadresse og fødselsnummer (11 siffer).
+2. Registeret skal inneholde opplysning om konkursen er åpnet etter oppbud eller etter begjæring fra en fordringshaver, eller om boet er et tvangsavviklingsbo etter [aksjeloven 13. juni 1997 nr. 44 § 16-18](lov/1997-06-13-44/§16-18) første ledd eller [allmennaksjeloven 13. juni 1997 nr. 45 § 16-18](lov/1997-06-13-45/§16-18) første ledd.
+3. Registeret skal inneholde opplysning om registrert stiftelsesår for foretak og andre sammenslutninger, samt om ansvarskapitalens størrelse.
+4. Er skyldneren et selskap skal navn, fødselsnummer (11 siffer) og siste boligadresse til den eller dem som har vært daglig leder i selskapet de siste fem årene før konkursen og til dem som har vært styreledere og styremedlemmer de siste to årene før konkursen registreres. Det skal registreres når styreledernes og styremedlemmenes verv ble registrert i Foretaksregisteret, og eventuelt når de fratrådte. Registeret skal inneholde opplysning om hvem som har vært selskapets revisor de siste to årene før konkursen med angivelse av revisornummer og kontoradresse. Hadde selskapet ikke revisor, skal regnskapsførers navn, personnummer og eventuelt organisasjonsnummer og adresse registreres.
+5. Registeret skal inneholde opplysning om daglig leder, styreleder eller innehaver i foretak som er konkurs har lederansvar eller styreverv i andre foretak på konkursåpningstidspunktet.
+6. Ved konkurs i aksjeselskap stiftet senere enn fem år før konkursåpningen, skal stifterne registreres. Personlige stiftere registreres med navn, boligadresse og fødselsnummer, og foretak registreres med firma, kontoradresse og organisasjonsnummer.
+7. Ved konkurs i aksjeselskap skal registeret inneholde opplysninger om eiere som eier eller som i løpet av de siste fem årene før konkursåpningen har eid mer enn 20% av aksjene. Personlige eiere registreres med navn, boligadresse og fødselsnummer. Foretak registreres med firma, kontoradresse og organisasjonsnummer.
+8. Registeret skal inneholde opplysning om bostyrers navn, fødselsnummer, kontor- og postadresse, telefon- og telefaksnummer. Dersom borevisor er oppnevnt, registreres dennes navn, kontor- og postadresse, telefon og telefaksnummer.
+9. Dato for avsluttet bobehandling skal registreres. Registeret skal inneholde opplysning om med hvilken hjemmel bobehandlingen er innstilt. Er det foretatt utlodning etter § 128, skal dividenden angis.
+10. Registeret skal inneholde opplysninger om bomassen og fordringsmassen, herunder hvilken del av fordringsmassen som er pantesikret.
+11. Registeret skal inneholde opplysning om bostyrerens innberetning er oversendt påtalemyndigheten. Er innberetningen oversendt, skal politidistriktet og datoen for oversendelse registreres.
+12. Det skal registreres hvem som i praksis har fungert som daglig leder og styreleder, dersom det fremgår av bostyrers innberetning at dette er en annen enn det som fremkommer av nr. 4. Vedkommendes fødselsnummer og adresse skal registreres.
+13. Dersom det er ilagt konkurskarantene, skal følgende opplysninger registreres:
+
+    1. navn, fødselsnummer (11 siffer) og siste boligadresse for den eller dem som er ilagt konkurskarantene,
+    2. datoen for kjennelsen om konkurskarantene,
+    3. karantenens utløpsdato,
+    4. om kjennelsen innebærer at den som er ilagt karantene skal fjernes fra verv som nevnt i [konkursloven § 142](lov/1984-06-08-58/§142) fjerde ledd,
+    5. en oversikt over eventuelle verv den som er ilagt konkurskarantene skal fjernes fra.
 
 Bestemmelsene i første ledd nr. 1 til 13 får anvendelse så langt de passer når registreringsenheten er et foretak som er under tvangsavvikling etter konkurslovens regler.
 
@@ -106,7 +130,16 @@ Registerføreren skal straks han mottar melding om forhold som skal kunngjøres 
 
 ### § 9a
 
-Straks det mottas melding om at konkurs er åpnet i skyldnerens bo, skal føreren av Konkursregisteret sende melding om konkursåpningen tilgrunnbokenVerdipapirsentralenLøsøreregisteretSkipsregisteretEnhetsregisteretForetaksregisteretRegnskapsregisteretAkvakulturregisteret.
+Straks det mottas melding om at konkurs er åpnet i skyldnerens bo, skal føreren av Konkursregisteret sende melding om konkursåpningen til
+
+1. grunnboken
+2. Verdipapirsentralen
+3. Løsøreregisteret
+4. Skipsregisteret
+5. Enhetsregisteret
+6. Foretaksregisteret
+7. Regnskapsregisteret
+8. Akvakulturregisteret.
 
 Meldingen etter første punktum skal fremsettes automatisk gjennom en elektronisk løsning som er godkjent av registerføreren.
 
@@ -142,7 +175,15 @@ Retten, føreren av Konkursregisteret og bostyreren kan ved behov sende melding 
 
 ### § 10
 
-Enhver kan få oppgitt følgende registrerte opplysninger fra Konkursregisteret:personer, foretak, stiftelser og andre sammenslutninger som er gått konkurs,aksjeselskaper, allmennaksjeselskaper og samvirkeforetak som tvangsavvikles etter konkurslovens regler,foretakets nåværende og eventuelle tidligere navn og adresse siste år, stilling eller bransje, grunnlag for konkursen, rettens navn, dato for konkursåpning eller kjennelse om tvangsoppløsning, saksnummer, bostyrer, borevisor, tid og sted for første skiftesamling, frist for fordringsanmeldelser og fristdagen,stiftere, eiere, daglig leder, styreleder og revisor eller regnskapsfører,om daglig leder og styrelederen har lederansvar eller styreverv i andre foretak,om ilagt konkurskarantene,dato for avsluttet bobehandling og om bobehandlingen er innstilt og med hvilken hjemmel, om det er foretatt utlodning og med hvilken dividende.
+Enhver kan få oppgitt følgende registrerte opplysninger fra Konkursregisteret:
+
+- personer, foretak, stiftelser og andre sammenslutninger som er gått konkurs,
+- aksjeselskaper, allmennaksjeselskaper og samvirkeforetak som tvangsavvikles etter konkurslovens regler,
+- foretakets nåværende og eventuelle tidligere navn og adresse siste år, stilling eller bransje, grunnlag for konkursen, rettens navn, dato for konkursåpning eller kjennelse om tvangsoppløsning, saksnummer, bostyrer, borevisor, tid og sted for første skiftesamling, frist for fordringsanmeldelser og fristdagen,
+- stiftere, eiere, daglig leder, styreleder og revisor eller regnskapsfører,
+- om daglig leder og styrelederen har lederansvar eller styreverv i andre foretak,
+- om ilagt konkurskarantene,
+- dato for avsluttet bobehandling og om bobehandlingen er innstilt og med hvilken hjemmel, om det er foretatt utlodning og med hvilken dividende.
 
 Ved forespørsel til registeret skal sikker identifikasjon oppgis. Ved forespørsel om en person er ilagt konkurskarantene, er det tilstrekkelig at det oppgis etternavn og ett fornavn. Konkursregisteret skal i så fall oppgi om personer med disse navnene er ilagt konkurskarantene, den enkeltes fødselsår og den enkeltes bostedskommune.
 
@@ -182,7 +223,12 @@ Føreren av Konkursregisteret administrerer kunngjøringer som skal inntas i Br�
 
 ### § 16
 
-Det skal være mulig for enhver å søke informasjon etter følgende søkekriterier i kunngjøringer inntatt i den elektroniske kunngjøringspublikasjonen:skyldnerens organisasjonsnummer eller fødselsnummer og navn,et bestemt tidsrom,et geografisk område,en bestemt næring.
+Det skal være mulig for enhver å søke informasjon etter følgende søkekriterier i kunngjøringer inntatt i den elektroniske kunngjøringspublikasjonen:
+
+1. skyldnerens organisasjonsnummer eller fødselsnummer og navn,
+2. et bestemt tidsrom,
+3. et geografisk område,
+4. en bestemt næring.
 
 > Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006).
 
@@ -204,7 +250,15 @@ Om konkursbo og tvangsavviklingsbo kan det abonneres på opplysninger om åpning
 
 Om gjeldsforhandlingsbo kan det abonneres på kunngjorte opplysninger om åpning av forhandling om frivillig gjeldsordning, åpning av tvangsakkord, opplysning om akkord etter [konkursloven § 53](lov/1984-06-08-58/§53) annet ledd, og om innstilling etter [konkursloven § 56](lov/1984-06-08-58/§56) annet ledd.
 
-Det kan abonneres etter følgende kriterier:alle konkurser,alle konkurser og tvangsavviklingsbo,alle konkurser, tvangsavviklingsbo og gjeldsforhandlingsbo,et geografisk område,en bestemt næring,skyldnerens organisasjonsnummer eller fødselsnummer,et bestemt tidsrom.
+Det kan abonneres etter følgende kriterier:
+
+1. alle konkurser,
+2. alle konkurser og tvangsavviklingsbo,
+3. alle konkurser, tvangsavviklingsbo og gjeldsforhandlingsbo,
+4. et geografisk område,
+5. en bestemt næring,
+6. skyldnerens organisasjonsnummer eller fødselsnummer,
+7. et bestemt tidsrom.
 
 > Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006).
 
@@ -268,7 +322,16 @@ Konkursregisteret kan ta betalt for abonnementene til selvkost for å dekke utgi
 
 ### § 25
 
-Begjæringer om kunngjøring av utenlandsk insolvensbehandling etter [konkursloven § 172](lov/1984-06-08-58/§172) første ledd må fremsettes på særskilt skjema på norsk eller engelsk fastsatt av Brønnøysundregistrene. I skjemaet skal det fylles uthvilken type insolvensbehandling det er tale omskyldnerens forretningsadresseforetaksnavnorganisasjonsnummer dersom skyldneren har slikt nummer i Norgeutenlandsk organisasjonsnummernavn og adresse på den som er oppnevnt som insolvensforvalternavn og adresse på den domstolen som behandler insolvensendato for åpningen av insolvensbehandlingen.
+Begjæringer om kunngjøring av utenlandsk insolvensbehandling etter [konkursloven § 172](lov/1984-06-08-58/§172) første ledd må fremsettes på særskilt skjema på norsk eller engelsk fastsatt av Brønnøysundregistrene. I skjemaet skal det fylles ut
+
+1. hvilken type insolvensbehandling det er tale om
+2. skyldnerens forretningsadresse
+3. foretaksnavn
+4. organisasjonsnummer dersom skyldneren har slikt nummer i Norge
+5. utenlandsk organisasjonsnummer
+6. navn og adresse på den som er oppnevnt som insolvensforvalter
+7. navn og adresse på den domstolen som behandler insolvensen
+8. dato for åpningen av insolvensbehandlingen.
 
 Vedlagt skjemaet skal det være en bekreftet kopi av oppnevnelsen av insolvensforvalteren eller en attest utstedt av oppnevningsorganet om oppnevnelsen og en bekreftet oversettelse til norsk eller engelsk. Begjæringen med vedlegg sendes Brønnøysundregistrene fortrinnsvis elektronisk, alternativt per post. Kunngjøringen skal inneholde slike opplysninger som nevnt i første ledd annet punktum.
 
@@ -280,7 +343,18 @@ Er opplysninger om utenlandsk insolvensbehandling for en skyldner allerede kunng
 
 ### § 26
 
-Er skyldneren et norskregistrert utenlandsk foretak, kan insolvensforvalter i utenlandsk konkurs eller tilsvarende som omfatter skyldnerens samlede formue, kreve at åpningen av insolvensbehandlingen registreres i Konkursregisteret. Dersom det fremsettes slik begjæring, sørger føreren av Konkursregisteret for at melding om at konkurs er åpnet i skyldnerens bo, tinglyses eller registreres i:Løsøreregisteret,Enhetsregisteret, dersom skyldnerens virksomhet er innført der,grunnboken, dersom skyldneren eier fast eiendom,Foretaksregisteret, dersom skyldnerens virksomhet er innført der,Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto,andre realregistre enn grunnboken, for så vidt skyldneren eier eiendeler som er registrert der,en verdipapirsentral, dersom det er registrert rettigheter der som bostyreren mener er omfattet av boets beslagsrett.Føreren av Konkursregisteret sender melding også til skattekontoret i samsvar med [skatteforvaltningsloven § 8-13](lov/2016-05-27-14/§8-13) tredje ledd.
+Er skyldneren et norskregistrert utenlandsk foretak, kan insolvensforvalter i utenlandsk konkurs eller tilsvarende som omfatter skyldnerens samlede formue, kreve at åpningen av insolvensbehandlingen registreres i Konkursregisteret. Dersom det fremsettes slik begjæring, sørger føreren av Konkursregisteret for at melding om at konkurs er åpnet i skyldnerens bo, tinglyses eller registreres i:
+
+1. Løsøreregisteret,
+2. Enhetsregisteret, dersom skyldnerens virksomhet er innført der,
+3. grunnboken, dersom skyldneren eier fast eiendom,
+4. Foretaksregisteret, dersom skyldnerens virksomhet er innført der,
+5. Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,
+6. Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto,
+7. andre realregistre enn grunnboken, for så vidt skyldneren eier eiendeler som er registrert der,
+8. en verdipapirsentral, dersom det er registrert rettigheter der som bostyreren mener er omfattet av boets beslagsrett.
+
+Føreren av Konkursregisteret sender melding også til skattekontoret i samsvar med [skatteforvaltningsloven § 8-13](lov/2016-05-27-14/§8-13) tredje ledd.
 
 Er skyldneren ikke et norskregistrert utenlandsk foretak, kan insolvensforvalter i slik insolvensbehandling som nevnt i første ledd kreve registrering i slike registre som nevnt i første ledd nr. 3, 6, 7 og 8 på de vilkårene som følger av disse bestemmelsene. Begjæringen fremsettes overfor Konkursregisteret, som videreformidler opplysningene om insolvensåpningen til de aktuelle registrene.
 

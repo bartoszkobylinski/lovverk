@@ -15,7 +15,7 @@ xml_hash: "0c6ae0f892a6870928433a2944c9abc44380d01af1973e91a703877b20894fa4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,14 @@ Med hjortedyr forstås alle hjortedyr, herunder rein, rådyr, hjort, elg og dåh
 
 ### § 4. Soner
 
-Denne forskriften gjelder tiltak i følgende soner:Nordfjella-sonen:kommunene Lærdal, Aurland og Hemsedal.kommunene Eidfjord, Hol og Ål nord for riksvei 7.kommunen Ulvik nordøst for elva Tysso til Stokkvatnet og til Espelandsvatnet.Hardangervidda-sonen: Geografisk avgrensning tilsvarende Hardangervidda villreinområdet sør for riksveg 7, se vedlegg.
+Denne forskriften gjelder tiltak i følgende soner:
+
+1. Nordfjella-sonen:
+
+   1. kommunene Lærdal, Aurland og Hemsedal.
+   2. kommunene Eidfjord, Hol og Ål nord for riksvei 7.
+   3. kommunen Ulvik nordøst for elva Tysso til Stokkvatnet og til Espelandsvatnet.
+2. Hardangervidda-sonen: Geografisk avgrensning tilsvarende Hardangervidda villreinområdet sør for riksveg 7, se vedlegg.
 
 > Endret ved [forskrifter 23 nov 2018 nr. 1768](forskrift/2018-11-23-1768), [13 juni 2019 nr. 724](forskrift/2019-06-13-724), [16 sep 2020 nr. 1777](forskrift/2020-09-16-1777), [9 juni 2021 nr. 1843](forskrift/2021-06-09-1843).
 
@@ -58,7 +65,12 @@ Det er forbudt å flytte levende hjortedyr ut av sonene. Forbudet gjelder ikke f
 
 Det er forbudt å flytte lav og plantemateriale som stammer fra sonene ut av sonene til bruk som fôr til hjortedyr.
 
-Det er forbudt å flytte hele eller deler av døde hjortedyr ut av sonene. Forbudet gjelder ikkekortvarig transitt fra en del av sonen til en annen del av sonen.utbeinet kjøtt, slakt av kalv, materiale som skal til avfallshåndtering etter avtale med Mattilsynet, og materiale til forskning eller prøvetaking.dersom negativt prøvesvar for Chronic Wasting Disease foreligger for dyret.slakt eller deler av slakt som holdes under smittevernfaglig forsvarlig kontroll av en jeger inntil negativt prøvesvar foreligger.
+Det er forbudt å flytte hele eller deler av døde hjortedyr ut av sonene. Forbudet gjelder ikke
+
+1. kortvarig transitt fra en del av sonen til en annen del av sonen.
+2. utbeinet kjøtt, slakt av kalv, materiale som skal til avfallshåndtering etter avtale med Mattilsynet, og materiale til forskning eller prøvetaking.
+3. dersom negativt prøvesvar for Chronic Wasting Disease foreligger for dyret.
+4. slakt eller deler av slakt som holdes under smittevernfaglig forsvarlig kontroll av en jeger inntil negativt prøvesvar foreligger.
 
 > Endret ved [forskrifter 6 juli 2018 nr. 1163](forskrift/2018-07-06-1163), [23 nov 2018 nr. 1768](forskrift/2018-11-23-1768), [13 juni 2019 nr. 724](forskrift/2019-06-13-724), [20 mars 2020 nr. 384](forskrift/2020-03-20-384), [9 juni 2021 nr. 1843](forskrift/2021-06-09-1843).
 
@@ -66,7 +78,13 @@ Det er forbudt å flytte hele eller deler av døde hjortedyr ut av sonene. Forbu
 
 I sonene er det forbudt å sette ut eller bruke salt til beitedyr utendørs. Salt omfatter salter og mineraler, herunder løssalt og slikkestein.
 
-Det er likevel tillatt å gi beitedyr salt fra en salteinnretning i normal beiteperiode dersomtildelingen av salt skjer på en måte som sikrer at det ikke lekker salter ut fra salteinnretningen direkte eller ved avrenningsalteinnretningen flyttes flere ganger gjennom perioden og minst så ofte at vegetasjonen på utsatte steder ikke slites bort, og det dokumenteres at flytting er gjennomført, for eksempel med mobilkamera, ogsalteinnretningen er plassert med en avstand på minimum 50 meter og maksimum 500 meter fra tidligere registrert og inngjerdet salteplass, eller Mattilsynet har gitt tillatelse til annen plassering.En registrert og inngjerdet salteplass som nevnt i første punktum bokstav c kan bare erstattes med én salteinnretning. Dokumentasjon som nevnt i første punktum bokstav b skal oppbevares i fem år og kunne forevises Mattilsynet på forespørsel.
+Det er likevel tillatt å gi beitedyr salt fra en salteinnretning i normal beiteperiode dersom
+
+1. tildelingen av salt skjer på en måte som sikrer at det ikke lekker salter ut fra salteinnretningen direkte eller ved avrenning
+2. salteinnretningen flyttes flere ganger gjennom perioden og minst så ofte at vegetasjonen på utsatte steder ikke slites bort, og det dokumenteres at flytting er gjennomført, for eksempel med mobilkamera, og
+3. salteinnretningen er plassert med en avstand på minimum 50 meter og maksimum 500 meter fra tidligere registrert og inngjerdet salteplass, eller Mattilsynet har gitt tillatelse til annen plassering.
+
+En registrert og inngjerdet salteplass som nevnt i første punktum bokstav c kan bare erstattes med én salteinnretning. Dokumentasjon som nevnt i første punktum bokstav b skal oppbevares i fem år og kunne forevises Mattilsynet på forespørsel.
 
 For Hardangervidda-sonen gjelder kravene i andre ledd første punktum bokstav c alle salteplasser som har vært benyttet i perioden 2015–2020, uavhengig av om de er registrert og inngjerdet.
 

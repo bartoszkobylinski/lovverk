@@ -197,7 +197,79 @@ under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité
 
 etter framgangsmåten fastsatt i traktatens artikkel 2512 og
 
-ut fra følgende betraktninger:Rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter3 er blitt betydelig endret en rekke ganger. Ettersom det skal gjøres ytterligere endringer, bør direktivet av klarhetshensyn i dette særlige tilfellet omarbeides til én enkelt tekst.En forordning er det riktige rettslige virkemiddelet siden den pålegger klare og detaljerte regler som ikke gir medlemsstatene rom for avvikende innarbeiding i nasjonal lovgivning. Dessuten sikrer en forordning at lovbestemte krav gjennomføres samtidig i hele Fellesskapet.Denne forordning tar sikte på å forenkle framgangsmåter og strømlinjeforme terminologi for derved å redusere den administrative byrden og tvetydigheter. Dessuten styrker den visse elementer av rammereglene for kosmetikk, for eksempel kontroll på markedet, med sikte på å sikre et høyt vernenivå for menneskers helse.Denne forordning harmoniserer på omfattende vis reglene i Fellesskapet for å oppnå et indre marked for kosmetiske produkter, samtidig som den sikrer et høyt vernenivå for menneskers helse.De miljømessige bekymringene som stoffer som brukes i kosmetiske produkter kan forårsake, er vurdert gjennom anvendelsen av europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) av 18. desember 2006 om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH), og om opprettelse av et europeisk kjemikaliebyrå,4 som muliggjør vurdering av miljøsikkerhet på tvers av sektorene.Denne forordning gjelder bare kosmetiske produkter, og ikke legemidler, medisinsk utstyr eller biocidprodukter. Denne avgrensningen følger særlig av den detaljerte definisjonen av kosmetiske produkter, som viser til både deres bruksområde og deres bruksformål.Vurderingen av hvorvidt et produkt er et kosmetisk produkt, må gjøres fra gang til gang, idet det tas hensyn til alle produktets egenskaper. Kosmetiske produkter kan omfatte krem, emulsjon, lotion, gel og olje til huden, ansiktsmasker, fargede underlag (i flytende og fast form og pudder), ansiktspudder, badepudder, talkum, toalettsåpe, deodorantsåpe, parfyme, eau de toilette og eau de cologne, bademidler (salt, skumbad, olje, gel), hårfjerningsmidler, deodoranter og antitranspirasjonsmidler, hårfargingsmidler, permanent- og uttrekningsvæsker samt hårleggemidler, fønmidler, hårvaskemidler (lotion, tørrsjampo og sjampo), hårbehandlingsprodukter (lotion, krem, olje), frisermidler (lotion, hårlakk, briljantin), barbermidler (krem, skum, lotion), ansikts- og øyesminke og deres rensemidler, leppestift, leppepomade mv., tann- og munnpleiemidler, neglelakk og midler til pleie av negler, midler til utvortes intim pleie, solbeskyttelsesmidler, bruningsmidler, hudblekemidler og rynkemidler.Kommisjonen bør definere grupper av kosmetiske produkter som er relevante for anvendelsen av denne forordning.Kosmetiske produkter bør være trygge under normale og rimelig forutsigbare bruksforhold. Særlig bør forholdet mellom risiko og nytte ikke berettige en risiko for menneskers helse.I samsvar med rådsdirektiv [87/357/EØF](eu/31987l0357) av 25. juni 1987 om tilnærming av medlemsstatenes lovgivning om produkter som medfører fare for forbrukernes helse eller sikkerhet fordi produktene gir inntrykk av å være noe annet enn det de er,5 bør presentasjonen av et kosmetisk produkt, særlig dets form, lukt, farge, utseende, emballasje, merking, volum eller størrelse ikke sette forbrukernes helse og sikkerhet i fare fordi det kan forveksles med næringsmidler.For å skape klare ansvarsforhold bør hvert enkelt kosmetisk produkt knyttes til en ansvarlig person som er etablert i Fellesskapet.Sikring av et kosmetisk produkts sporbarhet gjennom hele omsetningskjeden bidrar til å gjøre markedstilsynet enklere og mer effektivt. En effektiv ordning for sporbarhet forenkler markedstilsynsmyndighetens oppgave med å spore markedsdeltakere.Det er nødvendig å definere under hvilke forhold en distributør skal betraktes som den ansvarlige personen.Alle juridiske eller fysiske personer i engroshandelen samt detaljister som selger direkte til forbruker, omfattes av betegnelsen «distributør». Distributørens forpliktelser bør derfor tilpasses hver enkelt av disse aktørenes rolle og virksomhet.Den europeiske kosmetikksektoren er en av de bransjene som er påvirket av forfalskninger, noe som kan øke risikoen for menneskers helse. Medlemsstatene bør særlig være oppmerksomme på gjennomføringen av overgripende fellesskapsbestemmelser og tiltak som gjelder forfalskede produkter på området for kosmetiske produkter, for eksempel rådsforordning [(EF) nr. 1383/2003](eu/32003r1383) av 22. juli 2003 om tollmyndighetens tiltak overfor varer som mistenkes å krenke visse immaterialrettigheter, og hvilke tiltak som skal treffes overfor varer som er funnet å krenke slike rettigheter6 og europaparlaments- og rådsdirektiv [2004/48/EF](eu/32004l0048*) av 29. april 2004 om håndheving av immaterialrettigheter.7 Kontroll på markedet er et kraftig middel for å identifisere produkter som ikke overholder kravene i denne forordning.For å sikre at de kosmetiske produktene som markedsføres, er trygge, bør de produseres i samsvar med god framstillingspraksis.Med henblikk på effektivt markedstilsyn bør et produktinformasjonsdokument gjøres lett tilgjengelig på én enkelt adresse i Fellesskapet, for den vedkommende myndigheten i den medlemsstaten der dokumentet er oppbevart.For at resultatene skal kunne være sammenliknbare og av høy kvalitet, bør de ikke-kliniske sikkerhetsundersøkelsene som er utført med tanke på å vurdere et kosmetisk produkts sikkerhet, være i samsvar med det relevante fellesskapsregelverket.Det bør gjøres klart hva slags opplysninger som skal gjøres tilgjengelig for vedkommende myndigheter. Disse opplysningene bør omfatte alle nødvendige detaljer med hensyn til identitet, kvalitet, sikkerhet for menneskers helse samt hvilken virkning det kosmetiske produktet hevdes å ha. Særlig bør denne produktinformasjonen inneholde en sikkerhetsrapport for det kosmetiske produktet, der det dokumenteres at det er foretatt en sikkerhetsvurdering.For å sikre ensartet anvendelse og kontroll av gjeldende begrensninger for stoffer, bør prøvetaking og analyse utføres på en reproduserbar og standardisert måte.Betegnelsen «stoffblanding» («mixture») som definert i denne forordning, bør ha samme betydning som betegnelsen «preparat» («preparation») som tidligere er brukt i Fellesskapets regelverk.Av hensyn til effektivt markedstilsyn, bør vedkommende myndigheter underrettes om visse opplysninger om det kosmetiske produktet som markedsføres.For å muliggjøre rask og hensiktsmessig medisinsk behandling i tilfelle av problemer, bør de nødvendige opplysningene om produktets sammensetning sendes til giftinformasjonssentraler og lignende organer, dersom medlemsstatene har opprettet slike sentraler for dette formål.For å holde den administrative byrden så lav som mulig, bør rapporteringen av opplysninger til vedkommende myndigheter, giftinformasjonssentraler og lignende organer sendes sentralt til Fellesskapet ved hjelp av et elektronisk grensesnitt.For å sikre en smidig overgang til det nye elektroniske grensesnittet, bør markedsdeltakerne tillates å rapportere de nødvendige opplysningene i samsvar med denne forordning før dens anvendelsesdato.Det allmenne prinsippet om framstiller eller importørens ansvar for produktets sikkerhet bør støttes av begrensninger for visse stoffer i vedlegg II og III. Dessuten bør stoffer som er beregnet på bruk som fargestoffer, konserveringsmidler og UV-filtre, være oppført i henholdsvis vedlegg IV, V og VI for å kunne godkjennes for disse bruksområdene.For å unngå tvetydigheter bør det gjøres klart at listen over godkjente fargestoffer oppført i vedlegg IV, bare omfatter stoffer som farger gjennom absorpsjon og refleksjon, og ikke stoffer som farger gjennom fotoluminescens, interferens eller kjemisk reaksjon.For å håndtere de sikkerhetsproblemene som er tatt opp, bør vedlegg IV, som på nåværende tidspunkt er begrenset til fargestoffer til huden, også omfatte fargestoffer til hår så snart Vitenskapskomiteen for forbrukersikkerhet (SCCS), nedsatt ved kommisjonsbeslutning [2008/721/EF](eu/32008d0721*) av 5. september 2008 om opprettelse av en rådgivningsstruktur med vitenskapelige komiteer og sakkyndige på området forbrukersikkerhet, folkehelse og miljø,8 har avsluttet sin risikovurdering av disse stoffene. For dette formål bør Kommisjonen ha mulighet til å ta med fargestoffer til hår i nevnte vedleggs virkeområde ved komitéframgangsmåten.Bruken av nanomaterialer i kosmetiske produkter kan øke med ytterligere utvikling av teknologien. For å sikre et høyt forbrukervernnivå, fritt varebytte og rettssikkerhet for framstillere, er det nødvendig å utarbeide en ensartet definisjon av nanomaterialer på internasjonalt plan. Fellesskapet bør tilstrebe å oppnå en avtale om en definisjon i relevante internasjonale fora. Dersom en slik avtale oppnås, bør definisjonen av nanomaterialer i denne forordning tilpasses i samsvar med dette.For øyeblikket foreligger det ikke nok opplysninger om risikoene forbundet med nanomaterialer. For bedre å kunne vurdere nanomaterialers sikkerhet bør SCCS i samarbeid med relevante organer gi veiledning om prøvingsmetoder som tar hensyn til nanomaterialers særlige egenskaper.Kommisjonen bør jevnlig revidere bestemmelsene om nanomaterialer i lys av den vitenskapelige utvikling.På bakgrunn av de farlige egenskapene ved stoffer som er klassifisert som kreftframkallende, arvestoffskadelige eller reproduksjonstoksiske (CMR) i kategori 1A, 1B og 2 i henhold til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger,9 bør bruken av dem i kosmetiske produkter forbys. Siden en farlig egenskap ved et stoff ikke nødvendigvis alltid medfører en risiko, bør det imidlertid være mulig å tillate bruk av stoffer som er klassifisert som CMR 2-stoffer dersom SCCS med hensyn til eksponering og konsentrasjon har vurdert dem som sikre ved bruk i kosmetiske produkter, og de er regulert av Kommisjonen i vedleggene til denne forordning. Når det gjelder stoffer som er klassifisert som CMR 1A- eller 1B-stoffer, bør det være mulig, i det særskilte tilfellet at disse stoffene oppfyller kravene til næringsmiddeltrygghet, blant annet som resultat av at de naturlig forekommer i næringsmidler, og at det ikke finnes egnede, alternative stoffer, å bruke slike stoffer i kosmetiske produkter under den forutsetningen at slik bruk er funnet sikker av SCCS. Dersom disse vilkårene er oppfylt, bør Kommisjonen endre de relevante vedleggene til denne forordning innen 15 måneder etter klassifiseringen av stoffene som CMR 1A- eller 1B-stoffer i henhold til forordning [(EF) nr. 1272/2008](eu/32008r1272*). Slike stoffer bør revideres kontinuerlig av SCCS.En sikkerhetsvurdering av stoffer, særlig dem som er klassifisert som CMR 1A- eller 1B-stoffer, bør ta hensyn til den samlede eksponeringen for slike stoffer fra alle kilder. Samtidig er det for dem som er involvert i arbeidet med sikkerhetsvurderingene, viktig at det finnes en harmonisert metode for utarbeiding og bruk av slike beregninger av samlet eksponering. Som en følge av dette bør Det europeiske kjemikaliebyrå (ECHA), Den europeiske myndighet for næringsmiddeltrygghet og andre relevante berørte parter i nært samarbeid med SCCS så raskt som mulig foreta en revisjon av og utarbeide retningslinjer for produksjon og bruk av beregninger av samlet eksponering for disse stoffene.Vurderingen fra SCCS av bruken av stoffer som er klassifisert som CMR 1A og 1B i kosmetiske produkter bør også ta hensyn til eksponeringen for disse stoffene i sårbare grupper av befolkningen, for eksempel barn under tre år, eldre personer, gravide og ammende kvinner og personer med svekket immunforsvar.SCCS bør i hensiktsmessige tilfeller uttale seg om sikkerheten ved bruk av nanomaterialer i kosmetiske produkter. Disse uttalelsene bør bygge på fullstendige opplysninger som er gjort tilgjengelig av den ansvarlige personen.Tiltak fra Kommisjonen og medlemsstatene knyttet til vern av menneskers helse, bør bygge på føre-var-prinsippet.For å kunne ivareta produktsikkerheten bør forbudte stoffer være tillatt i sporinnhold bare dersom det ved korrekte framstillingsprosesser ikke er teknisk mulig å unngå dem, og forutsatt at produktet er trygt.I protokollen om dyrevern og dyrs velferd vedlagt traktaten, er det fastsatt at Fellesskapet og medlemsstatene fullt ut skal ta hensyn til velferdskravene for dyr ved gjennomføringen av Fellesskapets politikk, særlig med hensyn til det indre marked.Ved rådsdirektiv [86/609/EØF](eu/31986l0609*) av 24. november 1986 om tilnærming av medlemsstatenes lover og forskrifter om vern av forsøksdyr og dyr til andre vitenskapelige formål10 ble det fastsatt felles regler for bruk av dyr i forsøk i Fellesskapet og vilkår for gjennomføring av slike forsøk på medlemsstatenes territorium. Særlig kreves det i nevnte direktivs artikkel 7 at forsøk med dyr skal erstattes med andre metoder dersom slike metoder finnes og er vitenskapelig tilfredsstillende.Det er mulig å garantere sikkerheten ved kosmetiske produkter og deres bestanddeler ved hjelp av alternative metoder, som ikke nødvendigvis kan anvendes på all bruk av kjemiske bestanddeler. Bruk av slike metoder i hele kosmetikkindustrien bør derfor fremmes, og de bør vedtas på fellesskapsplan, dersom slike metoder gir et likeverdig forbrukervern.Det er i dag mulig å garantere sikkerheten ved ferdige kosmetiske produkter ut fra kunnskap om sikkerheten ved de bestanddelene de inneholder. Det bør derfor fastsettes bestemmelser som forbyr dyreforsøk med ferdige kosmetiske produkter. Kommisjonen kan fastsette retningslinjer for å lette anvendelsen, særlig for små og mellomstore bedrifter, av prøvingsmetoder og framgangsmåter for vurdering for relevante tilgjengelige data, herunder bruk av metoder basert på sammenligninger med stoffer med samme struktur og beviskraft, som ikke innebærer bruk av forsøksdyr ved vurdering av sikkerheten ved ferdige kosmetiske produkter.Det vil i økende grad bli mulig å garantere sikkerheten ved bestanddeler i kosmetiske produkter ved hjelp av alternative metoder som ikke innebærer bruk av dyr, og som valideres på fellesskapsplan eller godkjennes som vitenskapelig validert av Det europeiske senter for validering av alternative metoder (ECVAM), samtidig som det tas hensyn til utviklingen av validering innenfor Organisasjon for økonomisk samarbeid og utvikling (OECD). Etter samråd med SCCS om de validerte alternative metodene kan anvendes på området kosmetiske produkter, bør kommisjonen umiddelbart offentliggjøre de validerte eller godkjente metodene som anses å kunne anvendes på slike bestanddeler. For å oppnå en høyest mulig grad av dyrevern bør det settes en frist for innføringen av et endelig forbud.Kommisjonen har fastsatt tidsplaner med frister fram til 11. mars 2009 for forbud mot markedsføring av kosmetiske produkter hvis endelige sammensetning, bestanddeler eller kombinasjoner av bestanddeler er forsøkt på dyr, og for forbud mot ethvert forsøk som på nåværende tidspunkt gjennomføres ved bruk av dyr. I lys av forsøk for giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, er det imidlertid hensiktsmessig at den endelige fristen for å forby markedsføring av kosmetiske produkter der slike forsøk er brukt, settes til 11. mars 2013. På grunnlag av årlige rapporter, bør Kommisjonen ha tillatelse til å tilpasse tidsplanene innenfor den ovennevnte maksimumsfristen.Bedre samordning av ressurser på fellesskapsplan vil bidra til å øke den vitenskapelige kunnskapen som er uunnværlig for utviklingen av alternative metoder. For dette formål er det av avgjørende betydning at Fellesskapet fortsetter og øker sin innsats og treffer de tiltak som er nødvendige for å fremme forskning og utvikling av nye alternative metoder som ikke innebærer forsøk med dyr, særlig innenfor sitt rammeprogram for forskning.Det bør oppmuntres til at tredjestater anerkjenner de alternative metodene som blir utviklet i Fellesskapet. For å nå dette målet bør Kommisjonen og medlemsstatene treffe alle relevante tiltak for å lette OECDs godkjenning av slike metoder. Kommisjonen bør også etterstrebe, innenfor rammen av Det europeiske fellesskaps samarbeidsavtaler, å få anerkjennelse for resultatene av de sikkerhetsprøvingene som er utført i Fellesskapet med alternative metoder for å sikre at eksporten av kosmetiske produkter som det er brukt slike metoder for, ikke hindres, og for å forhindre eller unngå at tredjestater må gjenta slike prøvinger med bruk av dyr.Det er nødvendig med innsyn når det gjelder hvilke bestanddeler som brukes i kosmetiske produkter. Slikt innsyn bør oppnås ved at det på produktets emballasje angis hvilke bestanddeler som er brukt i et kosmetisk produkt. Dersom det av praktiske årsaker ikke er mulig å angi bestanddelene på emballasjen, bør slike opplysninger være vedlagt, slik at forbrukeren har tilgang til disse opplysningene.Kommisjonen bør utarbeide en liste over vanlige navn på bestanddeler for å sikre ensartet merking og for å gjøre det enklere å identifisere kosmetiske bestanddeler. Denne listen er ikke ment å skulle være en begrensende liste over stoffer som brukes i kosmetiske produkter.I den hensikt å gi opplysninger til forbrukerne bør kosmetiske produkter være påført presise og lett forståelige angivelser av holdbarhetstid. Siden forbrukerne bør være underrettet om innen hvilken dato det kosmetiske produktet vil kunne oppfylle sin opprinnelige funksjon og fortsatt være trygt, er det viktig å vite hvilken dato det minst er holdbart til, dvs. den datoen det er best å bruke produktet innen. Dersom minste holdbarhetstid er lengre enn 30 måneder, bør forbrukeren få opplysninger om hvor lang tid etter at det kosmetiske produktet er åpnet, det kan brukes uten å være til skade for forbrukeren. Dette kravet bør imidlertid ikke gjelde dersom begrepet om holdbarhetstid etter åpning ikke er relevant, det vil si for engangsprodukter, produkter uten risiko for forringelse, eller produkter som ikke åpnes.SSCS har identifisert en rekke stoffer som kan forårsake allergiske reaksjoner, og det vil være nødvendig å begrense bruken av disse og/eller pålegge visse vilkår for dem. For å sikre at forbrukerne er tilstrekkelig godt underrettet, bør forekomsten av disse stoffene være nevnt på listen over bestanddeler, og forbrukerens oppmerksomhet bør trekkes mot forekomsten av disse bestanddelene. Disse opplysningene bør forbedre diagnostiseringen av kontaktallergi hos forbrukerne og gi dem mulighet til å unngå å bruke kosmetiske produkter de ikke tåler. Når det gjelder stoffer som vil kunne forårsake allergi for en betydelig del av befolkningen, bør andre restriktive tiltak som et forbud eller en begrensning av konsentrasjon vurderes.Ved sikkerhetsvurderingen av et kosmetisk produkt bør det være mulig å ta hensyn til resultatene av risikovurderingen som er foretatt på andre relevante områder. Bruken av slike data bør være behørig begrunnet og berettiget.Forbrukeren bør vernes mot villedende påstander om kosmetiske produkters effektivitet og andre egenskaper. Særlig får europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere på det indre marked11 anvendelse. Videre bør Kommisjonen i samarbeid med medlemsstatene definere felles kriterier når det gjelder spesifikke påstander for kosmetiske produkter.Det bør være mulig å angi på kosmetiske produkter at ingen dyreforsøk er utført i forbindelse med utviklingen av produktet. Kommisjonen har i samråd med medlemsstatene utarbeidet retningslinjer som skal sikre at felles kriterier blir anvendt når det gjøres bruk av påstander, at det oppnås en ensartet forståelse av påstandene, og særlig at slike påstander ikke skal villede forbrukeren. Ved utarbeiding av slike retningslinjer har Kommisjonen også tatt hensyn til synspunktene til de mange små og mellomstore bedriftene som utgjør hoveddelen av framstillerne som ikke gjør bruk av dyreforsøk, relevante ikke-statlige organisasjoner, og forbrukernes behov for i praksis å kunne skille mellom produkter på grunnlag av dyreforsøkskriterier.I tillegg til opplysningene på etiketten, bør forbrukerne gis mulighet til å be om visse produktrelaterte opplysninger fra den ansvarlige personen for å kunne foreta velbegrunnede produktvalg.Et effektivt markedstilsyn er nødvendig for å kunne sikre at bestemmelsene i denne forordning blir overholdt. For dette formål bør alvorlige, uønskede virkninger rapporteres, og vedkommende myndigheter bør ha mulighet til å kreve at den ansvarlige personen leverer en liste over kosmetiske produkter som inneholder stoffer som det er skapt alvorlig tvil om sikkerheten ved.Denne forordning berører ikke medlemsstatenes mulighet til i samsvar med fellesskapsretten å regulere meldingen fra helsepersonell eller forbrukere om alvorlige, uønskede virkninger til vedkommende myndigheter i medlemsstatene.Denne forordning berører ikke medlemsstatenes mulighet til i samsvar med fellesskapsretten å regulere etableringen av markedsdeltakere på området kosmetiske produkter.Når det gjelder manglende samsvar med denne forordning, kan det være nødvendig med en klar og effektiv framgangsmåte for tilbaketrekking og tilbakekalling av produkter. Denne framgangsmåten bør, dersom det er mulig, bygge på eksisterende fellesskapsregler for varer som ikke er trygge.Når det gjelder kosmetiske produkter som til tross for at de er i samsvar med bestemmelsene i denne forordning, kan sette menneskers helse i fare, bør det innføres en framgangsmåte for beskyttelsestiltak.Kommisjonen bør gi angivelser for en ensartet fortolkning og anvendelse av begrepet alvorlig risiko for å gjøre det enklere med en konsekvent gjennomføring av denne forordning.For å kunne overholde prinsippene om god forvaltningspraksis, bør enhver beslutning av en vedkommende myndighet innenfor rammen av markedstilsyn, være behørig begrunnet.For å sikre effektiv kontroll på markedet er det nødvendig med en høy grad av administrativt samarbeid blant vedkommende myndigheter. Dette gjelder særlig gjensidig bistand ved verifiseringen av produktinformasjonsdokumenter som er oppbevart i en annen medlemsstat.Kommisjonen bør bistås av SCCS, som et uavhengig risikovurderingsorgan.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.12Særlig bør Kommisjonen gis myndighet til å tilpasse vedleggene til denne forordning, til den tekniske utvikling. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning eller å utfylle den nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).Når det av tvingende hasteårsaker ikke er mulig å overholde de fristene som normalt får anvendelse i forbindelse med framgangsmåten med forskriftskomité med kontroll, bør Kommisjonen kunne anvende framgangsmåten for behandling av hastesaker fastsatt i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta visse tiltak knyttet til CMR-stoffer, nanomaterialer og mulige risikoer for menneskers helse.Medlemsstatene bør fastsette bestemmelser om sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og sørge for at de gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.Både markedsdeltakere, medlemsstatene og Kommisjonen trenger tilstrekkelig tid til å tilpasse seg de endringene som innføres ved denne forordning. Det bør derfor fastsettes en tilstrekkelig lang overgangsperiode til denne tilpasningen. For å sikre en smidig overgang, bør imidlertid markedsdeltakerne få tillatelse til å markedsføre kosmetiske produkter som er i samsvar med denne forordning før denne overgangsperioden utløper.For å øke sikkerheten ved kosmetiske produkter og styrke markedstilsynet, bør kosmetiske produkter som markedsføres etter denne forordnings gjennomføringsdato, overholde forordningens forpliktelser når det gjelder sikkerhetsvurdering, produktinformasjonsdokumentet og melding, selv om lignende forpliktelser allerede er oppfylt i henhold til direktiv [76/768/EØF](eu/31976l0768*).Direktiv [76/768/EØF](eu/31976l0768*) bør oppheves. For å sikre hensiktsmessig medisinsk behandling i tilfelle problemer, og for å sikre markedstilsyn, bør de opplysningene som mottas i samsvar med artikkel 7 nr. 3 og artikkel 7a nr. 4 i direktiv [76/768/EØF](eu/31976l0768*) om kosmetiske produkter, oppbevares av vedkommende myndigheter i en viss tid, og de opplysningene som oppbevares av den ansvarlige personen, bør være tilgjengelig i samme tidsrom.Denne forordning bør ikke berøre medlemsstatenes forpliktelser med hensyn til fristene for innarbeiding i nasjonal lovgivning av de direktivene som er angitt i vedlegg IX del B.Ettersom denne forordnings mål, som er å gjennomføre det indre marked og et høyt vernenivå for menneskers helse ved at kosmetiske produkter oppfyller kravene fastsatt i denne forordning, ikke i tilstrekkelig grad kan nås av medlemsstatene og derfor på grunn av tiltakenes omfang bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette mål –
+ut fra følgende betraktninger:
+
+1. Rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter3 er blitt betydelig endret en rekke ganger. Ettersom det skal gjøres ytterligere endringer, bør direktivet av klarhetshensyn i dette særlige tilfellet omarbeides til én enkelt tekst.
+2. En forordning er det riktige rettslige virkemiddelet siden den pålegger klare og detaljerte regler som ikke gir medlemsstatene rom for avvikende innarbeiding i nasjonal lovgivning. Dessuten sikrer en forordning at lovbestemte krav gjennomføres samtidig i hele Fellesskapet.
+3. Denne forordning tar sikte på å forenkle framgangsmåter og strømlinjeforme terminologi for derved å redusere den administrative byrden og tvetydigheter. Dessuten styrker den visse elementer av rammereglene for kosmetikk, for eksempel kontroll på markedet, med sikte på å sikre et høyt vernenivå for menneskers helse.
+4. Denne forordning harmoniserer på omfattende vis reglene i Fellesskapet for å oppnå et indre marked for kosmetiske produkter, samtidig som den sikrer et høyt vernenivå for menneskers helse.
+5. De miljømessige bekymringene som stoffer som brukes i kosmetiske produkter kan forårsake, er vurdert gjennom anvendelsen av europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) av 18. desember 2006 om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH), og om opprettelse av et europeisk kjemikaliebyrå,4 som muliggjør vurdering av miljøsikkerhet på tvers av sektorene.
+6. Denne forordning gjelder bare kosmetiske produkter, og ikke legemidler, medisinsk utstyr eller biocidprodukter. Denne avgrensningen følger særlig av den detaljerte definisjonen av kosmetiske produkter, som viser til både deres bruksområde og deres bruksformål.
+7. Vurderingen av hvorvidt et produkt er et kosmetisk produkt, må gjøres fra gang til gang, idet det tas hensyn til alle produktets egenskaper. Kosmetiske produkter kan omfatte krem, emulsjon, lotion, gel og olje til huden, ansiktsmasker, fargede underlag (i flytende og fast form og pudder), ansiktspudder, badepudder, talkum, toalettsåpe, deodorantsåpe, parfyme, eau de toilette og eau de cologne, bademidler (salt, skumbad, olje, gel), hårfjerningsmidler, deodoranter og antitranspirasjonsmidler, hårfargingsmidler, permanent- og uttrekningsvæsker samt hårleggemidler, fønmidler, hårvaskemidler (lotion, tørrsjampo og sjampo), hårbehandlingsprodukter (lotion, krem, olje), frisermidler (lotion, hårlakk, briljantin), barbermidler (krem, skum, lotion), ansikts- og øyesminke og deres rensemidler, leppestift, leppepomade mv., tann- og munnpleiemidler, neglelakk og midler til pleie av negler, midler til utvortes intim pleie, solbeskyttelsesmidler, bruningsmidler, hudblekemidler og rynkemidler.
+8. Kommisjonen bør definere grupper av kosmetiske produkter som er relevante for anvendelsen av denne forordning.
+9. Kosmetiske produkter bør være trygge under normale og rimelig forutsigbare bruksforhold. Særlig bør forholdet mellom risiko og nytte ikke berettige en risiko for menneskers helse.
+10. I samsvar med rådsdirektiv [87/357/EØF](eu/31987l0357) av 25. juni 1987 om tilnærming av medlemsstatenes lovgivning om produkter som medfører fare for forbrukernes helse eller sikkerhet fordi produktene gir inntrykk av å være noe annet enn det de er,5 bør presentasjonen av et kosmetisk produkt, særlig dets form, lukt, farge, utseende, emballasje, merking, volum eller størrelse ikke sette forbrukernes helse og sikkerhet i fare fordi det kan forveksles med næringsmidler.
+11. For å skape klare ansvarsforhold bør hvert enkelt kosmetisk produkt knyttes til en ansvarlig person som er etablert i Fellesskapet.
+12. Sikring av et kosmetisk produkts sporbarhet gjennom hele omsetningskjeden bidrar til å gjøre markedstilsynet enklere og mer effektivt. En effektiv ordning for sporbarhet forenkler markedstilsynsmyndighetens oppgave med å spore markedsdeltakere.
+13. Det er nødvendig å definere under hvilke forhold en distributør skal betraktes som den ansvarlige personen.
+14. Alle juridiske eller fysiske personer i engroshandelen samt detaljister som selger direkte til forbruker, omfattes av betegnelsen «distributør». Distributørens forpliktelser bør derfor tilpasses hver enkelt av disse aktørenes rolle og virksomhet.
+15. Den europeiske kosmetikksektoren er en av de bransjene som er påvirket av forfalskninger, noe som kan øke risikoen for menneskers helse. Medlemsstatene bør særlig være oppmerksomme på gjennomføringen av overgripende fellesskapsbestemmelser og tiltak som gjelder forfalskede produkter på området for kosmetiske produkter, for eksempel rådsforordning [(EF) nr. 1383/2003](eu/32003r1383) av 22. juli 2003 om tollmyndighetens tiltak overfor varer som mistenkes å krenke visse immaterialrettigheter, og hvilke tiltak som skal treffes overfor varer som er funnet å krenke slike rettigheter6 og europaparlaments- og rådsdirektiv [2004/48/EF](eu/32004l0048*) av 29. april 2004 om håndheving av immaterialrettigheter.7 Kontroll på markedet er et kraftig middel for å identifisere produkter som ikke overholder kravene i denne forordning.
+16. For å sikre at de kosmetiske produktene som markedsføres, er trygge, bør de produseres i samsvar med god framstillingspraksis.
+17. Med henblikk på effektivt markedstilsyn bør et produktinformasjonsdokument gjøres lett tilgjengelig på én enkelt adresse i Fellesskapet, for den vedkommende myndigheten i den medlemsstaten der dokumentet er oppbevart.
+18. For at resultatene skal kunne være sammenliknbare og av høy kvalitet, bør de ikke-kliniske sikkerhetsundersøkelsene som er utført med tanke på å vurdere et kosmetisk produkts sikkerhet, være i samsvar med det relevante fellesskapsregelverket.
+19. Det bør gjøres klart hva slags opplysninger som skal gjøres tilgjengelig for vedkommende myndigheter. Disse opplysningene bør omfatte alle nødvendige detaljer med hensyn til identitet, kvalitet, sikkerhet for menneskers helse samt hvilken virkning det kosmetiske produktet hevdes å ha. Særlig bør denne produktinformasjonen inneholde en sikkerhetsrapport for det kosmetiske produktet, der det dokumenteres at det er foretatt en sikkerhetsvurdering.
+20. For å sikre ensartet anvendelse og kontroll av gjeldende begrensninger for stoffer, bør prøvetaking og analyse utføres på en reproduserbar og standardisert måte.
+21. Betegnelsen «stoffblanding» («mixture») som definert i denne forordning, bør ha samme betydning som betegnelsen «preparat» («preparation») som tidligere er brukt i Fellesskapets regelverk.
+22. Av hensyn til effektivt markedstilsyn, bør vedkommende myndigheter underrettes om visse opplysninger om det kosmetiske produktet som markedsføres.
+23. For å muliggjøre rask og hensiktsmessig medisinsk behandling i tilfelle av problemer, bør de nødvendige opplysningene om produktets sammensetning sendes til giftinformasjonssentraler og lignende organer, dersom medlemsstatene har opprettet slike sentraler for dette formål.
+24. For å holde den administrative byrden så lav som mulig, bør rapporteringen av opplysninger til vedkommende myndigheter, giftinformasjonssentraler og lignende organer sendes sentralt til Fellesskapet ved hjelp av et elektronisk grensesnitt.
+25. For å sikre en smidig overgang til det nye elektroniske grensesnittet, bør markedsdeltakerne tillates å rapportere de nødvendige opplysningene i samsvar med denne forordning før dens anvendelsesdato.
+26. Det allmenne prinsippet om framstiller eller importørens ansvar for produktets sikkerhet bør støttes av begrensninger for visse stoffer i vedlegg II og III. Dessuten bør stoffer som er beregnet på bruk som fargestoffer, konserveringsmidler og UV-filtre, være oppført i henholdsvis vedlegg IV, V og VI for å kunne godkjennes for disse bruksområdene.
+27. For å unngå tvetydigheter bør det gjøres klart at listen over godkjente fargestoffer oppført i vedlegg IV, bare omfatter stoffer som farger gjennom absorpsjon og refleksjon, og ikke stoffer som farger gjennom fotoluminescens, interferens eller kjemisk reaksjon.
+28. For å håndtere de sikkerhetsproblemene som er tatt opp, bør vedlegg IV, som på nåværende tidspunkt er begrenset til fargestoffer til huden, også omfatte fargestoffer til hår så snart Vitenskapskomiteen for forbrukersikkerhet (SCCS), nedsatt ved kommisjonsbeslutning [2008/721/EF](eu/32008d0721*) av 5. september 2008 om opprettelse av en rådgivningsstruktur med vitenskapelige komiteer og sakkyndige på området forbrukersikkerhet, folkehelse og miljø,8 har avsluttet sin risikovurdering av disse stoffene. For dette formål bør Kommisjonen ha mulighet til å ta med fargestoffer til hår i nevnte vedleggs virkeområde ved komitéframgangsmåten.
+29. Bruken av nanomaterialer i kosmetiske produkter kan øke med ytterligere utvikling av teknologien. For å sikre et høyt forbrukervernnivå, fritt varebytte og rettssikkerhet for framstillere, er det nødvendig å utarbeide en ensartet definisjon av nanomaterialer på internasjonalt plan. Fellesskapet bør tilstrebe å oppnå en avtale om en definisjon i relevante internasjonale fora. Dersom en slik avtale oppnås, bør definisjonen av nanomaterialer i denne forordning tilpasses i samsvar med dette.
+30. For øyeblikket foreligger det ikke nok opplysninger om risikoene forbundet med nanomaterialer. For bedre å kunne vurdere nanomaterialers sikkerhet bør SCCS i samarbeid med relevante organer gi veiledning om prøvingsmetoder som tar hensyn til nanomaterialers særlige egenskaper.
+31. Kommisjonen bør jevnlig revidere bestemmelsene om nanomaterialer i lys av den vitenskapelige utvikling.
+32. På bakgrunn av de farlige egenskapene ved stoffer som er klassifisert som kreftframkallende, arvestoffskadelige eller reproduksjonstoksiske (CMR) i kategori 1A, 1B og 2 i henhold til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger,9 bør bruken av dem i kosmetiske produkter forbys. Siden en farlig egenskap ved et stoff ikke nødvendigvis alltid medfører en risiko, bør det imidlertid være mulig å tillate bruk av stoffer som er klassifisert som CMR 2-stoffer dersom SCCS med hensyn til eksponering og konsentrasjon har vurdert dem som sikre ved bruk i kosmetiske produkter, og de er regulert av Kommisjonen i vedleggene til denne forordning. Når det gjelder stoffer som er klassifisert som CMR 1A- eller 1B-stoffer, bør det være mulig, i det særskilte tilfellet at disse stoffene oppfyller kravene til næringsmiddeltrygghet, blant annet som resultat av at de naturlig forekommer i næringsmidler, og at det ikke finnes egnede, alternative stoffer, å bruke slike stoffer i kosmetiske produkter under den forutsetningen at slik bruk er funnet sikker av SCCS. Dersom disse vilkårene er oppfylt, bør Kommisjonen endre de relevante vedleggene til denne forordning innen 15 måneder etter klassifiseringen av stoffene som CMR 1A- eller 1B-stoffer i henhold til forordning [(EF) nr. 1272/2008](eu/32008r1272*). Slike stoffer bør revideres kontinuerlig av SCCS.
+33. En sikkerhetsvurdering av stoffer, særlig dem som er klassifisert som CMR 1A- eller 1B-stoffer, bør ta hensyn til den samlede eksponeringen for slike stoffer fra alle kilder. Samtidig er det for dem som er involvert i arbeidet med sikkerhetsvurderingene, viktig at det finnes en harmonisert metode for utarbeiding og bruk av slike beregninger av samlet eksponering. Som en følge av dette bør Det europeiske kjemikaliebyrå (ECHA), Den europeiske myndighet for næringsmiddeltrygghet og andre relevante berørte parter i nært samarbeid med SCCS så raskt som mulig foreta en revisjon av og utarbeide retningslinjer for produksjon og bruk av beregninger av samlet eksponering for disse stoffene.
+34. Vurderingen fra SCCS av bruken av stoffer som er klassifisert som CMR 1A og 1B i kosmetiske produkter bør også ta hensyn til eksponeringen for disse stoffene i sårbare grupper av befolkningen, for eksempel barn under tre år, eldre personer, gravide og ammende kvinner og personer med svekket immunforsvar.
+35. SCCS bør i hensiktsmessige tilfeller uttale seg om sikkerheten ved bruk av nanomaterialer i kosmetiske produkter. Disse uttalelsene bør bygge på fullstendige opplysninger som er gjort tilgjengelig av den ansvarlige personen.
+36. Tiltak fra Kommisjonen og medlemsstatene knyttet til vern av menneskers helse, bør bygge på føre-var-prinsippet.
+37. For å kunne ivareta produktsikkerheten bør forbudte stoffer være tillatt i sporinnhold bare dersom det ved korrekte framstillingsprosesser ikke er teknisk mulig å unngå dem, og forutsatt at produktet er trygt.
+38. I protokollen om dyrevern og dyrs velferd vedlagt traktaten, er det fastsatt at Fellesskapet og medlemsstatene fullt ut skal ta hensyn til velferdskravene for dyr ved gjennomføringen av Fellesskapets politikk, særlig med hensyn til det indre marked.
+39. Ved rådsdirektiv [86/609/EØF](eu/31986l0609*) av 24. november 1986 om tilnærming av medlemsstatenes lover og forskrifter om vern av forsøksdyr og dyr til andre vitenskapelige formål10 ble det fastsatt felles regler for bruk av dyr i forsøk i Fellesskapet og vilkår for gjennomføring av slike forsøk på medlemsstatenes territorium. Særlig kreves det i nevnte direktivs artikkel 7 at forsøk med dyr skal erstattes med andre metoder dersom slike metoder finnes og er vitenskapelig tilfredsstillende.
+40. Det er mulig å garantere sikkerheten ved kosmetiske produkter og deres bestanddeler ved hjelp av alternative metoder, som ikke nødvendigvis kan anvendes på all bruk av kjemiske bestanddeler. Bruk av slike metoder i hele kosmetikkindustrien bør derfor fremmes, og de bør vedtas på fellesskapsplan, dersom slike metoder gir et likeverdig forbrukervern.
+41. Det er i dag mulig å garantere sikkerheten ved ferdige kosmetiske produkter ut fra kunnskap om sikkerheten ved de bestanddelene de inneholder. Det bør derfor fastsettes bestemmelser som forbyr dyreforsøk med ferdige kosmetiske produkter. Kommisjonen kan fastsette retningslinjer for å lette anvendelsen, særlig for små og mellomstore bedrifter, av prøvingsmetoder og framgangsmåter for vurdering for relevante tilgjengelige data, herunder bruk av metoder basert på sammenligninger med stoffer med samme struktur og beviskraft, som ikke innebærer bruk av forsøksdyr ved vurdering av sikkerheten ved ferdige kosmetiske produkter.
+42. Det vil i økende grad bli mulig å garantere sikkerheten ved bestanddeler i kosmetiske produkter ved hjelp av alternative metoder som ikke innebærer bruk av dyr, og som valideres på fellesskapsplan eller godkjennes som vitenskapelig validert av Det europeiske senter for validering av alternative metoder (ECVAM), samtidig som det tas hensyn til utviklingen av validering innenfor Organisasjon for økonomisk samarbeid og utvikling (OECD). Etter samråd med SCCS om de validerte alternative metodene kan anvendes på området kosmetiske produkter, bør kommisjonen umiddelbart offentliggjøre de validerte eller godkjente metodene som anses å kunne anvendes på slike bestanddeler. For å oppnå en høyest mulig grad av dyrevern bør det settes en frist for innføringen av et endelig forbud.
+43. Kommisjonen har fastsatt tidsplaner med frister fram til 11. mars 2009 for forbud mot markedsføring av kosmetiske produkter hvis endelige sammensetning, bestanddeler eller kombinasjoner av bestanddeler er forsøkt på dyr, og for forbud mot ethvert forsøk som på nåværende tidspunkt gjennomføres ved bruk av dyr. I lys av forsøk for giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, er det imidlertid hensiktsmessig at den endelige fristen for å forby markedsføring av kosmetiske produkter der slike forsøk er brukt, settes til 11. mars 2013. På grunnlag av årlige rapporter, bør Kommisjonen ha tillatelse til å tilpasse tidsplanene innenfor den ovennevnte maksimumsfristen.
+44. Bedre samordning av ressurser på fellesskapsplan vil bidra til å øke den vitenskapelige kunnskapen som er uunnværlig for utviklingen av alternative metoder. For dette formål er det av avgjørende betydning at Fellesskapet fortsetter og øker sin innsats og treffer de tiltak som er nødvendige for å fremme forskning og utvikling av nye alternative metoder som ikke innebærer forsøk med dyr, særlig innenfor sitt rammeprogram for forskning.
+45. Det bør oppmuntres til at tredjestater anerkjenner de alternative metodene som blir utviklet i Fellesskapet. For å nå dette målet bør Kommisjonen og medlemsstatene treffe alle relevante tiltak for å lette OECDs godkjenning av slike metoder. Kommisjonen bør også etterstrebe, innenfor rammen av Det europeiske fellesskaps samarbeidsavtaler, å få anerkjennelse for resultatene av de sikkerhetsprøvingene som er utført i Fellesskapet med alternative metoder for å sikre at eksporten av kosmetiske produkter som det er brukt slike metoder for, ikke hindres, og for å forhindre eller unngå at tredjestater må gjenta slike prøvinger med bruk av dyr.
+46. Det er nødvendig med innsyn når det gjelder hvilke bestanddeler som brukes i kosmetiske produkter. Slikt innsyn bør oppnås ved at det på produktets emballasje angis hvilke bestanddeler som er brukt i et kosmetisk produkt. Dersom det av praktiske årsaker ikke er mulig å angi bestanddelene på emballasjen, bør slike opplysninger være vedlagt, slik at forbrukeren har tilgang til disse opplysningene.
+47. Kommisjonen bør utarbeide en liste over vanlige navn på bestanddeler for å sikre ensartet merking og for å gjøre det enklere å identifisere kosmetiske bestanddeler. Denne listen er ikke ment å skulle være en begrensende liste over stoffer som brukes i kosmetiske produkter.
+48. I den hensikt å gi opplysninger til forbrukerne bør kosmetiske produkter være påført presise og lett forståelige angivelser av holdbarhetstid. Siden forbrukerne bør være underrettet om innen hvilken dato det kosmetiske produktet vil kunne oppfylle sin opprinnelige funksjon og fortsatt være trygt, er det viktig å vite hvilken dato det minst er holdbart til, dvs. den datoen det er best å bruke produktet innen. Dersom minste holdbarhetstid er lengre enn 30 måneder, bør forbrukeren få opplysninger om hvor lang tid etter at det kosmetiske produktet er åpnet, det kan brukes uten å være til skade for forbrukeren. Dette kravet bør imidlertid ikke gjelde dersom begrepet om holdbarhetstid etter åpning ikke er relevant, det vil si for engangsprodukter, produkter uten risiko for forringelse, eller produkter som ikke åpnes.
+49. SSCS har identifisert en rekke stoffer som kan forårsake allergiske reaksjoner, og det vil være nødvendig å begrense bruken av disse og/eller pålegge visse vilkår for dem. For å sikre at forbrukerne er tilstrekkelig godt underrettet, bør forekomsten av disse stoffene være nevnt på listen over bestanddeler, og forbrukerens oppmerksomhet bør trekkes mot forekomsten av disse bestanddelene. Disse opplysningene bør forbedre diagnostiseringen av kontaktallergi hos forbrukerne og gi dem mulighet til å unngå å bruke kosmetiske produkter de ikke tåler. Når det gjelder stoffer som vil kunne forårsake allergi for en betydelig del av befolkningen, bør andre restriktive tiltak som et forbud eller en begrensning av konsentrasjon vurderes.
+50. Ved sikkerhetsvurderingen av et kosmetisk produkt bør det være mulig å ta hensyn til resultatene av risikovurderingen som er foretatt på andre relevante områder. Bruken av slike data bør være behørig begrunnet og berettiget.
+51. Forbrukeren bør vernes mot villedende påstander om kosmetiske produkters effektivitet og andre egenskaper. Særlig får europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere på det indre marked11 anvendelse. Videre bør Kommisjonen i samarbeid med medlemsstatene definere felles kriterier når det gjelder spesifikke påstander for kosmetiske produkter.
+52. Det bør være mulig å angi på kosmetiske produkter at ingen dyreforsøk er utført i forbindelse med utviklingen av produktet. Kommisjonen har i samråd med medlemsstatene utarbeidet retningslinjer som skal sikre at felles kriterier blir anvendt når det gjøres bruk av påstander, at det oppnås en ensartet forståelse av påstandene, og særlig at slike påstander ikke skal villede forbrukeren. Ved utarbeiding av slike retningslinjer har Kommisjonen også tatt hensyn til synspunktene til de mange små og mellomstore bedriftene som utgjør hoveddelen av framstillerne som ikke gjør bruk av dyreforsøk, relevante ikke-statlige organisasjoner, og forbrukernes behov for i praksis å kunne skille mellom produkter på grunnlag av dyreforsøkskriterier.
+53. I tillegg til opplysningene på etiketten, bør forbrukerne gis mulighet til å be om visse produktrelaterte opplysninger fra den ansvarlige personen for å kunne foreta velbegrunnede produktvalg.
+54. Et effektivt markedstilsyn er nødvendig for å kunne sikre at bestemmelsene i denne forordning blir overholdt. For dette formål bør alvorlige, uønskede virkninger rapporteres, og vedkommende myndigheter bør ha mulighet til å kreve at den ansvarlige personen leverer en liste over kosmetiske produkter som inneholder stoffer som det er skapt alvorlig tvil om sikkerheten ved.
+55. Denne forordning berører ikke medlemsstatenes mulighet til i samsvar med fellesskapsretten å regulere meldingen fra helsepersonell eller forbrukere om alvorlige, uønskede virkninger til vedkommende myndigheter i medlemsstatene.
+56. Denne forordning berører ikke medlemsstatenes mulighet til i samsvar med fellesskapsretten å regulere etableringen av markedsdeltakere på området kosmetiske produkter.
+57. Når det gjelder manglende samsvar med denne forordning, kan det være nødvendig med en klar og effektiv framgangsmåte for tilbaketrekking og tilbakekalling av produkter. Denne framgangsmåten bør, dersom det er mulig, bygge på eksisterende fellesskapsregler for varer som ikke er trygge.
+58. Når det gjelder kosmetiske produkter som til tross for at de er i samsvar med bestemmelsene i denne forordning, kan sette menneskers helse i fare, bør det innføres en framgangsmåte for beskyttelsestiltak.
+59. Kommisjonen bør gi angivelser for en ensartet fortolkning og anvendelse av begrepet alvorlig risiko for å gjøre det enklere med en konsekvent gjennomføring av denne forordning.
+60. For å kunne overholde prinsippene om god forvaltningspraksis, bør enhver beslutning av en vedkommende myndighet innenfor rammen av markedstilsyn, være behørig begrunnet.
+61. For å sikre effektiv kontroll på markedet er det nødvendig med en høy grad av administrativt samarbeid blant vedkommende myndigheter. Dette gjelder særlig gjensidig bistand ved verifiseringen av produktinformasjonsdokumenter som er oppbevart i en annen medlemsstat.
+62. Kommisjonen bør bistås av SCCS, som et uavhengig risikovurderingsorgan.
+63. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.12
+64. Særlig bør Kommisjonen gis myndighet til å tilpasse vedleggene til denne forordning, til den tekniske utvikling. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning eller å utfylle den nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).
+65. Når det av tvingende hasteårsaker ikke er mulig å overholde de fristene som normalt får anvendelse i forbindelse med framgangsmåten med forskriftskomité med kontroll, bør Kommisjonen kunne anvende framgangsmåten for behandling av hastesaker fastsatt i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta visse tiltak knyttet til CMR-stoffer, nanomaterialer og mulige risikoer for menneskers helse.
+66. Medlemsstatene bør fastsette bestemmelser om sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og sørge for at de gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
+67. Både markedsdeltakere, medlemsstatene og Kommisjonen trenger tilstrekkelig tid til å tilpasse seg de endringene som innføres ved denne forordning. Det bør derfor fastsettes en tilstrekkelig lang overgangsperiode til denne tilpasningen. For å sikre en smidig overgang, bør imidlertid markedsdeltakerne få tillatelse til å markedsføre kosmetiske produkter som er i samsvar med denne forordning før denne overgangsperioden utløper.
+68. For å øke sikkerheten ved kosmetiske produkter og styrke markedstilsynet, bør kosmetiske produkter som markedsføres etter denne forordnings gjennomføringsdato, overholde forordningens forpliktelser når det gjelder sikkerhetsvurdering, produktinformasjonsdokumentet og melding, selv om lignende forpliktelser allerede er oppfylt i henhold til direktiv [76/768/EØF](eu/31976l0768*).
+69. Direktiv [76/768/EØF](eu/31976l0768*) bør oppheves. For å sikre hensiktsmessig medisinsk behandling i tilfelle problemer, og for å sikre markedstilsyn, bør de opplysningene som mottas i samsvar med artikkel 7 nr. 3 og artikkel 7a nr. 4 i direktiv [76/768/EØF](eu/31976l0768*) om kosmetiske produkter, oppbevares av vedkommende myndigheter i en viss tid, og de opplysningene som oppbevares av den ansvarlige personen, bør være tilgjengelig i samme tidsrom.
+70. Denne forordning bør ikke berøre medlemsstatenes forpliktelser med hensyn til fristene for innarbeiding i nasjonal lovgivning av de direktivene som er angitt i vedlegg IX del B.
+71. Ettersom denne forordnings mål, som er å gjennomføre det indre marked og et høyt vernenivå for menneskers helse ved at kosmetiske produkter oppfyller kravene fastsatt i denne forordning, ikke i tilstrekkelig grad kan nås av medlemsstatene og derfor på grunn av tiltakenes omfang bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette mål –
 
 1 EUT C 27 av 3.2.2009, s. 34.
 
@@ -234,7 +306,27 @@ Ved denne forordning fastsettes regler som alle kosmetiske produkter som gjøres
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordning menes med:«kosmetisk produkt» ethvert stoff eller enhver stoffblanding som er bestemt til å brukes på menneskekroppens overflate (hud, hodehår og annen hårvekst, negler, lepper og ytre kjønnsorganer) eller på tennene og munnhulens slimhinner for utelukkende eller hovedsakelig å rengjøre eller parfymere dem, endre deres utseende, beskytte dem, holde dem i god stand eller påvirke kroppslukter,«stoff» et kjemisk grunnstoff og dets forbindelser, i naturlig tilstand eller framkommet ved en framstillingsprosess, herunder ethvert tilsetningsstoff som er nødvendig for å bevare stoffets stabilitet, samt enhver urenhet som følger av prosessen som benyttes, men med unntak av ethvert løsemiddel som kan utskilles uten å påvirke stoffets stabilitet eller endre dets sammensetning,«stoffblanding» en blanding eller løsning som består av to eller flere stoffer,«framstiller» enhver fysisk eller juridisk person som framstiller et kosmetisk produkt eller sørger for at et slikt produkt blir utformet eller framstilt, og som markedsfører dette kosmetiske produktet under eget navn eller varemerke,«distributør» enhver fysisk eller juridisk person i omsetningskjeden, utenom framstilleren eller importøren, som gjør et kosmetisk produkt tilgjengelig på markedet,«sluttbruker» enten en forbruker eller en person som i yrkesmessig sammenheng bruker produktet,«gjøre tilgjengelig på markedet» enhver levering av et kosmetisk produkt for distribusjon, forbruk eller bruk på fellesskapsmarkedet i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,«markedsføring» gjøre det kosmetiske produktet tilgjengelig på fellesskapsmarkedet for første gang,«importør» enhver fysisk eller juridisk person etablert i Fellesskapet som markedsfører et kosmetisk produkt fra en tredjestat på fellesskapsmarkedet,«harmonisert standard» en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester1 etter en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv,«nanomateriale» et uløselig eller biopersistent og tilsiktet framstilt materiale med en eller flere ytre dimensjoner eller en indre struktur i størrelsesorden 1–100 nm,«konserveringsmidler» stoffer som utelukkende eller hovedsakelig er beregnet på å hemme utviklingen av mikroorganismer i det kosmetiske produktet,«fargestoffer» stoffer som utelukkende eller hovedsakelig er beregnet på å farge det kosmetiske produktet, hele kroppen eller visse deler av den, ved absorpsjon eller refleksjon av synlig lys; i tillegg skal forløpere til oksiderende hårfargestoffer anses som fargestoffer,«UV-filtre» stoffer som utelukkende eller hovedsakelig er beregnet på å beskytte huden mot en viss UV-stråling ved å absorbere, reflektere eller spre UV-stråling,«uønsket virkning» en bivirkning for menneskers helse som kan tilskrives normal eller rimelig forutsigbar bruk av et kosmetisk produkt,«alvorlig uønsket virkning» en uønsket virkning som fører til midlertidig eller permanent funksjonsudyktighet, funksjonshemning, sykehusinnleggelse, medfødte anomalier eller en umiddelbar livsfare eller død,«tilbaketrekking» ethvert tiltak som har som formål å hindre at et kosmetisk produkt i forsyningskjeden blir gjort tilgjengelig på markedet,«tilbakekalling» ethvert tiltak som har som formål å oppnå retur av et kosmetisk produkt som allerede er gjort tilgjengelig for sluttbrukeren,«rammesammensetning» en sammensetning som angir kategori eller funksjon for bestanddelene og deres høyeste konsentrasjon i et kosmetisk produkt, eller gir relevante kvantitative og kvalitative opplysninger dersom et kosmetisk produkt ikke er dekket eller er bare delvis dekket av en slik sammensetning. Kommisjonen skal gi angivelser som gjør det mulig å utarbeide en rammesammensetning og jevnlig tilpasse dem til den tekniske og vitenskapelige utvikling.
+1\. I denne forordning menes med:
+
+1. «kosmetisk produkt» ethvert stoff eller enhver stoffblanding som er bestemt til å brukes på menneskekroppens overflate (hud, hodehår og annen hårvekst, negler, lepper og ytre kjønnsorganer) eller på tennene og munnhulens slimhinner for utelukkende eller hovedsakelig å rengjøre eller parfymere dem, endre deres utseende, beskytte dem, holde dem i god stand eller påvirke kroppslukter,
+2. «stoff» et kjemisk grunnstoff og dets forbindelser, i naturlig tilstand eller framkommet ved en framstillingsprosess, herunder ethvert tilsetningsstoff som er nødvendig for å bevare stoffets stabilitet, samt enhver urenhet som følger av prosessen som benyttes, men med unntak av ethvert løsemiddel som kan utskilles uten å påvirke stoffets stabilitet eller endre dets sammensetning,
+3. «stoffblanding» en blanding eller løsning som består av to eller flere stoffer,
+4. «framstiller» enhver fysisk eller juridisk person som framstiller et kosmetisk produkt eller sørger for at et slikt produkt blir utformet eller framstilt, og som markedsfører dette kosmetiske produktet under eget navn eller varemerke,
+5. «distributør» enhver fysisk eller juridisk person i omsetningskjeden, utenom framstilleren eller importøren, som gjør et kosmetisk produkt tilgjengelig på markedet,
+6. «sluttbruker» enten en forbruker eller en person som i yrkesmessig sammenheng bruker produktet,
+7. «gjøre tilgjengelig på markedet» enhver levering av et kosmetisk produkt for distribusjon, forbruk eller bruk på fellesskapsmarkedet i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,
+8. «markedsføring» gjøre det kosmetiske produktet tilgjengelig på fellesskapsmarkedet for første gang,
+9. «importør» enhver fysisk eller juridisk person etablert i Fellesskapet som markedsfører et kosmetisk produkt fra en tredjestat på fellesskapsmarkedet,
+10. «harmonisert standard» en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester1 etter en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv,
+11. «nanomateriale» et uløselig eller biopersistent og tilsiktet framstilt materiale med en eller flere ytre dimensjoner eller en indre struktur i størrelsesorden 1–100 nm,
+12. «konserveringsmidler» stoffer som utelukkende eller hovedsakelig er beregnet på å hemme utviklingen av mikroorganismer i det kosmetiske produktet,
+13. «fargestoffer» stoffer som utelukkende eller hovedsakelig er beregnet på å farge det kosmetiske produktet, hele kroppen eller visse deler av den, ved absorpsjon eller refleksjon av synlig lys; i tillegg skal forløpere til oksiderende hårfargestoffer anses som fargestoffer,
+14. «UV-filtre» stoffer som utelukkende eller hovedsakelig er beregnet på å beskytte huden mot en viss UV-stråling ved å absorbere, reflektere eller spre UV-stråling,
+15. «uønsket virkning» en bivirkning for menneskers helse som kan tilskrives normal eller rimelig forutsigbar bruk av et kosmetisk produkt,
+16. «alvorlig uønsket virkning» en uønsket virkning som fører til midlertidig eller permanent funksjonsudyktighet, funksjonshemning, sykehusinnleggelse, medfødte anomalier eller en umiddelbar livsfare eller død,
+17. «tilbaketrekking» ethvert tiltak som har som formål å hindre at et kosmetisk produkt i forsyningskjeden blir gjort tilgjengelig på markedet,
+18. «tilbakekalling» ethvert tiltak som har som formål å oppnå retur av et kosmetisk produkt som allerede er gjort tilgjengelig for sluttbrukeren,
+19. «rammesammensetning» en sammensetning som angir kategori eller funksjon for bestanddelene og deres høyeste konsentrasjon i et kosmetisk produkt, eller gir relevante kvantitative og kvalitative opplysninger dersom et kosmetisk produkt ikke er dekket eller er bare delvis dekket av en slik sammensetning. Kommisjonen skal gi angivelser som gjør det mulig å utarbeide en rammesammensetning og jevnlig tilpasse dem til den tekniske og vitenskapelige utvikling.
 
 2\. Med hensyn til nr. 1 bokstav a) skal et stoff eller en stoffblanding som er beregnet på å inntas, innåndes, injiseres eller implanteres i menneskekroppen, ikke betraktes som et kosmetisk produkt.
 
@@ -247,7 +339,12 @@ Sikkerhet, ansvar, fritt varebytte
 
 ### Artikkel 3. Sikkerhet
 
-Et kosmetisk produkt som gjøres tilgjengelig på markedet, skal være trygt for menneskers helse når det brukes under normale og rimelig forutsigbare bruksforhold, idet det særlig tas hensyn til følgende:presentasjon, herunder samsvar med direktiv [87/357/EØF](eu/31987l0357),merking,instruksjoner for bruk og disponering,alle andre angivelser eller opplysninger gitt av den ansvarlige personen definert i artikkel 4.
+Et kosmetisk produkt som gjøres tilgjengelig på markedet, skal være trygt for menneskers helse når det brukes under normale og rimelig forutsigbare bruksforhold, idet det særlig tas hensyn til følgende:
+
+1. presentasjon, herunder samsvar med direktiv [87/357/EØF](eu/31987l0357),
+2. merking,
+3. instruksjoner for bruk og disponering,
+4. alle andre angivelser eller opplysninger gitt av den ansvarlige personen definert i artikkel 4.
 
 Bestemmelsen om advarsler skal ikke frita personer definert i artikkel 2 og 4 fra å oppfylle de andre kravene fastsatt i denne forordning.
 
@@ -257,19 +354,27 @@ Bestemmelsen om advarsler skal ikke frita personer definert i artikkel 2 og 4 fr
 
 2\. Den ansvarlige personen skal sikre at hvert kosmetisk produkt som markedsføres, oppfyller de relevante forpliktelsene som er fastsatt i denne forordning.
 
-3\. For et kosmetisk produkt som er produsert i Fellesskapet og ikke deretter eksporteres og importeres tilbake til Fellesskapet, skal den framstilleren som er etablert i Fellesskapet, være den ansvarlige personenFramstilleren kan ved skriftlig mandat utpeke en person som er etablert i Fellesskapet som den ansvarlige personen, som skriftlig skal godkjenne dette.
+3\. For et kosmetisk produkt som er produsert i Fellesskapet og ikke deretter eksporteres og importeres tilbake til Fellesskapet, skal den framstilleren som er etablert i Fellesskapet, være den ansvarlige personen
+
+Framstilleren kan ved skriftlig mandat utpeke en person som er etablert i Fellesskapet som den ansvarlige personen, som skriftlig skal godkjenne dette.
 
 4\. Dersom framstilleren av et kosmetisk produkt som er produsert i Fellesskapet og ikke deretter eksporteres og importeres tilbake til Fellesskapet, er etablert utenfor Fellesskapet, skal vedkommende ved skriftlig mandat utpeke en person som er etablert i Fellesskapet, som den ansvarlige personen, som skriftlig skal godkjenne dette.
 
-5\. Når det gjelder importerte kosmetiske produkter, skal hver enkelt importør være den ansvarlige personen for det spesifikke kosmetiske produktet som vedkommende markedsfører.Importøren kan ved skriftlig mandat utpeke en person som er etablert i Fellesskapet som den ansvarlige personen, som skriftlig skal godkjenne dette.
+5\. Når det gjelder importerte kosmetiske produkter, skal hver enkelt importør være den ansvarlige personen for det spesifikke kosmetiske produktet som vedkommende markedsfører.
 
-6\. Distributøren skal være den ansvarlige personen dersom vedkommende markedsfører et kosmetisk produkt under sitt navn eller varemerke eller endrer et produkt som allerede er markedsført, på en slik måte at samsvar med det gjeldende kravet kan påvirkes.Oversettelsen av opplysninger om et kosmetisk produkt som allerede er markedsført, skal ikke anses som en endring av dette produktet av en slik art at samsvar med gjeldende krav i denne forordning kan påvirkes.
+Importøren kan ved skriftlig mandat utpeke en person som er etablert i Fellesskapet som den ansvarlige personen, som skriftlig skal godkjenne dette.
+
+6\. Distributøren skal være den ansvarlige personen dersom vedkommende markedsfører et kosmetisk produkt under sitt navn eller varemerke eller endrer et produkt som allerede er markedsført, på en slik måte at samsvar med det gjeldende kravet kan påvirkes.
+
+Oversettelsen av opplysninger om et kosmetisk produkt som allerede er markedsført, skal ikke anses som en endring av dette produktet av en slik art at samsvar med gjeldende krav i denne forordning kan påvirkes.
 
 ### Artikkel 5. Ansvarlige personers forpliktelser
 
 1\. Ansvarlige personer skal sikre samsvar med artikkel 3, 8, 10, 11, 12, 13, 14, 15, 16, 17 og 18, artikkel 19 nr. 1, 2 og 5, samt artikkel 20, 21, 23 og 24.
 
-2\. Ansvarlige personer som anser eller har grunn til å tro at et kosmetisk produkt som de har markedsført, ikke er i samsvar med denne forordning, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe produktet i samsvar med regelverket eller om nødvendig trekke det tilbake eller tilbakekalle det.Dersom dessuten det kosmetisk produktet utgjør en risiko for menneskers helse, skal ansvarlige personer umiddelbart underrette vedkommende nasjonale myndigheter i de medlemsstatene der de har gjort produktet tilgjengelig, og i de medlemsstatene der produktinformasjonsdokumentet er lett tilgjengelig, og gi opplysninger særlig om manglende samsvar og om de korrigerende tiltakene som er truffet.
+2\. Ansvarlige personer som anser eller har grunn til å tro at et kosmetisk produkt som de har markedsført, ikke er i samsvar med denne forordning, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe produktet i samsvar med regelverket eller om nødvendig trekke det tilbake eller tilbakekalle det.
+
+Dersom dessuten det kosmetisk produktet utgjør en risiko for menneskers helse, skal ansvarlige personer umiddelbart underrette vedkommende nasjonale myndigheter i de medlemsstatene der de har gjort produktet tilgjengelig, og i de medlemsstatene der produktinformasjonsdokumentet er lett tilgjengelig, og gi opplysninger særlig om manglende samsvar og om de korrigerende tiltakene som er truffet.
 
 3\. Ansvarlige personer skal samarbeide med disse myndighetene, på sistnevntes anmodning, om ethvert tiltak for å fjerne de risikoene som det kosmetiske produktet som de har gjort tilgjengelig på markedet, utgjør. Særlig skal ansvarlige personer på begrunnet anmodning fra vedkommende nasjonale myndighet gi denne alle opplysninger og all dokumentasjon som er nødvendig for å påvise samsvar ved de spesifikke sidene av produktet, på et språk som myndigheten lett kan forstå.
 
@@ -277,9 +382,18 @@ Bestemmelsen om advarsler skal ikke frita personer definert i artikkel 2 og 4 fr
 
 1\. I forbindelse med sin virksomhet skal distributørene når de gjør et kosmetisk produkt tilgjengelig på markedet, utvise behørig aktsomhet med hensyn til gjeldende krav.
 
-2\. Før de gjør et kosmetisk produkt tilgjengelig på markedet, skal distributørene verifisere at:opplysningene om merking fastsatt i artikkel 19 nr. 1 bokstav a), e) og g) og artikkel 19 nr. 3 og 4, foreligger,kravene til språk fastsatt i artikkel 19 nr. 5, er oppfylt,datoen for minste holdbarhet som eventuelt er angitt i samsvar med artikkel 19 nr. 1, ikke er utløpt.
+2\. Før de gjør et kosmetisk produkt tilgjengelig på markedet, skal distributørene verifisere at:
 
-3\. Dersom distributørene anser eller har grunn til å tro atet kosmetisk produkt ikke oppfyller kravene fastsatt i denne forordning, skal de ikke gjøre produktet tilgjengelig på markedet før det er brakt i samsvar med gjeldende krav,et kosmetisk produkt som de har gjort tilgjengelig på markedet, ikke er i samsvar med denne forordning, skal de sikre at de korrigerende tiltakene som er nødvendige for å bringe produktet i samsvar med regelverket, blir truffet, eller eventuelt trekke det tilbake eller tilbakekalle det.Dersom det kosmetiske produktet utgjør en risiko for menneskers helse, skal distributørene dessuten umiddelbart underrette den ansvarlige personen og vedkommende nasjonale myndigheter i de medlemsstatene der de har gjort produktet tilgjengelig på markedet, og gi nærmere opplysninger særlig om manglende samsvar og hvilke korrigerende tiltak som er truffet.
+- opplysningene om merking fastsatt i artikkel 19 nr. 1 bokstav a), e) og g) og artikkel 19 nr. 3 og 4, foreligger,
+- kravene til språk fastsatt i artikkel 19 nr. 5, er oppfylt,
+- datoen for minste holdbarhet som eventuelt er angitt i samsvar med artikkel 19 nr. 1, ikke er utløpt.
+
+3\. Dersom distributørene anser eller har grunn til å tro at
+
+- et kosmetisk produkt ikke oppfyller kravene fastsatt i denne forordning, skal de ikke gjøre produktet tilgjengelig på markedet før det er brakt i samsvar med gjeldende krav,
+- et kosmetisk produkt som de har gjort tilgjengelig på markedet, ikke er i samsvar med denne forordning, skal de sikre at de korrigerende tiltakene som er nødvendige for å bringe produktet i samsvar med regelverket, blir truffet, eller eventuelt trekke det tilbake eller tilbakekalle det.
+
+Dersom det kosmetiske produktet utgjør en risiko for menneskers helse, skal distributørene dessuten umiddelbart underrette den ansvarlige personen og vedkommende nasjonale myndigheter i de medlemsstatene der de har gjort produktet tilgjengelig på markedet, og gi nærmere opplysninger særlig om manglende samsvar og hvilke korrigerende tiltak som er truffet.
 
 4\. Distributørene skal så lenge de har ansvar for produktet, sikre at lagrings- eller transportvilkårene ikke setter produktets samsvar med kravene i artikkel 10 og vedlegg II i fare.
 
@@ -287,7 +401,10 @@ Bestemmelsen om advarsler skal ikke frita personer definert i artikkel 2 og 4 fr
 
 ### Artikkel 7. Identifikasjon innenfor forsyningskjeden
 
-På anmodning fra en vedkommende myndighetskal ansvarlige personer identifisere de distributørene som de leverer det kosmetiske produktet til,skal distributøren identifisere den distributøren eller den ansvarlige personen som det kosmetiske produktet blir levert fra, og de distributørene som det kosmetiske produktet blir levert til.
+På anmodning fra en vedkommende myndighet
+
+- skal ansvarlige personer identifisere de distributørene som de leverer det kosmetiske produktet til,
+- skal distributøren identifisere den distributøren eller den ansvarlige personen som det kosmetiske produktet blir levert fra, og de distributørene som det kosmetiske produktet blir levert til.
 
 Denne forpliktelsen skal gjelde i et tidsrom på tre år etter den datoen som partiet med det kosmetiske produktet ble gjort tilgjengelig for distributøren.
 
@@ -306,7 +423,17 @@ Sikkerhetsvurdering, produktinformasjonsdokument, melding
 
 ### Artikkel 10. Sikkerhetsvurdering
 
-1\. For å godtgjøre at et kosmetisk produkt er i samsvar med artikkel 3, skal den ansvarlige personen før vedkommende markedsfører et kosmetisk produkt, sikre at det kosmetiske produktet har gjennomgått en sikkerhetsvurdering på bakgrunn av de relevante opplysningene, og at en sikkerhetsrapport for det kosmetiske produktet er utarbeidet i samsvar med vedlegg I.Den ansvarlige personen skal sikre at:den beregnede bruken av det kosmetiske produktet og den forventede systemiske eksponeringen for enkeltstående bestanddeler i den endelige sammensetningen er tatt hensyn til i sikkerhetsvurderingen,en relevant metode basert på beviskraft er brukt i sikkerhetsvurderingen for å gå gjennom data fra alle eksisterende kilder,sikkerhetsrapporten for det kosmetiske produktet er holdt à jour, idet det tas hensyn til ytterligere relevante opplysninger som er kommet fram etter at produktet er markedsført.Første ledd skal også få anvendelse på kosmetiske produkter som er rapportert i henhold til direktiv [76/768/EØF](eu/31976l0768*).Kommisjonen skal i nært samarbeid med alle berørte parter vedta egnede retningslinjer for å gjøre foretak, særlig små og mellomstore bedrifter, i stand til å oppfylle kravene fastsatt i vedlegg I. Disse retningslinjene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 32 nr. 2.
+1\. For å godtgjøre at et kosmetisk produkt er i samsvar med artikkel 3, skal den ansvarlige personen før vedkommende markedsfører et kosmetisk produkt, sikre at det kosmetiske produktet har gjennomgått en sikkerhetsvurdering på bakgrunn av de relevante opplysningene, og at en sikkerhetsrapport for det kosmetiske produktet er utarbeidet i samsvar med vedlegg I.
+
+Den ansvarlige personen skal sikre at:
+
+1. den beregnede bruken av det kosmetiske produktet og den forventede systemiske eksponeringen for enkeltstående bestanddeler i den endelige sammensetningen er tatt hensyn til i sikkerhetsvurderingen,
+2. en relevant metode basert på beviskraft er brukt i sikkerhetsvurderingen for å gå gjennom data fra alle eksisterende kilder,
+3. sikkerhetsrapporten for det kosmetiske produktet er holdt à jour, idet det tas hensyn til ytterligere relevante opplysninger som er kommet fram etter at produktet er markedsført.
+
+Første ledd skal også få anvendelse på kosmetiske produkter som er rapportert i henhold til direktiv [76/768/EØF](eu/31976l0768*).
+
+Kommisjonen skal i nært samarbeid med alle berørte parter vedta egnede retningslinjer for å gjøre foretak, særlig små og mellomstore bedrifter, i stand til å oppfylle kravene fastsatt i vedlegg I. Disse retningslinjene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 32 nr. 2.
 
 2\. Sikkerhetsvurderingen for det kosmetiske produktet, som angitt i del B i vedlegg I, skal utføres av en person som innehar et diplom eller annet bevis på formell kvalifikasjon tildelt etter endt universitetsutdanning med teoretisk og praktisk studie i farmasi, toksikologi, medisin eller lignende fag, eller en utdanning som er anerkjent som likeverdig av en medlemsstat.
 
@@ -316,9 +443,17 @@ Sikkerhetsvurdering, produktinformasjonsdokument, melding
 
 1\. Dersom et kosmetisk produkt markedsføres, skal den ansvarlige personen oppbevare et produktinformasjonsdokument for det. Produktinformasjonsdokumentet skal oppbevares i et tidsrom på ti år etter den datoen da det siste partiet av det kosmetiske produktet ble markedsført.
 
-2\. Produktinformasjonsdokumentet skal inneholde følgende opplysninger og data, og dette skal ajourføres etter behov:en beskrivelse av det kosmetiske produktet som tydelig viser at det er sammenheng mellom produktinformasjonsdokumentet og det aktuelle kosmetiske produktet,det kosmetiske produktets sikkerhetsrapport nevnt i artikkel 10 nr. 1,en beskrivelse av framstillingsmetoden og en erklæring om samsvar med god framstillingspraksis nevnt i artikkel 8,dersom arten eller virkningen av det kosmetiske produktet berettiger det, bevis for den påståtte virkningen av det kosmetiske produktet,data om eventuelle dyreforsøk som er utført av framstilleren, dennes representanter eller leverandører i forbindelse med utvikling eller sikkerhetsvurdering av det kosmetiske produktet eller dets bestanddeler, herunder eventuelle dyreforsøk utført for å oppfylle krav i tredjestaters lover eller forskrifter.
+2\. Produktinformasjonsdokumentet skal inneholde følgende opplysninger og data, og dette skal ajourføres etter behov:
 
-3\. Den ansvarlige personen skal gjøre produktinformasjonsdokumentet lett tilgjengelig elektronisk eller i et annet format på sin adresse angitt på etiketten, for vedkommende myndighet i den medlemsstaten der dokumentet oppbevares.Opplysningene i produktinformasjonsdokumentet skal være tilgjengelig på et språk som lett kan forstås av vedkommende myndigheter i medlemsstaten.
+1. en beskrivelse av det kosmetiske produktet som tydelig viser at det er sammenheng mellom produktinformasjonsdokumentet og det aktuelle kosmetiske produktet,
+2. det kosmetiske produktets sikkerhetsrapport nevnt i artikkel 10 nr. 1,
+3. en beskrivelse av framstillingsmetoden og en erklæring om samsvar med god framstillingspraksis nevnt i artikkel 8,
+4. dersom arten eller virkningen av det kosmetiske produktet berettiger det, bevis for den påståtte virkningen av det kosmetiske produktet,
+5. data om eventuelle dyreforsøk som er utført av framstilleren, dennes representanter eller leverandører i forbindelse med utvikling eller sikkerhetsvurdering av det kosmetiske produktet eller dets bestanddeler, herunder eventuelle dyreforsøk utført for å oppfylle krav i tredjestaters lover eller forskrifter.
+
+3\. Den ansvarlige personen skal gjøre produktinformasjonsdokumentet lett tilgjengelig elektronisk eller i et annet format på sin adresse angitt på etiketten, for vedkommende myndighet i den medlemsstaten der dokumentet oppbevares.
+
+Opplysningene i produktinformasjonsdokumentet skal være tilgjengelig på et språk som lett kan forstås av vedkommende myndigheter i medlemsstaten.
 
 4\. Kravene fastsatt i nr. 1–3 i denne artikkel, får også anvendelse på kosmetiske produkter som er rapportert i henhold til direktiv [76/768/EØF](eu/31976l0768*).
 
@@ -330,36 +465,103 @@ Sikkerhetsvurdering, produktinformasjonsdokument, melding
 
 ### Artikkel 13. Melding
 
-1\. Før det kosmetiske produktet blir markedsført, skal den ansvarlige personen elektronisk sende følgende opplysninger til Kommisjonen:hvilken kategori det kosmetiske produktet tilhører og dets betegnelse(r), slik at det spesifikt kan identifiseres,navnet og adressen til den ansvarlige personen der produktinformasjonsdokumentet er gjort lett tilgjengelig,opprinnelsesstat i tilfelle av import,den medlemsstaten der produktet skal markedsføres,kontaktopplysningene til en fysisk person som ved behov kan kontaktes,forekomst av stoffer i form av nanomaterialer, samt:deres identifikasjon, herunder kjemisk betegnelse (IUPAC) og andre deskriptorer som angitt i nr. 2 i preambelen til vedlegg II–VI til denne forordning,de rimelig forutsigbare eksponeringsforholdene,betegnelsen og CAS- eller EF-nummer for stoffer som er klassifisert som kreftframkallende, arvestoffskadelige eller reproduksjonstoksiske (CMR) i kategori 1A eller 1B, i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*),rammesammensetningen som i tilfelle av problemer muliggjør rask og riktig medisinsk behandling.Første ledd får også anvendelse på kosmetiske produkter som er rapportert i henhold til direktiv [76/768/EØF](eu/31976l0768*).
+1\. Før det kosmetiske produktet blir markedsført, skal den ansvarlige personen elektronisk sende følgende opplysninger til Kommisjonen:
+
+1. hvilken kategori det kosmetiske produktet tilhører og dets betegnelse(r), slik at det spesifikt kan identifiseres,
+2. navnet og adressen til den ansvarlige personen der produktinformasjonsdokumentet er gjort lett tilgjengelig,
+3. opprinnelsesstat i tilfelle av import,
+4. den medlemsstaten der produktet skal markedsføres,
+5. kontaktopplysningene til en fysisk person som ved behov kan kontaktes,
+6. forekomst av stoffer i form av nanomaterialer, samt:
+
+   1. deres identifikasjon, herunder kjemisk betegnelse (IUPAC) og andre deskriptorer som angitt i nr. 2 i preambelen til vedlegg II–VI til denne forordning,
+   2. de rimelig forutsigbare eksponeringsforholdene,
+7. betegnelsen og CAS- eller EF-nummer for stoffer som er klassifisert som kreftframkallende, arvestoffskadelige eller reproduksjonstoksiske (CMR) i kategori 1A eller 1B, i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*),
+8. rammesammensetningen som i tilfelle av problemer muliggjør rask og riktig medisinsk behandling.
+
+Første ledd får også anvendelse på kosmetiske produkter som er rapportert i henhold til direktiv [76/768/EØF](eu/31976l0768*).
 
 2\. Dersom det kosmetiske produktet markedsføres, skal den ansvarlige personen melde originalmerkingen til Kommisjonen, og dersom det er rimelig leselig, et fotografi av den tilhørende emballasjen.
 
-3\. Fra 13. juli 2013 skal en distributør som gjør tilgjengelig i en medlemsstat et kosmetisk produkt som allerede er markedsført i en annen medlemsstat, og på eget initiativ oversetter en del av merkingen på dette produktet for å overholde nasjonal lovgivning, elektronisk sende følgende opplysninger til Kommisjonen:hvilken kategori det kosmetiske produktet tilhører, dets betegnelse i avsendermedlemsstaten og dets betegnelse i den medlemsstaten der det gjøres tilgjengelig, slik at det spesifikt kan identifiseres,den medlemsstaten der det kosmetiske produktet gjøres tilgjengelig,sitt navn og sin adresse,navnet og adressen til den ansvarlige personen der produktinformasjonsdokumentet er gjort lett tilgjengelig.
+3\. Fra 13. juli 2013 skal en distributør som gjør tilgjengelig i en medlemsstat et kosmetisk produkt som allerede er markedsført i en annen medlemsstat, og på eget initiativ oversetter en del av merkingen på dette produktet for å overholde nasjonal lovgivning, elektronisk sende følgende opplysninger til Kommisjonen:
 
-4\. Dersom et kosmetisk produkt er markedsført før 11. juli 2013, men ikke lenger markedsføres fra og med denne datoen, og en distributør innfører dette produktet i en medlemsstat etter denne datoen, skal vedkommende distributør melde følgende til den ansvarlige personen:hvilken kategori det kosmetiske produktet tilhører, dets betegnelse i avsendermedlemsstaten og dets betegnelse i den medlemsstaten der det gjøres tilgjengelig, slik at det spesifikt kan identifiseres,den medlemsstaten der det kosmetiske produktet gjøres tilgjengelig,sitt navn og sin adresse.På bakgrunn av denne meldingen skal den ansvarlige personen sende elektronisk til Kommisjonen de opplysningene som er nevnt i nr. 1 i denne artikkel, dersom meldinger i samsvar med artikkel 7 nr. 3 og artikkel 7a nr. 4 i direktiv [76/768/EØF](eu/31976l0768*) ikke er foretatt i den medlemsstaten der det kosmetiske produktet er gjort tilgjengelig.
+1. hvilken kategori det kosmetiske produktet tilhører, dets betegnelse i avsendermedlemsstaten og dets betegnelse i den medlemsstaten der det gjøres tilgjengelig, slik at det spesifikt kan identifiseres,
+2. den medlemsstaten der det kosmetiske produktet gjøres tilgjengelig,
+3. sitt navn og sin adresse,
+4. navnet og adressen til den ansvarlige personen der produktinformasjonsdokumentet er gjort lett tilgjengelig.
 
-5\. Kommisjonen skal uten opphold gjøre opplysningene nevnt i nr. 1 bokstav a)–g) og i nr. 2 og 3 tilgjengelig elektronisk for alle vedkommende myndigheter.Disse opplysningene kan vedkommende myndigheter bruke bare til markedstilsyn, markedsanalyse, evaluering og forbrukeropplysning innenfor rammen av artikkel 25, 26 og 27.
+4\. Dersom et kosmetisk produkt er markedsført før 11. juli 2013, men ikke lenger markedsføres fra og med denne datoen, og en distributør innfører dette produktet i en medlemsstat etter denne datoen, skal vedkommende distributør melde følgende til den ansvarlige personen:
 
-6\. Kommisjonen skal uten opphold gjøre opplysningene nevnt i nr. 1, 2 og 3 tilgjengelig elektronisk til giftsentraler eller lignende organer, dersom medlemsstatene har opprettet slike sentraler eller organer.Disse opplysningene kan brukes av disse organene bare med hensyn til medisinsk behandling.
+1. hvilken kategori det kosmetiske produktet tilhører, dets betegnelse i avsendermedlemsstaten og dets betegnelse i den medlemsstaten der det gjøres tilgjengelig, slik at det spesifikt kan identifiseres,
+2. den medlemsstaten der det kosmetiske produktet gjøres tilgjengelig,
+3. sitt navn og sin adresse.
+
+På bakgrunn av denne meldingen skal den ansvarlige personen sende elektronisk til Kommisjonen de opplysningene som er nevnt i nr. 1 i denne artikkel, dersom meldinger i samsvar med artikkel 7 nr. 3 og artikkel 7a nr. 4 i direktiv [76/768/EØF](eu/31976l0768*) ikke er foretatt i den medlemsstaten der det kosmetiske produktet er gjort tilgjengelig.
+
+5\. Kommisjonen skal uten opphold gjøre opplysningene nevnt i nr. 1 bokstav a)–g) og i nr. 2 og 3 tilgjengelig elektronisk for alle vedkommende myndigheter.
+
+Disse opplysningene kan vedkommende myndigheter bruke bare til markedstilsyn, markedsanalyse, evaluering og forbrukeropplysning innenfor rammen av artikkel 25, 26 og 27.
+
+6\. Kommisjonen skal uten opphold gjøre opplysningene nevnt i nr. 1, 2 og 3 tilgjengelig elektronisk til giftsentraler eller lignende organer, dersom medlemsstatene har opprettet slike sentraler eller organer.
+
+Disse opplysningene kan brukes av disse organene bare med hensyn til medisinsk behandling.
 
 7\. Dersom noen av opplysningene nevnt i nr. 1, 3 og 4 endres, skal den ansvarlige personen eller distributøren umiddelbart sørge for at opplysningene ajourføres.
 
-8\. Kommisjonen kan, idet det tas hensyn til den tekniske og vitenskapelige utvikling og særlige behov knyttet til markedstilsyn, endre nr. 1–7 ved å tilføye krav.Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+8\. Kommisjonen kan, idet det tas hensyn til den tekniske og vitenskapelige utvikling og særlige behov knyttet til markedstilsyn, endre nr. 1–7 ved å tilføye krav.
+
+Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
 
 ### Kapittel IV
 Begrensninger for visse stoffer
 
 ### Artikkel 14. Begrensninger for stoffer oppført i vedleggene
 
-1\. Med forbehold for artikkel 3 skal kosmetiske produkter ikke inneholde noe av følgende:forbudte stofferforbudte stoffer oppført i vedlegg II,stoffer som er omfattet av begrensningerstoffer som er omfattet av begrensninger, og som ikke brukes i samsvar med begrensningene fastsatt i vedlegg III,fargestofferandre fargestoffer enn dem som er oppført i vedlegg IV, og fargestoffer som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg, unntatt hårfargeprodukter nevnt i nr. 2,med forbehold for bokstav b), bokstav d) i) og bokstav e) i), stoffer som er oppført i vedlegg IV, men som ikke er beregnet på å bli brukt som fargestoffer, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,konserveringsmidlerandre konserveringsmidler enn dem som er oppført i vedlegg V, og konserveringsmidler som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,med forbehold for bokstav b), bokstav c) i) og bokstav e) i), stoffer som er oppført i vedlegg V, men som ikke er beregnet på å bli brukt som konserveringsmidler, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,UV-filtreandre UV-filtre enn dem som er oppført i vedlegg VI, og UV-filtre som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,med forbehold for bokstav b), bokstav c) i) og bokstav d) i), stoffer som er oppført i vedlegg VI, men som ikke er beregnet på å bli brukt som UV-filtre, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg.
+1\. Med forbehold for artikkel 3 skal kosmetiske produkter ikke inneholde noe av følgende:
 
-2\. Med forbehold for en beslutning fra Kommisjonen om å utvide virkeområdet til vedlegg IV til å omfatte hårfargeprodukter, skal slike produkter ikke inneholde fargestoffer beregnet på å farge håret, bortsett fra dem som er oppført i vedlegg IV, og fargestoffer beregnet på å farge håret som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg.Beslutningen fra Kommisjonen nevnt i første ledd, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+1. forbudte stoffer
+
+   - forbudte stoffer oppført i vedlegg II,
+2. stoffer som er omfattet av begrensninger
+
+   - stoffer som er omfattet av begrensninger, og som ikke brukes i samsvar med begrensningene fastsatt i vedlegg III,
+3. fargestoffer
+
+   1. andre fargestoffer enn dem som er oppført i vedlegg IV, og fargestoffer som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg, unntatt hårfargeprodukter nevnt i nr. 2,
+   2. med forbehold for bokstav b), bokstav d) i) og bokstav e) i), stoffer som er oppført i vedlegg IV, men som ikke er beregnet på å bli brukt som fargestoffer, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,
+4. konserveringsmidler
+
+   1. andre konserveringsmidler enn dem som er oppført i vedlegg V, og konserveringsmidler som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,
+   2. med forbehold for bokstav b), bokstav c) i) og bokstav e) i), stoffer som er oppført i vedlegg V, men som ikke er beregnet på å bli brukt som konserveringsmidler, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,
+5. UV-filtre
+
+   1. andre UV-filtre enn dem som er oppført i vedlegg VI, og UV-filtre som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg,
+   2. med forbehold for bokstav b), bokstav c) i) og bokstav d) i), stoffer som er oppført i vedlegg VI, men som ikke er beregnet på å bli brukt som UV-filtre, og som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg.
+
+2\. Med forbehold for en beslutning fra Kommisjonen om å utvide virkeområdet til vedlegg IV til å omfatte hårfargeprodukter, skal slike produkter ikke inneholde fargestoffer beregnet på å farge håret, bortsett fra dem som er oppført i vedlegg IV, og fargestoffer beregnet på å farge håret som er oppført der, men som ikke brukes i samsvar med vilkårene fastsatt i nevnte vedlegg.
+
+Beslutningen fra Kommisjonen nevnt i første ledd, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
 
 ### Artikkel 15. Stoffer som er klassifisert som CMR-stoffer
 
 1\. Bruken av kosmetiske produkter i stoffer som er klassifisert som CMR-stoffer i kategori 2, i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*), er forbudt. Et stoff som er klassifisert i kategori 2, kan imidlertid brukes i kosmetiske produkter dersom stoffet er vurdert av SCCS og funnet trygt for bruk i kosmetiske produkter. Kommisjonen skal for dette formål treffe de tiltakene som er nødvendige etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3 i denne forordning.
 
-2\. Bruken av kosmetiske produkter i stoffer som er klassifisert som CMR-stoffer i kategori 1A eller 1B, i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*), er forbudt.Slike stoffer kan imidlertid unntaksvis brukes i kosmetiske produkter dersom alle følgende vilkår er oppfylt etter at de er klassifisert som CMR-stoffer i kategori 1A eller 1B i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*):de oppfyller kravene til næringsmiddeltrygghet som definert i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1det er dokumentert ved en analyse av mulige alternativer at det ikke finnes egnede alternative stoffer,det er søkt om en særlig bruk av produktkategorien med en kjent eksponering, ogde er evaluert og er funnet trygge av SCCS for bruk i kosmetiske produkter, særlig med sikte på eksponering for disse produktene, idet den samlede eksponeringen fra andre kilder tas i betraktning, og idet det tas særlig hensyn til sårbare grupper av befolkningen.Særlig merking for å unngå misbruk av det kosmetiske produktet skal være sikret i samsvar med artikkel 3 i denne forordning, idet det tas hensyn til mulige risikoer knyttet til forekomsten av farlige stoffer og opptaksveiene.For å kunne gjennomføre dette nummer, skal Kommisjonen endre vedleggene til denne forordning etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3 i denne forordning, innen 15 måneder etter at de aktuelle stoffene er oppført i del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*).Når det foreligger tvingende hasteårsaker, kan Kommisjonen benytte framgangsmåten for behandling av hastesaker nevnt i artikkel 32 nr. 4 i denne forordning.Kommisjonen skal bemyndige SCCS til å foreta ny vurdering av disse stoffene så snart det oppstår tvil om sikkerheten, og senest fem år etter at stoffene er oppført i vedlegg III–VI til denne forordning, og minst hvert femte år deretter.
+2\. Bruken av kosmetiske produkter i stoffer som er klassifisert som CMR-stoffer i kategori 1A eller 1B, i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*), er forbudt.
+
+Slike stoffer kan imidlertid unntaksvis brukes i kosmetiske produkter dersom alle følgende vilkår er oppfylt etter at de er klassifisert som CMR-stoffer i kategori 1A eller 1B i samsvar med del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*):
+
+1. de oppfyller kravene til næringsmiddeltrygghet som definert i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1
+2. det er dokumentert ved en analyse av mulige alternativer at det ikke finnes egnede alternative stoffer,
+3. det er søkt om en særlig bruk av produktkategorien med en kjent eksponering, og
+4. de er evaluert og er funnet trygge av SCCS for bruk i kosmetiske produkter, særlig med sikte på eksponering for disse produktene, idet den samlede eksponeringen fra andre kilder tas i betraktning, og idet det tas særlig hensyn til sårbare grupper av befolkningen.
+
+Særlig merking for å unngå misbruk av det kosmetiske produktet skal være sikret i samsvar med artikkel 3 i denne forordning, idet det tas hensyn til mulige risikoer knyttet til forekomsten av farlige stoffer og opptaksveiene.
+
+For å kunne gjennomføre dette nummer, skal Kommisjonen endre vedleggene til denne forordning etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3 i denne forordning, innen 15 måneder etter at de aktuelle stoffene er oppført i del 3 i vedlegg VI til forordning [(EF) nr. 1272/2008](eu/32008r1272*).
+
+Når det foreligger tvingende hasteårsaker, kan Kommisjonen benytte framgangsmåten for behandling av hastesaker nevnt i artikkel 32 nr. 4 i denne forordning.
+
+Kommisjonen skal bemyndige SCCS til å foreta ny vurdering av disse stoffene så snart det oppstår tvil om sikkerheten, og senest fem år etter at stoffene er oppført i vedlegg III–VI til denne forordning, og minst hvert femte år deretter.
 
 3\. Innen 11. januar 2012 skal Kommisjonen sikre at det er utarbeidet hensiktsmessige retningslinjer med sikte på å muliggjøre en harmonisert metode for å utarbeide og bruke beregninger av samlet eksponering når sikker bruk av CMR-stoffer skal vurderes. Disse retningslinjene skal utarbeides i samråd med SCCS, ECHA, EFSA og andre relevante berørte parter, og når det er hensiktsmessig, støtte seg til relevant beste praksis.
 
@@ -373,7 +575,24 @@ Begrensninger for visse stoffer
 
 2\. Bestemmelsene i denne artikkel får ikke anvendelse på nanomaterialer som brukes som fargestoffer, UV-filtre eller konserveringsmidler som er regulert i henhold til artikkel 14, med mindre dette er uttrykkelig angitt.
 
-3\. I tillegg til meldingen fastsatt i artikkel 13, skal kosmetiske produkter som inneholder nanomaterialer elektronisk meldes til Kommisjonen av den ansvarlige personen seks måneder før markedsføring, unntatt dersom de allerede er markedsført av den samme ansvarlige personen før 11. januar 2013.I sistnevnte tilfelle skal kosmetiske produkter som inneholder nanomaterialer som er markedsført, meldes elektronisk til Kommisjonen av den ansvarlige personen mellom 11. januar 2013 og 11. juli 2013, i tillegg til meldingen i artikkel 13.Første og annet ledd får ikke anvendelse på kosmetiske produkter som inneholder nanomaterialer som oppfyller kravene fastsatt i vedlegg III.Opplysningene meldt til Kommisjonen, skal inneholde minst følgende:identifikasjon av nanomaterialet, herunder dets kjemiske betegnelse (IUPAC) og andre deskriptorer som angitt i nr. 2 i preambelen til vedlegg II–VI,spesifikasjon av nanomaterialet, herunder partikkelstørrelse, fysiske og kjemiske egenskaper,et overslag per år over mengden nanomateriale i kosmetiske produkter som er beregnet på å bli markedsført,nanomaterialets toksikologiske profil,nanomaterialets sikkerhetsdata knyttet til den kategorien kosmetiske produkter det brukes i,de rimelig forutsigbare eksponeringsforholdene.Den ansvarlige personen kan ved skriftlig mandat utpeke en annen juridisk eller fysisk person med henblikk på melding om nanomaterialer, og skal underrette Kommisjonen om dette.Kommisjonen skal tildele et referansenummer ved opplysning om den toksikologiske profilen, og dette kan erstatte opplysningene som skal meldes i henhold til bokstav d).
+3\. I tillegg til meldingen fastsatt i artikkel 13, skal kosmetiske produkter som inneholder nanomaterialer elektronisk meldes til Kommisjonen av den ansvarlige personen seks måneder før markedsføring, unntatt dersom de allerede er markedsført av den samme ansvarlige personen før 11. januar 2013.
+
+I sistnevnte tilfelle skal kosmetiske produkter som inneholder nanomaterialer som er markedsført, meldes elektronisk til Kommisjonen av den ansvarlige personen mellom 11. januar 2013 og 11. juli 2013, i tillegg til meldingen i artikkel 13.
+
+Første og annet ledd får ikke anvendelse på kosmetiske produkter som inneholder nanomaterialer som oppfyller kravene fastsatt i vedlegg III.
+
+Opplysningene meldt til Kommisjonen, skal inneholde minst følgende:
+
+1. identifikasjon av nanomaterialet, herunder dets kjemiske betegnelse (IUPAC) og andre deskriptorer som angitt i nr. 2 i preambelen til vedlegg II–VI,
+2. spesifikasjon av nanomaterialet, herunder partikkelstørrelse, fysiske og kjemiske egenskaper,
+3. et overslag per år over mengden nanomateriale i kosmetiske produkter som er beregnet på å bli markedsført,
+4. nanomaterialets toksikologiske profil,
+5. nanomaterialets sikkerhetsdata knyttet til den kategorien kosmetiske produkter det brukes i,
+6. de rimelig forutsigbare eksponeringsforholdene.
+
+Den ansvarlige personen kan ved skriftlig mandat utpeke en annen juridisk eller fysisk person med henblikk på melding om nanomaterialer, og skal underrette Kommisjonen om dette.
+
+Kommisjonen skal tildele et referansenummer ved opplysning om den toksikologiske profilen, og dette kan erstatte opplysningene som skal meldes i henhold til bokstav d).
 
 4\. Dersom Kommisjonen er i tvil om sikkerheten ved et nanomateriale, skal Kommisjonen uten opphold anmode SCCS om å gi en uttalelse om dette nanomaterialets sikkerhet ved bruk i de relevante kategoriene av kosmetiske produkter, og om de rimelig forutsigbare eksponeringsforholdene. Kommisjonen skal offentliggjøre disse opplysningene. SCCS skal avgi sin uttalelse innen seks måneder etter Kommisjonens anmodning. Dersom SCCS fastslår at det mangler nødvendige data, skal Kommisjonen be den ansvarlige personen om å legge fram slike data innen en uttrykkelig angitt og rimelig frist, som ikke skal forlenges. SCCS skal avgi sin endelige uttalelse innen seks måneder etter innlevering av tilleggsdataene. Uttalelsen fra SCCS skal offentliggjøres.
 
@@ -387,9 +606,15 @@ Begrensninger for visse stoffer
 
 9\. Når det foreligger tvingende hasteårsaker, kan Kommisjonen benytte framgangsmåten nevnt i artikkel 32 nr. 4.
 
-10\. Kommisjonen skal gjøre følgende opplysninger tilgjengelige:Innen 11. januar 2014 skal Kommisjonen gjøre tilgjengelig en katalog med alle nanomaterialer som brukes i kosmetiske produkter som er markedsført, herunder en egen del for dem som brukes som fargestoffer, UV-filtre og konserveringsmidler, der kategoriene av kosmetiske produkter angis, samt rimelig forutsigbare eksponeringsforhold. Denne katalogen skal deretter ajourføres jevnlig og offentliggjøres.Kommisjonen skal sende en årlig statusrapport til Europaparlamentet og Rådet, der det vil bli gitt opplysninger om utviklingen i bruken av nanomaterialer i kosmetiske produkter i Fellesskapet, herunder en egen del for dem som brukes som fargestoffer, UV-filtre og konserveringsmidler. Den første rapporten skal framlegges innen 11. juli 2014. Ajourføringen av rapporten skal særlig gi en oversikt over de nye nanomaterialene i nye kategorier av kosmetiske produkter, antall meldinger, framgangen i arbeidet med å utvikle nanospesifikke vurderingsmetoder og retningslinjer for sikkerhetsvurdering, samt opplysninger om internasjonale samarbeidsprogrammer.
+10\. Kommisjonen skal gjøre følgende opplysninger tilgjengelige:
 
-11\. Kommisjonen skal jevnlig revidere bestemmelsene i denne forordning om nanomaterialer i lys av den vitenskapelige utvikling, og skal om nødvendig foreslå egnede endringer av disse bestemmelsene.Den første revisjonen skal være foretatt innen 11. juli 2018.
+1. Innen 11. januar 2014 skal Kommisjonen gjøre tilgjengelig en katalog med alle nanomaterialer som brukes i kosmetiske produkter som er markedsført, herunder en egen del for dem som brukes som fargestoffer, UV-filtre og konserveringsmidler, der kategoriene av kosmetiske produkter angis, samt rimelig forutsigbare eksponeringsforhold. Denne katalogen skal deretter ajourføres jevnlig og offentliggjøres.
+
+1. Kommisjonen skal sende en årlig statusrapport til Europaparlamentet og Rådet, der det vil bli gitt opplysninger om utviklingen i bruken av nanomaterialer i kosmetiske produkter i Fellesskapet, herunder en egen del for dem som brukes som fargestoffer, UV-filtre og konserveringsmidler. Den første rapporten skal framlegges innen 11. juli 2014. Ajourføringen av rapporten skal særlig gi en oversikt over de nye nanomaterialene i nye kategorier av kosmetiske produkter, antall meldinger, framgangen i arbeidet med å utvikle nanospesifikke vurderingsmetoder og retningslinjer for sikkerhetsvurdering, samt opplysninger om internasjonale samarbeidsprogrammer.
+
+11\. Kommisjonen skal jevnlig revidere bestemmelsene i denne forordning om nanomaterialer i lys av den vitenskapelige utvikling, og skal om nødvendig foreslå egnede endringer av disse bestemmelsene.
+
+Den første revisjonen skal være foretatt innen 11. juli 2018.
 
 ### Artikkel 17. Spor av forbudte stoffer
 
@@ -400,11 +625,38 @@ Dyreforsøk
 
 ### Artikkel 18. Dyreforsøk
 
-1\. Med forbehold for de allmenne forpliktelsene som følger av artikkel 3, er følgende forbudt:å markedsføre kosmetiske produkter der den endelige sammensetningen, for å oppfylle kravene i denne forordning, har vært gjenstand for dyreforsøk ved hjelp av en annen metode enn en alternativ metode etter at en slik alternativ metode er validert og vedtatt på fellesskapsplan, idet det er tatt behørig hensyn til utviklingen av valideringen i OECD,å markedsføre kosmetiske produkter som inneholder bestanddeler eller kombinasjoner av bestanddeler som for å oppfylle kravene i denne forordning, har vært gjenstand for dyreforsøk ved hjelp av en annen metode enn en alternativ metode etter at en slik alternativ metode er validert og vedtatt på fellesskapsplan, idet det er tatt behørig hensyn til utviklingen av valideringen i OECD,å utføre dyreforsøk i Fellesskapet med det endelige kosmetiske produktet for at det skal oppfylle kravene i denne forordning,å utføre dyreforsøk i Fellesskapet med bestanddeler eller kombinasjoner av bestanddeler for å oppfylle kravene i denne forordning, etter den datoen da slike forsøk skal erstattes med en eller flere av de validerte alternative metodene som er oppført i kommisjonsforordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH)1 eller i vedlegg VIII til denne forordning.
+1\. Med forbehold for de allmenne forpliktelsene som følger av artikkel 3, er følgende forbudt:
 
-2\. Kommisjonen har, etter samråd med SCCS og Det europeiske senter for validering av alternative metoder (ECVAM) og idet det tas behørig hensyn til utviklingen av valideringen i OECD, opprettet tidsplaner for gjennomføringen av bestemmelsene i nr. 1 bokstav a), b) og d), herunder frister for utfasing av forskjellige forsøk. Tidsplanene ble offentliggjort 1. oktober 2004 og sendt til Europaparlamentet og Rådet. Gjennomføringsperioden var med hensyn til nr. 1 bokstav a), b) og c), begrenset til 11. mars 2009.Når det gjelder forsøk for giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, som det ennå ikke er vurdert noen alternativer for, skal gjennomføringsperioden for nr. 1 bokstav a) og b) begrenses til 11. mars 2013.Kommisjonen skal undersøke mulige tekniske vanskeligheter med å overholde forbudet knyttet til forsøk, særlig dem som gjelder giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, som det ennå ikke er vurdert noen alternativer for. Opplysninger om de foreløpige og endelige resultatene av disse undesøkelsene utgjør en del av de årlige rapportene som framlegges i henhold til artikkel 35.På grunnlag av disse årlige rapportene, kan tidsplanene opprettet som nevnt i første ledd, tilpasses fram til 11. mars 2009 når det gjelder første ledd, og fram til 11. mars 2013 når det gjelder annet ledd og etter samråd med organene nevnt i første ledd.Kommisjonen skal undersøke utviklingen og overholdelsen av fristene, samt mulige tekniske vanskeligheter med å overholde forbudet. Opplysninger om de foreløpige og endelige resultatene av Kommisjonens undesøkelser utgjør en del av de årlige rapportene som framlegges i henhold til artikkel 35. Dersom disse undersøkelsene, senest to år før utløpet av den lengste fristen nevnt i annet ledd, viser at ett eller flere forsøk omhandlet i nevnte ledd, ikke vil bli utviklet og validert før den fristen som er omhandlet i nevnte ledd er utløpt, skal Kommisjonen underrette Europaparlamentet og Rådet og legge fram et forslag til regelverk i samsvar med traktatens artikkel 251.Under særlige omstendigheter kan en medlemsstat be Kommisjonen om å gi unntak fra nr. 1 dersom det oppstår alvorlig tvil om sikkerheten ved en eksisterende bestanddel i et kosmetisk produkt. En slik anmodning skal inneholde en vurdering av situasjonen og angi nødvendige tiltak. På bakgrunn av dette kan Kommisjonen, etter samråd med SCCS og etter å ha truffet en begrunnet beslutning, godkjenne unntaket. Denne godkjenningen skal fastsette vilkårene knyttet til dette unntaket med hensyn til spesifikke mål, varighet og rapportering av resultater.Et unntak skal gis bare dersombestanddelen er allment brukt og ikke kan erstattes av en annen bestanddel som kan ha en lignende funksjon,det spesifikke problemet med hensyn til menneskers helse er underbygd, og behovet for å foreta dyreforsøk er berettiget og støttes av en detaljert forskningsprotokoll som er foreslått som grunnlag for vurderingen.Beslutningen om godkjenning, vilkårene knyttet til den og det endelige resultatet som oppnås, skal være med i den årlige rapporten som Kommisjonen framlegger i samsvar med artikkel 35.Tiltakene nevnt i sjette ledd, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+1. å markedsføre kosmetiske produkter der den endelige sammensetningen, for å oppfylle kravene i denne forordning, har vært gjenstand for dyreforsøk ved hjelp av en annen metode enn en alternativ metode etter at en slik alternativ metode er validert og vedtatt på fellesskapsplan, idet det er tatt behørig hensyn til utviklingen av valideringen i OECD,
+2. å markedsføre kosmetiske produkter som inneholder bestanddeler eller kombinasjoner av bestanddeler som for å oppfylle kravene i denne forordning, har vært gjenstand for dyreforsøk ved hjelp av en annen metode enn en alternativ metode etter at en slik alternativ metode er validert og vedtatt på fellesskapsplan, idet det er tatt behørig hensyn til utviklingen av valideringen i OECD,
+3. å utføre dyreforsøk i Fellesskapet med det endelige kosmetiske produktet for at det skal oppfylle kravene i denne forordning,
+4. å utføre dyreforsøk i Fellesskapet med bestanddeler eller kombinasjoner av bestanddeler for å oppfylle kravene i denne forordning, etter den datoen da slike forsøk skal erstattes med en eller flere av de validerte alternative metodene som er oppført i kommisjonsforordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH)1 eller i vedlegg VIII til denne forordning.
 
-3\. I denne artikkel og artikkel 20 menes med:«ferdig kosmetisk produkt» det kosmetiske produktet i sin endelige sammensetning, slik det markedsføres og gjøres tilgjengelig for sluttbrukeren, eller dets prototyp,«prototyp» en første modell eller konstruksjon som ikke er produsert i partier, og som det ferdige kosmetiske produktet er kopiert eller endelig utviklet fra.
+2\. Kommisjonen har, etter samråd med SCCS og Det europeiske senter for validering av alternative metoder (ECVAM) og idet det tas behørig hensyn til utviklingen av valideringen i OECD, opprettet tidsplaner for gjennomføringen av bestemmelsene i nr. 1 bokstav a), b) og d), herunder frister for utfasing av forskjellige forsøk. Tidsplanene ble offentliggjort 1. oktober 2004 og sendt til Europaparlamentet og Rådet. Gjennomføringsperioden var med hensyn til nr. 1 bokstav a), b) og c), begrenset til 11. mars 2009.
+
+Når det gjelder forsøk for giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, som det ennå ikke er vurdert noen alternativer for, skal gjennomføringsperioden for nr. 1 bokstav a) og b) begrenses til 11. mars 2013.
+
+Kommisjonen skal undersøke mulige tekniske vanskeligheter med å overholde forbudet knyttet til forsøk, særlig dem som gjelder giftighet ved gjentatt dose, reproduksjonstoksisitet og toksikokinetikk, som det ennå ikke er vurdert noen alternativer for. Opplysninger om de foreløpige og endelige resultatene av disse undesøkelsene utgjør en del av de årlige rapportene som framlegges i henhold til artikkel 35.
+
+På grunnlag av disse årlige rapportene, kan tidsplanene opprettet som nevnt i første ledd, tilpasses fram til 11. mars 2009 når det gjelder første ledd, og fram til 11. mars 2013 når det gjelder annet ledd og etter samråd med organene nevnt i første ledd.
+
+Kommisjonen skal undersøke utviklingen og overholdelsen av fristene, samt mulige tekniske vanskeligheter med å overholde forbudet. Opplysninger om de foreløpige og endelige resultatene av Kommisjonens undesøkelser utgjør en del av de årlige rapportene som framlegges i henhold til artikkel 35. Dersom disse undersøkelsene, senest to år før utløpet av den lengste fristen nevnt i annet ledd, viser at ett eller flere forsøk omhandlet i nevnte ledd, ikke vil bli utviklet og validert før den fristen som er omhandlet i nevnte ledd er utløpt, skal Kommisjonen underrette Europaparlamentet og Rådet og legge fram et forslag til regelverk i samsvar med traktatens artikkel 251.
+
+Under særlige omstendigheter kan en medlemsstat be Kommisjonen om å gi unntak fra nr. 1 dersom det oppstår alvorlig tvil om sikkerheten ved en eksisterende bestanddel i et kosmetisk produkt. En slik anmodning skal inneholde en vurdering av situasjonen og angi nødvendige tiltak. På bakgrunn av dette kan Kommisjonen, etter samråd med SCCS og etter å ha truffet en begrunnet beslutning, godkjenne unntaket. Denne godkjenningen skal fastsette vilkårene knyttet til dette unntaket med hensyn til spesifikke mål, varighet og rapportering av resultater.
+
+Et unntak skal gis bare dersom
+
+1. bestanddelen er allment brukt og ikke kan erstattes av en annen bestanddel som kan ha en lignende funksjon,
+2. det spesifikke problemet med hensyn til menneskers helse er underbygd, og behovet for å foreta dyreforsøk er berettiget og støttes av en detaljert forskningsprotokoll som er foreslått som grunnlag for vurderingen.
+
+Beslutningen om godkjenning, vilkårene knyttet til den og det endelige resultatet som oppnås, skal være med i den årlige rapporten som Kommisjonen framlegger i samsvar med artikkel 35.
+
+Tiltakene nevnt i sjette ledd, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+
+3\. I denne artikkel og artikkel 20 menes med:
+
+1. «ferdig kosmetisk produkt» det kosmetiske produktet i sin endelige sammensetning, slik det markedsføres og gjøres tilgjengelig for sluttbrukeren, eller dets prototyp,
+2. «prototyp» en første modell eller konstruksjon som ikke er produsert i partier, og som det ferdige kosmetiske produktet er kopiert eller endelig utviklet fra.
 
 1 EUT L 142 av 31.5.2008, s. 1.
 
@@ -413,9 +665,39 @@ Forbrukeropplysning
 
 ### Artikkel 19. Merking
 
-1\. Med forbehold for andre bestemmelser i denne artikkel, skal kosmetiske produkter gjøres tilgjengelig på markedet bare dersom beholderen og emballasjen til det kosmetiske produktet er påført følgende opplysninger med en skrift som er synlig, lett leselig og ikke kan slettes:navn eller registrert navn og adresse til den ansvarlige personen. Slike opplysninger kan forkortes i den grad forkortelsen gjør det mulig å identifisere personen og hans adresse. Dersom flere adresser er angitt, skal den adressen der den ansvarlige personen gjør produktinformasjonsdokumentet lett tilgjengelig, utheves. Opprinnelsesstaten skal angis for importerte kosmetiske produkter,det nominelle innholdet på emballeringstidspunktet, angitt med vekt eller volum, bortsett fra når det gjelder emballasje som inneholder mindre enn fem gram eller fem milliliter, gratisprøver og engangsemballasje; for ferdigpakninger som normalt selges i et visst antall enheter, uten at opplysninger om vekt eller volum har noen betydning, behøver ikke innholdet angis, forutsatt at antall enheter er angitt på emballasjen. Slike opplysninger behøver ikke å angis dersom antall enheter er enkelt å se fra utsiden, eller dersom produktet vanligvis selges bare enkeltvis,hvilken dato det kosmetiske produktet, oppbevart under egnede forhold, vil opprettholde sin opprinnelige funksjon fram til, og særlig fortsatt vil være i samsvar med artikkel 3 («dato for minste holdbarhet»).Foran selve datoen eller opplysninger om hvor den står på emballasjen, skal det være et symbol som vist i nr. 3 i vedlegg VII, eller det skal stå: «Best før:»Datoen for minste holdbarhet skal angis tydelig og bestå av enten måned og år eller dag, måned og år, i nevnte rekkefølge. Om nødvendig skal disse opplysningene suppleres av en angivelse av de vilkårene som må være oppfylt for å sikre den angitte holdbarheten.Angivelse av datoen for minste holdbarhet skal ikke være obligatorisk for kosmetiske produkter med en minste holdbarhet på mer enn 30 måneder. For slike produkter skal det være en angivelse av hvor lenge etter åpning produktet er trygt og kan brukes uten fare for forbrukeren. Disse opplysningene skal angis, bortsett fra når holdbarhet etter åpning ikke er relevant, med symbolet vist i nr. 2 i vedlegg VII, fulgt av tidsrommet (i måneder og/eller år),særlige forholdsregler som skal overholdes ved bruk, og minst de som er oppført i vedlegg III–VI og eventuelle særlige opplysninger om forholdsregler for kosmetiske produkter til yrkesmessig bruk,partiets produksjonsnummer eller referansen for identifikasjon av det kosmetiske produktet. Dersom dette av praktiske årsaker er umulig fordi de kosmetiske produktene er for små, trenger slike opplysninger bare å være påført emballasjen,det kosmetiske produktets funksjon, med mindre dette framgår av presentasjonen,en liste over bestanddeler. Det er tilstrekkelig at disse opplysningene bare angis på emballasjen. Foran listen skal det stå «ingredients».I denne artikkel menes med «bestanddel» ethvert stoff eller enhver stoffblanding som er tilsiktet brukt i det kosmetiske produktet under framstillingsprosessen. Følgende skal imidlertid ikke betraktes som bestanddeler:urenheter i de råstoffene som er brukt,sekundært teknisk materiale som er brukt i stoffblandingen, men som ikke forekommer i det ferdige produktet.Parfyme og aromatiske sammensetninger og deres råstoffer skal vises til med begrepene «parfum» eller «aroma». Dessuten skal forekomsten av stoffer som kreves nevnt i kolonnen «Andre» i vedlegg III, være angitt på listen over bestanddeler i tillegg til begrepene parfum eller aroma.Listen over bestanddeler skal settes opp i synkende rekkefølge etter vekten på bestanddelene på det tidspunktet de tilsettes i det kosmetiske produktet. Bestanddeler i konsentrasjoner på mindre enn 1 % kan oppføres i vilkårlig rekkefølge etter de bestanddelene som har høyere konsentrasjoner enn 1 %.Alle bestanddeler som forekommer i form av nanomaterialer, skal være tydelig angitt på listen over bestanddeler. Navnene på slike bestanddeler skal følges av ordet «nano» i parentes.Andre fargestoffer enn dem som er beregnet på hårfarging, kan oppføres i vilkårlig rekkefølge etter de andre kosmetiske bestanddelene. Til dekorative kosmetiske produkter som markedsføres i flere fargenyanser, kan alle fargestoffer som ikke er beregnet på hårfarging og som brukes i de forskjellige fargenyansene, oppføres, forutsatt at ordene «kan inneholde» eller symbolet «+/-» er tilføyd. CI-nomenklaturen (Colour Index) skal eventuelt benyttes.
+1\. Med forbehold for andre bestemmelser i denne artikkel, skal kosmetiske produkter gjøres tilgjengelig på markedet bare dersom beholderen og emballasjen til det kosmetiske produktet er påført følgende opplysninger med en skrift som er synlig, lett leselig og ikke kan slettes:
 
-2\. Dersom det av praktiske årsaker er umulig å merke de opplysningene som er nevnt i nr. 1 bokstav d) og g) som fastsatt, gjelder følgende:opplysningene skal nevnes i et pakningsvedlegg, på en etikett, et bånd, et merke eller et kort som er vedlagt eller vedheftet,med mindre det praktisk ikke er mulig, skal det vises til disse opplysningene med en forkortelse eller symbolet gjengitt i nr. 1 i vedlegg VII, som skal være påført beholderen eller emballasjen når det gjelder opplysningene nevnt i nr. 1 bokstav d), og på emballasjen når det gjelder opplysningene nevnt i nr. 1 bokstav g).
+1. navn eller registrert navn og adresse til den ansvarlige personen. Slike opplysninger kan forkortes i den grad forkortelsen gjør det mulig å identifisere personen og hans adresse. Dersom flere adresser er angitt, skal den adressen der den ansvarlige personen gjør produktinformasjonsdokumentet lett tilgjengelig, utheves. Opprinnelsesstaten skal angis for importerte kosmetiske produkter,
+2. det nominelle innholdet på emballeringstidspunktet, angitt med vekt eller volum, bortsett fra når det gjelder emballasje som inneholder mindre enn fem gram eller fem milliliter, gratisprøver og engangsemballasje; for ferdigpakninger som normalt selges i et visst antall enheter, uten at opplysninger om vekt eller volum har noen betydning, behøver ikke innholdet angis, forutsatt at antall enheter er angitt på emballasjen. Slike opplysninger behøver ikke å angis dersom antall enheter er enkelt å se fra utsiden, eller dersom produktet vanligvis selges bare enkeltvis,
+3. hvilken dato det kosmetiske produktet, oppbevart under egnede forhold, vil opprettholde sin opprinnelige funksjon fram til, og særlig fortsatt vil være i samsvar med artikkel 3 («dato for minste holdbarhet»).
+
+   Foran selve datoen eller opplysninger om hvor den står på emballasjen, skal det være et symbol som vist i nr. 3 i vedlegg VII, eller det skal stå: «Best før:»
+
+   Datoen for minste holdbarhet skal angis tydelig og bestå av enten måned og år eller dag, måned og år, i nevnte rekkefølge. Om nødvendig skal disse opplysningene suppleres av en angivelse av de vilkårene som må være oppfylt for å sikre den angitte holdbarheten.
+
+   Angivelse av datoen for minste holdbarhet skal ikke være obligatorisk for kosmetiske produkter med en minste holdbarhet på mer enn 30 måneder. For slike produkter skal det være en angivelse av hvor lenge etter åpning produktet er trygt og kan brukes uten fare for forbrukeren. Disse opplysningene skal angis, bortsett fra når holdbarhet etter åpning ikke er relevant, med symbolet vist i nr. 2 i vedlegg VII, fulgt av tidsrommet (i måneder og/eller år),
+4. særlige forholdsregler som skal overholdes ved bruk, og minst de som er oppført i vedlegg III–VI og eventuelle særlige opplysninger om forholdsregler for kosmetiske produkter til yrkesmessig bruk,
+5. partiets produksjonsnummer eller referansen for identifikasjon av det kosmetiske produktet. Dersom dette av praktiske årsaker er umulig fordi de kosmetiske produktene er for små, trenger slike opplysninger bare å være påført emballasjen,
+6. det kosmetiske produktets funksjon, med mindre dette framgår av presentasjonen,
+7. en liste over bestanddeler. Det er tilstrekkelig at disse opplysningene bare angis på emballasjen. Foran listen skal det stå «ingredients».
+
+   I denne artikkel menes med «bestanddel» ethvert stoff eller enhver stoffblanding som er tilsiktet brukt i det kosmetiske produktet under framstillingsprosessen. Følgende skal imidlertid ikke betraktes som bestanddeler:
+
+   1. urenheter i de råstoffene som er brukt,
+   2. sekundært teknisk materiale som er brukt i stoffblandingen, men som ikke forekommer i det ferdige produktet.
+
+   Parfyme og aromatiske sammensetninger og deres råstoffer skal vises til med begrepene «parfum» eller «aroma». Dessuten skal forekomsten av stoffer som kreves nevnt i kolonnen «Andre» i vedlegg III, være angitt på listen over bestanddeler i tillegg til begrepene parfum eller aroma.
+
+   Listen over bestanddeler skal settes opp i synkende rekkefølge etter vekten på bestanddelene på det tidspunktet de tilsettes i det kosmetiske produktet. Bestanddeler i konsentrasjoner på mindre enn 1 % kan oppføres i vilkårlig rekkefølge etter de bestanddelene som har høyere konsentrasjoner enn 1 %.
+
+   Alle bestanddeler som forekommer i form av nanomaterialer, skal være tydelig angitt på listen over bestanddeler. Navnene på slike bestanddeler skal følges av ordet «nano» i parentes.
+
+   Andre fargestoffer enn dem som er beregnet på hårfarging, kan oppføres i vilkårlig rekkefølge etter de andre kosmetiske bestanddelene. Til dekorative kosmetiske produkter som markedsføres i flere fargenyanser, kan alle fargestoffer som ikke er beregnet på hårfarging og som brukes i de forskjellige fargenyansene, oppføres, forutsatt at ordene «kan inneholde» eller symbolet «+/-» er tilføyd. CI-nomenklaturen (Colour Index) skal eventuelt benyttes.
+
+2\. Dersom det av praktiske årsaker er umulig å merke de opplysningene som er nevnt i nr. 1 bokstav d) og g) som fastsatt, gjelder følgende:
+
+- opplysningene skal nevnes i et pakningsvedlegg, på en etikett, et bånd, et merke eller et kort som er vedlagt eller vedheftet,
+- med mindre det praktisk ikke er mulig, skal det vises til disse opplysningene med en forkortelse eller symbolet gjengitt i nr. 1 i vedlegg VII, som skal være påført beholderen eller emballasjen når det gjelder opplysningene nevnt i nr. 1 bokstav d), og på emballasjen når det gjelder opplysningene nevnt i nr. 1 bokstav g).
 
 3\. Når det gjelder såpe, badekuler og andre små produkter der det av praktiske årsaker er umulig å ha opplysningene nevnt i nr. 1 bokstav g) på en etikett, et merke, et bånd eller et kort, eller som pakningsvedlegg, skal slike opplysninger foreligge ved et oppslag i umiddelbar nærhet av beholderen der det kosmetiske produktet er utstilt for salg.
 
@@ -429,7 +711,11 @@ Forbrukeropplysning
 
 1\. Når kosmetiske produkter merkes, gjøres tilgjengelig på markedet og annonseres, skal tekst, navn, varemerker, bilder og figurer eller andre tegn ikke brukes til å antyde at disse produktene har egenskaper eller funksjoner som de ikke har.
 
-2\. Kommisjonen skal i samarbeid med medlemsstatene utarbeide en handlingsplan for påstander som brukes, og fastsette prioriteringer for å bestemme felles kriterier for å berettige bruken av en påstand.Etter samråd med SCCS eller andre relevante myndigheter, skal Kommisjonen vedta en liste med felles kriterier for påstander som kan brukes når det gjelder kosmetiske produkter, etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3 i denne forordning, idet det tas hensyn til bestemmelsene i direktiv [2005/29/EF](eu/32005l0029).Innen 11. juli 2016 skal Kommisjonen framlegge for Europaparlamentet og Rådet en rapport om bruken av påstander på bakgrunn av de felles kriteriene som er vedtatt i henhold til annet ledd. Dersom rapporten konkluderer med at påstander som er brukt i forbindelse med kosmetiske produkter, ikke er i samsvar med de felles kriteriene, skal Kommisjonen treffe egnede tiltak for å sike samsvar i samarbeid med medlemsstatene.
+2\. Kommisjonen skal i samarbeid med medlemsstatene utarbeide en handlingsplan for påstander som brukes, og fastsette prioriteringer for å bestemme felles kriterier for å berettige bruken av en påstand.
+
+Etter samråd med SCCS eller andre relevante myndigheter, skal Kommisjonen vedta en liste med felles kriterier for påstander som kan brukes når det gjelder kosmetiske produkter, etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3 i denne forordning, idet det tas hensyn til bestemmelsene i direktiv [2005/29/EF](eu/32005l0029).
+
+Innen 11. juli 2016 skal Kommisjonen framlegge for Europaparlamentet og Rådet en rapport om bruken av påstander på bakgrunn av de felles kriteriene som er vedtatt i henhold til annet ledd. Dersom rapporten konkluderer med at påstander som er brukt i forbindelse med kosmetiske produkter, ikke er i samsvar med de felles kriteriene, skal Kommisjonen treffe egnede tiltak for å sike samsvar i samarbeid med medlemsstatene.
 
 3\. Den ansvarlige personen kan angi på produktets emballasje eller dokument, seddel, etikett, ring eller bånd som følger med eller viser til det kosmetiske produktet, at ingen dyreforsøk er utført, bare dersom framstilleren eller framstillerens leverandører ikke har utført eller latt utføre dyreforsøk på det ferdige kosmetiske produktet eller prototypen eller noen av bestanddelene i det, og at det ikke er benyttet bestanddeler som andre har forsøkt på dyr med sikte på å utvikle nye kosmetiske produkter.
 
@@ -454,7 +740,11 @@ Medlemsstatene skal regelmessig revidere og vurdere hvordan deres tilsynsvirksom
 
 ### Artikkel 23. Underretning om alvorlige uønskede virkninger
 
-1\. Dersom det oppstår alvorlige uønskede virkninger, skal den ansvarlige personen og distributørene uten opphold melde følgende til vedkommende myndighet i den medlemsstaten der den alvorlige uønskede virkningen oppstod:alle alvorlige uønskede virkninger som vedkommende er kjent med, eller som det med rimelighet kan forventes at vedkommende er kjent med,betegnelsen på det aktuelle kosmetiske produktet for å muliggjøre spesifikk identifikasjon av det,hvilke korrigerende tiltak vedkommende eventuelt har truffet.
+1\. Dersom det oppstår alvorlige uønskede virkninger, skal den ansvarlige personen og distributørene uten opphold melde følgende til vedkommende myndighet i den medlemsstaten der den alvorlige uønskede virkningen oppstod:
+
+1. alle alvorlige uønskede virkninger som vedkommende er kjent med, eller som det med rimelighet kan forventes at vedkommende er kjent med,
+2. betegnelsen på det aktuelle kosmetiske produktet for å muliggjøre spesifikk identifikasjon av det,
+3. hvilke korrigerende tiltak vedkommende eventuelt har truffet.
 
 2\. Dersom den ansvarlige personen melder om alvorlige uønskede virkninger til vedkommende myndighet i den medlemsstaten der virkningen oppstod, skal nevnte vedkommende myndighet umiddelbart oversende opplysningene nevnt i nr. 1, til de vedkommende myndighetene i de andre medlemsstatene.
 
@@ -475,7 +765,20 @@ Manglende overholdelse og beskyttelsesklausul
 
 ### Artikkel 25. Manglende overholdelse fra den ansvarlige personens side
 
-1\. Med forbehold for nr. 4, skal vedkommende myndigheter kreve at den ansvarlige personen treffer alle egnede tiltak, herunder korrigerende tiltak som bringer det kosmetiske produktet i samsvar, tilbaketrekking av produktet fra markedet eller tilbakekalling av produktet, innen en uttrykkelig angitt tidsfrist som står i et rimelig forhold til risikoen ved manglende overholdelse av noen av følgende forhold:god framstillingspraksis nevnt i artikkel 8,sikkerhetsvurderingen nevnt i artikkel 10,kravene til produktinformasjonsdokumentet nevnt i artikkel 11,bestemmelsene om prøvetaking og analyse nevnt i artikkel 12,kravene til melding nevnt i artikkel 13 og 16,begrensningene for stoffer nevnt i artikkel 14, 15 og 17,kravene til dyreforsøk nevnt i artikkel 18,kravene til merking nevnt i artikkel 19 nr. 1, 2, 5 og 6,kravene knyttet til produktpåstander fastsatt i artikkel 20,offentlighetens tilgang til opplysninger nevnt i artikkel 21,underretning om alvorlige uønskede virkninger nevnt i artikkel 23,kravene til opplysninger om stoffer nevnt i artikkel 24.
+1\. Med forbehold for nr. 4, skal vedkommende myndigheter kreve at den ansvarlige personen treffer alle egnede tiltak, herunder korrigerende tiltak som bringer det kosmetiske produktet i samsvar, tilbaketrekking av produktet fra markedet eller tilbakekalling av produktet, innen en uttrykkelig angitt tidsfrist som står i et rimelig forhold til risikoen ved manglende overholdelse av noen av følgende forhold:
+
+1. god framstillingspraksis nevnt i artikkel 8,
+2. sikkerhetsvurderingen nevnt i artikkel 10,
+3. kravene til produktinformasjonsdokumentet nevnt i artikkel 11,
+4. bestemmelsene om prøvetaking og analyse nevnt i artikkel 12,
+5. kravene til melding nevnt i artikkel 13 og 16,
+6. begrensningene for stoffer nevnt i artikkel 14, 15 og 17,
+7. kravene til dyreforsøk nevnt i artikkel 18,
+8. kravene til merking nevnt i artikkel 19 nr. 1, 2, 5 og 6,
+9. kravene knyttet til produktpåstander fastsatt i artikkel 20,
+10. offentlighetens tilgang til opplysninger nevnt i artikkel 21,
+11. underretning om alvorlige uønskede virkninger nevnt i artikkel 23,
+12. kravene til opplysninger om stoffer nevnt i artikkel 24.
 
 2\. Eventuelt skal en vedkommende myndighet underrette den vedkommende myndigheten i den medlemsstaten der den ansvarlige personen er etablert, om de tiltakene den har krevd at den ansvarlige personen skal treffe.
 
@@ -483,13 +786,22 @@ Manglende overholdelse og beskyttelsesklausul
 
 4\. I tilfelle av alvorlige risikoer for menneskers helse, skal vedkommende myndighet dersom den anser at den manglende overholdelsen ikke er begrenset til territoriet til den medlemsstaten der det kosmetiske produktet gjøres tilgjengelig på markedet, underrette Kommisjonen og vedkommende myndigheter i de andre medlemsstatene om de tiltakene den har krevd at den ansvarlige personen skal treffe.
 
-5\. Vedkommende myndighet skal treffe alle egnede tiltak for å forby eller begrense at et kosmetisk produkt gjøres tilgjengelig på markedet, eller for å trekke det tilbake fra markedet eller tilbakekalle det i følgende tilfeller:dersom det er nødvendig med umiddelbare tiltak i tilfelle av alvorlig risiko for menneskers helse, ellerdersom den ansvarlige personen ikke treffer alle egnede tiltak innen fristen nevnt i nr. 1.I tilfelle av alvorlige risikoer for menneskers helse, skal vedkommende myndighet umiddelbart underrette Kommisjonen og de vedkommende myndighetene i de andre medlemsstatene om de tiltakene som er truffet.
+5\. Vedkommende myndighet skal treffe alle egnede tiltak for å forby eller begrense at et kosmetisk produkt gjøres tilgjengelig på markedet, eller for å trekke det tilbake fra markedet eller tilbakekalle det i følgende tilfeller:
+
+1. dersom det er nødvendig med umiddelbare tiltak i tilfelle av alvorlig risiko for menneskers helse, eller
+2. dersom den ansvarlige personen ikke treffer alle egnede tiltak innen fristen nevnt i nr. 1.
+
+I tilfelle av alvorlige risikoer for menneskers helse, skal vedkommende myndighet umiddelbart underrette Kommisjonen og de vedkommende myndighetene i de andre medlemsstatene om de tiltakene som er truffet.
 
 6\. Dersom det ikke er alvorlig risiko for menneskers helse, skal dersom den ansvarlige personen ikke treffer alle egnede tiltak, vedkommende myndighet umiddelbart underrette vedkommende myndighet i den medlemsstaten der den ansvarlige personen er etablert, om de tiltakene som er truffet.
 
-7\. Med hensyn til nr. 4 og 5 i denne artikkel, skal ordningen for utveksling av opplysninger fastsatt i artikkel 12 nr. 1 i europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet1 brukes.Artikkel 12 nr. 2, 3 og 4 i direktiv [2001/95/EF](eu/32001l0095) og artikkel 23 i europaparlaments- og rådsforordning [(EF) nr. 765/2008](eu/32008r0765) av 9. juli 2008 om fastsettelse av kravene til akkreditering og markedstilsyn for markedsføring av produkter2 får også anvendelse.
+7\. Med hensyn til nr. 4 og 5 i denne artikkel, skal ordningen for utveksling av opplysninger fastsatt i artikkel 12 nr. 1 i europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet1 brukes.
 
-1 EFT L 11 av 15.1.2002, s. 4.2 EUT L 218 av 13.8.2008, s. 30.
+Artikkel 12 nr. 2, 3 og 4 i direktiv [2001/95/EF](eu/32001l0095) og artikkel 23 i europaparlaments- og rådsforordning [(EF) nr. 765/2008](eu/32008r0765) av 9. juli 2008 om fastsettelse av kravene til akkreditering og markedstilsyn for markedsføring av produkter2 får også anvendelse.
+
+1 EFT L 11 av 15.1.2002, s. 4.
+
+2 EUT L 218 av 13.8.2008, s. 30.
 
 ### Artikkel 26. Manglende overholdelse fra distributørenes side
 
@@ -499,7 +811,11 @@ Vedkommende myndigheter skal kreve at distributørene treffer alle egnede tiltak
 
 1\. Når det gjelder produkter som oppfyller kravene oppført i artikkel 25 nr. 1, skal en vedkommende myndighet, dersom den forvisser seg om eller har rimelig grunn til tvil om at et kosmetisk produkt som er gjort tilgjengelig på markedet, utgjør eller kan utgjøre en alvorlig risiko for menneskers helse, treffe alle egnede foreløpige tiltak for å sikre at det eller de aktuelle produktene blir trukket tilbake eller kalt tilbake, eller at deres tilgjengelighet begrenses på annen måte.
 
-2\. Vedkommende myndighet skal umiddelbart underrette Kommisjonen og vedkommende myndigheter i de andre medlemsstatene om de tiltakene som er truffet samt eventuelle opplysninger som støtter beslutningen.Med hensyn til første ledd får ordningen for utveksling av opplysninger fastsatt i artikkel 12 nr. 1 i direktiv [2001/95/EF](eu/32001l0095) anvendelse.Artikkel 12 nr. 2, 3 og 4 i direktiv [2001/95/EF](eu/32001l0095) får anvendelse.
+2\. Vedkommende myndighet skal umiddelbart underrette Kommisjonen og vedkommende myndigheter i de andre medlemsstatene om de tiltakene som er truffet samt eventuelle opplysninger som støtter beslutningen.
+
+Med hensyn til første ledd får ordningen for utveksling av opplysninger fastsatt i artikkel 12 nr. 1 i direktiv [2001/95/EF](eu/32001l0095) anvendelse.
+
+Artikkel 12 nr. 2, 3 og 4 i direktiv [2001/95/EF](eu/32001l0095) får anvendelse.
 
 3\. Kommisjonen skal så snart som mulig fastslå om de foreløpige tiltakene nevnt i nr. 1, er berettigede eller ikke. For dette formål skal den i den grad det er mulig, rådføre seg med berørte parter, medlemsstatene og SCCS.
 
@@ -539,17 +855,27 @@ Gjennomføringstiltak og sluttbestemmelser
 
 ### Artikkel 31. Endring av vedlegg
 
-1\. Dersom bruk av visse stoffer i kosmetiske produkter medfører en mulig risiko for menneskers helse, og dette gjør det nødvendig å treffe tiltak på fellesskapsplan, kan Kommisjonen etter samråd med SCCS endre vedlegg II–VI.Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.Når det foreligger tvingende hasteårsaker, kan Kommisjonen benytte framgangsmåten for behandling av hastesaker nevnt i artikkel 32 nr. 4.
+1\. Dersom bruk av visse stoffer i kosmetiske produkter medfører en mulig risiko for menneskers helse, og dette gjør det nødvendig å treffe tiltak på fellesskapsplan, kan Kommisjonen etter samråd med SCCS endre vedlegg II–VI.
 
-2\. Kommisjonen kan etter samråd med SCCS endre vedlegg III–VI og VIII for å tilpasse dem til den tekniske og vitenskapelige utvikling.Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
 
-3\. Dersom det synes nødvendig for å sikre at kosmetiske produkter som markedsføres, er trygge, kan Kommisjonen etter samråd med SCCS endre vedlegg I.Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+Når det foreligger tvingende hasteårsaker, kan Kommisjonen benytte framgangsmåten for behandling av hastesaker nevnt i artikkel 32 nr. 4.
+
+2\. Kommisjonen kan etter samråd med SCCS endre vedlegg III–VI og VIII for å tilpasse dem til den tekniske og vitenskapelige utvikling.
+
+Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
+
+3\. Dersom det synes nødvendig for å sikre at kosmetiske produkter som markedsføres, er trygge, kan Kommisjonen etter samråd med SCCS endre vedlegg I.
+
+Disse tiltakene, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
 
 ### Artikkel 32. Komitéframgangsmåte
 
 1\. Kommisjonen skal bistås av Den faste komité for kosmetiske produkter.
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 3\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
@@ -571,7 +897,11 @@ Bestanddelens vanlige navn skal anvendes med sikte på merking av kosmetiske pro
 
 ### Artikkel 35. Årlig rapport om dyreforsøk
 
-Hvert år skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet om:framgangen i utviklingen, valideringen og den rettslige godkjenning av alternative metoder. Rapporten skal inneholde nøyaktige data om antall og type av forsøk knyttet til kosmetiske produkter som er utført på dyr. Medlemsstatene skal være forpliktet til å samle inn disse opplysningene i tillegg til innsamlingen av statistiske opplysninger som fastsatt ved direktiv [86/609/EØF](eu/31986l0609*). Kommisjonen skal særlig sikre utvikling, validering og rettslig godkjenning av alternative forsøksmetoder der det ikke blir benyttet levende dyr,den framgangen som Kommisjonen har oppnådd i sitt arbeid med å få godkjenning fra OECD av alternative metoder validert på fellesskapsplan, og anerkjennelse fra tredjestater av resultatene av sikkerhetsforsøk utført i Fellesskapet ved bruk av alternative metoder, særlig innenfor rammen av samarbeidsavtaler mellom Fellesskapet og disse statene,hvordan de særlige behovene til små og mellomstore bedrifter er tatt hensyn til.
+Hvert år skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet om:
+
+1. framgangen i utviklingen, valideringen og den rettslige godkjenning av alternative metoder. Rapporten skal inneholde nøyaktige data om antall og type av forsøk knyttet til kosmetiske produkter som er utført på dyr. Medlemsstatene skal være forpliktet til å samle inn disse opplysningene i tillegg til innsamlingen av statistiske opplysninger som fastsatt ved direktiv [86/609/EØF](eu/31986l0609*). Kommisjonen skal særlig sikre utvikling, validering og rettslig godkjenning av alternative forsøksmetoder der det ikke blir benyttet levende dyr,
+2. den framgangen som Kommisjonen har oppnådd i sitt arbeid med å få godkjenning fra OECD av alternative metoder validert på fellesskapsplan, og anerkjennelse fra tredjestater av resultatene av sikkerhetsforsøk utført i Fellesskapet ved bruk av alternative metoder, særlig innenfor rammen av samarbeidsavtaler mellom Fellesskapet og disse statene,
+3. hvordan de særlige behovene til små og mellomstore bedrifter er tatt hensyn til.
 
 ### Artikkel 36. Formell innvending mot harmoniserte standarder
 
@@ -605,7 +935,20 @@ Fra og med 11. januar 2012 skal som unntak fra direktiv [76/768/EØF](eu/31976l0
 
 1\. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-2\. Den får anvendelse fra 11. juli 2013, unntatt:artikkel 15 nr. 1 og 2, som får anvendelse fra 1. desember 2010, samt artikkel 14, 31 og 32 i den grad de er nødvendige for anvendelsen av artikkel 15 nr. 1 og 2, ogartikkel 16 nr. 3 annet ledd, som får anvendelse fra 11. januar 2013.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel, 30. november 2009.*For Europaparlamentet**For Rådet*J. BUZEKB. ASK*President**Formann*
+2\. Den får anvendelse fra 11. juli 2013, unntatt:
+
+- artikkel 15 nr. 1 og 2, som får anvendelse fra 1. desember 2010, samt artikkel 14, 31 og 32 i den grad de er nødvendige for anvendelsen av artikkel 15 nr. 1 og 2, og
+- artikkel 16 nr. 3 annet ledd, som får anvendelse fra 11. januar 2013.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel, 30. november 2009.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| J. BUZEK | B. ASK |
+| *President* | *Formann* |
 
 ___________
 
@@ -646,7 +989,14 @@ Den normale og rimelig forutsigbare bruken av produktet. Begrunnelsen skal under
 
 *6. Eksponering for det kosmetiske produktet*
 
-Data om eksponering for kosmetisk produkt idet det tas hensyn til resultatene under nr. 5 når der gjelderpåføringssted(er),påføringsoverflate(r),mengde påført produkt,bruksvarighet og -hyppighet,normal(e) og rimelig forutsigbar(e) eksponeringsvei(er),målgruppe(r) (eller eksponert(e) befolkningsgruppe(r)). Mulig eksponering av en spesifikk befolkningsgruppe skal også tas i betraktning.
+Data om eksponering for kosmetisk produkt idet det tas hensyn til resultatene under nr. 5 når der gjelder
+
+1. påføringssted(er),
+2. påføringsoverflate(r),
+3. mengde påført produkt,
+4. bruksvarighet og -hyppighet,
+5. normal(e) og rimelig forutsigbar(e) eksponeringsvei(er),
+6. målgruppe(r) (eller eksponert(e) befolkningsgruppe(r)). Mulig eksponering av en spesifikk befolkningsgruppe skal også tas i betraktning.
 
 Ved beregningen av eksponeringen skal det også tas hensyn til de toksikologiske virkningene som skal tas i betraktning (f.eks. kan det være at eksponering må beregnes per enhet hudområde eller per enhet kroppsvekt). Muligheten for sekundær eksponering via andre veier enn dem som følger av direkte påføring, bør også tas i betraktning (for eksempel ikke tilsiktet innånding av spray, ikke tilsiktet svelging av leppeprodukter osv.).
 
@@ -662,7 +1012,11 @@ Med forbehold for artikkel 18, den toksikologiske profilen for stoff som inngår
 
 Alle betydelige toksikologiske absorpsjonsveier skal vurderes, samt de systemiske virkningene, og det skal foretas en beregning av sikkerhetsmargin (MoS) basert på et nivå der det ikke observeres skadelige virkninger (NOAEL). Dersom slike vurderinger ikke gjøres, skal dette behørig begrunnes.
 
-Det skal rettes særlig oppmerksomhet mot mulige virkninger på den toksikologiske profilen på grunn av:partikkelstørrelser, herunder nanomaterialer,urenheter i de stoffene og råstoffene som er brukt, ogvekselvirkning mellom stoffer.
+Det skal rettes særlig oppmerksomhet mot mulige virkninger på den toksikologiske profilen på grunn av:
+
+- partikkelstørrelser, herunder nanomaterialer,
+- urenheter i de stoffene og råstoffene som er brukt, og
+- vekselvirkning mellom stoffer.
 
 Eventuell sammenligning med stoffer med samme struktur skal underbygges og begrunnes.
 
@@ -710,8 +1064,30 @@ ___________
 
 ### Preambel til vedlegg II–VI
 
-1. I vedlegg II–VI menes med:«produkt som skylles av» et kosmetisk produkt som er beregnet på å fjernes etter påføring på huden, håret eller slimhinnene,«produkt som ikke skylles av» et kosmetisk produkt som er beregnet på å være i lengre kontakt med hud, hår eller slimhinner,«hårprodukt» et kosmetisk produkt som er beregnet på å påføres hår på hodet eller i ansiktet, unntatt øyevipper,«hudprodukt» et kosmetisk produkt som er beregnet på å påføres huden,«leppeprodukt» et kosmetisk produkt som er beregnet på å påføres leppene,«ansiktsprodukt» et kosmetisk produkt som er beregnet på å påføres ansiktshuden,«negleprodukt» et kosmetisk produkt som er beregnet på å påføres neglene,«munnprodukt» et kosmetisk produkt som er beregnet på å påføres tennene eller slimhinnene i munnhulen,«produkt som påføres slimhinnene» et kosmetisk produkt som er beregnet på å påføres slimhinnenei munnhulen,rundt øynene,på de ytre kjønnsorganene,«øyeprodukt» et kosmetisk produkt som er beregnet på å påføres i nærheten av øynene,«yrkesbruk» påføring og bruk av kosmetiske produkter av personer under utøvelsen av deres yrke.
-2. For å gjøre det enklere å identifisere stoffer brukes følgende deskriptorer:INN-navn på legemidler, WHO, Genève, august 1975;CAS-nummer (Chemical Abstracts Service),EF-nummeret som tilsvarer enten EINECS-nummeret (European Inventory of Existing Commercial chemical Substances) eller ELINCS-nummeret (European List of Notified Chemical Substances) eller registreringsnummeret gitt i samsvar med forordning [(EF) nr. 1907/2006](eu/32006r1907*),XAN, som er den betegnelsen som er godkjent av en bestemt stat (X), for eksempel USAN, som tilsvarer det navnet som er godkjent i De forente stater,navnet i ordlisten over vanlige navn på bestanddeler nevnt i artikkel 33 i denne forordning.
+1. I vedlegg II–VI menes med:
+
+   1. «produkt som skylles av» et kosmetisk produkt som er beregnet på å fjernes etter påføring på huden, håret eller slimhinnene,
+   2. «produkt som ikke skylles av» et kosmetisk produkt som er beregnet på å være i lengre kontakt med hud, hår eller slimhinner,
+   3. «hårprodukt» et kosmetisk produkt som er beregnet på å påføres hår på hodet eller i ansiktet, unntatt øyevipper,
+   4. «hudprodukt» et kosmetisk produkt som er beregnet på å påføres huden,
+   5. «leppeprodukt» et kosmetisk produkt som er beregnet på å påføres leppene,
+   6. «ansiktsprodukt» et kosmetisk produkt som er beregnet på å påføres ansiktshuden,
+   7. «negleprodukt» et kosmetisk produkt som er beregnet på å påføres neglene,
+   8. «munnprodukt» et kosmetisk produkt som er beregnet på å påføres tennene eller slimhinnene i munnhulen,
+   9. «produkt som påføres slimhinnene» et kosmetisk produkt som er beregnet på å påføres slimhinnene
+
+      - i munnhulen,
+      - rundt øynene,
+      - på de ytre kjønnsorganene,
+   10. «øyeprodukt» et kosmetisk produkt som er beregnet på å påføres i nærheten av øynene,
+   11. «yrkesbruk» påføring og bruk av kosmetiske produkter av personer under utøvelsen av deres yrke.
+2. For å gjøre det enklere å identifisere stoffer brukes følgende deskriptorer:
+
+   - INN-navn på legemidler, WHO, Genève, august 1975;
+   - CAS-nummer (Chemical Abstracts Service),
+   - EF-nummeret som tilsvarer enten EINECS-nummeret (European Inventory of Existing Commercial chemical Substances) eller ELINCS-nummeret (European List of Notified Chemical Substances) eller registreringsnummeret gitt i samsvar med forordning [(EF) nr. 1907/2006](eu/32006r1907*),
+   - XAN, som er den betegnelsen som er godkjent av en bestemt stat (X), for eksempel USAN, som tilsvarer det navnet som er godkjent i De forente stater,
+   - navnet i ordlisten over vanlige navn på bestanddeler nevnt i artikkel 33 i denne forordning.
 3. Stoffer oppført i vedlegg III–VI omfatter ikke nanomaterialer, bortsett fra der det er særskilt nevnt.
 
 ______________
@@ -3231,23 +3607,63 @@ Liste over stoffer som kosmetiske produkter ikke kan inneholde, unntatt med forb
 | 386 | 2-klor-4-{(E)-[3-(metyltio)-1,2,4-tiadiazol-5-yl]diazenyl}fenol | HC Red No 18 | 1444596-49-9 | – | a) Fargestoff i oksiderende hårfargingsmidler |  | For a): Etter blanding under oksidative forhold kan den høyeste konsentrasjonen som brukes på hår, ikke overstige 1,5 % | For a): Følgende skal angis på etiketten:<br>Blandingsforholdet.<br>Hårfargestoffer kan gi alvorlige allergiske reaksjoner. Les og følg bruksanvisningen. Dette produktet er ikke beregnet på personer under 16 år. Midlertidige tatoveringer med svart henna kan øke risikoen for allergi. Farg ikke håret dersom – du har utslett i ansiktet eller følsom, irritert eller skadet hodebunn,<br>– du tidligere har hatt en reaksjon etter å ha farget håret, – du tidligere har hatt en reaksjon på en midlertidig tatovering med svart henna. ◄**M51** |
 | b) Fargestoff i ikke-oksiderende hårfargingsmidler | b) 0,5 % |  |  |  |  |  |  |  |
 
-►**M1** 1 Disse stoffene kan brukes enkeltvis eller blandet med hverandre, forutsatt at summen av de enkelte stoffene i det kosmetiske produktet i forhold til det høyeste tillatte innhold av det enkelte stoffet ikke overstiger 1.
+►**M1**
 
-◄**M1** 2 Som konserveringsmiddel se vedlegg V nr. 5.3 Bare dersom konsentrasjonen overstiger 0,05 %.4 Disse stoffene kan brukes enkeltvis eller blandet med hverandre, forutsatt at summen av de enkelte stoffene i det kosmetiske produktet i forhold til det høyeste tillatte innhold av det enkelte stoffet ikke overstiger 2.5 Mengden natrium-, kalium eller litiumhydroksid uttrykkes i masse natriumhydroksid. Når det gjelder stoffblandinger, bør summen ikke overstige grensene angitt i kolonne g.6 Konsentrasjonen av natrium-, kalium eller litiumhydroksid uttrykkes i masse natriumhydroksid. Når det gjelder stoffblandinger, bør summen ikke overstige grensene angitt i kolonne g.
+1 Disse stoffene kan brukes enkeltvis eller blandet med hverandre, forutsatt at summen av de enkelte stoffene i det kosmetiske produktet i forhold til det høyeste tillatte innhold av det enkelte stoffet ikke overstiger 1.
 
-►**M1** 7 Som konserveringsmiddel, se vedlegg V nr. 34.
+◄**M1**
 
-◄**M1** 8 Som konserveringsmiddel se vedlegg V nr. 43.9 Som konserveringsmiddel se vedlegg V nr. 54.10 Som konserveringsmiddel se vedlegg V nr. 3.11 Gjelder bare for produkter som kan tenkes brukt til barn under tre år, og som er i kontakt med hud over lengre tid.12 Som konserveringsmiddel se vedlegg V nr. 9.13 Som konserveringsmiddel se vedlegg V nr. 23.14 Som konserveringsmiddel se vedlegg V nr. 8.
+2 Som konserveringsmiddel se vedlegg V nr. 5.
 
-►**M1** 15 Denne grenseverdien gjelder for stoffet, ikke for det ferdige kosmetiske produktet.16 Summen av stoffene som anvendes sammen, kan ikke overstige grenseverdien fastsatt som «høyeste konsentrasjon i bruksklart preparat».17 Bruk av dette fargestoffets frie base og salter er tillatt med mindre annet er fastsatt i vedlegg II.18 Som konserveringsmiddel, se vedlegg V nr. 58.
+3 Bare dersom konsentrasjonen overstiger 0,05 %.
 
-►**M3** 19 EUT L 255 av 30.9.2005, s. 22.
+4 Disse stoffene kan brukes enkeltvis eller blandet med hverandre, forutsatt at summen av de enkelte stoffene i det kosmetiske produktet i forhold til det høyeste tillatte innhold av det enkelte stoffet ikke overstiger 2.
+
+5 Mengden natrium-, kalium eller litiumhydroksid uttrykkes i masse natriumhydroksid. Når det gjelder stoffblandinger, bør summen ikke overstige grensene angitt i kolonne g.
+
+6 Konsentrasjonen av natrium-, kalium eller litiumhydroksid uttrykkes i masse natriumhydroksid. Når det gjelder stoffblandinger, bør summen ikke overstige grensene angitt i kolonne g.
+
+►**M1**
+
+7 Som konserveringsmiddel, se vedlegg V nr. 34.
+
+◄**M1**
+
+8 Som konserveringsmiddel se vedlegg V nr. 43.
+
+9 Som konserveringsmiddel se vedlegg V nr. 54.
+
+10 Som konserveringsmiddel se vedlegg V nr. 3.
+
+11 Gjelder bare for produkter som kan tenkes brukt til barn under tre år, og som er i kontakt med hud over lengre tid.
+
+12 Som konserveringsmiddel se vedlegg V nr. 9.
+
+13 Som konserveringsmiddel se vedlegg V nr. 23.
+
+14 Som konserveringsmiddel se vedlegg V nr. 8.
+
+►**M1**
+
+15 Denne grenseverdien gjelder for stoffet, ikke for det ferdige kosmetiske produktet.
+
+16 Summen av stoffene som anvendes sammen, kan ikke overstige grenseverdien fastsatt som «høyeste konsentrasjon i bruksklart preparat».
+
+17 Bruk av dette fargestoffets frie base og salter er tillatt med mindre annet er fastsatt i vedlegg II.
+
+18 Som konserveringsmiddel, se vedlegg V nr. 58.
+
+►**M3**
+
+19 EUT L 255 av 30.9.2005, s. 22.
 
 ◄**M1**
 
 ◄**M3**
 
-►**M6** 20 Som konserveringsmiddel, se vedlegg V nr. 44.
+►**M6**
+
+20 Som konserveringsmiddel, se vedlegg V nr. 44.
 
 ◄**M6**
 
@@ -3557,11 +3973,16 @@ Liste over konserveringsmidler som er tillatt i kosmetiske produkter
 
 ### Preambel
 
-1. I denne listen menes med«Salter» salter med kationene natrium, kalium, kalsium, magnesium, ammonium og etanolaminer, og salter med anionene klorid, bromid, sulfat og acetat.«Estere» estere av metyl-, etyl-, propyl-, isopropyl-, butyl-, isobutyl- og fenoalkohol.
+1. I denne listen menes med
+
+   - «Salter» salter med kationene natrium, kalium, kalsium, magnesium, ammonium og etanolaminer, og salter med anionene klorid, bromid, sulfat og acetat.
+   - «Estere» estere av metyl-, etyl-, propyl-, isopropyl-, butyl-, isobutyl- og fenoalkohol.
 
 ►**M42**
 
-1. Alle ferdige produkter som inneholder stoffer som er oppført i dette vedlegget, og som avgir formaldehyd, skal være merket med advarselen «Avgir formaldehyd» dersom den totale konsentrasjonen av formaldehyd som avgis i det ferdige produktet, overstiger 0,001 % (10 ppm), uavhengig av om det ferdige produktet inneholder ett eller flere stoffer som avgir formaldehyd.Alle ferdige produkter som inneholder stoffer nevnt i første ledd, og som er i samsvar med forordning [(EF) nr. 1223/2009](eu/32009r1223) med den ordlyden som gjelder 30. juli 2022, kan imidlertid bringes i omsetning i Unionen fram til 31. juli 2024, og kan være tilgjengelige på unionsmarkedet fram til 31. juli 2026.
+1. Alle ferdige produkter som inneholder stoffer som er oppført i dette vedlegget, og som avgir formaldehyd, skal være merket med advarselen «Avgir formaldehyd» dersom den totale konsentrasjonen av formaldehyd som avgis i det ferdige produktet, overstiger 0,001 % (10 ppm), uavhengig av om det ferdige produktet inneholder ett eller flere stoffer som avgir formaldehyd.
+
+   Alle ferdige produkter som inneholder stoffer nevnt i første ledd, og som er i samsvar med forordning [(EF) nr. 1223/2009](eu/32009r1223) med den ordlyden som gjelder 30. juli 2022, kan imidlertid bringes i omsetning i Unionen fram til 31. juli 2024, og kan være tilgjengelige på unionsmarkedet fram til 31. juli 2026.
 
 ◄**M42**
 
@@ -4052,7 +4473,17 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1223/2009](eu/32009r1223) av 30. november 2009 om kosmetiske produkter,1 særlig artikkel 20 nr. 2 annet ledd, og
 
-ut fra følgende betraktninger:Sluttbrukere, som definert i artikkel 2 nr. 1 bokstav f) i forordning [(EF) nr. 1223/2009](eu/32009r1223), møter en rekke påstander om et kosmetisk produkts funksjon, innhold og virkninger. Ettersom kosmetiske produkter spiller en så stor rolle i sluttbrukeres liv, er det viktig å sikre at påstandene inneholder nyttige, forståelige og pålitelige opplysninger, og at de hjelper dem med å ta begrunnede avgjørelser og velge produkter som best dekker deres behov og oppfyller deres forventninger.Produktpåstander om kosmetiske produkter skal hovedsakelig informere sluttbrukere om produktenes egenskaper og kjennetegn. Disse påstandene er viktige for å kunne skille mellom produktene. De bidrar også til å stimulere til nyskaping og fremme konkurranse.Det bør fastsettes felles kriterier på unionsplan for hvordan man begrunner en påstand brukt om kosmetiske produkter. Hovedformålet med å fastsette felles kriterier er å gi sluttbrukere en høy grad av beskyttelse, særlig mot villedende påstander om kosmetiske produkter. En felles tilnærming på unionsplan bør også sikre mer samstemte handlinger hos medlemsstatenes vedkommende myndigheter og forhindre vridning i det indre marked. En slik tilnærming bør også styrke samarbeidet mellom nasjonale myndigheter med ansvar for håndheving av forbrukervernlovgivning, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 2006/2004](eu/32004r2006) av 27. oktober 2004 om samarbeid mellom nasjonale myndigheter med ansvar for håndheving av forbrukervernlovgivning (forordningen om forbrukervernsamarbeid).2Artikkel 20 i forordning [(EF) nr. 1223/2009](eu/32009r1223) får anvendelse på produkter som omfattes av definisjonen av et kosmetisk produkt i artikkel 2 i samme forordning. De felles kriteriene får bare anvendelse når det er blitt fastsatt at det aktuelle produktet faktisk er et kosmetisk produkt. Det er opp til vedkommende nasjonale myndigheter og nasjonale domstoler å beslutte, fra sak til sak, hvilke rammeregler som får anvendelse.De felles kriteriene bør få anvendelse uten at det berører europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere i det indre marked og om endring av rådsdirektiv [84/450/EØF](eu/31984l0450), europaparlaments- og rådsdirektiv 97/7/EF, 98/27/EF og 2002/65/EF og europaparlaments- og rådsforordning [(EF) nr. 2006/2004](eu/32004r2006) («direktivet om urimelig handelspraksis»),3 europaparlaments- og rådsdirektiv [2006/114/EF](eu/32006l0114) av 12. desember 2006 om villedende og sammenlignende reklame4 og annet gjeldende unionsregelverk.Man bør ha en fleksibel tilnærming til formidlingen av meddelelsene til sluttbrukerne, for å ta hensyn til sosiale, språklige og kulturelle forskjeller i Unionen, og for å bevare nyskapingen og opprettholde konkurranseevnen i den europeiske industrien. En slik tilnærming er i samsvar med prinsippene formulert av Domstolen, som ved flere anledninger har påpekt at det er nødvendig, når det skal avgjøres om en påstand kan villede forbrukeren, å ta i betraktning sistnevntes forventninger, idet det tas hensyn til den bestemte sammenhengen og omstendighetene som påstanden framsettes i, herunder sosiale, kulturelle og språklige forhold.5Samtidig som man skal sikre at de samme prinsippene følges i hele Unionen, bør ikke de felles kriteriene ha som mål å definere og spesifisere hvilken ordlyd som kan benyttes i påstander om kosmetiske produkter.For å sikre at de felles kriteriene for påstander om kosmetiske produkter får anvendelse fra samme dato som forordning [(EF) nr. 1223/2009](eu/32009r1223), bør denne forordning få anvendelse fra 11. juli 2013.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for kosmetiske produkter –
+ut fra følgende betraktninger:
+
+1. Sluttbrukere, som definert i artikkel 2 nr. 1 bokstav f) i forordning [(EF) nr. 1223/2009](eu/32009r1223), møter en rekke påstander om et kosmetisk produkts funksjon, innhold og virkninger. Ettersom kosmetiske produkter spiller en så stor rolle i sluttbrukeres liv, er det viktig å sikre at påstandene inneholder nyttige, forståelige og pålitelige opplysninger, og at de hjelper dem med å ta begrunnede avgjørelser og velge produkter som best dekker deres behov og oppfyller deres forventninger.
+2. Produktpåstander om kosmetiske produkter skal hovedsakelig informere sluttbrukere om produktenes egenskaper og kjennetegn. Disse påstandene er viktige for å kunne skille mellom produktene. De bidrar også til å stimulere til nyskaping og fremme konkurranse.
+3. Det bør fastsettes felles kriterier på unionsplan for hvordan man begrunner en påstand brukt om kosmetiske produkter. Hovedformålet med å fastsette felles kriterier er å gi sluttbrukere en høy grad av beskyttelse, særlig mot villedende påstander om kosmetiske produkter. En felles tilnærming på unionsplan bør også sikre mer samstemte handlinger hos medlemsstatenes vedkommende myndigheter og forhindre vridning i det indre marked. En slik tilnærming bør også styrke samarbeidet mellom nasjonale myndigheter med ansvar for håndheving av forbrukervernlovgivning, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 2006/2004](eu/32004r2006) av 27. oktober 2004 om samarbeid mellom nasjonale myndigheter med ansvar for håndheving av forbrukervernlovgivning (forordningen om forbrukervernsamarbeid).2
+4. Artikkel 20 i forordning [(EF) nr. 1223/2009](eu/32009r1223) får anvendelse på produkter som omfattes av definisjonen av et kosmetisk produkt i artikkel 2 i samme forordning. De felles kriteriene får bare anvendelse når det er blitt fastsatt at det aktuelle produktet faktisk er et kosmetisk produkt. Det er opp til vedkommende nasjonale myndigheter og nasjonale domstoler å beslutte, fra sak til sak, hvilke rammeregler som får anvendelse.
+5. De felles kriteriene bør få anvendelse uten at det berører europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere i det indre marked og om endring av rådsdirektiv [84/450/EØF](eu/31984l0450), europaparlaments- og rådsdirektiv 97/7/EF, 98/27/EF og 2002/65/EF og europaparlaments- og rådsforordning [(EF) nr. 2006/2004](eu/32004r2006) («direktivet om urimelig handelspraksis»),3 europaparlaments- og rådsdirektiv [2006/114/EF](eu/32006l0114) av 12. desember 2006 om villedende og sammenlignende reklame4 og annet gjeldende unionsregelverk.
+6. Man bør ha en fleksibel tilnærming til formidlingen av meddelelsene til sluttbrukerne, for å ta hensyn til sosiale, språklige og kulturelle forskjeller i Unionen, og for å bevare nyskapingen og opprettholde konkurranseevnen i den europeiske industrien. En slik tilnærming er i samsvar med prinsippene formulert av Domstolen, som ved flere anledninger har påpekt at det er nødvendig, når det skal avgjøres om en påstand kan villede forbrukeren, å ta i betraktning sistnevntes forventninger, idet det tas hensyn til den bestemte sammenhengen og omstendighetene som påstanden framsettes i, herunder sosiale, kulturelle og språklige forhold.5
+7. Samtidig som man skal sikre at de samme prinsippene følges i hele Unionen, bør ikke de felles kriteriene ha som mål å definere og spesifisere hvilken ordlyd som kan benyttes i påstander om kosmetiske produkter.
+8. For å sikre at de felles kriteriene for påstander om kosmetiske produkter får anvendelse fra samme dato som forordning [(EF) nr. 1223/2009](eu/32009r1223), bør denne forordning få anvendelse fra 11. juli 2013.
+9. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for kosmetiske produkter –
 
 1 EUT L 342 av 22.12.2009, s. 59.
 
@@ -4093,12 +4524,39 @@ Utferdiget i Brussel, 10. juli 2013.
 ### VEDLEGG
 FELLES KRITERIER
 
-1. *Overholdelse av lovbestemte krav*Påstander som antyder at produktet er blitt tillatt eller godkjent av en vedkommende myndighet i Unionen, er ikke tillatt.Vurderingen av om en påstand er akseptabel, skal bygge på hvordan en gjennomsnittlig, alminnelig opplyst, normalt oppmerksom og velunderrettet sluttbruker av et kosmetisk produkt oppfatter påstanden, idet det tas hensyn til sosiale, kulturelle og språklige forhold i det aktuelle markedet.Påstander som gir inntrykk av at et produkt har en særlig fordel, der denne fordelen bare skyldes overholdelse av lovens minstekrav, er ikke tillatt.
-2. *Sannferdighet*Dersom det påstås på produktet at det inneholder en bestemt bestanddel, skal bestanddelen bevisst inngå i produktet.Påstander om bestanddeler som viser til en bestemt bestanddels egenskaper, skal ikke gi inntrykk av at sluttproduktet har de samme egenskapene dersom dette ikke er tilfellet.Markedsføringsbudskap skal ikke gi inntrykk av at meningsuttrykk er bekreftede påstander, med mindre meningsuttrykket er basert på kontrollerbare bevis.
-3. *Bevismateriale*Påstander om kosmetiske produkter, både eksplisitte og implisitte, skal understøttes av relevante og kontrollerbare bevis, uansett hvilken type bevismateriale som brukes for å underbygge dem, herunder ekspertvurderinger når det er hensiktsmessig.Bevis som brukes til å underbygge påstander, skal ta hensyn til beste nåværende praksis.Dersom studier brukes som bevis, skal de være relevante for produktet og den påståtte fordelen, benytte godt planlagte og korrekt gjennomførte metoder (gyldige, pålitelige og reproduserbare) og ta etiske hensyn.Nivået på bevisene eller underbyggelsen skal være i samsvar med typen påstand som fremsettes, særlig for påstander der manglende virkning kan utgjøre et sikkerhetsproblem.Åpenbare overdrivelser, som ikke blir tatt bokstavelig av en gjennomsnittlig sluttbruker, eller abstrakte uttalelser skal ikke kreve underbyggelse.En påstand som (eksplisitt eller implisitt) overfører bestanddelers egenskaper til det endelige produktet, skal understøttes av relevante og kontrollerbare bevis, for eksempel ved å påvise forekomsten av en virkningsfull konsentrasjon av bestanddelen.Vurderingen av om en påstand er akseptabel, skal bygge på de samlede bevisene fra alle tilgjengelige studier, data og opplysninger, avhengig av typen påstand og sluttbrukernes allmenne kunnskaper.
-4. *Ærlighet*Beskrivelser av et produkts egenskaper må ikke gå utover tilgjengelige bevis.Påstander må ikke tillegge det berørte produktet bestemte (dvs. unike) egenskaper dersom liknende produkter har samme egenskaper.Dersom et produkts virkning er knyttet til særlige bruksvilkår, for eksempel at det må benyttes sammen med andre produkter, skal dette klart angis.
-5. *Rettferdighet*Påstander om kosmetiske produkter skal være objektive og må ikke være nedsettende mot konkurrenter eller bestanddeler som brukes på lovlig vis.Påstander om kosmetiske produkter må ikke skape forveksling med en konkurrents produkt.
-6. *Veloverveid beslutningstaking*Påstander må være klare og forståelige for den gjennomsnittlige sluttbruker.Påstander er en integrert del av produktene og må inneholde opplysninger som gjør at en gjennomsnittlig sluttbruker kan foreta et veloverveid valg.Markedsføringsbudskap skal ta hensyn til målgruppens (befolkningen i relevante medlemsstater eller segmenter av befolkningen, for eksempel sluttbrukere i ulike aldersgrupper eller av ulike kjønn) evne til å forstå budskapet. Markedsføringsbudskap skal være klare, presise, relevante og forståelige for målgruppen.
+1. *Overholdelse av lovbestemte krav*
+
+   1. Påstander som antyder at produktet er blitt tillatt eller godkjent av en vedkommende myndighet i Unionen, er ikke tillatt.
+   2. Vurderingen av om en påstand er akseptabel, skal bygge på hvordan en gjennomsnittlig, alminnelig opplyst, normalt oppmerksom og velunderrettet sluttbruker av et kosmetisk produkt oppfatter påstanden, idet det tas hensyn til sosiale, kulturelle og språklige forhold i det aktuelle markedet.
+   3. Påstander som gir inntrykk av at et produkt har en særlig fordel, der denne fordelen bare skyldes overholdelse av lovens minstekrav, er ikke tillatt.
+2. *Sannferdighet*
+
+   1. Dersom det påstås på produktet at det inneholder en bestemt bestanddel, skal bestanddelen bevisst inngå i produktet.
+   2. Påstander om bestanddeler som viser til en bestemt bestanddels egenskaper, skal ikke gi inntrykk av at sluttproduktet har de samme egenskapene dersom dette ikke er tilfellet.
+   3. Markedsføringsbudskap skal ikke gi inntrykk av at meningsuttrykk er bekreftede påstander, med mindre meningsuttrykket er basert på kontrollerbare bevis.
+3. *Bevismateriale*
+
+   1. Påstander om kosmetiske produkter, både eksplisitte og implisitte, skal understøttes av relevante og kontrollerbare bevis, uansett hvilken type bevismateriale som brukes for å underbygge dem, herunder ekspertvurderinger når det er hensiktsmessig.
+   2. Bevis som brukes til å underbygge påstander, skal ta hensyn til beste nåværende praksis.
+   3. Dersom studier brukes som bevis, skal de være relevante for produktet og den påståtte fordelen, benytte godt planlagte og korrekt gjennomførte metoder (gyldige, pålitelige og reproduserbare) og ta etiske hensyn.
+   4. Nivået på bevisene eller underbyggelsen skal være i samsvar med typen påstand som fremsettes, særlig for påstander der manglende virkning kan utgjøre et sikkerhetsproblem.
+   5. Åpenbare overdrivelser, som ikke blir tatt bokstavelig av en gjennomsnittlig sluttbruker, eller abstrakte uttalelser skal ikke kreve underbyggelse.
+   6. En påstand som (eksplisitt eller implisitt) overfører bestanddelers egenskaper til det endelige produktet, skal understøttes av relevante og kontrollerbare bevis, for eksempel ved å påvise forekomsten av en virkningsfull konsentrasjon av bestanddelen.
+   7. Vurderingen av om en påstand er akseptabel, skal bygge på de samlede bevisene fra alle tilgjengelige studier, data og opplysninger, avhengig av typen påstand og sluttbrukernes allmenne kunnskaper.
+4. *Ærlighet*
+
+   1. Beskrivelser av et produkts egenskaper må ikke gå utover tilgjengelige bevis.
+   2. Påstander må ikke tillegge det berørte produktet bestemte (dvs. unike) egenskaper dersom liknende produkter har samme egenskaper.
+   3. Dersom et produkts virkning er knyttet til særlige bruksvilkår, for eksempel at det må benyttes sammen med andre produkter, skal dette klart angis.
+5. *Rettferdighet*
+
+   1. Påstander om kosmetiske produkter skal være objektive og må ikke være nedsettende mot konkurrenter eller bestanddeler som brukes på lovlig vis.
+   2. Påstander om kosmetiske produkter må ikke skape forveksling med en konkurrents produkt.
+6. *Veloverveid beslutningstaking*
+
+   1. Påstander må være klare og forståelige for den gjennomsnittlige sluttbruker.
+   2. Påstander er en integrert del av produktene og må inneholde opplysninger som gjør at en gjennomsnittlig sluttbruker kan foreta et veloverveid valg.
+   3. Markedsføringsbudskap skal ta hensyn til målgruppens (befolkningen i relevante medlemsstater eller segmenter av befolkningen, for eksempel sluttbrukere i ulike aldersgrupper eller av ulike kjønn) evne til å forstå budskapet. Markedsføringsbudskap skal være klare, presise, relevante og forståelige for målgruppen.
 
 ### Beslutning (EU) 2025/1175
 
@@ -34599,7 +35057,14 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1223/2009](eu/32009r1223) av 30. november 2009 om kosmetiske produkter,1 særlig artikkel 10 nr. 1 tredje ledd, og
 
-ut fra følgende betraktninger:Det er av avgjørende betydning at kosmetiske produkter som gjøres tilgjengelige på unionsmarkedet, er trygge for menneskers helse når de brukes under normale og rimelig forutsigbare bruksforhold. For dette formål kreves det i forordning [(EF) nr. 1223/2009](eu/32009r1223) at kosmetiske produkter gjennomgår en sikkerhetsvurdering for å fastslå at de er trygge under slike forhold.Den driftsansvarlige som er utpekt som ansvarlig person i samsvar med forordning [(EF) nr. 1223/2009](eu/32009r1223), skal sikre at det for hvert kosmetiske produkt som bringes i omsetning i Unionen, utarbeides en sikkerhetsrapport på grunnlag av relevante opplysninger og i samsvar med kravene fastsatt i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223).For at alle foretak, særlig små og mellomstore bedrifter, lettere skal kunne forstå kravene i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), krever forordningen at Kommisjonen vedtar hensiktsmessige retningslinjer.Ved denne beslutning fastsettes det hensiktsmessige retningslinjer for vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223). Disse er utarbeidet med bidrag fra berørte parter, herunder representanter for små og mellomstore bedrifter.Retningslinjene bør være en hjelp for ansvarlige personer til å overholde sine lovfestede forpliktelser. Det er imidlertid ikke meningen at de skal erstatte kunnskapen og ekspertisen til den kvalifiserte sikkerhetssakkyndige i samsvar med artikkel 10 nr. 2 i forordning [(EF) nr. 1223/2009](eu/32009r1223), som bør være den eneste fagpersonen som skal ha tillatelse til å foreta sikkerhetsvurderingen av kosmetiske produkter beskrevet i del B i vedlegg I.Tiltakene fastsatt i denne beslutning er i samsvar med uttalelse fra Den faste komité for kosmetiske produkter –
+ut fra følgende betraktninger:
+
+1. Det er av avgjørende betydning at kosmetiske produkter som gjøres tilgjengelige på unionsmarkedet, er trygge for menneskers helse når de brukes under normale og rimelig forutsigbare bruksforhold. For dette formål kreves det i forordning [(EF) nr. 1223/2009](eu/32009r1223) at kosmetiske produkter gjennomgår en sikkerhetsvurdering for å fastslå at de er trygge under slike forhold.
+2. Den driftsansvarlige som er utpekt som ansvarlig person i samsvar med forordning [(EF) nr. 1223/2009](eu/32009r1223), skal sikre at det for hvert kosmetiske produkt som bringes i omsetning i Unionen, utarbeides en sikkerhetsrapport på grunnlag av relevante opplysninger og i samsvar med kravene fastsatt i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223).
+3. For at alle foretak, særlig små og mellomstore bedrifter, lettere skal kunne forstå kravene i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), krever forordningen at Kommisjonen vedtar hensiktsmessige retningslinjer.
+4. Ved denne beslutning fastsettes det hensiktsmessige retningslinjer for vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223). Disse er utarbeidet med bidrag fra berørte parter, herunder representanter for små og mellomstore bedrifter.
+5. Retningslinjene bør være en hjelp for ansvarlige personer til å overholde sine lovfestede forpliktelser. Det er imidlertid ikke meningen at de skal erstatte kunnskapen og ekspertisen til den kvalifiserte sikkerhetssakkyndige i samsvar med artikkel 10 nr. 2 i forordning [(EF) nr. 1223/2009](eu/32009r1223), som bør være den eneste fagpersonen som skal ha tillatelse til å foreta sikkerhetsvurderingen av kosmetiske produkter beskrevet i del B i vedlegg I.
+6. Tiltakene fastsatt i denne beslutning er i samsvar med uttalelse fra Den faste komité for kosmetiske produkter –
 
 1 EUT L 342 av 22.12.2009, s. 59.
 
@@ -34642,7 +35107,11 @@ Sikkerhetsvurderingen av det kosmetiske produktet, som angitt i del B i vedlegg 
 
 Sikkerhetsrapporten for det kosmetiske produktet bør utarbeides med åpenhet og være velbegrunnet samt enkel å forstå.
 
-Sikkerhetsrapporten for det kosmetiske produktet er utarbeidet av sakkyndige og består av forskjellige moduler der de opplysningene som kreves i henhold til del A, kan ligge i forskjellige databaser. Rapporten, som minst bør inneholde alle de opplysningene som er angitt i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), bør ha samme eller lignende overskrifter som i vedlegg I for å forenkle vedkommende myndigheters arbeid. Det kan imidlertid være tilstrekkelig at det under de enkelte overskrifter klart vises til et dokument som inneholder opplysningene, og som er lett tilgjengelig i elektronisk eller trykt format.1 Artikkel 11 nr. 2 i forordning [(EF) nr. 1223/2009](eu/32009r1223).2 Artikkel 10 nr. 1 i forordning [(EF) nr. 1223/2009](eu/32009r1223).
+Sikkerhetsrapporten for det kosmetiske produktet er utarbeidet av sakkyndige og består av forskjellige moduler der de opplysningene som kreves i henhold til del A, kan ligge i forskjellige databaser. Rapporten, som minst bør inneholde alle de opplysningene som er angitt i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), bør ha samme eller lignende overskrifter som i vedlegg I for å forenkle vedkommende myndigheters arbeid. Det kan imidlertid være tilstrekkelig at det under de enkelte overskrifter klart vises til et dokument som inneholder opplysningene, og som er lett tilgjengelig i elektronisk eller trykt format.
+
+1 Artikkel 11 nr. 2 i forordning [(EF) nr. 1223/2009](eu/32009r1223).
+
+2 Artikkel 10 nr. 1 i forordning [(EF) nr. 1223/2009](eu/32009r1223).
 
 2\.
 
@@ -34654,7 +35123,9 @@ Hensikten med del A er å samle inn alle opplysninger som er nødvendige for en 
 
 Strukturen og innholdet i sikkerhetsrapporten bør oppfylle kravene i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223). Dersom rapporten ikke direkte inneholder de opplysningene som kreves, bør den vise til en annen lett tilgjengelig kilde.
 
-Den ansvarlige personen skal sikre at sikkerhetsrapporten for det kosmetiske produktet ajourføres, idet det tas hensyn til ytterligere relevante opplysninger som er kommet fram etter at produktet er brakt i omsetning.1 1 Artikkel 10 nr. 1 bokstav c) i forordning [(EF) nr. 1223/2009](eu/32009r1223).
+Den ansvarlige personen skal sikre at sikkerhetsrapporten for det kosmetiske produktet ajourføres, idet det tas hensyn til ytterligere relevante opplysninger som er kommet fram etter at produktet er brakt i omsetning.1
+
+1 Artikkel 10 nr. 1 bokstav c) i forordning [(EF) nr. 1223/2009](eu/32009r1223).
 
 3\.
 
@@ -34670,7 +35141,9 @@ I tillegg til de opplysningene som minst skal være med, oppført i del A i vedl
 
 De opplysningene som kreves i del A, kan hentes fra enhver pålitelig kilde. Som eksempel kan nevnes opplysninger fra leverandører, vitenskapelig litteratur, erfaring fra lignende eller andre produktgrupper, resultater fra undersøkelser av selve produktet eller de stoffene det inneholder, tilgjengelige data om lignende sammensetninger, eller datamodeller. I sikkerhetsrapporten skal det klart framgå hvordan opplysningene er relevante for produktet.
 
-De retningslinjene som er offentliggjort av EUs vitenskapskomiteer som arbeider med risikovurdering,1 samt anbefalingene fra nasjonale vedkommende myndigheter eller bransjeorganisasjoner, kan gi ytterligere hjelp.1 The SCCS's Notes of Guidance for the Testing of Cosmetic Ingredients and their Safety Evaluation, 8th Revision, SCCS/1501/12, og senere ajourføringer.
+De retningslinjene som er offentliggjort av EUs vitenskapskomiteer som arbeider med risikovurdering,1 samt anbefalingene fra nasjonale vedkommende myndigheter eller bransjeorganisasjoner, kan gi ytterligere hjelp.
+
+1 The SCCS's Notes of Guidance for the Testing of Cosmetic Ingredients and their Safety Evaluation, 8th Revision, SCCS/1501/12, og senere ajourføringer.
 
 3.1.*Kvantitativ og kvalitativ sammensetning av det kosmetiske produktet*
 
@@ -34686,7 +35159,9 @@ Dersom det forekommer komplekse bestanddeler, skal deres art og mengde sammen me
 
 Ovennevnte retningslinjer gjelder også når en stoffblanding av både kjemisk veldefinerte stoffer og komplekse bestanddeler forekommer.
 
-Dersom en duftsammensetning (eller aromasammensetning) som består av en stoffblanding av duftbestanddeler (eller aromabestanddeler) og funksjonelle komponenter med duftbærende, duftforbedrende og duftbeskyttende egenskaper eller blandingsegenskaper, settes sammen og med hensikt tilsettes et kosmetisk produkt for å gi en duft (eller aroma) eller skjule dårlig lukt, skal identifiseringen også inneholde navn og kodenummer samt leverandørens identitet. Kvalitative og kvantitative opplysninger om regulerte stoffer i duftsammensetningen (eller aromasammensetningen) og opplysninger som er relevante for en sikkerhetsvurdering, bør gis til den ansvarlige personen og den sikkerhetssakkyndige, og bør tas med i sikkerhetsrapporten.1 SCCS Notes of Guidance, nr. 3-6.2, s. 35–36.
+Dersom en duftsammensetning (eller aromasammensetning) som består av en stoffblanding av duftbestanddeler (eller aromabestanddeler) og funksjonelle komponenter med duftbærende, duftforbedrende og duftbeskyttende egenskaper eller blandingsegenskaper, settes sammen og med hensikt tilsettes et kosmetisk produkt for å gi en duft (eller aroma) eller skjule dårlig lukt, skal identifiseringen også inneholde navn og kodenummer samt leverandørens identitet. Kvalitative og kvantitative opplysninger om regulerte stoffer i duftsammensetningen (eller aromasammensetningen) og opplysninger som er relevante for en sikkerhetsvurdering, bør gis til den ansvarlige personen og den sikkerhetssakkyndige, og bør tas med i sikkerhetsrapporten.
+
+1 SCCS Notes of Guidance, nr. 3-6.2, s. 35–36.
 
 3.2.*Det kosmetiske produktets fysiske og kjemiske egenskaper og stabilitet*
 
@@ -34694,7 +35169,9 @@ Hensikten med dette avsnittet i sikkerhetsrapporten for det kosmetiske produktet
 
 Dessuten er de fysisk-kjemiske egenskapene for stoffene eller stoffblandingene og de ferdige produktene en referanseverdi for om produktene og råstoffene kan vurderes å være akseptable fra et kvalitetsmessig synspunkt.1
 
-Dette avsnittet i sikkerhetsrapporten for det kosmetiske produktet krever også en vurdering av det kosmetiske produktets stabilitet, under rimelig forutsigbare lagringsforhold. Hensikten er å vurdere om det kosmetiske produktets stabilitet påvirker produktets sikkerhet og kvalitet, og å bruke opplysningene til å fastsette holdbarhetsgrensen og holdbarheten etter åpnet emballasje.1 Dette punktet er relevant innenfor rammen av god framstillingspraksis, og er uttrykkelig omhandlet i den relevante standarden EN ISO 22716:2007. Nærmere bestemt henger det sammen med kravene til frigivelse av råstoffer og det ferdige produktet.
+Dette avsnittet i sikkerhetsrapporten for det kosmetiske produktet krever også en vurdering av det kosmetiske produktets stabilitet, under rimelig forutsigbare lagringsforhold. Hensikten er å vurdere om det kosmetiske produktets stabilitet påvirker produktets sikkerhet og kvalitet, og å bruke opplysningene til å fastsette holdbarhetsgrensen og holdbarheten etter åpnet emballasje.
+
+1 Dette punktet er relevant innenfor rammen av god framstillingspraksis, og er uttrykkelig omhandlet i den relevante standarden EN ISO 22716:2007. Nærmere bestemt henger det sammen med kravene til frigivelse av råstoffer og det ferdige produktet.
 
 3.2.1
 
@@ -34720,15 +35197,27 @@ Ettersom det kreves at det kosmetiske produktets stabilitet skal vurderes under 
 
 Metoden som er anvendt for å fastslå produktets holdbarhetsgrense, bør beskrives. Eventuelle spesifikke forholdsregler vedrørende konservering, bør nevnes.
 
-Alle tilgjengelige data som brukes til å begrunne den angitte holdbarhetsgrensen, bør angis i sikkerhetsrapporten. For å kunne bestemme sammenhengen i den foretatte stabilitetsundersøkelsen, og for å kunne kontrollere relevansen til den holdbarhetsgrensen som er valgt for produktet, bør beskrivelsen av de prøvingene som er spesifikke for stabilitetsundersøkelsen, samt resultatene av disse prøvingene, være med i sikkerhetsrapporten for det kosmetiske produktet. I tillegg bør følgende også angis:dokumentasjon på at sammensetningen av det produktet som er brukt til stabilitetsprøving, tilsvarer det produktet som faktisk er brakt i omsetning,resultatene av undersøkelsen av konserveringsmidlenes effektivitet, f.eks. belastningsprøving, dersom det er relevant,1dersom det er relevant, holdbarhet etter åpnet emballasje (PAO)2 og begrunnelse for den.
+Alle tilgjengelige data som brukes til å begrunne den angitte holdbarhetsgrensen, bør angis i sikkerhetsrapporten. For å kunne bestemme sammenhengen i den foretatte stabilitetsundersøkelsen, og for å kunne kontrollere relevansen til den holdbarhetsgrensen som er valgt for produktet, bør beskrivelsen av de prøvingene som er spesifikke for stabilitetsundersøkelsen, samt resultatene av disse prøvingene, være med i sikkerhetsrapporten for det kosmetiske produktet. I tillegg bør følgende også angis:
 
-SCCS har anbefalt at det bør utføres «relevante stabilitetsprøvinger», tilpasset typen kosmetisk produkt og dets beregnede bruk. For å sikre at den typen beholder eller emballasje som er brukt, ikke medfører stabilitetsproblemer, utføres det for tiden fysisk stabilitetsprøving med beholdere av uvirksomt materiale og beholdere som er beregnet på bruk på markedet.3 1 Se nr. 3.3 om mikrobiologisk kvalitet.2 Se «Practical implementation of Article 6(1)(c) of the Cosmetics Directive ([76/768/EEC](eu/31976l0768*)): Labelling of product durability: «period of time after opening»» (rådsdirektiv [76/768/EØF](eu/31976l0768*), EUT L 262 av 27.9.1976, s. 169) [http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/wd-04-entr-cos_28_rev_version_adoptee20040419_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/doc/wd-04-entr-cos_28_rev_version_adoptee20040419_en.pdf)3 SCCS Notes of Guidance, nr. 4-3.3, s. 74.
+1. dokumentasjon på at sammensetningen av det produktet som er brukt til stabilitetsprøving, tilsvarer det produktet som faktisk er brakt i omsetning,
+2. resultatene av undersøkelsen av konserveringsmidlenes effektivitet, f.eks. belastningsprøving, dersom det er relevant,1
+3. dersom det er relevant, holdbarhet etter åpnet emballasje (PAO)2 og begrunnelse for den.
+
+SCCS har anbefalt at det bør utføres «relevante stabilitetsprøvinger», tilpasset typen kosmetisk produkt og dets beregnede bruk. For å sikre at den typen beholder eller emballasje som er brukt, ikke medfører stabilitetsproblemer, utføres det for tiden fysisk stabilitetsprøving med beholdere av uvirksomt materiale og beholdere som er beregnet på bruk på markedet.3
+
+1 Se nr. 3.3 om mikrobiologisk kvalitet.
+
+2 Se «Practical implementation of Article 6(1)(c) of the Cosmetics Directive ([76/768/EEC](eu/31976l0768*)): Labelling of product durability: «period of time after opening»» (rådsdirektiv [76/768/EØF](eu/31976l0768*), EUT L 262 av 27.9.1976, s. 169) [http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/wd-04-entr-cos_28_rev_version_adoptee20040419_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/doc/wd-04-entr-cos_28_rev_version_adoptee20040419_en.pdf)
+
+3 SCCS Notes of Guidance, nr. 4-3.3, s. 74.
 
 3.3.*Mikrobiologisk kvalitet*
 
 Hensikten med dette avsnittet i sikkerhetsrapporten for det kosmetiske produktet er å bestemme de akseptable mikrobiologiske spesifikasjonene for råstoffene (stoffene eller stoffblandingene) og det ferdige produktet fra et mikrobiologisk synspunkt. I samsvar med vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), skal det tas særlig hensyn til mikrobiologiske spesifikasjoner for kosmetiske produkter som er beregnet brukt på følsomme kroppsdeler og på spesifikke grupper av befolkningen. Dessuten er opplysninger om mikrobiologisk kvalitet viktig for å begrunne konserveringssystemets effektivitet, samt for å begrunne den angitte holdbarhetsgrensen for det kosmetiske produktet når det lagres under egnede forhold, og holdbarheten etter åpnet emballasje (PAO)1 for det ferdige produktet med hensyn til sikkerhet.
 
-De mikrobiologiske spesifikasjonene for råstoffene (stoffene eller stoffblandingene) og det kosmetiske produktet skal utgjøre en del av sikkerhetsvurderingen. Det skal tas særlig hensyn til de mikrobiologiske spesifikasjonene for kosmetiske produkter som skal brukes rundt øynene, på slimhinner generelt, på skadet hud (for eksempel hudpleieprodukter som er egnet for atopisk eller irritert hud), på barn under tre år, på eldre og på personer som har svekket immunforsvar.1 Holdbarhetsgrensen er hvilken dato det kosmetiske produktet, oppbevart under egnede forhold, vil opprettholde sin opprinnelige funksjon og særlig fortsatt vil være trygt fram til; holdbarheten etter åpnet emballasje (PAO) er det tidsrommet produktet kan brukes uten fare for forbrukeren etter at det er åpnet. Se «Practical implementation of Article 6(1)(c) of the Cosmetics Directive ([76/768/EEC](eu/31976l0768*)): Labelling of product durability: «period of time after opening»».
+De mikrobiologiske spesifikasjonene for råstoffene (stoffene eller stoffblandingene) og det kosmetiske produktet skal utgjøre en del av sikkerhetsvurderingen. Det skal tas særlig hensyn til de mikrobiologiske spesifikasjonene for kosmetiske produkter som skal brukes rundt øynene, på slimhinner generelt, på skadet hud (for eksempel hudpleieprodukter som er egnet for atopisk eller irritert hud), på barn under tre år, på eldre og på personer som har svekket immunforsvar.
+
+1 Holdbarhetsgrensen er hvilken dato det kosmetiske produktet, oppbevart under egnede forhold, vil opprettholde sin opprinnelige funksjon og særlig fortsatt vil være trygt fram til; holdbarheten etter åpnet emballasje (PAO) er det tidsrommet produktet kan brukes uten fare for forbrukeren etter at det er åpnet. Se «Practical implementation of Article 6(1)(c) of the Cosmetics Directive ([76/768/EEC](eu/31976l0768*)): Labelling of product durability: «period of time after opening»».
 
 3.3.1.*Stoffers og stoffblandingers mikrobiologiske kvalitet*
 
@@ -34736,9 +35225,15 @@ De viktigste parametrene for mikrobiologisk kvalitet er det opprinnelige foruren
 
 3.3.2.*Det ferdige kosmetiske produktets mikrobiologiske kvalitet*
 
-Når det gjelder mikrobiologisk mottakelighet, skilles det mellom tre produktgrupper:produkter med lav mikrobiologisk risiko (for eksempel produkter med et alkoholinnhold > 20 %, produkter basert på organiske løsemidler, produkter med høy/lav pH), som det verken er nødvendig å foreta en belastningsprøving av konservering eller prøving av mikrobiologisk kvalitet av. Det skal imidlertid gis en vitenskapelig begrunnelse,engangsprodukter, og produkter som ikke kan åpnes (for eksempel som emballasjen tillater dosering av uten at det kommer i kontakt med luft), som det bare er nødvendig med prøving av mikrobiologisk kvalitet av. Det skal imidlertid gis en vitenskapelig begrunnelse,alle andre produkter, som det er nødvendig å foreta både belastningsprøving av konservering og prøving av mikrobiologisk kvalitet av.
+Når det gjelder mikrobiologisk mottakelighet, skilles det mellom tre produktgrupper:
 
-Særlige «Guidelines on Microbiological Quality of the Finished Product» foreligger i SCCS Notes of Guidance.1 1 SCCS Notes of Guidance, nr. 4-4, s. 75–76.
+1. produkter med lav mikrobiologisk risiko (for eksempel produkter med et alkoholinnhold > 20 %, produkter basert på organiske løsemidler, produkter med høy/lav pH), som det verken er nødvendig å foreta en belastningsprøving av konservering eller prøving av mikrobiologisk kvalitet av. Det skal imidlertid gis en vitenskapelig begrunnelse,
+2. engangsprodukter, og produkter som ikke kan åpnes (for eksempel som emballasjen tillater dosering av uten at det kommer i kontakt med luft), som det bare er nødvendig med prøving av mikrobiologisk kvalitet av. Det skal imidlertid gis en vitenskapelig begrunnelse,
+3. alle andre produkter, som det er nødvendig å foreta både belastningsprøving av konservering og prøving av mikrobiologisk kvalitet av.
+
+Særlige «Guidelines on Microbiological Quality of the Finished Product» foreligger i SCCS Notes of Guidance.1
+
+1 SCCS Notes of Guidance, nr. 4-4, s. 75–76.
 
 3.4.*Urenheter, spor, opplysninger om emballasjemateriale*
 
@@ -34752,9 +35247,17 @@ Spor kan komme fra følgende kilder: urenheter i råstoffene/stoffene, framstill
 
 Ettersom stoffene kan migrere fra emballasjen til sammensetningen, skal de relevante egenskapene ved emballasjematerialet vurderes.
 
-I samsvar med nr. 4 i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), skal avsnittet «Urenheter, spor, opplysninger om emballasjemateriale» omhandle tre spesifikke punkter:stoffenes og stoffblandingenes renhet,når det gjelder spor av forbudte stoffer, bevis på at de teknisk er uunngåelige,de relevante egenskapene til emballasjematerialet, særlig renhet og stabilitet.
+I samsvar med nr. 4 i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), skal avsnittet «Urenheter, spor, opplysninger om emballasjemateriale» omhandle tre spesifikke punkter:
 
-Rent praktisk kan disse punktene tolkes slik:presis definisjon av urenheter og spor (se 3.4.1),bevis på at forbudte stoffer er teknisk uunngåelige (se 3.4.2),mulig utslipp av stoffer fra emballasjen eller mulig forringelse av produktet i kontakt med emballasjen (se 3.4.3).
+1. stoffenes og stoffblandingenes renhet,
+2. når det gjelder spor av forbudte stoffer, bevis på at de teknisk er uunngåelige,
+3. de relevante egenskapene til emballasjematerialet, særlig renhet og stabilitet.
+
+Rent praktisk kan disse punktene tolkes slik:
+
+1. presis definisjon av urenheter og spor (se 3.4.1),
+2. bevis på at forbudte stoffer er teknisk uunngåelige (se 3.4.2),
+3. mulig utslipp av stoffer fra emballasjen eller mulig forringelse av produktet i kontakt med emballasjen (se 3.4.3).
 
 Opplysninger fra leverandøren er avgjørende ved analyse av urenheter og emballasjemateriale, og bør velges i første rekke.
 
@@ -34766,7 +35269,10 @@ Urenheter er utilsiktede stoffer i råstoffene.
 
 Et spor er en liten mengde av et utilsiktet stoff i det ferdige produktet.
 
-Forekomsten av spor i det ferdige produktet kan vurderes på to måter:gjennom spesifikasjonene/de tekniske opplysningene for hvert råstoff, basert på kunnskap om råstoffets framstillingsprosess (opprinnelse for stoffet, produksjonsprosess, syntesevei, ekstraksjonsprosess, anvendt løsemiddel osv.),gjennom en fysisk-kjemisk analyse av mulige urenheter i råstoffene, og om nødvendig i det ferdige produktet (f.eks. nitrosaminer som potensielt kan dannes under eller etter framstillingsprosessen).
+Forekomsten av spor i det ferdige produktet kan vurderes på to måter:
+
+1. gjennom spesifikasjonene/de tekniske opplysningene for hvert råstoff, basert på kunnskap om råstoffets framstillingsprosess (opprinnelse for stoffet, produksjonsprosess, syntesevei, ekstraksjonsprosess, anvendt løsemiddel osv.),
+2. gjennom en fysisk-kjemisk analyse av mulige urenheter i råstoffene, og om nødvendig i det ferdige produktet (f.eks. nitrosaminer som potensielt kan dannes under eller etter framstillingsprosessen).
 
 Spor av forbudte stoffer omhandles i nr. 3.4.2 i disse retningslinjene.
 
@@ -34780,7 +35286,13 @@ Dersom slik forekomst er teknisk uunngåelig, kreves det at kosmetikkprodusenten
 
 Særlig når det gjelder genotoksiske og kreftframkallende stoffer uten grenseverdi,2 bør kosmetikkindustrien fortsatt forbedre beste praksis for å fjerne disse stoffene (ALARA-prinsippet3 i det ferdige kosmetiske produktet. Det viktigste er å sikre vern av menneskers helse, som fastsatt i artikkel 3 i forordning [(EF) nr. 1223/2009](eu/32009r1223).
 
-Spor som dannes ved forringelsen av stoffer i det ferdige produktet (stabilitetsproblemer), ved konserverings- eller transportproblemer, eller ved interaksjon mellom råstoffer, bør unngås gjennom god framstillingspraksis, eller muligens gjennom endret sammensetning av produktet.1 Ved artikkel 17 i forordning [(EF) nr. 1223/2009](eu/32009r1223) er det fastsatt at spor av forbudte stoffer bare er tillatt dersom det er teknisk uunngåelig, og dersom de ikke har noen påvirkning på de kosmetiske produktenes sikkerhet.2 De genotoksiske og kreftframkallende stoffene er genotoksiske og kreftframkallende stoffer uten grenseverdi for genotoksisk kreftframkallende virkning.3 Uttalelse fra Vitenskapskomiteen på anmodning fra EFSA i forbindelse med «A Harmonised Approach for Risk Assessment of Substances Which are both Genotoxic and Carcinogenic», EFSA Journal (2005) 282, s. 1–31.
+Spor som dannes ved forringelsen av stoffer i det ferdige produktet (stabilitetsproblemer), ved konserverings- eller transportproblemer, eller ved interaksjon mellom råstoffer, bør unngås gjennom god framstillingspraksis, eller muligens gjennom endret sammensetning av produktet.
+
+1 Ved artikkel 17 i forordning [(EF) nr. 1223/2009](eu/32009r1223) er det fastsatt at spor av forbudte stoffer bare er tillatt dersom det er teknisk uunngåelig, og dersom de ikke har noen påvirkning på de kosmetiske produktenes sikkerhet.
+
+2 De genotoksiske og kreftframkallende stoffene er genotoksiske og kreftframkallende stoffer uten grenseverdi for genotoksisk kreftframkallende virkning.
+
+3 Uttalelse fra Vitenskapskomiteen på anmodning fra EFSA i forbindelse med «A Harmonised Approach for Risk Assessment of Substances Which are both Genotoxic and Carcinogenic», EFSA Journal (2005) 282, s. 1–31.
 
 3.4.3.*De relevante egenskapene til emballasjematerialet*
 
@@ -34788,15 +35300,27 @@ Med emballasjemateriale menes beholderen (eller primæremballasjen) som er i dir
 
 Erfaring fra lignende kombinasjoner av sammensetning og emballasje som allerede er på markedet, er en god indikasjon. Materialer som er utviklet som emballasje for næringsmidler, har ofte allerede vært prøvd, så det kan foreligge relevant informasjon om stabilitet og migrasjon. Ytterligere prøving er kanskje ikke nødvendig. Det kan imidlertid trenges mer vurdering for ny emballasje.
 
-Kombinasjonen av emballasjemateriale, sammensetning av det kosmetiske produktet og kontakt med det ytre miljøet kan påvirke sikkerheten til det ferdige produktet, på grunn av følgende faktorer:interaksjon mellom produktet og emballasjematerialet,barriereegenskaper for emballasjematerialet,migrasjon av stoff fra/til emballasjematerialet.
+Kombinasjonen av emballasjemateriale, sammensetning av det kosmetiske produktet og kontakt med det ytre miljøet kan påvirke sikkerheten til det ferdige produktet, på grunn av følgende faktorer:
 
-Opplysningene om de relevante egenskapene til emballasjematerialene som er i direkte kontakt med produktet, bør gjøre det mulig å beregne mulige risikoer. Relevante egenskaper kan for eksempel omfatte følgende:emballasjematerialets sammensetning, herunder tekniske stoffer som for eksempel tilsetningsstoffer,teknisk uunngåelige urenheter,mulig migrasjon fra emballasjen.
+1. interaksjon mellom produktet og emballasjematerialet,
+2. barriereegenskaper for emballasjematerialet,
+3. migrasjon av stoff fra/til emballasjematerialet.
+
+Opplysningene om de relevante egenskapene til emballasjematerialene som er i direkte kontakt med produktet, bør gjøre det mulig å beregne mulige risikoer. Relevante egenskaper kan for eksempel omfatte følgende:
+
+1. emballasjematerialets sammensetning, herunder tekniske stoffer som for eksempel tilsetningsstoffer,
+2. teknisk uunngåelige urenheter,
+3. mulig migrasjon fra emballasjen.
 
 Disse opplysningene angir bare faren. Det er opp til den sikkerhetssakkyndige å vurdere risikoen.2
 
 Undersøkelser av interaksjoner/egnethet mellom sammensetning og emballasje muliggjør prøving av potensiell migrasjon av små mengder av stoffer fra primæremballasjens materiale til produktet. Disse prøvingene utføres under spesifikke og relevante prøvingsforhold. Det finnes imidlertid ingen standardframgangsmåter for kosmetiske produkter. Det kan foretas en hensiktsmessig vurdering basert på kunnskap om sammensetningen og primæremballasjens materialer og erfarne eksperters vurdering.
 
-Dersom migrasjon avhenger av lagringsforholdene, skal de riktige forholdene angis på produktmerkingen. Dersom sammensetningen er følsom for lys eller luft, og vil forringes på en måte som påvirker produktets sikkerhet eller effektivitet, bør det benyttes egnet emballasje.1 EUT L 338 av 13.11.2004, s. 4.2 For å vurdere risikoen må det tas hensyn til faren sammen med eksponeringen, og dette er den sikkerhetssakkyndiges plikt.
+Dersom migrasjon avhenger av lagringsforholdene, skal de riktige forholdene angis på produktmerkingen. Dersom sammensetningen er følsom for lys eller luft, og vil forringes på en måte som påvirker produktets sikkerhet eller effektivitet, bør det benyttes egnet emballasje.
+
+1 EUT L 338 av 13.11.2004, s. 4.
+
+2 For å vurdere risikoen må det tas hensyn til faren sammen med eksponeringen, og dette er den sikkerhetssakkyndiges plikt.
 
 3.5.*Normal og rimelig forutsigbar bruk*
 
@@ -34814,7 +35338,15 @@ Eksponeringsvurdering er en viktig del av risikovurderingen. Hensikten med dette
 
 Vurderingen av eksponering for det kosmetiske produktet skal ta i betraktning resultatene med hensyn til «normal og rimelig forutsigbar bruk» under nr. 5 i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223), i forbindelse med et sett elementer som er uttrykkelig oppført i nr. 6. Sekundære eksponeringsveier skal også tas i betraktning, dersom det er relevant.
 
-Beskrivelsen av konkrete bruksforhold når det gjelder eksponeringsanalyse, bør også ta hensyn til følgende parametrer:produkttype (f.eks. produkt som skylles av/ikke skylles av),påføringssted (f.eks. hele kroppen, øyne, munnhule),mengde per påføring når det gjelder normal og rimelig forutsigbar bruk, f.eks. herunder når en sjampo brukes som dusjgelé),varighet og hyppighet,mulige (forutsigbare) eksponeringsveier (f.eks. munn for leppestift og tannpasta, eller innånding når det gjelder aerosoler og løsemidler),målgruppe for bruk (f.eks. barn under tre år, voksne),partikkelstørrelsens virkning på eksponeringen.
+Beskrivelsen av konkrete bruksforhold når det gjelder eksponeringsanalyse, bør også ta hensyn til følgende parametrer:
+
+1. produkttype (f.eks. produkt som skylles av/ikke skylles av),
+2. påføringssted (f.eks. hele kroppen, øyne, munnhule),
+3. mengde per påføring når det gjelder normal og rimelig forutsigbar bruk, f.eks. herunder når en sjampo brukes som dusjgelé),
+4. varighet og hyppighet,
+5. mulige (forutsigbare) eksponeringsveier (f.eks. munn for leppestift og tannpasta, eller innånding når det gjelder aerosoler og løsemidler),
+6. målgruppe for bruk (f.eks. barn under tre år, voksne),
+7. partikkelstørrelsens virkning på eksponeringen.
 
 SCCS Notes of Guidance gir nyttig informasjon om beregning av eksponering, og særlig relevante tabeller.1
 
@@ -34832,7 +35364,9 @@ Eksponering for hvert av stoffene i det kosmetiske produktet beregnes ut fra eks
 
 Eksponering for de enkelte stoffene beregnes ut fra produktets kvantitative sammensetning. Dersom det dannes eller slippes ut stoffer ved bruk av produktet, bør eksponeringen beregnes og tas hensyn til i sikkerhetsvurderingen.
 
-Eksponeringsforholdene for hvert enkelt stoff bestemmes av eksponeringsforholdene for det ferdige kosmetiske produktet, nevnt i nr. 3.6.1 SCCS Notes of Guidance, nr. 4-4, fra s. 66.
+Eksponeringsforholdene for hvert enkelt stoff bestemmes av eksponeringsforholdene for det ferdige kosmetiske produktet, nevnt i nr. 3.6.
+
+1 SCCS Notes of Guidance, nr. 4-4, fra s. 66.
 
 3.8.
 
@@ -34844,7 +35378,11 @@ De endepunktene som skal vurderes, i tillegg til de nødvendige opplysningene, a
 
 Den sikkerhetssakkyndige bør sikre at forsøksdataene oppfyller kravene i artikkel 18 i forordning [(EF) nr. 1223/2009](eu/32009r1223) vedrørende dyreforsøk. Slike krav klargjøres i kommisjonsmeldingen om forbud mot dyreforsøk og markedsføring, og om situasjonen med hensyn til alternative metoder på kosmetikksektoren.2
 
-I nr. 8 i del A i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223) fastsettes de viktigste kravene til sikkerhetsrapporten for kosmetiske produkter når det gjelder stoffenes toksikologiske profil.1 M. Pauwels, V. Rogiers, Human Health Safety Evaluation of Cosmetics in the EU: A Legally Imposed Challenge to Science, Toxicology and Applied Pharmacology, 243 (2010), s. 261.2 Melding fra Kommisjonen til europaparlamentet og rådet om forbud mot dyreforsøk og markedsføring, og om situasjonen med hensyn til alternative metoder på kosmetikksektoren, COM(2013) 135 endelig.
+I nr. 8 i del A i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223) fastsettes de viktigste kravene til sikkerhetsrapporten for kosmetiske produkter når det gjelder stoffenes toksikologiske profil.
+
+1 M. Pauwels, V. Rogiers, Human Health Safety Evaluation of Cosmetics in the EU: A Legally Imposed Challenge to Science, Toxicology and Applied Pharmacology, 243 (2010), s. 261.
+
+2 Melding fra Kommisjonen til europaparlamentet og rådet om forbud mot dyreforsøk og markedsføring, og om situasjonen med hensyn til alternative metoder på kosmetikksektoren, COM(2013) 135 endelig.
 
 3.8.1.*Allmenne hensyn vedrørende den toksikologiske profilen som ledd i sikkerhetsvurderingen*
 
@@ -34852,13 +35390,26 @@ De relevante elementene i den toksikologiske profilen for hvert stoff eller hver
 
 Erfaring fra bruk på mennesker, dyreforsøk eller alternative metoder til dyreforsøk er nyttige for å forstå helserisikoen for mennesker som utsettes for farlige stoffer. Når det gjelder toksikologiske profiler, brukes toksikologiske undersøkelser for å identifisere farene som kan knyttes til risiko for mennesker. Det er viktig å ta hensyn til kvaliteten på og begrensningene i de undersøkelsene som er gjort. En undersøkelses gyldighet bør tas i betraktning for å bestemme hvorvidt det er behov for nye opplysninger for å forstå risikoen for menneskers helse.1 Undersøkelser som er gjennomført i samsvar med internasjonale retningslinjer, er de mest nyttige, men uheldigvis oppfyller ikke alle undersøkelser disse kravene. Derfor bør begrensningene i slike undersøkelser tas i betraktning ved vurdering av den toksikologiske profilen for hvert stoff.
 
-Den sikkerhetssakkyndige bør sikre at forsøksdataene oppfyller kravene i artikkel 18 i forordning [(EF) nr. 1223/2009](eu/32009r1223) vedrørende dyreforsøk. Meldingen fra Kommisjonen til europaparlamentet og rådet om forbud mot dyreforsøk og markedsføring, og om situasjonen med hensyn til alternative metoder på kosmetikksektoren redegjør for Kommisjonens tolkning av disse kravene.2 1 H.J. Klimisch, E. Andreae and U. Tillmann (1997), A systematic approach for evaluating the quality of experimental and ecotoxicological data. Regul Toxicol Pharmacol 25:1–5.2 Se særlig nr. 3.1 i meldingen.
+Den sikkerhetssakkyndige bør sikre at forsøksdataene oppfyller kravene i artikkel 18 i forordning [(EF) nr. 1223/2009](eu/32009r1223) vedrørende dyreforsøk. Meldingen fra Kommisjonen til europaparlamentet og rådet om forbud mot dyreforsøk og markedsføring, og om situasjonen med hensyn til alternative metoder på kosmetikksektoren redegjør for Kommisjonens tolkning av disse kravene.2
+
+1 H.J. Klimisch, E. Andreae and U. Tillmann (1997), A systematic approach for evaluating the quality of experimental and ecotoxicological data. Regul Toxicol Pharmacol 25:1–5.
+
+2 Se særlig nr. 3.1 i meldingen.
 
 3.8.2.*Stoffenes toksikologiske profil for alle relevante toksikologiske endepunkter*
 
 Hvert stoffs toksikologiske profil bestemmes av fareidentifikasjonen og beskrivelsen av forholdet mellom dosering og virkning.
 
-Det første viktige trinnet i utarbeidingen av den toksikologiske profilen er å samle alle relevant opplysninger om stoffets iboende egenskaper. Slike opplysninger bør omfatte følgende:som de mest verdifulle opplysningene om giftighet, faktiske prøvingsdata fra in vivo- eller in vitro-undersøkelser innhentet i samsvar med kommisjonsforordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH),1 anerkjente internasjonale retningslinjer eller standarder (f.eks. OECDs retningslinjer for prøving), og utført i samsvar med prinsippene for god laboratoriepraksis.eksisterende prøvingsdata som ikke er innhentet i samsvar med siste vedtatte/godtatte versjon av retningslinjer for prøving eller standarder for god laboratoriepraksis, men som anses som gyldige,in vitro-data eller alternative data fra gyldige prøvingssystemer, som skal brukes som en kartleggingsundersøkelse for å forutse giftighet,data fra mennesker og/eller erfaring. Det er generelt ikke akseptabelt å gjennomføre toksikologiske undersøkelser på mennesker med henblikk på fareidentifikasjon, men dersom data eller erfaringer foreligger, bør de inngå i den endelige vurderingen,menneskelige (kliniske) data, herunder data fra kliniske forsøk og anvendelser i andre industrier, for eksempel næringsmidler og legemidler,data innsamlet fra undersøkelser etter markedsføring,kompatibilitetsundersøkelser med deltaking av frivillige personer, som utelukkende bør brukes for å bekrefte sikre bruksnivåer for en relevant målgruppe,2metoder basert på sammenligninger med stoffer med samme struktur,3 basert på kjemisk struktur og egenskaper ved beslektede stoffer for å kunne forutsi giftighet i bestanddelen, gruppering av stoffer, og data som er innhentet uten prøving fra resultatene av QSAR-modeller.
+Det første viktige trinnet i utarbeidingen av den toksikologiske profilen er å samle alle relevant opplysninger om stoffets iboende egenskaper. Slike opplysninger bør omfatte følgende:
+
+1. som de mest verdifulle opplysningene om giftighet, faktiske prøvingsdata fra in vivo- eller in vitro-undersøkelser innhentet i samsvar med kommisjonsforordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH),1 anerkjente internasjonale retningslinjer eller standarder (f.eks. OECDs retningslinjer for prøving), og utført i samsvar med prinsippene for god laboratoriepraksis.
+2. eksisterende prøvingsdata som ikke er innhentet i samsvar med siste vedtatte/godtatte versjon av retningslinjer for prøving eller standarder for god laboratoriepraksis, men som anses som gyldige,
+3. in vitro-data eller alternative data fra gyldige prøvingssystemer, som skal brukes som en kartleggingsundersøkelse for å forutse giftighet,
+4. data fra mennesker og/eller erfaring. Det er generelt ikke akseptabelt å gjennomføre toksikologiske undersøkelser på mennesker med henblikk på fareidentifikasjon, men dersom data eller erfaringer foreligger, bør de inngå i den endelige vurderingen,
+5. menneskelige (kliniske) data, herunder data fra kliniske forsøk og anvendelser i andre industrier, for eksempel næringsmidler og legemidler,
+6. data innsamlet fra undersøkelser etter markedsføring,
+7. kompatibilitetsundersøkelser med deltaking av frivillige personer, som utelukkende bør brukes for å bekrefte sikre bruksnivåer for en relevant målgruppe,2
+8. metoder basert på sammenligninger med stoffer med samme struktur,3 basert på kjemisk struktur og egenskaper ved beslektede stoffer for å kunne forutsi giftighet i bestanddelen, gruppering av stoffer, og data som er innhentet uten prøving fra resultatene av QSAR-modeller.
 
 På bakgrunn av data innhentet fra alle tilgjengelige kilder, og idet det tas hensyn til dataenes kvalitet, kan den sikkerhetssakkyndige vurdere sannsynligheten for skadevirkninger hos mennesker gjennom «beviskraft»-metoden.4
 
@@ -34866,7 +35417,20 @@ En forutsetning for en korrekt risikovurdering er at det foreligger tilstrekkeli
 
 Den toksikologiske profilen kan omfatte en rekke forskjellige endepunkter. En endelig beslutning om hvilke endepunkter som er relevante, gjøres av den sikkerhetssakkyndige i hvert enkelt tilfelle, idet det tas hensyn til eksponering, bruk av produktet, stoffets fysisk-kjemiske egenskaper, erfaring med stoffene osv.6 Det bør også tas hensyn til lokale virkninger (f.eks. irritasjon og fototoksisitet), dersom det er relevant. Dersom et bestemt endepunkt vurderes som ikke relevant, bør dette begrunnes.
 
-Endepunkter som kan være relevante for den toksikologiske profilen, er:akutt toksisitet via relevante eksponeringsveier,irritasjon og etsing,hudirritasjon eller hudetsing,irritasjon av slimhinner (øyeirritasjon),hudsensibilisering,absorpsjon gjennom huden,giftighet ved gjentatt dosering (normalt 28- eller 90-dagers studier),7arvestoffskadelighet/genotoksisitet,kreftframkallende egenskaper,reproduksjonstoksisitet,toksikokinetikk (ADME-undersøkelser),lysindusert giftighet.
+Endepunkter som kan være relevante for den toksikologiske profilen, er:
+
+1. akutt toksisitet via relevante eksponeringsveier,
+2. irritasjon og etsing,
+3. hudirritasjon eller hudetsing,
+4. irritasjon av slimhinner (øyeirritasjon),
+5. hudsensibilisering,
+6. absorpsjon gjennom huden,
+7. giftighet ved gjentatt dosering (normalt 28- eller 90-dagers studier),7
+8. arvestoffskadelighet/genotoksisitet,
+9. kreftframkallende egenskaper,
+10. reproduksjonstoksisitet,
+11. toksikokinetikk (ADME-undersøkelser),
+12. lysindusert giftighet.
 
 For passende endepunkter bør de mest relevante konsentrasjonene eller nivåene der det ikke observeres skadevirkninger (No Observed Adverse Effect Levels – NOAEL), eller de laveste nivåene for observerte skadevirkinger (Lowest Observed Adverse Effect Levels – LOAEL) identifiseres for videre bruk i risikobeskrivelsesprosessen.
 
@@ -34874,7 +35438,27 @@ Ytterligere opplysninger om endepunktspesifikke data og fortolkningen av disse k
 
 Når det gjelder visse kosmetiske bestanddeler av mineralsk, animalsk, botanisk og bioteknologisk opprinnelse (se også stoffer av ukjent eller variabel sammensetning, sammensatte reaksjonsprodukter eller biologisk materiale eller «UVCB-stoffer» under REACH),10 bør kilde, prosess, involverte organismer osv. tas nøye hensyn til når de identifiseres for å kunne vurdere deres toksikologiske profil.
 
-Dersom visse farer ikke kan håndteres i tilstrekkelig omfang, eller dersom det gjenstår tvil om dataenes robusthet, kan det tilføyes ytterligere usikkerhetsfaktorer, eller det kan være behov for å samle inn ytterligere data.1 EUT L 142 av 31.5.2008, s. 1.2 SCCS Notes of Guidance, nr. 3.4.11. Se også uttalelse SCCNFP/0068/98, en tidligere versjon av Notes of Guidance, og SCCNFP/0245/99 on Basic Criteria of the Protocols for the Skin Compatibility Testing of Potentially Cutaneous Irritant Cosmetic Ingredients or Mixtures of Ingredients on Human Volunteers.3 Sammenligning med stoffer med samme struktur/analogisering/kryssreferanse (read-across) er en metode for utfylling av hull i data der opplysninger for ett eller flere kildekjemikalier brukes til å foreta en forutsigelse for et målkjemikalie, som på en eller annen måte betraktes som tilsvarende. Fra ECHA, «Guidance on information requirements and chemical safety assessment Chapter R.4: Evaluation of available information», desember 2011, s. 12. [http://echa.europa.eu/documents/10162/17235/information_requirements_r4_en.pdf](https://echa.europa.eu/documents//10162/17235/information_requirements_r4_en.pdf)4 En definisjon av dataenes beviskraft (weight of evidence) er: «den prosess der forskjellige opplysningers styrker og svakheter vurderes med henblikk på å trekke og støtte en konklusjon vedrørende en egenskap ved stoffet» («the process of considering the strengths and weaknesses of various pieces of information in reaching and supporting a conclusion concerning a property of the substance»). Fra ECHA, 'Practical guide 2: How to report weight of evidence', 2010, s. 2, [http://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_en.pdf](https://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_en.pdf).5 Se SCCS Notes of Guidance, Section 3–6 Basic Requirements for Cosmetic Substances Present in Finished Cosmetic Products (som skal vurderes av de enkelte sikkerhetssakkyndige).6 SCCS Notes of Guidance omhandler tydelig dette spørsmålet i nr. 3-6.1 General toxicological requirements.7 I henhold til SCCS Notes of Guidance (nr. 3-4.5), bør NOAEL prioriteres når det gjelder subkronisk giftighet (90-dagers studie). Bare dersom slike verdier ikke er tilgjengelige, bør resultater fra subakutt giftighet (28-dagers studie) brukes.8 European Chemicals Agency (ECHA), Guidance on information requirements and chemical safety assessment – Chapter R.7a: Endpoint specific guidance, May 2008.9 EUT L 396 av 30.12.2006, s. 1.10 Se European Chemicals Agency (ECHA), Guidance for identification and naming of substances under REACH and CLP, November 2011.
+Dersom visse farer ikke kan håndteres i tilstrekkelig omfang, eller dersom det gjenstår tvil om dataenes robusthet, kan det tilføyes ytterligere usikkerhetsfaktorer, eller det kan være behov for å samle inn ytterligere data.
+
+1 EUT L 142 av 31.5.2008, s. 1.
+
+2 SCCS Notes of Guidance, nr. 3.4.11. Se også uttalelse SCCNFP/0068/98, en tidligere versjon av Notes of Guidance, og SCCNFP/0245/99 on Basic Criteria of the Protocols for the Skin Compatibility Testing of Potentially Cutaneous Irritant Cosmetic Ingredients or Mixtures of Ingredients on Human Volunteers.
+
+3 Sammenligning med stoffer med samme struktur/analogisering/kryssreferanse (read-across) er en metode for utfylling av hull i data der opplysninger for ett eller flere kildekjemikalier brukes til å foreta en forutsigelse for et målkjemikalie, som på en eller annen måte betraktes som tilsvarende. Fra ECHA, «Guidance on information requirements and chemical safety assessment Chapter R.4: Evaluation of available information», desember 2011, s. 12. [http://echa.europa.eu/documents/10162/17235/information_requirements_r4_en.pdf](https://echa.europa.eu/documents//10162/17235/information_requirements_r4_en.pdf)
+
+4 En definisjon av dataenes beviskraft (weight of evidence) er: «den prosess der forskjellige opplysningers styrker og svakheter vurderes med henblikk på å trekke og støtte en konklusjon vedrørende en egenskap ved stoffet» («the process of considering the strengths and weaknesses of various pieces of information in reaching and supporting a conclusion concerning a property of the substance»). Fra ECHA, 'Practical guide 2: How to report weight of evidence', 2010, s. 2, [http://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_en.pdf](https://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_en.pdf).
+
+5 Se SCCS Notes of Guidance, Section 3–6 Basic Requirements for Cosmetic Substances Present in Finished Cosmetic Products (som skal vurderes av de enkelte sikkerhetssakkyndige).
+
+6 SCCS Notes of Guidance omhandler tydelig dette spørsmålet i nr. 3-6.1 General toxicological requirements.
+
+7 I henhold til SCCS Notes of Guidance (nr. 3-4.5), bør NOAEL prioriteres når det gjelder subkronisk giftighet (90-dagers studie). Bare dersom slike verdier ikke er tilgjengelige, bør resultater fra subakutt giftighet (28-dagers studie) brukes.
+
+8 European Chemicals Agency (ECHA), Guidance on information requirements and chemical safety assessment – Chapter R.7a: Endpoint specific guidance, May 2008.
+
+9 EUT L 396 av 30.12.2006, s. 1.
+
+10 Se European Chemicals Agency (ECHA), Guidance for identification and naming of substances under REACH and CLP, November 2011.
 
 3.8.3.*Undersøkelse av alle vesentlige absorpsjonsveier*
 
@@ -34886,9 +35470,25 @@ Systemisk eksponeringsdose1 (SED) = Ytre eksponering x absorpsjon
 
 Absorpsjon kan skje gjennom flere eksterne veier: hud, munn og innånding.
 
-Dersom den beregnede eksponeringen for det kosmetiske produktet ikke er i samsvar med eksponeringsveien i sikkerhetsdataene, bør ekstrapolering fra en eksponeringsvei til en annen vurderes.Absorpsjon etter hudeksponeringAbsorpsjon gjennom huden2 av et stoff i et produkt er avhengig av både iboende faktorer (f.eks. logPow, molekylvekt) og dets atferd i produktet. Hudens in vivo-absorpsjon av et stoff hos et menneske kan beregnes ved å bruke data fra eksisterende in vivo-dyreundersøkelser og in vitro-undersøkelser av dyrs og menneskers hud. Dersom det ikke foreligger noen måledata og det ikke kan bestemmes noen absorpsjonsgrad ved hjelp av en vitenskapelig gyldig in silico-metode eller standardverdier for absorpsjonsgrad, bør det benyttes en verdi på 100 % for verst tenkelige tilfelle for å beregne den systemiske eksponeringen.3 Dersom molekylvekt > 500 Da og logPow er mindre enn –1 eller høyere enn 4, kan det brukes en verdi på 10 % for absorpsjon gjennom huden.Absorpsjon etter eksponering gjennom munnenDersom en rimelig forutsigbar bruk kan medføre svelging, bør veien gjennom munnen tas med i eksponeringsscenariene.Absorpsjon etter innåndingFor alle stoffer som brukes i spray og noen former for pulver, skal innånding vurderes ved bestemmelse av systemisk eksponering.
+Dersom den beregnede eksponeringen for det kosmetiske produktet ikke er i samsvar med eksponeringsveien i sikkerhetsdataene, bør ekstrapolering fra en eksponeringsvei til en annen vurderes.
 
-I tillegg kan det også være en mulighet for sekundær innåndingseksponering der kosmetiske produkter inneholder flyktige stoffer som kan innåndes utilsiktet ved direkte bruk, for eksempel toluen i neglelakk, forskjellige stoffer som inngår i midler til pleie av negler osv.1 Dvs. den systemisk tilgjengelige dosen som passerer de relevante fysiske barrierene (mage/tarm-, hud- eller lungestrukturer) og blir tilgjengelige i blodstrømmen med etterfølgende fordeling til vev og organer, se M. Pauwels, V. Rogiers, s. 262.2 Grunnleggende kriterier for in vitro-vurdering av absorpsjon av kosmetiske bestanddeler gjennom huden (SCCS/1358/10).3 SCCS Notes of Guidance, nr. 3-7.2, s. 49.
+1. Absorpsjon etter hudeksponering
+
+   Absorpsjon gjennom huden2 av et stoff i et produkt er avhengig av både iboende faktorer (f.eks. logPow, molekylvekt) og dets atferd i produktet. Hudens in vivo-absorpsjon av et stoff hos et menneske kan beregnes ved å bruke data fra eksisterende in vivo-dyreundersøkelser og in vitro-undersøkelser av dyrs og menneskers hud. Dersom det ikke foreligger noen måledata og det ikke kan bestemmes noen absorpsjonsgrad ved hjelp av en vitenskapelig gyldig in silico-metode eller standardverdier for absorpsjonsgrad, bør det benyttes en verdi på 100 % for verst tenkelige tilfelle for å beregne den systemiske eksponeringen.3 Dersom molekylvekt > 500 Da og logPow er mindre enn –1 eller høyere enn 4, kan det brukes en verdi på 10 % for absorpsjon gjennom huden.
+2. Absorpsjon etter eksponering gjennom munnen
+
+   Dersom en rimelig forutsigbar bruk kan medføre svelging, bør veien gjennom munnen tas med i eksponeringsscenariene.
+3. Absorpsjon etter innånding
+
+   For alle stoffer som brukes i spray og noen former for pulver, skal innånding vurderes ved bestemmelse av systemisk eksponering.
+
+I tillegg kan det også være en mulighet for sekundær innåndingseksponering der kosmetiske produkter inneholder flyktige stoffer som kan innåndes utilsiktet ved direkte bruk, for eksempel toluen i neglelakk, forskjellige stoffer som inngår i midler til pleie av negler osv.
+
+1 Dvs. den systemisk tilgjengelige dosen som passerer de relevante fysiske barrierene (mage/tarm-, hud- eller lungestrukturer) og blir tilgjengelige i blodstrømmen med etterfølgende fordeling til vev og organer, se M. Pauwels, V. Rogiers, s. 262.
+
+2 Grunnleggende kriterier for in vitro-vurdering av absorpsjon av kosmetiske bestanddeler gjennom huden (SCCS/1358/10).
+
+3 SCCS Notes of Guidance, nr. 3-7.2, s. 49.
 
 3.8.4.*Vurdering av systemiske virkninger og beregning av sikkerhetsmarginen*
 
@@ -34918,12 +35518,30 @@ Ut fra den fullstendige toksikologiske profilen bør det bestemmes en NOAEL-verd
 
 Beregning av sikkerhetsmarginen basert bare på data fra gjennomsnittlig dødelig dose (LD50) som er hentet fra enkeltdoseprøvinger (i stedet for en NOAEL fra minst subakutt prøving), kan ikke brukes som begrunnelse for sikker bruk.
 
-Når det tydelig kan dokumenteres fravær av biotilgjengelighet, er det ikke nødvendig å beregne sikkerhetsmarginen. I disse tilfellene bør det likevel tas hensyn til lokale virkninger på hud eller slimhinner.1 M. Pauwels, V. Rogiers, s. 262.2 SCCS, SCHER and SCENIHR, Opinion on Use of the Threshold of Toxicological Concern (TTC) Approach for Human Safety Assessment of Chemical Substances with focus on Cosmetics and Consumer Products, SCCP/1171/08.3 SCCS Notes of Guidance, nr. 3-7, s. 46.4 IGHRC, Guidelines on route-to-route extrapolation of toxicity data when assessing health risks of chemicals. The Interdepartmental Group on Health Risks from Chemicals (2006), [http://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html](https://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html).
+Når det tydelig kan dokumenteres fravær av biotilgjengelighet, er det ikke nødvendig å beregne sikkerhetsmarginen. I disse tilfellene bør det likevel tas hensyn til lokale virkninger på hud eller slimhinner.
+
+1 M. Pauwels, V. Rogiers, s. 262.
+
+2 SCCS, SCHER and SCENIHR, Opinion on Use of the Threshold of Toxicological Concern (TTC) Approach for Human Safety Assessment of Chemical Substances with focus on Cosmetics and Consumer Products, SCCP/1171/08.
+
+3 SCCS Notes of Guidance, nr. 3-7, s. 46.
+
+4 IGHRC, Guidelines on route-to-route extrapolation of toxicity data when assessing health risks of chemicals. The Interdepartmental Group on Health Risks from Chemicals (2006), [http://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html](https://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html).
 
 3.8.5.*Virkning på den toksikologiske profilen av visse egenskaper ved stoffet eller produktet*
 
-1. PartikkelstørrelsePartikkelstørrelsen og dens fordelingskurve kan virke inn på et stoffs giftighet. Når det ikke kan utelukkes at de virker inn på det ferdige produktets sikkerhet, bør de tas med blant produktets fysisk-kjemiske egenskaper og tas i betraktning ved sikkerhetsvurderingen. De siste vitenskapelige uttalelsene om emnet bør følges (SCENIHR, SCCS).1
-2. Urenheter i stoffene og råstoffeneUrenheter kan ha stor virkning på ethvert stoffs samlede giftighet. Det er viktig å kontrollere et stoffs urenhetsprofil for å unngå, eller minst vurdere, eventuelle tilleggsrisikoer ved urenhetene. I fravær av sikkerhetsdata fra toksikologiske undersøkelser, bør grenseverdien for toksikologisk risiko (TTC)2 være et nyttig verktøy for å vurdere visse urenheters sikkerhetNår det brukes toksikologiske undersøkelser til å beskrive et stoffs toksikologiske profil, bør renhets- og urenhetsprofilen til stoffet som brukes i de toksikologiske undersøkelsene, beskrives. Dersom de partiene som faktisk brukes i sammensetningen av det kosmetiske produktet, ikke har en sammenlignbar urenhetsprofil, må forskjellene vurderes.1 Se for eksempel: SCCS (Scientific Committee on Consumer Safety), Guidance on safety assessment of nanomaterials in cosmetics, SCCS/1484/12; SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks), Opinion on the scientific basis for the definition of the term 'nanomaterial', 8 December 2010.2 R. Kroes, A. G. Renwick, V. Feron, C. L. Galli, M. Gibney, H. Greim, R. H. Guy, J. C. Lhuguenot, J. J. M. van de Sandt, Application of the threshold of toxicological concern (TTC) to the safety evaluation of cosmetic ingredients, Food and Chemical Toxicology 45 (2007), s. 2533–2562.
+1. Partikkelstørrelse
+
+   Partikkelstørrelsen og dens fordelingskurve kan virke inn på et stoffs giftighet. Når det ikke kan utelukkes at de virker inn på det ferdige produktets sikkerhet, bør de tas med blant produktets fysisk-kjemiske egenskaper og tas i betraktning ved sikkerhetsvurderingen. De siste vitenskapelige uttalelsene om emnet bør følges (SCENIHR, SCCS).1
+2. Urenheter i stoffene og råstoffene
+
+   Urenheter kan ha stor virkning på ethvert stoffs samlede giftighet. Det er viktig å kontrollere et stoffs urenhetsprofil for å unngå, eller minst vurdere, eventuelle tilleggsrisikoer ved urenhetene. I fravær av sikkerhetsdata fra toksikologiske undersøkelser, bør grenseverdien for toksikologisk risiko (TTC)2 være et nyttig verktøy for å vurdere visse urenheters sikkerhet
+
+   Når det brukes toksikologiske undersøkelser til å beskrive et stoffs toksikologiske profil, bør renhets- og urenhetsprofilen til stoffet som brukes i de toksikologiske undersøkelsene, beskrives. Dersom de partiene som faktisk brukes i sammensetningen av det kosmetiske produktet, ikke har en sammenlignbar urenhetsprofil, må forskjellene vurderes.
+
+   1 Se for eksempel: SCCS (Scientific Committee on Consumer Safety), Guidance on safety assessment of nanomaterials in cosmetics, SCCS/1484/12; SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks), Opinion on the scientific basis for the definition of the term 'nanomaterial', 8 December 2010.
+
+   2 R. Kroes, A. G. Renwick, V. Feron, C. L. Galli, M. Gibney, H. Greim, R. H. Guy, J. C. Lhuguenot, J. J. M. van de Sandt, Application of the threshold of toxicological concern (TTC) to the safety evaluation of cosmetic ingredients, Food and Chemical Toxicology 45 (2007), s. 2533–2562.
 
 3.8.6.*Bruk av sammenligning med stoffer med samme struktur bør være behørig begrunnet og berettiget*
 
@@ -34937,9 +35555,24 @@ Disse opplysningene kan samles inn fra toksikologiske undersøkelser. Dersom det
 
 Andre verktøyer som kvantitative strukturaktivitetsrelasjoner (QSAR) eller ekstrapoleringsmetoder er bare estimeringer av giftighet, og beviskraften bør være begrunnet og berettiget.
 
-Det bør tas hensyn til følgende informasjonskilder:Sikkerhetsinformasjon og kvalitetsdata som kan ligge hos de respektive leverandørene av råstoffene i sammensetningen, og som leverandøren bør dele med framstilleren av det kosmetiske produktet. Dette er en viktig faktor når det gjelder tilgangen til relevante data for å dokumentere sikkerheten til hver kosmetiske bestanddel i sammensetningen av det ferdige produktet.Dersom det foreligger en uttalelse fra SCCS, bør den NOAEL som er brukt i uttalelsen, benyttes. Den sikkerhetssakkyndige bør ta hensyn til den mest ajourførte vitenskapelige uttalelsen.Dersom det foreligger en uttalelse fra en annen autoritativ vitenskapskomité, kan den NOAEL som er brukt i uttalelsen, benyttes, forutsatt at konklusjonene og begrensningene er relevante for den forventede bruken av produktet (den bruken det tas hensyn til i forbindelse med beregningen av sikkerhetsmarginen, kan være en annen). Den sikkerhetssakkyndige bør ta hensyn til den mest ajourførte vitenskapelige uttalelsen.Dersom det ikke foreligger noen vitenskapelig uttalelse, vil det måtte gis opplysninger som beskriver den toksikologiske profilen til hvert enkelt stoff. Dataene kan hentes fra flere databaser eller fra litteraturen (se tillegget).1Klassifisering fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*).2Undersøkelser som er utført eller innhentet av framstilleren av produktet.*In silico*-forutsigelse (QSAR).Ekstrapoleringsmetode.Vurderinger av annen bruk av stoffer enn i kosmetiske produkter (næringsmidler, tilsetningsstoff i næringsmidler, materialer beregnet på å komme i kontakt med næringsmidler, registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH) ... ) kan også brukes for å komplettere opplysningene om stoffets toksikologiske profil.Dersom en slik foreligger, CSR (kjemikaliesikkerhetsrapport) eller sammendrag av pålitelige undersøkelser levert i samsvar med forordning [(EF) nr. 1907/2006](eu/32006r1907*) (REACH).
+Det bør tas hensyn til følgende informasjonskilder:
 
-En rekke stoffer og/eller stoffblandinger er ikke undersøkt i tilstrekkelig grad til å kunne bestemme alle relevante toksikologiske parametrer. For disse manglende parametrene, eller dersom risikobeskrivelsen bygger på en metode som bruker toksikologiske data innhentet for andre stoffer (for eksempel lignende strukturer) eller til annen bruk enn i kosmetiske produkter, næringsmidler, biocider, legemidler osv.), bør begrunnelser gis i rapporten.1 Det finnes flere offentlig tilgjengelige databaser som inneholder toksikologiske data om stoffer som brukes i kosmetiske produkter, og disse er oppført i tillegget til disse retningslinjene.2 EUT L 353 av 31.12.2008, s. 1, og ECHAs registreringsnettsted: [http://apps.echa.europa.eu/registered/registered-sub.aspx](https://apps.echa.europa.eu/registered/registered-sub.aspx).
+1. Sikkerhetsinformasjon og kvalitetsdata som kan ligge hos de respektive leverandørene av råstoffene i sammensetningen, og som leverandøren bør dele med framstilleren av det kosmetiske produktet. Dette er en viktig faktor når det gjelder tilgangen til relevante data for å dokumentere sikkerheten til hver kosmetiske bestanddel i sammensetningen av det ferdige produktet.
+2. Dersom det foreligger en uttalelse fra SCCS, bør den NOAEL som er brukt i uttalelsen, benyttes. Den sikkerhetssakkyndige bør ta hensyn til den mest ajourførte vitenskapelige uttalelsen.
+3. Dersom det foreligger en uttalelse fra en annen autoritativ vitenskapskomité, kan den NOAEL som er brukt i uttalelsen, benyttes, forutsatt at konklusjonene og begrensningene er relevante for den forventede bruken av produktet (den bruken det tas hensyn til i forbindelse med beregningen av sikkerhetsmarginen, kan være en annen). Den sikkerhetssakkyndige bør ta hensyn til den mest ajourførte vitenskapelige uttalelsen.
+4. Dersom det ikke foreligger noen vitenskapelig uttalelse, vil det måtte gis opplysninger som beskriver den toksikologiske profilen til hvert enkelt stoff. Dataene kan hentes fra flere databaser eller fra litteraturen (se tillegget).1
+5. Klassifisering fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*).2
+6. Undersøkelser som er utført eller innhentet av framstilleren av produktet.
+7. *In silico*-forutsigelse (QSAR).
+8. Ekstrapoleringsmetode.
+9. Vurderinger av annen bruk av stoffer enn i kosmetiske produkter (næringsmidler, tilsetningsstoff i næringsmidler, materialer beregnet på å komme i kontakt med næringsmidler, registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH) ... ) kan også brukes for å komplettere opplysningene om stoffets toksikologiske profil.
+10. Dersom en slik foreligger, CSR (kjemikaliesikkerhetsrapport) eller sammendrag av pålitelige undersøkelser levert i samsvar med forordning [(EF) nr. 1907/2006](eu/32006r1907*) (REACH).
+
+En rekke stoffer og/eller stoffblandinger er ikke undersøkt i tilstrekkelig grad til å kunne bestemme alle relevante toksikologiske parametrer. For disse manglende parametrene, eller dersom risikobeskrivelsen bygger på en metode som bruker toksikologiske data innhentet for andre stoffer (for eksempel lignende strukturer) eller til annen bruk enn i kosmetiske produkter, næringsmidler, biocider, legemidler osv.), bør begrunnelser gis i rapporten.
+
+1 Det finnes flere offentlig tilgjengelige databaser som inneholder toksikologiske data om stoffer som brukes i kosmetiske produkter, og disse er oppført i tillegget til disse retningslinjene.
+
+2 EUT L 353 av 31.12.2008, s. 1, og ECHAs registreringsnettsted: [http://apps.echa.europa.eu/registered/registered-sub.aspx](https://apps.echa.europa.eu/registered/registered-sub.aspx).
 
 3.9.*Uønskede virkninger og alvorlige uønskede virkninger*
 
@@ -34959,7 +35592,17 @@ Den ansvarlige personens reaksjon på og håndtering av de meldte alvorlige uøn
 
 Opplysningene om uønskede virkninger skal ajourføres og regelmessig gjøres tilgjengelig for den sikkerhetssakkyndige,5 som kan vurdere det som nødvendig å revidere sikkerhetsvurderingen, foreslå forbedringer i sammensetningen eller bruke opplysningene til å utarbeide en sikkerhetsvurdering for lignende produkter.
 
-Ytterligere data om overvåking av kosmetiske produkter, for eksempel alvorlige uønskede virkninger av utilsiktet bruk, kan også gi nyttige opplysninger som den sikkerhetssakkyndige bør vurdere.1 Dette er en konsekvens av kravet i artikkel 23 i forordning [(EF) nr. 1223/2009](eu/32009r1223), der forpliktelsen for ansvarlige personer om å melde alvorlige uønskede virkninger til vedkommende myndigheter i EUs medlemsstater er fastsatt.2 Artikkel 23 i forordning [(EF) nr. 1223/2009](eu/32009r1223).3 For uønskede virkninger som det er svært sannsynlig eller sannsynlig at kan tilskrives det kosmetiske produktet, får artikkel 21 i forordning [(EF) nr. 1223/2009](eu/32009r1223), «Offentlighetens tilgang til opplysninger», anvendelse.4 European Commission, Serious Undesirable Effects (SUE) Reporting Guidelines, [http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf)5 Dette er en forpliktelse for den ansvarlige personen i samsvar med artikkel 10 nr. 1 bokstav c) i forordning [(EF) nr. 1223/2009](eu/32009r1223).
+Ytterligere data om overvåking av kosmetiske produkter, for eksempel alvorlige uønskede virkninger av utilsiktet bruk, kan også gi nyttige opplysninger som den sikkerhetssakkyndige bør vurdere.
+
+1 Dette er en konsekvens av kravet i artikkel 23 i forordning [(EF) nr. 1223/2009](eu/32009r1223), der forpliktelsen for ansvarlige personer om å melde alvorlige uønskede virkninger til vedkommende myndigheter i EUs medlemsstater er fastsatt.
+
+2 Artikkel 23 i forordning [(EF) nr. 1223/2009](eu/32009r1223).
+
+3 For uønskede virkninger som det er svært sannsynlig eller sannsynlig at kan tilskrives det kosmetiske produktet, får artikkel 21 i forordning [(EF) nr. 1223/2009](eu/32009r1223), «Offentlighetens tilgang til opplysninger», anvendelse.
+
+4 European Commission, Serious Undesirable Effects (SUE) Reporting Guidelines, [http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf)
+
+5 Dette er en forpliktelse for den ansvarlige personen i samsvar med artikkel 10 nr. 1 bokstav c) i forordning [(EF) nr. 1223/2009](eu/32009r1223).
 
 3.10.*Opplysninger om det kosmetiske produktet*
 
@@ -34975,7 +35618,12 @@ DEL B I VEDLEGG I TIL FORORDNING [(EF) NR. 1223/2009](eu/32009r1223) – SIKKERH
 
 Del B i rapporten er den faktiske vurderingen av produktets sikkerhet. I sin begrunnelse skal den sikkerhetssakkyndige ta hensyn til alle farer som er identifisert for produktet og eksponeringen for det.
 
-Del B av sikkerhetsrapporten for det kosmetiske produktet består av:konklusjon på vurderingen,advarsler og bruksanvisninger på etiketten,begrunnelse,den sikkerhetssakkyndiges referanser og vedkommendes endelige godkjenning.
+Del B av sikkerhetsrapporten for det kosmetiske produktet består av:
+
+1. konklusjon på vurderingen,
+2. advarsler og bruksanvisninger på etiketten,
+3. begrunnelse,
+4. den sikkerhetssakkyndiges referanser og vedkommendes endelige godkjenning.
 
 4.1.*Konklusjon på vurderingen*
 
@@ -34995,7 +35643,13 @@ I samsvar med vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223) skal 
 
 Det er den sikkerhetssakkyndiges oppgave å bestemme hvilke advarsler eller bruksanvisninger merkingen skal inneholde for å sikre trygg bruk av produktet, i tillegg til det som er oppført i vedlegg III–VI.
 
-Den sikkerhetssakkyndige skal i hvert enkelt tilfelle beslutte hva som skal stå på etiketten, idet det tas hensyn til de juridiske forpliktelsene som følger av artikkel 19 og vedleggene til forordning [(EF) nr. 1223/2009](eu/32009r1223), og dersom relevant, dokumenter som kommisjonsrekommandasjon [2006/647/EF](eu/32006h0647)1 og andre retningslinjer offentliggjort av Kommisjonen, for eksempel vedrørende merking av «holdbarhet etter åpnet emballasje»2 og merkingen av bestanddeler i henhold til direktiv [76/768/EØF](eu/31976l0768*).3 1 EUT L 265 av 26.9.2006, s. 39.2 Tilgjengelig på [http://ec.europa.eu/consumers/sectors/cosmetics/documents/guidelines/labelling/index_en.htm](https://ec.europa.eu/consumers/sectors/cosmetics/documents/guidelines/labelling/index_en.htm)3 Tilgjengelig på [http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_labelling200802_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_labelling200802_en.pdf)
+Den sikkerhetssakkyndige skal i hvert enkelt tilfelle beslutte hva som skal stå på etiketten, idet det tas hensyn til de juridiske forpliktelsene som følger av artikkel 19 og vedleggene til forordning [(EF) nr. 1223/2009](eu/32009r1223), og dersom relevant, dokumenter som kommisjonsrekommandasjon [2006/647/EF](eu/32006h0647)1 og andre retningslinjer offentliggjort av Kommisjonen, for eksempel vedrørende merking av «holdbarhet etter åpnet emballasje»2 og merkingen av bestanddeler i henhold til direktiv [76/768/EØF](eu/31976l0768*).3
+
+1 EUT L 265 av 26.9.2006, s. 39.
+
+2 Tilgjengelig på [http://ec.europa.eu/consumers/sectors/cosmetics/documents/guidelines/labelling/index_en.htm](https://ec.europa.eu/consumers/sectors/cosmetics/documents/guidelines/labelling/index_en.htm)
+
+3 Tilgjengelig på [http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_labelling200802_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_labelling200802_en.pdf)
 
 4.3.*Begrunnelse*
 
@@ -35017,13 +35671,21 @@ Begrunnelsen bygger på de dataene som er satt sammen i del A av sikkerhetsrappo
 
 4.3.1.*Sikkerhetsvurdering av stoffer og/eller stoffblandinger*
 
-Sikkerhetsvurderingen av stoffer og/eller stoffblandinger består av tre hovedtrinn:farebeskrivelse av stoffene og stoffblandingene,vurdering av lokal og systemisk eksponering (det tas hensyn til absorpsjonsdata),risikovurdering av systemiske virkninger (beregning av sikkerhetsmargin) og risikovurdering av lokale virkninger (for eksempel hudallergi og hudirritasjon).
+Sikkerhetsvurderingen av stoffer og/eller stoffblandinger består av tre hovedtrinn:
+
+1. farebeskrivelse av stoffene og stoffblandingene,
+2. vurdering av lokal og systemisk eksponering (det tas hensyn til absorpsjonsdata),
+3. risikovurdering av systemiske virkninger (beregning av sikkerhetsmargin) og risikovurdering av lokale virkninger (for eksempel hudallergi og hudirritasjon).
 
 Dersom opplysningene om sammensetningen av en duft- aller aromasammensetning er fortrolige, kan framstilleren av denne stoffblandingen framlegge en sikkerhetsvurdering for den ansvarlige personen for det ferdige kosmetiske produktet. Idet det tas hensyn til konsentrasjonen i det ferdige kosmetiske produktet og dets eksponeringsmønster, bør sikkerhetsvurderingen av duft- og aromasammensetningen utarbeides i henhold til de prinsippene som er beskrevet i vedlegg I til forordning [(EF) nr. 1223/2009](eu/32009r1223) og disse retningslinjene. Leverandøren bør for den ansvarlige personen for det ferdige kosmetiske produktet framlegge egnet dokumentasjon på at duft- og aromasammensetningen er trygg.
 
 4.3.2.*Sikkerhetsvurdering av det kosmetiske produktet*
 
-Sikkerhetsvurderingen av det kosmetiske produktet omfatter tre hovedtrinn:oversikt over risikovurderingen basert på lokale og systemisk virkninger av alle de enkelte stoffene eller stoffblandingene,1ytterligere vurdering av sikkerheten til et sammensatt produkt, som ikke kan foretas ved å vurdere stoffene/stoffblandingene enkeltvis. Dette kan for eksempel dreie seg om sammensetningens forenlighet med bruk på huden, vurdering av mulige kombinasjonsvirkninger, for eksempel at én bestanddel kan øke absorpsjonsgraden til en annen bestanddel, mulige virkninger som kan oppstå fra interaksjon med emballasjemateriale, eller mulige virkninger som skyldes kjemiske reaksjoner mellom de enkelte stoffene/stoffblandingene i det sammensatte produktet,2andre faktorer som påvirker sikkerhetsvurderingen, for eksempel stabilitet, mikrobiologisk kvalitet, emballasje og merking, herunder bruksanvisninger og forholdsregler for bruk.
+Sikkerhetsvurderingen av det kosmetiske produktet omfatter tre hovedtrinn:
+
+1. oversikt over risikovurderingen basert på lokale og systemisk virkninger av alle de enkelte stoffene eller stoffblandingene,1
+2. ytterligere vurdering av sikkerheten til et sammensatt produkt, som ikke kan foretas ved å vurdere stoffene/stoffblandingene enkeltvis. Dette kan for eksempel dreie seg om sammensetningens forenlighet med bruk på huden, vurdering av mulige kombinasjonsvirkninger, for eksempel at én bestanddel kan øke absorpsjonsgraden til en annen bestanddel, mulige virkninger som kan oppstå fra interaksjon med emballasjemateriale, eller mulige virkninger som skyldes kjemiske reaksjoner mellom de enkelte stoffene/stoffblandingene i det sammensatte produktet,2
+3. andre faktorer som påvirker sikkerhetsvurderingen, for eksempel stabilitet, mikrobiologisk kvalitet, emballasje og merking, herunder bruksanvisninger og forholdsregler for bruk.
 
 Den spesifikke vurderingen av kosmetiske produkter beregnet på barn under tre år, som kreves i henhold til forordning [(EF) nr. 1223/2009](eu/32009r1223), bør ta hensyn til de særlige anbefalingene i SCCS Notes of Guidance.3
 
@@ -35035,9 +35697,22 @@ For å sikre at sikkerhetsrapporten for det kosmetiske produktet ajourføres i s
 
 Når de lovfestede kravene endres (for eksempel begrensninger for et stoff som inngår i sammensetningen), bør det blant annet (for eksempel med hensyn til merking) kontrolleres hvorvidt sammensetningen fortsatt er i samsvar med loven, og sikkerhetsvurderingen bør gjennomgås på nytt og om nødvendig ajourføres.
 
-Sikkerhetsvurderingen bør også gjennomgås på nytt og om nødvendig ajourføres i ett eller flere av følgende tilfeller:det foreligger nye vitenskapelige konklusjoner og toksikologiske data om stoffer, som kan endre resultatet av den eksisterende sikkerhetsvurderingen,det oppstår endringer i sammensetningen av eller spesifikasjonene for råstoffer,det oppstår endringer i bruksvilkårene,det er en stigende tendens når det gjelder uønskede virkningers art, alvorlighetsgrad og hyppighet, både når produktet brukes under normale forhold og når det brukes feil.4
+Sikkerhetsvurderingen bør også gjennomgås på nytt og om nødvendig ajourføres i ett eller flere av følgende tilfeller:
 
-Det bør utarbeides strukturer og prosesser for å sikre at de opplysningene som er relevante for ajourføringen av sikkerhetsrapporten for det kosmetiske produktet, utveksles i tilstrekkelig grad mellom den ansvarlige personen og den sikkerhetssakkyndige, og at den sikkerhetssakkyndige er i stand til å gripe inn dersom en ajourføring er nødvendig.1 For produkter på samme område, der den eneste forskjellen mellom forskjellige produkter er fargestoffet, og dette ikke påvirker sikkerheten, for eksempel for leppestift eller annen sminke, kan en kombinert sikkerhetsrapport for produktet vurderes, men den må begrunnes.2 SCCS, SCHER, SCENIHR, Toxicity and Assessment of Chemical Mixtures, 2012 [http://ec.europa.eu/health/scientific_committees/environmental_risks/docs/scher_o_155.pdf](https://ec.europa.eu/health/scientific_committees/environmental_risks/docs/scher_o_155.pdf)3 SCCS Notes of Guidance, nr. 3-7.3, s. 51.4 European Commission, Serious Undesirable Effects (SUE) Reporting Guidelines, [http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf)
+1. det foreligger nye vitenskapelige konklusjoner og toksikologiske data om stoffer, som kan endre resultatet av den eksisterende sikkerhetsvurderingen,
+2. det oppstår endringer i sammensetningen av eller spesifikasjonene for råstoffer,
+3. det oppstår endringer i bruksvilkårene,
+4. det er en stigende tendens når det gjelder uønskede virkningers art, alvorlighetsgrad og hyppighet, både når produktet brukes under normale forhold og når det brukes feil.4
+
+Det bør utarbeides strukturer og prosesser for å sikre at de opplysningene som er relevante for ajourføringen av sikkerhetsrapporten for det kosmetiske produktet, utveksles i tilstrekkelig grad mellom den ansvarlige personen og den sikkerhetssakkyndige, og at den sikkerhetssakkyndige er i stand til å gripe inn dersom en ajourføring er nødvendig.
+
+1 For produkter på samme område, der den eneste forskjellen mellom forskjellige produkter er fargestoffet, og dette ikke påvirker sikkerheten, for eksempel for leppestift eller annen sminke, kan en kombinert sikkerhetsrapport for produktet vurderes, men den må begrunnes.
+
+2 SCCS, SCHER, SCENIHR, Toxicity and Assessment of Chemical Mixtures, 2012 [http://ec.europa.eu/health/scientific_committees/environmental_risks/docs/scher_o_155.pdf](https://ec.europa.eu/health/scientific_committees/environmental_risks/docs/scher_o_155.pdf)
+
+3 SCCS Notes of Guidance, nr. 3-7.3, s. 51.
+
+4 European Commission, Serious Undesirable Effects (SUE) Reporting Guidelines, [http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf](https://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf)
 
 4.4.*Sakkyndiges referanser og godkjenning av del B*
 

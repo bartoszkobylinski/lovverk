@@ -15,7 +15,7 @@ xml_hash: "fe10634b0b2697250c84d11cd50f1aefcd88cd502be2fd429aebc171a4bd5e6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,21 @@ eu_basis: []
 
 ### § 1. Formål
 
-Forskriften regulerer fastsettingen av vederlaget (avgiften) for tjenester som ytes av Avinor AS (Avinor) på selskapets avgiftspliktige lufthavner. Formålet er:å ivareta hensynet til brukerne av selskapets lufthavnerå fremme effektiv, samfunnsøkonomisk og lønnsom drift av lufthavneneå bidra til at investeringer i anlegg foretas i riktig omfang og til riktig tid for å ivareta brukernes forventede behovå sikre at brukerne får tilstrekkelig informasjon om hvilke prinsipper avgiftsfastsettingen bygger på, ogå sikre offentlig tilsyn med at Avinor etterlever sine forpliktelser etter forskriften.
+Forskriften regulerer fastsettingen av vederlaget (avgiften) for tjenester som ytes av Avinor AS (Avinor) på selskapets avgiftspliktige lufthavner. Formålet er:
+
+1. å ivareta hensynet til brukerne av selskapets lufthavner
+2. å fremme effektiv, samfunnsøkonomisk og lønnsom drift av lufthavnene
+3. å bidra til at investeringer i anlegg foretas i riktig omfang og til riktig tid for å ivareta brukernes forventede behov
+4. å sikre at brukerne får tilstrekkelig informasjon om hvilke prinsipper avgiftsfastsettingen bygger på, og
+5. å sikre offentlig tilsyn med at Avinor etterlever sine forpliktelser etter forskriften.
 
 ### § 2. Virkeområde
 
-Forskriften gjelder for avgifter som innkreves som vederlag for lufthavntjenester. Den gjelder ikke:for avgifter som omfattes av [forskrift 19. desember 2014 nr. 1847](forskrift/2014-12-19-1847) om avgifter på flysikringstjenester,for vederlag som kreves inn for tjenester som omfattes av [forskrift 3. november 2000 nr. 1096](forskrift/2000-11-03-1096) om lufthavnrelaterte tjenester,for vederlag som kreves for tjenester som ytes til personer med redusert mobilitet som nevnt i [forskrift 16. juli 2013 nr. 919](forskrift/2013-07-16-919) om universell utforming av lufthavner, og om funksjonshemmedes og bevegelseshemmedes rettigheter ved lufttransport.
+Forskriften gjelder for avgifter som innkreves som vederlag for lufthavntjenester. Den gjelder ikke:
+
+1. for avgifter som omfattes av [forskrift 19. desember 2014 nr. 1847](forskrift/2014-12-19-1847) om avgifter på flysikringstjenester,
+2. for vederlag som kreves inn for tjenester som omfattes av [forskrift 3. november 2000 nr. 1096](forskrift/2000-11-03-1096) om lufthavnrelaterte tjenester,
+3. for vederlag som kreves for tjenester som ytes til personer med redusert mobilitet som nevnt i [forskrift 16. juli 2013 nr. 919](forskrift/2013-07-16-919) om universell utforming av lufthavner, og om funksjonshemmedes og bevegelseshemmedes rettigheter ved lufttransport.
 
 Som lufthavntjenester regnes ikke tjenester der vederlaget blir fastsatt i avtale, jf. [§ 39](forskrift/2019-12-20-2137/§39).
 
@@ -38,13 +48,30 @@ Forskriften gjelder for tjenester som ytes på alle Avinors lufthavner, inkluder
 
 ### § 3. Generelle unntak fra avgiftsplikten
 
-Det betales ikke noen form for avgift etter denne forskriften for:flygninger utført utelukkende i forbindelse med offisielle reiser foretatt av regjerende monarker og deres familie, statsoverhoder, regjeringssjefer og ministere. Flygningens karakter av offisiell reise må fremgå av fartøyets reiseplan.flygninger utført i forbindelse med kalibrering.flygninger foretatt som ledd i ettersøknings- eller redningstjeneste (SAR).flygninger utført med glide- eller seilfly, men ikke dersom denne typen fly har motor kan brukes til take-off.militær trafikk på Andøya lufthavn og Bardufoss lufthavn.militære flygninger som utføres med utenlandsk fartøy.
+Det betales ikke noen form for avgift etter denne forskriften for:
+
+1. flygninger utført utelukkende i forbindelse med offisielle reiser foretatt av regjerende monarker og deres familie, statsoverhoder, regjeringssjefer og ministere. Flygningens karakter av offisiell reise må fremgå av fartøyets reiseplan.
+2. flygninger utført i forbindelse med kalibrering.
+3. flygninger foretatt som ledd i ettersøknings- eller redningstjeneste (SAR).
+4. flygninger utført med glide- eller seilfly, men ikke dersom denne typen fly har motor kan brukes til take-off.
+5. militær trafikk på Andøya lufthavn og Bardufoss lufthavn.
+6. militære flygninger som utføres med utenlandsk fartøy.
 
 Bestemmelsene om avgiftsfritak, rabatter og incentivordninger andre steder i forskriften gjelder i tillegg til unntakene etter denne paragrafen.
 
 ### § 4. Definisjoner
 
-I denne forskriften menes med*Avinor:* Avinor AS og datterselskaper av Avinor AS.*DTS:* Daily Traffic Survey – er et filformat definert av Avinor for rapportering av daglige flybevegelser og annen informasjon som er nødvendig for beregning av avgifter og utarbeidelse av statistikk.*Høyeste tillatte startvekt:* Den maksimale startvekten et luftfartøy kan ha ifølge nasjonalt luftfartøyregister, fly håndbok, luftdyktighetsbevis eller annen tilsvarende offisiell dokumentasjon. I tilfeller hvor et luftfartøy er sertifisert for flere maksimale startvekter, skal den høyeste av disse vektene benyttes som grunnlag for beregning av startavgift. Dersom nødvendig dokumentasjon ikke fremlegges av operatøren av luftfartøy, skal vekten av det tyngste kjente luftfartøy av samme type benyttes.*Kontinentalsokkelflygning:* flygning fra Avinors lufthavner til installasjoner på den norske kontinentalsokkelen.*Regelbundet trafikk:* En serie flygninger som gjennomføres mot vederlag med luftfartøy beregnet på transport av passasjerer på individuell basis i henhold til offentliggjort tidtabell. Seriemessige charterflygninger omfattes også.*Transferpassasjer:* Passasjer som bytter fra et rutenummer til et annet underveis på en sammenhengende flyreise. Det har ingen betydning om reisen start og slutt er innenlands eller utenlands.*Transittpassasjer:* Passasjer som reiser med samme rutenummer inn og ut av lufthavnen. Det har ingen betydning om reisen start og slutt er innenlands eller utenlands.*Avgiftspliktige:* Sivile og militære operatører av luftfartøy som har plikt til å betale avgift etter [§ 16](forskrift/2019-12-20-2137/§16).*Militær trafikk:* Flygninger gjennomført av luftfartøy med militære kjennetegn eller som militær flyvnings art.
+I denne forskriften menes med
+
+1. *Avinor:* Avinor AS og datterselskaper av Avinor AS.
+2. *DTS:* Daily Traffic Survey – er et filformat definert av Avinor for rapportering av daglige flybevegelser og annen informasjon som er nødvendig for beregning av avgifter og utarbeidelse av statistikk.
+3. *Høyeste tillatte startvekt:* Den maksimale startvekten et luftfartøy kan ha ifølge nasjonalt luftfartøyregister, fly håndbok, luftdyktighetsbevis eller annen tilsvarende offisiell dokumentasjon. I tilfeller hvor et luftfartøy er sertifisert for flere maksimale startvekter, skal den høyeste av disse vektene benyttes som grunnlag for beregning av startavgift. Dersom nødvendig dokumentasjon ikke fremlegges av operatøren av luftfartøy, skal vekten av det tyngste kjente luftfartøy av samme type benyttes.
+4. *Kontinentalsokkelflygning:* flygning fra Avinors lufthavner til installasjoner på den norske kontinentalsokkelen.
+5. *Regelbundet trafikk:* En serie flygninger som gjennomføres mot vederlag med luftfartøy beregnet på transport av passasjerer på individuell basis i henhold til offentliggjort tidtabell. Seriemessige charterflygninger omfattes også.
+6. *Transferpassasjer:* Passasjer som bytter fra et rutenummer til et annet underveis på en sammenhengende flyreise. Det har ingen betydning om reisen start og slutt er innenlands eller utenlands.
+7. *Transittpassasjer:* Passasjer som reiser med samme rutenummer inn og ut av lufthavnen. Det har ingen betydning om reisen start og slutt er innenlands eller utenlands.
+8. *Avgiftspliktige:* Sivile og militære operatører av luftfartøy som har plikt til å betale avgift etter [§ 16](forskrift/2019-12-20-2137/§16).
+9. *Militær trafikk:* Flygninger gjennomført av luftfartøy med militære kjennetegn eller som militær flyvnings art.
 
 ### § 5. Tilsyn med forskriften
 
@@ -58,7 +85,13 @@ Avinor foreslår hva avgiftene skal være på selskapets egne lufthavner, i trå
 
 ### § 7. Prosess og frister
 
-Avgiftene fastsettes for hvert kalenderår. Følgende prosess følges for fastsettelse av avgiftene i året før det aktuelle kalenderåret:I perioden fra 1. januar til 31. mai skal Avinor forberede prosessen i nr. 2 til 5 ved å bruke konsultasjonsordningen etter [§ 8](forskrift/2019-12-20-2137/§8) til å informere om trafikktall- og prognose, investeringer og endringer i rammebetingelser.Senest 1. juni skal Avinor legge frem sitt forslag til avgifter for det kommende året.Fra forslaget etter nr. 2 er lagt frem, og frem til 15. august, bruker Avinor konsultasjonsordningen etter [§ 8](forskrift/2019-12-20-2137/§8) til å forklare og diskutere forslaget.Senest 1. september legger Avinor frem sitt endelige forslag til avgifter for det kommende året. Samtidig sendes beslutningen til Luftfartstilsynet for endelig godkjenning etter reglene i [§ 10](forskrift/2019-12-20-2137/§10).Senest 1. november skal avgiftene være endelig godkjent og publisert av Luftfartstilsynet.
+Avgiftene fastsettes for hvert kalenderår. Følgende prosess følges for fastsettelse av avgiftene i året før det aktuelle kalenderåret:
+
+1. I perioden fra 1. januar til 31. mai skal Avinor forberede prosessen i nr. 2 til 5 ved å bruke konsultasjonsordningen etter [§ 8](forskrift/2019-12-20-2137/§8) til å informere om trafikktall- og prognose, investeringer og endringer i rammebetingelser.
+2. Senest 1. juni skal Avinor legge frem sitt forslag til avgifter for det kommende året.
+3. Fra forslaget etter nr. 2 er lagt frem, og frem til 15. august, bruker Avinor konsultasjonsordningen etter [§ 8](forskrift/2019-12-20-2137/§8) til å forklare og diskutere forslaget.
+4. Senest 1. september legger Avinor frem sitt endelige forslag til avgifter for det kommende året. Samtidig sendes beslutningen til Luftfartstilsynet for endelig godkjenning etter reglene i [§ 10](forskrift/2019-12-20-2137/§10).
+5. Senest 1. november skal avgiftene være endelig godkjent og publisert av Luftfartstilsynet.
 
 Samferdselsdepartementet kan samtykke til en annen ordning eller andre frister enn de som fremgår av første ledd dersom særlige hensyn gjør seg gjeldene. I tillegg kan departementet bestemme at avgiftene skal fastsettes for to eller flere år i en og samme prosess.
 
@@ -70,9 +103,23 @@ Avinor skal bestrebe seg på å oppnå enighet med de avgiftspliktige om fastset
 
 ### § 9. Tilgang til informasjon
 
-Forut for konsultasjon som nevnt i [§ 8](forskrift/2019-12-20-2137/§8) plikter Avinor å gi de avgiftspliktige, eller organisasjoner som representerer disse, tilgang til informasjon om grunnlaget for avgiftene, en forklaring av avgiftssystemet slik det fremgår av [kapittel 4](forskrift/2019-12-20-2137/kap4) til 7 og den måten avgiftene er foreslått fastsatt i tråd med disse rammene. Så langt det er hensiktsmessig skal det gis separate opplysninger for hver av lufthavnene i selskapets nettverk. Informasjonen skal omfatte følgende forhold:en liste over de tjenestene og den infrastrukturen som avgiftene skal finansiere,en redegjørelse for hvordan avgiftene er fastsatt i overensstemmelse med bestemmelsene i [kapittel 4](forskrift/2019-12-20-2137/kap4) til 7, og eventuelle utfyllende prinsipper Avinor selv legger til grunn,den generelle kostnadsstrukturen for de tjenestene og anleggene avgiftene knytter seg til,det samlede provenyet for de ulike avgiftene og den samlede kostnaden forbundet med de tjenestene avgiftene finansierer,ethvert tilskudd fra offentlige myndigheter som benyttes til å (del)finansiere de tjenestene eller de anleggene avgiftene knytter seg til,prognoser for avgifts- og trafikkutvikling, samt foreslåtte investeringer,den faktiske bruken av Avinors infrastruktur og utstyr innenfor et gitt tidsrom, ogden antatte betydningen vesentlige investeringer som er foreslått vil ha for den aktuelle lufthavnens kapasitet.
+Forut for konsultasjon som nevnt i [§ 8](forskrift/2019-12-20-2137/§8) plikter Avinor å gi de avgiftspliktige, eller organisasjoner som representerer disse, tilgang til informasjon om grunnlaget for avgiftene, en forklaring av avgiftssystemet slik det fremgår av [kapittel 4](forskrift/2019-12-20-2137/kap4) til 7 og den måten avgiftene er foreslått fastsatt i tråd med disse rammene. Så langt det er hensiktsmessig skal det gis separate opplysninger for hver av lufthavnene i selskapets nettverk. Informasjonen skal omfatte følgende forhold:
 
-Forut for konsultasjon som nevnt i [§ 8](forskrift/2019-12-20-2137/§8) skal de avgiftspliktige, eller organisasjoner som representerer disse, gi informasjon til Avinor om følgende forhold:Trafikkprognoser.Prognoser for sammensetningen og bruken av de avgiftspliktiges fartøysflåte.Deres utviklingsprosjekter på de aktuelle lufthavnene.Deres behov på de aktuelle lufthavnene.
+1. en liste over de tjenestene og den infrastrukturen som avgiftene skal finansiere,
+2. en redegjørelse for hvordan avgiftene er fastsatt i overensstemmelse med bestemmelsene i [kapittel 4](forskrift/2019-12-20-2137/kap4) til 7, og eventuelle utfyllende prinsipper Avinor selv legger til grunn,
+3. den generelle kostnadsstrukturen for de tjenestene og anleggene avgiftene knytter seg til,
+4. det samlede provenyet for de ulike avgiftene og den samlede kostnaden forbundet med de tjenestene avgiftene finansierer,
+5. ethvert tilskudd fra offentlige myndigheter som benyttes til å (del)finansiere de tjenestene eller de anleggene avgiftene knytter seg til,
+6. prognoser for avgifts- og trafikkutvikling, samt foreslåtte investeringer,
+7. den faktiske bruken av Avinors infrastruktur og utstyr innenfor et gitt tidsrom, og
+8. den antatte betydningen vesentlige investeringer som er foreslått vil ha for den aktuelle lufthavnens kapasitet.
+
+Forut for konsultasjon som nevnt i [§ 8](forskrift/2019-12-20-2137/§8) skal de avgiftspliktige, eller organisasjoner som representerer disse, gi informasjon til Avinor om følgende forhold:
+
+1. Trafikkprognoser.
+2. Prognoser for sammensetningen og bruken av de avgiftspliktiges fartøysflåte.
+3. Deres utviklingsprosjekter på de aktuelle lufthavnene.
+4. Deres behov på de aktuelle lufthavnene.
 
 Opplysninger omfattet av denne paragrafen skal behandles som konfidensielle eller økonomisk sensitive. Partene undertegner en fortrolighetserklæring før informasjonen utveksles, med mindre de er enige om å unnlate det. Begrensninger som følger av kapittel 3 i [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel (verdipapirhandelloven) skal respekteres. Ved tvil tar Samferdselsdepartementet stilling til hvordan bestemte opplysninger skal behandles.
 
@@ -80,7 +127,12 @@ Opplysninger omfattet av denne paragrafen skal behandles som konfidensielle elle
 
 Ved den endelige godkjenningen av avgiftene skal Luftfartstilsynet påse at bestemmelsene i forskriften, og utfyllende rammevedtak, etterleves. Tilsynet kan benytte seg av hjelpere, men disse kan ikke fatte vedtak. Hjelpere har i så fall samme tilgang til opplysninger på samme måte som Luftfartstilsynet, jf. [luftfartsloven § 7-26](lov/1993-06-11-101/§7-26) tredje ledd.
 
-Avinor plikter å gi Luftfartstilsynet alle de opplysningene det trenger for å utføre sin kontrolloppgave, jf. [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart § 13a-1. Opplysningene skal minst omfatte:de avgiftene Avinor selv har foreslått,alle opplysninger Avinor og de avgiftspliktige har gitt hverandre tilgang til etter reglene i [§ 9](forskrift/2019-12-20-2137/§9),dokumentasjon for at konsultasjonskravene i [§ 7](forskrift/2019-12-20-2137/§7) nr. 1 til 3 er etterlevd, ogeventuell korrespondanse Avinor har hatt med andre parter og som har hatt betydning for selskapets avgiftsfastsettelse.
+Avinor plikter å gi Luftfartstilsynet alle de opplysningene det trenger for å utføre sin kontrolloppgave, jf. [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart § 13a-1. Opplysningene skal minst omfatte:
+
+1. de avgiftene Avinor selv har foreslått,
+2. alle opplysninger Avinor og de avgiftspliktige har gitt hverandre tilgang til etter reglene i [§ 9](forskrift/2019-12-20-2137/§9),
+3. dokumentasjon for at konsultasjonskravene i [§ 7](forskrift/2019-12-20-2137/§7) nr. 1 til 3 er etterlevd, og
+4. eventuell korrespondanse Avinor har hatt med andre parter og som har hatt betydning for selskapets avgiftsfastsettelse.
 
 Dersom Luftfartstilsynet etter sin innledende vurdering kommer til at Avinor har fastsatt avgiftene i tråd med forskriftens og rammevedtakenes krav, og brukerne av lufthavnene ikke har hatt innvendinger, godkjenner det avgiftene. I motsatt fall, innleder Luftfartstilsynet dialog med Avinor og de avgiftspliktige for å komme frem til en løsning som i størst mulig grad ivaretar partenes synspunkter innenfor forskriftens og rammevedtakenes ramme. Dersom det ikke er mulig å oppnå enighet fastsetter Luftfartstilsynet avgiftene etter beste skjønn. Vedtaket skal begrunnes.
 
@@ -130,7 +182,12 @@ Dersom Avinor og Forsvaret ikke blir enige om hvilke tjenester som er standardyt
 
 ### § 15. Avgiftstypene
 
-Følgende avgifter benyttes på Avinors lufthavner:PassasjeravgiftStartavgiftSikkerhetsavgiftAvisingsavgift.
+Følgende avgifter benyttes på Avinors lufthavner:
+
+1. Passasjeravgift
+2. Startavgift
+3. Sikkerhetsavgift
+4. Avisingsavgift.
 
 Avinor kan også fastsette varianter av avgiftene nevnt i første ledd så lenge disse ikke strider mot noen av bestemmelsene i forskriften.
 
@@ -158,7 +215,17 @@ Departementet bestemmer i rammevedtak etter [§ 17](forskrift/2019-12-20-2137/§
 
 ### § 19. Hva det betales passasjeravgift for
 
-Det betales passasjeravgift for alle avreisende passasjerer med følgende presiseringer og unntak (avgiftspliktige passasjerer):Alle passasjerer som reiser med luftfartøy som har en høyeste tillatt startvekt som overstiger 8 000 kg.For passasjerer som reiser med regelbundet trafikk uansett vekten på luftfartøyet. Dette gjelder også for passasjerer som reiser med militær trafikk, uansett vekten på luftfartøyet, dersom de bruker den sivile terminalen på vedkommende lufthavn.Transferpassasjerer omfattes.Transittpassasjerer omfattes ikke.Passasjerer som ikke betaler vederlag til transportøren omfattes.Ansatte hos avgiftspliktige som i tjenesteøyemed reiser med avgiftspliktiges egne luftfartøy omfattes ikke. Det betales heller ikke avgift for soldater og befal i militær trafikk som har en tjenestemessig oppgave ved utførelsen av flygningen.Det betales ikke avgift for passasjerer som reiser med luftfartøy som på grunn av værhindringer returnerer til samme lufthavn som det avgikk fra, når det ikke er foretatt mellomlanding på annen lufthavn.Passasjerer under 2 år omfattes ikke.Det betales ikke passasjeravgift på kontinentalsokkelflygninger fra de av Avinors lufthavner der det er egen helikopterterminal. Avinor plikter å publisere en liste over hvilke lufthavner dette er til enhver tid. For andre kontinentalsokkelflygninger betales det vanlig passasjeravgift.
+Det betales passasjeravgift for alle avreisende passasjerer med følgende presiseringer og unntak (avgiftspliktige passasjerer):
+
+1. Alle passasjerer som reiser med luftfartøy som har en høyeste tillatt startvekt som overstiger 8 000 kg.
+2. For passasjerer som reiser med regelbundet trafikk uansett vekten på luftfartøyet. Dette gjelder også for passasjerer som reiser med militær trafikk, uansett vekten på luftfartøyet, dersom de bruker den sivile terminalen på vedkommende lufthavn.
+3. Transferpassasjerer omfattes.
+4. Transittpassasjerer omfattes ikke.
+5. Passasjerer som ikke betaler vederlag til transportøren omfattes.
+6. Ansatte hos avgiftspliktige som i tjenesteøyemed reiser med avgiftspliktiges egne luftfartøy omfattes ikke. Det betales heller ikke avgift for soldater og befal i militær trafikk som har en tjenestemessig oppgave ved utførelsen av flygningen.
+7. Det betales ikke avgift for passasjerer som reiser med luftfartøy som på grunn av værhindringer returnerer til samme lufthavn som det avgikk fra, når det ikke er foretatt mellomlanding på annen lufthavn.
+8. Passasjerer under 2 år omfattes ikke.
+9. Det betales ikke passasjeravgift på kontinentalsokkelflygninger fra de av Avinors lufthavner der det er egen helikopterterminal. Avinor plikter å publisere en liste over hvilke lufthavner dette er til enhver tid. For andre kontinentalsokkelflygninger betales det vanlig passasjeravgift.
 
 ### § 20. Beregning av passasjeravgiften
 
@@ -176,7 +243,13 @@ Avgift svares ikke for fartøy som på grunn av feil eller værhindringer return
 
 ### § 23. Beregning av startavgift for luftfartøy over 8 000 kg
 
-Startavgiften for luftfartøy med høyeste tillatte startvekt over 8 000 kg beregnes slik med unntak av fraktflygninger som er omfattet av annet ledd:Det betales full avgift for hver påbegynte 1 000 kg for flyvekt mellom 6 000 og 75 000 kgDet betales 50 prosent av full avgift for hver påbegynt 1 000 kg for flyvekt mellom 75 001 og 150 000 kgDet betales 20 prosent av full avgift for hver påbegynt 1 000 kg for flyvekt over 150 001 kg.Med «flyvekt» menes høyeste tillatte startvekt.
+Startavgiften for luftfartøy med høyeste tillatte startvekt over 8 000 kg beregnes slik med unntak av fraktflygninger som er omfattet av annet ledd:
+
+1. Det betales full avgift for hver påbegynte 1 000 kg for flyvekt mellom 6 000 og 75 000 kg
+2. Det betales 50 prosent av full avgift for hver påbegynt 1 000 kg for flyvekt mellom 75 001 og 150 000 kg
+3. Det betales 20 prosent av full avgift for hver påbegynt 1 000 kg for flyvekt over 150 001 kg.
+
+Med «flyvekt» menes høyeste tillatte startvekt.
 
 For rene fraktflygninger kan Avinor bestemme at det skal betales en høyere startavgift som ikke er subsidiert i tråd med hovedregelen i [§ 14 tredje ledd](forskrift/2019-12-20-2137/§14/ledd/3). Denne avgiften skal likevel ikke være høyere enn at den dekker den nettokostnaden som er knyttet til å yte disse tjenestene når kommersielle inntekter knyttet til de samme tjenestene er trukket fra. Beregningen av startavgiften for den enkelte fraktflygning skjer i tråd med fordelingsprinsippene i første ledd bokstav a til c.
 
@@ -221,7 +294,10 @@ Ved «touch-and-go»-flygninger betales kun én startavgift for hver gjennomfør
 
 ### § 28. Støytillegg ved Bodø lufthavn
 
-For flygninger med start fra Bodø lufthavn betales det følgende tillegg til den startavgiften som betales i medhold av bestemmelsene ovenfor:For ikke-støysertifiserte jetdrevne luftfartøy betales et beløp tilsvarende 60 ganger full avgift som nevnt i [§ 23](forskrift/2019-12-20-2137/§23) bokstav a.For jetdrevne luftfartøy sertifisert etter ICAO-konvensjonen vedlegg 16 [kapittel 2](forskrift/2019-12-20-2137/kap2) betales et beløp tilsvarende 30 ganger full avgift som nevnt i [§ 23](forskrift/2019-12-20-2137/§23) bokstav a.
+For flygninger med start fra Bodø lufthavn betales det følgende tillegg til den startavgiften som betales i medhold av bestemmelsene ovenfor:
+
+1. For ikke-støysertifiserte jetdrevne luftfartøy betales et beløp tilsvarende 60 ganger full avgift som nevnt i [§ 23](forskrift/2019-12-20-2137/§23) bokstav a.
+2. For jetdrevne luftfartøy sertifisert etter ICAO-konvensjonen vedlegg 16 [kapittel 2](forskrift/2019-12-20-2137/kap2) betales et beløp tilsvarende 30 ganger full avgift som nevnt i [§ 23](forskrift/2019-12-20-2137/§23) bokstav a.
 
 Tillegget økes med 50 prosent for trafikk mellom kl. 20.00 og 08.00.
 
@@ -330,7 +406,10 @@ Når Avinor inngår avtaler om å yte andre typer tjenester enn de som finansier
 
 Avinor kan gi rabatter i avgiftene som er fastsatt i henhold til reglene i denne forskriften dersom selskapet anser det godtgjort at avgiftsreduksjonen vil øke den samlede inntekten og stimulere til bedre utnyttelse av luftfartøyene og luftfartsanleggenes kapasitet. Slik rabatt kan ikke gis i sikkerhetsavgiften etter [kapittel 6](forskrift/2019-12-20-2137/kap6).
 
-Avinor kan uavhengig av vilkårene i første ledd gi reduksjon i, eller fritak fra, de avgiftene som er fastsatt i medhold av forskriften dersomdet foreligger særlige grunner, ogflygningen(e) gjelder humanitær transport, flystevner, syketransport, eller liknende aktiviteter av ikke-kommersiell karakter.
+Avinor kan uavhengig av vilkårene i første ledd gi reduksjon i, eller fritak fra, de avgiftene som er fastsatt i medhold av forskriften dersom
+
+1. det foreligger særlige grunner, og
+2. flygningen(e) gjelder humanitær transport, flystevner, syketransport, eller liknende aktiviteter av ikke-kommersiell karakter.
 
 Retten til å gi eller opprettholde rabatter eller avgiftsfritak etter første og annet ledd er betinget av at de er tillatt etter EØS-avtalens regler om offentlig støtte.
 
@@ -364,7 +443,15 @@ Ved beregning av avgiften avrundes beløpet til nærmeste hele krone.
 
 ### § 43. Fellesregler om rapportering av opplysninger
 
-Følgende gjelder som generelle tillegg, presiseringer eller unntak fra bestemmelsene i [§ 41](forskrift/2019-12-20-2137/§41)–§ 42:Avinor bestemmer når opplysningene skal gis, og når de må være mottatt av Avinor.Elektronisk rapportformat skal være i form av IATA-meldinger, DTS-format eller andre formater som Avinor til enhver tid tilbyr. For selskap med lite trafikkvolum kan Avinor dispensere fra krav om å rapportere elektronisk.Flyoperatøren plikter å forholde seg til de deklarasjonsskjemaene og tillempingsbestemmelsene som Avinor utarbeider.Endringer i dataformat formidles senest 30 dager før neste leveringsfrist.Endring av leveringstidspunkt og hyppighet formidles senest 60 dager før ikrafttredelse.Trafikkinformasjon kan sendes som IATA-meldinger til Avinors trafikkinformasjonssystem i henhold til de krav og betingelser som fremgår av vedlegget til forskriften.Dersom mottatte IATA-meldingene ikke kan tolkes av Avinors trafikkinformasjonssystem, vil Avinor sende feilmelding til en på forhånd avtalt SITA eller e-postadresse. Flyoperatøren må snarest sende korrekte data etter mottatt feilmelding.
+Følgende gjelder som generelle tillegg, presiseringer eller unntak fra bestemmelsene i [§ 41](forskrift/2019-12-20-2137/§41)–§ 42:
+
+1. Avinor bestemmer når opplysningene skal gis, og når de må være mottatt av Avinor.
+2. Elektronisk rapportformat skal være i form av IATA-meldinger, DTS-format eller andre formater som Avinor til enhver tid tilbyr. For selskap med lite trafikkvolum kan Avinor dispensere fra krav om å rapportere elektronisk.
+3. Flyoperatøren plikter å forholde seg til de deklarasjonsskjemaene og tillempingsbestemmelsene som Avinor utarbeider.
+4. Endringer i dataformat formidles senest 30 dager før neste leveringsfrist.
+5. Endring av leveringstidspunkt og hyppighet formidles senest 60 dager før ikrafttredelse.
+6. Trafikkinformasjon kan sendes som IATA-meldinger til Avinors trafikkinformasjonssystem i henhold til de krav og betingelser som fremgår av vedlegget til forskriften.
+7. Dersom mottatte IATA-meldingene ikke kan tolkes av Avinors trafikkinformasjonssystem, vil Avinor sende feilmelding til en på forhånd avtalt SITA eller e-postadresse. Flyoperatøren må snarest sende korrekte data etter mottatt feilmelding.
 
 Uoverensstemmelser mellom en flyoperatør og denne operatørens handlingagent, om manglende rapportering og overholdelse av frister, er en sak mellom disse partene, og påvirker ikke flyoperatørens forpliktelser som debitor overfor Avinor.
 
@@ -466,7 +553,13 @@ Med virkning fra 1. mars 2020 skal [§ 23](forskrift/2019-12-20-2137/§23) bokst
 
 *IATA-meldinger*
 
-Grunnregler for bruk av IATA-meldinger:Alle planlagte flighter skal meldes inn til Avinor vha. SSIM-fil eller SSM/ASM-format.Alle oppdaterte flight-tider skal meldes inn til Avinor.Alle IATA-meldinger skal sendes til Avinors sentrale trafikkinformasjonsenhet OSLNOYA.Alle IATA-meldinger som sendes til OSLNOYA skal være i henhold til siste versjon av IATA Airport Handling Manual (AHM) og IATA Standard Schedule Information Manual (SSIM).Rapporteringen skal inkludere korrekte data for antall passasjerer og kilogram frakt og post for alle ankomster og avganger. Data skal rapporteres pr. flight nummer og dato.
+Grunnregler for bruk av IATA-meldinger:
+
+1. Alle planlagte flighter skal meldes inn til Avinor vha. SSIM-fil eller SSM/ASM-format.
+2. Alle oppdaterte flight-tider skal meldes inn til Avinor.
+3. Alle IATA-meldinger skal sendes til Avinors sentrale trafikkinformasjonsenhet OSLNOYA.
+4. Alle IATA-meldinger som sendes til OSLNOYA skal være i henhold til siste versjon av IATA Airport Handling Manual (AHM) og IATA Standard Schedule Information Manual (SSIM).
+5. Rapporteringen skal inkludere korrekte data for antall passasjerer og kilogram frakt og post for alle ankomster og avganger. Data skal rapporteres pr. flight nummer og dato.
 
 Følgende IATA-format støttes, og data skal brukes til følgende formål:
 

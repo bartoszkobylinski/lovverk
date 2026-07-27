@@ -15,7 +15,7 @@ xml_hash: "5389918f18a7f21c23997cdbf5886c5eb7a015f6e628c4e5eb04202af1f6559c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ Fysiske og juridiske personer som har opplysningsplikt etter bestemmelsene nevnt
 
 ## § 3. Opplysningspliktens omfang
 
-Plikten til å gi opplysninger etter denne lov omfatter opplysninger som skal gis med hjemmel i følgende bestemmelser med tilhørende forskrifter:[skatteforvaltningsloven §§ 7-2](lov/2016-05-27-14/§7-2) og [8-6](lov/2016-05-27-14/§8-6),[folketrygdloven §§ 25-1 annet ledd](lov/1997-02-28-19/§25-1/ledd/2) og [25-10](lov/1997-02-28-19/§25-10), jf. [21-4](lov/1997-02-28-19/§21-4),[skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11),[statistikkloven § 10](lov/2019-06-21-32/§10),[svalbardskatteloven § 5-2 femte ledd](lov/1996-11-29-68/§5-2/ledd/5) og[innkrevingsloven § 30 tredje ledd](lov/2025-04-25-12/§30/ledd/3).
+Plikten til å gi opplysninger etter denne lov omfatter opplysninger som skal gis med hjemmel i følgende bestemmelser med tilhørende forskrifter:
+
+1. [skatteforvaltningsloven §§ 7-2](lov/2016-05-27-14/§7-2) og [8-6](lov/2016-05-27-14/§8-6),
+2. [folketrygdloven §§ 25-1 annet ledd](lov/1997-02-28-19/§25-1/ledd/2) og [25-10](lov/1997-02-28-19/§25-10), jf. [21-4](lov/1997-02-28-19/§21-4),
+3. [skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11),
+4. [statistikkloven § 10](lov/2019-06-21-32/§10),
+5. [svalbardskatteloven § 5-2 femte ledd](lov/1996-11-29-68/§5-2/ledd/5) og
+6. [innkrevingsloven § 30 tredje ledd](lov/2025-04-25-12/§30/ledd/3).
 
 Med mindre annet er bestemt, skal opplysningene gis spesifisert for hver enkelt inntektsmottaker, og det skal gis opplysninger om fødselsnummer eller annet nummer for identifikasjon av inntektsmottaker.
 

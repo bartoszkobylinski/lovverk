@@ -15,7 +15,7 @@ xml_hash: "0db2fa67f16876f1780d17f21e29f3d6dc2657954b1502d1ddf1d8257dd8243f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,11 +40,19 @@ Når judisielle eller ekstrajudisielle dokumenter som er oprettet på den ene av
 
 (a) En diplomatisk eller konsulær tjenestemann for den høie kontraherende part fra hvis territorium de dokumenter som skal forkynnes, utgår, skal skriftlig rette anmodning om forkynnelse til den kompetente myndighet i det land hvor dokumentene skal forkynnes, med begjæring om at nevnte myndighet skal foranledige dokumentene forkynt. Begjæringen skal av nevnte diplomatiske eller konsulære tjenestemann sendes vedkommende myndighet.
 
-(b) Begjæringen om forkynnelse skal være avfattet i det lands sprog, hvor forkynnelsen skal iverksettes.Forkynnelsesbegjæringen skal beskrive partene og angi deres fulle navn, beskrive mottageren og angi hans fulle navn og adresse og beskaffenheten av det dokument som skal forkynnes, samt være vedlagt in duplo de dokumenter som skal forkynnes.
+(b) Begjæringen om forkynnelse skal være avfattet i det lands sprog, hvor forkynnelsen skal iverksettes.
+
+Forkynnelsesbegjæringen skal beskrive partene og angi deres fulle navn, beskrive mottageren og angi hans fulle navn og adresse og beskaffenheten av det dokument som skal forkynnes, samt være vedlagt in duplo de dokumenter som skal forkynnes.
 
 (c) Det dokument som skal forkynnes, skal enten være avfattet i det lands sprog, hvor det skal forkynnes, eller være ledsaget av en oversettelse til nevnte sprog. Oversettelsens riktighet skal være bekreftet av en diplomatisk eller konsulær tjenestemann for den høie kontraherende part fra hvis territorium dokumentene utgår eller av en edsvoren translatør i et av de to respektive land.
 
-(d) Begjæringen om forkynnelse skal rettes og sendes:I Norge til herreds- eller byretten i den jurisdiksjon hvor forkynnelsen skal iverksettes.I England til «the Senior Master of the Supreme Court of Judicature».Hvis den myndighet til hvem en forkynnelsesbegjæring er blitt sendt, ikke er kompetent til å utføre forkynnelsen, skal nevnte myndighet på embeds vegne oversende dokumentet til den kompetente myndighet i samme stat.
+(d) Begjæringen om forkynnelse skal rettes og sendes:
+
+I Norge til herreds- eller byretten i den jurisdiksjon hvor forkynnelsen skal iverksettes.
+
+I England til «the Senior Master of the Supreme Court of Judicature».
+
+Hvis den myndighet til hvem en forkynnelsesbegjæring er blitt sendt, ikke er kompetent til å utføre forkynnelsen, skal nevnte myndighet på embeds vegne oversende dokumentet til den kompetente myndighet i samme stat.
 
 (e) Forkynnelsen skal iverksettes av den kompetente myndighet i det land hvor dokumentet skal forkynnes. Dokumentet forkynnes på den måte som er foreskrevet i dette land for forkynnelse av lignende dokumenter, medmindre forkynnelsesbegjæringen måtte uttrykke ønsket om en spesiell forkynnelsesmåte. Denne forkynnelsesmåte skal i så fall følges for så vidt det ikke er uforenelig med landets lov.
 
@@ -54,7 +62,12 @@ Når judisielle eller ekstrajudisielle dokumenter som er oprettet på den ene av
 
 ### Art 4
 
-(a) Forskriftene i artiklene 2 og 3 skal ikke være til hinder for at judisielle eller ekstrajudisielle dokumenter som er utferdiget på den ene høie kontraherende parts territorium, forkynnes på den annen høie kontraherende parts territorium uten henvendelse til eller mellemkomst av dette lands myndigheter på en av følgende måter:Forkynnelse ved en diplomatisk eller konsulær representant for den høie kontraherende part fra hvis territorium dokumentet utgår,Forkynnelse ved en representant som til det formål er opnevnt enten av den judisielle myndighet som begjærer forkynnelse av dokumentet, eller av den part på hvis begjæring dokumentet blev utferdiget;Gjennem posten;En hvilken som helst annen forkynnelsesmåte som på forkynnelsestiden anerkjennes av loven i det land hvorfra dokumentet utgår.
+(a) Forskriftene i artiklene 2 og 3 skal ikke være til hinder for at judisielle eller ekstrajudisielle dokumenter som er utferdiget på den ene høie kontraherende parts territorium, forkynnes på den annen høie kontraherende parts territorium uten henvendelse til eller mellemkomst av dette lands myndigheter på en av følgende måter:
+
+1. Forkynnelse ved en diplomatisk eller konsulær representant for den høie kontraherende part fra hvis territorium dokumentet utgår,
+2. Forkynnelse ved en representant som til det formål er opnevnt enten av den judisielle myndighet som begjærer forkynnelse av dokumentet, eller av den part på hvis begjæring dokumentet blev utferdiget;
+3. Gjennem posten;
+4. En hvilken som helst annen forkynnelsesmåte som på forkynnelsestiden anerkjennes av loven i det land hvorfra dokumentet utgår.
 
 (b) Det er underforstått at gyldigheten og virkningen av en sådan forkynnelse blir å bedømme av de høie kontraherende parters domstoler i overensstemmelse med deres eget lands lov.
 
@@ -80,13 +93,23 @@ Når en judisiell myndighet på den ene av de høie kontraherende parters territ
 
 (b) Rettsanmodningen skal være avfattet i det lands sprog, hvor bevisoptagelsen skal foretas eller være ledsaget av en oversettelse til dette sprog. Oversettelsens riktighet skal være bekreftet av en diplomatisk eller konsulær tjenestemann for den høie kontraherende part hvis judisielle myndighet fremsetter begjæringen, eller av en edsvoren translatør i et av de to respektive land. Rettsanmodningen skal angi arten av den sak, hvori bevisoptagelsen ønskes, partenes fulle navn og beskrivelse av vidnene samt disses fulle navn og adresse. Den skal likeledes enten være ledsaget av en liste over de spørsmål som skal fremsettes for vidnet eller vidnene, og en oversettelse hvis riktighet er bekreftet på den ovenfor angitte måte, eller inneholde nøiaktige instruksjoner eller oplysninger angående de forhold som bevisoptagelse er begjært om, eller i stedet inneholde begjæring til den kompetente myndighet om å tillate at det muntlig stilles de spørsmål som partene eller deres representanter ønsker å fremsette.
 
-(c) Rettsanmodninger skal oversendes:I Norge, av en britisk diplomatisk eller konsulær tjenestemann, til herreds- eller byretten i den jurisdiksjon hvor bevisoptagelsen skal foretas.I England av en norsk diplomatisk eller konsulær tjenestemann til «the Senior Master of the Supreme Court of Judicature».I tilfelle av at den myndighet til hvem rettsanmodningen er blitt oversendt, ikke er kompetent til å efterkomme den, skal nevnte myndighet uten noen ytterligere begjæring oversende rettsanmodningen til sitt eget lands kompetente myndighet.
+(c) Rettsanmodninger skal oversendes:
+
+I Norge, av en britisk diplomatisk eller konsulær tjenestemann, til herreds- eller byretten i den jurisdiksjon hvor bevisoptagelsen skal foretas.
+
+I England av en norsk diplomatisk eller konsulær tjenestemann til «the Senior Master of the Supreme Court of Judicature».
+
+I tilfelle av at den myndighet til hvem rettsanmodningen er blitt oversendt, ikke er kompetent til å efterkomme den, skal nevnte myndighet uten noen ytterligere begjæring oversende rettsanmodningen til sitt eget lands kompetente myndighet.
 
 (d) Den kompetente myndighet som rettsanmodningen er oversendt eller videresendt til, skal ta den til følge og foreta den begjærte bevisoptagelse under anvendelse av de samme tvangsmidler og den samme fremgangsmåte som anvendes til utførelsen av en begjæring der utgår fra myndighetene i dens eget land. Dersom det i rettsanmodningen er uttalt ønske om at en spesiell fremgangsmåte skal følges, skal dog denne fremgangsmåte i så fall brukes så langt som det måtte være forenlig med loven i det land hvor bevisoptagelsen skal foregå.
 
 (e) Den diplomatiske eller konsulære tjenestemann som rettsanmodningen er oversendt gjennem, skal – hvis han så ønsker – underrettes om dagen og stedet for rettshandlingen, for at han kan underrette den interesserte part eller de interesserte parter, som skal ha rett til å være til stede personlig eller til å være representert såfremt de ønsker det.
 
-(f) Efterkommelse av rettsanmodningen kan bare nektes:Såfremt rettsanmodningens ekthet ikke er godtgjort.Såfremt utførelsen av vedkommende rettsanmodning ikke inngår under den dømmende makts beføielser i det land hvor bevisoptagelsen skal foretas.Såfremt den høie kontraherende part på hvis territorium bevisoptagelsen skal finne sted, mener at den vilde gjøre inngrep i dens suverenitet eller sikkerhet.
+(f) Efterkommelse av rettsanmodningen kan bare nektes:
+
+1. Såfremt rettsanmodningens ekthet ikke er godtgjort.
+2. Såfremt utførelsen av vedkommende rettsanmodning ikke inngår under den dømmende makts beføielser i det land hvor bevisoptagelsen skal foretas.
+3. Såfremt den høie kontraherende part på hvis territorium bevisoptagelsen skal finne sted, mener at den vilde gjøre inngrep i dens suverenitet eller sikkerhet.
 
 (g) I ethvert tilfelle hvor rettsanmodningen ikke efterkommes av den myndighet til hvem den er rettet, skal denne straks underrette den diplomatiske eller konsulære tjenestemann som den er oversendt gjennem, med oplysning om grunnene til at efterkommelse av rettsanmodningen er avslått eller med angivelse av den rettslige myndighet som den er blitt oversendt til.
 

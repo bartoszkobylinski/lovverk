@@ -116,7 +116,11 @@ Om det er flere kvalifiserte søkere enn det er plasser, oppretter skolen en ven
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
-Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har gjennomført de emner, arbeidskrav, oppmøteforpliktelser mv. slik de fastsettes av Designinstituttet og som er redegjort for i opptaksavtalen og reglementet.Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, jf. opptaksavtalen.Studenten ikke har mistet retten til å gå opp til eksamen.
+Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+1. Studenten har gjennomført de emner, arbeidskrav, oppmøteforpliktelser mv. slik de fastsettes av Designinstituttet og som er redegjort for i opptaksavtalen og reglementet.
+2. Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, jf. opptaksavtalen.
+3. Studenten ikke har mistet retten til å gå opp til eksamen.
 
 ### § 3-3. Bortvisning fra eksamen/avsluttende vurdering og sensur
 

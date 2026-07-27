@@ -15,7 +15,7 @@ xml_hash: "260015485cef7495271bf067f73f27c68972d29c4a9322b7b6d2e24ca4f56752"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -119,7 +119,14 @@ Departementet kan gi forskrift om grunnlaget for avgiften.
 
 ## § 5.
 
-Følgende kjøretøy er fritatt for vektgradert og miljødifferensiert årsavgift:traktorerkjøretøy registrert på kjennemerker med lysegule typer på sort bunnmotorredskaperkjøretøy som er 30 år eller eldre, unntatt tilhengerekjøretøy som i forbindelse med transport av gods fraktes på jernbane (kombinert godstransport)kjøretøy som er registrert på NATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
+Følgende kjøretøy er fritatt for vektgradert og miljødifferensiert årsavgift:
+
+1. traktorer
+2. kjøretøy registrert på kjennemerker med lysegule typer på sort bunn
+3. motorredskaper
+4. kjøretøy som er 30 år eller eldre, unntatt tilhengere
+5. kjøretøy som i forbindelse med transport av gods fraktes på jernbane (kombinert godstransport)
+6. kjøretøy som er registrert på NATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

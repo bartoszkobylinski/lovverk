@@ -15,7 +15,7 @@ xml_hash: "81708a33e7726ccd3965e686a81e1d379158e8301cdcccc9b6372ee4bcd26cc9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,8 +30,18 @@ Produktnavnet Småmat er forbeholdt næringsmidler som oppfyller vilkårene i de
 
 ## § 2. Produksjonsmetode
 
-1. *Produktbeskrivelse*Småmat er en tradisjonell matrett fra Hallingdal bestående av klar kjøttkraft og små jevnstore biter av kjøtt, potet og ulike grønnsaker.
-2. *Råvarer og produksjon*Kraft skal kokes på salte urøkte spekeknoker av svin og får og ferskt kjøtt av storfe og salt. Kraftbein, ferskt kjøtt av svin og sau og spekeskinke kan også brukes. Kraften skal trekkes lenge for å få rik smak. Underveis skummer man av toppen av kraften for å få en klarest mulig kraft.Kjøttet skal kokes sammen med kraften til det er gjennomkokt. I Småmat skal det brukes mest storfekjøtt, i tillegg kan kjøtt av svin og sau benyttes.Poteter og grønnsaker skal kokes hver for seg og skal ha tyggemotstand. Grønnsaker som gulrot, gule erter, kålrot, selleri og purre kan brukes.Alle ingredienser skal kuttes i terninger med en størrelse på ca. 1x1 cm. Småmat skal inneholde 40–60 % kraft, 10–30 % kjøtt, 20–40 % poteter og resten grønnsaker.
+1. *Produktbeskrivelse*
+
+   Småmat er en tradisjonell matrett fra Hallingdal bestående av klar kjøttkraft og små jevnstore biter av kjøtt, potet og ulike grønnsaker.
+2. *Råvarer og produksjon*
+
+   Kraft skal kokes på salte urøkte spekeknoker av svin og får og ferskt kjøtt av storfe og salt. Kraftbein, ferskt kjøtt av svin og sau og spekeskinke kan også brukes. Kraften skal trekkes lenge for å få rik smak. Underveis skummer man av toppen av kraften for å få en klarest mulig kraft.
+
+   Kjøttet skal kokes sammen med kraften til det er gjennomkokt. I Småmat skal det brukes mest storfekjøtt, i tillegg kan kjøtt av svin og sau benyttes.
+
+   Poteter og grønnsaker skal kokes hver for seg og skal ha tyggemotstand. Grønnsaker som gulrot, gule erter, kålrot, selleri og purre kan brukes.
+
+   Alle ingredienser skal kuttes i terninger med en størrelse på ca. 1x1 cm. Småmat skal inneholde 40–60 % kraft, 10–30 % kjøtt, 20–40 % poteter og resten grønnsaker.
 
 ## § 3. Merking
 

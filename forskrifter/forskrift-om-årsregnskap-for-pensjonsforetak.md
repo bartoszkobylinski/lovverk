@@ -15,7 +15,7 @@ xml_hash: "dae86296a6f19b0547f697ca99b2ac0d3fd74f75640fdd974df2730fcc68c41d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Forskriftens virkeområde
 
-(1) Forskriften gjelder for:pensjonskasser, jf. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-16](lov/2015-04-10-17/§2-16),innskuddspensjonsforetak, jf. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-17](lov/2015-04-10-17/§2-17),filialer av utenlandske pensjonsforetak.
+(1) Forskriften gjelder for:
+
+1. pensjonskasser, jf. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-16](lov/2015-04-10-17/§2-16),
+2. innskuddspensjonsforetak, jf. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 2-17](lov/2015-04-10-17/§2-17),
+3. filialer av utenlandske pensjonsforetak.
 
 (2) [Regnskapslovens](lov/1998-07-17-56) bestemmelser om små foretak får ikke anvendelse.
 
@@ -60,7 +64,11 @@ eu_basis: []
 
 ### § 2-3. Årsberetningens innhold
 
-(1) I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):Dersom pensjonsforetakets solvensmarginkapital ikke oppfyller gjeldende minimumskrav eller for øvrig ikke er forsvarlig sett i forhold til virksomheten, skal styret redegjøre for dette og uttale seg om tiltak som er truffet eller som skal treffes for å sikre pensjonsforetakets drift.Det skal gis en beskrivelse av de finansielle risikoer som pensjonsforetaket er, og gjennom regnskapsåret har vært, eksponert for. Styret skal redegjøre for de mål og strategier som er fastsatt for risikostyring, og sammenhengen mellom disse og pensjonsforetakets overordnede mål og strategier. Det skal gis en overordnet beskrivelse av pensjonsforetakets risikostyring og organiseringen av denne.Dersom pensjonsforetaket benytter bufferfondet til å dekke renteforpliktelser på forsikringskontrakter, skal styret redegjøre for dette. Tilsvarende gjelder dersom risikoutjevningsfondet er benyttet til å styrke avsetningen til premiereserve.
+(1) I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):
+
+1. Dersom pensjonsforetakets solvensmarginkapital ikke oppfyller gjeldende minimumskrav eller for øvrig ikke er forsvarlig sett i forhold til virksomheten, skal styret redegjøre for dette og uttale seg om tiltak som er truffet eller som skal treffes for å sikre pensjonsforetakets drift.
+2. Det skal gis en beskrivelse av de finansielle risikoer som pensjonsforetaket er, og gjennom regnskapsåret har vært, eksponert for. Styret skal redegjøre for de mål og strategier som er fastsatt for risikostyring, og sammenhengen mellom disse og pensjonsforetakets overordnede mål og strategier. Det skal gis en overordnet beskrivelse av pensjonsforetakets risikostyring og organiseringen av denne.
+3. Dersom pensjonsforetaket benytter bufferfondet til å dekke renteforpliktelser på forsikringskontrakter, skal styret redegjøre for dette. Tilsvarende gjelder dersom risikoutjevningsfondet er benyttet til å styrke avsetningen til premiereserve.
 
 > Endret ved [forskrifter 16 des 2016 nr. 1657](forskrift/2016-12-16-1657) (med virkning fra regnskapsåret 2016), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024), [1 nov 2024 nr. 2612](forskrift/2024-11-01-2612).
 
@@ -368,7 +376,13 @@ Finansielle instrumenter skal innregnes og måles i samsvar med IFRS 9 med unnta
 
 ### § 4-8. Oppstilling av endringer i egenkapital
 
-(1) Pensjonsforetakene skal presentere en oppstilling av endringer i egenkapital som viser:resultat før andre inntekter og kostnader (resultatpost 18),andre inntekter og kostnader (resultatpost 19) spesifisert på de enkelte underposter (resultatpost 19.1–19.1.5 og 19.2–19.2.5),for hver post under egenkapitalen, virkningene av endringer i regnskapsprinsipper og korreksjoner av feil,beløpene for tilført (frigitt) egenkapital fra (til) foretak eller kommune med pensjonsordninger i pensjonsforetaket, ogen avstemming mellom balanseført verdi for hver egenkapitalpost i begynnelsen og slutten av perioden, med separat presentasjon av hver endring.
+(1) Pensjonsforetakene skal presentere en oppstilling av endringer i egenkapital som viser:
+
+1. resultat før andre inntekter og kostnader (resultatpost 18),
+2. andre inntekter og kostnader (resultatpost 19) spesifisert på de enkelte underposter (resultatpost 19.1–19.1.5 og 19.2–19.2.5),
+3. for hver post under egenkapitalen, virkningene av endringer i regnskapsprinsipper og korreksjoner av feil,
+4. beløpene for tilført (frigitt) egenkapital fra (til) foretak eller kommune med pensjonsordninger i pensjonsforetaket, og
+5. en avstemming mellom balanseført verdi for hver egenkapitalpost i begynnelsen og slutten av perioden, med separat presentasjon av hver endring.
 
 > Endret ved [forskrift 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018).
 
@@ -508,7 +522,13 @@ Finansielle instrumenter skal innregnes og måles i samsvar med IFRS 9 med unnta
 
 (1) Det skal gis en beskrivelse av pensjonsordningene og virkningen av eventuelle endringer i ordningene i løpet av perioden.
 
-(2) Beskrivelsen av pensjonsordningene skal minst inneholde:navn på foretak eller kommune med pensjonsordninger i pensjonsforetaket og de gruppene av ansatte som omfattes,antall medlemmer i pensjonsordningene spesifisert på premiebetalende, uførepensjonister, pensjonsmottakere (ekskl. uførepensjonister), samt fripolisekontrakter og oppsatte rettigheter,angivelse av type pensjonsordninger, herunder om de er ytelsesbasert eller innskuddsbasert, med eller uten investeringsvalg,opplysning om arbeidstakernes tilskudd til pensjonsordningene, ogen beskrivelse av pensjonsytelsene i henhold til forsikringskontraktene.
+(2) Beskrivelsen av pensjonsordningene skal minst inneholde:
+
+1. navn på foretak eller kommune med pensjonsordninger i pensjonsforetaket og de gruppene av ansatte som omfattes,
+2. antall medlemmer i pensjonsordningene spesifisert på premiebetalende, uførepensjonister, pensjonsmottakere (ekskl. uførepensjonister), samt fripolisekontrakter og oppsatte rettigheter,
+3. angivelse av type pensjonsordninger, herunder om de er ytelsesbasert eller innskuddsbasert, med eller uten investeringsvalg,
+4. opplysning om arbeidstakernes tilskudd til pensjonsordningene, og
+5. en beskrivelse av pensjonsytelsene i henhold til forsikringskontraktene.
 
 ### § 5-7. Virkningen av endringer i forutsetninger
 
@@ -532,7 +552,9 @@ Overskudd på avkastningsresultatet (resultatpost 8.1)
 
 2.3
 
-Risikoresultat tilordnet forsikringskontraktene (resultatpost 8.2)Sum resultatførte endringer i forsikringsforpliktelser
+Risikoresultat tilordnet forsikringskontraktene (resultatpost 8.2)
+
+Sum resultatførte endringer i forsikringsforpliktelser
 
 3.*Ikke resultatførte endringer i forsikringsforpliktelser*
 
@@ -542,7 +564,9 @@ Overføringer mellom fond
 
 3.2
 
-Overføringer til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikringsforpliktelser
+Overføringer til/fra pensjonsforetaket
+
+Sum ikke resultatførte endringer i forsikringsforpliktelser
 
 4.*Utgående balanse*
 
@@ -562,7 +586,9 @@ Avkastningsresultat tilordnet kontrakter med garanterte ytelser (del av resultat
 
 2.3
 
-Risikoresultat tilordnet forsikringskontraktene (del av resultatpost 7)Sum resultatførte endringer i forsikringsforpliktelser
+Risikoresultat tilordnet forsikringskontraktene (del av resultatpost 7)
+
+Sum resultatførte endringer i forsikringsforpliktelser
 
 3.*Ikke resultatførte endringer i forsikringsforpliktelser*
 
@@ -572,13 +598,30 @@ Overføringer mellom fond
 
 3.2
 
-Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikringsforpliktelser
+Overføring til/fra pensjonsforetaket
+
+Sum ikke resultatførte endringer i forsikringsforpliktelser
 
 4.*Utgående balanse*
 
 ### § 5-9. Forsikringsforpliktelser
 
-(1) Premiereserve, pensjonskapital, pensjonsbeholdning, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, reguleringsfond og pensjonsreguleringsfond, skal spesifiseres på følgende hovedbransjer a og delbransjer b:HovedbransjerKollektiv rente- og pensjonsforsikringKollektiv pensjonsforsikring for kommuner, herunder institusjoner med lignende pensjonsplanerGruppelivsforsikringIndividuell kapitalforsikring (ettårige dødsrisikoforsikringer)Delbransjer, de kollektive pensjonsforsikringsbransjene skal fordeles på:Foretakspensjonsordninger uten investeringsvalgForetakspensjonsordninger med investeringsvalgFripoliserTjenestepensjonsordningerInnskuddsbaserte pensjonsordninger (inklusive pensjonskapitalbevis) uten investeringsvalgInnskuddsbaserte pensjonsordninger (inklusive pensjonskapitalbevis) med investeringsvalg.
+(1) Premiereserve, pensjonskapital, pensjonsbeholdning, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, reguleringsfond og pensjonsreguleringsfond, skal spesifiseres på følgende hovedbransjer a og delbransjer b:
+
+1. Hovedbransjer
+
+   - Kollektiv rente- og pensjonsforsikring
+   - Kollektiv pensjonsforsikring for kommuner, herunder institusjoner med lignende pensjonsplaner
+   - Gruppelivsforsikring
+   - Individuell kapitalforsikring (ettårige dødsrisikoforsikringer)
+2. Delbransjer, de kollektive pensjonsforsikringsbransjene skal fordeles på:
+
+   - Foretakspensjonsordninger uten investeringsvalg
+   - Foretakspensjonsordninger med investeringsvalg
+   - Fripoliser
+   - Tjenestepensjonsordninger
+   - Innskuddsbaserte pensjonsordninger (inklusive pensjonskapitalbevis) uten investeringsvalg
+   - Innskuddsbaserte pensjonsordninger (inklusive pensjonskapitalbevis) med investeringsvalg.
 
 (2) Det skal opplyses om premiefondets størrelse i forhold til årlig premie og om premiefondets anvendelse de siste tre årene. Tilsvarende gjelder innskuddsfond.
 
@@ -594,7 +637,13 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 *Resultatanalyse på hovedbransjer og delbransjer – fordeling mellom kunde og pensjonsforetaket*
 
-(3) Pensjonsforetaket skal redegjøre for:AvkastningsresultatRisikoresultat (forsikringsteknisk resultat), ekskl. fortjenesteelementAdministrasjonsresultatFortjenesteelement for risikoVederlag for rentegaranti.
+(3) Pensjonsforetaket skal redegjøre for:
+
+- Avkastningsresultat
+- Risikoresultat (forsikringsteknisk resultat), ekskl. fortjenesteelement
+- Administrasjonsresultat
+- Fortjenesteelement for risiko
+- Vederlag for rentegaranti.
 
 *Flytting av pensjonsordninger*
 
@@ -618,7 +667,13 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 (1) For finansielle instrumenter målt til virkelig verdi skal det for hver klasse av finansielle instrumenter opplyses om det nivå i hierarkiet for virkelig verdi der målingene av virkelig verdi er kategorisert i sin helhet, med oppdeling av målingene av virkelig verdi i samsvar med nivåene definert i annet ledd.
 
-(2) For å kunne gi de opplysningene som kreves i henhold til første ledd skal pensjonsforetaket klassifisere målinger av virkelig verdi ved å benytte et hierarki for virkelig verdi som gjenspeiler betydningen av de data som er anvendt ved målingen. Hierarkiet for virkelig verdi skal ha følgende tre nivåer:noterte priser (ikke-justerte) i aktive markeder for identiske eiendeler eller forpliktelser (nivå 1)andre data enn de noterte prisene som inngår i nivå 1, som er observerbare for eiendelen eller forpliktelsen enten direkte (dvs. som priser) eller indirekte (dvs. avledet fra priser) (nivå 2), ogdata for eiendelen eller forpliktelsen som ikke bygger på observerbare markedsdata (ikke-observerbare data) (nivå 3).Det nivået i hierarkiet for virkelig verdi som målingen av virkelig verdi kategoriseres på i sin helhet, skal bestemmes på grunnlag av det laveste nivå av data som er av betydning for målingen av virkelig verdi i sin helhet. For dette formål vurderes betydningen av data i forhold til målingen av virkelig verdi i sin helhet. Dersom det ved en måling av virkelig verdi benyttes observerbare data som krever vesentlig justering på grunnlag av ikke-observerbare data, er den målingen en måling på nivå 3. Vurderingen av hvor stor betydning bestemte data har for målingen av virkelig verdi i sin helhet, krever at det tas hensyn til faktorer som er spesifikke for eiendelen eller forpliktelsen.
+(2) For å kunne gi de opplysningene som kreves i henhold til første ledd skal pensjonsforetaket klassifisere målinger av virkelig verdi ved å benytte et hierarki for virkelig verdi som gjenspeiler betydningen av de data som er anvendt ved målingen. Hierarkiet for virkelig verdi skal ha følgende tre nivåer:
+
+1. noterte priser (ikke-justerte) i aktive markeder for identiske eiendeler eller forpliktelser (nivå 1)
+2. andre data enn de noterte prisene som inngår i nivå 1, som er observerbare for eiendelen eller forpliktelsen enten direkte (dvs. som priser) eller indirekte (dvs. avledet fra priser) (nivå 2), og
+3. data for eiendelen eller forpliktelsen som ikke bygger på observerbare markedsdata (ikke-observerbare data) (nivå 3).
+
+Det nivået i hierarkiet for virkelig verdi som målingen av virkelig verdi kategoriseres på i sin helhet, skal bestemmes på grunnlag av det laveste nivå av data som er av betydning for målingen av virkelig verdi i sin helhet. For dette formål vurderes betydningen av data i forhold til målingen av virkelig verdi i sin helhet. Dersom det ved en måling av virkelig verdi benyttes observerbare data som krever vesentlig justering på grunnlag av ikke-observerbare data, er den målingen en måling på nivå 3. Vurderingen av hvor stor betydning bestemte data har for målingen av virkelig verdi i sin helhet, krever at det tas hensyn til faktorer som er spesifikke for eiendelen eller forpliktelsen.
 
 (3) For finansielle instrumenter målt til virkelig verdi skal det opplyses om hvilke metoder og forutsetninger som er anvendt, gis en beskrivelse av verdsettingsteknikk(er) som er benyttet, og ved endring av verdsettingsteknikk(er) opplyse om dette og årsaken til endringen.
 
@@ -628,7 +683,11 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 (1) Det skal gis opplysninger som gjør det mulig for brukere av finansregnskapet å vurdere arten og omfanget av risiko som oppstår av finansielle instrumenter, og som pensjonsforetaket er eksponert for ved slutten av regnskapsåret. Opplysningene skal minst dekke kredittrisiko, likviditetsrisiko og markedsrisiko.
 
-(2) For hver type risiko knyttet til finansielle instrumenter skal det opplyses om:risikoeksponeringer,prinsipper og prosesser for håndtering av risiko, ogmetoder for måling av risiko.
+(2) For hver type risiko knyttet til finansielle instrumenter skal det opplyses om:
+
+1. risikoeksponeringer,
+2. prinsipper og prosesser for håndtering av risiko, og
+3. metoder for måling av risiko.
 
 (3) Det skal gis et sammendrag av kvantitative data om eksponering for hver type risiko knyttet til finansielle instrumenter.
 
@@ -640,7 +699,11 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 ### § 5-15. Fraregning av finansielle eiendeler
 
-(1) Pensjonsforetaket kan ha overført finansielle eiendeler på en slik måte at en del av eller alle de finansielle eiendelene ikke kvalifiserer for fraregning. For hver klasse av slike eiendeler skal pensjonsforetaket gi følgende opplysninger:eiendelens art,arten av risikoer og fordeler ved eierskap som pensjonsforetaket fortsatt er eksponert for, ogde balanseførte verdiene av eiendelene og de tilknyttede forpliktelsene, når pensjonsforetaket fortsatt innregner alle eiendelene.
+(1) Pensjonsforetaket kan ha overført finansielle eiendeler på en slik måte at en del av eller alle de finansielle eiendelene ikke kvalifiserer for fraregning. For hver klasse av slike eiendeler skal pensjonsforetaket gi følgende opplysninger:
+
+1. eiendelens art,
+2. arten av risikoer og fordeler ved eierskap som pensjonsforetaket fortsatt er eksponert for, og
+3. de balanseførte verdiene av eiendelene og de tilknyttede forpliktelsene, når pensjonsforetaket fortsatt innregner alle eiendelene.
 
 > Endret ved [forskrift 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225)).
 
@@ -654,7 +717,10 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 ### § 5-16A. Opplysninger ved første gangs anvendelse av IFRS 9
 
-(1) Ved første gangs anvendelse av IFRS 9, skal det gis opplysninger ombalanseført verdi av finansielle eiendeler etter IAS 39 ved utgangen av regnskapsår,balanseført verdi av finansielle eiendeler etter IFRS 9 ved inngangen til regnskapsåret.
+(1) Ved første gangs anvendelse av IFRS 9, skal det gis opplysninger om
+
+1. balanseført verdi av finansielle eiendeler etter IAS 39 ved utgangen av regnskapsår,
+2. balanseført verdi av finansielle eiendeler etter IFRS 9 ved inngangen til regnskapsåret.
 
 (2) Opplysningene i annet ledd skal gis for hver av følgende balanseposter; 2.3.1 og 2.3.2, 2.4.1 til 2.4.5, 6.3.1 og 6.3.2, 6.4.1 til 6.4.5, 8.3.1 og 8.3.2, 8.4.1 til 8.4.5. Det skal angis særskilt endringer i balanseført verdi på finansielle eiendeler som er målt til amortisert kost både etter IAS 39 og etter IFRS 9.
 
@@ -696,7 +762,14 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 ### § 5-22. Ansvarlig lån
 
-(1) Pensjonsforetaket skal gi følgende opplysninger når det gjelder ansvarlig lånekapital:For hvert lån som overstiger 10 prosent av totalbeløpet for den ansvarlige lånekapital:lånets størrelse, den valuta det er oppgitt i, rentesats og forfall, eller opplysning om at det er en evigvarende ansvarlig lånekapital,om det er forhold som eventuelt krever en hurtigere tilbakebetaling ogvilkårene for den ansvarlige lånekapital.For annen ansvarlig lånekapital skal det gis en summarisk oversikt over betingelsene.
+(1) Pensjonsforetaket skal gi følgende opplysninger når det gjelder ansvarlig lånekapital:
+
+1. For hvert lån som overstiger 10 prosent av totalbeløpet for den ansvarlige lånekapital:
+
+   1. lånets størrelse, den valuta det er oppgitt i, rentesats og forfall, eller opplysning om at det er en evigvarende ansvarlig lånekapital,
+   2. om det er forhold som eventuelt krever en hurtigere tilbakebetaling og
+   3. vilkårene for den ansvarlige lånekapital.
+2. For annen ansvarlig lånekapital skal det gis en summarisk oversikt over betingelsene.
 
 (2) Dersom pensjonsforetaket har opptatt ansvarlig lånekapital i utenlandsk valuta, skal valutakursgevinst eller valutakurstap på slik lånekapital oppgis. Dersom det er inngått sikringsforretning som gjelder ansvarlig lånekapital i utenlandsk valuta skal dette opplyses.
 
@@ -714,11 +787,22 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 ### § 5-24. Investeringseiendom
 
-(1) Det skal opplyses omhvilke kriterier som benyttes for å skille investeringseiendom fra eierbenyttet eiendom når klassifiseringen er vanskelig,det nivå i hierarkiet for virkelig verdi der målingene av virkelig verdi er kategorisert i sin helhet, jf. [§ 5-12](forskrift/2011-12-20-1457/§5-12) annet ledd, hvilke metoder og forutsetninger som er anvendt ved måling til virkelig verdi, gis en beskrivelse av verdsettingsteknikk(er) som er benyttet, og ved endring av verdsettingsteknikk(er) opplyse om dette og årsaken til endringen, og,i hvilket omfang den virkelige verdien er basert på en verdsetting foretatt av en uavhengig takstmann med en anerkjent og relevant faglig kvalifikasjon og som nylig har hatt erfaring med lokaliseringen og kategorien av den investeringseiendommen som blir taksert. Dersom det ikke har skjedd noen slik verdsetting, skal det opplyses om dette.
+(1) Det skal opplyses om
 
-(2) I de unntaksvise tilfellene hvor virkelig verdi ikke kan fastsettes på en pålitelig måte (se nr. 53 i IAS 40), skal det gis:en beskrivelse av investeringseiendommen ogen forklaring på hvorfor virkelig verdi ikke kan fastsettes på en pålitelig måte.
+1. hvilke kriterier som benyttes for å skille investeringseiendom fra eierbenyttet eiendom når klassifiseringen er vanskelig,
+2. det nivå i hierarkiet for virkelig verdi der målingene av virkelig verdi er kategorisert i sin helhet, jf. [§ 5-12](forskrift/2011-12-20-1457/§5-12) annet ledd, hvilke metoder og forutsetninger som er anvendt ved måling til virkelig verdi, gis en beskrivelse av verdsettingsteknikk(er) som er benyttet, og ved endring av verdsettingsteknikk(er) opplyse om dette og årsaken til endringen, og,
+3. i hvilket omfang den virkelige verdien er basert på en verdsetting foretatt av en uavhengig takstmann med en anerkjent og relevant faglig kvalifikasjon og som nylig har hatt erfaring med lokaliseringen og kategorien av den investeringseiendommen som blir taksert. Dersom det ikke har skjedd noen slik verdsetting, skal det opplyses om dette.
 
-(3) Det skal gis en avstemming mellom de balanseførte verdiene av investeringseiendom i begynnelsen og i slutten av perioden som viser:tilgang og avgang,netto gevinster eller tap ved justering av virkelig verdi, ogandre endringer.
+(2) I de unntaksvise tilfellene hvor virkelig verdi ikke kan fastsettes på en pålitelig måte (se nr. 53 i IAS 40), skal det gis:
+
+1. en beskrivelse av investeringseiendommen og
+2. en forklaring på hvorfor virkelig verdi ikke kan fastsettes på en pålitelig måte.
+
+(3) Det skal gis en avstemming mellom de balanseførte verdiene av investeringseiendom i begynnelsen og i slutten av perioden som viser:
+
+- tilgang og avgang,
+- netto gevinster eller tap ved justering av virkelig verdi, og
+- andre endringer.
 
 (4) Ytterligere opplysninger skal gis i den utstrekning dette er nødvendig for å bedømme de vurderinger som ligger til grunn for regnskapet.
 
@@ -726,9 +810,19 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 ### § 5-25. Eierbenyttet eiendom
 
-(1) Det skal opplyses omtidspunktet for verdireguleringen,en uavhengig takstmann ble benyttet,det nivå i hierarkiet for virkelig verdi der målingene av virkelig verdi er kategorisert i sin helhet, jf. [§ 5-12](forskrift/2011-12-20-1457/§5-12) annet ledd, hvilke metoder og forutsetninger som er anvendt ved måling til virkelig verdi, gis en beskrivelse av verdsettingsteknikk(er) som er benyttet, og ved endring av verdsettingsteknikk(er) opplyse om dette og årsaken til endringen, ogverdireguleringsreserven, som viser endringen i reserven i perioden.
+(1) Det skal opplyses om
 
-(2) Det skal gis en avstemming av balanseført verdi av eierbenyttet eiendom ved begynnelsen og slutten av perioden som viser:tilgang og avgang,økninger eller reduksjoner som skyldes verdireguleringer,avskrivninger, ogandre endringer.
+1. tidspunktet for verdireguleringen,
+2. en uavhengig takstmann ble benyttet,
+3. det nivå i hierarkiet for virkelig verdi der målingene av virkelig verdi er kategorisert i sin helhet, jf. [§ 5-12](forskrift/2011-12-20-1457/§5-12) annet ledd, hvilke metoder og forutsetninger som er anvendt ved måling til virkelig verdi, gis en beskrivelse av verdsettingsteknikk(er) som er benyttet, og ved endring av verdsettingsteknikk(er) opplyse om dette og årsaken til endringen, og
+4. verdireguleringsreserven, som viser endringen i reserven i perioden.
+
+(2) Det skal gis en avstemming av balanseført verdi av eierbenyttet eiendom ved begynnelsen og slutten av perioden som viser:
+
+- tilgang og avgang,
+- økninger eller reduksjoner som skyldes verdireguleringer,
+- avskrivninger, og
+- andre endringer.
 
 > Endret ved [forskrift 19 des 2013 nr. 1680](forskrift/2013-12-19-1680) (fom regnskapsår påbegynt 1 jan 2014 eller senere, tidligere § 5-24).
 
@@ -738,7 +832,16 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 (1) Det skal opplyses om firma, forretningskontor, eierandel og stemmeandel for datterforetak, tilknyttet foretak og felleskontrollert virksomhet.
 
-(2) Pensjonsforetak som innregner og måler datterforetak, tilknyttet foretak eller felles kontrollert virksomhet etter egenkapitalmetoden, skal for hver vesentlig investering og samlet gi følgende opplysninger:Verdi i balansen ved periodens begynnelse+/– Tilgang/avgang i perioden+/– Resultatandel+/– InternfortjenesterUtbytte+/– Egenkapitaljustering ført direkte mot egenkapitalen+/– Innbetalt/tilbakebetalt egenkapital i perioden= Verdi i balansen ved periodens slutt.
+(2) Pensjonsforetak som innregner og måler datterforetak, tilknyttet foretak eller felles kontrollert virksomhet etter egenkapitalmetoden, skal for hver vesentlig investering og samlet gi følgende opplysninger:
+
+- Verdi i balansen ved periodens begynnelse
+- +/– Tilgang/avgang i perioden
+- +/– Resultatandel
+- +/– Internfortjenester
+- Utbytte
+- +/– Egenkapitaljustering ført direkte mot egenkapitalen
+- +/– Innbetalt/tilbakebetalt egenkapital i perioden
+- = Verdi i balansen ved periodens slutt.
 
 (3) Annet ledd gjelder tilsvarende for pensjonsforetak som innregner og måler felleskontrollert virksomhet etter bruttometoden.
 
@@ -806,7 +909,14 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 (2) Det skal videre gis opplysninger for hver person omfattet av første ledd som har hatt ansettelsesforhold eller verv for pensjonsforetaket i løpet av regnskapsåret spesifisert i samsvar med tredje til sjette ledd.
 
-(3) Opplysninger om godtgjørelse eller honorarer skal minst omfatte:den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer,godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,betalt eller skyldig vederlag til hver tidligere daglig leder og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, ogberegnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.
+(3) Opplysninger om godtgjørelse eller honorarer skal minst omfatte:
+
+1. den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer,
+2. godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,
+3. godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,
+4. betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,
+5. betalt eller skyldig vederlag til hver tidligere daglig leder og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, og
+6. beregnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.
 
 (4) Det skal opplyses om arten og omfanget av forpliktelser til å gi særskilt vederlag ved fratredelse, opphør eller endring av ansettelsesforholdet eller vervet.
 

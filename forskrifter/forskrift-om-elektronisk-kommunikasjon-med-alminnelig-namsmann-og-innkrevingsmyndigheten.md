@@ -80,7 +80,11 @@ Kapitlet regulerer elektronisk kommunikasjon mellom namsmannen som sekretariat f
 
 Bare brukere som er godkjent av Skatteetaten kan sende inn dokumenter elektronisk i saker for forliksrådet.
 
-Klager kan sende inn følgende dokumenter elektronisk:forliksklager,kopi av vedlegg til forliksklager, ogandre dokumenter som Skatteetaten har fastsatt kan sendes inn elektronisk.
+Klager kan sende inn følgende dokumenter elektronisk:
+
+1. forliksklager,
+2. kopi av vedlegg til forliksklager, og
+3. andre dokumenter som Skatteetaten har fastsatt kan sendes inn elektronisk.
 
 Ved elektronisk innsending av dokumenter benyttes den form og adresse som Skatteetaten fastsetter.
 

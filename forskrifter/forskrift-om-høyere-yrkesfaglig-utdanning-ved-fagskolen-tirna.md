@@ -15,7 +15,7 @@ xml_hash: "2dd870e9eb2c5bba413a968fbcb70dae89e36fccef082c00c3205cbfde6e34b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,14 @@ eu_basis: []
 
 ### § 1-8. Tap av studieretten
 
-(1) En student kan tape studieretten dersom studenten:har brukt alle forsøkene i et emne, en eksamen eller praksisperiode uten godkjent resultat jf. denne forskriftens [§ 7-9 første ledd](forskrift/2025-09-15-1843/§7-9/ledd/1).har ugyldig fravær fra obligatorisk undervisning utover fraværsgrenser fastsatt i studieplanikke har levert obligatoriske arbeidskrav innen gitte frister, jf. [§ 1-6 (4)](forskrift/2025-09-15-1843/§1-6/ledd/4)ikke svarer på henvendelser fra Fagskolen Tirna om vesentlige forhold som gjelder utdanningen, jf. [§ 1-6 (7)](forskrift/2025-09-15-1843/§1-6/ledd/7).En student som har tapt studieretten, får først nye forsøk ved et eventuelt nytt opptak til samme utdanning.
+(1) En student kan tape studieretten dersom studenten:
+
+1. har brukt alle forsøkene i et emne, en eksamen eller praksisperiode uten godkjent resultat jf. denne forskriftens [§ 7-9 første ledd](forskrift/2025-09-15-1843/§7-9/ledd/1).
+2. har ugyldig fravær fra obligatorisk undervisning utover fraværsgrenser fastsatt i studieplan
+3. ikke har levert obligatoriske arbeidskrav innen gitte frister, jf. [§ 1-6 (4)](forskrift/2025-09-15-1843/§1-6/ledd/4)
+4. ikke svarer på henvendelser fra Fagskolen Tirna om vesentlige forhold som gjelder utdanningen, jf. [§ 1-6 (7)](forskrift/2025-09-15-1843/§1-6/ledd/7).
+
+En student som har tapt studieretten, får først nye forsøk ved et eventuelt nytt opptak til samme utdanning.
 
 (2) Vedtak om tap av studierett kan påklages, jf. [kapittel 9](forskrift/2025-09-15-1843/kap9).
 
@@ -196,11 +203,20 @@ eu_basis: []
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger fastsetter fagskolen i forskrift om søkere må dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -220,7 +236,12 @@ eu_basis: []
 
 ### § 2-5. Opptak på visse vilkår (betinget opptak)
 
-(1) Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøkeren har standpunktkarakteren 2 eller bedre i fagetikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.
+(1) Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+1. søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak
+2. søkeren har standpunktkarakteren 2 eller bedre i faget
+3. ikke allerede har avsluttende vurdering i faget, og
+4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 (2) Med spesielle omstendigheter menes sykdom, ulykker eller dødsfall i nær familie. Fagskolen kan gi betinget opptak på grunn av andre spesielle omstendigheter.
 
@@ -282,7 +303,10 @@ eu_basis: []
 
 (1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget er med i beregningen av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
 
-(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemålhvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
+(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:
+
+1. et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål
+2. hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
 
 (3) Relevant yrkespraksis gir 1 poeng pr. 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
 
@@ -443,7 +467,11 @@ For at Fagskolen Tirna skal kunne utstede vitnemål eller annen dokumentasjon fo
 
 ### § 7-4. Vilkår for å gå opp til eksamen
 
-Studentene har rett til å avlegge eksamen når han/hun har:oppfylt sine betalingsforpliktelser i studiekontrakten.oppfylt fremmøtekravet til obligatorisk undervisning, praksis eller prosjekt der dette er en del av utdanningen.bestått alle obligatoriske arbeidskrav. Med arbeidskrav menes alle former for teoretisk og praktisk arbeid/prøve/aktivitet som settes som vilkår for å avlegge eksamen.
+Studentene har rett til å avlegge eksamen når han/hun har:
+
+1. oppfylt sine betalingsforpliktelser i studiekontrakten.
+2. oppfylt fremmøtekravet til obligatorisk undervisning, praksis eller prosjekt der dette er en del av utdanningen.
+3. bestått alle obligatoriske arbeidskrav. Med arbeidskrav menes alle former for teoretisk og praktisk arbeid/prøve/aktivitet som settes som vilkår for å avlegge eksamen.
 
 ### § 7-5. Informasjon om og oppmelding til eksamen
 
@@ -489,7 +517,18 @@ Studenter som er tatt opp til et studieprogram blir automatisk oppmeldt til eksa
 
 (2) Individuell tilrettelegging ved eksamener og vurderinger kan innvilges studenter som kan dokumentere behov for særlig tilrettelagt vurderingsform.
 
-(3) Tilrettelegging ved eksamen kan for eksempel være:utvidet tidrett til lengre pauser med mulighet for hvilehøytlesning av oppgavetekstspesielle fysiske tilrettelegginger eller hjelpemidlerendring av vurderingsformeget eksamenslokalebruk av PCskrivehjelpinnlesing av besvarelsen med digital lagringammepauser.
+(3) Tilrettelegging ved eksamen kan for eksempel være:
+
+1. utvidet tid
+2. rett til lengre pauser med mulighet for hvile
+3. høytlesning av oppgavetekst
+4. spesielle fysiske tilrettelegginger eller hjelpemidler
+5. endring av vurderingsform
+6. eget eksamenslokale
+7. bruk av PC
+8. skrivehjelp
+9. innlesing av besvarelsen med digital lagring
+10. ammepauser.
 
 (4) Studenter med dokumenterte lærevansker eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved eksamensbesvarelsen en anonymisert attest som stadfester dette.
 
@@ -563,7 +602,17 @@ Studenter som er tatt opp til et studieprogram blir automatisk oppmeldt til eksa
 
 (6) Når lokal klagenemnd har fattet et vedtak om annullering, skal studenten levere eventuelle vitnemål eller karakterutskrifter tilbake til fagskolen. Et endelig vedtak om annullering etter første eller andre ledd er et særlig tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
 
-(7) Følgende kan være fusk, eller forsøk på fusk, hvis det er egnet til å gi en urettmessig fordel:Ureglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om detteÅ handle i strid med gjeldende regler for den spesifikke eksamenÅ bruke eller ha ulovlige hjelpemidler under eksamen eller prøveÅ presentere andre sitt arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere et arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten selvÅ levere en besvarelse som helt eller delvis er utarbeidet av en andre enn studenten(e) selv.
+(7) Følgende kan være fusk, eller forsøk på fusk, hvis det er egnet til å gi en urettmessig fordel:
+
+1. Ureglementert samarbeid mellom studenter eller grupper
+2. Fabrikkering eller forfalskning av data
+3. Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+4. Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette
+5. Å handle i strid med gjeldende regler for den spesifikke eksamen
+6. Å bruke eller ha ulovlige hjelpemidler under eksamen eller prøve
+7. Å presentere andre sitt arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+8. Å levere et arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten selv
+9. Å levere en besvarelse som helt eller delvis er utarbeidet av en andre enn studenten(e) selv.
 
 ## Kapittel 8. Disiplinære sanksjoner
 
@@ -641,7 +690,11 @@ Studenter som er tatt opp til et studieprogram blir automatisk oppmeldt til eksa
 
 (1) Fagskolens styre skal opprette en lokal klagenemnd som oppfyller vilkårene i [fagskoleloven § 20](lov/2018-06-08-28/§20).
 
-(2) Den lokale klagenemnda skal behandle:alle klager over enkeltvedtakklager etter [fagskoleloven § 23](lov/2018-06-08-28/§23)fatte vedtak i saker etter [fagskoleloven §§ 24](lov/2018-06-08-28/§24) til [27](lov/2018-06-08-28/§27).
+(2) Den lokale klagenemnda skal behandle:
+
+1. alle klager over enkeltvedtak
+2. klager etter [fagskoleloven § 23](lov/2018-06-08-28/§23)
+3. fatte vedtak i saker etter [fagskoleloven §§ 24](lov/2018-06-08-28/§24) til [27](lov/2018-06-08-28/§27).
 
 (3) Saker etter [fagskoleloven §§ 23](lov/2018-06-08-28/§23) til [27](lov/2018-06-08-28/§27) kan ikke behandles av andre organer ved Fagskolen Tirna.
 

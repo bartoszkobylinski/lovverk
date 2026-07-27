@@ -56,7 +56,11 @@ Følgende forordninger og direktiver gjelder som norsk rett, med de tilpasninger
 
 ### § 1-5. Definisjoner og kjøretøyklasser
 
-(1) For nasjonal godkjenning gjelder definisjonene i forordning [(EU) 2018/858](eu/32018r0858) artikkel 3 og vedlegg I samt definisjoner i de enkelte kapitler i denne forskrift. I tillegg gjelder følgende definisjoner for hele forskriften:*forordningen*: forordning [(EU) 2018/858](eu/32018r0858) med endringsrettsakter som er tatt inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) og implementert i denne forskrift.*utrykningskjøretøy*: kjøretøy som har godkjenning etter [forskrift om godkjenning og registrering av utrykningskjøretøy](forskrift/2002-01-18-55).*ambulanse*: kjøretøy i gruppe M beregnet på transport av syke eller skadede personer og særlig utstyrt til dette formål.
+(1) For nasjonal godkjenning gjelder definisjonene i forordning [(EU) 2018/858](eu/32018r0858) artikkel 3 og vedlegg I samt definisjoner i de enkelte kapitler i denne forskrift. I tillegg gjelder følgende definisjoner for hele forskriften:
+
+1. *forordningen*: forordning [(EU) 2018/858](eu/32018r0858) med endringsrettsakter som er tatt inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) og implementert i denne forskrift.
+2. *utrykningskjøretøy*: kjøretøy som har godkjenning etter [forskrift om godkjenning og registrering av utrykningskjøretøy](forskrift/2002-01-18-55).
+3. *ambulanse*: kjøretøy i gruppe M beregnet på transport av syke eller skadede personer og særlig utstyrt til dette formål.
 
 (2) For definisjoner knyttet til registrering gjelder, dersom annet ikke er fastsatt, [forskrift om bruk av kjøretøy § 2-1](forskrift/1990-01-25-92/§2-1).
 
@@ -141,7 +145,12 @@ Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endri
 
 ### § 2-8. Tillatt totalvekt
 
-Tillatt totalvekt for kjøretøy i gruppe M, N og O med største totalvekt under 7 500 kg kan etter søknad settes lavere enn største totalvekt.Tillatt totalvekt kan ikke være høyere enn største totalvekt oppgitt av fabrikant.Tillatt totalvekt kan ikke settes lavere enn det som er nødvendig med tanke på antall sitteplasser og krav til nyttelast for kjøretøyklassen det søkes godkjenning for. Antall sitteplasser kan endres som følge av vektendringen.Kjøretøyklassen endres i samsvar med endringen av tillatt totalvekt.Alle tekniske krav som følge av endret tillatt totalvekt skal være oppfylt.
+Tillatt totalvekt for kjøretøy i gruppe M, N og O med største totalvekt under 7 500 kg kan etter søknad settes lavere enn største totalvekt.
+
+1. Tillatt totalvekt kan ikke være høyere enn største totalvekt oppgitt av fabrikant.
+2. Tillatt totalvekt kan ikke settes lavere enn det som er nødvendig med tanke på antall sitteplasser og krav til nyttelast for kjøretøyklassen det søkes godkjenning for. Antall sitteplasser kan endres som følge av vektendringen.
+3. Kjøretøyklassen endres i samsvar med endringen av tillatt totalvekt.
+4. Alle tekniske krav som følge av endret tillatt totalvekt skal være oppfylt.
 
 ### § 2-9. Kontroll
 
@@ -153,7 +162,12 @@ Tillatt totalvekt for kjøretøy i gruppe M, N og O med største totalvekt under
 
 (1) Hastighetsbegrenseren skal i henhold til direktiv [92/6/EØF](eu/31992l0006) som senest endret ved direktiv [2002/85/EF](eu/32002l0085), være innstilt slik at buss i gruppe M2 og M3 ikke kan kjøres med en hastighet på mer enn 100 km/t, og at lastebil i gruppe N2 og N3 ikke kan kjøres med en hastighet på mer enn 90 km/t.
 
-(2) Følgende kjøretøy er unntatt fra kravet om hastighetsbegrenser:Bil som tilhører forsvaret, sivilforsvaret eller brannvesenet, utrykningskjøretøy samt politiets biler.Bil som av konstruksjonsmessige årsaker ikke kan kjøres med større hastighet enn det hastighetsbegrenseren er innstilt på.Bil som brukes i vitenskapelig forsøk, etter samtykke fra Statens vegvesen.Bil som benyttes utelukkende til offentlig transport i tettbygd område.
+(2) Følgende kjøretøy er unntatt fra kravet om hastighetsbegrenser:
+
+1. Bil som tilhører forsvaret, sivilforsvaret eller brannvesenet, utrykningskjøretøy samt politiets biler.
+2. Bil som av konstruksjonsmessige årsaker ikke kan kjøres med større hastighet enn det hastighetsbegrenseren er innstilt på.
+3. Bil som brukes i vitenskapelig forsøk, etter samtykke fra Statens vegvesen.
+4. Bil som benyttes utelukkende til offentlig transport i tettbygd område.
 
 > Tilføyd ved forskrift [29 jan 2025 nr. 105](forskrift/2025-01-29-105) (i kraft 1 feb 2025).
 
@@ -207,7 +221,14 @@ EU-enkeltgodkjenning kan utstedes til bil eller tilhenger til bil som tilfredsst
 
 (3) Som alternativ til annet ledd, kan dokumentasjon utstedes av fabrikant dersom denne kan utføre de nødvendige prøver mv. som rettsaktene krever. Underlagsmateriale skal i så fall vedlegges søknaden. Godkjenningsmyndigheten gir nærmere retningslinjer for prøving og utstedelse av slik dokumentasjon. [§ 2-3](forskrift/2022-06-28-1233/§2-3) femte ledd gjelder tilsvarende for fabrikant som utsteder feil opplysninger.
 
-(4) Unntatt fra annet og tredje ledd er kravområder angitt i bokstavene a–f nedenfor. For disse er det tilstrekkelig at fabrikanten fremlegger samsvarserklæring hvor det bekreftes oppfyllelse av kravene. Godkjenningsmyndigheten kan foreta stikkprøvekontroll. [§ 2-3 femte ledd](forskrift/2022-06-28-1233/§2-3/ledd/5) gjelder tilsvarende for fabrikant som utsteder feil opplysninger.C15: Dekkmontering,D15: Montering av lyssignalinnretninger, innretninger for belysning av veien og lysreflekterende innretninger,F1: Monteringssted for kjennemerker,F7: Understellsnummer og fabrikasjonsplate,F10: Innretninger mot vannsprut (Kun hvor det er benyttet nasjonalt unntak),Denne forskrift [§ 8-2](forskrift/2022-06-28-1233/§8-2) og [§ 8-3](forskrift/2022-06-28-1233/§8-3): Nasjonale bestemmelser for lysutstyr.
+(4) Unntatt fra annet og tredje ledd er kravområder angitt i bokstavene a–f nedenfor. For disse er det tilstrekkelig at fabrikanten fremlegger samsvarserklæring hvor det bekreftes oppfyllelse av kravene. Godkjenningsmyndigheten kan foreta stikkprøvekontroll. [§ 2-3 femte ledd](forskrift/2022-06-28-1233/§2-3/ledd/5) gjelder tilsvarende for fabrikant som utsteder feil opplysninger.
+
+1. C15: Dekkmontering,
+2. D15: Montering av lyssignalinnretninger, innretninger for belysning av veien og lysreflekterende innretninger,
+3. F1: Monteringssted for kjennemerker,
+4. F7: Understellsnummer og fabrikasjonsplate,
+5. F10: Innretninger mot vannsprut (Kun hvor det er benyttet nasjonalt unntak),
+6. Denne forskrift [§ 8-2](forskrift/2022-06-28-1233/§8-2) og [§ 8-3](forskrift/2022-06-28-1233/§8-3): Nasjonale bestemmelser for lysutstyr.
 
 (5) Bil og tilhenger til bil som er godkjent i annet EØS-land eller Sveits etter dette landets nasjonale regelverk og som importeres uendret til Norge, skal ikke underlegges ny kontroll eller krav om ny dokumentasjon av forhold som tidligere er dokumentert og godkjent. Dersom det ikke tidligere er framlagt dokumentasjon på oppfyllelse av krav på områder der det norske regelverket stiller tekniske krav eller der de norske krav avviker fra godkjenningslandets, kan oppfyllelse av disse kravene kreves dokumentert. Bil og tilhenger til bil som er godkjent i annet EØS-land kan likevel bare nektes godkjent dersom forskjellen mellom de krav som ble stilt i godkjenningslandet og norske krav er av en slik art at bilen eller tilhengeren utgjør en stor fare for trafikksikkerhet og/eller miljø.
 
@@ -231,7 +252,10 @@ EU-enkeltgodkjenning kan utstedes til bil eller tilhenger til bil som tilfredsst
 
 ### § 4-6. Fabrikantens forpliktelser knyttet til anvendelsen av typegodkjente komponenter eller separate tekniske enheter
 
-Dersom en komponent eller separat teknisk enhet er typegodkjent etter vilkårene beskrevet i forordning [(EU) 2018/858](eu/32018r0858) artikkel 29 nr. 3, eller med samme vilkår relatert til en typegodkjenning utstedt i henhold til 1958-avtalen for FN-regulativ, eller direktiv [2007/46/EF](eu/32007l0046) artikkel 10, gjelder følgende ved nasjonal enkeltgodkjenning av det komplette og ferdigbygde kjøretøyet:Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere og synliggjøre hvilke begrensninger og vilkår som gjelder for de typegodkjente komponentene eller separate tekniske enhetene som er benyttet.Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere at begrensningene og vilkårene for komponenten eller den separate tekniske enheten jf. bokstav a) fortsatt er ivaretatt for det ferdigbygde kjøretøyet.
+Dersom en komponent eller separat teknisk enhet er typegodkjent etter vilkårene beskrevet i forordning [(EU) 2018/858](eu/32018r0858) artikkel 29 nr. 3, eller med samme vilkår relatert til en typegodkjenning utstedt i henhold til 1958-avtalen for FN-regulativ, eller direktiv [2007/46/EF](eu/32007l0046) artikkel 10, gjelder følgende ved nasjonal enkeltgodkjenning av det komplette og ferdigbygde kjøretøyet:
+
+1. Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere og synliggjøre hvilke begrensninger og vilkår som gjelder for de typegodkjente komponentene eller separate tekniske enhetene som er benyttet.
+2. Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere at begrensningene og vilkårene for komponenten eller den separate tekniske enheten jf. bokstav a) fortsatt er ivaretatt for det ferdigbygde kjøretøyet.
 
 > Tilføyd ved forskrift [6 jan 2025 nr. 4](forskrift/2025-01-06-4).
 
@@ -257,7 +281,13 @@ Bil og tilhenger til bil regnes som brukt når den har vært registrert.
 
 (1) Brukt bil og tilhenger til bil skal tilfredsstille de tekniske krav som gjaldt i Norge på det tidspunkt den ble registrert første gang. Alternativt kan nyere kravnivå benyttes.
 
-(2) Som alternativ til første ledd kan ett av følgende være tilfredsstilt:Bil og tilhenger til bil som er EU-typegodkjent eller EU-enkeltgodkjent i annet EØS-land regnes som godkjent i Norge dersom det ikke er foretatt ombygging etter godkjenningen. Det foretas identitetskontroll og kan utføres stikkprøvekontroll av overensstemmelse med opprinnelig godkjenning.Bil og tilhenger til bil som er enkeltgodkjent i annet EØS-land etter 29. april 2009 eller ombygd etter EU-typegodkjenning, enkeltgodkjennes i Norge i den utstrekning det oppfyller vilkårene i forordning [(EF) 2018/858](eu/32018r0858) artikkel 45 og 46 og det fremlegges dokumentasjon fra godkjenningsmyndighetene i eksportlandet.Bil og tilhenger til bil som er godkjent i annet EØS-land eller Sveits etter dette landets nasjonale regelverk og som importeres uendret til Norge, skal ikke underlegges ny kontroll eller krav om ny dokumentasjon av forhold som tidligere er dokumentert og godkjent. Dersom det ikke tidligere er framlagt dokumentasjon på oppfyllelse av krav på områder der det norske regelverket stiller tekniske krav eller der de norske krav avviker fra godkjenningslandets, kan oppfyllelse av disse kravene kreves dokumentert. Bil og tilhenger til bil som er godkjent i annet EØS-land kan likevel bare nektes godkjent dersom forskjellen mellom de krav som ble stilt i godkjenningslandet og norske krav er av en slik art at bilen eller tilhengeren utgjør en stor fare for trafikksikkerhet og/eller miljø.Bil i gruppe M1 og N1 som er registrert første gang 26. februar 2012 eller senere kan godkjennes etter forordning [(EU) nr. 183/2011](eu/32011r0183) uavhengig av hvor lenge kjøretøyet har vært registrert.Bil i gruppe M1 og N1 som har vært registrert i mindre enn seks måneder på tidspunkt for søknad om godkjenning, kan fremstilles for EU-enkeltgodkjenning etter [§ 4-3](forskrift/2022-06-28-1233/§4-3).
+(2) Som alternativ til første ledd kan ett av følgende være tilfredsstilt:
+
+1. Bil og tilhenger til bil som er EU-typegodkjent eller EU-enkeltgodkjent i annet EØS-land regnes som godkjent i Norge dersom det ikke er foretatt ombygging etter godkjenningen. Det foretas identitetskontroll og kan utføres stikkprøvekontroll av overensstemmelse med opprinnelig godkjenning.
+2. Bil og tilhenger til bil som er enkeltgodkjent i annet EØS-land etter 29. april 2009 eller ombygd etter EU-typegodkjenning, enkeltgodkjennes i Norge i den utstrekning det oppfyller vilkårene i forordning [(EF) 2018/858](eu/32018r0858) artikkel 45 og 46 og det fremlegges dokumentasjon fra godkjenningsmyndighetene i eksportlandet.
+3. Bil og tilhenger til bil som er godkjent i annet EØS-land eller Sveits etter dette landets nasjonale regelverk og som importeres uendret til Norge, skal ikke underlegges ny kontroll eller krav om ny dokumentasjon av forhold som tidligere er dokumentert og godkjent. Dersom det ikke tidligere er framlagt dokumentasjon på oppfyllelse av krav på områder der det norske regelverket stiller tekniske krav eller der de norske krav avviker fra godkjenningslandets, kan oppfyllelse av disse kravene kreves dokumentert. Bil og tilhenger til bil som er godkjent i annet EØS-land kan likevel bare nektes godkjent dersom forskjellen mellom de krav som ble stilt i godkjenningslandet og norske krav er av en slik art at bilen eller tilhengeren utgjør en stor fare for trafikksikkerhet og/eller miljø.
+4. Bil i gruppe M1 og N1 som er registrert første gang 26. februar 2012 eller senere kan godkjennes etter forordning [(EU) nr. 183/2011](eu/32011r0183) uavhengig av hvor lenge kjøretøyet har vært registrert.
+5. Bil i gruppe M1 og N1 som har vært registrert i mindre enn seks måneder på tidspunkt for søknad om godkjenning, kan fremstilles for EU-enkeltgodkjenning etter [§ 4-3](forskrift/2022-06-28-1233/§4-3).
 
 ### § 5-3. Godkjenning av bruktimportert kjøretøy i gruppe M1 og N1 som oppfyller tredjelands nasjonale krav
 
@@ -265,7 +295,16 @@ Bil og tilhenger til bil regnes som brukt når den har vært registrert.
 
 (2) Som dokumentasjon for oppfyllelse av kravene ved første registering kreves registreringsdokumenter eller bekreftelse fra fabrikant eller kompetent uavhengig laboratorium. Det må også framlegges registreringsdokumenter som viser at bilen har vært registrert i minimum 6 måneder i annet land enn Norge på tidspunktet for eksport for at godkjenning etter denne bestemmelse skal kunne finne sted.
 
-(3) Med følgende uttrykk menes:*original utførelse*: Kjøretøy slik det ble levert av fabrikanten(e) før første registrering,*tilnærmet original utførelse*: Kjøretøy som etter første registrering har gjennomgått moderate endringer som ikke kan antas å påvirke kjøretøyets sikkerhets- eller miljøegenskaper i negativ grad,*fabrikant*: Den som bygger komplett kjøretøy, bygger i en av flere etapper eller endrer et kjøretøy før første registrering,*registrering*: Permanent tillatelse til ibruktaking i veitrafikken, som omfatter identifisering av kjøretøyet og tildeling av registreringsdokumenter,*FMVSS*: Federal Motor Vehicle Safety Standards,*CMVSS*: Canada Motor Vehicle Safety Standards,*EPA*: United States Environmental Protection Agency,*NRCan*: Natural Resources Canada.
+(3) Med følgende uttrykk menes:
+
+1. *original utførelse*: Kjøretøy slik det ble levert av fabrikanten(e) før første registrering,
+2. *tilnærmet original utførelse*: Kjøretøy som etter første registrering har gjennomgått moderate endringer som ikke kan antas å påvirke kjøretøyets sikkerhets- eller miljøegenskaper i negativ grad,
+3. *fabrikant*: Den som bygger komplett kjøretøy, bygger i en av flere etapper eller endrer et kjøretøy før første registrering,
+4. *registrering*: Permanent tillatelse til ibruktaking i veitrafikken, som omfatter identifisering av kjøretøyet og tildeling av registreringsdokumenter,
+5. *FMVSS*: Federal Motor Vehicle Safety Standards,
+6. *CMVSS*: Canada Motor Vehicle Safety Standards,
+7. *EPA*: United States Environmental Protection Agency,
+8. *NRCan*: Natural Resources Canada.
 
 (4) I tillegg til øvrige krav i denne paragraf, gjelder kravene i [§ 11-1](forskrift/2022-06-28-1233/§11-1).
 
@@ -309,7 +348,11 @@ Bil og tilhenger til bil regnes som brukt når den har vært registrert.
 
 ### § 6-2. Kjøretøy etter forordning (EU) 2018/858 artikkel 2 nr. 3
 
-(1) For kjøretøy angitt i bokstav a–c kan produsenten søke om typegodkjenning eller enkeltgodkjenning i henhold til kapitlene 3–5. Alternativt kan kjøretøyet enkeltgodkjennes i henhold til de tekniske kravene i [kjøretøyforskriften](forskrift/1994-10-04-918).Kjøretøy utformet og konstruert primært for bruk på byggeplasser eller i steinbrudd, havne- eller lufthavnanlegg.Kjøretøy utformet og konstruert eller tilpasset for bruk av sivilforsvar, brannvesen og politi.Ethvert motordrevet kjøretøy som er utformet og konstruert spesielt for å utføre arbeid, og som på grunn av sin konstruksjon ikke er egnet til å frakte passasjerer eller gods, og som ikke er maskiner montert på et motorvognunderstell.
+(1) For kjøretøy angitt i bokstav a–c kan produsenten søke om typegodkjenning eller enkeltgodkjenning i henhold til kapitlene 3–5. Alternativt kan kjøretøyet enkeltgodkjennes i henhold til de tekniske kravene i [kjøretøyforskriften](forskrift/1994-10-04-918).
+
+1. Kjøretøy utformet og konstruert primært for bruk på byggeplasser eller i steinbrudd, havne- eller lufthavnanlegg.
+2. Kjøretøy utformet og konstruert eller tilpasset for bruk av sivilforsvar, brannvesen og politi.
+3. Ethvert motordrevet kjøretøy som er utformet og konstruert spesielt for å utføre arbeid, og som på grunn av sin konstruksjon ikke er egnet til å frakte passasjerer eller gods, og som ikke er maskiner montert på et motorvognunderstell.
 
 (2) Slike valgfrie godkjenninger berører ikke anvendelsen av direktiv [2006/42/EF](eu/32006l0042) (Maskindirektivet).
 
@@ -321,7 +364,21 @@ Bil og tilhenger til bil regnes som brukt når den har vært registrert.
 
 (2) Rallybil skal enkeltgodkjennes.
 
-(3) For slike rallybiler gjelder de vanlige tekniske krav i denne forskrift. Dog gjelder følgende:Grensen for maksimal støy er 100 dB(A) ved standstøymåling etter FN-regulativ nr. 51.Bestemmelsene om avgass gjelder ikke.Låsepinner for bilpanser tillates brukt når de er tilfredsstillende beskyttet ved gummimateriale e.l. eller det er montert passende avvisere ved låsepinnene.Piggdekk tillates brukt med følgende begrensninger:Pigglengde maksimalt 20 mm.Piggvekt maksimalt 4 gram.Pigg med sylindrisk kjerne, vinkelrett kuttet, ikke rør, med minste diameter 2,5 mm.Piggflensens diameter maksimalt 9 mm. Piggkroppen skal være homogen (symmetrisk).Antall pigger maksimalt 20 pr. lengdedesimeter.Piggmetode: Innskutt utenfra.Kan benyttes kun under konkurranse på vinterføre.Andre begrensede mål i henhold til skisse som er tatt inn i reglement gitt av Norges Bilsportforbund.
+(3) For slike rallybiler gjelder de vanlige tekniske krav i denne forskrift. Dog gjelder følgende:
+
+1. Grensen for maksimal støy er 100 dB(A) ved standstøymåling etter FN-regulativ nr. 51.
+2. Bestemmelsene om avgass gjelder ikke.
+3. Låsepinner for bilpanser tillates brukt når de er tilfredsstillende beskyttet ved gummimateriale e.l. eller det er montert passende avvisere ved låsepinnene.
+4. Piggdekk tillates brukt med følgende begrensninger:
+
+   1. Pigglengde maksimalt 20 mm.
+   2. Piggvekt maksimalt 4 gram.
+   3. Pigg med sylindrisk kjerne, vinkelrett kuttet, ikke rør, med minste diameter 2,5 mm.
+   4. Piggflensens diameter maksimalt 9 mm. Piggkroppen skal være homogen (symmetrisk).
+   5. Antall pigger maksimalt 20 pr. lengdedesimeter.
+   6. Piggmetode: Innskutt utenfra.
+   7. Kan benyttes kun under konkurranse på vinterføre.
+   8. Andre begrensede mål i henhold til skisse som er tatt inn i reglement gitt av Norges Bilsportforbund.
 
 (4) Dokumentasjon for bremser, støy, avgass og festepunkter for bilbelter, kreves ikke fremlagt. Bilbelte som skal være E-merket eller FIA-godkjent, kan ha flere enn 3 festepunkter.
 
@@ -345,7 +402,12 @@ Bil og tilhenger til bil regnes som brukt når den har vært registrert.
 
 (2) Kjøretøy som tas med fra utlandet i forbindelse med flytting til eller etablering i Norge, og som registreres på kjennemerker med gule tegn på blå, reflekterende bunn («diplomatkjennemerker») eller som registreres på internasjonale organisasjoner i Norge eller deres personale som nyter personlig tollfrihet, i den grad dette følger av folkeretten eller av særskilt overenskomst, forutsatt at kjøretøyet importeres til eget bruk, og det gis avgiftsfrihet, avgiftsnedsettelse eller avgiftstilskudd for engangsavgift, kan godkjennes etter tredje ledd. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
 
-(3) Kjøretøy som omfattes av første eller annet ledd må tilfredsstille kravene i motorvognforskriftene av 3. juni 1942 samt bestemmelser gitt med hjemmel i disse. I tillegg skal følgende krav i [kjøretøyforskriften](forskrift/1994-10-04-918) være tilfredsstilt:Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.Krav om bilbelter i forsetet, jf. kap. 16, dog slik at bilbelter som er montert ved importen skal godkjennes såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd fast forbundet med hverandre (ikke delbart). Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.Krav om speil, jf. [kap. 30](forskrift/1994-10-04-918/kap30).Krav til LPG-drivstoffanlegg på bil, jf. [§ 22-6](forskrift/1994-10-04-918/§22-6).
+(3) Kjøretøy som omfattes av første eller annet ledd må tilfredsstille kravene i motorvognforskriftene av 3. juni 1942 samt bestemmelser gitt med hjemmel i disse. I tillegg skal følgende krav i [kjøretøyforskriften](forskrift/1994-10-04-918) være tilfredsstilt:
+
+1. Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.
+2. Krav om bilbelter i forsetet, jf. kap. 16, dog slik at bilbelter som er montert ved importen skal godkjennes såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd fast forbundet med hverandre (ikke delbart). Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.
+3. Krav om speil, jf. [kap. 30](forskrift/1994-10-04-918/kap30).
+4. Krav til LPG-drivstoffanlegg på bil, jf. [§ 22-6](forskrift/1994-10-04-918/§22-6).
 
 (4) Bil og tilhenger til bil som tas med til Norge og registreres på det amerikanske forsvaret eller dets avtalepartnere, eller på deres personale eller personalets familie, i henhold til [Tilleggsavtale mellom Norge og USA om forsvarssamarbeid](traktat/2021-04-16-3) av 16. april 2021 artikkel IX, skal godkjennes uten ytterligere krav. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
 
@@ -359,9 +421,17 @@ Kjøretøy som utelukkende er utformet, konstruert eller tilpasset til bruk av F
 
 ### § 6-8. Bevaringsverdige kjøretøy
 
-(1) Bestemmelsene i denne paragraf gjelder for:kjøretøy som tidligere ikke har vært registrert i Norge,kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,kjøretøy som tidligere har vært registrert på Forsvaret.
+(1) Bestemmelsene i denne paragraf gjelder for:
 
-(2) DefinisjonerMed *«original utførelse»* menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.Med *«tilnærmet original utførelse»* menes at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og godkjent i den periode da kjøretøyet var i vanlig bruk.
+1. kjøretøy som tidligere ikke har vært registrert i Norge,
+2. kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,
+3. kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,
+4. kjøretøy som tidligere har vært registrert på Forsvaret.
+
+(2) Definisjoner
+
+1. Med *«original utførelse»* menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.
+2. Med *«tilnærmet original utførelse»* menes at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og godkjent i den periode da kjøretøyet var i vanlig bruk.
 
 (3) Kjøretøy som er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelsen selv om det ikke oppfyller betingelsene i [kapittel 5](forskrift/2022-06-28-1233/kap5). Innretning/utstyr som har betydning for sikkerheten, må virke tilfredsstillende. Kjøretøy i denne gruppen omfattes ikke av senere tekniske bestemmelser som er gjort tilbakevirkende.
 
@@ -369,9 +439,16 @@ Kjøretøy som utelukkende er utformet, konstruert eller tilpasset til bruk av F
 
 (5) Kjøretøy som er yngre enn 15 år og er i tilnærmet original stand, kan i helt spesielle tilfelle godtas som bevaringsverdig og godkjennes selv om det ikke oppfyller betingelsene i kapitlene 2–5. Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
 
-(6) Kjøretøy som er godkjent etter tredje, fjerde eller femte ledd, skal ha følgende registreringsvilkår:Bevaringsverdig kjøretøy. Må ikke endres konstruktivt eller utseendemessig.
+(6) Kjøretøy som er godkjent etter tredje, fjerde eller femte ledd, skal ha følgende registreringsvilkår:
 
-(7) Kjøretøy som er godkjent etter tredje eller fjerde ledd, skal i tillegg ha følgende bruksvilkår:Må bare benyttesved spesielle anledninger som f.eks. motorhistoriske samlinger og løpellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.
+1. Bevaringsverdig kjøretøy. Må ikke endres konstruktivt eller utseendemessig.
+
+(7) Kjøretøy som er godkjent etter tredje eller fjerde ledd, skal i tillegg ha følgende bruksvilkår:
+
+1. Må bare benyttes
+
+   1. ved spesielle anledninger som f.eks. motorhistoriske samlinger og løp
+   2. ellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.
 
 (8) Ved deltagelse i motorhistoriske samlinger og løp, men ikke kjøring til eller fra, kan kjøretøy, som et unntak fra annet ledd, ha den utførelse det hadde fra fabrikantens side.
 
@@ -385,13 +462,32 @@ Kjøretøy som utelukkende er utformet, konstruert eller tilpasset til bruk av F
 
 ### § 6-9. Godkjenning av tilhenger for kjøring i hastighet over 80 km/t – Tempo 100-ordning
 
-(1) Tilhenger i gruppe O1 eller O2 kan gis tilleggsgodkjenning for kjøring i hastighet over 80 km/t etter følgende krav:Tilhengeren må være en påhengsvogn.Tilhengeren må være konstruert for å kjøre i minst 100 km/t. Dokumentasjon fra fabrikanten kan kreves fremlagt.Dekkene må være nyere enn 6 år, og bestemmes på grunnlag av produksjonstidspunkt som dekkprodusenten har merket dekket med.Dekkenes hastighetsmerking må være på 120 km/t eller mer.Tilhenger som er 4 år eller eldre regnet fra første gangs registrering i Norge eller utlandet, må ha godkjent periodisk kjøretøykontroll.
+(1) Tilhenger i gruppe O1 eller O2 kan gis tilleggsgodkjenning for kjøring i hastighet over 80 km/t etter følgende krav:
+
+1. Tilhengeren må være en påhengsvogn.
+2. Tilhengeren må være konstruert for å kjøre i minst 100 km/t. Dokumentasjon fra fabrikanten kan kreves fremlagt.
+3. Dekkene må være nyere enn 6 år, og bestemmes på grunnlag av produksjonstidspunkt som dekkprodusenten har merket dekket med.
+4. Dekkenes hastighetsmerking må være på 120 km/t eller mer.
+5. Tilhenger som er 4 år eller eldre regnet fra første gangs registrering i Norge eller utlandet, må ha godkjent periodisk kjøretøykontroll.
 
 (2) Tilhenger som godkjennes etter denne bestemmelse skal påsettes merke som angir at den er godkjent for kjøring i 100 km/t. Merket skal plasseres bak på kjøretøyet, på en slik måte at det ikke dekkes til under kjøring. Merket skal være utformet som angitt i [vedlegg 3](forskrift/2022-06-28-1233/vedlegg3), del B, til denne forskrift. Annet merke som kan forveksles med dette, unntatt merke etter annet lands Tempo 100-ordning, tillates ikke. Dersom merket er slitt eller skadet, må dette erstattes med nytt merke. Merket skal fjernes dersom tilhengeren meldes ut av Tempo 100-ordningen eller dersom den ikke lenger oppfyller ett eller flere av vilkårene i ordningen.
 
 (3) Tilhenger som godkjennes etter denne bestemmelse skal ha anmerkning i vognkortet om at den er spesielt godkjent for å kjøre i 100 km/t.
 
-(4) Ved godkjenning skal det utstedes en Tempo 100-godkjenningsattest med følgende opplysninger:Identifikasjon av kjøretøyet.Egnethet til Tempo 100-kjøring.Krav til dekk.Tillatt koblingslast.Tillatt last aksel/aksler.Tillatt totalvekt.Om tilhengeren har bremser.Om tilhengeren har hydrauliske støtdempere.Om tilhengeren har stabiliseringsanordning, det vil si en kulekobling som er godkjent og merket i henhold til ISO-standard 11555-1.Minimum egenvekt med fører på trekkende bil beregnet etter [vedlegg 3](forskrift/2022-06-28-1233/vedlegg3), del A, til denne forskrift.Minimum tillatt totalvekt for trekkende bil.Minimum tillatt hengervekt med brems for trekkende bil.
+(4) Ved godkjenning skal det utstedes en Tempo 100-godkjenningsattest med følgende opplysninger:
+
+1. Identifikasjon av kjøretøyet.
+2. Egnethet til Tempo 100-kjøring.
+3. Krav til dekk.
+4. Tillatt koblingslast.
+5. Tillatt last aksel/aksler.
+6. Tillatt totalvekt.
+7. Om tilhengeren har bremser.
+8. Om tilhengeren har hydrauliske støtdempere.
+9. Om tilhengeren har stabiliseringsanordning, det vil si en kulekobling som er godkjent og merket i henhold til ISO-standard 11555-1.
+10. Minimum egenvekt med fører på trekkende bil beregnet etter [vedlegg 3](forskrift/2022-06-28-1233/vedlegg3), del A, til denne forskrift.
+11. Minimum tillatt totalvekt for trekkende bil.
+12. Minimum tillatt hengervekt med brems for trekkende bil.
 
 ### Kapittel 7 – Endring av godkjent kjøretøy
 
@@ -417,13 +513,27 @@ Kjøretøy som utelukkende er utformet, konstruert eller tilpasset til bruk av F
 
 ### § 7-3. Definisjoner
 
-Følgende definisjoner gjelder:*Understell*: Den komplette enhet bestående av ramme eller underdel (bunn) i selvbærende karosseri, for- og bakstillinger, hjul, styreinnretning, motor og drivverk.*Karosseri*: Den enhet som sammen med understellet utgjør det komplette kjøretøy.*Ramme*: Den bærende enhet som karosseriet samt for- og bakstilling, hjul, styreinnretning, motor og drivverk er montert til.*Selvbærende karosseri*: Karosseri hvor bunn og overdel er bygd i ett, som er spesielt forsterket og som for- og bakstilling, hjul, styreinnretning, motor og drivverk kan monteres direkte til – eventuelt via korte rammeseksjoner – uten at særskilt ramme under hele kjøretøyet er nødvendig.*Reparasjon*: Utbedringer av slitasjemangler, karosseri- og rustskader mv., herunder utskifting av deler og komponenter, som kan anses som vanlig vedlikehold og som ikke er å anse som ombygging eller oppbygging.*Ombygging*: Forandringer som medfører at kjøretøyets tekniske spesifikasjoner, utseende mv. blir endret i forhold til den utførelse kjøretøyet hadde ved første gangs registrering i riket, eventuelt i forhold til den utførelse det senere er godkjent med av godkjenningsmyndigheten, men hvor endringen ikke er av større omfang enn at kjøretøyet som helhet anses som samme kjøretøy som det opprinnelige kjøretøyet.*Oppbygging*: Produksjon/sammensetning av kjøretøy av nye og/eller brukte deler, av to eller flere kjøretøy, eller av deler og kjøretøy som nevnt i kombinasjon, til et nytt kjøretøy som tidligere ikke har vært godkjent i riket.*Oppbygging etter skade*: oppbygging hvor skattekontoret har gitt fritak for engangsavgift fordi det dreier seg om oppbygging etter skade, og det oppbygde kjøretøy er av samme type som det opprinnelige kjøretøy.*Godkjenningspliktig endring:* endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet, eller der det følger av de enkelte bestemmelser i denne forskrift. Det samme gjelder andre endringer av kjøretøyet som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
+Følgende definisjoner gjelder:
+
+1. *Understell*: Den komplette enhet bestående av ramme eller underdel (bunn) i selvbærende karosseri, for- og bakstillinger, hjul, styreinnretning, motor og drivverk.
+2. *Karosseri*: Den enhet som sammen med understellet utgjør det komplette kjøretøy.
+3. *Ramme*: Den bærende enhet som karosseriet samt for- og bakstilling, hjul, styreinnretning, motor og drivverk er montert til.
+4. *Selvbærende karosseri*: Karosseri hvor bunn og overdel er bygd i ett, som er spesielt forsterket og som for- og bakstilling, hjul, styreinnretning, motor og drivverk kan monteres direkte til – eventuelt via korte rammeseksjoner – uten at særskilt ramme under hele kjøretøyet er nødvendig.
+5. *Reparasjon*: Utbedringer av slitasjemangler, karosseri- og rustskader mv., herunder utskifting av deler og komponenter, som kan anses som vanlig vedlikehold og som ikke er å anse som ombygging eller oppbygging.
+6. *Ombygging*: Forandringer som medfører at kjøretøyets tekniske spesifikasjoner, utseende mv. blir endret i forhold til den utførelse kjøretøyet hadde ved første gangs registrering i riket, eventuelt i forhold til den utførelse det senere er godkjent med av godkjenningsmyndigheten, men hvor endringen ikke er av større omfang enn at kjøretøyet som helhet anses som samme kjøretøy som det opprinnelige kjøretøyet.
+7. *Oppbygging*: Produksjon/sammensetning av kjøretøy av nye og/eller brukte deler, av to eller flere kjøretøy, eller av deler og kjøretøy som nevnt i kombinasjon, til et nytt kjøretøy som tidligere ikke har vært godkjent i riket.
+8. *Oppbygging etter skade*: oppbygging hvor skattekontoret har gitt fritak for engangsavgift fordi det dreier seg om oppbygging etter skade, og det oppbygde kjøretøy er av samme type som det opprinnelige kjøretøy.
+9. *Godkjenningspliktig endring:* endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet, eller der det følger av de enkelte bestemmelser i denne forskrift. Det samme gjelder andre endringer av kjøretøyet som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
 
 ### § 7-4. Reparasjon av kjøretøy
 
 (1) For bil og tilhenger til bil som er reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, skal det foreligge dokumentasjon for arbeidet i henhold til [verkstedforskriften § 14a](forskrift/2020-10-28-2170/§14a). Med «omfattende skade» menes skade eller deformasjon på kjøretøyets struktur eller bærende elementer av et slikt omfang at kjøretøyet må målrettes.
 
-(2) Bil og tilhenger til bil anses som reparert bl.a. når:karosseri til kjøretøy med ramme (ikke selvbærende karosseri) blir skiftet ut med karosseri av samme type og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.ramme skiftes ut med ramme av samme type uten at det foretas omfattende utskifting av deler og komponenter for øvrig.en forpart og en bakpart fra to kjøretøy med selvbærende karosseri av identisk type sammenføyes, og det ikke foretas omfattende utskiftning av deler og komponenter for øvrig.
+(2) Bil og tilhenger til bil anses som reparert bl.a. når:
+
+1. karosseri til kjøretøy med ramme (ikke selvbærende karosseri) blir skiftet ut med karosseri av samme type og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.
+2. ramme skiftes ut med ramme av samme type uten at det foretas omfattende utskifting av deler og komponenter for øvrig.
+3. en forpart og en bakpart fra to kjøretøy med selvbærende karosseri av identisk type sammenføyes, og det ikke foretas omfattende utskiftning av deler og komponenter for øvrig.
 
 > Endret ved forskrift [13 mai 2026 nr. 853](forskrift/2026-05-13-853) (i kraft 8 juni 2026).
 
@@ -437,7 +547,12 @@ Følgende definisjoner gjelder:*Understell*: Den komplette enhet bestående av r
 
 (4) Kjøretøy skal framstilles for godkjenningsmyndigheten til ny godkjenning dersom det foretas ombygging eller endring av kjøretøyet som gjør at det ikke lenger er i samsvar med vognkortet. Det samme gjelder andre ombygginger eller endringer av kjøretøy som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
 
-(5) Kjøretøy anses som ombygd bl.a. når:personbil (M1) ominnredes til varebil (N1), og omvendt.karosseri til kjøretøy med chassisramme (ikke selvbærende karosseri) skiftes ut med karosseri av samme eller tilnærmet samme type, f.eks. 4-dørs til 2-dørs, og det ikke foretas omfattende ombygging eller utskifting av deler og komponenter for øvrig. Det forutsettes at karosseriet det skiftes til passer rett på rammen, uten modifikasjon av festepunkter og lignende.det monteres ekstra aksel, og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.det på elektrisk drevet motorvogn foretas endring av batterikjemi eller bytting til batteri med lavere eller høyere spenning enn originalt.
+(5) Kjøretøy anses som ombygd bl.a. når:
+
+1. personbil (M1) ominnredes til varebil (N1), og omvendt.
+2. karosseri til kjøretøy med chassisramme (ikke selvbærende karosseri) skiftes ut med karosseri av samme eller tilnærmet samme type, f.eks. 4-dørs til 2-dørs, og det ikke foretas omfattende ombygging eller utskifting av deler og komponenter for øvrig. Det forutsettes at karosseriet det skiftes til passer rett på rammen, uten modifikasjon av festepunkter og lignende.
+3. det monteres ekstra aksel, og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.
+4. det på elektrisk drevet motorvogn foretas endring av batterikjemi eller bytting til batteri med lavere eller høyere spenning enn originalt.
 
 (6) Ved ombygging som innebærer at kjøretøyet faller inn under definisjonen for annen kjøretøygruppe, skal kjøretøyet registreres/omregistreres til den gruppe som kjøretøyet i ombygd utførelse hører inn under.
 
@@ -445,7 +560,12 @@ Følgende definisjoner gjelder:*Understell*: Den komplette enhet bestående av r
 
 (1) Kjøretøy som er oppbygd, skal før det tas i bruk, fremstilles for godkjenningsmyndigheten for godkjenning.
 
-(2) Kjøretøyet anses som oppbygd bl.a. når:karosseri til kjøretøy med ramme (ikke selvbærende karosseri) blir skiftet ut samtidig eller i forbindelse med omfattende utskiftning av andre deler og komponenter f.eks. rammen.karosseri til kjøretøy med ramme skiftes ut med karosseri av annen utførelse, og/eller når karosseriet det skiftes til ikke passer rett på rammen uten modifikasjon av festepunkter og lignende.selvbærende karosseri er skiftet.ramme er skiftet ut samtidig eller i forbindelse med at omfattende utskifting av andre deler og komponenter er foretatt.
+(2) Kjøretøyet anses som oppbygd bl.a. når:
+
+1. karosseri til kjøretøy med ramme (ikke selvbærende karosseri) blir skiftet ut samtidig eller i forbindelse med omfattende utskiftning av andre deler og komponenter f.eks. rammen.
+2. karosseri til kjøretøy med ramme skiftes ut med karosseri av annen utførelse, og/eller når karosseriet det skiftes til ikke passer rett på rammen uten modifikasjon av festepunkter og lignende.
+3. selvbærende karosseri er skiftet.
+4. ramme er skiftet ut samtidig eller i forbindelse med at omfattende utskifting av andre deler og komponenter er foretatt.
 
 (3) Ved godkjenning av oppbygd kjøretøy skal de tekniske krav som er angitt i denne forskrift og som gjelder for kjøretøy som registreres første gang i riket på angjeldende tidspunkt, legges til grunn for godkjenningen. Dog kan oppbygd kjøretøy fritas for vesentlige destruktive prøver, som f.eks. kollisjonsprøver, dersom relevant dokumentasjon kan fremlegges fra kompetent, uavhengig laboratorium eller tilsvarende for at kjøretøyet oppfyller de krav som skulle vært kontrollert ved slike prøver.
 
@@ -499,7 +619,18 @@ Følgende definisjoner gjelder:*Understell*: Den komplette enhet bestående av r
 
 (1) Bilbelter i alle typer kjøretøy montert på plasser som ikke har originale festepunkter, skal være av type som minst tilfredsstiller kravene i FN-regulativ nr. 16.04 eller kravene i direktiv [77/541/EØF](eu/31977l0541).
 
-(2) Festepunktene skal minst tilfredsstille kravene i FN-regulativ nr. 14.02 eller kravene i direktiv [76/115/EØF](eu/31976l0115). Alternativt kan festepunktene godkjennes hvis de kan tåle en fremoverrettet prøvekraft slik:Trepunktsbelte:5 kN på øvre festepunkt,10 kN på fellesfeste og5 kN på nedre festepunkt.Hoftebelte:10 kN for hvert festepunkt.Festepunktenes plassering vurderes ved godkjenning.
+(2) Festepunktene skal minst tilfredsstille kravene i FN-regulativ nr. 14.02 eller kravene i direktiv [76/115/EØF](eu/31976l0115). Alternativt kan festepunktene godkjennes hvis de kan tåle en fremoverrettet prøvekraft slik:
+
+1. Trepunktsbelte:
+
+   1. 5 kN på øvre festepunkt,
+   2. 10 kN på fellesfeste og
+   3. 5 kN på nedre festepunkt.
+2. Hoftebelte:
+
+   1. 10 kN for hvert festepunkt.
+
+Festepunktenes plassering vurderes ved godkjenning.
 
 ### § 7-12. Endring av sitteinnretninger og persontall
 
@@ -581,7 +712,11 @@ Det er ingen begrensning til maksimal tillatt høyde for kjøretøy i gruppe M2,
 
 (1) [§ 10-1](forskrift/2022-06-28-1233/§10-1) gjelder tilsvarende.
 
-(2) Godkjenningsmyndigheten fastsetter største aksellast, boggilast og totalvekt som kjøretøy skal godkjennes med, i forhold til fabrikantens garanti og følgende krav til massedistribusjon for ferdigbygde kjøretøy:Forordning [(EU) nr. 1230/2012](eu/32012r1230), Vedlegg I del C respektive D, nr. 2: Definisjonene i 2.1. benyttes, vilkårene i 2.2 (2.2.1 og 2.2.2.) skal være oppfylt.Kjøretøy som er slik innrettet at lasten, uansett dens størrelse, har samme angrepspunkt på kjøretøyet (eksempelvis fast plassert svingskive) skal godkjennes for mindre aksellast, boggilast og totalvekt enn det som er gitt av største tekniske masse oppgitt av fabrikant, når angrepspunktet har slik plassering at de største masser ikke kan utnyttes.Største totalvekt, aksellast og boggilast for kjøretøy beregnes ut fra de forskjellige lasters (personer og gods) angrepspunkt i forhold til akselsentrene og full utnyttelse av største totalvekt eller største aksel/boggilast bak eller foran.
+(2) Godkjenningsmyndigheten fastsetter største aksellast, boggilast og totalvekt som kjøretøy skal godkjennes med, i forhold til fabrikantens garanti og følgende krav til massedistribusjon for ferdigbygde kjøretøy:
+
+1. Forordning [(EU) nr. 1230/2012](eu/32012r1230), Vedlegg I del C respektive D, nr. 2: Definisjonene i 2.1. benyttes, vilkårene i 2.2 (2.2.1 og 2.2.2.) skal være oppfylt.
+2. Kjøretøy som er slik innrettet at lasten, uansett dens størrelse, har samme angrepspunkt på kjøretøyet (eksempelvis fast plassert svingskive) skal godkjennes for mindre aksellast, boggilast og totalvekt enn det som er gitt av største tekniske masse oppgitt av fabrikant, når angrepspunktet har slik plassering at de største masser ikke kan utnyttes.
+3. Største totalvekt, aksellast og boggilast for kjøretøy beregnes ut fra de forskjellige lasters (personer og gods) angrepspunkt i forhold til akselsentrene og full utnyttelse av største totalvekt eller største aksel/boggilast bak eller foran.
 
 ### § 10-3. Masser og dimensjoner for kjøretøy i gruppe N3
 
@@ -613,13 +748,19 @@ Det er ingen begrensning til maksimal tillatt høyde for kjøretøy i gruppe M2,
 
 ### § 10-6. Avansert nødbremsesystem (AEBS) for kjøretøy i gruppe M2, M3, N2 og N3
 
-(1) I tillegg til kjøretøy som er unntatt etter forordning (EU) nr. 347/2012 artikkel 1, unntas følgende kjøretøy kravet til AEBS ettersom det er forutsatt at bruksområdet medfører at systemet gir begrenset eller ingen sikkerhetsgevinst:Skogs- og anleggskjøretøy,Kjøretøy som utfører spesielle funksjoner, blant annet betongbil, bergingsbil, brannbil, tømmerbil, lastebil med tipp, kjøretøy for rengjøring, gatefeiing og transport av avfall.
+(1) I tillegg til kjøretøy som er unntatt etter forordning (EU) nr. 347/2012 artikkel 1, unntas følgende kjøretøy kravet til AEBS ettersom det er forutsatt at bruksområdet medfører at systemet gir begrenset eller ingen sikkerhetsgevinst:
+
+1. Skogs- og anleggskjøretøy,
+2. Kjøretøy som utfører spesielle funksjoner, blant annet betongbil, bergingsbil, brannbil, tømmerbil, lastebil med tipp, kjøretøy for rengjøring, gatefeiing og transport av avfall.
 
 (2) Andre kjøretøy som utfører spesielle funksjoner kan unntas fra kravet om montering av AEBS dersom bruksområdet medfører at systemet gir begrensede eller ingen sikkerhetsgevinster.
 
 ### § 10-7. Kjørefeltvarsler (LDWS) for kjøretøy i gruppe M2, M3, N2 og N3
 
-(1) I tillegg til kjøretøy som er unntatt etter forordning (EU) nr. 351/2012 artikkel 1, unntas følgende kjøretøy kravet til LDWS ettersom det er forutsatt at bruksområdet medfører at systemet gir begrenset eller ingen sikkerhetsgevinst:Skogs- og anleggskjøretøy,Kjøretøy som utfører spesielle funksjoner. Som slike kjøretøy anses blant annet betongbil, bergingsbil, brannbil, tømmerbil, lastebil med tipp, kjøretøy for rengjøring, gatefeiing og transport av avfall, eller liknende.
+(1) I tillegg til kjøretøy som er unntatt etter forordning (EU) nr. 351/2012 artikkel 1, unntas følgende kjøretøy kravet til LDWS ettersom det er forutsatt at bruksområdet medfører at systemet gir begrenset eller ingen sikkerhetsgevinst:
+
+1. Skogs- og anleggskjøretøy,
+2. Kjøretøy som utfører spesielle funksjoner. Som slike kjøretøy anses blant annet betongbil, bergingsbil, brannbil, tømmerbil, lastebil med tipp, kjøretøy for rengjøring, gatefeiing og transport av avfall, eller liknende.
 
 (2) Andre kjøretøy som utfører spesielle funksjoner kan unntas fra kravet om montering av LDWS dersom bruksområdet medfører at systemet gir begrensede eller ingen sikkerhetsgevinster.
 
@@ -641,19 +782,77 @@ For enkeltgodkjenning av bil kan det godkjennes andre tekniske løsninger for ak
 
 ### § 11-1. Kjøretøy i gruppe i gruppe M1 og N1
 
-(1) Følgende tekniske krav gjelder:bilen skal være merket med preget understellsnummer i bærende konstruksjonsdel,godkjent bilbelte skal være montert på sitteplasser hvor dette kreves etter norsk forskrift i forhold til dato for førstegangsregistrering,sidevendt sitteinnretning godkjennes ikke på biler registrert første gang 20. oktober 2007 eller senere.
+(1) Følgende tekniske krav gjelder:
 
-(2) For bil som skal godkjennes for trekking av tilhenger gjelder følgende:største tilhengervekt med driftsbrems settes til det laveste av alternativene 1–3, men uansett slik at den ikke overstiger 3500 kg:fabrikantens garanti,bilens totalvekt (for terrengbil 1,5 ganger bilens totalvekt),tilhengerfestets vektgaranti,største tilhengervekt uten driftsbrems settes til det laveste av alternativene 1 og 2, men uansett slik at den ikke overstiger 750 kg:fabrikantens garanti,halvparten av bilens egenvekt,dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres følgende merknad i vognkortet:«Bilen er ikke utstyrt med standard europeisk tilhengerkobling. Det er førerens ansvar å påse at tilhengerens koblingsanordning passer sammen med bilens koblingsdel.»
+1. bilen skal være merket med preget understellsnummer i bærende konstruksjonsdel,
+2. godkjent bilbelte skal være montert på sitteplasser hvor dette kreves etter norsk forskrift i forhold til dato for førstegangsregistrering,
+3. sidevendt sitteinnretning godkjennes ikke på biler registrert første gang 20. oktober 2007 eller senere.
+
+(2) For bil som skal godkjennes for trekking av tilhenger gjelder følgende:
+
+1. største tilhengervekt med driftsbrems settes til det laveste av alternativene 1–3, men uansett slik at den ikke overstiger 3500 kg:
+
+   1. fabrikantens garanti,
+   2. bilens totalvekt (for terrengbil 1,5 ganger bilens totalvekt),
+   3. tilhengerfestets vektgaranti,
+2. største tilhengervekt uten driftsbrems settes til det laveste av alternativene 1 og 2, men uansett slik at den ikke overstiger 750 kg:
+
+   1. fabrikantens garanti,
+   2. halvparten av bilens egenvekt,
+3. dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres følgende merknad i vognkortet:
+
+   «Bilen er ikke utstyrt med standard europeisk tilhengerkobling. Det er førerens ansvar å påse at tilhengerens koblingsanordning passer sammen med bilens koblingsdel.»
 
 ### § 11-2. Kjøretøy i gruppe M2 og M3, N2 og N3
 
-(1) Følgende krav gjelder:bilen skal være merket med preget understellsnummer i bærende konstruksjonsdel,bilen skal ha brems på samtlige akslinger og tilfredsstille krav til bremsevirkning for kjøretøy i bruk, jf. [forskrift om periodisk kontroll av kjøretøy, vedlegg 1](forskrift/2009-05-13-591/vedlegg1) Kontrollveiledning, og [forskrift om kontroll av kjøretøy langs veg § 3](forskrift/2017-10-13-1615/§3),godkjent bilbelte skal være montert på sitteplasser hvor dette kreves etter norsk forskrift i forhold til dato for førstegangsregistrering,bilen skal tilfredsstille krav til skjerming av hjul,bilen skal tilfredsstille krav til underkjøringshinder,bilen skal tilfredsstille krav til sidehinder,bilen skal tilfredsstille krav til hastighetsbegrenser og fartsskriver,kravene som angitt i bokstavene d–g relaterer seg til kravene slik de var i Norge på det tidspunkt kjøretøyet var registrert første gang i annet land,for kjøretøy bygd opp i Norge skal påbygget tilfredsstille de krav som var gjeldende i Norge på det tidspunkt kjøretøyet var førstegangsregistrert i annet land,for registrering på ordinære kjennemerker (hvite med sorte tall og bokstaver) må bilen tilfredsstille bruksforskriftens krav til største dimensjoner og til sporingsegenskaper,sidevendt sitteinnretning godkjennes ikke på biler registrert første gang 20. oktober 2007 eller senere.
+(1) Følgende krav gjelder:
 
-(2) For bil som skal godkjennes for trekking av tilhenger gjelder følgende:største tilhengervekt settes til det laveste av alternativene 1 og 2:fabrikantens garanti,tilhengerfestets vektgaranti,for tilhengervekter over 3500 kg kreves gjennomgående driftsbrems,for bil gruppe M2 og M3 skal største tilhengervekt ikke overstige 3500 kg,dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,dersom bil med trykkluftbremser ikke har kobling for ABS/EBS i henhold til ISO 7638-1, skal det gjøres merknad om dette i vognkortet,følgende vognkortanmerkning(er) benyttes slik det passer:«Bilen er ikke utstyrt med standard europeisk tilhengerkobling.»«Bilen er ikke utstyrt med standard europeisk kontakt for ABS/EBS, og kan ikke trekke tilhenger som krever slik tilkobling.»«Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
+1. bilen skal være merket med preget understellsnummer i bærende konstruksjonsdel,
+2. bilen skal ha brems på samtlige akslinger og tilfredsstille krav til bremsevirkning for kjøretøy i bruk, jf. [forskrift om periodisk kontroll av kjøretøy, vedlegg 1](forskrift/2009-05-13-591/vedlegg1) Kontrollveiledning, og [forskrift om kontroll av kjøretøy langs veg § 3](forskrift/2017-10-13-1615/§3),
+3. godkjent bilbelte skal være montert på sitteplasser hvor dette kreves etter norsk forskrift i forhold til dato for førstegangsregistrering,
+4. bilen skal tilfredsstille krav til skjerming av hjul,
+5. bilen skal tilfredsstille krav til underkjøringshinder,
+6. bilen skal tilfredsstille krav til sidehinder,
+7. bilen skal tilfredsstille krav til hastighetsbegrenser og fartsskriver,
+8. kravene som angitt i bokstavene d–g relaterer seg til kravene slik de var i Norge på det tidspunkt kjøretøyet var registrert første gang i annet land,
+9. for kjøretøy bygd opp i Norge skal påbygget tilfredsstille de krav som var gjeldende i Norge på det tidspunkt kjøretøyet var førstegangsregistrert i annet land,
+10. for registrering på ordinære kjennemerker (hvite med sorte tall og bokstaver) må bilen tilfredsstille bruksforskriftens krav til største dimensjoner og til sporingsegenskaper,
+11. sidevendt sitteinnretning godkjennes ikke på biler registrert første gang 20. oktober 2007 eller senere.
+
+(2) For bil som skal godkjennes for trekking av tilhenger gjelder følgende:
+
+1. største tilhengervekt settes til det laveste av alternativene 1 og 2:
+
+   1. fabrikantens garanti,
+   2. tilhengerfestets vektgaranti,
+2. for tilhengervekter over 3500 kg kreves gjennomgående driftsbrems,
+3. for bil gruppe M2 og M3 skal største tilhengervekt ikke overstige 3500 kg,
+4. dersom tilhengerfestets koblingsdel ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,
+5. dersom bil med trykkluftbremser ikke har kobling for ABS/EBS i henhold til ISO 7638-1, skal det gjøres merknad om dette i vognkortet,
+6. følgende vognkortanmerkning(er) benyttes slik det passer:
+
+   - «Bilen er ikke utstyrt med standard europeisk tilhengerkobling.»
+   - «Bilen er ikke utstyrt med standard europeisk kontakt for ABS/EBS, og kan ikke trekke tilhenger som krever slik tilkobling.»
+   - «Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
 
 ### § 11-3. Kjøretøy i gruppe O
 
-Følgende krav gjelder:tilhengeren skal være merket med preget understellsnummer i bærende konstruksjonsdel,tilhenger med tillatt totalvekt over 750 kg skal ha brems på samtlige akslinger,for registrering på ordinære kjennemerker må tilhengeren tilfredsstille bruksforskriftens krav til største dimensjoner og til sporingsegenskaper,tilhengeren skal tilfredsstille krav til skjerming av hjul,tilhengeren skal tilfredsstille krav til underkjøringshinder,tilhengeren skal tilfredsstille krav til sidehinder,kravene som angitt i bokstavene d–f relaterer seg til kravene slik de var i Norge på det tidspunkt kjøretøyet var registrert første gang i annet land,dersom tilhengerens koblingsanordning ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,dersom tilhengerens bremsesystem har en type tilkobling til bilen som ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,følgende vognkortanmerkning(er) benyttes slik det passer:«Tilhengeren er ikke utstyrt med standard europeisk tilhengerkobling.»«Tilhengeren er ikke utstyrt med standard europeisk tilkobling av bremser.»«Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
+Følgende krav gjelder:
+
+1. tilhengeren skal være merket med preget understellsnummer i bærende konstruksjonsdel,
+2. tilhenger med tillatt totalvekt over 750 kg skal ha brems på samtlige akslinger,
+3. for registrering på ordinære kjennemerker må tilhengeren tilfredsstille bruksforskriftens krav til største dimensjoner og til sporingsegenskaper,
+4. tilhengeren skal tilfredsstille krav til skjerming av hjul,
+5. tilhengeren skal tilfredsstille krav til underkjøringshinder,
+6. tilhengeren skal tilfredsstille krav til sidehinder,
+7. kravene som angitt i bokstavene d–f relaterer seg til kravene slik de var i Norge på det tidspunkt kjøretøyet var registrert første gang i annet land,
+8. dersom tilhengerens koblingsanordning ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,
+9. dersom tilhengerens bremsesystem har en type tilkobling til bilen som ikke er i henhold til europeisk standard, skal det gjøres merknad om dette i vognkortet,
+10. følgende vognkortanmerkning(er) benyttes slik det passer:
+
+    - «Tilhengeren er ikke utstyrt med standard europeisk tilhengerkobling.»
+    - «Tilhengeren er ikke utstyrt med standard europeisk tilkobling av bremser.»
+    - «Det er førerens ansvar å påse at tilhengeren passer sammen med bilen.»
 
 ### Kapittel 12 – Krav til spesielle kjøretøy
 
@@ -661,7 +860,11 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (1) Alt utstyr i bårerom, herunder båre, skal kunne innfestes eller innplasseres i kjøretøyet på en forsvarlig måte. Båre skal være utstyrt slik at liggende pasient kan fastholdes til båren på en forsvarlig måte. Disse kravene anses oppfylt hvis kravene i europeisk ambulansestandard NS-EN-1789, pkt. 4.5.9 og 5.3, er oppfylt.
 
-(2) Det skal være montert beskyttelsesvegg mellom fører- og bårerom. Denne skal tilfredsstille kravene i tredje ledd eller følgende krav:Veggen skal dekke hele rommets bredde og høyde,Hvis veggen er utstyrt med dør som kan bli stående i åpen stilling, skal denne lukkes automatisk, uten å kunne gli opp, når kjøretøyet er i bevegelse,Veggen skal være utstyrt med ett eller to vinduer, plassert minst 100 mm fra hverandre. Hvert vindu skal ha et areal på maksimalt 0,12 m2. Vindu skal være utført i materiale som tilfredsstiller kravene i direktiv [92/22/EØF](eu/31992l0022) eller amerikansk standard AS4 eller AS5. Ett av vinduene skal kunne åpnes fra begge sider. Vindu skal være utstyrt med justerbar avskjerming, som hindrer at lys fra bårerom kan sjenere fører.
+(2) Det skal være montert beskyttelsesvegg mellom fører- og bårerom. Denne skal tilfredsstille kravene i tredje ledd eller følgende krav:
+
+1. Veggen skal dekke hele rommets bredde og høyde,
+2. Hvis veggen er utstyrt med dør som kan bli stående i åpen stilling, skal denne lukkes automatisk, uten å kunne gli opp, når kjøretøyet er i bevegelse,
+3. Veggen skal være utstyrt med ett eller to vinduer, plassert minst 100 mm fra hverandre. Hvert vindu skal ha et areal på maksimalt 0,12 m2. Vindu skal være utført i materiale som tilfredsstiller kravene i direktiv [92/22/EØF](eu/31992l0022) eller amerikansk standard AS4 eller AS5. Ett av vinduene skal kunne åpnes fra begge sider. Vindu skal være utstyrt med justerbar avskjerming, som hindrer at lys fra bårerom kan sjenere fører.
 
 (3) Beskyttelsesvegg som er i henhold til europeisk ambulansestandard NS-EN-1789 punkt 4.4.4 anses å oppfylle kravene i annet ledd bokstav a–c.
 
@@ -677,7 +880,12 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (1) Utrykningskjøretøy tillates å benytte merking med retroreflekterende egenskaper. Omfanget av merkingen skal holdes på et slikt nivå at det ikke medfører fare for blending av andre trafikanter. Utrykningskjøretøy er fritatt fra kravet om konturmerking. Utførelsen av merkingen fastsettes i henhold til annet, tredje eller fjerde ledd.
 
-(2) De uniformerte utrykningskjøretøyenes grunnfarge, reflekterende merking samt merking som ikke er reflekterende skal være i henhold til retningslinjer fastsatt av nedenfor angitte myndigheter. Uniformerte kjøretøy uten utrykningsstatus skal følge krav til grunnfarge og ikke-reflekterende merking dersom aktuell myndighet har regulert dette i sine retningslinjer.Politidirektoratet for politiets kjøretøy,Helsedirektoratet for ambulanser og andre helserelaterte kjøretøy som er i tjeneste for offentlig helsevesen,Direktoratet for samfunnssikkerhet og beredskap for brannvesenets kjøretøy,Forsvaret for forsvarets kjøretøy.
+(2) De uniformerte utrykningskjøretøyenes grunnfarge, reflekterende merking samt merking som ikke er reflekterende skal være i henhold til retningslinjer fastsatt av nedenfor angitte myndigheter. Uniformerte kjøretøy uten utrykningsstatus skal følge krav til grunnfarge og ikke-reflekterende merking dersom aktuell myndighet har regulert dette i sine retningslinjer.
+
+1. Politidirektoratet for politiets kjøretøy,
+2. Helsedirektoratet for ambulanser og andre helserelaterte kjøretøy som er i tjeneste for offentlig helsevesen,
+3. Direktoratet for samfunnssikkerhet og beredskap for brannvesenets kjøretøy,
+4. Forsvaret for forsvarets kjøretøy.
 
 (3) For kjøretøy som ikke reguleres av myndighetene nevnt i annet ledd, kan grunnfarge og uniformering fastsettes av kjøretøyets eier eller den som disponerer dette.
 
@@ -701,7 +909,11 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 ### § 12-4. Blått varsellys til alle sider
 
-(1) Lyktene skal tilfredsstille minst ett av følgende krav:Blått varsellys skal være E-merket med symbolet B i henhold til FN-regulativ nr. 65.Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.Være godkjent og merket i henhold til annen standard med tilsvarende krav som i a eller b.
+(1) Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Blått varsellys skal være E-merket med symbolet B i henhold til FN-regulativ nr. 65.
+2. Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i a eller b.
 
 (2) Lyset skal være synlig til alle sider og innenfor en vertikalvinkel fra minst 5° over til minst 5° under horisontalplanet gjennom lyktens sentrum. Lyktene skal være montert slik at lyskjeglens senterlinje er horisontal.
 
@@ -735,11 +947,24 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 ### § 12-7. Sirene og signalhorn
 
-(1) Definisjoner*Lydtrykknivå:* Logaritmisk forholdstall angitt i decibel (dB) mellom det aktuelle lydtrykk og et referansetrykk på 20 mikropascal (μPa).For lydmåling i dette kapittel benyttes måleenheten dB (A), hvilket innebærer at måleresultatene også påvirkes av frekvensen.*Signalhorn med jevn tonehøyde:* Signalhorn som ved aktivering avgir lydsignal med konstant tone, frekvens og lydtrykksnivå.*Signalhorn med vekslende tonehøyde:* To eller flere signalhorn som ved aktivering avgir lydsignal som automatisk veksler mellom to adskilte, jevne tonehøyder (grunntoner).*Sirene:* Signalhorn som ved aktivering avgir lydsignal som varierer kontinuerlig mellom to frekvenser (ytterfrekvenser) og innenfor et periodeområde målt pr. minutt
+(1) Definisjoner
+
+1. *Lydtrykknivå:* Logaritmisk forholdstall angitt i decibel (dB) mellom det aktuelle lydtrykk og et referansetrykk på 20 mikropascal (μPa).
+
+   For lydmåling i dette kapittel benyttes måleenheten dB (A), hvilket innebærer at måleresultatene også påvirkes av frekvensen.
+2. *Signalhorn med jevn tonehøyde:* Signalhorn som ved aktivering avgir lydsignal med konstant tone, frekvens og lydtrykksnivå.
+3. *Signalhorn med vekslende tonehøyde:* To eller flere signalhorn som ved aktivering avgir lydsignal som automatisk veksler mellom to adskilte, jevne tonehøyder (grunntoner).
+4. *Sirene:* Signalhorn som ved aktivering avgir lydsignal som varierer kontinuerlig mellom to frekvenser (ytterfrekvenser) og innenfor et periodeområde målt pr. minutt
 
 (2) Lydtrykket for hver av grunntonene være 113–121 dB (A) for separat signalhorn (atskilt fra motorvognen), jf. fjerde ledd og 101–109 dB (A), for signalhorn montert på motorvognen, jf. femte ledd. Ytterfrekvensene skal være minst 400 Hz og høyst 1 200 Hz. Periodetallet målt pr. minutt skal være minst 10 og høyst 25.
 
-(3) I tillegg til sirene som beskrevet i første ledd («wail»), kan motorvogn være utstyrt med sirene etter følgende spesifikasjon («yelp»):Det samlede lydtrykk, målt etter målemetoden i fjerde eller femte ledd, må være lavere enn 121 dB (A), respektive 109 dB (A).Ytterfrekvensen skal være minst 500 Hz og høyst 1 600 Hz.Periodetallet målt pr. minutt skal være minst 150 og høyst 250.Aktivisering av sirenen skal skje ved en manuelt operert tidsbryter som gir en aktiviseringstid på høyst 10 sekunder. Sirenen («yelp») skal være koplet slik at sirenen («wail») automatisk utkoples i den tid sirenen («yelp») er aktivert.Sirene skal være slik koblet at den bare kan virke sammen med varsellykt som gir blinkende blått lys til alle sider.
+(3) I tillegg til sirene som beskrevet i første ledd («wail»), kan motorvogn være utstyrt med sirene etter følgende spesifikasjon («yelp»):
+
+1. Det samlede lydtrykk, målt etter målemetoden i fjerde eller femte ledd, må være lavere enn 121 dB (A), respektive 109 dB (A).
+2. Ytterfrekvensen skal være minst 500 Hz og høyst 1 600 Hz.
+3. Periodetallet målt pr. minutt skal være minst 150 og høyst 250.
+4. Aktivisering av sirenen skal skje ved en manuelt operert tidsbryter som gir en aktiviseringstid på høyst 10 sekunder. Sirenen («yelp») skal være koplet slik at sirenen («wail») automatisk utkoples i den tid sirenen («yelp») er aktivert.
+5. Sirene skal være slik koblet at den bare kan virke sammen med varsellykt som gir blinkende blått lys til alle sider.
 
 (4) Lydsignalet fra separat signalhorn (atskilt fra motorvognen) skal måles slik som angitt i punktene 6.2.1–6.2.6 i FN-regulativ nr. 28.
 
@@ -749,21 +974,55 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 ### § 13-1. Piggdekk til bil
 
-(1) For pigging av dekk til bil med tillatt totalvekt ikke over 3 500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Største tillatte vekt pr. pigg er 1,1 gStørste tillatte statiske piggkraft for slike pigger er 120 N eller lavere.Annen type pigg kan godkjennes dersom det fra et uavhengig kompetent laboratorium kan dokumenteres at piggene vegslitasje- og veggrepsmessig, har minst like gode egenskaper som en piggtype tilsvarende ovennevnte krav.Største tillatte vekt pr. pigg for lette lastebildekk (C-dekk eller Reinforced dekk) som brukes på bil der slike dekk er foreskrevet av bilfabrikant, er 2,3 g. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 180 N.Statisk piggkraft skal måles ved 20 °C ± 4 °C. (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+(1) For pigging av dekk til bil med tillatt totalvekt ikke over 3 500 kg gjelder følgende:
 
-(2) For pigging av dekk til bil med totalvekt over 3 500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.Største tillatte overheng på en enkelt pigg er 2,0 mm.Største antall pigger er 50 stk. per meter rulleomkrets. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt mindre enn 3 500 kg, jf. nr. 3, er største tillatte antall pigger 250 stk.Største tillatte vekt pr. pigg er 3 g.Største tillatte statiske kraft ved 20 °C ± 4 °C er 340 N.
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.
+2. Største antall pigger er 50 stk. per meter rulleomkrets.
+3. Største tillatte vekt pr. pigg er 1,1 g
+4. Største tillatte statiske piggkraft for slike pigger er 120 N eller lavere.
+5. Annen type pigg kan godkjennes dersom det fra et uavhengig kompetent laboratorium kan dokumenteres at piggene vegslitasje- og veggrepsmessig, har minst like gode egenskaper som en piggtype tilsvarende ovennevnte krav.
+6. Største tillatte vekt pr. pigg for lette lastebildekk (C-dekk eller Reinforced dekk) som brukes på bil der slike dekk er foreskrevet av bilfabrikant, er 2,3 g. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 180 N.
+7. Statisk piggkraft skal måles ved 20 °C ± 4 °C. (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+
+(2) For pigging av dekk til bil med totalvekt over 3 500 kg gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.
+2. Største tillatte overheng på en enkelt pigg er 2,0 mm.
+3. Største antall pigger er 50 stk. per meter rulleomkrets. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt mindre enn 3 500 kg, jf. nr. 3, er største tillatte antall pigger 250 stk.
+4. Største tillatte vekt pr. pigg er 3 g.
+5. Største tillatte statiske kraft ved 20 °C ± 4 °C er 340 N.
 
 (3) Rørpigger, rallypigger eller tilsvarende konstruksjoner er ikke tillatt.
 
 (4) Kravene i nr. 1 og 2 er ikke til hinder for at annet piggdekk kan benyttes dersom det kan dokumenteres, for eksempel gjennom finsk typegodkjenning, at dekket ikke forårsaker større slitasje på vegbanen sammenlignet med et piggdekk som oppfyller kravene ovenfor.
 
-(5) Kjøretøy som angitt nedenfor kan i tillegg til det antall pigger som dekket er godkjent med etter nr. 1, 2 eller 4, benytte følgende:utrykningskjøretøy: Inntil 100 stk. flere pigger per dekk, alternativt inntil 230 stk. pigger totalt i dekket,busser: Inntil 50 stk. flere pigger per dekk,ADR-kjøretøy i gruppe N3 og O4 med gyldig godkjenningsattest for transport av farlig gods: Inntil 100 stk. flere pigger per dekk,melkebil og -tilhenger for transport av melk på tank: Inntil 100 stk. flere pigger per dekk,brøytebil i gruppe N3 med anmerkning i vognkortet om godkjent brøytefeste: Inntil 100 stk. flere pigger per dekk,bergingsbil i gruppe N2 og N3: Inntil 100 stk. flere pigger per dekk, ogbiler for bevegelseshemmede som har parkeringstillatelse i henhold til Samferdselsdepartementets [forskrift 18. mars 2016 nr. 264 om parkeringstillatelse for forflytningshemmede](forskrift/2016-03-18-264): Inntil 50 stk. flere pigger per dekk.
+(5) Kjøretøy som angitt nedenfor kan i tillegg til det antall pigger som dekket er godkjent med etter nr. 1, 2 eller 4, benytte følgende:
+
+1. utrykningskjøretøy: Inntil 100 stk. flere pigger per dekk, alternativt inntil 230 stk. pigger totalt i dekket,
+2. busser: Inntil 50 stk. flere pigger per dekk,
+3. ADR-kjøretøy i gruppe N3 og O4 med gyldig godkjenningsattest for transport av farlig gods: Inntil 100 stk. flere pigger per dekk,
+4. melkebil og -tilhenger for transport av melk på tank: Inntil 100 stk. flere pigger per dekk,
+5. brøytebil i gruppe N3 med anmerkning i vognkortet om godkjent brøytefeste: Inntil 100 stk. flere pigger per dekk,
+6. bergingsbil i gruppe N2 og N3: Inntil 100 stk. flere pigger per dekk, og
+7. biler for bevegelseshemmede som har parkeringstillatelse i henhold til Samferdselsdepartementets [forskrift 18. mars 2016 nr. 264 om parkeringstillatelse for forflytningshemmede](forskrift/2016-03-18-264): Inntil 50 stk. flere pigger per dekk.
 
 ### § 13-2. Piggdekk til tilhenger
 
-(1) For pigging av dekk til tilhenger som trekkes av bil med tillatt totalvekt ikke over 3 500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Største tillatte vekt pr. pigg er 1,8 g.Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+(1) For pigging av dekk til tilhenger som trekkes av bil med tillatt totalvekt ikke over 3 500 kg gjelder følgende:
 
-(2) For pigging av dekk til tilhenger som trekkes av bil med tillatt totalvekt over 3 500 kg gjelder følgende:Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.Største tillatte overheng for en enkelt pigg er 2,0 mm.Største antall pigger er 50 stk. per meter rulleomkrets.Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt ikke over 3.500 kg, jf. [§ 13-1](forskrift/2022-06-28-1233/§13-1) første ledd, er største tillatte antall pigger 250 stk.Største tillatte vekt pr. pigg er 3 g.Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 400 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,2 mm.
+2. Største antall pigger er 50 stk. per meter rulleomkrets.
+3. Største tillatte vekt pr. pigg er 1,8 g.
+4. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 200 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
+
+(2) For pigging av dekk til tilhenger som trekkes av bil med tillatt totalvekt over 3 500 kg gjelder følgende:
+
+1. Det gjennomsnittlige overheng på nypigget dekk – før det tas i bruk – må ikke overstige 1,7 mm.
+2. Største tillatte overheng for en enkelt pigg er 2,0 mm.
+3. Største antall pigger er 50 stk. per meter rulleomkrets.
+4. Dersom piggene med hensyn til utførelse og montering tilfredsstiller kravene for bil med tillatt totalvekt ikke over 3.500 kg, jf. [§ 13-1](forskrift/2022-06-28-1233/§13-1) første ledd, er største tillatte antall pigger 250 stk.
+5. Største tillatte vekt pr. pigg er 3 g.
+6. Største tillatte statiske piggkraft ved 20 °C ± 4 °C er 400 N (Den kraft som skal til for å trykke en korrekt montert pigg, med 1,2 mm overheng, og ved korrekt lufttrykk, inn i dekket til piggen flukter med dekkets anleggsflate mot vegbanen).
 
 (3) Rørpigger, rallypigger, skråslipte eller spisse pigger eller tilsvarende er ikke tillatt.
 
@@ -771,7 +1030,17 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 ### § 13-3. Bytte av dekk/felg
 
-(1) Ved bytte av felg eller dekk kan dimensjon og/eller sporvidde tillates endret under følgende forutsetninger:Sporviddeendringen må ikke overskride det som er tillatt av kjøretøyfabrikanten eller godtatt av teknisk prøveinstans for vedkommende motorvogn. Det kan kreves dokumentert at sporvidde eller innpresning er tillatt.Plassforholdene i hjulhuset må være tilstrekkelige slik at dekk og/eller felg ikke kommer i kontakt med kjøretøydetaljer ved fullt styreutslag og/eller maksimale fjæringsbevegelser.Rulleomkretsen på hjulene må holdes innenfor ± 5 % av rulleomkretsen på de hjul som kjøretøyet normalt er utstyrt med fra kjøretøyfabrikanten.Dekkene må være godkjent for en belastning som minst tilsvarer kjøretøyets tillatte aksellast.Dekkene må være beregnet for minst den maksimale hastighet kjøretøyet er konstruert for. For vinterdekk er det tilstrekkelig at dekkene er beregnet for 160 km/t. For kjøretøy som lovlig kan benytte C- eller LT-dekk, er det tilstrekkelig at vinterdekkene er beregnet for 130 km/t.Felg og dekk må passe sammen i henhold til STRO-normen.Det må ikke brukes mellomlegg/plate/«spacer» som øker sporvidden med mindre det foreligger dokumentasjon fra kjøretøyfabrikanten eller teknisk prøveinstans.Dekkene må ha samme dimensjon. På kjøretøyer som originalt er utstyrt med dekk av ulike dimensjoner foran og bak skal størrelsesendringen være lik. Ved endringer utover dette må det foreligger dokumentasjon fra kjøretøyfabrikanten eller teknisk prøveinstans.Dersom kjøretøyets originale felger er skiftet ut med andre stål- eller lettmetallsfelger, skal disse enten være merket med innpresning eller det skal medfølge dokumentasjon for innpresning i kjøretøyet. Med innpresning forstås avstanden mellom felgplatens anleggsflate mot navet og felgens senterlinje.
+(1) Ved bytte av felg eller dekk kan dimensjon og/eller sporvidde tillates endret under følgende forutsetninger:
+
+1. Sporviddeendringen må ikke overskride det som er tillatt av kjøretøyfabrikanten eller godtatt av teknisk prøveinstans for vedkommende motorvogn. Det kan kreves dokumentert at sporvidde eller innpresning er tillatt.
+2. Plassforholdene i hjulhuset må være tilstrekkelige slik at dekk og/eller felg ikke kommer i kontakt med kjøretøydetaljer ved fullt styreutslag og/eller maksimale fjæringsbevegelser.
+3. Rulleomkretsen på hjulene må holdes innenfor ± 5 % av rulleomkretsen på de hjul som kjøretøyet normalt er utstyrt med fra kjøretøyfabrikanten.
+4. Dekkene må være godkjent for en belastning som minst tilsvarer kjøretøyets tillatte aksellast.
+5. Dekkene må være beregnet for minst den maksimale hastighet kjøretøyet er konstruert for. For vinterdekk er det tilstrekkelig at dekkene er beregnet for 160 km/t. For kjøretøy som lovlig kan benytte C- eller LT-dekk, er det tilstrekkelig at vinterdekkene er beregnet for 130 km/t.
+6. Felg og dekk må passe sammen i henhold til STRO-normen.
+7. Det må ikke brukes mellomlegg/plate/«spacer» som øker sporvidden med mindre det foreligger dokumentasjon fra kjøretøyfabrikanten eller teknisk prøveinstans.
+8. Dekkene må ha samme dimensjon. På kjøretøyer som originalt er utstyrt med dekk av ulike dimensjoner foran og bak skal størrelsesendringen være lik. Ved endringer utover dette må det foreligger dokumentasjon fra kjøretøyfabrikanten eller teknisk prøveinstans.
+9. Dersom kjøretøyets originale felger er skiftet ut med andre stål- eller lettmetallsfelger, skal disse enten være merket med innpresning eller det skal medfølge dokumentasjon for innpresning i kjøretøyet. Med innpresning forstås avstanden mellom felgplatens anleggsflate mot navet og felgens senterlinje.
 
 (2) Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres mer enn 7,5 mm – skal kjøretøyet fremstilles for Statens vegvesen for ny godkjenning. Det må fremlegges dokumentasjon i henhold til [§ 7-2](forskrift/2022-06-28-1233/§7-2) for at sporviddeendringen er tillatt. Statens vegvesen gjør anmerkning om endringen i kjøretøyregisteret.
 
@@ -809,7 +1078,11 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (2) På bil og tilhenger til bil med bredde 2,10 m eller mer tillates 3 hvite identifikasjonslys foran og 3 røde identifikasjonslys bak.
 
-(3) For plassering av lyktene i annet ledd gjelder følgende:I bredden: Symmetrisk om kjøretøyets midtplan i lengderetningen. Lyktene skal være plassert slik at avstanden mellom lyktenes vertikale senterlinje eller mellom de lysende flatene er minimum 150 mm og maksimum 300 mm.I høyden: Som angitt i FN-regulativ nr. 48.I lengden: De fremre lyktene skal plasseres enten på førerhus eller på påbygg og de bakre lyktene skal plasseres bak på kjøretøyet.
+(3) For plassering av lyktene i annet ledd gjelder følgende:
+
+1. I bredden: Symmetrisk om kjøretøyets midtplan i lengderetningen. Lyktene skal være plassert slik at avstanden mellom lyktenes vertikale senterlinje eller mellom de lysende flatene er minimum 150 mm og maksimum 300 mm.
+2. I høyden: Som angitt i FN-regulativ nr. 48.
+3. I lengden: De fremre lyktene skal plasseres enten på førerhus eller på påbygg og de bakre lyktene skal plasseres bak på kjøretøyet.
 
 ### § 14-5. Sidemarkeringslys
 
@@ -817,13 +1090,21 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (2) På tilhenger kan det monteres lykter som nevnt i leddet ovenfor på begge sider foran og bak, med samme monteringskrav som for bil.
 
-(3) For plassering gjelder følgende:Monteringskrav i høyden som for sidemarkeringslys.I lengden ikke mer enn 1000 mm fra lastbærerens (eller gods-/passasjerrommets. respektive fremre og bakerste kant/begrensning. Avstanden for lyktene som er montert på fremre begrensning, kan eventuelt økes slik at lyktene kan sees fra førerplassen gjennom bilens utvendige speil.Avstanden til andre lykter skal være minimum 200 mm. Videre kan avstanden fra bilens ytre sideplan og ut til lyktens lysende flate være maksimalt 50 mm dersom den er montert på en gummiarm eller lignende som gir etter for en kraft på 2 kp med angrepspunkt i lyktens senter med kraftretning som følger horisontalplanet i bilens lengderetning.
+(3) For plassering gjelder følgende:
+
+1. Monteringskrav i høyden som for sidemarkeringslys.
+2. I lengden ikke mer enn 1000 mm fra lastbærerens (eller gods-/passasjerrommets. respektive fremre og bakerste kant/begrensning. Avstanden for lyktene som er montert på fremre begrensning, kan eventuelt økes slik at lyktene kan sees fra førerplassen gjennom bilens utvendige speil.
+3. Avstanden til andre lykter skal være minimum 200 mm. Videre kan avstanden fra bilens ytre sideplan og ut til lyktens lysende flate være maksimalt 50 mm dersom den er montert på en gummiarm eller lignende som gir etter for en kraft på 2 kp med angrepspunkt i lyktens senter med kraftretning som følger horisontalplanet i bilens lengderetning.
 
 ### § 14-6. Markeringslys bak (baklys)
 
 (1) På bil og tilhenger tillates utover kravene i FN-regulativ nr. 48 inntil 10 ekstra markeringslys bak, men ikke flere enn 12 totalt, fordelt med inntil 6 nede og 6 oppe.
 
-(2) For plassering gjelder følgende:I bredden: Som bestemt i FN-regulativ nr. 48.For lykter som monteres nede skal høyden over bakken være: Ikke mindre enn 350 mm, ikke mer enn 1500 mm, eller ikke mer enn 2100 mm er dersom karosseriets form gjør det umulig å overholde grensen på 1500 mm. For lykter som monteres oppe, skal avstanden fra lyktens lysende flates øverste kant ikke være mer enn 400 mm fra horisontalplanet som tangerer bakpartens øverste kant.I lengden: Som bestemt i FN-regulativ nr. 48. For valgfrie ekstra monterte markeringslys bak (baklys) montert oppe på kjøretøyet, er det ingen krav til plassering i lengderetningen.
+(2) For plassering gjelder følgende:
+
+1. I bredden: Som bestemt i FN-regulativ nr. 48.
+2. For lykter som monteres nede skal høyden over bakken være: Ikke mindre enn 350 mm, ikke mer enn 1500 mm, eller ikke mer enn 2100 mm er dersom karosseriets form gjør det umulig å overholde grensen på 1500 mm. For lykter som monteres oppe, skal avstanden fra lyktens lysende flates øverste kant ikke være mer enn 400 mm fra horisontalplanet som tangerer bakpartens øverste kant.
+3. I lengden: Som bestemt i FN-regulativ nr. 48. For valgfrie ekstra monterte markeringslys bak (baklys) montert oppe på kjøretøyet, er det ingen krav til plassering i lengderetningen.
 
 (3) Alternative standarder: Lykter som er godkjent og merket etter SAE eller DOT standard godtas dersom fargen er tilnærmet i samsvar med angivelse i FN-regulativ nr. 48.
 
@@ -831,7 +1112,11 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (1) På bil og tilhenger tillates utover kravene i FN-regulativ nr. 48 to ekstra retningslys bak plassert oppe.
 
-(2) For plassering gjelder følgende:I bredden: Som angitt i FN-regulativ nr. 48.I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.I lengden: Ingen krav.
+(2) For plassering gjelder følgende:
+
+1. I bredden: Som angitt i FN-regulativ nr. 48.
+2. I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.
+3. I lengden: Ingen krav.
 
 (3) Alternative standarder: Lykter som er godkjent og merket etter SAE eller DOT standarder godtas dersom fargen er tilnærmet i samsvar med angivelse i FN-regulativ nr. 48.
 
@@ -839,13 +1124,21 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (1) På bil og tilhenger tillates utover kravene i FN-regulativ nr. 48 to ekstra lykter for stopplys plassert oppe.
 
-(2) For plassering gjelder følgende:I bredden: Som angitt i FN-regulativ nr. 48.I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.I lengden: Ingen krav.
+(2) For plassering gjelder følgende:
+
+1. I bredden: Som angitt i FN-regulativ nr. 48.
+2. I høyden: Avstanden fra lyktens lysende flates øverste kant skal ikke være mer enn 40 cm fra horisontalplanet som tangerer bakpartens øverste kant.
+3. I lengden: Ingen krav.
 
 (3) Alternative standarder: Lykter som er godkjent og merket etter SAE eller DOT standard godtas dersom fargen er tilnærmet i samsvar med angivelse i FN-regulativ nr. 48.
 
 ### § 14-9. Gult varsellys
 
-(1) Lyktene skal tilfredsstille minst ett av følgende krav:Gult varsellys skal være E-merket med symbolet A i henhold til FN-regulativ nr. 65.Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.Være godkjent og merket i henhold til annen standard med tilsvarende krav som i a.
+(1) Lyktene skal tilfredsstille minst ett av følgende krav:
+
+1. Gult varsellys skal være E-merket med symbolet A i henhold til FN-regulativ nr. 65.
+2. Være godkjent og merket i henhold til SAE J 595, SAE J 845 eller SAE J 1318.
+3. Være godkjent og merket i henhold til annen standard med tilsvarende krav som i a.
 
 (2) Varsellykten skal avgi gult lys i alle retninger innenfor en vertikalvinkel fra minst 5° over til minst 5° under horisontalplanet gjennom lyktens sentrum, og gi inntrykk av å være blinkende. De skal være montert slik at lyskjeglens senterlinje er horisontal. Kravet om synlighet bakover er valgfritt for trekkbil for semitrailer.
 
@@ -863,7 +1156,10 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 (3) Lykten skal være plassert utvendig på bilens tak, symmetrisk på bilens midtlinje i lengderetningen, slik at hele lykten er synlig forfra og bakfra fra 20 meters avstand fra bilen i en synshøyde på 150 cm over bakken. Ytterligere én lykt kan benyttes dersom dette er nødvendig for å oppfylle synlighetskravet. Lykten må være så godt festet til kjøretøyet at den ikke kan falle av, magnetisk festeanordning kan godtas.
 
-(4) Lykten skal være koplet slik at den kan tennes selv om bilens øvrige lys ikke er tent og slik at følgende er oppfylt:På drosjer med taksameter skal lykten være sammenkoblet med taksameteret på en slik måte at den bare kan lyse når taksameteret er slått av.På andre drosjer skal lykten være koplet over egen bryter og sammenkoplet med kontrollampe som er godt synlig fra førerens plass og som viser når lykten lyser.
+(4) Lykten skal være koplet slik at den kan tennes selv om bilens øvrige lys ikke er tent og slik at følgende er oppfylt:
+
+1. På drosjer med taksameter skal lykten være sammenkoblet med taksameteret på en slik måte at den bare kan lyse når taksameteret er slått av.
+2. På andre drosjer skal lykten være koplet over egen bryter og sammenkoplet med kontrollampe som er godt synlig fra førerens plass og som viser når lykten lyser.
 
 > Endret ved forskrift [18 juli 2024 nr. 1837](forskrift/2024-07-18-1837).
 
@@ -885,7 +1181,12 @@ Følgende krav gjelder:tilhengeren skal være merket med preget understellsnumme
 
 ### § 15-1. Gebyr
 
-(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 5](forskrift/2023-10-10-1650/kap5) og [8](forskrift/2023-10-10-1650/kap8):enkeltgodkjenning av bil og tilhenger til bil (ny eller bruktimportert),godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy,nasjonal typegodkjenning ogEU-typegodkjenning.
+(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 5](forskrift/2023-10-10-1650/kap5) og [8](forskrift/2023-10-10-1650/kap8):
+
+1. enkeltgodkjenning av bil og tilhenger til bil (ny eller bruktimportert),
+2. godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy,
+3. nasjonal typegodkjenning og
+4. EU-typegodkjenning.
 
 (2) Det skal ikke betales gebyr for klagebehandling. Det betales heller ikke gebyr for identitetssjekk eller stikkprøvekontroll av bruktimportert EU-typegodkjent bil og tilhenger til bil.
 
@@ -947,7 +1248,11 @@ I tilfeller hvor basiskjøretøyet innehar en gyldig EU-typegodkjenning knyttet 
 
 Eksempel på dette vil kunne være at basiskjøretøyet innehar en gyldig EU-typegodkjenningfor lysmontering iht. FN-regulativ 48.06, selv om [vedlegg 1](forskrift/2022-06-28-1233/vedlegg1) beskriver FN-reg. 48.07 som obligatorisk kravnivå. Dersom neste byggetrinn gjør endringer innenfor kravområdet, for eksempel ettermontering av lykter og refleksanordninger omfattet av regulativet, men som ikke endrer vilkårene for EU-typegodkjenningen, vil første byggetrinn fortsatt kunne benytte seg av den gyldige typegodkjenningen, mens neste byggetrinn vil måtte bygge og dokumentere etter kravene i FN-regulativ 48.07.
 
-Kolonnene skal leses på følgende måte:*Teknisk rettsakt:* forordningen eller FN-regulativet som inneholder de tekniske kravene*Obligatorisk nye kjøretøy:* dato når rettsakten er obligatorisk ved enkeltgodkjenninger som gjøres i Norge (jf. [§ 4-4](forskrift/2022-06-28-1233/§4-4) og artikkel 45 til forordning [(EU) 2018/858](eu/32018r0858))*Brukes til og med:* Siste dato for når rettsakten kan benyttes ved enkeltgodkjenning i Norge. Se likevel [§ 4-4 sjette ledd](forskrift/2022-06-28-1233/§4-4/ledd/6).
+Kolonnene skal leses på følgende måte:
+
+- *Teknisk rettsakt:* forordningen eller FN-regulativet som inneholder de tekniske kravene
+- *Obligatorisk nye kjøretøy:* dato når rettsakten er obligatorisk ved enkeltgodkjenninger som gjøres i Norge (jf. [§ 4-4](forskrift/2022-06-28-1233/§4-4) og artikkel 45 til forordning [(EU) 2018/858](eu/32018r0858))
+- *Brukes til og med:* Siste dato for når rettsakten kan benyttes ved enkeltgodkjenning i Norge. Se likevel [§ 4-4 sjette ledd](forskrift/2022-06-28-1233/§4-4/ledd/6).
 
 Fotnoter som gjelder mer enn ett kravområde, er merket med tall som er hevet over linja. Eksempel: 01.11.20161. Her står den forklarende teksten helt til slutt, under overskriften Fotnoter til [vedlegg 1](forskrift/2022-06-28-1233/vedlegg1).
 
@@ -2078,7 +2383,11 @@ Gjelder for alle M, N og O som tillater programvareoppdatering.
 
 ### Del A: Krav til trekkende bils egenvekt med fører
 
-Minimumskravet til trekkende bils egenvekt med fører beregnes ved å dividere den laveste av de følgende vektene for tilhengeren med vektkvotienten i tabellen:Summen av tillatte akselvekterTillatt vekt for akselkombinasjonen/akselgruppenTillatt totalvekt.
+Minimumskravet til trekkende bils egenvekt med fører beregnes ved å dividere den laveste av de følgende vektene for tilhengeren med vektkvotienten i tabellen:
+
+- Summen av tillatte akselvekter
+- Tillatt vekt for akselkombinasjonen/akselgruppen
+- Tillatt totalvekt.
 
 | *Utstyr på tilhenger* | *Utstyr på trekkende bil* | *Vektkvotient for campingvogn* | *Vektkvotient for øvrige tilhengere* |
 | --- | --- | --- | --- |

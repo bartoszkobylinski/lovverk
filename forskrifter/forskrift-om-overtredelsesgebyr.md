@@ -30,9 +30,24 @@ Bestemmelsene om utmåling av overtredelsesgebyr for foretak gjelder tilsvarende
 
 ## § 2. Overtredelsesgebyrets maksimale størrelse
 
-Konkurransetilsynet kan ilegge overtredelsesgebyr på inntil 1 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomtovertrer [konkurranseloven § 18](lov/2004-03-05-12/§18) første leddovertrer vedtak etter [konkurranseloven § 23](lov/2004-03-05-12/§23)overtrer forskrift etter [konkurranseloven § 18](lov/2004-03-05-12/§18) niende ledd eller [§ 23](lov/2004-03-05-12/§23)unnlater å etterkomme pålegg etter [konkurranseloven § 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [§ 24](lov/2004-03-05-12/§24) eller [§ 25](lov/2004-03-05-12/§25)gir uriktige eller ufullstendige opplysninger til konkurransemyndighetenebryter forsegling foretatt i medhold av [konkurranseloven § 25](lov/2004-03-05-12/§25)medvirker til overtredelser av bokstav a til f.
+Konkurransetilsynet kan ilegge overtredelsesgebyr på inntil 1 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt
 
-Konkurransetilsynet kan ilegge overtredelsesgebyr på inntil 10 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt overtrer[konkurranseloven § 10](lov/2004-03-05-12/§10) eller [§ 11](lov/2004-03-05-12/§11)vedtak etter [konkurranseloven § 12](lov/2004-03-05-12/§12)forskrift etter [konkurranseloven § 14](lov/2004-03-05-12/§14)vedtak etter [konkurranseloven § 16](lov/2004-03-05-12/§16) eller [§ 16a](lov/2004-03-05-12/§16a)[konkurranseloven § 19](lov/2004-03-05-12/§19) første leddmedvirker til overtredelser av bokstav a til e.
+1. overtrer [konkurranseloven § 18](lov/2004-03-05-12/§18) første ledd
+2. overtrer vedtak etter [konkurranseloven § 23](lov/2004-03-05-12/§23)
+3. overtrer forskrift etter [konkurranseloven § 18](lov/2004-03-05-12/§18) niende ledd eller [§ 23](lov/2004-03-05-12/§23)
+4. unnlater å etterkomme pålegg etter [konkurranseloven § 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [§ 24](lov/2004-03-05-12/§24) eller [§ 25](lov/2004-03-05-12/§25)
+5. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene
+6. bryter forsegling foretatt i medhold av [konkurranseloven § 25](lov/2004-03-05-12/§25)
+7. medvirker til overtredelser av bokstav a til f.
+
+Konkurransetilsynet kan ilegge overtredelsesgebyr på inntil 10 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt overtrer
+
+1. [konkurranseloven § 10](lov/2004-03-05-12/§10) eller [§ 11](lov/2004-03-05-12/§11)
+2. vedtak etter [konkurranseloven § 12](lov/2004-03-05-12/§12)
+3. forskrift etter [konkurranseloven § 14](lov/2004-03-05-12/§14)
+4. vedtak etter [konkurranseloven § 16](lov/2004-03-05-12/§16) eller [§ 16a](lov/2004-03-05-12/§16a)
+5. [konkurranseloven § 19](lov/2004-03-05-12/§19) første ledd
+6. medvirker til overtredelser av bokstav a til e.
 
 Konkurransetilsynet kan ilegge overtredelsesgebyr på inntil 5 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt bryter vedtak som er pålagt i medhold av [konkurranseloven § 42](lov/2004-03-05-12/§42). Ved gjentatte eller vedvarende overtredelser på vedtak gitt i medhold av [konkurranseloven § 42](lov/2004-03-05-12/§42) kan Konkurransetilsynet ilegge overtredelsesgebyr på inntil 10 prosent av foretakets omsetning.
 
@@ -44,7 +59,14 @@ Omsetningen er foretakets samlede salgsinntekt for det siste regnskapsåret. Hvi
 
 Det fremgår av [konkurranseloven § 29](lov/2004-03-05-12/§29) andre ledd at det ved utmålingen av overtredelsesgebyret skal legges særlig vekt på foretakets omsetning, overtredelsens grovhet og varighet. Ved overtredelse av [konkurranseloven § 10](lov/2004-03-05-12/§10) gjelder [konkurranseloven § 30](lov/2004-03-05-12/§30) og [§ 31](lov/2004-03-05-12/§31) om lempning.
 
-Ved vurdering av hvor grov overtredelsen er skal det særlig tas hensyn tilovertredelsens artovertredelsens faktiske innvirkning på markedetstørrelsen på det berørte markedetutvist skyldden kombinerte markedsandelen til de berørte foretakom avtaler eller tiltak er gjennomført.
+Ved vurdering av hvor grov overtredelsen er skal det særlig tas hensyn til
+
+1. overtredelsens art
+2. overtredelsens faktiske innvirkning på markedet
+3. størrelsen på det berørte markedet
+4. utvist skyld
+5. den kombinerte markedsandelen til de berørte foretak
+6. om avtaler eller tiltak er gjennomført.
 
 Ved overtredelser av [konkurranseloven § 10](lov/2004-03-05-12/§10) og [§ 11](lov/2004-03-05-12/§11) kan Konkurransetilsynet ved utmålingen av overtredelsesgebyret ta utgangspunkt i omsetningsverdien av foretakets varer og tjenester som overtredelsen direkte eller indirekte omfatter i det aktuelle geografiske området for det siste hele regnskapsåret foretaket deltok i overtredelsen. Avhengig av hvor grov overtredelsen er, kan det tas utgangspunkt i et beløp på inntil 30 prosent av omsetningsverdien fastsatt etter første punktum.
 
@@ -52,7 +74,15 @@ Ved overtredelser av [konkurranseloven § 10](lov/2004-03-05-12/§10) og [§ 11]
 
 Ved særlig grove overtredelser av [konkurranseloven § 10](lov/2004-03-05-12/§10) og [§ 11](lov/2004-03-05-12/§11), som horisontale avtaler om prisfastsettelse, markedsdeling og begrensning av produksjonen, kan overtredelsesgebyret økes med ytterligere 15 til 25 prosent av omsetningsverdien fastsatt etter tredje ledd første punktum.
 
-Andre momenter som i skjerpende eller formildende retning kan påvirke utmålingen av gebyret, er blant annetom foretaket har hatt en ledende eller passiv rolle i overtredelsenom foretaket fortsetter med overtredelsen eller på ny begår den samme eller tilsvarende overtredelseom foretaket ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsenom foretaket har bistått Konkurransetilsynet i forbindelse med etterforskningen av overtredelsen utover det som følger av foretakets rettslige plikt og utenfor tilfeller som faller inn under reglene om lempningøkonomien til det konsernet foretaket er en del avovertredelsesgebyrets preventive virkningom offentlige myndigheter har pålagt, tillatt eller oppmuntret til konkurransebegrensende adferd.
+Andre momenter som i skjerpende eller formildende retning kan påvirke utmålingen av gebyret, er blant annet
+
+1. om foretaket har hatt en ledende eller passiv rolle i overtredelsen
+2. om foretaket fortsetter med overtredelsen eller på ny begår den samme eller tilsvarende overtredelse
+3. om foretaket ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+4. om foretaket har bistått Konkurransetilsynet i forbindelse med etterforskningen av overtredelsen utover det som følger av foretakets rettslige plikt og utenfor tilfeller som faller inn under reglene om lempning
+5. økonomien til det konsernet foretaket er en del av
+6. overtredelsesgebyrets preventive virkning
+7. om offentlige myndigheter har pålagt, tillatt eller oppmuntret til konkurransebegrensende adferd.
 
 Hvis foretaket fortsetter med overtredelsen eller på ny begår den samme eller tilsvarende overtredelse, kan gebyret økes med inntil 100 prosent for hver overtredelse.
 

@@ -15,7 +15,7 @@ xml_hash: "c9d8bf269f21a2de7acd4d40f31268060fbe2a602de89f09fd151a8c943b45c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Forskriften trer i kraft straks. Samtidig oppheves [forskrift av 5. oktober 2001
 
 1\. *Beskrivelse av parameteren*
 
-Det integrerte delsystemet «styring, kontroll og signal», ERTMS (European Rail Traffic Management System) består av følgende to deler:styrings-, kontroll- og signaldelen, ERTMS/ETCS (European Rail Traffic Management System/European Train Control System), som omfatter delsystemer som er montert om bord og delsystemer som er montert langs skinnegangen,radio- og telekommunikasjonsdelen, ERTMS/GSM-R (European Rail Traffic Management System/GSM for Railways) bygger på standardene som gjelder for det offentlige GSM-nettet, og omfatter også utstyr både om bord og langs skinnegangen. GSM-R bygger på ETSI-standarden for GSM, fase 2+, og omfatter GPRS (Global Packet Radio Services) med bruksmuligheter som er særlig tilpasset jernbanedrift.
+Det integrerte delsystemet «styring, kontroll og signal», ERTMS (European Rail Traffic Management System) består av følgende to deler:
+
+- styrings-, kontroll- og signaldelen, ERTMS/ETCS (European Rail Traffic Management System/European Train Control System), som omfatter delsystemer som er montert om bord og delsystemer som er montert langs skinnegangen,
+- radio- og telekommunikasjonsdelen, ERTMS/GSM-R (European Rail Traffic Management System/GSM for Railways) bygger på standardene som gjelder for det offentlige GSM-nettet, og omfatter også utstyr både om bord og langs skinnegangen. GSM-R bygger på ETSI-standarden for GSM, fase 2+, og omfatter GPRS (Global Packet Radio Services) med bruksmuligheter som er særlig tilpasset jernbanedrift.
 
 2\. *Spesifikasjoner*
 
@@ -129,7 +132,14 @@ Revisjonen vil bli forberedt av AEIF under en Change Control-prosedyre, og vil d
 
 Innledning:
 
-I det følgende omtalesde tre kategorier jernbanelinje som definert i vedlegg I nr. 1 bokstav b i [forskrift av 8. april 1999 nr. 424](forskrift/1999-04-08-424) om samtrafikkevnen i det transeuropeiske jernbanesystem for høyhastighetstog slik:kategori I: jernbanelinjer som er særskilt bygd for høyhastighetstog, og som er utstyrt for hastigheter i alminnelighet på minst 250 km/t,kategori II: jernbanelinjer som er særskilt opprustet for høyhastighetstog, og som er utstyrt for hastigheter på omkring 200 km/t,kategori III: jernbanelinjer som er særskilt opprustet for høyhastighetstog, og som har særegne trekk på grunn av topografiske eller overflatemessige begrensninger eller beliggenhet i byområder der hastigheten må tilpasses i hvert enkelt tilfelle.særtilfellene fastsatt i artikkel 5 nr. 3 bokstav d i direktiv [96/48/EF](eu/31996l0048*). Reglene for gjennomføring av TSI-spesifikasjonene i disse særtilfellene vil imidlertid bli fastsatt i de tilhørende TSI-spesifikasjonene, sammen med toleransene når disse ikke er angitt i forskriften her.
+I det følgende omtales
+
+1. de tre kategorier jernbanelinje som definert i vedlegg I nr. 1 bokstav b i [forskrift av 8. april 1999 nr. 424](forskrift/1999-04-08-424) om samtrafikkevnen i det transeuropeiske jernbanesystem for høyhastighetstog slik:
+
+   - kategori I: jernbanelinjer som er særskilt bygd for høyhastighetstog, og som er utstyrt for hastigheter i alminnelighet på minst 250 km/t,
+   - kategori II: jernbanelinjer som er særskilt opprustet for høyhastighetstog, og som er utstyrt for hastigheter på omkring 200 km/t,
+   - kategori III: jernbanelinjer som er særskilt opprustet for høyhastighetstog, og som har særegne trekk på grunn av topografiske eller overflatemessige begrensninger eller beliggenhet i byområder der hastigheten må tilpasses i hvert enkelt tilfelle.
+2. særtilfellene fastsatt i artikkel 5 nr. 3 bokstav d i direktiv [96/48/EF](eu/31996l0048*). Reglene for gjennomføring av TSI-spesifikasjonene i disse særtilfellene vil imidlertid bli fastsatt i de tilhørende TSI-spesifikasjonene, sammen med toleransene når disse ikke er angitt i forskriften her.
 
 1.*Minste lasteprofil for infrastrukturer og profil for rullende materiell*
 
@@ -215,7 +225,11 @@ Høyere verdier for manglende overhøyde enn dem som er oppført i tabellen oven
 
 Manglende overhøyde på sporvekslers vikespor
 
-De største verdier for manglende overhøyde på sporveksler som velges ved prosjektering av vikespor skal være120 mm for sporveksler der tillatt hastighet ved veksling er 30 ≤ V ≤ 70 km/t,100 mm for sporveksler der tillatt hastighet ved veksling er 70 < V ≤ 170 km/t,85 mm for sporveksler der tillatt hastighet ved veksling er 170 < V ≤ 230 km/t.
+De største verdier for manglende overhøyde på sporveksler som velges ved prosjektering av vikespor skal være
+
+- 120 mm for sporveksler der tillatt hastighet ved veksling er 30 ≤ V ≤ 70 km/t,
+- 100 mm for sporveksler der tillatt hastighet ved veksling er 70 < V ≤ 170 km/t,
+- 85 mm for sporveksler der tillatt hastighet ved veksling er 170 < V ≤ 230 km/t.
 
 For eksisterende sporveksler på linjer som er opprustet for høyhastighetstog, tillates en toleranse på 10 mm på verdiene angitt ovenfor.
 
@@ -243,17 +257,38 @@ Sporvidden bestemmes til 1.435 mm, basert på det europeiske standardnettet. De 
 
 Enhver vogn som trafikkerer et jernbanespor, framkaller i berøringspunktet mellom hjul og skinner interaksjonskrefter i tre retninger: i loddrett retning, i sideretningen og i lengderetningen.
 
-Disse interaksjonskreftene skyldes hovedsakelig jernbaneanleggets fysiske egenskaper, nærmere bestemtden vertikale statiske belastningen fra vognen,kvasistatisk belastning i tverrplanet som følge av høy hastighet i kurver med manglende overhøyde, og i lengderetningen som følge av akselerasjons- eller retardasjonskrefter,dynamisk belastning i vertikal- og tverrplanet som følge av feil i sporgeometrien, som følge av sporets geometriske kvalitet, verdien for manglende overhøyde og utformingen av vognens oppheng,dynamisk belastning som følge av eventuell ustabilitet i boggiene, som et resultat av parametrer knyttet til kontakten mellom hjul og skinne.
+Disse interaksjonskreftene skyldes hovedsakelig jernbaneanleggets fysiske egenskaper, nærmere bestemt
+
+- den vertikale statiske belastningen fra vognen,
+- kvasistatisk belastning i tverrplanet som følge av høy hastighet i kurver med manglende overhøyde, og i lengderetningen som følge av akselerasjons- eller retardasjonskrefter,
+- dynamisk belastning i vertikal- og tverrplanet som følge av feil i sporgeometrien, som følge av sporets geometriske kvalitet, verdien for manglende overhøyde og utformingen av vognens oppheng,
+- dynamisk belastning som følge av eventuell ustabilitet i boggiene, som et resultat av parametrer knyttet til kontakten mellom hjul og skinne.
 
 4.2.*Kjennetegn som skal overholdes*
 
-Følgende regler må overholdes:Infrastrukturen skal kunne motstå en sidebelastning per aksel på minst
-*H*lim = 10 + (*P*/3)
-i kN, der P uttrykker den statiske belastningen i kN per aksel på et samtrafikktog.for alle vogner i samtrafikk skal det dokumenteres at det ikke overfører en sidebelastning på mer enn
-*H*lim = 10 + (*P*/3)
-til sporet, der P måles er den statiske belastningen i kN per aksel på vognen.kvotienten mellom den tverrgående og den vertikale belastningen på et hjul skal begrenses: (Y/Qlim) = 0,8, der Y er den dynamiske tverrgående belastningen og Qlim er den vertikale belastningen som et hjul utøver på skinnen.ustabilitet i boggiene skal unngås ved å holde parameteren «ekvivalent konisitet» på 0,15 med slitte skinner og hjul,akselerasjonen i lengderetningen skal ikke være høyere enn 2,5 m/s2.
+Følgende regler må overholdes:
 
-Ovennevnte kriterier skal oppfylles, idet det tas hensyn til følgende vilkår:høyeste verdi for statisk akselbelastning, P er angitt i del 9.øvre grense for dynamisk hjulbelastning (Q) er:V = 250 km/tQ ≤ 180 kN250 < V ≤ 300 km/tQ ≤ 170 kNV > 300 km/tQ ≤ 160 kNekvivalent konisitet skal være mindre enn eller lik 0,25 for hastigheter på opptil 280 km/t, 0,30 for hastigheter på opptil 250 km/t, 0,35 for hastigheter på opptil 230 km/t og 0,40 for hastigheter på opptil 200 km/t. Hastigheter over 230 km/t gjelder jernbanelinjer i kategori I, og hastigheter på opptil 250 km/t gjelder jernbanelinjer i kategori II og III.
+- Infrastrukturen skal kunne motstå en sidebelastning per aksel på minst
+  *H*lim = 10 + (*P*/3)
+  i kN, der P uttrykker den statiske belastningen i kN per aksel på et samtrafikktog.
+- for alle vogner i samtrafikk skal det dokumenteres at det ikke overfører en sidebelastning på mer enn
+  *H*lim = 10 + (*P*/3)
+  til sporet, der P måles er den statiske belastningen i kN per aksel på vognen.
+- kvotienten mellom den tverrgående og den vertikale belastningen på et hjul skal begrenses: (Y/Qlim) = 0,8, der Y er den dynamiske tverrgående belastningen og Qlim er den vertikale belastningen som et hjul utøver på skinnen.
+- ustabilitet i boggiene skal unngås ved å holde parameteren «ekvivalent konisitet» på 0,15 med slitte skinner og hjul,
+- akselerasjonen i lengderetningen skal ikke være høyere enn 2,5 m/s2.
+
+Ovennevnte kriterier skal oppfylles, idet det tas hensyn til følgende vilkår:
+
+- høyeste verdi for statisk akselbelastning, P er angitt i del 9.
+- øvre grense for dynamisk hjulbelastning (Q) er:
+
+  |  |  |
+  | --- | --- |
+  | V = 250 km/t | Q ≤ 180 kN |
+  | 250 < V ≤ 300 km/t | Q ≤ 170 kN |
+  | V > 300 km/t | Q ≤ 160 kN |
+- ekvivalent konisitet skal være mindre enn eller lik 0,25 for hastigheter på opptil 280 km/t, 0,30 for hastigheter på opptil 250 km/t, 0,35 for hastigheter på opptil 230 km/t og 0,40 for hastigheter på opptil 200 km/t. Hastigheter over 230 km/t gjelder jernbanelinjer i kategori I, og hastigheter på opptil 250 km/t gjelder jernbanelinjer i kategori II og III.
 
 5.*Minste perronglengde og største toglengde*
 
@@ -345,21 +380,32 @@ For hver av akslene tillates det en toleranse på 4%, og for den gjennomsnittlig
 
 10.1.*Beskrivelse av parameteren*
 
-Denne parameteren omhandler følgende egenskaper:strømforsyningens spenning og frekvens,effektfaktoren,forstyrrelser i signal- og telekommunikasjonssystemet,forstyrrelser i radiofrekvenser,den elektromagnetiske motstandsevnen til utstyr om bord.
+Denne parameteren omhandler følgende egenskaper:
+
+1. strømforsyningens spenning og frekvens,
+2. effektfaktoren,
+3. forstyrrelser i signal- og telekommunikasjonssystemet,
+4. forstyrrelser i radiofrekvenser,
+5. den elektromagnetiske motstandsevnen til utstyr om bord.
 
 10.2.*Kjennetegn som skal oppfylles*
 
-Følgende kjennetegn skal oppfylles:strømforsyningens spenning og frekvens:Spenningen ved koplingsklemmene til understasjoner og ved strømavtakeren/-avtakerne skal være i samsvar med verdiene i prEN 50 163, utkast 1, 1/2000, del 4.1. De viktigste verdiene er oppført nedenfor:*Strømforsynings–system**Laveste kontinuerlige spenning Umi n1
-Volt**Nominell spenning
-Volt**Høyeste kontinuerlige spenning
-Uma x1
-Volt*Likestrøm (gjennomsnitts–verdi)1.000
-2.0001.500
-3.0001.800
-3.600Vekselstrøm (gjennomsnitts–verdi)12.000
-19.00015.000
-25.00017.250
-27.500For systemer med 25 kV 50 Hz vekselstrøm kan frekvensen variere mellom 49 og 51 Hz, for systemer med 15 kV 16 2/3 Hz vekselstrøm kan den variere mellom 16 1/3 og 17 Hz.effektfaktor: En verdi på minst 0,95 skal overholdes for rullende materiell på jernbanelinjer i kategori I. I prENXXX(CII) inneholder de fullstendige krav til effektfaktorer.forstyrrelser i signal- og telekommunikasjonssystemet: disse kjennetegnene varierer med hvilket signal- og telekommunikasjonssystem som brukes, og vil bli angitt i de tilhørende TSI-spesifikasjonene. De vil bli oppført separat i infrastrukturregisteret.forstyrrelser i radiofrekvenser: europeisk standard 50 121.den elektromagnetiske motstandsevnen til utstyr om bord: europeisk standard 50 121.
+Følgende kjennetegn skal oppfylles:
+
+1. strømforsyningens spenning og frekvens:
+
+   Spenningen ved koplingsklemmene til understasjoner og ved strømavtakeren/-avtakerne skal være i samsvar med verdiene i prEN 50 163, utkast 1, 1/2000, del 4.1. De viktigste verdiene er oppført nedenfor:
+
+   | *Strømforsynings–system* | *Laveste kontinuerlige spenning Umi n1<br>Volt* | *Nominell spenning<br>Volt* | *Høyeste kontinuerlige spenning<br>Uma x1<br>Volt* |
+   | --- | --- | --- | --- |
+   | Likestrøm (gjennomsnitts–verdi) | 1.000<br>2.000 | 1.500<br>3.000 | 1.800<br>3.600 |
+   | Vekselstrøm (gjennomsnitts–verdi) | 12.000<br>19.000 | 15.000<br>25.000 | 17.250<br>27.500 |
+
+   For systemer med 25 kV 50 Hz vekselstrøm kan frekvensen variere mellom 49 og 51 Hz, for systemer med 15 kV 16 2/3 Hz vekselstrøm kan den variere mellom 16 1/3 og 17 Hz.
+2. effektfaktor: En verdi på minst 0,95 skal overholdes for rullende materiell på jernbanelinjer i kategori I. I prENXXX(CII) inneholder de fullstendige krav til effektfaktorer.
+3. forstyrrelser i signal- og telekommunikasjonssystemet: disse kjennetegnene varierer med hvilket signal- og telekommunikasjonssystem som brukes, og vil bli angitt i de tilhørende TSI-spesifikasjonene. De vil bli oppført separat i infrastrukturregisteret.
+4. forstyrrelser i radiofrekvenser: europeisk standard 50 121.
+5. den elektromagnetiske motstandsevnen til utstyr om bord: europeisk standard 50 121.
 
 11.*Mekaniske grenseverdier for rullende materiell*
 
@@ -367,7 +413,11 @@ Volt*Likestrøm (gjennomsnitts–verdi)1.000
 
 Det rullende materiellet må gi passasjerene og personalet beskyttelse i tilfelle kollisjon. Slik beskyttelse forutsetter at det er benyttet en byggemåte som sikrer at kollisjonsenergien absorberes, at deformasjonen av vognkassen begrenses, og at bufferklatring forhindres.
 
-Det er fastsatt tre kollisjonsscenarier:symmetrisk kollisjon mellom to like høyhastighetstog i en relativ hastighet på 36 km/t,kollisjon mellom et høyhastighetstog og en jernbanevogn utstyrt med sidebuffere (godsvogn i samsvar med UIC-dokument 571-2, med en masse på 80 t) i en hastighet på 36 km/t,kollisjon i en hastighet på 110 km/t på en planovergang med et veigående kjøretøy på 15 t, representert ved et fast legeme over skinnenivå med en loddrett støtflate.
+Det er fastsatt tre kollisjonsscenarier:
+
+1. symmetrisk kollisjon mellom to like høyhastighetstog i en relativ hastighet på 36 km/t,
+2. kollisjon mellom et høyhastighetstog og en jernbanevogn utstyrt med sidebuffere (godsvogn i samsvar med UIC-dokument 571-2, med en masse på 80 t) i en hastighet på 36 km/t,
+3. kollisjon i en hastighet på 110 km/t på en planovergang med et veigående kjøretøy på 15 t, representert ved et fast legeme over skinnenivå med en loddrett støtflate.
 
 11.2.*Kjennetegn som skal overholdes*
 
@@ -375,13 +425,22 @@ Det er fastsatt tre kollisjonsscenarier:symmetrisk kollisjon mellom to like høy
 
 *Scenario 2 og 3*: Førerhuset kan deformeres. Bakerst i førerhuset må det være et ikke-deformerbart overlevingsrom med en lengde på minst 0,75 m for føreren, og det må være fri adgang til sidedørene eller til motorrommet eller kupeen som er plassert bak førerhuset.
 
-Videre gjelder i alle tilfeller følgende:en energimengde på minst 6 MJ må kunne absorberes, hvorav minst 75% forrest i togsettets første vogn og resten fordelt over alle vognskjøter i togsettet.kupeene i forreste vogn og førerens overlevingsrom må være forsterket. Seksjonene som avgrenser disse rommene må være konstruert med en statisk motstandsevne på minst 1.500 kN over den gjennomsnittlige sammentrykkingskraft for deformasjonssonene ved de tre referansekollisjonene.motstanden til de andre vognene må stå i forhold til motstanden til forreste og bakerste vogn i togsettet.kreftene som oppstår under kollisjonen i de deformerbare sonene må ikke resultere i en gjennomsnittlig retardasjon på mer enn 5 g i passasjerdelen av forreste vogn og i førerens overlevingsrom.forrest på togsettet og mellom hver vogn må det være montert utstyr som forhindrer bufferklatring.
+Videre gjelder i alle tilfeller følgende:
+
+- en energimengde på minst 6 MJ må kunne absorberes, hvorav minst 75% forrest i togsettets første vogn og resten fordelt over alle vognskjøter i togsettet.
+- kupeene i forreste vogn og førerens overlevingsrom må være forsterket. Seksjonene som avgrenser disse rommene må være konstruert med en statisk motstandsevne på minst 1.500 kN over den gjennomsnittlige sammentrykkingskraft for deformasjonssonene ved de tre referansekollisjonene.
+- motstanden til de andre vognene må stå i forhold til motstanden til forreste og bakerste vogn i togsettet.
+- kreftene som oppstår under kollisjonen i de deformerbare sonene må ikke resultere i en gjennomsnittlig retardasjon på mer enn 5 g i passasjerdelen av forreste vogn og i førerens overlevingsrom.
+- forrest på togsettet og mellom hver vogn må det være montert utstyr som forhindrer bufferklatring.
 
 12.*Grenseverdier for ytre elektromagnetiske forstyrrelser*
 
 12.1.*Beskrivelse av parameteren*
 
-Den elektromagnetiske kompatibilitetmellom utstyret i delsystemet for styring og kontroll og utstyr som ikke er en del av jernbanesystemet for høyhastighetstog ogmellom utstyret i delsystemet for styring og kontroll og de andre delsystemene skal sikres.
+Den elektromagnetiske kompatibilitet
+
+- mellom utstyret i delsystemet for styring og kontroll og utstyr som ikke er en del av jernbanesystemet for høyhastighetstog og
+- mellom utstyret i delsystemet for styring og kontroll og de andre delsystemene skal sikres.
 
 Kompatibiliteten mellom delsystemet for energi og delsystemet for styring og kontroll er behandlet i del 10.
 
@@ -405,7 +464,10 @@ Støykriteriet innvendig anses ikke for å være en kritisk faktor for samtrafik
 
 Når et tog kjører gjennom en tunnel, oppstår det trykkbølger som avhenger av togets dimensjoner, de aerodynamiske egenskapene til togets forreste og bakerste del, togets, den innvendige tunneloverflatens, hastighetens og blokkeringsgradens friksjon (og dermed toglengden), dvs. forholdet mellom togets tverrsnitt og tverrsnitt av den frie del av tunnelen. Disse bølgene danner vanligvis skarpe fronter ved forreste og bakerste del av toget ved utgangen av tunnelen, med jevnere overganger imellom. De forplanter seg i tunnelens lengderetning med lydens hastighet, og reflekteres i tunnelåpningene med motsatt amplitude. Dersom to tog passerer hverandre i en tunnel, vil trykket som oppstår ved ethvert punkt i tunnelen på et gitt tidspunkt være lik summen av trykkbølgene som forplanter seg i tunnelen og trykkvariasjonen bak toget når det er i fart.
 
-For passasjerene kan disse trykkvariasjonene medføre risiko for følgende to forhold:Over en viss trykkverdi er det fare for alvorlige skader på trommehinnen.Ved lavere verdier kan det oppstå et visst ubehag i ørene.
+For passasjerene kan disse trykkvariasjonene medføre risiko for følgende to forhold:
+
+- Over en viss trykkverdi er det fare for alvorlige skader på trommehinnen.
+- Ved lavere verdier kan det oppstå et visst ubehag i ørene.
 
 14.2.*Kjennetegn som skal overholdes*
 
@@ -415,13 +477,19 @@ For passasjerene kan disse trykkvariasjonene medføre risiko for følgende to fo
 
 15.1.*Beskrivelse av parameteren*
 
-Kontaktpunktet mellom hjul og skinne (stål/stål) gir en begrenset friksjonskoeffisient. Dette innebærerat trekkraften som kreves for en gitt masse, øker sterkt med stigningen, ogat stopplengden, som avhenger av togets hastighet og vekt, øker sterkt med fallet.
+Kontaktpunktet mellom hjul og skinne (stål/stål) gir en begrenset friksjonskoeffisient. Dette innebærer
+
+- at trekkraften som kreves for en gitt masse, øker sterkt med stigningen, og
+- at stopplengden, som avhenger av togets hastighet og vekt, øker sterkt med fallet.
 
 Fall og stigninger fastsettes ut fra hvordan jernbanelinjen er planlagt brukt og ut fra de største verdiene som er angitt nedenfor.
 
 15.2.*Kjennetegn som skal overholdes*
 
-Største verdi for fall og stigninger for høyhastighetslinjer i kategori I er 35 ‰ forutsatt at følgende krav overholdes:som bestemmende fall/stigning over 10 km kan det være et fall på høyst 25 ‰.lengden på en stigning eller et fall (sammenhengende) på 35 ‰ kan være høyst 6.000 m.
+Største verdi for fall og stigninger for høyhastighetslinjer i kategori I er 35 ‰ forutsatt at følgende krav overholdes:
+
+- som bestemmende fall/stigning over 10 km kan det være et fall på høyst 25 ‰.
+- lengden på en stigning eller et fall (sammenhengende) på 35 ‰ kan være høyst 6.000 m.
 
 16.*Minste sporavstand*
 
@@ -429,7 +497,10 @@ Største verdi for fall og stigninger for høyhastighetslinjer i kategori I er 3
 
 Beskrivelse av parameteren
 
-Sporavstand er en parameter som er knyttet til to ulike funksjonskrav:Den må slik fastsettes at det ikke under noen omstendighet er den minste fare for at vogner på to nabospor kan kollidere. Dette kravet oppfylles ved at hvert av de aktuelle sporenes fastsatte lasteprofil for infrastruktur overholdes.Den må slik fastsettes at de aerodynamiske virkningene på tog som krysser hverandre, er forenlige med det rullende materiellets konstruksjon.
+Sporavstand er en parameter som er knyttet til to ulike funksjonskrav:
+
+- Den må slik fastsettes at det ikke under noen omstendighet er den minste fare for at vogner på to nabospor kan kollidere. Dette kravet oppfylles ved at hvert av de aktuelle sporenes fastsatte lasteprofil for infrastruktur overholdes.
+- Den må slik fastsettes at de aerodynamiske virkningene på tog som krysser hverandre, er forenlige med det rullende materiellets konstruksjon.
 
 16.2.*Kjennetegn som skal overholdes*
 

@@ -15,7 +15,7 @@ xml_hash: "e1039e41ac4fd067f58421724413e471a65435b86646640d88621f826a7444bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -264,7 +264,12 @@ Når nokon av partane i ei festeavtale vil setje fram krav etter føresegnene i 
 
 Festaren kan krevje å få innløyse ei festetomt til bustadhus eller fritidshus når det er gått 30 år av festetida – om ikkje kortare tid er avtalt – eller når festetida er ute. Etter at det er gått 30 år av festetida, kan festaren også krevje å få innløyse ei festetomt til bustadhus kvar gong det er gått to nye år, og ei festetomt til fritidshus kvar gong det er gått ti nye år.
 
-Når festetida er ute for ei slik tomt som er festa bort for festaren si livstid, kan desse krevje innløysing:festarens ektemake,livsarving til festaren,fosterbarn som står i same stilling som livsarving,nokon som dei siste to åra har høyrt til same husstand som festaren.
+Når festetida er ute for ei slik tomt som er festa bort for festaren si livstid, kan desse krevje innløysing:
+
+1. festarens ektemake,
+2. livsarving til festaren,
+3. fosterbarn som står i same stilling som livsarving,
+4. nokon som dei siste to åra har høyrt til same husstand som festaren.
 
 Til innløysing av festetomter med hus som skjer etter paragrafen her eller med heimel i festeavtala, trengst det ikkje samtykke frå offentleg styresmakt dersom samtykke til bortfeste vart gjeve på bortfestingstida, eller ikkje trongst etter reglane på den tida.
 
@@ -308,7 +313,10 @@ Ved innløysing av tomt som er festa bort til bustadhus eller fritidshus, skal i
 
 Med mindre partane er samde om innløysingsvilkåra, eller har avtalt vilkåra fastsette på annan måte, høyrer krav om innløysing under skjønn, som avgjer retten til innløysing, fastset innløysingssummen, innløysingsvilkåra elles og avgjer spørsmål som gjeld gjennomføringa av innløysinga.
 
-Kongen kan gje forskrift om kva som skal fylgje med ved innløysing og på kva måte innløysingsrett kan gjerast gjeldandei område der det er festa bort tomter til fritidshus etter ein samla plan, ogved punktfeste (§ 16 fyrste ledd tredje punktum).
+Kongen kan gje forskrift om kva som skal fylgje med ved innløysing og på kva måte innløysingsrett kan gjerast gjeldande
+
+1. i område der det er festa bort tomter til fritidshus etter ein samla plan, og
+2. ved punktfeste (§ 16 fyrste ledd tredje punktum).
 
 > Føyd til med [lov 2 juli 2004 nr. 63](lov/2004-07-02-63) (ikr. 1 nov 2004 iflg. [res. 15 okt 2004 nr. 1336](forskrift/2004-10-15-1336). Endringane skal gjelde der krav om innløysing eller lenging fremjast på grunnlag av at innløysingstida er inne eller festetida er ute 1 jan 2006 eller seinare. Ved krav om innløysing eller lenging når festetida er ute for ei tomt som er festa bort for festaren si livstid, gjeld likevel endringane der festaren døyr 1 nov 2004 eller seinare), endra med [lover 30 juni 2006 nr. 52](lov/2006-06-30-52) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 727](forskrift/2006-06-30-727)), [19 juni 2009 nr. 76](lov/2009-06-19-76) (ikr. 1 okt 2009 iflg. [res. 4 sep 2009 nr. 1152](forskrift/2009-09-04-1152)), [19 juni 2015 nr. 63](lov/2015-06-19-63) (ikr. 1 juli 2015, sjå endringslova del II).
 

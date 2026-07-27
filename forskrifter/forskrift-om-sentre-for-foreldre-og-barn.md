@@ -38,7 +38,11 @@ Forskriften gjelder for sentre for foreldre og barn, jf. [barnevernsloven § 10-
 
 ### § 3. Krav om godkjenning
 
-Sentre for foreldre og barn som tilbyr heldøgnstjenester skal godkjennes, jf. [barnevernsloven § 10-23](lov/2021-06-18-97/§10-23) første ledd og [§ 10-19](lov/2021-06-18-97/§10-19). Senteret kan bare godkjennes dersom det viloppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven,tilfredsstille vilkår stilt i eller med hjemmel i annen lovgivning ogellers vil bli drevet på en forsvarlig måte.
+Sentre for foreldre og barn som tilbyr heldøgnstjenester skal godkjennes, jf. [barnevernsloven § 10-23](lov/2021-06-18-97/§10-23) første ledd og [§ 10-19](lov/2021-06-18-97/§10-19). Senteret kan bare godkjennes dersom det vil
+
+1. oppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven,
+2. tilfredsstille vilkår stilt i eller med hjemmel i annen lovgivning og
+3. ellers vil bli drevet på en forsvarlig måte.
 
 Dersom særlige hensyn tilsier det kan sentre som ikke oppfyller alle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt vilkår stilt i eller med hjemmel i annen lovgivning, gis midlertidig godkjenning. Slik godkjenning kan bare gis dersom det er forsvarlig ut fra hensynet til familiene og senteret ellers kan drives på forsvarlig måte. Midlertidig godkjenning kan bare gis én gang for en periode inntil seks måneder.
 
@@ -110,7 +114,16 @@ Med internkontroll menes systematiske tiltak som skal sikre at senterets aktivit
 
 Internkontrollen skal tilpasses senterets størrelse, egenart, aktiviteter og risikoforhold og ha det omfang som er nødvendig for å oppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven.
 
-Som et ledd i internkontrollen skal senteret blant annetbeskrive hvordan senteret er organisert, samt senterets hovedoppgaver og mål, herunder mål for forbedringsarbeidet. Det skal klart fremgå hvordan ansvar, oppgaver og myndighet er fordelt,sikre at arbeidstakerne har tilgang til og kunnskap om aktuelle lover og forskrifter som gjelder for senteret,sørge for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagområdet, samt om senterets internkontroll,sørge for at arbeidstakerne, oppdragstakerne og samarbeidspartnerne medvirker slik at samlet kunnskap og erfaring utnyttes,gjøre bruk av erfaringer fra barn og foreldre til forbedring av senteret, samt gjøre bruk av erfaringer fra barnevernstjenestene,skaffe oversikt over områder i senteret hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav,utvikle, iverksette, kontrollere, evaluere og forbedre nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av barnevernlovgivningen,foreta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i senteret.
+Som et ledd i internkontrollen skal senteret blant annet
+
+1. beskrive hvordan senteret er organisert, samt senterets hovedoppgaver og mål, herunder mål for forbedringsarbeidet. Det skal klart fremgå hvordan ansvar, oppgaver og myndighet er fordelt,
+2. sikre at arbeidstakerne har tilgang til og kunnskap om aktuelle lover og forskrifter som gjelder for senteret,
+3. sørge for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagområdet, samt om senterets internkontroll,
+4. sørge for at arbeidstakerne, oppdragstakerne og samarbeidspartnerne medvirker slik at samlet kunnskap og erfaring utnyttes,
+5. gjøre bruk av erfaringer fra barn og foreldre til forbedring av senteret, samt gjøre bruk av erfaringer fra barnevernstjenestene,
+6. skaffe oversikt over områder i senteret hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav,
+7. utvikle, iverksette, kontrollere, evaluere og forbedre nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av barnevernlovgivningen,
+8. foreta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i senteret.
 
 ### § 13. Dokumentasjon
 

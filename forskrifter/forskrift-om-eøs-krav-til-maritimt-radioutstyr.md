@@ -15,7 +15,7 @@ xml_hash: "970ef9d60a7dc711a13f02db055863bf9b6443a566b5ac30238f708b82a1f062"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,21 @@ På Svalbard kan det, for utstyr som omfattes av forskriften, alternativt gis ti
 
 ## § 2. Definisjoner
 
-I forskriften menes med:*EØS-skip:* skip som fører EØS-flagg og som faller inn under virkeområdet til relevante konvensjoner fra Den internasjonale sjøfartsorganisasjonen (IMO)*rattmerke:* symbolet angitt i vedlegg B*gjøre tilgjengelig på markedet:* enhver levering av et maritimt radioutstyr i EØS i forbindelse med kommersiell virksomhet, enten mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre et maritimt radioutstyr tilgjengelig i EØS for første gang*produsent:* enhver fysisk eller juridisk person som produserer maritimt radioutstyr, eller som får maritimt radioutstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke*autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et maritimt radioutstyr fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et maritimt radioutstyr tilgjengelig på markedet*markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren*samsvarsvurdering:* en prosess for å fastslå om kravene i forskriften her er oppfylt*teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et maritimt radioutstyr som er plassert om bord på EØS-skip eller som har blitt anskaffet for plassering om bord på et EØS-skip*tilbaketrekking:* ethvert tiltak med sikte på å hindre at et maritimt radioutstyr i omsetningskjeden blir gjort tilgjengelig på markedet.
+I forskriften menes med:
+
+1. *EØS-skip:* skip som fører EØS-flagg og som faller inn under virkeområdet til relevante konvensjoner fra Den internasjonale sjøfartsorganisasjonen (IMO)
+2. *rattmerke:* symbolet angitt i vedlegg B
+3. *gjøre tilgjengelig på markedet:* enhver levering av et maritimt radioutstyr i EØS i forbindelse med kommersiell virksomhet, enten mot betaling eller vederlagsfritt
+4. *bringe i omsetning:* gjøre et maritimt radioutstyr tilgjengelig i EØS for første gang
+5. *produsent:* enhver fysisk eller juridisk person som produserer maritimt radioutstyr, eller som får maritimt radioutstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke
+6. *autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+7. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et maritimt radioutstyr fra en tredjestat i omsetning i EØS
+8. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et maritimt radioutstyr tilgjengelig på markedet
+9. *markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren
+10. *samsvarsvurdering:* en prosess for å fastslå om kravene i forskriften her er oppfylt
+11. *teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet
+12. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et maritimt radioutstyr som er plassert om bord på EØS-skip eller som har blitt anskaffet for plassering om bord på et EØS-skip
+13. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at et maritimt radioutstyr i omsetningskjeden blir gjort tilgjengelig på markedet.
 
 ## § 3. Krav til maritimt radioutstyr
 
@@ -62,7 +76,11 @@ Der produsent ikke er hjemmehørende i EØS, skal produsenten gi en autorisert r
 
 Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten.
 
-På grunnlag av fullmakten skal autorisert representant minst kunne:stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i minst ti år etter at det maritime radioutstyret ble rattmerket, og ikke kortere enn forventet levetid for det maritime radioutstyret,på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at maritimt radioutstyr er i samsvar med kravene i forskriften,på anmodning samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved det maritime radioutstyret.
+På grunnlag av fullmakten skal autorisert representant minst kunne:
+
+1. stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i minst ti år etter at det maritime radioutstyret ble rattmerket, og ikke kortere enn forventet levetid for det maritime radioutstyret,
+2. på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at maritimt radioutstyr er i samsvar med kravene i forskriften,
+3. på anmodning samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved det maritime radioutstyret.
 
 ## § 6. Importør og distributør
 
@@ -76,7 +94,11 @@ Importør og distributør skal i ti år etter at rattmerket er påført eller al
 
 Produsent eller dennes autoriserte representant skal la et teknisk kontrollorgan gjennomføre samsvarsvurderingen for maritimt radioutstyr etter prosedyrene i annet eller tredje ledd.
 
-Når EF-typeprøving (modul B) anvendes, skal maritimt radioutstyr før det bringes i omsetning, gjennomgå:typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen (modul D), ellertypesamsvar på grunnlag av kvalitetssikring av produkter (modul E), ellertypesamsvar på grunnlag av produktverifisering (modul F).
+Når EF-typeprøving (modul B) anvendes, skal maritimt radioutstyr før det bringes i omsetning, gjennomgå:
+
+1. typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen (modul D), eller
+2. typesamsvar på grunnlag av kvalitetssikring av produkter (modul E), eller
+3. typesamsvar på grunnlag av produktverifisering (modul F).
 
 I de tilfeller hvor utstyr er produsert enkeltvis eller i et lite antall og ikke serie- eller masseprodusert, kan samsvar på grunnlag av verifisering av enkelteksemplarer (modul G) anvendes som prosedyre for samsvarsvurdering.
 
@@ -166,7 +188,11 @@ Radioutstyr oppført som nytt punkt etter gjennomføringsforordning [(EU) 2020/1
 
 1. Generelt: I tillegg til de prøvingsstandardene som uttrykkelig er nevnt i dette vedlegget, krever typeprøving (typegodkjenning) samsvar med de gjeldende krav i de internasjonale konvensjonene og i de relevante IMO-resolusjonene og -rundskrivene. Slikt samsvar er fastsatt i modulene for samsvarsvurdering i direktiv [2014/90/EU](eu/32014l0090).
 2. Kolonne 3: Når to sett med identifiserende standarder er atskilt med «eller», tilfredsstiller begge sett alle kravene som skal oppfylles ved prøvingen etter IMOs ytelsesstandarder. Prøving av utstyr etter ett sett standarder er derfor tilstrekkelig for å godtgjøre at det er i samsvar med kravene i de relevante internasjonale instrumentene. Når det er brukt andre skilletegn (komma), gjelder derimot alle standardene som er nevnt.
-3. Kolonne 6: For å ta hensyn til tidsrammene for skipsbygging, gjelder følgende fortolkninger for plassering om bord (angitt i parentes bak datoene), alt etter karakteristikkene til det enkelte maritime radioutstyret:Første installasjon av utstyret i dets funksjonsposisjon om bord på et EU-skip som definert i [artikkel 2 i direktiv 2014/90/EU](eu/32014l0090/a2).Første installasjon av utstyret i dets funksjonsposisjon eller stuing i dets funksjonsposisjon om bord på et EU-skip.Levering av utstyret til skipsverftet hvis dette skjer innen 30 måneder før første installasjon av utstyret i dets funksjonsposisjon.
+3. Kolonne 6: For å ta hensyn til tidsrammene for skipsbygging, gjelder følgende fortolkninger for plassering om bord (angitt i parentes bak datoene), alt etter karakteristikkene til det enkelte maritime radioutstyret:
+
+   1. Første installasjon av utstyret i dets funksjonsposisjon om bord på et EU-skip som definert i [artikkel 2 i direktiv 2014/90/EU](eu/32014l0090/a2).
+   2. Første installasjon av utstyret i dets funksjonsposisjon eller stuing i dets funksjonsposisjon om bord på et EU-skip.
+   3. Levering av utstyret til skipsverftet hvis dette skjer innen 30 måneder før første installasjon av utstyret i dets funksjonsposisjon.
 4. Der det finnes to rader for én oppføring av maritimt radioutstyr (f.eks. MED/5.18), inneholder den andre (nedre) raden de oppdaterte kravene i de internasjonale instrumentene i forhold til de som er angitt i den første (øvre) raden.
 5. I slike tilfeller som omtalt i d, og hvis det ikke er angitt dato i kolonne 5 og 6, betyr dette at det ikke har vært noen endring i prøvingsstandardene, og at det aktuelle maritime radioutstyret skal være i samsvar med kravene angitt i den (andre) nedre raden.
 6. Der det finnes flere enn to rader for én oppføring av maritimt radioutstyr (f.eks. MED/4.38a), inneholder den nederste raden de oppdaterte kravene i de internasjonale instrumentene i forhold til de som er angitt i de øverste radene.
@@ -309,7 +335,16 @@ Høyden skal være minst 5 mm. De forskjellige delene av merket skal så langt d
 
 ## Vedlegg C. Samsvarserklæring
 
-Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)Produkt (produktnavn, typebetegnelse, parti- eller serienummer):Navn og adresse til produsent eller produsentens autoriserte representant:Denne samsvarserklæringen er utferdiget under eneansvar av produsenten:Produktet som samsvarserklæres (identifisering av produkt slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer produktet):Produktet er i samsvar med følgende relevante EU-lovgivning:Referanse til harmoniserte standarder og spesifikasjoner som er anvendt for dokumentasjon av samsvar:Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte sertifikat:Supplerende opplysninger:
+Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)
+
+1. Produkt (produktnavn, typebetegnelse, parti- eller serienummer):
+2. Navn og adresse til produsent eller produsentens autoriserte representant:
+3. Denne samsvarserklæringen er utferdiget under eneansvar av produsenten:
+4. Produktet som samsvarserklæres (identifisering av produkt slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer produktet):
+5. Produktet er i samsvar med følgende relevante EU-lovgivning:
+6. Referanse til harmoniserte standarder og spesifikasjoner som er anvendt for dokumentasjon av samsvar:
+7. Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte sertifikat:
+8. Supplerende opplysninger:
 
 Underskrevet for og på vegne av:
 
@@ -324,11 +359,31 @@ EF-typeprøving
 
 1\. EF-typeprøving er den del av framgangsmåten for samsvarsvurdering der et meldt organ undersøker det maritime radioutstyrets tekniske konstruksjon og kontrollerer og bekrefter at det maritime radioutstyrets tekniske konstruksjon oppfyller gjeldende krav.
 
-2\. EF-typeprøving kan utføres på en av følgende måter:Undersøkelse av et eksemplar som er representativ for den planlagte produksjonen av det fullstendige produktet (produksjonstype),en vurdering av egnetheten til det maritime radioutstyrets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt undersøkelse av eksemplarer av det fullstendige produktet som er representativt for den planlagte produksjonen, av en eller flere kritiske deler av produktet (kombinasjon av produksjonstype og utformingstype).
+2\. EF-typeprøving kan utføres på en av følgende måter:
 
-3\. Produsenten skal inngi en søknad om EF-typeprøving til ett meldt organ etter eget valg.Søknaden skal omfatteprodusentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det maritime utstyret er i samsvar med gjeldende krav i de internasjonale instrumenter, og skal omfatte en tilfredsstillende risikoanalyse og -vurdering. Den tekniske dokumentasjonen skal inneholde en beskrivelse av kravene som gjelder, og omfatte, så langt det er relevant for vurderingen, det maritime radioutstyrs konstruksjon, framstilling og virkemåte. Den tekniske dokumentasjonen skal der dette er relevant, minst inneholde:en generell beskrivelse av det maritime radioutstyret,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, kretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister, og hvordan det maritime radioutstyret fungerer,en oversikt over de krav og målestandarder som gjelder for det aktuelle maritime radioutstyret i henhold til denne forskriften, og en bekrivelse av løsningene som er brukt for å oppfylle disse kravene.resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samtmålerapporter,prøveeksemplarer som er representative for den planlagte produksjonen. Det meldte organet kan be om flere eksemplarer dersom dette er nødvendig for å kunne utføre måleprogrammet,underlagsdokumentasjon for hvorvidt den tekniske utformingsløsningen er tilfredsstillende. Denne støttedokumentasjonen skal nevne alle dokumenter som er anvendt. Underlagsdokumentasjonen skal der dette er nødvendig omfatte resultatene fra målinger utført av et egnet laboratorium hos produsenten, eller av et annet målelaboratorium på produsentens vegne og ansvar.
+- Undersøkelse av et eksemplar som er representativ for den planlagte produksjonen av det fullstendige produktet (produksjonstype),
+- en vurdering av egnetheten til det maritime radioutstyrets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt undersøkelse av eksemplarer av det fullstendige produktet som er representativt for den planlagte produksjonen, av en eller flere kritiske deler av produktet (kombinasjon av produksjonstype og utformingstype).
 
-4\. Det meldte organet skal:Vedrørende maritimt radioutstyr,
+3\. Produsenten skal inngi en søknad om EF-typeprøving til ett meldt organ etter eget valg.
+
+Søknaden skal omfatte
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det maritime utstyret er i samsvar med gjeldende krav i de internasjonale instrumenter, og skal omfatte en tilfredsstillende risikoanalyse og -vurdering. Den tekniske dokumentasjonen skal inneholde en beskrivelse av kravene som gjelder, og omfatte, så langt det er relevant for vurderingen, det maritime radioutstyrs konstruksjon, framstilling og virkemåte. Den tekniske dokumentasjonen skal der dette er relevant, minst inneholde:
+
+  1. en generell beskrivelse av det maritime radioutstyret,
+  2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, kretsskjemaer osv.,
+  3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister, og hvordan det maritime radioutstyret fungerer,
+  4. en oversikt over de krav og målestandarder som gjelder for det aktuelle maritime radioutstyret i henhold til denne forskriften, og en bekrivelse av løsningene som er brukt for å oppfylle disse kravene.
+  5. resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samt
+  6. målerapporter,
+- prøveeksemplarer som er representative for den planlagte produksjonen. Det meldte organet kan be om flere eksemplarer dersom dette er nødvendig for å kunne utføre måleprogrammet,
+- underlagsdokumentasjon for hvorvidt den tekniske utformingsløsningen er tilfredsstillende. Denne støttedokumentasjonen skal nevne alle dokumenter som er anvendt. Underlagsdokumentasjonen skal der dette er nødvendig omfatte resultatene fra målinger utført av et egnet laboratorium hos produsenten, eller av et annet målelaboratorium på produsentens vegne og ansvar.
+
+4\. Det meldte organet skal:
+
+Vedrørende maritimt radioutstyr,
 
 4.1. undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om det maritime radioutstyrets tekniske konstruksjon er tilfredsstillende, for eksemplaret(ene),
 
@@ -340,11 +395,21 @@ EF-typeprøving
 
 5\. Det meldte organet skal utarbeide en evalueringsrapport som registrerer de aktiviteter som er foretatt i samsvar med nr. 4, samt resultatene av disse. Uten at det berører det meldte organets plikter vis-à-vis meldingsmyndighetene, skal det meldte organet bare kunne offentliggjøre innholdet i denne rapporten, full ut eller delvis, etter avtale med produsenten.
 
-6\. Når produkttypen oppfyller kravene til de relevante internasjonale instrumenter som får anvendelse for det maritime radioutstyret, skal det meldte organet utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene fra undersøkelsen, eventuelle vilkår for gyldigheten av sertifikatet, og de opplysninger som er nødvendig for å identifisere den godkjente produkttypen. Sertifikatet kan ha ett eller flere vedlegg.Sertifikatet og dets vedlegg skal inneholde alle relevante opplysninger som er nødvendig for å evaluere samsvaret mellom de framstilte produktene og den undersøkte typen, og eventuelt muliggjøre kontroll under bruk.Dersom typen ikke oppfyller de relevante kravene i internasjonale instrumenter, skal det meldte organet avslå utstedelse av et EF-typeprøvingssertifikat og underrette søkeren om dette, der det gis en detaljert begrunnelse for avslaget.
+6\. Når produkttypen oppfyller kravene til de relevante internasjonale instrumenter som får anvendelse for det maritime radioutstyret, skal det meldte organet utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene fra undersøkelsen, eventuelle vilkår for gyldigheten av sertifikatet, og de opplysninger som er nødvendig for å identifisere den godkjente produkttypen. Sertifikatet kan ha ett eller flere vedlegg.
 
-7\. Dersom den godkjente typen ikke lenger oppfyller gjeldende krav, skal det meldte organ avgjøre om det kreves ytterligere prøving eller en ny framgangsmåte for samsvarsvurdering.Produsenten skal underrette det meldte organ som har den tekniske dokumentasjonen for EF-typeprøvningssertifikatet om alle endringer av den godkjente typen som kan ha betydning for om det maritime radioutstyret oppfyller kravene i internasjonale instrumenter eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EF-typeprøvningssertifikatet.
+Sertifikatet og dets vedlegg skal inneholde alle relevante opplysninger som er nødvendig for å evaluere samsvaret mellom de framstilte produktene og den undersøkte typen, og eventuelt muliggjøre kontroll under bruk.
 
-8\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som de har utstedt eller trukket tilbake, og skal, med jevne mellomrom eller på anmodning, gjøre tilgjengelig for sine meldingsmyndigheter listen over sertifikater og/eller eventuelle tillegg til disse som er avslått, suspendert eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som de har avslått, trukket tilbake, suspendert eller på annen måte begrenset, og på anmodning om sertifikater og/eller tillegg til disse de har utstedt.Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller deres tillegg. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene utført av det meldte organet. Det meldte organet skal beholde en kopi av EF-typeprøvingssertifikatet, dets vedlegg og tillegg, samt den tekniske dokumentasjonen, herunder den dokumentasjonen som er lagt fram av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
+Dersom typen ikke oppfyller de relevante kravene i internasjonale instrumenter, skal det meldte organet avslå utstedelse av et EF-typeprøvingssertifikat og underrette søkeren om dette, der det gis en detaljert begrunnelse for avslaget.
+
+7\. Dersom den godkjente typen ikke lenger oppfyller gjeldende krav, skal det meldte organ avgjøre om det kreves ytterligere prøving eller en ny framgangsmåte for samsvarsvurdering.
+
+Produsenten skal underrette det meldte organ som har den tekniske dokumentasjonen for EF-typeprøvningssertifikatet om alle endringer av den godkjente typen som kan ha betydning for om det maritime radioutstyret oppfyller kravene i internasjonale instrumenter eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EF-typeprøvningssertifikatet.
+
+8\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som de har utstedt eller trukket tilbake, og skal, med jevne mellomrom eller på anmodning, gjøre tilgjengelig for sine meldingsmyndigheter listen over sertifikater og/eller eventuelle tillegg til disse som er avslått, suspendert eller på annen måte begrenset.
+
+Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som de har avslått, trukket tilbake, suspendert eller på annen måte begrenset, og på anmodning om sertifikater og/eller tillegg til disse de har utstedt.
+
+Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller deres tillegg. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene utført av det meldte organet. Det meldte organet skal beholde en kopi av EF-typeprøvingssertifikatet, dets vedlegg og tillegg, samt den tekniske dokumentasjonen, herunder den dokumentasjonen som er lagt fram av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
 
 9\. Produsenten skal kunne stille en kopi av EF-typeprøvingssertifikatet, dets vedlegg og tillegg, sammen med den tekniske dokumentasjonen, til rådighet for de nasjonale myndighetene i en periode på minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
 
@@ -355,25 +420,56 @@ Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen
 
 1\. Typesamsvar basert på kvalitetssikring av produksjonsprosessen er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2 og 5, og forsikrer og erklærer som eneansvarlig at det berørte maritime radioutstyret er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i de relevante internasjonale instrumenter.
 
-2\. ProduksjonProdusenten skal anvende et godkjent kvalitetssystem for framstilling, for inspeksjon av sluttproduktet samt for prøving av vedkommende produkter som omhandlet i nr. 3, og være underlagt tilsyn som omhandlet i nr. 4.
+2\. Produksjon
+
+Produsenten skal anvende et godkjent kvalitetssystem for framstilling, for inspeksjon av sluttproduktet samt for prøving av vedkommende produkter som omhandlet i nr. 3, og være underlagt tilsyn som omhandlet i nr. 4.
 
 3\. Kvalitetssystem
 
-3.1. Produsenten skal legge fram en søknad om vurdering av sitt kvalitetssystem for det berørte maritime radioutstyret for et meldt organ etter eget valg.Søknaden skal omfatte:produsentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte produktkategorien,dokumentasjonen av kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+3.1. Produsenten skal legge fram en søknad om vurdering av sitt kvalitetssystem for det berørte maritime radioutstyret for et meldt organ etter eget valg.
 
-3.2. Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og med kravene i de relevante internasjonale instrumenter.Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og anvisninger. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.Den skal særlig omfatte en tilstrekkelig beskrivelse avkvalitetsmålene og organisasjonsstrukturen, samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilsvarende teknikkene for framstilling, kvalitetskontroll og kvalitetssikring, samt prosesser og systematiske metoder som vil bli benyttet,undersøkelsene og prøvingene som vil bli utført før, under og etter framstillingen, samt hvor ofte disse vil finne sted,kvalitetsregistrene, som for eksempel inspeksjonsrapporter og kontrolldata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,metoder for kontroll av om den nødvendige produktkvaliteten blir oppnådd, og at kvalitetssystemet fungerer effektivt.
+Søknaden skal omfatte:
 
-3.3. Det meldte organet skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene omhandlet i nr. 3.2.I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innen evaluering på relevant produktområde og med relevant produktteknologi, samt kunnskaper om gjeldende krav i internasjonale instrumenter. Revisjonen skal omfatte et besøk ved produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1. femte strekpunkt for å verifisere produsentens evne til å identifisere de relevante kravene i rettsakten og til å utføre nødvendige undersøkelser for å sikre at produktet overholder disse kravene.Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
+- produsentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- alle opplysninger som er relevante for den planlagte produktkategorien,
+- dokumentasjonen av kvalitetssystemet,
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+
+3.2. Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og med kravene i de relevante internasjonale instrumenter.
+
+Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og anvisninger. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.
+
+Den skal særlig omfatte en tilstrekkelig beskrivelse av
+
+- kvalitetsmålene og organisasjonsstrukturen, samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- de tilsvarende teknikkene for framstilling, kvalitetskontroll og kvalitetssikring, samt prosesser og systematiske metoder som vil bli benyttet,
+- undersøkelsene og prøvingene som vil bli utført før, under og etter framstillingen, samt hvor ofte disse vil finne sted,
+- kvalitetsregistrene, som for eksempel inspeksjonsrapporter og kontrolldata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,
+- metoder for kontroll av om den nødvendige produktkvaliteten blir oppnådd, og at kvalitetssystemet fungerer effektivt.
+
+3.3. Det meldte organet skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene omhandlet i nr. 3.2.
+
+I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innen evaluering på relevant produktområde og med relevant produktteknologi, samt kunnskaper om gjeldende krav i internasjonale instrumenter. Revisjonen skal omfatte et besøk ved produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1. femte strekpunkt for å verifisere produsentens evne til å identifisere de relevante kravene i rettsakten og til å utføre nødvendige undersøkelser for å sikre at produktet overholder disse kravene.
+
+Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
 
 3.4. Produsenten skal forplikte seg til å oppfylle pliktene som følger av kvalitetssystemet slik dette er godkjent, og til å vedlikeholde det slik at det fortsatt fungerer på en hensiktsmessig og effektivt.
 
-3.5. Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om alle planlagte endringer av kvalitetssystemet.Det meldte organet skal vurdere alle foreslåtte endringer og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene omhandlet i nr. 3.2, eller om det er nødvendig med en ny vurdering.Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
+3.5. Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om alle planlagte endringer av kvalitetssystemet.
+
+Det meldte organet skal vurdere alle foreslåtte endringer og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene omhandlet i nr. 3.2, eller om det er nødvendig med en ny vurdering.
+
+Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
 
 4\. Tilsyn underlagt det meldte organets ansvar
 
 4.1. Formålet med tilsynet er å sikre at produsenten på behørig måte oppfyller pliktene som følger av det godkjente kvalitetssystemet.
 
-4.2. Produsenten skal for vurderingsformål gi det meldte organet tilgang til produksjons-, inspeksjons-, kontroll- og lagringssteder og gi det alle nødvendige opplysninger, særligkvalitetssystemets dokumentasjon,kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.
+4.2. Produsenten skal for vurderingsformål gi det meldte organet tilgang til produksjons-, inspeksjons-, kontroll- og lagringssteder og gi det alle nødvendige opplysninger, særlig
+
+- kvalitetssystemets dokumentasjon,
+- kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.
 
 4.3. Det meldte organet skal uføre periodiske revisjoner for å sikre at produsenten opprettholder og anvender kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
 
@@ -383,38 +479,78 @@ Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen
 
 5.1. Produsenten skal påføre rattmerket i vedlegg B, og under ansvaret til det meldte organet omhandlet i nr. 3.1., påføre det sistnevnte organs identifikasjonsnummer på hvert enkelt produkt som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller de relevante kravene i rettsakten.
 
-5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
+5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.
 
-6\. Produsenten skal i en periode på minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret, kunne stille følgende til rådighet for de nasjonale myndighetene:Dokumentasjonen omhandlet i nr. 3.1,endringen omhandlet i nr. 3.5, slik den er godkjent,beslutningene og rapportene fra det meldte organet som omhandlet i nr. 3.5, 4.3 og 4.4.
+En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
 
-7\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de godkjenninger av kvalitetssystemer som er gitt eller er trukket tilbake, og skal med jevne mellomrom eller på anmodning gjøre tilgjengelig for sine meldingsmyndigheter listen over kvalitetssystemer som er godkjent, avslått, suspendert eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om kvalitetssystemgodkjenninger som er avslått, suspendert, trukket tilbake eller på annen måte begrenset, og på anmodning om de kvalitetssystemgodkjenningene de har gitt.
+6\. Produsenten skal i en periode på minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret, kunne stille følgende til rådighet for de nasjonale myndighetene:
 
-8\. RepresentantProdusentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
+- Dokumentasjonen omhandlet i nr. 3.1,
+- endringen omhandlet i nr. 3.5, slik den er godkjent,
+- beslutningene og rapportene fra det meldte organet som omhandlet i nr. 3.5, 4.3 og 4.4.
+
+7\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de godkjenninger av kvalitetssystemer som er gitt eller er trukket tilbake, og skal med jevne mellomrom eller på anmodning gjøre tilgjengelig for sine meldingsmyndigheter listen over kvalitetssystemer som er godkjent, avslått, suspendert eller på annen måte begrenset.
+
+Hvert meldt organ skal underrette de andre meldte organene om kvalitetssystemgodkjenninger som er avslått, suspendert, trukket tilbake eller på annen måte begrenset, og på anmodning om de kvalitetssystemgodkjenningene de har gitt.
+
+8\. Representant
+
+Produsentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
 ### Modul E
 Typesamsvar basert på kvalitetssikring av produkter
 
 1\. Typesamsvar basert på kvalitetssikring av produkter er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2 og 5, og forsikrer og erklærer på eget ansvar at vedkommende produkter er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i relevante internasjonale instrumenter.
 
-2\. *Produksjon*Produsenten skal anvende et godkjent kvalitetssystem for utforming, for framstilling, for inspeksjon av sluttproduktet samt for prøving av vedkommende produkter som omhandlet i nr. 3, og skal være underlagt tilsyn som omhandlet i nr. 4.
+2\. *Produksjon*
+
+Produsenten skal anvende et godkjent kvalitetssystem for utforming, for framstilling, for inspeksjon av sluttproduktet samt for prøving av vedkommende produkter som omhandlet i nr. 3, og skal være underlagt tilsyn som omhandlet i nr. 4.
 
 3\. *Kvalitetssystem*
 
-3.1. Produsenten skal legge fram en søknad om vurdering av sitt kvalitetssystem for vedkommende produkter for et meldt organ etter eget valg.Søknaden skal omfatteprodusentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte produktkategorien,dokumentasjon av kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+3.1. Produsenten skal legge fram en søknad om vurdering av sitt kvalitetssystem for vedkommende produkter for et meldt organ etter eget valg.
 
-3.2. Kvalitetssystemet skal sikre at produktene er i samsvar med typen som er beskrevet i EF-typeprøvingssertifikatet og med de relevante kravene i internasjonale instrumenter.Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og bruksanvisninger. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.Den skal særlig omfatte en tilstrekkelig beskrivelse avkvalitetsmålene og organisasjonsstrukturen, samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelser og prøvinger som vil bli utført etter selve produksjonen,kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,midler til å kontrollere at kvalitetssystemet fungerer effektivt.
+Søknaden skal omfatte
 
-3.3. Det meldte organet skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene omhandlet i nr. 3.2.I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innen evaluering på relevant produktområde og med relevant produktteknologi, samt kunnskaper om de relevante kravene i de internasjonale instrumentene. Revisjonen skal omfatte et besøk for vurdering ved produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1. femte strekpunkt for å verifisere produsentens evne til å identifisere de relevante kravene i de internasjonale instrumenter og til å utføre nødvendige undersøkelser for å sikre at produktet overholder disse kravene.Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
+- produsentens navn og adresse, samt representantens navn og adresse dersom denne har inngitt søknaden,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- alle opplysninger som er relevante for den planlagte produktkategorien,
+- dokumentasjon av kvalitetssystemet, og
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+
+3.2. Kvalitetssystemet skal sikre at produktene er i samsvar med typen som er beskrevet i EF-typeprøvingssertifikatet og med de relevante kravene i internasjonale instrumenter.
+
+Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og bruksanvisninger. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.
+
+Den skal særlig omfatte en tilstrekkelig beskrivelse av
+
+- kvalitetsmålene og organisasjonsstrukturen, samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- undersøkelser og prøvinger som vil bli utført etter selve produksjonen,
+- kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,
+- midler til å kontrollere at kvalitetssystemet fungerer effektivt.
+
+3.3. Det meldte organet skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene omhandlet i nr. 3.2.
+
+I tillegg til erfaring med kvalitetsstyringssystemer skal revisjonsgruppen ha minst ett medlem med erfaring innen evaluering på relevant produktområde og med relevant produktteknologi, samt kunnskaper om de relevante kravene i de internasjonale instrumentene. Revisjonen skal omfatte et besøk for vurdering ved produsentens anlegg. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen omhandlet i nr. 3.1. femte strekpunkt for å verifisere produsentens evne til å identifisere de relevante kravene i de internasjonale instrumenter og til å utføre nødvendige undersøkelser for å sikre at produktet overholder disse kravene.
+
+Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
 
 3.4. Produsenten skal forplikte seg til å oppfylle pliktene som følger av kvalitetssystemet slik dette er godkjent, og til å vedlikeholde det slik at det fortsatt fungerer hensiktsmessig og effektivt.
 
-3.5. Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om alle planlagte endringer av kvalitetssystemet.Det meldte organet skal vurdere alle foreslåtte endringer og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene omhandlet i nr. 3.2, eller om det er nødvendig med en ny vurdering.Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
+3.5. Produsenten skal holde det meldte organet som godkjente kvalitetssystemet, underrettet om alle planlagte endringer av kvalitetssystemet.
+
+Det meldte organet skal vurdere alle foreslåtte endringer og avgjøre om det endrede kvalitetssystemet fortsatt vil oppfylle kravene omhandlet i nr. 3.2, eller om det er nødvendig med en ny vurdering.
+
+Produsenten skal underrettes om denne beslutningen. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnet vurderingsbeslutning.
 
 4\. *Tilsyn underlagt det meldte organets ansvar*
 
 4.1. Formålet med tilsyn er å sikre at produsenten på behørig måte oppfyller pliktene som følger av det godkjente kvalitetssystemet.
 
-4.2. Produsenten skal for vurderingsformål gi det meldte organet tilgang til produksjons-, inspeksjons-, kontroll- og lagringssteder og gi det alle nødvendige opplysninger, særligkvalitetssystemets dokumentasjon,kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.
+4.2. Produsenten skal for vurderingsformål gi det meldte organet tilgang til produksjons-, inspeksjons-, kontroll- og lagringssteder og gi det alle nødvendige opplysninger, særlig
+
+- kvalitetssystemets dokumentasjon,
+- kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.
 
 4.3. Det meldte organet skal uføre periodiske revisjoner for å sikre at produsenten opprettholder og anvender kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
 
@@ -424,28 +560,46 @@ Typesamsvar basert på kvalitetssikring av produkter
 
 5.1. Produsenten skal påføre den nødvendige samsvarsmerkingen fastsatt i rettsakten og under ansvaret til det meldte organet omhandlet i nr. 3.1, påføre det sistnevnte organs identifikasjonsnummer på hvert enkelt produkt som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller gjeldende krav i de internasjonale instrumenter.
 
-5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
+5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.
 
-6\. Produsenten skal i en periode på minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret, kunne stille følgende til rådighet for de nasjonale myndighetene:Dokumentasjonen omhandlet i nr. 3.1,endringen omhandlet i nr. 3.5, slik den er godkjent,beslutningene og rapportene fra det meldte organet som omhandlet i nr. 3.5, 4.3 og 4.4.
+En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
 
-7\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de godkjennelser av kvalitetssystemer som er gitt eller er trukket tilbake, og skal med jevne mellomrom eller på anmodning gjøre tilgjengelig for sine meldingsmyndigheter listen over kvalitetssystemer som er godkjent, avslått, suspendert eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, suspendert eller trukket tilbake, og på anmodning om de kvalitetssystemgodkjenningene de har gitt.
+6\. Produsenten skal i en periode på minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret, kunne stille følgende til rådighet for de nasjonale myndighetene:
 
-8\. *Representant*Produsentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
+- Dokumentasjonen omhandlet i nr. 3.1,
+- endringen omhandlet i nr. 3.5, slik den er godkjent,
+- beslutningene og rapportene fra det meldte organet som omhandlet i nr. 3.5, 4.3 og 4.4.
+
+7\. Hvert meldt organ skal underrette sine meldingsmyndigheter om de godkjennelser av kvalitetssystemer som er gitt eller er trukket tilbake, og skal med jevne mellomrom eller på anmodning gjøre tilgjengelig for sine meldingsmyndigheter listen over kvalitetssystemer som er godkjent, avslått, suspendert eller på annen måte begrenset.
+
+Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av kvalitetssystemer som er avslått, suspendert eller trukket tilbake, og på anmodning om de kvalitetssystemgodkjenningene de har gitt.
+
+8\. *Representant*
+
+Produsentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
 ### Modul F
 Typesamsvar basert på produktverifisering
 
 1\. Typesamsvar basert på produktverifisering er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene i nr. 2, 5.1 og 6, og sikrer og erklærer som eneansvarlig at de berørte produktene, som har vært omfattet av bestemmelsene i nr. 3, er i samsvar med typen som beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale instrumenter.
 
-2\. *Produksjon*Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de framstilte produktene er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i de relevante internasjonale instrumenter.
+2\. *Produksjon*
 
-3\. *Verifisering*Et meldt organ valgt av produsenten skal utføre egnede undersøkelser og prøvinger for å kontrollere at produktene er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet og med de relevante kravene i internasjonale instrumenter.Undersøkelsene og prøvingene for å kontrollere at produktene er i samsvar med de relevante kravene, skal etter produsentens valg utføres enten ved å undersøke og prøve hvert enkelt produkt som omhandlet i nr. 4, eller ved å undersøke og prøve produktene på statistisk grunnlag som omhandlet i nr. 5.
+Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de framstilte produktene er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i de relevante internasjonale instrumenter.
+
+3\. *Verifisering*
+
+Et meldt organ valgt av produsenten skal utføre egnede undersøkelser og prøvinger for å kontrollere at produktene er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet og med de relevante kravene i internasjonale instrumenter.
+
+Undersøkelsene og prøvingene for å kontrollere at produktene er i samsvar med de relevante kravene, skal etter produsentens valg utføres enten ved å undersøke og prøve hvert enkelt produkt som omhandlet i nr. 4, eller ved å undersøke og prøve produktene på statistisk grunnlag som omhandlet i nr. 5.
 
 4\. *Samsvarskontroll basert på undersøkelse og prøving av hvert enkelt produkt*
 
 4.1. Alle produktene skal undersøkes enkeltvis, og prøves i samsvar med dette krav fastsatt i denne forskrift, eller tilsvarende prøvinger, skal utføres for å verifisere samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet og med de relevante kravene i internasjonale instrumenter.
 
-4.2. Det meldte organ skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelser og prøvinger, og skal påføre sitt identifikasjonsnummer på hvert godkjente produkt, eller se til at det blir påført under det meldte organets ansvar.Produsenten skal kunne stille samsvarssertifikatene til rådighet for inspeksjonsformål for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
+4.2. Det meldte organ skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelser og prøvinger, og skal påføre sitt identifikasjonsnummer på hvert godkjente produkt, eller se til at det blir påført under det meldte organets ansvar.
+
+Produsenten skal kunne stille samsvarssertifikatene til rådighet for inspeksjonsformål for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
 
 5\. *Statistisk verifisering av samsvar*
 
@@ -453,7 +607,11 @@ Typesamsvar basert på produktverifisering
 
 5.2. Det skal tas en stikkprøve fra hvert parti. Alle produkter i en stikkprøve skal undersøkes enkeltvis, og egnede prøvinger som fastsatt i forskriften her, skal utføres for å sikre samsvar med de relevante kravene i internasjonale instrumenter og for å avgjøre om partiet skal godkjennes eller avvises.
 
-5.3. Dersom et parti blir godkjent, skal alle produktene i partiet anses som godkjent, bortsett fra de produktene i stikkprøven som ikke oppfylte kravene i prøvingene.Det meldte organet skal utstede et samsvarssertifikat med hensyn til de utførte undersøkelsene og prøvingene, og påføre sitt identifikasjonsnummer på hvert godkjente produkt eller se til at det blir påført under det meldte organets ansvar.Produsenten skal kunne stille samsvarssertifikatene til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
+5.3. Dersom et parti blir godkjent, skal alle produktene i partiet anses som godkjent, bortsett fra de produktene i stikkprøven som ikke oppfylte kravene i prøvingene.
+
+Det meldte organet skal utstede et samsvarssertifikat med hensyn til de utførte undersøkelsene og prøvingene, og påføre sitt identifikasjonsnummer på hvert godkjente produkt eller se til at det blir påført under det meldte organets ansvar.
+
+Produsenten skal kunne stille samsvarssertifikatene til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
 
 5.4. Dersom et parti blir forkastet, skal det meldte organet eller vedkommende myndighet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom partier forkastes ofte, kan det meldte organ midlertidig oppheve ordningen med statistisk verifisering og treffe hensiktsmessige tiltak.
 
@@ -461,27 +619,54 @@ Typesamsvar basert på produktverifisering
 
 6.1. Produsenten skal påføre rattmerket nevnt i vedlegg B, og under ansvaret til det meldte organet omhandlet i nr. 3, påføre det sistnevnte organs identifikasjonsnummer på hvert enkelt produkt som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og som oppfyller de relevante kravene i internasjonale instrumenter.
 
-6.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter. Dersom det meldte organet omhandlet i nr. 3 er enig i dette og underlagt organets ansvar, kan produsenten også påføre det meldte organets identifikasjonsnummer på produktene.
+6.2. Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret. Samsvarserklæringen skal identifisere den produktmodellen som den er utarbeidet for.
+
+En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter. Dersom det meldte organet omhandlet i nr. 3 er enig i dette og underlagt organets ansvar, kan produsenten også påføre det meldte organets identifikasjonsnummer på produktene.
 
 7\. Dersom det meldte organet godkjenner det, kan produsenten også, på organets ansvar, kan produsenten påføre det meldte organets identifikasjonsnummer på produktene under produksjonsprosessen.
 
-8\. *Representant*Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten. En representant kan ikke oppfylle produsentens plikter i henhold til nr. 2 og 5.1.
+8\. *Representant*
+
+Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten. En representant kan ikke oppfylle produsentens plikter i henhold til nr. 2 og 5.1.
 
 ### Modul G
 Samsvar basert på enhetsverifisering
 
 1\. Samsvar basert på enhetsverifisering er den framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2, 3 og 5, og forsikrer og erklærer på eget ansvar at vedkommende produkter som er underlagt bestemmelsene i nr. 4, er i samsvar med kravene i de relevante internasjonale instrumenter.
 
-2\. *Teknisk dokumentasjon*Produsenten skal utarbeide den tekniske dokumentasjonen og gjøre den tilgjengelig for det meldte organet omhandlet i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere produktets samsvar med de relevante kravene, og omfatte en fyllestgjørende risikoanalyse og -vurdering. Den tekniske dokumentasjonen skal angi de kravene som får anvendelse og omfatte, så langt det er relevant for vurderingen, produktets utforming, framstilling og virkemåte. Den tekniske dokumentasjonen skal, der dette er relevant, minst inneholde:en generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister samt driften av produktet,en oversikt over de krav og målestandarder som gjelder for det aktuelle maritime radioutstyret i henhold til denne forskriften, og en bekrivelse av løsningene som er brukt for å oppfylle disse kravene,resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samtmålerapporter.Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for relevante nasjonale myndigheter i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
+2\. *Teknisk dokumentasjon*
 
-3\. *Produksjon*Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de framstilte produktene er i samsvar med de relevante kravene i rettsakten.
+Produsenten skal utarbeide den tekniske dokumentasjonen og gjøre den tilgjengelig for det meldte organet omhandlet i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere produktets samsvar med de relevante kravene, og omfatte en fyllestgjørende risikoanalyse og -vurdering. Den tekniske dokumentasjonen skal angi de kravene som får anvendelse og omfatte, så langt det er relevant for vurderingen, produktets utforming, framstilling og virkemåte. Den tekniske dokumentasjonen skal, der dette er relevant, minst inneholde:
 
-4\. *Verifisering*Et meldt organ etter produsentens valg skal utføre egnede undersøkelser og prøvinger i samsvar med forskriften her, for å kontrollere om produktene er i samsvar med de relevante kravene internasjonale instrumenter.Det meldte organ skal utstede et samsvarssertifikat med hensyn til de utførte undersøkelsene og prøvingene, og påføre sitt identifikasjonsnummer på det godkjente produktet eller, underlagt det meldte organets ansvar, se til at det blir påført.Produsenten skal kunne stille samsvarssertifikatene til rådighet for de nasjonale myndighetene i minst 10 år etter rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
+- en generell beskrivelse av produktet,
+- konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,
+- beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister samt driften av produktet,
+- en oversikt over de krav og målestandarder som gjelder for det aktuelle maritime radioutstyret i henhold til denne forskriften, og en bekrivelse av løsningene som er brukt for å oppfylle disse kravene,
+- resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samt
+- målerapporter.
+
+Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for relevante nasjonale myndigheter i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
+
+3\. *Produksjon*
+
+Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de framstilte produktene er i samsvar med de relevante kravene i rettsakten.
+
+4\. *Verifisering*
+
+Et meldt organ etter produsentens valg skal utføre egnede undersøkelser og prøvinger i samsvar med forskriften her, for å kontrollere om produktene er i samsvar med de relevante kravene internasjonale instrumenter.
+
+Det meldte organ skal utstede et samsvarssertifikat med hensyn til de utførte undersøkelsene og prøvingene, og påføre sitt identifikasjonsnummer på det godkjente produktet eller, underlagt det meldte organets ansvar, se til at det blir påført.
+
+Produsenten skal kunne stille samsvarssertifikatene til rådighet for de nasjonale myndighetene i minst 10 år etter rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime radioutstyret.
 
 5\. *Samsvarsmerking og samsvarserklæring*
 
 5.1. Produsenten skal påføre rattmerket i vedlegg B og underlagt ansvaret til det meldte organet omhandlet i nr. 4, påføre det sistnevnte organs identifikasjonsnummer på hvert produkt som oppfyller de relevante kravene i internasjonale instrumenter.
 
-5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime utstyret. Samsvarserklæringen skal identifisere det produktet som den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
+5.2. Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille denne til rådighet for de nasjonale myndighetene i minst 10 år etter at rattmerket ble påført det sist produserte eksemplaret, og ikke under noen omstendigheter for en kortere periode enn den forventede levetiden for det aktuelle maritime utstyret. Samsvarserklæringen skal identifisere det produktet som den er utarbeidet for.
 
-6\. *Representant*Produsentens forpliktelser i henhold til nr. 2 og nr. 5 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
+En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for relevante myndigheter.
+
+6\. *Representant*
+
+Produsentens forpliktelser i henhold til nr. 2 og nr. 5 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.

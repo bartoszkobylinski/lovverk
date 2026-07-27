@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Institusjon etter helse- og omsorgstjenesteloven og institusjon under den kommunale helse- og omsorgstjenesten etter pasientskadeloven
 
-Som institusjon etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c og institusjon under den kommunale helse- og omsorgstjenesten etter [pasientskadeloven § 1](lov/2001-06-15-53/§1) regnes:Institusjon med heldøgns helse- og omsorgstjenester for barn og unge under 18 år som bor utenfor foreldrehjemmet som følge av behov for tjenester (barnebolig), herunder avlastningsboligerInstitusjon med heldøgns helse- og omsorgstjenester for rusmiddelavhengigeAldershjemSykehjemDøgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
+Som institusjon etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c og institusjon under den kommunale helse- og omsorgstjenesten etter [pasientskadeloven § 1](lov/2001-06-15-53/§1) regnes:
+
+1. Institusjon med heldøgns helse- og omsorgstjenester for barn og unge under 18 år som bor utenfor foreldrehjemmet som følge av behov for tjenester (barnebolig), herunder avlastningsboliger
+2. Institusjon med heldøgns helse- og omsorgstjenester for rusmiddelavhengige
+3. Aldershjem
+4. Sykehjem
+5. Døgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
 
 > Endret ved [forskrift 21 mars 2014 nr. 307](forskrift/2014-03-21-307) (i kraft 1 april 2014).
 

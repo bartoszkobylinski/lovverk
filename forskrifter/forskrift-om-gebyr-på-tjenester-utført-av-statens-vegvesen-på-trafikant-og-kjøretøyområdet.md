@@ -15,7 +15,7 @@ xml_hash: "db796422a49f85aca12ca5f2d5b76d84f31539f78e71b53251c15f3569ff3d81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,13 +32,28 @@ Denne forskriften gjelder gebyr på tjenester utført av Statens vegvesen på tr
 
 ### § 2-1. Gebyr for førerprøver, førerkort og kompetansebevis ved oppmøte
 
-Gebyrsatsene er som følger:Teoretisk prøve: kr 480,–Praktisk prøve, klasse B, C, CE, C1, C1E, D, DE, D1, D1E: kr 1 540,–Praktisk prøve, klasse A1, A2, A: kr 2 240,–Praktisk prøve, klasse BE, T, B (fjerne kode 78): kr 1 390,–Praktisk prøve, utrykningskompetanse: kr 1 540,–Produksjon av førerkort/kompetansebevis: kr 270-Fotografering: kr 100,–.
+Gebyrsatsene er som følger:
+
+1. Teoretisk prøve: kr 480,–
+2. Praktisk prøve, klasse B, C, CE, C1, C1E, D, DE, D1, D1E: kr 1 540,–
+3. Praktisk prøve, klasse A1, A2, A: kr 2 240,–
+4. Praktisk prøve, klasse BE, T, B (fjerne kode 78): kr 1 390,–
+5. Praktisk prøve, utrykningskompetanse: kr 1 540,–
+6. Produksjon av førerkort/kompetansebevis: kr 270-
+7. Fotografering: kr 100,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
 ### § 2-2. Gebyr for førerprøver, førerkort og kompetansebevis ved bruk av selvbetjening
 
-Gebyrsatsene er som følger:Teoretisk prøve: kr 420,–Praktisk prøve, klasse B, C, CE, C1, C1E, D, DE, D1, D1E: kr 1 490,–Praktisk prøve, klasse A1, A2, A: kr 2 190,–Praktisk prøve, klasse BE, T, B (fjerne kode 78): kr 1 340,–Praktisk prøve, utrykningskompetanse: kr 1 490,–Produksjon av førerkort/kompetansebevis: kr 160,–.
+Gebyrsatsene er som følger:
+
+1. Teoretisk prøve: kr 420,–
+2. Praktisk prøve, klasse B, C, CE, C1, C1E, D, DE, D1, D1E: kr 1 490,–
+3. Praktisk prøve, klasse A1, A2, A: kr 2 190,–
+4. Praktisk prøve, klasse BE, T, B (fjerne kode 78): kr 1 340,–
+5. Praktisk prøve, utrykningskompetanse: kr 1 490,–
+6. Produksjon av førerkort/kompetansebevis: kr 160,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -46,7 +61,9 @@ Gebyrsatsene er som følger:Teoretisk prøve: kr 420,–Praktisk prøve, klasse 
 
 ### § 3-1. Gebyr for utstedelse av dagsprøvekjennemerke
 
-Gebyrsatsene er som følger:Utstedelse av dagsprøvekjennemerke: kr 340,–.
+Gebyrsatsene er som følger:
+
+- Utstedelse av dagsprøvekjennemerke: kr 340,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -81,7 +98,11 @@ Gebyrsatsene er som følger:Utstedelse av dagsprøvekjennemerke: kr 340,–.
 
 ### § 4-1. Gebyr for enkeltgodkjenning av kjøretøy
 
-Gebyrsatsene for enkeltgodkjenning av kjøretøy er som følger:Kjøretøy med tillatt totalvekt til og med 3 500 kg: kr 1 750,–Kjøretøy med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 990,–Kjøretøy med tillatt totalvekt over 7 500 kg: kr 2 060,–.
+Gebyrsatsene for enkeltgodkjenning av kjøretøy er som følger:
+
+1. Kjøretøy med tillatt totalvekt til og med 3 500 kg: kr 1 750,–
+2. Kjøretøy med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 990,–
+3. Kjøretøy med tillatt totalvekt over 7 500 kg: kr 2 060,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -89,7 +110,14 @@ Gebyrsatsene for enkeltgodkjenning av kjøretøy er som følger:Kjøretøy med t
 
 ### § 5-1. Gebyr for enkeltgodkjenning og godkjenning etter ombygging
 
-Gebyrsatsene er som følger:Bil og tilhenger til bil med tillatt totalvekt til og med 3 500 kg: kr 1 750,–Bil og tilhenger til bil med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 990,–Bil og tilhenger til bil med tillatt totalvekt over 7 500 kg: kr 2 060,–Bil og tilhenger til bil under 1), fornyet søknad med begrenset kontroll: kr 1 500,–Bil og tilhenger til bil under 2), fornyet søknad med begrenset kontroll: kr 1 640,–Bil og tilhenger til bil under 3), fornyet søknad med begrenset kontroll: kr 1 790,–.
+Gebyrsatsene er som følger:
+
+1. Bil og tilhenger til bil med tillatt totalvekt til og med 3 500 kg: kr 1 750,–
+2. Bil og tilhenger til bil med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 990,–
+3. Bil og tilhenger til bil med tillatt totalvekt over 7 500 kg: kr 2 060,–
+4. Bil og tilhenger til bil under 1), fornyet søknad med begrenset kontroll: kr 1 500,–
+5. Bil og tilhenger til bil under 2), fornyet søknad med begrenset kontroll: kr 1 640,–
+6. Bil og tilhenger til bil under 3), fornyet søknad med begrenset kontroll: kr 1 790,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -103,7 +131,14 @@ Gebyr for prototyper etter [bilforskriften](forskrift/2022-06-28-1233) og tilhen
 
 ### § 6-1. Gebyr for enkeltgodkjenning og godkjenning etter ombygging
 
-Gebyrsatsene er som følger:Traktor og tilhenger til traktor med tillatt totalvekt til og med 3 500 kg: kr 1 600,–Traktor og tilhenger til traktor med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 830,–Traktor og tilhenger til traktor med tillatt totalvekt over 7 500 kg: kr 1 900,–Traktor og tilhenger til traktor under 1), fornyet søknad med begrenset kontroll: kr 1 350,–Traktor og tilhenger til traktor under 2), fornyet søknad med begrenset kontroll: kr 1 480,–Traktor og tilhenger til traktor under 3), fornyet søknad med begrenset kontroll: kr 1 630,–.
+Gebyrsatsene er som følger:
+
+1. Traktor og tilhenger til traktor med tillatt totalvekt til og med 3 500 kg: kr 1 600,–
+2. Traktor og tilhenger til traktor med tillatt totalvekt fra 3 501 kg til og med 7 500 kg: kr 1 830,–
+3. Traktor og tilhenger til traktor med tillatt totalvekt over 7 500 kg: kr 1 900,–
+4. Traktor og tilhenger til traktor under 1), fornyet søknad med begrenset kontroll: kr 1 350,–
+5. Traktor og tilhenger til traktor under 2), fornyet søknad med begrenset kontroll: kr 1 480,–
+6. Traktor og tilhenger til traktor under 3), fornyet søknad med begrenset kontroll: kr 1 630,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -111,7 +146,10 @@ Gebyrsatsene er som følger:Traktor og tilhenger til traktor med tillatt totalve
 
 ### § 7-1. Gebyr for enkeltgodkjenning og godkjenning etter ombygging
 
-Gebyrsatsene er som følger:Kjøretøy i gruppe L: kr 1 600,–Kjøretøy i gruppe L, fornyet søknad med begrenset kontroll: kr 1 350,–.
+Gebyrsatsene er som følger:
+
+1. Kjøretøy i gruppe L: kr 1 600,–
+2. Kjøretøy i gruppe L, fornyet søknad med begrenset kontroll: kr 1 350,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -119,7 +157,14 @@ Gebyrsatsene er som følger:Kjøretøy i gruppe L: kr 1 600,–Kjøretøy i gru
 
 ### § 8-1. Gebyr for typegodkjenninger av kjøretøy
 
-Gebyrsatsene for typegodkjenninger av kjøretøy er som følger:Typegodkjenning av kjøretøy inklusiv 10 varianter/versjoner: kr 7 650,–Tillegg per variant/versjon utover 10 stk.: kr 460,–Fabrikantkontroll: kr 25 410,–Utvidelse av typegodkjenning inklusiv 10 varianter/versjoner: kr 4 220,–Tillegg per variant/versjon utover 10 stk. ved utvidelse: kr 250,–For EU-typegodkjenning av komponenter og deler til kjøretøy: kr 2 260,–.
+Gebyrsatsene for typegodkjenninger av kjøretøy er som følger:
+
+- Typegodkjenning av kjøretøy inklusiv 10 varianter/versjoner: kr 7 650,–
+- Tillegg per variant/versjon utover 10 stk.: kr 460,–
+- Fabrikantkontroll: kr 25 410,–
+- Utvidelse av typegodkjenning inklusiv 10 varianter/versjoner: kr 4 220,–
+- Tillegg per variant/versjon utover 10 stk. ved utvidelse: kr 250,–
+- For EU-typegodkjenning av komponenter og deler til kjøretøy: kr 2 260,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -127,7 +172,10 @@ Gebyrsatsene for typegodkjenninger av kjøretøy er som følger:Typegodkjenning 
 
 ### § 9-1. Gebyr ved søknad om igangsetting av byggeprosjekt for motorsykkel og bil
 
-Gebyrsatsene er som følger:Motorsykkel: kr 11 330,–Bil: kr 13 850,–.
+Gebyrsatsene er som følger:
+
+1. Motorsykkel: kr 11 330,–
+2. Bil: kr 13 850,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -135,7 +183,16 @@ Gebyrsatsene er som følger:Motorsykkel: kr 11 330,–Bil: kr 13 850,–.
 
 ### § 10-1. Godkjenning av trafikkskole, kursarrangør, trafikklærer og faglig leder
 
-Gebyrsatsene for behandling av søknad er som følger:Godkjenning som trafikkskole eller kursarrangør: kr 2 940,–Godkjenning som trafikklærer eller faglig leder: kr 2 940,–Utvidelse av godkjenning som trafikklærer: kr 2 940,–Vurdering av yrkeskvalifikasjoner: kr 3 870,–Prøveperiode for trafikklærer: kr 7 230,–Prøveperiode for faglig leder: kr 4 820,–Regodkjenning av trafikklærer: kr 2 390,–Godkjenning som kursarrangør eller kurstilbyder: kr 2 940,–.
+Gebyrsatsene for behandling av søknad er som følger:
+
+1. Godkjenning som trafikkskole eller kursarrangør: kr 2 940,–
+2. Godkjenning som trafikklærer eller faglig leder: kr 2 940,–
+3. Utvidelse av godkjenning som trafikklærer: kr 2 940,–
+4. Vurdering av yrkeskvalifikasjoner: kr 3 870,–
+5. Prøveperiode for trafikklærer: kr 7 230,–
+6. Prøveperiode for faglig leder: kr 4 820,–
+7. Regodkjenning av trafikklærer: kr 2 390,–
+8. Godkjenning som kursarrangør eller kurstilbyder: kr 2 940,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026), [22 juni 2026 nr. 1185](forskrift/2026-06-22-1185) (i kraft 1 juli 2026).
 
@@ -143,7 +200,12 @@ Gebyrsatsene for behandling av søknad er som følger:Godkjenning som trafikksko
 
 ### § 11-1. Gebyr for behandling av søknad om godkjenning som kursarrangør, utrykningsinstruktør og undervisningsansvarlig
 
-Gebyrsatsene er som følger:Godkjenning som kursarrangør: kr 8 520,–Fornyelse av godkjenning som kursarrangør: kr 5 730,–Godkjenning som utrykningsinstruktør: kr 3 870,–Godkjenning som undervisningsansvarlig: kr 2 940,–.
+Gebyrsatsene er som følger:
+
+1. Godkjenning som kursarrangør: kr 8 520,–
+2. Fornyelse av godkjenning som kursarrangør: kr 5 730,–
+3. Godkjenning som utrykningsinstruktør: kr 3 870,–
+4. Godkjenning som undervisningsansvarlig: kr 2 940,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -151,7 +213,9 @@ Gebyrsatsene er som følger:Godkjenning som kursarrangør: kr 8 520,–Fornyels
 
 ### § 12-1. Gebyr for behandling av søknad om godkjenning som opplæringsvirksomhet
 
-Gebyrsatsen er som følger:Godkjenning og utvidelse av godkjenning som opplæringsvirksomhet for opplæring i periodisk kontroll av kjøretøy: kr 27 500,–.
+Gebyrsatsen er som følger:
+
+1. Godkjenning og utvidelse av godkjenning som opplæringsvirksomhet for opplæring i periodisk kontroll av kjøretøy: kr 27 500,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -159,7 +223,11 @@ Gebyrsatsen er som følger:Godkjenning og utvidelse av godkjenning som opplærin
 
 ### § 13-1. Gebyr for behandling av søknad om godkjenning som kontrollorgan, teknisk leder og kontrollør
 
-Gebyrsatsene er som følger:Godkjenning og utvidelse av godkjenning som kontrollorgan: kr 15 430,–Godkjenning og utvidelse av godkjenning som teknisk leder: kr 6 130,–Godkjenning og utvidelse av godkjenning som kontrollør: kr 7 070,–.
+Gebyrsatsene er som følger:
+
+1. Godkjenning og utvidelse av godkjenning som kontrollorgan: kr 15 430,–
+2. Godkjenning og utvidelse av godkjenning som teknisk leder: kr 6 130,–
+3. Godkjenning og utvidelse av godkjenning som kontrollør: kr 7 070,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -167,7 +235,11 @@ Gebyrsatsene er som følger:Godkjenning og utvidelse av godkjenning som kontroll
 
 ### § 14-1. Gebyr for behandling søknad om godkjenning som verksted, særlig arbeidstillatelse og teknisk leder
 
-Gebyrsatsene er som følger:Godkjenning og utvidelse av godkjenning som verksted: kr 15 430,–Godkjenning av særlig arbeidstillatelse: kr 15 430,–Godkjenning og utvidelse av godkjenning som teknisk leder eller stedforsteder: kr 7 070,–.
+Gebyrsatsene er som følger:
+
+1. Godkjenning og utvidelse av godkjenning som verksted: kr 15 430,–
+2. Godkjenning av særlig arbeidstillatelse: kr 15 430,–
+3. Godkjenning og utvidelse av godkjenning som teknisk leder eller stedforsteder: kr 7 070,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -175,7 +247,10 @@ Gebyrsatsene er som følger:Godkjenning og utvidelse av godkjenning som verksted
 
 ### § 15-1. Gebyr for søknad om godkjenning og tilsyn med fartsskriververksted
 
-Gebyrsatsene er som følger:Godkjenning som fartsskriververksted: kr 18 200,–Tilsyn med fartsskriververksted: kr 11 710,–.
+Gebyrsatsene er som følger:
+
+1. Godkjenning som fartsskriververksted: kr 18 200,–
+2. Tilsyn med fartsskriververksted: kr 11 710,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -183,7 +258,9 @@ Gebyrsatsene er som følger:Godkjenning som fartsskriververksted: kr 18 200,–
 
 ### § 16-1. Gebyr for behandling av søknad om godkjenning som alkolåsverksted
 
-Gebyrsatsen er som følger:Godkjenning som alkolåsverksted: kr 15 430,–.
+Gebyrsatsen er som følger:
+
+1. Godkjenning som alkolåsverksted: kr 15 430,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
@@ -191,13 +268,19 @@ Gebyrsatsen er som følger:Godkjenning som alkolåsverksted: kr 15 430,–.
 
 ### § 17-1. Gebyr for drift og vedlikehold parkeringsregister
 
-Gebyrsatsene er som følger:Årlig gebyr per betalingsplass: kr 6,–Årlig gebyr per gratisplass: kr 3,–.
+Gebyrsatsene er som følger:
+
+1. Årlig gebyr per betalingsplass: kr 6,–
+2. Årlig gebyr per gratisplass: kr 3,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 
 ### § 17-2. Gebyr for tilsyn
 
-Gebyrsatsene er som følger:Årlig gebyr for tilsyn: kr 11 440,–Daglig gebyr for risikobaserte tilsyn: kr 6 970,–.
+Gebyrsatsene er som følger:
+
+1. Årlig gebyr for tilsyn: kr 11 440,–
+2. Daglig gebyr for risikobaserte tilsyn: kr 6 970,–.
 
 > Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026).
 

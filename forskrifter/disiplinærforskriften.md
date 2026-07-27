@@ -15,7 +15,7 @@ xml_hash: "9b931899c592298a58220e3655236c44275279330c5bd1ebf856b63ce09c4f8c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,10 @@ Med andre straffbare forhold forstås forhold som er omtalt i [straffeloven](lov
 
 ### § 6
 
-Andre straffbare forhold kan bare avgjøres ved refselse dersom:de disiplinære sider ved handlingen er de fremtredende ogforholdet ikke er anmeldt eller forelagt for påtalemyndigheten etter [forsvarsloven § 70](lov/2016-08-12-77/§70) eller der det er avgjort at forholdet ikke vil bli straffeforfulgt.
+Andre straffbare forhold kan bare avgjøres ved refselse dersom:
+
+1. de disiplinære sider ved handlingen er de fremtredende og
+2. forholdet ikke er anmeldt eller forelagt for påtalemyndigheten etter [forsvarsloven § 70](lov/2016-08-12-77/§70) eller der det er avgjort at forholdet ikke vil bli straffeforfulgt.
 
 Det er som hovedregel bare mindre overtredelser av andre straffebestemmelser enn i den [militære straffeloven](lov/1902-05-22-13) og [forsvarsloven](lov/2016-08-12-77) som kan avgjøres ved refselse. Refselse kan ilegges selv om fornærmede i en sak som gjelder forhold som nevnt i [§ 5](forskrift/2024-05-26-878/§5), ikke ønsker å forfølge saken.
 
@@ -90,7 +93,15 @@ Tjenestetiden er den tid vedkommende gjør militærtjeneste. Den omfatter den ti
 
 ### § 11
 
-For forhold utvist utenfor tjenestetiden, kan refselse ilegges for overtredelse eller forsømmelse av tjenesteplikter som kan straffes etter [forsvarsloven § 84](lov/2016-08-12-77/§84). Dette er i hovedsak:plikt til å melde flytting, bortreise eller tilbakekomst til riketplikt til å gi melding eller søke om tillatelse til utvandring eller mønstring i utenriksfartplikt til ved personlig fremmøte eller skriftlig å gi opplysninger av betydning for deres verneplikts- eller tjenesteforholdplikt til å la seg undersøke av lege og underkaste seg andre undersøkelser og prøver til bedømmelse av tjenestedyktighet og øvrige forutsetninger for tjenestenplikt til å erkjenne mottagelsen av innkallinger mv., til å sørge for ettersending av tjenstlige meddelelser og til å melde forfallplikt til å møte til tjeneste, og plikt til ikke å forlate tjenestestedet uten gyldig grunnplikter med hensyn til oppbevaring av våpen og annet utstyr som man er pålagt å ta vare på i medhold av [forsvarsloven § 63](lov/2016-08-12-77/§63).
+For forhold utvist utenfor tjenestetiden, kan refselse ilegges for overtredelse eller forsømmelse av tjenesteplikter som kan straffes etter [forsvarsloven § 84](lov/2016-08-12-77/§84). Dette er i hovedsak:
+
+- plikt til å melde flytting, bortreise eller tilbakekomst til riket
+- plikt til å gi melding eller søke om tillatelse til utvandring eller mønstring i utenriksfart
+- plikt til ved personlig fremmøte eller skriftlig å gi opplysninger av betydning for deres verneplikts- eller tjenesteforhold
+- plikt til å la seg undersøke av lege og underkaste seg andre undersøkelser og prøver til bedømmelse av tjenestedyktighet og øvrige forutsetninger for tjenesten
+- plikt til å erkjenne mottagelsen av innkallinger mv., til å sørge for ettersending av tjenstlige meddelelser og til å melde forfall
+- plikt til å møte til tjeneste, og plikt til ikke å forlate tjenestestedet uten gyldig grunn
+- plikter med hensyn til oppbevaring av våpen og annet utstyr som man er pålagt å ta vare på i medhold av [forsvarsloven § 63](lov/2016-08-12-77/§63).
 
 ### § 12
 
@@ -126,7 +137,11 @@ Kollektive reaksjoner i refselseshensikt er forbudt.
 
 Refselse som ilegges, må stå i passende forhold til den refsbare handling og til gjerningspersonens skyld og tidligere oppførsel. Ved valg av refselsesmiddel kan det blant annet legges vekt på lokale forhold, tjenestens art og praktiske hensyn, som ofte vil være utslagsgivende.
 
-I skjerpende retning kan det tas hensyn til:tidligere refselser som ikke er mer enn fem år gamle, særlig hvis dette gjelder tilsvarende forholdat vedkommende er offiser, befal, befalselev eller for øvrig har et særlig ansvarandre konkrete forhold som tilsier at saken behandles strengere enn vanlig.
+I skjerpende retning kan det tas hensyn til:
+
+1. tidligere refselser som ikke er mer enn fem år gamle, særlig hvis dette gjelder tilsvarende forhold
+2. at vedkommende er offiser, befal, befalselev eller for øvrig har et særlig ansvar
+3. andre konkrete forhold som tilsier at saken behandles strengere enn vanlig.
 
 Under spesielle omstendigheter kan et tilfelle behandles mildere enn vanlig. Dette kan for eksempel være at vedkommende selv har bidratt til oppklaring av saken. At vedkommende ikke er refset tidligere, er normalt ikke formildende.
 
@@ -138,7 +153,10 @@ En alminnelig tilrettevisning er ikke refselse.
 
 ### § 20
 
-Overtredelsesgebyret fastsettes slik på grunnlag av tjenestetillegget som gjelder for menig inne til førstegangstjeneste:Overfor tjenestepliktige inne til førstegangstjeneste: inntil 20 ganger tjenestetilleggetOverfor øvrige tjenestepliktige: inntil 100 ganger tjenestetillegget.
+Overtredelsesgebyret fastsettes slik på grunnlag av tjenestetillegget som gjelder for menig inne til førstegangstjeneste:
+
+1. Overfor tjenestepliktige inne til førstegangstjeneste: inntil 20 ganger tjenestetillegget
+2. Overfor øvrige tjenestepliktige: inntil 100 ganger tjenestetillegget.
 
 ### § 21
 
@@ -178,7 +196,11 @@ Når det ilegges refselse for flere forhold, skal reaksjonen være strengere enn
 
 ### § 29
 
-Ved utmåling av fellesrefselse hvor refselse allerede er ilagt, men ikke iverksatt gjelder:Refsende sjef kan oppheve den først ilagte refselse og på fritt grunnlag ilegge en fellesrefselse.Om nødvendig skal vedkommende sende saken til høyere sjef.Hvis refsende sjef vil bruke samme refselsesmiddel, kan vedkommende avgjøre saken med en tilleggsrefselse.
+Ved utmåling av fellesrefselse hvor refselse allerede er ilagt, men ikke iverksatt gjelder:
+
+1. Refsende sjef kan oppheve den først ilagte refselse og på fritt grunnlag ilegge en fellesrefselse.
+2. Om nødvendig skal vedkommende sende saken til høyere sjef.
+3. Hvis refsende sjef vil bruke samme refselsesmiddel, kan vedkommende avgjøre saken med en tilleggsrefselse.
 
 ### § 30
 
@@ -188,7 +210,15 @@ Vil man bruke samme refselsesmiddel, kan det ilegges en tilleggsrefselse. Dersom
 
 På tilsvarende måte skal saken forelegges Forsvarets jurister, jf. [§ 93](forskrift/2024-05-26-878/§93) dersom grensene i [§ 38](forskrift/2024-05-26-878/§38) overskrides på grunn av en tilleggsrefselse.
 
-Vil man bruke et annet refselsesmiddel ved felles- eller tilleggsrefselse enn det som tidligere er iverksatt, skal følgende gjelde:Hvis første refselse er irettesettelse, oppheves denne, og ny fellesrefselse ilegges.Hvis første refselse er overtredelsesgebyr, oppheves denne, overtredelsesgebyret tilbakebetales og fellesrefselse kan ilegges på fritt grunnlag.Hvis første refselse som oppheves er frihetsinnskrenkning som er fullbyrdet, skal det tas hensyn til denne ved at overtredelsesgebyr eller frihetsinnskrenkningen forholder seg til hverandre slik at to dagers tjenestetillegg som overtredelsesgebyr tilsvarer tre dagers frihetsinnskrenkning.Det er ved vurderingen av tilleggsrefselse anledning til å la være å refse et forhold nårdet er naturlig å avgjøre det siste forhold med en mindre refselse og det er brukt et strengere middel for første forholdvedkommende er dimittert og forholdet er mindre alvorlig.
+Vil man bruke et annet refselsesmiddel ved felles- eller tilleggsrefselse enn det som tidligere er iverksatt, skal følgende gjelde:
+
+1. Hvis første refselse er irettesettelse, oppheves denne, og ny fellesrefselse ilegges.
+2. Hvis første refselse er overtredelsesgebyr, oppheves denne, overtredelsesgebyret tilbakebetales og fellesrefselse kan ilegges på fritt grunnlag.
+3. Hvis første refselse som oppheves er frihetsinnskrenkning som er fullbyrdet, skal det tas hensyn til denne ved at overtredelsesgebyr eller frihetsinnskrenkningen forholder seg til hverandre slik at to dagers tjenestetillegg som overtredelsesgebyr tilsvarer tre dagers frihetsinnskrenkning.
+4. Det er ved vurderingen av tilleggsrefselse anledning til å la være å refse et forhold når
+
+   1. det er naturlig å avgjøre det siste forhold med en mindre refselse og det er brukt et strengere middel for første forhold
+   2. vedkommende er dimittert og forholdet er mindre alvorlig.
 
 Opplysninger om uønskede forhold som ikke har medført refselse, kan påføres refselsesvedtaket.
 
@@ -358,7 +388,12 @@ Dersom det er en personlig fornærmet i en sak hvor avgjørelsen i saken er at d
 
 ### § 59
 
-Et vedtak som går ut på refselse, skal være skriftlig, underskrevet og datert og inneholde:den refsedes navn, grad og tjenestestedopplysning om hvilken lov, reglement, instruks, direktiv, forskrift eller rettmessig ordre som menes overtrådten dekkende beskrivelse av det forhold refselsen gjelderopplysninger som ellers har betydning for utmålingen av refselsen.
+Et vedtak som går ut på refselse, skal være skriftlig, underskrevet og datert og inneholde:
+
+1. den refsedes navn, grad og tjenestested
+2. opplysning om hvilken lov, reglement, instruks, direktiv, forskrift eller rettmessig ordre som menes overtrådt
+3. en dekkende beskrivelse av det forhold refselsen gjelder
+4. opplysninger som ellers har betydning for utmålingen av refselsen.
 
 Det skriftlige vedtaket utstedes på blankett som betegnes refselsesordre.
 
@@ -450,7 +485,13 @@ Ved klage fra en personlig fornærmet over en avgjørelse om ikke å ilegge refs
 
 ### § 76
 
-Avgjørelsen treffes etter følgende regler:En ilagt refselse som er lovlig og passende, opprettholdes uforandret.Dersom refselsen er uhjemlet, skal den oppheves. Er den for streng, skal den nedsettes eller avgjøres ved et annet refselsesmiddel.Dersom refselsen er åpenbart for mild, kan den skjerpes.Dersom det er begått saksbehandlingsfeil ved ileggelse av refselsen gjelder reglene i [forvaltningsloven § 41](lov/1967-02-10/§41).Klagenemnda kan også beslutte at saken skal forelegges påtalemyndigheten.
+Avgjørelsen treffes etter følgende regler:
+
+1. En ilagt refselse som er lovlig og passende, opprettholdes uforandret.
+2. Dersom refselsen er uhjemlet, skal den oppheves. Er den for streng, skal den nedsettes eller avgjøres ved et annet refselsesmiddel.
+3. Dersom refselsen er åpenbart for mild, kan den skjerpes.
+4. Dersom det er begått saksbehandlingsfeil ved ileggelse av refselsen gjelder reglene i [forvaltningsloven § 41](lov/1967-02-10/§41).
+5. Klagenemnda kan også beslutte at saken skal forelegges påtalemyndigheten.
 
 Opphevelse er ikke til hinder for at det senere ilegges en ny refselse for det samme forholdet dersom hjemmelsmangelen eller saksbehandlingsfeilen er avhjulpet. Klageadgangen løper da på nytt.
 
@@ -476,7 +517,10 @@ Lederen og dennes vararepresentanter oppnevnes for fire år av gangen og de øvr
 
 ### § 80
 
-Et medlem av klagenemnda må ikke delta i behandlingen av en klagesak nårmedlemmet selv har utøvet disiplinærmyndighet i saken ellermedlemmet er inhabilt etter [forvaltningsloven § 6](lov/1967-02-10/§6).
+Et medlem av klagenemnda må ikke delta i behandlingen av en klagesak når
+
+1. medlemmet selv har utøvet disiplinærmyndighet i saken eller
+2. medlemmet er inhabilt etter [forvaltningsloven § 6](lov/1967-02-10/§6).
 
 Når klagenemnda avgjør om et medlem ikke skal delta i behandlingen av en sak, er lederens stemme avgjørende ved stemmelikhet.
 
@@ -624,7 +668,19 @@ En sjef på høyere kommandotrinn og Forsvarets jurister kan når som helst krev
 
 ### § 101
 
-I krig eller når krig truer gjelder følgende særregler:Bestemmelsene om begrenset disiplinærmyndighet gjelder ikke. Den som har disiplinærmyndighet, kan ilegge alle refselser.Overtredelsesgebyr fastsettes slik på grunnlag av tjenestetillegget som gjelder for menig inne til førstegangstjeneste:Overfor tjenestepliktige inne til førstegangstjeneste: inntil 50 ganger tjenestetilleggetOverfor øvrige tjenestepliktige: inntil 200 ganger tjenestetillegget.Frihetsinnskrenkning kan brukes i inntil 60 dager, inkludert som frihetsberøvelse dersom det er derogert fra [den europeiske menneskerettskonvensjon artikkel 5](lov/1999-05-21-30/emkn/a5), jf. [artikkel 15](lov/1999-05-21-30/emkn/a15).Krig eller at krig truer er en skjerpende omstendighet ved reaksjonsutmålingen.Reglene om plikt til å innhente råd eller uttalelse fra Forsvarets jurister gjelder ikke. Saken skal i stedet legges frem for Forsvarets jurister når det antas å være særlig grunn til det.Reglene i [§ 85](forskrift/2024-05-26-878/§85) om utsatt iverksetting ved klage gjelder ikke. En klage har bare oppsettende virkning på iverksettingen dersom den som har ilagt refselsen eller høyere myndighet beslutter det.Avslag på krav om innsyn i sakens dokumenter etter [§ 42](forskrift/2024-05-26-878/§42) andre ledd kan ikke påklages.Utøvelse av disiplinærmyndighet overfor krigsfanger skjer med de begrensninger som følger av tredje Genève-konvensjon. Den militære sjefen for krigsfangeleiren har disiplinærmyndighet.
+I krig eller når krig truer gjelder følgende særregler:
+
+1. Bestemmelsene om begrenset disiplinærmyndighet gjelder ikke. Den som har disiplinærmyndighet, kan ilegge alle refselser.
+2. Overtredelsesgebyr fastsettes slik på grunnlag av tjenestetillegget som gjelder for menig inne til førstegangstjeneste:
+
+   1. Overfor tjenestepliktige inne til førstegangstjeneste: inntil 50 ganger tjenestetillegget
+   2. Overfor øvrige tjenestepliktige: inntil 200 ganger tjenestetillegget.
+3. Frihetsinnskrenkning kan brukes i inntil 60 dager, inkludert som frihetsberøvelse dersom det er derogert fra [den europeiske menneskerettskonvensjon artikkel 5](lov/1999-05-21-30/emkn/a5), jf. [artikkel 15](lov/1999-05-21-30/emkn/a15).
+4. Krig eller at krig truer er en skjerpende omstendighet ved reaksjonsutmålingen.
+5. Reglene om plikt til å innhente råd eller uttalelse fra Forsvarets jurister gjelder ikke. Saken skal i stedet legges frem for Forsvarets jurister når det antas å være særlig grunn til det.
+6. Reglene i [§ 85](forskrift/2024-05-26-878/§85) om utsatt iverksetting ved klage gjelder ikke. En klage har bare oppsettende virkning på iverksettingen dersom den som har ilagt refselsen eller høyere myndighet beslutter det.
+7. Avslag på krav om innsyn i sakens dokumenter etter [§ 42](forskrift/2024-05-26-878/§42) andre ledd kan ikke påklages.
+8. Utøvelse av disiplinærmyndighet overfor krigsfanger skjer med de begrensninger som følger av tredje Genève-konvensjon. Den militære sjefen for krigsfangeleiren har disiplinærmyndighet.
 
 ### § 102
 

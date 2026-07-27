@@ -34,7 +34,22 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det gis fritak for avgift på varer somutføres til utlandetlegges inn på tollager når varene er bestemt til utførselinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhettil midlertidig brukleveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til registrert virksomhets lagergjenvinnes.
+Det gis fritak for avgift på varer som
+
+1. utføres til utlandet
+2. legges inn på tollager når varene er bestemt til utførsel
+3. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+   3. til midlertidig bruk
+4. leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+5. kommer i retur til registrert virksomhets lager
+6. gjenvinnes.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

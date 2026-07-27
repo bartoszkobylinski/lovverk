@@ -15,7 +15,7 @@ xml_hash: "ea88a70e91efb8f4f724e19785b3e5f735bc3a427eaeea00b5305c328c9a25c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,11 @@ Graden dr.philos. skal kvalifisera for forskingsverksemd av internasjonal standa
 
 ## § 5. Innhaldet i graden dr.philos.
 
-Graden dr.philos. vert tildelt ved kreering på grunnlag av beståttdoktoravhandlingprøveførelesing over oppgitt emneforsvar i ein offentleg disputas.
+Graden dr.philos. vert tildelt ved kreering på grunnlag av bestått
+
+- doktoravhandling
+- prøveførelesing over oppgitt emne
+- forsvar i ein offentleg disputas.
 
 ## § 6. Retten til å framstilla seg
 
@@ -58,7 +62,11 @@ Graden dr.philos. vert tildelt ved kreering på grunnlag av beståttdoktoravhand
 
 (2) Fakultetet kan gi søkarar som på annan måte har godtgjort tilsvarande kvalifikasjonar i vedkommande fag, høve til å framstilla seg til doktorgradsprøven.
 
-(3) Fakultetet kan etter særleg vurdering gi ein søkar som ikkje er statsborgar i Noreg eller eit anna nordisk land høve til å framstilla seg for prøven. Slikt høve kan til dømes bli gitt dersom søkar har opphaldsløyve i Noreg eller dersom avhandlingabehandlar emne eller byggjer på materiale som er direkte knytt til Noreghar sterk tilknyting til norsk forsking innan fagområdeter utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særleg kontakt med norske forskarar.
+(3) Fakultetet kan etter særleg vurdering gi ein søkar som ikkje er statsborgar i Noreg eller eit anna nordisk land høve til å framstilla seg for prøven. Slikt høve kan til dømes bli gitt dersom søkar har opphaldsløyve i Noreg eller dersom avhandlinga
+
+- behandlar emne eller byggjer på materiale som er direkte knytt til Noreg
+- har sterk tilknyting til norsk forsking innan fagområdet
+- er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særleg kontakt med norske forskarar.
 
 ## § 7. Søknaden
 
@@ -98,7 +106,16 @@ Avhandlinga skal vera offentleg tilgjengeleg seinast to veker før disputasen. H
 
 (2) Instituttet som har det aktuelle faget føreslår komité.
 
-(3) Komiteen skal setjast saman slik atbegge kjønn er representerteminst ein medlem er tilsett ved universitetetminst ein medlem ikkje er knytt til universitetetminst ein medlem ikkje har hovudstilling ved ein norsk institusjonalle medlemmene har doktorgrad eller tilsvarande kompetanseminst ein medlem har kompetanse over førstestillingsnivåfleirtalet i komiteen er eksterne medlemmerfleirtalet i komiteen er tilsette ved ein doktorgradsgivande institusjon.
+(3) Komiteen skal setjast saman slik at
+
+- begge kjønn er representerte
+- minst ein medlem er tilsett ved universitetet
+- minst ein medlem ikkje er knytt til universitetet
+- minst ein medlem ikkje har hovudstilling ved ein norsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarande kompetanse
+- minst ein medlem har kompetanse over førstestillingsnivå
+- fleirtalet i komiteen er eksterne medlemmer
+- fleirtalet i komiteen er tilsette ved ein doktorgradsgivande institusjon.
 
 (4) Samansetjinga av komiteen skal vera grunngitt og eventuelle avvik frå kriteria skal grunngivast særskilt. Grunngivinga skal visa korleis komiteen samla dekker fagfeltet i avhandlinga.
 
@@ -144,9 +161,17 @@ Komiteen kan krevja å få lagt fram kandidaten sitt grunnlagsmateriale og utfyl
 
 (1) Når komiteen si innstilling er samrøystes positiv, er avhandlinga verdig forsvar for graden doctor philosophiae (dr.philos.).
 
-(2) Når komiteen har gitt innstilling med dissens eller samrøystes negativ innstilling, skal fakultetet vurdera om arbeidet er verdig forsvar for graden dr.philos.:Dersom komiteen finn å kunna leggja innstillinga / fleirtalet si innstilling til grunn, gjer fakultetet vedtak i samsvar med innstillinga.Dersom fakultetet finn at det er rimeleg tvil om komiteen si innstilling / fleirtalet si innstilling skal leggjast til grunn, kan fakultetet be om nærare avklaring frå komiteen og/eller nemna opp to nye sakkunnige som gir individuell vurdering av avhandlinga eller nemna opp ny komité. Dei sakkunnige skal ikkje vera tilsette ved universitetet, og dei skal ikkje ha hatt noko å gjera med avhandlinga tidligare. For oppnemning av ny komité gjeld [§ 11](forskrift/2018-06-19-1186/§11). Innstillinga og eventuelle merknader frå kandidaten skal leggjast ved til dei sakkunnige / den nye komiteen.Tilleggsavklaringar skal leggjast fram for kandidaten, som får høve til å komma med merknader.
+(2) Når komiteen har gitt innstilling med dissens eller samrøystes negativ innstilling, skal fakultetet vurdera om arbeidet er verdig forsvar for graden dr.philos.:
 
-(3) Når komiteen anbefaler at kandidaten skal få høve til ei mindre omarbeiding før endeleg innstilling, skal fakultetet vurderaom det er grunnlag for å ta forslaget til følgje, jf. [§ 15](forskrift/2018-06-19-1186/§15) andre og tredje ledd ellerom fakultetet skal be komiteen gi endeleg innstilling utan at avhandlinga blir omarbeidd ellergjera endeleg vedtak på grunnlag av innstillinga og eventuelle merknader frå kandidaten.
+- Dersom komiteen finn å kunna leggja innstillinga / fleirtalet si innstilling til grunn, gjer fakultetet vedtak i samsvar med innstillinga.
+- Dersom fakultetet finn at det er rimeleg tvil om komiteen si innstilling / fleirtalet si innstilling skal leggjast til grunn, kan fakultetet be om nærare avklaring frå komiteen og/eller nemna opp to nye sakkunnige som gir individuell vurdering av avhandlinga eller nemna opp ny komité. Dei sakkunnige skal ikkje vera tilsette ved universitetet, og dei skal ikkje ha hatt noko å gjera med avhandlinga tidligare. For oppnemning av ny komité gjeld [§ 11](forskrift/2018-06-19-1186/§11). Innstillinga og eventuelle merknader frå kandidaten skal leggjast ved til dei sakkunnige / den nye komiteen.
+- Tilleggsavklaringar skal leggjast fram for kandidaten, som får høve til å komma med merknader.
+
+(3) Når komiteen anbefaler at kandidaten skal få høve til ei mindre omarbeiding før endeleg innstilling, skal fakultetet vurdera
+
+- om det er grunnlag for å ta forslaget til følgje, jf. [§ 15](forskrift/2018-06-19-1186/§15) andre og tredje ledd eller
+- om fakultetet skal be komiteen gi endeleg innstilling utan at avhandlinga blir omarbeidd eller
+- gjera endeleg vedtak på grunnlag av innstillinga og eventuelle merknader frå kandidaten.
 
 (4) Fakultetet skal orientera kandidaten om utfallet av behandlinga.
 

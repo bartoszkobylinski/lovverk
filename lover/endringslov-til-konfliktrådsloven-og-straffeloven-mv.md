@@ -15,7 +15,7 @@ xml_hash: "13e41fe840df88a5458a691e5d722e257bdb068d43cc26fed8c233d16e61d62d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,23 @@ eu_basis: []
 
 I [lov 20. desember 2023 nr. 110 om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv.](lov/2023-12-20-110) skal [oreigningslova § 30](lov/1959-10-23-3/§30) nr. 20 til 28 under del XI nr. 3 lyde:
 
-[Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124)[Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)](lov/2005-06-17-101)[Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven)](lov/2007-06-15-40)[Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)](lov/2008-06-27-71)[Lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101)[Lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)](lov/2010-06-25-45)[Lov 16. desember 2011 nr. 65 om næringsberedskap (næringsberedskapsloven)](lov/2011-12-16-65)[Lov 21. juni 2013 nr. 100 om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova)](lov/2013-06-21-100)Lov XX. XX 2024 nr. XX om elektronisk kommunikasjon (ekomloven)
+[Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124)
+
+[Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)](lov/2005-06-17-101)
+
+[Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven)](lov/2007-06-15-40)
+
+[Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)](lov/2008-06-27-71)
+
+[Lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101)
+
+[Lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)](lov/2010-06-25-45)
+
+[Lov 16. desember 2011 nr. 65 om næringsberedskap (næringsberedskapsloven)](lov/2011-12-16-65)
+
+[Lov 21. juni 2013 nr. 100 om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova)](lov/2013-06-21-100)
+
+Lov XX. XX 2024 nr. XX om elektronisk kommunikasjon (ekomloven)
 
 ## VI
 

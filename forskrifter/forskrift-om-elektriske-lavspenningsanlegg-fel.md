@@ -15,7 +15,7 @@ xml_hash: "ce628ae236ee1f6c86b7679640a4d534426c272f945f561081f2ecd1278b232f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,18 @@ Forskriften er fastsatt i medhold av [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) 
 
 Forskriften erstatter forskrifter for elektriske bygningsinstallasjoner m.v. (feb) av [20. desember 1989 nr. 1430](forskrift/1989-12-20-1430) og trer i kraft fra 1. januar 1999.
 
-Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for elektriske bygningsinstallasjoner m.v., dvs at den omfatter en lang rekke ulike typer lavspenningsanlegg som er tilknyttet et eksternt forsyningsanlegg eller til egen generator, solcellepanel osv. Elektriske lavspenningsanlegg er anlegg med høyeste nominell spenning til og med 1.000 V vekselspenning eller 1.500 V likespenning som benyttes i bl.a.boligersteder med kommersiell virksomhet (kontorer, butikker, verksteder m.v.)offentlig virksomhetsykehus og andre helseinstitusjoner (private og offentlige)industrijord- og hagebrukprefabrikkerte bygningercampingvogner, campingplasser og tilsvarendebyggeplasser, utstillinger, messer og andre tidsbegrensede virksomhetermarinaer.
+Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for elektriske bygningsinstallasjoner m.v., dvs at den omfatter en lang rekke ulike typer lavspenningsanlegg som er tilknyttet et eksternt forsyningsanlegg eller til egen generator, solcellepanel osv. Elektriske lavspenningsanlegg er anlegg med høyeste nominell spenning til og med 1.000 V vekselspenning eller 1.500 V likespenning som benyttes i bl.a.
+
+- boliger
+- steder med kommersiell virksomhet (kontorer, butikker, verksteder m.v.)
+- offentlig virksomhet
+- sykehus og andre helseinstitusjoner (private og offentlige)
+- industri
+- jord- og hagebruk
+- prefabrikkerte bygninger
+- campingvogner, campingplasser og tilsvarende
+- byggeplasser, utstillinger, messer og andre tidsbegrensede virksomheter
+- marinaer.
 
 I tillegg inneholder forskriften bestemmelser om anlegg som generatorer, nød- og reservekraftforsyning osv. Oversikten over virkeområdet er ment som eksempler og er ikke uttømmende.
 
@@ -44,7 +55,12 @@ At forskriften er funksjonell innebærer at forskriften ikke inneholder detaljer
 
 Tilpassing til internkontrollforskriften innebærer at det i forskriften legges stor vekt på å klargjøre ansvarsforhold. En viktig endring i forhold til forskrifter for elektriske bygningsinstallasjoner m.v. er at den som er ansvarlig for virksomheter som prosjekterer, utfører eller eier anlegg er ansvarlig for at forskriftens krav oppfylles. Imidlertid tar forskriften hensyn til at eiere av private boliger og fritidshus ikke er omfattet av internkontrollforskriften fordi de ikke er å betrakte som virksomheter. På den annen side er landbruk og husdyrhold i denne sammenheng virksomheter slik at anlegg som benyttes i slik virksomhet også omfattes av internkontrollforskriften.
 
-Forskriften legger ansvar på de som til enhver tid påvirker sikkerheten til anlegget og utstyr tilknyttet dette fra det prosjekteres og ut anleggets levetid. Forskriften opererer derfor med flere som er pålagt plikt til å oppfylle forskriftens krav:prosjekterende, f.eks. rådgivende ingeniørerutførende f.eks. elektroinstallatørereier/byggherrebruker.
+Forskriften legger ansvar på de som til enhver tid påvirker sikkerheten til anlegget og utstyr tilknyttet dette fra det prosjekteres og ut anleggets levetid. Forskriften opererer derfor med flere som er pålagt plikt til å oppfylle forskriftens krav:
+
+- prosjekterende, f.eks. rådgivende ingeniører
+- utførende f.eks. elektroinstallatører
+- eier/byggherre
+- bruker.
 
 I forskrifter for elektriske bygningsinstallasjoner m.v. er ansvaret for at anlegg er sikkerhetsmessig tilfredsstillende lagt på den som utfører anlegget, normalt installatør. Imidlertid har det vist seg at dette har uheldige konsekvenser fordi sikkerhetsnivået i det aktuelle anlegget legges allerede ved prosjekteringen. Det er derfor nødvendig at de som prosjekterer anlegg tillegges ansvar for det arbeidet de utfører på lik linje med de som står for selve utførelsen. Forskriften tar høyde for at i mange tilfeller vil de(n) som prosjekterer og utfører anlegg være en og samme virksomhet.
 
@@ -80,7 +96,13 @@ Formålet med forskriften er å oppnå forsvarlig elsikkerhet ved prosjektering,
 
 Forskriften gjelder for prosjektering, utførelse, endring og vedlikehold av elektriske lavspenningsanlegg, herunder lavspenningsanlegg for hoved-, reserve- og nødstrømsforsyning. Forskriften gjelder også for bruk av elektrisk utstyr, inkludert høyspenningsutstyr, tilkoblet lavspenningsanlegg.
 
-Forskriften gjelder ikke for:elektriske forsyningsanlegg omfattende elektriske anlegg for produksjon, overføring og fordeling av elektrisk energi samt visse elektriske anlegg i kraft og transformatorstasjoner samt høyspenningsanlegg i industribedrifter og lignende,elektriske anlegg ombord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende,elektriske anlegg på innretninger som brukes til undersøkelse og leteboring i petroleumsvirksomheten,elektriske anlegg i luftfartøyer, ellerelektroniske telekommunikasjons- og informasjonssystemer.
+Forskriften gjelder ikke for:
+
+- elektriske forsyningsanlegg omfattende elektriske anlegg for produksjon, overføring og fordeling av elektrisk energi samt visse elektriske anlegg i kraft og transformatorstasjoner samt høyspenningsanlegg i industribedrifter og lignende,
+- elektriske anlegg ombord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende,
+- elektriske anlegg på innretninger som brukes til undersøkelse og leteboring i petroleumsvirksomheten,
+- elektriske anlegg i luftfartøyer, eller
+- elektroniske telekommunikasjons- og informasjonssystemer.
 
 ### § 3. Definisjoner
 
@@ -90,7 +112,14 @@ Anlegg med høyeste nominell spenning til og med 1.000 V vekselspenning eller 1.
 
 ### § 4. Tvangsmidler
 
-Finner sentral tilsynsmyndighet at elektrisk anlegg som er undergitt tilsyn ikke utføres påforsvarlig måte elleri samsvar med forskriften ellerer mangelfullt vedlikeholdt ellerfor øvrig er i slik stand at den etter sentral tilsynsmyndighets mening frembyr fare for menneskeliv, husdyr eller for skade på eiendom,kan sentral tilsynsmyndighet iverksette slike tiltak som nevnt i [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 6](lov/1929-05-24-4/§6) og [§ 7](lov/1929-05-24-4/§7).
+Finner sentral tilsynsmyndighet at elektrisk anlegg som er undergitt tilsyn ikke utføres på
+
+- forsvarlig måte eller
+- i samsvar med forskriften eller
+- er mangelfullt vedlikeholdt eller
+- for øvrig er i slik stand at den etter sentral tilsynsmyndighets mening frembyr fare for menneskeliv, husdyr eller for skade på eiendom,
+
+kan sentral tilsynsmyndighet iverksette slike tiltak som nevnt i [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 6](lov/1929-05-24-4/§6) og [§ 7](lov/1929-05-24-4/§7).
 
 > Endret ved [forskrifter 10 juli 2002 nr. 810](forskrift/2002-07-10-810), [6 nov 2003 nr. 1316](forskrift/2003-11-06-1316).
 
@@ -170,9 +199,20 @@ Enhver som i henhold til [§ 12](forskrift/1998-11-06-1060/§12) er pålagt å u
 
 Før utførelse og endring av elektriske anlegg påbegynnes skal det sendes melding til sentral tilsynsmyndighet eller den de bemyndiger. For mindre endringer kreves det ikke melding.
 
-Meldingen skal minst inneholde:eiers/byggherres navn og adresse samt adressen for anlegget,forventet effektforbruk,bruksområde for anlegget,navn på installatør,grensesnitt mellom utførende ved eventuelle delte entrepriser ogantatt tidspunkt for ferdigstillelse.
+Meldingen skal minst inneholde:
 
-Unntatt fra melding er følgende anlegg, såfremt de ikke er plassert i eksplosjonsfarlig område:Anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning.Anlegg i campingvogner, campingbiler o.l.Strømaggregater med ytelser høyst 10 kVA.
+- eiers/byggherres navn og adresse samt adressen for anlegget,
+- forventet effektforbruk,
+- bruksområde for anlegget,
+- navn på installatør,
+- grensesnitt mellom utførende ved eventuelle delte entrepriser og
+- antatt tidspunkt for ferdigstillelse.
+
+Unntatt fra melding er følgende anlegg, såfremt de ikke er plassert i eksplosjonsfarlig område:
+
+- Anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning.
+- Anlegg i campingvogner, campingbiler o.l.
+- Strømaggregater med ytelser høyst 10 kVA.
 
 > Endret ved [forskrifter 10 juli 2002 nr. 810](forskrift/2002-07-10-810), [6 nov 2003 nr. 1316](forskrift/2003-11-06-1316).
 
@@ -190,11 +230,20 @@ Elektriske anlegg skal planlegges og utføres slik at mennesker, husdyr og eiend
 
 ### § 17. Tilgjengelighet for vedlikehold
 
-Anlegget skal være planlagt og utført slik atdet er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,det er tilstrekkelig plass til å skifte ut og montere enkeltenheter,og at slikt arbeid kan foretas uten fare for den som utfører arbeidet.
+Anlegget skal være planlagt og utført slik at
+
+- det er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,
+- det er tilstrekkelig plass til å skifte ut og montere enkeltenheter,
+- og at slikt arbeid kan foretas uten fare for den som utfører arbeidet.
 
 ### § 18. Fordelingssystem
 
-Anlegget skal planlegges og utføres slik at det fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medførerfarlig strømgjennomgang,for høye temperaturer som kan føre til forbrenning, brann eller andre skadelige virkninger,avbrudd som kan medføre fare for mennesker, husdyr eller eiendom,skadelig påvirkning av andre deler av anlegget eller utstyr i eller tilkoplet dette.
+Anlegget skal planlegges og utføres slik at det fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medfører
+
+- farlig strømgjennomgang,
+- for høye temperaturer som kan føre til forbrenning, brann eller andre skadelige virkninger,
+- avbrudd som kan medføre fare for mennesker, husdyr eller eiendom,
+- skadelig påvirkning av andre deler av anlegget eller utstyr i eller tilkoplet dette.
 
 ### § 19. Jordingsanlegg
 
@@ -226,7 +275,10 @@ Andre ledere enn strømførende ledere og enhver annen del beregnet på å føre
 
 ### § 25. Beskyttelse mot overspenning
 
-Mennesker, husdyr og eiendom skal være beskyttet mot:skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger, ogskade som skyldes andre uønsket høye spenninger, for eksempel ved atmosfæriske utladninger eller koblingsoverspenninger.
+Mennesker, husdyr og eiendom skal være beskyttet mot:
+
+- skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger, og
+- skade som skyldes andre uønsket høye spenninger, for eksempel ved atmosfæriske utladninger eller koblingsoverspenninger.
 
 ### § 26. Beskyttelse mot underspenning
 
@@ -290,7 +342,10 @@ Elektrisk utstyr som inngår i eller skal tilkoples et anlegg skal når det er i
 
 ### § 37. Egenskaper
 
-Alt elektrisk utstyr og materiell som inngår i eller skal tilkobles et anlegg skalha slike egenskaper at det er tilpasset anleggets formål og funksjon ogvære tilpasset de ytre påvirkninger som kan påregnes fra omgivelsene.
+Alt elektrisk utstyr og materiell som inngår i eller skal tilkobles et anlegg skal
+
+- ha slike egenskaper at det er tilpasset anleggets formål og funksjon og
+- være tilpasset de ytre påvirkninger som kan påregnes fra omgivelsene.
 
 Dersom en utstyrsenhet ikke er utført slik at den vil tåle påkjenningene i det aktuelle miljøet, kan den likevel brukes dersom den i det ferdige anlegget får en egnet og tilstrekkelig tilleggsbeskyttelse.
 
@@ -340,7 +395,10 @@ TN-C-system er ikke tillatt i eksplosjonsfarlig område.
 
 ### Belastning av PVC-isolert kabel
 
-Ved bruk av PVC-isolert kabel med små tverrsnitt skal vern mot overbelastning velges slik atvernets høyeste prøvestrøm I2 ikke overstiger kabelens maksimale strømføringsevne Iz ellervernets høyeste prøvestrøm I2 ikke overstiger høyeste prøvestrøm som er benyttet for materiell i kretsen.
+Ved bruk av PVC-isolert kabel med små tverrsnitt skal vern mot overbelastning velges slik at
+
+- vernets høyeste prøvestrøm I2 ikke overstiger kabelens maksimale strømføringsevne Iz eller
+- vernets høyeste prøvestrøm I2 ikke overstiger høyeste prøvestrøm som er benyttet for materiell i kretsen.
 
 Med små tverrsnitt menes tverrsnitt opp til og med 4 mm2.
 
@@ -366,7 +424,12 @@ Dette avsnitt definerer forhold som knyttes til grensesnitt mot plan- og bygning
 
 Ledningsanlegg skal fortrinnsvis ikke være forlagt i rømningsveiene. Dersom slik forlegging ikke kan unngås, skal ledningsanlegget være utstyrt med kappe eller kapsling som ikke kan bidra til eller spre brann eller anta slik temperatur at omkringliggende materiale kan antennes i løpet av et tidsrom fastsatt for rømningsveier.
 
-Kabler skal ikke legges bak himling eller tilsvarende hulrom i rømningsvei med mindrekablene representerer liten brannbelastningkablene er ført i egen sjakt med sjaktvegger som har brannmotstand tilsvarende branncellebegrensende bygningsdelhimlingen har brannmotstand tilsvarende branncellebegrensende bygningsdelhulrommet er sprinklet.
+Kabler skal ikke legges bak himling eller tilsvarende hulrom i rømningsvei med mindre
+
+- kablene representerer liten brannbelastning
+- kablene er ført i egen sjakt med sjaktvegger som har brannmotstand tilsvarende branncellebegrensende bygningsdel
+- himlingen har brannmotstand tilsvarende branncellebegrensende bygningsdel
+- hulrommet er sprinklet.
 
 Ledningsanlegg forlagt i rømningsveier skal ligge utenfor rekkevidde, eller være utstyrt med beskyttelse mot mekaniske skader som kan tenkes oppstå under rømning. Ethvert ledningsanlegg i en rømningsvei skal være så kort som mulig.
 
@@ -418,11 +481,18 @@ Skjøter som ikke kan inspiseres skal være varige og være beskyttet mot korros
 
 ### Medisinske områder – Strømtilførsel og fordelingssystem
 
-I medisinske områder gruppe 1 og gruppe 2 skal minst følgende kurser være forsynt fra IT-system:Alle kurser beregnet på tilkobling av elektromedisinsk utstyr.Kurser for operasjons- og undersøkelseslamper o.l. med nominell spenning høyere enn 25 V vekselspenning eller 60 V rippelfri likespenning.
+I medisinske områder gruppe 1 og gruppe 2 skal minst følgende kurser være forsynt fra IT-system:
+
+- Alle kurser beregnet på tilkobling av elektromedisinsk utstyr.
+- Kurser for operasjons- og undersøkelseslamper o.l. med nominell spenning høyere enn 25 V vekselspenning eller 60 V rippelfri likespenning.
 
 I medisinske områder gruppe 1 og gruppe 2 bør alle stikkontakter være tilknyttet IT-system. Dersom dette ikke er tilfelle, må stikkontaktene være spesielt merket.
 
-TN- og TT-system er tillatt for følgende kurser, under forutsetning av at avbrudd i behandling, undersøkelse eller overvåking kan skje uten fare eller vesentlig ulempe for pasient:Kurser bare for tilkobling av røntgenutstyr.Kurser bare beregnet for utstyr med effektbehov over 5 kW.Kurser som ikke er beregnet for tilkobling av elektromedisinsk utstyr, og hvor tilkoblet utstyr ikke kan komme innenfor «pasientomgivelse».
+TN- og TT-system er tillatt for følgende kurser, under forutsetning av at avbrudd i behandling, undersøkelse eller overvåking kan skje uten fare eller vesentlig ulempe for pasient:
+
+- Kurser bare for tilkobling av røntgenutstyr.
+- Kurser bare beregnet for utstyr med effektbehov over 5 kW.
+- Kurser som ikke er beregnet for tilkobling av elektromedisinsk utstyr, og hvor tilkoblet utstyr ikke kan komme innenfor «pasientomgivelse».
 
 TN-system skal være TN-S-system, såvidt mulig helt fra transformator eller generator.
 
@@ -430,11 +500,18 @@ Utstyr som ikke kan brukes innenfor pasientomgivelse må normalt være fastmonte
 
 ### Medisinske områder – Beskyttelse ved hjelp av automatisk utkobling av strømforsyningen i TN-system
 
-Kurser som forsyner utstyr i områder for medisinsk bruk gruppe 1 og gruppe 2 innenfor pasientomgivelser skal ha selektiv beskyttelse med jordfeilbryter eller tilsvarende vern med følgende utløsestrøm:Høyst 30 mA for kurser med overstrømsvern med merkestrøm opp til og med 63 A.Høyst 300 mA for kurser med overstrømsvern med merkestrøm over 63 A.
+Kurser som forsyner utstyr i områder for medisinsk bruk gruppe 1 og gruppe 2 innenfor pasientomgivelser skal ha selektiv beskyttelse med jordfeilbryter eller tilsvarende vern med følgende utløsestrøm:
+
+- Høyst 30 mA for kurser med overstrømsvern med merkestrøm opp til og med 63 A.
+- Høyst 300 mA for kurser med overstrømsvern med merkestrøm over 63 A.
 
 ### Medisinske områder – Beskyttelse mot elektrostatiske utladninger
 
-I rom hvor elektrostatiske utladninger er forbundet med fare for pasient og/eller omgivelser, skal rommet ha egnet antistatisk gulvbelegg. Resistansen i gulvet skal oppfylle følgende betingelser:Større enn 50 kΩ (når den nominelle spenningen for anlegget ikke er over 500 V)Større enn 100 kΩ (når den nominelle spenningen er over 500 V)Resistansen skal ikke overstige 25 MΩ.
+I rom hvor elektrostatiske utladninger er forbundet med fare for pasient og/eller omgivelser, skal rommet ha egnet antistatisk gulvbelegg. Resistansen i gulvet skal oppfylle følgende betingelser:
+
+- Større enn 50 kΩ (når den nominelle spenningen for anlegget ikke er over 500 V)
+- Større enn 100 kΩ (når den nominelle spenningen er over 500 V)
+- Resistansen skal ikke overstige 25 MΩ.
 
 Målinger skal være foretatt i pasientomgivelser og andre relevante områder. Dersom dette tiltaket er benyttet som beskyttelse mot antennelse av brennbare anestesigasser, skal elektromedisinsk utstyr som benyttes være av type AP eller APG.
 
@@ -460,7 +537,18 @@ Forskriften er fastsatt i medhold av [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) 
 
 Forskriften erstatter forskrifter for elektriske bygningsinstallasjoner m.m. av 20. desember 1989 og trer i kraft fra 1. januar 1999.
 
-Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for elektriske bygningsinstallasjoner m.m, dvs at den omfatter en lang rekke ulike typer lavspenningsanlegg som er tilknyttet et eksternt forsyningsanlegg eller til egen generator, solcellepanel osv. Elektriske lavspenningsanlegg er anlegg med høyeste nominell spenning til og med 1000 V vekselspenning eller 1500 V likespenning som benyttes i bl.a.boligersteder med kommersiell virksomhet (kontorer, butikker, verksteder m.v.)offentlig virksomhetsykehus og andre helseinstitusjoner (private og offentlige)industrijord- og hagebrukprefabrikkerte bygningercampingvogner, campingplasser og tilsvarendebyggeplasser, utstillinger, messer og andre tidsbegrensede virksomhetermarinaer.
+Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for elektriske bygningsinstallasjoner m.m, dvs at den omfatter en lang rekke ulike typer lavspenningsanlegg som er tilknyttet et eksternt forsyningsanlegg eller til egen generator, solcellepanel osv. Elektriske lavspenningsanlegg er anlegg med høyeste nominell spenning til og med 1000 V vekselspenning eller 1500 V likespenning som benyttes i bl.a.
+
+- boliger
+- steder med kommersiell virksomhet (kontorer, butikker, verksteder m.v.)
+- offentlig virksomhet
+- sykehus og andre helseinstitusjoner (private og offentlige)
+- industri
+- jord- og hagebruk
+- prefabrikkerte bygninger
+- campingvogner, campingplasser og tilsvarende
+- byggeplasser, utstillinger, messer og andre tidsbegrensede virksomheter
+- marinaer.
 
 I tillegg inneholder forskriften bestemmelser om anlegg som generatorer, nød- og reservekraftforsyning osv. Oversikten over virkeområdet er ment som eksempler og er ikke uttømmende.
 
@@ -476,7 +564,12 @@ At forskriften er funksjonell innebærer at forskriften ikke inneholder detaljer
 
 Tilpassing til Internkontrollforskriften innebærer at det i forskriften legges stor vekt på å klargjøre ansvarsforhold. En viktig endring i forhold til forskrifter for elektriske bygningsinstallasjoner m.m. er at den som er ansvarlig for virksomheter som prosjekterer, utfører eller eier anlegg er ansvarlig for at forskriftens krav oppfylles. Imidlertid tar forskriften hensyn til at eiere av private boliger og fritidshus ikke er omfattet av Internkontrollforskriften fordi de ikke er å betrakte virksomheter. På den annen side er landbruk og husdyrhold i denne sammenheng virksomheter slik at anlegg som benyttes i slik virksomhet også omfattes av Internkontrollforskriften.
 
-Forskriften legger ansvar på de som til enhver tid påvirker sikkerheten til anlegget og utstyr tilknyttet dette fra det prosjekteres og ut anleggets levetid. Forskriften opererer derfor med flere som er pålagt plikt til å oppfylle forskriftens krav:prosjekterende, f.eks. rådgivende ingeniørerutførende, f.eks. elektroinstallatørereier/byggherrebruker.
+Forskriften legger ansvar på de som til enhver tid påvirker sikkerheten til anlegget og utstyr tilknyttet dette fra det prosjekteres og ut anleggets levetid. Forskriften opererer derfor med flere som er pålagt plikt til å oppfylle forskriftens krav:
+
+- prosjekterende, f.eks. rådgivende ingeniører
+- utførende, f.eks. elektroinstallatører
+- eier/byggherre
+- bruker.
 
 I forskrifter for elektriske bygningsinstallasjoner m.m. er ansvaret for at anlegg er sikkerhetsmessig tilfredsstillende lagt på den som utfører anlegget, normalt installatør. Imidlertid har det vist seg at dette har uheldige konsekvenser fordi sikkerhetsnivået i det aktuelle anlegget legges allerede ved prosjekteringen. Det er derfor nødvendig at de som prosjekterer anlegg tillegges ansvar for det arbeidet de utfører på lik linje med de som står for selve utførelsen. Forskriften tar høyde for at i mange tilfeller vil de(n) som prosjekterer og utfører anlegg vil være en og samme virksomhet.
 
@@ -504,7 +597,21 @@ Produkt- og elektrisitetstilsynet
 
 ### Veiledning til § 1
 
-Elsikkerhet omfatter de faremomenter som elektrisiteten representerer i seg selv, som berøringsfare og brann, til sikkerhetsmessige forhold knyttet til bruk av elektrisitet og elektrisk utstyr. Elsikkerhet omfatter bl.a. følgende:Beskyttelse mot berøringsfare,beskyttelse mot lysbue/varmgang (personskade, brannfare, eksplosjoner),beskyttelse mot lynnedslag,beskyttelse mot elektrostatiske utladninger,beskyttelse mot at elektrisitet forårsaker uønskede kjemiske prosesser (for eksempel koblinger),beskyttelse mot at elektromagnetiske felt får skadelig innvirkning på mennesker og dyr,sikker utførelse, montering og vedlikehold av elektrisk utstyr,sikker systemløsning, utførelse, bruk og vedlikehold av elektriske anlegg,sikre rutiner og sikkerhetstiltak ved arbeid på eller nær elektriske anlegg,elektromagnetisk kompatibilitet (forenlighet),pålitelighet i strømforsyning,kvalitet på strømforsyning,konsekvens-/følgeskader.
+Elsikkerhet omfatter de faremomenter som elektrisiteten representerer i seg selv, som berøringsfare og brann, til sikkerhetsmessige forhold knyttet til bruk av elektrisitet og elektrisk utstyr. Elsikkerhet omfatter bl.a. følgende:
+
+- Beskyttelse mot berøringsfare,
+- beskyttelse mot lysbue/varmgang (personskade, brannfare, eksplosjoner),
+- beskyttelse mot lynnedslag,
+- beskyttelse mot elektrostatiske utladninger,
+- beskyttelse mot at elektrisitet forårsaker uønskede kjemiske prosesser (for eksempel koblinger),
+- beskyttelse mot at elektromagnetiske felt får skadelig innvirkning på mennesker og dyr,
+- sikker utførelse, montering og vedlikehold av elektrisk utstyr,
+- sikker systemløsning, utførelse, bruk og vedlikehold av elektriske anlegg,
+- sikre rutiner og sikkerhetstiltak ved arbeid på eller nær elektriske anlegg,
+- elektromagnetisk kompatibilitet (forenlighet),
+- pålitelighet i strømforsyning,
+- kvalitet på strømforsyning,
+- konsekvens-/følgeskader.
 
 Konstruksjonsmessig sikkerhet for materiell og utstyr er dekket i egne forskrifter.
 
@@ -555,7 +662,11 @@ I prosjekterings- og utførelsesfasen av et anlegg anses byggherre å være eier
 
 Eiers/brukers ansvar for vedlikehold innebærer en plikt til å forvisse seg om at anlegget til enhver tid tilfredsstiller sikkerhetskravene i kapittel V.
 
-Hvor omfattende dette vil være avhenger av hvor komplisert anlegget er og hvilken risiko som er forbundet med anlegget og det utstyr som er tilknyttet det. For eksempel vil ansvaret i en bolig kunne innebære:å være oppmerksom på faresignaler som oppstår, som varme sikringer og stikkontakter, lysbuer/gnister eller tilløp til lysbuer,å få kontrollert anlegget på bakgrunn av slike faresignaler, ogå få utbedret de mangler som avdekkes.
+Hvor omfattende dette vil være avhenger av hvor komplisert anlegget er og hvilken risiko som er forbundet med anlegget og det utstyr som er tilknyttet det. For eksempel vil ansvaret i en bolig kunne innebære:
+
+- å være oppmerksom på faresignaler som oppstår, som varme sikringer og stikkontakter, lysbuer/gnister eller tilløp til lysbuer,
+- å få kontrollert anlegget på bakgrunn av slike faresignaler, og
+- å få utbedret de mangler som avdekkes.
 
 I en industribedrift vil det kunne være mange andre forhold som i tillegg må tas i betraktning, avhengig av virksomhetens art.
 
@@ -569,7 +680,10 @@ Utover eiers/brukers generelle ansvar er enhver som foretar planlegging/prosjekt
 
 ### Veiledning til § 10
 
-Norm som beskriver hvordan sikkerhetskravene i kapittel V kan oppfylles:NEK 400 Elektriske lavspenningsinstallasjoner, Del 2-8, med de endringer som er angitt i vedlegg I til denne forskriften.NEK 420 Elektriske anlegg i eksplosjonsfarlige områder
+Norm som beskriver hvordan sikkerhetskravene i kapittel V kan oppfylles:
+
+- NEK 400 Elektriske lavspenningsinstallasjoner, Del 2-8, med de endringer som er angitt i vedlegg I til denne forskriften.
+- NEK 420 Elektriske anlegg i eksplosjonsfarlige områder
 
 For forlegning av kabler henvises også til NEN 62.75 Kraftkabler – belastningstabeller.
 
@@ -593,13 +707,29 @@ Forskriften angir ikke spesifikt hvilke deler av dokumentasjonen det tillegger h
 
 Bestemmelsen er ikke til hinder for at det utstedes en felles erklæring som omfatter både planlegging og utførelse og som undertegnes av alle involverte aktører.
 
-Erklæring om samsvar må minst inneholde følgende:Navn og adresse til den/de ansvarlige for prosjektering, utførelse eller endring av anlegget.Identifikasjon av anlegget, herunder adresse.Betegnelse på normer anvendt helt eller delvis, eller andre tekniske spesifikasjoner som anlegget er basert på i tilfelle normer ikke er anvendt.Forsikring om at anlegget oppfyller kravene til sikkerhet i denne forskriften.Underskrift av den/de ansvarlige for prosjektering, utførelse eller endring av anlegget.Dato for erklæringen.
+Erklæring om samsvar må minst inneholde følgende:
+
+- Navn og adresse til den/de ansvarlige for prosjektering, utførelse eller endring av anlegget.
+- Identifikasjon av anlegget, herunder adresse.
+- Betegnelse på normer anvendt helt eller delvis, eller andre tekniske spesifikasjoner som anlegget er basert på i tilfelle normer ikke er anvendt.
+- Forsikring om at anlegget oppfyller kravene til sikkerhet i denne forskriften.
+- Underskrift av den/de ansvarlige for prosjektering, utførelse eller endring av anlegget.
+- Dato for erklæringen.
 
 I vedlegg II er det vist eksempel på slike erklæringer om samsvar.
 
-Dokumentasjonen som er underlaget for å kunne utstede en erklæring om samsvar må bl.a. omfatte følgende:En beskrivelse av anlegget hvorav følgende spesielt skal fremgå:Type og sammensetning av kretser (type uttak som forsynes, antall ledere og ledertverrsnitt, forlegningsmåte).Prinsipiell oppbygning av kretsene med referansesystem, drifts- og anleggsmerking. Kretsskjema skal gi fullstendig informasjon om forbindelse mellom komponenter/utrustninger og beskrive virkemåten.Data som er nødvendige for å identifisere vern, frakoblings- og bryterutstyr og slike komponenters plassering.
+Dokumentasjonen som er underlaget for å kunne utstede en erklæring om samsvar må bl.a. omfatte følgende:
 
-For enkle anlegg kan denne beskrivelsen istedet bestå av en kursfortegnelse eller liknende.En liste over anvendte normer og eventuelt en beskrivelse av løsninger som er valgt for å oppfylle de overordnede kravene i forskriftene når normer ikke er anvendt.Resultatene av beregninger og risikovurdering osv, jf [§ 16](forskrift/1998-11-06-1060/§16) med veiledning,Rapport fra kontroll som nevnt i første ledd.
+- En beskrivelse av anlegget hvorav følgende spesielt skal fremgå:
+- Type og sammensetning av kretser (type uttak som forsynes, antall ledere og ledertverrsnitt, forlegningsmåte).
+- Prinsipiell oppbygning av kretsene med referansesystem, drifts- og anleggsmerking. Kretsskjema skal gi fullstendig informasjon om forbindelse mellom komponenter/utrustninger og beskrive virkemåten.
+- Data som er nødvendige for å identifisere vern, frakoblings- og bryterutstyr og slike komponenters plassering.
+
+For enkle anlegg kan denne beskrivelsen istedet bestå av en kursfortegnelse eller liknende.
+
+- En liste over anvendte normer og eventuelt en beskrivelse av løsninger som er valgt for å oppfylle de overordnede kravene i forskriftene når normer ikke er anvendt.
+- Resultatene av beregninger og risikovurdering osv, jf [§ 16](forskrift/1998-11-06-1060/§16) med veiledning,
+- Rapport fra kontroll som nevnt i første ledd.
 
 Ved endring av bestående anlegg må behovet for utarbeidelse av ny dokumentasjon vurderes konkret. Ved mindre endringer kan det være tilstrekkelig å foreta inntegning, retting e.l. på eksisterende dokumentasjon.
 
@@ -639,11 +769,20 @@ Elsikkerhetsbegrepet (se veiledning til [§ 1](forskrift/1998-11-06-1060/§1)) i
 
 Valg av løsning for anlegget sammen med nødvendige vern og andre beskyttelsestiltak forutsetter vurdering av risiko forbundet med det aktuelle anlegget. Dette innebærer også at anlegget skal ha tilfredsstillende pålitelighet i strømtilførselen ved at det tas hensyn til beskyttelse mot avbrudd og selektivitet for vern.
 
-Eksempler på steder der det er nødvendig med spesiell vurdering av risiko er anlegg isykehus,eksplosjonsfarlige områder,hoteller,landbruket,industribedrifter og annen næringsvirksomhet.
+Eksempler på steder der det er nødvendig med spesiell vurdering av risiko er anlegg i
+
+- sykehus,
+- eksplosjonsfarlige områder,
+- hoteller,
+- landbruket,
+- industribedrifter og annen næringsvirksomhet.
 
 ### Veiledning til § 17
 
-Ved planlegging og utførelse må det foretas en vurdering av hyppigheten og omfanget av det vedlikehold av anlegget som med rimelighet kan forventes. I denne vurderingen må det tas hensyn til bl.a. atenhver periodisk inspeksjon, prøving, reparasjon m.v. som er nødvendig må kunne utføres sikkert og lett, og ateffektiviteten av sikkerhetstiltakene er sikret.
+Ved planlegging og utførelse må det foretas en vurdering av hyppigheten og omfanget av det vedlikehold av anlegget som med rimelighet kan forventes. I denne vurderingen må det tas hensyn til bl.a. at
+
+- enhver periodisk inspeksjon, prøving, reparasjon m.v. som er nødvendig må kunne utføres sikkert og lett, og at
+- effektiviteten av sikkerhetstiltakene er sikret.
 
 ### Veiledning til § 18
 
@@ -657,11 +796,18 @@ Se for øvrig vedlegg I
 
 ### Veiledning til § 20
 
-Beskyttelse kan oppnås vedå hindre at mennesker og dyr blir utsatt for strømgjennomgang, eller vedå begrense slik strøm til ufarlig størrelse.
+Beskyttelse kan oppnås ved
+
+- å hindre at mennesker og dyr blir utsatt for strømgjennomgang, eller ved
+- å begrense slik strøm til ufarlig størrelse.
 
 ### Veiledning til § 21
 
-Beskyttelse kan oppnås vedå hindre at mennesker og dyr blir utsatt for strømgjennomgang, eller vedå begrense slik strøm til ufarlig størrelse, eller vedå sørge for automatisk utkobling av strømtilførselen når det oppstår en feil som kan føre til farlig strømgjennomgang for mennesker eller husdyr som er i berøring med utsatte deler.
+Beskyttelse kan oppnås ved
+
+- å hindre at mennesker og dyr blir utsatt for strømgjennomgang, eller ved
+- å begrense slik strøm til ufarlig størrelse, eller ved
+- å sørge for automatisk utkobling av strømtilførselen når det oppstår en feil som kan føre til farlig strømgjennomgang for mennesker eller husdyr som er i berøring med utsatte deler.
 
 Bestemmelsen medfører i praksis at i TT-system kan dette kun oppfylles ved bruk av strømstyrt jordfeilvern.
 
@@ -677,16 +823,29 @@ Ved avmantling av isolasjon er det spesielt viktig å benytte egnet verktøy som
 
 Overstrøm for ledere er enhver strøm høyere enn tillatt strømføringsevne, f.eks. som følge av overbelastning, kortslutning mm.
 
-Beskyttelse kan oppnås vedå sørge for automatisk utkobling av slik overstrøm før denne antar farlig størrelse, varigheten tatt i betraktning, eller vedå begrense slik overstrøm til ufarlig størrelse og varighet.
+Beskyttelse kan oppnås ved
+
+- å sørge for automatisk utkobling av slik overstrøm før denne antar farlig størrelse, varigheten tatt i betraktning, eller ved
+- å begrense slik overstrøm til ufarlig størrelse og varighet.
 
 Det vises for øvrig til veiledning i [§ 22](forskrift/1998-11-06-1060/§22).
 
 ### Veiledning til § 25
 
-Bestemmelsens 2. ledd gjelder beskyttelse mot forhold som skyldes:overførte overspenninger i fordelingsnettet som skyldes atmosfæriske utladningeroverspenninger som oppstår i lavspenningsanlegget på grunn av inn- og utkopling av utstyr i eller tilknyttet anleggetandre overspenninger, f.eks. som følge av jordfeil i høyspenningsanlegg.
+Bestemmelsens 2. ledd gjelder beskyttelse mot forhold som skyldes:
 
-For å redusere sannsynligheten for skader på grunn av overspenninger slikat det oppnås et akseptabelt sikkerhetsnivå for mennesker, husdyr og eiendom ogat krav til ønsket driftssikkerhet kan oppfylles
-må det foretas en vurdering avde overspenninger som kan opptre ved lavspenningsanleggets inntak,den forventede tordenværshyppighet ogplassering og egenskaper for utstyr som skal beskytte mot overspenning.
+- overførte overspenninger i fordelingsnettet som skyldes atmosfæriske utladninger
+- overspenninger som oppstår i lavspenningsanlegget på grunn av inn- og utkopling av utstyr i eller tilknyttet anlegget
+- andre overspenninger, f.eks. som følge av jordfeil i høyspenningsanlegg.
+
+For å redusere sannsynligheten for skader på grunn av overspenninger slik
+
+- at det oppnås et akseptabelt sikkerhetsnivå for mennesker, husdyr og eiendom og
+- at krav til ønsket driftssikkerhet kan oppfylles
+  må det foretas en vurdering av
+- de overspenninger som kan opptre ved lavspenningsanleggets inntak,
+- den forventede tordenværshyppighet og
+- plassering og egenskaper for utstyr som skal beskytte mot overspenning.
 
 Antall skader relatert til hyppighet av atmosfæriske utladninger kan ofte være høyere i Norge enn i sentraleuropeiske land. Dette skyldes naturgitte forhold. Som følge av at de internasjonale normer ikke tar hensyn til dette kan det være påkrevd med tilleggsbeskyttelse mot overspenning etter vurdering av de lokale forhold.
 
@@ -700,7 +859,12 @@ Bestemmelsen innebærer at anlegget må dimensjoneres slik at spenningsfallet un
 
 ### Veiledning til § 31
 
-Eksempler på anlegg hvor avbrudd kan medføre fare, er anlegg isykehusstørre hotellerindustrielt landbruk ogindustribedrifter.
+Eksempler på anlegg hvor avbrudd kan medføre fare, er anlegg i
+
+- sykehus
+- større hoteller
+- industrielt landbruk og
+- industribedrifter.
 
 Ved bruk av livsopprettholdende elektromedisinsk utstyr i private hjem og pleieinstitusjoner vil avbrudd i strømtilførselen til utstyret medføre fare.
 
@@ -778,7 +942,10 @@ IT: For alle formål med nominell spenning opp til og med 220 V. For spesielle i
 
 ### Belastning av PVC-isolert kabel
 
-Ved bruk av PVC-isolert kabel med små tverrsnitt skal vern mot overbelastning velges slik atvernets høyeste prøvestrøm I2 ikke overstiger kabelens maksimale strømføringsevne IZ ellervernets høyeste prøvestrøm I2 ikke overstiger høyeste prøvestrøm som er benyttet for materiell i kretsen.
+Ved bruk av PVC-isolert kabel med små tverrsnitt skal vern mot overbelastning velges slik at
+
+- vernets høyeste prøvestrøm I2 ikke overstiger kabelens maksimale strømføringsevne IZ eller
+- vernets høyeste prøvestrøm I2 ikke overstiger høyeste prøvestrøm som er benyttet for materiell i kretsen.
 
 Med små tverrsnitt menes tverrsnitt opp til og med 4 mm2. (NEK 400: 433.2)
 
@@ -804,7 +971,12 @@ Dette avsnitt definerer forhold som knyttes til grensesnitt mot plan- og bygning
 
 Ledningsanlegg skal fortrinnsvis ikke være forlagt i rømningsveiene. Dersom slik forlegging ikke kan unngås, skal ledningsanlegget være utstyrt med kappe eller kapsling som ikke kan bidra til eller spre ild eller anta slik temperatur at omkringliggende materiale kan antennes i løpet av et tidsrom fastsatt for rømningsveier.
 
-Kabler skal ikke legges bak himling eller tilsvarende hulrom i rømningsvei med mindrekablene representerer liten brannbelastningkablene er ført i egen sjakt med sjaktvegger som har brannmotstand tilsvarende branncellebegrensende bygningsdelhimlingen har brannmotstand tilsvarende branncellebegrensende bygningsdelhulrommet er sprinklet.
+Kabler skal ikke legges bak himling eller tilsvarende hulrom i rømningsvei med mindre
+
+- kablene representerer liten brannbelastning
+- kablene er ført i egen sjakt med sjaktvegger som har brannmotstand tilsvarende branncellebegrensende bygningsdel
+- himlingen har brannmotstand tilsvarende branncellebegrensende bygningsdel
+- hulrommet er sprinklet.
 
 Ledningsanlegg forlagt i rømningsveier skal ligge utenfor rekkevidde, eller være utstyrt med beskyttelse mot mekaniske skader som kan tenkes oppstå under rømning. Ethvert ledningsanlegg i en rømningsvei skal være så kort som mulig.
 
@@ -854,11 +1026,18 @@ Skjøter som ikke kan inspiseres skal sveises med egnet metode. Det skal tas spe
 
 ### Medisinske områder – Strømtilførsel og fordelingssystem
 
-I medisinske områder gruppe 1 og gruppe 2 skal minst følgende kurser være forsynt fra IT-system:Alle kurser beregnet på tilkobling av elektromedisinsk utstyr.Kurser for operasjons- og undersøkelseslamper o.l. med nominell spenning høyere enn 25 V vekselspenning eller 60 V rippelfri likespenning.
+I medisinske områder gruppe 1 og gruppe 2 skal minst følgende kurser være forsynt fra IT-system:
+
+- Alle kurser beregnet på tilkobling av elektromedisinsk utstyr.
+- Kurser for operasjons- og undersøkelseslamper o.l. med nominell spenning høyere enn 25 V vekselspenning eller 60 V rippelfri likespenning.
 
 I medisinske områder gruppe 1 og gruppe 2 bør alle stikkontakter være tilknyttet IT-system. Dersom dette ikke er tilfelle, må stikkontaktene være spesielt merket.
 
-TN- og TT-system er likevel tillatt for følgende kurser, under forutsetning av at avbrudd i behandling, undersøkelse eller overvåking kan skje uten fare eller vesentlig ulempe for pasient:Kurser bare for tilkobling av røntgenutstyr.Kurser bare beregnet for utstyr med effektbehov over 5 kW.Kurser som ikke er beregnet for tilkobling av elektromedisinsk utstyr, og hvor tilkoblet utstyr ikke kan komme innenfor «pasientomgivelse».
+TN- og TT-system er likevel tillatt for følgende kurser, under forutsetning av at avbrudd i behandling, undersøkelse eller overvåking kan skje uten fare eller vesentlig ulempe for pasient:
+
+- Kurser bare for tilkobling av røntgenutstyr.
+- Kurser bare beregnet for utstyr med effektbehov over 5 kW.
+- Kurser som ikke er beregnet for tilkobling av elektromedisinsk utstyr, og hvor tilkoblet utstyr ikke kan komme innenfor «pasientomgivelse».
 
 TN-system skal være TN-S-system, såvidt mulig helt fra transformator eller generator.
 

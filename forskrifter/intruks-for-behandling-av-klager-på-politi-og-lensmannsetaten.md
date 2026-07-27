@@ -26,7 +26,12 @@ eu_basis: []
 
 Instruksen regulerer behandling av henvendelser fra publikum om påståtte kritikkverdige forhold utført i tjeneste i politi- og lensmannsetaten.
 
-Instruksen kommer ikke til anvendelse for henvendelser som gjelder:Tjenesteutøvelse hvor det hevdes at en ansatt i politiet eller påtalemyndigheten har begått straffbare forhold.Straffeprosessuelle avgjørelser og annen tjenesteutøvelse av straffeprosessuell karakter.Forvaltningsmessige avgjørelser.Saker som behandles av Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget). Såfremt en klage er til behandling i EOS-utvalget, er det ikke til hinder for at politimesteren eller sjef for Politiets sikkerhetstjeneste behandler den del av saken som berører kritikk av den politifaglige tjenesteutøvelsen.
+Instruksen kommer ikke til anvendelse for henvendelser som gjelder:
+
+1. Tjenesteutøvelse hvor det hevdes at en ansatt i politiet eller påtalemyndigheten har begått straffbare forhold.
+2. Straffeprosessuelle avgjørelser og annen tjenesteutøvelse av straffeprosessuell karakter.
+3. Forvaltningsmessige avgjørelser.
+4. Saker som behandles av Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget). Såfremt en klage er til behandling i EOS-utvalget, er det ikke til hinder for at politimesteren eller sjef for Politiets sikkerhetstjeneste behandler den del av saken som berører kritikk av den politifaglige tjenesteutøvelsen.
 
 ## § 2. Formål
 

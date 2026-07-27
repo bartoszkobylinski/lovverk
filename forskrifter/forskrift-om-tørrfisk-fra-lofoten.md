@@ -15,7 +15,7 @@ xml_hash: "82a247ab457244d81447ceb3dc5d7ec52b62012535510456e7cb5aa968a191ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,10 +34,50 @@ Tørrfisk fra Lofoten AS.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
-1. *Produktbeskrivelse:*Tørrfisk fra Lofoten er naturtørket torsk/skrei (*Gadusmorhua*) fra Lofoten. Betegnelsen omfatter tørrfisk som tilfredsstiller kravene til sortering jf. gjeldende bransjestandard for sortering av tørrfisk.Tørrfisk fra Lofoten skal ha et vanninnhold på 16-27 %, et proteininnhold på 68-78 % og et fettinnhold på ca. 1 %.
-2. *Geografisk område:*Fisk til produksjon av Tørrfisk fra Lofoten skal være fanget rundt Lofoten og Vesterålen, levert til mottak i Lofoten og naturtørket, sortert og pakket i Lofoten. Lofoten består av kommunene Flakstad, Moskenes, Røst, Vestvågøy, Værøy og Vågan.
-3. *Produksjonsmetode:**Råvare:*Tørrfisk fra Lofoten skal være produsert av torsk/skrei som er fanget rundt Lofoten og Vesterålen i perioden januar t.o.m. april.Fisken skal bløgges i takt med opptak. For å sikre god utblødning skal fisken legges i vann. Fisken skal deretter sløyes. Sløyesnittet skal starte mellom brystfinnene og føres ned til gattet. Lever, rogn og øvrige innvoller skal fjernes. Fiskekjøttet skal ikke skades. Fisken skal hodekappes forskriftsmessig. Fisken skal deretter vaskes i rent vann.Håndtering og transport av fisk som skal til Lofoten for henging skal foregå i samsvar med gjeldende regelverk på området.*Mottak:*Fisk som er utsortert til henging skal skylles grundig i rent vann, før to og to jevnstore fisker bindes sammen med for eksempel sperregarn over spordfestet. Den ene fisken skal roteres slik at båndet strammes og sitter godt fast rundt begge fiskene. Fiskene skal henge samme vei. Etter sperring skal fisken på ny skylles i friskt rennende vann. Fisken skal ikke ises. Fisken skal henges snarest mulig etter fangst.*Henging og tørking:*Fisken skal henges til tørking på flathjell eller på hesjer. Fiskene skal ikke henge mot hverandre eller mot stativet. Etter noen dagers henging skal fisken inspiseres. Eventuelle leverrester skal fjernes, og fisk som henger mot hverandre skal skilles for å forhindre hengeflekker.Avhengig av værforholdene tar tørkeprosessen fra 2–4 måneder, og inntak skal normalt skje i mai/juni. «Fiskeklangen» avgjør når fisken er ferdig tørket.*Ettertørking:*Etter at fisken har blitt tørket på hjell skal fisken tas inn og ettertørkes på lager. Fisken skal stables på pall, og med tilstrekkelig plass mellom pallene til at luft kan sirkulere og til inspeksjon.*Sortering:*Tørrfisk i sorteringen Prima skal være så å si feilfri med naturlig fasong og åpen buk, ren i nakke og buk, uten antydning til sleipedannelse, uten hengeflekker og uten frostskade. Tørrfisk i sorteringen Sekunda kan ha små, men ikke betydelige feil.Tørrfisk skal sorteres videre i ulike kvalitetsgrupper i henhold til bransjestandard. Viktige kriterier ved den videre sorteringen i kvalitetsgrupper er fiskens størrelse og tykkelse.*Pakking:*Tørrfisk pakkes i jute eller i pappkartong.
-4. *Merking av produktet:*Tørrfisk fra Lofoten kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
+1. *Produktbeskrivelse:*
+
+   Tørrfisk fra Lofoten er naturtørket torsk/skrei (*Gadusmorhua*) fra Lofoten. Betegnelsen omfatter tørrfisk som tilfredsstiller kravene til sortering jf. gjeldende bransjestandard for sortering av tørrfisk.
+
+   Tørrfisk fra Lofoten skal ha et vanninnhold på 16-27 %, et proteininnhold på 68-78 % og et fettinnhold på ca. 1 %.
+2. *Geografisk område:*
+
+   Fisk til produksjon av Tørrfisk fra Lofoten skal være fanget rundt Lofoten og Vesterålen, levert til mottak i Lofoten og naturtørket, sortert og pakket i Lofoten. Lofoten består av kommunene Flakstad, Moskenes, Røst, Vestvågøy, Værøy og Vågan.
+3. *Produksjonsmetode:*
+
+   *Råvare:*
+
+   Tørrfisk fra Lofoten skal være produsert av torsk/skrei som er fanget rundt Lofoten og Vesterålen i perioden januar t.o.m. april.
+
+   Fisken skal bløgges i takt med opptak. For å sikre god utblødning skal fisken legges i vann. Fisken skal deretter sløyes. Sløyesnittet skal starte mellom brystfinnene og føres ned til gattet. Lever, rogn og øvrige innvoller skal fjernes. Fiskekjøttet skal ikke skades. Fisken skal hodekappes forskriftsmessig. Fisken skal deretter vaskes i rent vann.
+
+   Håndtering og transport av fisk som skal til Lofoten for henging skal foregå i samsvar med gjeldende regelverk på området.
+
+   *Mottak:*
+
+   Fisk som er utsortert til henging skal skylles grundig i rent vann, før to og to jevnstore fisker bindes sammen med for eksempel sperregarn over spordfestet. Den ene fisken skal roteres slik at båndet strammes og sitter godt fast rundt begge fiskene. Fiskene skal henge samme vei. Etter sperring skal fisken på ny skylles i friskt rennende vann. Fisken skal ikke ises. Fisken skal henges snarest mulig etter fangst.
+
+   *Henging og tørking:*
+
+   Fisken skal henges til tørking på flathjell eller på hesjer. Fiskene skal ikke henge mot hverandre eller mot stativet. Etter noen dagers henging skal fisken inspiseres. Eventuelle leverrester skal fjernes, og fisk som henger mot hverandre skal skilles for å forhindre hengeflekker.
+
+   Avhengig av værforholdene tar tørkeprosessen fra 2–4 måneder, og inntak skal normalt skje i mai/juni. «Fiskeklangen» avgjør når fisken er ferdig tørket.
+
+   *Ettertørking:*
+
+   Etter at fisken har blitt tørket på hjell skal fisken tas inn og ettertørkes på lager. Fisken skal stables på pall, og med tilstrekkelig plass mellom pallene til at luft kan sirkulere og til inspeksjon.
+
+   *Sortering:*
+
+   Tørrfisk i sorteringen Prima skal være så å si feilfri med naturlig fasong og åpen buk, ren i nakke og buk, uten antydning til sleipedannelse, uten hengeflekker og uten frostskade. Tørrfisk i sorteringen Sekunda kan ha små, men ikke betydelige feil.
+
+   Tørrfisk skal sorteres videre i ulike kvalitetsgrupper i henhold til bransjestandard. Viktige kriterier ved den videre sorteringen i kvalitetsgrupper er fiskens størrelse og tykkelse.
+
+   *Pakking:*
+
+   Tørrfisk pakkes i jute eller i pappkartong.
+4. *Merking av produktet:*
+
+   Tørrfisk fra Lofoten kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
 
 > Endret ved [forskrift 29 juni 2012 nr. 694](forskrift/2012-06-29-694).
 

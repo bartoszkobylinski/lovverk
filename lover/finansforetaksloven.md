@@ -15,7 +15,7 @@ xml_hash: "e59ef3da99933c528f8c66ac3a213d3f1170ed912b0f29ca00e6917c3533838c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -45,7 +45,14 @@ Formålet med loven er å bidra til finansiell stabilitet, herunder at finansfor
 
 ### § 1-3. Finansforetak
 
-(1) Som finansforetak regnes foretak som driver virksomhet som:bank,kredittforetak,finansieringsforetak,forsikringsforetak,pensjonsforetak,holdingforetak i finanskonsern.
+(1) Som finansforetak regnes foretak som driver virksomhet som:
+
+1. bank,
+2. kredittforetak,
+3. finansieringsforetak,
+4. forsikringsforetak,
+5. pensjonsforetak,
+6. holdingforetak i finanskonsern.
 
 (2) Som finansforetak regnes også foretak som er gitt tillatelse til å drive virksomhet som betalingsforetak eller e-pengeforetak, når ikke annet følger av bestemmelse gitt i eller i medhold av denne loven.
 
@@ -111,9 +118,20 @@ Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-r
 
 (1) Finansieringsvirksomhet kan bare drives av banker, kredittforetak og finansieringsforetak som etter denne loven har tillatelse til å drive slik virksomhet her i riket, med mindre annet følger av lovgivningen om verdipapirforetak, låneformidlingsforetak, forsikringsformidlingsforetak, forvaltningsselskap for verdipapirfond eller alternative investeringsfond og eiendomsmeglerforetak. Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner som etter denne loven har adgang til å drive slik virksomhet her i riket.
 
-(2) Som finansieringsvirksomhet regnes:å yte kreditt og stille garantier for egen regning, herunder finansiell leasing,å formidle kreditt og garantier, samt annen medvirkning ved finansiering av annet enn egen virksomhet.
+(2) Som finansieringsvirksomhet regnes:
 
-(3) Som finansieringsvirksomhet regnes ikke:virksomhet i offentlig institusjon eller fond som er opprettet for særlige kredittformål,virksomhet i stiftelse som ikke har til formål å drive næringsvirksomhet, eller statsforvalterens forvaltning av finansielle eiendeler etter vergemålsloven,å yte kreditt til, eller stille garantier for, ansatte i foretaket eller foretak i samme konsern som kredittgiver eller garantistiller,å yte kreditt til, eller stille garantier for, tilknyttet selskap som nevnt i [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4). Unntaket i foregående punktum gjelder ikke dersom foretaket som yter kreditt eller stiller garantier, eller foretak i samme konsern, tar imot tilbakebetalingspliktige midler fra allmennheten.å yte kreditt som selger av en vare eller tjeneste. Det samme gjelder kreditt til kjøperen som etter avtale skal ytes av et foretak i samme konsern som selgeren, dersom foretaket finansierer sin kredittvirksomhet ved lån fra finansforetak eller lån fra foretak som inngår i konsernet, med mindre foretaket som yter selgerkreditten også driver annen finansieringsvirksomhet,virksomhet som finansagent eller finansrådgiver,finansiering som bare ytes i enkeltstående tilfeller.
+1. å yte kreditt og stille garantier for egen regning, herunder finansiell leasing,
+2. å formidle kreditt og garantier, samt annen medvirkning ved finansiering av annet enn egen virksomhet.
+
+(3) Som finansieringsvirksomhet regnes ikke:
+
+1. virksomhet i offentlig institusjon eller fond som er opprettet for særlige kredittformål,
+2. virksomhet i stiftelse som ikke har til formål å drive næringsvirksomhet, eller statsforvalterens forvaltning av finansielle eiendeler etter vergemålsloven,
+3. å yte kreditt til, eller stille garantier for, ansatte i foretaket eller foretak i samme konsern som kredittgiver eller garantistiller,
+4. å yte kreditt til, eller stille garantier for, tilknyttet selskap som nevnt i [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4). Unntaket i foregående punktum gjelder ikke dersom foretaket som yter kreditt eller stiller garantier, eller foretak i samme konsern, tar imot tilbakebetalingspliktige midler fra allmennheten.
+5. å yte kreditt som selger av en vare eller tjeneste. Det samme gjelder kreditt til kjøperen som etter avtale skal ytes av et foretak i samme konsern som selgeren, dersom foretaket finansierer sin kredittvirksomhet ved lån fra finansforetak eller lån fra foretak som inngår i konsernet, med mindre foretaket som yter selgerkreditten også driver annen finansieringsvirksomhet,
+6. virksomhet som finansagent eller finansrådgiver,
+7. finansiering som bare ytes i enkeltstående tilfeller.
 
 (4) Unntakene i tredje ledd bokstav d og f gjelder ikke dersom en selger som ikke er forbruker, yter kreditt i forbindelse med salg av bolig som er knyttet til eller skal knyttes til andel i borettslag. Finanstilsynet kan ved enkeltvedtak gjøre unntak fra første punktum.
 
@@ -177,13 +195,24 @@ Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-r
 
 ### § 2-7. Konsesjon som bank
 
-Tillatelse til å drive virksomhet som bank gir adgang til å motta innskudd og andre tilbakebetalingspliktige midler fra allmennheten, å yte kreditt og stille garantier for egen regning og til å yte betalingstjenester. Tillatelsen kan også omfatte følgende typer virksomhet:annen finansieringsvirksomhet,utstedelse av elektroniske penger,forretninger for foretakets eller kundenes regning i penge-, valuta- og verdipapirmarkedet, herunder investeringstjenester og investeringsvirksomhet etter [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) samt tilknyttede tjenester etter [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6),andre banktjenester.
+Tillatelse til å drive virksomhet som bank gir adgang til å motta innskudd og andre tilbakebetalingspliktige midler fra allmennheten, å yte kreditt og stille garantier for egen regning og til å yte betalingstjenester. Tillatelsen kan også omfatte følgende typer virksomhet:
+
+1. annen finansieringsvirksomhet,
+2. utstedelse av elektroniske penger,
+3. forretninger for foretakets eller kundenes regning i penge-, valuta- og verdipapirmarkedet, herunder investeringstjenester og investeringsvirksomhet etter [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) samt tilknyttede tjenester etter [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6),
+4. andre banktjenester.
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713)).
 
 ### § 2-8. Konsesjon som kredittforetak
 
-Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta andre tilbakebetalingspliktige midler enn innskudd fra allmennheten og å yte kreditt og stille garantier for egen regning. Tillatelsen kan også omfatte følgende typer virksomhet:annen finansieringsvirksomhet,forretninger for foretakets regning i penge-, valuta- og verdipapirmarkedet, herunder investeringstjenester og investeringsvirksomhet etter [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) samt tilknyttede tjenester etter [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6),utstedelse av elektroniske penger,ytelse av betalingstjenester,andre særlige tjenester.
+Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta andre tilbakebetalingspliktige midler enn innskudd fra allmennheten og å yte kreditt og stille garantier for egen regning. Tillatelsen kan også omfatte følgende typer virksomhet:
+
+1. annen finansieringsvirksomhet,
+2. forretninger for foretakets regning i penge-, valuta- og verdipapirmarkedet, herunder investeringstjenester og investeringsvirksomhet etter [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) samt tilknyttede tjenester etter [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6),
+3. utstedelse av elektroniske penger,
+4. ytelse av betalingstjenester,
+5. andre særlige tjenester.
 
 > Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713)).
 
@@ -193,7 +222,11 @@ Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta an
 
 ### § 2-9. Konsesjon som finansieringsforetak
 
-(1) Tillatelse til å drive virksomhet som finansieringsforetak kan omfatte en eller flere av følgende virksomheter:leasing, factoring og annen finansieringsvirksomhet,forretninger for foretakets eller kunders regning i penge- eller valutamarkedet,omsetning av valuta eller andre særlige tjenester.
+(1) Tillatelse til å drive virksomhet som finansieringsforetak kan omfatte en eller flere av følgende virksomheter:
+
+1. leasing, factoring og annen finansieringsvirksomhet,
+2. forretninger for foretakets eller kunders regning i penge- eller valutamarkedet,
+3. omsetning av valuta eller andre særlige tjenester.
 
 (2) Et finansieringsforetak kan også gis tillatelse til å drive virksomhet som e-pengeforetak, betalingsforetak eller som opplysningsfullmektig med mindre hensyn til foretakets risikostyring og soliditet eller andre tilsynsmessige hensyn tilsier at slik virksomhet drives i eget foretak.
 
@@ -209,7 +242,13 @@ Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta an
 
 (3) Et betalingsforetak kan også gis tillatelse til å drive virksomhet som finansieringsforetak, med mindre hensynet til foretakets risikostyring og soliditet eller andre tilsynsmessige hensyn tilsier at slik virksomhet drives i eget foretak.
 
-(4) Foretak med hovedkontor i Norge kan gis en begrenset tillatelse som betalingsforetak. Bestemmelsene i [kapittel 4](lov/2015-04-10-17/kap4) gjelder ikke ved en begrenset tillatelse. For virksomhet i henhold til begrenset tillatelse gjelder følgende:Foretaket kan bare yte betalingstjenesten pengeoverføring, jf. [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav f.Foretaket skal ha systemer og retningslinjer for kontroll og avdekking av risiko for å påse at forpliktelsene på alle vesentlige aktivitetsområder vil bli oppfylt, herunder sikring av midler mottatt i forbindelse med pengeoverføringer.Foretaket skal ha startkapital som angitt i [§ 3-4](lov/2015-04-10-17/§3-4) annet ledd bokstav a.Det samlede beløpet for betalingstransaksjoner utført av virksomheten i gjennomsnitt over de 12 foregående måneder skal ikke overstige et beløp på fem millioner kroner per måned. Departementet kan ved enkeltvedtak fastsette et annet maksimalbeløp, men ikke et beløp i norske kroner som overstiger tilsvarende tre millioner euro per måned.Foretaket har ikke adgang til å benytte agenter.
+(4) Foretak med hovedkontor i Norge kan gis en begrenset tillatelse som betalingsforetak. Bestemmelsene i [kapittel 4](lov/2015-04-10-17/kap4) gjelder ikke ved en begrenset tillatelse. For virksomhet i henhold til begrenset tillatelse gjelder følgende:
+
+1. Foretaket kan bare yte betalingstjenesten pengeoverføring, jf. [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav f.
+2. Foretaket skal ha systemer og retningslinjer for kontroll og avdekking av risiko for å påse at forpliktelsene på alle vesentlige aktivitetsområder vil bli oppfylt, herunder sikring av midler mottatt i forbindelse med pengeoverføringer.
+3. Foretaket skal ha startkapital som angitt i [§ 3-4](lov/2015-04-10-17/§3-4) annet ledd bokstav a.
+4. Det samlede beløpet for betalingstransaksjoner utført av virksomheten i gjennomsnitt over de 12 foregående måneder skal ikke overstige et beløp på fem millioner kroner per måned. Departementet kan ved enkeltvedtak fastsette et annet maksimalbeløp, men ikke et beløp i norske kroner som overstiger tilsvarende tre millioner euro per måned.
+5. Foretaket har ikke adgang til å benytte agenter.
 
 (5) Departementet kan fastsette nærmere regler om betalingsforetak og foretak med begrenset tillatelse etter fjerde ledd, herunder gjøre unntak fra reglene som gjelder for finansforetak, og fastsette regler om organisering, virksomhet, kapitalkrav, eierforhold, sikring av midler, bruk av agenter og oppdragstakere, vilkår for tillatelse, tilbakekall av tillatelse, utenrettslig tvisteløsningsordning og tilsyn. Departementet kan ved forskrift eller enkeltvedtak gjøre unntak for virksomhet som omfattes av fjerde ledd.
 
@@ -323,7 +362,11 @@ Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta an
 
 (1) Finansforetak skal bruke foretaksnavn og andre kjennetegn som gjør det klart for kunder og andre hvilket foretak de forholder seg til, og hva slags virksomhet foretaket driver.
 
-(2) Finansforetak skal ikke bruke foretaksnavn eller betegnelse som:fører til at foretaket lett kan forveksles med et annet finansforetak, eller gir et misvisende inntrykk av hva slags virksomhet foretaket driver,gir inntrykk av at en del av finansforetaket er et eget finansforetak,gir inntrykk av at finansforetak som inngår i norsk finanskonsern, er frittstående.
+(2) Finansforetak skal ikke bruke foretaksnavn eller betegnelse som:
+
+1. fører til at foretaket lett kan forveksles med et annet finansforetak, eller gir et misvisende inntrykk av hva slags virksomhet foretaket driver,
+2. gir inntrykk av at en del av finansforetaket er et eget finansforetak,
+3. gir inntrykk av at finansforetak som inngår i norsk finanskonsern, er frittstående.
 
 (3) Departementet kan gi forskrift om finansforetaks navnebruk, og ved forskrift eller enkeltvedtak gjøre unntak fra første og annet ledd.
 
@@ -339,7 +382,20 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (2) Søknaden skal inneholde de opplysninger som må anses å være av betydning for behandling av søknaden, herunder dokumentasjon som viser at foretaket er stiftet i tråd med kravene i [kapittel 7](lov/2015-04-10-17/kap7). Finanstilsynet kan kreve at søkeren gir ytterligere opplysninger.
 
-(3) Søknad om tillatelse til å etablere og drive virksomhet som finansforetak skal inneholde foretakets vedtekter og en organisasjons- og driftsplan for de tre første driftsårene. Planen skal redegjøre for organiseringen av de sentrale deler av konsesjonspliktig virksomhet, og skal som hovedregel også redegjøre for:foretakets eier- og ledelsesforhold etter etableringen,foretakets styrings- og kontrollsystemer,hvordan foretaket skal skaffe til veie kapital til dekning av kapitalkrav for den virksomhet driftsplanen omfatter,foretakets kapital- og soliditetsforhold og prognose for finansiell stilling i hvert av de tre første år,budsjetter for etablerings- og administrasjonskostnader,budsjetter med resultatregnskap, balanseregnskap og finansieringsanalyse for hvert av de tre første driftsårene,foretakets konserntilknytning,finansielle tjenester som foretaket vil tilby med tilhørende driftsopplegg,foretakets tiltak for å oppfylle krav fastsatt i eller i medhold av hvitvaskingsloven,hvordan betalingsforetak og e-pengeforetak skal sikre kundemidler.Forsikringsforetak skal i tillegg gi opplysninger om hvilke forsikringer foretaket vil tilby, og redegjøre for prinsippene for premieberegning og gjenforsikring. Skal foretaket dekke risiko innen forsikringsklassen ansvar for landkjøretøy, som ikke bare omfatter fraktføreransvar, skal det gis opplysninger om navn og adresse på de skadebehandlingsrepresentanter som skal være utpekt i hvert av de øvrige EØS-landene.
+(3) Søknad om tillatelse til å etablere og drive virksomhet som finansforetak skal inneholde foretakets vedtekter og en organisasjons- og driftsplan for de tre første driftsårene. Planen skal redegjøre for organiseringen av de sentrale deler av konsesjonspliktig virksomhet, og skal som hovedregel også redegjøre for:
+
+1. foretakets eier- og ledelsesforhold etter etableringen,
+2. foretakets styrings- og kontrollsystemer,
+3. hvordan foretaket skal skaffe til veie kapital til dekning av kapitalkrav for den virksomhet driftsplanen omfatter,
+4. foretakets kapital- og soliditetsforhold og prognose for finansiell stilling i hvert av de tre første år,
+5. budsjetter for etablerings- og administrasjonskostnader,
+6. budsjetter med resultatregnskap, balanseregnskap og finansieringsanalyse for hvert av de tre første driftsårene,
+7. foretakets konserntilknytning,
+8. finansielle tjenester som foretaket vil tilby med tilhørende driftsopplegg,
+9. foretakets tiltak for å oppfylle krav fastsatt i eller i medhold av hvitvaskingsloven,
+10. hvordan betalingsforetak og e-pengeforetak skal sikre kundemidler.
+
+Forsikringsforetak skal i tillegg gi opplysninger om hvilke forsikringer foretaket vil tilby, og redegjøre for prinsippene for premieberegning og gjenforsikring. Skal foretaket dekke risiko innen forsikringsklassen ansvar for landkjøretøy, som ikke bare omfatter fraktføreransvar, skal det gis opplysninger om navn og adresse på de skadebehandlingsrepresentanter som skal være utpekt i hvert av de øvrige EØS-landene.
 
 (4) Søknad etter tredje ledd skal inneholde opplysninger om kvalifikasjoner, yrkeserfaring og forhold nevnt i [§§ 9-1](lov/2015-04-10-17/§9-1) til [9-3](lov/2015-04-10-17/§9-3), samt ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40), for hvert enkelt styremedlem, varamedlem og observatør i styret, daglig leder, andre personer som skal inngå i den faktiske ledelsen av virksomheten eller deler av denne, samt andre personer med nøkkelfunksjoner i foretaket.
 
@@ -351,7 +407,13 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (1) Tillatelse, godkjennelse eller samtykke etter denne loven gis av departementet. Det kan settes vilkår for tillatelsen, godkjennelsen eller samtykket, herunder at virksomheten drives på en bestemt måte eller innenfor visse rammer, eller andre vilkår i samsvar med de formål som lovgivningen om finansforetak skal ivareta.
 
-(2) Tillatelse til å etablere og drive virksomhet som finansforetak skal nektes dersom:finansforetaket ikke har hovedsete og forretningskontor her i riket, med mindre finansforetaket søker tillatelse etter [kapittel 5](lov/2015-04-10-17/kap5),vilkårene i [§§ 3-3](lov/2015-04-10-17/§3-3) til [3-5](lov/2015-04-10-17/§3-5) ikke er oppfylt,forholdet til nære forbindelser som definert i [finanstilsynsloven § 3 a annet ledd](lov/1956-12-07-1/§3a/ledd/2) eller forskrift gitt i medhold av denne bestemmelsen, er av en slik art at det ikke kan gjennomføres et effektivt og betryggende tilsyn med finansforetaket,det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til forsvarlig virksomhet som følger av [§§ 8-16](lov/2015-04-10-17/§8-16) til [8-20](lov/2015-04-10-17/§8-20), [§§ 13-4](lov/2015-04-10-17/§13-4) til [13-7](lov/2015-04-10-17/§13-7), [§ 13-13](lov/2015-04-10-17/§13-13), [kapittel 14](lov/2015-04-10-17/kap14) og [§ 16-1](lov/2015-04-10-17/§16-1),det er grunn til å anta at foretaket ikke vil oppfylle de krav som stilles i lov eller i medhold av lov, eller at virksomheten vil være i strid med rettsordenen.
+(2) Tillatelse til å etablere og drive virksomhet som finansforetak skal nektes dersom:
+
+1. finansforetaket ikke har hovedsete og forretningskontor her i riket, med mindre finansforetaket søker tillatelse etter [kapittel 5](lov/2015-04-10-17/kap5),
+2. vilkårene i [§§ 3-3](lov/2015-04-10-17/§3-3) til [3-5](lov/2015-04-10-17/§3-5) ikke er oppfylt,
+3. forholdet til nære forbindelser som definert i [finanstilsynsloven § 3 a annet ledd](lov/1956-12-07-1/§3a/ledd/2) eller forskrift gitt i medhold av denne bestemmelsen, er av en slik art at det ikke kan gjennomføres et effektivt og betryggende tilsyn med finansforetaket,
+4. det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til forsvarlig virksomhet som følger av [§§ 8-16](lov/2015-04-10-17/§8-16) til [8-20](lov/2015-04-10-17/§8-20), [§§ 13-4](lov/2015-04-10-17/§13-4) til [13-7](lov/2015-04-10-17/§13-7), [§ 13-13](lov/2015-04-10-17/§13-13), [kapittel 14](lov/2015-04-10-17/kap14) og [§ 16-1](lov/2015-04-10-17/§16-1),
+5. det er grunn til å anta at foretaket ikke vil oppfylle de krav som stilles i lov eller i medhold av lov, eller at virksomheten vil være i strid med rettsordenen.
 
 (3) Ved vurdering av om tillatelse skal gis, skal det legges vesentlig vekt på om foretakets kapital- og soliditetsforhold er betryggende, herunder om startkapitalen står i rimelig forhold til den planlagte virksomhet, og om organisasjons- og driftsplanen er betryggende for den virksomhet som skal drives. Det skal også legges vesentlig vekt på om tillatelsen på annen måte kan få uheldige virkninger for finansforetakets kunder eller grupper av kunder.
 
@@ -371,9 +433,17 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (1) Banker, kredittforetak og finansieringsforetak skal ha aksjekapital, grunnfondskapital og annen egenkapital (samlet startkapital) som utgjør et beløp i norske kroner som minst svarer til 5 millioner euro.
 
-(2) E-pengeforetak skal ha samlet startkapital som utgjør et beløp i norske kroner som minst svarer til 350 000 euro. Betalingsforetak skal samlet ha en startkapital som utgjør et beløp i norske kroner som minst svarer til:20 000 euro dersom betalingsforetaket bare yter slik betalingstjeneste som er nevnt i [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav f,50 000 euro dersom betalingsforetaket tilbyr betalingsfullmakttjeneste,125 000 euro når betalingsforetaket yter én eller flere av betalingstjenestene som er nevnt i [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav a til e.
+(2) E-pengeforetak skal ha samlet startkapital som utgjør et beløp i norske kroner som minst svarer til 350 000 euro. Betalingsforetak skal samlet ha en startkapital som utgjør et beløp i norske kroner som minst svarer til:
 
-(3) Forsikringsforetak skal ha en samlet startkapital som utgjør et beløp i norske kroner som minst svarer til:for livsforsikringsforetak 3,7 millioner euro,for andre forsikringsforetak 2,5 millioner euro, men 3,7 millioner euro hvis foretaket har overtatt ansvarsforsikringer knyttet til motorvogn, luftfartøy eller skip eller andre ansvarsforsikringer, eller kreditt- eller garantiforsikringer,for gjenforsikringsforetak 3,6 millioner euro, men 1,2 millioner euro for gjenforsikringsforetak som etter sine vedtekter bare kan overta gjenforsikringer for en bestemt krets av forsikringstakere.
+1. 20 000 euro dersom betalingsforetaket bare yter slik betalingstjeneste som er nevnt i [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav f,
+2. 50 000 euro dersom betalingsforetaket tilbyr betalingsfullmakttjeneste,
+3. 125 000 euro når betalingsforetaket yter én eller flere av betalingstjenestene som er nevnt i [finansavtaleloven § 1-5](lov/2020-12-18-146/§1-5) første ledd bokstav a til e.
+
+(3) Forsikringsforetak skal ha en samlet startkapital som utgjør et beløp i norske kroner som minst svarer til:
+
+1. for livsforsikringsforetak 3,7 millioner euro,
+2. for andre forsikringsforetak 2,5 millioner euro, men 3,7 millioner euro hvis foretaket har overtatt ansvarsforsikringer knyttet til motorvogn, luftfartøy eller skip eller andre ansvarsforsikringer, eller kreditt- eller garantiforsikringer,
+3. for gjenforsikringsforetak 3,6 millioner euro, men 1,2 millioner euro for gjenforsikringsforetak som etter sine vedtekter bare kan overta gjenforsikringer for en bestemt krets av forsikringstakere.
 
 (4) Pensjonsforetak skal ha en samlet startkapital som minst svarer til 10 ganger folketrygdens grunnbeløp.
 
@@ -383,7 +453,11 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 ### § 3-5. Krav til ledelsen av foretaket
 
-(1) Foretaket kan ikke ha styremedlemmer, daglig leder eller andre personer i den faktiske ledelse av virksomheten eller deler av denne som:ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
+(1) Foretaket kan ikke ha styremedlemmer, daglig leder eller andre personer i den faktiske ledelse av virksomheten eller deler av denne som:
+
+1. ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,
+2. er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,
+3. i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
 
 (2) En person kan nektes godkjent som varamedlem eller observatør i styret, dersom det foreligger forhold som nevnt i første ledd.
 
@@ -401,7 +475,14 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 ### § 3-7. Endring og tilbakekall
 
-(1) Departementet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom:finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag tillatelsen ble gitt, eller ikke lenger driver aktiv virksomhet,styret eller andre organer i foretaket har gjort seg skyldig i grov eller vedvarende overtredelse av plikter gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,styremedlemmer, daglig leder eller annen person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 3-5](lov/2015-04-10-17/§3-5) ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,eierforholdene i foretaket er endret ved erverv i strid med reglene i [kapittel 6](lov/2015-04-10-17/kap6),foretaket ikke oppfyller kapitalkrav fastsatt i eller i medhold av denne loven, eller unnlater å etterkomme pålegg av Finanstilsynet,foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet.
+(1) Departementet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom:
+
+1. finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag tillatelsen ble gitt, eller ikke lenger driver aktiv virksomhet,
+2. styret eller andre organer i foretaket har gjort seg skyldig i grov eller vedvarende overtredelse av plikter gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,
+3. styremedlemmer, daglig leder eller annen person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 3-5](lov/2015-04-10-17/§3-5) ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,
+4. eierforholdene i foretaket er endret ved erverv i strid med reglene i [kapittel 6](lov/2015-04-10-17/kap6),
+5. foretaket ikke oppfyller kapitalkrav fastsatt i eller i medhold av denne loven, eller unnlater å etterkomme pålegg av Finanstilsynet,
+6. foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet.
 
 (2) Tilbakekalles tillatelsen, skal foretaket og dets virksomhet avvikles etter reglene i [kapittel 12](lov/2015-04-10-17/kap12) avsnitt II. Departementet kan gjøre unntak fra plikten til å avvikle foretaket slik at deler av virksomheten kan videreføres.
 
@@ -429,7 +510,13 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 ### § 4-2. Etablering av filial i annen EØS-stat
 
-(1) Før banker, kredittforetak, forsikringsforetak, betalingsforetak eller e-pengeforetak etablerer filial i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om:hvilken stat filialen ønskes etablert, og filialens adresse,de personer som skal forestå ledelsen av filialen,størrelsen av foretakets ansvarlige kapital og oppfyllelsen av krav til ansvarlig kapital og soliditet.I tillegg skal foretaket gi Finanstilsynet en virksomhetsplan med opplysninger om hvilke typer finansielle tjenester virksomheten skal omfatte og om filialens organisatoriske oppbygging. Departementet kan gi forskrift om hvilke øvrige opplysninger meldingen skal inneholde for ulike typer finansforetak.
+(1) Før banker, kredittforetak, forsikringsforetak, betalingsforetak eller e-pengeforetak etablerer filial i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om:
+
+1. hvilken stat filialen ønskes etablert, og filialens adresse,
+2. de personer som skal forestå ledelsen av filialen,
+3. størrelsen av foretakets ansvarlige kapital og oppfyllelsen av krav til ansvarlig kapital og soliditet.
+
+I tillegg skal foretaket gi Finanstilsynet en virksomhetsplan med opplysninger om hvilke typer finansielle tjenester virksomheten skal omfatte og om filialens organisatoriske oppbygging. Departementet kan gi forskrift om hvilke øvrige opplysninger meldingen skal inneholde for ulike typer finansforetak.
 
 (2) Finanstilsynet skal sende melding om filialetablering til vertsstatens tilsynsmyndigheter senest innen tre måneder etter at melding som nevnt i første ledd er mottatt. Dette gjelder likevel ikke hvis Finanstilsynet har grunn til å anta at foretakets organisatoriske og administrative forhold eller finansielle situasjon ikke gir et forsvarlig grunnlag for etablering av filialen, eller at filialens ledelse ikke er egnet etter [§ 3-5](lov/2015-04-10-17/§3-5). Finanstilsynet skal i så fall uten ugrunnet opphold underrette foretaket.
 
@@ -475,7 +562,16 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 ### § 5-2. Filial av kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
 
-(1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,filialens adresse,hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket,hvem som skal inngå i ledelsen av virksomheten ved filialen,en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
+(1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:
+
+1. en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,
+2. en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,
+3. filialens adresse,
+4. hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket,
+5. hvem som skal inngå i ledelsen av virksomheten ved filialen,
+6. en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,
+7. den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,
+8. ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
 
 (2) Finanstilsynet skal innen to måneder etter at opplysningene er mottatt fra tilsynsmyndighetene i foretakets hjemstat, gi foretaket melding om at filialen kan etableres, og gi filialen en oversikt over hvilke regler som vil gjelde for virksomheten her i riket. Foretaket skal registrere filialen i Foretaksregisteret før filialen begynner sin virksomhet.
 
@@ -489,7 +585,12 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 ### § 5-3. Filial av finansieringsforetak med hovedsete i en annen EØS-stat
 
-(1) Et finansieringsforetak som er etablert i en annen EØS-stat, kan drive virksomhet gjennom filial her i riket dersom:finansieringsforetaket har tillatelse til å drive og driver tilsvarende virksomhet i hjemstaten,én eller flere kredittinstitusjoner etablert i samme stat som finansieringsforetaket, som har rett til å drive virksomhet her i riket etter [§ 5-2](lov/2015-04-10-17/§5-2), eier aksjer som til sammen representerer minst 90 prosent av stemmene i finansieringsforetaket,kredittinstitusjonen, eller kredittinstitusjonene, med samtykke fra tilsynsmyndigheten i hjemstaten har påtatt seg solidarisk ansvar for finansieringsforetakets forpliktelser her i riket, ogfinansieringsforetaket og kredittinstitusjonen, eller kredittinstitusjonene, omfattes av konsolidert tilsyn etter regler tilsvarende reglene i [kapittel 18](lov/2015-04-10-17/kap18).
+(1) Et finansieringsforetak som er etablert i en annen EØS-stat, kan drive virksomhet gjennom filial her i riket dersom:
+
+1. finansieringsforetaket har tillatelse til å drive og driver tilsvarende virksomhet i hjemstaten,
+2. én eller flere kredittinstitusjoner etablert i samme stat som finansieringsforetaket, som har rett til å drive virksomhet her i riket etter [§ 5-2](lov/2015-04-10-17/§5-2), eier aksjer som til sammen representerer minst 90 prosent av stemmene i finansieringsforetaket,
+3. kredittinstitusjonen, eller kredittinstitusjonene, med samtykke fra tilsynsmyndigheten i hjemstaten har påtatt seg solidarisk ansvar for finansieringsforetakets forpliktelser her i riket, og
+4. finansieringsforetaket og kredittinstitusjonen, eller kredittinstitusjonene, omfattes av konsolidert tilsyn etter regler tilsvarende reglene i [kapittel 18](lov/2015-04-10-17/kap18).
 
 (2) Tilsynsmyndigheten i hjemstaten skal bekrefte at vilkårene etter første ledd er oppfylt. For øvrig gjelder bestemmelsene i [§ 5-2](lov/2015-04-10-17/§5-2) tilsvarende.
 
@@ -573,9 +674,17 @@ Departementet kan i forskrift gi nærmere regler om nasjonalt kontaktpunkt for a
 
 (3) Enhver som vil avhende en kvalifisert eierandel, eller redusere den slik at eierandelen blir mindre enn en av grensene som nevnt i første ledd, skal gi melding om dette til Finanstilsynet.
 
-(4) En eiers samlede eierandel beregnes ut fra de eierandeler vedkommende direkte eller indirekte eier og vil bli eier av ved ervervet, og i tillegg:eierandeler som vedkommende etter avtale har rett til å erverve på eget initiativ,eierandeler som vedkommende etter avtale har rett til å utøve stemmerett for, unntatt stemmerettsfullmakt som nevnt i [aksjeloven § 5-2](lov/1997-06-13-44/§5-2) og [allmennaksjeloven § 5-2](lov/1997-06-13-45/§5-2) når det ikke er gitt vederlag for fullmakten, ogeierandeler som en person som omfattes av [§ 6-5](lov/2015-04-10-17/§6-5) eier eller har rett til å erverve eller utøve stemmeretten for.
+(4) En eiers samlede eierandel beregnes ut fra de eierandeler vedkommende direkte eller indirekte eier og vil bli eier av ved ervervet, og i tillegg:
 
-(5) Ved beregning av eierandeler omfattes ikke eierandeler eller stemmeretter som er overtatt av en kredittinstitusjon eller et verdipapirforetak som følge av fulltegningsgaranti, forutsatt at disse ikke brukes til å utøve innflytelse i foretaket og blir avhendet innen ett år etter overtagelsen. Heller ikke eierandeler eller stemmeretter ervervet ved avtale som er betinget av tillatelse etter finanslovgivningen omfattes, med mindre avtalen innebærer at:eierne gis rett til vederlag på mer enn fem prosent av markedsverdien av eierandelene på tilbudstidspunktet,eierne gis rett til lån fra tilbyderen, ellereiernes rett til å utøve stemmerettigheter knyttet til aksjene begrenses.
+1. eierandeler som vedkommende etter avtale har rett til å erverve på eget initiativ,
+2. eierandeler som vedkommende etter avtale har rett til å utøve stemmerett for, unntatt stemmerettsfullmakt som nevnt i [aksjeloven § 5-2](lov/1997-06-13-44/§5-2) og [allmennaksjeloven § 5-2](lov/1997-06-13-45/§5-2) når det ikke er gitt vederlag for fullmakten, og
+3. eierandeler som en person som omfattes av [§ 6-5](lov/2015-04-10-17/§6-5) eier eller har rett til å erverve eller utøve stemmeretten for.
+
+(5) Ved beregning av eierandeler omfattes ikke eierandeler eller stemmeretter som er overtatt av en kredittinstitusjon eller et verdipapirforetak som følge av fulltegningsgaranti, forutsatt at disse ikke brukes til å utøve innflytelse i foretaket og blir avhendet innen ett år etter overtagelsen. Heller ikke eierandeler eller stemmeretter ervervet ved avtale som er betinget av tillatelse etter finanslovgivningen omfattes, med mindre avtalen innebærer at:
+
+1. eierne gis rett til vederlag på mer enn fem prosent av markedsverdien av eierandelene på tilbudstidspunktet,
+2. eierne gis rett til lån fra tilbyderen, eller
+3. eiernes rett til å utøve stemmerettigheter knyttet til aksjene begrenses.
 
 (6) Departementet kan gi forskrift til utfylling, gjennomføring og avgrensning av bestemmelsene i [kapittel 6](lov/2015-04-10-17/kap6), herunder regler om egnethetsvurderingen etter [§ 6-3](lov/2015-04-10-17/§6-3). Departementet kan også gi forskrift om plikt for finansforetak til å gi melding om eiere som har kvalifiserte eierandeler i foretaket, og om plikt for juridiske personer som har kvalifiserte eierandeler i et finansforetak, til å gi melding om hvem som inngår i styret og ledelsen.
 
@@ -595,7 +704,13 @@ Departementet kan i forskrift gi nærmere regler om nasjonalt kontaktpunkt for a
 
 ### § 6-3. Egnethetsvurdering mv.
 
-Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04-10-17/§6-1/ledd/2), skal departementet, for å sikre en forsvarlig og betryggende ledelse av finansforetaket og dets virksomhet, vurdere om erververen er egnet som eier av eierandelen, og om ervervet vil være finansielt betryggende. Det skal tas hensyn til erververens sannsynlige innflytelse på finansforetaket. Vurderingen skal bygge på følgende kriterier:erververens alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold,alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold hos personer som etter ervervet vil inngå i styret eller ledelsen av finansforetakets virksomhet,om erververens økonomiske situasjon og tilgjengelige ressurser er betryggende ut fra de former for virksomhet som foretaket driver eller må antas å engasjere seg i etter ervervet,om finansforetaket er og fortsatt vil være i stand til å oppfylle soliditets- og sikkerhetskrav og andre tilsynskrav som følger av finanslovgivningen, særlig om konsernet foretaket vil inngå i etter ervervet, er organisert på en slik måte at det muliggjør effektivt tilsyn og effektiv utveksling av informasjon og fordeling av tilsynsoppgaver mellom berørte tilsynsmyndigheter,om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
+Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04-10-17/§6-1/ledd/2), skal departementet, for å sikre en forsvarlig og betryggende ledelse av finansforetaket og dets virksomhet, vurdere om erververen er egnet som eier av eierandelen, og om ervervet vil være finansielt betryggende. Det skal tas hensyn til erververens sannsynlige innflytelse på finansforetaket. Vurderingen skal bygge på følgende kriterier:
+
+1. erververens alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold,
+2. alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold hos personer som etter ervervet vil inngå i styret eller ledelsen av finansforetakets virksomhet,
+3. om erververens økonomiske situasjon og tilgjengelige ressurser er betryggende ut fra de former for virksomhet som foretaket driver eller må antas å engasjere seg i etter ervervet,
+4. om finansforetaket er og fortsatt vil være i stand til å oppfylle soliditets- og sikkerhetskrav og andre tilsynskrav som følger av finanslovgivningen, særlig om konsernet foretaket vil inngå i etter ervervet, er organisert på en slik måte at det muliggjør effektivt tilsyn og effektiv utveksling av informasjon og fordeling av tilsynsoppgaver mellom berørte tilsynsmyndigheter,
+5. om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
 
 > Endret ved lov [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 juli 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)).
 
@@ -615,7 +730,13 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 ### § 6-5. Konsolidering av eierandeler
 
-(1) Like med en eiers egne eierandeler regnes eierandeler som direkte eller indirekte eies eller overtas av:eierens ektefelle, registrert partner eller person som eieren har felles husholdning med,eierens mindreårige barn, samt mindreårige barn til person omfattet av bokstav a som eieren bor sammen med,selskap innen samme konsern som eieren,selskap hvor eieren alene eller sammen med personer som nevnt i bokstavene a, b og e har slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), ognoen som det må antas eieren har forpliktende samarbeid med, når det gjelder å gjøre bruk av rettighetene som aksjeeier.
+(1) Like med en eiers egne eierandeler regnes eierandeler som direkte eller indirekte eies eller overtas av:
+
+1. eierens ektefelle, registrert partner eller person som eieren har felles husholdning med,
+2. eierens mindreårige barn, samt mindreårige barn til person omfattet av bokstav a som eieren bor sammen med,
+3. selskap innen samme konsern som eieren,
+4. selskap hvor eieren alene eller sammen med personer som nevnt i bokstavene a, b og e har slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), og
+5. noen som det må antas eieren har forpliktende samarbeid med, når det gjelder å gjøre bruk av rettighetene som aksjeeier.
 
 (2) Departementet avgjør i tvilstilfelle om eierandeler som eieren ikke selv eier, skal likestilles med egne eierandeler etter reglene i første ledd.
 
@@ -671,7 +792,13 @@ Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprett
 
 ### § 7-7. Stiftelse av finansforetak som ikke skal organiseres som aksjeselskap eller allmennaksjeselskap
 
-(1) Ved stiftelse av finansforetak som ikke skal organiseres som aksjeselskap eller allmennaksjeselskap, skal stiftelsesdokumentet minst inneholde:stifternes navn eller foretaksnavn, adresse og fødselsnummer eller organisasjonsnummer,det eller de beløp hver av stifterne påtar seg å betale inn til finansforetakets grunnfond eller annen egenkapital (grunnfondskapital), og tidspunktet for innbetaling,opplysning om utgifter ved stiftelsen av foretaket som skal dekkes av foretaket,hvem som skal være medlemmer av finansforetakets styre, og hvem som skal være foretakets revisor,foretakets vedtekter.
+(1) Ved stiftelse av finansforetak som ikke skal organiseres som aksjeselskap eller allmennaksjeselskap, skal stiftelsesdokumentet minst inneholde:
+
+1. stifternes navn eller foretaksnavn, adresse og fødselsnummer eller organisasjonsnummer,
+2. det eller de beløp hver av stifterne påtar seg å betale inn til finansforetakets grunnfond eller annen egenkapital (grunnfondskapital), og tidspunktet for innbetaling,
+3. opplysning om utgifter ved stiftelsen av foretaket som skal dekkes av foretaket,
+4. hvem som skal være medlemmer av finansforetakets styre, og hvem som skal være foretakets revisor,
+5. foretakets vedtekter.
 
 (2) Dersom det ikke fremgår av stiftelsesdokumentet at stifterne har påtatt seg forpliktelser som til sammen er tilstrekkelig til å oppfylle minstekravet til startkapital, skal det i dokumentet redegjøres for hvordan nødvendig egenkapital skal skaffes til veie.
 
@@ -679,9 +806,24 @@ Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprett
 
 ### § 7-8. Vedtekter for finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap
 
-(1) Vedtektene i finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, skal minst angi:foretakets foretaksnavn,kommunen hvor foretaket skal ha sitt forretningskontor,foretakets formål og den virksomhet foretaket skal drive,størrelsen av foretakets grunnfond, og i tilfelle de regler om tilbakebetaling og avkastning av tilskudd til grunnfondet som skal gjelde,sammensetningen av generalforsamlingen, valg av leder og medlemmer, hvilke saker som skal behandles av generalforsamlingen, samt de regler om stemmerett og flertallskrav som skal gjelde for beslutninger,antallet eller laveste og høyeste antall styremedlemmer, og regler for valg av styremedlemmer,om foretaket skal ha adgang til å utstede omsettelige egenkapitalbevis,hvordan overskudd skal anvendes og underskudd skal dekkes, samt regler for fastsettelse av utbytte dersom foretaket skal kunne gi utbytte på kapitalen i grunnfondet,hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling,i hvilken verdipapirsentral egenkapitalbevisene er innført.
+(1) Vedtektene i finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, skal minst angi:
 
-(2) I vedtektene for gjensidig forsikringsforetak skal det også angis:det antall forsikringer og den samlede forsikringssum som skal være tegnet for at foretaket skal kunne starte virksomhet,reglene for medlemskap og medlemmenes innbyrdes ansvar for foretakets forpliktelser,medlemmenes forpliktelser til å innbetale medlemsinnskudd og fremtidige innbetalinger til grunnfondskapitalen.
+1. foretakets foretaksnavn,
+2. kommunen hvor foretaket skal ha sitt forretningskontor,
+3. foretakets formål og den virksomhet foretaket skal drive,
+4. størrelsen av foretakets grunnfond, og i tilfelle de regler om tilbakebetaling og avkastning av tilskudd til grunnfondet som skal gjelde,
+5. sammensetningen av generalforsamlingen, valg av leder og medlemmer, hvilke saker som skal behandles av generalforsamlingen, samt de regler om stemmerett og flertallskrav som skal gjelde for beslutninger,
+6. antallet eller laveste og høyeste antall styremedlemmer, og regler for valg av styremedlemmer,
+7. om foretaket skal ha adgang til å utstede omsettelige egenkapitalbevis,
+8. hvordan overskudd skal anvendes og underskudd skal dekkes, samt regler for fastsettelse av utbytte dersom foretaket skal kunne gi utbytte på kapitalen i grunnfondet,
+9. hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling,
+10. i hvilken verdipapirsentral egenkapitalbevisene er innført.
+
+(2) I vedtektene for gjensidig forsikringsforetak skal det også angis:
+
+1. det antall forsikringer og den samlede forsikringssum som skal være tegnet for at foretaket skal kunne starte virksomhet,
+2. reglene for medlemskap og medlemmenes innbyrdes ansvar for foretakets forpliktelser,
+3. medlemmenes forpliktelser til å innbetale medlemsinnskudd og fremtidige innbetalinger til grunnfondskapitalen.
 
 (3) Vedtektene for kredittforening skal også inneholde reglene for medlemskap og i tilfelle reglene om medlemsinnskudd, medlemmenes ansvar for foretakets forpliktelser og deres ansvar innbyrdes.
 
@@ -803,7 +945,12 @@ Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprett
 
 ### § 8-8. Avtaler med eiere av egenkapitalbevis og medlemmer av foretakets ledelse
 
-(1) Styret i et finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, skal sørge for at avtale mellom foretaket og et styremedlem, daglig leder, en eier av egenkapitalbevis eller dennes morselskap blir forelagt generalforsamlingen til godkjennelse dersom foretakets ytelse har en virkelig verdi som utgjør mer enn en tjuedel av summen av grunnfondskapitalen og eierandelskapitalen i foretaket. Dette gjelder ikke:avtale i forbindelse med utstedelse av egenkapitalbevis som omfattes av reglene i [§ 10-13](lov/2015-04-10-17/§10-13) første ledd,avtale som etter [§ 8-4](lov/2015-04-10-17/§8-4) femte ledd eller [§ 15-6](lov/2015-04-10-17/§15-6) omfattes av [allmennaksjeloven § 6-10](lov/1997-06-13-45/§6-10) eller [§ 6-16 a](lov/1997-06-13-45/§6-16a),avtale om overdragelse av verdipapir til pris i henhold til offentlig kursnotering,avtale som inngås som ledd i foretakets vanlige virksomhet og inneholder pris og andre vilkår som er vanlig for slike avtaler.
+(1) Styret i et finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, skal sørge for at avtale mellom foretaket og et styremedlem, daglig leder, en eier av egenkapitalbevis eller dennes morselskap blir forelagt generalforsamlingen til godkjennelse dersom foretakets ytelse har en virkelig verdi som utgjør mer enn en tjuedel av summen av grunnfondskapitalen og eierandelskapitalen i foretaket. Dette gjelder ikke:
+
+1. avtale i forbindelse med utstedelse av egenkapitalbevis som omfattes av reglene i [§ 10-13](lov/2015-04-10-17/§10-13) første ledd,
+2. avtale som etter [§ 8-4](lov/2015-04-10-17/§8-4) femte ledd eller [§ 15-6](lov/2015-04-10-17/§15-6) omfattes av [allmennaksjeloven § 6-10](lov/1997-06-13-45/§6-10) eller [§ 6-16 a](lov/1997-06-13-45/§6-16a),
+3. avtale om overdragelse av verdipapir til pris i henhold til offentlig kursnotering,
+4. avtale som inngås som ledd i foretakets vanlige virksomhet og inneholder pris og andre vilkår som er vanlig for slike avtaler.
 
 (2) Avtale som omfattes av første ledd og som ikke er godkjent av generalforsamlingen, er ikke bindende for foretaket. For øvrig gjelder [allmennaksjeloven § 3-8](lov/1997-06-13-45/§3-8) annet til fjerde ledd tilsvarende.
 
@@ -927,7 +1074,11 @@ For finansforetak som er foretak av allmenn interesse etter [revisorloven § 1-2
 
 (1) Finansforetak som er foretak av allmenn interesse etter [regnskapsloven § 1-6 første ledd](lov/1998-07-17-56/§1-6/ledd/1), skal ha et revisjonsutvalg. Det samme gjelder holdingforetak i konsern hvor slike finansforetak inngår.
 
-(2) Med mindre Finanstilsynet bestemmer noe annet, gjelder første ledd ikke for:finansforetak som er heleid datterforetak i finanskonsern hvor morselskapet har revisjonsutvalg,kredittforetak som utsteder obligasjoner med fortrinnsrett, forutsatt at foretaket offentlig begrunner at det verken bør ha et revisjonsutvalg eller at styret bør fungere som revisjonsutvalg,finansieringsforetak som ikke har utstedt aksjer eller egenkapitalbevis notert på regulert marked, ikke har utestående obligasjoner eller sertifikater med samlet pålydende på 100 millioner euro eller mer, og ikke har offentliggjort prospekt.
+(2) Med mindre Finanstilsynet bestemmer noe annet, gjelder første ledd ikke for:
+
+1. finansforetak som er heleid datterforetak i finanskonsern hvor morselskapet har revisjonsutvalg,
+2. kredittforetak som utsteder obligasjoner med fortrinnsrett, forutsatt at foretaket offentlig begrunner at det verken bør ha et revisjonsutvalg eller at styret bør fungere som revisjonsutvalg,
+3. finansieringsforetak som ikke har utstedt aksjer eller egenkapitalbevis notert på regulert marked, ikke har utestående obligasjoner eller sertifikater med samlet pålydende på 100 millioner euro eller mer, og ikke har offentliggjort prospekt.
 
 (3) Finanstilsynet kan i forskrift eller ved enkeltvedtak gjøre unntak fra finansforetaks plikt til å ha revisjonsutvalg og kan gi utfyllende regler om revisjonsutvalgets sammensetning og oppgaver.
 
@@ -937,7 +1088,14 @@ For finansforetak som er foretak av allmenn interesse etter [revisorloven § 1-2
 
 (1) Revisjonsutvalget er et forberedende og rådgivende utvalg for styret.
 
-(2) Revisjonsutvalget skal:informere styret om resultatet av den lovfestede revisjonen og attestasjonen av pliktig bærekraftsrapportering, forklare hvordan revisjonen og attestasjonen bidro til regnskapsrapportering og bærekraftsrapportering med integritet og revisjonsutvalgets rolle i den prosessen,forberede styrets oppfølging av regnskapsrapporteringsprosessen og prosessen for bærekraftsrapporteringen, inkludert den digitale rapporteringsprosessen og prosessen for å identifisere informasjonen som er rapportert i henhold til standardene for bærekraftsrapportering, og komme med anbefalinger eller forslag for å sikre dens integritet,for så vidt gjelder selskapets regnskapsrapportering og bærekraftsrapportering, overvåke systemene for internkontroll, risikostyring og internrevisjon uten at det bryter med revisjonsutvalgets uavhengige rolle,ha løpende kontakt med selskapets valgte revisorer om revisjonen av årsregnskapet og attestasjonen av pliktig bærekraftsrapportering, herunder særlig overvåke revisjonsutførelsen i lys av forhold Finanstilsynet har påpekt i henhold til revisjonsforordningen artikkel 26 nr. 6,vurdere og overvåke revisors uavhengighet etter [revisorloven](lov/2020-11-20-128) og revisjonsforordningen, særlig at tjenester er levert i samsvar med revisjonsforordningen artikkel 5 og [revisorloven § 12-4 a](lov/2020-11-20-128/§12-4a). Revisjonsutvalget skal vurdere revisors bekreftelse av uavhengighet og gjennomføre drøfting, som angitt i revisjonsforordningen artikkel 6 nr. 2,ha ansvaret for å forberede selskapets valg av revisor og gi sin anbefaling i samsvar med revisjonsforordningen artikkel 16.
+(2) Revisjonsutvalget skal:
+
+1. informere styret om resultatet av den lovfestede revisjonen og attestasjonen av pliktig bærekraftsrapportering, forklare hvordan revisjonen og attestasjonen bidro til regnskapsrapportering og bærekraftsrapportering med integritet og revisjonsutvalgets rolle i den prosessen,
+2. forberede styrets oppfølging av regnskapsrapporteringsprosessen og prosessen for bærekraftsrapporteringen, inkludert den digitale rapporteringsprosessen og prosessen for å identifisere informasjonen som er rapportert i henhold til standardene for bærekraftsrapportering, og komme med anbefalinger eller forslag for å sikre dens integritet,
+3. for så vidt gjelder selskapets regnskapsrapportering og bærekraftsrapportering, overvåke systemene for internkontroll, risikostyring og internrevisjon uten at det bryter med revisjonsutvalgets uavhengige rolle,
+4. ha løpende kontakt med selskapets valgte revisorer om revisjonen av årsregnskapet og attestasjonen av pliktig bærekraftsrapportering, herunder særlig overvåke revisjonsutførelsen i lys av forhold Finanstilsynet har påpekt i henhold til revisjonsforordningen artikkel 26 nr. 6,
+5. vurdere og overvåke revisors uavhengighet etter [revisorloven](lov/2020-11-20-128) og revisjonsforordningen, særlig at tjenester er levert i samsvar med revisjonsforordningen artikkel 5 og [revisorloven § 12-4 a](lov/2020-11-20-128/§12-4a). Revisjonsutvalget skal vurdere revisors bekreftelse av uavhengighet og gjennomføre drøfting, som angitt i revisjonsforordningen artikkel 6 nr. 2,
+6. ha ansvaret for å forberede selskapets valg av revisor og gi sin anbefaling i samsvar med revisjonsforordningen artikkel 16.
 
 (3) Annet ledd gjelder tilsvarende der en uavhengig tilbyder av attestasjonstjenester er valgt til å attestere bærekraftsrapporteringen, jf. [§ 8-17 første ledd](lov/2015-04-10-17/§8-17/ledd/1).
 
@@ -981,7 +1139,10 @@ For finansforetak som er foretak av allmenn interesse etter [revisorloven § 1-2
 
 (1) Daglig leder og andre personer som inngår i den faktiske ledelsen av virksomhet i et finansforetak, kan ikke være ansatt i eller medlem av styret i et foretak som driver annen næringsvirksomhet, og som har et kundeforhold til eller annen forretningsforbindelse med finansforetaket.
 
-(2) Forbudet i første ledd er ikke til hinder for at den ansatte kan ha:stilling eller verv knyttet til virksomhet som foretaket kan delta i eller drive i medhold av [§ 13-2](lov/2015-04-10-17/§13-2),verv eller stilling som nevnt i første ledd dersom forretningsforbindelsen er av begrenset omfang og styret i finansforetaket har godkjent at den ansatte innehar vervet eller stillingen.
+(2) Forbudet i første ledd er ikke til hinder for at den ansatte kan ha:
+
+1. stilling eller verv knyttet til virksomhet som foretaket kan delta i eller drive i medhold av [§ 13-2](lov/2015-04-10-17/§13-2),
+2. verv eller stilling som nevnt i første ledd dersom forretningsforbindelsen er av begrenset omfang og styret i finansforetaket har godkjent at den ansatte innehar vervet eller stillingen.
 
 (3) Departementet kan ved forskrift eller ved enkeltvedtak i særlige tilfelle gjøre unntak fra første ledd.
 
@@ -1053,7 +1214,13 @@ For finansforetak som er foretak av allmenn interesse etter [revisorloven § 1-2
 
 (1) Et finansforetak kan ikke gi lån til eller stille garanti for et foretak hvor person som nevnt i [§ 9-9](lov/2015-04-10-17/§9-9) første eller fjerde ledd eier en eierandel som representerer ti prosent eller mer av kapitalen eller stemmene i foretaket eller som gir bestemmende innflytelse, er ansvarlig deltaker, styremedlem eller i den daglige ledelsen, med mindre internrevisjonen eller revisor har bekreftet overfor styret eller daglig leder at lånet eller garantien vil være betryggende sikret. Finanstilsynet kan i særlige tilfelle samtykke til at lån eller garanti gis til foretak hvor styremedlem deltar som styremedlem.
 
-(2) Forbudet i første ledd gjelder ikke lån eller garanti når:lånet eller garantien er gitt i samsvar med vanlige vilkår for kredittordninger som finansforetaket tilbyr tilsvarende foretakskunder,personen representerer finansforetakets interesser i foretaket, og foretaket enten har direkte tilknytning til finansforetakets drift eller driver en virksomhet som finansforetaket selv kan drive,lånet eller garantien gis for å sikre innfrielsen av krav som finansforetaket har på foretaket,lånet eller garantien er gitt før den tillitsvalgte eller ansatte tiltrådte som ansvarlig deltaker eller styremedlem, og er senere blitt videreført eller rutinemessig fornyet,lånet eller garantien er gitt som del av et syndikert lån eller en syndikert garanti.
+(2) Forbudet i første ledd gjelder ikke lån eller garanti når:
+
+1. lånet eller garantien er gitt i samsvar med vanlige vilkår for kredittordninger som finansforetaket tilbyr tilsvarende foretakskunder,
+2. personen representerer finansforetakets interesser i foretaket, og foretaket enten har direkte tilknytning til finansforetakets drift eller driver en virksomhet som finansforetaket selv kan drive,
+3. lånet eller garantien gis for å sikre innfrielsen av krav som finansforetaket har på foretaket,
+4. lånet eller garantien er gitt før den tillitsvalgte eller ansatte tiltrådte som ansvarlig deltaker eller styremedlem, og er senere blitt videreført eller rutinemessig fornyet,
+5. lånet eller garantien er gitt som del av et syndikert lån eller en syndikert garanti.
 
 (3) Styret skal påse at det ved utgangen av hvert kvartal blir utferdiget oppgaver som viser saldo og eventuell sikkerhet for lån og garantier som er gitt etter annet ledd. Oppgavene skal forelegges internrevisjonen.
 
@@ -1191,7 +1358,12 @@ Egenkapitalen i et finansforetak kan ikke uten samtykke fra Finanstilsynet redus
 
 (2) Den del av overkursen som skal tilføres overkursfondet, beregnes ut fra forholdet mellom bokført eierandelskapital etter nytegningen og summen av bokført grunnfondskapital og eierandelskapital etter nytegningen, med mindre annet er fastsatt i vedtaket om utstedelse av nye egenkapitalbevis. Resten av overkursen tilføres kompensasjonsfondet. Departementet kan gi forskrift om fordeling av overkurs i foretak som har eierandelskapital fra før.
 
-(3) Overkursfondet og kompensasjonsfondet kan bare brukes til:forholdsmessig dekning av kostnadene ved forhøyelse av eierandelskapitalen,forholdsmessig dekning av underskudd som ikke kan dekkes på annen måte etter [§ 10-19](lov/2015-04-10-17/§10-19),forholdsmessig dekning av utdeling til eierne av egenkapitalbevis ved nedsettelse av eierandelskapitalen, herunder nedsettelse ved sletting av foretakets egne egenkapitalbevis,tilføring til henholdsvis eierandelskapitalen og grunnfondskapitalen ved avvikling.
+(3) Overkursfondet og kompensasjonsfondet kan bare brukes til:
+
+1. forholdsmessig dekning av kostnadene ved forhøyelse av eierandelskapitalen,
+2. forholdsmessig dekning av underskudd som ikke kan dekkes på annen måte etter [§ 10-19](lov/2015-04-10-17/§10-19),
+3. forholdsmessig dekning av utdeling til eierne av egenkapitalbevis ved nedsettelse av eierandelskapitalen, herunder nedsettelse ved sletting av foretakets egne egenkapitalbevis,
+4. tilføring til henholdsvis eierandelskapitalen og grunnfondskapitalen ved avvikling.
 
 (4) Overkursfondet kan også benyttes til fondsemisjon, forutsatt at foretaket ikke har udekket underskudd.
 
@@ -1247,7 +1419,12 @@ Ved avvikling av finansforetaket skal den del av eierandelskapitalen og overkurs
 
 ### § 10-21. Nedsettelse av eierandelskapitalen
 
-(1) Generalforsamlingen kan med flertall som for vedtektsendring treffe vedtak om å nedsette vedtektsfastsatt eierandelskapital helt eller delvis. [Allmennaksjeloven § 12-1](lov/1997-06-13-45/§12-1) annet ledd til fjerde ledd og [§§ 12-2](lov/1997-06-13-45/§12-2) til [12-7](lov/1997-06-13-45/§12-7) gjelder tilsvarende, likevel slik at det beløpet nedsettingen gjelder bare kan benyttes til:dekning av underskudd som ikke kan dekkes på annen måte etter reglene i eller i medhold av [§ 10-19](lov/2015-04-10-17/§10-19),utdeling til eierne av egenkapitalbevis,sletting av egenkapitalbevis eiet av finansforetaket,avsetning til overkursfondet og kompensasjonsfondet.
+(1) Generalforsamlingen kan med flertall som for vedtektsendring treffe vedtak om å nedsette vedtektsfastsatt eierandelskapital helt eller delvis. [Allmennaksjeloven § 12-1](lov/1997-06-13-45/§12-1) annet ledd til fjerde ledd og [§§ 12-2](lov/1997-06-13-45/§12-2) til [12-7](lov/1997-06-13-45/§12-7) gjelder tilsvarende, likevel slik at det beløpet nedsettingen gjelder bare kan benyttes til:
+
+1. dekning av underskudd som ikke kan dekkes på annen måte etter reglene i eller i medhold av [§ 10-19](lov/2015-04-10-17/§10-19),
+2. utdeling til eierne av egenkapitalbevis,
+3. sletting av egenkapitalbevis eiet av finansforetaket,
+4. avsetning til overkursfondet og kompensasjonsfondet.
 
 (2) Det kan fastsettes i vedtektene at generalforsamlingens vedtak om å nedsette eierandelskapitalen helt eller delvis med utdeling til eierne av egenkapitalbevis krever tilslutning fra minst to tredeler av de stemmer som avgis av, eller av medlemmer valgt av, eierne av egenkapitalbevis.
 
@@ -1325,13 +1502,23 @@ Kredittforetak har rett til å ta opp lån ved å utstede obligasjoner med fortr
 
 ### § 11-7. Virksomhetsbegrensning, meldeplikt og godkjennelse av OMF-program
 
-(1) Et kredittforetak kan oppta obligasjonslån gjennom utstedelse av obligasjoner med fortrinnsrett når kredittforetakets vedtektsfastsatte formål er:å yte eller erverve bolighypoteklån, eiendomshypoteklån, lån sikret ved pant i andre realregistrerte formuesgoder, eller offentlige lån, ogå finansiere utlånsvirksomheten hovedsakelig ved utstedelse av obligasjoner med fortrinnsrett.
+(1) Et kredittforetak kan oppta obligasjonslån gjennom utstedelse av obligasjoner med fortrinnsrett når kredittforetakets vedtektsfastsatte formål er:
+
+1. å yte eller erverve bolighypoteklån, eiendomshypoteklån, lån sikret ved pant i andre realregistrerte formuesgoder, eller offentlige lån, og
+2. å finansiere utlånsvirksomheten hovedsakelig ved utstedelse av obligasjoner med fortrinnsrett.
 
 (2) Kredittforetak som vil utstede obligasjoner med fortrinnsrett, skal ved søknad om tillatelse etter [§ 3-1](lov/2015-04-10-17/§3-1) gi opplysninger som nevnt i fjerde ledd annet punktum.
 
 (3) Kredittforetaket skal gi melding til Finanstilsynet senest 30 dager før det første gang utsteder obligasjoner med fortrinnsrett.
 
-(4) Før et kredittforetak utsteder obligasjoner med fortrinnsrett som ikke er omfattet av eksisterende tillatelse etter [kapittel 3](lov/2015-04-10-17/kap3) og paragrafen her, skal foretaket sende søknad om godkjennelse av nytt OMF-program til Finanstilsynet. Søknad om godkjennelse av nytt OMF-program skal inneholde opplysninger som godtgjørat foretaket har en tilfredsstillende driftsplan for utstedelse av OMF standard eller OMF premium,at foretaket har tilfredsstillende rutiner, prosesser og metoder for å ivareta investorvernet med hensyn til godkjennelse, endring, fornyelse og refinansiering av lån eller andre eiendeler som inngår i sikkerhetsmassen,at personer som skal lede eller utføre oppgaver under OMF-programmet, har tilfredsstillende kvalifikasjoner og kunnskap om utstedelse av OMF og administrasjon av programmet, ogat den administrative organiseringen av sikkerhetsmassen og overvåkningen av denne oppfyller krav i [§§ 11-8](lov/2015-04-10-17/§11-8) til [11-14](lov/2015-04-10-17/§11-14).Finanstilsynet kan kreve at foretaket gir ytterligere opplysninger om hvordan innretningen av programmet ivaretar hensynet til investorvern og ellers oppfyller krav som nevnt i [§ 11-6](lov/2015-04-10-17/§11-6) annet eller tredje ledd. For utstedelser under nytt OMF-program kan melding etter tredje ledd i paragrafen her gis til Finanstilsynet sammen med søknaden om godkjennelse av programmet.
+(4) Før et kredittforetak utsteder obligasjoner med fortrinnsrett som ikke er omfattet av eksisterende tillatelse etter [kapittel 3](lov/2015-04-10-17/kap3) og paragrafen her, skal foretaket sende søknad om godkjennelse av nytt OMF-program til Finanstilsynet. Søknad om godkjennelse av nytt OMF-program skal inneholde opplysninger som godtgjør
+
+1. at foretaket har en tilfredsstillende driftsplan for utstedelse av OMF standard eller OMF premium,
+2. at foretaket har tilfredsstillende rutiner, prosesser og metoder for å ivareta investorvernet med hensyn til godkjennelse, endring, fornyelse og refinansiering av lån eller andre eiendeler som inngår i sikkerhetsmassen,
+3. at personer som skal lede eller utføre oppgaver under OMF-programmet, har tilfredsstillende kvalifikasjoner og kunnskap om utstedelse av OMF og administrasjon av programmet, og
+4. at den administrative organiseringen av sikkerhetsmassen og overvåkningen av denne oppfyller krav i [§§ 11-8](lov/2015-04-10-17/§11-8) til [11-14](lov/2015-04-10-17/§11-14).
+
+Finanstilsynet kan kreve at foretaket gir ytterligere opplysninger om hvordan innretningen av programmet ivaretar hensynet til investorvern og ellers oppfyller krav som nevnt i [§ 11-6](lov/2015-04-10-17/§11-6) annet eller tredje ledd. For utstedelser under nytt OMF-program kan melding etter tredje ledd i paragrafen her gis til Finanstilsynet sammen med søknaden om godkjennelse av programmet.
 
 (5) Når hensynet til kredittforetakets soliditet tilsier det, kan Finanstilsynet gi pålegg til kredittforetaket om at det ikke skal utstedes obligasjoner med fortrinnsrett.
 
@@ -1343,7 +1530,17 @@ Kredittforetak har rett til å ta opp lån ved å utstede obligasjoner med fortr
 
 ### § 11-8. Krav til sikkerhetsmassens sammensetning
 
-(1) Sikkerhetsmassen for OMF standard kan bare bestå av følgende typer fordringer:lån sikret ved pant i bolig, atkomstdokument til bolig eller borettslagsandel (bolighypoteklån),lån sikret ved pant i annen fast eiendom (eiendomshypoteklån),lån sikret ved pant i andre realregisterte formuesgoder,engasjementer med eller garantert av stater, offentlige foretak, lokale og regionale myndigheter, multilaterale utviklingsbanker og internasjonale organisasjoner (offentlige lån),engasjementer med kredittinstitusjoner,fordringer i form av derivatavtaler som nevnt i fjerde ledd, ogfordringer som utgjør fyllingssikkerhet som nevnt i femte ledd.Departementet kan i forskrift fastsette nærmere regler om fordringer og sikkerheter som kan inngå i sikkerhetsmassen for OMF standard, herunder om offentlige lån, rettsvern, belåningsgrad, engasjementsmotparter, forsikring og risikodiversifisering.
+(1) Sikkerhetsmassen for OMF standard kan bare bestå av følgende typer fordringer:
+
+1. lån sikret ved pant i bolig, atkomstdokument til bolig eller borettslagsandel (bolighypoteklån),
+2. lån sikret ved pant i annen fast eiendom (eiendomshypoteklån),
+3. lån sikret ved pant i andre realregisterte formuesgoder,
+4. engasjementer med eller garantert av stater, offentlige foretak, lokale og regionale myndigheter, multilaterale utviklingsbanker og internasjonale organisasjoner (offentlige lån),
+5. engasjementer med kredittinstitusjoner,
+6. fordringer i form av derivatavtaler som nevnt i fjerde ledd, og
+7. fordringer som utgjør fyllingssikkerhet som nevnt i femte ledd.
+
+Departementet kan i forskrift fastsette nærmere regler om fordringer og sikkerheter som kan inngå i sikkerhetsmassen for OMF standard, herunder om offentlige lån, rettsvern, belåningsgrad, engasjementsmotparter, forsikring og risikodiversifisering.
 
 (2) Sikkerhetsmassen for OMF premium kan bare bestå av fordringer som oppfyller krav fastsatt av departementet i forskrift.
 
@@ -1391,7 +1588,13 @@ Kredittforetak har rett til å ta opp lån ved å utstede obligasjoner med fortr
 
 ### § 11-12. Likviditet
 
-(1) Kredittforetaket skal påse at betalingsstrømmene fra sikkerhetsmassen til enhver tid gjør kredittforetaket i stand til å dekkebetalingsforpliktelser overfor eiere av obligasjoner med fortrinnsrett,betalingsforpliktelser overfor motparter i derivatavtaler som nevnt i [§ 11-8](lov/2015-04-10-17/§11-8) fjerde ledd, ogforventede kostnader til drift og avvikling av OMF-programmet.Kredittforetaket kan inngå rente- og valutakontrakter for å oppfylle dette kravet. De forventede kostnadene som nevnt i første punktum bokstav c, kan fastsettes sjablongmessig. Departementet kan i forskrift gi nærmere regler om beregningen av dekningskravet i første punktum.
+(1) Kredittforetaket skal påse at betalingsstrømmene fra sikkerhetsmassen til enhver tid gjør kredittforetaket i stand til å dekke
+
+1. betalingsforpliktelser overfor eiere av obligasjoner med fortrinnsrett,
+2. betalingsforpliktelser overfor motparter i derivatavtaler som nevnt i [§ 11-8](lov/2015-04-10-17/§11-8) fjerde ledd, og
+3. forventede kostnader til drift og avvikling av OMF-programmet.
+
+Kredittforetaket kan inngå rente- og valutakontrakter for å oppfylle dette kravet. De forventede kostnadene som nevnt i første punktum bokstav c, kan fastsettes sjablongmessig. Departementet kan i forskrift gi nærmere regler om beregningen av dekningskravet i første punktum.
 
 (2) Kredittforetaket kan fastsette i avtalevilkårene for obligasjoner med fortrinnsrett at løpetiden kan forlenges når nærmere angitte hendelser inntreffer. Departementet kan i forskrift gi nærmere regler om utforming, virkning og bruk av slike avtalevilkår, herunder om hvilke hendelser som gir grunnlag for forlengelse av løpetiden.
 
@@ -1439,7 +1642,12 @@ Kredittforetak har rett til å ta opp lån ved å utstede obligasjoner med fortr
 
 (1) Betegnelsen «obligasjoner med fortrinnsrett» kan brukes om obligasjoner utstedt før 8. juli 2022 etter reglene i [finansforetaksloven](lov/2015-04-10-17) som gjaldt på utstedelsestidspunktet. Betegnelsen kan brukes frem til obligasjonens forfallsdato.
 
-(2) Første ledd gjelder tilsvarende for tilleggsutstedelser før 8. juli 2024 under åpne obligasjonslån som har fått ISIN-nummer før 8. juli 2022, dersom:forfallsdatoen er før 8. juli 2027,det samlede volumet av tilleggsutstedelser etter 8. juli 2022 ikke overstiger det dobbelte av volumet per 8. juli 2022,det samlede utestående volumet ved forfall ikke overstiger et beløp tilsvarende 6 mrd. euro, ogfordringene i sikkerhetsmassen befinner seg i Norge.
+(2) Første ledd gjelder tilsvarende for tilleggsutstedelser før 8. juli 2024 under åpne obligasjonslån som har fått ISIN-nummer før 8. juli 2022, dersom:
+
+1. forfallsdatoen er før 8. juli 2027,
+2. det samlede volumet av tilleggsutstedelser etter 8. juli 2022 ikke overstiger det dobbelte av volumet per 8. juli 2022,
+3. det samlede utestående volumet ved forfall ikke overstiger et beløp tilsvarende 6 mrd. euro, og
+4. fordringene i sikkerhetsmassen befinner seg i Norge.
 
 (3) Bestemmelser om obligasjoner med fortrinnsrett i [kapittel 20](lov/2015-04-10-17/kap20) omfatter obligasjoner som nevnt i første ledd.
 
@@ -1453,7 +1661,17 @@ Kredittforetak har rett til å ta opp lån ved å utstede obligasjoner med fortr
 
 (1) [EØS-avtalens vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2017/2402](eu/32017r2402) om en generell ramme for verdipapirisering og om opprettelse av en spesifikk ramme for enkel, gjennomsiktig og standardisert verdipapirisering (verdipapiriseringsforordningen), som endret ved Europaparlaments- og rådsforordning [(EU) 2021/557](eu/32021r0557), gjelder som lov med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9) til avtalen, protokoll 1 til avtalen og avtalen for øvrig.
 
-(2) Departementet kan i forskrift fastsette nærmere regler til utfylling av bestemmelsene i første ledd, herunder regler omrisikotilbakeholdelse,transparenskrav,adgang til at verdipapiriseringer omfatter reverdipapiriseringer,søknad om registrering som verdipapiriseringsregister,krav til enkelhet, transparens og standardisering i STS-verdipapiriseringer,utforming av melding til tilsynsmyndigheter om STS-verdipapiriseringer,opplysninger som må fremlegges for tilsynsmyndigheten for å få tillatelse til å utføre tredjepartskontroll av STS-verdipapiriseringer,krav til skille mellom spesialforetakets forpliktelser og forpliktelsene til verdipapiriserer og opprinnelig långiver, ogkrav til vesentlig risikooverføring.
+(2) Departementet kan i forskrift fastsette nærmere regler til utfylling av bestemmelsene i første ledd, herunder regler om
+
+1. risikotilbakeholdelse,
+2. transparenskrav,
+3. adgang til at verdipapiriseringer omfatter reverdipapiriseringer,
+4. søknad om registrering som verdipapiriseringsregister,
+5. krav til enkelhet, transparens og standardisering i STS-verdipapiriseringer,
+6. utforming av melding til tilsynsmyndigheter om STS-verdipapiriseringer,
+7. opplysninger som må fremlegges for tilsynsmyndigheten for å få tillatelse til å utføre tredjepartskontroll av STS-verdipapiriseringer,
+8. krav til skille mellom spesialforetakets forpliktelser og forpliktelsene til verdipapiriserer og opprinnelig långiver, og
+9. krav til vesentlig risikooverføring.
 
 (3) Departementet kan gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført etter første ledd til gjennomføring av Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
@@ -1647,7 +1865,11 @@ Når en sparebank avvikles, skal overskytende midler etter at alle forpliktelser
 
 ### § 12-15. Gjennomføring av omdanningen
 
-(1) Omdanning av finansforetak til aksjeselskap eller allmennaksjeselskap registreres i Foretaksregisteret ved navneendring. Finansforetakets virksomhet videreføres. Omdanningen har følgende virkninger:finansforetaket blir aksjeselskap eller allmennaksjeselskap, med samme konsesjon, eiendeler og forpliktelser,eiere av egenkapitalbevis i finansforetaket og finansstiftelse som opprettes ved omregistreringen, blir aksjeeiere i aksjeselskapet eller allmennaksjeselskapet,andre virkninger som fastsatt i omdanningsplanen.
+(1) Omdanning av finansforetak til aksjeselskap eller allmennaksjeselskap registreres i Foretaksregisteret ved navneendring. Finansforetakets virksomhet videreføres. Omdanningen har følgende virkninger:
+
+1. finansforetaket blir aksjeselskap eller allmennaksjeselskap, med samme konsesjon, eiendeler og forpliktelser,
+2. eiere av egenkapitalbevis i finansforetaket og finansstiftelse som opprettes ved omregistreringen, blir aksjeeiere i aksjeselskapet eller allmennaksjeselskapet,
+3. andre virkninger som fastsatt i omdanningsplanen.
 
 (2) Kreditorer etter de overførte forpliktelser og eiere av egenkapitalbevis kan ikke kreve utløsning på grunn av omdanningen eller motsette seg omdanningen.
 
@@ -1695,7 +1917,20 @@ Når en sparebank avvikles, skal overskytende midler etter at alle forpliktelser
 
 ### § 12-20. Vedtekter
 
-(1) Vedtektene for en finansstiftelse skal minst angi:stiftelsens foretaksnavn,kommunen hvor stiftelsen skal ha sitt forretningskontor,stiftelsens formål og den virksomhet stiftelsen skal drive,stiftelsens grunnfondskapital og hvordan stiftelsens midler skal plasseres,sammensetningen av generalforsamlingen og valg av medlemmer, samt reglene om stemmerett, inhabilitet og i tilfelle det høyeste antall stemmer som kan avgis av et medlem,når generalforsamling skal holdes, hvilke saker som skal behandles, og flertallskrav som skal gjelde for beslutninger,antallet eller laveste og høyeste antall styremedlemmer, og regler for valg av styremedlemmer,hvilke andre organer stiftelsen skal ha og hvilken oppgave og myndighet disse skal ha,hvordan overskudd skal anvendes og underskudd skal dekkes,om stiftelsen skal ha adgang til å utstede egenkapitalbevis,regler om vedtektsendringer,hvordan stiftelsen skal avvikles og stiftelsens formue skal disponeres ved avvikling.
+(1) Vedtektene for en finansstiftelse skal minst angi:
+
+1. stiftelsens foretaksnavn,
+2. kommunen hvor stiftelsen skal ha sitt forretningskontor,
+3. stiftelsens formål og den virksomhet stiftelsen skal drive,
+4. stiftelsens grunnfondskapital og hvordan stiftelsens midler skal plasseres,
+5. sammensetningen av generalforsamlingen og valg av medlemmer, samt reglene om stemmerett, inhabilitet og i tilfelle det høyeste antall stemmer som kan avgis av et medlem,
+6. når generalforsamling skal holdes, hvilke saker som skal behandles, og flertallskrav som skal gjelde for beslutninger,
+7. antallet eller laveste og høyeste antall styremedlemmer, og regler for valg av styremedlemmer,
+8. hvilke andre organer stiftelsen skal ha og hvilken oppgave og myndighet disse skal ha,
+9. hvordan overskudd skal anvendes og underskudd skal dekkes,
+10. om stiftelsen skal ha adgang til å utstede egenkapitalbevis,
+11. regler om vedtektsendringer,
+12. hvordan stiftelsen skal avvikles og stiftelsens formue skal disponeres ved avvikling.
 
 (2) Vedtektene skal være godkjent av departementet. Vedtektsendringer skal godkjennes av Finanstilsynet. Departementet kan i forskrift gi nærmere regler om innholdet og godkjenningen av vedtekter, samt gjøre unntak fra kravet til godkjenning for nærmere angitte typer vedtektsendringer.
 
@@ -1717,7 +1952,10 @@ Når en sparebank avvikles, skal overskytende midler etter at alle forpliktelser
 
 (2) Bestemmelsene om disponering av overskudd og utdeling av utbyttemidler i [§§ 10-6](lov/2015-04-10-17/§10-6) og [10-7](lov/2015-04-10-17/§10-7) gjelder tilsvarende for finansstiftelser. Har stiftelsen utstedt egne egenkapitalbevis, gjelder første punktum bare overskudd som er tilordnet grunnfondskapitalen etter [§ 10-17](lov/2015-04-10-17/§10-17).
 
-(3) Generalforsamlingen kan med flertall som for vedtektsendring og med samtykke av Finanstilsynet treffe vedtak om nedsetting av grunnfondskapitalen. Bestemmelsene i [allmennaksjeloven § 12-1](lov/1997-06-13-45/§12-1) annet til fjerde ledd og [§§ 12-2](lov/1997-06-13-45/§12-2) til [12-7](lov/1997-06-13-45/§12-7) gjelder tilsvarende, likevel slik at det beløpet nedsettingen gjelder bare kan benyttes til:dekning av underskudd som ikke kan dekkes på annen måte, ellerutdeling av utbyttemidler i samsvar med bestemmelser i vedtektene.
+(3) Generalforsamlingen kan med flertall som for vedtektsendring og med samtykke av Finanstilsynet treffe vedtak om nedsetting av grunnfondskapitalen. Bestemmelsene i [allmennaksjeloven § 12-1](lov/1997-06-13-45/§12-1) annet til fjerde ledd og [§§ 12-2](lov/1997-06-13-45/§12-2) til [12-7](lov/1997-06-13-45/§12-7) gjelder tilsvarende, likevel slik at det beløpet nedsettingen gjelder bare kan benyttes til:
+
+1. dekning av underskudd som ikke kan dekkes på annen måte, eller
+2. utdeling av utbyttemidler i samsvar med bestemmelser i vedtektene.
 
 (4) Stiftelsen kan etter vedtak med flertall som for vedtektsendring og med samtykke av Finanstilsynet utstede egenkapitalbevis etter reglene i [§§ 10-3](lov/2015-04-10-17/§10-3) og [10-9](lov/2015-04-10-17/§10-9) for å tegne eller kjøpe egenkapitalbevis eller aksjer som nevnt i første ledd. Bestemmelsene i [§§ 10-4](lov/2015-04-10-17/§10-4) og [10-5](lov/2015-04-10-17/§10-5), samt [§§ 10-10](lov/2015-04-10-17/§10-10) til [10-24](lov/2015-04-10-17/§10-24) gjelder tilsvarende.
 
@@ -1761,7 +1999,12 @@ I vedtektene for en sparebankstiftelse skal det fastsettes at stiftelsen skal vi
 
 (1) Avtale om overdragelse av en forsikringsportefølje, låneportefølje eller annen fordringsmasse av vesentlig omfang sett hen til foretakenes virksomhet krever godkjennelse av departementet.
 
-(2) Departementet kan i forskrift gi nærmere regler om overdragelser, herunder regler om:avhenderens og erververens opplysningsplikter overfor kundene,kundenes rett til å si opp avtalen,offentliggjøring av overdragelsen,nødvendige bekreftelser og samtykke mv. fra tilsynsmyndigheter i andre EØS-stater.
+(2) Departementet kan i forskrift gi nærmere regler om overdragelser, herunder regler om:
+
+1. avhenderens og erververens opplysningsplikter overfor kundene,
+2. kundenes rett til å si opp avtalen,
+3. offentliggjøring av overdragelsen,
+4. nødvendige bekreftelser og samtykke mv. fra tilsynsmyndigheter i andre EØS-stater.
 
 (3) Departementet kan gi forskrift om overdragelse av forsikringsportefølje som er tegnet etter reglene om etableringsadgang eller adgang til å yte tjenester som følger av EØS-avtalen. Departementet kan også gi forskrift om overdragelse av forsikringsportefølje fra filial her i riket av forsikringsforetak med hovedsete i stat utenfor EØS til forsikringsforetak etablert i Norge eller annen EØS-stat. Forskrift gitt i medhold av første og annet punktum kan også inneholde regler om forhold som nevnt i annet ledd.
 
@@ -2047,7 +2290,11 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (5) Foretaket kan ikke uten tillatelse fra Finanstilsynet bruke interne målemetoder for kredittrisiko, markedsrisiko eller operasjonell risiko for beregning av kravet til ansvarlig kapital.
 
-(6) Departementet kan gi forskrift om:beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko, herunder regler som sikrer at beregningsgrunnlaget i tilstrekkelig grad reflekterer risikoen i finansforetakets eiendeler,bruk av interne målemetoder for kredittrisiko, markedsrisiko og operasjonell risiko,hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekrav til ansvarlig kapital.
+(6) Departementet kan gi forskrift om:
+
+1. beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko, herunder regler som sikrer at beregningsgrunnlaget i tilstrekkelig grad reflekterer risikoen i finansforetakets eiendeler,
+2. bruk av interne målemetoder for kredittrisiko, markedsrisiko og operasjonell risiko,
+3. hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekrav til ansvarlig kapital.
 
 > **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
@@ -2087,7 +2334,15 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (2) Finanstilsynet skal vurdere risikoer som nevnt i [§ 13-6](lov/2015-04-10-17/§13-6) knyttet til virksomheten i foretak som nevnt i første ledd.
 
-(3) Foretak som nevnt i første ledd som ikke oppfyller krav eller bufferkrav i denne loven eller forskrifter fastsatt i medhold av loven, skal straks iverksette nødvendige tiltak for å rette opp dette. Dersom det er, eller det er grunn til å anta at det i nær fremtid vil være, manglende etterlevelse av krav og bufferkrav, kan Finanstilsynet pålegge foretaket:å endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,å ha mer ren kjernekapital, kjernekapital, og annen ansvarlig kapital enn summen av minstekrav som gjelder for foretaket etter lov og forskrift,å endre eller begrense virksomheten,å redusere risikoen knyttet til virksomheten, herunder produkter og systemer,å redusere forskjellen i løpetid mellom foretakets forpliktelser og eiendeler,å begrense omfanget av prestasjonsbetinget godtgjørelse,å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital.
+(3) Foretak som nevnt i første ledd som ikke oppfyller krav eller bufferkrav i denne loven eller forskrifter fastsatt i medhold av loven, skal straks iverksette nødvendige tiltak for å rette opp dette. Dersom det er, eller det er grunn til å anta at det i nær fremtid vil være, manglende etterlevelse av krav og bufferkrav, kan Finanstilsynet pålegge foretaket:
+
+1. å endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,
+2. å ha mer ren kjernekapital, kjernekapital, og annen ansvarlig kapital enn summen av minstekrav som gjelder for foretaket etter lov og forskrift,
+3. å endre eller begrense virksomheten,
+4. å redusere risikoen knyttet til virksomheten, herunder produkter og systemer,
+5. å redusere forskjellen i løpetid mellom foretakets forpliktelser og eiendeler,
+6. å begrense omfanget av prestasjonsbetinget godtgjørelse,
+7. å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital.
 
 (4) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at foretak som nevnt i første ledd kan ha lavere ansvarlig kapital enn minstekravene og bufferkravene.
 
@@ -2109,7 +2364,12 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (3) De forsikringstekniske avsetningene skal beregnes på en forsiktig, pålitelig og objektiv måte.
 
-(4) Verdien av de forsikringstekniske avsetningene skal være summen av:beste estimat som tilsvarer det sannsynlighetsvektede gjennomsnitt av fremtidige kontantstrømmer der det tas hensyn til tidsverdien av penger beregnet ved hjelp av den relevante risikofrie rentekurven, ogrisikomarginen som tilsvarer kostnadene forbundet med å stille til rådighet tellende ansvarlig kapital svarende til det solvenskapitalkravet som er nødvendig for å dekke forsikrings- og gjenforsikringsforpliktelsene i løpet av disse forpliktelsenes levetid.Beste estimat skal beregnes brutto uten fradrag for de beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko.
+(4) Verdien av de forsikringstekniske avsetningene skal være summen av:
+
+1. beste estimat som tilsvarer det sannsynlighetsvektede gjennomsnitt av fremtidige kontantstrømmer der det tas hensyn til tidsverdien av penger beregnet ved hjelp av den relevante risikofrie rentekurven, og
+2. risikomarginen som tilsvarer kostnadene forbundet med å stille til rådighet tellende ansvarlig kapital svarende til det solvenskapitalkravet som er nødvendig for å dekke forsikrings- og gjenforsikringsforpliktelsene i løpet av disse forpliktelsenes levetid.
+
+Beste estimat skal beregnes brutto uten fradrag for de beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko.
 
 (5) Ved beregningen av de forsikringstekniske avsetningene skal foretaket ta hensyn til alle inngående og utgående kontantstrømmer som er nødvendige for å gjøre opp forsikringsforpliktelsene i forpliktelsenes levetid. Ved beregningen skal foretaket inndele forsikringsforpliktelsene i likeartede risikogrupper og som et minimum i forsikringsklasser.
 
@@ -2159,9 +2419,20 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (1) Finanstilsynet skal se til at forsikringsforetak det har tilsyn med, har et hensiktsmessig system for risikostyring og internkontroll, forsvarlige forsikringstekniske avsetninger til sikring av sine forsikringsforpliktelser og ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten.
 
-(2) Finanstilsynet kan pålegge forsikringsforetak som ikke oppfyller krav fastsatt i eller i medhold av bestemmelsene i [kapitlene 13](lov/2015-04-10-17/kap13) og [14](lov/2015-04-10-17/kap14), å iverksette nødvendige tiltak for å rette på dette. Finanstilsynet kan herunder pålegge forsikringsforetaket:å øke de forsikringstekniske avsetningene,å benytte parametere som er spesifikke for foretaket i beregningen av forsikringsrisiko ved fastsettelse av solvenskapitalkravet etter standardmetoden dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,å benytte en intern modell for å beregne solvenskapitalkravet dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,å endre systemet for risikostyring og internkontroll.
+(2) Finanstilsynet kan pålegge forsikringsforetak som ikke oppfyller krav fastsatt i eller i medhold av bestemmelsene i [kapitlene 13](lov/2015-04-10-17/kap13) og [14](lov/2015-04-10-17/kap14), å iverksette nødvendige tiltak for å rette på dette. Finanstilsynet kan herunder pålegge forsikringsforetaket:
 
-(3) Finanstilsynet kan i tilfeller som nevnt i annet ledd første punktum også pålegge forsikringsforetak å ha høyere ansvarlig kapital dersom:foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet etter standardmetoden, og pålegg om å benytte en intern modell ikke er hensiktsmessig eller ikke har vært effektivt, eller mens en intern modell er i ferd med å utvikles,foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet med en intern modell, fordi enkelte kvantifiserbare risikoer ikke i tilstrekkelig grad fanges opp av modellen og tilpasninger i modellen for bedre å fange opp den faktiske risikoprofilen ikke har bedret situasjonen innenfor en hensiktsmessig tidsramme, ellerforetakets system for risikostyring og internkontroll avviker vesentlig fra kravene i [kapittel 13](lov/2015-04-10-17/kap13), at disse avvikene hindrer foretaket i å identifisere, måle, overvåke, styre og rapportere de risikoer som det er eller kan bli eksponert for, og at andre tiltak trolig ikke vil kunne forbedre svakhetene innenfor en hensiktsmessig tidsramme.Departementet kan i forskrift fastsette nærmere regler om kapitalkravstillegg.
+1. å øke de forsikringstekniske avsetningene,
+2. å benytte parametere som er spesifikke for foretaket i beregningen av forsikringsrisiko ved fastsettelse av solvenskapitalkravet etter standardmetoden dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,
+3. å benytte en intern modell for å beregne solvenskapitalkravet dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,
+4. å endre systemet for risikostyring og internkontroll.
+
+(3) Finanstilsynet kan i tilfeller som nevnt i annet ledd første punktum også pålegge forsikringsforetak å ha høyere ansvarlig kapital dersom:
+
+1. foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet etter standardmetoden, og pålegg om å benytte en intern modell ikke er hensiktsmessig eller ikke har vært effektivt, eller mens en intern modell er i ferd med å utvikles,
+2. foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet med en intern modell, fordi enkelte kvantifiserbare risikoer ikke i tilstrekkelig grad fanges opp av modellen og tilpasninger i modellen for bedre å fange opp den faktiske risikoprofilen ikke har bedret situasjonen innenfor en hensiktsmessig tidsramme, eller
+3. foretakets system for risikostyring og internkontroll avviker vesentlig fra kravene i [kapittel 13](lov/2015-04-10-17/kap13), at disse avvikene hindrer foretaket i å identifisere, måle, overvåke, styre og rapportere de risikoer som det er eller kan bli eksponert for, og at andre tiltak trolig ikke vil kunne forbedre svakhetene innenfor en hensiktsmessig tidsramme.
+
+Departementet kan i forskrift fastsette nærmere regler om kapitalkravstillegg.
 
 ### § 14-14. Forsikringsforetak med svekket finansiell stilling
 
@@ -2219,13 +2490,27 @@ Departementet kan gi forskrift om minstekrav til ansvarlig kapital for betalings
 
 ### § 15-2. Krav til godtgjørelsesordninger
 
-I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fastsettes nærmere krav til godtgjørelsesordning for tillitsvalgte og ansatte med arbeidsoppgaver av vesentlig innvirkning på foretakets risikoeksponering, som blant annet omfatter:hvilke grupper av ansatte og tillitsvalgte i foretaket som skal omfattes av ordningen,forholdet mellom fast godtgjørelse og prestasjonsbetinget godtgjørelse,kriterier for fastsettelse av prestasjonsbetinget godtgjørelse som bygger på en kombinasjon av resultater oppnådd over tid av den enkelte ansatte, det forretningsområdet denne er tilknyttet, og foretakets samlede resultater,forholdsmessig opptjening av prestasjonsbetinget godtgjørelse over et fastsatt antall år,hvor stor del av prestasjonsbetinget godtgjørelse som skal kunne bestå av aksjer, egenkapitalbevis eller rett til annen godtgjørelse som ikke utbetales kontant,vilkår om at prestasjonsbetinget godtgjørelse bare opptjenes eller utbetales for så vidt dette er forsvarlig ut fra foretakets finansielle stilling, og vil bli redusert eller bortfalle dersom foretakets økonomiske stilling vesentlig forverres,at garantert prestasjonsbetinget godtgjørelse bare kan benyttes i særlige tilfelle,ansattes og tillitsvalgtes plikt til å avstå fra transaksjoner til sikring av prestasjonsbetinget godtgjørelse,at sluttvederlag ved opphør av arbeidsforholdet skal tilpasses de resultater som er oppnådd over tid, og utformes slik at utilfredsstillende resultater ikke blir belønnet.
+I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fastsettes nærmere krav til godtgjørelsesordning for tillitsvalgte og ansatte med arbeidsoppgaver av vesentlig innvirkning på foretakets risikoeksponering, som blant annet omfatter:
+
+1. hvilke grupper av ansatte og tillitsvalgte i foretaket som skal omfattes av ordningen,
+2. forholdet mellom fast godtgjørelse og prestasjonsbetinget godtgjørelse,
+3. kriterier for fastsettelse av prestasjonsbetinget godtgjørelse som bygger på en kombinasjon av resultater oppnådd over tid av den enkelte ansatte, det forretningsområdet denne er tilknyttet, og foretakets samlede resultater,
+4. forholdsmessig opptjening av prestasjonsbetinget godtgjørelse over et fastsatt antall år,
+5. hvor stor del av prestasjonsbetinget godtgjørelse som skal kunne bestå av aksjer, egenkapitalbevis eller rett til annen godtgjørelse som ikke utbetales kontant,
+6. vilkår om at prestasjonsbetinget godtgjørelse bare opptjenes eller utbetales for så vidt dette er forsvarlig ut fra foretakets finansielle stilling, og vil bli redusert eller bortfalle dersom foretakets økonomiske stilling vesentlig forverres,
+7. at garantert prestasjonsbetinget godtgjørelse bare kan benyttes i særlige tilfelle,
+8. ansattes og tillitsvalgtes plikt til å avstå fra transaksjoner til sikring av prestasjonsbetinget godtgjørelse,
+9. at sluttvederlag ved opphør av arbeidsforholdet skal tilpasses de resultater som er oppnådd over tid, og utformes slik at utilfredsstillende resultater ikke blir belønnet.
 
 > Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
 
 ### § 15-3. Pålegg og sanksjoner
 
-I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fastsettes regler om at det kan treffes vedtak om:pålegg om endringer i godtgjørelsesordninger som ikke er i samsvar med kravene i forskriften,grense for foretakets omfang av prestasjonsbetinget godtgjørelse fastsatt i prosent av nettoresultatet, for å sikre at foretaket har et forsvarlig kapitalgrunnlag,sanksjoner for overtredelse av bestemmelsene i forskriften.
+I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fastsettes regler om at det kan treffes vedtak om:
+
+1. pålegg om endringer i godtgjørelsesordninger som ikke er i samsvar med kravene i forskriften,
+2. grense for foretakets omfang av prestasjonsbetinget godtgjørelse fastsatt i prosent av nettoresultatet, for å sikre at foretaket har et forsvarlig kapitalgrunnlag,
+3. sanksjoner for overtredelse av bestemmelsene i forskriften.
 
 ### § 15-4. Styrets rolle, godtgjørelsesutvalg, intern kontroll
 
@@ -2273,7 +2558,12 @@ I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fasts
 
 (2) Taushetsplikten etter første ledd er ikke til hinder for at en person som har taushetsplikt etter § 9-6, gis de opplysninger om kunders og andres forhold som den ansatte eller tillitsvalgte har behov for ved utøvelsen av sine arbeidsoppgaver for finansforetaket. Taushetsplikten er heller ikke til hinder for at opplysninger utleveres etter skriftlig samtykke fra den som har krav på taushet.
 
-(3) Taushetsplikten etter første ledd er ikke til hinder for at et finansforetak i særlige tilfeller gir et annet finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersomformålet er å gjennomføre kundeoppdrag og oppgjør av krav fra eller mot kunder, eller annen berettiget ivaretakelse av finansforetakets eller dets kunders interesser, ellerdet er nødvendig å meddele opplysninger om kunders helseforhold og andre personopplysninger til annet finansforetak, unntatt når annet følger av bestemmelser i [personopplysningsloven](lov/2018-06-15-38).Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
+(3) Taushetsplikten etter første ledd er ikke til hinder for at et finansforetak i særlige tilfeller gir et annet finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersom
+
+1. formålet er å gjennomføre kundeoppdrag og oppgjør av krav fra eller mot kunder, eller annen berettiget ivaretakelse av finansforetakets eller dets kunders interesser, eller
+2. det er nødvendig å meddele opplysninger om kunders helseforhold og andre personopplysninger til annet finansforetak, unntatt når annet følger av bestemmelser i [personopplysningsloven](lov/2018-06-15-38).
+
+Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
 
 (4) Taushetsplikten etter første ledd er ikke til hinder for at finansforetak utleverer opplysninger til andre finansforetak, tilbydere av elektroniske identiteter og tillitstjenester eller til politiet når dette er nødvendig for å forebygge eller avdekke bedragerier eller misbruk av elektroniske identiteter og elektroniske tillitstjenester. Mottaker av opplysningene må ha taushetsplikt om opplysningene, som skal være minst like streng som den som følger av første ledd. Før utlevering skal finansforetaket forsikre seg om at mottaker er underlagt slik taushetsplikt eller aksepterer å bli underlagt slik taushetsplikt. Opplysninger som mottas etter denne bestemmelsen, kan ikke benyttes til andre formål enn det de er utlevert for. Mottatte opplysninger skal slettes så snart opplysningene ikke lenger er nødvendige for formålet, og uansett etter 5 år.
 
@@ -2361,7 +2651,13 @@ Departementet kan gi forskrift om plikt for finansforetak om å lenke til prisop
 
 ### § 16-12. Krav til ansatte
 
-(1) Forsikringsforetak skal påse at ansatte som er direkte beskjeftiget med forsikringsdistribusjontil enhver tid har den kunnskapen og kompetansen som er nødvendig for å kunne utøve stillingenikke er dømt for straffbart forhold eller i stilling eller ved utøvelsen av verv har utvist adferd som gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen på en forsvarlig måteårlig gjennomfører minst 15 timer etterutdanning som er relevant for stillingen, og som er godkjent av Finanstilsynet.Etterutdanningen etter bokstav c skal dokumenteres.
+(1) Forsikringsforetak skal påse at ansatte som er direkte beskjeftiget med forsikringsdistribusjon
+
+1. til enhver tid har den kunnskapen og kompetansen som er nødvendig for å kunne utøve stillingen
+2. ikke er dømt for straffbart forhold eller i stilling eller ved utøvelsen av verv har utvist adferd som gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen på en forsvarlig måte
+3. årlig gjennomfører minst 15 timer etterutdanning som er relevant for stillingen, og som er godkjent av Finanstilsynet.
+
+Etterutdanningen etter bokstav c skal dokumenteres.
 
 (2) Personer som omfattes av første ledd, skal fremlegge ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og bekreftelse fra Brønnøysundregistrene om at vedkommende ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling.
 
@@ -2445,7 +2741,13 @@ Departementet kan gi forskrift om plikt for finansforetak om å lenke til prisop
 
 ### § 17-3 a. Unntak fra krav til tillatelse for holdingforetak
 
-Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [§ 17-3](lov/2015-04-10-17/§17-3) dersom følgende vilkår er oppfylt:foretakets hovedvirksomhet er å eie aksjer i datterforetak,foretaket er ikke utpekt som krisehåndteringsenhet,datterforetaket er kredittinstitusjon som er ansvarlig for å oppfylle tilsynskrav som gjelder på konsolidert nivå i konsernet, og kan oppfylle disse kravene på en effektiv måte,foretaket tar ikke del i ledelsesmessige, operasjonelle eller finansielle beslutninger som berører konsernet eller de regulerte datterforetakene, ogdet er ikke noe som hindrer et effektivt tilsyn med konsernet på konsolidert nivå.
+Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [§ 17-3](lov/2015-04-10-17/§17-3) dersom følgende vilkår er oppfylt:
+
+1. foretakets hovedvirksomhet er å eie aksjer i datterforetak,
+2. foretaket er ikke utpekt som krisehåndteringsenhet,
+3. datterforetaket er kredittinstitusjon som er ansvarlig for å oppfylle tilsynskrav som gjelder på konsolidert nivå i konsernet, og kan oppfylle disse kravene på en effektiv måte,
+4. foretaket tar ikke del i ledelsesmessige, operasjonelle eller finansielle beslutninger som berører konsernet eller de regulerte datterforetakene, og
+5. det er ikke noe som hindrer et effektivt tilsyn med konsernet på konsolidert nivå.
 
 > Tilføyd ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
@@ -2467,9 +2769,19 @@ Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [
 
 (1) Søknad om tillatelse etter bestemmelsene i [§§ 17-1](lov/2015-04-10-17/§17-1) til [17-4](lov/2015-04-10-17/§17-4) skal inneholde de opplysninger som må anses å være av betydning for behandling av søknaden. Det skal gis opplysninger om hvilke foretak som vil inngå i finanskonsernet, og fremlegges en organisasjonsplan for foretakene i finanskonsernet.
 
-(2) Søknad om tillatelse som holdingforetak etter [§ 17-3](lov/2015-04-10-17/§17-3) eller unntak etter [§ 17-3 a](lov/2015-04-10-17/§17-3a) skal inneholde opplysninger om:organiseringen av konsernet, herunder spesifisering av de enkelte foretakenes etableringssted og virksomhet samt en organisasjonsplan,fordelingen av oppgaver og funksjoner i konsernet,minst to personer som skal inngå i den faktiske ledelsen av holdingforetaket, samt at krav som nevnt i [§ 3-5](lov/2015-04-10-17/§3-5) er oppfylt,oppfyllelse av kravene i [§ 3-3](lov/2015-04-10-17/§3-3) første ledd, ogeventuelle andre opplysninger av betydning for behandling av søknaden.
+(2) Søknad om tillatelse som holdingforetak etter [§ 17-3](lov/2015-04-10-17/§17-3) eller unntak etter [§ 17-3 a](lov/2015-04-10-17/§17-3a) skal inneholde opplysninger om:
 
-(3) Tillatelse som holdingforetak etter [§ 17-3](lov/2015-04-10-17/§17-3) kan bare gis dersom:konsernets interne fordeling av oppgaver og funksjoner sikrer oppfyllelse av regulatoriske krav på konsolidert eller delkonsolidert nivå, herunder at datterforetakenes oppgaver kan samordnes, interessekonflikter mellom konsernenhetene kan forhindres eller håndteres, samt at overordnede planer fastsatt av holdingforetaket effektivt kan gjennomføres i konsernet;organiseringen av konsernet ikke er til hinder for effektivt tilsyn med konsernenhetene, herunder på konsolidert og delkonsolidert nivå. Vurderingen skal særlig gjelde holdingforetakets plassering i konsernet, eierstruktur samt holdingforetakets funksjon i konsernet, ogkravene i [§ 3-3](lov/2015-04-10-17/§3-3) første ledd og [§ 3-5](lov/2015-04-10-17/§3-5) er oppfylt.
+1. organiseringen av konsernet, herunder spesifisering av de enkelte foretakenes etableringssted og virksomhet samt en organisasjonsplan,
+2. fordelingen av oppgaver og funksjoner i konsernet,
+3. minst to personer som skal inngå i den faktiske ledelsen av holdingforetaket, samt at krav som nevnt i [§ 3-5](lov/2015-04-10-17/§3-5) er oppfylt,
+4. oppfyllelse av kravene i [§ 3-3](lov/2015-04-10-17/§3-3) første ledd, og
+5. eventuelle andre opplysninger av betydning for behandling av søknaden.
+
+(3) Tillatelse som holdingforetak etter [§ 17-3](lov/2015-04-10-17/§17-3) kan bare gis dersom:
+
+1. konsernets interne fordeling av oppgaver og funksjoner sikrer oppfyllelse av regulatoriske krav på konsolidert eller delkonsolidert nivå, herunder at datterforetakenes oppgaver kan samordnes, interessekonflikter mellom konsernenhetene kan forhindres eller håndteres, samt at overordnede planer fastsatt av holdingforetaket effektivt kan gjennomføres i konsernet;
+2. organiseringen av konsernet ikke er til hinder for effektivt tilsyn med konsernenhetene, herunder på konsolidert og delkonsolidert nivå. Vurderingen skal særlig gjelde holdingforetakets plassering i konsernet, eierstruktur samt holdingforetakets funksjon i konsernet, og
+3. kravene i [§ 3-3](lov/2015-04-10-17/§3-3) første ledd og [§ 3-5](lov/2015-04-10-17/§3-5) er oppfylt.
 
 (4) Søknad om tillatelse etter [§ 17-3](lov/2015-04-10-17/§17-3) eller unntak etter [§ 17-3 a](lov/2015-04-10-17/§17-3a), skal avgjøres innen fire måneder etter at søknaden er mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse eller unntak skal gis, regnes fristen fra det tidspunktet slike opplysninger ble mottatt, likevel slik at søknaden i alle tilfelle skal være avgjort innen seks måneder etter at den er mottatt.
 
@@ -2487,13 +2799,25 @@ Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [
 
 (1) Foretak som har en så stor eierandel i et finansforetak at det er etablert et konsernforhold mellom foretaket og finansforetaket, regnes som morselskap i finanskonsern.
 
-(2) Morselskap i finanskonsern kan være:holdingforetak,annet finansforetak, unntatt pensjonsforetak, betalingsforetak og e-pengeforetak,annet eierforetak som ikke selv er finansforetak og heller ikke er organisert som holdingforetak i finanskonsern.
+(2) Morselskap i finanskonsern kan være:
+
+1. holdingforetak,
+2. annet finansforetak, unntatt pensjonsforetak, betalingsforetak og e-pengeforetak,
+3. annet eierforetak som ikke selv er finansforetak og heller ikke er organisert som holdingforetak i finanskonsern.
 
 (3) Et kredittforsikringsforetak kan ikke være morselskap i finanskonsern som omfatter annet forsikringsforetak eller kredittinstitusjon.
 
 ### § 17-7. Konsernforetakene
 
-(1) I tillegg til morselskapet kan, når ikke annet følger av lov, forskrift eller konsesjonsvilkår, et finanskonsern omfatte:finansforetak,verdipapirforetak,forvaltningsselskap for verdipapirfond,eiendoms- og investeringsforetak,inkassoforetak,foretak som formidler finansielle tjenester,foretak med naturlig tilknytning til eller sammenheng med finansierings- eller forsikringsvirksomhet.
+(1) I tillegg til morselskapet kan, når ikke annet følger av lov, forskrift eller konsesjonsvilkår, et finanskonsern omfatte:
+
+1. finansforetak,
+2. verdipapirforetak,
+3. forvaltningsselskap for verdipapirfond,
+4. eiendoms- og investeringsforetak,
+5. inkassoforetak,
+6. foretak som formidler finansielle tjenester,
+7. foretak med naturlig tilknytning til eller sammenheng med finansierings- eller forsikringsvirksomhet.
 
 (2) Departementet kan i forskrift eller enkeltvedtak tillate at andre foretak enn nevnt i første ledd kan inngå i finanskonsern.
 
@@ -2519,7 +2843,11 @@ Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [
 
 (1) Endring i organiseringen av et finanskonsern som gjelder finansforetak i konsernet, kan bare foretas etter samtykke fra departementet. Morselskapet i finanskonsernet skal gi Finanstilsynet de opplysninger som antas å være av betydning ved vurderingen av om samtykke skal gis.
 
-(2) Morselskapet i et finanskonsern skal gi Finanstilsynet melding om andre endringer av betydning i organiseringen av finanskonsernet eller dets virksomhet, herunder:avhendelse av norsk datterforetak som ikke er finansforetak, eller avhendelse av en vesentlig del av virksomheten i foretaket,avhendelse av utenlandsk datterforetak, eller av eierandeler på mer enn ti prosent i utenlandsk finansforetak,nedleggelse av filial i utlandet.
+(2) Morselskapet i et finanskonsern skal gi Finanstilsynet melding om andre endringer av betydning i organiseringen av finanskonsernet eller dets virksomhet, herunder:
+
+1. avhendelse av norsk datterforetak som ikke er finansforetak, eller avhendelse av en vesentlig del av virksomheten i foretaket,
+2. avhendelse av utenlandsk datterforetak, eller av eierandeler på mer enn ti prosent i utenlandsk finansforetak,
+3. nedleggelse av filial i utlandet.
 
 (3) Finanstilsynet kan gi pålegg om at endring som omfattes av melding etter annet ledd, ikke skal gjennomføres eller omgjøres dersom tilsynsmessige hensyn tilsier det.
 
@@ -2587,7 +2915,10 @@ Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [
 
 ### § 18-2. Konsolideringsregler mv.
 
-(1) Regler om kapitalkrav og andre soliditets- og sikkerhetskrav skal anvendes på konsolidert basis etter følgende regler:Full konsolidering anvendes for datterforetak. Dersom det kan godtgjøres at eierne av eierandeler og annen ansvarlig kapital er finansforetak eller verdipapirforetak med tilstrekkelig soliditet, og at ansvarsforholdet mellom eierne av ansvarlig kapital er tilstrekkelig fastslått, kan Finanstilsynet likevel tillate at et datterforetak konsolideres etter prinsippet om forholdsmessig konsolidering.Forholdsmessig konsolidering anvendes når foretaket har deltakerinteresser i et annet foretak som ikke er datterforetak, eller har felles ledelse med et annet foretak. Med deltakerinteresser menes rettigheter til kapital i andre foretak som ved å skape en varig tilknytning til disse foretakene skal bidra til foretakets virksomhet eller som utgjør en direkte eller indirekte eierandel på 20 prosent eller mer av stemmeretten eller kapitalen i et foretak. Finanstilsynet kan gi pålegg om forholdsmessig konsolidering også for eierandeler ned til 10 prosent.
+(1) Regler om kapitalkrav og andre soliditets- og sikkerhetskrav skal anvendes på konsolidert basis etter følgende regler:
+
+1. Full konsolidering anvendes for datterforetak. Dersom det kan godtgjøres at eierne av eierandeler og annen ansvarlig kapital er finansforetak eller verdipapirforetak med tilstrekkelig soliditet, og at ansvarsforholdet mellom eierne av ansvarlig kapital er tilstrekkelig fastslått, kan Finanstilsynet likevel tillate at et datterforetak konsolideres etter prinsippet om forholdsmessig konsolidering.
+2. Forholdsmessig konsolidering anvendes når foretaket har deltakerinteresser i et annet foretak som ikke er datterforetak, eller har felles ledelse med et annet foretak. Med deltakerinteresser menes rettigheter til kapital i andre foretak som ved å skape en varig tilknytning til disse foretakene skal bidra til foretakets virksomhet eller som utgjør en direkte eller indirekte eierandel på 20 prosent eller mer av stemmeretten eller kapitalen i et foretak. Finanstilsynet kan gi pålegg om forholdsmessig konsolidering også for eierandeler ned til 10 prosent.
 
 (2) Finanstilsynet kan ved forskrift eller enkeltvedtak gjøre unntak fra plikten til konsolidering. Finanstilsynet kan for tilfeller hvor det er gjort unntak fra plikten til konsolidering, gi pålegg om avsetning av en kapitaldekningsreserve på 100 prosent av balanseført verdi.
 
@@ -2661,7 +2992,10 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Banker og andre kredittinstitusjoner kan ikke motta innskudd her i riket uten å være medlem av innskuddsgarantiordningen for banker etter reglene i kapitlet her eller av en annen tilsvarende garantiordning.
 
-(2) Innskuddsgarantiordningen skal bidra til finansiell stabilitet ved:å sikre at innskudd som er mottatt av medlemsforetak, blir utbetalt til innskyterne dersom foretaket selv er ute av stand til å tilbakebetale innskuddet, ogå sette i verk tiltak etter reglene i [§ 19-11](lov/2015-04-10-17/§19-11) overfor foretak som nevnt i [§ 19-2](lov/2015-04-10-17/§19-2) første ledd.
+(2) Innskuddsgarantiordningen skal bidra til finansiell stabilitet ved:
+
+1. å sikre at innskudd som er mottatt av medlemsforetak, blir utbetalt til innskyterne dersom foretaket selv er ute av stand til å tilbakebetale innskuddet, og
+2. å sette i verk tiltak etter reglene i [§ 19-11](lov/2015-04-10-17/§19-11) overfor foretak som nevnt i [§ 19-2](lov/2015-04-10-17/§19-2) første ledd.
 
 (3) Bankenes sikringsfond skal forvalte innskuddsgarantiordningen. Garantiordningen skal ha et innskuddsgarantifond og andre finansielle midler som oppfyller kravene i [§ 19-9](lov/2015-04-10-17/§19-9).
 
@@ -2681,7 +3015,17 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Som innskudd regnes i dette kapitlet enhver kreditsaldo i et medlemsforetak i henhold til en konto som lyder på navn, og som kan kreves tilbakebetalt etter de vilkår som gjelder for kontoen, herunder tidsavgrenset innskudd og innskudd på sparevilkår. Som innskudd regnes også renter som ikke er forfalt, og tilgodehavende etter oppdrag om betalingsoverføring og andre vanlige betalingstjenester. Kreditsaldo i henhold til finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2) regnes ikke som innskudd med mindre instrumentet er et spareprodukt som eksisterte før loven trådte i kraft og som er registrert på navngitt person eller omfattet av et innskuddsbevis. Som innskudd regnes heller ikke kreditsaldo med hovedstol som ikke pliktes tilbakebetalt til pålydende verdi.
 
-(2) Innskuddsgarantiordningen skal omfatte kvalifiserte innskudd som er mottatt av medlemsforetakene. Med kvalifiserte innskudd menes alle innskudd unntatt:innskudd som en annen kredittinstitusjon har for egen regning og risiko,innskudd av ansvarlig kapital,innskudd av utbytte ved transaksjoner som etter rettskraftig dom er i strid med lovgivningen om hvitvasking av penger eller finansiering av terrorvirksomhet,innskudd fra andre finansforetak enn kredittinstitusjoner, herunder betalingsforetak, holdingforetak og annet morselskap i finanskonsern,innskudd fra verdipapirforetak, verdipapirfond og andre foretak for kollektiv investering,innskudd fra innskyter med ukjent identitet,innskudd fra forsikrings- og pensjonsforetak, herunder pensjonsfond, samt fra holdingforetak og annet morselskap i forsikringskonsern,innskudd fra offentlig myndighet, ogfordring etter foretakets gjeldsinstrumenter, gjeldsbrev og vekselforpliktelser.
+(2) Innskuddsgarantiordningen skal omfatte kvalifiserte innskudd som er mottatt av medlemsforetakene. Med kvalifiserte innskudd menes alle innskudd unntatt:
+
+1. innskudd som en annen kredittinstitusjon har for egen regning og risiko,
+2. innskudd av ansvarlig kapital,
+3. innskudd av utbytte ved transaksjoner som etter rettskraftig dom er i strid med lovgivningen om hvitvasking av penger eller finansiering av terrorvirksomhet,
+4. innskudd fra andre finansforetak enn kredittinstitusjoner, herunder betalingsforetak, holdingforetak og annet morselskap i finanskonsern,
+5. innskudd fra verdipapirforetak, verdipapirfond og andre foretak for kollektiv investering,
+6. innskudd fra innskyter med ukjent identitet,
+7. innskudd fra forsikrings- og pensjonsforetak, herunder pensjonsfond, samt fra holdingforetak og annet morselskap i forsikringskonsern,
+8. innskudd fra offentlig myndighet, og
+9. fordring etter foretakets gjeldsinstrumenter, gjeldsbrev og vekselforpliktelser.
 
 (3) Garantiordningen omfatter likevel innskudd av midler som er knyttet til individuelle pensjonsordninger eller kollektive tjenestepensjonsordninger for små og mellomstore bedrifter.
 
@@ -2695,7 +3039,11 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Med garanterte innskudd menes kvalifiserte innskudd opp til to millioner kroner per innskyter per medlemsforetak og innskudd som nevnt i annet ledd.
 
-(2) Følgende innskudd, herunder innskudd på klientkonto, skal i sin helhet regnes som garantert innskudd i en periode på inntil 12 måneder fra det tidligste av tidspunktet innskuddet er mottatt og kreditert i foretaket, og tidspunktet innskuddet rettslig kunne overføres til andre:innskuddet er foretatt i henhold til avtale om fast eiendom som gjelder erverv eller avhendelse av rett til private boliger eller fritidshus,innskuddet ivaretar sosiale hensyn og er knyttet til særlige begivenheter i en innskyters livsløp, herunder ekteskap, samlivsbrudd, avslutning av arbeidsforhold, herunder ved pensjonering eller nedbemanning, samt uførhet eller død, ellerinnskuddet er basert på utbetaling av forsikringsytelse, erstatning for skade voldt ved straffbare handlinger, eller erstatning for uriktig straffeforfølgning.
+(2) Følgende innskudd, herunder innskudd på klientkonto, skal i sin helhet regnes som garantert innskudd i en periode på inntil 12 måneder fra det tidligste av tidspunktet innskuddet er mottatt og kreditert i foretaket, og tidspunktet innskuddet rettslig kunne overføres til andre:
+
+1. innskuddet er foretatt i henhold til avtale om fast eiendom som gjelder erverv eller avhendelse av rett til private boliger eller fritidshus,
+2. innskuddet ivaretar sosiale hensyn og er knyttet til særlige begivenheter i en innskyters livsløp, herunder ekteskap, samlivsbrudd, avslutning av arbeidsforhold, herunder ved pensjonering eller nedbemanning, samt uførhet eller død, eller
+3. innskuddet er basert på utbetaling av forsikringsytelse, erstatning for skade voldt ved straffbare handlinger, eller erstatning for uriktig straffeforfølgning.
 
 (3) For innskudd mottatt av medlemsforetak med hovedsete her i riket gjennom filial etablert i annen EØS-stat, er beløpsgrensen for garanterte innskudd etter første ledd et beløp i norske kroner som svarer til 100 000 euro per innskyter per medlemsforetak. Det samme gjelder innskudd som et medlem har mottatt gjennom grensekryssende virksomhet i annen EØS-stat. Departementet kan gi utfyllende bestemmelser i forskrift.
 
@@ -2725,7 +3073,14 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Innskuddsgarantiordningen skal gjøre garanterte innskudd tilgjengelig for innskyterne i norske kroner innen syv arbeidsdager etter at innskuddet ble utilgjengelig. Dersom garantiordningen av praktiske grunner er forhindret fra å gjøre dette, skal den treffe tiltak som så snart som mulig, og i alle tilfelle senest fem arbeidsdager etter påkrav, vil gi innskytere tilgang til en rimelig del av de garanterte innskuddene.
 
-(2) Utbetaling kan om nødvendig utsettes til etter fristen i første ledd, dersom:det er usikkert hvem som har rett til utbetaling av innskuddet,det er reist søksmål om retten til utbetaling av innskuddet,disponeringen av innskuddet er undergitt nasjonalt eller internasjonalt fastsatte begrensninger,kreditsaldoen har stått uendret i løpet av de siste 24 månedene,innskuddet omfattes av [§ 19-4](lov/2015-04-10-17/§19-4) annet ledd, likevel ikke i mer enn tre måneder, ellerinnskuddet skal utbetales etter [§ 19-8](lov/2015-04-10-17/§19-8) første ledd.
+(2) Utbetaling kan om nødvendig utsettes til etter fristen i første ledd, dersom:
+
+1. det er usikkert hvem som har rett til utbetaling av innskuddet,
+2. det er reist søksmål om retten til utbetaling av innskuddet,
+3. disponeringen av innskuddet er undergitt nasjonalt eller internasjonalt fastsatte begrensninger,
+4. kreditsaldoen har stått uendret i løpet av de siste 24 månedene,
+5. innskuddet omfattes av [§ 19-4](lov/2015-04-10-17/§19-4) annet ledd, likevel ikke i mer enn tre måneder, eller
+6. innskuddet skal utbetales etter [§ 19-8](lov/2015-04-10-17/§19-8) første ledd.
 
 (3) Dersom en innskyter eller person med interesse knyttet til en innskuddskonto er under straffeforfølgning for overtredelse av lovgivningen om hvitvasking av penger eller finansiering av terrorvirksomhet, kan garantiordningen utsette utbetalingen i påvente av rettskraftig dom.
 
@@ -2781,11 +3136,22 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Innskuddsgarantifondet og garantiordningens andre tilgjengelige midler skal bare brukes til å finansiere utbetaling av garanterte innskudd, bidrag til krisehåndtering etter [§ 20-54](lov/2015-04-10-17/§20-54) og tiltak etter paragrafen her.
 
-(2) Bankenes sikringsfond kan benytte garantiordningens midler til alternative tiltak, herunder gi lån, utstede garantier eller erverve egenkapitalinstrumenter, for å unngå at medlemsforetak som nevnt i [§ 19-2](lov/2015-04-10-17/§19-2) første ledd vil bli kriserammet etter [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd, dersom:departementet ikke har truffet vedtak etter [§ 20-15](lov/2015-04-10-17/§20-15) første ledd, og det ikke er grunnlag for melding til departementet etter [§ 20-13](lov/2015-04-10-17/§20-13) annet ledd,tiltaket velges og gjennomføres på betryggende måte i henhold til hensiktsmessige systemer og prosedyrer, herunder for overvåking av risiko,det må antas at innskuddsgarantifondets kostnader dersom tiltaket gjennomføres, ikke vil overstige innskuddsgarantifondets kostnader dersom garanterte innskudd blir utbetalt til innskyterne,det fastsettes vilkår for foretaket, blant annet for å sikre forsvarlig risikostyring, utvidede kontrollmuligheter for Bankenes sikringsfond, og regelmessig rapportering til Bankenes sikringsfond om utviklingen i foretaket,foretaket forplikter seg til å sikre innskyternes tilgang til garanterte innskudd,Finanstilsynet har funnet at innskuddsgarantifondet om nødvendig kan tilføres midler i tilfeller som nevnt i fjerde ledd, ogBankenes sikringsfond har rådført seg med Finanstilsynet om valg av tiltak og fastsettelse av vilkår.
+(2) Bankenes sikringsfond kan benytte garantiordningens midler til alternative tiltak, herunder gi lån, utstede garantier eller erverve egenkapitalinstrumenter, for å unngå at medlemsforetak som nevnt i [§ 19-2](lov/2015-04-10-17/§19-2) første ledd vil bli kriserammet etter [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd, dersom:
+
+1. departementet ikke har truffet vedtak etter [§ 20-15](lov/2015-04-10-17/§20-15) første ledd, og det ikke er grunnlag for melding til departementet etter [§ 20-13](lov/2015-04-10-17/§20-13) annet ledd,
+2. tiltaket velges og gjennomføres på betryggende måte i henhold til hensiktsmessige systemer og prosedyrer, herunder for overvåking av risiko,
+3. det må antas at innskuddsgarantifondets kostnader dersom tiltaket gjennomføres, ikke vil overstige innskuddsgarantifondets kostnader dersom garanterte innskudd blir utbetalt til innskyterne,
+4. det fastsettes vilkår for foretaket, blant annet for å sikre forsvarlig risikostyring, utvidede kontrollmuligheter for Bankenes sikringsfond, og regelmessig rapportering til Bankenes sikringsfond om utviklingen i foretaket,
+5. foretaket forplikter seg til å sikre innskyternes tilgang til garanterte innskudd,
+6. Finanstilsynet har funnet at innskuddsgarantifondet om nødvendig kan tilføres midler i tilfeller som nevnt i fjerde ledd, og
+7. Bankenes sikringsfond har rådført seg med Finanstilsynet om valg av tiltak og fastsettelse av vilkår.
 
 (3) Bankenes sikringsfond kan benytte garantiordningens midler til å finansiere tiltak for å sikre innskytere fortsatt tilgang til garanterte innskudd, herunder ved overføring av eiendeler, forpliktelser og innskuddsbeholdninger, ved avvikling av medlemsforetak etter [§§ 20-29](lov/2015-04-10-17/§20-29) til [20-32](lov/2015-04-10-17/§20-32). Annet ledd bokstav c og f gjelder tilsvarende.
 
-(4) Når det er truffet tiltak etter annet eller tredje ledd, skal øvrige medlemsforetak straks tilføre innskuddsgarantifondet et beløp tilsvarende midlene benyttet til tiltaket i form av tilleggsbidrag etter [§ 19-10](lov/2015-04-10-17/§19-10) annet ledd, dersom:det blir nødvendig å foreta utbetaling av garanterte innskudd, og garantiordningens tilgjengelige midler er mindre enn to tredeler av minstekravet etter [§ 19-9](lov/2015-04-10-17/§19-9) første ledd, ellergarantiordningens tilgjengelige midler blir mindre enn 25 prosent av minstekravet etter [§ 19-9](lov/2015-04-10-17/§19-9) første ledd.
+(4) Når det er truffet tiltak etter annet eller tredje ledd, skal øvrige medlemsforetak straks tilføre innskuddsgarantifondet et beløp tilsvarende midlene benyttet til tiltaket i form av tilleggsbidrag etter [§ 19-10](lov/2015-04-10-17/§19-10) annet ledd, dersom:
+
+1. det blir nødvendig å foreta utbetaling av garanterte innskudd, og garantiordningens tilgjengelige midler er mindre enn to tredeler av minstekravet etter [§ 19-9](lov/2015-04-10-17/§19-9) første ledd, eller
+2. garantiordningens tilgjengelige midler blir mindre enn 25 prosent av minstekravet etter [§ 19-9](lov/2015-04-10-17/§19-9) første ledd.
 
 (5) Vedtak etter denne paragrafen kan ikke påklages.
 
@@ -2811,7 +3177,14 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (1) Bankenes sikringsfond skal forvalte innskuddsgarantiordningen og innskuddsgarantifondet. Styret i Bankenes sikringsfond skal være styre for innskuddsgarantiordningen og utøve den myndighet som følger av reglene i kapitlet her.
 
-(2) Bankenes sikringsfond skal i samsvar med første ledd treffe beslutninger om:beregning og innkreving av bidrag til innskuddsgarantifondet,forvaltning av garantiordningens midler,beregning og utbetaling av garanterte innskudd,tiltak overfor medlemsforetak etter [§ 19-11](lov/2015-04-10-17/§19-11) annet og tredje ledd,inngåelse av avtaler om lån og andre finansieringsordninger etter [§ 19-9](lov/2015-04-10-17/§19-9) fjerde ledd og disponeringen av innlånte midler, ogandre forhold vedrørende innskuddsgarantiordningens virksomhet som skal avgjøres etter de regler som gjelder for garantiordningen og Bankenes sikringsfond.
+(2) Bankenes sikringsfond skal i samsvar med første ledd treffe beslutninger om:
+
+1. beregning og innkreving av bidrag til innskuddsgarantifondet,
+2. forvaltning av garantiordningens midler,
+3. beregning og utbetaling av garanterte innskudd,
+4. tiltak overfor medlemsforetak etter [§ 19-11](lov/2015-04-10-17/§19-11) annet og tredje ledd,
+5. inngåelse av avtaler om lån og andre finansieringsordninger etter [§ 19-9](lov/2015-04-10-17/§19-9) fjerde ledd og disponeringen av innlånte midler, og
+6. andre forhold vedrørende innskuddsgarantiordningens virksomhet som skal avgjøres etter de regler som gjelder for garantiordningen og Bankenes sikringsfond.
 
 > Endret ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
 
@@ -2863,7 +3236,11 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 ### § 20-1. Virkeområde
 
-(1) Bestemmelsene i kapitlet her gjelder:banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-39](lov/2007-06-29-75/§9-39) første ledd.holdingforetak eller annet morselskap i finanskonsern der foretak som nevnt i bokstav a inngår, ogfinansieringsforetak som inngår i finanskonsern som nevnt i bokstav b.
+(1) Bestemmelsene i kapitlet her gjelder:
+
+1. banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-39](lov/2007-06-29-75/§9-39) første ledd.
+2. holdingforetak eller annet morselskap i finanskonsern der foretak som nevnt i bokstav a inngår, og
+3. finansieringsforetak som inngår i finanskonsern som nevnt i bokstav b.
 
 (2) Reglene om finanskonsern i kapitlet her gjelder bare finanskonsern der foretak som nevnt i første ledd bokstav a inngår.
 
@@ -2893,7 +3270,10 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) Departementet kan i forskrift gi regler til utfylling, gjennomføring og avgrensning av bestemmelsene i kapitlet her, herunder regler til gjennomføring av første ledd. I forskriften kan det gjøres unntak fra reglene i konkursloven, tvangsfullbyrdelsesloven og tvisteloven del VII. Departementet kan i forskrift fastsette regler til gjennomføring av EØS-regler om reorganisering og avvikling av kredittinstitusjoner og verdipapirforetak.
 
-(3) Departementet kan i forskrift gi regler om samarbeid mellom Finanstilsynet og tilsyns- og krisehåndteringsmyndigheter i andre EØS-stater, herunder om anvendelsen av reglene i kapitlet her i tilfeller hvor:norsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial i annen EØS-stat, ogutenlandsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial etablert her i riket.
+(3) Departementet kan i forskrift gi regler om samarbeid mellom Finanstilsynet og tilsyns- og krisehåndteringsmyndigheter i andre EØS-stater, herunder om anvendelsen av reglene i kapitlet her i tilfeller hvor:
+
+1. norsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial i annen EØS-stat, og
+2. utenlandsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial etablert her i riket.
 
 > Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), endret ved lov [3 mai 2019 nr. 14](lov/2019-05-03-14) (ikr. 3 mai 2019 iflg. [res. 3 mai 2019 nr. 561](forskrift/2019-05-03-561)).
 
@@ -2901,7 +3281,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-5. Gjenopprettingsplan
 
-(1) Et foretak skal ha en plan som angir hvilke tiltak foretaket kan sette i verk for å gjenopprette sin finansielle stilling når denne har blitt betydelig svekket, herunder når vilkår for inngripen etter [§ 20-11](lov/2015-04-10-17/§20-11) er oppfylt. Gjenopprettingsplanen skal:ta høyde for ulike situasjoner med alvorlige makroøkonomiske og finansielle forstyrrelser som kan påvirke foretaket,inneholde flere modeller for bruk av tiltak for å gjenopprette foretakets finansielle stilling, og kriterier og prosedyrer som sikrer at tiltakene kan gjennomføres til riktig tid,inneholde en analyse av foretakets muligheter for å benytte seg av sentralbankfasiliteter, og hvilke eiendeler som kan kvalifisere som sikkerhet,ikke legge til grunn statlig støtte, ogoppdateres årlig, eller oftere hvis Finanstilsynet pålegger det, og når det har skjedd endringer i foretaket som nødvendiggjør endringer i planen.
+(1) Et foretak skal ha en plan som angir hvilke tiltak foretaket kan sette i verk for å gjenopprette sin finansielle stilling når denne har blitt betydelig svekket, herunder når vilkår for inngripen etter [§ 20-11](lov/2015-04-10-17/§20-11) er oppfylt. Gjenopprettingsplanen skal:
+
+1. ta høyde for ulike situasjoner med alvorlige makroøkonomiske og finansielle forstyrrelser som kan påvirke foretaket,
+2. inneholde flere modeller for bruk av tiltak for å gjenopprette foretakets finansielle stilling, og kriterier og prosedyrer som sikrer at tiltakene kan gjennomføres til riktig tid,
+3. inneholde en analyse av foretakets muligheter for å benytte seg av sentralbankfasiliteter, og hvilke eiendeler som kan kvalifisere som sikkerhet,
+4. ikke legge til grunn statlig støtte, og
+5. oppdateres årlig, eller oftere hvis Finanstilsynet pålegger det, og når det har skjedd endringer i foretaket som nødvendiggjør endringer i planen.
 
 (2) Gjenopprettingsplanen skal godkjennes av styret i foretaket og oversendes til Finanstilsynet. Finanstilsynet skal innen seks måneder vurdere om planen tilfredsstiller kravene i første ledd, om planlagte tiltak vil være tilstrekkelige til å gjenopprette foretakets finansielle stilling, og om planen vil la seg gjennomføre raskt og med minst mulig skadevirkninger for kunder, andre finansforetak og den finansielle stabiliteten. Har foretaket filial med vesentlig virksomhet i annen EØS-stat, skal Finanstilsynet konsultere tilsynsmyndigheten der.
 
@@ -2917,7 +3303,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-6. Krisetiltaksplan
 
-(1) Finanstilsynet skal for hvert foretak utarbeide en plan for hvilke krisetiltak Finanstilsynet kan sette i verk når vilkårene for krisehåndtering av foretaket etter [§ 20-15](lov/2015-04-10-17/§20-15) er oppfylt. Krisetiltaksplanen skal:ta høyde for ulike situasjoner som kan påvirke foretaket, herunder at en krise rammer foretaket alene eller større deler av finanssystemet,inneholde flere ulike modeller for bruk av krisetiltak overfor foretaket, og angi minstekravet til konvertibel gjeld etter [§ 20-9](lov/2015-04-10-17/§20-9),inneholde en analyse av foretakets muligheter for å benytte seg av sentralbankfasiliteter, og hvilke eiendeler som kan kvalifisere som sikkerhet,ikke legge til grunn statlig støtte eller kreditt fra sentralbanken på spesielle vilkår, ogoppdateres årlig og når det har skjedd endringer i foretaket som nødvendiggjør endringer i planen.
+(1) Finanstilsynet skal for hvert foretak utarbeide en plan for hvilke krisetiltak Finanstilsynet kan sette i verk når vilkårene for krisehåndtering av foretaket etter [§ 20-15](lov/2015-04-10-17/§20-15) er oppfylt. Krisetiltaksplanen skal:
+
+1. ta høyde for ulike situasjoner som kan påvirke foretaket, herunder at en krise rammer foretaket alene eller større deler av finanssystemet,
+2. inneholde flere ulike modeller for bruk av krisetiltak overfor foretaket, og angi minstekravet til konvertibel gjeld etter [§ 20-9](lov/2015-04-10-17/§20-9),
+3. inneholde en analyse av foretakets muligheter for å benytte seg av sentralbankfasiliteter, og hvilke eiendeler som kan kvalifisere som sikkerhet,
+4. ikke legge til grunn statlig støtte eller kreditt fra sentralbanken på spesielle vilkår, og
+5. oppdateres årlig og når det har skjedd endringer i foretaket som nødvendiggjør endringer i planen.
 
 (2) Ved utarbeidelsen av krisetiltaksplanen etter første ledd skal Finanstilsynet vurdere i hvilken utstrekning foretaket kan krisehåndteres etter [§ 20-15](lov/2015-04-10-17/§20-15) med minst mulig skadevirkninger for kunder, andre finansforetak og den finansielle stabiliteten, og med videreføring av kritiske funksjoner, eller om foretaket i stedet bør avvikles etter [§ 20-29](lov/2015-04-10-17/§20-29), dersom det skulle bli kriserammet. Har foretaket filial med vesentlig virksomhet i annen EØS-stat, skal Finanstilsynet konsultere krisehåndteringsmyndigheten der.
 
@@ -2937,7 +3329,20 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) Foretaket skal innen fire måneder etter at det har mottatt melding som nevnt i første ledd, oversende til Finanstilsynet forslag om avhjelpende tiltak. Foretaket skal likevel innen to uker foreslå en tidsplan for gjennomføring av tiltak som skal sikre at foretaket oppfyller minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9) og det samlede kapitalbufferkravet etter [§ 14-3](lov/2015-04-10-17/§14-3), når det fremgår av meldingen at en vesentlig hindring for krisehåndtering skyldes at foretaket ikke oppfyller disse kravene.
 
-(3) Dersom Finanstilsynet finner at de foreslåtte tiltakene ikke er tilstrekkelige til å redusere eller fjerne hindringene, kan Finanstilsynet gi foretaket pålegg om:å gjennomgå behovet for etablering eller endring av avtaler om konsernintern støtte etter [§ 20-8](lov/2015-04-10-17/§20-8), eller utarbeide tjenesteavtaler innad i konsernet eller med tredjeparter til dekning av foretakets kritiske funksjoner,å begrense maksimalgrenser for risikoeksponering eller enkelte typer av engasjementer,å oppfylle spesifikke eller faste informasjonskrav som er relevante for krisehåndtering,å avhende spesifikke eiendeler,å begrense eller avslutte eksisterende eller planlagt virksomhet,å begrense eller unnlate å utvikle nye eller eksisterende forretningsområder, eller salg av nye eller eksisterende produkter,å forenkle strukturen i foretaket eller konsernet for å sikre at kritiske funksjoner kan skilles ut juridisk og operasjonelt fra øvrig virksomhet for å sikre kontinuitet og digital operasjonell motstandsdyktighet,å etablere et holdingforetak,å utarbeide en plan for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9) og det samlede kapitalbufferkravet etter [§ 14-3](lov/2015-04-10-17/§14-3),å utstede konvertibel gjeld for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9),å treffe andre tiltak for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9), herunder reforhandling av avtalevilkår for eksisterende gjeld og kapitalinstrumenter med sikte på at de kan skrives ned eller konverteres etter [§§ 20-14](lov/2015-04-10-17/§20-14) og [20-24](lov/2015-04-10-17/§20-24), ogdersom foretaket er del av et blandet konsern, etablere et eget holdingforetak for foretaket hvis dette er nødvendig for å kunne krisehåndtere foretaket uten negative virkninger for konsernets øvrige virksomhet.
+(3) Dersom Finanstilsynet finner at de foreslåtte tiltakene ikke er tilstrekkelige til å redusere eller fjerne hindringene, kan Finanstilsynet gi foretaket pålegg om:
+
+1. å gjennomgå behovet for etablering eller endring av avtaler om konsernintern støtte etter [§ 20-8](lov/2015-04-10-17/§20-8), eller utarbeide tjenesteavtaler innad i konsernet eller med tredjeparter til dekning av foretakets kritiske funksjoner,
+2. å begrense maksimalgrenser for risikoeksponering eller enkelte typer av engasjementer,
+3. å oppfylle spesifikke eller faste informasjonskrav som er relevante for krisehåndtering,
+4. å avhende spesifikke eiendeler,
+5. å begrense eller avslutte eksisterende eller planlagt virksomhet,
+6. å begrense eller unnlate å utvikle nye eller eksisterende forretningsområder, eller salg av nye eller eksisterende produkter,
+7. å forenkle strukturen i foretaket eller konsernet for å sikre at kritiske funksjoner kan skilles ut juridisk og operasjonelt fra øvrig virksomhet for å sikre kontinuitet og digital operasjonell motstandsdyktighet,
+8. å etablere et holdingforetak,
+9. å utarbeide en plan for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9) og det samlede kapitalbufferkravet etter [§ 14-3](lov/2015-04-10-17/§14-3),
+10. å utstede konvertibel gjeld for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9),
+11. å treffe andre tiltak for å oppfylle minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9), herunder reforhandling av avtalevilkår for eksisterende gjeld og kapitalinstrumenter med sikte på at de kan skrives ned eller konverteres etter [§§ 20-14](lov/2015-04-10-17/§20-14) og [20-24](lov/2015-04-10-17/§20-24), og
+12. dersom foretaket er del av et blandet konsern, etablere et eget holdingforetak for foretaket hvis dette er nødvendig for å kunne krisehåndtere foretaket uten negative virkninger for konsernets øvrige virksomhet.
 
 (4) Foretak som har mottatt pålegg etter tredje ledd, skal innen én måned sende Finanstilsynet en plan for retting i henhold til pålegget.
 
@@ -2949,7 +3354,10 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-7. Forenklede krav til planer
 
-(1) Ved anvendelsen av reglene i [§§ 20-5](lov/2015-04-10-17/§20-5) og [20-6](lov/2015-04-10-17/§20-6) skal kravene til gjenopprettingsplaner og krisetiltaksplaner tilpasses:foretakets størrelse, risikoprofil, kompleksitet, eierstruktur, arten og omfanget av dets virksomhet, og i hvilken grad foretaket er sammenvevet med resten av finanssystemet, ogantatte virkninger av en krise i foretaket for andre foretak, den finansielle stabiliteten, markedsforhold og økonomien for øvrig.
+(1) Ved anvendelsen av reglene i [§§ 20-5](lov/2015-04-10-17/§20-5) og [20-6](lov/2015-04-10-17/§20-6) skal kravene til gjenopprettingsplaner og krisetiltaksplaner tilpasses:
+
+1. foretakets størrelse, risikoprofil, kompleksitet, eierstruktur, arten og omfanget av dets virksomhet, og i hvilken grad foretaket er sammenvevet med resten av finanssystemet, og
+2. antatte virkninger av en krise i foretaket for andre foretak, den finansielle stabiliteten, markedsforhold og økonomien for øvrig.
 
 (2) Finanstilsynet kan i samsvar med første ledd og for å begrense administrative kostnader fastsette forenklede krav til gjenopprettingsplaner og krisetiltaksplaner for enkeltforetak eller grupper av foretak.
 
@@ -2967,7 +3375,15 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Vedtak i et konsernforetak om å yte eller motta finansiell støtte i henhold til avtalen skal treffes av styret. Vedtaket skal begrunnes, angi formålet med støtten og bekrefte at vilkårene i sjette ledd er oppfylt. Før støtten ytes skal det foretaket som vil yte støtte, gi melding med relevante opplysninger til Finanstilsynet som innen fem arbeidsdager skal avgjøre om støtten skal godkjennes.
 
-(6) Konsernintern finansiell støtte kan bare ytes dersom:det er rimelige utsikter til at støtten i vesentlig grad vil avhjelpe de finansielle vanskelighetene det mottakende foretaket befinner seg i,støtten har til formål å opprettholde eller gjenopprette den finansielle stabiliteten i konsernet som helhet eller i et konsernforetak, og det er i det støtteytende foretakets interesse å gi støtte,støtten ytes på forretningsmessige vilkår og mot vederlag,det er rimelige utsikter til at vederlaget blir betalt og støtten tilbakebetalt,støtten ikke utgjør en trussel mot det støtteytende foretakets likviditet eller soliditet, eller mot den finansielle stabiliteten,det støtteytende foretaket oppfyller krav om kapital, likviditet og store engasjementer når støtten gis, og støtten ikke medfører at foretaket kommer i brudd med kravene, med mindre Finanstilsynet har gitt tillatelse til dette, ogstøtten vil ikke vanskeliggjøre en krisehåndtering av det støtteytende foretaket.
+(6) Konsernintern finansiell støtte kan bare ytes dersom:
+
+1. det er rimelige utsikter til at støtten i vesentlig grad vil avhjelpe de finansielle vanskelighetene det mottakende foretaket befinner seg i,
+2. støtten har til formål å opprettholde eller gjenopprette den finansielle stabiliteten i konsernet som helhet eller i et konsernforetak, og det er i det støtteytende foretakets interesse å gi støtte,
+3. støtten ytes på forretningsmessige vilkår og mot vederlag,
+4. det er rimelige utsikter til at vederlaget blir betalt og støtten tilbakebetalt,
+5. støtten ikke utgjør en trussel mot det støtteytende foretakets likviditet eller soliditet, eller mot den finansielle stabiliteten,
+6. det støtteytende foretaket oppfyller krav om kapital, likviditet og store engasjementer når støtten gis, og støtten ikke medfører at foretaket kommer i brudd med kravene, med mindre Finanstilsynet har gitt tillatelse til dette, og
+7. støtten vil ikke vanskeliggjøre en krisehåndtering av det støtteytende foretaket.
 
 (7) Et konsernforetak skal offentliggjøre opplysninger om det er eller ikke er part i avtale om konsernintern finansiell støtte, etter regler fastsatt i eller i medhold av [§ 14-5](lov/2015-04-10-17/§14-5).
 
@@ -2997,9 +3413,21 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) Finanstilsynet kan bestemme at foretaket ikke kan benytte mer enn et maksimalt disponeringsbeløp til å utbetale utbytte til aksjeeierne eller egenkapitalbeviseiere, bonus til ansatte eller rente på annen godkjent kjernekapital.
 
-(3) Etter at melding som nevnt i første ledd er mottatt, skal Finanstilsynet uten unødig opphold vurdere om det skal treffes vedtak om disponeringsbegrensning etter annet ledd. I vurderingen skal Finanstilsynet legge vekt påbakgrunnen for, varigheten av og graden av manglende oppfyllelse av kravene som nevnt i første ledd, og betydningen for krisehåndtering,foretakets økonomiske utvikling og sannsynligheten for at foretaket innen kort tid er eller ventes å bli kriserammet,om foretaket innen rimelig tid igjen vil kunne oppfylle kravene som nevnt i første ledd,om det er forhold ved foretaket spesielt som er grunnen til at foretaket eventuelt ikke kan erstatte konvertible gjeldsinstrumenter som ikke lenger oppfyller kravene etter [§ 20-25](lov/2015-04-10-17/§20-25), eller om det skyldes generelle markedsforhold, ogom vedtak om maksimalt disponeringsbeløp etter annet ledd er hensiktsmessig og forholdsmessig, herunder vedtakets konsekvenser for foretakets finansieringssituasjon og muligheten for å krisehåndtere foretaket.
+(3) Etter at melding som nevnt i første ledd er mottatt, skal Finanstilsynet uten unødig opphold vurdere om det skal treffes vedtak om disponeringsbegrensning etter annet ledd. I vurderingen skal Finanstilsynet legge vekt på
 
-(4) Finanstilsynet skal foreta vurdering som nevnt i tredje ledd hver måned så lenge foretaket oppfyller vilkårene i første ledd. Når det har gått ni måneder siden foretaket sendte melding til Finanstilsynet, og Finanstilsynet finner at foretaket fremdeles oppfyller vilkåret i første ledd, skal Finanstilsynet treffe vedtak etter annet ledd. Dette gjelder likevel ikke dersom Finanstilsynet finner at minst to av følgende kriterier er til stede:foretaket oppfyller vilkårene i første ledd på grunn av en alvorlig markedsforstyrrelse,den alvorlige markedsforstyrrelsen som nevnt i bokstav a, medfører ikke bare prissvingninger for foretakets kapitalinstrumenter og konvertible gjeldsinstrumenter eller økte kostnader for foretaket, men også helt eller delvis en markedssvikt som hindrer foretaket i å utstede kapitalinstrumenter eller konvertible gjeldsinstrumenter,markedsforstyrrelsen som nevnt i bokstav b forekommer for flere foretak enn det aktuelle foretaket,markedsforstyrrelsen som nevnt i bokstav a er til hinder for at foretaket kan utstede tilstrekkelige kapitalinstrumenter eller konvertible gjeldsinstrumenter til at det kan oppfylle kravene nevnt i første ledd, ellerbeslutning etter annet ledd vil negativt påvirke andre deler av banksektoren og utgjøre en fare for finansiell stabilitet.
+1. bakgrunnen for, varigheten av og graden av manglende oppfyllelse av kravene som nevnt i første ledd, og betydningen for krisehåndtering,
+2. foretakets økonomiske utvikling og sannsynligheten for at foretaket innen kort tid er eller ventes å bli kriserammet,
+3. om foretaket innen rimelig tid igjen vil kunne oppfylle kravene som nevnt i første ledd,
+4. om det er forhold ved foretaket spesielt som er grunnen til at foretaket eventuelt ikke kan erstatte konvertible gjeldsinstrumenter som ikke lenger oppfyller kravene etter [§ 20-25](lov/2015-04-10-17/§20-25), eller om det skyldes generelle markedsforhold, og
+5. om vedtak om maksimalt disponeringsbeløp etter annet ledd er hensiktsmessig og forholdsmessig, herunder vedtakets konsekvenser for foretakets finansieringssituasjon og muligheten for å krisehåndtere foretaket.
+
+(4) Finanstilsynet skal foreta vurdering som nevnt i tredje ledd hver måned så lenge foretaket oppfyller vilkårene i første ledd. Når det har gått ni måneder siden foretaket sendte melding til Finanstilsynet, og Finanstilsynet finner at foretaket fremdeles oppfyller vilkåret i første ledd, skal Finanstilsynet treffe vedtak etter annet ledd. Dette gjelder likevel ikke dersom Finanstilsynet finner at minst to av følgende kriterier er til stede:
+
+1. foretaket oppfyller vilkårene i første ledd på grunn av en alvorlig markedsforstyrrelse,
+2. den alvorlige markedsforstyrrelsen som nevnt i bokstav a, medfører ikke bare prissvingninger for foretakets kapitalinstrumenter og konvertible gjeldsinstrumenter eller økte kostnader for foretaket, men også helt eller delvis en markedssvikt som hindrer foretaket i å utstede kapitalinstrumenter eller konvertible gjeldsinstrumenter,
+3. markedsforstyrrelsen som nevnt i bokstav b forekommer for flere foretak enn det aktuelle foretaket,
+4. markedsforstyrrelsen som nevnt i bokstav a er til hinder for at foretaket kan utstede tilstrekkelige kapitalinstrumenter eller konvertible gjeldsinstrumenter til at det kan oppfylle kravene nevnt i første ledd, eller
+5. beslutning etter annet ledd vil negativt påvirke andre deler av banksektoren og utgjøre en fare for finansiell stabilitet.
 
 (5) Finanstilsynet skal vurdere om det skal treffes vedtak som nevnt i fjerde ledd annet og tredje punktum hver påfølgende måned.
 
@@ -3025,7 +3453,14 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-11. Brudd på lovfastsatte krav
 
-(1) Dersom et foretak ikke oppfyller krav fastsatt i eller i medhold av loven her, eller dersom hurtig forverring av foretakets økonomiske stilling gir grunn til å anta at det i nær fremtid ikke vil kunne oppfylle slike krav, skal foretaket gi melding om dette til Finanstilsynet. Når Finanstilsynet har mottatt slik melding, eller anser at vilkårene for meldeplikt er oppfylt, kan Finanstilsynet gi foretaket pålegg om:å iverksette eller oppdatere tiltak i gjenopprettingsplanen,å utarbeide en handlingsplan for tiltak som kan gjenopprette foretakets stilling,å innkalle generalforsamlingen med kortere frist enn fastsatt i vedtektene, for å få avgjort saker som Finanstilsynet krever å få behandlet, og etterkommes ikke pålegget, kan Finanstilsynet foreta innkalling,å utarbeide en plan for forhandlinger om restrukturering av foretakets gjeld,å fremlegge et statusoppgjør, som Finanstilsynet kan kreve at bekreftes av foretakets revisor eller sakkyndige, ogå engasjere uavhengige sakkyndige til å gjennomgå og vurdere foretakets situasjon, der Finanstilsynet kan gi nærmere regler om utførelsen av oppdraget.
+(1) Dersom et foretak ikke oppfyller krav fastsatt i eller i medhold av loven her, eller dersom hurtig forverring av foretakets økonomiske stilling gir grunn til å anta at det i nær fremtid ikke vil kunne oppfylle slike krav, skal foretaket gi melding om dette til Finanstilsynet. Når Finanstilsynet har mottatt slik melding, eller anser at vilkårene for meldeplikt er oppfylt, kan Finanstilsynet gi foretaket pålegg om:
+
+1. å iverksette eller oppdatere tiltak i gjenopprettingsplanen,
+2. å utarbeide en handlingsplan for tiltak som kan gjenopprette foretakets stilling,
+3. å innkalle generalforsamlingen med kortere frist enn fastsatt i vedtektene, for å få avgjort saker som Finanstilsynet krever å få behandlet, og etterkommes ikke pålegget, kan Finanstilsynet foreta innkalling,
+4. å utarbeide en plan for forhandlinger om restrukturering av foretakets gjeld,
+5. å fremlegge et statusoppgjør, som Finanstilsynet kan kreve at bekreftes av foretakets revisor eller sakkyndige, og
+6. å engasjere uavhengige sakkyndige til å gjennomgå og vurdere foretakets situasjon, der Finanstilsynet kan gi nærmere regler om utførelsen av oppdraget.
 
 (2) Bestemmelsene i første ledd gjelder også for morselskap i finanskonsern og i tilfelle foretak som inngår i konsernet. Før det gis pålegg, skal Finanstilsynet underrette konsernets tilsynsutvalg eller kriseutvalg. Tilsvarende gjelder dersom pålegg skal gis til norsk foretak som inngår i konsern med morselskap i annen EØS-stat.
 
@@ -3061,7 +3496,11 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-14. Nedskriving og konvertering av ansvarlig kapital
 
-(1) Dersom Finanstilsynet må anta at et foretak er eller må ventes i nær fremtid å bli kriserammet etter [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd, eller vil trenge statsgarantier som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd bokstav d, og det ikke er rimelig utsikt til at dette kan forhindres av annet tiltak enn nedskriving og konvertering av ansvarlig kapital etter paragrafen her, skal Finanstilsynet straks sørge for at det blir utarbeidet en verdivurdering av foretakets eiendeler og forpliktelser etter [§ 20-16](lov/2015-04-10-17/§20-16). Dersom departementet gir sitt samtykke til det, skal Finanstilsynet på grunnlag av verdivurderingen treffe vedtak om nedskriving og konvertering av ansvarlig kapital etter prioritetsreglene i [§ 20-32](lov/2015-04-10-17/§20-32). Dette skal gjennomføres slik:den rene kjernekapitalen skal først reduseres i den utstrekning som trengs for å dekke foretakets tap,annen godkjent kjernekapital, samt fondsobligasjonskapital som ikke teller med som godkjent kjernekapital, skal deretter nedskrives eller konverteres til ren kjernekapital i den utstrekning som trengs for å unngå at foretaket blir kriserammet eller så langt den rekker, oggodkjent tilleggskapital, samt ansvarlig lånekapital som ikke teller med som godkjent tilleggskapital, skal deretter nedskrives eller konverteres til ren kjernekapital i den utstrekning som trengs for å unngå at foretaket blir kriserammet eller så langt den rekker.
+(1) Dersom Finanstilsynet må anta at et foretak er eller må ventes i nær fremtid å bli kriserammet etter [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd, eller vil trenge statsgarantier som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) annet ledd bokstav d, og det ikke er rimelig utsikt til at dette kan forhindres av annet tiltak enn nedskriving og konvertering av ansvarlig kapital etter paragrafen her, skal Finanstilsynet straks sørge for at det blir utarbeidet en verdivurdering av foretakets eiendeler og forpliktelser etter [§ 20-16](lov/2015-04-10-17/§20-16). Dersom departementet gir sitt samtykke til det, skal Finanstilsynet på grunnlag av verdivurderingen treffe vedtak om nedskriving og konvertering av ansvarlig kapital etter prioritetsreglene i [§ 20-32](lov/2015-04-10-17/§20-32). Dette skal gjennomføres slik:
+
+1. den rene kjernekapitalen skal først reduseres i den utstrekning som trengs for å dekke foretakets tap,
+2. annen godkjent kjernekapital, samt fondsobligasjonskapital som ikke teller med som godkjent kjernekapital, skal deretter nedskrives eller konverteres til ren kjernekapital i den utstrekning som trengs for å unngå at foretaket blir kriserammet eller så langt den rekker, og
+3. godkjent tilleggskapital, samt ansvarlig lånekapital som ikke teller med som godkjent tilleggskapital, skal deretter nedskrives eller konverteres til ren kjernekapital i den utstrekning som trengs for å unngå at foretaket blir kriserammet eller så langt den rekker.
 
 (2) Vedtak etter første ledd skal tre i kraft straks og være bindende for foretaket og for de eierne av kapitalinstrumenter vedtaket angår. Finanstilsynet kan gjennomføre eller kreve gjennomført de administrative tiltak som trengs for å iverksette vedtaket, herunder endringer i oppføringer i registre og endringer i noteringer i regulerte markeder.
 
@@ -3087,11 +3526,30 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-15. Vedtak om krisehåndtering
 
-(1) Når departementet har mottatt melding fra Finanstilsynet etter [§ 20-13](lov/2015-04-10-17/§20-13) annet ledd, og det er utarbeidet en verdivurdering av foretakets eiendeler og forpliktelser etter [§ 20-16](lov/2015-04-10-17/§20-16), skal departementet treffe vedtak om å krisehåndtere et finansforetak som nevnt i [§ 20-1](lov/2015-04-10-17/§20-1), dersom:foretaket er eller må ventes å bli kriserammet, jf. annet ledd,det ikke er rimelig utsikt til at private tiltak eller tiltak etter [§§ 14-6](lov/2015-04-10-17/§14-6), [20-11](lov/2015-04-10-17/§20-11), [20-12](lov/2015-04-10-17/§20-12) eller [20-14](lov/2015-04-10-17/§20-14) kan forhindre at foretaket blir kriserammet, ogallmenne interesser tilsier at foretaket bør krisehåndteres.
+(1) Når departementet har mottatt melding fra Finanstilsynet etter [§ 20-13](lov/2015-04-10-17/§20-13) annet ledd, og det er utarbeidet en verdivurdering av foretakets eiendeler og forpliktelser etter [§ 20-16](lov/2015-04-10-17/§20-16), skal departementet treffe vedtak om å krisehåndtere et finansforetak som nevnt i [§ 20-1](lov/2015-04-10-17/§20-1), dersom:
 
-(2) Et foretak skal anses for å være eller ventes å bli kriserammet dersom det må antas:at vilkårene for tilbakekall av foretakets konsesjon er eller må ventes å bli oppfylt i nær fremtid, herunder som følge av at tap i foretaket helt eller delvis kan uttømme den ansvarlige kapitalen,at verdien av foretakets eiendeler er eller må ventes i nær fremtid å bli lavere enn verdien av dets forpliktelser,at foretaket er eller må ventes i nær fremtid å bli ute av stand til å betale gjeld og andre forpliktelser ved forfall, ellerat foretaket vil trenge statlig støtte for å kunne videreføre virksomheten, unntatt når følgende støtte gis for å motvirke alvorlige forstyrrelser i økonomien:statsgaranti for kreditt fra Norges Bank,statsgaranti for nye forpliktelser ellertilførsel av ansvarlig kapital til vanlige priser og vilkår til foretak som ikke står i fare for å bryte konsesjonskrav.
+1. foretaket er eller må ventes å bli kriserammet, jf. annet ledd,
+2. det ikke er rimelig utsikt til at private tiltak eller tiltak etter [§§ 14-6](lov/2015-04-10-17/§14-6), [20-11](lov/2015-04-10-17/§20-11), [20-12](lov/2015-04-10-17/§20-12) eller [20-14](lov/2015-04-10-17/§20-14) kan forhindre at foretaket blir kriserammet, og
+3. allmenne interesser tilsier at foretaket bør krisehåndteres.
 
-(3) Krisehåndtering av et foretak skal anses å tjene allmenne interesser når det er hensiktsmessig og nødvendig for:å sikre videreføring av kritiske funksjoner, det vil si virksomhet, tjenester eller transaksjoner som har stor betydning for økonomien og den finansielle stabiliteten,å unngå vesentlige negative virkninger i finanssystemet, særlig ved å unngå smittevirkninger,å beskytte offentlige midler ved å minimere behovet for statlige støttetiltak,å beskytte innskudd, ellerå beskytte klientmidler.
+(2) Et foretak skal anses for å være eller ventes å bli kriserammet dersom det må antas:
+
+1. at vilkårene for tilbakekall av foretakets konsesjon er eller må ventes å bli oppfylt i nær fremtid, herunder som følge av at tap i foretaket helt eller delvis kan uttømme den ansvarlige kapitalen,
+2. at verdien av foretakets eiendeler er eller må ventes i nær fremtid å bli lavere enn verdien av dets forpliktelser,
+3. at foretaket er eller må ventes i nær fremtid å bli ute av stand til å betale gjeld og andre forpliktelser ved forfall, eller
+4. at foretaket vil trenge statlig støtte for å kunne videreføre virksomheten, unntatt når følgende støtte gis for å motvirke alvorlige forstyrrelser i økonomien:
+
+   1. statsgaranti for kreditt fra Norges Bank,
+   2. statsgaranti for nye forpliktelser eller
+   3. tilførsel av ansvarlig kapital til vanlige priser og vilkår til foretak som ikke står i fare for å bryte konsesjonskrav.
+
+(3) Krisehåndtering av et foretak skal anses å tjene allmenne interesser når det er hensiktsmessig og nødvendig for:
+
+1. å sikre videreføring av kritiske funksjoner, det vil si virksomhet, tjenester eller transaksjoner som har stor betydning for økonomien og den finansielle stabiliteten,
+2. å unngå vesentlige negative virkninger i finanssystemet, særlig ved å unngå smittevirkninger,
+3. å beskytte offentlige midler ved å minimere behovet for statlige støttetiltak,
+4. å beskytte innskudd, eller
+5. å beskytte klientmidler.
 
 (4) Bestemmelsene i denne paragrafen gjelder tilsvarende for holdingforetak eller annet morselskap i finanskonsern, jf. [§ 20-13](lov/2015-04-10-17/§20-13) tredje ledd. Departementet kan treffe vedtak om at slike foretak skal krisehåndteres dersom vilkårene i første ledd er oppfylt både for morselskapet og for ett eller flere datterforetak som omfattes av [§ 20-1](lov/2015-04-10-17/§20-1) første ledd bokstav a. Dersom vilkårene i første ledd bare er oppfylt for ett eller flere datterforetak som omfattes av [§ 20-1](lov/2015-04-10-17/§20-1) første ledd bokstav a, og dette må antas å innebære at finanskonsernet i sin helhet er eller må ventes i nær fremtid å bli kriserammet, kan departementet treffe vedtak om at også morselskapet skal krisehåndteres. Treffer departementet vedtak om krisehåndtering av et morselskap, kan også øvrige finansforetak som inngår i konsernet, undergis krisehåndtering.
 
@@ -3127,7 +3585,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-18. Virkninger av vedtak om krisehåndtering
 
-(1) Når departementet har truffet vedtak om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15), inntrer følgende virkninger:myndigheten som tilligger foretakets styrende organer, overføres til Finanstilsynet, men styret kan likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt,medlemmene av styret og revisor skal gi Finanstilsynet og administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet,Finanstilsynet kan bestemme at foretaket helt eller delvis ikke kan ta imot innskudd og innlån, påta seg nye engasjementer eller øke tidligere engasjementer,Finanstilsynet kan bestemme at foretaket ikke kan foreta utbetaling til innskytere og andre kreditorer, ogFinanstilsynet kan bestemme at kreditorer med krav som er stiftet før vedtaket om krisehåndtering, ikke kan ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket.
+(1) Når departementet har truffet vedtak om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15), inntrer følgende virkninger:
+
+1. myndigheten som tilligger foretakets styrende organer, overføres til Finanstilsynet, men styret kan likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt,
+2. medlemmene av styret og revisor skal gi Finanstilsynet og administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet,
+3. Finanstilsynet kan bestemme at foretaket helt eller delvis ikke kan ta imot innskudd og innlån, påta seg nye engasjementer eller øke tidligere engasjementer,
+4. Finanstilsynet kan bestemme at foretaket ikke kan foreta utbetaling til innskytere og andre kreditorer, og
+5. Finanstilsynet kan bestemme at kreditorer med krav som er stiftet før vedtaket om krisehåndtering, ikke kan ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket.
 
 (2) Finanstilsynet kan innkalle foretakets fordringshavere ved preklusivt proklama. Proklamaet kan ikke omfatte bankinnskudd eller skattekrav. Finanstilsynet fastsetter proklamafristen og kunngjøringsmåten. Fristen avbrytes ved melding av krav til Finanstilsynet.
 
@@ -3135,7 +3599,12 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-19. Valg av krisetiltak
 
-(1) Når departementet har truffet vedtak om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15), kan Finanstilsynet treffe vedtak om bruk av følgende krisetiltak:overdragelse av hele eller deler av virksomheten til et annet foretak etter [§ 20-21](lov/2015-04-10-17/§20-21),overdragelse av hele eller deler av virksomheten til et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22),overdragelse av eiendeler og forpliktelser til et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23), ogintern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26).
+(1) Når departementet har truffet vedtak om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15), kan Finanstilsynet treffe vedtak om bruk av følgende krisetiltak:
+
+1. overdragelse av hele eller deler av virksomheten til et annet foretak etter [§ 20-21](lov/2015-04-10-17/§20-21),
+2. overdragelse av hele eller deler av virksomheten til et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22),
+3. overdragelse av eiendeler og forpliktelser til et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23), og
+4. intern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26).
 
 (2) Tiltak nevnt i første ledd kan brukes enkeltvis eller i kombinasjon, likevel slik at tiltak som nevnt i første ledd bokstav c bare kan brukes sammen med andre tiltak. Er bare en del av foretakets virksomhet overdratt til et annet foretak eller til et broforetak, skal den gjenværende virksomheten avvikles etter [§§ 20-29](lov/2015-04-10-17/§20-29) til [20-32](lov/2015-04-10-17/§20-32), med mindre gjenværende eiendeler eller forpliktelser skal overdras til et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23).
 
@@ -3149,11 +3618,24 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-20. Nærmere regler om bruk av krisetiltak
 
-(1) Ved bruk av krisetiltak skal Finanstilsynet sørge for:at tapet bæres først av foretakets eiere,at foretakets kreditorer deretter bærer tap i samsvar med prioritetsrekkefølgen ved konkurs, med mindre annet er særskilt fastsatt i kapitlet her,at kreditorer innenfor samme gruppe så langt det er mulig behandles likt,at ingen kreditor blir påført større tap enn ved en avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29),at garanterte innskudd beskyttes fullt ut,at reglene i [§§ 20-23](lov/2015-04-10-17/§20-23) til [20-26](lov/2015-04-10-17/§20-26) blir fulgt, ogat representanter for de ansatte så langt det er mulig underrettes og tas med på råd.
+(1) Ved bruk av krisetiltak skal Finanstilsynet sørge for:
+
+1. at tapet bæres først av foretakets eiere,
+2. at foretakets kreditorer deretter bærer tap i samsvar med prioritetsrekkefølgen ved konkurs, med mindre annet er særskilt fastsatt i kapitlet her,
+3. at kreditorer innenfor samme gruppe så langt det er mulig behandles likt,
+4. at ingen kreditor blir påført større tap enn ved en avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29),
+5. at garanterte innskudd beskyttes fullt ut,
+6. at reglene i [§§ 20-23](lov/2015-04-10-17/§20-23) til [20-26](lov/2015-04-10-17/§20-26) blir fulgt, og
+7. at representanter for de ansatte så langt det er mulig underrettes og tas med på råd.
 
 (2) Ved krisetiltak som medfører sammenslåing, deling eller omdanning av foretaket eller virksomhet i foretaket, gjelder ikke [§§ 12-1](lov/2015-04-10-17/§12-1) til [12-7](lov/2015-04-10-17/§12-7), [§§ 12-13](lov/2015-04-10-17/§12-13) til [12-18](lov/2015-04-10-17/§12-18) og reglene om fusjon og fisjon i aksjelovgivningen. Erverv av aksjer eller egenkapitalbevis som følge av krisetiltak gir ikke tilbudsplikt etter [verdipapirhandelloven kapittel 6](lov/2007-06-29-75/kap6). Reglene i [dekningsloven kapittel 5](lov/1984-06-08-59/kap5) om omstøtelse av disposisjoner som er til skade for et foretaks kreditorer, gjelder ikke overdragelse av virksomhet, eiendeler eller forpliktelser som følge av krisetiltak.
 
-(3) Ved overdragelse til annet foretak, broforetak eller forvaltningsforetak etter [§§ 20-21](lov/2015-04-10-17/§20-21) til [20-23](lov/2015-04-10-17/§20-23) gjelder følgende:overdragelsen kan foretas uten samtykke fra foretakets eiere, kreditorer og tredjeparter, og uten at formelle krav etter kontrakt eller i selskaps- eller verdipapirlovgivningen blir overholdt,foretakets eiere, kreditorer og tredjeparter skal ikke ha noen rettigheter knyttet til de eiendeler og forpliktelser som er overdratt,vederlag fra kjøperen tilfaller de opprinnelige eierne dersom overdragelse skjer ved salg av aksjer eller egenkapitalbevis utstedt av foretaket, og foretaket dersom overdragelse skjer ved salg av eiendeler og forpliktelser, ogFinanstilsynet kan beslutte å tilbakeføre overdratte eiendeler og forpliktelser til foretaket, og overdratte aksjer eller egenkapitalbevis til de opprinnelige eierne, dersom det ved overdragelse til et broforetak eller et forvaltningsforetak ble tatt forbehold om dette. Er kjøperen et annet foretak, må det ha gitt sitt samtykke til tilbakeføringen. Er kjøperen et broforetak, må det ha søkt om tilbakeføring.
+(3) Ved overdragelse til annet foretak, broforetak eller forvaltningsforetak etter [§§ 20-21](lov/2015-04-10-17/§20-21) til [20-23](lov/2015-04-10-17/§20-23) gjelder følgende:
+
+1. overdragelsen kan foretas uten samtykke fra foretakets eiere, kreditorer og tredjeparter, og uten at formelle krav etter kontrakt eller i selskaps- eller verdipapirlovgivningen blir overholdt,
+2. foretakets eiere, kreditorer og tredjeparter skal ikke ha noen rettigheter knyttet til de eiendeler og forpliktelser som er overdratt,
+3. vederlag fra kjøperen tilfaller de opprinnelige eierne dersom overdragelse skjer ved salg av aksjer eller egenkapitalbevis utstedt av foretaket, og foretaket dersom overdragelse skjer ved salg av eiendeler og forpliktelser, og
+4. Finanstilsynet kan beslutte å tilbakeføre overdratte eiendeler og forpliktelser til foretaket, og overdratte aksjer eller egenkapitalbevis til de opprinnelige eierne, dersom det ved overdragelse til et broforetak eller et forvaltningsforetak ble tatt forbehold om dette. Er kjøperen et annet foretak, må det ha gitt sitt samtykke til tilbakeføringen. Er kjøperen et broforetak, må det ha søkt om tilbakeføring.
 
 (4) Ved overdragelse til annet foretak eller broforetak etter [§§ 20-21](lov/2015-04-10-17/§20-21) og [20-22](lov/2015-04-10-17/§20-22) skal kjøperen etter overdragelsen ha adgang til å tilby tjenester i annen EØS-stat i henhold til foretakets konsesjon. Dersom kjøperen oppfyller medlemskaps- og deltakervilkårene, skal kjøperen også kunne overta foretakets medlemskap i og tilgang til betalings- og verdipapiroppgjørssystemer, regulerte markeder og ordninger for innskuddsgaranti og investorbeskyttelse. Dersom kjøperen ikke oppfyller slike vilkår, kan Finanstilsynet fastsette at kjøperen likevel skal ha rett til medlemskap og tilgang for en periode på inntil 24 måneder, med mulighet for forlengelse etter søknad.
 
@@ -3175,11 +3657,21 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) Verdien av overførte forpliktelser fra foretaket til broforetaket skal ikke overstige summen av verdien av overførte eiendeler fra foretaket og tilskudd fra andre kilder.
 
-(3) Broforetaket skal være helt eller delvis eid av staten, og være etablert for:å overta virksomhet eller eiendeler og forpliktelser fra ett eller flere foretak under krisehåndtering,å opprettholde tilgang til kritiske funksjoner som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd bokstav a, ogå legge til rette for salg av overtatt virksomhet eller eiendeler og forpliktelser til private kjøpere når markedsforholdene tillater det, og innen en frist på to år etter at det sist ble foretatt en overdragelse til broforetaket, med mindre Finanstilsynet forlenger fristen med ett eller flere år.
+(3) Broforetaket skal være helt eller delvis eid av staten, og være etablert for:
+
+1. å overta virksomhet eller eiendeler og forpliktelser fra ett eller flere foretak under krisehåndtering,
+2. å opprettholde tilgang til kritiske funksjoner som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd bokstav a, og
+3. å legge til rette for salg av overtatt virksomhet eller eiendeler og forpliktelser til private kjøpere når markedsforholdene tillater det, og innen en frist på to år etter at det sist ble foretatt en overdragelse til broforetaket, med mindre Finanstilsynet forlenger fristen med ett eller flere år.
 
 (4) Finanstilsynet skal godkjenne broforetakets vedtekter, styret, godtgjørelsen til styret, styrets arbeidsoppgaver og broforetakets forretningsstrategi og risikoprofil. Finanstilsynet kan fastsette nærmere regler for virksomheten. Broforetaket skal ha tillatelse etter reglene i [kapittel 2](lov/2015-04-10-17/kap2), og være undergitt tilsyn etter finanstilsynsloven. Dersom særlige hensyn tilsier det, kan slik tillatelse gis selv om ikke alle vilkårene for tillatelse er oppfylt, forutsatt at det gis en frist for oppfyllelsen. Broforetakets virksomhet skal drives uten ansvar overfor eierne og kreditorene i foretaket som er under krisehåndtering.
 
-(5) Finanstilsynet skal treffe vedtak om at et broforetak ikke kan fortsette sin virksomhet dersom:broforetaket blir slått sammen med et annet foretak etter [§§ 12-1](lov/2015-04-10-17/§12-1) til [12-7](lov/2015-04-10-17/§12-7),broforetaket ikke lenger oppfyller vilkår i paragrafen her,det meste av broforetakets eiendeler og forpliktelser er overdratt til én eller flere private parter,fristen nevnt i tredje ledd bokstav c, eventuelt med forlengelse, er utløpt, ellerbroforetakets eiendeler er avviklet og dets forpliktelser er oppfylt.
+(5) Finanstilsynet skal treffe vedtak om at et broforetak ikke kan fortsette sin virksomhet dersom:
+
+1. broforetaket blir slått sammen med et annet foretak etter [§§ 12-1](lov/2015-04-10-17/§12-1) til [12-7](lov/2015-04-10-17/§12-7),
+2. broforetaket ikke lenger oppfyller vilkår i paragrafen her,
+3. det meste av broforetakets eiendeler og forpliktelser er overdratt til én eller flere private parter,
+4. fristen nevnt i tredje ledd bokstav c, eventuelt med forlengelse, er utløpt, eller
+5. broforetakets eiendeler er avviklet og dets forpliktelser er oppfylt.
 
 (6) Finanstilsynet kan etter søknad fra broforetaket beslutte å overføre overdratte aksjer eller egenkapitalbevis, eiendeler og forpliktelser til en tredjepart.
 
@@ -3193,11 +3685,18 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (1) Finanstilsynet kan beslutte at eiendeler og forpliktelser i et foretak under krisehåndtering eller i et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) skal overføres til ett eller flere forvaltningsforetak etter paragrafen her.
 
-(2) Finanstilsynet kan treffe vedtak etter første ledd dersom:avvikling av virksomheten etter [§ 20-29](lov/2015-04-10-17/§20-29) kan få negative virkninger for ett eller flere finansmarkeder,overdragelsen er nødvendig av hensyn til foretakets eller broforetakets virkemåte, elleroverdragelsen er nødvendig for å oppnå best mulig avviklingsresultat.
+(2) Finanstilsynet kan treffe vedtak etter første ledd dersom:
+
+1. avvikling av virksomheten etter [§ 20-29](lov/2015-04-10-17/§20-29) kan få negative virkninger for ett eller flere finansmarkeder,
+2. overdragelsen er nødvendig av hensyn til foretakets eller broforetakets virkemåte, eller
+3. overdragelsen er nødvendig for å oppnå best mulig avviklingsresultat.
 
 (3) Finanstilsynet skal fastsette vederlaget for overdragelsen i størst mulig grad i samsvar med verdivurderingen etter [§ 20-16](lov/2015-04-10-17/§20-16), og i henhold til de alminnelige reglene om statsstøtte. Vederlaget kan ha negativ verdi. Vederlaget kan gis i form av gjeld utstedt av forvaltningsforetaket.
 
-(4) Et forvaltningsforetak skal være helt eller delvis eid av staten, og være etablert for:å overta eiendeler og forpliktelser fra ett eller flere foretak under krisehåndtering, ogå forvalte overtatte eiendeler med sikte på å oppnå best mulig resultat ved senere salg eller avvikling.
+(4) Et forvaltningsforetak skal være helt eller delvis eid av staten, og være etablert for:
+
+1. å overta eiendeler og forpliktelser fra ett eller flere foretak under krisehåndtering, og
+2. å forvalte overtatte eiendeler med sikte på å oppnå best mulig resultat ved senere salg eller avvikling.
 
 (5) Finanstilsynet skal godkjenne forvaltningsforetakets vedtekter, styret, godtgjørelsen til styret, styrets arbeidsoppgaver og forvaltningsforetakets forretningsstrategi og risikoprofil. Finanstilsynet kan fastsette nærmere regler for virksomheten. Forvaltningsforetakets virksomhet skal drives uten ansvar overfor eierne og kreditorene i foretaket som er under krisehåndtering.
 
@@ -3205,7 +3704,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-24. Intern oppkapitalisering
 
-(1) Finanstilsynet kan beslutte at det skal gjennomføres en intern oppkapitalisering ved nedskriving og konvertering av et foretaks gjeld til egenkapital etter reglene i [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26) for:å oppkapitalisere et foretak slik at det kan oppfylle konsesjonsvilkårene, videreføre virksomheten i henhold til konsesjonen, og opprettholde tillit i markedene, ellerå konvertere til egenkapital eller redusere hovedstolen på gjeld som overdras tilet broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) med sikte på å skaffe kapital til broforetaket, eller tilet annet foretak etter [§ 20-21](lov/2015-04-10-17/§20-21) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23).
+(1) Finanstilsynet kan beslutte at det skal gjennomføres en intern oppkapitalisering ved nedskriving og konvertering av et foretaks gjeld til egenkapital etter reglene i [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26) for:
+
+1. å oppkapitalisere et foretak slik at det kan oppfylle konsesjonsvilkårene, videreføre virksomheten i henhold til konsesjonen, og opprettholde tillit i markedene, eller
+2. å konvertere til egenkapital eller redusere hovedstolen på gjeld som overdras til
+
+   1. et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) med sikte på å skaffe kapital til broforetaket, eller til
+   2. et annet foretak etter [§ 20-21](lov/2015-04-10-17/§20-21) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23).
 
 (2) Intern oppkapitalisering kan bare brukes som nevnt i første ledd bokstav a når det er rimelig utsikt til at oppkapitaliseringen, sammen med tiltak i en omorganiseringsplan etter [§ 20-27](lov/2015-04-10-17/§20-27) og andre relevante tiltak, vil gjenopprette foretakets finansielle stilling og bærekraft. Er ikke dette tilfellet, kan intern oppkapitalisering brukes som nevnt i første ledd bokstav b.
 
@@ -3215,13 +3720,32 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-25. Konvertibel gjeld
 
-(1) En intern oppkapitalisering skal omfatte all gjeld som ikke inngår i foretakets ansvarlige kapital, og som ikke er:garanterte innskudd,sikret gjeld, herunder obligasjoner med fortrinnsrett, men ikke den delen av den sikrede gjelden som overstiger verdien av sikkerhetsretten,gjeld som har oppstått fra forvaltning av kundemidler, herunder midler forvaltet på vegne av verdipapirfond som nevnt i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 4 og alternative investeringsfond som nevnt i [lov om forvaltning av alternative investeringsfond § 1-2](lov/2014-06-20-28/§1-2) første ledd bokstav a, forutsatt at kunden vil være beskyttet ved en avvikling av foretaket,gjeld som har oppstått fra forvaltning av betrodde midler, forutsatt at mottakeren vil være beskyttet ved en avvikling av foretaket,gjeld til annet foretak som ikke inngår i samme konsern, og som har en opprinnelig løpetid på mindre enn syv dager,gjeld forbundet med deltakelse i systemer etter [betalingssystemloven](lov/1999-12-17-95), herunder gjeld til operatører eller andre deltagere, som har en gjenværende løpetid på mindre enn syv dager, samt gjeld til sentrale motparter med tillatelse eller anerkjennelse etter bestemmelser gitt i medhold av [verdipapirhandelloven § 17-1](lov/2007-06-29-75/§17-1),gjeld til foretak som nevnt [§ 20-1](lov/2015-04-10-17/§20-1) første ledd og som er i samme krisehåndteringskonsern, men som ikke selv er krisehåndteringsenhet, bortsett fra etterstilte gjeldsinstrumenter etter [§ 20-32](lov/2015-04-10-17/§20-32) første ledd nr. 4, ellergjeld til:ansatte i form av opptjent lønn, pensjonsytelser og annet fastsatt vederlag, unntatt variabel godtgjørelse til ansatte med arbeidsoppgaver med betydning for foretakets risikoeksponering og variabel godtgjørelse som ikke er regulert ved kollektivavtale,leverandører av varer og tjenester som foretaket trenger til den daglige driften, herunder IT-tjenester, offentlige tjenester og leie, forvaltning og vedlikehold av lokaler,myndighetene i form av skatt eller trygdebidrag, forutsatt at gjelden har fortrinnsrett, ellerinnskuddsgarantiordningen eller krisetiltaksfondet i form av forfalte bidragskrav etter [§§ 19-10](lov/2015-04-10-17/§19-10) eller [20-51](lov/2015-04-10-17/§20-51).
+(1) En intern oppkapitalisering skal omfatte all gjeld som ikke inngår i foretakets ansvarlige kapital, og som ikke er:
+
+1. garanterte innskudd,
+2. sikret gjeld, herunder obligasjoner med fortrinnsrett, men ikke den delen av den sikrede gjelden som overstiger verdien av sikkerhetsretten,
+3. gjeld som har oppstått fra forvaltning av kundemidler, herunder midler forvaltet på vegne av verdipapirfond som nevnt i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 4 og alternative investeringsfond som nevnt i [lov om forvaltning av alternative investeringsfond § 1-2](lov/2014-06-20-28/§1-2) første ledd bokstav a, forutsatt at kunden vil være beskyttet ved en avvikling av foretaket,
+4. gjeld som har oppstått fra forvaltning av betrodde midler, forutsatt at mottakeren vil være beskyttet ved en avvikling av foretaket,
+5. gjeld til annet foretak som ikke inngår i samme konsern, og som har en opprinnelig løpetid på mindre enn syv dager,
+6. gjeld forbundet med deltakelse i systemer etter [betalingssystemloven](lov/1999-12-17-95), herunder gjeld til operatører eller andre deltagere, som har en gjenværende løpetid på mindre enn syv dager, samt gjeld til sentrale motparter med tillatelse eller anerkjennelse etter bestemmelser gitt i medhold av [verdipapirhandelloven § 17-1](lov/2007-06-29-75/§17-1),
+7. gjeld til foretak som nevnt [§ 20-1](lov/2015-04-10-17/§20-1) første ledd og som er i samme krisehåndteringskonsern, men som ikke selv er krisehåndteringsenhet, bortsett fra etterstilte gjeldsinstrumenter etter [§ 20-32](lov/2015-04-10-17/§20-32) første ledd nr. 4, eller
+8. gjeld til:
+
+   1. ansatte i form av opptjent lønn, pensjonsytelser og annet fastsatt vederlag, unntatt variabel godtgjørelse til ansatte med arbeidsoppgaver med betydning for foretakets risikoeksponering og variabel godtgjørelse som ikke er regulert ved kollektivavtale,
+   2. leverandører av varer og tjenester som foretaket trenger til den daglige driften, herunder IT-tjenester, offentlige tjenester og leie, forvaltning og vedlikehold av lokaler,
+   3. myndighetene i form av skatt eller trygdebidrag, forutsatt at gjelden har fortrinnsrett, eller
+   4. innskuddsgarantiordningen eller krisetiltaksfondet i form av forfalte bidragskrav etter [§§ 19-10](lov/2015-04-10-17/§19-10) eller [20-51](lov/2015-04-10-17/§20-51).
 
 (2) Konvertibel gjeld som skal dekke minstekravet etter [§ 20-9](lov/2015-04-10-17/§20-9) første ledd, må tilfredsstille nærmere vilkår fastsatt av departementet i forskrift.
 
 (3) Gjeld som har oppstått fra derivatavtale, skal omfattes av intern oppkapitalisering ved eller etter oppgjør av derivatavtalen. Finanstilsynet kan gjøre opp derivatavtaler når det er besluttet å gjennomføre en intern oppkapitalisering. Finanstilsynet har ikke plikt til å gjøre opp derivatavtaler som det er gjort unntak for etter fjerde ledd. Verdien av derivatkontrakter, herunder motregningsavtaler, fastsettes etter regler gitt i eller i medhold av [§ 20-16](lov/2015-04-10-17/§20-16).
 
-(4) Finanstilsynet kan i særlige tilfeller gjøre helt eller delvis unntak fra intern oppkapitalisering for bestemte deler av foretakets gjeld, dersom:det ikke er mulig å skrive ned eller konvertere gjelden innen rimelig tid,det er nødvendig og rimelig for å opprettholde kritiske funksjoner som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd bokstav a, kjernevirksomhet og sentrale tjenester og transaksjoner,det er nødvendig og rimelig for å unngå smittevirkninger, særlig knyttet til kundeinnskudd, som kan gi alvorlige forstyrrelser i finanssystemet og økonomien, ellerdet er nødvendig og rimelig for å forhindre et verditap som ville gitt andre kreditorer et større tap enn når gjelden blir unntatt.
+(4) Finanstilsynet kan i særlige tilfeller gjøre helt eller delvis unntak fra intern oppkapitalisering for bestemte deler av foretakets gjeld, dersom:
+
+1. det ikke er mulig å skrive ned eller konvertere gjelden innen rimelig tid,
+2. det er nødvendig og rimelig for å opprettholde kritiske funksjoner som nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd bokstav a, kjernevirksomhet og sentrale tjenester og transaksjoner,
+3. det er nødvendig og rimelig for å unngå smittevirkninger, særlig knyttet til kundeinnskudd, som kan gi alvorlige forstyrrelser i finanssystemet og økonomien, eller
+4. det er nødvendig og rimelig for å forhindre et verditap som ville gitt andre kreditorer et større tap enn når gjelden blir unntatt.
 
 (5) Dersom Finanstilsynet har gjort helt eller delvis unntak etter fjerde ledd, kan omfanget av nedskriving og konvertering av annen konvertibel gjeld økes tilsvarende så lenge dette ikke vil være i strid med [§ 20-20 første ledd bokstav d](lov/2015-04-10-17/§20-20/ledd/1/bokstav/d). Dersom tapet som skulle ha vært dekket av den unntatte gjelden ikke har blitt inndekket fullt ut av annen konvertibel gjeld, kan Finanstilsynet beslutte at det skal ytes et bidrag fra krisetiltaksfondet etter [§ 20-52](lov/2015-04-10-17/§20-52) tredje ledd.
 
@@ -3229,7 +3753,10 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-25 a. Ansvarlig kapital og konvertibel gjeld for datterforetak
 
-(1) Minstekrav for datterforetak etter [§ 20-9](lov/2015-04-10-17/§20-9) annet ledd, kan dekkes av ren kjernekapital. Slike minstekrav kan også dekkes av annen godkjent kjernekapital og tilleggskapital som er utstedt til og ervervet avforetak som er en del av samme krisehåndteringskonsern ellerforetak som ikke er en del av samme krisehåndteringskonsern, forutsatt at intern oppkapitalisering ikke vil påvirke krisehåndteringsenhetens kontroll over datterforetaket.
+(1) Minstekrav for datterforetak etter [§ 20-9](lov/2015-04-10-17/§20-9) annet ledd, kan dekkes av ren kjernekapital. Slike minstekrav kan også dekkes av annen godkjent kjernekapital og tilleggskapital som er utstedt til og ervervet av
+
+1. foretak som er en del av samme krisehåndteringskonsern eller
+2. foretak som ikke er en del av samme krisehåndteringskonsern, forutsatt at intern oppkapitalisering ikke vil påvirke krisehåndteringsenhetens kontroll over datterforetaket.
 
 (2) Minstekrav for datterforetak etter [§ 20-9](lov/2015-04-10-17/§20-9) annet ledd, kan også dekkes av gjeld som tilfredsstiller nærmere vilkår fastsatt av departementet i forskrift.
 
@@ -3239,11 +3766,17 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-26. Gjennomføring av intern oppkapitalisering
 
-(1) Når det er besluttet å gjennomføre en intern oppkapitalisering, skal Finanstilsynet på grunnlag av verdivurderingen etter [§ 20-16](lov/2015-04-10-17/§20-16) fastsette hvor mye av den konvertible gjelden som samlet må:nedskrives for at foretakets nettoverdi skal bli null, ogkonverteres til ren kjernekapital for at foretaket eller broforetaket skal oppfylle kapitalkrav og opprettholde tillit i markedene, og i minst ett år kunne oppfylle konsesjonsvilkårene og videreføre virksomheten i henhold til konsesjonen.
+(1) Når det er besluttet å gjennomføre en intern oppkapitalisering, skal Finanstilsynet på grunnlag av verdivurderingen etter [§ 20-16](lov/2015-04-10-17/§20-16) fastsette hvor mye av den konvertible gjelden som samlet må:
+
+1. nedskrives for at foretakets nettoverdi skal bli null, og
+2. konverteres til ren kjernekapital for at foretaket eller broforetaket skal oppfylle kapitalkrav og opprettholde tillit i markedene, og i minst ett år kunne oppfylle konsesjonsvilkårene og videreføre virksomheten i henhold til konsesjonen.
 
 (2) Ved fastsettelsen etter første ledd kan Finanstilsynet ta hensyn til et eventuelt bidrag fra krisetiltaksfondet til broforetaket etter [§ 20-52](lov/2015-04-10-17/§20-52) første ledd bokstav d. Dersom Finanstilsynet beslutter å overdra eiendeler og forpliktelser til et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23), skal det ved fastsettelsen etter første ledd tas hensyn til forvaltningsforetakets kapitalbehov.
 
-(3) Etter at den ansvarlige kapitalen er nedskrevet og konvertert etter [§ 20-14](lov/2015-04-10-17/§20-14) første ledd, skal Finanstilsynet gjennomføre en intern oppkapitalisering av et omfang som fastsatt etter første ledd, slik at:konvertibel gjeld som etter [§ 20-9](lov/2015-04-10-17/§20-9) tredje ledd har lavere prioritet enn annen konvertibel gjeld, nedskrives eller konverteres til ren kjernekapital i samsvar med gjeldens innbyrdes prioritet ved avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29), i den utstrekning som trengs for å dekke behovet fastsatt etter første ledd, eller så langt den rekker, ogannen konvertibel gjeld deretter nedskrives eller konverteres til ren kjernekapital i samsvar med gjeldens innbyrdes prioritet ved avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29), i den utstrekning som trengs for å dekke behovet fastsatt etter første ledd, eller så langt den rekker.
+(3) Etter at den ansvarlige kapitalen er nedskrevet og konvertert etter [§ 20-14](lov/2015-04-10-17/§20-14) første ledd, skal Finanstilsynet gjennomføre en intern oppkapitalisering av et omfang som fastsatt etter første ledd, slik at:
+
+1. konvertibel gjeld som etter [§ 20-9](lov/2015-04-10-17/§20-9) tredje ledd har lavere prioritet enn annen konvertibel gjeld, nedskrives eller konverteres til ren kjernekapital i samsvar med gjeldens innbyrdes prioritet ved avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29), i den utstrekning som trengs for å dekke behovet fastsatt etter første ledd, eller så langt den rekker, og
+2. annen konvertibel gjeld deretter nedskrives eller konverteres til ren kjernekapital i samsvar med gjeldens innbyrdes prioritet ved avvikling etter [§ 20-29](lov/2015-04-10-17/§20-29), i den utstrekning som trengs for å dekke behovet fastsatt etter første ledd, eller så langt den rekker.
 
 (4) Kapital- og gjeldsinstrumenter som nevnt i [§ 20-14](lov/2015-04-10-17/§20-14) første ledd bokstav b og c og paragrafen her tredje ledd bokstav a, skal være nedskrevet eller konvertert fullt ut i samsvar med eventuelle avtalevilkår om nedskriving eller konvertering knyttet til foretakets situasjon, soliditet eller ansvarlige kapital, før det foretas nedskriving eller konvertering etter tredje ledd bokstav b.
 
@@ -3271,9 +3804,22 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-28. Statlige tiltak
 
-(1) Ved alvorlige forstyrrelser i finanssystemet kan departementet treffe vedtak om statlige støttetiltak dersom:departementet har truffet vedtak etter [§ 20-15](lov/2015-04-10-17/§20-15) om at foretaket skal krisehåndteres,eierne av ansvarlig kapital og konvertibel gjeld har ved nedskriving og konvertering bidratt til å dekke tap og oppkapitalisere foretaket med et beløp som tilsvarer minst åtte prosent av forvaltningskapitalen, beregnet etter reglene i [§ 20-16](lov/2015-04-10-17/§20-16),det statlige tiltaket er egnet til å ivareta formålene nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd,det statlige tiltaket er godkjent i henhold til de alminnelige reglene om statsstøtte, ogdepartementet har, etter samråd med Finanstilsynet og Norges Bank, kommet til at krisetiltakene som nevnt i [§ 20-19](lov/2015-04-10-17/§20-19) ikke vil være tilstrekkelige til:å unngå vesentlige negative virkninger for finanssystemet,å ivareta allmenne interesser når foretaket tidligere har mottatt ekstraordinær kreditt fra Norges Bank, ellernår det gjelder tiltak i form av midlertidig statlig eierskap, å ivareta allmenne interesser når foretaket tidligere har mottatt statlig støtte i form av tilførsel av ansvarlig kapital.
+(1) Ved alvorlige forstyrrelser i finanssystemet kan departementet treffe vedtak om statlige støttetiltak dersom:
 
-(2) Departementet kan treffe vedtak etter første ledd for:å delta i oppkapitaliseringen av foretaket ved tilførsel av ren kjernekapital, annen godkjent kjernekapital og godkjent tilleggskapital, ellererverve eierskap til foretaket eller dets virksomhet, og overføre eierskapet til en offentlig myndighet eller et statseid foretak.
+1. departementet har truffet vedtak etter [§ 20-15](lov/2015-04-10-17/§20-15) om at foretaket skal krisehåndteres,
+2. eierne av ansvarlig kapital og konvertibel gjeld har ved nedskriving og konvertering bidratt til å dekke tap og oppkapitalisere foretaket med et beløp som tilsvarer minst åtte prosent av forvaltningskapitalen, beregnet etter reglene i [§ 20-16](lov/2015-04-10-17/§20-16),
+3. det statlige tiltaket er egnet til å ivareta formålene nevnt i [§ 20-15](lov/2015-04-10-17/§20-15) tredje ledd,
+4. det statlige tiltaket er godkjent i henhold til de alminnelige reglene om statsstøtte, og
+5. departementet har, etter samråd med Finanstilsynet og Norges Bank, kommet til at krisetiltakene som nevnt i [§ 20-19](lov/2015-04-10-17/§20-19) ikke vil være tilstrekkelige til:
+
+   1. å unngå vesentlige negative virkninger for finanssystemet,
+   2. å ivareta allmenne interesser når foretaket tidligere har mottatt ekstraordinær kreditt fra Norges Bank, eller
+   3. når det gjelder tiltak i form av midlertidig statlig eierskap, å ivareta allmenne interesser når foretaket tidligere har mottatt statlig støtte i form av tilførsel av ansvarlig kapital.
+
+(2) Departementet kan treffe vedtak etter første ledd for:
+
+1. å delta i oppkapitaliseringen av foretaket ved tilførsel av ren kjernekapital, annen godkjent kjernekapital og godkjent tilleggskapital, eller
+2. erverve eierskap til foretaket eller dets virksomhet, og overføre eierskapet til en offentlig myndighet eller et statseid foretak.
 
 (3) Kapitalinstrumenter som erverves ved tiltak som nevnt i annet ledd, skal selges til privat eier så snart markedsforholdene tillater det. Departementet treffer vedtak om salg av kapitalinstrumenter.
 
@@ -3297,7 +3843,14 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-30. Virkninger av vedtak om avvikling under offentlig administrasjon
 
-(1) Når departementet har truffet vedtak om avvikling under offentlig administrasjon etter [§ 20-29](lov/2015-04-10-17/§20-29), inntrer følgende virkninger:foretakets tidligere organer trer ut av virksomhet, og administrasjonsstyret overtar myndigheten som ligger til disse organene, men det sist fungerende styret skal likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt,medlemmene av styret og revisor skal gi administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet,foretaket kan ikke uten samtykke fra Finanstilsynet ta imot innskudd og innlån, påta seg nye engasjementer eller øke tidligere engasjementer,foretaket kan ikke uten samtykke fra Finanstilsynet foreta utbetaling til innskytere og andre kreditorer,kreditorer med krav som er stiftet før vedtaket om krisehåndtering, kan ikke ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket, ogdekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende, med mindre annet følger av [§ 20-32](lov/2015-04-10-17/§20-32). Fristdagen er dagen for vedtak om krisehåndtering eller vedtak om avvikling under offentlig administrasjon. I tilfeller som nevnt i [§ 20-31](lov/2015-04-10-17/§20-31) femte ledd er fristdagen dagen for vedtaket om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15).
+(1) Når departementet har truffet vedtak om avvikling under offentlig administrasjon etter [§ 20-29](lov/2015-04-10-17/§20-29), inntrer følgende virkninger:
+
+1. foretakets tidligere organer trer ut av virksomhet, og administrasjonsstyret overtar myndigheten som ligger til disse organene, men det sist fungerende styret skal likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt,
+2. medlemmene av styret og revisor skal gi administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet,
+3. foretaket kan ikke uten samtykke fra Finanstilsynet ta imot innskudd og innlån, påta seg nye engasjementer eller øke tidligere engasjementer,
+4. foretaket kan ikke uten samtykke fra Finanstilsynet foreta utbetaling til innskytere og andre kreditorer,
+5. kreditorer med krav som er stiftet før vedtaket om krisehåndtering, kan ikke ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket, og
+6. dekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende, med mindre annet følger av [§ 20-32](lov/2015-04-10-17/§20-32). Fristdagen er dagen for vedtak om krisehåndtering eller vedtak om avvikling under offentlig administrasjon. I tilfeller som nevnt i [§ 20-31](lov/2015-04-10-17/§20-31) femte ledd er fristdagen dagen for vedtaket om krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15).
 
 (2) Innskudd, innlån og andre forpliktelser som er stiftet etter vedtaket, skal anses som massegjeld.
 
@@ -3325,7 +3878,19 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-32. Prioritetsrekkefølge ved krisehåndtering eller avvikling
 
-(1) Etter at fordringer som nevnt i [dekningsloven §§ 9-2](lov/1984-06-08-59/§9-2) til [9-4](lov/1984-06-08-59/§9-4) er dekket, skal følgende fordringer på foretak nevnt i [§ 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1) dekkes i følgende rekkefølge, idet fordringer nevnt under samme nummer har innbyrdes lik rett:innskudd som er garantert etter [finansforetaksloven § 19-4](lov/2015-04-10-17/§19-4) og gjeld til innskuddsgarantiordningen etter [finansforetaksloven § 19-12](lov/2015-04-10-17/§19-12)innskudd fra fysiske personer og små og mellomstore bedrifter som overstiger garantibeløpene i [§ 19-4](lov/2015-04-10-17/§19-4)alminnelig usikret gjeld uten særskilt prioritet samt innskudd fra store bedrifter som overstiger garantibeløpene i [§ 19-4](lov/2015-04-10-17/§19-4)gjeldsinstrumenter som oppfyller følgende vilkår:opprinnelig kontraktsfestet løpetid er minst ett åravtalevilkårene og prospekt utarbeidet i forbindelse med utstedelse angir lånets prioritet etter denne bestemmelseninstrumentene skal ikke være derivater eller inneholde innebygde derivater. Instrumenter med variabel rente avledet fra referanserente og gjeld notert i utenlandsk valuta skal ikke anses som innebygde derivater forutsatt at hovedstol, avdrag og rentebetalinger er notert i samme valuta.kapitalinstrumenter som utgjør tilleggskapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2)kapitalinstrumenter som utgjør annen godkjent kjernekapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2)ren kjernekapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2).
+(1) Etter at fordringer som nevnt i [dekningsloven §§ 9-2](lov/1984-06-08-59/§9-2) til [9-4](lov/1984-06-08-59/§9-4) er dekket, skal følgende fordringer på foretak nevnt i [§ 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1) dekkes i følgende rekkefølge, idet fordringer nevnt under samme nummer har innbyrdes lik rett:
+
+1. innskudd som er garantert etter [finansforetaksloven § 19-4](lov/2015-04-10-17/§19-4) og gjeld til innskuddsgarantiordningen etter [finansforetaksloven § 19-12](lov/2015-04-10-17/§19-12)
+2. innskudd fra fysiske personer og små og mellomstore bedrifter som overstiger garantibeløpene i [§ 19-4](lov/2015-04-10-17/§19-4)
+3. alminnelig usikret gjeld uten særskilt prioritet samt innskudd fra store bedrifter som overstiger garantibeløpene i [§ 19-4](lov/2015-04-10-17/§19-4)
+4. gjeldsinstrumenter som oppfyller følgende vilkår:
+
+   1. opprinnelig kontraktsfestet løpetid er minst ett år
+   2. avtalevilkårene og prospekt utarbeidet i forbindelse med utstedelse angir lånets prioritet etter denne bestemmelsen
+   3. instrumentene skal ikke være derivater eller inneholde innebygde derivater. Instrumenter med variabel rente avledet fra referanserente og gjeld notert i utenlandsk valuta skal ikke anses som innebygde derivater forutsatt at hovedstol, avdrag og rentebetalinger er notert i samme valuta.
+5. kapitalinstrumenter som utgjør tilleggskapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2)
+6. kapitalinstrumenter som utgjør annen godkjent kjernekapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2)
+7. ren kjernekapital etter [§ 14-1 annet ledd](lov/2015-04-10-17/§14-1/ledd/2).
 
 (2) Fordringer med opphav i et kapitalinstrument som kun delvis oppfyller vilkårene for å anses som ansvarlig kapital etter første ledd nr. 5, 6 eller 7, skal dekkes tilsvarende som kapitalinstrumenter som fullt ut kan medregnes som ansvarlig kapital etter første ledd nr. 5, 6 eller 7.
 
@@ -3353,7 +3918,11 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) For kontrakter inngått av foretaket, skal tiltak etter reglene i avsnitt III eller IV ikke regnes som tvangsfullbyrdelse etter [lov om finansiell sikkerhetsstillelse § 5](lov/2004-03-26-17/§5) eller insolvensbehandling etter [lov om betalingssystemer m.v. § 4-2](lov/1999-12-17-95/§4-2) dersom forpliktelsene etter kontrakten fortsatt blir oppfylt. Det samme gjelder for kontrakter inngått av et datterforetak med garanti fra morselskapet eller et annet foretak i finanskonsernet, og for kontrakter inngått av et konsernforetak med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak.
 
-(3) Dersom forpliktelsene etter en kontrakt fortsatt blir oppfylt, kan det ikke med grunnlag i reglene i avsnitt III eller IV gjøres gjeldende:heving og avslutning, suspensjon, endring, netting og annen motregning i kontrakt med foretaket, kontrakt inngått av et datterforetak med garanti fra et annet foretak i finanskonsernet, eller i kontrakt inngått av et konsernforetak med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak,besittelse av, kontroll over eller utøvelse av sikkerhetsrett i eiendeler som tilhører foretaket eller morselskapet i finanskonsernet, eller som tilhører et konsernforetak som har kontrakt med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak, ellerkrav om å innskrenke kontraktsmessige rettigheter som tilkommer foretaket eller morselskapet i finanskonsernet, eller et konsernforetak som har kontrakt med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak.
+(3) Dersom forpliktelsene etter en kontrakt fortsatt blir oppfylt, kan det ikke med grunnlag i reglene i avsnitt III eller IV gjøres gjeldende:
+
+1. heving og avslutning, suspensjon, endring, netting og annen motregning i kontrakt med foretaket, kontrakt inngått av et datterforetak med garanti fra et annet foretak i finanskonsernet, eller i kontrakt inngått av et konsernforetak med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak,
+2. besittelse av, kontroll over eller utøvelse av sikkerhetsrett i eiendeler som tilhører foretaket eller morselskapet i finanskonsernet, eller som tilhører et konsernforetak som har kontrakt med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak, eller
+3. krav om å innskrenke kontraktsmessige rettigheter som tilkommer foretaket eller morselskapet i finanskonsernet, eller et konsernforetak som har kontrakt med vilkår som knytter rettsvirkning til mislighold fra andre konsernforetak.
 
 (4) Suspensjon av fordring, sikkerhetsrettighet eller hevingsrett mv. etter reglene i [§§ 20-35](lov/2015-04-10-17/§20-35) eller [20-36](lov/2015-04-10-17/§20-36) utgjør ikke mislighold eller unnlatt oppfyllelse av en kontraktsforpliktelse.
 
@@ -3385,7 +3954,11 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (2) Finanstilsynet kan gi pålegg til en part som etter kontrakt med foretaket under krisehåndtering har rett til å heve eller avslutte kontrakten, om ikke å gjøre bruk av slik rett i tidsrommet fra offentliggjøring av pålegget til midnatt ved utløpet av første virkedag etter offentliggjøringen, dersom forpliktelser etter kontrakten som gjelder betaling, levering og sikkerhetsstillelse fortsatt blir oppfylt.
 
-(3) Pålegg etter annet ledd kan også gis til part som har kontrakt med et datterforetak av foretaket under krisehåndtering, dersom:foretaket under krisehåndtering ved garanti eller på annen måte har overtatt ansvar for forpliktelsene etter kontrakten,retten til å heve eller avslutte kontrakten er basert på insolvens eller finansielle forhold i foretaket under krisehåndtering, ellereiendeler og forpliktelser i foretaket under krisehåndtering er overdratt eller skal overdras til annet foretak, og også datterforetakets eiendeler og forpliktelser knyttet til kontrakten skal overdras til og overtas av erververen, med mindre Finanstilsynet treffer tiltak som sikrer de forpliktelser datterforetaket har etter kontrakten.
+(3) Pålegg etter annet ledd kan også gis til part som har kontrakt med et datterforetak av foretaket under krisehåndtering, dersom:
+
+1. foretaket under krisehåndtering ved garanti eller på annen måte har overtatt ansvar for forpliktelsene etter kontrakten,
+2. retten til å heve eller avslutte kontrakten er basert på insolvens eller finansielle forhold i foretaket under krisehåndtering, eller
+3. eiendeler og forpliktelser i foretaket under krisehåndtering er overdratt eller skal overdras til annet foretak, og også datterforetakets eiendeler og forpliktelser knyttet til kontrakten skal overdras til og overtas av erververen, med mindre Finanstilsynet treffer tiltak som sikrer de forpliktelser datterforetaket har etter kontrakten.
 
 (4) Pålegg etter første, annet og tredje ledd gjelder ikke overfor systemer som omfattes av [lov om betalingssystemer m.v. kapittel 4](lov/1999-12-17-95/kap4), herunder operatøren og deltakerne, sentrale motparter og sentralbanker. Pålegg etter første, annet og tredje ledd gjelder heller ikke dersom Finanstilsynet har bekreftet at eiendelene og forpliktelsene som omfattes av kontrakten, ikke skal overdras til et annet foretak eller bli omfattet av intern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26). Finanstilsynet kan gjøre unntak fra pålegg etter første, annet og tredje ledd.
 
@@ -3411,7 +3984,11 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (1) Etter at Finanstilsynet har gjennomført krisetiltak, skal Finanstilsynet sørge for at en sakkyndig person som er uavhengig av foretaket og offentlige myndigheter, foretar en ny verdivurdering som er uavhengig av de verdivurderinger som er utført etter [§ 20-16](lov/2015-04-10-17/§20-16), og som kan gi grunnlag for å bedømme om foretakets eiere og kreditorer ville ha kommet bedre ut ved en avvikling av foretaket etter [§ 20-31](lov/2015-04-10-17/§20-31) på tidspunktet for vedtak etter [§ 20-15](lov/2015-04-10-17/§20-15) om at foretaket skal krisehåndteres.
 
-(2) En verdivurdering etter første ledd skal klarlegge:hvilket resultat eiere og kreditorer, samt innskuddsgarantiordningen, ville ha oppnådd dersom foretaket var blitt avviklet på tidspunktet for vedtak om krisehåndtering, og uten at krisetiltak var blitt satt i verk,hvilket resultat eiere og kreditorer faktisk oppnådde ved krisehåndteringen av foretaket, når det sees bort fra statlig støtte etter [§ 20-28](lov/2015-04-10-17/§20-28), ogi hvilken utstrekning det er forskjell mellom resultatene etter bokstav a og b.
+(2) En verdivurdering etter første ledd skal klarlegge:
+
+1. hvilket resultat eiere og kreditorer, samt innskuddsgarantiordningen, ville ha oppnådd dersom foretaket var blitt avviklet på tidspunktet for vedtak om krisehåndtering, og uten at krisetiltak var blitt satt i verk,
+2. hvilket resultat eiere og kreditorer faktisk oppnådde ved krisehåndteringen av foretaket, når det sees bort fra statlig støtte etter [§ 20-28](lov/2015-04-10-17/§20-28), og
+3. i hvilken utstrekning det er forskjell mellom resultatene etter bokstav a og b.
 
 (3) Dersom det fremgår av verdivurderingen at eiere og kreditorer, herunder innskuddsgarantiordningen, er påført større tap ved krisehåndteringen av foretaket enn det tap som ville ha oppstått ved en avvikling av foretaket, skal Finanstilsynet utbetale differansen med midler fra krisetiltaksfondet.
 
@@ -3423,9 +4000,19 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-39. Vern for motparter
 
-(1) Reglene i denne paragrafen gjelder dersom Finanstilsynet:med hjemmel i [§§ 20-21](lov/2015-04-10-17/§20-21) til [20-23](lov/2015-04-10-17/§20-23) skal overdra en del av foretakets eiendeler, rettigheter og forpliktelser fra foretaket til et annet foretak, eller fra et broforetak eller forvaltningsforetak til et annet foretak, ellermed hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd skal treffe vedtak om å bringe til opphør en kontrakt inngått av foretaket, endre kontraktsvilkårene, eller bestemme at erververen skal tre inn som part i kontrakten.
+(1) Reglene i denne paragrafen gjelder dersom Finanstilsynet:
 
-(2) I tilfeller som omfattes av første ledd skal følgende ordninger og motparter ha vern etter bestemmelsene i [§§ 20-40](lov/2015-04-10-17/§20-40) til [20-43](lov/2015-04-10-17/§20-43) med de unntak som følger av bestemmelsene i [§§ 20-34](lov/2015-04-10-17/§20-34) til [20-36](lov/2015-04-10-17/§20-36):sikkerhetsrettigheter knyttet til enkelte eller grupper av rettigheter eller eiendeler som omfattes av overdragelsen,finansiell sikkerhetsstillelse som dekker forpliktelser oppstått ved overdragelse av eiendomsrett til eiendeler fra den som stiller sikkerheten, og til den som erverver sikkerhetsretten, og medfører plikt for erververen til å overdra eiendeler når forpliktelsene oppfylles,motregningsordninger hvor to eller flere fordringer mellom foretaket og en motpart kan avregnes mot hverandre,nettingordninger, herunder etter avtale som nevnt i [lov om finansiell sikkerhetsstillelse § 6](lov/2004-03-26-17/§6) og [betalingssystemloven § 4-2](lov/1999-12-17-95/§4-2),obligasjoner med fortrinnsrett utstedt etter [§ 11-5](lov/2015-04-10-17/§11-5) til [§ 11-15](lov/2015-04-10-17/§11-15), herunder fordringer etter derivatavtaler som inngår i sikkerhetsmassen, ogstrukturerte finansielle ordninger, herunder verdipapiriserings- og derivatavtaler og finansielle sikringsinstrumenter.
+1. med hjemmel i [§§ 20-21](lov/2015-04-10-17/§20-21) til [20-23](lov/2015-04-10-17/§20-23) skal overdra en del av foretakets eiendeler, rettigheter og forpliktelser fra foretaket til et annet foretak, eller fra et broforetak eller forvaltningsforetak til et annet foretak, eller
+2. med hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd skal treffe vedtak om å bringe til opphør en kontrakt inngått av foretaket, endre kontraktsvilkårene, eller bestemme at erververen skal tre inn som part i kontrakten.
+
+(2) I tilfeller som omfattes av første ledd skal følgende ordninger og motparter ha vern etter bestemmelsene i [§§ 20-40](lov/2015-04-10-17/§20-40) til [20-43](lov/2015-04-10-17/§20-43) med de unntak som følger av bestemmelsene i [§§ 20-34](lov/2015-04-10-17/§20-34) til [20-36](lov/2015-04-10-17/§20-36):
+
+1. sikkerhetsrettigheter knyttet til enkelte eller grupper av rettigheter eller eiendeler som omfattes av overdragelsen,
+2. finansiell sikkerhetsstillelse som dekker forpliktelser oppstått ved overdragelse av eiendomsrett til eiendeler fra den som stiller sikkerheten, og til den som erverver sikkerhetsretten, og medfører plikt for erververen til å overdra eiendeler når forpliktelsene oppfylles,
+3. motregningsordninger hvor to eller flere fordringer mellom foretaket og en motpart kan avregnes mot hverandre,
+4. nettingordninger, herunder etter avtale som nevnt i [lov om finansiell sikkerhetsstillelse § 6](lov/2004-03-26-17/§6) og [betalingssystemloven § 4-2](lov/1999-12-17-95/§4-2),
+5. obligasjoner med fortrinnsrett utstedt etter [§ 11-5](lov/2015-04-10-17/§11-5) til [§ 11-15](lov/2015-04-10-17/§11-15), herunder fordringer etter derivatavtaler som inngår i sikkerhetsmassen, og
+6. strukturerte finansielle ordninger, herunder verdipapiriserings- og derivatavtaler og finansielle sikringsinstrumenter.
 
 > Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
 
@@ -3439,7 +4026,12 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-41. Sikkerhetsrettigheter
 
-(1) Finanstilsynet kan ikke med virkning for forpliktelser med tilknyttede sikkerhetsrettigheter som omfattes av [§ 20-39](lov/2015-04-10-17/§20-39) annet ledd bokstav a, gjennomføre:overdragelse av eiendel som er stilt som sikkerhet, med mindre forpliktelsen også blir overdratt,overdragelse av forpliktelsen, med mindre tilknyttet sikkerhet også blir overdratt,overdragelse av retten til å utnytte sikkerhetsrettigheten, med mindre den sikrede forpliktelsen også blir overdratt, ellerendring eller opphør av sikkerhetsrettigheten etter [§ 20-34](lov/2015-04-10-17/§20-34) første ledd dersom virkningen er at forpliktelsen ikke lenger er sikret.
+(1) Finanstilsynet kan ikke med virkning for forpliktelser med tilknyttede sikkerhetsrettigheter som omfattes av [§ 20-39](lov/2015-04-10-17/§20-39) annet ledd bokstav a, gjennomføre:
+
+1. overdragelse av eiendel som er stilt som sikkerhet, med mindre forpliktelsen også blir overdratt,
+2. overdragelse av forpliktelsen, med mindre tilknyttet sikkerhet også blir overdratt,
+3. overdragelse av retten til å utnytte sikkerhetsrettigheten, med mindre den sikrede forpliktelsen også blir overdratt, eller
+4. endring eller opphør av sikkerhetsrettigheten etter [§ 20-34](lov/2015-04-10-17/§20-34) første ledd dersom virkningen er at forpliktelsen ikke lenger er sikret.
 
 (2) For å sikre tilgang til garanterte innskudd kan Finanstilsynet overføre garanterte innskudd som omfattes av sikkerhetsrettigheten, uten å overføre andre eiendeler, rettigheter og forpliktelser som omfattes av samme sikkerhetsrettighet, og overføre, bringe til opphør eller endre disse eiendelene, rettighetene eller forpliktelsene uten å overføre garanterte innskudd.
 
@@ -3447,7 +4039,10 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-42. Strukturerte finansielle ordninger og obligasjoner med fortrinnsrett
 
-(1) Finanstilsynet kan ikke med virkning for strukturerte finansielle ordninger, herunder ordninger som nevnt i [§ 20-39](lov/2015-04-10-17/§20-39) annet ledd bokstav e og f, gjennomføre:overdragelse av en del av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part, ellertiltak med hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd som medfører opphør eller endring av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part.
+(1) Finanstilsynet kan ikke med virkning for strukturerte finansielle ordninger, herunder ordninger som nevnt i [§ 20-39](lov/2015-04-10-17/§20-39) annet ledd bokstav e og f, gjennomføre:
+
+1. overdragelse av en del av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part, eller
+2. tiltak med hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd som medfører opphør eller endring av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part.
 
 (2) For å sikre tilgang til garanterte innskudd har Finanstilsynet likevel adgang til å overføre garanterte innskudd som omfattes av en strukturert finansiell ordning, uten å overføre andre eiendeler, rettigheter og forpliktelser som omfattes av samme ordning, og til å overføre, bringe til opphør eller endre disse forpliktelsene, rettighetene eller eiendelene uten å overføre garanterte innskudd.
 
@@ -3455,9 +4050,15 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-43. Betalings-, avregnings- og oppgjørssystemer
 
-(1) Finanstilsynet skal påse at driften av betalings-, avregnings- og oppgjørssystemer etter lov om betalingssystemer m.v. [kapittel 4](lov/1999-12-17-95/kap4) og regelverket for slike systemer ikke blir påvirket dersom Finanstilsynet:overdrar en del av eiendeler, rettigheter og forpliktelser i et foretak under krisehåndtering til et annet foretak, ellermed hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd treffer vedtak om at kontrakter inngått av et foretak under krisehåndtering, skal bringes til opphør, endres eller overtas av en erverver som part.
+(1) Finanstilsynet skal påse at driften av betalings-, avregnings- og oppgjørssystemer etter lov om betalingssystemer m.v. [kapittel 4](lov/1999-12-17-95/kap4) og regelverket for slike systemer ikke blir påvirket dersom Finanstilsynet:
 
-(2) Overdragelse, opphør eller endring av eiendeler, rettigheter og forpliktelser som omfattes av første ledd:skal ikke medføre tilbakekall, endring eller bortfall av innlagt overføringsordre eller av avregning og oppgjør ved netting i et betalingssystem som vil være i strid med reglene i [betalingssystemloven § 4-2](lov/1999-12-17-95/§4-2), ogskal ikke være til hinder for utnyttelse av sikkerhet som nevnt i [lov om betalingssystemer m.v. § 4-4](lov/1999-12-17-95/§4-4).
+1. overdrar en del av eiendeler, rettigheter og forpliktelser i et foretak under krisehåndtering til et annet foretak, eller
+2. med hjemmel i [§ 20-34](lov/2015-04-10-17/§20-34) første ledd treffer vedtak om at kontrakter inngått av et foretak under krisehåndtering, skal bringes til opphør, endres eller overtas av en erverver som part.
+
+(2) Overdragelse, opphør eller endring av eiendeler, rettigheter og forpliktelser som omfattes av første ledd:
+
+1. skal ikke medføre tilbakekall, endring eller bortfall av innlagt overføringsordre eller av avregning og oppgjør ved netting i et betalingssystem som vil være i strid med reglene i [betalingssystemloven § 4-2](lov/1999-12-17-95/§4-2), og
+2. skal ikke være til hinder for utnyttelse av sikkerhet som nevnt i [lov om betalingssystemer m.v. § 4-4](lov/1999-12-17-95/§4-4).
 
 > Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
 
@@ -3505,7 +4106,12 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (1) Dersom departementet beslutter at et norsk morselskap i finanskonsern som omfatter konsernforetak som nevnt i [§ 20-1](lov/2015-04-10-17/§20-1) første ledd bokstav a og som driver virksomhet innenfor EØS, oppfyller vilkårene for krisehåndtering etter [§ 20-15](lov/2015-04-10-17/§20-15), skal Finanstilsynet gi underretning om dette til de andre medlemmene i kriseutvalget for finanskonsernet.
 
-(2) I underretningen skal Finanstilsynet opplyse om vedtaket som er truffet, og om hvilke krisetiltak som etter Finanstilsynets vurdering bør settes i verk. Underretningen kan inneholde en krisehåndteringsplan for finanskonsernet som omhandler krisetiltak for de enkelte konsernforetak og samordning av tiltakene, dersom:det må ventes at krisetiltakene overfor morselskapet vil medføre at vilkårene for krisehåndtering av konsernforetak i annen EØS-stat også vil være oppfylt,det må ventes at krisetiltakene overfor morselskapet alene ikke vil være tilstrekkelige til å stabilisere situasjonen,myndigheten ansvarlig for konsernforetak i annen EØS-stat har besluttet at vilkårene for krisehåndtering av foretaket der er oppfylt, ellerkrisetiltakene overfor morselskapet vil medføre særlige fordeler for enkelte av konsernforetakene.
+(2) I underretningen skal Finanstilsynet opplyse om vedtaket som er truffet, og om hvilke krisetiltak som etter Finanstilsynets vurdering bør settes i verk. Underretningen kan inneholde en krisehåndteringsplan for finanskonsernet som omhandler krisetiltak for de enkelte konsernforetak og samordning av tiltakene, dersom:
+
+1. det må ventes at krisetiltakene overfor morselskapet vil medføre at vilkårene for krisehåndtering av konsernforetak i annen EØS-stat også vil være oppfylt,
+2. det må ventes at krisetiltakene overfor morselskapet alene ikke vil være tilstrekkelige til å stabilisere situasjonen,
+3. myndigheten ansvarlig for konsernforetak i annen EØS-stat har besluttet at vilkårene for krisehåndtering av foretaket der er oppfylt, eller
+4. krisetiltakene overfor morselskapet vil medføre særlige fordeler for enkelte av konsernforetakene.
 
 (3) Dersom underretningen ikke inneholder et forslag til krisehåndteringsplan for finanskonsernet etter annet ledd, kan Finanstilsynet treffe beslutning etter reglene i kapitlet her etter samråd med medlemmene i kriseutvalget for konsernet. Inneholder underretningen forslag til krisehåndteringsplan, skal planen fastsettes i fellesskap av Finanstilsynet og krisehåndteringsmyndighetene for de konsernforetak som omfattes av planen. Dersom det foreligger uenighet mellom krisehåndteringsmyndighetene, kan de myndighetene som er enige i planen, fastsette denne med virkning for konsernforetakene i deres EØS-stater.
 
@@ -3513,7 +4119,11 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-49. Filial her i riket av utenlandsk foretak
 
-(1) Departementet kan vedta at filial av foretak etablert utenfor EØS skal krisehåndteres eller avvikles under offentlig administrasjon her i riket når allmenne interesser tilsier dette, samt når:filialen ikke oppfyller og heller ikke kan ventes å oppfylle de kravene til virksomheten som er fastsatt i konsesjonen eller følger av ellers gjeldende lov- og forskriftsverk, og det ikke er utsikt til at det innen rimelig tid blir truffet tiltak som vil sikre at kravene vil bli etterlevet,departementet må anta at det utenlandske foretaket ikke kan eller vil være ute av stand til å oppfylle sine forpliktelser her i riket, eller forpliktelser som utspringer av filialens virksomhet her, etter hvert som de forfaller, ellerdet er innledet insolvensbehandling av foretaket i hjemstaten.
+(1) Departementet kan vedta at filial av foretak etablert utenfor EØS skal krisehåndteres eller avvikles under offentlig administrasjon her i riket når allmenne interesser tilsier dette, samt når:
+
+1. filialen ikke oppfyller og heller ikke kan ventes å oppfylle de kravene til virksomheten som er fastsatt i konsesjonen eller følger av ellers gjeldende lov- og forskriftsverk, og det ikke er utsikt til at det innen rimelig tid blir truffet tiltak som vil sikre at kravene vil bli etterlevet,
+2. departementet må anta at det utenlandske foretaket ikke kan eller vil være ute av stand til å oppfylle sine forpliktelser her i riket, eller forpliktelser som utspringer av filialens virksomhet her, etter hvert som de forfaller, eller
+3. det er innledet insolvensbehandling av foretaket i hjemstaten.
 
 (2) Ved krisehåndtering av filialen etter første ledd gjelder bestemmelsene i [§ 20-15](lov/2015-04-10-17/§20-15), [§ 20-18](lov/2015-04-10-17/§20-18), [§ 20-20](lov/2015-04-10-17/§20-20), [§§ 20-29](lov/2015-04-10-17/§20-29) til [20-31](lov/2015-04-10-17/§20-31) og [§ 20-34](lov/2015-04-10-17/§20-34), samt tilhørende forskriftsbestemmelser.
 
@@ -3555,13 +4165,29 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-52. Bruk av midler
 
-(1) Krisetiltaksfondets midler kan brukes for å bidra til effektiv gjennomføring av krisetiltak, og bare til følgende formål:å yte garanti for eiendeler og forpliktelser i et foretak som er under krisehåndtering, dets datterforetak, et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23),å yte lån til foretak som nevnt i bokstav a,å kjøpe eiendeler fra et foretak som er under krisehåndtering,å yte bidrag til et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23),å utbetale erstatning for tap til eiere, kreditorer og innskuddsgarantiordningen etter [§ 20-38](lov/2015-04-10-17/§20-38) tredje ledd, ogå yte bidrag til en intern oppkapitalisering etter tredje og fjerde ledd og [§ 20-24](lov/2015-04-10-17/§20-24).
+(1) Krisetiltaksfondets midler kan brukes for å bidra til effektiv gjennomføring av krisetiltak, og bare til følgende formål:
+
+1. å yte garanti for eiendeler og forpliktelser i et foretak som er under krisehåndtering, dets datterforetak, et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23),
+2. å yte lån til foretak som nevnt i bokstav a,
+3. å kjøpe eiendeler fra et foretak som er under krisehåndtering,
+4. å yte bidrag til et broforetak etter [§ 20-22](lov/2015-04-10-17/§20-22) eller et forvaltningsforetak etter [§ 20-23](lov/2015-04-10-17/§20-23),
+5. å utbetale erstatning for tap til eiere, kreditorer og innskuddsgarantiordningen etter [§ 20-38](lov/2015-04-10-17/§20-38) tredje ledd, og
+6. å yte bidrag til en intern oppkapitalisering etter tredje og fjerde ledd og [§ 20-24](lov/2015-04-10-17/§20-24).
 
 (2) Finanstilsynet kan også bruke midler etter første ledd overfor et foretak som kjøper virksomhet etter [§ 20-21](lov/2015-04-10-17/§20-21).
 
-(3) Dersom Finanstilsynet i medhold av [§ 20-25](lov/2015-04-10-17/§20-25) tredje ledd har gitt særskilt unntak fra intern oppkapitalisering for bestemte deler av gjelden, og det tapet som skulle ha vært dekket av den unntatte gjelden ikke har blitt inndekket fullt ut av annen konvertibel gjeld, kan Finanstilsynet yte et bidrag til foretaket ved bruk av midler i krisetiltaksfondet for:å dekke tap slik at foretakets nettoverdi vil være null, jf. [§ 20-26](lov/2015-04-10-17/§20-26) første ledd bokstav a, ogå kjøpe aksjer, egenkapitalbevis eller andre kapitalinstrumenter utstedt av foretaket for å oppkapitalisere foretaket, jf. [§ 20-26](lov/2015-04-10-17/§20-26) første ledd bokstav b.
+(3) Dersom Finanstilsynet i medhold av [§ 20-25](lov/2015-04-10-17/§20-25) tredje ledd har gitt særskilt unntak fra intern oppkapitalisering for bestemte deler av gjelden, og det tapet som skulle ha vært dekket av den unntatte gjelden ikke har blitt inndekket fullt ut av annen konvertibel gjeld, kan Finanstilsynet yte et bidrag til foretaket ved bruk av midler i krisetiltaksfondet for:
 
-(4) Bidrag etter tredje ledd kan bare ytes dersom:bidraget ikke vil overstige fem prosent av foretakets forvaltningskapital beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), med mindre all usikret konvertibel gjeld, unntatt kvalifiserte innskudd, allerede er nedskrevet eller konvertert fullt ut, og ytterligere bidrag kan dekkes av krisetiltaksfondets disponible midler, ogeierne av aksjer eller egenkapitalbevis, andre kapitalinstrumenter og konvertibel gjeld til sammen har tatt tap og bidratt til oppkapitaliseringen av foretaket med et beløp som minst tilsvarer:åtte prosent av foretakets forvaltningskapital beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), eller20 prosent av foretakets risikovektede eiendeler beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), dersom krisetiltaksfondets disponible midler utgjør minst tre prosent av samlede garanterte innskudd, og foretakets forvaltningskapital på konsolidert basis er mindre enn 900 milliarder euro.
+1. å dekke tap slik at foretakets nettoverdi vil være null, jf. [§ 20-26](lov/2015-04-10-17/§20-26) første ledd bokstav a, og
+2. å kjøpe aksjer, egenkapitalbevis eller andre kapitalinstrumenter utstedt av foretaket for å oppkapitalisere foretaket, jf. [§ 20-26](lov/2015-04-10-17/§20-26) første ledd bokstav b.
+
+(4) Bidrag etter tredje ledd kan bare ytes dersom:
+
+1. bidraget ikke vil overstige fem prosent av foretakets forvaltningskapital beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), med mindre all usikret konvertibel gjeld, unntatt kvalifiserte innskudd, allerede er nedskrevet eller konvertert fullt ut, og ytterligere bidrag kan dekkes av krisetiltaksfondets disponible midler, og
+2. eierne av aksjer eller egenkapitalbevis, andre kapitalinstrumenter og konvertibel gjeld til sammen har tatt tap og bidratt til oppkapitaliseringen av foretaket med et beløp som minst tilsvarer:
+
+   1. åtte prosent av foretakets forvaltningskapital beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), eller
+   2. 20 prosent av foretakets risikovektede eiendeler beregnet etter [§ 20-16](lov/2015-04-10-17/§20-16), dersom krisetiltaksfondets disponible midler utgjør minst tre prosent av samlede garanterte innskudd, og foretakets forvaltningskapital på konsolidert basis er mindre enn 900 milliarder euro.
 
 > Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
 
@@ -3575,7 +4201,10 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 20-54. Bidrag fra innskuddsgarantifondet
 
-(1) Dersom Finanstilsynet beslutter å bruke krisetiltak som sikrer at innskytere i et medlem av innskuddsgarantiordningen etter [§ 19-2](lov/2015-04-10-17/§19-2) fortsatt har tilgang til sine innskudd, skal garantiordningen kompensere krisetiltaksfondet med følgende kontantbeløp fastsatt på grunnlag av en verdivurdering etter [§ 20-16](lov/2015-04-10-17/§20-16):ved bruk av intern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26), et beløp tilsvarende det de garanterte innskuddene ville blitt nedskrevet med dersom de ikke hadde vært unntatt fra intern oppkapitalisering, ogved bruk av andre krisetiltak nevnt i [§ 20-19](lov/2015-04-10-17/§20-19), et beløp tilsvarende det tapet som de garanterte innskuddene ville blitt påført dersom kreditorenes tap isteden hadde blitt fordelt etter reglene i [§ 20-31](lov/2015-04-10-17/§20-31).
+(1) Dersom Finanstilsynet beslutter å bruke krisetiltak som sikrer at innskytere i et medlem av innskuddsgarantiordningen etter [§ 19-2](lov/2015-04-10-17/§19-2) fortsatt har tilgang til sine innskudd, skal garantiordningen kompensere krisetiltaksfondet med følgende kontantbeløp fastsatt på grunnlag av en verdivurdering etter [§ 20-16](lov/2015-04-10-17/§20-16):
+
+1. ved bruk av intern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26), et beløp tilsvarende det de garanterte innskuddene ville blitt nedskrevet med dersom de ikke hadde vært unntatt fra intern oppkapitalisering, og
+2. ved bruk av andre krisetiltak nevnt i [§ 20-19](lov/2015-04-10-17/§20-19), et beløp tilsvarende det tapet som de garanterte innskuddene ville blitt påført dersom kreditorenes tap isteden hadde blitt fordelt etter reglene i [§ 20-31](lov/2015-04-10-17/§20-31).
 
 (2) Beløpet skal ikke overstige det tapet garantiordningen ville blitt påført ved avvikling av foretaket etter [§ 20-29](lov/2015-04-10-17/§20-29). Beløpet skal heller ikke overstige 50 prosent av minstekravet etter [§ 19-9](lov/2015-04-10-17/§19-9) første ledd. Departementet kan gjøre unntak fra annet punktum i særlige tilfeller der det er behov for et større beløp.
 
@@ -3597,7 +4226,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (1) Bankenes sikringsfond skal forvalte midlene i krisetiltaksfondet.
 
-(2) Bankenes sikringsfond kan utføre administrative oppgaver som gjelder krisetiltaksfondet, og som etter reglene i avsnittet her ikke skal avgjøres ved vedtak av Finanstilsynet. Administrative oppgaver omfatter blant annet:beregning av årlige bidrag og tilleggsbidrag til krisetiltaksfondet,innkreving av bidrag, herunder å påse at minstekravet etter [§ 20-50](lov/2015-04-10-17/§20-50) første ledd blir oppfylt,beregning av utbetalinger etter [§§ 20-52](lov/2015-04-10-17/§20-52) eller [20-53](lov/2015-04-10-17/§20-53),beregning og overføring til krisetiltaksfondet av bidrag fra innskuddsgarantifondet etter [§ 20-54](lov/2015-04-10-17/§20-54), ogutarbeiding av låneavtaler etter [§ 20-50](lov/2015-04-10-17/§20-50) fjerde ledd og overføring til krisetiltaksfondet av innlånte midler.
+(2) Bankenes sikringsfond kan utføre administrative oppgaver som gjelder krisetiltaksfondet, og som etter reglene i avsnittet her ikke skal avgjøres ved vedtak av Finanstilsynet. Administrative oppgaver omfatter blant annet:
+
+1. beregning av årlige bidrag og tilleggsbidrag til krisetiltaksfondet,
+2. innkreving av bidrag, herunder å påse at minstekravet etter [§ 20-50](lov/2015-04-10-17/§20-50) første ledd blir oppfylt,
+3. beregning av utbetalinger etter [§§ 20-52](lov/2015-04-10-17/§20-52) eller [20-53](lov/2015-04-10-17/§20-53),
+4. beregning og overføring til krisetiltaksfondet av bidrag fra innskuddsgarantifondet etter [§ 20-54](lov/2015-04-10-17/§20-54), og
+5. utarbeiding av låneavtaler etter [§ 20-50](lov/2015-04-10-17/§20-50) fjerde ledd og overføring til krisetiltaksfondet av innlånte midler.
 
 (3) Bankenes sikringsfond skal utarbeide årsmelding og årsregnskap for krisetiltaksfondet som sendes til departementet, Finanstilsynet og Norges Bank.
 
@@ -3697,7 +4332,11 @@ Departementet kan bestemme at det skal etableres garantiordninger for kredittfor
 
 ### § 21-1. Melding om betalingsvansker mv.
 
-(1) Styret og daglig leder i et finansforetak som ikke er omfattet av [§ 20-1](lov/2015-04-10-17/§20-1) første ledd, har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at:det vil kunne oppstå svikt i foretakets evne til å oppfylle sine forpliktelser etter hvert som de forfaller,foretaket ikke vil kunne oppfylle minstekravene til ansvarlig kapital eller andre soliditets- og sikkerhetskrav fastsatt i lov eller forskrift,det er inntrådt forhold som kan medføre alvorlig tillitssvikt eller tap som vesentlig vil svekke eller true soliditeten.
+(1) Styret og daglig leder i et finansforetak som ikke er omfattet av [§ 20-1](lov/2015-04-10-17/§20-1) første ledd, har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at:
+
+1. det vil kunne oppstå svikt i foretakets evne til å oppfylle sine forpliktelser etter hvert som de forfaller,
+2. foretaket ikke vil kunne oppfylle minstekravene til ansvarlig kapital eller andre soliditets- og sikkerhetskrav fastsatt i lov eller forskrift,
+3. det er inntrådt forhold som kan medføre alvorlig tillitssvikt eller tap som vesentlig vil svekke eller true soliditeten.
 
 (2) Hvis foretakets revisor blir kjent med forhold som nevnt i første ledd, skal denne gi slik melding til Finanstilsynet som nevnt i første ledd, med mindre Finanstilsynet har bekreftet overfor revisor at melding allerede er gitt etter første ledd.
 
@@ -3711,7 +4350,12 @@ Departementet kan bestemme at det skal etableres garantiordninger for kredittfor
 
 (1) Når Finanstilsynet har mottatt melding om betalingsvansker, eller har grunn til å tro at vilkårene for meldeplikt er oppfylt, skal Finanstilsynet i samråd med foretaket klarlegge hvilke tiltak som er nødvendige. Norges Bank skal underrettes.
 
-(2) Blir slike tiltak ikke satt i verk av foretaket selv, kan Finanstilsynet:innkalle generalforsamlingen med kortere frist enn det som følger av foretakets vedtekter,gi pålegg om å endre sammensetningen av de styrende organer,fastsette vilkår eller retningslinjer som anses nødvendige for å sikre at den videre virksomhet blir drevet på betryggende økonomisk og for øvrig forsvarlig måte,kreve at det utarbeides revidert statusoppgjør.
+(2) Blir slike tiltak ikke satt i verk av foretaket selv, kan Finanstilsynet:
+
+1. innkalle generalforsamlingen med kortere frist enn det som følger av foretakets vedtekter,
+2. gi pålegg om å endre sammensetningen av de styrende organer,
+3. fastsette vilkår eller retningslinjer som anses nødvendige for å sikre at den videre virksomhet blir drevet på betryggende økonomisk og for øvrig forsvarlig måte,
+4. kreve at det utarbeides revidert statusoppgjør.
 
 (3) Paragrafen her gjør ingen innskrenkninger i Finanstilsynets myndighet etter finanstilsynsloven.
 
@@ -3767,7 +4411,13 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 ### § 21-9. Soliditetssvikt
 
-(1) Har Finanstilsynet grunn til å anta:at et foretak ikke klarer å oppfylle sine forpliktelser etter hvert som de forfaller,at et foretak ikke er i stand til å oppfylle gjeldende krav til ansvarlig kapital i samsvar med pålegg fra Finanstilsynet, ellerat et foretaks eiendeler og inntekter til sammen ikke er tilstrekkelige til fullt ut å dekke forpliktelsene,skal det straks gis slik melding som angitt i annet ledd.
+(1) Har Finanstilsynet grunn til å anta:
+
+1. at et foretak ikke klarer å oppfylle sine forpliktelser etter hvert som de forfaller,
+2. at et foretak ikke er i stand til å oppfylle gjeldende krav til ansvarlig kapital i samsvar med pålegg fra Finanstilsynet, eller
+3. at et foretaks eiendeler og inntekter til sammen ikke er tilstrekkelige til fullt ut å dekke forpliktelsene,
+
+skal det straks gis slik melding som angitt i annet ledd.
 
 (2) Finanstilsynet skal gi melding til Norges Bank og til garantiordningen som omfatter foretaket.
 
@@ -3793,7 +4443,14 @@ Antar Finanstilsynet at foretaket ikke kan sikres økonomisk grunnlag for videre
 
 ### § 21-12. Virkninger av vedtak om offentlig administrasjon
 
-(1) Når vedtak om offentlig administrasjon er truffet, inntrer følgende virkninger:Foretakets tidligere organer trer ut av virksomhet. Administrasjonsstyret overtar myndigheten som ligger til disse organene. Det sist fungerende styret skal likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt.Medlemmene av styret og revisor skal gi administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet.Foretaket kan ikke påta seg nye engasjementer eller øke tidligere engasjementer uten Finanstilsynets godkjenning.Utbetaling til fordringshavere kan ikke finne sted uten Finanstilsynets godkjenning.Dekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende. Fristdagen er dagen for vedtaket om å sette foretaket under administrasjon.Fordringshavere med krav som er stiftet før vedtaket om offentlig administrasjon, kan ikke ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket.
+(1) Når vedtak om offentlig administrasjon er truffet, inntrer følgende virkninger:
+
+1. Foretakets tidligere organer trer ut av virksomhet. Administrasjonsstyret overtar myndigheten som ligger til disse organene. Det sist fungerende styret skal likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt.
+2. Medlemmene av styret og revisor skal gi administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet.
+3. Foretaket kan ikke påta seg nye engasjementer eller øke tidligere engasjementer uten Finanstilsynets godkjenning.
+4. Utbetaling til fordringshavere kan ikke finne sted uten Finanstilsynets godkjenning.
+5. Dekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende. Fristdagen er dagen for vedtaket om å sette foretaket under administrasjon.
+6. Fordringshavere med krav som er stiftet før vedtaket om offentlig administrasjon, kan ikke ta utlegg eller på annen måte få sikkerhet for slike krav i verdier som tilhører foretaket.
 
 (2) Forpliktelser som er stiftet under administrasjonen, skal anses som massegjeld. Tilsvarende gjelder for godtgjørelse til revisor for oppdrag utført i medhold av [§ 21-3](lov/2015-04-10-17/§21-3) annet ledd.
 
@@ -3913,7 +4570,11 @@ Enhver som har eierandel i et finansforetak eller morselskap i finanskonsern pli
 
 ### § 22-4. Overtredelsesgebyr ved overtredelse av regler om revisjonsutvalg og valg av revisor
 
-(1) Finanstilsynet kan ilegge et finansforetak overtredelsesgebyr ved brudd på følgende bestemmelser:§§ 8-18 og 8-19 og bestemmelsene i revisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), om revisjonsutvalgets oppgaverrevisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), artikkel 16 om valg av revisorrevisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), artikkel 17 om revisjonsoppdragets varighet.
+(1) Finanstilsynet kan ilegge et finansforetak overtredelsesgebyr ved brudd på følgende bestemmelser:
+
+1. §§ 8-18 og 8-19 og bestemmelsene i revisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), om revisjonsutvalgets oppgaver
+2. revisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), artikkel 16 om valg av revisor
+3. revisjonsforordningen, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1), artikkel 17 om revisjonsoppdragets varighet.
 
 (2) Det kan fastsettes et overtredelsesgebyr på inntil 10 millioner kroner, eller opptil 2 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap. For et morselskap eller et datterselskap av et morselskap som skal utarbeide konsernregnskap etter direktiv [2013/34/EU](eu/32013l0034), skal den relevante samlede omsetningen være den samlede årsomsetningen, eller tilsvarende inntekt etter relevante regnskapsdirektiver, etter siste godkjente konsernregnskap.
 
@@ -3923,7 +4584,14 @@ Enhver som har eierandel i et finansforetak eller morselskap i finanskonsern pli
 
 ### § 22-5. Momenter ved vedtak om overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendelerhvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsentap påført tredjemann som følge av overtredelseni hvilken grad overtrederen har samarbeidet med Finanstilsynettidligere overtredelser.
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeler
+3. hvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsen
+4. tap påført tredjemann som følge av overtredelsen
+5. i hvilken grad overtrederen har samarbeidet med Finanstilsynet
+6. tidligere overtredelser.
 
 > Tilføyd ved lov [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 22-6).
 

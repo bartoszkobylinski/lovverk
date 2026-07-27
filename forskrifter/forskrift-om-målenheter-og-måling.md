@@ -15,7 +15,7 @@ xml_hash: "8120126d6f8d70acb48b48055db0f36b9210b4b3631e77f9ec1a6bbd6b590967"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,26 @@ Denne forskriften inneholder utfyllende bestemmelser til [lov 26. januar 2007 nr
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*autorisert representant:* enhver fysisk eller juridisk person som er etablert i EØS, som har mottatt en skriftlig fullmakt fra en produsent til å opptre på produsentens vegne i forbindelse med spesifikke oppgaver*bruker:* en fysisk eller juridisk person som eier eller disponerer måleredskapet og som ellers er ansvarlig for at målingen blir foretatt. Nærmere presisering av hvem som er bruker kan foretas i instrumentspesifikke forskrifter*CE-merking:* merking hvor produsenten angir at måleredskapet oppfyller alle gjeldende krav i det harmoniserte regelverket som må innfris for å kunne påføre merket*distributør:* enhver fysisk eller juridisk person som gjør et måleredskap tilgjengelig på markedet, med unntak av produsenten eller importøren*førstegangsgodkjenning:* vedtak som fastslår at det aktuelle måleredskapet som selges er i overensstemmelse med de krav som er fastsatt i [kapittel 4](forskrift/2007-12-20-1723/kap4) avsnitt 5 om nasjonal samsvarsvurdering*første gang gjøre tilgjengelig på markedet:* første gang det aktuelle måleredskapet gjøres tilgjengelig på EØS-markedet*gjøre tilgjengelig på markedet:* enhver tilgjengeliggjøring av et måleredskap som ledd i næringsvirksomhet for distribusjon eller bruk på EØS-markedet, uavhengig av om det ytes vederlag*harmonisert standard:* harmonisert standard som definert i forordning [(EU) nr. 1025/2012](eu/32012r1025) artikkel 2 nr. 1 bokstav c*importør:* enhver fysisk eller juridisk person som er etablert i EØS, som første gang gjør et måleredskap fra et tredjeland tilgjengelig på EØS-markedet*instrumentspesifikk forskrift:* forskrift som inneholder tekniske krav og andre krav til en eller flere bestemte typer måleredskaper eller målemetoder*kontroll:* når det i forbindelse med et tilsyn undersøkes om et måleredskap når det brukes oppfyller kravene til måleredskapet*normativt dokument:* dokument som inneholder tekniske spesifikasjoner vedtatt av Den internasjonale organisasjonen for legal metrologi (OIML)*oppfølgingskontroll:* en kontroll av et måleredskap som gjennomføres som følge av en melding fra en bruker eller andre og som fastslår om måleredskapet når det brukes er i overensstemmelse med kravene til måleredskapet*ordinær kontroll:* en kontroll av et måleredskap som fastslår om måleredskapet når det brukes er i overensstemmelse med kravene til måleredskapet*produsent:* enhver fysisk eller juridisk person som produserer måleredskap eller som får et måleredskap konstruert eller produsert, og som enten markedsfører dette måleredskapet under sitt navn eller varemerke, eller tar det i bruk til egne formål*samsvarsvurdering:* den prosess som påviser hvorvidt et måleredskap oppfyller de kravene som er fastsatt i eller i medhold av lov om målenheter, måling og normaltid*teknisk kontrollorgan:* organ som utfører samsvarsvurderingsaktiviteter, og som er utpekt til å foreta samsvarsvurderinger etter bestemmelsene i denne forskriften og i henhold til [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan*typegodkjenning:* vedtak som fastslår at en type måleredskap er i samsvar med de kravene som er fastsatt i [kapittel 4](forskrift/2007-12-20-1723/kap4) avsnitt 5 om nasjonal samsvarsvurdering.
+I denne forskriften menes med
+
+1. *autorisert representant:* enhver fysisk eller juridisk person som er etablert i EØS, som har mottatt en skriftlig fullmakt fra en produsent til å opptre på produsentens vegne i forbindelse med spesifikke oppgaver
+2. *bruker:* en fysisk eller juridisk person som eier eller disponerer måleredskapet og som ellers er ansvarlig for at målingen blir foretatt. Nærmere presisering av hvem som er bruker kan foretas i instrumentspesifikke forskrifter
+3. *CE-merking:* merking hvor produsenten angir at måleredskapet oppfyller alle gjeldende krav i det harmoniserte regelverket som må innfris for å kunne påføre merket
+4. *distributør:* enhver fysisk eller juridisk person som gjør et måleredskap tilgjengelig på markedet, med unntak av produsenten eller importøren
+5. *førstegangsgodkjenning:* vedtak som fastslår at det aktuelle måleredskapet som selges er i overensstemmelse med de krav som er fastsatt i [kapittel 4](forskrift/2007-12-20-1723/kap4) avsnitt 5 om nasjonal samsvarsvurdering
+6. *første gang gjøre tilgjengelig på markedet:* første gang det aktuelle måleredskapet gjøres tilgjengelig på EØS-markedet
+7. *gjøre tilgjengelig på markedet:* enhver tilgjengeliggjøring av et måleredskap som ledd i næringsvirksomhet for distribusjon eller bruk på EØS-markedet, uavhengig av om det ytes vederlag
+8. *harmonisert standard:* harmonisert standard som definert i forordning [(EU) nr. 1025/2012](eu/32012r1025) artikkel 2 nr. 1 bokstav c
+9. *importør:* enhver fysisk eller juridisk person som er etablert i EØS, som første gang gjør et måleredskap fra et tredjeland tilgjengelig på EØS-markedet
+10. *instrumentspesifikk forskrift:* forskrift som inneholder tekniske krav og andre krav til en eller flere bestemte typer måleredskaper eller målemetoder
+11. *kontroll:* når det i forbindelse med et tilsyn undersøkes om et måleredskap når det brukes oppfyller kravene til måleredskapet
+12. *normativt dokument:* dokument som inneholder tekniske spesifikasjoner vedtatt av Den internasjonale organisasjonen for legal metrologi (OIML)
+13. *oppfølgingskontroll:* en kontroll av et måleredskap som gjennomføres som følge av en melding fra en bruker eller andre og som fastslår om måleredskapet når det brukes er i overensstemmelse med kravene til måleredskapet
+14. *ordinær kontroll:* en kontroll av et måleredskap som fastslår om måleredskapet når det brukes er i overensstemmelse med kravene til måleredskapet
+15. *produsent:* enhver fysisk eller juridisk person som produserer måleredskap eller som får et måleredskap konstruert eller produsert, og som enten markedsfører dette måleredskapet under sitt navn eller varemerke, eller tar det i bruk til egne formål
+16. *samsvarsvurdering:* den prosess som påviser hvorvidt et måleredskap oppfyller de kravene som er fastsatt i eller i medhold av lov om målenheter, måling og normaltid
+17. *teknisk kontrollorgan:* organ som utfører samsvarsvurderingsaktiviteter, og som er utpekt til å foreta samsvarsvurderinger etter bestemmelsene i denne forskriften og i henhold til [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan
+18. *typegodkjenning:* vedtak som fastslår at en type måleredskap er i samsvar med de kravene som er fastsatt i [kapittel 4](forskrift/2007-12-20-1723/kap4) avsnitt 5 om nasjonal samsvarsvurdering.
 
 > Endret ved [forskrifter 5 des 2013 nr. 1416](forskrift/2013-12-05-1416) (i kraft 1 jan 2014), [17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016).
 
@@ -67,7 +86,25 @@ Følgende SI-grunnenheter gjelder:
 
 ### § 2-4. Definisjoner av SI-grunnenhetene
 
-SI-grunnenhetene har følgende definisjoner:*Enhet for tid:* Sekund, symbol s, er SI-enheten for tid. Den er definert ved å la den faste numeriske verdien av cesiumfrekvensen ΔvCs, som hyperfin-overgangsfrekvensen i den uperturberte grunntilstanden i cesium 133 atomet, være 9 192 631 770 når den er uttrykt i enheten Hz, som er lik s-1.*Enhet for lengde:* Meter, symbol m, er SI-enheten for lengde. Den er definert ved å la den faste numeriske verdien av lyshastigheten i vakuum c være 299 792 458 når den er uttrykt i enheten m/s, der sekund er definert ut fra ΔvCs.*Enhet for masse:* Kilogram, symbol kg, er SI-enheten for masse. Det er definert ved å la den faste numeriske verdien av Plancks konstant h være 6,626 070 15 x 10-34 når den er uttrykt i enheten J s, som er lik kg m2 s-1, der meter og sekund er definert ut fra c og ΔvCs.*Enhet for elektrisk strøm:* Ampere, symbol A, er SI-enheten for elektrisk strøm. Den er definert ved å la den faste numeriske verdien av elementærladningen e være 1,602 176 634 x 10-19 når den er uttrykt i enheten C, som er lik A s, der sekund er definert ut fra ΔvCs.*Enhet for termodynamisk temperatur:* Kelvin, symbol K, er SI-enheten for termodynamisk temperatur. Den er definert ved å la den faste numeriske verdien av Boltzmanns konstant k være 1,380 649 x 10-23 når den er uttrykt i enheten J K-1, som er lik kg m2 s-2 K-1, der kilogram, meter og sekund er definert ut fra h, c og ΔvCs.*Enhet for stoffmengde:* Mol, symbol mol, er SI-enheten for stoffmengde. Et mol inneholder eksakt 6,022 140 76 x 1023 elementære enheter. Dette tallet er den faste numeriske verdien av Avogadros konstant, NA, når den er uttrykt i enheten mol-1 og kalles Avogadros tall.Stoffmengde, symbol n, av et system er et mål på antallet spesifiserte elementære enheter. En elementær enhet kan være et atom, et molekyl, et ion, et elektron, andre partikler eller spesifiserte grupper av partikler.*Enhet for lysstyrke:* Candela, symbol cd, er SI-enheten for lysstyrke i en gitt retning. Den er definert ved å la den faste numeriske verdien av lysstyrken til monokromatisk stråling med frekvens 540 x 1012 Hz, Kcd, til å være 683 når den er uttrykt i enheten lm W-1, som er lik cd sr W-1, eller cd sr kg-1 m-2 s3, der kilogram, meter og sekund er definert ut fra h, c og ΔvCs.*Tabell 2. Særlig navn og symbol for den avledede SI-enheten for temperatur ved angivelse av celsius-temperatur.**Størrelse**Enhet**Navn**Symbol*CelsiustemperaturGrad celsius°CCelsiustemperatur t er definert som differansen t = T – T0 mellom de to termodynamiske temperaturene T og T0, der T0 = 273,15 K. Et intervall eller en differanse i temperatur kan uttrykkes enten i kelvin eller i grader *celsius*. Enheten «grader celsius» er lik enheten «kelvin».
+SI-grunnenhetene har følgende definisjoner:
+
+1. *Enhet for tid:* Sekund, symbol s, er SI-enheten for tid. Den er definert ved å la den faste numeriske verdien av cesiumfrekvensen ΔvCs, som hyperfin-overgangsfrekvensen i den uperturberte grunntilstanden i cesium 133 atomet, være 9 192 631 770 når den er uttrykt i enheten Hz, som er lik s-1.
+2. *Enhet for lengde:* Meter, symbol m, er SI-enheten for lengde. Den er definert ved å la den faste numeriske verdien av lyshastigheten i vakuum c være 299 792 458 når den er uttrykt i enheten m/s, der sekund er definert ut fra ΔvCs.
+3. *Enhet for masse:* Kilogram, symbol kg, er SI-enheten for masse. Det er definert ved å la den faste numeriske verdien av Plancks konstant h være 6,626 070 15 x 10-34 når den er uttrykt i enheten J s, som er lik kg m2 s-1, der meter og sekund er definert ut fra c og ΔvCs.
+4. *Enhet for elektrisk strøm:* Ampere, symbol A, er SI-enheten for elektrisk strøm. Den er definert ved å la den faste numeriske verdien av elementærladningen e være 1,602 176 634 x 10-19 når den er uttrykt i enheten C, som er lik A s, der sekund er definert ut fra ΔvCs.
+5. *Enhet for termodynamisk temperatur:* Kelvin, symbol K, er SI-enheten for termodynamisk temperatur. Den er definert ved å la den faste numeriske verdien av Boltzmanns konstant k være 1,380 649 x 10-23 når den er uttrykt i enheten J K-1, som er lik kg m2 s-2 K-1, der kilogram, meter og sekund er definert ut fra h, c og ΔvCs.
+6. *Enhet for stoffmengde:* Mol, symbol mol, er SI-enheten for stoffmengde. Et mol inneholder eksakt 6,022 140 76 x 1023 elementære enheter. Dette tallet er den faste numeriske verdien av Avogadros konstant, NA, når den er uttrykt i enheten mol-1 og kalles Avogadros tall.
+7. Stoffmengde, symbol n, av et system er et mål på antallet spesifiserte elementære enheter. En elementær enhet kan være et atom, et molekyl, et ion, et elektron, andre partikler eller spesifiserte grupper av partikler.
+8. *Enhet for lysstyrke:* Candela, symbol cd, er SI-enheten for lysstyrke i en gitt retning. Den er definert ved å la den faste numeriske verdien av lysstyrken til monokromatisk stråling med frekvens 540 x 1012 Hz, Kcd, til å være 683 når den er uttrykt i enheten lm W-1, som er lik cd sr W-1, eller cd sr kg-1 m-2 s3, der kilogram, meter og sekund er definert ut fra h, c og ΔvCs.
+
+   *Tabell 2. Særlig navn og symbol for den avledede SI-enheten for temperatur ved angivelse av celsius-temperatur.*
+
+   | *Størrelse* | *Enhet* |  |
+   | --- | --- | --- |
+   |  | *Navn* | *Symbol* |
+   | Celsiustemperatur | Grad celsius | °C |
+
+   Celsiustemperatur t er definert som differansen t = T – T0 mellom de to termodynamiske temperaturene T og T0, der T0 = 273,15 K. Et intervall eller en differanse i temperatur kan uttrykkes enten i kelvin eller i grader *celsius*. Enheten «grader celsius» er lik enheten «kelvin».
 
 > Endret ved [forskrift 26 aug 2020 nr. 1681](forskrift/2020-08-26-1681).
 
@@ -120,7 +157,10 @@ Følgende avledede SI-enheter har egne navn og symboler:
 | Doseekvivalent, miljødoseekvivalent, retningsdoseekvivalent, persondoseekvivalent | sievert | Sv | J/kg | m2 ·s-2 |
 | Katalytisk aktivitet | katal | Kat |  | s-1 ·mol |
 
-De avledede SI-enhetene radian og steradian har følgende definisjoner:*Enhet for vinkel:* En radian er den vinkel mellom to radier som avgrenser en bue av sirkelens omkrets med en lengde lik radien*Enhet for romvinkel:* En steradian er den romvinkel som med toppunkt i en kules sentrum avgrenser et areal av kuleoverflaten som er lik et kvadrat med sidekanter lik kuleradien.
+De avledede SI-enhetene radian og steradian har følgende definisjoner:
+
+1. *Enhet for vinkel:* En radian er den vinkel mellom to radier som avgrenser en bue av sirkelens omkrets med en lengde lik radien
+2. *Enhet for romvinkel:* En steradian er den romvinkel som med toppunkt i en kules sentrum avgrenser et areal av kuleoverflaten som er lik et kvadrat med sidekanter lik kuleradien.
 
 De avledede SI-enhetene kan igjen brukes til å uttrykke andre avledede enheter på en enklere måte enn ved grunnenhetene. Dette gjelder blant annet:
 
@@ -238,7 +278,27 @@ Et prefiks skrives uten mellomrom foran et enhetssymbol. Prefikset velges slik a
 
 ### § 3-1. Når det stilles krav til måleredskaper
 
-Det stilles krav ved salg og under bruk til følgende måleredskaper når de gjøres tilgjengelig på markedet, og er underlagt krav under bruk i fjerde eller femte ledd, eller i andre regelverk:automatiske diskontinuerlige summeringsvekterautomatiske gravimetriske fyllemaskinerautomatiske instrumenter for veiing av kjøretøy i bevegelse og måling av aksellastautomatiske jernbanevekteravgassmålere som brukes til inspeksjon og fagmessig vedlikehold av motorvogner i brukelektrisitetsmålere som måler aktiv energi eller en kombinasjon av aktiv og reaktiv energi som brukes i lokaler til opphold, i næringsvirksomhet og i lett industriflasker brukt som målebeholdereflerdimensjonsmålereikke-automatiske vekterinstrumenter for automatisk veiing av enkeltmengder (catchvekt)lengdemål som måler nivået i tankerlengdemålingsinstrumentermaterielle lengdemålmålesystem for kontinuerlig og dynamisk måling av andre væsker enn vanntaksametretransportbåndvektervannmålere som brukes i lokaler til opphold, i næringsvirksomhet og i lett industrivarmeenergimålere som brukes i lokaler til opphold, i næringsvirksomhet og i lett industri.gassmålere
+Det stilles krav ved salg og under bruk til følgende måleredskaper når de gjøres tilgjengelig på markedet, og er underlagt krav under bruk i fjerde eller femte ledd, eller i andre regelverk:
+
+1. automatiske diskontinuerlige summeringsvekter
+2. automatiske gravimetriske fyllemaskiner
+3. automatiske instrumenter for veiing av kjøretøy i bevegelse og måling av aksellast
+4. automatiske jernbanevekter
+5. avgassmålere som brukes til inspeksjon og fagmessig vedlikehold av motorvogner i bruk
+6. elektrisitetsmålere som måler aktiv energi eller en kombinasjon av aktiv og reaktiv energi som brukes i lokaler til opphold, i næringsvirksomhet og i lett industri
+7. flasker brukt som målebeholdere
+8. flerdimensjonsmålere
+9. ikke-automatiske vekter
+10. instrumenter for automatisk veiing av enkeltmengder (catchvekt)
+11. lengdemål som måler nivået i tanker
+12. lengdemålingsinstrumenter
+13. materielle lengdemål
+14. målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann
+15. taksametre
+16. transportbåndvekter
+17. vannmålere som brukes i lokaler til opphold, i næringsvirksomhet og i lett industri
+18. varmeenergimålere som brukes i lokaler til opphold, i næringsvirksomhet og i lett industri.
+19. gassmålere
 
 Det stilles krav under bruk til måletanker som brukes til å angi volum enten ved hjelp av fast merke, ved peiling eller på annen måte når måleresultatet brukes som grunnlag for beregning av økonomisk oppgjør.
 
@@ -246,7 +306,15 @@ De økonomiske aktørene skal sørge for at kravene ved salg fastsatt i eller i 
 
 Brukeren skal sørge for at kravene under bruk fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4) er tilfredsstilt for måleredskapene angitt i første ledd unntatt avgassmålere, når måleresultatet brukes som grunnlag for beregning av økonomisk oppgjør. Et måleredskap brukes til økonomisk oppgjør når resultatet av en måling danner grunnlaget for beregning av den pengeverdien (prisen) som skal betales eller gjøres opp på annen måte, herunder beregning av verdier ved handelstransaksjoner og direkte salg til publikum, fastsettelse av innholdet i ferdigpakkede varer, avgift, toll, skatt, premie, bonus, akkord, bøter, vederlag, godtgjørelse, erstatning eller betaling av lignende art.
 
-Brukeren skal sørge for at kravene under bruk fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4) er tilfredsstilt for ikke-automatiske vekter som brukes til åbestemme massen med sikte på anvendelsen av en lov eller forskriftbestemme massen ved beregning av tariffbestemme massen for bruk i en sakkyndig uttalelse i forbindelse med rettssakerbestemme massen i medisinsk praksis ved veiing av pasienter med sikte på overvåking, diagnostisering og medisinsk behandlingbestemme massen ved å fremstille reseptbelagte legemidler i apotekbestemme massen ved analyser utført i medisinske og farmasøytiske laboratorierfastsette pris etter masse ved direkte salg til publikum og ved produksjon av ferdigpakninger.
+Brukeren skal sørge for at kravene under bruk fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4) er tilfredsstilt for ikke-automatiske vekter som brukes til å
+
+1. bestemme massen med sikte på anvendelsen av en lov eller forskrift
+2. bestemme massen ved beregning av tariff
+3. bestemme massen for bruk i en sakkyndig uttalelse i forbindelse med rettssaker
+4. bestemme massen i medisinsk praksis ved veiing av pasienter med sikte på overvåking, diagnostisering og medisinsk behandling
+5. bestemme massen ved å fremstille reseptbelagte legemidler i apotek
+6. bestemme massen ved analyser utført i medisinske og farmasøytiske laboratorier
+7. fastsette pris etter masse ved direkte salg til publikum og ved produksjon av ferdigpakninger.
 
 Hvis de ikke-automatiske vektene angitt i femte ledd er utstyrt med eller knyttet til innretninger som ikke benyttes til slike formål som nevnt i femte ledd, gjelder ikke kravene i forskriften her for disse innretningene.
 
@@ -254,7 +322,11 @@ Hvis de ikke-automatiske vektene angitt i femte ledd er utstyrt med eller knytte
 
 ### § 3-2. Produksjon av ferdigpakninger
 
-Ved produksjon av ferdigpakninger kan kravene i denne forskriften sikres på en av følgende måter:Det brukes et måleredskap som oppfyller kravene fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4).Innholdet i ferdigpakningen kontrolleres med et egnet måleredskap som oppfyller kravene fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4).Ved stikkprøver eller andre kontrollsystem som sikrer at innholdet i ferdigpakningene tilfredsstiller kravene i forskrift om krav til ferdigpakninger.
+Ved produksjon av ferdigpakninger kan kravene i denne forskriften sikres på en av følgende måter:
+
+1. Det brukes et måleredskap som oppfyller kravene fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4).
+2. Innholdet i ferdigpakningen kontrolleres med et egnet måleredskap som oppfyller kravene fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4).
+3. Ved stikkprøver eller andre kontrollsystem som sikrer at innholdet i ferdigpakningene tilfredsstiller kravene i forskrift om krav til ferdigpakninger.
 
 > Endret ved forskrift [13 aug 2021 nr. 2504](forskrift/2021-08-13-2504).
 
@@ -294,9 +366,28 @@ De økonomiske aktørene skal sørge for at måleredskapene nevnt i [§ 3-1](for
 
 ### § 4-2. Krav til type samsvarsvurdering
 
-Følgende måleredskaper skal oppfylle kravene til EØS-samsvarsvurdering i avsnitt 1 og 2 hvis de er underlagt krav i [§ 3-1](forskrift/2007-12-20-1723/§3-1) første ledd:automatiske diskontinuerlige summeringsvekterautomatiske gravimetriske fyllemaskinerautomatiske jernbanevekteravgassmålereelektrisitetsmålere som måler aktiv energi eller en kombinasjon av aktiv og reaktiv energi som brukes i boliger, næringsvirksomhet og lett industriflerdimensjonsmålereikke-automatiske vekterinstrumenter for automatisk veiing av enkeltmengder (catchvekt)lengdemålingsinstrumentermaterielle lengdemålmålesystem for kontinuerlig og dynamisk måling av andre væsker enn vanntaksametretransportbåndvektervannmålere som brukes i boliger, næringsvirksomhet og lett industrivarmeenergimålere som brukes i boliger, næringsvirksomhet og lett industri.
+Følgende måleredskaper skal oppfylle kravene til EØS-samsvarsvurdering i avsnitt 1 og 2 hvis de er underlagt krav i [§ 3-1](forskrift/2007-12-20-1723/§3-1) første ledd:
 
-Følgende måleredskaper skal oppfylle kravene til nasjonal samsvarsvurdering i avsnitt 1 og 5 hvis de er underlagt krav i [§ 3-1](forskrift/2007-12-20-1723/§3-1) første ledd:automatiske instrumenter for veiing av kjøretøy i bevegelse og måling av aksellastlengdemål som måler nivået i tanker.
+1. automatiske diskontinuerlige summeringsvekter
+2. automatiske gravimetriske fyllemaskiner
+3. automatiske jernbanevekter
+4. avgassmålere
+5. elektrisitetsmålere som måler aktiv energi eller en kombinasjon av aktiv og reaktiv energi som brukes i boliger, næringsvirksomhet og lett industri
+6. flerdimensjonsmålere
+7. ikke-automatiske vekter
+8. instrumenter for automatisk veiing av enkeltmengder (catchvekt)
+9. lengdemålingsinstrumenter
+10. materielle lengdemål
+11. målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann
+12. taksametre
+13. transportbåndvekter
+14. vannmålere som brukes i boliger, næringsvirksomhet og lett industri
+15. varmeenergimålere som brukes i boliger, næringsvirksomhet og lett industri.
+
+Følgende måleredskaper skal oppfylle kravene til nasjonal samsvarsvurdering i avsnitt 1 og 5 hvis de er underlagt krav i [§ 3-1](forskrift/2007-12-20-1723/§3-1) første ledd:
+
+1. automatiske instrumenter for veiing av kjøretøy i bevegelse og måling av aksellast
+2. lengdemål som måler nivået i tanker.
 
 Flasker brukt som målebeholdere skal oppfylle kravene ved salg i [forskrift om krav til måleflasker](forskrift/2007-12-21-1732).
 
@@ -351,7 +442,10 @@ Samsvarsvurderingen for de enkelte måleredskaper er bare tillatt utført etter 
 
 ### § 4-7. Krav ved samsvarsvurdering etter EØS-avtalen
 
-Kravene fastsatt i instrumentspesifikke forskrifter anses oppfylt når måleredskapene er i samsvar medharmonisert standard eller deler av denne som det er offentliggjort en henvisning til i Den europeiske unions tidende, ellerde deler av et normativt dokument som er offentliggjort i en liste i Den europeiske unions tidende.
+Kravene fastsatt i instrumentspesifikke forskrifter anses oppfylt når måleredskapene er i samsvar med
+
+1. harmonisert standard eller deler av denne som det er offentliggjort en henvisning til i Den europeiske unions tidende, eller
+2. de deler av et normativt dokument som er offentliggjort i en liste i Den europeiske unions tidende.
 
 Dersom et måleredskap bare er delvis i samsvar med harmonisert standard eller normativt dokument som nevnt i første ledd, skal det antas samsvar med de grunnleggende kravene som tilsvarer de elementer i standarden eller det normative dokumentet, som måleredskapet samsvarer med.
 
@@ -367,7 +461,11 @@ Det er ikke tillatt å gjøre måleredskaper som ikke oppfyller kravene i denne 
 
 ### § 4-9. Krav til merking ved samsvarsvurdering etter EØS-avtalen
 
-CE-merking og supplerende metrologisk merking skal påføres før måleredskapet første gang gjøres tilgjengelig på markedet. CE-merking og supplerende metrologisk merking kan påføres måleredskapet under produksjonsprosessen hvis det er berettiget. Forrige setning gjelder ikke for ikke-automatiske vekter. Samsvarsmerkingen består avCE-merkingsupplerende metrologisk merkingidentifikasjonsnummeret til det aktuelle tekniske kontrollorganet.
+CE-merking og supplerende metrologisk merking skal påføres før måleredskapet første gang gjøres tilgjengelig på markedet. CE-merking og supplerende metrologisk merking kan påføres måleredskapet under produksjonsprosessen hvis det er berettiget. Forrige setning gjelder ikke for ikke-automatiske vekter. Samsvarsmerkingen består av
+
+1. CE-merking
+2. supplerende metrologisk merking
+3. identifikasjonsnummeret til det aktuelle tekniske kontrollorganet.
 
 CE-merkingen skal være i overensstemmelse med forordning [(EF) nr. 765/2008](eu/32008r0765) artikkel 30, som inntatt i EØS-vareloven. De generelle prinsippene i artikkel 30 gjelder også, mutatis mutandis, til den supplerende metrologiske merkingen.
 
@@ -408,9 +506,27 @@ For samsvarsvurderinger som skal foretas av teknisk kontrollorgan, skal produsen
 
 Den tekniske dokumentasjonen skal på en tydelig måte beskrive måleredskapets konstruksjon, produksjon og virkemåte, og skal gjøre det mulig å vurdere om måleredskapet er i samsvar med relevante krav fastsatt i instrumentspesifikke forskrifter.
 
-Den tekniske dokumentasjonen skal være tilstrekkelig detaljert til å sikre følgende:definisjon av måletekniske egenskaperat de produserte måleredskapenes måleytelser kan reproduseres når de er riktig innstilte med høvelige hjelpemidlermåleredskapets integritet (f.eks. dokumentasjon om type plombering og identifikasjon av programvare).
+Den tekniske dokumentasjonen skal være tilstrekkelig detaljert til å sikre følgende:
 
-Den tekniske dokumentasjonen skal i den grad det er relevant for vurdering og identifikasjon av type eller måleredskap, omfatte følgende:en generell beskrivelse av måleredskapetoverordnede konstruksjons- og produksjonstegninger og planer over komponenter, underenheter, kretser osv.produksjonsmetoder som sikrer enhetlig produksjoneventuelt en beskrivelse av de elektroniske anordningene med tegninger, diagrammer, flytskjemaer med logiske og generelle opplysninger om programvare, som forklarer egenskaper og virkemåtenødvendige beskrivelser og forklaringer for å forstå bokstav b), c) og d), herunder måleredskapets virkemåteen liste over de standarder og normative dokumenter, som nevnt i [§ 4-7](forskrift/2007-12-20-1723/§4-7), som helt eller delvis skal anvendesbeskrivelser av løsninger som benyttes for å oppfylle grunnleggende krav, dersom standardene eller de normative dokumentene nevnt i [§ 4-7](forskrift/2007-12-20-1723/§4-7) ikke er anvendt, inkludert en liste over andre relevante tekniske spesifikasjoner som er benyttetresultater av konstruksjonsberegninger, kontrollundersøkelser osv.EU-typeprøvingssertifikater eller EU-sertifikater for konstruksjonsundersøkelse for måleredskaper som inneholder deler som er identiske med dem som inngår i konstruksjonenrelevante testresultater, om nødvendig, for å påvise at type eller måleredskap er i samsvar medkravene fastsatt i instrumentspesifikke forskrifter under angitte driftsbetingelser og under angitte miljøforstyrrelserholdbarhetsspesifikasjoner for gassmålere, vannmålere, varmemålere og målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann.
+1. definisjon av måletekniske egenskaper
+2. at de produserte måleredskapenes måleytelser kan reproduseres når de er riktig innstilte med høvelige hjelpemidler
+3. måleredskapets integritet (f.eks. dokumentasjon om type plombering og identifikasjon av programvare).
+
+Den tekniske dokumentasjonen skal i den grad det er relevant for vurdering og identifikasjon av type eller måleredskap, omfatte følgende:
+
+1. en generell beskrivelse av måleredskapet
+2. overordnede konstruksjons- og produksjonstegninger og planer over komponenter, underenheter, kretser osv.
+3. produksjonsmetoder som sikrer enhetlig produksjon
+4. eventuelt en beskrivelse av de elektroniske anordningene med tegninger, diagrammer, flytskjemaer med logiske og generelle opplysninger om programvare, som forklarer egenskaper og virkemåte
+5. nødvendige beskrivelser og forklaringer for å forstå bokstav b), c) og d), herunder måleredskapets virkemåte
+6. en liste over de standarder og normative dokumenter, som nevnt i [§ 4-7](forskrift/2007-12-20-1723/§4-7), som helt eller delvis skal anvendes
+7. beskrivelser av løsninger som benyttes for å oppfylle grunnleggende krav, dersom standardene eller de normative dokumentene nevnt i [§ 4-7](forskrift/2007-12-20-1723/§4-7) ikke er anvendt, inkludert en liste over andre relevante tekniske spesifikasjoner som er benyttet
+8. resultater av konstruksjonsberegninger, kontrollundersøkelser osv.
+9. EU-typeprøvingssertifikater eller EU-sertifikater for konstruksjonsundersøkelse for måleredskaper som inneholder deler som er identiske med dem som inngår i konstruksjonen
+10. relevante testresultater, om nødvendig, for å påvise at type eller måleredskap er i samsvar med
+
+    1. kravene fastsatt i instrumentspesifikke forskrifter under angitte driftsbetingelser og under angitte miljøforstyrrelser
+    2. holdbarhetsspesifikasjoner for gassmålere, vannmålere, varmemålere og målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann.
 
 Det skal antas samsvar med de relevante tester nevnt i bokstav j ovenfor dersom tilsvarende tester er utført i samsvar med relevante dokumenter nevnt i [§ 4-7](forskrift/2007-12-20-1723/§4-7) og dersom testresultatene sikrer samsvar med de grunnleggende krav. Dette avsnittet gjelder ikke for ikke-automatiske vekter.
 
@@ -434,29 +550,53 @@ Sertifikater utstedt i henhold til direktiv [2009/23/EF](eu/32009l0023) og direk
 
 1\. Når produsenten første gang gjør sine måleredskaper tilgjengelige på markedet og/eller tar disse i bruk, skal han/hun sikre at måleredskapene er konstruert og fremstilt i henhold til krav fastsatt i eller i medhold av lov om målenheter, måling og normaltid.
 
-2\. Produsenten skal utarbeide den tekniske dokumentasjonen som vist til i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Produsenten skal gjennomføre eller få gjennomført den relevante samsvarsvurderingsprosedyren, jf. [§ 4-6](forskrift/2007-12-20-1723/§4-6) tabell 10.Når produsenten gjennom samsvarsvurderingsprosedyren har fått dokumentert at måleredskapet oppfyller de gjeldende krav i eller i medhold av lov om målenheter, måling og normaltid, skal produsenten utarbeide en EU-samsvarserklæring, og påføre CE-merking og supplerende metrologisk merking.
+2\. Produsenten skal utarbeide den tekniske dokumentasjonen som vist til i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Produsenten skal gjennomføre eller få gjennomført den relevante samsvarsvurderingsprosedyren, jf. [§ 4-6](forskrift/2007-12-20-1723/§4-6) tabell 10.
+
+Når produsenten gjennom samsvarsvurderingsprosedyren har fått dokumentert at måleredskapet oppfyller de gjeldende krav i eller i medhold av lov om målenheter, måling og normaltid, skal produsenten utarbeide en EU-samsvarserklæring, og påføre CE-merking og supplerende metrologisk merking.
 
 3\. Produsenten skal oppbevare den tekniske dokumentasjonen og EU-samsvarserklæringen i 10 år etter at måleredskapet første gang ble gjort tilgjengelig på markedet.
 
-4\. Produsenten skal sørge for at det finnes prosedyrer som sikrer at serieproduserte måleredskaper er i overensstemmelse med krav fastsatt i eller i medhold av lov om målenheter, måling og normaltid. Det skal tas nødvendig hensyn til endringer ved måleredskapets konstruksjon eller kjennetegn, endringer i harmoniserte standarder, normative dokumenter og andre tekniske spesifikasjoner, som det er henvist til for å dokumentere at måleredskapet oppfyller kravene.Når det anses hensiktsmessig med hensyn til måleredskapets yteevne, skal produsenten gjennomføre stikkprøver av måleredskaper som er gjort tilgjengelige på markedet, undersøke, og om nødvendig føre et register over klager, over måleredskaper som ikke oppfyller kravene og over måleredskaper som er trukket tilbake. Produsenten skal holde distributørene informert om enhver slik overvåkning.
+4\. Produsenten skal sørge for at det finnes prosedyrer som sikrer at serieproduserte måleredskaper er i overensstemmelse med krav fastsatt i eller i medhold av lov om målenheter, måling og normaltid. Det skal tas nødvendig hensyn til endringer ved måleredskapets konstruksjon eller kjennetegn, endringer i harmoniserte standarder, normative dokumenter og andre tekniske spesifikasjoner, som det er henvist til for å dokumentere at måleredskapet oppfyller kravene.
+
+Når det anses hensiktsmessig med hensyn til måleredskapets yteevne, skal produsenten gjennomføre stikkprøver av måleredskaper som er gjort tilgjengelige på markedet, undersøke, og om nødvendig føre et register over klager, over måleredskaper som ikke oppfyller kravene og over måleredskaper som er trukket tilbake. Produsenten skal holde distributørene informert om enhver slik overvåkning.
 
 5\. Produsenten skal sørge for at måleredskaper som han/hun første gang har gjort tilgjengelige på markedet, er påført et type-, parti- eller serienummer, eller en annen form for angivelse som gjør det mulig å identifisere måleredskapet. Dersom dette ikke er mulig på grunn av måleredskapets størrelse eller art, skal opplysningene fremgå av et dokument som er vedlagt måleredskapet og på eventuell emballasje, i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Forrige setning gjelder ikke for ikke-automatiske vekter.
 
-6\. Produsenten skal angi følgende på måleredskapet;produsentens navn,produsentens registrerte firmanavn eller registrerte varemerke, ogpostadresse hvor produsenten kan kontaktes.Dersom dette ikke er mulig, skal opplysningene fremgå av et dokument som er vedlagt måleredskapet og på eventuell emballasje, i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Adressen skal angi kun ett sted hvor produsenten kan kontaktes. Kontaktinformasjonen skal være på et språk som lett kan forstås av sluttbrukere og markedstilsynsmyndigheter.
+6\. Produsenten skal angi følgende på måleredskapet;
 
-7\. Produsenten skal sørge for at en kopi av EU-samsvarserklæringen, samt bruksanvisning og informasjon i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)», er vedlagt når måleredskapet første gang gjøres tilgjengelig på markedet. Opplysninger som er nødvendige for å sikre korrekt bruk av måleredskapet skal være på norsk. Justervesenet kan i det enkelte tilfelle tillate at opplysningene er på svensk, dansk eller engelsk. Bruksanvisning, informasjon og merking skal være klar, tydelig og forståelig.For ikke-automatiske vekter trenger ikke EU-samsvarserklæring å ligge ved, og bruksanvisning og informasjon trenger ikke å være i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)».
+1. produsentens navn,
+2. produsentens registrerte firmanavn eller registrerte varemerke, og
+3. postadresse hvor produsenten kan kontaktes.
+
+Dersom dette ikke er mulig, skal opplysningene fremgå av et dokument som er vedlagt måleredskapet og på eventuell emballasje, i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Adressen skal angi kun ett sted hvor produsenten kan kontaktes. Kontaktinformasjonen skal være på et språk som lett kan forstås av sluttbrukere og markedstilsynsmyndigheter.
+
+7\. Produsenten skal sørge for at en kopi av EU-samsvarserklæringen, samt bruksanvisning og informasjon i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)», er vedlagt når måleredskapet første gang gjøres tilgjengelig på markedet. Opplysninger som er nødvendige for å sikre korrekt bruk av måleredskapet skal være på norsk. Justervesenet kan i det enkelte tilfelle tillate at opplysningene er på svensk, dansk eller engelsk. Bruksanvisning, informasjon og merking skal være klar, tydelig og forståelig.
+
+For ikke-automatiske vekter trenger ikke EU-samsvarserklæring å ligge ved, og bruksanvisning og informasjon trenger ikke å være i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)».
 
 8\. Dersom en produsent anser eller har grunn til å tro at et måleredskap som han første gang har gjort tilgjengelig på markedet, ikke oppfyller kravene i eller i medhold av lov om målenheter, måling og normaltid, skal produsenten umiddelbart gjennomføre de korrigerende tiltak som er nødvendige for at måleredskapet oppfyller kravene, og om nødvendig forby måleredskapet omsatt eller trekke det tilbake. Dersom måleredskapet medfører risiko, skal produsenten videre umiddelbart informere de relevante nasjonale myndigheter i de land hvor han/hun har gjort måleredskapet tilgjengelig på EØS-markedet. Det skal særlig gis opplysninger om den manglende overensstemmelse og om eventuelle korrigerende tiltak som er truffet.
 
-9\. Ved forespørsel fra en relevant nasjonal myndighet, skal produsentenskaffe all informasjon og dokumentasjon som er nødvendig for å dokumentere at måleredskapet er i samsvar med kravene ved salg fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4), på et språk som lett kan forstås av myndighetensamarbeide med myndigheten om ethvert tiltak som treffes for å redusere risiko fra de måleredskaper som produsenten har gjort tilgjengelig på markedet første gang.
+9\. Ved forespørsel fra en relevant nasjonal myndighet, skal produsenten
+
+1. skaffe all informasjon og dokumentasjon som er nødvendig for å dokumentere at måleredskapet er i samsvar med kravene ved salg fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4), på et språk som lett kan forstås av myndigheten
+2. samarbeide med myndigheten om ethvert tiltak som treffes for å redusere risiko fra de måleredskaper som produsenten har gjort tilgjengelig på markedet første gang.
 
 > Tilføyd ved [forskrifter 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016), [29 jan 2016 nr. 124](forskrift/2016-01-29-124) (i kraft 20 april 2016), endret ved [forskrifter 25 april 2016 nr. 427](forskrift/2016-04-25-427), [13 aug 2021 nr. 2504](forskrift/2021-08-13-2504).
 
 ### § 4-15. Autorisert representants forpliktelser
 
-1\. Produsenten kan utpeke en autorisert representant ved skriftlig fullmakt.Følgende forpliktelser skal ikke være omfattet av den autoriserte representantens fullmakt;krav i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 1krav om å utarbeide teknisk dokumentasjon, jf. [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 2.
+1\. Produsenten kan utpeke en autorisert representant ved skriftlig fullmakt.
 
-2\. Autorisert representant skal utføre de oppgaver som er spesifisert i fullmakten som er mottatt fra produsenten. Fullmakten skal pålegge den autoriserte representanten å gjøre minst følgende oppgaver:oppbevare den tekniske dokumentasjonen og EU-samsvarserklæringen i 10 år etter at måleredskapet første gang ble gjort tilgjengelig på markedet, til rådighet for de nasjonale markedstilsynsmyndighetene,ved forespørsel, å samarbeide med de relevante nasjonale myndigheter om ethvert tiltak som treffes for å redusere risiko fra de måleredskaper som er omfattet av representantens fullmakt,ved forespørsel gi nasjonale myndigheter alle opplysninger og nødvendig dokumentasjon for å vise at måleinstrumentet er i samsvar med kravene.
+Følgende forpliktelser skal ikke være omfattet av den autoriserte representantens fullmakt;
+
+1. krav i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 1
+2. krav om å utarbeide teknisk dokumentasjon, jf. [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 2.
+
+2\. Autorisert representant skal utføre de oppgaver som er spesifisert i fullmakten som er mottatt fra produsenten. Fullmakten skal pålegge den autoriserte representanten å gjøre minst følgende oppgaver:
+
+1. oppbevare den tekniske dokumentasjonen og EU-samsvarserklæringen i 10 år etter at måleredskapet første gang ble gjort tilgjengelig på markedet, til rådighet for de nasjonale markedstilsynsmyndighetene,
+2. ved forespørsel, å samarbeide med de relevante nasjonale myndigheter om ethvert tiltak som treffes for å redusere risiko fra de måleredskaper som er omfattet av representantens fullmakt,
+3. ved forespørsel gi nasjonale myndigheter alle opplysninger og nødvendig dokumentasjon for å vise at måleinstrumentet er i samsvar med kravene.
 
 > Tilføyd ved [forskrift 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016), endret ved [forskrift 26 aug 2020 nr. 1681](forskrift/2020-08-26-1681).
 
@@ -464,9 +604,23 @@ Sertifikater utstedt i henhold til direktiv [2009/23/EF](eu/32009l0023) og direk
 
 1\. Importør skal kun første gang gjøre tilgjengelig på markedet måleredskaper som oppfyller kravene i eller i medhold av lov om målenheter, måling og normaltid.
 
-2\. Importøren skal før han/hun gjør et måleredskap første gang tilgjengelig på markedet og/eller tar et måleredskap i bruk, sørge for atprodusenten har gjennomført den relevante samsvarsvurderingsprosedyren, jf. [§ 4-6](forskrift/2007-12-20-1723/§4-6) tabell 10,produsenten har utarbeidet den tekniske dokumentasjonen,måleredskapet er påført CE-merkingen og den supplerende metrologiske merkingen,et eksemplar av EU-samsvarserklæringen og de nødvendige dokumenter er vedlagt måleredskapet, ogprodusenten har oppfylt kravene i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 5 og 6.Dersom en importøren anser eller har grunn til å tro at et måleredskap ikke oppfyller kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid, skal han/hun ikke gjøre måleredskapet tilgjengelig på markedet første gang eller ta det i bruk før det oppfyller kravene. Dersom måleredskapet medfører risiko, skal importøren informere produsenten og markedstilsynsmyndighetene om dette.
+2\. Importøren skal før han/hun gjør et måleredskap første gang tilgjengelig på markedet og/eller tar et måleredskap i bruk, sørge for at
 
-3\. Importør skal angi følgende på måleredskapet;importørens navn,importørens registrerte firmanavn eller registrerte varemerke, ogpostadresse hvor importør kan kontaktes.Dersom dette ikke er mulig, skal opplysningene fremgå av et dokument som er vedlagt måleredskapet og på eventuell emballasje, i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Kontaktinformasjonen skal være på et språk som lett kan forstås av sluttbrukere og markedstilsynsmyndigheter.
+1. produsenten har gjennomført den relevante samsvarsvurderingsprosedyren, jf. [§ 4-6](forskrift/2007-12-20-1723/§4-6) tabell 10,
+2. produsenten har utarbeidet den tekniske dokumentasjonen,
+3. måleredskapet er påført CE-merkingen og den supplerende metrologiske merkingen,
+4. et eksemplar av EU-samsvarserklæringen og de nødvendige dokumenter er vedlagt måleredskapet, og
+5. produsenten har oppfylt kravene i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 5 og 6.
+
+Dersom en importøren anser eller har grunn til å tro at et måleredskap ikke oppfyller kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid, skal han/hun ikke gjøre måleredskapet tilgjengelig på markedet første gang eller ta det i bruk før det oppfyller kravene. Dersom måleredskapet medfører risiko, skal importøren informere produsenten og markedstilsynsmyndighetene om dette.
+
+3\. Importør skal angi følgende på måleredskapet;
+
+1. importørens navn,
+2. importørens registrerte firmanavn eller registrerte varemerke, og
+3. postadresse hvor importør kan kontaktes.
+
+Dersom dette ikke er mulig, skal opplysningene fremgå av et dokument som er vedlagt måleredskapet og på eventuell emballasje, i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Kontaktinformasjonen skal være på et språk som lett kan forstås av sluttbrukere og markedstilsynsmyndigheter.
 
 4\. Importør skal sørge for at det ved måleredskapet er vedlagt bruksanvisning og informasjon i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». For ikke-automatiske vekter trenger ikke bruksanvisning og informasjon å være i henhold til bestemmelsen i kapittel 2 i de instrumentspesifikke forskriftene om «opplysninger som skal påføres eller følge (det aktuelle måleredskapet)». Bruksanvisning og informasjon skal være på norsk. Justervesenet kan i det enkelte tilfelle tillate at opplysningene er på svensk, dansk eller engelsk.
 
@@ -485,7 +639,13 @@ Sertifikater utstedt i henhold til direktiv [2009/23/EF](eu/32009l0023) og direk
 ### § 4-17. Distributørens forpliktelser
 
 1. Distributøren skal handle med rimelig aktsomhet med hensyn til kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid når denne gjør et måleredskap tilgjengelig på markedet og/eller tar det i bruk.
-2. Før distributøren gjør et måleredskap tilgjengelig på EØS-markedet og/eller tar det i bruk, skal han verifisere atmåleredskapet er påført CE-merking og supplerende metrologisk merking,dokumentene nevnt i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 7 første setning samt nødvendige dokumenter er vedlagt måleredskapet. Opplysninger som er nødvendige for å sikre korrekt bruk av måleredskapet skal være på norsk. Justervesenet kan i det enkelte tilfelle tillate at opplysningene er på svensk, dansk eller engelsk, ogprodusent og importør har oppfylt kravene i henholdsvis [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 5 og 6 og [§ 4-16](forskrift/2007-12-20-1723/§4-16) punkt 3.Dersom en distributøren anser eller har grunn til å tro at et måleredskap som denne har gjort tilgjengelig på EØS-markedet ikke oppfyller kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid, skal ikke måleredskapet gjøres tilgjengelig på EØS-markedet eller tas i bruk før det oppfyller kravene. Dersom måleredskapet medfører risiko, skal distributøren videre informere produsenten eller importøren samt markedstilsynsmyndighetene om dette.
+2. Før distributøren gjør et måleredskap tilgjengelig på EØS-markedet og/eller tar det i bruk, skal han verifisere at
+
+   1. måleredskapet er påført CE-merking og supplerende metrologisk merking,
+   2. dokumentene nevnt i [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 7 første setning samt nødvendige dokumenter er vedlagt måleredskapet. Opplysninger som er nødvendige for å sikre korrekt bruk av måleredskapet skal være på norsk. Justervesenet kan i det enkelte tilfelle tillate at opplysningene er på svensk, dansk eller engelsk, og
+   3. produsent og importør har oppfylt kravene i henholdsvis [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 5 og 6 og [§ 4-16](forskrift/2007-12-20-1723/§4-16) punkt 3.
+
+   Dersom en distributøren anser eller har grunn til å tro at et måleredskap som denne har gjort tilgjengelig på EØS-markedet ikke oppfyller kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid, skal ikke måleredskapet gjøres tilgjengelig på EØS-markedet eller tas i bruk før det oppfyller kravene. Dersom måleredskapet medfører risiko, skal distributøren videre informere produsenten eller importøren samt markedstilsynsmyndighetene om dette.
 3. Distributøren skal sørge for at måleredskaper han har ansvar for, lagres og transporteres på en slik måte at måleredskapets overensstemmelse med kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid ikke settes i fare.
 4. Distributøren skal så raskt som mulig sørge for å overholde [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 8 for de måleredskaper han har gjort tilgjengelige på markedet eller tatt i bruk.
 5. [§ 4-14](forskrift/2007-12-20-1723/§4-14) punkt 9 gjelder også for distributør.
@@ -494,13 +654,19 @@ Sertifikater utstedt i henhold til direktiv [2009/23/EF](eu/32009l0023) og direk
 
 ### § 4-18. Tilfeller hvor produsentens forpliktelser gjelder for importør og distributør
 
-Importør eller distributør anses som produsent og er underlagt bestemmelsene som gjelder for denne i [§ 4-14](forskrift/2007-12-20-1723/§4-14) dersom dennegjør et måleredskap tilgjengelig på markedet første gang under sitt navn eller varemerke, ellergjør endringer på et måleredskap som allerede er gjort tilgjengelig på markedet første gang, på en slik måte at det kan påvirke måleredskapets overensstemmelse med kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid
+Importør eller distributør anses som produsent og er underlagt bestemmelsene som gjelder for denne i [§ 4-14](forskrift/2007-12-20-1723/§4-14) dersom denne
+
+1. gjør et måleredskap tilgjengelig på markedet første gang under sitt navn eller varemerke, eller
+2. gjør endringer på et måleredskap som allerede er gjort tilgjengelig på markedet første gang, på en slik måte at det kan påvirke måleredskapets overensstemmelse med kravene fastsatt i eller i medhold av lov om målenheter, måling og normaltid
 
 > Tilføyd ved [forskrift 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016), endret ved [forskrift 25 april 2016 nr. 427](forskrift/2016-04-25-427).
 
 ### § 4-19. Identifisering av økonomiske aktører
 
-Ved forespørsel skal økonomiske aktører identifisere følgende til markedstilsynsmyndighetene;enhver økonomisk aktør som de har mottatt et måleredskap fra, ogenhver økonomisk aktør som de har levert et måleredskap til
+Ved forespørsel skal økonomiske aktører identifisere følgende til markedstilsynsmyndighetene;
+
+1. enhver økonomisk aktør som de har mottatt et måleredskap fra, og
+2. enhver økonomisk aktør som de har levert et måleredskap til
 
 Økonomiske aktører skal være i stand til å presentere informasjon nevnt i første ledd i 10 år etter at de har mottatt eller levert måleredskapet.
 
@@ -518,7 +684,11 @@ Tekniske kontrollorgan som utpekes, skal oppfylle krav til teknisk kontrollorgan
 
 ### § 4-21. Krav til søknad om utpeking
 
-Søknad om utpeking skal ha vedlagtbeskrivelse av samsvarsvurderingsaktivitetene,den eller de samsvarsvurderingsmoduler og måleredskaper det tekniske kontrollorganet som organet hevder å være kompetent for, oget akkrediteringsbevis utstedt av et nasjonalt akkrediteringsorgan som bekrefter at det tekniske kontrollorganet oppfyller kravene i [§ 4-22](forskrift/2007-12-20-1723/§4-22) til [§ 4-29](forskrift/2007-12-20-1723/§4-29), dersom dette eksisterer. Dersom et akkrediteringsbevis ikke kan legges frem, skal det tekniske kontrollorganet gi utpekende myndighet all dokumentasjon som er nødvendig for å kontrollere, bekrefte og regelmessig føre tilsyn med at organet oppfyller kravene i [§§ 4-22](forskrift/2007-12-20-1723/§4-22) til [4-29](forskrift/2007-12-20-1723/§4-29).
+Søknad om utpeking skal ha vedlagt
+
+1. beskrivelse av samsvarsvurderingsaktivitetene,
+2. den eller de samsvarsvurderingsmoduler og måleredskaper det tekniske kontrollorganet som organet hevder å være kompetent for, og
+3. et akkrediteringsbevis utstedt av et nasjonalt akkrediteringsorgan som bekrefter at det tekniske kontrollorganet oppfyller kravene i [§ 4-22](forskrift/2007-12-20-1723/§4-22) til [§ 4-29](forskrift/2007-12-20-1723/§4-29), dersom dette eksisterer. Dersom et akkrediteringsbevis ikke kan legges frem, skal det tekniske kontrollorganet gi utpekende myndighet all dokumentasjon som er nødvendig for å kontrollere, bekrefte og regelmessig føre tilsyn med at organet oppfyller kravene i [§§ 4-22](forskrift/2007-12-20-1723/§4-22) til [4-29](forskrift/2007-12-20-1723/§4-29).
 
 > Tilføyd ved [forskrift 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016).
 
@@ -560,11 +730,20 @@ Organet skal være i stand til å utføre alle de samsvarsvurderingsoppgaver som
 
 ### § 4-25. Krav til det tekniske kontrollorganets utførelse av samsvarsvurdering
 
-Samsvarsvurderingene skal utføres på en måte som står i forhold til målet, slik at økonomiske aktører ikke pålegges unødvendige byrder. Det tekniske kontrollorganet skal utøve sin virksomhet slik at det tas behørig hensyn tilforetakets størrelse,i hvilken sektor det driver sin virksomhet,dets struktur,kompleksiteten ved det aktuelle måleredskapets teknologi, ogproduksjonsprosessens masse- eller seriepreg.
+Samsvarsvurderingene skal utføres på en måte som står i forhold til målet, slik at økonomiske aktører ikke pålegges unødvendige byrder. Det tekniske kontrollorganet skal utøve sin virksomhet slik at det tas behørig hensyn til
+
+1. foretakets størrelse,
+2. i hvilken sektor det driver sin virksomhet,
+3. dets struktur,
+4. kompleksiteten ved det aktuelle måleredskapets teknologi, og
+5. produksjonsprosessens masse- eller seriepreg.
 
 I den forbindelse skal de likevel overholde den grad av strenghet og beskyttelse som kreves for at måleredskapet skal være i samsvar med denne forskriften og den instrumentspesifikke forskriften.
 
-Det tekniske kontrollorganet skal kreve at produsenten skal treffe egnede korrigerende tiltak, og skal ikke utstede et samsvarssertifikat dersom det finner at produsenten ikke har oppfyltkravene i de instrumentspesifikke forskriftene ellerkorresponderende harmoniserte standarder, normative dokumenter eller andre tekniske spesifikasjoner.
+Det tekniske kontrollorganet skal kreve at produsenten skal treffe egnede korrigerende tiltak, og skal ikke utstede et samsvarssertifikat dersom det finner at produsenten ikke har oppfylt
+
+1. kravene i de instrumentspesifikke forskriftene eller
+2. korresponderende harmoniserte standarder, normative dokumenter eller andre tekniske spesifikasjoner.
 
 Et teknisk kontrollorgan som i forbindelse med kontroll av samsvar etter utstedelsen av et sertifikat finner at måleredskapet ikke lengre er i samsvar med kravene, skal kreve at produsenten gjennomfører hensiktsmessige korrigerende tiltak, og om nødvendig midlertidig oppheve eller trekke tilbake sertifikatet.
 
@@ -574,9 +753,16 @@ Dersom korrigerende tiltak ikke gjennomføres eller ikke har den nødvendige eff
 
 ### § 4-26. Krav til personale i teknisk kontrollorgan
 
-Organets personale som er ansvarlig for å utføre oppgaver i forbindelse med samsvarsvurderingen skal hasolid teknisk og faglig opplæring som omfatter alle samsvarsvurderingsoppgaver som organet er utpekt til,tilfredsstillende kunnskap og forståelse om reglene som gjelder for de oppgaver det utfører, og tilstrekkelig erfaring for å gjennomføre disse oppgavene, samt om de relevante harmoniserte standarder og normative dokumenter, ognødvendig evne til å utarbeide sertifikater, protokoller og rapporter som viser at oppgavene er utført.
+Organets personale som er ansvarlig for å utføre oppgaver i forbindelse med samsvarsvurderingen skal ha
 
-Organet skal delta i, eller sørge for at personalet som er ansvarlig for å utføre oppgaver i forbindelse med samsvarsvurderingen, er informert omden relevante standardiseringsvirksomhet ogvirksomheten til den etablerte koordineringsgruppen for tekniske kontrollorgan. Organet skal anvende de administrative avgjørelser og dokumenter som koordineringsgruppen utarbeider som veiledning.
+1. solid teknisk og faglig opplæring som omfatter alle samsvarsvurderingsoppgaver som organet er utpekt til,
+2. tilfredsstillende kunnskap og forståelse om reglene som gjelder for de oppgaver det utfører, og tilstrekkelig erfaring for å gjennomføre disse oppgavene, samt om de relevante harmoniserte standarder og normative dokumenter, og
+3. nødvendig evne til å utarbeide sertifikater, protokoller og rapporter som viser at oppgavene er utført.
+
+Organet skal delta i, eller sørge for at personalet som er ansvarlig for å utføre oppgaver i forbindelse med samsvarsvurderingen, er informert om
+
+1. den relevante standardiseringsvirksomhet og
+2. virksomheten til den etablerte koordineringsgruppen for tekniske kontrollorgan. Organet skal anvende de administrative avgjørelser og dokumenter som koordineringsgruppen utarbeider som veiledning.
 
 > Endret ved [forskrift 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016, tidligere § 4-20).
 
@@ -594,7 +780,12 @@ Organets personale er bundet av taushetsplikt med hensyn til alle opplysninger s
 
 ### § 4-29. Krav om å informere andre
 
-Tekniske kontrollorganer skal informere utpekende myndighet omethvert avslag, begrensning, midlertidig opphevelse og forbud mot omsetning av et sertifikat,enhver omstendighet som påvirker omfanget av eller vilkårene for utpeking,enhver forespørsel om informasjon som organet har mottatt fra markedstilsynsmyndigheter angående samsvarsvurderingsaktiviteter,ved forespørsel, gjennomførte samsvarsvurderingsaktiviteter.
+Tekniske kontrollorganer skal informere utpekende myndighet om
+
+1. ethvert avslag, begrensning, midlertidig opphevelse og forbud mot omsetning av et sertifikat,
+2. enhver omstendighet som påvirker omfanget av eller vilkårene for utpeking,
+3. enhver forespørsel om informasjon som organet har mottatt fra markedstilsynsmyndigheter angående samsvarsvurderingsaktiviteter,
+4. ved forespørsel, gjennomførte samsvarsvurderingsaktiviteter.
 
 Tekniske kontrollorganer skal gi de andre organer som er utpekt i henhold til direktiv [2014/32/EU](eu/32014l0032*) og direktiv [2014/31/EU](eu/32014l0031) og som utfører lignende samsvarsvurderingsaktiviteter for de samme måleredskaper, relevant informasjon knyttet til negative og, ved forespørsel, positive samsvarsvurderingsresultat.
 
@@ -606,7 +797,11 @@ Tekniske kontrollorganer skal gi de andre organer som er utpekt i henhold til di
 
 Nasjonal samsvarsvurdering innebærer at måleredskaper skal være typegodkjent og førstegangsgodkjent av Justervesenet før de tilbys for salg eller selges med mindre Justervesenet har fastsatt noe annet i instrumentspesifikk forskrift. Ny type måleredskap eller måleredskap i ny eller forandret konstruksjon krever egen typegodkjenning.
 
-Førstegangsgodkjenning kan likevel foretas etter at måleredskapet er installert, dersommåleredskapets egenskaper og konstruksjon ikke gjør det mulig å utføre kontroll før de er montert,måleredskapet er typegodkjent eller selger har søkt om typegodkjenning, ogselger sørger for nødvendig kontroll og godkjenning så snart som mulig.
+Førstegangsgodkjenning kan likevel foretas etter at måleredskapet er installert, dersom
+
+1. måleredskapets egenskaper og konstruksjon ikke gjør det mulig å utføre kontroll før de er montert,
+2. måleredskapet er typegodkjent eller selger har søkt om typegodkjenning, og
+3. selger sørger for nødvendig kontroll og godkjenning så snart som mulig.
 
 Førstegangsgodkjenning skal uansett gjennomføres før måleredskapet tas i bruk. Justervesenet kan gi unntak fra dette kravet i enkelttilfeller dersom det anses forsvarlig.
 
@@ -630,7 +825,10 @@ Enhver som gjør måleredskaper tilgjengelig på markedet, er ansvarlig for at d
 
 ### § 4-33. Omfanget av typegodkjenningen ved nasjonal samsvarsvurdering
 
-Typegodkjenningen kan for hver måleredskapsgruppe begrenses til å gjeldebestemte typer eller konstruksjoner i sin alminnelighet eller kun slike fra en nærmere angitt tilvirker, ellerkun ett enkelt eller et bestemt antall måleredskaper av en bestemt type.
+Typegodkjenningen kan for hver måleredskapsgruppe begrenses til å gjelde
+
+1. bestemte typer eller konstruksjoner i sin alminnelighet eller kun slike fra en nærmere angitt tilvirker, eller
+2. kun ett enkelt eller et bestemt antall måleredskaper av en bestemt type.
 
 Typegodkjenningen kan også begrenses til bare å gjelde anvendelse av måleredskapet til bestemt bruk eller handel, til angitte bedrifter, til visse deler av landet eller i begrenset tid.
 
@@ -658,7 +856,10 @@ Bruker er ansvarlig for at måleredskapet til enhver tid er sikret slik som besk
 
 ### § 5-2. Tilsyn
 
-Justervesenet avgjør hvor tilsynet skal finne sted. Måleredskapet skal kontrolleres der det er installert nårmåleredskapet er faststående eller vanskelig å flytte på grunn av sin størrelse, vekt eller ømfintlighetmåleredskapet må være plassert der det skal brukes for at tilsynet skal kunne gjennomføres.
+Justervesenet avgjør hvor tilsynet skal finne sted. Måleredskapet skal kontrolleres der det er installert når
+
+1. måleredskapet er faststående eller vanskelig å flytte på grunn av sin størrelse, vekt eller ømfintlighet
+2. måleredskapet må være plassert der det skal brukes for at tilsynet skal kunne gjennomføres.
 
 For mobile måleredskap kan Justervesenet bestemme at tilsynet skal foretas på angitt sted. Bruker skal da varsles om stedet og tidspunktet for tilsynet minst to uker før tilsynet skal finne sted.
 
@@ -789,7 +990,11 @@ Med *sluttseddel* menes tilsvarende som i landingsforskriften.
 
 ### § 6-4. Gebyrer for tilsyn
 
-Den som bruker vekter med kapasitet over 5 000 kg (tungvekter), skal betale følgende gebyr:kr 14 710 per oppmøte på brukerstedetkr 4 130 per time Justervesenet bruker på tilsynet der det er behov for vogntog for transport av lodd, ogtimeprisen som følger av [§ 6-1 andre punktum](forskrift/2007-12-20-1723/§6-1/setning/2) per time Justervesenet bruker på tilsynet dersom det ikke er behov for vogntog for transport av lodd.
+Den som bruker vekter med kapasitet over 5 000 kg (tungvekter), skal betale følgende gebyr:
+
+1. kr 14 710 per oppmøte på brukerstedet
+2. kr 4 130 per time Justervesenet bruker på tilsynet der det er behov for vogntog for transport av lodd, og
+3. timeprisen som følger av [§ 6-1 andre punktum](forskrift/2007-12-20-1723/§6-1/setning/2) per time Justervesenet bruker på tilsynet dersom det ikke er behov for vogntog for transport av lodd.
 
 Den som bruker måleredskap og utfører målinger som angitt i tabellen skal betale følgende gebyr per oppmøte på brukerstedet og gebyr per time Justervesenet bruker på tilsynet:
 
@@ -817,7 +1022,10 @@ For tilsyn med reparatør, installatør, den som vedlikeholder og andre som har 
 
 ### § 6-6. Gebyr ved funn av brudd på regelverket (avviksgebyr)
 
-Avdekker et tilsyn brudd på kravene i eller med hjemmel i [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4) som brukeren kan lastes for, skal brukeren betale gebyr formålinger i forbindelse med fremstilling av ferdigpakninger i fiskemottak og vekter i fiskemottak med kr 7 130 per pakkelinje og per måleredskaptaksametre, vekter i dagligvarebutikker, vekter i post i butikk, mellomstore vekter og tungvekter, målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann og andre måleredskaper og målinger med kr 3 760 per måleredskap.
+Avdekker et tilsyn brudd på kravene i eller med hjemmel i [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4) som brukeren kan lastes for, skal brukeren betale gebyr for
+
+1. målinger i forbindelse med fremstilling av ferdigpakninger i fiskemottak og vekter i fiskemottak med kr 7 130 per pakkelinje og per måleredskap
+2. taksametre, vekter i dagligvarebutikker, vekter i post i butikk, mellomstore vekter og tungvekter, målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann og andre måleredskaper og målinger med kr 3 760 per måleredskap.
 
 > Endret ved [forskrifter 15 des 2010 nr. 1741](forskrift/2010-12-15-1741) (i kraft 1 jan 2011), [16 nov 2012 nr. 1232](forskrift/2012-11-16-1232) (i kraft 1 jan 2013), [18 des 2015 nr. 1749](forskrift/2015-12-18-1749) (i kraft 1 jan 2016), [29 jan 2016 nr. 124](forskrift/2016-01-29-124) (i kraft 20 april 2016), [10 aug 2016 nr. 981](forskrift/2016-08-10-981) (i kraft 1 sep 2016, tidligere § 6-5), [5 jan 2017 nr. 19](forskrift/2017-01-05-19) (i kraft 1 jan 2017), [11 des 2017 nr. 1996](forskrift/2017-12-11-1996) (i kraft 1 jan 2018), [20 mars 2019 nr. 317](forskrift/2019-03-20-317), [8 jan 2020 nr. 5](forskrift/2020-01-08-5), [26 aug 2020 nr. 1681](forskrift/2020-08-26-1681), [19 des 2020 nr. 3042](forskrift/2020-12-19-3042) (i kraft 1 jan 2021), [17 des 2021 nr. 3744](forskrift/2021-12-17-3744) (i kraft 1 jan 2022), [20 feb 2023 nr. 223](forskrift/2023-02-20-223) (i kraft 1 mars 2023), [19 des 2023 nr. 2203](forskrift/2023-12-19-2203) (i kraft 1 jan 2024), [20 des 2024 nr. 3333](forskrift/2024-12-20-3333) (i kraft 1 jan 2025), [21 des 2025 nr. 2856](forskrift/2025-12-21-2856) (i kraft 1 jan 2026).
 
@@ -857,7 +1065,12 @@ Betales avgiften eller gebyret for sent og det blir purret på betalingen, pål�
 
 ### § 7-1. Utmåling etter faste satser
 
-Justervesenet kan pålegge overtredelsesgebyr på 10 ganger timegebyret i § 6-1 andre punktum ved forsettlig eller uaktsom overtredelse av følgende bestemmelser i lov om målenheter, måling og normaltid eller bestemmelser gitt med hjemmel i disse bestemmelsene:§ 17 tredje ledd om informasjons- og rapporteringsplikt§ 18 om plikter for de som har oppgaver med måleredskaper og målinger§ 19 om krav til merking når bruker overtrer kravene§ 22 – § 24 om uhindret adgang, opplysningsplikt og praktisk bistand og tilrettelegging for tilsynet.
+Justervesenet kan pålegge overtredelsesgebyr på 10 ganger timegebyret i § 6-1 andre punktum ved forsettlig eller uaktsom overtredelse av følgende bestemmelser i lov om målenheter, måling og normaltid eller bestemmelser gitt med hjemmel i disse bestemmelsene:
+
+1. § 17 tredje ledd om informasjons- og rapporteringsplikt
+2. § 18 om plikter for de som har oppgaver med måleredskaper og målinger
+3. § 19 om krav til merking når bruker overtrer kravene
+4. § 22 – § 24 om uhindret adgang, opplysningsplikt og praktisk bistand og tilrettelegging for tilsynet.
 
 Ved overtredelse av [lov om målenheter, måling og normaltid § 25](lov/2007-01-26-4/§25) om opplysningsplikt kan Justervesenet pålegge et overtredelsesgebyr på fem ganger rettsgebyret.
 
@@ -865,13 +1078,25 @@ Ved overtredelse av [lov om målenheter, måling og normaltid § 25](lov/2007-01
 
 ### § 7-2. Utmåling basert på kriterier og maksimumsbeløp
 
-Justervesenet kan pålegge et overtredelsesgebyr på inntil 10 prosent av virksomhetens omsetning, men uansett ikke mindre enn 10 ganger timegebyret fastsatt i [§ 6-1](forskrift/2007-12-20-1723/§6-1) andre punktum ved forsettlig eller uaktsom overtredelse av lov om målenheter, måling og normaltid[§ 7](lov/2007-01-26-4/§7), [§ 8](lov/2007-01-26-4/§8) og [§ 9](lov/2007-01-26-4/§9)[§ 10](lov/2007-01-26-4/§10), [§ 11](lov/2007-01-26-4/§11), [§ 12](lov/2007-01-26-4/§12), [§ 13](lov/2007-01-26-4/§13), [§ 14](lov/2007-01-26-4/§14)[§ 15](lov/2007-01-26-4/§15) og [§ 16](lov/2007-01-26-4/§16)[§ 17](lov/2007-01-26-4/§17) første og annet ledd[§ 19](lov/2007-01-26-4/§19).
+Justervesenet kan pålegge et overtredelsesgebyr på inntil 10 prosent av virksomhetens omsetning, men uansett ikke mindre enn 10 ganger timegebyret fastsatt i [§ 6-1](forskrift/2007-12-20-1723/§6-1) andre punktum ved forsettlig eller uaktsom overtredelse av lov om målenheter, måling og normaltid
+
+1. [§ 7](lov/2007-01-26-4/§7), [§ 8](lov/2007-01-26-4/§8) og [§ 9](lov/2007-01-26-4/§9)
+2. [§ 10](lov/2007-01-26-4/§10), [§ 11](lov/2007-01-26-4/§11), [§ 12](lov/2007-01-26-4/§12), [§ 13](lov/2007-01-26-4/§13), [§ 14](lov/2007-01-26-4/§14)
+3. [§ 15](lov/2007-01-26-4/§15) og [§ 16](lov/2007-01-26-4/§16)
+4. [§ 17](lov/2007-01-26-4/§17) første og annet ledd
+5. [§ 19](lov/2007-01-26-4/§19).
 
 Det samme gjelder for overtredelse av enkeltvedtak fastsatt med hjemmel i paragrafene.
 
 Med omsetning menes virksomhetens salgsinntekter siste regnskapsår. Med virksomhet menes ethvert privat eller offentlig foretak samt privatpersoner som foretar eller er ansvarlig for en aktivitet som omfattes av lov om målenheter, måling og normaltid.
 
-Ved utmålingen skal det blant annet legges vekt på:Overtredelsens artÅrsaken til eller motivet for overtredelsenVirkningene av overtredelsenØkonomisk fortjeneste eller andre fordeler som følge av overtredelsenOm det foreligger gjentatte overtredelser.
+Ved utmålingen skal det blant annet legges vekt på:
+
+1. Overtredelsens art
+2. Årsaken til eller motivet for overtredelsen
+3. Virkningene av overtredelsen
+4. Økonomisk fortjeneste eller andre fordeler som følge av overtredelsen
+5. Om det foreligger gjentatte overtredelser.
 
 > Endret ved [forskrifter 15 des 2010 nr. 1741](forskrift/2010-12-15-1741) (i kraft 1 jan 2011), [18 des 2015 nr. 1749](forskrift/2015-12-18-1749) (i kraft 1 jan 2016), [26 aug 2020 nr. 1681](forskrift/2020-08-26-1681).
 
@@ -891,7 +1116,30 @@ Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
 
 Forskriften trer i kraft 1. januar 2008.
 
-Fra samme tidspunkt oppheves[forskrift 10. juni 1977 nr. 1](forskrift/1977-06-10-1) om målenheter[forskrift 23. desember 1994 nr. 4120](forskrift/1994-12-23-4120) om justergebyrer mv.[forskrift 24. august 1999 nr. 964](forskrift/1999-08-24-964) om justering[forskrift 5. desember 2001 nr. 1339](forskrift/2001-12-05-1339) om depotnormaler for justering[forskrift 8. juni 1995 nr. 550](forskrift/1995-06-08-550) om alkoholtabeller[forskrift 8. juni 1995 nr. 551](forskrift/1995-06-08-551) om e-merking av ferdigpakninger[forskrift 8. juni 1995 nr. 552](forskrift/1995-06-08-552) om måling av hektolitermassen av korn[forskrift 25. november 1996 nr. 1173](forskrift/1996-11-25-1173) om flasker brukt som målebeholdere[forskrift 26. april 2006 nr. 454](forskrift/2006-04-26-454) om krav til transportbåndvekter[forskrift 26. april 2006 nr. 455](forskrift/2006-04-26-455) om krav til automatiske diskontinuerlige summeringsvekter (summerende beholdervekter)[forskrift 26. april 2006 nr. 466](forskrift/2006-04-26-466) om krav til gjennomstrømningsmålere (for væsker unntatt vann)[forskrift 26. april 2006 nr. 467](forskrift/2006-04-26-467) om krav til materielle lengdemål[forskrift 26. april 2006 nr. 468](forskrift/2006-04-26-468) om krav til elektrisitetsmålere som selges[forskrift 26. april 2006 nr. 469](forskrift/2006-04-26-469) om krav til lengdemålingsinstrumenter[forskrift 26. april 2006 nr. 470](forskrift/2006-04-26-470) om krav til automatiske jernbanevekter[forskrift 26. april 2006 nr. 481](forskrift/2006-04-26-481) om krav til instrumenter for automatisk veiing av enkeltmengder (catchvekter)[forskrift 26. april 2006 nr. 482](forskrift/2006-04-26-482) om krav til varmemålere[forskrift 26. april 2006 nr. 497](forskrift/2006-04-26-497) om krav til avgassmålere[forskrift 26. april 2006 nr. 498](forskrift/2006-04-26-498) om krav til vannmålere[forskrift 26. april 2006 nr. 499](forskrift/2006-04-26-499) om krav til instrumenter til flerdimensjonale målinger (flerdimensjonsmålere)[forskrift 26. april 2006 nr. 500](forskrift/2006-04-26-500) om krav til automatiske gravimetriske fyllemaskiner[forskrift 24. mars 2006 nr. 368](forskrift/2006-03-24-368) om utvidelse av virkeområdet for [lov 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt.
+Fra samme tidspunkt oppheves
+
+1. [forskrift 10. juni 1977 nr. 1](forskrift/1977-06-10-1) om målenheter
+2. [forskrift 23. desember 1994 nr. 4120](forskrift/1994-12-23-4120) om justergebyrer mv.
+3. [forskrift 24. august 1999 nr. 964](forskrift/1999-08-24-964) om justering
+4. [forskrift 5. desember 2001 nr. 1339](forskrift/2001-12-05-1339) om depotnormaler for justering
+5. [forskrift 8. juni 1995 nr. 550](forskrift/1995-06-08-550) om alkoholtabeller
+6. [forskrift 8. juni 1995 nr. 551](forskrift/1995-06-08-551) om e-merking av ferdigpakninger
+7. [forskrift 8. juni 1995 nr. 552](forskrift/1995-06-08-552) om måling av hektolitermassen av korn
+8. [forskrift 25. november 1996 nr. 1173](forskrift/1996-11-25-1173) om flasker brukt som målebeholdere
+9. [forskrift 26. april 2006 nr. 454](forskrift/2006-04-26-454) om krav til transportbåndvekter
+10. [forskrift 26. april 2006 nr. 455](forskrift/2006-04-26-455) om krav til automatiske diskontinuerlige summeringsvekter (summerende beholdervekter)
+11. [forskrift 26. april 2006 nr. 466](forskrift/2006-04-26-466) om krav til gjennomstrømningsmålere (for væsker unntatt vann)
+12. [forskrift 26. april 2006 nr. 467](forskrift/2006-04-26-467) om krav til materielle lengdemål
+13. [forskrift 26. april 2006 nr. 468](forskrift/2006-04-26-468) om krav til elektrisitetsmålere som selges
+14. [forskrift 26. april 2006 nr. 469](forskrift/2006-04-26-469) om krav til lengdemålingsinstrumenter
+15. [forskrift 26. april 2006 nr. 470](forskrift/2006-04-26-470) om krav til automatiske jernbanevekter
+16. [forskrift 26. april 2006 nr. 481](forskrift/2006-04-26-481) om krav til instrumenter for automatisk veiing av enkeltmengder (catchvekter)
+17. [forskrift 26. april 2006 nr. 482](forskrift/2006-04-26-482) om krav til varmemålere
+18. [forskrift 26. april 2006 nr. 497](forskrift/2006-04-26-497) om krav til avgassmålere
+19. [forskrift 26. april 2006 nr. 498](forskrift/2006-04-26-498) om krav til vannmålere
+20. [forskrift 26. april 2006 nr. 499](forskrift/2006-04-26-499) om krav til instrumenter til flerdimensjonale målinger (flerdimensjonsmålere)
+21. [forskrift 26. april 2006 nr. 500](forskrift/2006-04-26-500) om krav til automatiske gravimetriske fyllemaskiner
+22. [forskrift 24. mars 2006 nr. 368](forskrift/2006-03-24-368) om utvidelse av virkeområdet for [lov 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt.
 
 ## Vedlegg nr. 1 til forskrift om målenheter og måling, jf. forskriften § 4-6.
 
@@ -929,7 +1177,11 @@ Modul H1 – Samsvar basert på full kvalitetssikring og konstruksjonsundersøke
 
 2\.
 
-EU-typeprøvingen kan utføres på én av følgende måter:undersøkelse av et prøveeksemplar av det komplette måleredskapet som er representativt for den planlagte produksjonen (produkttypeprøving),vurdering av den tekniske dokumentasjonens egnethet for måleredskapet ved undersøkelse av den tekniske dokumentasjonen og tilleggsdokumentasjonen nevnt i punkt 3, og undersøkelse av prøveeksemplarer som er representative for den planlagte produksjonen, av én eller flere kritiske deler av måleredskapet (kombinasjon av produkttypeprøving og konstruksjonstypeprøving),vurdering av egnetheten til måleredskapets tekniske konstruksjon ved undersøkelse av den tekniske dokumentasjonen og tilleggsdokumentasjonen nevnt i punkt 3, uten undersøkelse av et prøveeksemplar (konstruksjonstypeprøving).
+EU-typeprøvingen kan utføres på én av følgende måter:
+
+1. undersøkelse av et prøveeksemplar av det komplette måleredskapet som er representativt for den planlagte produksjonen (produkttypeprøving),
+2. vurdering av den tekniske dokumentasjonens egnethet for måleredskapet ved undersøkelse av den tekniske dokumentasjonen og tilleggsdokumentasjonen nevnt i punkt 3, og undersøkelse av prøveeksemplarer som er representative for den planlagte produksjonen, av én eller flere kritiske deler av måleredskapet (kombinasjon av produkttypeprøving og konstruksjonstypeprøving),
+3. vurdering av egnetheten til måleredskapets tekniske konstruksjon ved undersøkelse av den tekniske dokumentasjonen og tilleggsdokumentasjonen nevnt i punkt 3, uten undersøkelse av et prøveeksemplar (konstruksjonstypeprøving).
 
 Det tekniske kontrollorganet beslutter egnet fremgangsmåte og de nødvendige prøveeksemplarer.
 
@@ -937,9 +1189,16 @@ Det tekniske kontrollorganet beslutter egnet fremgangsmåte og de nødvendige pr
 
 Søknad om EU-typeprøving skal sendes inn av produsenten til kun ett teknisk kontrollorgan, valgt av produsenten.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med kravene i denne forskriften og den instrumentspesifikke forskriften, og skal inneholde en tilstrekkelig analyse og vurdering av risiko. Den tekniske dokumentasjonen skal spesifisere de relevante gjeldende krav, og, i den grad det er relevant for en slik vurdering, omfatte måleredskapets konstruksjon, produksjon og funksjon.
+Søknaden skal inneholde følgende:
 
-Der det er relevant, skal søknaden i tillegg inneholdeprøveeksemplarer som er representative for den planlagte produksjonen. Dersom det er nødvendig for å gjennomføre testprogrammet, kan det tekniske kontrollorganet kreve flere prøveeksemplarer,tilleggsdokumentasjon for den tekniske konstruksjonens egnethet. Denne tilleggsdokumentasjonen skal nevne alle relevante dokumenter som er brukt, særlig dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke er brukt i sin helhet, og skal om nødvendig omfatte resultater av tester som er utført i overensstemmelse med andre relevante tekniske spesifikasjoner og i produsentens egnede laboratorium, eller av et annet testlaboratorium på vegne av produsenten og på produsentens ansvar.
+1. produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. den tekniske dokumentasjonen beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med kravene i denne forskriften og den instrumentspesifikke forskriften, og skal inneholde en tilstrekkelig analyse og vurdering av risiko. Den tekniske dokumentasjonen skal spesifisere de relevante gjeldende krav, og, i den grad det er relevant for en slik vurdering, omfatte måleredskapets konstruksjon, produksjon og funksjon.
+
+Der det er relevant, skal søknaden i tillegg inneholde
+
+1. prøveeksemplarer som er representative for den planlagte produksjonen. Dersom det er nødvendig for å gjennomføre testprogrammet, kan det tekniske kontrollorganet kreve flere prøveeksemplarer,
+2. tilleggsdokumentasjon for den tekniske konstruksjonens egnethet. Denne tilleggsdokumentasjonen skal nevne alle relevante dokumenter som er brukt, særlig dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke er brukt i sin helhet, og skal om nødvendig omfatte resultater av tester som er utført i overensstemmelse med andre relevante tekniske spesifikasjoner og i produsentens egnede laboratorium, eller av et annet testlaboratorium på vegne av produsenten og på produsentens ansvar.
 
 4\.
 
@@ -985,7 +1244,13 @@ Dersom typen oppfyller kravene til måleredskapet i denne forskriften og den ins
 
 EU-typeprøvingssertifikatet og tilhørende vedlegg skal inneholde all relevant informasjon som er nødvendig for å gjennomføre en vurdering av om produserte måleredskaper er i samsvar med typen, og gjøre det mulig å foreta kontroll under bruk.
 
-For å gjøre det mulig å vurdere om de produserte måleredskapene er i samsvar med den undersøkte typen med hensyn til reproduserbarhet av de måletekniske egenskapene, skal det videre inneholdeinstrumenttypens måletekniske egenskaper,hvilke tiltak som kreves for å sikre at måleredskapet er intakt (plombering, identifikasjon av programvare osv.),opplysninger om andre elementer som er nødvendige for å identifisere måleredskapene og kontrollere måleredskapets visuelle ytre samsvar med typen,eventuelt de spesifikke opplysninger som er nødvendige for å kontrollere produserte måleredskapers egenskaper,for en underenhet, alle opplysninger som er nødvendige for å sikre kompatibilitet med andre underenheter eller måleredskaper
+For å gjøre det mulig å vurdere om de produserte måleredskapene er i samsvar med den undersøkte typen med hensyn til reproduserbarhet av de måletekniske egenskapene, skal det videre inneholde
+
+1. instrumenttypens måletekniske egenskaper,
+2. hvilke tiltak som kreves for å sikre at måleredskapet er intakt (plombering, identifikasjon av programvare osv.),
+3. opplysninger om andre elementer som er nødvendige for å identifisere måleredskapene og kontrollere måleredskapets visuelle ytre samsvar med typen,
+4. eventuelt de spesifikke opplysninger som er nødvendige for å kontrollere produserte måleredskapers egenskaper,
+5. for en underenhet, alle opplysninger som er nødvendige for å sikre kompatibilitet med andre underenheter eller måleredskaper
 
 Forrige avsnitt gjelder ikke for ikke-automatiske vekter.
 
@@ -1041,7 +1306,13 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem vedrørende de aktuelle måleredskaper til et fritt valgt teknisk kontrollorgan.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,alle relevante opplysninger for den aktuelle instrumentkategorien,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og et eksemplar av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. alle relevante opplysninger for den aktuelle instrumentkategorien,
+4. dokumentasjon for kvalitetssystemet,
+5. den tekniske dokumentasjonen for den godkjente typen og et eksemplar av EU-typeprøvingssertifikatet.
 
 3.2.
 
@@ -1049,7 +1320,13 @@ Kvalitetssystemet skal sikre at måleredskapene er i samsvar med typen slik den 
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsprogrammer, planer, håndbøker og registreringer på en ensartet måte.
 
-Den skal særlig inneholde en fullstendig beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet
+Den skal særlig inneholde en fullstendig beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,
+2. teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+3. undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,
+4. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,
+5. tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet
 
 3.3.
 
@@ -1083,7 +1360,10 @@ Formålet med oppfølgningen er å sikre at produsenten tilbørlig oppfyller for
 
 4.2.
 
-Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig:dokumentasjon av kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
+Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig:
+
+1. dokumentasjon av kvalitetssystemet,
+2. kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
 
 4.3.
 
@@ -1111,7 +1391,11 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som g
 
 6\.
 
-Produsenten skal i ti år etter at måleredskapet første gang ble gjort tilgjengelig på markedet, oppbevare til rådighet for de nasjonale myndigheterdokumentasjonen nevnt i punkt 3.1.,informasjon om godkjente endringer som nevnt i punkt 3.5.,resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 3.5., 4.3. og 4.4.
+Produsenten skal i ti år etter at måleredskapet første gang ble gjort tilgjengelig på markedet, oppbevare til rådighet for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i punkt 3.1.,
+2. informasjon om godkjente endringer som nevnt i punkt 3.5.,
+3. resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 3.5., 4.3. og 4.4.
 
 7\.
 
@@ -1155,7 +1439,13 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem for det relevante måleredskapet til et fritt valgt teknisk kontrollorgan.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,alle relevante opplysninger for den aktuelle instrumentkategorien,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen nevnt i punkt 2.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. alle relevante opplysninger for den aktuelle instrumentkategorien,
+4. dokumentasjon for kvalitetssystemet,
+5. den tekniske dokumentasjonen nevnt i punkt 2.
 
 5.2.
 
@@ -1163,7 +1453,13 @@ Kvalitetssystemet skal sikre at måleredskapene er i samsvar med de relevante kr
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsprogrammer, planer, håndbøker og registreringer på en ensartet måte.
 
-Den skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet.
+Den skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,
+2. teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+3. undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,
+4. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,
+5. tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet.
 
 5.3.
 
@@ -1197,7 +1493,11 @@ Formålet med oppfølgingen er å sikre at produsenten tilbørlig oppfyller forp
 
 6.2.
 
-Produsenten skal i kontrolløyemed, gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særligdokumentasjon av kvalitetssystemet,den tekniske dokumentasjonen nevnt i punkt 2,kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
+Produsenten skal i kontrolløyemed, gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig
+
+1. dokumentasjon av kvalitetssystemet,
+2. den tekniske dokumentasjonen nevnt i punkt 2,
+3. kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
 
 6.3.
 
@@ -1225,7 +1525,11 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som g
 
 8\.
 
-Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, stille til rådighet for de nasjonale myndigheter:dokumentasjonen nevnt i punkt 5.1.,informasjon om godkjente endringer som nevnt i punkt 5.5.,resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 5.5., 6.3. og 6.4.
+Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, stille til rådighet for de nasjonale myndigheter:
+
+1. dokumentasjonen nevnt i punkt 5.1.,
+2. informasjon om godkjente endringer som nevnt i punkt 5.5.,
+3. resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 5.5., 6.3. og 6.4.
 
 9\.
 
@@ -1259,7 +1563,13 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem vedrørende aktuelle måleredskaper til et fritt valgt teknisk kontrollorgan.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,alle relevante opplysninger for den aktuelle instrumentkategorien,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen av den godkjente typen og et eksemplar av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. alle relevante opplysninger for den aktuelle instrumentkategorien,
+4. dokumentasjon for kvalitetssystemet,
+5. den tekniske dokumentasjonen av den godkjente typen og et eksemplar av EU-typeprøvingssertifikatet.
 
 3.2.
 
@@ -1267,7 +1577,12 @@ Kvalitetssystemet skal sikre at måleredskapene er i samsvar med typen slik den 
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsprogrammer, planer, håndbøker og registreringer på en ensartet måte.
 
-Den skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,undersøkelsene og testene som skal utføres etter produksjon, og hyppigheten de utføres med,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet
+Den skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,
+2. undersøkelsene og testene som skal utføres etter produksjon, og hyppigheten de utføres med,
+3. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,
+4. tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet
 
 3.3.
 
@@ -1301,7 +1616,10 @@ Formålet med oppfølgingen er å sikre at produsenten tilbørlig oppfyller forp
 
 4.2.
 
-Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særligdokumentasjon av kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
+Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig
+
+1. dokumentasjon av kvalitetssystemet,
+2. kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
 
 4.3.
 
@@ -1329,7 +1647,11 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som g
 
 6\.
 
-Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, stille til rådighet for de nasjonale myndigheter:dokumentasjonen nevnt i punkt 3.1.,informasjon om godkjente endringer som nevnt i punkt 3.5.,resultatene og rapportene fra det tekniske kontrollorgan nevnt i punkt 3.5., 4.3. og 4.4.
+Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, stille til rådighet for de nasjonale myndigheter:
+
+1. dokumentasjonen nevnt i punkt 3.1.,
+2. informasjon om godkjente endringer som nevnt i punkt 3.5.,
+3. resultatene og rapportene fra det tekniske kontrollorgan nevnt i punkt 3.5., 4.3. og 4.4.
 
 7\.
 
@@ -1373,7 +1695,13 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av kvalitetssystemet vedrørende aktuelle måleredskaper til et fritt valgt teknisk kontrollorgan.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,alle relevante opplysninger for den aktuelle instrumentkategorien,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen nevnt i punkt.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom denne har sendt inn søknaden,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. alle relevante opplysninger for den aktuelle instrumentkategorien,
+4. dokumentasjon for kvalitetssystemet, og
+5. den tekniske dokumentasjonen nevnt i punkt.
 
 5.2.
 
@@ -1381,7 +1709,12 @@ Kvalitetssystemet skal sikre at måleredskapene er i samsvar med kravene i denne
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsprogram, planer, håndbøker og registreringer på en ensartet måte.
 
-Den skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet.
+Den skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til produktkvalitet,
+2. teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+3. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.,
+4. tiltak for oppfølging av den planlagte produktkvalitet og effektiv drift av kvalitetssystemet.
 
 5.3.
 
@@ -1417,7 +1750,11 @@ Formålet med oppfølgingen er å sikre at produsenten tilbørlig oppfyller forp
 
 6.2.
 
-Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig;dokumentasjon av kvalitetssystemet,den tekniske dokumentasjonen nevnt i punkt 2,kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
+Produsenten skal i kontrolløyemed gi det tekniske kontrollorganet adgang til å inspisere produksjons-, inspeksjons-, prøvings- og lagringsforhold, og gi alle nødvendige opplysninger, særlig;
+
+1. dokumentasjon av kvalitetssystemet,
+2. den tekniske dokumentasjonen nevnt i punkt 2,
+3. kvalitetsregistre, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
 
 6.3.
 
@@ -1445,7 +1782,11 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som g
 
 8\.
 
-Produsenten skal i ti år etter at måleredskapet er gjort tilgjengelig på markedet første gang stille til rådighet for de nasjonale myndigheter;dokumentasjonen nevnt i punkt 5.1.,informasjon om godkjente endringer som nevnt i punkt 5.5., ogresultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 5.5.,6.3. og 6.4.
+Produsenten skal i ti år etter at måleredskapet er gjort tilgjengelig på markedet første gang stille til rådighet for de nasjonale myndigheter;
+
+1. dokumentasjonen nevnt i punkt 5.1.,
+2. informasjon om godkjente endringer som nevnt i punkt 5.5., og
+3. resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 5.5.,6.3. og 6.4.
 
 9\.
 
@@ -1509,7 +1850,10 @@ Av hvert parti tas det et utplukk etter kravene i punkt 5.3. Alle måleredskaper
 
 Den statistiske prosedyren skal oppfylle følgende krav:
 
-Den statistiske verifikasjonen skal være basert på atributtmetoden. Prøvetakingssystemet skal sikre atdersom det i et parti er mindre enn 1 % som ikke tilfredsstiller kravene, skal det være minimum 95% sannsynlighet for at partiet aksepteres,dersom det i et parti er mindre enn 7 % som ikke tilfredsstiller kravene, skal det være en grensekvalitet på 5 % sannsynlighet for at partiet aksepteres.
+Den statistiske verifikasjonen skal være basert på atributtmetoden. Prøvetakingssystemet skal sikre at
+
+1. dersom det i et parti er mindre enn 1 % som ikke tilfredsstiller kravene, skal det være minimum 95% sannsynlighet for at partiet aksepteres,
+2. dersom det i et parti er mindre enn 7 % som ikke tilfredsstiller kravene, skal det være en grensekvalitet på 5 % sannsynlighet for at partiet aksepteres.
 
 5.4.
 
@@ -1614,7 +1958,10 @@ Alle måleredskaper i utplukket skal undersøkes enkeltvis, og relevante tester 
 
 Den statistiske prosedyren skal oppfylle følgende krav:
 
-Den statistiske verifikasjonen skal være basert på atributtmetoden. Prøvetakingssystemet skal sikre atdersom det i et parti er mindre enn 1 % som ikke tilfredsstiller kravene, skal det være minimum 95% sannsynlighet for at partiet aksepteres,dersom det i et parti er mindre enn 7 % som ikke tilfredsstiller kravene, skal det være en grensekvalitet på 5 % sannsynlighet for at partiet aksepteres.
+Den statistiske verifikasjonen skal være basert på atributtmetoden. Prøvetakingssystemet skal sikre at
+
+1. dersom det i et parti er mindre enn 1 % som ikke tilfredsstiller kravene, skal det være minimum 95% sannsynlighet for at partiet aksepteres,
+2. dersom det i et parti er mindre enn 7 % som ikke tilfredsstiller kravene, skal det være en grensekvalitet på 5 % sannsynlighet for at partiet aksepteres.
 
 6.5.
 
@@ -1728,13 +2075,26 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem til et fritt valgt teknisk kontrollorgan, for de berørte måleredskaper.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse. Dersom søknaden sendes inn av autorisert representant, skal navn og adresse til denne også være med,teknisk dokumentasjon, som beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12), for en modell for hver kategori måleredskap som skal produseres. Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med de relevante kravene, og skal omfatte en tilstrekkelig analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi de gjeldende kravene, og konstruksjon, produksjon og bruk av måleredskapet i det omfang det er relevant for vurderingen,dokumentasjon vedrørende kvalitetssystemet, ogskriftlig erklæring om at samme søknad ikke er sendt til andre tekniske kontrollorgan.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse. Dersom søknaden sendes inn av autorisert representant, skal navn og adresse til denne også være med,
+2. teknisk dokumentasjon, som beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12), for en modell for hver kategori måleredskap som skal produseres. Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med de relevante kravene, og skal omfatte en tilstrekkelig analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi de gjeldende kravene, og konstruksjon, produksjon og bruk av måleredskapet i det omfang det er relevant for vurderingen,
+3. dokumentasjon vedrørende kvalitetssystemet, og
+4. skriftlig erklæring om at samme søknad ikke er sendt til andre tekniske kontrollorgan.
 
 3.2.
 
 Kvalitetssystemet skal sikre at måleredskapene er i samsvar med kravene i denne forskriften og den instrumentspesifikke forskriften.
 
-Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsplaner, planer, håndbøker og registreringer på en ensartet måte. Den skal særlig inneholde en fullstendig beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til konstruksjons- og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder, som vil bli brukt, og, dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke vil bli brukt i sin helhet, hvordan det er sikret at kravene i de instrumentspesifikke forskriftene vil bli oppfylt ved å bruke andre relevante, tekniske spesifikasjoner,teknikker for konstruksjonskontroll og konstruksjonssikring samt prosesser og systematiske tiltak som benyttes ved konstruksjon av måleredskaper i forbindelse med den aktuelle instrumentkategorien,tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale, ogtiltak for oppfølging av den nødvendige konstruksjonskvalitet og produktkvalitet, og effektiv drift av kvalitetssystemet.
+Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsplaner, planer, håndbøker og registreringer på en ensartet måte. Den skal særlig inneholde en fullstendig beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til konstruksjons- og produktkvalitet,
+2. tekniske konstruksjonsspesifikasjoner, herunder standarder, som vil bli brukt, og, dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke vil bli brukt i sin helhet, hvordan det er sikret at kravene i de instrumentspesifikke forskriftene vil bli oppfylt ved å bruke andre relevante, tekniske spesifikasjoner,
+3. teknikker for konstruksjonskontroll og konstruksjonssikring samt prosesser og systematiske tiltak som benyttes ved konstruksjon av måleredskaper i forbindelse med den aktuelle instrumentkategorien,
+4. tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+5. undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,
+6. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale, og
+7. tiltak for oppfølging av den nødvendige konstruksjonskvalitet og produktkvalitet, og effektiv drift av kvalitetssystemet.
 
 3.3.
 
@@ -1768,7 +2128,11 @@ Formålet med oppfølgingen er å sikre at produsenten tilbørlig oppfyller forp
 
 4.2.
 
-Med tanke på kontrollen, skal produsenten gi det tekniske kontrollorganet adgang til områder for konstruksjon, produksjon, inspeksjon, testing og lagring, og gi alle nødvendige opplysninger, særligdokumentasjon av kvalitetssystemet,kvalitetsregistre som fastsatt for konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, tester, ogkvalitetsregistre som fastsatt for produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata og kvalifikasjonsrapporter for aktuelt personale.
+Med tanke på kontrollen, skal produsenten gi det tekniske kontrollorganet adgang til områder for konstruksjon, produksjon, inspeksjon, testing og lagring, og gi alle nødvendige opplysninger, særlig
+
+1. dokumentasjon av kvalitetssystemet,
+2. kvalitetsregistre som fastsatt for konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, tester, og
+3. kvalitetsregistre som fastsatt for produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata og kvalifikasjonsrapporter for aktuelt personale.
 
 4.3.
 
@@ -1796,7 +2160,12 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som e
 
 6\.
 
-Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, oppbevare til rådighet for de nasjonale myndigheter;den tekniske dokumentasjonen vist til i punkt 3.1.,dokumentasjonen angående kvalitetssystemet nevnt i punkt 3.1.,opplysninger angående endringer vist til i punkt 3.5., som godkjent,resultatene og rapportene fra det tekniske kontrollorgan nevnt i punkt 3.5., 4.3. og 4.4.
+Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, oppbevare til rådighet for de nasjonale myndigheter;
+
+1. den tekniske dokumentasjonen vist til i punkt 3.1.,
+2. dokumentasjonen angående kvalitetssystemet nevnt i punkt 3.1.,
+3. opplysninger angående endringer vist til i punkt 3.5., som godkjent,
+4. resultatene og rapportene fra det tekniske kontrollorgan nevnt i punkt 3.5., 4.3. og 4.4.
 
 7\.
 
@@ -1832,7 +2201,12 @@ Kvalitetssystem
 
 Produsenten skal sende inn en søknad om vurdering av kvalitetssystemet til et fritt valgt teknisk kontrollorgan, for de berørte måleredskaper.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse. Dersom søknaden sendes inn av autorisert representant, skal navn og adresse til denne også være med,alle relevante opplysninger for den ønskede instrumentkategorien,dokumentasjon vedrørende kvalitetssystemet, ogskriftlig erklæring om at samme søknad ikke er sendt til andre tekniske kontrollorgan.
+Søknaden skal inneholde følgende:
+
+1. produsentens navn og adresse. Dersom søknaden sendes inn av autorisert representant, skal navn og adresse til denne også være med,
+2. alle relevante opplysninger for den ønskede instrumentkategorien,
+3. dokumentasjon vedrørende kvalitetssystemet, og
+4. skriftlig erklæring om at samme søknad ikke er sendt til andre tekniske kontrollorgan.
 
 3.2.
 
@@ -1840,7 +2214,15 @@ Kvalitetssystemet skal sikre at måleredskapene er i samsvar med kravene i denne
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i form av kvalitetspolitikk, prosedyrer og instrukser. Denne dokumentasjonen av kvalitetssystemet skal gjøre det mulig å tolke kvalitetsplaner, planer, håndbøker og registreringer på en ensartet måte.
 
-Den skal særlig inneholde en fullstendig beskrivelse avkvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til konstruksjons- og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder, som blir brukt, og, dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke blir brukt i sin helhet, hvordan det er sikret at kravene i denne forskriften og den instrumentspesifikke forskriften som gjelder for måleredskapene, vil bli oppfylt, ved å bruke andre relevante, tekniske spesifikasjoner,teknikker for konstruksjonskontroll og konstruksjonssikring samt prosesser og systematiske tiltak som benyttes ved konstruksjon av måleredskaper i forbindelse med den aktuelle instrumentkategorien,tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale, ogtiltak for oppfølging av den nødvendige konstruksjonskvalitet og produktkvalitet og effektiv drift av kvalitetssystemet.
+Den skal særlig inneholde en fullstendig beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ansvarsforhold og fullmakter med hensyn til konstruksjons- og produktkvalitet,
+2. tekniske konstruksjonsspesifikasjoner, herunder standarder, som blir brukt, og, dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke blir brukt i sin helhet, hvordan det er sikret at kravene i denne forskriften og den instrumentspesifikke forskriften som gjelder for måleredskapene, vil bli oppfylt, ved å bruke andre relevante, tekniske spesifikasjoner,
+3. teknikker for konstruksjonskontroll og konstruksjonssikring samt prosesser og systematiske tiltak som benyttes ved konstruksjon av måleredskaper i forbindelse med den aktuelle instrumentkategorien,
+4. tilsvarende teknikker for produksjon, kvalitetskontroll og kvalitetssikring samt prosesser og systematiske tiltak som benyttes,
+5. undersøkelsene og testene som skal utføres før, under og etter produksjon, og hyppigheten de utføres med,
+6. registreringer, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale, og
+7. tiltak for oppfølging av den nødvendige konstruksjonskvalitet og produktkvalitet og effektiv drift av kvalitetssystemet.
 
 3.3.
 
@@ -1876,13 +2258,24 @@ Produsenten skal sende inn en søknad om undersøkelse av konstruksjonen til det
 
 4.2.
 
-Søknaden skal gjøre det mulig å forstå måleredskapets konstruksjon, produksjonen av det og dets funksjon, og skal gjøre det mulig å vurdere samsvaret med kravene i denne forskriften og den instrumentspesifikke forskriften. Søknaden skal inneholdeprodusentens navn og adresse,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med kravene i denne forskriften og den instrumentspesifikke forskriften, og skal omfatte en tilstrekkelig analyse og vurdering av risikoen. Den skal, i den grad det er relevant for en slik vurdering, omfatte måleredskapets konstruksjon og funksjon, ogtilleggsdokumentasjonen for den tekniske konstruksjonens egnethet. Denne tilleggsdokumentasjonen skal nevne alle dokumenter som er brukt, særlig dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke er brukt i sin helhet, og skal om nødvendig omfatte resultater av tester som er utført i henhold til andre relevante tekniske spesifikasjoner, i produsentens egnede laboratorium, eller av et annet testlaboratorium på vegne av produsenten eller under produsentens ansvar.
+Søknaden skal gjøre det mulig å forstå måleredskapets konstruksjon, produksjonen av det og dets funksjon, og skal gjøre det mulig å vurdere samsvaret med kravene i denne forskriften og den instrumentspesifikke forskriften. Søknaden skal inneholde
+
+1. produsentens navn og adresse,
+2. en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,
+3. den tekniske dokumentasjonen beskrevet i [§ 4-12](forskrift/2007-12-20-1723/§4-12). Dokumentasjonen skal gjøre det mulig å vurdere om måleredskapet er i samsvar med kravene i denne forskriften og den instrumentspesifikke forskriften, og skal omfatte en tilstrekkelig analyse og vurdering av risikoen. Den skal, i den grad det er relevant for en slik vurdering, omfatte måleredskapets konstruksjon og funksjon, og
+4. tilleggsdokumentasjonen for den tekniske konstruksjonens egnethet. Denne tilleggsdokumentasjonen skal nevne alle dokumenter som er brukt, særlig dersom de relevante harmoniserte standarder og/eller normative dokumenter ikke er brukt i sin helhet, og skal om nødvendig omfatte resultater av tester som er utført i henhold til andre relevante tekniske spesifikasjoner, i produsentens egnede laboratorium, eller av et annet testlaboratorium på vegne av produsenten eller under produsentens ansvar.
 
 4.3.
 
 Det tekniske kontrollorganet skal vurdere søknaden, og dersom konstruksjonen overholder de bestemmelser i denne forskriften og den instrumentspesifikke forskriften som gjelder for måleredskapet, skal det utstede et EU-sertifikat for konstruksjonsundersøkelse til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene av undersøkelsen, eventuelle vilkår for dets gyldighet og nødvendige data for identifikasjon av den godkjente konstruksjonen. Sertifikatet kan inneholde et eller flere vedlegg.
 
-EU-sertifikatet for konstruksjonsundersøkelse med tilhørende vedlegg skal inneholde all relevant informasjon som gjør det mulig å vurdere om det produserte måleredskapet med den vurderte konstruksjonen oppfyller kravene til samsvar, og gjøre det mulig å kontrollere måleredskapet under bruk. Det skal gjøre det mulig å vurdere om de produserte måleredskapene er i samsvar med den vurderte konstruksjonen med hensyn til reproduserbarhet av den måletekniske ytelsesevnen når de er korrekt regulert, inkludertinstrumentkonstruksjonens måletekniske egenskaper,hvilke tiltak som kreves for å sikre at måleredskapet er intakt (plombering, identifikasjon av programvare osv.),opplysninger om andre elementer som er nødvendige for å identifisere måleredskapet og for å kontrollere at måleredskapets ytre samsvarer med konstruksjonen,eventuelle spesifikke opplysninger som er nødvendige for å kontrollere produserte måleredskapers egenskaper,for en underenhet, alle opplysninger som er nødvendige for å sikre kompatibilitet med andre underenheter eller måleredskaper.
+EU-sertifikatet for konstruksjonsundersøkelse med tilhørende vedlegg skal inneholde all relevant informasjon som gjør det mulig å vurdere om det produserte måleredskapet med den vurderte konstruksjonen oppfyller kravene til samsvar, og gjøre det mulig å kontrollere måleredskapet under bruk. Det skal gjøre det mulig å vurdere om de produserte måleredskapene er i samsvar med den vurderte konstruksjonen med hensyn til reproduserbarhet av den måletekniske ytelsesevnen når de er korrekt regulert, inkludert
+
+1. instrumentkonstruksjonens måletekniske egenskaper,
+2. hvilke tiltak som kreves for å sikre at måleredskapet er intakt (plombering, identifikasjon av programvare osv.),
+3. opplysninger om andre elementer som er nødvendige for å identifisere måleredskapet og for å kontrollere at måleredskapets ytre samsvarer med konstruksjonen,
+4. eventuelle spesifikke opplysninger som er nødvendige for å kontrollere produserte måleredskapers egenskaper,
+5. for en underenhet, alle opplysninger som er nødvendige for å sikre kompatibilitet med andre underenheter eller måleredskaper.
 
 Det tekniske kontrollorganet skal utarbeide en evalueringsrapport i den forbindelse og stille den til rådighet for sin utpekende myndighet. Med forbehold for [§ 4-28](forskrift/2007-12-20-1723/§4-28) skal organet helt eller delvis kun offentliggjøre innholdet i denne rapporten med produsentens samtykke.
 
@@ -1918,7 +2311,11 @@ Formålet med oppfølgingen er å sikre at produsenten tilbørlig oppfyller forp
 
 5.2.
 
-For å kunne gjennomføre kontroll, skal produsenten gi det tekniske kontrollorganet adgang til å inspisere områder for konstruksjon, produksjon, inspeksjon, testing og lagring, og gi alle nødvendige opplysninger, særlig:dokumentasjon av kvalitetssystemet,kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, tester osv., ogkvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
+For å kunne gjennomføre kontroll, skal produsenten gi det tekniske kontrollorganet adgang til å inspisere områder for konstruksjon, produksjon, inspeksjon, testing og lagring, og gi alle nødvendige opplysninger, særlig:
+
+1. dokumentasjon av kvalitetssystemet,
+2. kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet, for eksempel resultater av analyser, beregninger, tester osv., og
+3. kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet, for eksempel inspeksjonsrapporter og testdata, kalibreringsdata, kvalifikasjonsrapporter for aktuelt personale osv.
 
 5.3.
 
@@ -1946,7 +2343,11 @@ Et eksemplar av EU-samsvarserklæringen skal følge med hvert måleredskap som g
 
 7\.
 
-Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, oppbevare til rådighet for de nasjonale myndigheterdokumentasjonen for kvalitetssystemet nevnt i punkt 3.1.,informasjon om godkjente endringer som nevnt i punkt 3.5., ogresultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 3.5., 5.3. og 5.4.
+Produsenten skal i ti år etter at måleredskapet ble gjort tilgjengelig på markedet første gang, oppbevare til rådighet for de nasjonale myndigheter
+
+1. dokumentasjonen for kvalitetssystemet nevnt i punkt 3.1.,
+2. informasjon om godkjente endringer som nevnt i punkt 3.5., og
+3. resultatene og rapportene fra det tekniske kontrollorganet nevnt i punkt 3.5., 5.3. og 5.4.
 
 8\.
 
@@ -1967,7 +2368,13 @@ Produsentens autoriserte representant kan sende søknaden referert til i punkt 4
 5. Erklæringens gjenstand beskrevet over er i samsvar med relevante deler av Unionens harmoniseringsregelverk.
 6. Henvisninger til de relevante harmoniserte standarder eller normative dokumenter som er anvendt, eller henvisninger til de andre tekniske spesifikasjoner det erklæres samsvar med.
 7. Dersom det er relevant, det tekniske kontrollorgans ... (navn, nummer) har utført ... (beskrivelse av inngrepet) og utstedt sertifikatet.
-8. Tilleggsinformasjon:Undertegnet for og på vegne av:(sted og dato for utstedelse)(navn, stilling) (underskrift)
+8. Tilleggsinformasjon:
+
+   Undertegnet for og på vegne av:
+
+   (sted og dato for utstedelse)
+
+   (navn, stilling) (underskrift)
 
 > Tilføyd ved [forskrift 17 des 2015 nr. 1887](forskrift/2015-12-17-1887) (i kraft 20 april 2016).
 

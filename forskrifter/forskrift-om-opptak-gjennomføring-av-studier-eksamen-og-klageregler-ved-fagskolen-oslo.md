@@ -15,7 +15,7 @@ xml_hash: "34d03036b9087108fdfd616278273798b1065a42097e59e042420eebb4cfce3d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,24 @@ Strider denne forskriften mot lov og/eller sentrale forskrifter gitt av lovgiver
 
 ### § 1-3. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:*Studium:* er en høyere yrkesfaglig utdanning som gir rett til vitnemål. I denne forskriften og ved fagskolen bruk vi betegnelsen studium. I nasjonale lover og forskrifter benyttes oftest betegnelse «utdanning» eller «fagskoleutdanning» i stedet for studium. «Studieprogram» er også en betegnelse som benyttes noen ganger.*Arbeidskrav:* er obligatoriske krav til en leveranse eller hva som skal gjennomføres i et emne. Arbeidskravene går frem av studieplanen og beskrivelsen av hvert emne i studieplanen. Alle arbeidskrav må være godkjent før studenten får vurdering i emnet. For å få et arbeidskrav godkjent, er det ofte et krav at arbeidskravet vurderes til bestått. I emner som ikke har eksamen, vil arbeidskravene ofte være hele eller deler av grunnlaget for vurderingen med karakter i emnet.*Emne:* er en samling av temaer som i et studium gir uttelling i form av studiepoeng. Det gis karakter i hvert emne. Alle emner i et studium (utdanning) må være bestått for å få vitnemål. Emnene kan variere i omfang og går frem av vitnemålet. Et emne kan også omtales som et fag eller en modul.*Studiepoeng:* er betegnelse på omfanget (arbeidsbelastningen) i et emne og en utdanning. 60 studiepoeng tilsvarer ett års studium på full tid og skal utgjøre en samlet arbeidsbelastning for studenten på mellom 1500-1800 timer. Studiepoeng er ikke automatisk konverterbare mellom ulike utdanningsinstitusjoner og utdanningsnivå, det må undersøkes i hvert enkelt tilfelle. Se også omtalen av NKR under punkt n.*Læringsutbytte:* (LUB) er beskrivelse av kunnskaper, ferdigheter og generell kompetanse studenten skal ha tilegnet seg etter fullført emne eller studium (utdanning).*Realkompetanse:* er dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.*Realkompetansevurdering:* er måling av realkompetansen opp mot fastsatte kriterier. Realkompetansevurdering kan gi grunnlag for opptak til et studium (en utdanning) eller fritak for emner som del av et studium (en utdanning).*Sensur:* er fastsetting av karakter for et emne.*Studieavgift:* er en avgift som studenten betaler for å dekke utgifter til blant annet medlemskap i SiO, ONF, kopiavgift og lignende. Studieavgiften faktureres årlig.*Studieplan:* er en helhetlig plan for et studium (en utdanning). Studieplanen beskriver opptakskrav til studiet, innholdet i studiet med overordnet læringsutbytte for studiet og hvert emne, struktur, undervisnings-, lærings- og vurderingsformer med mere. Planen inneholder fagskolens forpliktelser overfor studenten, og studentens forpliktelser overfor skolen og medstudenter.*Lokal klagenemnd:* er et organ som er utnevnt til å ivareta klagebehandling og fatte vedtak i utvalgte saker der [fagskoleloven](lov/2018-06-08-28) gir mulighet for dette.*Nasjonal klagenemnd:* er en klagenemnd utnevnt av departementet som behandler klager på enkeltvedtak der det går frem av [fagskoleloven](lov/2018-06-08-28) og forskrift til [fagskoleloven](lov/2018-06-08-28) at Nasjonal klagenemnd er klageinstans.*Vurdering:* er bedømmelse av studentens kompetanse i et emne ut fra læringsutbyttebeskrivelsene i emnet.*Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR):* er en samlet, systematisk og nivådelt beskrivelse av kvalifikasjoner oppnådd i henhold til fastsatt læringsutbytte. Alle formelle utdanninger i Norge er plassert på et gitt nivå i rammeverket. Rammeverket er knyttet til det europeiske kvalifikasjonsrammeverket EQF sin nivåoppdeling. Høyere yrkesfaglig utdanning (fagskoleutdanning) ligger på nivå 5 i NKR. Fagskolestudier under 60 studiepoeng skal ligge på nivå 5.1. Fagskolestudier over 60 studiepoeng skal ligge på nivå 5.2. Fagskolestudier på 60 studiepoeng kan enten ligge på nivå 5.1 eller 5.2.Videregående opplæring ligger på nivå 4 og høyere utdanning ligger på nivå 6 og oppover. De generelle nivåbeskrivelsene går frem av forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring.
+I denne forskriften gjelder følgende definisjoner:
+
+1. *Studium:* er en høyere yrkesfaglig utdanning som gir rett til vitnemål. I denne forskriften og ved fagskolen bruk vi betegnelsen studium. I nasjonale lover og forskrifter benyttes oftest betegnelse «utdanning» eller «fagskoleutdanning» i stedet for studium. «Studieprogram» er også en betegnelse som benyttes noen ganger.
+2. *Arbeidskrav:* er obligatoriske krav til en leveranse eller hva som skal gjennomføres i et emne. Arbeidskravene går frem av studieplanen og beskrivelsen av hvert emne i studieplanen. Alle arbeidskrav må være godkjent før studenten får vurdering i emnet. For å få et arbeidskrav godkjent, er det ofte et krav at arbeidskravet vurderes til bestått. I emner som ikke har eksamen, vil arbeidskravene ofte være hele eller deler av grunnlaget for vurderingen med karakter i emnet.
+3. *Emne:* er en samling av temaer som i et studium gir uttelling i form av studiepoeng. Det gis karakter i hvert emne. Alle emner i et studium (utdanning) må være bestått for å få vitnemål. Emnene kan variere i omfang og går frem av vitnemålet. Et emne kan også omtales som et fag eller en modul.
+4. *Studiepoeng:* er betegnelse på omfanget (arbeidsbelastningen) i et emne og en utdanning. 60 studiepoeng tilsvarer ett års studium på full tid og skal utgjøre en samlet arbeidsbelastning for studenten på mellom 1500-1800 timer. Studiepoeng er ikke automatisk konverterbare mellom ulike utdanningsinstitusjoner og utdanningsnivå, det må undersøkes i hvert enkelt tilfelle. Se også omtalen av NKR under punkt n.
+5. *Læringsutbytte:* (LUB) er beskrivelse av kunnskaper, ferdigheter og generell kompetanse studenten skal ha tilegnet seg etter fullført emne eller studium (utdanning).
+6. *Realkompetanse:* er dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
+7. *Realkompetansevurdering:* er måling av realkompetansen opp mot fastsatte kriterier. Realkompetansevurdering kan gi grunnlag for opptak til et studium (en utdanning) eller fritak for emner som del av et studium (en utdanning).
+8. *Sensur:* er fastsetting av karakter for et emne.
+9. *Studieavgift:* er en avgift som studenten betaler for å dekke utgifter til blant annet medlemskap i SiO, ONF, kopiavgift og lignende. Studieavgiften faktureres årlig.
+10. *Studieplan:* er en helhetlig plan for et studium (en utdanning). Studieplanen beskriver opptakskrav til studiet, innholdet i studiet med overordnet læringsutbytte for studiet og hvert emne, struktur, undervisnings-, lærings- og vurderingsformer med mere. Planen inneholder fagskolens forpliktelser overfor studenten, og studentens forpliktelser overfor skolen og medstudenter.
+11. *Lokal klagenemnd:* er et organ som er utnevnt til å ivareta klagebehandling og fatte vedtak i utvalgte saker der [fagskoleloven](lov/2018-06-08-28) gir mulighet for dette.
+12. *Nasjonal klagenemnd:* er en klagenemnd utnevnt av departementet som behandler klager på enkeltvedtak der det går frem av [fagskoleloven](lov/2018-06-08-28) og forskrift til [fagskoleloven](lov/2018-06-08-28) at Nasjonal klagenemnd er klageinstans.
+13. *Vurdering:* er bedømmelse av studentens kompetanse i et emne ut fra læringsutbyttebeskrivelsene i emnet.
+14. *Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR):* er en samlet, systematisk og nivådelt beskrivelse av kvalifikasjoner oppnådd i henhold til fastsatt læringsutbytte. Alle formelle utdanninger i Norge er plassert på et gitt nivå i rammeverket. Rammeverket er knyttet til det europeiske kvalifikasjonsrammeverket EQF sin nivåoppdeling. Høyere yrkesfaglig utdanning (fagskoleutdanning) ligger på nivå 5 i NKR. Fagskolestudier under 60 studiepoeng skal ligge på nivå 5.1. Fagskolestudier over 60 studiepoeng skal ligge på nivå 5.2. Fagskolestudier på 60 studiepoeng kan enten ligge på nivå 5.1 eller 5.2.
+
+    Videregående opplæring ligger på nivå 4 og høyere utdanning ligger på nivå 6 og oppover. De generelle nivåbeskrivelsene går frem av forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring.
 
 ### § 1-4. Deltakelse i det samordnede opptaket for fagskoleutdanning
 
@@ -46,7 +63,12 @@ Opptak til fagskoleutdanning ved offentlige fagskoler organiseres gjennom det sa
 
 ### § 1-5. Søknad
 
-Følgende gjelder for søknad på studier ved Fagskolen Oslo:Informasjon om fagskolens studietilbud, innsøkingsprosess, frister og annen relevant informasjon publiseres på skolens hjemmeside [https://fagskolen-oslo.no](https://fagskolen-oslo.no).Studentadministrasjonen ved fagskolen gir veiledning ved henvendelser fra søkere.Opptaket åpner 1. februar i Samordna opptak, og innsøking skjer på [www.samordnaopptak.no](https://www.samordnaopptak.no/) frem til ordinær søknadsfrist 15. april.Studier under 30 studiepoeng, og noen andre studier, kan ha lokalt opptak utenom Samordna opptak. Søknadsfrist og innsendingsmåte for søknad vil gå frem av hjemmesiden.
+Følgende gjelder for søknad på studier ved Fagskolen Oslo:
+
+- Informasjon om fagskolens studietilbud, innsøkingsprosess, frister og annen relevant informasjon publiseres på skolens hjemmeside [https://fagskolen-oslo.no](https://fagskolen-oslo.no).
+- Studentadministrasjonen ved fagskolen gir veiledning ved henvendelser fra søkere.
+- Opptaket åpner 1. februar i Samordna opptak, og innsøking skjer på [www.samordnaopptak.no](https://www.samordnaopptak.no/) frem til ordinær søknadsfrist 15. april.
+- Studier under 30 studiepoeng, og noen andre studier, kan ha lokalt opptak utenom Samordna opptak. Søknadsfrist og innsendingsmåte for søknad vil gå frem av hjemmesiden.
 
 ### § 1-6. Innhenting og behandling av personopplysninger
 
@@ -182,7 +204,12 @@ Det skal fremgå av studieplanen dersom opptaksprøve skal være en del av oppta
 
 (3) Utgangspunkt for vurderingen om godskriving og vurderingen av realkompetanse for å få fritak skal være læringsutbyttebeskrivelse for det aktuelle emnet eller studiet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning, jf. [fagskoleforskriften § 37](forskrift/2019-07-11-1005/§37). Fritak på bakgrunn av realkompetanse baseres på en faglig vurdering av om søkerens formelle, ikke-formelle og uformelle kompetanse samlet kan gi grunnlag for fritak for del av studiet, jf. § 1-3 e.
 
-(4) Fagskolen skal innpasse beståtte emner fra annen godkjent fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige kravene for emnet eller emnene det søkes om godskriving for. Godskriving kan bare skje mellom fagskoleutdanninger på samme eller nært beslektet fagområde. Det skal ikke gis dobbel uttelling for samme faginnhold. Søknad om godskriving av beståtte emner eller eksamener fra andre tilsvarende utdanningsinstitusjoner skal inneholde:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet, eller studieplanEventuelt annen relevant dokumentasjon.
+(4) Fagskolen skal innpasse beståtte emner fra annen godkjent fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige kravene for emnet eller emnene det søkes om godskriving for. Godskriving kan bare skje mellom fagskoleutdanninger på samme eller nært beslektet fagområde. Det skal ikke gis dobbel uttelling for samme faginnhold. Søknad om godskriving av beståtte emner eller eksamener fra andre tilsvarende utdanningsinstitusjoner skal inneholde:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet, eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 (5) Saksbehandlingen er delegert til studentadministrasjonen ved administrasjonsleder.
 
@@ -200,7 +227,12 @@ Det skal fremgå av studieplanen dersom opptaksprøve skal være en del av oppta
 
 (3) Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til.
 
-(4) Studierettens varighet:Studenten har studierett lik normert studietid for det studiet studenten er tatt opp til.En student som er tatt opp til et studium med mellom ett og tre års studietid, kan etter avtale om endring i plan for studiet, få utvidet studieretten i inntil ett år ut over normert studietid. Se ellers [§ 4-5](forskrift/2025-03-06-396/§4-5) om rett til permisjon.Når studieretten ved et studium er brukt opp etter bokstav a eller b, må studenten søke nytt opptak for eventuelt å fullføre studiet.Studieretten opphører også når studenten skriftlig bekrefter å ha trukket seg fra studiet, når studiene er fullført og vitnemål eller karakterutskrift er utstedt. Det samme gjelder studenter som tar bare deler av en utdanning (f.eks. ett emne) og får karakterutskrift for emnet. Studieretten opphører også ved tap av studieretten, jf. denne forskriften [§ 4-4](forskrift/2025-03-06-396/§4-4).
+(4) Studierettens varighet:
+
+1. Studenten har studierett lik normert studietid for det studiet studenten er tatt opp til.
+2. En student som er tatt opp til et studium med mellom ett og tre års studietid, kan etter avtale om endring i plan for studiet, få utvidet studieretten i inntil ett år ut over normert studietid. Se ellers [§ 4-5](forskrift/2025-03-06-396/§4-5) om rett til permisjon.
+3. Når studieretten ved et studium er brukt opp etter bokstav a eller b, må studenten søke nytt opptak for eventuelt å fullføre studiet.
+4. Studieretten opphører også når studenten skriftlig bekrefter å ha trukket seg fra studiet, når studiene er fullført og vitnemål eller karakterutskrift er utstedt. Det samme gjelder studenter som tar bare deler av en utdanning (f.eks. ett emne) og får karakterutskrift for emnet. Studieretten opphører også ved tap av studieretten, jf. denne forskriften [§ 4-4](forskrift/2025-03-06-396/§4-4).
 
 ### § 4-2. Oppmøte første studiedag
 
@@ -222,7 +254,13 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 ### § 4-4. Tap av studieretten
 
-(1) Studieretten opphører dersom:studenten ikke oppfyller vilkårene til studieprogresjon for det aktuelle studiet, slik det går frem av [§ 4-3](forskrift/2025-03-06-396/§4-3)studenten er innvilget opptak på grunnlag av falsk dokumentasjon, jf. [§ 7-1](forskrift/2025-03-06-396/§7-1), eller ikke leverer original dokumentasjon eller vitnemål når dette blir etterspurtstudenten får vedtak om utestengelse, jf. [§ 7-2](forskrift/2025-03-06-396/§7-2)studenten ikke innfrir vilkårene for betinget opptak, jf. [§§ 3-3](forskrift/2025-03-06-396/§3-3) og [3-4](forskrift/2025-03-06-396/§3-4)studenten etter langvarig fravær fra opplæringen, ikke svarer på skriftlig henvendelse med spørsmål om vedkommende ønsker å opprettholde studieretten.
+(1) Studieretten opphører dersom:
+
+1. studenten ikke oppfyller vilkårene til studieprogresjon for det aktuelle studiet, slik det går frem av [§ 4-3](forskrift/2025-03-06-396/§4-3)
+2. studenten er innvilget opptak på grunnlag av falsk dokumentasjon, jf. [§ 7-1](forskrift/2025-03-06-396/§7-1), eller ikke leverer original dokumentasjon eller vitnemål når dette blir etterspurt
+3. studenten får vedtak om utestengelse, jf. [§ 7-2](forskrift/2025-03-06-396/§7-2)
+4. studenten ikke innfrir vilkårene for betinget opptak, jf. [§§ 3-3](forskrift/2025-03-06-396/§3-3) og [3-4](forskrift/2025-03-06-396/§3-4)
+5. studenten etter langvarig fravær fra opplæringen, ikke svarer på skriftlig henvendelse med spørsmål om vedkommende ønsker å opprettholde studieretten.
 
 (2) En student som har tapt studierett, må eventuelt søke om nytt opptak til samme studium for å fullføre studiet.
 
@@ -234,7 +272,11 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 (1) Studentene har rett til permisjon ved pliktig militærtjeneste, når de har verv i studentpolitiske eller folkevalgte organer, og når det foreligger andre særlige grunner. Studenten må sende skriftlig, begrunnet og dokumentert søknad om permisjon til fagskolen.
 
-(2) Studenten har rett til permisjon fra studiene ved svangerskap, adopsjon og til omsorg for barn. Bestemmelsene i [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1) til [12-5](lov/2005-06-17-62/§12-5) og [12-7](lov/2005-06-17-62/§12-7) gjelder så langt de passer.En gravid student har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel.Barnets andre forelder har rett til utsatt eksamen hvis eksamensdatoen er innenfor to uker etter fødselen.Fagskolen skal legge til rette for at studenter som er i permisjon etter andre ledd, kan gjenoppta utdanningen så raskt som mulig etter endt permisjon.
+(2) Studenten har rett til permisjon fra studiene ved svangerskap, adopsjon og til omsorg for barn. Bestemmelsene i [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1) til [12-5](lov/2005-06-17-62/§12-5) og [12-7](lov/2005-06-17-62/§12-7) gjelder så langt de passer.
+
+1. En gravid student har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel.
+2. Barnets andre forelder har rett til utsatt eksamen hvis eksamensdatoen er innenfor to uker etter fødselen.
+3. Fagskolen skal legge til rette for at studenter som er i permisjon etter andre ledd, kan gjenoppta utdanningen så raskt som mulig etter endt permisjon.
 
 (3) Studenten skal få permisjon så lenge behovet tilsier det, og behovet er dokumentert.
 
@@ -260,7 +302,12 @@ Fastsatt med hjemmel i [fagskoleloven §§ 21](lov/2018-06-08-28/§21) og [22](l
 
 ### § 5-2. Grunnlaget for karakteren i et emne (sluttvurdering)
 
-(1) Ved Fagskolen Oslo kan karakteren for et emne være basert på:eksamen i emnetarbeidskrav (løpende vurdering)ett større arbeidpraksis.
+(1) Ved Fagskolen Oslo kan karakteren for et emne være basert på:
+
+- eksamen i emnet
+- arbeidskrav (løpende vurdering)
+- ett større arbeid
+- praksis.
 
 (2) Noen ganger kan grunnlaget være flere av disse elementene. Hvert emne skal bare ha én karakter på vitnemålet.
 
@@ -473,7 +520,17 @@ Fastsatt med hjemmel i [fagskoleloven § 19](lov/2018-06-08-28/§19), [fagskolef
 
 (2) For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved skolen i minst ett emne. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
 
-(3) Vitnemålet skal visefagskolens og utdanningens navnkandidatens navn og fødselsnummeren beskrivelse av karaktersystemetkandidatens karaktererdet overordnede læringsutbyttet for utdanningenutdanningens emner og eventuell praksisnivå i Nasjonalt kvalifikasjonsrammeverk for livslang læringantall studiepoeng og eventuell gradsbetegnelse (fagskolegrad ved 60 og mellom 60 og 120 studiepoeng, eller høyere fagskolegrad ved 120 studiepoeng)datoen for når vitnemålet er utstedt.
+(3) Vitnemålet skal vise
+
+1. fagskolens og utdanningens navn
+2. kandidatens navn og fødselsnummer
+3. en beskrivelse av karaktersystemet
+4. kandidatens karakterer
+5. det overordnede læringsutbyttet for utdanningen
+6. utdanningens emner og eventuell praksis
+7. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring
+8. antall studiepoeng og eventuell gradsbetegnelse (fagskolegrad ved 60 og mellom 60 og 120 studiepoeng, eller høyere fagskolegrad ved 120 studiepoeng)
+9. datoen for når vitnemålet er utstedt.
 
 (4) På vitnemålet skal det stå eventuell fordypning og tittel, med beskrivelse av innholdet på hovedprosjektet.
 
@@ -501,7 +558,15 @@ Studenter som opptrer grovt forstyrrende kan bortvises i inntil ett år. Dersom 
 
 ### § 7-3. Fusk og plagiering
 
-(1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering. Som fusk eller forsøk på fusk regnes blant annet:Bruk av andre hjelpemidler enn de som er tillatt i den enkelte emnebeskrivelsen og/eller eksamensoppgaven. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk.Samarbeid med andre, utover det som er beskrevet for hvert enkelte emne eller oppgave/prosjekt.Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterPlagiering, kopiering, sitering, avskrift av faglitteratur, internettsider, innhold laget av kunstig intelligens (KI) og eget eller andres arbeid uten tilstrekkelig kildehenvisning etter gjeldende standard for fagskolen.Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre, uten tilstrekkelig kildehenvisning.Fabrikkering eller forfalsking av dataBesvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller åpenbart utarbeidet av andre eller kunstig intelligens (KI) uten tilstrekkelig kildehenvisning.
+(1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering. Som fusk eller forsøk på fusk regnes blant annet:
+
+- Bruk av andre hjelpemidler enn de som er tillatt i den enkelte emnebeskrivelsen og/eller eksamensoppgaven. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk.
+- Samarbeid med andre, utover det som er beskrevet for hvert enkelte emne eller oppgave/prosjekt.
+- Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+- Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider, innhold laget av kunstig intelligens (KI) og eget eller andres arbeid uten tilstrekkelig kildehenvisning etter gjeldende standard for fagskolen.
+- Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre, uten tilstrekkelig kildehenvisning.
+- Fabrikkering eller forfalsking av data
+- Besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller åpenbart utarbeidet av andre eller kunstig intelligens (KI) uten tilstrekkelig kildehenvisning.
 
 (2) Dersom det under eksamen eller prøve oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten velger selv om eksamen skal fullføres/avbrytes.
 
@@ -533,7 +598,15 @@ Studenter som opptrer grovt forstyrrende kan bortvises i inntil ett år. Dersom 
 
 ### § 8-2. Fagskoleutdanninger med skikkethetsvurdering
 
-(1) Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen Oslo, jf. [fagskoleforskriften § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):Demens og psykisk helse hos eldreHelseadministrasjonPsykisk helsearbeid og rusarbeidBarn med behov for særskilt tilretteleggingVeiledning av lærlingerMålrettet miljøarbeid (knyttet til mennesker med utviklingshemming)Sterilforsyning og smittevern i helsetjenesten.
+(1) Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen Oslo, jf. [fagskoleforskriften § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):
+
+1. Demens og psykisk helse hos eldre
+2. Helseadministrasjon
+3. Psykisk helsearbeid og rusarbeid
+4. Barn med behov for særskilt tilrettelegging
+5. Veiledning av lærlinger
+6. Målrettet miljøarbeid (knyttet til mennesker med utviklingshemming)
+7. Sterilforsyning og smittevern i helsetjenesten.
 
 (2) Ved studiestart skal fagskolen sørge for at alle studentene i disse utdanningene får informasjon om reglene for skikkethet i henhold til fagskolens rutine for dette.
 
@@ -602,7 +675,13 @@ Fastsatt med hjemmel i [fagskoleloven § 20](lov/2018-06-08-28/§20), [§ 22](lo
 
 (7) Den lokale klagenemndas medlemmer utenom studentrådsrepresentantene med vara, velges for fire år av gangen. Studentrådsrepresentantene med vara velges for to år.
 
-(8) Nasjonal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak truffet med hjemmel i:[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7 første ledd](forskrift/2019-07-11-1005/§7/ledd/1) eller spesielle opptakskrav jf. [§ 7 femte ledd](forskrift/2019-07-11-1005/§7/ledd/5)[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet[fagskoleloven § 27](lov/2018-06-08-28/§27) om krav om politiattest.
+(8) Nasjonal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak truffet med hjemmel i:
+
+1. [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7 første ledd](forskrift/2019-07-11-1005/§7/ledd/1) eller spesielle opptakskrav jf. [§ 7 femte ledd](forskrift/2019-07-11-1005/§7/ledd/5)
+2. [fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve
+3. [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging
+4. [fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet
+5. [fagskoleloven § 27](lov/2018-06-08-28/§27) om krav om politiattest.
 
 (9) Vedtak fattet av Nasjonal klagenemnd for fagskoleutdanning kan ikke påklages.
 
@@ -610,7 +689,12 @@ Fastsatt med hjemmel i [fagskoleloven § 20](lov/2018-06-08-28/§20), [§ 22](lo
 
 ### § 9-2. Innsending av klage og klagefrister
 
-(1) En klage skal inneholde:hvem som klager (navn, adresse og eventuelt kandidatnummer)det vedtak det klages overbegrunnelse for klagen (ikke nødvendig ved klage på karakter)dato og underskrift.
+(1) En klage skal inneholde:
+
+- hvem som klager (navn, adresse og eventuelt kandidatnummer)
+- det vedtak det klages over
+- begrunnelse for klagen (ikke nødvendig ved klage på karakter)
+- dato og underskrift.
 
 (2) Studenten/klageren oversender alle klager til Fagskolen Oslo som formidler den videre til riktig instans.
 

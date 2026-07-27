@@ -15,7 +15,7 @@ xml_hash: "763b9086c4a5d084e1e5c428886ccb8734d07bdae3bf954e7793d8bfed1b7720"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,7 +202,10 @@ For denne forskrift menes med:
 
 *Flygekontrolltjeneste (air traffic control service):* En tjeneste med det formål å:
 
-1. forebygge og avverge sammenstøt:mellom luftfartøyer ogmellom luftfartøyer og hindringer på manøvreringsområdet, samt å
+1. forebygge og avverge sammenstøt:
+
+   1. mellom luftfartøyer og
+   2. mellom luftfartøyer og hindringer på manøvreringsområdet, samt å
 2. sørge for velordnet og rask trafikkavvikling.
 
 *Flygeledersertifikat (air traffic controller licence):* Et dokument som bekrefter at innehaveren er kvalifisert som flygeleder og innehar de personlige egenskaper, medisinske godkjenninger og kunnskaper som er nødvendige for å utøve flygekontrolltjeneste.
@@ -297,7 +300,11 @@ For denne forskrift menes med:
 
 1\. *AFIS/HFIS-fullmektig*
 
-Operativ leder skal forvisse seg om at en AFIS-fullmektig som utøver tjeneste ved vedkommende enhet til enhver tidinnehar gyldig autorisasjonsbevis og enhetsspesifikk autorisasjon i samsvar med den tjeneste som skal ytes, jf. [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS,innehar gyldig legeattest i samsvar med den til enhver tid gjeldende forskrift,er kompetent til å utøve den tjeneste som fremgår av vedkommendes autorisasjonsbevis og enhetsspesifikke autorisasjon.
+Operativ leder skal forvisse seg om at en AFIS-fullmektig som utøver tjeneste ved vedkommende enhet til enhver tid
+
+1. innehar gyldig autorisasjonsbevis og enhetsspesifikk autorisasjon i samsvar med den tjeneste som skal ytes, jf. [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS,
+2. innehar gyldig legeattest i samsvar med den til enhver tid gjeldende forskrift,
+3. er kompetent til å utøve den tjeneste som fremgår av vedkommendes autorisasjonsbevis og enhetsspesifikke autorisasjon.
 
 2\. *Annet personell i lufttrafikktjenesten (for flygeledere gjelder bestemmelser i forskrift om utdanning og sertifisering av flygeledere)*
 
@@ -327,7 +334,10 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 
 (1) Ved trening som skal føre fram til ny enhetsspesifikk autorisasjon for lokal flygeinformasjonstjeneste (AFIS eller HFIS), skal opplæringstiden være minst tilsvarende 1 måned normal arbeidstid.
 
-(2) Dersom trening som skal føre fram til ny enhetsspesifikk autorisasjon inkluderer bruk av overvåkingsinformasjon, skal opplæringstiden være:minst 2 måneder normal arbeidstid for lokal flygeinformasjonstjeneste forutsatt tidligere autorisasjon for detteminst 3 måneder normal arbeidstid for lokal flygeinformasjonstjeneste ved førstegangsoppnåelse av slik autorisasjon.
+(2) Dersom trening som skal føre fram til ny enhetsspesifikk autorisasjon inkluderer bruk av overvåkingsinformasjon, skal opplæringstiden være:
+
+1. minst 2 måneder normal arbeidstid for lokal flygeinformasjonstjeneste forutsatt tidligere autorisasjon for dette
+2. minst 3 måneder normal arbeidstid for lokal flygeinformasjonstjeneste ved førstegangsoppnåelse av slik autorisasjon.
 
 (3) Kravene til opplæringstidens varighet relaterer seg til operativt arbeid.
 
@@ -383,7 +393,11 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 
 (2) Lufttrafikktjenesteenheter skal ha etablert prosedyrer for den trening som er nødvendig når autorisert personell ikke har praktisert sine autorisasjoner innenfor gitte tidsperioder. Disse prosedyrene skal sikre at personellet innehar og får oppdatert de teoretiske kunnskaper og praktiske ferdigheter som er nødvendige for fornyelse av aktuelle autorisasjoner. Ved oppdatering av praktiske ferdigheter fordi disse ikke er tilstrekkelig vedlikeholdt skal autorisasjonen betraktes som midlertidig tilbaketrukket. I disse tilfeller er det personell med gyldig autorisasjon for OJTI som er operativt ansvarlig.
 
-(3) Prosedyrene skal beskrive treningsprogram for følgende tidsperioder:Mindre enn 20 vakter i løpet av tre månederFravær/ikke praktisert 3 måneder–6 månederFravær/ikke praktisert 6 måneder–12 måneder.
+(3) Prosedyrene skal beskrive treningsprogram for følgende tidsperioder:
+
+1. Mindre enn 20 vakter i løpet av tre måneder
+2. Fravær/ikke praktisert 3 måneder–6 måneder
+3. Fravær/ikke praktisert 6 måneder–12 måneder.
 
 (4) Autorisert personell skal innenfor de forutgående 3 måneder ha arbeidet minst 20 operative vakter, eller minst 14 operative vakter for HFIS personell som jobber 12-timers vakter. Unntatt fra dette kravet er personell som har gjennomgått autorisasjonsprøve innenfor de tre forutgående månedene.
 

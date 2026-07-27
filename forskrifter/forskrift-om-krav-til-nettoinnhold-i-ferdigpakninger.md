@@ -27,13 +27,30 @@ eu_basis: []
 ### § 1. Virkeområde
 
 1. Denne forskriften fastsetter krav til ferdigpakninger.
-2. Forskriften gjelder for e-merkede ferdigpakninger som inneholder varer som skal selges i konstante nominelle mengder somer lik den verdien som forpakkeren har angitt på ferdigpakningen,er uttrykt i vekt- eller volumenheter, oger mellom 5 g og 10 kg, eller mellom 5 ml og 10 l.
-3. Forskriften gjelder for ferdigpakninger uten e-merke som inneholder varer som skal selges i konstante nominelle mengder somer lik den verdien som forpakkeren har angitt på ferdigpakningen,er uttrykt i vekt- eller volumenheter, oger mellom 0 g og 50 kg, eller mellom 0 ml og 50 l.
+2. Forskriften gjelder for e-merkede ferdigpakninger som inneholder varer som skal selges i konstante nominelle mengder som
+
+   1. er lik den verdien som forpakkeren har angitt på ferdigpakningen,
+   2. er uttrykt i vekt- eller volumenheter, og
+   3. er mellom 5 g og 10 kg, eller mellom 5 ml og 10 l.
+3. Forskriften gjelder for ferdigpakninger uten e-merke som inneholder varer som skal selges i konstante nominelle mengder som
+
+   1. er lik den verdien som forpakkeren har angitt på ferdigpakningen,
+   2. er uttrykt i vekt- eller volumenheter, og
+   3. er mellom 0 g og 50 kg, eller mellom 0 ml og 50 l.
 4. Denne forskriften får ikke anvendelse på Svalbard.
 
 ### § 2. Definisjoner
 
-I denne forskriften legges følgende definisjoner til grunn:*Ferdigpakning* er kombinasjonen av en vare og emballasjen, når den er pakket uten at kjøperen er til stede, har en verdi som er fastsatt på forhånd og ikke kan endres uten at forpakningen enten blir åpnet eller gjennomgår en synlig forandring.*Forpakker* er den som er ansvarlig for påfyllingen av varen i ferdigpakningen.*Importør av en ferdigpakning med e-merke* er enhver som er etablert i EØS og som gjør ferdigpakninger med e-merke som er forpakket i et tredjeland tilgjengelig på EØS-markedet.*Importør av en ferdigpakning uten e-merke* er den som importerer ferdigpakninger uten e-merke til Norge.*Negativt avvik* er forskjellen mellom det virkelige innholdet og den nominelle mengden, når det virkelige innholdet er minst.*Nominell mengde Qn* til en ferdigpakning er den vekt- eller volumverdien som er angitt på ferdigpakningen.*Tillatt minsteinnhold* er ferdigpakningens nominelle mengde fratrukket den tilhørende negative toleransen.*Virkelig innhold* av en ferdigpakning er den mengden (i vekt eller volum) av varen som ferdigpakningen faktisk inneholder. Med unntak av frosne varer skal det virkelige innholdet for volumenheter bestemmes ved eller korrigeres til 20 °C.
+I denne forskriften legges følgende definisjoner til grunn:
+
+1. *Ferdigpakning* er kombinasjonen av en vare og emballasjen, når den er pakket uten at kjøperen er til stede, har en verdi som er fastsatt på forhånd og ikke kan endres uten at forpakningen enten blir åpnet eller gjennomgår en synlig forandring.
+2. *Forpakker* er den som er ansvarlig for påfyllingen av varen i ferdigpakningen.
+3. *Importør av en ferdigpakning med e-merke* er enhver som er etablert i EØS og som gjør ferdigpakninger med e-merke som er forpakket i et tredjeland tilgjengelig på EØS-markedet.
+4. *Importør av en ferdigpakning uten e-merke* er den som importerer ferdigpakninger uten e-merke til Norge.
+5. *Negativt avvik* er forskjellen mellom det virkelige innholdet og den nominelle mengden, når det virkelige innholdet er minst.
+6. *Nominell mengde Qn* til en ferdigpakning er den vekt- eller volumverdien som er angitt på ferdigpakningen.
+7. *Tillatt minsteinnhold* er ferdigpakningens nominelle mengde fratrukket den tilhørende negative toleransen.
+8. *Virkelig innhold* av en ferdigpakning er den mengden (i vekt eller volum) av varen som ferdigpakningen faktisk inneholder. Med unntak av frosne varer skal det virkelige innholdet for volumenheter bestemmes ved eller korrigeres til 20 °C.
 
 ## Kapittel 2 – Krav til ferdigpakninger
 
@@ -49,13 +66,37 @@ I denne forskriften legges følgende definisjoner til grunn:*Ferdigpakning* er k
 
 ### § 5. Krav til nettoinnhold
 
-1. Et parti ferdigpakninger skal oppfylle følgende krav:Gjennomsnittet av det virkelige innholdet i alle ferdigpakningene må ikke være mindre enn den nominelle mengden Qn.Andelen ferdigpakninger med negativt avvik utover den negative toleransen som er fastsatt i tabell 1, skal ikke overstige 2,5 prosent.Ingen ferdigpakning kan vise et negativt avvik utover det dobbelte av den negative toleransen i tabell 1.
-2. De negative toleransene som er angitt i prosent i tabell 1, omregnes til vekt- eller volumenheter, og rundes opp til nærmeste tiendedel av gram eller milliliter.*Tabell 1. Negative toleranser for ferdigpakninger**Nominell mengde Qn i gram (g) eller milliliter (ml)**Negativ toleranse**i prosent av Qn**i g eller ml*5 til 509–Fra 50 til 100–4,5Fra 100 til 2004,5–Fra 200 til 300–9Fra 300 til 5003–Fra 500 til 1000–15Fra 1 000 til 10 0001,5–Fra 10 000 til 15 000–150Fra 15 000 til 50 0001–
+1. Et parti ferdigpakninger skal oppfylle følgende krav:
+
+   1. Gjennomsnittet av det virkelige innholdet i alle ferdigpakningene må ikke være mindre enn den nominelle mengden Qn.
+   2. Andelen ferdigpakninger med negativt avvik utover den negative toleransen som er fastsatt i tabell 1, skal ikke overstige 2,5 prosent.
+   3. Ingen ferdigpakning kan vise et negativt avvik utover det dobbelte av den negative toleransen i tabell 1.
+2. De negative toleransene som er angitt i prosent i tabell 1, omregnes til vekt- eller volumenheter, og rundes opp til nærmeste tiendedel av gram eller milliliter.
+
+   *Tabell 1. Negative toleranser for ferdigpakninger*
+
+   | *Nominell mengde Qn i gram (g) eller milliliter (ml)* | *Negativ toleranse* |  |
+   | --- | --- | --- |
+   |  | *i prosent av Qn* | *i g eller ml* |
+   | 5 til 50 | 9 | – |
+   | Fra 50 til 100 | – | 4,5 |
+   | Fra 100 til 200 | 4,5 | – |
+   | Fra 200 til 300 | – | 9 |
+   | Fra 300 til 500 | 3 | – |
+   | Fra 500 til 1000 | – | 15 |
+   | Fra 1 000 til 10 000 | 1,5 | – |
+   | Fra 10 000 til 15 000 | – | 150 |
+   | Fra 15 000 til 50 000 | 1 | – |
 
 ### § 6. Den ansvarliges kontroll av ferdigpakningens nettoinnhold
 
 1. Den som er ansvarlig for ferdigpakningene i henhold til § 3 skal ha rutiner som sikrer at det virkelige innholdet i ferdigpakninger kontrollmåles. Kontrollmålingen må foretas ved hjelp av et måleinstrument som oppfyller kravene fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4). Ferdigpakningers virkelige innhold kan måles direkte med vekter eller volummålere. For varer hvor innholdet er angitt i volum kan måling foretas indirekte ved hjelp av veiing og bestemmelse av varens tetthet.
-2. Kontrollmålingen kan gjøres på en av følgende måter:Innholdet i hver enkelt ferdigpakning kontrolleres.Det tas stikkprøver eller benyttes andre kontrollsystem som sikrer at innholdet i ferdigpakningene tilfredsstiller kravene i denne forskriften.Varer som har mengden uttrykt i volum, kan oppfylle plikten til kontrollmåling ved påfylling i flasker i henhold til kravene i [forskrift 21. desember 2007 nr. 1732 om krav til flasker brukt som målebeholdere (måleflasker)](forskrift/2007-12-21-1732), samt kravene i denne forskriften.Ved import kan importøren i stedet for å foreta kontrollmålinger, legge frem bevis for at han har de nødvendige garantier for at nettoinnholdet tilfredsstiller kravene i denne forskriften og med det påta seg ansvaret.
+2. Kontrollmålingen kan gjøres på en av følgende måter:
+
+   1. Innholdet i hver enkelt ferdigpakning kontrolleres.
+   2. Det tas stikkprøver eller benyttes andre kontrollsystem som sikrer at innholdet i ferdigpakningene tilfredsstiller kravene i denne forskriften.
+   3. Varer som har mengden uttrykt i volum, kan oppfylle plikten til kontrollmåling ved påfylling i flasker i henhold til kravene i [forskrift 21. desember 2007 nr. 1732 om krav til flasker brukt som målebeholdere (måleflasker)](forskrift/2007-12-21-1732), samt kravene i denne forskriften.
+   4. Ved import kan importøren i stedet for å foreta kontrollmålinger, legge frem bevis for at han har de nødvendige garantier for at nettoinnholdet tilfredsstiller kravene i denne forskriften og med det påta seg ansvaret.
 3. Resultatene av kontrollmålingene skal loggføres og arkiveres. Justervesenet skal ha tilgang til dette arkivet for å kunne vurdere om kontrollmålingene er gjennomført regelmessig og korrekt.
 4. Kontrollsystemet og kontrollmålinger skal være egnet til å sikre at kravene i denne forskriften overholdes.
 5. Forpakkere av e-merkede ferdigpakninger skal ved endringer i virksomheten som kan ha betydning for påfyllingen, slik som endringer av kontrollsystem, nye fyllemetoder eller nytt utstyr til bruk i påfyllingen, informere Justervesenet om dette.
@@ -70,13 +111,24 @@ I denne forskriften legges følgende definisjoner til grunn:*Ferdigpakning* er k
 1. Ferdigpakninger kan merkes med e-merket som beskrevet i andre ledd, dersom de oppfyller kravene til e-merking i kapittel 2. e-merket viser at ferdigpakningen tilfredsstiller kravene i denne forskriften.
 2. e-merket skal ha en utforming som vist i figur 1, med en høyde på minst 3 mm. Figurens dimensjoner er relative i forhold til den ytre sirkelens diameter (betegnet med lengden 1 i figuren).
 3. e-merket skal påføres rett ved påskriften som angir nominell vekt eller volum.
-*Figur 1. Utforming av e-merket*
+
+   *Figur 1. Utforming av e-merket*
 
 ### § 9. Merking av nominell mengde på ferdigpakninger med e-merket
 
 1. Ferdigpakninger som bruker e-merket skal normalt være påført nominell vekt. Ferdigpakninger som bruker e-merket på flytende varer skal angi mengden i nominelt volum.
-2. Ferdigpakninger som bruker e-merket skal angi den nominelle mengden (i vekt eller volum) med enhetene kilogram (kg), gram (g), liter (l), centiliter (cl) eller milliliter (ml). I angivelsen skal tallet stå først, og enheten etterpå. Dette skal være angitt med tall som er minst:2 mm høye hvis nominell mengde er til og med 50 g/5 cl3 mm høye hvis nominell mengde er mer enn 50 g/5 cl, til og med 200 g/20 cl4 mm høye hvis nominell mengde er mer enn 200 g/20 cl, til og med1 000 g/100 cl6 mm høye hvis nominell mengde er mer enn 1 000 g/100 cl.
-3. Så lenge imperialsystemet er tillatt å bruke i EU, kan en omregning av den nominelle mengden på ferdigpakninger med e-merket til imperialenheter stå påført etter merkingen påkrevd i første og andre ledd. Angivelsen i imperialenheter skal ikke være større enn de tilsvarende angivelser i SI-enheter. Omregningen skal skje etter følgende omregningskoeffisienter:1 ml = 0,0352 fluid ounce1 l = 1,760 pints eller 0,220 gallon1 g = 0,0353 ounce (avoirdupoids)1 kg = 2,205 pounds.
+2. Ferdigpakninger som bruker e-merket skal angi den nominelle mengden (i vekt eller volum) med enhetene kilogram (kg), gram (g), liter (l), centiliter (cl) eller milliliter (ml). I angivelsen skal tallet stå først, og enheten etterpå. Dette skal være angitt med tall som er minst:
+
+   1. 2 mm høye hvis nominell mengde er til og med 50 g/5 cl
+   2. 3 mm høye hvis nominell mengde er mer enn 50 g/5 cl, til og med 200 g/20 cl
+   3. 4 mm høye hvis nominell mengde er mer enn 200 g/20 cl, til og med1 000 g/100 cl
+   4. 6 mm høye hvis nominell mengde er mer enn 1 000 g/100 cl.
+3. Så lenge imperialsystemet er tillatt å bruke i EU, kan en omregning av den nominelle mengden på ferdigpakninger med e-merket til imperialenheter stå påført etter merkingen påkrevd i første og andre ledd. Angivelsen i imperialenheter skal ikke være større enn de tilsvarende angivelser i SI-enheter. Omregningen skal skje etter følgende omregningskoeffisienter:
+
+   1. 1 ml = 0,0352 fluid ounce
+   2. 1 l = 1,760 pints eller 0,220 gallon
+   3. 1 g = 0,0353 ounce (avoirdupoids)
+   4. 1 kg = 2,205 pounds.
 
 ### § 10. Identifikasjon av ansvarlig for ferdigpakninger med e-merket
 
@@ -84,7 +136,11 @@ Ferdigpakninger som bruker e-merket skal være påført et merke eller en påskr
 
 ### § 11. Fri flyt av ferdigpakninger som er e-merket
 
-Hvis ferdigpakninger med e-merket tilfredsstiller kravene i denne forskriften, kan de ikke nektes, begrenses eller forbys markedsadgang her i landet av grunner som gjeldermerkingen som kreves påført demfastsettelse av varens vekt eller volumde metoder som er anvendt ved målingen og kontrollen i henhold til denne forskrift.
+Hvis ferdigpakninger med e-merket tilfredsstiller kravene i denne forskriften, kan de ikke nektes, begrenses eller forbys markedsadgang her i landet av grunner som gjelder
+
+1. merkingen som kreves påført dem
+2. fastsettelse av varens vekt eller volum
+3. de metoder som er anvendt ved målingen og kontrollen i henhold til denne forskrift.
 
 ## Kapittel 3 – Avsluttende bestemmelser
 
@@ -94,7 +150,11 @@ Justervesenet kan gjennomføre tilsyn i forpakkerens eller importørens lokaler.
 
 ### § 13. Reaksjoner ved brudd på regelverket
 
-1. Dersom ferdigpakningene ikke tilfredsstiller bestemmelsene i denne forskriften, kan Justervesenet pålegge forpakkeren, importøren eller selgeren åstanse salg av ferdigpakningene,trekke tilbake varepartier fra utsalgsstedet, ellerstanse bruk av e-merket.
+1. Dersom ferdigpakningene ikke tilfredsstiller bestemmelsene i denne forskriften, kan Justervesenet pålegge forpakkeren, importøren eller selgeren å
+
+   1. stanse salg av ferdigpakningene,
+   2. trekke tilbake varepartier fra utsalgsstedet, eller
+   3. stanse bruk av e-merket.
 2. Overtredelse av bestemmelsene i denne forskriften kan medføre overtredelsesgebyr utmålt etter bestemmelsene i [forskrift 20. desember 2007 nr. 1723 om målenheter og måling kapittel 7](forskrift/2007-12-20-1723/kap7).
 
 ### § 14. Gebyr

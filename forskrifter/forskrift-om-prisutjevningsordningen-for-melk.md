@@ -15,7 +15,7 @@ xml_hash: "1f9c58f1baea620ba88cf4fea08d637db39df5e2ec2454e00a9a4105edfe7c8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,13 +32,22 @@ Prisutjevningsordningen for melk har som formål å regulere prisdifferensiering
 
 Forskriften gjelder melk og biprodukter som foredles og omsettes som melkeprodukter av meieriselskap lokalisert i Norge.
 
-Forskriften gjelder likevel bare dersom melken og biproduktene foredles av meieriselskaper som i et enkelt år foredler mer enn200 000 liter melk anvendt til flytende melkeprodukter, eller500 000 liter melk anvendt til faste melkeprodukter.
+Forskriften gjelder likevel bare dersom melken og biproduktene foredles av meieriselskaper som i et enkelt år foredler mer enn
+
+1. 200 000 liter melk anvendt til flytende melkeprodukter, eller
+2. 500 000 liter melk anvendt til faste melkeprodukter.
 
 Forskriften gjelder ikke melk og biprodukter som foredles i utlandet med mindre melken er produsert i Norge og melkeproduktet omsettes i Norge.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Melk*: Flytende ku- og geitemelk, ubehandlet eller varmebehandlet (termisert eller pasteurisert).*Melkeprodukter*: Bearbeidede produkter av melk eller av biprodukter av melk.*Flytende melkeprodukter*: Alle melkeprodukter som plasseres i prisgruppene 2 eller i biproduktgruppe 1, samt flytende melkeprodukter plassert i prisgruppene 1, 3 eller 4.*Biprodukter:* Produksjonsfløte og myse hvor kumelk er råvare.*Meieriselskap*: Foretak som benytter melk, fløte eller myse til foredling eller produksjon av melkeprodukter.
+I denne forskriften menes med:
+
+1. *Melk*: Flytende ku- og geitemelk, ubehandlet eller varmebehandlet (termisert eller pasteurisert).
+2. *Melkeprodukter*: Bearbeidede produkter av melk eller av biprodukter av melk.
+3. *Flytende melkeprodukter*: Alle melkeprodukter som plasseres i prisgruppene 2 eller i biproduktgruppe 1, samt flytende melkeprodukter plassert i prisgruppene 1, 3 eller 4.
+4. *Biprodukter:* Produksjonsfløte og myse hvor kumelk er råvare.
+5. *Meieriselskap*: Foretak som benytter melk, fløte eller myse til foredling eller produksjon av melkeprodukter.
 
 > Endret ved [forskrift 20 juni 2016 nr. 734](forskrift/2016-06-20-734) (i kraft 1 juli 2020).
 

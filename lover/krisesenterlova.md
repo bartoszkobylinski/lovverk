@@ -15,7 +15,7 @@ xml_hash: "fa24e7baccd502c2f638bd052bc64688ea28e8c4726359123afe2fe94e5fb62f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Formålet med denne lova er å sikre eit godt og heilskapleg krisesentertilbod t
 
 Kommunen skal sørgje for eit krisesentertilbod som skal kunne nyttast av personar som er utsette for vald eller truslar om vald i nære relasjonar, og som har behov for rådgjeving eller eit trygt og mellombels butilbod.
 
-Tilbodet skal omfatte følgjande:eit krisesenter eller eit tilsvarande gratis, heilårs, heildøgns, trygt og mellombels butilbodeit gratis dagtilbodeit heilårs og heildøgns tilbod der personar nemnde i første ledd kan få råd og rettleiing per telefonoppfølging i reetableringsfasen i samarbeid med andre delar av tenesteapparatet, jf. [§ 4](lov/2009-06-19-44/§4).
+Tilbodet skal omfatte følgjande:
+
+1. eit krisesenter eller eit tilsvarande gratis, heilårs, heildøgns, trygt og mellombels butilbod
+2. eit gratis dagtilbod
+3. eit heilårs og heildøgns tilbod der personar nemnde i første ledd kan få råd og rettleiing per telefon
+4. oppfølging i reetableringsfasen i samarbeid med andre delar av tenesteapparatet, jf. [§ 4](lov/2009-06-19-44/§4).
 
 Tilbodet skal gi brukarane støtte, rettleiing og hjelp til å ta kontakt med andre delar av tenesteapparatet.
 
@@ -98,7 +103,13 @@ Organ som utfører oppgåver etter denne lova, kan utan hinder av teieplikt innh
 
 Alle som utfører teneste eller arbeid etter denne lova, skal i arbeidet sitt vere merksame på forhold som kan føre til tiltak frå barnevernstenesta.
 
-Alle som utfører teneste eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphaldnår det er grunn til å tru at eit barn blir eller vil bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller anna alvorleg omsorgssvikt,når det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling,når det er grunn til å tru at eit barn med nedsett funksjonsevne eller eit spesielt hjelpetrengande barn ikkje får dekt sitt særlege behov for behandling eller opplæring,når eit barn set utviklinga si i alvorleg fare i form av alvorlege eller gjentatte brotsverk, problematisk bruk av rusmiddel eller andre utprega skadelege handlingar,når det er grunn til å tru at eit barn blir eller vil bli utnytta til menneskehandel.
+Alle som utfører teneste eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphald
+
+1. når det er grunn til å tru at eit barn blir eller vil bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller anna alvorleg omsorgssvikt,
+2. når det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling,
+3. når det er grunn til å tru at eit barn med nedsett funksjonsevne eller eit spesielt hjelpetrengande barn ikkje får dekt sitt særlege behov for behandling eller opplæring,
+4. når eit barn set utviklinga si i alvorleg fare i form av alvorlege eller gjentatte brotsverk, problematisk bruk av rusmiddel eller andre utprega skadelege handlingar,
+5. når det er grunn til å tru at eit barn blir eller vil bli utnytta til menneskehandel.
 
 Alle som utfører teneste eller arbeid etter denne lova, pliktar også å gi opplysningar etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 

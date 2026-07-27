@@ -38,7 +38,11 @@ Resten av overskuddet fra pengespill på hest fordeles som tilskudd, dels uten s
 
 ## § 4. Tilskudd uten søknad
 
-Følgende tilskuddsmottakere tildeles slik andel av overskuddet omtalt i [§ 3](forskrift/2023-03-13-327/§3/ledd/2) andre ledd uten søknad:Det Norske Travselskap: 82 prosent. Tilskuddet skal fremme en sunn utvikling av norsk travsport, hestehold og hesteavl gjennom å bidra til dekning av arrangementskostnader ved tilskudd til den enkelte travbane, premier til hesteeiere, oppdrettere, trenere og kusker, administrasjon, investeringer i bane- og treningsanlegg og infrastruktur, og støtte til frivillig aktivitet.Norsk Galopp: 9,2 prosent. Tilskuddet skal fremme en sunn utvikling av norsk galoppsport, hestehold og hesteavl gjennom å bidra til dekning av arrangementskostnader ved tilskudd til den enkelte galoppbane, premier til hesteeiere, oppdrettere, trenere og kusker, administrasjon, investeringer i bane- og treningsanlegg og infrastruktur, og støtte til frivillig aktivitet.Norsk Hestesenter: 5,8 prosent. Tilskuddet skal bidra til Norsk Hestesenters arbeid med å fremme kvaliteten på hestehold og hesteavl i Norge. Landbruks- og matdepartementet kan gi nærmere føringer for bruk av midlene.
+Følgende tilskuddsmottakere tildeles slik andel av overskuddet omtalt i [§ 3](forskrift/2023-03-13-327/§3/ledd/2) andre ledd uten søknad:
+
+- Det Norske Travselskap: 82 prosent. Tilskuddet skal fremme en sunn utvikling av norsk travsport, hestehold og hesteavl gjennom å bidra til dekning av arrangementskostnader ved tilskudd til den enkelte travbane, premier til hesteeiere, oppdrettere, trenere og kusker, administrasjon, investeringer i bane- og treningsanlegg og infrastruktur, og støtte til frivillig aktivitet.
+- Norsk Galopp: 9,2 prosent. Tilskuddet skal fremme en sunn utvikling av norsk galoppsport, hestehold og hesteavl gjennom å bidra til dekning av arrangementskostnader ved tilskudd til den enkelte galoppbane, premier til hesteeiere, oppdrettere, trenere og kusker, administrasjon, investeringer i bane- og treningsanlegg og infrastruktur, og støtte til frivillig aktivitet.
+- Norsk Hestesenter: 5,8 prosent. Tilskuddet skal bidra til Norsk Hestesenters arbeid med å fremme kvaliteten på hestehold og hesteavl i Norge. Landbruks- og matdepartementet kan gi nærmere føringer for bruk av midlene.
 
 Enerettsaktøren kan utbetale forskudd på tilskudd etter denne paragrafen begrenset oppad til maksimalt 90 prosent av overskuddet fra pengespill på hest så langt i driftsåret.
 

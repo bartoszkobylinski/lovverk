@@ -15,7 +15,7 @@ xml_hash: "8bf178a2d6b4cd66347bd7ef7410436fce8d149d684e7beb27cc66242ab9e76d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,7 +33,13 @@ Følgende former for handelspraksis anses under alle omstendigheter som urimelig
 - Å hevde at atferdsregler er godkjent av et offentlig organ eller annet organ uten at dette er tilfellet.
 - Å hevde at en næringsdrivende (herunder vedkommendes handelspraksis) eller en ytelse er godkjent, autorisert eller tillatt av et offentlig eller privat organ når dette ikke er tilfellet, eller å framsette en slik påstand uten å oppfylle vilkårene for godkjenning, anerkjennelse eller tillatelse.
 - Å oppfordre til kjøp av ytelser til en bestemt pris uten å opplyse om et eventuelt rimelig grunnlag den næringsdrivende har for å tro at han/hun ikke vil være i stand til å levere eller få en annen næringsdrivende til å levere disse ytelsene til den aktuelle prisen innenfor et tidsrom og i en mengde som er rimelig ut fra ytelsen, reklamens omfang og oppgitt pris (lokketilbud).
-- Å oppfordre til kjøp av ytelser til en bestemt pris og sånekte å vise den averterte ytelsen til forbrukerne, ellernekte å motta bestillinger på den eller levere den innen rimelig tid, ellerframvise en defekt utgave av den,med sikte på å fremme salg av en annen ytelse (en type lokketilbud).
+- Å oppfordre til kjøp av ytelser til en bestemt pris og så
+
+  1. nekte å vise den averterte ytelsen til forbrukerne, eller
+  2. nekte å motta bestillinger på den eller levere den innen rimelig tid, eller
+  3. framvise en defekt utgave av den,
+
+  med sikte på å fremme salg av en annen ytelse (en type lokketilbud).
 - Feilaktig å hevde at en ytelse vil være tilgjengelig i et svært begrenset tidsrom, eller at den vil være tilgjengelig bare på bestemte vilkår i et svært begrenset tidsrom, for å framkalle en umiddelbar beslutning og frata forbrukerne tilstrekkelig mulighet eller tid til å gjøre et informert valg.
 - Å påta seg å yte ettersalgsservice overfor forbrukere som den næringsdrivende har kommunisert med før en transaksjon på et språk som ikke er et offisielt språk i medlemsstaten der den næringsdrivende er etablert, og deretter yte slik service bare på et annet språk uten klart å tilkjennegi dette for forbrukeren før forbrukeren forplikter seg til transaksjonen.
 - Å hevde eller på annen måte skape inntrykk av at en ytelse kan selges lovlig når den ikke kan det.
@@ -65,7 +71,10 @@ Følgende former for handelspraksis anses under alle omstendigheter som urimelig
 5. Å ta med i reklame direkte oppfordringer til barn om å kjøpe annonserte ytelser eller overtale foreldrene eller andre voksne til å kjøpe de annonserte ytelsene til dem.
 6. Å kreve at forbrukeren umiddelbart eller senere betaler for, returnerer eller oppbevarer ytelser som den næringsdrivende har levert, men som forbrukeren ikke har bedt om, med mindre ytelsen er en erstatningsvare som i henhold til en fjernsalgsavtale er levert fordi den bestilte varen ikke var tilgjengelig (uanmodet levering).
 7. Uttrykkelig å opplyse en forbruker om at den næringsdrivendes arbeid eller levebrød er i fare dersom vedkommende ikke kjøper en ytelse.
-8. Å skape feilaktig inntrykk av at forbrukeren allerede har vunnet, vil vinne eller etter å ha utført en bestemt handling vil vinne en premie eller et annet tilsvarende gode, når entendet ikke foreligger noen premie eller annet tilsvarende gode, ellerden handlingen som skal utføres i forbindelse med premien eller et tilsvarende gode, forutsetter at forbrukeren betaler penger eller pådrar seg utgifter.
+8. Å skape feilaktig inntrykk av at forbrukeren allerede har vunnet, vil vinne eller etter å ha utført en bestemt handling vil vinne en premie eller et annet tilsvarende gode, når enten
+
+   - det ikke foreligger noen premie eller annet tilsvarende gode, eller
+   - den handlingen som skal utføres i forbindelse med premien eller et tilsvarende gode, forutsetter at forbrukeren betaler penger eller pådrar seg utgifter.
 
 > Endret ved forskrifter [25 okt 2022 nr. 1800](forskrift/2022-10-25-1800) (i kraft 1 jan 2023), [20 juni 2023 nr. 980](forskrift/2023-06-20-980) (i kraft 1 okt 2023).
 

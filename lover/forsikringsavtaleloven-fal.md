@@ -15,7 +15,7 @@ xml_hash: "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,17 @@ Kongen kan i forskrift gi nærmere regler om lovens virkeområde, herunder kan d
 
 ### § 1-2. (alminnelige definisjoner)
 
-I denne loven betyr*forbruker:* fysisk person når avtalen har et formål som hovedsakelig ligger utenfor personens forretnings- eller yrkesvirksomhet*forsikringsdistribusjon:* virksomhet som definert i [forsikringsformidlingsloven § 1-3](lov/2021-12-22-163/§1-3) annet og tredje ledd*forsikringsdistributør:* foretak som driver forsikringsdistribusjon*forsikringsforetak:* foretak med konsesjon etter [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12)*forsikringsformidler:* foretak som kan drive forsikringsformidling etter [forsikringsformidlingsloven](lov/2021-12-22-163), jf. [forsikringsformidlingsloven § 3-1](lov/2021-12-22-163/§3-1)*forsikringsmegler:* foretak som driver forsikringsmegling slik det er definert i [forsikringsformidlingsloven § 2-1](lov/2021-12-22-163/§2-1)*forsikringsagent:* foretak som driver forsikringsagentvirksomhet slik det er definert i [forsikringsformidlingsloven § 2-3](lov/2021-12-22-163/§2-3)*aksessorisk forsikringsagent:* foretak som driver aksessorisk forsikringsagentvirksomhet slik det er definert i [forsikringsformidlingsloven § 2-4](lov/2021-12-22-163/§2-4) første ledd*kunde:* en forsikringstaker, jf. §[§ 2-2](lov/1989-06-16-69/§2-2) og [10-2](lov/1989-06-16-69/§10-2), eller en annen som utleder rett mot forsikringsforetaket av en forsikringsavtale.
+I denne loven betyr
+
+1. *forbruker:* fysisk person når avtalen har et formål som hovedsakelig ligger utenfor personens forretnings- eller yrkesvirksomhet
+2. *forsikringsdistribusjon:* virksomhet som definert i [forsikringsformidlingsloven § 1-3](lov/2021-12-22-163/§1-3) annet og tredje ledd
+3. *forsikringsdistributør:* foretak som driver forsikringsdistribusjon
+4. *forsikringsforetak:* foretak med konsesjon etter [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12)
+5. *forsikringsformidler:* foretak som kan drive forsikringsformidling etter [forsikringsformidlingsloven](lov/2021-12-22-163), jf. [forsikringsformidlingsloven § 3-1](lov/2021-12-22-163/§3-1)
+6. *forsikringsmegler:* foretak som driver forsikringsmegling slik det er definert i [forsikringsformidlingsloven § 2-1](lov/2021-12-22-163/§2-1)
+7. *forsikringsagent:* foretak som driver forsikringsagentvirksomhet slik det er definert i [forsikringsformidlingsloven § 2-3](lov/2021-12-22-163/§2-3)
+8. *aksessorisk forsikringsagent:* foretak som driver aksessorisk forsikringsagentvirksomhet slik det er definert i [forsikringsformidlingsloven § 2-4](lov/2021-12-22-163/§2-4) første ledd
+9. *kunde:* en forsikringstaker, jf. §[§ 2-2](lov/1989-06-16-69/§2-2) og [10-2](lov/1989-06-16-69/§10-2), eller en annen som utleder rett mot forsikringsforetaket av en forsikringsavtale.
 
 > Tilføyd ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -232,7 +242,17 @@ Kongen kan i forskrift gi nærmere regler om hvordan forsikringsdistributøren s
 
 ### § 1C-3. (standardisert informasjonsdokument)
 
-Ved avtaler om annen forsikring enn livsforsikring skal følgende opplysninger gis i et standardisert informasjonsdokument:informasjon om typen forsikringen sammenfatning av forsikringsdekningen, herunder de viktigste risikoer som er forsikret, forsikringssum, geografisk virkeområde og en sammenfatning av de risikoer som ikke er dekketvilkår om betaling av premier, herunder over hvor lang tid innbetalingene skal skjede viktigste unntakene i forsikringenplikter ved oppstart av avtalenplikter mens avtalen løperplikter når det meldes en skadeavtalens varighet, herunder tidspunktet for start og sluttvilkår for oppsigelse av avtalen.
+Ved avtaler om annen forsikring enn livsforsikring skal følgende opplysninger gis i et standardisert informasjonsdokument:
+
+1. informasjon om typen forsikring
+2. en sammenfatning av forsikringsdekningen, herunder de viktigste risikoer som er forsikret, forsikringssum, geografisk virkeområde og en sammenfatning av de risikoer som ikke er dekket
+3. vilkår om betaling av premier, herunder over hvor lang tid innbetalingene skal skje
+4. de viktigste unntakene i forsikringen
+5. plikter ved oppstart av avtalen
+6. plikter mens avtalen løper
+7. plikter når det meldes en skade
+8. avtalens varighet, herunder tidspunktet for start og slutt
+9. vilkår for oppsigelse av avtalen.
 
 Det standardiserte informasjonsdokumentet skal utarbeides av produsenten av det aktuelle skadeforsikringsproduktet.
 
@@ -242,15 +262,42 @@ Departementet kan i forskrift gi nærmere regler om det standardiserte informasj
 
 ### § 1C-4. (informasjon om forsikringsforetaket)
 
-Kunden skal gis følgende opplysninger om forsikringsforetaket:foretakets primære virksomhet, foretaksnavn og hovedkontorets adressetilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norgeannen relevant kontaktinformasjon for å kunne kommunisere med foretaket, herunder e-postadresseoffentlige registre hvor virksomheten er registrert, samt registreringsnummeret eller tilsvarende identifikasjonsopplysninger.
+Kunden skal gis følgende opplysninger om forsikringsforetaket:
+
+1. foretakets primære virksomhet, foretaksnavn og hovedkontorets adresse
+2. tilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norge
+3. annen relevant kontaktinformasjon for å kunne kommunisere med foretaket, herunder e-postadresse
+4. offentlige registre hvor virksomheten er registrert, samt registreringsnummeret eller tilsvarende identifikasjonsopplysninger.
 
 > Tilføyd ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
 ### § 1C-5. (informasjon om distribusjonsforholdet)
 
-Er forsikringsdistributøren et forsikringsforetak, skal kunden gis følgende opplysninger om distribusjonsforholdet med mindre noe annet følger av tredje ledd:at foretaket er et forsikringsforetakom foretaket gir en personlig anbefaling om forsikringen som selgeseventuelle interessekonflikter mellom foretaket og kundene og kundene imellom og tiltak som er truffet for å redusere risikoen for slike konflikterhvilken form for vederlag foretakets ansatte mottar i forbindelse med avtalen, herunder eventuelle innbetalinger etter avtaleinngåelsen i tillegg til løpende premier og planlagte betalinger.
+Er forsikringsdistributøren et forsikringsforetak, skal kunden gis følgende opplysninger om distribusjonsforholdet med mindre noe annet følger av tredje ledd:
 
-Er forsikringsdistributøren en forsikringsformidler, skal kunden gis følgende opplysninger om distribusjonsforholdet med mindre noe annet følger av fjerde ledd:forsikringsformidlerens foretaksnavn, geografiske adresse og at forsikringsformidleren er en forsikringsformidlertilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norgeom forsikringsformidleren gir en personlig anbefaling om forsikringen som selgesoffentlige registre hvor forsikringsformidleren er registrert, registreringsnummeret eller tilsvarende identifikasjonsopplysninger og hvordan det kan kontrolleres at foretaket er registrerteventuelle interessekonflikter mellom foretaket og kundene og kundene imellom og tiltak som i så fall er truffet for å redusere risikoen for slike konflikterom forsikringsformidleren representerer kunden eller handler for eller på vegne av forsikringsforetaket og, dersom kunden er en forbruker, hva dette innebærer for forsikringsforetakets ansvar, jf. [§ 21-3](lov/1989-06-16-69/§21-3)om forsikringsformidleren direkte eller indirekte innehar ti prosent eller mer av stemmerettighetene eller kapitalen i et bestemt forsikringsforetakom et bestemt forsikringsforetak, eller morforetaket til et bestemt forsikringsforetak, direkte eller indirekte innehar ti prosent eller mer av stemmerettighetene eller kapitalen i forsikringsformidlerenom forsikringsformidleren gir en personlig anbefaling på grunnlag av en objektiv analyse. I så fall skal forsikringsformidleren gi den personlige anbefalingen på grunnlag av en analyse av et så stort antall forsikringer som er tilgjengelige på markedet, at foretaket i samsvar med faglige kriterier er i stand til å gi en personlig anbefaling om hvilken forsikring som passer kundens behov. Kunden skal gis informasjon om hva det innebærer at en personlig anbefaling gis på basis av en objektiv analyseom forsikringsformidleren er avtalerettslig forpliktet til utelukkende å benytte ett eller flere forsikringsforetak i sin forsikringsformidlingsvirksomhet, og i så fall navnet på dette eller dissedersom forsikringsformidleren ikke er avtalerettslig forpliktet som nevnt i bokstav j, og heller ikke yter rådgivning på basis av en objektiv analyse som nevnt i bokstav i, navnene på de forsikringsforetakene som forsikringsformidleren kan benytte og faktisk benytterhvilken form for vederlag som mottas i forbindelse med formidlingenom utformingen av vederlag som forsikringsformidleren og vedkommende ansatt mottar i forbindelse med formidlingen, herunder om vederlaget er provisjonsbasert, og om kunden skal betale vederlaget direkte eller om det inngår i forsikringspremien eller på annen måte skal betales i forbindelse med forsikringsavtalendersom kunden skal betale vederlaget direkte, størrelsen på vederlaget der dette er mulig å angi og alternativt metoden for beregning av vederlagetstørrelsen på vederlag som forsikringsformidleren mottar fra forsikringsgiveren i forbindelse med formidlingenopplysninger som nevnt i bokstav l og m om hver enkelt innbetaling etter avtaleinngåelsen i tillegg til løpende premier og planlagte betalinger, hvis kunden etter forsikringsavtalen er forpliktet til å betale slike.
+1. at foretaket er et forsikringsforetak
+2. om foretaket gir en personlig anbefaling om forsikringen som selges
+3. eventuelle interessekonflikter mellom foretaket og kundene og kundene imellom og tiltak som er truffet for å redusere risikoen for slike konflikter
+4. hvilken form for vederlag foretakets ansatte mottar i forbindelse med avtalen, herunder eventuelle innbetalinger etter avtaleinngåelsen i tillegg til løpende premier og planlagte betalinger.
+
+Er forsikringsdistributøren en forsikringsformidler, skal kunden gis følgende opplysninger om distribusjonsforholdet med mindre noe annet følger av fjerde ledd:
+
+1. forsikringsformidlerens foretaksnavn, geografiske adresse og at forsikringsformidleren er en forsikringsformidler
+2. tilsvarende opplysninger for eventuell filial, agent eller annen representant etablert i Norge
+3. om forsikringsformidleren gir en personlig anbefaling om forsikringen som selges
+4. offentlige registre hvor forsikringsformidleren er registrert, registreringsnummeret eller tilsvarende identifikasjonsopplysninger og hvordan det kan kontrolleres at foretaket er registrert
+5. eventuelle interessekonflikter mellom foretaket og kundene og kundene imellom og tiltak som i så fall er truffet for å redusere risikoen for slike konflikter
+6. om forsikringsformidleren representerer kunden eller handler for eller på vegne av forsikringsforetaket og, dersom kunden er en forbruker, hva dette innebærer for forsikringsforetakets ansvar, jf. [§ 21-3](lov/1989-06-16-69/§21-3)
+7. om forsikringsformidleren direkte eller indirekte innehar ti prosent eller mer av stemmerettighetene eller kapitalen i et bestemt forsikringsforetak
+8. om et bestemt forsikringsforetak, eller morforetaket til et bestemt forsikringsforetak, direkte eller indirekte innehar ti prosent eller mer av stemmerettighetene eller kapitalen i forsikringsformidleren
+9. om forsikringsformidleren gir en personlig anbefaling på grunnlag av en objektiv analyse. I så fall skal forsikringsformidleren gi den personlige anbefalingen på grunnlag av en analyse av et så stort antall forsikringer som er tilgjengelige på markedet, at foretaket i samsvar med faglige kriterier er i stand til å gi en personlig anbefaling om hvilken forsikring som passer kundens behov. Kunden skal gis informasjon om hva det innebærer at en personlig anbefaling gis på basis av en objektiv analyse
+10. om forsikringsformidleren er avtalerettslig forpliktet til utelukkende å benytte ett eller flere forsikringsforetak i sin forsikringsformidlingsvirksomhet, og i så fall navnet på dette eller disse
+11. dersom forsikringsformidleren ikke er avtalerettslig forpliktet som nevnt i bokstav j, og heller ikke yter rådgivning på basis av en objektiv analyse som nevnt i bokstav i, navnene på de forsikringsforetakene som forsikringsformidleren kan benytte og faktisk benytter
+12. hvilken form for vederlag som mottas i forbindelse med formidlingen
+13. om utformingen av vederlag som forsikringsformidleren og vedkommende ansatt mottar i forbindelse med formidlingen, herunder om vederlaget er provisjonsbasert, og om kunden skal betale vederlaget direkte eller om det inngår i forsikringspremien eller på annen måte skal betales i forbindelse med forsikringsavtalen
+14. dersom kunden skal betale vederlaget direkte, størrelsen på vederlaget der dette er mulig å angi og alternativt metoden for beregning av vederlaget
+15. størrelsen på vederlag som forsikringsformidleren mottar fra forsikringsgiveren i forbindelse med formidlingen
+16. opplysninger som nevnt i bokstav l og m om hver enkelt innbetaling etter avtaleinngåelsen i tillegg til løpende premier og planlagte betalinger, hvis kunden etter forsikringsavtalen er forpliktet til å betale slike.
 
 For andre enn forsikringsforetak som ved avtale påtar seg å yte forsikring, gjelder første ledd så langt det passer. Første ledd gjelder ikke for forsikringsforetak som yter forsikringsformidling etter [finansforetaksloven § 16-16](lov/2015-04-10-17/§16-16). For slike foretak gjelder annet ledd tilsvarende. I tillegg skal foretaket opplyse om at forsikringsforetaket opptrer som formidler og om hvilket forsikringsforetak som påtar seg forsikringsrisikoen.
 
@@ -276,19 +323,52 @@ Et tilbud eller en personlig anbefaling som gjelder en pakke av tjenester eller 
 
 ### § 1C-8. (informasjon om avtaler om skadeforsikring)
 
-Ved avtaler som er omfattet av lovens tredje del, skal kunden i tillegg gis følgende opplysninger:eventuelle vesentlige begrensninger i dekningen i forhold til det kunden med rimelighet kan vente er dekket etter vedkommende forsikringom det gjelder en garantiordning for forsikringsvirksomheten og eventuelt hvilken garanti for forsikringsforpliktelsene ordningen girpremiesatser, herunder premien for hver av forsikringene, dersom tegningen gjelder flere forsikringerhvilke forhold som ligger til grunn for en eventuelt særlig høy premie, og de individuelle risikovurderingene som eventuelt er foretatteventuell praksis i foretaket, bransjenormer, lov eller forskrift som innebærer at kunden etter en viss tid eller etter endrede forhold vil kunne søke den aktuelle forsikringen til en lavere premieden avgiften forsikringstakeren er pliktig til å svare til Norsk Naturskadepool etter [lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4 a](lov/1989-06-16-70/§4a) dersom brannskadeforsikring på ting her i riket formidles til forsikringsforetak som ikke er medlem av Naturskadepoolen.
+Ved avtaler som er omfattet av lovens tredje del, skal kunden i tillegg gis følgende opplysninger:
+
+1. eventuelle vesentlige begrensninger i dekningen i forhold til det kunden med rimelighet kan vente er dekket etter vedkommende forsikring
+2. om det gjelder en garantiordning for forsikringsvirksomheten og eventuelt hvilken garanti for forsikringsforpliktelsene ordningen gir
+3. premiesatser, herunder premien for hver av forsikringene, dersom tegningen gjelder flere forsikringer
+4. hvilke forhold som ligger til grunn for en eventuelt særlig høy premie, og de individuelle risikovurderingene som eventuelt er foretatt
+5. eventuell praksis i foretaket, bransjenormer, lov eller forskrift som innebærer at kunden etter en viss tid eller etter endrede forhold vil kunne søke den aktuelle forsikringen til en lavere premie
+6. den avgiften forsikringstakeren er pliktig til å svare til Norsk Naturskadepool etter [lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4 a](lov/1989-06-16-70/§4a) dersom brannskadeforsikring på ting her i riket formidles til forsikringsforetak som ikke er medlem av Naturskadepoolen.
 
 > Tilføyd ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
 ### § 1C-9. (informasjon om avtaler om personforsikring)
 
-Ved avtaler som er omfattet av lovens fjerde del, skal kunden i tillegg gis følgende opplysninger:forsikringsavtalens løpetidforsikringsavtalens vilkårpremiesatser, herunder premien for hver av forsikringene, dersom tegningen gjelder flere forsikringergaranterte tillegg og utbetaling av dettegjenkjøpsverdieventuelle vesentlige begrensninger i dekningen i forhold til det kunden med rimelighet kan vente er dekket etter vedkommende forsikringhvilke forhold som ligger til grunn for en eventuelt særlig høy premie, og de individuelle risikovurderingene som eventuelt er foretatteventuell praksis i foretaket, bransjenormer, lov eller forskrift som innebærer at kunden etter en viss tid eller etter endrede forhold vil kunne søke den aktuelle forsikringen til en lavere premie.
+Ved avtaler som er omfattet av lovens fjerde del, skal kunden i tillegg gis følgende opplysninger:
+
+1. forsikringsavtalens løpetid
+2. forsikringsavtalens vilkår
+3. premiesatser, herunder premien for hver av forsikringene, dersom tegningen gjelder flere forsikringer
+4. garanterte tillegg og utbetaling av dette
+5. gjenkjøpsverdi
+6. eventuelle vesentlige begrensninger i dekningen i forhold til det kunden med rimelighet kan vente er dekket etter vedkommende forsikring
+7. hvilke forhold som ligger til grunn for en eventuelt særlig høy premie, og de individuelle risikovurderingene som eventuelt er foretatt
+8. eventuell praksis i foretaket, bransjenormer, lov eller forskrift som innebærer at kunden etter en viss tid eller etter endrede forhold vil kunne søke den aktuelle forsikringen til en lavere premie.
 
 > Tilføyd ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
 ### § 1C-10. (informasjon ved avtaler med forbrukere)
 
-Kunder som er forbrukere, skal i tillegg gis avtalevilkårene og følgende opplysninger:eventuelle godkjenningsordninger og kontaktopplysninger til relevant tilsynsmyndighethvilket språk opplysninger og avtalevilkår er tilgjengelige på i samsvar med [§ 1-5](lov/1989-06-16-69/§1-5) annet leddavtalens korteste varigheteventuell rett eller begrensning i partenes adgang til førtidig eller ensidig å avslutte avtaleforholdet og kostnader som etter avtalen skal betales i denne sammenhengen, jf. §[§ 3-6](lov/1989-06-16-69/§3-6), [3-7](lov/1989-06-16-69/§3-7), [3-9](lov/1989-06-16-69/§3-9), [12-3](lov/1989-06-16-69/§12-3), [12-4](lov/1989-06-16-69/§12-4) og [12-5](lov/1989-06-16-69/§12-5)vilkår og fremgangsmåte for bruk av eventuell angrerett etter §[§ 1D-1](lov/1989-06-16-69/§1d-1) til 1D-4, herunder hvilket beløp forbrukeren kan bli avkrevd ved bruk av angrerettenved fjernsalg, hvilket lands lovgivning som ligger til grunn for forsikringsdistributørens kontakt med kunden før avtaleinngåelsenforsikringstjenestens viktigste egenskapersærskilt risiko knyttet til avtalenordninger for oppfylling av avtalengarantifond eller erstatningsordningerat forsikringsforetakets fullstendige forsikringsvilkår for de ulike produktene som tilbys, er tilgjengelige på forsikringsforetakets nettsted uten at det krever påloggingdet totale beløpet for alle kostnader og gebyrer mv. som kunden skal betale, og en spesifikasjon av eventuelle enkeltelementer, eller utregningsgrunnlaget hvis nøyaktig kostnad for tjenestene ikke kan oppgiseventuelle kostnader som er avhengige av svingninger i finansmarkedene, og i tilfelle opplysninger om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på fremtidig utvikling og avkastningeventuelle særskilte kostnader som kunden skal betale for bruk av fjernkommunikasjonsmiddelat det kan finnes andre kostnader som ikke betales gjennom eller blir pålagt gjennom forsikringsdistributørenhvilke betalingsordninger som er tilgjengelige.
+Kunder som er forbrukere, skal i tillegg gis avtalevilkårene og følgende opplysninger:
+
+1. eventuelle godkjenningsordninger og kontaktopplysninger til relevant tilsynsmyndighet
+2. hvilket språk opplysninger og avtalevilkår er tilgjengelige på i samsvar med [§ 1-5](lov/1989-06-16-69/§1-5) annet ledd
+3. avtalens korteste varighet
+4. eventuell rett eller begrensning i partenes adgang til førtidig eller ensidig å avslutte avtaleforholdet og kostnader som etter avtalen skal betales i denne sammenhengen, jf. §[§ 3-6](lov/1989-06-16-69/§3-6), [3-7](lov/1989-06-16-69/§3-7), [3-9](lov/1989-06-16-69/§3-9), [12-3](lov/1989-06-16-69/§12-3), [12-4](lov/1989-06-16-69/§12-4) og [12-5](lov/1989-06-16-69/§12-5)
+5. vilkår og fremgangsmåte for bruk av eventuell angrerett etter §[§ 1D-1](lov/1989-06-16-69/§1d-1) til 1D-4, herunder hvilket beløp forbrukeren kan bli avkrevd ved bruk av angreretten
+6. ved fjernsalg, hvilket lands lovgivning som ligger til grunn for forsikringsdistributørens kontakt med kunden før avtaleinngåelsen
+7. forsikringstjenestens viktigste egenskaper
+8. særskilt risiko knyttet til avtalen
+9. ordninger for oppfylling av avtalen
+10. garantifond eller erstatningsordninger
+11. at forsikringsforetakets fullstendige forsikringsvilkår for de ulike produktene som tilbys, er tilgjengelige på forsikringsforetakets nettsted uten at det krever pålogging
+12. det totale beløpet for alle kostnader og gebyrer mv. som kunden skal betale, og en spesifikasjon av eventuelle enkeltelementer, eller utregningsgrunnlaget hvis nøyaktig kostnad for tjenestene ikke kan oppgis
+13. eventuelle kostnader som er avhengige av svingninger i finansmarkedene, og i tilfelle opplysninger om at historisk verdiutvikling og avkastning ikke kan brukes som indikator på fremtidig utvikling og avkastning
+14. eventuelle særskilte kostnader som kunden skal betale for bruk av fjernkommunikasjonsmiddel
+15. at det kan finnes andre kostnader som ikke betales gjennom eller blir pålagt gjennom forsikringsdistributøren
+16. hvilke betalingsordninger som er tilgjengelige.
 
 Samtidig som det gis opplysninger etter første ledd, skal det opplyses om eventuelle grenser for hvor lenge opplysningene er gyldige. Så lenge avtaleforholdet består, kan en kunde som er forbruker, kreve å få avtalevilkårene og opplysningene som fremgår av første ledd.
 
@@ -298,7 +378,12 @@ Gjelder avtalen flere enkeltstående tjenester på like vilkår som leveres inne
 
 ### § 1C-11. (informasjon og særlige plikter ved tilbud til forbruker i telefonsamtale)
 
-Tilbys en forbruker en forsikringstjeneste i en telefonsamtale, skal forsikringsdistributøren opplyse om salgsformålet så snart samtalen har startet. Selv om forbrukeren gir uttrykkelig samtykke til at distributøren kan begrense sin ellers gjeldende opplysningsplikt, skal distributøren likevel opplyse om navnet på personen som kontakter forbrukeren, forholdet til distributøren og opplysninger som nevnt i [§ 1C-4](lov/1989-06-16-69/§1c-4) bokstav a og b eller [§ 1C-5](lov/1989-06-16-69/§1c-5) annet ledd bokstav a og b samt gi forbrukeren opplysninger omangrerett etter [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav eforsikringstjenestens viktigste egenskaper og eventuell særskilt risiko som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav g og htotalbeløpet og eventuelle kostnader som er avhengige av svingninger i finansmarkedene som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav l og mkostnader utenom betalinger til, eller som blir pålagt gjennom, forsikringsdistributøren som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav o.
+Tilbys en forbruker en forsikringstjeneste i en telefonsamtale, skal forsikringsdistributøren opplyse om salgsformålet så snart samtalen har startet. Selv om forbrukeren gir uttrykkelig samtykke til at distributøren kan begrense sin ellers gjeldende opplysningsplikt, skal distributøren likevel opplyse om navnet på personen som kontakter forbrukeren, forholdet til distributøren og opplysninger som nevnt i [§ 1C-4](lov/1989-06-16-69/§1c-4) bokstav a og b eller [§ 1C-5](lov/1989-06-16-69/§1c-5) annet ledd bokstav a og b samt gi forbrukeren opplysninger om
+
+1. angrerett etter [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav e
+2. forsikringstjenestens viktigste egenskaper og eventuell særskilt risiko som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav g og h
+3. totalbeløpet og eventuelle kostnader som er avhengige av svingninger i finansmarkedene som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav l og m
+4. kostnader utenom betalinger til, eller som blir pålagt gjennom, forsikringsdistributøren som nevnt i [§ 1C-10](lov/1989-06-16-69/§1c-10) bokstav o.
 
 Tilbud som gis i telefonsamtale uten at forbrukeren selv har oppfordret foretaket om å gi tilbudet, må aksepteres skriftlig av forbrukeren for at bindende avtale skal inngås. Denne opplysningen skal gis skriftlig til forbrukeren før avtale inngås.
 
@@ -312,7 +397,11 @@ I tillegg til opplysninger som nevnt i første og annet ledd skal det opplyses o
 
 ### § 1D-1. (angrerett)
 
-En forbruker har angrerett ved inngåelse av enhver avtale om forsikringstjenester når avtalen inngås ved fjernsalg. Med fjernsalg menes i denne loven avtaler som inngås ved organisert ordning for salg eller tjenesteyting uten at forsikringsdistributøren og kunden er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler. Første punktum gjelder likevel ikke fortjenester der prisen avhenger av svingninger i finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme før utløpet av angrefristenavtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en månedavtaler som fullt ut er oppfylt av partene fordi forbrukeren uttrykkelig har bedt om oppfyllelse uten å bruke angreretten før oppfyllelsen.
+En forbruker har angrerett ved inngåelse av enhver avtale om forsikringstjenester når avtalen inngås ved fjernsalg. Med fjernsalg menes i denne loven avtaler som inngås ved organisert ordning for salg eller tjenesteyting uten at forsikringsdistributøren og kunden er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler. Første punktum gjelder likevel ikke for
+
+1. tjenester der prisen avhenger av svingninger i finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme før utløpet av angrefristen
+2. avtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en måned
+3. avtaler som fullt ut er oppfylt av partene fordi forbrukeren uttrykkelig har bedt om oppfyllelse uten å bruke angreretten før oppfyllelsen.
 
 En forbruker har angrerett ved inngåelse av enhver avtale om forsikringstjenester også når avtalen inngås utenom forsikringsdistributørens faste forretningslokaler som angitt i [angrerettloven § 5](lov/2014-06-20-27/§5) bokstav d, jf. bokstav c.
 
@@ -352,7 +441,15 @@ Femte ledd gjelder tilsvarende når den tilknyttede tjenesten ytes av en tredjep
 
 Brukes angreretten til å gå fra en avtale som er inngått utenom tjenesteyterens faste forretningslokaler, skal forsikringsdistributøren tilbakebetale det forbrukeren har betalt, og eventuelt et beløp til dekning av returkostnader, senest 14 dager fra den dagen melding om bruk av angreretten er mottatt.
 
-Har forbrukeren mottatt varer i forbindelse med tjenesteavtalen, gjelder følgende:Returkostnader bæres av selgeren.Forbrukeren kan holde varen tilbake inntil han eller hun har mottatt tilbakebetaling og eventuelt et beløp tilsvarende returkostnader fra selgeren.Når forbrukeren har mottatt det selgeren skal betale, skal forbrukeren sende eller levere varen til selgeren innen rimelig tid.Er varen sendt forbrukeren gjennom posten eller en annen selvstendig fraktfører, skal den sendes tilbake på tilsvarende måte. Dersom selgeren ikke har ordnet med hensiktsmessig returpakning, gjelder bestemmelsen i bokstav e.Er varen levert til forbrukeren på annen måte, skal den stilles til selgerens rådighet for avhenting på det stedet varen ble mottatt. Er varen i disse tilfellene levert på et annet sted enn i forbrukerens hjem, kan det avtales at varen skal sendes eller leveres på en annen måte som ikke medfører urimelig ulempe for forbrukeren.Forbrukeren plikter ikke å motta eller innløse en vare før den returneres til selgeren, men kan i stedet be den som leverer varen, om å returnere varen til selgeren.Dersom forbrukeren har gitt melding til selgeren om at varen kan hentes etter reglene i bokstav e, og dette ikke skjer innen tre måneder fra meldingen er mottatt, tilfaller varen forbrukeren vederlagsfritt.
+Har forbrukeren mottatt varer i forbindelse med tjenesteavtalen, gjelder følgende:
+
+1. Returkostnader bæres av selgeren.
+2. Forbrukeren kan holde varen tilbake inntil han eller hun har mottatt tilbakebetaling og eventuelt et beløp tilsvarende returkostnader fra selgeren.
+3. Når forbrukeren har mottatt det selgeren skal betale, skal forbrukeren sende eller levere varen til selgeren innen rimelig tid.
+4. Er varen sendt forbrukeren gjennom posten eller en annen selvstendig fraktfører, skal den sendes tilbake på tilsvarende måte. Dersom selgeren ikke har ordnet med hensiktsmessig returpakning, gjelder bestemmelsen i bokstav e.
+5. Er varen levert til forbrukeren på annen måte, skal den stilles til selgerens rådighet for avhenting på det stedet varen ble mottatt. Er varen i disse tilfellene levert på et annet sted enn i forbrukerens hjem, kan det avtales at varen skal sendes eller leveres på en annen måte som ikke medfører urimelig ulempe for forbrukeren.
+6. Forbrukeren plikter ikke å motta eller innløse en vare før den returneres til selgeren, men kan i stedet be den som leverer varen, om å returnere varen til selgeren.
+7. Dersom forbrukeren har gitt melding til selgeren om at varen kan hentes etter reglene i bokstav e, og dette ikke skjer innen tre måneder fra meldingen er mottatt, tilfaller varen forbrukeren vederlagsfritt.
 
 Dersom forbrukeren bruker sin angrerett, faller alle tilknyttede avtaler bort uten kostnad for forbrukeren. Etter å ha mottatt melding om bruk av angrerett skal tjenesteyteren straks gi beskjed til en tredjepart som har inngått en tilknyttet avtale med forbrukeren.
 
@@ -380,7 +477,16 @@ Bestemmelsene i lovens tredje del gjelder ikke for avtaler om kreditt og kausjon
 
 ### § 2-2. (definisjoner)
 
-I lovens tredje del betyr*forsikringstakeren:* den som inngår en individuell eller kollektiv forsikringsavtale med et forsikringsforetak eller en annen som ved avtale påtar seg å yte forsikring,*sikrede:* den som etter forsikringsavtalen vil ha krav på erstatning eller forsikringssum. I ansvarsforsikring er sikrede den hvis erstatningsansvar er dekket,*kollektiv forsikring:* Forsikring hvor rettigheter og plikter for medlemmene av en gruppe blir fastlagt gjennom en avtale som forsikringstakeren inngår på vegne av eller til fordel for medlemmene. I tvilstilfeller avgjør Kongen om en forsikring er kollektiv,*sikkerhetsforskrift:* et påbud i forsikringsavtalen om:at sikrede skal sørge for bestemte anordninger eller treffe bestemte tiltak som er egnet til å forebygge eller begrense skade,at sikrede eller andre ved bruk, oppbevaring eller vedlikehold av forsikringsgjenstanden skal ha bestemte kvalifikasjoner eller sertifikater,at sikrede eller andre ved bruk, oppbevaring eller vedlikehold av forsikringsgjenstanden skal gå fram på bestemte angitte måter.
+I lovens tredje del betyr
+
+1. *forsikringstakeren:* den som inngår en individuell eller kollektiv forsikringsavtale med et forsikringsforetak eller en annen som ved avtale påtar seg å yte forsikring,
+2. *sikrede:* den som etter forsikringsavtalen vil ha krav på erstatning eller forsikringssum. I ansvarsforsikring er sikrede den hvis erstatningsansvar er dekket,
+3. *kollektiv forsikring:* Forsikring hvor rettigheter og plikter for medlemmene av en gruppe blir fastlagt gjennom en avtale som forsikringstakeren inngår på vegne av eller til fordel for medlemmene. I tvilstilfeller avgjør Kongen om en forsikring er kollektiv,
+4. *sikkerhetsforskrift:* et påbud i forsikringsavtalen om:
+
+   1. at sikrede skal sørge for bestemte anordninger eller treffe bestemte tiltak som er egnet til å forebygge eller begrense skade,
+   2. at sikrede eller andre ved bruk, oppbevaring eller vedlikehold av forsikringsgjenstanden skal ha bestemte kvalifikasjoner eller sertifikater,
+   3. at sikrede eller andre ved bruk, oppbevaring eller vedlikehold av forsikringsgjenstanden skal gå fram på bestemte angitte måter.
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), tidligere § 1-2.
 
@@ -412,7 +518,13 @@ Når det er nødvendig som følge av avtale med fremmed stat, kan Kongen gi supp
 
 Så snart avtalen er inngått og det er bestemt hvilke vilkår som skal gjelde for forsikringen, skal forsikringsforetaket i et skriftlig dokument gi forsikringstakeren et forsikringsbevis som fastslår at avtale er inngått, og som henviser til vilkårene. Sammen med beviset skal foretaket gi forsikringstakeren disse vilkårene.
 
-I forsikringsbeviset skal foretaket fremheve:om det har forbeholdt seg at ansvaret først skal begynne å løpe når første premie er betalt, jf [§ 3-1](lov/1989-06-16-69/§3-1) første ledd,hvilke forbehold det har tatt om begrensning av ansvaret i forbindelse med endring av risikoen, jf [§§ 4-6](lov/1989-06-16-69/§4-6) og [4-7](lov/1989-06-16-69/§4-7),hvilke sikkerhetsforskrifter det har fastsatt. Foretaket kan henvise til sikkerhetsforskrift gitt av andre hvis det er rimelig å kreve at forsikringstakeren kjenner til innholdet. I forsikringsbeviset skal det opplyses at foretaket på forespørsel vil gi forsikringstakeren et eksemplar av den forskriften det er henvist til,frist for å gi melding om forsikringstilfellet, jf [§ 8-5](lov/1989-06-16-69/§8-5) første ledd,muligheten for tvisteløsning i klageorgan, jf. [§ 22-2](lov/1989-06-16-69/§22-2), eller andre liknende ordninger som er etablert for å løse tvister.
+I forsikringsbeviset skal foretaket fremheve:
+
+1. om det har forbeholdt seg at ansvaret først skal begynne å løpe når første premie er betalt, jf [§ 3-1](lov/1989-06-16-69/§3-1) første ledd,
+2. hvilke forbehold det har tatt om begrensning av ansvaret i forbindelse med endring av risikoen, jf [§§ 4-6](lov/1989-06-16-69/§4-6) og [4-7](lov/1989-06-16-69/§4-7),
+3. hvilke sikkerhetsforskrifter det har fastsatt. Foretaket kan henvise til sikkerhetsforskrift gitt av andre hvis det er rimelig å kreve at forsikringstakeren kjenner til innholdet. I forsikringsbeviset skal det opplyses at foretaket på forespørsel vil gi forsikringstakeren et eksemplar av den forskriften det er henvist til,
+4. frist for å gi melding om forsikringstilfellet, jf [§ 8-5](lov/1989-06-16-69/§8-5) første ledd,
+5. muligheten for tvisteløsning i klageorgan, jf. [§ 22-2](lov/1989-06-16-69/§22-2), eller andre liknende ordninger som er etablert for å løse tvister.
 
 Har forsikringsforetaket forsømt sin plikt til å gi informasjon i samsvar med annet ledd bokstavene a til d, kan det bare påberope seg vedkommende bestemmelse dersom forsikringstakeren eller sikrede likevel var kjent med vilkåret.
 
@@ -586,7 +698,10 @@ Er det oppstått skade eller tap som følge av at sikrede forsettlig eller grovt
 
 Ved forsikring som ikke har tilknytning til næringsvirksomhet, kan det ikke avtales at sikrede skal kunne tape sin rett til erstatning som følge av handlinger eller unnlatelser fra sikredes slektninger, hjelpere og andre liknende personer som sikrede har tilknytning til.
 
-Uten hinder av regelen i første ledd kan det avtales at forsikringsforetaketved forsikring av motorvogner, fartøyer, luftfartøyer og husdyr skal kunne påberope seg handlinger og unnlatelser fra en person som med sikredes samtykke er ansvarlig for forsikringsgjenstanden,ved forsikring av bolig, privat fritidssted og innbo skal kunne påberope seg handlinger og unnlatelser fra sikredes ektefelle som bor sammen med sikrede, eller fra personer som sikrede lever sammen med i et fast etablert forhold.
+Uten hinder av regelen i første ledd kan det avtales at forsikringsforetaket
+
+1. ved forsikring av motorvogner, fartøyer, luftfartøyer og husdyr skal kunne påberope seg handlinger og unnlatelser fra en person som med sikredes samtykke er ansvarlig for forsikringsgjenstanden,
+2. ved forsikring av bolig, privat fritidssted og innbo skal kunne påberope seg handlinger og unnlatelser fra sikredes ektefelle som bor sammen med sikrede, eller fra personer som sikrede lever sammen med i et fast etablert forhold.
 
 Ved forsikring i tilknytning til næringsvirksomhet kan det, med den begrensning som følger av [§ 7-3](lov/1989-06-16-69/§7-3) første ledd, avtales at sikrede helt eller delvis skal kunne tape sin rett til erstatning som følge av handlinger eller unnlatelser fra nærmere angitte personer eller persongrupper.
 
@@ -632,7 +747,11 @@ Betales premien i andre tilfeller enn nevnt i annet ledd etter utløpet av frist
 
 ### § 5-3. (når betaling skal anses å ha skjedd)
 
-Selv om forsikringsforetaket ikke har mottatt et premiebeløp, skal betaling i forhold til forfallsreglene i dette kapitlet anses å være skjedd nårpenger, sjekk eller annen anvisning er sendt til forsikringsforetaket i posten eller ved telegram,beløpet er innbetalt til et postkontor eller en bank, elleret betalingsoppdrag er sendt til en bank.
+Selv om forsikringsforetaket ikke har mottatt et premiebeløp, skal betaling i forhold til forfallsreglene i dette kapitlet anses å være skjedd når
+
+1. penger, sjekk eller annen anvisning er sendt til forsikringsforetaket i posten eller ved telegram,
+2. beløpet er innbetalt til et postkontor eller en bank, eller
+3. et betalingsoppdrag er sendt til en bank.
 
 > Endret ved lover [22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -830,7 +949,15 @@ Når ikke annet følger av reglene i dette kapitlet, gjelder reglene i loven ell
 
 En avtale om kollektiv forsikring skal inneholde vilkårene, eller regler om hvordan vilkårene skal fastsettes.
 
-Avtalen skal dessuten fastsette:hvem som er eller kan bli medlemmer etter avtalen,om det er adgang til å reservere seg mot medlemskap,hvordan man skal forholde seg for å bli medlem, reservere seg mot å bli medlem dersom det er adgang til det, eller tre ut av ordningen,om det skal føres fortegnelse over medlemmene, og om fortegnelsen i så fall skal føres av forsikringstakeren eller av forsikringsforetaket,om premien skal betales til forsikringsforetaket av forsikringstakeren eller av de enkelte medlemmer,forsikringstakerens plikter i forbindelse med melding til eller fra medlemmene, oghvilke vilkår som må være oppfylt for at forsikringen skal bli effektiv eller skal kunne opprettholdes.
+Avtalen skal dessuten fastsette:
+
+1. hvem som er eller kan bli medlemmer etter avtalen,
+2. om det er adgang til å reservere seg mot medlemskap,
+3. hvordan man skal forholde seg for å bli medlem, reservere seg mot å bli medlem dersom det er adgang til det, eller tre ut av ordningen,
+4. om det skal føres fortegnelse over medlemmene, og om fortegnelsen i så fall skal føres av forsikringstakeren eller av forsikringsforetaket,
+5. om premien skal betales til forsikringsforetaket av forsikringstakeren eller av de enkelte medlemmer,
+6. forsikringstakerens plikter i forbindelse med melding til eller fra medlemmene, og
+7. hvilke vilkår som må være oppfylt for at forsikringen skal bli effektiv eller skal kunne opprettholdes.
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -898,7 +1025,14 @@ I tvilstilfeller avgjør Kongen om en forsikring er personforsikring, og om det 
 
 ### § 10-2. (definisjoner)
 
-I lovens fjerde del betyr:*forsikringstakeren:* den som inngår en individuell eller kollektiv forsikringsavtale med et forsikringsforetak eller en annen som ved avtale påtar seg å yte forsikring.*forsikrede:* den persons liv eller helse forsikringen knytter seg til,*kapitalforsikring:* forsikring hvor forsikringsforetaket skal utbetale et bestemt beløp. Beløpet kan være oppdelt i terminer,*livrenteforsikring:* forsikring hvor forsikringsforetaket skal utbetale terminbeløp så lenge en person lever eller til personen når en bestemt alder,*pensjonsforsikring:* kapital- eller livrenteforsikring som går inn under de særregler som er gitt om pensjonsforsikring i lovgivningen for øvrig,*kollektiv forsikring:* forsikring som omfatter personer i en nærmere angitt gruppe, og eventuelt deres ektefelle, barn, e l. I tvilstilfeller avgjør Kongen om en forsikring er kollektiv.
+I lovens fjerde del betyr:
+
+1. *forsikringstakeren:* den som inngår en individuell eller kollektiv forsikringsavtale med et forsikringsforetak eller en annen som ved avtale påtar seg å yte forsikring.
+2. *forsikrede:* den persons liv eller helse forsikringen knytter seg til,
+3. *kapitalforsikring:* forsikring hvor forsikringsforetaket skal utbetale et bestemt beløp. Beløpet kan være oppdelt i terminer,
+4. *livrenteforsikring:* forsikring hvor forsikringsforetaket skal utbetale terminbeløp så lenge en person lever eller til personen når en bestemt alder,
+5. *pensjonsforsikring:* kapital- eller livrenteforsikring som går inn under de særregler som er gitt om pensjonsforsikring i lovgivningen for øvrig,
+6. *kollektiv forsikring:* forsikring som omfatter personer i en nærmere angitt gruppe, og eventuelt deres ektefelle, barn, e l. I tvilstilfeller avgjør Kongen om en forsikring er kollektiv.
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -932,7 +1066,12 @@ Når det er nødvendig som følge av avtale med fremmed stat,1 kan Kongen gi sup
 
 Så snart avtalen er inngått, skal forsikringsforetaket i et skriftlig dokument gi forsikringstakeren et forsikringsbevis som fastslår at avtale er inngått og henviser til vilkårene. Sammen med beviset skal foretaket gi forsikringstakeren de vilkår som skal gjelde for avtalen.
 
-I forsikringsbeviset skal foretaket fremheve:om det har forbeholdt seg at ansvaret først skal begynne å løpe når første premie er betalt, jf [§ 12-2](lov/1989-06-16-69/§12-2) første ledd.hvilke forbehold det har tatt om begrensning av ansvaret på grunn av den forsikredes helsetilstand eller i forbindelse med endring av risikoen, jf [§§ 13-5](lov/1989-06-16-69/§13-5) til [13-7](lov/1989-06-16-69/§13-7), og hvilke sikkerhetsforskrifter som skal gjelde, jf [§ 13-9](lov/1989-06-16-69/§13-9),frist for å gi melding om forsikringstilfellet, jf. [§ 18-5](lov/1989-06-16-69/§18-5) første ledd.retten til å benytte utenrettslige tvisteløsningsordninger, eller andre liknende ordninger som er etablert for å løse tvister.
+I forsikringsbeviset skal foretaket fremheve:
+
+1. om det har forbeholdt seg at ansvaret først skal begynne å løpe når første premie er betalt, jf [§ 12-2](lov/1989-06-16-69/§12-2) første ledd.
+2. hvilke forbehold det har tatt om begrensning av ansvaret på grunn av den forsikredes helsetilstand eller i forbindelse med endring av risikoen, jf [§§ 13-5](lov/1989-06-16-69/§13-5) til [13-7](lov/1989-06-16-69/§13-7), og hvilke sikkerhetsforskrifter som skal gjelde, jf [§ 13-9](lov/1989-06-16-69/§13-9),
+3. frist for å gi melding om forsikringstilfellet, jf. [§ 18-5](lov/1989-06-16-69/§18-5) første ledd.
+4. retten til å benytte utenrettslige tvisteløsningsordninger, eller andre liknende ordninger som er etablert for å løse tvister.
 
 Dersom det i forbindelse med tegningen er oppnevnt begunstiget, skal forsikringsbeviset opplyse om hvem som er oppnevnt.
 
@@ -1124,7 +1263,10 @@ Ved livsforsikring kan forsikringsforetaket påberope seg at opplysningsplikten 
 
 ### § 13-5. (ansvarsbegrensning på grunn av den forsikredes helsetilstand)
 
-Omfatter forsikringen følgen av sykdom eller lyte, kan forsikringsforetaket ikke ta forbehold om at det er uten ansvar for det tilfelle at sykdommen eller lytet forelå allerede da foretakets ansvar begynte å løpe. Et slikt forbehold er likevel gyldig dersomforbeholdet grunner seg på opplysninger som forsikringsforetaket har fått om den forsikrede, ellerforsikringsforetaket av særlige grunner er avskåret fra å innhente opplysninger fra den forsikrede. I slike tilfeller svarer foretaket likevel for sykdom eller lyte som den forsikrede ikke hadde kjennskap til da foretakets ansvar begynte å løpe.
+Omfatter forsikringen følgen av sykdom eller lyte, kan forsikringsforetaket ikke ta forbehold om at det er uten ansvar for det tilfelle at sykdommen eller lytet forelå allerede da foretakets ansvar begynte å løpe. Et slikt forbehold er likevel gyldig dersom
+
+1. forbeholdet grunner seg på opplysninger som forsikringsforetaket har fått om den forsikrede, eller
+2. forsikringsforetaket av særlige grunner er avskåret fra å innhente opplysninger fra den forsikrede. I slike tilfeller svarer foretaket likevel for sykdom eller lyte som den forsikrede ikke hadde kjennskap til da foretakets ansvar begynte å løpe.
 
 Ved sykeforsikring kan forsikringsforetaket i vilkårene forbeholde seg at det bare svarer for sykdom som har vist symptomer etter et bestemt tidspunkt. Tilsvarende gjelder ved uføredekning i tilknytning til livsforsikring.
 
@@ -1224,7 +1366,11 @@ Ved livsforsikring skal forsikringsforetaket også sende varsel etter [§ 14-2](
 
 ### § 14-5. (når betaling skal anses å ha skjedd)
 
-Selv om forsikringsforetaket ikke har mottatt et premiebeløp, skal betaling i forhold til forfallsreglene i dette kapitlet anses å være skjedd nårpenger, sjekk eller annen anvisning er sendt til forsikringsforetaket i posten eller ved telegram,beløpet er innbetalt til et postkontor eller en bank, elleret betalingsoppdrag er sendt til en bank.
+Selv om forsikringsforetaket ikke har mottatt et premiebeløp, skal betaling i forhold til forfallsreglene i dette kapitlet anses å være skjedd når
+
+1. penger, sjekk eller annen anvisning er sendt til forsikringsforetaket i posten eller ved telegram,
+2. beløpet er innbetalt til et postkontor eller en bank, eller
+3. et betalingsoppdrag er sendt til en bank.
 
 > Endret ved lover [22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -1266,7 +1412,14 @@ Oppnevnelse og tilbakekall som ikke er gjort på en av de måtene som er nevnt i
 
 ### § 15-4. (tolkingsregler)
 
-Dersom ikke annet er bestemt eller følger av forholdet, gjelder følgende:En oppnevnelse av en begunstiget omfatter bare forsikringssum som forfaller ved død.Har forsikringstakeren foretatt flere oppnevnelser, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav e tilsvarende.Dør den begunstigede før den forsikrede, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav b tilsvarende.Er den forsikredes ektefelle oppnevnt, gjelder [§ 15-1](lov/1989-06-16-69/§15-1) annet ledd tilsvarende.Er den forsikredes arvinger oppnevnt, omfatter dette også arvinger etter testament.Er forsikringen pantsatt ved forsikringstakerens død, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav d tilsvarende i forholdet mellom dødsboet og den begunstigede.
+Dersom ikke annet er bestemt eller følger av forholdet, gjelder følgende:
+
+1. En oppnevnelse av en begunstiget omfatter bare forsikringssum som forfaller ved død.
+2. Har forsikringstakeren foretatt flere oppnevnelser, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav e tilsvarende.
+3. Dør den begunstigede før den forsikrede, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav b tilsvarende.
+4. Er den forsikredes ektefelle oppnevnt, gjelder [§ 15-1](lov/1989-06-16-69/§15-1) annet ledd tilsvarende.
+5. Er den forsikredes arvinger oppnevnt, omfatter dette også arvinger etter testament.
+6. Er forsikringen pantsatt ved forsikringstakerens død, gjelder [arveloven § 58](lov/2019-06-14-21/§58) bokstav d tilsvarende i forholdet mellom dødsboet og den begunstigede.
 
 > Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
 
@@ -1346,7 +1499,12 @@ Betaling av premie for pensjonsforsikring i den utstrekning premiene var eller k
 
 ### § 17-1. (livsforsikringsregisteret)
 
-Et livsforsikringsforetak skal registrere de livsforsikringsavtaler som det inngår. For den enkelte avtale skal registeret inneholde opplysninger omde forsikringsvilkår som gjelder for avtalen,de fastsatte rettigheter vedrørende fremtidige ytelser,premiebetaling, oghvem som er forsikringstaker og forsikret.
+Et livsforsikringsforetak skal registrere de livsforsikringsavtaler som det inngår. For den enkelte avtale skal registeret inneholde opplysninger om
+
+1. de forsikringsvilkår som gjelder for avtalen,
+2. de fastsatte rettigheter vedrørende fremtidige ytelser,
+3. premiebetaling, og
+4. hvem som er forsikringstaker og forsikret.
 
 Har noen ervervet en rett til forsikringen, skal forsikringsforetaket på begjæring registrere ervervet. Bygger ervervet på en frivillig disposisjon, er det et vilkår for registrering at disposisjonen er foretatt av den som ifølge registeret er forsikringstaker. Foretaket skal gi melding om registreringen til forsikringstakeren og rettighetshaveren.
 
@@ -1380,7 +1538,11 @@ Et eldre rettserverv går uten hensyn til et som er bestemt i første ledd foran
 
 Overfor den som i god tro har fått registrert en rettighet som er ervervet ved avtale, kan forsikringsforetaket ikke gjøre gjeldende andre innsigelser enn dem som er nevnt i melding til rettighetshaveren etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd tredje punktum.
 
-Foretaket kan likevel gjøre gjeldende innsigelser som grunner seg på:forhold som nevnt i [kapittel 13](lov/1989-06-16-69/kap13), og som foretaket først ble kjent med etter at melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt,at premiebetalingen er misligholdt etter at melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt, jf likevel [§ 14-4](lov/1989-06-16-69/§14-4), ellerat det er utbetalt forfalt termin av pensjon, livrente eller rente som etter avtalen skal løpe i et bestemt antall år, selv om utbetalingen er skjedd før melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt.
+Foretaket kan likevel gjøre gjeldende innsigelser som grunner seg på:
+
+1. forhold som nevnt i [kapittel 13](lov/1989-06-16-69/kap13), og som foretaket først ble kjent med etter at melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt,
+2. at premiebetalingen er misligholdt etter at melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt, jf likevel [§ 14-4](lov/1989-06-16-69/§14-4), eller
+3. at det er utbetalt forfalt termin av pensjon, livrente eller rente som etter avtalen skal løpe i et bestemt antall år, selv om utbetalingen er skjedd før melding etter [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd ble sendt.
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
@@ -1478,7 +1640,18 @@ Når ikke annet følger av reglene i dette kapitlet, gjelder reglene i loven ell
 
 ### § 19-2. (hva en kollektiv forsikringsavtale skal inneholde)
 
-En avtale om kollektiv forsikring skal fastsette:forsikringsforetakets ytelser under avtalen,om det er adgang til å reservere seg mot medlemskap,hvem som er eller kan bli medlemmer etter avtalen,hvordan man skal forholde seg for å bli medlem, reservere seg mot å bli medlem dersom det er adgang til det, eller tre ut av ordningen.om det skal føres fortegnelse over medlemmene, og om fortegnelsen i så fall skal føres av forsikringstakeren eller av forsikringsforetaket,om premien skal betales til forsikringsforetaket av forsikringstakeren eller av de enkelte medlemmer,forsikringstakerens plikter i forbindelse med meldinger til eller fra medlemmene,hvem som har krav på forsikringssummen, dersom reglene i [§ 15-1](lov/1989-06-16-69/§15-1) skal fravikes,hvilke vilkår som må være oppfylt for at forsikringen skal bli effektiv eller skal kunne opprettholdes, ogmedlemmenes adgang til å disponere over sine rettigheter etter avtalen, jf [§§ 19-12](lov/1989-06-16-69/§19-12) og [19-13](lov/1989-06-16-69/§19-13).
+En avtale om kollektiv forsikring skal fastsette:
+
+1. forsikringsforetakets ytelser under avtalen,
+2. om det er adgang til å reservere seg mot medlemskap,
+3. hvem som er eller kan bli medlemmer etter avtalen,
+4. hvordan man skal forholde seg for å bli medlem, reservere seg mot å bli medlem dersom det er adgang til det, eller tre ut av ordningen.
+5. om det skal føres fortegnelse over medlemmene, og om fortegnelsen i så fall skal føres av forsikringstakeren eller av forsikringsforetaket,
+6. om premien skal betales til forsikringsforetaket av forsikringstakeren eller av de enkelte medlemmer,
+7. forsikringstakerens plikter i forbindelse med meldinger til eller fra medlemmene,
+8. hvem som har krav på forsikringssummen, dersom reglene i [§ 15-1](lov/1989-06-16-69/§15-1) skal fravikes,
+9. hvilke vilkår som må være oppfylt for at forsikringen skal bli effektiv eller skal kunne opprettholdes, og
+10. medlemmenes adgang til å disponere over sine rettigheter etter avtalen, jf [§§ 19-12](lov/1989-06-16-69/§19-12) og [19-13](lov/1989-06-16-69/§19-13).
 
 Avtale om kollektiv pensjonsforsikring skal fastsette om forsikringens overskudd skal godskrives forsikringstakeren eller medlemmene. Overskudd på midler tilknyttet foretakspensjonsordning med skattefordel skal likevel anvendes i samsvar med regler gitt i [lov om foretakspensjon](lov/2000-03-24-16). Overskudd på midler tilknyttet innskuddspensjonsordning med skattefordel skal anvendes i samsvar med regler gitt i [innskuddspensjonsloven](lov/2000-11-24-81).
 
@@ -1670,7 +1843,13 @@ Klager og krav som gjelder brudd på [§ 1-5](lov/1989-06-16-69/§1-5) første l
 
 ### § 22-2. (klageorgan)
 
-Kongen kan godkjenne klageorgan for behandling av tvister etter loven her når organet er opprettet ved avtale mellom en finansinstitusjon eller liknende institusjon eller en organisasjon for slike institusjoner på den ene siden og én eller flere organisasjoner som representerer institusjonenes kunder på den andre siden. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder omhvem som kan bringe saker inn for klageorganetvilkår for behandling av saker hos klageorganetbehandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelserforholdet til annen lovgivning om behandling av tvister i klageorganopplysningsplikt overfor institusjonens kunder.
+Kongen kan godkjenne klageorgan for behandling av tvister etter loven her når organet er opprettet ved avtale mellom en finansinstitusjon eller liknende institusjon eller en organisasjon for slike institusjoner på den ene siden og én eller flere organisasjoner som representerer institusjonenes kunder på den andre siden. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om
+
+1. hvem som kan bringe saker inn for klageorganet
+2. vilkår for behandling av saker hos klageorganet
+3. behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser
+4. forholdet til annen lovgivning om behandling av tvister i klageorgan
+5. opplysningsplikt overfor institusjonens kunder.
 
 > Tilføyd ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 

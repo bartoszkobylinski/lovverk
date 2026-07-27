@@ -17,7 +17,7 @@ xml_hash: "928539ba6d06e3ed3e642431a6721e0e0aba12a098e5a6dcc8720798c2771ebb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -138,13 +138,26 @@ VEDTATT DENNE FORORDNINGEN:
 
 1\. I denne forordningen fastsettes regler for helsesertifikater fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og offisielle sertifikater fastsatt i forordning [(EU) 2017/625](eu/32017r0625) med hensyn til utstedelse og erstatning av helsesertifikatene som kreves ved innførsel til Unionen10 og forflytning i Unionen av visse forsendelser av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr.
 
-2\. I forordningen fastsettes følgende maler for helsesertifikater og følgende erklæringsmal:Maler for helsesertifikater til bruk ved forflytning i Unionen av forsendelser av visse kategorier av akvatiske dyr og visse produkter av animalsk opprinnelse fra akvatiske dyr (vedlegg I).En mal for helsesertifikat til bruk ved innførsel til Unionen av forsendelser av akvatiske dyr beregnet på visse akvakulturanlegg, utsetting i naturen eller andre formål, unntatt konsum (vedlegg II).En mal for skipsførerens erklæring: tilføyelse ved transport av forsendelser av visse akvatiske dyr som innføres til Unionen via sjøveien (vedlegg III).
+2\. I forordningen fastsettes følgende maler for helsesertifikater og følgende erklæringsmal:
+
+1. Maler for helsesertifikater til bruk ved forflytning i Unionen av forsendelser av visse kategorier av akvatiske dyr og visse produkter av animalsk opprinnelse fra akvatiske dyr (vedlegg I).
+2. En mal for helsesertifikat til bruk ved innførsel til Unionen av forsendelser av akvatiske dyr beregnet på visse akvakulturanlegg, utsetting i naturen eller andre formål, unntatt konsum (vedlegg II).
+3. En mal for skipsførerens erklæring: tilføyelse ved transport av forsendelser av visse akvatiske dyr som innføres til Unionen via sjøveien (vedlegg III).
 
 10 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til «Unionen» i denne forordningen Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«container» en container som definert i artikkel 2 nr. 1 i delegert forordning [(EU) 2020/990](eu/32020r0990),«brønnbåt» en brønnbåt som definert i artikkel 2 nr. 2 i delegert forordning [(EU) 2020/990](eu/32020r0990),«agn» agn som definert i artikkel 2 nr. 4 i delegert forordning [(EU) 2020/990](eu/32020r0990),«nasjonale tiltak» nasjonale tiltak som definert i artikkel 2 nr. 5 i delegert forordning [(EU) 2020/990](eu/32020r0990),«habitat» et habitat som definert i artikkel 2 nr. 6 i delegert forordning [(EU) 2020/990](eu/32020r0990),«listeført tredjeland eller territorium, eller sone av dette» et tredjeland, et territorium, en sone eller et segment som definert i artikkel 2 nr. 1 i delegert forordning [(EU) 2020/692](eu/32020r0692),«sykdomsfri medlemsstat, sykdomsfri sone eller sykdomsfritt segment» en medlemsstat, en sone eller et segment som definert i artikkel 2 nr. 7 i delegert forordning [(EU) 2020/990](eu/32020r0990),«utryddelsesprogram» et utryddelsesprogram som definert i artikkel 2 nr. 8 i delegert forordning [(EU) 2020/990](eu/32020r0990).
+I denne forordningen menes med
+
+1. «container» en container som definert i artikkel 2 nr. 1 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+2. «brønnbåt» en brønnbåt som definert i artikkel 2 nr. 2 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+3. «agn» agn som definert i artikkel 2 nr. 4 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+4. «nasjonale tiltak» nasjonale tiltak som definert i artikkel 2 nr. 5 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+5. «habitat» et habitat som definert i artikkel 2 nr. 6 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+6. «listeført tredjeland eller territorium, eller sone av dette» et tredjeland, et territorium, en sone eller et segment som definert i artikkel 2 nr. 1 i delegert forordning [(EU) 2020/692](eu/32020r0692),
+7. «sykdomsfri medlemsstat, sykdomsfri sone eller sykdomsfritt segment» en medlemsstat, en sone eller et segment som definert i artikkel 2 nr. 7 i delegert forordning [(EU) 2020/990](eu/32020r0990),
+8. «utryddelsesprogram» et utryddelsesprogram som definert i artikkel 2 nr. 8 i delegert forordning [(EU) 2020/990](eu/32020r0990).
 
 ### Artikkel 3. Utfylling av helsesertifikater for forsendelser av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr
 
@@ -156,7 +169,20 @@ I denne forordningen menes med«container» en container som definert i artikkel
 
 ### Artikkel 4. Krav til helsesertifikater for forsendelser av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr
 
-1\. Den offentlige veterinæren skal fylle ut helsesertifikatene for forsendelser av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr i samsvar med følgende krav:Helsesertifikatet skal være påført underskriften til den offentlige veterinæren og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.Dersom helsesertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.Helsesertifikatet skal bestå av et av følgende:Ett enkelt papirark.Flere ark som utgjør et integrert hele og ikke kan deles opp.Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom helsesertifikatet består av flere sammenhengende sider som nevnt i bokstav c) iii) i dette nummeret, skal hver side være påført den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625, underskriften til den offentlige veterinæren og det offisielle stempelet.Når det gjelder helsesertifikater til bruk ved forflytning av forsendelser i Unionen, skal helsesertifikatet følge forsendelsen til den ankommer bestemmelsesstedet i Unionen.Når det gjelder helsesertifikater til bruk ved innførsel av forsendelser til Unionen, skal helsesertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.Helsesertifikatet skal utstedes før forsendelsen det gjelder forlater kontrollen til vedkommende myndighet som utsteder helsesertifikatet.Når det gjelder helsesertifikater til bruk ved innførsel av forsendelser til Unionen, skal helsesertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
+1\. Den offentlige veterinæren skal fylle ut helsesertifikatene for forsendelser av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr i samsvar med følgende krav:
+
+1. Helsesertifikatet skal være påført underskriften til den offentlige veterinæren og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.
+2. Dersom helsesertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.
+3. Helsesertifikatet skal bestå av et av følgende:
+
+   1. Ett enkelt papirark.
+   2. Flere ark som utgjør et integrert hele og ikke kan deles opp.
+   3. Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.
+4. Dersom helsesertifikatet består av flere sammenhengende sider som nevnt i bokstav c) iii) i dette nummeret, skal hver side være påført den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625, underskriften til den offentlige veterinæren og det offisielle stempelet.
+5. Når det gjelder helsesertifikater til bruk ved forflytning av forsendelser i Unionen, skal helsesertifikatet følge forsendelsen til den ankommer bestemmelsesstedet i Unionen.
+6. Når det gjelder helsesertifikater til bruk ved innførsel av forsendelser til Unionen, skal helsesertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.
+7. Helsesertifikatet skal utstedes før forsendelsen det gjelder forlater kontrollen til vedkommende myndighet som utsteder helsesertifikatet.
+8. Når det gjelder helsesertifikater til bruk ved innførsel av forsendelser til Unionen, skal helsesertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
 
 2\. Som unntak fra nr. 1 bokstav h) kan en medlemsstat samtykke i at helsesertifikater utarbeides på et annet offisielt språk i Unionen og om nødvendig vedlegges en bekreftet oversettelse.
 
@@ -170,13 +196,26 @@ I denne forordningen menes med«container» en container som definert i artikkel
 
 2\. Vedkommende myndighet skal i erstatningshelsesertifikatet ikke endre opplysninger i det opprinnelige helsesertifikatet med hensyn til identifikasjon og sporbarhet av forsendelsen og garantier som er gitt for forsendelsen i det opprinnelige helsesertifikatet.
 
-3\. I erstatningshelsesertifikatet skal vedkommende myndighettydelig vise til den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625 og utstedelsesdatoen til det opprinnelige helsesertifikatet og tydelig angi at det erstatter det opprinnelige helsesertifikatet,angi et nytt helsesertifikatnummer som skiller seg fra nummeret til det opprinnelige helsesertifikatet,angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige helsesertifikatet,framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningshelsesertifikat som sendes inn via TRACES.
+3\. I erstatningshelsesertifikatet skal vedkommende myndighet
+
+1. tydelig vise til den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625 og utstedelsesdatoen til det opprinnelige helsesertifikatet og tydelig angi at det erstatter det opprinnelige helsesertifikatet,
+2. angi et nytt helsesertifikatnummer som skiller seg fra nummeret til det opprinnelige helsesertifikatet,
+3. angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige helsesertifikatet,
+4. framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningshelsesertifikat som sendes inn via TRACES.
 
 4\. Ved innførsel av forsendelser til Unionen kan vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen avstå fra å be den driftsansvarlige som har ansvaret for forsendelsen, om å framlegge et erstatningshelsesertifikat dersom opplysninger om mottakeren, importøren, grensekontrollstasjonen for innførsel til Unionen eller transportmiddelet endres etter at sertifikatet er utstedt, og den driftsansvarlige som har ansvaret for forsendelsen, framlegger de nye opplysningene.
 
 ### Artikkel 6. Maler for helsesertifikater til bruk ved forflytning i Unionen av visse kategorier av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr
 
-Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning i Unionen av forsendelser av visse kategorier av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr, skal følge en av følgende maler, avhengig av hvilke akvatiske dyr og produktkategorier de gjelder:AQUA-INTRA-ESTAB, utarbeidet i samsvar med malen i kapittel 1 i vedlegg I, for akvatiske dyr beregnet på akvakulturanlegg.AQUA-INTRA-RELEASE, utarbeidet i samsvar med malen i kapittel 2 i vedlegg I, for akvatiske dyr beregnet på utsetting i naturen.AQUA-INTRA-HC, utarbeidet i samsvar med malen i kapittel 3 i vedlegg I, for akvatiske dyr beregnet på konsum.AQUA-INTRA-RESTRICT, utarbeidet i samsvar med malen i kapittel 4 i vedlegg I, for akvatiske dyr som er omfattet av forflytningsrestriksjoner eller nødtiltak med hensyn til listeførte eller nye sykdommer.AQUA-INTRA-BAIT, utarbeidet i samsvar med malen i kapittel 5 i vedlegg I, for akvatiske dyr til bruk som levende agn.PAO-AQUA-INTRA-PROCESS utarbeidet i samsvar med malen i kapittel 6 i vedlegg I, for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, beregnet på videreforedling.PAO-AQUA-INTRA-RESTRICT, utarbeidet i samsvar med malen i kapittel 7 i vedlegg I, for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr som er omfattet av forflytningsrestriksjoner eller nødtiltak med hensyn til listeførte eller nye sykdommer.
+Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning i Unionen av forsendelser av visse kategorier av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr, skal følge en av følgende maler, avhengig av hvilke akvatiske dyr og produktkategorier de gjelder:
+
+1. AQUA-INTRA-ESTAB, utarbeidet i samsvar med malen i kapittel 1 i vedlegg I, for akvatiske dyr beregnet på akvakulturanlegg.
+2. AQUA-INTRA-RELEASE, utarbeidet i samsvar med malen i kapittel 2 i vedlegg I, for akvatiske dyr beregnet på utsetting i naturen.
+3. AQUA-INTRA-HC, utarbeidet i samsvar med malen i kapittel 3 i vedlegg I, for akvatiske dyr beregnet på konsum.
+4. AQUA-INTRA-RESTRICT, utarbeidet i samsvar med malen i kapittel 4 i vedlegg I, for akvatiske dyr som er omfattet av forflytningsrestriksjoner eller nødtiltak med hensyn til listeførte eller nye sykdommer.
+5. AQUA-INTRA-BAIT, utarbeidet i samsvar med malen i kapittel 5 i vedlegg I, for akvatiske dyr til bruk som levende agn.
+6. PAO-AQUA-INTRA-PROCESS utarbeidet i samsvar med malen i kapittel 6 i vedlegg I, for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, beregnet på videreforedling.
+7. PAO-AQUA-INTRA-RESTRICT, utarbeidet i samsvar med malen i kapittel 7 i vedlegg I, for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr som er omfattet av forflytningsrestriksjoner eller nødtiltak med hensyn til listeførte eller nye sykdommer.
 
 ►**M1**
 

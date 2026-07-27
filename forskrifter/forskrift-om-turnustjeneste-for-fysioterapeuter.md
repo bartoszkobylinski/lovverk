@@ -15,7 +15,7 @@ xml_hash: "f3b71d555770f5a7653f00ff6c63ed868a4b3e6285d2c8bfb30932488f4890ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,11 +30,19 @@ Formålet med praktisk tjeneste er at turnusfysioterapeuten ved å arbeide under
 
 ### § 2. Forskriftens virkeområde
 
-Forskriften gjelder for:personer som har norsk utdanning som fysioterapeut og som må gjennomføre praktisk tjeneste som vilkår for å få autorisasjon som fysioterapeut i Norge,personer som har utenlandsk utdanning som fysioterapeut, og som helt eller delvis må gjennomføre praktisk tjeneste i Norge for å få autorisasjon som fysioterapeut i Norge ogturnusstedet der den praktiske tjenesten allerede blir eller skal utføres, herunder for fysioterapeut som er veileder og fysioterapeut som er ansvarlig for tjenesten.
+Forskriften gjelder for:
+
+1. personer som har norsk utdanning som fysioterapeut og som må gjennomføre praktisk tjeneste som vilkår for å få autorisasjon som fysioterapeut i Norge,
+2. personer som har utenlandsk utdanning som fysioterapeut, og som helt eller delvis må gjennomføre praktisk tjeneste i Norge for å få autorisasjon som fysioterapeut i Norge og
+3. turnusstedet der den praktiske tjenesten allerede blir eller skal utføres, herunder for fysioterapeut som er veileder og fysioterapeut som er ansvarlig for tjenesten.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*turnussted:* virksomhet i spesialisthelsetjenesten eller kommunen der praktisk tjeneste allerede blir eller skal utføres.*turnusplass:* tidsbegrenset stilling som allerede er eller skal bli godkjent av Helsedirektoratet.*turnusfysioterapeut:* person som har avsluttet fysioterapiutdanning, har påbegynt praktisk tjeneste og har lisens til å utføre slik tjeneste.
+I denne forskriften menes med:
+
+1. *turnussted:* virksomhet i spesialisthelsetjenesten eller kommunen der praktisk tjeneste allerede blir eller skal utføres.
+2. *turnusplass:* tidsbegrenset stilling som allerede er eller skal bli godkjent av Helsedirektoratet.
+3. *turnusfysioterapeut:* person som har avsluttet fysioterapiutdanning, har påbegynt praktisk tjeneste og har lisens til å utføre slik tjeneste.
 
 ### § 4. Krav om lisens
 
@@ -44,7 +52,10 @@ Turnusfysioterapeut som skal utføre praktisk tjeneste må ha lisens utstedt av 
 
 ### § 5. Innholdet i den praktiske tjenesten
 
-Følgende praktiske tjeneste må være tilfredsstillende utført i Norge for å få autorisasjon som fysioterapeut:6 måneders tjeneste i spesialisthelsetjenesten og6 måneders tjeneste i den kommunale helse- og omsorgstjenesten.
+Følgende praktiske tjeneste må være tilfredsstillende utført i Norge for å få autorisasjon som fysioterapeut:
+
+1. 6 måneders tjeneste i spesialisthelsetjenesten og
+2. 6 måneders tjeneste i den kommunale helse- og omsorgstjenesten.
 
 Tjenesteperioder på under 2 måneder eller tjeneste fordelt på flere enn 3 tjenestesteder godkjennes som hovedregel ikke.
 
@@ -76,7 +87,12 @@ Eventuell annen tjeneste i utsettelsestiden godkjennes verken helt eller delvis 
 
 Den som har påbegynt eller skal påbegynne praktisk tjeneste, kan søke Helsedirektoratet eller den det bemyndiger om å få utføre praktisk tjeneste på et bestemt sted (særplass). Søknad om særplass skal som hovedregel fremsettes innen fastsatt frist før den praktiske tjenesten påbegynnes.
 
-Særplass kan tildeles dersom vedkommende:er enslig forsørger til barn under 12 år,har barn under 12 år og ønsker å utføre praktisk tjeneste på samme sted eller i rimelig nærhet av ektefelle/samboer som avtjener militær førstegangstjeneste eller siviltjeneste,er samisktalende og ønsker å utføre den praktiske tjenesten i områder med samisktalende befolkning elleroppgir andre særlige grunner som etter en helhetsvurdering tilsier at vedkommende bør få utføre praktisk tjeneste på et bestemt sted.
+Særplass kan tildeles dersom vedkommende:
+
+1. er enslig forsørger til barn under 12 år,
+2. har barn under 12 år og ønsker å utføre praktisk tjeneste på samme sted eller i rimelig nærhet av ektefelle/samboer som avtjener militær førstegangstjeneste eller siviltjeneste,
+3. er samisktalende og ønsker å utføre den praktiske tjenesten i områder med samisktalende befolkning eller
+4. oppgir andre særlige grunner som etter en helhetsvurdering tilsier at vedkommende bør få utføre praktisk tjeneste på et bestemt sted.
 
 ## Kapittel 4. Godkjenning og valg av turnusplasser m.m.
 
@@ -108,7 +124,11 @@ Når alle turnusplassene er valgt, blir kandidater som ikke har fått turnusplas
 
 Den praktiske tjenesten skal tilrettelegges på forsvarlig måte i henhold til retningslinjer fastsatt av Helsedirektoratet, herunder at tjenesten kan gjennomføres på anvist turnusplass.
 
-Turnusstedet skal sørge for at turnusfysioterapeuten kan utføre tjenesten i tråd med gjeldende regelverk, herunder:gi nødvendig opplæring, veiledning og supervisjon,oppnevne fysioterapeut med norsk autorisasjon som personlig veileder for turnusfysioterapeuten ogpåse at turnusfysioterapeuten gis evaluering underveis og ved slutten av hver praktiske periode som en del av grunnlaget for attestasjon i forbindelse med godkjenning av den praktiske tjenesten.
+Turnusstedet skal sørge for at turnusfysioterapeuten kan utføre tjenesten i tråd med gjeldende regelverk, herunder:
+
+1. gi nødvendig opplæring, veiledning og supervisjon,
+2. oppnevne fysioterapeut med norsk autorisasjon som personlig veileder for turnusfysioterapeuten og
+3. påse at turnusfysioterapeuten gis evaluering underveis og ved slutten av hver praktiske periode som en del av grunnlaget for attestasjon i forbindelse med godkjenning av den praktiske tjenesten.
 
 Turnusstedet skal etter endt praktisk tjeneste både i den kommunale helse- og omsorgstjenesten og i spesialisthelsetjenesten sørge for at det gis en attest fra veileder og den fysioterapeuten som er ansvarlig for tjenesten. Av attesten skal det fremgå om den praktiske tjenesten er fullført tilfredsstillende og om den praktiske tjenesten bør godkjennes. Anbefalingen skal gis til Helsedirektoratet eller den det bemyndiger.
 

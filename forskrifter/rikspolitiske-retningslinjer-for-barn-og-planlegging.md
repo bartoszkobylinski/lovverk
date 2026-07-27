@@ -15,7 +15,7 @@ xml_hash: "04a775a188cd8def817d6325e608a313475dc895c3b762b074db1c00f720befe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,23 +30,50 @@ eu_basis: []
 
 ### 1. *Nasjonale mål for barn og unges oppvekstmiljø*
 
-Viktige nasjonale mål er å:Sikre et oppvekstmiljø som gir barn og unge trygghet mot fysiske og psykiske skadevirkninger, og som har de fysiske, sosiale og kulturelle kvaliteter som til enhver tid er i samsvar med eksisterende kunnskap om barn og unges behov.Ivareta det offentlige ansvar for å sikre barn og unge de tilbud og muligheter som samlet kan gi den enkelte utfordringer og en meningsfylt oppvekst uansett bosted, sosial og kulturell bakgrunn.
+Viktige nasjonale mål er å:
+
+1. Sikre et oppvekstmiljø som gir barn og unge trygghet mot fysiske og psykiske skadevirkninger, og som har de fysiske, sosiale og kulturelle kvaliteter som til enhver tid er i samsvar med eksisterende kunnskap om barn og unges behov.
+2. Ivareta det offentlige ansvar for å sikre barn og unge de tilbud og muligheter som samlet kan gi den enkelte utfordringer og en meningsfylt oppvekst uansett bosted, sosial og kulturell bakgrunn.
 
 ### 2. *Formålet med rikspolitiske retningslinjer (RPR) for å styrke barn og unges interesser i planleggingen*
 
-Formålet med disse rikspolitiske retningslinjene er å:Synliggjøre og styrke barn og unges interesser i all planlegging og byggesaksbehandling etter plan- og bygningsloven.Gi kommunene bedre grunnlag for å integrere og ivareta barn og unges interesser i sin løpende planlegging og byggesaksbehandling.Gi et grunnlag for å vurdere saker der barn og unges interesser kommer i konflikt med andre hensyn/interesser.
+Formålet med disse rikspolitiske retningslinjene er å:
+
+1. Synliggjøre og styrke barn og unges interesser i all planlegging og byggesaksbehandling etter plan- og bygningsloven.
+2. Gi kommunene bedre grunnlag for å integrere og ivareta barn og unges interesser i sin løpende planlegging og byggesaksbehandling.
+3. Gi et grunnlag for å vurdere saker der barn og unges interesser kommer i konflikt med andre hensyn/interesser.
 
 ### 3. *Ansvarsforhold*
 
-Ansvaret for å ivareta intensjonene og kravene i disse retningslinjene tillegges følgende instanser:Miljøverndepartementet har overordnet ansvar for generell oppfølging, utvikling og veiledning i forhold til disse retningslinjene. Ansvaret skal utøves i nært samarbeid med andre berørte departementer.Fylkeskommunene skal, i samråd med fylkesmannen, så langt det er mulig veilede og gi kommunene nødvendig støtte til å sikre barn og unges interesser i kommunens planarbeid i henhold til [pkt. 4](forskrift/1995-09-20-4146/kap4) og [5](forskrift/1995-09-20-4146/kap5) i disse retningslinjene.Fylkeskommunen og fylkesmannen skal, der det er nødvendig for å ivareta formålet med [pkt](forskrift/1995-09-20-4146/kap5). 5, gi uttalelse og eventuelt framsette innsigelser til kommuneplan og reguleringsplan/bebyggelsesplan. Fylkesmannen skal ved utøvelse av sin virksomhet etter plan- og bygningsloven påse at kravene til behandling i [pkt](forskrift/1995-09-20-4146/kap4). 4 er ivaretatt.Kommunene skal sikre at [pkt. 4](forskrift/1995-09-20-4146/kap4) og [5](forskrift/1995-09-20-4146/kap5) i retningslinjene blir ivaretatt og klargjøre hvor i kommunen ansvaret med å følge opp retningslinjene skal ligge.
+Ansvaret for å ivareta intensjonene og kravene i disse retningslinjene tillegges følgende instanser:
+
+1. Miljøverndepartementet har overordnet ansvar for generell oppfølging, utvikling og veiledning i forhold til disse retningslinjene. Ansvaret skal utøves i nært samarbeid med andre berørte departementer.
+2. Fylkeskommunene skal, i samråd med fylkesmannen, så langt det er mulig veilede og gi kommunene nødvendig støtte til å sikre barn og unges interesser i kommunens planarbeid i henhold til [pkt. 4](forskrift/1995-09-20-4146/kap4) og [5](forskrift/1995-09-20-4146/kap5) i disse retningslinjene.
+
+   Fylkeskommunen og fylkesmannen skal, der det er nødvendig for å ivareta formålet med [pkt](forskrift/1995-09-20-4146/kap5). 5, gi uttalelse og eventuelt framsette innsigelser til kommuneplan og reguleringsplan/bebyggelsesplan. Fylkesmannen skal ved utøvelse av sin virksomhet etter plan- og bygningsloven påse at kravene til behandling i [pkt](forskrift/1995-09-20-4146/kap4). 4 er ivaretatt.
+3. Kommunene skal sikre at [pkt. 4](forskrift/1995-09-20-4146/kap4) og [5](forskrift/1995-09-20-4146/kap5) i retningslinjene blir ivaretatt og klargjøre hvor i kommunen ansvaret med å følge opp retningslinjene skal ligge.
 
 ### 4. *Krav til den kommunale planleggingsprosessen*
 
-Kommunen skal:Vurdere konsekvenser for barn og unge i plan- og byggesaksbehandlingen etter plan- og bygningsloven.Foreta en samlet vurdering av barn og unges oppvekstmiljø for å innarbeide mål og tiltak i kommuneplanarbeidet.Utarbeide retningslinjer, bestemmelser eller vedtekter om omfang og kvalitet av arealer og anlegg av betydning for barn og unge, som skal sikres i planer der barn og unge er berørt.Organisere planprosessen slik at synspunkter som gjelder barn som berørt part kommer fram og at ulike grupper barn og unge selv gis anledning til å delta.
+Kommunen skal:
+
+1. Vurdere konsekvenser for barn og unge i plan- og byggesaksbehandlingen etter plan- og bygningsloven.
+2. Foreta en samlet vurdering av barn og unges oppvekstmiljø for å innarbeide mål og tiltak i kommuneplanarbeidet.
+3. Utarbeide retningslinjer, bestemmelser eller vedtekter om omfang og kvalitet av arealer og anlegg av betydning for barn og unge, som skal sikres i planer der barn og unge er berørt.
+4. Organisere planprosessen slik at synspunkter som gjelder barn som berørt part kommer fram og at ulike grupper barn og unge selv gis anledning til å delta.
 
 ### 5. *Krav til fysisk utforming*
 
-Følgende skal vies spesiell oppmerksomhet:Arealer og anlegg som skal brukes av barn og unge skal være sikret mot forurensning, støy, trafikkfare og annen helsefare.I nærmiljøet skal det finnes arealer hvor barn kan utfolde seg og skape sitt eget lekemiljø. Dette forutsetter blant annet at arealene:er store nok og egner seg for lek og oppholdgir muligheter for ulike typer lek på ulike årstiderkan brukes av ulike aldersgrupper, og gir muligheter for samhandling mellom barn, unge og voksne.Kommunene skal avsette tilstrekkelige, store nok og egnet areal til barnehager.Ved omdisponering av arealer som i planer er avsatt til fellesareal eller friområde som er i bruk eller er egnet for lek, skal det skaffes fullverdig erstatning. Erstatning skal også skaffes ved utbygging eller omdisponering av uregulert areal som barn bruker som lekeareal, eller dersom omdisponering av areal egnet for lek fører til at de hensyn som er nevnt i punkt b ovenfor, for å møte dagens eller framtidens behov ikke blir oppfylt.
+Følgende skal vies spesiell oppmerksomhet:
+
+1. Arealer og anlegg som skal brukes av barn og unge skal være sikret mot forurensning, støy, trafikkfare og annen helsefare.
+2. I nærmiljøet skal det finnes arealer hvor barn kan utfolde seg og skape sitt eget lekemiljø. Dette forutsetter blant annet at arealene:
+
+   - er store nok og egner seg for lek og opphold
+   - gir muligheter for ulike typer lek på ulike årstider
+   - kan brukes av ulike aldersgrupper, og gir muligheter for samhandling mellom barn, unge og voksne.
+3. Kommunene skal avsette tilstrekkelige, store nok og egnet areal til barnehager.
+4. Ved omdisponering av arealer som i planer er avsatt til fellesareal eller friområde som er i bruk eller er egnet for lek, skal det skaffes fullverdig erstatning. Erstatning skal også skaffes ved utbygging eller omdisponering av uregulert areal som barn bruker som lekeareal, eller dersom omdisponering av areal egnet for lek fører til at de hensyn som er nevnt i punkt b ovenfor, for å møte dagens eller framtidens behov ikke blir oppfylt.
 
 ### 6. *Endringer i retningslinjene*
 
@@ -64,7 +91,10 @@ Det anbefales forøvrig å se mer i *Temaveileder om barn og planlegging etter p
 
 Formålet med disse rikspolitiske retningslinjer og andre statlige planretningslinjer er å klargjøre nasjonale eller regionale interesser på områder der dette er nødvendig for å sikre at disse interessene blir ivaretatt i den kommunale og regionale planleggingen i hht [endring] av plan- og [bygningsloven av 25. juni 2010 nr 48](lov/2010-06-25-48).
 
-Rikspolitiske retningslinjene gir regjeringens syn påhvilke hensyn og interesser det skal legges særlig vekt påhvordan avveiinger i konfliktsituasjoner skal foretas
+Rikspolitiske retningslinjene gir regjeringens syn på
+
+- hvilke hensyn og interesser det skal legges særlig vekt på
+- hvordan avveiinger i konfliktsituasjoner skal foretas
 
 De nasjonale mål angitt i [punkt](forskrift/1995-09-20-4146/kap1) 1 er i samsvar med plan- og bygningslovens formål, angitt i § 1-1, og § 3-1 punkt e), og § 3-3, 3. ledd der det går frem at det ved planlegging etter loven spesielt skal legges til rette for å sikre barn gode oppvekstvilkår.
 

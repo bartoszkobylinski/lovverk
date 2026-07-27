@@ -28,29 +28,68 @@ Tilskuddet skal bidra til å fremme tros- og livssynsdialog og til å fremme off
 
 ## § 2. Hvem som kan tildeles tilskudd
 
-Tilskudd kan tildeles:tros- og livssynssamfunnorganisasjoner, lag, foreninger mv.kommuner.
+Tilskudd kan tildeles:
+
+1. tros- og livssynssamfunn
+2. organisasjoner, lag, foreninger mv.
+3. kommuner.
 
 Flere aktører kan gå sammen om en søknad. Ved flere søknader fra samme aktør, kan departementet vurdere disse samlet.
 
 ## § 3. Kriterier for måloppnåelse
 
-Prosjekter og organisasjoner som får tilskudd skal støtte opp under målet med tilskuddsordningen. Om målet er nådd vurderes ut fra om, eller i hvilken grad, tilskuddsmottaker har gjennomført aktivitetene som forutsatt i søknaden og tilskuddsbrevet. Følgende kriterier for måloppnåelse er sentrale for å vurdere om målet nås:Tilskuddsordningen har stimulert til tros- og livssynsdialog.Debatter og dialoger om tros- og livssynspolitiske tema har blitt arrangert.Det er utviklet kunnskap om og kompetanse om tros- og livssynspolitiske tema.Tilskuddsordningen har stimulert til samarbeid mellom kommuner og tros- og livssynssamfunn for å fremme mangfold, inkludering og for å løse sosiale utfordringer.
+Prosjekter og organisasjoner som får tilskudd skal støtte opp under målet med tilskuddsordningen. Om målet er nådd vurderes ut fra om, eller i hvilken grad, tilskuddsmottaker har gjennomført aktivitetene som forutsatt i søknaden og tilskuddsbrevet. Følgende kriterier for måloppnåelse er sentrale for å vurdere om målet nås:
+
+1. Tilskuddsordningen har stimulert til tros- og livssynsdialog.
+2. Debatter og dialoger om tros- og livssynspolitiske tema har blitt arrangert.
+3. Det er utviklet kunnskap om og kompetanse om tros- og livssynspolitiske tema.
+4. Tilskuddsordningen har stimulert til samarbeid mellom kommuner og tros- og livssynssamfunn for å fremme mangfold, inkludering og for å løse sosiale utfordringer.
 
 ## § 4. Hva det kan søkes om tilskudd til
 
 Tiltaket det søkes om tilskudd til, må komme inn under minst ett av formålene i [§ 1](forskrift/2022-03-16-435/§1). Det gis tilskudd på mellom 50 000 og 400 000 kroner.
 
-Det gis ikke tilskudd tilTrosopplæringOversettelse og/eller publisering av religiøse teksterInformasjonsarbeid om eget livssyn rettet mot allmennhetenStudieopphold/studiestøtteSkoleturer og lignende.
+Det gis ikke tilskudd til
+
+1. Trosopplæring
+2. Oversettelse og/eller publisering av religiøse tekster
+3. Informasjonsarbeid om eget livssyn rettet mot allmennheten
+4. Studieopphold/studiestøtte
+5. Skoleturer og lignende.
 
 ## § 5. Søknadsfrist. Krav til søknaden
 
-Søknaden med alle nødvendige opplysninger og vedlegg sendes elektronisk til departementets postmottak innen en frist som settes ved den årlige utlysningen av tilskuddsmidlene. Søknaden skal opplyse om:navn på organisasjonenorganisasjonens e-post og postadresseeventuell nettsideorganisasjonsnummerbankkontotilskuddsbeløpet det søkes om (kroner)navn, telefon og e-postadresse til én eller flere kontaktpersoner.
+Søknaden med alle nødvendige opplysninger og vedlegg sendes elektronisk til departementets postmottak innen en frist som settes ved den årlige utlysningen av tilskuddsmidlene. Søknaden skal opplyse om:
 
-Søknaden skal gi en kortfattet beskrivelse av tiltaket det søkes om tilskudd til, blant annet:bakgrunn for og formål med tiltaket (hva søkeren vil oppnå med tilskuddet og hvordan målet (og delmålene) skal bidra til å oppfylle målet med tilskuddsordningen)målgruppeframdriftsplankompetanse og erfaring fra lignende arbeidskriftlig bekreftelse om deltakelse fra eventuelle samarbeidspartnerefinansieringsplan for tiltaket (oversikt over planlagte utgifter og hvordan disse skal dekkes inn)ev. planer for å videreføre tiltaketen kort orientering om status for pågående prosjekter dersom søker mottok tilskudd fra samme tilskuddsordning tidligere år.
+1. navn på organisasjonen
+2. organisasjonens e-post og postadresse
+3. eventuell nettside
+4. organisasjonsnummer
+5. bankkonto
+6. tilskuddsbeløpet det søkes om (kroner)
+7. navn, telefon og e-postadresse til én eller flere kontaktpersoner.
+
+Søknaden skal gi en kortfattet beskrivelse av tiltaket det søkes om tilskudd til, blant annet:
+
+1. bakgrunn for og formål med tiltaket (hva søkeren vil oppnå med tilskuddet og hvordan målet (og delmålene) skal bidra til å oppfylle målet med tilskuddsordningen)
+2. målgruppe
+3. framdriftsplan
+4. kompetanse og erfaring fra lignende arbeid
+5. skriftlig bekreftelse om deltakelse fra eventuelle samarbeidspartnere
+6. finansieringsplan for tiltaket (oversikt over planlagte utgifter og hvordan disse skal dekkes inn)
+7. ev. planer for å videreføre tiltaket
+8. en kort orientering om status for pågående prosjekter dersom søker mottok tilskudd fra samme tilskuddsordning tidligere år.
 
 ## § 6. Saksbehandling
 
-Departementet avgjør søknadene etter en skjønnsmessig vurdering av søknadsopplysningene sammenholdt med formålene i [§ 1](forskrift/2022-03-16-435/§1). I tillegg legges det vekt påom tiltaket bidrar til samarbeid mellom ulike tros- og livssynssamfunn eller retninger og bidrar til å forebygge polarisering og hatytringerom tiltaket fremmer gjensidig forståelse og respekt for forskjeller og for felles verdier som samfunnet bygger på, som demokrati, rettsstat og menneskerettigheterom tiltaket og rapporteringen fra tilskuddsmottakerne kan bidra til ny innsiktom den som søker har kompetanse og erfaring fra lignende arbeidom planleggingen er kommet langt nok til at det er sannsynlig at prosjektet kan gjennomføres i løpet av påfølgende årom det foreligger samarbeidsavtaler dersom tiltaket skal gjennomføres i samarbeid med andre organisasjoner.
+Departementet avgjør søknadene etter en skjønnsmessig vurdering av søknadsopplysningene sammenholdt med formålene i [§ 1](forskrift/2022-03-16-435/§1). I tillegg legges det vekt på
+
+1. om tiltaket bidrar til samarbeid mellom ulike tros- og livssynssamfunn eller retninger og bidrar til å forebygge polarisering og hatytringer
+2. om tiltaket fremmer gjensidig forståelse og respekt for forskjeller og for felles verdier som samfunnet bygger på, som demokrati, rettsstat og menneskerettigheter
+3. om tiltaket og rapporteringen fra tilskuddsmottakerne kan bidra til ny innsikt
+4. om den som søker har kompetanse og erfaring fra lignende arbeid
+5. om planleggingen er kommet langt nok til at det er sannsynlig at prosjektet kan gjennomføres i løpet av påfølgende år
+6. om det foreligger samarbeidsavtaler dersom tiltaket skal gjennomføres i samarbeid med andre organisasjoner.
 
 Departementet kan også legge vekt på at de samlede tilskuddene blir fordelt mellom flere typer organisasjoner, en viss geografisk spredning og at tiltaket skjer i regi av, eller i samarbeid med, muslimske organisasjoner.
 
@@ -66,7 +105,11 @@ Det kan fastsettes ytterligere rapporteringsplikter i tilskuddsvedtaket.
 
 ## § 8. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Departementet og Riksrevisjonen kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom åkreve de opplysningene og den dokumentasjonen som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket og be om mottakerens medvirkning til besiktigelsen dersom det er nødvendig for kontrollen.
+Departementet og Riksrevisjonen kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve de opplysningene og den dokumentasjonen som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. besiktige tiltaket og be om mottakerens medvirkning til besiktigelsen dersom det er nødvendig for kontrollen.
 
 ## § 9. Stans og tilbakebetaling
 

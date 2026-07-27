@@ -32,13 +32,27 @@ eu_basis: []
 
 ## § 3. Definisjoner
 
-(1) I denne forskriften menes med:*Fallskjermhopp:* Alle former for planlagte utsprang fra luftfartøy i den hensikt å anvende fallskjerm under hele eller deler av nedstigningen.*Fallskjermhopper:* Person som gjennomfører eller skal gjennomføre fallskjermhopp.*Hoppfelt:* Et område som omfatter landingsområde og de omgivelser hvor det må ventes at hoppere vil kunne komme til å lande.*Faste hoppfelt:* Hoppfelt som er kunngjort gjennom AIP NORGE/NORWAY ENR 5.5-4.*Landingsområde:* Den del av hoppfeltet der hopperne forutsettes å lande.*Hoppmester:* person som har ansvaret for, og kommandoen over hoppere under innlasting i flyet, under flygning og til hopperne har forlatt flyet.*Dropp:* Én eller flere fallskjermhoppere som forlater et luftfartøy samtidig, eller flere enn to fallskjermhoppere som forlater mer enn ett luftfartøy i den hensikt å danne en formasjon.
+(1) I denne forskriften menes med:
+
+1. *Fallskjermhopp:* Alle former for planlagte utsprang fra luftfartøy i den hensikt å anvende fallskjerm under hele eller deler av nedstigningen.
+2. *Fallskjermhopper:* Person som gjennomfører eller skal gjennomføre fallskjermhopp.
+3. *Hoppfelt:* Et område som omfatter landingsområde og de omgivelser hvor det må ventes at hoppere vil kunne komme til å lande.
+4. *Faste hoppfelt:* Hoppfelt som er kunngjort gjennom AIP NORGE/NORWAY ENR 5.5-4.
+5. *Landingsområde:* Den del av hoppfeltet der hopperne forutsettes å lande.
+6. *Hoppmester:* person som har ansvaret for, og kommandoen over hoppere under innlasting i flyet, under flygning og til hopperne har forlatt flyet.
+7. *Dropp:* Én eller flere fallskjermhoppere som forlater et luftfartøy samtidig, eller flere enn to fallskjermhoppere som forlater mer enn ett luftfartøy i den hensikt å danne en formasjon.
 
 ## § 4. Godkjennelse av sikkerhetssystem
 
 (1) Fallskjermhopp kan bare utføres av fallskjermhopper tilknyttet organisasjon som har fått godkjent et sikkerhetssystem av Luftfartstilsynet.
 
-(2) Sikkerhetssystemet skal inneholde:plan for utdannelse av fallskjermhoppere og opprettholdelse av deres ferdigheter,materiellreglement, innbefattet krav til fallskjermer,operative instrukser for de forskjellige arter av fallskjermhopp,system for rapportering av avvik fra pkt. a) t.o.m. c) ovenfor til organisasjon, ogorganisering som sikrer utvikling og etterlevelse av pkt. a) t.o.m. d) ovenfor.
+(2) Sikkerhetssystemet skal inneholde:
+
+1. plan for utdannelse av fallskjermhoppere og opprettholdelse av deres ferdigheter,
+2. materiellreglement, innbefattet krav til fallskjermer,
+3. operative instrukser for de forskjellige arter av fallskjermhopp,
+4. system for rapportering av avvik fra pkt. a) t.o.m. c) ovenfor til organisasjon, og
+5. organisering som sikrer utvikling og etterlevelse av pkt. a) t.o.m. d) ovenfor.
 
 (3) Luftfartstilsynet kan sette vilkår for godkjenning av sikkerhetssystem, herunder bl.a. tidsbegrenset godkjenning, vilkår for endringer av sikkerhetssystemet, adgang for Luftfartstilsynet til å gi pålegg om endringer av sikkerhetssystemet mv.
 
@@ -56,7 +70,10 @@ eu_basis: []
 
 (3) Fallskjermhopp i kontrollert luftrom skal planlegges og utføres i samråd med vedkommende enhet av lufttrafikktjenesten.
 
-(4) Melding om fallskjermhopping skal varsles gjennom NOTAM i følgende tilfeller:dersom fallskjermhoppingen finner sted utenfor faste hoppfelt uten obligatorisk radiosamband med flygekontrolltjenesten, og hoppingen omfatter mer enn 20 hopp pr. dropp, mer enn 100 hopp i naturlig sammenheng eller aktiviteten varer over 24 timer, ellerdersom fallskjermhoppingen finner sted om natten i områder uten obligatorisk radiosamband med flygekontrolltjenesten.
+(4) Melding om fallskjermhopping skal varsles gjennom NOTAM i følgende tilfeller:
+
+1. dersom fallskjermhoppingen finner sted utenfor faste hoppfelt uten obligatorisk radiosamband med flygekontrolltjenesten, og hoppingen omfatter mer enn 20 hopp pr. dropp, mer enn 100 hopp i naturlig sammenheng eller aktiviteten varer over 24 timer, eller
+2. dersom fallskjermhoppingen finner sted om natten i områder uten obligatorisk radiosamband med flygekontrolltjenesten.
 
 (5) Melding etter forrige ledd skal omfatte omfang, høyder, tidsrom, hoppfelt og ansvarshavende.
 
@@ -72,7 +89,14 @@ eu_basis: []
 
 (1) Luftfartøy som benyttes ved fallskjermhopping skal ha prosedyrer godkjent av Luftfartstilsynet for flyging med fallskjermhoppere.
 
-(2) Søknad om godkjennelse av prosedyrer for luftfartøy som skal drive flyging med fallskjermhoppere skal inneholde følgende dokumentasjon:flygehåndbok,oppgave over luftfartøyets tomvekt og tyngdepunkt i den konfigurasjon som skal benyttes ved flyging med fallskjermhoppere,skisse over fallskjermhoppernes plassering i luftfartøyet med angitte momentarmer,oppgave over startvekt og tyngdepunkt ved kritisk kombinasjon av drivstoffmengde, antall ombordværende og deres plassering i fartøyet,teknisk underlag for fastspenning av fallskjermhoppere i tilfeller hvor luftfartøyet ikke skal anvendes i standard konfigurasjon, ogreferanse til eventuelle tillegg i fabrikantens flygehåndbok, samt oversikt over fabrikantens standardmodifikasjoner ved flyging med åpen dør.
+(2) Søknad om godkjennelse av prosedyrer for luftfartøy som skal drive flyging med fallskjermhoppere skal inneholde følgende dokumentasjon:
+
+1. flygehåndbok,
+2. oppgave over luftfartøyets tomvekt og tyngdepunkt i den konfigurasjon som skal benyttes ved flyging med fallskjermhoppere,
+3. skisse over fallskjermhoppernes plassering i luftfartøyet med angitte momentarmer,
+4. oppgave over startvekt og tyngdepunkt ved kritisk kombinasjon av drivstoffmengde, antall ombordværende og deres plassering i fartøyet,
+5. teknisk underlag for fastspenning av fallskjermhoppere i tilfeller hvor luftfartøyet ikke skal anvendes i standard konfigurasjon, og
+6. referanse til eventuelle tillegg i fabrikantens flygehåndbok, samt oversikt over fabrikantens standardmodifikasjoner ved flyging med åpen dør.
 
 (3) Modifikasjoner av luftfartøyet skal særskilt godkjennes. Flyging med åpen dør anses ikke som modifikasjon hvis flyet er godkjent for slik flyging.
 
@@ -80,13 +104,25 @@ eu_basis: []
 
 ## § 10. Generelle krav til flyging med fallskjermhoppere
 
-(1) Ved flyging med fallskjermhoppere skal følgende begrensninger være innført i flygehåndboken:røyking er ikke tillatt,alt løst utstyr om bord skal være sikret, ogbagasje er ikke tillatt medført i flyet.
+(1) Ved flyging med fallskjermhoppere skal følgende begrensninger være innført i flygehåndboken:
+
+1. røyking er ikke tillatt,
+2. alt løst utstyr om bord skal være sikret, og
+3. bagasje er ikke tillatt medført i flyet.
 
 (2) Hoppmester skal treffe nødvendige forholdsregler for å hindre utilsiktet åpning av fallskjerm under flyging.
 
 ## § 11. Flyging med avmontert eller åpen dør
 
-(1) Ved flyging med avmontert eller åpen dør skal følgende operative begrensninger være innført i flygehåndboken:det er ikke tillatt å fly med mer enn én dør avmontert eller åpen,maksimal flygehastighet skal ikke overstige største tillatte manøverhastighet eller 70% av største tillatte marsjhastighet,maksimal tillatt girvinkel er 10° og maksimal tillatt krengningsvinkel er 15°,alle ombordværende skal være fastspent under start og landing, og ved alle andre faser av flygingen når fartøysjefen anser dette nødvendig av sikkerhetsmessige grunner,fallskjermhopperens «static lines» skal plasseres og monteres slik at det ikke er mulig å forårsake låsing av rorflater eller flygerens kontroller,flyging er kun tillatt under VFR-forhold, ogdersom flyet er utstyrt med dørholderclips på vingestenderne eller under vingen, skal disse fjernes før fallskjermhopping utføres.
+(1) Ved flyging med avmontert eller åpen dør skal følgende operative begrensninger være innført i flygehåndboken:
+
+1. det er ikke tillatt å fly med mer enn én dør avmontert eller åpen,
+2. maksimal flygehastighet skal ikke overstige største tillatte manøverhastighet eller 70% av største tillatte marsjhastighet,
+3. maksimal tillatt girvinkel er 10° og maksimal tillatt krengningsvinkel er 15°,
+4. alle ombordværende skal være fastspent under start og landing, og ved alle andre faser av flygingen når fartøysjefen anser dette nødvendig av sikkerhetsmessige grunner,
+5. fallskjermhopperens «static lines» skal plasseres og monteres slik at det ikke er mulig å forårsake låsing av rorflater eller flygerens kontroller,
+6. flyging er kun tillatt under VFR-forhold, og
+7. dersom flyet er utstyrt med dørholderclips på vingestenderne eller under vingen, skal disse fjernes før fallskjermhopping utføres.
 
 (2) Dersom luftfartøyfabrikanten har spesifisert særskilte operative begrensninger for flyging med fallskjermhoppere, vil disse erstatte eller gjelde i tillegg til ovennevnte begrensninger.
 

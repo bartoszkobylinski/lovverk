@@ -104,7 +104,12 @@ Netteier skal utføre de oppgavene som fastsettes av sentral tilsynsmyndighet.
 
 Netteier ved det lokale elektrisitetstilsyn skal gi de pålegg og treffe de enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)](lov/1929-05-24-4).
 
-Netteier kan, som ledd i forberedelsen av vedtak som nevnt i annet ledd, la andre sakkyndige utføre følgende oppgaver på sine vegne:utplukk av tilsynsobjekter, i samarbeid med netteierkontrollutarbeidelse av kontrollrapportforhåndsvarsle om eventuelle vedtak til tilsynsobjektet.
+Netteier kan, som ledd i forberedelsen av vedtak som nevnt i annet ledd, la andre sakkyndige utføre følgende oppgaver på sine vegne:
+
+- utplukk av tilsynsobjekter, i samarbeid med netteier
+- kontroll
+- utarbeidelse av kontrollrapport
+- forhåndsvarsle om eventuelle vedtak til tilsynsobjektet.
 
 Netteier skal ha kopi av alle kontrollrapporter som sakkyndige utsteder, også der det ikke avdekkes avvik.
 
@@ -160,7 +165,14 @@ Ved overtredelse av [§ 5](forskrift/2007-06-29-830/§5) til [§ 17](forskrift/2
 
 Ilagt gebyr er tvangsgrunnlag for utlegg. Gebyr innkreves av Statens innkrevingssentral.
 
-Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmåling av størrelsen på gebyret skal det særlig legges vekt påovertredelsens grovhet,om netteier ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsen,om overtredelsen er begått for å fremme netteiers interesser,om netteier har hatt eller kunne oppnådd noen fordel ved overtredelsen,om det foreligger gjentakelse,netteiers økonomiske evne.
+Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmåling av størrelsen på gebyret skal det særlig legges vekt på
+
+1. overtredelsens grovhet,
+2. om netteier ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsen,
+3. om overtredelsen er begått for å fremme netteiers interesser,
+4. om netteier har hatt eller kunne oppnådd noen fordel ved overtredelsen,
+5. om det foreligger gjentakelse,
+6. netteiers økonomiske evne.
 
 ### § 22. Ikrafttredelse
 

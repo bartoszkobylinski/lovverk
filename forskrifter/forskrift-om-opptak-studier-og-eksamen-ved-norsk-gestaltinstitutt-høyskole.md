@@ -158,7 +158,13 @@ Søkere som ikke får opptak til studier eller utdanninger kan påklage vedtaket
 
 ### § 4-2. Tap av studierett
 
-(1) Studenter kan miste studieretten på et studium de er tatt opp til i følgende tilfeller:Studenten har ikke semesterregistrert seg og/eller betalt semesteravgift og studieavgift innen gjeldende frister etter opptak og har ikke fått innvilget permisjon etter [§ 4-5](forskrift/2025-06-16-1701/§4-5) eller reservert studieplass etter § 2-5 (5)Manglende undertegnelse av studiekontrakt og godkjenning av utdanningsplanStudenten har brukt opp sine forsøk til eksamen i henhold til studieplan og til forskrift om opptak, studier og eksamen.Studenten har ikke bestått eksamen i løpet av det siste studieåret. Studenter som ikke har levert studieavsluttende eksamen etter ett studieår kan i spesielle tilfeller få innvilget et ekstra halvår etter søknad til daglig leder. Dersom studenten har hatt permisjon i denne perioden, skal permisjonstiden ikke regnes med.Studieretten er urettmessig oppnådd ved hjelp av falske dokumenter, falskt vitnemål eller dokumenter utstedt av falske institusjoner.
+(1) Studenter kan miste studieretten på et studium de er tatt opp til i følgende tilfeller:
+
+1. Studenten har ikke semesterregistrert seg og/eller betalt semesteravgift og studieavgift innen gjeldende frister etter opptak og har ikke fått innvilget permisjon etter [§ 4-5](forskrift/2025-06-16-1701/§4-5) eller reservert studieplass etter § 2-5 (5)
+2. Manglende undertegnelse av studiekontrakt og godkjenning av utdanningsplan
+3. Studenten har brukt opp sine forsøk til eksamen i henhold til studieplan og til forskrift om opptak, studier og eksamen.
+4. Studenten har ikke bestått eksamen i løpet av det siste studieåret. Studenter som ikke har levert studieavsluttende eksamen etter ett studieår kan i spesielle tilfeller få innvilget et ekstra halvår etter søknad til daglig leder. Dersom studenten har hatt permisjon i denne perioden, skal permisjonstiden ikke regnes med.
+5. Studieretten er urettmessig oppnådd ved hjelp av falske dokumenter, falskt vitnemål eller dokumenter utstedt av falske institusjoner.
 
 (2) Daglig leder fatter vedtak om tap av studierett. Vedtak om tap av studierett kan påklages.
 
@@ -206,7 +212,10 @@ Søkere som ikke får opptak til studier eller utdanninger kan påklage vedtaket
 
 ## Kapittel 5. Akkrediterte studietilbud og annen utdanning
 
-(1) Norsk Gestaltinstitutt Høyskole tilbyr følgende akkrediterte studietilbud:Gestaltterapiutdanning, 120 studiepoengToårig studium i gestaltorientert coaching, 60 studiepoeng.
+(1) Norsk Gestaltinstitutt Høyskole tilbyr følgende akkrediterte studietilbud:
+
+- Gestaltterapiutdanning, 120 studiepoeng
+- Toårig studium i gestaltorientert coaching, 60 studiepoeng.
 
 (2) Norsk Gestaltinstitutt Høyskole kan også tilby videreutdanning, etterutdanning og også kortere kurs og workshops.
 
@@ -246,7 +255,16 @@ I henhold til [lov om universiteter og høyskoler § 12-7](lov/2024-03-08-9/§12
 
 (1) Det skal fastsettes studieplan for alle studiepoengsgivende studier og emner som tilbys ved Norsk Gestaltinstitutt Høyskole. Alle utdanninger skal ha en undervisningsplan.
 
-(2) Studieplanen skal utarbeides i tråd med forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring 8. november 2017 og skal inneholde følgende opplysninger:Læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetanseHvilke emner studiet består avStudiets omfang i studiepoeng og forventet arbeidsomfangEmnebeskrivelserArbeidskrav og vurderingsformerEventuelle forkunnskapskrav eller anbefalte forkunnskaperPensumlitteraturBestemmelser vedrørende kvalitetsutviklingen av studiet.
+(2) Studieplanen skal utarbeides i tråd med forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring 8. november 2017 og skal inneholde følgende opplysninger:
+
+1. Læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetanse
+2. Hvilke emner studiet består av
+3. Studiets omfang i studiepoeng og forventet arbeidsomfang
+4. Emnebeskrivelser
+5. Arbeidskrav og vurderingsformer
+6. Eventuelle forkunnskapskrav eller anbefalte forkunnskaper
+7. Pensumlitteratur
+8. Bestemmelser vedrørende kvalitetsutviklingen av studiet.
 
 (3) Det skal foreligge vedtatte studieplaner før oppstarten av nytt studieår. Studieplaner kan ikke endres etter at studieåret har begynt og studentene har undertegnet studiekontrakten.
 
@@ -292,7 +310,12 @@ Høyskolestyret kan gi utfyllende regler innenfor rammen av denne forskrift.
 
 (1) Studieplanen gir informasjon om arbeidskrav som må være fullført for at studenten skal ha adgang til eksamen eller til å få fortsette studiet. Arbeidskravene skal være gjennomført for at studenten skal ha rett til å fremstille seg til eksamen, jf. [universitets- og høyskoleloven § 11-4 annet ledd](lov/2024-03-08-9/§11-4/ledd/2).
 
-(2) For å kunne gå opp til eksamen, må studenten haGjennomført arbeidskravene i emnetBetalt studieavgiftBetalt semesteravgift etter [lov 14. desember 2007 nr 116 om studentsamskipnader § 10](lov/2007-12-14-116/§10) og [forskrift 22. juli 2008 nr. 828 om studentsamskipnader kap. 7](forskrift/2008-07-22-828/kap7)Betalt eksamensavgift.
+(2) For å kunne gå opp til eksamen, må studenten ha
+
+1. Gjennomført arbeidskravene i emnet
+2. Betalt studieavgift
+3. Betalt semesteravgift etter [lov 14. desember 2007 nr 116 om studentsamskipnader § 10](lov/2007-12-14-116/§10) og [forskrift 22. juli 2008 nr. 828 om studentsamskipnader kap. 7](forskrift/2008-07-22-828/kap7)
+4. Betalt eksamensavgift.
 
 ### § 8-2. Oppmelding til eksamen
 
@@ -376,7 +399,11 @@ En eksamenskandidat kan levere ny eller revidert skriftlig studieavsluttende eks
 
 ### § 9-9. Erklæring om selvstendig arbeid
 
-(1) Eksamenskandidater som leverer inn skriftlig årsavsluttende eller studieavsluttende eksamen må gjøre seg kjent med de reglene som gjelder for slike oppgaver og gi en erklæring om dette. Erklæringen skal dateres og signeres eller godkjennes elektronisk og leveres inn sammen med oppgavebesvarelsen. Høyskolen kan også fastsette at erklæring om selvstendig arbeid skal signeres eller godkjennes på forhånd for et helt studieår. Erklæringen legger ansvaret på eksamenskandidaten for følgende:Det innleverte arbeidet skal ikke være brukt tidligere som del av en utdanning ved Norsk Gestaltinstitutt Høyskole eller annen utdanningsinstitusjon.Det skal opplyses om kildebruk etter gjeldende regler. Referanse til kilde gis nøyaktig i teksten. Dette gjelder for sitat, men også når stoffet er gjengitt med egne ord. Kravet gjelder både når kildene er pensumlitteratur eller andre bøker, artikler og lignende, og når materialet er funnet på internett eller er fra personlig kommunikasjon. Det gis utfyllende informasjon om regler for oppgaveskriving i Veiledning for oppgaveskriving ved Norsk Gestaltinstitutt Høyskole.For oppgaver der det er brukt informasjon fra intervju, spørreskjema og lignende, vil det være nødvendig å sikre informantens anonymitet. Eksamenskandidaten må være spesielt varsom med bruk av konfidensielle data og opplysninger fra observasjon, intervju og spørreskjema. Eksamenskandidaten er i slike tilfeller forpliktet til å drøfte spørsmål om kildebruk og henvisning med veileder.
+(1) Eksamenskandidater som leverer inn skriftlig årsavsluttende eller studieavsluttende eksamen må gjøre seg kjent med de reglene som gjelder for slike oppgaver og gi en erklæring om dette. Erklæringen skal dateres og signeres eller godkjennes elektronisk og leveres inn sammen med oppgavebesvarelsen. Høyskolen kan også fastsette at erklæring om selvstendig arbeid skal signeres eller godkjennes på forhånd for et helt studieår. Erklæringen legger ansvaret på eksamenskandidaten for følgende:
+
+1. Det innleverte arbeidet skal ikke være brukt tidligere som del av en utdanning ved Norsk Gestaltinstitutt Høyskole eller annen utdanningsinstitusjon.
+2. Det skal opplyses om kildebruk etter gjeldende regler. Referanse til kilde gis nøyaktig i teksten. Dette gjelder for sitat, men også når stoffet er gjengitt med egne ord. Kravet gjelder både når kildene er pensumlitteratur eller andre bøker, artikler og lignende, og når materialet er funnet på internett eller er fra personlig kommunikasjon. Det gis utfyllende informasjon om regler for oppgaveskriving i Veiledning for oppgaveskriving ved Norsk Gestaltinstitutt Høyskole.
+3. For oppgaver der det er brukt informasjon fra intervju, spørreskjema og lignende, vil det være nødvendig å sikre informantens anonymitet. Eksamenskandidaten må være spesielt varsom med bruk av konfidensielle data og opplysninger fra observasjon, intervju og spørreskjema. Eksamenskandidaten er i slike tilfeller forpliktet til å drøfte spørsmål om kildebruk og henvisning med veileder.
 
 (2) Ved brudd på disse reglene vises det til [§ 10-7](forskrift/2025-06-16-1701/§10-7) i denne forskrift om annullering av eksamen eller annen vurdering, og til [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4).
 
@@ -422,9 +449,16 @@ En eksamenskandidat kan levere ny eller revidert skriftlig studieavsluttende eks
 
 (2) På de akkrediterte studiene skal det alltid benyttes to sensorer ved muntlig og skriftlig eksamen, enten to interne sensorer eller både intern og ekstern sensor.
 
-(3) Ved sensur skal sensorene:Gjøre seg kjent med sensorveiledningen og vurderingskriteriene for den bestemte eksamenenVurdere de tildelte eksamensbesvarelseneForeta en samlet vurdering av vurderingsordningene for emnet på forespørsel fra kvalitetsansvarlig.
+(3) Ved sensur skal sensorene:
 
-(4) Ekstern sensor må tilfredsstille ett eller flere av følgende krav:Være ansatt på høyskolelektor/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivåGjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt fagområde.
+- Gjøre seg kjent med sensorveiledningen og vurderingskriteriene for den bestemte eksamenen
+- Vurdere de tildelte eksamensbesvarelsene
+- Foreta en samlet vurdering av vurderingsordningene for emnet på forespørsel fra kvalitetsansvarlig.
+
+(4) Ekstern sensor må tilfredsstille ett eller flere av følgende krav:
+
+- Være ansatt på høyskolelektor/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+- Gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt fagområde.
 
 (5) Ekstern sensor kan ikke ha vært ansatt ved Norsk Gestaltinstitutt Høyskole det siste studieåret.
 
@@ -476,7 +510,14 @@ Formelle feil ifm. eksamen kan påklages i samsvar med bestemmelsene i [lov om u
 
 ### § 10-7. Fusk og forsøk på fusk
 
-(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes bl.a.:Å ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt egetÅ sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerÅ oppgi fiktive kilder eller fabrikkere datamaterialeÅ bruke KI-generert tekst i skriftlige arbeider uten å dokumentere detteÅ handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
+(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes bl.a.:
+
+- Å ha ulovlige hjelpemidler tilgjengelig under eksamen
+- Å presentere andres arbeid som sitt eget
+- Å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+- Å oppgi fiktive kilder eller fabrikkere datamateriale
+- Å bruke KI-generert tekst i skriftlige arbeider uten å dokumentere dette
+- Å handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
 
 (2) Konsekvenser av fusk eller forsøk på fusk reguleres av [lov om universiteter og høyskoler](lov/2024-03-08-9) og behandles av høyskolens klagenemnd, jf. [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4) og [§ 14-1](lov/2024-03-08-9/§14-1). Vedtak i høyskolens klagenemnd kan påklages. Høyskolestyret kan fastsette retningslinjer for behandling av fusk / forsøk på fusk.
 
@@ -488,7 +529,10 @@ Formelle feil ifm. eksamen kan påklages i samsvar med bestemmelsene i [lov om u
 
 ### § 10-8. Annullering av eksamen eller annen vurdering
 
-(1) Institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), kan annullere eksamen eller prøve eller godkjenning av emne hvis studentenVed hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve eller til å delta i vedkommende emne, ellerhar forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne.
+(1) Institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), kan annullere eksamen eller prøve eller godkjenning av emne hvis studenten
+
+1. Ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve eller til å delta i vedkommende emne, eller
+2. har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne.
 
 (2) Det er institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), som fatter vedtak i saker som gjelder [§ 12-4 i lov om universiteter og høyskoler](lov/2024-03-08-9/§12-4).
 

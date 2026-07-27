@@ -15,7 +15,7 @@ xml_hash: "906508b4d1301fe401b0ad0891dccda4b64f57d1e3ede120588a6f3c946144c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,23 @@ Forskriften kommer til anvendelse på biogass, gass fra biomasse og andre typer 
 
 ### § 1-3. Definisjoner
 
-I denne forskriften forstås med*loven:* [lov 28. juni 2002 nr. 61](lov/2002-06-28-61) om felles regler for det indre marked for naturgass*lageranlegg:* et anlegg som brukes til lagring av naturgass, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)) og eies eller drives av et naturgassforetak. De delene av et LNG-anlegg som brukes til lagring, omfattes også*LNG-anlegg:* en terminal som brukes til omdanning av naturgass til væske eller import, lossing og regassifisering av LNG, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)), også tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringen og den påfølgende levering til transmisjonsnettet. De delene av et LNG-anlegg som brukes til lagring, omfattes ikke*transmisjon:* transport av naturgass gjennom et høytrykksrørledningsnett med sikte på levering til kunder. Transport gjennom et oppstrøms gassrørledningsnett eller et høytrykksrørledningsnett som hovedsakelig anvendes i forbindelse med lokal distribusjon av naturgass, omfattes ikke*distribusjon:* transport av naturgass gjennom lokale eller regionale gassrørledningsnett med sikte på levering til kunder*forsyning:* levering eller salg av naturgass, også LNG, til kunder*systemoperatør:* et foretak som er utpekt som transmisjons-, distribusjons-, lager- eller LNG-systemoperatører i henhold til [naturgassloven § 5](lov/2002-06-28-61/§5)*system:* ethvert transmisjons- eller distribusjonsnett, LNG-anlegg eller lageranlegg som eies eller drives av et naturgassforetak, lagring i rørledning og foretakets anlegg som yter tilknyttede tjenester, samt tilknyttede foretaks anlegg som er nødvendige for å gi adgang til transmisjon, distribusjon og LNG*systembruker:* enhver fysisk eller juridisk person som forsyner eller forsynes fra et system*sikkerhet:* både forsyningssikkerhet og teknisk sikkerhet*naturgassforetak:* enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)): produksjon, transmisjon, distribusjon, forsyning, innkjøp eller lagring av naturgass, også nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige eller tekniske oppgavene eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder*kunder:* naturgassforetak som kjøper naturgass, grossister eller sluttkunder av naturgass*forbrukere:* fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet*adgang:* mulighet til å bruke systemet til å distribuere naturgass og nødvendig tilknytning for slik distribusjon*tariffer:* alle priser og annet økonomisk vederlag som systemoperatøren fastsetter for adgang til systemet.
+I denne forskriften forstås med
+
+1. *loven:* [lov 28. juni 2002 nr. 61](lov/2002-06-28-61) om felles regler for det indre marked for naturgass
+2. *lageranlegg:* et anlegg som brukes til lagring av naturgass, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)) og eies eller drives av et naturgassforetak. De delene av et LNG-anlegg som brukes til lagring, omfattes også
+3. *LNG-anlegg:* en terminal som brukes til omdanning av naturgass til væske eller import, lossing og regassifisering av LNG, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)), også tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringen og den påfølgende levering til transmisjonsnettet. De delene av et LNG-anlegg som brukes til lagring, omfattes ikke
+4. *transmisjon:* transport av naturgass gjennom et høytrykksrørledningsnett med sikte på levering til kunder. Transport gjennom et oppstrøms gassrørledningsnett eller et høytrykksrørledningsnett som hovedsakelig anvendes i forbindelse med lokal distribusjon av naturgass, omfattes ikke
+5. *distribusjon:* transport av naturgass gjennom lokale eller regionale gassrørledningsnett med sikte på levering til kunder
+6. *forsyning:* levering eller salg av naturgass, også LNG, til kunder
+7. *systemoperatør:* et foretak som er utpekt som transmisjons-, distribusjons-, lager- eller LNG-systemoperatører i henhold til [naturgassloven § 5](lov/2002-06-28-61/§5)
+8. *system:* ethvert transmisjons- eller distribusjonsnett, LNG-anlegg eller lageranlegg som eies eller drives av et naturgassforetak, lagring i rørledning og foretakets anlegg som yter tilknyttede tjenester, samt tilknyttede foretaks anlegg som er nødvendige for å gi adgang til transmisjon, distribusjon og LNG
+9. *systembruker:* enhver fysisk eller juridisk person som forsyner eller forsynes fra et system
+10. *sikkerhet:* både forsyningssikkerhet og teknisk sikkerhet
+11. *naturgassforetak:* enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)): produksjon, transmisjon, distribusjon, forsyning, innkjøp eller lagring av naturgass, også nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige eller tekniske oppgavene eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder
+12. *kunder:* naturgassforetak som kjøper naturgass, grossister eller sluttkunder av naturgass
+13. *forbrukere:* fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet
+14. *adgang:* mulighet til å bruke systemet til å distribuere naturgass og nødvendig tilknytning for slik distribusjon
+15. *tariffer:* alle priser og annet økonomisk vederlag som systemoperatøren fastsetter for adgang til systemet.
 
 > Endret ved [forskrifter 1 feb 2008 nr. 87](forskrift/2008-02-01-87), [24 okt 2019 nr. 1435](forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 1-2).
 
@@ -72,7 +88,16 @@ For prosjekter som gjelder transport av gass i rørledning med en diameter på m
 
 ### § 2-2. Søknad
 
-Søknad om konsesjon med tilhørende anleggsplan sendes departementet og skal inneholdeen beskrivelse av søkeren og dennes virksomhetplanlagt tidspunkt for påbegynnelse og fullførelse av anleggeten teknisk beskrivelse av anlegget med kartvedleggen begrunnelse for tiltaketen vurdering av økonomiske forhold og en redegjørelse for areal- og miljøvirkninger av tiltaketen beskrivelse av behov for tillatelser etter annen lov, herunder forholdet til kommunale planer etter plan- og bygningslovenen redegjørelse for forholdet til energiutredninger utarbeidet i henhold til forskrift om energiutredningerøvrige opplysninger som er nødvendig for å vurdere om tillatelse bør gis. Departementet kan fastsette nærmere hvilke opplysninger eller undersøkelser søkeren må sørge for.
+Søknad om konsesjon med tilhørende anleggsplan sendes departementet og skal inneholde
+
+1. en beskrivelse av søkeren og dennes virksomhet
+2. planlagt tidspunkt for påbegynnelse og fullførelse av anlegget
+3. en teknisk beskrivelse av anlegget med kartvedlegg
+4. en begrunnelse for tiltaket
+5. en vurdering av økonomiske forhold og en redegjørelse for areal- og miljøvirkninger av tiltaket
+6. en beskrivelse av behov for tillatelser etter annen lov, herunder forholdet til kommunale planer etter plan- og bygningsloven
+7. en redegjørelse for forholdet til energiutredninger utarbeidet i henhold til forskrift om energiutredninger
+8. øvrige opplysninger som er nødvendig for å vurdere om tillatelse bør gis. Departementet kan fastsette nærmere hvilke opplysninger eller undersøkelser søkeren må sørge for.
 
 Kunngjøring av søknaden, en kort beskrivelse av planene, opplysninger om hvor søknaden er utlagt og fristen for å gi uttalelse skal rykkes inn i Norsk lysingsblad og i en eller flere aviser alminnelig lest i distriktet. Søkeren betaler utgiftene ved utleggelse og kunngjøring. Kunngjøring kan unnlates når det finnes ubetenkelig.
 
@@ -94,7 +119,17 @@ Konsesjon skal gis på grunnlag av ikke-diskriminerende, saklige og objektive kr
 
 ### § 2-4. Vilkår for konsesjon
 
-For konsesjoner etter [§ 2-3](forskrift/2003-11-14-1342/§2-3) kan det fastsettes vilkår om:konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og om bortsettelse av drift,nedleggelse og rydding av anlegg, herunder om frister og dekning av utgifter,tekniske forhold,beredskapsmessige forhold,trasévalg,tilrettelegging for eller tilkobling av andre anlegg eller systemer,dimensjonering,tiltak for å redusere skader eller ulemper av anlegget for miljø og annen arealbruk,deltagelse i energiplanlegging etter [energiloven § 7-1](lov/1990-06-29-50/§7-1).
+For konsesjoner etter [§ 2-3](forskrift/2003-11-14-1342/§2-3) kan det fastsettes vilkår om:
+
+1. konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og om bortsettelse av drift,
+2. nedleggelse og rydding av anlegg, herunder om frister og dekning av utgifter,
+3. tekniske forhold,
+4. beredskapsmessige forhold,
+5. trasévalg,
+6. tilrettelegging for eller tilkobling av andre anlegg eller systemer,
+7. dimensjonering,
+8. tiltak for å redusere skader eller ulemper av anlegget for miljø og annen arealbruk,
+9. deltagelse i energiplanlegging etter [energiloven § 7-1](lov/1990-06-29-50/§7-1).
 
 Departementet kan stille som vilkår for konsesjon etter [§ 2-3](forskrift/2003-11-14-1342/§2-3) at konsesjonæren forplikter seg til å yte nærmere definerte offentlige tjenester som kan vedrøre sikkerhet, herunder forsyningssikkerhet, regelmessighet, kvaliteten på og prisen for forsyningene, samt miljøvern, herunder energieffektivitet og klimabeskyttelse.
 
@@ -186,7 +221,10 @@ Systemoperatøren skal sørge for at innmating og uttak av naturgass i systemet 
 
 Systemoperatøren skal gi adgang til systemet etter anmodning fra et naturgassforetak i samsvar med vilkår fastsatt etter [§ 3-1](forskrift/2003-11-14-1342/§3-1).
 
-Systemoperatøren kan nekte adgang til systemet dersomdet ikke er kapasitet i systemetreguleringsmyndigheten har fattet et vedtak om unntak etter [§ 5-2](forskrift/2003-11-14-1342/§5-2) eller [§ 5-3](forskrift/2003-11-14-1342/§5-3).
+Systemoperatøren kan nekte adgang til systemet dersom
+
+1. det ikke er kapasitet i systemet
+2. reguleringsmyndigheten har fattet et vedtak om unntak etter [§ 5-2](forskrift/2003-11-14-1342/§5-2) eller [§ 5-3](forskrift/2003-11-14-1342/§5-3).
 
 Systemoperatøren skal gi skriftlig begrunnelse for et avslag på en anmodning om adgang til systemet etter første ledd.
 
@@ -198,7 +236,13 @@ Systemoperatør for distribusjonssystemet i områdene Jæren og Ryfylke er unnta
 
 Reguleringsmyndigheten skal innen utløpet av tidsfristen i første ledd fatte vedtak om eventuell forlengelse av unntaket for en ny periode på fem år. Slik unntak kan deretter fornyes hvert femte år, maksimalt inntil 20 år etter ikrafttredelsen av [EØS-komiteens beslutning nr. 93/2017](eu/22017d0093) av 5. mai 2017.
 
-Unntaket etter første ledd kan forlenges dersom krav om adgang til systemet vil skape betydelige problemer, særlig for utvikling av og investeringer i systemet. I vurderingen skal reguleringsmyndigheten vektleggebehovet for investeringer i systemet som ikke vil være lønnsomme med tredjepartsadgangomfanget av nødvendige investeringer og mulighetene til å tjene inn investeringenestørrelsen på systemet og utbyggingsgradhvordan markedet er ventet å utvikle seg videreden geografiske størrelsen og særtrekk ved området, inkludert samfunnsøkonomiske og demografiske faktorer.
+Unntaket etter første ledd kan forlenges dersom krav om adgang til systemet vil skape betydelige problemer, særlig for utvikling av og investeringer i systemet. I vurderingen skal reguleringsmyndigheten vektlegge
+
+1. behovet for investeringer i systemet som ikke vil være lønnsomme med tredjepartsadgang
+2. omfanget av nødvendige investeringer og mulighetene til å tjene inn investeringene
+3. størrelsen på systemet og utbyggingsgrad
+4. hvordan markedet er ventet å utvikle seg videre
+5. den geografiske størrelsen og særtrekk ved området, inkludert samfunnsøkonomiske og demografiske faktorer.
 
 Før reguleringsmyndigheten fatter et vedtak skal den oversende et begrunnet forslag til EFTAs overvåkningsorgan for konsultasjon.
 
@@ -208,7 +252,17 @@ EFTAs overvåkningsorgan kan innen to måneder etter at reguleringsmyndigheten h
 
 ### § 5-3. Unntak knyttet til avtaler med faste betalingsforpliktelser
 
-Systemoperatøren kan søke reguleringsmyndigheten om midlertidig unntak fra [§ 5-1](forskrift/2003-11-14-1342/§5-1) første ledd dersom adgang til systemet vil skape betydelige økonomiske problemer for systemoperatøren på grunn av avtaler om kjøp av gass med faste betalingsforpliktelser. I vurderingen av om søknaden skal innvilges, skal reguleringsmyndigheten vektlegge:målet om å skape et konkurransebasert gassmarkedom unntak er nødvendig for å oppfylle forpliktelser til å yte offentlige tjenester og garantere forsyningssikkerhetensystemoperatørens stilling i gassmarkedet og den faktiske konkurransen i dette markedetomfanget av de økonomiske problemene til systemoperatøren som oppstår som følge av avtaler med faste betalingsforpliktelsertidspunktet avtalen ble inngått, innholdet i avtalevilkårene og i hvor stor grad avtalevilkårene er tilpasset markedsutviklingenhvilke tiltak som er forsøkt for å overvinne de økonomiske problemene som betalingsforpliktelsene fører tilom foretaket, da det forpliktet seg, med rimelighet kunne ha forutsett at de økonomiske problemene kunne oppståom systemet er koplet sammen med andre nett, og i hvilken grad nettene har evne til å virke sammenhvordan et unntak kan påvirke formålet med tredjepartsadgang og hensynet til det indre markedet.
+Systemoperatøren kan søke reguleringsmyndigheten om midlertidig unntak fra [§ 5-1](forskrift/2003-11-14-1342/§5-1) første ledd dersom adgang til systemet vil skape betydelige økonomiske problemer for systemoperatøren på grunn av avtaler om kjøp av gass med faste betalingsforpliktelser. I vurderingen av om søknaden skal innvilges, skal reguleringsmyndigheten vektlegge:
+
+1. målet om å skape et konkurransebasert gassmarked
+2. om unntak er nødvendig for å oppfylle forpliktelser til å yte offentlige tjenester og garantere forsyningssikkerheten
+3. systemoperatørens stilling i gassmarkedet og den faktiske konkurransen i dette markedet
+4. omfanget av de økonomiske problemene til systemoperatøren som oppstår som følge av avtaler med faste betalingsforpliktelser
+5. tidspunktet avtalen ble inngått, innholdet i avtalevilkårene og i hvor stor grad avtalevilkårene er tilpasset markedsutviklingen
+6. hvilke tiltak som er forsøkt for å overvinne de økonomiske problemene som betalingsforpliktelsene fører til
+7. om foretaket, da det forpliktet seg, med rimelighet kunne ha forutsett at de økonomiske problemene kunne oppstå
+8. om systemet er koplet sammen med andre nett, og i hvilken grad nettene har evne til å virke sammen
+9. hvordan et unntak kan påvirke formålet med tredjepartsadgang og hensynet til det indre markedet.
 
 Før reguleringsmyndigheten fatter enkeltvedtak etter første ledd, skal den oversende et begrunnet forslag til vedtak til EFTAs overvåkningsorgan for konsultasjon.
 

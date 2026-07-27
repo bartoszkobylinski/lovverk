@@ -30,7 +30,11 @@ Formålet med forskriften er å etablere en midlertidig ordning for omfordeling 
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås:*Nettselskap:* Omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Mottaker:* Nettselskap med inntektsramme som får rett til utbetaling etter fastsettelse i [§ 5](forskrift/2022-10-27-1806/§5).*Flaskehalsinntekter:* Flaskehalsinntekter mellom budområder internt i Norge og fra mellomlandsforbindelsen til Storbritannia.
+I denne forskrift forstås:
+
+1. *Nettselskap:* Omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.
+2. *Mottaker:* Nettselskap med inntektsramme som får rett til utbetaling etter fastsettelse i [§ 5](forskrift/2022-10-27-1806/§5).
+3. *Flaskehalsinntekter:* Flaskehalsinntekter mellom budområder internt i Norge og fra mellomlandsforbindelsen til Storbritannia.
 
 ### § 3. Virkeområde
 
@@ -54,7 +58,11 @@ Rapporteringen av tilgjengelig beløp skal basere seg på en helhetlig vurdering
 
 Reguleringsmyndigheten for energi fastsetter ved enkeltvedtak et beløp som skal utbetales fra Statnett SF til hver mottaker.
 
-Beløp til utbetaling fastsettes basert på en helhetlig vurdering av inntekter og kostnader over tid hvor målet er at alle flaskehalsinntekter som ikke er nødvendige for å dekke Statnett SF sine kostnader, bør overføres til underliggende nett. Overførte flaskehalsinntekter skal ikke overstige Statnett SF sin merinntekt. Beløpet som utbetales beregnes og fordeles mellom mottakerne på følgende måte:Det beregnes et nettapsvolum og en kraftpris for hvert av nettselskapene for beregningsperioden. Beregningsperioden regnes fra årets start til utgangen av kvartalet det beregnes en utbetaling for. Årlig nettapsvolum er identisk med det som inngår i inntektsrammen for det aktuelle året, og dette skal fordeles per måned ved bruk av tabell 12824 Elektrisitetsbalanse fra Statistisk sentralbyrå. Kraftprisen baserer seg på faktiske områdespotpriser, og terminpriser der faktisk kraftpris ikke er tilgjengelig. Den beregnede kraftprisen korrigeres for tilskudd som allerede er utbetalt.Reguleringsmyndigheten for energi beregner en terskelpris for å motta utbetaling, slik at beløpene som samlet utbetales er lik beløpet som er tilgjengelig for utbetaling fra Statnett SF. Terskelprisen kan ikke være lavere enn 350 kr/MWh.Nettselskaper med beregnet kraftpris over terskelprisen mottar utbetaling tilsvarende deres nettapsvolum multiplisert med differansen mellom deres kraftpris og terskelpris.
+Beløp til utbetaling fastsettes basert på en helhetlig vurdering av inntekter og kostnader over tid hvor målet er at alle flaskehalsinntekter som ikke er nødvendige for å dekke Statnett SF sine kostnader, bør overføres til underliggende nett. Overførte flaskehalsinntekter skal ikke overstige Statnett SF sin merinntekt. Beløpet som utbetales beregnes og fordeles mellom mottakerne på følgende måte:
+
+1. Det beregnes et nettapsvolum og en kraftpris for hvert av nettselskapene for beregningsperioden. Beregningsperioden regnes fra årets start til utgangen av kvartalet det beregnes en utbetaling for. Årlig nettapsvolum er identisk med det som inngår i inntektsrammen for det aktuelle året, og dette skal fordeles per måned ved bruk av tabell 12824 Elektrisitetsbalanse fra Statistisk sentralbyrå. Kraftprisen baserer seg på faktiske områdespotpriser, og terminpriser der faktisk kraftpris ikke er tilgjengelig. Den beregnede kraftprisen korrigeres for tilskudd som allerede er utbetalt.
+2. Reguleringsmyndigheten for energi beregner en terskelpris for å motta utbetaling, slik at beløpene som samlet utbetales er lik beløpet som er tilgjengelig for utbetaling fra Statnett SF. Terskelprisen kan ikke være lavere enn 350 kr/MWh.
+3. Nettselskaper med beregnet kraftpris over terskelprisen mottar utbetaling tilsvarende deres nettapsvolum multiplisert med differansen mellom deres kraftpris og terskelpris.
 
 Mottakere skal sende faktura til Statnett SF med krav om utbetaling.
 

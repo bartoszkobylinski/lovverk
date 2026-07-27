@@ -26,7 +26,15 @@ eu_basis: []
 
 Formålet med retningslinjene er å sikre at klima og energi vektlegges i planleggingen etter [plan- og bygningsloven](lov/2008-06-27-71) og øvrig myndighetsutøvelse og virksomhet i staten, kommunene og fylkeskommunene. Klima omfatter både reduksjon av klimagassutslipp, karbonopptak og -lagring og tilpasning til forventede klimaendringer. Retningslinjene tydeliggjør statens forventninger til hvordan dette skal gjøres, og statens bidrag til kunnskapsgrunnlag og veiledning.
 
-Retningslinjene skal bidra til at:Norge når sine nasjonale klimamål som fastsatt i [klimaloven](lov/2017-06-16-60)livsgrunnlaget og naturmangfoldet sikres for dagens og framtidige generasjonergod forsyningssikkerhet for energi opprettholdessamfunnet og økosystemene forberedes på og tilpasses klimaendringenearbeidet med å redusere klimagassutslipp, mer effektiv og fleksibel energibruk, bedre klimatilpasning og andre miljømål ses i sammenhengstat, fylkeskommuner og kommuner får klargjort sine roller og ansvarkommuner og fylkeskommuner prioriterer klima- og energihensyn i sin myndighetsutøvelse, og kommunene i sin virksomhet.
+Retningslinjene skal bidra til at:
+
+1. Norge når sine nasjonale klimamål som fastsatt i [klimaloven](lov/2017-06-16-60)
+2. livsgrunnlaget og naturmangfoldet sikres for dagens og framtidige generasjoner
+3. god forsyningssikkerhet for energi opprettholdes
+4. samfunnet og økosystemene forberedes på og tilpasses klimaendringene
+5. arbeidet med å redusere klimagassutslipp, mer effektiv og fleksibel energibruk, bedre klimatilpasning og andre miljømål ses i sammenheng
+6. stat, fylkeskommuner og kommuner får klargjort sine roller og ansvar
+7. kommuner og fylkeskommuner prioriterer klima- og energihensyn i sin myndighetsutøvelse, og kommunene i sin virksomhet.
 
 ## 2. Virkeområde
 
@@ -42,7 +50,13 @@ Statsforvalteren, statlige sektormyndigheter og fylkeskommunene skal legge retni
 
 Hensynet til klima, natur og energi skal ha høy prioritet i sektorenes arbeid, og sees i sammenheng. Det skal også tas hensyn til effektiv ressursbruk for samfunnet.
 
-Statlige, regionale og kommunale organer skal i sin planlegging og enkeltvedtak etter [plan- og bygningsloven](lov/2008-06-27-71) eller annen lovgivning legge til rette for:arealbruk og løsninger som reduserer klimagassutslippene, opprettholder arealenes evne til karbonopptak- og lagring og støtter omstilling til et lavutslippssamfunneffektiv og fleksibel energibrukutbygging av fornybar energien sirkulær økonomiat samfunnet og økosystemene forberedes på og tilpasses et klima i endring.
+Statlige, regionale og kommunale organer skal i sin planlegging og enkeltvedtak etter [plan- og bygningsloven](lov/2008-06-27-71) eller annen lovgivning legge til rette for:
+
+1. arealbruk og løsninger som reduserer klimagassutslippene, opprettholder arealenes evne til karbonopptak- og lagring og støtter omstilling til et lavutslippssamfunn
+2. effektiv og fleksibel energibruk
+3. utbygging av fornybar energi
+4. en sirkulær økonomi
+5. at samfunnet og økosystemene forberedes på og tilpasses et klima i endring.
 
 Kommunene skal også legge til rette for dette i sin øvrige virksomhet, og fylkeskommunene bør gjøre det samme så langt de finner det formålstjenlig.
 
@@ -58,29 +72,83 @@ Planer i strid med retningslinjene kan gi grunnlag for innsigelse eller innvendi
 
 ### 4.1 Staten, fylkeskommunene og kommunene sitt ansvar for å skaffe og bruke kunnskap
 
-Staten skal levere følgende oppdaterte kunnskap til bruk i omstillingsarbeidet:regnskap for direkte utslipp i kommuneneregnskap for utslipp og opptak fra skog- og arealbrukssektoren i kommunenekommunefordelt energiregnskap
+Staten skal levere følgende oppdaterte kunnskap til bruk i omstillingsarbeidet:
 
-Staten skal gi veiledning og informasjon om:aktuelle klimatiltak og virkemidlerkarbonrike arealerhvordan kommunen kan få en overordnet oversikt over direkte klimagassutslipp fra kommunenes egen virksomheteffektiv og fleksibel energibrukhvordan sirkulær økonomi kan bidra til å redusere klimagassutslipprelevante verktøy
+1. regnskap for direkte utslipp i kommunene
+2. regnskap for utslipp og opptak fra skog- og arealbrukssektoren i kommunene
+3. kommunefordelt energiregnskap
 
-Fylkeskommunene skal ta oppdatert kunnskap i bruk i regional planlegging, herunder:bruke kunnskap omtalt i punkt 4.1 bokstav a–ii sitt planarbeid ha oversikt over regionale aktiviteter og utviklingstrekk som kan medføre betydelige endringer i klimagassutslipp og energibrukbruke kunnskapen i punkt 4.1 bokstav a–k i sin rolle som veileder for kommunene
+Staten skal gi veiledning og informasjon om:
+
+1. aktuelle klimatiltak og virkemidler
+2. karbonrike arealer
+3. hvordan kommunen kan få en overordnet oversikt over direkte klimagassutslipp fra kommunenes egen virksomhet
+4. effektiv og fleksibel energibruk
+5. hvordan sirkulær økonomi kan bidra til å redusere klimagassutslipp
+6. relevante verktøy
+
+Fylkeskommunene skal ta oppdatert kunnskap i bruk i regional planlegging, herunder:
+
+1. bruke kunnskap omtalt i punkt 4.1 bokstav a–i
+2. i sitt planarbeid ha oversikt over regionale aktiviteter og utviklingstrekk som kan medføre betydelige endringer i klimagassutslipp og energibruk
+3. bruke kunnskapen i punkt 4.1 bokstav a–k i sin rolle som veileder for kommunene
 
 Fylkeskommunene og statsforvalterne bør ta initiativ til samarbeid og læring om klimaomstilling på tvers av kommunegrenser og regioner, og spesielt rette sitt arbeid mot kommuner som vil ha særlig stor nytte av det. Det samme gjelder for effektiv og fleksibel energibruk.
 
-Kommunene skal ta oppdatert kunnskap i bruk i egen samfunns- og arealplanlegging, annen myndighetsutøvelse og i kommunens øvrige virksomhet, herunder:bruke kunnskap omtalt i punkt 4.1 bokstav a–iha en overordnet oversikt over direkte klimagassutslipp fra kommunens egen virksomhetha oppdatert oversikt over energibruk, relevante energieffektiviseringstiltak og muligheten for lokal energiproduksjon i kommunens egen virksomhetha oppdatert oversikt over muligheten for forsyning av varme og kjøling basert på lokale energikilder, herunder overskuddsvarmeha oversikt over lokale aktiviteter og utviklingstrekk som kan medføre betydelige endringer i klimagassutslipp og energibrukinnhente informasjon fra lokale nettkonsesjonærer om kraftnett og søke å innhente informasjon fra fjernvarmeaktører om fjernvarmenettsamarbeide med nettselskapene i deres utredningsprosesser, blant annet for å avdekke behov for utvidelser i kraftnettkapasitet og alternativer til dette
+Kommunene skal ta oppdatert kunnskap i bruk i egen samfunns- og arealplanlegging, annen myndighetsutøvelse og i kommunens øvrige virksomhet, herunder:
+
+1. bruke kunnskap omtalt i punkt 4.1 bokstav a–i
+2. ha en overordnet oversikt over direkte klimagassutslipp fra kommunens egen virksomhet
+3. ha oppdatert oversikt over energibruk, relevante energieffektiviseringstiltak og muligheten for lokal energiproduksjon i kommunens egen virksomhet
+4. ha oppdatert oversikt over muligheten for forsyning av varme og kjøling basert på lokale energikilder, herunder overskuddsvarme
+5. ha oversikt over lokale aktiviteter og utviklingstrekk som kan medføre betydelige endringer i klimagassutslipp og energibruk
+6. innhente informasjon fra lokale nettkonsesjonærer om kraftnett og søke å innhente informasjon fra fjernvarmeaktører om fjernvarmenett
+7. samarbeide med nettselskapene i deres utredningsprosesser, blant annet for å avdekke behov for utvidelser i kraftnettkapasitet og alternativer til dette
 
 Ved planlegging der samiske rettighetshavere og interesser blir berørt skal kommuner og fylkeskommuner gjennomføre konsultasjoner med representanter for berørte samiske interesser, dersom de ønsker dette.
 
 ### 4.2 Retningslinjer for overordnet kommunal og regional klima- og energiplanlegging
 
-Fastsetting og oppfølging av mål og tiltak i styringsdokumenter:Kommunene skal i sin samfunnsplanlegging innarbeide ambisiøse og konkrete mål, tiltak og virkemidler for klimaomstilling, og effektiv og fleksibel energibruk, i egen virksomhet og innen sitt geografiske område, i tråd med punkt 4.1 bokstav m–s.Kommunen skal i sitt arbeid med mål, tiltak og virkemidler legge til rette for innspill og medvirkning fra innbyggere, næringsliv og sivilsamfunn.Målene skal knyttes til konkrete tiltak og virkemidler, og innarbeides i styringsdokumenter som revideres regelmessig, minst hvert fjerde år.Kommunene bør prioritere tiltak og virkemidler som er kostnadseffektive sammenlignet med andre tiltak og virkemidler som kan gjennomføres for å nå målene kommunene fastsetter.Styringsdokumentene skal vise en tydelig fordeling av ansvar for oppfølging, og ha tidsfrister for gjennomføring av tiltak.Fylkeskommunene skal i sin regionale planstrategi sette ambisiøse og konkrete klima- og energimål, og vurdere hvordan klima- og energihensyn skal tas opp gjennom videre regional planlegging. Dersom konkrete klima- og energimål er forankret i en vedtatt regional plan, trenger det ikke å inngå i planstrategien.Fylkeskommunen skal i sitt arbeid med klima- og energimål jf. punkt 4.2 bokstav f legge til rette for innspill fra kommunene.Fylkeskommunene bør utarbeide mål, tiltak og virkemidler for klima og energi i egen virksomhet i den grad de finner det formålstjenlig. Mål og eventuelle tiltak bør følge samme retningslinjer for klima- og energiarbeidet som gjelder for kommunene.Kommunene og fylkeskommunene skal jevnlig evaluere sin måloppnåelse. Evalueringen skal legges til grunn i den regelmessige revideringen jf. punkt 4.2 bokstav c, og offentliggjøres.
+Fastsetting og oppfølging av mål og tiltak i styringsdokumenter:
 
-Retningslinjer for klima- og energiarbeidet:Kommunene skal arbeide for lavest mulig utslipp og strekke seg mot nullutslipp i hele sin virksomhet.Kommunene skal ta i bruk og fremme klimavennlige og energieffektive løsninger i egen virksomhet, og i sine innkjøp av varer og tjenester etter regelverket om offentlige anskaffelser.Kommunene skal redusere energibruken i egen drift, og gjennomføre tiltak som øker energifleksibiliteten der dette er relevant. Dette skal skje på en måte som hensyntar klima.Kommunene og fylkeskommunene skal i sin rolle som samfunnsutvikler, aktivt legge til rette for at næringslivet og innbyggerne kutter sine utslipp, sin energibruk, og omstiller seg til lavutslippssamfunnet og en sirkulær økonomi. Dette bør skje i dialog med relevante aktører innenfor blant annet renovasjon og ombruk.Kommunene skal samarbeide med fjernvarmekonsesjonærer for å utnytte lokale varmeressurser på en god måte.Kommunene skal samarbeide med nettselskapene i deres utredningsprosesser, herunder i å avdekke behov for utvidelser i kraftnettkapasitet og alternativer til dette.
+1. Kommunene skal i sin samfunnsplanlegging innarbeide ambisiøse og konkrete mål, tiltak og virkemidler for klimaomstilling, og effektiv og fleksibel energibruk, i egen virksomhet og innen sitt geografiske område, i tråd med punkt 4.1 bokstav m–s.
+2. Kommunen skal i sitt arbeid med mål, tiltak og virkemidler legge til rette for innspill og medvirkning fra innbyggere, næringsliv og sivilsamfunn.
+3. Målene skal knyttes til konkrete tiltak og virkemidler, og innarbeides i styringsdokumenter som revideres regelmessig, minst hvert fjerde år.
+4. Kommunene bør prioritere tiltak og virkemidler som er kostnadseffektive sammenlignet med andre tiltak og virkemidler som kan gjennomføres for å nå målene kommunene fastsetter.
+5. Styringsdokumentene skal vise en tydelig fordeling av ansvar for oppfølging, og ha tidsfrister for gjennomføring av tiltak.
+6. Fylkeskommunene skal i sin regionale planstrategi sette ambisiøse og konkrete klima- og energimål, og vurdere hvordan klima- og energihensyn skal tas opp gjennom videre regional planlegging. Dersom konkrete klima- og energimål er forankret i en vedtatt regional plan, trenger det ikke å inngå i planstrategien.
+7. Fylkeskommunen skal i sitt arbeid med klima- og energimål jf. punkt 4.2 bokstav f legge til rette for innspill fra kommunene.
+8. Fylkeskommunene bør utarbeide mål, tiltak og virkemidler for klima og energi i egen virksomhet i den grad de finner det formålstjenlig. Mål og eventuelle tiltak bør følge samme retningslinjer for klima- og energiarbeidet som gjelder for kommunene.
+9. Kommunene og fylkeskommunene skal jevnlig evaluere sin måloppnåelse. Evalueringen skal legges til grunn i den regelmessige revideringen jf. punkt 4.2 bokstav c, og offentliggjøres.
+
+Retningslinjer for klima- og energiarbeidet:
+
+1. Kommunene skal arbeide for lavest mulig utslipp og strekke seg mot nullutslipp i hele sin virksomhet.
+2. Kommunene skal ta i bruk og fremme klimavennlige og energieffektive løsninger i egen virksomhet, og i sine innkjøp av varer og tjenester etter regelverket om offentlige anskaffelser.
+3. Kommunene skal redusere energibruken i egen drift, og gjennomføre tiltak som øker energifleksibiliteten der dette er relevant. Dette skal skje på en måte som hensyntar klima.
+4. Kommunene og fylkeskommunene skal i sin rolle som samfunnsutvikler, aktivt legge til rette for at næringslivet og innbyggerne kutter sine utslipp, sin energibruk, og omstiller seg til lavutslippssamfunnet og en sirkulær økonomi. Dette bør skje i dialog med relevante aktører innenfor blant annet renovasjon og ombruk.
+5. Kommunene skal samarbeide med fjernvarmekonsesjonærer for å utnytte lokale varmeressurser på en god måte.
+6. Kommunene skal samarbeide med nettselskapene i deres utredningsprosesser, herunder i å avdekke behov for utvidelser i kraftnettkapasitet og alternativer til dette.
 
 ### 4.3 Retningslinjer for hvordan energi, opptak og utslipp av klimagasser skal ivaretas i arealplanlegging
 
 For å nå nasjonale klimamål, må arealplanleggingen legge til rette for utslippsfrie, arealeffektive, energieffektive og ressurseffektive løsninger.
 
-Følgende gjelder for hvordan klima- og energihensyn skal ivaretas i arealplanleggingen:Reduksjon av klimagassutslipp skal vektlegges i arealplanleggingenVed revisjon av kommuneplanens arealdel skal kommunen vurdere om tidligere vedtatt arealbruk svarer til gjeldende nasjonale klimamål. Det skal vurderes å ta ut eller redusere omfanget av utbyggingsarealer som ikke lenger bør bygges ut.Planmyndigheten skal vurdere om tiltak som har negativ klimaeffekt kan unngås, flyttes eller forbedres (UFF-rammeverket).For å nå lavutslippssamfunnet skal planmyndigheten aktivt legge til rette for at transport, bosetting og næringsaktiviteter kan skje med så lave utslipp som mulig og at det tilrettelegges for effektiv og fleksibel energibruk.Planmyndigheten skal ha oversikt over hvilke arealer som er betydelige karbonlagre, på land og i sjø. Omdisponering og nedbygging av karbonrike arealer, inkludert myr, tidevannssump og andre typer våtmark og skog, skal unngås så langt som mulig, slik at arealenes evne til lagring og opptak av karbon opprettholdes. Alternative arealer skal vurderes, og konsekvenser skal belyses.Det bør utarbeides arealregnskap som del av kunnskapsgrunnlaget i kommuneplanarbeidet. Naturregnskap bør vurderes.Kommunene bør legge til rette for mer fornybar energiproduksjon og avklare behovet for areal til vindkraft og solkraft.Når det planlegges større utbyggingsområder skal det vurderes om det kan produseres fornybar energi på området. For å begrense den totale nedbyggingen av landbruks- og naturområder må energitiltaket løses på allerede nedbygde arealer eller i kombinasjon med andre utbyggingsformål.Kommunene skal legge til rette for utnyttelse av lokale varme- og kjølekilder, herunder overskuddsvarme. Kommunene skal også legge til rette for fjernvarme eller andre felles løsninger for varme- og kjøleforsyning der det er hensiktsmessig.Ved planlegging av nye områder for utbygging, fortetting eller transformasjon, skal planmyndigheten vurdere hvordan tilrettelegging for sirkulære løsninger kan bidra til reduserte klimagassutslipp og klimatilpasning, f.eks. samlokalisering, massehåndtering og god infrastruktur for ombruk og avfall.Kommunene skal vurdere og ha dialog med utbyggere om rehabilitering og gjenbruk av bygninger samlet sett er en mer bærekraftig løsning for å redusere klimagassutslipp og ressursbruk enn regulering til riving.Kommunene skal sette av tilstrekkelig areal på egnede steder til hurtigladestasjoner og fyllestasjoner for hydrogen og biodrivstoff for kjøretøy og fartøy, og søke å koordinere dette slik at det er en god lokal og regional spredning på ladestasjonene. Kommunene skal vurdere mulighetene for å sette av tilstrekkelig areal til alternative drivstoff og landstrøm til større fartøy. Fylkeskommunen bør i sin planlegging vurdere hensiktsmessig plassering av ladeinfrastruktur i et regionalt perspektiv, i dialog med relevante aktører.Planbeskrivelsen og saksframlegget skal vise hvordan nasjonale hensyn til klimagassreduksjon, klimatilpasning og energi er ivaretatt jf. [plan- og bygningsloven §§ 4-2 første ledd](lov/2008-06-27-71/§4-2/ledd/1) og [11-14 andre ledd](lov/2008-06-27-71/§11-14/ledd/2) og [12-12 første ledd](lov/2008-06-27-71/§12-12/ledd/1).
+Følgende gjelder for hvordan klima- og energihensyn skal ivaretas i arealplanleggingen:
+
+1. Reduksjon av klimagassutslipp skal vektlegges i arealplanleggingen
+2. Ved revisjon av kommuneplanens arealdel skal kommunen vurdere om tidligere vedtatt arealbruk svarer til gjeldende nasjonale klimamål. Det skal vurderes å ta ut eller redusere omfanget av utbyggingsarealer som ikke lenger bør bygges ut.
+3. Planmyndigheten skal vurdere om tiltak som har negativ klimaeffekt kan unngås, flyttes eller forbedres (UFF-rammeverket).
+4. For å nå lavutslippssamfunnet skal planmyndigheten aktivt legge til rette for at transport, bosetting og næringsaktiviteter kan skje med så lave utslipp som mulig og at det tilrettelegges for effektiv og fleksibel energibruk.
+5. Planmyndigheten skal ha oversikt over hvilke arealer som er betydelige karbonlagre, på land og i sjø. Omdisponering og nedbygging av karbonrike arealer, inkludert myr, tidevannssump og andre typer våtmark og skog, skal unngås så langt som mulig, slik at arealenes evne til lagring og opptak av karbon opprettholdes. Alternative arealer skal vurderes, og konsekvenser skal belyses.
+6. Det bør utarbeides arealregnskap som del av kunnskapsgrunnlaget i kommuneplanarbeidet. Naturregnskap bør vurderes.
+7. Kommunene bør legge til rette for mer fornybar energiproduksjon og avklare behovet for areal til vindkraft og solkraft.
+8. Når det planlegges større utbyggingsområder skal det vurderes om det kan produseres fornybar energi på området. For å begrense den totale nedbyggingen av landbruks- og naturområder må energitiltaket løses på allerede nedbygde arealer eller i kombinasjon med andre utbyggingsformål.
+9. Kommunene skal legge til rette for utnyttelse av lokale varme- og kjølekilder, herunder overskuddsvarme. Kommunene skal også legge til rette for fjernvarme eller andre felles løsninger for varme- og kjøleforsyning der det er hensiktsmessig.
+10. Ved planlegging av nye områder for utbygging, fortetting eller transformasjon, skal planmyndigheten vurdere hvordan tilrettelegging for sirkulære løsninger kan bidra til reduserte klimagassutslipp og klimatilpasning, f.eks. samlokalisering, massehåndtering og god infrastruktur for ombruk og avfall.
+11. Kommunene skal vurdere og ha dialog med utbyggere om rehabilitering og gjenbruk av bygninger samlet sett er en mer bærekraftig løsning for å redusere klimagassutslipp og ressursbruk enn regulering til riving.
+12. Kommunene skal sette av tilstrekkelig areal på egnede steder til hurtigladestasjoner og fyllestasjoner for hydrogen og biodrivstoff for kjøretøy og fartøy, og søke å koordinere dette slik at det er en god lokal og regional spredning på ladestasjonene. Kommunene skal vurdere mulighetene for å sette av tilstrekkelig areal til alternative drivstoff og landstrøm til større fartøy. Fylkeskommunen bør i sin planlegging vurdere hensiktsmessig plassering av ladeinfrastruktur i et regionalt perspektiv, i dialog med relevante aktører.
+13. Planbeskrivelsen og saksframlegget skal vise hvordan nasjonale hensyn til klimagassreduksjon, klimatilpasning og energi er ivaretatt jf. [plan- og bygningsloven §§ 4-2 første ledd](lov/2008-06-27-71/§4-2/ledd/1) og [11-14 andre ledd](lov/2008-06-27-71/§11-14/ledd/2) og [12-12 første ledd](lov/2008-06-27-71/§12-12/ledd/1).
 
 ## 5. Retningslinjer for klimatilpasning
 

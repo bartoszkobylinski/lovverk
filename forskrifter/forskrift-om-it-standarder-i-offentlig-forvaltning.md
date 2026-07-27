@@ -30,7 +30,20 @@ Forskriften skal bidra til at et hvert organ for stat eller kommune, jf. [forval
 
 ## § 2. Begreper
 
-I forskriften menes med*standard:* normative krav, spesifikasjoner, retningslinjer eller veiledninger*forvaltningsstandard:* standard gitt av en relevant myndighet om at gitt standard skal legges til grunn for hele eller større deler av forvaltningen*teknisk standard:* standarder for hvordan IKT-systemer skal være utformet med brukergrensesnitt og grensesnitt mot andre IKT-systemer*semantisk standard (menings- eller fortolkningsstandard):* standard som fastsetter den nærmere betydningen av data*organisatorisk standard:* standard som fastsetter organisatoriske, rollemessige, prosessuelle eller avtalemessige forhold mellom samhandlende parter.*åpen standard:*Standarden er utviklet og vedlikeholdt av en ikke kommersiell virksomhet, gjennom en transparent prosess der alle har lik og ikke diskriminerende tilgang til å delta i utviklingen, påvirke utviklingen og være med å vedta standarden (fortrinnsvis konsensus eller flertallsbasert). Ingen person eller interessegruppe skal ha dominert prosessen.Standarden må være publisert og tilgjengelig for alle, gratis eller gjennom en rimelig betaling. Standarden må være tillatt å kopiere, distribuere og bruke, gratis eller mot en rimelig betaling.Standarden skal i utgangspunktet ikke inneholde intellektuelle rettigheter. Dersom slike rettigheter foreligger skal opplysninger om dette komme klart frem i standarden. Rettighetshaver bør irreversibelt ha trukket tilbake retten til å ta betalt, eller gjort bruksretten tilgjengelig mot et rimelig vederlag.Det skal ikke foreligge forbehold mot gjenbruk av standarden.*nettleserbasert tjeneste:* En interaktiv tjeneste beregnet for bruk i nettlesere der brukeren gjennom input påvirker resultatet av transaksjonen, i motsetning til rene statiske informasjonssider. Typiske eksempel er et elektronisk skjema eller en beregningskalkulator.
+I forskriften menes med
+
+1. *standard:* normative krav, spesifikasjoner, retningslinjer eller veiledninger
+2. *forvaltningsstandard:* standard gitt av en relevant myndighet om at gitt standard skal legges til grunn for hele eller større deler av forvaltningen
+3. *teknisk standard:* standarder for hvordan IKT-systemer skal være utformet med brukergrensesnitt og grensesnitt mot andre IKT-systemer
+4. *semantisk standard (menings- eller fortolkningsstandard):* standard som fastsetter den nærmere betydningen av data
+5. *organisatorisk standard:* standard som fastsetter organisatoriske, rollemessige, prosessuelle eller avtalemessige forhold mellom samhandlende parter.
+6. *åpen standard:*
+
+   - Standarden er utviklet og vedlikeholdt av en ikke kommersiell virksomhet, gjennom en transparent prosess der alle har lik og ikke diskriminerende tilgang til å delta i utviklingen, påvirke utviklingen og være med å vedta standarden (fortrinnsvis konsensus eller flertallsbasert). Ingen person eller interessegruppe skal ha dominert prosessen.
+   - Standarden må være publisert og tilgjengelig for alle, gratis eller gjennom en rimelig betaling. Standarden må være tillatt å kopiere, distribuere og bruke, gratis eller mot en rimelig betaling.
+   - Standarden skal i utgangspunktet ikke inneholde intellektuelle rettigheter. Dersom slike rettigheter foreligger skal opplysninger om dette komme klart frem i standarden. Rettighetshaver bør irreversibelt ha trukket tilbake retten til å ta betalt, eller gjort bruksretten tilgjengelig mot et rimelig vederlag.
+   - Det skal ikke foreligge forbehold mot gjenbruk av standarden.
+7. *nettleserbasert tjeneste:* En interaktiv tjeneste beregnet for bruk i nettlesere der brukeren gjennom input påvirker resultatet av transaksjonen, i motsetning til rene statiske informasjonssider. Typiske eksempel er et elektronisk skjema eller en beregningskalkulator.
 
 > Endret ved [forskrift 16 okt 2020 nr. 2063](forskrift/2020-10-16-2063).
 
@@ -66,9 +79,15 @@ Forvaltningsorganer skal kunne ta imot vanlige dokumentformater som for eksempel
 
 ## § 6. Obligatoriske standarder for multimediainnhold på offentlige nettsider
 
-Video som skal gjøres tilgjengelige på offentlige internettsider, skal utformes i minst en av følgende standarder:videosporet kodet i Theora 1.0 (Xiph.org 2008) og lydsporet i Vorbis 1 (Xiph.org 2004) innkapslet i Ogg (RFC 3533, IETF 2003)Videosporet kodet i H.264 (ISO/IEC 14496-10:2009) og lydsporet i AAC (ISO/IEC 13818-7:2003) innkapslet i MP4 (ISO/IEC 14496-14:2003).
+Video som skal gjøres tilgjengelige på offentlige internettsider, skal utformes i minst en av følgende standarder:
 
-Lyd med tapsbasert komprimering som skal gjøres tilgjengelig på offentlige internettsider, skal utformes i minst en av følgende standarder:Vorbis 1 (Xiph.org 2004) innkapslet i Ogg (RFC 3533, IETF 2003)MP3 (ISO 11172-3) uten innkapsling.
+1. videosporet kodet i Theora 1.0 (Xiph.org 2008) og lydsporet i Vorbis 1 (Xiph.org 2004) innkapslet i Ogg (RFC 3533, IETF 2003)
+2. Videosporet kodet i H.264 (ISO/IEC 14496-10:2009) og lydsporet i AAC (ISO/IEC 13818-7:2003) innkapslet i MP4 (ISO/IEC 14496-14:2003).
+
+Lyd med tapsbasert komprimering som skal gjøres tilgjengelig på offentlige internettsider, skal utformes i minst en av følgende standarder:
+
+1. Vorbis 1 (Xiph.org 2004) innkapslet i Ogg (RFC 3533, IETF 2003)
+2. MP3 (ISO 11172-3) uten innkapsling.
 
 > Endret ved [forskrift 16 okt 2020 nr. 2063](forskrift/2020-10-16-2063).
 

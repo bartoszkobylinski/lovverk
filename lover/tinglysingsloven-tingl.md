@@ -268,7 +268,11 @@ Rettsstiftelse som skjer gjennom forbehold ved avhendelse eller annen eiendomsov
 
 ### § 22
 
-Bestemmelsene i [§ 20](lov/1935-06-07-2/§20) får ikke anvendelse:På overdragelse av panterett, når panteretten er registrert på annet grunnlag enn elektronisk innsending,På håndpantsettelse av pantobligasjon som følger reglene for omsetningsgjeldsbrev og pantsettelse av en panterett som er knyttet til et innløsningspapir som ikke er et omsetningsgjeldsbrev, samt på utlegg i panterett knyttet til slike dokumenter.På stiftelse og overdragelse av bruksrett når bruken er tiltrådt og retten er stiftet for høist 3 måneder eller kan opsies med høist tre måneders varsel eller til vanlig flyttetid med sedvansmessig varsel.
+Bestemmelsene i [§ 20](lov/1935-06-07-2/§20) får ikke anvendelse:
+
+1. På overdragelse av panterett, når panteretten er registrert på annet grunnlag enn elektronisk innsending,
+2. På håndpantsettelse av pantobligasjon som følger reglene for omsetningsgjeldsbrev og pantsettelse av en panterett som er knyttet til et innløsningspapir som ikke er et omsetningsgjeldsbrev, samt på utlegg i panterett knyttet til slike dokumenter.
+3. På stiftelse og overdragelse av bruksrett når bruken er tiltrådt og retten er stiftet for høist 3 måneder eller kan opsies med høist tre måneders varsel eller til vanlig flyttetid med sedvansmessig varsel.
 
 > Endret ved lover [7 apr 1972 nr. 13](lov/1972-04-07-13), [8 feb 1980 nr. 3](lov/1980-02-08-3) (se dens VII), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se denne for overgangsbestemmelser).
 
@@ -288,7 +292,11 @@ Når et dokument som ikke er registrert endelig, senere nektes tinglyst, blir de
 
 ### § 25
 
-Dersom et dokument er registrert endelig i grunnboken på uriktig måte eller ikke er registrert endelig to uker etter at det ble registrert i grunnboken, kan det ved dom bestemmes at dokumentet skal stå tilbake for et senere tinglyst rettserverv ved avtale. Vilkårene for dette erat erververen av den senere tinglyste rett var i god tro da dokumentet ble registrert,at erververen om hans rett skulle stå tilbake, ville bli voldt uforskyldt tap fordi han har stolt på grunnboken, ogat tapet for erververen ville være vesentlig større enn for den annen om dennes rett måtte vike, eller at det ville føre til vesentlige forstyrrelser i senere tinglyste rettsforhold om den tinglyste, men feilaktig registrerte rettighet skulle gå foran.
+Dersom et dokument er registrert endelig i grunnboken på uriktig måte eller ikke er registrert endelig to uker etter at det ble registrert i grunnboken, kan det ved dom bestemmes at dokumentet skal stå tilbake for et senere tinglyst rettserverv ved avtale. Vilkårene for dette er
+
+1. at erververen av den senere tinglyste rett var i god tro da dokumentet ble registrert,
+2. at erververen om hans rett skulle stå tilbake, ville bli voldt uforskyldt tap fordi han har stolt på grunnboken, og
+3. at tapet for erververen ville være vesentlig større enn for den annen om dennes rett måtte vike, eller at det ville føre til vesentlige forstyrrelser i senere tinglyste rettsforhold om den tinglyste, men feilaktig registrerte rettighet skulle gå foran.
 
 > Endret ved lover [7 apr 1972 nr. 13](lov/1972-04-07-13), [20 juni 2014 nr. 45](lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se loven del IV og res. for overgangsbestemmelser).
 
@@ -414,7 +422,12 @@ Løsøreregisteret skal slette registreringen av et utleggstrekk når det får b
 
 ### § 35
 
-Når noen lider uforskyldt tap på grunn av tinglysingsfeil, har han rett til erstatning av staten såfremt tapet skyldesat han har stolt på en tinglysingsattest,at et dokument ikke er blitt tinglyst eller er blitt tinglyst for sent,at et dokument efter [§ 25](lov/1935-06-07-2/§25) må stå tilbake for et senere tinglyst dokument,at et dokument som nevnt i [§ 27](lov/1935-06-07-2/§27) annet ledd er blitt tinglyst og noen i god tro har fått registrert en rett han har ervervet ved avtale i tillit til at det tinglyste dokument var gyldig.
+Når noen lider uforskyldt tap på grunn av tinglysingsfeil, har han rett til erstatning av staten såfremt tapet skyldes
+
+1. at han har stolt på en tinglysingsattest,
+2. at et dokument ikke er blitt tinglyst eller er blitt tinglyst for sent,
+3. at et dokument efter [§ 25](lov/1935-06-07-2/§25) må stå tilbake for et senere tinglyst dokument,
+4. at et dokument som nevnt i [§ 27](lov/1935-06-07-2/§27) annet ledd er blitt tinglyst og noen i god tro har fått registrert en rett han har ervervet ved avtale i tillit til at det tinglyste dokument var gyldig.
 
 > Endret ved lover [7 apr 1972 nr. 13](lov/1972-04-07-13), [13 juni 1975 nr. 38](lov/1975-06-13-38), [22 mai 1981 nr. 24](lov/1981-05-22-24), [20 juni 2014 nr. 45](lov/2014-06-20-45) – dens IV (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se denne for overgangsbestemmelser).
 
@@ -470,7 +483,12 @@ Folkeregistermyndigheten skal, uten hinder av taushetsplikt, gi de opplysninger 
 
 ### § 39
 
-Følgende overgangsbestemmelser skal gjelde:– – –For forretninger som nevnt i [§ 30](lov/1935-06-07-2/§30), jfr. [§ 34](lov/1935-06-07-2/§34), får den hittil gjeldende lovgivning om utslettelse anvendelse såfremt forretningen er tinglyst før denne lovs ikrafttreden. Blir forretningen tinglyst påny efter dette tidspunkt, får de nevnte bestemmelser anvendelse. Bestemmelsene i [§§ 13](lov/1935-06-07-2/§13) og [17](lov/1935-06-07-2/§17) får ikke anvendelse på dokumenter som er oprettet før denne lovs ikrafttreden.– – –Kongen kan treffe bestemmelser om at enkelte av reglene om fremgangsmåten ved tinglysing inntil videre ikke skal gjelde, enten for hele riket eller for enkelte embedskretser.
+Følgende overgangsbestemmelser skal gjelde:
+
+1. – – –
+2. For forretninger som nevnt i [§ 30](lov/1935-06-07-2/§30), jfr. [§ 34](lov/1935-06-07-2/§34), får den hittil gjeldende lovgivning om utslettelse anvendelse såfremt forretningen er tinglyst før denne lovs ikrafttreden. Blir forretningen tinglyst påny efter dette tidspunkt, får de nevnte bestemmelser anvendelse. Bestemmelsene i [§§ 13](lov/1935-06-07-2/§13) og [17](lov/1935-06-07-2/§17) får ikke anvendelse på dokumenter som er oprettet før denne lovs ikrafttreden.
+3. – – –
+4. Kongen kan treffe bestemmelser om at enkelte av reglene om fremgangsmåten ved tinglysing inntil videre ikke skal gjelde, enten for hele riket eller for enkelte embedskretser.
 
 > Endret ved lov 18 des 1959 nr. 2 (opphevet pkt. 1 og 3).
 

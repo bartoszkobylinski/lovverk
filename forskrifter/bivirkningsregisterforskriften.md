@@ -15,7 +15,7 @@ xml_hash: "3af33d50446c2921fbc22b699f22ff769cd518fddcbf3383a76b026395027e75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,12 @@ Den dataansvarlige kan inngå avtale med databehandlere om behandling av opplysn
 
 ### § 2-1. Opplysningstyper som kan registreres
 
-Bivirkningsregisteret kan inneholde relevante helseopplysninger knyttet til bivirkninger eller mistanke om bivirkninger ved bruk av et legemiddel:Pasientens fødselsnummer eller annen direkte personidentifikatorOpplysninger om bivirkningenOpplysninger om det aktuelle legemiddelet og eventuelle andre legemidler pasienten brukerAndre helseopplysninger av betydning.
+Bivirkningsregisteret kan inneholde relevante helseopplysninger knyttet til bivirkninger eller mistanke om bivirkninger ved bruk av et legemiddel:
+
+1. Pasientens fødselsnummer eller annen direkte personidentifikator
+2. Opplysninger om bivirkningen
+3. Opplysninger om det aktuelle legemiddelet og eventuelle andre legemidler pasienten bruker
+4. Andre helseopplysninger av betydning.
 
 Ved mistanke om at bivirkninger er overført til barnet under graviditet, amming eller lignende, skal opplysninger om bivirkningen registreres på barnets identitet.
 
@@ -68,7 +73,11 @@ Den registrerte kan motsette seg at helseopplysninger gjøres tilgjengelig fra r
 
 ### § 3-1. Plikt til å melde opplysninger
 
-Helsepersonell som yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av ett eller flere legemidler har medført:dødelige eller livstruende bivirkninger,bivirkninger som har gitt varige alvorlige følger, elleruventede eller nye bivirkninger.
+Helsepersonell som yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av ett eller flere legemidler har medført:
+
+1. dødelige eller livstruende bivirkninger,
+2. bivirkninger som har gitt varige alvorlige følger, eller
+3. uventede eller nye bivirkninger.
 
 Helsepersonell som gir vaksiner, skal sende bivirkningsmelding til Folkehelseinstituttet ved Nasjonalt vaksinasjonsregister (SYSVAK) ved mistanke om bivirkning som nevnt i første ledd knyttet til vaksiner, jf. [SYSVAK-registerforskriften § 2-1](forskrift/2003-06-20-739/§2-1) andre ledd.
 

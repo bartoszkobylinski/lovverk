@@ -15,7 +15,7 @@ xml_hash: "94d31bbd71d514b8deb15ef0ed45e68243964db3fc19d0fdb8c9b0ab3ea38600"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ Mottaker skal ha automatisk vekt egnet til bruk ved landing av fisk. At vekten e
 
 [§ 6 andre ledd](forskrift/2014-05-06-607/§6/ledd/2) (endret) skal lyde:
 
-En egnet ikke-automatisk vekt kan benyttes:ved landing av fryst fisk,ved landing av rensefisk,for veiing av utsortert pelagisk fanget fisk og fisk som sorteres ut til produksjon av farse-, mel og oljeprodukter i henhold til [§ 5 andre ledd](forskrift/2014-05-06-607/§5/ledd/2),for veiing av fisk som mottas på annen måte enn i første hånd, dette gjelder ikke mottak av avskjær ved mottaksanlegg som mottar industrifangster for produksjon av fiskemel og fiskeolje,for veiing av bifangst.
+En egnet ikke-automatisk vekt kan benyttes:
+
+1. ved landing av fryst fisk,
+2. ved landing av rensefisk,
+3. for veiing av utsortert pelagisk fanget fisk og fisk som sorteres ut til produksjon av farse-, mel og oljeprodukter i henhold til [§ 5 andre ledd](forskrift/2014-05-06-607/§5/ledd/2),
+4. for veiing av fisk som mottas på annen måte enn i første hånd, dette gjelder ikke mottak av avskjær ved mottaksanlegg som mottar industrifangster for produksjon av fiskemel og fiskeolje,
+5. for veiing av bifangst.
 
 [§ 6 tredje ledd](forskrift/2014-05-06-607/§6/ledd/3) (endret) skal lyde:
 

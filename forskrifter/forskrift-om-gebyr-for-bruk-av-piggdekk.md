@@ -26,7 +26,13 @@ eu_basis: []
 
 Denne forskrift gjelder bruk av bil jf. [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) ([kjøretøyforskriften) § 2-2](forskrift/1994-10-04-918/§2-2) med piggdekk i nærmere fastsatt område (gebyrsone) jf. § 3, på veg skiltet med offentlig trafikkskilt.
 
-Denne forskrift gjelder ikke bruk av følgende biler:Bil som i følge opplysninger i vognkortet er godkjent som utrykningskjøretøy.Annen bil i politiets tjeneste.Bil hvor fører eller passasjer medbringer parkeringsbevis for forflytningshemmede, jf. [forskrift 15. mars 1994 nr. 222](forskrift/1994-03-15-222) om parkering for forflytningshemmede. Ved parkering skal parkeringsbevis alltid være plassert godt synlig bak frontruten.Bil som har montert synlig innretning slik som plog, strøredskap e.l., og er under oppdrag i forbindelse med brøyting, salting eller strøing.Bil med kjennemerke med gule tegn på blå bunn.
+Denne forskrift gjelder ikke bruk av følgende biler:
+
+1. Bil som i følge opplysninger i vognkortet er godkjent som utrykningskjøretøy.
+2. Annen bil i politiets tjeneste.
+3. Bil hvor fører eller passasjer medbringer parkeringsbevis for forflytningshemmede, jf. [forskrift 15. mars 1994 nr. 222](forskrift/1994-03-15-222) om parkering for forflytningshemmede. Ved parkering skal parkeringsbevis alltid være plassert godt synlig bak frontruten.
+4. Bil som har montert synlig innretning slik som plog, strøredskap e.l., og er under oppdrag i forbindelse med brøyting, salting eller strøing.
+5. Bil med kjennemerke med gule tegn på blå bunn.
 
 > Endret ved [forskrift 23 august 2000 nr. 878](forskrift/2000-08-23-878).
 

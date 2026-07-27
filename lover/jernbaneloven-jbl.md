@@ -15,7 +15,7 @@ xml_hash: "f47a398b8083f5e6b6b9f0567302021b107e2e64031a484b858560edee36099b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L0797"
@@ -41,7 +41,12 @@ Departementet kan ved forskrift eller enkeltvedtak helt eller delvis unnta fra l
 
 ### § 3. (Definisjoner)
 
-I denne lov menes med:kjørevei: sporanlegg med tilhørende grunn og innretninger, signal- og sikringsanlegg, strømforsyningsanlegg og kommunikasjonsanlegg;trafikkstyring: togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togfremføringen;trafikkvirksomhet: person- og godstransport på kjøreveien;jernbanevirksomhet: drift av kjørevei, trafikkstyring og trafikkvirksomhet.
+I denne lov menes med:
+
+1. kjørevei: sporanlegg med tilhørende grunn og innretninger, signal- og sikringsanlegg, strømforsyningsanlegg og kommunikasjonsanlegg;
+2. trafikkstyring: togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togfremføringen;
+3. trafikkvirksomhet: person- og godstransport på kjøreveien;
+4. jernbanevirksomhet: drift av kjørevei, trafikkstyring og trafikkvirksomhet.
 
 Departementet kan gi utfyllende bestemmelser om hva som menes med kjørevei, trafikkstyring og trafikkvirksomhet.
 
@@ -51,7 +56,12 @@ Departementet kan gi utfyllende bestemmelser om hva som menes med kjørevei, tra
 
 ### § 3 a. (Ruspåvirkning mv.)
 
-Ingen må føre eller forsøke å føre rullende materiell eller utføre eller forsøke å utføre oppgaver knyttet til sikkerheten ved jernbanemed en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,under påvirkning av et annet berusende eller bedøvende middel enn alkohol, ellernår sykdom, legemidler, tretthet eller lignende årsak gjør han eller hun uskikket til å utføre tjenesten på betryggende måte.
+Ingen må føre eller forsøke å føre rullende materiell eller utføre eller forsøke å utføre oppgaver knyttet til sikkerheten ved jernbane
+
+1. med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,
+2. med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft,
+3. under påvirkning av et annet berusende eller bedøvende middel enn alkohol, eller
+4. når sykdom, legemidler, tretthet eller lignende årsak gjør han eller hun uskikket til å utføre tjenesten på betryggende måte.
 
 Overskrider konsentrasjon i blodet av annet berusende eller bedøvende middel grenser fastsatt i forskrift gitt med hjemmel i [vegtrafikkloven § 22](lov/1965-06-18-4/§22) sjette ledd, eller en mengde slikt middel i kroppen som kan føre til så stor konsentrasjon av slikt middel i blodet, regnes vedkommende i alle tilfeller for påvirket etter første ledd nr. 3.
 
@@ -77,7 +87,11 @@ Departementet kan gi nærmere forskrifter om hvem som omfattes av denne bestemme
 
 ### § 3 c. (Testing av ruspåvirkning)
 
-Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel nårdet er grunn til å tro at personen har overtrådt bestemmelsene i [§ 3 a](lov/1993-06-11-100/§3a) eller [§ 3 b](lov/1993-06-11-100/§3b),personen med eller uten skyld er innblandet i en jernbaneulykke eller jernbanehendelse, ellerdet blir krevd som ledd i kontroll av jernbanedriften.
+Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel når
+
+1. det er grunn til å tro at personen har overtrådt bestemmelsene i [§ 3 a](lov/1993-06-11-100/§3a) eller [§ 3 b](lov/1993-06-11-100/§3b),
+2. personen med eller uten skyld er innblandet i en jernbaneulykke eller jernbanehendelse, eller
+3. det blir krevd som ledd i kontroll av jernbanedriften.
 
 Dersom testresultatet eller andre forhold gir grunn til å tro at bestemmelsene i [§ 3 a](lov/1993-06-11-100/§3a) eller [§ 3 b](lov/1993-06-11-100/§3b) er overtrådt, kan politiet foreta særskilt undersøkelse av om det forekommer tegn eller symptomer på ruspåvirkning og fremstille personen for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik fremstilling skal i alminnelighet finne sted når personen nekter å medvirke til alkotest eller foreløpig test av om personen er påvirket av annet berusende eller bedøvende middel.
 
@@ -179,7 +193,15 @@ Den som driver jernbanevirksomhet etter første ledd, skal sørge for at virksom
 
 Den som driver jernbanevirksomhet, skal stanse driften dersom hensynet til sikkerheten tilsier det.
 
-Departementet kan ved forskrift eller enkeltvedtak fastsette nærmere bestemmelser for å ivareta hensynet til en sikker og hensiktsmessig trafikkavvikling samt miljø, herunder krav til:nødvendige faglige, personlige og økonomiske forutsetninger hos søkeren,kompetanse mv. hos driftspersonellet,garanti eller forsikring for erstatningsansvar som kan oppstå pga. virksomheten,regnskap, regnskapsettersyn, statistikk mv., og til innsyn i slike dokumenter,sikkerhetsstyringssystemer,støyskjerming og gjerdehold,registerføring
+Departementet kan ved forskrift eller enkeltvedtak fastsette nærmere bestemmelser for å ivareta hensynet til en sikker og hensiktsmessig trafikkavvikling samt miljø, herunder krav til:
+
+1. nødvendige faglige, personlige og økonomiske forutsetninger hos søkeren,
+2. kompetanse mv. hos driftspersonellet,
+3. garanti eller forsikring for erstatningsansvar som kan oppstå pga. virksomheten,
+4. regnskap, regnskapsettersyn, statistikk mv., og til innsyn i slike dokumenter,
+5. sikkerhetsstyringssystemer,
+6. støyskjerming og gjerdehold,
+7. registerføring
 
 Departementet kan ved forskrift fastsette at det skal kreves ordinær politiattest fra søkeren eller daglig leder av virksomheten og fra personell som har sikkerhetsansvar.
 
@@ -193,7 +215,14 @@ Departementet kan fastsette forskrift om sikring mot tilsiktede uønskede handli
 
 ### § 6 b. (Nasjonal beredskap)
 
-For å sikre nødvendig samfunnssikkerhet og beredskap i ekstraordinære situasjoner, kriser og krig, kan departementet pålegge den som driver aktivitet knyttet til jernbane, å utføre oppgaver i form avberedskapsplanlegging,rapportering eller utveksling av informasjon,fysisk og logisk sikring av viktige anlegg og systemer,transporttjenester i alle ledd av transportkjeden,samarbeid med andre nasjonale eller internasjonale aktører, oggjennomføring av eller deltagelse i øvelser og militære operasjoner.
+For å sikre nødvendig samfunnssikkerhet og beredskap i ekstraordinære situasjoner, kriser og krig, kan departementet pålegge den som driver aktivitet knyttet til jernbane, å utføre oppgaver i form av
+
+1. beredskapsplanlegging,
+2. rapportering eller utveksling av informasjon,
+3. fysisk og logisk sikring av viktige anlegg og systemer,
+4. transporttjenester i alle ledd av transportkjeden,
+5. samarbeid med andre nasjonale eller internasjonale aktører, og
+6. gjennomføring av eller deltagelse i øvelser og militære operasjoner.
 
 Medfører et pålegg vesentlige kostnader for den det er rettet mot, og disse ikke oppveies av tilsvarende fordeler, skal departementet fastsette et rimelig vederlag for dette.
 
@@ -305,7 +334,11 @@ Oppdragsgiveren skal i sine kontrakter stille krav om at ansatte hos leverandør
 
 Alle som oppholder seg på jernbanens område plikter å følge de sikkerhetsanvisninger som gjelder for stedet.
 
-Det er forbudt for publikum:å stige på og av tog som er i bevegelse;å oppholde seg på jernbanens område som ikke er beregnet for publikum;å benytte planovergang når tog kan ventes.
+Det er forbudt for publikum:
+
+1. å stige på og av tog som er i bevegelse;
+2. å oppholde seg på jernbanens område som ikke er beregnet for publikum;
+3. å benytte planovergang når tog kan ventes.
 
 Eier av privat grind eller annen lukkeinnretning er ansvarlig for at denne holdes lukket når kryssing ikke finner sted.
 
@@ -363,7 +396,13 @@ Ved utlevering av opplysninger etter femte ledd annet punktum skal myndigheten s
 
 ### § 11 c. (Tilsyn med passasjerrettigheter)
 
-Ved tilsyn med at reglene om passasjerrettigheter følges, har tilsynsmyndigheten kompetanse til:å kreve opplysninger, foreta stedlig kontroll og beslag eller gjennomføre testkjøp etter [markedsføringsloven § 34](lov/2009-01-09-2/§34),å gi pålegg om retting eller opphør av forhold i strid med bestemmelsene i [§ 7 c](lov/1993-06-11-100/§7c) første ledd. Tilsynsmyndigheten kan fatte vedtak med midlertidig virkning etter reglene i [markedsføringsloven § 39](lov/2009-01-09-2/§39),å innhente skriftlig bekreftelse på at et ulovlig forhold skal opphøre og å innhente skriftlig bekreftelse fra en næringsdrivende om at denne skal tilby avhjelpende tiltak til berørte passasjerer,å fastsette tvangsmulkt som nevnt i [§ 13](lov/1993-06-11-100/§13). Tvangsmulkt kan benyttes til å sikre etterlevelse av alle vedtak og bekreftelser som nevnt i bokstav a til c,å begjære fjerning av digitalt nettinnhold etter reglene i [markedsføringsloven §§ 43](lov/2009-01-09-2/§43) til [43 c](lov/2009-01-09-2/§43c).
+Ved tilsyn med at reglene om passasjerrettigheter følges, har tilsynsmyndigheten kompetanse til:
+
+1. å kreve opplysninger, foreta stedlig kontroll og beslag eller gjennomføre testkjøp etter [markedsføringsloven § 34](lov/2009-01-09-2/§34),
+2. å gi pålegg om retting eller opphør av forhold i strid med bestemmelsene i [§ 7 c](lov/1993-06-11-100/§7c) første ledd. Tilsynsmyndigheten kan fatte vedtak med midlertidig virkning etter reglene i [markedsføringsloven § 39](lov/2009-01-09-2/§39),
+3. å innhente skriftlig bekreftelse på at et ulovlig forhold skal opphøre og å innhente skriftlig bekreftelse fra en næringsdrivende om at denne skal tilby avhjelpende tiltak til berørte passasjerer,
+4. å fastsette tvangsmulkt som nevnt i [§ 13](lov/1993-06-11-100/§13). Tvangsmulkt kan benyttes til å sikre etterlevelse av alle vedtak og bekreftelser som nevnt i bokstav a til c,
+5. å begjære fjerning av digitalt nettinnhold etter reglene i [markedsføringsloven §§ 43](lov/2009-01-09-2/§43) til [43 c](lov/2009-01-09-2/§43c).
 
 > Tilføyd ved [lov 20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)).
 

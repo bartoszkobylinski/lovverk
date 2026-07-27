@@ -46,7 +46,11 @@ I forskriften gjelder følgende definisjoner:
 
 Graden bachelor oppnås på grunnlag av eksamen i fag, emner, emnegrupper eller studieprogram av minst 180 studiepoengs omfang.
 
-Grunnlaget for graden skal omfatte ett av følgende:rammeplanstyrt, integrert yrkesrettet utdanning av minst 180 studiepoengs omfangtreårige studieprogram (180 studiepoeng) som i henhold til vedtak i styret for Høgskolen i Vestfold gir bachelorgradselvkomponerte/individuelle studieløp med en integrert yrkesrettet utdanning eller fordypning i fag, emner eller emnegrupper av minst 80 studiepoengs omfang kombinert med fordypning i ytterligere fag, emner eller emnegrupper av minst 30 studiepoengs omfang. Frittstående emner som skal inngå i grunnlaget for graden, må ha et omfang på minst 10 studiepoeng.
+Grunnlaget for graden skal omfatte ett av følgende:
+
+1. rammeplanstyrt, integrert yrkesrettet utdanning av minst 180 studiepoengs omfang
+2. treårige studieprogram (180 studiepoeng) som i henhold til vedtak i styret for Høgskolen i Vestfold gir bachelorgrad
+3. selvkomponerte/individuelle studieløp med en integrert yrkesrettet utdanning eller fordypning i fag, emner eller emnegrupper av minst 80 studiepoengs omfang kombinert med fordypning i ytterligere fag, emner eller emnegrupper av minst 30 studiepoengs omfang. Frittstående emner som skal inngå i grunnlaget for graden, må ha et omfang på minst 10 studiepoeng.
 
 ## § 4. Fritak for eksamen eller prøve
 

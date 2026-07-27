@@ -44,7 +44,11 @@ Denne forskriften begrenser ikke adgangen til å yte bidrag til legemidler etter
 
 Folketrygden yter stønad etter [§ 2](forskrift/2007-06-28-814/§2) og [§ 3](forskrift/2007-06-28-814/§3) til dekning av nødvendige utgifter til legemidler som skal brukes til behandling av alvorlige sykdommer eller av risikofaktorer som med høy sannsynlighet vil medføre eller forverre alvorlig sykdom, og der det er behov eller risiko for gjentatt behandling over en langvarig periode.
 
-Folketrygden yter ikke stønad til bruk av legemidler nårinitiering, evaluering og avslutning av behandlingen styres av lege i spesialisthelsetjenesten,inntak eller tilførsel av legemiddelet krever fysisk overvåkning eller beredskap av spesialisthelsetjenesten ellerinntak eller tilførsel av legemiddelet krever utstyr som i all hovedsak besittes av spesialisthelsetjenesten.
+Folketrygden yter ikke stønad til bruk av legemidler når
+
+1. initiering, evaluering og avslutning av behandlingen styres av lege i spesialisthelsetjenesten,
+2. inntak eller tilførsel av legemiddelet krever fysisk overvåkning eller beredskap av spesialisthelsetjenesten eller
+3. inntak eller tilførsel av legemiddelet krever utstyr som i all hovedsak besittes av spesialisthelsetjenesten.
 
 Helsedirektoratet beslutter om et legemiddel, eller en bestemt bruk av et legemiddel, omfattes av annet ledd. Liste over hvilke legemidler folketrygden ikke yter stønad til etter annet ledd er vedlegg til denne forskriften.
 
@@ -95,18 +99,52 @@ Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, gir nærmere ret
 ### § 4. Legemidler ved smittsomme sykdommer
 
 1. Folketrygden yter stønad til legemidler ved allmennfarlige smittsomme sykdommer etter denne paragrafen til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden. Med allmennfarlige smittsomme sykdommer menes sykdommer i henhold til [forskrift 1. januar 1995 nr. 100 om allmennfarlige smittsomme sykdommer § 1](forskrift/1995-01-01-100/§1).
-2. Det ytes stønad til utgifter til antiinfektive legemidler (ATC-kode J) til behandling av allmennfarlige smittsomme sykdommer. Det ytes stønad til utgifter til antiinfektive og dermatologiske legemidler til behandling av infeksjon og sanering av bærerskap hos pasienter med meticillinresistente gule stafylokokker i henhold til faglige anbefalinger gitt av Folkehelseinstituttet.Det ytes stønad til immunstimulerende legemidler (ATC-kode L03A) til behandling av allmennfarlige smittsomme sykdommer i henhold til retningslinjer gitt av departementet.Det ytes stønad til antiinfektive legemidler til forebygging av allmennfarlige smittsomme sykdommer hos personer som etter en faglig vurdering antas å være i særlig fare for å bli smittet i Norge.
-3. Det ytes stønad til vaksiner, immunglobuliner og immunsera til forebygging og behandling av allmennfarlige smittsomme sykdommer i henhold til følgende tabell:*Sykdom**Preparater**Indikasjoner*BotulismeBotulisme antiserumTil personer med botulisme.DifteriDifterivaksine eller difteri-stivkrampe-vaksineTil særlig smitteutsatte personer ved utbrudd i Norge.
-Til personer som har gjennomgått stamcelletransplantasjon.Difteri antiserumTil personer med difteri.FlekktyfusFlekktyfusvaksineTil særlig smitteutsatte personer ved utbrudd i Norge.GulfeberGulfebervaksineTil særlig smitteutsatte personer ved utbrudd i Norge.Hepatitt AHepatitt A vaksineBrukt pre- og posteksposisjonelt etter retningslinjer gitt av departementet.Hepatitt A immunglobulinBrukt posteksposisjonelt etter retningslinjer gitt av departementet.Hepatitt BHepatitt B-vaksineBrukt pre- og posteksposisjonelt etter retningslinjer gitt av departementet.Hepatitt B immunglobulinBrukt posteksposisjonelt etter retningslinjer gitt av departementet.KikhosteKikhostevaksineTil uvaksinerte eller delvis vaksinerte nærkontakter under 2 år av person med kikhoste.
-Til personer som har gjennomgått stamcelletransplantasjon.KoleraKoleravaksineTil særlig smitteutsatte personer ved utbrudd i Norge.Meningokokk-sykdomMeningokokkvaksineTil personer med nedsatt eller manglende miltfunksjon.
-Til personer med alvorlig medfødt eller ervervet komplementdefekt.
-Til nærkontakter av personer med meningokokk A-, B-, C-, W- eller Y-sykdom.MeslingerMMR-vaksineTil personer som har gjennomgått stamcelletransplantasjon.M-kopperKoppevaksine
-(tredje generasjon)Brukt pre- og posteksposisjonelt etter retningslinjer gitt av FolkehelseinstituttetPestPestvaksineTil særlig smitteutsatte personer ved utbrudd i Norge.PoliomyelittPoliovaksineTil særlig smitteutsatte personer ved utbrudd i Norge.
-Til personer som har gjennomgått stamcelletransplantasjon.RabiesRabiesvaksine
-RabiesimmunglobulinBrukt posteksposisjonelt.Røde hunderMMR-vaksineTil personer som har gjennomgått stamcelletransplantasjon.TuberkuloseBCG-vaksineEtter [forskrift om tuberkulosekontroll](forskrift/2009-02-13-205).TyfoidfeberTyfoidfebervaksineTil særlig smitteutsatte personer ved utbrudd i Norge.Det ytes stønad til vaksiner, immunglobuliner og immunsera til forebygging og behandling av smittsomme sykdommer i henhold til følgende tabell.*Sykdom**Preparater**Indikasjoner*Haemophilus influenza type BHaemophilus influenza type B-vaksineTil personer som har gjennomgått stamcelletransplantasjon.KusmaMMR-vaksineTil personer som har gjennomgått stamcelletransplantasjon.Pneumokokk-sykdomPneumokokk-vaksineTil personer med hiv-infeksjon.
-Til personer uten miltfunksjon.
-Til personer som har gjennomgått stamcelletransplantasjon.StivkrampeTetanus-vaksineTil personer som har gjennomgått stamcelletransplantasjon.VannkopperVannkopp-vaksineTil personer som har gjennomgått stamcelletransplantasjon.
-Til personer med immunsvikt.Immunglobulin mot vannkopperTil personer med immunsvikt.Preparatene utleveres av apotek eller Folkehelseinstituttet.Oppgjør for legemidler, vaksiner og sera foretas av det organ Helsedirektoratet bestemmer.Utgifter til vaksiner for beskyttelse på reiser utenfor Norge dekkes ikke av folketrygden.
+2. Det ytes stønad til utgifter til antiinfektive legemidler (ATC-kode J) til behandling av allmennfarlige smittsomme sykdommer. Det ytes stønad til utgifter til antiinfektive og dermatologiske legemidler til behandling av infeksjon og sanering av bærerskap hos pasienter med meticillinresistente gule stafylokokker i henhold til faglige anbefalinger gitt av Folkehelseinstituttet.
+
+   Det ytes stønad til immunstimulerende legemidler (ATC-kode L03A) til behandling av allmennfarlige smittsomme sykdommer i henhold til retningslinjer gitt av departementet.
+
+   Det ytes stønad til antiinfektive legemidler til forebygging av allmennfarlige smittsomme sykdommer hos personer som etter en faglig vurdering antas å være i særlig fare for å bli smittet i Norge.
+3. Det ytes stønad til vaksiner, immunglobuliner og immunsera til forebygging og behandling av allmennfarlige smittsomme sykdommer i henhold til følgende tabell:
+
+   | *Sykdom* | *Preparater* | *Indikasjoner* |
+   | --- | --- | --- |
+   | Botulisme | Botulisme antiserum | Til personer med botulisme. |
+   | Difteri | Difterivaksine eller difteri-stivkrampe-vaksine | Til særlig smitteutsatte personer ved utbrudd i Norge.<br>Til personer som har gjennomgått stamcelletransplantasjon. |
+   |  | Difteri antiserum | Til personer med difteri. |
+   | Flekktyfus | Flekktyfusvaksine | Til særlig smitteutsatte personer ved utbrudd i Norge. |
+   | Gulfeber | Gulfebervaksine | Til særlig smitteutsatte personer ved utbrudd i Norge. |
+   | Hepatitt A | Hepatitt A vaksine | Brukt pre- og posteksposisjonelt etter retningslinjer gitt av departementet. |
+   |  | Hepatitt A immunglobulin | Brukt posteksposisjonelt etter retningslinjer gitt av departementet. |
+   | Hepatitt B | Hepatitt B-vaksine | Brukt pre- og posteksposisjonelt etter retningslinjer gitt av departementet. |
+   |  | Hepatitt B immunglobulin | Brukt posteksposisjonelt etter retningslinjer gitt av departementet. |
+   | Kikhoste | Kikhostevaksine | Til uvaksinerte eller delvis vaksinerte nærkontakter under 2 år av person med kikhoste.<br>Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Kolera | Koleravaksine | Til særlig smitteutsatte personer ved utbrudd i Norge. |
+   | Meningokokk-sykdom | Meningokokkvaksine | Til personer med nedsatt eller manglende miltfunksjon.<br>Til personer med alvorlig medfødt eller ervervet komplementdefekt.<br>Til nærkontakter av personer med meningokokk A-, B-, C-, W- eller Y-sykdom. |
+   | Meslinger | MMR-vaksine | Til personer som har gjennomgått stamcelletransplantasjon. |
+   | M-kopper | Koppevaksine<br>(tredje generasjon) | Brukt pre- og posteksposisjonelt etter retningslinjer gitt av Folkehelseinstituttet |
+   | Pest | Pestvaksine | Til særlig smitteutsatte personer ved utbrudd i Norge. |
+   | Poliomyelitt | Poliovaksine | Til særlig smitteutsatte personer ved utbrudd i Norge.<br>Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Rabies | Rabiesvaksine<br>Rabiesimmunglobulin | Brukt posteksposisjonelt. |
+   | Røde hunder | MMR-vaksine | Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Tuberkulose | BCG-vaksine | Etter [forskrift om tuberkulosekontroll](forskrift/2009-02-13-205). |
+   | Tyfoidfeber | Tyfoidfebervaksine | Til særlig smitteutsatte personer ved utbrudd i Norge. |
+
+   Det ytes stønad til vaksiner, immunglobuliner og immunsera til forebygging og behandling av smittsomme sykdommer i henhold til følgende tabell.
+
+   | *Sykdom* | *Preparater* | *Indikasjoner* |
+   | --- | --- | --- |
+   | Haemophilus influenza type B | Haemophilus influenza type B-vaksine | Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Kusma | MMR-vaksine | Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Pneumokokk-sykdom | Pneumokokk-vaksine | Til personer med hiv-infeksjon.<br>Til personer uten miltfunksjon.<br>Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Stivkrampe | Tetanus-vaksine | Til personer som har gjennomgått stamcelletransplantasjon. |
+   | Vannkopper | Vannkopp-vaksine | Til personer som har gjennomgått stamcelletransplantasjon.<br>Til personer med immunsvikt. |
+   |  | Immunglobulin mot vannkopper | Til personer med immunsvikt. |
+
+   Preparatene utleveres av apotek eller Folkehelseinstituttet.
+
+   Oppgjør for legemidler, vaksiner og sera foretas av det organ Helsedirektoratet bestemmer.
+
+   Utgifter til vaksiner for beskyttelse på reiser utenfor Norge dekkes ikke av folketrygden.
 
 > Endret ved [forskrifter 25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [13 feb 2009 nr. 194](forskrift/2009-02-13-194) (i kraft 1 mars 2009), [17 des 2010 nr. 1704](forskrift/2010-12-17-1704) (i kraft 1 jan 2011), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [23 april 2014 nr. 703](forskrift/2014-04-23-703), [18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [3 des 2016 nr. 1434](forskrift/2016-12-03-1434) (i kraft 1 jan 2017), [24 okt 2018 nr. 1621](forskrift/2018-10-24-1621), [6 jan 2022 nr. 36](forskrift/2022-01-06-36), [25 aug 2022 nr. 1491](forskrift/2022-08-25-1491) (i kraft 27 aug 2022 kl. 00.00), [31 jan 2023 nr. 117](forskrift/2023-01-31-117) (i kraft 1 mars 2023), [22 mai 2023 nr. 714](forskrift/2023-05-22-714), [20 nov 2023 nr. 1863](forskrift/2023-11-20-1863), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 1 jan 2025), [20 nov 2023 nr. 1863](forskrift/2023-11-20-1863) (i kraft 1 april 2025), [23 april 2025 nr. 674](forskrift/2025-04-23-674), [16 mai 2025 nr. 812](forskrift/2025-05-16-812) (i kraft 1 juni 2025).
 
@@ -116,7 +154,16 @@ Til personer med immunsvikt.Immunglobulin mot vannkopperTil personer med immunsv
 
 ### § 5. Medisinsk forbruksmateriell
 
-Det ytes stønad til medisinsk forbruksmateriell som er oppført på produkt- og prislisten for den aktuelle indikasjonen dersom det medisinske forbruksmateriellet er rekvirert i samsvar med gjeldende vilkår:Ved inkontinens og ved forstoppelse ytes det stønad til forbruksmateriell for å samle opp eller stoppe urin eller avføring, til rektal skylling og til beskyttelse av huden ved bleiedermatitt.Ved urinretensjon ytes det stønad til forbruksmateriell til bruk ved kateterisering.Ved diabetes og andre tilstander der det er behov for egenmåling av glukose i blod ytes det stønad til forbruksmateriell til å utføre målingen. Det ytes stønad til forbruksmateriell til egenmåling av ketoner i blod og/eller urin der dette er en nødvendig del av behandlingen. Det ytes ikke stønad til stikkapparat eller apparat til avlesning av blodsukkertest.Ved stomi fra tarm og urinveier ytes det stønad til forbruksmateriell til bandasjering av stomien, forbruksmateriell til å tømme eller skylle i stomien og til belter ved risiko for parastomalt brokk.Ved bruk av legemiddel som dekkes etter denne forskrift kan det ytes stønad til forbruksmateriell som er nødvendig for å måle og administrere legemiddelet.Ved epidermolysis bullosa ytes det stønad til forbruksmateriell til bandasjering og til behandling av hud og sår.Ved moderat eller alvorlig iktyose ytes det stønad til forbruksmateriell til behandling av hud og sår.Ved tuberkulose ytes det stønad til forbruksmateriell for å administrere legemiddel og til behandling av tuberkuløse sår. Kravet i [§ 1c første ledd](forskrift/2007-06-28-814/§1c/ledd/1) om at det skal være behov eller risiko for gjentatt bruk over en langvarig periode gjelder ikke.
+Det ytes stønad til medisinsk forbruksmateriell som er oppført på produkt- og prislisten for den aktuelle indikasjonen dersom det medisinske forbruksmateriellet er rekvirert i samsvar med gjeldende vilkår:
+
+1. Ved inkontinens og ved forstoppelse ytes det stønad til forbruksmateriell for å samle opp eller stoppe urin eller avføring, til rektal skylling og til beskyttelse av huden ved bleiedermatitt.
+2. Ved urinretensjon ytes det stønad til forbruksmateriell til bruk ved kateterisering.
+3. Ved diabetes og andre tilstander der det er behov for egenmåling av glukose i blod ytes det stønad til forbruksmateriell til å utføre målingen. Det ytes stønad til forbruksmateriell til egenmåling av ketoner i blod og/eller urin der dette er en nødvendig del av behandlingen. Det ytes ikke stønad til stikkapparat eller apparat til avlesning av blodsukkertest.
+4. Ved stomi fra tarm og urinveier ytes det stønad til forbruksmateriell til bandasjering av stomien, forbruksmateriell til å tømme eller skylle i stomien og til belter ved risiko for parastomalt brokk.
+5. Ved bruk av legemiddel som dekkes etter denne forskrift kan det ytes stønad til forbruksmateriell som er nødvendig for å måle og administrere legemiddelet.
+6. Ved epidermolysis bullosa ytes det stønad til forbruksmateriell til bandasjering og til behandling av hud og sår.
+7. Ved moderat eller alvorlig iktyose ytes det stønad til forbruksmateriell til behandling av hud og sår.
+8. Ved tuberkulose ytes det stønad til forbruksmateriell for å administrere legemiddel og til behandling av tuberkuløse sår. Kravet i [§ 1c første ledd](forskrift/2007-06-28-814/§1c/ledd/1) om at det skal være behov eller risiko for gjentatt bruk over en langvarig periode gjelder ikke.
 
 Det ytes ikke stønad til andre produkter enn de som er oppført på gjeldende produkt- og prisliste for relevant indikasjon. Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, gir nærmere retningslinjer om vilkår for stønad, herunder krav til antallsbegrensning og særskilte rekvireringskrav.
 
@@ -126,7 +173,10 @@ Det ytes ikke stønad til andre produkter enn de som er oppført på gjeldende p
 
 Det ytes stønad til næringsmidler som er oppført på produkt- og prislistene dersom næringsmiddelet er rekvirert i samsvar med gjeldende vilkår.
 
-Det ytes stønad ved:begrenset, nedsatt eller forstyrret evne til å innta, fordøye, oppta, omdanne eller utskille vanlige næringsmidler eller enkelte av de næringsstoffene de inneholder, eller deres stoffskifteprodukt. Det er et vilkår at tilfredsstillende ernæringsstatus ikke kan oppnås ved endring av det normale kostholdet alene,andre medisinsk betingede ernæringsmessige behov som ikke kan dekkes ved en endring av det normale kostholdet alene.
+Det ytes stønad ved:
+
+1. begrenset, nedsatt eller forstyrret evne til å innta, fordøye, oppta, omdanne eller utskille vanlige næringsmidler eller enkelte av de næringsstoffene de inneholder, eller deres stoffskifteprodukt. Det er et vilkår at tilfredsstillende ernæringsstatus ikke kan oppnås ved endring av det normale kostholdet alene,
+2. andre medisinsk betingede ernæringsmessige behov som ikke kan dekkes ved en endring av det normale kostholdet alene.
 
 Stønad etter denne bestemmelsen må i hvert enkelt tilfelle godkjennes av Helsedirektoratet, eller det organ Helsedirektoratet bestemmer. Dette gjelder ikke stønad ved medfødte stoffskiftesykdommer med defekter i aminosyre-, fettsyre- eller karbohydratomsetningen.
 
@@ -158,7 +208,26 @@ For legemidler hvor det er inngått refusjonskontrakt etter [legemiddelloven § 
 
 Utleverer kan ikke kreve høyere pris enn det som følger av den til enhver tid gjeldende produkt- og prisliste, verken av medlemmet eller av folketrygden.
 
-Det ytes stønad til full dekning av utgifter til legemidler forskrevet etter [§ 4](forskrift/2007-06-28-814/§4) til medisinsk forbruksmateriell forskrevet etter [§ 5 første ledd](forskrift/2007-06-28-814/§5/ledd/1) nr. 12 og for legemidler forskrevet etter [§ 2](forskrift/2007-06-28-814/§2) og [§ 3](forskrift/2007-06-28-814/§3) på følgende refusjonskoder:B90 HIV-sykdom/AIDS (ICPC-2)B99 Immunsvikt INA (ICPC-2)B20 HIV-sykdom med infek.sykd. og parasittsykdommer som følge (ICD-10)B21 HIV-sykdom med ondartede svulster som følge (ICD-10)B22 HIV-sykdom med andre spesifiserte sykdommer som følge (ICD-10)B23 HIV-sykdom med andre tilstander som følge (ICD-10)B24 Uspesifisert humant immunsviktvirussykdom [HIV-sykdom] (ICD-10)Z21 Symptomfri bærer av humant immunsviktvirus [HIV] (ICD-10)D80 Immunsvikt med overveiende antistoffmangel (ICD-10)D81 Kombinert immunsvikt (ICD-10)D82 Immunsvikt forbundet med andre større defekter (ICD-10)D83 Vanlig variabel immunsvikt (ICD-10)D84 Annen immunsvikt (ICD-10)A84 Legemiddelforgiftning (ICPC-2)T50 Forgiftning med andre og ikke spesifiserte legemidler og biologiske substanser (ICD-10)-53 Fordøyelsesplager ved ondartet kreftsykdom-81 Bivirkninger ved tuberkulosebehandling-90 Palliativ behandling i livets sluttfase.
+Det ytes stønad til full dekning av utgifter til legemidler forskrevet etter [§ 4](forskrift/2007-06-28-814/§4) til medisinsk forbruksmateriell forskrevet etter [§ 5 første ledd](forskrift/2007-06-28-814/§5/ledd/1) nr. 12 og for legemidler forskrevet etter [§ 2](forskrift/2007-06-28-814/§2) og [§ 3](forskrift/2007-06-28-814/§3) på følgende refusjonskoder:
+
+- B90 HIV-sykdom/AIDS (ICPC-2)
+- B99 Immunsvikt INA (ICPC-2)
+- B20 HIV-sykdom med infek.sykd. og parasittsykdommer som følge (ICD-10)
+- B21 HIV-sykdom med ondartede svulster som følge (ICD-10)
+- B22 HIV-sykdom med andre spesifiserte sykdommer som følge (ICD-10)
+- B23 HIV-sykdom med andre tilstander som følge (ICD-10)
+- B24 Uspesifisert humant immunsviktvirussykdom [HIV-sykdom] (ICD-10)
+- Z21 Symptomfri bærer av humant immunsviktvirus [HIV] (ICD-10)
+- D80 Immunsvikt med overveiende antistoffmangel (ICD-10)
+- D81 Kombinert immunsvikt (ICD-10)
+- D82 Immunsvikt forbundet med andre større defekter (ICD-10)
+- D83 Vanlig variabel immunsvikt (ICD-10)
+- D84 Annen immunsvikt (ICD-10)
+- A84 Legemiddelforgiftning (ICPC-2)
+- T50 Forgiftning med andre og ikke spesifiserte legemidler og biologiske substanser (ICD-10)
+- -53 Fordøyelsesplager ved ondartet kreftsykdom
+- -81 Bivirkninger ved tuberkulosebehandling
+- -90 Palliativ behandling i livets sluttfase.
 
 > Endret ved [forskrifter 12 feb 2008 nr. 134](forskrift/2008-02-12-134), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [17 des 2008 nr. 1406](forskrift/2008-12-17-1406) (i kraft 1 jan 2009), [17 des 2009 nr. 1719](forskrift/2009-12-17-1719) (i kraft 1 jan 2010), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [8 okt 2014 nr. 1301](forskrift/2014-10-08-1301) (i kraft 1 nov 2014), [21 des 2015 nr. 1830](forskrift/2015-12-21-1830) (i kraft 1 jan 2016), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 des 2020 nr. 2995](forskrift/2020-12-18-2995) (i kraft 1 jan 2021), [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2022 nr. 2430](forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 20 mars 2025), [2 april 2025 nr. 577](forskrift/2025-04-02-577), [17 des 2025 nr. 2621](forskrift/2025-12-17-2621) (i kraft 1 jan 2026), [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
@@ -170,7 +239,13 @@ Legen plikter uten ugrunnet opphold og uten godtgjørelse å gi Helsedirektorate
 
 ### § 10. Opplysninger på blåresepter
 
-Ved rekvirering av legemidler, medisinsk forbruksmateriell og næringsmidler som refunderes etter bestemmelsene i denne forskrift, skal resepten utfylles i samsvar med bestemmelsene i [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) I tillegg skal resepten påføres hjemmel og inneholde følgende opplysninger som er nødvendige for at Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, skal kunne vurdere krav om slik stønad:Refusjonskode ved stønad etter [§ 2](forskrift/2007-06-28-814/§2),Refusjonspunkt ved stønad etter [§ 5](forskrift/2007-06-28-814/§5) og [§ 6](forskrift/2007-06-28-814/§6),Legens eventuelle reservasjon mot bytte etter [apotekloven § 6-6 andre ledd](lov/2000-06-02-39/§6-6/ledd/2),Dokumentasjon av refusjonsvilkår som i henhold til refusjonslisten skal fremgå av resepten,Dokumentasjon av refusjonsvilkår som fastsatt med hjemmel i [§ 5](forskrift/2007-06-28-814/§5) og [§ 6](forskrift/2007-06-28-814/§6) skal fremgå av resepten.
+Ved rekvirering av legemidler, medisinsk forbruksmateriell og næringsmidler som refunderes etter bestemmelsene i denne forskrift, skal resepten utfylles i samsvar med bestemmelsene i [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) I tillegg skal resepten påføres hjemmel og inneholde følgende opplysninger som er nødvendige for at Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, skal kunne vurdere krav om slik stønad:
+
+1. Refusjonskode ved stønad etter [§ 2](forskrift/2007-06-28-814/§2),
+2. Refusjonspunkt ved stønad etter [§ 5](forskrift/2007-06-28-814/§5) og [§ 6](forskrift/2007-06-28-814/§6),
+3. Legens eventuelle reservasjon mot bytte etter [apotekloven § 6-6 andre ledd](lov/2000-06-02-39/§6-6/ledd/2),
+4. Dokumentasjon av refusjonsvilkår som i henhold til refusjonslisten skal fremgå av resepten,
+5. Dokumentasjon av refusjonsvilkår som fastsatt med hjemmel i [§ 5](forskrift/2007-06-28-814/§5) og [§ 6](forskrift/2007-06-28-814/§6) skal fremgå av resepten.
 
 Opplysningene påføres uten hinder av taushetsplikten.
 
@@ -186,7 +261,11 @@ Helsedirektoratet kan gjøre unntak fra kravet i første ledd for søknader som 
 
 ### § 11. Sanksjoner
 
-Helsedirektoratet eller det organ Helsedirektoratet bestemmer, kan bestemme at det ikke skal ytes godtgjørelse for behandling eller tjenester som en lege utfører dersom vedkommende:rekvirerer legemidler i strid med bestemmelsene i eller i medhold av [folketrygdloven](lov/1997-02-28-19),ikke etterkommer krav fra Helsedirektoratet eller det organ Helsedirektoratet bestemmer om å gi nødvendige opplysninger ellergir misvisende opplysninger eller erklæringer som kan føre til misbruk av trygdeytelser.
+Helsedirektoratet eller det organ Helsedirektoratet bestemmer, kan bestemme at det ikke skal ytes godtgjørelse for behandling eller tjenester som en lege utfører dersom vedkommende:
+
+1. rekvirerer legemidler i strid med bestemmelsene i eller i medhold av [folketrygdloven](lov/1997-02-28-19),
+2. ikke etterkommer krav fra Helsedirektoratet eller det organ Helsedirektoratet bestemmer om å gi nødvendige opplysninger eller
+3. gir misvisende opplysninger eller erklæringer som kan føre til misbruk av trygdeytelser.
 
 I tilfeller som nevnt i første ledd, plikter folketrygden heller ikke å yte stønad på grunnlag av erklæringer, rekvisisjoner og resepter fra vedkommende. Når forholdene tilsier det, kan vedtaket både begrenses i tid og til å omfatte visse grupper av preparater som går inn under denne forskriften.
 
@@ -222,7 +301,11 @@ Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, kan innvilge ref
 
 Leverandører av medisinsk forbruksmateriell og næringsmidler kan søke om godkjenning for refusjon for produkter som omfattes av forskriftens [§ 5](forskrift/2007-06-28-814/§5) og [§ 6](forskrift/2007-06-28-814/§6).
 
-Refusjon kan bare innvilges dersom følgende kriterier er oppfylt;Produktet skal være medisinsk nødvendig for den aktuelle brukergruppen, og være tilpasset egenbruk i hjemmet.Produktet skal oppfylle gjeldende krav for å omsettes i det norske markedet.Produktet skal ikke føre til unødvendig kostnad for trygden sett opp mot alternative produkter med tilnærmet lik bruksverdi. Ressursbruken må stå i et rimelig forhold til nytten av produktet når tilstandens alvorlighet er hensyntatt.
+Refusjon kan bare innvilges dersom følgende kriterier er oppfylt;
+
+1. Produktet skal være medisinsk nødvendig for den aktuelle brukergruppen, og være tilpasset egenbruk i hjemmet.
+2. Produktet skal oppfylle gjeldende krav for å omsettes i det norske markedet.
+3. Produktet skal ikke føre til unødvendig kostnad for trygden sett opp mot alternative produkter med tilnærmet lik bruksverdi. Ressursbruken må stå i et rimelig forhold til nytten av produktet når tilstandens alvorlighet er hensyntatt.
 
 Ressursbruk inkluderer gjennomsnittlig produktkostnad og øvrig ressursbruk i helse- og omsorgstjenesten, sammenliknet med relevant behandlingspraksis. Ved høy alvorlighet aksepteres høyere ressursbruk i forhold til nytten enn ved lavere alvorlighet. Det kan i særskilte tilfeller innvilges refusjon for et produkt som ikke tilfredsstiller kravene etter andre ledd nummer 3, dersom produktet er rettet inn mot særskilt små pasientgrupper med svært alvorlig tilstand der forventet nytte av produktet er stor. Ressursbruken må likevel stå i et akseptabelt forhold til nytten.
 

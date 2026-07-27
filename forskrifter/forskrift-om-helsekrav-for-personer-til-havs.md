@@ -15,7 +15,7 @@ xml_hash: "2a7739f6b648682b3ff9fa1344347ac30cf50789291174f96f1b7c6ce3aafceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,12 @@ En godkjent petroleumslege skal foreta helseundersøkelser og utstede erklæring
 
 ### § 7. Godkjenning av petroleumsleger og dykkerleger
 
-Godkjenning som petroleumslege eller dykkerlege, jf. [§ 8](forskrift/2010-12-20-1780/§8) og [§ 9](forskrift/2010-12-20-1780/§9), kan gis til lege som innehar generell norsk autorisasjon, og til lege i utlandet som har dokumentert kunnskap om:relevant norsk regelverk ogforhold på innretninger til havs (petroleumsleger og dykkerleger) og forhold knyttet til bemannede undervannsoperasjoner (dykkerleger).Lege i utlandet må beherske et skandinavisk språk eller engelsk.
+Godkjenning som petroleumslege eller dykkerlege, jf. [§ 8](forskrift/2010-12-20-1780/§8) og [§ 9](forskrift/2010-12-20-1780/§9), kan gis til lege som innehar generell norsk autorisasjon, og til lege i utlandet som har dokumentert kunnskap om:
+
+- relevant norsk regelverk og
+- forhold på innretninger til havs (petroleumsleger og dykkerleger) og forhold knyttet til bemannede undervannsoperasjoner (dykkerleger).
+
+Lege i utlandet må beherske et skandinavisk språk eller engelsk.
 
 Godkjenning som petroleumslege og dykkerlege gis av Helsedirektoratet eller den det bemyndiger.
 
@@ -88,9 +93,12 @@ Godkjenning som petroleumslege og dykkerlege skal trekkes tilbake hvis legen ikk
 
 ### § 8. Utdypende kompetansekrav for petroleumslege
 
-Følgende utdypende kompetansekrav som fastsettes av Helsedirektoratet, gjelder for godkjenning som petroleumslege:*Førstegangs godkjenning*
-Gjennomført obligatorisk opplæring og bestått eksamen.*Vedlikeholdskrav*
-Gjennomført obligatorisk oppdateringskurs og bestått eksamen.
+Følgende utdypende kompetansekrav som fastsettes av Helsedirektoratet, gjelder for godkjenning som petroleumslege:
+
+- *Førstegangs godkjenning*
+  Gjennomført obligatorisk opplæring og bestått eksamen.
+- *Vedlikeholdskrav*
+  Gjennomført obligatorisk oppdateringskurs og bestått eksamen.
 
 Helsedirektoratets vedtak om forhåndsgodkjenning av kurs kan påklages til Nasjonalt klageorgan for helsetjenesten.
 
@@ -118,22 +126,39 @@ Petroleumslegen og dykkerlegen skal kontrollere personens identitet før helseun
 
 ### § 11. Krav til helse
 
-Person som nevnt i [§ 2](forskrift/2010-12-20-1780/§2) må ikke på grunn av sin helsetilstand utgjøre en fare for seg selv eller andre eller for sikker drift av innretningen. Vedkommende må oppfylle følgende generelle krav til helse:være fysisk og psykisk i stand til å mestre opphold på innretningen og en evakueringssituasjonvære i stand til å arbeide sikkerhetsmessig forsvarlig til havsikke ha en tilstand som kan medføre at varsling ikke registreresikke ha en lidelse hvor bortfall av nødvendig medisinering eller som av andre grunner kan medføre alvorlig fare for egen eller andres helse og sikkerhet.
+Person som nevnt i [§ 2](forskrift/2010-12-20-1780/§2) må ikke på grunn av sin helsetilstand utgjøre en fare for seg selv eller andre eller for sikker drift av innretningen. Vedkommende må oppfylle følgende generelle krav til helse:
 
-Videre må vedkommende oppfylle følgende spesifikke helsekrav:*Syn*
-Synsstyrken (visus) må være god nok til at vedkommende kan arbeide på en sikker måte på innretninger i petroleumsvirksomheten til havs.
-Det må være normalt synsfelt på minst ett øye.*Hørsel*
-Hørselen må ikke være mer nedsatt enn at sikkerhetskritiske lydvarsler og taleinformasjon kan oppfattes.*Hjerte-karsykdom*
-Det må ikke være hjertesykdom eller karsykdom som kan medføre økt sannsynlighet for akutte behandlingstrengende sykdomstilfelle.*Hjernefunksjonsforstyrrelser*
-Det må ikke foreligge tilstander som medfører økt sannsynlighet for anfallsvis opptredende hjernefunksjonsforstyrrelser eller andre anfall med redusert bevissthet.*Psykiske lidelser*
-Det må ikke være psykisk lidelse eller personlighetsavvik som medfører nedsatt dømmekraft, impulskontroll eller adferdsforstyrrelser.*Diabetes*
-Det må ikke være diabetes som behandles med insulin eller andre antidiabetika som kan føre til hypoglykemi.*Misbruk*
-Det må ikke være misbruk av alkohol eller andre rusmidler, og ikke bruk av beroligende eller bedøvende midler i doser som reduserer årvåkenhet og arbeidsevne.*Lungefunksjon*
-Det må være tilfredsstillende lungefunksjon.*Førlighet*
-Førligheten må være tilstrekkelig til at vedkommende kan arbeide sikkerhetsmessig forsvarlig og mestre en nødssituasjon og evakuering.*Medikamentbruk*
-Det må ikke være bruk av medikamenter, enten disse er forskrevet av lege eller ikke, som reduserer vedkommendes mulighet til å arbeide sikkerhetsmessig forsvarlig og mestre en nødssituasjon og evakuering.*Andre lidelser*
-Det må ikke være andre lidelser som medfører at kravene til helse og førlighet ikke er oppfylt, eller kan medføre behov for akutt medisinsk behandling som ikke kan ytes til havs.
-Det må ikke være overvekt som utgjør en sikkerhetsmessig risiko i en nødssituasjon.
+- være fysisk og psykisk i stand til å mestre opphold på innretningen og en evakueringssituasjon
+- være i stand til å arbeide sikkerhetsmessig forsvarlig til havs
+- ikke ha en tilstand som kan medføre at varsling ikke registreres
+- ikke ha en lidelse hvor bortfall av nødvendig medisinering eller som av andre grunner kan medføre alvorlig fare for egen eller andres helse og sikkerhet.
+
+Videre må vedkommende oppfylle følgende spesifikke helsekrav:
+
+1. *Syn*
+   Synsstyrken (visus) må være god nok til at vedkommende kan arbeide på en sikker måte på innretninger i petroleumsvirksomheten til havs.
+   Det må være normalt synsfelt på minst ett øye.
+2. *Hørsel*
+   Hørselen må ikke være mer nedsatt enn at sikkerhetskritiske lydvarsler og taleinformasjon kan oppfattes.
+3. *Hjerte-karsykdom*
+   Det må ikke være hjertesykdom eller karsykdom som kan medføre økt sannsynlighet for akutte behandlingstrengende sykdomstilfelle.
+4. *Hjernefunksjonsforstyrrelser*
+   Det må ikke foreligge tilstander som medfører økt sannsynlighet for anfallsvis opptredende hjernefunksjonsforstyrrelser eller andre anfall med redusert bevissthet.
+5. *Psykiske lidelser*
+   Det må ikke være psykisk lidelse eller personlighetsavvik som medfører nedsatt dømmekraft, impulskontroll eller adferdsforstyrrelser.
+6. *Diabetes*
+   Det må ikke være diabetes som behandles med insulin eller andre antidiabetika som kan føre til hypoglykemi.
+7. *Misbruk*
+   Det må ikke være misbruk av alkohol eller andre rusmidler, og ikke bruk av beroligende eller bedøvende midler i doser som reduserer årvåkenhet og arbeidsevne.
+8. *Lungefunksjon*
+   Det må være tilfredsstillende lungefunksjon.
+9. *Førlighet*
+   Førligheten må være tilstrekkelig til at vedkommende kan arbeide sikkerhetsmessig forsvarlig og mestre en nødssituasjon og evakuering.
+10. *Medikamentbruk*
+    Det må ikke være bruk av medikamenter, enten disse er forskrevet av lege eller ikke, som reduserer vedkommendes mulighet til å arbeide sikkerhetsmessig forsvarlig og mestre en nødssituasjon og evakuering.
+11. *Andre lidelser*
+    Det må ikke være andre lidelser som medfører at kravene til helse og førlighet ikke er oppfylt, eller kan medføre behov for akutt medisinsk behandling som ikke kan ytes til havs.
+    Det må ikke være overvekt som utgjør en sikkerhetsmessig risiko i en nødssituasjon.
 
 Helsekravene etter denne forskriften er ikke oppfylt ved svangerskap etter 28. uke.
 
@@ -187,7 +212,10 @@ Legens utstedelse av helseerklæring for et begrenset tidsrom eller erklæring o
 
 Petroleumslegen eller dykkerlegen skal foreta de ytterligere undersøkelser som saken gir grunn til, og oversende den med utfyllende opplysninger til Statsforvalteren i Rogaland.
 
-Statsforvalteren vurderer om helsekravene er oppfylt eller ikke:Ved oppfylte helsekrav utstedes helseerklæring.Ved ikke oppfylte helsekrav vurderes om det kan gis dispensasjon fra helsekravene. Slik dispensasjon skal bare gis når det foreligger særlige grunner og hensynet til sikkerheten ikke taler mot det. Det kan stilles vilkår for dispensasjonen.
+Statsforvalteren vurderer om helsekravene er oppfylt eller ikke:
+
+1. Ved oppfylte helsekrav utstedes helseerklæring.
+2. Ved ikke oppfylte helsekrav vurderes om det kan gis dispensasjon fra helsekravene. Slik dispensasjon skal bare gis når det foreligger særlige grunner og hensynet til sikkerheten ikke taler mot det. Det kan stilles vilkår for dispensasjonen.
 
 Statsforvalteren i Rogaland sitt vedtak etter [§ 17](forskrift/2010-12-20-1780/§17) er et enkeltvedtak som kan påklages etter forvaltningslovens regler til en klagenemnd.
 
@@ -197,7 +225,12 @@ Fristen for å klage på Statsforvalteren i Rogaland sitt vedtak er 3 uker fra d
 
 ### § 18. Klagenemndas sammensetning
 
-Helsedirektoratet oppnevner ei klagenemnd på fire medlemmer:en lege som er nemndas lederett medlem etter forslag fra Havindustritilsyneten lege etter forslag fra arbeidsgiverorganisasjoneneett medlem etter forslag fra arbeidstakerorganisasjonene.
+Helsedirektoratet oppnevner ei klagenemnd på fire medlemmer:
+
+- en lege som er nemndas leder
+- ett medlem etter forslag fra Havindustritilsynet
+- en lege etter forslag fra arbeidsgiverorganisasjonene
+- ett medlem etter forslag fra arbeidstakerorganisasjonene.
 
 Det oppnevnes minst ett varamedlem for hvert medlem.
 

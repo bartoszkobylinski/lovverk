@@ -42,9 +42,28 @@ Opplæring og trening skal gjennomføres i godkjente Part-147 organisasjoner, go
 
 ## § 4. Teoretisk opplæring og praktisk trening
 
-Teoretisk opplæring skal omfatte:komponentens plassering og funksjon i systemet eller luftfartøyeteventuell BITE (Built In Test Equipment) eller annet vedlikeholdsverktøy tilhørende luftfartøyetsikkerhetsaspektereventuell spesialbehandlingkomponentens oppbygging og virkemåteoppbygging av manualereventuelt testutstyr.
+Teoretisk opplæring skal omfatte:
 
-Praktisk trening (OJT) skal omfatte:bruk av manualerbruk av håndverktøy og spesialverktøydemontering og monteringinspeksjonfeilsøkingreparasjontestinglagring og forsendelsedokumentasjonHMS.
+1. komponentens plassering og funksjon i systemet eller luftfartøyet
+2. eventuell BITE (Built In Test Equipment) eller annet vedlikeholdsverktøy tilhørende luftfartøyet
+3. sikkerhetsaspekter
+4. eventuell spesialbehandling
+5. komponentens oppbygging og virkemåte
+6. oppbygging av manualer
+7. eventuelt testutstyr.
+
+Praktisk trening (OJT) skal omfatte:
+
+1. bruk av manualer
+2. bruk av håndverktøy og spesialverktøy
+3. demontering og montering
+4. inspeksjon
+5. feilsøking
+6. reparasjon
+7. testing
+8. lagring og forsendelse
+9. dokumentasjon
+10. HMS.
 
 ## § 5. Teoretisk og praktisk prøve
 

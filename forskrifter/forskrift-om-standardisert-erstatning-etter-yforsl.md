@@ -15,7 +15,7 @@ xml_hash: "14edb6f1f1382faa66be783ec897c04c23dda8a8b15f93b62e992d8be820d144"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,12 @@ Fastsettelsen av inntektsgrunnlaget for beregningen skjer i forhold til G den 1.
 
 ### § 3-3. Skadelidtes alder
 
-Erstatningsbeløpet ved 100 % ervervsmessig uførhet beregnes slik i forhold til grunnerstatningen:Er skadelidte 45 eller 46 år, svarer erstatningen til grunnerstatningen.For hvert år skadelidte er over 46 år, gjøres et fradrag som utgjør 5 % av grunnerstatningen. Erstatningen skal likevel utgjøre minst 10 % av grunnerstatningen.Er skadelidte 35-44 år, forhøyes erstatningen for hvert år han eller hun er yngre enn 45 år med 3,5 prosent av grunnerstatningen.Er skadelidte 34 år eller yngre, forhøyes erstatningen for hvert år han eller hun er yngre enn 35 år med 2,5 prosent av grunnerstatningen. I tillegg forhøyes erstatningen med 35 prosent av grunnerstatningen.
+Erstatningsbeløpet ved 100 % ervervsmessig uførhet beregnes slik i forhold til grunnerstatningen:
+
+1. Er skadelidte 45 eller 46 år, svarer erstatningen til grunnerstatningen.
+2. For hvert år skadelidte er over 46 år, gjøres et fradrag som utgjør 5 % av grunnerstatningen. Erstatningen skal likevel utgjøre minst 10 % av grunnerstatningen.
+3. Er skadelidte 35-44 år, forhøyes erstatningen for hvert år han eller hun er yngre enn 45 år med 3,5 prosent av grunnerstatningen.
+4. Er skadelidte 34 år eller yngre, forhøyes erstatningen for hvert år han eller hun er yngre enn 35 år med 2,5 prosent av grunnerstatningen. I tillegg forhøyes erstatningen med 35 prosent av grunnerstatningen.
 
 ### § 3-4. Tap av deler av ervervsevnen
 
@@ -134,7 +139,11 @@ Grunnerstatningen fastsettes slik:
 
 ### § 4-2. Skadelidtes alder
 
-Ménerstatningen beregnes slik i forhold til grunnerstatningen:Er skadelidte 45 eller 46 år, svarer erstatningen til grunnerstatningen.For hvert år skadelidte er over 46 år, gjøres et fradrag som utgjør 2 % av grunnerstatningen. Erstatningen skal likevel utgjøre minst 50 % av grunnerstatningen.For hvert år skadelidte er yngre enn 45 år, forhøyes erstatningen med 2 % av grunnerstatningen.
+Ménerstatningen beregnes slik i forhold til grunnerstatningen:
+
+1. Er skadelidte 45 eller 46 år, svarer erstatningen til grunnerstatningen.
+2. For hvert år skadelidte er over 46 år, gjøres et fradrag som utgjør 2 % av grunnerstatningen. Erstatningen skal likevel utgjøre minst 50 % av grunnerstatningen.
+3. For hvert år skadelidte er yngre enn 45 år, forhøyes erstatningen med 2 % av grunnerstatningen.
 
 ## Kapittel 5. Etteroppgjør ved endringer i ervervsmessig uføregrad eller medisinsk invaliditet
 
@@ -152,7 +161,12 @@ Erstatning til ektefelle eller samboer ved dødsfall er 15 G.
 
 En person anses ikke som ektefelle etter første ledd når det på dødsfallstidspunktet er avsagt dom for, eller gitt bevilling til separasjon eller skilsmisse. Dette gjelder selv om avgjørelsen ikke er rettskraftig eller endelig.
 
-Som samboer etter første ledd regnesperson som avdøde har levet sammen med i ekteskapslignende forhold hvis det i Folkeregisteret framgår at de to har hatt samme bolig de siste to årene, ellerperson som hadde felles barn og felles bolig med avdøde.En person regnes likevel ikke som samboer dersom det på dødsfallstidspunktet forelå forhold som var til hinder for at lovlig ekteskap kunne inngås.
+Som samboer etter første ledd regnes
+
+- person som avdøde har levet sammen med i ekteskapslignende forhold hvis det i Folkeregisteret framgår at de to har hatt samme bolig de siste to årene, eller
+- person som hadde felles barn og felles bolig med avdøde.
+
+En person regnes likevel ikke som samboer dersom det på dødsfallstidspunktet forelå forhold som var til hinder for at lovlig ekteskap kunne inngås.
 
 Dersom avdøde tjenestegjorde i en internasjonal operasjon på dødsfallstidspunktet, regnes samboer etter første ledd som person som den avdøde har levd sammen med i et ekteskapslignende forhold, og som ifølge Folkeregisteret har hatt samme bolig som den avdøde de siste ni månedene før utreisetidspunktet. Kravet om ni måneders samboerskap gjelder ikke dersom avdøde har felles barn med samboeren.
 

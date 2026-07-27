@@ -15,7 +15,7 @@ xml_hash: "0c741888572fbaef88c21b679cea3f6dde3f3fa03fb1811f6b7f9f44e714d414"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,26 @@ Med mindre annet fremgår av forskriften, omfatter forskriften legemidler som sk
 
 ### § 1-3. Alminnelige definisjoner
 
-I forskriften menes med*legemiddel:* ethvert stoff, droge eller preparat somutgis for å være egnet til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter, eller påvirke fysiologiske funksjoner hos mennesker ellerkan anvendes eller gis til mennesker for å gjenopprette, endre, eller påvirke fysiologiske funksjoner gjennom en farmakologisk, immunologisk eller metabolsk virkning, eller for å påvise sykdom,*magistrelt legemiddel:* legemiddel som tilvirkes i apotek etter bestilling fra rekvirent til en bestemt bruker,*offisinelt legemiddel:* legemiddel som tilvirkes i apotek slik det er anvist i en farmakopé og som skal utleveres direkte til vedkommende apoteks kunder,*immunologisk legemiddel:* legemiddel i form av vaksiner, toksiner, sera eller allergener som anvendes til mennesker for å fremkalle aktiv eller passiv immunitet eller for å påvise immunitet,*radioaktivt legemiddel:* legemiddel som når det er klart til bruk, inneholder en eller flere radionuklider (radioaktive isotoper) som er tilsatt for medisinske formål,*radionuklidegenerator:* system som omfatter en bestemt moderradionuklid, hvorfra det fremstilles en datterradionuklid som skal frigjøres ved eluering eller en annen metode og anvendes i et radioaktivt legemiddel,*kit:* enhver tilberedning som skal rekonstitueres eller kombineres med radionukleider i et ferdig radioaktivt legemiddel,*stamoppløsning til radioaktivt legemiddel:* annen radionuklid enn generator og kit til radioaktiv merking av et stoff før det blir tilført,*stoff:* materiale av human, animalsk, vegetabilsk eller kjemisk opprinnelse,*risiko ved bruk av legemidlet:* enhver risiko forbundet med legemidlets kvalitet, sikkerhet og effekt for pasientens helse eller for folkehelsen, og enhver risiko for uønskede virkninger på miljøet,*nytte-/risikoforhold:* En vurdering av legemidlets positive terapeutiske effekt i forhold til den risiko som beskrevet i bokstav l),*risikohåndteringssystem:* overvåkingstiltak for å identifisere, karakterisere, forebygge eller redusere risiko ved et legemiddel eller vurderer disse tiltakenes effekt,*risikohåndteringsplan:* detaljert beskrivelse av risikohåndteringssystemet,*legemiddelovervåkingssystem:* system som innehaveren av markedsføringstillatelsen og myndighetene benytter for å ivareta overvåkingsplikten, overvåke sikkerheten av godkjente legemidler og avdekke endringer i nytte-/risikoforholdet,*masterfil for legemiddelovervåkingssystem:* detaljert beskrivelse av legemiddelovervåkingssystemet innehaver av markedsføringstillatelsen benytter for ett eller flere legemidler,
+I forskriften menes med
+
+1. *legemiddel:* ethvert stoff, droge eller preparat som
+
+   1. utgis for å være egnet til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter, eller påvirke fysiologiske funksjoner hos mennesker eller
+   2. kan anvendes eller gis til mennesker for å gjenopprette, endre, eller påvirke fysiologiske funksjoner gjennom en farmakologisk, immunologisk eller metabolsk virkning, eller for å påvise sykdom,
+2. *magistrelt legemiddel:* legemiddel som tilvirkes i apotek etter bestilling fra rekvirent til en bestemt bruker,
+3. *offisinelt legemiddel:* legemiddel som tilvirkes i apotek slik det er anvist i en farmakopé og som skal utleveres direkte til vedkommende apoteks kunder,
+4. *immunologisk legemiddel:* legemiddel i form av vaksiner, toksiner, sera eller allergener som anvendes til mennesker for å fremkalle aktiv eller passiv immunitet eller for å påvise immunitet,
+5. *radioaktivt legemiddel:* legemiddel som når det er klart til bruk, inneholder en eller flere radionuklider (radioaktive isotoper) som er tilsatt for medisinske formål,
+6. *radionuklidegenerator:* system som omfatter en bestemt moderradionuklid, hvorfra det fremstilles en datterradionuklid som skal frigjøres ved eluering eller en annen metode og anvendes i et radioaktivt legemiddel,
+7. *kit:* enhver tilberedning som skal rekonstitueres eller kombineres med radionukleider i et ferdig radioaktivt legemiddel,
+8. *stamoppløsning til radioaktivt legemiddel:* annen radionuklid enn generator og kit til radioaktiv merking av et stoff før det blir tilført,
+9. *stoff:* materiale av human, animalsk, vegetabilsk eller kjemisk opprinnelse,
+10. *risiko ved bruk av legemidlet:* enhver risiko forbundet med legemidlets kvalitet, sikkerhet og effekt for pasientens helse eller for folkehelsen, og enhver risiko for uønskede virkninger på miljøet,
+11. *nytte-/risikoforhold:* En vurdering av legemidlets positive terapeutiske effekt i forhold til den risiko som beskrevet i bokstav l),
+12. *risikohåndteringssystem:* overvåkingstiltak for å identifisere, karakterisere, forebygge eller redusere risiko ved et legemiddel eller vurderer disse tiltakenes effekt,
+13. *risikohåndteringsplan:* detaljert beskrivelse av risikohåndteringssystemet,
+14. *legemiddelovervåkingssystem:* system som innehaveren av markedsføringstillatelsen og myndighetene benytter for å ivareta overvåkingsplikten, overvåke sikkerheten av godkjente legemidler og avdekke endringer i nytte-/risikoforholdet,
+15. *masterfil for legemiddelovervåkingssystem:* detaljert beskrivelse av legemiddelovervåkingssystemet innehaver av markedsføringstillatelsen benytter for ett eller flere legemidler,
 
 > Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -58,7 +77,15 @@ Kravet til markedsføringstillatelse gjelder ikke tradisjonelle plantebaserte le
 
 ### § 2-2. Unntak fra krav om markedsføringstillatelse
 
-Unntatt fra kravet om markedsføringstillatelse ermagistrelle og offisinelle legemidler,legemidler bestemt til forsknings- eller utviklingsforsøk,mellomprodukter som skal bearbeides videre av en produsent med tilvirkertillatelse,legemidler til mennesker som inneholder radionukleider i form av lukkede kilder,fullblod, plasma og blodceller av human opprinnelse, bortsett fra plasma som fremstilles under anvendelse av en industriell prosess,legemiddel til bruk ved maskinell dosedispensering dersom legemidlet er omfattet av en norsk markedsføringstillatelse i en annen pakningsstørrelse.legemidler som utelukkende er beregnet for akvariefisk til prydformål i henhold til virkestoffliste bestemt av Direktoratet for medisinske produkter. Det kan søkes Direktoratet for medisinske produkter om å få virkestoff på listen.
+Unntatt fra kravet om markedsføringstillatelse er
+
+1. magistrelle og offisinelle legemidler,
+2. legemidler bestemt til forsknings- eller utviklingsforsøk,
+3. mellomprodukter som skal bearbeides videre av en produsent med tilvirkertillatelse,
+4. legemidler til mennesker som inneholder radionukleider i form av lukkede kilder,
+5. fullblod, plasma og blodceller av human opprinnelse, bortsett fra plasma som fremstilles under anvendelse av en industriell prosess,
+6. legemiddel til bruk ved maskinell dosedispensering dersom legemidlet er omfattet av en norsk markedsføringstillatelse i en annen pakningsstørrelse.
+7. legemidler som utelukkende er beregnet for akvariefisk til prydformål i henhold til virkestoffliste bestemt av Direktoratet for medisinske produkter. Det kan søkes Direktoratet for medisinske produkter om å få virkestoff på listen.
 
 Med maskinell dosedispensering forstås at et legemiddel i eller på vegne av apotek eller helse- og omsorgstjenesten, etter tillatelse fra Direktoratet for medisinske produkter, pakkes i pakninger som er tilpasset legemidlets konkrete anvendelse for en bestemt pasient. Doseringsbeholderen kan inneholde en eller flere pasientdoser av et eller flere legemidler. De enkelte doseringstidspunkt skal være klart atskilt fra hverandre.
 
@@ -76,7 +103,12 @@ Den som omsetter legemiddel unntatt i [§ 2-2](forskrift/2009-12-18-1839/§2-2) 
 
 ### § 2-5. Unntak fra kravet om markedsføringstillatelse – søknad fra lege eller tannlege
 
-Lege eller tannlege kan på dennes personlige ansvar og etter medisinsk grunngitt søknad, rekvirere et legemiddel uten markedsføringstillatelse dersom legemidlet har markedsføringstillatelse iEØS-området,USA,land utenom EØS og USA som er medlem av Pharmaceutical Inspection Cooperation Scheme (PIC/S), elleret tredjeland og det er inngått en MRA-avtale på legemiddelområdet mellom Norge og tredjelandet.
+Lege eller tannlege kan på dennes personlige ansvar og etter medisinsk grunngitt søknad, rekvirere et legemiddel uten markedsføringstillatelse dersom legemidlet har markedsføringstillatelse i
+
+1. EØS-området,
+2. USA,
+3. land utenom EØS og USA som er medlem av Pharmaceutical Inspection Cooperation Scheme (PIC/S), eller
+4. et tredjeland og det er inngått en MRA-avtale på legemiddelområdet mellom Norge og tredjelandet.
 
 Direktoratet for medisinske produkter fastsetter i egen liste hvilke legemidler som ikke omfattes av bestemmelsen i første ledd.
 
@@ -90,7 +122,10 @@ Første ledd gjelder tilsvarende for homøopatiske legemidler som ikke har marke
 
 Hvert apotek melder til Direktoratet for medisinske produkter om hver enkelt rekvirering og utlevering etter første, femte, sjette og åttende ledd bokstav a (ekspederingslisten).
 
-Direktoratet for medisinske produkter kan etter medisinsk grunngitt søknad fra lege eller tannlege og på dennes personlige ansvar gjøre unntak fra kravet om markedsføringstillatelse forlegemiddel som ikke er omfattet av notifiseringsordningen i første ledd,legemiddel som er oppført på en negativliste fastsatt av Direktoratet for medisinske produkter.
+Direktoratet for medisinske produkter kan etter medisinsk grunngitt søknad fra lege eller tannlege og på dennes personlige ansvar gjøre unntak fra kravet om markedsføringstillatelse for
+
+1. legemiddel som ikke er omfattet av notifiseringsordningen i første ledd,
+2. legemiddel som er oppført på en negativliste fastsatt av Direktoratet for medisinske produkter.
 
 Rekvirering etter denne bestemmelsen kan gjøres for et bestemt legemiddel til navngitt pasient eller til bruk i rekvirentens praksis, eller til et bestemt legemiddel som skal brukes på sykehus og/ eller dets poliklinikk. Ved bruk i sykehus eller poliklinikk skal samtykke innhentes av den ansvarlige overlege ved vedkommende avdeling.
 
@@ -106,7 +141,10 @@ Rekvirering etter denne bestemmelsen kan gjøres for et bestemt legemiddel til n
 
 ### § 2-8. Unntak fra kravet om markedsføringstillatelse i særlige tilfelle
 
-Direktoratet for medisinske produkter kan tillate omsetning av et legemiddel det ikke er innvilget markedsføringstillatelse for i Norge dersomlegemidlet har markedsføringstillatelse i EØS-området etter reglene i direktiv [2001/83/EF](eu/32001l0083) som endret ved direktiv [2003/63/EF](eu/32003l0063), direktiv [2004/24/EF](eu/32004l0024) og direktiv [2004/27/EF](eu/32004l0027), ogslik omsetning kan begrunnes i hensynet til beskyttelse av folkehelsen.
+Direktoratet for medisinske produkter kan tillate omsetning av et legemiddel det ikke er innvilget markedsføringstillatelse for i Norge dersom
+
+1. legemidlet har markedsføringstillatelse i EØS-området etter reglene i direktiv [2001/83/EF](eu/32001l0083) som endret ved direktiv [2003/63/EF](eu/32003l0063), direktiv [2004/24/EF](eu/32004l0024) og direktiv [2004/27/EF](eu/32004l0027), og
+2. slik omsetning kan begrunnes i hensynet til beskyttelse av folkehelsen.
 
 Før tillatelse gis underretter Direktoratet for medisinske produkter innehaveren av markedsføringstillatelsen i andre EØS-land om at det vurderes å utstede tillatelse.
 
@@ -138,7 +176,28 @@ Det må sendes inn separat søknad for hver styrke og legemiddelform.
 
 I søknaden skal gis de opplysninger og dokumentasjon av legemidlets kvalitet, sikkerhet og effekt som i henhold til gjeldende regelverk anses nødvendig for å vurdere om legemidlet har et positivt nytte-/risikoforhold.
 
-Søknad om markedsføringstillatelse skal inneholde:administrative opplysninger,legemidlets navn,kvalitativ og kvantitativ opplysning om alle legemidlets innholdsstoffer herunder det internasjonale fellesnavn (INN), anbefalt av WHO, såfremt et slikt fellesnavn finnes eller en henvisning til betegnelsen på den kjemiske forbindelsen virkestoffet utgjør,dosering, legemiddelform, anvendelsesmåte samt antatt holdbarhet,en vurdering av den risiko som legemidlet kan medføre for miljøet og forslag til tiltak for å begrense risikoen,angivelse av de forholds- og forsiktighetsregler som skal treffes ved lagring av legemidlet, i forbindelse med pasientens inntak av legemidlet og ved avfallshåndtering av legemidlet,ekspertrapporter, jf. [§ 3-7](forskrift/2009-12-18-1839/§3-7),kjemisk, farmasøytisk og biologisk dokumentasjon, herunder beskrivelse av fremstillingsmåten, beskrivelse av kontrollmetoder anvendt av tilvirker, et dokument som viser at tilvirker har tillatelse til å fremstille legemidlet i det landet vedkommende er etablert, og en skriftlig bekreftelse på at tilvirker av legemidlet har gjennomført kvalitetsrevisjon (audit) for å påse at tilvirker av virksomt stoff følger god tilvirkningspraksis, jf. [forskrift 2. november 2004 nr. 1441](forskrift/2004-11-02-1441) om tilvirkning og import av legemidler [§ 2-8](forskrift/2004-11-02-1441/§2-8) annet ledd, og når denne kvalitetsrevisjonen fant sted,preklinisk dokumentasjon, herunder resultater fra toksikologiske og farmakologiske undersøkelser,klinisk dokumentasjon, herunder resultater fra kliniske undersøkelser, samt opplysninger om terapeutiske indikasjoner, kontraindikasjoner og bivirkninger, forslag til reseptstatus og eventuell utleveringsbestemmelse og rekvireringsregel, og en erklæring om at kliniske studier gjennomført utenfor EØS-området oppfyller både forskningsetiske krav og krav til god klinisk forskningspraksis i direktiv [2001/20/EF](eu/32001l0020),oppsummering av legemiddelovervåkingssystemet med dokumentasjon på at søker har en kvalifisert person ansvarlig for legemiddelovervåking, erklæring om at kvalifisert person har nødvendige ressurser tilgjengelig, kontaktinformasjon til kvalifisert person og informasjon om oppbevaringssted for overvåkingssystemets masterfil,risikohåndteringsplan som beskriver risikohåndteringssystemet for legemidlet. Omfanget av risikohåndteringssystemet skal gjenspeile behovet for sikkerhetsdata ut fra identifisert og potensiell risiko, og behovet for sikkerhetsdata etter markedsføring,forslag til preparatomtale utformet i henhold til bestemmelsene i [§ 3-27](forskrift/2009-12-18-1839/§3-27),forslag til merking i form av mock-up av ytre og indre pakning merket i henhold til bestemmelsene i [§ 3-29](forskrift/2009-12-18-1839/§3-29) til [§ 3-41](forskrift/2009-12-18-1839/§3-41),forslag til pakningsvedlegg utformet i henhold til bestemmelsene i [§ 3-42](forskrift/2009-12-18-1839/§3-42) til [§ 3-56](forskrift/2009-12-18-1839/§3-56),kopi av enhver tillatelse til å markedsføre legemidlet i et annet EØS-land eller i land utenfor EØS-området, oversikt over de EØS-land hvor søknad om markedsføringstillatelse er til behandling og en sammenfatning av alle sikkerhetsdata, herunder periodiske sikkerhetsrapporter og bivirkningsrapporter,kopi av preparatomtalen og pakningsvedlegget som er foreslått av søkeren eller godkjent av myndighetene i annet EØS-land,nærmere opplysninger og begrunnelse for ethvert vedtak om avslag eller tilbaketrekking av søknad om tillatelse, både i annet EØS-land og i land utenfor EØS-området,kopi av eventuell avgjørelse om status som legemiddel mot sjeldne sykdommer i henhold til forordning [(EF) nr. 141/2000](eu/32000r0141) om legemidler til sjeldne sykdommer, vedlagt uttalelsen fra Det europeiske legemiddelbyrå (EMA),dokumentasjon i henhold til godkjent plan for utprøvning av legemidler til barn, eller fritak fra sådan, i samsvar med kravene i [§ 15-8](forskrift/2009-12-18-1839/§15-8), jf. forordning [(EF) nr. 1901/2006](eu/32006r1901).
+Søknad om markedsføringstillatelse skal inneholde:
+
+1. administrative opplysninger,
+2. legemidlets navn,
+3. kvalitativ og kvantitativ opplysning om alle legemidlets innholdsstoffer herunder det internasjonale fellesnavn (INN), anbefalt av WHO, såfremt et slikt fellesnavn finnes eller en henvisning til betegnelsen på den kjemiske forbindelsen virkestoffet utgjør,
+4. dosering, legemiddelform, anvendelsesmåte samt antatt holdbarhet,
+5. en vurdering av den risiko som legemidlet kan medføre for miljøet og forslag til tiltak for å begrense risikoen,
+6. angivelse av de forholds- og forsiktighetsregler som skal treffes ved lagring av legemidlet, i forbindelse med pasientens inntak av legemidlet og ved avfallshåndtering av legemidlet,
+7. ekspertrapporter, jf. [§ 3-7](forskrift/2009-12-18-1839/§3-7),
+8. kjemisk, farmasøytisk og biologisk dokumentasjon, herunder beskrivelse av fremstillingsmåten, beskrivelse av kontrollmetoder anvendt av tilvirker, et dokument som viser at tilvirker har tillatelse til å fremstille legemidlet i det landet vedkommende er etablert, og en skriftlig bekreftelse på at tilvirker av legemidlet har gjennomført kvalitetsrevisjon (audit) for å påse at tilvirker av virksomt stoff følger god tilvirkningspraksis, jf. [forskrift 2. november 2004 nr. 1441](forskrift/2004-11-02-1441) om tilvirkning og import av legemidler [§ 2-8](forskrift/2004-11-02-1441/§2-8) annet ledd, og når denne kvalitetsrevisjonen fant sted,
+9. preklinisk dokumentasjon, herunder resultater fra toksikologiske og farmakologiske undersøkelser,
+10. klinisk dokumentasjon, herunder resultater fra kliniske undersøkelser, samt opplysninger om terapeutiske indikasjoner, kontraindikasjoner og bivirkninger, forslag til reseptstatus og eventuell utleveringsbestemmelse og rekvireringsregel, og en erklæring om at kliniske studier gjennomført utenfor EØS-området oppfyller både forskningsetiske krav og krav til god klinisk forskningspraksis i direktiv [2001/20/EF](eu/32001l0020),
+11. oppsummering av legemiddelovervåkingssystemet med dokumentasjon på at søker har en kvalifisert person ansvarlig for legemiddelovervåking, erklæring om at kvalifisert person har nødvendige ressurser tilgjengelig, kontaktinformasjon til kvalifisert person og informasjon om oppbevaringssted for overvåkingssystemets masterfil,
+12. risikohåndteringsplan som beskriver risikohåndteringssystemet for legemidlet. Omfanget av risikohåndteringssystemet skal gjenspeile behovet for sikkerhetsdata ut fra identifisert og potensiell risiko, og behovet for sikkerhetsdata etter markedsføring,
+13. forslag til preparatomtale utformet i henhold til bestemmelsene i [§ 3-27](forskrift/2009-12-18-1839/§3-27),
+14. forslag til merking i form av mock-up av ytre og indre pakning merket i henhold til bestemmelsene i [§ 3-29](forskrift/2009-12-18-1839/§3-29) til [§ 3-41](forskrift/2009-12-18-1839/§3-41),
+15. forslag til pakningsvedlegg utformet i henhold til bestemmelsene i [§ 3-42](forskrift/2009-12-18-1839/§3-42) til [§ 3-56](forskrift/2009-12-18-1839/§3-56),
+16. kopi av enhver tillatelse til å markedsføre legemidlet i et annet EØS-land eller i land utenfor EØS-området, oversikt over de EØS-land hvor søknad om markedsføringstillatelse er til behandling og en sammenfatning av alle sikkerhetsdata, herunder periodiske sikkerhetsrapporter og bivirkningsrapporter,
+17. kopi av preparatomtalen og pakningsvedlegget som er foreslått av søkeren eller godkjent av myndighetene i annet EØS-land,
+18. nærmere opplysninger og begrunnelse for ethvert vedtak om avslag eller tilbaketrekking av søknad om tillatelse, både i annet EØS-land og i land utenfor EØS-området,
+19. kopi av eventuell avgjørelse om status som legemiddel mot sjeldne sykdommer i henhold til forordning [(EF) nr. 141/2000](eu/32000r0141) om legemidler til sjeldne sykdommer, vedlagt uttalelsen fra Det europeiske legemiddelbyrå (EMA),
+20. dokumentasjon i henhold til godkjent plan for utprøvning av legemidler til barn, eller fritak fra sådan, i samsvar med kravene i [§ 15-8](forskrift/2009-12-18-1839/§15-8), jf. forordning [(EF) nr. 1901/2006](eu/32006r1901).
 
 Søknadens nærmere utforming og innhold skal være i samsvar med vedlegg I til direktiv [2001/83/EF](eu/32001l0083) som endret ved direktiv [2003/63/EF](eu/32003l0063), direktiv [2004/24/EF](eu/32004l0024), direktiv [2004/27/EF](eu/32004l0027), direktiv [2009/53/EF](eu/32009l0053) og direktiv [2009/120/EF](eu/32009l0120).
 
@@ -154,7 +213,10 @@ Direktoratet for medisinske produkter kan kreve at søkeren sender inn prøver a
 
 ### § 3-6. Særlige innholdskrav til søknad for radioaktive legemidler
 
-Søknad om markedsføringstillatelse for en radionuklidegenerator skal i tillegg til det som følger av bestemmelsen i [§ 3-4](forskrift/2009-12-18-1839/§3-4) inneholde:en alminnelig beskrivelse av systemet og detaljert beskrivelse av de komponenter i systemet som kan påvirke sammensetningen eller kvaliteten på datternuklidepreparatet, ogkvalitativ og kvantitativ beskrivelse av eluatet eller sublimatet.
+Søknad om markedsføringstillatelse for en radionuklidegenerator skal i tillegg til det som følger av bestemmelsen i [§ 3-4](forskrift/2009-12-18-1839/§3-4) inneholde:
+
+1. en alminnelig beskrivelse av systemet og detaljert beskrivelse av de komponenter i systemet som kan påvirke sammensetningen eller kvaliteten på datternuklidepreparatet, og
+2. kvalitativ og kvantitativ beskrivelse av eluatet eller sublimatet.
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -201,27 +263,43 @@ Dersom et biologisk legemiddel ikke faller inn under definisjonen av generisk le
 
 ### § 3-10. Tidspunkt for innsendelse av søknad for generisk legemiddel i nasjonale prosedyrer
 
-Dersom første søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendtfør 1. november 2005, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes seks år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.mellom 1. november 2005 og 11. januar 2010, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes ti år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.12. januar 2010 eller senere, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes åtte år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
+Dersom første søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendt
+
+1. før 1. november 2005, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes seks år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
+2. mellom 1. november 2005 og 11. januar 2010, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes ti år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
+3. 12\. januar 2010 eller senere, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes åtte år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
 
 ### § 3-10a. Tidspunkt for innsendelse av søknad for generisk legemiddel godkjent i sentral prosedyre
 
-Dersom søknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i [kapittel 6](forskrift/2009-12-18-1839/kap6)før 20. november 2005, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes 10 år etter at referanselegemidlet fikk markedsføringstillatelse.20. november 2005 eller senere, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes åtte år etter at referanselegemidlet fikk første markedsføringstillatelse.
+Dersom søknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i [kapittel 6](forskrift/2009-12-18-1839/kap6)
+
+1. før 20. november 2005, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes 10 år etter at referanselegemidlet fikk markedsføringstillatelse.
+2. 20\. november 2005 eller senere, kan søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) tidligst fremsettes åtte år etter at referanselegemidlet fikk første markedsføringstillatelse.
 
 ### § 3-11. Tidspunkt for markedsføring av generisk legemiddel godkjent i nasjonale prosedyrer
 
-Dersom første søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendtfør 12. januar 2010, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes straks den er utstedt av Direktoratet for medisinske produkter.12. januar 2010 eller senere, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes 10 år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
+Dersom første søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendt
+
+1. før 12. januar 2010, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes straks den er utstedt av Direktoratet for medisinske produkter.
+2. 12\. januar 2010 eller senere, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes 10 år etter at referanselegemidlet fikk første markedsføringstillatelse innen EØS-området.
 
 > Endret ved forskrifter [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ### § 3-11a. Tidspunkt for markedsføring av generisk legemiddel godkjent i sentral prosedyre
 
-Dersom søknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i [kapittel 6](forskrift/2009-12-18-1839/kap6)før 20. november 2005, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes straks den er utstedt av Direktoratet for medisinske produkter.20. november 2005 eller senere, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes 10 år etter at referanselegemidlet fikk første markedsføringstillatelse.
+Dersom søknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i [kapittel 6](forskrift/2009-12-18-1839/kap6)
+
+1. før 20. november 2005, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes straks den er utstedt av Direktoratet for medisinske produkter.
+2. 20\. november 2005 eller senere, kan markedsføringstillatelse som følge av søknad som nevnt i [§ 3-9](forskrift/2009-12-18-1839/§3-9) benyttes 10 år etter at referanselegemidlet fikk første markedsføringstillatelse.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ### § 3-11b. Forlengelse av markedsbeskyttelsen for legemiddel
 
-Dersom innehaveren av markedsføringstillatelsen for et legemiddel senest åtte år etter at referanselegemidlet fikk markedsføringstillatelse innen EØS-området får godkjent en eller flere nye terapeutiske indikasjoner som anses å innebære en betydelig klinisk fordel i forhold til eksisterende behandlingsformer, forlenges perioden på 10 år som nevnt i [§ 3-11](forskrift/2009-12-18-1839/§3-11) og [§ 3-11a](forskrift/2009-12-18-1839/§3-11a) til maksimalt 11 år dersomførste søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendt 12. januar 2010 eller senere, ellersøknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i kapittel 6 20. november 2005 eller senere.
+Dersom innehaveren av markedsføringstillatelsen for et legemiddel senest åtte år etter at referanselegemidlet fikk markedsføringstillatelse innen EØS-området får godkjent en eller flere nye terapeutiske indikasjoner som anses å innebære en betydelig klinisk fordel i forhold til eksisterende behandlingsformer, forlenges perioden på 10 år som nevnt i [§ 3-11](forskrift/2009-12-18-1839/§3-11) og [§ 3-11a](forskrift/2009-12-18-1839/§3-11a) til maksimalt 11 år dersom
+
+1. første søknad om markedsføringstillatelse for referanselegemidlet innen EØS-området ble innsendt 12. januar 2010 eller senere, eller
+2. søknad om markedsføringstillatelse for referanselegemidlet er oversendt Det europeiske legemiddelbyrå (EMA) i samsvar med prosedyren som nevnt i kapittel 6 20. november 2005 eller senere.
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -255,13 +333,19 @@ For legemiddel som inneholder virkestoff som inngår i godkjente legemidler, men
 
 ### § 3-14. Søknad basert på samtykke
 
-Kjemisk, farmasøytisk, biologisk, toksikologisk, farmakologisk og klinisk dokumentasjon, jf. [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstav h, i og j, for et legemiddel med markedsføringstillatelse kan benyttes som dokumentasjon dersomlegemidlet har samme kvalitative og kvantitative sammensetning av virkestoff og samme legemiddelform som legemidlet med markedsføringstillatelse, oginnehaveren av markedsføringstillatelsen samtykker i at ovennevnte dokumentasjon benyttes ved behandlingen av den aktuelle søknaden.
+Kjemisk, farmasøytisk, biologisk, toksikologisk, farmakologisk og klinisk dokumentasjon, jf. [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstav h, i og j, for et legemiddel med markedsføringstillatelse kan benyttes som dokumentasjon dersom
+
+1. legemidlet har samme kvalitative og kvantitative sammensetning av virkestoff og samme legemiddelform som legemidlet med markedsføringstillatelse, og
+2. innehaveren av markedsføringstillatelsen samtykker i at ovennevnte dokumentasjon benyttes ved behandlingen av den aktuelle søknaden.
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
 ### § 3-15. Naturlegemiddel
 
-Ved søknad om markedsføringstillatelse for et naturlegemiddel kreves ikke toksikologisk, farmakologisk og klinisk dokumentasjon, jf. [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstavene i og j dersom:naturlegemidlet er egnet til egenbehandling av tilstander som brukerne selv kan diagnostisere og behandle, ogsøkeren kan dokumentere fra publisert vitenskapelig litteratur at naturlegemidlets virkestoffer har vært i tradisjonell bruk i minst 30 år forut for søknad, herunder minst 15 år i EØS-området, har anerkjent effekt og er tilstrekkelig sikre.
+Ved søknad om markedsføringstillatelse for et naturlegemiddel kreves ikke toksikologisk, farmakologisk og klinisk dokumentasjon, jf. [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstavene i og j dersom:
+
+1. naturlegemidlet er egnet til egenbehandling av tilstander som brukerne selv kan diagnostisere og behandle, og
+2. søkeren kan dokumentere fra publisert vitenskapelig litteratur at naturlegemidlets virkestoffer har vært i tradisjonell bruk i minst 30 år forut for søknad, herunder minst 15 år i EØS-området, har anerkjent effekt og er tilstrekkelig sikre.
 
 Dersom tilstandens symptomer også kan skyldes alvorlig bakenforliggende sykdom, skal naturlegemidlet være merket med en anbefaling om å ta kontakt med lege før preparatet benyttes.
 
@@ -273,9 +357,20 @@ Direktoratet for medisinske produkter kan stille særlige krav til innholdet i m
 
 ### § 3-16. Forenklet søknad for tradisjonelt plantebasert legemiddel
 
-Forenklet søknad om registrering for et tradisjonelt plantebasert legemiddel kan sendes Direktoratet for medisinske produkter etter reglene i [§ 3-17](forskrift/2009-12-18-1839/§3-17) til [§ 3-19](forskrift/2009-12-18-1839/§3-19) dersom følgende forutsetninger er oppfylt:legemidlet har indikasjoner som utelukkende er passende for tradisjonelle plantebaserte legemidler som i kraft av sin sammensetning og formål er beregnet til og utformet med henblikk på anvendelse uten tilsyn av lege for diagnostisering, ordinering eller overvåkning av behandlingen,legemidlet utelukkende skal brukes i overensstemmelse med en nærmere angitt styrke og dosering,legemidlet inntas oralt, er til utvortes bruk og/eller inhalering,krav til periode for tradisjonell bruk er oppfylt, jf. [§ 3-17](forskrift/2009-12-18-1839/§3-17) andre ledd bokstav d,data om legemidlets tradisjonelle anvendelse er tilstrekkelig, herunder at det er dokumentert at legemidlet ikke er skadelig ved anbefalt bruk, og at det på grunnlag av lang brukstradisjon kan antas at legemidlet har farmakologisk effekt eller virkning,søker i forbindelse med søknaden ikke kan fremlegge all dokumentasjon som nevnt i [§ 3-4](forskrift/2009-12-18-1839/§3-4), [§ 3-9](forskrift/2009-12-18-1839/§3-9) eller [§ 3-12](forskrift/2009-12-18-1839/§3-12), oglegemidlet ikke kan registreres som et homøopatisk legemiddel etter bestemmelsene i [§ 3-21](forskrift/2009-12-18-1839/§3-21) og [§ 3-22](forskrift/2009-12-18-1839/§3-22).
+Forenklet søknad om registrering for et tradisjonelt plantebasert legemiddel kan sendes Direktoratet for medisinske produkter etter reglene i [§ 3-17](forskrift/2009-12-18-1839/§3-17) til [§ 3-19](forskrift/2009-12-18-1839/§3-19) dersom følgende forutsetninger er oppfylt:
 
-For tradisjonelt plantebasert legemiddel med innhold av vitaminer eller mineraler kan det søkes i henhold til første ledd dersom:vitaminene og/eller mineralene har en veldokumentert sikkerhet, ogvitaminene og/eller mineralenes virkning understøtter virkningen av de aktive plantebestanddelene i tråd med det angitte bruksområdet.
+1. legemidlet har indikasjoner som utelukkende er passende for tradisjonelle plantebaserte legemidler som i kraft av sin sammensetning og formål er beregnet til og utformet med henblikk på anvendelse uten tilsyn av lege for diagnostisering, ordinering eller overvåkning av behandlingen,
+2. legemidlet utelukkende skal brukes i overensstemmelse med en nærmere angitt styrke og dosering,
+3. legemidlet inntas oralt, er til utvortes bruk og/eller inhalering,
+4. krav til periode for tradisjonell bruk er oppfylt, jf. [§ 3-17](forskrift/2009-12-18-1839/§3-17) andre ledd bokstav d,
+5. data om legemidlets tradisjonelle anvendelse er tilstrekkelig, herunder at det er dokumentert at legemidlet ikke er skadelig ved anbefalt bruk, og at det på grunnlag av lang brukstradisjon kan antas at legemidlet har farmakologisk effekt eller virkning,
+6. søker i forbindelse med søknaden ikke kan fremlegge all dokumentasjon som nevnt i [§ 3-4](forskrift/2009-12-18-1839/§3-4), [§ 3-9](forskrift/2009-12-18-1839/§3-9) eller [§ 3-12](forskrift/2009-12-18-1839/§3-12), og
+7. legemidlet ikke kan registreres som et homøopatisk legemiddel etter bestemmelsene i [§ 3-21](forskrift/2009-12-18-1839/§3-21) og [§ 3-22](forskrift/2009-12-18-1839/§3-22).
+
+For tradisjonelt plantebasert legemiddel med innhold av vitaminer eller mineraler kan det søkes i henhold til første ledd dersom:
+
+1. vitaminene og/eller mineralene har en veldokumentert sikkerhet, og
+2. vitaminene og/eller mineralenes virkning understøtter virkningen av de aktive plantebestanddelene i tråd med det angitte bruksområdet.
 
 Søker og innehaver av registreringen skal være etablert i EØS-området.
 
@@ -285,7 +380,13 @@ Søker og innehaver av registreringen skal være etablert i EØS-området.
 
 Søknad om registrering for tradisjonelt plantebasert legemiddel skal inneholde opplysninger som nevnt i [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstav a til f, i, n og o. Søknaden skal også inneholde opplysninger om bruksområde, kontraindikasjoner og bivirkninger som nevnt i [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstav j, og en beskrivelse av fremstillingsmåten, beskrivelse av kontrollmetoder anvendt av tilvirker samt et dokument som viser at tilvirker har tillatelse til å fremstille legemidlet i sin hjemstat som nevnt i [§ 3-4](forskrift/2009-12-18-1839/§3-4) andre ledd bokstav h.
 
-I tillegg skal søknaden inneholde:forslag til preparatomtale i samsvar med [§ 3-27](forskrift/2009-12-18-1839/§3-27) med unntak av opplysningene i første ledd nr. 4.1,ved sammensetning som nevnt i [§ 3-8](forskrift/2009-12-18-1839/§3-8) første ledd bokstav e og [§ 3-16](forskrift/2009-12-18-1839/§3-16) andre ledd; data om kombinasjonens tradisjonelle anvendelse som nevnt i [§ 3-16](forskrift/2009-12-18-1839/§3-16) første ledd bokstav e, dersom de enkelte virkestoffer ikke er tilstrekkelig kjente skal opplysningene også omfatte de enkelte virkestoffer,opplysninger om markedsføringstillatelse eller registrering oppnådd i annet EØS-land eller et tredjeland, samt opplysninger om eventuelle avslag på søknad om markedsføringstillatelse eller registrering innenfor EØS-området eller tredjeland, herunder begrunnelsen for avslagbibliografisk dokumentasjon eller ekspertuttalelser som dokumenterer at det aktuelle legemiddel, eller tilsvarende middel, har vært anvendt medisinsk i minst 30 år forut for innsendelse av søknad, herunder minst 15 år i EØS-området, ogen bibliografisk gjennomgang av sikkerhetsdata samt en ekspertrapport og, dersom Direktoratet for medisinske produkter finner det nødvendig ytterligere data til vurdering av legemidlets sikkerhet.
+I tillegg skal søknaden inneholde:
+
+1. forslag til preparatomtale i samsvar med [§ 3-27](forskrift/2009-12-18-1839/§3-27) med unntak av opplysningene i første ledd nr. 4.1,
+2. ved sammensetning som nevnt i [§ 3-8](forskrift/2009-12-18-1839/§3-8) første ledd bokstav e og [§ 3-16](forskrift/2009-12-18-1839/§3-16) andre ledd; data om kombinasjonens tradisjonelle anvendelse som nevnt i [§ 3-16](forskrift/2009-12-18-1839/§3-16) første ledd bokstav e, dersom de enkelte virkestoffer ikke er tilstrekkelig kjente skal opplysningene også omfatte de enkelte virkestoffer,
+3. opplysninger om markedsføringstillatelse eller registrering oppnådd i annet EØS-land eller et tredjeland, samt opplysninger om eventuelle avslag på søknad om markedsføringstillatelse eller registrering innenfor EØS-området eller tredjeland, herunder begrunnelsen for avslag
+4. bibliografisk dokumentasjon eller ekspertuttalelser som dokumenterer at det aktuelle legemiddel, eller tilsvarende middel, har vært anvendt medisinsk i minst 30 år forut for innsendelse av søknad, herunder minst 15 år i EØS-området, og
+5. en bibliografisk gjennomgang av sikkerhetsdata samt en ekspertrapport og, dersom Direktoratet for medisinske produkter finner det nødvendig ytterligere data til vurdering av legemidlets sikkerhet.
 
 Et tilsvarende middel kjennetegnes ved at det har samme virkestoffer uten hensyn til anvendte hjelpestoffer, samme eller lignende formål, tilsvarende styrke og dosering og samme eller lignende administrasjonsmåte som det legemiddel søknaden gjelder.
 
@@ -319,7 +420,12 @@ I tillegg til det som ellers følger av forskriften, kommer bestemmelsene i [kap
 
 ### § 3-21. Forenklet søknad for homøopatiske legemidler
 
-Søknad om registrering av homøopatisk legemiddel kan fremsettes etter reglene i [§ 3-22](forskrift/2009-12-18-1839/§3-22) dersom følgende forutsetninger er oppfylt:legemidlet er til oral eller utvortes bruk,det er ikke angitt noen terapeutiske indikasjoner i legemidlets merking eller i annen informasjon om legemidlet,fortynningsgraden sikrer at legemidlet er sikkert, oglegemidlet maksimalt inneholder 1/100 av den laveste dose av det reseptpliktige virkestoff som benyttes innen etablert medisin.
+Søknad om registrering av homøopatisk legemiddel kan fremsettes etter reglene i [§ 3-22](forskrift/2009-12-18-1839/§3-22) dersom følgende forutsetninger er oppfylt:
+
+1. legemidlet er til oral eller utvortes bruk,
+2. det er ikke angitt noen terapeutiske indikasjoner i legemidlets merking eller i annen informasjon om legemidlet,
+3. fortynningsgraden sikrer at legemidlet er sikkert, og
+4. legemidlet maksimalt inneholder 1/100 av den laveste dose av det reseptpliktige virkestoff som benyttes innen etablert medisin.
 
 Kravet i første ledd bokstav c anses i alminnelighet oppfylt når legemidlet ikke inneholder mer enn 10 000-del av mortinkturen.
 
@@ -333,7 +439,15 @@ Homøopatisk legemiddel som ikke oppfyller kriteriene i første ledd, må søkes
 
 En søknad om registrering av homøopatisk legemiddel kan omfatte en serie legemidler fremstilt av samme homøopatiske stamløsning. Det må sendes inn separat søknad for hver legemiddelform.
 
-Søknad om registrering av homøopatisk legemiddel som oppfyller vilkårene i [§ 3-21](forskrift/2009-12-18-1839/§3-21) første ledd skal inneholde:den homøopatiske stamløsningens vitenskapelige betegnelse eller en annen betegnelse fra en farmakopé med angivelse av de forskjellige administrasjonsveier, legemiddelformer og fortynningsgrader som skal registreres,dokumentasjon med beskrivelse av fremstillingen og kontrollen av den homøopatiske stamløsningen som beviser stamløsningens homøopatiske tradisjon ved hjelp av tilstrekkelig bibliografisk dokumentasjon,dokumentasjon for fremstilling og kontroll for av hver legemiddelform og beskrivelse av fortynnings- og potenseringsmetoder,kopi av tillatelsen til fremstilling av det aktuelle legemidlet,kopi av eventuell registrering eller markedsføringstillatelse for det aktuelle legemidlet i andre EØS-land,forslag til merking i form av mock-ups av ytre og indre pakning for det aktuelle legemidlet, ogopplysninger vedrørende legemidlets holdbarhet.
+Søknad om registrering av homøopatisk legemiddel som oppfyller vilkårene i [§ 3-21](forskrift/2009-12-18-1839/§3-21) første ledd skal inneholde:
+
+1. den homøopatiske stamløsningens vitenskapelige betegnelse eller en annen betegnelse fra en farmakopé med angivelse av de forskjellige administrasjonsveier, legemiddelformer og fortynningsgrader som skal registreres,
+2. dokumentasjon med beskrivelse av fremstillingen og kontrollen av den homøopatiske stamløsningen som beviser stamløsningens homøopatiske tradisjon ved hjelp av tilstrekkelig bibliografisk dokumentasjon,
+3. dokumentasjon for fremstilling og kontroll for av hver legemiddelform og beskrivelse av fortynnings- og potenseringsmetoder,
+4. kopi av tillatelsen til fremstilling av det aktuelle legemidlet,
+5. kopi av eventuell registrering eller markedsføringstillatelse for det aktuelle legemidlet i andre EØS-land,
+6. forslag til merking i form av mock-ups av ytre og indre pakning for det aktuelle legemidlet, og
+7. opplysninger vedrørende legemidlets holdbarhet.
 
 Inneholder et homøopatisk legemiddel biologiske stoffer, skal søknaden i tillegg til dokumentasjonen nevnt i første ledd, inneholde dokumentasjon som viser at nødvendige forholdsregler er tatt under produksjonen for å sikre at preparatet ikke inneholder patogene agens.
 
@@ -379,11 +493,54 @@ Søknad om markedsføringstillatelse for et patentbeskyttet legemiddel omfattet 
 
 ### § 3-26. Spesielle definisjoner
 
-I dette avsnittet menes med:*legemidlets navn:* det navn legemidlet har fått, som kan være et handelsnavn, et generisk navn eller en vitenskapelig betegnelse i forbindelse med et varemerke eller navnet på innehaveren av markedsføringstillatelsen,*generisk navn:* det internasjonale navn som Verdens helseorganisasjon har anbefalt (INN) eller, om dette ikke finnes, det navnet som er i alminnelig bruk,*legemidlets styrke:* innhold av virkestoff, angitt kvantitativt pr. doseringsenhet, volumenhet eller vektenhet, alt etter doseringsform,*indre emballasje:* den beholder eller annen form for emballasje som er i direkte kontakt med legemidlet,*ytre emballasje:* den emballasjen som den indre emballasje plasseres i,*merking:* opplysninger gitt på den indre og ytre emballasje,*pakningsvedlegg:* det vedlegg med opplysninger til brukeren som følger med legemidlet.
+I dette avsnittet menes med:
+
+1. *legemidlets navn:* det navn legemidlet har fått, som kan være et handelsnavn, et generisk navn eller en vitenskapelig betegnelse i forbindelse med et varemerke eller navnet på innehaveren av markedsføringstillatelsen,
+2. *generisk navn:* det internasjonale navn som Verdens helseorganisasjon har anbefalt (INN) eller, om dette ikke finnes, det navnet som er i alminnelig bruk,
+3. *legemidlets styrke:* innhold av virkestoff, angitt kvantitativt pr. doseringsenhet, volumenhet eller vektenhet, alt etter doseringsform,
+4. *indre emballasje:* den beholder eller annen form for emballasje som er i direkte kontakt med legemidlet,
+5. *ytre emballasje:* den emballasjen som den indre emballasje plasseres i,
+6. *merking:* opplysninger gitt på den indre og ytre emballasje,
+7. *pakningsvedlegg:* det vedlegg med opplysninger til brukeren som følger med legemidlet.
 
 ### § 3-27. Forslag til preparatomtale
 
-Søkerens forslag til preparatomtale skal inneholde følgende opplysninger med den angitte nummerering og i den angitte rekkefølge:Legemidlets navn etterfulgt av styrke og legemiddelform.Den kvalitative og kvantitative sammensetning av virkestoff og opplysninger om hjelpestoff.Legemiddelform.Kliniske opplysninger:terapeutiske indikasjoner,dosering og anvendelsesmåte,kontraindikasjoner,særlige advarsler og forsiktighetsregler, for immunologiske legemidler: særlige forsiktighetsregler for personer som håndterer legemidlet, personer som gir legemidlet til pasienter, og forsiktighetsregler gjeldende for pasienten,interaksjoner,bruk ved graviditet og amming,bruk ved bilkjøring og bruk av maskiner,bivirkninger,overdosering (symptomer, behandling, motgift).standardtekst, fastsatt av legemiddelmyndighetene, som oppfordrer helsepersonell til å melde bivirkninger.Farmakologiske egenskaper:farmakodynamiske egenskaper,farmakokinetiske egenskaper,prekliniske sikkerhetsdata.Farmasøytiske opplysninger:liste over hjelpestoffer,vesentlige uforlikeligheter,holdbarhet, om nødvendig også holdbarhet etter rekonstituering eller etter anbrudd,oppbevaring,pakningens innhold og art,eventuelt særlige forholdsregler for håndtering av et brukt legemiddel eller avfall som stammer fra legemidlet.Navn på innehaver av markedsføringstillatelsen.Markedsføringstillatelsens nummer.Dato for markedsføringstillatelse første gang og eventuelt for siste fornyelse.Dato for seneste oppdatering av preparatomtalen.For radioaktive legemidler: fullstendige opplysninger om intern strålingsdosimetri.For radioaktive legemidler: detaljerte opplysninger om ex tempore fremstilling av legemidlet og kvalitetssikring av denne fremstillingen. Hvis relevant skal også maksimal oppbevaringstid for et mellomprodukt eller bruksklart legemiddel oppgis.
+Søkerens forslag til preparatomtale skal inneholde følgende opplysninger med den angitte nummerering og i den angitte rekkefølge:
+
+1. Legemidlets navn etterfulgt av styrke og legemiddelform.
+2. Den kvalitative og kvantitative sammensetning av virkestoff og opplysninger om hjelpestoff.
+3. Legemiddelform.
+4. Kliniske opplysninger:
+
+   - terapeutiske indikasjoner,
+   - dosering og anvendelsesmåte,
+   - kontraindikasjoner,
+   - særlige advarsler og forsiktighetsregler, for immunologiske legemidler: særlige forsiktighetsregler for personer som håndterer legemidlet, personer som gir legemidlet til pasienter, og forsiktighetsregler gjeldende for pasienten,
+   - interaksjoner,
+   - bruk ved graviditet og amming,
+   - bruk ved bilkjøring og bruk av maskiner,
+   - bivirkninger,
+   - overdosering (symptomer, behandling, motgift).
+   - standardtekst, fastsatt av legemiddelmyndighetene, som oppfordrer helsepersonell til å melde bivirkninger.
+5. Farmakologiske egenskaper:
+
+   - farmakodynamiske egenskaper,
+   - farmakokinetiske egenskaper,
+   - prekliniske sikkerhetsdata.
+6. Farmasøytiske opplysninger:
+
+   - liste over hjelpestoffer,
+   - vesentlige uforlikeligheter,
+   - holdbarhet, om nødvendig også holdbarhet etter rekonstituering eller etter anbrudd,
+   - oppbevaring,
+   - pakningens innhold og art,
+   - eventuelt særlige forholdsregler for håndtering av et brukt legemiddel eller avfall som stammer fra legemidlet.
+7. Navn på innehaver av markedsføringstillatelsen.
+8. Markedsføringstillatelsens nummer.
+9. Dato for markedsføringstillatelse første gang og eventuelt for siste fornyelse.
+10. Dato for seneste oppdatering av preparatomtalen.
+11. For radioaktive legemidler: fullstendige opplysninger om intern strålingsdosimetri.
+12. For radioaktive legemidler: detaljerte opplysninger om ex tempore fremstilling av legemidlet og kvalitetssikring av denne fremstillingen. Hvis relevant skal også maksimal oppbevaringstid for et mellomprodukt eller bruksklart legemiddel oppgis.
 
 For legemidler som søkes godkjent etter bestemmelsene i [§ 3-9](forskrift/2009-12-18-1839/§3-9), kan det fra utkastet til preparatomtale for generiske legemidler unntas opplysninger, herunder opplysninger om indikasjon og dosering, som er omfattet av patentlovgivningen på tidspunktet for markedsføring av det generiske legemidlet.
 
@@ -399,11 +556,32 @@ EØS-avtalen vedlegg II, kapittel XIII, nr. 15zo (forordning [(EU) nr. 198/2013]
 
 ### § 3-29. Ytre emballasje
 
-Legemidlets ytre emballasje eller, om denne ikke finnes, dets indre emballasje, skal være påført følgende opplysninger:legemidlets navn etterfulgt av styrke og legemiddelform, og dersom det er hensiktsmessig en angivelse av om legemidlet er beregnet til spedbarn, barn eller voksne. Dersom preparatet inneholder opp til tre virkestoff skal generisk navn angis. Dersom slikt navn ikke finnes skal den vanligvis anvendte benevningen angis. Handelsnavnet skal ikke kunne forveksles med det generiske navnet og skal heller ikke kunne gi grunnlag for forveksling med andre legemidler eller kunne gi grunnlag for feil bruk,kvantitativ og kvalitativ sammensetning av alle legemidlets virkestoffer, angitt pr. doseringsenhet, pr. volumenhet eller vektenhet, alt etter legemiddelformen,legemiddelform, samt innhold etter vekt, volum eller antall doser,en liste over de hjelpestoffer som har kjent virkning i henhold til EUs detaljerte retningslinjer om hjelpestoffer. Dersom legemidlet er til parenteral bruk, lokal bruk eller til bruk i øynene skal imidlertid alle hjelpestoffer angis,administrasjonsmåte,en advarsel om at legemidlet skal oppbevares utilgjengelig for barn,en særlig advarsel dersom dette er nødvendig for det aktuelle legemidlet,utløpsdatoen i klartekst (måned/år),eventuelt særlige forsiktighetsregler ved oppbevaring,eventuelt særlige forsiktighetsregler for kassasjon av ubrukte legemidler eller avfall, samt en henvisning til eksisterende egnede innsamlingssystemer,navn og adresse for markedsføringstillatelsens innehaver og eventuelt navn på fullmektig der slik er oppnevnt,markedsføringstillatelsens nummer,produksjonspartiets nummer,bruksanvisning for legemidlet, hvis legemidlet er reseptfritt, ognordisk varenummer.
+Legemidlets ytre emballasje eller, om denne ikke finnes, dets indre emballasje, skal være påført følgende opplysninger:
+
+1. legemidlets navn etterfulgt av styrke og legemiddelform, og dersom det er hensiktsmessig en angivelse av om legemidlet er beregnet til spedbarn, barn eller voksne. Dersom preparatet inneholder opp til tre virkestoff skal generisk navn angis. Dersom slikt navn ikke finnes skal den vanligvis anvendte benevningen angis. Handelsnavnet skal ikke kunne forveksles med det generiske navnet og skal heller ikke kunne gi grunnlag for forveksling med andre legemidler eller kunne gi grunnlag for feil bruk,
+2. kvantitativ og kvalitativ sammensetning av alle legemidlets virkestoffer, angitt pr. doseringsenhet, pr. volumenhet eller vektenhet, alt etter legemiddelformen,
+3. legemiddelform, samt innhold etter vekt, volum eller antall doser,
+4. en liste over de hjelpestoffer som har kjent virkning i henhold til EUs detaljerte retningslinjer om hjelpestoffer. Dersom legemidlet er til parenteral bruk, lokal bruk eller til bruk i øynene skal imidlertid alle hjelpestoffer angis,
+5. administrasjonsmåte,
+6. en advarsel om at legemidlet skal oppbevares utilgjengelig for barn,
+7. en særlig advarsel dersom dette er nødvendig for det aktuelle legemidlet,
+8. utløpsdatoen i klartekst (måned/år),
+9. eventuelt særlige forsiktighetsregler ved oppbevaring,
+10. eventuelt særlige forsiktighetsregler for kassasjon av ubrukte legemidler eller avfall, samt en henvisning til eksisterende egnede innsamlingssystemer,
+11. navn og adresse for markedsføringstillatelsens innehaver og eventuelt navn på fullmektig der slik er oppnevnt,
+12. markedsføringstillatelsens nummer,
+13. produksjonspartiets nummer,
+14. bruksanvisning for legemidlet, hvis legemidlet er reseptfritt, og
+15. nordisk varenummer.
 
 Det skal avsettes plass på emballasjen til angivelse av dosering.
 
-I tillegg til det som følger av første ledd kan Direktoratet for medisinske produkter kreve at legemidlet merkes med opplysninger omlegemidlets pris,vilkår for refusjon fra folketrygden,status for utlevering til brukeren, ogidentifikasjon og bekreftelse av ekthet.
+I tillegg til det som følger av første ledd kan Direktoratet for medisinske produkter kreve at legemidlet merkes med opplysninger om
+
+1. legemidlets pris,
+2. vilkår for refusjon fra folketrygden,
+3. status for utlevering til brukeren, og
+4. identifikasjon og bekreftelse av ekthet.
 
 Reseptpliktige legemidler skal ha en sikkerhetsanordning som skal benyttes til identifikasjon av individuelle pakninger for bekreftelse av ekthet. Legemidler som ikke er reseptpliktige skal kun ha sikkerhetsanordningen som nevnt i fjerde ledd første punktum når legemidlet fremgår av liste fastsatt av EU-kommisjonen.
 
@@ -451,13 +629,26 @@ Indre emballasje til legemiddel som inneholder radionuklider skal i tillegg vær
 
 ### § 3-35. Indre emballasje i form av gjennomtrykkspakninger
 
-Indre emballasje i form av gjennomtrykkspakninger plassert i ytre emballasje som samsvarer med kravene i [§ 3-29](forskrift/2009-12-18-1839/§3-29), skal være forsynt med minst følgende opplysninger:legemidlets navn, som fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29) bokstav a,legemiddelform og styrke,navnet på markedsføringstillatelsens innehaver,utløpsdato,produksjonspartiets nummer, og
+Indre emballasje i form av gjennomtrykkspakninger plassert i ytre emballasje som samsvarer med kravene i [§ 3-29](forskrift/2009-12-18-1839/§3-29), skal være forsynt med minst følgende opplysninger:
+
+1. legemidlets navn, som fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29) bokstav a,
+2. legemiddelform og styrke,
+3. navnet på markedsføringstillatelsens innehaver,
+4. utløpsdato,
+5. produksjonspartiets nummer, og
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
 ### § 3-36. Små indre emballasjer
 
-Indre emballasjer som er så små at det ikke lar seg gjøre å påføre de opplysninger som er fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29), skal være forsynt med minst følgende opplysninger:legemidlets navn, som fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29) bokstav a,administrasjonsmåte,styrke, om nødvendig,utløpsdato,produksjonspartiets nummer,innhold etter vekt, volum eller antall doser, og
+Indre emballasjer som er så små at det ikke lar seg gjøre å påføre de opplysninger som er fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29), skal være forsynt med minst følgende opplysninger:
+
+1. legemidlets navn, som fastsatt i [§ 3-29](forskrift/2009-12-18-1839/§3-29) bokstav a,
+2. administrasjonsmåte,
+3. styrke, om nødvendig,
+4. utløpsdato,
+5. produksjonspartiets nummer,
+6. innhold etter vekt, volum eller antall doser, og
 
 Legemiddel som inneholder radionuklider skal alltid være merket med opplysningene i [§ 3-34](forskrift/2009-12-18-1839/§3-34) andre ledd.
 
@@ -481,7 +672,21 @@ Legemiddelpakninger skal utformes på en slik måte at fare for forveksling og f
 
 Merking, og dersom hensiktsmessig, pakningsvedlegg for homøopatisk legemiddel registrert i samsvar med [§ 3-21](forskrift/2009-12-18-1839/§3-21), [§ 3-22](forskrift/2009-12-18-1839/§3-22) og [§ 3-22A](forskrift/2009-12-18-1839/§3-22A) skal tydelig merkes «homøopatisk legemiddel».
 
-I tillegg skal kun følgende opplysninger fremgå:stamløsningens vitenskapelige betegnelse etterfulgt av fortynningsgraden ved bruk av symboler som beskrevet i den anvendte farmakopé jf. [§ 3-8](forskrift/2009-12-18-1839/§3-8) bokstav h). Består det homøopatiske legemidlet av to eller flere stamløsninger, kan det i tillegg til stamløsningenes vitenskapelige betegnelse anføres et handelsnavn på pakningen,navn og adresse på registreringsinnehaver,navn og adresse på tilvirker om denne er en annen en registreringsinnehaver,administrasjonsmåte, og om nødvendig, administrasjonsvei,angivelse av utløpsdatoen (måned, år),legemiddelform,pakningsstørrelse,eventuelle særlige forholdsregler vedrørende oppbevaring av legemidlet,særlige advarsler, om nødvendig,produksjonspartiets nummer,registrerings nummer,«homøopatisk legemiddel – uten godkjent bruksområde»,homøopatisk legemiddel skal merkes med en henstilling til brukeren om å oppsøke lege dersom symptomene vedvarer.
+I tillegg skal kun følgende opplysninger fremgå:
+
+1. stamløsningens vitenskapelige betegnelse etterfulgt av fortynningsgraden ved bruk av symboler som beskrevet i den anvendte farmakopé jf. [§ 3-8](forskrift/2009-12-18-1839/§3-8) bokstav h). Består det homøopatiske legemidlet av to eller flere stamløsninger, kan det i tillegg til stamløsningenes vitenskapelige betegnelse anføres et handelsnavn på pakningen,
+2. navn og adresse på registreringsinnehaver,
+3. navn og adresse på tilvirker om denne er en annen en registreringsinnehaver,
+4. administrasjonsmåte, og om nødvendig, administrasjonsvei,
+5. angivelse av utløpsdatoen (måned, år),
+6. legemiddelform,
+7. pakningsstørrelse,
+8. eventuelle særlige forholdsregler vedrørende oppbevaring av legemidlet,
+9. særlige advarsler, om nødvendig,
+10. produksjonspartiets nummer,
+11. registrerings nummer,
+12. «homøopatisk legemiddel – uten godkjent bruksområde»,
+13. homøopatisk legemiddel skal merkes med en henstilling til brukeren om å oppsøke lege dersom symptomene vedvarer.
 
 > Endret ved [forskrifter 11 nov 2016 nr. 1310](forskrift/2016-11-11-1310), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -495,7 +700,11 @@ Direktoratet for medisinske produkter kan etter begrunnet søknad beslutte at me
 
 ### § 3-41. Merking av tradisjonelle plantebaserte legemidler
 
-Utover de krav som følger av bestemmelsene i [§ 3-29](forskrift/2009-12-18-1839/§3-29) til [§ 3-38](forskrift/2009-12-18-1839/§3-38) skal enhver pakning inneholde opplysinger om:at legemidlet er et tradisjonelt plantebasert legemiddel til anvendelse med særlig(e) bruksområde(r) utelukkende basert på lang brukstradisjon,at brukeren bør konsultere lege dersom symptomene fortsetter ved bruk av legemidlet, eller dersom det skulle oppstå bivirkninger som ikke er nevnt i pakningsvedlegget, ogat legemidlet er godkjent av Direktoratet for medisinske produkter.
+Utover de krav som følger av bestemmelsene i [§ 3-29](forskrift/2009-12-18-1839/§3-29) til [§ 3-38](forskrift/2009-12-18-1839/§3-38) skal enhver pakning inneholde opplysinger om:
+
+1. at legemidlet er et tradisjonelt plantebasert legemiddel til anvendelse med særlig(e) bruksområde(r) utelukkende basert på lang brukstradisjon,
+2. at brukeren bør konsultere lege dersom symptomene fortsetter ved bruk av legemidlet, eller dersom det skulle oppstå bivirkninger som ikke er nevnt i pakningsvedlegget, og
+3. at legemidlet er godkjent av Direktoratet for medisinske produkter.
 
 Direktoratet for medisinske produkter kan kreve at legemidlet skal være merket med opplysninger om den tradisjonelle bruken.
 
@@ -513,7 +722,14 @@ Dato for seneste oppdatering av opplysningene skal påføres pakningsvedlegget.
 
 ### § 3-44. Identifikasjon av legemidlet
 
-Pakningsvedlegget skal gi en beskrivelse av legemidlet som omfatter:legemidlets navn, etterfulgt av styrke og legemiddelform, og dersom det er hensiktsmessig en angivelse av om legemidlet er beregnet til spedbarn, barn eller voksne. Generisk navn skal være angitt dersom legemidlet inneholder bare ett virkestoff og dersom legemidlets navn er et handelsnavn,den farmakoterapeutiske gruppe eller virkemåte, uttrykt på en måte som er lett å forstå for brukeren,fullstendig kvalitativ angivelse av legemidlets virkestoffer og hjelpestoffer, samt kvantitativ oppgave over virkestoffene, ved bruk av generisk navn, for hver form legemidlet foreligger i,legemiddelform og mengde pr. vektenhet, volumenhet eller antall doser av legemidlet for hver form legemidlet forekommer i,navn og adresse på markedsføringstillatelsens innehaver, samt eventuell fullmektig, ogtilvirkerens navn og adresse.
+Pakningsvedlegget skal gi en beskrivelse av legemidlet som omfatter:
+
+1. legemidlets navn, etterfulgt av styrke og legemiddelform, og dersom det er hensiktsmessig en angivelse av om legemidlet er beregnet til spedbarn, barn eller voksne. Generisk navn skal være angitt dersom legemidlet inneholder bare ett virkestoff og dersom legemidlets navn er et handelsnavn,
+2. den farmakoterapeutiske gruppe eller virkemåte, uttrykt på en måte som er lett å forstå for brukeren,
+3. fullstendig kvalitativ angivelse av legemidlets virkestoffer og hjelpestoffer, samt kvantitativ oppgave over virkestoffene, ved bruk av generisk navn, for hver form legemidlet foreligger i,
+4. legemiddelform og mengde pr. vektenhet, volumenhet eller antall doser av legemidlet for hver form legemidlet forekommer i,
+5. navn og adresse på markedsføringstillatelsens innehaver, samt eventuell fullmektig, og
+6. tilvirkerens navn og adresse.
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -523,17 +739,35 @@ Legemidlets terapeutiske indikasjoner skal angis i pakningsvedlegget.
 
 ### § 3-46. Opplysninger som er nødvendige før bruk
 
-Pakningsvedlegget skal angi følgende opplysninger som er nødvendige før bruk av legemidlet:kontraindikasjoner,relevante forsiktighetsregler ved bruk,medikamentelle og andre interaksjoner (f.eks. alkohol, tobakk, næringsmidler) som kan påvirke legemidlets virkning, ogsærlige advarsler.
+Pakningsvedlegget skal angi følgende opplysninger som er nødvendige før bruk av legemidlet:
 
-Opplysningene skal:ta hensyn til særlige forhold for visse kategorier av brukere (barn, gravide eller ammende kvinner, eldre, personer med særlig patologi),om nødvendig angi mulig innvirkning på evnen til å føre kjøretøyer og til å betjene visse maskiner,angi de hjelpestoffer det er nødvendig å ha kjennskap til for å bruke legemidlet korrekt og uten risiko, og som er omfattet av EUs retningslinjer om hjelpestoffer.
+1. kontraindikasjoner,
+2. relevante forsiktighetsregler ved bruk,
+3. medikamentelle og andre interaksjoner (f.eks. alkohol, tobakk, næringsmidler) som kan påvirke legemidlets virkning, og
+4. særlige advarsler.
+
+Opplysningene skal:
+
+1. ta hensyn til særlige forhold for visse kategorier av brukere (barn, gravide eller ammende kvinner, eldre, personer med særlig patologi),
+2. om nødvendig angi mulig innvirkning på evnen til å føre kjøretøyer og til å betjene visse maskiner,
+3. angi de hjelpestoffer det er nødvendig å ha kjennskap til for å bruke legemidlet korrekt og uten risiko, og som er omfattet av EUs retningslinjer om hjelpestoffer.
 
 > Endret ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
 ### § 3-47. Anvisning for korrekt bruk
 
-Pakningsvedlegget skal gi nødvendig og vanlig anvisning for korrekt bruk, særlig:dosering,administrasjonsmåte,doseringstidspunkt eller doseringsintervall, om nødvendig med angivelse av når legemidlet kan eller må tilføres.
+Pakningsvedlegget skal gi nødvendig og vanlig anvisning for korrekt bruk, særlig:
 
-Om legemidlets art tilsier det, skal det også gis informasjon om:behandlingens varighet når den skal være begrenset,tiltak ved overdosering/forgiftning (f.eks. symptomer og førstehjelpsbehandling),tiltak når en eller flere doser ikke er tatt,om nødvendig angivelse av risiko for bivirkninger ved opphør eller endring av behandlingen.
+1. dosering,
+2. administrasjonsmåte,
+3. doseringstidspunkt eller doseringsintervall, om nødvendig med angivelse av når legemidlet kan eller må tilføres.
+
+Om legemidlets art tilsier det, skal det også gis informasjon om:
+
+1. behandlingens varighet når den skal være begrenset,
+2. tiltak ved overdosering/forgiftning (f.eks. symptomer og førstehjelpsbehandling),
+3. tiltak når en eller flere doser ikke er tatt,
+4. om nødvendig angivelse av risiko for bivirkninger ved opphør eller endring av behandlingen.
 
 ### § 3-48. Bivirkninger
 
@@ -549,7 +783,11 @@ EØS-avtalen vedlegg II, kapittel XIII, nr. 15zo (forordning [(EU) nr. 198/2013]
 
 ### § 3-49. Oppbevaring og holdbarhet
 
-Pakningsvedlegget skal ha en henvisning til utløpsdatoen på etiketten, med:en advarsel mot all bruk av legemidlet etter denne dato,om nødvendig særlige forsiktighetsregler ved oppbevaring, ogeventuelt en advarsel mot bruk ved visse synlige tegn på forringelse.
+Pakningsvedlegget skal ha en henvisning til utløpsdatoen på etiketten, med:
+
+1. en advarsel mot all bruk av legemidlet etter denne dato,
+2. om nødvendig særlige forsiktighetsregler ved oppbevaring, og
+3. eventuelt en advarsel mot bruk ved visse synlige tegn på forringelse.
 
 ### § 3-50. Symboler og piktogrammer
 
@@ -571,7 +809,10 @@ Lesbarheten av pakningsvedlegget skal testes i samarbeid med en målgruppe pasie
 
 ### § 3-53. Pakningsvedlegg for tradisjonelt plantebasert legemiddel
 
-Utover de krav som følger av bestemmelsene i [§ 3-43](forskrift/2009-12-18-1839/§3-43) til [§ 3-49](forskrift/2009-12-18-1839/§3-49), skal pakningsvedlegget for tradisjonelle plantebaserte legemidler inneholde opplysninger om:at legemidlet er et tradisjonelt plantebasert legemiddel til anvendelse med særlig(e) bruksområde(r) utelukkende basert på lang brukstradisjon, ogat brukeren bør konsultere lege dersom symptomene fortsetter ved bruk av legemidlet, eller dersom det skulle oppstå bivirkninger som ikke er nevnt i pakningsvedlegget.
+Utover de krav som følger av bestemmelsene i [§ 3-43](forskrift/2009-12-18-1839/§3-43) til [§ 3-49](forskrift/2009-12-18-1839/§3-49), skal pakningsvedlegget for tradisjonelle plantebaserte legemidler inneholde opplysninger om:
+
+1. at legemidlet er et tradisjonelt plantebasert legemiddel til anvendelse med særlig(e) bruksområde(r) utelukkende basert på lang brukstradisjon, og
+2. at brukeren bør konsultere lege dersom symptomene fortsetter ved bruk av legemidlet, eller dersom det skulle oppstå bivirkninger som ikke er nevnt i pakningsvedlegget.
 
 Direktoratet for medisinske produkter kan kreve at pakningsvedlegget skal inneholde opplysninger om den tradisjonelle bruken.
 
@@ -691,7 +932,10 @@ Når vedtak i tvisteløsningsprosedyre som nevnt i [§ 4-7](forskrift/2009-12-18
 
 ### § 4-10. Tradisjonelle plantebaserte legemidler i den gjensidige anerkjennelsesprosedyre
 
-[Kapittel](forskrift/2009-12-18-1839/kap4) 4 gjelder tilsvarende for tradisjonelle plantebaserte legemidler under forutsetning av:at det er utarbeidet en fellesskapsmonografi i overensstemmelse med [§ 3-19](forskrift/2009-12-18-1839/§3-19), ellerat det plantebaserte legemidlet består av plantedroger, plantebaserte tilberedninger eller sammensetninger av slike som er inntatt på liste som nevnt i [§ 3-18](forskrift/2009-12-18-1839/§3-18).
+[Kapittel](forskrift/2009-12-18-1839/kap4) 4 gjelder tilsvarende for tradisjonelle plantebaserte legemidler under forutsetning av:
+
+1. at det er utarbeidet en fellesskapsmonografi i overensstemmelse med [§ 3-19](forskrift/2009-12-18-1839/§3-19), eller
+2. at det plantebaserte legemidlet består av plantedroger, plantebaserte tilberedninger eller sammensetninger av slike som er inntatt på liste som nevnt i [§ 3-18](forskrift/2009-12-18-1839/§3-18).
 
 Kommer [kapittel 4](forskrift/2009-12-18-1839/kap4) til anvendelse gjelder bestemmelsene i [§ 5-4](forskrift/2009-12-18-1839/§5-4) og [§ 5-5](forskrift/2009-12-18-1839/§5-5) tilsvarende.
 
@@ -731,7 +975,10 @@ Dersom et annet EØS-land alt har utstedt markedsføringstillatelse til et legem
 
 ### § 5-5a. Særregler for legemidler i Nord-Irland, Kypros, Irland og Malta
 
-Dersom søknad om markedsføringstillatelse sendes inn i Norge, og eventuelt i et eller flere EØS-land, og i Storbritannia med hensyn til Nord-Irland, eller dersom det sendes inn en søknad om markedsføringstillatelse i Storbritannia med hensyn til Nord-Irland for et legemiddel som allerede er under vurdering eller som allerede er godkjent i et EØS-land, stilles det ikke krav om at søknaden som vedrører Storbritannia med hensyn til Nord-Irland må være innsendt i samsvar med direktiv [2001/83/EF](eu/32001l0083) artikkel 28 til 39 dersom:markedsføringstillatelsen for Storbritannia med hensyn til Nord-Irland er utstedt av Storbritannias kompetente myndighet med hensyn til Nord-Irland i samsvar med bestemmelsene i [EØS-avtalen](lov/1992-11-27-109/eøsl), og slik overensstemmelse med [EØS-avtalen](lov/1992-11-27-109/eøsl) er sikret i løpet av gyldighetsperioden for den markedsføringstillatelsen, oglegemidlene som er godkjent av Storbritannias kompetente myndighet med hensyn til Nord-Irland, kun gjøres tilgjengelig for pasienter eller sluttbrukere bare på Nord-Irlands territorium, og de ikke er gjort tilgjengelige i noen medlemsstat.
+Dersom søknad om markedsføringstillatelse sendes inn i Norge, og eventuelt i et eller flere EØS-land, og i Storbritannia med hensyn til Nord-Irland, eller dersom det sendes inn en søknad om markedsføringstillatelse i Storbritannia med hensyn til Nord-Irland for et legemiddel som allerede er under vurdering eller som allerede er godkjent i et EØS-land, stilles det ikke krav om at søknaden som vedrører Storbritannia med hensyn til Nord-Irland må være innsendt i samsvar med direktiv [2001/83/EF](eu/32001l0083) artikkel 28 til 39 dersom:
+
+1. markedsføringstillatelsen for Storbritannia med hensyn til Nord-Irland er utstedt av Storbritannias kompetente myndighet med hensyn til Nord-Irland i samsvar med bestemmelsene i [EØS-avtalen](lov/1992-11-27-109/eøsl), og slik overensstemmelse med [EØS-avtalen](lov/1992-11-27-109/eøsl) er sikret i løpet av gyldighetsperioden for den markedsføringstillatelsen, og
+2. legemidlene som er godkjent av Storbritannias kompetente myndighet med hensyn til Nord-Irland, kun gjøres tilgjengelig for pasienter eller sluttbrukere bare på Nord-Irlands territorium, og de ikke er gjort tilgjengelige i noen medlemsstat.
 
 Innehaveren av markedsføringstillatelsen for et legemiddel, som det allerede er utstedt en markedsføringstillatelse for Storbritannia med hensyn til Nord-Irland i henhold til direktiv [2001/83/EF](eu/32001l0083) artikkel 28 til 39 før 20. april 2022, kan trekke markedsføringstillatelsen for Storbritannia med hensyn til Nord-Irland fra prosedyren for gjensidig anerkjennelse eller den desentraliserte prosedyren og søke om markedsføringstillatelse for dette legemidlet til de kompetente myndigheter i Storbritannia med hensyn til Nord-Irland i overensstemmelse med denne bestemmelsens første ledd.
 
@@ -765,7 +1012,10 @@ Søker mottar preparatomtalen slik den er godkjent av Direktoratet for medisinsk
 
 ### § 5-9. Avslag på søknad om markedsføringstillatelse
 
-Søknad om markedsføringstillatelse avslås dersom:kravene til kvalitet, sikkerhet og effekt, herunder kravet om at legemidlet har et positivt nytte-/risikoforhold ikke anses dokumentert i søknaden,søknaden ikke oppfyller kravene som fastsatt i [kapittel 3](forskrift/2009-12-18-1839/kap3), og manglene ikke blir rettet innen en rimelig frist,
+Søknad om markedsføringstillatelse avslås dersom:
+
+1. kravene til kvalitet, sikkerhet og effekt, herunder kravet om at legemidlet har et positivt nytte-/risikoforhold ikke anses dokumentert i søknaden,
+2. søknaden ikke oppfyller kravene som fastsatt i [kapittel 3](forskrift/2009-12-18-1839/kap3), og manglene ikke blir rettet innen en rimelig frist,
 
 Søknaden kan ikke avslås på grunn av merkingen eller pakningsvedlegget når disse er utformet i samsvar med reglene i [kapittel 3](forskrift/2009-12-18-1839/kap3).
 
@@ -773,7 +1023,13 @@ Søknaden kan ikke avslås på grunn av merkingen eller pakningsvedlegget når d
 
 ### § 5-10. Avslag på søknad om registrering for tradisjonelt plantebasert legemiddel
 
-Søknad om registrering for tradisjonelt plantebasert legemiddel avslås dersom søknaden ikke er i samsvar med kravene i [§ 3-16](forskrift/2009-12-18-1839/§3-16) til [§ 3-18](forskrift/2009-12-18-1839/§3-18). Videre avslås søknaden dersom:legemidlets kvalitative og/eller kvantitative sammensetning ikke er som angitt i søknaden,søkte bruksområde ikke er i overensstemmelse med de krav som er fastsatt i [§ 3-16](forskrift/2009-12-18-1839/§3-16),legemidlet kan være skadelig ved normal bruk,data om tradisjonell anvendelse ikke er fyllestgjørende, herunder at det ikke på grunnlag lang brukstradisjon kan antas at legemidlet har farmakologisk effekt eller virkning, ellerden farmasøytiske kvalitet ikke er tilstrekkelig dokumentert.
+Søknad om registrering for tradisjonelt plantebasert legemiddel avslås dersom søknaden ikke er i samsvar med kravene i [§ 3-16](forskrift/2009-12-18-1839/§3-16) til [§ 3-18](forskrift/2009-12-18-1839/§3-18). Videre avslås søknaden dersom:
+
+1. legemidlets kvalitative og/eller kvantitative sammensetning ikke er som angitt i søknaden,
+2. søkte bruksområde ikke er i overensstemmelse med de krav som er fastsatt i [§ 3-16](forskrift/2009-12-18-1839/§3-16),
+3. legemidlet kan være skadelig ved normal bruk,
+4. data om tradisjonell anvendelse ikke er fyllestgjørende, herunder at det ikke på grunnlag lang brukstradisjon kan antas at legemidlet har farmakologisk effekt eller virkning, eller
+5. den farmasøytiske kvalitet ikke er tilstrekkelig dokumentert.
 
 > Endret ved [forskrift 11 nov 2016 nr. 1310](forskrift/2016-11-11-1310).
 
@@ -791,7 +1047,10 @@ EØS-avtalen vedlegg II kapittel XIII nr. 15qc (forordning [(EU) nr. 357/2014](e
 
 ### § 5-11a
 
-Etter at markedsføringstillatelsen er utstedt kan Direktoratet for medisinske produkter pålegge innehaveren av markedsføringstillatelsen åutføre etterfølgende sikkerhetsstudie dersom det er bekymring knyttet til legemidlets risiko. Dersom bekymringen gjelder flere legemidler kan Direktoratet for medisinske produkter, etter å ha konsultert komiteen opprettet i henhold til artikkel 56 (1) aa i forordning [(EF) nr. 726/2004](eu/32004r0726), oppfordre innehaverne av markedsføringstillatelsene å utføre en felles etterfølgende sikkerhetsstudie,utføre en effektstudie dersom forståelsen av sykdommen eller klinisk metodikk indikerer at tidligere evaluering av effekt kan bli vesentlig endret. Pålegget skal være begrunnet i regler fastsatt i henhold til artikkel 22b i direktiv [2001/83/EF](eu/32001l0083) og retningslinjer som nevnt i samme direktivs artikkel 108a.
+Etter at markedsføringstillatelsen er utstedt kan Direktoratet for medisinske produkter pålegge innehaveren av markedsføringstillatelsen å
+
+1. utføre etterfølgende sikkerhetsstudie dersom det er bekymring knyttet til legemidlets risiko. Dersom bekymringen gjelder flere legemidler kan Direktoratet for medisinske produkter, etter å ha konsultert komiteen opprettet i henhold til artikkel 56 (1) aa i forordning [(EF) nr. 726/2004](eu/32004r0726), oppfordre innehaverne av markedsføringstillatelsene å utføre en felles etterfølgende sikkerhetsstudie,
+2. utføre en effektstudie dersom forståelsen av sykdommen eller klinisk metodikk indikerer at tidligere evaluering av effekt kan bli vesentlig endret. Pålegget skal være begrunnet i regler fastsatt i henhold til artikkel 22b i direktiv [2001/83/EF](eu/32001l0083) og retningslinjer som nevnt i samme direktivs artikkel 108a.
 
 Pålegget skal være skriftlig, begrunnet og angi frist for oppfyllelse.
 
@@ -803,7 +1062,14 @@ Fastholdes vedtaket, inntas pålegget i markedsføringstillatelsen og i risikoh�
 
 ### § 5-12. Tilbakekall av markedsføringstillatelse
 
-Direktoratet for medisinske produkter kaller tilbake markedsføringstillatelse gitt etter [§ 5-8](forskrift/2009-12-18-1839/§5-8) dersom:nytte-/risikoforholdet ikke anses positivt,legemidlet ikke lenger anses å fylle kravene til kvalitet, sikkerhet og effekt,opplysninger mv. gitt i forbindelse med søknaden er uriktige,plikten etter [§ 8-8](forskrift/2009-12-18-1839/§8-8) til å gjennomføre nødvendige endringer ved fremstilling og kontroll eller i preparatomtale mv. ikke overholdes,legemidlets kvalitet ikke kontrolleres i henhold til godkjent spesifikasjon slik gjeldende regler påbyr, jf. [forskrift 20. juli 1995 nr. 698](forskrift/1995-07-20-698) om legemidlers kvalitet, standarder m.m. [§ 6](forskrift/1995-07-20-698/§6) femte ledd,plikten etter [§ 8-6](forskrift/2009-12-18-1839/§8-6) første ledd bokstav a og b ikke overholdes,
+Direktoratet for medisinske produkter kaller tilbake markedsføringstillatelse gitt etter [§ 5-8](forskrift/2009-12-18-1839/§5-8) dersom:
+
+1. nytte-/risikoforholdet ikke anses positivt,
+2. legemidlet ikke lenger anses å fylle kravene til kvalitet, sikkerhet og effekt,
+3. opplysninger mv. gitt i forbindelse med søknaden er uriktige,
+4. plikten etter [§ 8-8](forskrift/2009-12-18-1839/§8-8) til å gjennomføre nødvendige endringer ved fremstilling og kontroll eller i preparatomtale mv. ikke overholdes,
+5. legemidlets kvalitet ikke kontrolleres i henhold til godkjent spesifikasjon slik gjeldende regler påbyr, jf. [forskrift 20. juli 1995 nr. 698](forskrift/1995-07-20-698) om legemidlers kvalitet, standarder m.m. [§ 6](forskrift/1995-07-20-698/§6) femte ledd,
+6. plikten etter [§ 8-6](forskrift/2009-12-18-1839/§8-6) første ledd bokstav a og b ikke overholdes,
 
 Dersom noen av bestemmelsene i [§ 3-29](forskrift/2009-12-18-1839/§3-29) til [§ 3-56](forskrift/2009-12-18-1839/§3-56) om merking og pakningsvedlegg ikke overholdes, og et pålegg til rette vedkommende ikke har gitt resultat, kan Direktoratet for medisinske produkter tilbakekalle markedsføringstillatelsen inntil merkingen eller pakningsvedlegget er brakt i samsvar med bestemmelsene.
 
@@ -907,7 +1173,12 @@ Før markedsføringstillatelse gis, fastsetter Direktoratet for medisinske produ
 
 ### § 7-2. Kriterier for reseptplikt
 
-Ved avgjørelsen av om et legemiddel skal være reseptpliktig legges det særlig vekt på om legemidlet:trenger leges eller tannleges medvirkning for å brukes, eller for å kontrollere virkning og/eller bivirkning,direkte eller indirekte kan medføre helsefare ved feilbruk,ikke er ferdig utredet med hensyn til virkninger eller bivirkninger,er beregnet til parenteral bruk,
+Ved avgjørelsen av om et legemiddel skal være reseptpliktig legges det særlig vekt på om legemidlet:
+
+1. trenger leges eller tannleges medvirkning for å brukes, eller for å kontrollere virkning og/eller bivirkning,
+2. direkte eller indirekte kan medføre helsefare ved feilbruk,
+3. ikke er ferdig utredet med hensyn til virkninger eller bivirkninger,
+4. er beregnet til parenteral bruk,
 
 > Endret ved [forskrifter 14 okt 2010 nr. 1352](forskrift/2010-10-14-1352), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
@@ -915,13 +1186,21 @@ Ved avgjørelsen av om et legemiddel skal være reseptpliktig legges det særlig
 
 Reseptpliktig legemiddel plasseres i reseptgruppe A, B eller C.
 
-Ved avgjørelsen av hvilken reseptgruppe legemidlet skal plasseres i, tas særlig hensyn til om legemidlet:inneholder en ikke-fritatt mengde av et stoff som er klassifisert som narkotisk eller psykotrop i henhold til internasjonale konvensjoner,dersom det ikke brukes på anbefalt måte, kan være forbundet med alvorlig risiko for legemiddelmisbruk, for avhengighet eller for at det benyttes til ulovlige formål,inneholder et stoff som fordi det er nytt eller har visse egenskaper, som et forsiktighetstiltak kan regnes under denne gruppe.
+Ved avgjørelsen av hvilken reseptgruppe legemidlet skal plasseres i, tas særlig hensyn til om legemidlet:
+
+1. inneholder en ikke-fritatt mengde av et stoff som er klassifisert som narkotisk eller psykotrop i henhold til internasjonale konvensjoner,
+2. dersom det ikke brukes på anbefalt måte, kan være forbundet med alvorlig risiko for legemiddelmisbruk, for avhengighet eller for at det benyttes til ulovlige formål,
+3. inneholder et stoff som fordi det er nytt eller har visse egenskaper, som et forsiktighetstiltak kan regnes under denne gruppe.
 
 Legemidlet kan plasseres i reseptgruppe A hvis ett eller flere av kriteriene eller hensynene i andre ledd anses oppfylt eller særlig tungtveiende.
 
 ### § 7-4. Utleverings- og rekvireringsregler
 
-Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som skal ha en begrenset utlevering. Ved avgjørelsen tas særlig hensyn til om legemidlet:på grunn av sine farmasøytiske eller medisinske egenskaper, fordi det er et nytt legemiddel, eller av hensyn til folkehelsen bør være forbeholdt behandlinger som bare kan foretas i et sykehusmiljø,brukes til behandling av sykdommer som må diagnostiseres i et sykehusmiljø, eller i institusjoner som har egnet diagnoseutstyr, mens tilførsel og oppfølgning kan skje utenfor sykehuset,er beregnet på polikliniske pasienter, men kontroll av virkning og bivirkninger krever medvirkning av spesialist både ved behandlingsstart og videre under behandlingen.
+Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som skal ha en begrenset utlevering. Ved avgjørelsen tas særlig hensyn til om legemidlet:
+
+1. på grunn av sine farmasøytiske eller medisinske egenskaper, fordi det er et nytt legemiddel, eller av hensyn til folkehelsen bør være forbeholdt behandlinger som bare kan foretas i et sykehusmiljø,
+2. brukes til behandling av sykdommer som må diagnostiseres i et sykehusmiljø, eller i institusjoner som har egnet diagnoseutstyr, mens tilførsel og oppfølgning kan skje utenfor sykehuset,
+3. er beregnet på polikliniske pasienter, men kontroll av virkning og bivirkninger krever medvirkning av spesialist både ved behandlingsstart og videre under behandlingen.
 
 Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som bare kan rekvireres av bestemte sykehus eller av visse spesialister.
 
@@ -931,13 +1210,20 @@ Når særlige grunner foreligger, kan Direktoratet for medisinske produkter i en
 
 ### § 7-5. Reseptpliktige legemidler
 
-Uavhengig av særskilt fastsettelse etter [§ 7-1](forskrift/2009-12-18-1839/§7-1) er følgende legemidler alltid reseptpliktige:legemiddel til parenteral administrasjon,enhver tilberedning med innhold av reseptpliktig legemiddel, med mindre det er gjort særskilt unntak etter [§ 7-6](forskrift/2009-12-18-1839/§7-6),legemiddel uten markedsføringstillatelse som etter sitt innhold og bruksområde svarer til et reseptpliktig legemiddel med markedsføringstillatelse,
+Uavhengig av særskilt fastsettelse etter [§ 7-1](forskrift/2009-12-18-1839/§7-1) er følgende legemidler alltid reseptpliktige:
+
+1. legemiddel til parenteral administrasjon,
+2. enhver tilberedning med innhold av reseptpliktig legemiddel, med mindre det er gjort særskilt unntak etter [§ 7-6](forskrift/2009-12-18-1839/§7-6),
+3. legemiddel uten markedsføringstillatelse som etter sitt innhold og bruksområde svarer til et reseptpliktig legemiddel med markedsføringstillatelse,
 
 > Endret ved [forskrifter 14 okt 2010 nr. 1352](forskrift/2010-10-14-1352), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
 
 ### § 7-6. Legemidler unntatt reseptplikt
 
-Direktoratet for medisinske produkter kan unnta bestemte pakninger, styrker, former mv. av et reseptpliktig legemiddel fra reseptplikt idet hensyn tas til:den maksimale enkeltdose eller maksimal daglig dose, styrke, legemiddelform, pakningsstørrelse og/eller,andre vilkår for bruk som Direktoratet for medisinske produkter har angitt.
+Direktoratet for medisinske produkter kan unnta bestemte pakninger, styrker, former mv. av et reseptpliktig legemiddel fra reseptplikt idet hensyn tas til:
+
+1. den maksimale enkeltdose eller maksimal daglig dose, styrke, legemiddelform, pakningsstørrelse og/eller,
+2. andre vilkår for bruk som Direktoratet for medisinske produkter har angitt.
 
 Generelle unntak fastsatt i medhold av første ledd kunngjøres ved rundskriv.
 
@@ -1007,17 +1293,34 @@ Markedsføringstillatelsens innehaver skal følge med i de erfaringer som gjøre
 
 ### § 8-6. Underretningsplikt
 
-Markedsføringstillatelsens innehaver plikter å underrette Direktoratet for medisinske produkterom alle nye opplysninger som kan medføre endringer av de opplysninger eller dokumenter som er omhandlet i [§ 3-4](forskrift/2009-12-18-1839/§3-4), [§ 3-8](forskrift/2009-12-18-1839/§3-8), [§ 3-9](forskrift/2009-12-18-1839/§3-9), [§ 3-12](forskrift/2009-12-18-1839/§3-12), [§ 3-13](forskrift/2009-12-18-1839/§3-13) og [§ 3-27](forskrift/2009-12-18-1839/§3-27),om ethvert forbud eller enhver begrensning som pålegges av myndighet i land hvor legemidlet markedsføres, og om andre opplysninger som vil kunne påvirke bedømmelsen av nytte/-risikoforholdet ved legemidlet. Opplysningene skal omfatte både positive og negative resultater av kliniske forsøk og andre undersøkelser vedrørende alle indikasjoner, uavhengig av om de fremgår av markedsføringstillatelsen, og informasjon om bruk av legemidlet,om når legemidlet bringes i omsetning i Norge,dersom legemidlet midlertidig eller permanent ikke lenger vil bli markedsført i Norge, ellerom årsaken dersom markedsføringstillatelsen ikke søkes fornyet.
+Markedsføringstillatelsens innehaver plikter å underrette Direktoratet for medisinske produkter
+
+1. om alle nye opplysninger som kan medføre endringer av de opplysninger eller dokumenter som er omhandlet i [§ 3-4](forskrift/2009-12-18-1839/§3-4), [§ 3-8](forskrift/2009-12-18-1839/§3-8), [§ 3-9](forskrift/2009-12-18-1839/§3-9), [§ 3-12](forskrift/2009-12-18-1839/§3-12), [§ 3-13](forskrift/2009-12-18-1839/§3-13) og [§ 3-27](forskrift/2009-12-18-1839/§3-27),
+2. om ethvert forbud eller enhver begrensning som pålegges av myndighet i land hvor legemidlet markedsføres, og om andre opplysninger som vil kunne påvirke bedømmelsen av nytte/-risikoforholdet ved legemidlet. Opplysningene skal omfatte både positive og negative resultater av kliniske forsøk og andre undersøkelser vedrørende alle indikasjoner, uavhengig av om de fremgår av markedsføringstillatelsen, og informasjon om bruk av legemidlet,
+3. om når legemidlet bringes i omsetning i Norge,
+4. dersom legemidlet midlertidig eller permanent ikke lenger vil bli markedsført i Norge, eller
+5. om årsaken dersom markedsføringstillatelsen ikke søkes fornyet.
 
 Underretningen skal skje senest to måneder før avbrytelsen av markedsføringen, med mindre det foreligger særlige omstendigheter som hindret varsel på et slikt tidspunkt. I underretningen skal det opplyses om årsaken til avbrytelsen.
 
-Tilsvarende begrunnet underretning sendes senest to måneder før avbrytelsen av markedsføringen i tillegg til det Europeiske legemiddelbyrået (EMA) dersom tiltaket skyldes at:legemidlet er skadelig,legemidlet ikke har terapeutisk effekt,nytte/-risikoforholdet ikke er positivt,den kvalitative og eller kvantitative sammensetning av legemidlet ikke er som angitt i merkingen, ellerkontrollen av legemidlet og innholdsstoffene, produksjonen eller andre forhold av betydning for markedsføringstillatelsen, ikke er i henhold til lovgivningens krav.
+Tilsvarende begrunnet underretning sendes senest to måneder før avbrytelsen av markedsføringen i tillegg til det Europeiske legemiddelbyrået (EMA) dersom tiltaket skyldes at:
+
+1. legemidlet er skadelig,
+2. legemidlet ikke har terapeutisk effekt,
+3. nytte/-risikoforholdet ikke er positivt,
+4. den kvalitative og eller kvantitative sammensetning av legemidlet ikke er som angitt i merkingen, eller
+5. kontrollen av legemidlet og innholdsstoffene, produksjonen eller andre forhold av betydning for markedsføringstillatelsen, ikke er i henhold til lovgivningens krav.
 
 > Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ### § 8-7. Pålegg om å gi opplysninger
 
-Direktoratet for medisinske produkter kan til enhver tid pålegge markedsføringstillatelsens innehaver å fremleggenye opplysninger som dokumenterer et positivt nytte-/risikoforhold for legemidlet,alle opplysninger om salgsmengden for legemidlet, elleralle opplysninger, som denne er i besittelse av, vedrørende rekvirering av legemidlet,en kopi av masterfil for legemiddelovervåkingssystemet, med en frist for fremleggelse på syv dager.
+Direktoratet for medisinske produkter kan til enhver tid pålegge markedsføringstillatelsens innehaver å fremlegge
+
+1. nye opplysninger som dokumenterer et positivt nytte-/risikoforhold for legemidlet,
+2. alle opplysninger om salgsmengden for legemidlet, eller
+3. alle opplysninger, som denne er i besittelse av, vedrørende rekvirering av legemidlet,
+4. en kopi av masterfil for legemiddelovervåkingssystemet, med en frist for fremleggelse på syv dager.
 
 > Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -1069,7 +1372,11 @@ Dersom EU-kommisjonen etter behandling i tvisteløsningsprosedyre for legemiddel
 
 ### § 9-1. Endringer av vilkårene i markedsføringstillatelsen
 
-Forordning [(EF) nr. 1234/2008](eu/32008r1234) om behandling av endringer av vilkårene i markedsføringstillatelser, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 15zi, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) nr. 712/2012](eu/32012r0712)forordning [(EU) 2021/756](eu/32021r0756)forordning [(EU) 2024/1701](eu/32024r1701).
+Forordning [(EF) nr. 1234/2008](eu/32008r1234) om behandling av endringer av vilkårene i markedsføringstillatelser, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 15zi, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) nr. 712/2012](eu/32012r0712)
+- forordning [(EU) 2021/756](eu/32021r0756)
+- forordning [(EU) 2024/1701](eu/32024r1701).
 
 Når vedtak om endring av vilkårene i markedsføringstillatelse som er gitt etter reglene i kapittel 6 er truffet av EU-kommisjonen i samsvar med forordningene nevnt i første ledd, treffer Direktoratet for medisinske produkter tilsvarende vedtak innen 30 dager.
 
@@ -1091,15 +1398,32 @@ Søknad om endring av merking eller pakningsvedlegg som ikke er en følge av end
 
 ### § 10-1. Spesielle definisjoner
 
-I dette kapitlet menes med*bivirkning:* skadelig og utilsiktet virkning av et legemiddel. Dette gjelder uavhengig av om legemidlet er brukt i henhold til markedsføringstillatelsen, og omfatter også overdose, feilbruk, misbruk, medisineringsfeil, feildosering, behandling utenfor godkjent bruksområde og yrkeseksponering.*alvorlig bivirkning:* en bivirkning som er livstruende, ender med død, krever eller forlenger en sykehusinnleggelse, som medfører vedvarende eller betydelig nedsatt funksjonsevne eller arbeidsuførhet, eller er en medfødt anomali/fødselsdefekt,*uventet bivirkning:* en bivirkning hvis karakter, alvorlighetsgrad eller utfall ikke er i samsvar med preparatomtalen,*alvorlig uventet bivirkning:* en bivirkning som er både alvorlig og uventet,*sikkerhetsstudie utført etter markedsføringstillatelse:* studie av et godkjent legemiddel for å identifisere, karakterisere eller kvantifisere sikkerhetsrisiko, bekrefte legemidlets sikkerhetsprofil eller måle effekten av tiltakene beskrevet i risikohåndteringsplanen.
+I dette kapitlet menes med
+
+1. *bivirkning:* skadelig og utilsiktet virkning av et legemiddel. Dette gjelder uavhengig av om legemidlet er brukt i henhold til markedsføringstillatelsen, og omfatter også overdose, feilbruk, misbruk, medisineringsfeil, feildosering, behandling utenfor godkjent bruksområde og yrkeseksponering.
+2. *alvorlig bivirkning:* en bivirkning som er livstruende, ender med død, krever eller forlenger en sykehusinnleggelse, som medfører vedvarende eller betydelig nedsatt funksjonsevne eller arbeidsuførhet, eller er en medfødt anomali/fødselsdefekt,
+3. *uventet bivirkning:* en bivirkning hvis karakter, alvorlighetsgrad eller utfall ikke er i samsvar med preparatomtalen,
+4. *alvorlig uventet bivirkning:* en bivirkning som er både alvorlig og uventet,
+5. *sikkerhetsstudie utført etter markedsføringstillatelse:* studie av et godkjent legemiddel for å identifisere, karakterisere eller kvantifisere sikkerhetsrisiko, bekrefte legemidlets sikkerhetsprofil eller måle effekten av tiltakene beskrevet i risikohåndteringsplanen.
 
 > Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [15 feb 2019 nr. 115](forskrift/2019-02-15-115) (i kraft 1 jan 2020).
 
 ### § 10-2. Krav til innehaverens legemiddelovervåkingsapparat
 
-Markedsføringstillatelsens innehaver skalopprette og forvalte et legemiddelovervåkingssystem med det formål å evaluere mottatt informasjon,vurdere og iverksette nødvendige tiltak for risikoreduksjon og forebygging av bivirkninger, ogrevidere systemet regelmessig, arkivere en rapport vedrørende de viktigste funnene i masterfilen for legemiddelovervåkingssystem, og at en plan for lukking av avvik utarbeides og implementeres.
+Markedsføringstillatelsens innehaver skal
 
-Som en del av legemiddelovervåkingssystem skal markedsføringstillatelsens innehaver til enhver tid ha til rådighet en tilstrekkelig kvalifisert person med ansvar for legemiddelovervåking. Vedkommendes navn og kontaktopplysninger skal sendes til Direktoratet for medisinske produkter og EMA. Vedkommende skalvære bosatt og arbeide innen EØS-området,vedlikeholde og på forespørsel oversende legemiddelovervåkingssystemets masterfil til myndighetene,håndtere et risikohåndteringssystem for hvert legemiddel,overvåke resultatet av tiltak for risikoreduksjon utført i henhold til risikohåndteringsplanen eller i henhold til vilkår fastsatt i markedsføringstillatelsen,oppdatere risikohåndteringssystemet og undersøke legemiddelovervåkingsdata i den hensikt å avgjøre om det er oppdaget ny risiko ved legemidlet, om risikoen er endret eller om legemidlets nytte-/risikoforhold er endret, oginformere EMA og nasjonale legemiddelmyndigheter om nye sikkerhetsproblemer, endringer i legemidlets sikkerhet eller nytte-/risikoforhold.
+1. opprette og forvalte et legemiddelovervåkingssystem med det formål å evaluere mottatt informasjon,
+2. vurdere og iverksette nødvendige tiltak for risikoreduksjon og forebygging av bivirkninger, og
+3. revidere systemet regelmessig, arkivere en rapport vedrørende de viktigste funnene i masterfilen for legemiddelovervåkingssystem, og at en plan for lukking av avvik utarbeides og implementeres.
+
+Som en del av legemiddelovervåkingssystem skal markedsføringstillatelsens innehaver til enhver tid ha til rådighet en tilstrekkelig kvalifisert person med ansvar for legemiddelovervåking. Vedkommendes navn og kontaktopplysninger skal sendes til Direktoratet for medisinske produkter og EMA. Vedkommende skal
+
+1. være bosatt og arbeide innen EØS-området,
+2. vedlikeholde og på forespørsel oversende legemiddelovervåkingssystemets masterfil til myndighetene,
+3. håndtere et risikohåndteringssystem for hvert legemiddel,
+4. overvåke resultatet av tiltak for risikoreduksjon utført i henhold til risikohåndteringsplanen eller i henhold til vilkår fastsatt i markedsføringstillatelsen,
+5. oppdatere risikohåndteringssystemet og undersøke legemiddelovervåkingsdata i den hensikt å avgjøre om det er oppdaget ny risiko ved legemidlet, om risikoen er endret eller om legemidlets nytte-/risikoforhold er endret, og
+6. informere EMA og nasjonale legemiddelmyndigheter om nye sikkerhetsproblemer, endringer i legemidlets sikkerhet eller nytte-/risikoforhold.
 
 Er markedsføringstillatelsen utstedt av den kompetente myndigheten i Storbritannia med hensyn til Nord-Irland, kan den kvalifiserte personen som nevnt i andre ledd bokstav a være bosatt i og utføre sine oppgaver fra andre deler av Storbritannia enn Nord-Irland. Dette gjelder likevel ikke dersom innehaver av markedsføringstillatelsen 20. april 2022 allerede hadde til rådighet en kvalifisert person bosatt i og som utfører sine oppgaver i EØS-området.
 
@@ -1137,7 +1461,11 @@ Innehaveren skal innen 15 dager etter at vedkommende fikk kjennskap til hendelse
 
 Øvrige mistenkte bivirkninger skal rapporteres på samme måte innen 90 dager.
 
-Inntil EudraVigilancebasen kan motta meldingene, skal rapportering skje på følgende måte:Mistenkte, alvorlige bivirkninger inntruffet i EØS rapporteres til myndighetene i landet hvor bivirkningen har inntruffet,mistenkte, alvorlige bivirkninger inntruffet i tredjeland rapporteres til EMA,øvrige bivirkninger rapporteres slik Direktoratet for medisinske produkter bestemmer.
+Inntil EudraVigilancebasen kan motta meldingene, skal rapportering skje på følgende måte:
+
+1. Mistenkte, alvorlige bivirkninger inntruffet i EØS rapporteres til myndighetene i landet hvor bivirkningen har inntruffet,
+2. mistenkte, alvorlige bivirkninger inntruffet i tredjeland rapporteres til EMA,
+3. øvrige bivirkninger rapporteres slik Direktoratet for medisinske produkter bestemmer.
 
 Innehavere av markedsføringstillatelse for et legemiddel skal overvåke medisinsk litteratur vedrørende legemidlet og rapportere mistenkte bivirkninger som fremkommer i denne.
 
@@ -1157,11 +1485,18 @@ Markedsføringstillatelsens innehaver skal samarbeide med EMA og legemiddelmyndi
 
 Markedsføringstillatelsens innehaver skal oversende periodiske sikkerhetsrapporter til EMA.
 
-Innehavere av markedsføringstillatelse for legemiddel godkjent i henhold til [§ 3-9](forskrift/2009-12-18-1839/§3-9), [§ 3-12](forskrift/2009-12-18-1839/§3-12), [§ 3-15](forskrift/2009-12-18-1839/§3-15), [§ 3-16](forskrift/2009-12-18-1839/§3-16) og [§ 3-21](forskrift/2009-12-18-1839/§3-21) skal oversende periodiske sikkerhetsrapporter baredersom dette følger som et vilkår i markedsføringstillatelsen, elleretter pålegg fra Direktoratet for medisinske produkter.
+Innehavere av markedsføringstillatelse for legemiddel godkjent i henhold til [§ 3-9](forskrift/2009-12-18-1839/§3-9), [§ 3-12](forskrift/2009-12-18-1839/§3-12), [§ 3-15](forskrift/2009-12-18-1839/§3-15), [§ 3-16](forskrift/2009-12-18-1839/§3-16) og [§ 3-21](forskrift/2009-12-18-1839/§3-21) skal oversende periodiske sikkerhetsrapporter bare
+
+1. dersom dette følger som et vilkår i markedsføringstillatelsen, eller
+2. etter pålegg fra Direktoratet for medisinske produkter.
 
 Pålegg etter forrige ledd bokstav b) kan gis som følge av forhold vedrørende legemiddelovervåkingsdata eller mangel på periodiske sikkerhetsrapporter vedrørende et virkestoff etter at markedsføringstillatelsen er utstedt.
 
-Periodiske sikkerhetsrapporter skal inneholdeen sammenfatning av data som er relevante for vurderingen av legemidlets nytte-/risikoforhold, inklusive resultater av alle studier, med en evaluering av dataenes betydning for produktets markedsføringstillatelse,en vitenskapelig evaluering av nytte-/risikoforholdet for legemidlet, ogopplysninger om omfang av omsetning og rekvirering, inkludert et estimat av antall eksponerte pasienter.
+Periodiske sikkerhetsrapporter skal inneholde
+
+1. en sammenfatning av data som er relevante for vurderingen av legemidlets nytte-/risikoforhold, inklusive resultater av alle studier, med en evaluering av dataenes betydning for produktets markedsføringstillatelse,
+2. en vitenskapelig evaluering av nytte-/risikoforholdet for legemidlet, og
+3. opplysninger om omfang av omsetning og rekvirering, inkludert et estimat av antall eksponerte pasienter.
 
 Evalueringen som nevnt i fjerde ledd bokstav b) skal være basert på alle tilgjengelige data, inkludert data fra kliniske utprøvinger på ikke godkjente bruksområder og grupper.
 
@@ -1175,7 +1510,11 @@ Inntil EMA kan motta rapporten, sendes disse til Direktoratet for medisinske pro
 
 Frekvens for innsendelse av periodiske sikkerhetsrapporter fremgår av markedsføringstillatelsen. Beregningen av tidspunkt for innsendelse beregnes ut i fra datoen for vedtaket om markedsføringstillatelse.
 
-Innehaveren av markedsføringstillatelse for legemiddel som ble utstedt før 21. juli 2012, og hvor tidspunkt for innsendelse av periodiske sikkerhetsrapporter ikke er fastsatt på annen måte, skal rapportene oversendes de nasjonale myndighetene i EØS-områdetumiddelbart på forespørsel,minimum hver sjette måned etter utstedelse av markedsføringstillatelse frem til legemidlet markedsføres, ogminimum hver sjette måned de første to årene etter at legemidlet er markedsført, deretter årlig de påfølgende to årene, og deretter hvert tredje år.
+Innehaveren av markedsføringstillatelse for legemiddel som ble utstedt før 21. juli 2012, og hvor tidspunkt for innsendelse av periodiske sikkerhetsrapporter ikke er fastsatt på annen måte, skal rapportene oversendes de nasjonale myndighetene i EØS-området
+
+1. umiddelbart på forespørsel,
+2. minimum hver sjette måned etter utstedelse av markedsføringstillatelse frem til legemidlet markedsføres, og
+3. minimum hver sjette måned de første to årene etter at legemidlet er markedsført, deretter årlig de påfølgende to årene, og deretter hvert tredje år.
 
 Innehaveren skal sende søknad om endring av markedsføringstillatelsen med hensyn til tidspunkt for innsendelse av periodiske sikkerhetsrapporter når dette er besluttet i henhold til prosedyren fastsatt i artikkel 107c (4) til (7) i direktiv [2010/83/EF](eu/32010l0083), som endret ved direktiv [2010/84/EU](eu/32010l0084*). Endringen trer i kraft seks måneder etter datoen for innsendelse av søknaden om endring.
 
@@ -1255,7 +1594,11 @@ Maksimal AUP for et reseptpliktig legemiddel med markedsføringstillatelse fremk
 
 Apotektilvirkede legemidler har fri prisdannelse.
 
-Direktoratet for medisinske produkter kan likevel fastsette maksimal pris til apotek (AIP) og fra apotek (AUP) for apotektilvirkede legemidler som bør prisreguleres på grunn av hensynet til:en forsvarlig legemiddelforsyning,befolkningens helse, elleret ensartet og rimelig prisnivå.
+Direktoratet for medisinske produkter kan likevel fastsette maksimal pris til apotek (AIP) og fra apotek (AUP) for apotektilvirkede legemidler som bør prisreguleres på grunn av hensynet til:
+
+1. en forsvarlig legemiddelforsyning,
+2. befolkningens helse, eller
+3. et ensartet og rimelig prisnivå.
 
 Direktoratet for medisinske produkter skal fastsette slik maksimalpris som nevnt i andre ledd for apotektilvirkede legemidler som en virksomhet har enerett til å produsere til lager for salg videre til apotek eller grossist. Direktoratet for medisinske produkter fastsetter hvilke virksomheter som har slik enerett.
 
@@ -1325,11 +1668,22 @@ Trinnpris er den pris Direktoratet for medisinske produkter fastsetter for et le
 
 Direktoratet for medisinske produkter fastsetter hvilke byttegrupper som det skal beregnes trinnpris for, og hvilke legemidler som skal inngå i disse.
 
-Felles trinnpris for legemidler i en byttegruppe fastsettes etter [§ 12-15](forskrift/2009-12-18-1839/§12-15) når:legemidlene er oppført på Direktoratet for medisinske produkters bytteliste, jf. [lov 2. juni 2000 nr. 39 om apotek § 6-6](lov/2000-06-02-39/§6-6) og [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 10-7](forskrift/2022-06-02-977/§10-7) ogoriginalpreparatet har stabil generisk eller biotilsvarende konkurranse i Norge fra minst ett legemiddel.
+Felles trinnpris for legemidler i en byttegruppe fastsettes etter [§ 12-15](forskrift/2009-12-18-1839/§12-15) når:
+
+1. legemidlene er oppført på Direktoratet for medisinske produkters bytteliste, jf. [lov 2. juni 2000 nr. 39 om apotek § 6-6](lov/2000-06-02-39/§6-6) og [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 10-7](forskrift/2022-06-02-977/§10-7) og
+2. originalpreparatet har stabil generisk eller biotilsvarende konkurranse i Norge fra minst ett legemiddel.
 
 Stabil generisk eller biotilsvarende konkurranse anses å foreligge når legemidlene er oppført på byttelisten og det ikke kan dokumenteres alvorlige leveringsproblemer for det generiske eller biotilsvarende legemidlet.
 
-Direktoratet for medisinske produkter kan unnlate å fastsette trinnpris for byttegrupper eller bestemte legemidler som av særlige grunner ikke er egnet for trinnpris. I vurderingen kan det blant annet legges vekt på at:maksimalprisen for originalpreparatet før legemidlet fikk generisk eller biotilsvarende konkurranse vanskelig kan finnes,det er vanskelig å fastslå hva som er originalpreparatet,omsetningen for legemidlene er lav,særlige farmakologiske grunner foreligger,legemidlene har begrenset byttbarhet,reseptstatus taler for det eller,særlige innkjøpsordninger gir tilnærmelsesvis samme prisreduksjon.
+Direktoratet for medisinske produkter kan unnlate å fastsette trinnpris for byttegrupper eller bestemte legemidler som av særlige grunner ikke er egnet for trinnpris. I vurderingen kan det blant annet legges vekt på at:
+
+1. maksimalprisen for originalpreparatet før legemidlet fikk generisk eller biotilsvarende konkurranse vanskelig kan finnes,
+2. det er vanskelig å fastslå hva som er originalpreparatet,
+3. omsetningen for legemidlene er lav,
+4. særlige farmakologiske grunner foreligger,
+5. legemidlene har begrenset byttbarhet,
+6. reseptstatus taler for det eller,
+7. særlige innkjøpsordninger gir tilnærmelsesvis samme prisreduksjon.
 
 > Endret ved forskrifter [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -1337,11 +1691,17 @@ Direktoratet for medisinske produkter kan unnlate å fastsette trinnpris for byt
 
 Utgangspris for beregning av trinnpris er originalpreparatets maksimale AIP da det ble fastsatt maksimalpris for det første konkurrerende generisk likeverdige eller biotilsvarende likeverdige legemiddel. Dersom det oppstår generisk eller biotilsvarende konkurranse til forskjellig tid for pakninger av samme virkestoff, er utgangsprisen originalpreparatets maksimale AIP da det ble fastsatt maksimalpris for den første pakningen av virkestoffet, jf. første punktum. Dersom det ikke var fastsatt maksimal AIP for originalpreparatet på dette tidspunktet, er utgangsprisen originalpreparatets maksimale AIP da det ble fastsatt maksimalpris for den første konkurrerende generiske eller biotilsvarende pakningen. Ved beregning av maksimal AIP for legemidler som fikk generisk konkurranse før 2014 benyttes maksimal AUP da det ble fastsatt maksimalpris for det første konkurrerende generisk likeverdig legemiddel fratrukket merverdiavgift og maksimalapotekavanse som var gjeldende per 31. desember 2013.
 
-For legemidler med omsetning på 100 millioner kroner eller mer innenfor en 12-måneders periode i løpet av de to siste år før generisk eller biotilsvarende konkurranse ble etablert jf. første ledd, eller senere, fastsettes trinnprisen med grunnlag i utgangsprisen, med en reduksjon i prisen på:25 prosent for biologiske og biotilsvarende legemidler og 81 prosent for andre legemidler, av utgangsprisen når stabil generisk eller biotilsvarende konkurranse inntraff.70 prosent for biologiske og biotilsvarende legemidler av utgangsprisen 6 måneder etter stabil biotilsvarende konkurranse inntraff.
+For legemidler med omsetning på 100 millioner kroner eller mer innenfor en 12-måneders periode i løpet av de to siste år før generisk eller biotilsvarende konkurranse ble etablert jf. første ledd, eller senere, fastsettes trinnprisen med grunnlag i utgangsprisen, med en reduksjon i prisen på:
+
+1. 25 prosent for biologiske og biotilsvarende legemidler og 81 prosent for andre legemidler, av utgangsprisen når stabil generisk eller biotilsvarende konkurranse inntraff.
+2. 70 prosent for biologiske og biotilsvarende legemidler av utgangsprisen 6 måneder etter stabil biotilsvarende konkurranse inntraff.
 
 Omsetningen etter denne paragrafen måles i AUP.
 
-For øvrige legemidler fastsettes trinnprisen med grunnlag i utgangsprisen, med en reduksjon i prisen på:25 prosent for biologiske og biotilsvarende legemidler og 59 prosent for andre legemidler, av utgangsprisen når stabil generisk eller biotilsvarende konkurranse inntraff.50 prosent for biologiske og biotilsvarende legemidler av utgangsprisen 6 måneder etter stabil biotilsvarende konkurranse inntraff.
+For øvrige legemidler fastsettes trinnprisen med grunnlag i utgangsprisen, med en reduksjon i prisen på:
+
+1. 25 prosent for biologiske og biotilsvarende legemidler og 59 prosent for andre legemidler, av utgangsprisen når stabil generisk eller biotilsvarende konkurranse inntraff.
+2. 50 prosent for biologiske og biotilsvarende legemidler av utgangsprisen 6 måneder etter stabil biotilsvarende konkurranse inntraff.
 
 Trinnpris fremkommer ved at utgangspris med prosentreduksjon etter denne paragraf tillegges apotekavanse, jf. [§ 12-3](forskrift/2009-12-18-1839/§12-3) og merverdiavgift.
 
@@ -1351,7 +1711,13 @@ Dersom trinnpris beregnet etter denne bestemmelsen er høyere enn fastsatt maksi
 
 Dersom det oppstår generisk eller biotilsvarende konkurranse for pakninger der det tidligere er etablert generisk eller biotilsvarende konkurranse for andre pakninger av samme virkestoff, fastsettes trinnpris med gjeldende kuttsats for resten av virkestoffet. Dersom samlet omsetning for alle pakninger med generisk eller biotilsvarende konkurranse overstiger omsetningsgrensene i annet ledd, benyttes den høyeste kuttsatsen som følger av annet ledd.
 
-Tidligst 18 måneder etter at stabil generisk eller biotilsvarende konkurranse inntraff, kan Direktoratet for medisinske produkter fastsette trinnpris med følgende kuttsatser av utgangsprisen:60 prosent for biologiske og biotilsvarende legemidler dersom gjeldende trinnpris er fastsatt etter fjerde ledd nr. 2 og omsetningen overstiger 15 millioner kroner69 prosent for andre legemidler, dersom trinnprisen er fastsatt etter fjerde ledd nr. 1 og omsetningen overstiger 15 millioner kroner75 prosent for biologiske og biotilsvarende legemidler dersom gjeldende trinnpris er fastsatt etter andre ledd nr. 2 og omsetningen overstiger 30 millioner kroner88 prosent for andre legemidler, dersom trinnprisen var fastsatt etter andre ledd nr. 1 og omsetningen overstiger 30 millioner kroner80 prosent for biologiske og biotilsvarende legemidler og 90 prosent for andre legemidler, dersom omsetningen overstiger 100 millioner kroner.
+Tidligst 18 måneder etter at stabil generisk eller biotilsvarende konkurranse inntraff, kan Direktoratet for medisinske produkter fastsette trinnpris med følgende kuttsatser av utgangsprisen:
+
+1. 60 prosent for biologiske og biotilsvarende legemidler dersom gjeldende trinnpris er fastsatt etter fjerde ledd nr. 2 og omsetningen overstiger 15 millioner kroner
+2. 69 prosent for andre legemidler, dersom trinnprisen er fastsatt etter fjerde ledd nr. 1 og omsetningen overstiger 15 millioner kroner
+3. 75 prosent for biologiske og biotilsvarende legemidler dersom gjeldende trinnpris er fastsatt etter andre ledd nr. 2 og omsetningen overstiger 30 millioner kroner
+4. 88 prosent for andre legemidler, dersom trinnprisen var fastsatt etter andre ledd nr. 1 og omsetningen overstiger 30 millioner kroner
+5. 80 prosent for biologiske og biotilsvarende legemidler og 90 prosent for andre legemidler, dersom omsetningen overstiger 100 millioner kroner.
 
 Kuttsats for virkestoffet atorvastatin fastsettes til 94 prosent, for simvastatin til 96 prosent og for pantoprozol 88 prosent av utgangsprisen.
 
@@ -1421,7 +1787,15 @@ Direktoratet for medisinske produkter kan fastsette retningslinjer for gjennomf�
 
 ### § 13-2. Avgrensning av anvendelsesområde
 
-Bestemmelsene i dette kapitlet omfatter ikke:Merking, pakningsvedlegg eller spesiell preparatomtale som godkjennes ved utstedelse av markedsføringstillatelse.Korrespondanse, eventuelt sammen med informasjonsmateriell som ikke har karakter av reklame, som kreves for å besvare et spesifikt spørsmål om et bestemt legemiddel.Faktaopplysninger og informasjon om endringer i emballasjen.Advarsler om bivirkninger som et ledd i legemiddelovervåking.Salgskataloger og prislister, forutsatt at de ikke inneholder noen påstander om legemidlet.Opplysninger om helse eller sykdommer, forutsatt at det hverken direkte eller indirekte kobles med omtale av ett eller flere legemidler.Tekniske bruksanvisninger forutsatt at den bare gjengir pakningsvedlegget.
+Bestemmelsene i dette kapitlet omfatter ikke:
+
+1. Merking, pakningsvedlegg eller spesiell preparatomtale som godkjennes ved utstedelse av markedsføringstillatelse.
+2. Korrespondanse, eventuelt sammen med informasjonsmateriell som ikke har karakter av reklame, som kreves for å besvare et spesifikt spørsmål om et bestemt legemiddel.
+3. Faktaopplysninger og informasjon om endringer i emballasjen.
+4. Advarsler om bivirkninger som et ledd i legemiddelovervåking.
+5. Salgskataloger og prislister, forutsatt at de ikke inneholder noen påstander om legemidlet.
+6. Opplysninger om helse eller sykdommer, forutsatt at det hverken direkte eller indirekte kobles med omtale av ett eller flere legemidler.
+7. Tekniske bruksanvisninger forutsatt at den bare gjengir pakningsvedlegget.
 
 > Endret ved [forskrifter 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [11 nov 2024 nr. 2715](forskrift/2024-11-11-2715).
 
@@ -1431,13 +1805,19 @@ Reklame er bare tillatt for legemidler som har markedsføringstillatelse i Norge
 
 Alle former for reklame for et legemiddel skal samsvare med opplysningene i preparatomtalen som er godkjent av Direktoratet for medisinske produkter.
 
-Reklame for et legemiddel skal:fremme rasjonell bruk av legemidlet ved å presentere det objektivt uten å overdrive dets egenskaper, ogskal ikke være misvisende eller villedende.
+Reklame for et legemiddel skal:
+
+1. fremme rasjonell bruk av legemidlet ved å presentere det objektivt uten å overdrive dets egenskaper, og
+2. skal ikke være misvisende eller villedende.
 
 > Endret ved [forskrifter 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
 ### § 13-4. Forbud mot reklame for legemidler til allmennheten
 
-Det er forbudt med reklame til allmennheten for legemidler som:er reseptpliktige,inneholder psykotrope eller narkotiske stoffer i henhold til internasjonale konvensjoner, som FN-konvensjonen av 1961 og 1971.
+Det er forbudt med reklame til allmennheten for legemidler som:
+
+1. er reseptpliktige,
+2. inneholder psykotrope eller narkotiske stoffer i henhold til internasjonale konvensjoner, som FN-konvensjonen av 1961 og 1971.
 
 Forbudet i første ledd gjelder ikke for vaksinasjonskampanjer som lanseres av legemiddelindustrien og som er godkjent av myndighetene.
 
@@ -1459,15 +1839,36 @@ Det er forbudt for legemiddelindustrien å dele ut legemidler direkte til allmen
 
 Reklame til allmennheten skal utformes på en slik måte at det klart fremgår at det er reklame og at legemidlet det reklameres for er klart identifisert som et legemiddel.
 
-Følgende informasjon skal alltid være med i reklame til allmennheten:legemidlets navn, samt navn på virkestoffene (fellesnavn),informasjon som er nødvendig for riktig bruk av legemidlet, herunder bruksområde og viktige forsiktighetsregler og advarsler.en oppfordring til brukeren om å lese pakningsvedlegget eller informasjon som finnes på pakningen.
+Følgende informasjon skal alltid være med i reklame til allmennheten:
 
-Reklame for legemidler til allmennheten må ikke inneholde materiale som:gir inntrykk av at det ikke er nødvendig å konsultere lege eller annet helsepersonell, eller få foretatt et kirurgisk inngrep, ved å tilby diagnose eller anbefale behandling ved korrespondanse,antyder at virkningene av legemidlet er garantert, det er uten bivirkninger eller er bedre enn eller like god som annen behandling eller annet legemiddel,antyde at en persons helse kan forbedres gjennom å ta legemidlet,antyde at en persons helse kan påvirkes av å ikke ta legemidlet, unntatt for vaksinasjonskampanjer, jf. [§ 13-4 annet ledd](forskrift/2009-12-18-1839/§13-4/ledd/2),utelukkende eller hovedsakelig henvender seg til barn,henviser til anbefalinger fra forskere, helsepersonell, eller personer som verken er forskere eller helsepersonell, men i kraft av sin anseelse kan fremme bruken av et legemiddel,antyder at legemidlet er sidestilt med et næringsmiddel, kosmetikk eller annen handelsvare,antyder at sikkerheten ved legemidlet eller dets effekt skyldes at det er naturlig,ved beskrivelse eller en detaljert framstilling av et sykdomstilfelle kan forlede personer til selv å stille uriktige diagnoser,på en overdreven, skremmende eller misvisende måte henviser til påstander om helbredelse,på en overdreven, skremmende eller misvisende måte benytter visuelle framstillinger av endringer i menneskekroppen, som skyldes sykdom eller skade, eller av et legemiddels virkning på menneskekroppen eller deler av den.
+1. legemidlets navn, samt navn på virkestoffene (fellesnavn),
+2. informasjon som er nødvendig for riktig bruk av legemidlet, herunder bruksområde og viktige forsiktighetsregler og advarsler.
+3. en oppfordring til brukeren om å lese pakningsvedlegget eller informasjon som finnes på pakningen.
+
+Reklame for legemidler til allmennheten må ikke inneholde materiale som:
+
+1. gir inntrykk av at det ikke er nødvendig å konsultere lege eller annet helsepersonell, eller få foretatt et kirurgisk inngrep, ved å tilby diagnose eller anbefale behandling ved korrespondanse,
+2. antyder at virkningene av legemidlet er garantert, det er uten bivirkninger eller er bedre enn eller like god som annen behandling eller annet legemiddel,
+3. antyde at en persons helse kan forbedres gjennom å ta legemidlet,
+4. antyde at en persons helse kan påvirkes av å ikke ta legemidlet, unntatt for vaksinasjonskampanjer, jf. [§ 13-4 annet ledd](forskrift/2009-12-18-1839/§13-4/ledd/2),
+5. utelukkende eller hovedsakelig henvender seg til barn,
+6. henviser til anbefalinger fra forskere, helsepersonell, eller personer som verken er forskere eller helsepersonell, men i kraft av sin anseelse kan fremme bruken av et legemiddel,
+7. antyder at legemidlet er sidestilt med et næringsmiddel, kosmetikk eller annen handelsvare,
+8. antyder at sikkerheten ved legemidlet eller dets effekt skyldes at det er naturlig,
+9. ved beskrivelse eller en detaljert framstilling av et sykdomstilfelle kan forlede personer til selv å stille uriktige diagnoser,
+10. på en overdreven, skremmende eller misvisende måte henviser til påstander om helbredelse,
+11. på en overdreven, skremmende eller misvisende måte benytter visuelle framstillinger av endringer i menneskekroppen, som skyldes sykdom eller skade, eller av et legemiddels virkning på menneskekroppen eller deler av den.
 
 > Endret ved [forskrifter 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [11 nov 2024 nr. 2715](forskrift/2024-11-11-2715).
 
 ### § 13-7. Krav til reklame til helsepersonell
 
-Enhver reklame for et legemiddel som rettes mot helsepersonell, skal inneholde:relevant informasjon som er fyllestgjørende og som samsvarer med preparatomtale godkjent av Direktoratet for medisinske produkter,legemidlets reseptgruppe,pris, ogopplysninger om forhåndsgodkjent refusjon.
+Enhver reklame for et legemiddel som rettes mot helsepersonell, skal inneholde:
+
+1. relevant informasjon som er fyllestgjørende og som samsvarer med preparatomtale godkjent av Direktoratet for medisinske produkter,
+2. legemidlets reseptgruppe,
+3. pris, og
+4. opplysninger om forhåndsgodkjent refusjon.
 
 Reklamen kan alternativt fremmes som påminnelsesreklame (reminder) og skal da bare inneholde legemidlets navn, virkestoff og markedsførers navn.
 
@@ -1475,7 +1876,11 @@ Reklamen kan alternativt fremmes som påminnelsesreklame (reminder) og skal da b
 
 ### § 13-8. Krav til dokumentasjon ved reklame til helsepersonell
 
-All dokumentasjon som gjelder et legemiddel og som brukes i markedsføringen av legemidlet, rettet mot helsepersonell, skal som et minimum inneholde de nevnte opplysninger i [§ 13-7 første ledd](forskrift/2009-12-18-1839/§13-7/ledd/1), og det skal angis dato for når det er utarbeidet eller sist revidert.Alle opplysninger som angis i første ledd skal være nøyaktige, oppdaterte, kontrollerbare, tilgjengelige for mottaker og tilstrekkelig utførlige til at mottaker kan danne seg sin egen oppfatning av legemidlets terapeutiske verdi.Sitater, tabeller og andre illustrasjoner hentet fra medisinske tidsskrifter eller vitenskapelige arbeider skal for å kunne benyttes i materiellet som oppgis i første ledd, gjengis lojalt med nøyaktig kildeangivelse.Medisinske tidsskrifter skal ha faglig kvalitetssikring (fagfellevurdering). Vitenskapelige arbeider skal ha gjennomgått faglig kvalitetssikring (fagfellevurdering) og være publisert.
+All dokumentasjon som gjelder et legemiddel og som brukes i markedsføringen av legemidlet, rettet mot helsepersonell, skal som et minimum inneholde de nevnte opplysninger i [§ 13-7 første ledd](forskrift/2009-12-18-1839/§13-7/ledd/1), og det skal angis dato for når det er utarbeidet eller sist revidert.
+
+1. Alle opplysninger som angis i første ledd skal være nøyaktige, oppdaterte, kontrollerbare, tilgjengelige for mottaker og tilstrekkelig utførlige til at mottaker kan danne seg sin egen oppfatning av legemidlets terapeutiske verdi.
+2. Sitater, tabeller og andre illustrasjoner hentet fra medisinske tidsskrifter eller vitenskapelige arbeider skal for å kunne benyttes i materiellet som oppgis i første ledd, gjengis lojalt med nøyaktig kildeangivelse.
+3. Medisinske tidsskrifter skal ha faglig kvalitetssikring (fagfellevurdering). Vitenskapelige arbeider skal ha gjennomgått faglig kvalitetssikring (fagfellevurdering) og være publisert.
 
 > Tilføyd ved [forskrift 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020), endret ved forskrift [11 nov 2024 nr. 2715](forskrift/2024-11-11-2715).
 
@@ -1497,7 +1902,15 @@ Helsepersonell kan ikke anmode om eller motta noen av de ytelser som er forbudt 
 
 ### § 13-11. Gratisprøver
 
-Gratisprøver skal bare utleveres unntaksvis til personer som er kvalifisert til å rekvirere dem, og på følgende vilkår:Det kan bare utleveres én prøve av legemidlet per år til hver person som er kvalifisert til å forskrive eller ekspedere legemidler. Finnes legemidlet i flere former eller styrker, kan det utleveres én prøve av hver form og styrke.Enhver utlevering av prøver skal skje etter en skriftlig, datert og underskrevet forespørsel fra en person som har rett til å forskrive dette legemidlet.Det enkelte firma skal holde oversikt over de legemiddelprøver som er utlevert. Disse lister skal oppbevares i to år og på forespørsel utleveres legemiddelmyndighetene.Hver prøve skal ikke være større enn den minste pakningen som finnes på markedet.Hver prøve skal være merket med «gratis legemiddelprøve – ikke for salg» eller annen merking med tilsvarende betydning.Med prøven skal fullstendig preparatomtale medfølge.Det må ikke utleveres prøver av legemidler som inneholder psykotrope eller narkotiske stoffer i henhold til internasjonale konvensjoner som FN-konvensjonen av 1961 og 1971.
+Gratisprøver skal bare utleveres unntaksvis til personer som er kvalifisert til å rekvirere dem, og på følgende vilkår:
+
+1. Det kan bare utleveres én prøve av legemidlet per år til hver person som er kvalifisert til å forskrive eller ekspedere legemidler. Finnes legemidlet i flere former eller styrker, kan det utleveres én prøve av hver form og styrke.
+2. Enhver utlevering av prøver skal skje etter en skriftlig, datert og underskrevet forespørsel fra en person som har rett til å forskrive dette legemidlet.
+3. Det enkelte firma skal holde oversikt over de legemiddelprøver som er utlevert. Disse lister skal oppbevares i to år og på forespørsel utleveres legemiddelmyndighetene.
+4. Hver prøve skal ikke være større enn den minste pakningen som finnes på markedet.
+5. Hver prøve skal være merket med «gratis legemiddelprøve – ikke for salg» eller annen merking med tilsvarende betydning.
+6. Med prøven skal fullstendig preparatomtale medfølge.
+7. Det må ikke utleveres prøver av legemidler som inneholder psykotrope eller narkotiske stoffer i henhold til internasjonale konvensjoner som FN-konvensjonen av 1961 og 1971.
 
 > Endret ved [forskrifter 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020, tidligere § 13-8), [11 nov 2024 nr. 2715](forskrift/2024-11-11-2715).
 
@@ -1505,7 +1918,14 @@ Gratisprøver skal bare utleveres unntaksvis til personer som er kvalifisert til
 
 Den som innehar markedsføringstillatelse skal etablere en informasjonstjeneste med faglig kompetanse som er ansvarlig for den informasjon som firmaet gir om de legemidler som markedsføres.
 
-Innehaveren skal:påse at all reklame stilles til rådighet for eller sendes til Direktoratet for medisinske produkter før bruk. Sammen med reklamen skal det gis opplysninger om mottakere, distribusjonsmåte og dato for første distribusjon,sikre at virksomhetens reklame for legemidler er i overenstemmelse med forskriften,påse at de ansatte legemiddelkonsulentene i virksomheten har tilstrekkelig opplæring og overholder de forpliktelser som pålegges i henhold til [§ 13-13](forskrift/2009-12-18-1839/§13-13) annet og tredje ledd,gi Direktoratet for medisinske produkter de opplysninger og den bistand de trenger for utøvelse av sin kontroll,sørge for at de beslutninger som er truffet av Direktoratet for medisinske produkter etterkommes umiddelbart og fullstendig,sørge for arkivering av alt reklamemateriell i minst 2 år.
+Innehaveren skal:
+
+1. påse at all reklame stilles til rådighet for eller sendes til Direktoratet for medisinske produkter før bruk. Sammen med reklamen skal det gis opplysninger om mottakere, distribusjonsmåte og dato for første distribusjon,
+2. sikre at virksomhetens reklame for legemidler er i overenstemmelse med forskriften,
+3. påse at de ansatte legemiddelkonsulentene i virksomheten har tilstrekkelig opplæring og overholder de forpliktelser som pålegges i henhold til [§ 13-13](forskrift/2009-12-18-1839/§13-13) annet og tredje ledd,
+4. gi Direktoratet for medisinske produkter de opplysninger og den bistand de trenger for utøvelse av sin kontroll,
+5. sørge for at de beslutninger som er truffet av Direktoratet for medisinske produkter etterkommes umiddelbart og fullstendig,
+6. sørge for arkivering av alt reklamemateriell i minst 2 år.
 
 Direktoratet for medisinske produkter skal ikke forby co-markedsføring av et legemiddel fra de som har markedsføringstillatelsen og et eller flere samarbeidende firmaer.
 
@@ -1533,7 +1953,10 @@ Direktoratet for medisinske produkter kan fatte vedtak etter forrige punktum med
 
 ### § 13-15. Offentliggjøring
 
-For å redusere skadevirkningene av en reklame som etter endelig avgjørelse er forbudt eller stoppet, kan Direktoratet for medisinske produkter:kreve at den som brukte reklamen offentliggjør avgjørelsen, enten i sin helhet eller i utdrag, i en form som Direktoratet for medisinske produkter finner passende,pålegge den som brukte reklamen å sende ut en beriktigelse til alle som mottok den ulovlige reklamen.
+For å redusere skadevirkningene av en reklame som etter endelig avgjørelse er forbudt eller stoppet, kan Direktoratet for medisinske produkter:
+
+1. kreve at den som brukte reklamen offentliggjør avgjørelsen, enten i sin helhet eller i utdrag, i en form som Direktoratet for medisinske produkter finner passende,
+2. pålegge den som brukte reklamen å sende ut en beriktigelse til alle som mottok den ulovlige reklamen.
 
 > Tilføyd ved [forskrift 17 juni 2020 nr. 1210](forskrift/2020-06-17-1210) (i kraft 1 juli 2020), endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -1739,9 +2162,17 @@ Oppfyller fullmektigen eller fullmakten ikke de fastsatte vilkår, eller forsøm
 
 ### § 15-3. Avgifter og gebyrer til Direktoratet for medisinske produkter
 
-Direktoratet for medisinske produkter kan kreve inn gebyr for behandling av søknad om:markedsføringstillatelse,fornyelse av markedsføringstillatelse,endringer av grunnlaget for markedsføringstillatelse.
+Direktoratet for medisinske produkter kan kreve inn gebyr for behandling av søknad om:
 
-Gebyr kan videre kreves for:vurdering av klinisk utprøving av legemiddel,utstedelse av WHO-sertifikater,oppdrag som referanseland i gjensidig anerkjennelsesprosedyre og desentralisert prosedyre.
+1. markedsføringstillatelse,
+2. fornyelse av markedsføringstillatelse,
+3. endringer av grunnlaget for markedsføringstillatelse.
+
+Gebyr kan videre kreves for:
+
+1. vurdering av klinisk utprøving av legemiddel,
+2. utstedelse av WHO-sertifikater,
+3. oppdrag som referanseland i gjensidig anerkjennelsesprosedyre og desentralisert prosedyre.
 
 Gebyr etter første og annet ledd fastsettes av departementet i [kapittel 16](forskrift/2009-12-18-1839/kap16), og tilfaller statskassen.
 
@@ -1819,7 +2250,11 @@ Søknad om status for et legemiddel som legemiddel mot sjeldne sykdommer, og sø
 
 ### § 15-9. Innsynsrett
 
-Med de begrensninger som følger av [Legemiddelloven § 30](lov/1992-12-04-132/§30), kan enhver kreve innsyn i Direktoratet for medisinske produkters og dets utvalgsinterne forretningsorden,møteagendaer, ogmøtereferater med opplysninger om de avgjørelser som er fattet, herunder stemmetall og begrunnelser til støtte for flertall og mindretall.
+Med de begrensninger som følger av [Legemiddelloven § 30](lov/1992-12-04-132/§30), kan enhver kreve innsyn i Direktoratet for medisinske produkters og dets utvalgs
+
+1. interne forretningsorden,
+2. møteagendaer, og
+3. møtereferater med opplysninger om de avgjørelser som er fattet, herunder stemmetall og begrunnelser til støtte for flertall og mindretall.
 
 Innsyn etter første ledd gjelder bare i forhold til saker som hører inn under virkeområdet for direktiv [2001/83/EF](eu/32001l0083). Innsynsretten gjelder ikke møteagendaer og møtereferater for interne møter.
 
@@ -1841,7 +2276,19 @@ Denne bestemmelsen begrenser ikke produktansvaret som følger av lov om produkta
 
 ### § 15-12. Overtredelsesgebyr etter legemiddelloven § 28a
 
-Direktoratet for medisinske produkter kan ilegge overtredelsesgebyr ved brudd på følgende bestemmelser:[Legemiddelloven § 13](lov/1992-12-04-132/§13) første og fjerde ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 14](lov/1992-12-04-132/§14) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 16](lov/1992-12-04-132/§16) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 19](lov/1992-12-04-132/§19), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 20](lov/1992-12-04-132/§20), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 21](lov/1992-12-04-132/§21), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 23](lov/1992-12-04-132/§23) femte ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelloven § 28](lov/1992-12-04-132/§28) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) tredje ledd[Legemiddelforskriften § 8-6](forskrift/2009-12-18-1839/§8-6) første ledd bokstav a, jf. [legemiddelloven § 10](lov/1992-12-04-132/§10) første ledd første punktum, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Legemiddelforskriften kapittel 13](forskrift/2009-12-18-1839/kap13), jf. [legemiddelloven § 19](lov/1992-12-04-132/§19) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd[Narkotikaforskriften § 13](forskrift/2013-02-14-199/§13) og [§ 14](forskrift/2013-02-14-199/§14), jf. [legemiddelloven § 23](lov/1992-12-04-132/§23) femte ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd.
+Direktoratet for medisinske produkter kan ilegge overtredelsesgebyr ved brudd på følgende bestemmelser:
+
+- [Legemiddelloven § 13](lov/1992-12-04-132/§13) første og fjerde ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 14](lov/1992-12-04-132/§14) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 16](lov/1992-12-04-132/§16) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 19](lov/1992-12-04-132/§19), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 20](lov/1992-12-04-132/§20), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 21](lov/1992-12-04-132/§21), jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 23](lov/1992-12-04-132/§23) femte ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelloven § 28](lov/1992-12-04-132/§28) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) tredje ledd
+- [Legemiddelforskriften § 8-6](forskrift/2009-12-18-1839/§8-6) første ledd bokstav a, jf. [legemiddelloven § 10](lov/1992-12-04-132/§10) første ledd første punktum, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Legemiddelforskriften kapittel 13](forskrift/2009-12-18-1839/kap13), jf. [legemiddelloven § 19](lov/1992-12-04-132/§19) annet ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd
+- [Narkotikaforskriften § 13](forskrift/2013-02-14-199/§13) og [§ 14](forskrift/2013-02-14-199/§14), jf. [legemiddelloven § 23](lov/1992-12-04-132/§23) femte ledd, jf. [legemiddelloven § 28a](lov/1992-12-04-132/§28a) annet ledd.
 
 Overtredelsesgebyr kan ikke settes høyere enn et beløp tilsvarende 15 ganger folketrygdens grunnbeløp foretak, eller 2 ganger folketrygdens grunnbeløp for fysiske personer.
 

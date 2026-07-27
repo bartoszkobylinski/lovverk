@@ -34,11 +34,26 @@ Forskriften gjelder strømforbruk fra og med 15. september 2025 til og med 31. d
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*annet forbruk:* alt annet strømforbruk enn husholdningsforbruk, herunder næringsforbruk og fritidsboligforbruk*boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier*fellesarealer:* arealer eid av boligselskapet som husholdningene benytter i det daglige, f.eks. vaskekjeller, trappeoppgang, boder og garasjer*gårds- og grendeverk:* et fordelingsnett med spenning under 1 000 volt vekselstrøm eller 1 500 volt likestrøm som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V*husholdningsforbruk:* husholdningers strømforbruk i boliger. Med husholdningsforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Husholdningsforbruk knyttet til gårds- og grendeverk er også omfattet*husholdningskunde:* nettkunde på målepunkt som er rettmessig registrert som husholdningskunde hos nettselskapet*nettkunde:* kunde med målepunkt registrert i Elhub, tilknyttet nettselskap*stønadsgrad:* andelen av elspotpris over fastsatt terskelverdi som det gis støtte for*terskelverdi:* nivået på elspotpris i budområdet i øre per kWh eksklusiv merverdiavgift hvor stønaden slår inn. Det gis kun støtte for delen av elspotpris over terskelverdien.
+I denne forskrift menes med:
+
+1. *annet forbruk:* alt annet strømforbruk enn husholdningsforbruk, herunder næringsforbruk og fritidsboligforbruk
+2. *boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier
+3. *fellesarealer:* arealer eid av boligselskapet som husholdningene benytter i det daglige, f.eks. vaskekjeller, trappeoppgang, boder og garasjer
+4. *gårds- og grendeverk:* et fordelingsnett med spenning under 1 000 volt vekselstrøm eller 1 500 volt likestrøm som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V
+5. *husholdningsforbruk:* husholdningers strømforbruk i boliger. Med husholdningsforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Husholdningsforbruk knyttet til gårds- og grendeverk er også omfattet
+6. *husholdningskunde:* nettkunde på målepunkt som er rettmessig registrert som husholdningskunde hos nettselskapet
+7. *nettkunde:* kunde med målepunkt registrert i Elhub, tilknyttet nettselskap
+8. *stønadsgrad:* andelen av elspotpris over fastsatt terskelverdi som det gis støtte for
+9. *terskelverdi:* nivået på elspotpris i budområdet i øre per kWh eksklusiv merverdiavgift hvor stønaden slår inn. Det gis kun støtte for delen av elspotpris over terskelverdien.
 
 ### § 4. Rett til stønad
 
-Følgende har rett på strømstønad:husholdningskunder, jf. [lov om Norgespris og strømstønad til husholdninger § 5 første ledd](lov/2025-06-20-44/§5/ledd/1)boligselskap med felles husholdningsforbruk, jf. denne forskrift [§ 7](forskrift/2025-09-08-1791/§7)gårds- og grendeverk med husholdningsforbruk, jf. denne forskrift [§ 12](forskrift/2025-09-08-1791/§12)husholdningskunder som bor fast i fritidsbolig, jf. denne forskrift [§ 11](forskrift/2025-09-08-1791/§11).
+Følgende har rett på strømstønad:
+
+1. husholdningskunder, jf. [lov om Norgespris og strømstønad til husholdninger § 5 første ledd](lov/2025-06-20-44/§5/ledd/1)
+2. boligselskap med felles husholdningsforbruk, jf. denne forskrift [§ 7](forskrift/2025-09-08-1791/§7)
+3. gårds- og grendeverk med husholdningsforbruk, jf. denne forskrift [§ 12](forskrift/2025-09-08-1791/§12)
+4. husholdningskunder som bor fast i fritidsbolig, jf. denne forskrift [§ 11](forskrift/2025-09-08-1791/§11).
 
 Ved uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen, kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten for energi avgjør saken ved enkeltvedtak. Vedtaket kan påklages til Energiklagenemnda.
 
@@ -84,7 +99,10 @@ Korrigering av stønad skal gjøres på første mulige faktura.
 
 ### § 11. Husholdning med fritidsbolig som fast bolig
 
-Nettkunde som bor fast i fritidsbolig, og som har egen strømmåler registrert hos et nettselskap, har rett til stønad dersom:nettkunden har fremlagt for nettselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, ellerdet fremgår av Folkeregisteret at nettkunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
+Nettkunde som bor fast i fritidsbolig, og som har egen strømmåler registrert hos et nettselskap, har rett til stønad dersom:
+
+1. nettkunden har fremlagt for nettselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, eller
+2. det fremgår av Folkeregisteret at nettkunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
 
 Stønad beregnes etter [lov om Norgespris og strømstønad til husholdninger § 6 første](lov/2025-06-20-44/§6/ledd/1) til [fjerde ledd](lov/2025-06-20-44/§6/ledd/4). Nettkunde som nevnt i bokstav a og som fortsatt har et kundeforhold, har rett til stønad fra og med tidspunktet for vedtaket fra kommunen. Nettkunde som nevnt i bokstav b og som fortsatt har et kundeforhold, har rett til stønad for strømforbruk fra og med 15. september 2025.
 
@@ -102,7 +120,11 @@ Stønaden skal utbetales av nettselskapet til nettkunde i tilknytningspunktet. N
 
 ### § 13. Opplysninger om gårds- og grendeverk og tilknyttede husholdninger
 
-Nettkunde i tilknytningspunktet skal opplyse nettselskapet om følgende informasjon:antall husholdninger bak målepunktet til gårds- og grendeverket som ikke får strømstønad for husholdningsforbruk gjennom andre stønadsordningeradresse til hver husholdningsamlet hovedsikringskapasitet i gårds- og grendeverket.
+Nettkunde i tilknytningspunktet skal opplyse nettselskapet om følgende informasjon:
+
+1. antall husholdninger bak målepunktet til gårds- og grendeverket som ikke får strømstønad for husholdningsforbruk gjennom andre stønadsordninger
+2. adresse til hver husholdning
+3. samlet hovedsikringskapasitet i gårds- og grendeverket.
 
 Nettkunde i tilknytningspunktet plikter å opplyse nettselskapet om endringer uten ugrunnet opphold.
 
@@ -148,7 +170,16 @@ Nettselskapene skal hver måned oversende Reguleringsmyndigheten for energi doku
 
 Reguleringsmyndigheten for energi kan fastsette format på dokumentasjon.
 
-Dokumentasjonen skal inneholde følgende informasjon:målepunkt-idstartdato og sluttdato for den aktuelle utbetalingensluttbrukergruppenæringskodetotalt forbruk i kWhkompensert forbruk i kWhmottatt stønad i kronerindikator for om målepunktet er en husholdning, et boligselskap, eller et gårds- og grendeverk (priskode).
+Dokumentasjonen skal inneholde følgende informasjon:
+
+1. målepunkt-id
+2. startdato og sluttdato for den aktuelle utbetalingen
+3. sluttbrukergruppe
+4. næringskode
+5. totalt forbruk i kWh
+6. kompensert forbruk i kWh
+7. mottatt stønad i kroner
+8. indikator for om målepunktet er en husholdning, et boligselskap, eller et gårds- og grendeverk (priskode).
 
 Reguleringsmyndigheten for energi kan be om ytterligere relevant informasjon.
 

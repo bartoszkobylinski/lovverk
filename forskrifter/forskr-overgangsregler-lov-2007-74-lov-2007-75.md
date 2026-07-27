@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Videreføring av bestemmelser i [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel
 
-Følgende bestemmelser i [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel (verdipapirhandelloven) skal gjelde inntil 1. januar 2008:kapittel 3 og 4,§ 12-1 tredje ledd,§ 12-2 sjette ledd,§ 12-6 og § 12-7,§ 14-1 første til tredje ledd og§ 14-3.
+Følgende bestemmelser i [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel (verdipapirhandelloven) skal gjelde inntil 1. januar 2008:
+
+1. kapittel 3 og 4,
+2. § 12-1 tredje ledd,
+3. § 12-2 sjette ledd,
+4. § 12-6 og § 12-7,
+5. § 14-1 første til tredje ledd og
+6. § 14-3.
 
 ## § 2. Videreføring av bestemmelse i [lov 17. november 2000 nr. 80](lov/2000-11-17-80) om børsvirksomhet m.m.
 

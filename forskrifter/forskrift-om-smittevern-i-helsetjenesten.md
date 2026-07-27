@@ -15,7 +15,7 @@ xml_hash: "734a4883ab8d72881265416868b0f0a5cc82ba31ec1338d567d8b152227eb61a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ Statsforvalteren kan bestemme at forskriften helt eller delvis kan fravikes i de
 
 ### § 1-3. Definisjoner
 
-I denne forskrift forstås med:*infeksjon:* en infeksjon som oppstår under eller etter, og som følge av opphold i institusjon som er omfattet av forskriften,*infeksjonskontrollprogram:* et program som omfatter alle nødvendige tiltak for å forebygge og motvirke infeksjoner i institusjonen og for håndtering og oppfølging ved utbrudd av slike infeksjoner,*overvåking:* vedvarende, systematisk innsamling, sammenstilling, analyse og tolkning av data om infeksjoner og spredning av informasjon, slik at nødvendige smitteverntiltak kan iverksettes.
+I denne forskrift forstås med:
+
+1. *infeksjon:* en infeksjon som oppstår under eller etter, og som følge av opphold i institusjon som er omfattet av forskriften,
+2. *infeksjonskontrollprogram:* et program som omfatter alle nødvendige tiltak for å forebygge og motvirke infeksjoner i institusjonen og for håndtering og oppfølging ved utbrudd av slike infeksjoner,
+3. *overvåking:* vedvarende, systematisk innsamling, sammenstilling, analyse og tolkning av data om infeksjoner og spredning av informasjon, slik at nødvendige smitteverntiltak kan iverksettes.
 
 ## Kapittel 2. Infeksjonskontrollprogram, organisering og overvåking
 
@@ -56,7 +60,35 @@ Ledelsen ved institusjonen og enhver som utfører verv eller arbeid for denne, s
 
 ### § 2-2. Innhold i infeksjonskontrollprogrammet
 
-Alle institusjoner som omfattes av forskriften, skal ha et infeksjonskontrollprogram som er tilpasset institusjonen etter [§ 2-1](forskrift/2005-06-17-610/§2-1) og som inneholder følgende tiltak:*Infeksjonsforebygging*Skriftlige retningslinjer for generelle smitteverntiltak, herunder forhåndhygiene,bruk av arbeidstøy,bruk av beskyttelsesutsyr, herunder hansker, munnbind og beskyttelsesfrakk,forebygging av yrkesbetinget smitte hos helsepersonell, veiledning i smitteprofylakse og vaksinasjon,alminnelig renhold,håndtering, rengjøring og desinfeksjon av tekstiler, senger og sengeutstyr,håndtering av avfall,håndtering og transport av smittefarlig materiale, inkl. pasientprøver,håndtering, rengjøring, desinfeksjon og sterilisering av utstyr,sterilforsyning, herunder innkjøp, lagring og transport, renhetsgrad før sterilisering, pakking før sterilisering, sterilisatorer og kontrollrutiner, oginnkjøp og kontroll av medisinsk utstyr.Skriftlige retningslinjer vedrørende undersøkelse, behandling og pleie. Disse skal blant annet omfatte forebygging og kontroll avurinveisinfeksjoner,postoperative sårinfeksjoner,nedre luftveisinfeksjoner,intravaskulære infeksjoner og septikemier,hudinfeksjoner ogalvorlige infeksjoner fremkalt av antibiotikaresistente bakterier.Skriftlige retningslinjer for bruk av antibiotika i virksomheten og for isolering av pasienter med smittsomme sykdommer. For virksomheter som har operasjonsavdelinger, luftsmitteisolater og andre arealer med spesielle krav til luftkvalitet skal det foreligge skriftlige retningslinjer for kontroll med ventilasjonssystemer.*Infeksjonsovervåking*Et system for overvåking av infeksjoner i institusjonen og retningslinjer for oppklaring og begrensning av utbrudd av infeksjoner. Systemet skal utformes med sikte på at infeksjoner raskt skal bli oppdaget og identifisert, slik at tiltak kan bli satt i verk i den aktuelle situasjonen og for at tiltak for å motvirke fremtidige utbrudd kan treffes. Systemet skal gi ledelsen nødvendig oversikt over forekomsten av infeksjoner som følge av opphold i institusjonen.
+Alle institusjoner som omfattes av forskriften, skal ha et infeksjonskontrollprogram som er tilpasset institusjonen etter [§ 2-1](forskrift/2005-06-17-610/§2-1) og som inneholder følgende tiltak:
+
+1. *Infeksjonsforebygging*
+
+   1. Skriftlige retningslinjer for generelle smitteverntiltak, herunder for
+
+      - håndhygiene,
+      - bruk av arbeidstøy,
+      - bruk av beskyttelsesutsyr, herunder hansker, munnbind og beskyttelsesfrakk,
+      - forebygging av yrkesbetinget smitte hos helsepersonell, veiledning i smitteprofylakse og vaksinasjon,
+      - alminnelig renhold,
+      - håndtering, rengjøring og desinfeksjon av tekstiler, senger og sengeutstyr,
+      - håndtering av avfall,
+      - håndtering og transport av smittefarlig materiale, inkl. pasientprøver,
+      - håndtering, rengjøring, desinfeksjon og sterilisering av utstyr,
+      - sterilforsyning, herunder innkjøp, lagring og transport, renhetsgrad før sterilisering, pakking før sterilisering, sterilisatorer og kontrollrutiner, og
+      - innkjøp og kontroll av medisinsk utstyr.
+   2. Skriftlige retningslinjer vedrørende undersøkelse, behandling og pleie. Disse skal blant annet omfatte forebygging og kontroll av
+
+      - urinveisinfeksjoner,
+      - postoperative sårinfeksjoner,
+      - nedre luftveisinfeksjoner,
+      - intravaskulære infeksjoner og septikemier,
+      - hudinfeksjoner og
+      - alvorlige infeksjoner fremkalt av antibiotikaresistente bakterier.
+   3. Skriftlige retningslinjer for bruk av antibiotika i virksomheten og for isolering av pasienter med smittsomme sykdommer. For virksomheter som har operasjonsavdelinger, luftsmitteisolater og andre arealer med spesielle krav til luftkvalitet skal det foreligge skriftlige retningslinjer for kontroll med ventilasjonssystemer.
+2. *Infeksjonsovervåking*
+
+   Et system for overvåking av infeksjoner i institusjonen og retningslinjer for oppklaring og begrensning av utbrudd av infeksjoner. Systemet skal utformes med sikte på at infeksjoner raskt skal bli oppdaget og identifisert, slik at tiltak kan bli satt i verk i den aktuelle situasjonen og for at tiltak for å motvirke fremtidige utbrudd kan treffes. Systemet skal gi ledelsen nødvendig oversikt over forekomsten av infeksjoner som følge av opphold i institusjonen.
 
 ### § 2-3. Organisering i spesialisthelsetjenesten
 
@@ -96,7 +128,10 @@ Det regionale helseforetaket skal sørge for at det utarbeides tilbud om nødven
 
 Hvert regionale helseforetak skal ha et senter for smittevern i helsetjenesten som skal være et kompetansesenter for helseregionen. Dersom det regionale helseforetaket finner det formålstjenlig, kan kompetansesenterfunksjonen fordeles mellom ulike helseforetak. Kompetansesenteret skal faglig ledes av en heltidsansatt smittevernlege.
 
-Kompetansesenteret skalsamordne smittevernarbeidet, stimulere til aktivitet og fremme fagutvikling i det regionale helseforetakets helseinstitusjoner ogyte sakkyndig hjelp til andre helseinstitusjoner i det regionale helseforetaket, herunder smittevernrådgivning, overvåking, kompetansehevende tiltak for personell, forskning og oppklaring av utbrudd i samarbeid med Folkehelseinstituttet.
+Kompetansesenteret skal
+
+- samordne smittevernarbeidet, stimulere til aktivitet og fremme fagutvikling i det regionale helseforetakets helseinstitusjoner og
+- yte sakkyndig hjelp til andre helseinstitusjoner i det regionale helseforetaket, herunder smittevernrådgivning, overvåking, kompetansehevende tiltak for personell, forskning og oppklaring av utbrudd i samarbeid med Folkehelseinstituttet.
 
 > Endret ved [forskrifter 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [18 okt 2019 nr. 1383](forskrift/2019-10-18-1383), [20 des 2019 nr. 1930](forskrift/2019-12-20-1930) (i kraft 1 jan 2020).
 
@@ -108,13 +143,25 @@ Kommunen har det overordnede ansvar for etablering, tilrettelegging og oppfølgi
 
 Folkehelseinstituttet skal holde oversikt over og samordne overvåking av infeksjoner i institusjoner i landet på grunnlag av meldinger, utbruddsvarsler og infeksjonsovervåking etter [§ 2-5](forskrift/2005-06-17-610/§2-5) annet til fjerde ledd, samt annet materiale Folkehelseinstituttet har tilgang til.
 
-Folkehelseinstituttet skalbidra til å samordne smittevernarbeidet nasjonalt og stimulere til fagutvikling,tilby assistanse ved oppklaring av utbrudd,utarbeide årlig statistikk over infeksjoner i institusjonene,drive undervisningsvirksomhet, kurs, samt oppdatering av kunnskaper i smittevern,samordne utarbeiding av faglige veiledere og retningslinjer for smittevernarbeidet etter denne forskriften,koordinere undersøkelser der flere virksomheter deltar ogholde departementet, Helsedirektoratet og Statens helsetilsyn orientert om problemstillinger knyttet til smittevern i institusjonene og gi råd om eventuelle tiltak.
+Folkehelseinstituttet skal
+
+- bidra til å samordne smittevernarbeidet nasjonalt og stimulere til fagutvikling,
+- tilby assistanse ved oppklaring av utbrudd,
+- utarbeide årlig statistikk over infeksjoner i institusjonene,
+- drive undervisningsvirksomhet, kurs, samt oppdatering av kunnskaper i smittevern,
+- samordne utarbeiding av faglige veiledere og retningslinjer for smittevernarbeidet etter denne forskriften,
+- koordinere undersøkelser der flere virksomheter deltar og
+- holde departementet, Helsedirektoratet og Statens helsetilsyn orientert om problemstillinger knyttet til smittevern i institusjonene og gi råd om eventuelle tiltak.
 
 > Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
 
 ### § 3-4. Helsedirektoratet
 
-Helsedirektoratet skalha en overordnet strategi for smittevernet i helse- og omsorgstjenesten,fastsette normer på områder hvor dette er et hensiktsmessig virkemiddel, ogformulere krav til utdanning i smittevern for helsepersonell.
+Helsedirektoratet skal
+
+- ha en overordnet strategi for smittevernet i helse- og omsorgstjenesten,
+- fastsette normer på områder hvor dette er et hensiktsmessig virkemiddel, og
+- formulere krav til utdanning i smittevern for helsepersonell.
 
 > Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
 

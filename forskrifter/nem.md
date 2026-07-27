@@ -15,7 +15,7 @@ xml_hash: "924a5c86cf2ac8c328445dce868ea5ea9320e94ac9705fb69eefa99570e92ad9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -138,7 +138,15 @@ Reguleringsmyndigheten for energi skal ved enkeltvedtak jf. [energiloven § 3-4a
 
 Tilknyttende nettselskap skal uten ugrunnet opphold gjennomføre en modenhetsvurdering av forespørsler om tilknytning eller økt kapasitet for uttak eller innmating av elektrisk energi på 1 MW eller mer. For forespørsler om 10 MW eller mer i distribusjonsnettet, skal overliggende regionalnettselskap ha ansvar for vurderingen. For forespørsler om 100 MW eller mer, skal Statnett ha ansvar for vurderingen. For forespørsler etter andre og tredje punktum skal vurderingen gjennomføres i samarbeid med tilknyttende nettselskap, uten ugrunnet opphold og basert på modenhetskriteriene til nettselskapet som er ansvarlig. Tilknyttende nettselskap skal være aktørens kontaktpunkt også for disse tilknytningsforespørslene.
 
-Modenhetsvurderingen skal som minimum baseres på følgende modenhetskriterierprosjektbeskrivelsereelt kapasitetsbehovtidspunkt for bruk av kapasitetenforpliktende fremdriftsplanstatus på relevante tillatelser og avtalerlokaliseringfinansieringsplan.
+Modenhetsvurderingen skal som minimum baseres på følgende modenhetskriterier
+
+1. prosjektbeskrivelse
+2. reelt kapasitetsbehov
+3. tidspunkt for bruk av kapasiteten
+4. forpliktende fremdriftsplan
+5. status på relevante tillatelser og avtaler
+6. lokalisering
+7. finansieringsplan.
 
 Alle modenhetskriterier samt nærmere krav til hvordan kriteriene oppfylles, skal gjøres kjent for nettkundene i en skriftlig og lett tilgjengelig sammenstilling. Nettselskapet skal uten ugrunnet opphold gi skriftlig tilbakemelding på om kriteriene for modenhet er oppfylt.
 
@@ -148,7 +156,12 @@ Opprettholdelse av reservasjon eller tildelt plass i køen krever at aktøren so
 
 Nettselskapet som er ansvarlig for modenhetsvurderingen etter første ledd skal, basert på rapporteringen, vurdere om modenhetskriteriene fortsatt er oppfylt. Ved vesentlige endringer eller avvik i oppfyllelse av modenhetskriteriene på grunn av forhold som aktøren direkte eller indirekte er ansvarlig for eller må bære risikoen for, skal reservert kapasitet eller plass i kapasitetskøen trekkes tilbake. Beslutningen kan gjelde hele eller deler av kapasiteten, og skal forhåndsvarsles. Forhåndsvarselet og beslutningen skal begrunnes og meddeles aktøren og relevante nettselskap skriftlig uten ugrunnet opphold.
 
-Nettselskap med konsesjon etter [energiloven kapittel 3](lov/1990-06-29-50/kap3) skal registrere forespørsler og oppbevare informasjon omny eller økt kapasitet på 1 MW eller mertidspunkt for når aktøren har levert tilstrekkelig informasjontidspunktet for reservasjon av kapasitet eller tildelt plass i kapasitetskøtidspunkt for eventuell tilbaketrekning av reservert kapasitet eller plass i kapasitetskø.
+Nettselskap med konsesjon etter [energiloven kapittel 3](lov/1990-06-29-50/kap3) skal registrere forespørsler og oppbevare informasjon om
+
+1. ny eller økt kapasitet på 1 MW eller mer
+2. tidspunkt for når aktøren har levert tilstrekkelig informasjon
+3. tidspunktet for reservasjon av kapasitet eller tildelt plass i kapasitetskø
+4. tidspunkt for eventuell tilbaketrekning av reservert kapasitet eller plass i kapasitetskø.
 
 Dokumentasjonen etter bokstav a til d skal oppbevares i minst ti år etter at kunden er tilknyttet eller etter avbrutt tilknytningsprosess.
 
@@ -164,7 +177,12 @@ Tilknyttende nettselskap skal uten ugrunnet opphold be om dokumentasjon fra akt�
 
 ### § 3-6. Krav til registrering og rapportering av tidsbruk for tilknytninger
 
-Nettselskap med inntektsramme skal for hver forespørsel om tilknytning og endring av eksisterende tilknytning under 1 MW registrere dato for nårnettselskapet mottok endelig forespørsel fra kundentilbud om anleggsbidrag ble sendt til kundentilbud om anleggsbidrag ble akseptert av kundenforespørselen i bokstav a ble innfridd.
+Nettselskap med inntektsramme skal for hver forespørsel om tilknytning og endring av eksisterende tilknytning under 1 MW registrere dato for når
+
+1. nettselskapet mottok endelig forespørsel fra kunden
+2. tilbud om anleggsbidrag ble sendt til kunden
+3. tilbud om anleggsbidrag ble akseptert av kunden
+4. forespørselen i bokstav a ble innfridd.
 
 Datoene i bokstav b og c skal bare registreres ved forespørsler som medfører at nettselskap skal kreve inn et anleggsbidrag etter [forskrift om kontroll av nettvirksomhet § 16-1](forskrift/1999-03-11-302/§16-1). Nettselskapet skal registrere kapasitetsendringen, og om det er en ny tilknytning eller endring av en eksisterende tilknytning.
 
@@ -204,13 +222,21 @@ Enheter som omsetter elektrisk energi, eller som kan stå i en eller annen form 
 
 Enheter hvor den konsesjonspliktige virksomhet er av begrenset omfang, kan meddeles konsesjon på forenklede vilkår.
 
-Unntatt fra konsesjonsplikt ergårds- og grendeverk som ikke har høyspenningsanleggvidereformidling av elektrisk energi i forbindelse med utleie eller administrasjon av hele eller deler av bygninger eller anlegg til bolig eller næringsvirksomhetkommuner og fylkeskommuner for den del av virksomheten som består av uttak av konsesjonskraft og videresalg av slik kraft til energiverk, og andre der kommunen eller fylkeskommunen har eierandeler, alt innenfor de rammene som fremgår av vassdragsreguleringsloven og vannfallrettighetsloven.
+Unntatt fra konsesjonsplikt er
+
+1. gårds- og grendeverk som ikke har høyspenningsanlegg
+2. videreformidling av elektrisk energi i forbindelse med utleie eller administrasjon av hele eller deler av bygninger eller anlegg til bolig eller næringsvirksomhet
+3. kommuner og fylkeskommuner for den del av virksomheten som består av uttak av konsesjonskraft og videresalg av slik kraft til energiverk, og andre der kommunen eller fylkeskommunen har eierandeler, alt innenfor de rammene som fremgår av vassdragsreguleringsloven og vannfallrettighetsloven.
 
 Det kreves heller ikke konsesjon der dette må anses åpenbart unødvendig.
 
 ### § 4-3. Innholdet i søknader om omsetningskonsesjon
 
-Søknader om konsesjon for omsetning av elektrisk energi skal sendes Reguleringsmyndigheten for energi og gi dokumenterte opplysninger omsøkerens navn og virksomhetsøkerens organisasjon og eierforholdsiste års regnskap og årsberetning, eller for nye selskaper vedtekter, åpningsbalanse og budsjett, i samsvar med regnskapsloven og god regnskapsskikk.
+Søknader om konsesjon for omsetning av elektrisk energi skal sendes Reguleringsmyndigheten for energi og gi dokumenterte opplysninger om
+
+1. søkerens navn og virksomhet
+2. søkerens organisasjon og eierforhold
+3. siste års regnskap og årsberetning, eller for nye selskaper vedtekter, åpningsbalanse og budsjett, i samsvar med regnskapsloven og god regnskapsskikk.
 
 ### § 4-4. Intern organisering og regnskap
 
@@ -270,7 +296,12 @@ Reguleringsmyndigheten for energi skal ved enkeltvedtak fastsette eller godkjenn
 
 ### § 4-10. Vilkår for markedsplasskonsesjon
 
-Konsesjonær for markedsplass for omsetning av elektrisk energi skali størst mulig grad bidra til en effektiv prisdannelse og en hensiktsmessig kraftflytopptre nøytralt og ikke-diskriminerende, noe som omfatter å sikre aktørene nøytral og effektiv tilgang på informasjon som har betydning for prisdannelsenutforme en hensiktsmessig infrastruktur, handelsregler, aktøravtaler og systemer for sikkerhetsstillelse og oppgjør som sikrer tillit og forutberegnelighet for aktørenesørge for at markedsplassen bidrar til en effektiv utøvelse av systemansvaret.
+Konsesjonær for markedsplass for omsetning av elektrisk energi skal
+
+1. i størst mulig grad bidra til en effektiv prisdannelse og en hensiktsmessig kraftflyt
+2. opptre nøytralt og ikke-diskriminerende, noe som omfatter å sikre aktørene nøytral og effektiv tilgang på informasjon som har betydning for prisdannelsen
+3. utforme en hensiktsmessig infrastruktur, handelsregler, aktøravtaler og systemer for sikkerhetsstillelse og oppgjør som sikrer tillit og forutberegnelighet for aktørene
+4. sørge for at markedsplassen bidrar til en effektiv utøvelse av systemansvaret.
 
 Konsesjonærens inntekter ved organisering og drift av en markedsplass skal dekke kostnadene og gi en rimelig avkastning ved effektiv drift.
 
@@ -332,7 +363,12 @@ I ekstraordinære situasjoner kan ansatte i foretak som driver produksjon av ele
 
 ### § 4-16. Salg av egen kapasitet
 
-Nettselskap kan ikke selge eller leie ut egen kapasitet, unntatt i følgende tilfeller:Salg eller utleie av overskuddskapasitet i et begrenset omfang. Med overskuddskapasitet menes egen kapasitet som er anskaffet og opprettholdes for å dekke behov i foretakets egen nettdrift, men som ikke fullt ut kan benyttes for dette formålet. Nettselskap skal ikke bygge opp eller opprettholde egen kapasitet med formål om å selge eller leie denne ut.Salg av fiberkapasitet engros. Nettselskap skal ikke bygge opp egen fiberkapasitet med formål å selge eller leie denne ut. Salg av fiberkapasitet skal skje på like og ikke-diskriminerende vilkår.I ekstraordinære beredskapssituasjoner kan nettselskap bistå andre foretak. Nettselskapet skal kreve et rimelig vederlag for slike tjenester. Et nettselskap skal ikke bygge opp eller opprettholde egen beredskapskapasitet med formål å bistå andre.Salg av driftssentraltjenester til kraftprodusenter og foretak som driver fjernvarmevirksomhet. Tillatte driftssentraltjenester etter denne bestemmelsen omfatter overvåking av anlegg, i tillegg til koordinerende og nødvendige tiltak for operativ drift av disse. Nettselskapet skal ikke ta kommersielle beslutninger på vegne av konkurranseutsatt virksomhet. Salg av driftssentraltjenester til kraftprodusenter eller foretak som driver fjernvarmevirksomhet skal skje på like og ikke-diskriminerende vilkår. Nettselskap kan selge driftssentraltjenester til andre nettselskap.
+Nettselskap kan ikke selge eller leie ut egen kapasitet, unntatt i følgende tilfeller:
+
+1. Salg eller utleie av overskuddskapasitet i et begrenset omfang. Med overskuddskapasitet menes egen kapasitet som er anskaffet og opprettholdes for å dekke behov i foretakets egen nettdrift, men som ikke fullt ut kan benyttes for dette formålet. Nettselskap skal ikke bygge opp eller opprettholde egen kapasitet med formål om å selge eller leie denne ut.
+2. Salg av fiberkapasitet engros. Nettselskap skal ikke bygge opp egen fiberkapasitet med formål å selge eller leie denne ut. Salg av fiberkapasitet skal skje på like og ikke-diskriminerende vilkår.
+3. I ekstraordinære beredskapssituasjoner kan nettselskap bistå andre foretak. Nettselskapet skal kreve et rimelig vederlag for slike tjenester. Et nettselskap skal ikke bygge opp eller opprettholde egen beredskapskapasitet med formål å bistå andre.
+4. Salg av driftssentraltjenester til kraftprodusenter og foretak som driver fjernvarmevirksomhet. Tillatte driftssentraltjenester etter denne bestemmelsen omfatter overvåking av anlegg, i tillegg til koordinerende og nødvendige tiltak for operativ drift av disse. Nettselskapet skal ikke ta kommersielle beslutninger på vegne av konkurranseutsatt virksomhet. Salg av driftssentraltjenester til kraftprodusenter eller foretak som driver fjernvarmevirksomhet skal skje på like og ikke-diskriminerende vilkår. Nettselskap kan selge driftssentraltjenester til andre nettselskap.
 
 > Tilføyd ved [forskrift 30 juni 2020 nr. 1454](forskrift/2020-06-30-1454) (i kraft 1 jan 2021, se endringsforskriften for overgangsbestemmelser).
 
@@ -402,15 +438,27 @@ I dette kapittelet forstås med:
 
 ### § 5-2. Forbud mot innsidehandel
 
-For personer som forestår produksjon, omforming, overføring, omsetning, fordeling eller bruk av energi og har innsideinformasjon om et engrosenergiprodukt, er det forbudtå benytte slik informasjon, direkte eller indirekte, ved å erverve eller selge, eller forsøke å erverve eller selge, et engrosenergiprodukt, for egen eller tredjemanns regning,å formidle slik informasjon til andre, med mindre det skjer som ledd i personens stilling, virksomhet eller funksjon, ellerå anbefale eller tilskynde andre til å erverve eller selge et engrosenergiprodukt på grunnlag av slik informasjon.
+For personer som forestår produksjon, omforming, overføring, omsetning, fordeling eller bruk av energi og har innsideinformasjon om et engrosenergiprodukt, er det forbudt
 
-Forbudet i første ledd gjelder ikke fortransaksjoner for å oppfylle en forpliktelse til erverv eller salg av et engrosenergiprodukt basert på inngått avtale eller inngitt handelsordre før personen kom i besittelse av innsideinformasjon,transaksjon som inngås av kraftprodusenter som utelukkende har til formål å dekke et umiddelbart fysisk tap som følge av uforutsett utfall, dersom markedsaktøren ellers ikke kan overholde eksisterende kontraktsmessige forpliktelser, eller etter avtale med eller instruks fra transmisjonssystemoperatør for å sikre sikker drift av systemet. I slike situasjoner skal produsenten rapportere relevante opplysninger om transaksjonene til Reguleringsmyndigheten for energi. Denne rapporteringsplikten begrenser ikke plikten til å publisere innsideinformasjon i [§ 5-3](forskrift/2019-10-24-1413/§5-3) første ledd.markedsaktør som opererer i overensstemmelse med bestemmelser for nødsituasjoner og nasjonale myndigheter har grepet inn for å sikre forsyningen av energi i tilfeller hvor markedsmekanismene er satt ut av spill.
+1. å benytte slik informasjon, direkte eller indirekte, ved å erverve eller selge, eller forsøke å erverve eller selge, et engrosenergiprodukt, for egen eller tredjemanns regning,
+2. å formidle slik informasjon til andre, med mindre det skjer som ledd i personens stilling, virksomhet eller funksjon, eller
+3. å anbefale eller tilskynde andre til å erverve eller selge et engrosenergiprodukt på grunnlag av slik informasjon.
+
+Forbudet i første ledd gjelder ikke for
+
+1. transaksjoner for å oppfylle en forpliktelse til erverv eller salg av et engrosenergiprodukt basert på inngått avtale eller inngitt handelsordre før personen kom i besittelse av innsideinformasjon,
+2. transaksjon som inngås av kraftprodusenter som utelukkende har til formål å dekke et umiddelbart fysisk tap som følge av uforutsett utfall, dersom markedsaktøren ellers ikke kan overholde eksisterende kontraktsmessige forpliktelser, eller etter avtale med eller instruks fra transmisjonssystemoperatør for å sikre sikker drift av systemet. I slike situasjoner skal produsenten rapportere relevante opplysninger om transaksjonene til Reguleringsmyndigheten for energi. Denne rapporteringsplikten begrenser ikke plikten til å publisere innsideinformasjon i [§ 5-3](forskrift/2019-10-24-1413/§5-3) første ledd.
+3. markedsaktør som opererer i overensstemmelse med bestemmelser for nødsituasjoner og nasjonale myndigheter har grepet inn for å sikre forsyningen av energi i tilfeller hvor markedsmekanismene er satt ut av spill.
 
 Når en juridisk person har innsideinformasjon om et engrosenergiprodukt, gjelder forbudet i første ledd også fysiske personer som tar del i avgjørelsen om å gjennomføre transaksjonen for den juridiske personens regning.
 
 ### § 5-3. Offentliggjøring av innsideinformasjon
 
-Markedsaktører skal effektivt og uten ugrunnet opphold offentliggjøre innsideinformasjon som de har om virksomhet eller anlegg som markedsaktøren selv, dens morselskap eller tilknyttet selskaphelt eller delvis eier,helt eller delvis har driftsansvar for, ellerkontrollerer.
+Markedsaktører skal effektivt og uten ugrunnet opphold offentliggjøre innsideinformasjon som de har om virksomhet eller anlegg som markedsaktøren selv, dens morselskap eller tilknyttet selskap
+
+1. helt eller delvis eier,
+2. helt eller delvis har driftsansvar for, eller
+3. kontrollerer.
 
 Slik offentliggjøring omfatter opplysninger om kapasitet og anvendelse av anlegg for produksjon, forbruk eller transmisjon av energi, herunder planlagte eller uforutsette utfall for disse anleggene.
 
@@ -446,7 +494,13 @@ Reguleringsmyndigheten for energi kan kreve at konsesjonær for organisert marke
 
 Systemansvaret skal utøves på en samfunnsmessig rasjonell måte. Den systemansvarlige skal sørge for at det til enhver tid er momentan balanse mellom den samlede produksjonen og den samlede bruken av kraft, hensett til kraftutvekslingen med tilknyttede utenlandske systemer. Det skal legges til rette for en tilfredsstillende leveringskvalitet i alle deler av landet.
 
-Den systemansvarlige skalsamordne disposisjonene til alle som eier eller helt eller delvis driver produksjon eller nett, organisert markedsplass, omsettere og sluttbrukere, for å sikre momentan balansevære nøytral og uavhengig overfor aktørene i kraftmarkedeti størst mulig grad benytte virkemidler som er basert på markedsprinsipper, blant annet drive og utvikle marked for regulerkraftovervåke utviklingen av kraftsystemet og holde myndighetene løpende orientert om utviklingen i effekt- og energibalansenbidra til at overføringsnettet bygges ut på en samfunnsmessig rasjonell måte.
+Den systemansvarlige skal
+
+1. samordne disposisjonene til alle som eier eller helt eller delvis driver produksjon eller nett, organisert markedsplass, omsettere og sluttbrukere, for å sikre momentan balanse
+2. være nøytral og uavhengig overfor aktørene i kraftmarkedet
+3. i størst mulig grad benytte virkemidler som er basert på markedsprinsipper, blant annet drive og utvikle marked for regulerkraft
+4. overvåke utviklingen av kraftsystemet og holde myndighetene løpende orientert om utviklingen i effekt- og energibalansen
+5. bidra til at overføringsnettet bygges ut på en samfunnsmessig rasjonell måte.
 
 I forbindelse med vanskelige driftssituasjoner kan den systemansvarlige rekvirere effekttilgang ved å kreve at all tilgjengelig regulerytelse innenfor produksjon og forbruk skal anmeldes i marked for regulerkraft. I helt spesielle driftssituasjoner kan den systemansvarlige foreta en kortvarig tvangsutkobling av forbruket for å opprettholde balansen. Den systemansvarlige kan bli ilagt en kostnad for en slik tvangsutkobling.
 
@@ -456,7 +510,12 @@ De som omfattes av et vedtak fattet av den systemansvarlige under utøvelsen av 
 
 ### § 6-2. Tilsyn med den systemansvarlige
 
-Reguleringsmyndigheten for energi skal ved enkeltvedtak fastsette eller godkjenne den systemansvarliges vilkår, eller metoden for å fastsette slike vilkår, omsystem- og balansetjenesterplanlegging, idriftsettelse eller tilknytning av anlegg i kraftsystemet, som bruk av standardvilkården systemansvarliges kapasitetstildeling og håndtering av flaskehalser i overføringsnettet, blant annet for utenlandsforbindelser etter [energiloven § 4-2](lov/1990-06-29-50/§4-2)utøvelsen av systemansvaret.
+Reguleringsmyndigheten for energi skal ved enkeltvedtak fastsette eller godkjenne den systemansvarliges vilkår, eller metoden for å fastsette slike vilkår, om
+
+1. system- og balansetjenester
+2. planlegging, idriftsettelse eller tilknytning av anlegg i kraftsystemet, som bruk av standardvilkår
+3. den systemansvarliges kapasitetstildeling og håndtering av flaskehalser i overføringsnettet, blant annet for utenlandsforbindelser etter [energiloven § 4-2](lov/1990-06-29-50/§4-2)
+4. utøvelsen av systemansvaret.
 
 Den systemansvarlige skal forelegge forslag til vilkår eller metoder for Reguleringsmyndigheten for energi til godkjenning før de gjøres gjeldende.
 
@@ -522,7 +581,11 @@ Den som uaktsomt overtrer bestemmelse som nevnt i første ledd, straffes med bø
 
 Reguleringsmyndigheten for energi kan gi forskrift om metoder for beregning av nettselskapenes tillatte og faktiske inntekter og håndtering av avvik mellom disse.
 
-Forskriften skal ha bestemmelser for nettselskaper omberegning av tillatte og faktiske inntekter ved salg av nettjenester, blant annet om fastsettelse av årlig inntektsramme, kostnader som kan dekkes inn som tillegg til den årlig inntektsrammen, og fradrag i inntektsrammen for avbruddskostnaderhåndtering av avvik mellom tillatt og faktisk inntekt, blant annet om Reguleringsmyndigheten for energis enkeltvedtak om fastsettelse av mer- eller mindreinntekt og mer- eller mindreavkastningfordeling av tillatt inntekt for eget nett på ulike nettnivåer basert på objektive og ikke-diskriminerende kriterier.
+Forskriften skal ha bestemmelser for nettselskaper om
+
+1. beregning av tillatte og faktiske inntekter ved salg av nettjenester, blant annet om fastsettelse av årlig inntektsramme, kostnader som kan dekkes inn som tillegg til den årlig inntektsrammen, og fradrag i inntektsrammen for avbruddskostnader
+2. håndtering av avvik mellom tillatt og faktisk inntekt, blant annet om Reguleringsmyndigheten for energis enkeltvedtak om fastsettelse av mer- eller mindreinntekt og mer- eller mindreavkastning
+3. fordeling av tillatt inntekt for eget nett på ulike nettnivåer basert på objektive og ikke-diskriminerende kriterier.
 
 ### § 8-6. Vurdering av reglene om anleggsbidrag
 

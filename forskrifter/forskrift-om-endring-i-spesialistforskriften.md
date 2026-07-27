@@ -15,7 +15,7 @@ xml_hash: "78f91124721794ab404bd395c05dd0ccd74e3a44a892a95efdc0acf1e010c805"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -184,4 +184,7 @@ Ha kunnskap om digital omstilling som en del av endrings- og utviklingsarbeid, o
 
 ## II
 
-Forskriften trer i kraft i to bolker, som følgende:Læringsmål merket med «[del C](forskrift/2016-12-08-1482/delC), C21» trer i kraft 1. september 2026. På samme tidspunkt slettes læringsmål som er utgående.Læringsmål merket med «[del C](forskrift/2016-12-08-1482/delC), C46» trer i kraft 1. mars 2027. På samme tidspunkt slettes læringsmål som er utgående.
+Forskriften trer i kraft i to bolker, som følgende:
+
+- Læringsmål merket med «[del C](forskrift/2016-12-08-1482/delC), C21» trer i kraft 1. september 2026. På samme tidspunkt slettes læringsmål som er utgående.
+- Læringsmål merket med «[del C](forskrift/2016-12-08-1482/delC), C46» trer i kraft 1. mars 2027. På samme tidspunkt slettes læringsmål som er utgående.

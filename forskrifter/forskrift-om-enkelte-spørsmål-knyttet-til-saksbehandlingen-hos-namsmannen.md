@@ -30,7 +30,12 @@ Forskriften gjelder for alminnelig namsmann. For kommune som utøver namskompeta
 
 Samtidig som begjæringen forelegges, skal namsmannen gjøre saksøkte oppmerksom på at det kan tas utlegg i formuesgoder som tilhører saksøkte og at det kan besluttes utleggstrekk i saksøktes inntekt som sikkerhet for kravet. Dersom saksøkte er en privatperson, skal namsmannen i tillegg opplyse om hvilke opplysninger namsmannen har om saksøkte, og som er av betydning for en beslutning der utleggstrekkets størrelse skal fastsettes.
 
-Opplysninger som skal gis etter første ledd omfattersaksøktes inntekt og informasjon om hvordan inntekten er beregnetforskuddstrekk i saksøktes inntekt, som er lagt til grunn ved beregningenhvilke livsoppholdssatser som gjelder for saksøkte og saksøktes husstandsaksøktes øvrige utgifter til et rimelig livsopphold som namsmannen kjenner til eller har stipulert.
+Opplysninger som skal gis etter første ledd omfatter
+
+1. saksøktes inntekt og informasjon om hvordan inntekten er beregnet
+2. forskuddstrekk i saksøktes inntekt, som er lagt til grunn ved beregningen
+3. hvilke livsoppholdssatser som gjelder for saksøkte og saksøktes husstand
+4. saksøktes øvrige utgifter til et rimelig livsopphold som namsmannen kjenner til eller har stipulert.
 
 Namsmannen skal gjøre saksøkte oppmerksom på at opplysningene nevnt i annet ledd vil bli lagt til grunn i vurderingen av utleggstrekkets størrelse, med mindre andre opplysninger blir sannsynliggjort.
 
@@ -42,13 +47,24 @@ Ved foreleggelse etter [tvangsfullbyrdelsesloven § 2-17 femte ledd](lov/1992-06
 
 Banker og andre finansforetak kan gi opplysninger etter [tvangsfullbyrdelsesloven § 5-7](lov/1992-06-26-86/§5-7) gjennom en automatisert oppslagstjeneste. Med automatisert oppslagstjeneste menes en teknisk løsning der opplysninger gjøres tilgjengelige gjennom et felles teknisk grensesnitt mellom namsmyndigheten og finansforetaket, i et forhåndsdefinert format og uten manuell behandling fra finansforetakets side.
 
-Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:kontoeierskap,kontotype,saldo og beholdning, ogregistrerte heftelser.
+Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:
+
+1. kontoeierskap,
+2. kontotype,
+3. saldo og beholdning, og
+4. registrerte heftelser.
 
 Namsmyndigheten skal blant annet sørge for sikker autentisering av forespørselen, angivelse av hjemmelen for forespørselen og logging av forespørsler og svar. Namsmyndigheten skal ha rutiner for å minimere og slette overskuddsinformasjon. Opplysningene som gis gjennom oppslagstjenesten, skal krypteres. Namsmyndigheten skal begrense hvilke ansatte som har tilgang til oppslagstjenesten, og tilgangen skal begrenses i omfang og tid etter den ansattes tjenstlige behov. Namsmyndigheten skal jevnlig føre kontroll med bruken av oppslagstjenesten, herunder ved bruk av automatisert logganalyse.
 
 ## § 4. Fordringshaveres innsyn i opplysninger om løpende utleggstrekk
 
-Saksøker med krav som deltar i utleggstrekk har rett til å få opplyst:summen av krav i trekket med bedre artsprioritet enn saksøkerens krav,summen av krav i trekket med lik artsprioritet som saksøkerens krav, samt kravenes samlede grunnlag for forholdsmessig fordeling etter [dekningsloven § 2-8 tredje ledd](lov/1984-06-08-59/§2-8/ledd/3),hvor mye av trekket som skal dekke uforfalte bidragskrav,datoen for sist gjennomførte trekk og hvilket beløp som ble trukket, oggjeldende beslutning om trekkets størrelse og hvem som er trekkpliktig.
+Saksøker med krav som deltar i utleggstrekk har rett til å få opplyst:
+
+1. summen av krav i trekket med bedre artsprioritet enn saksøkerens krav,
+2. summen av krav i trekket med lik artsprioritet som saksøkerens krav, samt kravenes samlede grunnlag for forholdsmessig fordeling etter [dekningsloven § 2-8 tredje ledd](lov/1984-06-08-59/§2-8/ledd/3),
+3. hvor mye av trekket som skal dekke uforfalte bidragskrav,
+4. datoen for sist gjennomførte trekk og hvilket beløp som ble trukket, og
+5. gjeldende beslutning om trekkets størrelse og hvem som er trekkpliktig.
 
 Opplysningene gjøres tilgjengelig for saksøker via elektronisk selvbetjeningstjeneste.
 
@@ -60,7 +76,13 @@ Har ingen av de aktuelle namsmenn etablert eller meldt krav inn i trekket, treff
 
 ## § 6. Deling av taushetsbelagte opplysninger med Innkrevingsmyndigheten
 
-Dersom Innkrevingsmyndigheten krever inn krav mot en skyldner, kan følgende opplysninger deles uten hinder av taushetsplikt:opplysninger om skyldnerens formuesgoder,opplysninger om skyldnerens lønnsinntekter og andre ytelser det kan besluttes utleggstrekk i,opplysninger som kan ha betydning ved en vurdering av hva skyldneren trenger til underhold av seg selv og sin husstand etter [dekningsloven §§ 2-5](lov/1984-06-08-59/§2-5) og [2-7](lov/1984-06-08-59/§2-7),opplysninger om skyldnerens faktiske adresser, ogopplysninger som kan bidra til å ivareta skyldnerens eller tjenestepersons sikkerhet.
+Dersom Innkrevingsmyndigheten krever inn krav mot en skyldner, kan følgende opplysninger deles uten hinder av taushetsplikt:
+
+1. opplysninger om skyldnerens formuesgoder,
+2. opplysninger om skyldnerens lønnsinntekter og andre ytelser det kan besluttes utleggstrekk i,
+3. opplysninger som kan ha betydning ved en vurdering av hva skyldneren trenger til underhold av seg selv og sin husstand etter [dekningsloven §§ 2-5](lov/1984-06-08-59/§2-5) og [2-7](lov/1984-06-08-59/§2-7),
+4. opplysninger om skyldnerens faktiske adresser, og
+5. opplysninger som kan bidra til å ivareta skyldnerens eller tjenestepersons sikkerhet.
 
 Opplysninger kan deles med Innkrevingsmyndigheten uten hinder av taushetsplikt for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
 

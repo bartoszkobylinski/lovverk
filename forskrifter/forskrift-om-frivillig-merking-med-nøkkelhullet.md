@@ -15,7 +15,7 @@ xml_hash: "032c15e8af823660a0007c0c74620b5c34582e6833512324d4c22015c08a6fe1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,17 @@ Denne forskriften gjelder frivillig merking og presentasjon av næringsmidler me
 
 ## § 2. Definisjoner
 
-I denne forskriften anvendes følgende definisjoner og begreper:*Fett, mettede fettsyrer, transfettsyrer, salt, sukkerarter, kostfiber, ferdigpakket næringsmiddel, næringsdeklarasjon, kjøtt* (jf. artikkel 2 nr. 1 bokstav f), *plantesteroler, plantesterolestere, plantestanoler og plantestanolestere* som definert i [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne](forskrift/2014-11-28-1497).*Fiskerivarer, bearbeidede fiskerivarer og levende muslinger* som definert i [forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse](forskrift/2008-12-22-1624).*Foredling og uforedlede produkter* som definert i [forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene](forskrift/2008-12-22-1623).*Fullkorn (sammalt mel):* hele kornet inkludert skallet, dvs. endosperm, kim og kli. Kornet kan være knust, malt eller lignende, men bestanddelene skal inngå i samme forhold som for den respektive kornsorten. Definisjonen omfatter følgende kornsorter: hvete, spelt, rug, havre, bygg, mais, ris, hirse, durra og andre Sorghum-arter.*Glutenfri* som definert i forordning [(EU) nr. 828/2014](eu/32014r0828) om krav til opplysninger til forbrukerne om fravær eller redusert forekomst av gluten i næringsmidler, jf. [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne § 1](forskrift/2014-11-28-1497/§1) annet ledd.*Matfett og matfettblandinger* som definert i Rådets forordning [(EU) nr. 1308/2013](eu/32013r1308) om en felles markedsordning for landbruksprodukter og om særlige bestemmelser for visse landbruksprodukter1, [artikkel 78](eu/32013r1308/a78) jf. vedlegg VII om smørbare fettstoffer og tilsvarende produkter.*Ny mat* som definert i [forskrift 25. juli 2017 nr. 1215 om ny mat § 1](forskrift/2017-07-25-1215/§1), jf. forordning [(EU) 2015/2283](eu/32015r2283) om ny mat.*Tilsatt smak:* tilsetning av aromaer og næringsmiddelingredienser med aromagivende egenskaper som definert i [forskrift 6. juni 2011 nr. 669 om aroma og næringsmiddelingredienser med aromagivende egenskaper til anvendelse i og på næringsmidler](forskrift/2011-06-06-669).*Tilsatte sukkerarter:* alle mono- og disakkarider som tilsettes under produksjon av næringsmidler. Sukkerarter som naturlig finnes i honning, siruper, fruktjuicer/fruktsafter og fruktkonsentrater omfattes også.
+I denne forskriften anvendes følgende definisjoner og begreper:
+
+1. *Fett, mettede fettsyrer, transfettsyrer, salt, sukkerarter, kostfiber, ferdigpakket næringsmiddel, næringsdeklarasjon, kjøtt* (jf. artikkel 2 nr. 1 bokstav f), *plantesteroler, plantesterolestere, plantestanoler og plantestanolestere* som definert i [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne](forskrift/2014-11-28-1497).
+2. *Fiskerivarer, bearbeidede fiskerivarer og levende muslinger* som definert i [forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse](forskrift/2008-12-22-1624).
+3. *Foredling og uforedlede produkter* som definert i [forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene](forskrift/2008-12-22-1623).
+4. *Fullkorn (sammalt mel):* hele kornet inkludert skallet, dvs. endosperm, kim og kli. Kornet kan være knust, malt eller lignende, men bestanddelene skal inngå i samme forhold som for den respektive kornsorten. Definisjonen omfatter følgende kornsorter: hvete, spelt, rug, havre, bygg, mais, ris, hirse, durra og andre Sorghum-arter.
+5. *Glutenfri* som definert i forordning [(EU) nr. 828/2014](eu/32014r0828) om krav til opplysninger til forbrukerne om fravær eller redusert forekomst av gluten i næringsmidler, jf. [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne § 1](forskrift/2014-11-28-1497/§1) annet ledd.
+6. *Matfett og matfettblandinger* som definert i Rådets forordning [(EU) nr. 1308/2013](eu/32013r1308) om en felles markedsordning for landbruksprodukter og om særlige bestemmelser for visse landbruksprodukter1, [artikkel 78](eu/32013r1308/a78) jf. vedlegg VII om smørbare fettstoffer og tilsvarende produkter.
+7. *Ny mat* som definert i [forskrift 25. juli 2017 nr. 1215 om ny mat § 1](forskrift/2017-07-25-1215/§1), jf. forordning [(EU) 2015/2283](eu/32015r2283) om ny mat.
+8. *Tilsatt smak:* tilsetning av aromaer og næringsmiddelingredienser med aromagivende egenskaper som definert i [forskrift 6. juni 2011 nr. 669 om aroma og næringsmiddelingredienser med aromagivende egenskaper til anvendelse i og på næringsmidler](forskrift/2011-06-06-669).
+9. *Tilsatte sukkerarter:* alle mono- og disakkarider som tilsettes under produksjon av næringsmidler. Sukkerarter som naturlig finnes i honning, siruper, fruktjuicer/fruktsafter og fruktkonsentrater omfattes også.
 
 1 Forordningen er ikke tatt inn i [EØS-avtalen](lov/1992-11-27-109/eøsl), men definisjonene gis anvendelse her.
 
@@ -44,23 +54,51 @@ Nøkkelhullets grafiske utforming skal være som angitt i vedlegg 1. Nøkkelhull
 
 Nøkkelhullet kan benyttes ved merking og presentasjon av næringsmidler, hvis de etter plassering i rett næringsmiddelgruppe, oppfyller samtlige vilkår for den aktuelle næringsmiddelgruppen angitt i vedlegg 2.
 
-Nøkkelhullet kan benyttes på:ferdigpakkede næringsmidler som omfattes av vedlegg 2 ogikke ferdigpakkede næringsmidler som omfattes av følgende næringsmiddelgrupper:grønnsaker m.m. som er uforedlede (næringsmiddelgruppe 1)frukt og bær (næringsmiddelgruppe 2)brød (næringsmiddelgruppe 8 a og 8 b)knekkebrød (næringsmiddelgruppe 9)oster, unntatt fersk ost (næringsmiddelgruppe 16)vegetabilske alternativer til oster (næringsmiddelgruppe 17)fiskerivarer (næringsmiddelgruppe 21)kjøtt (næringsmiddelgruppe 23).
+Nøkkelhullet kan benyttes på:
+
+1. ferdigpakkede næringsmidler som omfattes av vedlegg 2 og
+2. ikke ferdigpakkede næringsmidler som omfattes av følgende næringsmiddelgrupper:
+
+   1. grønnsaker m.m. som er uforedlede (næringsmiddelgruppe 1)
+   2. frukt og bær (næringsmiddelgruppe 2)
+   3. brød (næringsmiddelgruppe 8 a og 8 b)
+   4. knekkebrød (næringsmiddelgruppe 9)
+   5. oster, unntatt fersk ost (næringsmiddelgruppe 16)
+   6. vegetabilske alternativer til oster (næringsmiddelgruppe 17)
+   7. fiskerivarer (næringsmiddelgruppe 21)
+   8. kjøtt (næringsmiddelgruppe 23).
 
 > Endret ved forskrift [22 feb 2021 nr. 531](forskrift/2021-02-22-531) (i kraft 1 mars 2021).
 
 ## § 5. Produkter som ikke kan merkes med Nøkkelhullet
 
-Nøkkelhullet kan ikke benyttes på:næringsmidler som tilsettes følgende ingredienser:søtstoffer (tilsetningsstoffer)godkjente nye næringsmidler med søtende egenskaperplantesteroler, plantesterolestere, plantestanoler eller plantestanolesterespesielle næringsmidler til bruk for barn under 3 år.
+Nøkkelhullet kan ikke benyttes på:
+
+1. næringsmidler som tilsettes følgende ingredienser:
+
+   1. søtstoffer (tilsetningsstoffer)
+   2. godkjente nye næringsmidler med søtende egenskaper
+   3. plantesteroler, plantesterolestere, plantestanoler eller plantestanolestere
+2. spesielle næringsmidler til bruk for barn under 3 år.
 
 > Endret ved forskrift [22 feb 2021 nr. 531](forskrift/2021-02-22-531) (i kraft 1 mars 2021).
 
 ## § 6. Krav om opplysninger for ikke ferdigpakkede næringsmidler
 
-Benyttes Nøkkelhullet ved presentasjon av ikke ferdigpakkede næringsmidler omfattet av næringsmiddelgruppene under her, skal virksomheten på anmodning kunne opplyse om grunnlaget for bruken av Nøkkelhullet:brød (næringsmiddelgruppe 8 a og 8 b)knekkebrød (næringsmiddelgruppe 9)oster, unntatt fersk ost (næringsmiddelgruppe 16)vegetabilske alternativer til oster (næringsmiddelgruppe 17)kjøtt (næringsmiddelgruppe 23).
+Benyttes Nøkkelhullet ved presentasjon av ikke ferdigpakkede næringsmidler omfattet av næringsmiddelgruppene under her, skal virksomheten på anmodning kunne opplyse om grunnlaget for bruken av Nøkkelhullet:
+
+1. brød (næringsmiddelgruppe 8 a og 8 b)
+2. knekkebrød (næringsmiddelgruppe 9)
+3. oster, unntatt fersk ost (næringsmiddelgruppe 16)
+4. vegetabilske alternativer til oster (næringsmiddelgruppe 17)
+5. kjøtt (næringsmiddelgruppe 23).
 
 ## § 7. Generelle vilkår
 
-Som vilkår for merking av næringsmidler med Nøkkelhullet gjelder følgende:Olje eller annet fett som brukes ved fremstilling av nøkkelhullsmerkede næringsmidler, kan inneholde høyst 2 g industrielt fremstilte transfettsyrer per 100 g fett eller olje.Fett, sukkerarter eller salt kan bare tilsettes næringsmidler i de næringsmiddelgruppene hvor det i vedlegg 2 er fastsatt vilkår for fett, sukkerarter eller salt. Disse næringsstoffene kan likevel tilsettes næringsmidler i andre næringsmiddelgrupper dersom det ikke brukes større mengder enn det som er nødvendig for å oppnå den ønskede virkning.
+Som vilkår for merking av næringsmidler med Nøkkelhullet gjelder følgende:
+
+1. Olje eller annet fett som brukes ved fremstilling av nøkkelhullsmerkede næringsmidler, kan inneholde høyst 2 g industrielt fremstilte transfettsyrer per 100 g fett eller olje.
+2. Fett, sukkerarter eller salt kan bare tilsettes næringsmidler i de næringsmiddelgruppene hvor det i vedlegg 2 er fastsatt vilkår for fett, sukkerarter eller salt. Disse næringsstoffene kan likevel tilsettes næringsmidler i andre næringsmiddelgrupper dersom det ikke brukes større mengder enn det som er nødvendig for å oppnå den ønskede virkning.
 
 ## § 8. Tilsyn og vedtak
 

@@ -34,7 +34,10 @@ Sykepleietjenesten, herunder helsesøstertjeneste og hjemmesykepleie, er en del 
 
 ## § 3. Faglige krav/ansvar
 
-Kommunen tilsetter kvalifisert personell i de lovbestemte deltjenestene, herunder blant annetHelsesøstre for å dekke behovet for de spesielle sykepleiefunksjoner i forbindelse med helsefremmende og forebyggende arbeid.Sykepleiere og hjelpepleiere for å utføre andre funksjoner i kommunens sykepleietjeneste.
+Kommunen tilsetter kvalifisert personell i de lovbestemte deltjenestene, herunder blant annet
+
+- Helsesøstre for å dekke behovet for de spesielle sykepleiefunksjoner i forbindelse med helsefremmende og forebyggende arbeid.
+- Sykepleiere og hjelpepleiere for å utføre andre funksjoner i kommunens sykepleietjeneste.
 
 For å kunne tilsettes i helsesøsterstilling må vedkommende ha bestått eksamen fra godkjent helsesøster-utdanning.
 

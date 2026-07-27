@@ -15,7 +15,7 @@ xml_hash: "724cfb8af110f5a5cb260b8b326c94c1b15f0527def721f677edc9408e093fa7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,13 @@ Frekvenser i det elektromagnetiske frekvensspektret under 9 kHz og over 3000 GHz
 
 ### § 5. Forenklet lisensiering for punkt-til-punkt radiolinje
 
-(1) Frekvensbåndene 73,625–75,875 GHz/83,625–85,875 GHz kan tas i bruk i henhold til tabellene i denne paragrafen til punkt-til-punkt radiolinje for fastmontert utendørsinstallasjon. Både frekvensdelt bruk (FDD) og tidsdelt bruk (TDD) er tillatt. Det er ikke tillatt med FDD og TDD på samme lokasjon. Ved FDD bruk er det heller ikke tillatt å bruke både høy og lav senderfrekvens på samme lokasjon. Maksimal tillatt utstrålt effekt er 85 dBm e.i.r.p. Maksimal tillatt effekt tilført antenne er 30 dBm. Minimum antenneforsterkning er 38 dBi. Radioutstyr skal være i samsvar med standarden EN 302 217-2. Antenner skal være i samsvar med standarden EN 302 217-4. På grensen mellom Norge og naboland skal effekttettheten ikke overstige –122,5 dBW/m2 målt med en referansebåndbredde på 1 MHz.Følgende vilkår gjelder:Senderen kan ikke settes i drift før registrering er utført hos Nasjonal kommunikasjonsmyndighet. Registreringsskjema finnes på Nasjonal kommunikasjonsmyndighets hjemmeside. Registreringen av sambandet har en varighet på 5 år regnet fra utløpet av det kalenderår registreringen finner sted. Tillatelsen utløper uten ytterligere varsel fra Nasjonal kommunikasjonsmyndighet.Nye samband skal ikke forstyrre eksisterende samband i båndet som allerede er registrert hos Nasjonal kommunikasjonsmyndighet. Radioastronomi skal beskyttes mot interferens fra systemer i frekvensbåndet 76–86 GHz.Innehaver av sendetillatelse skal betale sektoravgift til Nasjonal kommunikasjonsmyndighet etter [forskrift 20. mars 2017 nr. 386](forskrift/2017-03-20-386) om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndigheit.
+(1) Frekvensbåndene 73,625–75,875 GHz/83,625–85,875 GHz kan tas i bruk i henhold til tabellene i denne paragrafen til punkt-til-punkt radiolinje for fastmontert utendørsinstallasjon. Både frekvensdelt bruk (FDD) og tidsdelt bruk (TDD) er tillatt. Det er ikke tillatt med FDD og TDD på samme lokasjon. Ved FDD bruk er det heller ikke tillatt å bruke både høy og lav senderfrekvens på samme lokasjon. Maksimal tillatt utstrålt effekt er 85 dBm e.i.r.p. Maksimal tillatt effekt tilført antenne er 30 dBm. Minimum antenneforsterkning er 38 dBi. Radioutstyr skal være i samsvar med standarden EN 302 217-2. Antenner skal være i samsvar med standarden EN 302 217-4. På grensen mellom Norge og naboland skal effekttettheten ikke overstige –122,5 dBW/m2 målt med en referansebåndbredde på 1 MHz.
+
+Følgende vilkår gjelder:
+
+1. Senderen kan ikke settes i drift før registrering er utført hos Nasjonal kommunikasjonsmyndighet. Registreringsskjema finnes på Nasjonal kommunikasjonsmyndighets hjemmeside. Registreringen av sambandet har en varighet på 5 år regnet fra utløpet av det kalenderår registreringen finner sted. Tillatelsen utløper uten ytterligere varsel fra Nasjonal kommunikasjonsmyndighet.
+2. Nye samband skal ikke forstyrre eksisterende samband i båndet som allerede er registrert hos Nasjonal kommunikasjonsmyndighet. Radioastronomi skal beskyttes mot interferens fra systemer i frekvensbåndet 76–86 GHz.
+3. Innehaver av sendetillatelse skal betale sektoravgift til Nasjonal kommunikasjonsmyndighet etter [forskrift 20. mars 2017 nr. 386](forskrift/2017-03-20-386) om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndigheit.
 
 (2) Senterfrekvensene i tabellen tillates brukt i samsvar med [§ 5](forskrift/2012-01-19-77/§5) første ledd.
 
@@ -301,7 +307,13 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 
 ### § 14. Trådløse mikrofoner
 
-(1) Følgende frekvensbånd tillates brukt til trådløse mikrofoner slik frekvensbruken er beskrevet i standardene EN 300 422-1, EN 300 422-2, og EN 300 422-3:41,0–43,6 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Amplitudemodulasjon tillates ikke.Ledige frekvenser i frekvensbåndet 494–694 MHz og 733–758 MHz1 tillates brukt. Ledige frekvenser vises gjennom internettjenesten2 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.823–826 MHz. Maksimal tillatt utstrålt effekt er 20 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz. For bruk som er begrenset til kroppsbåret mikrofon er maksimal tillatt utstrålt effekt 100 mW e.i.r.p.826–832 MHz. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz.863–865 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Frekvensbåndet tillates brukt som beskrevet i standarden EN 301 357.
+(1) Følgende frekvensbånd tillates brukt til trådløse mikrofoner slik frekvensbruken er beskrevet i standardene EN 300 422-1, EN 300 422-2, og EN 300 422-3:
+
+1. 41,0–43,6 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Amplitudemodulasjon tillates ikke.
+2. Ledige frekvenser i frekvensbåndet 494–694 MHz og 733–758 MHz1 tillates brukt. Ledige frekvenser vises gjennom internettjenesten2 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.
+3. 823–826 MHz. Maksimal tillatt utstrålt effekt er 20 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz. For bruk som er begrenset til kroppsbåret mikrofon er maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
+4. 826–832 MHz. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz.
+5. 863–865 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Frekvensbåndet tillates brukt som beskrevet i standarden EN 301 357.
 
 (2) Frekvensbåndet 1785–1805 MHz tillates brukt til håndholdt mikrofon som beskrevet i standardene EN 300 422-1, EN 300 422-2, EN 300 422-3, og i samsvar med tabellen.
 
@@ -325,7 +337,9 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
 
-1 Diskusjoner rundt fremtidig anvendelse av frekvensbåndet 733–758 MHz er pågående. Ved vedtatt bruk til IMT SDL vil båndet ikke lenger være regulert gjennom [fribruksforskriften](forskrift/2012-01-19-77).2 [www.finnsenderen.no](https://www.finnsenderen.no).
+1 Diskusjoner rundt fremtidig anvendelse av frekvensbåndet 733–758 MHz er pågående. Ved vedtatt bruk til IMT SDL vil båndet ikke lenger være regulert gjennom [fribruksforskriften](forskrift/2012-01-19-77).
+
+2 [www.finnsenderen.no](https://www.finnsenderen.no).
 
 ### § 15. Hjelpeutstyr for hørselshemmede
 
@@ -476,7 +490,11 @@ Frekvensbåndet 869,200–869,250 MHz tillates brukt til trygghetsalarm som besk
 
 ### § 25. Kortdistanseradar for kjøretøy
 
-(1) Følgende frekvensbånd tillates brukt som beskrevet i standarden EN 302 858 til radarsystemer i kjøretøy (SRR):24,050–24,075 GHz med maksimal tillatt utstrålt effekt 100 mW e.i.r.p.24,075–24,150 GHz med maksimal tillatt utstrålt effekt 0,1 mW e.i.r.p. Med spektrumsaksessteknikker og interferensreduserende tiltak som beskrevet i harmoniserte standarder, alternativt tilsvarende teknikker som gir minst samme virkning, tillates maksimal utstrålt effekt 100 mW e.i.r.p.24,150–24,250 GHz med maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
+(1) Følgende frekvensbånd tillates brukt som beskrevet i standarden EN 302 858 til radarsystemer i kjøretøy (SRR):
+
+1. 24,050–24,075 GHz med maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
+2. 24,075–24,150 GHz med maksimal tillatt utstrålt effekt 0,1 mW e.i.r.p. Med spektrumsaksessteknikker og interferensreduserende tiltak som beskrevet i harmoniserte standarder, alternativt tilsvarende teknikker som gir minst samme virkning, tillates maksimal utstrålt effekt 100 mW e.i.r.p.
+3. 24,150–24,250 GHz med maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
 
 (2) Frekvensbåndet 76–77 GHz tillates brukt til bakkebaserte kjøretøys- og infrastruktursystemer slik frekvensbruken er beskrevet i standardene EN 301 091-1, EN 301 091-2 og EN 301 091-3. Maksimal tillatt spisseffekt er 55 dBm e.i.r.p. Maksimal tillatt gjennomsnittseffekt er 50 dBm e.i.r.p. Maksimal tillatt gjennomsnittseffekt er 23,5 dBm e.i.r.p. for pulset radar. Det skal benyttes spektrumsaksessteknikker og interferensreduserende tiltak som beskrevet i harmoniserte standarder, alternativt kan tilsvarende teknikker som gir minst samme virkning benyttes. Fastmonterte radarer for transportinfrastruktur skal være av en type som skanner, for å begrense belysningstiden og sikre en minste stilletid for å oppnå sameksistens med radarsystemer for kjøretøy.
 
@@ -920,7 +938,11 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 (2) For basestasjon om bord på fartøyet gjelder en maksimal tillatt spektral effekttetthet målt utendørs med referanse til 0 dBi antenneforsterkning på –80 dBm/200 kHz. For mobilterminal som er kontrollert av fartøyets basestasjon gjelder en maksimal utstrålt effekt på 5 dBm i 900 MHz-båndet og 0 dBm i 1800 MHz-båndet.
 
-(3) Frekvensbruken skal være i samsvar med standardene EN 301 502 og EN 301 511, eller tilsvarende spesifikasjoner. Ved bruk av GSM-systemer gjelder således følgende:Mellom 2 og 3 nautiske mil fra grunnlinjen skal mottakerfølsomheten og terskelnivået for avbrytelse (verdien for ACCMIN og min. RXLEV) for mobilterminaler være lik eller høyere enn –70 dBm/200 kHz. Mellom 3 og 12 nautiske mil fra grunnlinjen skal denne verdien være lik eller høyere enn –75 dBm/200 kHz.DTX (diskontinuerlig transmisjon) skal være aktivert i mobilkommunikasjonssystemets opplinkretning.Basestasjonens verdi for tidsforskyvning (timing advance) skal være satt til lavest mulig.
+(3) Frekvensbruken skal være i samsvar med standardene EN 301 502 og EN 301 511, eller tilsvarende spesifikasjoner. Ved bruk av GSM-systemer gjelder således følgende:
+
+1. Mellom 2 og 3 nautiske mil fra grunnlinjen skal mottakerfølsomheten og terskelnivået for avbrytelse (verdien for ACCMIN og min. RXLEV) for mobilterminaler være lik eller høyere enn –70 dBm/200 kHz. Mellom 3 og 12 nautiske mil fra grunnlinjen skal denne verdien være lik eller høyere enn –75 dBm/200 kHz.
+2. DTX (diskontinuerlig transmisjon) skal være aktivert i mobilkommunikasjonssystemets opplinkretning.
+3. Basestasjonens verdi for tidsforskyvning (timing advance) skal være satt til lavest mulig.
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
 
@@ -932,7 +954,12 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 (3) Maksimalt tillatt effekt fra basestasjonene, målt utendørs på dekk, skal være –102 dBm/5 MHz (Common Pilot Channel).
 
-(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 301 908-11, eller tilsvarende spesifikasjoner. Ved bruk av UMTS-systemer gjelder således følgende:Mellom 2 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –87 dBm/5 MHz.Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.Verdi for tidsforskyvning skal settes i henhold til et celleområde på 600 meter for det distribuerte antennesystemet.Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
+(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 301 908-11, eller tilsvarende spesifikasjoner. Ved bruk av UMTS-systemer gjelder således følgende:
+
+1. Mellom 2 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –87 dBm/5 MHz.
+2. Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.
+3. Verdi for tidsforskyvning skal settes i henhold til et celleområde på 600 meter for det distribuerte antennesystemet.
+4. Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
 
 (5) Senterfrekvensen for kanalene skal ikke samsvare med senterfrekvensen for landbaserte mobile nettverk.
 
@@ -946,7 +973,12 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 (3) Maksimalt tillatt effekt fra basestasjonene, målt utendørs på dekk, skal være –120 dBm/15 kHz (–98 dBm/5 MHz).
 
-(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 301 908-11, eller tilsvarende standarder. Ved bruk av LTE-systemer gjelder således følgende:Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz (–83 dBm/5 MHz).Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
+(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 301 908-11, eller tilsvarende standarder. Ved bruk av LTE-systemer gjelder således følgende:
+
+1. Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz (–83 dBm/5 MHz).
+2. Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.
+3. Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.
+4. Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
 
 (5) Senterfrekvensen for kanalene skal ikke samsvare med senterfrekvensen for landbaserte mobile nettverk.
 
@@ -960,7 +992,12 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 (3) Maksimalt tillatt effekt fra basestasjonene, målt utendørs på dekk, skal være –120 dBm/15 kHz for SSB-kanalen (–98 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal konverteringsfaktoren 10\*log10(SSB BW/(15 kHz)) benyttes.
 
-(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. Ved bruk av 5G NR non-AAS systemer gjelder således følgende:Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz for SSB-kanalen (–83 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal det konverteringsfaktoren 10\*log10(SSB BW/(15 kHz)) brukes.Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
+(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. Ved bruk av 5G NR non-AAS systemer gjelder således følgende:
+
+1. Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz for SSB-kanalen (–83 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal det konverteringsfaktoren 10\*log10(SSB BW/(15 kHz)) brukes.
+2. Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.
+3. Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.
+4. Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
 
 (5) Senterfrekvensen for kanalene skal ikke samsvare med senterfrekvensen for landbaserte mobile nettverk.
 
@@ -987,7 +1024,13 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 | LTE 1800 (FDD) | 1710–1785 MHz (opplink)<br>1805–1880 MHz (nedlink) | LTE i samsvar med LTE standarder publisert av ETSI, i særdeleshet EN 301 908-1, EN 301 908-13, EN 301 908-14 og EN 301 908-15, eller tilsvarende standarder. |
 | 5G NR non-AAS | 1710–1785 MHz (opplink)<br>1805–1880 MHz (nedlink) | 5G NR non-AAS i samsvar med 5G NR standarder publisert av ETSI, i særdeleshet EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. |
 
-(2) Følgende operasjonelle krav skal oppfylles:Sending fra systemene er kun tillatt i høyder over 3000 meter over bakken.Luftfartøyets GSM basestasjon skal begrense uteffekten fra alle tilknyttede GSM mobilterminaler i 1800 MHz båndet til en nominell verdi av 0 dBm/200 kHz under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.Luftfartøyets LTE basestasjon skal begrense uteffekten fra alle tilknyttede LTE mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/5 MHz under alle faser av kommunikasjonen.Luftfartøyets UMTS basestasjon skal begrense uteffekten fra alle tilknyttede UMTS mobilterminaler i 2100 MHz båndet til en nominell verdi av –6 dBm/3,84 MHz under alle faser av kommunikasjonen. Maksimalt antall tilknyttede UMTS mobilterminaler skal ikke overstige 20.Luftfartøyets 5G NR basestasjon skal begrense uteffekten fra alle tilknyttede 5G NR mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/kanal under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.
+(2) Følgende operasjonelle krav skal oppfylles:
+
+1. Sending fra systemene er kun tillatt i høyder over 3000 meter over bakken.
+2. Luftfartøyets GSM basestasjon skal begrense uteffekten fra alle tilknyttede GSM mobilterminaler i 1800 MHz båndet til en nominell verdi av 0 dBm/200 kHz under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.
+3. Luftfartøyets LTE basestasjon skal begrense uteffekten fra alle tilknyttede LTE mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/5 MHz under alle faser av kommunikasjonen.
+4. Luftfartøyets UMTS basestasjon skal begrense uteffekten fra alle tilknyttede UMTS mobilterminaler i 2100 MHz båndet til en nominell verdi av –6 dBm/3,84 MHz under alle faser av kommunikasjonen. Maksimalt antall tilknyttede UMTS mobilterminaler skal ikke overstige 20.
+5. Luftfartøyets 5G NR basestasjon skal begrense uteffekten fra alle tilknyttede 5G NR mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/kanal under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.
 
 (3) Maksimal utstrålt effekt (e.i.r.p.) fra mobilterminalene målt utenfor luftfartøyet skal ikke overstige verdiene i tabellen nedenfor:
 
@@ -1005,7 +1048,10 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 | Note 3: For kanalbredder ulik 5 MHz skal konverteringsfaktoren 10\*log10(kanalbåndbredde/(5 MHz)) dB legges til e.i.r.p. |  |  |  |  |
 | Note 4: E.i.r.p. er spesifisert per kanal, uavhengig av den brukte kanalbåndbredden på grunn av det faktum at flere mobilterminaler kan operere samtidig. |  |  |  |  |
 
-(4) Frem til 1. januar 2026 skal mobilkommunikasjonsterminaler, ved mottak i båndene i tabellen nedenfor, hindres fra å registrere seg på bakkebaserte UMTS-nettverk. Dette gjøres ved bruk av en eller begge metoder:Inkludere en nettkontrollenhet (NCU) med formålet å høyne støygulvet inne i flykabinen i de definerte båndene.Ekstra skjerming av flykroppen for ytterligere å dempe signalene som stråler inn og ut av flykroppen.
+(4) Frem til 1. januar 2026 skal mobilkommunikasjonsterminaler, ved mottak i båndene i tabellen nedenfor, hindres fra å registrere seg på bakkebaserte UMTS-nettverk. Dette gjøres ved bruk av en eller begge metoder:
+
+1. Inkludere en nettkontrollenhet (NCU) med formålet å høyne støygulvet inne i flykabinen i de definerte båndene.
+2. Ekstra skjerming av flykroppen for ytterligere å dempe signalene som stråler inn og ut av flykroppen.
 
 | ***Frekvensbånd (MHz)*** | ***Bakkebaserte systemer i båndet*** |
 | --- | --- |

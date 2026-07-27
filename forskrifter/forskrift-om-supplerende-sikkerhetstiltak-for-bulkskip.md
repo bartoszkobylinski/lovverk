@@ -15,7 +15,7 @@ xml_hash: "3252caa6f5e5162b6d6b8cc32ca11a8eeb7c812e1c419d852a29f6e9f090507f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SO
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta skip som unntaksvis må foreta en enkelt internasjonal sjøreise fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta skip som unntaksvis må foreta en enkelt internasjonal sjøreise fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ## § 4. Ikrafttredelse
 
@@ -51,7 +54,26 @@ Supplerende sikkerhetstiltak for bulkskip
 
 ### Regel 1 Definisjoner
 
-I dette kapittel gjelder følgende definisjoner:*«Bulkskip»* betyr et skip som hovedsakelig er ment å frakte tørrlast i bulk, herunder skipstyper som malmskip og kombinasjonsskip.1 2*«Bulkskip med enkel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der:en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden, ellerett eller flere lasterom er avgrenset av en dobbel platehud med en bredde på under 760 mm på bulkskip bygget før 1. januar 2000 og under 1000 mm på bulkskip bygget 1. januar 2000 eller senere, men før 1. juli 2006, der avstanden skal måles vinkelrett på den utvendige platehuden.Slike skip omfatter kombinasjonsskip der en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden.*«Bulkskip med dobbel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der alle lasterom er avgrenset av en dobbel platehud, unntatt som definert i nr. 2.2.*«Dobbel platehud»* betyr en konfigurasjon der hver skipsside er konstruert av den utvendige platehuden og et langskipsskott som knytter sammen dobbeltbunnen og dekket. Muddervingtanker og topptanker kan, der slike er installert, være integrerte deler i den doble platehudskonfigurasjonen.*«Lengde»* på et bulkskip betyr lengde som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.*«Fast bulklast»* betyr alt materiale, med unntak av væske eller gass, som består av en kombinasjon av partikler, granulater eller større biter av materiale, generelt enhetlig i sammensetning, og som lastes direkte inn i lasterommene i et skip uten noen mellomliggende form for inneslutting/oppbevaring.*«Standardene for styrken på skott og dobbeltbunn i bulkskip»* betyr «the Standards for the evaluation of scantlings of the transverse watertight vertically corrugated bulkhead between the two foremost cargo holds and for the evaluation of allowable hold loading of the foremost cargo hold», vedtatt 27. november 1997 ved resolusjon 4 fra konferansen av kontraherende staters regjeringer til Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) eventuelle endringer foretatt av Organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Bulkskip bygget»* betyr bulkskip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.*«Et tilsvarende byggetrinn»* betyr det trinnet der:bygging som kan identifiseres med et bestemt skip, begynner, ogmontering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.*«Bredden (B)»* på et bulkskip betyr bredden som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.
+I dette kapittel gjelder følgende definisjoner:
+
+1. *«Bulkskip»* betyr et skip som hovedsakelig er ment å frakte tørrlast i bulk, herunder skipstyper som malmskip og kombinasjonsskip.1 2
+2. *«Bulkskip med enkel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der:
+
+   1. en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden, eller
+   2. ett eller flere lasterom er avgrenset av en dobbel platehud med en bredde på under 760 mm på bulkskip bygget før 1. januar 2000 og under 1000 mm på bulkskip bygget 1. januar 2000 eller senere, men før 1. juli 2006, der avstanden skal måles vinkelrett på den utvendige platehuden.
+
+   Slike skip omfatter kombinasjonsskip der en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden.
+3. *«Bulkskip med dobbel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der alle lasterom er avgrenset av en dobbel platehud, unntatt som definert i nr. 2.2.
+4. *«Dobbel platehud»* betyr en konfigurasjon der hver skipsside er konstruert av den utvendige platehuden og et langskipsskott som knytter sammen dobbeltbunnen og dekket. Muddervingtanker og topptanker kan, der slike er installert, være integrerte deler i den doble platehudskonfigurasjonen.
+5. *«Lengde»* på et bulkskip betyr lengde som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.
+6. *«Fast bulklast»* betyr alt materiale, med unntak av væske eller gass, som består av en kombinasjon av partikler, granulater eller større biter av materiale, generelt enhetlig i sammensetning, og som lastes direkte inn i lasterommene i et skip uten noen mellomliggende form for inneslutting/oppbevaring.
+7. *«Standardene for styrken på skott og dobbeltbunn i bulkskip»* betyr «the Standards for the evaluation of scantlings of the transverse watertight vertically corrugated bulkhead between the two foremost cargo holds and for the evaluation of allowable hold loading of the foremost cargo hold», vedtatt 27. november 1997 ved resolusjon 4 fra konferansen av kontraherende staters regjeringer til Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) eventuelle endringer foretatt av Organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+8. *«Bulkskip bygget»* betyr bulkskip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.
+9. *«Et tilsvarende byggetrinn»* betyr det trinnet der:
+
+   1. bygging som kan identifiseres med et bestemt skip, begynner, og
+   2. montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
+10. *«Bredden (B)»* på et bulkskip betyr bredden som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.
 
 1 Det vises til:
 
@@ -67,7 +89,11 @@ Bulkskip skal oppfylle kravene i dette kapittelet i tillegg til krav som kommer 
 
 ### Regel 3 Tidsplan for gjennomføring
 
-Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal oppfylle bestemmelsene i disse reglene etter følgende tidsplan, med henvisning til det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2:bulkskip som 1. juli 1999 er 20 år gamle eller mer, innen datoen for den første mellomliggende besiktelsen eller den første periodiske besiktelsen etter 1. juli 1999, avhengig av hva som kommer først,bulkskip som 1. juli 1999 er 15 år gamle eller mer, men under 20 år gamle, innen datoen for den første periodiske besiktelsen etter 1. juli 1999, men ikke senere enn 1. juli 2002, ogbulkskip som 1. juli 1999 er under 15 år gamle, innen datoen for den første periodiske besiktelsen etter den dagen skipet er blitt 15 år gammelt, men ikke senere enn den dagen skipet er blitt 17 år gammelt.
+Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal oppfylle bestemmelsene i disse reglene etter følgende tidsplan, med henvisning til det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2:
+
+1. bulkskip som 1. juli 1999 er 20 år gamle eller mer, innen datoen for den første mellomliggende besiktelsen eller den første periodiske besiktelsen etter 1. juli 1999, avhengig av hva som kommer først,
+2. bulkskip som 1. juli 1999 er 15 år gamle eller mer, men under 20 år gamle, innen datoen for den første periodiske besiktelsen etter 1. juli 1999, men ikke senere enn 1. juli 2002, og
+3. bulkskip som 1. juli 1999 er under 15 år gamle, innen datoen for den første periodiske besiktelsen etter den dagen skipet er blitt 15 år gammelt, men ikke senere enn den dagen skipet er blitt 17 år gammelt.
 
 ### Regel 4 Krav til skadestabilitet gjeldende for bulkskip
 
@@ -95,17 +121,40 @@ Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal 
 
 ### Regel 6 Konstruksjonskrav og andre krav til bulkskip
 
-1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, som frakter faste bulklaster med en densitet på 1780 kg/m3 eller mer, og som er bygget før 1. juli 1999, skal oppfylle følgende krav i samsvar med tidsplanen for gjennomføring som er gitt i regel 3:Det vanntette tverrskipsskottet mellom de to forreste lasterommene og dobbeltbunnen i det forreste lasterommet skal ha en styrke som er tilstrekkelig til å motstå vannfylling av det forreste lasterommet, idet det også tas hensyn til dynamiske virkninger knyttet til forekomsten av vann i lasterommet, i samsvar med Standardene for styrken på skott og dobbeltbunn i bulkskip. I denne regelen skal Standardene for styrken på skott og dobbeltbunn i bulkskip behandles som obligatoriske.Ved vurdering av behovet for og omfanget av forsterking av det vanntette tverrskipsskottet eller dobbeltbunnen for å tilfredsstille kravene i nr. 1.1, kan det tas hensyn til følgende begrensninger:begrensninger på fordelingen av den totale lastevekten mellom lasterommene, ogbegrensninger på største dødvekt.Bulkskip som benytter én av eller begge de to begrensningene i nr. 1.2.1 og 1.2.2 ovenfor i den hensikt å oppfylle kravene i nr. 1.1, skal alltid etterleve disse begrensningene når det fraktes faste bulklaster med en densitet på 1780 kg/m3 eller mer.
+1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, som frakter faste bulklaster med en densitet på 1780 kg/m3 eller mer, og som er bygget før 1. juli 1999, skal oppfylle følgende krav i samsvar med tidsplanen for gjennomføring som er gitt i regel 3:
 
-2 Bulkskip med lengde 150 meter eller mer bygget 1. juli 2006 eller senere skal for alle områder med dobbel platehudskonstruksjon oppfylle følgende krav:Hovedavstivningsstrukturer til den doble platehuden skal ikke plasseres inne i lasterommet.Med forbehold om bestemmelsene nedenfor, skal avstanden mellom den utvendige og den innvendige platehuden ved en hvilken som helst tverrskipsseksjon være minst 1000 mm målt vinkelrett på den utvendige platehuden. Den doble platehudskonstruksjonen skal være slik at den muliggjør tilgang for inspeksjon som fastsatt i regel II-1/3-6 og de tekniske bestemmelsene som henviser til den.Avstandene nedenfor trenger ikke å opprettholdes med hensyn til tverrbjelker, øvre og nedre fester for tverrgående spanteverk eller endefester for det langsgående spanteverket.Minstebredde for fri passasje gjennom rommet i den doble platehuden med hensyn til hindre som rør eller vertikale leidere, skal ikke være mindre 600 mm.Hvor den innvendige og/eller utvendige platehuden er lagt med tverrskipsrammer, skal minste avstand mellom de innvendige overflatene av rammeverket ikke være mindre enn 600 mm.Hvor den innvendige og utvendige platehuden er lagt med langskipsrammer, skal minste avstand mellom de innvendige overflatene av rammeverket ikke være mindre enn 800 mm. Utenfor den parallelle delen av lasteromlengden kan denne avstanden reduseres der det er nødvendig som følge av den konstruksjonsmessige konfigurasjonen, men skal under ingen omstendigheter være under 600 mm.Den minste avstanden nevnt ovenfor skal være den korteste avstanden målt mellom antatte linjer som forbinder de innvendige overflatene til rammene til den innvendige og utvendige platehuden.
+1. Det vanntette tverrskipsskottet mellom de to forreste lasterommene og dobbeltbunnen i det forreste lasterommet skal ha en styrke som er tilstrekkelig til å motstå vannfylling av det forreste lasterommet, idet det også tas hensyn til dynamiske virkninger knyttet til forekomsten av vann i lasterommet, i samsvar med Standardene for styrken på skott og dobbeltbunn i bulkskip. I denne regelen skal Standardene for styrken på skott og dobbeltbunn i bulkskip behandles som obligatoriske.
+2. Ved vurdering av behovet for og omfanget av forsterking av det vanntette tverrskipsskottet eller dobbeltbunnen for å tilfredsstille kravene i nr. 1.1, kan det tas hensyn til følgende begrensninger:
+
+   1. begrensninger på fordelingen av den totale lastevekten mellom lasterommene, og
+   2. begrensninger på største dødvekt.
+3. Bulkskip som benytter én av eller begge de to begrensningene i nr. 1.2.1 og 1.2.2 ovenfor i den hensikt å oppfylle kravene i nr. 1.1, skal alltid etterleve disse begrensningene når det fraktes faste bulklaster med en densitet på 1780 kg/m3 eller mer.
+
+2 Bulkskip med lengde 150 meter eller mer bygget 1. juli 2006 eller senere skal for alle områder med dobbel platehudskonstruksjon oppfylle følgende krav:
+
+1. Hovedavstivningsstrukturer til den doble platehuden skal ikke plasseres inne i lasterommet.
+2. Med forbehold om bestemmelsene nedenfor, skal avstanden mellom den utvendige og den innvendige platehuden ved en hvilken som helst tverrskipsseksjon være minst 1000 mm målt vinkelrett på den utvendige platehuden. Den doble platehudskonstruksjonen skal være slik at den muliggjør tilgang for inspeksjon som fastsatt i regel II-1/3-6 og de tekniske bestemmelsene som henviser til den.
+
+   1. Avstandene nedenfor trenger ikke å opprettholdes med hensyn til tverrbjelker, øvre og nedre fester for tverrgående spanteverk eller endefester for det langsgående spanteverket.
+   2. Minstebredde for fri passasje gjennom rommet i den doble platehuden med hensyn til hindre som rør eller vertikale leidere, skal ikke være mindre 600 mm.
+   3. Hvor den innvendige og/eller utvendige platehuden er lagt med tverrskipsrammer, skal minste avstand mellom de innvendige overflatene av rammeverket ikke være mindre enn 600 mm.
+   4. Hvor den innvendige og utvendige platehuden er lagt med langskipsrammer, skal minste avstand mellom de innvendige overflatene av rammeverket ikke være mindre enn 800 mm. Utenfor den parallelle delen av lasteromlengden kan denne avstanden reduseres der det er nødvendig som følge av den konstruksjonsmessige konfigurasjonen, men skal under ingen omstendigheter være under 600 mm.
+   5. Den minste avstanden nevnt ovenfor skal være den korteste avstanden målt mellom antatte linjer som forbinder de innvendige overflatene til rammene til den innvendige og utvendige platehuden.
 
 3 Rommene i den doble platehuden, med unntak av eventuelle toppvingtanker, skal ikke brukes til frakt av last.
 
-4 På bulkskip med lengde 150 meter eller mer, som frakter faste bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget 1. juli 2006 eller senere:skal konstruksjonen av lasterommene være av en slik art at all forventet last kan lastes og losses ved hjelp av standard laste-/losseutstyr og -prosedyrer uten at det oppstår skader som kan utgjøre en risiko for konstruksjonens sikkerhet,skal det sikres en effektiv forlengelse mellom den utvendige platehudskonstruksjonen og resten av skrogstrukturen, ogskal lasterommenes konstruksjon være av en slik art at en enkeltfeil ved én avstivende konstruksjonsdel ikke medfører umiddelbar svikt i andre konstruksjonselementer som potensielt kan føre til at alle de avstivede panelene bryter sammen.
+4 På bulkskip med lengde 150 meter eller mer, som frakter faste bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget 1. juli 2006 eller senere:
+
+1. skal konstruksjonen av lasterommene være av en slik art at all forventet last kan lastes og losses ved hjelp av standard laste-/losseutstyr og -prosedyrer uten at det oppstår skader som kan utgjøre en risiko for konstruksjonens sikkerhet,
+2. skal det sikres en effektiv forlengelse mellom den utvendige platehudskonstruksjonen og resten av skrogstrukturen, og
+3. skal lasterommenes konstruksjon være av en slik art at en enkeltfeil ved én avstivende konstruksjonsdel ikke medfører umiddelbar svikt i andre konstruksjonselementer som potensielt kan føre til at alle de avstivede panelene bryter sammen.
 
 ### Regel 7 Besiktelse og vedlikehold av bulkskip
 
-1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, bygget før 1. juli 1999 og som er 10 år gammelt eller eldre, skal ikke frakte faste bulklaster med en densitet på 1780 kg/m3 eller mer med mindre det har gjennomgått, med tilfredsstillende resultat, enten:en periodisk besiktelse i samsvar med det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2, elleren besiktelse av alle lasterommene i samme omfang som det som kreves for periodiske besiktelser i det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2.
+1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, bygget før 1. juli 1999 og som er 10 år gammelt eller eldre, skal ikke frakte faste bulklaster med en densitet på 1780 kg/m3 eller mer med mindre det har gjennomgått, med tilfredsstillende resultat, enten:
+
+1. en periodisk besiktelse i samsvar med det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2, eller
+2. en besiktelse av alle lasterommene i samme omfang som det som kreves for periodiske besiktelser i det utvidede inspeksjonsprogrammet som kreves i regel XI-1/2.
 
 2 Bulkskip skal oppfylle vedlikeholdskravene i regel II-1/3-1 og Standarder for eiers inspeksjon og vedlikehold av lukedeksler på bulkskip, vedtatt av organisasjonen ved resolusjon MSC.169(79), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
 
@@ -119,7 +168,11 @@ Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal 
 
 ### Regel 9 Krav til bulkskip som ikke kan oppfylle regel 4.3 på grunn av særskilte forhold ved lasterommenes utforming
 
-For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet for regel 4.3, og som er bygget med et antall vanntette tverrskipsskott som er utilstrekkelig til å tilfredsstille regelen, kan administrasjonen tillate at det lempes på anvendelsen av regel 4.3 og 6 på betingelse av at de oppfyller følgende krav:for det forreste lasterommet skal inspeksjonene som er fastsatt for den årlige besiktelsen i det utvidede inspeksjonsprogrammet som er påbudt etter regel XI-1/2, erstattes av inspeksjonene fastsatt deri for den mellomliggende besiktelsen av lasterom,det finnes nivåalarmer for lensebrønnen i alle lasterommene, eller eventuelt i rommene som utgjør lastens transportbane, som avgir en lydalarm og visuell alarm på kommandobroen, som godkjent av administrasjonen eller en organisasjon som er anerkjent av administrasjonen i samsvar med bestemmelsene i regel XI-1/1, ogdet finnes detaljert informasjon om spesifikke scenarier for vannfylling av lasterom. Denne informasjonen skal ledsages av detaljerte instruksjoner om evakueringsberedskap etter bestemmelsene i avsnitt 8 i Det internasjonale regelverket for sikkerhetsstyring for drift av skip og hindring av forurensning (ISM-koden), og skal danne grunnlag for mannskapets opplæring og øvelser.
+For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet for regel 4.3, og som er bygget med et antall vanntette tverrskipsskott som er utilstrekkelig til å tilfredsstille regelen, kan administrasjonen tillate at det lempes på anvendelsen av regel 4.3 og 6 på betingelse av at de oppfyller følgende krav:
+
+1. for det forreste lasterommet skal inspeksjonene som er fastsatt for den årlige besiktelsen i det utvidede inspeksjonsprogrammet som er påbudt etter regel XI-1/2, erstattes av inspeksjonene fastsatt deri for den mellomliggende besiktelsen av lasterom,
+2. det finnes nivåalarmer for lensebrønnen i alle lasterommene, eller eventuelt i rommene som utgjør lastens transportbane, som avgir en lydalarm og visuell alarm på kommandobroen, som godkjent av administrasjonen eller en organisasjon som er anerkjent av administrasjonen i samsvar med bestemmelsene i regel XI-1/1, og
+3. det finnes detaljert informasjon om spesifikke scenarier for vannfylling av lasterom. Denne informasjonen skal ledsages av detaljerte instruksjoner om evakueringsberedskap etter bestemmelsene i avsnitt 8 i Det internasjonale regelverket for sikkerhetsstyring for drift av skip og hindring av forurensning (ISM-koden), og skal danne grunnlag for mannskapets opplæring og øvelser.
 
 ### Regel 10 Erklæring om faste bulklasters densitet
 
@@ -147,7 +200,11 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 *(Denne regelen gjelder for bulkskip uavhengig av byggedato)*
 
-1 Bulkskip skal være utstyrt med detektorer for vannhøyde:i hvert lasterom, som avgir en lydalarm og en visuell alarm, én alarm når vannhøyden over den innerste bunnen i ethvert lasterom når en høyde på 0,5 m og en annen alarm ved en høyde som utgjør ikke mindre enn 15 % av lasterommets dybde, men ikke over 2 m. På bulkskip som regel 9 nr. 2 får anvendelse på, er det bare nødvendig å installere detektorer med sistnevnte alarm. Detektorene for vannhøyde skal installeres i lasterommenes akterdel. For lasterom som brukes til vannballast, kan det installeres en innretning som opphever alarmen. De visuelle alarmene skal skille klart mellom de to forskjellige vannhøydene som detekteres i hvert lasterom.i enhver ballasttank forut for kollisjonsskottet som krevet etter regel II-1/12, som avgir en lydalarm og en visuell alarm når væsken i tanken når en høyde som ikke overstiger 10 % av tankens kapasitet. En innretning som opphever alarmen når tanken er i bruk, kan installeres, ogi ethvert tørt eller tomt område unntatt avlukke for ankerkjetting, der en hvilken som helst derav strekker seg forut for det forreste lasterommet, som avgir en lydalarm og en visuell alarm ved en vannhøyde på 0,1 m over dekk. Det er ikke nødvendig å anbringe slike alarmer i lukkede rom med et volum som ikke overstiger 0,1 % av skipets maksimale volum for deplasement.
+1 Bulkskip skal være utstyrt med detektorer for vannhøyde:
+
+1. i hvert lasterom, som avgir en lydalarm og en visuell alarm, én alarm når vannhøyden over den innerste bunnen i ethvert lasterom når en høyde på 0,5 m og en annen alarm ved en høyde som utgjør ikke mindre enn 15 % av lasterommets dybde, men ikke over 2 m. På bulkskip som regel 9 nr. 2 får anvendelse på, er det bare nødvendig å installere detektorer med sistnevnte alarm. Detektorene for vannhøyde skal installeres i lasterommenes akterdel. For lasterom som brukes til vannballast, kan det installeres en innretning som opphever alarmen. De visuelle alarmene skal skille klart mellom de to forskjellige vannhøydene som detekteres i hvert lasterom.
+2. i enhver ballasttank forut for kollisjonsskottet som krevet etter regel II-1/12, som avgir en lydalarm og en visuell alarm når væsken i tanken når en høyde som ikke overstiger 10 % av tankens kapasitet. En innretning som opphever alarmen når tanken er i bruk, kan installeres, og
+3. i ethvert tørt eller tomt område unntatt avlukke for ankerkjetting, der en hvilken som helst derav strekker seg forut for det forreste lasterommet, som avgir en lydalarm og en visuell alarm ved en vannhøyde på 0,1 m over dekk. Det er ikke nødvendig å anbringe slike alarmer i lukkede rom med et volum som ikke overstiger 0,1 % av skipets maksimale volum for deplasement.
 
 2 Lydalarmene og de visuelle alarmene som er angitt i punkt 1, skal plasseres på broen.
 

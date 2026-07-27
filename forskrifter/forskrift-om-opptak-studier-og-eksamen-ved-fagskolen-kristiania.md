@@ -15,7 +15,7 @@ xml_hash: "89c881442ed3a2bb8db675f3253c6c09e28410159ae9bf300c19f1ea6949774e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,9 +112,18 @@ Vedtak om opptak er et enkeltvedtak og kan påklages til klagenemnda. Se [kapitt
 
 (1) Den som har akseptert tilbud om studieplass etter betingelser i studiekontrakten, har studierett i henhold til normert studietid for det aktuelle studieprogrammet en er tatt opp til.
 
-(2) Studieretten opphører når:studenten har overskredet fullføringsfristen. Fristen er 2 år etter at studiet normalt skulle vært avsluttet for studier med fast progresjon. For studier med fri progresjon er dette spesifisert i studieplanen; ellerFagskolen Kristiania innen fastsatt frist mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført; ellerstudenten har oppnådd grad eller avlagt slutteksamen, og Fagskolen Kristiania ikke har forlenget studieretten.
+(2) Studieretten opphører når:
 
-(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet en er tatt opp til når studenten:ikke oppfyller forpliktelsene som fremgår av studiekontrakten; ellerdersom studieprogresjonen ikke tilfredsstiller kravene jf. retningslinjer; ellerhar brukt opp sine forsøk til eksamen; ellerhar brutt bestemmelser i [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging.
+1. studenten har overskredet fullføringsfristen. Fristen er 2 år etter at studiet normalt skulle vært avsluttet for studier med fast progresjon. For studier med fri progresjon er dette spesifisert i studieplanen; eller
+2. Fagskolen Kristiania innen fastsatt frist mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført; eller
+3. studenten har oppnådd grad eller avlagt slutteksamen, og Fagskolen Kristiania ikke har forlenget studieretten.
+
+(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet en er tatt opp til når studenten:
+
+1. ikke oppfyller forpliktelsene som fremgår av studiekontrakten; eller
+2. dersom studieprogresjonen ikke tilfredsstiller kravene jf. retningslinjer; eller
+3. har brukt opp sine forsøk til eksamen; eller
+4. har brutt bestemmelser i [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging.
 
 (4) Studenter som ikke har opprettholdt sin studentstatus eller har mistet studieretten, må søke om nytt opptak med mindre det er gjort annen avtale med Fagskolen Kristiania.
 
@@ -160,7 +169,19 @@ Vedtak om opptak er et enkeltvedtak og kan påklages til klagenemnda. Se [kapitt
 
 ### § 3-6. Skikkethetsvurdering
 
-(1) Følgende utdanninger er underlagt skikkethetsvurdering:Arbeid med de yngste barna (0–3 år) i barnehagenArbeid med de yngste barna (0–6)Arbeid med språk, flerspråklighet og flerkulturell kompetanse i barnehagenArbeid med ungdomBarn med særskilte behovBærekraftig utvikling i barnehagenLek og læring med digitale verktøy i barnehagenMatomsorg og ernæringPositiv atferdsstøtte (PAS)Språklig og kulturelt mangfold i oppvekstsektorTraumeforståelse og kommunikasjon i yrkesutøvelsen.
+(1) Følgende utdanninger er underlagt skikkethetsvurdering:
+
+- Arbeid med de yngste barna (0–3 år) i barnehagen
+- Arbeid med de yngste barna (0–6)
+- Arbeid med språk, flerspråklighet og flerkulturell kompetanse i barnehagen
+- Arbeid med ungdom
+- Barn med særskilte behov
+- Bærekraftig utvikling i barnehagen
+- Lek og læring med digitale verktøy i barnehagen
+- Matomsorg og ernæring
+- Positiv atferdsstøtte (PAS)
+- Språklig og kulturelt mangfold i oppvekstsektor
+- Traumeforståelse og kommunikasjon i yrkesutøvelsen.
 
 (2) Den lokale klagenemnda fatter vedtak om at en student ikke er skikket, jf. [forskrift om høyere yrkesfaglig utdanning § 35](forskrift/2019-07-11-1005/§35) (3) og [§ 36](forskrift/2019-07-11-1005/§36).
 

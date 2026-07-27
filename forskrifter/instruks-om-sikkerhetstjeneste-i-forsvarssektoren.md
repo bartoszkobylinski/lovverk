@@ -15,7 +15,7 @@ xml_hash: "cabcf3d184b5ee69971022aa86333e13dcb21eeb84f6f5da7142ac494804870a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,17 @@ Behov etter første ledd skal innmeldes til nivået med myndighet til å fastset
 
 Med restriksjonsområder menes i denne instruksen områder fastsatt i eller i medhold av lov1.
 
-1 [Lov om forebyggende sikkerhetstjeneste](lov/1998-03-20-10).[Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88).[Forskrift om forbud for uvedkommende mot adgang til visse områder mv. på grunn av forsvarshensyn](forskrift/1914-11-06-3576).[Forskrift om fotografering mv fra luften og kontroll av luftfotografier og opptaksmateriale fra luftbårne sensorsystemer](forskrift/1997-01-06-3).[Forskrift om militære forbudsområder innen Sjøforsvaret](forskrift/2016-12-31-1914).[Forskrift om fremmede ikke-militære fartøyers anløp av og ferdsel i norsk territorialfarvann under fredsforhold](forskrift/1994-12-23-1130).
+1 [Lov om forebyggende sikkerhetstjeneste](lov/1998-03-20-10).
+
+[Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88).
+
+[Forskrift om forbud for uvedkommende mot adgang til visse områder mv. på grunn av forsvarshensyn](forskrift/1914-11-06-3576).
+
+[Forskrift om fotografering mv fra luften og kontroll av luftfotografier og opptaksmateriale fra luftbårne sensorsystemer](forskrift/1997-01-06-3).
+
+[Forskrift om militære forbudsområder innen Sjøforsvaret](forskrift/2016-12-31-1914).
+
+[Forskrift om fremmede ikke-militære fartøyers anløp av og ferdsel i norsk territorialfarvann under fredsforhold](forskrift/1994-12-23-1130).
 
 ## § 5. Sikkerhet ved anskaffelser
 

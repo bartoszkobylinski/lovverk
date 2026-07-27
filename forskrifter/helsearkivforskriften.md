@@ -15,7 +15,7 @@ xml_hash: "9965367430f7f62e32b3086da395bcf0e8092e0c904da1af28cb7d535216bf29"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Forskriften etablerer Helsearkivregisteret i Norsk helsearkiv. Registeret bestå
 
 ### § 2. Formål
 
-Formålet med Helsearkivregisteret er åmotta og sikre pasientarkiv fra spesialisthelsetjenesten oggjøre helseopplysninger i arkivet tilgjengelig for forskere og pårørende i samsvar med gjeldende bestemmelser om taushetsplikt.
+Formålet med Helsearkivregisteret er å
+
+1. motta og sikre pasientarkiv fra spesialisthelsetjenesten og
+2. gjøre helseopplysninger i arkivet tilgjengelig for forskere og pårørende i samsvar med gjeldende bestemmelser om taushetsplikt.
 
 ### § 3. Opplysninger i Helsearkivregisteret
 
@@ -38,7 +41,11 @@ Helsearkivregisteret inneholder opplysninger om avdøde pasienter som har mottat
 
 ### § 4. Grunnleggende bestandsopplysninger
 
-Norsk helsearkiv skal føre register over arkivbestand og tilvekst i Helsearkivregisteret. Følgende opplysninger om mottatt pasientarkivmateriale skal registreres:navnet på virksomheten som har gitt helsehjelpen, og eventuell avdeling, post eller tilsvarendeopplysninger om det avleverte arkivets omfang, inndeling i arkivstykker mv. oghenvisning til hvor arkivet er oppstilt eller lagret.
+Norsk helsearkiv skal føre register over arkivbestand og tilvekst i Helsearkivregisteret. Følgende opplysninger om mottatt pasientarkivmateriale skal registreres:
+
+1. navnet på virksomheten som har gitt helsehjelpen, og eventuell avdeling, post eller tilsvarende
+2. opplysninger om det avleverte arkivets omfang, inndeling i arkivstykker mv. og
+3. henvisning til hvor arkivet er oppstilt eller lagret.
 
 Bestandsopplysninger som registreres etter første ledd skal ikke inneholde opplysninger eller beskrivelser som kan identifisere enkeltpersoner. Opplysningene kan sammenstilles med andre depotinstitusjoners bestandsregistre, og publiseres åpent.
 
@@ -54,7 +61,21 @@ Opplysninger i Helsearkivregisteret skal oppbevares i ubegrenset tid, hvis ikke 
 
 ### § 7. Avlevering av fysisk pasientarkivmateriale fra navngitte virksomheter
 
-Virksomheter i spesialisthelsetjenesten som er ansvarlig for det aktuelle pasientarkivet skal avlevere alt fysisk pasientarkivmateriale fra tidligere, og nåværendeOdda sjukehusRadiumhospitaletKirkenes sykehusAker sykehusStavanger universitetssykehusSentralsykehuset i TelemarkUniversitetssykehuset Nord-NorgeBrøset sykehus, inkludert tidligere Reitgjerdet og KriminalasyletValen sjukehusDe tidligere statsasylene (Gaustad, Rotvoll, Eg, Rønvik)De psykiatriske avdelingene ved Ullevål sykehusSikkerhetsavdelingen ved Dikemark sykehusSikkerhetsavdelingen ved Sandviken sykehus.
+Virksomheter i spesialisthelsetjenesten som er ansvarlig for det aktuelle pasientarkivet skal avlevere alt fysisk pasientarkivmateriale fra tidligere, og nåværende
+
+1. Odda sjukehus
+2. Radiumhospitalet
+3. Kirkenes sykehus
+4. Aker sykehus
+5. Stavanger universitetssykehus
+6. Sentralsykehuset i Telemark
+7. Universitetssykehuset Nord-Norge
+8. Brøset sykehus, inkludert tidligere Reitgjerdet og Kriminalasylet
+9. Valen sjukehus
+10. De tidligere statsasylene (Gaustad, Rotvoll, Eg, Rønvik)
+11. De psykiatriske avdelingene ved Ullevål sykehus
+12. Sikkerhetsavdelingen ved Dikemark sykehus
+13. Sikkerhetsavdelingen ved Sandviken sykehus.
 
 ### § 8. Avlevering av fysisk pasientarkivmateriale fra virksomheter som yter eller har ytet nasjonale eller flerregionale behandlingstjenester
 
@@ -66,7 +87,11 @@ Alle virksomheter i spesialisthelsetjenesten skal avlevere alle fysiske pasientj
 
 ### § 10. Avlevering av øvrig fysisk pasientarkivmateriale
 
-Alle virksomheter i spesialisthelsetjenesten skal fra fysisk pasientarkiv avlevere:legejournaler og epikriser,korrespondanse som er lett tilgjengelig innenfor den enkelte journal ogdokumentasjon av vedtak om bruk av tvang.
+Alle virksomheter i spesialisthelsetjenesten skal fra fysisk pasientarkiv avlevere:
+
+1. legejournaler og epikriser,
+2. korrespondanse som er lett tilgjengelig innenfor den enkelte journal og
+3. dokumentasjon av vedtak om bruk av tvang.
 
 Arkivskaper og Norsk helsearkiv kan inngå avtale om at også øvrige deler av pasientarkivmaterialet skal avleveres, dersom dette har lite omfang eller vil være uforholdsmessig krevende å fjerne fra det materialet som skal avleveres.
 
@@ -104,7 +129,12 @@ Riksarkivaren kan beslutte at arkivmateriale skal avleveres ut over det som føl
 
 Virksomheter i spesialisthelsetjenesten skal utarbeide bevarings- og kassasjonsplaner. Den enkelte bevarings- og kassasjonsplan kan omfatte hele eller deler av virksomheten. Planene skal holdes løpende oppdatert.
 
-Bevarings- og kassasjonsplanen skal angi:navn på arkivskaper, og eventuelle tidligere navn på arkivskaper dersom et arkiv er videreført fra en tidligere virksomhet,om arkivet eller deler av arkivet er digitalt, papirbasert, filmbasert eller lagret på andre fysiske medier,primært ordningsprinsipp, og hvordan pasienter, saker eller episoder mv. identifiseres og gjenfinnes ogtidspunkt for når virksomheten antar at hvert arkiv eller hver del av arkiv kan være klart for avlevering eller kassasjon, jf. [§ 17](forskrift/2016-03-18-268/§17) til [§ 19](forskrift/2016-03-18-268/§19).
+Bevarings- og kassasjonsplanen skal angi:
+
+1. navn på arkivskaper, og eventuelle tidligere navn på arkivskaper dersom et arkiv er videreført fra en tidligere virksomhet,
+2. om arkivet eller deler av arkivet er digitalt, papirbasert, filmbasert eller lagret på andre fysiske medier,
+3. primært ordningsprinsipp, og hvordan pasienter, saker eller episoder mv. identifiseres og gjenfinnes og
+4. tidspunkt for når virksomheten antar at hvert arkiv eller hver del av arkiv kan være klart for avlevering eller kassasjon, jf. [§ 17](forskrift/2016-03-18-268/§17) til [§ 19](forskrift/2016-03-18-268/§19).
 
 Tidspunkter angitt i bevarings- og kassasjonsplanen skal brukes til planleggingsformål. Bindende avleveringstidspunkter skal fremgå av avleveringsavtaler etter [§ 22](forskrift/2016-03-18-268/§22).
 
@@ -124,7 +154,11 @@ Dersom virksomhetens fysiske pasientjournalarkiver er ordnet slik at journalene 
 
 ### § 19. Inaktive pasientjournaler der pasientens dødsår ikke er kjent
 
-Dersom det er uforholdsmessig krevende å skaffe informasjon om året en pasient døde, kan virksomheten skille ut inaktive pasientjournaler for avlevering eller kassasjon når:pasienten er født for minst 110 år siden, og det ikke er ført noe inn i journalen i løpet av de siste 10 årene,pasientens fødselsår er ukjent, og det er ikke ført noe inn i journalen i løpet av de siste 60 årene ellersærlige forhold tilsier svært høy sannsynlighet for at pasienten har vært død i minst 10 år.
+Dersom det er uforholdsmessig krevende å skaffe informasjon om året en pasient døde, kan virksomheten skille ut inaktive pasientjournaler for avlevering eller kassasjon når:
+
+1. pasienten er født for minst 110 år siden, og det ikke er ført noe inn i journalen i løpet av de siste 10 årene,
+2. pasientens fødselsår er ukjent, og det er ikke ført noe inn i journalen i løpet av de siste 60 årene eller
+3. særlige forhold tilsier svært høy sannsynlighet for at pasienten har vært død i minst 10 år.
 
 ### § 20. Arkivbegrensning
 
@@ -150,9 +184,19 @@ Virksomheter som skal avlevere pasientarkivmateriale, skal inngå avtale med Nor
 
 Avleverende virksomhet skal utarbeide en avleveringsliste, som er en fullstendig fortegnelse over det fysiske arkivmaterialet som avleveringen omfatter. Avleveringslisten skal leveres i digital form og inneholde oversikt over hva som avleveres og hvordan dette er ordnet.
 
-Avleveringslisten skal inneholde følgende opplysningstyper om hver enkelt pasientjournal:pasientidentifiserende opplysninger; fødselsnummer eller annet entydig identifikasjonsnummer, navn, fødselsdato, eventuelle virksomhetsinterne pasientnummer eller hjelpenummer mv.,diagnoser som fremgår av journalens omslag eller av en diagnoseoversikt,dødsår, dersom dette fremgår av journalen ogførste og siste året for innleggelse eller konsultasjon.
+Avleveringslisten skal inneholde følgende opplysningstyper om hver enkelt pasientjournal:
 
-Avleveringslisten skal inneholde følgende supplerende opplysninger om hver enkelt pasientjournal, dersom de kan hentes fra virksomhetens pasientadministrative systemer eller annen elektronisk registratur:type helsehjelp eller prosedyre,alle innleggelsesperioder eller konsultasjonsdatoer,adresse eller bostedskommune ved hver innleggelse eller konsultasjon, oghenvisninger mellom pasientarkiv og relevante administrative saker i sakarkiv.
+1. pasientidentifiserende opplysninger; fødselsnummer eller annet entydig identifikasjonsnummer, navn, fødselsdato, eventuelle virksomhetsinterne pasientnummer eller hjelpenummer mv.,
+2. diagnoser som fremgår av journalens omslag eller av en diagnoseoversikt,
+3. dødsår, dersom dette fremgår av journalen og
+4. første og siste året for innleggelse eller konsultasjon.
+
+Avleveringslisten skal inneholde følgende supplerende opplysninger om hver enkelt pasientjournal, dersom de kan hentes fra virksomhetens pasientadministrative systemer eller annen elektronisk registratur:
+
+1. type helsehjelp eller prosedyre,
+2. alle innleggelsesperioder eller konsultasjonsdatoer,
+3. adresse eller bostedskommune ved hver innleggelse eller konsultasjon, og
+4. henvisninger mellom pasientarkiv og relevante administrative saker i sakarkiv.
 
 ### § 24. Digital avlevering
 
@@ -220,7 +264,12 @@ Norsk helsearkiv skal forvisse seg om at utlevering eller tilgjengeliggjøring p
 
 ### § 33. Oversikt over tilgjengeliggjøring
 
-Norsk helsearkiv skal føre oversikt over tilgjengeliggjøring fra Helsearkivregisteret. Oversikten skal omfatte opplysninger om:hvem som har fått opplysningenehva som er det rettslige grunnlaget for mottakerens bruk av opplysningeneutvalgskriteriene eller referanser til det arkivmateriale de tilgjengeliggjorte opplysningene er hentet fraeventuelle vilkår fastsatt etter [helseregisterloven § 19a](lov/2014-06-20-43/§19a) fjerde ledd.
+Norsk helsearkiv skal føre oversikt over tilgjengeliggjøring fra Helsearkivregisteret. Oversikten skal omfatte opplysninger om:
+
+1. hvem som har fått opplysningene
+2. hva som er det rettslige grunnlaget for mottakerens bruk av opplysningene
+3. utvalgskriteriene eller referanser til det arkivmateriale de tilgjengeliggjorte opplysningene er hentet fra
+4. eventuelle vilkår fastsatt etter [helseregisterloven § 19a](lov/2014-06-20-43/§19a) fjerde ledd.
 
 > Endret ved [forskrifter 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [23 april 2021 nr. 1269](forskrift/2021-04-23-1269) som endret ved forskrift [12 mai 2021 nr. 1902](forskrift/2021-05-12-1902) (i kraft 1 juni 2021).
 

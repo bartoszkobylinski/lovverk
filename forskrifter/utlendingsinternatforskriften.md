@@ -50,7 +50,14 @@ Ved alle beslutninger og handlinger som berører barn som oppholder seg på inte
 
 ### § 4. Utlendingens rettigheter
 
-Utlendingen har rett tilfellesskap med utlendinger på samme avdeling,å motta besøk,telefonsamtaler og motta og sende postsendinger,minst en time opphold i friluft hver dag, og skal tilbys et rimelig antall aktiviteter innendørs og utendørs,religions- og livssynsutøvelse,å besitte og benytte egne penger og gjenstander i den utstrekning politiet samtykker.
+Utlendingen har rett til
+
+1. fellesskap med utlendinger på samme avdeling,
+2. å motta besøk,
+3. telefonsamtaler og motta og sende postsendinger,
+4. minst en time opphold i friluft hver dag, og skal tilbys et rimelig antall aktiviteter innendørs og utendørs,
+5. religions- og livssynsutøvelse,
+6. å besitte og benytte egne penger og gjenstander i den utstrekning politiet samtykker.
 
 Det er ikke tillatt for utlending å ha symboler eller effekter som er egnet til å skape frykt hos andre utlendinger eller som virker støtende i forhold til den enkelte eller som på annen måte er uheldig for miljøet i internatet.
 
@@ -86,7 +93,13 @@ Når det er nødvendig for å opprettholde ro, orden eller sikkerhet, eller for 
 
 ### § 8. Undersøkelser, kontroll og visitasjon
 
-Når det er nødvendig for å opprettholde ro, orden eller sikkerhet, eller det er grunn til å tro at vedkommende skjuler eller tilbakeholder opplysninger om sin eller en annens identitet eller opplysninger om sitt eller en annens nåværende eller tidligere oppholdssted, eller for å sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), kan politietundersøke utlendingens person, rom og eiendeler, samt øvrige gjenstander, rom og areal på internatets område,begrense utlendingens besøk, herunder fastsette besøkstider,visitere besøkende,kontrollere og begrense utlendingens telefonsamtaler og postsendinger, herunder fastsette tidspunkt for bruk av telefon,midlertidig frata og forvare utlendingens eller en besøkendes penger og gjenstander.
+Når det er nødvendig for å opprettholde ro, orden eller sikkerhet, eller det er grunn til å tro at vedkommende skjuler eller tilbakeholder opplysninger om sin eller en annens identitet eller opplysninger om sitt eller en annens nåværende eller tidligere oppholdssted, eller for å sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), kan politiet
+
+1. undersøke utlendingens person, rom og eiendeler, samt øvrige gjenstander, rom og areal på internatets område,
+2. begrense utlendingens besøk, herunder fastsette besøkstider,
+3. visitere besøkende,
+4. kontrollere og begrense utlendingens telefonsamtaler og postsendinger, herunder fastsette tidspunkt for bruk av telefon,
+5. midlertidig frata og forvare utlendingens eller en besøkendes penger og gjenstander.
 
 Undersøkelser skal foretas så skånsomt som forholdene tillater og, når hensynet til ærbarhet tilsier det, utføres av person av samme kjønn. Undersøkelser av barn og deres eiendeler, skal skje på en særlig skånsom måte.
 
@@ -98,13 +111,26 @@ Det skal føres oversikt over penger og gjenstander som er fratatt eller oppbeva
 
 ### § 9. Maktbruk
 
-Når det er strengt nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), kan politiet ta i bruk makt og maktmidler som nevnt i [utlendingsloven § 107](lov/2008-05-15-35/§107) femte ledd bokstav a. Dette innebærer at politiet kan ta i bruk makt og maktmidler når det er strengt nødvendig, blant annet for åavverge angrep eller skade på person,hindre iverksettelse av trusler,hindre opptøyer eller uroligheter,hindre rømning fra internatet,avverge inntrengning i internatet,sikre adgang til sperret eller forskanset rom.
+Når det er strengt nødvendig for å opprettholde ro, orden eller sikkerhet, eller sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), kan politiet ta i bruk makt og maktmidler som nevnt i [utlendingsloven § 107](lov/2008-05-15-35/§107) femte ledd bokstav a. Dette innebærer at politiet kan ta i bruk makt og maktmidler når det er strengt nødvendig, blant annet for å
+
+1. avverge angrep eller skade på person,
+2. hindre iverksettelse av trusler,
+3. hindre opptøyer eller uroligheter,
+4. hindre rømning fra internatet,
+5. avverge inntrengning i internatet,
+6. sikre adgang til sperret eller forskanset rom.
 
 Makt og maktmidler skal brukes med varsomhet slik at ingen blir påført unødig skade eller lidelse, jf. [§ 6](forskrift/2009-12-23-1890/§6).
 
 ### § 10. Utelukkelse fra fellesskap, plassering i særlig sikret avdeling og sikkerhetscelle
 
-Utlending kan utelukkes fra fellesskap eller plasseres i særlig sikret avdeling eller i sikkerhetscelle når det er strengt nødvendig av hensyn til ro, orden eller sikkerhet, eller for å sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), nårutlendingen kan innebære fare for sin egen eller andres sikkerhet,det er fare for rømning fra internatet,det er fare for skade på eiendom,utlendingen antas å være smittefarlig eller er diagnostisert med smittsom sykdom,utlendingen etter skriftlig erklæring selv ønsker det av sikkerhetsmessige grunner som anses fyldestgjørende.
+Utlending kan utelukkes fra fellesskap eller plasseres i særlig sikret avdeling eller i sikkerhetscelle når det er strengt nødvendig av hensyn til ro, orden eller sikkerhet, eller for å sikre iverksetting etter [utlendingsloven § 90](lov/2008-05-15-35/§90), når
+
+1. utlendingen kan innebære fare for sin egen eller andres sikkerhet,
+2. det er fare for rømning fra internatet,
+3. det er fare for skade på eiendom,
+4. utlendingen antas å være smittefarlig eller er diagnostisert med smittsom sykdom,
+5. utlendingen etter skriftlig erklæring selv ønsker det av sikkerhetsmessige grunner som anses fyldestgjørende.
 
 Utelukkelse fra fellesskap kan også besluttes for å hindre at utlendingen påvirker miljøet på internatet på en særlig negativ måte.
 
@@ -162,7 +188,12 @@ Sjefen for Politiets utlendingsenhet skal sørge for at det foretas tilsyn med u
 
 Politidirektoratet skal føre tilsyn med internatet. Herunder kan det gjennomføres inspeksjon (tilsynsbesøk) etter behov.
 
-Tilsynet fra sjefen for Politiets utlendingsenhet og Politidirektoratet skal påse at internatet er i samsvar med gjeldende lover, forskrifter, retningslinjer og lokale instrukser. Tilsynet skal blant annet påse atinternatets lokaler, utstyr mv. er i samsvar med gjeldende krav,det utføres inspeksjoner av internatet i henhold til gjeldende regelverk og instrukser, herunder journalføring, rapportering mv.,eventuell bruk av tvangsmidler skjer i henhold til regelverket,internatet har tilfredsstillende ordning for helsetjeneste, herunder omfang, metode, journalføring mv.
+Tilsynet fra sjefen for Politiets utlendingsenhet og Politidirektoratet skal påse at internatet er i samsvar med gjeldende lover, forskrifter, retningslinjer og lokale instrukser. Tilsynet skal blant annet påse at
+
+1. internatets lokaler, utstyr mv. er i samsvar med gjeldende krav,
+2. det utføres inspeksjoner av internatet i henhold til gjeldende regelverk og instrukser, herunder journalføring, rapportering mv.,
+3. eventuell bruk av tvangsmidler skjer i henhold til regelverket,
+4. internatet har tilfredsstillende ordning for helsetjeneste, herunder omfang, metode, journalføring mv.
 
 ### § 17. Opphevet
 
@@ -172,7 +203,13 @@ Tilsynet fra sjefen for Politiets utlendingsenhet og Politidirektoratet skal på
 
 ### § 18. Reportasjer og intervju
 
-Politiet kan gi tillatelse til reportasje fra internatet. Det kan settes vilkår for tillatelsen for å sikre ro, orden eller sikkerhet i internatet. Utlendingen har rett til å la seg intervjue og fotografere. Politiet skal legge forholdene til rette for en praktisk gjennomføring av denne retten. Politiet kan bestemme tid og sted for intervjuet av hensyn til ro, orden eller sikkerhet i internatet. I forbindelse med reportasje fra internat kan det fastsettes vilkår omat det ikke uten samtykke fra vedkommende utlending offentliggjøres opplysninger om denne i tekst eller bilde,at det ikke tas fotografi av tilsatt uten at det klart fremgår av billedteksten at vedkommende tjenestegjør i internatet. Tilsatte i internatet kan nekte å bli fotografert og få sitt navn offentliggjort,at politiet skal følge reporteren rundt på internatområdet under reporterens opphold,at reporteren ikke henvender seg til utlending uten at vedkommende har gitt uttrykkelig tillatelse,at tillatelsen begrenses til bestemte områder eller lokaler i internatet.
+Politiet kan gi tillatelse til reportasje fra internatet. Det kan settes vilkår for tillatelsen for å sikre ro, orden eller sikkerhet i internatet. Utlendingen har rett til å la seg intervjue og fotografere. Politiet skal legge forholdene til rette for en praktisk gjennomføring av denne retten. Politiet kan bestemme tid og sted for intervjuet av hensyn til ro, orden eller sikkerhet i internatet. I forbindelse med reportasje fra internat kan det fastsettes vilkår om
+
+1. at det ikke uten samtykke fra vedkommende utlending offentliggjøres opplysninger om denne i tekst eller bilde,
+2. at det ikke tas fotografi av tilsatt uten at det klart fremgår av billedteksten at vedkommende tjenestegjør i internatet. Tilsatte i internatet kan nekte å bli fotografert og få sitt navn offentliggjort,
+3. at politiet skal følge reporteren rundt på internatområdet under reporterens opphold,
+4. at reporteren ikke henvender seg til utlending uten at vedkommende har gitt uttrykkelig tillatelse,
+5. at tillatelsen begrenses til bestemte områder eller lokaler i internatet.
 
 Andre vilkår kan fastsettes for å sikre ro, orden og sikkerhet i internatet.
 
@@ -184,7 +221,17 @@ Organisasjoner og organer skal ha mulighet for å besøke utlendingsinternatet.
 
 ### § 19. Instrukser
 
-Politiet skal utarbeide nærmere instrukser for gjennomføring av denne forskriften, særlig vedrørendebeslutningsmyndighet etter denne forskrift,krav til tilsatte,organisering og enhetsinndeling av internatet, herunder særlig sikret avdeling og sikkerhetsceller,utrustning av fellesrom og utlendingenes beboelsesrom,utforming av sikkerhetsceller samt installering og bruk av registrerings-, overvåkings- og sikkerhetsutstyr,register,mat og drikke,renhold og hygiene,innhold, føring og kontroll av journal.
+Politiet skal utarbeide nærmere instrukser for gjennomføring av denne forskriften, særlig vedrørende
+
+1. beslutningsmyndighet etter denne forskrift,
+2. krav til tilsatte,
+3. organisering og enhetsinndeling av internatet, herunder særlig sikret avdeling og sikkerhetsceller,
+4. utrustning av fellesrom og utlendingenes beboelsesrom,
+5. utforming av sikkerhetsceller samt installering og bruk av registrerings-, overvåkings- og sikkerhetsutstyr,
+6. register,
+7. mat og drikke,
+8. renhold og hygiene,
+9. innhold, føring og kontroll av journal.
 
 ### § 20. Ikrafttredelse
 

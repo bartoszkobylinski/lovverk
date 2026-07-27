@@ -64,7 +64,17 @@ Forsikringsforetakenes samlede ansvar for naturskadeerstatninger ved en enkelt n
 
 ### § 8. Poolens formål og oppgaver
 
-Norsk naturskadepool skalfastsette den årlige premieraten for naturskadedekningenforvalte poolens naturskadekapitalivareta gjenforsikringsdekningen i naturskadeforsikringsordningensørge for skaderapportering overfor medlemmene i poolenutligne naturskadeerstatninger mellom medlemmene i poolenføre kontroll med utvalgte skader som medlemmene har meldt innfungere som et kontaktledd mellom medlemmene i poolenholde løpende kontakt med Landbruksdirektoratetbistå med kunnskap og informasjon i arbeidet med å unngå eller begrense naturskader.
+Norsk naturskadepool skal
+
+1. fastsette den årlige premieraten for naturskadedekningen
+2. forvalte poolens naturskadekapital
+3. ivareta gjenforsikringsdekningen i naturskadeforsikringsordningen
+4. sørge for skaderapportering overfor medlemmene i poolen
+5. utligne naturskadeerstatninger mellom medlemmene i poolen
+6. føre kontroll med utvalgte skader som medlemmene har meldt inn
+7. fungere som et kontaktledd mellom medlemmene i poolen
+8. holde løpende kontakt med Landbruksdirektoratet
+9. bistå med kunnskap og informasjon i arbeidet med å unngå eller begrense naturskader.
 
 Poolens medlemmer har ikke eiendomsrett til poolens naturskadekapital. Det kan ikke åpnes konkurs- eller akkordforhandlinger i poolen.
 
@@ -78,7 +88,11 @@ Er ting i Norge forsikret mot brannskade i et foretak som ikke er medlem i poole
 
 ### § 10. Årsmøtet
 
-Årsmøtet er poolens øverste myndighet. Årsmøtet kan likevel ikke instruere styret eller overprøve styrets beslutning i saker ompremieratergjenforsikringsprinsipper og gjenforsikringsprogrammerforvaltning av poolens naturskadekapital.
+Årsmøtet er poolens øverste myndighet. Årsmøtet kan likevel ikke instruere styret eller overprøve styrets beslutning i saker om
+
+1. premierater
+2. gjenforsikringsprinsipper og gjenforsikringsprogrammer
+3. forvaltning av poolens naturskadekapital.
 
 I årsmøtet har hvert medlem en stemmeandel som tilsvarer vedkommende medlems andel av medlemmenes samlede brannforsikringssummer per 1. juli året før.
 
@@ -92,13 +106,24 @@ Det skal føres protokoll for årsmøtet. Protokollen skal angi tid og sted for 
 
 ### § 11. Ordinært og ekstraordinært årsmøte
 
-Ordinært årsmøte skal holdes hvert år innen utgangen av juni. Styret skal skriftlig innkalle til det ordinære årsmøtet minst to uker før møtet holdes. Det ordinære årsmøtet skalbehandle, og eventuelt godkjenne, styrets årsberetning og regnskapvelge styremedlemmer og varamedlemmer, med unntak av medlemmer som velges etter [§ 12 første ledd nr. 1 og 2](forskrift/2024-01-26-111/§12/ledd/1/nummer/1/ledd/2)velge styreleder og nestledervelge revisorbehandle andre saker som er angitt i innkallingen til møtet.
+Ordinært årsmøte skal holdes hvert år innen utgangen av juni. Styret skal skriftlig innkalle til det ordinære årsmøtet minst to uker før møtet holdes. Det ordinære årsmøtet skal
+
+1. behandle, og eventuelt godkjenne, styrets årsberetning og regnskap
+2. velge styremedlemmer og varamedlemmer, med unntak av medlemmer som velges etter [§ 12 første ledd nr. 1 og 2](forskrift/2024-01-26-111/§12/ledd/1/nummer/1/ledd/2)
+3. velge styreleder og nestleder
+4. velge revisor
+5. behandle andre saker som er angitt i innkallingen til møtet.
 
 Ekstraordinært årsmøte skal holdes når styret, poolens revisor eller minst en fjerdedel av medlemmene i poolen krever det. Styret skal skriftlig innkalle til ekstraordinært årsmøte minst en uke før møtet holdes.
 
 ### § 12. Styret
 
-Poolen skal ha et styre med syv styremedlemmer. Styremedlemmene velges slik:To av styremedlemmene skal representere forsikringstakerne og velges av Forbrukerrådet og Hovedorganisasjonen Virke eller etter nærmere regler fastsatt i poolens vedtekter.Ett av styremedlemmene skal representere medlemmene i poolen med lav medlemsandel og velges av disse medlemmene etter avgjørelse seg imellom.Ett av styremedlemmene skal være uavhengig og skal ikke være ansatt i eller for øvrig ha bindinger til foretak som er medlem av poolen. Dette styremedlemmet velges av årsmøtet.De øvrige tre styremedlemmene velges av årsmøtet.
+Poolen skal ha et styre med syv styremedlemmer. Styremedlemmene velges slik:
+
+1. To av styremedlemmene skal representere forsikringstakerne og velges av Forbrukerrådet og Hovedorganisasjonen Virke eller etter nærmere regler fastsatt i poolens vedtekter.
+2. Ett av styremedlemmene skal representere medlemmene i poolen med lav medlemsandel og velges av disse medlemmene etter avgjørelse seg imellom.
+3. Ett av styremedlemmene skal være uavhengig og skal ikke være ansatt i eller for øvrig ha bindinger til foretak som er medlem av poolen. Dette styremedlemmet velges av årsmøtet.
+4. De øvrige tre styremedlemmene velges av årsmøtet.
 
 Årsmøtet kan bestemme at styret i stedet skal ha ni medlemmer. I så fall skal to av styremedlemmene representere medlemmene i poolen med lav medlemsandel og velges av disse medlemmene etter avgjørelse seg imellom, og fire av medlemmene skal velges av årsmøtet. For øvrig gjelder første ledd nr. 1 og 3.
 
@@ -116,17 +141,38 @@ Det skal føres protokoll over styrebehandlingen. Den skal minst angi tid og ste
 
 ### § 13. Styrets oppgaver
 
-Styret leder poolens virksomhet og skal sørge for at poolen organiseres og driftes på en forsvarlig måte. Styret skal blant annetutpeke og føre tilsyn med daglig lederlegge frem årsberetning og regnskapfastsette premieratesørge for en forsvarlig forvaltning av poolens naturskadekapitalsørge for et forsvarlig program for poolens gjenforsikringoppnevne, utforme mandat for og føre kontroll med poolens utvalgfastsette nærmere vilkår for skadeutligningen og retningslinjer for takseringen av naturskaderfastsette retningslinjer for tegning av naturskadeforsikring.
+Styret leder poolens virksomhet og skal sørge for at poolen organiseres og driftes på en forsvarlig måte. Styret skal blant annet
+
+1. utpeke og føre tilsyn med daglig leder
+2. legge frem årsberetning og regnskap
+3. fastsette premierate
+4. sørge for en forsvarlig forvaltning av poolens naturskadekapital
+5. sørge for et forsvarlig program for poolens gjenforsikring
+6. oppnevne, utforme mandat for og føre kontroll med poolens utvalg
+7. fastsette nærmere vilkår for skadeutligningen og retningslinjer for takseringen av naturskader
+8. fastsette retningslinjer for tegning av naturskadeforsikring.
 
 ### § 14. Daglig leder
 
-Poolen skal ha en daglig leder. Daglig leder står for den daglige ledelse av poolens virksomhet og skal følge de retningslinjer og pålegg som styret har gitt. Daglig leder skal blant annetforberede poolens årsberetning og regnskap for styretfremme forslag om premierater for styretutarbeide anbefalinger om forvaltningen av naturskadekapitalenfremme forslag om gjenforsikringsavtaler for styretsørge for skaderapportering overfor medlemmene og skadeutligning mellom medlemmeneføre særskilt regnskap for poolens administrasjonskostnader per årha løpende kontakt med Landbruksdirektoratet i samsvar med [§ 44](forskrift/2024-01-26-111/§44).
+Poolen skal ha en daglig leder. Daglig leder står for den daglige ledelse av poolens virksomhet og skal følge de retningslinjer og pålegg som styret har gitt. Daglig leder skal blant annet
+
+1. forberede poolens årsberetning og regnskap for styret
+2. fremme forslag om premierater for styret
+3. utarbeide anbefalinger om forvaltningen av naturskadekapitalen
+4. fremme forslag om gjenforsikringsavtaler for styret
+5. sørge for skaderapportering overfor medlemmene og skadeutligning mellom medlemmene
+6. føre særskilt regnskap for poolens administrasjonskostnader per år
+7. ha løpende kontakt med Landbruksdirektoratet i samsvar med [§ 44](forskrift/2024-01-26-111/§44).
 
 ### § 15. Skadeutvalget
 
 Poolen skal ha et skadeutvalg. Skadeutvalget oppnevnes av poolens styre og skal ha minst fem medlemmer. Forsikringstakerne og medlemmene i poolen med lav medlemsandel skal være representert i utvalget med ett medlem hver. Medlemmene av utvalget tjenestegjør i tre år, men kan gjenvelges.
 
-Utvalget skalføre nødvendig kontroll med utvalgte skader som kreves utlignet av medlemmenei nødvendig utstrekning samordne behandlingen av og oppgjøret ved store skadehendelser der flere medlemmer er involvertføre skadehåndbok med nærmere retningslinjer for medlemmenes utligning av naturskader og for behandlingen og takseringen av naturskader.
+Utvalget skal
+
+1. føre nødvendig kontroll med utvalgte skader som kreves utlignet av medlemmene
+2. i nødvendig utstrekning samordne behandlingen av og oppgjøret ved store skadehendelser der flere medlemmer er involvert
+3. føre skadehåndbok med nærmere retningslinjer for medlemmenes utligning av naturskader og for behandlingen og takseringen av naturskader.
 
 ### § 16. Andre utvalg
 
@@ -194,7 +240,12 @@ Poolen skal rapportere om eventuelle gjenforsikringsoppgjør og utbetale oppgjø
 
 ### § 25. Medlemmenes opplysningsplikt overfor poolen
 
-For hver enkelt skadeårgang skal medlemmene i poolen uten ugrunnet opphold opplyse poolen ommedlemmets samlede brannforsikringssum per 1. julimedlemmets samlede opptjente premieinntekterbeløpet som utgjør kompensasjonen for medlemmets administrasjonskostnader etter [§ 38](forskrift/2024-01-26-111/§38)størrelsen på medlemmets naturskadekapital.
+For hver enkelt skadeårgang skal medlemmene i poolen uten ugrunnet opphold opplyse poolen om
+
+1. medlemmets samlede brannforsikringssum per 1. juli
+2. medlemmets samlede opptjente premieinntekter
+3. beløpet som utgjør kompensasjonen for medlemmets administrasjonskostnader etter [§ 38](forskrift/2024-01-26-111/§38)
+4. størrelsen på medlemmets naturskadekapital.
 
 Medlemmene skal også opplyse om annet poolen trenger til skaderapporteringen overfor medlemmene, skadeutligningen og naturskaderegnskapet.
 
@@ -204,7 +255,17 @@ Ved andelsforsikring (koassuranse) er hovedassurandøren ansvarlig for å gi opp
 
 Poolens medlemmer skal fortløpende rapportere til poolen om alle skader. Rapporter om nye skader skal sendes senest samme måned som medlemmet mottok opplysningene om skaden. Endringer i tidligere innsendte opplysninger skal rapporteres uten ugrunnet opphold.
 
-Rapporteringen skal skje gjennom poolens elektroniske skaderegistreringssystem med følgende opplysninger om den enkelte skade:skadens antatte bruttostørrelseforetatte utbetalinger av naturskadeerstatninger og påløpte skadefastsettingskostnadermedlemmets navn, nummer eller kodeskadedatoskadenummerskadeårsakskadestedets kommunenummerrisikoens artforsikringstakerens navn.
+Rapporteringen skal skje gjennom poolens elektroniske skaderegistreringssystem med følgende opplysninger om den enkelte skade:
+
+1. skadens antatte bruttostørrelse
+2. foretatte utbetalinger av naturskadeerstatninger og påløpte skadefastsettingskostnader
+3. medlemmets navn, nummer eller kode
+4. skadedato
+5. skadenummer
+6. skadeårsak
+7. skadestedets kommunenummer
+8. risikoens art
+9. forsikringstakerens navn.
 
 Styret kan bestemme at medlemmenes rapporter skal inneholde ytterligere opplysninger som er nødvendige for poolens skaderapportering overfor medlemmene.
 
@@ -310,7 +371,17 @@ Det enkelte medlems administrasjonskostnader skal for hver enkelt skadeårgang k
 
 I forbindelse med den ordinære regnskapsavleggelsen til årsmøtet skal styret fastsette et samlet naturskaderegnskap for poolen som skal legges til grunn for innbetaling og utbetaling av naturskadekapital etter [naturskadeforsikringsloven § 4 tredje](lov/1989-06-16-70/§4/ledd/3) og [fjerde ledd](lov/1989-06-16-70/§4/ledd/4).
 
-For siste skadeårgang skal naturskaderegnskapet inneholde en oppstilling overopptjente premieinntektereventuelle utbetalte erstatninger fra gjenforsikrereerstatningsutbetalingeranslåtte fremtidige kostnader som følge av inntrufne naturskaderskadefastsettingskostnaderskadeoppgjørskostnader mv.gjenforsikringskostnaderpoolens administrasjonskostnaderkompensasjon for medlemmenes administrasjonskostnader.
+For siste skadeårgang skal naturskaderegnskapet inneholde en oppstilling over
+
+1. opptjente premieinntekter
+2. eventuelle utbetalte erstatninger fra gjenforsikrere
+3. erstatningsutbetalinger
+4. anslåtte fremtidige kostnader som følge av inntrufne naturskader
+5. skadefastsettingskostnader
+6. skadeoppgjørskostnader mv.
+7. gjenforsikringskostnader
+8. poolens administrasjonskostnader
+9. kompensasjon for medlemmenes administrasjonskostnader.
 
 For tidligere utestående skadeårganger og for skadeårgangen som ble avsluttet året før årsmøtet, skal regnskapet gi oppstillinger over endringer fra oppstillingene i tidligere naturskaderegnskap.
 
@@ -362,7 +433,14 @@ Poolen skal i sitt arbeid følge avgjørelser truffet av Klagenemnda for natursk
 
 ### § 46. Melding om avtale om brannforsikring hos andre enn poolens medlemmer
 
-En forsikringstaker som tegner eller fornyer brannforsikring i et forsikringsforetak som ikke er medlem av poolen, skal uoppfordret sende poolen melding med opplysninger omnår avtalen er inngåtthvilket tidsrom den gjelder forhvilket forsikringsforetak avtalen er inngått medhva brannforsikringen skal dekkebrannforsikringssummenom forsikringen er tegnet på førsterisikobasis, og i så fall også forsikringsverdien.
+En forsikringstaker som tegner eller fornyer brannforsikring i et forsikringsforetak som ikke er medlem av poolen, skal uoppfordret sende poolen melding med opplysninger om
+
+1. når avtalen er inngått
+2. hvilket tidsrom den gjelder for
+3. hvilket forsikringsforetak avtalen er inngått med
+4. hva brannforsikringen skal dekke
+5. brannforsikringssummen
+6. om forsikringen er tegnet på førsterisikobasis, og i så fall også forsikringsverdien.
 
 ### § 47. Avgift til poolen
 
@@ -402,4 +480,9 @@ Departementet kan gi nærmere overgangsregler. I overgangsreglene kan det gjøre
 
 ### § 51. Oppheving av forskrifter
 
-Når denne forskriften trer i kraft, oppheves samtidig følgende forskrifter:[forskrift 21. desember 1979 nr. 3420 om instruks for Norsk Naturskadepool](forskrift/1979-12-21-3420)[forskrift 25. november 1994 nr. 1026 om fastsetting og innkreving av avgift til Norsk Naturskadepool etter lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4a](forskrift/1994-11-25-1026)[forskrift 15. desember 1989 nr. 1335 om egenandel og ansvarsgrense ved naturskadeforsikring](forskrift/1989-12-15-1335)[forskrift 7. oktober 1980 nr. 1 om unntak fra naturskadedekning etter forsikringsavtaleloven § 81A første jf. annet ledd for ting som befinner seg i skip eller småbåter](forskrift/1980-10-07-1).
+Når denne forskriften trer i kraft, oppheves samtidig følgende forskrifter:
+
+1. [forskrift 21. desember 1979 nr. 3420 om instruks for Norsk Naturskadepool](forskrift/1979-12-21-3420)
+2. [forskrift 25. november 1994 nr. 1026 om fastsetting og innkreving av avgift til Norsk Naturskadepool etter lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4a](forskrift/1994-11-25-1026)
+3. [forskrift 15. desember 1989 nr. 1335 om egenandel og ansvarsgrense ved naturskadeforsikring](forskrift/1989-12-15-1335)
+4. [forskrift 7. oktober 1980 nr. 1 om unntak fra naturskadedekning etter forsikringsavtaleloven § 81A første jf. annet ledd for ting som befinner seg i skip eller småbåter](forskrift/1980-10-07-1).

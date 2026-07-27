@@ -34,7 +34,14 @@ Forskriften gjelder for søknad om tillatelse til å arrangere sykkelritt på ve
 
 ### § 3. Definisjoner
 
-I denne forskriften forstås med*sykkelritt:* arrangement for syklende hvor deltakerne følger en fastlagt rute, og hvor det skilles mellom deltakerne innbyrdes ved hjelp av tidtaking eller annen form for rangering, eller hvor det er fastsatt maksimaltid*stasjonære og mobile vakter:* personer tildelt myndighet til å regulere trafikk under sykkelritt*rittarrangør:* den som er ansvarlig for søknad og gjennomføring av sykkelritt*kursarrangør:* tilbyder av kompetansegivende kurs for stasjonære eller mobile vakter*kursholder:* person som gjennomfører kurs for opplæring av stasjonære eller mobile vakter på vegne av kursarrangør*elev:* deltakere på kurs for opplæring av stasjonære eller mobile vakter.
+I denne forskriften forstås med
+
+1. *sykkelritt:* arrangement for syklende hvor deltakerne følger en fastlagt rute, og hvor det skilles mellom deltakerne innbyrdes ved hjelp av tidtaking eller annen form for rangering, eller hvor det er fastsatt maksimaltid
+2. *stasjonære og mobile vakter:* personer tildelt myndighet til å regulere trafikk under sykkelritt
+3. *rittarrangør:* den som er ansvarlig for søknad og gjennomføring av sykkelritt
+4. *kursarrangør:* tilbyder av kompetansegivende kurs for stasjonære eller mobile vakter
+5. *kursholder:* person som gjennomfører kurs for opplæring av stasjonære eller mobile vakter på vegne av kursarrangør
+6. *elev:* deltakere på kurs for opplæring av stasjonære eller mobile vakter.
 
 ## Kapittel 2. Søknad og tillatelse til sykkelritt
 
@@ -50,9 +57,27 @@ Statens vegvesen er vedtaksmyndighet for tillatelse til sykkelritt på private v
 
 Rittarrangør må fremme skriftlig søknad om sykkelritt til Statens vegvesen. Søker skal sende kopi av søknaden til alle berørte politidistrikt, kommuner og fylkeskommuner.
 
-Søknaden skal inneholdenavn og adresse på rittarrangør og navn og kontaktopplysninger til en kontaktpersontidspunkt for start og slutt på rittet og en nøyaktig beskrivelse av løypaopplysning om rittet berører private veger, kommunale veger, fylkesveger eller riksvegeropplysninger om beregnet antall deltakere og beskrivelse av om deltakerne skal starte samlet, med startmellomrom og eventuelle puljestørrelserrisikovurdering av aktuelle faremomenter for deltakere, vakter og andre trafikanter, og beskrivelse av tiltak for å redusere risikoenbeskrivelse av ulemper for særlig berørte, nødetater og kollektivtrafikk, og plan for varsling av disse.
+Søknaden skal inneholde
 
-Når det er relevant, skal søknaden også inneholdebegrunnelse for behov for unntak fra [vegtrafikkloven §§ 4](lov/1965-06-18-4/§4), [5](lov/1965-06-18-4/§5) og [6](lov/1965-06-18-4/§6)forslag til skiltplanopplysninger om veger eller deler av veger som ønskes stengt og til hvilke tideroversikt over ønsket bruk av stasjonære og mobile vakter og deres plasseringønsket bruk av polititjenestemenn og deres plasseringønsket bruk av motorvogner i rittløypa, og deres funksjon og antallandre forslag til særskilte trafikkreguleringer og trafikksikkerhetstiltakrittreglementønsket bruk av oppmerking eller innretninger på eller langs vegtillatelse til bruk av vegen fra privat vegeier.
+1. navn og adresse på rittarrangør og navn og kontaktopplysninger til en kontaktperson
+2. tidspunkt for start og slutt på rittet og en nøyaktig beskrivelse av løypa
+3. opplysning om rittet berører private veger, kommunale veger, fylkesveger eller riksveger
+4. opplysninger om beregnet antall deltakere og beskrivelse av om deltakerne skal starte samlet, med startmellomrom og eventuelle puljestørrelser
+5. risikovurdering av aktuelle faremomenter for deltakere, vakter og andre trafikanter, og beskrivelse av tiltak for å redusere risikoen
+6. beskrivelse av ulemper for særlig berørte, nødetater og kollektivtrafikk, og plan for varsling av disse.
+
+Når det er relevant, skal søknaden også inneholde
+
+1. begrunnelse for behov for unntak fra [vegtrafikkloven §§ 4](lov/1965-06-18-4/§4), [5](lov/1965-06-18-4/§5) og [6](lov/1965-06-18-4/§6)
+2. forslag til skiltplan
+3. opplysninger om veger eller deler av veger som ønskes stengt og til hvilke tider
+4. oversikt over ønsket bruk av stasjonære og mobile vakter og deres plassering
+5. ønsket bruk av polititjenestemenn og deres plassering
+6. ønsket bruk av motorvogner i rittløypa, og deres funksjon og antall
+7. andre forslag til særskilte trafikkreguleringer og trafikksikkerhetstiltak
+8. rittreglement
+9. ønsket bruk av oppmerking eller innretninger på eller langs veg
+10. tillatelse til bruk av vegen fra privat vegeier.
 
 Statens vegvesen kan kreve ytterligere opplysninger som er nødvendig for å behandle søknaden.
 
@@ -98,7 +123,12 @@ Unntak etter første ledd kan bare gis for løypa der sykkelrittet skal gjennomf
 
 Rittarrangør har hovedansvar for trafikksikkerheten under rittet og for at rittet gjennomføres i henhold til tillatelsen og gjeldende regelverk.
 
-Før rittet skal rittarrangørsenest to uker før arrangementet gjøre arrangementet allment kjent i området rittet gjennomføresinformere deltakerne og andre som er en del av sykkelrittet om reglene som gjelder for sykkelrittet og om det er gitt unntak fra [vegtrafikkloven](lov/1965-06-18-4)gjennomgå oppgaver og risikovurderinger for den enkelte vaktpost med de stasjonære og mobile vaktenesørge for at alle som har oppgaver i forbindelse med rittet har de nødvendige forutsetningene for å kunne ivareta egen og andres sikkerhet under utførelse av oppgavene.
+Før rittet skal rittarrangør
+
+1. senest to uker før arrangementet gjøre arrangementet allment kjent i området rittet gjennomføres
+2. informere deltakerne og andre som er en del av sykkelrittet om reglene som gjelder for sykkelrittet og om det er gitt unntak fra [vegtrafikkloven](lov/1965-06-18-4)
+3. gjennomgå oppgaver og risikovurderinger for den enkelte vaktpost med de stasjonære og mobile vaktene
+4. sørge for at alle som har oppgaver i forbindelse med rittet har de nødvendige forutsetningene for å kunne ivareta egen og andres sikkerhet under utførelse av oppgavene.
 
 Stasjonære og mobile vakter skal stå under rittarrangørs ledelse. Rittarrangør har ansvar for at det mobile vaktholdet organiseres på en slik måte at det blir færrest mulige passeringer av sykkelrittdeltakerne og andre kjøretøy som er en del av sykkelrittet.
 
@@ -152,7 +182,15 @@ Endringer i hvilke personer som innehar den påkrevde kompetansen og erfaringen 
 
 ### § 17. Kursarrangørens ansvar
 
-Kursarrangør skaldrive opplæring i samsvar med godkjenningen og gjeldende regelverkgi opplæring etter anerkjente pedagogiske prinsippergi opplæring i samsvar med undervisningsplanensørge for at undervisningsplanen er oppdatert til enhver tiddisponere utstyr, undervisningslokale og områder som er nødvendig for å gjennomføre kursmelde fra til Statens vegvesen om kurs senest tre uker før oppstart, og melde fra dersom kurs blir avlystsørge for at alle kursholdere har den nødvendige kompetansen til å holde kurs og er oppdatert på regelverket og undervisningsplanen.
+Kursarrangør skal
+
+1. drive opplæring i samsvar med godkjenningen og gjeldende regelverk
+2. gi opplæring etter anerkjente pedagogiske prinsipper
+3. gi opplæring i samsvar med undervisningsplanen
+4. sørge for at undervisningsplanen er oppdatert til enhver tid
+5. disponere utstyr, undervisningslokale og områder som er nødvendig for å gjennomføre kurs
+6. melde fra til Statens vegvesen om kurs senest tre uker før oppstart, og melde fra dersom kurs blir avlyst
+7. sørge for at alle kursholdere har den nødvendige kompetansen til å holde kurs og er oppdatert på regelverket og undervisningsplanen.
 
 Kursholdere for stasjonære vakter må, for å ha den nødvendige kompetansen til å holde kurs, ha relevant erfaring med sykkelritt og ha ervervet førerkort klasse A eller B.
 
@@ -204,7 +242,16 @@ Trinn 1 er på til sammen 60 minutter.
 
 Etter å ha gjennomført trinn 1 skal eleven ha innledende kjennskap til oppgaven som stasjonær vakt og kjennskap til organiseringen og gjennomføring av sykkelritt.
 
-Eleven skalha kunnskap om oppgaven som stasjonær vakt og at det innebærer å regulere trafikkha innsikt i egne ferdigheter og eget utgangspunkt for videre opplæringkjenne til ulike måter å regulere trafikk på, og hierarkiet mellom demha kunnskap om ulike type ritt, og betydningen av dettekunne forskjellen mellom rollene til stasjonære vakter og mobile vakter og andre, og forstå forholdet til politiet og arrangørforstå at [vegtrafikkloven](lov/1965-06-18-4) gjelder og at det kan gjøres unntakkjenne til at rittarrangør har ansvar for å gjennomgå oppgaver og risikovurderinger for den enkelte vaktpostkunne kravene til bekledning og forstå viktigheten av den.
+Eleven skal
+
+1. ha kunnskap om oppgaven som stasjonær vakt og at det innebærer å regulere trafikk
+2. ha innsikt i egne ferdigheter og eget utgangspunkt for videre opplæring
+3. kjenne til ulike måter å regulere trafikk på, og hierarkiet mellom dem
+4. ha kunnskap om ulike type ritt, og betydningen av dette
+5. kunne forskjellen mellom rollene til stasjonære vakter og mobile vakter og andre, og forstå forholdet til politiet og arrangør
+6. forstå at [vegtrafikkloven](lov/1965-06-18-4) gjelder og at det kan gjøres unntak
+7. kjenne til at rittarrangør har ansvar for å gjennomgå oppgaver og risikovurderinger for den enkelte vaktpost
+8. kunne kravene til bekledning og forstå viktigheten av den.
 
 ### § 24. Trinn 2 av opplæringen for stasjonære vakter
 
@@ -214,7 +261,15 @@ Etter å ha gjennomført trinn 2 skal eleven ha innsikt i andre trafikanters beh
 
 Eleven skal drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom hele trinnet.
 
-Eleven skalreflektere rundt aktuelle trafikale utfordringer, og bli bevisst på hvordan andre trafikanter kan oppføre seg i trafikkenkjenne til de ulike trafikanters behov for fremkommelighetreflektere over at ulike kjøretøy har fysiske forskjeller, og betydningen dette harreflektere over hvordan man håndterer uventede og uheldige situasjonerkjenne til tiltak som bedrer egen og andre trafikanters sikkerhetha god forståelse for hvordan man forholder seg til situasjoner med utrykningskjøretøy under utrykning og være bevisst på rittarrangørens ansvarkjenne til aktuelle konflikter som kan oppstå.
+Eleven skal
+
+1. reflektere rundt aktuelle trafikale utfordringer, og bli bevisst på hvordan andre trafikanter kan oppføre seg i trafikken
+2. kjenne til de ulike trafikanters behov for fremkommelighet
+3. reflektere over at ulike kjøretøy har fysiske forskjeller, og betydningen dette har
+4. reflektere over hvordan man håndterer uventede og uheldige situasjoner
+5. kjenne til tiltak som bedrer egen og andre trafikanters sikkerhet
+6. ha god forståelse for hvordan man forholder seg til situasjoner med utrykningskjøretøy under utrykning og være bevisst på rittarrangørens ansvar
+7. kjenne til aktuelle konflikter som kan oppstå.
 
 ### § 25. Trinn 3 av opplæringen for stasjonære vakter
 
@@ -224,7 +279,14 @@ Etter å ha gjennomført trinn 3 skal eleven kunne regulere trafikk under sykkel
 
 Det skal gjennom hele trinnet brukes praktiske eksempler på situasjoner og det skal legges opp til at elevene reflekterer og diskuterer ulike situasjoner og hvordan de kan håndteres.
 
-Eleven skalkunne regulere trafikkvære bevisst på at syklister i sykkelritt kan ha begrenset evne til å oppfatte sykkelrittvaktens tegn for dirigering, og kjenne til syklers begrensninger og kjøreegenskaperbli bevisst på ulike måter å kommunisere med andre vakter på, og betydningen av tydelig kommunikasjon mellom vakterforstå betydningen av tydelig kommunikasjon mellom vakter og andre trafikanter for å hindre og håndtere konfliktsituasjonerforstå betydningen av egen plassering som vakt for å ivareta sikkerheten og være synligbli bevisst på at fart og avstand til andre i trafikken er vanskelig å bedømme.
+Eleven skal
+
+1. kunne regulere trafikk
+2. være bevisst på at syklister i sykkelritt kan ha begrenset evne til å oppfatte sykkelrittvaktens tegn for dirigering, og kjenne til syklers begrensninger og kjøreegenskaper
+3. bli bevisst på ulike måter å kommunisere med andre vakter på, og betydningen av tydelig kommunikasjon mellom vakter
+4. forstå betydningen av tydelig kommunikasjon mellom vakter og andre trafikanter for å hindre og håndtere konfliktsituasjoner
+5. forstå betydningen av egen plassering som vakt for å ivareta sikkerheten og være synlig
+6. bli bevisst på at fart og avstand til andre i trafikken er vanskelig å bedømme.
 
 ### § 26. Teoretisk prøve for stasjonære vakter
 
@@ -240,7 +302,13 @@ Ved ikke bestått prøve må eleven vente minst en uke før ny prøve kan avlegg
 
 ### § 27. Fornyelse av kompetansebevis for stasjonære vakter
 
-Kompetansebeviset kan fornyes for nye fem år etter denne bestemmelsen dersom følgende vilkår er oppfylt:har ervervet førerkort klasse A1, A2, A, B eller Tdet er under ett år siden kompetansebevisets gyldighetstid utløppersonen kan dokumentere å ha hatt minst fem oppdrag som stasjonær eller mobil vakt med gyldig kompetansebevisdet er under to år siden siste oppdragpersonen har gjennomfør obligatorisk samling etter denne bestemmelsen.
+Kompetansebeviset kan fornyes for nye fem år etter denne bestemmelsen dersom følgende vilkår er oppfylt:
+
+1. har ervervet førerkort klasse A1, A2, A, B eller T
+2. det er under ett år siden kompetansebevisets gyldighetstid utløp
+3. personen kan dokumentere å ha hatt minst fem oppdrag som stasjonær eller mobil vakt med gyldig kompetansebevis
+4. det er under to år siden siste oppdrag
+5. personen har gjennomfør obligatorisk samling etter denne bestemmelsen.
 
 Samlingen er på til sammen 90 minutter. Samlingen kan gjennomføres ved fysisk samling i klasserom eller ved nettsamling i digitalt klasserom. Ved undervisning i klasserom kan det være maksimalt 20 elever. Ved bruk av digitalt klasserom kan det være maksimalt 12 elever og kursholder og elever har på kamera, lyd og mikrofon.
 
@@ -286,7 +354,15 @@ Trinn 1 er teoretisk undervisning på til sammen 90 minutter og skal gjennomfør
 
 Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
 
-Eleven skalkunne formålet og oppgaven som mobil vakt, og ha innsikt i egne ferdigheter og eget utgangspunktha kunnskap om forskjellige type ritt og betydningen dette harkjenne til ulike typer sambandsløsningerha kunnskap om kravet til merking av motorsykkelen og bekledningforstå at [vegtrafikkloven](lov/1965-06-18-4) gjelder og at det kan gjøres unntakkjenne til rittarrangørs ansvar for risikovurderingerdiskutere og reflektere rundt egne holdninger til kjøring som fører til uønsket risiko og foreslå tiltak for å redusere risiko.
+Eleven skal
+
+1. kunne formålet og oppgaven som mobil vakt, og ha innsikt i egne ferdigheter og eget utgangspunkt
+2. ha kunnskap om forskjellige type ritt og betydningen dette har
+3. kjenne til ulike typer sambandsløsninger
+4. ha kunnskap om kravet til merking av motorsykkelen og bekledning
+5. forstå at [vegtrafikkloven](lov/1965-06-18-4) gjelder og at det kan gjøres unntak
+6. kjenne til rittarrangørs ansvar for risikovurderinger
+7. diskutere og reflektere rundt egne holdninger til kjøring som fører til uønsket risiko og foreslå tiltak for å redusere risiko.
 
 ### § 33. Trinn 2 av opplæringen for mobile vakter
 
@@ -296,7 +372,13 @@ Etter å ha gjennomført trinn 2 skal eleven ha de tekniske kjøreferdighetene o
 
 Eleven skal drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet.
 
-Eleven skalvise innsikt og forståelse for hvilke ferdigheter som kreves for en mobil vakt, og at gjentakende øving er viktig for å opprettholde basisferdigheterkunne utføre daglig kontroll og sikkerhetskontroll av motorsykkelbeskrive og forstå viktige begreper som brukes for presis bruk av motorsykkelutføre igangsetting og stans, giring, styring, krypekjøring og bremsing på en effektiv, trygg og presis måtekjenne til at ulike motorsykler har ulike egenskaper.
+Eleven skal
+
+1. vise innsikt og forståelse for hvilke ferdigheter som kreves for en mobil vakt, og at gjentakende øving er viktig for å opprettholde basisferdigheter
+2. kunne utføre daglig kontroll og sikkerhetskontroll av motorsykkel
+3. beskrive og forstå viktige begreper som brukes for presis bruk av motorsykkel
+4. utføre igangsetting og stans, giring, styring, krypekjøring og bremsing på en effektiv, trygg og presis måte
+5. kjenne til at ulike motorsykler har ulike egenskaper.
 
 Etter trinn to plikter kursholder å avbryte opplæringen for elever som ikke har tilstrekkelige tekniske ferdigheter til å gjennomføre trinn 3 på en meningsfylt måte.
 
@@ -308,7 +390,18 @@ Etter å ha gjennomført trinn 3 skal eleven ha tilegnet seg den kompetansen som
 
 Eleven skal gjennom praktiske øvelser, drøftinger og refleksjoner videreutvikle sin kjøretekniske kompetanse og forstå hva oppgaven som mobil vakt innebærer. Eleven skal kunne kjøre i god samhandling med andre, slik at trafikksikkerheten ivaretas og oppgaven løses. Eleven skal ha utviklet vilje til å ta ansvar, ta forholdsregler og til å samarbeide med andre.
 
-Eleven skalha innsikt i egne ferdigheter, eget utgangspunkt og veien videreanvende og videreutvikle sin kompetanse i presis kjøreteknikk, og utvikle forståelse for at presis kjøreteknikk er nødvendig for kontroll over motorsykkelen under kjøringvidereutvikle sin kjørekompetanse ved å oppleve og forstå betydningen av presis kjøreteknikk, som sittestilling, forankring, blikkbruk, styrekommando og gasskontrollmestre å kjøre sikkert, effektivt og ansvarlig i aktuelle trafikkmiljø for sykkelrittvise god innsikt i valg av kjøremåte med motorsykkel under sykkelritt og valg av stoppested for å utføre trafikkregulering på en sikker måteforstå øvrige trafikanters behov, ha nødvendig fokus på sikkerhet og forutse risikomomenter i trafikkenbli bevisst på at motorsykkelkjøring er krevende og at gjentatt øving er nødvendig for å motvirke instinktive feilhandlinger og holde ferdigheten vedlikeha innsikt i at ulike motorsykler har ulike egenskaperutvikle evnen til samhandling med andre medtrafikanterforstå viktigheten av samarbeid med aktuelle aktører og deltagere i sykkelrittet.
+Eleven skal
+
+1. ha innsikt i egne ferdigheter, eget utgangspunkt og veien videre
+2. anvende og videreutvikle sin kompetanse i presis kjøreteknikk, og utvikle forståelse for at presis kjøreteknikk er nødvendig for kontroll over motorsykkelen under kjøring
+3. videreutvikle sin kjørekompetanse ved å oppleve og forstå betydningen av presis kjøreteknikk, som sittestilling, forankring, blikkbruk, styrekommando og gasskontroll
+4. mestre å kjøre sikkert, effektivt og ansvarlig i aktuelle trafikkmiljø for sykkelritt
+5. vise god innsikt i valg av kjøremåte med motorsykkel under sykkelritt og valg av stoppested for å utføre trafikkregulering på en sikker måte
+6. forstå øvrige trafikanters behov, ha nødvendig fokus på sikkerhet og forutse risikomomenter i trafikken
+7. bli bevisst på at motorsykkelkjøring er krevende og at gjentatt øving er nødvendig for å motvirke instinktive feilhandlinger og holde ferdigheten vedlike
+8. ha innsikt i at ulike motorsykler har ulike egenskaper
+9. utvikle evnen til samhandling med andre medtrafikanter
+10. forstå viktigheten av samarbeid med aktuelle aktører og deltagere i sykkelrittet.
 
 ### § 35. Sluttvurdering av eleven i opplæring for mobile vakter
 

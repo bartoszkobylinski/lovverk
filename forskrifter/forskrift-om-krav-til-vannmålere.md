@@ -15,7 +15,7 @@ xml_hash: "4f8f6f0a4deb5bd391974df727c52ee27e09d47207e6913778d0dc6b280dc5d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften her setter ikke krav til elektromagnetisk stråling som avgis av må
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*vannmåler:* et måleredskap som er beregnet på å måle, registrere og vise det vannvolumet som strømmer gjennom måleren*bruker:* den som leverer kaldt eller varmt vann til kunder mot betaling. I særlige tilfeller kan andre anses som bruker*målestørrelsen:* den bestemte størrelsen som skal måles*påvirkende størrelse*: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør vannmålerens normale driftsbetingelser*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vannmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket*klimatisk miljø:* de omgivelser der vannmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med:
+
+1. *vannmåler:* et måleredskap som er beregnet på å måle, registrere og vise det vannvolumet som strømmer gjennom måleren
+2. *bruker:* den som leverer kaldt eller varmt vann til kunder mot betaling. I særlige tilfeller kan andre anses som bruker
+3. *målestørrelsen:* den bestemte størrelsen som skal måles
+4. *påvirkende størrelse*: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+5. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør vannmålerens normale driftsbetingelser
+6. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vannmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+7. *kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket
+8. *klimatisk miljø:* de omgivelser der vannmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
@@ -95,7 +104,10 @@ Mekanisk miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter vannmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter vannmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:vibrasjonmekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:
+
+1. vibrasjon
+2. mekanisk sjokk.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
@@ -111,9 +123,21 @@ Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet ned
 | E2 | Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter vannmålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningspenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:spenningsvariasjonvariasjoner i nettfrekvensnettgenererte magnetiske feltandre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. spenningsavbrudd
+2. kortvarig redusert spenning
+3. spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. høyfrekvente elektromagnetiske felt
+5. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. spenningsvariasjon
+2. variasjoner i nettfrekvens
+3. nettgenererte magnetiske felt
+4. andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
@@ -153,7 +177,12 @@ En vannmåler skal konstrueres slik at virkningen av en funksjonsfeil som medfø
 
 ### § 17. Egnethet
 
-En vannmåler skal væreegnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatrobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserkonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningenufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En vannmåler skal være
+
+1. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen
+4. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En vannmåler skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -179,13 +208,27 @@ Visning av samlet mengde eller visningene som samlet mengde kan utledes fra, og 
 
 ### § 19. Opplysninger som skal påføres eller følge vannmåleren
 
-En vannmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vannmåleren:relevante opplysninger om bruksbetingelsermålekapasitetmåleområdeidentitetsmerkenummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelseinformasjon om hvorvidt tilleggsutstyr som gir metrologiske resultater er i samsvar med bestemmelsene i dette direktiv om lovlig metrologisk kontroll.
+En vannmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vannmåleren:
+
+1. relevante opplysninger om bruksbetingelser
+2. målekapasitet
+3. måleområde
+4. identitetsmerke
+5. nummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelse
+6. informasjon om hvorvidt tilleggsutstyr som gir metrologiske resultater er i samsvar med bestemmelsene i dette direktiv om lovlig metrologisk kontroll.
 
 Dersom en vannmålers dimensjoner er for små eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.
 
 Opplysninger om betjening skal følge vannmåleren med mindre måleren er så enkel at dette er unødvendig.
 
-Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:angitte driftsbetingelserelektromagnetisk miljøøvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringanvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingeranvisninger for korrekt betjening og eventuelle særlige bruksvilkårvilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. angitte driftsbetingelser
+2. elektromagnetisk miljø
+3. øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske vannmålere er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -223,19 +266,45 @@ En vannmåler skal være konstruert slik at det lett kan vurderes om den er i sa
 
 ### § 23. Definisjoner
 
-I dette avsnittet menes med*minste strømningsrate (Q1):* den laveste strømningsraten der vannmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil*overgangsstrømningsrate (Q2):* overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil*permanent strømningsrate (Q3):* den høyeste strømningsraten der vannmåleren fungerer tilfredsstillende ved normale bruksforhold, dvs. under jevne eller tilbakevendende strømningsforhold*overlaststrømningsrate (Q4):* strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade.
+I dette avsnittet menes med
+
+1. *minste strømningsrate (Q1):* den laveste strømningsraten der vannmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil
+2. *overgangsstrømningsrate (Q2):* overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil
+3. *permanent strømningsrate (Q3):* den høyeste strømningsraten der vannmåleren fungerer tilfredsstillende ved normale bruksforhold, dvs. under jevne eller tilbakevendende strømningsforhold
+4. *overlaststrømningsrate (Q4):* strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
 ### § 24. Angitte driftsbetingelser
 
-Produsenten skal angi driftsbetingelser som følger:vannets strømningsrateVerdiene for strømningsrateområdet skal oppfylle følgende vilkår:Q3/Q1 ≥ 40Q2/Q1 = 1,6Q4/Q3 = 1,25.temperaturintervallet for vannetVerdiene for temperaturintervallet skal oppfylle følgende vilkår:0,1 °C til minst 30 °C, eller30 °C til minst 90 °C.Måleren kan være konstruert for bruk i begge intervallene.det relative trykkintervallet for vannet, som er fra 0,3 bar til minst 10 bar ved Q3for strømforsyningen: nominell vekselspenningsforsyning og/eller grenseverdier for likestrømsforsyning.
+Produsenten skal angi driftsbetingelser som følger:
+
+1. vannets strømningsrate
+
+   Verdiene for strømningsrateområdet skal oppfylle følgende vilkår:
+
+   1. Q3/Q1 ≥ 40
+   2. Q2/Q1 = 1,6
+   3. Q4/Q3 = 1,25.
+2. temperaturintervallet for vannet
+
+   Verdiene for temperaturintervallet skal oppfylle følgende vilkår:
+
+   1. 0,1 °C til minst 30 °C, eller
+   2. 30 °C til minst 90 °C.
+
+   Måleren kan være konstruert for bruk i begge intervallene.
+3. det relative trykkintervallet for vannet, som er fra 0,3 bar til minst 10 bar ved Q3
+4. for strømforsyningen: nominell vekselspenningsforsyning og/eller grenseverdier for likestrømsforsyning.
 
 > Endret ved [forskrifter 10 des 2015 nr. 1457](forskrift/2015-12-10-1457) (i kraft 20 april 2016), [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
 ### § 25. Maksimal tillatt målefeil
 
-Maksimal tillatt målefeil, positiv eller negativ, for volum som leveres ved strømningsrater mellom overgangsstrømningsraten (Q2) (medregnet) og overlaststrømningsraten (Q4), er2 % for vann med en temperatur på ≤ 30 °C3 % for vann med en temperatur på > 30 °C.
+Maksimal tillatt målefeil, positiv eller negativ, for volum som leveres ved strømningsrater mellom overgangsstrømningsraten (Q2) (medregnet) og overlaststrømningsraten (Q4), er
+
+1. 2 % for vann med en temperatur på ≤ 30 °C
+2. 3 % for vann med en temperatur på > 30 °C.
 
 Maksimal tillatt målefeil, positiv eller negativ, for volum som leveres ved strømningsrater mellom minste strømningsrate (Q1) og overgangsstrømningsrate (Q2) (ikke medregnet), er 5 % uavhengig av vanntemperaturen.
 
@@ -245,17 +314,37 @@ En vannmåler skal ikke utnytte maksimale tillatte feil eller systematisk favori
 
 ### § 26. Tillatt virkning av forstyrrelse – elektromagnetisk immunitet
 
-Virkningen av en elektromagnetisk forstyrrelse på en vannmåler skal være slik atendringen i måleresultatet ikke er større enn den kritiske endringsverdien som definert i tredje ledd, ellermåleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.
+Virkningen av en elektromagnetisk forstyrrelse på en vannmåler skal være slik at
 
-Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal vannmålerenfortsette å operere innenfor maksimal tillatt feil,ha alle målefunksjoner i behold, oggjøre det mulig å hente alle måledata som var til stede like før forstyrrelsen.
+1. endringen i måleresultatet ikke er større enn den kritiske endringsverdien som definert i tredje ledd, eller
+2. måleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.
 
-Den kritiske endringen er den minste av følgende to verdier:volumet som tilsvarer halvparten av maksimal tillatt målefeil i det øvre området av det målte volumetvolumet som tilsvarer maksimal tillatt målefeil i det volum som tilsvarer ett minutt ved strømningsraten Q3.
+Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal vannmåleren
+
+1. fortsette å operere innenfor maksimal tillatt feil,
+2. ha alle målefunksjoner i behold, og
+3. gjøre det mulig å hente alle måledata som var til stede like før forstyrrelsen.
+
+Den kritiske endringen er den minste av følgende to verdier:
+
+1. volumet som tilsvarer halvparten av maksimal tillatt målefeil i det øvre området av det målte volumet
+2. volumet som tilsvarer maksimal tillatt målefeil i det volum som tilsvarer ett minutt ved strømningsraten Q3.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
 ### § 27. Tillatt virkning av forstyrrelse – holdbarhet
 
-Når det er gjennomført et egnet forsøk der det tas hensyn til tidsrommet produsenten har anslått, skal følgende kriterier være oppfylt:Variasjonen i måleresultatet etter langtidstest skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige3 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)1,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet).Visningsfeilen for volumet målt etter langtidstest skal ikke overstige±6 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)2,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 0,1 °C og 30 °C±3,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 30 °C og 90 °C.
+Når det er gjennomført et egnet forsøk der det tas hensyn til tidsrommet produsenten har anslått, skal følgende kriterier være oppfylt:
+
+1. Variasjonen i måleresultatet etter langtidstest skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige
+
+   1. 3 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)
+   2. 1,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet).
+2. Visningsfeilen for volumet målt etter langtidstest skal ikke overstige
+
+   1. ±6 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)
+   2. 2,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 0,1 °C og 30 °C
+   3. ±3,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 30 °C og 90 °C.
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
@@ -305,7 +394,10 @@ Brukeren skal kvalitetssikre måleverdiene og håndteringen av disse gjennom hel
 
 ### § 34. Maksimal tillatt målefeil under bruk
 
-Brukeren skal sørge for at positiv eller negativ målefeil for volum som leveres ved strømningsrater fra og med overgangsstrømningsraten (Q2) til og med overlaststrømningsraten (Q4), er maksimalt±4 % for vann med en temperatur på ≤ 30 °C±6 % for vann med en temperatur på > 30 °C.
+Brukeren skal sørge for at positiv eller negativ målefeil for volum som leveres ved strømningsrater fra og med overgangsstrømningsraten (Q2) til og med overlaststrømningsraten (Q4), er maksimalt
+
+1. ±4 % for vann med en temperatur på ≤ 30 °C
+2. ±6 % for vann med en temperatur på > 30 °C.
 
 Brukeren skal sørge for at positiv eller negativ målefeil for volum som leveres ved strømningsrater mellom minste strømningsrate (Q1) og opp til overgangsstrømningsrate (Q2), er maksimalt ±10 % uavhengig av vanntemperaturen.
 

@@ -31,7 +31,13 @@ Formålet med denne forskriften er å redusere utslipp av klimagasser fra oppvar
 
 Denne forskriften gjelder for bruk av mineralolje til oppvarming av bygninger og bruk av fossil gass til byggvarme.
 
-Bruk av mineralolje til oppvarming av følgende bygninger er unntatt fra forskriften:fritidsboliger, fyrstasjoner og bygninger til seterdrift som ikke er tilkoblet strømnettet.bygninger hvor hovedformålet med forbrenningsanlegget er å levere energi til fremstilling eller bearbeidelse av materialer, stoffer eller produkter.driftsbygninger i landbruket frem til 1. januar 2025.sykehusbygninger med døgnkontinuerlig pasientbehandling frem til 1. januar 2025.bygninger og bygningsdeler der formålet med oppvarmingen er skadeforebyggende tørking etter alvorlige og uforutsette hendelser.
+Bruk av mineralolje til oppvarming av følgende bygninger er unntatt fra forskriften:
+
+1. fritidsboliger, fyrstasjoner og bygninger til seterdrift som ikke er tilkoblet strømnettet.
+2. bygninger hvor hovedformålet med forbrenningsanlegget er å levere energi til fremstilling eller bearbeidelse av materialer, stoffer eller produkter.
+3. driftsbygninger i landbruket frem til 1. januar 2025.
+4. sykehusbygninger med døgnkontinuerlig pasientbehandling frem til 1. januar 2025.
+5. bygninger og bygningsdeler der formålet med oppvarmingen er skadeforebyggende tørking etter alvorlige og uforutsette hendelser.
 
 Unntatt fra bestemmelsene i denne forskriften er også bruk av mineralolje i fjernvarmeanlegg med nominell termisk effekt fra og med 1 MW.
 
@@ -39,7 +45,15 @@ Unntatt fra bestemmelsene i denne forskriften er også bruk av mineralolje i fje
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*Mineralolje:* lett og tung fyringsolje, fyringsparafin og andre brensler av mineralsk opprinnelse som er flytende ved standard trykk og temperatur.*Fossil gass:* hydrokarboner av fossil opprinnelse som er i gassform ved normalt trykk og normal temperatur.*Oppvarming:* oppvarming av rom, ventilasjonsluft og tappevann. Byggvarme regnes også som oppvarming.*Byggvarme:* midlertidig oppvarming og tørking av bygninger og bygningsdeler som er under oppføring eller rehabilitering, herunder herding av betong, tørking av maling mv. Som byggvarme menes ikke oppvarming der formålet er skadeforebyggende tørking etter alvorlige og uforutsette hendelser.*Bygning:* konstruksjon med tak, vegger og tekniske installasjoner. Som bygning regnes også brakker og andre midlertidige bygninger, samt bygninger som er under oppføring eller endring.*Driftsbygning i landbruket:* Bygning som er et nødvendig ledd i driften eller som er et driftsmiddel i forbindelse med landbruksdrift.*Fjernvarmeanlegg:* betegnelse på teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere, jf. [lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. § 1-3 annet ledd](lov/1990-06-29-50/§1-3/ledd/2).
+I denne forskriften menes med
+
+1. *Mineralolje:* lett og tung fyringsolje, fyringsparafin og andre brensler av mineralsk opprinnelse som er flytende ved standard trykk og temperatur.
+2. *Fossil gass:* hydrokarboner av fossil opprinnelse som er i gassform ved normalt trykk og normal temperatur.
+3. *Oppvarming:* oppvarming av rom, ventilasjonsluft og tappevann. Byggvarme regnes også som oppvarming.
+4. *Byggvarme:* midlertidig oppvarming og tørking av bygninger og bygningsdeler som er under oppføring eller rehabilitering, herunder herding av betong, tørking av maling mv. Som byggvarme menes ikke oppvarming der formålet er skadeforebyggende tørking etter alvorlige og uforutsette hendelser.
+5. *Bygning:* konstruksjon med tak, vegger og tekniske installasjoner. Som bygning regnes også brakker og andre midlertidige bygninger, samt bygninger som er under oppføring eller endring.
+6. *Driftsbygning i landbruket:* Bygning som er et nødvendig ledd i driften eller som er et driftsmiddel i forbindelse med landbruksdrift.
+7. *Fjernvarmeanlegg:* betegnelse på teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere, jf. [lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. § 1-3 annet ledd](lov/1990-06-29-50/§1-3/ledd/2).
 
 > Endret ved forskrifter [7 jan 2021 nr. 49](forskrift/2021-01-07-49). [24 juni 2025 nr. 1295](forskrift/2025-06-24-1295) (i kraft 1 juli 2025).
 

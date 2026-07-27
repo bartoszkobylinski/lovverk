@@ -15,7 +15,7 @@ xml_hash: "96790e5b7305ee06d6f07d1fd55b051e3a6f0d7694e702a0843c1f41cf051a23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring mv. av skatt
 
 ### § 1-2-1. Andre offentlige krav
 
-Skattebetalingsloven skal gjelde for avgifter som nevnt i følgende forskrifter når de skal kreves opp ved innførsel eller utførsel av varer:[forskrift 13. desember 2000 nr. 1253](forskrift/2000-12-13-1253) om samordnet innkreving av avgift på fiskeeksport[forskrift 20. desember 2012 nr. 1417](forskrift/2012-12-20-1417) om forskningsavgift på landbruksprodukter.
+Skattebetalingsloven skal gjelde for avgifter som nevnt i følgende forskrifter når de skal kreves opp ved innførsel eller utførsel av varer:
+
+1. [forskrift 13. desember 2000 nr. 1253](forskrift/2000-12-13-1253) om samordnet innkreving av avgift på fiskeeksport
+2. [forskrift 20. desember 2012 nr. 1417](forskrift/2012-12-20-1417) om forskningsavgift på landbruksprodukter.
 
 > Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [8 jan 2010 nr. 58](forskrift/2010-01-08-58) (i kraft straks med virkning også for krav oppstått før dette), [4 mars 2013 nr. 241](forskrift/2013-03-04-241), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
 
@@ -156,7 +159,12 @@ Departementets myndighet etter [skattebetalingsloven kapittel 5](lov/2005-06-17-
 
 ### § 5-1-1. Skattekorttyper
 
-(1) Det er fire typer skattekort:Tabellkort som viser hvilken tabell det skal trekkes etter, og hvilken prosentsats som skal brukes ved forskuddstrekk i ytelser som det ikke kan trekkes i etter tabell.Prosentkort som viser hvilken prosentsats det skal trekkes etter.Frikort som bekrefter at skattyteren er fritatt for forskuddstrekk hele året eller i en bestemt del av året.Fribeløpskort (frikort med beløpsgrense) som bekrefter at skattyteren er fritatt for forskuddstrekk inntil en fastsatt beløpsgrense.
+(1) Det er fire typer skattekort:
+
+1. Tabellkort som viser hvilken tabell det skal trekkes etter, og hvilken prosentsats som skal brukes ved forskuddstrekk i ytelser som det ikke kan trekkes i etter tabell.
+2. Prosentkort som viser hvilken prosentsats det skal trekkes etter.
+3. Frikort som bekrefter at skattyteren er fritatt for forskuddstrekk hele året eller i en bestemt del av året.
+4. Fribeløpskort (frikort med beløpsgrense) som bekrefter at skattyteren er fritatt for forskuddstrekk inntil en fastsatt beløpsgrense.
 
 > Endret ved [forskrift 27 sep 2013 nr. 1149](forskrift/2013-09-27-1149) (fom inntektsåret 2014).
 
@@ -220,7 +228,19 @@ For å få skattekort, må en utlending ha oppholdstillatelse med adgang til arb
 
 ### § 5-2-2. Prosentkort
 
-(1) Prosentkort skal utstedes når skattyteren har slike inntekts- og formuesforhold at prosenttrekk vil gi vesentlig bedre samsvar mellom forskudd og forventet fastsatt skatt og trygdeavgift enn tabelltrekk. Det gjelder for eksempel når:skattyteren har betydelig inntekt hos flere arbeidsgivere,det ikke er utarbeidet trekktabeller som i tilstrekkelig grad kan ta hensyn til summen av skattyters øvrige økonomiske forhold. Forhold som alene eller sammen kan føre til at det skal utskrives prosentkort, kan være:betydelige fradrag i alminnelig inntektbetydelige skattepliktige, men ikke trekkpliktige inntekterbetydelig formueskattebegrensning etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1)fastsetting av skatt for ektefeller under ett etter [skatteloven § 2-10](lov/1999-03-26-14/§2-10), jf. [§ 2-13](lov/1999-03-26-14/§2-13) første ledd.skattyter vil være uten trekkpliktig inntekt av betydning for en lengre periode,skattyter vil få trekkpliktig inntekt av betydning som deltaker i fiske eller fangstvirksomhet, herunder hvalfangst (hyre, lott, prosenter),skattyter omfattes av [§ 5-2-3](forskrift/2007-12-21-1766/§5-2-3).
+(1) Prosentkort skal utstedes når skattyteren har slike inntekts- og formuesforhold at prosenttrekk vil gi vesentlig bedre samsvar mellom forskudd og forventet fastsatt skatt og trygdeavgift enn tabelltrekk. Det gjelder for eksempel når:
+
+1. skattyteren har betydelig inntekt hos flere arbeidsgivere,
+2. det ikke er utarbeidet trekktabeller som i tilstrekkelig grad kan ta hensyn til summen av skattyters øvrige økonomiske forhold. Forhold som alene eller sammen kan føre til at det skal utskrives prosentkort, kan være:
+
+   - betydelige fradrag i alminnelig inntekt
+   - betydelige skattepliktige, men ikke trekkpliktige inntekter
+   - betydelig formue
+   - skattebegrensning etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1)
+   - fastsetting av skatt for ektefeller under ett etter [skatteloven § 2-10](lov/1999-03-26-14/§2-10), jf. [§ 2-13](lov/1999-03-26-14/§2-13) første ledd.
+3. skattyter vil være uten trekkpliktig inntekt av betydning for en lengre periode,
+4. skattyter vil få trekkpliktig inntekt av betydning som deltaker i fiske eller fangstvirksomhet, herunder hvalfangst (hyre, lott, prosenter),
+5. skattyter omfattes av [§ 5-2-3](forskrift/2007-12-21-1766/§5-2-3).
 
 (2) For barn som det fastsettes skatt for under ett med foreldrene, jf. [skatteloven § 2-14](lov/1999-03-26-14/§2-14) første ledd, og som antas å få høyere trekkpliktig inntekt enn beløpsgrensen i fribeløpskortet, skal det utstedes prosentkort. Prosentsatsen fastsettes slik at forskuddstrekket svarer til skatten av barnets inntekt beregnet på toppen av foreldrenes inntekt.
 
@@ -286,9 +306,18 @@ Når det er forsvarlig grunn til å regne med at inntekten ikke skal skattlegges
 
 (1) Hvis arbeidsgiver har gjennomført forskuddstrekk i ytelser som ikke er skattepliktige eller trekkpliktige eller trekket for øvrig er beregnet for høyt, og arbeidsgiver ikke korrigerer trekket etter [§ 5-5-2](forskrift/2007-12-21-1766/§5-5-2), kan skattekontoret tilbakebetale for mye trukket forskuddstrekk til arbeidsgiver. Slik tilbakebetaling kan senest skje 31. januar i året etter inntektsåret.
 
-(2) Hvis det feilaktig er utbetalt lønn, pensjon eller annen ytelse, kan arbeidsgiver få tilbakebetalt trekkbeløpet hvis én av følgende betingelser er oppfylt:skattyter har ikke mottatt ytelsen, ellerskattyter har mottatt ytelsen og enten:tilbakebetalt netto mottatt ytelse til arbeidsgiver før 31. januar i året etter inntektsåret, ellerdet foreligger dom, kjennelse, rettsforlik, forvaltningsvedtak eller bindende avtale før 31. januar i året etter inntektsåret, som forplikter skattyter til å tilbakebetale nettoytelsen.
+(2) Hvis det feilaktig er utbetalt lønn, pensjon eller annen ytelse, kan arbeidsgiver få tilbakebetalt trekkbeløpet hvis én av følgende betingelser er oppfylt:
 
-(3) Etter at skatteoppgjøret er foretatt, kan arbeidsgiver, i tilfeller som nevnt i andre ledd, få tilbakebetalt trekkdelen av fastsatt skatt hvis én av følgende betingelser er oppfylt:skattyter har tilbakebetalt netto mottatt ytelse til arbeidsgiver, ellerdet foreligger dom, kjennelse, rettsforlik, forvaltningsvedtak eller bindende avtale som forplikter skattyter til å tilbakebetale nettoytelsen.
+1. skattyter har ikke mottatt ytelsen, eller
+2. skattyter har mottatt ytelsen og enten:
+
+   1. tilbakebetalt netto mottatt ytelse til arbeidsgiver før 31. januar i året etter inntektsåret, eller
+   2. det foreligger dom, kjennelse, rettsforlik, forvaltningsvedtak eller bindende avtale før 31. januar i året etter inntektsåret, som forplikter skattyter til å tilbakebetale nettoytelsen.
+
+(3) Etter at skatteoppgjøret er foretatt, kan arbeidsgiver, i tilfeller som nevnt i andre ledd, få tilbakebetalt trekkdelen av fastsatt skatt hvis én av følgende betingelser er oppfylt:
+
+1. skattyter har tilbakebetalt netto mottatt ytelse til arbeidsgiver, eller
+2. det foreligger dom, kjennelse, rettsforlik, forvaltningsvedtak eller bindende avtale som forplikter skattyter til å tilbakebetale nettoytelsen.
 
 (4) Det er et vilkår for korreksjon med tilbakebetaling av trekkbeløp etter denne bestemmelsen, at rapportering skjer korrekt etter reglene i [a-opplysningsloven](lov/2012-06-22-43) med forskrifter.
 
@@ -366,7 +395,10 @@ Trekkbeløpet skal rundes av nedover til nærmeste hele krone.
 
 ### § 5-6-1. Feriepenger og lønn i ferien som det skal foretas forskuddstrekk i
 
-(1) Det skal foretas forskuddstrekk i:feriepenger som på grunn av fratreden utbetales i opptjeningsåret. Det samme gjelder avtalefestede feriepenger eller avtalefestet lønn for opptjent feriefritid,tillegg til feriepenger eller lønn for ekstra ferie for arbeidstakere over 60 år.
+(1) Det skal foretas forskuddstrekk i:
+
+1. feriepenger som på grunn av fratreden utbetales i opptjeningsåret. Det samme gjelder avtalefestede feriepenger eller avtalefestet lønn for opptjent feriefritid,
+2. tillegg til feriepenger eller lønn for ekstra ferie for arbeidstakere over 60 år.
 
 (2) Feriepenger til arbeidstakere med fribeløpskort omfattes av fribeløpet på samme måte som lønn. Overstiger samlet utbetaling beløpsgrensen, skal forskuddstrekk også gjennomføres i feriepenger.
 
@@ -374,7 +406,10 @@ Trekkbeløpet skal rundes av nedover til nærmeste hele krone.
 
 (1) Arbeidsgiver som under sykdom betaler ut full lønn og selv innkasserer sykepengene etter [folketrygdloven § 22-3](lov/1997-02-28-19/§22-3) eller fra privat syke- og ulykkesforsikring, skal beregne forskuddstrekket av full lønn. Det samme gjelder når arbeidsgiveren under sykdom betaler ut differansen mellom full lønn og sykepengene. Får arbeidstakeren sykepengene i tillegg til full lønn, skal arbeidsgiveren også ta sykepengene med i beregningsgrunnlaget for forskuddstrekket. Som full lønn regnes regulativlønn eller annen fast lønn, selv om arbeidstakeren normalt har tillegg i form av akkordfortjeneste, overtidsgodtgjørelse, provisjon mv.
 
-(2) Bestemmelsene i første ledd gjelder tilsvarende for:omsorgspenger ved barns sykdom, jf. [folketrygdloven § 9-5](lov/1997-02-28-19/§9-5) til [§ 9-9](lov/1997-02-28-19/§9-9),foreldrepenger, jf. [folketrygdloven kapittel 14](lov/1997-02-28-19/kap14).
+(2) Bestemmelsene i første ledd gjelder tilsvarende for:
+
+1. omsorgspenger ved barns sykdom, jf. [folketrygdloven § 9-5](lov/1997-02-28-19/§9-5) til [§ 9-9](lov/1997-02-28-19/§9-9),
+2. foreldrepenger, jf. [folketrygdloven kapittel 14](lov/1997-02-28-19/kap14).
 
 > Endret ved [forskrift 19 des 2008 nr. 1487](forskrift/2008-12-19-1487).
 
@@ -394,7 +429,10 @@ Ved beregning av forskuddstrekk skal arbeidsgiveren gjøre fradrag i bruttoveder
 
 ### § 5-6-10. Visse naturalytelser
 
-(1) Følgende naturalytelser skal ikke tas med i beregningsgrunnlaget for forskuddstrekk:Fri transport ved reise til og fra arbeidet og ved besøksreise til hjemmet for pendler hvis arbeidsgiver besørger transporten ved å eie eller disponere plass på kommunikasjonsmiddel. Kjøper arbeidsgiver billett hos reiseselskapet, gjelder trekkfritaket bare for kostnader som ikke overstiger 120 000 kroner i året. Begrensningen på 120 000 kroner gjelder ikke for pendleres besøksreiser med fly innenfor EØS-området. Trekkfritaket for arbeidsgivers dekning av pendlerreiser gjelder ikke for pendler som har fått skattekort med standardfradrag for utenlandsk arbeidstaker eller skattekort for arbeidstaker som skattlegges etter særreglene om skattlegging av utenlandske arbeidstakere i [skatteloven kapittel 20](lov/1999-03-26-14/kap20), jf. Finansdepartementets [forskrift 19. november 1999 nr. 1158 til skatteloven § 5-11-1 annet ledd](forskrift/1999-11-19-1158/§5-11-1/ledd/2).Naturalytelse i form av helt eller delvis fri bruk eller lån av kapitalgjenstander mv. til arbeidstakeren uten overdragelse av eiendomsretten, unntatt bil og bolig, jf. [§ 5-8-11](forskrift/2007-12-21-1766/§5-8-11) og [§ 5-8-20](forskrift/2007-12-21-1766/§5-8-20). Full disposisjonsrett i den vesentlige del av gjenstandens økonomiske levetid likestilles med overdragelse av eiendomsretten.
+(1) Følgende naturalytelser skal ikke tas med i beregningsgrunnlaget for forskuddstrekk:
+
+1. Fri transport ved reise til og fra arbeidet og ved besøksreise til hjemmet for pendler hvis arbeidsgiver besørger transporten ved å eie eller disponere plass på kommunikasjonsmiddel. Kjøper arbeidsgiver billett hos reiseselskapet, gjelder trekkfritaket bare for kostnader som ikke overstiger 120 000 kroner i året. Begrensningen på 120 000 kroner gjelder ikke for pendleres besøksreiser med fly innenfor EØS-området. Trekkfritaket for arbeidsgivers dekning av pendlerreiser gjelder ikke for pendler som har fått skattekort med standardfradrag for utenlandsk arbeidstaker eller skattekort for arbeidstaker som skattlegges etter særreglene om skattlegging av utenlandske arbeidstakere i [skatteloven kapittel 20](lov/1999-03-26-14/kap20), jf. Finansdepartementets [forskrift 19. november 1999 nr. 1158 til skatteloven § 5-11-1 annet ledd](forskrift/1999-11-19-1158/§5-11-1/ledd/2).
+2. Naturalytelse i form av helt eller delvis fri bruk eller lån av kapitalgjenstander mv. til arbeidstakeren uten overdragelse av eiendomsretten, unntatt bil og bolig, jf. [§ 5-8-11](forskrift/2007-12-21-1766/§5-8-11) og [§ 5-8-20](forskrift/2007-12-21-1766/§5-8-20). Full disposisjonsrett i den vesentlige del av gjenstandens økonomiske levetid likestilles med overdragelse av eiendomsretten.
 
 (2) For arbeidsgivers dekning av tillitsvalgtes utgifter til fagforeningsarbeid gjelder bestemmelsene i denne paragrafen så langt de passer.
 
@@ -422,11 +460,31 @@ Ved beregning av forskuddstrekk skal arbeidsgiveren gjøre fradrag i bruttoveder
 
 ### § 5-6-12. Regulativ- og tariffbestemte godtgjørelser, godtgjørelser etter Skattedirektoratets satser og legitimasjonskrav
 
-(1) Utgiftsgodtgjørelse til kost til arbeidstaker som av hensyn til sitt arbeid må bo utenfor sitt hjem, herunder ved tjenestereiser med overnatting, er i sin helhet fritatt for forskuddstrekk når:arbeidstaker har bodd på hotell og kostgodtgjørelsenikke overstiger satsen i Skattedirektoratets årlige satsforskrift, ogoppfyller legitimasjonskravene i tredje ledd, ellerarbeidstaker har bodd på hybel uten kokemulighet, eller på pensjonat eller brakke, og kostgodtgjørelsenikke overstiger satsen i Skattedirektoratets årlige satsforskrift, ogoppfyller legitimasjonskravene i tredje ledd, ellerarbeidstaker på yrkes-/tjenestereise har bodd på hybel med kokemuligheter eller overnattet privat, og kostgodtgjørelsenikke overstiger satsen i Skattedirektoratets årlige satsforskrift, ogoppfyller legitimasjonskravene i tredje ledd, unntatt opplysning om navn og adresse på overnattingssted eller utleier.
+(1) Utgiftsgodtgjørelse til kost til arbeidstaker som av hensyn til sitt arbeid må bo utenfor sitt hjem, herunder ved tjenestereiser med overnatting, er i sin helhet fritatt for forskuddstrekk når:
+
+1. arbeidstaker har bodd på hotell og kostgodtgjørelsen
+
+   - ikke overstiger satsen i Skattedirektoratets årlige satsforskrift, og
+   - oppfyller legitimasjonskravene i tredje ledd, eller
+2. arbeidstaker har bodd på hybel uten kokemulighet, eller på pensjonat eller brakke, og kostgodtgjørelsen
+
+   - ikke overstiger satsen i Skattedirektoratets årlige satsforskrift, og
+   - oppfyller legitimasjonskravene i tredje ledd, eller
+3. arbeidstaker på yrkes-/tjenestereise har bodd på hybel med kokemuligheter eller overnattet privat, og kostgodtgjørelsen
+
+   - ikke overstiger satsen i Skattedirektoratets årlige satsforskrift, og
+   - oppfyller legitimasjonskravene i tredje ledd, unntatt opplysning om navn og adresse på overnattingssted eller utleier.
 
 (2) Trekkfritaket i første ledd bokstav a og b gjelder ikke utgiftsgodtgjørelse til kost til pendler som har fått skattekort med standardfradrag for utenlandsk arbeidstaker eller skattekort for arbeidstaker som skattlegges etter særreglene om skattlegging av utenlandske arbeidstakere i [skatteloven kapittel 20](lov/1999-03-26-14/kap20), jf. Finansdepartementets [forskrift 19. november 1999 nr. 1158 til skatteloven § 5-11-1 annet ledd](forskrift/1999-11-19-1158/§5-11-1/ledd/2).
 
-(3) Utgiftsgodtgjørelse til kost etter første ledd skal legitimeres ved en fortløpende oppstilling (reiseregning) som underskrives av arbeidstakeren. Den skal vise hvordan arbeidstakeren har innrettet seg under arbeidsoppholdet/tjenestereisen. Reiseregningen skal minst ha følgende innhold:arbeidstakerens navn og adresse og underskrift,dato og klokkeslett for avreise og hjemkomst for hver yrkes- eller tjenestereise eller pendlers reiser ved besøk i hjemmet,formålet med reisen,hvilke arrangement arbeidstakeren har deltatt på,navn og adresse på overnattingssted eller utleier, og ved flere overnattingssteder dato for overnattingene, ogtype losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel må det oppgis om den har kokemulighet.
+(3) Utgiftsgodtgjørelse til kost etter første ledd skal legitimeres ved en fortløpende oppstilling (reiseregning) som underskrives av arbeidstakeren. Den skal vise hvordan arbeidstakeren har innrettet seg under arbeidsoppholdet/tjenestereisen. Reiseregningen skal minst ha følgende innhold:
+
+- arbeidstakerens navn og adresse og underskrift,
+- dato og klokkeslett for avreise og hjemkomst for hver yrkes- eller tjenestereise eller pendlers reiser ved besøk i hjemmet,
+- formålet med reisen,
+- hvilke arrangement arbeidstakeren har deltatt på,
+- navn og adresse på overnattingssted eller utleier, og ved flere overnattingssteder dato for overnattingene, og
+- type losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel må det oppgis om den har kokemulighet.
 
 (4) Utgiftsgodtgjørelse til kost til langtransportsjåfør ved kjøring i Norge og utlandet er i sin helhet fritatt for forskuddstrekk dersom godtgjørelsen ikke overstiger satsen i Skattedirektoratets årlige satsforskrift og den oppfyller legitimasjonskravene i tredje ledd unntatt opplysninger om arrangement, overnatting og losji.
 
@@ -442,7 +500,15 @@ Ved beregning av forskuddstrekk skal arbeidsgiveren gjøre fradrag i bruttoveder
 
 (10) Bilgodtgjørelse for yrkes- eller tjenestekjøring er trekkfri bare når godtgjørelsen utbetales som kilometergodtgjørelse etter satser i Skattedirektoratets årlige satsforskrift og i samsvar med legitimasjonskravene i ellevte ledd. Kilometergodtgjørelse for arbeidsreiser, jf. Finansdepartementets [forskrift 19. november 1999 nr. 1158 til skatteloven § 6-44 del B](forskrift/1999-11-19-1158/KAPITTEL_6-4-3-2), omfattes ikke av trekkfritaket, med unntak av arbeidsreiser som er skattefrie etter nevnte forskrift [§ 5-15-5](forskrift/1999-11-19-1158/§5-15-5).
 
-(11) Bilgodtgjørelse etter tiende ledd skal legitimeres ved en fortløpende oppstilling (reiseregning) som underskrives av arbeidstakeren. Reiseregningen skal minst ha følgende innhold:arbeidstakerens navn og adresse og underskrift,dato for avreise og hjemkomst for hver yrkes- eller tjenestereise,formålet med reisen,hvilke arrangement arbeidstakeren har deltatt på,fremstilling av reiseruten med angivelse av utgangs- og endepunkt, lokal kjøring på oppdragsstedet og årsaken til eventuelle omkjøringer,totalt utkjørt distanse i forbindelse med yrkes- eller tjenestereise, for eksempel beregnet på grunnlag av bilens kilometerteller, GPS-basert elektronisk kjørebok eller nettbasert kartprogram, ognavn på passasjer det kreves passasjertillegg for.
+(11) Bilgodtgjørelse etter tiende ledd skal legitimeres ved en fortløpende oppstilling (reiseregning) som underskrives av arbeidstakeren. Reiseregningen skal minst ha følgende innhold:
+
+- arbeidstakerens navn og adresse og underskrift,
+- dato for avreise og hjemkomst for hver yrkes- eller tjenestereise,
+- formålet med reisen,
+- hvilke arrangement arbeidstakeren har deltatt på,
+- fremstilling av reiseruten med angivelse av utgangs- og endepunkt, lokal kjøring på oppdragsstedet og årsaken til eventuelle omkjøringer,
+- totalt utkjørt distanse i forbindelse med yrkes- eller tjenestereise, for eksempel beregnet på grunnlag av bilens kilometerteller, GPS-basert elektronisk kjørebok eller nettbasert kartprogram, og
+- navn på passasjer det kreves passasjertillegg for.
 
 (12) Alle oppstillinger og reiseregninger etter denne bestemmelsen skal oppbevares som bilag til arbeidsgiverens regnskaper.
 
@@ -480,17 +546,34 @@ Utgiftsgodtgjørelser som utbetales med faste beløp per time, dag, uke, måned 
 
 ### § 5-6-16. Diverse godtgjørelser
 
-Det skal ikke foretas forskuddstrekk i følgende godtgjørelser:betaling til lagrettemenn, domsmenn, skjønnsmenn og jordskiftemenn når betalingen ikke overstiger den sats som er fastsatt i [rettsgebyrforskriften § 1-1](forskrift/1983-02-15-86/§1-1) og [§ 1-2](forskrift/1983-02-15-86/§1-2),betaling til rettsvitner, registreringsvitner mfl. etter [rettsgebyrforskriften § 1-3](forskrift/1983-02-15-86/§1-3),vitnegodtgjørelse etter [lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v.,godtgjørelse (administrasjonsgodtgjørelse) til områdesjefer i Heimevernet,familietillegg til heimevernspersonell under øvelser.
+Det skal ikke foretas forskuddstrekk i følgende godtgjørelser:
+
+1. betaling til lagrettemenn, domsmenn, skjønnsmenn og jordskiftemenn når betalingen ikke overstiger den sats som er fastsatt i [rettsgebyrforskriften § 1-1](forskrift/1983-02-15-86/§1-1) og [§ 1-2](forskrift/1983-02-15-86/§1-2),
+2. betaling til rettsvitner, registreringsvitner mfl. etter [rettsgebyrforskriften § 1-3](forskrift/1983-02-15-86/§1-3),
+3. vitnegodtgjørelse etter [lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v.,
+4. godtgjørelse (administrasjonsgodtgjørelse) til områdesjefer i Heimevernet,
+5. familietillegg til heimevernspersonell under øvelser.
 
 ### § 5-6-17. Visse pensjoner, stønader og andre ytelser
 
-Det skal ikke foretas forskuddstrekk i:sykepenger etter [folketrygdloven § 8-34](lov/1997-02-28-19/§8-34) og [§ 8-38](lov/1997-02-28-19/§8-38) og svangerskapspenger og foreldrepenger etter [folketrygdloven § 14-4](lov/1997-02-28-19/§14-4) og [§ 14-5](lov/1997-02-28-19/§14-5) som ytes på grunnlag av virksomhetsinntekt, med mindre virksomhetsinntekten er trekkpliktig etter særlige bestemmelser,kommunalt tillegg til folketrygdpensjon. Foretas utbetalingen gjennom NAV-kontoret eller sammen med annen trekkpliktig ytelse, skal forskuddstrekk likevel foretas,pensjon som er avtalt ved overdragelse av næring e.l.,livrenter som ikke har sammenheng med et tidligere arbeidsforhold,utdelinger fra legater, milde stiftelser o.l. når utbetalingen ikke har sammenheng med tidligere arbeidsforhold,utbetalinger til idrettsutøvere fra bedrifter og sponsorer, når midlene settes inn i fond godkjent av Finansdepartementet.
+Det skal ikke foretas forskuddstrekk i:
+
+1. sykepenger etter [folketrygdloven § 8-34](lov/1997-02-28-19/§8-34) og [§ 8-38](lov/1997-02-28-19/§8-38) og svangerskapspenger og foreldrepenger etter [folketrygdloven § 14-4](lov/1997-02-28-19/§14-4) og [§ 14-5](lov/1997-02-28-19/§14-5) som ytes på grunnlag av virksomhetsinntekt, med mindre virksomhetsinntekten er trekkpliktig etter særlige bestemmelser,
+2. kommunalt tillegg til folketrygdpensjon. Foretas utbetalingen gjennom NAV-kontoret eller sammen med annen trekkpliktig ytelse, skal forskuddstrekk likevel foretas,
+3. pensjon som er avtalt ved overdragelse av næring e.l.,
+4. livrenter som ikke har sammenheng med et tidligere arbeidsforhold,
+5. utdelinger fra legater, milde stiftelser o.l. når utbetalingen ikke har sammenheng med tidligere arbeidsforhold,
+6. utbetalinger til idrettsutøvere fra bedrifter og sponsorer, når midlene settes inn i fond godkjent av Finansdepartementet.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1663](forskrift/2009-12-18-1663) (fom inntektsåret 2010), [24 mai 2017 nr. 647](forskrift/2017-05-24-647) (med virkning fra 1 juni 2017), [13 nov 2024 nr. 2753](forskrift/2024-11-13-2753) (i kraft 1 jan 2025).
 
 ### § 5-6-18. Godtgjørelser til personer som verken er bosatt i Norge eller midlertidig oppholder seg her
 
-Er mottakeren verken bosatt i riket etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1) eller midlertidig oppholder seg her på det tidspunktet det oppstår adgang til å få beløpet utbetalt, skal det ikke foretas forskuddstrekk i følgende godtgjørelser:vartpenger,godtgjørelse utenfor tjenesteforhold for arbeid eller oppdrag,godtgjørelse fra andre enn staten for arbeid i tjeneste når arbeidet ikke er utført her i riket.
+Er mottakeren verken bosatt i riket etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1) eller midlertidig oppholder seg her på det tidspunktet det oppstår adgang til å få beløpet utbetalt, skal det ikke foretas forskuddstrekk i følgende godtgjørelser:
+
+1. vartpenger,
+2. godtgjørelse utenfor tjenesteforhold for arbeid eller oppdrag,
+3. godtgjørelse fra andre enn staten for arbeid i tjeneste når arbeidet ikke er utført her i riket.
 
 > Endret ved [forskrift 18 des 2009 nr. 1663](forskrift/2009-12-18-1663) (fom inntektsåret 2010).
 
@@ -500,7 +583,11 @@ Det skal ikke foretas forskuddstrekk i godtgjørelser til utenlandske artister m
 
 ### § 5-6-20. Godtgjørelse utenfor tjenesteforhold
 
-Det skal ikke foretas forskuddstrekk i godtgjørelse utenfor tjenesteforhold for arbeid eller oppdrag:når arbeidet eller oppdraget gjelder transport med hest eller ved maskinkraft, og den som har tatt på seg transporten, holder transportmidlet,når arbeidet eller oppdraget er utført med maskin, og en betydelig del av godtgjørelsen er vederlag for maskinhold,når det til utføringen av arbeidet eller oppdraget har gått med materialer, og en betydelig del av godtgjørelsen er vederlag for materialene.
+Det skal ikke foretas forskuddstrekk i godtgjørelse utenfor tjenesteforhold for arbeid eller oppdrag:
+
+1. når arbeidet eller oppdraget gjelder transport med hest eller ved maskinkraft, og den som har tatt på seg transporten, holder transportmidlet,
+2. når arbeidet eller oppdraget er utført med maskin, og en betydelig del av godtgjørelsen er vederlag for maskinhold,
+3. når det til utføringen av arbeidet eller oppdraget har gått med materialer, og en betydelig del av godtgjørelsen er vederlag for materialene.
 
 ### § 5-6-21. Forskuddstrekk i barnepensjon
 
@@ -544,7 +631,13 @@ Skattedirektoratet kan etter søknad gi helt eller delvis fritak fra plikten til
 
 ### § 5-7-1. Feriepenger og lønn i ferien
 
-(1) Det skal ikke foretas forskuddstrekk i:feriepenger som utbetales i ferieåret (kalenderåret etter opptjeningsåret) og som er beregnet etter [lov 29. april 1988 nr. 21 om ferie § 10](lov/1988-04-29-21/§10) nr. 2, jf. nr. 1 eller etter [forskrift 16. september 1998 nr. 890 om dagpenger under arbeidsløshet § 8-1](forskrift/1998-09-16-890/§8-1),avtalefestede feriepenger eller avtalefestet lønn for opptjent feriefritid som utbetales i ferieåret når ytelsene er opptjent i opptjeningsåret. Overstiger utbetalingen feriepenger beregnet etter [ferieloven](lov/1988-04-29-21) med mer enn 21 prosent, skal det foretas forskuddstrekk i det overskytende beløpet,feriepenger som arbeidsgiveren ifølge overenskomst utbetaler regelmessig ved hver lønnsutbetaling eller ved andre avsluttede lønnsperioder. Dette gjelder selv om utbetalingen foretas i opptjeningsåret. Det samme gjelder slik regelmessig utbetaling av avtalefestet lønn for opptjent feriefritid,opptjente feriepenger som forfaller til utbetaling ved dødsfall,feriegodtgjørelse fra Feriefondet for fiskere.
+(1) Det skal ikke foretas forskuddstrekk i:
+
+1. feriepenger som utbetales i ferieåret (kalenderåret etter opptjeningsåret) og som er beregnet etter [lov 29. april 1988 nr. 21 om ferie § 10](lov/1988-04-29-21/§10) nr. 2, jf. nr. 1 eller etter [forskrift 16. september 1998 nr. 890 om dagpenger under arbeidsløshet § 8-1](forskrift/1998-09-16-890/§8-1),
+2. avtalefestede feriepenger eller avtalefestet lønn for opptjent feriefritid som utbetales i ferieåret når ytelsene er opptjent i opptjeningsåret. Overstiger utbetalingen feriepenger beregnet etter [ferieloven](lov/1988-04-29-21) med mer enn 21 prosent, skal det foretas forskuddstrekk i det overskytende beløpet,
+3. feriepenger som arbeidsgiveren ifølge overenskomst utbetaler regelmessig ved hver lønnsutbetaling eller ved andre avsluttede lønnsperioder. Dette gjelder selv om utbetalingen foretas i opptjeningsåret. Det samme gjelder slik regelmessig utbetaling av avtalefestet lønn for opptjent feriefritid,
+4. opptjente feriepenger som forfaller til utbetaling ved dødsfall,
+5. feriegodtgjørelse fra Feriefondet for fiskere.
 
 (2) For månedslønte som har hatt lønn hos arbeidsgiveren i hele opptjeningsåret, kan trekkfritak gjennomføres for en vanlig månedslønn i stedet for etter første ledd bokstav a eller b. For feriepenger som nevnt i første ledd bokstav c kan det avtales at trekkfritak gjennomføres i en månedslønn i stedet for ved hver utbetaling. Det skal ikke foretas trekk i eventuelt tillegg til månedslønnen som følger av [lov 29. april 1988 nr. 21](lov/1988-04-29-21) om ferie [§ 10](lov/1988-04-29-21/§10) nr. 2, jf. [§ 11](lov/1988-04-29-21/§11) nr. 1 annet ledd annet punktum. Det skal heller ikke foretas trekk i eventuelt tillegg for månedslønte med avtalefestet høyere sats enn etter [lov 29. april 1988 nr. 21](lov/1988-04-29-21) om ferie [§ 10](lov/1988-04-29-21/§10) nr. 2, begrenset oppad til 12,3 prosent.
 
@@ -592,7 +685,13 @@ Skattedirektoratet kan etter søknad gi helt eller delvis fritak fra plikten til
 
 ### § 5-8-10. Kost og losji
 
-(1) Skattedirektoratet fastsetter før begynnelsen av hvert inntektsår satser for verdien av følgende naturalytelser:fritt opphold (kost og losji),fri kost (alle måltider),fri kost (to måltider),fri kost (ett måltid),fritt losji (ett eller delt rom).
+(1) Skattedirektoratet fastsetter før begynnelsen av hvert inntektsår satser for verdien av følgende naturalytelser:
+
+- fritt opphold (kost og losji),
+- fri kost (alle måltider),
+- fri kost (to måltider),
+- fri kost (ett måltid),
+- fritt losji (ett eller delt rom).
 
 (2) Skattedirektoratets satser skal, unntatt i de tilfeller som er nevnt i tredje ledd, legges til grunn av arbeidsgiveren ved beregningen av forskuddstrekk. Ved beregningen skal det regnes med det antall dager som arbeidstakeren faktisk mottar ytelsene.
 
@@ -626,7 +725,10 @@ Skattedirektoratet kan etter søknad gi helt eller delvis fritak fra plikten til
 
 ### § 5-8-12. Rentefordel ved rimelige lån i arbeidsforhold
 
-(1) Når det er gitt lån til rimelig rente i arbeidsforhold, skal forskjellen mellom det rentebeløpet som følger av normrentesatsen for disse lånene, jf. [skatteloven § 5-12](lov/1999-03-26-14/§5-12) fjerde ledd, og det rentebeløpet (inklusive gebyrer) som arbeidstakeren selv skal dekke, tas med i beregningsgrunnlaget for forskuddstrekk. Arbeidsgiveren skal for hver enkelt måned beregne rentefordelen til forskjellen mellomlånets saldo ved begynnelsen av hver måned multiplisert med normrentesatsen delt på 12 ogden faktiske renten (inklusive gebyrer) som i samsvar med låneavtalen beregnes å falle på den samme måneden.
+(1) Når det er gitt lån til rimelig rente i arbeidsforhold, skal forskjellen mellom det rentebeløpet som følger av normrentesatsen for disse lånene, jf. [skatteloven § 5-12](lov/1999-03-26-14/§5-12) fjerde ledd, og det rentebeløpet (inklusive gebyrer) som arbeidstakeren selv skal dekke, tas med i beregningsgrunnlaget for forskuddstrekk. Arbeidsgiveren skal for hver enkelt måned beregne rentefordelen til forskjellen mellom
+
+1. lånets saldo ved begynnelsen av hver måned multiplisert med normrentesatsen delt på 12 og
+2. den faktiske renten (inklusive gebyrer) som i samsvar med låneavtalen beregnes å falle på den samme måneden.
 
 (2) Ved beregning etter første ledd bokstav a og b, regnes del av måned som hel måned. Ved låneopptak etter den første i måneden medtas fordelen for denne måneden i beregningsgrunnlaget for forskuddstrekk for den påfølgende måned.
 
@@ -712,7 +814,13 @@ Arbeidsgiveren skal vedlegge regnskapet eller lønningslisten alle meldinger ved
 
 ### § 5-8-30. Hovedregelen om arbeidsgivers verdsettelse
 
-(1) Andre naturalytelser enn nevnt i [§ 5-6-10](forskrift/2007-12-21-1766/§5-6-10), [§ 5-8-10](forskrift/2007-12-21-1766/§5-8-10) til [§ 5-8-14](forskrift/2007-12-21-1766/§5-8-14) og [§ 5-8-20](forskrift/2007-12-21-1766/§5-8-20) skal tas med i beregningsgrunnlaget for forskuddstrekket med følgende verdi:Naturalytelser verdsettes til omsetningsverdi. Med omsetningsverdi menes den pris inklusive merverdiavgift som er allment tilgjengelig for forbrukere i sluttbrukermarkedet for samme vare eller tjeneste.Rabatter og tilbudspriser som er allment tilgjengelig for forbrukere kan tas med ved beregning av omsetningsverdien, når den reduserte prisen kan sannsynliggjøres ved annonse, prislister el.Opsjoner mv. i arbeidsforhold vedrørende aksje- og egenkapitalbevis verdsettes etter [skatteloven § 5-14 første ledd bokstav a](lov/1999-03-26-14/§5-14/ledd/1/bokstav/a).Fordel ved privat reise ved bruk av kort betalt av arbeidsgiver hvor kortet gjelder et ubegrenset antall reiser i et begrenset tidsrom, Travel Pass og lignende ordninger, verdsettes til normal rabattpris som oppnås i reiseselskapet for tilsvarende reise.Fordel ved arbeidsgivers dekning av personalforsikringer verdsettes til den enkelte arbeidstakers forholdsmessige andel av arbeidsgivers samlede premie til ordninger arbeidstakeren er omfattet av.
+(1) Andre naturalytelser enn nevnt i [§ 5-6-10](forskrift/2007-12-21-1766/§5-6-10), [§ 5-8-10](forskrift/2007-12-21-1766/§5-8-10) til [§ 5-8-14](forskrift/2007-12-21-1766/§5-8-14) og [§ 5-8-20](forskrift/2007-12-21-1766/§5-8-20) skal tas med i beregningsgrunnlaget for forskuddstrekket med følgende verdi:
+
+1. Naturalytelser verdsettes til omsetningsverdi. Med omsetningsverdi menes den pris inklusive merverdiavgift som er allment tilgjengelig for forbrukere i sluttbrukermarkedet for samme vare eller tjeneste.
+2. Rabatter og tilbudspriser som er allment tilgjengelig for forbrukere kan tas med ved beregning av omsetningsverdien, når den reduserte prisen kan sannsynliggjøres ved annonse, prislister el.
+3. Opsjoner mv. i arbeidsforhold vedrørende aksje- og egenkapitalbevis verdsettes etter [skatteloven § 5-14 første ledd bokstav a](lov/1999-03-26-14/§5-14/ledd/1/bokstav/a).
+4. Fordel ved privat reise ved bruk av kort betalt av arbeidsgiver hvor kortet gjelder et ubegrenset antall reiser i et begrenset tidsrom, Travel Pass og lignende ordninger, verdsettes til normal rabattpris som oppnås i reiseselskapet for tilsvarende reise.
+5. Fordel ved arbeidsgivers dekning av personalforsikringer verdsettes til den enkelte arbeidstakers forholdsmessige andel av arbeidsgivers samlede premie til ordninger arbeidstakeren er omfattet av.
 
 (2) Dersom naturalytelsens omsetningsverdi ved salg til uavhengig tredjemann er påviselig lavere som følge av sesongsvingning, ukurans mv., kan naturalytelsen likevel verdsettes til denne lavere verdi. Arbeidsgiveren må kunne godtgjøre lavere verdi på overdragelsestidspunktet.
 
@@ -788,7 +896,15 @@ Fradrag i beregningsgrunnlaget for forskuddstrekk etter [skattebetalingsloven §
 
 ### § 5-10-2. Beregning av forskuddstrekk etter tabell
 
-(1) Tabelltrekk skal beregnes etter trekktabell med det tabellnummeret som er oppgitt i skattyterens skattekort. Trekktabellene skal nyttes slik:I lønn for høyst 4 dager skal arbeidsgiveren trekke etter den nærmest passende dagtabell.I lønn for 5 til 10 dager skal det trekkes etter uketabellen.I lønn for 11 til 17 dager skal det trekkes etter 14-dagers-tabellen. Når det gjelder lønn for en halv måned, skal arbeidsgiveren likevel bruke månedstabellen på det dobbelte lønnsbeløp og dele trekkbeløpet med 2.I lønn for 18 til 24 dager skal arbeidsgiveren bruke uketabellen på en tredjedel av lønnsbeløpet og multiplisere trekkbeløpet med 3.I lønn for minst 25 dager og høyst 1 måned og 3 dager skal det trekkes etter månedstabellen. Når lønnen gjelder 4 uker, og skattyteren regelmessig får lønnen avregnet for 4 uker, skal arbeidsgiveren dog bruke 14-dagertabellen på halvdelen av lønnsbeløpet og multiplisere trekkbeløpet med 2.Gjelder det lønn for flere måneder, eller hele måneder pluss minst 25 dager eller pluss høyst en uke, skal arbeidsgiveren dele lønnsbeløpet med nærmeste månedstall, lese av trekkbeløpet i månedstabellen og multiplisere dette med samme månedstall.I lønn for en måned pluss 4 til 24 dager, eller flere måneder pluss 8 til 24 dager skal lønnsbeløpet deles med nærmeste uketall, og trekkbeløpet skal avleses i uketabellen og multipliseres med samme uketall.
+(1) Tabelltrekk skal beregnes etter trekktabell med det tabellnummeret som er oppgitt i skattyterens skattekort. Trekktabellene skal nyttes slik:
+
+1. I lønn for høyst 4 dager skal arbeidsgiveren trekke etter den nærmest passende dagtabell.
+2. I lønn for 5 til 10 dager skal det trekkes etter uketabellen.
+3. I lønn for 11 til 17 dager skal det trekkes etter 14-dagers-tabellen. Når det gjelder lønn for en halv måned, skal arbeidsgiveren likevel bruke månedstabellen på det dobbelte lønnsbeløp og dele trekkbeløpet med 2.
+4. I lønn for 18 til 24 dager skal arbeidsgiveren bruke uketabellen på en tredjedel av lønnsbeløpet og multiplisere trekkbeløpet med 3.
+5. I lønn for minst 25 dager og høyst 1 måned og 3 dager skal det trekkes etter månedstabellen. Når lønnen gjelder 4 uker, og skattyteren regelmessig får lønnen avregnet for 4 uker, skal arbeidsgiveren dog bruke 14-dagertabellen på halvdelen av lønnsbeløpet og multiplisere trekkbeløpet med 2.
+6. Gjelder det lønn for flere måneder, eller hele måneder pluss minst 25 dager eller pluss høyst en uke, skal arbeidsgiveren dele lønnsbeløpet med nærmeste månedstall, lese av trekkbeløpet i månedstabellen og multiplisere dette med samme månedstall.
+7. I lønn for en måned pluss 4 til 24 dager, eller flere måneder pluss 8 til 24 dager skal lønnsbeløpet deles med nærmeste uketall, og trekkbeløpet skal avleses i uketabellen og multipliseres med samme uketall.
 
 (2) Når det avgjøres hvor langt tidsrom godtgjørelsen gjelder for, skal alle dager i tidsrommet regnes med, også fraværsdager (når ikke utbetaling fra NAV-kontoret erstatter lønnen), lørdager og søndager, hellig- og høytidsdager. Tidsrom som det etter [§ 5-7-1](forskrift/2007-12-21-1766/§5-7-1) og [§ 5-7-2](forskrift/2007-12-21-1766/§5-7-2) ikke skal foretas forskuddstrekk for, skal ikke medregnes. Når skattyteren ikke har lønn i ferien, skal feriedager ikke medregnes. Det samme gjelder når feriegodtgjørelse er utbetalt i en tidligere lønnsperiode. Når trekkpliktig feriegodtgjørelse til arbeidstakere over 60 år utbetales etter 31. desember i opptjeningsåret, går godtgjørelsen inn under bestemmelsene i første ledd. Ved valg mellom dagtabellene og mellom uke- og dagtabell etter første ledd bokstav a og b, skal arbeidsgiveren heller ikke regne med fraværsdager som det ikke betales lønn eller godtgjørelse for.
 
@@ -848,7 +964,12 @@ Ved gjennomføring av prosenttrekk skal beregningsgrunnlaget rundes av nedover t
 
 (1) Dersom det utbetalende selskapet ikke kjenner den endelige utbyttemottakerens identitet og skattemessige status, skal selskapet trekke 25 prosent kildeskatt i aksjeutbyttet.
 
-(2) Dersom aksjen er registrert på en konto i forvalters navn (NOM eller med angivelse av den endelige utbyttemottakerens navn) kan selskapet trekke lavere kildeskatt i samsvar med skatteavtale eller unnlate å trekke kildeskatt i medhold av [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5), dersom følgende dokumentasjon foreligger hos forvalter forut for skattetrekket:for personlige utbyttemottakere som krever redusert sats etter skatteavtale: Bostedsbekreftelse utstedt av skattemyndighetene i utbyttemottakerens bostedsland, som uttrykkelig bekrefter at utbyttemottakeren er bosatt der etter skatteavtalen med Norge. Bostedsbekreftelsen må ikke være eldre enn tre år på tidspunktet for skattetrekket. Hvis utbytteutdelingen er på mindre enn 10 000 kroner kreves ikke bostedsbekreftelse. For selskaper som ordinært deler ut utbytte mer enn en gang i løpet av inntektsåret, skal beløpsgrensen på 10 000 kroner etter tredje punktum fordeles på antall ordinære utbytteutdelinger i inntektsåret. Ved ekstraordinære utbytteutdelinger gjelder en ny beløpsgrense på 10 000 kroner.for utbyttemottakere som er juridiske personer og andre enheter som krever redusert sats etter skatteavtale: Dokumentasjon på tidligere mottatt refusjon av kildeskatt eller godkjenning fra norske skattemyndigheter om at utbyttemottakeren har krav på lavere skatt etter skatteavtale. Det må i tillegg foreligge bostedsbekreftelse utstedt av skattemyndighetene i utbyttemottakerens bostedsland, som uttrykkelig bekrefter at utbyttemottakeren er hjemmehørende der etter skatteavtalen med Norge. Bostedsbekreftelsen må ikke være eldre enn tre år på tidspunktet for skattetrekket.for utbyttemottakere som er juridiske personer hjemmehørende i EØS-området som krever fritak etter [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5): Dokumentasjon på tidligere mottatt refusjon av kildeskatt eller godkjenning fra norske skattemyndigheter om at utbyttemottakeren har krav på fritak fra kildeskatt etter [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5). Det må i tillegg foreligge bekreftelse på at utbyttemottakeren er hjemmehørende i et EØS-land, samt egenerklæring som bekrefter at grunnlaget for skattefritaket ikke har endret seg. Bostedsbekreftelsen og egenerklæringen må ikke være eldre enn tre år på tidspunktet for skattetrekket.bekreftelse fra utbyttemottaker som nevnt i bokstav a til c om at vedkommende er den endelige utbyttemottakeren.
+(2) Dersom aksjen er registrert på en konto i forvalters navn (NOM eller med angivelse av den endelige utbyttemottakerens navn) kan selskapet trekke lavere kildeskatt i samsvar med skatteavtale eller unnlate å trekke kildeskatt i medhold av [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5), dersom følgende dokumentasjon foreligger hos forvalter forut for skattetrekket:
+
+1. for personlige utbyttemottakere som krever redusert sats etter skatteavtale: Bostedsbekreftelse utstedt av skattemyndighetene i utbyttemottakerens bostedsland, som uttrykkelig bekrefter at utbyttemottakeren er bosatt der etter skatteavtalen med Norge. Bostedsbekreftelsen må ikke være eldre enn tre år på tidspunktet for skattetrekket. Hvis utbytteutdelingen er på mindre enn 10 000 kroner kreves ikke bostedsbekreftelse. For selskaper som ordinært deler ut utbytte mer enn en gang i løpet av inntektsåret, skal beløpsgrensen på 10 000 kroner etter tredje punktum fordeles på antall ordinære utbytteutdelinger i inntektsåret. Ved ekstraordinære utbytteutdelinger gjelder en ny beløpsgrense på 10 000 kroner.
+2. for utbyttemottakere som er juridiske personer og andre enheter som krever redusert sats etter skatteavtale: Dokumentasjon på tidligere mottatt refusjon av kildeskatt eller godkjenning fra norske skattemyndigheter om at utbyttemottakeren har krav på lavere skatt etter skatteavtale. Det må i tillegg foreligge bostedsbekreftelse utstedt av skattemyndighetene i utbyttemottakerens bostedsland, som uttrykkelig bekrefter at utbyttemottakeren er hjemmehørende der etter skatteavtalen med Norge. Bostedsbekreftelsen må ikke være eldre enn tre år på tidspunktet for skattetrekket.
+3. for utbyttemottakere som er juridiske personer hjemmehørende i EØS-området som krever fritak etter [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5): Dokumentasjon på tidligere mottatt refusjon av kildeskatt eller godkjenning fra norske skattemyndigheter om at utbyttemottakeren har krav på fritak fra kildeskatt etter [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5). Det må i tillegg foreligge bekreftelse på at utbyttemottakeren er hjemmehørende i et EØS-land, samt egenerklæring som bekrefter at grunnlaget for skattefritaket ikke har endret seg. Bostedsbekreftelsen og egenerklæringen må ikke være eldre enn tre år på tidspunktet for skattetrekket.
+4. bekreftelse fra utbyttemottaker som nevnt i bokstav a til c om at vedkommende er den endelige utbyttemottakeren.
 
 (3) Dersom aksjen er registrert på en konto i utbyttemottakerens navn (direkteregistrert), kan selskapet trekke lavere kildeskatt i samsvar med skatteavtale eller unnlate å trekke kildeskatt i medhold av [skatteloven § 2-38 femte ledd](lov/1999-03-26-14/§2-38/ledd/5), dersom dokumentasjon som nevnt i annet ledd foreligger hos kontofører investor.
 
@@ -882,15 +1003,34 @@ Arbeidsgiver som har bokføringsplikt etter bokføringsloven, plikter å føre l
 
 ### § 5-11-2. Arbeidsgiver som ikke har bokføringsplikt
 
-(1) Arbeidsgiver som ikke har bokføringsplikt etter bokføringsloven skal, dersom vedkommende velger å ikke føre lønningsregnskap som tilfredsstiller kravene i bokføringsloven med forskrift, føre en lønningsliste for hver mottaker av lønn eller annen godtgjørelse. Hver liste skal inneholde:fødselsnummer,navn,tabellnummer og/eller den trekkprosent som står på skattekortet.
+(1) Arbeidsgiver som ikke har bokføringsplikt etter bokføringsloven skal, dersom vedkommende velger å ikke føre lønningsregnskap som tilfredsstiller kravene i bokføringsloven med forskrift, føre en lønningsliste for hver mottaker av lønn eller annen godtgjørelse. Hver liste skal inneholde:
+
+1. fødselsnummer,
+2. navn,
+3. tabellnummer og/eller den trekkprosent som står på skattekortet.
 
 (2) Dersom skattekortet ikke er gjort tilgjengelig for arbeidsgiver, og opplysninger som skal fremgå av skattekortet ikke på annen måte er kommet til arbeidsgiverens kunnskap, skal arbeidsgivers dokumentasjon vise navn og nummer på den kommunen hvor mottakeren av godtgjørelsen (skattyteren) oppgir å være bosatt 1. november i året før trekkåret. Dersom mottaker av godtgjørelsen er utenlandsk og ikke var bosatt i Norge 1. november i året før trekkåret, skal dokumentasjonen vise hvilken kommune vedkommende bosatte seg i ved ankomsten til Norge.
 
-(3) Har arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:når pålegget er mottatt, ogtrekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
+(3) Har arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:
 
-(4) For hver periode med pliktig rapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde følgende opplysninger for hver skattyter:dato for utbetaling av ytelser, og om mulig det tidsrom ytelsen knytter seg til,brutto ytelse, dersom det er aktuelt med angivelse av antall godtgjorte timer,eventuelt tillegg for naturalytelser som det skal foretas trekk i,fradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9),lønnstrekk etter Finansdepartementets [forskrift 19. november 1999 nr. 1158](forskrift/1999-11-19-1158) til skatteloven § 5-15-4 (hjemme-PC),trekkgrunnlaget, ogstørrelsen på det foretatte forskuddstrekk og utleggstrekk.
+1. når pålegget er mottatt, og
+2. trekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
 
-(5) For ansatte som helt eller delvis godtgjøres etter antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert for hver skattyter:dato for utført arbeid,antall timer den aktuelle datoen, ogsum timer for den aktuelle perioden.
+(4) For hver periode med pliktig rapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde følgende opplysninger for hver skattyter:
+
+1. dato for utbetaling av ytelser, og om mulig det tidsrom ytelsen knytter seg til,
+2. brutto ytelse, dersom det er aktuelt med angivelse av antall godtgjorte timer,
+3. eventuelt tillegg for naturalytelser som det skal foretas trekk i,
+4. fradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9),
+5. lønnstrekk etter Finansdepartementets [forskrift 19. november 1999 nr. 1158](forskrift/1999-11-19-1158) til skatteloven § 5-15-4 (hjemme-PC),
+6. trekkgrunnlaget, og
+7. størrelsen på det foretatte forskuddstrekk og utleggstrekk.
+
+(5) For ansatte som helt eller delvis godtgjøres etter antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert for hver skattyter:
+
+1. dato for utført arbeid,
+2. antall timer den aktuelle datoen, og
+3. sum timer for den aktuelle perioden.
 
 (6) Dokumentasjon av lønn mv. skal utstedes senest på det tidspunktet det er anledning til å få de aktuelle ytelsene utbetalt.
 
@@ -1082,13 +1222,23 @@ Departementets myndighet etter [skattebetalingsloven kapittel 7](lov/2005-06-17-
 
 ### § 7-1-1. Definisjoner
 
-I dette kapitlet betyr:skatteoppgjør: Avregning med rente- og betalingsoppgjørtilleggsforskudd: Forskuddsskatt som er innbetalt med høyere beløp enn det som er utskrevet fordi utskrevet forskuddsskatt antas å bli utilstrekkelig til dekning av den skatt som blir fastsatt ved skattefastsettingen.
+I dette kapitlet betyr:
+
+1. skatteoppgjør: Avregning med rente- og betalingsoppgjør
+2. tilleggsforskudd: Forskuddsskatt som er innbetalt med høyere beløp enn det som er utskrevet fordi utskrevet forskuddsskatt antas å bli utilstrekkelig til dekning av den skatt som blir fastsatt ved skattefastsettingen.
 
 > Endret ved [forskrift 9 des 2016 nr. 1529](forskrift/2016-12-09-1529) (i kraft 1 jan 2017).
 
 ### § 7-1-2. Gjennomføring av avregningen
 
-Avregningen skjer ved at følgende beløp går til fradrag i den fastsatte skatten:Forskuddstrekk som det er på det rene at arbeidsgiveren har foretatt, uavhengig av om trekket er innbetalt. Dersom det er besluttet tilbakebetaling av forskuddstrekk til skattyter før avregning, justeres forskuddstrekket tilsvarende ned ved gjennomføring av avregningen. Ved manglende innbetaling kan fradrag nektes dersom skattyter ut fra sin tilknytning til arbeidsgiver hadde eller kunne øve innflytelse på de forhold som førte til trekkmisligholdet. Skattedirektoratet gir nærmere retningslinjer til utfylling og gjennomføring av reglene etter tredje punktum.Ansvarsbeløp etter [skattebetalingsloven § 16-20](lov/2005-06-17-67/§16-20) som arbeidsgiveren har innbetalt fordi han ikke har gjennomført pliktig forskuddstrekk.Utskrevet forskuddsskatt. Ved regulering av forskuddsskatten legges skatten etter reguleringen til grunn.Tilleggsforskudd etter [skattebetalingsloven § 4-7](lov/2005-06-17-67/§4-7).Forskudd på skatt hos biperson som skal avregnes sammen med skattyteren.Tilskudd fra ENOVA til energieffektiviseringstiltak på egen bolig, når skattyter har valgt å få stønaden som et skattefradrag ved skatteoppgjøret.
+Avregningen skjer ved at følgende beløp går til fradrag i den fastsatte skatten:
+
+1. Forskuddstrekk som det er på det rene at arbeidsgiveren har foretatt, uavhengig av om trekket er innbetalt. Dersom det er besluttet tilbakebetaling av forskuddstrekk til skattyter før avregning, justeres forskuddstrekket tilsvarende ned ved gjennomføring av avregningen. Ved manglende innbetaling kan fradrag nektes dersom skattyter ut fra sin tilknytning til arbeidsgiver hadde eller kunne øve innflytelse på de forhold som førte til trekkmisligholdet. Skattedirektoratet gir nærmere retningslinjer til utfylling og gjennomføring av reglene etter tredje punktum.
+2. Ansvarsbeløp etter [skattebetalingsloven § 16-20](lov/2005-06-17-67/§16-20) som arbeidsgiveren har innbetalt fordi han ikke har gjennomført pliktig forskuddstrekk.
+3. Utskrevet forskuddsskatt. Ved regulering av forskuddsskatten legges skatten etter reguleringen til grunn.
+4. Tilleggsforskudd etter [skattebetalingsloven § 4-7](lov/2005-06-17-67/§4-7).
+5. Forskudd på skatt hos biperson som skal avregnes sammen med skattyteren.
+6. Tilskudd fra ENOVA til energieffektiviseringstiltak på egen bolig, når skattyter har valgt å få stønaden som et skattefradrag ved skatteoppgjøret.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1663](forskrift/2009-12-18-1663), [21 des 2015 nr. 1787](forskrift/2015-12-21-1787) (i kraft 1 jan 2016), [9 des 2016 nr. 1529](forskrift/2016-12-09-1529) (i kraft 1 jan 2017), [12 okt 2020 nr. 2014](forskrift/2020-10-12-2014) (i kraft 1 nov 2020).
 
@@ -1118,7 +1268,10 @@ Avregningen skjer ved at følgende beløp går til fradrag i den fastsatte skatt
 
 ### § 7-1-6. Avregning i konkurstilfeller
 
-(1) Går personlig skattyter konkurs, skal det for det inntektsåret da konkursåpningen finner sted foretas separat avregning for:skatt fastsatt for skattyter som boet er ansvarlig for, og forskudd fra før konkursåpningen,fastsatt skatt som skattyter alene er ansvarlig for, og forskudd fra etter konkursåpningen.
+(1) Går personlig skattyter konkurs, skal det for det inntektsåret da konkursåpningen finner sted foretas separat avregning for:
+
+1. skatt fastsatt for skattyter som boet er ansvarlig for, og forskudd fra før konkursåpningen,
+2. fastsatt skatt som skattyter alene er ansvarlig for, og forskudd fra etter konkursåpningen.
 
 (2) Utskrevet forskuddsskatt med ordinært forfall og forskuddstrekk foretatt før konkursåpningen, avregnes etter første ledd bokstav a. Ved beregning av tilgodebeløp eller fastholdt restanse på forskuddsskatt, skal forskuddsskatt (og tilleggsforskudd) som er innbetalt før konkursåpningen tas med.
 
@@ -1288,7 +1441,13 @@ Hvis en personlig skattyter under ordningen dør, skal det anses som uttreden.
 
 ###### § 10-4-1. Beløpsgrense for betaling og tilbakebetaling av skatte- og avgiftskrav
 
-(1) Skatte- og avgiftskrav samt tilgodebeløp, inkludert eventuelle gebyrer og renter etter [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2), [§ 11-4](lov/2005-06-17-67/§11-4) og [§ 11-5](lov/2005-06-17-67/§11-5), som alene utgjør under 100 kroner, betales eller tilbakebetales ikke. Dette gjelder likevel ikke for:sjømenn som er skattepliktig etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd, hvor beløpsgrensen er 2 000 kroner,betaling av krav på tollavgift, merverdiavgift og særavgifter som kreves opp ved innførsel, jf. [skattebetalingsloven § 10-41](lov/2005-06-17-67/§10-41), hvor beløpsgrensen er 50 kroner, unntatt for alkoholholdig drikk og tobakk, hvor det ikke gjelder noen beløpsgrense. Det gjelder heller ingen beløpsgrense for betaling av krav på merverdiavgift og særavgifter fra andre enn næringsdrivende og offentlig virksomhet.betaling av vektårsavgift med døgnsats etter bestemmelsene om korttidsbruk av tilhenger jf. [forskrift 29. juni 2000 nr. 688](forskrift/2000-06-29-688) om vektårsavgift [§ 7](forskrift/2000-06-29-688/§7),engangsavgift på motorvogner, hvor beløpsgrensen er 200 kroner, ogtilleggsavgift for forsinket betaling av årsavgift med redusert sats, hvor beløpsgrensen er 50 kroner.
+(1) Skatte- og avgiftskrav samt tilgodebeløp, inkludert eventuelle gebyrer og renter etter [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2), [§ 11-4](lov/2005-06-17-67/§11-4) og [§ 11-5](lov/2005-06-17-67/§11-5), som alene utgjør under 100 kroner, betales eller tilbakebetales ikke. Dette gjelder likevel ikke for:
+
+1. sjømenn som er skattepliktig etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd, hvor beløpsgrensen er 2 000 kroner,
+2. betaling av krav på tollavgift, merverdiavgift og særavgifter som kreves opp ved innførsel, jf. [skattebetalingsloven § 10-41](lov/2005-06-17-67/§10-41), hvor beløpsgrensen er 50 kroner, unntatt for alkoholholdig drikk og tobakk, hvor det ikke gjelder noen beløpsgrense. Det gjelder heller ingen beløpsgrense for betaling av krav på merverdiavgift og særavgifter fra andre enn næringsdrivende og offentlig virksomhet.
+3. betaling av vektårsavgift med døgnsats etter bestemmelsene om korttidsbruk av tilhenger jf. [forskrift 29. juni 2000 nr. 688](forskrift/2000-06-29-688) om vektårsavgift [§ 7](forskrift/2000-06-29-688/§7),
+4. engangsavgift på motorvogner, hvor beløpsgrensen er 200 kroner, og
+5. tilleggsavgift for forsinket betaling av årsavgift med redusert sats, hvor beløpsgrensen er 50 kroner.
 
 (2) For skatte- og avgiftskrav som betales i terminer eller i henhold til nærmere fastsatt avgiftspesifikasjon eller deklarasjon, gjelder beløpsgrensen for den enkelte termin, spesifikasjon eller deklarasjon.
 
@@ -1360,9 +1519,15 @@ Trygdeavgift som fastsettes av Arbeids- og velferdsetaten i medhold av skattefor
 
 ###### § 10-10-8. Unntak fra forfallsfristen for forskuddstrekk mv.
 
-(1) Statlige arbeidsgivere (statsforvaltningen) skal betale forskuddstrekk og skattetrekk den 5. i måneden etter at pliktig trekk etter [skattebetalingsloven § 5-4](lov/2005-06-17-67/§5-4) er gjennomført. Med statsforvaltningen menes:forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, ogforvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).
+(1) Statlige arbeidsgivere (statsforvaltningen) skal betale forskuddstrekk og skattetrekk den 5. i måneden etter at pliktig trekk etter [skattebetalingsloven § 5-4](lov/2005-06-17-67/§5-4) er gjennomført. Med statsforvaltningen menes:
 
-(2) Første ledd gjelder tilsvarende for følgende arbeidsgivere:Det kongelige hoffStiftelsen kronprinsparets fond.
+1. forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, og
+2. forvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).
+
+(2) Første ledd gjelder tilsvarende for følgende arbeidsgivere:
+
+1. Det kongelige hoff
+2. Stiftelsen kronprinsparets fond.
 
 (3) Skattekontoret kan etter søknad gi utsatt forfall til trekkpliktige som på lønnsutbetalingstidspunktet ikke vet hvor stor andel av lønn mv. som er trekkpliktig til Norge. Utsatt forfall settes til den 5. i måneden etter utbetaling av lønn mv. Skattekontoret kan bestemme at utsatt forfall gis for en bestemt tidsperiode.
 
@@ -1624,7 +1789,10 @@ Det skal ytes renter etter [skattebetalingsloven § 11-4](lov/2005-06-17-67/§11
 
 ### § 11-5-2. Rentegodtgjørelse til personlige skattytere ved forhåndsfastsetting
 
-Skattytere som etter forhåndsfastsetting får utbetalt overskytende forskudd på skatt, eller negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt,gis rentegodtgjørelse etter følgende regler:Når utbetalingen skjer senere enn 1. juli i inntektsåret, godtgjøres renter med rentesats etter [skattebetalingsloven § 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum, redusert med 22 pst., beregnet fra 1. juli i inntektsåret og fram til skatteoppgjøret blir sendt skattyter. Er det innbetalt tilleggsforskudd beregnes renter fra fristen for betaling av tilleggsforskudd etter § 4-7.Tilleggsforskudd tilbakebetales før annet forskudd. Det senest innbetalte beløpet regnes som tilbakebetalt først.
+Skattytere som etter forhåndsfastsetting får utbetalt overskytende forskudd på skatt, eller negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt,gis rentegodtgjørelse etter følgende regler:
+
+1. Når utbetalingen skjer senere enn 1. juli i inntektsåret, godtgjøres renter med rentesats etter [skattebetalingsloven § 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum, redusert med 22 pst., beregnet fra 1. juli i inntektsåret og fram til skatteoppgjøret blir sendt skattyter. Er det innbetalt tilleggsforskudd beregnes renter fra fristen for betaling av tilleggsforskudd etter § 4-7.
+2. Tilleggsforskudd tilbakebetales før annet forskudd. Det senest innbetalte beløpet regnes som tilbakebetalt først.
 
 > Endret ved [forskrifter 2 feb 2011 nr. 108](forskrift/2011-02-02-108), [26 juni 2014 nr. 879](forskrift/2014-06-26-879), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) som endret ved [forskrift 21 des 2016 nr. 1794](forskrift/2016-12-21-1794) (i kraft 1 jan 2017), [21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017), [30 okt 2020 nr. 2221](forskrift/2020-10-30-2221) (i kraft 1 nov 2020), [13 juni 2025 nr. 1006](forskrift/2025-06-13-1006) (i kraft 1 jan 2026).
 
@@ -1634,7 +1802,11 @@ Skattytere som etter forhåndsfastsetting får utbetalt overskytende forskudd p�
 
 ### § 11-5-4. Rentetillegg for personlige skattytere
 
-Det skal ikke beregnes rentetillegg når:skattyter får skatten begrenset etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1),det er på det rene at restskatt som betinger rentetillegg, er fremkommet fordi arbeidsgiveren ikke har foretatt forskuddstrekk i samsvar med skattebetalingsloven og regler gitt med hjemmel i loven, og forholdet ikke skyldes forsømmelse eller mangel på tilbørlig aktsomhet fra skattyterens side (del av forskuddstrekket som ikke er godskrevet),restskatten fremkommer ved avregning etter forhåndsfastsetting, og avregningen finner sted før fristen for innbetaling av tilleggsforskudd i året etter inntektsåret etter [skattebetalingsloven § 4-7](lov/2005-06-17-67/§4-7).
+Det skal ikke beregnes rentetillegg når:
+
+1. skattyter får skatten begrenset etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1),
+2. det er på det rene at restskatt som betinger rentetillegg, er fremkommet fordi arbeidsgiveren ikke har foretatt forskuddstrekk i samsvar med skattebetalingsloven og regler gitt med hjemmel i loven, og forholdet ikke skyldes forsømmelse eller mangel på tilbørlig aktsomhet fra skattyterens side (del av forskuddstrekket som ikke er godskrevet),
+3. restskatten fremkommer ved avregning etter forhåndsfastsetting, og avregningen finner sted før fristen for innbetaling av tilleggsforskudd i året etter inntektsåret etter [skattebetalingsloven § 4-7](lov/2005-06-17-67/§4-7).
 
 > Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [2 feb 2011 nr. 108](forskrift/2011-02-02-108), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017).
 
@@ -1902,7 +2074,14 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 ###### § 14-20-3. Tilbakekallelse av tollkreditt
 
-(1) Innvilget tollkreditt kan omgående stoppes og tilbakekalles uten varsel når:foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),det er disponert over en innvilget tollkredittkonto i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,det ikke gis opplysninger som omhandlet i [§ 14-20-2](forskrift/2007-12-21-1766/§14-20-2) fjerde og femte ledd,foretaket mangler lovpålagt styreleder eller revisor,årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen ellerforetaket ikke lenger anses kredittverdig.
+(1) Innvilget tollkreditt kan omgående stoppes og tilbakekalles uten varsel når:
+
+1. foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),
+2. det er disponert over en innvilget tollkredittkonto i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,
+3. det ikke gis opplysninger som omhandlet i [§ 14-20-2](forskrift/2007-12-21-1766/§14-20-2) fjerde og femte ledd,
+4. foretaket mangler lovpålagt styreleder eller revisor,
+5. årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen eller
+6. foretaket ikke lenger anses kredittverdig.
 
 (2) Kredittverdigheten vurderes ut i fra skattekontorets generelle tillit til foretaket, herunder foretakets betalingsvilje, betalingsevne og overholdelse av vareførselsregelverket og skatte- og avgiftsregelverket mv. samt skattekontorets inndrivelsesmuligheter.
 
@@ -1960,7 +2139,14 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ###### § 14-20-12. Tilbakekallelse av tillatelse til dagsoppgjør
 
-(1) Tillatelse til å foreta dagsoppgjør kan omgående stoppes og tilbakekalles uten varsel når:foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),tillatelse til dagsoppgjør benyttes i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,det ikke gis slike opplysninger som er fastsatt i [§ 14-20-11](forskrift/2007-12-21-1766/§14-20-11) tredje ledd,foretaket mangler lovpålagt styreleder eller revisor,årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen,foretaket ikke lenger anses kredittverdig.
+(1) Tillatelse til å foreta dagsoppgjør kan omgående stoppes og tilbakekalles uten varsel når:
+
+1. foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),
+2. tillatelse til dagsoppgjør benyttes i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,
+3. det ikke gis slike opplysninger som er fastsatt i [§ 14-20-11](forskrift/2007-12-21-1766/§14-20-11) tredje ledd,
+4. foretaket mangler lovpålagt styreleder eller revisor,
+5. årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen,
+6. foretaket ikke lenger anses kredittverdig.
 
 (2) Kredittverdigheten vurderes ut i fra skattekontorets generelle tillit til foretaket, herunder foretakets betalingsvilje, betalingsevne og overholdelse av vareførselsregelverket og skatte- og avgiftsregelverket mv. samt skattekontorets inndrivelsesmuligheter.
 
@@ -2010,7 +2196,11 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 (1) Skattekontoret kan kreve at virksomheter som er registrert som avgiftspliktige etter særavgiftsloven stiller sikkerhet for fremtidig skyldig avgift. Krav om sikkerhetsstillelse kan stilles ved registrering av virksomheten eller senere.
 
-(2) Ved vurderingen av om sikkerhet skal kreves, skal det blant annet tas hensyn tilom virksomheten gjentatte ganger har betalt avgiften for sent eller for øvrig har overtrådt avgiftsbestemmelsene,om virksomheten har uoppgjorte restanser med hensyn til skatter, avgifter og toll,om virksomheten, styret eller ledelsen kan anses kredittverdig.
+(2) Ved vurderingen av om sikkerhet skal kreves, skal det blant annet tas hensyn til
+
+1. om virksomheten gjentatte ganger har betalt avgiften for sent eller for øvrig har overtrådt avgiftsbestemmelsene,
+2. om virksomheten har uoppgjorte restanser med hensyn til skatter, avgifter og toll,
+3. om virksomheten, styret eller ledelsen kan anses kredittverdig.
 
 (3) I de tilfeller der sikkerhet kreves gjelder bestemmelsene i [§ 14-20-4](forskrift/2007-12-21-1766/§14-20-4) annet ledd tilsvarende.
 
@@ -2060,7 +2250,11 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ### § 16-30-1. Særlige regler om ansvar for kjøpere eller oppdragsgivere ved unnlatt registrering
 
-(1) Avgiftskrav mot avgiftssubjekt som i strid med [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd har unnlatt registrering ved representant, kan innfordres hos følgende kjøpere eller oppdragsgivere:Stat, kommune eller institusjoner som drives av stat eller kommune i den utstrekning disse ikke har fradragsrett for merverdiavgift av leveransen.Ikke-registreringspliktige næringsdrivende.Registreringspliktige næringsdrivende når det ikke foreligger fradragsrett for merverdiavgift av leveransen.
+(1) Avgiftskrav mot avgiftssubjekt som i strid med [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd har unnlatt registrering ved representant, kan innfordres hos følgende kjøpere eller oppdragsgivere:
+
+1. Stat, kommune eller institusjoner som drives av stat eller kommune i den utstrekning disse ikke har fradragsrett for merverdiavgift av leveransen.
+2. Ikke-registreringspliktige næringsdrivende.
+3. Registreringspliktige næringsdrivende når det ikke foreligger fradragsrett for merverdiavgift av leveransen.
 
 (2) Bestemmelsene i første ledd gjelder ikke renter og tilleggsskatt.
 
@@ -2072,7 +2266,13 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ### § 16-42-1. Særlige regler om ansvar for særavgift
 
-(1) Ved levering avnaturgass og LPG etter [særavgiftsforskriften § 3-6-9](forskrift/2001-12-11-1451/§3-6-9), [§ 3-6-11](forskrift/2001-12-11-1451/§3-6-11), [§ 3-21-5](forskrift/2001-12-11-1451/§3-21-5) og [§ 3-21-6](forskrift/2001-12-11-1451/§3-21-6),elektrisk kraft etter [særavgiftsforskriften § 3-12-4](forskrift/2001-12-11-1451/§3-12-4) til [§ 3-12-8](forskrift/2001-12-11-1451/§3-12-8) og [§ 3-12-12](forskrift/2001-12-11-1451/§3-12-12) til [§ 3-12-16](forskrift/2001-12-11-1451/§3-12-16),mineralolje, smøreolje, naturgass og LPG etter [særavgiftsforskriften § 4-3-1](forskrift/2001-12-11-1451/§4-3-1) og [§ 4-4-1](forskrift/2001-12-11-1451/§4-4-1) til [§ 4-4-3](forskrift/2001-12-11-1451/§4-4-3),er mottaker ansvarlig for innbetaling av avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfritak. I den utstrekning leverandøren visste eller burde ha visst at kravene for fritak ikke var oppfylt, kan krav rettes mot denne.
+(1) Ved levering av
+
+1. naturgass og LPG etter [særavgiftsforskriften § 3-6-9](forskrift/2001-12-11-1451/§3-6-9), [§ 3-6-11](forskrift/2001-12-11-1451/§3-6-11), [§ 3-21-5](forskrift/2001-12-11-1451/§3-21-5) og [§ 3-21-6](forskrift/2001-12-11-1451/§3-21-6),
+2. elektrisk kraft etter [særavgiftsforskriften § 3-12-4](forskrift/2001-12-11-1451/§3-12-4) til [§ 3-12-8](forskrift/2001-12-11-1451/§3-12-8) og [§ 3-12-12](forskrift/2001-12-11-1451/§3-12-12) til [§ 3-12-16](forskrift/2001-12-11-1451/§3-12-16),
+3. mineralolje, smøreolje, naturgass og LPG etter [særavgiftsforskriften § 4-3-1](forskrift/2001-12-11-1451/§4-3-1) og [§ 4-4-1](forskrift/2001-12-11-1451/§4-4-1) til [§ 4-4-3](forskrift/2001-12-11-1451/§4-4-3),
+
+er mottaker ansvarlig for innbetaling av avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfritak. I den utstrekning leverandøren visste eller burde ha visst at kravene for fritak ikke var oppfylt, kan krav rettes mot denne.
 
 (2) Ved levering av avgiftsfri teknisk etanol, er mottaker ansvarlig for innbetaling av avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfritak.
 
@@ -2166,7 +2366,11 @@ Departementet har ikke hjemmel i skattebetalingsloven til å fastsette forskrift
 
 ### § 19-1-1. Ikrafttredelse
 
-Denne forskrift trer i kraft 1. januar 2008, med unntak for følgende krav hvor forskriften gjelder fra 1. januar 2009:Krav som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) annet ledd bokstavene a til d.Krav etter ligningsloven.Krav som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) tredje ledd, og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) annet ledd bokstav a-d.
+Denne forskrift trer i kraft 1. januar 2008, med unntak for følgende krav hvor forskriften gjelder fra 1. januar 2009:
+
+1. Krav som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) annet ledd bokstavene a til d.
+2. Krav etter ligningsloven.
+3. Krav som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) tredje ledd, og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](forskrift/2007-12-21-1766/§1-1) annet ledd bokstav a-d.
 
 ### § 19-2-1. Lemping av renter ilagt etter merverdiavgiftsloven § 37
 

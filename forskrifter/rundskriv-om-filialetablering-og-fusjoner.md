@@ -34,7 +34,9 @@ En ber bankene merke seg at alle filialetableringer skal meldes skriftlig til Ba
 
 For filialetableringer hvor særskilt forhåndssamtykke er nødvendig, og således ikke omfattes av det generelle forhåndssamtykket, skal søknad sendes Bankinspeksjonen. Inspeksjonen forelegger søknaden for Norges Bank og vedkommende fylkesting til uttalelse med 4 ukers uttalefrist. Samtidig utarbeider Bankinspeksjonen utkast til kunngjøring om den planlagte filialetableringen som banken skal rykke inn i minst to aviser som er alminnelig lest i distriktet. Etter de fastsatte retningslinjer skal berørte parter gis anledning til å uttale seg med en frist på 4 uker.
 
-Det gjøres oppmerksom på at kontantautomater, salgsstedsterminaler og lignende tekniske innretninger ikke er å betrakte som bankfilialer etter disse retningslinjer. Det vil si at det her ikke gjelder noen begrensninger.*Fusjoner.*
+Det gjøres oppmerksom på at kontantautomater, salgsstedsterminaler og lignende tekniske innretninger ikke er å betrakte som bankfilialer etter disse retningslinjer. Det vil si at det her ikke gjelder noen begrensninger.
+
+*Fusjoner.*
 
 For fusjoner etter [forretningsbankloven § 31](lov/1961-05-24-2/§31) gjelder de samme saksbehandlingsregler for konsesjonsbehandlingen som for filialetableringer hvor særskilt samtykke er nødvendig.
 

@@ -30,7 +30,12 @@ Forskriften gjelder all utdanning som fører frem til graden philosophiae doctor
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med:Doktorgrad: Graden philosophiae doctor (ph.d.).Kandidat: Ph.d.-kandidat som er omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.Doktorgradsarbeid: Det vitenskapelige arbeidet som utføres av kandidaten innenfor avtalt periode.Avhandling: Resultatet av det vitenskapelige doktorgradsarbeidet.
+I denne forskriften menes med:
+
+1. Doktorgrad: Graden philosophiae doctor (ph.d.).
+2. Kandidat: Ph.d.-kandidat som er omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.
+3. Doktorgradsarbeid: Det vitenskapelige arbeidet som utføres av kandidaten innenfor avtalt periode.
+4. Avhandling: Resultatet av det vitenskapelige doktorgradsarbeidet.
 
 ### § 1-3. Omfang, innhold og målsetting for doktorgradsutdanningen
 
@@ -42,7 +47,12 @@ Utdanningen er normert til tre års fulltidsstudier og inkluderer en opplærings
 
 Utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Graden philosophiae doctor tildeles på grunnlag av:godkjent vitenskapelig avhandlinggodkjent gjennomføring av opplæringsdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Graden philosophiae doctor tildeles på grunnlag av:
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av opplæringsdelen
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 Doktorgradsutdanningen skal være lagt opp slik at den er mulig å fullføre med innlevering av avhandling innenfor normert tidsramme.
 
@@ -72,7 +82,23 @@ Søknad om doktorgradsstipend som utlyses av universitetet er en søknad om oppt
 
 Søkere med annen finansiering enn stipend hvor universitetet er arbeidsgiver, sender søknad til fakultetet. Søknaden innleveres på fastsatt søknadsskjema.
 
-Avhengig av kravene i utlyst doktorgradsstipend og/eller søknadsskjemaet skal søknaden inneholde:Dokumentasjon av den utdanning som skal ligge til grunn for opptaket.Beskrivelse av doktorgradsprosjektet, dersom dette er påkrevd i utlysningen, som omfatter:faglig redegjørelse for prosjektet, som omfatter tema, problemstillinger, teori og metodefremdriftsplanfinansieringsplanplan for opplæringsdel, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverketeventuelle planer for utenlandsopphold/opphold ved annen institusjonplan for faglig formidlingdokumentasjon av eventuelle spesielle behov for faglige og materielle ressurserførste versjon av datahåndteringsplan for prosjekter som involverer forskningsdataopplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.Informasjon om hvorvidt prosjektet er avhengig av tillatelser fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser skal om mulig legges ved søknaden.
+Avhengig av kravene i utlyst doktorgradsstipend og/eller søknadsskjemaet skal søknaden inneholde:
+
+1. Dokumentasjon av den utdanning som skal ligge til grunn for opptaket.
+2. Beskrivelse av doktorgradsprosjektet, dersom dette er påkrevd i utlysningen, som omfatter:
+
+   - faglig redegjørelse for prosjektet, som omfatter tema, problemstillinger, teori og metode
+   - fremdriftsplan
+   - finansieringsplan
+   - plan for opplæringsdel, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket
+   - eventuelle planer for utenlandsopphold/opphold ved annen institusjon
+   - plan for faglig formidling
+   - dokumentasjon av eventuelle spesielle behov for faglige og materielle ressurser
+   - første versjon av datahåndteringsplan for prosjekter som involverer forskningsdata
+   - opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+3. Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø.
+4. Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.
+5. Informasjon om hvorvidt prosjektet er avhengig av tillatelser fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser skal om mulig legges ved søknaden.
 
 Beskrivelsen i foregående ledd gjennomgås av kandidat og veileder senest tre måneder etter opptak for å vurdere behov for justeringer.
 
@@ -86,7 +112,10 @@ Eventuelle forbehold skal fremgå av opptaksvedtaket.
 
 I vedtaket skal minst en veileder oppnevnes og opptaksperioden skal fastsettes, jf. [§ 2-4](forskrift/2025-06-12-1279/§2-4). Krav om residensplikt skal fremgå av opptaksvedtaket.
 
-Opptak skal nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingendet ved søknadstidspunkt gjenstår mindre enn ett års fulltidsarbeid med forskningsprosjektet.
+Opptak skal nektes om:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- det ved søknadstidspunkt gjenstår mindre enn ett års fulltidsarbeid med forskningsprosjektet.
 
 ### § 2-4. Opptaksperiode
 
@@ -116,7 +145,11 @@ Dersom det skal vedtas tvungen avslutning for en stipendiat ansatt ved Universit
 
 ### § 2-8. Tvungen avslutning hvis kandidat i vesentlig grad ikke oppfyller forpliktelser etter doktorgradsavtalen
 
-Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen hvis kandidaten i vesentlig grad ikke oppfyller forpliktelsene sine etter doktorgradsavtalen, jf. [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2), så som:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 5-1](forskrift/2025-06-12-1279/§5-1).Forsinkelse i fremdriften av forskningsprosjektet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
+Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen hvis kandidaten i vesentlig grad ikke oppfyller forpliktelsene sine etter doktorgradsavtalen, jf. [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2), så som:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 5-1](forskrift/2025-06-12-1279/§5-1).
+- Forsinkelse i fremdriften av forskningsprosjektet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
 
 Tvungen avslutning etter denne bestemmelsen kan bare vedtas dersom forsinkelsen eller den manglende fremdriften skyldes forhold som kandidaten selv rår over.
 
@@ -252,7 +285,16 @@ Det er hovedveileders ansvar å gjøre fakultetet oppmerksom på at innlevering 
 
 Søknad om å få avhandlingen bedømt skal rettes til fakultetet.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format.Dokumentasjon av at opplæringsdelen er fullført og godkjent.Et kortfattet sammendrag på norsk og engelsk.Dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2025-06-12-1279/§2-2).Medforfattererklæringer hvor dette er påkrevd, jf. [§ 6-2](forskrift/2025-06-12-1279/§6-2).Erklæring om hvorvidt avhandlingen innleveres til bedømmelse for første eller andre gang.Erklæring om at avhandlingen ikke er innlevert til bedømmelse ved annen institusjon.Fullstendig plagiatrapport.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format.
+- Dokumentasjon av at opplæringsdelen er fullført og godkjent.
+- Et kortfattet sammendrag på norsk og engelsk.
+- Dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2025-06-12-1279/§2-2).
+- Medforfattererklæringer hvor dette er påkrevd, jf. [§ 6-2](forskrift/2025-06-12-1279/§6-2).
+- Erklæring om hvorvidt avhandlingen innleveres til bedømmelse for første eller andre gang.
+- Erklæring om at avhandlingen ikke er innlevert til bedømmelse ved annen institusjon.
+- Fullstendig plagiatrapport.
 
 Fakultetet kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -266,7 +308,14 @@ Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) til [§ 10](lov
 
 Fagenhet foreslår bedømmelseskomité. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker avhandlingens fagfelt. Kandidaten skal underrettes om forslaget til sammensetning av komité, og gis anledning til å innlevere skriftlige merknader til sammensetningen av komitéen senest innen en uke etter at kandidaten har mottatt underretningen.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:forskjellige kjønn er representertminst ett av medlemmene er ansatt ved universitetetminst ett av medlemmene er uten tilknytning til universitetetminst ett av medlemmene har hovedstilling ved utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- forskjellige kjønn er representert
+- minst ett av medlemmene er ansatt ved universitetet
+- minst ett av medlemmene er uten tilknytning til universitetet
+- minst ett av medlemmene har hovedstilling ved utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Oppnevnte veiledere og andre som har bidratt til avhandlingen, kan ikke være medlem av bedømmelseskomiteen eller administrere den.
 

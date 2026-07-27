@@ -124,7 +124,14 @@ Tilskuddsmottaker plikter å oppgi all offentlig tilskudd som prosjektet mottar.
 
 ### § 11. Prioritering
 
-Vedtak om tilskudd baseres på en samlet vurdering av:formålet med tilskuddsordningene,prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller Norsk filminstitutt,prosjektets egenart, kunstneriske og/eller kulturelle verdi,prosjektets økonomi og bærekraft,geografisk spredning, ogrelevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet.
+Vedtak om tilskudd baseres på en samlet vurdering av:
+
+1. formålet med tilskuddsordningene,
+2. prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller Norsk filminstitutt,
+3. prosjektets egenart, kunstneriske og/eller kulturelle verdi,
+4. prosjektets økonomi og bærekraft,
+5. geografisk spredning, og
+6. relevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet.
 
 ### § 12. Utmåling av tilskudd
 
@@ -154,7 +161,12 @@ Norsk filminstitutt skal sørge for nødvendig kontroll med bruken av tilskuddsm
 
 ### § 16. Reaksjoner
 
-Norsk filminstitutt kan trekke tilbake tilsagn om tilskudd, holde tilbake tilskudd eller kreve tilbakebetaling av utbetalt tilskudd dersom:sluttavregning viser at tilskuddsmottakeren har mottatt for mye i utbetalt tilskudd,tilskuddsmottakeren har brutt opplysningsplikten i [§ 10](forskrift/2016-10-12-1209/§10),tilskuddet ikke blir benyttet i henhold til forutsetninger for tilskuddet ellertilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften eller vilkår fastsatt med hjemmel i denne forskriften, eller dokumentert brudd på annen relevant regelverk sanksjonert av annen offentlig myndighet.
+Norsk filminstitutt kan trekke tilbake tilsagn om tilskudd, holde tilbake tilskudd eller kreve tilbakebetaling av utbetalt tilskudd dersom:
+
+1. sluttavregning viser at tilskuddsmottakeren har mottatt for mye i utbetalt tilskudd,
+2. tilskuddsmottakeren har brutt opplysningsplikten i [§ 10](forskrift/2016-10-12-1209/§10),
+3. tilskuddet ikke blir benyttet i henhold til forutsetninger for tilskuddet eller
+4. tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften eller vilkår fastsatt med hjemmel i denne forskriften, eller dokumentert brudd på annen relevant regelverk sanksjonert av annen offentlig myndighet.
 
 Ved krav om tilbakebetaling kan det fastsettes rente etter forsinkelsesrenteloven.
 

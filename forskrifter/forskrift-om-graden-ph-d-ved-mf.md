@@ -15,7 +15,7 @@ xml_hash: "67f56d858620f02c9165d752ab038be738429286cd202e21bef35a62fb9710b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,13 @@ Ph.d.-utdanningen omfattes av institusjonens kvalitetssystem.
 
 For opptak til ph.d.-utdanningen må søkeren normalt ha cand.theol.-grad, en femårig mastergrad eller tilsvarende. Institusjonen kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak.
 
-Søknaden skal inneholde:Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.Prosjektbeskrivelse med fremdriftsplanAngivelse av undersøkelsens materialeAngivelse av eventuelle behov for faglige og materielle ressurser av større omfangForslag til minst en veileder
+Søknaden skal inneholde:
+
+- Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.
+- Prosjektbeskrivelse med fremdriftsplan
+- Angivelse av undersøkelsens materiale
+- Angivelse av eventuelle behov for faglige og materielle ressurser av større omfang
+- Forslag til minst en veileder
 
 Forskningsutvalget ved MF vitenskapelig høyskole fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon.
 
@@ -78,7 +84,10 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. MF vitenskapelig 
 
 Opptaksvedtaket skal fastsette opptaksperioden og oppnevne minst en veileder. I tillegg plasseres ansvaret for håndtering av andre behov som er skissert i søknaden.
 
-Opptak skal nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at institusjonen ikke bør medvirke i prosjektet.
+Opptak skal nektes om:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått er så urimelige at institusjonen ikke bør medvirke i prosjektet.
 
 ### § 5-4. Avtaleperiode
 
@@ -102,7 +111,13 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 *Tvungen avslutning:*
 
-Forskningsutvalget kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2012-06-05-645/§9).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk som rammes av reglene i universitets- og [høyskoleloven § 4-7](lov/2005-04-01-15/§4-7).Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
+Forskningsutvalget kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2012-06-05-645/§9).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk som rammes av reglene i universitets- og [høyskoleloven § 4-7](lov/2005-04-01-15/§4-7).
+- Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
 
 Ph.d.-kandidater som er ansatt ved MF vitenskapelig høyskole, kan sies opp fra sin stilling når det er saklig grunn i virksomhetens eller den ansattes forhold, jf. arbeidsmiljøloven § 15.
 
@@ -240,7 +255,12 @@ For ph.d.-kandidater uten arbeidsgiver skal tilsvarende meldeplikt nedfelles i o
 
 ### § 12-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:godkjent vitenskapelig avhandlinggodkjent gjennomføring av kursdelen, ev. annen godkjent faglig skolering eller kompetansegodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas)
+Ph.d.-graden tildeles på grunnlag av:
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av kursdelen, ev. annen godkjent faglig skolering eller kompetanse
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas)
 
 ### § 12-2. Tidsbruk fra innlevering til disputas
 
@@ -254,7 +274,13 @@ Hovedveileder skal varsle Forskningsutvalgets leder når innlevering er nært fo
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent. Søknad rettes til rektor.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til MF vitenskapelig høyskoles bestemmelser i den form og det antall eksemplarer institusjonen har bestemt.Dokumentasjon av nødvendige tillatelser, jf. § 5-1.Medforfattererklæringer hvor dette er påkrevd i henhold til § 10-1.Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke samtidig er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format og i henhold til MF vitenskapelig høyskoles bestemmelser i den form og det antall eksemplarer institusjonen har bestemt.
+- Dokumentasjon av nødvendige tillatelser, jf. § 5-1.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til § 10-1.
+- Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at doktorgradsarbeidet ikke samtidig er levert inn til bedømmelse ved annen institusjon.
 
 Institusjonen kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -272,7 +298,13 @@ Rektor godkjenner søknad om å få avhandlingen bedømt og oppnevner deretter e
 
 Komiteens sammensetning bør normalt være klarlagt ved innleveringstidspunkt.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til MF vitenskapelig høyskoleminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- minst ett av medlemmene er uten tilknytning til MF vitenskapelig høyskole
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- flertallet i bedømmelseskomiteen er eksterne medlemmer
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

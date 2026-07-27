@@ -32,7 +32,11 @@ Sentral- eller fylkesleddet i frivillige organisasjoner eller sentrale institusj
 
 ## § 3. Tildelingskriterier
 
-Det vil primært gis tilskudd til tiltak som;fremmer jakt og fangst som friluftsaktivitetbidrar til økt forståelse av høstbart vilt som en utmarksressursbidrar til økt interesse, deltakelse og rekruttering til det høstingsbaserte friluftslivet.
+Det vil primært gis tilskudd til tiltak som;
+
+1. fremmer jakt og fangst som friluftsaktivitet
+2. bidrar til økt forståelse av høstbart vilt som en utmarksressurs
+3. bidrar til økt interesse, deltakelse og rekruttering til det høstingsbaserte friluftslivet.
 
 Det kan også gis tilskudd til tiltak som kan bidra til å øke forståelsen for bruk av øvrige utmarksressurser hos barn og unge.
 

@@ -15,7 +15,7 @@ xml_hash: "d8915b62570abc74bdf072881f15f356825200e0420431675f37540dc408cc95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,20 @@ eu_basis: []
 
 ### § 1. Lovens formål
 
-Formålet med loven er at behandling av helseopplysninger skal skje på en måte somgir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, ogsikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning.
+Formålet med loven er at behandling av helseopplysninger skal skje på en måte som
+
+1. gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og
+2. sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning.
 
 ### § 2. Definisjoner
 
-I denne loven forstås med:*helsehjelp:* enhver handling som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3) første ledd*helseopplysninger:* personopplysninger om en fysisk persons fysiske eller psykiske helse, herunder om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. personvernforordningen artikkel 4 nr. 15*behandling av helseopplysninger:* enhver operasjon eller rekke av operasjoner som gjøres med helseopplysninger, enten automatisert eller ikke, for eksempel innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring, jf. personvernforordningen artikkel 4 nr. 2*behandlingsrettet helseregister:* pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk, slik at opplysninger om den enkelte kan finnes igjen, og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner*dataansvarlig:* ansvarlig for behandling av helseopplysninger etter personvernforordningen artikkel 4 nr. 7.
+I denne loven forstås med:
+
+1. *helsehjelp:* enhver handling som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3) første ledd
+2. *helseopplysninger:* personopplysninger om en fysisk persons fysiske eller psykiske helse, herunder om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. personvernforordningen artikkel 4 nr. 15
+3. *behandling av helseopplysninger:* enhver operasjon eller rekke av operasjoner som gjøres med helseopplysninger, enten automatisert eller ikke, for eksempel innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring, jf. personvernforordningen artikkel 4 nr. 2
+4. *behandlingsrettet helseregister:* pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk, slik at opplysninger om den enkelte kan finnes igjen, og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner
+5. *dataansvarlig:* ansvarlig for behandling av helseopplysninger etter personvernforordningen artikkel 4 nr. 7.
 
 > Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)).
 
@@ -72,7 +81,15 @@ Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring sk
 
 Behandlingsrettede helseregistre skal understøtte pasientforløp i klinisk praksis og være lett å bruke og å finne frem i.
 
-Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:taushetsplikt, jf. [§ 15](lov/2014-06-20-42/§15),forbud mot urettmessig tilegnelse av helseopplysninger, jf. [§ 16](lov/2014-06-20-42/§16),retten til å motsette seg behandling av helseopplysninger, jf. [§ 17](lov/2014-06-20-42/§17),retten til informasjon og innsyn, jf. [§ 18](lov/2014-06-20-42/§18),helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov/1999-07-02-64/§39),tilgjengeliggjøring av helseopplysninger, jf. [§§ 19](lov/2014-06-20-42/§19) og [20](lov/2014-06-20-42/§20) oginformasjonssikkerhet, logg og internkontroll, jf. [§§ 22](lov/2014-06-20-42/§22), [22 a](lov/2014-06-20-42/§22a) og [23](lov/2014-06-20-42/§23).
+Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:
+
+1. taushetsplikt, jf. [§ 15](lov/2014-06-20-42/§15),
+2. forbud mot urettmessig tilegnelse av helseopplysninger, jf. [§ 16](lov/2014-06-20-42/§16),
+3. retten til å motsette seg behandling av helseopplysninger, jf. [§ 17](lov/2014-06-20-42/§17),
+4. retten til informasjon og innsyn, jf. [§ 18](lov/2014-06-20-42/§18),
+5. helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov/1999-07-02-64/§39),
+6. tilgjengeliggjøring av helseopplysninger, jf. [§§ 19](lov/2014-06-20-42/§19) og [20](lov/2014-06-20-42/§20) og
+7. informasjonssikkerhet, logg og internkontroll, jf. [§§ 22](lov/2014-06-20-42/§22), [22 a](lov/2014-06-20-42/§22a) og [23](lov/2014-06-20-42/§23).
 
 Virksomheten skal ta hensyn til behovet for effektiv samhandling ved anskaffelse og videreutvikling av sine behandlingsrettede helseregistre.
 
@@ -84,11 +101,22 @@ Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektr
 
 Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov/1999-07-02-64/§39).
 
-Departementet kan gi forskrift om at virksomheter som yter helse- og omsorgstjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61), [helse- og omsorgstjenesteloven](lov/2011-06-24-30), [apotekloven](lov/2000-06-02-39) og [tannhelsetjenesteloven](lov/1983-06-03-54), skal ta i bruk følgende nasjonale e-helseløsninger i virksomheten:helsenettet: nasjonal infrastruktur med felles tjenester og felleskomponenter for utveksling av opplysninger med virksomheter i helse- og omsorgssektorennasjonal kjernejournal opprettet etter [§ 13](lov/2014-06-20-42/§13)elektronisk kommunikasjonskjede for overføring av reseptinformasjon opprettet etter [§ 12](lov/2014-06-20-42/§12).
+Departementet kan gi forskrift om at virksomheter som yter helse- og omsorgstjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61), [helse- og omsorgstjenesteloven](lov/2011-06-24-30), [apotekloven](lov/2000-06-02-39) og [tannhelsetjenesteloven](lov/1983-06-03-54), skal ta i bruk følgende nasjonale e-helseløsninger i virksomheten:
+
+1. helsenettet: nasjonal infrastruktur med felles tjenester og felleskomponenter for utveksling av opplysninger med virksomheter i helse- og omsorgssektoren
+2. nasjonal kjernejournal opprettet etter [§ 13](lov/2014-06-20-42/§13)
+3. elektronisk kommunikasjonskjede for overføring av reseptinformasjon opprettet etter [§ 12](lov/2014-06-20-42/§12).
 
 Departementet kan også gi forskrift om at virksomheter nevnt i andre ledd skal gjøre digitale tjenester tilgjengelige på en nasjonal innbyggerportal.
 
-Departementet kan gi forskrift om:betaling for bruk av helsenettetat regionale helseforetak og kommuner skal betale for at de nasjonale e-helseløsningene nevnt i andre og tredje ledd gjøres tilgjengelige for virksomheter i helse- og omsorgstjenesten eller allmennhetenat apotek og bandasjister som har gjort løsningen nevnt i andre ledd bokstav c tilgjengelig i virksomheten, skal betale for løsningendet nærmere innholdet i betalingsplikten og løsningene, hvem som er dataansvarlig, og statlige foretaks ansvar for å tilby løsningene.Virksomhetenes samlede betaling skal ikke overstige kostnadene til forvaltning og drift av løsningene.
+Departementet kan gi forskrift om:
+
+1. betaling for bruk av helsenettet
+2. at regionale helseforetak og kommuner skal betale for at de nasjonale e-helseløsningene nevnt i andre og tredje ledd gjøres tilgjengelige for virksomheter i helse- og omsorgstjenesten eller allmennheten
+3. at apotek og bandasjister som har gjort løsningen nevnt i andre ledd bokstav c tilgjengelig i virksomheten, skal betale for løsningen
+4. det nærmere innholdet i betalingsplikten og løsningene, hvem som er dataansvarlig, og statlige foretaks ansvar for å tilby løsningene.
+
+Virksomhetenes samlede betaling skal ikke overstige kostnadene til forvaltning og drift av løsningene.
 
 Forskrift om kommunenes plikt etter andre og tredje ledd kan ikke fastsettes før en vesentlig andel av kommunene har tilgjengeliggjort eller tatt i bruk den enkelte løsningen.
 
@@ -96,7 +124,12 @@ Forskrift om kommunenes plikt etter andre og tredje ledd kan ikke fastsettes fø
 
 ### § 9. Samarbeid mellom virksomheter om behandlingsrettede helseregistre
 
-To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. [§ 8](lov/2014-06-20-42/§8). Virksomhetene skal da inngå skriftlig avtale omhva samarbeidet omfatter,hvordan pasientens eller brukerens rettigheter skal ivaretas,hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, ogdataansvar.
+To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. [§ 8](lov/2014-06-20-42/§8). Virksomhetene skal da inngå skriftlig avtale om
+
+1. hva samarbeidet omfatter,
+2. hvordan pasientens eller brukerens rettigheter skal ivaretas,
+3. hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og
+4. dataansvar.
 
 Departementet kan i forskrift eller enkeltvedtak fastsette vilkår for slikt samarbeid.
 
@@ -110,7 +143,11 @@ Formålet med behandlingen av helseopplysningene skal være å yte og kvalitetss
 
 Helseopplysningene kan behandles uten samtykke fra den registrerte, men den registrerte har rett til å motsette seg behandlingen. Den dataansvarlige skal sørge for at den registrerte så snart som mulig etter at opplysningene er samlet inn, får nødvendig informasjon for at vedkommende skal få innsikt i hva retten til å motsette seg behandling av opplysningene innebærer.
 
-Helseopplysningene kan, i samsvar med formålet i annet ledd og uten hinder av taushetsplikt, tilgjengeliggjøres fra registeret dersom den som får tilgang til opplysningeneer underlagt lovbestemt taushetsplikt,godtgjør at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9) oghar gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal gjøres for å ivareta informasjonssikkerheten.
+Helseopplysningene kan, i samsvar med formålet i annet ledd og uten hinder av taushetsplikt, tilgjengeliggjøres fra registeret dersom den som får tilgang til opplysningene
+
+1. er underlagt lovbestemt taushetsplikt,
+2. godtgjør at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9) og
+3. har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal gjøres for å ivareta informasjonssikkerheten.
 
 Den dataansvarlige skal vurdere om vilkårene for tilgjengeliggjøring er oppfylt.
 
@@ -184,7 +221,12 @@ Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke ell
 
 ### § 17. Rett til å motsette seg behandling av helseopplysninger
 
-Pasienten eller brukeren kan motsette seg athelseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov/2014-06-20-42/§8) til [10](lov/2014-06-20-42/§10) gjøres tilgjengelige for helsepersonell etter [§ 19](lov/2014-06-20-42/§19), jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3),opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov/2014-06-20-42/§11), oghelseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov/2014-06-20-42/§13).helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov/2014-06-20-42/§9a).
+Pasienten eller brukeren kan motsette seg at
+
+1. helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov/2014-06-20-42/§8) til [10](lov/2014-06-20-42/§10) gjøres tilgjengelige for helsepersonell etter [§ 19](lov/2014-06-20-42/§19), jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3),
+2. opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov/2014-06-20-42/§11), og
+3. helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov/2014-06-20-42/§13).
+4. helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov/2014-06-20-42/§9a).
 
 Reglene om beslutningskompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov/1999-07-02-63/§4-3) til [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
 
@@ -222,7 +264,10 @@ Den dataansvarlige kan gjøre helseopplysninger tilgjengelige for andre formål 
 
 Den dataansvarlige kan innhente personopplysninger fra Folkeregisteret når dette er nødvendig for å oppfylle den dataansvarliges plikter etter loven. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven.
 
-Når det er nødvendig for å løse oppgaver helse- og omsorgstjenesten eller helse- og omsorgsforvaltningen er pålagt i lov eller forskrift, kan Norsk helsenett SFinnhente personopplysninger fra Folkeregisteret uten hinder av taushetsplikt, behandle opplysningene og sammenstille opplysningene med andre nødvendige opplysningerdele opplysninger som nevnt i bokstav a med virksomheter i helse- og omsorgstjenesten og helse- og omsorgsforvaltningen.
+Når det er nødvendig for å løse oppgaver helse- og omsorgstjenesten eller helse- og omsorgsforvaltningen er pålagt i lov eller forskrift, kan Norsk helsenett SF
+
+1. innhente personopplysninger fra Folkeregisteret uten hinder av taushetsplikt, behandle opplysningene og sammenstille opplysningene med andre nødvendige opplysninger
+2. dele opplysninger som nevnt i bokstav a med virksomheter i helse- og omsorgstjenesten og helse- og omsorgsforvaltningen.
 
 Departementet kan gi forskrift om dataansvar og behandling av opplysninger etter andre ledd.
 
@@ -242,7 +287,12 @@ Departementet kan i forskrift fastsette nærmere krav til tekniske og organisato
 
 ### § 22 a. Dokumentasjon av tilgjengeliggjøring
 
-Tilgjengeliggjøring av helseopplysninger etter denne loven og [helsepersonelloven](lov/1999-07-02-64) skal dokumenteres i en logg eller i pasientens journal. I logg skal det minst dokumenteres informasjon om:identiteten og den organisatoriske tilhørigheten til den som får helseopplysningenegrunnlaget for tilgjengeliggjøringentidsperioden for tilgjengeliggjøringenhvilke opplysninger eller dokumenter som blir tilgjengeliggjort.
+Tilgjengeliggjøring av helseopplysninger etter denne loven og [helsepersonelloven](lov/1999-07-02-64) skal dokumenteres i en logg eller i pasientens journal. I logg skal det minst dokumenteres informasjon om:
+
+1. identiteten og den organisatoriske tilhørigheten til den som får helseopplysningene
+2. grunnlaget for tilgjengeliggjøringen
+3. tidsperioden for tilgjengeliggjøringen
+4. hvilke opplysninger eller dokumenter som blir tilgjengeliggjort.
 
 Den registrerte har rett til innsyn i dokumentasjonen.
 
@@ -308,7 +358,13 @@ Overtredelse av [§ 15](lov/2014-06-20-42/§15) om taushetsplikt straffes etter 
 
 Den som forsettlig eller grovt uaktsomt overtrer forbudet i [§ 16](lov/2014-06-20-42/§16) mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil ett år.
 
-Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil tre år. Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov, skal det særlig legges vekt påfaren for stor skade eller ulempe for pasienten eller brukerenom det foreligger en tilsiktet vinning med overtredelsenovertredelsens varighet og omfangden utviste skyldom handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
+Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil tre år. Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov, skal det særlig legges vekt på
+
+1. faren for stor skade eller ulempe for pasienten eller brukeren
+2. om det foreligger en tilsiktet vinning med overtredelsen
+3. overtredelsens varighet og omfang
+4. den utviste skyld
+5. om handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
 
 > Tilføyd ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 

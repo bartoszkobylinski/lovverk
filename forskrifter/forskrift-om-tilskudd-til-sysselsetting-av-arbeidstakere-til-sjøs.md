@@ -15,7 +15,7 @@ xml_hash: "8ce57024b4ad8ff77afc04bb8cbc45f267a4c4ccd9144fbf734bc14c06f7c3d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,21 @@ Formålet med tilskuddsordningen er å legge til rette for maritim virksomhet. O
 
 ### § 2. Virkeområde
 
-Tilskudd kan gis til alle organisasjoner som har drift av skip i norsk ordinært skipsregister (NOR) eller norsk internasjonalt skipsregister (NIS) dersom organisasjonen:har arbeidsgivernummer i Pensjonstrygden for sjømennutbetaler løpende lønn til hele sikkerhetsbemanningenhar skip over 100 BToppfyller krav til opplæringsstillinger i [§ 5](forskrift/2016-02-26-204/§5)oppfyller krav til tilskuddsberettigede arbeidstakere til sjøs i [§ 6](forskrift/2016-02-26-204/§6) oghar skip som kommer inn under en av modellene i [§ 8](forskrift/2016-02-26-204/§8) – § 15.
+Tilskudd kan gis til alle organisasjoner som har drift av skip i norsk ordinært skipsregister (NOR) eller norsk internasjonalt skipsregister (NIS) dersom organisasjonen:
 
-Nedenstående skip omfattes ikke av ordningen:fiske- og fangstfartøyskip som utelukkende utfører offentlige oppgaver eller som eies eller leies av det offentligeskip som mottar annet offentlig tilskudd, med unntak av skoleskip jf. [§ 12](forskrift/2016-02-26-204/§12) ellerskip som gjør leteboring eller utvinning.
+1. har arbeidsgivernummer i Pensjonstrygden for sjømenn
+2. utbetaler løpende lønn til hele sikkerhetsbemanningen
+3. har skip over 100 BT
+4. oppfyller krav til opplæringsstillinger i [§ 5](forskrift/2016-02-26-204/§5)
+5. oppfyller krav til tilskuddsberettigede arbeidstakere til sjøs i [§ 6](forskrift/2016-02-26-204/§6) og
+6. har skip som kommer inn under en av modellene i [§ 8](forskrift/2016-02-26-204/§8) – § 15.
+
+Nedenstående skip omfattes ikke av ordningen:
+
+1. fiske- og fangstfartøy
+2. skip som utelukkende utfører offentlige oppgaver eller som eies eller leies av det offentlige
+3. skip som mottar annet offentlig tilskudd, med unntak av skoleskip jf. [§ 12](forskrift/2016-02-26-204/§12) eller
+4. skip som gjør leteboring eller utvinning.
 
 Ordningen omfatter også skip, med unntak av slepebåter og mudringsfartøy, som er på verksted, klassing, har ledige perioder mellom kontraktsoppdrag eller ligger i varmt opplag forutsatt at vilkårene i første ledd er oppfylt.
 
@@ -70,7 +82,11 @@ Det kan søkes om dispensasjon fra kravet om opplæringsstillinger. Rederi som e
 
 ### § 6. Tilskuddsberettigede arbeidstakere til sjøs
 
-Tilskuddsberettigede arbeidstakere til sjøs må tilfredsstille følgende vilkår:har rett til sjømannsfradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61)har sitt arbeid om bord som sin hovedbeskjeftigelse og er en del av skipets mannskaphar fått inntekten innberettet til Pensjonstrygden for sjømenn jf. [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn.
+Tilskuddsberettigede arbeidstakere til sjøs må tilfredsstille følgende vilkår:
+
+1. har rett til sjømannsfradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61)
+2. har sitt arbeid om bord som sin hovedbeskjeftigelse og er en del av skipets mannskap
+3. har fått inntekten innberettet til Pensjonstrygden for sjømenn jf. [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn.
 
 Lønns- og arbeidsvilkårene for tilskuddsberettigede arbeidstakere til sjøs skal være dekket av tariffavtale med sjømannsorganisasjonene. Hvis rederiet ikke er medlem av en arbeidsgiverorganisasjon, må rederiet inngå en tiltredelseserklæring med sjømannsorganisasjonene.
 
@@ -146,7 +162,10 @@ Tilskuddsbeløpet begrenses til 26 % per termin av innbetalt norsk forskuddstre
 
 ### § 13a. Tilskudd for NIS lasteskip i utenriksfart
 
-Tilskudd for NIS lasteskip i utenriksfart omfatterskip over 10 000 BT som transporterer olje, kjemikalier, gass eller ro/ro-last i utenriksfart, ogskip mellom 3000 og 10 000 BT som transporterer olje, kjemikalier, gass eller ro/ro-last i utenriksfart, og som i terminen ikke har utført transportoppdrag mellom europeiske havner, herunder norske havner.
+Tilskudd for NIS lasteskip i utenriksfart omfatter
+
+1. skip over 10 000 BT som transporterer olje, kjemikalier, gass eller ro/ro-last i utenriksfart, og
+2. skip mellom 3000 og 10 000 BT som transporterer olje, kjemikalier, gass eller ro/ro-last i utenriksfart, og som i terminen ikke har utført transportoppdrag mellom europeiske havner, herunder norske havner.
 
 Det gis tilskudd for tilskuddsberettigede arbeidstakere til sjøs jf. [§ 6](forskrift/2016-02-26-204/§6), herunder for opplæringsstillinger.
 
@@ -186,9 +205,20 @@ Organisasjoner som søker tilskudd skal ved første søknad om tilskudd og deret
 
 Organisasjoner som søker tilskudd skal ved femte termin hvert år vedlegge rederiets sist vedtatte årsregnskap med revisjonsberetning fra statsautorisert revisor, registrert revisor eller regnskapsfører, jf. [§ 19](forskrift/2016-02-26-204/§19).
 
-Organisasjoner som søker tilskudd skal ved 6. termin hvert år korrigere:Arbeidstakere til sjøs som likevel har rett til sjømannsfradragArbeidstakere til sjøs som likevel ikke hadde rett til sjømannsfradrag.
+Organisasjoner som søker tilskudd skal ved 6. termin hvert år korrigere:
 
-Søknaden skal inneholde:Oversikt over opplæringsstillingerTilskuddsliste/inntektsoversiktSkatt og arbeidsgiveravgift fordelt på skipKvittering på innbetalt skatt og arbeidsgiveravgiftOpplæringskontrakterKontrakter på utenlandske arbeidstakere til sjøs som inngår i sikkerhetsbemanningen, men som ikke blir innberettet til Pensjonstrygden for sjømennEventuell dokumentasjon på dispensasjon fra krav til opplæringsstillinger.
+1. Arbeidstakere til sjøs som likevel har rett til sjømannsfradrag
+2. Arbeidstakere til sjøs som likevel ikke hadde rett til sjømannsfradrag.
+
+Søknaden skal inneholde:
+
+1. Oversikt over opplæringsstillinger
+2. Tilskuddsliste/inntektsoversikt
+3. Skatt og arbeidsgiveravgift fordelt på skip
+4. Kvittering på innbetalt skatt og arbeidsgiveravgift
+5. Opplæringskontrakter
+6. Kontrakter på utenlandske arbeidstakere til sjøs som inngår i sikkerhetsbemanningen, men som ikke blir innberettet til Pensjonstrygden for sjømenn
+7. Eventuell dokumentasjon på dispensasjon fra krav til opplæringsstillinger.
 
 > Endret ved forskrift [15 sep 2023 nr. 1430](forskrift/2023-09-15-1430).
 
@@ -223,7 +253,12 @@ Dokumentasjonsbestemmelsen medfører ingen begrensninger i de bestemmelser om do
 
 Organisasjonene som søker tilskudd skal ha statsautorisert eller registrert revisor, eventuelt regnskapsfører dersom rederiet ikke er pliktig til å ha revisor, jf. [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven) eller [lov 15. januar 1999 nr. 2](lov/1999-01-15-2) om revisjon og revisorer (revisorloven).
 
-Revisor eller regnskapsfører skal bekrefte nedenstående ved første søknad og deretter hvert år det søkes om tilskuddarbeidstakere til sjøs har forventet rett til sjømannsfradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61)arbeidstakere til sjøs har sitt arbeid om bord som sin hovedbeskjeftigelse og er en del av skipets mannskaparbeidstakere til sjøs vil få inntekten innberettet til Pensjonstrygden for sjømennsørge for at tilskuddet blir spesifisert i årsregnskapet til tilskuddsmottaker.
+Revisor eller regnskapsfører skal bekrefte nedenstående ved første søknad og deretter hvert år det søkes om tilskudd
+
+1. arbeidstakere til sjøs har forventet rett til sjømannsfradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61)
+2. arbeidstakere til sjøs har sitt arbeid om bord som sin hovedbeskjeftigelse og er en del av skipets mannskap
+3. arbeidstakere til sjøs vil få inntekten innberettet til Pensjonstrygden for sjømenn
+4. sørge for at tilskuddet blir spesifisert i årsregnskapet til tilskuddsmottaker.
 
 ## Kapittel 4. Utbetaling og klage
 

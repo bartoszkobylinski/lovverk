@@ -15,7 +15,7 @@ xml_hash: "4522c40b089036452310acc37818eaebb49ed10b6c92c3988e03b5368d79b886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,4 +36,23 @@ Følgende tillegg/endringer innarbeides i Sikkerhetsinstruksen/Beskyttelsesinstr
 
 ## III
 
-Det opprettes et rådgivende organ for nedgraderingsspørsmål.Rådet har følgende sammensetning:1 representant for Statsministerens kontor1 representant for Utenriksdepartementet1 representant for Justisdepartementet1 representant for Forsvarsdepartementet1 representant for Forsvarssjefen1 representant for Riksarkivaren2 representanter for forskere/brukergrupper oppnevnt av Kultur- og vitenskapsdepartementet.Representantene skal være sikkerhetsklarert for til og med HEMMELIG informasjon.Nedgraderingsrådet har følgende oppgaver:Rådet skal holde seg informert om praksis og bruk med hensyn til gradering og nedgradering innen statsforvaltningen. Rådet skal på eget initiativ ta opp og behandle generelle spørsmål om nedgradering.Rådet skal bidra til en mest mulig ensartet praktisering av regelverket for nedgradering i de ulike offentlige institusjoner.Nedgraderingsrådet er administrativt underlagt forsvarsdepartementet som har sekretariatfunksjon. Rådet skal møte etter behov, eller minst to ganger årlig.Berørte departementer skal utferdige årlige rapporter til nedgraderingsrådet om deres og de underlagte etaters erfaringer på dette området herunder eventuelle problemer vedrørende nedgraderingsspørsmål.
+Det opprettes et rådgivende organ for nedgraderingsspørsmål.
+
+1. Rådet har følgende sammensetning:
+
+   - 1 representant for Statsministerens kontor
+   - 1 representant for Utenriksdepartementet
+   - 1 representant for Justisdepartementet
+   - 1 representant for Forsvarsdepartementet
+   - 1 representant for Forsvarssjefen
+   - 1 representant for Riksarkivaren
+   - 2 representanter for forskere/brukergrupper oppnevnt av Kultur- og vitenskapsdepartementet.
+
+   Representantene skal være sikkerhetsklarert for til og med HEMMELIG informasjon.
+
+   Nedgraderingsrådet har følgende oppgaver:
+
+   1. Rådet skal holde seg informert om praksis og bruk med hensyn til gradering og nedgradering innen statsforvaltningen. Rådet skal på eget initiativ ta opp og behandle generelle spørsmål om nedgradering.
+   2. Rådet skal bidra til en mest mulig ensartet praktisering av regelverket for nedgradering i de ulike offentlige institusjoner.
+   3. Nedgraderingsrådet er administrativt underlagt forsvarsdepartementet som har sekretariatfunksjon. Rådet skal møte etter behov, eller minst to ganger årlig.
+2. Berørte departementer skal utferdige årlige rapporter til nedgraderingsrådet om deres og de underlagte etaters erfaringer på dette området herunder eventuelle problemer vedrørende nedgraderingsspørsmål.

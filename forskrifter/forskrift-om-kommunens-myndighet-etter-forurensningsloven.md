@@ -26,37 +26,95 @@ eu_basis: []
 
 ### § 1. Kommunes myndighet etter forskrifter til forurensningsloven
 
-Kommunen er forurensningsmyndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5), etter følgende forskrifter:[Forskrift 1. juni 2004 nr. 931 om begrensning av forurensning](forskrift/2004-06-01-931)[Kapittel 2](forskrift/2004-06-01-931/kap2) om opprydding i forurenset grunn ved bygge- og gravearbeider[Kapittel 4](forskrift/2004-06-01-931/kap4) om anlegg, drift og vedlikehold av planeringsfelt[Kapittel 7](forskrift/2004-06-01-931/kap7) om lokal luftkvalitet[Kapittel 12](forskrift/2004-06-01-931/kap12) om krav til utslipp av sanitært avløpsvann fra bolighus, hytter og lignende[Kapittel 13](forskrift/2004-06-01-931/kap13) om krav til utslipp av kommunalt avløpsvann fra mindre tettbebyggelser[Kapittel 15](forskrift/2004-06-01-931/kap15) om krav til utslipp av oljeholdig avløpsvann[Kapittel 15A](forskrift/2004-06-01-931/kap15A) om påslipp[Forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)[Forskrift 28. juni 2018 nr. 1060 om forbud mot bruk av mineralolje til oppvarming av bygninger](forskrift/2018-06-28-1060)[Forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 14a](forskrift/2004-06-01-930/kap14a).
+Kommunen er forurensningsmyndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5), etter følgende forskrifter:
+
+1. [Forskrift 1. juni 2004 nr. 931 om begrensning av forurensning](forskrift/2004-06-01-931)
+
+   1. [Kapittel 2](forskrift/2004-06-01-931/kap2) om opprydding i forurenset grunn ved bygge- og gravearbeider
+   2. [Kapittel 4](forskrift/2004-06-01-931/kap4) om anlegg, drift og vedlikehold av planeringsfelt
+   3. [Kapittel 7](forskrift/2004-06-01-931/kap7) om lokal luftkvalitet
+   4. [Kapittel 12](forskrift/2004-06-01-931/kap12) om krav til utslipp av sanitært avløpsvann fra bolighus, hytter og lignende
+   5. [Kapittel 13](forskrift/2004-06-01-931/kap13) om krav til utslipp av kommunalt avløpsvann fra mindre tettbebyggelser
+   6. [Kapittel 15](forskrift/2004-06-01-931/kap15) om krav til utslipp av oljeholdig avløpsvann
+   7. [Kapittel 15A](forskrift/2004-06-01-931/kap15A) om påslipp
+2. [Forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)
+3. [Forskrift 28. juni 2018 nr. 1060 om forbud mot bruk av mineralolje til oppvarming av bygninger](forskrift/2018-06-28-1060)
+4. [Forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 14a](forskrift/2004-06-01-930/kap14a).
 
 > Endret ved forskrift [18 mars 2025 nr. 476](forskrift/2025-03-18-476).
 
 ### § 2. Kommunens myndighet på avfallsområdet
 
-I tillegg til myndighet som er lagt direkte til kommunen i [forurensningsloven kapittel 5](lov/1981-03-13-6/kap5) og myndighet gitt i forskrifter nevnt i [§ 1](lov/1981-03-13-6/§1), har kommunen følgende myndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5):gi pålegg etter [forurensningsloven § 37 andre ledd](lov/1981-03-13-6/§37/ledd/2)føre tilsyn med at besitter av næringsavfall som ikke i art eller mengde skiller seg vesentlig fra husholdningsavfall håndterer dette forsvarlig.
+I tillegg til myndighet som er lagt direkte til kommunen i [forurensningsloven kapittel 5](lov/1981-03-13-6/kap5) og myndighet gitt i forskrifter nevnt i [§ 1](lov/1981-03-13-6/§1), har kommunen følgende myndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5):
+
+1. gi pålegg etter [forurensningsloven § 37 andre ledd](lov/1981-03-13-6/§37/ledd/2)
+2. føre tilsyn med at besitter av næringsavfall som ikke i art eller mengde skiller seg vesentlig fra husholdningsavfall håndterer dette forsvarlig.
 
 ### § 3. Kommunes myndighet på avløpsområdet
 
-I tillegg til myndighet som er lagt direkte til kommunen i [forurensningsloven kapittel 4](lov/1981-03-13-6/kap4) og myndighet gitt i forskrifter nevnt i [§ 1](lov/1981-03-13-6/§1), er kommunen forurensningsmyndighet, jf. [§ 5](lov/1981-03-13-6/§5), i henhold til følgende bestemmelser i [forurensningsloven](lov/1981-03-13-6):[§ 22 andre ledd](lov/1981-03-13-6/§22/ledd/2)[§ 23 første](lov/1981-03-13-6/§23/ledd/1) og [andre ledd](lov/1981-03-13-6/§23/ledd/2), begrenset til avløpsanlegg kommunen er forurensningsmyndighet for etter [forurensningsforskriften](forskrift/2004-06-01-931)[§ 24 andre ledd](lov/1981-03-13-6/§24/ledd/2), begrenset til avløpsanlegg kommunen er forurensningsmyndighet for etter [forurensningsforskriften](forskrift/2004-06-01-931)[§ 26 femte ledd](lov/1981-03-13-6/§26/ledd/5).
+I tillegg til myndighet som er lagt direkte til kommunen i [forurensningsloven kapittel 4](lov/1981-03-13-6/kap4) og myndighet gitt i forskrifter nevnt i [§ 1](lov/1981-03-13-6/§1), er kommunen forurensningsmyndighet, jf. [§ 5](lov/1981-03-13-6/§5), i henhold til følgende bestemmelser i [forurensningsloven](lov/1981-03-13-6):
+
+1. [§ 22 andre ledd](lov/1981-03-13-6/§22/ledd/2)
+2. [§ 23 første](lov/1981-03-13-6/§23/ledd/1) og [andre ledd](lov/1981-03-13-6/§23/ledd/2), begrenset til avløpsanlegg kommunen er forurensningsmyndighet for etter [forurensningsforskriften](forskrift/2004-06-01-931)
+3. [§ 24 andre ledd](lov/1981-03-13-6/§24/ledd/2), begrenset til avløpsanlegg kommunen er forurensningsmyndighet for etter [forurensningsforskriften](forskrift/2004-06-01-931)
+4. [§ 26 femte ledd](lov/1981-03-13-6/§26/ledd/5).
 
 ### § 4. Kommunens myndighet for øvrig forurensning
 
-I tillegg til myndighet som er lagt til kommunen i forskrifter nevnt i [§ 1](forskrift/2024-12-20-3400/§1), er kommunen forurensningsmyndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5), på følgende saksområder:nedgravde oljetanker, og kan herunder fastsette forskrift i tråd med [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning kapittel 1](forskrift/2004-06-01-931/kap1)åpen brenning og brenning av avfall i småovner. Kommunen kan i lokal forskrift etter [forurensningsloven § 9](lov/1981-03-13-6/§9) fastsette strengere krav enn det som følger av [forurensningsloven § 8](lov/1981-03-13-6/§8). Kommunen fører tilsyn med at brenning er lovlig i henhold til [forurensningsloven § 8 første ledd nr. 2 og tredje ledd](lov/1981-03-13-6/§8/ledd/1/nummer/2/ledd/3).utendørs lagring av brukte gjenstander som kan medføre fare for forurensningstøy og støv fra motorsportbaner, støy fra sivile skytebaner og støy fra vindturbiner. Kommunen kan gi tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11) til slike virksomheter. Kommunens myndighet gjelder ikke virksomheter som har tillatelse fra statsforvalteren.
+I tillegg til myndighet som er lagt til kommunen i forskrifter nevnt i [§ 1](forskrift/2024-12-20-3400/§1), er kommunen forurensningsmyndighet, jf. [§ 5](forskrift/2024-12-20-3400/§5), på følgende saksområder:
+
+1. nedgravde oljetanker, og kan herunder fastsette forskrift i tråd med [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning kapittel 1](forskrift/2004-06-01-931/kap1)
+2. åpen brenning og brenning av avfall i småovner. Kommunen kan i lokal forskrift etter [forurensningsloven § 9](lov/1981-03-13-6/§9) fastsette strengere krav enn det som følger av [forurensningsloven § 8](lov/1981-03-13-6/§8). Kommunen fører tilsyn med at brenning er lovlig i henhold til [forurensningsloven § 8 første ledd nr. 2 og tredje ledd](lov/1981-03-13-6/§8/ledd/1/nummer/2/ledd/3).
+3. utendørs lagring av brukte gjenstander som kan medføre fare for forurensning
+4. støy og støv fra motorsportbaner, støy fra sivile skytebaner og støy fra vindturbiner. Kommunen kan gi tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11) til slike virksomheter. Kommunens myndighet gjelder ikke virksomheter som har tillatelse fra statsforvalteren.
 
 ## Kapittel 2. Hjemler i [forurensningsloven](lov/1981-03-13-6) som kommunen kan anvende
 
 ### § 5. Hjemler i forurensningsloven som kommunen kan anvende
 
-Innenfor de saksområdene som erlagt til kommunen direkte i [forurensningsloven kapittel 4](lov/1981-03-13-6/kap4) og [5](lov/1981-03-13-6/kap5),lagt til kommunen i [§§ 2](forskrift/2024-12-20-3400/§2) til [4](forskrift/2024-12-20-3400/§4) oglagt til kommunen i forskrifter til [forurensningsloven](lov/1981-03-13-6)kan kommunen som forurensningsmyndighet i det enkelte tilfelle anvende følgende bestemmelser i [forurensningsloven](lov/1981-03-13-6):[§ 7 fjerde ledd](lov/1981-03-13-6/§7/ledd/4): gi pålegg[§ 11](lov/1981-03-13-6/§11): gi tillatelser. Kommunens myndighet er begrenset til å gi tillatelser der det følger av forskrift eller [§ 4 bokstav d](forskrift/2024-12-20-3400/§4/bokstav/d) i denne forskriften at det kreves tillatelse fra kommunen.[§ 18](lov/1981-03-13-6/§18): endring og omgjøring av tillatelse. Kommunens myndighet er begrenset til omgjøring av tillatelser gitt av kommunen etter [§ 11](lov/1981-03-13-6/§11).[§ 48](lov/1981-03-13-6/§48): føre tilsyn[§ 49](lov/1981-03-13-6/§49): pålegg om å gi opplysninger[§ 50](lov/1981-03-13-6/§50): rett til granskning[§ 51](lov/1981-03-13-6/§51): pålegg om undersøkelse[§ 73](lov/1981-03-13-6/§73): vedtak om tvangsmulkt[§ 74](lov/1981-03-13-6/§74): umiddelbar gjennomføring ved forurensningsmyndigheten[§ 75](lov/1981-03-13-6/§75): bruk av annen manns eiendom for å bekjempe forurensing og avfallsproblemer[§ 76](lov/1981-03-13-6/§76): betaling av utgifter for tiltak mot forurensninger og avfallsproblemer[§ 78](lov/1981-03-13-6/§78): anmelde ulovlige forhold (forurensning)[§ 79](lov/1981-03-13-6/§79): anmelde ulovlige forhold (håndtering av avfall).
+Innenfor de saksområdene som er
+
+1. lagt til kommunen direkte i [forurensningsloven kapittel 4](lov/1981-03-13-6/kap4) og [5](lov/1981-03-13-6/kap5),
+2. lagt til kommunen i [§§ 2](forskrift/2024-12-20-3400/§2) til [4](forskrift/2024-12-20-3400/§4) og
+3. lagt til kommunen i forskrifter til [forurensningsloven](lov/1981-03-13-6)
+
+kan kommunen som forurensningsmyndighet i det enkelte tilfelle anvende følgende bestemmelser i [forurensningsloven](lov/1981-03-13-6):
+
+1. [§ 7 fjerde ledd](lov/1981-03-13-6/§7/ledd/4): gi pålegg
+2. [§ 11](lov/1981-03-13-6/§11): gi tillatelser. Kommunens myndighet er begrenset til å gi tillatelser der det følger av forskrift eller [§ 4 bokstav d](forskrift/2024-12-20-3400/§4/bokstav/d) i denne forskriften at det kreves tillatelse fra kommunen.
+3. [§ 18](lov/1981-03-13-6/§18): endring og omgjøring av tillatelse. Kommunens myndighet er begrenset til omgjøring av tillatelser gitt av kommunen etter [§ 11](lov/1981-03-13-6/§11).
+4. [§ 48](lov/1981-03-13-6/§48): føre tilsyn
+5. [§ 49](lov/1981-03-13-6/§49): pålegg om å gi opplysninger
+6. [§ 50](lov/1981-03-13-6/§50): rett til granskning
+7. [§ 51](lov/1981-03-13-6/§51): pålegg om undersøkelse
+8. [§ 73](lov/1981-03-13-6/§73): vedtak om tvangsmulkt
+9. [§ 74](lov/1981-03-13-6/§74): umiddelbar gjennomføring ved forurensningsmyndigheten
+10. [§ 75](lov/1981-03-13-6/§75): bruk av annen manns eiendom for å bekjempe forurensing og avfallsproblemer
+11. [§ 76](lov/1981-03-13-6/§76): betaling av utgifter for tiltak mot forurensninger og avfallsproblemer
+12. [§ 78](lov/1981-03-13-6/§78): anmelde ulovlige forhold (forurensning)
+13. [§ 79](lov/1981-03-13-6/§79): anmelde ulovlige forhold (håndtering av avfall).
 
 ## Kapittel 3. Kommunens myndighet til å fastsette forskrifter
 
 ### § 6. Myndighet til å fastsette forskrift om gebyr for saksbehandling og kontroll
 
-Kommunen har myndighet til å fastsette forskrift om gebyr i medhold av [forurensningsloven § 52a](lov/1981-03-13-6/§52a) på følgende områder:for tilsyn med besitter av næringsavfall som ikke i art eller mengde skiller seg vesentlig fra husholdningsavfall, jf. [§ 2 bokstav b](forskrift/2024-12-20-3400/§2/bokstav/b)for behandling av søknader og tilsyn i henhold til [forurensningsforskriften § 11-4](forskrift/2004-06-01-931/§11-4) vedrørende utslipp av avløpsvannfor behandling av søknader og tilsyn i henhold til [forurensningsforskriften § 2-12](forskrift/2004-06-01-931/§2-12) vedrørende opprydding i forurenset grunn ved bygge- og gravearbeider.
+Kommunen har myndighet til å fastsette forskrift om gebyr i medhold av [forurensningsloven § 52a](lov/1981-03-13-6/§52a) på følgende områder:
+
+1. for tilsyn med besitter av næringsavfall som ikke i art eller mengde skiller seg vesentlig fra husholdningsavfall, jf. [§ 2 bokstav b](forskrift/2024-12-20-3400/§2/bokstav/b)
+2. for behandling av søknader og tilsyn i henhold til [forurensningsforskriften § 11-4](forskrift/2004-06-01-931/§11-4) vedrørende utslipp av avløpsvann
+3. for behandling av søknader og tilsyn i henhold til [forurensningsforskriften § 2-12](forskrift/2004-06-01-931/§2-12) vedrørende opprydding i forurenset grunn ved bygge- og gravearbeider.
 
 ### § 7. Myndighet til å fastsette lokale forskrifter om forurensning
 
-Kommunen har myndighet til å fastsette forskrifter i medhold av [forurensingsloven § 9](lov/1981-03-13-6/§9) på følgende områder:åpen brenning og brenning av avfall i småovner, jf. [§ 4 bokstav b](forskrift/2024-12-20-3400/§4/bokstav/b)[forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 1-2](forskrift/2004-06-01-931/§1-2) om tiltak for å motvirke fare for forurensning fra nedgravde oljetanker[forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 12-6](forskrift/2004-06-01-931/§12-6) om krav til utslipp av sanitært avløpsvann fra bolighus, hytter og lignende[forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 4-7](forskrift/2004-06-01-931/§4-7) om anlegg, drift og vedlikehold av planeringsfelt[forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 15-6](forskrift/2004-06-01-931/§15-6) om oljeholdig avløpsvann[forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 15A-4](forskrift/2004-06-01-931/§15A-4) om påslipp.[forskrift 3. april 2025 nr. 594 om å begrense utslipp fra bygge- og anleggsplasser](forskrift/2025-04-03-594).
+Kommunen har myndighet til å fastsette forskrifter i medhold av [forurensingsloven § 9](lov/1981-03-13-6/§9) på følgende områder:
+
+1. åpen brenning og brenning av avfall i småovner, jf. [§ 4 bokstav b](forskrift/2024-12-20-3400/§4/bokstav/b)
+2. [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 1-2](forskrift/2004-06-01-931/§1-2) om tiltak for å motvirke fare for forurensning fra nedgravde oljetanker
+3. [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 12-6](forskrift/2004-06-01-931/§12-6) om krav til utslipp av sanitært avløpsvann fra bolighus, hytter og lignende
+4. [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 4-7](forskrift/2004-06-01-931/§4-7) om anlegg, drift og vedlikehold av planeringsfelt
+5. [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 15-6](forskrift/2004-06-01-931/§15-6) om oljeholdig avløpsvann
+6. [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning § 15A-4](forskrift/2004-06-01-931/§15A-4) om påslipp.
+7. [forskrift 3. april 2025 nr. 594 om å begrense utslipp fra bygge- og anleggsplasser](forskrift/2025-04-03-594).
 
 > Endret ved forskrifter [18 mars 2025 nr. 476](forskrift/2025-03-18-476), [3 april 2025 nr. 621](forskrift/2025-04-03-621).
 

@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Motorhistoriske kjøretøy produsert før 1950 er unntatt fra påbudet i trafikkreglene ([forskrift 21. mars 1986 nr. 747](forskrift/1986-03-21-747)) § 15 nr. 1 annet ledd, om bruk av lys under kjøring, i følgende utstrekning:Kjøretøy med karbidlykter o.l. unntas helt fra påbudet.Andre motorhistoriske kjøretøy unntas fra påbudet under motorhistoriske stevner, løp o.l. samt kjøring til og fra slike over korte distanser. Unntaket er betinget av at dårlig batteri- og ladekapasitet ellers ville vanskeliggjøre deltakelse i arrangementet.
+Motorhistoriske kjøretøy produsert før 1950 er unntatt fra påbudet i trafikkreglene ([forskrift 21. mars 1986 nr. 747](forskrift/1986-03-21-747)) § 15 nr. 1 annet ledd, om bruk av lys under kjøring, i følgende utstrekning:
+
+1. Kjøretøy med karbidlykter o.l. unntas helt fra påbudet.
+2. Andre motorhistoriske kjøretøy unntas fra påbudet under motorhistoriske stevner, løp o.l. samt kjøring til og fra slike over korte distanser. Unntaket er betinget av at dårlig batteri- og ladekapasitet ellers ville vanskeliggjøre deltakelse i arrangementet.
 
 ## § 2.
 

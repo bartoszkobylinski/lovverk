@@ -26,7 +26,14 @@ eu_basis: []
 
 ### 1. Pensjoner av forskjellig art (egen- og etterlattepensjon).
 
-Ved pensjon av forskjellig art skal hver pensjonsordning foreta isolert samordning med grunnpensjon og redusere for sin deltid. Det endelige fradrag i etterlattepensjonen skal reduseres slik:Fradraget i etterlattepensjonen er beregnet uten deltid.I samsvar med forskriftene i samordningsrundskriv nr. 11 kap. V bokstav E skal den pensjonsordning som utbetaler etterlattepensjon, redusere sitt fradrag hvis summen av dette fradrag og fradraget i egenpensjonen utgjør et høyere beløp enn det maksimale fradrag.Fradraget i etterlattepensjonen er beregnet etter deltid.Den pensjonsordning som utbetaler etterlattepensjon, skal avkorte sitt fradrag forholdsmessig.
+Ved pensjon av forskjellig art skal hver pensjonsordning foreta isolert samordning med grunnpensjon og redusere for sin deltid. Det endelige fradrag i etterlattepensjonen skal reduseres slik:
+
+1. Fradraget i etterlattepensjonen er beregnet uten deltid.
+
+   I samsvar med forskriftene i samordningsrundskriv nr. 11 kap. V bokstav E skal den pensjonsordning som utbetaler etterlattepensjon, redusere sitt fradrag hvis summen av dette fradrag og fradraget i egenpensjonen utgjør et høyere beløp enn det maksimale fradrag.
+2. Fradraget i etterlattepensjonen er beregnet etter deltid.
+
+   Den pensjonsordning som utbetaler etterlattepensjon, skal avkorte sitt fradrag forholdsmessig.
 
 ### 2. Pensjoner av samme art.
 

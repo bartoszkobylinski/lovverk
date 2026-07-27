@@ -15,7 +15,7 @@ xml_hash: "9b20270ca88fd1f7e53ecaabd207674b2b59417464047702df7bd7ff067b7f5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -188,7 +188,10 @@ Er ikke slik fullmakt gitt og tinglyst, kan underdommeren opnevne en fullmektig 
 
 ### § 26
 
-Grunneieren har enerett til jakt og fangst på eiendommen:i nærheten av bosteder, hus, magasiner, verksteder og andre bygg som har til formål å nytte ut eiendommen;innenfor en avstand av 10 km. fra hovedsætet for virksomheten eller utnyttingen av eiendommen.
+Grunneieren har enerett til jakt og fangst på eiendommen:
+
+1. i nærheten av bosteder, hus, magasiner, verksteder og andre bygg som har til formål å nytte ut eiendommen;
+2. innenfor en avstand av 10 km. fra hovedsætet for virksomheten eller utnyttingen av eiendommen.
 
 > Endret ved [lov 15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648). Tillatelser gitt med hjemmel i det opphevede annet ledd bortfalt fra samme tid).
 
@@ -204,7 +207,10 @@ Tvist om anvendelsen av disse forskrifter avgjøres av Sysselmesteren med endeli
 
 ### § 28
 
-Tvungen avståelse av eiendomsrett eller bruksrett over fast eiendom i andre tilfelle enn bergverksordningen hjemler, kan Kongen tillate:når staten eller private vil bygge havn, kai, dokk, vei, transportinnretning, vannledning, kraftoverføring, telegraf eller telefon;når staten ellers trenger grunn til offentlig eller videnskapelig bruk.
+Tvungen avståelse av eiendomsrett eller bruksrett over fast eiendom i andre tilfelle enn bergverksordningen hjemler, kan Kongen tillate:
+
+1. når staten eller private vil bygge havn, kai, dokk, vei, transportinnretning, vannledning, kraftoverføring, telegraf eller telefon;
+2. når staten ellers trenger grunn til offentlig eller videnskapelig bruk.
 
 Eieren og andre rettighetshavere skal få adgang til å uttale sig, før Kongen gir tillatelsen.
 
@@ -268,7 +274,14 @@ Departementet gir forskrift om stemmerett, valgbarhet, gjennomføring av valg og
 
 Folkevalgte organer skal opprettes etter bestemmelsene i denne loven eller etter bestemmelser om slike organer i andre lover.
 
-Folkevalgte organer etter denne loven erlokalstyretadministrasjonsutvalgetutvalg, inkludert kontrollutvalgetarbeidsutvalglokalstyrekomiteerfolkevalgte organer hjemlet i særlov.
+Folkevalgte organer etter denne loven er
+
+1. lokalstyret
+2. administrasjonsutvalget
+3. utvalg, inkludert kontrollutvalget
+4. arbeidsutvalg
+5. lokalstyrekomiteer
+6. folkevalgte organer hjemlet i særlov.
 
 Folkevalgte organer som nevnt i andre ledd bokstav a, b, c og e skal ha navn som inkluderer den betegnelsen som er brukt om organet der.
 
@@ -280,7 +293,12 @@ Med folkevalgte menes i dette kapitlet medlemmer av lokalstyret og personer som 
 
 Andre organer i Longyearbyen lokalstyre skal opprettes etter bestemmelsene i denne loven.
 
-Andre organer i Longyearbyen lokalstyre etter denne loven erpartssammensatte utvalgstyret for en institusjonstyret for et lokalstyreforetakungdomsråd eller annet medvirkningsorgan for ungdom og arbeidsutvalg for dette.
+Andre organer i Longyearbyen lokalstyre etter denne loven er
+
+1. partssammensatte utvalg
+2. styret for en institusjon
+3. styret for et lokalstyreforetak
+4. ungdomsråd eller annet medvirkningsorgan for ungdom og arbeidsutvalg for dette.
 
 For øvrig gjelder de samme bestemmelsene som for folkevalgte organer etter § 35.
 
@@ -316,9 +334,18 @@ Det konstituerende møtet etter [kommuneloven § 7-1](lov/2018-06-22-83/§7-1) f
 
 ### § 36 b
 
-Denne bestemmelsen gjelder ved valg tilutvalg, inkludert kontrollutvalg og partssammensatte utvalgstyret for en institusjonstyret for et lokalstyreforetakfolkevalgte organer hjemlet i en særlov.
+Denne bestemmelsen gjelder ved valg til
 
-En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:Han eller hun har stemmerett ved lokalstyrevalg.Han eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet.Han eller hun har skriftlig samtykket til å stille til valg.
+1. utvalg, inkludert kontrollutvalg og partssammensatte utvalg
+2. styret for en institusjon
+3. styret for et lokalstyreforetak
+4. folkevalgte organer hjemlet i en særlov.
+
+En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:
+
+1. Han eller hun har stemmerett ved lokalstyrevalg.
+2. Han eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet.
+3. Han eller hun har skriftlig samtykket til å stille til valg.
 
 Personer som ikke har nådd stemmerettsalderen, men som for øvrig fyller vilkårene for valgbarhet og stemmerett, er valgbare, men er ikke pliktige til å ta imot valg.
 
@@ -326,9 +353,22 @@ Personer som ikke har nådd stemmerettsalderen, men som for øvrig fyller vilkå
 
 ### § 36 c
 
-Utelukket fra valg til organer nevnt i § 36 b ersysselmesteren og assisterende sysselmesteradministrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortredersektorsjefer og ledere på tilsvarende nivåsekretærer for lokalstyretden som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyreden som foretar revisjonen i Longyearbyen lokalstyreansatte i sekretariatet i kontrollutvalget.
+Utelukket fra valg til organer nevnt i § 36 b er
 
-Medlemmer og varamedlemmer av kontrollutvalget kan ikke velges somleder eller nestleder for lokalstyretmedlem eller varamedlem av administrasjonsutvalgetmedlem eller varamedlem av et folkevalgt organ med beslutningsmyndighetmedlem eller varamedlem av en lokalstyrekomité.
+1. sysselmesteren og assisterende sysselmester
+2. administrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortreder
+3. sektorsjefer og ledere på tilsvarende nivå
+4. sekretærer for lokalstyret
+5. den som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyre
+6. den som foretar revisjonen i Longyearbyen lokalstyre
+7. ansatte i sekretariatet i kontrollutvalget.
+
+Medlemmer og varamedlemmer av kontrollutvalget kan ikke velges som
+
+1. leder eller nestleder for lokalstyret
+2. medlem eller varamedlem av administrasjonsutvalget
+3. medlem eller varamedlem av et folkevalgt organ med beslutningsmyndighet
+4. medlem eller varamedlem av en lokalstyrekomité.
 
 Den som er ansvarlig for regnskapet i et lokalstyreforetak, er ikke valgbar til styret i foretaket.
 
@@ -370,7 +410,20 @@ Lokalstyret ansetter selv en administrasjonssjef, som skal være leder av Longye
 
 ### § 41
 
-Følgende kapitler i kommuneloven gjelder tilsvarende for Longyearbyen lokalstyrekapittel 9 om kommunale foretakkapittel 15 om selvkostkapittel 21 om representasjon av begge kjønn i styret av aksjeselskaperkapittel 22 om kommunestyrets kontrollansvarkapittel 23 om kontrollutvalgkapittel 24 om revisjonkapittel 25 om internkontrollkapittel 26 om eierstyringkapittel 27 om lovlighetskontrollkapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)kapittel 29 om utlegg og konkurskapittel 30 om statlig tilsyn.
+Følgende kapitler i kommuneloven gjelder tilsvarende for Longyearbyen lokalstyre
+
+1. kapittel 9 om kommunale foretak
+2. kapittel 15 om selvkost
+3. kapittel 21 om representasjon av begge kjønn i styret av aksjeselskaper
+4. kapittel 22 om kommunestyrets kontrollansvar
+5. kapittel 23 om kontrollutvalg
+6. kapittel 24 om revisjon
+7. kapittel 25 om internkontroll
+8. kapittel 26 om eierstyring
+9. kapittel 27 om lovlighetskontroll
+10. kapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)
+11. kapittel 29 om utlegg og konkurs
+12. kapittel 30 om statlig tilsyn.
 
 > Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402), gjelder § 41 første ledd bokstav a, c–f, h, i og l), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 1 jan 2020 iflg. [res. 24 mai 2019 nr. 674](forskrift/2019-05-24-674), gjelder bokstav b, j og k), [24 mai 2019 nr. 17](lov/2019-05-24-17) (i kraft 25 aug 2023 iflg. [res. 25 aug 2023 nr. 1356](forskrift/2023-08-25-1356), gjelder bokstav g, se endringslov for overgangsbestemmelse).
 

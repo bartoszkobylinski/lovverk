@@ -38,7 +38,31 @@ Denne forskrift får anvendelse for ressursforvaltning i petroleumsvirksomheten 
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med:*Avgrensningsbrønn:* brønn som bores for å bestemme utstrekning og størrelse av en petroleumsforekomst som allerede er påvist av en undersøkelsesbrønn*Borekaks:* bergartsfragmenter fra boreprosessen*Boreprogram:* beskrivelse som inneholder brønn-/brønnbanespesifikke opplysninger om planlagt bore- og brønnaktivitetBrønn: hull som bores for å finne eller avgrense en petroleumsforekomst eller for å produsere petroleum eller vann, injisere gass, vann eller annet medium, eller for å undersøke reservoarforhold, overvåke brønnparametere, undersøke bergartenes karakteristika eller utføre geotekniske undersøkelser for plassering av innretninger. En brønn kan bestå av en eller flere brønnbaner og kan ha ett eller flere endepunkt*Brønnaktivitet:* tilrettelegging og gjennomføring av operasjoner i tilknytning til komplettering, datainnsamling, overvåking, kontroll, overhaling, modifisering og tilbakeplugging av eksisterende brønner*Brønnbane:* brønnens beliggenhet fra ett endepunkt til brønnhodet*Brønnmål:* den eller de geologiske enhet(er) brønnen skal bores inn i (geologisk brønnmål), og brønnbanens endepunkt, inkluderer geografiske koordinater og dyp i meter (boreteknisk brønnmål)*Båt-km:* et seismikkfartøys seilingsdistanse*Felt:* en petroleumsforekomst, eller flere petroleumsforekomster samlet, som omfattes av godkjent plan for utbygging og drift (PUD) eller innvilget fritak fra PUD*Formasjonstest:* test av en enkelt brønns produksjons- eller injeksjonsegenskaper i maksimalt 10 strømningsdøgn*Formasjonstestlogging:* repetert trykk-/testmåling i en brønn (RFT)*Funn:* en petroleumsforekomst, eller flere petroleumsforekomster samlet, som er oppdaget i samme brønnbane, og som gjennom testing, prøvetaking eller logging er sannsynliggjort å ha bevegelig petroleum*Injeksjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til injeksjon av gass, vann eller annet medium*Kompletteringsaktivitet:* enhver installering av produksjonsrør, pakninger og annet utstyr, samt perforering av, stimulering og opprensking i og dreping av utvinningsbrønner. Avstengning av reservoarsoner eller tidligere perforerte intervaller, samt tilleggsperforeringer betraktes også som kompletteringsaktivitet*Letebrønn:* brønn som bores for å påvise mulig forekomst av petroleum eller skaffe informasjon for å avgrense en påvist forekomst. Letebrønn er en fellesbetegnelse for undersøkelses- og avgrensningsbrønner*Letemål:* den eller de geologiske enhet(er) brønnen skal bores inn i for å påvise en mulig petroleumsforekomst som ikke er omfattet av godkjent plan for utbygging og drift (PUD) eller fritak fra PUD og dermed ikke er inkludert i ressursgrunnlaget for et felt*Observasjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til å måle spesifikke brønnparametere eller undersøke reservoarforhold*Produksjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til produksjon av petroleum eller av vann*Prospekt:* en mulig petroleumsfelle med et kartleggbart, avgrenset bergartsvolum*Prospektmulighet:* en mulig petroleumsfelle der tilgjengelig datadekning og kvalitet ikke er tilstrekkelig for å kartlegge eller avgrense bergartsvolumet*Undersøkelsesbrønn:* letebrønn som bores for å undersøke om det finnes petroleum i en mulig forekomst*Utvinningsbrønn:* fellesbetegnelse for brønner som benyttes til utvinning av petroleum: produksjonsbrønner, injeksjonsbrønner og observasjonsbrønner og mulige kombinasjoner av disse*Utvinningsbrønn med letemål:* utvinningsbrønn som har et letemål som definert i [§ 3](forskrift/2017-12-13-2004/§3) bokstav p.
+I denne forskrift forstås med:
+
+1. *Avgrensningsbrønn:* brønn som bores for å bestemme utstrekning og størrelse av en petroleumsforekomst som allerede er påvist av en undersøkelsesbrønn
+2. *Borekaks:* bergartsfragmenter fra boreprosessen
+3. *Boreprogram:* beskrivelse som inneholder brønn-/brønnbanespesifikke opplysninger om planlagt bore- og brønnaktivitet
+4. Brønn: hull som bores for å finne eller avgrense en petroleumsforekomst eller for å produsere petroleum eller vann, injisere gass, vann eller annet medium, eller for å undersøke reservoarforhold, overvåke brønnparametere, undersøke bergartenes karakteristika eller utføre geotekniske undersøkelser for plassering av innretninger. En brønn kan bestå av en eller flere brønnbaner og kan ha ett eller flere endepunkt
+5. *Brønnaktivitet:* tilrettelegging og gjennomføring av operasjoner i tilknytning til komplettering, datainnsamling, overvåking, kontroll, overhaling, modifisering og tilbakeplugging av eksisterende brønner
+6. *Brønnbane:* brønnens beliggenhet fra ett endepunkt til brønnhodet
+7. *Brønnmål:* den eller de geologiske enhet(er) brønnen skal bores inn i (geologisk brønnmål), og brønnbanens endepunkt, inkluderer geografiske koordinater og dyp i meter (boreteknisk brønnmål)
+8. *Båt-km:* et seismikkfartøys seilingsdistanse
+9. *Felt:* en petroleumsforekomst, eller flere petroleumsforekomster samlet, som omfattes av godkjent plan for utbygging og drift (PUD) eller innvilget fritak fra PUD
+10. *Formasjonstest:* test av en enkelt brønns produksjons- eller injeksjonsegenskaper i maksimalt 10 strømningsdøgn
+11. *Formasjonstestlogging:* repetert trykk-/testmåling i en brønn (RFT)
+12. *Funn:* en petroleumsforekomst, eller flere petroleumsforekomster samlet, som er oppdaget i samme brønnbane, og som gjennom testing, prøvetaking eller logging er sannsynliggjort å ha bevegelig petroleum
+13. *Injeksjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til injeksjon av gass, vann eller annet medium
+14. *Kompletteringsaktivitet:* enhver installering av produksjonsrør, pakninger og annet utstyr, samt perforering av, stimulering og opprensking i og dreping av utvinningsbrønner. Avstengning av reservoarsoner eller tidligere perforerte intervaller, samt tilleggsperforeringer betraktes også som kompletteringsaktivitet
+15. *Letebrønn:* brønn som bores for å påvise mulig forekomst av petroleum eller skaffe informasjon for å avgrense en påvist forekomst. Letebrønn er en fellesbetegnelse for undersøkelses- og avgrensningsbrønner
+16. *Letemål:* den eller de geologiske enhet(er) brønnen skal bores inn i for å påvise en mulig petroleumsforekomst som ikke er omfattet av godkjent plan for utbygging og drift (PUD) eller fritak fra PUD og dermed ikke er inkludert i ressursgrunnlaget for et felt
+17. *Observasjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til å måle spesifikke brønnparametere eller undersøke reservoarforhold
+18. *Produksjonsbrønn:* utvinningsbrønn eller prøveutvinningsbrønn som benyttes til produksjon av petroleum eller av vann
+19. *Prospekt:* en mulig petroleumsfelle med et kartleggbart, avgrenset bergartsvolum
+20. *Prospektmulighet:* en mulig petroleumsfelle der tilgjengelig datadekning og kvalitet ikke er tilstrekkelig for å kartlegge eller avgrense bergartsvolumet
+21. *Undersøkelsesbrønn:* letebrønn som bores for å undersøke om det finnes petroleum i en mulig forekomst
+22. *Utvinningsbrønn:* fellesbetegnelse for brønner som benyttes til utvinning av petroleum: produksjonsbrønner, injeksjonsbrønner og observasjonsbrønner og mulige kombinasjoner av disse
+23. *Utvinningsbrønn med letemål:* utvinningsbrønn som har et letemål som definert i [§ 3](forskrift/2017-12-13-2004/§3) bokstav p.
 
 Definisjoner i [petroleumsloven](lov/1996-11-29-72) og [petroleumsforskriften](forskrift/1997-06-27-653) gjelder for denne forskrift.
 
@@ -68,7 +92,15 @@ Rettighetshaver plikter å påse at enhver som utfører arbeid for seg, enten pe
 
 Rettighetshaver skal melde undersøkelser i medhold av undersøkelsestillatelse og utvinningstillatelse til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvaret i Sokkeldirektoratets meldesystem for undersøkelser. Dette gjelder også for trasé- og andre grunnundersøkelser.
 
-Følgende opplysninger skal meldes inn senest fem uker før undersøkelsesaktiviteten starter:betegnelse på undersøkelsenhvilke(n) undersøkelses- og utvinningstillatelse(r) undersøkelsen skal foretas i medhold avnavn på rettighetshaverhvilke undersøkelsesaktiviteter som skal utførestidspunkt for planlagt oppstart og avslutningundersøkelsesområde som inkluderer areal for nødvendig kalibrering og testing av utstyr i forbindelse med undersøkelsesaktiviteten samt området som kreves for å snu fartøyetvurdering av om undersøkelsesaktiviteten kan skade særlig sårbare miljøressurser.
+Følgende opplysninger skal meldes inn senest fem uker før undersøkelsesaktiviteten starter:
+
+1. betegnelse på undersøkelsen
+2. hvilke(n) undersøkelses- og utvinningstillatelse(r) undersøkelsen skal foretas i medhold av
+3. navn på rettighetshaver
+4. hvilke undersøkelsesaktiviteter som skal utføres
+5. tidspunkt for planlagt oppstart og avslutning
+6. undersøkelsesområde som inkluderer areal for nødvendig kalibrering og testing av utstyr i forbindelse med undersøkelsesaktiviteten samt området som kreves for å snu fartøyet
+7. vurdering av om undersøkelsesaktiviteten kan skade særlig sårbare miljøressurser.
 
 Undersøkelsesaktiviteten kan ikke starte opp tidligere enn fem uker etter at den er meldt inn etter annet ledd bokstav e. Rettighetshaver skal når undersøkelsen starter melde inn oppstartstidspunkt.
 
@@ -80,9 +112,27 @@ Dersom undersøkelsesaktiviteten avlyses eller stanses midlertidig, skal rettigh
 
 Dersom undersøkelsesaktiviteten ønskes gjennomført ut over innmeldt tidspunkt for avslutning, må rettighetshaver sende ny melding om undersøkelsen som angitt i annet ledd. Frist for ny melding vil i slike tilfeller være fem virkedager før opprinnelig innmeldt tidspunkt for avslutning. Tilsvarende gjelder ved ønske om endring av innmeldt undersøkelsesområde etter annet ledd bokstav f.
 
-Følgende opplysninger skal meldes inn så snart som mulig, men senest før oppstartstidspunktet:navn på den som skal utføre undersøkelsenundersøkelsens planlagte omfang, både båt-km og kvadratkilometerantall og type signalkilder og samlet volum i den grad det er relevantbeskrivelse av hvordan de geofysiske sensorer er plassert under datainnsamlingen samt slepets lengdenavn på fartøy, fartøyenes kallesignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonaliteteventuelt anløp av indre norske farvannnavn på og kontaktinformasjon til fiskerikyndig personrettighetshavers vurdering av om resultatene mv. fra undersøkelsen skal være omsettelige.
+Følgende opplysninger skal meldes inn så snart som mulig, men senest før oppstartstidspunktet:
 
-Følgende opplysninger skal meldes inn ukentlig mens undersøkelsesaktiviteten pågår:betegnelse på undersøkelsenhvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold avnavn på rettighetshaverstatus for undersøkelsesaktiviteten, herunder antall kilometer innsamlet totalt og i løpet av siste uke, både båt-km og kvadratkilometerinformasjon om planlagt aktivitet i kommende uke, herunder informasjon om innsamlingsområdenavn på fartøy, fartøyenes kallesignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonaliteteventuelt anløp av indre norske farvannnavn på fiskerikyndig person.
+1. navn på den som skal utføre undersøkelsen
+2. undersøkelsens planlagte omfang, både båt-km og kvadratkilometer
+3. antall og type signalkilder og samlet volum i den grad det er relevant
+4. beskrivelse av hvordan de geofysiske sensorer er plassert under datainnsamlingen samt slepets lengde
+5. navn på fartøy, fartøyenes kallesignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonalitet
+6. eventuelt anløp av indre norske farvann
+7. navn på og kontaktinformasjon til fiskerikyndig person
+8. rettighetshavers vurdering av om resultatene mv. fra undersøkelsen skal være omsettelige.
+
+Følgende opplysninger skal meldes inn ukentlig mens undersøkelsesaktiviteten pågår:
+
+1. betegnelse på undersøkelsen
+2. hvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold av
+3. navn på rettighetshaver
+4. status for undersøkelsesaktiviteten, herunder antall kilometer innsamlet totalt og i løpet av siste uke, både båt-km og kvadratkilometer
+5. informasjon om planlagt aktivitet i kommende uke, herunder informasjon om innsamlingsområde
+6. navn på fartøy, fartøyenes kallesignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonalitet
+7. eventuelt anløp av indre norske farvann
+8. navn på fiskerikyndig person.
 
 Rettighetshaver skal sende sluttmelding så snart undersøkelsen er avsluttet.
 
@@ -128,7 +178,13 @@ Fartøy som utfører geofysisk undersøkelse skal ha om bord og benytte utstyr s
 
 Posisjonsrapporteringsutstyr etter første ledd skal til enhver tid være funksjonelt og tilfredsstille kravene i [forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr](forskrift/2010-03-24-454). Forskriftens [§ 3](forskrift/2010-03-24-454/§3) om krav til tjenesteleverandør som videreformidler sporingsopplysninger gjelder tilsvarende.
 
-Rapportering om posisjon skal inneholde følgende opplysninger:entydig identifikasjon av fartøyetfartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %dato og tidspunkt for fartøyets posisjonfart og kurs i rapporteringsøyeblikketidentifikasjon av hvilken rapporttype som sendes.
+Rapportering om posisjon skal inneholde følgende opplysninger:
+
+1. entydig identifikasjon av fartøyet
+2. fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %
+3. dato og tidspunkt for fartøyets posisjon
+4. fart og kurs i rapporteringsøyeblikket
+5. identifikasjon av hvilken rapporttype som sendes.
 
 > Endret ved forskrifter [16 des 2020 nr. 2948](forskrift/2020-12-16-2948) (i kraft 1 jan 2021), [23 des 2022 nr. 2504](forskrift/2022-12-23-2504) (i kraft 1 jan 2023), [19 des 2023 nr. 2181](forskrift/2023-12-19-2181) (i kraft 1 jan 2024).
 
@@ -186,7 +242,18 @@ For utvinningsbrønner og andre brønner skal boreprogram sendes Sokkeldirektora
 
 Rettighetshaver skal sikre at nødvendige borekaksprøver, konvensjonelle kjerner, sideveggskjerner, væske- og gassprøver, logger og testdata blir samlet inn. Sokkeldirektoratet kan fastsette krav til datainnsamling, bearbeidelse og analyser i det enkelte tilfellet.
 
-Dersom ikke annet blir angitt, er standardkravene fra Sokkeldirektoratet følgende:I letebrønner skal det tas borekaksprøver av alle bergartstyper fra alle geologiske formasjoner som blir boret. Prøvetakingen skal begynne straks det er etablert retur av borevæske.I et representativt utvalg av utvinningsbrønner skal det tas borekaksprøver av alle bergartstyper fra alle geologiske formasjoner i reservoarintervallet.Mellomrommet mellom borekaksprøvene bør ikke overstige 10 meter.Mellomrommet mellom borekaksprøvene i mulige petroleumsførende lag i letebrønner bør ikke overstige tre meter dersom det ikke tas konvensjonelle kjerner.I undersøkelsesbrønner skal det tas minst en konvensjonell kjerne i alle petroleumsførende soner. Videre bør det tas nødvendige kjerner av potensielle kildebergarter og reservoarbergarter.I utvalgte avgrensningsbrønner og utvinningsbrønner bør det tas konvensjonelle kjerner fra hele reservoarintervallet.Sideveggskjerner tas i den utstrekning det er nødvendig.I forbindelse med formasjonstesting og formasjonstestlogging skal det tas væskeprøver.I alle brønner/brønnbaner skal det tas nødvendige brønnlogger.I letebrønner bør det tas formasjonstestlogger som fastslår trykkgradient og type væsker i en formasjon samt formasjonens evne til å produsere.
+Dersom ikke annet blir angitt, er standardkravene fra Sokkeldirektoratet følgende:
+
+1. I letebrønner skal det tas borekaksprøver av alle bergartstyper fra alle geologiske formasjoner som blir boret. Prøvetakingen skal begynne straks det er etablert retur av borevæske.
+2. I et representativt utvalg av utvinningsbrønner skal det tas borekaksprøver av alle bergartstyper fra alle geologiske formasjoner i reservoarintervallet.
+3. Mellomrommet mellom borekaksprøvene bør ikke overstige 10 meter.
+4. Mellomrommet mellom borekaksprøvene i mulige petroleumsførende lag i letebrønner bør ikke overstige tre meter dersom det ikke tas konvensjonelle kjerner.
+5. I undersøkelsesbrønner skal det tas minst en konvensjonell kjerne i alle petroleumsførende soner. Videre bør det tas nødvendige kjerner av potensielle kildebergarter og reservoarbergarter.
+6. I utvalgte avgrensningsbrønner og utvinningsbrønner bør det tas konvensjonelle kjerner fra hele reservoarintervallet.
+7. Sideveggskjerner tas i den utstrekning det er nødvendig.
+8. I forbindelse med formasjonstesting og formasjonstestlogging skal det tas væskeprøver.
+9. I alle brønner/brønnbaner skal det tas nødvendige brønnlogger.
+10. I letebrønner bør det tas formasjonstestlogger som fastslår trykkgradient og type væsker i en formasjon samt formasjonens evne til å produsere.
 
 > Endret ved forskrifter [16 des 2020 nr. 2948](forskrift/2020-12-16-2948) (i kraft 1 jan 2021), [23 des 2022 nr. 2504](forskrift/2022-12-23-2504) (i kraft 1 jan 2023), [19 des 2023 nr. 2181](forskrift/2023-12-19-2181) (i kraft 1 jan 2024).
 
@@ -246,7 +313,12 @@ Rettighetshaver som sender, eller på annen måte gjør tilgjengelig, materiale 
 
 ### § 25. Geofysiske data
 
-Rettighetshaver skal sende Sokkeldirektoratet følgende materiale og dokumentasjon fra den enkelte undersøkelsesaktivitet:geofysiske feltdata med nødvendige navigasjonsdataprosesserte seismiske data, hastighetsdata og navigasjonsdataprosesserte gravimetriske, magnetiske og elektromagnetiske data, med tilhørende navigasjonsdataanalyseresultater, kart og profiler som fremstiller resultatene fra andre geofysiske eller geologiske undersøkelser som varmestrømmålinger, radiometriske målinger, prøvetakinger mv.
+Rettighetshaver skal sende Sokkeldirektoratet følgende materiale og dokumentasjon fra den enkelte undersøkelsesaktivitet:
+
+1. geofysiske feltdata med nødvendige navigasjonsdata
+2. prosesserte seismiske data, hastighetsdata og navigasjonsdata
+3. prosesserte gravimetriske, magnetiske og elektromagnetiske data, med tilhørende navigasjonsdata
+4. analyseresultater, kart og profiler som fremstiller resultatene fra andre geofysiske eller geologiske undersøkelser som varmestrømmålinger, radiometriske målinger, prøvetakinger mv.
 
 Materiale og dokumentasjon etter første ledd skal sendes så snart som mulig og senest innen 12 måneder etter at den enkelte undersøkelsesaktiviteten er fullført.
 
@@ -280,17 +352,43 @@ Rettighetshaver skal fortløpende sende Sokkeldirektoratet opplysninger om endri
 
 Rettighetshaver skal sende prøver, preparater og annet materiale fra den enkelte brønn/brønnbane til Sokkeldirektoratet. Innsamlet materiale skal sendes Sokkeldirektoratet så snart som mulig og senest innen seks måneder etter at brønnen er ferdig boret. Dersom ikke annet blir angitt, er standardmengden som angitt nedenfor:
 
-For borekaks gjelder følgende:Fra letebrønner skal det sendes borekaksprøver av alle bergartstyper i alle geologiske formasjoner der prøver er samlet inn.Fra den første utvinningsbrønnen på feltet skal det sendes borekaksprøver fra hele reservoarintervallet. Dersom det senere bores i formasjoner som ikke er omfattet av den første utvinningsbrønnen, sendes det borekaksprøver fra hele reservoarintervallet i disse brønnene.Uvaskede borekaksprøver skal sendes inn med minst ett kg tørket materiale fra hvert prøveintervall. Uvaskede borekaksprøver tørkes ved 40 °C eller lavere. Dersom mengden av borekaksprøver er begrenset, skal minst halvparten av innsamlede borekaksprøver sendes, begrenset oppad til ett kg.Vaskede borekaksprøver skal sendes med ett riggsett.Fra letebrønner skal det sendes inn digitale fargefotografier av alle borekaksprøver som samles inn. Fotografiene skal tas etter vasking og tørking av prøvene, og vise brønnbanebetegnelse, dyp og målestokk.Fra letebrønner skal det sendes inn måleresultat fra røntgenfluorescens-spektrometri (XRF) av alle borekaksprøver som samles inn. Dersom andre analyser blir foretatt, skal resultatet fra disse sendes Sokkeldirektoratet.
+For borekaks gjelder følgende:
 
-For kjerner gjelder følgende:Fra letebrønner skal et fullstendig lengdesnitt av innsamlede konvensjonelle kjerner med en fjerdedel av kjernen sendes Sokkeldirektoratet. Dersom kjernediameteren er mindre enn 7,6 cm (3 tommer), skal det sendes minst en halvdel av kjernen.Fra den første utvinningsbrønnen som kjernetas på et felt, skal Sokkeldirektoratet motta et fullstendig lengdesnitt av innsamlede konvensjonelle kjerner med en fjerdedel av kjernen. Dersom det senere tas kjerner i formasjoner som ikke er kjernetatt tidligere, skal Sokkeldirektoratet motta kjerner også fra disse brønnene.Ved behov for spesielle kjerneanalyser kan rettighetshaver søke om at enkelte kjerneintervaller beholdes som full diameter kjerne. Når slike analyser er foretatt, skal resultatet sendes Sokkeldirektoratet. Halvparten av restmaterialet skal sendes Sokkeldirektoratet.Digitale fargefotografier av kjernene sendes samtidig med konvensjonelle kjerner. Fotografiene skal tas like etter oppdeling, og vise brønnbanebetegnelse, kjernenummer, dyp, orientering og målestokk.
+1. Fra letebrønner skal det sendes borekaksprøver av alle bergartstyper i alle geologiske formasjoner der prøver er samlet inn.
+2. Fra den første utvinningsbrønnen på feltet skal det sendes borekaksprøver fra hele reservoarintervallet. Dersom det senere bores i formasjoner som ikke er omfattet av den første utvinningsbrønnen, sendes det borekaksprøver fra hele reservoarintervallet i disse brønnene.
+3. Uvaskede borekaksprøver skal sendes inn med minst ett kg tørket materiale fra hvert prøveintervall. Uvaskede borekaksprøver tørkes ved 40 °C eller lavere. Dersom mengden av borekaksprøver er begrenset, skal minst halvparten av innsamlede borekaksprøver sendes, begrenset oppad til ett kg.
+4. Vaskede borekaksprøver skal sendes med ett riggsett.
+5. Fra letebrønner skal det sendes inn digitale fargefotografier av alle borekaksprøver som samles inn. Fotografiene skal tas etter vasking og tørking av prøvene, og vise brønnbanebetegnelse, dyp og målestokk.
+6. Fra letebrønner skal det sendes inn måleresultat fra røntgenfluorescens-spektrometri (XRF) av alle borekaksprøver som samles inn. Dersom andre analyser blir foretatt, skal resultatet fra disse sendes Sokkeldirektoratet.
 
-For væskeprøver fra formasjonstesting og formasjonstestlogging gjelder følgende:Det skal sendes inn 2 x 0,5 liter av hver enkelt væske (olje/kondensat/formasjonsvann) fra hvert intervall eller sett av intervaller som testes. Dersom en test gir mindre enn 2 x 0,5 liter kan det innsendes mindre mengder.For alle testtyper skal væsken prøvetas ved vanlige omgivelsesbetingelser på overflaten, dvs. ca. 101,3 kPa (1 Atm) og 20 °C. Dette innebærer at de letteste komponentene damper av, men for øvrig skal prøvetakingen utføres på en måte som sikrer at prøven er mest mulig representativ for formasjonsvæsken.Standard prøveflasker skal anvendes og fylles opp til maksimalt ca. 85 % av flaskens totale volum.
+For kjerner gjelder følgende:
 
-For palynologiske preparater gjelder følgende:Det skal sendes palynologiske preparater fra borekaks, sideveggskjerner og konvensjonelle kjerner fra alle prøvedyp.Innholdet i preparatene skal være representativt for prøven.Preparatene lages med et permanent monteringsmedium.
+1. Fra letebrønner skal et fullstendig lengdesnitt av innsamlede konvensjonelle kjerner med en fjerdedel av kjernen sendes Sokkeldirektoratet. Dersom kjernediameteren er mindre enn 7,6 cm (3 tommer), skal det sendes minst en halvdel av kjernen.
+2. Fra den første utvinningsbrønnen som kjernetas på et felt, skal Sokkeldirektoratet motta et fullstendig lengdesnitt av innsamlede konvensjonelle kjerner med en fjerdedel av kjernen. Dersom det senere tas kjerner i formasjoner som ikke er kjernetatt tidligere, skal Sokkeldirektoratet motta kjerner også fra disse brønnene.
+3. Ved behov for spesielle kjerneanalyser kan rettighetshaver søke om at enkelte kjerneintervaller beholdes som full diameter kjerne. Når slike analyser er foretatt, skal resultatet sendes Sokkeldirektoratet. Halvparten av restmaterialet skal sendes Sokkeldirektoratet.
+4. Digitale fargefotografier av kjernene sendes samtidig med konvensjonelle kjerner. Fotografiene skal tas like etter oppdeling, og vise brønnbanebetegnelse, kjernenummer, dyp, orientering og målestokk.
+
+For væskeprøver fra formasjonstesting og formasjonstestlogging gjelder følgende:
+
+1. Det skal sendes inn 2 x 0,5 liter av hver enkelt væske (olje/kondensat/formasjonsvann) fra hvert intervall eller sett av intervaller som testes. Dersom en test gir mindre enn 2 x 0,5 liter kan det innsendes mindre mengder.
+2. For alle testtyper skal væsken prøvetas ved vanlige omgivelsesbetingelser på overflaten, dvs. ca. 101,3 kPa (1 Atm) og 20 °C. Dette innebærer at de letteste komponentene damper av, men for øvrig skal prøvetakingen utføres på en måte som sikrer at prøven er mest mulig representativ for formasjonsvæsken.
+3. Standard prøveflasker skal anvendes og fylles opp til maksimalt ca. 85 % av flaskens totale volum.
+
+For palynologiske preparater gjelder følgende:
+
+1. Det skal sendes palynologiske preparater fra borekaks, sideveggskjerner og konvensjonelle kjerner fra alle prøvedyp.
+2. Innholdet i preparatene skal være representativt for prøven.
+3. Preparatene lages med et permanent monteringsmedium.
 
 For petrografiske tynnslip skal det sendes et ekstra sett av petrografiske tynnslip fra samme prøve.
 
-For format, emballasje og merking av prøver som sendes gjelder følgende:Samtlige prøver merkes tydelig og vannbestandig med navn på rettighetshaver (operatør), dato for prøvetaking, navn på prøvetakeren, brønnens betegnelse og det dyp, eventuelt det dypintervall, de er tatt fra.Prøver fra formasjonstester og formasjonstestlogging merkes i tillegg med testnummer, testtype, strømningsperiode og væsketype.Væskeprøver leveres i 0,6–0,7 liter aluminiumsflasker med skrukork og pakning av en type som gir lavest mulig tap av væske (standard prøveflaske).Borekaksprøver pakkes i tette poser av god kvalitet, eller i høytetthets polyetylen-beholdere (HDPE-beholdere). Hver enkelt prøve skal merkes godt. HDPE-beholdere skal benyttes til uvaskede prøver fra intervaller med oljebasert borevæske. De pakkede prøvene leveres i kasser med følgende utvendige mål: høyde 14 cm, bredde 27 cm, lengde 90–110 cm.Konvensjonelle kjerner leveres i solide, formstabile kasser, med følgende utvendige mål: høyde 10 cm, bredde 40 cm, lengde 90–110 cm.
+For format, emballasje og merking av prøver som sendes gjelder følgende:
+
+1. Samtlige prøver merkes tydelig og vannbestandig med navn på rettighetshaver (operatør), dato for prøvetaking, navn på prøvetakeren, brønnens betegnelse og det dyp, eventuelt det dypintervall, de er tatt fra.
+2. Prøver fra formasjonstester og formasjonstestlogging merkes i tillegg med testnummer, testtype, strømningsperiode og væsketype.
+3. Væskeprøver leveres i 0,6–0,7 liter aluminiumsflasker med skrukork og pakning av en type som gir lavest mulig tap av væske (standard prøveflaske).
+4. Borekaksprøver pakkes i tette poser av god kvalitet, eller i høytetthets polyetylen-beholdere (HDPE-beholdere). Hver enkelt prøve skal merkes godt. HDPE-beholdere skal benyttes til uvaskede prøver fra intervaller med oljebasert borevæske. De pakkede prøvene leveres i kasser med følgende utvendige mål: høyde 14 cm, bredde 27 cm, lengde 90–110 cm.
+5. Konvensjonelle kjerner leveres i solide, formstabile kasser, med følgende utvendige mål: høyde 10 cm, bredde 40 cm, lengde 90–110 cm.
 
 > Endret ved forskrifter [16 des 2020 nr. 2948](forskrift/2020-12-16-2948) (i kraft 1 jan 2021), [23 des 2022 nr. 2504](forskrift/2022-12-23-2504) (i kraft 1 jan 2023), [19 des 2023 nr. 2181](forskrift/2023-12-19-2181) (i kraft 1 jan 2024).
 
@@ -304,7 +402,11 @@ Rettighetshaver skal sende Sokkeldirektoratet alle innsamlede data i form av bes
 
 Rettighetshaver skal sende Sokkeldirektoratet tolkede brønndata så snart de foreligger.
 
-Innen seks måneder etter boring skal rettighetshaver sende:geofaglig og reservoarteknisk sluttrapport for hver brønn/brønnbaneprognose og resultat for alle undersøkelsesbrønner og for utvinningsbrønnbaner med funnfunnevalueringsrapport.
+Innen seks måneder etter boring skal rettighetshaver sende:
+
+1. geofaglig og reservoarteknisk sluttrapport for hver brønn/brønnbane
+2. prognose og resultat for alle undersøkelsesbrønner og for utvinningsbrønnbaner med funn
+3. funnevalueringsrapport.
 
 > Endret ved forskrifter [16 des 2020 nr. 2948](forskrift/2020-12-16-2948) (i kraft 1 jan 2021), [23 des 2022 nr. 2504](forskrift/2022-12-23-2504) (i kraft 1 jan 2023), [19 des 2023 nr. 2181](forskrift/2023-12-19-2181) (i kraft 1 jan 2024).
 

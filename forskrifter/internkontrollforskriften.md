@@ -15,7 +15,7 @@ xml_hash: "0ac725ce33e1a9e4eba6e4377526285ed3e19a0c61940d3df32215822f3452ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,15 +24,37 @@ eu_basis: []
 
 ## § 1. Formål
 
-Gjennom krav om systematisk gjennomføring av tiltak, skal denne forskrift fremme et forbedringsarbeid i virksomhetene innen:arbeidsmiljøsikkerhetforebygging av helseskade eller miljøforstyrrelser fra produkter eller forbrukertjenestervern av det ytre miljø mot forurensning og en bedre behandling av avfallforebygging av uhell og ulykker forbundet med egen lovlig aktivitetforebygging av uønskede tilsiktede hendelserslik at målene i helse-, miljø- og sikkerhetslovgivningen oppnås.
+Gjennom krav om systematisk gjennomføring av tiltak, skal denne forskrift fremme et forbedringsarbeid i virksomhetene innen:
+
+- arbeidsmiljø
+- sikkerhet
+- forebygging av helseskade eller miljøforstyrrelser fra produkter eller forbrukertjenester
+- vern av det ytre miljø mot forurensning og en bedre behandling av avfall
+- forebygging av uhell og ulykker forbundet med egen lovlig aktivitet
+- forebygging av uønskede tilsiktede hendelser
+
+slik at målene i helse-, miljø- og sikkerhetslovgivningen oppnås.
 
 > Endret ved [forskrift 9 juni 2017 nr. 719](forskrift/2017-06-09-719) (i kraft 1 juli 2017).
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for virksomhet som omfattes avlov om tilsyn med elektriske anlegg og elektrisk utstyr ([lov 24. mai 1929 nr. 4](lov/1929-05-24-4))[sivilbeskyttelsesloven § 23](lov/2010-06-25-45/§23) (egenbeskyttelsestiltak ved virksomheter) ([lov 25. juni 2010 nr. 45](lov/2010-06-25-45))produktkontrolloven ([lov 11. juni 1976 nr. 79](lov/1976-06-11-79))arbeidsmiljøloven ([lov 17. juni 2005 nr. 62](lov/2005-06-17-62))forurensningsloven, dersom virksomheten sysselsetter arbeidstaker ([lov 13. mars 1981 nr. 6](lov/1981-03-13-6))genteknologiloven ([lov 2. april 1993 nr. 38](lov/1993-04-02-38))strålevernloven ([lov av 12. mai 2000 nr. 36](lov/2000-05-12-36)).brann- og eksplosjonsvernloven ([lov 14. juni 2002 nr. 20](lov/2002-06-14-20)).
+Forskriften gjelder for virksomhet som omfattes av
 
-Denne forskrift kommer ikke til anvendelse påSvalbard, med unntak av internkontroll etter [forskrift 6. juni 2025 nr. 940 om sikkerhet i felt på Svalbard § 20](forskrift/2025-06-06-940/§20)virksomhet som nevnt i [arbeidsmiljøloven § 1-3](lov/2005-06-17-62/§1-3)landanlegg i petroleumsvirksomheten som nevnt i [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg ([rammeforskriften) § 6](forskrift/2010-02-12-158/§6), med unntak av aktiviteter som faller inn under [sivilbeskyttelsesloven § 23](lov/2010-06-25-45/§23).
+- lov om tilsyn med elektriske anlegg og elektrisk utstyr ([lov 24. mai 1929 nr. 4](lov/1929-05-24-4))
+- [sivilbeskyttelsesloven § 23](lov/2010-06-25-45/§23) (egenbeskyttelsestiltak ved virksomheter) ([lov 25. juni 2010 nr. 45](lov/2010-06-25-45))
+- produktkontrolloven ([lov 11. juni 1976 nr. 79](lov/1976-06-11-79))
+- arbeidsmiljøloven ([lov 17. juni 2005 nr. 62](lov/2005-06-17-62))
+- forurensningsloven, dersom virksomheten sysselsetter arbeidstaker ([lov 13. mars 1981 nr. 6](lov/1981-03-13-6))
+- genteknologiloven ([lov 2. april 1993 nr. 38](lov/1993-04-02-38))
+- strålevernloven ([lov av 12. mai 2000 nr. 36](lov/2000-05-12-36)).
+- brann- og eksplosjonsvernloven ([lov 14. juni 2002 nr. 20](lov/2002-06-14-20)).
+
+Denne forskrift kommer ikke til anvendelse på
+
+- Svalbard, med unntak av internkontroll etter [forskrift 6. juni 2025 nr. 940 om sikkerhet i felt på Svalbard § 20](forskrift/2025-06-06-940/§20)
+- virksomhet som nevnt i [arbeidsmiljøloven § 1-3](lov/2005-06-17-62/§1-3)
+- landanlegg i petroleumsvirksomheten som nevnt i [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg ([rammeforskriften) § 6](forskrift/2010-02-12-158/§6), med unntak av aktiviteter som faller inn under [sivilbeskyttelsesloven § 23](lov/2010-06-25-45/§23).
 
 > Endret ved [forskrifter 17 des 1999 nr. 1352](forskrift/1999-12-17-1352) (i kraft 1 jan 2000), [19 des 2003 nr. 1599](forskrift/2003-12-19-1599) (i kraft 1 jan 2004), [28 jan 2005 nr. 51](forskrift/2005-01-28-51) (i kraft 1 feb 2005), [12 feb 2010 nr. 159](forskrift/2010-02-12-159) (i kraft 1 jan 2011), [2 des 2011 nr. 1148](forskrift/2011-12-02-1148), [6 juni 2025 nr. 941](forskrift/2025-06-06-941) (i kraft 1 jan 2026).
 
@@ -125,7 +147,16 @@ Internkontroll som styrings- og tilsynsprinsipp er tatt i bruk for flere område
 
 Plikten til å innføre og utøve internkontroll påhviler «den som er ansvarlig» for virksomheten. Med dette menes virksomhetens ledelse/eier. Hvem, eller hvilke funksjoner dette kan være, varierer etter hvordan virksomheten er organisert. Selv om internkontroll må utøves på alle nivåer i virksomheten, tilligger hovedansvaret for å sette i gang arbeidet («innføre» internkontroll) og å holde det i gang («utøve» internkontroll) det øverste nivået i virksomheten. Paragrafen presiserer imidlertid at plikten til å innføre og å utøve internkontroll skal gjøres i samarbeid med arbeidstakerne, arbeidsmiljøutvalg, verneombud og/eller tillitsvalgte der dette finnes.
 
-Hvem som er «ansvarlig» for virksomheten vil avhenge av de ulike lover som forskriften er hjemlet i. Eksempler på «ansvarlig» for at forskriftens krav blir gjennomført er etterarbeidsmiljøloven; arbeidsgiverforurensningsloven; virksomhetens ledelse slik den fremgår av virksomhetens organisasjon eller selskapsstrukturproduktkontrolloven; produsent, importør, omsettersivilbeskyttelsesloven; virksomheterbrann- og eksplosjonsvernloven; virksomheterlov om tilsyn med elektriske anlegg og elektrisk utstyr; eier og bruker av elektriske anlegg og elektrisk utstyr, produsenter av, samt importører og andre omsetningsledd for elektrisk utstyr, elektroinstallatører o.l.genteknologiloven; virksomhetens ledelse slik den framgår av virksomhetens organisasjon eller selskapsstrukturstrålevernloven; virksomhetens ledelse slik den framgår av virksomhetens organisasjon eller selskapsstruktur.
+Hvem som er «ansvarlig» for virksomheten vil avhenge av de ulike lover som forskriften er hjemlet i. Eksempler på «ansvarlig» for at forskriftens krav blir gjennomført er etter
+
+- arbeidsmiljøloven; arbeidsgiver
+- forurensningsloven; virksomhetens ledelse slik den fremgår av virksomhetens organisasjon eller selskapsstruktur
+- produktkontrolloven; produsent, importør, omsetter
+- sivilbeskyttelsesloven; virksomheter
+- brann- og eksplosjonsvernloven; virksomheter
+- lov om tilsyn med elektriske anlegg og elektrisk utstyr; eier og bruker av elektriske anlegg og elektrisk utstyr, produsenter av, samt importører og andre omsetningsledd for elektrisk utstyr, elektroinstallatører o.l.
+- genteknologiloven; virksomhetens ledelse slik den framgår av virksomhetens organisasjon eller selskapsstruktur
+- strålevernloven; virksomhetens ledelse slik den framgår av virksomhetens organisasjon eller selskapsstruktur.
 
 I [§ 4](forskrift/1996-12-06-1127/§4) første ledd ligger også at den som er ansvarlig har plikt til å sørge for at internkontrollen blir overvåket og gjennomgått for å sikre at den fungerer som forutsatt. I dette ligger en plikt til at internkontrollen vurderes kontinuerlig slik at mangler kan fanges opp. Innbakt i plikten ligger også at det med jevne mellomrom foretas en fullstendig gjennomgang, dvs. en revisjon av hele det systematiske arbeidet jf. [§ 5](forskrift/1996-12-06-1127/§5) annet ledd nr. 8.
 
@@ -173,7 +204,18 @@ Tilfeller hvor virksomheten kjøper komponenter, deler og utstyr av en annen vir
 
 ### Til § 7 Tilsynsmyndighet
 
-Bestemmelsen fastslår hvem som skal forestå tilsynet med forskriften. Følgende etater vil være tilsynsmyndighet etter forskriften:Arbeidstilsynet (arbeidsmiljøloven)Direktoratet for samfunnssikkerhet og beredskap/kommunale brannvernmyndigheter (brann- og eksplosjonsvernloven)Direktoratet for samfunnssikkerhet og beredskap/Det lokale eltilsyn (lov om tilsyn med elektriske anlegg og elektrisk utstyr samt produktkontrolloven når det gjelder forbrukertjenester og produktenes fysiske, termiske, mekaniske og brannmessige egenskaper)Miljødirektoratet (forurensningsloven, produktkontrolloven, genteknologiloven; utsetting av genmodifiserte organismer)Fylkesmennene (forurensningsloven og produktkontrolloven med tilhørende forskrifter for de bransjer der fylkesmannen er forurensningsmyndighet)Næringslivets sikkerhetsorganisasjon (sivilbeskyttelsesloven, industrivern)Sjøfartsdirektoratet (forskrift om fritidsfartøy hjemlet i produktkontrolloven)Helsedirektoratet (genteknologiloven; innesluttet bruk av genmodifiserte organismer).Statens strålevern (strålevernloven, forurensningsloven når det gjelder radioaktiv forurensing og radioaktivt avfall).Luftfartstilsynet (arbeidsmiljøloven og forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart [§ 9](forskrift/1996-12-06-1127/§9); tilsynsmyndighet med arbeidsmiljøet for flygende personell i sivil luftfart).
+Bestemmelsen fastslår hvem som skal forestå tilsynet med forskriften. Følgende etater vil være tilsynsmyndighet etter forskriften:
+
+- Arbeidstilsynet (arbeidsmiljøloven)
+- Direktoratet for samfunnssikkerhet og beredskap/kommunale brannvernmyndigheter (brann- og eksplosjonsvernloven)
+- Direktoratet for samfunnssikkerhet og beredskap/Det lokale eltilsyn (lov om tilsyn med elektriske anlegg og elektrisk utstyr samt produktkontrolloven når det gjelder forbrukertjenester og produktenes fysiske, termiske, mekaniske og brannmessige egenskaper)
+- Miljødirektoratet (forurensningsloven, produktkontrolloven, genteknologiloven; utsetting av genmodifiserte organismer)
+- Fylkesmennene (forurensningsloven og produktkontrolloven med tilhørende forskrifter for de bransjer der fylkesmannen er forurensningsmyndighet)
+- Næringslivets sikkerhetsorganisasjon (sivilbeskyttelsesloven, industrivern)
+- Sjøfartsdirektoratet (forskrift om fritidsfartøy hjemlet i produktkontrolloven)
+- Helsedirektoratet (genteknologiloven; innesluttet bruk av genmodifiserte organismer).
+- Statens strålevern (strålevernloven, forurensningsloven når det gjelder radioaktiv forurensing og radioaktivt avfall).
+- Luftfartstilsynet (arbeidsmiljøloven og forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart [§ 9](forskrift/1996-12-06-1127/§9); tilsynsmyndighet med arbeidsmiljøet for flygende personell i sivil luftfart).
 
 Ved å benytte systemrevisjoner og verifikasjoner vurderer tilsynsmyndighetene virksomhetenes helse-, miljø- og sikkerhetstilstand, og legger vekt på det forebyggende arbeidet med HMS. Det er ikke bare de direkte konsekvenser som skader, utslipp og sykefravær som vurderes. Tilsynsmyndighetene vil kunne veilede om forståelsen av forskriftens krav og prinsippene for internkontroll. Veiledningspliktens omfang er regulert i forvaltningsloven. Dersom virksomheten har tilknytning til bransjeorganisasjon eller liknende, er det dessuten mulig å få veiledning derfra bl.a. om hensiktsmessige løsninger i vedkommende bransje.
 

@@ -15,7 +15,7 @@ xml_hash: "3c865b09fa43f425a520286916e65332b9155a985655999faf8e1ed37a4a8735"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,10 @@ Kvalitetsnormen for villaks trer i kraft straks.
 
 ## Vedlegg I til kvalitetsnorm for ville bestander av atlantisk laks – Klassifisering av kvalitet for villaksbestander i Norge
 
-Kvalitetsnormen for villaks utgjøres av to delnormer:Gytebestandsmål og høstingspotensialGenetisk integritet.
+Kvalitetsnormen for villaks utgjøres av to delnormer:
+
+1. Gytebestandsmål og høstingspotensial
+2. Genetisk integritet.
 
 *Gytebestandsmålet* er den mengden hunnlaks, målt i vekt, som må gyte for at et optimalt antall smolt kan forlate elva hvert år. *Høstingspotensial* vurderes i forhold til det som anses å være «normalt høstingsnivå» for en bestand. Med «normalt høstingsnivå» menes det høstingsnivået bestanden skal kunne tåle ett gitt år på bakgrunn av kunnskap om naturlig sjøoverlevelse, samtidig som bestanden når gytebestandsmålet.
 
@@ -107,4 +110,10 @@ Med «normalt høstingsnivå» ett gitt år menes det høstingsnivået bestanden
 
 ## Vedlegg III til kvalitetsnorm for ville bestander av atlantisk laks – Klassifisering av delnorm genetisk integritet
 
-Delnorm *genetisk integritet* består av elementene: *artshybridisering*, *grad av genetisk påvirkning fra rømt oppdrettslaks* og *seleksjon*. Dersom én av disse elementene tilsier at god kvalitet i delnormen ikke er oppnådd, gjelder dette for hele delnormen genetisk integritet.*Artshybridisering:**Grad av genetisk påvirkning fra rømt oppdrettslaks (målt med genetiske markører):**Seleksjon:*
+Delnorm *genetisk integritet* består av elementene: *artshybridisering*, *grad av genetisk påvirkning fra rømt oppdrettslaks* og *seleksjon*. Dersom én av disse elementene tilsier at god kvalitet i delnormen ikke er oppnådd, gjelder dette for hele delnormen genetisk integritet.
+
+*Artshybridisering:*
+
+*Grad av genetisk påvirkning fra rømt oppdrettslaks (målt med genetiske markører):*
+
+*Seleksjon:*

@@ -15,7 +15,7 @@ xml_hash: "8405d3afe1dd39f4b1ba25f3a54df46d2a16db0789fe56822e263d261c160ba6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,7 +116,20 @@ om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av
 
 ► **EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 8 bokstavene a) og b)**
 
-Bare de følgende bestemmelsene i forordningen skal gjelde:artikkel 1 (2) (l), jf. vedlegg I del XII,artikkel 3 (1), jf. vedlegg II del IV,artikkel 75 (3) (f), (g), (h), (k) og (m), (4) og (5) (d),artikkel 78 (1) (b) og (2), jf. vedlegg VII del II jf. tillegg I i vedlegg VII,artikkel 80, jf. vedlegg VIII,artikkel 81 og 82,artikkel 83 (2) og (3),artikkel 92–108,artikkel 112 og 113,artikkel 117–121,artikkel 146 ogartikkel 147 (1) og (2).
+Bare de følgende bestemmelsene i forordningen skal gjelde:
+
+- artikkel 1 (2) (l), jf. vedlegg I del XII,
+- artikkel 3 (1), jf. vedlegg II del IV,
+- artikkel 75 (3) (f), (g), (h), (k) og (m), (4) og (5) (d),
+- artikkel 78 (1) (b) og (2), jf. vedlegg VII del II jf. tillegg I i vedlegg VII,
+- artikkel 80, jf. vedlegg VIII,
+- artikkel 81 og 82,
+- artikkel 83 (2) og (3),
+- artikkel 92–108,
+- artikkel 112 og 113,
+- artikkel 117–121,
+- artikkel 146 og
+- artikkel 147 (1) og (2).
 
 Bestemmelsene skal gjelde med de tilpasningene som kan utledes av bestemmelsene i EØS-avtalens hoveddel, de gjennomgående tilpasningene i den innledende delen av protokoll 47 til avtalen og de spesifikke tilpasningene i tillegg 1 til protokoll 47 til avtalen.
 
@@ -126,7 +139,9 @@ Representanter fra EFTA-statene skal kunne delta i arbeidet til komiteen som det
 
 ### Artikkel 1. Virkeområde
 
-2\. Landbruksvarer som definert i nr. 1 skal deles inn i følgende sektorer som angitt i de respektive delene av vedlegg I:vin, del XII,
+2\. Landbruksvarer som definert i nr. 1 skal deles inn i følgende sektorer som angitt i de respektive delene av vedlegg I:
+
+1. vin, del XII,
 
 ### Artikkel 3. Definisjoner
 
@@ -134,43 +149,91 @@ Representanter fra EFTA-statene skal kunne delta i arbeidet til komiteen som det
 
 ### Artikkel 75. Fastsettelse og innhold
 
-3\. Uten at det berører artikkel 26 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*),1 kan markedsføringstandardene nevnt i nr. 1 omfatte ett eller flere av følgende som skal fastsettes på sektor- eller produktspesifikt grunnlag og basert på hver sektors særtrekk, behovet for å regulere omsetningen og vilkårene fastsatt i nr. 5 i denne artikkel:bestemte stoffer, bestanddeler eller ingredienser som brukes i produksjonen, herunder mengde, renhet og identitet,driftsform og produksjonsmetode, herunder ønologiske framstillingsmåter og avanserte systemer for bærekraftig produksjon,sammenstikning av most og vin, herunder definisjoner, blanding og restriksjoner,restriksjoner med hensyn til bruken av visse stoffer og metoder,vilkårene for disponering, oppbevaring, omsetning og bruk av produkter som ikke er i samsvar med markedsføringsstandardene vedtatt i henhold til nr. 1, eller med definisjonene, betegnelsene og varebetegnelsene nevnt i artikkel 78, samt disponering av biprodukter.
+3\. Uten at det berører artikkel 26 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*),1 kan markedsføringstandardene nevnt i nr. 1 omfatte ett eller flere av følgende som skal fastsettes på sektor- eller produktspesifikt grunnlag og basert på hver sektors særtrekk, behovet for å regulere omsetningen og vilkårene fastsatt i nr. 5 i denne artikkel:
+
+1. bestemte stoffer, bestanddeler eller ingredienser som brukes i produksjonen, herunder mengde, renhet og identitet,
+2. driftsform og produksjonsmetode, herunder ønologiske framstillingsmåter og avanserte systemer for bærekraftig produksjon,
+3. sammenstikning av most og vin, herunder definisjoner, blanding og restriksjoner,
+4. restriksjoner med hensyn til bruken av visse stoffer og metoder,
+5. vilkårene for disponering, oppbevaring, omsetning og bruk av produkter som ikke er i samsvar med markedsføringsstandardene vedtatt i henhold til nr. 1, eller med definisjonene, betegnelsene og varebetegnelsene nevnt i artikkel 78, samt disponering av biprodukter.
 
 4\. Utover nr. 1 kan markedsføringsstandarder få anvendelse på vinsektoren. Nr. 3 bokstav f), g), h), k) og m) får anvendelse på nevnte sektor.
 
-5\. De sektor- eller produktspesifikke markedsføringstandardene som vedtas i henhold til nr. 1 i denne artikkel, skal fastsettes uten at det berører artikkel 84–88 og vedlegg IX, og idet det tas hensyn tilmetodene som er tilgjengelige for å bestemme produktenes fysiske, kjemiske og organoleptiske egenskaper,
+5\. De sektor- eller produktspesifikke markedsføringstandardene som vedtas i henhold til nr. 1 i denne artikkel, skal fastsettes uten at det berører artikkel 84–88 og vedlegg IX, og idet det tas hensyn til
+
+1. metodene som er tilgjengelige for å bestemme produktenes fysiske, kjemiske og organoleptiske egenskaper,
 
 1 Europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) (EUT L 304 av 22.11.2011, s. 18).
 
 ### Artikkel 78. Definisjoner, betegnelser og varebetegnelser for visse sektorer og produkter
 
-1\. Dersom det er relevant for de gjeldende markedsføringsstandardene, får definisjonene, betegnelsene og varebetegnelsene fastsatt i vedlegg VII anvendelse på følgende sektorer eller produkter:vin,
+1\. Dersom det er relevant for de gjeldende markedsføringsstandardene, får definisjonene, betegnelsene og varebetegnelsene fastsatt i vedlegg VII anvendelse på følgende sektorer eller produkter:
+
+1. vin,
 
 2\. Definisjonene, betegnelsene og varebetegnelsene fastsatt i vedlegg VII kan brukes i Unionen bare til markedsføring av et produkt som oppfyller de tilsvarende kravene fastsatt i nevnte vedlegg.
 
 ### Artikkel 80. Ønologiske framstillingsmåter og analysemetoder
 
-1\. Ved produksjon og oppbevaring i Unionen av produkter oppført i vedlegg VII del II skal det brukes bare ønologiske framstillingsmåter som er godkjent i samsvar med vedlegg VIII og fastsatt i artikkel 75 nr. 3 bokstav g) og artikkel 83 nr. 2 og 3.Første ledd får ikke anvendelse pådrueråsaft og konsentrert drueråsaft ogdruemost og konsentrert druemost beregnet på framstilling av drueråsaft.Tillatte ønologiske framstillingsmåter kan brukes bare for å sikre en god vinframstilling, god holdbarhet eller god bearbeiding av produktet.Produkter oppført i vedlegg VII del II skal produseres i Unionen i samsvar med reglene fastsatt i vedlegg VIII.
+1\. Ved produksjon og oppbevaring i Unionen av produkter oppført i vedlegg VII del II skal det brukes bare ønologiske framstillingsmåter som er godkjent i samsvar med vedlegg VIII og fastsatt i artikkel 75 nr. 3 bokstav g) og artikkel 83 nr. 2 og 3.
 
-2\. Produkter oppført i vedlegg VII del II skal ikke markedsføres i Unionen dersomde har vært gjenstand for ønologiske framstillingsmåter som ikke er tillatt i Unionen,de har vært gjenstand for ønologiske framstillingsmåter som ikke er tillatt på nasjonalt plan, ellerde ikke overholder reglene fastsatt i vedlegg VIII.Vinprodukter som ikke kan markedsføres i samsvar med første ledd, skal destrueres. Som unntak fra denne regelen kan medlemsstatene tillate at visse slike produkter som de selv fastsetter kjennetegnene for, kan brukes av destillasjonsforetak eller eddikfabrikker eller til industriformål, forutsatt at slik tillatelse ikke oppmuntrer til produksjon av vinprodukter ved hjelp av ønologiske framstillingsmåter som ikke er tillatt.
+Første ledd får ikke anvendelse på
 
-3\. Når Kommisjonen gir tillatelse til ønologiske framstillingsmåter som nevnt i artikkel 75 nr. 3 bokstav g), skal denta hensyn til de ønologiske framstillingsmåtene og analysemetodene som er anbefalt og offentliggjort av Den internasjonale vinorganisasjon (OIV), og til resultatene av bruk i forsøksøyemed av ønologiske framstillingsmåter som ennå ikke er tillatt,ta hensyn til vern av menneskers helse,ta hensyn til den mulige risikoen for at forbrukerne villedes på grunn av veletablerte oppfatninger av produktet og tilhørende forventninger, og i den forbindelse undersøke hvilke informasjonstiltak som finnes og kan gjennomføres for å unngå slik risiko,gi mulighet til å bevare vinens naturlige og vesentlige kjennetegn og unngå en gjennomgripende endring av det berørte produktets sammensetning,sikre et akseptabelt minstenivå for miljøvern,overholde de alminnelige reglene for ønologiske framstillingsmåter og reglene fastsatt i vedlegg VIII.
+1. drueråsaft og konsentrert drueråsaft og
+2. druemost og konsentrert druemost beregnet på framstilling av drueråsaft.
+
+Tillatte ønologiske framstillingsmåter kan brukes bare for å sikre en god vinframstilling, god holdbarhet eller god bearbeiding av produktet.
+
+Produkter oppført i vedlegg VII del II skal produseres i Unionen i samsvar med reglene fastsatt i vedlegg VIII.
+
+2\. Produkter oppført i vedlegg VII del II skal ikke markedsføres i Unionen dersom
+
+1. de har vært gjenstand for ønologiske framstillingsmåter som ikke er tillatt i Unionen,
+2. de har vært gjenstand for ønologiske framstillingsmåter som ikke er tillatt på nasjonalt plan, eller
+3. de ikke overholder reglene fastsatt i vedlegg VIII.
+
+Vinprodukter som ikke kan markedsføres i samsvar med første ledd, skal destrueres. Som unntak fra denne regelen kan medlemsstatene tillate at visse slike produkter som de selv fastsetter kjennetegnene for, kan brukes av destillasjonsforetak eller eddikfabrikker eller til industriformål, forutsatt at slik tillatelse ikke oppmuntrer til produksjon av vinprodukter ved hjelp av ønologiske framstillingsmåter som ikke er tillatt.
+
+3\. Når Kommisjonen gir tillatelse til ønologiske framstillingsmåter som nevnt i artikkel 75 nr. 3 bokstav g), skal den
+
+1. ta hensyn til de ønologiske framstillingsmåtene og analysemetodene som er anbefalt og offentliggjort av Den internasjonale vinorganisasjon (OIV), og til resultatene av bruk i forsøksøyemed av ønologiske framstillingsmåter som ennå ikke er tillatt,
+2. ta hensyn til vern av menneskers helse,
+3. ta hensyn til den mulige risikoen for at forbrukerne villedes på grunn av veletablerte oppfatninger av produktet og tilhørende forventninger, og i den forbindelse undersøke hvilke informasjonstiltak som finnes og kan gjennomføres for å unngå slik risiko,
+4. gi mulighet til å bevare vinens naturlige og vesentlige kjennetegn og unngå en gjennomgripende endring av det berørte produktets sammensetning,
+5. sikre et akseptabelt minstenivå for miljøvern,
+6. overholde de alminnelige reglene for ønologiske framstillingsmåter og reglene fastsatt i vedlegg VIII.
 
 4\. For å sikre korrekt behandling av vinprodukter som ikke kan markedsføres, skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 227 om regler for de nasjonale framgangsmåtene nevnt i nr. 2 annet ledd i denne artikkel og om unntak fra disse med hensyn til tilbaketrekking eller destruering av vinprodukter som ikke oppfyller kravene.
 
-5\. Kommisjonen skal ved behov vedta gjennomføringsrettsakter om fastsettelse av metodene nevnt i artikkel 75 nr. 5 bokstav d) for produktene oppført i vedlegg VII del II. Slike metoder skal bygge på relevante metoder som er anbefalt og publisert av OIV, med mindre de ikke er effektive eller hensiktsmessige for å nå Unionens mål. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.I påvente av vedtakelsen av slike gjennomføringsrettsakter brukes de metodene og reglene som er tillatt i den berørte medlemsstaten.
+5\. Kommisjonen skal ved behov vedta gjennomføringsrettsakter om fastsettelse av metodene nevnt i artikkel 75 nr. 5 bokstav d) for produktene oppført i vedlegg VII del II. Slike metoder skal bygge på relevante metoder som er anbefalt og publisert av OIV, med mindre de ikke er effektive eller hensiktsmessige for å nå Unionens mål. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.
+
+I påvente av vedtakelsen av slike gjennomføringsrettsakter brukes de metodene og reglene som er tillatt i den berørte medlemsstaten.
 
 ### Artikkel 81. Vindruesorter
 
 1\. Produktene som er oppført i vedlegg VII del II og produseres i Unionen, skal framstilles av vindruesorter som kan klassifiseres i henhold til nr. 2 i denne artikkel.
 
-2\. Med forbehold for nr. 3 skal medlemsstatene klassifisere hvilke vindruesorter til vinproduksjon som kan plantes, gjenplantes eller podes på deres respektive territorier.Medlemsstatene kan klassifisere bare vindruesorter som oppfyller følgende vilkår:den berørte sorten skal tilhøre arten *Vitis vinifera* eller komme fra en krysning mellom den arten og andre arter av slekten *Vitis*,sorten er ikke en av følgende: Noah, Othello, Isabelle, Jacquez, Clinton og Herbemont.Dersom en vindruesort strykes fra klassifiseringen nevnt i første ledd, skal opprykkingen finne sted innen 15 år etter at den er strøket.
+2\. Med forbehold for nr. 3 skal medlemsstatene klassifisere hvilke vindruesorter til vinproduksjon som kan plantes, gjenplantes eller podes på deres respektive territorier.
 
-3\. Medlemsstater med en vinproduksjon som ikke overstiger 50 000 hektoliter per vinår, beregnet på grunnlag av gjennomsnittlig produksjon i de siste fem vinårene, skal unntas fra kravet om klassifisering fastsatt i nr. 2 første ledd.I disse medlemsstatene er det imidlertid bare vindruesorter som er i samsvar med nr. 2 annet ledd som kan plantes, gjenplantes eller podes med henblikk på vinproduksjon.
+Medlemsstatene kan klassifisere bare vindruesorter som oppfyller følgende vilkår:
 
-4\. Som unntak fra nr. 2 første og tredje ledd og nr. 3 annet ledd skal planting, gjenplanting eller poding av følgende vindruesorter tillates av medlemsstatene for vitenskapelig forskning og i forsøksøyemed:vindruesorter som ikke er klassifisert, når det gjelder andre medlemsstater enn dem som er nevnt i nr. 3,vindruesorter som ikke er i samsvar med nr. 2 annet ledd, når det gjelder medlemsstatene nevnt i nr. 3.
+1. den berørte sorten skal tilhøre arten *Vitis vinifera* eller komme fra en krysning mellom den arten og andre arter av slekten *Vitis*,
+2. sorten er ikke en av følgende: Noah, Othello, Isabelle, Jacquez, Clinton og Herbemont.
 
-5\. Arealer som er beplantet med vindruesorter til vinproduksjon i strid med nr. 2, 3 og 4, skal rykkes opp.Det er imidlertid ingen plikt til å rykke opp slike arealer dersom det som produseres, utelukkende er beregnet på konsum i vinprodusentens egen husholdning.
+Dersom en vindruesort strykes fra klassifiseringen nevnt i første ledd, skal opprykkingen finne sted innen 15 år etter at den er strøket.
+
+3\. Medlemsstater med en vinproduksjon som ikke overstiger 50 000 hektoliter per vinår, beregnet på grunnlag av gjennomsnittlig produksjon i de siste fem vinårene, skal unntas fra kravet om klassifisering fastsatt i nr. 2 første ledd.
+
+I disse medlemsstatene er det imidlertid bare vindruesorter som er i samsvar med nr. 2 annet ledd som kan plantes, gjenplantes eller podes med henblikk på vinproduksjon.
+
+4\. Som unntak fra nr. 2 første og tredje ledd og nr. 3 annet ledd skal planting, gjenplanting eller poding av følgende vindruesorter tillates av medlemsstatene for vitenskapelig forskning og i forsøksøyemed:
+
+1. vindruesorter som ikke er klassifisert, når det gjelder andre medlemsstater enn dem som er nevnt i nr. 3,
+2. vindruesorter som ikke er i samsvar med nr. 2 annet ledd, når det gjelder medlemsstatene nevnt i nr. 3.
+
+5\. Arealer som er beplantet med vindruesorter til vinproduksjon i strid med nr. 2, 3 og 4, skal rykkes opp.
+
+Det er imidlertid ingen plikt til å rykke opp slike arealer dersom det som produseres, utelukkende er beregnet på konsum i vinprodusentens egen husholdning.
 
 ### Artikkel 82. Spesifikk bruk av vin som ikke omfattes av kategoriene oppført i vedlegg VII del II
 
@@ -186,13 +249,35 @@ Med unntak av vin på flaske der det kan godtgjøres at tappingen har skjedd fø
 
 1\. Regler for opprinnelsesbetegnelser, geografiske betegnelser og tradisjonelle betegnelser fastsatt i dette avsnitt får anvendelse på produktene nevnt i nr. 1, 3–6, 8, 9, 11, 15 og 16 i vedlegg VIII del II.
 
-2\. Reglene nevnt i nr. 1 skal ha som mål åverne forbrukernes og produsentenes legitime interesser,sikre at det indre marked for de berørte produktene virker på en tilfredsstillende måte, ogfremme produksjonen av kvalitetsprodukter nevnt i dette avsnitt, samtidig som det tillates nasjonale kvalitetspolitiske tiltak.
+2\. Reglene nevnt i nr. 1 skal ha som mål å
+
+1. verne forbrukernes og produsentenes legitime interesser,
+2. sikre at det indre marked for de berørte produktene virker på en tilfredsstillende måte, og
+3. fremme produksjonen av kvalitetsprodukter nevnt i dette avsnitt, samtidig som det tillates nasjonale kvalitetspolitiske tiltak.
 
 ### Artikkel 93. Definisjoner
 
-1\. I dette avsnitt menes med:«opprinnelsesbetegnelse» navn på en region, et bestemt sted eller unntaksvis og i behørig begrunnede tilfeller en stat, som brukes for å betegne et produkt som nevnt i artikkel 92 nr. 1 som oppfyller følgende krav:produktets kvalitet og egenskaper kan hovedsakelig eller utelukkende tilskrives særlige geografiske omgivelser med de naturlige og menneskelige faktorene som forbindes med dem,druene som produktet er framstilt av, kommer bare fra dette geografiske området,produksjonen skjer i dette geografiske området ogproduktet stammer fra vinstokksorter som tilhører sorten *Vitis vinifera* ,«geografisk betegnelse» en betegnelse på en region, et bestemt sted eller unntaksvis og i behørig begrunnede tilfeller en stat, som brukes for å betegne et produkt som nevnt i artikkel 92 nr. 1 som oppfyller følgende krav:det har en særlig kvalitet, et særlig omdømme eller andre egenskaper som kan tilskrives den geografiske opprinnelsen,minst 85 % av druene som brukes til framstillingen av det, kommer bare fra dette geografiske området,produksjonen skjer i dette geografiske området ogdet stammer fra vinstokksorter som tilhører arten *Vitis vinifera*, eller en krysning av *Vitis vinifera*-arten og andre arter av slekten *Vitis*.
+1\. I dette avsnitt menes med:
 
-2\. Visse navn som tradisjonelt er brukt, skal utgjøre opprinnelsesbetegnelser dersom debetegner en vin,viser til et geografisk navn,oppfyller kravene i nr. 1 bokstav a) i)–iv) ogunderlegges de framgangsmåtene for beskyttelse av opprinnelsesbetegnelser og geografiske betegnelser som er fastsatt i dette underavsnitt.
+1. «opprinnelsesbetegnelse» navn på en region, et bestemt sted eller unntaksvis og i behørig begrunnede tilfeller en stat, som brukes for å betegne et produkt som nevnt i artikkel 92 nr. 1 som oppfyller følgende krav:
+
+   1. produktets kvalitet og egenskaper kan hovedsakelig eller utelukkende tilskrives særlige geografiske omgivelser med de naturlige og menneskelige faktorene som forbindes med dem,
+   2. druene som produktet er framstilt av, kommer bare fra dette geografiske området,
+   3. produksjonen skjer i dette geografiske området og
+   4. produktet stammer fra vinstokksorter som tilhører sorten *Vitis vinifera* ,
+2. «geografisk betegnelse» en betegnelse på en region, et bestemt sted eller unntaksvis og i behørig begrunnede tilfeller en stat, som brukes for å betegne et produkt som nevnt i artikkel 92 nr. 1 som oppfyller følgende krav:
+
+   1. det har en særlig kvalitet, et særlig omdømme eller andre egenskaper som kan tilskrives den geografiske opprinnelsen,
+   2. minst 85 % av druene som brukes til framstillingen av det, kommer bare fra dette geografiske området,
+   3. produksjonen skjer i dette geografiske området og
+   4. det stammer fra vinstokksorter som tilhører arten *Vitis vinifera*, eller en krysning av *Vitis vinifera*-arten og andre arter av slekten *Vitis*.
+
+2\. Visse navn som tradisjonelt er brukt, skal utgjøre opprinnelsesbetegnelser dersom de
+
+1. betegner en vin,
+2. viser til et geografisk navn,
+3. oppfyller kravene i nr. 1 bokstav a) i)–iv) og
+4. underlegges de framgangsmåtene for beskyttelse av opprinnelsesbetegnelser og geografiske betegnelser som er fastsatt i dette underavsnitt.
 
 3\. Opprinnelsesbetegnelser og geografiske betegnelser, herunder slike som gjelder geografiske områder i tredjestater, kan beskyttes i Unionen etter reglene i dette underavsnitt.
 
@@ -202,9 +287,29 @@ Med unntak av vin på flaske der det kan godtgjøres at tappingen har skjedd fø
 
 ### Artikkel 94. Søknad om beskyttelse
 
-1\. Søknader om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser skal inneholde teknisk dokumentasjon med følgende:betegnelsen som skal beskyttes,søkerens navn og adresse,produktspesifikasjonen nevnt i nr. 2 oget enhetsdokument som sammenfatter produktspesifikasjonen nevnt i nr. 2.
+1\. Søknader om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser skal inneholde teknisk dokumentasjon med følgende:
 
-2\. Produktspesifikasjonen skal gjøre det mulig for berørte parter å kontrollere de relevante produksjonsvilkårene for opprinnelsesbetegnelsen eller den geografiske betegnelsen.Produktspesifikasjonen skal minst omfatte følgende:betegnelsen som skal beskyttes,en beskrivelse av vinen eller vinene:når det gjelder en opprinnelsesbetegnelse, de viktigste analytiske og organoleptiske egenskapene,når det gjelder en geografisk betegnelse, de viktigste analytiske egenskapene samt en vurdering eller angivelse av de organoleptiske egenskapene,eventuelt de særlige ønologiske framstillingsmåtene som brukes for å framstille vinen eller vinene, samt de relevante restriksjonene på framstillingen av vinen eller vinene,en avgrensning av det berørte geografiske området,største avling per hektar,en angivelse av den eller de druesortene vinen eller vinene er framstilt av,nærmere opplysninger som bekrefter tilknytningen omhandlet i artikkel 93 nr. 1 bokstav a) i) eller, eventuelt, artikkel 93 nr. 1 bokstav b) i),gjeldende krav som er fastsatt i Unionens regelverk eller i nasjonal lovgivning, eller dersom medlemsstatene fastsetter det, av en organisasjon som forvalter den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen, idet det tas hensyn til at slike krav skal være objektive, ikke innebære forskjellsbehandling og være forenlige med Unionens regelverk,navn og adresse til myndighetene eller organene som kontrollerer at bestemmelsene i produktspesifikasjonen blir overholdt, samt deres bestemte oppgaver.
+1. betegnelsen som skal beskyttes,
+2. søkerens navn og adresse,
+3. produktspesifikasjonen nevnt i nr. 2 og
+4. et enhetsdokument som sammenfatter produktspesifikasjonen nevnt i nr. 2.
+
+2\. Produktspesifikasjonen skal gjøre det mulig for berørte parter å kontrollere de relevante produksjonsvilkårene for opprinnelsesbetegnelsen eller den geografiske betegnelsen.
+
+Produktspesifikasjonen skal minst omfatte følgende:
+
+1. betegnelsen som skal beskyttes,
+2. en beskrivelse av vinen eller vinene:
+
+   1. når det gjelder en opprinnelsesbetegnelse, de viktigste analytiske og organoleptiske egenskapene,
+   2. når det gjelder en geografisk betegnelse, de viktigste analytiske egenskapene samt en vurdering eller angivelse av de organoleptiske egenskapene,
+3. eventuelt de særlige ønologiske framstillingsmåtene som brukes for å framstille vinen eller vinene, samt de relevante restriksjonene på framstillingen av vinen eller vinene,
+4. en avgrensning av det berørte geografiske området,
+5. største avling per hektar,
+6. en angivelse av den eller de druesortene vinen eller vinene er framstilt av,
+7. nærmere opplysninger som bekrefter tilknytningen omhandlet i artikkel 93 nr. 1 bokstav a) i) eller, eventuelt, artikkel 93 nr. 1 bokstav b) i),
+8. gjeldende krav som er fastsatt i Unionens regelverk eller i nasjonal lovgivning, eller dersom medlemsstatene fastsetter det, av en organisasjon som forvalter den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen, idet det tas hensyn til at slike krav skal være objektive, ikke innebære forskjellsbehandling og være forenlige med Unionens regelverk,
+9. navn og adresse til myndighetene eller organene som kontrollerer at bestemmelsene i produktspesifikasjonen blir overholdt, samt deres bestemte oppgaver.
 
 3\. Dersom søknaden om beskyttelse gjelder et geografisk område i en tredjestat, skal den i tillegg til opplysningene angitt i nr. 1 og 2 inneholde bevis for at den berørte betegnelsen er beskyttet i opprinnelsesstaten.
 
@@ -222,7 +327,9 @@ Med unntak av vin på flaske der det kan godtgjøres at tappingen har skjedd fø
 
 2\. Søknaden om beskyttelse skal inngis i medlemsstaten der opprinnelsesbetegnelsen eller den geografiske betegnelsen har sin opprinnelse.
 
-3\. Medlemsstaten som mottar søknaden om beskyttelse, skal undersøke om den oppfyller vilkårene i dette underavsnitt.Medlemsstaten skal gjennomføre en nasjonal framgangsmåte der det sikres at søknaden offentliggjøres på en egnet måte, og der det fastsettes en frist på minst to måneder fra datoen for offentliggjøring, som enhver fysisk eller juridisk person som har en rettmessig interesse og er bosatt eller etablert på medlemsstatens territorium, har til å gjøre innsigelse mot den foreslåtte beskyttelsen ved å inngi en behørig begrunnet erklæring til medlemsstaten.
+3\. Medlemsstaten som mottar søknaden om beskyttelse, skal undersøke om den oppfyller vilkårene i dette underavsnitt.
+
+Medlemsstaten skal gjennomføre en nasjonal framgangsmåte der det sikres at søknaden offentliggjøres på en egnet måte, og der det fastsettes en frist på minst to måneder fra datoen for offentliggjøring, som enhver fysisk eller juridisk person som har en rettmessig interesse og er bosatt eller etablert på medlemsstatens territorium, har til å gjøre innsigelse mot den foreslåtte beskyttelsen ved å inngi en behørig begrunnet erklæring til medlemsstaten.
 
 4\. Dersom medlemsstaten som vurderer søknaden, anser at opprinnelsesbetegnelsen eller den geografiske betegnelsen ikke oppfyller vilkårene fastsatt i dette underavsnitt eller er uforenlig med unionsretten, skal den avslå søknaden.
 
@@ -236,7 +343,9 @@ Med unntak av vin på flaske der det kan godtgjøres at tappingen har skjedd fø
 
 3\. Dersom Kommisjonen anser at vilkårene fastsatt i dette underavsnitt er oppfylt, skal den vedta gjennomføringsrettsakter om offentliggjøring i Den europeiske unions tidende av enhetsdokumentet nevnt i artikkel 94 nr. 1 bokstav d) og en henvisning til offentliggjøringen av produktspesifikasjonen som fant sted i forbindelse med den forberedende nasjonale framgangsmåten. Disse gjennomføringsrettsaktene skal vedtas uten anvendelse av framgangsmåten nevnt i artikkel 229 nr. 2 eller 3.
 
-4\. Dersom Kommisjonen anser at vilkårene fastsatt i dette underavsnitt ikke er oppfylt, skal den vedta gjennomføringsrettsakter om avslag på søknaden.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.
+4\. Dersom Kommisjonen anser at vilkårene fastsatt i dette underavsnitt ikke er oppfylt, skal den vedta gjennomføringsrettsakter om avslag på søknaden.
+
+Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.
 
 ### Artikkel 98. Framgangsmåte for innsigelse
 
@@ -252,11 +361,17 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 
 ### Artikkel 100. Homonyme betegnelser
 
-1\. En betegnelse som det er inngitt søknad om, og som er helt eller delvis homonym med en betegnelse som allerede er registrert i henhold til denne forordning, skal registreres med behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.En homonym betegnelse som villeder forbrukeren til å tro at produktene kommer fra et annet område, skal ikke registreres selv om betegnelsen er riktig med hensyn til det området, den regionen eller det stedet der produktene har sin opprinnelse.En registrert homonym betegnelse kan brukes bare dersom det er en klar forskjell i praksis mellom det homonym som registreres sist, og den betegnelsen som allerede er registrert, idet det tas hensyn til behovet for å behandle de berørte produsentene likt og for ikke å villede forbrukerne.
+1\. En betegnelse som det er inngitt søknad om, og som er helt eller delvis homonym med en betegnelse som allerede er registrert i henhold til denne forordning, skal registreres med behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.
+
+En homonym betegnelse som villeder forbrukeren til å tro at produktene kommer fra et annet område, skal ikke registreres selv om betegnelsen er riktig med hensyn til det området, den regionen eller det stedet der produktene har sin opprinnelse.
+
+En registrert homonym betegnelse kan brukes bare dersom det er en klar forskjell i praksis mellom det homonym som registreres sist, og den betegnelsen som allerede er registrert, idet det tas hensyn til behovet for å behandle de berørte produsentene likt og for ikke å villede forbrukerne.
 
 2\. Nr. 1 får tilsvarende anvendelse dersom en betegnelse som det er inngitt søknad om, er helt eller delvis homonym med en geografisk betegnelse som er beskyttet i henhold til medlemsstatenes lovgivning.
 
-3\. Dersom navnet på en vindruesort inneholder eller utgjør en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal dette navnet ikke brukes til merking av landbruksvarer.For å ta hensyn til gjeldende merkingspraksis skal Kommisjonen ha myndighet til å vedta gjennomføringsrettsakter i samsvar med artikkel 227 for å fastsette unntak fra denne regelen.
+3\. Dersom navnet på en vindruesort inneholder eller utgjør en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal dette navnet ikke brukes til merking av landbruksvarer.
+
+For å ta hensyn til gjeldende merkingspraksis skal Kommisjonen ha myndighet til å vedta gjennomføringsrettsakter i samsvar med artikkel 227 for å fastsette unntak fra denne regelen.
 
 4\. Beskyttelsen av opprinnelsesbetegnelser og geografiske betegnelser for produkter som er omfattet av artikkel 93 i denne forordning, skal ikke berøre beskyttede geografiske betegnelser som gjelder for alkoholsterke drikker som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 110/2008](eu/32008r0110).2
 
@@ -264,23 +379,45 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 
 ### Artikkel 101. Ytterligere grunner til å avslå søknader om beskyttelse
 
-1\. Et navn som er blitt generisk, skal ikke beskyttes som en opprinnelsesbetegnelse eller en geografisk betegnelse.I dette underavsnitt menes med «navn som er blitt generisk» navnet på en vin som, til tross for at det er knyttet til stedet eller regionen der produktet opprinnelig ble framstilt eller markedsført, er blitt det vanlige navnet på denne vinen i Unionen.For å fastslå om et navn er blitt generisk skal det tas hensyn til alle relevante faktorer, særlig:nåværende forhold i Unionen, særlig i de områdene der produktene forbrukes,relevant unionsrett eller nasjonal lovgivning.
+1\. Et navn som er blitt generisk, skal ikke beskyttes som en opprinnelsesbetegnelse eller en geografisk betegnelse.
+
+I dette underavsnitt menes med «navn som er blitt generisk» navnet på en vin som, til tross for at det er knyttet til stedet eller regionen der produktet opprinnelig ble framstilt eller markedsført, er blitt det vanlige navnet på denne vinen i Unionen.
+
+For å fastslå om et navn er blitt generisk skal det tas hensyn til alle relevante faktorer, særlig:
+
+1. nåværende forhold i Unionen, særlig i de områdene der produktene forbrukes,
+2. relevant unionsrett eller nasjonal lovgivning.
 
 2\. Et navn skal ikke beskyttes som opprinnelsesbetegnelse eller geografisk betegnelse dersom dette, på bakgrunn av et varemerkes omdømme og anseelse, kan villede forbrukeren med hensyn til vinens virkelige identitet.
 
 ### Artikkel 102. Forhold til varemerker
 
-1\. En søknad om registrering av et varemerke som inneholder eller utgjør en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som ikke er i samsvar med den gjeldende produktspesifikasjonen, eller hvis bruk hører inn under artikkel 103 nr. 2, og som gjelder et produkt som hører inn under en av kategoriene oppført i vedlegg VII del II, skalavslås dersom søknaden om registrering av varemerket inngis etter datoen for inngivelse av søknaden om beskyttelse av opprinnelsesbetegnelsen eller den geografiske betegnelsen til Kommisjonen, og sistnevnte søknad fører til at opprinnelsesbetegnelsen eller den geografiske betegnelsen beskyttes, ellerkjennes ugyldig.
+1\. En søknad om registrering av et varemerke som inneholder eller utgjør en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som ikke er i samsvar med den gjeldende produktspesifikasjonen, eller hvis bruk hører inn under artikkel 103 nr. 2, og som gjelder et produkt som hører inn under en av kategoriene oppført i vedlegg VII del II, skal
 
-2\. Uten at det berører artikkel 101 nr. 2, kan et varemerke nevnt i nr. 1 i denne artikkel som det, i god tro, er inngitt søknad om, som er registrert eller som er innarbeidet gjennom bruk, dersom den muligheten er fastsatt i det berørte regelverk, på Unionens territorium enten før datoen for beskyttelse av opprinnelsesbetegnelsen eller den geografiske betegnelsen i opprinnelsesstaten eller før 1. januar 1996, fortsatt brukes og fornyes uten hensyn til beskyttelsen av en opprinnelsesbetegnelse eller geografisk betegnelse, forutsatt at det ikke er grunner til å kjenne varemerket ugyldig eller oppheve det i henhold til europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095)3 eller rådsforordning [(EF) nr. 207/2009](eu/32009r0207).4I slike tilfeller skal bruk av opprinnelsesbetegnelsen eller den geografiske betegnelsen tillates parallelt med de berørte varemerkene.
+1. avslås dersom søknaden om registrering av varemerket inngis etter datoen for inngivelse av søknaden om beskyttelse av opprinnelsesbetegnelsen eller den geografiske betegnelsen til Kommisjonen, og sistnevnte søknad fører til at opprinnelsesbetegnelsen eller den geografiske betegnelsen beskyttes, eller
+2. kjennes ugyldig.
 
-3 Europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) av 22. oktober 2008 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 299 av 8.11.2008, s. 25).4 Rådsforordning [(EF) nr. 207/2009](eu/32009r0207) av 26. februar 2009 om EF-varemerker (EUT L 78 av 24.3.2009, s. 1).
+2\. Uten at det berører artikkel 101 nr. 2, kan et varemerke nevnt i nr. 1 i denne artikkel som det, i god tro, er inngitt søknad om, som er registrert eller som er innarbeidet gjennom bruk, dersom den muligheten er fastsatt i det berørte regelverk, på Unionens territorium enten før datoen for beskyttelse av opprinnelsesbetegnelsen eller den geografiske betegnelsen i opprinnelsesstaten eller før 1. januar 1996, fortsatt brukes og fornyes uten hensyn til beskyttelsen av en opprinnelsesbetegnelse eller geografisk betegnelse, forutsatt at det ikke er grunner til å kjenne varemerket ugyldig eller oppheve det i henhold til europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095)3 eller rådsforordning [(EF) nr. 207/2009](eu/32009r0207).4
+
+I slike tilfeller skal bruk av opprinnelsesbetegnelsen eller den geografiske betegnelsen tillates parallelt med de berørte varemerkene.
+
+3 Europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) av 22. oktober 2008 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 299 av 8.11.2008, s. 25).
+
+4 Rådsforordning [(EF) nr. 207/2009](eu/32009r0207) av 26. februar 2009 om EF-varemerker (EUT L 78 av 24.3.2009, s. 1).
 
 ### Artikkel 103. Beskyttelse
 
 1\. En beskyttet opprinnelsesbetegnelse og en beskyttet geografisk betegnelse kan brukes av enhver markedsdeltaker som markedsfører en vin som er framstilt i samsvar med den tilsvarende produktspesifikasjonen.
 
-2\. En beskyttet opprinnelsesbetegnelse og en beskyttet geografisk betegnelse og vinen som bruker denne beskyttede betegnelsen i samsvar med produktspesifikasjonene, skal beskyttes motenhver direkte eller indirekte kommersiell bruk av den beskyttede betegnelsen:for sammenlignbare produkter som ikke er i samsvar med den beskyttede betegnelsens produktspesifikasjon, elleri den utstrekning slik bruk innebærer at en opprinnelsesbetegnelses eller en geografisk betegnelses omdømme utnyttes,ethvert misbruk og enhver etterligning eller antydning, også når produktets eller tjenestens virkelige opprinnelse er angitt eller den beskyttede betegnelsen er oversatt, transskribert eller translitterert eller følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,enhver annen uberettiget eller villedende angivelse av produktets herkomst, opprinnelse, art eller vesentlige egenskaper på pakningen eller emballasjen eller i reklamemateriell eller dokumenter for vedkommende vinprodukt, samt bruk av beholdere som kan gi et feilaktig inntrykk av opprinnelsen,enhver annen praksis som er egnet til å villede forbrukeren med hensyn til produktets virkelige opprinnelse.
+2\. En beskyttet opprinnelsesbetegnelse og en beskyttet geografisk betegnelse og vinen som bruker denne beskyttede betegnelsen i samsvar med produktspesifikasjonene, skal beskyttes mot
+
+1. enhver direkte eller indirekte kommersiell bruk av den beskyttede betegnelsen:
+
+   1. for sammenlignbare produkter som ikke er i samsvar med den beskyttede betegnelsens produktspesifikasjon, eller
+   2. i den utstrekning slik bruk innebærer at en opprinnelsesbetegnelses eller en geografisk betegnelses omdømme utnyttes,
+2. ethvert misbruk og enhver etterligning eller antydning, også når produktets eller tjenestens virkelige opprinnelse er angitt eller den beskyttede betegnelsen er oversatt, transskribert eller translitterert eller følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,
+3. enhver annen uberettiget eller villedende angivelse av produktets herkomst, opprinnelse, art eller vesentlige egenskaper på pakningen eller emballasjen eller i reklamemateriell eller dokumenter for vedkommende vinprodukt, samt bruk av beholdere som kan gi et feilaktig inntrykk av opprinnelsen,
+4. enhver annen praksis som er egnet til å villede forbrukeren med hensyn til produktets virkelige opprinnelse.
 
 3\. Beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser skal ikke bli generiske i Unionen i henhold til artikkel 101 nr. 1.
 
@@ -302,10 +439,18 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 
 1. Vinbetegnelser nevnt i artikkel 51 og 54 i rådsforordning [(EF) nr. 1493/1999](eu/31999r1493)5 og artikkel 28 i kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*)6 skal automatisk beskyttes i henhold til denne forordning. Kommisjonen skal oppføre dem i registeret omhandlet i artikkel 104 i denne forordning.
 2. Kommisjonen skal treffe tilsvarende formelle tiltak for å fjerne vinbetegnelser som artikkel 118s nr. 3 i forordning [(EF) nr. 1234/2007](eu/32007r1234) får anvendelse på, fra registeret omhandlet i artikkel 104 i denne forordning gjennom gjennomføringsrettsakter vedtatt uten anvendelse av framgangsmåten nevnt i artikkel 229 nr. 2 eller 3 i denne forordning.
-3. Artikkel 106 får ikke anvendelse på eksisterende beskyttede vinbetegnelser nevnt i nr. 1 i denne artikkel.Inntil 31. desember 2014 kan Kommisjonen på eget initiativ vedta gjennomføringsrettsakter om å annullere beskyttelsen av eksisterende beskyttede vinbetegnelser nevnt i nr. 1 i denne artikkel dersom de ikke oppfyller vilkårene fastsatt i artikkel 93.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.
+3. Artikkel 106 får ikke anvendelse på eksisterende beskyttede vinbetegnelser nevnt i nr. 1 i denne artikkel.
+
+   Inntil 31. desember 2014 kan Kommisjonen på eget initiativ vedta gjennomføringsrettsakter om å annullere beskyttelsen av eksisterende beskyttede vinbetegnelser nevnt i nr. 1 i denne artikkel dersom de ikke oppfyller vilkårene fastsatt i artikkel 93.
+
+   Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 229 nr. 2.
 4. For Kroatias vedkommende skal vinbetegnelsene som er offentliggjort i Den europeiske unions tidende,7 beskyttes i henhold til denne forordning, med forbehold for et positivt utfall av framgangsmåten for innsigelse. Kommisjonen skal oppføre dem i registeret omhandlet i artikkel 104.
 
-5 Rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin (EFT L 179 av 14.7.1999, s. 1).6 Kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter (EFT L 118 av 4.5.2002, s. 1).7 EUT C 116 av 14.4.2011, s. 12.
+5 Rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin (EFT L 179 av 14.7.1999, s. 1).
+
+6 Kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter (EFT L 118 av 4.5.2002, s. 1).
+
+7 EUT C 116 av 14.4.2011, s. 12.
 
 ### Artikkel 108. Gebyrer
 
@@ -313,17 +458,29 @@ Medlemsstatene kan innkreve gebyr til dekning av sine kostnader, herunder kostna
 
 ### Artikkel 112. Definisjon
 
-Med «tradisjonell betegnelse» menes en betegnelse som tradisjonelt brukes i medlemsstatene for produkter nevnt i artikkel 92 nr. 1 for å angiat produktet har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse i henhold til unionsretten eller nasjonal lovgivning, ellerproduksjons- eller modningsmetoden, kvaliteten, fargen, typen sted eller en bestemt hendelse knyttet til historien til produktet som har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse.
+Med «tradisjonell betegnelse» menes en betegnelse som tradisjonelt brukes i medlemsstatene for produkter nevnt i artikkel 92 nr. 1 for å angi
+
+1. at produktet har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse i henhold til unionsretten eller nasjonal lovgivning, eller
+2. produksjons- eller modningsmetoden, kvaliteten, fargen, typen sted eller en bestemt hendelse knyttet til historien til produktet som har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse.
 
 ### Artikkel 113. Beskyttelse
 
-1. En beskyttet tradisjonell betegnelse kan brukes bare på et produkt som er produsert i samsvar med definisjonen i artikkel 112.Tradisjonelle betegnelser skal beskyttes mot ulovlig bruk.
-2. Tradisjonelle betegnelser skal beskyttes bare på det språket og for de kategoriene av vinprodukter som er angitt i søknaden, motethvert misbruk av den beskyttede betegnelsen, også når betegnelsen følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,enhver annen uberettiget eller villedende angivelse av produktets art, egenskaper eller vesentlige egenskaper på pakningen eller emballasjen, i reklamemateriell eller i dokumenter for vedkommende produkt,enhver annen praksis som er egnet til å villede forbrukeren, særlig for å gi inntrykk av at vinen oppfyller kravene til den beskyttede tradisjonelle betegnelsen.
+1. En beskyttet tradisjonell betegnelse kan brukes bare på et produkt som er produsert i samsvar med definisjonen i artikkel 112.
+
+   Tradisjonelle betegnelser skal beskyttes mot ulovlig bruk.
+2. Tradisjonelle betegnelser skal beskyttes bare på det språket og for de kategoriene av vinprodukter som er angitt i søknaden, mot
+
+   1. ethvert misbruk av den beskyttede betegnelsen, også når betegnelsen følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,
+   2. enhver annen uberettiget eller villedende angivelse av produktets art, egenskaper eller vesentlige egenskaper på pakningen eller emballasjen, i reklamemateriell eller i dokumenter for vedkommende produkt,
+   3. enhver annen praksis som er egnet til å villede forbrukeren, særlig for å gi inntrykk av at vinen oppfyller kravene til den beskyttede tradisjonelle betegnelsen.
 3. Tradisjonelle betegnelser skal ikke bli generiske i Unionen.
 
 ### Artikkel 117. Definisjoner
 
-I dette avsnitt menes med:«merking» ord, opplysninger, varemerker eller -navn, bilder eller symboler som er påført emballasje, dokumenter, skilter, etiketter, halsetiketter eller krager som følger eller som viser til et produkt,«presentasjon» enhver opplysning som formidles til forbrukerne ved hjelp av det berørte produkts emballasje, herunder formen på og typen av flasker.
+I dette avsnitt menes med:
+
+1. «merking» ord, opplysninger, varemerker eller -navn, bilder eller symboler som er påført emballasje, dokumenter, skilter, etiketter, halsetiketter eller krager som følger eller som viser til et produkt,
+2. «presentasjon» enhver opplysning som formidles til forbrukerne ved hjelp av det berørte produkts emballasje, herunder formen på og typen av flasker.
 
 ### Artikkel 118. Anvendelse av overgripende bestemmelser
 
@@ -331,21 +488,52 @@ Når ikke annet er fastsatt i denne forordning, får rådsdirektiv [89/396/EØF]
 
 Merkingen av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II kan ikke utfylles med andre opplysninger enn dem som er fastsatt i denne forordning, med mindre disse opplysningene oppfyller kravene i direktiv [2000/13/EF](eu/32000l0013*) eller forordning [(EU) nr. 1169/2011](eu/32011r1169*).
 
-8 Rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti (EFT L 186 av 30.6.1989, s. 21).9 Europaparlaments- og rådsdirektiv [2007/45/EF](eu/32007l0045) av 5. september 2007 om fastsettelse av bestemmelser om nominelle mengder for ferdigpakkede produkter, om oppheving av rådsdirektiv [75/106/EØF](eu/31975l0106*) og [80/232/EØF](eu/31980l0232) og om endring av rådsdirektiv [76/211/EØF](eu/31976l0211) (EUT L 247 av 21.9.2007, s. 17).
+8 Rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti (EFT L 186 av 30.6.1989, s. 21).
+
+9 Europaparlaments- og rådsdirektiv [2007/45/EF](eu/32007l0045) av 5. september 2007 om fastsettelse av bestemmelser om nominelle mengder for ferdigpakkede produkter, om oppheving av rådsdirektiv [75/106/EØF](eu/31975l0106*) og [80/232/EØF](eu/31980l0232) og om endring av rådsdirektiv [76/211/EØF](eu/31976l0211) (EUT L 247 av 21.9.2007, s. 17).
 
 ### Artikkel 119. Obligatoriske opplysninger
 
-1\. Merking og presentasjon av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II som markedsføres i Unionen eller er beregnet på eksport, skal inneholde følgende obligatoriske opplysninger:kategorien vinprodukter i samsvar med vedlegg VII del II,for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse:uttrykket «beskyttet opprinnelsesbetegnelse» eller «beskyttet geografisk betegnelse» ognavnet på den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,sann alkoholstyrke i volumprosent,angivelse av herkomst,opplysning om tapperen eller, når det dreier seg om musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type, navnet på produsenten eller forhandleren,importøren, når det dreier seg om importerte viner, ognår det dreier seg om musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type, angivelse av sukkerinnholdet.
+1\. Merking og presentasjon av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II som markedsføres i Unionen eller er beregnet på eksport, skal inneholde følgende obligatoriske opplysninger:
+
+1. kategorien vinprodukter i samsvar med vedlegg VII del II,
+2. for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse:
+
+   1. uttrykket «beskyttet opprinnelsesbetegnelse» eller «beskyttet geografisk betegnelse» og
+   2. navnet på den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,
+3. sann alkoholstyrke i volumprosent,
+4. angivelse av herkomst,
+5. opplysning om tapperen eller, når det dreier seg om musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type, navnet på produsenten eller forhandleren,
+6. importøren, når det dreier seg om importerte viner, og
+7. når det dreier seg om musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type, angivelse av sukkerinnholdet.
 
 2\. Som unntak fra nr. 1 bokstav a) kan kategorien vinprodukt utelates for viner der etiketten angir navnet på en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse.
 
-3\. Som unntak fra nr. 1 bokstav b) kan uttrykket «beskyttet opprinnelsesbetegnelse» eller «beskyttet geografisk betegnelse» utelates i følgende tilfeller:dersom en tradisjonell betegnelse i henhold til artikkel 112 bokstav a) er angitt på etiketten i samsvar med produktspesifikasjonen nevnt i artikkel 94 nr. 2,i behørig begrunnede unntakstilfeller som skal fastsettes av Kommisjonen gjennom delegerte rettsakter vedtatt i samsvar med artikkel 227 for å sikre samsvar med gjeldende merkingspraksis.
+3\. Som unntak fra nr. 1 bokstav b) kan uttrykket «beskyttet opprinnelsesbetegnelse» eller «beskyttet geografisk betegnelse» utelates i følgende tilfeller:
+
+1. dersom en tradisjonell betegnelse i henhold til artikkel 112 bokstav a) er angitt på etiketten i samsvar med produktspesifikasjonen nevnt i artikkel 94 nr. 2,
+2. i behørig begrunnede unntakstilfeller som skal fastsettes av Kommisjonen gjennom delegerte rettsakter vedtatt i samsvar med artikkel 227 for å sikre samsvar med gjeldende merkingspraksis.
 
 ### Artikkel 120. Frivillige opplysninger
 
-1\. Merking og presentasjon av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II kan inneholde følgende frivillige opplysninger:årgang,navnet på en eller flere vindruesorter,når det gjelder andre viner enn dem som er nevnt i artikkel 119 nr. 1 bokstav g), opplysninger om sukkerinnholdet,når det gjelder viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, tradisjonelle betegnelser i henhold til artikkel 112 bokstav b),unionssymbolet for den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,visse produksjonsmetoder,når det gjelder viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, navnet på en annen geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen.
+1\. Merking og presentasjon av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II kan inneholde følgende frivillige opplysninger:
 
-2\. Uten at det berører artikkel 100 nr. 3, og i forbindelse med bruken av de opplysningene som angis i nr. 1 bokstav a) og b) i denne artikkel for viner uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse,skal medlemsstatene innføre lover og forskrifter som sikrer framgangsmåter for sertifisering, godkjenning og verifisering som gir garanti for at de berørte opplysningene er riktige,kan medlemsstatene ut fra objektive kriterier som ikke innebærer forskjellsbehandling, og idet det tas behørig hensyn til rettferdig konkurranse, for viner som er framstilt av vindruesorter på deres territorium, utarbeide lister over utelukkede vindruesorter, særlig dersomdet er risiko for at forbrukerne villedes om vinens virkelige opprinnelse fordi en viss vindruesort utgjør en integrert del av en eksisterende beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse,kontroller ikke vil være kostnadseffektive fordi en viss vindruesort utgjør en svært liten del av medlemsstatens vindyrking,skal blandinger av viner fra forskjellige medlemsstater ikke medføre merking av vindruesorten med mindre de berørte medlemsstatene beslutter noe annet og sikrer at de relevante framgangsmåtene for sertifisering, godkjenning og verifisering kan gjennomføres.
+1. årgang,
+2. navnet på en eller flere vindruesorter,
+3. når det gjelder andre viner enn dem som er nevnt i artikkel 119 nr. 1 bokstav g), opplysninger om sukkerinnholdet,
+4. når det gjelder viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, tradisjonelle betegnelser i henhold til artikkel 112 bokstav b),
+5. unionssymbolet for den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,
+6. visse produksjonsmetoder,
+7. når det gjelder viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, navnet på en annen geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen.
+
+2\. Uten at det berører artikkel 100 nr. 3, og i forbindelse med bruken av de opplysningene som angis i nr. 1 bokstav a) og b) i denne artikkel for viner uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse,
+
+1. skal medlemsstatene innføre lover og forskrifter som sikrer framgangsmåter for sertifisering, godkjenning og verifisering som gir garanti for at de berørte opplysningene er riktige,
+2. kan medlemsstatene ut fra objektive kriterier som ikke innebærer forskjellsbehandling, og idet det tas behørig hensyn til rettferdig konkurranse, for viner som er framstilt av vindruesorter på deres territorium, utarbeide lister over utelukkede vindruesorter, særlig dersom
+
+   1. det er risiko for at forbrukerne villedes om vinens virkelige opprinnelse fordi en viss vindruesort utgjør en integrert del av en eksisterende beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse,
+   2. kontroller ikke vil være kostnadseffektive fordi en viss vindruesort utgjør en svært liten del av medlemsstatens vindyrking,
+3. skal blandinger av viner fra forskjellige medlemsstater ikke medføre merking av vindruesorten med mindre de berørte medlemsstatene beslutter noe annet og sikrer at de relevante framgangsmåtene for sertifisering, godkjenning og verifisering kan gjennomføres.
 
 ### Artikkel 121. Språk
 
@@ -405,14 +593,43 @@ Termer som gjelder vinstokker
 Termer som gjelder produkter
 
 1. «Friske druer»: den modne eller også lett tørkede vinstokkfrukten som brukes i vinframstilling, som kan knuses eller presses etter vanlige vinkjellermetoder, og som spontant setter i gang alkoholgjæring.
-2. «Frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol»: et produkt somhar en sann alkoholstyrke på minst 12 volumprosent og høyst 15 volumprosent,framstilles ved at det i en ugjæret druemost med en naturlig alkoholstyrke på minst 8,5 volumprosent, som stammer utelukkende fra vindruesorter som kan klassifiseres i henhold til artikkel 81 nr. 2, tilsettesenten nøytral vinalkohol, herunder alkohol som framkommer ved destillasjon av tørkede druer, med en sann alkoholstyrke på minst 95 volumprosent,eller et ikke-rektifisert produkt som framkommer ved destillasjon av vin, med en sann alkoholstyrke på minst 52 volumprosent og høyst 80 volumprosent.
-3. «Drueråsaft»: det flytende produktet som ikke er gjæret, men som er gjærbart, somframkommer ved behandlinger som gjør det egnet til å drikkes i ubearbeidet tilstand,framstilles av friske druer eller av druemost, eller ved rekonstituering. Når det framstilles ved rekonstituering, skal det gjøres av konsentrert druemost eller konsentrert drueråsaft.En sann alkoholstyrke i drueråsaft som ikke overstiger 1 volumprosent, er tillatt.
-4. «Konsentrert drueråsaft»: ikke-karamellisert drueråsaft som er framstilt ved delvis dehydrering av drueråsaft, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes, ikke viser et tall under 50,9 % ved 20 °C.En sann alkoholstyrke i konsentrert drueråsaft som ikke overstiger 1 volumprosent, er tillatt.
-5. «Vinberme»: restensom legger seg i bunnen av beholderne med vin etter gjæringen eller under lagringen eller etter den tillatte behandlingen,som framkommer ved filtrering eller sentrifugering av produktet nevnt i bokstav a),som legger seg i bunnen av beholderne med druemost under lagringen eller etter den tillatte behandlingen,som framkommer ved filtrering eller sentrifugering av produktet nevnt i bokstav c).
+2. «Frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol»: et produkt som
+
+   1. har en sann alkoholstyrke på minst 12 volumprosent og høyst 15 volumprosent,
+   2. framstilles ved at det i en ugjæret druemost med en naturlig alkoholstyrke på minst 8,5 volumprosent, som stammer utelukkende fra vindruesorter som kan klassifiseres i henhold til artikkel 81 nr. 2, tilsettes
+
+      1. enten nøytral vinalkohol, herunder alkohol som framkommer ved destillasjon av tørkede druer, med en sann alkoholstyrke på minst 95 volumprosent,
+      2. eller et ikke-rektifisert produkt som framkommer ved destillasjon av vin, med en sann alkoholstyrke på minst 52 volumprosent og høyst 80 volumprosent.
+3. «Drueråsaft»: det flytende produktet som ikke er gjæret, men som er gjærbart, som
+
+   1. framkommer ved behandlinger som gjør det egnet til å drikkes i ubearbeidet tilstand,
+   2. framstilles av friske druer eller av druemost, eller ved rekonstituering. Når det framstilles ved rekonstituering, skal det gjøres av konsentrert druemost eller konsentrert drueråsaft.
+
+   En sann alkoholstyrke i drueråsaft som ikke overstiger 1 volumprosent, er tillatt.
+4. «Konsentrert drueråsaft»: ikke-karamellisert drueråsaft som er framstilt ved delvis dehydrering av drueråsaft, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes, ikke viser et tall under 50,9 % ved 20 °C.
+
+   En sann alkoholstyrke i konsentrert drueråsaft som ikke overstiger 1 volumprosent, er tillatt.
+5. «Vinberme»: resten
+
+   1. som legger seg i bunnen av beholderne med vin etter gjæringen eller under lagringen eller etter den tillatte behandlingen,
+   2. som framkommer ved filtrering eller sentrifugering av produktet nevnt i bokstav a),
+   3. som legger seg i bunnen av beholderne med druemost under lagringen eller etter den tillatte behandlingen,
+   4. som framkommer ved filtrering eller sentrifugering av produktet nevnt i bokstav c).
 6. «Pressrester av druer»: den gjærede eller ugjærede resten som framkommer ved pressing av friske druer.
-7. «Piquette»: produktet som framkommerved gjæring av ubehandlede pressrester av druer bløtgjort i vann, ellerved utvasking i vann av gjærede pressrester av druer.
-8. «Forskåret vin»: produktet somhar en sann alkoholstyrke på minst 18 volumprosent og høyst 24 volumprosent,framstilles utelukkende ved tilsetting i en vin som ikke inneholder restsukker, av et ikke-rektifisert produkt som framkommer ved destillasjon av vin, og som har en sann alkoholstyrke på høyst 86 volumprosent, ellerhar et innhold av flyktig syre på høyst 1,5 gram per liter, uttrykt som eddiksyre.
-9. «Vinblanding»:druemosten,vinen ellerblandingen av druemoster og/eller viner med ulike egenskaper som skal brukes for å framstille en bestemt type musserende vin.
+7. «Piquette»: produktet som framkommer
+
+   1. ved gjæring av ubehandlede pressrester av druer bløtgjort i vann, eller
+   2. ved utvasking i vann av gjærede pressrester av druer.
+8. «Forskåret vin»: produktet som
+
+   1. har en sann alkoholstyrke på minst 18 volumprosent og høyst 24 volumprosent,
+   2. framstilles utelukkende ved tilsetting i en vin som ikke inneholder restsukker, av et ikke-rektifisert produkt som framkommer ved destillasjon av vin, og som har en sann alkoholstyrke på høyst 86 volumprosent, eller
+   3. har et innhold av flyktig syre på høyst 1,5 gram per liter, uttrykt som eddiksyre.
+9. «Vinblanding»:
+
+   1. druemosten,
+   2. vinen eller
+   3. blandingen av druemoster og/eller viner med ulike egenskaper som skal brukes for å framstille en bestemt type musserende vin.
 
 Alkoholstyrke
 
@@ -432,30 +649,295 @@ I dette vedlegg menes med «varebetegnelse» betegnelsen som næringsmiddelet se
 ### DEL II
 Kategorier vinprodukter
 
-1. VinMed «vin» menes produktet som framstilles utelukkende ved hel eller delvis alkoholgjæring av friske druer, enten de er knust eller ikke, eller av druemost.Vin skaletter de eventuelle prosessene angitt i vedlegg VIII avsnitt B del I ha en sann alkoholstyrke på minst 8,5 volumprosent, forutsatt at denne vinen er framstilt utelukkende av druer høstet i vindyrkingssone A og B omhandlet i tillegg I til dette vedlegg, og ikke under 9 volumprosent for de andre vindyrkingssonene,som unntak fra den nedre grensen for sann alkoholstyrke som ellers gjelder, dersom den har beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, uansett om prosessene angitt i vedlegg VIII avsnitt B del I er fulgt, ha en alkoholstyrke på minst 4,5 volumprosent,ha en total alkoholstyrke på høyst 15 volumprosent. Som unntak kan imidlertidden øvre grensen for den totale alkoholstyrken nå opptil 20 volumprosent for viner som er framstilt uten anriking, fra visse vindyrkingsområder i Unionen, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
-►**M5**den øvre grensen for total alkoholstyrke overstige 15 volumprosent for viner med beskyttet opprinnelsesbetegnelse som er framstilt uten anriking, eller som er anriket bare ved delvise konsentrasjonsprosesser oppført i vedlegg VIII del I avsnitt B nr. 1, forutsatt at produktspesifikasjonen i den tekniske dokumentasjonen for den berørte beskyttede opprinnelsesbetegnelsen tillater dette,
-◄**M5**med forbehold for unntak som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, ha et totalt syreinnhold på minst 3,5 gram per liter, uttrykt som vinsyre, dvs. 46,6 milliekvivalenter per liter.Med «Retsina» menes vin som er framstilt utelukkende på Hellas' geografiske territorium, av druemost behandlet med aleppofuruharpiks. Bruken av aleppofuruharpiks skal være tillatt bare for å framstille en «retsina»-vin på de vilkår som er fastsatt i gjeldende greske bestemmelser.Som unntak fra annet ledd bokstav b) anses «Tokaji eszencia» og «Tokajská esencia» som vin.Medlemsstatene kan imidlertid tillate bruk av uttrykket «vin» dersomden følges av navnet på en frukt i en sammensatt betegnelse for å omsette produkter som er framstilt ved gjæring av andre frukter enn druer, ellerden er en del av en sammensatt betegnelse.Enhver forveksling med produkter som svarer til vinkategoriene i dette vedlegg, skal unngås.
-2. Ung, ikke ferdiggjæret vinMed «ung, ikke ferdiggjæret vin» menes vin der alkoholgjæringen ennå ikke er ferdig, og der bermen ennå ikke er utskilt.
-3. SterkvinMed «sterkvin» menes produktetsom har en sann alkoholstyrke på minst 15 volumprosent og høyst 22 volumprosent,som har en total alkoholstyrke på minst 17,5 volumprosent, med unntak for visse sterkviner med en opprinnelsesbetegnelse eller en geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,som er framstilt avdruemost i gjæring,vin,en blanding av ovennevnte produkter ellerdruemost eller en blanding av druemost og vin når det gjelder visse sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,som har en opprinnelig naturlig alkoholstyrke på minst 12 volumprosent, med unntak for visse sterkviner med en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,og ved tilsettingalene eller blandetav nøytral vinalkohol, herunder alkohol framstilt ved destillasjon av tørkede druer, som har en sann alkoholstyrke på minst 96 volumprosent,av vindestillat eller destillat av tørkede druer, som har en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent,samt eventuelt ett eller flere av følgende produkter:konsentrert druemost,en blanding av ett av produktene nevnt i bokstav e) i) med en druemost nevnt i bokstav c) første og fjerde strekpunkt,som, som unntak fra bokstav e), når det gjelder sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, er tilsattett av produktene nevnt i bokstav e) i), hver for seg eller blandet, ellerett eller flere av følgende produkter:vinalkohol eller alkohol av tørkede druer, med en sann alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent,brennevin av vin eller pressrester av druer, med en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent,brennevin av tørkede druer, med en sann alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent, ogeventuelt ett eller flere av følgende produkter:druemost i gjæring av rosindruer,konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosessen svarer til definisjonen av konsentrert druemost,konsentrert druemost,en blanding av ett av produktene nevnt i bokstav f) ii) med en druemost nevnt i bokstav c) første og fjerde strekpunkt.
-4. Musserende vinMed «musserende vin» menes produktetsom er framstilt ved hjelp av første- eller annengangsgjæring avfriske druer,druemost ellervin,som, når beholderen åpnes, avgir karbondioksid som utelukkende stammer fra gjæringen,som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning, ogfor hvilken den totale alkoholstyrken i vinblandinger beregnet på framstilling av musserende viner ikke skal være lavere enn 8,5 volumprosent.
-5. Musserende kvalitetsvinMed «musserende kvalitetsvin» menes produktetsom er framstilt ved hjelp av første- eller annengangsgjæring avfriske druer,druemost ellervin,som, når beholderen åpnes, avgir karbondioksid som utelukkende stammer fra gjæringen,som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3,5 bar som skyldes karbondioksid i oppløsning, ogfor hvilken den totale alkoholstyrken i vinblandinger beregnet på framstilling av musserende viner ikke skal være lavere enn 9 volumprosent.
-6. Musserende kvalitetsvin av aromatisk typeMed «musserende kvalitetsvin av aromatisk type» menes musserende kvalitetsvinsom er framstilt ved anvendelse av en vinblanding utelukkende av druemost eller druemost i gjæring som stammer fra bestemte vindruesorter som er oppført på en liste som skal utarbeides av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2.Musserende kvalitetsviner av aromatisk type som framstilles tradisjonelt ved anvendelse av en vinblanding, skal fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning,som har en sann alkoholstyrke på minst 6 volumprosent, ogsom har en total alkoholstyrke på minst 10 volumprosent.
-7. Kullsyreimpregnert musserende vinMed «kullsyreimpregnert musserende vin» menes produktetsom er framstilt av vin uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse,som, når beholderen åpnes, kjennetegnes ved at det avgir karbondioksid som helt eller delvis stammer fra en tilsetting av denne gassen, ogsom ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning.
-8. Perlende vinMed «perlende vin» menes produktetsom er framstilt av vin, ung, ikke ferdiggjæret vin, druemost eller druemost i gjæring, forutsatt at disse produktene har en total alkoholstyrke på minst 9 volumprosent,som har en sann alkoholstyrke på minst 7 volumprosent,som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 1 bar og høyst 2,5 bar som skyldes naturlig karbondioksid i oppløsning,som er påfylt beholdere som rommer høyst 60 liter.
-9. Kullsyreimpregnert perlende vinMed «kullsyreimpregnert perlende vin» menes produktetsom er framstilt av vin, ung, ikke ferdiggjæret vin, druemost eller druemost i gjæring,som har en sann alkoholstyrke på minst 7 volumprosent og en total alkoholstyrke på minst 9 volumprosent,som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 1 bar og høyst 2,5 bar som skyldes helt eller delvis tilsatt karbondioksid i oppløsning,som er påfylt beholdere som rommer høyst 60 liter.
-10. DruemostMed «druemost» menes det flytende produktet som oppnås naturlig eller ved fysiske prosesser, av friske druer. En sann alkoholstyrke i druemost som ikke overstiger 1 volumprosent, er tillatt.
-11. Druemost i gjæringMed «druemost i gjæring» menes produktet som framstilles gjennom gjæring av druemost som har en sann alkoholstyrke på over 1 volumprosent, men lavere enn tre femdeler av den totale alkoholstyrken i volumprosent.
-12. Druemost i gjæring av rosindruerMed «druemost i gjæring av rosindruer» menes produktet som framkommer ved delvis gjæring av druemost framstilt av rosindruer, med et totalt sukkerinnhold før gjæring på minst 272 gram per liter, og med en naturlig og sann alkoholstyrke i volumprosent som ikke kan være mindre enn 8 volumprosent. Visse viner, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, som oppfyller disse kravene, skal imidlertid ikke anses som druemost i gjæring av rosindruer.
-13. Konsentrert druemostMed «konsentrert druemost» menes ikke-karamellisert druemost som er framstilt ved delvis dehydrering av druemost, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes i samsvar med artikkel 80 nr. 5 første ledd og artikkel 91 første ledd bokstav d), ikke viser et tall under 50,9 % ved 20 °C.En sann alkoholstyrke i konsentrert druemost som ikke overstiger 1 volumprosent, er tillatt.
-14. Rektifisert konsentrert druemostMed «rektifisert konsentrert druemost» menesdet flytende ikke-karamelliserte produktetsom er framstilt ved delvis dehydrering av druemost, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes i samsvar med artikkel 80 nr. 5 første ledd og artikkel 91 første ledd bokstav d), ikke viser et tall under 61,7 % ved 20 °C.som har gjennomgått tillatt behandling for avsyrning og fjerning av andre bestanddeler enn sukker,som har følgende kjennetegn:en pH på høyst 5 ved 25 Brix-grader,en optisk tetthet på høyst 0,100 ved 425 nm for en tykkelse på 1 cm i druemost konsentrert ved 25 Brix-grader,et sukroseinnhold som ikke kan påvises ved en metode som skal fastsettes,en Folin-Ciocalteau-indeks på høyst 6,00 ved 25 Brix-grader,en titrerbar syregrad på høyst 15 milliekvivalenter per kilo av det totale sukkerinnholdet,et svoveldioksidinnhold på høyst 25 milligram per kilo av det totale sukkerinnholdet,et totalinnhold av kationer på høyst 8 milliekvivalenter per kilo av det totale sukkerinnholdet,en konduktivitet på høyst 120 mikro-Siemens per centimeter ved 25 Brix-grader og ved 20 °C,et innhold av hydroksymetylfurfural på høyst 25 milligram per kilo av det totale sukkerinnholdet,spor av mesoinositol.det faste ikke-karamelliserte produktetsom er framstilt ved krystallisering av rektifisert konsentrert druemost i flytende form uten bruk av løsemidler,som har gjennomgått tillatt behandling for avsyrning og fjerning av andre bestanddeler enn sukker,som har følgende kjennetegn etter fortynning i en oppløsning ved 25 Brix-grader:en pH på høyst 7,5,en optisk tetthet på høyst 0,100 ved 425 nm for en tykkelse på 1 cm,et sukroseinnhold som ikke kan påvises ved en metode som skal fastsettes,en Folin-Ciocalteau-indeks på høyst 6,00,en titrerbar syregrad på høyst 15 milliekvivalenter per kilo av det totale sukkerinnholdet,et svoveldioksidinnhold på høyst 10 milligram per kilo av det totale sukkerinnholdet,et totalinnhold av kationer på høyst 8 milliekvivalenter per kilo av det totale sukkerinnholdet,en konduktivitet på høyst 120 mikro-Siemens per centimeter ved 20 °C,et innhold av hydroksymetylfurfural på høyst 25 milligram per kilo av det totale sukkerinnholdet,spor av mesoinositol.En sann alkoholstyrke i rektifisert konsentrert druemost som ikke overstiger 1 volumprosent, er tillatt.
-15. Vin av rosindruerMed «vin av rosindruer» menes produktetsom er framstilt uten anriking av druer som har ligget i solen eller skyggen for delvis dehydrering,som har en total alkoholstyrke på minst 16 volumprosent og en sann alkoholstyrke på minst 9 volumprosent, ogsom har en naturlig alkoholstyrke på minst 16 volumprosent (eller 272 gram sukker per liter).
-16. Vin av overmodne druerMed «vin av overmodne druer» menes produktetsom er framstilt uten anriking,som har en naturlig alkoholstyrke på over 15 volumprosent, ogsom har en total alkoholstyrke på minst 15 volumprosent og en sann alkoholstyrke på minst 12 volumprosent.Medlemsstatene kan fastsette en lagringstid for dette produktet.
-17. VineddikMed «vineddik» menes eddiksom framkommer utelukkende ved eddiksyregjæring av vin, ogsom har et totalt syreinnhold på minst 60 gram per liter, uttrykt som eddiksyre.
+1. Vin
+
+   Med «vin» menes produktet som framstilles utelukkende ved hel eller delvis alkoholgjæring av friske druer, enten de er knust eller ikke, eller av druemost.
+
+   Vin skal
+
+   1. etter de eventuelle prosessene angitt i vedlegg VIII avsnitt B del I ha en sann alkoholstyrke på minst 8,5 volumprosent, forutsatt at denne vinen er framstilt utelukkende av druer høstet i vindyrkingssone A og B omhandlet i tillegg I til dette vedlegg, og ikke under 9 volumprosent for de andre vindyrkingssonene,
+   2. som unntak fra den nedre grensen for sann alkoholstyrke som ellers gjelder, dersom den har beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, uansett om prosessene angitt i vedlegg VIII avsnitt B del I er fulgt, ha en alkoholstyrke på minst 4,5 volumprosent,
+   3. ha en total alkoholstyrke på høyst 15 volumprosent. Som unntak kan imidlertid
+
+      - den øvre grensen for den totale alkoholstyrken nå opptil 20 volumprosent for viner som er framstilt uten anriking, fra visse vindyrkingsområder i Unionen, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
+        ►**M5**
+      - den øvre grensen for total alkoholstyrke overstige 15 volumprosent for viner med beskyttet opprinnelsesbetegnelse som er framstilt uten anriking, eller som er anriket bare ved delvise konsentrasjonsprosesser oppført i vedlegg VIII del I avsnitt B nr. 1, forutsatt at produktspesifikasjonen i den tekniske dokumentasjonen for den berørte beskyttede opprinnelsesbetegnelsen tillater dette,
+        ◄**M5**
+   4. med forbehold for unntak som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, ha et totalt syreinnhold på minst 3,5 gram per liter, uttrykt som vinsyre, dvs. 46,6 milliekvivalenter per liter.
+
+   Med «Retsina» menes vin som er framstilt utelukkende på Hellas' geografiske territorium, av druemost behandlet med aleppofuruharpiks. Bruken av aleppofuruharpiks skal være tillatt bare for å framstille en «retsina»-vin på de vilkår som er fastsatt i gjeldende greske bestemmelser.
+
+   Som unntak fra annet ledd bokstav b) anses «Tokaji eszencia» og «Tokajská esencia» som vin.
+
+   Medlemsstatene kan imidlertid tillate bruk av uttrykket «vin» dersom
+
+   1. den følges av navnet på en frukt i en sammensatt betegnelse for å omsette produkter som er framstilt ved gjæring av andre frukter enn druer, eller
+   2. den er en del av en sammensatt betegnelse.
+
+   Enhver forveksling med produkter som svarer til vinkategoriene i dette vedlegg, skal unngås.
+2. Ung, ikke ferdiggjæret vin
+
+   Med «ung, ikke ferdiggjæret vin» menes vin der alkoholgjæringen ennå ikke er ferdig, og der bermen ennå ikke er utskilt.
+3. Sterkvin
+
+   Med «sterkvin» menes produktet
+
+   1. som har en sann alkoholstyrke på minst 15 volumprosent og høyst 22 volumprosent,
+   2. som har en total alkoholstyrke på minst 17,5 volumprosent, med unntak for visse sterkviner med en opprinnelsesbetegnelse eller en geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
+   3. som er framstilt av
+
+      - druemost i gjæring,
+      - vin,
+      - en blanding av ovennevnte produkter eller
+      - druemost eller en blanding av druemost og vin når det gjelder visse sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
+   4. som har en opprinnelig naturlig alkoholstyrke på minst 12 volumprosent, med unntak for visse sterkviner med en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
+   5. og ved tilsetting
+
+      1. alene eller blandet
+
+         - av nøytral vinalkohol, herunder alkohol framstilt ved destillasjon av tørkede druer, som har en sann alkoholstyrke på minst 96 volumprosent,
+         - av vindestillat eller destillat av tørkede druer, som har en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent,
+      2. samt eventuelt ett eller flere av følgende produkter:
+
+         - konsentrert druemost,
+         - en blanding av ett av produktene nevnt i bokstav e) i) med en druemost nevnt i bokstav c) første og fjerde strekpunkt,
+   6. som, som unntak fra bokstav e), når det gjelder sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse som er oppført på en liste som skal vedtas av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, er tilsatt
+
+      1. ett av produktene nevnt i bokstav e) i), hver for seg eller blandet, eller
+      2. ett eller flere av følgende produkter:
+
+         - vinalkohol eller alkohol av tørkede druer, med en sann alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent,
+         - brennevin av vin eller pressrester av druer, med en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent,
+         - brennevin av tørkede druer, med en sann alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent, og
+      3. eventuelt ett eller flere av følgende produkter:
+
+         - druemost i gjæring av rosindruer,
+         - konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosessen svarer til definisjonen av konsentrert druemost,
+         - konsentrert druemost,
+         - en blanding av ett av produktene nevnt i bokstav f) ii) med en druemost nevnt i bokstav c) første og fjerde strekpunkt.
+4. Musserende vin
+
+   Med «musserende vin» menes produktet
+
+   1. som er framstilt ved hjelp av første- eller annengangsgjæring av
+
+      - friske druer,
+      - druemost eller
+      - vin,
+   2. som, når beholderen åpnes, avgir karbondioksid som utelukkende stammer fra gjæringen,
+   3. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning, og
+   4. for hvilken den totale alkoholstyrken i vinblandinger beregnet på framstilling av musserende viner ikke skal være lavere enn 8,5 volumprosent.
+5. Musserende kvalitetsvin
+
+   Med «musserende kvalitetsvin» menes produktet
+
+   1. som er framstilt ved hjelp av første- eller annengangsgjæring av
+
+      - friske druer,
+      - druemost eller
+      - vin,
+   2. som, når beholderen åpnes, avgir karbondioksid som utelukkende stammer fra gjæringen,
+   3. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3,5 bar som skyldes karbondioksid i oppløsning, og
+   4. for hvilken den totale alkoholstyrken i vinblandinger beregnet på framstilling av musserende viner ikke skal være lavere enn 9 volumprosent.
+6. Musserende kvalitetsvin av aromatisk type
+
+   Med «musserende kvalitetsvin av aromatisk type» menes musserende kvalitetsvin
+
+   1. som er framstilt ved anvendelse av en vinblanding utelukkende av druemost eller druemost i gjæring som stammer fra bestemte vindruesorter som er oppført på en liste som skal utarbeides av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2.
+
+      Musserende kvalitetsviner av aromatisk type som framstilles tradisjonelt ved anvendelse av en vinblanding, skal fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2,
+   2. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning,
+   3. som har en sann alkoholstyrke på minst 6 volumprosent, og
+   4. som har en total alkoholstyrke på minst 10 volumprosent.
+7. Kullsyreimpregnert musserende vin
+
+   Med «kullsyreimpregnert musserende vin» menes produktet
+
+   1. som er framstilt av vin uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse,
+   2. som, når beholderen åpnes, kjennetegnes ved at det avgir karbondioksid som helt eller delvis stammer fra en tilsetting av denne gassen, og
+   3. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 3 bar som skyldes karbondioksid i oppløsning.
+8. Perlende vin
+
+   Med «perlende vin» menes produktet
+
+   1. som er framstilt av vin, ung, ikke ferdiggjæret vin, druemost eller druemost i gjæring, forutsatt at disse produktene har en total alkoholstyrke på minst 9 volumprosent,
+   2. som har en sann alkoholstyrke på minst 7 volumprosent,
+   3. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 1 bar og høyst 2,5 bar som skyldes naturlig karbondioksid i oppløsning,
+   4. som er påfylt beholdere som rommer høyst 60 liter.
+9. Kullsyreimpregnert perlende vin
+
+   Med «kullsyreimpregnert perlende vin» menes produktet
+
+   1. som er framstilt av vin, ung, ikke ferdiggjæret vin, druemost eller druemost i gjæring,
+   2. som har en sann alkoholstyrke på minst 7 volumprosent og en total alkoholstyrke på minst 9 volumprosent,
+   3. som ved oppbevaring ved 20 °C i lukkede beholdere har et overtrykk på minst 1 bar og høyst 2,5 bar som skyldes helt eller delvis tilsatt karbondioksid i oppløsning,
+   4. som er påfylt beholdere som rommer høyst 60 liter.
+10. Druemost
+
+    Med «druemost» menes det flytende produktet som oppnås naturlig eller ved fysiske prosesser, av friske druer. En sann alkoholstyrke i druemost som ikke overstiger 1 volumprosent, er tillatt.
+11. Druemost i gjæring
+
+    Med «druemost i gjæring» menes produktet som framstilles gjennom gjæring av druemost som har en sann alkoholstyrke på over 1 volumprosent, men lavere enn tre femdeler av den totale alkoholstyrken i volumprosent.
+12. Druemost i gjæring av rosindruer
+
+    Med «druemost i gjæring av rosindruer» menes produktet som framkommer ved delvis gjæring av druemost framstilt av rosindruer, med et totalt sukkerinnhold før gjæring på minst 272 gram per liter, og med en naturlig og sann alkoholstyrke i volumprosent som ikke kan være mindre enn 8 volumprosent. Visse viner, som fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, som oppfyller disse kravene, skal imidlertid ikke anses som druemost i gjæring av rosindruer.
+13. Konsentrert druemost
+
+    Med «konsentrert druemost» menes ikke-karamellisert druemost som er framstilt ved delvis dehydrering av druemost, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes i samsvar med artikkel 80 nr. 5 første ledd og artikkel 91 første ledd bokstav d), ikke viser et tall under 50,9 % ved 20 °C.
+
+    En sann alkoholstyrke i konsentrert druemost som ikke overstiger 1 volumprosent, er tillatt.
+14. Rektifisert konsentrert druemost
+
+    Med «rektifisert konsentrert druemost» menes
+
+    1. det flytende ikke-karamelliserte produktet
+
+       1. som er framstilt ved delvis dehydrering av druemost, som er foretatt etter enhver annen tillatt metode enn direkte oppvarming, slik at refraktometeret som brukes etter en metode som skal fastsettes i samsvar med artikkel 80 nr. 5 første ledd og artikkel 91 første ledd bokstav d), ikke viser et tall under 61,7 % ved 20 °C.
+       2. som har gjennomgått tillatt behandling for avsyrning og fjerning av andre bestanddeler enn sukker,
+       3. som har følgende kjennetegn:
+
+          - en pH på høyst 5 ved 25 Brix-grader,
+          - en optisk tetthet på høyst 0,100 ved 425 nm for en tykkelse på 1 cm i druemost konsentrert ved 25 Brix-grader,
+          - et sukroseinnhold som ikke kan påvises ved en metode som skal fastsettes,
+          - en Folin-Ciocalteau-indeks på høyst 6,00 ved 25 Brix-grader,
+          - en titrerbar syregrad på høyst 15 milliekvivalenter per kilo av det totale sukkerinnholdet,
+          - et svoveldioksidinnhold på høyst 25 milligram per kilo av det totale sukkerinnholdet,
+          - et totalinnhold av kationer på høyst 8 milliekvivalenter per kilo av det totale sukkerinnholdet,
+          - en konduktivitet på høyst 120 mikro-Siemens per centimeter ved 25 Brix-grader og ved 20 °C,
+          - et innhold av hydroksymetylfurfural på høyst 25 milligram per kilo av det totale sukkerinnholdet,
+          - spor av mesoinositol.
+    2. det faste ikke-karamelliserte produktet
+
+       1. som er framstilt ved krystallisering av rektifisert konsentrert druemost i flytende form uten bruk av løsemidler,
+       2. som har gjennomgått tillatt behandling for avsyrning og fjerning av andre bestanddeler enn sukker,
+       3. som har følgende kjennetegn etter fortynning i en oppløsning ved 25 Brix-grader:
+
+          - en pH på høyst 7,5,
+          - en optisk tetthet på høyst 0,100 ved 425 nm for en tykkelse på 1 cm,
+          - et sukroseinnhold som ikke kan påvises ved en metode som skal fastsettes,
+          - en Folin-Ciocalteau-indeks på høyst 6,00,
+          - en titrerbar syregrad på høyst 15 milliekvivalenter per kilo av det totale sukkerinnholdet,
+          - et svoveldioksidinnhold på høyst 10 milligram per kilo av det totale sukkerinnholdet,
+          - et totalinnhold av kationer på høyst 8 milliekvivalenter per kilo av det totale sukkerinnholdet,
+          - en konduktivitet på høyst 120 mikro-Siemens per centimeter ved 20 °C,
+          - et innhold av hydroksymetylfurfural på høyst 25 milligram per kilo av det totale sukkerinnholdet,
+          - spor av mesoinositol.
+
+    En sann alkoholstyrke i rektifisert konsentrert druemost som ikke overstiger 1 volumprosent, er tillatt.
+15. Vin av rosindruer
+
+    Med «vin av rosindruer» menes produktet
+
+    1. som er framstilt uten anriking av druer som har ligget i solen eller skyggen for delvis dehydrering,
+    2. som har en total alkoholstyrke på minst 16 volumprosent og en sann alkoholstyrke på minst 9 volumprosent, og
+    3. som har en naturlig alkoholstyrke på minst 16 volumprosent (eller 272 gram sukker per liter).
+16. Vin av overmodne druer
+
+    Med «vin av overmodne druer» menes produktet
+
+    1. som er framstilt uten anriking,
+    2. som har en naturlig alkoholstyrke på over 15 volumprosent, og
+    3. som har en total alkoholstyrke på minst 15 volumprosent og en sann alkoholstyrke på minst 12 volumprosent.
+
+    Medlemsstatene kan fastsette en lagringstid for dette produktet.
+17. Vineddik
+
+    Med «vineddik» menes eddik
+
+    1. som framkommer utelukkende ved eddiksyregjæring av vin, og
+    2. som har et totalt syreinnhold på minst 60 gram per liter, uttrykt som eddiksyre.
 
 ### Tillegg I
 Vindyrkingssoner
 
-Det finnes følgende vindyrkingssoner:Vindyrkingssone A omfatter:i Tyskland: alle vindyrkingsarealer bortsett fra arealene i nr. 2 bokstav a),i Luxembourg: det luxembourgske vindyrkingsområdet,i Belgia, Danmark, Irland, Nederland, Polen, Sverige og Det forente kongerike: vindyrkingsområdene i disse medlemsstatene,i Tsjekkia: vindyrkingsområdet Čechy.Vindyrkingssone B omfatter:i Tyskland: vindyrkingsarealene i det bestemte dyrkingsområdet Baden,i Frankrike: vindyrkingsarealene i de departementer som ikke er angitt i dette vedlegg, og i følgende departementer:i Alsace: Bas-Rhin, Haut-Rhin,i Lorraine: Meurthe-et-Moselle, Meuse, Moselle, Vosges,i Champagne: Aisne, Aube, Marne, Haute-Marne, Seine-et-Marne,i Jura: Ain, Doubs, Jura, Haute-Saône,i Savoie: Savoie, Haute-Savoie, Isère (kommunen Chapareillan),i Val de Loire: Cher, Deux-Sèvres, Indre, Indre-et-Loire, Loire-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Sarthe, Vendée, Vienne samt vindyrkingsarealer i arrondissementet Cosne-sur-Loire i departementet Nièvre,i Østerrike: i det østerrikske vindyrkingsområdet,i Tsjekkia: vindyrkingsområdet Morava og de vindyrkingsarealer som ikke inngår i nr. 1 bokstav d),i Slovakia: vindyrkingsarealene i følgende områder: Malokarpatská vinohradnícka oblasť, Južnoslovenská vinohradnícka oblasť, Nitrianska vinohradnícka oblasť, Stredoslovenská vinohradnícka oblasť, Východoslovenská vinohradnícka oblasť og vindyrkingsområdene som ikke inngår i nr. 3 bokstav f),i Slovenia: vindyrkingsarealene i følgende områder:i regionen Podravje: Štajerska Slovenija, Prekmurje,i regionen Posavje: Bizeljsko Sremič, Dolenjska og Bela krajina samt vindyrkingsarealene i de områdene som ikke inngår i nr. 4 bokstav d),i Romania: i området Podișul Transilvaniei,i Kroatia: vindyrkingsarealene i følgende underområder: Moslavina, Prigorje-Bilogora, Plešivica, Pokuplje og Zagorje-Međimurje.Vindyrkingssone C I omfatter:i Frankrike: vindyrkingsarealenei følgende departementer: Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Aveyron, Cantal, Charente, Charente-Maritime, Corrèze, Côte-d'Or, Dordogne, Haute-Garonne, Gers, Gironde, Isère (bortsett fra kommunen Chapareillan), Landes, Loire, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Nièvre (bortsett fra arrondissementet Cosne-sur-Loire), Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Rhône, Saône-et-Loire, Tarn, Tarn-et-Garonne, Haute-Vienne, Yonne,i arrondissementene Valence og Die i departementet Drôme (bortsett fra kantonene Dieulefit, Loriol, Marsanne og Montélimar),i arrondissementet Tournon: i kantonene Antraigues, Buzet, Coucouron, Montpezat-sous-Bauzon, Privas, Saint-Étienne-de-Lugdarès, Saint-Pierreville, Valgorge og la Voulte-sur-Rhône i departementet Ardèche,I Italia: vindyrkingsarealene i regionen Valle d'Aosta og provinsene Sondrio, Bolzano, Trento og Belluno,i Spania: vindyrkingsarealene i provinsene Coruña, Asturias, Cantabria, Guipúzcoa og Vizcaya,i Portugal: vindyrkingsarealene i den delen av regionen Norte som tilsvarer det bestemte vindyrkingsområdet «Vinho Verde», samt «Concelhos de Bombarral, Laurinhã, Mafra e Torres Vedras» (bortsett fra «Freguesias da Carvoeira e Dois Portos»), som hører til «Região viticola da Extremadura»,i Ungarn: alle vindyrkingsarealer,i Slovakia: vindyrkingsarealer i Tokajská vinohradnícka oblasť,i Romania: vindyrkingsarealer som ikke inngår i nr. 2 bokstav g) eller nr. 4 bokstav f),i Kroatia: vindyrkingsarealene i følgende underområder: Hrvatsko Podunavlje og Slavonija.Vindyrkingssone C II omfatter:i Frankrike: vindyrkingsarealenei følgende departementer: Aude, Bouches-du-Rhône, Gard, Hérault, Pyrénées-Orientales (bortsett fra kantonene Olette og Arles-sur-Tech), Vaucluse,i den delen av departementet Var som er avgrenset i sør av den nordlige grensen til kommunene Evenos, le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour og Sainte-Maxime,i arrondissementet Nyons og kantonen Loriol-sur-Drôme i departementet Drôme,i de delene av departementet Ardèche som ikke er oppført i nr. 3 bokstav a),i Italia: vindyrkingsarealene i følgende områder: Abruzzo, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia bortsett fra provinsen Sondrio, Marche, Molise, Piemonte, Toscana, Umbria, Veneto bortsett fra provinsen Belluno, herunder de øyene som hører til disse regionene, som Elba og andre øyer i det toskanske arkipelet, Ponzian-øyene og øyene Capri og Ischia,i Spania: vindyrkingsarealene i følgende provinser:Lugo, Orense, Pontevedra,Ávila (bortsett fra kommunene som tilsvarer det bestemte vindyrkingsområdet «comarca» Cebreros), Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora,La Rioja,Álava,Navarra,Huesca,Barcelona, Girona, Lleida,den delen av provinsen Zaragoza som ligger nord for elven Ebro,de kommunene i provinsen Tarragona som omfattes av opprinnelsesbetegnelsen Penedés,den delen av provinsen Tarragona som tilsvarer det bestemte dyrkingsområdet «comarca» Conca de Barberá,i Slovenia: vindyrkingsarealene i følgende områder: Brda eller Goriška Brda, Vipavska dolina eller Vipava, Kras og Slovenska Istra,i Bulgaria: vindyrkingsarealene i følgende områder: Dunavska Ravnina (Дyнавcка равнина), Chernomorski Rayon (Чeрнoмoрcки райoн), Rozova Dolina (Poзoва дoлина),i Romania: vindyrkingsarealene i følgende områder:Dealurile Buzăului, Dealu Mare, Severinului og Plaiurile Drâncei, Colinele Dobrogei, Terasele Dunării, det sørlige vindyrkingsområdet, herunder sandområder og andre gunstige områder,i Kroatia: vindyrkingsarealene i følgende underområder: Hrvatska Istra, Hrvatsko primorje, Dalmatinska zagora, Sjeverna Dalmacija og Srednja i Južna Dalmacija.Vindyrkingssone C III a) omfatter:i Hellas: vindyrkingsområdene i følgende provinser: Florina, Imathia, Kilkis, Grevena, Larisa, Ioannina, Levkas, Akhaia, Messinia, Arkadia, Korinthia, Iraklio, Khania, Rethimni, Samos, Lasithi og øya Santorini,i Kypros: vindyrkingsområder i over 600 meters høyde,i Bulgaria: vindyrkingsområder som ikke inngår i nr. 4 bokstav e).Vindyrkingssone C III b) omfatter:i Frankrike: vindyrkingsarealenei departementene på Korsika,i den delen av departementet Var som ligger mellom havet og en linje avgrenset av kommunene (som selv omfattes) Évenos, Le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour og Sainte-Maxime,i kantonene Olette og Arles-sur-Tech i departementet Pyrénées-Orientales,i Italia: vindyrkingsarealene i følgende områder: Calabria, Basilicata, Puglia, Sardinia og Sicilia, herunder de øyene som hører til disse regionene, som øya Pantelleria og de eoliske, egadiske og pelagiske øyer,i Hellas: vindyrkingsområder som ikke inngår i nr. 5 bokstav a),i Spania: vindyrkingsarealer som ikke inngår i nr. 3 bokstav c) eller nr. 4 bokstav c),i Portugal: vindyrkingsarealene i de områdene som ikke inngår i nr. 3 bokstav d),i Kypros: vindyrkingsområder i høyder som ikke overstiger 600 meter,i Malta: alle vindyrkingsarealer.Avgrensningen av områdene som omfattes av de administrative enhetene nevnt i dette vedlegg, er den som framgår av gjeldende nasjonale bestemmelser 15. desember 1981, og med hensyn til Spania, gjeldende nasjonale bestemmelser 1. mars 1986, samt med hensyn til Portugal, gjeldende nasjonale bestemmelser 1. mars 1998.
+Det finnes følgende vindyrkingssoner:
+
+1. Vindyrkingssone A omfatter:
+
+   1. i Tyskland: alle vindyrkingsarealer bortsett fra arealene i nr. 2 bokstav a),
+   2. i Luxembourg: det luxembourgske vindyrkingsområdet,
+   3. i Belgia, Danmark, Irland, Nederland, Polen, Sverige og Det forente kongerike: vindyrkingsområdene i disse medlemsstatene,
+   4. i Tsjekkia: vindyrkingsområdet Čechy.
+2. Vindyrkingssone B omfatter:
+
+   1. i Tyskland: vindyrkingsarealene i det bestemte dyrkingsområdet Baden,
+   2. i Frankrike: vindyrkingsarealene i de departementer som ikke er angitt i dette vedlegg, og i følgende departementer:
+
+      - i Alsace: Bas-Rhin, Haut-Rhin,
+      - i Lorraine: Meurthe-et-Moselle, Meuse, Moselle, Vosges,
+      - i Champagne: Aisne, Aube, Marne, Haute-Marne, Seine-et-Marne,
+      - i Jura: Ain, Doubs, Jura, Haute-Saône,
+      - i Savoie: Savoie, Haute-Savoie, Isère (kommunen Chapareillan),
+      - i Val de Loire: Cher, Deux-Sèvres, Indre, Indre-et-Loire, Loire-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Sarthe, Vendée, Vienne samt vindyrkingsarealer i arrondissementet Cosne-sur-Loire i departementet Nièvre,
+   3. i Østerrike: i det østerrikske vindyrkingsområdet,
+   4. i Tsjekkia: vindyrkingsområdet Morava og de vindyrkingsarealer som ikke inngår i nr. 1 bokstav d),
+   5. i Slovakia: vindyrkingsarealene i følgende områder: Malokarpatská vinohradnícka oblasť, Južnoslovenská vinohradnícka oblasť, Nitrianska vinohradnícka oblasť, Stredoslovenská vinohradnícka oblasť, Východoslovenská vinohradnícka oblasť og vindyrkingsområdene som ikke inngår i nr. 3 bokstav f),
+   6. i Slovenia: vindyrkingsarealene i følgende områder:
+
+      - i regionen Podravje: Štajerska Slovenija, Prekmurje,
+      - i regionen Posavje: Bizeljsko Sremič, Dolenjska og Bela krajina samt vindyrkingsarealene i de områdene som ikke inngår i nr. 4 bokstav d),
+   7. i Romania: i området Podișul Transilvaniei,
+   8. i Kroatia: vindyrkingsarealene i følgende underområder: Moslavina, Prigorje-Bilogora, Plešivica, Pokuplje og Zagorje-Međimurje.
+3. Vindyrkingssone C I omfatter:
+
+   1. i Frankrike: vindyrkingsarealene
+
+      - i følgende departementer: Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Aveyron, Cantal, Charente, Charente-Maritime, Corrèze, Côte-d'Or, Dordogne, Haute-Garonne, Gers, Gironde, Isère (bortsett fra kommunen Chapareillan), Landes, Loire, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Nièvre (bortsett fra arrondissementet Cosne-sur-Loire), Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Rhône, Saône-et-Loire, Tarn, Tarn-et-Garonne, Haute-Vienne, Yonne,
+      - i arrondissementene Valence og Die i departementet Drôme (bortsett fra kantonene Dieulefit, Loriol, Marsanne og Montélimar),
+      - i arrondissementet Tournon: i kantonene Antraigues, Buzet, Coucouron, Montpezat-sous-Bauzon, Privas, Saint-Étienne-de-Lugdarès, Saint-Pierreville, Valgorge og la Voulte-sur-Rhône i departementet Ardèche,
+   2. I Italia: vindyrkingsarealene i regionen Valle d'Aosta og provinsene Sondrio, Bolzano, Trento og Belluno,
+   3. i Spania: vindyrkingsarealene i provinsene Coruña, Asturias, Cantabria, Guipúzcoa og Vizcaya,
+   4. i Portugal: vindyrkingsarealene i den delen av regionen Norte som tilsvarer det bestemte vindyrkingsområdet «Vinho Verde», samt «Concelhos de Bombarral, Laurinhã, Mafra e Torres Vedras» (bortsett fra «Freguesias da Carvoeira e Dois Portos»), som hører til «Região viticola da Extremadura»,
+   5. i Ungarn: alle vindyrkingsarealer,
+   6. i Slovakia: vindyrkingsarealer i Tokajská vinohradnícka oblasť,
+   7. i Romania: vindyrkingsarealer som ikke inngår i nr. 2 bokstav g) eller nr. 4 bokstav f),
+   8. i Kroatia: vindyrkingsarealene i følgende underområder: Hrvatsko Podunavlje og Slavonija.
+4. Vindyrkingssone C II omfatter:
+
+   1. i Frankrike: vindyrkingsarealene
+
+      - i følgende departementer: Aude, Bouches-du-Rhône, Gard, Hérault, Pyrénées-Orientales (bortsett fra kantonene Olette og Arles-sur-Tech), Vaucluse,
+      - i den delen av departementet Var som er avgrenset i sør av den nordlige grensen til kommunene Evenos, le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour og Sainte-Maxime,
+      - i arrondissementet Nyons og kantonen Loriol-sur-Drôme i departementet Drôme,
+      - i de delene av departementet Ardèche som ikke er oppført i nr. 3 bokstav a),
+   2. i Italia: vindyrkingsarealene i følgende områder: Abruzzo, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia bortsett fra provinsen Sondrio, Marche, Molise, Piemonte, Toscana, Umbria, Veneto bortsett fra provinsen Belluno, herunder de øyene som hører til disse regionene, som Elba og andre øyer i det toskanske arkipelet, Ponzian-øyene og øyene Capri og Ischia,
+   3. i Spania: vindyrkingsarealene i følgende provinser:
+
+      - Lugo, Orense, Pontevedra,
+      - Ávila (bortsett fra kommunene som tilsvarer det bestemte vindyrkingsområdet «comarca» Cebreros), Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora,
+      - La Rioja,
+      - Álava,
+      - Navarra,
+      - Huesca,
+      - Barcelona, Girona, Lleida,
+      - den delen av provinsen Zaragoza som ligger nord for elven Ebro,
+      - de kommunene i provinsen Tarragona som omfattes av opprinnelsesbetegnelsen Penedés,
+      - den delen av provinsen Tarragona som tilsvarer det bestemte dyrkingsområdet «comarca» Conca de Barberá,
+   4. i Slovenia: vindyrkingsarealene i følgende områder: Brda eller Goriška Brda, Vipavska dolina eller Vipava, Kras og Slovenska Istra,
+   5. i Bulgaria: vindyrkingsarealene i følgende områder: Dunavska Ravnina (Дyнавcка равнина), Chernomorski Rayon (Чeрнoмoрcки райoн), Rozova Dolina (Poзoва дoлина),
+   6. i Romania: vindyrkingsarealene i følgende områder:
+
+      Dealurile Buzăului, Dealu Mare, Severinului og Plaiurile Drâncei, Colinele Dobrogei, Terasele Dunării, det sørlige vindyrkingsområdet, herunder sandområder og andre gunstige områder,
+   7. i Kroatia: vindyrkingsarealene i følgende underområder: Hrvatska Istra, Hrvatsko primorje, Dalmatinska zagora, Sjeverna Dalmacija og Srednja i Južna Dalmacija.
+5. Vindyrkingssone C III a) omfatter:
+
+   1. i Hellas: vindyrkingsområdene i følgende provinser: Florina, Imathia, Kilkis, Grevena, Larisa, Ioannina, Levkas, Akhaia, Messinia, Arkadia, Korinthia, Iraklio, Khania, Rethimni, Samos, Lasithi og øya Santorini,
+   2. i Kypros: vindyrkingsområder i over 600 meters høyde,
+   3. i Bulgaria: vindyrkingsområder som ikke inngår i nr. 4 bokstav e).
+6. Vindyrkingssone C III b) omfatter:
+
+   1. i Frankrike: vindyrkingsarealene
+
+      - i departementene på Korsika,
+      - i den delen av departementet Var som ligger mellom havet og en linje avgrenset av kommunene (som selv omfattes) Évenos, Le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour og Sainte-Maxime,
+      - i kantonene Olette og Arles-sur-Tech i departementet Pyrénées-Orientales,
+   2. i Italia: vindyrkingsarealene i følgende områder: Calabria, Basilicata, Puglia, Sardinia og Sicilia, herunder de øyene som hører til disse regionene, som øya Pantelleria og de eoliske, egadiske og pelagiske øyer,
+   3. i Hellas: vindyrkingsområder som ikke inngår i nr. 5 bokstav a),
+   4. i Spania: vindyrkingsarealer som ikke inngår i nr. 3 bokstav c) eller nr. 4 bokstav c),
+   5. i Portugal: vindyrkingsarealene i de områdene som ikke inngår i nr. 3 bokstav d),
+   6. i Kypros: vindyrkingsområder i høyder som ikke overstiger 600 meter,
+   7. i Malta: alle vindyrkingsarealer.
+7. Avgrensningen av områdene som omfattes av de administrative enhetene nevnt i dette vedlegg, er den som framgår av gjeldende nasjonale bestemmelser 15. desember 1981, og med hensyn til Spania, gjeldende nasjonale bestemmelser 1. mars 1986, samt med hensyn til Portugal, gjeldende nasjonale bestemmelser 1. mars 1998.
 
 ### VEDLEGG VIII
 ØNOLOGISKE FRAMSTILLINGSMÅTER NEVNT I ARTIKKEL 80
@@ -466,23 +948,66 @@ Anriking, syrning og avsyrning i visse vindyrkingssoner
 ###### A. Anrikingsgrenser
 
 1. Når klimaforholdene i visse vindyrkingssoner i Unionen gjør det nødvendig, kan de berørte medlemsstatene tillate en økning av den naturlige alkoholstyrken i volumprosent i friske druer, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av vindruesorter som kan klassifiseres i henhold til artikkel 81.
-2. Økningen av den naturlige alkoholstyrken i volumprosent skal foretas etter de ønologiske framstillingsmåtene som er nevnt i avsnitt B, og kan ikke overstige følgende grenser:3 volumprosent i vindyrkingssone A,2 volumprosent i vindyrkingssone B,1,5 volumprosent i vindyrkingssone C.►**M5**
+2. Økningen av den naturlige alkoholstyrken i volumprosent skal foretas etter de ønologiske framstillingsmåtene som er nevnt i avsnitt B, og kan ikke overstige følgende grenser:
+
+   1. 3 volumprosent i vindyrkingssone A,
+   2. 2 volumprosent i vindyrkingssone B,
+   3. 1,5 volumprosent i vindyrkingssone C.
+
+   ►**M5**
 3. I år med uvanlig ugunstige klimaforhold kan medlemsstatene som unntak heve grensen(e) fastsatt i nr. 2 med 0,5 % for de berørte regionene. Medlemsstatene skal underrette Kommisjonen om alle slike hevelser.
-◄**M5**
+   ◄**M5**
 
 ###### B. Anriking
 
-1. Økningen av den naturlige alkoholstyrken i volumprosent nevnt i avsnitt A kan foretasfor friske druer, druemost i gjæring eller ung, ikke ferdiggjæret vin, bare ved tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost,for druemost, bare ved tilsetting av sukrose, konsentrert druemost, rektifisert konsentrert druemost eller ved delvis konsentrasjon, herunder omvendt osmose,for vin, bare ved delvis konsentrasjon ved kjøling.
+1. Økningen av den naturlige alkoholstyrken i volumprosent nevnt i avsnitt A kan foretas
+
+   1. for friske druer, druemost i gjæring eller ung, ikke ferdiggjæret vin, bare ved tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost,
+   2. for druemost, bare ved tilsetting av sukrose, konsentrert druemost, rektifisert konsentrert druemost eller ved delvis konsentrasjon, herunder omvendt osmose,
+   3. for vin, bare ved delvis konsentrasjon ved kjøling.
 2. De behandlingene som er nevnt i nr. 1, skal utelukke hverandre gjensidig dersom vinen eller druemosten anrikes med konsentrert druemost eller rektifisert konsentrert druemost, og det gis støtte i henhold til artikkel 103y i forordning [(EF) nr. 1234/2007](eu/32007r1234).
-3. Tilsettingen av sukrose nevnt i nr. 1 bokstav a) og b) kan foretas bare ved tørrsukring og bare i følgende områder:vindyrkingssone A,vindyrkingssone B,vindyrkingssone C,med unntak av vingårder i Hellas, Spania, Italia, Kypros, Portugal og vingårder i de franske departementene, som hører under følgende ankedomstols jurisdiksjon:Aix-en-Provence,Nîmes,Montpellier,Toulouse,Agen,Pau,Bordeaux,Bastia.Nasjonale myndigheter kan imidlertid gi tillatelse til anriking ved tørrsukring som et unntak i de ovennevnte franske departementene. Frankrike skal umiddelbart underrette Kommisjonen og de andre medlemsstatene dersom det gis slike tillatelser.
+3. Tilsettingen av sukrose nevnt i nr. 1 bokstav a) og b) kan foretas bare ved tørrsukring og bare i følgende områder:
+
+   1. vindyrkingssone A,
+   2. vindyrkingssone B,
+   3. vindyrkingssone C,
+
+   med unntak av vingårder i Hellas, Spania, Italia, Kypros, Portugal og vingårder i de franske departementene, som hører under følgende ankedomstols jurisdiksjon:
+
+   - Aix-en-Provence,
+   - Nîmes,
+   - Montpellier,
+   - Toulouse,
+   - Agen,
+   - Pau,
+   - Bordeaux,
+   - Bastia.
+
+   Nasjonale myndigheter kan imidlertid gi tillatelse til anriking ved tørrsukring som et unntak i de ovennevnte franske departementene. Frankrike skal umiddelbart underrette Kommisjonen og de andre medlemsstatene dersom det gis slike tillatelser.
 4. Tilsetting av konsentrert druemost eller rektifisert konsentrert druemost skal ikke medføre at det opprinnelige volumet av knuste friske druer, druemost, druemost i gjæring eller ung, ikke ferdiggjæret vin øker med mer enn 11 % i vindyrkingssone A, 8 % i vindyrkingssone B og 6,5 % i vindyrkingssone C.
-5. Konsentrasjonen av druemost eller vin som har gjennomgått behandlingene nevnt i nr. 1,skal ikke føre til at disse produktenes opprinnelige volum reduseres med mer enn 20 %,skal, uten hensyn til avsnitt A nr. 2 bokstav c), ikke øke disse produktenes naturlige alkoholstyrke med mer enn 2 volumprosent.
-6. Behandlingene nevnt i nr. 1 og 5 skal ikke føre til at den totale alkoholstyrken i volumprosent i friske druer, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin eller vin økes til mer enn11,5 volumprosent i vindyrkingssone A,12 volumprosent i vindyrkingssone B,12,5 volumprosent i vindyrkingssone C I,13 volumprosent i vindyrkingssone C II,13,5 volumprosent i vindyrkingssone C III.
-7. Som unntak fra nr. 6 kan medlemsstatenefor rødvin øke den totale alkoholstyrken i volumprosent for produktene nevnt i nr. 6 til 12 volumprosent i vindyrkingssone A og 12,5 volumprosent i vindyrkingssone B,øke den totale alkoholstyrken i volumprosent for produktene nevnt i nr. 6 til et nivå som fastsettes av medlemsstatene, ved produksjon av viner med opprinnelsesbetegnelse.
+5. Konsentrasjonen av druemost eller vin som har gjennomgått behandlingene nevnt i nr. 1,
+
+   1. skal ikke føre til at disse produktenes opprinnelige volum reduseres med mer enn 20 %,
+   2. skal, uten hensyn til avsnitt A nr. 2 bokstav c), ikke øke disse produktenes naturlige alkoholstyrke med mer enn 2 volumprosent.
+6. Behandlingene nevnt i nr. 1 og 5 skal ikke føre til at den totale alkoholstyrken i volumprosent i friske druer, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin eller vin økes til mer enn
+
+   1. 11,5 volumprosent i vindyrkingssone A,
+   2. 12 volumprosent i vindyrkingssone B,
+   3. 12,5 volumprosent i vindyrkingssone C I,
+   4. 13 volumprosent i vindyrkingssone C II,
+   5. 13,5 volumprosent i vindyrkingssone C III.
+7. Som unntak fra nr. 6 kan medlemsstatene
+
+   1. for rødvin øke den totale alkoholstyrken i volumprosent for produktene nevnt i nr. 6 til 12 volumprosent i vindyrkingssone A og 12,5 volumprosent i vindyrkingssone B,
+   2. øke den totale alkoholstyrken i volumprosent for produktene nevnt i nr. 6 til et nivå som fastsettes av medlemsstatene, ved produksjon av viner med opprinnelsesbetegnelse.
 
 ###### C. Syrning og avsyrning
 
-1. Friske druer, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin kan gjennomgåavsyrning i vindyrkingssone A, B og C I,syrning og avsyrning i vindyrkingssone C I, C II og C III a) med forbehold for nr. 7, ellersyrning i vindyrkingssone C III b).
+1. Friske druer, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin kan gjennomgå
+
+   1. avsyrning i vindyrkingssone A, B og C I,
+   2. syrning og avsyrning i vindyrkingssone C I, C II og C III a) med forbehold for nr. 7, eller
+   3. syrning i vindyrkingssone C III b).
 2. Syrning av andre produkter enn vin nevnt i nr. 1 kan foretas bare inntil en øvre grense på 1,50 gram per liter uttrykt som vinsyre, dvs. 20 milliekvivalenter per liter.
 3. Syrning av vin kan foretas bare inntil en øvre grense på 2,50 gram per liter uttrykt som vinsyre, dvs. 33,3 milliekvivalenter per liter.
 4. Avsyrning av vin kan foretas bare inntil en øvre grense på 1 gram per liter uttrykt som vinsyre, dvs. 13,3 milliekvivalenter per liter.
@@ -497,7 +1022,10 @@ Anriking, syrning og avsyrning i visse vindyrkingssoner
 3. Syrning og avsyrning av viner skal finne sted bare i det vinframstillingsforetaket og i den vindyrkingssonen der druene som er benyttet til framstillingen av den aktuelle vinen, er høstet.
 4. Hver av behandlingene nevnt i nr. 1, 2 og 3 skal meldes til vedkommende myndigheter. Det samme gjelder for de mengdene konsentrert druemost eller rektifisert konsentrert druemost eller sukrose som fysiske eller juridiske personer eller sammenslutninger av personer, særlig produsenter, tappere, bearbeidere og forhandlere, som skal fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2, oppbevarer i forbindelse med utøvelsen av sitt yrke, på samme tid og på samme sted i form av friske druer, druemost, druemost i gjæring eller vin i bulk. Oppgaven over disse mengdene kan imidlertid erstattes ved at mengdene innføres i et register over inngang og forbruk.
 5. Hver av behandlingene nevnt i avsnitt B og C skal oppføres i følgedokumentet fastsatt i artikkel 147, som følger produkter som er behandlet på denne måten, når disse bringes i omsetning.
-6. Med mindre det er gjort unntak på grunn av uvanlige klimaforhold, skal behandlingene nevnt i avsnitt B og C ikke gjennomføresetter 1. januar i vindyrkingssone C,etter 16. mars i vindyrkingssone A og B, og de skal gjennomføres bare for produkter fra vinår umiddelbart forut for disse datoene.
+6. Med mindre det er gjort unntak på grunn av uvanlige klimaforhold, skal behandlingene nevnt i avsnitt B og C ikke gjennomføres
+
+   1. etter 1. januar i vindyrkingssone C,
+   2. etter 16. mars i vindyrkingssone A og B, og de skal gjennomføres bare for produkter fra vinår umiddelbart forut for disse datoene.
 7. Uten hensyn til nr. 6 kan konsentrasjon ved kjøling samt syrning og avsyrning av vin imidlertid foretas hele året.
 
 ### DEL II
@@ -523,7 +1051,9 @@ Sammenstikning av en vin med opprinnelse i en tredjestat med en vin fra Unionen,
 
 ###### D. Biprodukter
 
-1. Utpressing av druer er forbudt. Medlemsstatene skal, idet det tas hensyn til lokale og tekniske forhold, fastsette det minsteinnholdet av alkohol som pressrester av druer og vinberme etter pressing av druer kan inneholde.Medlemsstatene skal fastsette alkoholinnholdet i disse biproduktene til minst 5 % av alkoholinnholdet i den produserte vinen.
+1. Utpressing av druer er forbudt. Medlemsstatene skal, idet det tas hensyn til lokale og tekniske forhold, fastsette det minsteinnholdet av alkohol som pressrester av druer og vinberme etter pressing av druer kan inneholde.
+
+   Medlemsstatene skal fastsette alkoholinnholdet i disse biproduktene til minst 5 % av alkoholinnholdet i den produserte vinen.
 2. Av vinberme eller pressrester av druer skal det verken framstilles vin eller andre drikker til direkte konsum, bortsett fra alkohol, brennevin eller piquette. Helling av vin over berme, pressrester av druer eller aszú-masse, der denne praksisen tradisjonelt er brukt ved produksjon av «Tokaji fordítás» og «Tokaji máslás» i Ungarn og «Tokajský forditáš» og «Tokajský mášláš» i Slovakia, skal tillates på vilkår som skal fastsettes av Kommisjonen gjennom delegerte rettsakter i henhold til artikkel 75 nr. 2.
 3. Utpressing av vinberme og ny gjæring av pressrester av druer for andre formål enn destillasjon eller framstilling av piquette, er forbudt. Filtrering og sentrifugering av vinberme skal ikke anses som utpressing når de framstilte produktene er av sunn og god handelskvalitet.
 4. Piquette kan, i den grad den berørte medlemsstaten tillater slik produksjon, brukes bare til destillasjon eller til konsum i vinprodusentens egen husholdning.
@@ -545,7 +1075,12 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til rådsforordning [(EF) nr. 1234/2007](eu/32007r1234) av 22. oktober 2007 om opprettelse av en felles markedsordning for landbruksvarer og om særlige bestemmelser om visse landbruksvarer (forordningen om en felles markedsordning),1 særlig artikkel 118s nr. 3 sammenholdt med artikkel 4, og
 
-ut fra følgende betraktninger:Vinbetegnelser som ble beskyttet i samsvar med artikkel 51 og 54 i rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin2 og artikkel 28 i kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter,3 ble automatisk beskyttet ved forordning [(EF) nr. 1234/2007](eu/32007r1234). Nevnte vinbetegnelser («eksisterende beskyttede vinbetegnelser») er oppført i registeret over beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser for vin, som ble opprettet i samsvar med artikkel 118n i forordning [(EF) nr. 1234/2007](eu/32007r1234) («registeret»).For nevnte eksisterende beskyttede vinbetegnelser skulle medlemsstatene senest 31. desember 2011 oversende til Kommisjonen den tekniske dokumentasjonen og den nasjonale beslutningen om godkjenning. I samsvar med artikkel 118s nr. 3 i forordning [(EF) nr. 1234/2007](eu/32007r1234) skal eksisterende beskyttede vinbetegnelser som det ikke er innsendt opplysninger om innen nevnte dato, miste beskyttelsen i henhold til nevnte forordning. Nevnte betegnelser bør derfor fjernes fra registeret.Fjerningen fra registeret bør ikke omfatte viner som før denne forordning trådte i kraft, har vært bragt i omsetning eller vært merket med vinbetegnelser som skal fjernes fra registeret. Nevnte viner bør derfor kunne markedsføres til lagrene er tomme.Tiltaket fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. Vinbetegnelser som ble beskyttet i samsvar med artikkel 51 og 54 i rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin2 og artikkel 28 i kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter,3 ble automatisk beskyttet ved forordning [(EF) nr. 1234/2007](eu/32007r1234). Nevnte vinbetegnelser («eksisterende beskyttede vinbetegnelser») er oppført i registeret over beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser for vin, som ble opprettet i samsvar med artikkel 118n i forordning [(EF) nr. 1234/2007](eu/32007r1234) («registeret»).
+2. For nevnte eksisterende beskyttede vinbetegnelser skulle medlemsstatene senest 31. desember 2011 oversende til Kommisjonen den tekniske dokumentasjonen og den nasjonale beslutningen om godkjenning. I samsvar med artikkel 118s nr. 3 i forordning [(EF) nr. 1234/2007](eu/32007r1234) skal eksisterende beskyttede vinbetegnelser som det ikke er innsendt opplysninger om innen nevnte dato, miste beskyttelsen i henhold til nevnte forordning. Nevnte betegnelser bør derfor fjernes fra registeret.
+3. Fjerningen fra registeret bør ikke omfatte viner som før denne forordning trådte i kraft, har vært bragt i omsetning eller vært merket med vinbetegnelser som skal fjernes fra registeret. Nevnte viner bør derfor kunne markedsføres til lagrene er tomme.
+4. Tiltaket fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 299 av 16.11.2007, s. 1.
 
@@ -621,7 +1156,53 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) av 29. april 2008 om den felles markedsordning for vin, om endring av forordning [(EF) nr. 1493/1999](eu/31999r1493), forordning [(EF) nr. 1782/2003](eu/32003r1782*), forordning [(EF) nr. 1290/2005](eu/32005r1290*) og forordning [(EF) nr. 3/2008](eu/32008r0003*) og om oppheving av forordning [(EØF) nr. 2392/86](eu/31986r2392*) og forordning [(EF) nr. 1493/1999](eu/31999r1493),1 særlig artikkel 115 nr. 2 og artikkel 121, og
 
-ut fra følgende betraktninger:Forordning [(EF) nr. 479/2008](eu/32008r0479*) endret de tidligere ordninger for vinsektoren som ble innført ved rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin,2 og opphevet rådsforordning [(EØF) nr. 2392/86](eu/31986r2392*) av 24. juli 1986 om opprettelse av Fellesskapets vingårdsregister3 med virkning fra 1. august 2009.De obligatoriske opplysninger og bestemmelsene med hensyn til ajourføring og overvåking av vingårdsregisteret er for øyeblikket fastsatt i forordning [(EØF) nr. 2392/86](eu/31986r2392*), og de nærmere gjennomføringsregler med hensyn til føring av vingårdsregisteret er fastsatt i kommisjonsforordning [(EØF) nr. 649/87](eu/31987r0649).4Artikkel 108 i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsetter at visse medlemsstater skal føre et vingårdsregister med ajourførte opplysninger om produksjonspotensial.Forordning [(EØF) nr. 649/87](eu/31987r0649) bør derfor oppheves, og nærmere gjennomføringsregler for vingårdsregisteret bør vedtas.Hovedformålet med vingårdsregisteret er å overvåke og verifisere produksjonspotensialet. I henhold til artikkel 116 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er medlemsstatene pålagt å sikre at disse framgangsmåter for administrasjon og kontroll som gjelder arealer, er i samsvar med det integrerte administrasjons- og kontrollsystem (IACS). Særlig må identifikasjonen av vinprodusentene og vinmarksparsellene være i samsvar med IACS.For å unngå uforholdsmessige administrative byrder uten å undergrave formålet med vingårdsregisteret bør innsamling av opplysninger fra produsenter med en svært begrenset produksjon, ikke være obligatorisk.For å sikre at vingårdsregisteret kan brukes i praksis, bør opplysningene i registeret være i samsvar med de opplysninger som kreves i henhold til avdeling IV, produksjonspotensial, i kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555*)5 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til støtteprogrammer, handel med tredjestater, produksjonspotensial og om kontroll i vinsektoren.For å sikre overensstemmelse mellom de tilgjengelige opplysninger om vindyrking bør visse opplysninger som samles inn innenfor rammen av rådsforordning [(EØF) nr. 357/79](eu/31979r0357*) av 5. februar 1979 om statistiske undersøkelser om vindyrkingsarealer,6 inntas i vingårdsregisteret, særlig opplysninger om hvilket år vinmarksparsellen ble beplantet.For å sikre at opplysningene i vingårdsregisteret til enhver tid er i samsvar med de faktiske forhold i vinsektoren, bør de ajourføres kontinuerlig og kontrolleres regelmessig.I henhold til artikkel 111 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal produsenter av druer til vinframstilling og produsenter av most og vin hvert år utarbeide avlingsoppgaver over siste års avling, og produsenter av vin og most og andre kommersielle markedsdeltakere enn detaljister må hvert år oppgi beholdningsstørrelse. Nevnte artikkel fastsetter også at medlemsstatene også kan kreve at forhandlere av druer oppgir hvor store menger av produktet som er markedsført.For å lette behandlingen av opplysninger knyttet til oppgavene, bør hver erklæring som sendes inn til en vedkommende administrativ enhet, betraktes som uavhengig av eventuelle andre erklæringer som samme produsent har sendt inn til andre administrative enheter i medlemsstaten.Produsenter som kan gi alle nødvendige opplysninger i en enkelt oppgave over vinproduksjon, behøver imidlertid ikke å sende inn to oppgaver. Meget små produsenter kan fritas fra å sende inn erklæringer ettersom deres samlede produksjon utgjør en meget liten prosentandel av produksjonen i Fellesskapet.Markedsdeltakere som selger vinprodukter før datoene angitt for oppgavene, bør også pålegges å sende inn oppgaver.For å lette forvaltningen av markedet bør det fastsettes en tidsfrist for innsending av oppgaver. Ettersom innhøstingen skjer til ulike tider i de ulike medlemsstater, bør tidsfristene for produsentenes innsendelse av oppgaver spres over en viss periode.For å legge til rette for anvendelsen av denne forordning bør det fastsettes i tabellform hvilke opplysninger som skal gis i oppgavene, men medlemsstatene bør selv kunne bestemme på hvilken måte markedsdeltakerne skal sende inn nevnte opplysninger.Bruken av edb-baserte framgangsmåter erstatter gradvis manuell innlegging av opplysninger innen ulike deler av forvaltningen. Det bør derfor også være mulig å bruke edb-baserte og elektroniske framgangsmåter for obligatoriske oppgaver.De medlemsstater som har et fullstendig vingårdsregister, bør tillates å bruke visse opplysninger, for eksempel areal. Det er derfor ønskelig at produsenter på visse vilkår fritas fra plikten om å oppgi areal.De medlemsstater hvis vinstokksareal ikke overstiger 500 hektar og hvis vinproduksjon ikke overstiger 50 000 hektoliter, bør kunne utelate visse opplysninger i oppgavene og frita produsentene fra å sende inn en eller flere av disse oppgaver på vilkår som skal fastsettes.Det bør fastsettes tidsfrister for når de innsamlede opplysninger skal være sentralisert på nasjonalt plan.For øyeblikket kan det bare framskaffes opplysninger om vinproduksjon og beholdning av vin på grunnlag av avlings- og lageroppgavene fra de ulike berørte parter. Nødvendige tiltak bør derfor treffes for å sikre at de berørte parter sender inn de nevnte oppgaver, at oppgavene er fullstendige og nøyaktige, og det bør fastsettes sanksjoner for både manglende innsending av oppgaver og innsending av falske eller ufullstendige oppgaver.Av samme grunn bør det fastsettes tidsfrister for når de innsamlede opplysninger for de obligatoriske oppgaver skal oversendes til Kommisjonen, og på hvilken måte de skal sendes inn.Visse opplysninger om vinmarkedet er nødvendige for å overvåke markedet. I tillegg til opplysningene gitt i sammendragene av de ulike oppgaver er opplysninger om mengder, bruk og priser vesentlig. Medlemsstatene bør derfor være pålagt å samle inn slike opplysninger og oversende dem til Kommisjonen på bestemte datoer.Visse medlemsstater kan fritas fra å gi opplysninger om priser ettersom deres samlede produksjon utgjør en relativt beskjeden andel av produksjonen i Fellesskapet.Kommisjonsforordning [(EF) nr. 1282/2001](eu/32001r1282)7 om fastsettelse av nærmere regler for innsamling av opplysninger for å identifisere vinprodukter og for å overvåke markedet, bør derfor oppheves.Av hensyn til Fellesskapets indre marked bør de myndigheter som har ansvar for å overvåke oppbevaringen og markedsføringen av vinprodukter, gis de virkemidler som trengs for å gjennomføre effektive kontroller i samsvar med ensartede regler som gjelder i hele Fellesskapet.I henhold til artikkel 112 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan vinprodukter bringes i omsetning innenfor Fellesskapet bare med et offentlig godkjent følgedokument. I henhold til artikkel 112 nr. 2 er fysiske og juridiske personer som innehar vinprodukter, forpliktet til å føre særlige inngangs- og utgangsregistre over disse produkter.Rådsdirektiv [92/12/EØF](eu/31992l0012*) av 25. februar 1992 om den alminnelige ordning for særavgiftspliktige varer og om lagring, omsetning og kontroll av slike varer8 var et skritt i retning av skatteharmonisering. For å fastsette ensartede regler i Fellesskapet og forenkle de administrative formaliteter for yrkesutøvere og for offentligheten er det hensiktsmessig at følgedokumenter ved forsendelser av vinprodukter med henblikk på anvendelsen av skatte- og avgiftsreglene også bør betraktes som godkjente følgedokumenter.Transport av vinprodukter som ikke omfattes av ovennevnte skatte- og avgiftsformaliteter og forsendelser av vinprodukter fra små produsenter, bør følges av et dokument som gjør det mulig for vedkommende myndigheter å overvåke omsetningen av slike produkter. Ethvert handelsdokument som inneholder minst de opplysninger som er nødvendige for å identifisere produktet og spore forsendelsen, bør kunne godkjennes for dette formål.For å unngå unødvendige administrative byrder for transportører bør det ikke kreves følgedokumenter ved forsendelser av visse vinprodukter som transporteres over korte strekninger eller i små mengder i små beholdere.I de næringsdrivendes virksomhet erstattes gradvis papirdokumenter av edb-baserte systemer. Det bør derfor også være mulig å bruke edb-baserte systemer i utarbeidelsen og anvendelsen av følgedokumenter og registre.Tilleggsdokumenter, særlig eksportdeklarasjoner, kreves ved eksport av vinprodukter i tillegg til følgedokumentene. Ytterligere framgangsmåter bør derfor fastsettes for å utarbeide og validere disse dokumenter.Overvåkingen av vinprodukter som transporteres i bulk, krever særlig oppmerksomhet da disse produkter er mer utsatt for bedrageri enn produkter som er tappet på flasker og utstyrt med etikett og en engangslukkemekanisme. I slike tilfeller bør det kreves ytterligere opplysninger og forhåndsvalidering av følgedokumentet.For å forenkle kontrollarbeidet for vedkommende myndigheter bør følgedokumentene ved forsendelser av produkter fra tredjestater som er brakt i fri omsetning, inneholde en henvisning til dokument VI 1.Ovennevnte bestemmelser om utarbeidelse av administrative følgedokumenter og det forenklede følgedokument viser til reglene om attestering av visse vintypers områdeopprinnelse og kvalitet. Regler for slik attestering bør derfor fastsettes. Det bør også fastsettes regler om attestering av visse viners opprinnelse i forbindelse med transport som ikke omfattes av noen skatte- og avgiftsformaliteter, særlig ved eksport. For å forenkle de administrative formaliteter for privatpersoner og spare vedkommende myndigheter for rutinearbeid bør det fastsettes bestemmelser som sikrer at myndighetene kan tillate at avsendere som oppfyller visse vilkår, selv kan føre inn de angivelser i følgedokumentet som attesterer vinens opprinnelse, uten at dette hindrer at det utføres nødvendige kontroller.Det bør fastsettes hvilke tiltak som bør treffes av vedkommende myndigheter når det gjelder transport av en avsender som har begått en alvorlig overtredelse eller i forbindelse med ulovlig transport, og det skal tilstrebes at slike tiltak ikke skal forsinke transporten mer enn det som er høyst nødvendig.For å sikre at vedkommende myndigheter ved å konsultere registrene blir i stand til å overvåke omsetningen og lagringen av vinprodukter på en effektiv måte, særlig under samarbeidet mellom ulike medlemsstaters vedkommende myndigheter, bør reglene om hvordan opplysningene skal føres, harmoniseres på fellesskapsplan.Forpliktelsen i forbindelse med registrene kan medføre en uforholdsmessig administrativ byrde for visse næringsdrivende. Medlemsstatene bør derfor kunne frita disse produsenter fra visse forpliktelser.De stoffer som brukes i ønologiske framgangsmåter, særlig anriking, syrning og avsyrning, er særlig utsatt for risiko for misbruk. Det må derfor føres registre over disse stoffer slik at vedkommende myndigheter kan kontrollere hvordan de transporteres og brukes.Det skal utvises særlig oppmerksomhet ved overvåking av musserende viner og sterkviner ettersom det ofte tilsettes andre produkter til disse viner. Derfor er det nødvendig å kreve tilleggsopplysninger i registrene.Det følgedokument som i samsvar med fellesskapsbestemmelsene kreves ved transport av vinprodukter, er en meget verdifull informasjonskilde for de organer som har ansvar for å sikre samsvar med fellesskapsbestemmelsene og nasjonale bestemmelser innen vinsektoren. Medlemsstatene bør kunne fastsette tilleggsregler for anvendelsen av denne forordning i forbindelse med transporter som begynner på deres eget territorium.I henhold til artikkel 18 nr. 1 i kommisjonsforordning [(EF) nr. 884/2001](eu/32001r0884) av 24. april 2001 om fastsettelse av nærmere regler for bruk av følgedokumenter ved transport av vinprodukter og om registre som skal føres i vinsektoren,9 kan medlemsstatene fastsette ytterligere eller særlige bestemmelser for de berørte produkter som omsettes på deres territorium. Ifølge en av disse bestemmelser kan opplysninger om druemostens spesifikke vekt innen 31. juli 2010 erstattes med opplysninger om tetthet uttrykt i Oechsle-grader. Denne tradisjonelle framgangsmåten brukes hovedsakelig av mindre produsenter av landbruksvarer, som fortsatt trenger flere år på å tilpasse seg de nye bestemmelsene om spesifikk vekt. Derfor er det hensiktsmessig å forlenge dette unntak når forordning [(EF) nr. 884/2001](eu/32001r0884) oppheves.Det er ønskelig at medlemsstatene underretter Kommisjonen om navn og adresse på de organer som har ansvar for å gjennomføre bestemmelsene om følgedokumenter og registre, slik at Kommisjonen kan formidle disse opplysninger til de øvrige medlemsstater.De opplysninger som er nødvendige for å overvåke og kontrollere gjennomføringen av bestemmelsene i denne forordning, bør oppbevares av medlemsstatene til kontrollformål i et passende tidsrom.Det bør fastsettes bestemmelser for avgjørelse av saker i tilfelle av åpenbare feil, *force majeure* og andre særlige omstendigheter for å sikre rettferdig behandling av transportører. Det bør også fastsettes regler for kunstig skapte situasjoner for å unngå at det kan dras fordel av slik situasjoner.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. Forordning [(EF) nr. 479/2008](eu/32008r0479*) endret de tidligere ordninger for vinsektoren som ble innført ved rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin,2 og opphevet rådsforordning [(EØF) nr. 2392/86](eu/31986r2392*) av 24. juli 1986 om opprettelse av Fellesskapets vingårdsregister3 med virkning fra 1. august 2009.
+2. De obligatoriske opplysninger og bestemmelsene med hensyn til ajourføring og overvåking av vingårdsregisteret er for øyeblikket fastsatt i forordning [(EØF) nr. 2392/86](eu/31986r2392*), og de nærmere gjennomføringsregler med hensyn til føring av vingårdsregisteret er fastsatt i kommisjonsforordning [(EØF) nr. 649/87](eu/31987r0649).4
+3. Artikkel 108 i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsetter at visse medlemsstater skal føre et vingårdsregister med ajourførte opplysninger om produksjonspotensial.
+4. Forordning [(EØF) nr. 649/87](eu/31987r0649) bør derfor oppheves, og nærmere gjennomføringsregler for vingårdsregisteret bør vedtas.
+5. Hovedformålet med vingårdsregisteret er å overvåke og verifisere produksjonspotensialet. I henhold til artikkel 116 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er medlemsstatene pålagt å sikre at disse framgangsmåter for administrasjon og kontroll som gjelder arealer, er i samsvar med det integrerte administrasjons- og kontrollsystem (IACS). Særlig må identifikasjonen av vinprodusentene og vinmarksparsellene være i samsvar med IACS.
+6. For å unngå uforholdsmessige administrative byrder uten å undergrave formålet med vingårdsregisteret bør innsamling av opplysninger fra produsenter med en svært begrenset produksjon, ikke være obligatorisk.
+7. For å sikre at vingårdsregisteret kan brukes i praksis, bør opplysningene i registeret være i samsvar med de opplysninger som kreves i henhold til avdeling IV, produksjonspotensial, i kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555*)5 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til støtteprogrammer, handel med tredjestater, produksjonspotensial og om kontroll i vinsektoren.
+8. For å sikre overensstemmelse mellom de tilgjengelige opplysninger om vindyrking bør visse opplysninger som samles inn innenfor rammen av rådsforordning [(EØF) nr. 357/79](eu/31979r0357*) av 5. februar 1979 om statistiske undersøkelser om vindyrkingsarealer,6 inntas i vingårdsregisteret, særlig opplysninger om hvilket år vinmarksparsellen ble beplantet.
+9. For å sikre at opplysningene i vingårdsregisteret til enhver tid er i samsvar med de faktiske forhold i vinsektoren, bør de ajourføres kontinuerlig og kontrolleres regelmessig.
+10. I henhold til artikkel 111 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal produsenter av druer til vinframstilling og produsenter av most og vin hvert år utarbeide avlingsoppgaver over siste års avling, og produsenter av vin og most og andre kommersielle markedsdeltakere enn detaljister må hvert år oppgi beholdningsstørrelse. Nevnte artikkel fastsetter også at medlemsstatene også kan kreve at forhandlere av druer oppgir hvor store menger av produktet som er markedsført.
+11. For å lette behandlingen av opplysninger knyttet til oppgavene, bør hver erklæring som sendes inn til en vedkommende administrativ enhet, betraktes som uavhengig av eventuelle andre erklæringer som samme produsent har sendt inn til andre administrative enheter i medlemsstaten.
+12. Produsenter som kan gi alle nødvendige opplysninger i en enkelt oppgave over vinproduksjon, behøver imidlertid ikke å sende inn to oppgaver. Meget små produsenter kan fritas fra å sende inn erklæringer ettersom deres samlede produksjon utgjør en meget liten prosentandel av produksjonen i Fellesskapet.
+13. Markedsdeltakere som selger vinprodukter før datoene angitt for oppgavene, bør også pålegges å sende inn oppgaver.
+14. For å lette forvaltningen av markedet bør det fastsettes en tidsfrist for innsending av oppgaver. Ettersom innhøstingen skjer til ulike tider i de ulike medlemsstater, bør tidsfristene for produsentenes innsendelse av oppgaver spres over en viss periode.
+15. For å legge til rette for anvendelsen av denne forordning bør det fastsettes i tabellform hvilke opplysninger som skal gis i oppgavene, men medlemsstatene bør selv kunne bestemme på hvilken måte markedsdeltakerne skal sende inn nevnte opplysninger.
+16. Bruken av edb-baserte framgangsmåter erstatter gradvis manuell innlegging av opplysninger innen ulike deler av forvaltningen. Det bør derfor også være mulig å bruke edb-baserte og elektroniske framgangsmåter for obligatoriske oppgaver.
+17. De medlemsstater som har et fullstendig vingårdsregister, bør tillates å bruke visse opplysninger, for eksempel areal. Det er derfor ønskelig at produsenter på visse vilkår fritas fra plikten om å oppgi areal.
+18. De medlemsstater hvis vinstokksareal ikke overstiger 500 hektar og hvis vinproduksjon ikke overstiger 50 000 hektoliter, bør kunne utelate visse opplysninger i oppgavene og frita produsentene fra å sende inn en eller flere av disse oppgaver på vilkår som skal fastsettes.
+19. Det bør fastsettes tidsfrister for når de innsamlede opplysninger skal være sentralisert på nasjonalt plan.
+20. For øyeblikket kan det bare framskaffes opplysninger om vinproduksjon og beholdning av vin på grunnlag av avlings- og lageroppgavene fra de ulike berørte parter. Nødvendige tiltak bør derfor treffes for å sikre at de berørte parter sender inn de nevnte oppgaver, at oppgavene er fullstendige og nøyaktige, og det bør fastsettes sanksjoner for både manglende innsending av oppgaver og innsending av falske eller ufullstendige oppgaver.
+21. Av samme grunn bør det fastsettes tidsfrister for når de innsamlede opplysninger for de obligatoriske oppgaver skal oversendes til Kommisjonen, og på hvilken måte de skal sendes inn.
+22. Visse opplysninger om vinmarkedet er nødvendige for å overvåke markedet. I tillegg til opplysningene gitt i sammendragene av de ulike oppgaver er opplysninger om mengder, bruk og priser vesentlig. Medlemsstatene bør derfor være pålagt å samle inn slike opplysninger og oversende dem til Kommisjonen på bestemte datoer.
+23. Visse medlemsstater kan fritas fra å gi opplysninger om priser ettersom deres samlede produksjon utgjør en relativt beskjeden andel av produksjonen i Fellesskapet.
+24. Kommisjonsforordning [(EF) nr. 1282/2001](eu/32001r1282)7 om fastsettelse av nærmere regler for innsamling av opplysninger for å identifisere vinprodukter og for å overvåke markedet, bør derfor oppheves.
+25. Av hensyn til Fellesskapets indre marked bør de myndigheter som har ansvar for å overvåke oppbevaringen og markedsføringen av vinprodukter, gis de virkemidler som trengs for å gjennomføre effektive kontroller i samsvar med ensartede regler som gjelder i hele Fellesskapet.
+26. I henhold til artikkel 112 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan vinprodukter bringes i omsetning innenfor Fellesskapet bare med et offentlig godkjent følgedokument. I henhold til artikkel 112 nr. 2 er fysiske og juridiske personer som innehar vinprodukter, forpliktet til å føre særlige inngangs- og utgangsregistre over disse produkter.
+27. Rådsdirektiv [92/12/EØF](eu/31992l0012*) av 25. februar 1992 om den alminnelige ordning for særavgiftspliktige varer og om lagring, omsetning og kontroll av slike varer8 var et skritt i retning av skatteharmonisering. For å fastsette ensartede regler i Fellesskapet og forenkle de administrative formaliteter for yrkesutøvere og for offentligheten er det hensiktsmessig at følgedokumenter ved forsendelser av vinprodukter med henblikk på anvendelsen av skatte- og avgiftsreglene også bør betraktes som godkjente følgedokumenter.
+28. Transport av vinprodukter som ikke omfattes av ovennevnte skatte- og avgiftsformaliteter og forsendelser av vinprodukter fra små produsenter, bør følges av et dokument som gjør det mulig for vedkommende myndigheter å overvåke omsetningen av slike produkter. Ethvert handelsdokument som inneholder minst de opplysninger som er nødvendige for å identifisere produktet og spore forsendelsen, bør kunne godkjennes for dette formål.
+29. For å unngå unødvendige administrative byrder for transportører bør det ikke kreves følgedokumenter ved forsendelser av visse vinprodukter som transporteres over korte strekninger eller i små mengder i små beholdere.
+30. I de næringsdrivendes virksomhet erstattes gradvis papirdokumenter av edb-baserte systemer. Det bør derfor også være mulig å bruke edb-baserte systemer i utarbeidelsen og anvendelsen av følgedokumenter og registre.
+31. Tilleggsdokumenter, særlig eksportdeklarasjoner, kreves ved eksport av vinprodukter i tillegg til følgedokumentene. Ytterligere framgangsmåter bør derfor fastsettes for å utarbeide og validere disse dokumenter.
+32. Overvåkingen av vinprodukter som transporteres i bulk, krever særlig oppmerksomhet da disse produkter er mer utsatt for bedrageri enn produkter som er tappet på flasker og utstyrt med etikett og en engangslukkemekanisme. I slike tilfeller bør det kreves ytterligere opplysninger og forhåndsvalidering av følgedokumentet.
+33. For å forenkle kontrollarbeidet for vedkommende myndigheter bør følgedokumentene ved forsendelser av produkter fra tredjestater som er brakt i fri omsetning, inneholde en henvisning til dokument VI 1.
+34. Ovennevnte bestemmelser om utarbeidelse av administrative følgedokumenter og det forenklede følgedokument viser til reglene om attestering av visse vintypers områdeopprinnelse og kvalitet. Regler for slik attestering bør derfor fastsettes. Det bør også fastsettes regler om attestering av visse viners opprinnelse i forbindelse med transport som ikke omfattes av noen skatte- og avgiftsformaliteter, særlig ved eksport. For å forenkle de administrative formaliteter for privatpersoner og spare vedkommende myndigheter for rutinearbeid bør det fastsettes bestemmelser som sikrer at myndighetene kan tillate at avsendere som oppfyller visse vilkår, selv kan føre inn de angivelser i følgedokumentet som attesterer vinens opprinnelse, uten at dette hindrer at det utføres nødvendige kontroller.
+35. Det bør fastsettes hvilke tiltak som bør treffes av vedkommende myndigheter når det gjelder transport av en avsender som har begått en alvorlig overtredelse eller i forbindelse med ulovlig transport, og det skal tilstrebes at slike tiltak ikke skal forsinke transporten mer enn det som er høyst nødvendig.
+36. For å sikre at vedkommende myndigheter ved å konsultere registrene blir i stand til å overvåke omsetningen og lagringen av vinprodukter på en effektiv måte, særlig under samarbeidet mellom ulike medlemsstaters vedkommende myndigheter, bør reglene om hvordan opplysningene skal føres, harmoniseres på fellesskapsplan.
+37. Forpliktelsen i forbindelse med registrene kan medføre en uforholdsmessig administrativ byrde for visse næringsdrivende. Medlemsstatene bør derfor kunne frita disse produsenter fra visse forpliktelser.
+38. De stoffer som brukes i ønologiske framgangsmåter, særlig anriking, syrning og avsyrning, er særlig utsatt for risiko for misbruk. Det må derfor føres registre over disse stoffer slik at vedkommende myndigheter kan kontrollere hvordan de transporteres og brukes.
+39. Det skal utvises særlig oppmerksomhet ved overvåking av musserende viner og sterkviner ettersom det ofte tilsettes andre produkter til disse viner. Derfor er det nødvendig å kreve tilleggsopplysninger i registrene.
+40. Det følgedokument som i samsvar med fellesskapsbestemmelsene kreves ved transport av vinprodukter, er en meget verdifull informasjonskilde for de organer som har ansvar for å sikre samsvar med fellesskapsbestemmelsene og nasjonale bestemmelser innen vinsektoren. Medlemsstatene bør kunne fastsette tilleggsregler for anvendelsen av denne forordning i forbindelse med transporter som begynner på deres eget territorium.
+41. I henhold til artikkel 18 nr. 1 i kommisjonsforordning [(EF) nr. 884/2001](eu/32001r0884) av 24. april 2001 om fastsettelse av nærmere regler for bruk av følgedokumenter ved transport av vinprodukter og om registre som skal føres i vinsektoren,9 kan medlemsstatene fastsette ytterligere eller særlige bestemmelser for de berørte produkter som omsettes på deres territorium. Ifølge en av disse bestemmelser kan opplysninger om druemostens spesifikke vekt innen 31. juli 2010 erstattes med opplysninger om tetthet uttrykt i Oechsle-grader. Denne tradisjonelle framgangsmåten brukes hovedsakelig av mindre produsenter av landbruksvarer, som fortsatt trenger flere år på å tilpasse seg de nye bestemmelsene om spesifikk vekt. Derfor er det hensiktsmessig å forlenge dette unntak når forordning [(EF) nr. 884/2001](eu/32001r0884) oppheves.
+42. Det er ønskelig at medlemsstatene underretter Kommisjonen om navn og adresse på de organer som har ansvar for å gjennomføre bestemmelsene om følgedokumenter og registre, slik at Kommisjonen kan formidle disse opplysninger til de øvrige medlemsstater.
+43. De opplysninger som er nødvendige for å overvåke og kontrollere gjennomføringen av bestemmelsene i denne forordning, bør oppbevares av medlemsstatene til kontrollformål i et passende tidsrom.
+44. Det bør fastsettes bestemmelser for avgjørelse av saker i tilfelle av åpenbare feil, *force majeure* og andre særlige omstendigheter for å sikre rettferdig behandling av transportører. Det bør også fastsettes regler for kunstig skapte situasjoner for å unngå at det kan dras fordel av slik situasjoner.
+45. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 148 av 6.6.2008, s. 1.
 
@@ -676,7 +1257,10 @@ Formål og virkeområde
 
 1\. I denne avdeling fastsettes nærmere regler for gjennomføring av artikkel 185c i forordning [(EF) nr. 1234/2007](eu/32007r1234) vedrørende vinprodukter som er angitt i vedlegg I del XII til nevnte forordning (heretter kalt «vinprodukter»).
 
-2\. I denne avdeling fastsettes vilkår for:utarbeiding og bruk av følgedokumenter ved forsendelse av vinprodukter, heretter kalt «følgedokumenter»,utarbeiding av opprinnelsesbevis for viner og druemost i gjæring med beskyttet opprinnelsesbetegnelse (BOB) eller beskyttet geografisk betegnelse (BGB) samt sertifisering av viner og vinprodukter uten BOB eller BGB som markedsføres med årgang eller vindruesort(er),
+2\. I denne avdeling fastsettes vilkår for:
+
+1. utarbeiding og bruk av følgedokumenter ved forsendelse av vinprodukter, heretter kalt «følgedokumenter»,
+2. utarbeiding av opprinnelsesbevis for viner og druemost i gjæring med beskyttet opprinnelsesbetegnelse (BOB) eller beskyttet geografisk betegnelse (BGB) samt sertifisering av viner og vinprodukter uten BOB eller BGB som markedsføres med årgang eller vindruesort(er),
 
 ◄**M1**
 
@@ -684,7 +1268,21 @@ Formål og virkeområde
 
 Definisjoner
 
-I denne avdeling menes med«produsenter» fysiske eller juridiske personer eller grupper av slike personer som har eller har hatt i sin besittelse friske druer, druemost eller ung, ikke ferdiggjæret vin, og som foredler eller får dem foredlet til vin,«småprodusenter» produsenter som produserer gjennomsnittlig mindre enn 1 000 hektoliter vin per år,«detaljister» fysiske eller juridiske personer eller grupper av slike personer hvis forretningsvirksomhet omfatter direkte salg til forbruker av vin i små mengder, som hver medlemsstat fastsetter idet det tas hensyn til de særlige kjennetegnene for handel og distribusjon, med unntak av dem som benytter vinkjellere utstyrt for lagring og eventuelt tapping av vin i store mengder, eller som driver salg utenom fast utsalgssted av vin transportert i bulk,►**M1**------◄**M1**«lukkemekanisme» en lukkemekanisme for beholdere med et nominelt volum på fem liter eller mindre,«tapping» å fylle de aktuelle produkter i beholdere som rommer høyst 60 liter, for kommersielle formål,«tapper» en fysisk eller juridisk person eller en gruppe av slike personer som tapper eller får tappingen utført på sine vegne.
+I denne avdeling menes med
+
+1. «produsenter» fysiske eller juridiske personer eller grupper av slike personer som har eller har hatt i sin besittelse friske druer, druemost eller ung, ikke ferdiggjæret vin, og som foredler eller får dem foredlet til vin,
+2. «småprodusenter» produsenter som produserer gjennomsnittlig mindre enn 1 000 hektoliter vin per år,
+3. «detaljister» fysiske eller juridiske personer eller grupper av slike personer hvis forretningsvirksomhet omfatter direkte salg til forbruker av vin i små mengder, som hver medlemsstat fastsetter idet det tas hensyn til de særlige kjennetegnene for handel og distribusjon, med unntak av dem som benytter vinkjellere utstyrt for lagring og eventuelt tapping av vin i store mengder, eller som driver salg utenom fast utsalgssted av vin transportert i bulk,
+
+   ►**M1**
+4. --
+5. --
+6. --
+
+   ◄**M1**
+7. «lukkemekanisme» en lukkemekanisme for beholdere med et nominelt volum på fem liter eller mindre,
+8. «tapping» å fylle de aktuelle produkter i beholdere som rommer høyst 60 liter, for kommersielle formål,
+9. «tapper» en fysisk eller juridisk person eller en gruppe av slike personer som tapper eller får tappingen utført på sine vegne.
 
 Ved anvendelsen av nr. 1 bokstav b) skal medlemsstatene ta i betraktning gjennomsnittlig årsproduksjon for minst tre vinår på rad. Medlemsstatene kan unnlate å anse som mindre produsenter produsenter som kjøper friske druer eller druemost for å foredle dem til vin.
 
@@ -711,9 +1309,20 @@ Godkjente følgedokumenter
 
 ►**M1**
 
-1\. Følgende skal godkjennes som følgedokumenter i henhold til vilkårene fastsatt i denne artikkel og i vedlegg VI:For vinprodukter som sendes innenfor en medlemsstat eller mellom medlemsstater uten at det berører bokstav b) nedenfor:Ett av dokumentene nevnt i artikkel 21 nr. 6 eller artikkel 26 nr. 1 bokstav a) i rådsdirektiv [2008/118/EF](eu/32008l0118) for produkter som omsettes under en suspensjonsordning innenfor Unionens territorium,Det forenklede følgedokumentet nevnt i artikkel 34 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), utarbeidet og brukt i henhold til kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649) for omsetning av varer som er belagt med særavgift, innenfor Unionens territorium etter at de er frigitt for forbruk i medlemsstaten der transporten begynte,Ett av følgende dokumenter, utarbeidet på vilkår fastsatt av avsendermedlemsstaten, for vinprodukter som ikke er belagt med særavgift og for vinprodukter som er belagt med særavgift og som sendes av små produsenter i samsvar med artikkel 40 i direktiv [2008/118/EF](eu/32008l0118):når medlemsstaten bruker et informasjonssystem, et trykt eksemplar av det elektroniske administrative dokumentet eller hvilket som helst annet handelsdokument som tydelig viser den særskilte administrative koden («MVV-koden») som tildeles av systemet,når medlemsstaten ikke bruker et informasjonssystem, et administrativt dokument eller et handelsdokument med MVV-kode tildelt av vedkommende organ eller av avsender.
+1\. Følgende skal godkjennes som følgedokumenter i henhold til vilkårene fastsatt i denne artikkel og i vedlegg VI:
 
-2\. Følgedokumentene nevnt i nr. 1 bokstav a) skal inneholde opplysningene nevnt i vedlegg VI del C, eller gi vedkommende organer tilgang til disse opplysningene.Når disse dokumentene har en administrativ referansekode tildelt av det edb-baserte systemet nevnt i artikkel 21 nr. 2 i direktiv [2008/118/EF](eu/32008l0118) eller av et informasjonssystem opprettet av avsendermedlemsstaten, skal det benyttede systemet inneholde opplysningene nevnt i vedlegg VI del C i denne forordning.
+1. For vinprodukter som sendes innenfor en medlemsstat eller mellom medlemsstater uten at det berører bokstav b) nedenfor:
+
+   1. Ett av dokumentene nevnt i artikkel 21 nr. 6 eller artikkel 26 nr. 1 bokstav a) i rådsdirektiv [2008/118/EF](eu/32008l0118) for produkter som omsettes under en suspensjonsordning innenfor Unionens territorium,
+   2. Det forenklede følgedokumentet nevnt i artikkel 34 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), utarbeidet og brukt i henhold til kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649) for omsetning av varer som er belagt med særavgift, innenfor Unionens territorium etter at de er frigitt for forbruk i medlemsstaten der transporten begynte,
+   3. Ett av følgende dokumenter, utarbeidet på vilkår fastsatt av avsendermedlemsstaten, for vinprodukter som ikke er belagt med særavgift og for vinprodukter som er belagt med særavgift og som sendes av små produsenter i samsvar med artikkel 40 i direktiv [2008/118/EF](eu/32008l0118):
+
+      - når medlemsstaten bruker et informasjonssystem, et trykt eksemplar av det elektroniske administrative dokumentet eller hvilket som helst annet handelsdokument som tydelig viser den særskilte administrative koden («MVV-koden») som tildeles av systemet,
+      - når medlemsstaten ikke bruker et informasjonssystem, et administrativt dokument eller et handelsdokument med MVV-kode tildelt av vedkommende organ eller av avsender.
+
+2\. Følgedokumentene nevnt i nr. 1 bokstav a) skal inneholde opplysningene nevnt i vedlegg VI del C, eller gi vedkommende organer tilgang til disse opplysningene.
+
+Når disse dokumentene har en administrativ referansekode tildelt av det edb-baserte systemet nevnt i artikkel 21 nr. 2 i direktiv [2008/118/EF](eu/32008l0118) eller av et informasjonssystem opprettet av avsendermedlemsstaten, skal det benyttede systemet inneholde opplysningene nevnt i vedlegg VI del C i denne forordning.
 
 4\. Toppteksten i følgedokumentene nevnt i nr. 1 bokstav a) iii) skal inneholde Unionens logo, ordene «Den europeiske union», navnet på avsendermedlemsstaten og et symbol eller en logo som identifiserer avsendermedlemsstaten.
 
@@ -733,7 +1342,42 @@ Følgedokumentene nevnt i nr. 1 bokstav a) i) og ii) kan inneholde opplysningene
 
 Unntak
 
-Som unntak fra artikkel 23 skal det ikke kreves følgedokumentfor vinprodukter i beholdere med et nominelt volum på mer enn 60 liter:ved forsendelser av druer, enten de er presset eller ikke, eller druemost, som foretas av drueprodusenten selv eller på hans vegne fra dennes vingård eller et annet anlegg som tilhører vedkommende, når den totale veilengden ikke er lengre enn 40 km og når transportengår til produsentens eget vinproduksjonsanlegg, dersom produsenten er frittstående.går til gruppens vinproduksjonsanlegg, dersom produsenten er tilsluttet en gruppe.ved forsendelser av druer, enten de er presset eller ikke, som foretas av drueprodusenten selv eller på hans vegne av en tredjemann som ikke er identisk med mottakeren, fra drueprodusentens egen vingård:når denne transporten går til mottakerens vinproduksjonsanlegg i samme vindyrkingssone, ognår den totale veilengden ikke er lengre enn 40 km. I unntakstilfeller kan vedkommende myndigheter øke høyeste tillatte veilengde til 70 km,ved forsendelser av vineddik,dersom vedkommende myndighet har tillatt det, ved forsendelser innenfor samme lokale administrative enhet eller til en lokal administrativ enhet i umiddelbar nærhet eller, dersom en individuell godkjenning er gitt, transport innenfor samme regionale administrative enhet, når produktettransporteres mellom to anlegg som hører til samme foretak, med forbehold for anvendelsen av artikkel 38 nr. 2 bokstav a), ellerikke skifter eier og transporten foretas med henblikk på vinframstilling, foredling, lagring eller tapping,ved forsendelser av pressrester av druer og vinbermetil et destillasjonsforetak, når produktet følges av en pakkseddel fastsatt av vedkommende myndigheter i den medlemsstat der transporten begynner, ellernår transporten foretas for å trekke produktet tilbake fra vinframstilling i henhold til artikkel 22 i forordning [(EF) nr. 555/2008](eu/32008r0555*),med hensyn til produkter i beholdere med et nominelt volum på 60 liter eller mindre og med forbehold for direktiv [92/12/EØF](eu/31992l0012*)ved forsendelser av produkter i merkede beholdere med et nominelt volum på fem liter eller mindre, som er utstyrt med en godkjent engangslukkemekanisme, når den totale mengde ikke overstigerfem liter når det gjelder konsentrert druemost, enten den er rektifisert eller ikke,100 liter for alle andre produkter,ved forsendelser av vin eller drueråsaft beregnet på diplomatiske representasjoner, konsulater og tilsvarende enheter, innenfor rammen av de toll- og avgiftsfrie kvoter de er tildelt,ved forsendelser av vin eller drueråsaftsom inngår i privatpersoners flyttegods og ikke er beregnet på salg,som befinner seg om bord i skip, luftfartøyer eller tog og som skal forbrukes der,ved forsendelser som foretas av en privatperson av vin og druemost i gjæring beregnet på å forbrukes av mottakeren selv eller dennes familie, unntatt transporter nevnt i bokstav a) når den transporterte mengde ikke overstiger 30 liter,ved forsendelse av et produkt som er beregnet på vitenskapelige eller tekniske forsøk, når den totale transporterte mengde ikke overstiger en hektoliter,ved forsendelser av vareprøver,ved forsendelser av prøver beregnet på et offentlig organ eller et offentlig laboratorium.
+Som unntak fra artikkel 23 skal det ikke kreves følgedokument
+
+1. for vinprodukter i beholdere med et nominelt volum på mer enn 60 liter:
+
+   1. ved forsendelser av druer, enten de er presset eller ikke, eller druemost, som foretas av drueprodusenten selv eller på hans vegne fra dennes vingård eller et annet anlegg som tilhører vedkommende, når den totale veilengden ikke er lengre enn 40 km og når transporten
+
+      - går til produsentens eget vinproduksjonsanlegg, dersom produsenten er frittstående.
+      - går til gruppens vinproduksjonsanlegg, dersom produsenten er tilsluttet en gruppe.
+   2. ved forsendelser av druer, enten de er presset eller ikke, som foretas av drueprodusenten selv eller på hans vegne av en tredjemann som ikke er identisk med mottakeren, fra drueprodusentens egen vingård:
+
+      - når denne transporten går til mottakerens vinproduksjonsanlegg i samme vindyrkingssone, og
+      - når den totale veilengden ikke er lengre enn 40 km. I unntakstilfeller kan vedkommende myndigheter øke høyeste tillatte veilengde til 70 km,
+   3. ved forsendelser av vineddik,
+   4. dersom vedkommende myndighet har tillatt det, ved forsendelser innenfor samme lokale administrative enhet eller til en lokal administrativ enhet i umiddelbar nærhet eller, dersom en individuell godkjenning er gitt, transport innenfor samme regionale administrative enhet, når produktet
+
+      - transporteres mellom to anlegg som hører til samme foretak, med forbehold for anvendelsen av artikkel 38 nr. 2 bokstav a), eller
+      - ikke skifter eier og transporten foretas med henblikk på vinframstilling, foredling, lagring eller tapping,
+   5. ved forsendelser av pressrester av druer og vinberme
+
+      - til et destillasjonsforetak, når produktet følges av en pakkseddel fastsatt av vedkommende myndigheter i den medlemsstat der transporten begynner, eller
+      - når transporten foretas for å trekke produktet tilbake fra vinframstilling i henhold til artikkel 22 i forordning [(EF) nr. 555/2008](eu/32008r0555*),
+2. med hensyn til produkter i beholdere med et nominelt volum på 60 liter eller mindre og med forbehold for direktiv [92/12/EØF](eu/31992l0012*)
+
+   1. ved forsendelser av produkter i merkede beholdere med et nominelt volum på fem liter eller mindre, som er utstyrt med en godkjent engangslukkemekanisme, når den totale mengde ikke overstiger
+
+      - fem liter når det gjelder konsentrert druemost, enten den er rektifisert eller ikke,
+      - 100 liter for alle andre produkter,
+   2. ved forsendelser av vin eller drueråsaft beregnet på diplomatiske representasjoner, konsulater og tilsvarende enheter, innenfor rammen av de toll- og avgiftsfrie kvoter de er tildelt,
+   3. ved forsendelser av vin eller drueråsaft
+
+      - som inngår i privatpersoners flyttegods og ikke er beregnet på salg,
+      - som befinner seg om bord i skip, luftfartøyer eller tog og som skal forbrukes der,
+   4. ved forsendelser som foretas av en privatperson av vin og druemost i gjæring beregnet på å forbrukes av mottakeren selv eller dennes familie, unntatt transporter nevnt i bokstav a) når den transporterte mengde ikke overstiger 30 liter,
+   5. ved forsendelse av et produkt som er beregnet på vitenskapelige eller tekniske forsøk, når den totale transporterte mengde ikke overstiger en hektoliter,
+   6. ved forsendelser av vareprøver,
+   7. ved forsendelser av prøver beregnet på et offentlig organ eller et offentlig laboratorium.
 
 I unntakstilfeller kan vedkommende myndigheter øke høyeste tillatte veilengde fastsatt i nr. 1 bokstav a) i) fra 40 km til 70 km.
 
@@ -745,7 +1389,19 @@ I de tilfeller der det gjøres unntak fra kravet om å framlegge følgedokument 
 
 Følgedokumentets gyldighet
 
-Følgedokumentet skal anses som gyldig på følgende vilkår:Ved bruk av ett av dokumentene nevnt i artikkel 21 nr. 6 i direktiv [2008/118/EF](eu/32008l0118) og artikkel 24 nr. 1 bokstav a) iii) første strekpunkt i denne forordning, forutsatt at det relevante elektroniske administrative dokumentet er utarbeidet i samsvar med gjeldende regler.Ved bruk av dokumentet nevnt i artikkel 26 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), forutsatt at avsender oppfyller vilkårene i nr. 1.Ved bruk av et dokument fra et informasjonssystem opprettet av en avsendermedlemsstat for utarbeiding av dokumentet nevnt i artikkel 24 nr. 1 bokstav a) ii) i denne forordning eller en forenklet edb-basert framgangsmåte i henhold til artikkel 24 nr. 5, forutsatt at det tilhørende elektroniske dokumentet fastsettes i samsvar med gjeldende regler.I andre tilfeller, forutsatt at det opprinnelige følgedokumentet og en kopi av dette godkjennes før sending:ved angivelse av dato, underskrift og stempel av ansvarlig person i vedkommende organ ellerved angivelse av dato, avsenderens underskrift og om nødvendig:særlig stempel i samsvar med malen nevnt i vedlegg VIII,stempel foreskrevet av vedkommende myndigheter, ellerstempel fra en stemplingsmaskin som er godkjent av vedkommende myndigheter.
+Følgedokumentet skal anses som gyldig på følgende vilkår:
+
+1. Ved bruk av ett av dokumentene nevnt i artikkel 21 nr. 6 i direktiv [2008/118/EF](eu/32008l0118) og artikkel 24 nr. 1 bokstav a) iii) første strekpunkt i denne forordning, forutsatt at det relevante elektroniske administrative dokumentet er utarbeidet i samsvar med gjeldende regler.
+2. Ved bruk av dokumentet nevnt i artikkel 26 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), forutsatt at avsender oppfyller vilkårene i nr. 1.
+3. Ved bruk av et dokument fra et informasjonssystem opprettet av en avsendermedlemsstat for utarbeiding av dokumentet nevnt i artikkel 24 nr. 1 bokstav a) ii) i denne forordning eller en forenklet edb-basert framgangsmåte i henhold til artikkel 24 nr. 5, forutsatt at det tilhørende elektroniske dokumentet fastsettes i samsvar med gjeldende regler.
+4. I andre tilfeller, forutsatt at det opprinnelige følgedokumentet og en kopi av dette godkjennes før sending:
+
+   1. ved angivelse av dato, underskrift og stempel av ansvarlig person i vedkommende organ eller
+   2. ved angivelse av dato, avsenderens underskrift og om nødvendig:
+
+      - særlig stempel i samsvar med malen nevnt i vedlegg VIII,
+      - stempel foreskrevet av vedkommende myndigheter, eller
+      - stempel fra en stemplingsmaskin som er godkjent av vedkommende myndigheter.
 
 Det særlige stempelet eller det foreskrevne stempelet nevnt i første ledds bokstav d) ii) kan være forhåndstrykt på skjemaene, forutsatt at trykkingen utføres av et trykkeri som er godkjent for dette formål.
 
@@ -755,9 +1411,17 @@ Det særlige stempelet eller det foreskrevne stempelet nevnt i første ledds bok
 
 Bruk av følgedokument ved eksport
 
-3\. Vinprodukter som eksporteres midlertidig under ordningen med utenlands foredling i henhold til rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)1 og kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*)2 til en av medlemsstatene i Det europeiske frihandelsforbund (EFTA) for å lagres og aldres og/eller emballeres der, skal i tillegg til følgedokumentet følges av opplysningsdokumentet fastsatt i Tollsamarbeidsrådets rekommandasjon av 3. desember 1963. Dette dokument skal i rubrikkene som er avsatt til produktbeskrivelse inneholde en beskrivelse av produktene i samsvar med fellesskapsbestemmelsene og nasjonale bestemmelser, og en angivelse av mengden vin som transporteres.Disse opplysningene skal hentes fra originalen av følgedokumentet som ble brukt ved transport av vinen til tollstedet der opplysningsdokumentet ble utstedt. Dokumenttype, dato og nummer på ovennevnte dokument som tidligere fulgte forsendelsen, skal også angis i dette dokument.Når produkter nevnt i første ledd gjeninnføres til Fellesskapets tollområde, skal opplysningsdokumentet fylles behørig ut av vedkommende tollsted i EFTA. Dette dokument skal anses som følgedokument for transporten fram til enten tollstedet på bestemmelsesstedet i Fellesskapet eller tollstedet der varene frigis for forbruk, forutsatt at dokumentet i rubrikken for «varenes opprinnelse» inneholder opplysningene fastsatt i første ledd.Det berørte tollsted i Fellesskapet skal stemple en gjenpart eller fotokopi av dokumentet som er framlagt av mottakeren eller dennes representant, og returnere det til vedkommende i henhold til denne forordning.
+3\. Vinprodukter som eksporteres midlertidig under ordningen med utenlands foredling i henhold til rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)1 og kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*)2 til en av medlemsstatene i Det europeiske frihandelsforbund (EFTA) for å lagres og aldres og/eller emballeres der, skal i tillegg til følgedokumentet følges av opplysningsdokumentet fastsatt i Tollsamarbeidsrådets rekommandasjon av 3. desember 1963. Dette dokument skal i rubrikkene som er avsatt til produktbeskrivelse inneholde en beskrivelse av produktene i samsvar med fellesskapsbestemmelsene og nasjonale bestemmelser, og en angivelse av mengden vin som transporteres.
 
-1 EFT L 302 av 19.10.1992, s. 1.2 EFT L 253 av 11.10.1993, s. 1.
+Disse opplysningene skal hentes fra originalen av følgedokumentet som ble brukt ved transport av vinen til tollstedet der opplysningsdokumentet ble utstedt. Dokumenttype, dato og nummer på ovennevnte dokument som tidligere fulgte forsendelsen, skal også angis i dette dokument.
+
+Når produkter nevnt i første ledd gjeninnføres til Fellesskapets tollområde, skal opplysningsdokumentet fylles behørig ut av vedkommende tollsted i EFTA. Dette dokument skal anses som følgedokument for transporten fram til enten tollstedet på bestemmelsesstedet i Fellesskapet eller tollstedet der varene frigis for forbruk, forutsatt at dokumentet i rubrikken for «varenes opprinnelse» inneholder opplysningene fastsatt i første ledd.
+
+Det berørte tollsted i Fellesskapet skal stemple en gjenpart eller fotokopi av dokumentet som er framlagt av mottakeren eller dennes representant, og returnere det til vedkommende i henhold til denne forordning.
+
+1 EFT L 302 av 19.10.1992, s. 1.
+
+2 EFT L 253 av 11.10.1993, s. 1.
 
 ###### Artikkel 28
 
@@ -765,9 +1429,17 @@ Bulktransport
 
 1\. Når følgedokument er utfylt for å følge forsendelsen av et vinprodukt i beholdere med et nominelt volum på over 60 liter, skal dette dokumentets referansenummer tildeles av vedkommende myndighet hvis navn og adresse er angitt på følgedokumentet. Denne myndighet kan være et organ med ansvar for avgiftskontroll.
 
-2\. Referansenummeret skalinngå i en kontinuerlig nummerserie ogvære forhåndstrykt.Vilkåret nevnt i bokstav b) kan fravikes dersom det anvendes et edb-basert system.
+2\. Referansenummeret skal
 
-3\. I tilfellet nevnt i nr. 1 skal følgedokumentets original, behørig utfylt, og en gjenpart av denne forhåndsgodkjennes og erklæres gyldig for hver transportved hjelp av stempelet til vedkommende myndighet i medlemsstaten der transporten begynner, ellerav avsenderen, ved påføring av det foreskrevne stempel eller stempel fra en stemplingsmaskin som er godkjent av vedkommende myndighet nevnt i bokstav a).
+1. inngå i en kontinuerlig nummerserie og
+2. være forhåndstrykt.
+
+Vilkåret nevnt i bokstav b) kan fravikes dersom det anvendes et edb-basert system.
+
+3\. I tilfellet nevnt i nr. 1 skal følgedokumentets original, behørig utfylt, og en gjenpart av denne forhåndsgodkjennes og erklæres gyldig for hver transport
+
+1. ved hjelp av stempelet til vedkommende myndighet i medlemsstaten der transporten begynner, eller
+2. av avsenderen, ved påføring av det foreskrevne stempel eller stempel fra en stemplingsmaskin som er godkjent av vedkommende myndighet nevnt i bokstav a).
 
 4\. Dersom et administrativt følgedokument eller handelsdokument som er i samsvar med forordning [(EØF) nr. 2719/92](eu/31992r2719) eller et forenklet følgedokument eller handelsdokument som er i samsvar med forordning [(EØF) nr. 3649/92](eu/31992r3649) benyttes, skal gjenpart nr. 1 og nr. 2 forhåndsgodkjennes etter framgangsmåten fastsatt i nr. 3.
 
@@ -779,7 +1451,25 @@ Forsendelse av uemballerte vinprodukter
 
 Ved forsendelse av uemballerte vinprodukter der det edb-baserte systemet eller informasjonssystemet nevnt i artikkel 24 nr. 2 annet ledd ikke er i bruk, eller dette systemet ikke tillater at vedkommende myndighet ved lossestedet informeres om typen transport, skal avsender senest ved avgang oversende en kopi av følgedokumentet til vedkommende myndighet på hvis territorium lastestedet befinner seg, som igjen skal informere vedkommende myndighet på hvis territorium lossestedet befinner seg.
 
-Nr. 1 i denne artikkel får anvendelse på følgende vinprodukter:produkter med opprinnelse i Unionen i mengder på over 60 liter:vin beregnet for framstilling av viner med BOB eller BGB, én vindruetype eller én årgang, eller som skal markedsføres som sådan,druemost i gjæring,konsentrert druemost, enten den er rektifisert eller ikke,frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol,drueråsaft,konsentrert drueråsaft,---produkter, uten hensyn til deres opprinnelse og den mengde som transporteres, med forbehold for unntakene nevnt i artikkel 25:vinberme,pressrester av druer beregnet på destillering eller annen form for industriell foredling,piquette,forskåret vin,vin av druesorter som ikke er oppført som vindruesorter i klassifiseringen utarbeidet av medlemsstatene i henhold til artikkel 120a i forordning [(EF) nr. 1234/2007](eu/32007r1234), for den administrative enhet der disse druene er høstet,produkter som ikke kan tilbys eller leveres for direkte konsum.
+Nr. 1 i denne artikkel får anvendelse på følgende vinprodukter:
+
+1. produkter med opprinnelse i Unionen i mengder på over 60 liter:
+
+   1. vin beregnet for framstilling av viner med BOB eller BGB, én vindruetype eller én årgang, eller som skal markedsføres som sådan,
+   2. druemost i gjæring,
+   3. konsentrert druemost, enten den er rektifisert eller ikke,
+   4. frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol,
+   5. drueråsaft,
+   6. konsentrert drueråsaft,
+2. ---
+3. produkter, uten hensyn til deres opprinnelse og den mengde som transporteres, med forbehold for unntakene nevnt i artikkel 25:
+
+   1. vinberme,
+   2. pressrester av druer beregnet på destillering eller annen form for industriell foredling,
+   3. piquette,
+   4. forskåret vin,
+   5. vin av druesorter som ikke er oppført som vindruesorter i klassifiseringen utarbeidet av medlemsstatene i henhold til artikkel 120a i forordning [(EF) nr. 1234/2007](eu/32007r1234), for den administrative enhet der disse druene er høstet,
+   6. produkter som ikke kan tilbys eller leveres for direkte konsum.
 
 Som unntak fra nr. 1 i denne artikkel kan medlemsstatene fastsette ulike frister for omsetning av vinprodukter som utelukkende foregår på deres territorium.
 
@@ -811,7 +1501,9 @@ I så fall kan produktet returneres til avsenderen ved bruk av samme følgedokum
 
 Transport som foretas av en avsender som har begått en alvorlig overtredelse
 
-1\. Når vedkommende myndighet har fastslått at en fysisk eller juridisk person eller en gruppe slike personer som transporterer eller får transportert et vinprodukt, har begått en alvorlig overtredelse av Fellesskapets bestemmelser i vinsektoren eller av nasjonale bestemmelser vedtatt i henhold til disse, eller når vedkommende myndighet har begrunnet mistanke om en slik overtredelse, kan den kreve at avsenderen fyller ut følgedokumentet og søker vedkommende myndighet om godkjenning.Godkjenningen kan, om den gis, eventuelt knyttes til vilkår for framtidig bruk av produktet. Den skal inneholde stempel, signaturen til den ansvarlige i vedkommende myndighet og datoen.
+1\. Når vedkommende myndighet har fastslått at en fysisk eller juridisk person eller en gruppe slike personer som transporterer eller får transportert et vinprodukt, har begått en alvorlig overtredelse av Fellesskapets bestemmelser i vinsektoren eller av nasjonale bestemmelser vedtatt i henhold til disse, eller når vedkommende myndighet har begrunnet mistanke om en slik overtredelse, kan den kreve at avsenderen fyller ut følgedokumentet og søker vedkommende myndighet om godkjenning.
+
+Godkjenningen kan, om den gis, eventuelt knyttes til vilkår for framtidig bruk av produktet. Den skal inneholde stempel, signaturen til den ansvarlige i vedkommende myndighet og datoen.
 
 2\. Nr. 1 skal også få anvendelse på transport av produkter der produksjonsvilkårene eller sammensetningen ikke er i samsvar med Fellesskapets eller nasjonale bestemmelser.
 
@@ -819,7 +1511,14 @@ Transport som foretas av en avsender som har begått en alvorlig overtredelse
 
 Ulovlig transport
 
-1\. Dersom det fastslås at en forsendelse som krever følgedokument, transporteres uten dette dokumentet eller ved bruk av et dokument som inneholder falske, feilaktige eller ufullstendige opplysninger, skal vedkommende myndighet i medlemsstaten der dette oppdages, eller et hvilket som helst annet organ med ansvar for å sikre overholdelse av Fellesskapets eller nasjonale bestemmelser i vinsektoren, treffe de nødvendige tiltakfor å bringe transporten i lovlige former enten ved å rette feil, eller ved å fylle ut et nytt dokument,eventuelt iverksette sanksjoner som står i forhold til med hvor alvorlig forholdet er, særlig ved anvendelse av artikkel 33 nr. 1.Vedkommende myndighet eller organ nevnt i første ledd skal sette sitt stempel på dokumenter som er rettet eller fylt ut i henhold til nevnte bestemmelse. Det at uregelmessigheten bringes i lovlige former, må ikke forsinke den aktuelle transporten ut over det som er strengt nødvendig.I tilfeller av grove eller gjentatte uregelmessigheter skal vedkommende lokale administrative myndighet på lossestedet underrette vedkommende lokale administrative myndighet på lastestedet.
+1\. Dersom det fastslås at en forsendelse som krever følgedokument, transporteres uten dette dokumentet eller ved bruk av et dokument som inneholder falske, feilaktige eller ufullstendige opplysninger, skal vedkommende myndighet i medlemsstaten der dette oppdages, eller et hvilket som helst annet organ med ansvar for å sikre overholdelse av Fellesskapets eller nasjonale bestemmelser i vinsektoren, treffe de nødvendige tiltak
+
+1. for å bringe transporten i lovlige former enten ved å rette feil, eller ved å fylle ut et nytt dokument,
+2. eventuelt iverksette sanksjoner som står i forhold til med hvor alvorlig forholdet er, særlig ved anvendelse av artikkel 33 nr. 1.
+
+Vedkommende myndighet eller organ nevnt i første ledd skal sette sitt stempel på dokumenter som er rettet eller fylt ut i henhold til nevnte bestemmelse. Det at uregelmessigheten bringes i lovlige former, må ikke forsinke den aktuelle transporten ut over det som er strengt nødvendig.
+
+I tilfeller av grove eller gjentatte uregelmessigheter skal vedkommende lokale administrative myndighet på lossestedet underrette vedkommende lokale administrative myndighet på lastestedet.
 
 ► **EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 9 bokstav b)**
 
@@ -844,9 +1543,28 @@ Felles bestemmelser for kapittel II og III
 
 Alminnelige bestemmelser og overgangsbestemmelser
 
-1\. Medlemsstatene kanfastsette at det skal føres lagerregnskap over lukkemekanismer som brukes ved emballeringen av produktene i beholdere med et nominelt volum på fem liter eller mindre, som nevnt i artikkel 25 bokstav b) i), som skal markedsføres på deres territorium, og at disse skal påføres visse opplysninger,kreve utfyllende opplysninger på dokumentene som skal følge forsendelser av vinprodukter framstilt på deres territorium, når slike opplysninger er nødvendige for kontroll,fastsette, når det er påkrevd ved anvendelsen av et edb-basert lagerregnskapssystem, hvor visse obligatoriske opplysninger skal føres i dokumentene som skal følge forsendelser av vinprodukter som begynner på deres territorium, forutsatt at utformingen av malene nevnt i artikkel 31 nr. 1 bokstav c) i) ikke endres,tillate, for transporter som begynner og slutter på deres territorium uten å krysse en annen medlemsstats eller en tredjestats territorium, at angivelsen av tettheten for druemost i en overgangsperiode som utløper 31. juli 2015, erstattes med angivelsen av tettheten uttrykt i Oechsle-grader,fastsette at dokumenter som følger med ved forsendelser av vinprodukter og som er fylt ut på deres territorium, foruten datoen også skal angi klokkeslettet da transporten startet,fastsette, ut over artikkel 25 bokstav a) i), at det ikke skal kreves noe dokument for druer, enten de er presset eller ikke, eller druemost som transporteres av en produsent som tilhører en produsentgruppe og som selv har framstilt produktene, eller av en produsentgruppe som har produktet i sin besittelse, eller der slike produkter transporteres på vegne av slik produsent eller produsentgruppe, til et mottakssted eller til gruppens vinframstillingsanlegg, forutsatt at transporten begynner og slutter i samme vindyrkingssone og, når det aktuelle produktet er beregnet på foredling til vin med en beskyttet opprinnelsesbetegnelse, innenfor den berørte angitte dyrkingsregion, herunder et tilgrensende område,med angivelse av hva gjenpartene skal anvendes til, fastsetteat avsenderen skal fylle ut en eller flere gjenparter av dokumentet som følger transporter som begynner på deres territorium,at mottakeren skal fylle ut en eller flere gjenparter av dokumenter som følger transporter som har begynt på en annen medlemsstats territorium eller i en tredjestat, og som slutter på deres territorium,fastsette at unntaket nevnt i artikkel 25 bokstav a) ii) om fritak fra bruken av følgedokumentet ved visse druetransporter ikke skal få anvendelse på forsendelser som begynner og slutter på deres territorium,fastsette at for transporter nevnt i artikkel 29 som begynner på deres territorium og slutter på en annen medlemsstats territorium, skal avsenderen oversende navn og adresse til vedkommende myndighet på lossestedet sammen med gjenpartene som er utferdiget i henhold til nevnte artikkel,tillate tilpasning av eksisterende registre og fastsette utfyllende regler eller strengere krav med hensyn til føring og kontroll av registrene,ved anvendelse av artikkel 33 nr. 1 fastsette at vedkommende myndighet kan føre registrene selv eller betro oppgaven til et organ som er delegert myndighet i dette henseende.I det tilfelle som er nevnt i bokstav j) kan medlemsstatene kreve at det føres atskilte regnskaper for angitte produkter eller at det føres atskilte registre for visse produktkategorier eller for visse behandlinger nevnt i artikkel 41 nr. 1.
+1\. Medlemsstatene kan
 
-2\. Med forbehold for direktiv [92/12/EØF](eu/31992l0012*) kan medlemsstatene ikke med henvisning til de lukkemekanismer som er benyttet, forby eller forhindre omsetning av produkter som er emballert i beholdere med et nominelt volum på fem liter eller mindre som nevnt i artikkel 25 bokstav b) i).For produkter som er emballert på deres eget territorium, kan medlemsstatene likevel forby bruken av visse lukkemekanismer eller emballasjetyper eller fastsette vilkår for bruken av slike lukkemekanismer.
+1. fastsette at det skal føres lagerregnskap over lukkemekanismer som brukes ved emballeringen av produktene i beholdere med et nominelt volum på fem liter eller mindre, som nevnt i artikkel 25 bokstav b) i), som skal markedsføres på deres territorium, og at disse skal påføres visse opplysninger,
+2. kreve utfyllende opplysninger på dokumentene som skal følge forsendelser av vinprodukter framstilt på deres territorium, når slike opplysninger er nødvendige for kontroll,
+3. fastsette, når det er påkrevd ved anvendelsen av et edb-basert lagerregnskapssystem, hvor visse obligatoriske opplysninger skal føres i dokumentene som skal følge forsendelser av vinprodukter som begynner på deres territorium, forutsatt at utformingen av malene nevnt i artikkel 31 nr. 1 bokstav c) i) ikke endres,
+4. tillate, for transporter som begynner og slutter på deres territorium uten å krysse en annen medlemsstats eller en tredjestats territorium, at angivelsen av tettheten for druemost i en overgangsperiode som utløper 31. juli 2015, erstattes med angivelsen av tettheten uttrykt i Oechsle-grader,
+5. fastsette at dokumenter som følger med ved forsendelser av vinprodukter og som er fylt ut på deres territorium, foruten datoen også skal angi klokkeslettet da transporten startet,
+6. fastsette, ut over artikkel 25 bokstav a) i), at det ikke skal kreves noe dokument for druer, enten de er presset eller ikke, eller druemost som transporteres av en produsent som tilhører en produsentgruppe og som selv har framstilt produktene, eller av en produsentgruppe som har produktet i sin besittelse, eller der slike produkter transporteres på vegne av slik produsent eller produsentgruppe, til et mottakssted eller til gruppens vinframstillingsanlegg, forutsatt at transporten begynner og slutter i samme vindyrkingssone og, når det aktuelle produktet er beregnet på foredling til vin med en beskyttet opprinnelsesbetegnelse, innenfor den berørte angitte dyrkingsregion, herunder et tilgrensende område,
+7. med angivelse av hva gjenpartene skal anvendes til, fastsette
+
+   1. at avsenderen skal fylle ut en eller flere gjenparter av dokumentet som følger transporter som begynner på deres territorium,
+   2. at mottakeren skal fylle ut en eller flere gjenparter av dokumenter som følger transporter som har begynt på en annen medlemsstats territorium eller i en tredjestat, og som slutter på deres territorium,
+8. fastsette at unntaket nevnt i artikkel 25 bokstav a) ii) om fritak fra bruken av følgedokumentet ved visse druetransporter ikke skal få anvendelse på forsendelser som begynner og slutter på deres territorium,
+9. fastsette at for transporter nevnt i artikkel 29 som begynner på deres territorium og slutter på en annen medlemsstats territorium, skal avsenderen oversende navn og adresse til vedkommende myndighet på lossestedet sammen med gjenpartene som er utferdiget i henhold til nevnte artikkel,
+10. tillate tilpasning av eksisterende registre og fastsette utfyllende regler eller strengere krav med hensyn til føring og kontroll av registrene,
+11. ved anvendelse av artikkel 33 nr. 1 fastsette at vedkommende myndighet kan føre registrene selv eller betro oppgaven til et organ som er delegert myndighet i dette henseende.
+
+I det tilfelle som er nevnt i bokstav j) kan medlemsstatene kreve at det føres atskilte regnskaper for angitte produkter eller at det føres atskilte registre for visse produktkategorier eller for visse behandlinger nevnt i artikkel 41 nr. 1.
+
+2\. Med forbehold for direktiv [92/12/EØF](eu/31992l0012*) kan medlemsstatene ikke med henvisning til de lukkemekanismer som er benyttet, forby eller forhindre omsetning av produkter som er emballert i beholdere med et nominelt volum på fem liter eller mindre som nevnt i artikkel 25 bokstav b) i).
+
+For produkter som er emballert på deres eget territorium, kan medlemsstatene likevel forby bruken av visse lukkemekanismer eller emballasjetyper eller fastsette vilkår for bruken av slike lukkemekanismer.
 
 ###### Artikkel 48
 
@@ -858,9 +1576,15 @@ Oppbevaring av følgedokumenter og registre
 
 Underretninger
 
-1\. Hver medlemsstat skal underrette Kommisjonen omnavn og adresse til den eller de myndigheter som har ansvaret for gjennomføringen av denne avdeling,der det er relevant, navn og adresse til organer som vedkommende myndighet har delegert myndighet til med henblikk på gjennomføringen av denne avdeling.
+1\. Hver medlemsstat skal underrette Kommisjonen om
 
-2\. Hver medlemsstat skal også underrette Kommisjonen omsenere endringer med hensyn til vedkommende myndigheter og organer nevnt i nr. 1,tiltakene de har truffet for å gjennomføre denne avdeling, når disse tiltakene er av særskilt verdi for samarbeidet mellom medlemsstatene nevnt i forordning [(EF) nr. 555/2008](eu/32008r0555*).
+1. navn og adresse til den eller de myndigheter som har ansvaret for gjennomføringen av denne avdeling,
+2. der det er relevant, navn og adresse til organer som vedkommende myndighet har delegert myndighet til med henblikk på gjennomføringen av denne avdeling.
+
+2\. Hver medlemsstat skal også underrette Kommisjonen om
+
+1. senere endringer med hensyn til vedkommende myndigheter og organer nevnt i nr. 1,
+2. tiltakene de har truffet for å gjennomføre denne avdeling, når disse tiltakene er av særskilt verdi for samarbeidet mellom medlemsstatene nevnt i forordning [(EF) nr. 555/2008](eu/32008r0555*).
 
 3\. På grunnlag av opplysningene fra medlemsstatene skal Kommisjonen utarbeide og ajourføre en liste over navn og adresser på vedkommende organer og myndigheter. Kommisjonen skal offentliggjøre denne listen på Internett.
 
@@ -875,14 +1599,27 @@ Underretninger
 
 ### A. Alminnelige regler
 
-1. Følgedokumentet skal fylles ut på en måte som er leselig og ikke kan slettes.►**M1**
-2. Dokumentet må ikke inneholde overstrykninger eller overskrivninger.◄**M1**
-3. Enhver påkrevet gjenpart av et følgedokument skal være merket med «gjenpart» eller en tilsvarende angivelse.►**M1**
+1. Følgedokumentet skal fylles ut på en måte som er leselig og ikke kan slettes.
+
+   ►**M1**
+2. Dokumentet må ikke inneholde overstrykninger eller overskrivninger.
+
+   ◄**M1**
+3. Enhver påkrevet gjenpart av et følgedokument skal være merket med «gjenpart» eller en tilsvarende angivelse.
+
+   ►**M1**
 4. --
-5. --◄**M1**
-6. Et enkelt følgedokument kan fylles ut for å følge transport fra en og samme avsender til en og samme mottaker av en enkelt forsendelse avflere partier av samme produktkategori, ellerflere partier av forskjellige produktkategorier, forutsatt at de sendes i merkede beholdere med et nominelt volum på 60 liter eller mindre og er utstyrt med en godkjent engangslukkemekanisme.
+5. --
+
+   ◄**M1**
+6. Et enkelt følgedokument kan fylles ut for å følge transport fra en og samme avsender til en og samme mottaker av en enkelt forsendelse av
+
+   1. flere partier av samme produktkategori, eller
+   2. flere partier av forskjellige produktkategorier, forutsatt at de sendes i merkede beholdere med et nominelt volum på 60 liter eller mindre og er utstyrt med en godkjent engangslukkemekanisme.
 7. I tilfellet nevnt i artikkel 33 nr. 1 eller når dokumentet som følger forsendelsen fylles ut av vedkommende myndighet, skal dokumentet være gyldig bare dersom transporten begynner senest den femte virkedagen etter godkjenningsdatoen eller utfyllingsdatoen, alt etter hva som er relevant.
-8. Når produkter transporteres i atskilte kamre i samme transportbeholder eller er gjenstand for sammenblanding under en transport, må det fylles ut et følgedokument for hver del, enten den transporteres atskilt eller inngår i en blanding. Dette dokumentet skal, i henhold til de nærmere regler som er fastsatt av hver medlemsstat, inneholde opplysninger om hvordan det blandede produkt skal anvendesMedlemsstatene kan imidlertid tillate at avsenderne eller bemyndigede personer fyller ut bare ett følgedokument for hele produktmengden som stammer fra sammenblandingen. I slike tilfeller skal vedkommende myndighet fastsette nærmere regler om framlegging av bevis for kategori, opprinnelse og mengde av de forskjellige delene.
+8. Når produkter transporteres i atskilte kamre i samme transportbeholder eller er gjenstand for sammenblanding under en transport, må det fylles ut et følgedokument for hver del, enten den transporteres atskilt eller inngår i en blanding. Dette dokumentet skal, i henhold til de nærmere regler som er fastsatt av hver medlemsstat, inneholde opplysninger om hvordan det blandede produkt skal anvendes
+
+   Medlemsstatene kan imidlertid tillate at avsenderne eller bemyndigede personer fyller ut bare ett følgedokument for hele produktmengden som stammer fra sammenblandingen. I slike tilfeller skal vedkommende myndighet fastsette nærmere regler om framlegging av bevis for kategori, opprinnelse og mengde av de forskjellige delene.
 
 ### B. Særlige regler
 
@@ -894,7 +1631,14 @@ Angivelser som angår produktbetegnelsen:
 
 Produktkategori
 
-Angi kategorien som produktet faller inn under, ved bruk av et begrep som er i samsvar med de fellesskapsregler som beskriver det mest presist, for eksempelvin uten BOB/BGB,vin med opplysninger om vinstokksort men uten BOB/BGB,vin med BOB/BGB,druemost,druemost for viner med BOB,importert vin.
+Angi kategorien som produktet faller inn under, ved bruk av et begrep som er i samsvar med de fellesskapsregler som beskriver det mest presist, for eksempel
+
+1. vin uten BOB/BGB,
+2. vin med opplysninger om vinstokksort men uten BOB/BGB,
+3. vin med BOB/BGB,
+4. druemost,
+5. druemost for viner med BOB,
+6. importert vin.
 
 1.2.
 
@@ -902,17 +1646,54 @@ For bulktransport av vinene nevnt i nr. 1–9, 15–16 i vedlegg IV til forordni
 
 1.3.
 
-Alkoholstyrke og tetthet for transport av produkter i bulk eller i merkede beholdere med et nominelt volum på høyst 60 liter:vinens sanne alkoholstyrke, med unntak for ung, ikke ferdiggjæret vin, eller den totale alkoholstyrke for ung, ikke ferdiggjæret vin og druemost i gjæring, skal angis i volumprosent med én desimal,brytningstallet for druemoster bestemmes etter målemetoden som er godkjent av Fellesskapet. Det skal angis som potensiell alkoholstyrke i volumprosent. Denne angivelse kan erstattes med angivelse av tettheten uttrykt i gram per cm3,tettheten for most av friske druer hvis gjæring er stanset ved tilsetting av alkohol, skal angis i gram per cm3, og den sanne alkoholstyrken for produktet skal angis i volumprosent med én desimal,sukkerinnholdet i konsentrerte druemoster, rektifiserte konsentrerte druemoster og konsentrert drueråsaft skal angis ved det samlede sukkerinnhold i gram per liter eller gram per kilo,sann alkoholstyrke i pressrester av druer og i vinberme kan også angis (valgfritt), i så fall i liter av ren alkohol per 100 kg.
+Alkoholstyrke og tetthet for transport av produkter i bulk eller i merkede beholdere med et nominelt volum på høyst 60 liter:
+
+1. vinens sanne alkoholstyrke, med unntak for ung, ikke ferdiggjæret vin, eller den totale alkoholstyrke for ung, ikke ferdiggjæret vin og druemost i gjæring, skal angis i volumprosent med én desimal,
+2. brytningstallet for druemoster bestemmes etter målemetoden som er godkjent av Fellesskapet. Det skal angis som potensiell alkoholstyrke i volumprosent. Denne angivelse kan erstattes med angivelse av tettheten uttrykt i gram per cm3,
+3. tettheten for most av friske druer hvis gjæring er stanset ved tilsetting av alkohol, skal angis i gram per cm3, og den sanne alkoholstyrken for produktet skal angis i volumprosent med én desimal,
+4. sukkerinnholdet i konsentrerte druemoster, rektifiserte konsentrerte druemoster og konsentrert drueråsaft skal angis ved det samlede sukkerinnhold i gram per liter eller gram per kilo,
+5. sann alkoholstyrke i pressrester av druer og i vinberme kan også angis (valgfritt), i så fall i liter av ren alkohol per 100 kg.
 
 Disse opplysningene skal angis ved bruk av sammenligningstabellene som er godkjent av Fellesskapet i reglene om analysemetoder.
 
-Med forbehold for de fellesskapsbestemmelser som fastsetter grenseverdien for visse produkter, skal følgende toleranser være tillatt:med hensyn til angivelsen av sann eller total alkoholstyrke, en toleranse på ± 0,2 volumprosent,med hensyn til angivelsen av tetthet, en toleranse på seks enheter i fjerde desimal (± 0,0006),med hensyn til sukkerinnhold, en toleranse ± 3 %.
+Med forbehold for de fellesskapsbestemmelser som fastsetter grenseverdien for visse produkter, skal følgende toleranser være tillatt:
+
+1. med hensyn til angivelsen av sann eller total alkoholstyrke, en toleranse på ± 0,2 volumprosent,
+2. med hensyn til angivelsen av tetthet, en toleranse på seks enheter i fjerde desimal (± 0,0006),
+3. med hensyn til sukkerinnhold, en toleranse ± 3 %.
 
 1.4.
 
-Andre angivelser for transport av produkter i bulk:VindyrkingssoneVindyrkingssonen som produktet som transporteres stammer fra, angis i samsvar med vedlegg IX til forordning [(EF) nr. 479/2008](eu/32008r0479*), idet følgende forkortelser brukes: A, B, C I, C II, C IIIa og C IIIb.BehandlingerDe behandlinger som produktet som transporteres har gjennomgått, skal angis ved bruk av følgende tall i parentes:produktet har ikke gjennomgått noen av de følgende behandlinger,produktet er anriket,produktet er syrnet,produktet er avsyrnet,produktet er søtnet,produktet er forskåret for destillasjon,et produkt med opprinnelse i en annen geografisk enhet enn den som er angitt i betegnelsen, er tilsatt produktet,et produkt som stammer fra en annen vinstokksort enn den som er angitt i betegnelsen, er tilsatt produktet,et produkt som er høstet i løpet av et annet år enn det som er angitt i betegnelsen, er tilsatt produktet,produktet er framstilt ved bruk av eikeflis,produktet er framstilt på grunnlag av bruk i forskningsøyemed av en ny ønologisk framstillingsmåte,►**M2**produktets alkoholinnhold er endret,◄**M2**andre behandlinger (spesifiseres).
+Andre angivelser for transport av produkter i bulk:
 
-Eksempler:for en vin med opprinnelse i sone B som er anriket, angis B (1),for en druemost med opprinnelse i sone CIII b som er syrnet, angis CIII b (2).
+- Vindyrkingssone
+
+  Vindyrkingssonen som produktet som transporteres stammer fra, angis i samsvar med vedlegg IX til forordning [(EF) nr. 479/2008](eu/32008r0479*), idet følgende forkortelser brukes: A, B, C I, C II, C IIIa og C IIIb.
+- Behandlinger
+
+  De behandlinger som produktet som transporteres har gjennomgått, skal angis ved bruk av følgende tall i parentes:
+- produktet har ikke gjennomgått noen av de følgende behandlinger,
+- produktet er anriket,
+- produktet er syrnet,
+- produktet er avsyrnet,
+- produktet er søtnet,
+- produktet er forskåret for destillasjon,
+- et produkt med opprinnelse i en annen geografisk enhet enn den som er angitt i betegnelsen, er tilsatt produktet,
+- et produkt som stammer fra en annen vinstokksort enn den som er angitt i betegnelsen, er tilsatt produktet,
+- et produkt som er høstet i løpet av et annet år enn det som er angitt i betegnelsen, er tilsatt produktet,
+- produktet er framstilt ved bruk av eikeflis,
+- produktet er framstilt på grunnlag av bruk i forskningsøyemed av en ny ønologisk framstillingsmåte,
+
+  ►**M2**
+- produktets alkoholinnhold er endret,
+
+  ◄**M2**
+- andre behandlinger (spesifiseres).
+
+Eksempler:
+
+1. for en vin med opprinnelse i sone B som er anriket, angis B (1),
+2. for en druemost med opprinnelse i sone CIII b som er syrnet, angis CIII b (2).
 
 Angivelsene som angår vindyrkingssonen og de behandlinger som er utført, skal gis i tillegg til angivelsene som angår produktbetegnelsen og skal plasseres i samme synsfelt som disse.
 
@@ -920,7 +1701,10 @@ Angivelsene som angår vindyrkingssonen og de behandlinger som er utført, skal 
 
 Angivelser som angår nettomengden:
 
-Nettomengden avdruer, konsentrert druemost, rektifisert konsentrert druemost og konsentrert drueråsaft, pressrester av druer og vinberme i tonn eller kilo skal angis ved bruk av symbolene «t» eller «kg»,andre produkter i hektoliter eller liter skal angis ved bruk av symbolene «hl» eller «l».
+Nettomengden av
+
+1. druer, konsentrert druemost, rektifisert konsentrert druemost og konsentrert drueråsaft, pressrester av druer og vinberme i tonn eller kilo skal angis ved bruk av symbolene «t» eller «kg»,
+2. andre produkter i hektoliter eller liter skal angis ved bruk av symbolene «hl» eller «l».
 
 For angivelsen av den produktmengde som transporteres i bulk, kan det tillates en toleranse på 1,5 % av total nettomengde.
 
@@ -976,7 +1760,13 @@ Særlig stempel som nevnt i artikkel 26 nr. 1 bokstav c) ii)
 
 ### A. Opplysninger nevnt i artikkel 31 nr. 2 og 3
 
-Opplysningene nevnt i artikkel 31 nr. 2 og 3 skal omfatte følgende:for viner med BOB: en erklæring om at følgedokumentet sertifiserer den beskyttede opprinnelsesbetegnelsen, etterfulgt av BOB-registreringsnummeret i E-Bacchus-registeret som er opprettet av Kommisjonen i samsvar med artikkel 18 i forordning [(EF) nr. 607/2009](eu/32009r0607),for viner med BGB: en erklæring om at følgedokumentet sertifiserer den beskyttede geografiske betegnelsen, etterfulgt av BGB-registreringsnummeret i E-Bacchus-registeret som er opprettet av Kommisjonen i samsvar med artikkel 18 i forordning [(EF) nr. 607/2009](eu/32009r0607),for viner uten BOB eller BGB som markedsføres med årgang: en erklæring om at følgedokumentet sertifiserer årgangen i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234),for viner uten BOB eller BGB som markedsføres med vindruetype(r): en erklæring om at følgedokumentet sertifiserer vindruetypen(e) («vin med opplysninger om vinstokksort») i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234),for viner uten BOB eller BGB som markedsføres med årgang og vindruetype(r): en erklæring om at følgedokumentet sertifiserer årgangen og vindruetypen(e) («vin med opplysninger om vinstokksort») i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234).
+Opplysningene nevnt i artikkel 31 nr. 2 og 3 skal omfatte følgende:
+
+1. for viner med BOB: en erklæring om at følgedokumentet sertifiserer den beskyttede opprinnelsesbetegnelsen, etterfulgt av BOB-registreringsnummeret i E-Bacchus-registeret som er opprettet av Kommisjonen i samsvar med artikkel 18 i forordning [(EF) nr. 607/2009](eu/32009r0607),
+2. for viner med BGB: en erklæring om at følgedokumentet sertifiserer den beskyttede geografiske betegnelsen, etterfulgt av BGB-registreringsnummeret i E-Bacchus-registeret som er opprettet av Kommisjonen i samsvar med artikkel 18 i forordning [(EF) nr. 607/2009](eu/32009r0607),
+3. for viner uten BOB eller BGB som markedsføres med årgang: en erklæring om at følgedokumentet sertifiserer årgangen i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234),
+4. for viner uten BOB eller BGB som markedsføres med vindruetype(r): en erklæring om at følgedokumentet sertifiserer vindruetypen(e) («vin med opplysninger om vinstokksort») i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234),
+5. for viner uten BOB eller BGB som markedsføres med årgang og vindruetype(r): en erklæring om at følgedokumentet sertifiserer årgangen og vindruetypen(e) («vin med opplysninger om vinstokksort») i samsvar med artikkel 118z i forordning [(EF) nr. 1234/2007](eu/32007r1234).
 
 ### B. Poster nevnt i artikkel 31 nr. 2 og 3
 
@@ -1211,7 +2001,25 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) av 29. april 2008 om den felles markedsordning for vin, om endring av forordning [(EF) nr. 1493/1999](eu/31999r1493), forordning [(EF) nr. 1782/2003](eu/32003r1782*), forordning [(EF) nr. 1290/2005](eu/32005r1290*), forordning [(EF) nr. 3/2008](eu/32008r0003*), og om oppheving av forordning [(EØF) nr. 2392/86](eu/31986r2392*) og forordning [(EF) nr. 1493/1999](eu/31999r1493),1 særlig artikkel 25 nr. 3 og artikkel 32, og
 
-ut fra følgende betraktninger:I henhold til definisjonen av vin i nr. 1 annet ledd bokstav c) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som omhandler kategoriene av vinprodukter, har vin en total alkoholstyrke på høyst 15 volumprosent. Denne grensen kan imidlertid forhøyes til 20 volumprosent for viner som er produsert uten anriking i visse vindyrkingssoner som bør fastsettes.Avdeling III kapittel II i forordning [(EF) nr. 479/2008](eu/32008r0479*) og vedlegg V og VI til nevnte forordning inneholder allmenne regler om ønologiske framstillings- og behandlingsmåter og viser til de nærmere gjennomføringsbestemmelser som skal vedtas av Kommisjonen. Det bør defineres klart og tydelig hvilke ønologiske framstillingsmåter som er tillatt, herunder hvilke metoder som er tillatt til søtning av vin, og det bør fastsettes grenseverdier for bruken av visse stoffer og vilkårene for bruken av noen av dem.Vedlegg IV til rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin,2 inneholder en liste over tillatte ønologiske framstillingsmåter. Denne listen over tillatte ønologiske framstillingsmåter bør samles i ett vedlegg, men beskrivelsene bør forenkles og gjøres mer sammenhengende, samtidig med at listen suppleres for å ta hensyn til den tekniske utvikling.I avsnitt A i vedlegg V til forordning [(EF) nr. 1493/1999](eu/31999r1493) fastsettes grenseverdier for sulfitter i viner som produseres i Fellesskapet som er høyere enn grenseverdiene fastsatt av Den internasjonale vinorganisasjon (OIV). Grenseverdiene bør tilpasses med OIVs grenseverdier, som er internasjonalt anerkjent, og for visse søte viner som produseres i små menger, bør det fastsettes unntak på grunn av deres høye sukkerinnhold og ønsket om å sikre deres holdbarhet. På bakgrunn av resultatene av pågående vitenskapelig undersøkelser av hvordan bruken av sulfitter i vin kan reduseres eller erstattes og av hvordan tilsetningen av sulfitter i vin påvirker menneskers samlede inntak av sulfitter gjennom næringsmidler, bør grenseverdiene på et senere tidspunkt kunne tas opp til revisjon med sikte på å bli senket.De framgangsmåter medlemstatene i en bestemt tidsperiode i forskningsøyemed kan bruke for å godkjenne visse ønologiske framstillings- og behandlingsmåter som ikke er inntatt i fellesskapsreglene, bør fastsettes.Framstillingen av musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type krever en rekke særlige framstillingsmåter i tillegg til de ønologiske framstillingsmåter som er tillatt andre steder. Av klarhetshensyn bør disse framstillingsmåter angis i et eget vedlegg.Framstillingen av sterkviner krever en rekke særlige framstillingsmåter i tillegg til de ønologiske framstillingsmåter som er tillatt andre steder, og framstillingen av sterkviner med beskyttet opprinnelsesbetegnelse har visse særegenheter. Av klarhetshensyn bør disse framstillingsmåter og restriksjoner angis i et eget vedlegg.Sammenstikning er en utbredt ønologisk framstillingsmåte, og med tanke på de følger den kan ha på vinkvaliteten, er det nødvendig å innføre strenge regler for hvordan metodene skal brukes for å unngå misbruk og sikre en høy vinkvalitet som samtidig fremmer en mer konkurransedyktig sektor. Av samme årsaker bør bruken av denne metode reguleres for framstillingen av rosévin, særlig for visse viner som ikke omfattes av spesifikasjoner.Spesifikasjoner for renhet og identitet for et stort antall stoffer som brukes i ønologiske framstillingsmåter, er allerede fastsatt i Fellesskapets alminnelige næringsmiddelregelverk og i OIVs internasjonale ønologiske regelverk. Av harmoniserings- og klarhetshensyn bør først og fremst disse spesifikasjoner legges til grunn, men de bør samtidig kunne suppleres med regler som er spesifikke for situasjonen i Fellesskapet.Vinprodukter som ikke oppfyller bestemmelsene i avdeling III kapittel II i forordning [(EF) nr. 479/2008](eu/32008r0479*) eller bestemmelsene som skal fastsettes i denne forordning, kan ikke markedsføres. Noen av disse produktene kan imidlertid brukes til industriformål, og vilkårene for bruken av dem bør fastsettes for å sikre hensiktsmessig overvåking av sluttbruken av dem. For å unngå at næringsdrivende som har lagre av visse produkter som er framstilt før denne forordning får anvendelse, lider økonomiske tap, bør det fastsettes at produkter som er framstilt i henhold til de regler som gjaldt før dette tidspunkt, kan leveres til konsum.I henhold til bokstav D nr. 4 i vedlegg V til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal all anriking, syrning og avsyrning meddeles vedkommende myndigheter. Det samme gjelder for de mengder sukker, konsentrert druemost og rektifisert konsentrert druemost som innehas av de fysiske eller juridiske personer som utfører disse prosesser. Formålet med en slik underretning er å gjøre det mulig å overvåke nevnte prosesser. Underretningene må derfor rettes til vedkommende myndighet i den medlemsstat der slik prosess skal finne sted, og de bør være så nøyaktige som mulig. Dersom det gjelder en økning i alkoholstyrke, må vedkommende myndighet underrettes i tilstrekkelig tid til å kunne utføre en effektiv kontroll.Dersom det gjelder syrning eller avsyrning, er det tilstrekkelig med en kontroll etter prosessen. For å forenkle administrasjonen bør det derfor tillates at slike underretninger, unntatt den første i produksjonsåret, skjer ved en ajourføring av registre som regelmessig kontrolleres av vedkommende myndighet. I noen medlemsstater foretar vedkommende myndigheter systematiske analytiske kontroller av alle partier av produkter som brukes til framstilling av vin. Så lenge det forholder seg slik, er det ikke absolutt nødvendig å kreve underretning om planlagt anriking.Med forbehold for hovedregelen fastsatt i bokstav D i vedlegg VI til forordning [(EF) nr. 479/2008](eu/32008r0479*), er helling av vin eller druemost over berme, pressrester av druer eller presset aszú- eller výber-pulp et vesentlig kjennetegn ved framstillingen av visse ungarske og slovakiske viner. De særlige regler for denne framgangsmåte må fastsettes i samsvar med de nasjonale bestemmelser som gjaldt i de berørte medlemsstater 1. mai 2004.Artikkel 31 i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsetter at de analysemetoder som skal anvendes for å fastsette sammensetningen av de produkter som omfattes av nevnte forordning, og de regler som gjør det mulig å fastslå om disse produkter har gjennomgått noen behandling som er i strid med tillatt ønologiske framstillingsmåte, skal være de som anbefales og er offentliggjort av OIV i Samling av internasjonale analysemetoder for vin og most. Dersom det kreves særskilte analysemetoder for visse av Fellesskapets vinprodukter og slike ikke er blitt fastsatt av OIV, bør disse fellesskapsmetoder beskrives.For å oppnå større åpenhet bør listen over og beskrivelsen av de berørte analysemetoder offentliggjøres på fellesskapsplan.Følgelig bør kommisjonsforordning [(EØF) nr. 2676/90](eu/31990r2676) av 17. september 1990 om fastsettelse av felles analysemetoder for vin3 og forordning [(EF) nr. 423/2008](eu/32008r0423) av 8. mai 2008 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) og om innføring av et fellesskapsregelverk for ønologiske behandlings- og framstillingsmåter4 oppheves.Tiltakene fastsatt i denne forordning er i samsvar med uttalelsen fra forskriftskomiteen opprettet ved artikkel 113 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) –
+ut fra følgende betraktninger:
+
+1. I henhold til definisjonen av vin i nr. 1 annet ledd bokstav c) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som omhandler kategoriene av vinprodukter, har vin en total alkoholstyrke på høyst 15 volumprosent. Denne grensen kan imidlertid forhøyes til 20 volumprosent for viner som er produsert uten anriking i visse vindyrkingssoner som bør fastsettes.
+2. Avdeling III kapittel II i forordning [(EF) nr. 479/2008](eu/32008r0479*) og vedlegg V og VI til nevnte forordning inneholder allmenne regler om ønologiske framstillings- og behandlingsmåter og viser til de nærmere gjennomføringsbestemmelser som skal vedtas av Kommisjonen. Det bør defineres klart og tydelig hvilke ønologiske framstillingsmåter som er tillatt, herunder hvilke metoder som er tillatt til søtning av vin, og det bør fastsettes grenseverdier for bruken av visse stoffer og vilkårene for bruken av noen av dem.
+3. Vedlegg IV til rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin,2 inneholder en liste over tillatte ønologiske framstillingsmåter. Denne listen over tillatte ønologiske framstillingsmåter bør samles i ett vedlegg, men beskrivelsene bør forenkles og gjøres mer sammenhengende, samtidig med at listen suppleres for å ta hensyn til den tekniske utvikling.
+4. I avsnitt A i vedlegg V til forordning [(EF) nr. 1493/1999](eu/31999r1493) fastsettes grenseverdier for sulfitter i viner som produseres i Fellesskapet som er høyere enn grenseverdiene fastsatt av Den internasjonale vinorganisasjon (OIV). Grenseverdiene bør tilpasses med OIVs grenseverdier, som er internasjonalt anerkjent, og for visse søte viner som produseres i små menger, bør det fastsettes unntak på grunn av deres høye sukkerinnhold og ønsket om å sikre deres holdbarhet. På bakgrunn av resultatene av pågående vitenskapelig undersøkelser av hvordan bruken av sulfitter i vin kan reduseres eller erstattes og av hvordan tilsetningen av sulfitter i vin påvirker menneskers samlede inntak av sulfitter gjennom næringsmidler, bør grenseverdiene på et senere tidspunkt kunne tas opp til revisjon med sikte på å bli senket.
+5. De framgangsmåter medlemstatene i en bestemt tidsperiode i forskningsøyemed kan bruke for å godkjenne visse ønologiske framstillings- og behandlingsmåter som ikke er inntatt i fellesskapsreglene, bør fastsettes.
+6. Framstillingen av musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type krever en rekke særlige framstillingsmåter i tillegg til de ønologiske framstillingsmåter som er tillatt andre steder. Av klarhetshensyn bør disse framstillingsmåter angis i et eget vedlegg.
+7. Framstillingen av sterkviner krever en rekke særlige framstillingsmåter i tillegg til de ønologiske framstillingsmåter som er tillatt andre steder, og framstillingen av sterkviner med beskyttet opprinnelsesbetegnelse har visse særegenheter. Av klarhetshensyn bør disse framstillingsmåter og restriksjoner angis i et eget vedlegg.
+8. Sammenstikning er en utbredt ønologisk framstillingsmåte, og med tanke på de følger den kan ha på vinkvaliteten, er det nødvendig å innføre strenge regler for hvordan metodene skal brukes for å unngå misbruk og sikre en høy vinkvalitet som samtidig fremmer en mer konkurransedyktig sektor. Av samme årsaker bør bruken av denne metode reguleres for framstillingen av rosévin, særlig for visse viner som ikke omfattes av spesifikasjoner.
+9. Spesifikasjoner for renhet og identitet for et stort antall stoffer som brukes i ønologiske framstillingsmåter, er allerede fastsatt i Fellesskapets alminnelige næringsmiddelregelverk og i OIVs internasjonale ønologiske regelverk. Av harmoniserings- og klarhetshensyn bør først og fremst disse spesifikasjoner legges til grunn, men de bør samtidig kunne suppleres med regler som er spesifikke for situasjonen i Fellesskapet.
+10. Vinprodukter som ikke oppfyller bestemmelsene i avdeling III kapittel II i forordning [(EF) nr. 479/2008](eu/32008r0479*) eller bestemmelsene som skal fastsettes i denne forordning, kan ikke markedsføres. Noen av disse produktene kan imidlertid brukes til industriformål, og vilkårene for bruken av dem bør fastsettes for å sikre hensiktsmessig overvåking av sluttbruken av dem. For å unngå at næringsdrivende som har lagre av visse produkter som er framstilt før denne forordning får anvendelse, lider økonomiske tap, bør det fastsettes at produkter som er framstilt i henhold til de regler som gjaldt før dette tidspunkt, kan leveres til konsum.
+11. I henhold til bokstav D nr. 4 i vedlegg V til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal all anriking, syrning og avsyrning meddeles vedkommende myndigheter. Det samme gjelder for de mengder sukker, konsentrert druemost og rektifisert konsentrert druemost som innehas av de fysiske eller juridiske personer som utfører disse prosesser. Formålet med en slik underretning er å gjøre det mulig å overvåke nevnte prosesser. Underretningene må derfor rettes til vedkommende myndighet i den medlemsstat der slik prosess skal finne sted, og de bør være så nøyaktige som mulig. Dersom det gjelder en økning i alkoholstyrke, må vedkommende myndighet underrettes i tilstrekkelig tid til å kunne utføre en effektiv kontroll.
+12. Dersom det gjelder syrning eller avsyrning, er det tilstrekkelig med en kontroll etter prosessen. For å forenkle administrasjonen bør det derfor tillates at slike underretninger, unntatt den første i produksjonsåret, skjer ved en ajourføring av registre som regelmessig kontrolleres av vedkommende myndighet. I noen medlemsstater foretar vedkommende myndigheter systematiske analytiske kontroller av alle partier av produkter som brukes til framstilling av vin. Så lenge det forholder seg slik, er det ikke absolutt nødvendig å kreve underretning om planlagt anriking.
+13. Med forbehold for hovedregelen fastsatt i bokstav D i vedlegg VI til forordning [(EF) nr. 479/2008](eu/32008r0479*), er helling av vin eller druemost over berme, pressrester av druer eller presset aszú- eller výber-pulp et vesentlig kjennetegn ved framstillingen av visse ungarske og slovakiske viner. De særlige regler for denne framgangsmåte må fastsettes i samsvar med de nasjonale bestemmelser som gjaldt i de berørte medlemsstater 1. mai 2004.
+14. Artikkel 31 i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsetter at de analysemetoder som skal anvendes for å fastsette sammensetningen av de produkter som omfattes av nevnte forordning, og de regler som gjør det mulig å fastslå om disse produkter har gjennomgått noen behandling som er i strid med tillatt ønologiske framstillingsmåte, skal være de som anbefales og er offentliggjort av OIV i Samling av internasjonale analysemetoder for vin og most. Dersom det kreves særskilte analysemetoder for visse av Fellesskapets vinprodukter og slike ikke er blitt fastsatt av OIV, bør disse fellesskapsmetoder beskrives.
+15. For å oppnå større åpenhet bør listen over og beskrivelsen av de berørte analysemetoder offentliggjøres på fellesskapsplan.
+16. Følgelig bør kommisjonsforordning [(EØF) nr. 2676/90](eu/31990r2676) av 17. september 1990 om fastsettelse av felles analysemetoder for vin3 og forordning [(EF) nr. 423/2008](eu/32008r0423) av 8. mai 2008 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) og om innføring av et fellesskapsregelverk for ønologiske behandlings- og framstillingsmåter4 oppheves.
+17. Tiltakene fastsatt i denne forordning er i samsvar med uttalelsen fra forskriftskomiteen opprettet ved artikkel 113 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) –
 
 1 EUT L 148 av 6.6.2008, s. 1.
 
@@ -1245,7 +2053,14 @@ Vindyrkingssonene nevnt i nr. 1 annet ledd bokstav c) første strekpunkt i vedle
 
 ### Artikkel 4. Bruk i forsøksøyemed av nye ønologiske framstillingsmåter
 
-1\. For bruk i forsøksøyemed som nevnt i artikkel 29 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan hver enkelt medlemsstat i en periode på inntil tre år tillate visse ønologiske framstillings- eller behandlingsmåter som ikke er tillatt i henhold til nevnte forordning eller denne forordning, under forutsetning av atde berørte framstillings- eller behandlingsmåter oppfyller kravene i artikkel 27 nr. 2 og artikkel 30 bokstav b)–e) i forordning [(EF) nr. 479/2008](eu/32008r0479*),de kvanta som omfattes av slike framstillings- eller behandlingsmåter, ikke overstiger 50 000 hektoliter per år og per forsøk,den berørte medlemsstat i begynnelsen av forsøket underretter Kommisjonen og de øvrige medlemsstatene om vilkårene for hver tillatelse,behandlingsmåtene skal angis i følgedokumentet nevnt i artikkel 112 nr. 1 og i registeret nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*).Med «forsøk» menes en eller flere prosesser som utføres innenfor rammen av et veldefinert forskningsprosjekt med en enkelt forsøksprotokoll.
+1\. For bruk i forsøksøyemed som nevnt i artikkel 29 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan hver enkelt medlemsstat i en periode på inntil tre år tillate visse ønologiske framstillings- eller behandlingsmåter som ikke er tillatt i henhold til nevnte forordning eller denne forordning, under forutsetning av at
+
+1. de berørte framstillings- eller behandlingsmåter oppfyller kravene i artikkel 27 nr. 2 og artikkel 30 bokstav b)–e) i forordning [(EF) nr. 479/2008](eu/32008r0479*),
+2. de kvanta som omfattes av slike framstillings- eller behandlingsmåter, ikke overstiger 50 000 hektoliter per år og per forsøk,
+3. den berørte medlemsstat i begynnelsen av forsøket underretter Kommisjonen og de øvrige medlemsstatene om vilkårene for hver tillatelse,
+4. behandlingsmåtene skal angis i følgedokumentet nevnt i artikkel 112 nr. 1 og i registeret nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
+
+Med «forsøk» menes en eller flere prosesser som utføres innenfor rammen av et veldefinert forskningsprosjekt med en enkelt forsøksprotokoll.
 
 2\. Produkter som er framstilt ved bruk i forskningsøyemed av slike ønologiske framstillings- eller behandlingsmåter, kan markedsføres i en annen medlemsstat enn den berørte medlemsstat under forutsetning av at den medlemsstat som har tillatt forsøket, på forhånd har underrettet vedkommende myndigheter i bestemmelsesmedlemsstaten om vilkårene for tillatelsen og de aktuelle mengder.
 
@@ -1265,23 +2080,39 @@ Tillatte ønologiske framstillingsmåter og begrensinger som gjelder for sterkvi
 
 1\. I samsvar med artikkel 32 annet ledd bokstav d) i forordning [(EF) nr. 479/2008](eu/32008r0479*) menes med «sammenstikning» blanding av viner eller moster av ulik opprinnelse, ulike druesorter, ulike avlingsår eller ulike vin- eller mostkategorier.
 
-2\. Følgende vin- eller mostkategorier skal betraktes som ulike:rødvin, hvitvin og moster eller viner som egner seg til framstilling av en av disse vinkategorier,viner uten beskyttet opprinnelsesbetegnelse eller geografisk betegnelse, viner med beskyttet opprinnelsesbetegnelse (BOB) og viner med beskyttet geografisk betegnelse (BGB) samt moster eller viner som egner seg til framstilling av en av disse vinkategorier.Ved anvendelsen av dette nummer skal rosévin betraktes som rødvin.
+2\. Følgende vin- eller mostkategorier skal betraktes som ulike:
 
-3\. Følgende behandlinger skal ikke betraktes som sammenstikning:anriking gjennom tilsetting av konsentrert druemost eller rektifisert konsentrert druemost,søtning.
+1. rødvin, hvitvin og moster eller viner som egner seg til framstilling av en av disse vinkategorier,
+2. viner uten beskyttet opprinnelsesbetegnelse eller geografisk betegnelse, viner med beskyttet opprinnelsesbetegnelse (BOB) og viner med beskyttet geografisk betegnelse (BGB) samt moster eller viner som egner seg til framstilling av en av disse vinkategorier.
+
+Ved anvendelsen av dette nummer skal rosévin betraktes som rødvin.
+
+3\. Følgende behandlinger skal ikke betraktes som sammenstikning:
+
+1. anriking gjennom tilsetting av konsentrert druemost eller rektifisert konsentrert druemost,
+2. søtning.
 
 ### Artikkel 8. Alminnelige regler om blanding og sammenstikning
 
-1\. En vin kan framstilles ved blanding eller sammenstikning bare dersom bestanddelene i nevnte blanding eller sammenstikning har de egenskaper som kreves for å framstille vin og er i samsvar med forordning [(EF) nr. 479/2008](eu/32008r0479*) og denne forordning.Sammenstikning av hvitvin uten BOB/BGB med en rødvin uten BOB/BGB, kan ikke gi opphav til en rosévin.Bestemmelsen i annet ledd utelukker imidlertid ikke en sammenstikning av den typen som der er nevnt, dersom sluttproduktet skal brukes til å framstille en vinblanding som fastsatt i vedlegg I til forordning [(EF) nr. 479/2008](eu/32008r0479*) eller til framstilling av perlende vin.
+1\. En vin kan framstilles ved blanding eller sammenstikning bare dersom bestanddelene i nevnte blanding eller sammenstikning har de egenskaper som kreves for å framstille vin og er i samsvar med forordning [(EF) nr. 479/2008](eu/32008r0479*) og denne forordning.
+
+Sammenstikning av hvitvin uten BOB/BGB med en rødvin uten BOB/BGB, kan ikke gi opphav til en rosévin.
+
+Bestemmelsen i annet ledd utelukker imidlertid ikke en sammenstikning av den typen som der er nevnt, dersom sluttproduktet skal brukes til å framstille en vinblanding som fastsatt i vedlegg I til forordning [(EF) nr. 479/2008](eu/32008r0479*) eller til framstilling av perlende vin.
 
 2\. Sammenstikning av en druemost eller en vin som har vært gjenstand for den ønologiske framgangsmåte nevnt i nr. 14 i vedlegg I A til denne forordning, med en druemost eller vin som ikke har vært gjenstand for slik framgangsmåte, er ikke tillatt.
 
 ### Artikkel 9. Spesifikasjoner for renheten og identiteten til de stoffer som brukes ved ønologiske framstillingsmåter
 
-1\. Dersom det i kommisjonsdirektiv [2008/84/EF](eu/32008l0084)1 ikke er fastsatt spesifikasjoner for renheten og identiteten til de stoffer som brukes i ønologiske framstillingsmåter som nevnt i artikkel 32 annet ledd bokstav e) i forordning [(EF) nr. 479/2008](eu/32008r0479*), gjelder de spesifikasjoner som er fastsatt og offentliggjort av OIVs internasjonale ønologiske regelverk.Ved behov skal disse renhetskriterier suppleres med de særskilte krav som er angitt i vedlegg I A til denne forordning.
+1\. Dersom det i kommisjonsdirektiv [2008/84/EF](eu/32008l0084)1 ikke er fastsatt spesifikasjoner for renheten og identiteten til de stoffer som brukes i ønologiske framstillingsmåter som nevnt i artikkel 32 annet ledd bokstav e) i forordning [(EF) nr. 479/2008](eu/32008r0479*), gjelder de spesifikasjoner som er fastsatt og offentliggjort av OIVs internasjonale ønologiske regelverk.
+
+Ved behov skal disse renhetskriterier suppleres med de særskilte krav som er angitt i vedlegg I A til denne forordning.
 
 2\. Enzymer og enzympreparater som brukes i tillatte ønologiske behandlings- og framstillingsmåter som oppført i vedlegg I A, skal oppfylle kravene i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer.2
 
-1 EUT L 253 av 20.9.2008, s. 1.2 EUT L 354 av 31.12.2008, s. 7.
+1 EUT L 253 av 20.9.2008, s. 1.
+
+2 EUT L 354 av 31.12.2008, s. 7.
 
 ### Artikkel 10. Vilkår for oppbevaring, omsetning og bruk av produkter som ikke er i samsvar med avdeling III kapittel II i forordning (EF) nr. 479/2008 eller denne forordning
 
@@ -1301,7 +2132,13 @@ Behandlingsmåtene nevnt i bokstav D nr. 1 i vedlegg V til forordning [(EF) nr. 
 
 1\. De underretninger om prosesser som skal øke alkoholstyrken som nevnt i bokstav D nr. 4 i vedlegg V til forordning [(EF) nr. 479/2008](eu/32008r0479*), skal inngis av de fysiske eller juridiske personer som utfører de berørte prosesser og i samsvar med hensiktsmessige tidsfrister og kontrollvilkår fastsatt av vedkommende myndighet i den medlemsstat der behandlingen skal finne sted.
 
-2\. Underretningene nevnt i nr. 1 skal gis skriftlig og skal inneholde følgende opplysninger:navn og adresse på personen som gir underretningen,det sted der prosessen skal utføres,dato og tidspunkt for når prosessen skal begynne,beskrivelse av det produkt som skal være gjenstand for prosessen,framgangsmåten for prosessen som brukes, med detaljert beskrivelse av typen produkt som skal brukes.
+2\. Underretningene nevnt i nr. 1 skal gis skriftlig og skal inneholde følgende opplysninger:
+
+1. navn og adresse på personen som gir underretningen,
+2. det sted der prosessen skal utføres,
+3. dato og tidspunkt for når prosessen skal begynne,
+4. beskrivelse av det produkt som skal være gjenstand for prosessen,
+5. framgangsmåten for prosessen som brukes, med detaljert beskrivelse av typen produkt som skal brukes.
 
 3\. Medlemsstatene kan tillate at vedkommende myndigheter på forhånd får underretninger som gjelder flere prosesser eller en bestemt periode. Slike underretninger skal bare godtas dersom den person som gir underretningen, fører et skriftlig register over hver enkelt anriking som nevnt i nr. 6 og opplysningene som kreves i henhold til nr. 2.
 
@@ -1309,19 +2146,28 @@ Behandlingsmåtene nevnt i bokstav D nr. 1 i vedlegg V til forordning [(EF) nr. 
 
 5\. Underretningen nevnt i nr. 1 skal ikke kreves i medlemsstater der vedkommende kontrollmyndigheter foretar systematiske analytiske kontroller av alle partier av produkter som brukes til framstilling av vin.
 
-6\. Opplysninger om prosesser for å øke alkoholstyrken skal føres i registrene nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) umiddelbart etter at prosessen er fullført.I tilfeller der forutgående underretninger som omfatter flere prosesser, ikke angir dato og tidspunkt for når prosessene skal begynne, må også tidspunktet for når hver prosess begynner, føres inn i disse registrene
+6\. Opplysninger om prosesser for å øke alkoholstyrken skal føres i registrene nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) umiddelbart etter at prosessen er fullført.
+
+I tilfeller der forutgående underretninger som omfatter flere prosesser, ikke angir dato og tidspunkt for når prosessene skal begynne, må også tidspunktet for når hver prosess begynner, føres inn i disse registrene
 
 ### Artikkel 13. Administrative regler som gjelder for syrning og avsyrning
 
 1\. Når det gjelder syrning og avsyrning, skal næringsdrivende gi de underretninger som er nevnt i bokstav D nr. 4 i vedlegg V til forordning [(EF) nr. 479/2008](eu/32008r0479*) senest den andre dagen etter at den første prosessen ble utført i et vinår. Slike underretninger skal være gyldige for alle prosesser i nevnte vinår.
 
-2\. Underretningene nevnt i nr. 1 skal gis skriftlig og skal inneholde følgende opplysninger:navn og adresse på vedkommende person som gir underretningen,type prosess som er involvert,stedet der prosessen fant sted.
+2\. Underretningene nevnt i nr. 1 skal gis skriftlig og skal inneholde følgende opplysninger:
+
+1. navn og adresse på vedkommende person som gir underretningen,
+2. type prosess som er involvert,
+3. stedet der prosessen fant sted.
 
 3\. Opplysningene om hver enkelt syrning og avsyrning skal føres inn i registrene nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
 
 ### Artikkel 14. Helling av vin eller druemost over berme, pressrester av drue eller presset «aszú»-/«výber»-pulp
 
-Helling av vin eller druemost over berme, pressrester av druer eller presset «aszú»-/«výber»-pulp i henhold til bokstav D nr. 2 i vedlegg VI til forordning [(EF) nr. 479/2008](eu/32008r0479*), skal foretas på følgende måte, som angitt i gjeldende nasjonale bestemmelser per 1. mai 2004:«Tokaji fordítás» eller «Tokajský forditáš» skal framstilles ved å helle most eller vin over presset «aszú»-/«výber»-pulp,«Tokaji máslás» eller «Tokajský mášláš» skal framstilles ved å helle most eller vin over bermen av «szamorodni»/«samorodné» eller «aszú»/«výber».
+Helling av vin eller druemost over berme, pressrester av druer eller presset «aszú»-/«výber»-pulp i henhold til bokstav D nr. 2 i vedlegg VI til forordning [(EF) nr. 479/2008](eu/32008r0479*), skal foretas på følgende måte, som angitt i gjeldende nasjonale bestemmelser per 1. mai 2004:
+
+1. «Tokaji fordítás» eller «Tokajský forditáš» skal framstilles ved å helle most eller vin over presset «aszú»-/«výber»-pulp,
+2. «Tokaji máslás» eller «Tokajský mášláš» skal framstilles ved å helle most eller vin over bermen av «szamorodni»/«samorodné» eller «aszú»/«výber».
 
 De berørte produkter må være fra samme avlingsår.
 
@@ -1435,13 +2281,26 @@ Tillatte ønologiske framstillings- og behandlingsmåter
 ### Tillegg 2
 L(+)-vinsyre
 
-1. Vinsyre, som er tillatt til avsyrning i henhold til nr. 13 i vedlegg I A, kan brukes bare for produkter som stammer fra druesortene Elbling og Riesling, og som framstilles av druer som er høstet i følgende vindyrkingsområder i den nordlige delen av vindyrkingssone A:Ahr,Rheingau,Mittelrhein,Mosel,Nahe,Rheinhessen,Pfalz,Moselle luxembourgeoise.
+1. Vinsyre, som er tillatt til avsyrning i henhold til nr. 13 i vedlegg I A, kan brukes bare for produkter som stammer fra druesortene Elbling og Riesling, og som framstilles av druer som er høstet i følgende vindyrkingsområder i den nordlige delen av vindyrkingssone A:
+
+   - Ahr,
+   - Rheingau,
+   - Mittelrhein,
+   - Mosel,
+   - Nahe,
+   - Rheinhessen,
+   - Pfalz,
+   - Moselle luxembourgeoise.
 2. Vinsyre, som er tillatt til bruk i henhold til nr. 12 og 13 i dette vedlegg, også kalt L(+)-vinsyre, skal være av landbruksopprinnelse og utvinnes særlig av vinprodukter. Den må også oppfylle renhetskriteriene fastsatt i direktiv [2008/84/EF](eu/32008l0084).
 
 ### Tillegg 3
 Aleppofuruharpiks
 
-1. Aleppofuruharpiks, som er tillatt til bruk i henhold til nr. 14 i vedlegg I A, kan bare brukes til å framstille «retsina»-vin. Denne ønologiske framgangsmåte kan bare utførespå Hellas' geografiske territorium,ved bruk av druemost fra druer hvis sort, produksjonsområde og vinframstillingsområde er angitt i de greske bestemmelser som gjaldt per 31. desember 1980,ved tilsetting av høyst 1 000 gram harpiks per hektoliter av det anvendte produkt før gjæringen, eller, dersom sann alkoholstyrke ikke overstiger en tredel av den totale alkoholstyrken i volumprosent, under gjæringen.
+1. Aleppofuruharpiks, som er tillatt til bruk i henhold til nr. 14 i vedlegg I A, kan bare brukes til å framstille «retsina»-vin. Denne ønologiske framgangsmåte kan bare utføres
+
+   1. på Hellas' geografiske territorium,
+   2. ved bruk av druemost fra druer hvis sort, produksjonsområde og vinframstillingsområde er angitt i de greske bestemmelser som gjaldt per 31. desember 1980,
+   3. ved tilsetting av høyst 1 000 gram harpiks per hektoliter av det anvendte produkt før gjæringen, eller, dersom sann alkoholstyrke ikke overstiger en tredel av den totale alkoholstyrken i volumprosent, under gjæringen.
 2. Dersom Hellas planlegger å endre bestemmelsene nevnt i nr. 1 bokstav b), skal Kommisjonen underrettes om dette på forhånd. Dersom Kommisjonen ikke svarer innen to måneder fra slik underretning, kan Hellas gjennomføre de planlagte endringene.
 
 ### Tillegg 4
@@ -1577,7 +2436,11 @@ Bestemmelser om dimetyldikarbonat
 
 ###### Virkeområde
 
-Dimetyldikarbonat kan tilsettes til vin for ett eller flere av følgende formål:Mikrobiologisk stabilisering av vin på flaske som inneholder gjærbart sukkerinnhold.Hindre utvikling av uønsket gjær og melkebakterier.Hindre gjæring av søt, halvsøt og halvtørr vin.
+Dimetyldikarbonat kan tilsettes til vin for ett eller flere av følgende formål:
+
+1. Mikrobiologisk stabilisering av vin på flaske som inneholder gjærbart sukkerinnhold.
+2. Hindre utvikling av uønsket gjær og melkebakterier.
+3. Hindre gjæring av søt, halvsøt og halvtørr vin.
 
 ###### Bestemmelser
 
@@ -1608,13 +2471,24 @@ Membraner som er permeable for anioner, må være utformet til å ekstrahere bar
 
 1.4.
 
-Membranene må ikke overdrevent endre vinens fysikalsk-kjemiske sammensetning og smakskarakter. De må oppfylle følgende krav:De må være framstilt i samsvar med god framstillingspraksis av stoffer som er godkjent for framstilling av plastmaterialer som er beregnet på å komme i kontakt med næringsmidler som oppført i vedlegg II til kommisjonsdirektiv [2002/72/EF](eu/32002l0072*),1brukeren av elektrodialyseutstyret må vise at de membraner som brukes, oppfyller bestemmelsene nevnt over, og at eventuelle utskiftninger er utført av spesialisert personale,de kan ikke avgi noe farlige stoff i mengder som utgjør en fare for menneskers helse eller påvirker næringsmidlenes smak eller lukt og må oppfylle kriteriene fastsatt i direktiv [2002/72/EF](eu/32002l0072*),bruken av membranene må ikke utløse vekselvirkninger mellom deres bestanddeler og vinen slik at det dannes nye forbindelser i det behandlede produkt som kan være giftige.
+Membranene må ikke overdrevent endre vinens fysikalsk-kjemiske sammensetning og smakskarakter. De må oppfylle følgende krav:
+
+- De må være framstilt i samsvar med god framstillingspraksis av stoffer som er godkjent for framstilling av plastmaterialer som er beregnet på å komme i kontakt med næringsmidler som oppført i vedlegg II til kommisjonsdirektiv [2002/72/EF](eu/32002l0072*),1
+- brukeren av elektrodialyseutstyret må vise at de membraner som brukes, oppfyller bestemmelsene nevnt over, og at eventuelle utskiftninger er utført av spesialisert personale,
+- de kan ikke avgi noe farlige stoff i mengder som utgjør en fare for menneskers helse eller påvirker næringsmidlenes smak eller lukt og må oppfylle kriteriene fastsatt i direktiv [2002/72/EF](eu/32002l0072*),
+- bruken av membranene må ikke utløse vekselvirkninger mellom deres bestanddeler og vinen slik at det dannes nye forbindelser i det behandlede produkt som kan være giftige.
 
 Stabiliteten i nye elektrodialysemembraner skal bestemmes ved bruk av en testløsning med lignende fysikalsk-kjemiske sammensetning som vinen for å undersøke om membranen eventuelt avgir visse stoffer.
 
 Følgende forsøksmetode anbefales:
 
-Testløsningen er en løsning av alkohol og vann som er bufret til vinens pH og konduktivitet. Den skal ha følgende sammensetning:absolutt etanol: 11 liter,kaliumhydrogentartrat: 380 gram,kaliumklorid: 60 gram,konsentrert svovelsyre: 5 milliliter,destillert vann: fyll opp til 100 liter,
+Testløsningen er en løsning av alkohol og vann som er bufret til vinens pH og konduktivitet. Den skal ha følgende sammensetning:
+
+- absolutt etanol: 11 liter,
+- kaliumhydrogentartrat: 380 gram,
+- kaliumklorid: 60 gram,
+- konsentrert svovelsyre: 5 milliliter,
+- destillert vann: fyll opp til 100 liter,
 
 Denne løsningen brukes for å teste migrasjonen i en lukket krets i et membransystem for elektrodialyse under spenning (1 volt/celle), med 50 l/m2 for anion- og kationmembraner, inntil løsningen er demineralisert til 50 %. Som startløsning brukes kaliumkloridløsning med en konsentrasjon på 5 gram per liter. Migrerende stoffer bestemmes både i testløsningen og eluatet.
 
@@ -1624,7 +2498,16 @@ De allmenne regler om kontroll av materialer som er beregnet å komme i kontakt 
 
 *2.**Krav til bruken av membraner*
 
-Det membranparet som anvendes ved behandling for stabilisering av vinens syreinnhold ved elektrodialyse, skal oppfylle følgende vilkår:reduksjonen av vinens pH skal ikke være større enn 0,3 pH-enheter,reduksjonen av innholdet av flyktig syre skal være mindre enn 0,12 gram per liter (2 milliekvivalenter uttrykt som eddiksyre),behandlingen ved elektrodialyse må ikke påvirke de bestanddeler i vinen som ikke er ioner, særlig polyfenoler og polysakkarider,diffusjonen av små molekyler som etanol skal begrenses og bør ikke medføre en reduksjon av vinens alkoholstyrke på mer enn 0,1 volumprosent,membranene skal oppbevares og rengjøres i samsvar med godkjente metoder med stoffer som er godkjent for bruk i tilberedelsen av næringsmidler,membranene skal være merket slik at det er mulig å kontrollere at de er vekselvis plassert i systemet,utstyret som brukes, skal ha et system for styring og kontroll som tar hensyn til hver enkelt vins ustabilitet slik at bare overskuddet av kaliumhydrogentartrat og kalsiumsalter fjernes,behandlingen skal gjennomføres under en ønolog eller kvalifisert teknikers ansvar.
+Det membranparet som anvendes ved behandling for stabilisering av vinens syreinnhold ved elektrodialyse, skal oppfylle følgende vilkår:
+
+- reduksjonen av vinens pH skal ikke være større enn 0,3 pH-enheter,
+- reduksjonen av innholdet av flyktig syre skal være mindre enn 0,12 gram per liter (2 milliekvivalenter uttrykt som eddiksyre),
+- behandlingen ved elektrodialyse må ikke påvirke de bestanddeler i vinen som ikke er ioner, særlig polyfenoler og polysakkarider,
+- diffusjonen av små molekyler som etanol skal begrenses og bør ikke medføre en reduksjon av vinens alkoholstyrke på mer enn 0,1 volumprosent,
+- membranene skal oppbevares og rengjøres i samsvar med godkjente metoder med stoffer som er godkjent for bruk i tilberedelsen av næringsmidler,
+- membranene skal være merket slik at det er mulig å kontrollere at de er vekselvis plassert i systemet,
+- utstyret som brukes, skal ha et system for styring og kontroll som tar hensyn til hver enkelt vins ustabilitet slik at bare overskuddet av kaliumhydrogentartrat og kalsiumsalter fjernes,
+- behandlingen skal gjennomføres under en ønolog eller kvalifisert teknikers ansvar.
 
 Behandlingen skal registreres i registeret nevnt i artikkel 112 nr. 2 i forordning EF nr. 479/2008.
 
@@ -1720,7 +2603,10 @@ Formålet med denne behandling er å sikre vinens vinsteinstabilitet med hensyn 
 
 ###### Krav
 
-1. Behandlingen må begrenses til fjerningen av overskuddet av kationer►**M3** Vinen kan kjølebehandles først ◄**M3**Behandlingen med kationebyttere skal bare gjøres på en så stor del av vinen som kreves for å stabilisere den.
+1. Behandlingen må begrenses til fjerningen av overskuddet av kationer
+
+   - ►**M3** Vinen kan kjølebehandles først ◄**M3**
+   - Behandlingen med kationebyttere skal bare gjøres på en så stor del av vinen som kreves for å stabilisere den.
 2. Behandlingen skal gjennomføres med kationebytterharpikser som regenereres med syre.
 3. Alle prosesser skal gjennomføres under en ønolog eller kvalifisert teknikers ansvar. Behandlingen må registreres i registeret nevnt i artikkel 112 nr. 2 i forordning EF nr. 479/2008.
 4. Kationiske harpikser som brukes, må være i samsvar med kravene i europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935)1 og de bestemmelser på fellesskapsplan og nasjonalt plan som er vedtatt i gjennomføringen av denne forordning, og analysekravene fastsatt i vedlegg 4 til denne forordning. Bruken av dem må ikke gi altfor store endringer i vinens fysikalsk-kjemiske sammensetning eller organoleptiske egenskaper og må overholde grensene fastsatt i nr. 3 i monografien om «kationebytterharpikser» publisert i OIVs internasjonale ønologiske regelverk.
@@ -1739,7 +2625,11 @@ Formålet med denne behandling er å sikre vinens vinsteinstabilitet med hensyn 
 
 ###### Krav:
 
-- Hvilke doser som skal brukes, bestemmes etter innledende forsøk. Den høyeste dosen som brukes, må ikke overstige100 g/hl for bruk i henhold til bokstav a) og b),500 g/hl for bruk i henhold til bokstav c),10 g/hl for bruk i henhold til bokstav d).
+- Hvilke doser som skal brukes, bestemmes etter innledende forsøk. Den høyeste dosen som brukes, må ikke overstige
+
+  - 100 g/hl for bruk i henhold til bokstav a) og b),
+  - 500 g/hl for bruk i henhold til bokstav c),
+  - 10 g/hl for bruk i henhold til bokstav d).
 - Bunnfall fjernes med fysiske metoder.
 
 ### Tillegg 14
@@ -1789,7 +2679,9 @@ Formålet med behandlingen for å redusere sukkerinnholdet («behandlingen») er
 4. Behandlingen kan ikke kombineres med noen av de andre anrikingsprosessene som er fastsatt i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234).
 5. Behandlingen skal utføres på et volum som er fastsatt ut fra det ønskede mål om reduksjon av sukkerinnholdet i mosten.
 6. Målet med første trinn er å gjøre mosten klar for neste konsentrasjonstrinn og bevare makromolekylene som er for store til å passere gjennom membranen. Dette kan foregå ved ultrafiltrering.
-7. Det permeat som oppnås i første trinn konsentreres deretter ved bruk av nanofiltrering eller omvendt osmose.Det opprinnelige vannet og de organiske syrene som forsvinner ved nanofiltreringen kan tilsettes mosten på nytt etter behandling.
+7. Det permeat som oppnås i første trinn konsentreres deretter ved bruk av nanofiltrering eller omvendt osmose.
+
+   Det opprinnelige vannet og de organiske syrene som forsvinner ved nanofiltreringen kan tilsettes mosten på nytt etter behandling.
 8. Behandlingen må gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.
 9. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De må oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
@@ -1829,21 +2721,34 @@ Krav til behandling av vin med membranteknologi kombinert med aktivt karbon for 
 
 Målet med behandlingen er å redusere innholdet av 4-etylfenol og 4-etylguajacol av mikrobiologisk opprinnelse som utgjør organoleptiske mangler og maskerer vinens aromaer.
 
-Krav:Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De må oppfylle kravene i OIVs internasjonale ønologiske regelverk.
+Krav:
+
+1. Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.
+2. Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).
+3. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De må oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
 ### Tillegg 20
 Krav til polyvinylimidazol/polyvinylpyrrolidon (PVI/PVP) kopolymerer
 
 Formålet med bruk av PVI/PVP er å forhindre mangler som skyldes for høye metallkonsentrasjoner, og å redusere uønskede høye metallkonsentrasjoner.
 
-Krav:Kopolymerene må fjernes ved filtrering senest to dager etter at de ble tilsatt, idet det tas hensyn til føre-var-prinsippet.Når det gjelder uklar most, må kopolymerene tilsettes tidligst to dager før filtrering.Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).
+Krav:
+
+1. Kopolymerene må fjernes ved filtrering senest to dager etter at de ble tilsatt, idet det tas hensyn til føre-var-prinsippet.
+2. Når det gjelder uklar most, må kopolymerene tilsettes tidligst to dager før filtrering.
+3. Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.
+4. Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).
 
 ### Tillegg 21
 Krav til sølvklorid
 
 Sølvklorid brukes til behandling av vin for å fjerne gjærings- og lagringsrelaterte unormale lukter (forårsaket av reduksjonsreaksjoner som kjennetegnes ved tilstedeværelsen av hydrogensulfid og tioler).
 
-Krav:Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).Sølvklorid som tilsettes vin, må anvendes på en inert bærer, for eksempel kieselgur (diatoméjord), bentonitt, kaolin osv. Bunnfallet må fjernes ved bruk av en hensiktsmessig fysisk metode og behandles innenfor den spesialiserte sektoren.
+Krav:
+
+1. Behandlingen skal gjennomføres under ansvar av en ønolog eller kvalifisert tekniker.
+2. Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).
+3. Sølvklorid som tilsettes vin, må anvendes på en inert bærer, for eksempel kieselgur (diatoméjord), bentonitt, kaolin osv. Bunnfallet må fjernes ved bruk av en hensiktsmessig fysisk metode og behandles innenfor den spesialiserte sektoren.
 
 ◄ **M9**
 
@@ -1852,7 +2757,10 @@ Aktivatorer for malolaktisk gjæring
 
 Formålet er å tilsette aktivatorer for malolaktisk gjæring på slutten av eller etter alkoholgjæringen for å lette malolaktisk gjæring.
 
-Fremme igangsetting, kinetikk eller avslutning av malolaktisk gjæring:ved å berike miljøet med næringsstoffer og stoffer som fremmer veksten av melkesyrebakterier,ved adsorpsjon av visse bakteriehemmende stoffer.
+Fremme igangsetting, kinetikk eller avslutning av malolaktisk gjæring:
+
+1. ved å berike miljøet med næringsstoffer og stoffer som fremmer veksten av melkesyrebakterier,
+2. ved adsorpsjon av visse bakteriehemmende stoffer.
 
 ###### Spesifikasjoner
 
@@ -1866,23 +2774,144 @@ Krav til bruk av filterplater med zeolitten Y-faujasitt
 
 Formålet med å bruke en filterplate med zeolitten Y-faujasitt under filtrering er å redusere konsentrasjonen av haloanisoler som gir viner bismak, til under den sensoriske terskelverdien.
 
-Spesifikasjoner:Behandlingen må utføres på klarede viner.Filterplatene må rengjøres og desinfiseres før filtrering.Zeolitten Y-faujasitt må brukes i samsvar med spesifikasjonene I OIVs internasjonale ønologiske regelverk.
+Spesifikasjoner:
+
+1. Behandlingen må utføres på klarede viner.
+2. Filterplatene må rengjøres og desinfiseres før filtrering.
+3. Zeolitten Y-faujasitt må brukes i samsvar med spesifikasjonene I OIVs internasjonale ønologiske regelverk.
 
 ### Tillegg 24
 Krav til behandling av vin med kaliumpolyaspartat
 
 Formålet med å tilsette kaliumpolyaspartat i vin er å bidra til vinsyrestabilisering.
 
-Spesifikasjoner:Den optimale dosen kaliumpolyaspartat som brukes til å stabilisere vin, også vin med høy grad av ustabilitet med hensyn til vinsyre, må ikke overstige 10 g/hl. Høyere doser av kaliumpolyaspartat fører ikke til økt stabilitet og kan i noen tilfeller gjøre vinen mer grumsete.For rødviner med høy kolloidal ustabilitet anbefales forutgående behandling med bentonitt.Kaliumpolyaspartat må brukes i samsvar med spesifikasjonene i OIVs internasjonale ønologiske regelverk. ◄**M11**
+Spesifikasjoner:
+
+1. Den optimale dosen kaliumpolyaspartat som brukes til å stabilisere vin, også vin med høy grad av ustabilitet med hensyn til vinsyre, må ikke overstige 10 g/hl. Høyere doser av kaliumpolyaspartat fører ikke til økt stabilitet og kan i noen tilfeller gjøre vinen mer grumsete.
+2. For rødviner med høy kolloidal ustabilitet anbefales forutgående behandling med bentonitt.
+3. Kaliumpolyaspartat må brukes i samsvar med spesifikasjonene i OIVs internasjonale ønologiske regelverk. ◄**M11**
 
 ### Vedlegg I B
 Grenseverdier for svoveldioksidinnhold i vin
 
 ### A. Svoveldioksidinnhold i vin
 
-1. Det totale svoveldioksidinnhold i annen vin enn musserende vin og sterkvin kan ved frigivelsen til direkte konsum ikke overstige:150 milligram per liter for rødviner,200 milligram per liter for hvitviner og roséviner.
-2. Med forbehold for nr. 1 bokstav a) og b) skal grenseverdien for svoveldioksidinnhold heves for vin med et sukkerinnhold, uttrykt som summen av glukose og fruktose, på minst fem gram per liter, til200 milligram per liter for rødviner,250 milligram per liter for hvitviner og roséviner,300 milligram per liter forviner som har rett til betegnelsen «Spätlese» i samsvar med fellesskapsbestemmelsene,hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Bordeaux supérieur, Graves de Vayres, Côtes de Bordeaux-Saint-Macaire, Premières Côtes de Bordeaux, Côtes de Bergerac, Haut Montravel, Côtes de Montravel, Gaillac, Rosette og Savennières,hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Allela, Navarra, Penedès, Tarragona og Valencia, og viner som har rett til en beskyttet opprinnelsesbetegnelse fra Comunidad Autónoma del País Vasco og beskrives som «vendimia tardia»,søte viner som har rett til den beskyttede opprinnelsesbetegnelsen «Binissalem-Mallorca»,viner med opprinnelse i Det forente kongerike framstilt i samsvar med britisk lovgivning, når sukkerinnholdet er høyere enn 45 gram per liter,viner fra Ungarn som har den beskyttede opprinnelsesbetegnelsen «Tokaji» og som beskrives i samsvar med ungarske bestemmelser som «Tokaji édes szamorodni» eller «Tokaji szàraz szamorodni»,viner som har rett til en av de beskyttede opprinnelsesbetegnelsene Loazzolo, Alto Adige og Trentino og beskrives med uttrykket «passito» eller «vendemmia tardiva»,viner som har rett til den beskyttede opprinnelsesbetegnelsen «Colli orientali del Friuli» etterfulgt av uttrykket «Picolit»,viner som har rett til de beskyttede opprinnelsesbetegnelsene «Moscato di Pantelleria naturale» eller «Moscato di Pantelleria»,viner fra Tsjekkia som har rett til betegnelsen «pozdní sběr»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «neskorý zber», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajské samorodné suché» eller «Tokajské samorodné sladké»,viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – pozna trgatev»,hvitviner som har følgende beskyttede geografiske betegnelser, med en total alkoholstyrke på mer enn 15 volumprosent og et sukkerinnhold på mer enn 45 gram per liter:Vin de pays de Franche-Comté,Vin de pays des coteaux de l'Auxois,Vin de pays de Saône-et-Loire,Vin de pays des coteaux de l'Ardèche,Vin de pays des collines rhodaniennes,Vin de pays du comté Tolosan,Vin de pays des côtes de Gascogne,Vin de pays du Gers,Vin de pays du Lot,Vin de pays des côtes du Tarn,Vin de pays de la Corrèze,Vin de pays de l'Ile de Beauté,Vin de pays d'Oc,Vin de pays des côtes de Thau,Vin de pays des coteaux de Murviel,Vin de pays du Val de Loire,Vin de pays de Méditerranée,Vin de pays des comtés rhodaniens,Vin de pays des côtes de Thongue,Vin de pays de la Côte Vermeille,►**M2**Vin de pays de l'Agenais,Vin de pays des terroirs landais,Vin de pays des Landes,Vin de pays d'Allobrogie,Vin de pays du Var,◄**M2**søte viner med opprinnelse i Hellas som har en sann alkoholstyrke på 15 volumprosent eller høyere, og et sukkerinnhold på 45 gram per liter eller mer og som har rett til en av følgende beskyttede geografiske betegnelser:Toπικóς Oίνoς Tυρνάβoυ (Regional wine of Tyrnavos),Aχαϊκóς Toπικóς Oίνoς (Regional wine of Ahaia),Λακωνικóς Toπικóς Oίνoς (Regional wine of Lakonia),Toπικóς Oίνoς Φλώρινας (Regional wine of Florina),Toπικóς Oίνoς Kυκλάδων (Regional wine of Cyclades),Toπικóς Oίνoς Aργoλίδας (Regional wine of Argolida),Toπικóς Oίνoς Φιερίας (Regional wine of Pieria),Aγιoρείτικoς Toπικóς Oίνoς (Regional wine of Mount Athos – Regional wine of Holy Mountain),søte viner med opprinnelse i Kypros med en sann alkoholstyrke på 15 volumprosent eller lavere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til den beskyttede opprinnelsesbetegnelsen Koυμανδαρία (Commandaria),søte viner med opprinnelse i Kypros som er framstilt av overmodne druer eller av rosindruer med en sann alkoholstyrke på 15 volumprosent eller høyere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til en av følgende beskyttede geografiske betegnelser:Toπικóς Oίνoς Λεμεσóς (Regional wine of Lemesos),Toπικóς Oίνoς Φάφoς (Regional wine of Pafos),Toπικóς Oίνoς Λάρνακα (Regional wine of Larnaka),Toπικóς Oίνoς Λευκωσία (Regional wine of Lefkosia),►**M2**viner med opprinnelse i Malta med en total alkoholstyrke i volumprosent på 13,5 vol.-% eller over og et sukkerinnhold på 45 g/l eller over, og som oppfyller kravene til de beskyttede opprinnelsesbetegnelsene «Malta» og «Gozo».
-◄**M2**350 milligram per liter forviner som har rett til betegnelsen «Auslese» i samsvar med fellesskapsbestemmelsene,rumenske hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Murfatlar, Cotnari, Târnave, Pietroasa eller Valea Călugărească,viner fra Tsjekkia som har rett til betegnelsen «výběr z hroznů»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse som beskrives med uttrykket «výber z hrozna», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský másláš» eller «Tokajský forditáš»,viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – izbor»,►**M2**vin som oppfyller kravene til den tradisjonelle betegnelsen «Késői szüretelésű bor».◄**M2**►**M4**viner fra Italia av typen «aleatico» som har rett til den beskyttede opprinnelsesbetegnelsen «Pergola» og den tradisjonelle betegnelsen «passito»,◄**M4**400 milligram per liter forviner som har rett til betegnelsen «Beerenauslese», «Ausbruch», «Ausbruchwein», «Trockenbeerenauslese», «Strohwein», «Schilfwein» eller «Eiswein» i samsvar med fellesskapsbetemmelsene,hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Sauternes, Barsac, Cadillac, Cérons, Loupiac, Sainte-Croix-du-Mont, Monbazillac, Bonnezeaux, Quarts de Chaume, Coteaux du Layon, Coteaux de l'Aubance, Graves Supérieures, Sainte-Foy Bordeaux, Saussignac, Jurançon, med mindre de er etterfulgt av uttrykket «sec», Anjou-Coteaux de la Loire, Coteaux du Layon etterfulgt av navnet på opprinnelseskommunen, Chaume, Coteaux de Saumur, Pacherenc du Vic Bilh, med mindre de er etterfulgt av uttrykket «sec», Alsace et Alsace grand cru etterfulgt av uttrykket «vendanges tardives» eller «sélection de grains nobles»,søte viner med opprinnelse i Hellas framstilt av overmodne druer og av rosindruer med et restsukkerinnhold, uttrykt som sukker, på 45 gram per liter eller mer, og som har rett til en av de beskyttede opprinnelsesbetegnelsene Σάμoς (Samos), Póδoς (Rhodes), Φατρα (Patras), Pίo Φατρών (Rio Patron), Kεφαλoνία (Céphalonie), Λήμνoς (Limnos), Σητεία (Sitia), Σαντoρίνη (Santorin), Nεμέα (Néméa), Δαφνές (Daphnès), og søte viner som er framstilt av overmodne druer og rosindruer som har rett til en av de beskyttede geografiske betegnelsene Σιάτιστας (Siatista), Kαστoριάς (Kastoria), Kυκλάδων (Cyclades), Moνεμβάσιoς (Monemvasia), Aγιoρείτικoς (Mount Athos – Holy Mountain),viner fra Tsjekkia som har rett til betegnelsen «výběr z bobulí», «výběr z cibéb», «ledové víno» eller «slámové víno»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «bobuľový výber», «hrozienkový výber», «cibébový výber», «ľadové víno» eller «slamové víno», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský výber», «Tokajská esencia» eller «Tokajská výberová esencia»,►**M4**viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Tokaji máslás», «Tokaji fordítás», «Tokaji aszúeszencia», «Tokaji eszencia», «Tokaji aszú» eller «Töppedt szőlőből készült bor» eller «Jégbor»,◄**M4**viner som har rett til den beskyttede opprinnelsesbetegnelsen «Albana di Romagna» og beskrives med uttrykket «passito»,luxembourgske viner som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vendanges tardives», «vin de glace» eller «vin de paille»,►**M2**►**M3**viner fra Portugal som har rett til en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse samt angivelsen «colheita tardia».◄**M2**◄**M3**viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – jagodni izbor», «vrhunsko vino ZGP – ledeno vino» eller «vrhunsko vino ZGP – suhi jagodni izbor»,hvitviner med opprinnelse i Canada som har rett til betegnelsen «Icewine».
+1. Det totale svoveldioksidinnhold i annen vin enn musserende vin og sterkvin kan ved frigivelsen til direkte konsum ikke overstige:
+
+   1. 150 milligram per liter for rødviner,
+   2. 200 milligram per liter for hvitviner og roséviner.
+2. Med forbehold for nr. 1 bokstav a) og b) skal grenseverdien for svoveldioksidinnhold heves for vin med et sukkerinnhold, uttrykt som summen av glukose og fruktose, på minst fem gram per liter, til
+
+   1. 200 milligram per liter for rødviner,
+   2. 250 milligram per liter for hvitviner og roséviner,
+   3. 300 milligram per liter for
+
+      - viner som har rett til betegnelsen «Spätlese» i samsvar med fellesskapsbestemmelsene,
+      - hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Bordeaux supérieur, Graves de Vayres, Côtes de Bordeaux-Saint-Macaire, Premières Côtes de Bordeaux, Côtes de Bergerac, Haut Montravel, Côtes de Montravel, Gaillac, Rosette og Savennières,
+      - hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Allela, Navarra, Penedès, Tarragona og Valencia, og viner som har rett til en beskyttet opprinnelsesbetegnelse fra Comunidad Autónoma del País Vasco og beskrives som «vendimia tardia»,
+      - søte viner som har rett til den beskyttede opprinnelsesbetegnelsen «Binissalem-Mallorca»,
+      - viner med opprinnelse i Det forente kongerike framstilt i samsvar med britisk lovgivning, når sukkerinnholdet er høyere enn 45 gram per liter,
+      - viner fra Ungarn som har den beskyttede opprinnelsesbetegnelsen «Tokaji» og som beskrives i samsvar med ungarske bestemmelser som «Tokaji édes szamorodni» eller «Tokaji szàraz szamorodni»,
+      - viner som har rett til en av de beskyttede opprinnelsesbetegnelsene Loazzolo, Alto Adige og Trentino og beskrives med uttrykket «passito» eller «vendemmia tardiva»,
+      - viner som har rett til den beskyttede opprinnelsesbetegnelsen «Colli orientali del Friuli» etterfulgt av uttrykket «Picolit»,
+      - viner som har rett til de beskyttede opprinnelsesbetegnelsene «Moscato di Pantelleria naturale» eller «Moscato di Pantelleria»,
+      - viner fra Tsjekkia som har rett til betegnelsen «pozdní sběr»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «neskorý zber», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajské samorodné suché» eller «Tokajské samorodné sladké»,
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – pozna trgatev»,
+      - hvitviner som har følgende beskyttede geografiske betegnelser, med en total alkoholstyrke på mer enn 15 volumprosent og et sukkerinnhold på mer enn 45 gram per liter:
+
+        - Vin de pays de Franche-Comté,
+        - Vin de pays des coteaux de l'Auxois,
+        - Vin de pays de Saône-et-Loire,
+        - Vin de pays des coteaux de l'Ardèche,
+        - Vin de pays des collines rhodaniennes,
+        - Vin de pays du comté Tolosan,
+        - Vin de pays des côtes de Gascogne,
+        - Vin de pays du Gers,
+        - Vin de pays du Lot,
+        - Vin de pays des côtes du Tarn,
+        - Vin de pays de la Corrèze,
+        - Vin de pays de l'Ile de Beauté,
+        - Vin de pays d'Oc,
+        - Vin de pays des côtes de Thau,
+        - Vin de pays des coteaux de Murviel,
+        - Vin de pays du Val de Loire,
+        - Vin de pays de Méditerranée,
+        - Vin de pays des comtés rhodaniens,
+        - Vin de pays des côtes de Thongue,
+        - Vin de pays de la Côte Vermeille,
+
+          ►**M2**
+        - Vin de pays de l'Agenais,
+        - Vin de pays des terroirs landais,
+        - Vin de pays des Landes,
+        - Vin de pays d'Allobrogie,
+        - Vin de pays du Var,
+
+          ◄**M2**
+      - søte viner med opprinnelse i Hellas som har en sann alkoholstyrke på 15 volumprosent eller høyere, og et sukkerinnhold på 45 gram per liter eller mer og som har rett til en av følgende beskyttede geografiske betegnelser:
+
+        - Toπικóς Oίνoς Tυρνάβoυ (Regional wine of Tyrnavos),
+        - Aχαϊκóς Toπικóς Oίνoς (Regional wine of Ahaia),
+        - Λακωνικóς Toπικóς Oίνoς (Regional wine of Lakonia),
+        - Toπικóς Oίνoς Φλώρινας (Regional wine of Florina),
+        - Toπικóς Oίνoς Kυκλάδων (Regional wine of Cyclades),
+        - Toπικóς Oίνoς Aργoλίδας (Regional wine of Argolida),
+        - Toπικóς Oίνoς Φιερίας (Regional wine of Pieria),
+        - Aγιoρείτικoς Toπικóς Oίνoς (Regional wine of Mount Athos – Regional wine of Holy Mountain),
+      - søte viner med opprinnelse i Kypros med en sann alkoholstyrke på 15 volumprosent eller lavere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til den beskyttede opprinnelsesbetegnelsen Koυμανδαρία (Commandaria),
+      - søte viner med opprinnelse i Kypros som er framstilt av overmodne druer eller av rosindruer med en sann alkoholstyrke på 15 volumprosent eller høyere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til en av følgende beskyttede geografiske betegnelser:
+
+        - Toπικóς Oίνoς Λεμεσóς (Regional wine of Lemesos),
+        - Toπικóς Oίνoς Φάφoς (Regional wine of Pafos),
+        - Toπικóς Oίνoς Λάρνακα (Regional wine of Larnaka),
+        - Toπικóς Oίνoς Λευκωσία (Regional wine of Lefkosia),
+
+        ►**M2**
+      - viner med opprinnelse i Malta med en total alkoholstyrke i volumprosent på 13,5 vol.-% eller over og et sukkerinnhold på 45 g/l eller over, og som oppfyller kravene til de beskyttede opprinnelsesbetegnelsene «Malta» og «Gozo».
+        ◄**M2**
+   4. 350 milligram per liter for
+
+      - viner som har rett til betegnelsen «Auslese» i samsvar med fellesskapsbestemmelsene,
+      - rumenske hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Murfatlar, Cotnari, Târnave, Pietroasa eller Valea Călugărească,
+      - viner fra Tsjekkia som har rett til betegnelsen «výběr z hroznů»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse som beskrives med uttrykket «výber z hrozna», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský másláš» eller «Tokajský forditáš»,
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – izbor»,
+
+        ►**M2**
+      - vin som oppfyller kravene til den tradisjonelle betegnelsen «Késői szüretelésű bor».
+
+        ◄**M2**
+
+        ►**M4**
+      - viner fra Italia av typen «aleatico» som har rett til den beskyttede opprinnelsesbetegnelsen «Pergola» og den tradisjonelle betegnelsen «passito»,
+
+        ◄**M4**
+   5. 400 milligram per liter for
+
+      - viner som har rett til betegnelsen «Beerenauslese», «Ausbruch», «Ausbruchwein», «Trockenbeerenauslese», «Strohwein», «Schilfwein» eller «Eiswein» i samsvar med fellesskapsbetemmelsene,
+      - hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Sauternes, Barsac, Cadillac, Cérons, Loupiac, Sainte-Croix-du-Mont, Monbazillac, Bonnezeaux, Quarts de Chaume, Coteaux du Layon, Coteaux de l'Aubance, Graves Supérieures, Sainte-Foy Bordeaux, Saussignac, Jurançon, med mindre de er etterfulgt av uttrykket «sec», Anjou-Coteaux de la Loire, Coteaux du Layon etterfulgt av navnet på opprinnelseskommunen, Chaume, Coteaux de Saumur, Pacherenc du Vic Bilh, med mindre de er etterfulgt av uttrykket «sec», Alsace et Alsace grand cru etterfulgt av uttrykket «vendanges tardives» eller «sélection de grains nobles»,
+      - søte viner med opprinnelse i Hellas framstilt av overmodne druer og av rosindruer med et restsukkerinnhold, uttrykt som sukker, på 45 gram per liter eller mer, og som har rett til en av de beskyttede opprinnelsesbetegnelsene Σάμoς (Samos), Póδoς (Rhodes), Φατρα (Patras), Pίo Φατρών (Rio Patron), Kεφαλoνία (Céphalonie), Λήμνoς (Limnos), Σητεία (Sitia), Σαντoρίνη (Santorin), Nεμέα (Néméa), Δαφνές (Daphnès), og søte viner som er framstilt av overmodne druer og rosindruer som har rett til en av de beskyttede geografiske betegnelsene Σιάτιστας (Siatista), Kαστoριάς (Kastoria), Kυκλάδων (Cyclades), Moνεμβάσιoς (Monemvasia), Aγιoρείτικoς (Mount Athos – Holy Mountain),
+      - viner fra Tsjekkia som har rett til betegnelsen «výběr z bobulí», «výběr z cibéb», «ledové víno» eller «slámové víno»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «bobuľový výber», «hrozienkový výber», «cibébový výber», «ľadové víno» eller «slamové víno», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský výber», «Tokajská esencia» eller «Tokajská výberová esencia»,
+
+        ►**M4**
+      - viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Tokaji máslás», «Tokaji fordítás», «Tokaji aszúeszencia», «Tokaji eszencia», «Tokaji aszú» eller «Töppedt szőlőből készült bor» eller «Jégbor»,
+
+        ◄**M4**
+      - viner som har rett til den beskyttede opprinnelsesbetegnelsen «Albana di Romagna» og beskrives med uttrykket «passito»,
+      - luxembourgske viner som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vendanges tardives», «vin de glace» eller «vin de paille»,
+
+        ►**M2**
+
+        ►**M3**
+      - viner fra Portugal som har rett til en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse samt angivelsen «colheita tardia».
+
+        ◄**M2**
+
+        ◄**M3**
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – jagodni izbor», «vrhunsko vino ZGP – ledeno vino» eller «vrhunsko vino ZGP – suhi jagodni izbor»,
+      - hvitviner med opprinnelse i Canada som har rett til betegnelsen «Icewine».
 3. Listene over de viner som har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som angitt i nr. 2 bokstav c), d) og e), kan endres dersom framstillingsvilkårene for de berørte viner endres eller opprinnelsesbetegnelsen eller den geografiske betegnelsen endres. Medlemsstatene skal på forhånd gi Kommisjonen all nødvendig teknisk dokumentasjon for de berørte viner, herunder deres produktspesifikasjoner og årlige produksjonsmengder.
 4. Når de klimatiske forhold gjør det nødvendig, kan Kommisjonen i samsvar med framgangsmåten nevnt i artikkel 113 nr. 2 i forordning (EG) nr. 479/2008 vedta at de berørte medlemsstater for vin framstilt på deres territorium i visse vindyrkingssoner i Fellesskapet, kan tillate at øvre grense for det totale svoveldioksidinnholdet på under 300 milligram per liter som nevnt i dette nummer, kan økes med høyst 50 milligram per liter. Listen over de tilfeller der medlemsstatene kan søke om slik økning, er gitt i tillegg 1.
 5. Medlemsstatene kan fastsette mer begrensende bestemmelser for vin framstilt på deres eget territorium.
@@ -1895,7 +2924,10 @@ Det totale svoveldioksidinnhold i sterkvin kan ved frigivelsen til direkte konsu
 
 ### C. Svoveldioksidinnhold i musserende vin
 
-1. Det totale svoveldioksidinnhold i musserende vin kan ved frigivelsen til direkte konsum ikke overstige:185 milligram per liter for alle kategorier av musserende kvalitetsviner, og235 milligram per liter for andre musserende viner.
+1. Det totale svoveldioksidinnhold i musserende vin kan ved frigivelsen til direkte konsum ikke overstige:
+
+   1. 185 milligram per liter for alle kategorier av musserende kvalitetsviner, og
+   2. 235 milligram per liter for andre musserende viner.
 2. Når de klimatiske forhold i visse vindyrkingssoner i Fellesskapet gjør det nødvendig, kan de berørte medlemsstater tillate at grenseverdien for svoveldioksidinnhold økes med høyst 40 milligram per liter for musserende viner som er nevnt i nr. 1 bokstav a) og b) som er framstilt på deres territorium, forutsatt at vinene som omfattes av denne godkjenning, ikke sendes ut fra den berørte medlemsstat.
 
 ### ► **M8** Tillegg 1
@@ -1914,54 +2946,182 @@ Det totale svoveldioksidinnhold i sterkvin kan ved frigivelsen til direkte konsu
 ### Vedlegg I C
 Grenseverdier for innhold av flyktig syre i vin
 
-1. Innholdet av flyktig syre kan ikke overstige18 milliekvivalenter per liter for druemost i gjæring,18 milliekvivalenter per liter for hvitviner og roséviner, eller20 milliekvivalenter per liter for rødviner,
-2. Mengdene nevnt i nr. 1, skal gjeldefor produkter som er framstilt av druer høstet i Fellesskapet, i framstillingsleddet og i alle omsetningsledd,for druemost i gjæring og viner med opprinnelse i tredjestater, i alle ledd etter innførsel til Fellesskapets geografiske territorium.
-3. Det kan gis unntak fra nr. 1for visse viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelsedersom de har vært modnet i minst to år, ellerdersom de er framstilt etter særlige metoder,viner med en total alkoholstyrke på minst 13 volumprosent.Medlemsstatene må underrette Kommisjonen om disse unntakene, og Kommisjonen må underrette de øvrige medlemsstatene.
+1. Innholdet av flyktig syre kan ikke overstige
+
+   1. 18 milliekvivalenter per liter for druemost i gjæring,
+   2. 18 milliekvivalenter per liter for hvitviner og roséviner, eller
+   3. 20 milliekvivalenter per liter for rødviner,
+2. Mengdene nevnt i nr. 1, skal gjelde
+
+   1. for produkter som er framstilt av druer høstet i Fellesskapet, i framstillingsleddet og i alle omsetningsledd,
+   2. for druemost i gjæring og viner med opprinnelse i tredjestater, i alle ledd etter innførsel til Fellesskapets geografiske territorium.
+3. Det kan gis unntak fra nr. 1
+
+   1. for visse viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse
+
+      - dersom de har vært modnet i minst to år, eller
+      - dersom de er framstilt etter særlige metoder,
+   2. viner med en total alkoholstyrke på minst 13 volumprosent.
+
+   Medlemsstatene må underrette Kommisjonen om disse unntakene, og Kommisjonen må underrette de øvrige medlemsstatene.
 
 ### Vedlegg I D
 Grenseverdier og vilkår for søtning av vin
 
-1. Søtning av vin er bare tillatt ved hjelp av ett eller flere av følgende produkter:druemost,konsentrert druemost,rektifisert konsentrert druemost.Den berørte vinens totale alkoholstyrke kan ikke økes med mer enn 4 volumprosent.
+1. Søtning av vin er bare tillatt ved hjelp av ett eller flere av følgende produkter:
+
+   1. druemost,
+   2. konsentrert druemost,
+   3. rektifisert konsentrert druemost.
+
+   Den berørte vinens totale alkoholstyrke kan ikke økes med mer enn 4 volumprosent.
 2. Søtning av importerte viner som er beregnet på direkte konsum og som har en geografisk betegnelse, er forbudt på Fellesskapets territorium. For søtning av andre importerte viner gjelder de samme vilkår som for viner framstilt i Fellesskapet.
-3. Søtning av vin som har en beskyttet opprinnelsesbetegnelse, kan tillates av en medlemsstat bare dersom den utføresi samsvar med vilkårene og grenseverdiene fastsatt i dette vedlegg,i samme region som vinen ble framstilt i eller i et umiddelbart underliggende område.Druemost og konsentrert druemost som nevnt i nr. 1 skal ha opprinnelse i det samme område som den vinen den brukes til søtning av.
+3. Søtning av vin som har en beskyttet opprinnelsesbetegnelse, kan tillates av en medlemsstat bare dersom den utføres
+
+   1. i samsvar med vilkårene og grenseverdiene fastsatt i dette vedlegg,
+   2. i samme region som vinen ble framstilt i eller i et umiddelbart underliggende område.
+
+   Druemost og konsentrert druemost som nevnt i nr. 1 skal ha opprinnelse i det samme område som den vinen den brukes til søtning av.
 4. Søtning av vin er tillatt bare i framstillings- og engrosleddet.
-5. Søtning av vin skal utføres bare i samsvar med følgende særskilte administrative bestemmelser:Fysiske eller juridiske personer som planlegger å utføre søtning, skal underrette vedkommende myndighet i medlemsstaten på hvis territorium prosessen skal finne sted.Underretningen skal gis skriftlig. Den skal være vedkommende myndighet i hende minst 48 timer før den dagen søtningen skal finne sted.Dersom et foretak ofte eller kontinuerlig foretar søtning av vin, kan medlemsstatene tillate at vedkommende myndigheter gis en underretning som dekker flere prosesser eller en bestemt periode. En slik underretning skal bare godtas dersom foretaket fører et skriftlig register over hver enkelt søtning og de opplysninger som er nevnt i bokstav d).Underretningene skal inneholde følgende opplysninger:mengden og total og sann alkoholstyrke i vinen som skal søtes,mengden og total og sann alkoholstyrke i den druemost eller mengden og tettheten av den konsentrerte druemost eller rektifiserte druemost som skal tilsettes, alt etter som,total og sann alkoholstyrke i vinen etter søtning.De personer som er nevnt i bokstav a), skal føre inngangs- og utgangsregistre med angivelse av de mengder druemost, konsentrert druemost eller rektifisert konsentrert druemost som de innehar for søtningsformål.
+5. Søtning av vin skal utføres bare i samsvar med følgende særskilte administrative bestemmelser:
+
+   1. Fysiske eller juridiske personer som planlegger å utføre søtning, skal underrette vedkommende myndighet i medlemsstaten på hvis territorium prosessen skal finne sted.
+   2. Underretningen skal gis skriftlig. Den skal være vedkommende myndighet i hende minst 48 timer før den dagen søtningen skal finne sted.
+   3. Dersom et foretak ofte eller kontinuerlig foretar søtning av vin, kan medlemsstatene tillate at vedkommende myndigheter gis en underretning som dekker flere prosesser eller en bestemt periode. En slik underretning skal bare godtas dersom foretaket fører et skriftlig register over hver enkelt søtning og de opplysninger som er nevnt i bokstav d).
+   4. Underretningene skal inneholde følgende opplysninger:
+
+      - mengden og total og sann alkoholstyrke i vinen som skal søtes,
+      - mengden og total og sann alkoholstyrke i den druemost eller mengden og tettheten av den konsentrerte druemost eller rektifiserte druemost som skal tilsettes, alt etter som,
+      - total og sann alkoholstyrke i vinen etter søtning.
+
+   De personer som er nevnt i bokstav a), skal føre inngangs- og utgangsregistre med angivelse av de mengder druemost, konsentrert druemost eller rektifisert konsentrert druemost som de innehar for søtningsformål.
 
 ### Vedlegg II
 Tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for musserende viner, musserende kvalitetsviner og musserende kvalitetsviner av aromatisk type
 
 ### A. Musserende vin
 
-1. I denne bokstav og bokstav B og C i dette vedlegg menes med«sukker- og gjærløsning»det produkt som tilsettes vinblandingen for å få i stand annengangsgjæring,«etterfyllingsvæske for søtningsgrad»det produkt som tilsettes musserende viner for å gi dem spesielle smakskvaliteter.
-2. Etterfyllingsvæsken for søtningsgrad kan bare inneholdesukrose,druemost,druemost i gjæring,konsentrert druemost,rektifisert konsentrert druemost,vin elleren blanding av dette,med eventuell tilsetting av vindestillat.
+1. I denne bokstav og bokstav B og C i dette vedlegg menes med
+
+   1. «sukker- og gjærløsning»
+
+      det produkt som tilsettes vinblandingen for å få i stand annengangsgjæring,
+   2. «etterfyllingsvæske for søtningsgrad»
+
+      det produkt som tilsettes musserende viner for å gi dem spesielle smakskvaliteter.
+2. Etterfyllingsvæsken for søtningsgrad kan bare inneholde
+
+   - sukrose,
+   - druemost,
+   - druemost i gjæring,
+   - konsentrert druemost,
+   - rektifisert konsentrert druemost,
+   - vin eller
+   - en blanding av dette,
+
+   med eventuell tilsetting av vindestillat.
 3. Med forbehold for den anriking av bestanddelene i vinblandingen som er tillatt i henhold til forordning [(EF) nr. 479/2008](eu/32008r0479*), skal all anriking av vinblandingen være forbudt.
-4. Hver medlemsstat kan imidlertid, for regioner og sorter der det er teknisk berettiget, tillate anriking av vinblandingen på det sted der de musserende viner framstilles, under forutsetning av atingen av bestanddelene i vinblandingen er tidligere blitt anriket,nevnte bestanddeler stammer utelukkende fra druer høstet på dens territorium,anrikingen utføres i en enkelt prosess,følgende grenser ikke overstiges:3 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone A,2 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone B,1,5 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone C,metoden som brukes, består i tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost.
+4. Hver medlemsstat kan imidlertid, for regioner og sorter der det er teknisk berettiget, tillate anriking av vinblandingen på det sted der de musserende viner framstilles, under forutsetning av at
+
+   1. ingen av bestanddelene i vinblandingen er tidligere blitt anriket,
+   2. nevnte bestanddeler stammer utelukkende fra druer høstet på dens territorium,
+   3. anrikingen utføres i en enkelt prosess,
+   4. følgende grenser ikke overstiges:
+
+      1. 3 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone A,
+      2. 2 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone B,
+      3. 1,5 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone C,
+   5. metoden som brukes, består i tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost.
 5. Tilsetting av sukker- og gjærløsning og etterfyllingsvæske for søtningsgrad skal verken anses som anriking eller søtning. Tilsetting av sukker- og gjærløsning må ikke forårsake en økning i vinblandingens totale alkoholstyrke på mer enn 1,5 volumprosent. Denne økningen måles ved å beregne forskjellen mellom vinblandingens totale alkoholstyrke i volumprosent og den musserende vinens totale alkoholstyrke i volumprosent før tilsetting av etterfyllingsvæske for søtningsgrad.
 6. Etterfyllingsvæsken for søtningsgrad skal tilsettes på en slik måte at de musserende viners sanne alkoholstyrke ikke økes med mer enn 0,5 volumprosent.
 7. Søtning av vinblandingen og dens bestanddeler skal være forbudt.
 8. I tillegg til eventuell syrning eller avsyrning av bestanddelene i vinblandingen i samsvar med forordning [(EF) nr. 479/2008](eu/32008r0479*), kan vinblandingen syrnes eller avsyrnes. Syrning og avsyrning av vinblandingen skal gjensidig utelukke hverandre. Syrning kan bare utføres opp til en øvre grense på 1,5 gram per liter, uttrykt som vinsyre, dvs. 20 milliekvivalenter per liter.
 9. I år med uvanlige klimatiske forhold kan den øvre grense på 1,5 gram per liter, eller 20 milliekvivalenter per liter, heves til 2,5 gram per liter, eller 34 milliekvivalenter per liter, forutsatt at det naturlige syreinnholdet i produktene ikke er mindre enn 3 gram per liter, uttrykt som vinsyre, eller 40 milliekvivalenter per liter.
-10. Innholdet av karbondioksid i musserende viner kan bare være et resultat av alkoholgjæringen i den vinblandingen som vinen er framstilt av.Gjæringen kan, med mindre den skal omdanne druer, druemost eller druemost i gjæring, direkte til musserende vin, bare være et resultat av tilsetting av sukker- og gjærløsning. Den kan bare finne sted på flasker eller lukkede tanker.►**M4**Bruk av karbondioksid i prosessen med omstikking ved mottrykk skal være tillatt under tilsyn og forutsatt at den uunngåelige gassutvekslingen med karbondioksid fra alkoholgjæringen i vinblandingen ikke øker trykket av karbondioksid i musserende viner.◄**M4**
-11. For andre musserende viner enn musserende viner med beskyttet opprinnelsesbetegnelse gjelder følgende:sukker- og gjærløsningen beregnet på framstilling av musserende viner, skal bare inneholdedruemost,druemost i gjæring,konsentrert druemost,rektifisert konsentrert druemost ellersukrose og vin,sann alkoholstyrke, herunder alkoholen i den etterfyllingsvæske for søtningsgrad som eventuelt er tilsatt, skal være på minst 9,5 volumprosent.
+10. Innholdet av karbondioksid i musserende viner kan bare være et resultat av alkoholgjæringen i den vinblandingen som vinen er framstilt av.
+
+    Gjæringen kan, med mindre den skal omdanne druer, druemost eller druemost i gjæring, direkte til musserende vin, bare være et resultat av tilsetting av sukker- og gjærløsning. Den kan bare finne sted på flasker eller lukkede tanker.
+
+    ►**M4**
+
+    Bruk av karbondioksid i prosessen med omstikking ved mottrykk skal være tillatt under tilsyn og forutsatt at den uunngåelige gassutvekslingen med karbondioksid fra alkoholgjæringen i vinblandingen ikke øker trykket av karbondioksid i musserende viner.
+
+    ◄**M4**
+11. For andre musserende viner enn musserende viner med beskyttet opprinnelsesbetegnelse gjelder følgende:
+
+    1. sukker- og gjærløsningen beregnet på framstilling av musserende viner, skal bare inneholde
+
+       - druemost,
+       - druemost i gjæring,
+       - konsentrert druemost,
+       - rektifisert konsentrert druemost eller
+       - sukrose og vin,
+    2. sann alkoholstyrke, herunder alkoholen i den etterfyllingsvæske for søtningsgrad som eventuelt er tilsatt, skal være på minst 9,5 volumprosent.
 
 ### B. Musserende kvalitetsvin
 
-1. Sukker- og gjærløsningen beregnet på framstilling av musserende kvalitetsvin, kan bare inneholdesukrose,konsentrert druemost,rektifisert konsentrert druemost,druemost eller druemost i gjæring, ellervin.
+1. Sukker- og gjærløsningen beregnet på framstilling av musserende kvalitetsvin, kan bare inneholde
+
+   1. sukrose,
+   2. konsentrert druemost,
+   3. rektifisert konsentrert druemost,
+   4. druemost eller druemost i gjæring, eller
+   5. vin.
 2. Produsentmedlemsstatene kan fastlegge ytterligere eller strengere kjennetegn og vilkår for framstilling og omsetning av musserende kvalitetsviner nevnt i denne avdeling som er framstilt på deres territorium.
-3. Framstillingen av musserende kvalitetsviner er også underlagt reglene nevnt ibokstav A nr. 1–10,bokstav C nr. 3 om sann alkoholstyrke, bokstav C nr. 5 om laveste overtrykk og bokstav C nr. 6 og 7 om korteste tid for framstillingsprosessen, uten hensyn til nr. 4 bokstav d) i dette nummer,
-4. For musserende kvalitetsviner av aromatisk type gjelder følgende:med mindre det innrømmes unntak, kan de framstilles bare ved bruk av druemost eller druemost i gjæring som er laget av vinstokksortene oppført på listen i vedlegg I, som eneste bestanddel i vinblandingen. ►**M1** Musserende kvalitetsviner av aromatisk type kan imidlertid framstilles på tradisjonell måte ved å bruke viner som lages av druer av vinstokksorten «Glera», som høstes i regionene, Veneto og Friuli-Venezia Giulia, som bestanddeler i vinblandingen, ◄**M1**bare kjøling eller andre fysiske prosesser kan brukes for å styre gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende,tilsetting av etterfyllingsvæske for søtningsgrad skal være forbudt,for musserende kvalitetsviner av aromatisk type skal framstillingsprosessen vare minst en måned.
+3. Framstillingen av musserende kvalitetsviner er også underlagt reglene nevnt i
+
+   - bokstav A nr. 1–10,
+   - bokstav C nr. 3 om sann alkoholstyrke, bokstav C nr. 5 om laveste overtrykk og bokstav C nr. 6 og 7 om korteste tid for framstillingsprosessen, uten hensyn til nr. 4 bokstav d) i dette nummer,
+4. For musserende kvalitetsviner av aromatisk type gjelder følgende:
+
+   1. med mindre det innrømmes unntak, kan de framstilles bare ved bruk av druemost eller druemost i gjæring som er laget av vinstokksortene oppført på listen i vedlegg I, som eneste bestanddel i vinblandingen. ►**M1** Musserende kvalitetsviner av aromatisk type kan imidlertid framstilles på tradisjonell måte ved å bruke viner som lages av druer av vinstokksorten «Glera», som høstes i regionene, Veneto og Friuli-Venezia Giulia, som bestanddeler i vinblandingen, ◄**M1**
+   2. bare kjøling eller andre fysiske prosesser kan brukes for å styre gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende,
+   3. tilsetting av etterfyllingsvæske for søtningsgrad skal være forbudt,
+   4. for musserende kvalitetsviner av aromatisk type skal framstillingsprosessen vare minst en måned.
 
 ### C. Musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse
 
-1. Total alkoholstyrke i volumprosent i vinblandinger som er beregnet på framstilling av musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, skal ikke være lavere enn9,5 volumprosent i vindyrkingssone C III,9 volumprosent i andre vindyrkingssoner.►**M1**
-2. Vinblandinger beregnet på framstilling av musserende kvalitetsvin med de beskyttede opprinnelsesbetegnelsene «Prosecco», «Conegliano Valdobbiadene – Prosecco» og «Colli Asolani – Prosecco» eller «Asolo – Prosecco», og som framstilles av en eneste vinstokksort, kan imidlertid ha en total alkoholstyrke på minst 8,5 vol.-%.◄**M1**
+1. Total alkoholstyrke i volumprosent i vinblandinger som er beregnet på framstilling av musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, skal ikke være lavere enn
+
+   - 9,5 volumprosent i vindyrkingssone C III,
+   - 9 volumprosent i andre vindyrkingssoner.
+
+   ►**M1**
+2. Vinblandinger beregnet på framstilling av musserende kvalitetsvin med de beskyttede opprinnelsesbetegnelsene «Prosecco», «Conegliano Valdobbiadene – Prosecco» og «Colli Asolani – Prosecco» eller «Asolo – Prosecco», og som framstilles av en eneste vinstokksort, kan imidlertid ha en total alkoholstyrke på minst 8,5 vol.-%.
+
+   ◄**M1**
 3. Sann alkoholstyrke for musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, inklusive alkoholen i den etterfyllingsvæske for søtningsgrad som eventuelt er tilsatt, skal være minst 10 volumprosent.
-4. Sukker- og gjærløsningen for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse kan bare inneholdesukrose,konsentrert druemost,rektifisert konsentrert druemost,ogdruemost,druemost i gjæring,vin,som er egnet til å framstille samme musserende vin eller musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse som den som sukker- og gjærløsningen tilsettes.
+4. Sukker- og gjærløsningen for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse kan bare inneholde
+
+   1. sukrose,
+   2. konsentrert druemost,
+   3. rektifisert konsentrert druemost,
+
+   og
+
+   1. druemost,
+   2. druemost i gjæring,
+   3. vin,
+
+   som er egnet til å framstille samme musserende vin eller musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse som den som sukker- og gjærløsningen tilsettes.
 5. Med forbehold for nr. 5 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere som inneholder mindre enn 25 cl ved en temperatur på 20 °C.
-6. Varigheten av prosessen med å framstille musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, herunder modning i foretaket der de er framstilt, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinen musserende, må ikke være underseks måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på lukkede tanker,ni måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på flasker.
-7. Gjæringsprosessen som skal gjøre vinblandingen musserende, og det tidsrommet vinblandingen skal ligge på bermen, skal minst være90 dager,30 dager, dersom gjæringsprosessen finner sted i beholdere med røreverk.
+6. Varigheten av prosessen med å framstille musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, herunder modning i foretaket der de er framstilt, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinen musserende, må ikke være under
+
+   1. seks måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på lukkede tanker,
+   2. ni måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på flasker.
+7. Gjæringsprosessen som skal gjøre vinblandingen musserende, og det tidsrommet vinblandingen skal ligge på bermen, skal minst være
+
+   - 90 dager,
+   - 30 dager, dersom gjæringsprosessen finner sted i beholdere med røreverk.
 8. Reglene fastsatt i bokstav A nr. 1–10 og bokstav B nr. 2 skal også gjelde for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse.
-9. For musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse gjelder følgende:slike viner kan framstilles bare ved å bruke som eneste bestanddel i vinblandingen, druemost eller druemost i gjæring som er laget av vinstokksortene som er oppført i vedlegg I, forutsatt at disse sortene er anerkjent som egnet for framstilling av musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse i den region som den musserende kvalitetsvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter. ►**M1** Som et unntak kan en musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse framstilles ved å bruke som bestanddeler i vinblandingen druer av vinstokksorten «Glera», høstet i regionene til opprinnelsesbetegnelsene «Prosecco», «Conegliano-Valdobbiadene – Prosecco», «Colli Asolani – Prosecco» og «Asolo – Prosecco», ◄**M1**bare kjøling eller andre fysiske prosesser kan brukes for å styre gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende,tilsetting av etterfyllingsvæske for søtningsgrad skal være forbudt,sann alkoholstyrke i musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 6 volumprosent,total alkoholstyrke i musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 10 volumprosent,musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere ved en temperatur på 20 °C,med forbehold for bokstav C nr. 6 skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse ikke være under én måned.
+9. For musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse gjelder følgende:
+
+   1. slike viner kan framstilles bare ved å bruke som eneste bestanddel i vinblandingen, druemost eller druemost i gjæring som er laget av vinstokksortene som er oppført i vedlegg I, forutsatt at disse sortene er anerkjent som egnet for framstilling av musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse i den region som den musserende kvalitetsvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter. ►**M1** Som et unntak kan en musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse framstilles ved å bruke som bestanddeler i vinblandingen druer av vinstokksorten «Glera», høstet i regionene til opprinnelsesbetegnelsene «Prosecco», «Conegliano-Valdobbiadene – Prosecco», «Colli Asolani – Prosecco» og «Asolo – Prosecco», ◄**M1**
+   2. bare kjøling eller andre fysiske prosesser kan brukes for å styre gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende,
+   3. tilsetting av etterfyllingsvæske for søtningsgrad skal være forbudt,
+   4. sann alkoholstyrke i musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 6 volumprosent,
+   5. total alkoholstyrke i musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 10 volumprosent,
+   6. musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere ved en temperatur på 20 °C,
+   7. med forbehold for bokstav C nr. 6 skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse ikke være under én måned.
 
 ### Tillegg 1
 Liste over vinstokksorter som gir druer som kan brukes som bestanddeler i vinblandingen til musserende kvalitetsviner av aromatisk type og musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse
@@ -2000,9 +3160,24 @@ Tillatte ønologiske framgangsmåter og restriksjoner som gjelder for sterkviner
 ### A. Sterkviner
 
 1. Produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) og som brukes til framstilling av sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, kan eventuelt ha gjennomgått bare de ønologiske framstillingsmåter og behandlingsmetoder som er nevnt i forordning [(EF) nr. 479/2008](eu/32008r0479*) eller denne forordning.
-2. Imidlertid gjelder følgende:økningen i naturlig alkoholstyrke i volumprosent kan bare skyldes bruken av produktene nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), ogsom et unntak bemyndiges Spania til å tillate bruken av kalsiumsulfat til spanske viner med den tradisjonelle betegnelsen «vino generoso» eller «vino generoso de licor» der dette er en tradisjonell metode, forutsatt at sulfatinnholdet i det behandlede produkt ikke overstiger 2,5 gram per liter, uttrykt som kaliumsulfat. Disse produkter kan gjennomgå ytterligere syrning inntil 1,5 gram per liter.
+2. Imidlertid gjelder følgende:
+
+   1. økningen i naturlig alkoholstyrke i volumprosent kan bare skyldes bruken av produktene nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), og
+   2. som et unntak bemyndiges Spania til å tillate bruken av kalsiumsulfat til spanske viner med den tradisjonelle betegnelsen «vino generoso» eller «vino generoso de licor» der dette er en tradisjonell metode, forutsatt at sulfatinnholdet i det behandlede produkt ikke overstiger 2,5 gram per liter, uttrykt som kaliumsulfat. Disse produkter kan gjennomgå ytterligere syrning inntil 1,5 gram per liter.
 3. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner og sterkviner med beskyttet opprinnelsesbestemmelse eller beskyttet geografiske betegnelse framstilt på deres territorium, skal de ønologiske framstillingsmåter nevnt i forordning [(EF) nr. 479/2008](eu/32008r0479*) og i denne forordning, være tillatt for disse produkter.
-4. I tillegg tillatessøtning, forutsatt at oppgave over framgangsmåten leveres og registreres, når de benyttede produktene ikke er anriket med konsentrert druemost, ved hjelp avkonsentrert druemost eller rektifisert konsentrert druemost, forutsatt at den aktuelle vinens totale alkoholstyrke høyst øker med 3 volumprosent,►**M2**konsentrert druemost, rektifisert konsentrert druemost eller druemost av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, for spanske viner som beskrives med den tradisjonelle betegnelsen «vino generoso de licor», forutsatt at den aktuelle vinens totale alkoholstyrke i volumprosent øker med høyst 8 vol.-%,◄**M2**konsentrert druemost eller rektifisert konsentrert druemost for sterkviner med den beskyttede opprinnelsesbetegnelse «Madeira», forutsatt at den aktuelle vinens totale alkoholstyrke høyst øker med 8 volumprosent,tilsetting av alkohol, destillat eller brennevin, som nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), for å dekke tap som skyldes fordamping under lagring,lagring i beholdere ved en temperatur på høyst 50 °C for sterkviner med den beskyttede opprinnelsesbetegnelse «Madeira».
+4. I tillegg tillates
+
+   1. søtning, forutsatt at oppgave over framgangsmåten leveres og registreres, når de benyttede produktene ikke er anriket med konsentrert druemost, ved hjelp av
+
+      - konsentrert druemost eller rektifisert konsentrert druemost, forutsatt at den aktuelle vinens totale alkoholstyrke høyst øker med 3 volumprosent,
+
+        ►**M2**
+      - konsentrert druemost, rektifisert konsentrert druemost eller druemost av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, for spanske viner som beskrives med den tradisjonelle betegnelsen «vino generoso de licor», forutsatt at den aktuelle vinens totale alkoholstyrke i volumprosent øker med høyst 8 vol.-%,
+
+        ◄**M2**
+      - konsentrert druemost eller rektifisert konsentrert druemost for sterkviner med den beskyttede opprinnelsesbetegnelse «Madeira», forutsatt at den aktuelle vinens totale alkoholstyrke høyst øker med 8 volumprosent,
+   2. tilsetting av alkohol, destillat eller brennevin, som nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), for å dekke tap som skyldes fordamping under lagring,
+   3. lagring i beholdere ved en temperatur på høyst 50 °C for sterkviner med den beskyttede opprinnelsesbetegnelse «Madeira».
 5. Vinstokksortene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som brukes til framstilling av sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, skal velges blant dem som er nevnt i artikkel 24 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
 6. Den naturlige alkoholstyrke i produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som benyttes ved framstilling av andre sterkviner enn sterkvin med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, skal være minst 12 volumprosent.
 
@@ -2010,14 +3185,60 @@ Tillatte ønologiske framgangsmåter og restriksjoner som gjelder for sterkviner
 
 1. Listen over sterkviner med beskyttet opprinnelsesbetegnelse til hvis framstilling det anvendes druemost eller en blanding av druemost og vin, som nevnt i nr. 3 bokstav c) fjerde ledd i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), er gitt i tillegg I A til dette vedlegg.
 2. Listen over sterkviner med beskyttet opprinnelsesbetegnelse som det er tillatt å tilsette de produkter som er nevnt i nr. 3 bokstav f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), er gitt i vedlegg 1 B til dette tillegg.
-3. Produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) og konsentrert druemost og druemost i gjæring av rosindruer som nevnt i nr. 3 bokstav f) iii) i nevnte vedlegg IV, som brukes til framstilling av sterkviner med beskyttet opprinnelsesbetegnelse, må komme fra den region som sterkvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter.►**M2**Når det gjelder sterkvin med de beskyttede opprinnelsesbetegnelsene «Malaga» og «Jerez-Xérès-Sherry», kan den druemosten av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, og som er framstilt av vinstokksorten «Pedro Ximénez», imidlertid komme fra regionen «Montilla-Moriles».◄**M2**
-4. Prosessene nevnt i bokstav A nr. 1–4 i dette vedlegg for framstilling av sterkvin med beskyttet opprinnelsesbetegnelse kan utføres bare i regionen nevnt i nr. 3.Med hensyn til sterkvin med beskyttet opprinnelsesbetegnelse der betegnelsen «Porto» er forbeholdt produkter som er framstilt av druer som stammer fra regionen «Douro», kan imidlertid ytterligere framstillings- og lagringsprosesser finne sted enten i ovennevnte region eller i Vila Nova de Gaia-Porto.
-5. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, gjelder følgende:Den naturlige alkoholstyrke i produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som benyttes til framstilling av sterkvin med beskyttet opprinnelsesbetegnelse, skal være minst 12 volumprosent. Enkelte sterkviner med beskyttet opprinnelselsbetegnelse som er oppført på en av listene i vedlegg 2A til dette vedlegg, kan imidlertid framstillesav druemost med en naturlig alkoholstyrke på minst 10 volumprosent dersom det dreier seg om sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av brennevin av vin eller av pressrester av druer som har en opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet, ellerav druemost i gjæring eller, med hensyn til annet strekpunkt nedenfor, av vin med en opprinnelig naturlig alkoholstyrke på minst11 volumprosent når det gjelder sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av nøytral alkohol, vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin framstilt av vin,10,5 volumprosent for viner framstilt av most av grønne druer nevnt i liste 3 i vedlegg 2 A,9 volumprosent når det gjelder sterkvin med den beskyttede opprinnelsesbetegnelse «Madeira», som er framstilt på tradisjonell og sedvanlig måte i samsvar med nasjonal lovgivning, som inneholder uttrykkelige bestemmelser for slik vin,listen over sterkviner med beskyttet opprinnelsesbetegnelse som med forbehold for nr. 3 bokstav b) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) har en total alkoholstyrke på høyst 17,5 volumprosent men ikke under 15 volumprosent, dersom dette var uttrykkelig fastsatt i gjeldende nasjonal lovgivning om slike produkter før 1. januar 1985, er gitt i vedlegg 2 B.
-6. De tradisjonelle særbetegnelsene «oίνoς γλυκύς φυσικóς», «vino dulce natural», «vino dolce naturale» og «vinho doce natural» skal brukes bare for sterkviner med beskyttet opprinnelsesbetegnelse somer framstilt av høstede druer der minst 85 % stammer fra vinstokksortene som er oppført på listen i vedlegg 3,stammer fra most med et opprinnelig naturlig sukkerinnhold på minst 212 gram per liter,er framstilt ved tilsetting av alkohol, destillat eller brennevin, som nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), uten noen annen form for anriking,
-7. I den utstrekning tradisjonelle framstillingsmåter krever det, kan medlemsstatene med hensyn til sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, fastsette at den tradisjonelle særbetegnelsen «vin doux naturel» skal være forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse somer framstilt direkte av produsentene som høster druene, som utelukkende kan være av sortene Muscat, Grenache, Maccabéo eller Malvoisie; avling fra vingårder som også er beplantet med andre vinstokksorter enn de fire nevnt ovenfor, kan imidlertid tas med dersom de ikke utgjør mer enn 10 % av det samlede antall vinstokker,er framstilt med en avlingsbegrensning per hektar på 40 hektoliter druemost som nevnt i nr. 3 bokstav c) første og fjerde strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), idet enhver overskridelse av avlingsbegrensningen vil medføre at hele avlingen mister retten til betegnelsen «vin doux naturel»,er framstilt av druemost med et opprinnelig naturlig sukkerinnhold på minst 252 gram per liter,er framstilt, uten noen annen form for anriking, ved tilsetting av alkohol fra vin som i ren alkohol svarer til minst 5 % av den benyttede mengde druemost nevnt over, og til høyst den minste av følgende to størrelser:enten 10 prosent av den benyttede mengde druemost nevnt over, eller40 prosent av det ferdige produkts totale alkoholstyrke i volumprosent, som består av summen av den sanne alkoholstyrken i volumprosent og det som svarer til den potensielle alkoholstyrken i volumprosent beregnet på grunnlag av 1 volumprosent ren alkohol per 17,5 gram per liter restsukker.►**M3**
-8. Når det gjelder sterkvin, skal den tradisjonelle særbetegnelsen «vino generoso» brukes bare for tørre sterkviner med beskyttet opprinnelsesbetegnelse som er utviklet helt eller delvis «sous voile» (under dekke) og som◄**M3**er framstilt av grønne druer av vinstokksortene Palomino de Jerez, Palomino fino, Pedro Ximénez, Verdejo, Zalema og Garrido Fino,frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.Med framstilling «sous voile» (under dekke) nevnt i første ledd, menes den biologiske prosessen som tilfører produktet særlige analytiske og organoleptiske egenskaper ved spontan dannelse av et dekke av typisk gjær på vinens frie overflate etter fullstendig alkoholgjæring av mosten.
+3. Produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) og konsentrert druemost og druemost i gjæring av rosindruer som nevnt i nr. 3 bokstav f) iii) i nevnte vedlegg IV, som brukes til framstilling av sterkviner med beskyttet opprinnelsesbetegnelse, må komme fra den region som sterkvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter.
+
+   ►**M2**
+
+   Når det gjelder sterkvin med de beskyttede opprinnelsesbetegnelsene «Malaga» og «Jerez-Xérès-Sherry», kan den druemosten av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, og som er framstilt av vinstokksorten «Pedro Ximénez», imidlertid komme fra regionen «Montilla-Moriles».
+
+   ◄**M2**
+4. Prosessene nevnt i bokstav A nr. 1–4 i dette vedlegg for framstilling av sterkvin med beskyttet opprinnelsesbetegnelse kan utføres bare i regionen nevnt i nr. 3.
+
+   Med hensyn til sterkvin med beskyttet opprinnelsesbetegnelse der betegnelsen «Porto» er forbeholdt produkter som er framstilt av druer som stammer fra regionen «Douro», kan imidlertid ytterligere framstillings- og lagringsprosesser finne sted enten i ovennevnte region eller i Vila Nova de Gaia-Porto.
+5. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, gjelder følgende:
+
+   1. Den naturlige alkoholstyrke i produktene nevnt i nr. 3 bokstav c) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) som benyttes til framstilling av sterkvin med beskyttet opprinnelsesbetegnelse, skal være minst 12 volumprosent. Enkelte sterkviner med beskyttet opprinnelselsbetegnelse som er oppført på en av listene i vedlegg 2A til dette vedlegg, kan imidlertid framstilles
+
+      1. av druemost med en naturlig alkoholstyrke på minst 10 volumprosent dersom det dreier seg om sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av brennevin av vin eller av pressrester av druer som har en opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet, eller
+      2. av druemost i gjæring eller, med hensyn til annet strekpunkt nedenfor, av vin med en opprinnelig naturlig alkoholstyrke på minst
+
+         - 11 volumprosent når det gjelder sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av nøytral alkohol, vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin framstilt av vin,
+         - 10,5 volumprosent for viner framstilt av most av grønne druer nevnt i liste 3 i vedlegg 2 A,
+         - 9 volumprosent når det gjelder sterkvin med den beskyttede opprinnelsesbetegnelse «Madeira», som er framstilt på tradisjonell og sedvanlig måte i samsvar med nasjonal lovgivning, som inneholder uttrykkelige bestemmelser for slik vin,
+   2. listen over sterkviner med beskyttet opprinnelsesbetegnelse som med forbehold for nr. 3 bokstav b) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) har en total alkoholstyrke på høyst 17,5 volumprosent men ikke under 15 volumprosent, dersom dette var uttrykkelig fastsatt i gjeldende nasjonal lovgivning om slike produkter før 1. januar 1985, er gitt i vedlegg 2 B.
+6. De tradisjonelle særbetegnelsene «oίνoς γλυκύς φυσικóς», «vino dulce natural», «vino dolce naturale» og «vinho doce natural» skal brukes bare for sterkviner med beskyttet opprinnelsesbetegnelse som
+
+   - er framstilt av høstede druer der minst 85 % stammer fra vinstokksortene som er oppført på listen i vedlegg 3,
+   - stammer fra most med et opprinnelig naturlig sukkerinnhold på minst 212 gram per liter,
+   - er framstilt ved tilsetting av alkohol, destillat eller brennevin, som nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), uten noen annen form for anriking,
+7. I den utstrekning tradisjonelle framstillingsmåter krever det, kan medlemsstatene med hensyn til sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, fastsette at den tradisjonelle særbetegnelsen «vin doux naturel» skal være forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse som
+
+   - er framstilt direkte av produsentene som høster druene, som utelukkende kan være av sortene Muscat, Grenache, Maccabéo eller Malvoisie; avling fra vingårder som også er beplantet med andre vinstokksorter enn de fire nevnt ovenfor, kan imidlertid tas med dersom de ikke utgjør mer enn 10 % av det samlede antall vinstokker,
+   - er framstilt med en avlingsbegrensning per hektar på 40 hektoliter druemost som nevnt i nr. 3 bokstav c) første og fjerde strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*), idet enhver overskridelse av avlingsbegrensningen vil medføre at hele avlingen mister retten til betegnelsen «vin doux naturel»,
+   - er framstilt av druemost med et opprinnelig naturlig sukkerinnhold på minst 252 gram per liter,
+   - er framstilt, uten noen annen form for anriking, ved tilsetting av alkohol fra vin som i ren alkohol svarer til minst 5 % av den benyttede mengde druemost nevnt over, og til høyst den minste av følgende to størrelser:
+
+     - enten 10 prosent av den benyttede mengde druemost nevnt over, eller
+     - 40 prosent av det ferdige produkts totale alkoholstyrke i volumprosent, som består av summen av den sanne alkoholstyrken i volumprosent og det som svarer til den potensielle alkoholstyrken i volumprosent beregnet på grunnlag av 1 volumprosent ren alkohol per 17,5 gram per liter restsukker.
+
+   ►**M3**
+8. Når det gjelder sterkvin, skal den tradisjonelle særbetegnelsen «vino generoso» brukes bare for tørre sterkviner med beskyttet opprinnelsesbetegnelse som er utviklet helt eller delvis «sous voile» (under dekke) og som
+
+   ◄**M3**
+
+   - er framstilt av grønne druer av vinstokksortene Palomino de Jerez, Palomino fino, Pedro Ximénez, Verdejo, Zalema og Garrido Fino,
+   - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
+
+   Med framstilling «sous voile» (under dekke) nevnt i første ledd, menes den biologiske prosessen som tilfører produktet særlige analytiske og organoleptiske egenskaper ved spontan dannelse av et dekke av typisk gjær på vinens frie overflate etter fullstendig alkoholgjæring av mosten.
 9. Den tradisjonelle særbetegnelsen «vinho generoso» er forbeholdt sterkvinene med de beskyttede opprinnelsesbetegnelsene «Porto», «Madeira», «Moscatel de Setúbal» og «Carcavelos» sammen med den respektive opprinnelsesbetegnelsen.
-10. Den tradisjonelle særbetegnelsen «vino generoso de licor» er forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse som►**M2**som er framstilt av «vino generoso» som nevnt i nr. 8, eller av vin under «flor», som en slik «vino generoso» kan framstilles av, som er tilsatt enten druemost av rosindruer tilsatt nøytral vinalkohol for å hindre gjæring, eller som er tilsatt rektifisert konsentrert druemost eller «vino dulce natural»,◄**M2**frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
+10. Den tradisjonelle særbetegnelsen «vino generoso de licor» er forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse som
+
+    ►**M2**
+
+    - som er framstilt av «vino generoso» som nevnt i nr. 8, eller av vin under «flor», som en slik «vino generoso» kan framstilles av, som er tilsatt enten druemost av rosindruer tilsatt nøytral vinalkohol for å hindre gjæring, eller som er tilsatt rektifisert konsentrert druemost eller «vino dulce natural»,
+
+      ◄**M2**
+    - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
 
 ### Tillegg 1
 Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling er underlagt særlige regler
@@ -2052,12 +3273,96 @@ Cannonau di Sardegna, Giró di Cagliari, Malvasia di Bosa, Malvasia di Cagliari,
 
 (Bokstav B nr. 2 i dette vedlegg)
 
-1. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin framstilt av vin eller av tørkede druer som har en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent(nr. 3 bokstav f) ii) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Hellas*Σάμoς (Samos), Moσχάτoς Φατρών (Muscat de Patras), Moσχάτoς Pίoυ Φατρών (Muscat Rion de Patras), Moσχάτoς Kεφαλληνίας (Muscat de Céphalonie), Moσχάτoς Póδoυ (Muscat de Rhodos), Moσχάτoς Λήμνoυ (Muscat de Lemnos), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie).*Spania*Condado de Huelva, Jerez-Xérès-Sherry, Manzanilla-Sanlúcar de Barrameda, Málaga, Montilla-Moriles, Rueda, Terra Alta.*Kypros*Koυμανδαρία (Commandaria).
-2. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av vin eller av pressrester av druer som har en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent(nr. 3 bokstav f) ii) annet strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Hellas*Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Nεμέα (Nemée).*Frankrike*Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.*Kypros*Koυμανδαρία (Commandaria).
-3. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av tørkede druer som har en alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent(nr. 3 bokstav f) ii) tredje strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Hellas*Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie).
-4. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av druemost i gjæring framstilt av rosindruer(nr. 3 bokstav f) iii) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Spania* *Sterkviner med beskyttet opprinnelsesbetegnelse**Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning*Jerez-Xérès-SherryVino generoso de licorMálagaVino dulceMontilla-MorilesVino generoso de licor*Italia*Aleatico di Gradoli, Giró di Cagliari, Malvasia delle Lipari, Malvasia di Cagliari, Moscato passito di Pantelleria*Kypros*Koυμανδαρία (Commandaria).
-5. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosess, oppfyller definisjonen av konsentrert druemost(nr. 3 bokstav f) iii) annet strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Spania* *Sterkviner med beskyttet opprinnelsesbetegnelse**Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning*AlicanteCondado de HuelvaVino generoso de licor►**M2**EmpordàGarnacha/Garnatxa ◄**M2**MálagaVino dulceMontilla-MorilesVino generoso de licorNavarraMoscatel*Italia*Marsala.
-6. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost(nr. 3 bokstav f) iii) tredje strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))*Spania* *Sterkviner med beskyttet opprinnelsesbetegnelse**Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning*MálagaVino dulceMontilla-MorilesVino dulceTarragonaVino dulce*Italia*Oltrepó Pavese Moscato, Marsala, Moscato di Trani.
+1. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin framstilt av vin eller av tørkede druer som har en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent
+
+   (nr. 3 bokstav f) ii) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Hellas*
+
+   Σάμoς (Samos), Moσχάτoς Φατρών (Muscat de Patras), Moσχάτoς Pίoυ Φατρών (Muscat Rion de Patras), Moσχάτoς Kεφαλληνίας (Muscat de Céphalonie), Moσχάτoς Póδoυ (Muscat de Rhodos), Moσχάτoς Λήμνoυ (Muscat de Lemnos), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie).
+
+   *Spania*
+
+   Condado de Huelva, Jerez-Xérès-Sherry, Manzanilla-Sanlúcar de Barrameda, Málaga, Montilla-Moriles, Rueda, Terra Alta.
+
+   *Kypros*
+
+   Koυμανδαρία (Commandaria).
+2. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av vin eller av pressrester av druer som har en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent
+
+   (nr. 3 bokstav f) ii) annet strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Hellas*
+
+   Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Nεμέα (Nemée).
+
+   *Frankrike*
+
+   Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.
+
+   *Kypros*
+
+   Koυμανδαρία (Commandaria).
+3. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av tørkede druer som har en alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent
+
+   (nr. 3 bokstav f) ii) tredje strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Hellas*
+
+   Mαυρoδάφνη Φατρών (Mavrodafne de Patras), Mαυρoδάφνη Kεφαλληνίας (Mavrodafne de Céphalonie).
+4. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av druemost i gjæring framstilt av rosindruer
+
+   (nr. 3 bokstav f) iii) første strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Spania*
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning* |
+   | --- | --- |
+   | Jerez-Xérès-Sherry | Vino generoso de licor |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino generoso de licor |
+
+   *Italia*
+
+   Aleatico di Gradoli, Giró di Cagliari, Malvasia delle Lipari, Malvasia di Cagliari, Moscato passito di Pantelleria
+
+   *Kypros*
+
+   Koυμανδαρία (Commandaria).
+5. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosess, oppfyller definisjonen av konsentrert druemost
+
+   (nr. 3 bokstav f) iii) annet strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Spania*
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning* |
+   | --- | --- |
+   | Alicante |  |
+   | Condado de Huelva | Vino generoso de licor |
+   | ►**M2** |  |
+   | Empordà | Garnacha/Garnatxa ◄**M2** |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino generoso de licor |
+   | Navarra | Moscatel |
+
+   *Italia*
+
+   Marsala.
+6. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost
+
+   (nr. 3 bokstav f) iii) tredje strekpunkt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*))
+
+   *Spania*
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Beskrivelse av produktet i henhold til Fellesskapets eller medlemsstatenes lovgivning* |
+   | --- | --- |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino dulce |
+   | Tarragona | Vino dulce |
+
+   *Italia*
+
+   Oltrepó Pavese Moscato, Marsala, Moscato di Trani.
 
 ### Tillegg 2
 
@@ -2194,7 +3499,11 @@ Mikroinjeksjonssprøyte, 10 µl.
 
 Hell 2 l vin over i destillasjonskolben. Deretter tilsettes noen få milliliter etanol (nr. 2.1) i de to oppsamlingsrør, slik at de porøse deler av gassdispersjonsrørene er fullstendig nedsenket. De to rørene avkjøles utenfra med kuldeblandingen. Kolben kobles til oppsamlingsrørene, og en nitrogenstrøm på 3 l per time ledes gjennom apparatet. Varm opp vinen til 80 °C med varmekappen, destiller og samle opp 45–50 ml av destillatet.
 
-Kromatografen kalibreres, fortrinnsvis under følgende forhold:injektortemperatur: 200 °C,kolonnetemperatur: 130 °C,bæregass: helium med en strømningshastighet på 20 ml per minutt.
+Kromatografen kalibreres, fortrinnsvis under følgende forhold:
+
+- injektortemperatur: 200 °C,
+- kolonnetemperatur: 130 °C,
+- bæregass: helium med en strømningshastighet på 20 ml per minutt.
 
 Med mikroinjeksjonssprøyten tilsettes et volum av standardløsningen som er tilstrekkelig til at toppen som skapes av allylisotiocyanat, lett kan identifiseres på gasskromatogrammet.
 
@@ -2250,7 +3559,12 @@ Gasskromatograf utstyrt med
 
 Kapillærkolonne (for eksempel av kvarts, belagt med OV 1, filmtykkelse 0,15 µ, lengde 25 m og indre diameter 0,3 mm).
 
-Funksjonsvilkår: bæregass: hydrogen eller heliumstrømningshastighet for bæregassen: ca. 2 ml/minutt.injektor- og detektortemperatur: 300 °C,innstilling av temperatur: 1 minutt ved 160 °C, 4 °C per minutt til 260 °C, konstant temperatur 260 °C i 15 minutter,splittforhold: ca. 1:20.
+Funksjonsvilkår: bæregass: hydrogen eller helium
+
+- strømningshastighet for bæregassen: ca. 2 ml/minutt.
+- injektor- og detektortemperatur: 300 °C,
+- innstilling av temperatur: 1 minutt ved 160 °C, 4 °C per minutt til 260 °C, konstant temperatur 260 °C i 15 minutter,
+- splittforhold: ca. 1:20.
 
 3.3.
 
@@ -2385,7 +3699,41 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) av 29. april 2008 om den felles markedsordning for vin, om endring av forordning [(EF) nr. 1493/1999](eu/31999r1493), forordning [(EF) nr. 1782/2003](eu/32003r1782*), forordning [(EF) nr. 1290/2005](eu/32005r1290*), forordning [(EF) nr. 3/2008](eu/32008r0003*) og om oppheving av forordning [(EØF) nr. 2392/86](eu/31986r2392*) og forordning [(EF) nr. 1493/1999](eu/31999r1493),1 særlig artikkel 52, 56, 63 og 126 bokstav a), og
 
-ut fra følgende betraktninger:I avdeling III kapittel IV i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsettes alminnelige regler for beskyttelse av opprinnelsesbetegnelser og geografiske betegnelser for visse vinprodukter.For å sikre at opprinnelsesbetegnelser og geografiske betegnelser registrert i Fellesskapet oppfyller vilkårene fastsatt i forordning [(EF) nr. 479/2008](eu/32008r0479*), bør søknadene behandles av nasjonale myndigheter i den berørte medlemsstat, innenfor rammen av en forberedende nasjonal framgangsmåte for innsigelse. Det bør gjennomføres etterfølgende kontroll for å sikre at søknadene oppfyller vilkårene i denne forordning, at de behandles på samme måte i alle medlemsstatene og at registreringen av opprinnelsesbetegnelser og geografiske betegnelser ikke skader tredjemann. Det bør derfor fastsettes nærmere gjennomføringsregler for de framgangsmåtene for søknad, behandling, innsigelse og annullering som gjelder for opprinnelsesbetegnelser og geografiske betegnelser for visse vinprodukter.Det bør fastsettes på hvilke vilkår en fysisk eller juridisk person kan søke om registrering. Det bør legges særlig vekt på å avgrense det berørte området, idet det tas hensyn til produksjonsområdet og produktets egenskaper. Alle produsenter som er etablert i det avgrensede geografiske området, bør kunne bruke den registrerte betegnelsen, forutsatt at vilkårene i produktspesifikasjonen er oppfylt. Avgrensningen av området bør være detaljert, presis og entydig slik at produsenter, vedkommende myndigheter og kontrollorganer kan fastslå om virksomheten utøves innenfor det avgrensede geografiske området.Det bør fastsettes særlige regler for registrering av opprinnelsesbetegnelser og geografiske betegnelser.Når det er fastsatt at emballeringen av et vinprodukt med en opprinnelsesbetegnelse eller en geografisk betegnelse, eller virksomhet knyttet til presentasjon av produktet, skal foregå bare innenfor et avgrenset område, utgjør det en begrensning av det frie varebyttet og adgangen til å yte tjenester. Ifølge Domstolens rettspraksis kan slike begrensninger innføres bare dersom de er nødvendige, rimelige og egnet til å beskytte opprinnelsesbetegnelsens eller den geografiske betegnelsens omdømme. Enhver begrensning bør være behørig begrunnet med hensyn til det frie varebyttet og adgangen til å yte tjenester.Det bør fastsettes bestemmelser om vilkåret for produksjon i det avgrensede området. Det finnes et begrenset antall unntak i Fellesskapet.De opplysningene som skal bekrefte tilknytningen til det geografiske områdets kjennetegn og deres innvirkning på sluttproduktet, bør også fastlegges.Ved innføring av opprinnelsesbetegnelser og geografiske betegnelser i et fellesskapsregister bør også de som driver handel på området og forbrukerne informeres. For at alle skal ha tilgang til registeret, bør det være tilgjengelig elektronisk.For å sikre de særlige kjennetegnene ved viner med beskyttet opprinnelsesbetegnelse og beskyttet geografiske betegnelse, og for å tilnærme medlemsstatenes lovgivninger med sikte på å opprette like konkurransevilkår i Fellesskapet, bør det opprettes en rettslig ramme for kontroll med disse vinene, som medlemsstatenes særlige bestemmelser skal være forenlige med. Kontrollen bør gjøre det mulig å spore de berørte produktene, og det bør fastsettes hvilke aspekter kontrollene skal omfatte. For å unngå konkurransevridning bør kontrollene utføres fortløpende av uavhengige organer.For å sikre en sammenhengende gjennomføring av forordning [(EF) nr. 479/2008](eu/32008r0479*), bør det utarbeides modeller for søknader, innsigelser, endringer og annulleringer.I avdeling III kapittel V i forordning [(EF) nr. 479/2008](eu/32008r0479*) er det fastsatt alminnelige regler for bruk av beskyttede tradisjonelle betegnelser i forbindelse med visse vinprodukter.Bruken av, bestemmelser om og beskyttelse av visse betegnelser (unntatt opprinnelsesbetegnelser og geografiske betegnelser) for å beskrive vinprodukter utgjør en veletablert praksis i Fellesskapet. Disse tradisjonelle betegnelsene kan få forbrukerne til å tenke på en produksjons- eller modningsmetode, en viss kvalitet, farge eller type sted, eller en bestemt hendelse knyttet til en vins historie. For å garantere en rettferdig konkurranse og hindre at forbrukerne villedes, bør det opprettes en felles ramme for å definere, anerkjenne, beskytte og bruke slike tradisjonelle betegnelser.Det er tillatt å bruke tradisjonelle betegnelser i forbindelse med produkter fra tredjestater, forutsatt at de oppfyller samme eller tilsvarende vilkår som dem medlemsstatene skal oppfylle, for å unngå at forbrukerne villedes. Ettersom flere tredjestater ikke har like sentraliserte regler som Fellesskapets rettsorden, bør det fastsettes visse krav til tredjestaters «representative bransjeorganisasjoner» for å sikre de samme garantiene som i fellesskapsbestemmelsene.I avdeling III kapittel VI i forordning [(EF) nr. 479/2008](eu/32008r0479*) er det fastsatt alminnelige regler for merking og presentasjon av visse vinprodukter.Det er fastsatt visse bestemmelser om merking av næringsmidler i første rådsdirektiv [89/104/EØF](eu/31989l0104),2 rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti,3 europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*)4 og europaparlaments- og rådsdirektiv [2007/45/EF](eu/32007l0045) av 5. september 2007 om fastsettelse av bestemmelser om nominelle mengder for ferdigpakkede produkter.5 Disse bestemmelsene gjelder også for vinprodukter, med mindre de er uttrykkelig utelukket i nevnte direktiver.Ved forordning [(EF) nr. 479/2008](eu/32008r0479*) er merkingen av alle vinprodukter harmonisert, og det er fastsatt at bruk av andre betegnelser enn dem som er uttrykkelig fastsatt i Fellesskapets regelverk, skal være tillatt, forutsatt at de er riktige.I henhold til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal det fastsettes vilkår for bruk av visse betegnelser som blant annet viser til herkomst, tapper, produsent, importør osv. For noen av disse betegnelsene er det nødvendig å fastsette fellesskapsregler for at det indre marked skal virke på en tilfredsstillende måte. Disse bestemmelsene bør normalt bygge på allerede gjeldende bestemmelser. Når det gjelder andre betegnelser, bør medlemsstatene i samsvar med Fellesskapets regelverk fastsette bestemmelser som skal gjelde for vin produsert på deres territorium, slik at disse bestemmelsene fastsettes så nær produsenten som mulig. Disse bestemmelsene bør imidlertid sikre åpenhet og innsyn.Av hensyn til forbrukerne bør visse obligatoriske opplysninger samles i samme synsfelt på beholderen, det bør fastsettes toleranseterskler for angivelsen av sann alkoholstyrke og det bør tas hensyn til produktenes særlige kjennetegn.Gjeldende bestemmelser om bruk av angivelse eller merking for å identifisere et bestemt næringsmiddelparti har vist seg å være nyttige, og bør derfor beholdes.Betegnelser som viser til økologisk produksjon av druer, er underlagt bare rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter6 og gjelder for alle vinprodukter.Forbudet mot å bruke blykapsler til å omslutte lukkemekanismen på beholdere med produkter som omfattes av forordning [(EF) nr. 479/2008](eu/32008r0479*), bør beholdes for det første for å unngå forurensningsfare, særlig fare for utilsiktet kontakt med slike kapsler, og for det andre for å unngå faren for miljøforurensning på grunn av avfall som inneholder bly fra slike kapsler.For å øke produktenes sporbarhet og skape større åpenhet, bør det innføres nye regler for «angivelse av herkomst».Det kreves særlige gjennomføringsregler for bruk av betegnelser som gjelder druesorter og årgang for viner uten opprinnelsesbetegnelse og geografisk betegnelse.Bruken av visse flasketyper til visse produkter har lenge vært etablert praksis i Fellesskapet og i tredjestater. Ettersom disse flaskene har vært brukt lenge, kan de få forbrukerne til å tenke på et produkt med visse egenskaper eller en bestemt opprinnelse. Flaskene bør derfor forbeholdes de aktuelle vinene.Reglene for merking av vinprodukter fra tredjestater som omsettes på fellesskapsmarkedet, bør også så langt som mulig harmoniseres med den metoden som er fastsatt for Fellesskapets vinprodukter, for å unngå at forbrukerne villedes og at produsentene utsettes for illojal konkurranse. Det bør imidlertid tas hensyn til forskjeller når det gjelder produksjonsvilkår, vinframstillingstradisjoner og lovgivning i tredjestater.I betraktning av forskjellene mellom produkter som omfattes av denne forordning, og deres markeder, og forbrukernes forventninger, bør reglene differensieres etter de aktuelle produktene, særlig med hensyn til visse frivillige opplysninger om viner uten beskyttet opprinnelsesbetegnelse og beskyttet geografisk betegnelse, som ikke desto mindre er merket med navn på druesorter og årgang, dersom de oppfyller visse sertifiserings- og akkrediteringskrav (såkalte «sortsviner»). For at det innenfor kategorien viner uten beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse skal kunne skilles mellom vin som tilhører underkategorien «sortsviner», og øvrige viner, bør det fastsettes særlige regler for bruk av frivillige opplysninger, dels for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, dels for viner uten disse betegnelsene, som også omfatter «sortsviner».Tiltak for å lette overgangen fra det tidligere vinregelverket til denne forordning (særlig rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin7 ) bør vedtas for å unngå unødige byrder for markedsdeltakerne. For å gi markedsdeltakere etablert i Fellesskapet og i tredjestater mulighet til å oppfylle merkingskravene, bør det innføres en overgangsperiode. Derfor bør det vedtas bestemmelser som sikrer at produkter merket i samsvar med gjeldende bestemmelser fortsatt kan markedsføres i en overgangsperiode.På grunn av administrative byrder er visse medlemsstater ikke i stand til å innføre de lover og forskrifter som er nødvendige for å etterkomme artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) innen 1. august 2009. For at markedsdeltakerne og vedkommende myndigheter ikke skal påvirkes negativt av denne fristen, bør det innføres en overgangsperiode og fastsettes overgangsbestemmelser.Bestemmelsene i denne forordning bør ikke berøre særlige regler som kan forhandles fram i henhold til avtaler med tredjestater som inngås etter framgangsmåten i artikkel 133 i traktaten.De nye reglene for gjennomføring av avdeling III kapittel IV, V og VI i forordning [(EF) nr. 479/2008](eu/32008r0479*) bør erstatte gjeldende regelverk for gjennomføring av forordning [(EF) nr. 1493/1999](eu/31999r1493). Kommisjonsforordning [(EF) nr. 1607/2000](eu/32000r1607) av 24. juli 2000 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) om den felles markedsordning for vin, særlig for den avdeling som omhandler kvalitetsvin fra bestemte dyrkingsområder,8 og kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter9 bør derfor oppheves.Ved artikkel 128 i forordning [(EF) nr. 479/2008](eu/32008r0479*) oppheves Rådets gjeldende regelverk for vin, herunder regelverk som gjelder de områdene som omfattes av denne forordning. For å unngå handelsproblemer og for å skape en smidig overgang for markedsdeltakerne og gi medlemsstatene en rimelig frist til å vedta en rekke gjennomføringstiltak, bør det fastsettes overgangsperioder.Gjennomføringsreglene i denne forordning bør få anvendelse fra samme dato som avdeling III kapittel IV, V og VI i forordning EF) [nr. 479/2008](eu/32008r0479*).Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. I avdeling III kapittel IV i forordning [(EF) nr. 479/2008](eu/32008r0479*) fastsettes alminnelige regler for beskyttelse av opprinnelsesbetegnelser og geografiske betegnelser for visse vinprodukter.
+2. For å sikre at opprinnelsesbetegnelser og geografiske betegnelser registrert i Fellesskapet oppfyller vilkårene fastsatt i forordning [(EF) nr. 479/2008](eu/32008r0479*), bør søknadene behandles av nasjonale myndigheter i den berørte medlemsstat, innenfor rammen av en forberedende nasjonal framgangsmåte for innsigelse. Det bør gjennomføres etterfølgende kontroll for å sikre at søknadene oppfyller vilkårene i denne forordning, at de behandles på samme måte i alle medlemsstatene og at registreringen av opprinnelsesbetegnelser og geografiske betegnelser ikke skader tredjemann. Det bør derfor fastsettes nærmere gjennomføringsregler for de framgangsmåtene for søknad, behandling, innsigelse og annullering som gjelder for opprinnelsesbetegnelser og geografiske betegnelser for visse vinprodukter.
+3. Det bør fastsettes på hvilke vilkår en fysisk eller juridisk person kan søke om registrering. Det bør legges særlig vekt på å avgrense det berørte området, idet det tas hensyn til produksjonsområdet og produktets egenskaper. Alle produsenter som er etablert i det avgrensede geografiske området, bør kunne bruke den registrerte betegnelsen, forutsatt at vilkårene i produktspesifikasjonen er oppfylt. Avgrensningen av området bør være detaljert, presis og entydig slik at produsenter, vedkommende myndigheter og kontrollorganer kan fastslå om virksomheten utøves innenfor det avgrensede geografiske området.
+4. Det bør fastsettes særlige regler for registrering av opprinnelsesbetegnelser og geografiske betegnelser.
+5. Når det er fastsatt at emballeringen av et vinprodukt med en opprinnelsesbetegnelse eller en geografisk betegnelse, eller virksomhet knyttet til presentasjon av produktet, skal foregå bare innenfor et avgrenset område, utgjør det en begrensning av det frie varebyttet og adgangen til å yte tjenester. Ifølge Domstolens rettspraksis kan slike begrensninger innføres bare dersom de er nødvendige, rimelige og egnet til å beskytte opprinnelsesbetegnelsens eller den geografiske betegnelsens omdømme. Enhver begrensning bør være behørig begrunnet med hensyn til det frie varebyttet og adgangen til å yte tjenester.
+6. Det bør fastsettes bestemmelser om vilkåret for produksjon i det avgrensede området. Det finnes et begrenset antall unntak i Fellesskapet.
+7. De opplysningene som skal bekrefte tilknytningen til det geografiske områdets kjennetegn og deres innvirkning på sluttproduktet, bør også fastlegges.
+8. Ved innføring av opprinnelsesbetegnelser og geografiske betegnelser i et fellesskapsregister bør også de som driver handel på området og forbrukerne informeres. For at alle skal ha tilgang til registeret, bør det være tilgjengelig elektronisk.
+9. For å sikre de særlige kjennetegnene ved viner med beskyttet opprinnelsesbetegnelse og beskyttet geografiske betegnelse, og for å tilnærme medlemsstatenes lovgivninger med sikte på å opprette like konkurransevilkår i Fellesskapet, bør det opprettes en rettslig ramme for kontroll med disse vinene, som medlemsstatenes særlige bestemmelser skal være forenlige med. Kontrollen bør gjøre det mulig å spore de berørte produktene, og det bør fastsettes hvilke aspekter kontrollene skal omfatte. For å unngå konkurransevridning bør kontrollene utføres fortløpende av uavhengige organer.
+10. For å sikre en sammenhengende gjennomføring av forordning [(EF) nr. 479/2008](eu/32008r0479*), bør det utarbeides modeller for søknader, innsigelser, endringer og annulleringer.
+11. I avdeling III kapittel V i forordning [(EF) nr. 479/2008](eu/32008r0479*) er det fastsatt alminnelige regler for bruk av beskyttede tradisjonelle betegnelser i forbindelse med visse vinprodukter.
+12. Bruken av, bestemmelser om og beskyttelse av visse betegnelser (unntatt opprinnelsesbetegnelser og geografiske betegnelser) for å beskrive vinprodukter utgjør en veletablert praksis i Fellesskapet. Disse tradisjonelle betegnelsene kan få forbrukerne til å tenke på en produksjons- eller modningsmetode, en viss kvalitet, farge eller type sted, eller en bestemt hendelse knyttet til en vins historie. For å garantere en rettferdig konkurranse og hindre at forbrukerne villedes, bør det opprettes en felles ramme for å definere, anerkjenne, beskytte og bruke slike tradisjonelle betegnelser.
+13. Det er tillatt å bruke tradisjonelle betegnelser i forbindelse med produkter fra tredjestater, forutsatt at de oppfyller samme eller tilsvarende vilkår som dem medlemsstatene skal oppfylle, for å unngå at forbrukerne villedes. Ettersom flere tredjestater ikke har like sentraliserte regler som Fellesskapets rettsorden, bør det fastsettes visse krav til tredjestaters «representative bransjeorganisasjoner» for å sikre de samme garantiene som i fellesskapsbestemmelsene.
+14. I avdeling III kapittel VI i forordning [(EF) nr. 479/2008](eu/32008r0479*) er det fastsatt alminnelige regler for merking og presentasjon av visse vinprodukter.
+15. Det er fastsatt visse bestemmelser om merking av næringsmidler i første rådsdirektiv [89/104/EØF](eu/31989l0104),2 rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti,3 europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*)4 og europaparlaments- og rådsdirektiv [2007/45/EF](eu/32007l0045) av 5. september 2007 om fastsettelse av bestemmelser om nominelle mengder for ferdigpakkede produkter.5 Disse bestemmelsene gjelder også for vinprodukter, med mindre de er uttrykkelig utelukket i nevnte direktiver.
+16. Ved forordning [(EF) nr. 479/2008](eu/32008r0479*) er merkingen av alle vinprodukter harmonisert, og det er fastsatt at bruk av andre betegnelser enn dem som er uttrykkelig fastsatt i Fellesskapets regelverk, skal være tillatt, forutsatt at de er riktige.
+17. I henhold til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal det fastsettes vilkår for bruk av visse betegnelser som blant annet viser til herkomst, tapper, produsent, importør osv. For noen av disse betegnelsene er det nødvendig å fastsette fellesskapsregler for at det indre marked skal virke på en tilfredsstillende måte. Disse bestemmelsene bør normalt bygge på allerede gjeldende bestemmelser. Når det gjelder andre betegnelser, bør medlemsstatene i samsvar med Fellesskapets regelverk fastsette bestemmelser som skal gjelde for vin produsert på deres territorium, slik at disse bestemmelsene fastsettes så nær produsenten som mulig. Disse bestemmelsene bør imidlertid sikre åpenhet og innsyn.
+18. Av hensyn til forbrukerne bør visse obligatoriske opplysninger samles i samme synsfelt på beholderen, det bør fastsettes toleranseterskler for angivelsen av sann alkoholstyrke og det bør tas hensyn til produktenes særlige kjennetegn.
+19. Gjeldende bestemmelser om bruk av angivelse eller merking for å identifisere et bestemt næringsmiddelparti har vist seg å være nyttige, og bør derfor beholdes.
+20. Betegnelser som viser til økologisk produksjon av druer, er underlagt bare rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter6 og gjelder for alle vinprodukter.
+21. Forbudet mot å bruke blykapsler til å omslutte lukkemekanismen på beholdere med produkter som omfattes av forordning [(EF) nr. 479/2008](eu/32008r0479*), bør beholdes for det første for å unngå forurensningsfare, særlig fare for utilsiktet kontakt med slike kapsler, og for det andre for å unngå faren for miljøforurensning på grunn av avfall som inneholder bly fra slike kapsler.
+22. For å øke produktenes sporbarhet og skape større åpenhet, bør det innføres nye regler for «angivelse av herkomst».
+23. Det kreves særlige gjennomføringsregler for bruk av betegnelser som gjelder druesorter og årgang for viner uten opprinnelsesbetegnelse og geografisk betegnelse.
+24. Bruken av visse flasketyper til visse produkter har lenge vært etablert praksis i Fellesskapet og i tredjestater. Ettersom disse flaskene har vært brukt lenge, kan de få forbrukerne til å tenke på et produkt med visse egenskaper eller en bestemt opprinnelse. Flaskene bør derfor forbeholdes de aktuelle vinene.
+25. Reglene for merking av vinprodukter fra tredjestater som omsettes på fellesskapsmarkedet, bør også så langt som mulig harmoniseres med den metoden som er fastsatt for Fellesskapets vinprodukter, for å unngå at forbrukerne villedes og at produsentene utsettes for illojal konkurranse. Det bør imidlertid tas hensyn til forskjeller når det gjelder produksjonsvilkår, vinframstillingstradisjoner og lovgivning i tredjestater.
+26. I betraktning av forskjellene mellom produkter som omfattes av denne forordning, og deres markeder, og forbrukernes forventninger, bør reglene differensieres etter de aktuelle produktene, særlig med hensyn til visse frivillige opplysninger om viner uten beskyttet opprinnelsesbetegnelse og beskyttet geografisk betegnelse, som ikke desto mindre er merket med navn på druesorter og årgang, dersom de oppfyller visse sertifiserings- og akkrediteringskrav (såkalte «sortsviner»). For at det innenfor kategorien viner uten beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse skal kunne skilles mellom vin som tilhører underkategorien «sortsviner», og øvrige viner, bør det fastsettes særlige regler for bruk av frivillige opplysninger, dels for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, dels for viner uten disse betegnelsene, som også omfatter «sortsviner».
+27. Tiltak for å lette overgangen fra det tidligere vinregelverket til denne forordning (særlig rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) av 17. mai 1999 om den felles markedsordning for vin7 ) bør vedtas for å unngå unødige byrder for markedsdeltakerne. For å gi markedsdeltakere etablert i Fellesskapet og i tredjestater mulighet til å oppfylle merkingskravene, bør det innføres en overgangsperiode. Derfor bør det vedtas bestemmelser som sikrer at produkter merket i samsvar med gjeldende bestemmelser fortsatt kan markedsføres i en overgangsperiode.
+28. På grunn av administrative byrder er visse medlemsstater ikke i stand til å innføre de lover og forskrifter som er nødvendige for å etterkomme artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) innen 1. august 2009. For at markedsdeltakerne og vedkommende myndigheter ikke skal påvirkes negativt av denne fristen, bør det innføres en overgangsperiode og fastsettes overgangsbestemmelser.
+29. Bestemmelsene i denne forordning bør ikke berøre særlige regler som kan forhandles fram i henhold til avtaler med tredjestater som inngås etter framgangsmåten i artikkel 133 i traktaten.
+30. De nye reglene for gjennomføring av avdeling III kapittel IV, V og VI i forordning [(EF) nr. 479/2008](eu/32008r0479*) bør erstatte gjeldende regelverk for gjennomføring av forordning [(EF) nr. 1493/1999](eu/31999r1493). Kommisjonsforordning [(EF) nr. 1607/2000](eu/32000r1607) av 24. juli 2000 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) om den felles markedsordning for vin, særlig for den avdeling som omhandler kvalitetsvin fra bestemte dyrkingsområder,8 og kommisjonsforordning [(EF) nr. 753/2002](eu/32002r0753*) av 29. april 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 1493/1999](eu/31999r1493) med hensyn til beskrivelse av, betegnelse på, presentasjon av og beskyttelse av visse vinprodukter9 bør derfor oppheves.
+31. Ved artikkel 128 i forordning [(EF) nr. 479/2008](eu/32008r0479*) oppheves Rådets gjeldende regelverk for vin, herunder regelverk som gjelder de områdene som omfattes av denne forordning. For å unngå handelsproblemer og for å skape en smidig overgang for markedsdeltakerne og gi medlemsstatene en rimelig frist til å vedta en rekke gjennomføringstiltak, bør det fastsettes overgangsperioder.
+32. Gjennomføringsreglene i denne forordning bør få anvendelse fra samme dato som avdeling III kapittel IV, V og VI i forordning EF) [nr. 479/2008](eu/32008r0479*).
+33. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 148 av 6.6.2008, s. 1.
 
@@ -2412,7 +3760,11 @@ Innledende bestemmelser
 
 ### Artikkel 1. Formål
 
-I denne forordning fastsettes nærmere regler for gjennomføring av avdeling III i forordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til:bestemmelsene i kapittel IV i nevnte avdeling om beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser for produktene nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),bestemmelsene i kapittel V i nevnte avdeling om tradisjonelle betegnelser for produktene nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),bestemmelsene i kapittel VI i nevnte avdeling om merking og presentasjon av visse vinprodukter.
+I denne forordning fastsettes nærmere regler for gjennomføring av avdeling III i forordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til:
+
+1. bestemmelsene i kapittel IV i nevnte avdeling om beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser for produktene nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),
+2. bestemmelsene i kapittel V i nevnte avdeling om tradisjonelle betegnelser for produktene nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),
+3. bestemmelsene i kapittel VI i nevnte avdeling om merking og presentasjon av visse vinprodukter.
 
 ### Kapittel II
 Beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser
@@ -2424,7 +3776,10 @@ Søknad om beskyttelse
 
 Søker
 
-1\. En enkelt produsent kan være søker i henhold til artikkel 37 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) dersom detkan dokumenteres at den berørte person er den eneste produsenten i det avgrensede geografiske området, ogi tilfelle det berørte avgrensede geografiske området er omgitt av områder med opprinnelsesbetegnelser eller geografiske betegnelser, kan dokumenteres at det berørte området har egenskaper som skiller seg vesentlig fra de omliggende geografiske områdenes, eller produktets egenskaper skiller seg fra egenskapene til de produktene som framstilles i de omliggende avgrensede områdene.
+1\. En enkelt produsent kan være søker i henhold til artikkel 37 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) dersom det
+
+1. kan dokumenteres at den berørte person er den eneste produsenten i det avgrensede geografiske området, og
+2. i tilfelle det berørte avgrensede geografiske området er omgitt av områder med opprinnelsesbetegnelser eller geografiske betegnelser, kan dokumenteres at det berørte området har egenskaper som skiller seg vesentlig fra de omliggende geografiske områdenes, eller produktets egenskaper skiller seg fra egenskapene til de produktene som framstilles i de omliggende avgrensede områdene.
 
 2\. En medlemsstat eller en tredjestat eller deres respektive myndigheter kan ikke være søker i henhold til artikkel 37 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
 
@@ -2464,7 +3819,15 @@ Produksjon i det avgrensede geografiske området
 
 3\. Som unntak fra artikkel 34 nr. 1 bokstav a) ii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) får nr. 3 i del B i vedlegg III til kommisjonsforordning [(EF) nr. 606/2009](eu/32009r0606)1 anvendelse på ønologiske framstillingsmåter og restriksjoner.
 
-4\. Som unntak fra artikkel 34 nr. 1 bokstav a) iii) og nr. 1 bokstav b) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse bearbeides til vin enteni et område i umiddelbar nærhet av det berørte avgrensede området, elleri et område som ligger i samme administrative enhet eller i en nærliggende administrativ enhet, i samsvar med nasjonale bestemmelser, ellerdersom opprinnelsesbetegnelsen eller den geografiske betegnelsen gjelder et område delt av en landegrense, eller dersom det er inngått en avtale om kontrolltiltak mellom to eller flere medlemsstater eller mellom en eller flere medlemsstater og en eller flere tredjestater, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse brukes til vinframstilling i et område som ligger i umiddelbar nærhet av det berørte avgrensede området.Som unntak fra artikkel 34 nr. 1 bokstav b) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan viner med beskyttet geografisk betegnelse fortsatt bearbeides til vin i et område som ikke ligger i umiddelbar nærhet av det berørte avgrensede området, inntil 31. desember 2012.Som unntak fra artikkel 34 nr. 1 bokstav a) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt bearbeides til musserende vin eller perlende vin med beskyttet opprinnelsesbetegnelse i et område som ikke ligger i umiddelbar nærhet av det berørte avgrensede området, dersom denne framgangsmåten ble brukt før 1. mars 1986.
+4\. Som unntak fra artikkel 34 nr. 1 bokstav a) iii) og nr. 1 bokstav b) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse bearbeides til vin enten
+
+1. i et område i umiddelbar nærhet av det berørte avgrensede området, eller
+2. i et område som ligger i samme administrative enhet eller i en nærliggende administrativ enhet, i samsvar med nasjonale bestemmelser, eller
+3. dersom opprinnelsesbetegnelsen eller den geografiske betegnelsen gjelder et område delt av en landegrense, eller dersom det er inngått en avtale om kontrolltiltak mellom to eller flere medlemsstater eller mellom en eller flere medlemsstater og en eller flere tredjestater, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse brukes til vinframstilling i et område som ligger i umiddelbar nærhet av det berørte avgrensede området.
+
+Som unntak fra artikkel 34 nr. 1 bokstav b) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan viner med beskyttet geografisk betegnelse fortsatt bearbeides til vin i et område som ikke ligger i umiddelbar nærhet av det berørte avgrensede området, inntil 31. desember 2012.
+
+Som unntak fra artikkel 34 nr. 1 bokstav a) iii) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt bearbeides til musserende vin eller perlende vin med beskyttet opprinnelsesbetegnelse i et område som ikke ligger i umiddelbar nærhet av det berørte avgrensede området, dersom denne framgangsmåten ble brukt før 1. mars 1986.
 
 1 Se EUT L 193 av 24.7.2009, s. 1.
 
@@ -2472,11 +3835,21 @@ Produksjon i det avgrensede geografiske området
 
 Tilknytning
 
-1\. De opplysningene som skal bekrefte den geografiske tilknytningen omhandlet i artikkel 35 nr. 2 bokstav g) i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal forklare i hvilket omfang det avgrensede geografiske områdets egenskaper påvirker sluttproduktet.Ved søknader som omfatter flere kategorier vinprodukter, skal opplysningene som skal bekrefte den geografiske tilknytningen, dokumenteres for hvert berørt vinprodukt.
+1\. De opplysningene som skal bekrefte den geografiske tilknytningen omhandlet i artikkel 35 nr. 2 bokstav g) i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal forklare i hvilket omfang det avgrensede geografiske områdets egenskaper påvirker sluttproduktet.
 
-2\. Når det dreier seg om en opprinnelsesbetegnelse, skal produktspesifikasjonen inneholdeopplysninger om det geografiske området, særlig naturlige og menneskelige faktorer, som er relevante for tilknytningen,opplysninger om produktets kvalitet eller egenskaper som hovedsakelig eller utelukkende kan tilskrives de geografiske omgivelsene,en beskrivelse av årsakssammenhengen mellom opplysningene nevnt i bokstav a) og opplysningene nevnt i bokstav b).
+Ved søknader som omfatter flere kategorier vinprodukter, skal opplysningene som skal bekrefte den geografiske tilknytningen, dokumenteres for hvert berørt vinprodukt.
 
-3\. Når det dreier seg om en geografisk betegnelse, skal produktspesifikasjonen inneholdeopplysninger om det geografiske området som er relevante for tilknytningen,opplysninger om produktets kvalitet, omdømme eller andre egenskaper som kan tilskrives produktets geografiske opprinnelse,en beskrivelse av årsakssammenhengen mellom opplysningene nevnt i bokstav a) og opplysningene nevnt i bokstav b).
+2\. Når det dreier seg om en opprinnelsesbetegnelse, skal produktspesifikasjonen inneholde
+
+1. opplysninger om det geografiske området, særlig naturlige og menneskelige faktorer, som er relevante for tilknytningen,
+2. opplysninger om produktets kvalitet eller egenskaper som hovedsakelig eller utelukkende kan tilskrives de geografiske omgivelsene,
+3. en beskrivelse av årsakssammenhengen mellom opplysningene nevnt i bokstav a) og opplysningene nevnt i bokstav b).
+
+3\. Når det dreier seg om en geografisk betegnelse, skal produktspesifikasjonen inneholde
+
+1. opplysninger om det geografiske området som er relevante for tilknytningen,
+2. opplysninger om produktets kvalitet, omdømme eller andre egenskaper som kan tilskrives produktets geografiske opprinnelse,
+3. en beskrivelse av årsakssammenhengen mellom opplysningene nevnt i bokstav a) og opplysningene nevnt i bokstav b).
 
 4\. Det skal framgå av produktspesifikasjonen for en geografisk betegnelse om den bygger på en bestemt kvalitet eller et bestemt omdømme, eller på andre egenskaper som kan tilskrives produktets geografiske opprinnelse.
 
@@ -2497,7 +3870,13 @@ Inngivelse av søknaden
 
 1\. En søknad anses som inngitt til Kommisjonen på den datoen søknaden mottas av Kommisjonen.
 
-2\. Kommisjonen skal bekrefte mottak av søknaden overfor medlemsstatens eller tredjestatens vedkommende myndigheter eller søkeren som er etablert i den berørte tredjestat, og skal gi søknaden et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,den betegnelsen som skal registreres,datoen for mottak av søknaden.
+2\. Kommisjonen skal bekrefte mottak av søknaden overfor medlemsstatens eller tredjestatens vedkommende myndigheter eller søkeren som er etablert i den berørte tredjestat, og skal gi søknaden et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. den betegnelsen som skal registreres,
+3. datoen for mottak av søknaden.
 
 ◄**M3**
 
@@ -2507,11 +3886,21 @@ Inngivelse av søknad for et område delt av en landegrense
 
 1\. Ved søknader for et område delt av en landegrense kan det inngis en felles søknad for en betegnelse som angir et geografisk område delt av en landegrense, av flere enn én produsentgruppe som representerer dette området.
 
-2\. Dersom bare medlemsstater er berørt, får den forberedende nasjonale framgangsmåten omhandlet i artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) anvendelse i alle berørte medlemsstater.Ved anvendelsen av artikkel 38 nr. 5 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal en medlemsstat på vegne av de andre medlemsstatene oversende til Kommisjonen en søknad for et område delt av en landegrense, som inneholder en fullmakt fra hver av de andre berørte medlemsstatene til den medlemsstat som inngir søknaden, til å handle på deres vegne.
+2\. Dersom bare medlemsstater er berørt, får den forberedende nasjonale framgangsmåten omhandlet i artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) anvendelse i alle berørte medlemsstater.
 
-3\. Dersom en søknad for et område delt av en landegrense omfatter bare tredjestater, skal søknaden oversendes til Kommisjonen enten av en av gruppene av søkere på vegne av de andre gruppene, eller av en av tredjestatene på vegne av de andre tredjestatene, og skal inneholdeopplysninger som godtgjør at vilkårene fastsatt i artikkel 34 og 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er oppfylt,bevis for beskyttelsen i den berørte tredjestat ogen fullmakt som nevnt i nr. 2 fra hver av de øvrige berørte tredjestatene.
+Ved anvendelsen av artikkel 38 nr. 5 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal en medlemsstat på vegne av de andre medlemsstatene oversende til Kommisjonen en søknad for et område delt av en landegrense, som inneholder en fullmakt fra hver av de andre berørte medlemsstatene til den medlemsstat som inngir søknaden, til å handle på deres vegne.
 
-4\. Dersom en søknad for et område delt av en landegrense berører minst én medlemsstat og minst én tredjestat, får den forberedende nasjonale framgangsmåten omhandlet i artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) anvendelse i alle berørte medlemsstater. Søknaden skal oversendes til Kommisjonen av en av medlemsstatene eller en av tredjestatene, eller av en av søkergruppene i tredjestatene, og skal inneholdeopplysninger som godtgjør at vilkårene fastsatt i artikkel 34 og 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er oppfylt,bevis for beskyttelsen i den berørte tredjestat ogen fullmakt som nevnt i nr. 2 fra hver av de øvrige berørte medlemsstatene eller tredjestatene.
+3\. Dersom en søknad for et område delt av en landegrense omfatter bare tredjestater, skal søknaden oversendes til Kommisjonen enten av en av gruppene av søkere på vegne av de andre gruppene, eller av en av tredjestatene på vegne av de andre tredjestatene, og skal inneholde
+
+1. opplysninger som godtgjør at vilkårene fastsatt i artikkel 34 og 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er oppfylt,
+2. bevis for beskyttelsen i den berørte tredjestat og
+3. en fullmakt som nevnt i nr. 2 fra hver av de øvrige berørte tredjestatene.
+
+4\. Dersom en søknad for et område delt av en landegrense berører minst én medlemsstat og minst én tredjestat, får den forberedende nasjonale framgangsmåten omhandlet i artikkel 38 i forordning [(EF) nr. 479/2008](eu/32008r0479*) anvendelse i alle berørte medlemsstater. Søknaden skal oversendes til Kommisjonen av en av medlemsstatene eller en av tredjestatene, eller av en av søkergruppene i tredjestatene, og skal inneholde
+
+1. opplysninger som godtgjør at vilkårene fastsatt i artikkel 34 og 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) er oppfylt,
+2. bevis for beskyttelsen i den berørte tredjestat og
+3. en fullmakt som nevnt i nr. 2 fra hver av de øvrige berørte medlemsstatene eller tredjestatene.
 
 5\. Meldinger eller beslutninger fra Kommisjonen sendes til den medlemsstat, den tredjestat eller den produsentgruppen etablert i en tredjestat som har sendt Kommisjonen en søknad for et område delt av en landegrense, som nevnt i nr. 2, 3 og 4 i denne artikkel.
 
@@ -2521,7 +3910,11 @@ Inngivelse av søknad for et område delt av en landegrense
 
 Søknadens godtakbarhet
 
-1\. En søknad kan godtas når enhetsdokumentet er fullstendig utfylt og underlagsdokumentene er vedlagt. Enhetsdokumentet anses som fullstendig utfylt når alle obligatoriske opplysninger som kreves i henhold til informasjonssystemene nevnt i artikkel 70a, er utfylt.I så fall skal søknaden anses å kunne godtas på den datoen den ble mottatt av Kommisjonen. Søkeren skal underrettes.Datoen skal offentliggjøres.
+1\. En søknad kan godtas når enhetsdokumentet er fullstendig utfylt og underlagsdokumentene er vedlagt. Enhetsdokumentet anses som fullstendig utfylt når alle obligatoriske opplysninger som kreves i henhold til informasjonssystemene nevnt i artikkel 70a, er utfylt.
+
+I så fall skal søknaden anses å kunne godtas på den datoen den ble mottatt av Kommisjonen. Søkeren skal underrettes.
+
+Datoen skal offentliggjøres.
 
 2\. Dersom søknaden ikke er utfylt, eller bare er delvis utfylt, eller dersom underlagsdokumentene nevnt i nr. 1 ikke er framlagt samtidig med søknaden, eller noen av dem mangler, kan ikke søknaden godtas.
 
@@ -2560,7 +3953,12 @@ Innsigelser i henhold til fellesskapsframgangsmåten
 
 1\. Innsigelser som nevnt i artikkel 118h i forordning [(EF) nr. 1234/2007](eu/32007r1234) skal oversendes i samsvar med artikkel 70a nr. 1 i denne forordning. En innsigelse anses som inngitt til Kommisjonen på den datoen innsigelsen mottas av Kommisjonen. Denne datoen skal meddeles de myndigheter og personer som berøres av denne forordning.
 
-2\. Kommisjonen skal bekrefte mottak av innsigelsen og gi den et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,datoen for mottak av innsigelsen.
+2\. Kommisjonen skal bekrefte mottak av innsigelsen og gi den et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. datoen for mottak av innsigelsen.
 
 ◄**M3**
 
@@ -2572,7 +3970,9 @@ Godtakbarhet i henhold til fellesskapsframgangsmåten
 
 2\. Dersom innsigelsen bygger på et eldre varemerke og dets anseelse og omdømme i samsvar med artikkel 43 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal innsigelsen vedlegges bevis for søknad om, registrering og bruk av det eldre varemerket, f.eks. registreringsbevis eller bevis for bruken og bevis for varemerkets anseelse og omdømme.
 
-3\. Alle behørig begrunnede innsigelser skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for innsigelsen samt relevante underlagsdokumenter.De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerket ble brukt samt arten av bruk, og opplysninger om dets anseelse og omdømme.
+3\. Alle behørig begrunnede innsigelser skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for innsigelsen samt relevante underlagsdokumenter.
+
+De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerket ble brukt samt arten av bruk, og opplysninger om dets anseelse og omdømme.
 
 4\. Dersom opplysninger om hvilken eller hvilke eldre rettigheter som påberopes, og om de grunnene, faktiske forholdene, bevisene og merknadene eller underlagsdokumentene som er omhandlet i nr. 1–3, ikke er framlagt samtidig med innsigelsen, eller noen av dem mangler, skal Kommisjonen underrette den part som har gjort innsigelsen om dette og oppfordre vedkommende til å rette opp manglene innen to måneder. Dersom manglene ikke er rettet opp før fristen utløper, skal Kommisjonen avvise innsigelsen. Den part som gjør innsigelse, medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat skal underrettes om beslutningen om at innsigelsen ikke kan godtas.
 
@@ -2582,13 +3982,17 @@ Godtakbarhet i henhold til fellesskapsframgangsmåten
 
 Undersøkelse av en innsigelse i henhold til fellesskapsframgangsmåten
 
-1\. Dersom Kommisjonen ikke har avslått innsigelsen i samsvar med artikkel 15 nr. 4, skal den underrette medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat om innsigelsen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal sendes til den part som gjør innsigelse.Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
+1\. Dersom Kommisjonen ikke har avslått innsigelsen i samsvar med artikkel 15 nr. 4, skal den underrette medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat om innsigelsen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal sendes til den part som gjør innsigelse.
+
+Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
 
 2\. Dersom medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat eller den part som gjør innsigelse, ikke framlegger merknader eller ikke overholder fristene, treffer Kommisjonen beslutning om innsigelsen.
 
 3\. Kommisjonen treffer beslutning om å avslå eller registrere opprinnelsesbetegnelsen eller den geografiske betegnelsen på grunnlag av de bevisene den har til rådighet. Den part som gjør innsigelse, medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat skal underrettes om beslutningen om avvisning.
 
-4\. Dersom innsigelse gjøres av flere parter, kan det etter en foreløpig undersøkelse av en eller flere innsigelser vise seg umulig å godta søknaden om registrering; i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for innsigelse. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som er truffet som ledd i framgangsmåten.Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
+4\. Dersom innsigelse gjøres av flere parter, kan det etter en foreløpig undersøkelse av en eller flere innsigelser vise seg umulig å godta søknaden om registrering; i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for innsigelse. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som er truffet som ledd i framgangsmåten.
+
+Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
 
 ### Avsnitt 4
 Beskyttelse
@@ -2609,9 +4013,19 @@ Register
 
 1\. Kommisjonen oppretter og ajourfører i samsvar med artikkel 118n i forordning [(EF) nr. 1234/2007](eu/32007r1234) et «register over beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser», heretter kalt «registeret». Det opprettes i den elektroniske databasen «E-Bacchus» på grunnlag av beslutninger om beskyttelse av de aktuelle betegnelsene.
 
-2\. En opprinnelsesbetegnelse eller geografisk betegnelse som er godkjent, skal legges inn i registeret.Når det gjelder betegnelser som er registrert i henhold til artikkel 118s nr. 1 i forordning [(EF) nr. 1234/2007](eu/32007r1234), skal Kommisjonen legge inn de opplysningene som er fastsatt i nr. 3 i denne artikkel, i registeret.
+2\. En opprinnelsesbetegnelse eller geografisk betegnelse som er godkjent, skal legges inn i registeret.
 
-3\. Kommisjonen skal legge inn følgende opplysninger i registeret:den beskyttede betegnelsen,saksnummeret,opplysning om at betegnelsen er beskyttet som geografisk betegnelse eller opprinnelsesbetegnelse,navn på opprinnelsesstaten eller opprinnelsesstatene,registreringsdato,henvisning til den rettsakt der betegnelsen er registrert,henvisning til enhetsdokumentet.
+Når det gjelder betegnelser som er registrert i henhold til artikkel 118s nr. 1 i forordning [(EF) nr. 1234/2007](eu/32007r1234), skal Kommisjonen legge inn de opplysningene som er fastsatt i nr. 3 i denne artikkel, i registeret.
+
+3\. Kommisjonen skal legge inn følgende opplysninger i registeret:
+
+1. den beskyttede betegnelsen,
+2. saksnummeret,
+3. opplysning om at betegnelsen er beskyttet som geografisk betegnelse eller opprinnelsesbetegnelse,
+4. navn på opprinnelsesstaten eller opprinnelsesstatene,
+5. registreringsdato,
+6. henvisning til den rettsakt der betegnelsen er registrert,
+7. henvisning til enhetsdokumentet.
 
 4\. Registeret skal være tilgjengelig for offentligheten.
 
@@ -2644,7 +4058,13 @@ Endring av produktspesifikasjonen eller enhetsdokumentet
 
 ◄**M3**
 
-4\. En endring skal anses som mindre dersomden ikke berører viktige egenskaper ved produktet,den ikke endrer tilknytningen,den ikke innebærer en endring av produktets betegnelse eller noen del av produktets betegnelse,den ikke påvirker det avgrensede geografiske området,den ikke medfører ytterligere begrensning av markedsføringen av produktet.
+4\. En endring skal anses som mindre dersom
+
+1. den ikke berører viktige egenskaper ved produktet,
+2. den ikke endrer tilknytningen,
+3. den ikke innebærer en endring av produktets betegnelse eller noen del av produktets betegnelse,
+4. den ikke påvirker det avgrensede geografiske området,
+5. den ikke medfører ytterligere begrensning av markedsføringen av produktet.
 
 5\. Dersom søknaden om godkjenning av en endring av produktspesifikasjonen inngis av en annen søker enn den opprinnelige søkeren, skal Kommisjonen underrette den opprinnelige søkeren om søknaden.
 
@@ -2658,7 +4078,12 @@ Søknad om annullering
 
 1\. En søknad om annullering som inngis i samsvar med artikkel 118r i forordning [(EF) nr. 1234/2007](eu/32007r1234), skal oversendes i samsvar med artikkel 70a nr. 1 i denne forordning. En søknad om annullering anses som inngitt til Kommisjonen på den datoen den mottas av Kommisjonen. Datoen skal offentliggjøres.
 
-2\. Kommisjonens skal bekrefte mottak av søknaden og gi den et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,datoen for mottak av søknaden.
+2\. Kommisjonens skal bekrefte mottak av søknaden og gi den et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. datoen for mottak av søknaden.
 
 3\. Nr. 1 og 2 får ikke anvendelse dersom Kommisjonen tar initiativ til annulleringen.
 
@@ -2668,7 +4093,11 @@ Søknad om annullering
 
 Godtakbarhet
 
-1\. Når det skal fastsettes om en søknad om annullering kan godtas i samsvar med artikkel 50 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal Kommisjonen kontrollere at det i søknadengis opplysninger om hvilken rettmessig interesse og begrunnelse samt hvilket motiv opphavspersonen til søknaden om annullering har,gis en forklaring på årsakene til annulleringen, ogvises til en erklæring til støtte for søknaden om annullering fra medlemsstaten eller tredjestaten der opphavspersonen til søknaden har sitt bosted eller hovedkontor.
+1\. Når det skal fastsettes om en søknad om annullering kan godtas i samsvar med artikkel 50 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal Kommisjonen kontrollere at det i søknaden
+
+1. gis opplysninger om hvilken rettmessig interesse og begrunnelse samt hvilket motiv opphavspersonen til søknaden om annullering har,
+2. gis en forklaring på årsakene til annulleringen, og
+3. vises til en erklæring til støtte for søknaden om annullering fra medlemsstaten eller tredjestaten der opphavspersonen til søknaden har sitt bosted eller hovedkontor.
 
 2\. Alle søknader om annullering skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for annulleringen samt relevante underlagsdokumenter.
 
@@ -2686,7 +4115,9 @@ Godtakbarhet
 
 Undersøkelse av en annullering
 
-1\. Dersom Kommisjonen ikke har avslått søknaden om annullering i samsvar med artikkel 22 nr. 3, skal den underrette medlemsstatens eller tredjestatens myndigheter eller de berørte produsenter etablert i den berørte medlemsstat om annulleringen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal eventuelt sendes til opphavspersonen til søknaden om annullering.Som ledd i undersøkelsen av en annullering skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
+1\. Dersom Kommisjonen ikke har avslått søknaden om annullering i samsvar med artikkel 22 nr. 3, skal den underrette medlemsstatens eller tredjestatens myndigheter eller de berørte produsenter etablert i den berørte medlemsstat om annulleringen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal eventuelt sendes til opphavspersonen til søknaden om annullering.
+
+Som ledd i undersøkelsen av en annullering skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
 
 ►**M3**
 
@@ -2696,9 +4127,13 @@ De meddelelsene til Kommisjonen som er omhandlet i første og annet ledd, skal o
 
 2\. Dersom medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat eller opphavspersonen til søknaden om annullering ikke framlegger merknader, eller ikke overholder fristene, treffer Kommisjonen beslutning om annulleringen.
 
-3\. Kommisjonen treffer beslutning om å annullere opprinnelsesbetegnelsen eller den geografiske betegnelsen på grunnlag av de bevisene den har til rådighet. Den skal vurdere om det ikke lenger er mulig å overholde produktspesifikasjonen for et vinprodukt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, eller om det ikke lenger kan garanteres at den blir overholdt, særlig dersom vilkårene fastsatt i artikkel 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) ikke lenger er oppfylt eller ikke lenger kan oppfylles i nær framtid.Opphavspersonen til søknaden om annullering og medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat skal underrettes om beslutningen om annullering.
+3\. Kommisjonen treffer beslutning om å annullere opprinnelsesbetegnelsen eller den geografiske betegnelsen på grunnlag av de bevisene den har til rådighet. Den skal vurdere om det ikke lenger er mulig å overholde produktspesifikasjonen for et vinprodukt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, eller om det ikke lenger kan garanteres at den blir overholdt, særlig dersom vilkårene fastsatt i artikkel 35 i forordning [(EF) nr. 479/2008](eu/32008r0479*) ikke lenger er oppfylt eller ikke lenger kan oppfylles i nær framtid.
 
-4\. Ved flere søknader om annullering kan det etter en foreløpig undersøkelse av en eller flere søknader om annullering vise seg umulig å fortsette å beskytte en opprinnelsesbetegnelse eller en geografisk betegnelse, og i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for annullering. I så fall skal Kommisjonen underrette de andre opphavspersonene til søknader om annullering om beslutninger som er truffet som ledd i framgangsmåten, og som berører dem.Dersom en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse annulleres, skal de framgangsmåtene for annullering som er utsatt, anses som avsluttet, og de berørte opphavspersonene til søknadene om annullering skal behørig underrettes.
+Opphavspersonen til søknaden om annullering og medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat skal underrettes om beslutningen om annullering.
+
+4\. Ved flere søknader om annullering kan det etter en foreløpig undersøkelse av en eller flere søknader om annullering vise seg umulig å fortsette å beskytte en opprinnelsesbetegnelse eller en geografisk betegnelse, og i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for annullering. I så fall skal Kommisjonen underrette de andre opphavspersonene til søknader om annullering om beslutninger som er truffet som ledd i framgangsmåten, og som berører dem.
+
+Dersom en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse annulleres, skal de framgangsmåtene for annullering som er utsatt, anses som avsluttet, og de berørte opphavspersonene til søknadene om annullering skal behørig underrettes.
 
 5\. Når en annullering får virkning, skal Kommisjonen slette betegnelsen fra registeret.
 
@@ -2719,11 +4154,20 @@ Enhver markedsdeltaker som ønsker å delta i hele eller deler av produksjonen e
 
 Årlig kontroll
 
-1\. Den årlige kontrollen som utføres av vedkommende kontrollmyndighet som omhandlet i artikkel 48 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal omfatteen organoleptisk og analytisk undersøkelse av produkter med opprinnelsesbetegnelse,enten bare en analytisk undersøkelse eller både en organoleptisk og en analytisk undersøkelse av produkter med geografisk betegnelse, ogkontroll av at vilkårene i produktspesifikasjonen er overholdt.
+1\. Den årlige kontrollen som utføres av vedkommende kontrollmyndighet som omhandlet i artikkel 48 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal omfatte
+
+1. en organoleptisk og analytisk undersøkelse av produkter med opprinnelsesbetegnelse,
+2. enten bare en analytisk undersøkelse eller både en organoleptisk og en analytisk undersøkelse av produkter med geografisk betegnelse, og
+3. kontroll av at vilkårene i produktspesifikasjonen er overholdt.
 
 ►**M1**
 
-Den årlige kontrollen skal utføres i den medlemsstat der produksjonen fant sted i samsvar med produktspesifikasjonen, og skal utføres enten vedstikkprøvekontroller på grunnlag av en risikoanalyse ellerprøvetaking ellersystematiske kontroller elleren kombinasjon av ovennevnte kontroller.
+Den årlige kontrollen skal utføres i den medlemsstat der produksjonen fant sted i samsvar med produktspesifikasjonen, og skal utføres enten ved
+
+1. stikkprøvekontroller på grunnlag av en risikoanalyse eller
+2. prøvetaking eller
+3. systematiske kontroller eller
+4. en kombinasjon av ovennevnte kontroller.
 
 ◄**M1**
 
@@ -2735,7 +4179,10 @@ Ved prøvetaking skal medlemsstatene sørge for at kontrollene, gjennom antall, 
 
 2\. Undersøkelsene nevnt i nr. 1 første ledd bokstav a) og b) skal utføres på anonyme prøver, vise at det undersøkte produktet er i samsvar med de egenskaper og den kvalitet som beskrives i produktspesifikasjonen for den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen og utføres når som helst under produksjonen, herunder under emballeringen, eller senere. Hver prøve skal være representativ for de berørte vinene som markedsdeltakeren har på lager.
 
-3\. For å sikre samsvar med produktspesifikasjonen nevnt i nr. 1 første ledd bokstav c), skal kontrollmyndighetenkontrollere markedsdeltakernes lokaler for å fastslå om markedsdeltakerne faktisk er i stand til å overholde vilkårene i produktspesifikasjonen, ognår som helst under produksjonen, herunder under emballeringen, kontrollere produktene på grunnlag av en kontrollplan som kontrollmyndigheten utarbeider på forhånd, som markedsdeltakerne er kjent med, og som omfatter alle produksjonsstadier.
+3\. For å sikre samsvar med produktspesifikasjonen nevnt i nr. 1 første ledd bokstav c), skal kontrollmyndigheten
+
+1. kontrollere markedsdeltakernes lokaler for å fastslå om markedsdeltakerne faktisk er i stand til å overholde vilkårene i produktspesifikasjonen, og
+2. når som helst under produksjonen, herunder under emballeringen, kontrollere produktene på grunnlag av en kontrollplan som kontrollmyndigheten utarbeider på forhånd, som markedsdeltakerne er kjent med, og som omfatter alle produksjonsstadier.
 
 4\. Den årlige kontrollen skal sikre at den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen kan brukes på et produkt bare dersom
 
@@ -2761,7 +4208,22 @@ Ved prøvetaking skal medlemsstatene sørge for at kontrollene, gjennom antall, 
 
 Analytisk og organoleptisk undersøkelse
 
-Den analytiske og organoleptiske undersøkelsen som er nevnt i artikkel 25 nr. 1 første ledd bokstav a) og b), består aven analyse av den berørte vinen der følgende karakteristiske egenskaper målespå grunnlag av en fysisk og kjemisk analyse:total og sann alkoholstyrke,totalsukker uttrykt som fruktose og glukose (herunder sukrose i perlende vin og musserende vin),totalt syreinnhold,innhold av flyktige syrer,totalt svoveldioksidinnhold.på grunnlag av en tilleggsanalyse:karbondioksid (perlende og musserende viner, overtrykk i bar ved 20 °C),andre karakteristiske egenskaper som er fastsatt i medlemsstatenes lovgivning eller i produktspesifikasjonen for de berørte beskyttede opprinnelsesbetegnelsene og beskyttede geografiske betegnelsene,en organoleptisk undersøkelse som omfatter utseende, lukt og smak.
+Den analytiske og organoleptiske undersøkelsen som er nevnt i artikkel 25 nr. 1 første ledd bokstav a) og b), består av
+
+1. en analyse av den berørte vinen der følgende karakteristiske egenskaper måles
+
+   1. på grunnlag av en fysisk og kjemisk analyse:
+
+      - total og sann alkoholstyrke,
+      - totalsukker uttrykt som fruktose og glukose (herunder sukrose i perlende vin og musserende vin),
+      - totalt syreinnhold,
+      - innhold av flyktige syrer,
+      - totalt svoveldioksidinnhold.
+   2. på grunnlag av en tilleggsanalyse:
+
+      - karbondioksid (perlende og musserende viner, overtrykk i bar ved 20 °C),
+      - andre karakteristiske egenskaper som er fastsatt i medlemsstatenes lovgivning eller i produktspesifikasjonen for de berørte beskyttede opprinnelsesbetegnelsene og beskyttede geografiske betegnelsene,
+2. en organoleptisk undersøkelse som omfatter utseende, lukt og smak.
 
 ###### Artikkel 27
 
@@ -2822,7 +4284,12 @@ Søknad om beskyttelse
 
 Språk
 
-1\. Betegnelsen som skal beskyttes, skal enten værepå det eller de offisielle språkene eller det eller de regionale språkene i den medlemsstat eller tredjestat der termen har sin opprinnelse,på det språket som anvendes i handelen for denne betegnelsen.Den betegnelsen som brukes på et bestemt språk, skal gjelde bestemte produkter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
+1\. Betegnelsen som skal beskyttes, skal enten være
+
+1. på det eller de offisielle språkene eller det eller de regionale språkene i den medlemsstat eller tredjestat der termen har sin opprinnelse,
+2. på det språket som anvendes i handelen for denne betegnelsen.
+
+Den betegnelsen som brukes på et bestemt språk, skal gjelde bestemte produkter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
 
 2\. Betegnelsen skal registreres med sin opprinnelige stavemåte.
 
@@ -2849,13 +4316,23 @@ Inngivelse av søknaden
 
 1\. En søknad anses som inngitt til Kommisjonen på den datoen søknaden mottas av Kommisjonen.
 
-2\. Kommisjonen skal bekrefte mottak av søknaden overfor medlemsstatens eller tredjestatens myndigheter eller søkeren som er etablert i den berørte tredjestat, og skal gi søknaden et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,den tradisjonelle betegnelsen,datoen for mottak av søknaden.
+2\. Kommisjonen skal bekrefte mottak av søknaden overfor medlemsstatens eller tredjestatens myndigheter eller søkeren som er etablert i den berørte tredjestat, og skal gi søknaden et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. den tradisjonelle betegnelsen,
+3. datoen for mottak av søknaden.
 
 ###### Artikkel 34
 
 Godtakbarhet
 
-1\. En søknad kan godtas når søknadsskjemaet er fullstendig utfylt og søknaden er vedlagt den dokumentasjonen som kreves i henhold til artikkel 30. Søknadsskjemaet anses som fullstendig utfylt når alle obligatoriske opplysninger som kreves i henhold til informasjonssystemene nevnt i artikkel 70a, er utfylt.I så fall skal søknaden anses å kunne godtas på den datoen den ble mottatt av Kommisjonen. Søkeren skal underrettes.Datoen skal offentliggjøres.
+1\. En søknad kan godtas når søknadsskjemaet er fullstendig utfylt og søknaden er vedlagt den dokumentasjonen som kreves i henhold til artikkel 30. Søknadsskjemaet anses som fullstendig utfylt når alle obligatoriske opplysninger som kreves i henhold til informasjonssystemene nevnt i artikkel 70a, er utfylt.
+
+I så fall skal søknaden anses å kunne godtas på den datoen den ble mottatt av Kommisjonen. Søkeren skal underrettes.
+
+Datoen skal offentliggjøres.
 
 2\. Dersom søknadsskjemaet ikke er utfylt, eller bare er delvis utfylt, eller dersom dokumentasjonen nevnt i nr. 1 ikke er framlagt samtidig med søknaden, eller noe mangler, kan ikke søknaden godtas.
 
@@ -2867,9 +4344,23 @@ Godtakbarhet
 
 Vilkår for gyldighet
 
-1\. En tradisjonell betegnelse skal anerkjennes dersomden er i samsvar med definisjonen i artikkel 54 nr. 1 bokstav a) eller b) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og oppfyller vilkårene i artikkel 31 i denne forordning,betegnelsen består bare avet navn som tradisjonelt brukes i handelen på en stor del av Fellesskapets eller den berørte tredjestats territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*), elleret kjent navn som tradisjonelt brukes i handelen i det minste på Fellesskapets eller den berørte tredjestats territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),betegnelsenikke er generisk,er definert i og underlagt medlemsstatens lovgivning ellerer underlagt anvendelsesvilkår som er fastsatt i de reglene som gjelder for vinprodusentene i den berørte tredjestat, herunder representative bransjeorganisasjoners regler.
+1\. En tradisjonell betegnelse skal anerkjennes dersom
 
-2\. I nr. 1 bokstav b) menes med tradisjonell brukminst fem år for betegnelser på språk som nevnt i artikkel 31 bokstav a) i denne forordning,minst 15 år for betegnelser på språk som nevnt i artikkel 31 bokstav b) i denne forordning.
+1. den er i samsvar med definisjonen i artikkel 54 nr. 1 bokstav a) eller b) i forordning [(EF) nr. 479/2008](eu/32008r0479*) og oppfyller vilkårene i artikkel 31 i denne forordning,
+2. betegnelsen består bare av
+
+   1. et navn som tradisjonelt brukes i handelen på en stor del av Fellesskapets eller den berørte tredjestats territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*), eller
+   2. et kjent navn som tradisjonelt brukes i handelen i det minste på Fellesskapets eller den berørte tredjestats territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 33 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*),
+3. betegnelsen
+
+   1. ikke er generisk,
+   2. er definert i og underlagt medlemsstatens lovgivning eller
+   3. er underlagt anvendelsesvilkår som er fastsatt i de reglene som gjelder for vinprodusentene i den berørte tredjestat, herunder representative bransjeorganisasjoners regler.
+
+2\. I nr. 1 bokstav b) menes med tradisjonell bruk
+
+1. minst fem år for betegnelser på språk som nevnt i artikkel 31 bokstav a) i denne forordning,
+2. minst 15 år for betegnelser på språk som nevnt i artikkel 31 bokstav b) i denne forordning.
 
 3\. I nr. 1 bokstav c) i) menes med «generisk» navnet på en tradisjonell betegnelse som, selv om den gjelder en bestemt produksjonsmetode, modningsmetode, kvalitet, farge, type sted eller en bestemt hendelse knyttet til et vinprodukts historie, er blitt den vanlige betegnelsen på det berørte vinproduktet i Fellesskapet.
 
@@ -2879,7 +4370,9 @@ Vilkår for gyldighet
 
 Grunner til avslag
 
-1\. Dersom en søknad om beskyttelse av en tradisjonell betegnelse ikke er i samsvar med definisjonen i artikkel 54 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) og kravene i artikkel 31 og 35, skal Kommisjonen underrette søkeren om grunnene til at søknaden er avslått, og fastsette en frist på to måneder fra datoen da denne underretningen ble gitt, til å trekke tilbake elle endre søknaden eller framlegge merknader.Kommisjonen treffer beslutning om beskyttelsen på grunnlag av de opplysningene den har til rådighet.
+1\. Dersom en søknad om beskyttelse av en tradisjonell betegnelse ikke er i samsvar med definisjonen i artikkel 54 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) og kravene i artikkel 31 og 35, skal Kommisjonen underrette søkeren om grunnene til at søknaden er avslått, og fastsette en frist på to måneder fra datoen da denne underretningen ble gitt, til å trekke tilbake elle endre søknaden eller framlegge merknader.
+
+Kommisjonen treffer beslutning om beskyttelsen på grunnlag av de opplysningene den har til rådighet.
 
 2\. Dersom søkeren ikke fjerner hindringene innen fristen nevnt i nr. 1, skal Kommisjonen avslå søknaden. Kommisjonen treffer beslutning om å avslå søknaden om den berørte tradisjonelle betegnelsen på grunnlag av de dokumentene og opplysningene den har til rådighet. Søkeren skal underrettes om beslutningen om at søknaden ikke kan godtas.
 
@@ -2896,7 +4389,12 @@ Søknad om innsigelse
 
 2\. Innsigelsen skal oversendes i samsvar med artikkel 70a nr. 1. En innsigelse anses som inngitt til Kommisjonen på den datoen innsigelsen mottas av Kommisjonen.
 
-3\. Kommisjonen skal bekrefte mottak av innsigelsen og gi den et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,datoen for mottak av innsigelsen.
+3\. Kommisjonen skal bekrefte mottak av innsigelsen og gi den et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. datoen for mottak av innsigelsen.
 
 ◄**M3**
 
@@ -2908,7 +4406,9 @@ Godtakbarhet
 
 2\. Dersom innsigelsen bygger på et eldre varemerke og dets anseelse og omdømme i samsvar med artikkel 41 nr. 2, skal søknaden om innsigelse vedlegges bevis for søknad om, registrering og bruk av det eldre varemerket, f.eks. registreringsbevis, bevis for bruken og bevis for varemerkets anseelse og omdømme.
 
-3\. Alle behørig begrunnede søknader om innsigelse skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for innsigelsen samt relevante underlagsdokumenter.De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerket ble brukt samt arten av bruk, og opplysninger om dets anseelse og omdømme.
+3\. Alle behørig begrunnede søknader om innsigelse skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for innsigelsen samt relevante underlagsdokumenter.
+
+De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerket ble brukt samt arten av bruk, og opplysninger om dets anseelse og omdømme.
 
 4\. Dersom opplysninger om hvilken eller hvilke eldre rettigheter som påberopes, og om de grunnene, faktiske forholdene, bevisene og merknadene eller underlagsdokumentene som er omhandlet i nr. 1–3, ikke er framlagt samtidig med søknaden om innsigelse, eller noen av dem mangler, skal Kommisjonen underrette den part som har inngitt innsigelsen om dette og oppfordre vedkommende til å rette opp manglene innen to måneder. Dersom manglene ikke er rettet opp før fristen utløper, skal Kommisjonen avvise søknaden. Den part som gjør innsigelse, medlemsstatens eller tredjestatens myndigheter eller den representative bransjeorganisasjonen etablert i den berørte tredjestat, skal underrettes om beslutningen om at innsigelsen ikke kan godtas.
 
@@ -2918,13 +4418,17 @@ Godtakbarhet
 
 Undersøkelse av en innsigelse
 
-1\. Dersom Kommisjonen ikke har avslått søknaden om innsigelse i samsvar med artikkel 38 nr. 4, skal den underrette medlemsstatens eller tredjestatens myndigheter eller den representative bransjeorganisasjonen etablert i den berørte tredjestat om innsigelsen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal sendes til den part som gjør innsigelse.Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
+1\. Dersom Kommisjonen ikke har avslått søknaden om innsigelse i samsvar med artikkel 38 nr. 4, skal den underrette medlemsstatens eller tredjestatens myndigheter eller den representative bransjeorganisasjonen etablert i den berørte tredjestat om innsigelsen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal sendes til den part som gjør innsigelse.
+
+Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
 
 2\. Dersom medlemsstatens eller tredjestatens myndigheter eller den representative bransjeorganisasjonen etablert i den berørte tredjestat eller den part som gjør innsigelse, ikke framlegger merknader, eller ikke overholder fristene, treffer Kommisjonen beslutning om innsigelsen.
 
 3\. Kommisjonen treffer beslutning om å avslå eller anerkjenne den berørte tradisjonelle betegnelsen på grunnlag av de bevisene den har til rådighet. Den skal vurdere om vilkårene nevnt i artikkel 40 nr. 1 eller fastsatt i artikkel 41 nr. 3 eller 42 er oppfylt. Den part som gjør innsigelse, medlemsstatens eller tredjestatens myndigheter eller den representative bransjeorganisasjonen etablert i den berørte tredjestat, skal underrettes om beslutningen om å avslå søknaden.
 
-4\. Dersom søknaden om innsigelse inngis av flere parter, kan det etter en foreløpig undersøkelse av en eller flere søknader om innsigelse vise seg umulig å godta søknaden om anerkjennelse; i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for innsigelse. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som er truffet som ledd i framgangsmåten.Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
+4\. Dersom søknaden om innsigelse inngis av flere parter, kan det etter en foreløpig undersøkelse av en eller flere søknader om innsigelse vise seg umulig å godta søknaden om anerkjennelse; i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for innsigelse. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som er truffet som ledd i framgangsmåten.
+
+Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
 
 ### Avsnitt 4
 Beskyttelse
@@ -2935,9 +4439,20 @@ Beskyttelse
 
 Allmenn beskyttelse
 
-1\. Dersom en tradisjonell betegnelse som det søkes om beskyttelse for, oppfyller vilkårene fastsatt i artikkel 118u nr. 1 i forordning [(EF) nr. 1234/2007](eu/32007r1234) og i artikkel 31 og 35 i denne forordning, og ikke avslås i henhold til artikkel 36, 38 og 39 i denne forordning, skal den tradisjonelle betegnelsen registreres og defineres i databasen «E-Bacchus» i samsvar med artikkel 118u nr. 2 i forordning [(EF) nr. 1234/2007](eu/32007r1234) på grunnlag av de opplysningene som er oversendt til Kommisjonen i henhold til artikkel 70a nr. 1 i denne forordning, med angivelse avspråket nevnt i artikkel 31 nr. 1,den eller de kategoriene vinprodukter som er omfattet av beskyttelsen,en henvisning til den nasjonale lovgivning i den medlemsstat eller tredjestat der den tradisjonelle betegnelsen er definert og underlagt lovgivning, eller til reglene som gjelder for vinprodusentene i tredjestaten, herunder representative bransjeorganisasjoners regler, dersom det ikke er noen nasjonal lovgivning i disse tredjestatene,et sammendrag av definisjonen eller bruksvilkårene,navn på opprinnelsesstaten eller opprinnelsesstatene,dato for registrering i den elektroniske databasen «E-Bacchus».
+1\. Dersom en tradisjonell betegnelse som det søkes om beskyttelse for, oppfyller vilkårene fastsatt i artikkel 118u nr. 1 i forordning [(EF) nr. 1234/2007](eu/32007r1234) og i artikkel 31 og 35 i denne forordning, og ikke avslås i henhold til artikkel 36, 38 og 39 i denne forordning, skal den tradisjonelle betegnelsen registreres og defineres i databasen «E-Bacchus» i samsvar med artikkel 118u nr. 2 i forordning [(EF) nr. 1234/2007](eu/32007r1234) på grunnlag av de opplysningene som er oversendt til Kommisjonen i henhold til artikkel 70a nr. 1 i denne forordning, med angivelse av
 
-2\. De tradisjonelle betegnelsene som er registrert i den elektroniske databasen «E-Bacchus», skal beskyttes bare på det språket og for de kategoriene av vinprodukter som er angitt i søknaden, motethvert misbruk, også når den beskyttede betegnelsen følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,enhver annen uberettiget eller villedende angivelse av produktets art, egenskaper eller vesentlige egenskaper på pakningen eller emballasjen, i reklamemateriell eller i dokumenter for vedkommende produkt,enhver annen praksis som er egnet til å villede forbrukeren, særlig for å gi inntrykk av at vinen oppfyller kravene til den beskyttede tradisjonelle betegnelsen.
+1. språket nevnt i artikkel 31 nr. 1,
+2. den eller de kategoriene vinprodukter som er omfattet av beskyttelsen,
+3. en henvisning til den nasjonale lovgivning i den medlemsstat eller tredjestat der den tradisjonelle betegnelsen er definert og underlagt lovgivning, eller til reglene som gjelder for vinprodusentene i tredjestaten, herunder representative bransjeorganisasjoners regler, dersom det ikke er noen nasjonal lovgivning i disse tredjestatene,
+4. et sammendrag av definisjonen eller bruksvilkårene,
+5. navn på opprinnelsesstaten eller opprinnelsesstatene,
+6. dato for registrering i den elektroniske databasen «E-Bacchus».
+
+2\. De tradisjonelle betegnelsene som er registrert i den elektroniske databasen «E-Bacchus», skal beskyttes bare på det språket og for de kategoriene av vinprodukter som er angitt i søknaden, mot
+
+1. ethvert misbruk, også når den beskyttede betegnelsen følges av et uttrykk som «art», «type», «metode», «som framstilt i», «etterligning», «smak», «som» eller tilsvarende,
+2. enhver annen uberettiget eller villedende angivelse av produktets art, egenskaper eller vesentlige egenskaper på pakningen eller emballasjen, i reklamemateriell eller i dokumenter for vedkommende produkt,
+3. enhver annen praksis som er egnet til å villede forbrukeren, særlig for å gi inntrykk av at vinen oppfyller kravene til den beskyttede tradisjonelle betegnelsen.
 
 3\. De tradisjonelle betegnelsene som er registrert i den elektroniske databasen «E-Bacchus», skal offentliggjøres.
 
@@ -2949,11 +4464,15 @@ Forhold til varemerker
 
 ►**M2**
 
-1\. Dersom en tradisjonell betegnelse er beskyttet i henhold til denne forordning, skal registreringen av et varemerke hvis anvendelse kan være i strid med artikkel 40 nr. 2, vurderes i samsvar med europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) eller rådsforordning [(EF) nr. 207/2009](eu/32009r0207).Varemerker som er registrert i strid med første ledd, skal på anmodning kjennes ugyldige etter de gjeldende framgangsmåtene fastsatt i direktiv [2008/95/EF](eu/32008l0095) eller forordning [(EF) nr. 207/2009](eu/32009r0207).
+1\. Dersom en tradisjonell betegnelse er beskyttet i henhold til denne forordning, skal registreringen av et varemerke hvis anvendelse kan være i strid med artikkel 40 nr. 2, vurderes i samsvar med europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) eller rådsforordning [(EF) nr. 207/2009](eu/32009r0207).
+
+Varemerker som er registrert i strid med første ledd, skal på anmodning kjennes ugyldige etter de gjeldende framgangsmåtene fastsatt i direktiv [2008/95/EF](eu/32008l0095) eller forordning [(EF) nr. 207/2009](eu/32009r0207).
 
 ◄**M2**
 
-2\. Et varemerke hvis bruk tilsvarer et av tilfellene nevnt i artikkel 40 i denne forordning, og som det er inngitt søknad om, som er registrert eller som er oppnådd ved bruk, dersom den muligheten er fastsatt i det berørte regelverk, på Fellesskapets territorium før 4. mai 2002, eller før datoen for inngivelse av søknaden om beskyttelse av den tradisjonelle termen til Kommisjonen, kan fortsatt brukes og fornyes uten hensyn til beskyttelsen av den tradisjonelle termen.I slike tilfeller skal bruk av den tradisjonelle betegnelsen tillates parallelt med det berørte varemerket.
+2\. Et varemerke hvis bruk tilsvarer et av tilfellene nevnt i artikkel 40 i denne forordning, og som det er inngitt søknad om, som er registrert eller som er oppnådd ved bruk, dersom den muligheten er fastsatt i det berørte regelverk, på Fellesskapets territorium før 4. mai 2002, eller før datoen for inngivelse av søknaden om beskyttelse av den tradisjonelle termen til Kommisjonen, kan fortsatt brukes og fornyes uten hensyn til beskyttelsen av den tradisjonelle termen.
+
+I slike tilfeller skal bruk av den tradisjonelle betegnelsen tillates parallelt med det berørte varemerket.
 
 3\. Et navn skal ikke beskyttes som tradisjonell betegnelse dersom dette, på bakgrunn av et varemerkes omdømme og anseelse, vil kunne villede forbrukeren med hensyn til vinens virkelige identitet, art, egenskaper eller kvalitet.
 
@@ -2963,7 +4482,9 @@ Homonyme betegnelser
 
 ►**M2**
 
-1\. Når en betegnelse som det er inngitt søknad om, og som er helt eller delvis homonym med en tradisjonell betegnelse som allerede er beskyttet i henhold til dette kapittel, skal beskyttes, skal det tas behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.En homonym betegnelse som villeder forbrukeren med hensyn til produktenes art, kvalitet eller virkelige opprinnelse, registreres ikke selv om betegnelsen er riktig.
+1\. Når en betegnelse som det er inngitt søknad om, og som er helt eller delvis homonym med en tradisjonell betegnelse som allerede er beskyttet i henhold til dette kapittel, skal beskyttes, skal det tas behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.
+
+En homonym betegnelse som villeder forbrukeren med hensyn til produktenes art, kvalitet eller virkelige opprinnelse, registreres ikke selv om betegnelsen er riktig.
 
 ◄**M2**
 
@@ -3010,7 +4531,12 @@ Søknad om annullering
 
 1\. En medlemsstat, en tredjestat eller en fysisk eller juridisk person som har en rettmessig interesse, kan sende en behørig begrunnet søknad om annullering til Kommisjonen i samsvar med artikkel 70a nr. 1. En søknad anses som inngitt til Kommisjonen på den datoen søknaden mottas av Kommisjonen. Datoen skal offentliggjøres.
 
-2\. Kommisjonens skal bekrefte mottak av søknaden og gi den et saksnummer.Mottakskvitteringen skal inneholde minst følgende opplysninger:saksnummeret,datoen for mottak av søknaden.»
+2\. Kommisjonens skal bekrefte mottak av søknaden og gi den et saksnummer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. saksnummeret,
+2. datoen for mottak av søknaden.»
 
 3\. Nr. 1 og 2 får ikke anvendelse dersom Kommisjonen tar initiativ til annulleringen.
 
@@ -3020,7 +4546,11 @@ Søknad om annullering
 
 Godtakbarhet
 
-1\. Når det skal fastsettes om en søknad om annullering kan godtas, skal Kommisjonen kontrollere at det i søknadengis opplysninger om hvilken rettmessig interesse opphavspersonen til søknaden om annullering har,gis en forklaring på årsakene til annulleringen, ogvises til en erklæring fra den medlemsstaten eller tredjestaten der opphavspersonen til søknaden har sitt bosted eller hovedkontor, der det forklares hvilken rettmessig interesse og begrunnelse samt hvilket motiv opphavspersonen til søknaden har.
+1\. Når det skal fastsettes om en søknad om annullering kan godtas, skal Kommisjonen kontrollere at det i søknaden
+
+1. gis opplysninger om hvilken rettmessig interesse opphavspersonen til søknaden om annullering har,
+2. gis en forklaring på årsakene til annulleringen, og
+3. vises til en erklæring fra den medlemsstaten eller tredjestaten der opphavspersonen til søknaden har sitt bosted eller hovedkontor, der det forklares hvilken rettmessig interesse og begrunnelse samt hvilket motiv opphavspersonen til søknaden har.
 
 2\. Alle søknader om annullering skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for annulleringen samt relevante underlagsdokumenter.
 
@@ -3032,13 +4562,19 @@ Godtakbarhet
 
 Undersøkelse av en annullering
 
-1\. Dersom Kommisjonen ikke har avslått søknaden om annullering i samsvar med artikkel 46 nr. 3, skal den underrette medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat om annulleringen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal eventuelt sendes til opphavspersonen til søknaden om annullering.Som ledd i undersøkelsen av en annullering skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
+1\. Dersom Kommisjonen ikke har avslått søknaden om annullering i samsvar med artikkel 46 nr. 3, skal den underrette medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat om annulleringen, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal eventuelt sendes til opphavspersonen til søknaden om annullering.
+
+Som ledd i undersøkelsen av en annullering skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, senest to måneder etter oppfordringen.
 
 2\. Dersom medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat eller opphavspersonen til søknaden om annullering ikke framlegger merknader, eller ikke overholder fristene, treffer Kommisjonen beslutning om annulleringen.
 
-3\. Kommisjonen treffer beslutning om å annullere den berørte tradisjonelle betegnelsen på grunnlag av bevisene den har til rådighet. Den skal vurdere om vilkårene i artikkel 44 ikke lenger er oppfylt.Opphavspersonen til søknaden om annullering og medlemsstatens eller tredjestatens berørte myndigheter skal underrettes om beslutningen om annullering.
+3\. Kommisjonen treffer beslutning om å annullere den berørte tradisjonelle betegnelsen på grunnlag av bevisene den har til rådighet. Den skal vurdere om vilkårene i artikkel 44 ikke lenger er oppfylt.
 
-4\. Ved flere søknader om annullering kan det etter en foreløpig undersøkelse av en eller flere søknader om annullering vise seg umulig å fortsette å beskytte en tradisjonell betegnelse, og i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for annullering. I så fall skal Kommisjonen underrette de andre opphavspersonene til søknader om annullering om beslutninger som er truffet som ledd i framgangsmåten, og som berører dem.Dersom en tradisjonell betegnelse annulleres, skal de framgangsmåtene for annullering som er utsatt, anses som avsluttet, og de berørte opphavspersonene til søknadene om annullering skal behørig underrettes.
+Opphavspersonen til søknaden om annullering og medlemsstatens eller tredjestatens berørte myndigheter skal underrettes om beslutningen om annullering.
+
+4\. Ved flere søknader om annullering kan det etter en foreløpig undersøkelse av en eller flere søknader om annullering vise seg umulig å fortsette å beskytte en tradisjonell betegnelse, og i slike tilfeller kan Kommisjonen utsette de øvrige framgangsmåtene for annullering. I så fall skal Kommisjonen underrette de andre opphavspersonene til søknader om annullering om beslutninger som er truffet som ledd i framgangsmåten, og som berører dem.
+
+Dersom en tradisjonell betegnelse annulleres, skal de framgangsmåtene for annullering som er utsatt, anses som avsluttet, og de berørte opphavspersonene til søknadene om annullering skal behørig underrettes.
 
 ►**M3**
 
@@ -3053,7 +4589,10 @@ Eksisterende beskyttede tradisjonelle betegnelser
 
 Eksisterende beskyttede tradisjonelle betegnelser
 
-Tradisjonelle betegnelser som er beskyttet i samsvar med artikkel 24, 28 og 29 i forordning [(EF) nr. 753/2002](eu/32002r0753*), skal automatisk beskyttes i henhold til denne forordning, under forutsetning av atet sammendrag av definisjonen eller anvendelsesvilkårene er oversendt til Kommisjonen innen 1. mai 2009,medlemsstatene eller tredjestatene ikke har opphørt med å beskytte visse tradisjonelle betegnelser.
+Tradisjonelle betegnelser som er beskyttet i samsvar med artikkel 24, 28 og 29 i forordning [(EF) nr. 753/2002](eu/32002r0753*), skal automatisk beskyttes i henhold til denne forordning, under forutsetning av at
+
+1. et sammendrag av definisjonen eller anvendelsesvilkårene er oversendt til Kommisjonen innen 1. mai 2009,
+2. medlemsstatene eller tredjestatene ikke har opphørt med å beskytte visse tradisjonelle betegnelser.
 
 ### Kapittel IV
 Merking og presentasjon
@@ -3069,7 +4608,9 @@ Obligatoriske angivelser
 
 Plassering av obligatoriske angivelser
 
-1\. De obligatoriske angivelsene som er nevnt i artikkel 58 i forordning [(EF) nr. 479/2008](eu/32008r0479*), samt de som er oppført i artikkel 59 i samme forordning, skal angis i samme synsfelt på beholderen slik at de kan leses samtidig uten at det er nødvendig å snu beholderen.De obligatoriske angivelsene om partinummeret og de opplysningene som er nevnt i artikkel 51 og artikkel 56 nr. 4 i denne forordning, kan imidlertid være plassert utenfor synsfeltet der de øvrige obligatoriske angivelsene står.
+1\. De obligatoriske angivelsene som er nevnt i artikkel 58 i forordning [(EF) nr. 479/2008](eu/32008r0479*), samt de som er oppført i artikkel 59 i samme forordning, skal angis i samme synsfelt på beholderen slik at de kan leses samtidig uten at det er nødvendig å snu beholderen.
+
+De obligatoriske angivelsene om partinummeret og de opplysningene som er nevnt i artikkel 51 og artikkel 56 nr. 4 i denne forordning, kan imidlertid være plassert utenfor synsfeltet der de øvrige obligatoriske angivelsene står.
 
 2\. De obligatoriske angivelsene nevnt i nr. 1 og de som gjelder i henhold til rettsaktene nevnt i artikkel 58 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal angis med uutslettelige bokstaver som klart kan skilles fra tekst eller bilder som omgir dem.
 
@@ -3103,7 +4644,11 @@ Lukkemekanismer for produkter som nevnt i artikkel 49, skal ikke være forsynt m
 
 Sann alkoholstyrke
 
-1\. Den sanne alkoholstyrken i volumprosent nevnt i artikkel 59 nr. 1 bokstav c) i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal angis i hele eller halve prosentenheter.Tallet skal etterfølges av uttrykket «vol.-%», og uttrykket «sann alkoholstyrke», «sann alkohol» eller forkortelsen «alk» kan angis foran.Med forbehold for toleransene fastsatt ved den anvendte referanseanalysemetoden, kan den angitte alkoholstyrken ikke avvike med mer enn 0,5 vol.-% fra styrken som er bestemt ved analysen. Når det gjelder produkter med beskyttet opprinnelsesbetegnelse eller beskyttet geografiske betegnelse som er lagret på flaske i mer enn tre år, samt musserende vin, musserende kvalitetsvin, kullsyreimpregnert musserende vin, perlende vin, kullsyreimpregnert perlende vin, sterkvin og vin av overmodne druer, med forbehold for toleranser fastsatt ved den anvendte referanseanalysemetoden, kan den angitte alkoholstyrken ikke avvike med mer enn 0,8 vol.-% fra styrken som er bestemt ved analysen.
+1\. Den sanne alkoholstyrken i volumprosent nevnt i artikkel 59 nr. 1 bokstav c) i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal angis i hele eller halve prosentenheter.
+
+Tallet skal etterfølges av uttrykket «vol.-%», og uttrykket «sann alkoholstyrke», «sann alkohol» eller forkortelsen «alk» kan angis foran.
+
+Med forbehold for toleransene fastsatt ved den anvendte referanseanalysemetoden, kan den angitte alkoholstyrken ikke avvike med mer enn 0,5 vol.-% fra styrken som er bestemt ved analysen. Når det gjelder produkter med beskyttet opprinnelsesbetegnelse eller beskyttet geografiske betegnelse som er lagret på flaske i mer enn tre år, samt musserende vin, musserende kvalitetsvin, kullsyreimpregnert musserende vin, perlende vin, kullsyreimpregnert perlende vin, sterkvin og vin av overmodne druer, med forbehold for toleranser fastsatt ved den anvendte referanseanalysemetoden, kan den angitte alkoholstyrken ikke avvike med mer enn 0,8 vol.-% fra styrken som er bestemt ved analysen.
 
 2\. Den sanne alkoholstyrken skal angis på etiketten med minst 5 mm høye skrifttegn dersom det nominelle volumet er på over 100 cl, med minst 3 mm høye skrifttegn dersom det er 100 cl eller lavere, men over 20 cl, og 2 mm høye dersom det er 20 cl eller lavere.
 
@@ -3117,9 +4662,34 @@ Sann alkoholstyrke
 
 Angivelse av herkomst
 
-1\. Herkomsten som nevnt i artikkel 59 nr. 1 bokstav d) i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal angis på følgende måte:for viner nevnt i nr. 1, 2, 3, 7–9, 15 og 16 i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, ved hjelp av følgende uttrykk:«vin fra (...)», «framstilt i (...)» eller «produkt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin.For vin fra et område delt av en landegrense, som er framstilt av visse druesorter som nevnt i artikkel 60 nr. 2 bokstav c) i forordning [(EF) nr. 479/2008](eu/32008r0479*), kan bare navnet på en eller flere medlemsstater eller tredjestater angis.enten uttrykket «vin fra Det europeiske fellesskap» eller tilsvarende uttrykk, eller «blanding av viner fra forskjellige stater i Det europeiske fellesskap» for vin som er et resultat av en blanding av viner med opprinnelse i flere medlemsstater, elleruttrykket «blanding av viner fra forskjellige stater utenfor Det europeiske fellesskap» eller «blanding fra (...)» etterfulgt av navnene på de berørte tredjestatene, for vin som er et resultat av en blanding av viner med opprinnelse i flere tredjestater,enten uttrykket «vin fra Det europeiske fellesskap» eller tilsvarende uttrykk, eller «vin framstilt i (...) av druer høstet i ( ... ) », etterfulgt av navnene på de berørte medlemsstatene, for vin framstilt i en medlemsstat av druer høstet i en annen medlemsstat, elleruttrykket «vin framstilt i ( .. ) av druer høstet i (...)» etterfulgt av navnene på de berørte tredjestatene, for viner framstilt i en tredjestat av druer høstet i en annen tredjestat,for viner nevnt i nr. 4, 5 og 6 i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse ved hjelp av et av følgende uttrykk:«vin fra (...)», «framstilt i (...)», «produkt fra (. .)» eller «sekt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin,uttrykket «framstilt i (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten der annengangsgjæringen finner sted,for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse uttrykket «vin fra (...)», «framstilt i (...) » eller «produkt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin.Ved en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som gjelder et område delt av en landegrense, kan bare navnet på en eller flere medlemsstater eller tredjestater angis.Dette nummer berører ikke artikkel 56 og 67.
+1\. Herkomsten som nevnt i artikkel 59 nr. 1 bokstav d) i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal angis på følgende måte:
 
-2\. For druemost, druemost i gjæring, konsentrert druemost eller ung, ikke-ferdiggjæret vin skal herkomsten som nevnt i artikkel 59 nr. 1 bokstav d) i forordning [(EF) nr. 479/2008](eu/32008r0479*), angis på følgende måte:«most fra (...)» eller «most framstilt i (...)» eller tilsvarende uttrykk etterfulgt av navnet på medlemsstaten eller et individuelt område som utgjør en del av medlemsstaten der produktet er framstilt,«blanding av produkter fra to eller flere stater i Det europeiske fellesskap» ved blanding av produkter framstilt i to eller flere medlemsstater,«most framstilt i (...) av druer høstet i (...)» for druemost som ikke er framstilt i den medlemsstaten der druene er høstet.
+1. for viner nevnt i nr. 1, 2, 3, 7–9, 15 og 16 i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, ved hjelp av følgende uttrykk:
+
+   1. «vin fra (...)», «framstilt i (...)» eller «produkt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin.
+
+      For vin fra et område delt av en landegrense, som er framstilt av visse druesorter som nevnt i artikkel 60 nr. 2 bokstav c) i forordning [(EF) nr. 479/2008](eu/32008r0479*), kan bare navnet på en eller flere medlemsstater eller tredjestater angis.
+   2. enten uttrykket «vin fra Det europeiske fellesskap» eller tilsvarende uttrykk, eller «blanding av viner fra forskjellige stater i Det europeiske fellesskap» for vin som er et resultat av en blanding av viner med opprinnelse i flere medlemsstater, eller
+
+      uttrykket «blanding av viner fra forskjellige stater utenfor Det europeiske fellesskap» eller «blanding fra (...)» etterfulgt av navnene på de berørte tredjestatene, for vin som er et resultat av en blanding av viner med opprinnelse i flere tredjestater,
+   3. enten uttrykket «vin fra Det europeiske fellesskap» eller tilsvarende uttrykk, eller «vin framstilt i (...) av druer høstet i ( ... ) », etterfulgt av navnene på de berørte medlemsstatene, for vin framstilt i en medlemsstat av druer høstet i en annen medlemsstat, eller
+
+      uttrykket «vin framstilt i ( .. ) av druer høstet i (...)» etterfulgt av navnene på de berørte tredjestatene, for viner framstilt i en tredjestat av druer høstet i en annen tredjestat,
+2. for viner nevnt i nr. 4, 5 og 6 i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse ved hjelp av et av følgende uttrykk:
+
+   1. «vin fra (...)», «framstilt i (...)», «produkt fra (. .)» eller «sekt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin,
+   2. uttrykket «framstilt i (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten der annengangsgjæringen finner sted,
+3. for viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse uttrykket «vin fra (...)», «framstilt i (...) » eller «produkt fra (...)» eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstat eller den tredjestat der druene er høstet og bearbeidet til vin.
+
+Ved en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som gjelder et område delt av en landegrense, kan bare navnet på en eller flere medlemsstater eller tredjestater angis.
+
+Dette nummer berører ikke artikkel 56 og 67.
+
+2\. For druemost, druemost i gjæring, konsentrert druemost eller ung, ikke-ferdiggjæret vin skal herkomsten som nevnt i artikkel 59 nr. 1 bokstav d) i forordning [(EF) nr. 479/2008](eu/32008r0479*), angis på følgende måte:
+
+1. «most fra (...)» eller «most framstilt i (...)» eller tilsvarende uttrykk etterfulgt av navnet på medlemsstaten eller et individuelt område som utgjør en del av medlemsstaten der produktet er framstilt,
+2. «blanding av produkter fra to eller flere stater i Det europeiske fellesskap» ved blanding av produkter framstilt i to eller flere medlemsstater,
+3. «most framstilt i (...) av druer høstet i (...)» for druemost som ikke er framstilt i den medlemsstaten der druene er høstet.
 
 3\. For Det forente kongerike kan navnet på medlemsstaten erstattes med navnet på et individuelt område som inngår i Det forente kongerike.
 
@@ -3146,11 +4716,28 @@ Angivelse av tapper, produsent, importør og selger
 
 ◄**M1**
 
-2\. Utover tapperens navn og adresse angis entenuttrykket «tapper» eller «tappet av (...)» elleruttrykk hvis anvendelsesvilkår er fastsatt av medlemsstatene, når tapping av viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse finner stedpå en produsents driftsenhet ellerpå en produsentgruppes driftsenhet elleri et foretak som ligger i det avgrensede geografiske området eller i umiddelbar nærhet av det berørte geografiske området.Ved kontraktsbestemt tapping skal angivelsen av tapperen utfylles med uttrykket «tappet for (...)» eller, dersom navnet og adressen til den som har utført tappingen på vegne av tredjemann angis, med uttrykket «tappet for (...) av (...)».Dersom tappingen finner sted på et annet sted enn hos tapperen, skal opplysningene omhandlet i dette nummer følges av en henvisning nøyaktig til det sted der tappingen fant sted, og dersom den fant sted i en annen medlemsstat, navnet på den staten. ►**M2** Disse kravene gjelder ikke når tappingen skjer på et sted i umiddelbar nærhet av tapperen. ◄**M2**Dersom det dreier seg om andre beholdere enn flasker, skal uttrykket «emballeringsbedrift» og «emballert av (...)» erstatte «tapper» og «tappet av (...)», med mindre det ikke skilles mellom disse uttrykkene på det aktuelle språket.
+2\. Utover tapperens navn og adresse angis enten
+
+1. uttrykket «tapper» eller «tappet av (...)» eller
+2. uttrykk hvis anvendelsesvilkår er fastsatt av medlemsstatene, når tapping av viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse finner sted
+
+   1. på en produsents driftsenhet eller
+   2. på en produsentgruppes driftsenhet eller
+   3. i et foretak som ligger i det avgrensede geografiske området eller i umiddelbar nærhet av det berørte geografiske området.
+
+Ved kontraktsbestemt tapping skal angivelsen av tapperen utfylles med uttrykket «tappet for (...)» eller, dersom navnet og adressen til den som har utført tappingen på vegne av tredjemann angis, med uttrykket «tappet for (...) av (...)».
+
+Dersom tappingen finner sted på et annet sted enn hos tapperen, skal opplysningene omhandlet i dette nummer følges av en henvisning nøyaktig til det sted der tappingen fant sted, og dersom den fant sted i en annen medlemsstat, navnet på den staten. ►**M2** Disse kravene gjelder ikke når tappingen skjer på et sted i umiddelbar nærhet av tapperen. ◄**M2**
+
+Dersom det dreier seg om andre beholdere enn flasker, skal uttrykket «emballeringsbedrift» og «emballert av (...)» erstatte «tapper» og «tappet av (...)», med mindre det ikke skilles mellom disse uttrykkene på det aktuelle språket.
 
 ►**M2**
 
-3\. Produsentens og selgerens navn og adresse skal utfylles med uttrykket «produsent» eller «produsert av» og «selger» eller «solgt av», eller tilsvarende uttrykk.Medlemsstatene kan beslutte ågjøre det obligatorisk med angivelse av produsenten,
+3\. Produsentens og selgerens navn og adresse skal utfylles med uttrykket «produsent» eller «produsert av» og «selger» eller «solgt av», eller tilsvarende uttrykk.
+
+Medlemsstatene kan beslutte å
+
+1. gjøre det obligatorisk med angivelse av produsenten,
 
 ►**M5**
 
@@ -3162,9 +4749,16 @@ Angivelse av tapper, produsent, importør og selger
 
 4\. Uttrykket «importør» eller «importert av (...)» skal stå foran importørens navn og adresse.
 
-5\. Angivelsene nevnt i nr. 2, 3 og 4 kan oppføres samlet dersom de gjelder samme fysiske og juridiske person.En av disse angivelsene kan erstattes med en kode som fastsettes av medlemsstaten der tapperen, produsenten, importøren eller selgeren har sitt hovedkontor. Koden skal utfylles med en henvisning til den berørte medlemsstat. Navnet og adressen til en annen fysisk eller juridisk person enn tapperen, produsenten, importøren eller selgeren som er angitt med en kode, og som har deltatt i den kommersielle distribusjonen, skal også angis på det berørte produktets etikett.
+5\. Angivelsene nevnt i nr. 2, 3 og 4 kan oppføres samlet dersom de gjelder samme fysiske og juridiske person.
 
-6\. Dersom tapperens, produsentens, importørens eller selgerens navn eller adresse består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal navnet og adressen angismed skrifttegn som ikke er mer enn halvparten så store som dem som brukes til den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen eller til angivelse av den berørte kategorien vinprodukt, ellerved hjelp av en kode i henhold til nr. 5 annet ledd.Medlemsstatene kan velge hvilken løsning som skal anvendes på produkter framstilt på deres territorium.
+En av disse angivelsene kan erstattes med en kode som fastsettes av medlemsstaten der tapperen, produsenten, importøren eller selgeren har sitt hovedkontor. Koden skal utfylles med en henvisning til den berørte medlemsstat. Navnet og adressen til en annen fysisk eller juridisk person enn tapperen, produsenten, importøren eller selgeren som er angitt med en kode, og som har deltatt i den kommersielle distribusjonen, skal også angis på det berørte produktets etikett.
+
+6\. Dersom tapperens, produsentens, importørens eller selgerens navn eller adresse består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal navnet og adressen angis
+
+1. med skrifttegn som ikke er mer enn halvparten så store som dem som brukes til den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen eller til angivelse av den berørte kategorien vinprodukt, eller
+2. ved hjelp av en kode i henhold til nr. 5 annet ledd.
+
+Medlemsstatene kan velge hvilken løsning som skal anvendes på produkter framstilt på deres territorium.
 
 1 EUT L 302 av 19.10.1992, s. 1.
 
@@ -3172,7 +4766,11 @@ Angivelse av tapper, produsent, importør og selger
 
 Angivelse av driftsenheten
 
-1\. De uttrykkene som viser til en driftsenhet i vedlegg XIII, unntatt navnet på tapperen, produsenten eller selgeren, skal være forbeholdt viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, forutsatt atvinen er framstilt utelukkende av druer høstet i vingårder som drives av denne driftsenheten,hele vinframstillingen skjer på denne driftsenheten,medlemsstatene fastsetter regler for anvendelsen av sine respektive uttrykk oppført i vedlegg XIII. Tredjestater fastsetter regler for anvendelsen av sine respektive uttrykk oppført i vedlegg XIII, herunder representative bransjeorganisasjoners regler.
+1\. De uttrykkene som viser til en driftsenhet i vedlegg XIII, unntatt navnet på tapperen, produsenten eller selgeren, skal være forbeholdt viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, forutsatt at
+
+1. vinen er framstilt utelukkende av druer høstet i vingårder som drives av denne driftsenheten,
+2. hele vinframstillingen skjer på denne driftsenheten,
+3. medlemsstatene fastsetter regler for anvendelsen av sine respektive uttrykk oppført i vedlegg XIII. Tredjestater fastsetter regler for anvendelsen av sine respektive uttrykk oppført i vedlegg XIII, herunder representative bransjeorganisasjoners regler.
 
 2\. Navnet på driftsenheten kan brukes av andre markedsdeltakere som medvirker i markedsføringen av produktet, bare dersom den berørte driftsenheten gir sitt samtykke.
 
@@ -3205,7 +4803,9 @@ I samsvar med artikkel 59 nr. 3 bokstav b) i forordning [(EF) nr. 479/2008](eu/3
 
 Særlige regler for kullsyreimpregnert musserende vin, kullsyreimpregnert perlende vin og musserende kvalitetsvin
 
-1\. Uttrykkene «kullsyreimpregnert musserende vin» og «kullsyreimpregnert perlende vin» som nevnt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal følges av ordene «framstilt ved tilsetting av kullsyre» med bokstaver av samme type og størrelse, med mindre det framgår av det språket som brukes, at det er tilsatt kullsyre.Uttrykket «framstilt ved tilsetting av kullsyre» skal angis også når artikkel 59 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) får anvendelse.
+1\. Uttrykkene «kullsyreimpregnert musserende vin» og «kullsyreimpregnert perlende vin» som nevnt i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) skal følges av ordene «framstilt ved tilsetting av kullsyre» med bokstaver av samme type og størrelse, med mindre det framgår av det språket som brukes, at det er tilsatt kullsyre.
+
+Uttrykket «framstilt ved tilsetting av kullsyre» skal angis også når artikkel 59 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) får anvendelse.
 
 2\. For musserende kvalitetsvin kan henvisningen til kategorien vinprodukt utelates for viner med etikett som inneholder uttrykket «sekt».
 
@@ -3216,7 +4816,10 @@ Frivillige opplysninger
 
 Årgang
 
-1\. Årgangen nevnt i artikkel 60 nr. 1 bokstav a) i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan angis på etiketten på de produktene som er nevnt i artikkel 49, forutsatt at minst 85 % av druene som er brukt til å framstille produktene, er høstet i det aktuelle året. Dette omfatter ikkeden mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», ellerden mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*).
+1\. Årgangen nevnt i artikkel 60 nr. 1 bokstav a) i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan angis på etiketten på de produktene som er nevnt i artikkel 49, forutsatt at minst 85 % av druene som er brukt til å framstille produktene, er høstet i det aktuelle året. Dette omfatter ikke
+
+1. den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», eller
+2. den mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*).
 
 2\. For produkter som tradisjonelt framstilles av druer som er høstet i januar eller februar, skal foregående kalenderår angis som årgang på etiketten.
 
@@ -3226,7 +4829,30 @@ Frivillige opplysninger
 
 Navn på druesorter
 
-1\. Navnene på druesortene eller deres synonymer nevnt i artikkel 60 nr. 1 bokstav b) i forordning [(EF) nr. 479/2008](eu/32008r0479*) som brukes til framstilling av produktene nevnt i artikkel 49 i denne forordning, kan angis på etikettene på de berørte produktene på vilkårene fastsatt i bokstav a) og b) i denne artikkel.For viner framstilt i Det europeiske fellesskap skal navnene på druesortene eller deres synonymer være dem som er angitt i klassifiseringen av druesorter nevnt i artikkel 24 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*).For medlemsstater som er fritatt for klassifiseringsplikten fastsatt i artikkel 24 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal navnene på druesortene eller deres synonymer angis i Den internasjonale vinorganisasjons (OIV) «internasjonale liste over vinstokksorter og deres synonymer».For viner med opprinnelse i tredjestater skal anvendelsesvilkårene for navnene på druesorter eller deres synonymer være i samsvar med de reglene som gjelder for vinprodusenter i den berørte tredjestat, herunder representative bransjeorganisasjoners regler, og navnene på druesorter eller deres synonymer som er nevnt på minst en av følgende organisasjoners lister:Den internasjonale vinorganisasjon (OIV),Den internasjonale union for vern av nye plantesorter (UPOV),Det internasjonale råd for plantegenetiske ressurser (IBPGR).Navnet på druesorter eller deres synonymer kan angis for produkter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra en tredjestat, forutsatt atminst 85 % av de berørte produktene er framstilt av den druesorten som angis, dersom bare én druesort eller dens synonym angis, utenom:den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», ellerden mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*),100 % av de berørte produktene er framstilt av disse sortene dersom navnet på to eller flere druesorter eller deres synonymer er angitt, utenom:den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», ellerden mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*).I tilfellet nevnt i punkt ii) skal druesortene angis i fallende rekkefølge etter den andel de utgjør av produktet, og med skrifttegn i samme størrelse.For produkter uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse kan navnene på druesorter eller deres synonymer angis, forutsatt at kravene i nr. 1 bokstav a) eller b) og i artikkel 63 er oppfylt.
+1\. Navnene på druesortene eller deres synonymer nevnt i artikkel 60 nr. 1 bokstav b) i forordning [(EF) nr. 479/2008](eu/32008r0479*) som brukes til framstilling av produktene nevnt i artikkel 49 i denne forordning, kan angis på etikettene på de berørte produktene på vilkårene fastsatt i bokstav a) og b) i denne artikkel.
+
+1. For viner framstilt i Det europeiske fellesskap skal navnene på druesortene eller deres synonymer være dem som er angitt i klassifiseringen av druesorter nevnt i artikkel 24 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
+
+For medlemsstater som er fritatt for klassifiseringsplikten fastsatt i artikkel 24 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal navnene på druesortene eller deres synonymer angis i Den internasjonale vinorganisasjons (OIV) «internasjonale liste over vinstokksorter og deres synonymer».
+
+1. For viner med opprinnelse i tredjestater skal anvendelsesvilkårene for navnene på druesorter eller deres synonymer være i samsvar med de reglene som gjelder for vinprodusenter i den berørte tredjestat, herunder representative bransjeorganisasjoners regler, og navnene på druesorter eller deres synonymer som er nevnt på minst en av følgende organisasjoners lister:
+
+   1. Den internasjonale vinorganisasjon (OIV),
+   2. Den internasjonale union for vern av nye plantesorter (UPOV),
+   3. Det internasjonale råd for plantegenetiske ressurser (IBPGR).
+2. Navnet på druesorter eller deres synonymer kan angis for produkter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra en tredjestat, forutsatt at
+
+   1. minst 85 % av de berørte produktene er framstilt av den druesorten som angis, dersom bare én druesort eller dens synonym angis, utenom:
+
+      - den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», eller
+      - den mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*),
+   2. 100 % av de berørte produktene er framstilt av disse sortene dersom navnet på to eller flere druesorter eller deres synonymer er angitt, utenom:
+
+      - den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», eller
+      - den mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*).
+
+      I tilfellet nevnt i punkt ii) skal druesortene angis i fallende rekkefølge etter den andel de utgjør av produktet, og med skrifttegn i samme størrelse.
+3. For produkter uten beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse kan navnene på druesorter eller deres synonymer angis, forutsatt at kravene i nr. 1 bokstav a) eller b) og i artikkel 63 er oppfylt.
 
 2\. Når det dreier seg om musserende vin og musserende kvalitetsvin, kan de navnene på druesorter som anvendes for å utfylle beskrivelsen av produktet, dvs. «pinot blanc», «pinot noir», «pinot meunier» eller «pinot gris» og tilsvarende navn på andre fellesskapsspråk erstattes med synonymet «pinot».
 
@@ -3240,11 +4866,27 @@ Særlige regler for druesorter og årganger for vin uten beskyttet opprinnelsesb
 
 ►**M3**
 
-1\. Medlemsstatene skal utpeke den eller de vedkommende myndigheter som skal ha ansvar for den sertifiseringen som er omhandlet i artikkel 118z nr. 2 bokstav a) i forordning [(EF) nr. 1234/2007](eu/32007r1234), i samsvar med kriteriene fastsatt i artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).Hver medlemsstat skal innen 1. oktober 2011 oversende følgende opplysninger samt eventuelle endringer til Kommisjonen i samsvar med artikkel 70a nr. 1 i denne forordning:navn, adresse og kontaktopplysninger, herunder e-postadresser, til den eller de myndigheter som har ansvar for anvendelsen av denne artikkel,eventuelt navn, adresse og kontaktopplysninger, herunder e-postadresser, til alle organer som vedkommende myndighet har gitt fullmakt til å anvende denne artikkel,tiltakene de har truffet for å gjennomføre denne artikkel, når disse tiltakene er av særlig verdi for samarbeidet mellom medlemsstater som nevnt i forordning [(EF) nr. 555/2008](eu/32008r0555*),de druesortene som berøres av anvendelsen av artikkel 118z nr. 2 og 120a i forordning [(EF) nr. 1234/2007](eu/32007r1234).Kommisjonen skal på grunnlag av opplysninger fra medlemsstatene utarbeide og ajourføre en liste over navnene og adressene til vedkommende myndigheter og godkjente organer og over de godkjente druesortene. Kommisjonen skal offentliggjøre denne listen.
+1\. Medlemsstatene skal utpeke den eller de vedkommende myndigheter som skal ha ansvar for den sertifiseringen som er omhandlet i artikkel 118z nr. 2 bokstav a) i forordning [(EF) nr. 1234/2007](eu/32007r1234), i samsvar med kriteriene fastsatt i artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).
+
+Hver medlemsstat skal innen 1. oktober 2011 oversende følgende opplysninger samt eventuelle endringer til Kommisjonen i samsvar med artikkel 70a nr. 1 i denne forordning:
+
+1. navn, adresse og kontaktopplysninger, herunder e-postadresser, til den eller de myndigheter som har ansvar for anvendelsen av denne artikkel,
+2. eventuelt navn, adresse og kontaktopplysninger, herunder e-postadresser, til alle organer som vedkommende myndighet har gitt fullmakt til å anvende denne artikkel,
+3. tiltakene de har truffet for å gjennomføre denne artikkel, når disse tiltakene er av særlig verdi for samarbeidet mellom medlemsstater som nevnt i forordning [(EF) nr. 555/2008](eu/32008r0555*),
+4. de druesortene som berøres av anvendelsen av artikkel 118z nr. 2 og 120a i forordning [(EF) nr. 1234/2007](eu/32007r1234).
+
+Kommisjonen skal på grunnlag av opplysninger fra medlemsstatene utarbeide og ajourføre en liste over navnene og adressene til vedkommende myndigheter og godkjente organer og over de godkjente druesortene. Kommisjonen skal offentliggjøre denne listen.
 
 ◄**M3**
 
-2\. Sertifiseringen av vin, når som helst under produksjonen, herunder emballeringen av vinen, skal ivaretas enten avden eller de vedkommende myndigheter som er nevnt i nr. 1, ellerett eller flere kontrollorganer som definert i artikkel 2 annet ledd nr. 5 i forordning [(EF) nr. 882/2004](eu/32004r0882*), som opptrer som produktsertifiseringsorgan i samsvar med kriteriene fastsatt i artikkel 5 i nevnte forordning.Den eller de myndigheter som er nevnt i nr. 1, skal gi tilstrekkelige garantier for objektivitet og upartiskhet, og ha tilgang til nødvendig kvalifisert personale og ressurser for å utføre sine oppgaver.Sertifiseringsorganene omhandlet i første ledd bokstav b) skal overholde, og fra 1. mai 2010 være akkreditert i henhold til, europeisk standard EN 45011 eller ISO/IEC-veiledning 65 (Alminnelige krav til organer som utfører produktsertifisering).
+2\. Sertifiseringen av vin, når som helst under produksjonen, herunder emballeringen av vinen, skal ivaretas enten av
+
+1. den eller de vedkommende myndigheter som er nevnt i nr. 1, eller
+2. ett eller flere kontrollorganer som definert i artikkel 2 annet ledd nr. 5 i forordning [(EF) nr. 882/2004](eu/32004r0882*), som opptrer som produktsertifiseringsorgan i samsvar med kriteriene fastsatt i artikkel 5 i nevnte forordning.
+
+Den eller de myndigheter som er nevnt i nr. 1, skal gi tilstrekkelige garantier for objektivitet og upartiskhet, og ha tilgang til nødvendig kvalifisert personale og ressurser for å utføre sine oppgaver.
+
+Sertifiseringsorganene omhandlet i første ledd bokstav b) skal overholde, og fra 1. mai 2010 være akkreditert i henhold til, europeisk standard EN 45011 eller ISO/IEC-veiledning 65 (Alminnelige krav til organer som utfører produktsertifisering).
 
 ►**M1**
 
@@ -3252,7 +4894,26 @@ Kostnadene for sertifiseringen skal dekkes av de markedsdeltakerne som omfattes 
 
 ◄**M1**
 
-3\. Framgangsmåten for sertifisering fastsatt i artikkel 60 nr. 2 bokstav a) i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal sikre administrativt bevis for at opplysningene om druesortene eller den årgangen som angis på de berørte vinenes etiketter, er riktige.Dessuten kan produsentmedlemsstatene beslutte å gjennomføreen organoleptisk undersøkelse av vinens lukt og smak på grunnlag av anonyme prøver for å kontrollere at vinens grunnleggende egenskaper skyldes den eller de druesortene som er brukt,en analytisk undersøkelse av vin som er framstilt av bare én druesort.Sertifiseringen skal utføres av den eller de vedkommende myndigheter eller det eller de kontrollorganene som er nevnt i nr. 1 og 2, i den medlemsstaten der produksjonen fant sted.Sertifiseringen utføres enten vedstikkprøvekontroller på grunnlag av en risikoanalyse ellerprøvetaking ellersystematiske kontroller.Stikkprøvekontroller skal utføres på grunnlag av en kontrollplan som myndighetene har fastsatt på forhånd for de forskjellige produksjonsstadiene. Markedsdeltakerne skal underrettes om kontrollplanen. Medlemsstatene skal vilkårlig velge ut det minsteantall markedsdeltakere som skal gjennomgå denne kontrollen.Ved prøvetaking skal medlemsstatene sørge for at kontrollene, gjennom antall, art og hyppighet, er representative for hele deres territorium og står i forhold til mengden vinprodukter som markedsføres eller oppbevares med henblikk på markedsføring.Stikkprøvekontroller kan kombineres med prøvetaking.
+3\. Framgangsmåten for sertifisering fastsatt i artikkel 60 nr. 2 bokstav a) i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal sikre administrativt bevis for at opplysningene om druesortene eller den årgangen som angis på de berørte vinenes etiketter, er riktige.
+
+Dessuten kan produsentmedlemsstatene beslutte å gjennomføre
+
+1. en organoleptisk undersøkelse av vinens lukt og smak på grunnlag av anonyme prøver for å kontrollere at vinens grunnleggende egenskaper skyldes den eller de druesortene som er brukt,
+2. en analytisk undersøkelse av vin som er framstilt av bare én druesort.
+
+Sertifiseringen skal utføres av den eller de vedkommende myndigheter eller det eller de kontrollorganene som er nevnt i nr. 1 og 2, i den medlemsstaten der produksjonen fant sted.
+
+Sertifiseringen utføres enten ved
+
+1. stikkprøvekontroller på grunnlag av en risikoanalyse eller
+2. prøvetaking eller
+3. systematiske kontroller.
+
+Stikkprøvekontroller skal utføres på grunnlag av en kontrollplan som myndighetene har fastsatt på forhånd for de forskjellige produksjonsstadiene. Markedsdeltakerne skal underrettes om kontrollplanen. Medlemsstatene skal vilkårlig velge ut det minsteantall markedsdeltakere som skal gjennomgå denne kontrollen.
+
+Ved prøvetaking skal medlemsstatene sørge for at kontrollene, gjennom antall, art og hyppighet, er representative for hele deres territorium og står i forhold til mengden vinprodukter som markedsføres eller oppbevares med henblikk på markedsføring.
+
+Stikkprøvekontroller kan kombineres med prøvetaking.
 
 4\. Med hensyn til artikkel 60 nr. 2 bokstav a) i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal produsentmedlemsstatene sikre at de berørte vinprodusentene godkjennes av den medlemsstaten der produksjonen finner sted.
 
@@ -3260,7 +4921,14 @@ Kostnadene for sertifiseringen skal dekkes av de markedsdeltakerne som omfattes 
 
 6\. For vin fra et område delt av en landegrense, som nevnt i artikkel 60 nr. 2 bokstav c) i forordning [(EF) nr. 479/2008](eu/32008r0479*), kan sertifiseringen utføres av en av myndighetene i en av de berørte medlemsstatene.
 
-7\. For viner produsert i samsvar med artikkel 60 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan medlemsstatene beslutte å bruke uttrykket «sortsvin» sammen med navnet påden eller de berørte medlemsstatene,druesorten eller druesortene.For viner uten beskyttet opprinnelsesbetegnelse, beskyttet geografisk betegnelse eller geografisk betegnelse som er produsert i tredjestater, og som har etikett der navnet på en eller flere druesorter eller årgangen er angitt, kan tredjestatene beslutte å bruke uttrykket «sortsvin» sammen med navnet på den berørte tredjestat.Ved angivelse av navnet eller navnene på medlemsstatene eller tredjestatene får artikkel 55 i denne forordning ikke anvendelse.
+7\. For viner produsert i samsvar med artikkel 60 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan medlemsstatene beslutte å bruke uttrykket «sortsvin» sammen med navnet på
+
+1. den eller de berørte medlemsstatene,
+2. druesorten eller druesortene.
+
+For viner uten beskyttet opprinnelsesbetegnelse, beskyttet geografisk betegnelse eller geografisk betegnelse som er produsert i tredjestater, og som har etikett der navnet på en eller flere druesorter eller årgangen er angitt, kan tredjestatene beslutte å bruke uttrykket «sortsvin» sammen med navnet på den berørte tredjestat.
+
+Ved angivelse av navnet eller navnene på medlemsstatene eller tredjestatene får artikkel 55 i denne forordning ikke anvendelse.
 
 ►**M1**
 
@@ -3302,13 +4970,35 @@ Uttrykk som gjelder visse produksjonsmetoder
 
 1\. I samsvar med artikkel 60 nr. 1 bokstav f) i forordning [(EF) nr. 479/2008](eu/32008r0479*) kan viner som markedsføres i Fellesskapet merkes med angivelser som gjelder visse produksjonsmetoder, bl.a. de metodene som er fastsatt i nr. 2, 3, 4, 5 og 6 i denne artikkel.
 
-2\. Angivelsene oppført i vedlegg XVI er de eneste uttrykkene som kan brukes til å beskrive en vin med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra en tredjestat, som har gjæret, er modnet eller lagret i en trebeholder. Medlemsstatene eller tredjestatene kan imidlertid fastsette andre angivelser som tilsvarer dem som er fastsatt i vedlegg XV, for slike viner.Det er tillatt å bruke en av angivelsene nevnt i første ledd dersom vinen er lagret i en trebeholder i samsvar med gjeldende nasjonale bestemmelser, selv om lagringen fortsetter i en annen type beholder.Angivelsene nevnt i første ledd kan ikke brukes til å beskrive en vin som er framstilt ved hjelp av eikespon, selv om det har skjedd i forbindelse med bruk av trebeholdere.
+2\. Angivelsene oppført i vedlegg XVI er de eneste uttrykkene som kan brukes til å beskrive en vin med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra en tredjestat, som har gjæret, er modnet eller lagret i en trebeholder. Medlemsstatene eller tredjestatene kan imidlertid fastsette andre angivelser som tilsvarer dem som er fastsatt i vedlegg XV, for slike viner.
 
-3\. Uttrykket «flaskegjæret» kan brukes bare for å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra en tredjestat, eller musserende kvalitetsviner, dersomproduktet ble gjort musserende ved hjelp av en annengangsgjæring på flaske,produksjonsprosessens lengde, herunder modning i produksjonsforetaket, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinblandingen musserende, ikke har vart under ni måneder,gjæringsprosessen som skal gjøre vinblandingen musserende, og tilstedeværelsen av vinblandingen på bermen har vart i minst 90 dager,produktet ble skilt fra bermen ved filtrering etter omstikkingsmetoden eller ved tømming.
+Det er tillatt å bruke en av angivelsene nevnt i første ledd dersom vinen er lagret i en trebeholder i samsvar med gjeldende nasjonale bestemmelser, selv om lagringen fortsetter i en annen type beholder.
 
-4\. Uttrykkene «flaskegjæret etter tradisjonell metode», «tradisjonell metode», «klassisk metode» eller «klassisk tradisjonell metode» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra en tredjestat, eller musserende viner dersom produktetble gjort musserende ved hjelp av en annengangsgjæring på flaske,uten avbrudd var i kontakt med bermen i minst ni måneder i samme foretak, regnet fra det tidspunktet vinblandingen ble satt sammen,ble skilt fra bermen ved tømming.
+Angivelsene nevnt i første ledd kan ikke brukes til å beskrive en vin som er framstilt ved hjelp av eikespon, selv om det har skjedd i forbindelse med bruk av trebeholdere.
 
-5\. Uttrykket «crémant» kan brukes bare om hvite musserende kvalitetsviner eller musserende kvalitetsviner av typen «rosé» med beskyttet opprinnelsesbetegnelse eller med geografisk betegnelse fra en tredjestat, dersomdruene er høstet for hånd,vinen er laget av most framstilt ved å presse hele eller avstilkede druer. Mengden most skal ikke overstige 100 liter per 150 kg druer,det høyeste innholdet av svoveldioksid ikke overstiger 150 mg//l,sukkerinnholdet er på under 50 g/l,vinen oppfyller kravene i nr. 4 oguttrykket «crémant», med mindre annet er fastsatt i artikkel 67, er angitt på etiketten for musserende kvalitetsviner sammen med navnet på den geografiske enheten som ligger til grunn for det avgrensede området som den beskyttede opprinnelsesbetegnelsen eller den geografiske betegnelsen fra en berørt tredjestat gjelder.Bokstav a) og f) får ikke anvendelse på produsenter som eier varemerker som inneholder uttrykket «crémant», og som er registrert før 1. mars 1986.
+3\. Uttrykket «flaskegjæret» kan brukes bare for å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra en tredjestat, eller musserende kvalitetsviner, dersom
+
+1. produktet ble gjort musserende ved hjelp av en annengangsgjæring på flaske,
+2. produksjonsprosessens lengde, herunder modning i produksjonsforetaket, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinblandingen musserende, ikke har vart under ni måneder,
+3. gjæringsprosessen som skal gjøre vinblandingen musserende, og tilstedeværelsen av vinblandingen på bermen har vart i minst 90 dager,
+4. produktet ble skilt fra bermen ved filtrering etter omstikkingsmetoden eller ved tømming.
+
+4\. Uttrykkene «flaskegjæret etter tradisjonell metode», «tradisjonell metode», «klassisk metode» eller «klassisk tradisjonell metode» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra en tredjestat, eller musserende viner dersom produktet
+
+1. ble gjort musserende ved hjelp av en annengangsgjæring på flaske,
+2. uten avbrudd var i kontakt med bermen i minst ni måneder i samme foretak, regnet fra det tidspunktet vinblandingen ble satt sammen,
+3. ble skilt fra bermen ved tømming.
+
+5\. Uttrykket «crémant» kan brukes bare om hvite musserende kvalitetsviner eller musserende kvalitetsviner av typen «rosé» med beskyttet opprinnelsesbetegnelse eller med geografisk betegnelse fra en tredjestat, dersom
+
+1. druene er høstet for hånd,
+2. vinen er laget av most framstilt ved å presse hele eller avstilkede druer. Mengden most skal ikke overstige 100 liter per 150 kg druer,
+3. det høyeste innholdet av svoveldioksid ikke overstiger 150 mg//l,
+4. sukkerinnholdet er på under 50 g/l,
+5. vinen oppfyller kravene i nr. 4 og
+6. uttrykket «crémant», med mindre annet er fastsatt i artikkel 67, er angitt på etiketten for musserende kvalitetsviner sammen med navnet på den geografiske enheten som ligger til grunn for det avgrensede området som den beskyttede opprinnelsesbetegnelsen eller den geografiske betegnelsen fra en berørt tredjestat gjelder.
+
+Bokstav a) og f) får ikke anvendelse på produsenter som eier varemerker som inneholder uttrykket «crémant», og som er registrert før 1. mars 1986.
 
 6\. Henvisninger til økologisk produksjon av druer er underlagt rådsforordning [(EF) nr. 834/2007](eu/32007r0834).1
 
@@ -3322,13 +5012,23 @@ Navn på en geografisk enhet som er mindre eller større enn det området som li
 
 ►**M1**
 
-2\. For at navnet på en mindre geografisk enhet enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen skal kunne brukes, skal området for den berørte geografiske enheten være nøye definert. Medlemsstatene kan fastsette regler for anvendelsen av disse geografiske enhetene. Minst 85 % av de druene som vinen er framstilt av, skal komme fra den mindre geografiske enheten. Dette omfatter ikkeden mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», ellerden mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234).De resterende 15 % av druene skal komme fra det avgrensede geografiske området for den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen.
+2\. For at navnet på en mindre geografisk enhet enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen skal kunne brukes, skal området for den berørte geografiske enheten være nøye definert. Medlemsstatene kan fastsette regler for anvendelsen av disse geografiske enhetene. Minst 85 % av de druene som vinen er framstilt av, skal komme fra den mindre geografiske enheten. Dette omfatter ikke
+
+1. den mengden produkter som eventuelt er brukt til søtning, «ekspedisjonslikør» eller «tiragelikør», eller
+2. den mengden produkter som er nevnt i nr. 3 bokstav e) og f) i vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234).
+
+De resterende 15 % av druene skal komme fra det avgrensede geografiske området for den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen.
 
 ◄**M1**
 
 Medlemsstatene kan, når det dreier seg om registrerte varemerker eller varemerker oppnådd ved bruk før 11. mai 2002, som inneholder eller består av et navn på en mindre geografisk enhet enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, og henvisninger til et geografisk område i den berørte medlemsstat, beslutte ikke å anvende kravene i første ledd tredje og fjerde punktum.
 
-3\. Navn på en geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, eller henvisninger til et geografisk område, skal bestå av navnet pået sted eller en gruppe av steder,en kommune eller en del av en kommune,et underområde av et vindyrkingsområde eller en del av et slikt underområde,et administrasjonsområde.
+3\. Navn på en geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, eller henvisninger til et geografisk område, skal bestå av navnet på
+
+1. et sted eller en gruppe av steder,
+2. en kommune eller en del av en kommune,
+3. et underområde av et vindyrkingsområde eller en del av et slikt underområde,
+4. et administrasjonsområde.
 
 ### Avsnitt 3
 Regler for visse særlige flaskeformer og lukkemekanismer og tilleggsbestemmelser fastsatt av produsentmedlemsstatene
@@ -3337,7 +5037,10 @@ Regler for visse særlige flaskeformer og lukkemekanismer og tilleggsbestemmelse
 
 Vilkår for bruk av særlige flaskeformer
 
-For at en flasketype skal kunne oppføres på listen over særlige flasketyper i vedlegg XVII skal den oppfylle følgende krav:den skal i 25 år utelukkende, virkelig og tradisjonelt ha blitt brukt til en vin med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, ogbruken av den skal få forbrukerne til å tenke på en vin med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
+For at en flasketype skal kunne oppføres på listen over særlige flasketyper i vedlegg XVII skal den oppfylle følgende krav:
+
+1. den skal i 25 år utelukkende, virkelig og tradisjonelt ha blitt brukt til en vin med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, og
+2. bruken av den skal få forbrukerne til å tenke på en vin med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
 
 Vedlegg XVII inneholder vilkårene for å bruke anerkjente særlige flasketyper.
 
@@ -3347,9 +5050,22 @@ Vedlegg XVII inneholder vilkårene for å bruke anerkjente særlige flasketyper.
 
 Regler for presentasjon av visse produkter
 
-1\. Musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type produsert i Den europeiske union skal omsettes eller eksporteres i glassflasker av typen «musserende vin» lukket på følgende måte:for flasker med et nominelt volum på over 0,20 liter: en soppformet kork laget av kork eller annet materiale som tillates å komme i kontakt med næringsmidler, holdt på plass av et feste, om nødvendig dekket av en kapsel og kledd med folie som fullstendig dekker korken og hele eller deler av flaskehalsen,for flasker med et nominelt volum på høyst 0,20 liter: en annen egnet lukkemekanisme.Andre produkter som er produsert i Unionen, skal ikke omsettes eller eksporteres verken i glassflasker av typen «musserende vin» eller med lukkemekanismen beskrevet i første ledd bokstav a).
+1\. Musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type produsert i Den europeiske union skal omsettes eller eksporteres i glassflasker av typen «musserende vin» lukket på følgende måte:
 
-2\. Som unntak fra nr. 1 annet ledd kan medlemsstatene beslutte at følgende produkter kan omsettes eller eksporteres i glassflasker av typen «musserende vin» og/eller med lukkemekanismen beskrevet i nr. 1 første ledd bokstav a):produkter som tradisjonelt tappes på slike flasker, og somer oppført i artikkel 113d nr. 1 bokstav a) i forordning [(EF) nr. 1234/2007](eu/32007r1234),er oppført i nr. 7, 8 og 9 i vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),er oppført i rådsforordning [(EØF) nr. 1601/1991](eu/31991r1601*), ellerhar en sann alkoholstyrke i volumprosent på høyst 1,2 vol.-%,andre produkter enn dem som er nevnt i bokstav a), forutsatt at de ikke villeder forbrukerne med hensyn til produktets art.
+1. for flasker med et nominelt volum på over 0,20 liter: en soppformet kork laget av kork eller annet materiale som tillates å komme i kontakt med næringsmidler, holdt på plass av et feste, om nødvendig dekket av en kapsel og kledd med folie som fullstendig dekker korken og hele eller deler av flaskehalsen,
+2. for flasker med et nominelt volum på høyst 0,20 liter: en annen egnet lukkemekanisme.
+
+Andre produkter som er produsert i Unionen, skal ikke omsettes eller eksporteres verken i glassflasker av typen «musserende vin» eller med lukkemekanismen beskrevet i første ledd bokstav a).
+
+2\. Som unntak fra nr. 1 annet ledd kan medlemsstatene beslutte at følgende produkter kan omsettes eller eksporteres i glassflasker av typen «musserende vin» og/eller med lukkemekanismen beskrevet i nr. 1 første ledd bokstav a):
+
+1. produkter som tradisjonelt tappes på slike flasker, og som
+
+   1. er oppført i artikkel 113d nr. 1 bokstav a) i forordning [(EF) nr. 1234/2007](eu/32007r1234),
+   2. er oppført i nr. 7, 8 og 9 i vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),
+   3. er oppført i rådsforordning [(EØF) nr. 1601/1991](eu/31991r1601*), eller
+   4. har en sann alkoholstyrke i volumprosent på høyst 1,2 vol.-%,
+2. andre produkter enn dem som er nevnt i bokstav a), forutsatt at de ikke villeder forbrukerne med hensyn til produktets art.
 
 ◄**M2**
 
@@ -3378,13 +5094,30 @@ I tilfeller der det er aktuelt, skal EFTA-statene følge prosedyrene som fremgå
 
 ◄ **EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 11.**
 
-1\. Når det vises til dette nummer, skal dokumentene og opplysningene som er nødvendige for gjennomføringen av denne forordning, oversendes til Kommisjonen etter følgende metode:når det gjelder vedkommende myndigheter i medlemsstatene, ved hjelp av det informasjonssystemet som Kommisjonen har stilt til rådighet for dem i samsvar med bestemmelsene i forordning [(EF) nr. 792/2009](eu/32009r0792),når det gjelder vedkommende myndigheter og representative bransjeorganisasjoner i tredjestater, samt fysiske eller juridiske personer som har en rettmessig interesse i henhold til denne forordning, elektronisk ved hjelp av de metodene og skjemaene som Kommisjonen har stilt til rådighet for dem, og som er gjort tilgjengelige på de vilkårene som er fastsatt i vedlegg XVIII til denne forordning.Meddelelsen kan også skje på papir ved hjelp av nevnte skjemaer.Ansvaret for å inngi søknader og for innholdet i meddelelsene ligger, avhengig av omstendighetene, hos de vedkommende myndigheter som er utpekt av tredjestatene, de representative bransjeorganisasjonene eller de berørte fysiske eller juridiske personer.
+1\. Når det vises til dette nummer, skal dokumentene og opplysningene som er nødvendige for gjennomføringen av denne forordning, oversendes til Kommisjonen etter følgende metode:
 
-2\. Kommisjonen skal sende og utlevere opplysninger til de myndighetene og personene som er berørt av denne forordning, og eventuelt til offentligheten, ved hjelp av sine informasjonssystemer.De myndighetene og personene som er berørt av denne forordning, kan henvende seg til Kommisjonen i samsvar med vedlegg XIX for å få opplysninger om de praktiske reglene som gjelder for tilgang til informasjonssystemene og oversending og utlevering av opplysninger.
+1. når det gjelder vedkommende myndigheter i medlemsstatene, ved hjelp av det informasjonssystemet som Kommisjonen har stilt til rådighet for dem i samsvar med bestemmelsene i forordning [(EF) nr. 792/2009](eu/32009r0792),
+2. når det gjelder vedkommende myndigheter og representative bransjeorganisasjoner i tredjestater, samt fysiske eller juridiske personer som har en rettmessig interesse i henhold til denne forordning, elektronisk ved hjelp av de metodene og skjemaene som Kommisjonen har stilt til rådighet for dem, og som er gjort tilgjengelige på de vilkårene som er fastsatt i vedlegg XVIII til denne forordning.
+
+Meddelelsen kan også skje på papir ved hjelp av nevnte skjemaer.
+
+Ansvaret for å inngi søknader og for innholdet i meddelelsene ligger, avhengig av omstendighetene, hos de vedkommende myndigheter som er utpekt av tredjestatene, de representative bransjeorganisasjonene eller de berørte fysiske eller juridiske personer.
+
+2\. Kommisjonen skal sende og utlevere opplysninger til de myndighetene og personene som er berørt av denne forordning, og eventuelt til offentligheten, ved hjelp av sine informasjonssystemer.
+
+De myndighetene og personene som er berørt av denne forordning, kan henvende seg til Kommisjonen i samsvar med vedlegg XIX for å få opplysninger om de praktiske reglene som gjelder for tilgang til informasjonssystemene og oversending og utlevering av opplysninger.
 
 3\. Artikkel 5 nr. 2 og artikkel 6, 7 og 8 i forordning [(EF) nr. 792/2009](eu/32009r0792) får tilsvarende anvendelse på oversendingen og utleveringen av opplysninger som er omhandlet i nr. 1 bokstav b) og nr. 2 i denne artikkel.
 
-4\. Ved gjennomføringen av nr. 1 bokstav b) skal de som har ansvar for informasjonssystemene i Kommisjonen, gi tilgangsrettigheter til tredjestaters vedkommende myndigheter og representative bransjeorganisasjoner og til fysiske og juridiske personer som har en rettmessig interesse i henhold til denne forordning.De som har ansvar for informasjonssystemene i Kommisjonen, skal, avhengig av omstendighetene, godkjenne tilgangsrettighetene på grunnlag avopplysninger om de vedkommende myndigheter som tredjestaten har utpekt, med kontaktopplysninger og e-postadresser, som Kommisjonen er i besittelse av innenfor rammen av internasjonale avtaler, eller som Kommisjonen har fått oversendt i samsvar med disse avtalene,en offisiell anmodning fra en tredjestat med opplysninger om de myndighetene som har ansvar for å oversende de dokumentene og opplysningene som er nødvendige for anvendelsen av nr. 1 bokstav b), samt vedkommende myndigheters kontaktopplysninger og e-postadresser,en anmodning fra en representativ bransjeorganisasjon i en tredjestat eller en fysisk eller juridisk person, med bekreftelse av organisasjonens identitet og rettmessige interesse og dens e-postadresse.Når tilgangsrettighetene er godkjent, skal de aktiveres av dem som har ansvar for informasjonssystemene i Kommisjonen.
+4\. Ved gjennomføringen av nr. 1 bokstav b) skal de som har ansvar for informasjonssystemene i Kommisjonen, gi tilgangsrettigheter til tredjestaters vedkommende myndigheter og representative bransjeorganisasjoner og til fysiske og juridiske personer som har en rettmessig interesse i henhold til denne forordning.
+
+De som har ansvar for informasjonssystemene i Kommisjonen, skal, avhengig av omstendighetene, godkjenne tilgangsrettighetene på grunnlag av
+
+1. opplysninger om de vedkommende myndigheter som tredjestaten har utpekt, med kontaktopplysninger og e-postadresser, som Kommisjonen er i besittelse av innenfor rammen av internasjonale avtaler, eller som Kommisjonen har fått oversendt i samsvar med disse avtalene,
+2. en offisiell anmodning fra en tredjestat med opplysninger om de myndighetene som har ansvar for å oversende de dokumentene og opplysningene som er nødvendige for anvendelsen av nr. 1 bokstav b), samt vedkommende myndigheters kontaktopplysninger og e-postadresser,
+3. en anmodning fra en representativ bransjeorganisasjon i en tredjestat eller en fysisk eller juridisk person, med bekreftelse av organisasjonens identitet og rettmessige interesse og dens e-postadresse.
+
+Når tilgangsrettighetene er godkjent, skal de aktiveres av dem som har ansvar for informasjonssystemene i Kommisjonen.
 
 ### Artikkel 70b. Oversending og utlevering a opplysninger om myndighetene som har ansvar for å behandle søknader på nasjonalt plan
 
@@ -3398,7 +5131,12 @@ I tilfeller der det er aktuelt, skal EFTA-statene følge prosedyrene som fremgå
 
 ►**M3**
 
-1\. Medlemsstatene skal oversende dokumentene nevnt i artikkel 118s nr. 2 i forordning [(EF) nr. 1234/2007](eu/32007r1234), heretter kalt «saksmappen» og endringene av produktspesifikasjonen omhandlet i artikkel 73 nr. 1 bokstav c) og d) og nr. 2 i denne forordning, i samsvar med artikkel 70a nr. 1 i denne forordning etter følgende regler og framgangsmåter:Kommisjonen skal i henhold til artikkel 9 i denne forordning bekrefte at den har mottatt saksmappen eller endringen.Saksmappen eller endringen skal anses for å kunne godtas på den datoen Kommisjonen har mottatt saksmappen eller endringen, på de vilkårene som er fastsatt i artikkel 11 i denne forordning, og forutsatt at Kommisjonen har mottatt dem senest 31. desember 2011.Kommisjonen skal bekrefte at den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen er oppført i registeret i samsvar med artikkel 18 i denne forordning med eventuelle endringer, og tildele registreringen et saksnummer.Kommisjonen skal innen de fristene som er fastsatt i artikkel 12 nr. 1 i denne forordning, undersøke om dokumentene i saksmappen er gyldige, idet det eventuelt tas hensyn til de endringene som er mottatt.
+1\. Medlemsstatene skal oversende dokumentene nevnt i artikkel 118s nr. 2 i forordning [(EF) nr. 1234/2007](eu/32007r1234), heretter kalt «saksmappen» og endringene av produktspesifikasjonen omhandlet i artikkel 73 nr. 1 bokstav c) og d) og nr. 2 i denne forordning, i samsvar med artikkel 70a nr. 1 i denne forordning etter følgende regler og framgangsmåter:
+
+1. Kommisjonen skal i henhold til artikkel 9 i denne forordning bekrefte at den har mottatt saksmappen eller endringen.
+2. Saksmappen eller endringen skal anses for å kunne godtas på den datoen Kommisjonen har mottatt saksmappen eller endringen, på de vilkårene som er fastsatt i artikkel 11 i denne forordning, og forutsatt at Kommisjonen har mottatt dem senest 31. desember 2011.
+3. Kommisjonen skal bekrefte at den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen er oppført i registeret i samsvar med artikkel 18 i denne forordning med eventuelle endringer, og tildele registreringen et saksnummer.
+4. Kommisjonen skal innen de fristene som er fastsatt i artikkel 12 nr. 1 i denne forordning, undersøke om dokumentene i saksmappen er gyldige, idet det eventuelt tas hensyn til de endringene som er mottatt.
 
 2\. Kommisjonen kan treffe beslutning om å annullere den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen i samsvar med artikkel 118s nr. 4 i forordning [(EF) nr. 1234/2007](eu/32007r1234) på grunnlag av de dokumentene som den har til rådighet i henhold til artikkel 118s nr. 2 i nevnte forordning
 
@@ -3420,7 +5158,12 @@ I tilfeller der det er aktuelt, skal EFTA-statene følge prosedyrene som fremgå
 
 ### Artikkel 73. Overgangsbestemmelser
 
-1\. Framgangsmåten fastsatt i artikkel 118s i forordning [(EF) nr. 1234/2007](eu/32007r1234) får anvendelse i følgende tilfeller:i forbindelse med vinbetegnelser som det er søkt om beskyttelse av som opprinnelsesbetegnelse eller geografisk betegnelse i en medlemsstat, og som er godkjent av denne innen 1. august 2009,i forbindelse med vinbetegnelser som det er søkt om beskyttelse av som opprinnelsesbetegnelse eller geografisk betegnelse i en medlemsstat innen 1. august 2009, og som er godkjent av denne innen 31. desember 2011,i forbindelse med endringer av produktspesifikasjoner som er framlagt for en medlemsstat innen 1. august 2009, og som denne har videresendt til Kommisjonen innen 31. desember 2011,i forbindelse med mindre endringer av produktspesifikasjoner som er framlagt for en medlemsstat innen 1. august 2009, og som denne har videresendt til Kommisjonen innen 31. desember 2011.
+1\. Framgangsmåten fastsatt i artikkel 118s i forordning [(EF) nr. 1234/2007](eu/32007r1234) får anvendelse i følgende tilfeller:
+
+1. i forbindelse med vinbetegnelser som det er søkt om beskyttelse av som opprinnelsesbetegnelse eller geografisk betegnelse i en medlemsstat, og som er godkjent av denne innen 1. august 2009,
+2. i forbindelse med vinbetegnelser som det er søkt om beskyttelse av som opprinnelsesbetegnelse eller geografisk betegnelse i en medlemsstat innen 1. august 2009, og som er godkjent av denne innen 31. desember 2011,
+3. i forbindelse med endringer av produktspesifikasjoner som er framlagt for en medlemsstat innen 1. august 2009, og som denne har videresendt til Kommisjonen innen 31. desember 2011,
+4. i forbindelse med mindre endringer av produktspesifikasjoner som er framlagt for en medlemsstat innen 1. august 2009, og som denne har videresendt til Kommisjonen innen 31. desember 2011.
 
 2\. Framgangsmåten fastsatt i artikkel 118q i forordning [(EF) nr. 1234/2007](eu/32007r1234) får ikke anvendelse på endringer av en produktspesifikasjon som er framlagt for en medlemsstat fra og med 1. august 2009, og som denne medlemsstaten har videresendt til Kommisjonen innen 30. juni 2014, dersom formålet med disse endringene utelukkende er å bringe den produktspesifikasjonen som er sendt til Kommisjonen i henhold til artikkel 118s nr. 2 i forordning [(EF) nr. 1234/2007](eu/32007r1234), i samsvar med artikkel 118c i forordning [(EF) nr. 1234/2007 i](eu/32007r1234) denne forordning.
 
@@ -3731,10 +5474,100 @@ Angivelser som er tillatt ved merking av vin i henhold til artikkel 66 nr. 2
 ### Vedlegg XVII
 Forbehold med hensyn til visse flasketyper
 
-1. *«Flûte d'Alsace»:*Type: glassflaske som består av en rett, sylindrisk kropp med lang hals, med tilnærmet følgende forhold:total høyde/bunndiameter = 5:1,høyde på den sylindriske flaskekroppen = total høyde/3,for viner som er framstilt av druer som er høstet i Frankrike, er denne flasketypen forbeholdt viner med følgende opprinnelsesbetegnelser:«Alsace» eller «vin d'Alsace», «Alsace Grand Cru»,«Crépy»,«Château-Grillet»,«Côtes de Provence», rød og rosé,«Cassis»,«Jurançon», «Jurançon sec»,«Béarn», «Béarn-Bellocq», rosé,«Tavel», rosé.For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet i Frankrike.
-2. *«Bocksbeutel» eller «Cantil»:*Type: glassflaske med kort hals og tykkmaget, men avflatet kropp. Flaskens bunn og tverrsnitt på punktet der kroppen er mest konveks, er elliptisk,forholdet mellom den lange og den korte aksen i det elliptiske tverrsnittet = tilnærmet 2:1,forholdet mellom høyden på den konvekse flaskekroppen og den sylindriske flaskehalsen = tilnærmet 2,5:1,viner som denne flasketypen er forbeholdt:tyske viner med opprinnelsesbetegnelsene:Franken,Baden:med opprinnelse i Taubertal og Schüpfergrund,med opprinnelse i følgende deler av kommunen Baden-Baden: Neuweier, Steinbach, Umweg og Varnhalt,italienske viner med opprinnelsesbetegnelsene:Santa Maddalena (St. Magdalener),Valle Isarco (Eisacktaler), framstilt av sortene Sylvaner og Müller-Thurgau,Terlaner, framstilt av sorten Pinot bianco,Bozner Leiten,Alto Adige (Südtiroler), framstilt av sortene Riesling, Müller-Thurgau, Pinot nero, Moscato giallo, Sylvaner, Lagrein, Pinot blanco (Weissburgunder) og Moscato rosa (Rosenmuskateller),Greco di Bianco,Trentino, framstilt av sorten Moscato,greske viner:Agioritiko,Rombola Kephalonias,viner med opprinnelse på øya Kefalonia,viner med opprinnelse på øya Paros,viner med beskyttet opprinnelsesbetegnelse fra Peloponnes.portugisiske viner:roséviner og bare de andre vinene med opprinnelsesbetegnelse eller geografisk betegnelse som det er påvist at ble korrekt og tradisjonelt presentert på flasker av typen «Cantil» allerede før de ble klassifisert som viner med opprinnelsesbetegnelse eller geografisk betegnelse.
-3. *«Clavelin»:*Type: glassflaske med kort hals og et innhold på 0,62 liter, som består av en sylindrisk kropp med påsatte brede skuldre som gir flasken et firskåret utseende, og med tilnærmet følgende forhold:total høyde/bunndiameter = 2,75:1,høyde på den sylindriske delen = total høyde/2,viner som denne flasketypen er forbeholdt:franske viner med opprinnelsesbetegnelsene:Côte du Jura,Arbois,L'Etoile,Château Chalon.
-4. *«Tokaj»:*Type: en rett, fargeløs glassflaske som består av en sylindrisk kropp med følgende forhold:høyde på den sylindriske flaskekroppen = 1:2,7,total høyde/bunndiameter = 1:3,6,rominnhold: 500 ml, 375 ml, 250 ml, 100 ml eller 187,5 ml (ved eksport til en tredjestat),et segl framstilt av samme materiale som flasken, som viser til vinområdet eller produsenten, kan plasseres på flasken,viner som denne flasketypen er forbeholdt:ungarske og slovakiske viner med de beskyttede opprinnelsesbetegnelsene:►**M1**Tokaj,Vinohradnícka oblasť Tokaj◄**M1**utfylt med følgende tradisjonelle betegnelser:aszú/výber,aszúeszencia/esencia výberova,eszencia/esencia,máslas/mášláš,fordítás/forditáš,szamorodni/samorodné.For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet i Ungarn eller Slovakia.
+1. *«Flûte d'Alsace»:*
+
+   1. Type: glassflaske som består av en rett, sylindrisk kropp med lang hals, med tilnærmet følgende forhold:
+
+      - total høyde/bunndiameter = 5:1,
+      - høyde på den sylindriske flaskekroppen = total høyde/3,
+   2. for viner som er framstilt av druer som er høstet i Frankrike, er denne flasketypen forbeholdt viner med følgende opprinnelsesbetegnelser:
+
+      - «Alsace» eller «vin d'Alsace», «Alsace Grand Cru»,
+      - «Crépy»,
+      - «Château-Grillet»,
+      - «Côtes de Provence», rød og rosé,
+      - «Cassis»,
+      - «Jurançon», «Jurançon sec»,
+      - «Béarn», «Béarn-Bellocq», rosé,
+      - «Tavel», rosé.
+
+      For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet i Frankrike.
+2. *«Bocksbeutel» eller «Cantil»:*
+
+   1. Type: glassflaske med kort hals og tykkmaget, men avflatet kropp. Flaskens bunn og tverrsnitt på punktet der kroppen er mest konveks, er elliptisk,
+
+      - forholdet mellom den lange og den korte aksen i det elliptiske tverrsnittet = tilnærmet 2:1,
+      - forholdet mellom høyden på den konvekse flaskekroppen og den sylindriske flaskehalsen = tilnærmet 2,5:1,
+   2. viner som denne flasketypen er forbeholdt:
+
+      1. tyske viner med opprinnelsesbetegnelsene:
+
+         - Franken,
+         - Baden:
+
+           - med opprinnelse i Taubertal og Schüpfergrund,
+           - med opprinnelse i følgende deler av kommunen Baden-Baden: Neuweier, Steinbach, Umweg og Varnhalt,
+      2. italienske viner med opprinnelsesbetegnelsene:
+
+         - Santa Maddalena (St. Magdalener),
+         - Valle Isarco (Eisacktaler), framstilt av sortene Sylvaner og Müller-Thurgau,
+         - Terlaner, framstilt av sorten Pinot bianco,
+         - Bozner Leiten,
+         - Alto Adige (Südtiroler), framstilt av sortene Riesling, Müller-Thurgau, Pinot nero, Moscato giallo, Sylvaner, Lagrein, Pinot blanco (Weissburgunder) og Moscato rosa (Rosenmuskateller),
+         - Greco di Bianco,
+         - Trentino, framstilt av sorten Moscato,
+      3. greske viner:
+
+         - Agioritiko,
+         - Rombola Kephalonias,
+         - viner med opprinnelse på øya Kefalonia,
+         - viner med opprinnelse på øya Paros,
+         - viner med beskyttet opprinnelsesbetegnelse fra Peloponnes.
+      4. portugisiske viner:
+
+         - roséviner og bare de andre vinene med opprinnelsesbetegnelse eller geografisk betegnelse som det er påvist at ble korrekt og tradisjonelt presentert på flasker av typen «Cantil» allerede før de ble klassifisert som viner med opprinnelsesbetegnelse eller geografisk betegnelse.
+3. *«Clavelin»:*
+
+   1. Type: glassflaske med kort hals og et innhold på 0,62 liter, som består av en sylindrisk kropp med påsatte brede skuldre som gir flasken et firskåret utseende, og med tilnærmet følgende forhold:
+
+      - total høyde/bunndiameter = 2,75:1,
+      - høyde på den sylindriske delen = total høyde/2,
+   2. viner som denne flasketypen er forbeholdt:
+
+      - franske viner med opprinnelsesbetegnelsene:
+      - Côte du Jura,
+      - Arbois,
+      - L'Etoile,
+      - Château Chalon.
+4. *«Tokaj»:*
+
+   1. Type: en rett, fargeløs glassflaske som består av en sylindrisk kropp med følgende forhold:
+
+      - høyde på den sylindriske flaskekroppen = 1:2,7,
+      - total høyde/bunndiameter = 1:3,6,
+      - rominnhold: 500 ml, 375 ml, 250 ml, 100 ml eller 187,5 ml (ved eksport til en tredjestat),
+      - et segl framstilt av samme materiale som flasken, som viser til vinområdet eller produsenten, kan plasseres på flasken,
+   2. viner som denne flasketypen er forbeholdt:
+
+      ungarske og slovakiske viner med de beskyttede opprinnelsesbetegnelsene:
+
+      ►**M1**
+
+      - Tokaj,
+      - Vinohradnícka oblasť Tokaj
+
+        ◄**M1**
+
+      utfylt med følgende tradisjonelle betegnelser:
+
+      - aszú/výber,
+      - aszúeszencia/esencia výberova,
+      - eszencia/esencia,
+      - máslas/mášláš,
+      - fordítás/forditáš,
+      - szamorodni/samorodné.
+
+      For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet i Ungarn eller Slovakia.
 
 ### Vedlegg XVIII
 Tilgang til de metodene og elektroniske skjemaene som er nevnt i artikkel 70a nr. 1 bokstav b)
@@ -3768,7 +5601,13 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til rådsforordning [(EF) nr. 1234/2007](eu/32007r1234) av 22. oktober 2007 om opprettelse av en felles markedsordning for landbruksvarer og om særlige bestemmelser for visse landbruksvarer (forordningen om en felles markedsordning),1 særlig artikkel 121 tredje ledd, og
 
-ut fra følgende betraktninger:I del A.3 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.Belgia, Tsjekkia, Danmark, Tyskland, Ungarn, Nederland, Østerrike, Polen, Slovenia, Slovakia og Det forente kongerike har anmodet om slik heving av grenseverdiene for anriking av vin framstilt av druer som er høstet i 2010, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige i visse geografiske områder.På grunn av de uvanlig ugunstige værforholdene i 2010 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del A.2 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter.Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av druer som er høstet i 2010, i visse vindyrkingsområder.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. I del A.3 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.
+2. Belgia, Tsjekkia, Danmark, Tyskland, Ungarn, Nederland, Østerrike, Polen, Slovenia, Slovakia og Det forente kongerike har anmodet om slik heving av grenseverdiene for anriking av vin framstilt av druer som er høstet i 2010, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige i visse geografiske områder.
+3. På grunn av de uvanlig ugunstige værforholdene i 2010 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del A.2 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter.
+4. Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av druer som er høstet i 2010, i visse vindyrkingsområder.
+5. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Forvaltningskomiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 299 av 16.11.2007, s. 1.
 
@@ -3776,7 +5615,11 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
-I de geografiske områdene oppført i vedlegget til denne forordning skal, som unntak fra del A.2 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2010, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2010, ikke overstige følgende grenseverdier:3 vol.-% i vindyrkingssone A omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),2,5 vol.-% i vindyrkingssone B omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),2,0 vol.-% i vindyrkingssone C omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234).
+I de geografiske områdene oppført i vedlegget til denne forordning skal, som unntak fra del A.2 i vedlegg XVa til forordning [(EF) nr. 1234/2007](eu/32007r1234), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2010, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2010, ikke overstige følgende grenseverdier:
+
+1. 3 vol.-% i vindyrkingssone A omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),
+2. 2,5 vol.-% i vindyrkingssone B omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234),
+3. 2,0 vol.-% i vindyrkingssone C omhandlet i tillegget til vedlegg XIb til forordning [(EF) nr. 1234/2007](eu/32007r1234).
 
 ### Artikkel 2
 
@@ -3827,7 +5670,14 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308*) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234),1 særlig artikkel 91, og
 
-ut fra følgende betraktninger:I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EF) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.Belgia, Bulgaria, Tsjekkia, Tyskland, Frankrike, Kroatia, Italia, Ungarn, Østerrike, Romania, Slovenia og Slovakia har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2014, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Bulgaria, Tsjekkia, Kroatia, Ungarn, Østerrike, Romania, Slovenia og Slovakia har framsatt slike anmodninger for samtlige vindyrkingsområder. Belgia framsatte anmodning for ett område, Tyskland for visse områder og deler av regionene Mosel og Saale-Unstrut, Frankrike for visse arrondissementer i departementene Aude og Hérault og Italia for visse områder i Nord- og Midt-Italia og et område med beskyttet opprinnelsesbetegnelse i regionene Umbria og Lazio. Belgia, Frankrike og Italia har anmodet om heving av anrikingsgrensene for all vin framstilt av vindruesorter som vokser i områdene som er rammet av de usedvanlig dårlige værforholdene. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av bestemte vindruesorter som er berørt i regionene Baden, Württemberg og Mecklenburger Landwein og den berørte delen av regionen Saale-Unstrut.På grunn av de uvanlig ugunstige værforholdene i 2014 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder eller deler av disse ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse vindruesorter.I betraktning av målet med del I i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), som er å motvirke og begrense anriking av vin, og ettersom unntaket i avsnitt A nr. 3 i nevnte del er ment for ekstraordinære tilfeller, bør tillatelser til å heve anrikingsgrensene for vin gis bare for vindyrkingsområder eller deler av disse og for druesorter som er berørt av usedvanlig dårlige værforhold. I Belgia bør tillatelsen derfor gis bare for regionen Vallonia, som er rammet av slike værforhold. I Tyskland bør tillatelsen gis bare for vin fra vindruesortene Blauer Spätburgunder, Schwarzriesling, Blauer Gutedel, Weißer Gutedel og Blauer Trollinger som er påvirket av slike værforhold i regionen Baden, for vin fra alle røde vindruesorter som er påvirket av slike værforhold i regionene Hessische Bergstraße og Rheingau, fra alle røde vindruesorter og fra de hvite vindruesortene Bacchus, Blauer Silvaner, Cabernet Blanc, Grüner Silvaner, Johanniter, Müller-Thurgau, Ruländer, Sauvignon Blanc, Scheurebe, Weißer Elbling, Weißer Gutedel, Weißer Riesling og Weißer Burgunder som er påvirket av slike værforhold i deler av regionen Saale-Unstrut, fra vindruesorten Blauer Trollinger som er påvirket av slike værforhold i regionen Württemberg, fra vindruesortene Phoenix, Müller-Thurgau, Elbling og Regent som er påvirket av slike værforhold i regionen Mecklenburger Landwein, og fra alle vindruesorter i regionene Ahr, Mittelrhein, Nahe, Pfalz og Rheinhessen og i deler av regionen Mosel som er rammet av slike værforhold. I Frankrike bør tillatelsen gis bare for et begrenset antall arrondissementer i departementene Aude og Hérault som er rammet av slike værforhold. I Italia bør tillatelsen gis bare for regionene Veneto, Friuli-Venezia-Giulia, Provincia autonoma di Trento, Provincia autonoma di Bolzano, Lombardia, Piemonte, Emilia-Romagna, Toscana, Abruzzo og Puglia og for området med den beskyttede opprinnelsesbetegnelsen «Orvieto» i regionene Umbria og Lazio som er rammet av slike værforhold.Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som er framstilt av alle eller visse vindruesorter høstet i 2014, i vindyrkingsområder i Belgia, Bulgaria, Tsjekkia, Tyskland, Frankrike, Kroatia, Italia, Ungarn, Østerrike, Romania, Slovenia og Slovakia eller deler av slike områder.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EF) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.
+2. Belgia, Bulgaria, Tsjekkia, Tyskland, Frankrike, Kroatia, Italia, Ungarn, Østerrike, Romania, Slovenia og Slovakia har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2014, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Bulgaria, Tsjekkia, Kroatia, Ungarn, Østerrike, Romania, Slovenia og Slovakia har framsatt slike anmodninger for samtlige vindyrkingsområder. Belgia framsatte anmodning for ett område, Tyskland for visse områder og deler av regionene Mosel og Saale-Unstrut, Frankrike for visse arrondissementer i departementene Aude og Hérault og Italia for visse områder i Nord- og Midt-Italia og et område med beskyttet opprinnelsesbetegnelse i regionene Umbria og Lazio. Belgia, Frankrike og Italia har anmodet om heving av anrikingsgrensene for all vin framstilt av vindruesorter som vokser i områdene som er rammet av de usedvanlig dårlige værforholdene. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av bestemte vindruesorter som er berørt i regionene Baden, Württemberg og Mecklenburger Landwein og den berørte delen av regionen Saale-Unstrut.
+3. På grunn av de uvanlig ugunstige værforholdene i 2014 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder eller deler av disse ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse vindruesorter.
+4. I betraktning av målet med del I i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), som er å motvirke og begrense anriking av vin, og ettersom unntaket i avsnitt A nr. 3 i nevnte del er ment for ekstraordinære tilfeller, bør tillatelser til å heve anrikingsgrensene for vin gis bare for vindyrkingsområder eller deler av disse og for druesorter som er berørt av usedvanlig dårlige værforhold. I Belgia bør tillatelsen derfor gis bare for regionen Vallonia, som er rammet av slike værforhold. I Tyskland bør tillatelsen gis bare for vin fra vindruesortene Blauer Spätburgunder, Schwarzriesling, Blauer Gutedel, Weißer Gutedel og Blauer Trollinger som er påvirket av slike værforhold i regionen Baden, for vin fra alle røde vindruesorter som er påvirket av slike værforhold i regionene Hessische Bergstraße og Rheingau, fra alle røde vindruesorter og fra de hvite vindruesortene Bacchus, Blauer Silvaner, Cabernet Blanc, Grüner Silvaner, Johanniter, Müller-Thurgau, Ruländer, Sauvignon Blanc, Scheurebe, Weißer Elbling, Weißer Gutedel, Weißer Riesling og Weißer Burgunder som er påvirket av slike værforhold i deler av regionen Saale-Unstrut, fra vindruesorten Blauer Trollinger som er påvirket av slike værforhold i regionen Württemberg, fra vindruesortene Phoenix, Müller-Thurgau, Elbling og Regent som er påvirket av slike værforhold i regionen Mecklenburger Landwein, og fra alle vindruesorter i regionene Ahr, Mittelrhein, Nahe, Pfalz og Rheinhessen og i deler av regionen Mosel som er rammet av slike værforhold. I Frankrike bør tillatelsen gis bare for et begrenset antall arrondissementer i departementene Aude og Hérault som er rammet av slike værforhold. I Italia bør tillatelsen gis bare for regionene Veneto, Friuli-Venezia-Giulia, Provincia autonoma di Trento, Provincia autonoma di Bolzano, Lombardia, Piemonte, Emilia-Romagna, Toscana, Abruzzo og Puglia og for området med den beskyttede opprinnelsesbetegnelsen «Orvieto» i regionene Umbria og Lazio som er rammet av slike værforhold.
+5. Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som er framstilt av alle eller visse vindruesorter høstet i 2014, i vindyrkingsområder i Belgia, Bulgaria, Tsjekkia, Tyskland, Frankrike, Kroatia, Italia, Ungarn, Østerrike, Romania, Slovenia og Slovakia eller deler av slike områder.
+6. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 347 av 20.12.2013, s. 671.
 
@@ -3835,7 +5685,11 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
-I vindyrkingsområdene eller deler av disse oppført i vedlegget til denne forordning og for alle eller visse vindruesorter angitt i nevnte vedlegg skal, som unntak fra del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2014, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2014, ikke overstige følgende grenseverdier:3,5 volumprosent i vindyrkingssone A omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),2,5 volumprosent i vindyrkingssone B omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),2,0 volumprosent i vindyrkingssone C omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*).
+I vindyrkingsområdene eller deler av disse oppført i vedlegget til denne forordning og for alle eller visse vindruesorter angitt i nevnte vedlegg skal, som unntak fra del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2014, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2014, ikke overstige følgende grenseverdier:
+
+1. 3,5 volumprosent i vindyrkingssone A omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),
+2. 2,5 volumprosent i vindyrkingssone B omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),
+3. 2,0 volumprosent i vindyrkingssone C omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*).
 
 ### Artikkel 2
 
@@ -3900,7 +5754,13 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308*) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234),1 særlig artikkel 91, og
 
-ut fra følgende betraktninger:I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.Tyskland og Ungarn har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2016, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Ungarn har framsatt en slik anmodning for samtlige vindyrkingsområder. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av røde vindruesorter i regionene Baden Ahr, Mittelrhein, Mosel, Nahe, Pfalz, Rheinhessen og Württemberg.På grunn av de uvanlig ugunstige værforholdene i 2016 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse druesorter.Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av alle eller visse vindruesorter som er høstet i 2016, i vindyrkingsområder i Ungarn og Tyskland.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer –
+ut fra følgende betraktninger:
+
+1. I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.
+2. Tyskland og Ungarn har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2016, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Ungarn har framsatt en slik anmodning for samtlige vindyrkingsområder. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av røde vindruesorter i regionene Baden Ahr, Mittelrhein, Mosel, Nahe, Pfalz, Rheinhessen og Württemberg.
+3. På grunn av de uvanlig ugunstige værforholdene i 2016 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse druesorter.
+4. Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av alle eller visse vindruesorter som er høstet i 2016, i vindyrkingsområder i Ungarn og Tyskland.
+5. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer –
 
 1 EUT L 347 av 20.12.2013, s. 671.
 
@@ -3908,7 +5768,11 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
-I vindyrkingsområdene eller deler av disse oppført i vedlegget til denne forordning og for alle eller visse vindruesorter angitt i nevnte vedlegg skal, som unntak fra del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2016, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2016, ikke overstige følgende grenseverdier:3,5 volumprosent i vindyrkingssone A omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),2,5 volumprosent i vindyrkingssone B omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),2,0 volumprosent i vindyrkingssone C omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*).
+I vindyrkingsområdene eller deler av disse oppført i vedlegget til denne forordning og for alle eller visse vindruesorter angitt i nevnte vedlegg skal, som unntak fra del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), økningen av den naturlige alkoholstyrken i volumprosent i friske druer høstet i 2016, druemost, druemost i gjæring, ung, ikke ferdiggjæret vin og vin framstilt av druer høstet i 2016, ikke overstige følgende grenseverdier:
+
+1. 3,5 volumprosent i vindyrkingssone A omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),
+2. 2,5 volumprosent i vindyrkingssone B omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*),
+3. 2,0 volumprosent i vindyrkingssone C omhandlet i tillegg I til vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308*).
 
 ### Artikkel 2
 
@@ -3957,7 +5821,13 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308*) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234),1 særlig artikkel 91, og
 
-ut fra følgende betraktninger:I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EF) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.Danmark, Tyskland, Nederland og Sverige har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2017, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Danmark, Nederland og Sverige har framsatt en slik anmodning for samtlige vindyrkingsområder. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av vindruesorten Dornfelder i regionene Ahr, Mittelrhein, Mosel, Nahe, Pfalz og Rheinhessen.På grunn av de uvanlig ugunstige værforholdene i 2017 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse druesorter.Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av alle eller visse vindruesorter som er høstet i 2017, i vindyrkingsområder i Danmark, Tyskland, Nederland og Sverige.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer.
+ut fra følgende betraktninger:
+
+1. I del I avsnitt A nr. 3 i vedlegg VIII til forordning [(EF) nr. 1308/2013](eu/32013r1308*) er det fastsatt at medlemsstatene kan anmode om at grenseverdiene for økning av alkoholstyrken i volumprosent (anriking) i vin heves med opptil 0,5 % i år med uvanlig ugunstige værforhold.
+2. Danmark, Tyskland, Nederland og Sverige har anmodet om slik heving av anrikingsgrensene for vin framstilt av druer som er høstet i 2017, ettersom værforholdene i vekstsesongen har vært uvanlig ugunstige. Danmark, Nederland og Sverige har framsatt en slik anmodning for samtlige vindyrkingsområder. Tyskland anmodet om heving av anrikingsgrensene bare for vin framstilt av vindruesorten Dornfelder i regionene Ahr, Mittelrhein, Mosel, Nahe, Pfalz og Rheinhessen.
+3. På grunn av de uvanlig ugunstige værforholdene i 2017 kan det, med de grenseverdiene for økning av den naturlige alkoholstyrken som er fastsatt i del I avsnitt A nr. 2 i vedlegg VIII til forordning [(EU) nr. 1308/2013](eu/32013r1308*), i visse vindyrkingsområder ikke framstilles vin med en total alkoholstyrke som det normalt er etterspørsel etter, fra alle eller visse druesorter.
+4. Det er derfor rimelig å tillate en heving av anrikingsgrensene for vin som framstilles av alle eller visse vindruesorter som er høstet i 2017, i vindyrkingsområder i Danmark, Tyskland, Nederland og Sverige.
+5. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Komiteen for den felles markedsordning for landbruksvarer.
 
 1 EUT L 347 av 20.12.2013, s. 671.
 
@@ -4052,17 +5922,35 @@ INNLEDENDE BESTEMMELSER
 
 Denne forordningen fastsetter regler som utfyller forordning [(EU) nr. 1306/2013](eu/32013r1306) og [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til
 
-[...]godkjente følgedokumenter, sertifisering og regler for import av vin,
+[...]
+
+1. godkjente følgedokumenter, sertifisering og regler for import av vin,
 
 [...]
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordningen og gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) menes med«vindyrker» en fysisk eller juridisk person eller en gruppe av fysiske eller juridiske personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som har en driftsenhet på Unionens territorium som definert i artikkel 52 i traktaten om Den europeiske union sammenholdt med artikkel 355 i traktaten om Den europeiske unions virkemåte, og som har et vindyrkingsareal der produktene fra dette arealet benyttes til kommersiell vinproduksjon, eller der arealet omfattes av unntak for forsøksformål eller for morrotstokker for podekvister som nevnt i artikkel 3 nr. 2 i denne forordningen,«vinprodukter» produktene oppført i del XII i vedlegg I til forordning [(EU) nr. 1308/2013](eu/32013r1308), unntatt vineddik som hører inn under KN-kode 2209 00 11 og 2209 00 19,«vindyrkingsparsell» en landbruksparsell som definert i artikkel 67 nr. 4 bokstav a) i forordning [(EU) nr. 1306/2013](eu/32013r1306), som er beplantet med vinstokker og enten er bestemt til kommersiell vinproduksjon eller omfattes av unntak for forsøksformål eller for morrotstokker for podekvister som nevnt i artikkel 3 nr. 2 i denne forordningen,«brakklagt vindyrkingsareal» et vindyrkingsareal som i mer enn fem vinår ikke er blitt dyrket for å oppnå et salgbart produkt, med forbehold for særlig tilfeller definert av medlemsstatene, der rydding av arealet ikke lenger gir produsenten gjenplantingsrettigheter i samsvar med artikkel 66 i forordning [(EU) nr. 1308/2013](eu/32013r1308),«druehøster» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som høster druer fra et vindyrkingsareal for å omsette dem til vinproduksjon hos tredjeparter, eller for å bearbeide dem til vinprodukter i egen driftsenhet eller få dem bearbeidet på sine vegne, for kommersielle formål,«bearbeider» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som bearbeider eller får bearbeidet vin til sluttproduktet vin, sterkvin, musserende og perlende vin, kullsyreimpregnert musserende og perlende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,«detaljist» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, hvis forretningsvirksomhet omfatter direkte salg til forbrukere av vin og most i små mengder som definert av hver medlemsstat med hensyn til de spesifikke forholdene for handel og distribusjon, med unntak av personer som benytter vinkjellere med utstyr til lagring eller tapping av vin i store mengder, eller som driver salg utenom fast utsalgssted av vin transportert i bulk,«tapping» å fylle vin som et sluttprodukt i beholdere som rommer høyst 60 liter, for kommersielle formål,«tapper» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som tapper vin eller får tapping utført på sine vegne,«forhandler» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, bortsett fra private forbrukere og detaljister, som har lagre av vinprodukter for kommersielle formål eller er involvert i handel med vinprodukter og eventuelt også tapper dem, unntatt destillasjonsforetak,«vinår» omsetningsåret for vinsektoren som nevnt i artikkel 6 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+1\. I denne forordningen og gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) menes med
+
+1. «vindyrker» en fysisk eller juridisk person eller en gruppe av fysiske eller juridiske personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som har en driftsenhet på Unionens territorium som definert i artikkel 52 i traktaten om Den europeiske union sammenholdt med artikkel 355 i traktaten om Den europeiske unions virkemåte, og som har et vindyrkingsareal der produktene fra dette arealet benyttes til kommersiell vinproduksjon, eller der arealet omfattes av unntak for forsøksformål eller for morrotstokker for podekvister som nevnt i artikkel 3 nr. 2 i denne forordningen,
+2. «vinprodukter» produktene oppført i del XII i vedlegg I til forordning [(EU) nr. 1308/2013](eu/32013r1308), unntatt vineddik som hører inn under KN-kode 2209 00 11 og 2209 00 19,
+3. «vindyrkingsparsell» en landbruksparsell som definert i artikkel 67 nr. 4 bokstav a) i forordning [(EU) nr. 1306/2013](eu/32013r1306), som er beplantet med vinstokker og enten er bestemt til kommersiell vinproduksjon eller omfattes av unntak for forsøksformål eller for morrotstokker for podekvister som nevnt i artikkel 3 nr. 2 i denne forordningen,
+4. «brakklagt vindyrkingsareal» et vindyrkingsareal som i mer enn fem vinår ikke er blitt dyrket for å oppnå et salgbart produkt, med forbehold for særlig tilfeller definert av medlemsstatene, der rydding av arealet ikke lenger gir produsenten gjenplantingsrettigheter i samsvar med artikkel 66 i forordning [(EU) nr. 1308/2013](eu/32013r1308),
+5. «druehøster» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som høster druer fra et vindyrkingsareal for å omsette dem til vinproduksjon hos tredjeparter, eller for å bearbeide dem til vinprodukter i egen driftsenhet eller få dem bearbeidet på sine vegne, for kommersielle formål,
+6. «bearbeider» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som bearbeider eller får bearbeidet vin til sluttproduktet vin, sterkvin, musserende og perlende vin, kullsyreimpregnert musserende og perlende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,
+7. «detaljist» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, hvis forretningsvirksomhet omfatter direkte salg til forbrukere av vin og most i små mengder som definert av hver medlemsstat med hensyn til de spesifikke forholdene for handel og distribusjon, med unntak av personer som benytter vinkjellere med utstyr til lagring eller tapping av vin i store mengder, eller som driver salg utenom fast utsalgssted av vin transportert i bulk,
+8. «tapping» å fylle vin som et sluttprodukt i beholdere som rommer høyst 60 liter, for kommersielle formål,
+9. «tapper» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som tapper vin eller får tapping utført på sine vegne,
+10. «forhandler» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, bortsett fra private forbrukere og detaljister, som har lagre av vinprodukter for kommersielle formål eller er involvert i handel med vinprodukter og eventuelt også tapper dem, unntatt destillasjonsforetak,
+11. «vinår» omsetningsåret for vinsektoren som nevnt i artikkel 6 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 
 2\. I kapittel IV–VIII i denne forordningen, med unntak av artikkel 47, og kapittel IV–VII i gjennomføringsforordning (EU) 2018/274 menes med «produsent» en fysisk eller juridisk person eller en gruppe av slike personer, uavhengig av hvilken rettslig status gruppen og dens medlemmer har i henhold til nasjonal rett, som selv bearbeider eller på sine vegne får bearbeidet friske druer, most eller ung, ikke ferdiggjæret vin til vin eller most for kommersielle formål.
 
-3\. I artikkel 10 nr. 1 menes med «småprodusent» en produsent som gjennomsnittlig produserer mindre enn 1 000 hektoliter vin per vinår, basert på gjennomsnittlig årsproduksjon i minst tre vinår på rad.Medlemsstatene kan beslutte at definisjonen av «småprodusent» ikke omfatter produsenter som kjøper friske druer, most eller ung, ikke ferdiggjæret vin for å bearbeide dem til vin.[...]
+3\. I artikkel 10 nr. 1 menes med «småprodusent» en produsent som gjennomsnittlig produserer mindre enn 1 000 hektoliter vin per vinår, basert på gjennomsnittlig årsproduksjon i minst tre vinår på rad.
+
+Medlemsstatene kan beslutte at definisjonen av «småprodusent» ikke omfatter produsenter som kjøper friske druer, most eller ung, ikke ferdiggjæret vin for å bearbeide dem til vin.
+
+[...]
 
 ### KAPITTEL IV
 FØLGEDOKUMENTER OG REGLER FOR IMPORT AV VINPRODUKTER
@@ -4074,7 +5962,9 @@ FØLGEDOKUMENTER FOR OVERVÅKING OG SERTIFISERING AV VINPRODUKTER
 
 Alminnelige regler
 
-1\. I henhold til artikkel 147 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal enhver transport av vinprodukter mellom vindyrkere, druehøstere, produsenter, bearbeidere, tappere eller forhandlere, eller fra disse til detaljister, omfattes av et følgedokument.Aktørene nevnt i første ledd skal kunne framlegge følgedokumentet for vedkommende myndigheter når som helst under transporten.
+1\. I henhold til artikkel 147 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal enhver transport av vinprodukter mellom vindyrkere, druehøstere, produsenter, bearbeidere, tappere eller forhandlere, eller fra disse til detaljister, omfattes av et følgedokument.
+
+Aktørene nevnt i første ledd skal kunne framlegge følgedokumentet for vedkommende myndigheter når som helst under transporten.
 
 2\. Følgedokumentet kan bare benyttes til én forsendelse.
 
@@ -4084,7 +5974,30 @@ Alminnelige regler
 
 Unntak
 
-1\. Som unntak fra ***artikkel 8*** skal det ikke kreves følgedokumenter i følgende tilfeller:Vinprodukter som transporteres fra vingården til vinframstillingslokalene, mellom to lokaler som tilhører samme foretak, eller mellom lokaler som tilhører en produsentgruppe, uten at produktene skifter eier, forutsatt at transporten skjer i forbindelse med vinframstilling, bearbeiding, lagring eller tapping, den samlede strekningen ikke overstiger 70 km og transporten utelukkende skjer innenfor territoriet til en enkelt medlemsstat eller er godkjent av vedkommende myndigheter i de berørte medlemsstatene.Ved transport av pressrester av druer og vinbermetil et destillasjonsforetak eller eddikproduksjonsanlegg, når produktet følges av en pakkseddel fra produsenten i henhold til vilkårene fastsatt av de vedkommende myndighetene i medlemsstaten der transporten begynner, ellernår transporten foretas for å trekke produktet tilbake fra vinframstilling eller enhver annen bearbeiding av druer, under tilsyn av vedkommende myndigheter, som fastsatt i artikkel 14 nr. 1 bokstav b) vii) og artikkel 18 nr. 2 i gjennomføringsforordning [(EU) 2018/274](eu/32018r0274).Drueråsaft og most som hører inn under KN-kode 2009 61 og 2009 69, og som leveres til aktører som ikke driver med vinframstilling, når produktet ledsages av et handelsdokument.Vinprodukter som produseres og transporteres utelukkende innenfor territoriet til de medlemsstatene som ikke omfattes av plikten til å føre et vingårdsregister i samsvar med artikkel 145 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308).Følgende tilfeller av vinprodukter som transporteres utelukkende innenfor territoriet til en medlemsstat, i beholdere med et nominelt volum på høyst 60 liter:Vinprodukter i merkede beholdere med et nominelt volum på høyst 10 liter som er utstyrt med en engangslukkemekanisme, når den samlede mengden ikke overstigerfem liter eller fem kilogram for konsentrert druemost, enten den er rektifisert eller ikke,100 liter for alle andre produkter.Vin eller drueråsaft som er beregnet på bruk i forbindelse med diplomatisk representasjon, i konsulater og lignende institusjoner, innenfor rammen av kvotene de er tildelt.Vin eller drueråsaftsom inngår i privatpersoners flyttegods og ikke er beregnet på salg,som befinner seg om bord i skip, fly eller tog og skal konsumeres der.Vin, delvis gjæret vin, delvis gjæret druemost og druemost som transporteres av en privatperson og er beregnet på å konsumeres av mottakeren selv eller dennes familie, når den transporterte mengden ikke overstiger 30 liter.Et produkt som er beregnet på vitenskapelige eller tekniske forsøk, når den samlede transporterte mengden ikke overstiger en hektoliter.Vareprøver.Prøver til en vedkommende myndighet eller et utpekt laboratorium.
+1\. Som unntak fra ***artikkel 8*** skal det ikke kreves følgedokumenter i følgende tilfeller:
+
+1. Vinprodukter som transporteres fra vingården til vinframstillingslokalene, mellom to lokaler som tilhører samme foretak, eller mellom lokaler som tilhører en produsentgruppe, uten at produktene skifter eier, forutsatt at transporten skjer i forbindelse med vinframstilling, bearbeiding, lagring eller tapping, den samlede strekningen ikke overstiger 70 km og transporten utelukkende skjer innenfor territoriet til en enkelt medlemsstat eller er godkjent av vedkommende myndigheter i de berørte medlemsstatene.
+2. Ved transport av pressrester av druer og vinberme
+
+   1. til et destillasjonsforetak eller eddikproduksjonsanlegg, når produktet følges av en pakkseddel fra produsenten i henhold til vilkårene fastsatt av de vedkommende myndighetene i medlemsstaten der transporten begynner, eller
+   2. når transporten foretas for å trekke produktet tilbake fra vinframstilling eller enhver annen bearbeiding av druer, under tilsyn av vedkommende myndigheter, som fastsatt i artikkel 14 nr. 1 bokstav b) vii) og artikkel 18 nr. 2 i gjennomføringsforordning [(EU) 2018/274](eu/32018r0274).
+3. Drueråsaft og most som hører inn under KN-kode 2009 61 og 2009 69, og som leveres til aktører som ikke driver med vinframstilling, når produktet ledsages av et handelsdokument.
+4. Vinprodukter som produseres og transporteres utelukkende innenfor territoriet til de medlemsstatene som ikke omfattes av plikten til å føre et vingårdsregister i samsvar med artikkel 145 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+5. Følgende tilfeller av vinprodukter som transporteres utelukkende innenfor territoriet til en medlemsstat, i beholdere med et nominelt volum på høyst 60 liter:
+
+   1. Vinprodukter i merkede beholdere med et nominelt volum på høyst 10 liter som er utstyrt med en engangslukkemekanisme, når den samlede mengden ikke overstiger
+
+      - fem liter eller fem kilogram for konsentrert druemost, enten den er rektifisert eller ikke,
+      - 100 liter for alle andre produkter.
+   2. Vin eller drueråsaft som er beregnet på bruk i forbindelse med diplomatisk representasjon, i konsulater og lignende institusjoner, innenfor rammen av kvotene de er tildelt.
+   3. Vin eller drueråsaft
+
+      - som inngår i privatpersoners flyttegods og ikke er beregnet på salg,
+      - som befinner seg om bord i skip, fly eller tog og skal konsumeres der.
+   4. Vin, delvis gjæret vin, delvis gjæret druemost og druemost som transporteres av en privatperson og er beregnet på å konsumeres av mottakeren selv eller dennes familie, når den transporterte mengden ikke overstiger 30 liter.
+   5. Et produkt som er beregnet på vitenskapelige eller tekniske forsøk, når den samlede transporterte mengden ikke overstiger en hektoliter.
+   6. Vareprøver.
+   7. Prøver til en vedkommende myndighet eller et utpekt laboratorium.
 
 2\. Når følgedokument ikke er påkrevd, skal avsendere til enhver tid være i stand til å dokumentere riktigheten av all informasjonen som er ført inn i inngangs- og utgangsregisteret fastsatt i kapittel V eller andre registre som kreves av den medlemsstaten der transporten begynte.
 
@@ -4092,15 +6005,39 @@ Unntak
 
 Godkjente følgedokumenter
 
-1\. Vedkommende myndigheter skal godkjenne følgende dokumenter som følgedokumenter, forutsatt at de oppfyller vilkårene i nr. 2–5 og i vedlegg V:For vinprodukter som sendes innenfor en medlemsstat eller mellom medlemsstater, med forbehold for bokstav b) i dette leddet:Et av dokumentene nevnt i artikkel 21 nr. 6 eller artikkel 26 nr. 1 bokstav a) i direktiv [2008/118/EF](eu/32008l0118) for produkter som transporteres under avgiftssuspensjonsordninger innenfor Unionen, forutsatt at det tydelig viser den unike administrative referansekoden nevnt i artikkel 21 nr. 3 i direktivet («ARC-nummer»), det er utarbeidet i samsvar med kommisjonsforordning [(EF) nr. 684/2009](eu/32009r0684)3 og, når dokumentet nevnt i artikkel 26 nr. 1 bokstav a) i direktiv [2008/118/EF](eu/32008l0118) benyttes, avsenderen overholder nevnte nr. 1.Det forenklede følgedokumentet nevnt i artikkel 34 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), utarbeidet og brukt i henhold til kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649)4, for særavgiftspliktige varer som transporteres innenfor Unionen etter at de er frigitt for forbruk i medlemsstaten der transporten begynte.[...]Dokumentene nevnt i bokstav a) punkt iii) andre strekpunkt i første ledd kan brukes bare fram til 31. desember 2020.
+1\. Vedkommende myndigheter skal godkjenne følgende dokumenter som følgedokumenter, forutsatt at de oppfyller vilkårene i nr. 2–5 og i vedlegg V:
 
-2\. Dokumentene nevnt i nr. 1 første ledd bokstav a) skal inneholde opplysningene nevnt i vedlegg V avsnitt A eller gjøre det mulig for vedkommende myndigheter å få tilgang til denne informasjonen.Når disse dokumentene har et ARC-nummer tildelt av datasystemet nevnt i artikkel 21 nr. 2 i direktiv [2008/118/EF](eu/32008l0118) eller en MVV-kode tildelt av informasjonssystemet opprettet av avsendermedlemsstaten som nevnt i nr. 1 første ledd bokstav a) punkt iii), skal informasjonen nevnt i avsnitt A i vedlegg V til denne forordningen finnes i systemet som benyttes.
+1. For vinprodukter som sendes innenfor en medlemsstat eller mellom medlemsstater, med forbehold for bokstav b) i dette leddet:
 
-3\. Dokumentene nevnt i nr. 1 første ledd bokstav a) punkt iii) annet strekpunkt og en kopi av disse skal valideres før sendingved hjelp av dato, signatur og stempel påført av en representant for vedkommende myndighet ellerved hjelp av dato, avsenderens underskrift og om nødvendiget spesialstempel i samsvar med malen nevnt i vedlegg V avsnitt C,et stempel foreskrevet av vedkommende myndigheter elleret stempel fra en stemplingsmaskin som er godkjent av vedkommende myndigheter.Spesialstempelet eller det foreskrevne stempelet nevnt i bokstav b) kan være forhåndstrykt på skjemaene, forutsatt at trykkingen utføres av et trykkeri som er godkjent for dette formålet.[...]
+   1. Et av dokumentene nevnt i artikkel 21 nr. 6 eller artikkel 26 nr. 1 bokstav a) i direktiv [2008/118/EF](eu/32008l0118) for produkter som transporteres under avgiftssuspensjonsordninger innenfor Unionen, forutsatt at det tydelig viser den unike administrative referansekoden nevnt i artikkel 21 nr. 3 i direktivet («ARC-nummer»), det er utarbeidet i samsvar med kommisjonsforordning [(EF) nr. 684/2009](eu/32009r0684)3 og, når dokumentet nevnt i artikkel 26 nr. 1 bokstav a) i direktiv [2008/118/EF](eu/32008l0118) benyttes, avsenderen overholder nevnte nr. 1.
+   2. Det forenklede følgedokumentet nevnt i artikkel 34 nr. 1 i direktiv [2008/118/EF](eu/32008l0118), utarbeidet og brukt i henhold til kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649)4, for særavgiftspliktige varer som transporteres innenfor Unionen etter at de er frigitt for forbruk i medlemsstaten der transporten begynte.
+
+[...]
+
+Dokumentene nevnt i bokstav a) punkt iii) andre strekpunkt i første ledd kan brukes bare fram til 31. desember 2020.
+
+2\. Dokumentene nevnt i nr. 1 første ledd bokstav a) skal inneholde opplysningene nevnt i vedlegg V avsnitt A eller gjøre det mulig for vedkommende myndigheter å få tilgang til denne informasjonen.
+
+Når disse dokumentene har et ARC-nummer tildelt av datasystemet nevnt i artikkel 21 nr. 2 i direktiv [2008/118/EF](eu/32008l0118) eller en MVV-kode tildelt av informasjonssystemet opprettet av avsendermedlemsstaten som nevnt i nr. 1 første ledd bokstav a) punkt iii), skal informasjonen nevnt i avsnitt A i vedlegg V til denne forordningen finnes i systemet som benyttes.
+
+3\. Dokumentene nevnt i nr. 1 første ledd bokstav a) punkt iii) annet strekpunkt og en kopi av disse skal valideres før sending
+
+1. ved hjelp av dato, signatur og stempel påført av en representant for vedkommende myndighet eller
+2. ved hjelp av dato, avsenderens underskrift og om nødvendig
+
+   1. et spesialstempel i samsvar med malen nevnt i vedlegg V avsnitt C,
+   2. et stempel foreskrevet av vedkommende myndigheter eller
+   3. et stempel fra en stemplingsmaskin som er godkjent av vedkommende myndigheter.
+
+Spesialstempelet eller det foreskrevne stempelet nevnt i bokstav b) kan være forhåndstrykt på skjemaene, forutsatt at trykkingen utføres av et trykkeri som er godkjent for dette formålet.
+
+[...]
 
 5\. Som unntak fra nr. 1 kan medlemsstatene godkjenne andre dokumenter som følgedokumenter, herunder dokumenter som er framstilt av et elektronisk system for å forenkle prosedyren når det gjelder vinprodukter som utelukkende transporteres innenfor deres territorium, eller som eksporteres direkte fra deres territorium.
 
-3 Kommisjonsforordning [(EF) nr. 684/2009](eu/32009r0684) av 24. juli 2009 om gjennomføring av rådsdirektiv [2008/118/EF](eu/32008l0118) med hensyn til databaserte framgangsmåter for omsetning av varer som er belagt med særavgift, ved suspensjon av særavgift (EUT L 197 av 29.7.2009, s. 24).4 Kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649) av 17. desember 1992 om et forenklet følgedokument ved transport innenfor Fellesskapet av særavgiftspliktige varer som er frigitt for forbruk i avsendermedlemsstaten (EFT L 369 av 18.12.1992, s. 17).
+3 Kommisjonsforordning [(EF) nr. 684/2009](eu/32009r0684) av 24. juli 2009 om gjennomføring av rådsdirektiv [2008/118/EF](eu/32008l0118) med hensyn til databaserte framgangsmåter for omsetning av varer som er belagt med særavgift, ved suspensjon av særavgift (EUT L 197 av 29.7.2009, s. 24).
+
+4 Kommisjonsforordning [(EØF) nr. 3649/92](eu/31992r3649) av 17. desember 1992 om et forenklet følgedokument ved transport innenfor Fellesskapet av særavgiftspliktige varer som er frigitt for forbruk i avsendermedlemsstaten (EFT L 369 av 18.12.1992, s. 17).
 
 ###### Artikkel 11
 
@@ -4110,15 +6047,41 @@ Sertifisering av opprinnelse eller herkomst, egenskaper, årgang eller vindrueso
 
 2\. Avsenderen skal bekrefte nøyaktigheten av informasjonen som kreves i henhold til nr. 1, på grunnlag av inngangs- og utgangsregisteret som skal føres i samsvar med kapittel V, eller den sertifiserte informasjonen i følgedokumentene til tidligere forsendelser av det aktuelle produktet og offentlige samsvarskontroller utført av vedkommende myndigheter i samsvar med kapittel VII.
 
-3\. Dersom medlemsstater krever at et kontrollorgan som er utpekt til dette formålet, utsteder BOB- eller BGB-sertifikater for vinprodukter som produseres innenfor deres territorium, skal følgedokumentet inneholde en henvisning til dette sertifikatet, navnet på og, når det er relevant, den elektroniske adressen til kontrollorganet.[...]
+3\. Dersom medlemsstater krever at et kontrollorgan som er utpekt til dette formålet, utsteder BOB- eller BGB-sertifikater for vinprodukter som produseres innenfor deres territorium, skal følgedokumentet inneholde en henvisning til dette sertifikatet, navnet på og, når det er relevant, den elektroniske adressen til kontrollorganet.
+
+[...]
 
 ###### Artikkel 14
 
 Forsendelse av uemballerte vinprodukter
 
-1\. Dersom det elektroniske systemet eller informasjonssystemet nevnt i artikkel 10 nr. 1 første ledd bokstav a) punkt iii) første strekpunkt eller i artikkel 10 nr. 5 ikke er benyttet, eller dersom dette systemet ikke tillater at vedkommende myndighet ved lossestedet informeres, skal avsenderen av en forsendelse av uemballerte vinprodukter senest ved transportmiddelets avgang videresende en kopi av følgedokumentet til vedkommende myndighet på lastestedets territorium når det gjelder følgende produkter:Produkter med opprinnelse i Unionen i mengder på over 60 liter:Vin beregnet på bearbeiding til viner med BOB eller BGB, vin med druesortbetegnelse eller årgangsvin, eller på tapping for markedsføring som sådan.Delvis gjæret druemost.Konsentrert druemost, enten den er rektifisert eller ikke.Frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol.Drueråsaft.Konsentrert drueråsaft.[...]Produkter, uten hensyn til deres opprinnelse og den mengden som transporteres, med forbehold for unntakene nevnt i artikkel 9:Vinberme.Pressrester av druer beregnet på destillering eller annen form for industriell bearbeiding.Piquette.Forskåret vin.Vin av druesorter som ikke er oppført som vindruesorter i klassifiseringen utarbeidet av medlemsstatene i henhold til artikkel 81 i forordning (EU) nr. 1308/2013, for den administrative enheten der disse druene er høstet.Produkter som ikke kan tilbys eller leveres for direkte konsum.Vedkommende myndighet på lastestedets territorium skal informere vedkommende myndighet på lossestedets territorium om at transporten har begynt.
+1\. Dersom det elektroniske systemet eller informasjonssystemet nevnt i artikkel 10 nr. 1 første ledd bokstav a) punkt iii) første strekpunkt eller i artikkel 10 nr. 5 ikke er benyttet, eller dersom dette systemet ikke tillater at vedkommende myndighet ved lossestedet informeres, skal avsenderen av en forsendelse av uemballerte vinprodukter senest ved transportmiddelets avgang videresende en kopi av følgedokumentet til vedkommende myndighet på lastestedets territorium når det gjelder følgende produkter:
 
-2\. Som unntak fra nr. 1 kan medlemsstatene fastsette andre frister for videresending av en kopi av følgedokumentet for forsendelser av vinprodukter som transporteres utelukkende innenfor eget territorium.[...]
+1. Produkter med opprinnelse i Unionen i mengder på over 60 liter:
+
+   1. Vin beregnet på bearbeiding til viner med BOB eller BGB, vin med druesortbetegnelse eller årgangsvin, eller på tapping for markedsføring som sådan.
+   2. Delvis gjæret druemost.
+   3. Konsentrert druemost, enten den er rektifisert eller ikke.
+   4. Frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol.
+   5. Drueråsaft.
+   6. Konsentrert drueråsaft.
+
+[...]
+
+1. Produkter, uten hensyn til deres opprinnelse og den mengden som transporteres, med forbehold for unntakene nevnt i artikkel 9:
+
+   1. Vinberme.
+   2. Pressrester av druer beregnet på destillering eller annen form for industriell bearbeiding.
+   3. Piquette.
+   4. Forskåret vin.
+   5. Vin av druesorter som ikke er oppført som vindruesorter i klassifiseringen utarbeidet av medlemsstatene i henhold til artikkel 81 i forordning (EU) nr. 1308/2013, for den administrative enheten der disse druene er høstet.
+   6. Produkter som ikke kan tilbys eller leveres for direkte konsum.
+
+Vedkommende myndighet på lastestedets territorium skal informere vedkommende myndighet på lossestedets territorium om at transporten har begynt.
+
+2\. Som unntak fra nr. 1 kan medlemsstatene fastsette andre frister for videresending av en kopi av følgedokumentet for forsendelser av vinprodukter som transporteres utelukkende innenfor eget territorium.
+
+[...]
 
 ###### Artikkel 16
 
@@ -4132,7 +6095,9 @@ I så fall kan produktet returneres til avsenderen med samme følgedokument, ell
 
 Godkjenning av følgedokumentet ved alvorlig overtredelse eller manglende overholdelse
 
-1\. Dersom en vedkommende myndighet fastslår eller har begrunnet mistanke om at en avsender transporterer eller har transportert et vinprodukt som med hensyn til produksjonsvilkår eller sammensetning ikke overholder unionsbestemmelsene eller nasjonale bestemmelser vedtatt i henhold til disse, eller et vinprodukt der det med hensyn til følgedokumentene er begått en alvorlig overtredelse, kan den kreve at avsenderen fyller ut et nytt følgedokument for vinproduktet og får det godkjent av vedkommende myndighet.Godkjenningen kan, dersom den innvilges, eventuelt knyttes til vilkår for framtidig bruk av produktet eller et forbud mot markedsføring av produktet. Den skal inneholde stempel, underskriften til en representant for vedkommende myndighet og dato.
+1\. Dersom en vedkommende myndighet fastslår eller har begrunnet mistanke om at en avsender transporterer eller har transportert et vinprodukt som med hensyn til produksjonsvilkår eller sammensetning ikke overholder unionsbestemmelsene eller nasjonale bestemmelser vedtatt i henhold til disse, eller et vinprodukt der det med hensyn til følgedokumentene er begått en alvorlig overtredelse, kan den kreve at avsenderen fyller ut et nytt følgedokument for vinproduktet og får det godkjent av vedkommende myndighet.
+
+Godkjenningen kan, dersom den innvilges, eventuelt knyttes til vilkår for framtidig bruk av produktet eller et forbud mot markedsføring av produktet. Den skal inneholde stempel, underskriften til en representant for vedkommende myndighet og dato.
 
 2\. Myndigheten nevnt i nr. 1 skal informere myndigheten med territorialansvar for lastestedet. ►**EØS-tilpasning** *Slik informasjon skal oversendes i tråd med prosedyren i [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) vedlegg 2.*◄**EØS-tilpasning**
 
@@ -4140,7 +6105,11 @@ Godkjenning av følgedokumentet ved alvorlig overtredelse eller manglende overho
 
 Tiltak ved andre overtredelser i forbindelse med følgedokumenter enn alvorlige overtredelser
 
-1\. Dersom en vedkommende myndighet fastslår at en forsendelse som krever følgedokument, transporteres uten et slikt dokument eller med et dokument som inneholder feilaktige eller ufullstendige opplysninger, skal den treffe nødvendige tiltak for å bringe transporten i samsvar, enten ved å rette feil eller ved å fylle ut et nytt dokument.Myndigheten nevnt i første ledd skal sette sitt stempel på dokumenter som er rettet eller fylt ut i henhold til den bestemmelsen. Oppretting av uregelmessigheter må ikke forsinke den aktuelle transporten utover det som er strengt nødvendig.Ved gjentatte uregelmessigheter hos samme avsender skal myndigheten nevnt i nr. 1 første ledd informere myndigheten med territorialansvar for lastestedet. ►**EØS-tilpasning** *Slik informasjon skal oversendes i tråd med prosedyren i [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) vedlegg 2.* ◄**EØS-tilpasning**
+1\. Dersom en vedkommende myndighet fastslår at en forsendelse som krever følgedokument, transporteres uten et slikt dokument eller med et dokument som inneholder feilaktige eller ufullstendige opplysninger, skal den treffe nødvendige tiltak for å bringe transporten i samsvar, enten ved å rette feil eller ved å fylle ut et nytt dokument.
+
+Myndigheten nevnt i første ledd skal sette sitt stempel på dokumenter som er rettet eller fylt ut i henhold til den bestemmelsen. Oppretting av uregelmessigheter må ikke forsinke den aktuelle transporten utover det som er strengt nødvendig.
+
+Ved gjentatte uregelmessigheter hos samme avsender skal myndigheten nevnt i nr. 1 første ledd informere myndigheten med territorialansvar for lastestedet. ►**EØS-tilpasning** *Slik informasjon skal oversendes i tråd med prosedyren i [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) vedlegg 2.* ◄**EØS-tilpasning**
 
 2\. Dersom det viser seg umulig å bringe en transport i samsvar i henhold til nr. 1 første ledd, skal myndigheten nevnt i samme ledd holde igjen transporten. Den skal informere avsenderen om at transporten holdes tilbake, og om tiltakene som er truffet. Tiltakene kan omfatte et forbud mot markedsføring av produktet.
 
@@ -4156,9 +6125,17 @@ Dersom en forsendelse som det kreves følgedokument for, grunnet *force majeure*
 
 Informasjon som skal gis
 
-1\. Medlemsstatene skal gi følgende informasjon til Kommisjonen:[...]Navn og adresse til vedkommende myndigheter som har ansvar for å utføre offisielle analyser, den administrative sertifiseringsprosedyren og kontroller i forbindelse med registre og følgedokumenter.[...]
+1\. Medlemsstatene skal gi følgende informasjon til Kommisjonen:
 
-2\. Medlemsstatene skal informere Kommisjonen om eventuelle endringer i navn og adresse på vedkommende myndigheter og kontaktinstansene som er meldt til Kommisjonen i samsvar med nr. 1.[...]
+[...]
+
+1. Navn og adresse til vedkommende myndigheter som har ansvar for å utføre offisielle analyser, den administrative sertifiseringsprosedyren og kontroller i forbindelse med registre og følgedokumenter.
+
+[...]
+
+2\. Medlemsstatene skal informere Kommisjonen om eventuelle endringer i navn og adresse på vedkommende myndigheter og kontaktinstansene som er meldt til Kommisjonen i samsvar med nr. 1.
+
+[...]
 
 ### KAPITTEL IX
 ENDRINGER, OPPHEVINGER, OVERGANGSBESTEMMELSER OG SLUTTBESTEMMELSER
@@ -4167,7 +6144,10 @@ ENDRINGER, OPPHEVINGER, OVERGANGSBESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### Artikkel 53. Endring av forordning (EF) nr. 606/2009
 
-I forordning [(EF) nr. 606/2009](eu/32009r0606) gjøres følgende endringer:Artikkel 12 og 13 utgår.Ny artikkel 14a og 14b skal lyde:
+I forordning [(EF) nr. 606/2009](eu/32009r0606) gjøres følgende endringer:
+
+1. Artikkel 12 og 13 utgår.
+2. Ny artikkel 14a og 14b skal lyde:
 
 «*Artikkel 14a*
 **Fastsettelse av minste alkoholinnhold i biprodukter**
@@ -4176,7 +6156,13 @@ I forordning [(EF) nr. 606/2009](eu/32009r0606) gjøres følgende endringer:Arti
 
 2\. Dersom den relevante prosentdelen fastsatt av medlemsstatene i henhold til nr. 1 ikke nås, skal den berørte aktøren levere en mengde vin fra sin egen produksjon som tilsvarer den mengden som er nødvendig for å nå minsteinnholdet.
 
-3\. For å bestemme alkoholinnholdet i biproduktene i forhold til innholdet i den produserte vinen skal følgende faste naturlige alkoholstyrke i volumprosent i vinen anvendes i de forskjellige vindyrkingssonene:8,0 % for sone A.8,5 % for sone B.9,0 % for sone C I.9,5 % for sone C II.10,0 % for sone C III.
+3\. For å bestemme alkoholinnholdet i biproduktene i forhold til innholdet i den produserte vinen skal følgende faste naturlige alkoholstyrke i volumprosent i vinen anvendes i de forskjellige vindyrkingssonene:
+
+1. 8,0 % for sone A.
+2. 8,5 % for sone B.
+3. 9,0 % for sone C I.
+4. 9,5 % for sone C II.
+5. 10,0 % for sone C III.
 
 *Artikkel 14b*
 **Bortskaffing av biprodukter**
@@ -4191,7 +6177,9 @@ I forordning [(EF) nr. 606/2009](eu/32009r0606) gjøres følgende endringer:Arti
 
 5\. Medlemsstater kan beslutte at levering til destillasjon av alle eller en del av biproduktene fra vinframstilling eller annen bearbeiding av druer er obligatorisk for alle eller visse produsenter på deres territorium, på grunnlag av objektive og ikke-diskriminerende kriterier.
 
-\* Delegert kommisjonsforordning [(EU) 2018/273](eu/32018r0273) av 11. desember 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, vingårdsregisteret, følgedokumenter og sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger, meldinger og offentliggjøring av meldt informasjon, utfylling av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller og sanksjoner, endring av kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555), [(EF) nr. 606/2009](eu/32009r0606) og [(EF) nr. 607/2009](eu/32009r0607) og oppheving av kommisjonsforordning [(EF) nr. 436/2009](eu/32009r0436) og delegert kommisjonsforordning [(EU) 2015/560](eu/32015r0560) (EUT L 58 av 28.2.2018, s. 1).\*\* Kommisjonens gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) av 11. desember 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger og meldinger og europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller, og om oppheving av Kommisjonens gjennomføringsforordning [(EU) 2015/561](eu/32015r0561) (EUT L 58 av 28.2.2018, s. 60).»
+\* Delegert kommisjonsforordning [(EU) 2018/273](eu/32018r0273) av 11. desember 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, vingårdsregisteret, følgedokumenter og sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger, meldinger og offentliggjøring av meldt informasjon, utfylling av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller og sanksjoner, endring av kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555), [(EF) nr. 606/2009](eu/32009r0606) og [(EF) nr. 607/2009](eu/32009r0607) og oppheving av kommisjonsforordning [(EF) nr. 436/2009](eu/32009r0436) og delegert kommisjonsforordning [(EU) 2015/560](eu/32015r0560) (EUT L 58 av 28.2.2018, s. 1).
+
+\*\* Kommisjonens gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) av 11. desember 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger og meldinger og europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller, og om oppheving av Kommisjonens gjennomføringsforordning [(EU) 2015/561](eu/32015r0561) (EUT L 58 av 28.2.2018, s. 60).»
 
 ### Artikkel 54. Endring av forordning (EF) nr. 607/2009
 
@@ -4282,7 +6270,10 @@ En påkrevd kopi av et dokument skal være merket med «kopi» eller tilsvarende
 
 1.4.
 
-Ett enkelt dokument kan fylles ut for å følge transporten fra én og samme avsender til én og samme mottaker av én enkelt forsendelse avflere partier av samme produktkategori, ellerflere partier av forskjellige produktkategorier, forutsatt at de sendes i merkede beholdere med et nominelt volum på høyst 60 liter og er utstyrt med en engangslukkemekanisme.
+Ett enkelt dokument kan fylles ut for å følge transporten fra én og samme avsender til én og samme mottaker av én enkelt forsendelse av
+
+1. flere partier av samme produktkategori, eller
+2. flere partier av forskjellige produktkategorier, forutsatt at de sendes i merkede beholdere med et nominelt volum på høyst 60 liter og er utstyrt med en engangslukkemekanisme.
 
 1.5.
 
@@ -4298,13 +6289,56 @@ Medlemsstatene kan imidlertid tillate at avsenderne eller bemyndigede personer f
 
 2.1.*Angivelser som angår varebetegnelsen*
 
-1. ProduktkategoriAngi kategorien som produktet faller inn under, ved hjelp av et begrep som er i samsvar med Unionens regler og beskriver det mest presist, for eksempel vin med BOB eller BGB/vin uten BOB eller BGB/vin med druesortbetegnelse uten BOB/BGB/druemost for viner med BOB eller BGB/årgangsvin uten BOB/BGB.
-2. BulktransportFor bulktransport av vinene nevnt i nr. 1–9 og 15 og 16 i del II i vedlegg VII til forordning (EU) nr. 1308/2013 skal produktbeskrivelsene inneholde de frivillige opplysningene fastsatt i artikkel 120 i den nevnte forordningen, forutsatt at opplysningene vises eller planlegges å vises på merkingen.
-3. Alkoholstyrke og tetthetFor transport av produkter i bulk eller i umerkede beholdere med et nominelt volum på høyst 60 liter:Vinens sanne alkoholstyrke, unntatt for ung, ikke ferdiggjæret vin, eller den totale alkoholstyrken for ung, ikke ferdiggjæret vin og delvis gjæret druemost, skal angis i volumprosent med én desimal.Brytningsindeksen for druemoster bestemmes etter målemetoden som er godkjent av Unionen. Den skal angis som potensiell alkoholstyrke i volumprosent. Eventuelt kan det angis som tettheten uttrykt i gram per cm3.Tettheten for frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol, skal angis i gram per cm3, og den sanne alkoholstyrken for produktet skal angis i volumprosent med én desimal.Sukkerinnholdet i konsentrerte druemoster, rektifiserte konsentrerte druemoster og konsentrert drueråsaft skal angis ved det samlede sukkerinnholdet i gram per liter eller gram per kilogram.Sann alkoholstyrke i pressrester av druer og i vinberme kan også angis (valgfritt), i så fall i liter ren alkohol per 100 kg.Disse opplysningene skal angis ved bruk av sammenligningstabellene som er godkjent av Unionen i reglene om analysemetoder.
-4. ToleranserMed forbehold for de unionsbestemmelsene som fastsetter grenseverdien for visse vinprodukter, er følgende toleranser tillatt:Med hensyn til angivelsen av sann eller total alkoholstyrke, en toleranse på ± 0,2 volumprosent.Med hensyn til angivelsen av tetthet, en toleranse på seks enheter i fjerde desimal (± 0,0006).Med hensyn til sukkerinnhold, en toleranse ± 3 %.
-5. Andre angivelser for transport av produkter i bulkVindyrkingssoneVindyrkingssonen som produktet som transporteres stammer fra, angis i samsvar med tillegg I til vedlegg VII til forordning (EU) nr. 1308/2013 ved hjelp av følgende forkortelser: A, B, C I, C II, C III(a) og C III(b).BehandlingerBehandlingene som produktet som transporteres har gjennomgått, skal angis ved bruk av følgende tall i parentes:0Produktet har ikke gjennomgått noen av de følgende behandlingene.1Produktet er anriket.2Produktet er syrnet.3Produktet er avsyrnet.4Produktet er søtet.5Produktet er forskåret for destillasjon.6Et produkt med opprinnelse i en annen geografisk enhet enn den som er angitt i betegnelsen, er tilsatt til produktet.7Et produkt som er framstilt av en annen druesort enn den som er angitt i betegnelsen, er tilsatt til produktet.8Et produkt som er høstet i løpet av et annet år enn det som er angitt i betegnelsen, er tilsatt til produktet.9Produktet er framstilt ved bruk av eikeflis.10Produktet er framstilt på grunnlag av en ny ønologisk framstillingsmåte brukt i forskningsøyemed.11Produktets alkoholinnhold er korrigert.12Andre behandlinger (spesifiseres). Eksempler:
-a. For en vin med opprinnelse i sone B som er anriket, angis B(5).
-b. For en druemost med opprinnelse i sone C III(b) som er syrnet, angis C III(b)(2).Angivelsene som angår vindyrkingssonen og de behandlingene som er utført, skal gis i tillegg til angivelsene som angår varebetegnelsen, og skal plasseres i samme synsfelt.
+1. Produktkategori
+
+   Angi kategorien som produktet faller inn under, ved hjelp av et begrep som er i samsvar med Unionens regler og beskriver det mest presist, for eksempel vin med BOB eller BGB/vin uten BOB eller BGB/vin med druesortbetegnelse uten BOB/BGB/druemost for viner med BOB eller BGB/årgangsvin uten BOB/BGB.
+2. Bulktransport
+
+   For bulktransport av vinene nevnt i nr. 1–9 og 15 og 16 i del II i vedlegg VII til forordning (EU) nr. 1308/2013 skal produktbeskrivelsene inneholde de frivillige opplysningene fastsatt i artikkel 120 i den nevnte forordningen, forutsatt at opplysningene vises eller planlegges å vises på merkingen.
+3. Alkoholstyrke og tetthet
+
+   For transport av produkter i bulk eller i umerkede beholdere med et nominelt volum på høyst 60 liter:
+
+   1. Vinens sanne alkoholstyrke, unntatt for ung, ikke ferdiggjæret vin, eller den totale alkoholstyrken for ung, ikke ferdiggjæret vin og delvis gjæret druemost, skal angis i volumprosent med én desimal.
+   2. Brytningsindeksen for druemoster bestemmes etter målemetoden som er godkjent av Unionen. Den skal angis som potensiell alkoholstyrke i volumprosent. Eventuelt kan det angis som tettheten uttrykt i gram per cm3.
+   3. Tettheten for frisk druemost der gjæringen er avbrutt ved tilsetting av alkohol, skal angis i gram per cm3, og den sanne alkoholstyrken for produktet skal angis i volumprosent med én desimal.
+   4. Sukkerinnholdet i konsentrerte druemoster, rektifiserte konsentrerte druemoster og konsentrert drueråsaft skal angis ved det samlede sukkerinnholdet i gram per liter eller gram per kilogram.
+   5. Sann alkoholstyrke i pressrester av druer og i vinberme kan også angis (valgfritt), i så fall i liter ren alkohol per 100 kg.
+
+   Disse opplysningene skal angis ved bruk av sammenligningstabellene som er godkjent av Unionen i reglene om analysemetoder.
+4. Toleranser
+
+   Med forbehold for de unionsbestemmelsene som fastsetter grenseverdien for visse vinprodukter, er følgende toleranser tillatt:
+
+   1. Med hensyn til angivelsen av sann eller total alkoholstyrke, en toleranse på ± 0,2 volumprosent.
+   2. Med hensyn til angivelsen av tetthet, en toleranse på seks enheter i fjerde desimal (± 0,0006).
+   3. Med hensyn til sukkerinnhold, en toleranse ± 3 %.
+5. Andre angivelser for transport av produkter i bulk
+
+   1. Vindyrkingssone
+
+      Vindyrkingssonen som produktet som transporteres stammer fra, angis i samsvar med tillegg I til vedlegg VII til forordning (EU) nr. 1308/2013 ved hjelp av følgende forkortelser: A, B, C I, C II, C III(a) og C III(b).
+   2. Behandlinger
+
+      Behandlingene som produktet som transporteres har gjennomgått, skal angis ved bruk av følgende tall i parentes:
+
+      |  |  |
+      | --- | --- |
+      | 0 | Produktet har ikke gjennomgått noen av de følgende behandlingene. |
+      | 1 | Produktet er anriket. |
+      | 2 | Produktet er syrnet. |
+      | 3 | Produktet er avsyrnet. |
+      | 4 | Produktet er søtet. |
+      | 5 | Produktet er forskåret for destillasjon. |
+      | 6 | Et produkt med opprinnelse i en annen geografisk enhet enn den som er angitt i betegnelsen, er tilsatt til produktet. |
+      | 7 | Et produkt som er framstilt av en annen druesort enn den som er angitt i betegnelsen, er tilsatt til produktet. |
+      | 8 | Et produkt som er høstet i løpet av et annet år enn det som er angitt i betegnelsen, er tilsatt til produktet. |
+      | 9 | Produktet er framstilt ved bruk av eikeflis. |
+      | 10 | Produktet er framstilt på grunnlag av en ny ønologisk framstillingsmåte brukt i forskningsøyemed. |
+      | 11 | Produktets alkoholinnhold er korrigert. |
+      | 12 | Andre behandlinger (spesifiseres). Eksempler:<br>a. For en vin med opprinnelse i sone B som er anriket, angis B(5).<br>b. For en druemost med opprinnelse i sone C III(b) som er syrnet, angis C III(b)(2). |
+
+      Angivelsene som angår vindyrkingssonen og de behandlingene som er utført, skal gis i tillegg til angivelsene som angår varebetegnelsen, og skal plasseres i samme synsfelt.
 
 2.2.*Angivelser som angår nettomengden*
 
@@ -4333,11 +6367,20 @@ Relevante opplysninger nevnt i artikkel 11 nr. 1 eller artikkel 12 nr. 1 bokstav
 
 ###### Opplysninger som skal angis i felt 17l i følgedokumentet eller handelsdokumentet som brukes i samsvar med artikkel 21 nr. 6 i direktiv [2008/118/EF](eu/32008l0118) eller artikkel 12 nr. 1 bokstav a) i denne forordningen
 
-*Undertegnede, som er ansvarlig for produktene oppført her, bekrefter at de er framstilt og tappet i [medlemsstat eller Den europeiske union], og at**de oppfyller kravene til merking og presentasjon med hensyn til**beskyttet opprinnelsesbetegnelse (BOB) eller beskyttet geografisk betegnelse (BGB) nr. [..., ...] registrert i «E-Bacchus-registeret» opprettet av Unionen i samsvar med artikkel 18 i forordning (EF) nr. 607/2009,**årgang i samsvar med reglene fastsatt i artikkel 120 i forordning (EU) nr. 1308/2013,**vindruesort(er) («vin med druesortbetegnelse») i samsvar med reglene fastsatt i artikkel 81 og 120 i forordning (EU) nr. 1308/2013,**alle produktene overholder bestemmelsene i unionsretten om produksjon og frigivelse av produkter beregnet på direkte konsum,**produktene er produsert ved bruk av godkjente produksjonsmetoder og ikke spesifikt med sikte på eksport, og**produktene er ekte og egnet for konsum i Unionen.* ***Underskrift** og **dato***
+*Undertegnede, som er ansvarlig for produktene oppført her, bekrefter at de er framstilt og tappet i [medlemsstat eller Den europeiske union], og at*
 
-*Produsentens/bearbeiderens navn og stilling****Administrativ referanse tildelt av vedkommende myndighet***
+1. *de oppfyller kravene til merking og presentasjon med hensyn til*
 
-***«ARC-nummer»*** eller ***«MVV-kode»***
+   1. *beskyttet opprinnelsesbetegnelse (BOB) eller beskyttet geografisk betegnelse (BGB) nr. [..., ...] registrert i «E-Bacchus-registeret» opprettet av Unionen i samsvar med artikkel 18 i forordning (EF) nr. 607/2009,*
+   2. *årgang i samsvar med reglene fastsatt i artikkel 120 i forordning (EU) nr. 1308/2013,*
+   3. *vindruesort(er) («vin med druesortbetegnelse») i samsvar med reglene fastsatt i artikkel 81 og 120 i forordning (EU) nr. 1308/2013,*
+2. *alle produktene overholder bestemmelsene i unionsretten om produksjon og frigivelse av produkter beregnet på direkte konsum,*
+3. *produktene er produsert ved bruk av godkjente produksjonsmetoder og ikke spesifikt med sikte på eksport, og*
+4. *produktene er ekte og egnet for konsum i Unionen.*
+
+   |  |  |
+   | --- | --- |
+   | ***Underskrift** og **dato***<br><br>*Produsentens/bearbeiderens navn og stilling* | ***Administrativ referanse tildelt av vedkommende myndighet***<br><br>***«ARC-nummer»*** eller ***«MVV-kode»*** |
 
 [...]
 
@@ -4385,11 +6428,22 @@ SERTIFISERING AV VINPRODUKTER
 
 ### Artikkel 12. Prosedyre og tekniske kriterier for sertifisering
 
-1\. Prosedyren for sertifisering, godkjenning og kontroll av vin uten BOB eller BGB i henhold til artikkel 120 nr. 2 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal kreve administrativ dokumentasjon på at opplysningene om druesortene eller den årgangen som angis på etiketten til og i presentasjonen av de berørte vinene, er riktige.Videre kan medlemsstatene treffe beslutning omen organoleptisk undersøkelse av vinens lukt og smak på grunnlag av anonyme prøver for å kontrollere at vinens grunnleggende egenskaper skyldes den eller de druesortene som er brukt,en analytisk undersøkelse av vin som er framstilt av bare én druesort.Prosedyren skal gjennomføres i den medlemsstaten der vinen er framstilt. Når det gjelder blandinger av viner fra forskjellige medlemsstater som nevnt i artikkel 120 nr. 2 bokstav c) i forordning [(EU) nr. 1308/2013](eu/32013r1308), kan sertifiseringen utføres av hvilken som helst av de berørte medlemsstatene.
+1\. Prosedyren for sertifisering, godkjenning og kontroll av vin uten BOB eller BGB i henhold til artikkel 120 nr. 2 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal kreve administrativ dokumentasjon på at opplysningene om druesortene eller den årgangen som angis på etiketten til og i presentasjonen av de berørte vinene, er riktige.
 
-2\. Sertifiseringen skal utføres ved tilfeldige og risikobaserte kontroller i samsvar med artikkel 36 og 37 i delegert forordning [(EU) 2018/273](eu/32018r0273) og kapittel VI i denne forordningen.Kostnadene for sertifiseringen skal dekkes av de markedsdeltakerne som omfattes av den, med mindre medlemsstatene beslutter noe annet.
+Videre kan medlemsstatene treffe beslutning om
 
-3\. Markedsdeltakerne som er involvert i markedsføringen av vinprodukter de har framstilt, bearbeidet eller tappet, skal anerkjennes og motta tillatelse fra vedkommende myndigheter i medlemsstatene for å sertifisere opprinnelse eller opphav, egenskaper, årgang og vindruesort(er) i samsvar med artikkel 11 og 12 i delegert forordning [(EU) 2018/273](eu/32018r0273), under tilsyn av vedkommende myndigheter som er utpekt i samsvar med artikkel 146 i forordning (EU) nr. 1308/2013.[...]
+1. en organoleptisk undersøkelse av vinens lukt og smak på grunnlag av anonyme prøver for å kontrollere at vinens grunnleggende egenskaper skyldes den eller de druesortene som er brukt,
+2. en analytisk undersøkelse av vin som er framstilt av bare én druesort.
+
+Prosedyren skal gjennomføres i den medlemsstaten der vinen er framstilt. Når det gjelder blandinger av viner fra forskjellige medlemsstater som nevnt i artikkel 120 nr. 2 bokstav c) i forordning [(EU) nr. 1308/2013](eu/32013r1308), kan sertifiseringen utføres av hvilken som helst av de berørte medlemsstatene.
+
+2\. Sertifiseringen skal utføres ved tilfeldige og risikobaserte kontroller i samsvar med artikkel 36 og 37 i delegert forordning [(EU) 2018/273](eu/32018r0273) og kapittel VI i denne forordningen.
+
+Kostnadene for sertifiseringen skal dekkes av de markedsdeltakerne som omfattes av den, med mindre medlemsstatene beslutter noe annet.
+
+3\. Markedsdeltakerne som er involvert i markedsføringen av vinprodukter de har framstilt, bearbeidet eller tappet, skal anerkjennes og motta tillatelse fra vedkommende myndigheter i medlemsstatene for å sertifisere opprinnelse eller opphav, egenskaper, årgang og vindruesort(er) i samsvar med artikkel 11 og 12 i delegert forordning [(EU) 2018/273](eu/32018r0273), under tilsyn av vedkommende myndigheter som er utpekt i samsvar med artikkel 146 i forordning (EU) nr. 1308/2013.
+
+[...]
 
 ### KAPITTEL VII
 MELDINGER
@@ -4398,7 +6452,9 @@ MELDINGER
 
 ### Artikkel 35. Oppbevaring av følgedokumenter, informasjon og registre
 
-1\. Følgedokumentene og kopier av disse skal oppbevares i minst fem år fra utgangen av det kalenderåret da de ble fylt ut.[...]
+1\. Følgedokumentene og kopier av disse skal oppbevares i minst fem år fra utgangen av det kalenderåret da de ble fylt ut.
+
+[...]
 
 ### Konsolidert forordning (EU) 2019/33 om beskyttelse av betegnelser og merking mv. av vin
 
@@ -4520,7 +6576,14 @@ INNLEDENDE BESTEMMELSER
 
 ### Artikkel 1. Formål
 
-Denne forordningen fastsetter regler som utfyller forordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og tradisjonelle betegnelser, i tillegg til merking og presentasjon i vinsektoren når det gjeldersøknader om beskyttelse,innsigelsesprosedyren,begrensninger på bruk av beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser,endringer av produktspesifikasjoner og endringer av tradisjonelle betegnelser,annullering av beskyttelse,merking og presentasjon.
+Denne forordningen fastsetter regler som utfyller forordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og tradisjonelle betegnelser, i tillegg til merking og presentasjon i vinsektoren når det gjelder
+
+1. søknader om beskyttelse,
+2. innsigelsesprosedyren,
+3. begrensninger på bruk av beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser,
+4. endringer av produktspesifikasjoner og endringer av tradisjonelle betegnelser,
+5. annullering av beskyttelse,
+6. merking og presentasjon.
 
 ### KAPITTEL II
 BESKYTTEDE OPPRINNELSESBETEGNELSER OG BESKYTTEDE GEOGRAFISKE BETEGNELSER
@@ -4540,7 +6603,10 @@ Betegnelse som skal beskyttes
 
 Søker
 
-En enkelt produsent kan være søker som definert i artikkel 95 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) dersom følgende kan dokumenteres:Den berørte personen er den eneste produsenten som er villig til å inngi en søknad.Det avgrensede geografiske området har egenskaper som avviker betydelig fra dem i tilgrensende områder, eller produktets kjennetegn skiller seg fra dem som framstilles i tilgrensende områder.
+En enkelt produsent kan være søker som definert i artikkel 95 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) dersom følgende kan dokumenteres:
+
+1. Den berørte personen er den eneste produsenten som er villig til å inngi en søknad.
+2. Det avgrensede geografiske området har egenskaper som avviker betydelig fra dem i tilgrensende områder, eller produktets kjennetegn skiller seg fra dem som framstilles i tilgrensende områder.
 
 Dersom en beskyttet opprinnelsesbetegnelse eller geografisk betegnelse består av eller inneholder navnet på driftsenheten til den enkelte søkende produsenten, skal ikke det hindre andre produsenter i å bruke denne betegnelsen, forutsatt at de overholder produktspesifikasjonen.
 
@@ -4556,7 +6622,11 @@ Tilleggskrav til produktspesifikasjoner
 
 Unntak som gjelder produksjon i det avgrensede geografiske området
 
-1\. Som unntak fra artikkel 93 nr. 1 bokstav a) iii) og bokstav b) iii) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse bearbeides til vin på følgende steder:I et område i umiddelbar nærhet av det aktuelle avgrensede området.I et område som ligger i den samme administrative enheten eller i en nærliggende administrativ enhet, i samsvar med nasjonale regler.Dersom opprinnelsesbetegnelsen eller den geografiske betegnelsen gjelder et område delt av en landegrense, eller dersom det er inngått en avtale om kontrolltiltak mellom to eller flere medlemsstater eller mellom en eller flere medlemsstater og et eller flere tredjeland, i et område som ligger i umiddelbar nærhet av det aktuelle avgrensede området.
+1\. Som unntak fra artikkel 93 nr. 1 bokstav a) iii) og bokstav b) iii) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse bearbeides til vin på følgende steder:
+
+1. I et område i umiddelbar nærhet av det aktuelle avgrensede området.
+2. I et område som ligger i den samme administrative enheten eller i en nærliggende administrativ enhet, i samsvar med nasjonale regler.
+3. Dersom opprinnelsesbetegnelsen eller den geografiske betegnelsen gjelder et område delt av en landegrense, eller dersom det er inngått en avtale om kontrolltiltak mellom to eller flere medlemsstater eller mellom en eller flere medlemsstater og et eller flere tredjeland, i et område som ligger i umiddelbar nærhet av det aktuelle avgrensede området.
 
 2\. Som unntak fra artikkel 93 nr. 1 bokstav a) iii) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og under forutsetning av at det er fastsatt i produktspesifikasjonen, kan et produkt bearbeides til musserende vin eller perlende vin med beskyttet opprinnelsesbetegnelse i et område som ikke ligger i umiddelbar nærhet av det aktuelle avgrensede området, dersom denne framgangsmåten ble brukt før 1. mars 1986.
 
@@ -4580,7 +6650,9 @@ Dersom det inngis felles søknader om beskyttelse av en betegnelse som opprinnel
 
 Nasjonal beskyttelse i en overgangsperiode
 
-1\. En medlemsstat kan i en overgangsperiode gi en betegnelse beskyttelse på nasjonalt plan med virkning fra datoen da søknaden om beskyttelse ble oversendt til Kommisjonen.En slik nasjonal beskyttelse i en overgangsperiode skal opphøre på datoen da det enten treffes beslutning om beskyttelse ifølge forordning [(EU) nr. 1308/2013](eu/32013r1308) eller søknaden trekkes tilbake.
+1\. En medlemsstat kan i en overgangsperiode gi en betegnelse beskyttelse på nasjonalt plan med virkning fra datoen da søknaden om beskyttelse ble oversendt til Kommisjonen.
+
+En slik nasjonal beskyttelse i en overgangsperiode skal opphøre på datoen da det enten treffes beslutning om beskyttelse ifølge forordning [(EU) nr. 1308/2013](eu/32013r1308) eller søknaden trekkes tilbake.
 
 2\. Dersom betegnelsen ikke beskyttes ifølge denne forordningen, skal den berørte medlemsstaten bære hele ansvaret for følgene av en slik nasjonal beskyttelse. Tiltakene som medlemsstatene treffer i samsvar med nr. 1, skal ikke påvirke handelen i Unionen eller internasjonal handel.
 
@@ -4588,7 +6660,11 @@ Nasjonal beskyttelse i en overgangsperiode
 
 Søknadens godtakbarhet
 
-1\. Søknader om beskyttelse anses å kunne godtas dersom de er inngitt i samsvar med artikkel 94, 95 og 96 i forordning (EU) nr. 1308/2013 og artikkel 3 og artikkel 5 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), og dersom de er behørig utfylt.En søknad om beskyttelse skal anses som behørig utfylt dersom den oppfyller kravene i artikkel 94 nr. 1 og 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) og artikkel 2 i gjennomføringsforordning (EU) 2019/34, og dersom enhetsdokumentet er behørig utfylt.Enhetsdokumentet som sammenfatter produktspesifikasjonen nevnt i artikkel 94 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal anses å være behørig utfylt dersom det oppfyller kravene i artikkel 5 nr. 1 og 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034). Produktspesifikasjonen skal anses som behørig utfylt når den oppfyller kravene i artikkel 94 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+1\. Søknader om beskyttelse anses å kunne godtas dersom de er inngitt i samsvar med artikkel 94, 95 og 96 i forordning (EU) nr. 1308/2013 og artikkel 3 og artikkel 5 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), og dersom de er behørig utfylt.
+
+En søknad om beskyttelse skal anses som behørig utfylt dersom den oppfyller kravene i artikkel 94 nr. 1 og 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) og artikkel 2 i gjennomføringsforordning (EU) 2019/34, og dersom enhetsdokumentet er behørig utfylt.
+
+Enhetsdokumentet som sammenfatter produktspesifikasjonen nevnt i artikkel 94 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal anses å være behørig utfylt dersom det oppfyller kravene i artikkel 5 nr. 1 og 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034). Produktspesifikasjonen skal anses som behørig utfylt når den oppfyller kravene i artikkel 94 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 
 2\. Dersom Kommisjonen anser at en søknad ikke kan godtas, skal den underrette de vedkommende myndighetene i medlemsstaten eller i tredjelandet eller søkeren som er etablert i et tredjeland, om årsakene som ligger til grunn for at søknaden ikke kan godtas.
 
@@ -4607,8 +6683,20 @@ Innsigelsesprosedyre
 
 Godtakbarhet og innsigelsesgrunner
 
-1\. Med henblikk på artikkel 98 i forordning (EU) nr. 1308/2013 skal en begrunnet innsigelse anses som godtakbar dersomden mottas av Kommisjonen innen fristen som er angitt i artikkel 98 i forordning (EU) nr. 1308/2013,den oppfyller kravene i artikkel 8 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034),
-ogdet framgår at søknaden om beskyttelse eller endring av produktspesifikasjonen eller anmodningen om annullering av beskyttelsen er uforenlig med reglene for opprinnelsesbetegnelser og geografiske betegnelser på grunn av følgende:Den ville være i strid med artikkel 92–95, 105 eller 106 i forordning (EU) nr. 1308/2013 og med bestemmelsene vedtatt i samsvar med dem.Registreringen av den foreslåtte betegnelsen er i strid med artikkel 100 eller artikkel 101 i forordning (EU) nr. 1308/2013.Registreringen av den foreslåtte betegnelsen vil skade rettighetene til en innehaver av et varemerke eller en bruker av en helt homonym betegnelse eller en sammensatt betegnelse, der ett av ordene er identisk med betegnelsen som skal registreres, eller vil skade eksisterende delvis homonyme betegnelser eller andre betegnelser som ligner den betegnelsen som skal registreres, og som viser til vinprodukter som på lovlig vis har vært på markedet i minst fem år før datoen for offentliggjøringen fastsatt i artikkel 97 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308).Innsigelsesgrunnene skal vurderes i forhold til Unionens territorium.Dersom en fysisk eller juridisk person leverer en innsigelse, skal den behørig begrunnede innsigelsen bare kunne godtas dersom den viser den rettmessige interessen til den parten som gjør innsigelse.
+1\. Med henblikk på artikkel 98 i forordning (EU) nr. 1308/2013 skal en begrunnet innsigelse anses som godtakbar dersom
+
+1. den mottas av Kommisjonen innen fristen som er angitt i artikkel 98 i forordning (EU) nr. 1308/2013,
+2. den oppfyller kravene i artikkel 8 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034),
+   og
+3. det framgår at søknaden om beskyttelse eller endring av produktspesifikasjonen eller anmodningen om annullering av beskyttelsen er uforenlig med reglene for opprinnelsesbetegnelser og geografiske betegnelser på grunn av følgende:
+
+   1. Den ville være i strid med artikkel 92–95, 105 eller 106 i forordning (EU) nr. 1308/2013 og med bestemmelsene vedtatt i samsvar med dem.
+   2. Registreringen av den foreslåtte betegnelsen er i strid med artikkel 100 eller artikkel 101 i forordning (EU) nr. 1308/2013.
+   3. Registreringen av den foreslåtte betegnelsen vil skade rettighetene til en innehaver av et varemerke eller en bruker av en helt homonym betegnelse eller en sammensatt betegnelse, der ett av ordene er identisk med betegnelsen som skal registreres, eller vil skade eksisterende delvis homonyme betegnelser eller andre betegnelser som ligner den betegnelsen som skal registreres, og som viser til vinprodukter som på lovlig vis har vært på markedet i minst fem år før datoen for offentliggjøringen fastsatt i artikkel 97 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+
+Innsigelsesgrunnene skal vurderes i forhold til Unionens territorium.
+
+Dersom en fysisk eller juridisk person leverer en innsigelse, skal den behørig begrunnede innsigelsen bare kunne godtas dersom den viser den rettmessige interessen til den parten som gjør innsigelse.
 
 2\. Dersom Kommisjonen anser at innsigelsen ikke kan godtas, skal den informere den myndigheten eller den fysiske eller juridiske personen som gjorde innsigelsen, om årsakene som ligger til grunn for at den ikke kan godtas.
 
@@ -4628,13 +6716,25 @@ Innsigelsesprosedyre
 
 Begrensninger på bruk av beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser
 
-1\. Uten at det berører artikkel 102 i forordning (EU) nr. 1308/2013 kan Kommisjonen vedta gjennomføringsrettsakter som gir rett til en overgangsperiode på opptil fem år, slik at produkter med opprinnelse i en medlemsstat eller et tredjeland som har en betegnelse som består av eller inneholder et navn som er i strid med artikkel 103 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308), fortsatt kan bruke den betegnelsen som de har vært markedsført under.Innvilgelsen av en slik overgangsperiode forutsetter at det framlegges en innsigelse som kan godtas i samsvar med artikkel 96 nr. 3 eller artikkel 98 i forordning (EU) nr. 1308/2013, som viser at beslutningen om å gi beskyttelse til betegnelsen vil skade en eksisterendehelt identisk betegnelse eller en sammensatt betegnelse der ett av ordene er identisk med betegnelsen som skal registreres, ellerdelvis homonym betegnelse eller andre betegnelser som ligner den betegnelsen som skal registreres, og som viser til vinprodukter som på lovlig vis har vært på markedet i minst fem år før datoen for offentliggjøringen fastsatt i artikkel 97 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+1\. Uten at det berører artikkel 102 i forordning (EU) nr. 1308/2013 kan Kommisjonen vedta gjennomføringsrettsakter som gir rett til en overgangsperiode på opptil fem år, slik at produkter med opprinnelse i en medlemsstat eller et tredjeland som har en betegnelse som består av eller inneholder et navn som er i strid med artikkel 103 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308), fortsatt kan bruke den betegnelsen som de har vært markedsført under.
 
-2\. Kommisjonen kan vedta gjennomføringsrettsakter som forlenger overgangsperioden nevnt i nr. 1 til høyst 15 år i behørig begrunnede tilfeller, dersom det godtgjøres atbetegnelsen nevnt i nr. 1 har vært brukt lovlig, konsekvent og riktig i minst 25 år før søknaden om beskyttelse ble inngitt til Kommisjonen,formålet med å bruke betegnelsen nevnt i nr. 1 aldri har vært å dra nytte av den registrerte betegnelsens omdømme, og at forbrukeren ikke er eller kan ha blitt villedet med hensyn til produktets virkelige opprinnelse.
+Innvilgelsen av en slik overgangsperiode forutsetter at det framlegges en innsigelse som kan godtas i samsvar med artikkel 96 nr. 3 eller artikkel 98 i forordning (EU) nr. 1308/2013, som viser at beslutningen om å gi beskyttelse til betegnelsen vil skade en eksisterende
+
+1. helt identisk betegnelse eller en sammensatt betegnelse der ett av ordene er identisk med betegnelsen som skal registreres, eller
+2. delvis homonym betegnelse eller andre betegnelser som ligner den betegnelsen som skal registreres, og som viser til vinprodukter som på lovlig vis har vært på markedet i minst fem år før datoen for offentliggjøringen fastsatt i artikkel 97 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+
+2\. Kommisjonen kan vedta gjennomføringsrettsakter som forlenger overgangsperioden nevnt i nr. 1 til høyst 15 år i behørig begrunnede tilfeller, dersom det godtgjøres at
+
+1. betegnelsen nevnt i nr. 1 har vært brukt lovlig, konsekvent og riktig i minst 25 år før søknaden om beskyttelse ble inngitt til Kommisjonen,
+2. formålet med å bruke betegnelsen nevnt i nr. 1 aldri har vært å dra nytte av den registrerte betegnelsens omdømme, og at forbrukeren ikke er eller kan ha blitt villedet med hensyn til produktets virkelige opprinnelse.
 
 3\. Når en betegnelse nevnt i nr. 1 og 2 brukes, skal opprinnelseslandet være klart og tydelig angitt i merkingen.
 
-4\. For å løse midlertidige problemer og med henblikk på å nå det langsiktige målet å sikre at alle produsenter i det aktuelle området overholder produktspesifikasjonen, kan en medlemsstat gi beskyttelse i en overgangsperiode, som starter fra den datoen da søknaden oversendes til Kommisjonen, forutsatt at de berørte aktørene lovlig har markedsført de aktuelle vinproduktene ved kontinuerlig bruk av de aktuelle betegnelsene i minst fem år før søknaden inngis til myndighetene i medlemsstaten, og at disse midlertidige problemene er tatt opp i den nasjonale innsigelsesprosedyren nevnt i artikkel 96 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308). Denne overgangsperioden skal være så kort som mulig og skal ikke overstige ti år.Første ledd gjelder tilsvarende med nødvendige endringer for en beskyttet geografisk betegnelse eller en beskyttet opprinnelsesbetegnelse som viser til et geografisk område i et tredjeland, med unntak for innsigelsesprosedyren.Slike overgangsperioder skal angis i søknadsdokumentet nevnt i artikkel 94 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+4\. For å løse midlertidige problemer og med henblikk på å nå det langsiktige målet å sikre at alle produsenter i det aktuelle området overholder produktspesifikasjonen, kan en medlemsstat gi beskyttelse i en overgangsperiode, som starter fra den datoen da søknaden oversendes til Kommisjonen, forutsatt at de berørte aktørene lovlig har markedsført de aktuelle vinproduktene ved kontinuerlig bruk av de aktuelle betegnelsene i minst fem år før søknaden inngis til myndighetene i medlemsstaten, og at disse midlertidige problemene er tatt opp i den nasjonale innsigelsesprosedyren nevnt i artikkel 96 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308). Denne overgangsperioden skal være så kort som mulig og skal ikke overstige ti år.
+
+Første ledd gjelder tilsvarende med nødvendige endringer for en beskyttet geografisk betegnelse eller en beskyttet opprinnelsesbetegnelse som viser til et geografisk område i et tredjeland, med unntak for innsigelsesprosedyren.
+
+Slike overgangsperioder skal angis i søknadsdokumentet nevnt i artikkel 94 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 
 ### AVSNITT 3
 Endringer av produktspesifikasjoner
@@ -4643,7 +6743,18 @@ Endringer av produktspesifikasjoner
 
 Typer av endringer
 
-1\. Med henblikk på artikkel 105 i forordning (EU) nr. 1308/2013 inndeles endringer av en produktspesifikasjon i to kategorier etter deres betydning: endringer som krever en innsigelsesprosedyre på unionsplan («endringer på unionsplan»), og endringer som skal håndteres på medlemsstats- eller tredjelandsplan («standardendringer»).En endring skal anses å være en endring på unionsplan dersomden omfatter en endring av navnet på den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,den består av en endring, en sletting eller en tilføyelse av en kategori av vinprodukter omtalt i del II i vedlegg VII til forordning [(EU) nr. 1083/2013](eu/32013r1083),den kan potensielt ugyldiggjøre tilknytningen nevnt i artikkel 93 nr. 1 bokstav a) i) eller bokstav b) i) i forordning [(EU) 1308/2013](eu/32013r1308),den innebærer ytterligere begrensninger for markedsføringen av produktet.Søknader om endringer på unionsplan som inngis av tredjeland eller av produsenter i tredjeland, skal inneholde dokumentasjon på at den ønskede endringen er i samsvar med lovgivningen om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser som gjelder i disse tredjelandene.Alle andre endringer skal anses som standardendringer.
+1\. Med henblikk på artikkel 105 i forordning (EU) nr. 1308/2013 inndeles endringer av en produktspesifikasjon i to kategorier etter deres betydning: endringer som krever en innsigelsesprosedyre på unionsplan («endringer på unionsplan»), og endringer som skal håndteres på medlemsstats- eller tredjelandsplan («standardendringer»).
+
+En endring skal anses å være en endring på unionsplan dersom
+
+1. den omfatter en endring av navnet på den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen,
+2. den består av en endring, en sletting eller en tilføyelse av en kategori av vinprodukter omtalt i del II i vedlegg VII til forordning [(EU) nr. 1083/2013](eu/32013r1083),
+3. den kan potensielt ugyldiggjøre tilknytningen nevnt i artikkel 93 nr. 1 bokstav a) i) eller bokstav b) i) i forordning [(EU) 1308/2013](eu/32013r1308),
+4. den innebærer ytterligere begrensninger for markedsføringen av produktet.
+
+Søknader om endringer på unionsplan som inngis av tredjeland eller av produsenter i tredjeland, skal inneholde dokumentasjon på at den ønskede endringen er i samsvar med lovgivningen om beskyttelse av opprinnelsesbetegnelser eller geografiske betegnelser som gjelder i disse tredjelandene.
+
+Alle andre endringer skal anses som standardendringer.
 
 2\. Med henblikk på artikkel 105 i forordning (EU) nr. 1308/2013 er en midlertidig endring en standardendring når den gjelder en midlertidig endring av produktspesifikasjonen som følge av at offentlige myndigheter har innført obligatoriske helse- og plantehelsetiltak, eller er forbundet med naturkatastrofer eller ugunstige værforhold som vedkommende myndigheter formelt har anerkjent.
 
@@ -4663,7 +6774,11 @@ Prosedyre for endringer av produktspesifikasjoner på unionsplan
 
 Godtakbarhet for søknader om endring på unionsplan
 
-1\. Søknader om godkjenning av en endring på unionsplan av en produktspesifikasjon skal anses å kunne godtas dersom de er inngitt i samsvar med artikkel 105 i forordning (EU) nr. 1308/2013 og artikkel 3 og artikkel 9 nr. 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), og gjelder tilsvarende med nødvendige endringer, og dersom de er behørig utfylt.En søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon skal anses som behørig utfylt dersom den er omfattende og uttømmende, og dersom den oppfyller kravene i artikkel 2 og artikkel 9 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034).Kommisjonens godkjenning av en søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon gjelder bare de endringene som er angitt i selve søknaden.
+1\. Søknader om godkjenning av en endring på unionsplan av en produktspesifikasjon skal anses å kunne godtas dersom de er inngitt i samsvar med artikkel 105 i forordning (EU) nr. 1308/2013 og artikkel 3 og artikkel 9 nr. 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), og gjelder tilsvarende med nødvendige endringer, og dersom de er behørig utfylt.
+
+En søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon skal anses som behørig utfylt dersom den er omfattende og uttømmende, og dersom den oppfyller kravene i artikkel 2 og artikkel 9 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034).
+
+Kommisjonens godkjenning av en søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon gjelder bare de endringene som er angitt i selve søknaden.
 
 2\. Dersom søknaden ikke anses å kunne godtas, skal de vedkommende myndighetene i medlemsstaten eller tredjelandet eller søkeren som er etablert i et tredjeland, underrettes om grunnene til at søknaden ikke kan godtas.
 
@@ -4671,9 +6786,15 @@ Godtakbarhet for søknader om endring på unionsplan
 
 Standardendringer
 
-1\. Standardendringer skal godkjennes og offentliggjøres av medlemsstaten hvis geografiske område opprinnelsesbetegnelsen eller den geografiske betegnelsen er knyttet til.Søknader om godkjenning av en standardendring av en produktspesifikasjon skal inngis til myndighetene i medlemsstaten hvis geografiske område opprinnelsesbetegnelsen eller den geografiske betegnelsen er knyttet til. Søkerne skal oppfylle vilkårene i artikkel 95 i forordning (EU) nr. 1308/2013. Dersom søknaden om godkjenning av en standardendring av en produktspesifikasjon ikke kommer fra den søkeren som har inngitt søknaden om beskyttelse av den eller de betegnelsene som produktspesifikasjonen gjelder, skal medlemsstaten gi den nevnte søkeren mulighet til å komme med merknader til søknaden, dersom søkeren fremdeles eksisterer.Søknaden om en standardendring skal inneholde en beskrivelse av standardendringene, et sammendrag av begrunnelsene for at endringene er påkrevd, og dokumentasjon på at de foreslåtte endringene kan anses som standardendringer i samsvar med artikkel 14 i denne forordningen.
+1\. Standardendringer skal godkjennes og offentliggjøres av medlemsstaten hvis geografiske område opprinnelsesbetegnelsen eller den geografiske betegnelsen er knyttet til.
 
-2\. Dersom medlemsstaten anser at kravene i forordning [(EU) nr. 1308/2013](eu/32013r1308) og bestemmelsene som er vedtatt i henhold til den, er oppfylt, kan den godkjenne og offentliggjøre standardendringen. Beslutningen om godkjenning skal inneholde det endrede konsoliderte enhetsdokumentet og, dersom det er relevant, den endrede konsoliderte produktspesifikasjonen.Standardendringen får anvendelse i medlemsstaten så snart den er offentliggjort. Medlemsstaten skal sende standardendringene til Kommisjonen senest én måned etter datoen for offentliggjøring av den nasjonale beslutningen om godkjenning.
+Søknader om godkjenning av en standardendring av en produktspesifikasjon skal inngis til myndighetene i medlemsstaten hvis geografiske område opprinnelsesbetegnelsen eller den geografiske betegnelsen er knyttet til. Søkerne skal oppfylle vilkårene i artikkel 95 i forordning (EU) nr. 1308/2013. Dersom søknaden om godkjenning av en standardendring av en produktspesifikasjon ikke kommer fra den søkeren som har inngitt søknaden om beskyttelse av den eller de betegnelsene som produktspesifikasjonen gjelder, skal medlemsstaten gi den nevnte søkeren mulighet til å komme med merknader til søknaden, dersom søkeren fremdeles eksisterer.
+
+Søknaden om en standardendring skal inneholde en beskrivelse av standardendringene, et sammendrag av begrunnelsene for at endringene er påkrevd, og dokumentasjon på at de foreslåtte endringene kan anses som standardendringer i samsvar med artikkel 14 i denne forordningen.
+
+2\. Dersom medlemsstaten anser at kravene i forordning [(EU) nr. 1308/2013](eu/32013r1308) og bestemmelsene som er vedtatt i henhold til den, er oppfylt, kan den godkjenne og offentliggjøre standardendringen. Beslutningen om godkjenning skal inneholde det endrede konsoliderte enhetsdokumentet og, dersom det er relevant, den endrede konsoliderte produktspesifikasjonen.
+
+Standardendringen får anvendelse i medlemsstaten så snart den er offentliggjort. Medlemsstaten skal sende standardendringene til Kommisjonen senest én måned etter datoen for offentliggjøring av den nasjonale beslutningen om godkjenning.
 
 3\. Beslutninger om godkjenning av standardendringer som gjelder vinprodukter med opprinnelse i tredjeland, skal treffes i samsvar med det gjeldende systemet i det berørte tredjelandet, og skal meddeles Kommisjonen av en enkeltprodusent som definert i artikkel 3 eller av en gruppe produsenter som har en berettiget interesse, enten direkte til Kommisjonen eller via myndighetene i det tredjelandet, senest én måned etter datoen da de ble offentliggjort.
 
@@ -4685,7 +6806,9 @@ Standardendringer
 
 7\. Standardendringer får anvendelse på Unionens territorium når de er offentliggjort i C-serien av *Den europeiske unions tidende*, eller er offentliggjort av Kommisjonen i informasjonssystemene nevnt i artikkel 32 i gjennomføringsforordning (EU) 2019/34.
 
-8\. Dersom det geografiske området omfatter mer enn én medlemsstat, skal de berørte medlemsstatene benytte prosedyren for standardendringer separat for den delen av området som ligger innenfor deres territorium. Standardendringen får ikke anvendelse før etter at den siste nasjonale beslutningen om godkjenning får anvendelse. Den medlemsstaten som sist godkjente standardendringen, skal sende den meddelelsen som er nevnt i nr. 4, til Kommisjonen senest én måned etter datoen da dens beslutning om godkjenning av standardendringen ble offentliggjort.Dersom en eller flere av de berørte medlemsstatene ikke vedtar den nasjonale beslutningen om godkjenning nevnt i første ledd, kan en hvilken som helst av de berørte medlemsstatene inngi en søknad i henhold til prosedyren for endringer på unionsplan. En slik regel skal også gjelde tilsvarende med nødvendige endringer dersom en eller flere av de berørte medlemsstatene er et tredjeland.
+8\. Dersom det geografiske området omfatter mer enn én medlemsstat, skal de berørte medlemsstatene benytte prosedyren for standardendringer separat for den delen av området som ligger innenfor deres territorium. Standardendringen får ikke anvendelse før etter at den siste nasjonale beslutningen om godkjenning får anvendelse. Den medlemsstaten som sist godkjente standardendringen, skal sende den meddelelsen som er nevnt i nr. 4, til Kommisjonen senest én måned etter datoen da dens beslutning om godkjenning av standardendringen ble offentliggjort.
+
+Dersom en eller flere av de berørte medlemsstatene ikke vedtar den nasjonale beslutningen om godkjenning nevnt i første ledd, kan en hvilken som helst av de berørte medlemsstatene inngi en søknad i henhold til prosedyren for endringer på unionsplan. En slik regel skal også gjelde tilsvarende med nødvendige endringer dersom en eller flere av de berørte medlemsstatene er et tredjeland.
 
 ###### Artikkel 18
 
@@ -4722,7 +6845,10 @@ Med henblikk på artikkel 106 i forordning (EU) nr. 1308/2013 skal overholdelse 
 
 Godtakbarhet for anmodninger om annullering
 
-1\. Med henblikk på artikkel 106 i forordning (EU) nr. 1308/2013 skal en begrunnet anmodning om annullering anses som godtakbar dersomanmodningen om annullering oppfyller kravene i artikkel 13 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), oganmodningen om annullering er basert på de grunnene som er nevnt i artikkel 106 i forordning (EU) nr. 1308/2013.
+1\. Med henblikk på artikkel 106 i forordning (EU) nr. 1308/2013 skal en begrunnet anmodning om annullering anses som godtakbar dersom
+
+1. anmodningen om annullering oppfyller kravene i artikkel 13 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), og
+2. anmodningen om annullering er basert på de grunnene som er nevnt i artikkel 106 i forordning (EU) nr. 1308/2013.
 
 2\. Dersom Kommisjonen anser at anmodningen om annullering ikke kan godtas, skal den informere myndigheten i medlemsstaten eller tredjelandet eller den fysiske eller juridiske personen som leverte anmodningen, om årsakene som ligger til grunn for at den ikke kan godtas.
 
@@ -4745,7 +6871,26 @@ Dersom søknaden avslås, kan vinprodukter som er merket i samsvar med første l
 
 Unntak fra plikten til å bruke uttrykket «beskyttet opprinnelsesbetegnelse» på etiketter
 
-I samsvar med artikkel 119 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan henvisninger til uttrykket «beskyttet opprinnelsesbetegnelse» utelates for viner med følgende beskyttede opprinnelsesbetegnelser:Hellas:Σάμoς (Samos).Spania:Cava, Jerez, Xérès eller Sherry, Manzanilla.Frankrike:Champagne.Italia:Asti, Marsala, Franciacorta.Kypros:Κoυμανδαρία (Commandaria).Portugal:Madeira eller Madère, Port eller Porto.
+I samsvar med artikkel 119 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan henvisninger til uttrykket «beskyttet opprinnelsesbetegnelse» utelates for viner med følgende beskyttede opprinnelsesbetegnelser:
+
+1. Hellas:
+
+   Σάμoς (Samos).
+2. Spania:
+
+   Cava, Jerez, Xérès eller Sherry, Manzanilla.
+3. Frankrike:
+
+   Champagne.
+4. Italia:
+
+   Asti, Marsala, Franciacorta.
+5. Kypros:
+
+   Κoυμανδαρία (Commandaria).
+6. Portugal:
+
+   Madeira eller Madère, Port eller Porto.
 
 ### KAPITTEL III
 TRADISJONELLE BETEGNELSER
@@ -4757,7 +6902,10 @@ Søknader om beskyttelse og undersøkelsesprosedyre
 
 Språk og stavemåte for den tradisjonelle betegnelsen
 
-1\. En tradisjonell betegnelse skal registrerespå det offisielle språket eller det regionale språket i den medlemsstaten eller det tredjelandet der betegnelsen har sin opprinnelse,på det språket som brukes i handelen for denne betegnelsen.
+1\. En tradisjonell betegnelse skal registreres
+
+1. på det offisielle språket eller det regionale språket i den medlemsstaten eller det tredjelandet der betegnelsen har sin opprinnelse,
+2. på det språket som brukes i handelen for denne betegnelsen.
 
 2\. En tradisjonell betegnelse skal registreres med sin opprinnelige stavemåte og på originalspråket. Dersom originalspråket ikke skrives med latinske bokstaver, skal en transkripsjon med latinske bokstaver registreres sammen med betegnelsen på originalspråket.
 
@@ -4773,7 +6921,16 @@ Søkere
 
 Søknadens godtakbarhet
 
-1\. Søknader om beskyttelse anses å kunne godtas dersom de er inngitt i samsvar med artikkel 25 i denne forordningen og artikkel 21 og artikkel 30 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034) og er behørig utfylt.En søknad skal anses å være behørig utfylt dersom den inneholder følgende informasjon:Den betegnelsen som skal beskyttes som en tradisjonell betegnelse.Typen av tradisjonell betegnelse og om den omfattes av artikkel 112 bokstav a) eller b) i forordning [(EU) nr. 1308/2013](eu/32013r1308).Det språket som betegnelsen som skal beskyttes som en tradisjonell betegnelse, er angitt på.Den eller de relevante kategoriene av vinprodukter.Et sammendrag av definisjonen og bruksvilkårene.De relevante beskyttede opprinnelsesbetegnelsene eller de beskyttede geografiske betegnelsene.
+1\. Søknader om beskyttelse anses å kunne godtas dersom de er inngitt i samsvar med artikkel 25 i denne forordningen og artikkel 21 og artikkel 30 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034) og er behørig utfylt.
+
+En søknad skal anses å være behørig utfylt dersom den inneholder følgende informasjon:
+
+1. Den betegnelsen som skal beskyttes som en tradisjonell betegnelse.
+2. Typen av tradisjonell betegnelse og om den omfattes av artikkel 112 bokstav a) eller b) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+3. Det språket som betegnelsen som skal beskyttes som en tradisjonell betegnelse, er angitt på.
+4. Den eller de relevante kategoriene av vinprodukter.
+5. Et sammendrag av definisjonen og bruksvilkårene.
+6. De relevante beskyttede opprinnelsesbetegnelsene eller de beskyttede geografiske betegnelsene.
 
 2\. Søknaden skal følges av en kopi av den berørte medlemsstatens lovgivning eller de reglene som gjelder for vinprodusenter i det eller de berørte tredjelandene med hensyn til bruk av den aktuelle betegnelsen, samt en henvisning til den offentliggjorte lovgivningen eller disse reglene.
 
@@ -4785,9 +6942,22 @@ Søknadens godtakbarhet
 
 Vilkår for gyldighet
 
-1\. En søknad om beskyttelse av en tradisjonell betegnelse skal anses som gyldig dersom den betegnelsen det søkes om beskyttelse for,oppfyller kravene til en tradisjonell betegnelse som definert i artikkel 112 i forordning (EU) nr. 1308/2013 og kravene fastsatt i artikkel 24 i denne forordningen,består utelukkende av entenen betegnelse som tradisjonelt brukes i handelen på en stor del av Unionens eller det berørte tredjelandets territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 92 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308), elleren kjent betegnelse som tradisjonelt brukes i handelen i det minste på Unionens eller det berørte tredjelandets territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 92 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308),er ikke blitt generisk, oger definert og regulert i medlemsstatens lovgivning eller er underlagt bruksvilkår som er fastsatt i de reglene som gjelder for vinprodusentene i det berørte tredjelandet, inkludert representative bransjeorganisasjoners regler.Bokstav b) skal ikke gjelde for tradisjonelle betegnelser nevnt i artikkel 112 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+1\. En søknad om beskyttelse av en tradisjonell betegnelse skal anses som gyldig dersom den betegnelsen det søkes om beskyttelse for,
 
-2\. I nr. 1 bokstav b) menes med tradisjonell brukbruk i en periode på minst fem år når det gjelder betegnelser som er registrert på det offisielle språket eller det regionale språket i den medlemsstaten eller det tredjelandet der betegnelsen har sin opprinnelse,bruk i en periode på minst 15 år når det gjelder betegnelser som er registrert på det språket som brukes i handelen.
+1. oppfyller kravene til en tradisjonell betegnelse som definert i artikkel 112 i forordning (EU) nr. 1308/2013 og kravene fastsatt i artikkel 24 i denne forordningen,
+2. består utelukkende av enten
+
+   1. en betegnelse som tradisjonelt brukes i handelen på en stor del av Unionens eller det berørte tredjelandets territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 92 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308), eller
+   2. en kjent betegnelse som tradisjonelt brukes i handelen i det minste på Unionens eller det berørte tredjelandets territorium, for å skille mellom bestemte kategorier vinprodukter som nevnt i artikkel 92 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308),
+3. er ikke blitt generisk, og
+4. er definert og regulert i medlemsstatens lovgivning eller er underlagt bruksvilkår som er fastsatt i de reglene som gjelder for vinprodusentene i det berørte tredjelandet, inkludert representative bransjeorganisasjoners regler.
+
+Bokstav b) skal ikke gjelde for tradisjonelle betegnelser nevnt i artikkel 112 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+
+2\. I nr. 1 bokstav b) menes med tradisjonell bruk
+
+1. bruk i en periode på minst fem år når det gjelder betegnelser som er registrert på det offisielle språket eller det regionale språket i den medlemsstaten eller det tredjelandet der betegnelsen har sin opprinnelse,
+2. bruk i en periode på minst 15 år når det gjelder betegnelser som er registrert på det språket som brukes i handelen.
 
 3\. I nr. 1 bokstav c) menes med en betegnelse som er blitt «generisk», at betegnelsen, selv om den gjelder en bestemt produksjonsmetode, modningsmetode, kvalitet, farge, type sted eller en bestemt hendelse knyttet til et vinprodukts historie, er blitt den vanlige betegnelsen på dette produktet i Unionen.
 
@@ -4819,7 +6989,11 @@ En innsigelse anses som inngitt på den datoen innsigelsen mottas av Kommisjonen
 
 Godtakbarhet og innsigelsesgrunner
 
-1\. En begrunnet innsigelse kan godtas dersomden inngis av en medlemsstat eller et tredjeland, eller en fysisk eller juridisk person som har en rettmessig interesse,den mottas av Kommisjonen innen fristen som er fastsatt i artikkel 22 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034),den viser at søknaden om beskyttelse er uforenlig med reglene for tradisjonelle betegnelser fordi den ikke er i samsvar med artikkel 27 i denne forordningen, eller fordi registreringen av den foreslåtte betegnelsen vil være i strid med artikkel 32 eller 33 i denne forordningen.
+1\. En begrunnet innsigelse kan godtas dersom
+
+1. den inngis av en medlemsstat eller et tredjeland, eller en fysisk eller juridisk person som har en rettmessig interesse,
+2. den mottas av Kommisjonen innen fristen som er fastsatt i artikkel 22 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034),
+3. den viser at søknaden om beskyttelse er uforenlig med reglene for tradisjonelle betegnelser fordi den ikke er i samsvar med artikkel 27 i denne forordningen, eller fordi registreringen av den foreslåtte betegnelsen vil være i strid med artikkel 32 eller 33 i denne forordningen.
 
 2\. Dersom en innsigelse anses å kunne godtas, skal medlemsstatens eller tredjelandets myndigheter eller den representative bransjeorganisasjonen i det berørte tredjelandet underrettes om dette.
 
@@ -4827,13 +7001,17 @@ Godtakbarhet og innsigelsesgrunner
 
 Undersøkelse av en innsigelse
 
-1\. Dersom Kommisjonen ikke avviser innsigelsen i samsvar med artikkel 23 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), skal den informere søkeren som innga søknaden, om innsigelsen og oppfordre søkeren til å framlegge merknader innen fristen angitt i artikkel 24 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034). Merknader som mottas innen denne fristen, skal oversendes til den parten som gjør innsigelse.Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, innen fristen nevnt i artikkel 24 nr. 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034).
+1\. Dersom Kommisjonen ikke avviser innsigelsen i samsvar med artikkel 23 nr. 3 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034), skal den informere søkeren som innga søknaden, om innsigelsen og oppfordre søkeren til å framlegge merknader innen fristen angitt i artikkel 24 nr. 1 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034). Merknader som mottas innen denne fristen, skal oversendes til den parten som gjør innsigelse.
+
+Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene til ved behov å framlegge merknader til de meddelelsene som er mottatt fra andre parter, innen fristen nevnt i artikkel 24 nr. 2 i gjennomføringsforordning [(EU) 2019/34](eu/32019r0034).
 
 2\. Dersom søkeren eller den parten som gjør innsigelse, ikke framlegger merknader som svar, eller ikke overholder fristene for å framlegge merknader eller kommentarer som nevnt i artikkel 24 i gjennomføringsforordning (EU) 2019/34, skal Kommisjonen ta stilling til innsigelsen.
 
 3\. Kommisjonen treffer beslutning om å avslå eller anerkjenne den aktuelle tradisjonelle betegnelsen på grunnlag av de bevisene den har til rådighet. Kommisjonen skal vurdere om vilkårene nevnt eller fastsatt i artikkel 27, 32 eller 33 i denne forordningen er oppfylt. En beslutning om å avslå den tradisjonelle betegnelsen skal meddeles parten som gjør innsigelse og søkeren.
 
-4\. Dersom det er inngitt flere innsigelser, kan en foreløpig undersøkelse av en eller flere innsigelser gjøre det umulig å gå videre med en søknad om beskyttelse. I slike tilfeller kan Kommisjonen utsette de andre innsigelsesprosedyrene. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som vedrører dem, og som er truffet som ledd i prosedyren.Dersom en søknad avslås, skal de innsigelsesprosedyrene som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal underrettes.
+4\. Dersom det er inngitt flere innsigelser, kan en foreløpig undersøkelse av en eller flere innsigelser gjøre det umulig å gå videre med en søknad om beskyttelse. I slike tilfeller kan Kommisjonen utsette de andre innsigelsesprosedyrene. Kommisjonen skal underrette de øvrige partene som gjør innsigelse, om alle beslutninger som vedrører dem, og som er truffet som ledd i prosedyren.
+
+Dersom en søknad avslås, skal de innsigelsesprosedyrene som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal underrettes.
 
 ### AVSNITT 3
 Beskyttelse
@@ -4842,19 +7020,32 @@ Beskyttelse
 
 Forhold til varemerker
 
-1\. En søknad om registrering av et varemerke som inneholder eller utgjør en tradisjonell betegnelse som ikke overholder definisjonen av og bruksvilkårene for denne tradisjonelle betegnelsen som nevnt i artikkel 112 i forordning (EU) nr. 1308/2013, og som gjelder et produkt som hører inn under en av kategoriene oppført i vedlegg VII del II, skalavslås dersom søknaden om registrering av varemerket inngis etter datoen for inngivelse av søknaden om beskyttelse av den tradisjonelle betegnelsen til Kommisjonen, og den tradisjonelle betegnelsen deretter beskyttes, ellerkjennes ugyldig.
+1\. En søknad om registrering av et varemerke som inneholder eller utgjør en tradisjonell betegnelse som ikke overholder definisjonen av og bruksvilkårene for denne tradisjonelle betegnelsen som nevnt i artikkel 112 i forordning (EU) nr. 1308/2013, og som gjelder et produkt som hører inn under en av kategoriene oppført i vedlegg VII del II, skal
+
+1. avslås dersom søknaden om registrering av varemerket inngis etter datoen for inngivelse av søknaden om beskyttelse av den tradisjonelle betegnelsen til Kommisjonen, og den tradisjonelle betegnelsen deretter beskyttes, eller
+2. kjennes ugyldig.
 
 2\. En betegnelse skal ikke beskyttes som en tradisjonell betegnelse dersom beskyttelsen, på bakgrunn av et varemerkes omdømme og anseelse, vil kunne villede forbrukeren med hensyn til vinproduktets virkelige identitet, art, egenskaper eller kvalitet.
 
-3\. Uten at det berører nr. 2, kan et varemerke nevnt i nr. 1 som det, i god tro, er inngitt søknad om, som er registrert eller som er innarbeidet gjennom bruk, dersom det er fastsatt i den nasjonale lovgivningen, på Unionens territorium før datoen for beskyttelse av den tradisjonelle betegnelsen i opprinnelseslandet, fortsatt brukes og fornyes uten hensyn til beskyttelsen av en tradisjonell betegnelse, forutsatt at det ikke er grunner til å kjenne varemerket ugyldig eller oppheve det i henhold til europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095)9, europaparlaments- og rådsdirektiv [(EU) 2015/2436](eu/32015l2436)10 eller i henhold til europaparlaments- eller rådsforordning [(EU) 2017/1001](eu/32017r1001)11.I slike tilfeller skal bruk av den tradisjonelle betegnelsen tillates parallelt med de aktuelle varemerkene.
+3\. Uten at det berører nr. 2, kan et varemerke nevnt i nr. 1 som det, i god tro, er inngitt søknad om, som er registrert eller som er innarbeidet gjennom bruk, dersom det er fastsatt i den nasjonale lovgivningen, på Unionens territorium før datoen for beskyttelse av den tradisjonelle betegnelsen i opprinnelseslandet, fortsatt brukes og fornyes uten hensyn til beskyttelsen av en tradisjonell betegnelse, forutsatt at det ikke er grunner til å kjenne varemerket ugyldig eller oppheve det i henhold til europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095)9, europaparlaments- og rådsdirektiv [(EU) 2015/2436](eu/32015l2436)10 eller i henhold til europaparlaments- eller rådsforordning [(EU) 2017/1001](eu/32017r1001)11.
 
-9 Europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) av 22. oktober 2008 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 299 av 8.11.2008, s. 25).10 Europaparlaments- og rådsdirektiv [(EU) 2015/2436](eu/32015l2436) av 16. desember 2015 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 336 av 23.12.2015, s. 1).11 Europaparlaments- og rådsforordning [(EU) 2017/1001](eu/32017r1001) av 14. juni 2017 om Den europeiske unions varemerke (EUT L 154 av 16.6.2017, s. 1).
+I slike tilfeller skal bruk av den tradisjonelle betegnelsen tillates parallelt med de aktuelle varemerkene.
+
+9 Europaparlaments- og rådsdirektiv [2008/95/EF](eu/32008l0095) av 22. oktober 2008 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 299 av 8.11.2008, s. 25).
+
+10 Europaparlaments- og rådsdirektiv [(EU) 2015/2436](eu/32015l2436) av 16. desember 2015 om tilnærming av medlemsstatenes lovgivning om varemerker (EUT L 336 av 23.12.2015, s. 1).
+
+11 Europaparlaments- og rådsforordning [(EU) 2017/1001](eu/32017r1001) av 14. juni 2017 om Den europeiske unions varemerke (EUT L 154 av 16.6.2017, s. 1).
 
 ###### Artikkel 33
 
 Homonyme betegnelser
 
-1\. En betegnelse som det er inngitt søknad om beskyttelse av, og som er helt eller delvis homonym med en tradisjonell betegnelse som allerede er beskyttet i samsvar med artikkel 113 i forordning (EU) nr. 1308/2013, skal registreres med behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.En homonym betegnelse som villeder forbrukeren med hensyn til vinproduktenes art, kvalitet eller virkelige opprinnelse, registreres ikke selv om betegnelsen er riktig.En registrert homonym betegnelse kan brukes bare dersom det er en klar forskjell i praksis mellom det homonymet som registreres sist, og den betegnelsen som allerede er registrert, idet det tas hensyn til behovet for å behandle de berørte produsentene likt og for ikke å villede forbrukerne.
+1\. En betegnelse som det er inngitt søknad om beskyttelse av, og som er helt eller delvis homonym med en tradisjonell betegnelse som allerede er beskyttet i samsvar med artikkel 113 i forordning (EU) nr. 1308/2013, skal registreres med behørig hensyn til lokal og tradisjonell bruk og risikoen for forveksling.
+
+En homonym betegnelse som villeder forbrukeren med hensyn til vinproduktenes art, kvalitet eller virkelige opprinnelse, registreres ikke selv om betegnelsen er riktig.
+
+En registrert homonym betegnelse kan brukes bare dersom det er en klar forskjell i praksis mellom det homonymet som registreres sist, og den betegnelsen som allerede er registrert, idet det tas hensyn til behovet for å behandle de berørte produsentene likt og for ikke å villede forbrukerne.
 
 2\. Nr. 1 gjelder tilsvarende med nødvendige endringer for tradisjonelle betegnelser som ble beskyttet før 1. august 2009, og som er helt eller delvis homonyme med en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse eller med navnet på en vindruesort eller et av dets synonymer oppført i vedlegg IV.
 
@@ -4885,13 +7076,21 @@ Artikkel 26–31 gjelder tilsvarende med nødvendige endringer på anmodninger o
 
 Grunner til annullering
 
-Beskyttelsen av en tradisjonell betegnelse skal annulleres dersomden tradisjonelle betegnelsen ikke lenger oppfyller kravene i artikkel 27, 32 eller 33,samsvaret med den tilsvarende definisjonen og de tilsvarende bruksvilkårene ikke lenger kan sikres.
+Beskyttelsen av en tradisjonell betegnelse skal annulleres dersom
+
+1. den tradisjonelle betegnelsen ikke lenger oppfyller kravene i artikkel 27, 32 eller 33,
+2. samsvaret med den tilsvarende definisjonen og de tilsvarende bruksvilkårene ikke lenger kan sikres.
 
 ###### Artikkel 37
 
 Godtakbarhet for en anmodning om annullering
 
-1\. En begrunnet anmodning om annullering kan godtas dersomden ble inngitt til Kommisjonen av en medlemsstat, et tredjeland eller en fysisk eller juridisk person som har en rettmessig interesse, ogden bygger på en av begrunnelsene nevnt i artikkel 36.Den behørig begrunnede anmodningen om annullering skal bare godtas dersom den viser den rettmessige interessen til søkeren.
+1\. En begrunnet anmodning om annullering kan godtas dersom
+
+1. den ble inngitt til Kommisjonen av en medlemsstat, et tredjeland eller en fysisk eller juridisk person som har en rettmessig interesse, og
+2. den bygger på en av begrunnelsene nevnt i artikkel 36.
+
+Den behørig begrunnede anmodningen om annullering skal bare godtas dersom den viser den rettmessige interessen til søkeren.
 
 2\. Dersom Kommisjonen anser at anmodningen om annullering ikke kan godtas, skal den informere myndigheten eller personen som sendte anmodningen, om årsakene til at anmodningen ikke kan godtas.
 
@@ -4969,9 +7168,23 @@ Uten at det berører toleransene fastsatt ved den benyttede referanseanalysemeto
 
 Angivelse av herkomst
 
-1\. Herkomsten som nevnt i artikkel 119 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal angis på følgende måte:For vinprodukter nevnt i del II nr. 1, 3–9, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, med uttrykkene *«vin fra (...)»*, *«framstilt i (...)»*, *«produkt fra (...)»* eller *«sekt fra (...)»* eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten eller det tredjelandet der druene er høstet og bearbeidet til vin.Uttrykket *«vin fra Den europeiske union»* eller *«blanding av viner fra forskjellige land i Den europeiske union»* eller tilsvarende uttrykk når det gjelder vin som er et resultat av en blanding av viner med opprinnelse i flere medlemsstater.Uttrykket *«vin fra Den europeiske union»* eller *«vin framstilt i (...) av druer høstet i (...)»* etterfulgt av navnene på de berørte medlemsstatene, for viner framstilt i en medlemsstat av druer høstet i en annen medlemsstat.Uttrykket *«blanding fra (...)»* eller tilsvarende uttrykk etterfulgt av navnene på de berørte tredjelandene, for vin som er et resultat av en blanding av viner med opprinnelse i flere tredjeland.Uttrykket *«vin framstilt i (...) av druer høstet i (...)»* etterfulgt av navnene på de berørte tredjelandene, for viner framstilt i et tredjeland av druer høstet i et annet tredjeland.Som unntak fra nr. 1 bokstav a) for vinprodukter nevnt i del II nr. 4, 5 og 6 i vedlegg VII til forordning (EU) nr. 1308/2013 som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, kan angivelsen nevnt i bokstav a) erstattes med *«framstilt i (...)»* eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten der annengangsgjæringen fant sted.Første og andre ledd berører ikke artikkel 46 og 55.
+1\. Herkomsten som nevnt i artikkel 119 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal angis på følgende måte:
 
-2\. Herkomsten som nevnt i artikkel 119 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308), for vinprodukter nevnt i del II nr. 2, 10, 11 og 13 i vedlegg VII til forordning (EU) nr. 1308/2013 skal angis på følgende måte:*«Most fra (...)»* eller *«most framstilt i (....)»* eller tilsvarende uttrykk etterfulgt av navnet på medlemsstaten.*«Blanding av produkter fra to eller flere land i Den europeiske union»* ved sammenstikning av vinprodukter framstilt i to eller flere medlemsstater.*«Most framstilt i (...) av druer høstet i (...)»* for druemost som ikke er framstilt i den medlemsstaten der druene er høstet.
+1. For vinprodukter nevnt i del II nr. 1, 3–9, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, med uttrykkene *«vin fra (...)»*, *«framstilt i (...)»*, *«produkt fra (...)»* eller *«sekt fra (...)»* eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten eller det tredjelandet der druene er høstet og bearbeidet til vin.
+2. Uttrykket *«vin fra Den europeiske union»* eller *«blanding av viner fra forskjellige land i Den europeiske union»* eller tilsvarende uttrykk når det gjelder vin som er et resultat av en blanding av viner med opprinnelse i flere medlemsstater.
+3. Uttrykket *«vin fra Den europeiske union»* eller *«vin framstilt i (...) av druer høstet i (...)»* etterfulgt av navnene på de berørte medlemsstatene, for viner framstilt i en medlemsstat av druer høstet i en annen medlemsstat.
+4. Uttrykket *«blanding fra (...)»* eller tilsvarende uttrykk etterfulgt av navnene på de berørte tredjelandene, for vin som er et resultat av en blanding av viner med opprinnelse i flere tredjeland.
+5. Uttrykket *«vin framstilt i (...) av druer høstet i (...)»* etterfulgt av navnene på de berørte tredjelandene, for viner framstilt i et tredjeland av druer høstet i et annet tredjeland.
+
+Som unntak fra nr. 1 bokstav a) for vinprodukter nevnt i del II nr. 4, 5 og 6 i vedlegg VII til forordning (EU) nr. 1308/2013 som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, kan angivelsen nevnt i bokstav a) erstattes med *«framstilt i (...)»* eller tilsvarende uttrykk etterfulgt av navnet på den medlemsstaten der annengangsgjæringen fant sted.
+
+Første og andre ledd berører ikke artikkel 46 og 55.
+
+2\. Herkomsten som nevnt i artikkel 119 nr. 1 bokstav d) i forordning [(EU) nr. 1308/2013](eu/32013r1308), for vinprodukter nevnt i del II nr. 2, 10, 11 og 13 i vedlegg VII til forordning (EU) nr. 1308/2013 skal angis på følgende måte:
+
+1. *«Most fra (...)»* eller *«most framstilt i (....)»* eller tilsvarende uttrykk etterfulgt av navnet på medlemsstaten.
+2. *«Blanding av produkter fra to eller flere land i Den europeiske union»* ved sammenstikning av vinprodukter framstilt i to eller flere medlemsstater.
+3. *«Most framstilt i (...) av druer høstet i (...)»* for druemost som ikke er framstilt i den medlemsstaten der druene er høstet.
 
 3\. For Det forente kongerike og bestemmelsene fastsatt i nr. 1 bokstav a) og c) og i nr. 2 bokstav a) og c) kan navnet på medlemsstaten erstattes med navnet på de relevante landsdelene som inngår i Det forente kongerike, der druene som brukes til å framstille vinproduktet, er høstet.
 
@@ -4979,17 +7192,49 @@ Angivelse av herkomst
 
 Angivelse av tapper, produsent, importør og selger
 
-1\. I artikkel 119 nr. 1 bokstav e) og f) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og i denne artikkelen menes med*«tapper»* en fysisk eller juridisk person eller en gruppe av slike personer etablert i Den europeiske union, som tapper eller får tapping utført på sine vegne,*«tapping»* å fylle det aktuelle produktet i beholdere som rommer høyst 60 liter, for senere salg,*«produsent»* en fysisk eller juridisk person, eller en gruppe av slike personer, som bearbeider eller får bearbeidet druer eller druemost til vin, eller druemost eller vin til musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,*«importør»* en fysisk eller juridisk person eller en gruppe av slike personer, som er etablert i Unionen, og som har ansvar for at ikke-EU-varer som definert artikkel 5 nr. 24 i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952) bringes i omsetning12,*«selger»* en fysisk eller juridisk person eller en gruppe av slike personer, som ikke omfattes av definisjonen av produsent, som kjøper og deretter bringer i omsetning musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,*«adresse»* angivelse av kommunen og den medlemsstaten eller det tredjelandet der tapperens, produsentens, selgerens eller importørens lokaler eller hovedkontor ligger.
+1\. I artikkel 119 nr. 1 bokstav e) og f) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og i denne artikkelen menes med
 
-2\. Utover tapperens navn og adresse angis entenuttrykket *«tapper»* eller *«tappet av (...)»* som kan etterfølges av uttrykk som viser til produsentens driftsenhet, elleruttrykk hvis bruksvilkår er fastsatt av medlemsstatene, når tapping av vinprodukter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse finner stedpå produsents driftsenhet, elleri en produsentgruppes lokaler, elleri et foretak som ligger i det avgrensede geografiske området eller i umiddelbar nærhet av det berørte avgrensede geografiske området.Ved kontraktsbestemt tapping skal angivelsen av tapperen utfylles med uttrykket *«tappet for (...)»* eller, dersom navnet og adressen til den som har utført tappingen på vegne av en tredjepart angis, med uttrykket *«tappet for (...) av (...)»*.Dersom tappingen finner sted på et annet sted enn hos tapperen, skal opplysningene omhandlet i dette nummer følges av en henvisning nøyaktig til det stedet der tappingen fant sted, og dersom den fant sted i en annen medlemsstat, navnet på den staten. Disse kravene gjelder ikke når tappingen skjer på et sted i umiddelbar nærhet av tapperen.Dersom det dreier seg om andre beholdere enn flasker, skal uttrykket *«emballeringsbedrift»* og *«emballert av (...)»* erstatte *«tapper»* og *«tappet av (...)»*, med mindre det ikke skilles mellom disse uttrykkene på det aktuelle språket.
+1. *«tapper»* en fysisk eller juridisk person eller en gruppe av slike personer etablert i Den europeiske union, som tapper eller får tapping utført på sine vegne,
+2. *«tapping»* å fylle det aktuelle produktet i beholdere som rommer høyst 60 liter, for senere salg,
+3. *«produsent»* en fysisk eller juridisk person, eller en gruppe av slike personer, som bearbeider eller får bearbeidet druer eller druemost til vin, eller druemost eller vin til musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,
+4. *«importør»* en fysisk eller juridisk person eller en gruppe av slike personer, som er etablert i Unionen, og som har ansvar for at ikke-EU-varer som definert artikkel 5 nr. 24 i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952) bringes i omsetning12,
+5. *«selger»* en fysisk eller juridisk person eller en gruppe av slike personer, som ikke omfattes av definisjonen av produsent, som kjøper og deretter bringer i omsetning musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type,
+6. *«adresse»* angivelse av kommunen og den medlemsstaten eller det tredjelandet der tapperens, produsentens, selgerens eller importørens lokaler eller hovedkontor ligger.
 
-3\. Produsentens og selgerens navn og adresse skal utfylles med uttrykket *«produsent»* eller *«produsert av»* og *«selger»* eller *«solgt av»*, eller tilsvarende uttrykk.Medlemsstatene kan beslutte ågjøre det obligatorisk å identifisere produsenten,å tillatte at uttrykkene *«produsent»* eller *«produsert av»* erstattes av uttrykkene oppført i vedlegg II.
+2\. Utover tapperens navn og adresse angis enten
+
+1. uttrykket *«tapper»* eller *«tappet av (...)»* som kan etterfølges av uttrykk som viser til produsentens driftsenhet, eller
+2. uttrykk hvis bruksvilkår er fastsatt av medlemsstatene, når tapping av vinprodukter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse finner sted
+
+   1. på produsents driftsenhet, eller
+   2. i en produsentgruppes lokaler, eller
+   3. i et foretak som ligger i det avgrensede geografiske området eller i umiddelbar nærhet av det berørte avgrensede geografiske området.
+
+Ved kontraktsbestemt tapping skal angivelsen av tapperen utfylles med uttrykket *«tappet for (...)»* eller, dersom navnet og adressen til den som har utført tappingen på vegne av en tredjepart angis, med uttrykket *«tappet for (...) av (...)»*.
+
+Dersom tappingen finner sted på et annet sted enn hos tapperen, skal opplysningene omhandlet i dette nummer følges av en henvisning nøyaktig til det stedet der tappingen fant sted, og dersom den fant sted i en annen medlemsstat, navnet på den staten. Disse kravene gjelder ikke når tappingen skjer på et sted i umiddelbar nærhet av tapperen.
+
+Dersom det dreier seg om andre beholdere enn flasker, skal uttrykket *«emballeringsbedrift»* og *«emballert av (...)»* erstatte *«tapper»* og *«tappet av (...)»*, med mindre det ikke skilles mellom disse uttrykkene på det aktuelle språket.
+
+3\. Produsentens og selgerens navn og adresse skal utfylles med uttrykket *«produsent»* eller *«produsert av»* og *«selger»* eller *«solgt av»*, eller tilsvarende uttrykk.
+
+Medlemsstatene kan beslutte å
+
+1. gjøre det obligatorisk å identifisere produsenten,
+2. å tillatte at uttrykkene *«produsent»* eller *«produsert av»* erstattes av uttrykkene oppført i vedlegg II.
 
 4\. Uttrykket *«importør»* eller *«importert av (...)»* skal stå foran importørens navn og adresse. For vinprodukter som importeres i bulk og tappes i Unionen, kan navnet på importøren erstattes med eller etterfølges av angivelse av tapperen i samsvar med nr. 2.
 
-5\. Angivelsene nevnt i nr. 2, 3 og 4 kan oppføres samlet dersom de gjelder samme fysiske og juridiske person.Én av disse angivelsene kan erstattes med en kode som fastsettes av medlemsstaten der tapperen, produsenten, importøren eller selgeren har sitt hovedkontor. Koden skal utfylles med en henvisning til den berørte medlemsstaten. Navnet og adressen til en annen fysisk eller juridisk person enn tapperen, produsenten, importøren eller selgeren som er angitt med en kode, og som har deltatt i den kommersielle distribusjonen, skal også angis på det aktuelle produktets etikett.
+5\. Angivelsene nevnt i nr. 2, 3 og 4 kan oppføres samlet dersom de gjelder samme fysiske og juridiske person.
 
-6\. Dersom tapperens, produsentens, importørens eller selgerens navn eller adresse består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal navnet og adressen angis på etikettenmed skrifttegn som ikke er mer enn halvparten så store som dem som brukes til den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen eller til angivelse av den berørte kategorien av vinprodukt, ellerved hjelp av en kode i samsvar med nr. 5 andre ledd.Medlemsstatene kan velge hvilken løsning som skal benyttes på vinprodukter framstilt på deres territorium.
+Én av disse angivelsene kan erstattes med en kode som fastsettes av medlemsstaten der tapperen, produsenten, importøren eller selgeren har sitt hovedkontor. Koden skal utfylles med en henvisning til den berørte medlemsstaten. Navnet og adressen til en annen fysisk eller juridisk person enn tapperen, produsenten, importøren eller selgeren som er angitt med en kode, og som har deltatt i den kommersielle distribusjonen, skal også angis på det aktuelle produktets etikett.
+
+6\. Dersom tapperens, produsentens, importørens eller selgerens navn eller adresse består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal navnet og adressen angis på etiketten
+
+1. med skrifttegn som ikke er mer enn halvparten så store som dem som brukes til den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen eller til angivelse av den berørte kategorien av vinprodukt, eller
+2. ved hjelp av en kode i samsvar med nr. 5 andre ledd.
+
+Medlemsstatene kan velge hvilken løsning som skal benyttes på vinprodukter framstilt på deres territorium.
 
 12 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).
 
@@ -5020,7 +7265,10 @@ Frivillige opplysninger
 
 Årgang
 
-1\. Årgangen nevnt i artikkel 120 nr. 1 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan angis på etiketten til vinproduktene nevnt i del II nr. 1–11, 13, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, forutsatt at minst 85 % av druene som er brukt til å framstille produktene, er høstet i det aktuelle året. Dette omfatter ikkeden mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», ellerden mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.
+1\. Årgangen nevnt i artikkel 120 nr. 1 bokstav a) i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan angis på etiketten til vinproduktene nevnt i del II nr. 1–11, 13, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, forutsatt at minst 85 % av druene som er brukt til å framstille produktene, er høstet i det aktuelle året. Dette omfatter ikke
+
+1. den mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», eller
+2. den mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.
 
 2\. Ved anvendelse av nr. 1 skal vinprodukter som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, men som har en angivelse av årgang på etiketten, sertifiseres i samsvar med artikkel 12 i kommisjonens gjennomføringsforordning (EU) 2018/27413.
 
@@ -5032,11 +7280,36 @@ Frivillige opplysninger
 
 Navn på vindruesorter
 
-1\. Navnene på vindruesortene eller deres synonymer nevnt i artikkel 120 nr. 1 bokstav b) i forordning [(EU) nr. 1308/2013](eu/32013r1308) som brukes til framstilling av vinprodukter nevnt i del II nr. 1–11, 13, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, kan angis på etikettene til disse produktene på vilkårene fastsatt i bokstav a) og b), dersom de er framstilt i Union, eller på vilkårene fastsatt i bokstav a) og c), dersom de er framstilt i tredjeland.Navnene på vindruesorter eller deres synonymer kan angis på følgende vilkår:Dersom bare én vindruesort eller dens synonym er angitt, skal minst 85 % av de berørte produktene være framstilt av den druesorten, utenomden mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», ellerden mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.Dersom navnet på to eller flere vindruesorter eller deres synonymer er angitt, skal 100 % av de aktuelle produktene være framstilt av disse sortene, utenomden mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», ellerden mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.Vindruesortene skal angis på etiketten i fallende rekkefølge etter den andelen de utgjør av produktet, og med skrifttegn i samme størrelse.For vinprodukter framstilt i Unionen skal navnene på vindruesortene eller deres synonymer være dem som er angitt i klassifiseringen av vindruesorter nevnt i artikkel 81 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).For medlemsstater som er unntatt fra kravet om klassifisering i artikkel 81 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal navnene på vindruesortene eller deres synonymer angis i Den internasjonale vinorganisasjons (OIV) internasjonale liste over vinstokksorter og deres synonymer.For vinprodukter med opprinnelse i tredjeland skal bruksvilkårene for navnene på vindruesorter eller deres synonymer være i samsvar med de reglene som gjelder for vinprodusenter i det berørte tredjelandet, inkludert representative bransjeorganisasjoners regler, og navnene på vindruesorter eller deres synonymer som er nevnt på minst én av følgende organisasjoners lister:Den internasjonale vinorganisasjon.Den internasjonale union for vern av nye plantesorter.Det internasjonale råd for plantegenetiske ressurser.
+1\. Navnene på vindruesortene eller deres synonymer nevnt i artikkel 120 nr. 1 bokstav b) i forordning [(EU) nr. 1308/2013](eu/32013r1308) som brukes til framstilling av vinprodukter nevnt i del II nr. 1–11, 13, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013, kan angis på etikettene til disse produktene på vilkårene fastsatt i bokstav a) og b), dersom de er framstilt i Union, eller på vilkårene fastsatt i bokstav a) og c), dersom de er framstilt i tredjeland.
 
-2\. Ved anvendelse av nr. 1 skal et vinprodukt som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, men som har en angivelse av vindruesort på etiketten, sertifiseres i samsvar med artikkel 12 i gjennomføringsforordning (EU) 2018/274.Når det gjelder musserende vin og musserende kvalitetsvin, kan de navnene på vindruesorter som brukes for å utfylle beskrivelsen av produktet, dvs. «pinot blanc», «pinot noir», «pinot meunier» eller «pinot gris» og tilsvarende navn på andre EU-språk, erstattes med synonymet «pinot».
+1. Navnene på vindruesorter eller deres synonymer kan angis på følgende vilkår:
 
-3\. Navnene på vindruesorter og deres synonymer som består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som kan vises på etiketten til et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra et tredjeland, er dem som er oppført i del A i vedlegg IV til denne forordningen.Del A i vedlegg IV kan endres av Kommisjonen bare for å ta hensyn til etablert merkingspraksis i nye medlemsstater etter tiltredelsen.
+   1. Dersom bare én vindruesort eller dens synonym er angitt, skal minst 85 % av de berørte produktene være framstilt av den druesorten, utenom
+
+      - den mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», eller
+      - den mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.
+   2. Dersom navnet på to eller flere vindruesorter eller deres synonymer er angitt, skal 100 % av de aktuelle produktene være framstilt av disse sortene, utenom
+
+      - den mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning», eller
+      - den mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.
+
+   Vindruesortene skal angis på etiketten i fallende rekkefølge etter den andelen de utgjør av produktet, og med skrifttegn i samme størrelse.
+2. For vinprodukter framstilt i Unionen skal navnene på vindruesortene eller deres synonymer være dem som er angitt i klassifiseringen av vindruesorter nevnt i artikkel 81 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+
+   For medlemsstater som er unntatt fra kravet om klassifisering i artikkel 81 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal navnene på vindruesortene eller deres synonymer angis i Den internasjonale vinorganisasjons (OIV) internasjonale liste over vinstokksorter og deres synonymer.
+3. For vinprodukter med opprinnelse i tredjeland skal bruksvilkårene for navnene på vindruesorter eller deres synonymer være i samsvar med de reglene som gjelder for vinprodusenter i det berørte tredjelandet, inkludert representative bransjeorganisasjoners regler, og navnene på vindruesorter eller deres synonymer som er nevnt på minst én av følgende organisasjoners lister:
+
+   1. Den internasjonale vinorganisasjon.
+   2. Den internasjonale union for vern av nye plantesorter.
+   3. Det internasjonale råd for plantegenetiske ressurser.
+
+2\. Ved anvendelse av nr. 1 skal et vinprodukt som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, men som har en angivelse av vindruesort på etiketten, sertifiseres i samsvar med artikkel 12 i gjennomføringsforordning (EU) 2018/274.
+
+Når det gjelder musserende vin og musserende kvalitetsvin, kan de navnene på vindruesorter som brukes for å utfylle beskrivelsen av produktet, dvs. «pinot blanc», «pinot noir», «pinot meunier» eller «pinot gris» og tilsvarende navn på andre EU-språk, erstattes med synonymet «pinot».
+
+3\. Navnene på vindruesorter og deres synonymer som består av eller inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som kan vises på etiketten til et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra et tredjeland, er dem som er oppført i del A i vedlegg IV til denne forordningen.
+
+Del A i vedlegg IV kan endres av Kommisjonen bare for å ta hensyn til etablert merkingspraksis i nye medlemsstater etter tiltredelsen.
 
 4\. De navnene på vindruesorter og deres synonymer som er oppført i del B i vedlegg IV til denne forordningen, som delvis inneholder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, og som direkte viser til det geografiske elementet i den aktuelle beskyttede opprinnelsesbetegnelsen eller beskyttede geografiske betegnelsen, kan bare angis på etiketten til et produkt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra et tredjeland.
 
@@ -5044,7 +7317,10 @@ Navn på vindruesorter
 
 Særlige regler for angivelse av vindruesorter på vinprodukter uten beskyttet opprinnelsesbetegnelse eller uten beskyttet geografisk betegnelse
 
-For vinprodukter nevnt i del II nr. 1–9 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013 som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, kan medlemsstatene, forutsatt av vilkårene i artikkel 120 nr. 2 i den forordningen er oppfylt, beslutte å bruke uttrykket «sortsvin» etterfulgt av en eller begge av følgende opplysninger:Navnet på den eller de berørte medlemsstatene.Navnet på vindruesorten(e).
+For vinprodukter nevnt i del II nr. 1–9 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013 som ikke har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, kan medlemsstatene, forutsatt av vilkårene i artikkel 120 nr. 2 i den forordningen er oppfylt, beslutte å bruke uttrykket «sortsvin» etterfulgt av en eller begge av følgende opplysninger:
+
+1. Navnet på den eller de berørte medlemsstatene.
+2. Navnet på vindruesorten(e).
 
 For vinprodukter nevnt i nr. 1 som ikke har en beskyttet opprinnelsesbetegnelse, en beskyttet geografisk betegnelse eller en geografisk betegnelse fra et tredjeland, og som har etiketter der navnet på en eller flere vindruesorter er angitt, kan tredjelandene beslutte å bruke uttrykket «sortsvin» etterfulgt av navnet på den eller de berørte tredjelandene.
 
@@ -5070,13 +7346,36 @@ Uttrykk som viser til visse produksjonsmetoder
 
 1\. I samsvar med artikkel 120 nr. 1 bokstav f) i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan vinprodukter som nevnt i del II nr. 1–11, 13, 15 og 16 i vedlegg VII til forordning (EU) nr. 1308/2013 merkes med angivelser som viser til visse produksjonsmetoder. Disse angivelsene kan omfatte produksjonsmetodene nevnt i denne artikkelen.
 
-2\. Bare de uttrykkene som brukes til å vise til visse produksjonsmetoder som er oppført i vedlegg V, skal brukes til å beskrive et vinprodukt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra et tredjeland, som har gjæret, er modnet eller lagret i en trebeholder. Medlemsstatene eller tredjelandene kan imidlertid fastsette andre angivelser som tilsvarer dem som er fastsatt i vedlegg V, for slike vinprodukter.Det er tillatt å bruke én av angivelsene nevnt i første ledd dersom vinproduktet er lagret i en trebeholder i samsvar med gjeldende nasjonale regler, selv om lagringen fortsetter i en annen type beholder.Angivelsene nevnt i første ledd kan ikke brukes til å beskrive et vinprodukt som er framstilt ved hjelp av eikespon, selv om det har skjedd i forbindelse med bruk av trebeholdere.
+2\. Bare de uttrykkene som brukes til å vise til visse produksjonsmetoder som er oppført i vedlegg V, skal brukes til å beskrive et vinprodukt med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse eller med geografisk betegnelse fra et tredjeland, som har gjæret, er modnet eller lagret i en trebeholder. Medlemsstatene eller tredjelandene kan imidlertid fastsette andre angivelser som tilsvarer dem som er fastsatt i vedlegg V, for slike vinprodukter.
 
-3\. Uttrykket «flaskegjæret» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra et tredjeland, eller musserende kvalitetsviner, dersomproduktet ble gjort musserende ved hjelp av en annengangsgjæring på flaske,produksjonsprosessens lengde, herunder modning i produksjonsforetaket, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinblandingen musserende, ikke har vart under ni måneder,gjæringsprosessen som skal gjøre vinblandingen musserende, og tilstedeværelsen av vinblandingen på gjærbunnfallet har vart i minst 90 dager,produktet ble skilt fra gjærbunnfallet ved filtrering etter omstikkingsmetoden eller ved tømming.
+Det er tillatt å bruke én av angivelsene nevnt i første ledd dersom vinproduktet er lagret i en trebeholder i samsvar med gjeldende nasjonale regler, selv om lagringen fortsetter i en annen type beholder.
 
-4\. Uttrykkene «flaskegjæret etter tradisjonell metode», «tradisjonell metode», «klassisk metode» eller «klassisk tradisjonell metode» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra et tredjeland, eller musserende viner dersom produktetble gjort musserende ved hjelp av en annengangsgjæring på flaske,uten avbrudd var i kontakt med gjærbunnfallet i minst ni måneder i samme produksjonsforetak, regnet fra det tidspunktet vinblandingen ble satt sammen,ble skilt fra gjærbunnfallet ved tømming.
+Angivelsene nevnt i første ledd kan ikke brukes til å beskrive et vinprodukt som er framstilt ved hjelp av eikespon, selv om det har skjedd i forbindelse med bruk av trebeholdere.
 
-5\. Uttrykket «crémant» kan brukes bare om hvite musserende kvalitetsviner eller musserende kvalitetsviner av typen «rosé» med beskyttet opprinnelsesbetegnelse eller med geografisk betegnelse fra et tredjeland, dersomdruene er høstet for hånd,vinen er laget av most framstilt ved å presse hele eller avstilkede druer. Mengden most skal ikke overstige 100 liter per 150 kg druer,det høyeste innholdet av svoveldioksid overstiger ikke 150 mg/l,sukkerinnholdet er på under 50 g/l,vinen oppfyller kravene i nr. 4.Uttrykket «crémant», med mindre annet er fastsatt i artikkel 55, er angitt på etiketten for musserende kvalitetsviner sammen med navnet på den geografiske enheten som ligger til grunn for det avgrensede området som den beskyttede opprinnelsesbetegnelsen eller den geografiske betegnelsen fra et berørt tredjeland gjelder.Første ledd bokstav a) og andre ledd får ikke anvendelse på produsenter som eier varemerker som inneholder uttrykket «crémant», og som er registrert før 1. mars 1986.
+3\. Uttrykket «flaskegjæret» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra et tredjeland, eller musserende kvalitetsviner, dersom
+
+1. produktet ble gjort musserende ved hjelp av en annengangsgjæring på flaske,
+2. produksjonsprosessens lengde, herunder modning i produksjonsforetaket, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinblandingen musserende, ikke har vart under ni måneder,
+3. gjæringsprosessen som skal gjøre vinblandingen musserende, og tilstedeværelsen av vinblandingen på gjærbunnfallet har vart i minst 90 dager,
+4. produktet ble skilt fra gjærbunnfallet ved filtrering etter omstikkingsmetoden eller ved tømming.
+
+4\. Uttrykkene «flaskegjæret etter tradisjonell metode», «tradisjonell metode», «klassisk metode» eller «klassisk tradisjonell metode» kan brukes bare til å beskrive musserende viner med beskyttet opprinnelsesbetegnelse eller med beskyttet geografisk betegnelse fra et tredjeland, eller musserende viner dersom produktet
+
+1. ble gjort musserende ved hjelp av en annengangsgjæring på flaske,
+2. uten avbrudd var i kontakt med gjærbunnfallet i minst ni måneder i samme produksjonsforetak, regnet fra det tidspunktet vinblandingen ble satt sammen,
+3. ble skilt fra gjærbunnfallet ved tømming.
+
+5\. Uttrykket «crémant» kan brukes bare om hvite musserende kvalitetsviner eller musserende kvalitetsviner av typen «rosé» med beskyttet opprinnelsesbetegnelse eller med geografisk betegnelse fra et tredjeland, dersom
+
+1. druene er høstet for hånd,
+2. vinen er laget av most framstilt ved å presse hele eller avstilkede druer. Mengden most skal ikke overstige 100 liter per 150 kg druer,
+3. det høyeste innholdet av svoveldioksid overstiger ikke 150 mg/l,
+4. sukkerinnholdet er på under 50 g/l,
+5. vinen oppfyller kravene i nr. 4.
+
+Uttrykket «crémant», med mindre annet er fastsatt i artikkel 55, er angitt på etiketten for musserende kvalitetsviner sammen med navnet på den geografiske enheten som ligger til grunn for det avgrensede området som den beskyttede opprinnelsesbetegnelsen eller den geografiske betegnelsen fra et berørt tredjeland gjelder.
+
+Første ledd bokstav a) og andre ledd får ikke anvendelse på produsenter som eier varemerker som inneholder uttrykket «crémant», og som er registrert før 1. mars 1986.
 
 6\. Henvisninger til økologisk produksjon av druer er underlagt rådsforordning [(EF) nr. 834/2007](eu/32007r0834)14.
 
@@ -5086,7 +7385,9 @@ Uttrykk som viser til visse produksjonsmetoder
 
 Angivelse av driftsenheten
 
-1\. De uttrykkene som viser til en driftsenhet i vedlegg VI, unntatt navnet på tapperen, produsenten eller selgeren, skal være forbeholdt vinprodukter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.Disse uttrykkene skal bare brukes dersom vinproduktet utelukkende er framstilt av druer høstet på vingårder som drives av denne driftsenheten, og hele vinframstillingen skjer på denne driftsenheten.
+1\. De uttrykkene som viser til en driftsenhet i vedlegg VI, unntatt navnet på tapperen, produsenten eller selgeren, skal være forbeholdt vinprodukter med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
+
+Disse uttrykkene skal bare brukes dersom vinproduktet utelukkende er framstilt av druer høstet på vingårder som drives av denne driftsenheten, og hele vinframstillingen skjer på denne driftsenheten.
 
 2\. Medlemsstatene skal regulere bruken av sine respektive uttrykk oppført i vedlegg VI. Tredjeland skal fastsette regler for bruk av sine respektive uttrykk oppført i vedlegg VI, inkludert representative bransjeorganisasjoners regler.
 
@@ -5098,9 +7399,24 @@ Henvisning til navn på geografiske enheter som er mindre eller større enn det 
 
 1\. I samsvar med artikkel 120 nr. 1 bokstav g) i forordning [(EU) nr. 1308/2013](eu/32013r1308) og uten at det berører artikkel 45 og 46, kan bare et vinprodukt med beskyttet opprinnelsesbetegnelse, beskyttet geografisk betegnelse eller beskyttet geografisk betegnelse fra et tredjeland ha en etikett med henvisning til navnet på en geografisk enhet som er mindre eller større enn området med denne opprinnelsesbetegnelsen eller denne geografiske betegnelsen.
 
-2\. Dersom det vises til navn på geografiske enheter som er mindre enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, skal området for den aktuelle geografiske enheten være nøye definert av søkeren i produktspesifikasjonen og enhetsdokumentet. Medlemsstatene kan fastsette regler for bruk av disse geografiske enhetene.For vinprodukter som er produsert i en mindre geografisk enhet, gjelder følgende:Minst 85 % av de druene som vinproduktet er framstilt av, skal komme fra den mindre geografiske enheten. Dette omfatter ikkeden mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning»,den mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.De resterende druene som brukes til framstillingen, skal komme fra det avgrensede geografiske området for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen.Medlemsstatene kan, når det dreier seg om registrerte varemerker eller varemerker som er innarbeidet gjennom bruk før 11. mai 2002, som inneholder eller består av et navn på en geografisk enhet som er mindre enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, og henvisninger til et geografisk område i de berørte medlemsstatene, beslutte ikke å anvende kravene i andre ledd bokstav a) og b).
+2\. Dersom det vises til navn på geografiske enheter som er mindre enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, skal området for den aktuelle geografiske enheten være nøye definert av søkeren i produktspesifikasjonen og enhetsdokumentet. Medlemsstatene kan fastsette regler for bruk av disse geografiske enhetene.
 
-3\. Navnet på en geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, eller henvisninger til et geografisk område, skal vise tilet sted eller en gruppe av steder,en kommune eller en del av en kommune,et underområde av et vindyrkingsområde eller en del av et slikt underområde,et administrasjonsområde.
+For vinprodukter som er produsert i en mindre geografisk enhet, gjelder følgende:
+
+1. Minst 85 % av de druene som vinproduktet er framstilt av, skal komme fra den mindre geografiske enheten. Dette omfatter ikke
+
+   1. den mengden vinprodukter som eventuelt er brukt til søtning, «etterfyllingsvæske for søtningsgrad» eller «sukker- og gjærløsning»,
+   2. den mengden vinprodukter som er nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013.
+2. De resterende druene som brukes til framstillingen, skal komme fra det avgrensede geografiske området for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen.
+
+Medlemsstatene kan, når det dreier seg om registrerte varemerker eller varemerker som er innarbeidet gjennom bruk før 11. mai 2002, som inneholder eller består av et navn på en geografisk enhet som er mindre enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, og henvisninger til et geografisk område i de berørte medlemsstatene, beslutte ikke å anvende kravene i andre ledd bokstav a) og b).
+
+3\. Navnet på en geografisk enhet som er mindre eller større enn det området som ligger til grunn for opprinnelsesbetegnelsen eller den geografiske betegnelsen, eller henvisninger til et geografisk område, skal vise til
+
+1. et sted eller en gruppe av steder,
+2. en kommune eller en del av en kommune,
+3. et underområde av et vindyrkingsområde eller en del av et slikt underområde,
+4. et administrasjonsområde.
 
 ### AVSNITT 3
 Regler for visse særlige flaskeformer og lukkemekanismer
@@ -5109,7 +7425,10 @@ Regler for visse særlige flaskeformer og lukkemekanismer
 
 Vilkår for bruk av særlige flaskeformer
 
-For at en flasketype skal kunne oppføres på listen over særlige flasketyper i vedlegg VII skal den oppfylle følgende krav:Den skal i 25 år utelukkende, reelt og tradisjonelt ha blitt brukt til et vinprodukt med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.Bruken av den skal få forbrukerne til å forbinde den med et vinprodukt med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
+For at en flasketype skal kunne oppføres på listen over særlige flasketyper i vedlegg VII skal den oppfylle følgende krav:
+
+1. Den skal i 25 år utelukkende, reelt og tradisjonelt ha blitt brukt til et vinprodukt med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
+2. Bruken av den skal få forbrukerne til å forbinde den med et vinprodukt med en bestemt beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
 
 Vedlegg VII inneholder vilkårene for å bruke anerkjente særlige flasketyper.
 
@@ -5117,7 +7436,12 @@ Vedlegg VII inneholder vilkårene for å bruke anerkjente særlige flasketyper.
 
 Regler for presentasjon av visse vinprodukter
 
-1\. Musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type produsert i Unionen skal markedsføres eller eksporteres i glassflasker av typen «musserende vin» lukket på følgende måte:For flasker med et nominelt volum på over 0,20 liter: en soppformet kork laget av kork eller annet materiale som tillates å komme i kontakt med næringsmidler, holdt på plass av et feste, om nødvendig dekket av en kapsel og kledd med folie som fullstendig dekker korken og hele eller deler av flaskehalsen.For flasker med et nominelt volum på høyst 0,20 liter: en annen egnet lukkemekanisme.Andre drikker som er produsert i Unionen, skal ikke markedsføres eller eksporteres verken i glassflasker av typen «musserende vin» eller med lukkemekanismen beskrevet i første ledd bokstav a).
+1\. Musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type produsert i Unionen skal markedsføres eller eksporteres i glassflasker av typen «musserende vin» lukket på følgende måte:
+
+1. For flasker med et nominelt volum på over 0,20 liter: en soppformet kork laget av kork eller annet materiale som tillates å komme i kontakt med næringsmidler, holdt på plass av et feste, om nødvendig dekket av en kapsel og kledd med folie som fullstendig dekker korken og hele eller deler av flaskehalsen.
+2. For flasker med et nominelt volum på høyst 0,20 liter: en annen egnet lukkemekanisme.
+
+Andre drikker som er produsert i Unionen, skal ikke markedsføres eller eksporteres verken i glassflasker av typen «musserende vin» eller med lukkemekanismen beskrevet i første ledd bokstav a).
 
 2\. Som unntak fra nr. 1 andre ledd kan medlemsstatene beslutte at andre drikker kan markedsføres eller eksporteres i glassflasker av typen «musserende vin» og/eller med lukkemekanismen beskrevet i nr. 1 første ledd bokstav a), eller begge, forutsatt at de tradisjonelt tappes på slike flasker, og forutsatt at de ikke villeder forbrukerne med hensyn til drikkens faktiske art.
 
@@ -5156,11 +7480,22 @@ Forordning [(EF) nr. 607/2009](eu/32009r0607) oppheves.
 
 5\. Nr. 1, 2 og 3 gjelder tilsvarende med nødvendige endringer for prosedyrene for tradisjonelle betegnelser for hvilke en søknad om beskyttelse eller en anmodning om annullering er under behandling på den datoen denne forordningen får anvendelse.
 
-6\. Artikkel 20 og 72 i forordning (EF) nr. 607/2009 om endringer av produktspesifikasjonen og midlertidig merking skal fortsatt gjelde for både søknader om endring av en produktspesifikasjon som allerede er offentliggjort i Den *europeiske unions tidende* på den datoen denne forordningen får anvendelse, og for søknader om mindre endringer eller vesentlige endringer som anses av medlemsstatene å ha oppfylt kravene til en endring på unionsplan.Når det gjelder søknader om endring som er under behandling, og som ikke omfattes av første ledd, skal medlemsstatenes beslutninger om å framlegge slike endringer for Kommisjonen anses som en godkjenning av en standardendring i samsvar med artikkel 17 nr. 2 i denne forordningen.Medlemsstatene skal oversende listen over endringene som er under behandling, til Kommisjonen via e-post innen tre måneder etter den datoen denne forordningen får anvendelse. Denne listen skal deles inn i følgende to grupper:Endringer som anses å oppfylle kravene til en endring på unionsplan.Endringer som anses å oppfylle kravene til en standardendring.Kommisjonen skal offentliggjøre listen over standardendringer per medlemsstat i C-serien av *Den europeiske unions tidende* innen tre måneder etter at den har mottatt hver medlemsstats fullstendige liste, og den skal offentliggjøre søknadene og enhetsdokumentene knyttet til disse standardendringene.
+6\. Artikkel 20 og 72 i forordning (EF) nr. 607/2009 om endringer av produktspesifikasjonen og midlertidig merking skal fortsatt gjelde for både søknader om endring av en produktspesifikasjon som allerede er offentliggjort i Den *europeiske unions tidende* på den datoen denne forordningen får anvendelse, og for søknader om mindre endringer eller vesentlige endringer som anses av medlemsstatene å ha oppfylt kravene til en endring på unionsplan.
+
+Når det gjelder søknader om endring som er under behandling, og som ikke omfattes av første ledd, skal medlemsstatenes beslutninger om å framlegge slike endringer for Kommisjonen anses som en godkjenning av en standardendring i samsvar med artikkel 17 nr. 2 i denne forordningen.
+
+Medlemsstatene skal oversende listen over endringene som er under behandling, til Kommisjonen via e-post innen tre måneder etter den datoen denne forordningen får anvendelse. Denne listen skal deles inn i følgende to grupper:
+
+1. Endringer som anses å oppfylle kravene til en endring på unionsplan.
+2. Endringer som anses å oppfylle kravene til en standardendring.
+
+Kommisjonen skal offentliggjøre listen over standardendringer per medlemsstat i C-serien av *Den europeiske unions tidende* innen tre måneder etter at den har mottatt hver medlemsstats fullstendige liste, og den skal offentliggjøre søknadene og enhetsdokumentene knyttet til disse standardendringene.
 
 7\. Bestemmelsene i forordning [(EF) nr. 607/2009](eu/32009r0607) skal fortsatt gjelde for søknader om endring av en tradisjonell betegnelse som er under behandling på den datoen denne forordningen får anvendelse.
 
-8\. Endringer av en produktspesifikasjon som er framlagt for vedkommende myndigheter i en medlemsstat 1. august 2009 eller senere, og som er videresendt av disse myndighetene til Kommisjonen før 30. juni 2014, i samsvar med artikkel 73 nr. 2 i forordning [(EF) nr. 607/2009](eu/32009r0607), anses som godkjente dersom de ifølge Kommisjonen fører til at produktspesifikasjonen er brakt i samsvar med artikkel 118c i forordning (EF) nr. 1234/2007.Endringer som ifølge Kommisjonen ikke fører til at produktspesifikasjonen er brakt i samsvar med artikkel 118c i forordning (EF) nr. 1234/2007, skal anses som søknader om standardendringer og følge overgangsreglene i nr. 6 i denne artikkelen.
+8\. Endringer av en produktspesifikasjon som er framlagt for vedkommende myndigheter i en medlemsstat 1. august 2009 eller senere, og som er videresendt av disse myndighetene til Kommisjonen før 30. juni 2014, i samsvar med artikkel 73 nr. 2 i forordning [(EF) nr. 607/2009](eu/32009r0607), anses som godkjente dersom de ifølge Kommisjonen fører til at produktspesifikasjonen er brakt i samsvar med artikkel 118c i forordning (EF) nr. 1234/2007.
+
+Endringer som ifølge Kommisjonen ikke fører til at produktspesifikasjonen er brakt i samsvar med artikkel 118c i forordning (EF) nr. 1234/2007, skal anses som søknader om standardendringer og følge overgangsreglene i nr. 6 i denne artikkelen.
 
 9\. Vinprodukter som bringes i omsetning eller merkes i samsvar med forordning [(EF) nr. 607/2009](eu/32009r0607) kan markedsføres inntil de eksisterende lagrene er tømt.
 
@@ -5453,10 +7788,96 @@ Uttrykk nevnt i artikkel 54 nr. 1
 ### VEDLEGG VII
 Begrensninger i bruken av visse flasketyper som nevnt i artikkel 56
 
-1. «Flûte d'Alsace»:Type: en glassflaske som består av en rett, sylindrisk kropp med lang hals, og med tilnærmet følgende forhold:Total høyde/bunndiameter = 5:1.Høyde på den sylindriske flaskekroppen = total høyde/3.For viner som er framstilt av druer som er høstet på fransk territorium, er denne flasketypen forbeholdt viner med følgende beskyttede opprinnelsesbetegnelser:«Alsace» eller «vin d'Alsace», «Alsace Grand Cru».«Crépy».«Château-Grillet».«Côtes de Provence», rød og rosé.«Cassis».«Jurançon», «Jurançon sec».«Béarn», «Béarn-Bellocq», rosé.«Tavel», rosé.For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet på fransk territorium.
-2. «Bocksbeutel» eller «Cantil»:Type: en glassflaske med kort hals og tykkmaget, men avflatet kropp. Flaskens bunn og tverrsnitt på punktet der kroppen er mest konveks, er elliptisk.Forholdet mellom den lange og den korte aksen i det elliptiske tverrsnittet = tilnærmet 2:1.Forholdet mellom høyden på den konvekse flaskekroppen og den sylindriske flaskehalsen = tilnærmet 2,5:1.Viner som denne flasketypen er forbeholdt:Tyske viner med følgende beskyttede opprinnelsesbetegnelser:Franken.Baden:Med opprinnelse i Taubertal og Schüpfergrund.Med opprinnelse i følgende deler av kommunen Baden-Baden: Neuweier, Steinbach, Umweg og Varnhalt.Italienske viner med følgende beskyttede opprinnelsesbetegnelser:Santa Maddalena (St. Magdalener).Valle Isarco (Eisacktaler), framstilt av sortene Sylvaner og Müller-Thurgau.Terlaner, framstilt av sorten Pinot bianco.Bozner Leiten.Alto Adige (Südtiroler), framstilt av sortene Riesling, Müller-Thurgau, Pinot nero, Moscato giallo, Sylvaner, Lagrein, Pinot blanco (Weissburgunder) og Moscato rosa (Rosenmuskateller).Greco di Bianco.Trentino, framstilt av sorten Moscato.Greske viner:Agioritiko.Rombola Kephalonias.Viner med opprinnelse på øya Kefalonia.Viner med opprinnelse på øya Paros.Viner med beskyttet opprinnelsesbetegnelse fra Peloponnes.Portugisiske viner:Roséviner og andre viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse som det er påvist at ble korrekt og tradisjonelt presentert på flasker av typen «Cantil» allerede før de ble klassifisert som viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
-3. «Clavelin»:Type: en glassflaske med kort hals og et innhold på 0,62 liter, som består av en sylindrisk kropp med påsatte brede skuldre som gir flasken et firskåret utseende, og med tilnærmet følgende forhold:Total høyde/bunndiameter = 2,75.Høyde på den sylindriske delen = total høyde/2.Viner som denne flasketypen er forbeholdt:Franske viner med følgende beskyttede opprinnelsesbetegnelser:Côte du Jura.Arbois.L'Etoile.Château Chalon.
-4. «Tokaj»:Type: en rett, fargeløs glassflaske som består av en sylindrisk kropp med følgende forhold:Høyde på den sylindriske flaskekroppen/total høyde = 1:2,7.Total høyde/bunndiameter = 1:3,6.Volum: 500 ml, 375 ml, 250 ml, 100 ml eller 187,5 ml (ved eksport til et tredjeland).Et segl framstilt av samme materiale som flasken, som viser til vinområdet eller produsenten, kan plasseres på flasken.Viner som denne flasketypen er forbeholdt:Ungarske og slovakiske viner med følgende beskyttede opprinnelsesbetegnelser:Tokaj,Vinohradnícka oblasť Tokaj,etterfulgt av én av følgende beskyttede tradisjonelle betegnelser:Aszú/výber.Aszúeszencia/výberová esencia.Eszencia/esencia.Máslas/mášláš.Fordítás/forditáš.Szamorodni/samorodné.For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet på ungarsk eller slovakisk territorium.
+1. «Flûte d'Alsace»:
+
+   1. Type: en glassflaske som består av en rett, sylindrisk kropp med lang hals, og med tilnærmet følgende forhold:
+
+      - Total høyde/bunndiameter = 5:1.
+      - Høyde på den sylindriske flaskekroppen = total høyde/3.
+   2. For viner som er framstilt av druer som er høstet på fransk territorium, er denne flasketypen forbeholdt viner med følgende beskyttede opprinnelsesbetegnelser:
+
+      - «Alsace» eller «vin d'Alsace», «Alsace Grand Cru».
+      - «Crépy».
+      - «Château-Grillet».
+      - «Côtes de Provence», rød og rosé.
+      - «Cassis».
+      - «Jurançon», «Jurançon sec».
+      - «Béarn», «Béarn-Bellocq», rosé.
+      - «Tavel», rosé.
+
+   For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet på fransk territorium.
+2. «Bocksbeutel» eller «Cantil»:
+
+   1. Type: en glassflaske med kort hals og tykkmaget, men avflatet kropp. Flaskens bunn og tverrsnitt på punktet der kroppen er mest konveks, er elliptisk.
+
+      - Forholdet mellom den lange og den korte aksen i det elliptiske tverrsnittet = tilnærmet 2:1.
+      - Forholdet mellom høyden på den konvekse flaskekroppen og den sylindriske flaskehalsen = tilnærmet 2,5:1.
+   2. Viner som denne flasketypen er forbeholdt:
+
+      1. Tyske viner med følgende beskyttede opprinnelsesbetegnelser:
+
+         - Franken.
+         - Baden:
+
+           - Med opprinnelse i Taubertal og Schüpfergrund.
+           - Med opprinnelse i følgende deler av kommunen Baden-Baden: Neuweier, Steinbach, Umweg og Varnhalt.
+      2. Italienske viner med følgende beskyttede opprinnelsesbetegnelser:
+
+         - Santa Maddalena (St. Magdalener).
+         - Valle Isarco (Eisacktaler), framstilt av sortene Sylvaner og Müller-Thurgau.
+         - Terlaner, framstilt av sorten Pinot bianco.
+         - Bozner Leiten.
+         - Alto Adige (Südtiroler), framstilt av sortene Riesling, Müller-Thurgau, Pinot nero, Moscato giallo, Sylvaner, Lagrein, Pinot blanco (Weissburgunder) og Moscato rosa (Rosenmuskateller).
+         - Greco di Bianco.
+         - Trentino, framstilt av sorten Moscato.
+      3. Greske viner:
+
+         - Agioritiko.
+         - Rombola Kephalonias.
+         - Viner med opprinnelse på øya Kefalonia.
+         - Viner med opprinnelse på øya Paros.
+         - Viner med beskyttet opprinnelsesbetegnelse fra Peloponnes.
+      4. Portugisiske viner:
+
+         - Roséviner og andre viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse som det er påvist at ble korrekt og tradisjonelt presentert på flasker av typen «Cantil» allerede før de ble klassifisert som viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse.
+3. «Clavelin»:
+
+   1. Type: en glassflaske med kort hals og et innhold på 0,62 liter, som består av en sylindrisk kropp med påsatte brede skuldre som gir flasken et firskåret utseende, og med tilnærmet følgende forhold:
+
+      - Total høyde/bunndiameter = 2,75.
+      - Høyde på den sylindriske delen = total høyde/2.
+   2. Viner som denne flasketypen er forbeholdt:
+
+      - Franske viner med følgende beskyttede opprinnelsesbetegnelser:
+      - Côte du Jura.
+      - Arbois.
+      - L'Etoile.
+      - Château Chalon.
+4. «Tokaj»:
+
+   1. Type: en rett, fargeløs glassflaske som består av en sylindrisk kropp med følgende forhold:
+
+      - Høyde på den sylindriske flaskekroppen/total høyde = 1:2,7.
+      - Total høyde/bunndiameter = 1:3,6.
+      - Volum: 500 ml, 375 ml, 250 ml, 100 ml eller 187,5 ml (ved eksport til et tredjeland).
+      - Et segl framstilt av samme materiale som flasken, som viser til vinområdet eller produsenten, kan plasseres på flasken.
+   2. Viner som denne flasketypen er forbeholdt:
+
+      - Ungarske og slovakiske viner med følgende beskyttede opprinnelsesbetegnelser:
+
+        - Tokaj,
+        - Vinohradnícka oblasť Tokaj,
+
+        etterfulgt av én av følgende beskyttede tradisjonelle betegnelser:
+
+        - Aszú/výber.
+        - Aszúeszencia/výberová esencia.
+        - Eszencia/esencia.
+        - Máslas/mášláš.
+        - Fordítás/forditáš.
+        - Szamorodni/samorodné.
+
+      For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet på ungarsk eller slovakisk territorium.
 
 ### Konsolidert forordning (EU) 2019/34 om blant annet beskyttelse av geografiske vinbetegnelser mv., kontroll og informasjonsutveksling
 
@@ -5550,7 +7971,16 @@ INNLEDENDE BESTEMMELSER
 
 ### Artikkel 1. Formål
 
-Denne forordningen fastsetter regler for anvendelse av henholdsvis forordning [(EU) nr. 1306/2013](eu/32013r1306) og [(EU) nr. 1308/2013](eu/32013r1308) om beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og tradisjonelle betegnelser i vinsektoren når det gjeldersøknader om beskyttelse,innsigelsesprosedyren,endringer av produktspesifikasjoner og endringer av tradisjonelle betegnelser,registeret,annullering av beskyttelse,bruk av unionssymboler,kontroller,underretninger.
+Denne forordningen fastsetter regler for anvendelse av henholdsvis forordning [(EU) nr. 1306/2013](eu/32013r1306) og [(EU) nr. 1308/2013](eu/32013r1308) om beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og tradisjonelle betegnelser i vinsektoren når det gjelder
+
+1. søknader om beskyttelse,
+2. innsigelsesprosedyren,
+3. endringer av produktspesifikasjoner og endringer av tradisjonelle betegnelser,
+4. registeret,
+5. annullering av beskyttelse,
+6. bruk av unionssymboler,
+7. kontroller,
+8. underretninger.
 
 ### KAPITTEL II
 BESKYTTEDE OPPRINNELSESBETEGNELSER OG BESKYTTEDE GEOGRAFISKE BETEGNELSER
@@ -5582,9 +8012,26 @@ Felles søknader
 
 Enhetsdokument
 
-1\. Enhetsdokumentet nevnt i artikkel 94 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal omfatte følgende hovedelementer av produktspesifikasjonen:Den betegnelsen som skal beskyttes som en opprinnelsesbetegnelse eller geografisk betegnelse.Den medlemsstaten eller det tredjelandet som det avgrensede området tilhører.Typen geografisk betegnelse.En beskrivelse av vinen eller vinene.Kategoriene vinprodukter.Største avling per hektar.En angivelse av den eller de druesortene vinen eller vinene er framstilt av.En kort angivelse av det avgrensede geografiske området.En beskrivelse av tilknytningen nevnt i artikkel 93 nr. 1 bokstav a) i) eller bokstav b) i) i forordning [(EU) nr. 1308/2013](eu/32013r1308).Eventuelt de særlige ønologiske framstillingsmåtene som brukes for å framstille vinen eller vinene, samt de relevante restriksjonene på framstillingen av dem.Eventuelt de særlige reglene for emballasje og merking samt alle andre vesentlige relevant krav.
+1\. Enhetsdokumentet nevnt i artikkel 94 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal omfatte følgende hovedelementer av produktspesifikasjonen:
 
-2\. Beskrivelsen av tilknytningen nevnt i nr. 1 bokstav i) skal omfatte følgende:Når det gjelder en opprinnelsesbetegnelse, en beskrivelse av sammenhengen mellom produktets kvalitet og kjennetegn og det geografiske miljøet med dets naturbetingede og menneskelige faktorer som de særlig eller utelukkende er knyttet til, herunder, dersom det er relevant, elementer av produktbeskrivelsen eller produksjonsmetode som underbygger sammenhengen.Når det gjelder en geografisk betegnelse, en beskrivelse av sammenhengen mellom den geografiske opprinnelsen og den relevante særlige kvaliteten, det bestemte omdømmet eller andre kjennetegn som kan tilskrives produktets geografiske opprinnelse, ledsaget av en erklæring om hvilke av de aktuelle faktorene (den bestemte kvaliteten, det bestemte omdømmet eller andre kjennetegn som kan tilskrives produktets geografiske opprinnelse) som sammenhengen er basert på. Beskrivelsen kan også gjelde de elementene av varebeskrivelsen eller produksjonsmetoden som underbygger sammenhengen.Dersom en søknad omfatter forskjellige kategorier vinprodukter, skal opplysningene som skal bekrefte tilknytningen, dokumenteres for hvert av de aktuelle vinproduktene.
+1. Den betegnelsen som skal beskyttes som en opprinnelsesbetegnelse eller geografisk betegnelse.
+2. Den medlemsstaten eller det tredjelandet som det avgrensede området tilhører.
+3. Typen geografisk betegnelse.
+4. En beskrivelse av vinen eller vinene.
+5. Kategoriene vinprodukter.
+6. Største avling per hektar.
+7. En angivelse av den eller de druesortene vinen eller vinene er framstilt av.
+8. En kort angivelse av det avgrensede geografiske området.
+9. En beskrivelse av tilknytningen nevnt i artikkel 93 nr. 1 bokstav a) i) eller bokstav b) i) i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+10. Eventuelt de særlige ønologiske framstillingsmåtene som brukes for å framstille vinen eller vinene, samt de relevante restriksjonene på framstillingen av dem.
+11. Eventuelt de særlige reglene for emballasje og merking samt alle andre vesentlige relevant krav.
+
+2\. Beskrivelsen av tilknytningen nevnt i nr. 1 bokstav i) skal omfatte følgende:
+
+1. Når det gjelder en opprinnelsesbetegnelse, en beskrivelse av sammenhengen mellom produktets kvalitet og kjennetegn og det geografiske miljøet med dets naturbetingede og menneskelige faktorer som de særlig eller utelukkende er knyttet til, herunder, dersom det er relevant, elementer av produktbeskrivelsen eller produksjonsmetode som underbygger sammenhengen.
+2. Når det gjelder en geografisk betegnelse, en beskrivelse av sammenhengen mellom den geografiske opprinnelsen og den relevante særlige kvaliteten, det bestemte omdømmet eller andre kjennetegn som kan tilskrives produktets geografiske opprinnelse, ledsaget av en erklæring om hvilke av de aktuelle faktorene (den bestemte kvaliteten, det bestemte omdømmet eller andre kjennetegn som kan tilskrives produktets geografiske opprinnelse) som sammenhengen er basert på. Beskrivelsen kan også gjelde de elementene av varebeskrivelsen eller produksjonsmetoden som underbygger sammenhengen.
+
+Dersom en søknad omfatter forskjellige kategorier vinprodukter, skal opplysningene som skal bekrefte tilknytningen, dokumenteres for hvert av de aktuelle vinproduktene.
 
 3\. Enhetsdokumentet skal utarbeides i samsvar med det skjemaet som er gjort tilgjengelig i informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a). Tredjeland skal bruke modellen for enhetsdokumenter fastsatt i vedlegg I.
 
@@ -5598,7 +8045,9 @@ Det avgrensede geografiske området skal fastsettes presist og utvetydig, idet d
 
 Undersøkelsesprosedyre
 
-1\. Dersom en søknad som kan godtas, ikke oppfyller kravene i avsnitt 2 nr. 2 i del II avdeling II kapittel I i forordning (EU) nr. 1308/2013, skal Kommisjonen underrette medlemsstatens eller tredjelandets myndigheter eller søkeren som er etablert i det berørte tredjelandet, om begrunnelsen for avvisningen og fastsette en frist til å trekke søknaden, endre den eller inngi merknader.Dersom det som følge av disse opplysningene foretas vesentlige endringer av produktspesifikasjonen før den nye versjonen av enhetsdokumentet sendes til Kommisjonen, skal disse endringene offentliggjøres på egnet måte, slik at enhver fysisk eller juridisk person som har en berettiget interesse og er etablert eller bor på den berørte medlemsstatens territorium, kan gjøre innsigelse. Den elektroniske henvisningen til produktspesifikasjonen skal oppdateres og føre til den konsoliderte utgaven av den foreslåtte produktspesifikasjonen.
+1\. Dersom en søknad som kan godtas, ikke oppfyller kravene i avsnitt 2 nr. 2 i del II avdeling II kapittel I i forordning (EU) nr. 1308/2013, skal Kommisjonen underrette medlemsstatens eller tredjelandets myndigheter eller søkeren som er etablert i det berørte tredjelandet, om begrunnelsen for avvisningen og fastsette en frist til å trekke søknaden, endre den eller inngi merknader.
+
+Dersom det som følge av disse opplysningene foretas vesentlige endringer av produktspesifikasjonen før den nye versjonen av enhetsdokumentet sendes til Kommisjonen, skal disse endringene offentliggjøres på egnet måte, slik at enhver fysisk eller juridisk person som har en berettiget interesse og er etablert eller bor på den berørte medlemsstatens territorium, kan gjøre innsigelse. Den elektroniske henvisningen til produktspesifikasjonen skal oppdateres og føre til den konsoliderte utgaven av den foreslåtte produktspesifikasjonen.
 
 2\. Dersom medlemsstatens eller tredjelandets myndigheter eller søkeren etablert i det berørte tredjelandet ikke avhjelper hindringene for å beskytte betegnelsen innen den fastsatte fristen, skal Kommisjonen avvise søknaden i henhold til artikkel 97 nr. 4 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 
@@ -5611,7 +8060,24 @@ Innsigelsesprosedyre
 
 Saksbehandlingsregler for innsigelser
 
-1\. En begrunnet innsigelse som nevnt i artikkel 98 i forordning (EU) nr. 1308/2013 og artikkel 11 nr. 1 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:En henvisning til den betegnelsen som er offentliggjort i L-serien av *Den europeiske unions tidende*, og som innsigelsen gjelder.Navnet på og kontaktopplysningene til den myndigheten eller personen som har gjort innsigelse.En beskrivelse av de berettigede interessene som gjør seg gjeldende for den fysiske eller juridiske personen som har gjort innsigelse, men ikke for nasjonale myndigheter som har status som juridisk person i den nasjonale rettsordenen.En angivelse av begrunnelsen for innsigelsen som nevnt i artikkel 11 nr. 1 i delegert forordning [(EU) 2019/33](eu/32019r0033).Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for innsigelsen.Innsigelsen kan ledsages av underlagsdokumenter dersom det er relevant.Dersom innsigelsen er basert på at det finnes et eldre varemerke med anseelse og omdømme, skal den vedleggesbevis for at det er søkt om registrering av det eldre varemerket, eller at det faktisk er blitt registrert eller brukt, ogbevis for varemerkets anseelse og omdømme.De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerke ble brukt, samt arten av bruk og opplysninger om dets anseelse og omdømme.En begrunnet innsigelse skal utarbeides i samsvar med skjemaet i vedlegg II.
+1\. En begrunnet innsigelse som nevnt i artikkel 98 i forordning (EU) nr. 1308/2013 og artikkel 11 nr. 1 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:
+
+1. En henvisning til den betegnelsen som er offentliggjort i L-serien av *Den europeiske unions tidende*, og som innsigelsen gjelder.
+2. Navnet på og kontaktopplysningene til den myndigheten eller personen som har gjort innsigelse.
+3. En beskrivelse av de berettigede interessene som gjør seg gjeldende for den fysiske eller juridiske personen som har gjort innsigelse, men ikke for nasjonale myndigheter som har status som juridisk person i den nasjonale rettsordenen.
+4. En angivelse av begrunnelsen for innsigelsen som nevnt i artikkel 11 nr. 1 i delegert forordning [(EU) 2019/33](eu/32019r0033).
+5. Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for innsigelsen.
+
+Innsigelsen kan ledsages av underlagsdokumenter dersom det er relevant.
+
+Dersom innsigelsen er basert på at det finnes et eldre varemerke med anseelse og omdømme, skal den vedlegges
+
+1. bevis for at det er søkt om registrering av det eldre varemerket, eller at det faktisk er blitt registrert eller brukt, og
+2. bevis for varemerkets anseelse og omdømme.
+
+De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerke ble brukt, samt arten av bruk og opplysninger om dets anseelse og omdømme.
+
+En begrunnet innsigelse skal utarbeides i samsvar med skjemaet i vedlegg II.
 
 2\. Tremånedersperioden nevnt i artikkel 12 nr. 1 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal løpe fra den datoen der oppfordringen til å delta i samråd sendes elektronisk til de berørte partene.
 
@@ -5624,9 +8090,18 @@ Endringer av produktspesifikasjonen
 
 Søknader om unionsendringer
 
-1\. En søknad om en unionsendring av en produktspesifikasjon som nevnt i artikkel 105 i forordning (EU) nr. 1308/2013 og artikkel 15 og 16 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:En henvisning til den beskyttede betegnelsen som endringen gjelder.Søkerens navn og en beskrivelse av søkerens berettigede interesse.Det avsnittet i produktspesifikasjonen som berøres av endringen.En uttømmende beskrivelse av hver av de foreslåtte endringene og den konkrete begrunnelsen for dem.Det endrede konsoliderte og behørig utfylte enhetsdokumentet.Den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte og behørig utfylte produktspesifikasjonen.
+1\. En søknad om en unionsendring av en produktspesifikasjon som nevnt i artikkel 105 i forordning (EU) nr. 1308/2013 og artikkel 15 og 16 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:
 
-2\. En søknad om unionsendring skal utarbeides i samsvar med det skjemaet som er gjort tilgjengelig i informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a). Tredjeland skal bruke skjemaet i vedlegg IV.Det endrede enhetsdokumentet skal utarbeides i samsvar med artikkel 5. Den elektroniske henvisningen til offentliggjøringen av produktspesifikasjonen skal føre til den konsoliderte utgaven av den foreslåtte produktspesifikasjonen. En søknad fra et tredjeland kan inneholde en kopi av den konsoliderte utgaven av produktspesifikasjonen i stedet for den elektroniske henvisningen til den offentliggjorte utgaven av produktspesifikasjonen.
+1. En henvisning til den beskyttede betegnelsen som endringen gjelder.
+2. Søkerens navn og en beskrivelse av søkerens berettigede interesse.
+3. Det avsnittet i produktspesifikasjonen som berøres av endringen.
+4. En uttømmende beskrivelse av hver av de foreslåtte endringene og den konkrete begrunnelsen for dem.
+5. Det endrede konsoliderte og behørig utfylte enhetsdokumentet.
+6. Den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte og behørig utfylte produktspesifikasjonen.
+
+2\. En søknad om unionsendring skal utarbeides i samsvar med det skjemaet som er gjort tilgjengelig i informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a). Tredjeland skal bruke skjemaet i vedlegg IV.
+
+Det endrede enhetsdokumentet skal utarbeides i samsvar med artikkel 5. Den elektroniske henvisningen til offentliggjøringen av produktspesifikasjonen skal føre til den konsoliderte utgaven av den foreslåtte produktspesifikasjonen. En søknad fra et tredjeland kan inneholde en kopi av den konsoliderte utgaven av produktspesifikasjonen i stedet for den elektroniske henvisningen til den offentliggjorte utgaven av produktspesifikasjonen.
 
 3\. De opplysningene som skal offentliggjøres i henhold til artikkel 97 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal omfatte den behørig utfylte søknaden som nevnt i nr. 1 og 2 i denne artikkelen.
 
@@ -5634,7 +8109,13 @@ Søknader om unionsendringer
 
 Underretning om en standardendring
 
-1\. Underretningen om standardendringer av produktspesifikasjonen som nevnt i artikkel 17 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:En henvisning til den beskyttede betegnelsen som standardendringen gjelder.En beskrivelse av de godkjente endringene og begrunnelsen for dem.Beslutningen om godkjenning av standardendringen som nevnt i artikkel 17 nr. 2 og 3 i delegert forordning [(EU) 2019/33](eu/32019r0033).Det endrede konsoliderte enhetsdokumentet dersom det er relevant.Den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte produktspesifikasjonen.
+1\. Underretningen om standardendringer av produktspesifikasjonen som nevnt i artikkel 17 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:
+
+1. En henvisning til den beskyttede betegnelsen som standardendringen gjelder.
+2. En beskrivelse av de godkjente endringene og begrunnelsen for dem.
+3. Beslutningen om godkjenning av standardendringen som nevnt i artikkel 17 nr. 2 og 3 i delegert forordning [(EU) 2019/33](eu/32019r0033).
+4. Det endrede konsoliderte enhetsdokumentet dersom det er relevant.
+5. Den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte produktspesifikasjonen.
 
 2\. Underretningen fra en medlemsstat skal inneholde en erklæring fra medlemsstaten om at den godkjente endringen etter dens oppfatning oppfyller kravene i forordning [(EU) nr. 1308/2013](eu/32013r1308) og delegert forordning [(EU) 2019/33](eu/32019r0033).
 
@@ -5648,7 +8129,11 @@ Underretning om en standardendring
 
 Underretning om en midlertidig endring
 
-1\. Underretningen om en midlertidig endring av produktspesifikasjonen som nevnt i artikkel 18 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:En henvisning til den beskyttede betegnelsen som endringen gjelder.En beskrivelse av den godkjente midlertidige endringen og begrunnelsen for den som nevnt i artikkel 14 nr. 2 i forordning [(EU) 2019/33](eu/32019r0033).Den elektroniske henvisningen til offentliggjøringen av den nasjonale beslutningen om godkjenning av den midlertidige endringen.
+1\. Underretningen om en midlertidig endring av produktspesifikasjonen som nevnt i artikkel 18 i delegert forordning [(EU) 2019/33](eu/32019r0033) skal inneholde følgende:
+
+1. En henvisning til den beskyttede betegnelsen som endringen gjelder.
+2. En beskrivelse av den godkjente midlertidige endringen og begrunnelsen for den som nevnt i artikkel 14 nr. 2 i forordning [(EU) 2019/33](eu/32019r0033).
+3. Den elektroniske henvisningen til offentliggjøringen av den nasjonale beslutningen om godkjenning av den midlertidige endringen.
 
 2\. Underretningen fra en medlemsstat skal inneholde en erklæring fra medlemsstaten om at den godkjente endringen etter dens oppfatning oppfyller kravene i forordning [(EU) nr. 1308/2013](eu/32013r1308) og delegert forordning [(EU) 2019/33](eu/32019r0033).
 
@@ -5665,7 +8150,16 @@ Register
 
 Register
 
-1\. Etter ikrafttredelsen av en beslutning om beskyttelse av en opprinnelsesbetegnelse eller en geografisk betegnelse skal Kommisjonen registrere følgende opplysninger i det elektroniske registeret over beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser etablert i samsvar med artikkel 104 i forordning (EU) nr. 1308/2013:Den betegnelsen som skal beskyttes som en opprinnelsesbetegnelse eller geografisk betegnelse.Saksnummeret.En angivelse av om betegnelsen skal beskyttes som en opprinnelsesbetegnelse eller en geografisk betegnelse.Navnet på opprinnelseslandet eller -landene.Registreringsdatoen.Den elektroniske henvisningen til den rettsakten som betegnelsen er beskyttet i henhold til.Den elektroniske henvisningen til enhetsdokumentet.Dersom det geografiske området hører under en medlemsstats territorium, den elektroniske henvisningen til offentliggjøringen av produktspesifikasjonen.
+1\. Etter ikrafttredelsen av en beslutning om beskyttelse av en opprinnelsesbetegnelse eller en geografisk betegnelse skal Kommisjonen registrere følgende opplysninger i det elektroniske registeret over beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser etablert i samsvar med artikkel 104 i forordning (EU) nr. 1308/2013:
+
+1. Den betegnelsen som skal beskyttes som en opprinnelsesbetegnelse eller geografisk betegnelse.
+2. Saksnummeret.
+3. En angivelse av om betegnelsen skal beskyttes som en opprinnelsesbetegnelse eller en geografisk betegnelse.
+4. Navnet på opprinnelseslandet eller -landene.
+5. Registreringsdatoen.
+6. Den elektroniske henvisningen til den rettsakten som betegnelsen er beskyttet i henhold til.
+7. Den elektroniske henvisningen til enhetsdokumentet.
+8. Dersom det geografiske området hører under en medlemsstats territorium, den elektroniske henvisningen til offentliggjøringen av produktspesifikasjonen.
 
 2\. Dersom Kommisjonen godkjenner en endring av en produktspesifikasjon eller mottar en underretning om en godkjent endring av en produktspesifikasjon som medfører en endring av opplysningene i registeret, skal den registrere de nye opplysningene med virkning fra den datoen beslutningen om godkjenning av endringen får virkning.
 
@@ -5682,7 +8176,17 @@ Annullering
 
 Anmodninger om annullering
 
-1\. En anmodning om annullering av beskyttelsen av en opprinnelsesbetegnelse eller geografisk betegnelse som nevnt i artikkel 106 i forordning (EU) nr. 1308/2013 skal inneholde følgende:En henvisning til den beskyttede betegnelsen som endringen gjelder.Navnet på og kontaktopplysningene til den myndigheten eller den fysiske eller juridiske personen som har anmodet om å få beskyttelsen annullert.En beskrivelse av de berettigede interessene som gjør seg gjeldende for den fysiske eller juridiske personen som har anmodet om å få beskyttelsen annullert, men ikke for nasjonale myndigheter som har status som juridisk person i den nasjonale rettsordenen.En angivelse av begrunnelsen for anmodningen om annullering.Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for anmodningen om annullering.Anmodningen om annullering kan ledsages av underlagsdokumenter dersom det er relevant.En anmodning om annullering skal utarbeides i samsvar med skjemaet i vedlegg VII.
+1\. En anmodning om annullering av beskyttelsen av en opprinnelsesbetegnelse eller geografisk betegnelse som nevnt i artikkel 106 i forordning (EU) nr. 1308/2013 skal inneholde følgende:
+
+1. En henvisning til den beskyttede betegnelsen som endringen gjelder.
+2. Navnet på og kontaktopplysningene til den myndigheten eller den fysiske eller juridiske personen som har anmodet om å få beskyttelsen annullert.
+3. En beskrivelse av de berettigede interessene som gjør seg gjeldende for den fysiske eller juridiske personen som har anmodet om å få beskyttelsen annullert, men ikke for nasjonale myndigheter som har status som juridisk person i den nasjonale rettsordenen.
+4. En angivelse av begrunnelsen for anmodningen om annullering.
+5. Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for anmodningen om annullering.
+
+Anmodningen om annullering kan ledsages av underlagsdokumenter dersom det er relevant.
+
+En anmodning om annullering skal utarbeides i samsvar med skjemaet i vedlegg VII.
 
 ### AVSNITT 6
 Bruk av unionssymbolet
@@ -5702,9 +8206,14 @@ Myndigheter med ansvar for å kontrollere overholdelsen av produktspesifikasjone
 
 1\. Ved utførelse av de kontrollene som er fastsatt i dette avsnittet, skal de ansvarlige vedkommende myndighetene og kontrollorganene oppfylle kravene i forordning [(EF) nr. 882/2004](eu/32004r0882).
 
-2\. Når det gjelder beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser som gjelder et geografisk område i en tredjeland, skal overholdelsen av produktspesifikasjonen under framstillingen og under og etter tappingen av vinen hvert år kontrolleres avén eller flere offentlige myndigheter utpekt av tredjelandet ellerett eller flere sertifiseringsorganer.
+2\. Når det gjelder beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser som gjelder et geografisk område i en tredjeland, skal overholdelsen av produktspesifikasjonen under framstillingen og under og etter tappingen av vinen hvert år kontrolleres av
 
-3\. De kontrollorganene som er nevnt i artikkel 90 nr. 3 i forordning [(EU) nr. 1306/2013](eu/32013r1306), og det eller de sertifiseringsorganene som er nevnt i nr. 2 bokstav b) i denne artikkel, skal overholde og akkrediteres i samsvar med den internasjonale standarden ISO/IEC 17065:2012.Som unntak fra nr. 1 skal Kypros i to år fra datoen for ikrafttredelse av denne forordningen ikke være omfattet av plikten til å overholde og være akkreditert i samsvar med den internasjonale standarden ISO/IEC 17065:2012.
+1. én eller flere offentlige myndigheter utpekt av tredjelandet eller
+2. ett eller flere sertifiseringsorganer.
+
+3\. De kontrollorganene som er nevnt i artikkel 90 nr. 3 i forordning [(EU) nr. 1306/2013](eu/32013r1306), og det eller de sertifiseringsorganene som er nevnt i nr. 2 bokstav b) i denne artikkel, skal overholde og akkrediteres i samsvar med den internasjonale standarden ISO/IEC 17065:2012.
+
+Som unntak fra nr. 1 skal Kypros i to år fra datoen for ikrafttredelse av denne forordningen ikke være omfattet av plikten til å overholde og være akkreditert i samsvar med den internasjonale standarden ISO/IEC 17065:2012.
 
 4\. Dersom den myndigheten som er nevnt i artikkel 90 nr. 2 i forordning [(EU) nr. 1306/2013](eu/32013r1306), og den eller de myndighetene som er nevnt i nr. 2 bokstav a) i denne artikkel, kontrollerer overholdelsen av produktspesifikasjonen, skal de gi tilstrekkelige garantier for objektivitet og upartiskhet og ha tilgang til kvalifisert personale og nødvendige ressurser for å utføre sine oppgaver.
 
@@ -5732,25 +8241,53 @@ Medlemsstatene skal meddele Kommisjonen nærmere opplysninger om vedkommende myn
 
 Kommunikasjon mellom tredjeland og Kommisjonen.
 
-Dersom viner fra et tredjeland er omfattet av en beskyttet opprinnelsesbetegnelse eller geografisk betegnelse, skal det berørte tredjelandet på anmodning oversende Kommisjonenopplysninger om de utpekte myndighetene eller sertifiseringsorganene som utfører den årlige kontrollen av overholdelsen av produktspesifikasjonen under framstillingen og under eller etter tappingen av vinen,opplysninger om de aspektene som kontrollene omfatter,bevis for at den aktuelle vinen oppfyller de vilkårene som gjelder for den relevante opprinnelsesbetegnelsen eller geografiske betegnelsen.
+Dersom viner fra et tredjeland er omfattet av en beskyttet opprinnelsesbetegnelse eller geografisk betegnelse, skal det berørte tredjelandet på anmodning oversende Kommisjonen
+
+1. opplysninger om de utpekte myndighetene eller sertifiseringsorganene som utfører den årlige kontrollen av overholdelsen av produktspesifikasjonen under framstillingen og under eller etter tappingen av vinen,
+2. opplysninger om de aspektene som kontrollene omfatter,
+3. bevis for at den aktuelle vinen oppfyller de vilkårene som gjelder for den relevante opprinnelsesbetegnelsen eller geografiske betegnelsen.
 
 ###### Artikkel 19
 
 Årlig kontroll
 
-1\. Den årlige kontrollen som vedkommende myndighet eller kontrollorganene utfører i henhold til artikkel 90 nr. 3 i forordning [(EU) nr. 1306/2013](eu/32013r1306), skal omfatte følgende:En organoleptisk og analytisk undersøkelse av produkter med opprinnelsesbetegnelse.Enten bare en analytisk undersøkelse eller både en organoleptisk og en analytisk undersøkelse av produkter med geografisk betegnelse.Kontroll av at de øvrige vilkårene i produktspesifikasjonen er overholdt.Den årlige kontrollen skal utføres i den medlemsstaten der produksjonen fant sted i henhold til produktspesifikasjonen, og skal utføres ved hjelp av en eller flere av følgende metoder:Stikkprøvekontroller på grunnlag av en risikoanalyse.Prøvetaking.Systematiske kontroller.Dersom medlemsstatene velger å foreta stikkprøvekontroller som nevnt i annet ledd bokstav a), skal de velge det minste antall markedsdeltakere som de skal foreta kontroller hos.Dersom medlemsstatene velger å foreta prøvetaking som nevnt i annet ledd bokstav b), skal de ved hjelp av kontrollenes antall, type og hyppighet sikre at prøvetakingen er representativ for hele det aktuelle avgrensede geografiske området og står i forhold til mengden vinprodukter som omsettes eller oppbevares med tanke på omsetning.
+1\. Den årlige kontrollen som vedkommende myndighet eller kontrollorganene utfører i henhold til artikkel 90 nr. 3 i forordning [(EU) nr. 1306/2013](eu/32013r1306), skal omfatte følgende:
 
-2\. Undersøkelsen i nr. 1 første ledd bokstav a) og b) skal utføres på anonyme prøver og skal vise at produktet er i samsvar med kjennetegnene og kvaliteten i produktspesifikasjonen for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen.Undersøkelsen skal utføres på ethvert stadium av produksjonsprosessen, herunder emballeringsstadiet, dersom det er relevant. Hver prøve skal være representativ for de aktuelle vinene som markedsdeltakeren har på lager.
+1. En organoleptisk og analytisk undersøkelse av produkter med opprinnelsesbetegnelse.
+2. Enten bare en analytisk undersøkelse eller både en organoleptisk og en analytisk undersøkelse av produkter med geografisk betegnelse.
+3. Kontroll av at de øvrige vilkårene i produktspesifikasjonen er overholdt.
 
-3\. For å undersøke om produktspesifikasjonen som nevnt i nr. 1 første ledd bokstav c) er overholdt, skal kontrollmyndighetenkontrollere markedsdeltakernes lokaler for å fastslå om markedsdeltakerne faktisk er i stand til å overholde vilkårene i produktspesifikasjonen,kontrollere produktene på ethvert produksjonsstadium, herunder emballeringsstadiet, dersom det er relevant, på grunnlag av en kontrollplan som kontrollmyndigheten utarbeider på forhånd, og som markedsdeltakerne kjenner til, og som omfatter alle produksjonsstadier.
+Den årlige kontrollen skal utføres i den medlemsstaten der produksjonen fant sted i henhold til produktspesifikasjonen, og skal utføres ved hjelp av en eller flere av følgende metoder:
 
-4\. Den årlige kontrollen skal sikre at den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen kan brukes på et produkt bare dersomresultatene av undersøkelsen nevnt i nr. 1 første ledd bokstav a) og b) og i nr. 2 viser at det aktuelle produktet oppfyller vilkårene i produktspesifikasjonen og har alle de kjennetegnene som kreves for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen,de kontrollene som er utført i henhold til nr. 3, bekrefter at de øvrige vilkårene i produktspesifikasjonen er overholdt.
+1. Stikkprøvekontroller på grunnlag av en risikoanalyse.
+2. Prøvetaking.
+3. Systematiske kontroller.
+
+Dersom medlemsstatene velger å foreta stikkprøvekontroller som nevnt i annet ledd bokstav a), skal de velge det minste antall markedsdeltakere som de skal foreta kontroller hos.
+
+Dersom medlemsstatene velger å foreta prøvetaking som nevnt i annet ledd bokstav b), skal de ved hjelp av kontrollenes antall, type og hyppighet sikre at prøvetakingen er representativ for hele det aktuelle avgrensede geografiske området og står i forhold til mengden vinprodukter som omsettes eller oppbevares med tanke på omsetning.
+
+2\. Undersøkelsen i nr. 1 første ledd bokstav a) og b) skal utføres på anonyme prøver og skal vise at produktet er i samsvar med kjennetegnene og kvaliteten i produktspesifikasjonen for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen.
+
+Undersøkelsen skal utføres på ethvert stadium av produksjonsprosessen, herunder emballeringsstadiet, dersom det er relevant. Hver prøve skal være representativ for de aktuelle vinene som markedsdeltakeren har på lager.
+
+3\. For å undersøke om produktspesifikasjonen som nevnt i nr. 1 første ledd bokstav c) er overholdt, skal kontrollmyndigheten
+
+1. kontrollere markedsdeltakernes lokaler for å fastslå om markedsdeltakerne faktisk er i stand til å overholde vilkårene i produktspesifikasjonen,
+2. kontrollere produktene på ethvert produksjonsstadium, herunder emballeringsstadiet, dersom det er relevant, på grunnlag av en kontrollplan som kontrollmyndigheten utarbeider på forhånd, og som markedsdeltakerne kjenner til, og som omfatter alle produksjonsstadier.
+
+4\. Den årlige kontrollen skal sikre at den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen kan brukes på et produkt bare dersom
+
+1. resultatene av undersøkelsen nevnt i nr. 1 første ledd bokstav a) og b) og i nr. 2 viser at det aktuelle produktet oppfyller vilkårene i produktspesifikasjonen og har alle de kjennetegnene som kreves for den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen,
+2. de kontrollene som er utført i henhold til nr. 3, bekrefter at de øvrige vilkårene i produktspesifikasjonen er overholdt.
 
 5\. Når det gjelder en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som gjelder et område delt av en landegrense, kan kontrollen foretas av en kontrollmyndighet i hvilken som helst av de berørte medlemsstatene.
 
 6\. Produkter som ikke oppfyller vilkårene i nr. 1–5, kan bringes i omsetning dersom de øvrige lovfestede kravene er oppfylt, men i så fall uten den aktuelle opprinnelsesbetegnelsen eller geografiske betegnelsen.
 
-7\. Som unntak fra nr. 1 kan den årlige kontrollen foreta på det stadiet der produktet emballeres i en medlemsstat som ikke er den medlemsstaten der produksjonen har funnet sted, og i så fall får artikkel 43 i delegert forordning [(EU) 2018/273](eu/32018r0273) anvendelse.Forskjellige medlemsstaters vedkommende myndigheter eller kontrollorganer med ansvar for å foreta kontroller av en beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse skal samarbeide for særlig å sikre at markedsdeltakerne som er etablert i en annen medlemsstat enn den medlemsstaten der produksjonen av vinen med den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen har funnet sted, overholder den aktuelle produktspesifikasjonens kontrollforpliktelser når det gjelder emballering.
+7\. Som unntak fra nr. 1 kan den årlige kontrollen foreta på det stadiet der produktet emballeres i en medlemsstat som ikke er den medlemsstaten der produksjonen har funnet sted, og i så fall får artikkel 43 i delegert forordning [(EU) 2018/273](eu/32018r0273) anvendelse.
+
+Forskjellige medlemsstaters vedkommende myndigheter eller kontrollorganer med ansvar for å foreta kontroller av en beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse skal samarbeide for særlig å sikre at markedsdeltakerne som er etablert i en annen medlemsstat enn den medlemsstaten der produksjonen av vinen med den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen har funnet sted, overholder den aktuelle produktspesifikasjonens kontrollforpliktelser når det gjelder emballering.
 
 8\. Nr. 1–5 får anvendelse på viner som er omfattet av midlertidig nasjonal beskyttelse i henhold til artikkel 8 i delegert forordning [(EU) 2019/33](eu/32019r0033).
 
@@ -5758,7 +8295,20 @@ Dersom viner fra et tredjeland er omfattet av en beskyttet opprinnelsesbetegnels
 
 Analytisk og organoleptisk undersøkelse
 
-Den analytiske og organoleptiske undersøkelsen nevnt i artikkel 19 nr. 1 første ledd bokstav a) og b) skal bestå av følgende:En fysisk og kjemisk analyse av den aktuelle vinen der følgende karakteristiske egenskaper måles:Total og sann alkoholstyrke.Totalsukker uttrykt som fruktose og glukose (herunder sukrose i perlende og musserende viner).Totalt syreinnhold.Innhold av flyktige syrer.Totalt svoveldioksidinnhold.En ytterligere analyse av den aktuelle vinen der følgende karakteristiske egenskaper måles:Karbondioksid (perlende og musserende viner, overtrykk i bar ved 20 °C).Andre karakteristiske egenskaper som er fastsatt i medlemsstatenes lovgivning eller i produktspesifikasjonen for de aktuelle beskyttede opprinnelsesbetegnelsene og geografiske betegnelsene.En organoleptisk undersøkelse som omfatter utseende, lukt og smak.
+Den analytiske og organoleptiske undersøkelsen nevnt i artikkel 19 nr. 1 første ledd bokstav a) og b) skal bestå av følgende:
+
+1. En fysisk og kjemisk analyse av den aktuelle vinen der følgende karakteristiske egenskaper måles:
+
+   1. Total og sann alkoholstyrke.
+   2. Totalsukker uttrykt som fruktose og glukose (herunder sukrose i perlende og musserende viner).
+   3. Totalt syreinnhold.
+   4. Innhold av flyktige syrer.
+   5. Totalt svoveldioksidinnhold.
+2. En ytterligere analyse av den aktuelle vinen der følgende karakteristiske egenskaper måles:
+
+   1. Karbondioksid (perlende og musserende viner, overtrykk i bar ved 20 °C).
+   2. Andre karakteristiske egenskaper som er fastsatt i medlemsstatenes lovgivning eller i produktspesifikasjonen for de aktuelle beskyttede opprinnelsesbetegnelsene og geografiske betegnelsene.
+3. En organoleptisk undersøkelse som omfatter utseende, lukt og smak.
 
 ### KAPITTEL III
 TRADISJONELLE BETEGNELSER
@@ -5791,7 +8341,12 @@ Dokumenter til støtte for innsigelsen
 
 1\. En behørig begrunnet innsigelse skal inneholde opplysninger om faktiske forhold, beviser og merknader til støtte for innsigelsen samt relevante underlagsdokumenter.
 
-2\. Dersom innsigelsen er basert på at det finnes et eldre varemerke med anseelse og omdømme, skal den vedleggesbevis for at det er søkt om registrering av det eldre varemerket, eller at det faktisk er blitt registrert eller brukt, ogbevis for varemerkets anseelse og omdømme.De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerke ble brukt, samt arten av bruk og opplysninger om dets anseelse og omdømme.
+2\. Dersom innsigelsen er basert på at det finnes et eldre varemerke med anseelse og omdømme, skal den vedlegges
+
+1. bevis for at det er søkt om registrering av det eldre varemerket, eller at det faktisk er blitt registrert eller brukt, og
+2. bevis for varemerkets anseelse og omdømme.
+
+De opplysningene og bevisene som skal framlegges for å bekrefte bruken av et eldre varemerke, skal omfatte nærmere opplysninger om hvor, hvor lenge og i hvilket omfang det eldre varemerke ble brukt, samt arten av bruk og opplysninger om dets anseelse og omdømme.
 
 3\. Dersom opplysninger om hvilken eller hvilke eldre rettigheter som påberopes, og om begrunnelsen, de faktiske forholdene, bevisene og merknadene eller underlagsdokumentene som er omhandlet i nr. 1 og 2, ikke er framlagt samtidig med innsigelsen, eller det mangler opplysninger eller dokumenter, skal Kommisjonen underrette den myndigheten eller personen som har gjort innsigelsen, og oppfordre vedkommende til å rette opp manglene innen to måneder. Dersom manglene ikke er rettet opp før fristen utløper, skal Kommisjonen avvise innsigelsen. Beslutningen om avvisning av innsigelsen skal meddeles den myndighetene eller personen som har gjort innsigelsen, og medlemsstatens eller tredjelandets myndigheter eller den representative bransjeorganisasjonen etablert i det aktuelle tredjelandet.
 
@@ -5810,7 +8365,16 @@ Beskyttelse av tradisjonelle betegnelser
 
 Registrering
 
-1\. Etter ikrafttredelse av en beslutning om beskyttelse av en tradisjonell betegnelse skal Kommisjonen registrere følgende opplysninger i det elektroniske registeret over beskyttede tradisjonelle betegnelser:Den betegnelsen som skal beskyttes som en tradisjonell betegnelse.Typen av tradisjonell betegnelse i henhold til artikkel 112 i forordning (EU) nr. 1308/2013.Språket nevnt i artikkel 24 i delegert forordning [(EU) 2019/33](eu/32019r0033).Den eller de kategoriene vinprodukter som er omfattet av beskyttelsen.En henvisning til den nasjonale lovgivningen i medlemsstaten eller tredjelandet der den tradisjonelle betegnelsen er definert og regulert, eller til de reglene som gjelder for vinprodusenter i tredjelandet, herunder representative bransjeorganisasjoners regler, dersom det ikke er noen nasjonal lovgivning i disse tredjelandene.Et sammendrag av definisjonen eller bruksvilkårene.Navnet på opprinnelseslandet eller -landene.Datoen for oppføring i registeret.
+1\. Etter ikrafttredelse av en beslutning om beskyttelse av en tradisjonell betegnelse skal Kommisjonen registrere følgende opplysninger i det elektroniske registeret over beskyttede tradisjonelle betegnelser:
+
+1. Den betegnelsen som skal beskyttes som en tradisjonell betegnelse.
+2. Typen av tradisjonell betegnelse i henhold til artikkel 112 i forordning (EU) nr. 1308/2013.
+3. Språket nevnt i artikkel 24 i delegert forordning [(EU) 2019/33](eu/32019r0033).
+4. Den eller de kategoriene vinprodukter som er omfattet av beskyttelsen.
+5. En henvisning til den nasjonale lovgivningen i medlemsstaten eller tredjelandet der den tradisjonelle betegnelsen er definert og regulert, eller til de reglene som gjelder for vinprodusenter i tredjelandet, herunder representative bransjeorganisasjoners regler, dersom det ikke er noen nasjonal lovgivning i disse tredjelandene.
+6. Et sammendrag av definisjonen eller bruksvilkårene.
+7. Navnet på opprinnelseslandet eller -landene.
+8. Datoen for oppføring i registeret.
 
 2\. Det elektroniske registeret over beskyttede tradisjonelle betegnelser skal gjøres offentlig tilgjengelig.
 
@@ -5835,21 +8399,37 @@ Anmodning om endring
 
 Anmodning om annullering
 
-1\. En anmodning om annullering av beskyttelsen av en tradisjonell betegnelse skal inneholde følgende:Henvisningen til den tradisjonelle betegnelsen som anmodningen gjelder.Navnet på og kontaktopplysningene til den fysiske eller juridiske personen som anmoder om annulleringen.En beskrivelse av den berettigede interessen til den fysiske eller juridiske personen som har anmodet om annulleringen.En angivelse av begrunnelsen for annulleringen som nevnt i artikkel 36 i delegert forordning [(EU) 2019/33](eu/32019r0033).Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for anmodningen om annullering.Anmodningen om annullering kan ledsages av underlagsdokumenter dersom det er relevant.
+1\. En anmodning om annullering av beskyttelsen av en tradisjonell betegnelse skal inneholde følgende:
 
-2\. Dersom de nærmere opplysningene om begrunnelsen, de faktiske forholdene, bevisene og merknadene som omhandlet i nr. 1 ikke er framlagt samtidig med anmodningen om annullering, skal Kommisjonen underrette opphavspersonen til anmodningen om annullering om dette, og skal oppfordre vedkommende til å rette opp manglene innen to måneder.Dersom manglene ikke er rettet opp før fristen utløper, skal Kommisjonen avvise annulleringen. Beslutningen om avvisning av anmodningen skal meddeles opphavspersonen til anmodningen om annullering.
+1. Henvisningen til den tradisjonelle betegnelsen som anmodningen gjelder.
+2. Navnet på og kontaktopplysningene til den fysiske eller juridiske personen som anmoder om annulleringen.
+3. En beskrivelse av den berettigede interessen til den fysiske eller juridiske personen som har anmodet om annulleringen.
+4. En angivelse av begrunnelsen for annulleringen som nevnt i artikkel 36 i delegert forordning [(EU) 2019/33](eu/32019r0033).
+5. Nærmere opplysninger om faktiske forhold, bevis og merknader til støtte for anmodningen om annullering.
+
+Anmodningen om annullering kan ledsages av underlagsdokumenter dersom det er relevant.
+
+2\. Dersom de nærmere opplysningene om begrunnelsen, de faktiske forholdene, bevisene og merknadene som omhandlet i nr. 1 ikke er framlagt samtidig med anmodningen om annullering, skal Kommisjonen underrette opphavspersonen til anmodningen om annullering om dette, og skal oppfordre vedkommende til å rette opp manglene innen to måneder.
+
+Dersom manglene ikke er rettet opp før fristen utløper, skal Kommisjonen avvise annulleringen. Beslutningen om avvisning av anmodningen skal meddeles opphavspersonen til anmodningen om annullering.
 
 ###### Artikkel 29
 
 Undersøkelse av en anmodning om annullering
 
-1\. Dersom Kommisjonen ikke avviser anmodningen om annullering i samsvar med artikkel 28 nr. 2, skal den underrette medlemsstatens eller tredjelandets myndigheter eller søkeren etablert i den aktuelle tredjeland om anmodningen om annullering, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter den datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal meddeles opphavspersonen til anmodningen.Som ledd i undersøkelsen av en anmodning om annullering skal Kommisjonen oppfordre partene til å framlegge merknader til de meldingene som er mottatt fra de andre partene senest to måneder etter datoen for anmodningen.
+1\. Dersom Kommisjonen ikke avviser anmodningen om annullering i samsvar med artikkel 28 nr. 2, skal den underrette medlemsstatens eller tredjelandets myndigheter eller søkeren etablert i den aktuelle tredjeland om anmodningen om annullering, og skal oppfordre vedkommende til å framlegge merknader innen to måneder etter den datoen da underretningen ble gitt. Merknader som mottas innen fristen på to måneder, skal meddeles opphavspersonen til anmodningen.
+
+Som ledd i undersøkelsen av en anmodning om annullering skal Kommisjonen oppfordre partene til å framlegge merknader til de meldingene som er mottatt fra de andre partene senest to måneder etter datoen for anmodningen.
 
 2\. Dersom medlemsstatens eller tredjelandets myndigheter eller søkeren etablert i det aktuelle tredjelandet eller opphavspersonen til anmodningen om annullering ikke framlegger merknader, eller ikke overholder fristene, skal Kommisjonen treffe beslutning om anmodningen.
 
-3\. Kommisjonen skal treffe beslutning om annullering av den aktuelle tradisjonelle betegnelsen på grunnlag av bevisene den har til rådighet. Den skal vurdere om begrunnelsen nevnt i artikkel 36 i delegert forordning [(EU) 2019/33](eu/32019r0033) er oppfylt.Beslutningen om annullering av beskyttelsen av den tradisjonelle betegnelsen skal meddeles opphavspersonen til anmodningen om annullering og den aktuelle medlemsstatens eller det aktuelle tredjelandets myndigheter.
+3\. Kommisjonen skal treffe beslutning om annullering av den aktuelle tradisjonelle betegnelsen på grunnlag av bevisene den har til rådighet. Den skal vurdere om begrunnelsen nevnt i artikkel 36 i delegert forordning [(EU) 2019/33](eu/32019r0033) er oppfylt.
 
-4\. Dersom det er inngitt flere anmodninger om annullering av en tradisjonell betegnelse og det på grunnlag av en foreløpig undersøkelse av én eller flere av disse anmodningene kan fastslås at det ikke lenger er mulig å fortsette å beskytte en tradisjonell betegnelse, kan Kommisjonen midlertidig stanse de andre annulleringsprosedyrene. Kommisjonen skal underrette de partene som inngav de andre annulleringsanmodningene, om alle beslutninger som berører dem, og som er truffet som ledd i prosedyren.Dersom det treffes en beslutning om annullering av en tradisjonell betegnelse, skal midlertidig stansede annulleringsprosedyrer anses som avsluttet, og de berørte opphavspersonene til anmodningene om annullering skal behørig underrettes.
+Beslutningen om annullering av beskyttelsen av den tradisjonelle betegnelsen skal meddeles opphavspersonen til anmodningen om annullering og den aktuelle medlemsstatens eller det aktuelle tredjelandets myndigheter.
+
+4\. Dersom det er inngitt flere anmodninger om annullering av en tradisjonell betegnelse og det på grunnlag av en foreløpig undersøkelse av én eller flere av disse anmodningene kan fastslås at det ikke lenger er mulig å fortsette å beskytte en tradisjonell betegnelse, kan Kommisjonen midlertidig stanse de andre annulleringsprosedyrene. Kommisjonen skal underrette de partene som inngav de andre annulleringsanmodningene, om alle beslutninger som berører dem, og som er truffet som ledd i prosedyren.
+
+Dersom det treffes en beslutning om annullering av en tradisjonell betegnelse, skal midlertidig stansede annulleringsprosedyrer anses som avsluttet, og de berørte opphavspersonene til anmodningene om annullering skal behørig underrettes.
 
 5\. Når en beslutning om annullering av en tradisjonell betegnelse får virkning, skal Kommisjonen stryke betegnelsen fra registeret og protokollføre annulleringen.
 
@@ -5858,21 +8438,46 @@ KOMMUNIKASJON, OFFENTLIGGJØRING OG SLUTTBESTEMMELSER
 
 ### Artikkel 30. Kommunikasjon mellom Kommisjonen, medlemsstatene, tredjeland og andre aktører
 
-1\. De dokumentene og opplysningene som er nødvendige for gjennomføring av kapittel II, skal meddeles Kommisjonen på følgende måte:Medlemsstatenes vedkommende myndigheter skal oversende Kommisjonen opplysninger og dokumenter ved hjelp av de informasjonssystemene som Kommisjonen har gjort tilgjengelige, i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) og gjennomføringsforordning [(EU) 2017/1185](eu/32017r1185).Tredjelands vedkommende myndigheter ►**EØS-tilpasning**, *kompetente myndigheter i Norge* ◄**EØS-tilpasning** og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen, skal oversende Kommisjonen opplysninger og dokumenter på e-post ved hjelp av skjemaene i vedlegg I–VII.
+1\. De dokumentene og opplysningene som er nødvendige for gjennomføring av kapittel II, skal meddeles Kommisjonen på følgende måte:
+
+1. Medlemsstatenes vedkommende myndigheter skal oversende Kommisjonen opplysninger og dokumenter ved hjelp av de informasjonssystemene som Kommisjonen har gjort tilgjengelige, i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) og gjennomføringsforordning [(EU) 2017/1185](eu/32017r1185).
+2. Tredjelands vedkommende myndigheter ►**EØS-tilpasning**, *kompetente myndigheter i Norge* ◄**EØS-tilpasning** og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen, skal oversende Kommisjonen opplysninger og dokumenter på e-post ved hjelp av skjemaene i vedlegg I–VII.
 
 2\. Som unntak fra nr. 1 bokstav a) skal medlemsstatenes vedkommende myndigheter oversende Kommisjonen de begrunnede innsigelsene, meldingene om resultatet av samrådene for å nå enighet i forbindelse med en innsigelsesprosedyre og anmodningene om annullering nevnt i henholdsvis artikkel 11, 12 og 21 i delegert forordning [(EU) 2019/33](eu/32019r0033) på e-post ved hjelp av skjemaene i vedlegg II, III og VII til denne forordningen.
 
 3\. De dokumentene og opplysningene som kreves for gjennomføring av kapittel III, skal meddeles Kommisjonen på e-post ved hjelp av skjemaene i vedlegg VIII–XI.
 
-4\. Kommisjonen skal meddele og gjøre opplysningene tilgjengelige for medlemsstatenes vedkommende myndigheter via de informasjonssystemene som Kommisjonen har opprettet, i samsvar med nr. 1 bokstav a). Opplysningene i forbindelse med prosedyrene nevnt i nr. 1 bokstav b) og nr. 2 og 3 skal Kommisjonen på e-post meddele medlemsstatene, tredjelands vedkommende myndigheter og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen.Medlemsstatene, tredjelands vedkommende myndigheter og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen, kan kontakte Kommisjonen via de to e-postadressene i vedlegg XII for å få opplysninger om de praktiske reglene for tilgang til informasjonssystemene, om kommunikasjonsmetodene og om hvordan de opplysningene som er nødvendige for gjennomføring av kapittel II og III, skal gjøres tilgjengelige.
+4\. Kommisjonen skal meddele og gjøre opplysningene tilgjengelige for medlemsstatenes vedkommende myndigheter via de informasjonssystemene som Kommisjonen har opprettet, i samsvar med nr. 1 bokstav a). Opplysningene i forbindelse med prosedyrene nevnt i nr. 1 bokstav b) og nr. 2 og 3 skal Kommisjonen på e-post meddele medlemsstatene, tredjelands vedkommende myndigheter og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen.
+
+Medlemsstatene, tredjelands vedkommende myndigheter og representative bransjeorganisasjoner samt fysiske eller juridiske personer som har en berettiget interesse i henhold til denne forordningen, kan kontakte Kommisjonen via de to e-postadressene i vedlegg XII for å få opplysninger om de praktiske reglene for tilgang til informasjonssystemene, om kommunikasjonsmetodene og om hvordan de opplysningene som er nødvendige for gjennomføring av kapittel II og III, skal gjøres tilgjengelige.
 
 ### Artikkel 31. Framlegging og mottak av meldinger
 
 1\. De meldingene og opplysningene som er omhandlet i artikkel 30, skal anses for å være oversendt på den datoen de mottas av Kommisjonen.
 
-2\. Kommisjonen skal overfor medlemsstatenes vedkommende myndigheter bekrefte mottak av alle meldinger som er mottatt, og alle dokumenter som er oversendt via informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a), via informasjonssystemene.Kommisjonen skal gi et saksnummer til alle nye søknader om beskyttelse, unionsendringer, meldinger om søknader om standardendringer og meldinger om søknader om midlertidige endringer.Mottakskvitteringen skal inneholde minst følgende opplysninger:Saksnummeret.Den relevante betegnelsen.Datoen for mottak.Kommisjonen skal underrette om og gjøre tilgjengelig opplysninger og merknader om slike meldinger og opplysninger via informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a).
+2\. Kommisjonen skal overfor medlemsstatenes vedkommende myndigheter bekrefte mottak av alle meldinger som er mottatt, og alle dokumenter som er oversendt via informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a), via informasjonssystemene.
 
-3\. Kommisjonen skal på e-post bekrefte mottak av meldinger og opplysninger som er sendt på e-post.Den skal gi et saksnummer til alle nye søknader om beskyttelse, søknader om unionsendring, meldinger om søknader om standardendringer og meldinger om søknader om midlertidige endringer.Mottakskvitteringen skal inneholde minst følgende opplysninger:Saksnummeret.Den relevante betegnelsen.Datoen for mottak.Kommisjonen skal underrette om og gjøre tilgjengelig opplysninger og kommentarer om slike meldinger og opplysninger via e-post
+Kommisjonen skal gi et saksnummer til alle nye søknader om beskyttelse, unionsendringer, meldinger om søknader om standardendringer og meldinger om søknader om midlertidige endringer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. Saksnummeret.
+2. Den relevante betegnelsen.
+3. Datoen for mottak.
+
+Kommisjonen skal underrette om og gjøre tilgjengelig opplysninger og merknader om slike meldinger og opplysninger via informasjonssystemene nevnt i artikkel 30 nr. 1 bokstav a).
+
+3\. Kommisjonen skal på e-post bekrefte mottak av meldinger og opplysninger som er sendt på e-post.
+
+Den skal gi et saksnummer til alle nye søknader om beskyttelse, søknader om unionsendring, meldinger om søknader om standardendringer og meldinger om søknader om midlertidige endringer.
+
+Mottakskvitteringen skal inneholde minst følgende opplysninger:
+
+1. Saksnummeret.
+2. Den relevante betegnelsen.
+3. Datoen for mottak.
+
+Kommisjonen skal underrette om og gjøre tilgjengelig opplysninger og kommentarer om slike meldinger og opplysninger via e-post
 
 4\. Artikkel 4 i delegert forordning [(EU) 2017/1183](eu/32017r1183) og artikkel 1–5 i gjennomføringsforordning (EU) 2017/1185 gjelder tilsvarende med nødvendige endringer for melding og tilgjengeliggjøring av opplysninger som nevnt i nr. 1 og 2 i denne artikkelen.
 
@@ -6090,11 +8695,15 @@ Dato for offentliggjøring i *Den europeiske unions tidende*:
 
 5.1.**Produktspesifikasjonen er endret:**
 
-... Ja\* ... Nei\* Hvis «Ja» vedlegges en beskrivelse av endringene og den endrede produktspesifikasjonen.
+... Ja\* ... Nei
+
+\* Hvis «Ja» vedlegges en beskrivelse av endringene og den endrede produktspesifikasjonen.
 
 5.2**Enhetsdokumentet er endret:**
 
-... Ja\*\* ... Nei\*\* Hvis «Ja» vedlegges det ajourførte dokumentet
+... Ja\*\* ... Nei
+
+\*\* Hvis «Ja» vedlegges det ajourførte dokumentet
 
 6.**Dato og underskrift**
 
@@ -6377,8 +8986,28 @@ Fullstendig adresse (*gatenavn og -nummer, postnummer og poststed, land*) ...
 
 - Beskyttet opprinnelsesbetegnelse(\*)
 - Beskyttet geografisk betegnelse(\*)
-- Nasjonal geografisk betegnelse(\*)*[(\*) Stryk det som ikke passer.]*Navn ...Registreringsnummer ...Registreringsdato (DD/MM/ÅÅÅÅ) ...
-- VaremerkeSymbol ...Liste over produkter og tjenester ...Registreringsnummer ...Registreringsdato ...Opprinnelsesland ...Anseelse/omdømme(\*) ...
+- Nasjonal geografisk betegnelse(\*)
+
+  *[(\*) Stryk det som ikke passer.]*
+
+  Navn ...
+
+  Registreringsnummer ...
+
+  Registreringsdato (DD/MM/ÅÅÅÅ) ...
+- Varemerke
+
+  Symbol ...
+
+  Liste over produkter og tjenester ...
+
+  Registreringsnummer ...
+
+  Registreringsdato ...
+
+  Opprinnelsesland ...
+
+  Anseelse/omdømme(\*) ...
 
 *[(\*) Stryk det som ikke passer.]*
 
@@ -6565,7 +9194,11 @@ Vindyrkingssonene nevnt i del II nr. 1 annet ledd bokstav c) første strekpunkt 
 
 ### Artikkel 3. Tillatte ønologiske framstillingsmåter
 
-1\. Tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for framstilling og lagring av produkter som omfattes av del II i vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308), som nevnt i forordningens artikkel 80 nr. 1, er fastsatt i vedlegg I til denne forordningen.Tabell 1 i del A i vedlegg I til denne forordningen angir tillatte ønologiske behandlingsmåter og vilkår og grenseverdier for bruken av dem.Tabell 2 i del A i vedlegg I angir tillatte ønologiske forbindelser og vilkår og grenseverdier for bruken av dem.
+1\. Tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for framstilling og lagring av produkter som omfattes av del II i vedlegg VII til forordning [(EU) nr. 1308/2013](eu/32013r1308), som nevnt i forordningens artikkel 80 nr. 1, er fastsatt i vedlegg I til denne forordningen.
+
+Tabell 1 i del A i vedlegg I til denne forordningen angir tillatte ønologiske behandlingsmåter og vilkår og grenseverdier for bruken av dem.
+
+Tabell 2 i del A i vedlegg I angir tillatte ønologiske forbindelser og vilkår og grenseverdier for bruken av dem.
 
 2\. Kommisjonen skal offentliggjøre dokumentene i OIVs regelverk for ønologiske framstillingsmåter nevnt i kolonne 2 i tabell 1 og i kolonne 3 i tabell 2 i del A i vedlegg I til denne forordningen i C-serien av *Den europeiske unions tidende*.
 
@@ -6577,7 +9210,14 @@ Vindyrkingssonene nevnt i del II nr. 1 annet ledd bokstav c) første strekpunkt 
 
 ### Artikkel 4. Bruk i forsøksøyemed av nye ønologiske framstillingsmåter
 
-1\. For bruk i forsøksøyemed som nevnt i artikkel 83 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan hver enkelt medlemsstat i en periode på inntil tre år tillate visse ønologiske framstillings- eller behandlingsmåter som ikke er tillatt i henhold til nevnte forordning eller denne forordningen, forutsatt atde berørte framstillings- eller behandlingsmåtene oppfyller kravene i artikkel 80 nr. 1 tredje ledd og artikkel 80 nr. 3 bokstav b)–e) i forordning [(EU) nr. 1308/2013](eu/32013r1308),den mengden som omfattes av slike framstillings- eller behandlingsmåter, ikke overstiger 50 000 hektoliter per år for noe forsøk,den berørte medlemsstaten i begynnelsen av forsøket underretter Kommisjonen og de øvrige medlemsstatene om vilkårene for hver tillatelse,behandlingsmåtene angis i følgedokumentet nevnt i artikkel 147 nr. 1 og i registeret nevnt i artikkel 147 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).Med «forsøk» menes én eller flere prosesser som utføres innenfor rammen av et veldefinert forskningsprosjekt med én enkelt forsøksprotokoll.
+1\. For bruk i forsøksøyemed som nevnt i artikkel 83 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308) kan hver enkelt medlemsstat i en periode på inntil tre år tillate visse ønologiske framstillings- eller behandlingsmåter som ikke er tillatt i henhold til nevnte forordning eller denne forordningen, forutsatt at
+
+1. de berørte framstillings- eller behandlingsmåtene oppfyller kravene i artikkel 80 nr. 1 tredje ledd og artikkel 80 nr. 3 bokstav b)–e) i forordning [(EU) nr. 1308/2013](eu/32013r1308),
+2. den mengden som omfattes av slike framstillings- eller behandlingsmåter, ikke overstiger 50 000 hektoliter per år for noe forsøk,
+3. den berørte medlemsstaten i begynnelsen av forsøket underretter Kommisjonen og de øvrige medlemsstatene om vilkårene for hver tillatelse,
+4. behandlingsmåtene angis i følgedokumentet nevnt i artikkel 147 nr. 1 og i registeret nevnt i artikkel 147 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
+
+Med «forsøk» menes én eller flere prosesser som utføres innenfor rammen av et veldefinert forskningsprosjekt med én enkelt forsøksprotokoll.
 
 2\. Produkter som er framstilt ved bruk av slike ønologiske framstillings- eller behandlingsmåter i forskningsøyemed, kan bringes i omsetning i en annen medlemsstat enn den berørte medlemsstaten forutsatt at den medlemsstaten som har tillatt forsøket, på forhånd har underrettet vedkommende myndigheter i bestemmelsesmedlemsstaten om vilkårene for tillatelsen og de aktuelle mengdene.
 
@@ -6601,13 +9241,25 @@ I tillegg til de tillatte ønologiske framstillingsmåtene og generelle bruksres
 
 1\. Forskjæring («sammenstikning» som nevnt i artikkel 75 nr. 3 bokstav h) og i del II avsnitt C i vedlegg VIII til forordning (EU) nr. 1308/2013) innebærer blanding av viner eller moster av forskjellig opprinnelse, forskjellige vindruesorter, forskjellige innhøstingsår eller forskjellige kategorier av vin eller most.
 
-2\. Følgende vin- eller mostkategorier skal anses som forskjellige:Rødvin, hvitvin og moster eller viner som egner seg til framstilling av en av disse vinkategoriene.Viner uten beskyttet opprinnelsesbetegnelse og viner uten beskyttet geografisk betegnelse, viner med beskyttet opprinnelsesbetegnelse (BOB) og viner med beskyttet geografisk betegnelse (BGB) samt moster eller viner som egner seg til framstilling av en av disse vinkategoriene.Ved anvendelsen av dette nummer skal rosévin betraktes som rødvin.
+2\. Følgende vin- eller mostkategorier skal anses som forskjellige:
 
-3\. Følgende behandlinger skal ikke anses som forskjæring:Anriking gjennom tilsetting av konsentrert druemost eller rektifisert konsentrert druemost.Søtning.
+1. Rødvin, hvitvin og moster eller viner som egner seg til framstilling av en av disse vinkategoriene.
+2. Viner uten beskyttet opprinnelsesbetegnelse og viner uten beskyttet geografisk betegnelse, viner med beskyttet opprinnelsesbetegnelse (BOB) og viner med beskyttet geografisk betegnelse (BGB) samt moster eller viner som egner seg til framstilling av en av disse vinkategoriene.
+
+Ved anvendelsen av dette nummer skal rosévin betraktes som rødvin.
+
+3\. Følgende behandlinger skal ikke anses som forskjæring:
+
+1. Anriking gjennom tilsetting av konsentrert druemost eller rektifisert konsentrert druemost.
+2. Søtning.
 
 ### Artikkel 8. Alminnelige regler om blanding og forskjæring
 
-1\. En vin kan framstilles ved blanding eller forskjæring bare dersom bestanddelene i nevnte blanding eller forskjæring har de egenskapene som kreves for å framstille vin og er i samsvar med forordning [(EU) nr. 1308/2013](eu/32013r1308) og denne forordningen.Forskjæring av hvitvin uten BOB/BGB med en rødvin uten BOB/BGB kan ikke gi opphav til en rosévin.Bestemmelsen i andre ledd utelukker imidlertid ikke forskjæring av den typen som der er nevnt, dersom sluttproduktet skal brukes til å framstille en vinblanding som fastsatt i del IV nr. 12 i vedlegg II til forordning (EU) nr. 1308/2013 eller til framstilling av perlende vin.
+1\. En vin kan framstilles ved blanding eller forskjæring bare dersom bestanddelene i nevnte blanding eller forskjæring har de egenskapene som kreves for å framstille vin og er i samsvar med forordning [(EU) nr. 1308/2013](eu/32013r1308) og denne forordningen.
+
+Forskjæring av hvitvin uten BOB/BGB med en rødvin uten BOB/BGB kan ikke gi opphav til en rosévin.
+
+Bestemmelsen i andre ledd utelukker imidlertid ikke forskjæring av den typen som der er nevnt, dersom sluttproduktet skal brukes til å framstille en vinblanding som fastsatt i del IV nr. 12 i vedlegg II til forordning (EU) nr. 1308/2013 eller til framstilling av perlende vin.
 
 2\. Forskjæring av en druemost eller en vin som har vært gjenstand for den ønologiske framstillingsmåten nevnt del A tabell 2 nr. 11.1 i vedlegg I til denne forordningen, med en druemost eller vin som ikke har vært gjenstand for en slik framstillingsmåte, er ikke tillatt.
 
@@ -6617,7 +9269,9 @@ I tillegg til de tillatte ønologiske framstillingsmåtene og generelle bruksres
 
 2\. Enzymer og enzympreparater som brukes i godkjente ønologiske framstillings- og behandlingsmåter oppført i vedlegg I del A, skal oppfylle kravene i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)6.
 
-5 Kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) (EUT L 83 av 22.3.2012, s. 1).6 Europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258) (EUT L 354 av 31.12.2008, s. 7).
+5 Kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) (EUT L 83 av 22.3.2012, s. 1).
+
+6 Europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258) (EUT L 354 av 31.12.2008, s. 7).
 
 ### Artikkel 10. Vilkår for oppbevaring, omsetning og bruk av produkter som ikke overholder artikkel 80 i forordning (EU) nr. 1308/2013 eller denne forordningen
 
@@ -6635,7 +9289,10 @@ De tillatte behandlingsmåtene nevnt i del I avsnitt D nr. 1 i vedlegg VII til f
 
 ### Artikkel 12. Helling av vin eller druemost over gjærbunnfall, pressrester av druer eller presset «aszú»- eller «výber»-masse
 
-Helling av vin eller druemost over gjærbunnfall, pressrester av druer eller presset «aszú»- eller «výber»-masse i henhold til del II avsnitt D nr. 2 i vedlegg VIII til forordning (EU) nr. 1308/2013 skal foretas på følgende måte, i samsvar med gjeldende nasjonale bestemmelser per 1. mai 2004:«Tokaji fordítás» eller «Tokajský forditáš» skal framstilles ved å helle most eller vin over presset «aszú»- eller «výber»-masse.«Tokaji máslás» eller «Tokajský mášláš» skal framstilles ved å helle most eller vin over gjærbunnfall av «szamorodni»/«samorodné» eller «aszú»/«výber».
+Helling av vin eller druemost over gjærbunnfall, pressrester av druer eller presset «aszú»- eller «výber»-masse i henhold til del II avsnitt D nr. 2 i vedlegg VIII til forordning (EU) nr. 1308/2013 skal foretas på følgende måte, i samsvar med gjeldende nasjonale bestemmelser per 1. mai 2004:
+
+1. «Tokaji fordítás» eller «Tokajský forditáš» skal framstilles ved å helle most eller vin over presset «aszú»- eller «výber»-masse.
+2. «Tokaji máslás» eller «Tokajský mášláš» skal framstilles ved å helle most eller vin over gjærbunnfall av «szamorodni»/«samorodné» eller «aszú»/«výber».
 
 De berørte produktene må være fra samme innhøstingsår.
 
@@ -6645,7 +9302,13 @@ De berørte produktene må være fra samme innhøstingsår.
 
 2\. Dersom den relevante prosentdelen fastsatt av medlemsstatene i henhold til nr. 1 ikke nås, skal den berørte aktøren levere en mengde vin fra sin egen produksjon som tilsvarer den mengden som er nødvendig for å nå minsteinnholdet.
 
-3\. For å bestemme alkoholinnholdet i biproduktene i forhold til innholdet i den produserte vinen skal følgende faste naturlige alkoholstyrke i volumprosent i vinen anvendes i de forskjellige vindyrkingssonene:8,0 % for sone A.8,5 % for sone B.9,0 % for sone C I.9,5 % for sone C II.10,0 % for sone C III.
+3\. For å bestemme alkoholinnholdet i biproduktene i forhold til innholdet i den produserte vinen skal følgende faste naturlige alkoholstyrke i volumprosent i vinen anvendes i de forskjellige vindyrkingssonene:
+
+1. 8,0 % for sone A.
+2. 8,5 % for sone B.
+3. 9,0 % for sone C I.
+4. 9,5 % for sone C II.
+5. 10,0 % for sone C III.
 
 ### Artikkel 14. Bortskaffing av biprodukter
 
@@ -6659,7 +9322,9 @@ De berørte produktene må være fra samme innhøstingsår.
 
 5\. Medlemsstater kan beslutte at levering til destillasjon av alle eller en del av biproduktene fra vinframstilling eller annen bearbeiding av druer er obligatorisk for alle eller visse produsenter på deres territorium, på grunnlag av objektive og ikke-diskriminerende kriterier.
 
-7 Delegert kommisjonsforordning [(EU) 2018/273](eu/32018r0273) av 11. desember 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, vingårdsregisteret, følgedokumenter og sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger, meldinger og offentliggjøring av meldt informasjon, utfylling av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller og sanksjoner, endring av kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555), [(EF) nr. 606/2009](eu/32009r0606) og [(EF) nr. 607/2009](eu/32009r0607) og oppheving av kommisjonsforordning [(EF) nr. 436/2009](eu/32009r0436) og delegert kommisjonsforordning [(EU) 2015/560](eu/32015r0560) (EUT L 58 av 28.2.2018, s. 1).8 Kommisjonens gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) av 11. desember 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger og meldinger og europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller, og om oppheving av Kommisjonens gjennomføringsforordning [(EU) 2015/561](eu/32015r0561) (EUT L 58 av 28.2.2018, s. 60).
+7 Delegert kommisjonsforordning [(EU) 2018/273](eu/32018r0273) av 11. desember 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, vingårdsregisteret, følgedokumenter og sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger, meldinger og offentliggjøring av meldt informasjon, utfylling av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller og sanksjoner, endring av kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555), [(EF) nr. 606/2009](eu/32009r0606) og [(EF) nr. 607/2009](eu/32009r0607) og oppheving av kommisjonsforordning [(EF) nr. 436/2009](eu/32009r0436) og delegert kommisjonsforordning [(EU) 2015/560](eu/32015r0560) (EUT L 58 av 28.2.2018, s. 1).
+
+8 Kommisjonens gjennomføringsforordning [(EU) 2018/274](eu/32018r0274) av 11. desember 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger og meldinger og europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller, og om oppheving av Kommisjonens gjennomføringsforordning [(EU) 2015/561](eu/32015r0561) (EUT L 58 av 28.2.2018, s. 60).
 
 ### Artikkel 15. Overgangsordninger
 
@@ -6677,7 +9342,11 @@ Forordning [(EF) nr. 606/2009](eu/32009r0606) oppheves.
 
 1\. Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-2\. Den får anvendelse fra 7. desember 2019.Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 12. mars 2019.
+2\. Den får anvendelse fra 7. desember 2019.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 12. mars 2019.
 
 |  |  |
 | --- | --- |
@@ -6862,15 +9531,26 @@ Vinsyre (L(+)-) og avledede produkter
 
 **►M3**
 
-1. Vinsyre, som er tillatt til avsyrning i henhold til nr. 1.1 i tabell 2 i dette vedlegget, kan brukes bare for produkter som stammer fra vinstokksortene Elbling og Riesling, og kommer fra druer som høstes i Tyskland i vindyrkingssone A.**◄M3**
+1. Vinsyre, som er tillatt til avsyrning i henhold til nr. 1.1 i tabell 2 i dette vedlegget, kan brukes bare for produkter som stammer fra vinstokksortene Elbling og Riesling, og kommer fra druer som høstes i Tyskland i vindyrkingssone A.
+
+   **◄M3**
 2. Vinsyre, også kalt L(+)-vinsyre, som er tillatt brukt i henhold til nr. 1.1 i tabell 2 i dette vedlegget, skal være av landbruksopprinnelse og ekstrahert fra vinprodukter. Den skal også oppfylle renhetskriteriene fastsatt i direktiv (EU) nr. 231/2012.
-3. Følgende avledede produkter av vinsyre (L(+)-), hvis bruk er tillatt i henhold til de nedenstående linjene i tabell 2 i dette vedlegget, skal være av landbruksopprinnelse:Kalsiumtartrat (1.7).Kaliumtartrat (1.4).Kaliumhydrogentartrat (6.1).Metavinsyre (6.7).
+3. Følgende avledede produkter av vinsyre (L(+)-), hvis bruk er tillatt i henhold til de nedenstående linjene i tabell 2 i dette vedlegget, skal være av landbruksopprinnelse:
+
+   - Kalsiumtartrat (1.7).
+   - Kaliumtartrat (1.4).
+   - Kaliumhydrogentartrat (6.1).
+   - Metavinsyre (6.7).
 
 ###### Tillegg 2
 
 Aleppofuruharpiks
 
-1. Bruk av aleppofuruharpiks i henhold til tabell 2 nr. 11.1 i dette vedlegget er tillatt bare til produksjon av «retsina»-vin. Denne ønologiske framstillingsmåten kan gjennomføres barepå Hellas' geografiske territorium,ved bruk av druemost fra druesorter, produksjonsområder og vinframstillingsområder som angitt i de gjeldende greske bestemmelsene per 31. desember 1980,ved tilsetting av høyst 1 000 gram harpiks per hektoliter av produktet som brukes, før gjæringen, eller under gjæringen når den sanne alkoholstyrken i volumprosent ikke overstiger en tredel av den samlede alkoholstyrken i volumprosent.
+1. Bruk av aleppofuruharpiks i henhold til tabell 2 nr. 11.1 i dette vedlegget er tillatt bare til produksjon av «retsina»-vin. Denne ønologiske framstillingsmåten kan gjennomføres bare
+
+   1. på Hellas' geografiske territorium,
+   2. ved bruk av druemost fra druesorter, produksjonsområder og vinframstillingsområder som angitt i de gjeldende greske bestemmelsene per 31. desember 1980,
+   3. ved tilsetting av høyst 1 000 gram harpiks per hektoliter av produktet som brukes, før gjæringen, eller under gjæringen når den sanne alkoholstyrken i volumprosent ikke overstiger en tredel av den samlede alkoholstyrken i volumprosent.
 2. Dersom Hellas har til hensikt å endre bestemmelsene nevnt i nr. 1 bokstav b), skal Kommisjonen underrettes om dette på forhånd. Denne underretningen skal skje i samsvar med delegert forordning [(EU) nr. 2017/1183](eu/32017r1183). Dersom Kommisjonen ikke svarer innen to måneder fra mottak av en slik underretning, kan Hellas iverksette de planlagte endringene.
 
 ###### Tillegg 3
@@ -6987,10 +9667,16 @@ ANGIVELSE AV RESULTATER
 
 Formler og beregning av resultater
 
-Vekten av det organiske materialet som er ekstrahert fra ionebytterharpiksen, uttrykt i milligram per liter, finnes ved hjelp av formelen $$500 \\lgroup\\text{m1} - \\text{m2}\\rgroup$$
+Vekten av det organiske materialet som er ekstrahert fra ionebytterharpiksen, uttrykt i milligram per liter, finnes ved hjelp av formelen
+
+$$500 \\lgroup\\text{m1} - \\text{m2}\\rgroup$$
+
 der m1 og m2 er uttrykt i gram.
 
-Den korrigerte vekten av det organiske materialet som er ekstrahert fra ionebytterharpiksen, uttrykt i milligram per liter, finnes ved hjelp av formelen $$500 \\lgroup\\text{m1} - \\text{m2} - \\text{m3} + \\text{m4}\\rgroup$$
+Den korrigerte vekten av det organiske materialet som er ekstrahert fra ionebytterharpiksen, uttrykt i milligram per liter, finnes ved hjelp av formelen
+
+$$500 \\lgroup\\text{m1} - \\text{m2} - \\text{m3} + \\text{m4}\\rgroup$$
+
 der m1, m2, m3 og m4 er uttrykt i gram.
 
 7.2.
@@ -7033,13 +9719,24 @@ Membranene som er gjennomtrengelige for anioner, må være slik utformet at de t
 
 1.4.
 
-Membranene må ikke føre til store endringer i vinens fysisk-kjemiske sammensetning og sensoriske egenskaper. De skal oppfylle følgende krav:De skal være framstilt i samsvar med god framstillingspraksis av stoffer som er godkjent for produksjon av plastmaterialer som er beregnet på å komme i kontakt med næringsmidler, som oppført i vedlegg I til forordning (EU) nr. 10/2011.Brukeren av elektrodialyseutstyret skal godtgjøre at de membranene som brukes, oppfyller ovennevnte krav, og at eventuelle utskiftninger er utført av spesialisert personell.De skal ikke avgi noe stoff i mengder som utgjør en fare for menneskers helse eller påvirker næringsmidlenes smak eller lukt, og de skal oppfylle kriteriene fastsatt i forordning [(EU) nr. 10/2011](eu/32011r0010).Bruken av membranene må ikke utløse gjensidig påvirkning mellom deres og vinens bestanddeler som kan føre til at det i det behandlede produktet dannes nye forbindelser som kan være giftige.
+Membranene må ikke føre til store endringer i vinens fysisk-kjemiske sammensetning og sensoriske egenskaper. De skal oppfylle følgende krav:
+
+- De skal være framstilt i samsvar med god framstillingspraksis av stoffer som er godkjent for produksjon av plastmaterialer som er beregnet på å komme i kontakt med næringsmidler, som oppført i vedlegg I til forordning (EU) nr. 10/2011.
+- Brukeren av elektrodialyseutstyret skal godtgjøre at de membranene som brukes, oppfyller ovennevnte krav, og at eventuelle utskiftninger er utført av spesialisert personell.
+- De skal ikke avgi noe stoff i mengder som utgjør en fare for menneskers helse eller påvirker næringsmidlenes smak eller lukt, og de skal oppfylle kriteriene fastsatt i forordning [(EU) nr. 10/2011](eu/32011r0010).
+- Bruken av membranene må ikke utløse gjensidig påvirkning mellom deres og vinens bestanddeler som kan føre til at det i det behandlede produktet dannes nye forbindelser som kan være giftige.
 
 Stabiliteten i nye elektrodialysemembraner bestemmes med bruk av en testløsning med lignende fysisk-kjemiske sammensetning som vinen for å undersøke om membranen eventuelt avgir visse stoffer.
 
 Følgende forsøksmetode anbefales:
 
-Testløsningen er en løsning av alkohol og vann som er bufret til vinens pH og konduktivitet. Den skal ha følgende sammensetning:Absolutt etanol: 11 l.Kaliumhydrogentartrat: 380 g.Kaliumklorid: 60 g.Konsentrert svovelsyre: 5 ml.Destillert vann opp til 100 liter.
+Testløsningen er en løsning av alkohol og vann som er bufret til vinens pH og konduktivitet. Den skal ha følgende sammensetning:
+
+- Absolutt etanol: 11 l.
+- Kaliumhydrogentartrat: 380 g.
+- Kaliumklorid: 60 g.
+- Konsentrert svovelsyre: 5 ml.
+- Destillert vann opp til 100 liter.
 
 Denne løsningen brukes til å teste migrasjonen i en lukket krets i et membransystem for elektrodialyse som utsettes for spenning (1 volt/celle), med 50 l/m2 for anioniske og kationiske membraner, inntil løsningen er demineralisert med 50 %. Som startløsning i spillvannkretsløpet brukes kaliumkloridløsning med en konsentrasjon på 5 g/l. Migrerende stoffer bestemmes både i testløsningen og spillvannet.
 
@@ -7051,7 +9748,16 @@ De alminnelige reglene for kontroll av materialer som kommer i kontakt med næri
 
 KRAV TIL BRUKEN AV MEMBRANER
 
-Membranparet som brukes til behandlingen for å oppnå vinsteinstabilisering av vinen ved hjelp av elektrodialyse, skal være slik at følgende vilkår oppfylles:Vinens pH-verdi reduseres med høyst 0,3 pH-enheter.Innholdet av flyktig syre reduseres med mindre enn 0,12 g/l (2 meq uttrykt som eddiksyre).Behandlingen med elektrodialyse påvirker ikke de ikke-ioniske bestanddelene i vinen, særlig polyfenoler og polysakkarider.Spredningen av små molekyler som etanol reduseres og fører ikke til at vinens alkoholstyrke reduseres med mer enn 0,1 volumprosent.Membranene oppbevares og rengjøres i samsvar med godkjente metoder og med stoffer som er godkjent for bruk ved tilberedning av næringsmidler.Membranene merkes slik at det kan kontrolleres at de er vekselvis plassert i systemet.Utstyret betjenes ved hjelp av en styrings- og kontrollinnretning som tar hensyn til hver enkelt vins ustabilitet, slik at bare overskuddet av kaliumhydrogentartrat og kalsiumsalter fjernes.Behandlingen skal utføres under tilsyn av en ønolog eller kvalifisert tekniker.
+Membranparet som brukes til behandlingen for å oppnå vinsteinstabilisering av vinen ved hjelp av elektrodialyse, skal være slik at følgende vilkår oppfylles:
+
+- Vinens pH-verdi reduseres med høyst 0,3 pH-enheter.
+- Innholdet av flyktig syre reduseres med mindre enn 0,12 g/l (2 meq uttrykt som eddiksyre).
+- Behandlingen med elektrodialyse påvirker ikke de ikke-ioniske bestanddelene i vinen, særlig polyfenoler og polysakkarider.
+- Spredningen av små molekyler som etanol reduseres og fører ikke til at vinens alkoholstyrke reduseres med mer enn 0,1 volumprosent.
+- Membranene oppbevares og rengjøres i samsvar med godkjente metoder og med stoffer som er godkjent for bruk ved tilberedning av næringsmidler.
+- Membranene merkes slik at det kan kontrolleres at de er vekselvis plassert i systemet.
+- Utstyret betjenes ved hjelp av en styrings- og kontrollinnretning som tar hensyn til hver enkelt vins ustabilitet, slik at bare overskuddet av kaliumhydrogentartrat og kalsiumsalter fjernes.
+- Behandlingen skal utføres under tilsyn av en ønolog eller kvalifisert tekniker.
 
 **►M3 ◄M3**
 
@@ -7064,7 +9770,19 @@ Krav til urease
 3. Opprinnelse: *Lactobacillus fermentum*.
 4. Bruksområde: Nedbryting av urea i vin beregnet på lang modning der den opprinnelige ureakonsentrasjonen er over 1 m/l.
 5. Maksimal dose: 75 mg enzympreparat per liter behandlet vin med høyst 375 ureaseenheter per liter vin. Etter behandling skal all resterende enzymaktivitet fjernes ved filtrering av vinen (porestørrelse < 1 μm).
-6. Spesifikasjoner for kjemisk og mikrobiologisk renhet:Tap ved tørkingUnder 10 %TungmetallerUnder 30 ppmPbUnder 10 ppmAsUnder 2 ppmKoliformer i altIngen*Salmonella* spp.Ingen i en prøve på 25 gAerobe bakterier i altUnder 5 × 104 bakterier/gUrease til behandling av vin skal framstilles under tilsvarende forhold som den ureasen som Vitenskapskomiteen for næringsmidler avga uttalelse om («Opinion on the use of urease prepared from *Lactobacillus fermentum* in wine production») 10. desember 1998.
+6. Spesifikasjoner for kjemisk og mikrobiologisk renhet:
+
+   |  |  |
+   | --- | --- |
+   | Tap ved tørking | Under 10 % |
+   | Tungmetaller | Under 30 ppm |
+   | Pb | Under 10 ppm |
+   | As | Under 2 ppm |
+   | Koliformer i alt | Ingen |
+   | *Salmonella* spp. | Ingen i en prøve på 25 g |
+   | Aerobe bakterier i alt | Under 5 × 104 bakterier/g |
+
+   Urease til behandling av vin skal framstilles under tilsvarende forhold som den ureasen som Vitenskapskomiteen for næringsmidler avga uttalelse om («Opinion on the use of urease prepared from *Lactobacillus fermentum* in wine production») 10. desember 1998.
 
 ###### Tillegg 7
 
@@ -7098,7 +9816,15 @@ Krav til behandling for å endre alkoholinnholdet i vin
 
 Formålet med behandlingen for å endre alkoholinnholdet («behandlingen») er å redusere etanolinnholdet i vin, slik at smaksbalansen forbedres.
 
-Krav:Målet kan nås gjennom separasjonsteknikker som brukes enkeltvis eller i kombinasjon.Behandlet vin kan ikke ha noen organoleptiske mangler og må være egnet for direkte konsum.Fjerning av alkohol fra vinen kan ikke utføres dersom en av anrikingsprosessene fastsatt i del I i vedlegg VIII til forordning (EU) nr. 1308/2013 er blitt anvendt for noen av de vinproduktene som er brukt til å framstille den aktuelle vinen.Alkoholinnholdet kan høyst reduseres med 20 %, og den samlede alkoholstyrken i volumprosent i sluttproduktet skal være i samsvar med det som er fastsatt i del II nr. 1 andre ledd bokstav a) i vedlegg VII til forordning (EU) nr. 1308/2013.En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.**►M3 ◄M3**Medlemsstatene kan kreve at vedkommende myndigheter underrettes på forhånd om denne behandlingen.
+Krav:
+
+1. Målet kan nås gjennom separasjonsteknikker som brukes enkeltvis eller i kombinasjon.
+2. Behandlet vin kan ikke ha noen organoleptiske mangler og må være egnet for direkte konsum.
+3. Fjerning av alkohol fra vinen kan ikke utføres dersom en av anrikingsprosessene fastsatt i del I i vedlegg VIII til forordning (EU) nr. 1308/2013 er blitt anvendt for noen av de vinproduktene som er brukt til å framstille den aktuelle vinen.
+4. Alkoholinnholdet kan høyst reduseres med 20 %, og den samlede alkoholstyrken i volumprosent i sluttproduktet skal være i samsvar med det som er fastsatt i del II nr. 1 andre ledd bokstav a) i vedlegg VII til forordning (EU) nr. 1308/2013.
+5. En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.
+6. **►M3 ◄M3**
+7. Medlemsstatene kan kreve at vedkommende myndigheter underrettes på forhånd om denne behandlingen.
 
 ###### Tillegg 9
 
@@ -7106,7 +9832,19 @@ Krav:Målet kan nås gjennom separasjonsteknikker som brukes enkeltvis eller i k
 
 Formålet med behandlingen for å redusere sukkerinnholdet («behandlingen») er å fjerne sukker fra most ved bruk av membrankopling som kombinerer mikrofiltrering eller ultrafiltrering med nanofiltrering eller omvendt osmose.
 
-Krav:Behandlingen reduserer volumet avhengig av sukkermengden i sukkerløsningen som fjernes fra den opprinnelige mosten.Metodene skal bevare mostens innhold av andre bestanddeler som ikke er sukker.Reduksjonen i sukkerinnholdet i moster kan ikke kombineres med endring av alkoholinnholdet i vin som produseres av mosten.Behandlingen kan ikke kombineres med noen av anrikingsprosessene som er fastsatt i del I i vedlegg VIII til forordning (EU) nr. 1308/2013.Behandlingen skal utføres på et volum som er fastsatt ut fra det ønskede målet om reduksjon av sukkerinnholdet i mosten.Målet med første trinn er å gjøre mosten klar for neste konsentrasjonstrinn og bevare makromolekylene som er for store til å passere gjennom membranen. Dette kan foregå ved ultrafiltrering.Det permeatet som oppnås i første trinn, konsentreres deretter ved bruk av nanofiltrering eller omvendt osmose.Det opprinnelige vannet og de organiske syrene som forsvinner ved nanofiltreringen, kan tilsettes mosten på nytt etter behandling.En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De skal oppfylle kravene i OIVs internasjonale ønologiske regelverk.
+Krav:
+
+1. Behandlingen reduserer volumet avhengig av sukkermengden i sukkerløsningen som fjernes fra den opprinnelige mosten.
+2. Metodene skal bevare mostens innhold av andre bestanddeler som ikke er sukker.
+3. Reduksjonen i sukkerinnholdet i moster kan ikke kombineres med endring av alkoholinnholdet i vin som produseres av mosten.
+4. Behandlingen kan ikke kombineres med noen av anrikingsprosessene som er fastsatt i del I i vedlegg VIII til forordning (EU) nr. 1308/2013.
+5. Behandlingen skal utføres på et volum som er fastsatt ut fra det ønskede målet om reduksjon av sukkerinnholdet i mosten.
+6. Målet med første trinn er å gjøre mosten klar for neste konsentrasjonstrinn og bevare makromolekylene som er for store til å passere gjennom membranen. Dette kan foregå ved ultrafiltrering.
+7. Det permeatet som oppnås i første trinn, konsentreres deretter ved bruk av nanofiltrering eller omvendt osmose.
+
+   Det opprinnelige vannet og de organiske syrene som forsvinner ved nanofiltreringen, kan tilsettes mosten på nytt etter behandling.
+8. En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.
+9. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De skal oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
 ###### Tillegg 10
 
@@ -7114,41 +9852,208 @@ Krav ved behandling av vin med membranteknologi kombinert med aktivt karbon for 
 
 Målet med behandlingen er å redusere innholdet av 4-etylfenol og 4-etylguajakol av mikrobiologisk opprinnelse, som utgjør en organoleptisk mangel og dekker over vinens aromaer.
 
-Krav:En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.**►M3 ◄M3**De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser for gjennomføring av disse. De skal oppfylle kravene i OIVs internasjonale ønologiske regelverk.
+Krav:
+
+1. En ønolog eller en kvalifisert tekniker har ansvaret for å gjennomføre behandlingen.
+2. **►M3 ◄M3**
+3. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser for gjennomføring av disse. De skal oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
 ### DEL B
 GRENSEVERDIER FOR SVOVELDIOKSID I VIN
 
 A. SVOVELDIOKSIDINNHOLD I VIN
 
-1. Grenseverdien for svoveldioksid i annen vin enn musserende vin og sterkvin kan ved frigivelsen til direkte konsum ikke være høyere enn150 milligram per liter for rødviner,200 milligram per liter for hvitviner og roséviner.
-2. Med forbehold for nr. 1 bokstav a) og b) heves grenseverdien for svoveldioksid i vin med et sukkerinnhold, uttrykt som summen av glukose og fruktose, på minst fem gram per liter til200 milligram per liter for rødviner,250 milligram per liter for hvitviner og roséviner,300 milligram per liter forviner som har rett til betegnelsen «Spätlese» i henhold til EU-bestemmelsene,hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Bordeaux Supérieur, Graves de Vayres, Côtes de Bordeaux-Saint-Macaire for viner betegnet som «moelleux», Premières Côtes de Bordeaux, Côtes de Bergerac, Côtes de Montravel, Gaillac etterfulgt av betegnelsen «doux» eller «vendanges tardives», Rosette og Savennières,hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Allela, Navarra, Penedès, Tarragona og Valencia, og viner som har rett til en beskyttet opprinnelsesbetegnelse fra Comunidad Autónoma del País Vasco og beskrives som «vendimia tardia»,søte viner som har rett til den beskyttede opprinnelsesbetegnelsen «Binissalem-Mallorca»,viner framstilt av overmodne druer og av rosindruer med rett til den beskyttede opprinnelsesbetegnelsen «Málaga» med et restsukkerinnhold på minst 45 g/l,viner med opprinnelse i Det forente kongerike framstilt i samsvar med britisk lovgivning, når sukkerinnholdet er høyere enn 45 gram per liter,viner fra Ungarn som har den beskyttede opprinnelsesbetegnelsen «Tokaji», og som beskrives i samsvar med ungarske bestemmelser som «Tokaji édes szamorodni» eller «Tokaji szàraz szamorodni»,viner som har rett til en av de beskyttede opprinnelsesbetegnelsene Loazzolo, Alto Adige og Trentino og beskrives med uttrykket «passito» eller «vendemmia tardiva»,viner som har rett til den beskyttede opprinnelsesbetegnelsen «Colli orientali del Friuli» etterfulgt av uttrykket «Picolit»,viner som har rett til de beskyttede opprinnelsesbetegnelsene «Moscato di Pantelleria naturale» eller «Moscato di Pantelleria»,viner fra Tsjekkia som har rett til betegnelsen «pozdní sběr»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «neskorý zber», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajské samorodné suché» eller «Tokajské samorodné sladké»,viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – pozna trgatev»,►**M3**hvitviner som har følgende beskyttede geografiske betegnelser, med en total alkoholstyrke på mer enn 15 volumprosent og et sukkerinnhold på mer enn 45 gram per liter:Franche-ComtéCoteaux de l’AuxoisSaône-et-LoireArdècheCollines rhodaniennesComté TolosanCôtes de GascogneGersCôtes du LotCôtes du TarnVins de la CorrèzeIle de BeautéPays d’OcCôtes de ThauVal de LoireMéditerranéeComtés rhodaniensCôtes de ThongueCôte VermeilleAgenaisLandesVins des AllobrogesVar,◄**M3**søte viner med opprinnelse i Hellas som har en sann alkoholstyrke på minst 15 volumprosent og et sukkerinnhold på minst 45 gram per liter, og som har rett til en av følgende beskyttede geografiske betegnelser:Άγιo Όρoς (Mount Athos – Holy Mount Athos – Holy Mountain Athos – Mont Athos – Άγιo Όρoς Άθως),Aργoλίδα (Argolida),Aχαΐα (Achaia),Eπανoμή (Epanomi),Κυκλάδες (Cyclades),Λακωνία (Lakonia),Πιερία (Pieria),Tύρναβoς (Tyrnavos),Φλώρινα (Florina),søte viner med opprinnelse i Kypros med en sann alkoholstyrke på høyst 15 volumprosent og et sukkerinnhold på minst 45 gram per liter og med rett til den beskyttede opprinnelsesbetegnelsen Κoυμανδαρία (Commandaria),søte viner med opprinnelse i Kypros som er framstilt av overmodne druer eller av rosindruer med en sann alkoholstyrke på 15 volumprosent eller høyere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til en av følgende beskyttede geografiske betegnelser:Toπικóς Oίνoς Λεμεσóς (Regional wine of Lemesos),Toπικóς Oίνoς Πάφoς (Regional wine of Pafos),Toπικóς Oίνoς Λάρνακα (Regional wine of Larnaka),Toπικóς Oίνoς Λευκωσία (Regional wine of Lefkosia),viner med opprinnelse i Malta som har en total alkoholstyrke på minst på 13,5 volumprosent og et sukkerinnhold på minst 45 g/l, og som har rett til de beskyttede opprinnelsesbetegnelsene «Malta» og «Gozo»,viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med betegnelsen «kvalitetno vino KZP – desertno vino» eller «vrhunsko vino KZP – desertno vino», og der sukkerinnholdet er høyere enn 50 g/l, eller «vrhunsko vino KZP – kasna berba»,viner som er framstilt av rosindruer og har den beskyttede opprinnelsesbetegnelsen «Ponikve», og der sukkerinnholdet er over 50 g/l,viner med den beskyttede opprinnelsesbetegnelsen «Muškat momjanski/Moscato di Momiano» som beskrives med betegnelsen «kvalitetno vino KZP – desertno vino» eller «vrhunsko vino KZP – desertno vino», der sukkerinnholdet er over 50 g/l,350 milligram per liter forviner som har rett til betegnelsen «Auslese» i henhold til EU-bestemmelsene,rumenske hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Murfatlar, Cotnari, Târnave, Pietroasa eller Valea Călugărească,viner fra Tsjekkia som har rett til betegnelsen «výběr z hroznů»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «výber z hrozna», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský másláš» eller «Tokajský forditáš»,viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – izbor»,viner som har rett til den tradisjonelle betegnelsen «Késői szüretelésű bor»,viner fra Italia av typen «Aleatico» som har rett til den beskyttede opprinnelsesbetegnelsen «Pergola» og den tradisjonelle betegnelsen «passito»,viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino KZP – izborna berba»,viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Válogatott szüretelésű bor» eller «Főbor»,400 milligram per liter forviner som har rett til betegnelsen «Beerenauslese», «Ausbruch», «Ausbruchwein», «Trockenbeerenauslese», «Strohwein», «Schilfwein» eller «Eiswein» i henhold til EU-bestemmelsene,hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Sauternes, Barsac, Cadillac, Cérons, Loupiac, Sainte-Croix-du-Mont, Monbazillac, Bonnezeaux, Quarts de Chaume, Coteaux du Layon, Coteaux de l’Aubance, Graves Supérieures, Sainte-Foy Bordeaux, Haut-Montravel, Saussignac, Jurançon, med mindre dette er etterfulgt av uttrykket «sec», Anjou-Coteaux de la Loire, Coteaux du Layon etterfulgt av navnet på opprinnelseskommunen, Chaume, Coteaux de Saumur, Coteaux du Layon etterfulgt av uttrykket «premier cru» og supplert med den geografiske betegnelsen Chaume, Pacherenc du Vic Bilh, med mindre dette er etterfulgt av uttrykket «sec», Alsace og Alsace grand cru etterfulgt av uttrykket «vendanges tardives» eller «sélection de grains nobles»,søte viner med opprinnelse i Hellas framstilt av overmodne druer eller av rosindruer med et restsukkerinnhold, uttrykt som sukker, på minst 45 gram per liter og med rett til en av de beskyttede opprinnelsesbetegnelseneΔαφνές (Dafnes),Λήμνoς (Limnos),Malvasia Πάρoς (Malvasia Paros),Malvasia Σητείας (Malvasia Sitia),Malvasia Xάνδακας – Candia,Moνεμβασία- Malvasia (Monemvasia – Malvasia),Moσχάτoς Κεφαλληνίας (Muscat of Kefalonia – Muscat de Céphalonie),Moσχάτoς Λήμνoυ (Muscat of Limnos),Moσχάτo Πατρών (Muscat of Patra),Moσχάτoς Pίoυ Πάτρας (Muscat of Rio Patra),Moσχάτoς Póδoυ (Muscat of Rodos),Nεμέα (Nemea),Σάμoς (Samos),Σαντoρίνη (Santorini),Σητεία (Sitia),og søte viner med opprinnelse i Hellas framstilt av overmodne druer eller rosindruer og med rett til en av de beskyttede geografiske betegnelseneΆγιo Όρoς (Mount Athos – Holy Mount Athos – Holy Mountain Athos – Mont Athos – Άγιo Όρoς Άθως),Aιγαίo Πέλαγoς (Aegean Sea – Aigaio Pelagos),Δράμα (Drama),Ηράκλειo (Iraklio),Καστoριά (Kastoria),Κρήτη (Crete),Mακεδoνία (Macedonia),Pέθυμνo (Rethimno),Σιάτιστα (Siatista),Στερεά Eλλάδα (Sterea Ellada),Xανιά (Chania),viner fra Tsjekkia som har rett til betegnelsen «výběr z bobulí», «výběr z cibéb», «ledové víno» eller «slámové víno»,viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «bobuľový výber», «hrozienkový výber», «cibébový výber», «ľadové víno» eller «slamové víno», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský výber», «Tokajská esencia» eller «Tokajská výberová esencia»,viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Tokaji máslás», «Tokaji fordítás», «Tokaji aszúeszencia», «Tokaji eszencia», «Tokaji aszú» eller «Töppedt szőlőből készült bor» eller «Jégbor»,viner som har rett til den beskyttede opprinnelsesbetegnelsen «Albana di Romagna» og beskrives med uttrykket «passito»,luxembourgske viner som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vendanges tardives», «vin de glace» eller «vin de paille»,viner fra Portugal som har rett til en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse samt angivelsen «colheita tardia»,►**M3**viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – ledeno vino», «vrhunsko vino ZGP – suhi jagodni izbor» eller «vrhunsko vino ZGP – slamno vino (vino iz sušenega grozdja)»,◄**M3**viner med opprinnelse i Canada som har rett til betegnelsen «Icewine»,viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino KZP – izborna berba bobica», «vrhunsko vino KZP – izborna berba prosušenih bobica» eller «vrhunsko vino KZP – ledeno vino».
+1. Grenseverdien for svoveldioksid i annen vin enn musserende vin og sterkvin kan ved frigivelsen til direkte konsum ikke være høyere enn
+
+   1. 150 milligram per liter for rødviner,
+   2. 200 milligram per liter for hvitviner og roséviner.
+2. Med forbehold for nr. 1 bokstav a) og b) heves grenseverdien for svoveldioksid i vin med et sukkerinnhold, uttrykt som summen av glukose og fruktose, på minst fem gram per liter til
+
+   1. 200 milligram per liter for rødviner,
+   2. 250 milligram per liter for hvitviner og roséviner,
+   3. 300 milligram per liter for
+
+      - viner som har rett til betegnelsen «Spätlese» i henhold til EU-bestemmelsene,
+      - hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Bordeaux Supérieur, Graves de Vayres, Côtes de Bordeaux-Saint-Macaire for viner betegnet som «moelleux», Premières Côtes de Bordeaux, Côtes de Bergerac, Côtes de Montravel, Gaillac etterfulgt av betegnelsen «doux» eller «vendanges tardives», Rosette og Savennières,
+      - hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Allela, Navarra, Penedès, Tarragona og Valencia, og viner som har rett til en beskyttet opprinnelsesbetegnelse fra Comunidad Autónoma del País Vasco og beskrives som «vendimia tardia»,
+      - søte viner som har rett til den beskyttede opprinnelsesbetegnelsen «Binissalem-Mallorca»,
+      - viner framstilt av overmodne druer og av rosindruer med rett til den beskyttede opprinnelsesbetegnelsen «Málaga» med et restsukkerinnhold på minst 45 g/l,
+      - viner med opprinnelse i Det forente kongerike framstilt i samsvar med britisk lovgivning, når sukkerinnholdet er høyere enn 45 gram per liter,
+      - viner fra Ungarn som har den beskyttede opprinnelsesbetegnelsen «Tokaji», og som beskrives i samsvar med ungarske bestemmelser som «Tokaji édes szamorodni» eller «Tokaji szàraz szamorodni»,
+      - viner som har rett til en av de beskyttede opprinnelsesbetegnelsene Loazzolo, Alto Adige og Trentino og beskrives med uttrykket «passito» eller «vendemmia tardiva»,
+      - viner som har rett til den beskyttede opprinnelsesbetegnelsen «Colli orientali del Friuli» etterfulgt av uttrykket «Picolit»,
+      - viner som har rett til de beskyttede opprinnelsesbetegnelsene «Moscato di Pantelleria naturale» eller «Moscato di Pantelleria»,
+      - viner fra Tsjekkia som har rett til betegnelsen «pozdní sběr»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «neskorý zber», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajské samorodné suché» eller «Tokajské samorodné sladké»,
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – pozna trgatev»,
+
+        ►**M3**
+      - hvitviner som har følgende beskyttede geografiske betegnelser, med en total alkoholstyrke på mer enn 15 volumprosent og et sukkerinnhold på mer enn 45 gram per liter:
+
+        - Franche-Comté
+        - Coteaux de l’Auxois
+        - Saône-et-Loire
+        - Ardèche
+        - Collines rhodaniennes
+        - Comté Tolosan
+        - Côtes de Gascogne
+        - Gers
+        - Côtes du Lot
+        - Côtes du Tarn
+        - Vins de la Corrèze
+        - Ile de Beauté
+        - Pays d’Oc
+        - Côtes de Thau
+        - Val de Loire
+        - Méditerranée
+        - Comtés rhodaniens
+        - Côtes de Thongue
+        - Côte Vermeille
+        - Agenais
+        - Landes
+        - Vins des Allobroges
+        - Var,
+
+        ◄**M3**
+      - søte viner med opprinnelse i Hellas som har en sann alkoholstyrke på minst 15 volumprosent og et sukkerinnhold på minst 45 gram per liter, og som har rett til en av følgende beskyttede geografiske betegnelser:
+
+        - Άγιo Όρoς (Mount Athos – Holy Mount Athos – Holy Mountain Athos – Mont Athos – Άγιo Όρoς Άθως),
+        - Aργoλίδα (Argolida),
+        - Aχαΐα (Achaia),
+        - Eπανoμή (Epanomi),
+        - Κυκλάδες (Cyclades),
+        - Λακωνία (Lakonia),
+        - Πιερία (Pieria),
+        - Tύρναβoς (Tyrnavos),
+        - Φλώρινα (Florina),
+      - søte viner med opprinnelse i Kypros med en sann alkoholstyrke på høyst 15 volumprosent og et sukkerinnhold på minst 45 gram per liter og med rett til den beskyttede opprinnelsesbetegnelsen Κoυμανδαρία (Commandaria),
+      - søte viner med opprinnelse i Kypros som er framstilt av overmodne druer eller av rosindruer med en sann alkoholstyrke på 15 volumprosent eller høyere og et sukkerinnhold på 45 gram per liter eller mer, og som har rett til en av følgende beskyttede geografiske betegnelser:
+
+        - Toπικóς Oίνoς Λεμεσóς (Regional wine of Lemesos),
+        - Toπικóς Oίνoς Πάφoς (Regional wine of Pafos),
+        - Toπικóς Oίνoς Λάρνακα (Regional wine of Larnaka),
+        - Toπικóς Oίνoς Λευκωσία (Regional wine of Lefkosia),
+      - viner med opprinnelse i Malta som har en total alkoholstyrke på minst på 13,5 volumprosent og et sukkerinnhold på minst 45 g/l, og som har rett til de beskyttede opprinnelsesbetegnelsene «Malta» og «Gozo»,
+      - viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med betegnelsen «kvalitetno vino KZP – desertno vino» eller «vrhunsko vino KZP – desertno vino», og der sukkerinnholdet er høyere enn 50 g/l, eller «vrhunsko vino KZP – kasna berba»,
+      - viner som er framstilt av rosindruer og har den beskyttede opprinnelsesbetegnelsen «Ponikve», og der sukkerinnholdet er over 50 g/l,
+      - viner med den beskyttede opprinnelsesbetegnelsen «Muškat momjanski/Moscato di Momiano» som beskrives med betegnelsen «kvalitetno vino KZP – desertno vino» eller «vrhunsko vino KZP – desertno vino», der sukkerinnholdet er over 50 g/l,
+   4. 350 milligram per liter for
+
+      - viner som har rett til betegnelsen «Auslese» i henhold til EU-bestemmelsene,
+      - rumenske hvitviner som har rett til de beskyttede opprinnelsesbetegnelsene Murfatlar, Cotnari, Târnave, Pietroasa eller Valea Călugărească,
+      - viner fra Tsjekkia som har rett til betegnelsen «výběr z hroznů»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «výber z hrozna», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský másláš» eller «Tokajský forditáš»,
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – izbor»,
+      - viner som har rett til den tradisjonelle betegnelsen «Késői szüretelésű bor»,
+      - viner fra Italia av typen «Aleatico» som har rett til den beskyttede opprinnelsesbetegnelsen «Pergola» og den tradisjonelle betegnelsen «passito»,
+      - viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino KZP – izborna berba»,
+      - viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Válogatott szüretelésű bor» eller «Főbor»,
+   5. 400 milligram per liter for
+
+      - viner som har rett til betegnelsen «Beerenauslese», «Ausbruch», «Ausbruchwein», «Trockenbeerenauslese», «Strohwein», «Schilfwein» eller «Eiswein» i henhold til EU-bestemmelsene,
+      - hvitviner som har rett til en av de beskyttede opprinnelsesbetegnelsene Sauternes, Barsac, Cadillac, Cérons, Loupiac, Sainte-Croix-du-Mont, Monbazillac, Bonnezeaux, Quarts de Chaume, Coteaux du Layon, Coteaux de l’Aubance, Graves Supérieures, Sainte-Foy Bordeaux, Haut-Montravel, Saussignac, Jurançon, med mindre dette er etterfulgt av uttrykket «sec», Anjou-Coteaux de la Loire, Coteaux du Layon etterfulgt av navnet på opprinnelseskommunen, Chaume, Coteaux de Saumur, Coteaux du Layon etterfulgt av uttrykket «premier cru» og supplert med den geografiske betegnelsen Chaume, Pacherenc du Vic Bilh, med mindre dette er etterfulgt av uttrykket «sec», Alsace og Alsace grand cru etterfulgt av uttrykket «vendanges tardives» eller «sélection de grains nobles»,
+      - søte viner med opprinnelse i Hellas framstilt av overmodne druer eller av rosindruer med et restsukkerinnhold, uttrykt som sukker, på minst 45 gram per liter og med rett til en av de beskyttede opprinnelsesbetegnelsene
+
+        - Δαφνές (Dafnes),
+        - Λήμνoς (Limnos),
+        - Malvasia Πάρoς (Malvasia Paros),
+        - Malvasia Σητείας (Malvasia Sitia),
+        - Malvasia Xάνδακας – Candia,
+        - Moνεμβασία- Malvasia (Monemvasia – Malvasia),
+        - Moσχάτoς Κεφαλληνίας (Muscat of Kefalonia – Muscat de Céphalonie),
+        - Moσχάτoς Λήμνoυ (Muscat of Limnos),
+        - Moσχάτo Πατρών (Muscat of Patra),
+        - Moσχάτoς Pίoυ Πάτρας (Muscat of Rio Patra),
+        - Moσχάτoς Póδoυ (Muscat of Rodos),
+        - Nεμέα (Nemea),
+        - Σάμoς (Samos),
+        - Σαντoρίνη (Santorini),
+        - Σητεία (Sitia),
+
+        og søte viner med opprinnelse i Hellas framstilt av overmodne druer eller rosindruer og med rett til en av de beskyttede geografiske betegnelsene
+
+        - Άγιo Όρoς (Mount Athos – Holy Mount Athos – Holy Mountain Athos – Mont Athos – Άγιo Όρoς Άθως),
+        - Aιγαίo Πέλαγoς (Aegean Sea – Aigaio Pelagos),
+        - Δράμα (Drama),
+        - Ηράκλειo (Iraklio),
+        - Καστoριά (Kastoria),
+        - Κρήτη (Crete),
+        - Mακεδoνία (Macedonia),
+        - Pέθυμνo (Rethimno),
+        - Σιάτιστα (Siatista),
+        - Στερεά Eλλάδα (Sterea Ellada),
+        - Xανιά (Chania),
+      - viner fra Tsjekkia som har rett til betegnelsen «výběr z bobulí», «výběr z cibéb», «ledové víno» eller «slámové víno»,
+      - viner fra Slovakia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «bobuľový výber», «hrozienkový výber», «cibébový výber», «ľadové víno» eller «slamové víno», og slovakiske «Tokaj»-viner som har rett til den beskyttede opprinnelsesbetegnelsen «Tokajský výber», «Tokajská esencia» eller «Tokajská výberová esencia»,
+      - viner fra Ungarn som har rett til en beskyttet opprinnelsesbetegnelse og beskrives i samsvar med ungarske bestemmelser som «Tokaji máslás», «Tokaji fordítás», «Tokaji aszúeszencia», «Tokaji eszencia», «Tokaji aszú» eller «Töppedt szőlőből készült bor» eller «Jégbor»,
+      - viner som har rett til den beskyttede opprinnelsesbetegnelsen «Albana di Romagna» og beskrives med uttrykket «passito»,
+      - luxembourgske viner som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vendanges tardives», «vin de glace» eller «vin de paille»,
+      - viner fra Portugal som har rett til en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse samt angivelsen «colheita tardia»,
+
+        ►**M3**
+      - viner fra Slovenia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino ZGP – ledeno vino», «vrhunsko vino ZGP – suhi jagodni izbor» eller «vrhunsko vino ZGP – slamno vino (vino iz sušenega grozdja)»,
+
+        ◄**M3**
+      - viner med opprinnelse i Canada som har rett til betegnelsen «Icewine»,
+      - viner fra Kroatia som har rett til en beskyttet opprinnelsesbetegnelse og beskrives med uttrykket «vrhunsko vino KZP – izborna berba bobica», «vrhunsko vino KZP – izborna berba prosušenih bobica» eller «vrhunsko vino KZP – ledeno vino».
 3. Listene over viner som har en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse som angitt i nr. 2 bokstav c), d) og e), kan endres dersom produksjonsvilkårene for de berørte vinene endres eller opprinnelsesbetegnelsen eller den geografiske betegnelsen endres. Medlemsstatene skal sende en anmodning om unntak til Kommisjonen i samsvar med delegert kommisjonsforordning [(EU) 2017/1183](eu/32017r1183) og oppgi alle nødvendige tekniske opplysninger for de berørte vinene, herunder produktspesifikasjoner og årsproduksjon.
 4. I år da klimaforholdene unntaksvis gjør det nødvendig, kan medlemsstatene for viner som produseres i visse vindyrkingsområder på deres territorium, tillate at svoveldioksidinnholdet økes med høyst 50 mg/l for viner med et maksimalt totalt svoveldioksidinnhold på under 300 mg/l. Medlemsstatene skal innen en måned etter at unntak er innvilget, underrette Kommisjonen om det i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) ved å angi året, vindyrkingsområdene og vinene som er berørt, og framlegge dokumentasjon på at klimaforholdene gjør økningen nødvendig. Kommisjonen skal så offentliggjøre unntaket på sitt nettsted.
 5. Medlemsstatene kan fastsette mer begrensende bestemmelser for vin framstilt på deres eget territorium.
 
 B. SVOVELDIOKSIDINNHOLD I STERKVIN
 
-Det totale innholdet av svoveldioksid i sterkvin kan ved frigivelsen til direkte konsum ikke være høyere enn150 milligram per liter når sukkerinnholdet er under 5 gram per liter,200 milligram per liter når sukkerinnholdet er 5 gram per liter eller mer.
+Det totale innholdet av svoveldioksid i sterkvin kan ved frigivelsen til direkte konsum ikke være høyere enn
+
+1. 150 milligram per liter når sukkerinnholdet er under 5 gram per liter,
+2. 200 milligram per liter når sukkerinnholdet er 5 gram per liter eller mer.
 
 C. SVOVELDIOKSIDINNHOLD I MUSSERENDE VIN
 
-1. Det totale innholdet av svoveldioksid i musserende vin kan ved frigivelsen til direkte konsum ikke være høyere enn185 milligram per liter for alle kategorier av musserende kvalitetsviner, og235 milligram per liter for andre musserende viner.
+1. Det totale innholdet av svoveldioksid i musserende vin kan ved frigivelsen til direkte konsum ikke være høyere enn
+
+   1. 185 milligram per liter for alle kategorier av musserende kvalitetsviner, og
+   2. 235 milligram per liter for andre musserende viner.
 2. Når klimaforholdene i visse vindyrkingsområder i Unionen gjør det nødvendig, kan de berørte medlemsstatene tillate at det totale svoveldioksidinnholdet økes med høyst 40 mg/l for de musserende vinene som er nevnt i nr. 1 bokstav a) og b) og framstilt på deres territorium, forutsatt at vinene som omfattes av denne godkjenningen, ikke sendes ut fra den berørte medlemsstaten.
 
 ### DEL C
 GRENSEVERDIER FOR FLYKTIGE SYRER I VIN
 
-1. Innholdet av flyktige syrer kan ikke være høyere enn18 milliekvivalenter per liter for delvis gjæret druemost,18 milliekvivalenter per liter for hvitviner og roséviner, eller20 milliekvivalenter per liter for rødviner.
-2. Mengdene nevnt i nr. 1 får anvendelse forprodukter som er framstilt av druer høstet i Unionen, i produksjonsleddet og i alle omsetningsledd,delvis gjæret druemost og viner med opprinnelse i tredjestater, i alle ledd etter innførsel til Unionens geografiske territorium.
-3. Medlemsstatene kan gi unntak fra grenseverdiene angitt i nr. 1for visse viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelsedersom de har vært modnet i minst to år, ellerdersom de er framstilt etter særlige metoder,for viner med en total alkoholstyrke på minst 13 volumprosent.Medlemsstatene skal underrette Kommisjonen om disse unntakene i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) innen en måned etter at unntaket er innvilget. Kommisjonen skal så offentliggjøre unntaket på sitt nettsted.
+1. Innholdet av flyktige syrer kan ikke være høyere enn
+
+   1. 18 milliekvivalenter per liter for delvis gjæret druemost,
+   2. 18 milliekvivalenter per liter for hvitviner og roséviner, eller
+   3. 20 milliekvivalenter per liter for rødviner.
+2. Mengdene nevnt i nr. 1 får anvendelse for
+
+   1. produkter som er framstilt av druer høstet i Unionen, i produksjonsleddet og i alle omsetningsledd,
+   2. delvis gjæret druemost og viner med opprinnelse i tredjestater, i alle ledd etter innførsel til Unionens geografiske territorium.
+3. Medlemsstatene kan gi unntak fra grenseverdiene angitt i nr. 1
+
+   1. for visse viner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse
+
+      - dersom de har vært modnet i minst to år, eller
+      - dersom de er framstilt etter særlige metoder,
+   2. for viner med en total alkoholstyrke på minst 13 volumprosent.
+
+   Medlemsstatene skal underrette Kommisjonen om disse unntakene i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) innen en måned etter at unntaket er innvilget. Kommisjonen skal så offentliggjøre unntaket på sitt nettsted.
 
 ### DEL D
 GRENSEVERDIER OG VILKÅR FOR SØTNING AV VIN
 
-1. Søtning av vin er tillatt bare ved hjelp av ett eller flere av følgende produkter:Druemost.Konsentrert druemost.Rektifisert konsentrert druemost.Den berørte vinens totale alkoholstyrke kan ikke økes med mer enn 4 volumprosent.
+1. Søtning av vin er tillatt bare ved hjelp av ett eller flere av følgende produkter:
+
+   1. Druemost.
+   2. Konsentrert druemost.
+   3. Rektifisert konsentrert druemost.
+
+   Den berørte vinens totale alkoholstyrke kan ikke økes med mer enn 4 volumprosent.
 2. Søtning av importerte viner som er beregnet på direkte konsum og har en geografisk betegnelse, er forbudt på Unionens territorium. For søtning av andre importerte viner gjelder de samme vilkårene som for viner framstilt i Unionen.
-3. Søtning av vin som har en beskyttet opprinnelsesbetegnelse, kan tillates av en medlemsstat bare dersom den utføresi samsvar med vilkårene og grenseverdiene fastsatt i dette vedlegget,i samme område som vinen ble framstilt i, eller i umiddelbar nærhet.Druemost og konsentrert druemost som nevnt i nr. 1 må ha opprinnelse i det samme området som den vinen den brukes til søtning av.
+3. Søtning av vin som har en beskyttet opprinnelsesbetegnelse, kan tillates av en medlemsstat bare dersom den utføres
+
+   1. i samsvar med vilkårene og grenseverdiene fastsatt i dette vedlegget,
+   2. i samme område som vinen ble framstilt i, eller i umiddelbar nærhet.
+
+   Druemost og konsentrert druemost som nevnt i nr. 1 må ha opprinnelse i det samme området som den vinen den brukes til søtning av.
 4. Søtning av vin er tillatt bare i framstillings- og engrosleddet.
 
 ### VEDLEGG II
@@ -7156,36 +10061,115 @@ TILLATTE ØNOLOGISKE FRAMSTILLINGSMÅTER OG RESTRIKSJONER SOM GJELDER FOR MUSSER
 
 A. **Musserende vin**
 
-1. I dette punktet og i avsnitt B og C i dette vedlegget menes med«sukker- og gjærløsning» det produktet som tilsettes til vinblandingen for å framkalle annengangsgjæring,«etterfyllingsvæske for søtningsgrad» det produktet som tilsettes til musserende viner for å gi dem spesielle smakskvaliteter.
-2. Etterfyllingsvæsken for søtningsgrad kan bare inneholdesukrose,druemost,delvis gjæret druemost,konsentrert druemost,rektifisert konsentrert druemost,vin elleren blanding av disse,med eventuell tilsetning av vindestillat.
+1. I dette punktet og i avsnitt B og C i dette vedlegget menes med
+
+   1. «sukker- og gjærløsning» det produktet som tilsettes til vinblandingen for å framkalle annengangsgjæring,
+   2. «etterfyllingsvæske for søtningsgrad» det produktet som tilsettes til musserende viner for å gi dem spesielle smakskvaliteter.
+2. Etterfyllingsvæsken for søtningsgrad kan bare inneholde
+
+   - sukrose,
+   - druemost,
+   - delvis gjæret druemost,
+   - konsentrert druemost,
+   - rektifisert konsentrert druemost,
+   - vin eller
+   - en blanding av disse,
+
+   med eventuell tilsetning av vindestillat.
 3. Med forbehold for den anrikingen av bestanddelene i vinblandingen som er tillatt i henhold til forordning [(EU) nr. 1308/2013](eu/32013r1308), er all anriking av vinblandingen forbudt.
-4. Hver medlemsstat kan imidlertid, for områder og sorter der det er teknisk berettiget, tillate anriking av vinblandingen på det stedet der de musserende vinene framstilles, forutsatt atingen av bestanddelene i vinblandingen er blitt anriket tidligere,nevnte bestanddeler stammer utelukkende fra druer høstet på medlemsstatens territorium,anrikingen utføres i én enkelt prosess,følgende grenser ikke overskrides:3 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone A,2 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone B,1,5 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone C,metoden som brukes, består i tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost.
+4. Hver medlemsstat kan imidlertid, for områder og sorter der det er teknisk berettiget, tillate anriking av vinblandingen på det stedet der de musserende vinene framstilles, forutsatt at
+
+   1. ingen av bestanddelene i vinblandingen er blitt anriket tidligere,
+   2. nevnte bestanddeler stammer utelukkende fra druer høstet på medlemsstatens territorium,
+   3. anrikingen utføres i én enkelt prosess,
+   4. følgende grenser ikke overskrides:
+
+      1. 3 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone A,
+      2. 2 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone B,
+      3. 1,5 volumprosent for en vinblanding bestående av bestanddeler fra vindyrkingssone C,
+   5. metoden som brukes, består i tilsetting av sukrose, konsentrert druemost eller rektifisert konsentrert druemost.
 5. Tilsetting av sukker- og gjærløsning og etterfyllingsvæske for søtningsgrad anses verken som anriking eller som søtning. Tilsetting av sukker- og gjærløsning må ikke forårsake en økning i vinblandingens totale alkoholstyrke i volumprosent på mer enn 1,5 volumprosent. Denne økningen måles ved å beregne forskjellen mellom vinblandingens totale alkoholstyrke i volumprosent og den musserende vinens totale alkoholstyrke i volumprosent før tilsetting av etterfyllingsvæske for søtningsgrad.
 6. Etterfyllingsvæsken for søtningsgrad skal tilsettes på en slik måte at de musserende viners sanne alkoholstyrke ikke økes med mer enn 0,5 volumprosent.
 7. Søtning av vinblandingen og dens bestanddeler er forbudt.
 8. I tillegg til eventuell syrning eller avsyrning av bestanddelene i vinblandingen i samsvar med forordning [(EU) nr. 1308/2013](eu/32013r1308) kan vinblandingen syrnes eller avsyrnes. Syrning og avsyrning av vinblandingen skal gjensidig utelukke hverandre. Syrning kan bare utføres opp til en øvre grense på 1,5 gram per liter, uttrykt som vinsyre, dvs. 20 milliekvivalenter per liter.
 9. I år med uvanlige klimatiske forhold kan grenseverdien på 1,5 gram per liter, eller 20 milliekvivalenter per liter, heves til 2,5 gram per liter, eller 34 milliekvivalenter per liter, forutsatt at det naturlige syreinnholdet i produktene ikke er mindre enn 3 gram per liter, uttrykt som vinsyre, eller 40 milliekvivalenter per liter.
-10. Innholdet av karbondioksid i musserende viner kan bare være et resultat av alkoholgjæringen i den vinblandingen som vinen er framstilt av.Gjæringen kan, med mindre den skal omdanne druer, druemost eller delvis gjæret druemost direkte til musserende vin, bare være et resultat av tilsetting av sukker- og gjærløsning. Den kan bare finne sted på flasker eller lukkede tanker.Bruk av karbondioksid i prosessen med omstikking ved mottrykk er tillatt under tilsyn og forutsatt at den uunngåelige gassutvekslingen med karbondioksid fra alkoholgjæringen i vinblandingen ikke øker trykket av karbondioksid i musserende viner.
-11. For andre musserende viner enn musserende viner med beskyttet opprinnelsesbetegnelse gjelder følgende:Sukker- og gjærløsningen beregnet på framstilling av musserende viner kan bare inneholdedruemost,delvis gjæret druemost,konsentrert druemost,rektifisert konsentrert druemost, ellersukrose og vin.Sann alkoholstyrke, herunder alkoholen i den etterfyllingsvæsken for søtningsgrad som eventuelt er tilsatt, skal være på minst 9,5 volumprosent.
+10. Innholdet av karbondioksid i musserende viner kan bare være et resultat av alkoholgjæringen i den vinblandingen som vinen er framstilt av.
+
+    Gjæringen kan, med mindre den skal omdanne druer, druemost eller delvis gjæret druemost direkte til musserende vin, bare være et resultat av tilsetting av sukker- og gjærløsning. Den kan bare finne sted på flasker eller lukkede tanker.
+
+    Bruk av karbondioksid i prosessen med omstikking ved mottrykk er tillatt under tilsyn og forutsatt at den uunngåelige gassutvekslingen med karbondioksid fra alkoholgjæringen i vinblandingen ikke øker trykket av karbondioksid i musserende viner.
+11. For andre musserende viner enn musserende viner med beskyttet opprinnelsesbetegnelse gjelder følgende:
+
+    1. Sukker- og gjærløsningen beregnet på framstilling av musserende viner kan bare inneholde
+
+       - druemost,
+       - delvis gjæret druemost,
+       - konsentrert druemost,
+       - rektifisert konsentrert druemost, eller
+       - sukrose og vin.
+    2. Sann alkoholstyrke, herunder alkoholen i den etterfyllingsvæsken for søtningsgrad som eventuelt er tilsatt, skal være på minst 9,5 volumprosent.
 
 B. **Musserende kvalitetsvin**
 
-1. Sukker- og gjærløsningen beregnet på framstilling av musserende kvalitetsvin kan bare inneholdesukrose,konsentrert druemost,rektifisert konsentrert druemost,druemost eller delvis gjæret druemost, ellervin.
+1. Sukker- og gjærløsningen beregnet på framstilling av musserende kvalitetsvin kan bare inneholde
+
+   1. sukrose,
+   2. konsentrert druemost,
+   3. rektifisert konsentrert druemost,
+   4. druemost eller delvis gjæret druemost, eller
+   5. vin.
 2. Produsentmedlemsstatene kan fastsette ytterligere eller strengere egenskaper eller vilkår for framstilling og omsetning av musserende kvalitetsviner som framstilles på deres territorium.
-3. Framstillingen av musserende kvalitetsviner er også underlagt reglene nevnt iavsnitt A nr. 1–10,avsnitt C nr. 3 om sann alkoholstyrke, avsnitt C nr. 5 om laveste overtrykk og avsnitt C nr. 6 og 7 om korteste tid for framstillingsprosessen, uten hensyn til avsnitt B nr. 4 bokstav d) i dette vedlegget.
-4. For musserende kvalitetsviner av aromatisk type gjelder følgende:Med mindre unntak innvilges, kan vinblandingen som ligger til grunn for vinene, framstilles bare av druemost eller delvis gjæret druemost fra vindruesorter oppført på listen i tillegget til dette vedlegget. Musserende kvalitetsviner av aromatisk type kan imidlertid framstilles på tradisjonell måte ved å bruke viner laget av druer av sorten «Glera» høstet i regionene Veneto og Friuli-Venezia Giulia som bestanddeler i vinblandingen.Bare kjøling eller andre fysiske prosesser kan brukes for å kontrollere gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende.Tilsetting av etterfyllingsvæske for søtningsgrad er forbudt.For musserende kvalitetsviner av aromatisk type skal framstillingsprosessen vare minst en måned.
+3. Framstillingen av musserende kvalitetsviner er også underlagt reglene nevnt i
+
+   - avsnitt A nr. 1–10,
+   - avsnitt C nr. 3 om sann alkoholstyrke, avsnitt C nr. 5 om laveste overtrykk og avsnitt C nr. 6 og 7 om korteste tid for framstillingsprosessen, uten hensyn til avsnitt B nr. 4 bokstav d) i dette vedlegget.
+4. For musserende kvalitetsviner av aromatisk type gjelder følgende:
+
+   1. Med mindre unntak innvilges, kan vinblandingen som ligger til grunn for vinene, framstilles bare av druemost eller delvis gjæret druemost fra vindruesorter oppført på listen i tillegget til dette vedlegget. Musserende kvalitetsviner av aromatisk type kan imidlertid framstilles på tradisjonell måte ved å bruke viner laget av druer av sorten «Glera» høstet i regionene Veneto og Friuli-Venezia Giulia som bestanddeler i vinblandingen.
+   2. Bare kjøling eller andre fysiske prosesser kan brukes for å kontrollere gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende.
+   3. Tilsetting av etterfyllingsvæske for søtningsgrad er forbudt.
+   4. For musserende kvalitetsviner av aromatisk type skal framstillingsprosessen vare minst en måned.
 
 C. **Musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse**
 
-1. Total alkoholstyrke i volumprosent i vinblandinger som er beregnet på framstilling av musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, skal være minst9,5 volumprosent i vindyrkingssone C III,9 volumprosent i andre vindyrkingssoner.
+1. Total alkoholstyrke i volumprosent i vinblandinger som er beregnet på framstilling av musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, skal være minst
+
+   - 9,5 volumprosent i vindyrkingssone C III,
+   - 9 volumprosent i andre vindyrkingssoner.
 2. Vinblandinger beregnet på framstilling av musserende kvalitetsvin med de beskyttede opprinnelsesbetegnelsene «Prosecco», «Conegliano Valdobbiadene – Prosecco» og «Colli Asolani – Prosecco» eller «Asolo – Prosecco» som framstilles av én eneste vindruesort, kan imidlertid ha en total alkoholstyrke på minst 8,5 volumprosent.
 3. Sann alkoholstyrke for musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, herunder alkoholen i den etterfyllingsvæsken for søtningsgrad som eventuelt er tilsatt, skal være minst 10 volumprosent.
-4. Sukker- og gjærløsningen for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse kan bare inneholdesukrose,konsentrert druemost,rektifisert konsentrert druemost,ogdruemost,delvis gjæret druemost,vin,som er egnet til å framstille samme musserende vin eller musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse som den som sukker- og gjærløsningen tilsettes til.
+4. Sukker- og gjærløsningen for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse kan bare inneholde
+
+   1. sukrose,
+   2. konsentrert druemost,
+   3. rektifisert konsentrert druemost,
+
+   og
+
+   1. druemost,
+   2. delvis gjæret druemost,
+   3. vin,
+
+   som er egnet til å framstille samme musserende vin eller musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse som den som sukker- og gjærløsningen tilsettes til.
 5. Uansett del II nr. 5 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 skal musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere som inneholder mindre enn 25 cl ved en temperatur på 20 °C.
-6. Varigheten av prosessen med å framstille musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, herunder modning i foretaket der de er framstilt, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinen musserende, skal være minstseks måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på lukkede tanker,ni måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på flasker.
-7. Gjæringsprosessen som skal gjøre vinblandingen musserende, og det tidsrommet vinblandingen skal ligge på gjærbunnfallet, skal være minst90 dager,30 dager dersom gjæringsprosessen finner sted i beholdere med røreverk.
+6. Varigheten av prosessen med å framstille musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse, herunder modning i foretaket der de er framstilt, regnet fra begynnelsen av gjæringsprosessen som skal gjøre vinen musserende, skal være minst
+
+   1. seks måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på lukkede tanker,
+   2. ni måneder når gjæringsprosessen som skal gjøre vinene musserende, finner sted på flasker.
+7. Gjæringsprosessen som skal gjøre vinblandingen musserende, og det tidsrommet vinblandingen skal ligge på gjærbunnfallet, skal være minst
+
+   - 90 dager,
+   - 30 dager dersom gjæringsprosessen finner sted i beholdere med røreverk.
 8. Reglene fastsatt i avsnitt A nr. 1–10 og avsnitt B nr. 2 får anvendelse også for musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse.
-9. For musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse gjelder følgende:Slike viner kan framstilles bare ved at det som eneste bestanddel i vinblandingen brukes druemost eller delvis gjæret druemost av vindruesortene som er oppført i tillegget til dette vedlegget, forutsatt at disse sortene er anerkjent som egnet til framstilling av musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse i den regionen som den musserende kvalitetsvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter. Som unntak kan en musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse framstilles ved at det som bestanddeler i vinblandingen brukes druer av sorten «Glera» høstet i regionene til opprinnelsesbetegnelsene «Prosecco», «Conegliano-Valdobbiadene – Prosecco», «Colli Asolani – Prosecco» og «Asolo – Prosecco».Bare kjøling eller andre fysiske prosesser kan brukes for å kontrollere gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende.Tilsetting av etterfyllingsvæske for søtningsgrad er forbudt.Sann alkoholstyrke i musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 6 volumprosent.Total alkoholstyrke i musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 10 volumprosent.Musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere ved en temperatur på 20 °C.Uansett nr. 6 i dette avsnittet skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse være minst én måned.
+9. For musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse gjelder følgende:
+
+   1. Slike viner kan framstilles bare ved at det som eneste bestanddel i vinblandingen brukes druemost eller delvis gjæret druemost av vindruesortene som er oppført i tillegget til dette vedlegget, forutsatt at disse sortene er anerkjent som egnet til framstilling av musserende kvalitetsvin med beskyttet opprinnelsesbetegnelse i den regionen som den musserende kvalitetsvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter. Som unntak kan en musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse framstilles ved at det som bestanddeler i vinblandingen brukes druer av sorten «Glera» høstet i regionene til opprinnelsesbetegnelsene «Prosecco», «Conegliano-Valdobbiadene – Prosecco», «Colli Asolani – Prosecco» og «Asolo – Prosecco».
+   2. Bare kjøling eller andre fysiske prosesser kan brukes for å kontrollere gjæringsprosessen før og etter at vinblandingen er sammensatt, for å gjøre vinblandingen musserende.
+   3. Tilsetting av etterfyllingsvæske for søtningsgrad er forbudt.
+   4. Sann alkoholstyrke i musserende kvalitetsvin av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 6 volumprosent.
+   5. Total alkoholstyrke i musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal være minst 10 volumprosent.
+   6. Musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse skal ha et overtrykk på minst 3 bar når de oppbevares i lukkede beholdere ved en temperatur på 20 °C.
+   7. Uansett nr. 6 i dette avsnittet skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse være minst én måned.
 
 ### Tillegg
 Liste over vindruesorter som kan brukes som bestanddeler i vinblandingen til musserende kvalitetsviner av aromatisk type og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse
@@ -7222,9 +10206,24 @@ TILLATTE ØNOLOGISKE FRAMSTILLINGSMÅTER OG RESTRIKSJONER SOM GJELDER FOR STERKV
 A. **Sterkviner**
 
 1. Produktene nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 som brukes til framstilling av sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, kan eventuelt ha gjennomgått bare de ønologiske framstillingsmåtene og behandlingsmåtene som er nevnt i forordning [(EU) nr. 1308/2013](eu/32013r1308) eller denne forordningen.
-2. Imidlertid gjelder følgende:Økningen i naturlig alkoholstyrke i volumprosent kan bare skyldes bruk av produktene nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, ogSpania kan som unntak tillate bruk av kalsiumsulfat til spanske viner med den tradisjonelle betegnelsen «vino generoso» eller «vino generoso de licor» der dette er en tradisjonell metode, forutsatt at sulfatinnholdet i det behandlede produktet ikke overstiger 2,5 g/l, uttrykt som kaliumsulfat. Disse produktene kan gjennomgå ytterligere syrning opp til høyst 1,5 g/l.
+2. Imidlertid gjelder følgende:
+
+   1. Økningen i naturlig alkoholstyrke i volumprosent kan bare skyldes bruk av produktene nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, og
+   2. Spania kan som unntak tillate bruk av kalsiumsulfat til spanske viner med den tradisjonelle betegnelsen «vino generoso» eller «vino generoso de licor» der dette er en tradisjonell metode, forutsatt at sulfatinnholdet i det behandlede produktet ikke overstiger 2,5 g/l, uttrykt som kaliumsulfat. Disse produktene kan gjennomgå ytterligere syrning opp til høyst 1,5 g/l.
 3. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografiske betegnelse framstilt på deres territorium, er de ønologiske framstillingsmåter nevnt i forordning [(EU) nr. 1308/2013](eu/32013r1308) og i denne forordningen tillatt for disse produktene.
-4. I tillegg er følgende tillatt:Søtning, forutsatt erklæring og registrering, forutsatt at de benyttede produktene ikke har blitt anriket med konsentrert druemost, ved hjelp avkonsentrert druemost eller rektifisert konsentrert druemost, forutsatt at den aktuelle vinens totale alkoholstyrke høyst økes med 3 volumprosent,**►M3**konsentrert druemost, konsentrert druemost framstilt ved direkte oppvarming, men som for øvrig oppfyller definisjonen for konsentrert druemost, rektifisert konsentrert druemost eller druemost av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, for spanske viner som beskrives med den tradisjonelle betegnelsen «vino generoso de licor», forutsatt at den aktuelle vinens totale alkoholstyrke øker med høyst 8 volumprosent,◄**M3**konsentrert druemost eller rektifisert konsentrert druemost for sterkviner med den beskyttede opprinnelsesbetegnelsen «Madeira», forutsatt at den aktuelle vinens totale alkoholstyrke økes med høyst 8 volumprosent.Tilsetting av alkohol, destillat eller brennevin, som nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, for å dekke tap som skyldes fordamping under lagring.Lagring i beholdere ved en temperatur på høyst 50 °C for sterkviner med den beskyttede opprinnelsesbetegnelsen «Madeira».
+4. I tillegg er følgende tillatt:
+
+   1. Søtning, forutsatt erklæring og registrering, forutsatt at de benyttede produktene ikke har blitt anriket med konsentrert druemost, ved hjelp av
+
+      - konsentrert druemost eller rektifisert konsentrert druemost, forutsatt at den aktuelle vinens totale alkoholstyrke høyst økes med 3 volumprosent,
+
+        **►M3**
+      - konsentrert druemost, konsentrert druemost framstilt ved direkte oppvarming, men som for øvrig oppfyller definisjonen for konsentrert druemost, rektifisert konsentrert druemost eller druemost av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, for spanske viner som beskrives med den tradisjonelle betegnelsen «vino generoso de licor», forutsatt at den aktuelle vinens totale alkoholstyrke øker med høyst 8 volumprosent,
+
+        ◄**M3**
+      - konsentrert druemost eller rektifisert konsentrert druemost for sterkviner med den beskyttede opprinnelsesbetegnelsen «Madeira», forutsatt at den aktuelle vinens totale alkoholstyrke økes med høyst 8 volumprosent.
+   2. Tilsetting av alkohol, destillat eller brennevin, som nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, for å dekke tap som skyldes fordamping under lagring.
+   3. Lagring i beholdere ved en temperatur på høyst 50 °C for sterkviner med den beskyttede opprinnelsesbetegnelsen «Madeira».
 5. Druesortene som brukes til å framstille produktene nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013, og som brukes til framstilling av sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, skal velges blant dem som er nevnt i artikkel 81 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 6. Den naturlige alkoholstyrken i produktene nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 som benyttes ved framstilling av andre sterkviner enn sterkvin med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse, skal være minst 12 volumprosent.
 
@@ -7232,14 +10231,51 @@ B. **Sterkviner med beskyttet opprinnelsesbetegnelse (andre bestemmelser enn dem
 
 1. Listen over sterkviner med beskyttet opprinnelsesbetegnelse der det ved framstillingen benyttes druemost eller en blanding av druemost og vin, som nevnt i del II nr. 3 bokstav c) fjerde strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013, er oppført i avsnitt A i tillegg 1 til dette vedlegget.
 2. Listen over sterkviner med beskyttet opprinnelsesbetegnelse der det er tillatt å tilsette de produktene som er nevnt i del II nr. 3 bokstav f) i vedlegg VII til forordning (EU) nr. 1308/2013, er oppført i avsnitt B i tillegg 1 til dette vedlegget.
-3. Produktene nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 og konsentrert druemost og delvis gjæret druemost av rosindruer nevnt i vedlegg VII del II nr. 3 bokstav f) iii) som brukes til framstilling av sterkviner med beskyttet opprinnelsesbetegnelse, må komme fra den regionen som sterkvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter.**►M3**For sterkviner med de beskyttede opprinnelsesbetegnelsene ‘Málaga’ og ‘Jerez-Xérès-Sherry’ kan imidlertid mosten av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, og som er framstilt av vinstokksorten ‘Pedro Ximénez’, komme fra regionen ‘Montilla-Moriles’.◄**M3**
-4. Prosessene nevnt i avsnitt A nr. 1–4 i dette vedlegget for framstilling av sterkvin med beskyttet opprinnelsesbetegnelse kan utføres bare i regionen nevnt i nr. 3.For sterkvin med beskyttet opprinnelsesbetegnelse der betegnelsen «Porto» er forbeholdt produkter som er framstilt av druer som stammer fra regionen «Douro», kan imidlertid ytterligere framstillings- og lagringsprosesser finne sted enten i ovennevnte region eller i Vila Nova de Gaia – Porto.
-5. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, gjelder følgende:Den naturlige alkoholstyrken i produkter nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 som brukes til framstilling av sterkvin med beskyttet opprinnelsesbetegnelse, skal være minst 12 volumprosent. Enkelte sterkviner med beskyttet opprinnelsesbetegnelse som er oppført på en av listene i avsnitt A i tillegg 2 til dette vedlegget, kan imidlertid framstillesav druemost med en naturlig alkoholstyrke på minst 10 volumprosent for sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av brennevin av vin eller av pressrester av druer som har en opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet, ellerav delvis gjæret druemost eller, med hensyn til andre strekpunkt nedenfor, av vin med en opprinnelig naturlig alkoholstyrke på minst11 volumprosent for sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av nøytral alkohol, vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin fra vinprodukter,10,5 volumprosent for viner framstilt av druemost av grønne druer nevnt i liste 3 i avsnitt A i tillegg 2,9 volumprosent for portugisisk sterkvin med den beskyttede opprinnelsesbetegnelsen «Madeira» som er framstilt på tradisjonell og sedvanlig måte i samsvar med nasjonal lovgivning, som inneholder uttrykkelige bestemmelser om slik vin.Listen over sterkviner med beskyttet opprinnelsesbetegnelse som, uten hensyn til del II nr. 3 bokstav b) i vedlegg VII til forordning (EU) nr. 1308/2013, har en total alkoholstyrke på under 17,5 volumprosent men minst 15 volumprosent, der dette var uttrykkelig tillatt i henhold til gjeldende nasjonal lovgivning for slike produkter før 1. januar 1985, er oppført i tillegg 2.
-6. De tradisjonelle særbetegnelsene «oίνoς γλυκύς φυσικóς», «vino dulce natural», «vino dolce naturale» og «vinho doce natural» skal brukes bare for sterkviner med beskyttet opprinnelsesbetegnelse somer framstilt av høstede druer der minst 85 % stammer fra vindruesortene som er oppført på listen i vedlegg 3,stammer fra most med et opprinnelig naturlig sukkerinnhold på minst 212 gram per liter,er framstilt ved tilsetting av alkohol, destillat eller brennevin, som nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, uten noen annen form for anriking.
-7. I den grad tradisjonelle framstillingsmåter krever det, kan medlemsstatene med hensyn til sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium fastsette at den tradisjonelle særbetegnelsen «vin doux naturel» skal være forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse somer framstilt direkte av produsentene som høster druene, som utelukkende kan være av sortene Muscat, Grenache, Maccabéo eller Malvoisie; avlinger fra vingårder som også er beplantet med andre vinstokksorter enn de fire nevnt ovenfor, kan imidlertid tas med dersom de ikke utgjør mer enn 10 % av det samlede antall vinstokker,er framstilt med en avlingsbegrensning på 40 hektoliter druemost per hektar som nevnt i del II nr. 3 bokstav c) første og fjerde strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013, idet enhver overskridelse av avlingsbegrensningen vil medføre at hele avlingen mister retten til betegnelsen «vin doux naturel»,er framstilt av druemost med et opprinnelig naturlig sukkerinnhold på minst 252 gram per liter,er framstilt, uten noen annen form for anriking, ved tilsetting av alkohol fra vin som i ren alkohol svarer til minst 5 % av den benyttede mengden druemost nevnt over, og til høyst den minste av følgende to størrelser:enten 10 prosent av den benyttede mengden druemost nevnt over, eller40 prosent av det ferdige produkts totale alkoholstyrke i volumprosent, som består av summen av den sanne alkoholstyrken i volumprosent og det som svarer til den potensielle alkoholstyrken i volumprosent beregnet på grunnlag av 1 volumprosent ren alkohol per 17,5 gram per liter restsukker.
-8. Med hensyn til sterkvin skal den tradisjonelle særbetegnelsen «vino generoso» brukes bare for tørre sterkviner med beskyttet opprinnelsesbetegnelse som er utviklet helt eller delvis «sous voile» (flor), og somer framstilt av grønne druer av sortene Palomino de Jerez, Palomino fino, Pedro Ximénez, Verdejo, Zalema og Garrido Fino,frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.Med framstilling «sous voile» (flor) nevnt i første ledd menes den biologiske prosessen som tilfører produktet særlige analytiske og organoleptiske egenskaper ved spontan dannelse av et dekke av typisk gjær på vinens frie overflate etter fullstendig alkoholgjæring av mosten.
+3. Produktene nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 og konsentrert druemost og delvis gjæret druemost av rosindruer nevnt i vedlegg VII del II nr. 3 bokstav f) iii) som brukes til framstilling av sterkviner med beskyttet opprinnelsesbetegnelse, må komme fra den regionen som sterkvinen med beskyttet opprinnelsesbetegnelse har sitt navn etter.
+
+   **►M3**
+
+   For sterkviner med de beskyttede opprinnelsesbetegnelsene ‘Málaga’ og ‘Jerez-Xérès-Sherry’ kan imidlertid mosten av rosindruer som er tilsatt nøytral vinalkohol for å hindre gjæring, og som er framstilt av vinstokksorten ‘Pedro Ximénez’, komme fra regionen ‘Montilla-Moriles’.
+
+   ◄**M3**
+4. Prosessene nevnt i avsnitt A nr. 1–4 i dette vedlegget for framstilling av sterkvin med beskyttet opprinnelsesbetegnelse kan utføres bare i regionen nevnt i nr. 3.
+
+   For sterkvin med beskyttet opprinnelsesbetegnelse der betegnelsen «Porto» er forbeholdt produkter som er framstilt av druer som stammer fra regionen «Douro», kan imidlertid ytterligere framstillings- og lagringsprosesser finne sted enten i ovennevnte region eller i Vila Nova de Gaia – Porto.
+5. Med forbehold for mer begrensende bestemmelser som medlemsstatene kan vedta for sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium, gjelder følgende:
+
+   1. Den naturlige alkoholstyrken i produkter nevnt i del II nr. 3 bokstav c) i vedlegg VII til forordning (EU) nr. 1308/2013 som brukes til framstilling av sterkvin med beskyttet opprinnelsesbetegnelse, skal være minst 12 volumprosent. Enkelte sterkviner med beskyttet opprinnelsesbetegnelse som er oppført på en av listene i avsnitt A i tillegg 2 til dette vedlegget, kan imidlertid framstilles
+
+      1. av druemost med en naturlig alkoholstyrke på minst 10 volumprosent for sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av brennevin av vin eller av pressrester av druer som har en opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet, eller
+      2. av delvis gjæret druemost eller, med hensyn til andre strekpunkt nedenfor, av vin med en opprinnelig naturlig alkoholstyrke på minst
+
+         - 11 volumprosent for sterkviner med beskyttet opprinnelsesbetegnelse framstilt ved tilsetting av nøytral alkohol, vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin fra vinprodukter,
+         - 10,5 volumprosent for viner framstilt av druemost av grønne druer nevnt i liste 3 i avsnitt A i tillegg 2,
+         - 9 volumprosent for portugisisk sterkvin med den beskyttede opprinnelsesbetegnelsen «Madeira» som er framstilt på tradisjonell og sedvanlig måte i samsvar med nasjonal lovgivning, som inneholder uttrykkelige bestemmelser om slik vin.
+   2. Listen over sterkviner med beskyttet opprinnelsesbetegnelse som, uten hensyn til del II nr. 3 bokstav b) i vedlegg VII til forordning (EU) nr. 1308/2013, har en total alkoholstyrke på under 17,5 volumprosent men minst 15 volumprosent, der dette var uttrykkelig tillatt i henhold til gjeldende nasjonal lovgivning for slike produkter før 1. januar 1985, er oppført i tillegg 2.
+6. De tradisjonelle særbetegnelsene «oίνoς γλυκύς φυσικóς», «vino dulce natural», «vino dolce naturale» og «vinho doce natural» skal brukes bare for sterkviner med beskyttet opprinnelsesbetegnelse som
+
+   - er framstilt av høstede druer der minst 85 % stammer fra vindruesortene som er oppført på listen i vedlegg 3,
+   - stammer fra most med et opprinnelig naturlig sukkerinnhold på minst 212 gram per liter,
+   - er framstilt ved tilsetting av alkohol, destillat eller brennevin, som nevnt i del II nr. 3 bokstav e) og f) i vedlegg VII til forordning (EU) nr. 1308/2013, uten noen annen form for anriking.
+7. I den grad tradisjonelle framstillingsmåter krever det, kan medlemsstatene med hensyn til sterkviner med beskyttet opprinnelsesbetegnelse framstilt på deres territorium fastsette at den tradisjonelle særbetegnelsen «vin doux naturel» skal være forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse som
+
+   - er framstilt direkte av produsentene som høster druene, som utelukkende kan være av sortene Muscat, Grenache, Maccabéo eller Malvoisie; avlinger fra vingårder som også er beplantet med andre vinstokksorter enn de fire nevnt ovenfor, kan imidlertid tas med dersom de ikke utgjør mer enn 10 % av det samlede antall vinstokker,
+   - er framstilt med en avlingsbegrensning på 40 hektoliter druemost per hektar som nevnt i del II nr. 3 bokstav c) første og fjerde strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013, idet enhver overskridelse av avlingsbegrensningen vil medføre at hele avlingen mister retten til betegnelsen «vin doux naturel»,
+   - er framstilt av druemost med et opprinnelig naturlig sukkerinnhold på minst 252 gram per liter,
+   - er framstilt, uten noen annen form for anriking, ved tilsetting av alkohol fra vin som i ren alkohol svarer til minst 5 % av den benyttede mengden druemost nevnt over, og til høyst den minste av følgende to størrelser:
+   - enten 10 prosent av den benyttede mengden druemost nevnt over, eller
+   - 40 prosent av det ferdige produkts totale alkoholstyrke i volumprosent, som består av summen av den sanne alkoholstyrken i volumprosent og det som svarer til den potensielle alkoholstyrken i volumprosent beregnet på grunnlag av 1 volumprosent ren alkohol per 17,5 gram per liter restsukker.
+8. Med hensyn til sterkvin skal den tradisjonelle særbetegnelsen «vino generoso» brukes bare for tørre sterkviner med beskyttet opprinnelsesbetegnelse som er utviklet helt eller delvis «sous voile» (flor), og som
+
+   - er framstilt av grønne druer av sortene Palomino de Jerez, Palomino fino, Pedro Ximénez, Verdejo, Zalema og Garrido Fino,
+   - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
+
+   Med framstilling «sous voile» (flor) nevnt i første ledd menes den biologiske prosessen som tilfører produktet særlige analytiske og organoleptiske egenskaper ved spontan dannelse av et dekke av typisk gjær på vinens frie overflate etter fullstendig alkoholgjæring av mosten.
 9. Den tradisjonelle særbetegnelsen «vinho generoso» er forbeholdt sterkvinene med de beskyttede opprinnelsesbetegnelsene «Porto», «Madeira», «Moscatel de Setúbal» og «Carcavelos» sammen med den respektive opprinnelsesbetegnelsen.
-10. Den tradisjonelle særbetegnelsen «vino generoso de licor» er forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse somer framstilt av «vino generoso» som nevnt i nr. 8, eller av vin under «flor» som en slik «vino generoso» kan framstilles av, som er tilsatt enten druemost av rosindruer tilsatt nøytral vinalkohol for å hindre gjæring, eller som er tilsatt rektifisert konsentrert druemost eller «vino dulce natural»,frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
+10. Den tradisjonelle særbetegnelsen «vino generoso de licor» er forbeholdt sterkviner med beskyttet opprinnelsesbetegnelse som
+
+    - er framstilt av «vino generoso» som nevnt i nr. 8, eller av vin under «flor» som en slik «vino generoso» kan framstilles av, som er tilsatt enten druemost av rosindruer tilsatt nøytral vinalkohol for å hindre gjæring, eller som er tilsatt rektifisert konsentrert druemost eller «vino dulce natural»,
+    - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
 
 ### Tillegg 1
 Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling er underlagt særlige regler
@@ -7280,22 +10316,158 @@ B. LISTE OVER STERKVINER MED BESKYTTET OPPRINNELSESBETEGNELSE HVIS FRAMSTILLING 
 
 (Avsnitt B nr. 2 i dette vedlegget)
 
-1. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av vinalkohol eller alkohol av tørkede druer med en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent***(Del II nr. 3 bokstav f) ii) første strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*HELLASΣάμoς (Samos), Moσχάτoς Πατρών (Muscat of Patra), Moσχάτoς Pίoυ Πατρών (Muscat of Rio Patra), Moσχάτoς Κεφαλληνίας (Muscat of Kefalonia/Muscat de Kephalonia), Moσχάτoς Póδoυ (Muscat of Rodos), Moσχάτoς Λήμνoυ (Muscat of Limnos), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Mαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia).SPANIACondado de Huelva, Jerez-Xérès-Sherry, Manzanilla-Sanlúcar de Barrameda, Málaga, Montilla-Moriles, Rueda, Terra Alta.KYPROSΚoυμανδαρία (Commandaria).
-2. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av vin eller av pressrester av druer med en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent***(Del II nr. 3 bokstav f) ii) andre strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*HELLASMαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Nεμέα (Nemea).FRANKRIKEPineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.KYPROSΚoυμανδαρία (Commandaria).
-3. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av tørkede druer med en alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent***(Del II nr. 3 bokstav f) ii) tredje strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*HELLASMαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia).
-4. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av druemost i gjæring framstilt av rosindruer***(Del II nr. 3 bokstav f) iii) første strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*SPANIA**►M3** *Sterkviner med beskyttet opprinnelsesbetegnelse**Produktets betegnelse i henhold til Unionens regler eller nasjonal lovgivning*Condado de HuelvaJerez-Xérès-SherryVino generoso de licorMálagaVino dulceMontilla-MorilesVino generoso de licor**◄M3**ITALIAAleatico di Gradoli, Giró di Cagliari, Malvasia delle Lipari, Pantelleria passitoKYPROSΚoυμανδαρία (Commandaria).
-5. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosessen overholder definisjonen av konsentrert druemost***(Del II nr. 3 bokstav f) iii) andre strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*SPANIA*Sterkviner med beskyttet opprinnelsesbetegnelse**Produktets betegnelse i henhold til EU-regler eller nasjonal lovgivning*AlicanteCondado de HuelvaVino generoso de licorEmpordàGarnacha/GarnatxaJerez-Xérès-SherryVino generoso de licorMálagaVino dulceMontilla-MorilesVino generoso de licorNavarraMoscatelITALIAMarsala**►M3**KYPROSΚoυμανδαρία (Commandaria).◄**M3**
-6. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost***(Del II nr. 3 bokstav f) iii) tredje strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*SPANIA*Sterkviner med beskyttet opprinnelsesbetegnelse**Produktets betegnelse i henhold til EU-regler eller nasjonal lovgivning*MálagaVino dulceMontilla-MorilesVino dulce
-Vino generoso de licorTarragonaVino dulceJerez-Xérès-SherryVino generoso de licorCondado de HuelvaVino generoso de licorITALIAOltrepó Pavese Moscato, Marsala, Moscato di Trani.**►M3**KYPROSΚoυμανδαρία (Commandaria).◄**M3**
+1. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av vinalkohol eller alkohol av tørkede druer med en alkoholstyrke på minst 95 volumprosent og høyst 96 volumprosent**
+
+   *(Del II nr. 3 bokstav f) ii) første strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   HELLAS
+
+   - Σάμoς (Samos), Moσχάτoς Πατρών (Muscat of Patra), Moσχάτoς Pίoυ Πατρών (Muscat of Rio Patra), Moσχάτoς Κεφαλληνίας (Muscat of Kefalonia/Muscat de Kephalonia), Moσχάτoς Póδoυ (Muscat of Rodos), Moσχάτoς Λήμνoυ (Muscat of Limnos), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Mαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia).
+
+   SPANIA
+
+   - Condado de Huelva, Jerez-Xérès-Sherry, Manzanilla-Sanlúcar de Barrameda, Málaga, Montilla-Moriles, Rueda, Terra Alta.
+
+   KYPROS
+
+   - Κoυμανδαρία (Commandaria).
+2. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av vin eller av pressrester av druer med en sann alkoholstyrke på minst 52 volumprosent og høyst 86 volumprosent**
+
+   *(Del II nr. 3 bokstav f) ii) andre strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   HELLAS
+
+   - Mαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia), Σητεία (Sitia), Σαντoρίνη (Santorini), Δαφνές (Dafnes), Nεμέα (Nemea).
+
+   FRANKRIKE
+
+   - Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.
+
+   KYPROS
+
+   - Κoυμανδαρία (Commandaria).
+3. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av brennevin destillert av tørkede druer med en alkoholstyrke på minst 52 volumprosent og høyst 94,5 volumprosent**
+
+   *(Del II nr. 3 bokstav f) ii) tredje strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   HELLAS
+
+   - Mαυρoδάφνη Πατρών (Mavrodaphni of Patra), Mαυρoδάφνη Κεφαλληνίας (Mavrodaphne of Kefalonia).
+4. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av druemost i gjæring framstilt av rosindruer**
+
+   *(Del II nr. 3 bokstav f) iii) første strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   SPANIA
+
+   **►M3**
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Produktets betegnelse i henhold til Unionens regler eller nasjonal lovgivning* |
+   | --- | --- |
+   | Condado de Huelva |  |
+   | Jerez-Xérès-Sherry | Vino generoso de licor |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino generoso de licor |
+
+   **◄M3**
+
+   ITALIA
+
+   - Aleatico di Gradoli, Giró di Cagliari, Malvasia delle Lipari, Pantelleria passito
+
+   KYPROS
+
+   - Κoυμανδαρία (Commandaria).
+5. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost som er framstilt ved direkte oppvarming, og som bortsett fra denne prosessen overholder definisjonen av konsentrert druemost**
+
+   *(Del II nr. 3 bokstav f) iii) andre strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   SPANIA
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Produktets betegnelse i henhold til EU-regler eller nasjonal lovgivning* |
+   | --- | --- |
+   | Alicante |  |
+   | Condado de Huelva | Vino generoso de licor |
+   | Empordà | Garnacha/Garnatxa |
+   | Jerez-Xérès-Sherry | Vino generoso de licor |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino generoso de licor |
+   | Navarra | Moscatel |
+
+   ITALIA
+
+   - Marsala
+
+   **►M3**
+
+   KYPROS
+
+   - Κoυμανδαρία (Commandaria).
+
+   ◄**M3**
+6. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer tilsetting av konsentrert druemost**
+
+   *(Del II nr. 3 bokstav f) iii) tredje strekpunkt i vedlegg VII til forordning (EU) nr. 1308/2013)*
+
+   SPANIA
+
+   | *Sterkviner med beskyttet opprinnelsesbetegnelse* | *Produktets betegnelse i henhold til EU-regler eller nasjonal lovgivning* |
+   | --- | --- |
+   | Málaga | Vino dulce |
+   | Montilla-Moriles | Vino dulce<br>Vino generoso de licor |
+   | Tarragona | Vino dulce |
+   | Jerez-Xérès-Sherry | Vino generoso de licor |
+   | Condado de Huelva | Vino generoso de licor |
+
+   ITALIA
+
+   - Oltrepó Pavese Moscato, Marsala, Moscato di Trani.
+
+   **►M3**
+
+   KYPROS
+
+   - Κoυμανδαρία (Commandaria).
+
+   ◄**M3**
 
 ### Tillegg 2
 
 ###### A. Lister omhandlet i vedlegg III avsnitt B nr. 5 bokstav a)
 
-1. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost med en sann alkoholstyrke på minst 10 volumprosent og tilsetning av brennevin av vin eller pressrester av druer som har en registrert opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet****FRANKRIKE**Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.
-2. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 11 volumprosent med tilsetning av nøytral alkohol eller vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin fra drueprodukter****PORTUGAL**Porto – PortMoscatel de Setúbal, SetúbalCarcavelosMoscatel do Douro**ITALIA**Moscato di Noto
-3. 3.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av vin med en opprinnelig naturlig alkoholstyrke på minst 10,5 volumprosent****SPANIA**Jerez-Xérès-SherryManzanilla-Sanlúcar de BarramedaCondado de HuelvaRueda**ITALIA**Trentino
-4. 4.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 9 volumprosent****PORTUGAL**Madeira
+1. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost med en sann alkoholstyrke på minst 10 volumprosent og tilsetning av brennevin av vin eller pressrester av druer som har en registrert opprinnelsesbetegnelse, og som eventuelt stammer fra samme driftsenhet**
+
+   **FRANKRIKE**
+
+   - Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.
+2. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 11 volumprosent med tilsetning av nøytral alkohol eller vindestillat med en sann alkoholstyrke på minst 70 volumprosent eller brennevin fra drueprodukter**
+
+   **PORTUGAL**
+
+   - Porto – Port
+   - Moscatel de Setúbal, Setúbal
+   - Carcavelos
+   - Moscatel do Douro
+
+   **ITALIA**
+
+   - Moscato di Noto
+3. 3.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av vin med en opprinnelig naturlig alkoholstyrke på minst 10,5 volumprosent**
+
+   **SPANIA**
+
+   - Jerez-Xérès-Sherry
+   - Manzanilla-Sanlúcar de Barrameda
+   - Condado de Huelva
+   - Rueda
+
+   **ITALIA**
+
+   - Trentino
+4. 4.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 9 volumprosent**
+
+   **PORTUGAL**
+
+   - Madeira
 
 ###### B. Lister omhandlet i vedlegg III avsnitt B nr. 5 bokstav b)
 
@@ -7386,7 +10558,9 @@ Analysemetodene nevnt i artikkel 75 nr. 5 bokstav d) i forordning [(EU) nr. 1308
 
 3\. Kommisjonen skal så underrette de øvrige medlemsstatene.
 
-5 Delegert kommisjonsforordning [(EU) 2017/1183](eu/32017r1183) av 20. april 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til formidling av opplysninger og dokumenter til Kommisjonen (EUT L 171 av 4.7.2017, s. 100).6 Kommisjonens gjennomføringsforordning [(EU) 2017/1185](eu/32017r1185) av 20. april 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1307/2013](eu/32013r1307) og [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til formidling av opplysninger og dokumenter til Kommisjonen og endring og oppheving av flere kommisjonsforordninger (EUT L 171 av 4.7.2017, s. 113).
+5 Delegert kommisjonsforordning [(EU) 2017/1183](eu/32017r1183) av 20. april 2017 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til formidling av opplysninger og dokumenter til Kommisjonen (EUT L 171 av 4.7.2017, s. 100).
+
+6 Kommisjonens gjennomføringsforordning [(EU) 2017/1185](eu/32017r1185) av 20. april 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1307/2013](eu/32013r1307) og [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til formidling av opplysninger og dokumenter til Kommisjonen og endring og oppheving av flere kommisjonsforordninger (EUT L 171 av 4.7.2017, s. 113).
 
 ### Artikkel 4. Ikrafttredelse
 
@@ -7467,7 +10641,11 @@ Framgangsmåte
 
 To liter vin helles over i destillasjonskolben. Deretter tilsettes noen få milliliter etanol (nr. 2.1) i de to oppsamlingsrørene, slik at de porøse delene av gassdispersjonsrøret er fullstendig nedsenket. De to rørene avkjøles utenfra med fryseblandingen. Kolben kobles til oppsamlingsrørene, og en nitrogenstrøm på 3 l per time ledes gjennom apparatet. Varm opp vinen til 80 °C med varmekappen, destiller og samle opp 45 til 50 ml av destillatet.
 
-Stabiliser kromatografen. Følgende forhold anbefales:Injektortemperatur: 200 °C.Kolonnetemperatur: 130 °C.Strømningshastighet for bæregass (helium): 20 ml per minutt.
+Stabiliser kromatografen. Følgende forhold anbefales:
+
+- Injektortemperatur: 200 °C.
+- Kolonnetemperatur: 130 °C.
+- Strømningshastighet for bæregass (helium): 20 ml per minutt.
 
 Med mikroinjeksjonssprøyten tilsettes et volum av standardløsningen som er tilstrekkelig til at toppen som skapes av allylisotiocyanat, lett kan identifiseres på gasskromatogrammet.
 

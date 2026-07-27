@@ -26,9 +26,20 @@ eu_basis: []
 
 ### § 1
 
-Den som kommer til Svalbard, kan bortvises av Sysselmesteren ved innreise eller senere nårdet må antas at vedkommende ikke har tilstrekkelige midler til å oppholde seg eller mulighet til å ernære seg på lovlig måte på Svalbardvedkommende tidligere er utvist fra Svalbard ved en utvisningsbeslutning som fortsatt står ved maktdet må antas at vedkommende ikke er i stand til å ta vare på seg selvvedkommende ikke bor fast på Svalbard eller har sitt faste arbeid på Svalbard og under sitt opphold der med skjellig grunn mistenkes for overtredelse av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbardvedkommende tidligere er straffedømt for overtredelser av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard, og det er grunn til å frykte for at vedkommende vil komme til å begå nye straffbare handlinger på Svalbardvedkommende ikke viser gyldig pass eller legitimasjonsdokument som fastsatt i [forskrift 29. april 2022 nr. 643 om kontroll av reisende til og fra Svalbard § 4](forskrift/2022-04-29-643/§4) andre og tredje ledddet er nødvendig av hensyn til folkehelsen eller offentlig orden.
+Den som kommer til Svalbard, kan bortvises av Sysselmesteren ved innreise eller senere når
 
-Den som kommer til Svalbard, skal bortvises av Sysselmesteren ved innreise eller senere nårbortvisning er nødvendig for å gjennomføre bindende vedtak av De Forente Nasjoners Sikkerhetsråd om sanksjoner som inneholder reiserestriksjoner, ellerpersonen omfattes av internasjonale restriktive tiltak som inneholder reiserestriksjoner som Norge har sluttet opp om, og som er gjennomført for øvrige deler av Kongeriket Norge.
+1. det må antas at vedkommende ikke har tilstrekkelige midler til å oppholde seg eller mulighet til å ernære seg på lovlig måte på Svalbard
+2. vedkommende tidligere er utvist fra Svalbard ved en utvisningsbeslutning som fortsatt står ved makt
+3. det må antas at vedkommende ikke er i stand til å ta vare på seg selv
+4. vedkommende ikke bor fast på Svalbard eller har sitt faste arbeid på Svalbard og under sitt opphold der med skjellig grunn mistenkes for overtredelse av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard
+5. vedkommende tidligere er straffedømt for overtredelser av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard, og det er grunn til å frykte for at vedkommende vil komme til å begå nye straffbare handlinger på Svalbard
+6. vedkommende ikke viser gyldig pass eller legitimasjonsdokument som fastsatt i [forskrift 29. april 2022 nr. 643 om kontroll av reisende til og fra Svalbard § 4](forskrift/2022-04-29-643/§4) andre og tredje ledd
+7. det er nødvendig av hensyn til folkehelsen eller offentlig orden.
+
+Den som kommer til Svalbard, skal bortvises av Sysselmesteren ved innreise eller senere når
+
+1. bortvisning er nødvendig for å gjennomføre bindende vedtak av De Forente Nasjoners Sikkerhetsråd om sanksjoner som inneholder reiserestriksjoner, eller
+2. personen omfattes av internasjonale restriktive tiltak som inneholder reiserestriksjoner som Norge har sluttet opp om, og som er gjennomført for øvrige deler av Kongeriket Norge.
 
 Blir en person som kommer med skip eller luftfartøy, bortvist på ankomstdagen, plikter fartøyets fører og eier eller leier uten godtgjøring av det offentlige å ta vedkommende om bord igjen eller på annen måte bringe personen ut fra Svalbard etter nærmere bestemmelse av Sysselmesteren.
 
@@ -36,7 +47,11 @@ Blir en person som kommer med skip eller luftfartøy, bortvist på ankomstdagen,
 
 ### § 2
 
-Sysselmesteren kan utvise enhver fra Svalbard nårvedkommende handler mot en beslutning om bortvisning etter [§ 1](forskrift/1995-02-03-96/§1) første leddvedkommende ikke bor fast på Svalbard eller har sitt faste arbeid på Svalbard og under sitt opphold der med skjellig grunn mistenkes for overtredelse av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbardvedkommende er tidligere straffedømt for overtredelser av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard, og det er grunn til å frykte at vedkommende vil komme til å begå nye straffbare handlinger på Svalbard.
+Sysselmesteren kan utvise enhver fra Svalbard når
+
+1. vedkommende handler mot en beslutning om bortvisning etter [§ 1](forskrift/1995-02-03-96/§1) første ledd
+2. vedkommende ikke bor fast på Svalbard eller har sitt faste arbeid på Svalbard og under sitt opphold der med skjellig grunn mistenkes for overtredelse av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard
+3. vedkommende er tidligere straffedømt for overtredelser av lov eller bestemmelser gitt i medhold av lov som gjelder for Svalbard, og det er grunn til å frykte at vedkommende vil komme til å begå nye straffbare handlinger på Svalbard.
 
 Utvisning er til hinder for senere innreise til Svalbard. Innreiseforbudet kan gjøres varig eller tidsbegrenset, men ikke for kortere tidsrom enn to år. Etter søknad til Sysselmesteren kan den som er utvist, få adgang til Svalbard, men som regel ikke før to år er gått fra utreisen.
 

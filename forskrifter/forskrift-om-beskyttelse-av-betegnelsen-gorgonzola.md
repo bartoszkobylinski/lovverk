@@ -15,7 +15,7 @@ xml_hash: "7db6e60fac242b3aee84e208b5dc62a861bb35a90e3a77c14ebf12371b94d816"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,11 +100,25 @@ Class 1.3 – Cheeses
 
 «Gorgonzola» is a soft, fat, raw paste cheese made exclusively from whole cows' milk.
 
-The finished product has the following characteristics:Shape: cylindrical, with flat ends and a high, straight side.Dimensions: minimum height of the side 13 cm; diameter of between 20 and 32 cm.Weight:large wheel, mild type: 10–13 kg with a mild or slightly tangy taste,medium wheel, tangy type: 9–12 kg with a pronounced tangy taste,small wheel, tangy type: 6–8 kg with a pronounced tangy taste.Rind: grey and/or pink in colour, non-edible.Paste: homogeneous, white or pale yellow, with mould (marbling) producing characteristic blue-green veins.Fat content over dry matter: 48 % minimum.
+The finished product has the following characteristics:
+
+- Shape: cylindrical, with flat ends and a high, straight side.
+- Dimensions: minimum height of the side 13 cm; diameter of between 20 and 32 cm.
+- Weight:
+
+  - large wheel, mild type: 10–13 kg with a mild or slightly tangy taste,
+  - medium wheel, tangy type: 9–12 kg with a pronounced tangy taste,
+  - small wheel, tangy type: 6–8 kg with a pronounced tangy taste.
+- Rind: grey and/or pink in colour, non-edible.
+- Paste: homogeneous, white or pale yellow, with mould (marbling) producing characteristic blue-green veins.
+- Fat content over dry matter: 48 % minimum.
 
 4.3. *Geographical area:*
 
-The area in which the cheese is produced and matured includes the whole of the following provinces:Bergamo, Biella, Brescia, Como, Cremona, Cuneo, Lecco, Lodi, Milan, Monza, Novara, Pavia, Varese, Verbano Cusio-Ossola and Vercelli.Alessandria: solely the municipalities of Casale Monferrato, Villanova Monferrato, Balzola, Morano Po, Coniolo, Pontestura, Serralunga di Crea, Cereseto, Treville, Ozzano Monferrato, San Giorgio Monferrato, Sala Monferrato, Cellamonte, Rosignano Monferrato, Terruggia, Ottiglio, Frassinello Monferrato, Olivola, Vignale, Camagna, Conzano, Occimiano, Mirabello Monferrato, Giarole, Valenza, Pomaro Monferrato, Bozzole, Valmacca, Ticineto, Borgo San Martino and Frassineto Po.
+The area in which the cheese is produced and matured includes the whole of the following provinces:
+
+- Bergamo, Biella, Brescia, Como, Cremona, Cuneo, Lecco, Lodi, Milan, Monza, Novara, Pavia, Varese, Verbano Cusio-Ossola and Vercelli.
+- Alessandria: solely the municipalities of Casale Monferrato, Villanova Monferrato, Balzola, Morano Po, Coniolo, Pontestura, Serralunga di Crea, Cereseto, Treville, Ozzano Monferrato, San Giorgio Monferrato, Sala Monferrato, Cellamonte, Rosignano Monferrato, Terruggia, Ottiglio, Frassinello Monferrato, Olivola, Vignale, Camagna, Conzano, Occimiano, Mirabello Monferrato, Giarole, Valenza, Pomaro Monferrato, Bozzole, Valmacca, Ticineto, Borgo San Martino and Frassineto Po.
 
 4.4. *Proof of origin:*
 
@@ -112,13 +126,26 @@ Every stage in the production process must be monitored and a record made of the
 
 The «Gorgonzola» PDO is shown clearly by two marks to be affixed in the area of production and maturation in order to allow the inspection body to verify beforehand that the product has acquired the qualitative and organoleptic characteristics set out under point 4.2.
 
-The two marks are affixed as follows:one at the point of production, on each of the flat ends displaying the identification number of the dairy, as taken from the tables distributed by the protection body under delegation from the Ministry of Agricultural, Food and Forestry Policy,the other, to be affixed once the product has acquired the requisite characteristics to be released for consumption, consists of goffered aluminium foil wrapped around the whole cheese, or around the half-cheese after it has been cut horizontally, such that the mark of origin with the identification number of the dairy remains clearly visible on the flat end of the cheese and bearing, on the other side, the goffered identifying mark as a guarantee of the authenticity and traceability of the product.
+The two marks are affixed as follows:
+
+- one at the point of production, on each of the flat ends displaying the identification number of the dairy, as taken from the tables distributed by the protection body under delegation from the Ministry of Agricultural, Food and Forestry Policy,
+- the other, to be affixed once the product has acquired the requisite characteristics to be released for consumption, consists of goffered aluminium foil wrapped around the whole cheese, or around the half-cheese after it has been cut horizontally, such that the mark of origin with the identification number of the dairy remains clearly visible on the flat end of the cheese and bearing, on the other side, the goffered identifying mark as a guarantee of the authenticity and traceability of the product.
 
 4.5. *Method of production:*
 
-Production: «Gorgonzola» PDO is produced as follows:whole cows' milk from the production area is pasteurised,curdling: after pasteurisation, the whole cows' milk is inoculated with milk enzymes and with a suspension of Penicillium spores and selected yeasts; calf rennet is then added at a temperature of 28–36 °C,the curd is then put into fasceruoli (perforated cylindrical containers) and the origin mark with the identification number of the dairy is placed on both flat ends,the resulting wheel is dry salted over a period of several days at a temperature of 18–24 °C;during maturation, the varieties and strains of Penicillium characteristic of «Gorgonzola» develop, giving it its blue-green colour (marbling).
+Production: «Gorgonzola» PDO is produced as follows:
 
-Maturation: minimum 50 days:large wheel, mild type: 10–13 kg, with a mild or slightly tangy taste, minimum maturation period: 50 days,medium wheel, tangy type: 9–12 kg, with a pronounced tangy taste, minimum maturation period: 80 days,small wheel, tangy type: 6–8 kg, with a pronounced tangy taste, minimum maturation period: 60 days.
+- whole cows' milk from the production area is pasteurised,
+- curdling: after pasteurisation, the whole cows' milk is inoculated with milk enzymes and with a suspension of Penicillium spores and selected yeasts; calf rennet is then added at a temperature of 28–36 °C,
+- the curd is then put into fasceruoli (perforated cylindrical containers) and the origin mark with the identification number of the dairy is placed on both flat ends,
+- the resulting wheel is dry salted over a period of several days at a temperature of 18–24 °C;
+- during maturation, the varieties and strains of Penicillium characteristic of «Gorgonzola» develop, giving it its blue-green colour (marbling).
+
+Maturation: minimum 50 days:
+
+- large wheel, mild type: 10–13 kg, with a mild or slightly tangy taste, minimum maturation period: 50 days,
+- medium wheel, tangy type: 9–12 kg, with a pronounced tangy taste, minimum maturation period: 80 days,
+- small wheel, tangy type: 6–8 kg, with a pronounced tangy taste, minimum maturation period: 60 days.
 
 The maturation of all types is carried out at a temperature of between 2 and 7 °C and humidity of between 85 and 99 %.
 

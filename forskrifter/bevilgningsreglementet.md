@@ -50,9 +50,19 @@ Budsjettet skal inndeles i kapitler og poster.
 
 Hvert kapittel skal inneholde en eller flere utgifts- eller inntektsposter som gjelder samme formål. Så langt mulig bør bevilgningene under ett kapittel bare disponeres av en virksomhet eller en likeartet gruppe virksomheter.
 
-Utgiftspostene skal inndeles etter art på avdeling for:statens egne driftsutgifter.nybygg, anlegg mv.overføringer til andre.utlån, statsgjeld mv.
+Utgiftspostene skal inndeles etter art på avdeling for:
 
-Inntektspostene skal inndeles etter art på avdeling for:salg av varer og tjenester.inntekter i forbindelse med nybygg, anlegg mv.overføringer fra andre.tilbakebetalinger mv.
+1. statens egne driftsutgifter.
+2. nybygg, anlegg mv.
+3. overføringer til andre.
+4. utlån, statsgjeld mv.
+
+Inntektspostene skal inndeles etter art på avdeling for:
+
+1. salg av varer og tjenester.
+2. inntekter i forbindelse med nybygg, anlegg mv.
+3. overføringer fra andre.
+4. tilbakebetalinger mv.
 
 Kongen kan gi nærmere bestemmelser om hvilke utgifter og inntekter som faller inn under de enkelte avdelingene.
 
@@ -60,9 +70,15 @@ Kongen kan gi nærmere bestemmelser om hvilke utgifter og inntekter som faller i
 
 Bevilgningsvedtakene skal knyttes til hver enkelt utgifts- og inntektspost.
 
-Utgiftsbevilgninger kan ikke overskrides eller brukes til andre formål enn forutsatt av Stortinget. Unntak fra dette krever hjemmel i [§ 11](forskrift/2005-05-26-876/§11) eller [§ 12](forskrift/2005-05-26-876/§12), eller at bevilgningsvedtaket inneholder stikkordet:«overslagsbevilgning», som gir hjemmel til å overskride bevilgningen mot etterfølgende framlegg for Stortinget. Stikkordet kan tilføyes ved bevilgninger der utgiftsbehovet følger av regelverk fastsatt av Stortinget.«kan nyttes under», som gir hjemmel til å overskride den bevilgningen stikkordet henviser til, mot tilsvarende innsparing under den bevilgningen det henvises fra.
+Utgiftsbevilgninger kan ikke overskrides eller brukes til andre formål enn forutsatt av Stortinget. Unntak fra dette krever hjemmel i [§ 11](forskrift/2005-05-26-876/§11) eller [§ 12](forskrift/2005-05-26-876/§12), eller at bevilgningsvedtaket inneholder stikkordet:
 
-Ubrukte utgiftsbevilgninger kan ikke overføres til etterfølgende budsjettår med unntak av at:ubrukt driftsbevilgning kan overføres til neste budsjettår med inntil fem prosent av bevilgningen.bevilgningsvedtak som inneholder stikkordet «kan overføres», gir hjemmel til å overføre ubrukt bevilgning til de to følgende budsjettårene. Stikkordet kan tilføyes ved bevilgninger til bygg, anlegg, materiell og særskilte tiltak der utbetalingstakten kan være usikker.
+1. «overslagsbevilgning», som gir hjemmel til å overskride bevilgningen mot etterfølgende framlegg for Stortinget. Stikkordet kan tilføyes ved bevilgninger der utgiftsbehovet følger av regelverk fastsatt av Stortinget.
+2. «kan nyttes under», som gir hjemmel til å overskride den bevilgningen stikkordet henviser til, mot tilsvarende innsparing under den bevilgningen det henvises fra.
+
+Ubrukte utgiftsbevilgninger kan ikke overføres til etterfølgende budsjettår med unntak av at:
+
+1. ubrukt driftsbevilgning kan overføres til neste budsjettår med inntil fem prosent av bevilgningen.
+2. bevilgningsvedtak som inneholder stikkordet «kan overføres», gir hjemmel til å overføre ubrukt bevilgning til de to følgende budsjettårene. Stikkordet kan tilføyes ved bevilgninger til bygg, anlegg, materiell og særskilte tiltak der utbetalingstakten kan være usikker.
 
 ### § 6. Vedtak om forpliktelser for framtidige budsjettår
 
@@ -106,7 +122,11 @@ Kongen i statsråd kan på vilkår som nevnt i første ledd, samtykke i at det p
 
 Kongen kan bestemme at Finansdepartementet kan samtykke i at det pådras utgifter uten bevilgningsmessig dekning for saker som gjelder mindre beløp og ikke er av prinsipiell natur.
 
-Kongen kan for øvrig gi bestemmelser om overskridelse av:driftsbevilgninger mot tilsvarende merinntekter.investeringsbevilgninger mot tilsvarende innsparing under driftsbevilgninger under samme budsjettkapittel.driftsbevilgninger med inntil fem prosent til investeringsformål mot tilsvarende innsparing i løpet av de tre følgende budsjettår.
+Kongen kan for øvrig gi bestemmelser om overskridelse av:
+
+1. driftsbevilgninger mot tilsvarende merinntekter.
+2. investeringsbevilgninger mot tilsvarende innsparing under driftsbevilgninger under samme budsjettkapittel.
+3. driftsbevilgninger med inntil fem prosent til investeringsformål mot tilsvarende innsparing i løpet av de tre følgende budsjettår.
 
 For samtykke til å pådra staten forpliktelser for framtidige budsjettår, jf. [§ 6](forskrift/2005-05-26-876/§6), gjelder bestemmelsene i første, annet og tredje ledd tilsvarende så langt de passer.
 
@@ -128,7 +148,11 @@ Bevilgningsregnskapet skal under hver post i budsjettet vise regnskapsførte utg
 
 Kapitalregnskapet skal gi en oversikt over statens og trygdenes eiendeler og gjeld og vise sammenhengen med bevilgningsregnskapet.
 
-I tilknytning til statsregnskapet skal det utarbeides oversikter som viser:samtykker til overskridelse av budsjettet.samtykker til å pådra staten forpliktelser utover budsjettåret i forbindelse med bestilling av materiell o.l. og tilsagn om tilskudd, lån og garantier, og hvilke forpliktelser som er pådratt i henhold til samtykkene.samtykker til låneopptak, hva staten har lånt og endring av statsgjelden.
+I tilknytning til statsregnskapet skal det utarbeides oversikter som viser:
+
+1. samtykker til overskridelse av budsjettet.
+2. samtykker til å pådra staten forpliktelser utover budsjettåret i forbindelse med bestilling av materiell o.l. og tilsagn om tilskudd, lån og garantier, og hvilke forpliktelser som er pådratt i henhold til samtykkene.
+3. samtykker til låneopptak, hva staten har lånt og endring av statsgjelden.
 
 Melding om statsregnskapet skal sendes Stortinget så snart regnskapet foreligger.
 
@@ -140,7 +164,10 @@ Kongen kan gi utfyllende bestemmelser om føring av statsregnskapet.
 
 ### § 14. Kontantbeholdningen
 
-Statskassens kontantbeholdning skal plasseres som innskudd på folio i Norges Bank og bare benyttes i samsvar med gitte bevilgninger eller særlig samtykke fra Stortinget. Kongen kan likevel bestemme at deler av kontantbeholdningen:plasseres i andre banker når det er nødvendig å fravike statens konsernkontoordning av hensyn til effektiv oppgaveutførelse, og slike innskudd ikke overstiger behovet for nærmeste framtid.benyttes til finanstransaksjoner som har til hensikt å redusere statens finanskostnader eller ivareta pengepolitiske mål.
+Statskassens kontantbeholdning skal plasseres som innskudd på folio i Norges Bank og bare benyttes i samsvar med gitte bevilgninger eller særlig samtykke fra Stortinget. Kongen kan likevel bestemme at deler av kontantbeholdningen:
+
+1. plasseres i andre banker når det er nødvendig å fravike statens konsernkontoordning av hensyn til effektiv oppgaveutførelse, og slike innskudd ikke overstiger behovet for nærmeste framtid.
+2. benyttes til finanstransaksjoner som har til hensikt å redusere statens finanskostnader eller ivareta pengepolitiske mål.
 
 ## Kapittel 7. Ikrafttredelse
 

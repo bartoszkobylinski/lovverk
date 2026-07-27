@@ -30,7 +30,11 @@ Rådet skal ha det totale oppvekstmiljø for øye og gi råd om hvordan barns og
 
 ## 2.
 
-Rådet har elleve medlemmer med personlige varamedlemmer, oppnevnt av Kongen for to år om gangen. Valgperioden følger kalenderåret. Seks av medlemmene med varamedlemmer opnevnes på fritt grunnlag. De andre medlemmene med varamedlemmer oppnevnes etter forslag fraLandsrådet for Norske Ungdomsorganisasjoner (LNU), som foreslår tre medlemmer med varamedlemmer. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsrådet.Organisasjoner utenom LNU, som foreslår ett medlem med varamedlemm. Kultur- og vitenskapsdepartementet inhenter forslag fra organisasjonene.Organisasjonene innenfor offentlig ungdomsarbeid, som foreslår ett medlem med varamedlem. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsforeningen for fritidsklubber (LFK).
+Rådet har elleve medlemmer med personlige varamedlemmer, oppnevnt av Kongen for to år om gangen. Valgperioden følger kalenderåret. Seks av medlemmene med varamedlemmer opnevnes på fritt grunnlag. De andre medlemmene med varamedlemmer oppnevnes etter forslag fra
+
+- Landsrådet for Norske Ungdomsorganisasjoner (LNU), som foreslår tre medlemmer med varamedlemmer. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsrådet.
+- Organisasjoner utenom LNU, som foreslår ett medlem med varamedlemm. Kultur- og vitenskapsdepartementet inhenter forslag fra organisasjonene.
+- Organisasjonene innenfor offentlig ungdomsarbeid, som foreslår ett medlem med varamedlem. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsforeningen for fritidsklubber (LFK).
 
 Kongen utpeker leder og nestleder for rådet.
 

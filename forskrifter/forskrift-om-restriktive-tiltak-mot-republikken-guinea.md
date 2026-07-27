@@ -15,7 +15,7 @@ xml_hash: "cd3b1da47fa7ae3030f50780a8d8350aa3dcc5dc5c5778de4b518a90f2607684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonoverfor alle norske statsborgere uansett hvor de befinner segoverfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningoverfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Denne forskriften med vedlegg kommer til anvendelse:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle luftfartøy eller fartøy under norsk jurisdiksjon
+3. overfor alle norske statsborgere uansett hvor de befinner seg
+4. overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
+5. overfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 ### § 2. Innarbeiding av forordning (EU) nr. 1284/2009
 
@@ -75,7 +81,21 @@ om innføring av visse spesifikke restriktive tiltak mot Republikken Guinea
 
 ### Artikkel 1
 
-I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavender og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter eller verdier påløpt eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller formuesgoder,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte kommer til anvendelse, på de vilkår som er fastsatt i traktaten.
+I denne forordning menes med
+
+1. «penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavender og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter eller verdier påløpt eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller formuesgoder,
+2. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+3. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+4. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,
+5. «EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte kommer til anvendelse, på de vilkår som er fastsatt i traktaten.
 
 ### Artikkel 2. (opphevet)
 
@@ -100,25 +120,48 @@ Forbudene i artikkel 6 nr. 2 skal ikke medføre noen form for ansvar for fysiske
 
 ### Artikkel 8
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse, på de vilkår de finner hensiktsmessige, til at visse frosne penger eller formuesgoder frigis eller stilles til rådighet forutsatt at pengene eller formuesgodeneer nødvendige for å dekke de grunnleggende behov hos de personene som er oppført på listen i vedlegg II, samt familiemedlemmer de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og legebehandling, skatter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerer nødvendige for å dekke ekstraordinære utgifter, forutsatt at medlemsstaten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstater og Kommisjonen om hvorfor den anser at en bestemt tillatelse bør gis.
+1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse, på de vilkår de finner hensiktsmessige, til at visse frosne penger eller formuesgoder frigis eller stilles til rådighet forutsatt at pengene eller formuesgodene
+
+   1. er nødvendige for å dekke de grunnleggende behov hos de personene som er oppført på listen i vedlegg II, samt familiemedlemmer de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og legebehandling, skatter, forsikringspremier og kommunale avgifter,
+   2. utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,
+   3. utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, eller
+   4. er nødvendige for å dekke ekstraordinære utgifter, forutsatt at medlemsstaten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstater og Kommisjonen om hvorfor den anser at en bestemt tillatelse bør gis.
 2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 8a
 
-1. [Artikkel 6 nr. 1](forskrift/2014-05-09-626/a6/nummer/1) og [2](forskrift/2014-05-09-626/a6/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+1. [Artikkel 6 nr. 1](forskrift/2014-05-09-626/a6/nummer/1) og [2](forskrift/2014-05-09-626/a6/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+   1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+   2. internasjonale organisasjoner,
+   3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+   4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+   5. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,
+   6. medlemsstatenes særlige organer, eller
+   7. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 2. Uten at det berører nr. 1, kan de kompetente myndighetene i medlemsstatene, som er angitt på nettsidene oppført i [vedlegg III](forskrift/2014-05-09-626/vedleggIII), gjøre unntak fra bestemmelsene i [artikkel 6](forskrift/2014-05-09-626/a6) nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
 3. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
 4. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
 
 ### Artikkel 9
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse til at visse frosne penger eller formuesgoder frigis dersom følgende vilkår er oppfylt:pengene eller formuesgodene det gjelder, er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato da personen, enheten eller organet nevnt i artikkel 6 ble listeført, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,pengene eller formuesgodene det gjelder, utelukkende skal brukes til å innfri fordringer som er sikret ved en slik tilbakeholdsrett eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt av gjeldende lover og forskrifter om slike fordringshaveres rettigheter,tilbakeholdsretten eller avgjørelsen er ikke til fordel for en person, en enhet eller et organ oppført på listen i vedlegg II, oganerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse til at visse frosne penger eller formuesgoder frigis dersom følgende vilkår er oppfylt:
+
+   1. pengene eller formuesgodene det gjelder, er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato da personen, enheten eller organet nevnt i artikkel 6 ble listeført, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,
+   2. pengene eller formuesgodene det gjelder, utelukkende skal brukes til å innfri fordringer som er sikret ved en slik tilbakeholdsrett eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt av gjeldende lover og forskrifter om slike fordringshaveres rettigheter,
+   3. tilbakeholdsretten eller avgjørelsen er ikke til fordel for en person, en enhet eller et organ oppført på listen i vedlegg II, og
+   4. anerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 10
 
 1. Bestemmelsene i artikkel 6 nr. 2 skal ikke forhindre at finans- eller kredittinstitusjoner i EU i å godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal straks underrette vedkommende kompetente myndighet om slike transaksjoner.
-2. Bestemmelsene i artikkel 6 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg II,forutsatt at rentene, andre inntekter, betalinger eller finansielle instrumenter fryses i samsvar med artikkel 6 nr. 1.
+2. Bestemmelsene i artikkel 6 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form av
+
+   1. renter eller andre former for avkastning på disse kontiene, eller
+   2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg II,
+
+   forutsatt at rentene, andre inntekter, betalinger eller finansielle instrumenter fryses i samsvar med artikkel 6 nr. 1.
 
 ### Artikkel 11
 
@@ -126,7 +169,10 @@ Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette g
 
 ### Artikkel 12
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter eller organeromgående gi opplysninger som vil fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 6, til medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, der de er bosatt eller befinner seg, og gi opplysningene til Kommisjonen, direkte eller gjennom de kompetente myndigheter som angitt på nettsidene oppført i vedlegg III,samarbeide med denne kompetente myndigheten om verifisering av opplysningene.
+1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter eller organer
+
+   1. omgående gi opplysninger som vil fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 6, til medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, der de er bosatt eller befinner seg, og gi opplysningene til Kommisjonen, direkte eller gjennom de kompetente myndigheter som angitt på nettsidene oppført i vedlegg III,
+   2. samarbeide med denne kompetente myndigheten om verifisering av opplysningene.
 2. Enhver tilleggsopplysning som Kommisjonen mottar direkte, skal stilles til rådighet for den berørte medlemsstaten.
 3. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
 
@@ -138,7 +184,17 @@ Kommisjonen og medlemsstatene skal umiddelbart underrette hverandre om tiltak de
 
 Vedlegg II inneholder opplysninger, i den grad slike opplysninger er tilgjengelige, om listeførte fysiske personer slik at disse kan identifiseres på tilfredsstillende vis.
 
-Opplysningene kan omfatteetternavn og fornavn, herunder eventuelle dekknavn og titler,fødselsdato og fødested,statsborgerskap,passnummer og identitetskortnummer,skattenummer og trygdenummer,kjønn,adresse eller andre opplysninger om oppholdssted,stilling eller yrke,listeføringsdato.
+Opplysningene kan omfatte
+
+1. etternavn og fornavn, herunder eventuelle dekknavn og titler,
+2. fødselsdato og fødested,
+3. statsborgerskap,
+4. passnummer og identitetskortnummer,
+5. skattenummer og trygdenummer,
+6. kjønn,
+7. adresse eller andre opplysninger om oppholdssted,
+8. stilling eller yrke,
+9. listeføringsdato.
 
 Vedlegg II kan også inneholde opplysninger for identifikasjon som fastsatt i dette nummer om de listeførte personenes familiemedlemmer, forutsatt at disse opplysningene er nødvendig i et gitt tilfelle utelukkende for å verifisere identiteten til denne listeførte personen.
 
@@ -168,7 +224,13 @@ Kommisjonen skal ha myndighet til å endre vedlegg III på grunnlag av opplysnin
 
 ### Artikkel 18
 
-Denne forordning får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter eller organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordning får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter eller organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 19
 

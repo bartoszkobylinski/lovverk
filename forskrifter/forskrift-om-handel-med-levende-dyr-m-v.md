@@ -15,7 +15,7 @@ xml_hash: "32a74a6b816ac2fd022012480503e5ef7278b3a12424558cece56e7c1af3d93a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Forskriften skal sikre tilsyn og kontroll med dyrehelsemessige, dyrevernmessige 
 
 Forskriften gjelder tilsyn og kontroll med import og eksport av levende dyr, annet avlsmateriale og animalsk avfall innen EØS, og ved import av levende dyr fra tredjestater.
 
-Forskriften gjelder ikke:Kjæledyr i følge med eier eller under ansvar av en privatperson og avlsmateriale fra kjæledyr, når innførselen eller utførselen ikke er gjenstand for kommersiell handel.Avlsmateriale som skal brukes i særskilte studier eller analyser. Etter bruk skal avlsmateriale destrueres eller videresendes på de vilkår som tilsynsmyndigheten fastsetter.Levende skjell og skalldyr når de er beregnet til konsum.
+Forskriften gjelder ikke:
+
+1. Kjæledyr i følge med eier eller under ansvar av en privatperson og avlsmateriale fra kjæledyr, når innførselen eller utførselen ikke er gjenstand for kommersiell handel.
+2. Avlsmateriale som skal brukes i særskilte studier eller analyser. Etter bruk skal avlsmateriale destrueres eller videresendes på de vilkår som tilsynsmyndigheten fastsetter.
+3. Levende skjell og skalldyr når de er beregnet til konsum.
 
 Forskriften gjelder uten hensyn til den kontroll som er pålagt og som gjennomføres av toll- og avgiftsmessige hensyn.
 
@@ -42,7 +46,20 @@ Forskriften gjelder uten hensyn til den kontroll som er pålagt og som gjennomf�
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med:*Dokumentkontroll:* Kontroll av helsesertifikat eller annen pålagt dokumentasjon som følger forsendelsen.*Identitetskontroll:* Kontroll av overensstemmelse mellom helsesertifikat eller pålagt annen dokumentasjon og forsendelsen, inkludert kontroll av pålagt merking av forsendelsen.*Fysisk kontroll:* Kontroll av dyr eller vare, inkludert eventuell prøvetaking og testing av prøver.*Grensekontrollstasjon:* Enhver kontrollstasjon beliggende ved EØS' yttergrense.*Tredjestat:* Stat som verken er medlem i EU eller som gjennom EØS-avtalen har inngått avtale med EU om handel med dyr.*Animalsk avfall:* Animalske biprodukter slik det er definert i [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.*Annet avlsmateriale:* Ova, embryo og sæd.*Forsendelse:* En mengde levende dyr, annet avlsmateriale eller animalsk avfall, som sendes med samme transportmiddel, med samme rute og bestemmelsessted, og som dekkes av samme helsesertifikat eller annen pålagt dokumentasjon.*Første mottaker:* Den første virksomhet som etter innførsel mottar levende dyr, annet avlsmateriale og animalsk avfall.– – –*CHED:* Felles innførselsdokument til bruk ved import fra tredjestater, som fastsatt i forordning [(EU) 2019/1715](eu/32019r1715*), vedlegg II.*Tilsynsveterinær:* Veterinær som i henhold til særskilte forskrifter er kvalifisert til å opptre som sådan og som er oppnevnt av Mattilsynet.
+I denne forskrift forstås med:
+
+1. *Dokumentkontroll:* Kontroll av helsesertifikat eller annen pålagt dokumentasjon som følger forsendelsen.
+2. *Identitetskontroll:* Kontroll av overensstemmelse mellom helsesertifikat eller pålagt annen dokumentasjon og forsendelsen, inkludert kontroll av pålagt merking av forsendelsen.
+3. *Fysisk kontroll:* Kontroll av dyr eller vare, inkludert eventuell prøvetaking og testing av prøver.
+4. *Grensekontrollstasjon:* Enhver kontrollstasjon beliggende ved EØS' yttergrense.
+5. *Tredjestat:* Stat som verken er medlem i EU eller som gjennom EØS-avtalen har inngått avtale med EU om handel med dyr.
+6. *Animalsk avfall:* Animalske biprodukter slik det er definert i [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
+7. *Annet avlsmateriale:* Ova, embryo og sæd.
+8. *Forsendelse:* En mengde levende dyr, annet avlsmateriale eller animalsk avfall, som sendes med samme transportmiddel, med samme rute og bestemmelsessted, og som dekkes av samme helsesertifikat eller annen pålagt dokumentasjon.
+9. *Første mottaker:* Den første virksomhet som etter innførsel mottar levende dyr, annet avlsmateriale og animalsk avfall.
+10. – – –
+11. *CHED:* Felles innførselsdokument til bruk ved import fra tredjestater, som fastsatt i forordning [(EU) 2019/1715](eu/32019r1715*), vedlegg II.
+12. *Tilsynsveterinær:* Veterinær som i henhold til særskilte forskrifter er kvalifisert til å opptre som sådan og som er oppnevnt av Mattilsynet.
 
 > Endret ved [forskrifter 18 okt 1999 nr. 1164](forskrift/1999-10-18-1164), [30 nov 2005 nr. 1354](forskrift/2005-11-30-1354), [27 okt 2007 nr. 1267](forskrift/2007-10-27-1267), [19 okt 2016 nr. 1217](forskrift/2016-10-19-1217), [9 mars 2020 nr. 719](forskrift/2020-03-09-719) (i kraft 7 april 2020).
 
@@ -86,7 +103,14 @@ Mattilsynet kan tillate senere registrering såfremt dette ikke er til hinder fo
 
 Ved import fra land innen EØS omfattet av denne forskriften skal importøren eller dennes representant gi melding om forsendelsen til det lokale Mattilsynet på bestemmelsesstedet eller tilsynsveterinæren i den virksomheten som er bestemmelsesstedet for forsendelsen. Meldingen skal være kommet frem senest 24 timer før ankomst til bestemmelsesstedet. Mattilsynet kan tillate kortere meldingsfrist for enkelte forsendelser såfremt dette ikke er til hinder for utøvelse av tilsyn.
 
-Meldingen skal sendes på fastsatt skjema, og skal minst inneholde følgende opplysninger:Virksomhetens navn, adresse og organisasjonsnummer eller personnummer.Ankomsttid og bestemmelsessted.Avsenderland.Antall enheter i forsendelsen.Varegruppe med angivelse av tolltariffnummer (åtte siffer) i henhold til inndeling i norsk tolltariff.Identiteten på forsendelsen.
+Meldingen skal sendes på fastsatt skjema, og skal minst inneholde følgende opplysninger:
+
+1. Virksomhetens navn, adresse og organisasjonsnummer eller personnummer.
+2. Ankomsttid og bestemmelsessted.
+3. Avsenderland.
+4. Antall enheter i forsendelsen.
+5. Varegruppe med angivelse av tolltariffnummer (åtte siffer) i henhold til inndeling i norsk tolltariff.
+6. Identiteten på forsendelsen.
 
 Kravet til melding om import gjelder ikke ved import fra land innen EØS av registrerte dyr av hestefamilien.
 
@@ -100,7 +124,11 @@ Ved manglende melding skal forsendelsen ikke tollekspederes før slik melding er
 
 Første mottaker skal føre fortegnelse over mottatte forsendelser og gjennomføre den kontroll som er nødvendig for å sikre samsvar med de betingelser som stilles til innførsel før videre distribusjon av forsendelsen. Fortegnelsen skal inneholde navn og adresse på avsender(e) og mottaker(e) og identiteten på forsendelsen.
 
-Første mottaker skal i tillegg kontrollere atforsendelsen følges av handelsdokument, helsesertifikat eller annen pålagt dokumentasjon,det er overensstemmelse mellom dokumentasjonen i nr. 1 og den angjeldende forsendelsen,dyrene, avlsmaterialet eller avfallet er forskriftsmessig merket.
+Første mottaker skal i tillegg kontrollere at
+
+1. forsendelsen følges av handelsdokument, helsesertifikat eller annen pålagt dokumentasjon,
+2. det er overensstemmelse mellom dokumentasjonen i nr. 1 og den angjeldende forsendelsen,
+3. dyrene, avlsmaterialet eller avfallet er forskriftsmessig merket.
 
 I driftsenheter, virksomheter, godkjente sentere skal virksomheten selv foreta kontrollen etter andre ledd. I virksomheter med tilsynsveterinær, skal denne foreta kontrollen.
 
@@ -160,7 +188,13 @@ Forsendelser som skal sendes videre til et annet land innen EØS, skal gjennomg�
 
 Offentlig veterinær på den grensekontrollstasjonen som er bestemmelsessted for en forsendelse som er videresendt fra en annen grensekontrollstasjon, skal utstede og fylle ut CHED på den måte som er fastsatt i [forskrift 9. mars 2020 nr. 715](forskrift/2020-03-09-715) om offentlig kontroll – IMSOC – forordning [(EU) 2019/1715](eu/32019r1715*) og [forskrift 9. mars 2020 nr. 711](forskrift/2020-03-09-711) om offentlig kontroll – krav til transporten ved import og transitt, forordning [(EU) 2019/1666](eu/32019r1666), forordning [(EU) 2019/2124](eu/32019r2124) og forordning [(EU) 2019/2128](eu/32019r2128).
 
-Forsendelser som skal sendes i transitt gjennom Norge til en tredjestat, kan tillates sendt gjennom Norge dersom:Grenseveterinæren på den aktuelle grensekontrollstasjonen gir tillatelse til videresending.Den ansvarlige for forsendelsen kan godtgjøre at den ikke blir avvist i vedkommende tredjestat.Forsendelsen har gjennomgått veterinær grensekontroll, jf. [§ 14](forskrift/1998-12-31-1484/§14), med tilfredsstillende resultat.Forsendelsen utelukkende håndteres ved grensepassering innen EØS og under transport ved kontroll av dyrehelsemessige forhold.Transport skjer i henhold til godkjent tollprosedyre.
+Forsendelser som skal sendes i transitt gjennom Norge til en tredjestat, kan tillates sendt gjennom Norge dersom:
+
+1. Grenseveterinæren på den aktuelle grensekontrollstasjonen gir tillatelse til videresending.
+2. Den ansvarlige for forsendelsen kan godtgjøre at den ikke blir avvist i vedkommende tredjestat.
+3. Forsendelsen har gjennomgått veterinær grensekontroll, jf. [§ 14](forskrift/1998-12-31-1484/§14), med tilfredsstillende resultat.
+4. Forsendelsen utelukkende håndteres ved grensepassering innen EØS og under transport ved kontroll av dyrehelsemessige forhold.
+5. Transport skjer i henhold til godkjent tollprosedyre.
 
 Offentlig veterinær på den grensekontrollstasjonen som er utførselssted for en forsendelse i transitt, skal fylle ut CHED på den måte som er fastsatt i [forskrift 9. mars 2020 nr. 715](forskrift/2020-03-09-715) om offentlig kontroll – IMSOC – forordning [(EU) 2019/1715](eu/32019r1715*) og [forskrift 9. mars 2020 nr. 711](forskrift/2020-03-09-711) om offentlig kontroll – krav til transporten ved import og transitt, forordning [(EU) 2019/1666](eu/32019r1666), forordning [(EU) 2019/2124](eu/32019r2124) og forordning [(EU) 2019/2128](eu/32019r2128).
 
@@ -168,7 +202,13 @@ Offentlig veterinær på den grensekontrollstasjonen som er utførselssted for e
 
 ### § 16. Avvisning
 
-Forsendelsen avvises dersom grensekontrollen avdekker atforsendelsen kommer fra et land utenfor EØS eller region av slikt land som ikke er godkjent for eksport til EØS av den aktuelle varenforsendelsen ikke oppfyller de dyrehelsemessige betingelsene for innførseldet er mistanke om smittsom sykdom eller sykdom som representerer en fare for dyrehelsenhelsesertifikatet eller annet dokument som følger forsendelsen ikke oppfyller de krav som stilles til slike dokumenterlandet utenfor EØS ikke oppfyller de krav som stilles til landet.
+Forsendelsen avvises dersom grensekontrollen avdekker at
+
+1. forsendelsen kommer fra et land utenfor EØS eller region av slikt land som ikke er godkjent for eksport til EØS av den aktuelle varen
+2. forsendelsen ikke oppfyller de dyrehelsemessige betingelsene for innførsel
+3. det er mistanke om smittsom sykdom eller sykdom som representerer en fare for dyrehelsen
+4. helsesertifikatet eller annet dokument som følger forsendelsen ikke oppfyller de krav som stilles til slike dokumenter
+5. landet utenfor EØS ikke oppfyller de krav som stilles til landet.
 
 Ved avvisning påføres alle dokumenter som følger forsendelsen et stempel som viser at forsendelsen er avvist.
 
@@ -190,7 +230,10 @@ Alle kostnader forbundet med avviste forsendelser og videre behandling av disse 
 
 Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
 
-Dersom forsendelsen ikke tilfredsstiller gjeldende krav til dokumentasjon og helsestatus eller det påvises sykdom eller smitte som tilsier at innførsel ikke kan skje, kan Mattilsynet, etter først å ha informert importøren, entensette dyrene i isolasjon, eller holde tilbake forsendelsen til nødvendig dokumentasjon er lagt fram, ellermed tillatelse fra både eksport- og importmyndigheter, returnere forsendelsen.
+Dersom forsendelsen ikke tilfredsstiller gjeldende krav til dokumentasjon og helsestatus eller det påvises sykdom eller smitte som tilsier at innførsel ikke kan skje, kan Mattilsynet, etter først å ha informert importøren, enten
+
+1. sette dyrene i isolasjon, eller holde tilbake forsendelsen til nødvendig dokumentasjon er lagt fram, eller
+2. med tillatelse fra både eksport- og importmyndigheter, returnere forsendelsen.
 
 Dersom vilkårene i annet ledd ikke er oppfylt innen nærmere bestemte frister, skal dyr avlives og destrueres, og annet avlsmateriale og animalsk avfall destrueres.
 

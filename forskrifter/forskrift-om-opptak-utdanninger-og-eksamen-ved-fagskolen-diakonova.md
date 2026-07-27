@@ -15,7 +15,7 @@ xml_hash: "5626f9ddec128457688b10c3f54ec437e00884750b83b7944d81fb4dcb8db7a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,11 +124,20 @@ eu_basis: []
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger må søkere dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 (fremkommer av studieplanene til de ulike utdanningene) i Europarådets referanserammeverk for språk.
 
-(3) Kunnskaper i norsk dokumenteres ved å ha bestått én av følgende prøver:norsk med 393 timer fra videregående opplæringeksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneeksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterskriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [integreringsforskriften § 34](forskrift/2020-12-15-2912/§34), samt [integreringsloven § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres ved å ha bestått én av følgende prøver:
+
+1. norsk med 393 timer fra videregående opplæring
+2. eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [integreringsforskriften § 34](forskrift/2020-12-15-2912/§34), samt [integreringsloven § 37](lov/2020-11-06-127/§37).
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [integreringsloven § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB).oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB).
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -198,8 +207,20 @@ eu_basis: []
 
 (2) Studierett gir studenter rett til å delta i undervisning, veiledning, tilgang til læringsplattform og få obligatoriske aktiviteter og eksamener vurdert.
 
-(3) Studenter kan tape studieretten dersom studenter:ikke tilfredsstiller vilkårene for betinget opptakhar fått vedtak om karantenetid for bruk av falske dokumenter ved opptak til fagskoleutdanningen, jf. [fagskoleloven § 16a](lov/2018-06-08-28/§16a)unnlater å betale studie- eller semesteravgift innen fastsatt fristhar brukt alle forsøkene på en eksamen eller praksisperiode uten godkjent resultat og ikke er innvilget dispensasjon for ytterligere eksamensforsøkikke har fullført utdanningsprogrammet innen forlenget utdanningsløphar fått vedtak på forsøk på fusk av fagskolens klagenemndikke oppfyller de obligatoriske aktivitetene som er spesifisert i studieplanen i normert utdanningsløp eller tilrettelagt utdanningsløp etter avtale med skolentil tross for skriftlig advarsel har brukt klesplagg som helt eller delvis dekker ansiktet i strid med [fagskoleloven § 43](lov/2018-06-08-28/§43)har fått vedtak om utestenging som følge av å ha skapt fare for liv eller helse, å ha opptrådt grovt usømmelig overfor noen som studenten har møtt i forbindelse med undervisning eller praksisstudier eller å ha brutt lovfestet taushetsplikt, jf. [fagskoleloven § 25 tredje ledd](lov/2018-06-08-28/§25/ledd/3)har fått vedtak om utestenging fra fagskoleutdanning fordi studenten ikke er skikket for yrket, jf. [fagskoleloven § 26](lov/2018-06-08-28/§26)som deltar på en utdanning innen helse og omsorgsfag ikke har levert politiattest, jf. [fagskoleloven § 27](lov/2018-06-08-28/§27), innen fastsatt frist.
-Listen er ikke uttømmende.
+(3) Studenter kan tape studieretten dersom studenter:
+
+1. ikke tilfredsstiller vilkårene for betinget opptak
+2. har fått vedtak om karantenetid for bruk av falske dokumenter ved opptak til fagskoleutdanningen, jf. [fagskoleloven § 16a](lov/2018-06-08-28/§16a)
+3. unnlater å betale studie- eller semesteravgift innen fastsatt frist
+4. har brukt alle forsøkene på en eksamen eller praksisperiode uten godkjent resultat og ikke er innvilget dispensasjon for ytterligere eksamensforsøk
+5. ikke har fullført utdanningsprogrammet innen forlenget utdanningsløp
+6. har fått vedtak på forsøk på fusk av fagskolens klagenemnd
+7. ikke oppfyller de obligatoriske aktivitetene som er spesifisert i studieplanen i normert utdanningsløp eller tilrettelagt utdanningsløp etter avtale med skolen
+8. til tross for skriftlig advarsel har brukt klesplagg som helt eller delvis dekker ansiktet i strid med [fagskoleloven § 43](lov/2018-06-08-28/§43)
+9. har fått vedtak om utestenging som følge av å ha skapt fare for liv eller helse, å ha opptrådt grovt usømmelig overfor noen som studenten har møtt i forbindelse med undervisning eller praksisstudier eller å ha brutt lovfestet taushetsplikt, jf. [fagskoleloven § 25 tredje ledd](lov/2018-06-08-28/§25/ledd/3)
+10. har fått vedtak om utestenging fra fagskoleutdanning fordi studenten ikke er skikket for yrket, jf. [fagskoleloven § 26](lov/2018-06-08-28/§26)
+11. som deltar på en utdanning innen helse og omsorgsfag ikke har levert politiattest, jf. [fagskoleloven § 27](lov/2018-06-08-28/§27), innen fastsatt frist.
+    Listen er ikke uttømmende.
 
 (4) En student har rett til å uttale seg før det treffes vedtak i en sak om bortvisning og utestenging.
 
@@ -207,7 +228,11 @@ Listen er ikke uttømmende.
 
 (6) Studenter som har mistet studieretten, kan søke om opptak til samme eller tilsvarende utdanning etter den perioden som er angitt i vedtaket.
 
-(7) Studieretten opphører:når studenten trekker seg fra utdanningennår utdanningen er fullført og vitnemål eller karakterutskrift er utstedtved tap av studierett, jf. denne forskriften [§ 3-1 (3)](forskrift/2025-01-09-20/§3-1/ledd/3).
+(7) Studieretten opphører:
+
+1. når studenten trekker seg fra utdanningen
+2. når utdanningen er fullført og vitnemål eller karakterutskrift er utstedt
+3. ved tap av studierett, jf. denne forskriften [§ 3-1 (3)](forskrift/2025-01-09-20/§3-1/ledd/3).
 
 ### § 3-2. Studentenes ansvar
 
@@ -245,7 +270,12 @@ Listen er ikke uttømmende.
 
 ### § 3-5. Permisjon
 
-(1) Det kan søkes om inntil to års permisjon ved:fødsel/adopsjonalvorlig sykdomomsorg for barnverneplikt.
+(1) Det kan søkes om inntil to års permisjon ved:
+
+1. fødsel/adopsjon
+2. alvorlig sykdom
+3. omsorg for barn
+4. verneplikt.
 
 (2) For å søke om permisjon på grunnlag av andre årsaker enn de beskrevet i første ledd, må studenten som hovedregel ha gjennomført minst ett semester.
 
@@ -289,7 +319,12 @@ Listen er ikke uttømmende.
 
 (2) Styret og studentorganet skal legge forholdene til rette for et godt og inkluderende læringsmiljø.
 
-(3) Læringsmiljøet ved Fagskolen Diakonova inkluderer følgende dimensjoner:fysisk miljø med hensyn til bygninger og fasiliteterpsykososialt miljø relatert til trivsel og samspillorganisatorisk miljø knyttet til strukturer og prosesserdigitalt miljø for teknologiske løsninger som brukes i den pedagogiske virksomheten.
+(3) Læringsmiljøet ved Fagskolen Diakonova inkluderer følgende dimensjoner:
+
+1. fysisk miljø med hensyn til bygninger og fasiliteter
+2. psykososialt miljø relatert til trivsel og samspill
+3. organisatorisk miljø knyttet til strukturer og prosesser
+4. digitalt miljø for teknologiske løsninger som brukes i den pedagogiske virksomheten.
 
 ## Kapittel 4. Obligatoriske aktiviteter, avsluttende vurdering, eksamen og sensur
 
@@ -341,7 +376,16 @@ Listen er ikke uttømmende.
 
 En student har rett til å fremstille seg tre (3) ganger til samme eksamen. Dersom en student unnlater å møte til eksamen uten gyldig grunn, telles dette som ett eksamensforsøk.
 
-Tellende forsøk er når studenten:har bestått eksamenfår karakteren F / ikke beståtttrekker seg etter avmeldingsfristens utløpikke møter til eksamenikke leverer eksamensbesvarelse innen fristenhar møtt til eksamen, men velger å trekke seg under eksamenfår eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptredenikke har godkjent fravær etter [§ 4-3-5](forskrift/2025-01-09-20/§4-3-5).
+Tellende forsøk er når studenten:
+
+1. har bestått eksamen
+2. får karakteren F / ikke bestått
+3. trekker seg etter avmeldingsfristens utløp
+4. ikke møter til eksamen
+5. ikke leverer eksamensbesvarelse innen fristen
+6. har møtt til eksamen, men velger å trekke seg under eksamen
+7. får eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden
+8. ikke har godkjent fravær etter [§ 4-3-5](forskrift/2025-01-09-20/§4-3-5).
 
 ### § 4-3-5. Fravær fra eksamen
 
@@ -369,8 +413,15 @@ Tellende forsøk er når studenten:har bestått eksamenfår karakteren F / ikke 
 
 (1) Eksamen gjennomføres i henhold til de eksamens- og vurderingsformer som er fastsatt i studieplanen.
 
-(2) Eksempler på vurderingsformer er:skriftlig skoleeksamenskriftlig hjemmeoppgave eller hjemmeeksamen med etterfølgende muntlig prøvingsemester-/prosjektoppgavemuntlig prøvingprosjektoppgave med etterfølgende muntlig prøvingmappevurdering.
-Listen er ikke uttømmende.
+(2) Eksempler på vurderingsformer er:
+
+1. skriftlig skoleeksamen
+2. skriftlig hjemmeoppgave eller hjemmeeksamen med etterfølgende muntlig prøving
+3. semester-/prosjektoppgave
+4. muntlig prøving
+5. prosjektoppgave med etterfølgende muntlig prøving
+6. mappevurdering.
+   Listen er ikke uttømmende.
 
 (3) Fagskolen Diakonova benytter både en gradert karakterskala (A til F) og bestått/ikke bestått som vurderingsuttrykk.
 
@@ -405,8 +456,14 @@ Listen er ikke uttømmende.
 
 (1) Fusk omfatter handlinger eller forhold som gir studenten, eller en medstudent, et uberettiget fortrinn eller som medfører at studentenes kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte. Forsøk på fusk innebærer at en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen eller annet vurderingsarbeid.
 
-(2) Fusk kan være å:bruke hjelpemidler som ikke er tillatt på eksamenutgi andres arbeid som egetsitere kilder uten korrekt kildehenvisning (plagiat)samarbeide uten tillatelsebryte eksamensreglementet for øvrig.
-Listen er ikke uttømmende.
+(2) Fusk kan være å:
+
+1. bruke hjelpemidler som ikke er tillatt på eksamen
+2. utgi andres arbeid som eget
+3. sitere kilder uten korrekt kildehenvisning (plagiat)
+4. samarbeide uten tillatelse
+5. bryte eksamensreglementet for øvrig.
+   Listen er ikke uttømmende.
 
 (3) Med hjemmel i [fagskoleloven § 24](lov/2018-06-08-28/§24) kan fagskolens styre annullere en eksamen, prøve eller innlevering ved fusk, forsøk på fusk, eller annen uredelig opptreden. Styret kan også annullere dersom studenten har meldt seg opp til eksamen basert på falske vitnemål.
 
@@ -420,8 +477,12 @@ Listen er ikke uttømmende.
 
 ### § 4-7. Klage på formelle feil ved eksamen og eksamensavvikling
 
-(1) En student kan klage på formelle feil ved eksamen eller annen vurdering. En formell feil er i all hovedsak en feil fra fagskolens side som har, eller kan ha hatt innvirkning på studentens prestasjon, eller bedømmelsen av denne. Eksempler på formelle feil kan være:feil i eksamensoppgaven som kan ha påvirket studentens resultatfeil under gjennomføring av selve eksamenen som kan ha påvirket studentens resultatfeil i sensuren av besvarelsen.
-Listen er ikke uttømmende.
+(1) En student kan klage på formelle feil ved eksamen eller annen vurdering. En formell feil er i all hovedsak en feil fra fagskolens side som har, eller kan ha hatt innvirkning på studentens prestasjon, eller bedømmelsen av denne. Eksempler på formelle feil kan være:
+
+1. feil i eksamensoppgaven som kan ha påvirket studentens resultat
+2. feil under gjennomføring av selve eksamenen som kan ha påvirket studentens resultat
+3. feil i sensuren av besvarelsen.
+   Listen er ikke uttømmende.
 
 (2) Krav til klage over formelle feil ved eksamen eller annet arbeid som bedømmes med karakter er regulert i [fagskoleloven § 23](lov/2018-06-08-28/§23).
 
@@ -461,7 +522,10 @@ Listen er ikke uttømmende.
 
 (2) Hvis en student avbryter en praksisperiode uten dokumentert grunnlag, vurderes praksisperioden som «ikke bestått». Ved ikke bestått praksis har studenten rett til å få tilrettelagt praksisperioden én (1) gang til. Dersom praksis vurderes som «ikke bestått» to (2) ganger, mister studenten studieplassen. Tap av studieplass regnes som et enkeltvedtak i henhold til [forvaltningsloven § 2 bokstav b](lov/1967-02-10/§2/bokstav/b), og kan påklages etter bestemmelser i [forvaltningsloven § 28](lov/1967-02-10/§28).
 
-(3) For å avlegge eventuell ny praksisperiode må studenten oppfylle følgende krav:ha bestått alle obligatoriske aktiviteter, obligatoriske arbeidskrav og eventuelle eksamenervære skikket i henhold til denne forskriftens [kapittel 6](forskrift/2025-01-09-20/kap6).
+(3) For å avlegge eventuell ny praksisperiode må studenten oppfylle følgende krav:
+
+1. ha bestått alle obligatoriske aktiviteter, obligatoriske arbeidskrav og eventuelle eksamener
+2. være skikket i henhold til denne forskriftens [kapittel 6](forskrift/2025-01-09-20/kap6).
 
 ## Kapittel 5. Dokumentasjon
 

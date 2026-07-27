@@ -15,7 +15,7 @@ xml_hash: "90b3d41d460cbd3bff828f574021b160af123126ae0b3e6a121c4c1dbfe3458c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,12 @@ Registreringen kan gis tidsbegrenset varighet.
 
 Direktoratet for naturforvaltning gir utførselstillatelse for hver enkelt forsendelse etter skriftlig søknad fra registrert eksportør. Utførselstillatelse innvilges bare dersom de vilkår som er satt i annet ledd er oppfylt.
 
-Utførselstillatelse kan bare innvilges når søkeren godtgjør overfor Direktoratet for naturforvaltning at:de varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd som søkes utført oppfyller kravene iht. [forskrift av 21. mars 1997 nr. 298](forskrift/1997-03-21-298) om kjøttkontroll, hygiene m.v. ved bearbeiding og frambud av hvalkjøtt,de varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd som søkes utført har sin opprinnelse fra individer som er fanget innenfor lovlig kvote,det er tatt DNA-prøve ved fangst av individet, og atprøven er sendt det norske DNA-registeret over vågehval.
+Utførselstillatelse kan bare innvilges når søkeren godtgjør overfor Direktoratet for naturforvaltning at:
+
+1. de varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd som søkes utført oppfyller kravene iht. [forskrift av 21. mars 1997 nr. 298](forskrift/1997-03-21-298) om kjøttkontroll, hygiene m.v. ved bearbeiding og frambud av hvalkjøtt,
+2. de varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd som søkes utført har sin opprinnelse fra individer som er fanget innenfor lovlig kvote,
+3. det er tatt DNA-prøve ved fangst av individet, og at
+4. prøven er sendt det norske DNA-registeret over vågehval.
 
 Søkeren kan bes om å fremskaffe ytterligere dokumentasjon i forbindelse med forsendelsen når det aktuelle mottakerlands importmyndigheter krever slike opplysninger som vilkår for import.
 
@@ -64,7 +69,11 @@ Forskriftens bestemmelser gjelder ikke for personlige effekter.
 
 For utførsel etter første og annet ledd gjelder [forskrift av 10. januar 1989 nr. 52](forskrift/1989-01-10-52) til gjennomføring av den alminnelige utførselsregulering [§ 1a](forskrift/1989-01-10-52/§1a).
 
-Unntatt fra plikten til å innhente utførselstillatelse etter [§ 1](forskrift/2001-06-29-799/§1) annet ledd er varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd:til Svalbard og Jan Mayen,til bruk på den norske del av kontinentalsokkelen, ogtil bruk om bord på norskeide skip under norsk flagg og på norskeide luftfartøyer i utenriksfart.
+Unntatt fra plikten til å innhente utførselstillatelse etter [§ 1](forskrift/2001-06-29-799/§1) annet ledd er varer mv. jf. [§ 1](forskrift/2001-06-29-799/§1) første ledd:
+
+1. til Svalbard og Jan Mayen,
+2. til bruk på den norske del av kontinentalsokkelen, og
+3. til bruk om bord på norskeide skip under norsk flagg og på norskeide luftfartøyer i utenriksfart.
 
 ### § 5
 

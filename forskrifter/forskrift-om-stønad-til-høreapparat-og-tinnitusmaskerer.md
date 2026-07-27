@@ -36,7 +36,12 @@ Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer.
 
 Etter lov om folketrygd kan det gis stønad til anskaffelse av høreapparat med tilbehør og individuelt tilpassede ørepropper etter bestemmelsene i [§ 3](forskrift/1997-04-18-337/§3) – § 8. Til barn under 18 år med høreapparat som krever lang reparasjonstid kan det også gis stønad til å anskaffe reservehøreapparat. Stønad til reservehøreapparat kan også gis dersom det er nødvendig for å kunne skaffe seg eller beholde høvelig arbeid og det er dokumentert at det ikke finnes et høreapparat på markedet som kan dekke både dagliglivets og arbeidslivets behov.
 
-I tillegg gis det stønad tilinntil 3 batterier til hvert høreapparat. Det ytes ikke stønad til ytterligere anskaffelse av batterier. Dette gjelder også ved yrkesskade/yrkessykdom.legeundersøkelse etter bestemmelsene i [§ 9](forskrift/1997-04-18-337/§9) ogreiseutgifter etter bestemmelsene i [§ 10](forskrift/1997-04-18-337/§10).nødvendige utgifter til reparasjon av høreapparater som det er gitt stønad til etter denne forskriften. For barn under 18 år dekkes også utgifter til service.
+I tillegg gis det stønad til
+
+1. inntil 3 batterier til hvert høreapparat. Det ytes ikke stønad til ytterligere anskaffelse av batterier. Dette gjelder også ved yrkesskade/yrkessykdom.
+2. legeundersøkelse etter bestemmelsene i [§ 9](forskrift/1997-04-18-337/§9) og
+3. reiseutgifter etter bestemmelsene i [§ 10](forskrift/1997-04-18-337/§10).
+4. nødvendige utgifter til reparasjon av høreapparater som det er gitt stønad til etter denne forskriften. For barn under 18 år dekkes også utgifter til service.
 
 Utgifter til reparasjon av skader som skyldes skjødesløs behandling dekkes ikke. Dette gjelder likevel ikke for skader som skyldes barns normale aktiviteter.
 
@@ -44,8 +49,15 @@ Utgifter til reparasjon av skader som skyldes skjødesløs behandling dekkes ikk
 
 ### § 3. Gjenanskaffelse
 
-1. Det gis stønad til gjenanskaffelse av høreapparat når det er gått minst 6 år siden medlemmet fikk stønad til høreapparat, oghøreapparatet ikke lenger fungerer tilfredsstillende og det ikke er regningssvarende å reparere det, ellerutprøving av nytt høreapparat har vist at dette gir medlemmet en vesentlig bedre hørselsfunksjon.
-2. Det kan gis stønad til gjenanskaffelse selv om det ikke har gått 6 år nårhørselstapet har endret seg slik at et nytt høreapparat med andre tekniske egenskaper kan gi en vesentlig bedre hørselsfunksjon, ellerdet er kommet en ny type høreapparat på markedet som kan avhjelpe hørselstapet på en vesentlig bedre måte, ellermedlemmet på grunn av vesentlig endring i funksjonsevnen ikke lenger er i stand til å betjene høreapparatet.
+1. Det gis stønad til gjenanskaffelse av høreapparat når det er gått minst 6 år siden medlemmet fikk stønad til høreapparat, og
+
+   1. høreapparatet ikke lenger fungerer tilfredsstillende og det ikke er regningssvarende å reparere det, eller
+   2. utprøving av nytt høreapparat har vist at dette gir medlemmet en vesentlig bedre hørselsfunksjon.
+2. Det kan gis stønad til gjenanskaffelse selv om det ikke har gått 6 år når
+
+   1. hørselstapet har endret seg slik at et nytt høreapparat med andre tekniske egenskaper kan gi en vesentlig bedre hørselsfunksjon, eller
+   2. det er kommet en ny type høreapparat på markedet som kan avhjelpe hørselstapet på en vesentlig bedre måte, eller
+   3. medlemmet på grunn av vesentlig endring i funksjonsevnen ikke lenger er i stand til å betjene høreapparatet.
 3. Dersom medlemmet er under 18 år og har mistet eller ødelagt høreapparatet under lek eller annen aktivitet som er normal for alderen, kan det gis stønad til et nytt høreapparat selv om det ikke er gått 6 år siden medlemmet sist fikk stønad til høreapparat.
 
 > Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
@@ -82,7 +94,14 @@ Høreapparat som det er gitt stønad til er medlemmets eiendom.
 
 ### § 8. Stønad til høreapparat
 
-Etter lov om folketrygd kan det gis stønad etter avtalte priser for:Høreapparat med tilbehør og individuelt tilpassede ørepropper som er søkt om i samsvar med denne forskriften. Det kan gis stønad for analogt og digitalt høreapparat opp til satser fastsatt av departementet.Stønadsgrensene kan fravikes for analogt høreapparat hvis et dyrere apparat er nødvendig av medisinske grunner for å oppnå en vesentlig bedre hørselsfunksjon. Stønadsgrensen for digitalt høreapparat kan ikke fravikes.Til barn under 18 år og ved hørselstap som skyldes godkjent yrkesskade gis det stønad til full dekning av nødvendige utgifter til hensiktsmessig analogt eller digitalt høreapparat uten hensyn til stønadsgrensen e.Reparasjon av høreapparat ved verksted.
+Etter lov om folketrygd kan det gis stønad etter avtalte priser for:
+
+1. Høreapparat med tilbehør og individuelt tilpassede ørepropper som er søkt om i samsvar med denne forskriften. Det kan gis stønad for analogt og digitalt høreapparat opp til satser fastsatt av departementet.
+
+   Stønadsgrensene kan fravikes for analogt høreapparat hvis et dyrere apparat er nødvendig av medisinske grunner for å oppnå en vesentlig bedre hørselsfunksjon. Stønadsgrensen for digitalt høreapparat kan ikke fravikes.
+
+   Til barn under 18 år og ved hørselstap som skyldes godkjent yrkesskade gis det stønad til full dekning av nødvendige utgifter til hensiktsmessig analogt eller digitalt høreapparat uten hensyn til stønadsgrensen e.
+2. Reparasjon av høreapparat ved verksted.
 
 For høreapparater utlevert til barn under 18 år kan det gis en servicegodtgjørelse for apparatservice hos lokal forhandler eller hørselssentral.
 

@@ -15,7 +15,7 @@ xml_hash: "5a6cf64dfebea7f277637565b8988e20c6400e86be35826ebe87f23f1b3c13bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32010L0013"
@@ -31,7 +31,17 @@ Loven har til formål å beskytte mindreårige mot skadelig påvirkning fra leve
 
 ### § 2. Definisjoner
 
-I denne loven forstås med*mindreårige*: personer som ikke har fylt 18 år*bildeprogram*: et sett av levende bilder, med eller uten lyd, som utgjør en avgrenset enhet*tilknyttet materiale*: innhold som tilgjengeliggjøres før, under eller etter et bildeprogram, inkludert reklame, egenreklame, trailere og lignende*videogram*: disk, plate, magnetbånd eller annen enhet med lagret informasjon som er egnet til å gjengi bildeprogram*bildeprogramdistributør*: den som har, eller har ervervet, rettighetene til tilgjengeliggjøring av bildeprogrammet på det norske markedet*visningssted*: kino og annen arena for offentlig fremvisning av bildeprogram*omsetningssted*: forretning, nettside e.l. som selger billetter til fremvisning av bildeprogram, eller gir allmennheten tilgang til videogrammer gjennom kjøp, leie eller lignende*skadelig innhold*: skildringer i bildeprogram som kan virke følelsesmessig opprivende eller kognitivt forstyrrende for mindreåriges velbefinnende*alvorlig skadelig innhold*: skildringer i bildeprogram som kan virke sterkt følelsesmessig opprivende eller sterkt kognitivt forstyrrende for mindreåriges velbefinnende, særlig nærgående skildringer av kjønnslig aktivitet, grov vold og annen svært forstyrrende eller skremmende tematikk.
+I denne loven forstås med
+
+1. *mindreårige*: personer som ikke har fylt 18 år
+2. *bildeprogram*: et sett av levende bilder, med eller uten lyd, som utgjør en avgrenset enhet
+3. *tilknyttet materiale*: innhold som tilgjengeliggjøres før, under eller etter et bildeprogram, inkludert reklame, egenreklame, trailere og lignende
+4. *videogram*: disk, plate, magnetbånd eller annen enhet med lagret informasjon som er egnet til å gjengi bildeprogram
+5. *bildeprogramdistributør*: den som har, eller har ervervet, rettighetene til tilgjengeliggjøring av bildeprogrammet på det norske markedet
+6. *visningssted*: kino og annen arena for offentlig fremvisning av bildeprogram
+7. *omsetningssted*: forretning, nettside e.l. som selger billetter til fremvisning av bildeprogram, eller gir allmennheten tilgang til videogrammer gjennom kjøp, leie eller lignende
+8. *skadelig innhold*: skildringer i bildeprogram som kan virke følelsesmessig opprivende eller kognitivt forstyrrende for mindreåriges velbefinnende
+9. *alvorlig skadelig innhold*: skildringer i bildeprogram som kan virke sterkt følelsesmessig opprivende eller sterkt kognitivt forstyrrende for mindreåriges velbefinnende, særlig nærgående skildringer av kjønnslig aktivitet, grov vold og annen svært forstyrrende eller skremmende tematikk.
 
 Departementet kan gi forskrift om forståelsen av definisjonene i denne bestemmelsen.
 
@@ -39,7 +49,11 @@ Departementet kan gi forskrift om forståelsen av definisjonene i denne bestemme
 
 ### § 3. Virkeområde
 
-Loven gjelder for tilgjengeliggjøring av bildeprogram og tilknyttet materiale til allmennheten vedfjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingslovenfremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningsstedtilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge.
+Loven gjelder for tilgjengeliggjøring av bildeprogram og tilknyttet materiale til allmennheten ved
+
+1. fjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingsloven
+2. fremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningssted
+3. tilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge.
 
 Loven gjelder også på Svalbard og Jan Mayen. Departementet kan gi forskrift om de unntaks- og særregler som de stedlige forholdene tilsier.
 
@@ -47,11 +61,26 @@ Loven gjelder også på Svalbard og Jan Mayen. Departementet kan gi forskrift om
 
 ### § 4. Aldersgrenser
 
-Et bildeprogram kan ikke tilgjengeliggjøres uten å være gitt én av følgende aldersgrenser:tillatt for alle6 år9 år12 år15 år18 år
+Et bildeprogram kan ikke tilgjengeliggjøres uten å være gitt én av følgende aldersgrenser:
+
+1. tillatt for alle
+2. 6 år
+3. 9 år
+4. 12 år
+5. 15 år
+6. 18 år
 
 Aldersgrensen skal fastsettes etter en vurdering av om innholdet i bildeprogrammet kan være skadelig for personer under den aktuelle aldersgrensen. Bildeprogram med alvorlig skadelig innhold skal ha 18-årsgrense.
 
-Unntatt fra kravet i første ledd er bildeprogram som i hovedsak inneholdernyhets- og aktualitetsstoff,undervisnings- og forskningsstoff,informasjonsstoff om ideell, politisk eller religiøs virksomhet,musikkstoff,idrettsstoff,hobby-, instruksjons- og fritidsstoff ogdirektesendinger.
+Unntatt fra kravet i første ledd er bildeprogram som i hovedsak inneholder
+
+1. nyhets- og aktualitetsstoff,
+2. undervisnings- og forskningsstoff,
+3. informasjonsstoff om ideell, politisk eller religiøs virksomhet,
+4. musikkstoff,
+5. idrettsstoff,
+6. hobby-, instruksjons- og fritidsstoff og
+7. direktesendinger.
 
 Departementet kan gi forskrift om ytterligere unntak fra kravet i første ledd.
 
@@ -75,7 +104,12 @@ Departementet kan gi forskrift om unntak fra kravene i denne paragrafen og om ut
 
 Publikum skal på en tydelig og nøytral måte informeres om aldersgrensen før tilgjengeliggjøring av det aktuelle bildeprogrammet.
 
-Informasjon om bildeprogrammets aldersgrense skal som minimum gjøres tilgjengelig på følgende måter:På fjernsyn skal tjenestetilbyder informere muntlig om aldersgrensen før programmet starter eller tydelig merke bildeprogrammet med aldersgrense under hele sendetiden. Tjenestetilbyder skal også gjøre aldersgrensen tilgjengelig i sine programoversikter og elektroniske programguider.I audiovisuelle bestillingstjenester skal tjenestetilbyder informere om aldersgrensen før endelig bestilling gjennomføres, samt i presentasjon og omtale av bildeprogrammet.Ved fremvisning ved allmenn sammenkomst skal visnings- og omsetningssted informere om aldersgrensen ved annonsering og billettkjøp.Ved tilgjengeliggjøring av videogram skal bildeprogramdistributør informere om aldersgrensen ved tydelig merking på forsiden av videogrammets omslag.
+Informasjon om bildeprogrammets aldersgrense skal som minimum gjøres tilgjengelig på følgende måter:
+
+1. På fjernsyn skal tjenestetilbyder informere muntlig om aldersgrensen før programmet starter eller tydelig merke bildeprogrammet med aldersgrense under hele sendetiden. Tjenestetilbyder skal også gjøre aldersgrensen tilgjengelig i sine programoversikter og elektroniske programguider.
+2. I audiovisuelle bestillingstjenester skal tjenestetilbyder informere om aldersgrensen før endelig bestilling gjennomføres, samt i presentasjon og omtale av bildeprogrammet.
+3. Ved fremvisning ved allmenn sammenkomst skal visnings- og omsetningssted informere om aldersgrensen ved annonsering og billettkjøp.
+4. Ved tilgjengeliggjøring av videogram skal bildeprogramdistributør informere om aldersgrensen ved tydelig merking på forsiden av videogrammets omslag.
 
 Departementet kan gi forskrift om informasjonsplikt, inkludert om unntak og merking.
 

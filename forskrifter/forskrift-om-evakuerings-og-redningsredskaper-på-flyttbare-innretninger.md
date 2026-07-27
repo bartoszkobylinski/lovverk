@@ -30,7 +30,12 @@ Forskriften gjelder for norske flyttbare innretninger.
 
 ### § 2. Definisjoner
 
-I denne forskriften betyr*«SOLAS»:* Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 ([SOLAS](traktat/1974-11-01-1)) konsolidert utgave 2020.*«LSA-koden»*: Det internasjonale regelverket for redningsredskaper («International Life-Saving Appliances Code»), konsolidert utgave 2010 som endret ved MSC.293(87), MSC.320(89) og MSC.368(93).*«MODU-koden»*: «Code for the construction and equipment of mobile offshore drilling units, 2009».*«MSC.81(70)»*: «Revised recommendation on testing of life-saving appliances», konsolidert utgave 2010 som endret ved MSC.295(87), MSC.321(89) og MSC.323(89).
+I denne forskriften betyr
+
+1. *«SOLAS»:* Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 ([SOLAS](traktat/1974-11-01-1)) konsolidert utgave 2020.
+2. *«LSA-koden»*: Det internasjonale regelverket for redningsredskaper («International Life-Saving Appliances Code»), konsolidert utgave 2010 som endret ved MSC.293(87), MSC.320(89) og MSC.368(93).
+3. *«MODU-koden»*: «Code for the construction and equipment of mobile offshore drilling units, 2009».
+4. *«MSC.81(70)»*: «Revised recommendation on testing of life-saving appliances», konsolidert utgave 2010 som endret ved MSC.295(87), MSC.321(89) og MSC.323(89).
 
 > Endret ved [forskrifter 7 juni 2018 nr. 835](forskrift/2018-06-07-835) (i kraft 1 juli 2018), [20 juni 2024 nr. 1378](forskrift/2024-06-20-1378) (i kraft 1 juli 2024).
 
@@ -42,7 +47,13 @@ I denne forskriften betyr*«SOLAS»:* Den internasjonale konvensjonen om sikkerh
 
 (2) Innretningens offshorekran som brukes for utsetting og opphiving av HMOB-båt, skal være sertifisert for personelløft.
 
-(3) Med sertifisering menes godkjenning eller typegodkjenning utført avteknisk kontrollorganakkreditert sertifiseringsorgananerkjent klasseinstitusjonannen offentlig eller privat institusjon anerkjent av Sjøfartsdirektoratetadministrasjon i et land som har ratifisert SOLAS.
+(3) Med sertifisering menes godkjenning eller typegodkjenning utført av
+
+1. teknisk kontrollorgan
+2. akkreditert sertifiseringsorgan
+3. anerkjent klasseinstitusjon
+4. annen offentlig eller privat institusjon anerkjent av Sjøfartsdirektoratet
+5. administrasjon i et land som har ratifisert SOLAS.
 
 (4) Operasjonelle begrensninger som er gitt av produsent, skal fremgå av sertifikatet.
 
@@ -50,7 +61,11 @@ I denne forskriften betyr*«SOLAS»:* Den internasjonale konvensjonen om sikkerh
 
 ### § 4. Krav til sveisearbeid og NDT
 
-(1) Sveisearbeid skal utføres av personell som er sertifisert for de aktuelle materialgrupperinger i samsvar med en av følgende standarder:ISO 9606-1:2013 (Godkjenning av sveisere – Smeltesveising – Del 1: Stål)ISO 9606-2:2004 + NA1: 2013 (Godkjenning av sveisere – Smeltesveising – Del 2: Aluminium og aluminiumlegeringer)ASME Section IX.
+(1) Sveisearbeid skal utføres av personell som er sertifisert for de aktuelle materialgrupperinger i samsvar med en av følgende standarder:
+
+1. ISO 9606-1:2013 (Godkjenning av sveisere – Smeltesveising – Del 1: Stål)
+2. ISO 9606-2:2004 + NA1: 2013 (Godkjenning av sveisere – Smeltesveising – Del 2: Aluminium og aluminiumlegeringer)
+3. ASME Section IX.
 
 (2) NDT skal utføres av personell som er sertifisert i henhold til NS-EN ISO 9712:2012 (Ikke-destruktiv prøving – Kvalifisering og sertifisering av NDT-personell) eller tilsvarende standard.
 
@@ -60,13 +75,21 @@ I denne forskriften betyr*«SOLAS»:* Den internasjonale konvensjonen om sikkerh
 
 ### § 5. Evakueringsanalyse for sjøveisevakuering
 
-Det skal utføres en evakueringsanalyse som skal baseres på innretningens dimensjonerende ulykkeshendelser, jf. [forskrift 22. desember 1993 nr. 1239 om risikoanalyse for flyttbare innretninger § 24](forskrift/1993-12-22-1239/§24). Evakueringsanalysen skal vise at etter en hvilken som helst ulykkeshendelse er rømningsveier, midlertidig oppholdssted, mønstringsstasjoner og redningsredskaper arrangert slik atalle personer om bord kan evakueres med livbåter i løpet av 15 minutter under alle værforhold. Tiden regnes frem til livbåtene er sjøsatt og frigjort;redningsflåtene er hensiktsmessig plassert for alternativ evakuering;et tilstrekkelig antall personlige redningsredskaper er tilgjengelig for bruk både til redning og for sjøveisevakuering.
+Det skal utføres en evakueringsanalyse som skal baseres på innretningens dimensjonerende ulykkeshendelser, jf. [forskrift 22. desember 1993 nr. 1239 om risikoanalyse for flyttbare innretninger § 24](forskrift/1993-12-22-1239/§24). Evakueringsanalysen skal vise at etter en hvilken som helst ulykkeshendelse er rømningsveier, midlertidig oppholdssted, mønstringsstasjoner og redningsredskaper arrangert slik at
+
+1. alle personer om bord kan evakueres med livbåter i løpet av 15 minutter under alle værforhold. Tiden regnes frem til livbåtene er sjøsatt og frigjort;
+2. redningsflåtene er hensiktsmessig plassert for alternativ evakuering;
+3. et tilstrekkelig antall personlige redningsredskaper er tilgjengelig for bruk både til redning og for sjøveisevakuering.
 
 > Endret ved forskrift [20 juni 2024 nr. 1378](forskrift/2024-06-20-1378) (i kraft 1 juli 2024).
 
 ### § 6. Alarminstruks
 
-(1) Alarminstruksen skal gi opplysninger omhvordan beredskapen på innretningen er organiserthvor den enkelte skal møte, og pliktene den enkelte har i en nødssituasjonhvordan det varsles i en nødssituasjon.
+(1) Alarminstruksen skal gi opplysninger om
+
+1. hvordan beredskapen på innretningen er organisert
+2. hvor den enkelte skal møte, og pliktene den enkelte har i en nødssituasjon
+3. hvordan det varsles i en nødssituasjon.
 
 (2) Alarminstruksen skal være oppslått i beredskapsrom, sentralt kontrollrom, maskinkontrollrom, viktige arbeidsrom og på sentrale plasser i boligkvarter.
 
@@ -124,7 +147,10 @@ Livbåter, redningsflåter og HMOB-båter som ikke er sertifisert for bruk i eks
 
 (1) HMOB-båten skal ha eget utsettingsarrangement eller enkelt kunne nås av to offshorekraner som er sertifisert for personell-løft, jf. [forskrift 21. desember 2017 nr. 2381](forskrift/2017-12-21-2381) om kran og løft på flyttbare innretninger.
 
-(2) HMOB-båten skal plasseres slik atutsetting ikke hindrer utsetting av livbåter eller redningsflåterden kan settes ut sikkert i løpet av fem minutter etter at alarmen har gått, både under operasjon og forflytning.
+(2) HMOB-båten skal plasseres slik at
+
+1. utsetting ikke hindrer utsetting av livbåter eller redningsflåter
+2. den kan settes ut sikkert i løpet av fem minutter etter at alarmen har gått, både under operasjon og forflytning.
 
 (3) HMOB-båten skal kunne settes ut sikkert med en minsteavstand til innretningens faste strukturer på 8 meter når innretningen er uten krengning under operasjon eller forflytning. Dette gjelder ikke for skipsskrogsinnretninger.
 
@@ -186,7 +212,13 @@ Innretningen skal ha minst 12 fallskjermraketter som oppfyller LSA-koden 3.1.
 
 (2) Livbåter på halvt nedsenkbare eller oppjekkbare innretninger skal i stedet for krengevinkler som følger av LSA-koden 4.4.1.1, være konstruert for å kunne settes ut ved krengevinkel på minst 17 grader i hvilken som helst retning.
 
-(3) Livbåter skalarrangeres for helikopterevakueringi fullastet tilstand ha en statisk slepekraft på minst (0,9 x WE) kN, hvor WE er vekten i tonn av en fullt utstyrt livbåt uten personer om bord. Dette kravet gjelder ikke for fritt-fall-livbåter;ha en motorkasse og batterikasse som er vanntett ved vanntrykk tilsvarende trykket som oppstår ved høyeste vannfyllingsnivå i henhold til LSA-koden 4.4.1.1ha et ventilasjonsarrangement som hindrer innstrømming av vann ved kantring, og som med luker og vinduer lukket gir frisk luft til det antall personer den er godkjent for, og luft til drift av motoren ved full ytelseha seter og seler som passer til personer i høyde og vekt som beskrevet i MSC.81(70) 2.7.2.
+(3) Livbåter skal
+
+1. arrangeres for helikopterevakuering
+2. i fullastet tilstand ha en statisk slepekraft på minst (0,9 x WE) kN, hvor WE er vekten i tonn av en fullt utstyrt livbåt uten personer om bord. Dette kravet gjelder ikke for fritt-fall-livbåter;
+3. ha en motorkasse og batterikasse som er vanntett ved vanntrykk tilsvarende trykket som oppstår ved høyeste vannfyllingsnivå i henhold til LSA-koden 4.4.1.1
+4. ha et ventilasjonsarrangement som hindrer innstrømming av vann ved kantring, og som med luker og vinduer lukket gir frisk luft til det antall personer den er godkjent for, og luft til drift av motoren ved full ytelse
+5. ha seter og seler som passer til personer i høyde og vekt som beskrevet i MSC.81(70) 2.7.2.
 
 (4) Livbåter av samme type skal ha lik utløsermekanisme.
 
@@ -212,7 +244,10 @@ Redningsflåter skal oppfylle LSA-koden 4.2 og være utstyrt med et friflyt-arra
 
 (1) HMOB-båt skal oppfylle LSA-koden 5.1.4, unntatt 5.1.4.11 og siste punktum i 4.4.6.11.
 
-(2) HMOB-båten skalsertifiseres for et spesifisert antall personerutformes og utstyres for opptak av personer fra sjøen.
+(2) HMOB-båten skal
+
+1. sertifiseres for et spesifisert antall personer
+2. utformes og utstyres for opptak av personer fra sjøen.
 
 (3) HMOB-båten skal konstrueres og arrangeres slik at det med enkle midler er mulig å ta båten opp ved hjelp av kran eller davit fra andre skip eller innretninger.
 
@@ -220,9 +255,15 @@ Redningsflåter skal oppfylle LSA-koden 4.2 og være utstyrt med et friflyt-arra
 
 (1) Redningsdrakter skal oppfylle LSA-koden 2.3 unntatt 2.3.1.7 og 2.3.2.1.
 
-(2) Redningsdrakter skalha visirkunne snu en bevisstløs person fra enhver posisjon til en posisjon der munn er over vann på maksimalt 15 sekunder, inkludert oppblåsingstid. Sjøfartsdirektoratets prosedyre (testing av selvrettingsfunksjonen ved sertifisering av redningsdrakter til bruk på flyttbare innretninger) skal brukes ved sertifisering.
+(2) Redningsdrakter skal
 
-(3) Løftestropp, innstrammingsarrangementer, glidelås, refleks, lommer og lignende skalfestes slik at redningsdraktens egenskaper ikke reduseresikke være til hinder ved bruk av redningsdrakten.
+1. ha visir
+2. kunne snu en bevisstløs person fra enhver posisjon til en posisjon der munn er over vann på maksimalt 15 sekunder, inkludert oppblåsingstid. Sjøfartsdirektoratets prosedyre (testing av selvrettingsfunksjonen ved sertifisering av redningsdrakter til bruk på flyttbare innretninger) skal brukes ved sertifisering.
+
+(3) Løftestropp, innstrammingsarrangementer, glidelås, refleks, lommer og lignende skal
+
+1. festes slik at redningsdraktens egenskaper ikke reduseres
+2. ikke være til hinder ved bruk av redningsdrakten.
 
 (4) Redningsdrakter som er plassert i boligkvarteret, jf. [§ 13](forskrift/2016-02-02-90/§13) første ledd, kan være redningsdrakt godkjent for helikoptertransport på norsk sokkel.
 
@@ -236,7 +277,10 @@ Redningsflåter skal oppfylle LSA-koden 4.2 og være utstyrt med et friflyt-arra
 
 (4) Termiske redningsvester og termiske drakter i kombinasjon med redningsvester kan alternativt til kravet i første ledd oppfylle LSA-koden 2003-utgaven 2.2.
 
-(5) Redningsvestene skal halys som oppfyller LSA-koden 2.2.3.1skrittstropp eller tilsvarende løsning.
+(5) Redningsvestene skal ha
+
+1. lys som oppfyller LSA-koden 2.2.3.1
+2. skrittstropp eller tilsvarende løsning.
 
 ### § 27. Livbøyer
 
@@ -302,7 +346,10 @@ Livbøyer skal oppfylle LSA-koden 2.1.
 
 (2) Lårings- og opphivingshastigheten skal kunne reguleres trinnløst. Største låringshastighet skal være 1 m/s ± 10 prosent.
 
-(3) Utsettingsarrangementet skal ha støtabsorberende eller bevegelseskompenserende arrangement som sikrer at båten og utsettingsarrangementet ikke utsettes for dynamiske tilleggskrefter med en faktor høyere enn 3,0 for følgende lasttilfeller:oppbremsing med full låringshastighetopptak av båt ved beregnet maksimal bølgehøyde.
+(3) Utsettingsarrangementet skal ha støtabsorberende eller bevegelseskompenserende arrangement som sikrer at båten og utsettingsarrangementet ikke utsettes for dynamiske tilleggskrefter med en faktor høyere enn 3,0 for følgende lasttilfeller:
+
+1. oppbremsing med full låringshastighet
+2. opptak av båt ved beregnet maksimal bølgehøyde.
 
 (4) Dynamiske laster skal dokumenteres og brukes i styrkeberegningene. Beregningene skal vise at for lasttilfellene i tredje ledd bokstav a eller b, overstiger ikke spenningene 85 % av materialets flytespenning.
 
@@ -320,7 +367,10 @@ Livbøyer skal oppfylle LSA-koden 2.1.
 
 (2) Trening skal utføres for å øke individers kunnskap og kompetanse og lære de ferdigheter som er nødvendige for å fylle en gitt rolle i den organisasjonen som skal håndtere en hendelse. Det skal trenes på mulige nødssituasjoner som kan oppstå om bord. Det skal være et treningsprogram som er utviklet med basis i de definerte fare- og ulykkeshendelsene. I uker uten øvelse, jf. første ledd, skal det trenes på de pliktene som er gitt i alarminstruksen, jf. [§ 6 første ledd](forskrift/2016-02-02-90/§6/ledd/1).
 
-(3) I forbindelse med øvelse og treningskal HMOB-båt sjøsettes og manøvreres når forholdene tillater det, og etter at det er gjennomført en risikovurderinger det ikke krav til at livbåt skal sjøsettes offshore. Sjøsetting kan bare gjøres når forholdene tillater det, og etter at det er gjennomført en risikovurdering.
+(3) I forbindelse med øvelse og trening
+
+1. skal HMOB-båt sjøsettes og manøvreres når forholdene tillater det, og etter at det er gjennomført en risikovurdering
+2. er det ikke krav til at livbåt skal sjøsettes offshore. Sjøsetting kan bare gjøres når forholdene tillater det, og etter at det er gjennomført en risikovurdering.
 
 (4) Fritt-fall-livbåtene skal ha simulert utsetting hvert halvår.
 
@@ -334,11 +384,22 @@ Livbøyer skal oppfylle LSA-koden 2.1.
 
 (1) Testing av redningsredskaper og utsettingsarrangement skal oppfylle MSC.81(70).
 
-(2) Prototypetesting:Retardasjonsmålinger skal utføres for å bestemme karakteristikk på bremser og støtdempere.Akseptkriterier for testing av livbåt skal sikre at personell ikke blir skadet ved utsetting i miljøet livbåten skal brukes i, og baseres på risikovurderinger, modellforsøk eller lignende designstudier.For fritt-fall-livbåter skal det måles defleksjon og vanntrykk på de mest utsatte steder på overbygg og skrog under utsetting.
+(2) Prototypetesting:
 
-(3) Produksjonstesting:Det skal utføres kontroll- og tykkelsesmålinger av skroget, overbygget og rundt krokinnfestninger på livbåter og HMOB-båt.Vitale deler i krok, krokinnfesting, bolter og lignende skal NDT-kontrolleres etter prøvebelastning.For utsettingsarrangementet skal høyt belastede sveiser, akslinger, ringer, kjettinger, bolter og lignende NDT-kontrolleres etter prøvebelastning.
+1. Retardasjonsmålinger skal utføres for å bestemme karakteristikk på bremser og støtdempere.
+2. Akseptkriterier for testing av livbåt skal sikre at personell ikke blir skadet ved utsetting i miljøet livbåten skal brukes i, og baseres på risikovurderinger, modellforsøk eller lignende designstudier.
+3. For fritt-fall-livbåter skal det måles defleksjon og vanntrykk på de mest utsatte steder på overbygg og skrog under utsetting.
 
-(4) Installasjonstesting:Akseptkriterier skal sikre at personell ikke blir skadet ved utsetting i miljøet redningsredskapet skal brukes i, og baseres på risikovurderinger, modellforsøk eller lignende designstudier.Belastede sveiser mellom utsettingsarrangement og innretningen skal NDT-kontrolleres etter installasjonstesten.
+(3) Produksjonstesting:
+
+1. Det skal utføres kontroll- og tykkelsesmålinger av skroget, overbygget og rundt krokinnfestninger på livbåter og HMOB-båt.
+2. Vitale deler i krok, krokinnfesting, bolter og lignende skal NDT-kontrolleres etter prøvebelastning.
+3. For utsettingsarrangementet skal høyt belastede sveiser, akslinger, ringer, kjettinger, bolter og lignende NDT-kontrolleres etter prøvebelastning.
+
+(4) Installasjonstesting:
+
+1. Akseptkriterier skal sikre at personell ikke blir skadet ved utsetting i miljøet redningsredskapet skal brukes i, og baseres på risikovurderinger, modellforsøk eller lignende designstudier.
+2. Belastede sveiser mellom utsettingsarrangement og innretningen skal NDT-kontrolleres etter installasjonstesten.
 
 ### § 36. Vedlikehold og kontroll
 
@@ -358,7 +419,11 @@ Livbøyer skal oppfylle LSA-koden 2.1.
 
 ### § 37. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når slike vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når slike vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 

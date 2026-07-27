@@ -15,7 +15,7 @@ xml_hash: "1002f60737cd96d5a15a365c889913c1729ecfad031478c67039a63d0188d10c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ Forskriften regulerer forberedelse til, gjennomføring og avslutning av enhver l
 
 ADR og RID er en del av forskriften.
 
-ADR og RID gjelder likevel ikke for:transport av farlig gods som i sin helhet foregår innenfor et lukket områdetransport av farlig gods som foretas av mobile maskiner og det farlige godset brukes av den mobile maskinen selvmilitær transport av eksplosive stoffer og gjenstander i klasse 1, samt transport på militære kjøretøy av reservebeholdere med UN 1202 dieselolje, UN 1203 bensin, UN 1223 parafin eller UN 1863 jetdrivstoff flypolitiets transport av farlig gods ved kontroll og annen myndighetsutøvelsetollvesenets transport av farlig gods ved kontroll og annen myndighetsutøvelse.
+ADR og RID gjelder likevel ikke for:
+
+1. transport av farlig gods som i sin helhet foregår innenfor et lukket område
+2. transport av farlig gods som foretas av mobile maskiner og det farlige godset brukes av den mobile maskinen selv
+3. militær transport av eksplosive stoffer og gjenstander i klasse 1, samt transport på militære kjøretøy av reservebeholdere med UN 1202 dieselolje, UN 1203 bensin, UN 1223 parafin eller UN 1863 jetdrivstoff fly
+4. politiets transport av farlig gods ved kontroll og annen myndighetsutøvelse
+5. tollvesenets transport av farlig gods ved kontroll og annen myndighetsutøvelse.
 
 > Endret ved [forskrifter 14 nov 2016 nr. 1311](forskrift/2016-11-14-1311) (i kraft 1 jan 2017), [22 nov 2018 nr. 1733](forskrift/2018-11-22-1733) (i kraft 1 jan 2019).
 
@@ -135,13 +141,23 @@ For transporter som i sin helhet foregår i Norge, er det tilstrekkelig å bruke
 
 Virksomhet som kommer i befatning med transport av farlig gods skal utpeke en eller flere sikkerhetsrådgivere som skal ha ansvar for å medvirke til å verne liv, helse, miljø og materielle verdier, samt hindre uønskede tilsiktede hendelser knyttet til aktiviteter med farlig gods. Virksomheten skal sende melding om hvem den har utpekt som sikkerhetsrådgiver til DSB.
 
-Virksomhet som kun utøver følgende aktiviteter er unntatt fra plikten til å utpeke sikkerhetsrådgiver og sende melding etter første ledd:transport av farlig gods som ikke krever merking med oransje skilt etter ADR/RID 5.3.2.sporadisk transport av farlig avfall definert som farlig gods i transportkategori 3 og 4 i ADR/RID kapittel 3.2 tabell A, under forutsetning av at virksomhetens hoved- eller sekundærvirksomhet ikke er transport, lasting eller lossing av farlig godskontroll- og redningsoppgaver i forbindelse med transport av farlig godsmilitær transport av farlig godstransport av farlig gods som i sin helhet foregår innenfor et lukket område.
+Virksomhet som kun utøver følgende aktiviteter er unntatt fra plikten til å utpeke sikkerhetsrådgiver og sende melding etter første ledd:
+
+1. transport av farlig gods som ikke krever merking med oransje skilt etter ADR/RID 5.3.2.
+2. sporadisk transport av farlig avfall definert som farlig gods i transportkategori 3 og 4 i ADR/RID kapittel 3.2 tabell A, under forutsetning av at virksomhetens hoved- eller sekundærvirksomhet ikke er transport, lasting eller lossing av farlig gods
+3. kontroll- og redningsoppgaver i forbindelse med transport av farlig gods
+4. militær transport av farlig gods
+5. transport av farlig gods som i sin helhet foregår innenfor et lukket område.
 
 > Endret ved [forskrifter 13 jan 2014 nr. 26](forskrift/2014-01-13-26), [22 nov 2018 nr. 1733](forskrift/2018-11-22-1733) (i kraft 1 jan 2019).
 
 ### § 11. Unntak fra krav til ADR-kompetansebevis
 
-Krav til kompetansebevis etter bestemmelsene i ADR gjelder ikke:ved reparasjoner og verkstedskontroll av tom, ikke rengjort tankfor tjenestemenn i Statens vegvesen i tilknytning til kontrollfor militært personell som transporterer drivstoff tilhørende klasse 3 dersom transporten er militær og føreren har gjennomgått militær opplæring og prøve som er godkjent av Forsvaret.
+Krav til kompetansebevis etter bestemmelsene i ADR gjelder ikke:
+
+1. ved reparasjoner og verkstedskontroll av tom, ikke rengjort tank
+2. for tjenestemenn i Statens vegvesen i tilknytning til kontroll
+3. for militært personell som transporterer drivstoff tilhørende klasse 3 dersom transporten er militær og føreren har gjennomgått militær opplæring og prøve som er godkjent av Forsvaret.
 
 > Endret ved [forskrift 14 nov 2016 nr. 1311](forskrift/2016-11-14-1311) (i kraft 1 jan 2017).
 
@@ -157,7 +173,17 @@ Den som ikke består eksamen innen 1 år etter fullført opplæring mister rette
 
 ### § 12. Transport av farlig avfall
 
-Transport av inntil 500 kg netto farlig gods, klassifisert som farlig avfall i henhold til [avfallsforskriften](forskrift/2004-06-01-930), er ikke underlagt andre krav i ADR enn de som gjelder for emballasje, tanker, merking, samemballering, sikkerhetsrådgiver og transportdokumenter, når sjåføren er opplært i:bestemmelser for transport av farlig avfallhovedtyper av farer, inkludert merking og faresedlerforebyggende tiltak og sikkerhetstiltak tilpasset de ulike typer farersikker lasting, lossing og transport av farlig avfallfunksjon og prosedyrer for drift av teknisk utstyr på kjøretøygrunnleggende kunnskap for å minimere sannsynligheten for uønskede hendelserberedskapsprosedyrer, herunder nødvendige tiltak for å ivareta sikkerheten til mannskapet samt publikum og miljøetbevissthet om sikring (security)bestemmelsene for transport av farlig gods i vegtunneler og aktuelle forebyggende tiltak og beredskapstiltak for slik transport.
+Transport av inntil 500 kg netto farlig gods, klassifisert som farlig avfall i henhold til [avfallsforskriften](forskrift/2004-06-01-930), er ikke underlagt andre krav i ADR enn de som gjelder for emballasje, tanker, merking, samemballering, sikkerhetsrådgiver og transportdokumenter, når sjåføren er opplært i:
+
+1. bestemmelser for transport av farlig avfall
+2. hovedtyper av farer, inkludert merking og faresedler
+3. forebyggende tiltak og sikkerhetstiltak tilpasset de ulike typer farer
+4. sikker lasting, lossing og transport av farlig avfall
+5. funksjon og prosedyrer for drift av teknisk utstyr på kjøretøy
+6. grunnleggende kunnskap for å minimere sannsynligheten for uønskede hendelser
+7. beredskapsprosedyrer, herunder nødvendige tiltak for å ivareta sikkerheten til mannskapet samt publikum og miljøet
+8. bevissthet om sikring (security)
+9. bestemmelsene for transport av farlig gods i vegtunneler og aktuelle forebyggende tiltak og beredskapstiltak for slik transport.
 
 Varigheten av opplæringen skal være minimum 6 timer. Dokumentasjon på opplæringen skal oppbevares av virksomheten og gjøres tilgjengelig for føreren eller vedkommende myndighet på forespørsel.
 
@@ -167,7 +193,11 @@ Farlig avfall som inngår i henteordning fra husholdninger kan transporteres i s
 
 Deklarasjonsskjema i henhold til [avfallsforskriften](forskrift/2004-06-01-930) kan benyttes som transportdokument.
 
-Bestemmelsene i denne paragrafen gjelder likevel ikke for:eksplosive stoffer og gjenstander klasse 1infeksjonsfremmende stoffer klasse 6.2radioaktivt materiale klasse 7.
+Bestemmelsene i denne paragrafen gjelder likevel ikke for:
+
+1. eksplosive stoffer og gjenstander klasse 1
+2. infeksjonsfremmende stoffer klasse 6.2
+3. radioaktivt materiale klasse 7.
 
 > Endret ved [forskrift 13 jan 2014 nr. 26](forskrift/2014-01-13-26).
 
@@ -199,7 +229,15 @@ Det er ikke tillatt å fylle eller tømme brannfarlig væske klasse 3 i eller fr
 
 Emballasje, unntatt IBC og storemballasje, som kun benyttes til transport av UN 3412 maursyre, kan brukes inntil 10 år fra produksjonsdato dersom den brukes i et kontrollert retursystem.
 
-IBC av stiv plast (31H1) som kun benyttes til transport av følgende stoffer i klasse 8:UN 3412 maursyreUN 1824 natriumhydroksidløsning med høyst 52 prosent natriumhydroksidUN 2672 ammoniakkløsning med høyst 25 prosent ammoniakkUN 1791 natriumhypoklorittløsning med høyst 15 prosent natriumhypoklorittUN 1789 saltsyresom brukes i et kontrollert og dokumentert retursystem kan benyttes i inntil 7,5 år fra produksjonsdato.
+IBC av stiv plast (31H1) som kun benyttes til transport av følgende stoffer i klasse 8:
+
+1. UN 3412 maursyre
+2. UN 1824 natriumhydroksidløsning med høyst 52 prosent natriumhydroksid
+3. UN 2672 ammoniakkløsning med høyst 25 prosent ammoniakk
+4. UN 1791 natriumhypoklorittløsning med høyst 15 prosent natriumhypokloritt
+5. UN 1789 saltsyre
+
+som brukes i et kontrollert og dokumentert retursystem kan benyttes i inntil 7,5 år fra produksjonsdato.
 
 Det skal gjennomføres årlig tilstandskontroll for IBC som er eldre enn 5 år.
 
@@ -251,7 +289,10 @@ Omlasting av eksplosive stoffer og gjenstander klasse 1 etter pålegg fra kontro
 
 ### § 21. Emballasje for pyroteknisk nødutstyr m.m. som skal til destruksjon
 
-Pyroteknisk nødutstyr, kollisjonsputeladning, kollisjonsputeenhet og beltestrammer som skal til destruksjon kan transporteres i ytteremballasje bestående av UN-godkjent plastfat med avtakbart lokk, under forutsetning av at hver gjenstand:betraktes som tilhørende klassifiseringskode 1.3Ger emballert i inneremballasje av plast.
+Pyroteknisk nødutstyr, kollisjonsputeladning, kollisjonsputeenhet og beltestrammer som skal til destruksjon kan transporteres i ytteremballasje bestående av UN-godkjent plastfat med avtakbart lokk, under forutsetning av at hver gjenstand:
+
+1. betraktes som tilhørende klassifiseringskode 1.3G
+2. er emballert i inneremballasje av plast.
 
 Transportdokumentet skal indikere at emballeringsbestemmelse P101 er benyttet.
 
@@ -367,7 +408,13 @@ En utpeking som kontrollorgan er gyldig inntil akkrediteringen utløper eller tr
 
 ### § 32c. Organisatoriske krav til kontrollorganer
 
-Kontrollorganer skalha ansatte med relevant opplæring og gode faglige kvalifikasjoner,ha tilgang på hensiktsmessige lokaler og utstyr,opprettholde et klart skille mellom kontrollorganfunksjoner og andre aktiviteter,ha et dokumentert system for kvalitetskontroll, ogopprettholde et effektivt og hensiktsmessig rapport- og dokumentarkiv.
+Kontrollorganer skal
+
+1. ha ansatte med relevant opplæring og gode faglige kvalifikasjoner,
+2. ha tilgang på hensiktsmessige lokaler og utstyr,
+3. opprettholde et klart skille mellom kontrollorganfunksjoner og andre aktiviteter,
+4. ha et dokumentert system for kvalitetskontroll, og
+5. opprettholde et effektivt og hensiktsmessig rapport- og dokumentarkiv.
 
 > Tilføyd ved forskrift [16 mai 2022 nr. 859](forskrift/2022-05-16-859) (i kraft 1 juli 2022, se endringsforskrift del II for overgangsregler).
 
@@ -397,7 +444,12 @@ Med atmosfæriske tanker forstås faste tanker eller løstanker for transport av
 
 ### § 32g. Kontrollorganers rapporteringsplikt til DSB
 
-Kontrollorganer skal innen første kvartal hvert år fremlegge en rapport til DSB omgodkjenninger, kontroller og prøver som er utført i medhold av utpekingen,avslag, restriksjoner, suspensjoner eller tilbaketrekkinger av typegodkjenningssertifikater,eventuelle forhold som påvirker omfanget og betingelsene for utpekingen, oggjennomførte kurs for kontrollører av IBC.
+Kontrollorganer skal innen første kvartal hvert år fremlegge en rapport til DSB om
+
+1. godkjenninger, kontroller og prøver som er utført i medhold av utpekingen,
+2. avslag, restriksjoner, suspensjoner eller tilbaketrekkinger av typegodkjenningssertifikater,
+3. eventuelle forhold som påvirker omfanget og betingelsene for utpekingen, og
+4. gjennomførte kurs for kontrollører av IBC.
 
 > Tilføyd ved forskrift [16 mai 2022 nr. 859](forskrift/2022-05-16-859) (i kraft 1 juli 2022, se endringsforskrift del II for overgangsregler).
 
@@ -419,7 +471,13 @@ Ved utøvelse av tilsyn gjelder [lov 14. juni 2002 nr. 20 om vern mot brann, eks
 
 DSB kan gi kontrollorganer de pålegg som er nødvendige for å sikre at kontrollene utføres i samsvar med denne forskriften. Om nødvendig kan det gis pålegg om stansing av kontrollvirksomheten til avvik er rettet eller til vedtak om omgjøring av utpeking er avgjort.
 
-DSB kan midlertidig eller permanent omgjøre en utpeking av et kontrollorgan dersom det avdekkes:vesentlige eller gjentatte avvik fra kravene i [§ 32b](forskrift/2009-04-01-384/§32b) til [§ 32h](forskrift/2009-04-01-384/§32h),vesentlige eller gjentatte avvik fra kravene til kontrollenes innhold, metode og vurderinger etter ADR/RID,at pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med forskriften, ikke etterkommes eller at skriftlig advarsel ikke tas til følge,at kontrollorganet unndrar seg tilsyn, ellerat det utføres kontroller som kontrollorganet ikke er utpekt for.
+DSB kan midlertidig eller permanent omgjøre en utpeking av et kontrollorgan dersom det avdekkes:
+
+1. vesentlige eller gjentatte avvik fra kravene i [§ 32b](forskrift/2009-04-01-384/§32b) til [§ 32h](forskrift/2009-04-01-384/§32h),
+2. vesentlige eller gjentatte avvik fra kravene til kontrollenes innhold, metode og vurderinger etter ADR/RID,
+3. at pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med forskriften, ikke etterkommes eller at skriftlig advarsel ikke tas til følge,
+4. at kontrollorganet unndrar seg tilsyn, eller
+5. at det utføres kontroller som kontrollorganet ikke er utpekt for.
 
 > Tilføyd ved forskrift [16 mai 2022 nr. 859](forskrift/2022-05-16-859) (i kraft 1 juli 2022, se endringsforskrift del II for overgangsregler).
 

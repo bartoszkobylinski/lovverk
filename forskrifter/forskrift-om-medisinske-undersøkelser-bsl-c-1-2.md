@@ -15,7 +15,7 @@ xml_hash: "b1341f30fc83752c33fe899a7fa8141c871ea358079ef726c791af785c5f0431"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Forskriften setter også krav til den senere kontroll med sertifikatinnehaverens
 
 3.1.*Medisinske undersøkelser*
 
-Søkere og innehavere av luftfartssertifikater og -bevis skal gjennomgå følgende medisinske undersøkelser:generell flymedisinsk undersøkelseundersøkelse av fargesans.
+Søkere og innehavere av luftfartssertifikater og -bevis skal gjennomgå følgende medisinske undersøkelser:
+
+1. generell flymedisinsk undersøkelse
+2. undersøkelse av fargesans.
 
 3.2.*Undersøkelsesinstanser*
 
@@ -97,13 +100,25 @@ Forlengelsen regnes fra legeattestens siste utløpsdato.
 
 Lege som undersøker søkere og innehavere av luftfartssertifikater og -bevis, skal gi en erklæring om utført undersøkelse på fastsatte skjema. Slike skjemaer fås hos Flymedisinsk seksjon i Luftfartstilsynet.
 
-De aktuelle skjemaene er:Søknadsskjema for legeattest til luftfartssertifikatSøknadsskjemaet inneholder personopplysninger og egenopplysninger om helsen som undersøkende lege skal gjennomgå sammen med søkeren.LegeerklæringLegen som foretar den flymedisinske undersøkelsen av seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer fører resultatet av undersøkelsen i legeerklæringsskjemaet.
+De aktuelle skjemaene er:
+
+1. Søknadsskjema for legeattest til luftfartssertifikat
+
+   Søknadsskjemaet inneholder personopplysninger og egenopplysninger om helsen som undersøkende lege skal gjennomgå sammen med søkeren.
+2. Legeerklæring
+
+   Legen som foretar den flymedisinske undersøkelsen av seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer fører resultatet av undersøkelsen i legeerklæringsskjemaet.
 
 5.2.*Dokumentasjon og kontroll av legeopplysningene*
 
 5.2.1.*Seilflygere og førere av friballong*
 
-Når søkere til førerbevis for seilfly, mikrofly og friballong oppsøker en lege som ikke er oppnevnt av Luftfartstilsynet, skal søkeren ha med følgende dokumenter til legen:BSL C 1-2 og C 1-3.Søknadsskjema for legeattest til luftfartssertifikat/Legeerklæring – Generell flymedisinsk undersøkelse.En konvolutt med felter for søkerens navn, personnummer og adresse, undersøkende leges kjennelse (skikket eller uskikket), underskrift og dato.En erklæring fra en av søkerens nære pårørende om fravær av sykehistorie vedrørende epilepsi, kramper eller bevissthetstap.
+Når søkere til førerbevis for seilfly, mikrofly og friballong oppsøker en lege som ikke er oppnevnt av Luftfartstilsynet, skal søkeren ha med følgende dokumenter til legen:
+
+1. BSL C 1-2 og C 1-3.
+2. Søknadsskjema for legeattest til luftfartssertifikat/Legeerklæring – Generell flymedisinsk undersøkelse.
+3. En konvolutt med felter for søkerens navn, personnummer og adresse, undersøkende leges kjennelse (skikket eller uskikket), underskrift og dato.
+4. En erklæring fra en av søkerens nære pårørende om fravær av sykehistorie vedrørende epilepsi, kramper eller bevissthetstap.
 
 Når søker av førerbevis for seilfly eller friballong oppsøker lege oppnevnt av Luftfartstilsynet, skal slik konvolutt som omtalt i punkt c) tas med til legen.
 

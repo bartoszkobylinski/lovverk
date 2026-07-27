@@ -34,7 +34,23 @@ Forskriften forvaltes av Norges vassdrags- og energidirektorat (NVE).
 
 ### § 1-3. Definisjoner
 
-I denne forskriften forstås med:*Avløpsflom:* resulterende flom ut av et magasin.*Dimensjonerende avløpsflom:* den vannføring som avledes ved dimensjonerende flomvannstand.*Dimensjonerende flomvannstand:* den høyeste vannstand som opptrer i magasinet ved dimensjonerende tilløpsflom.*Dimensjonerende last:* karakteristisk verdi av last multiplisert med lastkoeffisient.*Dimensjonerende levetid:* tidsrommet et anlegg eller en anleggsdel er tiltenkt å tilfredsstille de fastsatte krav til sikkerhet, miljø og økonomi.*Dimensjonerende tilløpsflom:* den tilløpsflom, med gjentaksintervall som er spesifisert for dammens konsekvensklasse, som fører til høyest vannstand i magasinet ved gitte forutsetninger om flomløpenes manøvrering og magasinets initialtilstand.*Klassifisering:* plassering av et vassdragsanlegg i konsekvensklasse 0 til 4, basert på en vurdering av hvilke konsekvenser brudd, svikt eller feilfunksjon vil ha for mennesker, miljø og eiendom.*Last:* enhver påvirkning som medfører bevegelser, deformasjoner, spenninger eller tøyninger i en konstruksjon.*Maksimal flomvannstand:* den høyeste vannstand som opptrer i magasinet ved påregnelig maksimal tilløpsflom.*Midlere tilsig:* gjennomsnittlig vannføring fra et nedbørfelt i en 30-års periode.*Påregnelig maksimal avløpsflom:* den vannføring som avledes ved maksimal flomvannstand.*Påregnelig maksimal tilløpsflom:* den største tilløpsflom som beregnes å kunne opptre, og som fører til høyest vannstand i magasinet ved gitte forutsetninger vedrørende flomløpenes manøvrering og magasinets initialtilstand.*Tilløpsflom:* flom til magasinet fra uregulert felt, tillagt avløpsflom fra eventuelle oppstrøms magasiner og overføringer.*Vannvei:* flomløp, kanal og sluseanlegg med tilhørende konstruksjoner samt tunnel, sjakt, rør, ledning og øvrige systemer med tilhørende konstruksjoner som leder vann i tilknytning til kraftproduksjon.*Vassdragsanlegg:* dammer og vannveier med tilhørende konstruksjoner.
+I denne forskriften forstås med:
+
+- *Avløpsflom:* resulterende flom ut av et magasin.
+- *Dimensjonerende avløpsflom:* den vannføring som avledes ved dimensjonerende flomvannstand.
+- *Dimensjonerende flomvannstand:* den høyeste vannstand som opptrer i magasinet ved dimensjonerende tilløpsflom.
+- *Dimensjonerende last:* karakteristisk verdi av last multiplisert med lastkoeffisient.
+- *Dimensjonerende levetid:* tidsrommet et anlegg eller en anleggsdel er tiltenkt å tilfredsstille de fastsatte krav til sikkerhet, miljø og økonomi.
+- *Dimensjonerende tilløpsflom:* den tilløpsflom, med gjentaksintervall som er spesifisert for dammens konsekvensklasse, som fører til høyest vannstand i magasinet ved gitte forutsetninger om flomløpenes manøvrering og magasinets initialtilstand.
+- *Klassifisering:* plassering av et vassdragsanlegg i konsekvensklasse 0 til 4, basert på en vurdering av hvilke konsekvenser brudd, svikt eller feilfunksjon vil ha for mennesker, miljø og eiendom.
+- *Last:* enhver påvirkning som medfører bevegelser, deformasjoner, spenninger eller tøyninger i en konstruksjon.
+- *Maksimal flomvannstand:* den høyeste vannstand som opptrer i magasinet ved påregnelig maksimal tilløpsflom.
+- *Midlere tilsig:* gjennomsnittlig vannføring fra et nedbørfelt i en 30-års periode.
+- *Påregnelig maksimal avløpsflom:* den vannføring som avledes ved maksimal flomvannstand.
+- *Påregnelig maksimal tilløpsflom:* den største tilløpsflom som beregnes å kunne opptre, og som fører til høyest vannstand i magasinet ved gitte forutsetninger vedrørende flomløpenes manøvrering og magasinets initialtilstand.
+- *Tilløpsflom:* flom til magasinet fra uregulert felt, tillagt avløpsflom fra eventuelle oppstrøms magasiner og overføringer.
+- *Vannvei:* flomløp, kanal og sluseanlegg med tilhørende konstruksjoner samt tunnel, sjakt, rør, ledning og øvrige systemer med tilhørende konstruksjoner som leder vann i tilknytning til kraftproduksjon.
+- *Vassdragsanlegg:* dammer og vannveier med tilhørende konstruksjoner.
 
 ### § 1-4. Virkeområde
 
@@ -54,7 +70,11 @@ Forskriften omfatter alle komponenter som har betydning for vassdragsanleggets k
 
 Vassdragsanlegg skal ha en ansvarlig, jf. [§ 2-2](forskrift/2009-12-18-1600/§2-2).
 
-Personellet ved vassdragsanlegg skal omfatte:ledervassdragsteknisk ansvarlig (VTA) og stedfortredende VTAtilsynspersonell.
+Personellet ved vassdragsanlegg skal omfatte:
+
+1. leder
+2. vassdragsteknisk ansvarlig (VTA) og stedfortredende VTA
+3. tilsynspersonell.
 
 Personell må senest være på plass fra det tidspunkt de har en funksjon etter denne forskriften.
 
@@ -64,19 +84,37 @@ En person kan ivareta flere av disse funksjonene dersom kvalifikasjonskravene i 
 
 Den ansvarlige for et vassdragsanlegg er eieren. NVE kan godkjenne en annen som den ansvarlige, jf. [§ 2-9](forskrift/2009-12-18-1600/§2-9).
 
-Den ansvarlige for vassdragsanlegget har ansvar for:at de krav som gjelder for anlegg i den enkelte konsekvensklasse og som følger av forskriften her og enkeltvedtak med hjemmel i denne, blir overholdt,at det foreligger hensiktsmessige rapporteringsrutiner,å ha tilstrekkelig med kvalifisert personell for å oppfylle kravene i denne forskriften, og sørge for at disse er organisert slik at de er tilgjengelig ved behov.
+Den ansvarlige for vassdragsanlegget har ansvar for:
+
+1. at de krav som gjelder for anlegg i den enkelte konsekvensklasse og som følger av forskriften her og enkeltvedtak med hjemmel i denne, blir overholdt,
+2. at det foreligger hensiktsmessige rapporteringsrutiner,
+3. å ha tilstrekkelig med kvalifisert personell for å oppfylle kravene i denne forskriften, og sørge for at disse er organisert slik at de er tilgjengelig ved behov.
 
 NVE kan i særlige tilfelle kreve at den ansvarlige øker antallet eller endrer organiseringen av kvalifisert personell.
 
 ### § 2-3. Leder
 
-Lederen har ansvar for at:internkontroll utøves,kvalifisert personell har nødvendig vassdragsteknisk kompetanse,kvalifisert personell gis tid og ressurser til å utføre sine oppgaver,sikkerhetskravene til vassdragsanlegg overholdes, herunder sikringstiltak av hensyn til allmennheten, jf. [§ 7-6](forskrift/2009-12-18-1600/§7-6),rapporterte sikkerhetstiltak blir vurdert og fulgt opp,det rapporteres til den ansvarlige når det er nødvendig.
+Lederen har ansvar for at:
+
+1. internkontroll utøves,
+2. kvalifisert personell har nødvendig vassdragsteknisk kompetanse,
+3. kvalifisert personell gis tid og ressurser til å utføre sine oppgaver,
+4. sikkerhetskravene til vassdragsanlegg overholdes, herunder sikringstiltak av hensyn til allmennheten, jf. [§ 7-6](forskrift/2009-12-18-1600/§7-6),
+5. rapporterte sikkerhetstiltak blir vurdert og fulgt opp,
+6. det rapporteres til den ansvarlige når det er nødvendig.
 
 Leder skal være ansatt hos den ansvarlige for vassdragsanlegget.
 
 ### § 2-4. Vassdragsteknisk ansvarlig (VTA) og stedfortredende VTA
 
-VTA har det faglige ansvaret for å følge opp sikkerheten ved vassdragsanleggene ved å:utarbeide og holde oppdatert et internkontrollsystem for vassdragsanleggene,sørge for at anleggenes sikkerhet overvåkes og revurderes,rapportere til og foreslå sikkerhetstiltak overfor leder,påse at planlegging, prosjektering, bygging og revurdering av anleggene ivaretar relevante krav i forskriften, herunder at nødvendige fagområder blir ivaretatt, og at det om nødvendig blir foretatt faglige vurderinger som ikke dekkes av fagområdene nevnt i [§ 3-5](forskrift/2009-12-18-1600/§3-5),rapportere til leder om situasjoner som avviker fra det normalelære opp tilsynspersonell og stedfortredende VTA om aktuelle anlegg.
+VTA har det faglige ansvaret for å følge opp sikkerheten ved vassdragsanleggene ved å:
+
+1. utarbeide og holde oppdatert et internkontrollsystem for vassdragsanleggene,
+2. sørge for at anleggenes sikkerhet overvåkes og revurderes,
+3. rapportere til og foreslå sikkerhetstiltak overfor leder,
+4. påse at planlegging, prosjektering, bygging og revurdering av anleggene ivaretar relevante krav i forskriften, herunder at nødvendige fagområder blir ivaretatt, og at det om nødvendig blir foretatt faglige vurderinger som ikke dekkes av fagområdene nevnt i [§ 3-5](forskrift/2009-12-18-1600/§3-5),
+5. rapportere til leder om situasjoner som avviker fra det normale
+6. lære opp tilsynspersonell og stedfortredende VTA om aktuelle anlegg.
 
 For vassdragsanlegg i konsekvensklasse 2, 3 og 4 skal det utpekes en stedfortredende VTA med tilfredsstillende kvalifikasjoner, jf. [§ 3-3](forskrift/2009-12-18-1600/§3-3). Stedfortredende VTA skal overta det faglige ansvaret som VTA for de aktuelle anleggene i funksjonsperioden.
 
@@ -122,7 +160,12 @@ NVE kan bestemme at også andre opplysninger som angår sikkerheten ved vassdrag
 
 ### § 3-1. Kvalifikasjonskrav
 
-Det stilles kvalifikasjonskrav til:leder, vassdragsteknisk ansvarlig (VTA), stedfortredende VTA og tilsynspersonell, jf. [§ 3-2](forskrift/2009-12-18-1600/§3-2), [§ 3-3](forskrift/2009-12-18-1600/§3-3) og [§ 3-4](forskrift/2009-12-18-1600/§3-4)fagansvarlig, jf. [§ 3-5](forskrift/2009-12-18-1600/§3-5)utførende foretak og anleggsleder, jf. [§ 3-8](forskrift/2009-12-18-1600/§3-8)kontrollør, jf. [§ 3-9](forskrift/2009-12-18-1600/§3-9).
+Det stilles kvalifikasjonskrav til:
+
+1. leder, vassdragsteknisk ansvarlig (VTA), stedfortredende VTA og tilsynspersonell, jf. [§ 3-2](forskrift/2009-12-18-1600/§3-2), [§ 3-3](forskrift/2009-12-18-1600/§3-3) og [§ 3-4](forskrift/2009-12-18-1600/§3-4)
+2. fagansvarlig, jf. [§ 3-5](forskrift/2009-12-18-1600/§3-5)
+3. utførende foretak og anleggsleder, jf. [§ 3-8](forskrift/2009-12-18-1600/§3-8)
+4. kontrollør, jf. [§ 3-9](forskrift/2009-12-18-1600/§3-9).
 
 NVE bestemmer hva som er spesifikk teoretisk opplæring i henhold til [§ 3-2](forskrift/2009-12-18-1600/§3-2) til [§ 3-4](forskrift/2009-12-18-1600/§3-4).
 
@@ -156,7 +199,13 @@ Tilsynspersonell skal ha kunnskap om egne vassdragsanleggs konstruksjon, funksjo
 
 ### § 3-5. Kvalifikasjonskrav til fagansvarlig
 
-Godkjenning av fagansvarlig gis for følgende fagområder:I betong-/murdammer med fundamentII fyllingsdammer med fundamentIII stenge- og tappeorganer, rør og tverrslagsporterIV flomhydrologiV hydraulikk og flomavledning.
+Godkjenning av fagansvarlig gis for følgende fagområder:
+
+- I betong-/murdammer med fundament
+- II fyllingsdammer med fundament
+- III stenge- og tappeorganer, rør og tverrslagsporter
+- IV flomhydrologi
+- V hydraulikk og flomavledning.
 
 Fagområde I og II omfatter også andre vassdragsanlegg av samme materiale.
 
@@ -196,7 +245,11 @@ Godkjenningen er knyttet til person og skal gjelde for angitte anlegg.
 
 Søknad om godkjenning som fagansvarlig sendes til NVE.
 
-Søknaden skal dokumentere at kvalifikasjonskravene i [§ 3-5](forskrift/2009-12-18-1600/§3-5) er tilfredsstilt. Søknaden skal inneholde en særskilt referanseliste for det aktuelle fagområdet som skal vise:hvilke prosjekt eller anlegg vedkommende har arbeidet med, og angivelse av type og dimensjoner,detaljert beskrivelse av hva slags arbeid som er utført relatert til praksiskravene i [§ 3-5](forskrift/2009-12-18-1600/§3-5) ogoversikt over hvor vedkommende var ansatt og når arbeidet ble utført angitt i måneder.
+Søknaden skal dokumentere at kvalifikasjonskravene i [§ 3-5](forskrift/2009-12-18-1600/§3-5) er tilfredsstilt. Søknaden skal inneholde en særskilt referanseliste for det aktuelle fagområdet som skal vise:
+
+- hvilke prosjekt eller anlegg vedkommende har arbeidet med, og angivelse av type og dimensjoner,
+- detaljert beskrivelse av hva slags arbeid som er utført relatert til praksiskravene i [§ 3-5](forskrift/2009-12-18-1600/§3-5) og
+- oversikt over hvor vedkommende var ansatt og når arbeidet ble utført angitt i måneder.
 
 Godkjenningen er en personlig godkjenning og skal gjelde for bestemt fagområde. NVE kan gi begrensninger i godkjenningen avhengig av søkerens kvalifikasjoner.
 
@@ -233,10 +286,14 @@ Den ansvarlige skal foreta en vurdering av anlegget og omgivelsene og fremme et 
 
 Anlegg som ved brudd, svikt eller feilfunksjon kan medføre fare for skade på mennesker, miljø eller eiendom, skal klassifiseres i konsekvensklasse 1 til 4. Konsekvensklasse 4 benyttes for anlegg som har de største konsekvensene. Anlegg som har ubetydelige konsekvenser klassifiseres i konsekvensklasse 0.
 
-Mindre vassdragsanlegg er i konsekvensklasse 0 dersom de oppfyller følgende kriterier:dammer med høyde < 2 meter og oppdemt magasinvolum < 0,01 mill. m3 (10 000 m3),frittliggende, nedgravde og innstøpte trykkrør der produktet av trykk og diameter, p x D < 0,2,stenge-/tappeorgan der produktet av trykk og areal, p x A < 0,2, der
-p = største statiske trykk i MPa (1 MPa tilsvarer 100 m vanntrykk)
-D = innvendig rørdiameter i m
-A = lysåpningsareal på stenge-/tappeorgan i m2.
+Mindre vassdragsanlegg er i konsekvensklasse 0 dersom de oppfyller følgende kriterier:
+
+- dammer med høyde < 2 meter og oppdemt magasinvolum < 0,01 mill. m3 (10 000 m3),
+- frittliggende, nedgravde og innstøpte trykkrør der produktet av trykk og diameter, p x D < 0,2,
+- stenge-/tappeorgan der produktet av trykk og areal, p x A < 0,2, der
+  p = største statiske trykk i MPa (1 MPa tilsvarer 100 m vanntrykk)
+  D = innvendig rørdiameter i m
+  A = lysåpningsareal på stenge-/tappeorgan i m2.
 
 For anlegg som overstiger kriteriene i fjerde ledd skal det foretas ny vurdering av konsekvensklasse når det har skjedd endringer på eller ved anlegget eller i omgivelsene, eller det har inntrådt andre forhold som må forventes å ha betydning for bruddkonsekvensene.
 
@@ -307,7 +364,12 @@ Laster omfatter permanente laster, variable laster og ulykkeslaster:
 
 *a) Permanente laster*
 
-Permanente laster er laster som ikke endres gjennom den fasen som undersøkes, eller som med stor sannsynlighet vil opptre i lengre perioder i løpet av anleggets levetid. Følgende laster regnes som permanente:vanntrykk ved definerte nivåer: last ved vannstander mellom laveste regulerte (LRV) og høyeste regulerte (HRV) vannstand,oppdrift og poretrykk ved ugunstigste vannstand,gravitasjonslast (egenlast),jordtrykk.
+Permanente laster er laster som ikke endres gjennom den fasen som undersøkes, eller som med stor sannsynlighet vil opptre i lengre perioder i løpet av anleggets levetid. Følgende laster regnes som permanente:
+
+- vanntrykk ved definerte nivåer: last ved vannstander mellom laveste regulerte (LRV) og høyeste regulerte (HRV) vannstand,
+- oppdrift og poretrykk ved ugunstigste vannstand,
+- gravitasjonslast (egenlast),
+- jordtrykk.
 
 Karakteristiske verdier for permanente laster defineres som forventet middelverdi. Beregning av belastninger skal baseres på relevante statistiske data for tyngdetetthet, eller på tyngdetetthet dokumentert gjennom målinger, og fastsettes etter prinsipper i aktuell Norsk Standard.
 
@@ -315,7 +377,14 @@ Karakteristiske verdier for permanente laster defineres som forventet middelverd
 
 Variable laster varierer med tiden under drift, eller opptrer som midlertidige belastninger under bygging. Variable laster omfatter bruksavhengige laster, deformasjonslaster og miljølaster.
 
-Bruksavhengige laster omfatter følgende laster:trafikklast,akselerasjonslast,last ved montasje,friksjon og andre reaksjonskrefter,strømmende vann og hydrodynamiske laster,sedimentlast.
+Bruksavhengige laster omfatter følgende laster:
+
+- trafikklast,
+- akselerasjonslast,
+- last ved montasje,
+- friksjon og andre reaksjonskrefter,
+- strømmende vann og hydrodynamiske laster,
+- sedimentlast.
 
 Karakteristiske verdier for bruksavhengige laster skal tilsvare forventede maksimalverdier eller verdier for en returperiode (gjentaksintervall) på 50 år.
 
@@ -323,7 +392,16 @@ Deformasjonslaster er lastvirkning som følge av setninger, oppspenning/forspenn
 
 Karakteristiske verdier for deformasjonslaster fastsettes ved hjelp av anerkjente metoder som tar hensyn til materialegenskaper, konstruksjonens utforming og klimatiske forhold. Hvis ikke annet er bestemt i forskriften her, gjelder bestemmelsene i aktuell Norske Standard.
 
-Miljølaster er laster forårsaket av klimatiske, mikroklimatiske og topografiske påvirkninger. Følgende laster regnes som miljølaster:vanntrykk som følge av flom: vanntrykk ved dimensjonerende flomvannstand (DFV),bølger,is,snø,tele,jordskjelv,økt vanntrykk på grunn av tilstopping i flomløp, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7),oppdrift og poretrykk ved ugunstigste vannstand (DFV eller tilstopping).
+Miljølaster er laster forårsaket av klimatiske, mikroklimatiske og topografiske påvirkninger. Følgende laster regnes som miljølaster:
+
+- vanntrykk som følge av flom: vanntrykk ved dimensjonerende flomvannstand (DFV),
+- bølger,
+- is,
+- snø,
+- tele,
+- jordskjelv,
+- økt vanntrykk på grunn av tilstopping i flomløp, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7),
+- oppdrift og poretrykk ved ugunstigste vannstand (DFV eller tilstopping).
 
 Karakteristiske verdier for miljølaster bestemmes normalt ut fra krav til sannsynlighet for overskridelse basert på statistiske data. For miljølaster hvor tilstrekkelig statistisk datagrunnlag ikke foreligger, skal forventede maksimalverdier anvendes, fastsatt etter faglig vurdering av forholdene på stedet.
 
@@ -333,11 +411,24 @@ Ulykkeslaster er laster som opptrer ved unormale tilstander, ulykker eller natur
 
 For dammer i konsekvensklasse 3 og 4 skal det som ulykkeslast regnes med påregnelig maksimal tilløpsflom, maksimal flomvannstand (MFV) og tilhørende påregnelig maksimal avløpsflom. For dammer i konsekvensklasse 1 og 2 kan det alternativt regnes med en flom på 1,5 dimensjonerende tilløpsflom og tilhørende flomvannstand og avløpsflom som ulykkeslast, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7).
 
-Andre relevante ulykkeslaster kan være:oppdrift og poretrykk ved ugunstigste vannstand,unormal lekkasje og overtopping.vanntrykk som følge av dimensjonerende tilløpsflom (Qdim) og samtidig manøvreringssvikt av flomluker, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7).flodbølger og unormale vannstander: last pga utbrudd fra bredemt sjø, ukontrollert vannføring pga skade på oppstrøms vassdragsanlegg eller rasgenererte bølger.jordskjelv.eksplosjon: last som følge av tilfeldig ulykkeshendelse eller sabotasje/terror i fred og under beredskap og krigskred: last som følge av skred direkte mot vassdragsanlegg.
+Andre relevante ulykkeslaster kan være:
+
+- oppdrift og poretrykk ved ugunstigste vannstand,
+- unormal lekkasje og overtopping.
+- vanntrykk som følge av dimensjonerende tilløpsflom (Qdim) og samtidig manøvreringssvikt av flomluker, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7).
+- flodbølger og unormale vannstander: last pga utbrudd fra bredemt sjø, ukontrollert vannføring pga skade på oppstrøms vassdragsanlegg eller rasgenererte bølger.
+- jordskjelv.
+- eksplosjon: last som følge av tilfeldig ulykkeshendelse eller sabotasje/terror i fred og under beredskap og krig
+- skred: last som følge av skred direkte mot vassdragsanlegg.
 
 ### § 5-4. Dimensjonering
 
-Det skal kontrolleres at laster og/eller lastvirkninger ikke overskrider aktuelle grenseverdier for kapasitet, kraftretning, materialspenning, deformasjon, rissvidde og vibrasjon. Grenseverdier i kapittelet her gjelder foran gjeldende Norsk Standard. Kontrollen skal gjøres i de relevante av følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandBruksgrensetilstandUtmattingsgrensetilstand.
+Det skal kontrolleres at laster og/eller lastvirkninger ikke overskrider aktuelle grenseverdier for kapasitet, kraftretning, materialspenning, deformasjon, rissvidde og vibrasjon. Grenseverdier i kapittelet her gjelder foran gjeldende Norsk Standard. Kontrollen skal gjøres i de relevante av følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand
+- Bruksgrensetilstand
+- Utmattingsgrensetilstand.
 
 NVE kan fastsette de dimensjoneringsstandarder eller spesifikke konstruksjons- og dimensjoneringskriterier som skal benyttes. Der datagrunnlaget for flomberegninger er mangelfullt, skal det tillegges en sikkerhetsmargin ved dimensjonering og kontroll av dam og flomløp.
 
@@ -426,7 +517,10 @@ Senking av magasin skal skje uten fare for dammens sikkerhet eller skader på ne
 
 ### § 5-10. Fyllingsdammer
 
-En fyllingsdam er en dam som hovedsakelig består av oppfylte og komprimerte masser av jord, grus og steinmaterialer. Dammen utformes med materialsoner med tilfredsstillende utstrekning og filtervirkning. Dammen skal gis en drenasjekapasitet slik at den tåler store lekkasjer og overtopping som følge av ulykkeslaster eller skader på dammen. Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel. Den konstruktive sikkerheten av en fyllingsdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstand.
+En fyllingsdam er en dam som hovedsakelig består av oppfylte og komprimerte masser av jord, grus og steinmaterialer. Dammen utformes med materialsoner med tilfredsstillende utstrekning og filtervirkning. Dammen skal gis en drenasjekapasitet slik at den tåler store lekkasjer og overtopping som følge av ulykkeslaster eller skader på dammen. Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel. Den konstruktive sikkerheten av en fyllingsdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand.
 
 I bruddgrensetilstand skal det påvises at dammen har tilstrekkelig sikkerhet mot utglidning og erosjon.
 
@@ -512,7 +606,11 @@ Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter ane
 
 Statiske og dynamiske beregninger kan normalt baseres på lineær teori. I de tilfeller hvor ikke-lineære virkninger fra geometri og materialer har en betydelig innflytelse på konstruksjonens sikkerhet, skal disse forhold tas i betraktning.
 
-Den konstruktive sikkerheten av en betongdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandBruksgrensetilstand.
+Den konstruktive sikkerheten av en betongdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand
+- Bruksgrensetilstand.
 
 Det skal påvises kapasitet av velte- og glidestabilitet i bruddgrensetilstand og ulykkesgrensetilstand. Det stilles følgende krav til velte- og glidestabilitet i brudd- og ulykkesgrensetilstand:
 
@@ -582,7 +680,11 @@ En murdam er en dam av stein og steinblokker og med en tetning plassert på vann
 
 Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel.
 
-Den konstruktive sikkerheten av en murdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandBruksgrensetilstand.
+Den konstruktive sikkerheten av en murdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand
+- Bruksgrensetilstand.
 
 Det skal påvises kapasitet av velte- og glidestabilitet i bruddgrensetilstand og ulykkesgrensetilstand. Kravet til velte- og glidestabilitet i brudd- og ulykkesgrensetilstand gjelder tilsvarende som beskrevet for gravitasjonsdam i [§ 5-11](forskrift/2009-12-18-1600/§5-11).
 
@@ -630,7 +732,10 @@ Andre damtyper er dammer med andre konstruktive løsninger og/eller som er bygge
 
 Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel.
 
-Den konstruktive sikkerheten for andre damtyper skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstand.
+Den konstruktive sikkerheten for andre damtyper skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand.
 
 Det skal påvises kapasitet av velte- og glidestabilitet i bruddgrensetilstand og i ulykkesgrensetilstand.
 
@@ -672,7 +777,12 @@ Stenge- og tappeorganer er alle typer luker, ventiler og andre innretninger med 
 
 Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel.
 
-Ved dimensjonering skal konstruksjonene kontrolleres i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandUtmattingsgrensetilstandBruksgrensetilstand.
+Ved dimensjonering skal konstruksjonene kontrolleres i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand
+- Utmattingsgrensetilstand
+- Bruksgrensetilstand.
 
 Manøvreringen av stenge- og tappeorganer skal være sikret ved alle aktuelle driftsforhold, inklusiv ved ulykkessituasjoner.
 
@@ -716,7 +826,12 @@ Med rør menes rør for transport av vann fra magasin til kraftstasjon, eller me
 
 Dimensjonerende lastvirkninger skal klarlegges ved beregninger utført etter anerkjente metoder og baseres på realistiske forutsetninger om konstruksjonens egenskaper og oppførsel.
 
-Ved dimensjonering skal konstruksjonen kontrolleres i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandUtmattingsgrensetilstandBruksgrensetilstand.
+Ved dimensjonering skal konstruksjonen kontrolleres i følgende grensetilstander:
+
+- Bruddgrensetilstand
+- Ulykkesgrensetilstand
+- Utmattingsgrensetilstand
+- Bruksgrensetilstand.
 
 Rør og tverrslagsporter med tilhørende komponenter skal kontrolleres for lastkombinasjoner med innvendig overtrykk og undertrykk, inkludert dynamisk trykk som kan være trykkstøt eller virkning av massesvingning. Rør i konsekvensklasse 2, 3 og 4 skal dimensjoneres for innvendig vakuum i ulykkesgrensetilstand. Rør og tverrslagsporter skal videre kontrolleres med hensyn til systemstabilitet med de krefter som kan opptre i konstruksjonen.
 
@@ -786,7 +901,20 @@ Sluseporter skal dimensjoneres og utføres etter samme krav som gjelder for sten
 
 ### § 6-1. Bygging
 
-Under bygging av vassdragsanlegg skal det til enhver tid foreligge dokumentasjon på følgende forhold:fremdriftsplan som angir alle viktige faser i byggearbeidetorganisering av byggearbeidet med ansvars- og oppgavefordelingkvalifikasjoner til utførende foretak, anleggsleder og kontrollør, jf. [§ 3-8](forskrift/2009-12-18-1600/§3-8) og [§ 3-9](forskrift/2009-12-18-1600/§3-9). For anlegg i konsekvensklasse 3 og 4 skal kontrollen ledes av kontrollør som er uavhengig av utførende foretak og den ansvarlige for vassdragsanlegget. I konsekvensklasse 1 og 2 skal kontrollen ledes av kontrollør som er uavhengig av utførende foretak. Der Norsk Standard har krav til kvalifikasjoner, skal i tillegg disse følgesplan for gjennomføring av det tekniske kontrollarbeidet i byggeperioden, herunderbemanningmålinger og prøvetaking i byggeperioden, herunder hvordan vannstand, lekkasjer, deformasjoner, poretrykk mv. skal overvåkesbehandling av resultater fra målinger og prøvetakingprøveutstyrstopp- og kontrollpunkter.beredskapsplan for håndtering av forhold og situasjoner som avviker fra det normale, jf. [§ 7-4](forskrift/2009-12-18-1600/§7-4)laster, dimensjoner, materialer og utforming for midlertidige dammer (fangdammer) og andre anleggsprovisorier.
+Under bygging av vassdragsanlegg skal det til enhver tid foreligge dokumentasjon på følgende forhold:
+
+1. fremdriftsplan som angir alle viktige faser i byggearbeidet
+2. organisering av byggearbeidet med ansvars- og oppgavefordeling
+3. kvalifikasjoner til utførende foretak, anleggsleder og kontrollør, jf. [§ 3-8](forskrift/2009-12-18-1600/§3-8) og [§ 3-9](forskrift/2009-12-18-1600/§3-9). For anlegg i konsekvensklasse 3 og 4 skal kontrollen ledes av kontrollør som er uavhengig av utførende foretak og den ansvarlige for vassdragsanlegget. I konsekvensklasse 1 og 2 skal kontrollen ledes av kontrollør som er uavhengig av utførende foretak. Der Norsk Standard har krav til kvalifikasjoner, skal i tillegg disse følges
+4. plan for gjennomføring av det tekniske kontrollarbeidet i byggeperioden, herunder
+
+   - bemanning
+   - målinger og prøvetaking i byggeperioden, herunder hvordan vannstand, lekkasjer, deformasjoner, poretrykk mv. skal overvåkes
+   - behandling av resultater fra målinger og prøvetaking
+   - prøveutstyr
+   - stopp- og kontrollpunkter.
+5. beredskapsplan for håndtering av forhold og situasjoner som avviker fra det normale, jf. [§ 7-4](forskrift/2009-12-18-1600/§7-4)
+6. laster, dimensjoner, materialer og utforming for midlertidige dammer (fangdammer) og andre anleggsprovisorier.
 
 For vassdragsanlegg i konsekvensklasse 2, 3 og 4 skal dokumentasjon i henhold til pkt a, b, c og d sendes NVE før byggestart. For konsekvensklasse 1 kan NVE kreve dokumentasjonen fremlagt før byggestart. For alle konsekvensklasser kan det kreves fremlagt periodiske rapporter under byggeperioden med måle- og prøveresultater og kontrollørens vurdering av disse og av andre forhold som kan ha betydning for utførelsen.
 
@@ -794,7 +922,13 @@ Når byggearbeidet er gjennomført, skal utførte kontroller, målinger og prøv
 
 ### § 6-2. Idriftsettelse
 
-Ved idriftsettelse av et nytt anlegg og etter ombygging av eksisterende skal det foreligge en plan for første gangs oppfylling av magasin eller vannvei og for første gangs prøving av stenge- og tappeorganer. Planen skal inneholde:tidsplan for hvilke aktiviteter som skal gjennomføres,oppfyllingshastighet,omfang og metoder for kontroll-, måle- og prøveaktiviteter knyttet til idriftsettelsen,fremgangsmåte for eventuelt å kunne avbryte og reversere idriftsettelsen og for å håndtere forhold og situasjoner som avviker fra det normale,angivelse av kvalifisert person som skal ha ansvar for gjennomføring av de ulike delene av planen.
+Ved idriftsettelse av et nytt anlegg og etter ombygging av eksisterende skal det foreligge en plan for første gangs oppfylling av magasin eller vannvei og for første gangs prøving av stenge- og tappeorganer. Planen skal inneholde:
+
+1. tidsplan for hvilke aktiviteter som skal gjennomføres,
+2. oppfyllingshastighet,
+3. omfang og metoder for kontroll-, måle- og prøveaktiviteter knyttet til idriftsettelsen,
+4. fremgangsmåte for eventuelt å kunne avbryte og reversere idriftsettelsen og for å håndtere forhold og situasjoner som avviker fra det normale,
+5. angivelse av kvalifisert person som skal ha ansvar for gjennomføring av de ulike delene av planen.
 
 Det skal føres protokoll fra idriftsettelsen.
 
@@ -826,8 +960,19 @@ Tabell 7-2.1 Interntilsyn.
 | Hovedtilsyn | Anlegg i konsekvensklasse 2-4: Minst hvert femte år Anlegg i konsekvensklasse 1: Minst hvert sjuende år | Gjennomgang av periodiske tilsyn, omfattende inspeksjon og vurdering av tilstand og funksjonsdyktighet, vurdering av overvåkingsbehov og -resultater og behov for fremskyndet revurdering, jf. [§ 7-5](forskrift/2009-12-18-1600/§7-5) | VTA og annen person med tilsvarende kompetanse |
 | Spesielt tilsyn | Anlegg i konsekvensklasse 1-4: Under og etter unormale situasjoner/ store påkjenninger på anlegget | Undersøke om anlegget tåler/har tålt påkjenningene | VTA |
 
-Det stilles følgende krav til instrumentering og måling av dammer:Dammer i konsekvensklasse 1 skal ha vannstandsskala for overvåking av vannstand.Dammer i konsekvensklasse 2, 3 og 4 skal ha instrumentering for måling av følgende måleparametere: *Damtype**Klasse**Vannstand**Lekkasje**Deforma-*
-*sjoner**Poretrykk*Fyllingsdam fundamentert på god berggrunn2, 3, 4xxxFyllingsdam fundamentert på løsmasser eller berg med utpregede svakhetssoner2, 3, 4xxxxBetong- og murdam fundamentert på god berggrunn3, 4xxxBetong- og murdam fundamentert på god berggrunn2xxBetong- og murdam på løsmasser eller berg med utpregede svakhetssoner3, 4xxxxBetong- og murdam på løsmasser eller berg med utpregede svakhetssoner2xxx
+Det stilles følgende krav til instrumentering og måling av dammer:
+
+- Dammer i konsekvensklasse 1 skal ha vannstandsskala for overvåking av vannstand.
+- Dammer i konsekvensklasse 2, 3 og 4 skal ha instrumentering for måling av følgende måleparametere:
+
+  | *Damtype* | *Klasse* | *Vannstand* | *Lekkasje* | *Deforma-*<br>*sjoner* | *Poretrykk* |
+  | --- | --- | --- | --- | --- | --- |
+  | Fyllingsdam fundamentert på god berggrunn | 2, 3, 4 | x | x | x |  |
+  | Fyllingsdam fundamentert på løsmasser eller berg med utpregede svakhetssoner | 2, 3, 4 | x | x | x | x |
+  | Betong- og murdam fundamentert på god berggrunn | 3, 4 | x | x | x |  |
+  | Betong- og murdam fundamentert på god berggrunn | 2 | x | x |  |  |
+  | Betong- og murdam på løsmasser eller berg med utpregede svakhetssoner | 3, 4 | x | x | x | x |
+  | Betong- og murdam på løsmasser eller berg med utpregede svakhetssoner | 2 | x | x |  | x |
 
 Måleinstrumenter og andre måleinnretninger skal være driftssikre, nøyaktige og lette å avlese og skal være plassert slik at de gir representative måleverdier. Systemet for overføring av måleverdier skal være sikret mot funksjonssvikt. Måleinstrumenter, måleinnretninger, system for overføring av signaler og måleverdier skal kontrolleres jevnlig. Måleverdier og eventuelt tilhørende tidsangivelse skal være angitt i standardiserte referansesystemer.
 

@@ -40,9 +40,22 @@ Det kan gis tilskudd til tiltak som fremmer natur eller bedrer mulighetene for f
 
 Som kommuner berørt av vindkraftutbygging, menes kommuner hvor landbaserte vindkraftverk er plassert, og kommuner hvor friluftsinteresser eller natur berøres negativt av landbaserte vindkraftverk som er plassert i nabokommunen.
 
-Tiltak som fremmer natur, kan væretiltak for enkeltarter eller naturtypervedlikehold, skjøtsel og restaureringkartlegging som er nødvendig før tiltak gjennomførestiltak som bidrar til å fremme eller reetablere sammenhengende nettverk av naturområder med stor økologisk betydning for naturmangfoldInformasjonstiltak.
+Tiltak som fremmer natur, kan være
 
-Tiltak som fremmer friluftsliv, kan væreomlegging av stier og ferdselsårer for friluftslivtilrettelegging, utbedring og merking av stitilrettelegging av tilkomstsoner, inkludert etablering av toalett, sanitæranlegg og søppelhåndteringinformasjonstiltaketablering av mindre tilretteleggingstiltak for friluftsliv. Det gis ikke støtte til typiske nærmiljøanlegg som for eksempel frisbeegolf, sandvolleyballbaner, golfanlegg, ballbaner mv.prosjektledelse, utredning og planlegging knyttet til besøksforvaltning som er nødvendig før tiltak gjennomføres.
+- tiltak for enkeltarter eller naturtyper
+- vedlikehold, skjøtsel og restaurering
+- kartlegging som er nødvendig før tiltak gjennomføres
+- tiltak som bidrar til å fremme eller reetablere sammenhengende nettverk av naturområder med stor økologisk betydning for naturmangfold
+- Informasjonstiltak.
+
+Tiltak som fremmer friluftsliv, kan være
+
+- omlegging av stier og ferdselsårer for friluftsliv
+- tilrettelegging, utbedring og merking av sti
+- tilrettelegging av tilkomstsoner, inkludert etablering av toalett, sanitæranlegg og søppelhåndtering
+- informasjonstiltak
+- etablering av mindre tilretteleggingstiltak for friluftsliv. Det gis ikke støtte til typiske nærmiljøanlegg som for eksempel frisbeegolf, sandvolleyballbaner, golfanlegg, ballbaner mv.
+- prosjektledelse, utredning og planlegging knyttet til besøksforvaltning som er nødvendig før tiltak gjennomføres.
 
 Innenfor friluftsliv gis det kun tilskudd til fysiske tilretteleggingstiltak og informasjonstiltak.
 
@@ -82,17 +95,54 @@ For friluftslivstiltak må det redegjøres for hvordan tiltaket vil bidra til å
 
 Tiltaket som søkes finansiert må være avklart med grunneier eller rettighetshaver.
 
-Søknaden skal videre inneholde informasjon omsøkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktpersonhva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningensøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer fremegenfinansiering og/eller egen arbeidsinnsats (dugnad),søker også utøver økonomisk aktivitet, se [§ 11](forskrift/2025-06-12-1551/§11)søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaketprosjektbeskrivelse som inneholder informasjon omNaturbeskrivelse og lokalisering av omsøkt tiltakhvilken type natur som skal fremmes eller reetablerespå hvilken måte aktuelt naturmangfold er berørt av vindkraftutbyggingen (hvis aktuelt)på hvilken måte reindriftsinteresser berøres av omsøkt tiltak (hvis aktuelt)hvorfor det er ønskelig å gjennomføre tiltak for omsøkt naturforventede resultater av tiltaket.Friluftslivbeskrivelse og lokalisering av omsøkt tiltakpå hvilken måte friluftslivstiltaket kompenserer reduserte friluftslivsmuligheter eller friluftslivskvaliteter som følge av vindkraftanlegget (hvis aktuelt)på hvilken måte reindriftsinteresser berøres av omsøkt tiltak (hvis aktuelt)omfanget av besøk på sti eller andre friluftslivsanlegg som ønskes flyttet eller etablert et annet sted (hvis aktuelt)forventet bruk av friluftslivstiltaket, herunder om det forventes lokal, regional eller nasjonal brukeventuelt andre eller tilsvarende friluftslivstiltak i det området som tiltaket ønskes utførthvilke aktører som er med i arbeidethvordan tiltaket påvirker naturmangfold.
+Søknaden skal videre inneholde informasjon om
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+3. søknadsbeløp
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
+5. egenfinansiering og/eller egen arbeidsinnsats (dugnad),
+6. søker også utøver økonomisk aktivitet, se [§ 11](forskrift/2025-06-12-1551/§11)
+7. søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket
+8. prosjektbeskrivelse som inneholder informasjon om
+
+   Natur
+
+   - beskrivelse og lokalisering av omsøkt tiltak
+   - hvilken type natur som skal fremmes eller reetableres
+   - på hvilken måte aktuelt naturmangfold er berørt av vindkraftutbyggingen (hvis aktuelt)
+   - på hvilken måte reindriftsinteresser berøres av omsøkt tiltak (hvis aktuelt)
+   - hvorfor det er ønskelig å gjennomføre tiltak for omsøkt natur
+   - forventede resultater av tiltaket.
+
+   Friluftsliv
+
+   - beskrivelse og lokalisering av omsøkt tiltak
+   - på hvilken måte friluftslivstiltaket kompenserer reduserte friluftslivsmuligheter eller friluftslivskvaliteter som følge av vindkraftanlegget (hvis aktuelt)
+   - på hvilken måte reindriftsinteresser berøres av omsøkt tiltak (hvis aktuelt)
+   - omfanget av besøk på sti eller andre friluftslivsanlegg som ønskes flyttet eller etablert et annet sted (hvis aktuelt)
+   - forventet bruk av friluftslivstiltaket, herunder om det forventes lokal, regional eller nasjonal bruk
+   - eventuelt andre eller tilsvarende friluftslivstiltak i det området som tiltaket ønskes utført
+   - hvilke aktører som er med i arbeidet
+   - hvordan tiltaket påvirker naturmangfold.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 8. Tilleggsopplysninger, kontroll og befaring før vedtak
 
-Miljødirektoratet kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 9. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetaltdet oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
+Søker plikter straks å melde fra til Miljødirektoratet dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
 
 ## § 10. Behandling av søknad om tilskudd
 

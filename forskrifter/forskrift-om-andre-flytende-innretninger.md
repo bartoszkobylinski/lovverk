@@ -30,7 +30,12 @@ Forskriften gjelder ikke innretninger som før forskriftens ikrafttredelse er in
 
 ## § 2. Definisjoner
 
-Med andre flytende innretninger menes innretninger som:er eller har til formål å være permanent flytende, ogikke er å anse som skip, ogutelukkende eller hovedsakelig brukes i næringsvirksomhet, ogikke kan pantsettes i medhold av [panteloven](lov/1980-02-08-2) eller annen lovgivning.
+Med andre flytende innretninger menes innretninger som:
+
+1. er eller har til formål å være permanent flytende, og
+2. ikke er å anse som skip, og
+3. utelukkende eller hovedsakelig brukes i næringsvirksomhet, og
+4. ikke kan pantsettes i medhold av [panteloven](lov/1980-02-08-2) eller annen lovgivning.
 
 Flytebrygger og anlegg til oppdrett av fisk, skalldyr m.v. samt tilbehør til slike anlegg er ikke å anse som andre flytende innretninger.
 

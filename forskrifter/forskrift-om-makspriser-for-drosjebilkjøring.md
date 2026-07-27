@@ -15,7 +15,7 @@ xml_hash: "b088b2492c0e7eb02a3504027a2ee48e8c675eadf22c94212618572e3b217a97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Forskriften kommer til anvendelse på løyvepliktig drosjetransport med motorvog
 
 Forskriften gjelder ikke for drosjetransport hvor vilkårene for transporten er fastsatt i avtale inngått etter forhandlinger mellom oppdragsgiver og tilbyder, eller avtale inngått etter anbudskonkurranse.
 
-Bestemmelsene i forskriftens [kapittel 2](forskrift/2010-09-30-1307/kap2) kommer ikke til anvendelse på:drosjetransport i kommuner med 20 000 innbyggere eller flere, og befolkningstetthet på 80 innbyggere per km2 eller høyere, ellerdrosjetransport hvor det er flere enn fire passasjerer i drosjebilen.
+Bestemmelsene i forskriftens [kapittel 2](forskrift/2010-09-30-1307/kap2) kommer ikke til anvendelse på:
+
+1. drosjetransport i kommuner med 20 000 innbyggere eller flere, og befolkningstetthet på 80 innbyggere per km2 eller høyere, eller
+2. drosjetransport hvor det er flere enn fire passasjerer i drosjebilen.
 
 > Endret ved [forskrifter 11 juni 2013 nr. 785](forskrift/2013-06-11-785) (i kraft 1 aug 2013), [9 okt 2020 nr. 2011](forskrift/2020-10-09-2011) (i kraft 1 nov 2020).
 
@@ -48,7 +51,11 @@ Kunden skal betale det som gir den laveste totalprisen for turen av et eventuelt
 
 ### § 4. (Forbudte takstelementer i ikke-maksimalprisregulerte områder)
 
-For drosjetransport som ikke er maksimalprisregulert etter forskriften [kapittel 2](forskrift/2010-09-30-1307/kap2) skal:eventuell starttakst for bestilt drosjetransport fastsettes uavhengig av tilkjøring,takstene ikke differensieres etter turens varighet, strekning eller geografisk område, ogtakstene ikke differensieres etter antall passasjerer i drosjebilen når turen utføres med færre enn fem passasjerer.
+For drosjetransport som ikke er maksimalprisregulert etter forskriften [kapittel 2](forskrift/2010-09-30-1307/kap2) skal:
+
+1. eventuell starttakst for bestilt drosjetransport fastsettes uavhengig av tilkjøring,
+2. takstene ikke differensieres etter turens varighet, strekning eller geografisk område, og
+3. takstene ikke differensieres etter antall passasjerer i drosjebilen når turen utføres med færre enn fem passasjerer.
 
 Med tilkjøring etter bokstav a menes kjøring uten passasjer fra stedet drosjebilen befinner seg ved oppdragets begynnelse og frem til hentestedet.
 

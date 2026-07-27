@@ -15,7 +15,7 @@ xml_hash: "d87eb39354fe99a08150937e76e0dc2ccad25dcbf1350875b90a29a0344b1932"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32010R1093"
@@ -72,7 +72,9 @@ Loven gjelder fra den tid1 Kongen2 bestemmer. Kongen kan sette i kraft de enkelt
 
 > Endret ved [lov 16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607), tidligere § 6).
 
-1 Fra 3 okt 2016 for § 1 til § 6 og § 7 nr. 2 iflg. [forskrift 3 okt 2016 nr. 1139](forskrift/2016-10-03-1139).2 Finansdepartementet iflg. [res. 17 juni 2016 nr. 714](forskrift/2016-06-17-714). Verdipapirhandelloven § 3-14a i kraft 1 jan 2017 iflg. [vedtak 16 des 2016 nr. 1608](forskrift/2016-12-16-1608).
+1 Fra 3 okt 2016 for § 1 til § 6 og § 7 nr. 2 iflg. [forskrift 3 okt 2016 nr. 1139](forskrift/2016-10-03-1139).
+
+2 Finansdepartementet iflg. [res. 17 juni 2016 nr. 714](forskrift/2016-06-17-714). Verdipapirhandelloven § 3-14a i kraft 1 jan 2017 iflg. [vedtak 16 des 2016 nr. 1608](forskrift/2016-12-16-1608).
 
 ## Forordning (EU) nr. 1093/2010 om opprettelse av en europeisk tilsynsmyndighet (Den europeiske banktilsynsmyndighet)
 

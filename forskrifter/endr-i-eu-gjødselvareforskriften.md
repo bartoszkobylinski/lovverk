@@ -15,7 +15,7 @@ xml_hash: "ac65a9582e2e5f29c6f5a96bfb7eb3bc3b96682fb3a51ed6ba7fdd72efc5a08c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,11 @@ c) Nr. 7 skal lyde:
 
 ►**M12**
 
-7\. Produsentene skal sikre at EU-gjødselprodukter ledsages av merkingselementene som kreves i vedlegg III, angitt i den relevante formen som fastsatt i artikkel 11a. Disse merkingselementene skalangis på et språk som sluttbrukerne lett kan forstå, som fastsatt av den berørte medlemsstaten,være klare, forståelige, nøyaktige, tydelige og plassert godt synlig på emballasjen,være tilgjengelig for kontroll når EU-gjødselvaren gjøres tilgjengelig på markedet.
+7\. Produsentene skal sikre at EU-gjødselprodukter ledsages av merkingselementene som kreves i vedlegg III, angitt i den relevante formen som fastsatt i artikkel 11a. Disse merkingselementene skal
+
+1. angis på et språk som sluttbrukerne lett kan forstå, som fastsatt av den berørte medlemsstaten,
+2. være klare, forståelige, nøyaktige, tydelige og plassert godt synlig på emballasjen,
+3. være tilgjengelig for kontroll når EU-gjødselvaren gjøres tilgjengelig på markedet.
 
 ◄**M12**
 
@@ -100,7 +104,10 @@ c) Nr. 7 skal lyde:
 
 ►**M12**
 
-4\. Importørene skal sikre at EU-gjødselprodukter ledsages av merkingselementene som kreves i vedlegg III, angitt i den relevante formen som fastsatt i artikkel 11a. Disse merkingselementene skalangis på et språk som sluttbrukerne lett kan forstå, som fastsatt av den berørte medlemsstaten,være tilgjengelig for kontroll når EU-gjødselvaren gjøres tilgjengelig på markedet.
+4\. Importørene skal sikre at EU-gjødselprodukter ledsages av merkingselementene som kreves i vedlegg III, angitt i den relevante formen som fastsatt i artikkel 11a. Disse merkingselementene skal
+
+1. angis på et språk som sluttbrukerne lett kan forstå, som fastsatt av den berørte medlemsstaten,
+2. være tilgjengelig for kontroll når EU-gjødselvaren gjøres tilgjengelig på markedet.
 
 ◄**M12**
 
@@ -114,7 +121,17 @@ c) Nr. 7 skal lyde:
 
 ►**M12**
 
-9\. Kommisjonen skal innen 1. mai 2027 vedta delegerte rettsakter i samsvar med artikkel 44 for å utfylle artikkel 11b og 11c ved å fastsette særlige krav til digital merking av EU-gjødselprodukter og vilkår for å oppfylle forpliktelsene til økonomiske aktører som leverer en digital etikett. Disse kravene skal særlig fastsette hvilke typer elektroniske tekniske løsninger de økonomiske aktørene kan bruke for å levere den digitale etiketten, og alternative midler for å gi informasjonen nevnt i artikkel 11c nr. 2. Når Kommisjonen vedtar delegerte rettsakter, skal densikre samsvar med andre relevante EU-rettsakter,fremme innovasjon og bruk av ypperste teknologi,sikre teknologisk nøytralitet ved ikke å begrense valget av teknologi eller utstyr, innenfor rammene av kompatibilitet og unngåelse av forstyrrelser,sikre at den digitale merkingen ikke kompromitterer sluttbrukerens og miljøets sikkerhet,sikre at enhver endring av den digitale etiketten ikke svekker markedstilsynsmyndighetenes evne til å verifisere etikettens innhold som eksisterte før denne endringen,ta hensyn til graden av digital beredskap blant sluttbrukere av EU-gjødselprodukter,ta hensyn til kravet i denne forordningen om å tilgjengeliggjøre informasjonen i en periode på ti år fra datoen da EU-gjødselproduktet ble brakt i omsetning,ta hensyn til styrkingen av det frie varebyttet for EU-gjødselprodukter i det indre marked,ta hensyn til små og mellomstore bedrifters behov og evne til å oppfylle slike krav.
+9\. Kommisjonen skal innen 1. mai 2027 vedta delegerte rettsakter i samsvar med artikkel 44 for å utfylle artikkel 11b og 11c ved å fastsette særlige krav til digital merking av EU-gjødselprodukter og vilkår for å oppfylle forpliktelsene til økonomiske aktører som leverer en digital etikett. Disse kravene skal særlig fastsette hvilke typer elektroniske tekniske løsninger de økonomiske aktørene kan bruke for å levere den digitale etiketten, og alternative midler for å gi informasjonen nevnt i artikkel 11c nr. 2. Når Kommisjonen vedtar delegerte rettsakter, skal den
+
+1. sikre samsvar med andre relevante EU-rettsakter,
+2. fremme innovasjon og bruk av ypperste teknologi,
+3. sikre teknologisk nøytralitet ved ikke å begrense valget av teknologi eller utstyr, innenfor rammene av kompatibilitet og unngåelse av forstyrrelser,
+4. sikre at den digitale merkingen ikke kompromitterer sluttbrukerens og miljøets sikkerhet,
+5. sikre at enhver endring av den digitale etiketten ikke svekker markedstilsynsmyndighetenes evne til å verifisere etikettens innhold som eksisterte før denne endringen,
+6. ta hensyn til graden av digital beredskap blant sluttbrukere av EU-gjødselprodukter,
+7. ta hensyn til kravet i denne forordningen om å tilgjengeliggjøre informasjonen i en periode på ti år fra datoen da EU-gjødselproduktet ble brakt i omsetning,
+8. ta hensyn til styrkingen av det frie varebyttet for EU-gjødselprodukter i det indre marked,
+9. ta hensyn til små og mellomstore bedrifters behov og evne til å oppfylle slike krav.
 
 10\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 44 for å endre vedlegg III med hensyn til merkingsinformasjonen som økonomiske aktører velger å oppgi på bare en digital etikett, i samsvar med unntaket fastsatt i artikkel 11a nr. 3 andre ledd, for å tilpasse nevnte vedlegg til den tekniske og vitenskapelige utviklingen eller til graden av digital beredskap blant sluttbrukerne av EU-gjødselprodukter. Når Kommisjonen vedtar disse delegerte rettsaktene, skal den ta hensyn til behovet for å sikre sikkerhet og et høyt nivå for vern av menneskers, dyrs og planters helse og miljøet.
 
@@ -193,7 +210,8 @@ i) I bokstav d) skal punkt v) og vi) lyde:
 
 ►**M12**
 
-- Organisk karbon (Corg).\*Tørrstoff.\*
+- 1. Organisk karbon (Corg).\*
+  2. Tørrstoff.\*
 
 ◄**M12**
 
@@ -212,7 +230,8 @@ i) I nr. 1 bokstav d) skal punkt v) og vi) lyde:
 
 ►**M12**
 
-- Organisk karbon (Corg).\*Tørrstoff.\*
+- 1. Organisk karbon (Corg).\*
+  2. Tørrstoff.\*
 
 ◄**M12**
 
@@ -285,7 +304,10 @@ i) Nr. 1 skal lyde:
 
 ►**M12**
 
-1\. For uorganisk mikronæringsgjødsel skal følgende angis:De deklarerte mikronæringsstoffene oppført med navn og kjemiske symboler i følgende rekkefølge: bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn).Navnene på mot-ionene når de deklarerte mikronæringsstoffene tilsettes bevisst.\*
+1\. For uorganisk mikronæringsgjødsel skal følgende angis:
+
+- De deklarerte mikronæringsstoffene oppført med navn og kjemiske symboler i følgende rekkefølge: bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn).
+- Navnene på mot-ionene når de deklarerte mikronæringsstoffene tilsettes bevisst.\*
 
 ◄**M12**
 
@@ -358,7 +380,17 @@ j) Avsnittet «Produktfunksjonskategori 5: HEMMER» skal lyde:
 
 2\. Innholdet av den eller de hemmende forbindelsene, uttrykt som masse- eller volumprosent, skal deklareres.\*
 
-3\. Bruksanvisningen nevnt i nr. 1 bokstav da) i del I i dette vedlegget skal inneholde opplysninger omhvilke typer EU-gjødselvarer hemmeren kan blandes med\*, særligfor nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5A) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det totale nitrogeninnholdet (N) består av nitrogenformene ammonium (NH4+) og urea (CH4N2O),\*for ureasehemmeren nevnt i produktfunksjonskategori 5C) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det samlede nitrogeninnholdet (N) består av nitrogenformen urea (CH4N2O),\*anbefalt laveste og høyeste konsentrasjon av hemmende forbindelse(r) når de(n) blandes med en gjødselvare før bruk:For nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 A) i del II i vedlegg I, uttrykt som masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O).For denitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 B) i del II i vedlegg I, uttrykt som masseprosent av nitratet (NO3-) som forekommer.For ureasehemmeren nevnt i produktfunksjonskategori 5) i del II i vedlegg I, uttrykt som masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
+3\. Bruksanvisningen nevnt i nr. 1 bokstav da) i del I i dette vedlegget skal inneholde opplysninger om
+
+1. hvilke typer EU-gjødselvarer hemmeren kan blandes med\*, særlig
+
+   1. for nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5A) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det totale nitrogeninnholdet (N) består av nitrogenformene ammonium (NH4+) og urea (CH4N2O),\*
+   2. for ureasehemmeren nevnt i produktfunksjonskategori 5C) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det samlede nitrogeninnholdet (N) består av nitrogenformen urea (CH4N2O),\*
+2. anbefalt laveste og høyeste konsentrasjon av hemmende forbindelse(r) når de(n) blandes med en gjødselvare før bruk:
+
+   1. For nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 A) i del II i vedlegg I, uttrykt som masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O).
+   2. For denitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 B) i del II i vedlegg I, uttrykt som masseprosent av nitratet (NO3-) som forekommer.
+   3. For ureasehemmeren nevnt i produktfunksjonskategori 5) i del II i vedlegg I, uttrykt som masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
 
 ◄**M12**
 
@@ -366,7 +398,14 @@ k) Avsnittet «Produktfunksjonskategori 6: BIOSTIMULANT» skal lyde:
 
 ►**M12**
 
-Følgende opplysninger skal gis:Fysisk form.Produksjonsdato.\*Utløpsdato.Bruksmåte(r).\*Angitt effekt for hver målplante.\*Alle relevante anvisninger som gjelder produktets effektivitet, herunder jordforvaltningspraksis, kunstgjødsling, uforenlighet med plantevernmidler, anbefalt størrelse på sprøytemunnstykker, sprøytetrykk og andre tiltak for å hindre avdrift.\*
+Følgende opplysninger skal gis:
+
+1. Fysisk form.
+2. Produksjonsdato.\*
+3. Utløpsdato.
+4. Bruksmåte(r).\*
+5. Angitt effekt for hver målplante.\*
+6. Alle relevante anvisninger som gjelder produktets effektivitet, herunder jordforvaltningspraksis, kunstgjødsling, uforenlighet med plantevernmidler, anbefalt størrelse på sprøytemunnstykker, sprøytetrykk og andre tiltak for å hindre avdrift.\*
 
 ◄**M12**
 

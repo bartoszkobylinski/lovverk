@@ -15,7 +15,7 @@ xml_hash: "e91d2d1ff248ff6eb2b5ac9fa3bd797d3a850f33c45d52b5fc9e45a8951006e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,10 @@ For nettselskap med leveringsplikt etter [energiloven § 3-3](lov/1990-06-29-50/
 
 På forespørsel fra nettkunden skal nettselskapet tilby deltagelse i ordning for sikring av strømpris. Nettkunder som har husholdnings- eller fritidsboligforbruk, kan delta i ordningen. Nettkundens målepunkt bindes ut prisperioden hvis nettkunden velger å inngå avtale om sikring av strømpris. Nettkunden taper rett til strømstønad i samme tidsrom som nettkunden deltar i ordning for sikring av strømpris.
 
-Nettselskapet skal beregne prissikringsbeløp per time for nettkunde nevnt i første ledd, basert på målt strømforbruk og referansepris, på følgende måte:I forbrukstimer med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.I forbrukstimer med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.
+Nettselskapet skal beregne prissikringsbeløp per time for nettkunde nevnt i første ledd, basert på målt strømforbruk og referansepris, på følgende måte:
+
+1. I forbrukstimer med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.
+2. I forbrukstimer med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.
 
 Elspotpris skal være timespris i budområdet kunden tilhører. Nettselskapet skal kreve inn eller betale ut netto prissikringsbeløp per måned. Beregningen skal gjøres etterskuddsvis for hver måned eller dersom nettkunden sier opp nettavtalen.
 
@@ -156,7 +159,10 @@ Informasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra fjernvarm
 
 På forespørsel fra fjernvarmekunden skal fjernvarmeselskapet tilby kunder av fjernvarmeanlegg med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1) og som har husholdnings- eller fritidsboligforbruk, deltagelse i ordning for sikring av fjernvarmepris. Energimåleren til fjernvarmekunden bindes ut prisperioden hvis fjernvarmekunden velger å inngå avtale om sikring av fjernvarmepris. Med energimåler menes måler som står i punktet der fjernvarmeselskapet beregner kundens fjernvarmeforbruk som danner grunnlag for fakturering. Fjernvarmekunden taper rett til strømstønad for fjernvarme i samme tidsrom som fjernvarmekunden deltar i ordning for sikring av fjernvarmepris.
 
-Fjernvarmeselskapet skal beregne prissikringsbeløp per måned for fjernvarmekunde nevnt i første ledd, basert på målt fjernvarmeforbruk og referansepris, på følgende måte:I forbruksmåned med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.I forbruksmåned med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.
+Fjernvarmeselskapet skal beregne prissikringsbeløp per måned for fjernvarmekunde nevnt i første ledd, basert på målt fjernvarmeforbruk og referansepris, på følgende måte:
+
+1. I forbruksmåned med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.
+2. I forbruksmåned med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.
 
 Elspotpris skal være gjennomsnittlig månedspris i budområdet kunden tilhører.
 

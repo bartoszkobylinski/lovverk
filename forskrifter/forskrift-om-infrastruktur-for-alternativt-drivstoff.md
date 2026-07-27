@@ -15,7 +15,7 @@ xml_hash: "ccae5ee417b64b0096aff98b857bbf4c24e787531047e8ce21b95afb5d83eae5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,25 @@ Krav om informasjon til bruker gjelder for forhandler som omsetter motorvogn som
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*alternativt drivstoff:* drivstoff eller energikilder som helt eller delvis tjener som en erstatning for fossile oljekilder i forsyningen av energi til transport, og som potensielt kan bidra til utfasing av CO2 og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a.:elektrisitethydrogenbiodrivstoff i henhold til [artikkel 2](eu/32009l0028/a2) bokstav i) i [direktiv 2009/28/EF](eu/32009l0028)syntetisk og parafinske drivstoffnaturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) ogflytende petroleumsgass (LPG).*elektrisk kjøretøy:* motorvogn som er utstyrt med minst én elektrisk motor som ikke befinner seg utenfor motorvognen som energiomformer, med et elektrisk energilagringssystem som kan lades eksternt.*ladepunkt:* grensesnitt som gjør det mulig å lade ett elektrisk kjøretøy om gangen eller bytte batteri i ett kjøretøy om gangen.*normalladepunkt:* ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mindre enn eller lik 22 kW, med unntak av innretninger med en effekt mindre enn eller lik 3,7 kW, som installeres i private husholdninger eller hvis hovedformål ikke er å lade elektriske kjøretøyer, og som ikke er offentlig tilgjengelige.*hurtigladepunkt:* ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mer enn 22 kW.*landstrømsforsyning:* levering av landstrøm gjennom et standardisert grensesnitt til fartøyer ved kai.*offentlig tilgjengelig ladepunkt eller energistasjon:* ladepunkt eller en energistasjon til forsyning av alternativt drivstoff, som brukerne har tilgang til, uten forskjellsbehandling. Tilgang uten forskjellsbehandling kan omfatte ulike vilkår for godkjenning, bruk og betaling.*energistasjon:* anlegg for fylling av alle typer drivstoff, med unntak av LNG, via et fast eller flyttbart anlegg.*LNG-fyllestasjon:* anlegg for fylling av LNG, som enten er et fast eller flyttbart anlegg, et offshore-anlegg eller et annet system.*instruksjonshåndbok:* håndbok som følger med kjøretøy og som gir informasjon om hvilket alternativt drivstoff kjøretøyet kan benytte.
+I denne forskriften menes med
+
+1. *alternativt drivstoff:* drivstoff eller energikilder som helt eller delvis tjener som en erstatning for fossile oljekilder i forsyningen av energi til transport, og som potensielt kan bidra til utfasing av CO2 og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a.:
+
+   - elektrisitet
+   - hydrogen
+   - biodrivstoff i henhold til [artikkel 2](eu/32009l0028/a2) bokstav i) i [direktiv 2009/28/EF](eu/32009l0028)
+   - syntetisk og parafinske drivstoff
+   - naturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) og
+   - flytende petroleumsgass (LPG).
+2. *elektrisk kjøretøy:* motorvogn som er utstyrt med minst én elektrisk motor som ikke befinner seg utenfor motorvognen som energiomformer, med et elektrisk energilagringssystem som kan lades eksternt.
+3. *ladepunkt:* grensesnitt som gjør det mulig å lade ett elektrisk kjøretøy om gangen eller bytte batteri i ett kjøretøy om gangen.
+4. *normalladepunkt:* ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mindre enn eller lik 22 kW, med unntak av innretninger med en effekt mindre enn eller lik 3,7 kW, som installeres i private husholdninger eller hvis hovedformål ikke er å lade elektriske kjøretøyer, og som ikke er offentlig tilgjengelige.
+5. *hurtigladepunkt:* ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mer enn 22 kW.
+6. *landstrømsforsyning:* levering av landstrøm gjennom et standardisert grensesnitt til fartøyer ved kai.
+7. *offentlig tilgjengelig ladepunkt eller energistasjon:* ladepunkt eller en energistasjon til forsyning av alternativt drivstoff, som brukerne har tilgang til, uten forskjellsbehandling. Tilgang uten forskjellsbehandling kan omfatte ulike vilkår for godkjenning, bruk og betaling.
+8. *energistasjon:* anlegg for fylling av alle typer drivstoff, med unntak av LNG, via et fast eller flyttbart anlegg.
+9. *LNG-fyllestasjon:* anlegg for fylling av LNG, som enten er et fast eller flyttbart anlegg, et offshore-anlegg eller et annet system.
+10. *instruksjonshåndbok:* håndbok som følger med kjøretøy og som gir informasjon om hvilket alternativt drivstoff kjøretøyet kan benytte.
 
 ## § 4. Spesifikasjoner for ladepunkter og landstrømsforsyning.
 
@@ -114,7 +132,10 @@ Likestrømbaserte hurtigladepunkter for elektriske kjøretøyer skal av hensyn t
 
 1.5.*Ladepunkter for motorvogner i gruppe L (mopeder og motorsykler)*
 
-1. Offentlig tilgjengelige vekselstrømsbaserte ladepunkter inntil 3,7 kilovoltampere (kVA) som er reservert for elektriske kjøretøy i gruppe L, skal av hensyn til kompatibilitet være utstyrt med minst ett av følgende:Kontakter eller kjøretøyplugger av type 3A som beskrevet i standard EN 62196-2 (for Mode 3 lading).Kontakter i samsvar med IEC 60884-1/NEK 502 (for Mode 1 og Mode 2 lading).
+1. Offentlig tilgjengelige vekselstrømsbaserte ladepunkter inntil 3,7 kilovoltampere (kVA) som er reservert for elektriske kjøretøy i gruppe L, skal av hensyn til kompatibilitet være utstyrt med minst ett av følgende:
+
+   1. Kontakter eller kjøretøyplugger av type 3A som beskrevet i standard EN 62196-2 (for Mode 3 lading).
+   2. Kontakter i samsvar med IEC 60884-1/NEK 502 (for Mode 1 og Mode 2 lading).
 2. Offentlig tilgjengelige vekselstrømsbaserte ladepunkter over 3,7 kVA, som er reservert for elektriske kjøretøyer i gruppe L, skal av hensyn til kompatibilitet minst være utstyrt med kontakter eller kjøretøyplugger av type 2 som beskrevet i standard EN 62196-2.
 
 1.6.*Ladepunkter for elektriske busser*

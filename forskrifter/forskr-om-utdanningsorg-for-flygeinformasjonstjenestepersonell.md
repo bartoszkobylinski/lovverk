@@ -15,7 +15,7 @@ xml_hash: "998880dbf3b85399716c16ed9a0265c555ff5c73aa8706db27b5cba37846214e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,18 @@ Luftfartstilsynet er ikke forpliktet til å gi godkjenning til utdanningsorganis
 
 ### § 3. Definisjoner
 
-I forskriften menes med:*air Traffic Controller training at operational units:* Dokumentasjon utarbeidet av EUROCONTROL som beskriver krav til gjennomføring av enhetstrening.*ansvarlig leder:* Person akseptert av Luftfartstilsynet som har overordnet ansvar for å sikre at utdanning kan finansieres og gjennomføres i samsvar med Luftfartstilsynets fastsatte krav og de tilleggskrav som luftfartsvirksomheten selv har fastsatt.*Common Core Content (CCC):* Dokumentasjon utarbeidet av EUROCONTROL som beskriver innholdet i trening knyttet til grunnleggende kunnskaper og ulike rettigheter.*sensor:* En person som forestår prøving av teoretiske kunnskaper og praktiske ferdigheter i en utdanningsorganisasjon.*simulator:* Datautstyr, presentasjonsutstyr, modeller og kopier av operative arbeidsposisjoner som alene eller i kombinasjoner kan gjenskape hele eller deler av et lufttrafikkledelsessystem.*språkpåtegning*: Et vedlegg til autorisasjonsbeviset som angir innehaverens språkferdighet.*utdanningsorganisasjon*: En virksomhet som er godkjent for å gi en eller flere typer opplæring.*Enhetstrening (unit training)*: Et godkjent treningsprogram som er etablert for å gi eleven teoretiske kunnskaper og praktiske ferdigheter ved en bestemt lufttrafikktjenesteenhet i den hensikt å oppnå en autorisasjon.*Institusjonell trening (institutional training):* En godkjent del av en lufttrafikktjenesteutdanning som er etablert for å gi eleven teoretiske kunnskaper og praktiske ferdigheter for å kunne påbegynne enhetstrening.*Praksisinstruktør (OJTI) (on-the-job training instructor)*: Lufttrafikktjenestepersonell som har gyldig autorisasjon til å utøve praktisk opplæring i flygeinformasjonstjeneste.
+I forskriften menes med:
+
+1. *air Traffic Controller training at operational units:* Dokumentasjon utarbeidet av EUROCONTROL som beskriver krav til gjennomføring av enhetstrening.
+2. *ansvarlig leder:* Person akseptert av Luftfartstilsynet som har overordnet ansvar for å sikre at utdanning kan finansieres og gjennomføres i samsvar med Luftfartstilsynets fastsatte krav og de tilleggskrav som luftfartsvirksomheten selv har fastsatt.
+3. *Common Core Content (CCC):* Dokumentasjon utarbeidet av EUROCONTROL som beskriver innholdet i trening knyttet til grunnleggende kunnskaper og ulike rettigheter.
+4. *sensor:* En person som forestår prøving av teoretiske kunnskaper og praktiske ferdigheter i en utdanningsorganisasjon.
+5. *simulator:* Datautstyr, presentasjonsutstyr, modeller og kopier av operative arbeidsposisjoner som alene eller i kombinasjoner kan gjenskape hele eller deler av et lufttrafikkledelsessystem.
+6. *språkpåtegning*: Et vedlegg til autorisasjonsbeviset som angir innehaverens språkferdighet.
+7. *utdanningsorganisasjon*: En virksomhet som er godkjent for å gi en eller flere typer opplæring.
+8. *Enhetstrening (unit training)*: Et godkjent treningsprogram som er etablert for å gi eleven teoretiske kunnskaper og praktiske ferdigheter ved en bestemt lufttrafikktjenesteenhet i den hensikt å oppnå en autorisasjon.
+9. *Institusjonell trening (institutional training):* En godkjent del av en lufttrafikktjenesteutdanning som er etablert for å gi eleven teoretiske kunnskaper og praktiske ferdigheter for å kunne påbegynne enhetstrening.
+10. *Praksisinstruktør (OJTI) (on-the-job training instructor)*: Lufttrafikktjenestepersonell som har gyldig autorisasjon til å utøve praktisk opplæring i flygeinformasjonstjeneste.
 
 > Endret ved [forskrifter 24 okt 2008 nr. 1156](forskrift/2008-10-24-1156) (i kraft 1 jan 2009), [19 des 2008 nr. 1577](forskrift/2008-12-19-1577) (i kraft 1 feb 2009), [2 juli 2013 nr. 851](forskrift/2013-07-02-851).
 
@@ -116,7 +127,23 @@ Utdanningsorganisasjonen skal arkivere alle fortegnelser over trening, kunnskaps
 
 ### § 12. Skolehåndbok for utdanningsorganisasjoner
 
-(1) Utdanningsorganisasjoner skal ha en skolehåndbok. Skolehåndboken skal inneholde følgende:En erklæring undertegnet av ansvarlig leder, som bekrefter at utdanningsorganisasjonens skolehåndbok og enhver tilknyttet dokumentasjon er i overensstemmelse med denne forskrift, og at den vil bli etterlevd til enhver tid.Navn på ansvarlig leder og skolesjef i samsvar med [§ 8](forskrift/2003-10-25-1302/§8) første og annet ledd.Plikter og ansvar til ansvarlig leder og skolesjef.Et organisasjonskart for utdanningsorganisasjonen.Utdanningsorganisasjonens eksamensreglement.Krav til erfaring og kvalifikasjoner for instruktører og sensorer, samt prosedyre for godkjenning av disse.En liste over instruktører og sensorer.Fortegnelsen skal inneholde en oversikt over erfaring og kvalifikasjoner.En generell beskrivelse av lokaler som befinner seg på de adresser som er spesifisert i utdanningsorganisasjonens godkjenningsbevis.Beskrivelse av utstyr som skal forefinnes til bruk ved instruksjon og trening.En liste over de treningsprogrammer og leksjoner som godkjenningen omfatter.Utdanningsorganisasjonens kvalitetssystem som kreves i [§ 11](forskrift/2003-10-25-1302/§11) første ledd.Utdanningsorganisasjonens prosedyrer som kreves i [§ 11](forskrift/2003-10-25-1302/§11) annet ledd.En prosedyre for revisjon av utdanningsorganisasjonens skolehåndbok.
+(1) Utdanningsorganisasjoner skal ha en skolehåndbok. Skolehåndboken skal inneholde følgende:
+
+1. En erklæring undertegnet av ansvarlig leder, som bekrefter at utdanningsorganisasjonens skolehåndbok og enhver tilknyttet dokumentasjon er i overensstemmelse med denne forskrift, og at den vil bli etterlevd til enhver tid.
+2. Navn på ansvarlig leder og skolesjef i samsvar med [§ 8](forskrift/2003-10-25-1302/§8) første og annet ledd.
+3. Plikter og ansvar til ansvarlig leder og skolesjef.
+4. Et organisasjonskart for utdanningsorganisasjonen.
+5. Utdanningsorganisasjonens eksamensreglement.
+6. Krav til erfaring og kvalifikasjoner for instruktører og sensorer, samt prosedyre for godkjenning av disse.
+7. En liste over instruktører og sensorer.
+
+   Fortegnelsen skal inneholde en oversikt over erfaring og kvalifikasjoner.
+8. En generell beskrivelse av lokaler som befinner seg på de adresser som er spesifisert i utdanningsorganisasjonens godkjenningsbevis.
+9. Beskrivelse av utstyr som skal forefinnes til bruk ved instruksjon og trening.
+10. En liste over de treningsprogrammer og leksjoner som godkjenningen omfatter.
+11. Utdanningsorganisasjonens kvalitetssystem som kreves i [§ 11](forskrift/2003-10-25-1302/§11) første ledd.
+12. Utdanningsorganisasjonens prosedyrer som kreves i [§ 11](forskrift/2003-10-25-1302/§11) annet ledd.
+13. En prosedyre for revisjon av utdanningsorganisasjonens skolehåndbok.
 
 (2) Utdanningsorganisasjonens skolehåndbok skal godkjennes av Luftfartstilsynet.
 
@@ -166,7 +193,11 @@ Programmet skal inngå i skolehåndboken og være utviklet for å teste språkfe
 
 ### § 14b. Språkautorisasjonens gyldighetstid
 
-Språkferdigheter angis i seks nivåer. Språkferdigheter på nivå 1 til 3 medfører ikke bestått. Språkferdigheter på nivå 4 til 6 gir språkautorisasjoner med følgende gyldighetstid:Nivå 4 er gyldig i tre årNivå 5 er gyldig i seks årNivå 6 har ubegrenset gyldighetstid.
+Språkferdigheter angis i seks nivåer. Språkferdigheter på nivå 1 til 3 medfører ikke bestått. Språkferdigheter på nivå 4 til 6 gir språkautorisasjoner med følgende gyldighetstid:
+
+1. Nivå 4 er gyldig i tre år
+2. Nivå 5 er gyldig i seks år
+3. Nivå 6 har ubegrenset gyldighetstid.
 
 > Tilføyd ved [forskrift 24 okt 2008 nr. 1156](forskrift/2008-10-24-1156) (i kraft 1 jan 2009), endret ved [forskrift 2 juli 2013 nr. 851](forskrift/2013-07-02-851).
 
@@ -262,7 +293,11 @@ For flygeinformasjonstjenestepersonell er veiledning under utarbeidelse.
 
 *Til [§ 17](forskrift/2003-10-25-1302/§17) tredje ledd:*
 
-Inntil komplett oversikt er utarbeidet av Luftfartstilsynet gjelder følgende retningslinjer for flygeinformasjonstjenestepersonell:Teoripensum må som et minimum dekke relevante deler av enhetens håndboksystem, jf. BSL G 2-1 vedlegg 5.Teoriprøver skal dekke et utvalg av pensum basert på enhetens håndbokssystem. Spørsmål om følgende er obligatorisk på enhver autorisasjonsprøve:
+Inntil komplett oversikt er utarbeidet av Luftfartstilsynet gjelder følgende retningslinjer for flygeinformasjonstjenestepersonell:
+
+Teoripensum må som et minimum dekke relevante deler av enhetens håndboksystem, jf. BSL G 2-1 vedlegg 5.
+
+Teoriprøver skal dekke et utvalg av pensum basert på enhetens håndbokssystem. Spørsmål om følgende er obligatorisk på enhver autorisasjonsprøve:
 
 *Kunnskaper om flygeinformasjonsregionen*
 

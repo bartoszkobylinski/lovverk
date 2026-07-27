@@ -28,7 +28,13 @@ Kommunen har plikt til å opprette og føre register til bruk for trygdekontoren
 
 ## § 2. Registerets innhold
 
-Registeret skal inneholde opplysninger om:navn, fødselsnummer og adresse til barn i alderen 1 til 3 år som har barnehageplass med offentlig driftstilskuddnavn, fødselsnummer og adresse til den/de barnet bor fast hosavtalt ukentlig oppholdstid i barnehagenbarnehagens navn, adresse og organisasjonsnummertidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden eller sluttet i barnehagen.
+Registeret skal inneholde opplysninger om:
+
+1. navn, fødselsnummer og adresse til barn i alderen 1 til 3 år som har barnehageplass med offentlig driftstilskudd
+2. navn, fødselsnummer og adresse til den/de barnet bor fast hos
+3. avtalt ukentlig oppholdstid i barnehagen
+4. barnehagens navn, adresse og organisasjonsnummer
+5. tidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden eller sluttet i barnehagen.
 
 Det er ikke tillatt å registrere andre opplysninger enn de som er nevnt i bokstav a-e.
 

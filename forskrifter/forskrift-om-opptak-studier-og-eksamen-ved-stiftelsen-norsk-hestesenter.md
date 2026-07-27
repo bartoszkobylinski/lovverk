@@ -15,7 +15,7 @@ xml_hash: "37825afda9820cfc0ee3bfe4243a129c23603315e272b49cccb28e5abee37b2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 (1) Forskriften gjelder for opptak, studier og eksamen ved Stiftelsen Norsk Hestesenter.
 
-(2) Forskriften gjelder for personer somsøker opptak til studier ved Stiftelsen Norsk Hestesenterhar studierett og status som student ved Stiftelsen Norsk Hestesenter.
+(2) Forskriften gjelder for personer som
+
+- søker opptak til studier ved Stiftelsen Norsk Hestesenter
+- har studierett og status som student ved Stiftelsen Norsk Hestesenter.
 
 ### § 1-2. Definisjoner
 
@@ -158,7 +161,11 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 
 (4) Utdanning fra videregående skoles nivå gir ikke grunnlag for fritak for eksamen ved Stiftelsen Norsk Hestesenter.
 
-(5) Skolens administrasjon ved rektor avgjør godskriving og fritak etter innstilling fra det/de aktuelle fagmiljøet/fagmiljøene. Fagmiljøets/fagmiljøenes vurdering skal avklareom utdanningsdelen er av samme omfang (om mulig målt i studiepoeng for relaterte emner)om utdanningsdelen er på samme faglige nivåhvor tilsvarende læringsutbyttebeskrivelsene er når det gjelder kunnskaper, ferdigheter og generell kompetanse.
+(5) Skolens administrasjon ved rektor avgjør godskriving og fritak etter innstilling fra det/de aktuelle fagmiljøet/fagmiljøene. Fagmiljøets/fagmiljøenes vurdering skal avklare
+
+- om utdanningsdelen er av samme omfang (om mulig målt i studiepoeng for relaterte emner)
+- om utdanningsdelen er på samme faglige nivå
+- hvor tilsvarende læringsutbyttebeskrivelsene er når det gjelder kunnskaper, ferdigheter og generell kompetanse.
 
 (6) Siden godskriving og fritak er enkeltvedtak, har studenten klageadgang på vedtaket. Begrunnelsen skal normalt være gitt innen to uker etter at studenten har framsatt krav om det. Klage over Stiftelsen Norsk Hestesenter sitt vedtak om godskriving og fritak må framsettes skriftlig innen tre uker etter at studenten er gjort kjent med vedtaket eller burde gjort seg kjent med dette. Klagen sendes rektor for videre behandling i Klagenemnda ved Stiftelsen Norsk Hestesenter.
 
@@ -200,13 +207,26 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 
 (4) Flere fagskoler kan gå sammen om en felles skikkethetsnemnd og Stiftelsen Norsk Hestesenter samarbeider med Fagskolen Innlandet om felles skikkethetsnemnd der Stiftelsen Norsk Hestesenter er representert med en faglærer. Styret for Stiftelsen Norsk Hestesenter oppnevner denne representanten.
 
-(5) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(5) Skikkethetsnemnda skal bestå av:
+
+- en faglig leder eller tilsvarende funksjon
+- to faglærere
+- to representanter fra praksisfeltet
+- to studentrepresentanter
+- en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (6) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år.
 
 (7) Skikkethetsansvarlige kan være medlem av skikkethetsnemnda.
 
-(8) VurderingskriterierEn student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerStudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningStudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helseStudenten viser truende eller krenkende adferd studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjonerKlage på vedtak om utestengning følger reglene i [lov om høyere yrkesfaglig utdanning § 26](lov/2018-06-08-28/§26) fjerde ledd.
+(8) Vurderingskriterier
+
+- En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+- Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+- Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+- Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+- Studenten viser truende eller krenkende adferd studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner
+- Klage på vedtak om utestengning følger reglene i [lov om høyere yrkesfaglig utdanning § 26](lov/2018-06-08-28/§26) fjerde ledd.
 
 > Endret ved forskrift [26 aug 2021 nr. 2819](forskrift/2021-08-26-2819).
 
@@ -252,7 +272,10 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 
 (1) Når en student ikke fullfører studiet/faget/emnet innen normert studietid, og det i mellomtida er gjort vesentlige endringer i studieplanen, gjelder retten til å fullføre etter den opprinnelige studieplanen i ett år etter at endringene ble gjort gjeldende.
 
-(2) Studenten kan miste studieretten på et studium hvor vedkommende er tatt opp i følgende tilfeller:Studenten har brukt opp sine tre forsøk til eksamen eller praksisperiode etter retningslinjene for denne.Studenten er ikke i permisjon, og har ikke oppnådd grunnlag (arbeidskrav) for oppmelding til eksamen.
+(2) Studenten kan miste studieretten på et studium hvor vedkommende er tatt opp i følgende tilfeller:
+
+- Studenten har brukt opp sine tre forsøk til eksamen eller praksisperiode etter retningslinjene for denne.
+- Studenten er ikke i permisjon, og har ikke oppnådd grunnlag (arbeidskrav) for oppmelding til eksamen.
 
 (3) Styret fatter vedtak om tap av studierett. Vedtaket kan påklages.
 
@@ -273,7 +296,9 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet |
 | F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet |
 
-(2) Bokstavkarakterene tilsvarer tallverdier slik: A = 5, B = 4, C = 3, D = 2, E= 1, F = 0.Tallverdiene brukes når flere karakterer skal inngå i samlet snittkarakter på vitnemålet eller ved utregning av hovedkarakter. Det benyttes vanlige avrundingsregler.
+(2) Bokstavkarakterene tilsvarer tallverdier slik: A = 5, B = 4, C = 3, D = 2, E= 1, F = 0.
+
+Tallverdiene brukes når flere karakterer skal inngå i samlet snittkarakter på vitnemålet eller ved utregning av hovedkarakter. Det benyttes vanlige avrundingsregler.
 
 ### § 4-6. Eksamen under særlige vilkår
 
@@ -303,7 +328,11 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 
 (2) Styret er ansvarlig for at det oppnevnes eksterne sensorer, normalt for fire år om gangen. Ekstern sensor skal ikke være ansatt ved institusjonen eller knyttet til institusjonen som timelærer i funksjonstiden som ekstern sensor.
 
-(3) Ekstern sensor kan brukes på ulik måte:Ekstern sensor vurderer eksamensbesvarelser i fag/enkeltemne(r)Ekstern sensor vurderer deler av sensurarbeidet til intern sensorEkstern sensor vurderer emnebeskrivelser, hele studieplaner, undervisningsopplegg eller ordningen for vurdering.
+(3) Ekstern sensor kan brukes på ulik måte:
+
+- Ekstern sensor vurderer eksamensbesvarelser i fag/enkeltemne(r)
+- Ekstern sensor vurderer deler av sensurarbeidet til intern sensor
+- Ekstern sensor vurderer emnebeskrivelser, hele studieplaner, undervisningsopplegg eller ordningen for vurdering.
 
 (4) Ekstern sensor skal alltid ved skriftlig eksamen få seg forelagt oppgaveordlyden til uttalelse.
 
@@ -365,7 +394,11 @@ Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består 
 
 (4) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil.
 
-(5) Den skriftlige klagen skal inneholde:hvem som klager (navn, adresse og studentnummer)det vedtak det klages over (fag, eksamensdato og karakter)dato og underskrift.
+(5) Den skriftlige klagen skal inneholde:
+
+- hvem som klager (navn, adresse og studentnummer)
+- det vedtak det klages over (fag, eksamensdato og karakter)
+- dato og underskrift.
 
 (6) Ved krav om klage over karaktersettingen på gruppeeksamen, må alle gruppens medlemmer samlet samtykke og skrive under på klagen.
 
@@ -413,7 +446,12 @@ For at en fagskole skal kunne utstede vitnemål eller dokumentasjon for fullfør
 
 (1) Fusk eller forsøk på fusk er når en student forsettlig handler i strid med forskrifter og retningslinjer for kildebruk, eksamen og vurdering.
 
-(2) Fusk kan være:bruk av hjelpemidler som ikke er tillatt på eksamen, eller å ha disse tilgjengeligå utgi andres arbeid som egetsitere kilder uten å benytte kildehenvisningureglementert samarbeid mellom eksamenskandidater eller med andre.
+(2) Fusk kan være:
+
+- bruk av hjelpemidler som ikke er tillatt på eksamen, eller å ha disse tilgjengelig
+- å utgi andres arbeid som eget
+- sitere kilder uten å benytte kildehenvisning
+- ureglementert samarbeid mellom eksamenskandidater eller med andre.
 
 (3) Dersom det under eksamen med tilsyn oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at forholdet vil bli meldt til skolens ledelse for videre forføyning. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen.
 

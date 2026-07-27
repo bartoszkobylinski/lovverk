@@ -52,7 +52,14 @@ Det oppnevnes et varamedlem for hvert medlem.
 
 ## § 5. Bevisvurdering for solidaransvar etter loven § 8-4
 
-Ved bevisvurdering etter bestemmelsen om solidaransvar etter [havbunnsmineralloven § 8-4](lov/2019-03-22-7/§8-4) skal det særlig legges vekt på:den skadevoldende gjenstandens art, hvis dette kan bringes på det reneposisjon for skadehendingen (forlatt borefelt eller supplybåtrute)skaden eller skadens artskadehendingens forløperfaring fra tidligere fiske i områdetrapporter om foretatte kontroller fra Sokkeldirektoratet
+Ved bevisvurdering etter bestemmelsen om solidaransvar etter [havbunnsmineralloven § 8-4](lov/2019-03-22-7/§8-4) skal det særlig legges vekt på:
+
+1. den skadevoldende gjenstandens art, hvis dette kan bringes på det rene
+2. posisjon for skadehendingen (forlatt borefelt eller supplybåtrute)
+3. skaden eller skadens art
+4. skadehendingens forløp
+5. erfaring fra tidligere fiske i området
+6. rapporter om foretatte kontroller fra Sokkeldirektoratet
 
 ## § 6. Erstatningskrav
 

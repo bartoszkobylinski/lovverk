@@ -15,7 +15,7 @@ xml_hash: "5d5e647c891294831a3048075edaedb6668ba3699f6ed9a2ca95fa17d61aa9e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,9 +56,25 @@ I forskriften skal følgende uttrykk forstås slik:
 
 *Eksplosjonsfarlig stoff:* Fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer.
 
-*Eksplosiv vare:* Eksplosjonsfarlig stoff som helt eller delvis består av eller inneholder slikt emne at varen kan eksplodere eller forbrenne på eksplosjonsartet måte, inndelt i følgende hovedslag:sprengstoff, slik som nitroglyserin, nitriocellulose, trinitrotoluen, hexogen, dynamitt og nitratsprengstoff,krutt, slik som røksvakt krutt og svartkrutt,tennmidler av enhver art som brukes i samband med andre eksplosiver unntatt tennmidler som faller inn under hovedslaget ammunisjon,ammunisjon, slik som patroner bestående av prosjektil, hylse, drivladning og tennmiddel, hylser av enhver art forsynt med ladning eller tennmiddel, prosjektiler forsynt med ladning, sporlys eller tennmiddel, håndgranater, bomber, raketter og miner samt lys-, brann- og røkbokser,pyroteknisk vare, slik som fyrverkeri, fyrstikker og lys-, røk- og brannsatser eller andre pyrotekniske satser.
+*Eksplosiv vare:* Eksplosjonsfarlig stoff som helt eller delvis består av eller inneholder slikt emne at varen kan eksplodere eller forbrenne på eksplosjonsartet måte, inndelt i følgende hovedslag:
 
-*Faregruppe:* Eksplosiver klassifisert etter farlighetsgrad i henhold til FNs rekommandasjoner om transport av farlig gods i følgende faregrupper:Stoffer og gjenstander som innebærer fare for masseeksplosjon (en masseeksplosjon er en eksplosjon som nærmest momentant omfatter nesten hele beholdningen).Stoffer og gjenstander uten masseeksplosjonsrisiko, men med fare for utkast.Stoffer og gjenstander uten masseeksplosjonsrisiko, men som innebærer brannrisiko samt en mindre sprengningsfare og/eller en mindre fare for utkast og somi tilfelle brann kan gi betydelig strålevarme; ellernår brannen skjer etappevis, gir mindre eksplosjoner og/eller utkast.Stoffer og gjenstander som bare innebærer ubetydelig fare dersom de blir utsatt for tenning eller initiering. Virkningen er vesentlig begrenset til kolliet, og det ventes ikke utkast av nevneverdig størrelse eller i nevneverdig avstand. En utvendig brann må ikke kunne føre til at nesten hele innholdet i kolliet eksploderer nærmest momentant.Meget ufølsomme stoffer, som kan forårsake massedetonasjon, men som er så ufølsomme at det er meget liten sannsynlighet for tenning eller overgang fra brann til eksplosjon under normale forhold.Ekstremt ufølsomme gjenstander uten fare for massedetonasjon. Gjenstandene inneholder kun meget ufølsomme eksplosivstoffer og viser en neglisjerbar sannsynlighet for utilsiktet tenning eller detonasjonsoverføring.
+1. sprengstoff, slik som nitroglyserin, nitriocellulose, trinitrotoluen, hexogen, dynamitt og nitratsprengstoff,
+2. krutt, slik som røksvakt krutt og svartkrutt,
+3. tennmidler av enhver art som brukes i samband med andre eksplosiver unntatt tennmidler som faller inn under hovedslaget ammunisjon,
+4. ammunisjon, slik som patroner bestående av prosjektil, hylse, drivladning og tennmiddel, hylser av enhver art forsynt med ladning eller tennmiddel, prosjektiler forsynt med ladning, sporlys eller tennmiddel, håndgranater, bomber, raketter og miner samt lys-, brann- og røkbokser,
+5. pyroteknisk vare, slik som fyrverkeri, fyrstikker og lys-, røk- og brannsatser eller andre pyrotekniske satser.
+
+*Faregruppe:* Eksplosiver klassifisert etter farlighetsgrad i henhold til FNs rekommandasjoner om transport av farlig gods i følgende faregrupper:
+
+1. Stoffer og gjenstander som innebærer fare for masseeksplosjon (en masseeksplosjon er en eksplosjon som nærmest momentant omfatter nesten hele beholdningen).
+2. Stoffer og gjenstander uten masseeksplosjonsrisiko, men med fare for utkast.
+3. Stoffer og gjenstander uten masseeksplosjonsrisiko, men som innebærer brannrisiko samt en mindre sprengningsfare og/eller en mindre fare for utkast og som
+
+   1. i tilfelle brann kan gi betydelig strålevarme; eller
+   2. når brannen skjer etappevis, gir mindre eksplosjoner og/eller utkast.
+4. Stoffer og gjenstander som bare innebærer ubetydelig fare dersom de blir utsatt for tenning eller initiering. Virkningen er vesentlig begrenset til kolliet, og det ventes ikke utkast av nevneverdig størrelse eller i nevneverdig avstand. En utvendig brann må ikke kunne føre til at nesten hele innholdet i kolliet eksploderer nærmest momentant.
+5. Meget ufølsomme stoffer, som kan forårsake massedetonasjon, men som er så ufølsomme at det er meget liten sannsynlighet for tenning eller overgang fra brann til eksplosjon under normale forhold.
+6. Ekstremt ufølsomme gjenstander uten fare for massedetonasjon. Gjenstandene inneholder kun meget ufølsomme eksplosivstoffer og viser en neglisjerbar sannsynlighet for utilsiktet tenning eller detonasjonsoverføring.
 
 *Forenlige eksplosive varer:* Eksplosive varer som i henhold til FNs rekommandasjoner om transport av farlig gods, kan transporteres eller oppbevares sammen uten at risikoen for ulykker øker.
 
@@ -66,7 +82,13 @@ I forskriften skal følgende uttrykk forstås slik:
 
 *Forsager:* Eksplosiv vare som ikke er omsatt ved avfyring.
 
-*Fyrverkeri:* Inndeles i følgende klasser etter risikonivå:Klasse I a: Kruttlapper, knall Bon-Bon etc.Klasse I b: Bordbomber, Party-Poppers, stjerneskudd etc.Klasse II: Markfyrverkeri samt mindre romerske lys, soler og annet fyrverkeri med begrenset fareområde.Klasse III: Raketter, luftbomber, ildbeger og større romerske lys og bombebatterier etc.Klasse IV: Profesjonelt Display-fyrverkeri.
+*Fyrverkeri:* Inndeles i følgende klasser etter risikonivå:
+
+1. Klasse I a: Kruttlapper, knall Bon-Bon etc.
+2. Klasse I b: Bordbomber, Party-Poppers, stjerneskudd etc.
+3. Klasse II: Markfyrverkeri samt mindre romerske lys, soler og annet fyrverkeri med begrenset fareområde.
+4. Klasse III: Raketter, luftbomber, ildbeger og større romerske lys og bombebatterier etc.
+5. Klasse IV: Profesjonelt Display-fyrverkeri.
 
 *Harmonisert standard:* En europeisk standard som er vedtatt av CEN, CENELEC eller ETSI i overensstemmelse med et mandat fra EU-kommisjonen og EFTA og som er offentliggjort i De Europeiske Fellesskaps Tidende.
 
@@ -270,7 +292,14 @@ En tillatelse faller bort dersom den ikke nyttes innen fristen eller to år fra 
 
 Innehaver av tillatelsen skal sende melding til den myndighet som ga tillatelsen dersom tillatelsen ikke lenger nyttes. Tillatelse som ikke nyttes faller bort to år etter opphøret dersom ikke noe annet er fastsatt i tillatelsen.
 
-En tillatelse kan tilbakekalles:når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,når de vilkår som gjelder for tillatelsen ikke blir overholdt,når den blir nyttet på en måte som er i strid med lov, forskrift eller lovlig fattede vedtak,dersom det er grunn til å frykte at eksplosiv vare kan bli misbrukt av innehaveren,når forhold av sikkerhetsmessig betydning på stedet har endret seg vesentlig etter at tillatelsen ble gitt,når de sikkerhetsmessige krav som ble stilt da tillatelsen ble gitt på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
+En tillatelse kan tilbakekalles:
+
+1. når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,
+2. når de vilkår som gjelder for tillatelsen ikke blir overholdt,
+3. når den blir nyttet på en måte som er i strid med lov, forskrift eller lovlig fattede vedtak,
+4. dersom det er grunn til å frykte at eksplosiv vare kan bli misbrukt av innehaveren,
+5. når forhold av sikkerhetsmessig betydning på stedet har endret seg vesentlig etter at tillatelsen ble gitt,
+6. når de sikkerhetsmessige krav som ble stilt da tillatelsen ble gitt på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
 
 En godkjenning kan tilbakekalles på samme vilkår som nevnt i femte ledd. Typegodkjenning kan dessuten tilbakekalles dersom typegodkjent produkt ikke blir utført i samsvar med godkjenningen.
 
@@ -288,7 +317,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 3-1. Virkeområde for dette kapittelet
 
-Bestemmelsene i dette kapittelet gjelder for markedsføring og kontroll av eksplosive varer unntatt:eksplosive varer som benyttes umiddelbart på tilvirkingsstedet,eksplosive varer som anvendes som del av sikkerhetsutstyr i motorkjøretøy,pyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg VI,ammunisjon listet opp i vedlegg V.
+Bestemmelsene i dette kapittelet gjelder for markedsføring og kontroll av eksplosive varer unntatt:
+
+1. eksplosive varer som benyttes umiddelbart på tilvirkingsstedet,
+2. eksplosive varer som anvendes som del av sikkerhetsutstyr i motorkjøretøy,
+3. pyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg VI,
+4. ammunisjon listet opp i vedlegg V.
 
 > Endret ved [forskrift 23 juni 2006 nr. 699](forskrift/2006-06-23-699) (i kraft 1 juli 2006).
 
@@ -314,7 +348,15 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 Før en eksplosiv vare markedsføres skal et teknisk kontrollorgan attestere at varen er i samsvar med bestemmelsene i dette kapittelet og med de aktuelle bestemmelsene i vedleggene til forskriften.
 
-Ved samsvarsattestering av eksplosive varer skal en av følgende fremgangsmåter anvendes:EF-typeprøving (modul B) som nevnt i vedlegg II del 1, og i tillegg, etter produsentens valg:enten typesamsvar (modul C) som nevnt i vedlegg II del 2,eller fremgangsmåten for kvalitetssikring av produksjonen (modul D) nevnt i vedlegg II del 3,eller fremgangsmåten for kvalitetssikring av produktet (modul E) nevnt i vedlegg II del 4,eller produktverifisering (modul F) som nevnt i vedlegg II del 5, ellerverifisering av enkelteksemplarer (modul G) som nevnt i vedlegg II del 6.
+Ved samsvarsattestering av eksplosive varer skal en av følgende fremgangsmåter anvendes:
+
+1. EF-typeprøving (modul B) som nevnt i vedlegg II del 1, og i tillegg, etter produsentens valg:
+
+   1. enten typesamsvar (modul C) som nevnt i vedlegg II del 2,
+   2. eller fremgangsmåten for kvalitetssikring av produksjonen (modul D) nevnt i vedlegg II del 3,
+   3. eller fremgangsmåten for kvalitetssikring av produktet (modul E) nevnt i vedlegg II del 4,
+   4. eller produktverifisering (modul F) som nevnt i vedlegg II del 5, eller
+2. verifisering av enkelteksemplarer (modul G) som nevnt i vedlegg II del 6.
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
@@ -344,7 +386,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 4-1. Virkeområdet for dette kapittelet
 
-Bestemmelsene i dette kapittelet gjelder overføring av eksplosive varer unntatt:eksplosive varer som benyttes umiddelbart på tilvirkingsstedet,eksplosive varer som anvendes som del av sikkerhetsutstyr i motorkjøretøy,pyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg VI,ammunisjon som er regulert av [lov av 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.
+Bestemmelsene i dette kapittelet gjelder overføring av eksplosive varer unntatt:
+
+1. eksplosive varer som benyttes umiddelbart på tilvirkingsstedet,
+2. eksplosive varer som anvendes som del av sikkerhetsutstyr i motorkjøretøy,
+3. pyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg VI,
+4. ammunisjon som er regulert av [lov av 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.
 
 Overføring av ammunisjon som ikke er regulert av [lov av 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. er uttømmende regulert i § 4-3.
 
@@ -374,7 +421,14 @@ Overføring til Norge skal ledsages av en overføringstillatelse fra vedkommende
 
 Overføringstillatelsen skal på forlangende forevises relevante norske myndigheter både ved overføring til Norge og ved transitt gjennom Norge.
 
-Den som søker om overføringstillatelse fra Norge skal gi følgende opplysninger til sentral tilsynsmyndighet:navn og adresse til overdrager, erverver og om nødvendig til eier,stedet ammunisjonen skal sendes eller transporteres til,mengden av ammunisjon som skal sendes eller transporteres,de data som gjør det mulig å identifisere ammunisjonen, og eventuelt i tillegg en angivelse av at ammunisjonen har gjennomgått en kontroll i henhold til bestemmelsene i konvensjonen av 1. juli 1969 om gjensidig anerkjennelse av kontrollstempling av håndvåpen,overføringsmiddelet,avsendelsesdato og forventet ankomstdato.
+Den som søker om overføringstillatelse fra Norge skal gi følgende opplysninger til sentral tilsynsmyndighet:
+
+1. navn og adresse til overdrager, erverver og om nødvendig til eier,
+2. stedet ammunisjonen skal sendes eller transporteres til,
+3. mengden av ammunisjon som skal sendes eller transporteres,
+4. de data som gjør det mulig å identifisere ammunisjonen, og eventuelt i tillegg en angivelse av at ammunisjonen har gjennomgått en kontroll i henhold til bestemmelsene i konvensjonen av 1. juli 1969 om gjensidig anerkjennelse av kontrollstempling av håndvåpen,
+5. overføringsmiddelet,
+6. avsendelsesdato og forventet ankomstdato.
 
 Sentral tilsynsmyndighet kan gi våpenhandlere rett til å overføre ammunisjon til våpenhandlere etablert i andre EØS-land uten overføringstillatelse som nevnt i første ledd. I slike tilfeller kan sentral tilsynsmyndighet utferdige en tillatelse med en varighet på inntil tre år. Denne tillatelsen kan når som helst trekkes tilbake dersom forholdene tilsier det.
 
@@ -412,13 +466,21 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 5-2. Hvem kan innføre
 
-Tillatelse til innførsel kan gis til:foretak på eksplosivområdet,den som har tillatelse til å tilvirke eksplosive varer, når det gjelder råvarer som i seg selv regnes som eksplosiv vare og som skal brukes til egen produksjon,den som kan erverve eksplosiv vare dersom det gjelder innførsel til eget bruk.
+Tillatelse til innførsel kan gis til:
+
+1. foretak på eksplosivområdet,
+2. den som har tillatelse til å tilvirke eksplosive varer, når det gjelder råvarer som i seg selv regnes som eksplosiv vare og som skal brukes til egen produksjon,
+3. den som kan erverve eksplosiv vare dersom det gjelder innførsel til eget bruk.
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
 ### § 5-3. Kvalifikasjonskrav
 
-Søker, eller person særskilt utpekt av søker, skal tilfredstille følgende krav:være minst 20 år,kunne dokumentere inngående kjennskap til de varer som ønskes innført,kunne vurdere varens kvalitet og dens sikkerhetsmessige standard, gi generell produkt- og bruksinformasjon samt kunne veilede brukeren når varen skal benyttes under vanskelige forhold eller i tilfelle av uforutsette problemer under bruken.
+Søker, eller person særskilt utpekt av søker, skal tilfredstille følgende krav:
+
+1. være minst 20 år,
+2. kunne dokumentere inngående kjennskap til de varer som ønskes innført,
+3. kunne vurdere varens kvalitet og dens sikkerhetsmessige standard, gi generell produkt- og bruksinformasjon samt kunne veilede brukeren når varen skal benyttes under vanskelige forhold eller i tilfelle av uforutsette problemer under bruken.
 
 For innførsel av fyrverkeri klasse II, III og IV og pyrotekniske sceneeffekter skal søker, eller person særskilt utpekt av søker, inneha kompetansebevis utstedt av eksamensadministrator utpekt av DSB. Kompetansebevis utstedes til person som har gjennomført kurs og bestått tilhørende prøve hos kursarrangør utpekt av DSB.
 
@@ -506,7 +568,12 @@ Den som skal oppbevare eksplosiv vare må ha tillatelse.
 
 Kommunen gir tillatelse til oppbevaring av pyroteknisk vare i mengder opp til og med 500 kg netto eksplosivinnhold. DSB gir tillatelse til oppbevaring av all annen eksplosiv vare uansett mengde og pyroteknisk vare i mengder over 500 kg netto eksplosivinnhold. Tillatelse til oppbevaring i undergrunnsanlegg gis av DSB.
 
-Uten særskilt tillatelse kan følgende mengder (netto eksplosivinnhold) allikevel oppbevares:Inntil 5 kg røksvakt kruttInntil 5 kg eksplosiv vare oppladet som ammunisjonInntil 5 kg pyroteknisk vare. I perioden 27.-31. desember tillates oppbevart inntil 10 kg pyroteknisk vareInntil 3 kg svartkrutt fordelt i separerte enheter på én kilo. Svartkrutt skal ikke oppbevares i boenhet.
+Uten særskilt tillatelse kan følgende mengder (netto eksplosivinnhold) allikevel oppbevares:
+
+1. Inntil 5 kg røksvakt krutt
+2. Inntil 5 kg eksplosiv vare oppladet som ammunisjon
+3. Inntil 5 kg pyroteknisk vare. I perioden 27.-31. desember tillates oppbevart inntil 10 kg pyroteknisk vare
+4. Inntil 3 kg svartkrutt fordelt i separerte enheter på én kilo. Svartkrutt skal ikke oppbevares i boenhet.
 
 Unntatt fra kravet om tillatelse etter dette kapittelet er ammunisjon som den som har tillatelse til å inneha skytevåpen etter [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. selv lader opp til våpenet, og ammunisjon som erverves eller overlates etter reglene i våpenlovgivingen.
 
@@ -528,7 +595,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 1. Rom, bygning eller innretning for oppbevaring av eksplosiv vare må plasseres og utformes slik at sannsynligheten for og konsekvensen av en eventuell brann eller eksplosjon begrenses.
 2. Den som søker om tillatelse til oppbevaring, skal dokumentere at kravet i bokstav a oppfylles. Dokumentasjonen kan skje gjennom å påvise at sikkerhetsavstandene i bokstav c er overholdt, eller ved risikoanalyse hvor resultatene sammenholdes med akseptkriterier som defineres av tilsynsmyndighetene.
-3. Sikkerhetsavstander beregnes etter formelen D = k x Qn hvor:D = Sikkerhetsavstand i meterk = konstant som er avhengig av den eksplosive varens egenskaper og hvilken type objekt som er utsattQ = netto eksplosiv vare i kgn = faktor som er avhengig av de eksplosive varenes egenskaper.
+3. Sikkerhetsavstander beregnes etter formelen D = k x Qn hvor:
+
+   - D = Sikkerhetsavstand i meter
+   - k = konstant som er avhengig av den eksplosive varens egenskaper og hvilken type objekt som er utsatt
+   - Q = netto eksplosiv vare i kg
+   - n = faktor som er avhengig av de eksplosive varenes egenskaper.
 
 Pga. fare for splinter og utkast skal sikkerhetsavstanden ikke være mindre enn den angitte minsteavstanden – Dmin – for den aktuelle situasjonen, dersom ikke risikoanalysen viser at mindre avstand er akseptabel. Denne avstanden er avhengig av type eksplosiv vare og utsatt objekt.
 
@@ -558,13 +630,21 @@ Sikkerhetsavstander og faktorer for faregruppe 1.3:
 | k = 12,8,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 0,22,<br>n = 1/2 |
 | Dmin = 240 | Dmin = 60 | Dmin = 60 | Dmin = 25 |
 
-Sikkerhetsavstander for eksplosive varer i faregruppe 1.4:Sikkerhetsavstanden er 25 meter til nærmeste nabo for mengder opp til 10 tonn og 50 meter for mengder over 10 tonn.
+Sikkerhetsavstander for eksplosive varer i faregruppe 1.4:
 
-Sikkerhetsavstander og faktorer for eksplosive varer i faregruppe 1.5:Ved oppbevaring skal sikkerhetsavstander og faktorer være de samme som for faregruppe 1.1.
+Sikkerhetsavstanden er 25 meter til nærmeste nabo for mengder opp til 10 tonn og 50 meter for mengder over 10 tonn.
 
-Sikkerhetsavstander og faktorer for eksplosive varer i faregruppe 1.6:Ved oppbevaring skal sikkerhetsavstander og faktorer være de samme som for faregruppe 1.2. Se tabell for faregruppe 1.2.
+Sikkerhetsavstander og faktorer for eksplosive varer i faregruppe 1.5:
 
-Sikkerhetsavstander og faktorer for samlagring av ammoniumnitrat med andre eksplosive varer:Ved slik oppbevaring skal tabellen for faregruppe 1.1 benyttes.
+Ved oppbevaring skal sikkerhetsavstander og faktorer være de samme som for faregruppe 1.1.
+
+Sikkerhetsavstander og faktorer for eksplosive varer i faregruppe 1.6:
+
+Ved oppbevaring skal sikkerhetsavstander og faktorer være de samme som for faregruppe 1.2. Se tabell for faregruppe 1.2.
+
+Sikkerhetsavstander og faktorer for samlagring av ammoniumnitrat med andre eksplosive varer:
+
+Ved slik oppbevaring skal tabellen for faregruppe 1.1 benyttes.
 
 Mengden av ammoniumnitrat skal deles på to og legges til den øvrige eksplosivmengden. (Qtotal = Q + QAN / 2, hvor Q er mengden av eksplosiver og QAN er mengden av ammoniumnitrat i kg.)
 
@@ -684,7 +764,15 @@ Den som vil erverve eksplosiv vare må ha tillatelse. Tillatelse kan bare gis ti
 
 Dersom ikke annet fremgår av tillatelsen, kan erverv bare skje fra den som har tillatelse til å drive handel etter [§ 9-1](forskrift/2002-06-26-922/§9-1).
 
-Følgende eksplosiv vare kan allikevel erverves uten tillatelse:Annet fyrverkeri klasse I, II og III enn nevnt i første ledd.Pyroteknisk vare til teknisk bruk.Ammunisjon til boltepistol og andre apparater til teknisk bruk.Eksplosiv vare, hvor det ved godkjenningen er bestemt at tillatelse til erverv ikke kreves.Ammunisjon som erverves eller overlates etter bestemmelsene i [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.Eksplosiv vare som tilvirker med tillatelse etter [§ 6-1](forskrift/2002-06-26-922/§6-1) erverver for tilvirking eller vare som han har tillatelse til å tilvirke.Eksplosiv vare som handlende med tillatelse etter [§ 9-1](forskrift/2002-06-26-922/§9-1) erverver for videresalg.
+Følgende eksplosiv vare kan allikevel erverves uten tillatelse:
+
+1. Annet fyrverkeri klasse I, II og III enn nevnt i første ledd.
+2. Pyroteknisk vare til teknisk bruk.
+3. Ammunisjon til boltepistol og andre apparater til teknisk bruk.
+4. Eksplosiv vare, hvor det ved godkjenningen er bestemt at tillatelse til erverv ikke kreves.
+5. Ammunisjon som erverves eller overlates etter bestemmelsene i [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.
+6. Eksplosiv vare som tilvirker med tillatelse etter [§ 6-1](forskrift/2002-06-26-922/§6-1) erverver for tilvirking eller vare som han har tillatelse til å tilvirke.
+7. Eksplosiv vare som handlende med tillatelse etter [§ 9-1](forskrift/2002-06-26-922/§9-1) erverver for videresalg.
 
 > Endret ved [forskrift 15 okt 2008 nr. 1114](forskrift/2008-10-15-1114).
 
@@ -718,7 +806,12 @@ Den som vil drive handel med eksplosiv vare må ha tillatelse. Tillatelsen til h
 
 Tillatelse til handel skal ikke gis hvis virksomheten antas å ville føre til vesentlige ulemper for opprettholdelsen av den alminnelige orden og sikkerhet.
 
-Uten tillatelse kan det allikevel drives handel med:Fyrverkeri klasse I.Ammunisjon til boltepistol og andre apparater til teknisk bruk.Eksplosiv vare, hvor det ved godkjenningen av varen er bestemt at tillatelse til handel ikke kreves.De varer som tilvirkingstillatelsen omfatter. Slik handel kan bare drives av tilvirker fra tilvirkingssted eller fra tillatt oppbevaringssted. For tilvirking av sprengstoff eller krutt gjelder unntaket også tennmidler.
+Uten tillatelse kan det allikevel drives handel med:
+
+1. Fyrverkeri klasse I.
+2. Ammunisjon til boltepistol og andre apparater til teknisk bruk.
+3. Eksplosiv vare, hvor det ved godkjenningen av varen er bestemt at tillatelse til handel ikke kreves.
+4. De varer som tilvirkingstillatelsen omfatter. Slik handel kan bare drives av tilvirker fra tilvirkingssted eller fra tillatt oppbevaringssted. For tilvirking av sprengstoff eller krutt gjelder unntaket også tennmidler.
 
 Handel med ammunisjon følger bestemmelsene i [lov av 9. juni 1961 nr. 1 om skytevåpen og ammunisjon m.v. kapittel IV](lov/1961-06-09-1/kapiv).
 
@@ -860,7 +953,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 11-2. Sertifikat som bergsprengningsleder
 
-DSB kan etter søknad utstede sertifikat som bergsprengningsleder til søker som:kan dokumentere to års relevant praksis som bergsprenger, eller ett års relevant praksis i planlegging av bergsprengningsarbeid etter endt relevant ingeniørutdanning, oghar gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av DSB, oghar bestått prøve som bergsprengningsleder i regi av eksamensadministrator utpekt av DSB, ogkan fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
+DSB kan etter søknad utstede sertifikat som bergsprengningsleder til søker som:
+
+1. kan dokumentere to års relevant praksis som bergsprenger, eller ett års relevant praksis i planlegging av bergsprengningsarbeid etter endt relevant ingeniørutdanning, og
+2. har gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av DSB, og
+3. har bestått prøve som bergsprengningsleder i regi av eksamensadministrator utpekt av DSB, og
+4. kan fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
 
 > Tilføyd ved [forskrift 4 jan 2010 nr. 5](forskrift/2010-01-04-5).
 
@@ -868,7 +966,11 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 11-3. Sertifikat som bergsprenger
 
-DSB kan etter søknad utstede sertifikat som bergsprenger til søker som:har bestått fagprøve i fjell- og bergverksfaget, oghar bestått prøve som bergsprenger i regi av eksamensadministrator utpekt av DSB, ogkan fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
+DSB kan etter søknad utstede sertifikat som bergsprenger til søker som:
+
+1. har bestått fagprøve i fjell- og bergverksfaget, og
+2. har bestått prøve som bergsprenger i regi av eksamensadministrator utpekt av DSB, og
+3. kan fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
 
 Søker som har bestått fagprøve i steinfaget eller annen relevant fagprøve i anleggsteknikk enn nevnt i første ledd må gjennom en særskilt opplæringsbok dokumentere to års relevant praksis fra bergsprengningsarbeid før søker kan fremstille seg til prøve som bergsprenger.
 
@@ -882,7 +984,11 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 11-4. Gyldigheten av sertifikatene
 
-Sertifikat som nevnt i [§ 11-2](forskrift/2002-06-26-922/§11-2) og [§ 11-3](forskrift/2002-06-26-922/§11-3) er gyldig i inntil 5 år regnet fra dato for utstedelse. For å få fornyet sertifikatet må søker:gjennomføre et oppfriskningskurs i regi av kursadministrator og kursarrangør utpekt av DSB, ogbestå prøve i regi av eksamensadministrator utpekt av DSB, ogfremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
+Sertifikat som nevnt i [§ 11-2](forskrift/2002-06-26-922/§11-2) og [§ 11-3](forskrift/2002-06-26-922/§11-3) er gyldig i inntil 5 år regnet fra dato for utstedelse. For å få fornyet sertifikatet må søker:
+
+1. gjennomføre et oppfriskningskurs i regi av kursadministrator og kursarrangør utpekt av DSB, og
+2. bestå prøve i regi av eksamensadministrator utpekt av DSB, og
+3. fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder.
 
 > Tilføyd ved [forskrift 4 jan 2010 nr. 5](forskrift/2010-01-04-5).
 
@@ -1044,7 +1150,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ### § 12-2. Teknisk sprengningskyndig
 
-Teknisk sprengningskyndig skal:ha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av DSB ogha bestått prøve i regi av eksamensadministrator utpekt av DSB oghvert femte år gjennomføre oppdateringskurs i regi av kursadministrator og kursarrangør utpekt av DSBdokumentere produktkunnskap om relevant eksplosiv vare og aktiviteten der sprengingen inngår.
+Teknisk sprengningskyndig skal:
+
+1. ha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av DSB og
+2. ha bestått prøve i regi av eksamensadministrator utpekt av DSB og
+3. hvert femte år gjennomføre oppdateringskurs i regi av kursadministrator og kursarrangør utpekt av DSB
+4. dokumentere produktkunnskap om relevant eksplosiv vare og aktiviteten der sprengingen inngår.
 
 Teknisk sprengningskyndig er virksomhetens faglige rådgiver knyttet til ivaretakelsen av sikkerheten ved den tekniske sprengningen. Teknisk sprengningskyndig skal bistå virksomhetens ledelse og under deres ansvar utarbeide risikovurderinger, planer og øvrige rutiner slik at sikkerheten ved all håndtering av eksplosiv vare blir ivaretatt på en forsvarlig måte.
 
@@ -1200,7 +1311,15 @@ Bestemmelsene i dette kapittelet gjennomfører direktiv [2008/43/EF](eu/32008l00
 
 ### § 15-1. Virkeområdet for dette kapittelet
 
-Bestemmelsene i dette kapittelet gjelder for eksplosiv vare unntatt:eksplosiv vare som transporteres og leveres uemballert eller i pumpevogn i den hensikt å skulle losses direkte i borehulleteksplosiv vare som tilvirkes på sprengningsstedet, og som lades umiddelbart etter at det er tilvirketammunisjon, med unntak av ammunisjon som omfattes av [kapittel 4](forskrift/2002-06-26-922/kap4)ikke detonerende lunte, i løpemetersikkerhetslunte av svartkrutt (svartkruttlunte), som brenner med forutsigbar hastighet og som ikke gir noen utvendig eksplosiv effekttennhette for håndvåpenammunisjon og små drivladningerpyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg V.
+Bestemmelsene i dette kapittelet gjelder for eksplosiv vare unntatt:
+
+1. eksplosiv vare som transporteres og leveres uemballert eller i pumpevogn i den hensikt å skulle losses direkte i borehullet
+2. eksplosiv vare som tilvirkes på sprengningsstedet, og som lades umiddelbart etter at det er tilvirket
+3. ammunisjon, med unntak av ammunisjon som omfattes av [kapittel 4](forskrift/2002-06-26-922/kap4)
+4. ikke detonerende lunte, i løpemeter
+5. sikkerhetslunte av svartkrutt (svartkruttlunte), som brenner med forutsigbar hastighet og som ikke gir noen utvendig eksplosiv effekt
+6. tennhette for håndvåpenammunisjon og små drivladninger
+7. pyroteknisk vare listet opp i vedlegg V eller som faller inn under vedlegg V.
 
 > Tilføyd ved [forskrift 4 jan 2010 nr. 5](forskrift/2010-01-04-5), endret ved [forskrift 24 okt 2014 nr. 1321](forskrift/2014-10-24-1321).
 
@@ -1226,7 +1345,10 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 Den eksplosive varen skal påføres et permanent, fullt leselig og unikt id-merke, enten ved direkte trykk eller ved en selvklebende etikett.
 
-Id-merket skal inneholde en lesbar del som inneholder:navn på produsent,en alfanummerisk kode bestående av to bokstaver som identifiserer EØS-staten hvor varen er produsert eller importert til, en tresifret kode, utstedt av myndigheten i EØS-staten, som identifiserer produksjonssted, og en unik produktkode og logistikkinformasjon utviklet av produsenten
+Id-merket skal inneholde en lesbar del som inneholder:
+
+1. navn på produsent,
+2. en alfanummerisk kode bestående av to bokstaver som identifiserer EØS-staten hvor varen er produsert eller importert til, en tresifret kode, utstedt av myndigheten i EØS-staten, som identifiserer produksjonssted, og en unik produktkode og logistikkinformasjon utviklet av produsenten
 
 I tillegg skal id-merket inneholde en elektronisk lesbar strekkode eller matrisekode motsvarende den alfanumeriske koden, for eksempel slik som figuren under viser.
 
@@ -1482,7 +1604,12 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 Forskriften trer i kraft 1. juli 2002.
 
-Når forskriften trer i kraft oppheves:[Forskrift av 22. mars 1977 nr. 1](forskrift/1977-03-22-1) om eksplosive varer.[Forskrift av 12. november 1991 nr. 732](forskrift/1991-11-12-732) om erverv, handel og innførsel av eksplosiv vare.[Forskrift av 20. desember 1994 nr. 1191](forskrift/1994-12-20-1191) om markedsføring og kontroll av eksplosiv vare til sivilt bruk.[Forskrift av 16. desember 1999 nr. 1471](forskrift/1999-12-16-1471) om oppbevaring av eksplosive varer.
+Når forskriften trer i kraft oppheves:
+
+- [Forskrift av 22. mars 1977 nr. 1](forskrift/1977-03-22-1) om eksplosive varer.
+- [Forskrift av 12. november 1991 nr. 732](forskrift/1991-11-12-732) om erverv, handel og innførsel av eksplosiv vare.
+- [Forskrift av 20. desember 1994 nr. 1191](forskrift/1994-12-20-1191) om markedsføring og kontroll av eksplosiv vare til sivilt bruk.
+- [Forskrift av 16. desember 1999 nr. 1471](forskrift/1999-12-16-1471) om oppbevaring av eksplosive varer.
 
 > Endret ved [forskrift 4 jan 2010 nr. 5](forskrift/2010-01-04-5) (tidligere § 12-5).
 
@@ -1534,7 +1661,11 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 Personer som har hatt sprengningssertifikat klasse B undervannssprengning, kan innen 1. oktober 2015 konvertere dette til bergsprengersertifikat, dersom de kan dokumentere minst to års praksis fra bergsprengningsarbeid, og fremlegge en tilfredsstillende politiattest som ikke er eldre enn tre måneder.
 
-Personer som har hatt sprengningssertifikat klasse B undervannssprengning og som har dykkersertifikat klasse III, kan innen 1. oktober 2015 konvertere dette til et bergsprengningsledersertifikat, dersom de:kan dokumentere å ha drevet egen virksomhet eller kan dokumentere faktisk ledelse av sprengningsarbeid i en virksomhet,har gjennomført overgangskurs i regi av kursadministrator og kursarrangør utpekt av DSB ogkan fremlegge en tilfredsstillende politiattest som ikke er eldre enn tre måneder.
+Personer som har hatt sprengningssertifikat klasse B undervannssprengning og som har dykkersertifikat klasse III, kan innen 1. oktober 2015 konvertere dette til et bergsprengningsledersertifikat, dersom de:
+
+1. kan dokumentere å ha drevet egen virksomhet eller kan dokumentere faktisk ledelse av sprengningsarbeid i en virksomhet,
+2. har gjennomført overgangskurs i regi av kursadministrator og kursarrangør utpekt av DSB og
+3. kan fremlegge en tilfredsstillende politiattest som ikke er eldre enn tre måneder.
 
 Personer som er meldt inn som teknisk sprengningskyndige før 6. mai 2015 og driver med undervannssprengning må innen 5 år etter innmelding eller senest 6. mai 2018 gjennomføre kurs som bergsprenger. Før påmelding til kurs som bergsprenger skal vedkommende dokumentere utdanning og erfaring av betydning for arbeidet med undervannssprengning. Direktoratet for samfunnssikkerhet og beredskap kan etter en konkret vurdering av kompetanse og erfaring pålegge gjennomføring av nærmere bestemte kurs og prøver, før kurs som bergsprenger kan gjennomføres.
 
@@ -1554,12 +1685,45 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 *II. Særlige krav*
 
-1. Som et minstekrav skal følgende opplysninger og egenskaper tas i betraktning eller kontrolleres, der det er hensiktsmessig. Slik kontroll skal foretas under realistiske forhold. Dersom dette ikke er mulig i et laboratorium, skal prøvene utføres under forhold som tilsvarer den eksplosive vares virkelige bruksforhold.Oppbygging og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsforhold og om nødvendig dimensjoner og kornstørrelsesfordeling.Den eksplosive vares fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for.Følsomhet for støt og friksjon.Alle bestanddelenes forenlighet med hensyn til deres fysiske og kjemiske stabilitet.Den eksplosive vares kjemiske renhet.Den eksplosive vares motstandsdyktighet mot vann, når den er beregnet på å brukes under fuktige eller våte forhold og der vann kan svekke den eksplosive vares sikkerhet og pålitelighet.Motstandsdyktighet mot høye og lave temperaturer, når det er fastsatt at den eksplosive varen skal lagres eller brukes ved slike temperaturer, og dens sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av selve den eksplosive varen.Den eksplosive vares egnethet til bruk i farlige omgivelser (f.eks. omgivelser utsatt for gruvegass, varme masser osv.), dersom det er fastsatt at den skal brukes under slike forhold.Sikkerhetsinnretninger beregnet på å forhindre at antenning eller initiering skjer i utide eller ved uaktsomhet.Riktig lading av og virkemåte til den eksplosive varen når den brukes i samsvar med sitt formål.Passende bruksanvisning og om nødvendig merking på mottakerstatens offisielle språk, med hensyn til sikker håndtering, lagring, bruk og tilintetgjøring.Den evne den eksplosive varen, dens innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt.Spesifisering av alle innretninger og alt tilbehør som er nødvendig for at den eksplosive varen skal fungere pålitelig og sikkert.
+1. Som et minstekrav skal følgende opplysninger og egenskaper tas i betraktning eller kontrolleres, der det er hensiktsmessig. Slik kontroll skal foretas under realistiske forhold. Dersom dette ikke er mulig i et laboratorium, skal prøvene utføres under forhold som tilsvarer den eksplosive vares virkelige bruksforhold.
+
+   1. Oppbygging og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsforhold og om nødvendig dimensjoner og kornstørrelsesfordeling.
+   2. Den eksplosive vares fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for.
+   3. Følsomhet for støt og friksjon.
+   4. Alle bestanddelenes forenlighet med hensyn til deres fysiske og kjemiske stabilitet.
+   5. Den eksplosive vares kjemiske renhet.
+   6. Den eksplosive vares motstandsdyktighet mot vann, når den er beregnet på å brukes under fuktige eller våte forhold og der vann kan svekke den eksplosive vares sikkerhet og pålitelighet.
+   7. Motstandsdyktighet mot høye og lave temperaturer, når det er fastsatt at den eksplosive varen skal lagres eller brukes ved slike temperaturer, og dens sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av selve den eksplosive varen.
+   8. Den eksplosive vares egnethet til bruk i farlige omgivelser (f.eks. omgivelser utsatt for gruvegass, varme masser osv.), dersom det er fastsatt at den skal brukes under slike forhold.
+   9. Sikkerhetsinnretninger beregnet på å forhindre at antenning eller initiering skjer i utide eller ved uaktsomhet.
+   10. Riktig lading av og virkemåte til den eksplosive varen når den brukes i samsvar med sitt formål.
+   11. Passende bruksanvisning og om nødvendig merking på mottakerstatens offisielle språk, med hensyn til sikker håndtering, lagring, bruk og tilintetgjøring.
+   12. Den evne den eksplosive varen, dens innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt.
+   13. Spesifisering av alle innretninger og alt tilbehør som er nødvendig for at den eksplosive varen skal fungere pålitelig og sikkert.
 2. De forskjellige gruppene av eksplosive varer skal også minst oppfylle følgende krav:
-3. A) SprengstofferDen angitte initieringsmåte skal sikre at sprengstoffene henholdsvis deflagrerer, detonerer eller eksploderer sikkert, pålitelig og fullstendig. For svartkrutt skal deflagrasjonsegenskapene undersøkes.Sprengstoffer i form av patroner skal overføre detonasjonen sikkert og pålitelig gjennom hele rekken av patroner.Gassene som utvikles ved detonasjon av sprengstoffer under jord, skal ikke inneholde karbonmonoksid, nitrøse gasser, andre gasser, damper eller luftbårne restpartikler i mengder som under vanlige driftsvilkår er skadelig for helsen.
-4. B) Detonerende lunter, svartkruttlunter, tennlunter og sjokkrørInnkapslingen til detonerende lunter, sikkerhetslunter og andre lunter skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad beskytte den eksplosive kjernen når den utsettes for vanlig mekanisk påkjenning.Parametrene for sikkerhetslunters brennetid skal angis og overholdes på en pålitelig måte.Detonerende lunter skal kunne initieres på en pålitelig måte, ha tilstrekkelig initieringsevne og oppfylle kravene med hensyn til lagring selv under særlige klimatiske forhold.
-5. C) Tennere (herunder intervalltennere) og koplings- og forsinkerelementer til detonerende lunterTennere skal under alle forventede bruksforhold initiere de sprengstoffer som de skal brukes sammen med, på en pålitelig måte.Koplings- og forsinkerelementer til detonerende lunter skal kunne initieres på en pålitelig måte.Initieringsevnen skal ikke kunne svekkes av fuktighet.Intervalltennernes forsinkelsestider skal være tilstrekkelig ensartede til å sikre at faren for overlapping med etterfølgende tidtrinnsforsinkelsestid er ubetydelig.De elektriske egenskapene til elektriske tennere skal angis på emballasjen (minste tennenergi, resistans osv.).Ledningene til elektriske tennere skal ha tilstrekkelig isolasjon og mekanisk styrke, herunder soliditet i forbindelsen til tenneren, i forhold til deres påtenkte bruk.
-6. D) Drivladningskrutt og rakettkruttDisse materialene skal ikke detonere når de brukes i samsvar med sitt formål.Drivladningskrutt skal om nødvendig (f.eks. dersom de er basert på nitrocellulose) stabiliseres for å unngå nedbryting.Rakettkrutt skal ikke inneholde utilsiktede sprekker eller gassbobler som kan utgjøre en fare for rakettkruttets virkemåte, når det forekommer i komprimert eller støpt form.
+3. A) Sprengstoffer
+
+   1. Den angitte initieringsmåte skal sikre at sprengstoffene henholdsvis deflagrerer, detonerer eller eksploderer sikkert, pålitelig og fullstendig. For svartkrutt skal deflagrasjonsegenskapene undersøkes.
+   2. Sprengstoffer i form av patroner skal overføre detonasjonen sikkert og pålitelig gjennom hele rekken av patroner.
+   3. Gassene som utvikles ved detonasjon av sprengstoffer under jord, skal ikke inneholde karbonmonoksid, nitrøse gasser, andre gasser, damper eller luftbårne restpartikler i mengder som under vanlige driftsvilkår er skadelig for helsen.
+4. B) Detonerende lunter, svartkruttlunter, tennlunter og sjokkrør
+
+   1. Innkapslingen til detonerende lunter, sikkerhetslunter og andre lunter skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad beskytte den eksplosive kjernen når den utsettes for vanlig mekanisk påkjenning.
+   2. Parametrene for sikkerhetslunters brennetid skal angis og overholdes på en pålitelig måte.
+   3. Detonerende lunter skal kunne initieres på en pålitelig måte, ha tilstrekkelig initieringsevne og oppfylle kravene med hensyn til lagring selv under særlige klimatiske forhold.
+5. C) Tennere (herunder intervalltennere) og koplings- og forsinkerelementer til detonerende lunter
+
+   1. Tennere skal under alle forventede bruksforhold initiere de sprengstoffer som de skal brukes sammen med, på en pålitelig måte.
+   2. Koplings- og forsinkerelementer til detonerende lunter skal kunne initieres på en pålitelig måte.
+   3. Initieringsevnen skal ikke kunne svekkes av fuktighet.
+   4. Intervalltennernes forsinkelsestider skal være tilstrekkelig ensartede til å sikre at faren for overlapping med etterfølgende tidtrinnsforsinkelsestid er ubetydelig.
+   5. De elektriske egenskapene til elektriske tennere skal angis på emballasjen (minste tennenergi, resistans osv.).
+   6. Ledningene til elektriske tennere skal ha tilstrekkelig isolasjon og mekanisk styrke, herunder soliditet i forbindelsen til tenneren, i forhold til deres påtenkte bruk.
+6. D) Drivladningskrutt og rakettkrutt
+
+   1. Disse materialene skal ikke detonere når de brukes i samsvar med sitt formål.
+   2. Drivladningskrutt skal om nødvendig (f.eks. dersom de er basert på nitrocellulose) stabiliseres for å unngå nedbryting.
+   3. Rakettkrutt skal ikke inneholde utilsiktede sprekker eller gassbobler som kan utgjøre en fare for rakettkruttets virkemåte, når det forekommer i komprimert eller støpt form.
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
@@ -1568,38 +1732,148 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 *1) Modul B: EF-typeprøving*
 
 1. Denne modulen beskriver den del av fremgangsmåten som angår hvordan et teknisk kontrollorgan skal vurdere om en eksplosiv vare, som er representativ for den påtenkte produksjon, samsvarer med de bestemmelser i denne forskrift som kommer til anvendelse på den.
-2. Søknad om EF-typeprøving skal være fremsatt av produsenten eller dennes representant etablert innenfor EØS-området til et teknisk kontrollorgan etter eget valg. Søknaden skal omfatte:produsentens navn og adresse og, dersom søknaden er fremsatt ved en representant, representantens navn og adresse,en skriftlig erklæring om at samme søknad ikke er fremsatt for et annet teknisk kontrollorgan,den tekniske dokumentasjon, som beskrevet i nr. 3.Søkeren skal stille til det tekniske kontrollorgans rådighet en representativ prøve på den planlagte produksjon, heretter kalt «type». Det tekniske kontrollorgan kan be om flere prøveeksemplarer dersom dette er nødvendig for å utføre prøvingsprogrammet.
-3. Den tekniske dokumentasjonen må gjøre det mulig å vurdere om produktet er i samsvar med forskriftens krav. Så langt det er nødvendig for vurderingen, skal den omfatte produktets utforming, produksjon og funksjon samt, i den grad det er nødvendig for vurderingen, inneholde:en alminnelig beskrivelse av «typen»,konstruksjons- og produksjonstegninger samt diagrammer som viser komponenter, delsammenstillinger, kretser osv.,de nødvendige beskrivelser og forklaringer for å kunne forstå nevnte tegninger og diagrammer samt produktets funksjon,en oversikt over de standarder nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2) som helt eller delvis får anvendelse, og en beskrivelse av de løsninger som er valgt for å oppfylle forskriftens grunnleggende krav når standardene i nevnte paragraf ikke er blitt anvendt,resultatene av de foretatte konstruksjonsberegninger og undersøkelser,prøverapportene.
-4. Det tekniske kontrollorgan skal:undersøke den tekniske dokumentasjonen, vurdere om «typen» er fremstilt i samsvar med denne, og fastslå hvilke deler som er utformet i samsvar med de relevante bestemmelser i standardene nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2), samt hvilke komponenter som er utformet uten at de relevante bestemmelser i nevnte standarder er blitt anvendt,utføre eller få utført egnede undersøkelser og de nødvendige prøver for å vurdere om løsningene som produsenten har valgt, oppfyller de grunnleggende krav dersom standardene nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) ikke er anvendt,utføre eller få utført egnede undersøkelser og de nødvendige prøver for å vurdere, dersom produsenten har valgt å anvende de relevante standarder, at disse faktisk er anvendt,avtale med søkeren hvor undersøkelsene og de nødvendige prøvene skal utføres.
-5. Såfremt «typen» tilfredsstiller de relevante bestemmelser i denne forskrift, skal det tekniske kontrollorgan utstede et EF-typeprøvingssertifikat til søkeren. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene av undersøkelsene og de nødvendige data for identifikasjon av den godkjente «typen».En liste over de relevante delene av den tekniske dokumentasjonen skal være vedlagt sertifikatet, og en kopi skal beholdes av det tekniske kontrollorgan.Dersom det tekniske kontrollorgan nekter å utstede et typesertifikat til produsenten eller hans representant etablert innenfor EØS-området, skal det gis en detaljert begrunnelse for avslaget.Det skal fastsettes bestemmelser om klageadgang.
+2. Søknad om EF-typeprøving skal være fremsatt av produsenten eller dennes representant etablert innenfor EØS-området til et teknisk kontrollorgan etter eget valg. Søknaden skal omfatte:
+
+   - produsentens navn og adresse og, dersom søknaden er fremsatt ved en representant, representantens navn og adresse,
+   - en skriftlig erklæring om at samme søknad ikke er fremsatt for et annet teknisk kontrollorgan,
+   - den tekniske dokumentasjon, som beskrevet i nr. 3.
+
+   Søkeren skal stille til det tekniske kontrollorgans rådighet en representativ prøve på den planlagte produksjon, heretter kalt «type». Det tekniske kontrollorgan kan be om flere prøveeksemplarer dersom dette er nødvendig for å utføre prøvingsprogrammet.
+3. Den tekniske dokumentasjonen må gjøre det mulig å vurdere om produktet er i samsvar med forskriftens krav. Så langt det er nødvendig for vurderingen, skal den omfatte produktets utforming, produksjon og funksjon samt, i den grad det er nødvendig for vurderingen, inneholde:
+
+   - en alminnelig beskrivelse av «typen»,
+   - konstruksjons- og produksjonstegninger samt diagrammer som viser komponenter, delsammenstillinger, kretser osv.,
+   - de nødvendige beskrivelser og forklaringer for å kunne forstå nevnte tegninger og diagrammer samt produktets funksjon,
+   - en oversikt over de standarder nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2) som helt eller delvis får anvendelse, og en beskrivelse av de løsninger som er valgt for å oppfylle forskriftens grunnleggende krav når standardene i nevnte paragraf ikke er blitt anvendt,
+   - resultatene av de foretatte konstruksjonsberegninger og undersøkelser,
+   - prøverapportene.
+4. Det tekniske kontrollorgan skal:
+
+   1. undersøke den tekniske dokumentasjonen, vurdere om «typen» er fremstilt i samsvar med denne, og fastslå hvilke deler som er utformet i samsvar med de relevante bestemmelser i standardene nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2), samt hvilke komponenter som er utformet uten at de relevante bestemmelser i nevnte standarder er blitt anvendt,
+   2. utføre eller få utført egnede undersøkelser og de nødvendige prøver for å vurdere om løsningene som produsenten har valgt, oppfyller de grunnleggende krav dersom standardene nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) ikke er anvendt,
+   3. utføre eller få utført egnede undersøkelser og de nødvendige prøver for å vurdere, dersom produsenten har valgt å anvende de relevante standarder, at disse faktisk er anvendt,
+   4. avtale med søkeren hvor undersøkelsene og de nødvendige prøvene skal utføres.
+5. Såfremt «typen» tilfredsstiller de relevante bestemmelser i denne forskrift, skal det tekniske kontrollorgan utstede et EF-typeprøvingssertifikat til søkeren. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene av undersøkelsene og de nødvendige data for identifikasjon av den godkjente «typen».
+
+   En liste over de relevante delene av den tekniske dokumentasjonen skal være vedlagt sertifikatet, og en kopi skal beholdes av det tekniske kontrollorgan.
+
+   Dersom det tekniske kontrollorgan nekter å utstede et typesertifikat til produsenten eller hans representant etablert innenfor EØS-området, skal det gis en detaljert begrunnelse for avslaget.
+
+   Det skal fastsettes bestemmelser om klageadgang.
 6. Søkeren skal underrette det tekniske kontrollorgan som har den tekniske dokumentasjon om EF-typeprøvingssertifikatet, om alle endringer i den godkjente «typen» som må godkjennes på nytt dersom slike endringer kan få innvirkning på samsvaret med de vesentlige kravene eller de fastsatte vilkår for bruk av produktet. Den nye godkjennelsen skal gis som et tillegg til det opprinnelige EF-typeprøvingssertifikatet.
 7. Alle tekniske kontrollorganer skal sende de øvrige tekniske kontrollorganer alle nødvendige opplysninger om EF-typeprøvingssertifikatene samt om tillegg som er utstedt eller trukket tilbake.
 8. De øvrige tekniske kontrollorganer kan få kopi av EF-typeprøvingssertifikatene og/eller tilleggene til dem. Vedleggene til sertifikatene skal stilles til rådighet for de øvrige tekniske kontrollorganer.
-9. Produsenten eller hans representant etablert innenfor EØS-området skal sammen med den tekniske dokumentasjonen oppbevare en kopi av EF-typeprøvingssertifikatene og tilleggene til dem i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i Fellesskapet.
+9. Produsenten eller hans representant etablert innenfor EØS-området skal sammen med den tekniske dokumentasjonen oppbevare en kopi av EF-typeprøvingssertifikatene og tilleggene til dem i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.
+
+   Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i Fellesskapet.
 
 *2) Modul C: typesamsvar*
 
 1. Denne modulen beskriver den del av fremgangsmåten som angår hvordan produsenten eller hans representant etablert innenfor EØS-området skal erklære at de aktuelle eksplosive varer er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de relevante krav i denne forskrift. Produsenten skal sette CE-merket på hver eksplosiv vare og utstede en skriftlig samsvarserklæring.
 2. Produsenten skal treffe alle nødvendige tiltak for å påse at produksjonsprosessen ivaretar det produserte produkts samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og med forskriftens krav.
-3. Produsenten eller hans representant skal beholde en kopi av samsvarserklæringen i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i EØS-området.
-4. Et teknisk kontrollorgan som er valgt av produsenten, skal med vilkårlige mellomrom utføre eller få utført kontroller av produktet. En egnet prøve av de ferdige produktene, som skal tas på stedet av det tekniske kontrollorgan, skal kontrolleres, og hensiktsmessige prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver, skal utføres for å kontrollere produktets samsvar med kravene i denne forskrift. I tilfelle en eller flere av produktprøvene som kontrolleres ikke er i samsvar, skal det tekniske kontrollorgan treffe de nødvendige tiltak.Produsenten skal på det tekniske kontrollorgans ansvar påføre organets identifikasjonssymbol i løpet av produksjonsprosessen.
+3. Produsenten eller hans representant skal beholde en kopi av samsvarserklæringen i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.
+
+   Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i EØS-området.
+4. Et teknisk kontrollorgan som er valgt av produsenten, skal med vilkårlige mellomrom utføre eller få utført kontroller av produktet. En egnet prøve av de ferdige produktene, som skal tas på stedet av det tekniske kontrollorgan, skal kontrolleres, og hensiktsmessige prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver, skal utføres for å kontrollere produktets samsvar med kravene i denne forskrift. I tilfelle en eller flere av produktprøvene som kontrolleres ikke er i samsvar, skal det tekniske kontrollorgan treffe de nødvendige tiltak.
+
+   Produsenten skal på det tekniske kontrollorgans ansvar påføre organets identifikasjonssymbol i løpet av produksjonsprosessen.
 
 *3) Modul D: kvalitetssikring av produksjonen*
 
 1. Denne modulen beskriver den fremgangsmåten en produsent som oppfyller forpliktelsene i nr. 2, skal følge for å påse og erklære at de aktuelle eksplosive varer er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de grunnleggende krav i denne forskrift. Produsenten skal påføre hver eksplosiv vare CE-merket og utstede en skriftlig samsvarserklæring. Sammen med CE-merket skal påføres identifikasjonssymbolet til det tekniske kontrollorgan som har ansvaret for kontrollen omtalt i nr. 4.
 2. Produsenten skal anvende et akseptert kvalitetssikringssystem for produksjon, sluttinspeksjon og prøving som beskrevet i nr. 3. Han er underlagt kontrollen omtalt i nr. 4.
-3. KvalitetssikringssystemProdusenten skal sende søknad om å få vurdert sitt kvalitetssikringssystem for de aktuelle eksplosive varer til et teknisk kontrollorgan etter eget valg. Søknaden skal inneholde:alle relevante opplysninger om den planlagte kategori eksplosive varer,dokumentasjon om kvalitetssikringssystemet,teknisk dokumentasjon for den vurderte «typen» samt kopi av EF-typeprøvingssertifikatet.Kvalitetssikringssystemet skal garantere at de eksplosive varene er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de grunnleggende krav i denne forskrift.Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, må dokumenteres på en systematisk og ordentlig måte i form av skriftlige forholdsregler, fremgangsmåter og instrukser. Denne dokumentasjonen om kvalitetssikringssystemet skal muliggjøre en ensartet tolkning av programmer, planer, håndbøker og kvalitetsregistre.Den skal bl.a. inneholde en hensiktsmessig beskrivelse av:kvalitetsmål, organisasjonsstruktur, samt ledelsens plikter og myndighet med hensyn til de eksplosive varers kvalitet,de fremstillingsprosesser, metoder for kvalitetskontroll og kvalitetssikring, samt de systematiske fremgangsmåter som vil bli brukt,de undersøkelser og prøver som vil bli foretatt før, under og etter produksjonen, samt en angivelse av hvor ofte disse vil finne sted,kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner,hvordan det kontrolleres at de eksplosive varene oppfyller de nødvendige kvalitetskrav, og at kvalitetssikringssystemet virker på en effektiv måte.Det tekniske kontrollorgan skal vurdere kvalitetssikringssystemet for å avgjøre om det oppfyller kravene i nr. 3.2. Det skal anse kravene som oppfylt dersom kvalitetssikringssystemet etterkommer den harmoniserte standard på området. Revisjonsgruppen må ha minst ett medlem med erfaring i å vurdere vedkommende produktteknologi. Vurderingen skal innbefatte et inspeksjonsbesøk til produsentens anlegg.Produsenten skal underrettes om avgjørelsen. Underretningen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.Produsenten skal påta seg å oppfylle sine forpliktelser i henhold til kvalitetssikringssystemet slik det er godkjent, og opprettholde det på et forsvarlig og effektivt nivå.Produsenten eller hans representant skal holde det tekniske kontrollorgan som har godkjent kvalitetssikringssystemet, løpende underrettet om alle endringsforslag til dette.Det tekniske kontrollorgan skal vurdere endringsforslagene og bestemme om det endrede kvalitetssikringssystem fremdeles oppfyller kravene i nr. 3.2 eller om det må foretas ny vurdering.Det skal underrette produsenten om sin beslutning. Meddelelsen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
-4. *Kontroll som er det tekniske kontrollorgans ansvar*Formålet med kontrollen er å påse at produsenten oppfyller sine forpliktelser i henhold til det aksepterte kvalitetssikringssystemet.Produsenten skal gi det tekniske kontrollorgan adgang til å inspisere sine produksjons-, inspeksjons-, prøvings- og lagerlokaler og gi det alle nødvendige opplysninger, herunder:dokumentasjon om kvalitetssikringssystemet,kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner osv.Det tekniske kontrollorgan skal foreta periodisk revisjon for å forsikre seg om at produsenten opprettholder og anvender kvalitetssikringssystemet, og fremlegge en revisjonsrapport for produsenten.I tillegg kan det tekniske kontrollorgan avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorgan foreta eller få utført prøver for om nødvendig å kontrollere at kvalitetssikringssystemet fungerer korrekt. Det tekniske kontrollorgan skal avlegge for produsenten en rapport om besøket og, dersom det er foretatt en prøve, en prøverapport.
-5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato:dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd ogdet tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
+3. Kvalitetssikringssystem
+
+   1. Produsenten skal sende søknad om å få vurdert sitt kvalitetssikringssystem for de aktuelle eksplosive varer til et teknisk kontrollorgan etter eget valg. Søknaden skal inneholde:
+
+      - alle relevante opplysninger om den planlagte kategori eksplosive varer,
+      - dokumentasjon om kvalitetssikringssystemet,
+      - teknisk dokumentasjon for den vurderte «typen» samt kopi av EF-typeprøvingssertifikatet.
+   2. Kvalitetssikringssystemet skal garantere at de eksplosive varene er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de grunnleggende krav i denne forskrift.
+
+      Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, må dokumenteres på en systematisk og ordentlig måte i form av skriftlige forholdsregler, fremgangsmåter og instrukser. Denne dokumentasjonen om kvalitetssikringssystemet skal muliggjøre en ensartet tolkning av programmer, planer, håndbøker og kvalitetsregistre.
+
+      Den skal bl.a. inneholde en hensiktsmessig beskrivelse av:
+
+      - kvalitetsmål, organisasjonsstruktur, samt ledelsens plikter og myndighet med hensyn til de eksplosive varers kvalitet,
+      - de fremstillingsprosesser, metoder for kvalitetskontroll og kvalitetssikring, samt de systematiske fremgangsmåter som vil bli brukt,
+      - de undersøkelser og prøver som vil bli foretatt før, under og etter produksjonen, samt en angivelse av hvor ofte disse vil finne sted,
+      - kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner,
+      - hvordan det kontrolleres at de eksplosive varene oppfyller de nødvendige kvalitetskrav, og at kvalitetssikringssystemet virker på en effektiv måte.
+   3. Det tekniske kontrollorgan skal vurdere kvalitetssikringssystemet for å avgjøre om det oppfyller kravene i nr. 3.2. Det skal anse kravene som oppfylt dersom kvalitetssikringssystemet etterkommer den harmoniserte standard på området. Revisjonsgruppen må ha minst ett medlem med erfaring i å vurdere vedkommende produktteknologi. Vurderingen skal innbefatte et inspeksjonsbesøk til produsentens anlegg.
+
+      Produsenten skal underrettes om avgjørelsen. Underretningen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
+   4. Produsenten skal påta seg å oppfylle sine forpliktelser i henhold til kvalitetssikringssystemet slik det er godkjent, og opprettholde det på et forsvarlig og effektivt nivå.
+
+      Produsenten eller hans representant skal holde det tekniske kontrollorgan som har godkjent kvalitetssikringssystemet, løpende underrettet om alle endringsforslag til dette.
+
+      Det tekniske kontrollorgan skal vurdere endringsforslagene og bestemme om det endrede kvalitetssikringssystem fremdeles oppfyller kravene i nr. 3.2 eller om det må foretas ny vurdering.
+
+      Det skal underrette produsenten om sin beslutning. Meddelelsen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
+4. *Kontroll som er det tekniske kontrollorgans ansvar*
+
+   1. Formålet med kontrollen er å påse at produsenten oppfyller sine forpliktelser i henhold til det aksepterte kvalitetssikringssystemet.
+   2. Produsenten skal gi det tekniske kontrollorgan adgang til å inspisere sine produksjons-, inspeksjons-, prøvings- og lagerlokaler og gi det alle nødvendige opplysninger, herunder:
+
+      - dokumentasjon om kvalitetssikringssystemet,
+      - kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
+   3. Det tekniske kontrollorgan skal foreta periodisk revisjon for å forsikre seg om at produsenten opprettholder og anvender kvalitetssikringssystemet, og fremlegge en revisjonsrapport for produsenten.
+   4. I tillegg kan det tekniske kontrollorgan avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorgan foreta eller få utført prøver for om nødvendig å kontrollere at kvalitetssikringssystemet fungerer korrekt. Det tekniske kontrollorgan skal avlegge for produsenten en rapport om besøket og, dersom det er foretatt en prøve, en prøverapport.
+5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato:
+
+   - dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,
+   - eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd og
+   - det tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
 6. Hver av de tekniske kontrollorganer skal gi de øvrige tekniske kontrollorganer alle nødvendige opplysninger om utstedte og tilbakekalte godkjennelser av kvalitetssikringssystemer.
 
 *4) Modul E: kvalitetssikring av produktet*
 
 1. Denne modulen beskriver den fremgangsmåten en produsent som oppfyller forpliktelsene i nr. 2, skal følge for å påse og erklære at de eksplosive varene er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet. Produsenten skal sette CE-merket på hver eksplosiv vare og utstede en skriftlig samsvarserklæring. Sammen med CE-merket skal påføres identifikasjonssymbolet til det tekniske kontrollorgan som har ansvaret for kontrollen omtalt i nr. 4.
 2. Produsenten skal anvende et godkjent kvalitetssikringssystem for sluttinspeksjon og prøving av eksplosive varer som beskrevet i nr. 3. Vedkommende er underlagt kontrollen omtalt i nr. 4.
-3. *Kvalitetssikringssystem*Produsenten skal sende en søknad om å få vurdert sitt kvalitetssikringssystem for eksplosive varer til et teknisk kontrollorgan etter eget valg.Søknaden skal inneholde:alle relevante opplysninger om den planlagte kategori eksplosive varer,dokumentasjon om kvalitetssikringssystemet,teknisk dokumentasjon om den vurderte «typen» samt kopi av EF-typeprøvingssertifikatet.I henhold til kvalitetssikringssystemet skal hver eksplosiv vare undersøkes, og egnede prøver som angitt i standarden(e), jf. forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver skal utføres for å kontrollere at den eksplosive varen er i samsvar med de gjeldende krav i denne forskrift. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, må dokumenteres på en systematisk og ordentlig måte i form av skriftlige forholdsregler, fremgangsmåter og instrukser. Denne dokumentasjonen om kvalitetssikringssystemet skal muliggjøre en ensartet tolkning av programmer, planer, håndbøker og kvalitetsregistre.Den skal bl.a. inneholde en hensiktsmessig beskrivelse av:kvalitetsmål, organisasjonsstruktur, samt ledelsens plikter og myndighet med hensyn til produktenes kvalitet,de undersøkelser og prøver som vil bli foretatt etter produksjonen,hvordan det kontrolleres at kvalitetssikringssystemet virker på en effektiv måte,kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner.Det tekniske kontrollorgan skal vurdere kvalitetssikringssystemet for å avgjøre om det oppfyller kravene i nr. 3.2. Det skal anse kravene som oppfylt dersom kvalitetssikringssystemet etterkommer den harmoniserte standard på området.Revisjonsgruppen må ha minst ett medlem med erfaring i å vurdere vedkommende produktteknologi. Vurderingen skal innbefatte et inspeksjonsbesøk til produsentens anlegg.Produsenten skal underrettes om avgjørelsen. Meddelelsen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.Produsenten skal påta seg å oppfylle sine forpliktelser i henhold til kvalitetssikringssystemet slik det er vurdert, og opprettholde det på et forsvarlig og effektivt nivå.Produsenten eller hans representant skal holde det tekniske kontrollorgan som har vurdert kvalitetssikringssystemet, underrettet om alle endringsforslag til dette.Det tekniske kontrollorgan skal vurdere endringsforslagene og bestemme om det endrede kvalitetssikringssystem fremdeles oppfyller kravene i nr. 3.2 eller om det må foretas ny vurdering.Det skal gi produsenten underretning om sin beslutning. Underretningen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
-4. *Kontroll som er det tekniske kontrollorgans ansvar*Formålet med kontrollen er å forsikre seg om at produsenten oppfyller sine forpliktelser i henhold til det vurderte kvalitetssikringssystemet.Produsenten skal gi det tekniske kontrollorgan adgang til å inspisere sin inspeksjons-, prøvings- og lagerlokaler og gi alle nødvendige opplysninger, herunder:dokumentasjon om kvalitetssikringssystemet,teknisk dokumentasjon,kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner, osv.Det tekniske kontrollorgan skal foreta periodisk revisjon for å forsikre seg om at produsenten opprettholder og anvender kvalitetssikringssystemet, samt avlegge en revisjonsrapport for produsenten.I tillegg kan det tekniske kontrollorgan avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorgan foreta eller få utført prøver for om nødvendig å kontrollere at kvalitetssikringssystemet fungerer korrekt. Det tekniske kontrollorgan skal avlegge for produsenten en rapport om besøket og, dersom det er foretatt en prøve, en prøverapport.
-5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato for produktet:dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd, ogdet tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
+3. *Kvalitetssikringssystem*
+
+   1. Produsenten skal sende en søknad om å få vurdert sitt kvalitetssikringssystem for eksplosive varer til et teknisk kontrollorgan etter eget valg.
+
+      Søknaden skal inneholde:
+
+      - alle relevante opplysninger om den planlagte kategori eksplosive varer,
+      - dokumentasjon om kvalitetssikringssystemet,
+      - teknisk dokumentasjon om den vurderte «typen» samt kopi av EF-typeprøvingssertifikatet.
+   2. I henhold til kvalitetssikringssystemet skal hver eksplosiv vare undersøkes, og egnede prøver som angitt i standarden(e), jf. forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver skal utføres for å kontrollere at den eksplosive varen er i samsvar med de gjeldende krav i denne forskrift. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, må dokumenteres på en systematisk og ordentlig måte i form av skriftlige forholdsregler, fremgangsmåter og instrukser. Denne dokumentasjonen om kvalitetssikringssystemet skal muliggjøre en ensartet tolkning av programmer, planer, håndbøker og kvalitetsregistre.
+
+      Den skal bl.a. inneholde en hensiktsmessig beskrivelse av:
+
+      - kvalitetsmål, organisasjonsstruktur, samt ledelsens plikter og myndighet med hensyn til produktenes kvalitet,
+      - de undersøkelser og prøver som vil bli foretatt etter produksjonen,
+      - hvordan det kontrolleres at kvalitetssikringssystemet virker på en effektiv måte,
+      - kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner.
+   3. Det tekniske kontrollorgan skal vurdere kvalitetssikringssystemet for å avgjøre om det oppfyller kravene i nr. 3.2. Det skal anse kravene som oppfylt dersom kvalitetssikringssystemet etterkommer den harmoniserte standard på området.
+
+      Revisjonsgruppen må ha minst ett medlem med erfaring i å vurdere vedkommende produktteknologi. Vurderingen skal innbefatte et inspeksjonsbesøk til produsentens anlegg.
+
+      Produsenten skal underrettes om avgjørelsen. Meddelelsen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
+   4. Produsenten skal påta seg å oppfylle sine forpliktelser i henhold til kvalitetssikringssystemet slik det er vurdert, og opprettholde det på et forsvarlig og effektivt nivå.
+
+      Produsenten eller hans representant skal holde det tekniske kontrollorgan som har vurdert kvalitetssikringssystemet, underrettet om alle endringsforslag til dette.
+
+      Det tekniske kontrollorgan skal vurdere endringsforslagene og bestemme om det endrede kvalitetssikringssystem fremdeles oppfyller kravene i nr. 3.2 eller om det må foretas ny vurdering.
+
+      Det skal gi produsenten underretning om sin beslutning. Underretningen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
+4. *Kontroll som er det tekniske kontrollorgans ansvar*
+
+   1. Formålet med kontrollen er å forsikre seg om at produsenten oppfyller sine forpliktelser i henhold til det vurderte kvalitetssikringssystemet.
+   2. Produsenten skal gi det tekniske kontrollorgan adgang til å inspisere sin inspeksjons-, prøvings- og lagerlokaler og gi alle nødvendige opplysninger, herunder:
+
+      - dokumentasjon om kvalitetssikringssystemet,
+      - teknisk dokumentasjon,
+      - kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner, osv.
+   3. Det tekniske kontrollorgan skal foreta periodisk revisjon for å forsikre seg om at produsenten opprettholder og anvender kvalitetssikringssystemet, samt avlegge en revisjonsrapport for produsenten.
+   4. I tillegg kan det tekniske kontrollorgan avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorgan foreta eller få utført prøver for om nødvendig å kontrollere at kvalitetssikringssystemet fungerer korrekt. Det tekniske kontrollorgan skal avlegge for produsenten en rapport om besøket og, dersom det er foretatt en prøve, en prøverapport.
+5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato for produktet:
+
+   - dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,
+   - eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd, og
+   - det tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
 6. Hvert av de tekniske kontrollorganer skal gi de øvrige tekniske kontrollorganer alle nødvendige opplysninger om utstedte og tilbakekalte vurderinger av kvalitetssikringssystemer.
 
 *5) Modul F: produktverifisering.*
@@ -1608,13 +1882,28 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 2. Produsenten skal treffe alle de nødvendige tiltak for å påse at produksjonsprosessen ivaretar de eksplosive varenes samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og med forskriftens krav. Vedkommende skal sette CE-merket på hver eksplosiv vare og utstede en samsvarserklæring.
 3. Det tekniske kontrollorgan skal utføre de nødvendige undersøkelser og prøver for å verifisere at den eksplosive varen er i samsvar med de relevante krav i forskriften ved å undersøke og prøve hver eksplosiv vare som beskrevet i nr. 4.
 4. Produsenten eller hans representant skal beholde en kopi av samsvarserklæringen i et tidsrom på minst ti år regnet fra siste produksjonsdato for den eksplosive varen.
-5. *Verifisering ved undersøkelse og prøving av hver eksplosiv vare*Alle de eksplosive varene skal undersøkes enkeltvis og egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2), eller tilsvarende prøver skal utføres for å vurdere samsvar med den «type» og de krav som gjelder i henhold til forskriften.Produsenten skal sette eller sørge for å få satt sitt identifikasjonssymbol på hver godkjent eksplosiv vare og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.Produsenten eller hans representant skal på oppfordring være i stand til å fremlegge det tekniske kontrollorgans samsvarsvurdering.
+5. *Verifisering ved undersøkelse og prøving av hver eksplosiv vare*
+
+   1. Alle de eksplosive varene skal undersøkes enkeltvis og egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2), eller tilsvarende prøver skal utføres for å vurdere samsvar med den «type» og de krav som gjelder i henhold til forskriften.
+   2. Produsenten skal sette eller sørge for å få satt sitt identifikasjonssymbol på hver godkjent eksplosiv vare og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.
+   3. Produsenten eller hans representant skal på oppfordring være i stand til å fremlegge det tekniske kontrollorgans samsvarsvurdering.
 
 *6) Modul G: verifisering av enkelteksemplarer*
 
 1. Denne modulen beskriver den fremgangsmåten som angår hvordan produsenten skal forsikre seg om og erklære at den eksplosive vare sertifikatet nevnt i nr. 2 er utstedt for, samsvarer med de krav i denne forskrift som får anvendelse. Produsenten skal sette CE-merket på den eksplosive varen og utstede en samsvarserklæring.
-2. Det tekniske kontrollorgan skal undersøke den eksplosive varen og utføre egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens § 3-2, eller tilsvarende prøver for å forsikre seg om at de er i samsvar med de grunnleggende krav i forskriften.Det tekniske kontrollorgan skal sette eller få satt sitt identifikasjonssymbol på den godkjente eksplosive varen og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.
-3. Formålet med den tekniske dokumentasjonen er å gjøre det mulig å vurdere samsvar med forskriftens krav og å forstå den eksplosive vares utforming, produksjon og funksjon.Dokumentene skal, i den grad det er nødvendig for vurderingen, inneholde:en alminnelig beskrivelse av «typen»,konstruksjons- og produksjonstegninger samt diagrammer som viser komponenter, delsammenstillinger, kretser osv.,de nødvendige beskrivelser og forklaringer for å kunne forstå nevnte tegninger og diagrammer samt den eksplosive vares eller sikringssystemets funksjon,en oversikt over de standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) som helt eller delvis får anvendelse, og en beskrivelse av de løsninger som er valgt for å oppfylle forskriftens grunnleggende krav når standardene nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2) ikke er blitt anvendt,resultatene av foretatte konstruksjonsberegninger og undersøkelser,prøverapportene.
+2. Det tekniske kontrollorgan skal undersøke den eksplosive varen og utføre egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens § 3-2, eller tilsvarende prøver for å forsikre seg om at de er i samsvar med de grunnleggende krav i forskriften.
+
+   Det tekniske kontrollorgan skal sette eller få satt sitt identifikasjonssymbol på den godkjente eksplosive varen og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.
+3. Formålet med den tekniske dokumentasjonen er å gjøre det mulig å vurdere samsvar med forskriftens krav og å forstå den eksplosive vares utforming, produksjon og funksjon.
+
+   Dokumentene skal, i den grad det er nødvendig for vurderingen, inneholde:
+
+   - en alminnelig beskrivelse av «typen»,
+   - konstruksjons- og produksjonstegninger samt diagrammer som viser komponenter, delsammenstillinger, kretser osv.,
+   - de nødvendige beskrivelser og forklaringer for å kunne forstå nevnte tegninger og diagrammer samt den eksplosive vares eller sikringssystemets funksjon,
+   - en oversikt over de standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) som helt eller delvis får anvendelse, og en beskrivelse av de løsninger som er valgt for å oppfylle forskriftens grunnleggende krav når standardene nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2) ikke er blitt anvendt,
+   - resultatene av foretatte konstruksjonsberegninger og undersøkelser,
+   - prøverapportene.
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
@@ -1623,7 +1912,11 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 1. Organet, dets direktør og kontrollpersonale skal være verken konstruktøren, produsenten, leverandøren eller montøren av de eksplosive varene de kontrollerer, og heller ikke representant for noen av disse personene. De skal verken direkte eller som representant medvirke til konstruksjonen, produksjonen, markedsføringen eller vedlikeholdet av disse eksplosive varene. Dette utelukker ikke muligheten for utveksling av tekniske opplysninger mellom produsenten og organet.
 2. Organet og dets kontrollpersonale skal utføre kontrollprøvene med den størst mulige faglige integritet og tekniske kompetanse og ikke la sin bedømmelse eller prøveresultatene påvirkes av noen form for press eller oppmuntring, spesielt av økonomisk art, særlig ikke fra personer eller grupper av personer som berøres av prøveresultatene.
 3. Organet skal råde over det nødvendige personale og ha det nødvendige utstyr for å kunne utføre de tekniske og administrative oppgaver i forbindelse med kontrollen på en tilfredsstillende måte. Det skal også ha adgang til det nødvendige utstyr for å kunne foreta spesialkontroll.
-4. Kontrollpersonalet skal ha:god teknisk og faglig utdanning,tilstrekkelig kjennskap til kravene for den kontroll det foretar, og nødvendig erfaring med slike prøver,nødvendig ferdighet i å utarbeide sertifikater, rapporter og uttalelser som viser resultatene av de utførte prøvene.
+4. Kontrollpersonalet skal ha:
+
+   - god teknisk og faglig utdanning,
+   - tilstrekkelig kjennskap til kravene for den kontroll det foretar, og nødvendig erfaring med slike prøver,
+   - nødvendig ferdighet i å utarbeide sertifikater, rapporter og uttalelser som viser resultatene av de utførte prøvene.
 5. Kontrollpersonalets uavhengighet skal garanteres. Lønnen til hver enkelt skal ikke være avhengig av antall prøver som utføres, eller av resultatene av prøvene.
 6. Organet skal tegne ansvarsforsikring, med mindre erstatningsansvaret dekkes av staten i samsvar med nasjonal lovgivning eller medlemsstaten selv er direkte ansvarlig for prøvene.
 7. Organets personale skal være underlagt taushetsplikt med hensyn til alle opplysninger organet mottar i forbindelse med oppgavene det utfører (unntatt overfor vedkommende forvaltningsmyndigheter i staten der det utfører sin virksomhet) som en følge av dette direktiv eller enhver internrettslig bestemmelse som gir det virkning.

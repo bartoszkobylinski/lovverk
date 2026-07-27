@@ -40,7 +40,11 @@ Den personen som det vert søkt tilskot for må ha hatt næringsinntekt frå jor
 
 Tilskotet kan gjevast til dekking av dokumenterte utgifter til avløysing.
 
-Som avløysing reknast ikkje arbeid utført av person somhar næringsinntekt frå føretaket eller nokon av føretaka i driftsfellesskapet,er ektefelle eller sambuar til nokon som har næringsinntekt frå føretaket eller føretaka i driftsfellesskapet, ellerer under 15 år.
+Som avløysing reknast ikkje arbeid utført av person som
+
+1. har næringsinntekt frå føretaket eller nokon av føretaka i driftsfellesskapet,
+2. er ektefelle eller sambuar til nokon som har næringsinntekt frå føretaket eller føretaka i driftsfellesskapet, eller
+3. er under 15 år.
 
 > Endra ved forskrifter [4 juli 2018 nr. 1151](forskrift/2018-07-04-1151) (i kraft 15 aug 2018), [17 des 2018 nr. 2120](forskrift/2018-12-17-2120) (i kraft 1 jan 2019).
 
@@ -56,7 +60,14 @@ Tilskot etter første ledd stansar når det er utbetalt tilskot for personen i t
 
 Det kan gjevast tilskot når den personen det vert søkt tilskot for er gravid og tek i mot svangerskapspengar, eller søkjer kan dokumentere med vedtak eller erklæring frå NAV at personen fyller dei medisinske vilkåra for rett til svangerskapspengar.
 
-Det kan gjevast tilskot når den det vert søkt tilskot for:tek i mot foreldrepengar etter [folketrygdlova kapittel 14](lov/1997-02-28-19/kap14),har fått eingongsstønad ved fødsel etter [folketrygdlova kapittel 14](lov/1997-02-28-19/kap14), ellerhar dagleg omsorg for eit barn og søkjar kan dokumenteremed avslagsvedtak eller erklæring frå Nav, at årsaka til at personen ikkje får foreldrepengar er at oppteningsvilkåra i [folketrygdlova § 14-6](lov/1997-02-28-19/§14-6) ikkje var oppfylte, ogmed attest frå Folkeregisteret, at personen er registrert som far eller medmor til barnet og bur saman med barnet på same adresse.
+Det kan gjevast tilskot når den det vert søkt tilskot for:
+
+1. tek i mot foreldrepengar etter [folketrygdlova kapittel 14](lov/1997-02-28-19/kap14),
+2. har fått eingongsstønad ved fødsel etter [folketrygdlova kapittel 14](lov/1997-02-28-19/kap14), eller
+3. har dagleg omsorg for eit barn og søkjar kan dokumentere
+
+   1. med avslagsvedtak eller erklæring frå Nav, at årsaka til at personen ikkje får foreldrepengar er at oppteningsvilkåra i [folketrygdlova § 14-6](lov/1997-02-28-19/§14-6) ikkje var oppfylte, og
+   2. med attest frå Folkeregisteret, at personen er registrert som far eller medmor til barnet og bur saman med barnet på same adresse.
 
 Tilskot etter andre ledd nr. 2 kan gjevast for ei samanhengande periode tilsvarande mødrekvota og fellesdelen av foreldrepengeperioden ved fullt uttak av 100 % foreldrepengar. Tilskot etter andre ledd nr. 3 kan gjevast for ei samanhengande periode tilsvarande fedrekvota ved fullt uttak av 100 % foreldrepengar.
 

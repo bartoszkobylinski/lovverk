@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Avgradering av dokumenter utstedt i Stortinget
 
-Følgende dokumenter utstedt i Stortinget som en del av dets parlamentariske virksomhet, vurderes for avgradering senest etter 30 år:Dagsorden, protokoller og referater fra møter for lukkede dører i Stortinget med tilhørende innstillinger og eventuelle andre dokumenter tilhørende saken utstedt i Stortinget.Dagsorden, protokoller og referater fra forhandlinger i den utvidede utenriks- og forsvarskomité som er underlagt taushetsplikt.Dagsorden, protokoller og referater fra forhandlinger i Europautvalget som er underlagt taushetsplikt.Stenografiske referater fra høringer for lukkede dører i komiteene.
+Følgende dokumenter utstedt i Stortinget som en del av dets parlamentariske virksomhet, vurderes for avgradering senest etter 30 år:
+
+1. Dagsorden, protokoller og referater fra møter for lukkede dører i Stortinget med tilhørende innstillinger og eventuelle andre dokumenter tilhørende saken utstedt i Stortinget.
+2. Dagsorden, protokoller og referater fra forhandlinger i den utvidede utenriks- og forsvarskomité som er underlagt taushetsplikt.
+3. Dagsorden, protokoller og referater fra forhandlinger i Europautvalget som er underlagt taushetsplikt.
+4. Stenografiske referater fra høringer for lukkede dører i komiteene.
 
 Dokumenter som ikke blir avgradert etter 30 år, revurderes etter 40 år og deretter hvert 10. år.
 

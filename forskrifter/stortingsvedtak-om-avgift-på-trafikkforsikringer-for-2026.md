@@ -15,7 +15,7 @@ xml_hash: "72a6ec3e3e5233af82db2684dea91c2de8b90e5e65611f10645ce145013f50b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen forforsikringsavtaler om lovbestemt trafikktrygd (ansvarsforsikring) for innenlandsregistrerte motorvognergebyr for uforsikrede motorvogner eller motorvogner der ny eier ikke har tegnet egen forsikring, og som Trafikkforsikringsforeningen har mottatt.
+Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen for
+
+1. forsikringsavtaler om lovbestemt trafikktrygd (ansvarsforsikring) for innenlandsregistrerte motorvogner
+2. gebyr for uforsikrede motorvogner eller motorvogner der ny eier ikke har tegnet egen forsikring, og som Trafikkforsikringsforeningen har mottatt.
 
 Avgiften omfatter ikke forsikringsavtaler eller gebyr for motorvogn som er omfattet av Stortingets vedtak om vektårsavgift.
 
@@ -50,13 +53,31 @@ Avgift skal betales med følgende beløp (kr) per døgn:
 | *Avgiftsgruppe g* |  |  |  |
 | varebiler med egenvekt under 1 785 kg som bare bruker elektrisitet til fremdrift, herunder varebiler hvor elektrisiteten er produsert i brenselceller | 8,70 | 8,96 | 0 |
 
-Avgiftsgruppe e omfatter følgende kjøretøy:motorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 9](lov/2002-06-21-45/§9) som drosje (ikke reserve- eller erstatningsdrosje) eller for transport av funksjonshemmedemotorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 6](lov/2002-06-21-45/§6) eller som er utleid på kontrakt med varighet på ett år eller mer mellom innehaver av slikt løyve og selskap i samme konsern. Dette gjelder også motorvogner som utfører rutetransport basert på kontrakt med varighet på ett år eller mer, inngått med myndighet eller selskap som har slikt ruteløyvemotorvogner som er godkjent og registrert som ambulanse eller som er registrert som begravelseskjøretøy på begravelsesbyrå og lignendemotorvogner som er registrert på kjennemerker med lysegule tegn på sort bunnmotorredskaperbeltekjøretøytrekkbiler som ikke omfattes av avgiftsgruppe a eller bmopedertraktorermotorvogner som er 30 år eller eldre.
+Avgiftsgruppe e omfatter følgende kjøretøy:
+
+1. motorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 9](lov/2002-06-21-45/§9) som drosje (ikke reserve- eller erstatningsdrosje) eller for transport av funksjonshemmede
+2. motorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 6](lov/2002-06-21-45/§6) eller som er utleid på kontrakt med varighet på ett år eller mer mellom innehaver av slikt løyve og selskap i samme konsern. Dette gjelder også motorvogner som utfører rutetransport basert på kontrakt med varighet på ett år eller mer, inngått med myndighet eller selskap som har slikt ruteløyve
+3. motorvogner som er godkjent og registrert som ambulanse eller som er registrert som begravelseskjøretøy på begravelsesbyrå og lignende
+4. motorvogner som er registrert på kjennemerker med lysegule tegn på sort bunn
+5. motorredskaper
+6. beltekjøretøy
+7. trekkbiler som ikke omfattes av avgiftsgruppe a eller b
+8. mopeder
+9. traktorer
+10. motorvogner som er 30 år eller eldre.
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten, og om grunnlaget for avgiften.
 
 ## § 3.
 
-Det gis fritak for avgift for forsikringsavtaler eller gebyr som gjelder:motorvogner som er registrert på kjennemerker med gule tegn på blå reflekterende bunnmotorvogner som er registrert på Den nordiske investeringsbank, og som er nødvendig for bankens offisielle virksomhetmotorvogner som er registrert på NATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fredmotorvogner registrert til bruk på Svalbardmotorvogner som er stjålettapte fordringer.
+Det gis fritak for avgift for forsikringsavtaler eller gebyr som gjelder:
+
+1. motorvogner som er registrert på kjennemerker med gule tegn på blå reflekterende bunn
+2. motorvogner som er registrert på Den nordiske investeringsbank, og som er nødvendig for bankens offisielle virksomhet
+3. motorvogner som er registrert på NATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred
+4. motorvogner registrert til bruk på Svalbard
+5. motorvogner som er stjålet
+6. tapte fordringer.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

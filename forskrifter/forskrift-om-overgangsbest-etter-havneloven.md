@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Definisjoner.
 
-I disse overgangsbestemmelsene betyr:Den tidligere lov: [lov 24. juni 1933 nr. 8](lov/1933-06-24-8) om havnevesenet.Den nye lov: [lov 8. juni 1984 nr. 51](lov/1984-06-08-51) om havner og farvann.
+I disse overgangsbestemmelsene betyr:
+
+1. Den tidligere lov: [lov 24. juni 1933 nr. 8](lov/1933-06-24-8) om havnevesenet.
+2. Den nye lov: [lov 8. juni 1984 nr. 51](lov/1984-06-08-51) om havner og farvann.
 
 ### § 2. (Opphevet ved forskrift 17 des 1993 nr. 1152.)
 

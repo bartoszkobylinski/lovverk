@@ -15,7 +15,7 @@ xml_hash: "3fdc6ab450064b7b16a07add44dc0735e9942874108c2cc22bdfcebb3b4ab44c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,9 @@ Med arbeidsskade forstås legemsskade eller sykdom forårsaket av arbeidsulykke,
 
 ## § 3. Ytelser.
 
-1\. Har arbeidsskaden ført med seg tap av ervervsevne eller forvoldt døden, gis ytelser etter kapittel III i [lov om yrkesskadetrygd.](lov/1958-12-12-10/kapiii)Ved bedømmelsen av tapet av ervervsevnen tas omsyn til skadedes muligheter for ervervsmessig inntekt før og etter den arbeidsterapeutiske behandling.
+1\. Har arbeidsskaden ført med seg tap av ervervsevne eller forvoldt døden, gis ytelser etter kapittel III i [lov om yrkesskadetrygd.](lov/1958-12-12-10/kapiii)
+
+Ved bedømmelsen av tapet av ervervsevnen tas omsyn til skadedes muligheter for ervervsmessig inntekt før og etter den arbeidsterapeutiske behandling.
 
 2\. Skadede har ikke rett til uførepensjon før fra og med den måned han fyller 18 år. Dersom særlige grunner taler for det kan det gis hel eller delvis uførepensjon fra et tidligere tidspunkt.
 

@@ -30,7 +30,12 @@ Forskriften gjelder høyere yrkesfaglig utdanning (fagskoleutdanning) som er omf
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Emne:* De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. Hva som anvendes som begrep for den minste resultatbærende enheten, varierer fra fagskole til fagskole (modul, fag, emne, enhet, sertifikat).*Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.*Realkompetansevurdering:* En prosess for å vurdere den enkeltes kompetanse opp mot fastsatte kriterier. Vurderingen kan føre til opptak til fagskoleutdanning eller fritak fra deler av en fagskoleutdanning.*GSU-liste:* En oversikt over hvilke videregående utdanninger fra land utenfor Norden som gir generell studiekompetanse, med angivelse av tilleggskrav i norsk og engelsk der det er aktuelt.
+I denne forskriften menes med:
+
+1. *Emne:* De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. Hva som anvendes som begrep for den minste resultatbærende enheten, varierer fra fagskole til fagskole (modul, fag, emne, enhet, sertifikat).
+2. *Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
+3. *Realkompetansevurdering:* En prosess for å vurdere den enkeltes kompetanse opp mot fastsatte kriterier. Vurderingen kan føre til opptak til fagskoleutdanning eller fritak fra deler av en fagskoleutdanning.
+4. *GSU-liste:* En oversikt over hvilke videregående utdanninger fra land utenfor Norden som gir generell studiekompetanse, med angivelse av tilleggskrav i norsk og engelsk der det er aktuelt.
 
 > Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
 
@@ -110,11 +115,20 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger fastsetter fagskolen i forskrift om søkere må dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -136,7 +150,12 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 ### § 11. Opptak på visse vilkår (betinget opptak)
 
-(1) Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøkeren har standpunktkarakteren 2 eller bedre i fagetikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.
+(1) Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+1. søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak
+2. søkeren har standpunktkarakteren 2 eller bedre i faget
+3. ikke allerede har avsluttende vurdering i faget, og
+4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 (2) Med spesielle omstendigheter menes sykdom, ulykker eller dødsfall i nær familie. Fagskolen kan gi betinget opptak på grunn av andre spesielle omstendigheter.
 
@@ -180,7 +199,10 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
 
-(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
+(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:
+
+1. et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.
+2. hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
 
 (3) Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
 
@@ -266,7 +288,12 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 29. Vurderingskriterier
 
-(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter § 26:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter § 26:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 (2) Departementet kan fastsette tilleggskriterier for enkeltutdanninger i særskilte tilfeller.
 
@@ -280,7 +307,13 @@ Hver fagskole har plikt til å gi tilstrekkelig og relevant informasjon om fagsk
 
 (1) Styret selv skal oppnevne en skikkethetsnemnd. Flere fagskoler kan gå sammen om en felles skikkethetsnemnd. En fagskole eller dens eier kan administrere en slik felles skikkethetsnemnd.
 
-(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder eller tilsvarende funksjon er nemndas leder og har dobbeltstemme.
 
@@ -368,7 +401,15 @@ Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av o
 
 ### § 43. Virkeområde
 
-Den nasjonale klagenemndas oppgave er å behandle klager over enkeltvedtak truffet med hjemmel i:[fagskoleloven § 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. [§ 7](lov/2018-06-08-28/§7) første ledd eller spesielle opptakskrav jf. [§ 7](lov/2018-06-08-28/§7) femte ledd[fagskoleloven § 16a tredje ledd](lov/2018-06-08-28/§16a/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet[fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
+Den nasjonale klagenemndas oppgave er å behandle klager over enkeltvedtak truffet med hjemmel i:
+
+1. [fagskoleloven § 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid
+2. [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. [§ 7](lov/2018-06-08-28/§7) første ledd eller spesielle opptakskrav jf. [§ 7](lov/2018-06-08-28/§7) femte ledd
+3. [fagskoleloven § 16a tredje ledd](lov/2018-06-08-28/§16a/ledd/3) om inndragning, annullering og karantenetid
+4. [fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve
+5. [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging
+6. [fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet
+7. [fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
 
 > Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
 
@@ -376,7 +417,12 @@ Den nasjonale klagenemndas oppgave er å behandle klager over enkeltvedtak truff
 
 (1) Klagenemnda oppnevnes av departementet.
 
-(2) Klagenemnda skal ha sju medlemmer og skal være sammensatt slik:en leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.to medlemmer med to numeriske varamedlemmer som er ansatt ved en fagskole.ett medlem med personlig varamedlem fra forvaltningsområdet for videregående opplæring.to medlemmer med ett varamedlem som representerer studentene. Medlemmene skal oppnevnes i samsvar med forslag fra representative studentorganisasjoner.
+(2) Klagenemnda skal ha sju medlemmer og skal være sammensatt slik:
+
+1. en leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.
+2. to medlemmer med to numeriske varamedlemmer som er ansatt ved en fagskole.
+3. ett medlem med personlig varamedlem fra forvaltningsområdet for videregående opplæring.
+4. to medlemmer med ett varamedlem som representerer studentene. Medlemmene skal oppnevnes i samsvar med forslag fra representative studentorganisasjoner.
 
 (3) Medlemmene oppnevnes for inntil fire år, med unntak av studentrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
 
@@ -404,7 +450,10 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 ### § 46. Oppnevning av sakkyndige
 
-(1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:akkreditering av fagskoleutdanning etter [§ 47](forskrift/2019-07-11-1005/§47) og fagområde etter [§ 48](forskrift/2019-07-11-1005/§48), med mindre kravene i [§ 47](forskrift/2019-07-11-1005/§47) andre ledd og [§ 48](forskrift/2019-07-11-1005/§48) andre ledd er oppfylttilsyn med om vilkårene for akkreditering er oppfylt hvis det skal foretas faglige vurderinger, eller når vurderingen kan medføre tilbaketrekking av akkreditering, jf. [fagskoleloven § 5c](lov/2018-06-08-28/§5c).
+(1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:
+
+1. akkreditering av fagskoleutdanning etter [§ 47](forskrift/2019-07-11-1005/§47) og fagområde etter [§ 48](forskrift/2019-07-11-1005/§48), med mindre kravene i [§ 47](forskrift/2019-07-11-1005/§47) andre ledd og [§ 48](forskrift/2019-07-11-1005/§48) andre ledd er oppfylt
+2. tilsyn med om vilkårene for akkreditering er oppfylt hvis det skal foretas faglige vurderinger, eller når vurderingen kan medføre tilbaketrekking av akkreditering, jf. [fagskoleloven § 5c](lov/2018-06-08-28/§5c).
 
 (2) De sakkyndige skal avgi rapport med anbefalinger om vedtak til NOKUT.
 
@@ -430,7 +479,11 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 ### § 48. Akkreditering for fagområde
 
-(1) Vilkår for å få behandlet søknad om akkreditering for fagområde:Fagskolens primærvirksomhet skal være utdanning og være tydelig avgrenset fra eventuell annen virksomhetFagskolen må ha uteksaminert kandidater i minst én akkreditert fagskoleutdanning i minst to årFagskolen må dokumentere deltakelse i garanti- eller forsikringsordning som sikrer studenter refusjon av innbetalte skolepenger dersom fagskolen frivillig eller pålagt stanser en fagskoleutdanning og dette medfører at noen studenter ikke får fullført utdanningen etter oppsatt plan. Garanti- eller forsikringsordningen skal dekke innbetalte skolepenger for fagskoleutdanninger som enten blir avbrutt eller ikke starter.
+(1) Vilkår for å få behandlet søknad om akkreditering for fagområde:
+
+1. Fagskolens primærvirksomhet skal være utdanning og være tydelig avgrenset fra eventuell annen virksomhet
+2. Fagskolen må ha uteksaminert kandidater i minst én akkreditert fagskoleutdanning i minst to år
+3. Fagskolen må dokumentere deltakelse i garanti- eller forsikringsordning som sikrer studenter refusjon av innbetalte skolepenger dersom fagskolen frivillig eller pålagt stanser en fagskoleutdanning og dette medfører at noen studenter ikke får fullført utdanningen etter oppsatt plan. Garanti- eller forsikringsordningen skal dekke innbetalte skolepenger for fagskoleutdanninger som enten blir avbrutt eller ikke starter.
 
 (2) NOKUT kan avvise behandling av søknad uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig behandling. NOKUT kan avslå en søknad uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
 
@@ -470,7 +523,13 @@ Dersom det ikke har blitt tatt opp studenter og ingen studerer ved utdanningen i
 
 ### § 54. NOKUTs myndighet til å fastsette utfyllende bestemmelser
 
-NOKUT kan fastsette utfyllende bestemmelser til denne forskrift omvilkår for akkreditering av fagskoleutdanningvilkår for akkreditering for fagområdevilkår for institusjonsakkrediteringkrav til fagskolenes system for kvalitetssikring av utdanningen og krav til fagskolenes kvalitetsarbeidsaksbehandlingsregler for NOKUTs akkrediteringsarbeid, tilsyn med fagskolenes kvalitetsarbeid og med kvaliteten i fagskoleutdanninger og i akkrediterte fagområder.
+NOKUT kan fastsette utfyllende bestemmelser til denne forskrift om
+
+1. vilkår for akkreditering av fagskoleutdanning
+2. vilkår for akkreditering for fagområde
+3. vilkår for institusjonsakkreditering
+4. krav til fagskolenes system for kvalitetssikring av utdanningen og krav til fagskolenes kvalitetsarbeid
+5. saksbehandlingsregler for NOKUTs akkrediteringsarbeid, tilsyn med fagskolenes kvalitetsarbeid og med kvaliteten i fagskoleutdanninger og i akkrediterte fagområder.
 
 > Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
 
@@ -484,7 +543,12 @@ NOKUTs enkeltvedtak etter [fagskoleloven § 5](lov/2018-06-08-28/§5) og [§ 5a]
 
 ### § 56. Søkerens plikt til å fremlegge dokumentasjon
 
-(1) Søkere må legge følgende dokumenter ved søknaden:vitnemål eller tilsvarende bevis på fullført fagskoleutdanning eller annen yrkesfaglig utdanning på tilsvarende nivå, og tilhørende karakterutskriftdokumentasjon på fag- eller svennebrev, fullført utdanning eller realkompetanse som ga opptak til utdanningen nevnt i abevis på eventuell navneendringoversettelse til norsk eller engelsk av dokumentene nevnt i a, b og c dersom dokumentene er utferdiget på et annet språk enn norsk, engelsk, finsk, dansk, svensk eller islandsk. Oversettelsen må være utført av statsautorisert translatør eller oversettelsesbyrå.
+(1) Søkere må legge følgende dokumenter ved søknaden:
+
+1. vitnemål eller tilsvarende bevis på fullført fagskoleutdanning eller annen yrkesfaglig utdanning på tilsvarende nivå, og tilhørende karakterutskrift
+2. dokumentasjon på fag- eller svennebrev, fullført utdanning eller realkompetanse som ga opptak til utdanningen nevnt i a
+3. bevis på eventuell navneendring
+4. oversettelse til norsk eller engelsk av dokumentene nevnt i a, b og c dersom dokumentene er utferdiget på et annet språk enn norsk, engelsk, finsk, dansk, svensk eller islandsk. Oversettelsen må være utført av statsautorisert translatør eller oversettelsesbyrå.
 
 (2) Søkere som ikke benytter elektronisk ID, må laste opp gyldige identitetsdokumenter.
 

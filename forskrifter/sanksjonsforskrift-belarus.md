@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder:på norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norskj e statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Forskriften gjelder:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjon
+3. for alle norskj e statsborgere og personer med bosted i Norge
+4. for alle foretak registrert i Foretaksregisteret
+5. for alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 Forskriften gjelder på Svalbard og Jan Mayen.
 
@@ -100,11 +106,80 @@ om restriktive tiltak i lys av situasjonen i Belarus og Belarus' medvirkning i R
 
 ### Artikkel 1
 
-I denne forordning menes med*penger:* finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eienandeler i penger eller finansielle ressurser.*frysing av penger:* å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,*formuesgoder:* alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,*frysing av formuesgoder:* å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til, å selge, leie ut eller pantsette dem.*EUs territorium:* de av medlemsstatenes territorier der traktaten om opprettelse av Det europeiske fellesskap kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder deres luftrom,*faglig bistand:* enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, framstilling, sammenstilling, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand.*belarusisk luftfartsselskap:* et luftfartsselskap som innehar en gyldig lisens eller tilsvarende som er utstedt av Belarus' kompetente myndigheter.*flerbruksvarer og flerbruksteknologi:* produktene oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428).*investeringstjenester:* følgende tjenester og virksomhet:mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,effektuering av ordrer på vegne av kunder,handel for egen regning,porteføljeforvaltning,investeringsrådgivning,garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,plassering av finansielle instrumenter uten fast forpliktelse,enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem.*omsettelige verdipapirer:* følgende kategorier av verdipapirer, herunder i form av kryptoeiendeler, som kan omsettes på kapitalmarkedet, unntatt betalingsmidler:aksjer i selskaper og andre verdipapirer som kan sidestilles med aksjer i selskaper, ansvarlige selskaper eller andre foretak, og depotbeviser for aksjer,obligasjoner eller andre typer gjeldsinstrumenter, herunder depotbeviser for slike verdipapirer,alle andre verdipapirer som gir rett til å kjøpe eller selge slike omsettelige verdipapirer, eller som fører til kontantoppgjør fastsatt med henvisning til omsettelige verdipapirer.*pengemarkedsinstrumenter:* de kategoriene av instrumenter som vanligvis omsettes i pengemarkedet, for eksempel statskasseveksler, innskuddsbeviser og sertifikater, unntatt betalingsmidler.*kredittinstitusjon:* et foretak hvis virksomhet består i å motta fra offentligheten innskudd eller andre midler som skal betales tilbake, og å yte kreditt for egen regning.*formidlingstjenester:*forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland.*offentlig foretak:* et foretak som ikke er en kredittinstitusjon, og som er etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021.*krav:* ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før, på eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet.*kontrakt eller transaksjon:* enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen.*finansiering eller finansiell bistand:* enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøperkreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring; betaling samt vilkår for betaling av den avtalte prisen for en vare eller tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand.*partnerland:* et land som anvender et sett med tiltak for eksportkontroll som hovedsakelig tilsvarer dem som er fastsatt i denne forordningen, som oppført i vedlegg Vb.*forbrukerkommunikasjonsutstyr:* utstyr som brukes av privatpersoner, for eksempel PC-er og tilhørende utstyr (som harddisker og skrivere), mobiltelefoner, smart-TV-er og lagerenheter (USB-minnepinner) samt forbrukerprogramvare for dette utstyret.*verdipapirsentral:* en juridisk person som definert i artikkel 2 nr. 1 punkt 1) i europaparlaments- og rådsforordning [(EU) nr. 909/2014](eu/32014r0909).*innskudd:* en kreditsaldo som er resultat av penger på en konto eller av midlertidige situasjoner som følger av normale banktransaksjoner, og som en kredittinstitusjon er forpliktet til å tilbakebetale i henhold til gjeldende juridiske vilkår og kontraktsvilkår, herunder tidsinnskudd og spareinnskudd, men ikke kreditsaldoersom bare kan dokumenteres ved et finansielt instrument som definert i artikkel 4 nr. 1 punkt 15) i europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), med mindre det er et spareprodukt som kan dokumenteres ved et innskuddsbevis utstedt til en navngitt person, og som foreligger i en medlemsstat 2. juli 2014,der hovedstolen ikke kan tilbakebetales til pari kurs,der hovedstolen bare kan tilbakebetales til pari kurs i henhold til en særlig garanti fra eller avtale med kredittinstitusjonen eller en tredjepart.*ordninger for statsborgerskap ved investering (eller «gylne pass»):* prosedyrer der en medlemsstat legger til rette for at statsborgere fra tredjeland kan få statsborgerskap i bytte mot forhåndsavtalte betalinger og investeringer.*ordninger for oppholdstillatelse ved investering (eller «gylne visa»):* prosedyrer der en medlemsstat legger til rette for at statsborgere fra tredjeland kan få oppholdstillatelse i en medlemsstat i bytte mot forhåndsavtalte betalinger og investeringer.*«handelsplass»:* et regulert marked, en multilateral handelsfasilitet eller en organisert handelsfasilitet (OHF), som definert i artikkel 4 nr. 1 punkt 24) i direktiv [2014/65/EU](eu/32014l0065).*veitransportforetak:* alle fysiske eller juridiske personer, enheter eller organer som driver godstransport for kommersielle formål ved bruk av motorvogner eller vogntog.*kompetente myndigheter:* medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II.*energisektor:* en sektor som omfatter følgende virksomhet, med unntak av sivil atomrelatert virksomhet:kartlegging, produksjon og distribusjon innenfor Belarus eller utvinning av råolje, naturgass eller fast fossilt brensel, raffinering av brensel, omdanning til væske av naturgass eller regassifisering,produksjon eller distribusjon innenfor Belarus av faste fossile brenselsprodukter, raffinerte petroleumsprodukter eller gass, elleroppføring av anlegg eller installasjon av utstyr for, eller levering av tjenester, utstyr eller teknologi til, virksomhet knyttet til kraftproduksjon eller elektrisitetsproduksjon.
+I denne forordning menes med
+
+1. *penger:* finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eienandeler i penger eller finansielle ressurser.
+2. *frysing av penger:* å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+3. *formuesgoder:* alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+4. *frysing av formuesgoder:* å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til, å selge, leie ut eller pantsette dem.
+5. *EUs territorium:* de av medlemsstatenes territorier der traktaten om opprettelse av Det europeiske fellesskap kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder deres luftrom,
+6. *faglig bistand:* enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, framstilling, sammenstilling, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand.
+7. *belarusisk luftfartsselskap:* et luftfartsselskap som innehar en gyldig lisens eller tilsvarende som er utstedt av Belarus' kompetente myndigheter.
+8. *flerbruksvarer og flerbruksteknologi:* produktene oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428).
+9. *investeringstjenester:* følgende tjenester og virksomhet:
+
+   1. mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,
+   2. effektuering av ordrer på vegne av kunder,
+   3. handel for egen regning,
+   4. porteføljeforvaltning,
+   5. investeringsrådgivning,
+   6. garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,
+   7. plassering av finansielle instrumenter uten fast forpliktelse,
+   8. enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem.
+10. *omsettelige verdipapirer:* følgende kategorier av verdipapirer, herunder i form av kryptoeiendeler, som kan omsettes på kapitalmarkedet, unntatt betalingsmidler:
+
+    1. aksjer i selskaper og andre verdipapirer som kan sidestilles med aksjer i selskaper, ansvarlige selskaper eller andre foretak, og depotbeviser for aksjer,
+    2. obligasjoner eller andre typer gjeldsinstrumenter, herunder depotbeviser for slike verdipapirer,
+    3. alle andre verdipapirer som gir rett til å kjøpe eller selge slike omsettelige verdipapirer, eller som fører til kontantoppgjør fastsatt med henvisning til omsettelige verdipapirer.
+11. *pengemarkedsinstrumenter:* de kategoriene av instrumenter som vanligvis omsettes i pengemarkedet, for eksempel statskasseveksler, innskuddsbeviser og sertifikater, unntatt betalingsmidler.
+12. *kredittinstitusjon:* et foretak hvis virksomhet består i å motta fra offentligheten innskudd eller andre midler som skal betales tilbake, og å yte kreditt for egen regning.
+13. *formidlingstjenester:*
+
+    1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, eller
+    2. salg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland.
+14. *offentlig foretak:* et foretak som ikke er en kredittinstitusjon, og som er etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021.
+15. *krav:* ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før, på eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+    1. krav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+    2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+    3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+    4. motkrav,
+    5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet.
+16. *kontrakt eller transaksjon:* enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen.
+17. *finansiering eller finansiell bistand:* enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøperkreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring; betaling samt vilkår for betaling av den avtalte prisen for en vare eller tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand.
+18. *partnerland:* et land som anvender et sett med tiltak for eksportkontroll som hovedsakelig tilsvarer dem som er fastsatt i denne forordningen, som oppført i vedlegg Vb.
+19. *forbrukerkommunikasjonsutstyr:* utstyr som brukes av privatpersoner, for eksempel PC-er og tilhørende utstyr (som harddisker og skrivere), mobiltelefoner, smart-TV-er og lagerenheter (USB-minnepinner) samt forbrukerprogramvare for dette utstyret.
+20. *verdipapirsentral:* en juridisk person som definert i artikkel 2 nr. 1 punkt 1) i europaparlaments- og rådsforordning [(EU) nr. 909/2014](eu/32014r0909).
+21. *innskudd:* en kreditsaldo som er resultat av penger på en konto eller av midlertidige situasjoner som følger av normale banktransaksjoner, og som en kredittinstitusjon er forpliktet til å tilbakebetale i henhold til gjeldende juridiske vilkår og kontraktsvilkår, herunder tidsinnskudd og spareinnskudd, men ikke kreditsaldoer
+
+    1. som bare kan dokumenteres ved et finansielt instrument som definert i artikkel 4 nr. 1 punkt 15) i europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), med mindre det er et spareprodukt som kan dokumenteres ved et innskuddsbevis utstedt til en navngitt person, og som foreligger i en medlemsstat 2. juli 2014,
+    2. der hovedstolen ikke kan tilbakebetales til pari kurs,
+    3. der hovedstolen bare kan tilbakebetales til pari kurs i henhold til en særlig garanti fra eller avtale med kredittinstitusjonen eller en tredjepart.
+22. *ordninger for statsborgerskap ved investering (eller «gylne pass»):* prosedyrer der en medlemsstat legger til rette for at statsborgere fra tredjeland kan få statsborgerskap i bytte mot forhåndsavtalte betalinger og investeringer.
+23. *ordninger for oppholdstillatelse ved investering (eller «gylne visa»):* prosedyrer der en medlemsstat legger til rette for at statsborgere fra tredjeland kan få oppholdstillatelse i en medlemsstat i bytte mot forhåndsavtalte betalinger og investeringer.
+24. *«handelsplass»:* et regulert marked, en multilateral handelsfasilitet eller en organisert handelsfasilitet (OHF), som definert i artikkel 4 nr. 1 punkt 24) i direktiv [2014/65/EU](eu/32014l0065).
+25. *veitransportforetak:* alle fysiske eller juridiske personer, enheter eller organer som driver godstransport for kommersielle formål ved bruk av motorvogner eller vogntog.
+26. *kompetente myndigheter:* medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II.
+27. *energisektor:* en sektor som omfatter følgende virksomhet, med unntak av sivil atomrelatert virksomhet:
+
+    1. kartlegging, produksjon og distribusjon innenfor Belarus eller utvinning av råolje, naturgass eller fast fossilt brensel, raffinering av brensel, omdanning til væske av naturgass eller regassifisering,
+    2. produksjon eller distribusjon innenfor Belarus av faste fossile brenselsprodukter, raffinerte petroleumsprodukter eller gass, eller
+    3. oppføring av anlegg eller installasjon av utstyr for, eller levering av tjenester, utstyr eller teknologi til, virksomhet knyttet til kraftproduksjon eller elektrisitetsproduksjon.
 
 ### Artikkel 1a
 
-1\. Det er forbudtå selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr som kan brukes til intern undertrykking, og som er oppført i vedlegg III, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i eller til bruk i Belarus,forsettlig å delta i virksomhet som direkte eller indirekte har som formål eller følge å omgå forbudet i denne artikkelens bokstav a).
+1\. Det er forbudt
+
+1. å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr som kan brukes til intern undertrykking, og som er oppført i vedlegg III, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i eller til bruk i Belarus,
+2. forsettlig å delta i virksomhet som direkte eller indirekte har som formål eller følge å omgå forbudet i denne artikkelens bokstav a).
 
 2\. Forbudene fastsatt i nr. 1 får ikke anvendelse på beskyttelsestøy, herunder skuddsikre vester og militære hjelmer, som eksporteres midlertidig til Belarus av og til bruk for personell fra FN, EU eller medlemsstatene, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere eller tilknyttet personell.
 
@@ -112,10 +187,18 @@ I denne forordning menes med*penger:* finansielle aktiva og fordeler av enhver a
 
 ### Artikkel 1b
 
-1\. Det er forbudtå yte, direkte eller indirekte, faglig bistand og formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («EUs felles militære liste»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på den nevnte listen, til fysiske eller juridiske personer, enheter eller organer i Belarus eller for bruk i Belarus,å yte, direkte eller indirekte, faglig bistand eller formidlingstjenester knyttet til utstyr som kan bli brukt til intern undertrykking, og som er oppført i vedlegg III, til personer, enheter eller organer i Belarus eller for bruk i Belarus,å yte, direkte eller indireke, finansiering eller finansiell bistand knyttet til varer eller teknologi oppført på EUs felles militære liste eller i vedlegg III, herunder særlig tilskudd, lån og eksportkredittforsikringer, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til personer, enheter eller organer i eller til bruk i Belarus,forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a), b) og c).
+1\. Det er forbudt
 
-2\. Forbudet fastsatt i nr. 1 kommer ikke til anvendelse påmilitært ikke-dødbringende utstyr eller utstyr som kan brukes til intern undertrykking, dersom utstyret utelukkende er for humanitær bruk eller beskyttelsesbruk eller til bruk for FNs og EUs institusjonsbyggingsprogram, eller for EUs eller FNs krisehåndteringsoperasjoner, ellerikke-stridskjøretøy, som er produsert eller utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er ment for beskyttende bruk av personell fra EU og EUs medlemsstater i Belarus,
-forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II, har gitt sin forhåndsgodkjenning.
+1. å yte, direkte eller indirekte, faglig bistand og formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («EUs felles militære liste»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på den nevnte listen, til fysiske eller juridiske personer, enheter eller organer i Belarus eller for bruk i Belarus,
+2. å yte, direkte eller indirekte, faglig bistand eller formidlingstjenester knyttet til utstyr som kan bli brukt til intern undertrykking, og som er oppført i vedlegg III, til personer, enheter eller organer i Belarus eller for bruk i Belarus,
+3. å yte, direkte eller indireke, finansiering eller finansiell bistand knyttet til varer eller teknologi oppført på EUs felles militære liste eller i vedlegg III, herunder særlig tilskudd, lån og eksportkredittforsikringer, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til personer, enheter eller organer i eller til bruk i Belarus,
+4. forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a), b) og c).
+
+2\. Forbudet fastsatt i nr. 1 kommer ikke til anvendelse på
+
+1. militært ikke-dødbringende utstyr eller utstyr som kan brukes til intern undertrykking, dersom utstyret utelukkende er for humanitær bruk eller beskyttelsesbruk eller til bruk for FNs og EUs institusjonsbyggingsprogram, eller for EUs eller FNs krisehåndteringsoperasjoner, eller
+2. ikke-stridskjøretøy, som er produsert eller utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er ment for beskyttende bruk av personell fra EU og EUs medlemsstater i Belarus,
+   forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II, har gitt sin forhåndsgodkjenning.
 
 3\. Forbudet fastsatt i nummer 1 kommer ikke til anvendelse på beskyttelsesklær, herunder skuddsikre vester og militærhjelmer, som midlertidig eksporteres til Belarus av personell fra FN eller Unionen eller dens medlemsstater, representanter for mediene, humanitære hjelpearbeidere og bistandsarbeidere og tilknyttet personell, og som utelukkende er for deres personlige bruk.
 
@@ -125,7 +208,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1a. Transitt gjennom Belarus' territorium av skytevåpen samt deler, vesentlige komponenter og ammunisjon til skytevåpen, som nevnt i nr. 1, eksportert fra EU, er forbudt.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av disse varene til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av disse varene, eller i forbindelse med yting av tilhørende faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi som nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av disse varene til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av disse varene, eller i forbindelse med yting av tilhørende faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi som nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 ### Artikkel 1bb
 
@@ -133,7 +220,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 2\. Transitt gjennom Belarus' territorium av varer og teknologi oppført i vedlegg XIX, eksportert fra EU, er forbudt.
 
-3\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til, fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+3\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til, fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 4\. Forbudene i nr. 1 og 3 gjelder ikke oppfyllelse innen 2. oktober 2024 av kontrakter inngått før 1. juli 2024 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
@@ -143,7 +234,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 7\. Forbudene nevnt i nr. 1 og 3 gjelder ikke varer som er nødvendige for offisielle formål til medlemsstatenes eller partnerlandenes diplomatiske eller konsulære representasjoner i Belarus eller internasjonale organisasjoner, som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige eiendeler.
 
-8\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi oppført i vedlegg XVIII, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendige formedisinske eller farmasøytiske formål, eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer,utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus, ellerfor etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
+8\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi oppført i vedlegg XVIII, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendige for
+
+1. medisinske eller farmasøytiske formål, eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer,
+2. utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus, eller
+3. for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
 
 9\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kode 8417 20, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansielle bistanden er nødvendig for personlig bruk i fysiske personers husholdning.
 
@@ -153,7 +248,10 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 12\. Som unntak fra nr. 1 og 3 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som faller inn under KN-kode 3917, 8523 og 8536 som oppført i vedlegg XVIII, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig for vedlikehold eller reparasjon av medisinsk utstyr.
 
-13\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansiell bistanden er nødvendig for personlig bruk i fysiske personers husholdning i Belarus:varer som faller inn under KN-kode 8417 20,rør og rørdeler av kobber som faller inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm.
+13\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansiell bistanden er nødvendig for personlig bruk i fysiske personers husholdning i Belarus:
+
+1. varer som faller inn under KN-kode 8417 20,
+2. rør og rørdeler av kobber som faller inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm.
 
 14\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kode 3917 10, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer selges, leveres, overføres eller eksporteres utelukkende med henblikk på framstilling av næringsmidler for konsum i Belarus.
 
@@ -173,7 +271,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 ### Artikkel 1d
 
-1\. Med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse i samsvar med artikkel 1c nr. 2, er det forbudtdirekte eller indirekte å yte faglig bistand eller meglertjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg IV eller til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg IV, eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg IV, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg IV til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller internettforbindelser, til eller til direkte eller indirekte fordel for Belarus' regjering, offentlige organer, foretak og etater eller til fysiske eller juridiske personer eller enheter som handler på deres vegne eller på deres instruks.
+1\. Med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse i samsvar med artikkel 1c nr. 2, er det forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller meglertjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg IV eller til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg IV, eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg IV, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg IV til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+3. å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller internettforbindelser, til eller til direkte eller indirekte fordel for Belarus' regjering, offentlige organer, foretak og etater eller til fysiske eller juridiske personer eller enheter som handler på deres vegne eller på deres instruks.
 
 2\. Med «overvåking eller avlytting av telekommunikasjon eller internettforbindelser» i artikkel 1 bokstav c menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg IV, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
 
@@ -183,13 +285,35 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1a. Transitt gjennom Belarus' territorium av flerbruksvarer og flerbruksteknologi som nevnt i nr. 1, eksportert fra EU, er forbudt.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
 
-3\. Uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821) gjelder forbudene i nr. 1 og 2 i denne artikkelen ikke salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet påhumanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,medisinske eller farmasøytiske formål,midlertidig eksport av varer til bruk av nyhetsmedier,programvareoppdateringer,bruk som forbrukerkommunikasjonsutstyr, ellerpersonlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
+3\. Uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821) gjelder forbudene i nr. 1 og 2 i denne artikkelen ikke salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+
+1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,
+2. medisinske eller farmasøytiske formål,
+3. midlertidig eksport av varer til bruk av nyhetsmedier,
+4. programvareoppdateringer,
+5. bruk som forbrukerkommunikasjonsutstyr, eller
+6. personlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.
+
+Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
 
 3a. Uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821) gjelder forbudet i nr. 1a i denne artikkelen ikke transitt gjennom Belarus' territorium av flerbruksvarer og flerbruksteknologi beregnet på formålene fastsatt i nr. 3 bokstav a–e i denne artikkelen.
 
-4\. Som unntak fra nr. 1 og nr. 2 i denne artikkelen, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet påsamarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,mellomstatlig samarbeid innenfor romprogrammer,drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,maritim sikkerhet,sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av juridisk personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner, ellerå sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus’ regjering og foretak som direkte eller indirekte kontrolleres av Belarus’ regjering.
+4\. Som unntak fra nr. 1 og nr. 2 i denne artikkelen, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på
+
+1. samarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,
+2. mellomstatlig samarbeid innenfor romprogrammer,
+3. drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+4. maritim sikkerhet,
+5. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
+6. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av juridisk personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
+7. EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner, eller
+8. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus’ regjering og foretak som direkte eller indirekte kontrolleres av Belarus’ regjering.
 
 4a. Som unntak fra nr. 1a, og uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate transitt gjennom Belarus' territorium av flerbruksvarer og flerbruksteknologi etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 4 bokstav b, c, d og h i denne artikkelen.
 
@@ -197,7 +321,10 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 6\. Tillatelser som kreves i henhold til denne artikkelen, skal gis av den kompetente myndigheten i samsvar med reglene og fremgangsmåtene fastsatt i forordning [(EU) 2021/821](eu/32021r0821), som får tilsvarende anvendelse Tillatelsene skal være gyldige i hele EU.
 
-7\. Når den kompetente myndigheten treffer beslutninger om tillatelse i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom den har rimelig grunn til å tro atsluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1 bokstav a), ellersalg, levering, overføring eller eksport av varer og teknologi nevnt i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
+7\. Når den kompetente myndigheten treffer beslutninger om tillatelse i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom den har rimelig grunn til å tro at
+
+1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1 bokstav a), eller
+2. salg, levering, overføring eller eksport av varer og teknologi nevnt i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
 
 8\. Den kompetente myndigheten kan oppheve, suspendere, endre eller tilbakekalle en tillatelse som den har gitt i henhold til nr. 4 og nr. 5, dersom den finner at en slik opphevelse, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forordningen.
 
@@ -207,13 +334,36 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1a. Transitt gjennom Belarus' territorium av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va, eksportert fra EU, er forbudt.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
 
-3\. Forbudene i nr. 1 og nr. 2 gjelder ikke salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet påhumanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,medisinske eller farmasøytiske formål,midlertidig eksport av varer til bruk av nyhetsmedier,programvareoppdateringer,bruk som forbrukerkommunikasjonsutstyr, ellerpersonlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
+3\. Forbudene i nr. 1 og nr. 2 gjelder ikke salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+
+1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,
+2. medisinske eller farmasøytiske formål,
+3. midlertidig eksport av varer til bruk av nyhetsmedier,
+4. programvareoppdateringer,
+5. bruk som forbrukerkommunikasjonsutstyr, eller
+6. personlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.
+
+Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
 
 3a. Forbudet i nr. 1a gjelder ikke transitt gjennom Belarus' territorium av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va, og som er ment til bruk for formålene fastsatt i nr. 3 bokstav a–e.
 
-4\. Som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varene og teknologien omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet påsamarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,mellomstatlig samarbeid innenfor romprogrammer,drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,maritim sikkerhet,sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av en juridisk person, enhet eller organ som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus' regjering og foretak som direkte eller indirekte kontrolleres av Belarus' regjeringen, ellerutelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus.
+4\. Som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varene og teknologien omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på
+
+1. samarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,
+2. mellomstatlig samarbeid innenfor romprogrammer,
+3. drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+4. maritim sikkerhet,
+5. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
+6. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av en juridisk person, enhet eller organ som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
+7. EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
+8. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus' regjering og foretak som direkte eller indirekte kontrolleres av Belarus' regjeringen, eller
+9. utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus.
 
 4a. Uten at det berører nr. 4 bokstav e) og som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på avvikling senest 6. februar 2024 av kontrakter og operasjoner som er pågående 5. august 2023, og som er nødvendige for å yte sivile telekommunikasjonstjenester til den belarusiske sivilbefolkningen.
 
@@ -225,13 +375,19 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 6\. Tillatelser som kreves i henhold til denne artikkelen, skal gis av den kompetente myndigheten i samsvar med reglene og framgangsmåtene fastsatt i forordning [(EU) 2021/821](eu/32021r0821), som får tilsvarende anvendelse. Tillatelsene skal være gyldige i hele EU.
 
-7\. Når den kompetente myndigheten treffer beslutninger om tillatelser i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom de har rimelig grunn til å tro atsluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1, ellerat salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
+7\. Når den kompetente myndigheten treffer beslutninger om tillatelser i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom de har rimelig grunn til å tro at
+
+1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1, eller
+2. at salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
 
 8\. Den kompetente myndigheten kan oppheve, suspendere, endre eller tilbakekalle en tillatelse den har gitt i henhold til nr. 4 og 5, dersom den anser at en slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forordningen.
 
 ### Artikkel 1fa
 
-1\. Med hensyn til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V, som unntak fra artikkel 1e nr. 1 og 2 og artikkel 1f nr. 1 og 2, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi og varer og teknologi oppført i vedlegg Va, eller yting av tilknyttet faglig eller finansiell bistand, bare etter å ha slått fast at slike varer eller teknologi eller tilknyttet faglig eller finansiell bistander nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, ellerskal leveres i henhold til kontrakter inngått før 3. mars 2022, eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
+1\. Med hensyn til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V, som unntak fra artikkel 1e nr. 1 og 2 og artikkel 1f nr. 1 og 2, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi og varer og teknologi oppført i vedlegg Va, eller yting av tilknyttet faglig eller finansiell bistand, bare etter å ha slått fast at slike varer eller teknologi eller tilknyttet faglig eller finansiell bistand
+
+1. er nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller
+2. skal leveres i henhold til kontrakter inngått før 3. mars 2022, eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
 
 2\. Tillatelser som kreves i henhold til denne artikkelen, skal gis av medlemsstatens kompetente myndigheter i samsvar med reglene og framgangsmåtene fastsatt i forordning [(EU) 2021/821](eu/32021r0821), som skal ha tilsvarende anvendelse. Tillatelsene skal være gyldige i hele EU.
 
@@ -245,7 +401,9 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 ### Artikkel 1fc
 
-1\. De kompetente myndighetene skal utveksle opplysninger om anvendelsen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om alle tillatelser som er gitt eller avslått, og om søknader om tillatelse som er mottatt dersom det foreligger mistanke om forumshopping eller andre relevante saker.De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om overtredelser og sanksjoner i den forbindelse, om mønsterpraksis hos nasjonale håndhevingsmyndigheter samt om avdekking og straffeforfølgning eksport uten tillatelse. Utvekslingen av opplysninger skal skje ved bruk av det elektroniske systemet fastsatt i henhold til artikkel 23 nr. 6 i forordning [(EU) 2021/821](eu/32021r0821).
+1\. De kompetente myndighetene skal utveksle opplysninger om anvendelsen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om alle tillatelser som er gitt eller avslått, og om søknader om tillatelse som er mottatt dersom det foreligger mistanke om forumshopping eller andre relevante saker.
+
+De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om overtredelser og sanksjoner i den forbindelse, om mønsterpraksis hos nasjonale håndhevingsmyndigheter samt om avdekking og straffeforfølgning eksport uten tillatelse. Utvekslingen av opplysninger skal skje ved bruk av det elektroniske systemet fastsatt i henhold til artikkel 23 nr. 6 i forordning [(EU) 2021/821](eu/32021r0821).
 
 2\. Opplysninger som mottas som følge av anvendelsen av denne artikkelen, skal brukes utelukkende til det tiltenkte formålet, også utvekslingene nevnt i nr. 4. Medlemsstatene og Kommisjonen skal sørge for beskyttelse av konfidensielle opplysninger som mottas ved anvendelse av denne artikkelen, i samsvar med unionsretten og den respektive nasjonale lovgivningen. Medlemsstatene og Kommisjonen skal sørge for at graderte opplysninger som gis eller utveksles i henhold til denne artikkelen, ikke nedgraderes eller frigis uten opphaverens skriftlige samtykke.
 
@@ -259,7 +417,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er beregnet på maritim navigasjon, som oppført i vedlegg XXIV, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi som nevnt i nr. 1 til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi som nevnt i nr. 1 til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 3\. Forbudene i nr. 1 og 2 gjelder ikke salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller tilknyttet yting av faglig og finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, beregnet på humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer.
 
@@ -277,7 +439,11 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere luksusvarer, som er oppført i vedlegg XXV, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer som nevnt i nr. 1 til levering, produksjon, vedlikehold og bruk av slike varer til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer som nevnt i nr. 1 til levering, produksjon, vedlikehold og bruk av slike varer til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 3\. Forbudet nevnt i nr. 1 og 2 gjelder for luksusvarer oppført i vedlegg XXV dersom verdien overstiger 300 euro per vare, med mindre annet er angitt i vedlegget.
 
@@ -291,9 +457,17 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 ### Artikkel 1gb
 
-1\. Det er forbudtå erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus,å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus, eller med det dokumenterte formål å finansiere de nevnte juridiske personene, enhetene eller organene,å opprette nye fellesforetak sammen med juridiske personer, enheter eller organer som er etablert eller stiftet i henhold Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus, ellerå yte investeringstjenester som direkte er knyttet til aktivitetene nevnt i bokstav a, b og c.
+1\. Det er forbudt
 
-2\. Som unntak fra nr. 1 kan kompetente myndigheter, på de vilkårene de finner hensiktsmessige, tillate virksomhet nevnt i nr. 1, etter å ha slått fast atdet er nødvendig for å sikre kritisk kraftforsyning i EU, samt for transport av naturgass og olje, herunder raffinerte petroleumsprodukter, med mindre det er forbudt i henhold til artikkel 1h, fra eller gjennom Belarus til EU, ellerdet utelukkende berører juridiske personer, enheter eller organer som driver virksomhet innen energisektoren i Belarus, og som er eid av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat.
+1. å erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus,
+2. å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus, eller med det dokumenterte formål å finansiere de nevnte juridiske personene, enhetene eller organene,
+3. å opprette nye fellesforetak sammen med juridiske personer, enheter eller organer som er etablert eller stiftet i henhold Belarus' eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Belarus, eller
+4. å yte investeringstjenester som direkte er knyttet til aktivitetene nevnt i bokstav a, b og c.
+
+2\. Som unntak fra nr. 1 kan kompetente myndigheter, på de vilkårene de finner hensiktsmessige, tillate virksomhet nevnt i nr. 1, etter å ha slått fast at
+
+1. det er nødvendig for å sikre kritisk kraftforsyning i EU, samt for transport av naturgass og olje, herunder raffinerte petroleumsprodukter, med mindre det er forbudt i henhold til artikkel 1h, fra eller gjennom Belarus til EU, eller
+2. det utelukkende berører juridiske personer, enheter eller organer som driver virksomhet innen energisektoren i Belarus, og som er eid av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat.
 
 3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2, senest to uker etter at tillatelsen er gitt.
 
@@ -301,11 +475,17 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er tilpasset bruk i raffinering av olje og omdanning til væske av naturgass, som oppført i vedlegg XX, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 3\. Forbudene i nr. 1 og 2 gjelder ikke oppfyllelse innen 2. oktober 2024 av kontrakter inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for å oppfylle av slike kontrakter.
 
-4\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som oppført i vedlegg XX, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig for omgående å hindre eller begrense en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller for miljøet.I behørig begrunnede hastetilfeller kan salget, leveringen, overføringen eller eksporten gjennomføres uten forhåndstillatelse, forutsatt at eksportøren innen fem virkedager etter at salget, leveringen, overføringen eller eksporten har funnet sted, underretter kompetente myndigheter og gir nærmere opplysninger om den relevante begrunnelsen for at salget, leveringen, overføringen eller eksporten har funnet sted uten forhåndstillatelse.
+4\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som oppført i vedlegg XX, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig for omgående å hindre eller begrense en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller for miljøet.
+
+I behørig begrunnede hastetilfeller kan salget, leveringen, overføringen eller eksporten gjennomføres uten forhåndstillatelse, forutsatt at eksportøren innen fem virkedager etter at salget, leveringen, overføringen eller eksporten har funnet sted, underretter kompetente myndigheter og gir nærmere opplysninger om den relevante begrunnelsen for at salget, leveringen, overføringen eller eksporten har funnet sted uten forhåndstillatelse.
 
 5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 4, senest to uker etter at tillatelsen er gitt.
 
@@ -331,7 +511,12 @@ forutsatt at at en kompetent myndighet i en medlemsstat, som angitt i vedlegg II
 
 ### Artikkel 1j
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 90 dager som er utstedt etter 29. juni 2021 avRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater,en større kredittinstitusjon etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021, som oppført i vedlegg IX,juridiske personer, enheter eller organer etablert utenfor EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet nevnt i bokstav a) eller b) i denne artikkelen, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c) i denne artikkelen.
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 90 dager som er utstedt etter 29. juni 2021 av
+
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater,
+2. en større kredittinstitusjon etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021, som oppført i vedlegg IX,
+3. juridiske personer, enheter eller organer etablert utenfor EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet nevnt i bokstav a) eller b) i denne artikkelen, eller
+4. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c) i denne artikkelen.
 
 ### Artikkel 1ja
 
@@ -347,15 +532,30 @@ Fra og med 12. april 2022 er det forbudt å føre opp og yte tjenester på hande
 
 ### Artikkel 1jc
 
-1\. Det er forbudt direkte eller indirekte å yte tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring eller skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+1\. Det er forbudt direkte eller indirekte å yte tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring eller skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester til
 
-2\. Det er forbudt direkte eller indirekte å yte arkitekt- og ingeniørtjenester, juridiske rådgivningstjenester og IT konsulenttjenester tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-3\. Det er forbudt direkte eller indirekte å yte tjenester i form av markedsundersøkelser og meningsmålinger, tekniske tester og analysetjenester samt markedsføringstjenester tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+2\. Det er forbudt direkte eller indirekte å yte arkitekt- og ingeniørtjenester, juridiske rådgivningstjenester og IT konsulenttjenester til
 
-4\. Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse og programvare for industridesign og produksjon som oppført i vedlegg XXVI tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-5\. Det er forbudt åyte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og tjenester nevnt i nr. 1–4 med sikte på direkte eller indirekte levering av dem til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer, elleryte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i nr. 1–4 med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer.
+3\. Det er forbudt direkte eller indirekte å yte tjenester i form av markedsundersøkelser og meningsmålinger, tekniske tester og analysetjenester samt markedsføringstjenester til
+
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+
+4\. Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse og programvare for industridesign og produksjon som oppført i vedlegg XXVI til
+
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
+
+5\. Det er forbudt å
+
+1. yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og tjenester nevnt i nr. 1–4 med sikte på direkte eller indirekte levering av dem til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer, eller
+2. yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i nr. 1–4 med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer.
 
 6\. Nr. 1–4 gjelder ikke yting av tjenester som er strengt nødvendige for senest 2. oktober 2024 å kunne heve kontrakter som ikke er i samsvar med denne artikkelen og er inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
@@ -367,11 +567,23 @@ Fra og med 12. april 2022 er det forbudt å føre opp og yte tjenester på hande
 
 10\. Nr. 2, 3 og 4 gjelder ikke yting av tjenester som er nødvendige ved kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer.
 
-11\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter tillate levering av de tjenestene som er nevnt i disse numrene, på de vilkår de finner hensiktsmessige, etter å ha slått fast at tjenestene er strengt nødvendige for etablering, sertifisering eller evaluering av en brannmur somfjerner den kontrollen som fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I har over aktivaene til juridiske personer, enheter eller organer som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, ogsikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
+11\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter tillate levering av de tjenestene som er nevnt i disse numrene, på de vilkår de finner hensiktsmessige, etter å ha slått fast at tjenestene er strengt nødvendige for etablering, sertifisering eller evaluering av en brannmur som
+
+1. fjerner den kontrollen som fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I har over aktivaene til juridiske personer, enheter eller organer som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, og
+2. sikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
 
 12\. Som unntak fra nr. 4 kan vedkommende myndigheter tillate yting av tjenester som er nevnt der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at disse tjenestene er nødvendige for at belarusiske borgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
 
-13\. Som unntak fra nr. 1 og 5 kan vedkommende myndigheter tillate yting av tjenestene som er omhandlet i nr. 1 og 5, på de vilkårene de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig forhumanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus,drift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Belarus, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten,å sikre kritisk kraftforsyning i EU og kjøp, import eller transport til EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller for miljøsikkerhet,etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging, og idriftsettelse som kreves for å ferdigstille sivile atomkraftanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,yting av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Belarus, i Ukraina, i EU, mellom Belarus og EU og mellom Ukraina og EU, og for datasentertjenester i EU, ellerbruk utelukkende av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i felleskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland som oppført på listen i vedlegg Vb.
+13\. Som unntak fra nr. 1 og 5 kan vedkommende myndigheter tillate yting av tjenestene som er omhandlet i nr. 1 og 5, på de vilkårene de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus,
+3. drift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Belarus, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten,
+4. å sikre kritisk kraftforsyning i EU og kjøp, import eller transport til EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,
+5. å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller for miljøsikkerhet,
+6. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging, og idriftsettelse som kreves for å ferdigstille sivile atomkraftanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+7. yting av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Belarus, i Ukraina, i EU, mellom Belarus og EU og mellom Ukraina og EU, og for datasentertjenester i EU, eller
+8. bruk utelukkende av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i felleskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland som oppført på listen i vedlegg Vb.
 
 14\. Som unntak fra nr. 2 kan kompetente myndigheter tillate yting av juridiske rådgivningstjenester som nevnt der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for å videreføre pågående initiativer til støtte for ofre for naturkatastrofer, kjernefysiske katastrofer eller kjemiske katastrofer, innenfor rammen av internasjonale vedtaksprosedyrer.
 
@@ -379,17 +591,32 @@ Fra og med 12. april 2022 er det forbudt å føre opp og yte tjenester på hande
 
 ### Artikkel 1k
 
-1\. Det er forbudt direkte eller indirekte å opprette eller delta i ordninger med sikte på å yte nye lån eller kreditter med en løpetid på over 90 dager etter 29. juni 2021, tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater,en større kredittinstitusjon etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021, som oppført i vedlegg IX,juridiske personer, enheter eller organer etablert utenfor EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet omtalt i bokstav a) eller b) i dette nummeret, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c) i dette nummeret.
+1\. Det er forbudt direkte eller indirekte å opprette eller delta i ordninger med sikte på å yte nye lån eller kreditter med en løpetid på over 90 dager etter 29. juni 2021, til
+
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater,
+2. en større kredittinstitusjon etablert i Belarus med over 50 % offentlig eierskap eller under offentlig kontroll per 1. juni 2021, som oppført i vedlegg IX,
+3. juridiske personer, enheter eller organer etablert utenfor EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet omtalt i bokstav a) eller b) i dette nummeret, eller
+4. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c) i dette nummeret.
 
 2\. Forbudet gjelder ikke lån eller kreditter som har som konkret og dokumentert formål å finansiere import eller eksport av varer og ikke-finansielle tjenester som ikke omfattes av forbud, mellom EU og en tredjestat, herunder utgifter til varer og tjenester fra en annen tredjestat som er nødvendige for å oppfylle kontraktene om eksport eller import.
 
-3\. Den kompetente myndigheten i en medlemsstat kan også gi tillatelse, på de vilkår den finner hensiktsmessige, til å opprette eller delta i ordninger med sikte på å yte lån eller kreditter som omtalt i nr. 1 dersom myndigheten har fastslått atformålet med den aktuelle virksomheten er å yte bistand til den belarusiske sivilbefolkningen, for eksempel humanitær bistand, miljøprosjekter og kjernefysisk sikkerhet, eller dersom lånet eller kreditten er nødvendig for å oppfylle krav til rettslige eller reguleringsmessige minstereserver eller tilsvarende krav for å oppfylle solvens- og likviditetskriterier for finansielle enheter i Belarus som er majoritetseide av finansielle institusjoner i EU, ogden aktuelle virksomheten ikke innebærer at penger eller formuesgoder stilles til rådighet, verken direkte eller indirekte, eller er til fordel for personer, enheter eller organer omtalt i artikkel 2.Når den kompetente myndigheten anvender betingelsene i punkt i. og ii., skal den be om tilfredsstillende opplysninger om hvordan tillatelsen skal brukes, herunder opplysninger om formålet med og motpartene i den aktuelle virksomheten.Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest to uker etter at tillatelsen er gitt.
+3\. Den kompetente myndigheten i en medlemsstat kan også gi tillatelse, på de vilkår den finner hensiktsmessige, til å opprette eller delta i ordninger med sikte på å yte lån eller kreditter som omtalt i nr. 1 dersom myndigheten har fastslått at
+
+1. formålet med den aktuelle virksomheten er å yte bistand til den belarusiske sivilbefolkningen, for eksempel humanitær bistand, miljøprosjekter og kjernefysisk sikkerhet, eller dersom lånet eller kreditten er nødvendig for å oppfylle krav til rettslige eller reguleringsmessige minstereserver eller tilsvarende krav for å oppfylle solvens- og likviditetskriterier for finansielle enheter i Belarus som er majoritetseide av finansielle institusjoner i EU, og
+2. den aktuelle virksomheten ikke innebærer at penger eller formuesgoder stilles til rådighet, verken direkte eller indirekte, eller er til fordel for personer, enheter eller organer omtalt i artikkel 2.
+
+Når den kompetente myndigheten anvender betingelsene i punkt i. og ii., skal den be om tilfredsstillende opplysninger om hvordan tillatelsen skal brukes, herunder opplysninger om formålet med og motpartene i den aktuelle virksomheten.
+
+Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest to uker etter at tillatelsen er gitt.
 
 4\. – – –
 
 ### Artikkel 1l
 
-1\. Det er forbudt å yte forsikrings- eller gjenforsikringstjenester tilRepublikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra juridiske personer, enheter eller organer omtalt i punkt i).
+1\. Det er forbudt å yte forsikrings- eller gjenforsikringstjenester til
+
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra juridiske personer, enheter eller organer omtalt i punkt i).
 
 2\. Forbudet i nr. 1 gjelder ikke levering av obligatorisk forsikring eller ansvarsforsikring til belarusiske personer, enheter eller organer dersom risikoen som forsikringen gjelder, er lokalisert innenfor EU, eller levering av forsikring til belarusiske utenriksstasjoner i EU.
 
@@ -401,29 +628,64 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 1n
 
-I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsbank (EIB)ikke ha anledning til å foreta utbetalinger i henhold til eller i forbindelse med eksisterende avtaler inngått mellom Republikken Belarus eller belarusiske offentlige myndigheter og EIB, ogmidlertidig oppheve alle eksisterende tjenesteavtaler om faglig bistand som gjelder prosjekter finansiert gjennom avtalene omtalt i bokstav a, og som direkte eller indirekte er til fordel for Republikken Belarus eller landets offentlige myndigheter.
+I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsbank (EIB)
+
+1. ikke ha anledning til å foreta utbetalinger i henhold til eller i forbindelse med eksisterende avtaler inngått mellom Republikken Belarus eller belarusiske offentlige myndigheter og EIB, og
+2. midlertidig oppheve alle eksisterende tjenesteavtaler om faglig bistand som gjelder prosjekter finansiert gjennom avtalene omtalt i bokstav a, og som direkte eller indirekte er til fordel for Republikken Belarus eller landets offentlige myndigheter.
 
 ### Artikkel 1o
 
-1\. Det er forbudtdirekte eller indirekte å importere treprodukter som oppført i vedlegg X til EU dersom dehar opprinnelse i Belarus, ellerer eksportert fra Belarus,direkte eller indirekte å kjøpe treprodukter som oppført i vedlegg X som befinner seg eller har opprinnelse i Belarus,å transportere treprodukter som oppført i vedlegg X dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
+1\. Det er forbudt
+
+1. direkte eller indirekte å importere treprodukter som oppført i vedlegg X til EU dersom de
+
+   1. har opprinnelse i Belarus, eller
+   2. er eksportert fra Belarus,
+2. direkte eller indirekte å kjøpe treprodukter som oppført i vedlegg X som befinner seg eller har opprinnelse i Belarus,
+3. å transportere treprodukter som oppført i vedlegg X dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
+4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
 2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 ### Artikkel 1p
 
-1\. Det er forbudtdirekte eller indirekte å importere sementprodukter som oppført i vedlegg XI til EU dersom dehar opprinnelse i Belarus, ellerer eksportert fra Belarus,direkte eller indirekte å kjøpe sementprodukter som oppført i vedlegg XI som befinner seg eller har opprinnelse i Belarus,å transportere sementprodukter som oppført i vedlegg XI dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
+1\. Det er forbudt
+
+1. direkte eller indirekte å importere sementprodukter som oppført i vedlegg XI til EU dersom de
+
+   1. har opprinnelse i Belarus, eller
+   2. er eksportert fra Belarus,
+2. direkte eller indirekte å kjøpe sementprodukter som oppført i vedlegg XI som befinner seg eller har opprinnelse i Belarus,
+3. å transportere sementprodukter som oppført i vedlegg XI dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
+4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
 2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 ### Artikkel 1q
 
-1\. Det er forbudtdirekte eller indirekte å importere jern- og stålprodukter som oppført i vedlegg XII til EU dersom dehar opprinnelse i Belarus, ellerer eksportert fra Belarus,direkte eller indirekte å kjøpe jern- og stålprodukter som oppført i vedlegg XII som befinner seg eller har opprinnelse i Belarus,å transportere jern- og stålprodukter som oppført i vedlegg XII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
+1\. Det er forbudt
+
+1. direkte eller indirekte å importere jern- og stålprodukter som oppført i vedlegg XII til EU dersom de
+
+   1. har opprinnelse i Belarus, eller
+   2. er eksportert fra Belarus,
+2. direkte eller indirekte å kjøpe jern- og stålprodukter som oppført i vedlegg XII som befinner seg eller har opprinnelse i Belarus,
+3. å transportere jern- og stålprodukter som oppført i vedlegg XII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
+4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
 2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 ### Artikkel 1r
 
-1\. Det er forbudtdirekte eller indirekte å importere gummiprodukter som oppført i vedlegg XIII til EU dersom dehar opprinnelse i Belarus, ellerer eksportert fra Belarus,direkte eller indirekte å kjøpe gummiprodukter som oppført i vedlegg XIII som befinner seg eller har opprinnelse i Belarus,å transportere gummiprodukter som oppført i vedlegg XIII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
+1\. Det er forbudt
+
+1. direkte eller indirekte å importere gummiprodukter som oppført i vedlegg XIII til EU dersom de
+
+   1. har opprinnelse i Belarus, eller
+   2. er eksportert fra Belarus,
+2. direkte eller indirekte å kjøpe gummiprodukter som oppført i vedlegg XIII som befinner seg eller har opprinnelse i Belarus,
+3. å transportere gummiprodukter som oppført i vedlegg XIII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
+4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
 2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
@@ -431,13 +693,19 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 1\. Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre til EU varer som gjør det mulig for Belarus å diversifisere sine inntektskilder og dermed fremmer Belarus' medvirkning til den russiske aggresjonen mot Ukraina, som oppført i vedlegg XXVII, dersom de har opprinnelse i Belarus eller eksporteres fra Belarus.
 
-2\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi i forbindelse med forbudet i nr. 1,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 til kjøp, import eller overføring av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudet i nr. 1.
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi i forbindelse med forbudet i nr. 1,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 til kjøp, import eller overføring av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudet i nr. 1.
 
 3\. Forbudet i nr. 1 gjelder ikke kjøp i Belarus som er nødvendige for drift av EUs og medlemsstatenes diplomatiske og konsulære representasjoner, herunder delegasjoner, ambassader og utenriksstasjoner, eller til personlig bruk for statsborgere i medlemsstatene og deres nærmeste familie.
 
 4\. Kompetente myndigheter i en medlemsstat kan tillate import av varer som er beregnet på personlig bruk for fysiske personer som reiser til EU eller medlemmer av deres nærmeste familie, begrenset til personlige eiendeler som eies av disse personene og som åpenbart ikke er beregnet på salg.
 
-5\. Kompetente myndigheter kan, på de vilkår de finner hensiktsmessige, tillate innførsel til EU kjøretøy som faller inn under KN-kode 8703, som ikke er beregnet på salg og som eies aven statsborger av en medlemsstat eller av dennes nære familiemedlem som er bosatt i Belarus og kjører kjøretøyet inn i EU utelukkende til personlig bruk, elleren belarusisk statsborger med gyldig visum eller oppholdstillatelse som tillater innreise til EU, som kjører kjøretøyet inn i EU utelukkende til personlig bruk.
+5\. Kompetente myndigheter kan, på de vilkår de finner hensiktsmessige, tillate innførsel til EU kjøretøy som faller inn under KN-kode 8703, som ikke er beregnet på salg og som eies av
+
+1. en statsborger av en medlemsstat eller av dennes nære familiemedlem som er bosatt i Belarus og kjører kjøretøyet inn i EU utelukkende til personlig bruk, eller
+2. en belarusisk statsborger med gyldig visum eller oppholdstillatelse som tillater innreise til EU, som kjører kjøretøyet inn i EU utelukkende til personlig bruk.
 
 6\. Forbudet i nr. 1 gjelder ikke innførsel til EU av kjøretøyer som faller inn under KN-kode 8703, forutsatt at de har et kjennemerke for diplomatiske kjøretøyer og er nødvendige for drift av diplomatiske og konsulære representasjoner, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner som har immunitet i henhold til folkeretten, eller er til personlig bruk for deres ansatte og medlemmer av disses nærmeste familie.
 
@@ -461,7 +729,10 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 3\. Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre gull, som oppført i vedlegg XXII, dersom det har opprinnelse i Belarus og eksporteres fra Belarus til EU etter 1. juli 2024.
 
-4\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1, 2 og 3 og til levering, produksjon, vedlikehold og bruk av slike varer i forbindelse med forbudene i disse numrene, ellerdirekte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 til kjøp, import eller overføring av disse varene eller til levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i disse numrene.
+4\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1, 2 og 3 og til levering, produksjon, vedlikehold og bruk av slike varer i forbindelse med forbudene i disse numrene, eller
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 til kjøp, import eller overføring av disse varene eller til levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i disse numrene.
 
 5\. Forbudene i nr. 1, 2 og 3 gjelder ikke gull som er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
 
@@ -475,7 +746,10 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 2\. Fra og med 1. juli 2024 er det forbudt direkte eller indirekte å kjøpe, importere eller overføre diamanter og produkter som inneholder diamanter, som oppført i vedlegg XXIX del A, B og C, av enhver opprinnelse, dersom de har vært i transitt gjennom Belarus' territorium.
 
-3\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og 2 og til levering, produksjon, vedlikehold og bruk av slike varer i forbindelse med forbudene i disse numrene,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 og 2 til kjøp, import eller overføring av slike varer eller for yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i disse numrene.
+3\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i nr. 1 og 2 og til levering, produksjon, vedlikehold og bruk av slike varer i forbindelse med forbudene i disse numrene,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i nr. 1 og 2 til kjøp, import eller overføring av slike varer eller for yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i disse numrene.
 
 4\. Forbudene i nr. 1 og 2 gjelder ikke varer som faller inn under vedlegg XXIX del C som er til personlig bruk for fysiske personer som reiser til EU, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, som eies av disse personene og ikke er beregnet på salg.
 
@@ -483,11 +757,24 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 ### Artikkel 1s
 
-1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere maskiner som oppført i vedlegg XIV, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a).
+1\. Det er forbudt
+
+1. direkte eller indirekte å selge, levere, overføre eller eksportere maskiner som oppført i vedlegg XIV, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a).
 
 1a. Transitt gjennom Belarus' territorium av maskiner som oppført i vedlegg XIVa, eksportert fra EU, er forbudt.
 
-2\. Forbudene i nr. 1 gjelder ikke salg, levering, overføring eller eksport av maskiner omtalt i nr. 1 eller tilknyttet yting av faglig og finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet påhumanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer,medisinske eller farmasøytiske formål,midlertidig bruk for nyhetsmedier,programvareoppdateringer,bruk av forbrukerkommunikasjonsutstyr,å sikre cybersikkerhet og informasjonssikkerhet for fysiske eller juridiske personer, enheter og organer i Belarus, unntatt for Belarus' regjering og foretak som direkte eller indirekte kontrolleres av Belarus' regjering, ellerpersonlig bruk for fysiske personer som reiser til Belarus, og begrenset til personlige effekter, husholdningsutstyr, kjøretøyer eller yrkesmessig verktøy som eies av disse personene, og som ikke er beregnet på salg.Med unntak av bokstav f) og g) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
+2\. Forbudene i nr. 1 gjelder ikke salg, levering, overføring eller eksport av maskiner omtalt i nr. 1 eller tilknyttet yting av faglig og finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+
+1. humanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer,
+2. medisinske eller farmasøytiske formål,
+3. midlertidig bruk for nyhetsmedier,
+4. programvareoppdateringer,
+5. bruk av forbrukerkommunikasjonsutstyr,
+6. å sikre cybersikkerhet og informasjonssikkerhet for fysiske eller juridiske personer, enheter og organer i Belarus, unntatt for Belarus' regjering og foretak som direkte eller indirekte kontrolleres av Belarus' regjering, eller
+7. personlig bruk for fysiske personer som reiser til Belarus, og begrenset til personlige effekter, husholdningsutstyr, kjøretøyer eller yrkesmessig verktøy som eies av disse personene, og som ikke er beregnet på salg.
+
+Med unntak av bokstav f) og g) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
 
 3\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
@@ -505,17 +792,26 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 3\. Det er forbudt å yte en eller flere av følgende aktiviteter: ettersyn, reparasjon, inspeksjon, utskiftning, endring eller feilutbedring av et luftfartøy eller en komponent, med unntak av inspeksjon før flygning, i forbindelse med varene og teknologien oppført i vedlegg XVII, direkte eller indirekte, til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus.
 
-4\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og teknologien omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av disse varene og denne teknologien til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av disse varene og denne teknologien, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+4\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og teknologien omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av disse varene og denne teknologien til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av disse varene og denne teknologien, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
 5\. Forbudene i nr. 1 og nr. 4 skal ikke gjelde gjennomføring inntil 4. september 2023 av kontrakter inngått før 5. august 2023, eller av tilleggskontrakter som er nødvendige for å kunne oppfylle en slik kontrakt.
 
-6\. Som unntak fra nr. 1 og 4 kan den kompetente myndigheten på de vilkår den anser som hensiktsmessige, tillate gjennomføringen av en finansiell leieavtale for luftfartøyer som er inngått før 5. august 2023, etter å ha slått fast atdet er strengt nødvendig for å sikre tilbakebetalinger i henhold til leieavtalen til juridiske personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat, og som ikke omfattes av noen av de restriktive tiltakene fastsatt i denne forordningen, ogingen økonomiske ressurser vil bli gjort tilgjengelig for den belarusiske motparten, med unntak av overføring av eierskap av luftfartøyet etter full tilbakebetaling av den finansielle leieavtalen.
+6\. Som unntak fra nr. 1 og 4 kan den kompetente myndigheten på de vilkår den anser som hensiktsmessige, tillate gjennomføringen av en finansiell leieavtale for luftfartøyer som er inngått før 5. august 2023, etter å ha slått fast at
+
+1. det er strengt nødvendig for å sikre tilbakebetalinger i henhold til leieavtalen til juridiske personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat, og som ikke omfattes av noen av de restriktive tiltakene fastsatt i denne forordningen, og
+2. ingen økonomiske ressurser vil bli gjort tilgjengelig for den belarusiske motparten, med unntak av overføring av eierskap av luftfartøyet etter full tilbakebetaling av den finansielle leieavtalen.
 
 6a. Som unntak fra nr. 1 og 4 kan kompetente myndigheter på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer oppført i vedlegg XVII, eller tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at dette er nødvendig for produksjonen av varer av titan som kreves i luftfartsindustrien, og som det ikke finnes alternativ forsyning av.
 
 6b. Som unntak fra nr. 4 kan kompetente myndigheter på de vilkår de finner hensiktsmessige, tillate yting av faglig bistand knyttet til bruk av varer og teknologi omhandlet i nr. 1, etter å ha slått fast at slik yting av faglig bistand er nødvendig for å unngå at satellitter kolliderer eller utilsiktet kommer tilbake til atmosfæren.
 
-7\. Som unntak fra nr. 1 og 4 kan den kompetente myndigheten, på de vilkår den anser som hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kodene 8517 71 00, 8517 79 00 og 9026 00 00 oppført i vedlegg XVII, eller tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at det er nødvendig for medisinske eller farmasøytiske formål, eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer.Når den kompetente myndigheten treffer beslutninger om tillatelser for medisinske, farmasøytiske eller humanitære formål i henhold til dette nummeret, skal den ikke gi tillatelse til eksport til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus dersom den har rimelig grunn til å tro at varene kan ha en militær sluttbruk.
+7\. Som unntak fra nr. 1 og 4 kan den kompetente myndigheten, på de vilkår den anser som hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kodene 8517 71 00, 8517 79 00 og 9026 00 00 oppført i vedlegg XVII, eller tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at det er nødvendig for medisinske eller farmasøytiske formål, eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer.
+
+Når den kompetente myndigheten treffer beslutninger om tillatelser for medisinske, farmasøytiske eller humanitære formål i henhold til dette nummeret, skal den ikke gi tillatelse til eksport til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus dersom den har rimelig grunn til å tro at varene kan ha en militær sluttbruk.
 
 7a. Som unntak fra nr. 1a kan kompetente myndigheter tillate transitt gjennom Belarus' territorium av varer og teknologi som er tilpasset bruk i luftfarts- eller romfartsindustrien, som oppført i vedlegg XVII, etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 6a, 6b og 7.
 
@@ -531,7 +827,11 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 1\. Det er forbudt å yte offentlig finansiering eller finansiell bistand til handel med eller investeringer i Belarus.
 
-2\. Forbudet i nr. 1 gjelder ikkebindende forpliktelser til finansiering eller finansiell bistand innført før 10. mars 2022,yting av offentlig finansiering eller finansiell bistand opptil en samlet verdi av 10 000 000 euro per prosjekt til fordel for små og mellomstore bedrifter etablert i Unionen, elleryting av offentlig finansiering eller finansiell bistand til handel med matvarer, og til jordbruksformål samt medisinske eller humanitære formål.
+2\. Forbudet i nr. 1 gjelder ikke
+
+1. bindende forpliktelser til finansiering eller finansiell bistand innført før 10. mars 2022,
+2. yting av offentlig finansiering eller finansiell bistand opptil en samlet verdi av 10 000 000 euro per prosjekt til fordel for små og mellomstore bedrifter etablert i Unionen, eller
+3. yting av offentlig finansiering eller finansiell bistand til handel med matvarer, og til jordbruksformål samt medisinske eller humanitære formål.
 
 ### Artikkel 1u
 
@@ -543,13 +843,21 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 ### Artikkel 1v
 
-1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudder nødvendig for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer omhandlet i artikkel 1u nr. 1 og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,er nødvendig for å dekke ekstraordinære utgifter, forutsatt at den vedkommende kompetente myndigheten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerer nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner.
+1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd
+
+1. er nødvendig for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer omhandlet i artikkel 1u nr. 1 og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. er nødvendig for å dekke ekstraordinære utgifter, forutsatt at den vedkommende kompetente myndigheten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, eller
+4. er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 bokstav a), b) og d), senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1w
 
-1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudder nødvendig for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, ellerer nødvendig for sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus.
+1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd
+
+1. er nødvendig for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, eller
+2. er nødvendig for sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
@@ -567,13 +875,19 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 ### Artikkel 1z
 
-Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal kredittinstitusjonersenest 27. mai 2022 levere til den nasjonale kompetente myndigheten i medlemsstaten der de er etablert eller til Kommisjonen en liste over innskudd som overstiger 100 000 euro som innehas av belarusiske statsborgere eller fysiske personer bosatt i Belarus, eller av juridiske personer, enheter eller organer etablert i Belarus; listen over innskuddsbeløp skal oppdateres hver tolvte måned,levere til den nasjonale kompetente myndigheten i medlemsstaten der de er etablert opplysninger om innskudd som overstiger 100 000 euro som innehas av belarusiske statsborgere eller fysiske personer bosatt i Belarus som har fått statsborgerskap eller oppholdsrett i en medlemsstat gjennom en ordning for statsborgerskap ved investering eller en ordning for oppholdstillatelse ved investering.
+Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal kredittinstitusjoner
+
+1. senest 27. mai 2022 levere til den nasjonale kompetente myndigheten i medlemsstaten der de er etablert eller til Kommisjonen en liste over innskudd som overstiger 100 000 euro som innehas av belarusiske statsborgere eller fysiske personer bosatt i Belarus, eller av juridiske personer, enheter eller organer etablert i Belarus; listen over innskuddsbeløp skal oppdateres hver tolvte måned,
+2. levere til den nasjonale kompetente myndigheten i medlemsstaten der de er etablert opplysninger om innskudd som overstiger 100 000 euro som innehas av belarusiske statsborgere eller fysiske personer bosatt i Belarus som har fått statsborgerskap eller oppholdsrett i en medlemsstat gjennom en ordning for statsborgerskap ved investering eller en ordning for oppholdstillatelse ved investering.
 
 ### Artikkel 1za
 
 1\. Det er forbudt å selge, levere, overføre eller eksportere pengesedler pålydende en medlemsstats offisielle valuta til Belarus eller til fysiske eller juridiske personer, enheter eller organer i Belarus, herunder til Belarus' regjering og Belarus' sentralbank, eller til bruk i Belarus.
 
-2\. Forbudet i nr. 1 gjelder ikke salg, levering, overføring eller eksport av pengesedler pålydende en medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig forpersonlig bruk for fysiske personer som reiser til Belarus, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, elleroffisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
+2\. Forbudet i nr. 1 gjelder ikke salg, levering, overføring eller eksport av pengesedler pålydende en medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+
+1. personlig bruk for fysiske personer som reiser til Belarus, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, eller
+2. offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
 
 ### Artikkel 1zb
 
@@ -597,9 +911,17 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
 
 2a. Nr. 1b og 1c gjelder ikke veitransportforetak som er etablert i EU, og som eies med 25 % eller mer av belarusiske statsborgere som også er statsborgere av en medlemsstat, eller som har midlertidig eller fast oppholdstillatelse i en medlemsstat.
 
-3\. Forbudet i nr. 1 gjelder ikke før 16. april 2022 for godstransport som ble innledet før 9. april 2022, forutsatt at veitransportforetakets kjøretøyallerede befant seg på EUs territorium 9. april 2022, ellerer nødt til å kjøre transitt gjennom EUs territorium for å returnere til Belarus.
+3\. Forbudet i nr. 1 gjelder ikke før 16. april 2022 for godstransport som ble innledet før 9. april 2022, forutsatt at veitransportforetakets kjøretøy
 
-4\. Som unntak fra nr. 1 og 1a kan kompetente myndigheter i en medlemsstat tillate transport av varer på vei av et veitransportforetak etablert i Belarus eller av ethvert veitransportforetak dersom varene transporteres med tilhengere eller semitrailere registrert i Belarus, herunder dersom slike tilhengerne eller semitrailerne trekkes av lastebiler som er registrert i andre land, dersom kompetente myndigheter har slått fast at slik transport er nødvendig forkjøp, import eller transport av naturgass og olje til EU, herunder raffinerte petroleumsprodukter, i tillegg til titan, aluminium, kobber, nikkel, palladium og jernmalm,kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og transportere i henhold til denne forordningen,humanitære formål, ellerdrift av diplomatiske og konsulære representasjoner i Belarus, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
+1. allerede befant seg på EUs territorium 9. april 2022, eller
+2. er nødt til å kjøre transitt gjennom EUs territorium for å returnere til Belarus.
+
+4\. Som unntak fra nr. 1 og 1a kan kompetente myndigheter i en medlemsstat tillate transport av varer på vei av et veitransportforetak etablert i Belarus eller av ethvert veitransportforetak dersom varene transporteres med tilhengere eller semitrailere registrert i Belarus, herunder dersom slike tilhengerne eller semitrailerne trekkes av lastebiler som er registrert i andre land, dersom kompetente myndigheter har slått fast at slik transport er nødvendig for
+
+1. kjøp, import eller transport av naturgass og olje til EU, herunder raffinerte petroleumsprodukter, i tillegg til titan, aluminium, kobber, nikkel, palladium og jernmalm,
+2. kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og transportere i henhold til denne forordningen,
+3. humanitære formål, eller
+4. drift av diplomatiske og konsulære representasjoner i Belarus, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
 
 5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 4, senest to uker etter at tillatelsen er gitt.
 
@@ -615,7 +937,13 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
 
 5\. Vedlegg I inneholder også en liste over de fysiske og juridiske personene som har blitt utpekt av Rådet, i samsvar med punkt b) i beslutning 2012/642/FUSP, for å dra fordel av eller støtte Lukashenka-regimet, samt juridiske personer, enheter og organer som eies eller kontrolleres av disse.
 
-6\. Vedlegg I skal også inneholde en liste overde fysiske eller juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav c) i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses å organisere eller medvirke til Lukasjenka-regimets virksomhet som legger til rette forulovlig passering av Unionens yttergrenser, elleroverføring av forbudte varer og ulovlig overføring av varer som er pålagt restriksjoner, herunder farlige varer, til Unionens territorium, ogde juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav d) i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses å være juridiske personer, enheter eller organer som eies eller kontrolleres av personer, enheter eller organer nevnt i bokstav a).
+6\. Vedlegg I skal også inneholde en liste over
+
+1. de fysiske eller juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav c) i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses å organisere eller medvirke til Lukasjenka-regimets virksomhet som legger til rette for
+
+   1. ulovlig passering av Unionens yttergrenser, eller
+   2. overføring av forbudte varer og ulovlig overføring av varer som er pålagt restriksjoner, herunder farlige varer, til Unionens territorium, og
+2. de juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav d) i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses å være juridiske personer, enheter eller organer som eies eller kontrolleres av personer, enheter eller organer nevnt i bokstav a).
 
 7\. Vedlegg I inneholder også en liste over fysiske eller juridiske personer, enheter eller organer som er blitt utpekt av Rådet, i samsvar med artikkel 4 nr. 1 bokstav d i beslutning [2012/642/FUSP](eu/32012d0642), for å legge til rette for overtredelser av forbudet mot omgåelse av bestemmelsene i denne forordningen eller i den nevnte beslutningen, eller som på annen betydelig måte motvirker disse bestemmelsene.
 
@@ -633,7 +961,18 @@ Handlinger utført av fysiske eller juridiske personer, enheter eller organer sk
 
 ### Artikkel 3
 
-1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i [artikkel 2](forskrift/2006-09-08-1041/a2) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal brukes til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal brukes til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,utelukkende skal gå tilhumanitære formål, herunder flyginger til evakuering eller hjemtransport av personer, eller til initiativer til støtte for ofre for naturkatastrofer, kjernefysiske katastrofer eller kjemiske katastrofer,flyginger innenfor rammen av internasjonale vedtaksprosedyrer,flyginger som kreves for deltaking på møter med sikte på å finne en løsning på krisen i Belarus eller for å fremme de restriktive tiltakenes politiske mål, elleren landing, avgang eller overflyging som et luftfartsselskap i EU foretar i en nødssituasjon,er nødvendige for å håndtere kritiske og klart identifiserte flysikkerhetsspørsmål og etter forutgående konsultasjon med EUs flysikkerhetsbyrå.
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i [artikkel 2](forskrift/2006-09-08-1041/a2) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
+
+1. er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal brukes til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal brukes til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+4. utelukkende skal gå til
+
+   1. humanitære formål, herunder flyginger til evakuering eller hjemtransport av personer, eller til initiativer til støtte for ofre for naturkatastrofer, kjernefysiske katastrofer eller kjemiske katastrofer,
+   2. flyginger innenfor rammen av internasjonale vedtaksprosedyrer,
+   3. flyginger som kreves for deltaking på møter med sikte på å finne en løsning på krisen i Belarus eller for å fremme de restriktive tiltakenes politiske mål, eller
+   4. en landing, avgang eller overflyging som et luftfartsselskap i EU foretar i en nødssituasjon,
+5. er nødvendige for å håndtere kritiske og klart identifiserte flysikkerhetsspørsmål og etter forutgående konsultasjon med EUs flysikkerhetsbyrå.
 
 2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet på de vilkår som de finner hensiktsmessig, etter å ha fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at medlemsstaten senest to uker før tillatelse gis underretter de andre medlemsstatene og Kommisjonen om årsaken til at den mener at det bør gis en særlig tillatelse.
 
@@ -641,20 +980,31 @@ Handlinger utført av fysiske eller juridiske personer, enheter eller organer sk
 
 ### Artikkel 3a
 
-1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder dersom følgende vilkår er oppfylt:pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder dersom følgende vilkår er oppfylt:
+
+1. pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, og
+4. anerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 4
 
-1\. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppsto før datoen da disse konti ble omfattet av denne forordningens bestemmelser,
-forutsatt at disse rentene eller andre inntekter og betalinger fortsatt er omfattet av artikkel 2 nr. 1.
+1\. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene, eller
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppsto før datoen da disse konti ble omfattet av denne forordningens bestemmelser,
+   forutsatt at disse rentene eller andre inntekter og betalinger fortsatt er omfattet av artikkel 2 nr. 1.
 
 2\. Artikkel 2 nr. 2 er ikke til hinder for at finansierings- eller kredittinstitusjoner i EU som mottar penger overført av tredjeparter til en konto tilhørende en person, enhet eller et organ som er oppført på listen, krediterer de frosne konti med disse beløp, forutsatt at alle tilførte beløp på disse konti også fryses. Finansiering- eller kredittinstitusjonen skal straks underrette de kompetente myndigheter om slike transaksjoner.
 
 ### Artikkel 4a
 
-Som unntak fra artikkel 2 nr. 1, kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, gi tillatelse, på de vilkår som de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder når personer enheter eller organer som er oppført på listen i vedlegg I, skal betale beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som vedkommende person, enhet eller organ har inngått eller pådratt seg før den datoen da vedkommende person, enhet eller organ ble oppført på listen, forutsatt atvedkommende kompetente myndighet har slått fast at betalingen ikke direkte eller indirekte er til fordel for en person, enhet eller organ oppført på listen i vedlegg I, ogvedkommende medlemsstat har, minst to uker før tillatelsen gis, meddelt de andre medlemsstatene og Kommisjonen at den har har truffet beslutning om å gi en slik tillatelse.
+Som unntak fra artikkel 2 nr. 1, kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, gi tillatelse, på de vilkår som de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder når personer enheter eller organer som er oppført på listen i vedlegg I, skal betale beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som vedkommende person, enhet eller organ har inngått eller pådratt seg før den datoen da vedkommende person, enhet eller organ ble oppført på listen, forutsatt at
+
+1. vedkommende kompetente myndighet har slått fast at betalingen ikke direkte eller indirekte er til fordel for en person, enhet eller organ oppført på listen i vedlegg I, og
+2. vedkommende medlemsstat har, minst to uker før tillatelsen gis, meddelt de andre medlemsstatene og Kommisjonen at den har har truffet beslutning om å gi en slik tillatelse.
 
 ### Artikkel 4b
 
@@ -662,11 +1012,17 @@ Som unntak fra artikkel 2, kan medlemsstatenes kompetente myndigheter, som angit
 
 ### Artikkel 4c
 
-Som unntak fra artikkel 2 kan kompetente myndigheter i en medlemsstat gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, eller til å levere tjenester til slike fysiske eller juridiske personer, enheter eller organer, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er strengt nødvendig for etablering, sertifisering eller evaluering av en brannmur somfjerner den kontrollen en fysisk eller juridisk person, enhet eller organ oppført i vedlegg I har over aktivaene til en juridisk person, enhet eller organ som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, ogsikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
+Som unntak fra artikkel 2 kan kompetente myndigheter i en medlemsstat gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, eller til å levere tjenester til slike fysiske eller juridiske personer, enheter eller organer, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er strengt nødvendig for etablering, sertifisering eller evaluering av en brannmur som
+
+1. fjerner den kontrollen en fysisk eller juridisk person, enhet eller organ oppført i vedlegg I har over aktivaene til en juridisk person, enhet eller organ som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, og
+2. sikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
 
 ### Artikkel 5
 
-1\. Med forbehold for gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i med hold av artikkel 2, til de kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, i det land der de er bosatt eller befinner seg, og gi opplysningene, direkte eller indirekte til Kommisjonen, ogsamarbeide med de kompetente myndigheter som angitt på nettsidene oppført i vedlegg II om eventuell verifisering av disse opplysningene.
+1\. Med forbehold for gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske og juridiske personer, enheter og organer
+
+1. omgående gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i med hold av artikkel 2, til de kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, i det land der de er bosatt eller befinner seg, og gi opplysningene, direkte eller indirekte til Kommisjonen, og
+2. samarbeide med de kompetente myndigheter som angitt på nettsidene oppført i vedlegg II om eventuell verifisering av disse opplysningene.
 
 2\. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
 
@@ -676,13 +1032,19 @@ Som unntak fra artikkel 2 kan kompetente myndigheter i en medlemsstat gi tillate
 
 ### Artikkel 7
 
-1\. Medlemsstatene og Kommisjonen skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig omtillatelser gitt i henhold til denne forordningen,opplysninger mottatt i henhold til artikkel 1z,brudd på og håndheving av bestemmelsene, reaksjoner som anvendes ved brudd på bestemmelsene i denne forordningen samt rettsavgjørelser fra nasjonale domstoler.
+1\. Medlemsstatene og Kommisjonen skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om
+
+1. tillatelser gitt i henhold til denne forordningen,
+2. opplysninger mottatt i henhold til artikkel 1z,
+3. brudd på og håndheving av bestemmelsene, reaksjoner som anvendes ved brudd på bestemmelsene i denne forordningen samt rettsavgjørelser fra nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
 3\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til de formålene de gis eller mottas for, herunder for å sikre at tiltakene fastsatt i denne forordningen er effektive.
 
-4\. Ethvert dokument som innehas av Rådet, Kommisjonen eller EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk («høyrepresentanten») med henblikk på å sikre håndheving av tiltakene fastsatt i denne forordningen, eller for å hindre brudd på eller omgåelse av disse, skal være underlagt taushetsplikt og omfattes av den beskyttelsen som gis av reglene som får anvendelse på EUs institusjoner. Denne beskyttelsen skal gjelde for Høyrepresentantens og Kommisjonens felles forslag om endring av denne forordningen og eventuelle forberedende dokumenter knyttet til dem.Det skal legges til grunn at utlevering av dokumenter eller forslag som nevnt i nr. 4 første setning vil skade EUs eller en eller flere av dens medlemsstaters sikkerhet eller deres internasjonale forbindelser.
+4\. Ethvert dokument som innehas av Rådet, Kommisjonen eller EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk («høyrepresentanten») med henblikk på å sikre håndheving av tiltakene fastsatt i denne forordningen, eller for å hindre brudd på eller omgåelse av disse, skal være underlagt taushetsplikt og omfattes av den beskyttelsen som gis av reglene som får anvendelse på EUs institusjoner. Denne beskyttelsen skal gjelde for Høyrepresentantens og Kommisjonens felles forslag om endring av denne forordningen og eventuelle forberedende dokumenter knyttet til dem.
+
+Det skal legges til grunn at utlevering av dokumenter eller forslag som nevnt i nr. 4 første setning vil skade EUs eller en eller flere av dens medlemsstaters sikkerhet eller deres internasjonale forbindelser.
 
 ### Artikkel 8
 
@@ -718,7 +1080,12 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 ### Artikkel 8d
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,enheter nevnt i artikkel 1j, 1k, 1l og 1zb eller oppført i vedlegg V, IX og XV,andre belarusiske personer, enheter eller organer, herunder den belarusiske regjeringen,personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a), b) eller c) i dette nummeret.
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,
+2. enheter nevnt i artikkel 1j, 1k, 1l og 1zb eller oppført i vedlegg V, IX og XV,
+3. andre belarusiske personer, enheter eller organer, herunder den belarusiske regjeringen,
+4. personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a), b) eller c) i dette nummeret.
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
@@ -726,11 +1093,21 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 ### Artikkel 8da
 
-1\. Som unntak fra artikkel 1bb, 1e, 1f, 1fd, 1g, 1ga, 1gc, 1s og 1sa kan kompetente myndigheter tillate salg, levering eller overføring av varer og teknologi oppført i vedlegg Va, VI, XIV, XVII, XVIII, XX, XXIV og XXV fram til 31. desember 2024, dersom salget, leveringen eller overføringen er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:varene og teknologien eies av en statsborger i en medlemsstat eller av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, eller av juridiske personer, enheter eller organer etablert i Belarus og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat,kompetente myndigheter som treffer beslutning om tillatelse har ingen rimelig grunn til å anta at varene og teknologien kan ha en militær sluttbruk, eller ha militær sluttbruk, i Belarus, ogvarene og teknologien befant seg fysisk i Belarus før de aktuelle forbudene i artikkel 1bb, 1e, 1f, 1fd, 1g, 1ga, 1gc, 1s og 1sa trådte i kraft med hensyn til slike varer og teknologi.
+1\. Som unntak fra artikkel 1bb, 1e, 1f, 1fd, 1g, 1ga, 1gc, 1s og 1sa kan kompetente myndigheter tillate salg, levering eller overføring av varer og teknologi oppført i vedlegg Va, VI, XIV, XVII, XVIII, XX, XXIV og XXV fram til 31. desember 2024, dersom salget, leveringen eller overføringen er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:
 
-2\. Som unntak fra artikkel 1h, med hensyn til mineralske produkter, og fra artikkel 1o, 1p, 1q, 1r, 1ra og 1rb, kan kompetente myndigheter tillate import eller overføring av varer oppført i vedlegg VII, X, XI, XII, XIII, XXI, XXII og XXVII fram til 31. desember 2024, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:varene eies av en statsborger i en medlemsstat eller av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, eller av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, ogde aktuelle varene befant seg fysisk i Belarus før forbudene som gjelder mineralske produkter i artikkel 1h eller de relevante forbudene i artikkel 1o, 1p, 1q, 1r, 1ra og 1rb, trådte i kraft med hensyn til slike varer.
+1. varene og teknologien eies av en statsborger i en medlemsstat eller av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, eller av juridiske personer, enheter eller organer etablert i Belarus og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat,
+2. kompetente myndigheter som treffer beslutning om tillatelse har ingen rimelig grunn til å anta at varene og teknologien kan ha en militær sluttbruk, eller ha militær sluttbruk, i Belarus, og
+3. varene og teknologien befant seg fysisk i Belarus før de aktuelle forbudene i artikkel 1bb, 1e, 1f, 1fd, 1g, 1ga, 1gc, 1s og 1sa trådte i kraft med hensyn til slike varer og teknologi.
 
-3\. Som unntak fra artikkel 1jc kan kompetente myndigheter tillate videreføring av tjenesteyting til 31. desember 2024, dersom slik tjenesteyting er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:slike tjenester ytes til, og utelukkende til fordel for, de juridiske personene, enhetene eller organene som er resultatet av avhendelsen, ogkompetente myndigheter som treffer beslutning om tillatelse har ingen rimelig grunn til å anta at tjenestene kan bli tilbudt, direkte eller indirekte, til Belarus' regjeringen eller til en militær sluttbruker, eller ha militær sluttbruk i Belarus.
+2\. Som unntak fra artikkel 1h, med hensyn til mineralske produkter, og fra artikkel 1o, 1p, 1q, 1r, 1ra og 1rb, kan kompetente myndigheter tillate import eller overføring av varer oppført i vedlegg VII, X, XI, XII, XIII, XXI, XXII og XXVII fram til 31. desember 2024, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:
+
+1. varene eies av en statsborger i en medlemsstat eller av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, eller av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, og
+2. de aktuelle varene befant seg fysisk i Belarus før forbudene som gjelder mineralske produkter i artikkel 1h eller de relevante forbudene i artikkel 1o, 1p, 1q, 1r, 1ra og 1rb, trådte i kraft med hensyn til slike varer.
+
+3\. Som unntak fra artikkel 1jc kan kompetente myndigheter tillate videreføring av tjenesteyting til 31. desember 2024, dersom slik tjenesteyting er strengt nødvendig for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus, forutsatt at følgende vilkår er oppfylt:
+
+1. slike tjenester ytes til, og utelukkende til fordel for, de juridiske personene, enhetene eller organene som er resultatet av avhendelsen, og
+2. kompetente myndigheter som treffer beslutning om tillatelse har ingen rimelig grunn til å anta at tjenestene kan bli tilbudt, direkte eller indirekte, til Belarus' regjeringen eller til en militær sluttbruker, eller ha militær sluttbruk i Belarus.
 
 4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, 2 og 3, senest to uker etter at tillatelsen er gitt.
 
@@ -738,7 +1115,14 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 ### Artikkel 8e
 
-1\. Rådet, Kommisjonen og EUs høye representant for utenriks- og sikkerhetspolitikk (heretter kalt «EUs høye representant») skal behandle personopplysninger som er nødvendige for å kunne utføre oppgavene de er pålagt i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av vedlegg I,for EUs høye representants del å utarbeide endringer av vedlegg I,for Kommisjonens delå føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og EUs høye representant for utenriks- og sikkerhetspolitikk (heretter kalt «EUs høye representant») skal behandle personopplysninger som er nødvendige for å kunne utføre oppgavene de er pålagt i henhold til denne forordningen. Disse oppgavene består blant annet i
+
+1. for Rådets del å utarbeide og foreta endringer av vedlegg I,
+2. for EUs høye representants del å utarbeide endringer av vedlegg I,
+3. for Kommisjonens del
+
+   1. å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,
+   2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
 2\. Der det er aktuelt, kan Rådet, Kommisjonen og EUs høye representant behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg I.
 
@@ -762,7 +1146,10 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 1\. Ved salg, levering, overføring eller eksport til et tredjeland, med unntak av land som oppført i vedlegg Vba til denne forordningen, av varer eller teknologi oppført i vedlegg XVI, XVII og XXVIII til denne forordningen, felles høyt prioriterte produkter oppført i vedlegg XXX til denne forordningen eller skytevåpen og ammunisjon oppført i vedlegg I til forordning [(EU) nr. 258/2012](eu/32012r0258), skal eksportører i kontrakt forby reeksport til Belarus og reeksport for bruk i Belarus.
 
-2\. Nr. 1 gjelder ikkeoppfyllelse av kontrakter som gjelder varer som faller inn under KN-kode 8457 10, 8458 11, 8458 91, 8459 61 og 8466 93, som oppført i vedlegg XXX,oppfyllelse av kontrakter inngått før 1. juli 2024, til kontraktenes utløpsdato.
+2\. Nr. 1 gjelder ikke
+
+1. oppfyllelse av kontrakter som gjelder varer som faller inn under KN-kode 8457 10, 8458 11, 8458 91, 8459 61 og 8466 93, som oppført i vedlegg XXX,
+2. oppfyllelse av kontrakter inngått før 1. juli 2024, til kontraktenes utløpsdato.
 
 3\. Nr. 1 gjelder ikke offentlige kontrakter inngått med en offentlig myndighet i et tredjeland eller med en internasjonal organisasjon.
 
@@ -776,7 +1163,10 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 ### Artikkel 8ga
 
-1\. Fysiske og juridiske personer, enheter og organer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX skal, fra og med 2. januar 2025treffe hensiktsmessige tiltak i forhold til deres art og størrelse, for å identifisere og vurdere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,gjennomføre hensiktsmessige retningslinjer, kontroller og framgangsmåter i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, enten disse risikoene identifiseres hos dem eller på medlemsstats- eller unionsplan.
+1\. Fysiske og juridiske personer, enheter og organer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX skal, fra og med 2. januar 2025
+
+1. treffe hensiktsmessige tiltak i forhold til deres art og størrelse, for å identifisere og vurdere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,
+2. gjennomføre hensiktsmessige retningslinjer, kontroller og framgangsmåter i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, enten disse risikoene identifiseres hos dem eller på medlemsstats- eller unionsplan.
 
 2\. Nr. 1 får ikke anvendelse på fysiske og juridiske personer, enheter og organer som utelukkende selger, leverer eller overfører felles høyt prioriterte produkter som oppført i vedlegg XXX, i EU eller til landene oppført i vedlegg Vba til denne forordningen.
 
@@ -794,7 +1184,10 @@ Fysiske og juridiske personer, enheter og organer skal gjøre sitt ytterste for 
 
 ### Artikkel 8j
 
-1\. I samsvar med respekten for taushetsplikten mellom advokater og deres klienter som er garantert i artikkel 7 i [Den europeiske unions charter om grunnleggende rettigheter](eu/12016p), og der det er relevant, uten at det berører reglene om konfidensialitet for opplysninger som innehas av rettsmyndigheter, skal fysiske og juridiske personer, enheter og organergi alle opplysninger som kan lette gjennomføringen av denne forordningen, til kompetent myndighet i medlemsstaten der de er bosatt eller befinner seg, senest to uker etter at de har mottatt opplysningene, ogsamarbeide med kompetent myndighet om en eventuell verifisering av disse opplysningene.
+1\. I samsvar med respekten for taushetsplikten mellom advokater og deres klienter som er garantert i artikkel 7 i [Den europeiske unions charter om grunnleggende rettigheter](eu/12016p), og der det er relevant, uten at det berører reglene om konfidensialitet for opplysninger som innehas av rettsmyndigheter, skal fysiske og juridiske personer, enheter og organer
+
+1. gi alle opplysninger som kan lette gjennomføringen av denne forordningen, til kompetent myndighet i medlemsstaten der de er bosatt eller befinner seg, senest to uker etter at de har mottatt opplysningene, og
+2. samarbeide med kompetent myndighet om en eventuell verifisering av disse opplysningene.
 
 2\. Ved anvendelsen av nr. 1 skal taushetsplikten mellom advokater og deres klienter omfatte taushetsplikt knyttet til juridisk rådgivning fra andre sertifiserte fagfolk som er autorisert i henhold til nasjonal rett til å representere sine klienter under rettergang, i den grad slik juridisk rådgivning gis i forbindelse med pågående eller framtidig rettergang.
 
@@ -822,7 +1215,13 @@ Når denne forordningen inneholder et krav om at Kommisjonen skal notifiseres, u
 
 ### Artikkel 10
 
-Denne forordning får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,overfor alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere av en medlemsstat,overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til en medlemsstats lovgivning,overfor alle juridiske personer, enheter eller organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordning får anvendelse
+
+- på EUs territorium, herunder i EUs luftrom,
+- om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+- overfor alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere av en medlemsstat,
+- overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+- overfor alle juridiske personer, enheter eller organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 11
 
@@ -1046,7 +1445,14 @@ Linear cutting explosive charges not controlled by the Common Military List;
 
 4.3.
 
-Other explosives not controlled by the Common Military List and related substances as follows:amatol;nitrocellulose (containing more than 12,5 % nitrogen);nitroglycol;pentaerythritol tetranitrate (PETN);picryl chloride;2,4,6-trinitrotoluene (TNT).
+Other explosives not controlled by the Common Military List and related substances as follows:
+
+1. amatol;
+2. nitrocellulose (containing more than 12,5 % nitrogen);
+3. nitroglycol;
+4. pentaerythritol tetranitrate (PETN);
+5. picryl chloride;
+6. 2,4,6-trinitrotoluene (TNT).
 
 5\.
 
@@ -1060,7 +1466,10 @@ Body armour providing ballistic and/or stabbing protection;
 
 Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.
 
-- *Note: This item does not control:**equipment specially designed for sports activities,**equipment specially designed for safety of work requirements.*
+- *Note: This item does not control:*
+
+  - *equipment specially designed for sports activities,*
+  - *equipment specially designed for safety of work requirements.*
 
 6\.
 
@@ -1098,14 +1507,36 @@ Utstyr, teknologi og programvare som det er henvist til i [artiklene 1c](forskri
 Notwithstanding the contents of this Annex, it shall not apply to:
 
 1. equipment, technology or software which are specified in Annex I to [Council Regulation (EC) No 428/2009](eu/32009r0428) (1) or the Common Military List; or
-2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over the counter transactions;mail order transactions;electronic transactions; ortelephone order transactions; or
+2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
+
+   1. over the counter transactions;
+   2. mail order transactions;
+   3. electronic transactions; or
+   4. telephone order transactions; or
 3. software which is in the public domain.
 
 The categories A, B, C, D and E refer to the categories referred to in [Regulation (EC) No 428/2009](eu/32009r0428).
 
 The equipment, technology and software referred to in Articles 1c and 1d is:
 
-1. List of equipment:Deep Packet Inspection equipment,Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment,Radio Frequency monitoring equipment,Network and Satellite jamming equipment,Remote Infection equipment,Speaker recognition/processing equipment,IMSI (2), MSISDN (3), IMEI (4), TMSI (5) interception and monitoring equipment,Systems, equipment, and components therefor, specially designed or modified for the generation, command and control, or delivery of intrusion software as defined in [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council.Equipment designed or modified to perform cryptanalysis,Tactical SMS (7) /GSM (8) /GPS (9) /GPRS (10) /UMTS (11) /CDMA (12) /PSTN (13) interception and monitoring equipment,DHCP (14) /SMTP (15), GTP (16) information interception and monitoring equipment,Pattern Recognition and Pattern Profiling equipment,Remote Forensics equipment,Semantic Processing Engine equipment,WEP and WPA code breaking equipment,Interception equipment for VoIP proprietary and standard protocol.
+1. List of equipment:
+
+   - Deep Packet Inspection equipment,
+   - Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment,
+   - Radio Frequency monitoring equipment,
+   - Network and Satellite jamming equipment,
+   - Remote Infection equipment,
+   - Speaker recognition/processing equipment,
+   - IMSI (2), MSISDN (3), IMEI (4), TMSI (5) interception and monitoring equipment,
+   - Systems, equipment, and components therefor, specially designed or modified for the generation, command and control, or delivery of intrusion software as defined in [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council.
+   - Equipment designed or modified to perform cryptanalysis,
+   - Tactical SMS (7) /GSM (8) /GPS (9) /GPRS (10) /UMTS (11) /CDMA (12) /PSTN (13) interception and monitoring equipment,
+   - DHCP (14) /SMTP (15), GTP (16) information interception and monitoring equipment,
+   - Pattern Recognition and Pattern Profiling equipment,
+   - Remote Forensics equipment,
+   - Semantic Processing Engine equipment,
+   - WEP and WPA code breaking equipment,
+   - Interception equipment for VoIP proprietary and standard protocol.
 2. Not used.
 3. Not used.
 4. «Software» for the «development», «production» or «use» of the equipment specified in point A and «software» having the characteristics of, or performing or simulating, the functions of the equipment specified in point A.
@@ -1159,18 +1590,79 @@ Without prejudice to Article 1m of this Regulation, non-controlled items contain
 
 X.A.I.001 Electronic devices and components.
 
-1. «Microprocessor microcircuits», «microcomputer microcircuits», and microcontroller microcircuits having any of the following:A performance speed of 5 GigaFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;A clock frequency rate exceeding 25 MHz; orMore than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel «microprocessor microcircuits» with a transfer rate of 2,5 Mbyte/s;
-2. Storage integrated circuits, as follows:Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;Exceeding 16 Mbits per package for flash memory types; orExceeding either of the following limits for all other EEPROM types:Exceeding 1 Mbit per package; orExceeding 256 kbit per package and a maximum access time of less than 80 ns;Static random access memories (SRAMs) with a storage capacity:Exceeding 1 Mbit per package; orExceeding 256 kbit per package and a maximum access time of less than 25 ns;
-3. Analogue-to-digital converters having any of the following:A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 Mega Samples Per Second (MSPS);A resolution of 12 bit with an output rate greater than 105 Mega Samples per Second (MSPS);A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 Mega Samples per Second (MSPS); orA resolution of more than 14 bit with an output rate greater than 2,5 Mega Samples Per Second (MSPS);
+1. «Microprocessor microcircuits», «microcomputer microcircuits», and microcontroller microcircuits having any of the following:
+
+   1. A performance speed of 5 GigaFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;
+   2. A clock frequency rate exceeding 25 MHz; or
+   3. More than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel «microprocessor microcircuits» with a transfer rate of 2,5 Mbyte/s;
+2. Storage integrated circuits, as follows:
+
+   1. Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;
+
+      1. Exceeding 16 Mbits per package for flash memory types; or
+      2. Exceeding either of the following limits for all other EEPROM types:
+
+         1. Exceeding 1 Mbit per package; or
+         2. Exceeding 256 kbit per package and a maximum access time of less than 80 ns;
+   2. Static random access memories (SRAMs) with a storage capacity:
+
+      1. Exceeding 1 Mbit per package; or
+      2. Exceeding 256 kbit per package and a maximum access time of less than 25 ns;
+3. Analogue-to-digital converters having any of the following:
+
+   1. A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 Mega Samples Per Second (MSPS);
+   2. A resolution of 12 bit with an output rate greater than 105 Mega Samples per Second (MSPS);
+   3. A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 Mega Samples per Second (MSPS); or
+   4. A resolution of more than 14 bit with an output rate greater than 2,5 Mega Samples Per Second (MSPS);
 4. Field programmable logic devices having a maximum number of single-ended digital input/outputs between 200 and 700;
 5. Fast Fourier Transform (FFT) processors having a rated execution time for a 1 024 point complex FFT of less than 1 ms;
-6. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:More than 144 terminals; orA typical basic propagation delay time of less than 0,4 ns;
-7. Traveling-wave «vacuum electronic devices», pulsed or continuous wave, as follows:Coupled cavity devices, or derivatives thereof;Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:An «instantaneous bandwidth» of half an octave or more and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,2; orAn «instantaneous bandwidth» of less than half an octave; and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,4;
+6. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
+
+   1. More than 144 terminals; or
+   2. A typical basic propagation delay time of less than 0,4 ns;
+7. Traveling-wave «vacuum electronic devices», pulsed or continuous wave, as follows:
+
+   1. Coupled cavity devices, or derivatives thereof;
+   2. Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:
+
+      1. An «instantaneous bandwidth» of half an octave or more and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,2; or
+      2. An «instantaneous bandwidth» of less than half an octave; and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,4;
 8. Flexible waveguides designed for use at frequencies exceeding 40 GHz;
-9. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having either of the following:A carrier frequency exceeding 1 GHz; orA carrier frequency of 1 GHz or less; andA «frequency side-lobe rejection» exceeding 55 dB;A product of the maximum delay time and bandwidth (time in μs and bandwidth in MHz) of more than 100; orA dispersive delay of more than 10 μs;Technical Note: For the purpose of X.A.I.001.i «Frequency side-lobe rejection» is the maximum rejection value specified in data sheet.
-10. «Cells» as follows:«Primary cells» having an «energy density» of 550 Wh/kg or less at 293 K (20 °C);«Secondary cells» having an «energy density» of 350 Wh/kg or less at 293 K (20 °C);Note: X.A.I.001.j does not control batteries, including single cell batteries.Technical Notes:For the purpose of X.A.I.001.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.For the purpose of X.A.I.001.j, a «cell» is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.For the purpose of X.A.I.001.j.1, a «primary cell» is a «cell» that is not designed to be charged by any other source.For the purpose of X.A.I.001.j.2, a «secondary cell» is a «cell» that is designed to be charged by an external electrical source.
-11. «Superconductive» electromagnets or solenoids specially designed to be fully charged or discharged in less than one minute, having all of the following:Note: X.A.I.001.k does not control «superconductive» electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;Inner diameter of the current carrying windings of more than 250 mm; andRated for a magnetic induction of more than 8T or «overall current density» in the winding of more than 300 A/mm2;
-12. Circuits or systems for electromagnetic energy storage, containing components manufactured from «superconductive» materials specially designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents, having all of the following:Resonant operating frequencies exceeding 1 MHz;A stored energy density of 1 MJ/m3 or more; andA discharge time of less than 1 ms;
+9. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having either of the following:
+
+   1. A carrier frequency exceeding 1 GHz; or
+   2. A carrier frequency of 1 GHz or less; and
+
+      1. A «frequency side-lobe rejection» exceeding 55 dB;
+      2. A product of the maximum delay time and bandwidth (time in μs and bandwidth in MHz) of more than 100; or
+      3. A dispersive delay of more than 10 μs;
+
+   Technical Note: For the purpose of X.A.I.001.i «Frequency side-lobe rejection» is the maximum rejection value specified in data sheet.
+10. «Cells» as follows:
+
+    1. «Primary cells» having an «energy density» of 550 Wh/kg or less at 293 K (20 °C);
+    2. «Secondary cells» having an «energy density» of 350 Wh/kg or less at 293 K (20 °C);
+
+    Note: X.A.I.001.j does not control batteries, including single cell batteries.
+
+    Technical Notes:
+
+    1. For the purpose of X.A.I.001.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+    2. For the purpose of X.A.I.001.j, a «cell» is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+    3. For the purpose of X.A.I.001.j.1, a «primary cell» is a «cell» that is not designed to be charged by any other source.
+    4. For the purpose of X.A.I.001.j.2, a «secondary cell» is a «cell» that is designed to be charged by an external electrical source.
+11. «Superconductive» electromagnets or solenoids specially designed to be fully charged or discharged in less than one minute, having all of the following:
+
+    Note: X.A.I.001.k does not control «superconductive» electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.
+
+    1. Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;
+    2. Inner diameter of the current carrying windings of more than 250 mm; and
+    3. Rated for a magnetic induction of more than 8T or «overall current density» in the winding of more than 300 A/mm2;
+12. Circuits or systems for electromagnetic energy storage, containing components manufactured from «superconductive» materials specially designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents, having all of the following:
+
+    1. Resonant operating frequencies exceeding 1 MHz;
+    2. A stored energy density of 1 MJ/m3 or more; and
+    3. A discharge time of less than 1 ms;
 13. Hydrogen/hydrogen-isotope thyratrons of ceramic-metal construction and rate for a peak current of 500 A or more;
 14. Ceramic frequency filters;
 15. Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are «space qualified» and not controlled by 3A001.e.4;
@@ -1179,10 +1671,17 @@ X.A.I.001 Electronic devices and components.
 X.A.I.002 General purpose «electronic assemblies», modules and equipment.
 
 1. Electronic test equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-2. Digital instrumentation magnetic tape data recorders having any of the following characteristics;A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or«Space qualified»;
+2. Digital instrumentation magnetic tape data recorders having any of the following characteristics;
+
+   1. A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;
+   2. A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or
+   3. «Space qualified»;
 3. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
 4. Non-modular analogue oscilloscopes having a bandwidth of 1 GHz or greater;
-5. Modular analogue oscilloscope systems having either of the following characteristics:A mainframe with a bandwidth of 1 GHz or greater; orPlug-in modules with an individual bandwidth of 4 GHz or greater;
+5. Modular analogue oscilloscope systems having either of the following characteristics:
+
+   1. A mainframe with a bandwidth of 1 GHz or greater; or
+   2. Plug-in modules with an individual bandwidth of 4 GHz or greater;
 6. Analogue sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz;
 7. Digital oscilloscopes and transient recorders, using analogue-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 Giga Samples per Second (GSPS)), digitising to 8 bits or greater resolution and storing 256 or more samples.
 
@@ -1200,20 +1699,205 @@ X.A.I.003 Specific processing equipment, other than those specified in the CML o
 2. Mass spectrometers, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
 3. All flash X-ray machines, or components of pulsed power systems designed thereof, including Marx generators, high power pulse shaping networks, high voltage capacitors, and triggers;
 4. Pulse amplifiers, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-5. Electronic equipment for time delay generation or time interval measurement, as follows:Digital time delay generators with a resolution of 50 ns or less over time intervals of 1 μs or greater; orMulti-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 ns or less over time intervals of 1 μs or greater;
+5. Electronic equipment for time delay generation or time interval measurement, as follows:
+
+   1. Digital time delay generators with a resolution of 50 ns or less over time intervals of 1 μs or greater; or
+   2. Multi-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 ns or less over time intervals of 1 μs or greater;
 6. Chromatography and spectrometry analytical instruments.
 
 X.B.I.001 Equipment for the manufacture of electronic components or materials, as follows and specially designed components and accessories therefor:
 
 1. Equipment specially designed for the manufacture of electron tubes, optical elements and specially designed components therefor controlled by 3A001 or X.A.I.001;
-2. Equipment specially designed for the manufacture of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:Note: X.B.I.001.b. also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.Equipment for the processing of materials for the manufacture of devices and components as specified in the heading of X.B.I.001.b, as follows:Note: X.B.I.001 does not control quartz furnace tubes, furnace liners, paddles, boats (except specially designed caged boats), bubblers, cassettes or crucibles specially designed for the processing equipment controlled by X.B.I.001.b.1.Equipment for producing polycrystalline silicon and materials controlled by 3C001;Equipment specially designed for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 except crystal pullers, for which see X.B.I.001.b.1.c below;Crystal pullers and furnaces, as follows:Note: X.B.I.001.b.1.c does not control diffusion and oxidation furnaces.Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0,005 m2 per minute;«Stored program controlled» crystal pullers having any of the following characteristics:Rechargeable without replacing the crucible container;Capable of operation at pressures above 2,5 x 105 Pa; orCapable of pulling crystals of a diameter exceeding 100 mm;«Stored program controlled» equipment for epitaxial growth having any of the following characteristics:Capable of producing silicon layer with a thickness uniform to less than ± 2,5 % across a distance of 200 mm or more;Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ± 3,5 %; orRotation of individual wafers during processing;Molecular beam epitaxial growth equipment;Magnetically enhanced «sputtering» equipment with specially designed integral load locks capable of transferring wafers in an isolated vacuum environment;Equipment specially designed for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:Patterning capability;Beam energy (accelerating voltage) exceeding 200 keV;Optimised to operate at a beam energy (accelerating voltage) of less than 10 keV; orCapable of high energy oxygen implant into a heated «substrate»;«Stored program controlled» equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:«Batch types» having either of the following:End-point detection, other than optical emission spectroscopy types; orReactor operational (etching) pressure of 26,66 Pa or less;«Single wafer types» having any of the following:End-point detection, other than optical emission spectroscopy types;Reactor operational (etching) pressure of 26,66 Pa or less; orCassette-to-cassette and load locks wafer handling;Notes:«Batch types» refers to machines not specially designed for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates.«Single wafer types» refers to machines specially designed for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.Chemical vapour deposition (CVD) equipment, e.g., plasmaenhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:Chemical vapour deposition equipment operating below 105 Pa; orPECVD equipment operating either below 60 Pa or having automatic cassette-to-cassette and load lock wafer handling;Note: X.B.I.001.b.1.i does not control low pressure chemical vapour deposition (LPCVD) systems or reactive «sputtering» equipment.Electron beam systems specially designed or modified for mask making or semiconductor device processing having any of the following characteristics:Electrostatic beam deflection;Shaped, non-Gaussian beam profile;Digital-to-analogue conversion rate exceeding 3 MHz;Digital-to-analogue conversion accuracy exceeding 12 bit; orTarget-to-beam position feedback control precision of 1 μm or finer;Note: X.B.I.001.b.1.j does not control electron beam deposition systems or general purpose scanning electron microscopes.Surface finishing equipment for the processing of semiconductor wafers as follows:Specially designed equipment for backside processing of wafers thinner than 100 μm and the subsequent separation thereof; orSpecially designed equipment for achieving a surface roughness of the active surface of a processed wafer with a two-sigma value of 2 μm or less, total indicator reading (TIR);Note: X.B.I.001.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.Interconnection equipment which includes common single or multiple vacuum chambers specially designed to permit the integration of any equipment controlled by X.B.I.001 into a complete system;«Stored program controlled» equipment using «lasers» for the repair or trimming of «monolithic integrated circuits» with either of the following characteristics:Positioning accuracy less than ± 1 μm; orSpot size (kerf width) less than 3 μm.Technical Note: For the purpose of X.B.I.001.b.1, «sputtering» is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. (Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process).Masks, mask substrates, mask-making equipment and image transfer equipment for the manufacture of devices and components as specified in the heading of X.B.I.001, as follows:Note: The term masks refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.Finished masks, reticles and designs therefor, except:Finished masks or reticles for the production of integrated circuits not controlled by 3A001; orMasks or reticles, having both of the following characteristics:Their design is based on geometries of 2,5 μm or more; andThe design does not include special features to alter the intended use by means of production equipment or «software»;Mask substrates as follows:Hard surface (e.g., chromium, silicon, molybdenum) coated «substrates» (e.g., glass, quartz, sapphire) for the preparation of masks having dimensions exceeding 125 mm x 125 mm; orSubstrates specially designed for X-ray masks;Equipment, other than general purpose computers, specially designed for computer aided design (CAD) of semiconductor devices or integrated circuits;Equipment or machines, as follows, for mask or reticle fabrication:Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2,5 μm in the photoresist on the «substrate»;Mask or reticle fabrication equipment using ion or «laser» beam lithography capable of producing line widths of less than 2,5 μm; orEquipment or holders for altering masks or reticles or adding pellicles to remove defects;Note: X.B.I.001.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before 1 January 1980, or has a performance no better than such equipment.«Stored program controlled» equipment for the inspection of masks, reticles or pellicles with:A resolution of 0,25 μm or finer; andA precision of 0,75 μm or finer over a distance in one or two coordinates of 63,5 mm or more;Note: X.B.I.001.b.2.e does not control general purpose scanning electron microscopes except when specially designed and instrumented for automatic pattern inspection.Align and expose equipment for wafer production using photooptical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:Note: X.B.I.001.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.Production of a pattern size of less than 2,5 μm;Alignment with a precision finer than ± 0,25 μm (3 sigma);Machine-to-machine overlay no better than ± 0,3 μm; orA light source wavelength shorter than 400 nm;Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2,5 μm;Note: For focused, deflected-beam systems (direct write systems), see X.B.I.001.b.1.j.Equipment using «lasers» for direct write on wafers capable of producing patterns less than 2,5 μm.Equipment for the assembly of integrated circuits, as follows:«Stored program controlled» die bonders having all of the following characteristics:Specially designed for «hybrid integrated circuits»;X-Y stage positioning travel exceeding 37,5 x 37,5 mm; andPlacement accuracy in the X-Y plane of finer than ± 10 μm;«Stored program controlled» equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, specially designed for ceramic microcircuit packages controlled by 3A001 and that have a throughput equal to or more than one package per minute.Note: X.B.I.001.b.3 does not control general purpose resistance type spot welders.Filters for clean rooms capable of providing an air environment of 10 or less particles of 0,3 μm or smaller per 0,02832 m3 and filter materials therefor.
+2. Equipment specially designed for the manufacture of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:
+
+   Note: X.B.I.001.b. also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+   1. Equipment for the processing of materials for the manufacture of devices and components as specified in the heading of X.B.I.001.b, as follows:
+
+      Note: X.B.I.001 does not control quartz furnace tubes, furnace liners, paddles, boats (except specially designed caged boats), bubblers, cassettes or crucibles specially designed for the processing equipment controlled by X.B.I.001.b.1.
+
+      1. Equipment for producing polycrystalline silicon and materials controlled by 3C001;
+      2. Equipment specially designed for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 except crystal pullers, for which see X.B.I.001.b.1.c below;
+      3. Crystal pullers and furnaces, as follows:
+
+         Note: X.B.I.001.b.1.c does not control diffusion and oxidation furnaces.
+
+         1. Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0,005 m2 per minute;
+         2. «Stored program controlled» crystal pullers having any of the following characteristics:
+
+            1. Rechargeable without replacing the crucible container;
+            2. Capable of operation at pressures above 2,5 x 105 Pa; or
+            3. Capable of pulling crystals of a diameter exceeding 100 mm;
+      4. «Stored program controlled» equipment for epitaxial growth having any of the following characteristics:
+
+         1. Capable of producing silicon layer with a thickness uniform to less than ± 2,5 % across a distance of 200 mm or more;
+         2. Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ± 3,5 %; or
+         3. Rotation of individual wafers during processing;
+      5. Molecular beam epitaxial growth equipment;
+      6. Magnetically enhanced «sputtering» equipment with specially designed integral load locks capable of transferring wafers in an isolated vacuum environment;
+      7. Equipment specially designed for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:
+
+         1. Patterning capability;
+         2. Beam energy (accelerating voltage) exceeding 200 keV;
+         3. Optimised to operate at a beam energy (accelerating voltage) of less than 10 keV; or
+         4. Capable of high energy oxygen implant into a heated «substrate»;
+      8. «Stored program controlled» equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:
+
+         1. «Batch types» having either of the following:
+
+            1. End-point detection, other than optical emission spectroscopy types; or
+            2. Reactor operational (etching) pressure of 26,66 Pa or less;
+         2. «Single wafer types» having any of the following:
+
+            1. End-point detection, other than optical emission spectroscopy types;
+            2. Reactor operational (etching) pressure of 26,66 Pa or less; or
+            3. Cassette-to-cassette and load locks wafer handling;
+
+         Notes:
+
+         1. «Batch types» refers to machines not specially designed for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates.
+         2. «Single wafer types» refers to machines specially designed for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.
+      9. Chemical vapour deposition (CVD) equipment, e.g., plasmaenhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:
+
+         1. Chemical vapour deposition equipment operating below 105 Pa; or
+         2. PECVD equipment operating either below 60 Pa or having automatic cassette-to-cassette and load lock wafer handling;
+
+         Note: X.B.I.001.b.1.i does not control low pressure chemical vapour deposition (LPCVD) systems or reactive «sputtering» equipment.
+      10. Electron beam systems specially designed or modified for mask making or semiconductor device processing having any of the following characteristics:
+
+          1. Electrostatic beam deflection;
+          2. Shaped, non-Gaussian beam profile;
+          3. Digital-to-analogue conversion rate exceeding 3 MHz;
+          4. Digital-to-analogue conversion accuracy exceeding 12 bit; or
+          5. Target-to-beam position feedback control precision of 1 μm or finer;
+
+          Note: X.B.I.001.b.1.j does not control electron beam deposition systems or general purpose scanning electron microscopes.
+      11. Surface finishing equipment for the processing of semiconductor wafers as follows:
+
+          1. Specially designed equipment for backside processing of wafers thinner than 100 μm and the subsequent separation thereof; or
+          2. Specially designed equipment for achieving a surface roughness of the active surface of a processed wafer with a two-sigma value of 2 μm or less, total indicator reading (TIR);
+
+          Note: X.B.I.001.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.
+      12. Interconnection equipment which includes common single or multiple vacuum chambers specially designed to permit the integration of any equipment controlled by X.B.I.001 into a complete system;
+      13. «Stored program controlled» equipment using «lasers» for the repair or trimming of «monolithic integrated circuits» with either of the following characteristics:
+
+          1. Positioning accuracy less than ± 1 μm; or
+          2. Spot size (kerf width) less than 3 μm.
+
+      Technical Note: For the purpose of X.B.I.001.b.1, «sputtering» is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. (Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process).
+   2. Masks, mask substrates, mask-making equipment and image transfer equipment for the manufacture of devices and components as specified in the heading of X.B.I.001, as follows:
+
+      Note: The term masks refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.
+
+      1. Finished masks, reticles and designs therefor, except:
+
+         1. Finished masks or reticles for the production of integrated circuits not controlled by 3A001; or
+         2. Masks or reticles, having both of the following characteristics:
+
+            1. Their design is based on geometries of 2,5 μm or more; and
+            2. The design does not include special features to alter the intended use by means of production equipment or «software»;
+      2. Mask substrates as follows:
+
+         1. Hard surface (e.g., chromium, silicon, molybdenum) coated «substrates» (e.g., glass, quartz, sapphire) for the preparation of masks having dimensions exceeding 125 mm x 125 mm; or
+         2. Substrates specially designed for X-ray masks;
+      3. Equipment, other than general purpose computers, specially designed for computer aided design (CAD) of semiconductor devices or integrated circuits;
+      4. Equipment or machines, as follows, for mask or reticle fabrication:
+
+         1. Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2,5 μm in the photoresist on the «substrate»;
+         2. Mask or reticle fabrication equipment using ion or «laser» beam lithography capable of producing line widths of less than 2,5 μm; or
+         3. Equipment or holders for altering masks or reticles or adding pellicles to remove defects;
+
+         Note: X.B.I.001.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before 1 January 1980, or has a performance no better than such equipment.
+      5. «Stored program controlled» equipment for the inspection of masks, reticles or pellicles with:
+
+         1. A resolution of 0,25 μm or finer; and
+         2. A precision of 0,75 μm or finer over a distance in one or two coordinates of 63,5 mm or more;
+
+         Note: X.B.I.001.b.2.e does not control general purpose scanning electron microscopes except when specially designed and instrumented for automatic pattern inspection.
+      6. Align and expose equipment for wafer production using photooptical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:
+
+         Note: X.B.I.001.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.
+
+         1. Production of a pattern size of less than 2,5 μm;
+         2. Alignment with a precision finer than ± 0,25 μm (3 sigma);
+         3. Machine-to-machine overlay no better than ± 0,3 μm; or
+         4. A light source wavelength shorter than 400 nm;
+      7. Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2,5 μm;
+
+         Note: For focused, deflected-beam systems (direct write systems), see X.B.I.001.b.1.j.
+      8. Equipment using «lasers» for direct write on wafers capable of producing patterns less than 2,5 μm.
+   3. Equipment for the assembly of integrated circuits, as follows:
+
+      1. «Stored program controlled» die bonders having all of the following characteristics:
+
+         1. Specially designed for «hybrid integrated circuits»;
+         2. X-Y stage positioning travel exceeding 37,5 x 37,5 mm; and
+         3. Placement accuracy in the X-Y plane of finer than ± 10 μm;
+      2. «Stored program controlled» equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);
+      3. Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, specially designed for ceramic microcircuit packages controlled by 3A001 and that have a throughput equal to or more than one package per minute.
+
+      Note: X.B.I.001.b.3 does not control general purpose resistance type spot welders.
+   4. Filters for clean rooms capable of providing an air environment of 10 or less particles of 0,3 μm or smaller per 0,02832 m3 and filter materials therefor.
 
 Technical Note: For the purpose of X.B.I.001, «stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
 
 X.B.I.002 Equipment for the inspection or testing of electronic components and materials, and specially designed components and accessories therefor.
 
 1. Equipment specially designed for the inspection or testing of electron tubes, optical elements and specially designed components therefor controlled by 3A001 or X.A.I.001;
-2. Equipment specially designed for the inspection or testing of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:Note: X.B.I.002.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.«Stored program controlled» inspection equipment for the automatic detection of defects, errors or contaminants of 0,6 μm or less in or on processed wafers, substrates, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;Note: X.B.I.002.b.1 does not control general purpose scanning electron microscopes, except when specially designed and instrumented for automatic pattern inspection.Specially designed «stored program controlled» measuring and analysis equipment, as follows:Specially designed for the measurement of oxygen or carbon content in semiconductor materials;Equipment for line width measurement with a resolution of 1 μm or finer;Specially designed flatness measurement instruments capable of measuring deviations from flatness of 10 μm or less with a resolution of 1 μm or finer.«Stored program controlled» wafer probing equipment having any of the following characteristics:Positioning accuracy finer than 3,5 μm;Capable of testing devices having more than 68 terminals; orCapable of testing at a frequency exceeding 1 GHz;Test equipment as follows:«Stored program controlled» equipment specially designed for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;Technical Note: Discrete semiconductor devices include photocells and solar cells.«Stored program controlled» equipment specially designed for testing integrated circuits and «electronic assemblies» thereof, capable of functional testing:At a «pattern rate» exceeding 20 MHz; orAt a «pattern rate» exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.Notes: X.B.I.002.b.4.b does not control test equipment specially designed for testing:Memories;Assemblies or a class of «electronic assemblies» for home and entertainment applications; andElectronic components, «electronic assemblies» and integrated circuits not controlled by 3A001 or X.A.I.001 provided such test equipment does not incorporate computing facilities with «user accessible programmability».Technical Note: For purposes of X.B.I.002.b.4.b, «pattern rate» is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.Equipment specially designed for determining the performance of focal-plane arrays at wavelengths of more than 1 200 nm, using «stored program controlled» measurements or computer aided evaluation and having any of the following characteristics:Using scanning light spot diameters of less than 0,12 mm;Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; orDesigned for evaluating arrays capable of creating images with more than 32 x 32 line elements;Electron beam test systems designed for operation at 3 keV or below, or «laser» beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:Stroboscopic capability with either beam blanking or detector strobing;An electron spectrometer for voltage measurements with a resolution of less than 0,5 V; orElectrical tests fixtures for performance analysis of integrated circuits;Note: X.B.I.002.b.5 does not control scanning electron microscopes, except when specially designed and instrumented for non-contactive probing of a powered-up semiconductor device.«Stored program controlled» multifunctional focused ion beam systems specially designed for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:Target-to-beam position feedback control precision of 1 μm or finer; orDigital-to-analogue conversion accuracy exceeding 12 bit;Particle measuring systems employing «lasers» designed for measuring particle size and concentration in air having both of the following characteristics:Capable of measuring particle sizes of 0,2 μm or less at a flow rate of 0,02832 m3 per minute or more; andCapable of characterizing Class 10 clean air or better.
+2. Equipment specially designed for the inspection or testing of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:
+
+   Note: X.B.I.002.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+   1. «Stored program controlled» inspection equipment for the automatic detection of defects, errors or contaminants of 0,6 μm or less in or on processed wafers, substrates, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;
+
+      Note: X.B.I.002.b.1 does not control general purpose scanning electron microscopes, except when specially designed and instrumented for automatic pattern inspection.
+   2. Specially designed «stored program controlled» measuring and analysis equipment, as follows:
+
+      1. Specially designed for the measurement of oxygen or carbon content in semiconductor materials;
+      2. Equipment for line width measurement with a resolution of 1 μm or finer;
+      3. Specially designed flatness measurement instruments capable of measuring deviations from flatness of 10 μm or less with a resolution of 1 μm or finer.
+   3. «Stored program controlled» wafer probing equipment having any of the following characteristics:
+
+      1. Positioning accuracy finer than 3,5 μm;
+      2. Capable of testing devices having more than 68 terminals; or
+      3. Capable of testing at a frequency exceeding 1 GHz;
+   4. Test equipment as follows:
+
+      1. «Stored program controlled» equipment specially designed for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;
+
+         Technical Note: Discrete semiconductor devices include photocells and solar cells.
+      2. «Stored program controlled» equipment specially designed for testing integrated circuits and «electronic assemblies» thereof, capable of functional testing:
+
+         1. At a «pattern rate» exceeding 20 MHz; or
+         2. At a «pattern rate» exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.
+
+         Notes: X.B.I.002.b.4.b does not control test equipment specially designed for testing:
+
+         1. Memories;
+         2. Assemblies or a class of «electronic assemblies» for home and entertainment applications; and
+         3. Electronic components, «electronic assemblies» and integrated circuits not controlled by 3A001 or X.A.I.001 provided such test equipment does not incorporate computing facilities with «user accessible programmability».
+
+         Technical Note: For purposes of X.B.I.002.b.4.b, «pattern rate» is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.
+      3. Equipment specially designed for determining the performance of focal-plane arrays at wavelengths of more than 1 200 nm, using «stored program controlled» measurements or computer aided evaluation and having any of the following characteristics:
+
+         1. Using scanning light spot diameters of less than 0,12 mm;
+         2. Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; or
+         3. Designed for evaluating arrays capable of creating images with more than 32 x 32 line elements;
+   5. Electron beam test systems designed for operation at 3 keV or below, or «laser» beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:
+
+      1. Stroboscopic capability with either beam blanking or detector strobing;
+      2. An electron spectrometer for voltage measurements with a resolution of less than 0,5 V; or
+      3. Electrical tests fixtures for performance analysis of integrated circuits;
+
+      Note: X.B.I.002.b.5 does not control scanning electron microscopes, except when specially designed and instrumented for non-contactive probing of a powered-up semiconductor device.
+   6. «Stored program controlled» multifunctional focused ion beam systems specially designed for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:
+
+      1. Target-to-beam position feedback control precision of 1 μm or finer; or
+      2. Digital-to-analogue conversion accuracy exceeding 12 bit;
+   7. Particle measuring systems employing «lasers» designed for measuring particle size and concentration in air having both of the following characteristics:
+
+      1. Capable of measuring particle sizes of 0,2 μm or less at a flow rate of 0,02832 m3 per minute or more; and
+      2. Capable of characterizing Class 10 clean air or better.
 
 Technical Note: For the purpose of X.B.I.002, «stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
 
@@ -1243,10 +1927,27 @@ X.C.I.001 Positive resists designed for semiconductor lithography specially adju
 X.C.I.002 Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows:
 
 1. PCB composite substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR-6, CEM-1, G-10, etc.);
-2. Multilayer PCB substrates, containing at least one layer of any of the following materials:Aluminium;Polytetrafluoroethylene (PTFE); orCeramic materials (e.g. alumina, titanium oxide, etc.);
-3. Etchant chemicals;Ferric chloride (7705-08-0);Cupric chloride (7447-39-4);Ammonium persulphate (7727-54-0);Sodium persulphate (7775-27-1); orChemical preparations specially designed for etching and containing any of the chemicals included in X.C.I.002.c.1 to X.C.I.002.c.4.Note: X.C.I.002.c does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.I.002.c in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
+2. Multilayer PCB substrates, containing at least one layer of any of the following materials:
+
+   1. Aluminium;
+   2. Polytetrafluoroethylene (PTFE); or
+   3. Ceramic materials (e.g. alumina, titanium oxide, etc.);
+3. Etchant chemicals;
+
+   1. Ferric chloride (7705-08-0);
+   2. Cupric chloride (7447-39-4);
+   3. Ammonium persulphate (7727-54-0);
+   4. Sodium persulphate (7775-27-1); or
+   5. Chemical preparations specially designed for etching and containing any of the chemicals included in X.C.I.002.c.1 to X.C.I.002.c.4.
+
+   Note: X.C.I.002.c does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.I.002.c in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
 4. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm;
-5. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:Aromatic polyimides;Parylenes;Benzocyclobutenes (BCBs); orPolybenzoxazoles.
+5. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:
+
+   1. Aromatic polyimides;
+   2. Parylenes;
+   3. Benzocyclobutenes (BCBs); or
+   4. Polybenzoxazoles.
 
 X.D.I.0010 «Software» specially designed for the «development», «production», or «use» of electronic devices or components controlled by X.A.I.001, general purpose electronic equipment controlled by X.A.I.002, or manufacturing and test equipment controlled by X.B.I.001 and X.B.I.002; or «software» specially designed for the «use» of equipment controlled by 3B001.g and 3B001.h.
 
@@ -1265,8 +1966,41 @@ X.A.II.001 Computers, «electronic assemblies» and related equipment, not contr
 Note: The control status of the «digital computers» and related equipment described in X.A.II.001 is determined by the control status of other equipment or systems provided:
 
 1. The «digital computers» or related equipment are essential for the operation of the other equipment or systems;
-2. The «digital computers» or related equipment are not a «principal element» of the other equipment or systems; andN.B.1: The control status of «signal processing» or «image enhancement» equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the «principal element» criterion.N.B.2: For the control status of «digital computers» or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications).
-3. The «technology» for the «digital computers» and related equipment is determined by 4E.Electronic computers and related equipment, and «electronic assemblies» and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 °C);«Digital computers», including equipment of «signal processing» or «image enhancement», having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS (WT);«Electronic assemblies» that are specially designed or modified to enhance performance by aggregation of processors, as follows:Designed to be capable of aggregation in configurations of 16 or more processors;Not used;Note 1: X.A.II.001.c applies only to «electronic assemblies» and programmable interconnections with a «APP» not exceeding the limits in X.A.II.001.b, when shipped as unintegrated «electronic assemblies». It does not apply to «electronic assemblies» inherently limited by nature of their design for use as related equipment controlled by X.A.II.001.k.Note 2: X.A.II.001.c does not control any «electronic assembly» specially designed for a product or family of products whose maximum configuration does not exceed the limits of X.A.II.001.b.Not used;Not used;Equipment for «signal processing» or «image enhancement» having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS WT;Not used;Not used;Equipment containing «terminal interface equipment» exceeding the limits in X.A.III.101;Technical Note: For the purpose of X.A.II.001.i, «terminal interface equipment» means equipment at which information enters or leaves the telecommunication system, e.g. telephone, data device, computer, etc.Equipment specially designed to provide external interconnection of «digital computers» or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.Note: X.A.II.001.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, «network access controllers» or «communication channel controllers».Technical Note: For the purpose of X.A.II.001.j, «communication channel controllers» is the physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.Hybrid computers and «electronic assemblies» and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:32 channels or more; andA resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more.
+2. The «digital computers» or related equipment are not a «principal element» of the other equipment or systems; and
+
+   N.B.1: The control status of «signal processing» or «image enhancement» equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the «principal element» criterion.
+
+   N.B.2: For the control status of «digital computers» or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications).
+3. The «technology» for the «digital computers» and related equipment is determined by 4E.
+
+   1. Electronic computers and related equipment, and «electronic assemblies» and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 °C);
+   2. «Digital computers», including equipment of «signal processing» or «image enhancement», having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS (WT);
+   3. «Electronic assemblies» that are specially designed or modified to enhance performance by aggregation of processors, as follows:
+
+      1. Designed to be capable of aggregation in configurations of 16 or more processors;
+      2. Not used;
+
+   Note 1: X.A.II.001.c applies only to «electronic assemblies» and programmable interconnections with a «APP» not exceeding the limits in X.A.II.001.b, when shipped as unintegrated «electronic assemblies». It does not apply to «electronic assemblies» inherently limited by nature of their design for use as related equipment controlled by X.A.II.001.k.
+
+   Note 2: X.A.II.001.c does not control any «electronic assembly» specially designed for a product or family of products whose maximum configuration does not exceed the limits of X.A.II.001.b.
+
+   1. Not used;
+   2. Not used;
+   3. Equipment for «signal processing» or «image enhancement» having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS WT;
+   4. Not used;
+   5. Not used;
+   6. Equipment containing «terminal interface equipment» exceeding the limits in X.A.III.101;
+
+      Technical Note: For the purpose of X.A.II.001.i, «terminal interface equipment» means equipment at which information enters or leaves the telecommunication system, e.g. telephone, data device, computer, etc.
+   7. Equipment specially designed to provide external interconnection of «digital computers» or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.
+
+      Note: X.A.II.001.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, «network access controllers» or «communication channel controllers».
+
+      Technical Note: For the purpose of X.A.II.001.j, «communication channel controllers» is the physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+   8. Hybrid computers and «electronic assemblies» and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:
+
+      1. 32 channels or more; and
+      2. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more.
 
 X.D.II.001 «Program» proof and validation «software», «software» allowing the automatic generation of «source codes», and operating system «software» that are specially designed for «real-time processing» equipment.
 
@@ -1296,10 +2030,109 @@ Note: Category III. Part 1 does not control goods for the personal use of the na
 X.A.III.101 Telecommunication equipment.
 
 1. Any type of telecommunications equipment, not controlled by 5A001.a, specially designed to operate outside the temperature range from 219 K (-54 °C) to 397 K (124 °C).
-2. Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:Note: Telecommunication transmission equipment:Categorised as follows, or combinations thereof:Radio equipment (e.g., transmitters, receivers and transceivers);Line terminating equipment;Intermediate amplifier equipment;Repeater equipment;Regenerator equipment;Translation encoders (transcoders);Multiplex equipment (statistical mutiplex included);Modulators/demodulators (modems);Transmultiplex equipment (see CCITT Rec. G701);«Stored program controlled» digital crossconnection equipment;«Gateways» and bridges;«Media access units»; andDesigned for use in single or multi-channel communication via any of the following:Wire (line);Coaxial cable;Optical fibre cable;Electromagnetic radiation; orUnderwater acoustic wave propagation.Employing digital techniques, including digital processing of analogue signals, and designed to operate at a «digital transfer rate» at the highest multiplex level exceeding 45 Mbit/s or a «total digital transfer rate» exceeding 90 Mbit/s;Note: X.A.III.101.b.1 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.Modems using the «bandwidth of one voice channel» with a «data signalling rate» exceeding 9 600 bits per second;Being «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port;Being equipment containing any of the following:«Network access controllers» and their related common medium having a «digital transfer rate» exceeding 33 Mbit/s; or«Communication channel controllers» with a digital output having a «data signalling rate» exceeding 64 000 bit/s per channel;Note: If any uncontrolled equipment contains a «network access controller», it cannot have any type of telecommunications interface, except those described in, but not controlled by X.A.III.101.b.4.Employing a «laser» and having any of the following characteristics:A transmission wavelength exceeding 1 000 nm; orEmploying analogue techniques and having a bandwidth exceeding45 MHz;Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);Employing wavelength division multiplexing techniques; orPerforming «optical amplification»;Radio equipment operating at input or output frequencies exceeding:31 GHz for satellite-earth station applications; or26,5 GHz for other applications;Note: X.A.III.101.b.6 does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26,5 GHz and 31 GHz.Being radio equipment employing any of the following:Quadrature-amplitude-modulation (QAM) techniques above level 4 if the «total digital transfer rate» exceeds 8,5 Mbit/s;QAM techniques above level 16 if the «total digital transfer rate» is equal to or less than 8,5 Mbit/s;Other digital modulation techniques and having a «spectral efficiency» exceeding 3 bit/s/Hz; orOperating in the 1,5 MHz to 87,5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.Notes:X.A.III.101.b.7 does not control equipment specially designed to beintegrated and operated in any satellite system for civil use.X.A.III.101.b.7 does not control radio relay equipment for operation in an International Telecommunications Union (ITU) allocated band:Having any of the following:Not exceeding 960 MHz; orWith a «total digital transfer rate» not exceeding 8,5 Mbit/s; andHaving a «spectral efficiency» not exceeding 4 bit/s/Hz.
-3. «Stored program controlled» switching equipment and related signalling systems, having any of the following characteristics, functions or features, and specially designed components and accessories therefor:Note: Statistical multiplexers with digital input and digital output which provide switching are treated as «stored program controlled» switches.«Data (message) switching» equipment or systems designed for «packet-mode operation», «electronic assemblies» and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);Not used;Routing or switching of «datagram» packets;Note: X.A.III.101.c.3 does not control networks restricted to using only «network access controllers» or to «network access controllers» themselves.Not used;Multi-level priority and pre-emption for circuit switching;Note: X.A.III.101.c.5 does not control single-level call preemption.Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralised subscriber data base common to more than one switch;Containing «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port:«Common channel signalling» operating in either non-associated or quasi-associated mode of operation;«Dynamic adaptive routing»;Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:A «data signalling rate» of 64 000 bit/s per channel for a «communications channel controller»; orNote: X.A.III.101.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by X.A.III.101.b.1.A «digital transfer rate» of 33 Mbit/s for a «network access controller» and related common media;Note: X.A.III.101.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in X.A.III.101.c.10.«Optical switching»;Employing «Asynchronous Transfer Mode» («ATM») techniques.
+2. Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:
+
+   Note: Telecommunication transmission equipment:
+
+   - Categorised as follows, or combinations thereof:
+
+     1. Radio equipment (e.g., transmitters, receivers and transceivers);
+     2. Line terminating equipment;
+     3. Intermediate amplifier equipment;
+     4. Repeater equipment;
+     5. Regenerator equipment;
+     6. Translation encoders (transcoders);
+     7. Multiplex equipment (statistical mutiplex included);
+     8. Modulators/demodulators (modems);
+     9. Transmultiplex equipment (see CCITT Rec. G701);
+     10. «Stored program controlled» digital crossconnection equipment;
+     11. «Gateways» and bridges;
+     12. «Media access units»; and
+   - Designed for use in single or multi-channel communication via any of the following:
+
+     1. Wire (line);
+     2. Coaxial cable;
+     3. Optical fibre cable;
+     4. Electromagnetic radiation; or
+     5. Underwater acoustic wave propagation.
+   - Employing digital techniques, including digital processing of analogue signals, and designed to operate at a «digital transfer rate» at the highest multiplex level exceeding 45 Mbit/s or a «total digital transfer rate» exceeding 90 Mbit/s;
+
+     Note: X.A.III.101.b.1 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.
+   - Modems using the «bandwidth of one voice channel» with a «data signalling rate» exceeding 9 600 bits per second;
+   - Being «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port;
+   - Being equipment containing any of the following:
+
+     1. «Network access controllers» and their related common medium having a «digital transfer rate» exceeding 33 Mbit/s; or
+     2. «Communication channel controllers» with a digital output having a «data signalling rate» exceeding 64 000 bit/s per channel;
+
+        Note: If any uncontrolled equipment contains a «network access controller», it cannot have any type of telecommunications interface, except those described in, but not controlled by X.A.III.101.b.4.
+   - Employing a «laser» and having any of the following characteristics:
+
+     1. A transmission wavelength exceeding 1 000 nm; or
+     2. Employing analogue techniques and having a bandwidth exceeding
+     3. 45 MHz;
+     4. Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
+     5. Employing wavelength division multiplexing techniques; or
+     6. Performing «optical amplification»;
+   - Radio equipment operating at input or output frequencies exceeding:
+
+     1. 31 GHz for satellite-earth station applications; or
+     2. 26,5 GHz for other applications;
+
+     Note: X.A.III.101.b.6 does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26,5 GHz and 31 GHz.
+   - Being radio equipment employing any of the following:
+
+     1. Quadrature-amplitude-modulation (QAM) techniques above level 4 if the «total digital transfer rate» exceeds 8,5 Mbit/s;
+     2. QAM techniques above level 16 if the «total digital transfer rate» is equal to or less than 8,5 Mbit/s;
+     3. Other digital modulation techniques and having a «spectral efficiency» exceeding 3 bit/s/Hz; or
+     4. Operating in the 1,5 MHz to 87,5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.
+
+     Notes:
+
+     1. X.A.III.101.b.7 does not control equipment specially designed to beintegrated and operated in any satellite system for civil use.
+     2. X.A.III.101.b.7 does not control radio relay equipment for operation in an International Telecommunications Union (ITU) allocated band:
+
+        1. Having any of the following:
+
+           1. Not exceeding 960 MHz; or
+           2. With a «total digital transfer rate» not exceeding 8,5 Mbit/s; and
+        2. Having a «spectral efficiency» not exceeding 4 bit/s/Hz.
+3. «Stored program controlled» switching equipment and related signalling systems, having any of the following characteristics, functions or features, and specially designed components and accessories therefor:
+
+   Note: Statistical multiplexers with digital input and digital output which provide switching are treated as «stored program controlled» switches.
+
+   1. «Data (message) switching» equipment or systems designed for «packet-mode operation», «electronic assemblies» and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
+   2. Not used;
+   3. Routing or switching of «datagram» packets;
+
+      Note: X.A.III.101.c.3 does not control networks restricted to using only «network access controllers» or to «network access controllers» themselves.
+   4. Not used;
+   5. Multi-level priority and pre-emption for circuit switching;
+
+      Note: X.A.III.101.c.5 does not control single-level call preemption.
+   6. Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralised subscriber data base common to more than one switch;
+   7. Containing «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port:
+   8. «Common channel signalling» operating in either non-associated or quasi-associated mode of operation;
+   9. «Dynamic adaptive routing»;
+   10. Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:
+
+       1. A «data signalling rate» of 64 000 bit/s per channel for a «communications channel controller»; or
+
+          Note: X.A.III.101.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by X.A.III.101.b.1.
+       2. A «digital transfer rate» of 33 Mbit/s for a «network access controller» and related common media;
+
+       Note: X.A.III.101.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in X.A.III.101.c.10.
+   11. «Optical switching»;
+   12. Employing «Asynchronous Transfer Mode» («ATM») techniques.
 4. Optical fibres and optical fibre cables of more than 50 m in length designed for single mode operation;
-5. Centralised network control having all of the following characteristics:Receives data from the nodes; andProcess these data in order to provide control of traffic not requiring operator decisions, and thereby performing «dynamic adaptive routing»;Note 1: X.A.III.101.e does not include cases of routing decisions taken on predefined information.Note 2: X.A.III.101.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
+5. Centralised network control having all of the following characteristics:
+
+   1. Receives data from the nodes; and
+   2. Process these data in order to provide control of traffic not requiring operator decisions, and thereby performing «dynamic adaptive routing»;
+
+   Note 1: X.A.III.101.e does not include cases of routing decisions taken on predefined information.
+
+   Note 2: X.A.III.101.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
 6. Phased array antennas, operating above 10,5 GHz, containing active elements and distributed components, and designed to permit electronic control of beam shaping and pointing, except for landing systems with instruments meeting International Civil Aviation Organization (ICAO) standards (microwave landing systems (MLS));
 7. Mobile communications equipment other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), «electronic assemblies» and components therefor; or
 8. Radio relay communications equipment designed for use at frequencies equal to or exceeding 19,7 GHz and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
@@ -1319,7 +2152,9 @@ Technical Note: For the purpose of X.A.III.101:
 11. «Dynamic adaptive routing» means Automatic rerouting of traffic based on sensing and analysis of current actual network conditions
 12. «Media access unit» means equipment that contains one or more communication interfaces («network access controller», «communications channel controller», modem or computer bus) to connect terminal equipment to a network.
 13. «Spectral effiency» is the «digital transfer rate» [bits/s] / 6 dB spectrum bandwidth in Hz.
-14. «Stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.Note: Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
+14. «Stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.
+
+    Note: Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
 
 X.B.III.101 Telecommunications test equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
 
@@ -1332,11 +2167,16 @@ X.D.III.101 «Software» specially designed or modified for the «development»,
 
 X.E.III.101 «Technology» for the «development», «production» or «use» of equipment controlled by X.A.III.101 or X.B.III.101, or «software» controlled by X.D.III.101, and other «technologies» as follows:
 
-1. Specific «technologies» as follows:«Technology» for the processing and application of coatings to optical fibre specially designed to make it suitable for underwater use;«Technology» for the «development» of equipment employing «Synchronous Digital Hierarchy» («SDH») or «Synchronous Optical Network» («SONET») techniques.
+1. Specific «technologies» as follows:
+
+   1. «Technology» for the processing and application of coatings to optical fibre specially designed to make it suitable for underwater use;
+   2. «Technology» for the «development» of equipment employing «Synchronous Digital Hierarchy» («SDH») or «Synchronous Optical Network» («SONET») techniques.
 
 Technical Note: For the purpose of X.E.III.101:
 
-1. «Synchronous digital hierarchy» (SDH) is a digital hierarchy providing a means to manage, multiplex, and access various forms of digital traffic using a synchronous transmission format on different types of media. The format is based on the Synchronous Transport Module (STM) that is defined by CCITT Recommendation G.703, G.707, G.708, G.709 and others yet to be published.The first level rate of «SDH» is 155,52 Mbits/s.
+1. «Synchronous digital hierarchy» (SDH) is a digital hierarchy providing a means to manage, multiplex, and access various forms of digital traffic using a synchronous transmission format on different types of media. The format is based on the Synchronous Transport Module (STM) that is defined by CCITT Recommendation G.703, G.707, G.708, G.709 and others yet to be published.
+
+   The first level rate of «SDH» is 155,52 Mbits/s.
 2. «Synchronous optical network» (SONET) is a network providing a means to manage, multiplex and access various forms of digital traffic using a synchronous transmission format on fibre optics. The format is the North America version of «SDH» and also uses the Synchronous Transport Module (STM). However, it uses the Synchronous Transport Signal (STS) as the basic transport module with a first level rate of 51,81 Mbits/s. The SONET standards are being integrated into those of «SDH».
 
 ###### Category III. Part 2 – Information Security
@@ -1368,7 +2208,20 @@ X.A.IV.001 Marine or terrestrial acoustic equipment, capable of detecting or loc
 
 X.A.IV.002 Optical Sensors as follows:
 
-1. Image intensifier tubes and specially designed components therefor, as follows:Image intensifier tubes having all the following:A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; andHaving any of the following:An S-20, S-25 or multialkali photocathode; orA GaAs or GaInAs photocathode;Specially designed microchannel plates having both of the following characteristics:15 000 or more hollow tubes per plate; andHole pitch (centre-to-centre spacing) of less than 25 μm.
+1. Image intensifier tubes and specially designed components therefor, as follows:
+
+   1. Image intensifier tubes having all the following:
+
+      1. A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;
+      2. A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; and
+      3. Having any of the following:
+
+         1. An S-20, S-25 or multialkali photocathode; or
+         2. A GaAs or GaInAs photocathode;
+   2. Specially designed microchannel plates having both of the following characteristics:
+
+      1. 15 000 or more hollow tubes per plate; and
+      2. Hole pitch (centre-to-centre spacing) of less than 25 μm.
 2. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics listed in X.A.IV.002.a.1.
 
 X.A.IV.003 Cameras as follows:
@@ -1380,25 +2233,102 @@ X.A.IV.004 Optics as follows:
 
 Note: X.A.IV.004 does not control optical filters with fixed air gaps or Lyot-type filters.
 
-1. Optical filters:For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90 % or more; orBandwidths equal to or less than 0,1 nm FWHI and peak transmission of 50 % or more;For wavelengths longer than 250 nm, and having all of the following:Tunable over a spectral range of 500 nm or more;Instantaneous optical bandpass of 1,25 nm or less;Wavelength resettable within 0,1 ms to an accuracy of 1 nm or better within the tunable spectral range; andA single peak transmission of 91 % or more;Optical opacity switches (filters) with a field of view of 30° or wider and a response time equal to or less than 1 ns;
-2. «Fluoride fibre» cable, or optical fibres therefor, having an attenuation of less than 4 dB/km in the wavelength range exceeding 1 000 nm but not exceeding 3 000 nm;Technical Note: For the purpose of X.A.IV.004.b «Fluoride fibres» are fibres manufactured from bulk fluoride compounds.
+1. Optical filters:
+
+   1. For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:
+
+      1. Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90 % or more; or
+      2. Bandwidths equal to or less than 0,1 nm FWHI and peak transmission of 50 % or more;
+   2. For wavelengths longer than 250 nm, and having all of the following:
+
+      1. Tunable over a spectral range of 500 nm or more;
+      2. Instantaneous optical bandpass of 1,25 nm or less;
+      3. Wavelength resettable within 0,1 ms to an accuracy of 1 nm or better within the tunable spectral range; and
+      4. A single peak transmission of 91 % or more;
+   3. Optical opacity switches (filters) with a field of view of 30° or wider and a response time equal to or less than 1 ns;
+2. «Fluoride fibre» cable, or optical fibres therefor, having an attenuation of less than 4 dB/km in the wavelength range exceeding 1 000 nm but not exceeding 3 000 nm;
+
+   Technical Note: For the purpose of X.A.IV.004.b «Fluoride fibres» are fibres manufactured from bulk fluoride compounds.
 
 X.A.IV.005 «Lasers» as follows:
 
-1. Carbon dioxide (CO2) «lasers» having any of the following:A CW output power exceeding 10 kW;A pulsed output with a «pulse duration» exceeding 10 μs; andAn average output power exceeding 10 kW; orA pulsed «peak power» exceeding 100 kW; orA pulsed output with a «pulse duration» equal to or less than 10 μs; andA pulse energy exceeding 5 J per pulse and «peak power» exceeding 2,5 kW; orAn average output power exceeding 2,5 kW;
-2. Semiconductor lasers, as follows:Individual, single-transverse mode semiconductor «lasers» having:An average output power exceeding 100 mW; orA wavelength exceeding 1 050 nm;Individual, multiple-transverse mode semiconductor «lasers», or arrays of individual semiconductor «lasers», having a wave-length exceeding 1 050 nm;
+1. Carbon dioxide (CO2) «lasers» having any of the following:
+
+   1. A CW output power exceeding 10 kW;
+   2. A pulsed output with a «pulse duration» exceeding 10 μs; and
+
+      1. An average output power exceeding 10 kW; or
+      2. A pulsed «peak power» exceeding 100 kW; or
+   3. A pulsed output with a «pulse duration» equal to or less than 10 μs; and
+
+      1. A pulse energy exceeding 5 J per pulse and «peak power» exceeding 2,5 kW; or
+      2. An average output power exceeding 2,5 kW;
+2. Semiconductor lasers, as follows:
+
+   1. Individual, single-transverse mode semiconductor «lasers» having:
+
+      1. An average output power exceeding 100 mW; or
+      2. A wavelength exceeding 1 050 nm;
+   2. Individual, multiple-transverse mode semiconductor «lasers», or arrays of individual semiconductor «lasers», having a wave-length exceeding 1 050 nm;
 3. Ruby «lasers» having an output energy exceeding 20 J per pulse;
-4. Non-«tunable» «pulsed lasers» having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:A «pulse duration» equal to or exceeding 1 ns but not exceeding 1 μs, and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 20 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30W;A «peak power» exceeding 200 MW; orAn «average output power» exceeding 50 W; orA «pulse duration» exceeding 1 μs and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 20 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; orAn «average output power» exceeding 500 W;
-5. Non-«tunable» continuous wave «(CW) lasers», having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 50 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; orAn «average output power» exceeding 500 W;Note: X.A.IV.005.e.2.b does not control multiple transverse mode, industrial «lasers» with output power less than or equal to 2 kW with a total mass greater than 1 200kg. For the purpose of this note, total mass includes all components required to operate the «laser», e.g., «laser», power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
-6. Non-«tunable» «lasers», having a wavelength exceeding 1 400 nm, but not exceeding 1 555 nm and having any of the following:An output energy exceeding 100 mJ per pulse and a pulsed «peak power» exceeding 1 W; orAn average or CW output power exceeding 1 W;
+4. Non-«tunable» «pulsed lasers» having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+   1. A «pulse duration» equal to or exceeding 1 ns but not exceeding 1 μs, and having any of the following:
+
+      1. A single transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+         2. An «average output power» exceeding 20 W; or
+      2. A multiple transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30W;
+         2. A «peak power» exceeding 200 MW; or
+         3. An «average output power» exceeding 50 W; or
+   2. A «pulse duration» exceeding 1 μs and having any of the following:
+
+      1. A single transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+         2. An «average output power» exceeding 20 W; or
+      2. A multiple transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; or
+         2. An «average output power» exceeding 500 W;
+5. Non-«tunable» continuous wave «(CW) lasers», having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+   1. A single transverse mode output and having any of the following:
+
+      1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+      2. An «average output power» exceeding 50 W; or
+   2. A multiple transverse mode output and having any of the following:
+
+      1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; or
+      2. An «average output power» exceeding 500 W;
+
+         Note: X.A.IV.005.e.2.b does not control multiple transverse mode, industrial «lasers» with output power less than or equal to 2 kW with a total mass greater than 1 200kg. For the purpose of this note, total mass includes all components required to operate the «laser», e.g., «laser», power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
+6. Non-«tunable» «lasers», having a wavelength exceeding 1 400 nm, but not exceeding 1 555 nm and having any of the following:
+
+   1. An output energy exceeding 100 mJ per pulse and a pulsed «peak power» exceeding 1 W; or
+   2. An average or CW output power exceeding 1 W;
 7. Free electron «lasers».
 
 Technical Note: For the purpose of X.A.IV.005 «Wall-plug efficiency» is defined as the ratio of «laser» output power (or «average output power») to total electrical input power required to operate the «laser», including the power supply/conditioning and thermal conditioning/heat exchanger.
 
 X.A.IV.006 «Magnetometers», «Superconductive» electromagnetic sensors, and specially designed components therefor, as follows:
 
-1. «Magnetometers», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), having a «sensitivity» lower (better) than 1,0 nT (rms) per square root Hz.Technical Note: For the purposes of X.A.IV.006.a, «sensitivity» (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
-2. «Superconductive» electromagnetic sensors, components manufactured from «superconductive» materials:Designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents (including Josephson effect devices or «superconductive» quantum interference devices (SQUIDS));Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; andHaving any of the following characteristics:Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;Designed to function without magnetic shielding in the earth's ambient magnetic field; orHaving a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K.
+1. «Magnetometers», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), having a «sensitivity» lower (better) than 1,0 nT (rms) per square root Hz.
+
+   Technical Note: For the purposes of X.A.IV.006.a, «sensitivity» (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
+2. «Superconductive» electromagnetic sensors, components manufactured from «superconductive» materials:
+
+   1. Designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents (including Josephson effect devices or «superconductive» quantum interference devices (SQUIDS));
+   2. Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and
+   3. Having any of the following characteristics:
+
+      1. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;
+      2. Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;
+      3. Designed to function without magnetic shielding in the earth's ambient magnetic field; or
+      4. Having a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K.
 
 X.A.IV.007 Gravity meters (gravimeters) for ground use, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows:
 
@@ -1409,7 +2339,12 @@ X.A.IV.008 Radar systems, equipment and major components, other than those speci
 
 1. Airborne radar equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), and specially designed components therefor;
 2. «Space-qualified» «laser» radar or Light Detection and Ranging (LIDAR) equipment specially designed for surveying or for meteorological observation;
-3. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:Operates at a frequency of 94 GHz;An average output power of less than 20 mW;Radar beam width of 1 degree; andOperating range equal to or greater than 1 500 m.
+3. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:
+
+   1. Operates at a frequency of 94 GHz;
+   2. An average output power of less than 20 mW;
+   3. Radar beam width of 1 degree; and
+   4. Operating range equal to or greater than 1 500 m.
 
 X.A.IV.009 Specific processing equipment, as follows:
 
@@ -1419,7 +2354,10 @@ X.A.IV.009 Specific processing equipment, as follows:
 
 X.B.IV.001 Equipment, including tools, dies, fixtures or gauges, and other specially designed components and accessories therefor, specially designed or modified for any of the following:
 
-1. For the manufacture or inspection of:Free electron «laser» magnet wigglers;Free electron «laser» photo injectors;
+1. For the manufacture or inspection of:
+
+   1. Free electron «laser» magnet wigglers;
+   2. Free electron «laser» photo injectors;
 2. For the adjustment, to required tolerances, of the longitudinal magnetic field of free electron «lasers».
 
 X.C.IV.001 Optical sensing fibres that are modified structurally to have a «beat length» of less than 500 mm (high birefringence) or optical sensor materials not described in 6C002.b and having a zinc content of equal to or more than 6 % by «mole fraction».
@@ -1431,7 +2369,12 @@ Technical Note: For the purpose of X.C.IV.001:
 
 X.C.IV.002 Optical materials, as follows:
 
-1. Low optical absorption materials, as follows:Bulk fluoride compounds containing ingredients with a purity of 99,999 % or better; orNote: X.C.IV.002.a.1 controls fluorides of zirconium or aluminium and variants.Bulk fluoride glass made from compounds controlled by 6C004.e.1;
+1. Low optical absorption materials, as follows:
+
+   1. Bulk fluoride compounds containing ingredients with a purity of 99,999 % or better; or
+
+      Note: X.C.IV.002.a.1 controls fluorides of zirconium or aluminium and variants.
+   2. Bulk fluoride glass made from compounds controlled by 6C004.e.1;
 2. «Optical fibre preforms» made from bulk fluoride compounds containing ingredients with a purity of 99,999 % or better, specially designed for the manufacture of «fluoride fibres» controlled by X.A.IV.004.b.
 
 Technical Note: For the purpose of X.C.IV.002:
@@ -1455,11 +2398,20 @@ X.E.IV.002 «Technology» for the «development» or «production» of equipment
 
 X.E.IV.003 Other «technology» as follows:
 
-1. Optical fabrication technologies for serially producing optical components at a rate exceeding 10 m2 of surface area per year on any single spindle and having all of the following:Area exceeding 1 m2; andSurface figure exceeding λ/10 (rms) at the designed wavelength;
+1. Optical fabrication technologies for serially producing optical components at a rate exceeding 10 m2 of surface area per year on any single spindle and having all of the following:
+
+   1. Area exceeding 1 m2; and
+   2. Surface figure exceeding λ/10 (rms) at the designed wavelength;
 2. «Technology» for optical filters with a bandwidth equal to or less than 10 nm, a field of view (FOV) exceeding 40° and a resolution exceeding 0,75 line pairs per milliradian;
 3. «Technology» for the «development» or «production» of cameras controlled by X.A.IV.003;
-4. «Technology» «required» for the «development» or «production» of non-triaxial fluxgate «magnetometers» or non-triaxial fluxgate «magnetometer» systems, having any of the following:«Sensitivity» lower (better) than 0,05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or«Sensitivity» lower (better) than 1 x 10-3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
-5. «Technology» «required» for the «development» or «production» of infrared up-conversion devices having all of the following:A response in the wavelength range exceeding 700 nm but not exceeding 1 500 nm; andA combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
+4. «Technology» «required» for the «development» or «production» of non-triaxial fluxgate «magnetometers» or non-triaxial fluxgate «magnetometer» systems, having any of the following:
+
+   1. «Sensitivity» lower (better) than 0,05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or
+   2. «Sensitivity» lower (better) than 1 x 10-3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
+5. «Technology» «required» for the «development» or «production» of infrared up-conversion devices having all of the following:
+
+   1. A response in the wavelength range exceeding 700 nm but not exceeding 1 500 nm; and
+   2. A combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
 
 Technical Note: For the purposes of X.E.IV.003, «sensitivity» (or noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
 
@@ -1481,16 +2433,30 @@ X.D.V.001 «Technology», other than specified in the CML or in [Regulation (EU)
 
 X.A.VI.001 Vessels, marine systems or equipment, and specially designed components therefor, components and accessories as follows:
 
-1. Underwater vision systems, as follows:Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and specially designed or modified for remote operation with a submersible vehicle; orUnderwater television cameras having a limiting resolution when measured in air of more than 700 lines;Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
+1. Underwater vision systems, as follows:
+
+   1. Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and specially designed or modified for remote operation with a submersible vehicle; or
+   2. Underwater television cameras having a limiting resolution when measured in air of more than 700 lines;
+
+   Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
 2. Photographic still cameras specially designed or modified for underwater use, having a film format of 35 mm or larger, and having autofocusing or remote focusing specially designed for underwater use;
 3. Stroboscopic light systems, specially designed or modified for underwater use, capable of a light output energy of more than 300 J per flash;
 4. Other underwater camera equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-5. Marine boilers designed to have any of the following characteristics:Heat release rate (at maximum rating) equal to or in excess of 1 966,4 kW/m3 of furnace volume; orRatio of steam generated in kilogram per hour (at maximum rating) to the dry weight of the boiler in kilograms equal to or in excess of 37,6;
-6. Vessels (surface or underwater), including inflatable boats, and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);Note: X.A.VI.001.f does not control vessels on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
+5. Marine boilers designed to have any of the following characteristics:
+
+   1. Heat release rate (at maximum rating) equal to or in excess of 1 966,4 kW/m3 of furnace volume; or
+   2. Ratio of steam generated in kilogram per hour (at maximum rating) to the dry weight of the boiler in kilograms equal to or in excess of 37,6;
+6. Vessels (surface or underwater), including inflatable boats, and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
+
+   Note: X.A.VI.001.f does not control vessels on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
 7. Marine engines (both inboard and outboard) and submarine engines and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
 8. Self-contained underwater breathing apparatus (scuba gear) and accessories therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-9. Life jackets, inflation cartridges, dive compasses and dive computers;Note: X.A.VI.001.i does not control goods for the personal use of the natural persons.
-10. Underwater lights and propulsion equipment; orNote: X.A.VI.001.j does not control goods for the personal use of the natural persons.
+9. Life jackets, inflation cartridges, dive compasses and dive computers;
+
+   Note: X.A.VI.001.i does not control goods for the personal use of the natural persons.
+10. Underwater lights and propulsion equipment; or
+
+    Note: X.A.VI.001.j does not control goods for the personal use of the natural persons.
 11. Air compressors and filtration system specially designed for filling air cylinders.
 
 X.D.VI.001 «Software» specially designed or modified for the «development», «production» or «use» of equipment controlled by X.A.VI.001.
@@ -1505,7 +2471,9 @@ X.A.VII.001 Diesel engines, and tractors and specially designed components there
 
 1. Diesel engines, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), for trucks, tractors, and automotive applications, having an overall power output of 298 kW or more.
 2. Off highway wheel tractors of carriage capacity 9 tonnes or more; and major components and accessories, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
-3. Road tractors for semi-trailers, with single or tandem rear axles rated for 9 tonnes per axel or more and specially designed major components.Note: X.A.VII.001.b and X.A.VII.001.c do not control vehicles on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
+3. Road tractors for semi-trailers, with single or tandem rear axles rated for 9 tonnes per axel or more and specially designed major components.
+
+   Note: X.A.VII.001.b and X.A.VII.001.c do not control vehicles on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
 
 X.AVII.002 Gas turbine engines and components, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
 
@@ -1570,13 +2538,22 @@ X.A.VIII.003 Microscopes, related equipment and detectors as follows:
 3. Transmission electron microscopes (TEM);
 4. Atomic force microscopes (AFM);
 5. Scanning force microscopes (SFM);
-6. Equipment and detectors, specially designed for use with the microscopes specified in X.A.VIII.003.a to X.A.VIII.0003.e, employing any of the following material analysis techniques:X-ray photo spectroscopy (XPS);Energy-dispersive X-ray spectroscopy (EDX, EDS); orElectron spectroscopy for chemical analysis (ESCA).
+6. Equipment and detectors, specially designed for use with the microscopes specified in X.A.VIII.003.a to X.A.VIII.0003.e, employing any of the following material analysis techniques:
+
+   1. X-ray photo spectroscopy (XPS);
+   2. Energy-dispersive X-ray spectroscopy (EDX, EDS); or
+   3. Electron spectroscopy for chemical analysis (ESCA).
 
 X.A.VIII.004 Collector equipment for metal ores in deep seabed.
 
 X.A.VIII.005 Manufacturing equipment and machine tools as follows:
 
-1. Additive manufacturing equipment for the «production» of metal parts;Note: X.A.VIII.005.a only applies to the following systems:Powder-bed systems using selective laser melting (SLM), laser cusing, direct metal laser sintering (DMLS) or electron beam melting (EBM); orPowder-fed systems using laser cladding, direct energy deposition or laser metal deposition.
+1. Additive manufacturing equipment for the «production» of metal parts;
+
+   Note: X.A.VIII.005.a only applies to the following systems:
+
+   1. Powder-bed systems using selective laser melting (SLM), laser cusing, direct metal laser sintering (DMLS) or electron beam melting (EBM); or
+   2. Powder-fed systems using laser cladding, direct energy deposition or laser metal deposition.
 2. Additive manufacturing equipment for «energetic materials», including equipment using ultrasonic extrusion;
 3. Vat photopolymerization (VVP) additive manufacturing equipment using stereo lithography (SLA) or digital light processing (DLP).
 
@@ -1627,7 +2604,15 @@ Note: X.A.VIII.017 applies to restraint devices used in law enforcement activiti
 X.A.VIII.018 Oil and gas exploration equipment, «software», and data, as follows (see List of Items Controlled):
 
 1. Not used.
-2. Hydraulic fracturing items, as follows:Hydraulic fracturing design and analysis «software» and data;Hydraulic fracturing «proppant», «fracking fluid», and chemical additives therefor; orHigh pressure pumps.Technical Note:A «proppant» is a solid material, typically treated sand or man-made ceramic materials, designed to keep an induced hydraulic fracture open, during or following a fracturing treatment. It is added to a «fracking fluid» which may vary in composition depending on the type of fracturing used, and can be gel, foam or slickwater-based.
+2. Hydraulic fracturing items, as follows:
+
+   1. Hydraulic fracturing design and analysis «software» and data;
+   2. Hydraulic fracturing «proppant», «fracking fluid», and chemical additives therefor; or
+   3. High pressure pumps.
+
+   Technical Note:
+
+   A «proppant» is a solid material, typically treated sand or man-made ceramic materials, designed to keep an induced hydraulic fracture open, during or following a fracturing treatment. It is added to a «fracking fluid» which may vary in composition depending on the type of fracturing used, and can be gel, foam or slickwater-based.
 
 X.A.VIII.019 Specific processing equipment, as follows (see List of Items Controlled):
 
@@ -1637,22 +2622,64 @@ X.A.VIII.019 Specific processing equipment, as follows (see List of Items Contro
 X.A.VIII.020 Weapons and devices designed for the purpose of riot control or self-protection, as follows:
 
 1. Portable electric discharge weapons that can target only one individual each time an electric shock is administered, including but not limited to electric shock batons, electric shock shields, stun guns and electric shock dart guns;
-2. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item X.A.VIII.020.a; orNote: The following goods are considered to be essential components:The unit producing an electric shock;The switch, whether or not on a remote control; andThe electrodes or, where applicable, the wires through which the electrical shock is to be administered.
+2. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item X.A.VIII.020.a; or
+
+   Note: The following goods are considered to be essential components:
+
+   1. The unit producing an electric shock;
+   2. The switch, whether or not on a remote control; and
+   3. The electrodes or, where applicable, the wires through which the electrical shock is to be administered.
 3. Fixed or mountable electric discharge weapons that cover a wide area and can target multiple individuals with electrical shocks.
 
 X.A.VIII.021 Weapons and equipment disseminating incapacitating or irritating chemical substances for the purpose of riot control or self-protection and certain related substances, as follows:
 
-1. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated;Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.Note 2: This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user's own personal protection.Note 3: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+1. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated;
+
+   Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+   Note 2: This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user's own personal protection.
+
+   Note 3: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
 2. Pelargonic acid vanillylamide (PAVA) (CAS 2444-46-4);
 3. Oleoresin capsicum (OC) (CAS 8023-77-6);
-4. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol, 1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents;Note 1: This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.Note 2: This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law.
-5. Fixed equipment for the dissemination of incapacitating or irritating chemical substances, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote control system; orNote: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
-6. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building;Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.Note 2: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
-7. Other irritating chemical substances, and mixtures thereof containing at least 0,3 % by weight of the active substance, as follows:Dibenzo[b,f][1,4]oxazepine (CR) (CAS 257-07-8);8-Methyl-N-vanillyl-trans-6-nonenamide (capsaicin) (CAS 404-86-4);8-Methyl-N-vanillylnonamide (dihydrocapsaicin) (CAS 19408-84-5);N-Vanillyl-9-methyldec-7-(E)-enamide (homocapsaicin) (CAS 58493-48-4);N-Vanillyl-9-methyldecanamide (homodihydrocapsaicin) (CAS 20279-06-5);N-Vanillyl-7-methyloctanamide (nordihydrocapsaicin) (CAS 28789-35-7);4-Nonanolylmorpholine (MPA) (CAS 5299-64-9);Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9);N,N'-Bis(isopropyl)ethylenediimine; orN,N'-Bis(tert-butyl)ethylenediimine.
+4. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol, 1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents;
+
+   Note 1: This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.
+
+   Note 2: This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law.
+5. Fixed equipment for the dissemination of incapacitating or irritating chemical substances, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote control system; or
+
+   Note: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+6. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building;
+
+   Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+   Note 2: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+7. Other irritating chemical substances, and mixtures thereof containing at least 0,3 % by weight of the active substance, as follows:
+
+   1. Dibenzo[b,f][1,4]oxazepine (CR) (CAS 257-07-8);
+   2. 8-Methyl-N-vanillyl-trans-6-nonenamide (capsaicin) (CAS 404-86-4);
+   3. 8-Methyl-N-vanillylnonamide (dihydrocapsaicin) (CAS 19408-84-5);
+   4. N-Vanillyl-9-methyldec-7-(E)-enamide (homocapsaicin) (CAS 58493-48-4);
+   5. N-Vanillyl-9-methyldecanamide (homodihydrocapsaicin) (CAS 20279-06-5);
+   6. N-Vanillyl-7-methyloctanamide (nordihydrocapsaicin) (CAS 28789-35-7);
+   7. 4-Nonanolylmorpholine (MPA) (CAS 5299-64-9);
+   8. Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9);
+   9. N,N'-Bis(isopropyl)ethylenediimine; or
+   10. N,N'-Bis(tert-butyl)ethylenediimine.
 
 X.A.VIII.022 Products which could be used for the execution of human beings by means of lethal injection, as follows:
 
-1. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to:Amobarbital (CAS 57-43-2);Amobarbital sodium salt (CAS 64-43-7);Pentobarbital (CAS 76-74-4);Pentobarbital sodium salt (CAS 57-33-0);Secobarbital (CAS 76-73-3);Secobarbital sodium salt (CAS 309-43-3);Thiopental (CAS 76-75-5); orThiopental sodium salt (CAS 71-73-8), also known as thiopentone sodium;
+1. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to:
+
+   1. Amobarbital (CAS 57-43-2);
+   2. Amobarbital sodium salt (CAS 64-43-7);
+   3. Pentobarbital (CAS 76-74-4);
+   4. Pentobarbital sodium salt (CAS 57-33-0);
+   5. Secobarbital (CAS 76-73-3);
+   6. Secobarbital sodium salt (CAS 309-43-3);
+   7. Thiopental (CAS 76-75-5); or
+   8. Thiopental sodium salt (CAS 71-73-8), also known as thiopentone sodium;
 2. Products containing one of the anaesthetic agents listed under X.A.VIII.022.a.
 
 X.A.VIII.023 Nettings, canopies, tents, blankets and apparel, specially designed for camouflage.
@@ -1767,8 +2794,111 @@ X.B.IX.001 Specific processing equipment, other than those specified in the CML 
 
 X.C.IX.001 Separate chemically defined compounds according to Note 1 to Chapters 28 and 29 of the Combined Nomenclature:
 
-1. In concentrations of 95 % weight or greater, as follows:Ethylene dichloride (CAS 107-06-2);Nitromethane (CAS 75-52-5);Picric acid (CAS 88-89-1);Aluminium chloride (CAS 7446-70-0);Arsenic (CAS 7440-38-2);Arsenic trioxide (CAS 1327-53-3);Bis(2-chloroethyl)ethylamine hydrochloride (CAS 3590-07-6);Bis(2-chloroethyl)methylamine hydrochloride (CAS 55-86-7);Tris(2-chloroethyl)amine hydrochloride (CAS 817-09-4);Tributylphosphite (CAS 102-85-2);Isocyanatomethane (CAS 624-83-9);Quinaldine (CAS 91-63-4);2-bromochloroethane (CAS 107-04-0);Benzil (CAS 134-81-6);Diethyl ether (CAS 60-29-7);Dimethyl ether (CAS 115-10-6);Dimethylaminoethanol (CAS 108-01-0);2-methoxyethanol (CAS 109-86-4);Butyrylcholinesterase (BCHE);Diethylenetriamine (CAS 111-40-0);Dichloromethane (CAS 75-09-2);Dimethylaniline (CAS 121-69-7);Ethyl bromide (CAS 74-96-4);Ethyl chloride (CAS 75-00-3);Ethylamine (CAS 75-04-7);Hexamine (CAS 100-97-0);Isopropanol (CAS 67- 63-0);Isopropyl bromide (CAS 75-26-3);Isopropyl ether (CAS 108-20-3);Methylamine (CAS 74-89-5);Methyl bromide (CAS 74-83-9);Monoisopropylamine (CAS 75-31-0);Obidoxime chloride (CAS 114-90-9);Potassium bromide (CAS 7758-02-3);Pyridine (CAS 110-86-1);Pyridostigmine bromide (CAS 101-26-8);Sodium bromide (CAS 7647-15-6);Sodium metal (CAS 7440-23-5);Tributylamine (CAS 102-82-9);Triethylamine (CAS 121-44-8); orTrimethylamine (CAS 75-50-3).
-2. In concentrations of 90 % weight or greater, as follows:Acetone (CAS 67-64-1);Acetylene (CAS 74-86-2);Ammonia (CAS 7664-41-7);Antimony (CAS 7440-36-0);Benzaldehyde (CAS 100-52-7);Benzoin (CAS 119-53-9);1-Butanol (CAS 71-36-3);2-Butanol (CAS 78-92-2);Iso-Butanol (CAS 78-83-1);Tert-Butanol (CAS 75-65-0);Calcium carbide (CAS 75-20-7);Carbon monoxide (CAS 630-08-0);Chlorine (CAS 7782-50-5);Cyclohexanol (CAS 108-93-0);Dicyclohexylamine (CAS 101-83-7);Ethanol (CAS 64-17-5);Ethylene (CAS 74-85-1);Ethylene oxide (CAS 75-21-8);Fluoroapatite (CAS 1306-05-4);Hydrogen chloride (CAS 7647-01-0);Hydrogen sulfide (CAS 7783-06-4);Mandelic acid (CAS 90-64-2);Methanol (CAS 67-56-1);Methyl chloride (CAS 74-87-3);Methyl iodide (CAS 74-88-4);Methyl mercaptan (CAS 74-93-1);Monoethyleneglycol (CAS 107-21-1);Oxalyl chloride (CAS 79-37-8);Potassium sulphide (CAS 1312-73-8);Potassium thiocyanate (CAS 333-20-0);Sodium hypochlorite (CAS 7681-52-9);Sulphur (CAS 7704-34-9);Sulphur dioxide (CAS 7446-09-5);Sulphur trioxide (CAS 7446-11-9);Thiophosphoryl chloride (CAS 3982-91-0);Tri-isobutyl phosphite (CAS 1606-96-8);White phosphorus (CAS 12185-10-3);Yellow phosphorus (CAS 7723-14-0);Mercury (CAS 7439-97-6);Barium chloride (CAS 10361-37-2);Sulphuric acid (CAS 7664-93-9);3,3-dimethyl-1-butene (CAS 558-37-2);2,2-dimethylpropanal (CAS 630-19-3);2,2-dimethylpropylchloride (CAS 753-89-9);2-methylbutene (CAS 26760-64-5);2-chloro-3-methylbutane (CAS 631-65-2);2,3-dimethyl-2,3-butanediol (CAS 76-09-5);2-methyl-2-butene (CAS 513-35-9);Butyl lithium (CAS 109-72-8);Bromo(methyl)magnesium (CAS 75-16-1);Formaldehyde (CAS 50-00-0);Diethanolamine (CAS 111-42-2);Dimethylcarbonate (CAS 616-38-6);Methyldiethanolamine hydrochloride (CAS 54060-15-0);Diethylamine hydrochloride (CAS 660-68-4);Diisopropylamine hydrochloride (CAS 819-79-4);3-Quinuclidinone hydrochloride (CAS 1193-65-3);3-Quinuclidinol hydrochloride (CAS 6238-13-7);(R)-3- Quinuclidinol hydrochloride (CAS 42437-96-7);N,N-Diethylaminoethanol hydrochloride (CAS 14426-20-1).
+1. In concentrations of 95 % weight or greater, as follows:
+
+   1. Ethylene dichloride (CAS 107-06-2);
+   2. Nitromethane (CAS 75-52-5);
+   3. Picric acid (CAS 88-89-1);
+   4. Aluminium chloride (CAS 7446-70-0);
+   5. Arsenic (CAS 7440-38-2);
+   6. Arsenic trioxide (CAS 1327-53-3);
+   7. Bis(2-chloroethyl)ethylamine hydrochloride (CAS 3590-07-6);
+   8. Bis(2-chloroethyl)methylamine hydrochloride (CAS 55-86-7);
+   9. Tris(2-chloroethyl)amine hydrochloride (CAS 817-09-4);
+   10. Tributylphosphite (CAS 102-85-2);
+   11. Isocyanatomethane (CAS 624-83-9);
+   12. Quinaldine (CAS 91-63-4);
+   13. 2-bromochloroethane (CAS 107-04-0);
+   14. Benzil (CAS 134-81-6);
+   15. Diethyl ether (CAS 60-29-7);
+   16. Dimethyl ether (CAS 115-10-6);
+   17. Dimethylaminoethanol (CAS 108-01-0);
+   18. 2-methoxyethanol (CAS 109-86-4);
+   19. Butyrylcholinesterase (BCHE);
+   20. Diethylenetriamine (CAS 111-40-0);
+   21. Dichloromethane (CAS 75-09-2);
+   22. Dimethylaniline (CAS 121-69-7);
+   23. Ethyl bromide (CAS 74-96-4);
+   24. Ethyl chloride (CAS 75-00-3);
+   25. Ethylamine (CAS 75-04-7);
+   26. Hexamine (CAS 100-97-0);
+   27. Isopropanol (CAS 67- 63-0);
+   28. Isopropyl bromide (CAS 75-26-3);
+   29. Isopropyl ether (CAS 108-20-3);
+   30. Methylamine (CAS 74-89-5);
+   31. Methyl bromide (CAS 74-83-9);
+   32. Monoisopropylamine (CAS 75-31-0);
+   33. Obidoxime chloride (CAS 114-90-9);
+   34. Potassium bromide (CAS 7758-02-3);
+   35. Pyridine (CAS 110-86-1);
+   36. Pyridostigmine bromide (CAS 101-26-8);
+   37. Sodium bromide (CAS 7647-15-6);
+   38. Sodium metal (CAS 7440-23-5);
+   39. Tributylamine (CAS 102-82-9);
+   40. Triethylamine (CAS 121-44-8); or
+   41. Trimethylamine (CAS 75-50-3).
+2. In concentrations of 90 % weight or greater, as follows:
+
+   1. Acetone (CAS 67-64-1);
+   2. Acetylene (CAS 74-86-2);
+   3. Ammonia (CAS 7664-41-7);
+   4. Antimony (CAS 7440-36-0);
+   5. Benzaldehyde (CAS 100-52-7);
+   6. Benzoin (CAS 119-53-9);
+   7. 1-Butanol (CAS 71-36-3);
+   8. 2-Butanol (CAS 78-92-2);
+   9. Iso-Butanol (CAS 78-83-1);
+   10. Tert-Butanol (CAS 75-65-0);
+   11. Calcium carbide (CAS 75-20-7);
+   12. Carbon monoxide (CAS 630-08-0);
+   13. Chlorine (CAS 7782-50-5);
+   14. Cyclohexanol (CAS 108-93-0);
+   15. Dicyclohexylamine (CAS 101-83-7);
+   16. Ethanol (CAS 64-17-5);
+   17. Ethylene (CAS 74-85-1);
+   18. Ethylene oxide (CAS 75-21-8);
+   19. Fluoroapatite (CAS 1306-05-4);
+   20. Hydrogen chloride (CAS 7647-01-0);
+   21. Hydrogen sulfide (CAS 7783-06-4);
+   22. Mandelic acid (CAS 90-64-2);
+   23. Methanol (CAS 67-56-1);
+   24. Methyl chloride (CAS 74-87-3);
+   25. Methyl iodide (CAS 74-88-4);
+   26. Methyl mercaptan (CAS 74-93-1);
+   27. Monoethyleneglycol (CAS 107-21-1);
+   28. Oxalyl chloride (CAS 79-37-8);
+   29. Potassium sulphide (CAS 1312-73-8);
+   30. Potassium thiocyanate (CAS 333-20-0);
+   31. Sodium hypochlorite (CAS 7681-52-9);
+   32. Sulphur (CAS 7704-34-9);
+   33. Sulphur dioxide (CAS 7446-09-5);
+   34. Sulphur trioxide (CAS 7446-11-9);
+   35. Thiophosphoryl chloride (CAS 3982-91-0);
+   36. Tri-isobutyl phosphite (CAS 1606-96-8);
+   37. White phosphorus (CAS 12185-10-3);
+   38. Yellow phosphorus (CAS 7723-14-0);
+   39. Mercury (CAS 7439-97-6);
+   40. Barium chloride (CAS 10361-37-2);
+   41. Sulphuric acid (CAS 7664-93-9);
+   42. 3,3-dimethyl-1-butene (CAS 558-37-2);
+   43. 2,2-dimethylpropanal (CAS 630-19-3);
+   44. 2,2-dimethylpropylchloride (CAS 753-89-9);
+   45. 2-methylbutene (CAS 26760-64-5);
+   46. 2-chloro-3-methylbutane (CAS 631-65-2);
+   47. 2,3-dimethyl-2,3-butanediol (CAS 76-09-5);
+   48. 2-methyl-2-butene (CAS 513-35-9);
+   49. Butyl lithium (CAS 109-72-8);
+   50. Bromo(methyl)magnesium (CAS 75-16-1);
+   51. Formaldehyde (CAS 50-00-0);
+   52. Diethanolamine (CAS 111-42-2);
+   53. Dimethylcarbonate (CAS 616-38-6);
+   54. Methyldiethanolamine hydrochloride (CAS 54060-15-0);
+   55. Diethylamine hydrochloride (CAS 660-68-4);
+   56. Diisopropylamine hydrochloride (CAS 819-79-4);
+   57. 3-Quinuclidinone hydrochloride (CAS 1193-65-3);
+   58. 3-Quinuclidinol hydrochloride (CAS 6238-13-7);
+   59. (R)-3- Quinuclidinol hydrochloride (CAS 42437-96-7);
+   60. N,N-Diethylaminoethanol hydrochloride (CAS 14426-20-1).
 
 X.C.IX.002 Fentanyl and its derivatives Alfentanil, Sufentanil, Remifentanil, Carfentanil, and salts thereof.
 
@@ -1790,8 +2920,15 @@ X.C.IX.005 «Vaccines», «immunotoxins», «medical products», «diagnostic an
 
 1. «Vaccines» containing, or designed for use against, items controlled by 1C351, 1C353 or 1C354;
 2. «Immunotoxins» containing items controlled by 1C351.d; or
-3. «Medical products» that contain any of the following:«Toxins» controlled by 1C351.d (except for botulinum toxins controlled by 1C351.d.1, conotoxins controlled by 1C351.d.3, or items controlled for CW reasons under 1C351.d.4 or.d.5); orGenetically modified organisms or genetic elements controlled by 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3);
-4. «Medical products» not controlled by X.C.IX.005.c that contain any of the following:Botulinum toxins controlled by 1C351.d.1;Conotoxins controlled by 1C351.d.3; orGenetically modified organisms or genetic elements controlled by 1C353.a.3 that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3; or
+3. «Medical products» that contain any of the following:
+
+   1. «Toxins» controlled by 1C351.d (except for botulinum toxins controlled by 1C351.d.1, conotoxins controlled by 1C351.d.3, or items controlled for CW reasons under 1C351.d.4 or.d.5); or
+   2. Genetically modified organisms or genetic elements controlled by 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3);
+4. «Medical products» not controlled by X.C.IX.005.c that contain any of the following:
+
+   1. Botulinum toxins controlled by 1C351.d.1;
+   2. Conotoxins controlled by 1C351.d.3; or
+   3. Genetically modified organisms or genetic elements controlled by 1C353.a.3 that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3; or
 5. «Diagnostic and food testing kits» containing items controlled by 1C351.d (except for items controlled for CW reasons under 1C351.d.4 or d.5).
 
 Technical Notes:
@@ -1801,7 +2938,12 @@ Technical Notes:
 
 X.C.IX.006 Commercial charges and devices containing energetic materials, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), and nitrogen trifluoride in a gaseous state (see List of Items Controlled):
 
-1. Shaped charges specially designed for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, andContain any formulation of «controlled materials»;Have only a uniform shaped conical liner with an included angle of 90 degrees or less;Contain more than 0,010 kg but less than or equal to 0,090 kg of «controlled materials»; andHave a diameter not exceeding 114,3 cm;
+1. Shaped charges specially designed for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, and
+
+   1. Contain any formulation of «controlled materials»;
+   2. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;
+   3. Contain more than 0,010 kg but less than or equal to 0,090 kg of «controlled materials»; and
+   4. Have a diameter not exceeding 114,3 cm;
 2. Shaped charges specially designed for oil well operations containing less than or equal to 0,010 kg of «controlled materials»;
 3. Detonation cord or shock tubes containing less than or equal to 0,064 kg/m of «controlled materials»;
 4. Cartridge power devices, that contain less than or equal to 0,70 kg of «controlled materials» in the deflagration material;
@@ -1812,7 +2954,9 @@ X.C.IX.006 Commercial charges and devices containing energetic materials, other 
 9. Commercial prefabricated slurries and emulsions containing less than or equal to 10,0 kg and less than or equal to 35 % by weight of ML8 «controlled materials»;
 10. Cutters and severing tools containing less than or equal to 3,5 kg of «controlled materials»;
 11. Pyrotechnic devices when designed exclusively for commercial purposes (e.g., theatrical stages, motion picture special effects, and fireworks displays) and containing less than or equal to 3,0 kg of «controlled materials»;
-12. Other commercial explosive devices and charges not controlled by X.C.IX.006.a through.k containing less than or equal to 1,0 kg of «controlled materials»; orNote: X.C.IX.006.l includes automotive safety devices; extinguishing systems; cartridges for riveting guns; explosive charges for agricultural, oil and gas operations, sporting goods, commercial mining, or public works purposes; and delay tubes used in the assembly of commercial explosive devices.
+12. Other commercial explosive devices and charges not controlled by X.C.IX.006.a through.k containing less than or equal to 1,0 kg of «controlled materials»; or
+
+    Note: X.C.IX.006.l includes automotive safety devices; extinguishing systems; cartridges for riveting guns; explosive charges for agricultural, oil and gas operations, sporting goods, commercial mining, or public works purposes; and delay tubes used in the assembly of commercial explosive devices.
 13. Nitrogen trifluoride (NF3) in a gaseous state.
 
 Notes:
@@ -1822,13 +2966,34 @@ Notes:
 
 X.C.IX.007 Mixtures not controlled by 1C350 or 1C450 that contain chemicals controlled by 1C350 or 1C450 and medical, analytical, diagnostic, and food testing kits not controlled by 1C350 or 1C450 that contain chemicals controlled by 1C350, as follows (see List of Items Controlled):
 
-1. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350:Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C350;Mixtures containing less than 30 %, by weight, of:Any single CWC Schedule 3 chemical controlled by 1C350; orAny single non-CWC precursor chemical controlled by 1C350;
-2. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450:Mixtures containing the following concentrations of CWC Schedule 2 chemicals controlled by 1C450:Mixtures containing 1 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.a.1 and a.2 (i.e., mixtures containing Amiton or PFIB); orMixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.b.1, b.2, b.3, b.4, b.5, or b.6;Mixtures containing less than 30 %, by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, a.5., a.6., a.7, or 1C450.b.8;
-3. «Medical, analytical, diagnostic, and food testing kits» that contain precursor chemicals controlled by 1C350 in an amount not exceeding 300 grams per chemical.Technical Note:For the purpose of this entry, «medical, analytical, diagnostic, and food testing kits» are pre-packaged materials of defined composition that are specifically developed, packaged and marketed for medical, analytical, diagnostic, or public health purposes. Replacement reagents for medical, analytical, diagnostic, and food testing kits described in X.C.IX.007.c are controlled by 1C350 if the reagents contain at least one of the precursor chemicals identified in that entry in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.
+1. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350:
+
+   1. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C350;
+   2. Mixtures containing less than 30 %, by weight, of:
+
+      1. Any single CWC Schedule 3 chemical controlled by 1C350; or
+      2. Any single non-CWC precursor chemical controlled by 1C350;
+2. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450:
+
+   1. Mixtures containing the following concentrations of CWC Schedule 2 chemicals controlled by 1C450:
+
+      1. Mixtures containing 1 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.a.1 and a.2 (i.e., mixtures containing Amiton or PFIB); or
+      2. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.b.1, b.2, b.3, b.4, b.5, or b.6;
+   2. Mixtures containing less than 30 %, by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, a.5., a.6., a.7, or 1C450.b.8;
+3. «Medical, analytical, diagnostic, and food testing kits» that contain precursor chemicals controlled by 1C350 in an amount not exceeding 300 grams per chemical.
+
+   Technical Note:
+
+   For the purpose of this entry, «medical, analytical, diagnostic, and food testing kits» are pre-packaged materials of defined composition that are specifically developed, packaged and marketed for medical, analytical, diagnostic, or public health purposes. Replacement reagents for medical, analytical, diagnostic, and food testing kits described in X.C.IX.007.c are controlled by 1C350 if the reagents contain at least one of the precursor chemicals identified in that entry in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.
 
 X.C.IX.008 Non-fluorinated polymeric substances, not controlled by 1C008, as follows (see List of Items Controlled):
 
-1. Polyarylene ether ketones, as follows:Polyether ether ketone (PEEK);Polyether ketone ketone (PEKK);Polyether ketone (PEK); orPolyether ketone ether ketone ketone (PEKEKK);
+1. Polyarylene ether ketones, as follows:
+
+   1. Polyether ether ketone (PEEK);
+   2. Polyether ketone ketone (PEKK);
+   3. Polyether ketone (PEK); or
+   4. Polyether ketone ether ketone ketone (PEKEKK);
 2. Not used.
 
 X.C.IX.009 Specific materials, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows (see List of Items Controlled):
@@ -1855,7 +3020,13 @@ X.C.IX.011 Nanomaterials as follows (see List of Items Controlled):
 
 1. Semiconductor nanomaterials;
 2. Composite-based nanomaterials; or
-3. Any of the following carbon-based nanomaterials:Carbon nanotubes;Carbon nanofibers;Fullerenes;Graphenes; orCarbon onions.
+3. Any of the following carbon-based nanomaterials:
+
+   1. Carbon nanotubes;
+   2. Carbon nanofibers;
+   3. Fullerenes;
+   4. Graphenes; or
+   5. Carbon onions.
 
 Notes: For the purpose of X.C.IX.011, nanomaterial means a material that meets at least one of the following criteria:
 
@@ -1933,8 +3104,14 @@ The range of frequencies span what is generally considered as the millimetre-wav
 
 X.A.X.003 Bearings and bearing systems not controlled by 2A001 (see List of Items Controlled):
 
-1. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics;Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; orWith lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»;
-2. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»; orManufactured for use at operating temperatures below 219 K (-54 °C) or above 423 K (150 °C);
+1. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics;
+
+   1. Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; or
+   2. With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»;
+2. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:
+
+   1. With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»; or
+   2. Manufactured for use at operating temperatures below 219 K (-54 °C) or above 423 K (150 °C);
 3. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 °C) or higher and a unit load capacity exceeding 1 MPa;
 4. Active magnetic bearing systems;
 5. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (-54 °C) or above 423 K (150 °C).
@@ -1948,7 +3125,10 @@ Technical Notes:
 X.A.X.004 Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10 % or more nickel and/or chromium:
 
 1. Pressure tube, pipe, and fittings of 200 mm or more inside diameter, and suitable for operation at pressures of 3,4 MPa or greater;
-2. Pipe valves having all of the following characteristics that are not controlled by 2B350.g:A pipe size connection of 200 mm or more inside diameter; andRated at 10,3 MPa or more.
+2. Pipe valves having all of the following characteristics that are not controlled by 2B350.g:
+
+   1. A pipe size connection of 200 mm or more inside diameter; and
+   2. Rated at 10,3 MPa or more.
 
 Notes:
 
@@ -1987,29 +3167,77 @@ X.B.X.003 Automated peptide synthesizers capable to work under controlled atmosp
 
 X.B.X.004 Numerical control units for machine tools and «numerically controlled» machine tools, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821) (see List of Items Controlled):
 
-1. «Numerical control» units for machine tools:Having four interpolating axes that can be coordinated simultaneously for contouring control; orHaving two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;«Numerical control» units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or
-2. Motion control boards specially designed for machine tools and having any of the following characteristics:Interpolation in more than four axes;Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; orAdaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; orCapable of receiving and processing CAD data for internal preparation of machine instructions;
-3. «Numerically controlled» machine tools that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:Two or more axes that can be coordinated simultaneously for contouring control; andPositioning accuracies according to ISO 230/2 (2006), with all compensations available:Better than 15 μm along any linear axis (overall positioning) for grinding machines;Better than 15 μm along any linear axis (overall positioning) for milling machines; orBetter than 15 μm along any linear axis (overall positioning) for turning machines; or
-4. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:One or more contouring «tilting spindles»;Note: X.B.X.004.d.1.a. applies to machine tools for grinding or milling only.«Camming» (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);Note: X.B.X.004.d.1.b. applies to machine tools for turning only.«Run-out» (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); orThe positioning accuracies, with all compensations available, are less (better) than: 0,001° on any rotary axis;Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control.
+1. «Numerical control» units for machine tools:
+
+   1. Having four interpolating axes that can be coordinated simultaneously for contouring control; or
+   2. Having two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;
+   3. «Numerical control» units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or
+2. Motion control boards specially designed for machine tools and having any of the following characteristics:
+
+   1. Interpolation in more than four axes;
+   2. Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:
+
+      1. Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; or
+      2. Adaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; or
+   3. Capable of receiving and processing CAD data for internal preparation of machine instructions;
+3. «Numerically controlled» machine tools that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:
+
+   1. Two or more axes that can be coordinated simultaneously for contouring control; and
+   2. Positioning accuracies according to ISO 230/2 (2006), with all compensations available:
+
+      1. Better than 15 μm along any linear axis (overall positioning) for grinding machines;
+      2. Better than 15 μm along any linear axis (overall positioning) for milling machines; or
+      3. Better than 15 μm along any linear axis (overall positioning) for turning machines; or
+4. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:
+
+   1. Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:
+
+      1. One or more contouring «tilting spindles»;
+
+         Note: X.B.X.004.d.1.a. applies to machine tools for grinding or milling only.
+      2. «Camming» (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
+
+         Note: X.B.X.004.d.1.b. applies to machine tools for turning only.
+      3. «Run-out» (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); or
+      4. The positioning accuracies, with all compensations available, are less (better) than: 0,001° on any rotary axis;
+   2. Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control.
 
 X.B.X.005 Non-«numerically controlled» machine tools for generating optical quality surfaces, (see List of Items Controlled) and specially designed components therefor:
 
-1. Turning machines using a single point cutting tool and having all of the following characteristics:Slide positioning accuracy less (better) than 0,0005 mm per 300 mm of travel;Bidirectional slide positioning repeatability less (better) than 0,00025 mm per 300 mm of travel;Spindle «run-out» and «camming» less (better) than 0,0004 mm total indicator reading (TIR);Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; andSlide perpendicularity less (better) than 0,001 mm per 300 mm of travel;Technical Note:
-The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
-2. Fly cutting machines having all of the following characteristics:Spindle «run-out» and «camming» less (better) than 0,0004 mm TIR; andAngular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.
+1. Turning machines using a single point cutting tool and having all of the following characteristics:
+
+   1. Slide positioning accuracy less (better) than 0,0005 mm per 300 mm of travel;
+   2. Bidirectional slide positioning repeatability less (better) than 0,00025 mm per 300 mm of travel;
+   3. Spindle «run-out» and «camming» less (better) than 0,0004 mm total indicator reading (TIR);
+   4. Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; and
+   5. Slide perpendicularity less (better) than 0,001 mm per 300 mm of travel;
+
+   Technical Note:
+   The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
+2. Fly cutting machines having all of the following characteristics:
+
+   1. Spindle «run-out» and «camming» less (better) than 0,0004 mm TIR; and
+   2. Angular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.
 
 X.B.X.006 Gearmaking and/or finishing machinery not controlled by 2B003 capable of producing gears to a quality level of better than AGMA 11.
 
 X.B.X.007 Dimensional inspection or measuring systems or equipment not controlled by 2B006 or 2B206, as follows (see List of Items Controlled):
 
-1. Manual dimensional inspection machines, having both of the following characteristics:Two or more axes; andA measurement uncertainty equal to or less (better) than (3 + L/300) μm in any axes (L measured length in mm).
+1. Manual dimensional inspection machines, having both of the following characteristics:
+
+   1. Two or more axes; and
+   2. A measurement uncertainty equal to or less (better) than (3 + L/300) μm in any axes (L measured length in mm).
 
 X.B.X.008 «Robots» not controlled by 2B007 or 2B207 that are capable of employing feedback information in real-time processing from one or more sensors to generate or modify programs or to generate or modify numerical program data.
 
 X.B.X.009 Assemblies, circuit boards or inserts specially designed for machine tools controlled by X.B.X.004, or for equipment controlled by X.B.X.006, X.B.X.007 or X.B.X.008:
 
 1. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial («run-out») or axial («camming») axis motion in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
-2. Single point diamond cutting tool inserts, having all of the following characteristics:Flawless and chip-free cutting edge when magnified 400 times in any direction;Cutting radius from 0,1 to 5 mm inclusive; andCutting radius out-of-roundness less (better) than 0,002 mm TIR.
+2. Single point diamond cutting tool inserts, having all of the following characteristics:
+
+   1. Flawless and chip-free cutting edge when magnified 400 times in any direction;
+   2. Cutting radius from 0,1 to 5 mm inclusive; and
+   3. Cutting radius out-of-roundness less (better) than 0,002 mm TIR.
 3. Specially designed printed circuit boards with mounted components capable of upgrading, according to the manufacturer's specifications, «numerical control» units, machine tools or feed-back devices to or above the levels specified in X.B.X.004, X.B.X.006, X.B.X.007, X.B.X.008, or X.B.X.009.
 
 Technical Note:
@@ -2023,8 +3251,13 @@ X.B.X.010 Specific processing equipment, other than those specified in the CML o
 4. MIG welders;
 5. E-beam welders;
 6. Monel equipment, including valves, piping, tanks and vessels;
-7. 304 and 316 stainless steel valves, piping, tanks and vessels;Note: Fittings are considered part of piping for purposes of X.B.X.010.g.
-8. Mining and drilling equipment, as follows:Large boring equipment capable of drilling holes greater than 61 cm in diameter;Large earth-moving equipment used in the mining industry;
+7. 304 and 316 stainless steel valves, piping, tanks and vessels;
+
+   Note: Fittings are considered part of piping for purposes of X.B.X.010.g.
+8. Mining and drilling equipment, as follows:
+
+   1. Large boring equipment capable of drilling holes greater than 61 cm in diameter;
+   2. Large earth-moving equipment used in the mining industry;
 9. Electroplating equipment designed for coating parts with nickel or aluminium;
 10. Pumps designed for industrial service and for use with an electrical motor of 5 HP or greater;
 11. Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in high-vacuum service, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
@@ -2076,7 +3309,20 @@ X.D.X.003 «Software» specially designed for the «development», «production�
 
 X.D.X.004 Specific «software», as follows (see List of Items Controlled):
 
-1. «Software» to provide adaptive control and having both of the following characteristics:For flexible manufacturing units (FMUs); andCapable of generating or modifying, in real-time processing, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:Machine vision (optical ranging);Infrared imaging;Acoustical imaging (acoustical ranging);Tactile measurement;Inertial positioning;Force measurement; andTorque measurement.Note: X.D.X.004.a does not control «software» which only provides rescheduling of functionally identical equipment within flexible manufacturing units using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
+1. «Software» to provide adaptive control and having both of the following characteristics:
+
+   1. For flexible manufacturing units (FMUs); and
+   2. Capable of generating or modifying, in real-time processing, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:
+
+      1. Machine vision (optical ranging);
+      2. Infrared imaging;
+      3. Acoustical imaging (acoustical ranging);
+      4. Tactile measurement;
+      5. Inertial positioning;
+      6. Force measurement; and
+      7. Torque measurement.
+
+   Note: X.D.X.004.a does not control «software» which only provides rescheduling of functionally identical equipment within flexible manufacturing units using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
 2. Not used.
 
 X.D.X.005 «Software» specially designed or modified for the «development,» «production,» or «use» of items controlled by X.A.X.004 or X.A.X.005.
@@ -3090,9 +4336,25 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 ### Vedlegg XXVI
 Programvare som det er henvist til i artikkel 1jc nr. 4
 
-Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:enterprise resource planning (ERP),customer relationship management (CRM),business intelligence (BI),supply chain management (SCM),enterprise data warehouse (EDW),computerized maintenance management system (CMMS),project management software,product lifecycle management (PLM),typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
+Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:
 
-Design and Manufacturing Software used in the areas of architecture, engineering, construction, manufacturing, media, education and entertainment, including:building information modelling (BIM),computer aided design (CAD),computer-aided manufacturing (CAM),engineer to order (ETO),typical components of above-mentioned suites.
+- enterprise resource planning (ERP),
+- customer relationship management (CRM),
+- business intelligence (BI),
+- supply chain management (SCM),
+- enterprise data warehouse (EDW),
+- computerized maintenance management system (CMMS),
+- project management software,
+- product lifecycle management (PLM),
+- typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
+
+Design and Manufacturing Software used in the areas of architecture, engineering, construction, manufacturing, media, education and entertainment, including:
+
+- building information modelling (BIM),
+- computer aided design (CAD),
+- computer-aided manufacturing (CAM),
+- engineer to order (ETO),
+- typical components of above-mentioned suites.
 
 ### Vedlegg XXVII
 Varer som gjør det mulig for Belarus å diversifisere sine inntektskilder som det er henvist til i artikkel 1ra

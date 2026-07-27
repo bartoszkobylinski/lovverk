@@ -15,7 +15,7 @@ xml_hash: "35cddf038849f68254f7331c5dc04be77ffa5c4ffc186d43a796b418cc01d450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Kongen gir forskrift om lovens anvendelse på Svalbard og Jan Mayen og kan fasts
 
 ### § 1-3. Definisjoner
 
-I loven her menes medpasient: en person som henvender seg til helse- og omsorgstjenesten med anmodning om helsehjelp, eller som helse- og omsorgstjenesten gir eller tilbyr helsehjelp i det enkelte tilfelle;pasientens og brukerens pårørende: den pasienten eller brukeren oppgir som pårørende og nærmeste pårørende. Dersom pasienten eller brukeren er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten eller brukeren, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner1, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten eller brukeren, barn over 18 år, foreldre eller andre som har foreldreansvaret, søsken over 18 år, besteforeldre, andre familiemedlemmer som står pasienten eller brukeren nær, verge eller fremtidsfullmektig med kompetanse på det personlige området. Ved tvungen observasjon eller tvungent psykisk helsevern har den som i størst utstrekning har hatt varig og løpende kontakt med pasienten tilsvarende rettigheter som den nærmeste pårørende etter [psykisk helsevernloven](lov/1999-07-02-62) og loven her, dersom ikke særlige grunner taler mot dette.helsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som er utført av helsepersonell;helse- og omsorgstjenesten: den kommunale helse- og omsorgstjenesten, spesialisthelsetjenesten, tannhelsetjenesten og private tilbydere av helse- og omsorgstjenester;helsepersonell: personer som nevnt i [lov om helsepersonell § 3](lov/1999-07-02-64/§3);bruker: en person som anmoder om eller mottar tjenester omfattet av helse- og omsorgstjenesteloven som ikke er helsehjelp etter bokstav c.
+I loven her menes med
+
+1. pasient: en person som henvender seg til helse- og omsorgstjenesten med anmodning om helsehjelp, eller som helse- og omsorgstjenesten gir eller tilbyr helsehjelp i det enkelte tilfelle;
+2. pasientens og brukerens pårørende: den pasienten eller brukeren oppgir som pårørende og nærmeste pårørende. Dersom pasienten eller brukeren er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten eller brukeren, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner1, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten eller brukeren, barn over 18 år, foreldre eller andre som har foreldreansvaret, søsken over 18 år, besteforeldre, andre familiemedlemmer som står pasienten eller brukeren nær, verge eller fremtidsfullmektig med kompetanse på det personlige området. Ved tvungen observasjon eller tvungent psykisk helsevern har den som i størst utstrekning har hatt varig og løpende kontakt med pasienten tilsvarende rettigheter som den nærmeste pårørende etter [psykisk helsevernloven](lov/1999-07-02-62) og loven her, dersom ikke særlige grunner taler mot dette.
+3. helsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som er utført av helsepersonell;
+4. helse- og omsorgstjenesten: den kommunale helse- og omsorgstjenesten, spesialisthelsetjenesten, tannhelsetjenesten og private tilbydere av helse- og omsorgstjenester;
+5. helsepersonell: personer som nevnt i [lov om helsepersonell § 3](lov/1999-07-02-64/§3);
+6. bruker: en person som anmoder om eller mottar tjenester omfattet av helse- og omsorgstjenesteloven som ikke er helsehjelp etter bokstav c.
 
 > Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)).
 
@@ -126,7 +133,14 @@ Helse- og omsorgstjenesten skal gi den som søker eller trenger helsehjelp fra s
 
 Pasient som henvises til spesialisthelsetjenesten, har innen 10 virkedager etter at spesialisthelsetjenesten har mottatt henvisningen rett til å få en vurdering fra spesialisthelsetjenesten av om pasienten har rett til nødvendig helsehjelp, jf. [§ 2-2](lov/1999-07-02-63/§2-2) andre ledd. Vurderingen skal skje på grunnlag av henvisningen. Pasient som vurderes å ha rett til nødvendig helsehjelp, har samtidig rett til å få fastsatt en faglig forsvarlig tidsfrist for når helsehjelpen senest skal være påbegynt og rett til å få fastsatt tidspunkt for oppstart av helsehjelpen innenfor denne tidsfristen. Pasienten har deretter rett til et faglig forsvarlig pasientforløp.
 
-Innen 10 virkedager etter at spesialisthelsetjenesten har mottatt henvisningen, har pasienten rett til å få informasjon fra spesialisthelsetjenesten om:vurderingen av retten til nødvendig helsehjelpdet fastsatte tidspunktet for oppstart av helsehjelpenden fastsatte tidsfristen for når helsehjelpen senest skal være påbegyntklageadgangen, klagefristen og den nærmere fremgangsmåten ved klage.Henvisende instans skal få samme informasjon som pasienten.
+Innen 10 virkedager etter at spesialisthelsetjenesten har mottatt henvisningen, har pasienten rett til å få informasjon fra spesialisthelsetjenesten om:
+
+1. vurderingen av retten til nødvendig helsehjelp
+2. det fastsatte tidspunktet for oppstart av helsehjelpen
+3. den fastsatte tidsfristen for når helsehjelpen senest skal være påbegynt
+4. klageadgangen, klagefristen og den nærmere fremgangsmåten ved klage.
+
+Henvisende instans skal få samme informasjon som pasienten.
 
 Ved mistanke om alvorlig eller livstruende sykdom har pasienten rett til vurdering av retten til nødvendig helsehjelp, fastsettelse av tidsfrist og tidspunkt og informasjon raskere enn etter andre og tredje ledd.
 
@@ -166,9 +180,15 @@ Departementet kan gi nærmere forskrifter om innholdet og gjennomføringen av va
 
 ### § 2-4 a. Helsehjelp i utlandet
 
-Pasient har rett til å få utgifter til helsehjelp som mottas i et annet EØS-land, helt eller delvis dekketetter [folketrygdloven § 5-24 a](lov/1997-02-28-19/§5-24a) med forskrifter som gjennomfører pasientrettighetsdirektivet i norsk rett. Dette gjelder når den aktuelle helsehjelpen tilsvarer helsehjelp som pasienten hadde fått tilbud om i den offentlige helse- og omsorgstjenesten i Norge.etter rådsforordning [(EF) nr. 883/2004](eu/32004r0883*) og 987/2009, som blant annet gir rett til å få dekket utgifter til nødvendig helsehjelp under midlertidig opphold og til planlagt helsehjelp i andre EØS-land dersom helsehjelpen ikke ytes innen forsvarlig tid i Norge.
+Pasient har rett til å få utgifter til helsehjelp som mottas i et annet EØS-land, helt eller delvis dekket
 
-Pasient har rett til å få utgifter til helsehjelp som mottas i utlandet helt eller delvis dekketdersom pasienten har rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [§ 2-2](lov/1999-07-02-63/§2-2), og det ikke finnes et tilbud i riket, eller helsehjelpen i utlandet er dokumentert mer virkningsfull enn den helsehjelpen som tilbys av det offentlige i Norge.etter [folketrygdloven § 5-24](lov/1997-02-28-19/§5-24) og bestemmelser gitt i medhold av den, som blant annet gir rett til å få stønad til helsetjenester for medlemmer av folketrygden som oppholder seg i utlandet over tid.
+1. etter [folketrygdloven § 5-24 a](lov/1997-02-28-19/§5-24a) med forskrifter som gjennomfører pasientrettighetsdirektivet i norsk rett. Dette gjelder når den aktuelle helsehjelpen tilsvarer helsehjelp som pasienten hadde fått tilbud om i den offentlige helse- og omsorgstjenesten i Norge.
+2. etter rådsforordning [(EF) nr. 883/2004](eu/32004r0883*) og 987/2009, som blant annet gir rett til å få dekket utgifter til nødvendig helsehjelp under midlertidig opphold og til planlagt helsehjelp i andre EØS-land dersom helsehjelpen ikke ytes innen forsvarlig tid i Norge.
+
+Pasient har rett til å få utgifter til helsehjelp som mottas i utlandet helt eller delvis dekket
+
+1. dersom pasienten har rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [§ 2-2](lov/1999-07-02-63/§2-2), og det ikke finnes et tilbud i riket, eller helsehjelpen i utlandet er dokumentert mer virkningsfull enn den helsehjelpen som tilbys av det offentlige i Norge.
+2. etter [folketrygdloven § 5-24](lov/1997-02-28-19/§5-24) og bestemmelser gitt i medhold av den, som blant annet gir rett til å få stønad til helsetjenester for medlemmer av folketrygden som oppholder seg i utlandet over tid.
 
 Utgifter til helsehjelp som er besluttet ikke innført i Norge, dekkes ikke, jf. [spesialisthelsetjenesteloven § 4-4](lov/1999-07-02-61/§4-4). Dette gjelder likevel ikke helsehjelp under midlertidig opphold etter første ledd bokstav b.
 
@@ -204,7 +224,19 @@ Familier som har eller venter barn med alvorlig sykdom, skade eller nedsatt funk
 
 ### § 2-5 d. Midlertidige unntak fra rettigheter
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3) om fastsettelse av tidsfrist for når pasienten senest skal få nødvendig helsehjelp[§ 2-2 a tredje ledd bokstav a](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/a) om informasjon om rett til nødvendig helsehjelp[§ 2-2 a tredje ledd bokstav b](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/b) om informasjon om tidspunkt for oppstart av helsehjelpen[§ 2-2 b første ledd første punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/1) om rett til nødvendig helsehjelp uten opphold ved brudd på tidsfrist fastsatt etter [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3)[§ 2-2 b første ledd andre punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/2) om plikt til å kontakte Helfo[§ 2-3](lov/1999-07-02-63/§2-3) om rett til fornyet vurdering[§ 2-4](lov/1999-07-02-63/§2-4) om rett til valg av behandlingssted[§ 2-5](lov/1999-07-02-63/§2-5) om rett til individuell plan[§ 2-5 a](lov/1999-07-02-63/§2-5a) om rett til kontaktlege[§ 2-5 b](lov/1999-07-02-63/§2-5b) om rett til koordinator[§ 2-5 c](lov/1999-07-02-63/§2-5c) om rett til barnekoordinator.
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:
+
+1. [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3) om fastsettelse av tidsfrist for når pasienten senest skal få nødvendig helsehjelp
+2. [§ 2-2 a tredje ledd bokstav a](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/a) om informasjon om rett til nødvendig helsehjelp
+3. [§ 2-2 a tredje ledd bokstav b](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/b) om informasjon om tidspunkt for oppstart av helsehjelpen
+4. [§ 2-2 b første ledd første punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/1) om rett til nødvendig helsehjelp uten opphold ved brudd på tidsfrist fastsatt etter [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3)
+5. [§ 2-2 b første ledd andre punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/2) om plikt til å kontakte Helfo
+6. [§ 2-3](lov/1999-07-02-63/§2-3) om rett til fornyet vurdering
+7. [§ 2-4](lov/1999-07-02-63/§2-4) om rett til valg av behandlingssted
+8. [§ 2-5](lov/1999-07-02-63/§2-5) om rett til individuell plan
+9. [§ 2-5 a](lov/1999-07-02-63/§2-5a) om rett til kontaktlege
+10. [§ 2-5 b](lov/1999-07-02-63/§2-5b) om rett til koordinator
+11. [§ 2-5 c](lov/1999-07-02-63/§2-5c) om rett til barnekoordinator.
 
 > Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lover [2 juni 2023 nr. 17](lov/2023-06-02-17), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
@@ -264,7 +296,10 @@ Tjenestetilbudet skal så langt som mulig utformes i samarbeid med pasient eller
 
 Dersom pasienten ikke har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke sammen med pasienten.
 
-Dersom pasienten har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke når:pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helsehensynet til barn pasienten har omsorgsansvar for, taler for at pårørende skal få medvirke.
+Dersom pasienten har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke når:
+
+1. pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helse
+2. hensynet til barn pasienten har omsorgsansvar for, taler for at pårørende skal få medvirke.
 
 Pasient eller bruker har rett til å ha andre personer til stede når helse- og omsorgstjenester gis. Det kan gjøres unntak dersom det er nødvendig for å kunne gi forsvarlige helse- og omsorgstjenester.
 
@@ -296,7 +331,10 @@ Dersom pasienten eller brukeren samtykker til det eller forholdene tilsier det, 
 
 Er pasienten eller brukeren over 16 år og ikke kan ivareta sine interesser på grunn av manglende beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2), har både pasienten eller brukeren og dennes nærmeste pårørende rett til informasjon etter reglene i [§ 3-2](lov/1999-07-02-63/§3-2).
 
-Dersom pasienten eller brukeren har beslutningskompetanse, har pasientens eller brukerens nærmeste pårørende rett til informasjon når:pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helsehensynet til barn pasienten eller brukeren har omsorgsansvar for, taler for at pårørende skal få informasjon.
+Dersom pasienten eller brukeren har beslutningskompetanse, har pasientens eller brukerens nærmeste pårørende rett til informasjon når:
+
+1. pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helse
+2. hensynet til barn pasienten eller brukeren har omsorgsansvar for, taler for at pårørende skal få informasjon.
 
 Dersom en pasient eller bruker dør og utfallet er uventet ut fra påregnelig risiko, har pasientens eller brukerens nærmeste pårørende rett til informasjon etter [§ 3-2](lov/1999-07-02-63/§3-2) fjerde til og med sjette ledd, så langt taushetsplikten ikke er til hinder for dette.
 
@@ -360,7 +398,11 @@ Departementet kan gi forskrifter om krav til skriftlighet eller andre formkrav v
 
 ### § 4-3. Hvem som har beslutningskompetanse
 
-Rett til å samtykke til helsehjelp harpersoner over 18 år, med mindre annet følger av [§ 4-7](lov/1999-07-02-63/§4-7) eller annen særlig lovbestemmelsepersoner mellom 16 og 18 år, med mindre annet følger av særlig lovbestemmelse eller av tiltakets artpersoner mellom 12 og 16 år, når det gjelder helsehjelp for forhold som foreldrene eller andre som har foreldreansvaret, ikke er informert om, jf. [§ 3-4](lov/1999-07-02-63/§3-4) annet eller tredje ledd, eller det følger av tiltakets art.
+Rett til å samtykke til helsehjelp har
+
+1. personer over 18 år, med mindre annet følger av [§ 4-7](lov/1999-07-02-63/§4-7) eller annen særlig lovbestemmelse
+2. personer mellom 16 og 18 år, med mindre annet følger av særlig lovbestemmelse eller av tiltakets art
+3. personer mellom 12 og 16 år, når det gjelder helsehjelp for forhold som foreldrene eller andre som har foreldreansvaret, ikke er informert om, jf. [§ 3-4](lov/1999-07-02-63/§3-4) annet eller tredje ledd, eller det følger av tiltakets art.
 
 Beslutningskompetansen kan bortfalle dersom det er overveiende sannsynlig at pasienten ikke er i stand til å forstå hva den aktuelle beslutningen gjelder, og konsekvensene av beslutningen.
 
@@ -476,7 +518,11 @@ Undersøkelse og behandling av psykisk lidelse hos personer som mangler beslutni
 
 Før det kan ytes helsehjelp som pasienten motsetter seg, må tillitskapende tiltak ha vært forsøkt, med mindre det er åpenbart formålsløst å prøve dette.
 
-Opprettholder pasienten sin motstand, eller vet helsepersonellet at vedkommende med stor sannsynlighet vil opprettholde sin motstand, kan det treffes vedtak om helsehjelp dersomen unnlatelse av å gi helsehjelp kan føre til vesentlig helseskade for pasienten, oghelsehjelpen anses nødvendig, ogtiltakene står i forhold til behovet for helsehjelpen.
+Opprettholder pasienten sin motstand, eller vet helsepersonellet at vedkommende med stor sannsynlighet vil opprettholde sin motstand, kan det treffes vedtak om helsehjelp dersom
+
+1. en unnlatelse av å gi helsehjelp kan føre til vesentlig helseskade for pasienten, og
+2. helsehjelpen anses nødvendig, og
+3. tiltakene står i forhold til behovet for helsehjelpen.
 
 Selv om vilkårene i første og andre ledd er oppfylt, kan helsehjelp bare gis der dette etter en helhetsvurdering framtrer som den klart beste løsningen for pasienten. I vurderingen av om slik helsehjelp skal gis, skal det blant annet legges vekt på graden av motstand samt om det i nær fremtid kan forventes at pasienten vil kunne gjenvinne sin beslutningskompetanse.
 

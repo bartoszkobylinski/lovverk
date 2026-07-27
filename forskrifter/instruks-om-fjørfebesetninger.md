@@ -38,7 +38,11 @@ I fjørfebesetninger hvor all ante mortem kontroll foregår på slakteri, skal d
 
 ## § 4.
 
-Ved tilsynsbesøket skal distriktsveterinæren minimum kontrollere at:det foreligger en skriftlig avtale med veterinær om helseovervåking i besetningen i henhold til [forskrift av 21. desember 2001 nr. 1595](forskrift/2001-12-21-1595) om helseovervåking i fjørfebesetninger,driftsregisteret føres i henhold til kravene i [forskrift 21. mars 1995 nr. 265](forskrift/1995-03-21-265) om hygiene og kontroll m.v. ved produksjon og frambud av fersk fjørfekjøtt § 57,eier, dersom det benyttes legemidler i dyreholdet, gjennomfører prøvetaking av vann og/eller fôrvare for å kontrollere at tilbakeholdesestiden for stoffer med farmakologisk virkning overholdes.
+Ved tilsynsbesøket skal distriktsveterinæren minimum kontrollere at:
+
+1. det foreligger en skriftlig avtale med veterinær om helseovervåking i besetningen i henhold til [forskrift av 21. desember 2001 nr. 1595](forskrift/2001-12-21-1595) om helseovervåking i fjørfebesetninger,
+2. driftsregisteret føres i henhold til kravene i [forskrift 21. mars 1995 nr. 265](forskrift/1995-03-21-265) om hygiene og kontroll m.v. ved produksjon og frambud av fersk fjørfekjøtt § 57,
+3. eier, dersom det benyttes legemidler i dyreholdet, gjennomfører prøvetaking av vann og/eller fôrvare for å kontrollere at tilbakeholdesestiden for stoffer med farmakologisk virkning overholdes.
 
 Driftsregisteret skal gjennomgås spesielt for å avdekke eventuell sykdom som kan overføres til mennesker eller dyr, eller andre forhold som kan gjøre kjøttet uegnet til folkemat.
 

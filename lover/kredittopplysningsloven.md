@@ -15,7 +15,7 @@ xml_hash: "bcf87bcba8fc52b05fb51a3347a1eb067aa6d23cb889a40490a95f110e13ef20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ eu_basis: []
 
 Loven gjelder for utlevering og annen behandling av opplysninger som ledd i kredittopplysningsvirksomhet dersom annet ikke er bestemt i eller i medhold av lov.
 
-Følgende regnes ikke som kredittopplysningsvirksomhet:meldinger fra offentlige registre om rettigheter og heftelser i fast eiendom eller løsøre,meldinger til den opplysningene gjelder,Brønnøysundregistrenes behandling av lovpålagte registre,meldinger fra Løsøreregisteret om registrerte utleggstrekk og forretninger om «intet til utlegg».
+Følgende regnes ikke som kredittopplysningsvirksomhet:
+
+1. meldinger fra offentlige registre om rettigheter og heftelser i fast eiendom eller løsøre,
+2. meldinger til den opplysningene gjelder,
+3. Brønnøysundregistrenes behandling av lovpålagte registre,
+4. meldinger fra Løsøreregisteret om registrerte utleggstrekk og forretninger om «intet til utlegg».
 
 ### § 2. Geografisk virkeområde
 
@@ -38,7 +43,16 @@ Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalb
 
 ### § 3. Definisjoner
 
-I denne loven menes medpersonopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk person; en identifiserbar fysisk person er en person som direkte eller indirekte kan identifiseres, særlig ved hjelp av en identifikator, f.eks. et navn, et identifikasjonsnummer, lokaliseringsopplysninger, en nettidentifikator eller ett eller flere elementer som er spesifikke for nevnte fysiske persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sosiale identitet,kredittopplysning: opplysning som belyser kredittevnen til en fysisk eller juridisk person,gjeldsopplysning: opplysninger som nevnt i [gjeldsinformasjonsloven § 2](lov/2017-06-16-47/§2) bokstav d,kredittopplysningsvirksomhet: virksomhet som består i ervervsmessig eller stadig utlevering av kredittopplysninger i den hensikt å belyse kredittevne,kredittopplysningsregister: enhver strukturert samling av opplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er desentralisert eller spredt på et funksjonelt eller geografisk grunnlag, og som brukes i kredittopplysningsvirksomhet,behandling: enhver operasjon eller rekke av operasjoner som gjøres med opplysninger om fysiske eller juridiske personer, enten automatisert eller ikke, f.eks. innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring,kredittrating og kredittscore: matematisk beregnet poengsum eller kode som beskriver risikoprofil og som brukes til å bedømme kredittevne,inkassoforetak: foretak som driver inkassovirksomhet i henhold til [inkassoloven](lov/1988-05-13-26).
+I denne loven menes med
+
+1. personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk person; en identifiserbar fysisk person er en person som direkte eller indirekte kan identifiseres, særlig ved hjelp av en identifikator, f.eks. et navn, et identifikasjonsnummer, lokaliseringsopplysninger, en nettidentifikator eller ett eller flere elementer som er spesifikke for nevnte fysiske persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sosiale identitet,
+2. kredittopplysning: opplysning som belyser kredittevnen til en fysisk eller juridisk person,
+3. gjeldsopplysning: opplysninger som nevnt i [gjeldsinformasjonsloven § 2](lov/2017-06-16-47/§2) bokstav d,
+4. kredittopplysningsvirksomhet: virksomhet som består i ervervsmessig eller stadig utlevering av kredittopplysninger i den hensikt å belyse kredittevne,
+5. kredittopplysningsregister: enhver strukturert samling av opplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er desentralisert eller spredt på et funksjonelt eller geografisk grunnlag, og som brukes i kredittopplysningsvirksomhet,
+6. behandling: enhver operasjon eller rekke av operasjoner som gjøres med opplysninger om fysiske eller juridiske personer, enten automatisert eller ikke, f.eks. innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring,
+7. kredittrating og kredittscore: matematisk beregnet poengsum eller kode som beskriver risikoprofil og som brukes til å bedømme kredittevne,
+8. inkassoforetak: foretak som driver inkassovirksomhet i henhold til [inkassoloven](lov/1988-05-13-26).
 
 ### § 4. Forholdet til personopplysningsloven og personvernforordningen
 
@@ -66,7 +80,16 @@ Første ledd gjelder likevel ikke opplysninger om overtredelser av [straffeloven
 
 ### § 9. Kilder
 
-Kredittopplysninger kan innhentes fra følgende kilder:offentlig tilgjengelige kilder,inkassoforetak,Statens kartverk og virksomheter som videreformidler eiendomsopplysninger fra Statens kartverk i henhold til [forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen](forskrift/2013-12-18-1599),Folkeregisteret,Skattedirektoratet,gjeldsinformasjonsforetak,den registrerte selv,register over kredittsperrer, jf. [§ 16](lov/2019-12-20-109/§16).
+Kredittopplysninger kan innhentes fra følgende kilder:
+
+1. offentlig tilgjengelige kilder,
+2. inkassoforetak,
+3. Statens kartverk og virksomheter som videreformidler eiendomsopplysninger fra Statens kartverk i henhold til [forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen](forskrift/2013-12-18-1599),
+4. Folkeregisteret,
+5. Skattedirektoratet,
+6. gjeldsinformasjonsforetak,
+7. den registrerte selv,
+8. register over kredittsperrer, jf. [§ 16](lov/2019-12-20-109/§16).
 
 Opplysninger om konkurs, akkord og gjeldsforhandlinger kan bare hentes fra Brønnøysundregistrene og Norsk lysingsblad.
 
@@ -110,7 +133,10 @@ Kredittopplysninger kan utleveres i form av kredittrating eller kredittscore for
 
 Avtaler som går ut på at mottakeren skal få utlevert fremtidige kredittopplysninger (kredittovervåking), kan bare omfatte opplysninger om juridiske personer.
 
-Første ledd er ikke til hinder for at kredittopplysninger utleveresfor bruk til journalistiske formål. Kredittopplysninger om fysiske personer kan bare utleveres til journalistiske formål i samsvar med [personopplysningsloven § 3](lov/2018-06-15-38/§3) dersom mottaker kunne innhentet de samme opplysningene fra en offentlig tilgjengelig kilde,til Statistisk sentralbyrå, Norges Bank og Finanstilsynet for analyse-, overvåkings- og statistikkformål. Slik utlevering skal skje vederlagsfritt for mottaker.
+Første ledd er ikke til hinder for at kredittopplysninger utleveres
+
+1. for bruk til journalistiske formål. Kredittopplysninger om fysiske personer kan bare utleveres til journalistiske formål i samsvar med [personopplysningsloven § 3](lov/2018-06-15-38/§3) dersom mottaker kunne innhentet de samme opplysningene fra en offentlig tilgjengelig kilde,
+2. til Statistisk sentralbyrå, Norges Bank og Finanstilsynet for analyse-, overvåkings- og statistikkformål. Slik utlevering skal skje vederlagsfritt for mottaker.
 
 ### § 15. Utlevering av gjeldsopplysninger
 
@@ -140,7 +166,15 @@ Innsyn skal være gratis for den registrerte. Unntakene i [personvernforordninge
 
 Ved utlevering av kredittopplysninger om fysiske personer skal gjenpart, kopi eller annen melding om innholdet i kredittopplysningene samtidig sendes vederlagsfritt til den registrerte.
 
-Gjenpartsbrevet skal i tillegg inneholde informasjon om:identiteten og kontaktopplysningene til den behandlingsansvarlige for utleveringen og eventuelt den behandlingsansvarliges representant,kontaktopplysninger til personvernombudet, dersom dette er relevant,kilden som de utleverte opplysningene er hentet fra,hvem som har etterspurt kredittopplysninger,personopplysningene som ligger til grunn for en eventuell kredittscore,forklaring på den underliggende logikken i beregningen av en eventuell kredittscore,dato for når kredittvurderingen ble foretatt.
+Gjenpartsbrevet skal i tillegg inneholde informasjon om:
+
+1. identiteten og kontaktopplysningene til den behandlingsansvarlige for utleveringen og eventuelt den behandlingsansvarliges representant,
+2. kontaktopplysninger til personvernombudet, dersom dette er relevant,
+3. kilden som de utleverte opplysningene er hentet fra,
+4. hvem som har etterspurt kredittopplysninger,
+5. personopplysningene som ligger til grunn for en eventuell kredittscore,
+6. forklaring på den underliggende logikken i beregningen av en eventuell kredittscore,
+7. dato for når kredittvurderingen ble foretatt.
 
 Plikten til å sende gjenpart gjelder ikke når kredittopplysninger utleveres til et inkassoforetak som tidligere har fått utlevert disse opplysningene i forbindelse med inndrivingen av den samme fordringen.
 
@@ -176,7 +210,11 @@ En fordring som ikke kan tvangsinndrives, kan behandles i kredittopplysningsvirk
 
 ### § 23. Gjeldsordning
 
-Opplysning om åpning av gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99) kan ikke behandles i kredittopplysningsvirksomhet dersomsaken om gjeldsordning er hevet,gjeldsordning er fastsatt,gjeldsforhandlingsperioden er avsluttet uten at det er mottatt melding om at gjeldsordning er fastsatt.
+Opplysning om åpning av gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99) kan ikke behandles i kredittopplysningsvirksomhet dersom
+
+1. saken om gjeldsordning er hevet,
+2. gjeldsordning er fastsatt,
+3. gjeldsforhandlingsperioden er avsluttet uten at det er mottatt melding om at gjeldsordning er fastsatt.
 
 Opplysning om åpning av gjeldsforhandling kan ikke behandles i kredittopplysningsvirksomhet lenger enn ett år fra åpningtidspunktet.
 

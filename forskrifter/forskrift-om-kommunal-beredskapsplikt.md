@@ -34,7 +34,14 @@ Kommunen skal gjennomføre en helhetlig risiko- og sårbarhetsanalyse, herunder 
 
 Den helhetlige risiko- og sårbarhetsanalysen skal forankres i kommunestyret.
 
-Analysen skal som et minimum omfatte:eksisterende og fremtidige risiko- og sårbarhetsfaktorer i kommunen.risiko og sårbarhet utenfor kommunens geografiske område som kan ha betydning for kommunen.hvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre.særlige utfordringer knyttet til kritiske samfunnsfunksjoner og tap av kritisk infrastruktur.kommunens evne til å opprettholde sin virksomhet når den utsettes for en uønsket hendelse og evnen til å gjenoppta sin virksomhet etter at hendelsen har inntruffet.behovet for befolkningsvarsling og evakuering.
+Analysen skal som et minimum omfatte:
+
+1. eksisterende og fremtidige risiko- og sårbarhetsfaktorer i kommunen.
+2. risiko og sårbarhet utenfor kommunens geografiske område som kan ha betydning for kommunen.
+3. hvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre.
+4. særlige utfordringer knyttet til kritiske samfunnsfunksjoner og tap av kritisk infrastruktur.
+5. kommunens evne til å opprettholde sin virksomhet når den utsettes for en uønsket hendelse og evnen til å gjenoppta sin virksomhet etter at hendelsen har inntruffet.
+6. behovet for befolkningsvarsling og evakuering.
 
 Kommunen skal påse at relevante offentlige og private aktører inviteres med i arbeidet med utarbeidelse av risiko- og sårbarhetsanalysen.
 
@@ -42,13 +49,22 @@ Der det avdekkes behov for videre detaljanalyser skal kommunen foreta ytterliger
 
 ## § 3. Helhetlig og systematisk samfunnssikkerhets- og beredskapsarbeid
 
-På bakgrunn av den helhetlige risiko- og sårbarhetsanalysen skal kommunen:utarbeide langsiktige mål, strategier, prioriteringer og plan for oppfølging av samfunnssikkerhets- og beredskapsarbeidet.vurdere forhold som bør integreres i planer og prosesser etter [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling (plan- og bygningsloven).
+På bakgrunn av den helhetlige risiko- og sårbarhetsanalysen skal kommunen:
+
+1. utarbeide langsiktige mål, strategier, prioriteringer og plan for oppfølging av samfunnssikkerhets- og beredskapsarbeidet.
+2. vurdere forhold som bør integreres i planer og prosesser etter [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling (plan- og bygningsloven).
 
 ## § 4. Beredskapsplan
 
 Kommunen skal være forberedt på å håndtere uønskede hendelser, og skal med utgangspunkt i den helhetlige risiko- og sårbarhetsanalysen utarbeide en overordnet beredskapsplan. Kommunens overordnede beredskapsplan skal samordne og integrere øvrige beredskapsplaner i kommunen. Den skal også være samordnet med andre relevante offentlige og private krise- og beredskapsplaner.
 
-Beredskapsplanen skal som et minimum inneholde:en plan for kommunens kriseledelse som gir opplysninger om hvem som utgjør kommunens kriseledelse og deres ansvar, roller og fullmakter, herunder hvem som har fullmakt til å bestemme at kriseledelsen skal samles.en varslingsliste over aktører som har en rolle i kommunens krisehåndtering. Kommunen skal informere alle som står på varslingslisten om deres rolle i krisehåndteringen.En ressursoversikt som skal inneholde opplysninger om hvilke ressurser kommunen selv har til rådighet og hvilke ressurser som er tilgjengelige hos andre aktører ved uønskede hendelser. Kommunen bør på forhånd inngå avtaler med relevante aktører om bistand under kriser.evakueringsplaner og plan for befolkningsvarsling basert på den helhetlige risiko- og sårbarhetsanalysen.plan for krisekommunikasjon med befolkningen, media og egne ansatte.
+Beredskapsplanen skal som et minimum inneholde:
+
+1. en plan for kommunens kriseledelse som gir opplysninger om hvem som utgjør kommunens kriseledelse og deres ansvar, roller og fullmakter, herunder hvem som har fullmakt til å bestemme at kriseledelsen skal samles.
+2. en varslingsliste over aktører som har en rolle i kommunens krisehåndtering. Kommunen skal informere alle som står på varslingslisten om deres rolle i krisehåndteringen.
+3. En ressursoversikt som skal inneholde opplysninger om hvilke ressurser kommunen selv har til rådighet og hvilke ressurser som er tilgjengelige hos andre aktører ved uønskede hendelser. Kommunen bør på forhånd inngå avtaler med relevante aktører om bistand under kriser.
+4. evakueringsplaner og plan for befolkningsvarsling basert på den helhetlige risiko- og sårbarhetsanalysen.
+5. plan for krisekommunikasjon med befolkningen, media og egne ansatte.
 
 Beredskapsplanen kan utarbeides som en handlingsdel til kommunedelplanen i henhold til plan- og bygningsloven.
 

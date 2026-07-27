@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Tilsynsrådets oppgaver
 
-Tilsynsrådet skal føre tilsyn meddriften av Politiets utlendingsinternat og særskilt tilrettelagte innkvarteringsstederat behandlingen av utlendinger som oppholder seg på steder som nevnt i bokstav a er i samsvar med [utlendingsloven § 107](lov/2008-05-15-35/§107) og [utlendingsinternatforskriften](forskrift/2009-12-23-1890)tvangsreturer, jf. Europaparlaments- og rådsdirektiv [2008/115/EF artikkel 8](eu/32008l0115/a8) nummer 6, med unntak av retur av personer som nevnt i direktivet artikkel 2 nr. 2.
+Tilsynsrådet skal føre tilsyn med
+
+1. driften av Politiets utlendingsinternat og særskilt tilrettelagte innkvarteringssteder
+2. at behandlingen av utlendinger som oppholder seg på steder som nevnt i bokstav a er i samsvar med [utlendingsloven § 107](lov/2008-05-15-35/§107) og [utlendingsinternatforskriften](forskrift/2009-12-23-1890)
+3. tvangsreturer, jf. Europaparlaments- og rådsdirektiv [2008/115/EF artikkel 8](eu/32008l0115/a8) nummer 6, med unntak av retur av personer som nevnt i direktivet artikkel 2 nr. 2.
 
 ### § 2. Definisjoner og avgrensning
 

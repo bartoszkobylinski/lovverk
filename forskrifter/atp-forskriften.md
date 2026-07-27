@@ -15,7 +15,7 @@ xml_hash: "80dcd38ac67d82dab74ad19cf394d8f4a257d39de07775b9d8f426935e3e577e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1.
 
-Ved transport av kjølte, fryste og dypfryste næringsmidler samt lett bedervelige næringsmidler som er angitt i bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), skal kun nyttes transportmateriell som er godkjent og merket ifølge traktat om internasjonal transport av lett bedervelige næringsmidler (ATP) når:næringsmiddelet innføres til Norge vedtransport på vei eller jernbanesjøtransport som er kortere enn 150 km under forutsetning av at næringsmidlene uten omlasting transporteres i det materiell som benyttes for transport på land og at sjøtransporten skjer i tilknytning til forutgående og/eller etterfølgende transportetapper på land,næringsmiddelet på samme måte utføres fra Norge for innførsel til land som har tiltrådt ATP-traktaten.
+Ved transport av kjølte, fryste og dypfryste næringsmidler samt lett bedervelige næringsmidler som er angitt i bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), skal kun nyttes transportmateriell som er godkjent og merket ifølge traktat om internasjonal transport av lett bedervelige næringsmidler (ATP) når:
+
+1. næringsmiddelet innføres til Norge ved
+
+   - transport på vei eller jernbane
+   - sjøtransport som er kortere enn 150 km under forutsetning av at næringsmidlene uten omlasting transporteres i det materiell som benyttes for transport på land og at sjøtransporten skjer i tilknytning til forutgående og/eller etterfølgende transportetapper på land,
+2. næringsmiddelet på samme måte utføres fra Norge for innførsel til land som har tiltrådt ATP-traktaten.
 
 ## § 2.
 
@@ -74,13 +80,21 @@ I medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2) har Sosialdepar
 
 ### I. Prøving, godkjenning m.v.
 
-1\. For å oppnå godkjenning skal materiellet prøves etter bestemmelser gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.Godkjenningen kan skje ved typegodkjenning.
+1\. For å oppnå godkjenning skal materiellet prøves etter bestemmelser gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.
 
-2\. Materiellet skal underkastes prøving ved den (de) av Mattilsynet utpekte myndighet(er)før det tas i bruk første gangminst en gang hvert sjette årnår Mattilsynet ellers bestemmer det.
+Godkjenningen kan skje ved typegodkjenning.
+
+2\. Materiellet skal underkastes prøving ved den (de) av Mattilsynet utpekte myndighet(er)
+
+- før det tas i bruk første gang
+- minst en gang hvert sjette år
+- når Mattilsynet ellers bestemmer det.
 
 3\. Søknad om godkjenning stiles til den myndighet som er utpekt til å forestå prøvingen. Med søknaden skal følge tegninger og andre opplysninger som institusjonen krever.
 
-4\. Det kan anvendes materiell som er registrert og godkjent i et annet land og er forsynt med dokumentasjon og merket i henhold til ATP-traktaten.Mattilsynet kan tillate at materiell som er registrert i Norge blir prøvet av andre organer jf. forskriftenes [§ 3](forskrift/1980-06-27-9645/§3).
+4\. Det kan anvendes materiell som er registrert og godkjent i et annet land og er forsynt med dokumentasjon og merket i henhold til ATP-traktaten.
+
+1. Mattilsynet kan tillate at materiell som er registrert i Norge blir prøvet av andre organer jf. forskriftenes [§ 3](forskrift/1980-06-27-9645/§3).
 
 > Endret ved [forskrift 15 jan 2004 nr. 214](forskrift/2004-01-15-214).
 
@@ -92,13 +106,21 @@ I medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2) har Sosialdepar
 
 2\. Typegodkjenning kan gis for inntil 100 enheter av samme produksjonsserie. En hver endring i konstruksjon eller utførelse skal meldes til prøvemyndigheten, som avgjør om ny fullstendig prøving og godkjenning skal foretas.
 
-3\. Nytt materiell som er framstilt i serieproduksjon kan godkjennes uten særskilt prøving når det svarer til det som er typegodkjent.Med søknad om godkjenning skal følge bevitnelse fra fabrikanten om at materiellet er i samsvar med det som er typegodkjent samt opplysninger som spesifikasjoner og fabrikasjonsnummer.Materiell fra slik produksjonsserie kan godkjennes for høyst 6 år.Regler for tillatte avvik i serieproduksjon er gitt i bestemmelsene gitt i medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.
+3\. Nytt materiell som er framstilt i serieproduksjon kan godkjennes uten særskilt prøving når det svarer til det som er typegodkjent.
+
+Med søknad om godkjenning skal følge bevitnelse fra fabrikanten om at materiellet er i samsvar med det som er typegodkjent samt opplysninger som spesifikasjoner og fabrikasjonsnummer.
+
+Materiell fra slik produksjonsserie kan godkjennes for høyst 6 år.
+
+Regler for tillatte avvik i serieproduksjon er gitt i bestemmelsene gitt i medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.
 
 ### IV. Enkeltgodkjenning.
 
 1\. Materiell som ikke er gjenstand for typegodkjenning skal gjennomgå fullstendig utprøving før det kan godkjennes. Godkjenningen gjelder i høyst 6 år.
 
-2\. Materiell som er godkjent kan få godkjenningen forlenget etter forenklet prøve. Slik forlengelse kan vare inntil 3 år.Prøvemyndigheten kan likevel når som helst i løpet av perioden kreve materiellet underkastet fullstendig prøve. Godkjenningen kan deretter forlenges inntil 6 år.
+2\. Materiell som er godkjent kan få godkjenningen forlenget etter forenklet prøve. Slik forlengelse kan vare inntil 3 år.
+
+Prøvemyndigheten kan likevel når som helst i løpet av perioden kreve materiellet underkastet fullstendig prøve. Godkjenningen kan deretter forlenges inntil 6 år.
 
 ### V. Tilsyn med produksjonen.
 

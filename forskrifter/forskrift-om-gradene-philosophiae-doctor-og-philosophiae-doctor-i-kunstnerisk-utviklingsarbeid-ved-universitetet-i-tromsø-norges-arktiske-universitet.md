@@ -60,7 +60,12 @@ Denne forskriften gjelder utdanningene som fører fram til de to gradene philoso
 
 ### § 5. Ansvar for doktorgradsutdanningen
 
-(1) Universitetsstyret har det overordnede ansvaret for utdanningen oggir regler for organisering av utdanningagjør vedtak om opprettelse og nedleggelse av doktorgradsprogramgjør vedtak om opptakstall dersom et fakultet ønsker opptaksregulering på et programgjør vedtak om opprettelse av fellesgrader med andre institusjoner.
+(1) Universitetsstyret har det overordnede ansvaret for utdanningen og
+
+- gir regler for organisering av utdanninga
+- gjør vedtak om opprettelse og nedleggelse av doktorgradsprogram
+- gjør vedtak om opptakstall dersom et fakultet ønsker opptaksregulering på et program
+- gjør vedtak om opprettelse av fellesgrader med andre institusjoner.
 
 (2) Fakultetet selv kan fastsette utfyllende regler til forskrifta for program det er faglig ansvarlig for. Rektor skal informeres om utfyllende regler som fastsettes. Med fakultetet selv menes i denne forskrift organer på fakultetsnivå.
 
@@ -78,11 +83,26 @@ Denne forskriften gjelder utdanningene som fører fram til de to gradene philoso
 
 ### § 7. Innholdet i doktorgradsutdanningen
 
-(1) Doktorgradsutdanningen er hovedsakelig en vitenskapelig eller kunstnerisk undersøkelse som gjennomføres under aktiv veiledning. Utdanningen omfatter:et selvstendig forskningsarbeid, kombinert forsknings- og utviklingsarbeid eller kunstnerisk utviklingsarbeid i aktivt samarbeid med veiledere og andre forskere.en godkjent opplæringsdeldeltakelse i aktive miljø for forsking eller kunstnerisk utviklingsarbeid, nasjonalt og internasjonaltfaglig formidling som er nært relatert til doktorgradsarbeidetobligatorisk midtveisevaluering, jf. [§ 17](forskrift/2022-12-01-2087/§17).
+(1) Doktorgradsutdanningen er hovedsakelig en vitenskapelig eller kunstnerisk undersøkelse som gjennomføres under aktiv veiledning. Utdanningen omfatter:
 
-(2) Ph.d.-graden tildeles ved kreering på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent doktorgradsavhandlinggodkjent prøveforelesning over oppgitt emnegodkjent forsvar av avhandlinga i en offentlig disputas.
+- et selvstendig forskningsarbeid, kombinert forsknings- og utviklingsarbeid eller kunstnerisk utviklingsarbeid i aktivt samarbeid med veiledere og andre forskere.
+- en godkjent opplæringsdel
+- deltakelse i aktive miljø for forsking eller kunstnerisk utviklingsarbeid, nasjonalt og internasjonalt
+- faglig formidling som er nært relatert til doktorgradsarbeidet
+- obligatorisk midtveisevaluering, jf. [§ 17](forskrift/2022-12-01-2087/§17).
 
-(3) Ph.d.-graden i kunstnerisk utviklingsarbeid tildeles ved kreering på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent kunstnerisk doktorgradsarbeidgodkjent forsvar av det kunstneriske doktorgradsarbeidet i en offentlig disputas.
+(2) Ph.d.-graden tildeles ved kreering på grunnlag av:
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent doktorgradsavhandling
+- godkjent prøveforelesning over oppgitt emne
+- godkjent forsvar av avhandlinga i en offentlig disputas.
+
+(3) Ph.d.-graden i kunstnerisk utviklingsarbeid tildeles ved kreering på grunnlag av:
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent kunstnerisk doktorgradsarbeid
+- godkjent forsvar av det kunstneriske doktorgradsarbeidet i en offentlig disputas.
 
 ## Kapittel II. Opptak
 
@@ -106,7 +126,22 @@ Denne forskriften gjelder utdanningene som fører fram til de to gradene philoso
 
 (2) Søkere med annen finansiering enn stipend der universitetet er arbeidsgiver, må søke direkte til fakultetet. Søknaden skal skrives på fastsatt søknadsskjema.
 
-(3) Avhengig av kravene i stillingsutlysningen og/eller søknadsskjemaet skal søker:dokumentere den utdanningen som skal ligge til grunn for opptaketdokumentere nødvendige engelskkunnskaperutarbeide prosjektbeskrivelse/fylla ut søknad som omfatter:faglig redegjørelse for prosjektet der det gjøres rede for tema, problemstillinger og valg av teori og metodeforslag til utdanningsplanplan for finansiering, jf. [§ 8](forskrift/2022-12-01-2087/§8) (6)dokumentasjon av spesielle behov for faglige og materielle ressurserplan for tilknytting til aktivt miljø for forskning eller kunstnerisk utviklingsarbeid og eventuelle opphold ved andre forskningsinstitusjonerplan for faglig formidlingopplysninger om eventuelle immaterialrettslige restriksjoner for å verne andre sine rettigheterredegjørelse om eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan de kan avklaresvurdering av potensialet for innovasjon og/eller ideer som kan kommersialiseresførste versjon av datahåndteringsplan for prosjekter som involverer forskningsdata.
+(3) Avhengig av kravene i stillingsutlysningen og/eller søknadsskjemaet skal søker:
+
+- dokumentere den utdanningen som skal ligge til grunn for opptaket
+- dokumentere nødvendige engelskkunnskaper
+- utarbeide prosjektbeskrivelse/fylla ut søknad som omfatter:
+
+  - faglig redegjørelse for prosjektet der det gjøres rede for tema, problemstillinger og valg av teori og metode
+  - forslag til utdanningsplan
+  - plan for finansiering, jf. [§ 8](forskrift/2022-12-01-2087/§8) (6)
+  - dokumentasjon av spesielle behov for faglige og materielle ressurser
+  - plan for tilknytting til aktivt miljø for forskning eller kunstnerisk utviklingsarbeid og eventuelle opphold ved andre forskningsinstitusjoner
+  - plan for faglig formidling
+  - opplysninger om eventuelle immaterialrettslige restriksjoner for å verne andre sine rettigheter
+  - redegjørelse om eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan de kan avklares
+  - vurdering av potensialet for innovasjon og/eller ideer som kan kommersialiseres
+  - første versjon av datahåndteringsplan for prosjekter som involverer forskningsdata.
 
 (4) Søkere som ikke skal ha arbeidssted ved universitetet, må være tilknyttet et annet aktivt miljø der prosjektet skal gjennomføres. Det må gå fram av søknaden hvor arbeidsstedet skal være. Fakultetet kan likevel stille krav om opphold i relevant fagmiljø ved fakultetet for deler av perioden.
 
@@ -124,7 +159,11 @@ Denne forskriften gjelder utdanningene som fører fram til de to gradene philoso
 
 (4) Vedtak om opptak og inngåelse av doktorgradsavtalen skal gjøres senest innen tre måneder etter tiltredelse, jf. [§ 1-3](forskrift/2006-01-31-102/§1-3) åttende ledd i [forskrift om ansettelsesvilkår, vit. stillinger](forskrift/2006-01-31-102). Doktorgradskandidat og veiledere skal sammen gjennomgå prosjektbeskrivelsen, og vurdere behov for justeringer. Fullstendig prosjektbeskrivelse skal foreligge innen tre måneder etter tiltredelse.
 
-(5) Det er ikke grunnlag for opptak dersom:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlinga eller det kunstneriske doktorgradsarbeidet.de immaterialrettslige avtalene som er inngått er så urimelig at UiT ikke bør medvirke i prosjektet.dersom det gjenstår mindre enn ett år fulltidsarbeid med doktorgradsprosjektet ved søknadstidspunktet, skal søknaden avvises. Dette gjelder ikke for søkere som har startet prosjektet som kandidat ved en forskerlinje.
+(5) Det er ikke grunnlag for opptak dersom:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlinga eller det kunstneriske doktorgradsarbeidet.
+- de immaterialrettslige avtalene som er inngått er så urimelig at UiT ikke bør medvirke i prosjektet.
+- dersom det gjenstår mindre enn ett år fulltidsarbeid med doktorgradsprosjektet ved søknadstidspunktet, skal søknaden avvises. Dette gjelder ikke for søkere som har startet prosjektet som kandidat ved en forskerlinje.
 
 ### § 11. Doktorgradsavtalen
 
@@ -246,7 +285,11 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 (3) Det kunstneriske resultatet skal være et kunstnerisk arbeid på høyt nivå når det gjelder originalitet, uttrykk, koherens og formidling. Det kunstneriske resultatet skal presenteres offentlig, jf. [§ 20](forskrift/2022-12-01-2087/§20) (2).
 
-(4) Den kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder:prosess mht. kunstneriske val og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.plassering og beskrivelse av eget kunstnerisk ståsted og arbeid innenfor det aktuelle fagfeltet, nasjonalt og internasjonalt.bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
+(4) Den kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder:
+
+- prosess mht. kunstneriske val og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
+- plassering og beskrivelse av eget kunstnerisk ståsted og arbeid innenfor det aktuelle fagfeltet, nasjonalt og internasjonalt.
+- bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
 
 (5) Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon
 
@@ -320,7 +363,13 @@ Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen ved viten
 
 ### § 22-2. Tvungen avslutning ved brudd på plikter etter doktorgradsavtalen
 
-(1) Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen når en kandidat i vesentlig grad ikke oppfyller sine plikter etter doktorgradsavtalen, jf. [uhl. § 4-13](lov/2005-04-01-15/§4-13) (2). Eksempler på slike avtalebrudd er:Kandidaten har brutt informasjons-, oppfølgings- eller rapporteringsplikten gjentatte ganger eller på vesentlige punkt.Framdriften av doktorgradsprosjektet er så mye forsinket at det skaper rimelig tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid, og forsinkelsen skyldes forhold som kandidaten selv rår over.Gjennomføringen av opplæringsdelen er vesentlig forsinket, av grunner kandidaten selv rår over.Kandidaten har handlet på en måte som er i strid med den tilliten som må være mellom universitet og kandidat under gjennomføringen, medregnet ulovlige forhold knyttet til gjennomføringen av utdanningen som eksempelvis fusk på enkeltemne i opplæringsdelen.Finansieringa som er grunnlag for opptak til doktorgradsutdanningen stanses, eksempelvis ved at kandidaten blir sagt opp fra stilling som stipendiat.
+(1) Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen når en kandidat i vesentlig grad ikke oppfyller sine plikter etter doktorgradsavtalen, jf. [uhl. § 4-13](lov/2005-04-01-15/§4-13) (2). Eksempler på slike avtalebrudd er:
+
+- Kandidaten har brutt informasjons-, oppfølgings- eller rapporteringsplikten gjentatte ganger eller på vesentlige punkt.
+- Framdriften av doktorgradsprosjektet er så mye forsinket at det skaper rimelig tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid, og forsinkelsen skyldes forhold som kandidaten selv rår over.
+- Gjennomføringen av opplæringsdelen er vesentlig forsinket, av grunner kandidaten selv rår over.
+- Kandidaten har handlet på en måte som er i strid med den tilliten som må være mellom universitet og kandidat under gjennomføringen, medregnet ulovlige forhold knyttet til gjennomføringen av utdanningen som eksempelvis fusk på enkeltemne i opplæringsdelen.
+- Finansieringa som er grunnlag for opptak til doktorgradsutdanningen stanses, eksempelvis ved at kandidaten blir sagt opp fra stilling som stipendiat.
 
 (2) Klage over vedtak om tvungen avslutning etter denne bestemmelsen behandles av Nemnda for studentsaker, jf. [uhl. § 4-13](lov/2005-04-01-15/§4-13) (2).
 
@@ -344,7 +393,16 @@ Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen ved viten
 
 (2) Fakultetet selv oppnevner en sakkyndig komité (bedømmelseskomité) på minst tre medlemmer til å vurdere doktorgradsarbeidet og disputasen, og oppnevner en leder mellom medlemmene. Sammensetningen av komiteen bør normalt være klarlagt når doktorgradskandidaten leverer avhandlinga.
 
-(3) Komiteen skal settes sammen slik atbegge kjønn er representerteminst ett av medlemmene er tilsett ved UiTminst ett av medlemmene ikke er tilknyttet UiTminst ett av medlemmene ikke har hovedstilling ved en norsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseminst ein medlem har kompetanse over førstestillingsnivåflertallet i komiteen er eksterne medlemmerflertallet i komiteen er tilsette ved ein doktorgradsgivende institusjon.
+(3) Komiteen skal settes sammen slik at
+
+- begge kjønn er representerte
+- minst ett av medlemmene er tilsett ved UiT
+- minst ett av medlemmene ikke er tilknyttet UiT
+- minst ett av medlemmene ikke har hovedstilling ved en norsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- minst ein medlem har kompetanse over førstestillingsnivå
+- flertallet i komiteen er eksterne medlemmer
+- flertallet i komiteen er tilsette ved ein doktorgradsgivende institusjon.
 
 (4) Sammensetningen av komiteen skal være begrunnet og eventuelle avvik fra kriteriene skal begrunnes særskilt. Begrunnelsen skal vise hvordan komiteen samlet dekker fagfeltet i doktorgradsarbeidet.
 
@@ -382,7 +440,11 @@ Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen ved viten
 
 (3) Bedømmelseskomiteen kan anbefale at fakultetet gir kandidaten anledning til en mindre omarbeiding før endelig innstilling blir vedtatt. Komiteen skal i slike tilfeller gi en konkret, skriftlig oversiktlig over hva kandidaten må omarbeide.
 
-(4) Når bedømmelseskomiteen anbefaler at kandidaten gis anledning til mindre omarbeiding skal fakultetetvurdere om det er grunnlag for å ta forslaget til følgebe komiteen gi endelig innstilling uten at doktorgradsarbeidet blir omarbeidet ellertreffe endelig vedtak på grunnlag av innstillingen og eventuelle merknader fra kandidaten.
+(4) Når bedømmelseskomiteen anbefaler at kandidaten gis anledning til mindre omarbeiding skal fakultetet
+
+- vurdere om det er grunnlag for å ta forslaget til følge
+- be komiteen gi endelig innstilling uten at doktorgradsarbeidet blir omarbeidet eller
+- treffe endelig vedtak på grunnlag av innstillingen og eventuelle merknader fra kandidaten.
 
 (5) Dersom fakultetet tar anbefalingen om mindre omarbeiding til følge, skal kandidaten få en frist for omarbeiding på inntil tre måneder. Det skal fastsettes en ny frist for bedømmelseskomiteen sin endelige innstilling. Kandidaten kan ikke klage over et vedtak som gir anledning til mindre omarbeiding.
 

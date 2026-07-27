@@ -22,4 +22,8 @@ eu_basis: []
 
 # Overføring av forskriftskompetanse etter lov 21. desember 2007 nr. 119 om toll og vareførsel § 6-4 tredje ledd fra Finansdepartementet til Landbruks- og matdepartementet
 
-Forskriftskompetansen etter [lov 21. desember 2007 nr. 119](lov/2007-12-21-119) om toll og vareførsel [§ 6-4](lov/2007-12-21-119/§6-4) tredje ledd overføres fra Finansdepartementet til Landbruks- og matdepartementet for så vidt gjelder regler knyttet til:at det på forhånd må søkes om tillatelse til innenlands bearbeidingat det kan stilles krav til virksomhetens produksjonsforhold, lagerhold og organiseringhva som skal regnes som vare av samme kvalitet og samme slag.
+Forskriftskompetansen etter [lov 21. desember 2007 nr. 119](lov/2007-12-21-119) om toll og vareførsel [§ 6-4](lov/2007-12-21-119/§6-4) tredje ledd overføres fra Finansdepartementet til Landbruks- og matdepartementet for så vidt gjelder regler knyttet til:
+
+- at det på forhånd må søkes om tillatelse til innenlands bearbeiding
+- at det kan stilles krav til virksomhetens produksjonsforhold, lagerhold og organisering
+- hva som skal regnes som vare av samme kvalitet og samme slag.

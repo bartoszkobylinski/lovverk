@@ -24,7 +24,10 @@ eu_basis: []
 
 ## Innledning
 
-Tilskuddsordning for kollektiv kompetanseutvikling i barnehage og grunnskole er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:[Forskrift om tilskudd til kollektiv kompetanseutvikling i videregående opplæring](forskrift/2026-01-12-25)[Forskrift om tilskudd til videreutdanning i barnehage, grunnskole og videregående opplæring](forskrift/2026-01-12-24).
+Tilskuddsordning for kollektiv kompetanseutvikling i barnehage og grunnskole er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:
+
+- [Forskrift om tilskudd til kollektiv kompetanseutvikling i videregående opplæring](forskrift/2026-01-12-25)
+- [Forskrift om tilskudd til videreutdanning i barnehage, grunnskole og videregående opplæring](forskrift/2026-01-12-24).
 
 Kommuner, fylkeskommuner og private eiere har ansvar for at virksomhetene drives i samsvar med regelverket. Dette omfatter også et ansvar for å legge til rette for kompetanseutvikling for sine ansatte, jf. [opplæringslovens §§ 17-8](lov/2023-06-09-30/§17-8) og [22-2](lov/2023-06-09-30/§22-2), [kapittel 2](forskrift/2017-04-24-487/kap2) i rammeplan for barnehagen og [kapittel 6](forskrift/2021-05-31-1825/kap6) i rammeplan for SFO. Medbestemmelse skal ivaretas i tråd med gjeldende avtaler mellom partene i arbeidslivet.
 
@@ -50,7 +53,14 @@ Målgruppen for kompetansetiltakene i tilskuddsordningen er barnehagelærere, l�
 
 ### § 3. Tilskuddsmottakere
 
-De som kan motta tilskudd erkommunerprivate barnehager godkjent etter [barnehageloven § 14](lov/2005-06-17-64/§14)private skoler godkjent etter [privatskoleloven § 2-1](lov/2003-07-04-84/§2-1)universiteter og høyskolerfagskolerandre relevante kompetansemiljøer.
+De som kan motta tilskudd er
+
+1. kommuner
+2. private barnehager godkjent etter [barnehageloven § 14](lov/2005-06-17-64/§14)
+3. private skoler godkjent etter [privatskoleloven § 2-1](lov/2003-07-04-84/§2-1)
+4. universiteter og høyskoler
+5. fagskoler
+6. andre relevante kompetansemiljøer.
 
 Statsforvalter fordeler tilskuddet til tilskuddsmottaker i tråd med [§§ 4](forskrift/2026-01-12-23/§4) og [9](forskrift/2026-01-12-23/§9), jf. [§ 7](forskrift/2026-01-12-23/§7).
 
@@ -72,7 +82,13 @@ Tiltak kan være tverrfaglige og rettet mot en bredere målgruppe i laget rundt 
 
 Tilskuddsmottaker skal gjøre en vurdering av måloppnåelse av tiltakene.
 
-Kjennetegn på måloppnåelse er:Tilskuddsmottaker har gjennomført kollektive kompetanseutviklingstiltak i barnehager og skoler i tråd med egne planer og behovsmeldinger.Tiltakene har bidratt til planlagt praksisendring.Tiltakene har styrket det profesjonelle læringsfellesskapet.Tiltakene har bidratt til å styrke og praksisrette lærerutdanningen.Tiltakene har bidratt til å forebygge utenforskap, fremme inkludering og gi et tilpasset pedagogisk tilbud og opplæring.
+Kjennetegn på måloppnåelse er:
+
+1. Tilskuddsmottaker har gjennomført kollektive kompetanseutviklingstiltak i barnehager og skoler i tråd med egne planer og behovsmeldinger.
+2. Tiltakene har bidratt til planlagt praksisendring.
+3. Tiltakene har styrket det profesjonelle læringsfellesskapet.
+4. Tiltakene har bidratt til å styrke og praksisrette lærerutdanningen.
+5. Tiltakene har bidratt til å forebygge utenforskap, fremme inkludering og gi et tilpasset pedagogisk tilbud og opplæring.
 
 ## Kapittel 2. Forvaltning av tilskuddsordningen
 
@@ -84,7 +100,16 @@ Utdanningsdirektoratet har delegert forvaltningen av tilskuddsordningen til stat
 
 ### § 7. Statsforvalterens ansvar og oppgaver
 
-I forvaltningen av tilskuddsordningen har statsforvalteren følgende oppgaver:etablere ett eller flere samarbeidsforumer i hvert fylkekunngjøre midlene og formidle overordnede nasjonale mål, føringer og rammer for ordningene, inkludert å sørge for at kriteriene for tildeling er kjent for aktuelle tilskuddsmottakerelegge til rette for partnerskap og samarbeid mellom kommunen og private eiere og universiteter, høyskoler, fagskoler og andre relevante kompetansemiljøerfølge opp arbeidet i samarbeidsforum i sitt embetese til at samarbeidsforumets prioriteringer er i tråd med kriteriene for tildeling i [§ 4](forskrift/2026-01-12-23/§4)fatte vedtak og tildele midler i tråd med kriteriene i forskriftens [§ 4](forskrift/2026-01-12-23/§4), samarbeidsforumets langsiktige plan i [§ 9](forskrift/2026-01-12-23/§9) og årlige prioriteringerlegge til rette for åpenhet og oversikt over tiltak, planer og rapporteringoppsummere rapporter fra tilskuddsmottakerne.
+I forvaltningen av tilskuddsordningen har statsforvalteren følgende oppgaver:
+
+1. etablere ett eller flere samarbeidsforumer i hvert fylke
+2. kunngjøre midlene og formidle overordnede nasjonale mål, føringer og rammer for ordningene, inkludert å sørge for at kriteriene for tildeling er kjent for aktuelle tilskuddsmottakere
+3. legge til rette for partnerskap og samarbeid mellom kommunen og private eiere og universiteter, høyskoler, fagskoler og andre relevante kompetansemiljøer
+4. følge opp arbeidet i samarbeidsforum i sitt embete
+5. se til at samarbeidsforumets prioriteringer er i tråd med kriteriene for tildeling i [§ 4](forskrift/2026-01-12-23/§4)
+6. fatte vedtak og tildele midler i tråd med kriteriene i forskriftens [§ 4](forskrift/2026-01-12-23/§4), samarbeidsforumets langsiktige plan i [§ 9](forskrift/2026-01-12-23/§9) og årlige prioriteringer
+7. legge til rette for åpenhet og oversikt over tiltak, planer og rapportering
+8. oppsummere rapporter fra tilskuddsmottakerne.
 
 ### § 8. Samarbeidsforums sammensetning og oppgaver
 
@@ -100,7 +125,12 @@ For å sikre langsiktighet og forutsigbarhet kan samarbeidsforum bli enige om en
 
 ### § 9. Føringer for samarbeidsforumets langsiktige plan
 
-Samarbeidsforumets langsiktige plan skal legge føringer forfordeling av midler mellom barnehage og skole med utgangspunkt i lokale behovsvurderinger og målene for tilskuddsordningenfordeling av midler mellom eier og universitet, høyskole, fagskole og andre relevante kompetansemiljøerprioriterte tematiske områder, herunder fordeling av midler til spesialpedagogikk og inkluderende praksiskriterier for tildeling dersom behovsmeldingene overstiger budsjettrammen.
+Samarbeidsforumets langsiktige plan skal legge føringer for
+
+1. fordeling av midler mellom barnehage og skole med utgangspunkt i lokale behovsvurderinger og målene for tilskuddsordningen
+2. fordeling av midler mellom eier og universitet, høyskole, fagskole og andre relevante kompetansemiljøer
+3. prioriterte tematiske områder, herunder fordeling av midler til spesialpedagogikk og inkluderende praksis
+4. kriterier for tildeling dersom behovsmeldingene overstiger budsjettrammen.
 
 ## Kapittel 3. Saksgang
 
@@ -128,7 +158,14 @@ Statsforvalteren mottar behovsmeldinger og lager forslag til fordeling av tilsku
 
 Statsforvalteren fatter vedtak om tildeling av tilskudd.
 
-Statsforvalteren utbetaler midlene til de aktuelle tilskuddsmottakerne gjennom et tilskuddsbrev, som skal inneholde:tilskuddsmottakers navn, organisasjonsnummer, kontonummer og tilskuddsbeløpformål og hvilke tiltak tilskuddet skal benyttet tiltidsrammekrav til rapporteringjuridiske forpliktelsermulige reaksjonsformer dersom mottaker ikke opptrer i samsvar med forutsetningene for tilskuddet.
+Statsforvalteren utbetaler midlene til de aktuelle tilskuddsmottakerne gjennom et tilskuddsbrev, som skal inneholde:
+
+1. tilskuddsmottakers navn, organisasjonsnummer, kontonummer og tilskuddsbeløp
+2. formål og hvilke tiltak tilskuddet skal benyttet til
+3. tidsramme
+4. krav til rapportering
+5. juridiske forpliktelser
+6. mulige reaksjonsformer dersom mottaker ikke opptrer i samsvar med forutsetningene for tilskuddet.
 
 ### § 14. Frister
 

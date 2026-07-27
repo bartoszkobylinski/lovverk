@@ -15,7 +15,7 @@ xml_hash: "52773fa07b4e8e4092d0b9b3244de67bb707168d7e495d46cd669f516569c38d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,31 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 ### § 2-1. Registreringsplikt i Foretaksregisteret
 
-(1) Følgende foretak skal registreres i Foretaksregisteret:aksjeselskaper, jf. [aksjeloven](lov/1997-06-13-44)allmennaksjeselskaper, jf. [allmennaksjeloven](lov/1997-06-13-45)europeiske selskaper, jf. [SE-loven](lov/2005-04-01-14)ansvarlige selskaper, jf. [selskapsloven](lov/1985-06-21-83)kommandittselskaper, jf. [selskapsloven](lov/1985-06-21-83)partrederier, jf. [sjøloven kapittel 5](lov/1994-06-24-39/kap5)europeiske økonomiske foretaksgrupper, jf. [EØFG-loven](lov/1995-12-22-85)samvirkeforetak, jf. [samvirkelova](lov/2007-06-29-81)boligbyggelag, jf. [bustadbyggjelagslova](lov/2003-06-06-38)borettslag, jf. [burettslagslova](lov/2003-06-06-39)europeiske samvirkeforetak, jf. [SCE-loven](lov/2006-06-30-50)stiftelser som er registrert som næringsdrivende stiftelse i Stiftelsesregisteret, jf. [stiftelsesloven](lov/2001-06-15-59)sparebanker som ikke er organisert som allmennaksjeselskap, jf. [finansforetaksloven](lov/2015-04-10-17)gjensidige forsikringsforetak som ikke er organisert som allmennaksjeselskap, jf. [finansforetaksloven](lov/2015-04-10-17)pensjonskasser, jf. [finansforetaksloven](lov/2015-04-10-17)foreninger som driver næringsvirksomhetstatsforetak, jf. [statsføretakslova](lov/2025-04-10-9)interkommunale selskaper, jf. [IKS-loven](lov/1999-01-29-6)kommunale og fylkeskommunale foretak, jf. [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)regionale helseforetak og helseforetak, jf. [helseforetaksloven](lov/2001-06-15-93)studentsamskipnader, jf. [studentsamskipnadsloven](lov/2007-12-14-116)konsortier for europeisk infrastruktur, jf. [ERIC-lova](lov/2015-12-11-99)andre juridiske personer som driver næringsvirksomhet
+(1) Følgende foretak skal registreres i Foretaksregisteret:
+
+1. aksjeselskaper, jf. [aksjeloven](lov/1997-06-13-44)
+2. allmennaksjeselskaper, jf. [allmennaksjeloven](lov/1997-06-13-45)
+3. europeiske selskaper, jf. [SE-loven](lov/2005-04-01-14)
+4. ansvarlige selskaper, jf. [selskapsloven](lov/1985-06-21-83)
+5. kommandittselskaper, jf. [selskapsloven](lov/1985-06-21-83)
+6. partrederier, jf. [sjøloven kapittel 5](lov/1994-06-24-39/kap5)
+7. europeiske økonomiske foretaksgrupper, jf. [EØFG-loven](lov/1995-12-22-85)
+8. samvirkeforetak, jf. [samvirkelova](lov/2007-06-29-81)
+9. boligbyggelag, jf. [bustadbyggjelagslova](lov/2003-06-06-38)
+10. borettslag, jf. [burettslagslova](lov/2003-06-06-39)
+11. europeiske samvirkeforetak, jf. [SCE-loven](lov/2006-06-30-50)
+12. stiftelser som er registrert som næringsdrivende stiftelse i Stiftelsesregisteret, jf. [stiftelsesloven](lov/2001-06-15-59)
+13. sparebanker som ikke er organisert som allmennaksjeselskap, jf. [finansforetaksloven](lov/2015-04-10-17)
+14. gjensidige forsikringsforetak som ikke er organisert som allmennaksjeselskap, jf. [finansforetaksloven](lov/2015-04-10-17)
+15. pensjonskasser, jf. [finansforetaksloven](lov/2015-04-10-17)
+16. foreninger som driver næringsvirksomhet
+17. statsforetak, jf. [statsføretakslova](lov/2025-04-10-9)
+18. interkommunale selskaper, jf. [IKS-loven](lov/1999-01-29-6)
+19. kommunale og fylkeskommunale foretak, jf. [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)
+20. regionale helseforetak og helseforetak, jf. [helseforetaksloven](lov/2001-06-15-93)
+21. studentsamskipnader, jf. [studentsamskipnadsloven](lov/2007-12-14-116)
+22. konsortier for europeisk infrastruktur, jf. [ERIC-lova](lov/2015-12-11-99)
+23. andre juridiske personer som driver næringsvirksomhet
 
 (2) Utenlandske foretak som driver næringsvirksomhet her i landet eller på norsk kontinentalsokkel, skal registreres i Foretaksregisteret.
 
@@ -76,7 +100,10 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 (2) Foreninger som er registrert i Foretaksregisteret, men som ikke lenger driver næringsvirksomhet, har rett til å forbli registrert i registeret. Det samme gjelder andre juridiske personer som nevnt i [§ 2-1 første ledd bokstav w](lov/2025-06-20-106/§2-1/ledd/1/bokstav/w).
 
-(3) Departementet kan gi forskrift med nærmere regler omrett til å forbli registrert i Foretaksregisteret etter andre leddsletting fra Foretaksregisteret av foreninger og andre juridiske personer som ikke lenger driver næringsvirksomhet, og om fremgangsmåten ved sletting.
+(3) Departementet kan gi forskrift med nærmere regler om
+
+1. rett til å forbli registrert i Foretaksregisteret etter andre ledd
+2. sletting fra Foretaksregisteret av foreninger og andre juridiske personer som ikke lenger driver næringsvirksomhet, og om fremgangsmåten ved sletting.
 
 ### § 2-3. Forhåndsregistrering i Foretaksregisteret
 
@@ -88,13 +115,27 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 ### § 3-1. Opplysninger om foretaket
 
-(1) Følgende opplysninger om foretaket skal registreres:foretaksnavn eller navnorganisasjonsformforretningsadresseformål eller virksomhet slik det fremkommer av vedtekter eller selskapsavtale, eller for enkeltpersonforetak den næringsvirksomhet som skal drivesansvarskapital dersom det i lov eller i medhold av lov er stilt krav om at foretaket skal ha ansvarskapital
+(1) Følgende opplysninger om foretaket skal registreres:
 
-(2) Følgende opplysninger om foretaket skal registreres hvis de finnes:vedtekterstiftelsesdatostiftelsesdokument
+1. foretaksnavn eller navn
+2. organisasjonsform
+3. forretningsadresse
+4. formål eller virksomhet slik det fremkommer av vedtekter eller selskapsavtale, eller for enkeltpersonforetak den næringsvirksomhet som skal drives
+5. ansvarskapital dersom det i lov eller i medhold av lov er stilt krav om at foretaket skal ha ansvarskapital
+
+(2) Følgende opplysninger om foretaket skal registreres hvis de finnes:
+
+1. vedtekter
+2. stiftelsesdato
+3. stiftelsesdokument
 
 ### § 3-2. Opplysninger om foretakets ledelse
 
-(1) Følgende opplysninger om foretakets ledelse skal registreres hvis de finnes:styremedlemmer og hvem som er styrets ledervaramedlemmer til styretdaglig leder
+(1) Følgende opplysninger om foretakets ledelse skal registreres hvis de finnes:
+
+1. styremedlemmer og hvem som er styrets leder
+2. varamedlemmer til styret
+3. daglig leder
 
 (2) Det skal registreres hvem som er nestleder i styret, dersom det i lov eller i medhold av lov er stilt krav om at foretaket skal ha nestleder i styret.
 
@@ -140,11 +181,26 @@ Dersom det oppnevnes bostyrer for foretaket etter [konkursloven § 77](lov/1984-
 
 ### § 3-8. Opplysninger om utenlandske foretak
 
-(1) For utenlandsk foretak gjelder ikke [§ 3-1](lov/2025-06-20-106/§3-1) til [§ 3-7](lov/2025-06-20-106/§3-7) og [§ 3-9](lov/2025-06-20-106/§3-9). Det skal registreres følgende opplysninger om det utenlandske foretaket:foretaksnavn, organisasjonsform og forretningsadresseinnehaver, fullt ansvarlige deltakere eller styre med angivelse av navn, fødselsdato og adresse og de signaturbestemmelser som gjelderaksjekapital dersom foretaket er et aksjeselskap, og hvor mye av aksjekapitalen som er innbetalt, eventuelt bare den tegnede kapitalen dersom aksjekapitalen ikke er fulltegnetstiftelsesdokument og vedtekterhvilken stats lovgivning foretaket er underlagtom foretaket er registrert i et offentlig foretaksregister i sin hjemstat, og i så fall dette registerets navn og adresse samt foretakets registreringsnummerom foretaket utelukkende driver virksomhet i Norgeoppløsning av foretaket og utnevnelse av selskapets avviklingsstyre eller bostyrer og de signaturbestemmelser som gjelder for disse, samt likvidasjonens avslutningåpning av konkurs, akkord eller tilsvarende prosedyre i foretaket samt likvidasjonens avslutning
+(1) For utenlandsk foretak gjelder ikke [§ 3-1](lov/2025-06-20-106/§3-1) til [§ 3-7](lov/2025-06-20-106/§3-7) og [§ 3-9](lov/2025-06-20-106/§3-9). Det skal registreres følgende opplysninger om det utenlandske foretaket:
+
+1. foretaksnavn, organisasjonsform og forretningsadresse
+2. innehaver, fullt ansvarlige deltakere eller styre med angivelse av navn, fødselsdato og adresse og de signaturbestemmelser som gjelder
+3. aksjekapital dersom foretaket er et aksjeselskap, og hvor mye av aksjekapitalen som er innbetalt, eventuelt bare den tegnede kapitalen dersom aksjekapitalen ikke er fulltegnet
+4. stiftelsesdokument og vedtekter
+5. hvilken stats lovgivning foretaket er underlagt
+6. om foretaket er registrert i et offentlig foretaksregister i sin hjemstat, og i så fall dette registerets navn og adresse samt foretakets registreringsnummer
+7. om foretaket utelukkende driver virksomhet i Norge
+8. oppløsning av foretaket og utnevnelse av selskapets avviklingsstyre eller bostyrer og de signaturbestemmelser som gjelder for disse, samt likvidasjonens avslutning
+9. åpning av konkurs, akkord eller tilsvarende prosedyre i foretaket samt likvidasjonens avslutning
 
 (2) Opplysninger som nevnt i første ledd andre punktum bokstav b, c og d trenger ikke å registreres dersom de fremgår av et utenlandsk register som nevnt i første ledd bokstav f og som er godkjent av registerføreren, eller som omfattes av direktiv [(EU) 2017/1132](eu/32017l1132).
 
-(3) Følgende opplysninger skal registreres om den norske virksomheten:foretaksnavn og adresse for eventuelt forretnings- eller driftssted her i landet eller på norsk kontinentalsokkelhva slags næringsvirksomhet som skal drivesstyret og daglig leder dersom det er valgt eller ansatt slike særskilt for virksomheten, og opplysninger som nevnt i [§ 3-5 første punktum](lov/2025-06-20-106/§3-5/setning/1) om disseom styret og daglig leder som eventuelt er valgt eller ansatt særskilt for virksomheten, har myndighet til å forplikte foretaket ved signatur eller prokura, og i så fall om signaturrett eller prokura bare kan benyttes av flere personer i fellesskap
+(3) Følgende opplysninger skal registreres om den norske virksomheten:
+
+1. foretaksnavn og adresse for eventuelt forretnings- eller driftssted her i landet eller på norsk kontinentalsokkel
+2. hva slags næringsvirksomhet som skal drives
+3. styret og daglig leder dersom det er valgt eller ansatt slike særskilt for virksomheten, og opplysninger som nevnt i [§ 3-5 første punktum](lov/2025-06-20-106/§3-5/setning/1) om disse
+4. om styret og daglig leder som eventuelt er valgt eller ansatt særskilt for virksomheten, har myndighet til å forplikte foretaket ved signatur eller prokura, og i så fall om signaturrett eller prokura bare kan benyttes av flere personer i fellesskap
 
 ### § 3-9. Opplysninger om prospekter mv.
 
@@ -170,7 +226,12 @@ Dersom det oppnevnes bostyrer for foretaket etter [konkursloven § 77](lov/1984-
 
 ### § 4-3. Hvem som har meldeplikt
 
-(1) Den som har plikt til å sende melding etter [§ 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2), erfor enkeltpersonforetak: innehavereni foretak som nevnt i [§ 3-3 første ledd](lov/2025-06-20-106/§3-3/ledd/1) og kommandittselskap: hver enkelt ansvarlig deltaker eller hvert enkelt styremedlem hvis foretaket er organisert med styrei europeisk økonomisk foretaksgruppe: hver enkelt ansvarlig deltaker og forretningsføreri alle andre foretak: hvert enkelt styremedlem.
+(1) Den som har plikt til å sende melding etter [§ 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2), er
+
+1. for enkeltpersonforetak: innehaveren
+2. i foretak som nevnt i [§ 3-3 første ledd](lov/2025-06-20-106/§3-3/ledd/1) og kommandittselskap: hver enkelt ansvarlig deltaker eller hvert enkelt styremedlem hvis foretaket er organisert med styre
+3. i europeisk økonomisk foretaksgruppe: hver enkelt ansvarlig deltaker og forretningsfører
+4. i alle andre foretak: hvert enkelt styremedlem.
 
 (2) Ved overdragelse og andre endringer i et registrert forhold enn opphør av virksomheten har enhver som etter endringen er innehaver, ansvarlig deltaker, styremedlem eller daglig leder, meldeplikt.
 
@@ -180,13 +241,31 @@ Dersom det oppnevnes bostyrer for foretaket etter [konkursloven § 77](lov/1984-
 
 ### § 4-4. Dokumentasjon av meldte opplysninger
 
-(1) Følgende dokumentasjon skal inngå i meldingen dersom den er relevant for opplysningen som er meldt:stiftelsesdokument, jf. [§ 3-1 andre ledd bokstav c](lov/2025-06-20-106/§3-1/ledd/2/bokstav/c). Dersom stiftelsesdokument ikke finnes, skal selskapsavtale eller annen dokumentasjon av at foretaket er lovlig stiftet, inngå i meldingen i stedet. Dersom det ikke gjelder formkrav for stiftelse av foretaket, skal annen dokumentasjon som viser at foretaket eksisterer, inngå i meldingen.vedtekter, jf. [§ 3-1 andre ledd bokstav a](lov/2025-06-20-106/§3-1/ledd/2/bokstav/a)bekreftelse fra styremedlem, varamedlem, daglig leder, revisor og regnskapsfører om at denne har påtatt seg rollendokumentasjon av beslutning som danner grunnlaget for meldt opplysning, at beslutningen er truffet av kompetent organ, og at det fremkommer av beslutningen at eventuelle lovbestemte minstekrav til beslutningens innhold er oppfylterklæring fra tredjepart om innbetaling av ansvarskapital der det i lov eller i medhold av lov er stilt krav om slik erklæringerklæring fra revisor om at de opplysninger som er gitt om innbetaling av selskapskapital i ansvarlige selskaper og kommandittselskaper og om innbetaling av innskuddskapital i interkommunale selskaper, regionale helseforetak og helseforetak, er riktigedokumentasjon av at det er utarbeidet redegjørelse eller åpningsbalanse i forbindelse med innbetaling av ansvarskapital der det i lov eller i medhold av lov er stilt krav om slik redegjørelse eller åpningsbalanseerklæring fra revisor om redegjørelse eller åpningsbalanse som nevnt i bokstav g der det i lov eller i medhold av lov er stilt krav om slik erklæringbekreftelse fra ansvarlige deltakere om at meldingen skjer med deres samtykke, dersom meldingen gjelder nyregistrering eller endringer som berører deltakerforholdbekreftelse fra ansvarlig deltaker som er trådt ut av foretaket, dersom meldingen gjelder uttredenerklæring fra revisor når det meldes kapitalnedsettelse og nedsettingsbeløpet skal brukes til dekning av tap som ikke kan dekkes på annen måte, med unntak av når det meldes kapitalnedsettelse etter [aksjeloven § 12-1 første ledd andre punktum](lov/1997-06-13-44/§12-1/ledd/1/setning/2)nr. 1annen dokumentasjon som etter lov eller i medhold av lov skal sendes til Foretaksregisteret
+(1) Følgende dokumentasjon skal inngå i meldingen dersom den er relevant for opplysningen som er meldt:
+
+1. stiftelsesdokument, jf. [§ 3-1 andre ledd bokstav c](lov/2025-06-20-106/§3-1/ledd/2/bokstav/c). Dersom stiftelsesdokument ikke finnes, skal selskapsavtale eller annen dokumentasjon av at foretaket er lovlig stiftet, inngå i meldingen i stedet. Dersom det ikke gjelder formkrav for stiftelse av foretaket, skal annen dokumentasjon som viser at foretaket eksisterer, inngå i meldingen.
+2. vedtekter, jf. [§ 3-1 andre ledd bokstav a](lov/2025-06-20-106/§3-1/ledd/2/bokstav/a)
+3. bekreftelse fra styremedlem, varamedlem, daglig leder, revisor og regnskapsfører om at denne har påtatt seg rollen
+4. dokumentasjon av beslutning som danner grunnlaget for meldt opplysning, at beslutningen er truffet av kompetent organ, og at det fremkommer av beslutningen at eventuelle lovbestemte minstekrav til beslutningens innhold er oppfylt
+5. erklæring fra tredjepart om innbetaling av ansvarskapital der det i lov eller i medhold av lov er stilt krav om slik erklæring
+6. erklæring fra revisor om at de opplysninger som er gitt om innbetaling av selskapskapital i ansvarlige selskaper og kommandittselskaper og om innbetaling av innskuddskapital i interkommunale selskaper, regionale helseforetak og helseforetak, er riktige
+7. dokumentasjon av at det er utarbeidet redegjørelse eller åpningsbalanse i forbindelse med innbetaling av ansvarskapital der det i lov eller i medhold av lov er stilt krav om slik redegjørelse eller åpningsbalanse
+8. erklæring fra revisor om redegjørelse eller åpningsbalanse som nevnt i bokstav g der det i lov eller i medhold av lov er stilt krav om slik erklæring
+9. bekreftelse fra ansvarlige deltakere om at meldingen skjer med deres samtykke, dersom meldingen gjelder nyregistrering eller endringer som berører deltakerforhold
+10. bekreftelse fra ansvarlig deltaker som er trådt ut av foretaket, dersom meldingen gjelder uttreden
+11. erklæring fra revisor når det meldes kapitalnedsettelse og nedsettingsbeløpet skal brukes til dekning av tap som ikke kan dekkes på annen måte, med unntak av når det meldes kapitalnedsettelse etter [aksjeloven § 12-1 første ledd andre punktum](lov/1997-06-13-44/§12-1/ledd/1/setning/2)nr. 1
+12. annen dokumentasjon som etter lov eller i medhold av lov skal sendes til Foretaksregisteret
 
 (2) Bekreftelser og erklæringer etter første ledd skal være signert av den som skal avgi bekreftelsen eller erklæringen. Kravet til bekreftelse etter første ledd bokstav c, i og j kan oppfylles ved at den som skal avgi bekreftelsen, signerer meldingen.
 
 (3) Innsenderen kan sladde opplysninger i dokumentasjon som nevnt i første ledd hvis de ikke er relevante for at en opplysning som er meldt, kan registreres i Foretaksregisteret.
 
-(4) Departementet kan gi forskrift med nærmere regler om dokumentasjon etter denne paragrafen, herunder regler omhvilken dokumentasjon som skal inngå i meldingen etter første ledd bokstav a andre og tredje punktum og bokstav d og g, herunder at kravet til dokumentasjon kan oppfylles ved at det avgis bekreftelse eller erklæringkrav til dataformat og filformat for dokumentasjonenkrav til innhold i bekreftelser og erklæringerkrav til signatur på bekreftelser og erklæringer.
+(4) Departementet kan gi forskrift med nærmere regler om dokumentasjon etter denne paragrafen, herunder regler om
+
+1. hvilken dokumentasjon som skal inngå i meldingen etter første ledd bokstav a andre og tredje punktum og bokstav d og g, herunder at kravet til dokumentasjon kan oppfylles ved at det avgis bekreftelse eller erklæring
+2. krav til dataformat og filformat for dokumentasjonen
+3. krav til innhold i bekreftelser og erklæringer
+4. krav til signatur på bekreftelser og erklæringer.
 
 ### § 4-5. Pålegg om å sende inn melding
 
@@ -216,19 +295,36 @@ Det skal betales gebyr for nyregistrering i Foretaksregisteret. Det kan også kr
 
 ### § 4-9. Elektronisk stiftelse og registrering
 
-(1) Departementet kan gi forskrift om registerførerens plikt tilå utforme og offentliggjøre maler for stiftelse og registrering av foretakå offentliggjøre informasjon om regler om stiftelse og registrering av foretakå offentliggjøre informasjon om regler om registrering av filial av utenlandsk foretak.
+(1) Departementet kan gi forskrift om registerførerens plikt til
+
+1. å utforme og offentliggjøre maler for stiftelse og registrering av foretak
+2. å offentliggjøre informasjon om regler om stiftelse og registrering av foretak
+3. å offentliggjøre informasjon om regler om registrering av filial av utenlandsk foretak.
 
 (2) Departementet kan gi forskrift om elektroniske løsninger for stiftelse og registrering av foretak, herunder om tekniske krav til løsningene og registerførerens adgang til å godkjenne elektroniske løsninger. Det kan bare gis regler om elektronisk stiftelse etter første punktum der det etter lov åpnes for elektronisk stiftelse.
 
 ### § 4-10. Elektroniske identifikasjonsmidler
 
-Departementet kan gi forskrift ombruk av elektroniske identifikasjonsmidler i forbindelse med elektronisk stiftelse av foretak og ved elektronisk signering av meldinger til Foretaksregisteretbruk av elektroniske identifikasjonsmidler fra andre EØS-stater ved melding til Foretaksregisteret og om offentliggjøring av hvilke identifikasjonsmidler som kan benyttes.
+Departementet kan gi forskrift om
+
+1. bruk av elektroniske identifikasjonsmidler i forbindelse med elektronisk stiftelse av foretak og ved elektronisk signering av meldinger til Foretaksregisteret
+2. bruk av elektroniske identifikasjonsmidler fra andre EØS-stater ved melding til Foretaksregisteret og om offentliggjøring av hvilke identifikasjonsmidler som kan benyttes.
 
 ## Kapittel 5. Kontroll av meldinger og registrering
 
 ### § 5-1. Kontroll av meldinger til Foretaksregisteret
 
-(1) Når Foretaksregisteret mottar melding som nevnt i [kapittel 4](lov/2025-06-20-106/kap4), skal registerføreren kontrollereat meldingen og de meldte opplysningene oppfyller krav fastsatt i eller i medhold av denne loven, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og krav til hvem som skal signere meldingenat meldingen og de meldte opplysningene oppfyller krav fastsatt i annen lovgivning, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og at lovbestemte frister for å melde opplysningene til Foretaksregisteret er overholdtat foretaket oppfyller krav fastsatt i eller i medhold av lov til å bli registrert som den meldte organisasjonsformenat foretaksnavn som er meldt, er i samsvar med [foretaksnavneloven](lov/1985-06-21-79), jf. [foretaksnavneloven § 2-7](lov/1985-06-21-79/§2-7). For foretak som ikke omfattes av [foretaksnavneloven](lov/1985-06-21-79), skal registerføreren kontrollere at foretakets navn ikke strider mot lov.at fysisk eller juridisk person som er meldt å ha en rolle i foretaket, oppfyller krav fastsatt i eller i medhold av lov til å inneha rollenat fysisk person som er meldt å ha en rolle i foretaket, ikke er ilagt konkurskarantene, idømt rettighetstap eller idømt fratakelse av den rettslige handleevnen som hindrer vedkommende i å inneha rollenat beslutning som danner grunnlag for meldt opplysning, er truffet av kompetent organat det fremkommer av beslutning som danner grunnlag for meldt opplysning, at eventuelle lovbestemte minstekrav til beslutningens innhold er oppfyltat lovbestemte krav til kjønnssammensetning i styret er oppfylt.
+(1) Når Foretaksregisteret mottar melding som nevnt i [kapittel 4](lov/2025-06-20-106/kap4), skal registerføreren kontrollere
+
+1. at meldingen og de meldte opplysningene oppfyller krav fastsatt i eller i medhold av denne loven, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og krav til hvem som skal signere meldingen
+2. at meldingen og de meldte opplysningene oppfyller krav fastsatt i annen lovgivning, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og at lovbestemte frister for å melde opplysningene til Foretaksregisteret er overholdt
+3. at foretaket oppfyller krav fastsatt i eller i medhold av lov til å bli registrert som den meldte organisasjonsformen
+4. at foretaksnavn som er meldt, er i samsvar med [foretaksnavneloven](lov/1985-06-21-79), jf. [foretaksnavneloven § 2-7](lov/1985-06-21-79/§2-7). For foretak som ikke omfattes av [foretaksnavneloven](lov/1985-06-21-79), skal registerføreren kontrollere at foretakets navn ikke strider mot lov.
+5. at fysisk eller juridisk person som er meldt å ha en rolle i foretaket, oppfyller krav fastsatt i eller i medhold av lov til å inneha rollen
+6. at fysisk person som er meldt å ha en rolle i foretaket, ikke er ilagt konkurskarantene, idømt rettighetstap eller idømt fratakelse av den rettslige handleevnen som hindrer vedkommende i å inneha rollen
+7. at beslutning som danner grunnlag for meldt opplysning, er truffet av kompetent organ
+8. at det fremkommer av beslutning som danner grunnlag for meldt opplysning, at eventuelle lovbestemte minstekrav til beslutningens innhold er oppfylt
+9. at lovbestemte krav til kjønnssammensetning i styret er oppfylt.
 
 (2) Registerføreren kan kontrollere at det som er meldt, og grunnlaget for det er og har blitt til i samsvar med lov og bestemmelser gitt i medhold av lov. Hvis foretakets vedtekter er registrert i Foretaksregisteret, kan registerføreren kontrollere at det som er meldt, og grunnlaget for det stemmer med vedtektene og har blitt til i samsvar med disse.
 
@@ -264,9 +360,20 @@ Når meldte opplysninger er kontrollert og funnet i orden, skal registerføreren
 
 ### § 6-1. Kunngjøring
 
-(1) Ved nyregistrering av foretak skal registerføreren kunngjøre følgende opplysninger i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon:foretakets navn og organisasjonsnummerforetakets formål eller virksomhetsbeskrivelseforetakets forretningskommunenavnet på medlemmene av foretakets styre og daglige leder når dette er meldtnavnet på innehaver for enkeltpersonforetak og samtlige ansvarlige deltakere i foretak som nevnt i [§ 3-3 første ledd](lov/2025-06-20-106/§3-3/ledd/1) og i kommandittselskaperFørste punktum gjelder ikke ved nyregistrering av utenlandsk foretak.
+(1) Ved nyregistrering av foretak skal registerføreren kunngjøre følgende opplysninger i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon:
 
-(2) Registerføreren skal påse at følgende oversendes Kontoret for Den europeiske unions offisielle publikasjoner innen én måned etter kunngjøringen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon:opplysninger om et europeisk selskap som skal offentliggjøres i EØS-tillegget til Den europeiske unions tidende etter rådsforordning [(EF) nr. 2157/2001](eu/32001*2157) artikkel 14opplysninger om et europeisk samvirkeforetak som skal offentliggjøres i EØS-tillegget til Den europeiske unions tidende etter rådsforordning [(EF) nr. 1435/2003](eu/32003*1435) artikkel 13
+1. foretakets navn og organisasjonsnummer
+2. foretakets formål eller virksomhetsbeskrivelse
+3. foretakets forretningskommune
+4. navnet på medlemmene av foretakets styre og daglige leder når dette er meldt
+5. navnet på innehaver for enkeltpersonforetak og samtlige ansvarlige deltakere i foretak som nevnt i [§ 3-3 første ledd](lov/2025-06-20-106/§3-3/ledd/1) og i kommandittselskaper
+
+Første punktum gjelder ikke ved nyregistrering av utenlandsk foretak.
+
+(2) Registerføreren skal påse at følgende oversendes Kontoret for Den europeiske unions offisielle publikasjoner innen én måned etter kunngjøringen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon:
+
+1. opplysninger om et europeisk selskap som skal offentliggjøres i EØS-tillegget til Den europeiske unions tidende etter rådsforordning [(EF) nr. 2157/2001](eu/32001*2157) artikkel 14
+2. opplysninger om et europeisk samvirkeforetak som skal offentliggjøres i EØS-tillegget til Den europeiske unions tidende etter rådsforordning [(EF) nr. 1435/2003](eu/32003*1435) artikkel 13
 
 (3) Ved nyregistrering av europeisk økonomisk foretaksgruppe som nevnt i forordning [(EØF) nr. 2137/85](eu/31985r2137) skal registerføreren kunngjøre opplysninger som nevnt i forordningen artikkel 8 samt endringer i disse. Registerføreren skal også påse at opplysninger som skal offentliggjøres i EØS-tillegget til Den europeiske unions tidende, jf. forordningen artikkel 11, blir oversendt til Kontoret for Den europeiske unions offisielle publikasjoner innen én måned etter kunngjøring i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 
@@ -318,7 +425,11 @@ Når meldte opplysninger er kontrollert og funnet i orden, skal registerføreren
 
 (1) Registerføreren kan registrere en påtegning dersom det er forhold ved registrerte opplysninger om foretaket som tredjepersoner bør gjøres kjent med. Første punktum gjelder tilsvarende dersom plikten til å sende inn melding etter [§ 4-1](lov/2025-06-20-106/§4-1) eller [§ 4-2](lov/2025-06-20-106/§4-2) ikke er oppfylt. Hvis det er registrert en påtegning etter første eller andre punktum, skal påtegningen fjernes når forholdet som begrunnet påtegningen, ikke lenger gjør seg gjeldende.
 
-(2) Registerføreren skal registrere en påtegning om at en person er avregistrert fra en rolle, dersom personen harmeldt egenfratreden fra rollen, jf. [§ 4-6 første ledd](lov/2025-06-20-106/§4-6/ledd/1)blitt ilagt konkurskarantene eller blitt idømt rettighetstap som hindrer vedkommende i å inneha rollenblitt idømt fratakelse av den rettslige handleevnen eller blitt midlertidig fratatt den rettslige handleevnen etter [vergemålsloven § 61](lov/2010-03-26-9/§61), som hindrer vedkommende i å inneha rollen.
+(2) Registerføreren skal registrere en påtegning om at en person er avregistrert fra en rolle, dersom personen har
+
+1. meldt egenfratreden fra rollen, jf. [§ 4-6 første ledd](lov/2025-06-20-106/§4-6/ledd/1)
+2. blitt ilagt konkurskarantene eller blitt idømt rettighetstap som hindrer vedkommende i å inneha rollen
+3. blitt idømt fratakelse av den rettslige handleevnen eller blitt midlertidig fratatt den rettslige handleevnen etter [vergemålsloven § 61](lov/2010-03-26-9/§61), som hindrer vedkommende i å inneha rollen.
 
 (3) Dersom en person som er registrert med en rolle i Foretaksregisteret, blir registrert som død i Folkeregisteret, skal registerføreren registrere en påtegning om dette i Foretaksregisteret.
 
@@ -398,7 +509,10 @@ Ved forsettlig eller uaktsom overtredelse av bestemmelsene i [§ 4-1](lov/2025-0
 
 ### § 12-1. Statens erstatningsansvar ved feil
 
-Dersom Foretaksregisteret gir feil opplysning ved utskrift, attest eller kunngjøring, har den som uforskyldt lider tap, rett til erstatning av staten hvis tapet skyldesat opplysningen ikke stemmer med det som er registrert i Foretaksregisteret, eller med den meldingen som er grunnlaget for registreringen.at opplysningen som er registrert i Foretaksregisteret, er feilaktig rettet eller endret etter bestemmelsene i [§ 8-1](lov/2025-06-20-106/§8-1) eller [§ 9-2](lov/2025-06-20-106/§9-2) uten at det i den forbindelse er noe å bebreide foretaket.
+Dersom Foretaksregisteret gir feil opplysning ved utskrift, attest eller kunngjøring, har den som uforskyldt lider tap, rett til erstatning av staten hvis tapet skyldes
+
+1. at opplysningen ikke stemmer med det som er registrert i Foretaksregisteret, eller med den meldingen som er grunnlaget for registreringen.
+2. at opplysningen som er registrert i Foretaksregisteret, er feilaktig rettet eller endret etter bestemmelsene i [§ 8-1](lov/2025-06-20-106/§8-1) eller [§ 9-2](lov/2025-06-20-106/§9-2) uten at det i den forbindelse er noe å bebreide foretaket.
 
 ## Kapittel 13. Ikrafttredelse og overgangsregler. Endringer i andre lover
 

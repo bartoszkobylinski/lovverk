@@ -15,7 +15,7 @@ xml_hash: "1f48f05a59a0e934cb40593777c7c66570f4e9ee48777e12ecb98210767f3102"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,13 +42,22 @@ Lova gjeld med dei avgrensingane som følgjer av folkeretten eller av avtale med
 
 ### § 1-3. Definisjonar
 
-I denne lova tyder*jordskifteområdet:* den geografiske avgrensinga av jordskiftet, jf. [§ 6-9](lov/2013-06-21-100/§6-9) første ledd*tiltaksjordskifte:* jordskifte som følgje av iverksetjing av offentlege og private tiltak, jf. [§ 3-2](lov/2013-06-21-100/§3-2) første ledd andre punktum*vernejordskifte:* jordskifte som følgje av offentleg regulering av eigarrådvelde, jf. [§ 3-2](lov/2013-06-21-100/§3-2) første ledd tredje punktum.
+I denne lova tyder
+
+1. *jordskifteområdet:* den geografiske avgrensinga av jordskiftet, jf. [§ 6-9](lov/2013-06-21-100/§6-9) første ledd
+2. *tiltaksjordskifte:* jordskifte som følgje av iverksetjing av offentlege og private tiltak, jf. [§ 3-2](lov/2013-06-21-100/§3-2) første ledd andre punktum
+3. *vernejordskifte:* jordskifte som følgje av offentleg regulering av eigarrådvelde, jf. [§ 3-2](lov/2013-06-21-100/§3-2) første ledd tredje punktum.
 
 ### II. Saksinnhald og sakstilknyting
 
 ### § 1-4. Kva det kan reisast sak om for jordskifteretten
 
-Jordskifteretten kan behandle krav omendring i eigedomstilhøve og rettar for å skape meir tenlege tilhøve, jf. [kapittel 3](lov/2013-06-21-100/kap3)fastsetjing av eigedomstilhøve og rettar, jf. [§ 4-1](lov/2013-06-21-100/§4-1)fastsetjing av grenser, jf. [§§ 4-2](lov/2013-06-21-100/§4-2) og 4-3skjønn og andre avgjerder etter andre lover, slik det går fram av [kapittel 5](lov/2013-06-21-100/kap5) og av reglane i særlovene.
+Jordskifteretten kan behandle krav om
+
+1. endring i eigedomstilhøve og rettar for å skape meir tenlege tilhøve, jf. [kapittel 3](lov/2013-06-21-100/kap3)
+2. fastsetjing av eigedomstilhøve og rettar, jf. [§ 4-1](lov/2013-06-21-100/§4-1)
+3. fastsetjing av grenser, jf. [§§ 4-2](lov/2013-06-21-100/§4-2) og 4-3
+4. skjønn og andre avgjerder etter andre lover, slik det går fram av [kapittel 5](lov/2013-06-21-100/kap5) og av reglane i særlovene.
 
 ### § 1-5. Kven som kan reise sak
 
@@ -358,11 +367,25 @@ Første ledd gjeld ikkje når for eksempel skred, elvebrot, anlegg av offentlege
 
 ### § 4-1. Rettsutgreiing
 
-Jordskifteretten kan fastsetje innhaldet i rettar og eigedomstilhøve som eiga saki sameigei område der det er sambruk mellom eigedommar eller uklart om det er sambrukved registrering av uregistrert jordsameigei område med reindrift i det samiske reinbeiteområdeti område der det er sambruk av uteareala som ligg til eigarseksjonar.
+Jordskifteretten kan fastsetje innhaldet i rettar og eigedomstilhøve som eiga sak
+
+1. i sameige
+2. i område der det er sambruk mellom eigedommar eller uklart om det er sambruk
+3. ved registrering av uregistrert jordsameige
+4. i område med reindrift i det samiske reinbeiteområdet
+5. i område der det er sambruk av uteareala som ligg til eigarseksjonar.
 
 ### § 4-2. Grensefastsetjing
 
-Jordskifteretten kan fastsetje grenser for fast eigedom og rettar som eiga sak, mellom anna grenser forgrunneigedom, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav aanleggseigedom, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav buteareal som inngår i eigarseksjon, jf. [matrikkellova § 4](lov/2005-06-17-101/§4) første ledd siste punktumjordsameige, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav dfestegrunn, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav eoffentleg regulering av eigarrådveldesamisk reinbeite.
+Jordskifteretten kan fastsetje grenser for fast eigedom og rettar som eiga sak, mellom anna grenser for
+
+1. grunneigedom, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav a
+2. anleggseigedom, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav b
+3. uteareal som inngår i eigarseksjon, jf. [matrikkellova § 4](lov/2005-06-17-101/§4) første ledd siste punktum
+4. jordsameige, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav d
+5. festegrunn, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) første ledd bokstav e
+6. offentleg regulering av eigarrådvelde
+7. samisk reinbeite.
 
 Jordskifteretten skal merkje og koordinatfeste grenser etter [§ 6-29](lov/2013-06-21-100/§6-29).
 
@@ -396,7 +419,24 @@ Jordskifteretten held skjønn til fastsetjing av erstatninga eigedommar utanfor 
 
 ### § 5-3. Skjønn og andre avgjerder etter andre lover i samband med sak for jordskifteretten
 
-Jordskifteretten held skjønn og tek andre avgjerder i samband med sak for jordskifteretten etter– – –[lov 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet [§ 35](lov/1957-06-28-16/§35) femte ledd tredje punktum[lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom [§§ 17](lov/1959-10-23-3/§17), [19](lov/1959-10-23-3/§19), [26](lov/1959-10-23-3/§26) og [27](lov/1959-10-23-3/§27)[lov 5. mai 1961](lov/1961-05-05) om grannegjerde[lov 16. juni 1961 nr. 12](lov/1961-06-16-12) om ymse beitespørsmål [§§ 7](lov/1961-06-16-12/§7), [9](lov/1961-06-16-12/§9) og [14](lov/1961-06-16-12/§14)[lov 21. juni 1963 nr. 23](lov/1963-06-21-23) om vegar kapittel [VII](lov/1963-06-21-23/kapvii)[lov 29. november 1968](lov/1968-11-29) um særlege råderettar over framand eigedom[lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 11](lov/1978-06-09-50/§11)[lov 9. desember 1994 nr. 64](lov/1994-12-09-64) om løysingsrettar [§ 22](lov/1994-12-09-64/§22)[lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann [§ 31](lov/2000-11-24-82/§31) tredje ledd bokstav c[lov 6. juni 2003 nr. 39](lov/2003-06-06-39) om burettslag [§ 4-18](lov/2003-06-06-39/§4-18)[lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 12-3](lov/2003-07-04-83/§12-3)[lov 17. juni 2005 nr. 101](lov/2005-06-17-101) om eigedomsregistrering [§ 45](lov/2005-06-17-101/§45)[lov 15. juni 2007 nr. 40](lov/2007-06-15-40) om reindrift[lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling [§ 16-12](lov/2008-06-27-71/§16-12), og– – –
+Jordskifteretten held skjønn og tek andre avgjerder i samband med sak for jordskifteretten etter
+
+1. – – –
+2. [lov 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet [§ 35](lov/1957-06-28-16/§35) femte ledd tredje punktum
+3. [lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom [§§ 17](lov/1959-10-23-3/§17), [19](lov/1959-10-23-3/§19), [26](lov/1959-10-23-3/§26) og [27](lov/1959-10-23-3/§27)
+4. [lov 5. mai 1961](lov/1961-05-05) om grannegjerde
+5. [lov 16. juni 1961 nr. 12](lov/1961-06-16-12) om ymse beitespørsmål [§§ 7](lov/1961-06-16-12/§7), [9](lov/1961-06-16-12/§9) og [14](lov/1961-06-16-12/§14)
+6. [lov 21. juni 1963 nr. 23](lov/1963-06-21-23) om vegar kapittel [VII](lov/1963-06-21-23/kapvii)
+7. [lov 29. november 1968](lov/1968-11-29) um særlege råderettar over framand eigedom
+8. [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 11](lov/1978-06-09-50/§11)
+9. [lov 9. desember 1994 nr. 64](lov/1994-12-09-64) om løysingsrettar [§ 22](lov/1994-12-09-64/§22)
+10. [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann [§ 31](lov/2000-11-24-82/§31) tredje ledd bokstav c
+11. [lov 6. juni 2003 nr. 39](lov/2003-06-06-39) om burettslag [§ 4-18](lov/2003-06-06-39/§4-18)
+12. [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 12-3](lov/2003-07-04-83/§12-3)
+13. [lov 17. juni 2005 nr. 101](lov/2005-06-17-101) om eigedomsregistrering [§ 45](lov/2005-06-17-101/§45)
+14. [lov 15. juni 2007 nr. 40](lov/2007-06-15-40) om reindrift
+15. [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling [§ 16-12](lov/2008-06-27-71/§16-12), og
+16. – – –
 
 > Endra med lover [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [24 mai 2019 nr. 18](lov/2019-05-24-18) (ikr. 1 juli 2019 iflg. [res. 24 mai 2019 nr. 673](forskrift/2019-05-24-673)), [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 9 juni 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
@@ -452,7 +492,13 @@ Desse delane, kapitla og paragrafane i [tvisteloven](lov/2005-06-17-90) gjeld sl
 
 Sak kan reisast ved skriftleg krav til jordskifteretten. Saka kan reisast munnleg, og kravet kan setjast opp som prosesskriv i samsvar med [tvisteloven § 12-1](lov/2005-06-17-90/§12-1) andre ledd. Kravet skal vere underskrive.
 
-Så langt råd er skal det nemnast i kravetkva eigedommar saka gjeldnamnet og adressa til partane, representantane og prosessfullmektiganeom det trengst meddommarar, og om dei bør ha særskild kunnskap, jf. [§ 2-7](lov/2013-06-21-100/§2-7)kva parten vil oppnå med kravet, ogkva bevis som vil bli førte, og annan dokumentasjon.
+Så langt råd er skal det nemnast i kravet
+
+1. kva eigedommar saka gjeld
+2. namnet og adressa til partane, representantane og prosessfullmektigane
+3. om det trengst meddommarar, og om dei bør ha særskild kunnskap, jf. [§ 2-7](lov/2013-06-21-100/§2-7)
+4. kva parten vil oppnå med kravet, og
+5. kva bevis som vil bli førte, og annan dokumentasjon.
 
 Kravet skal utformast slik at det gir grunnlag for ei forsvarleg behandling av saka. Innhaldet i kravet må vere slik at dei andre partane kan ta stilling til kravet, og førebu saka. Kravet skal dessutan gi retten grunnlag for å vurdere om han kan behandle saka. Kravet skal om mogleg vise det geografiske området det gjeld på eit kart. Gjeld kravet jordskifte etter [kapittel 3](lov/2013-06-21-100/kap3), skal det gå fram av kravet kva for utenlege eigedomstilhøve ein krev at retten skal bøte på.
 
@@ -648,11 +694,25 @@ Forslaget skal behandlast skriftleg, om ikkje retten eller nokon av partane mein
 
 Ved dom tek jordskifteretten avgjerd om grenser, eigedomsrett, rettar og anna.
 
-Ved orskurd tek retten avgjerdnår ei sak skal avvisast fordi formelle vilkår for å ta opp saka ikkje er oppfyltenår ei sak av andre grunnar blir avslutta utan realitetsavgjerdved tvist om bevisnår det er fastsett i lov at retten skal bruke orskurd.
+Ved orskurd tek retten avgjerd
+
+1. når ei sak skal avvisast fordi formelle vilkår for å ta opp saka ikkje er oppfylte
+2. når ei sak av andre grunnar blir avslutta utan realitetsavgjerd
+3. ved tvist om bevis
+4. når det er fastsett i lov at retten skal bruke orskurd.
 
 Avgjerd om saksbehandlinga skal treffast som vedtak når det ikkje i lov er fastsett at avgjerda skal vere orskurd.
 
-Ved jordskifteavgjerd tek retten avgjerd omvilkåra for jordskifte i [§§ 3-2](lov/2013-06-21-100/§3-2), 3-3 og 3-18 er oppfylte eller ikkje, samt sakleg og geografisk avgrensing av saka etter [§ 6-9](lov/2013-06-21-100/§6-9)verdsetjing av det som skal gå i byte i jordskiftet, val av trasé for vegar og andre jordskifteløysingar undervegs i saka som ikkje er nemnde annan stad i leddet hermerking og måling også når dette arbeidet er utsett til etter at saka er avsluttaskjønn og andre avgjerder etter andre lover etter kapittel 5 i samband med sak for jordskifterettenreglar som etter [§ 3-34](lov/2013-06-21-100/§3-34) skal gjelde for ei viss tidfordeling av planskapt netto verdiauke etter [§ 3-30](lov/2013-06-21-100/§3-30)sakskostnader etter [§ 7-6](lov/2013-06-21-100/§7-6), ogden endelege jordskifteløysinga.
+Ved jordskifteavgjerd tek retten avgjerd om
+
+1. vilkåra for jordskifte i [§§ 3-2](lov/2013-06-21-100/§3-2), 3-3 og 3-18 er oppfylte eller ikkje, samt sakleg og geografisk avgrensing av saka etter [§ 6-9](lov/2013-06-21-100/§6-9)
+2. verdsetjing av det som skal gå i byte i jordskiftet, val av trasé for vegar og andre jordskifteløysingar undervegs i saka som ikkje er nemnde annan stad i leddet her
+3. merking og måling også når dette arbeidet er utsett til etter at saka er avslutta
+4. skjønn og andre avgjerder etter andre lover etter kapittel 5 i samband med sak for jordskifteretten
+5. reglar som etter [§ 3-34](lov/2013-06-21-100/§3-34) skal gjelde for ei viss tid
+6. fordeling av planskapt netto verdiauke etter [§ 3-30](lov/2013-06-21-100/§3-30)
+7. sakskostnader etter [§ 7-6](lov/2013-06-21-100/§7-6), og
+8. den endelege jordskifteløysinga.
 
 Om ei avgjerd er teken i feil form, har det ingenting å seie for rettsverknadene eller for prøving av avgjerda. Ved bruk av rettsmiddel etter [kapittel 8](lov/2013-06-21-100/kap8) skal ein følgje reglane for den avgjerda som retten skulle ha brukt.
 
@@ -668,7 +728,13 @@ Når det er meir enn ein dommar i ei sak, skal det gå fram om avgjerda er samr�
 
 Dom og orskurd skal grunngivast i samsvar med [tvisteloven § 19-6](lov/2005-06-17-90/§19-6) fjerde ledd.
 
-Jordskifteavgjerder skal ha ei grunngiving som inneheldheimelen for avgjerdaei framstilling av kva avgjerda gjeldei framstilling av dei tilhøva som har hatt mest å seie for avgjerdaeventuelle påstandar frå partane, med påstandsgrunnlag, ogdei vurderingane retten har lagt til grunn for avgjerda.
+Jordskifteavgjerder skal ha ei grunngiving som inneheld
+
+1. heimelen for avgjerda
+2. ei framstilling av kva avgjerda gjeld
+3. ei framstilling av dei tilhøva som har hatt mest å seie for avgjerda
+4. eventuelle påstandar frå partane, med påstandsgrunnlag, og
+5. dei vurderingane retten har lagt til grunn for avgjerda.
 
 Jordskifteavgjerder skal ha ei slutning som nøyaktig viser kva avgjerda går ut på. Jordskifteavgjerd med endeleg jordskifteløysing skal ha ei slutning som inneheld alt som må til for å setje i verk dei endringane som ligg i jordskifteløysinga.
 
@@ -730,7 +796,15 @@ Før saka er rettskraftig avgjord og om jordskiftedommaren finn grunn til det, k
 
 ### § 7-1. Sakskostnader
 
-For sak etter [kapittel 3 og](lov/2013-06-21-100/kap3) [4](lov/2013-06-21-100/kap4) skal partane betalegebyr etter [§§ 7-2](lov/2013-06-21-100/§7-2) til 7-5godtgjering til jordskiftemeddommarar etter domstolloven § 105 akostnader til grensemerkegodtgjering til ekstrahjelp til verdsetjing etter [§ 3-14](lov/2013-06-21-100/§3-14) og til måling og merking av grenser etter [§§ 4-2](lov/2013-06-21-100/§4-2) og 6-29godtgjering til rettstolkar og til sakkunnige oppnemnd av retten etter [lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelsekostnader til utskrifter eller kopiar av tinglyste dokument eller dokument frå statsarkivet som jordskifteretten hentar inn på vegner av partanesideutgifter etter [rettsgebyrloven § 2](lov/1982-12-17-86/§2) andre ledd.
+For sak etter [kapittel 3 og](lov/2013-06-21-100/kap3) [4](lov/2013-06-21-100/kap4) skal partane betale
+
+1. gebyr etter [§§ 7-2](lov/2013-06-21-100/§7-2) til 7-5
+2. godtgjering til jordskiftemeddommarar etter domstolloven § 105 a
+3. kostnader til grensemerke
+4. godtgjering til ekstrahjelp til verdsetjing etter [§ 3-14](lov/2013-06-21-100/§3-14) og til måling og merking av grenser etter [§§ 4-2](lov/2013-06-21-100/§4-2) og 6-29
+5. godtgjering til rettstolkar og til sakkunnige oppnemnd av retten etter [lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse
+6. kostnader til utskrifter eller kopiar av tinglyste dokument eller dokument frå statsarkivet som jordskifteretten hentar inn på vegner av partane
+7. sideutgifter etter [rettsgebyrloven § 2](lov/1982-12-17-86/§2) andre ledd.
 
 For skjønn og andre avgjerder i samband med jordskifte gjeld reglane om sakskostnader i [lov 1. juni 1917 nr. 1](lov/1917-06-01-1) om skjønn og ekspropriasjonssaker.
 
@@ -876,7 +950,12 @@ Rett til å anke kan ein seie frå seg etter [tvisteloven § 29-6](lov/2005-06-1
 
 Ved anke over dom, orskurd, eller vedtak, skal ankefråsegna fylle krava i [tvisteloven § 29-9](lov/2005-06-17-90/§29-9).
 
-Anke over jordskifteavgjerd skal setjast fram anten skriftleg eller munnleg etter reglane i [tvisteloven § 12-1](lov/2005-06-17-90/§12-1) for den jordskifteretten som har hatt saka. Anken skal oppginamnet på ankedomstolensaksnummer og kva avgjerd anken gjeldom anken gjeld heile avgjerda eller berre visse delar av henne, ogankegrunnane, der det skal stå kvifor ein ankar og kva ein vil med anken.
+Anke over jordskifteavgjerd skal setjast fram anten skriftleg eller munnleg etter reglane i [tvisteloven § 12-1](lov/2005-06-17-90/§12-1) for den jordskifteretten som har hatt saka. Anken skal oppgi
+
+1. namnet på ankedomstolen
+2. saksnummer og kva avgjerd anken gjeld
+3. om anken gjeld heile avgjerda eller berre visse delar av henne, og
+4. ankegrunnane, der det skal stå kvifor ein ankar og kva ein vil med anken.
 
 Når anken gjeld jordskifteavgjerd og det ikkje ligg føre særlege grunnar, skal alle som var partar i jordskiftesaka, bli partar i ankesaka òg.
 

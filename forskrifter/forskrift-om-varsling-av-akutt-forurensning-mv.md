@@ -28,7 +28,10 @@ Med akutt forurensning menes forurensning av betydning, som inntrer plutselig, o
 
 ## § 2. Virkeområde
 
-Denne forskriften gjelder for akutt forurensningriketi norsk økonomisk sone eller som truer å inntreffe i norsk økonomisk sone når forurensningskilden er norsk fartøy eller innretning
+Denne forskriften gjelder for akutt forurensning
+
+- riket
+- i norsk økonomisk sone eller som truer å inntreffe i norsk økonomisk sone når forurensningskilden er norsk fartøy eller innretning
 
 > Endret ved [forskrift 31 aug 2001 nr. 1016](forskrift/2001-08-31-1016) (i kraft 1 jan 2002).
 

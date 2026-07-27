@@ -26,9 +26,22 @@ eu_basis: []
 
 ### § 1-1. Søknad om undersøkelsesrett til statens mineraler
 
-Søknad om undersøkelsesrett skal skje på fastlagt skjema og sendes Direktoratet for mineralforvaltning. Søknaden skal inneholdesøkerens navn eller foretaksnavnsøkerens postadresse. Juridiske personer skal også angi forretningsadressekopi av gyldig legitimasjon dersom søker er fysisk personfirmaattest eller tilsvarende dersom søker er juridisk personopplysning om statsborgerskap for fysisk person og hvilket land juridisk person er hjemmehørende ihvilke av statens mineraler søkeren antar finnes i områdeten angivelse av undersøkelsesområdet inntegnet på kart i målestokk 1:50 000, der koordinatene er knyttet til UTM-systemet etter kartdatum EUREF 89 (WGS 84). Koordinatene for undersøkelsesområdets hjørnepunkter skal angis med referanse til anvendt kartverken angivelse av den eller de kommuner undersøkelsesområdet ligger i.
+Søknad om undersøkelsesrett skal skje på fastlagt skjema og sendes Direktoratet for mineralforvaltning. Søknaden skal inneholde
 
-For det eller de områder som helt eller delvis berøres av undersøkelsesområdet kan Direktoratet for mineralforvaltning kreve at søker gir opplysninger omgårds- og bruksnummer eller matrikkelnummereiers og brukers navn og postadressenavn og postadresse til minst en av de ansvarlige for allmenningsområder og andre områder i sameie eller felleseie.
+1. søkerens navn eller foretaksnavn
+2. søkerens postadresse. Juridiske personer skal også angi forretningsadresse
+3. kopi av gyldig legitimasjon dersom søker er fysisk person
+4. firmaattest eller tilsvarende dersom søker er juridisk person
+5. opplysning om statsborgerskap for fysisk person og hvilket land juridisk person er hjemmehørende i
+6. hvilke av statens mineraler søkeren antar finnes i området
+7. en angivelse av undersøkelsesområdet inntegnet på kart i målestokk 1:50 000, der koordinatene er knyttet til UTM-systemet etter kartdatum EUREF 89 (WGS 84). Koordinatene for undersøkelsesområdets hjørnepunkter skal angis med referanse til anvendt kartverk
+8. en angivelse av den eller de kommuner undersøkelsesområdet ligger i.
+
+For det eller de områder som helt eller delvis berøres av undersøkelsesområdet kan Direktoratet for mineralforvaltning kreve at søker gir opplysninger om
+
+1. gårds- og bruksnummer eller matrikkelnummer
+2. eiers og brukers navn og postadresse
+3. navn og postadresse til minst en av de ansvarlige for allmenningsområder og andre områder i sameie eller felleseie.
 
 Søkes det samtidig om flere undersøkelsesområder i nærheten av hverandre, skal det vedlegges oversiktskart som omfatter alle undersøkelsesområdene. Oversiktskart kan erstatte kart etter første ledd bokstav g.
 
@@ -52,7 +65,16 @@ Bestemmelsene i [§ 1-2](forskrift/2009-12-23-1842/§1-2) gjelder så langt de p
 
 Undersøker skal sende undersøkelsesrapport, måledata og prøvemateriale til Direktoratet for mineralforvaltning når undersøkelsene er ferdige og senest seks måneder etter at undersøkelsesretten er opphørt. Dersom særlige grunner foreligger, kan Direktoratet for mineralforvaltning, etter søknad, forlenge fristen med inntil seks måneder.
 
-Undersøkelsesrapport, måledata og prøvemateriale skal bestå avbasismateriale, som for eksempel registreringer fra geofysiske målinger, observasjoner fra geologisk kartlegging og analyseresultater fra geokjemisk prøvetaking mv.geologiske kartgeofysiske anomalikartgeokjemiske anomalikart som skal inneholde opplysninger som er nødvendige for å kunne tyde demoversiktskart over undersøkte områder som skal vise områdenes geologi, røskinger, diamantborhull, annen relevant informasjon og stikningsnett for geofysiske undersøkelserkoordinatfestet borlogg med tilhørende analyser og prøvebeskrivelser, og profiler som koordinatfester borhullene. Direktoratet for mineralforvaltning kan, etter samråd med Norges geologiske undersøkelse (NGU), bestemme at et representativt utvalg av borkjerneprøver og prøvemateriale skal leveres til NGU sitt borkjernelager. Kostnadene ved avleveringen dekkes av undersøkerkartverk med profiler som skal avleveres med en spesifisert tegnforklaring med fargesetting. Tegn, raster og fargesetting skal følge den norm som nyttes ved utgivelse av geologiske kart fra Norges geologiske undersøkelse, NGU skrifter 113, 1995rapport med begrunnede konklusjoner på grunnlag av undersøkelsesmaterialet, herunder resultatet av eventuelle oppredningsforsøk, prosessforsøk mv.
+Undersøkelsesrapport, måledata og prøvemateriale skal bestå av
+
+1. basismateriale, som for eksempel registreringer fra geofysiske målinger, observasjoner fra geologisk kartlegging og analyseresultater fra geokjemisk prøvetaking mv.
+2. geologiske kart
+3. geofysiske anomalikart
+4. geokjemiske anomalikart som skal inneholde opplysninger som er nødvendige for å kunne tyde dem
+5. oversiktskart over undersøkte områder som skal vise områdenes geologi, røskinger, diamantborhull, annen relevant informasjon og stikningsnett for geofysiske undersøkelser
+6. koordinatfestet borlogg med tilhørende analyser og prøvebeskrivelser, og profiler som koordinatfester borhullene. Direktoratet for mineralforvaltning kan, etter samråd med Norges geologiske undersøkelse (NGU), bestemme at et representativt utvalg av borkjerneprøver og prøvemateriale skal leveres til NGU sitt borkjernelager. Kostnadene ved avleveringen dekkes av undersøker
+7. kartverk med profiler som skal avleveres med en spesifisert tegnforklaring med fargesetting. Tegn, raster og fargesetting skal følge den norm som nyttes ved utgivelse av geologiske kart fra Norges geologiske undersøkelse, NGU skrifter 113, 1995
+8. rapport med begrunnede konklusjoner på grunnlag av undersøkelsesmaterialet, herunder resultatet av eventuelle oppredningsforsøk, prosessforsøk mv.
 
 Alle kart skal følge UTM-systemet med kartdatum EUREF 89 (WGS 84). Direktoratet for mineralforvaltning kan kreve at undersøkelsesrapporter, kart og geofysiske målinger leveres i digitalisert form.
 
@@ -64,7 +86,15 @@ Innlevert materiale kan ikke gjøres offentlig mens undersøker har bergrettighe
 
 ### § 1-5. Søknad om utvinningsrett til statens mineraler
 
-Søknad om utvinningsrett skal inneholdesøkerens navn eller foretaksnavnsøkerens postadresse. Juridiske personer skal også angi forretningsadressehvilket undersøkelsesområde søknaden om utvinningsrett bygger påkart som viser utvinningsområdets plassering og eiendomsgrensene slik de fremgår av matrikkelen. Eieres og brukeres navn og adresse skal oppgisopplysninger om hvilke mineraler utvinningsområdet inneholder, hvilke undersøkelsesarbeider som er foretatt og resultatene av dissedokumentasjon på forekomstens rikholdighet, størrelse og beskaffenheten økonomisk vurdering av forekomstens drivverdighet.
+Søknad om utvinningsrett skal inneholde
+
+1. søkerens navn eller foretaksnavn
+2. søkerens postadresse. Juridiske personer skal også angi forretningsadresse
+3. hvilket undersøkelsesområde søknaden om utvinningsrett bygger på
+4. kart som viser utvinningsområdets plassering og eiendomsgrensene slik de fremgår av matrikkelen. Eieres og brukeres navn og adresse skal oppgis
+5. opplysninger om hvilke mineraler utvinningsområdet inneholder, hvilke undersøkelsesarbeider som er foretatt og resultatene av disse
+6. dokumentasjon på forekomstens rikholdighet, størrelse og beskaffenhet
+7. en økonomisk vurdering av forekomstens drivverdighet.
 
 ### § 1-6. Utvinningsområdet
 
@@ -74,13 +104,30 @@ Utvinningsområdet skal ikke være større enn nødvendig for å dekke forekomst
 
 ### § 1-7. Tinglysing av utvinningsrett til statens mineraler
 
-Ved tildeling av utvinningsrett skal Direktoratet for mineralforvaltning sende særskilt melding til registerføreren. Meldingen skalskrives på tinglysingspapir som bekreftet gjenpart av vedtaket om utvinningsrettinneholde gårds- og bruksnummer på den eller de eiendommer som berøres av utvinningsrettenangi hvor på eiendommen utvinningsretten liggerinneholde navn på hjemmelshaver og navn og fødsels- eller organisasjonsnummer til den som har fått utvinningsrettopplyse om utvinningsretten berører festerett på en eiendom, og i så fall angi nummer på festeretten og festers navn.
+Ved tildeling av utvinningsrett skal Direktoratet for mineralforvaltning sende særskilt melding til registerføreren. Meldingen skal
+
+1. skrives på tinglysingspapir som bekreftet gjenpart av vedtaket om utvinningsrett
+2. inneholde gårds- og bruksnummer på den eller de eiendommer som berøres av utvinningsretten
+3. angi hvor på eiendommen utvinningsretten ligger
+4. inneholde navn på hjemmelshaver og navn og fødsels- eller organisasjonsnummer til den som har fått utvinningsrett
+5. opplyse om utvinningsretten berører festerett på en eiendom, og i så fall angi nummer på festeretten og festers navn.
 
 ### § 1-8. Søknad om driftskonsesjon
 
 Søknad om driftskonsesjon skal skje på fastlagt skjema og sendes til Direktoratet for mineralforvaltning.
 
-Søknaden skal inneholdedokumentasjon av utvinningsrett på området. For søknad som gjelder statens mineraler skal det henvises til tildelt utvinningsrett etter mineralloven eller utmål etter bergverksloven. For søknad som gjelder grunneiers mineraler skal avtale med grunneier eller annen rettighetshaver til de mineralske ressursene vedlegges.forslag til driftsplan. Forslaget skal være i samsvar med kravene i Direktoratets veileder for utarbeidelse av driftsplan. Dersom tiltaket allerede har fått godkjent driftsplan, skal det vises til denne.opplysning om tiltakets status etter [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling (plan- og bygningsloven). Det skal fremgå hvilket formål området er lagt ut til i kommuneplanens arealdel. Det skal videre fremgå om tiltaket er omfattet av en reguleringsplan eller om området er under regulering til formålet.en redegjørelse for den kompetanse selskapet har tilgang til, for driften av det planlagte uttaket. Det skal gis en oversikt over selskapets organisasjon med særlig hensyn til teknisk ledelse og bergfaglig- og annen teknisk kompetanse.en vurdering av behovet for at det stilles økonomisk sikkerhet for gjennomføring av sikrings- og oppryddingstiltak, jf. [§ 2-1](forskrift/2009-12-23-1842/§2-1), herunder om form for og størrelse på sikkerheten.en oversikt over de investeringer som må gjøres ved anlegget, herunder:en oversikt over nødvendige investeringer i utstyr og maskiner, eventuelt oversikt over kostnader ved leie av maskiner og tjenester.en oversikt over investeringer i tilrettelegging (adkomst, avdekning, lagerområder, bygninger).en plan for finansieringen av tiltaket, herunder budsjett for de første driftsårene. Budsjettet skal vise markedssituasjonen, prisnivået for produktet eventuelt ledsaget av leveranseavtaler.
+Søknaden skal inneholde
+
+1. dokumentasjon av utvinningsrett på området. For søknad som gjelder statens mineraler skal det henvises til tildelt utvinningsrett etter mineralloven eller utmål etter bergverksloven. For søknad som gjelder grunneiers mineraler skal avtale med grunneier eller annen rettighetshaver til de mineralske ressursene vedlegges.
+2. forslag til driftsplan. Forslaget skal være i samsvar med kravene i Direktoratets veileder for utarbeidelse av driftsplan. Dersom tiltaket allerede har fått godkjent driftsplan, skal det vises til denne.
+3. opplysning om tiltakets status etter [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling (plan- og bygningsloven). Det skal fremgå hvilket formål området er lagt ut til i kommuneplanens arealdel. Det skal videre fremgå om tiltaket er omfattet av en reguleringsplan eller om området er under regulering til formålet.
+4. en redegjørelse for den kompetanse selskapet har tilgang til, for driften av det planlagte uttaket. Det skal gis en oversikt over selskapets organisasjon med særlig hensyn til teknisk ledelse og bergfaglig- og annen teknisk kompetanse.
+5. en vurdering av behovet for at det stilles økonomisk sikkerhet for gjennomføring av sikrings- og oppryddingstiltak, jf. [§ 2-1](forskrift/2009-12-23-1842/§2-1), herunder om form for og størrelse på sikkerheten.
+6. en oversikt over de investeringer som må gjøres ved anlegget, herunder:
+
+   1. en oversikt over nødvendige investeringer i utstyr og maskiner, eventuelt oversikt over kostnader ved leie av maskiner og tjenester.
+   2. en oversikt over investeringer i tilrettelegging (adkomst, avdekning, lagerområder, bygninger).
+   3. en plan for finansieringen av tiltaket, herunder budsjett for de første driftsårene. Budsjettet skal vise markedssituasjonen, prisnivået for produktet eventuelt ledsaget av leveranseavtaler.
 
 Direktoratet for mineralforvaltning kan for større tiltak kreve fremlagt en mer inngående analyse av prosjektet, herunder en oversikt over forventet lønnsomhet og en analyse av de første års kontantstrømmer.
 
@@ -100,7 +147,15 @@ Direktoratet for mineralforvaltning kan sammen med Norges geologiske undersøkel
 
 Tiltakshaver som har drevet uttak av statens mineraler skal når driften legges ned sende inn sluttrapport fra driften, måledata og prøvemateriale til Direktoratet for mineralforvaltning. Direktoratet for mineralforvaltning kan ved enkeltvedtak pålegge tiltakshaver som legger ned uttak av grunneiers mineraler å sende inn sluttrapport, måledata og prøvemateriale etter reglene i denne paragrafen, dersom uttaket har mineraliseringer av vesentlig geologisk interesse. Direktoratet fastsetter frist for innleveringen.
 
-Sluttrapport, måledata og prøvemateriale skal, i den grad slike undersøkelser er foretatt, bestå avbasismateriale, som for eksempel registreringer fra geofysiske målinger, observasjoner fra geologisk kartlegging og analyseresultater fra geokjemisk prøvetaking.geologiske kartgeofysiske anomalikartgeokjemiske anomalikart som skal inneholde opplysninger som er nødvendige for å kunne tyde demoversiktskart over undersøkte områder som skal vise områdenes geologi, røskinger, diamantborhull, annen relevant informasjon og stikningsnett for geofysiske undersøkelserkoordinatfestet borlogg med tilhørende analyser og prøvebeskrivelser og profiler som koordinatfester borhullene. Direktoratet for mineralforvaltning kan, etter samråd med Norges geologiske undersøkelse (NGU), bestemme at et representativt utvalg av borkjerneprøver og prøvemateriale skal leveres til NGU sitt borkjernelager. Kostnadene ved avlevering av borkjerneprøver og prøvemateriale skal dekkes av tiltakshaver.rapport med begrunnede konklusjoner på grunnlag av undersøkelsesmaterialet. I den grad slike rapporter er sendt inn på undersøkelsesstadiet kan det vises til disse.
+Sluttrapport, måledata og prøvemateriale skal, i den grad slike undersøkelser er foretatt, bestå av
+
+1. basismateriale, som for eksempel registreringer fra geofysiske målinger, observasjoner fra geologisk kartlegging og analyseresultater fra geokjemisk prøvetaking.
+2. geologiske kart
+3. geofysiske anomalikart
+4. geokjemiske anomalikart som skal inneholde opplysninger som er nødvendige for å kunne tyde dem
+5. oversiktskart over undersøkte områder som skal vise områdenes geologi, røskinger, diamantborhull, annen relevant informasjon og stikningsnett for geofysiske undersøkelser
+6. koordinatfestet borlogg med tilhørende analyser og prøvebeskrivelser og profiler som koordinatfester borhullene. Direktoratet for mineralforvaltning kan, etter samråd med Norges geologiske undersøkelse (NGU), bestemme at et representativt utvalg av borkjerneprøver og prøvemateriale skal leveres til NGU sitt borkjernelager. Kostnadene ved avlevering av borkjerneprøver og prøvemateriale skal dekkes av tiltakshaver.
+7. rapport med begrunnede konklusjoner på grunnlag av undersøkelsesmaterialet. I den grad slike rapporter er sendt inn på undersøkelsesstadiet kan det vises til disse.
 
 Alle kart skal følge UTM-systemet med kartdatum EUREF 89 (WGS 84). Forskrift om kart over underjords- og dagbruddsanlegg § 7 gjelder tilsvarende. Direktoratet for mineralforvaltning kan kreve at undersøkelsesrapporter, kart og geofysiske målinger leveres i digitalisert form.
 
@@ -138,7 +193,11 @@ Departementet kan gi retningslinjer om avsetningens størrelse.
 
 ### § 3-1. Bergteknisk ansvarlig
 
-Uttak av mineralske ressurser skal ha en bergteknisk ansvarlig som skal sørge forat driften skjer på en teknisk forsvarlig måte slik at hensynet til arbeidstakere, nærliggende bebyggelse og omgivelsene ellers ivaretasat avbyggingen av forekomsten skjer på en bærekraftig måteat driften til enhver tid skjer etter en ajourført og godkjent driftsplan.
+Uttak av mineralske ressurser skal ha en bergteknisk ansvarlig som skal sørge for
+
+1. at driften skjer på en teknisk forsvarlig måte slik at hensynet til arbeidstakere, nærliggende bebyggelse og omgivelsene ellers ivaretas
+2. at avbyggingen av forekomsten skjer på en bærekraftig måte
+3. at driften til enhver tid skjer etter en ajourført og godkjent driftsplan.
 
 ### § 3-2. Bergteknisk ansvarlig for underjordsanlegg og større dagbrudd
 
@@ -174,17 +233,33 @@ Søknad om godkjenning som bergteknisk ansvarlig etter [§ 3-2](forskrift/2009-1
 
 ### § 4-1. Definisjoner
 
-I kapitlet forstås med*yrkeskvalifikasjoner:* kvalifikasjoner dokumentert med et kvalifikasjonsbevis, eller et kompetansebevis etter [§ 4-3](forskrift/2009-12-23-1842/§4-3) første ledd bokstav a, og relevant yrkeserfaring*kvalifikasjonsbevis:* diplomer, attester og annen dokumentasjon utstedt av en myndighet i en stat utpekt i lov eller med hjemmel i lov i staten*lovregulert yrke:* yrke der det direkte eller indirekte fremgår av lov eller forskrift at det kreves bestemte kvalifikasjoner.
+I kapitlet forstås med
+
+1. *yrkeskvalifikasjoner:* kvalifikasjoner dokumentert med et kvalifikasjonsbevis, eller et kompetansebevis etter [§ 4-3](forskrift/2009-12-23-1842/§4-3) første ledd bokstav a, og relevant yrkeserfaring
+2. *kvalifikasjonsbevis:* diplomer, attester og annen dokumentasjon utstedt av en myndighet i en stat utpekt i lov eller med hjemmel i lov i staten
+3. *lovregulert yrke:* yrke der det direkte eller indirekte fremgår av lov eller forskrift at det kreves bestemte kvalifikasjoner.
 
 ### § 4-2. Søknadens innhold
 
-Søknad om godkjenning som bergteknisk ansvarlig med yrkeskvalifikasjoner fra annen EØS-stat skal inneholdebekreftet kopi av kvalifikasjonsbevisbevis for søkers nasjonalitet.
+Søknad om godkjenning som bergteknisk ansvarlig med yrkeskvalifikasjoner fra annen EØS-stat skal inneholde
+
+1. bekreftet kopi av kvalifikasjonsbevis
+2. bevis for søkers nasjonalitet.
 
 Direktoratet for mineralforvaltning kan kreve bevis for søkers arbeidserfaring dersom søkers kvalifikasjoner vurderes etter [§ 4-3](forskrift/2009-12-23-1842/§4-3) andre ledd.
 
 ### § 4-3. Vilkår for godkjenning som bergteknisk ansvarlig for statsborgere fra EØS-stat
 
-Statsborgere fra en EØS-stat har videre rett til godkjenning som bergteknisk ansvarlig dersom dette følger av reglene i direktiv [2005/36/EF](eu/32005l0036*), selv om de ikke har kvalifikasjoner som er likeverdige med kravene i [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd og [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd. Kvalifikasjonskravene etter [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd ligger på nivå e og kravene etter [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd ligger på nivå c i). Vilkåret for slik godkjenning er at søkeren fremlegger kvalifikasjonsbevis som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene som følger av [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd og [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd. Ved sammenligning av utdanningsnivåene gjelder følgende fem kvalifikasjonsnivåer:et kompetansebevis som viser bestått utdanning og erfaring som ikke omfattes av kravene i nivåene i bokstav b til e.en attest som viser fullført og bestått videregående opplæring.et diplom som viser at søkerenten har bestått en annen utdanning ut over videregående opplæring enn det som er nevnt i bokstav d) eller e), av minst ett års varighet, eller av tilsvarende varighet på deltid, hvor opptakskrav til studiet normalt er avsluttet videregående opplæring som er nødvendig for å få adgang til universitet, annen høyere utdanning eller annen utdanning på tilsvarende nivå, samt den yrkesrettede opplæring som måtte kreves i tillegg til utdanning ut over videregående opplæring, ellerbestått utdanning av en særskilt struktur for et lovregulert yrke, jf. direktiv [2005/36/EF](eu/32005l0036*) vedlegg 2.et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid.et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst fire års varighet, eller av tilsvarende varighet på deltid.
+Statsborgere fra en EØS-stat har videre rett til godkjenning som bergteknisk ansvarlig dersom dette følger av reglene i direktiv [2005/36/EF](eu/32005l0036*), selv om de ikke har kvalifikasjoner som er likeverdige med kravene i [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd og [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd. Kvalifikasjonskravene etter [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd ligger på nivå e og kravene etter [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd ligger på nivå c i). Vilkåret for slik godkjenning er at søkeren fremlegger kvalifikasjonsbevis som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene som følger av [§ 3-2](forskrift/2009-12-23-1842/§3-2) første ledd og [§ 3-3](forskrift/2009-12-23-1842/§3-3) første ledd. Ved sammenligning av utdanningsnivåene gjelder følgende fem kvalifikasjonsnivåer:
+
+1. et kompetansebevis som viser bestått utdanning og erfaring som ikke omfattes av kravene i nivåene i bokstav b til e.
+2. en attest som viser fullført og bestått videregående opplæring.
+3. et diplom som viser at søker
+
+   1. enten har bestått en annen utdanning ut over videregående opplæring enn det som er nevnt i bokstav d) eller e), av minst ett års varighet, eller av tilsvarende varighet på deltid, hvor opptakskrav til studiet normalt er avsluttet videregående opplæring som er nødvendig for å få adgang til universitet, annen høyere utdanning eller annen utdanning på tilsvarende nivå, samt den yrkesrettede opplæring som måtte kreves i tillegg til utdanning ut over videregående opplæring, eller
+   2. bestått utdanning av en særskilt struktur for et lovregulert yrke, jf. direktiv [2005/36/EF](eu/32005l0036*) vedlegg 2.
+4. et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid.
+5. et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst fire års varighet, eller av tilsvarende varighet på deltid.
 
 Søker som har arbeidet som bergteknisk ansvarlig i en EØS-stat hvor yrket ikke er lovregulert, har rett til godkjenning dersom søker har utøvd yrket på heltid i minst to år, eller tilsvarende periode på deltid, i løpet av de siste ti år. Søkeren må fremlegge bevis på yrkeskvalifikasjoner som dokumenterer at søker kan arbeide som bergteknisk ansvarlig.
 
@@ -210,13 +285,24 @@ Direktoratet for mineralforvaltning skal samarbeide med godkjenningsmyndigheter 
 
 ### § 5-1. Gebyr for behandling av søknader
 
-Søker skal betale gebyrfor søknad om undersøkelsesrett etter [mineralloven § 13](lov/2009-06-19-101/§13) med kr 1 000 per områdefor søknad om utvinningsrett etter [mineralloven § 29](lov/2009-06-19-101/§29) med kr 10 000 per område. Krever søknaden flere enn ett utvinningsområde, skal søker betale et tilleggsgebyr med kr 500 for hvert ekstra områdefor søknad om prøveuttak etter [mineralloven § 12](lov/2009-06-19-101/§12) eller [§ 20](lov/2009-06-19-101/§20) med kr 5 000for søknad om driftskonsesjon etter [mineralloven § 43](lov/2009-06-19-101/§43) med kr 10 000. Gjelder søknaden uttak som krever konsekvensutredning etter [forskrift 26. juni 2009 nr. 855](forskrift/2009-06-26-855) om konsekvensutredninger, er gebyret kr 20 000for søknad om ekspropriasjon etter [mineralloven § 37](lov/2009-06-19-101/§37) første ledd og [§ 38](lov/2009-06-19-101/§38) første ledd med kr 1 000for søknad om ekspropriasjon etter [mineralloven § 37](lov/2009-06-19-101/§37) andre ledd og [§ 38](lov/2009-06-19-101/§38) andre ledd med kr 10 000.
+Søker skal betale gebyr
+
+1. for søknad om undersøkelsesrett etter [mineralloven § 13](lov/2009-06-19-101/§13) med kr 1 000 per område
+2. for søknad om utvinningsrett etter [mineralloven § 29](lov/2009-06-19-101/§29) med kr 10 000 per område. Krever søknaden flere enn ett utvinningsområde, skal søker betale et tilleggsgebyr med kr 500 for hvert ekstra område
+3. for søknad om prøveuttak etter [mineralloven § 12](lov/2009-06-19-101/§12) eller [§ 20](lov/2009-06-19-101/§20) med kr 5 000
+4. for søknad om driftskonsesjon etter [mineralloven § 43](lov/2009-06-19-101/§43) med kr 10 000. Gjelder søknaden uttak som krever konsekvensutredning etter [forskrift 26. juni 2009 nr. 855](forskrift/2009-06-26-855) om konsekvensutredninger, er gebyret kr 20 000
+5. for søknad om ekspropriasjon etter [mineralloven § 37](lov/2009-06-19-101/§37) første ledd og [§ 38](lov/2009-06-19-101/§38) første ledd med kr 1 000
+6. for søknad om ekspropriasjon etter [mineralloven § 37](lov/2009-06-19-101/§37) andre ledd og [§ 38](lov/2009-06-19-101/§38) andre ledd med kr 10 000.
 
 Gebyr skal være betalt før saken tas opp til behandling.
 
 ### § 5-2. Årsavgift for undersøkelsesrett til statens mineraler
 
-For å beholde undersøkelsesrett til statens mineraler skal det etter [mineralloven § 56](lov/2009-06-19-101/§56) for hver påbegynte 10 000 m2 betales årsavgift til statenfor det andre og tredje kalenderåret med kr 10for det fjerde og femte kalenderåret med kr 30for det sjette og sjuende kalenderåret med kr 50.
+For å beholde undersøkelsesrett til statens mineraler skal det etter [mineralloven § 56](lov/2009-06-19-101/§56) for hver påbegynte 10 000 m2 betales årsavgift til staten
+
+1. for det andre og tredje kalenderåret med kr 10
+2. for det fjerde og femte kalenderåret med kr 30
+3. for det sjette og sjuende kalenderåret med kr 50.
 
 Ved forlengelse av undersøkelsesrett etter [mineralloven § 23](lov/2009-06-19-101/§23) skal for hver påbegynte 10 000 m2 betales årsavgift til staten med kr 50.
 
@@ -260,7 +346,12 @@ Tvangsmulkten løper inntil den ansvarlige har dokumentert at pålegget er oppfy
 
 ### § 6-2. Utmåling av tvangsmulkt
 
-Ved utmåling av tvangsmulkt skal det særlig legges vekt påhvilken type pålegg som ikke er oppfylthvor alvorlig den manglende oppfyllelse av pålegget er i forhold til de hensyn pålegget skal ivaretakostnaden for den ansvarlige ved å oppfylle påleggetden ansvarliges økonomiske evne.
+Ved utmåling av tvangsmulkt skal det særlig legges vekt på
+
+1. hvilken type pålegg som ikke er oppfylt
+2. hvor alvorlig den manglende oppfyllelse av pålegget er i forhold til de hensyn pålegget skal ivareta
+3. kostnaden for den ansvarlige ved å oppfylle pålegget
+4. den ansvarliges økonomiske evne.
 
 ### § 6-3. Frist for betaling av tvangsmulkt
 
@@ -270,7 +361,14 @@ Dersom mulkten ikke blir betalt innen forfall, påløper den til enhver tid gjel
 
 ### § 6-4. Om ileggelse og utmåling av overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr etter [mineralloven § 67](lov/2009-06-19-101/§67) skal ilegges og ved utmåling av gebyret skal det særlig legges vekt påovertredelsens grovhetom overtreder ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsenom overtredelsen er begått for å fremme overtreders interesserom overtreder har hatt eller kunne oppnådd noen fordel ved overtredelsenom det foreligger gjentakelseovertreders økonomiske evne.
+Ved avgjørelsen av om overtredelsesgebyr etter [mineralloven § 67](lov/2009-06-19-101/§67) skal ilegges og ved utmåling av gebyret skal det særlig legges vekt på
+
+1. overtredelsens grovhet
+2. om overtreder ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsen
+3. om overtredelsen er begått for å fremme overtreders interesser
+4. om overtreder har hatt eller kunne oppnådd noen fordel ved overtredelsen
+5. om det foreligger gjentakelse
+6. overtreders økonomiske evne.
 
 ### § 6-5. Frist for betaling av overtredelsesgebyr
 

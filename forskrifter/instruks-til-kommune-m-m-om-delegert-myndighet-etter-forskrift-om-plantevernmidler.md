@@ -48,7 +48,12 @@ Forvaltningslovens regler om enkeltvedtak gjelder for vedtakene som fattes etter
 
 ### § 5. Autorisasjonskurs
 
-Statsforvalteren har ansvaret for:å sørge for at det holdes autorisasjonskurs for plantevernmidler, teoretisk og praktisk del, for de som skal ha autorisasjon for første gang. Den teoretiske delen skal være et alternativ til Mattilsynets nettbaserte autorisasjonskurså sørge for at det holdes kurs for fornyelse av autorisasjonsbevis for plantevernmidler, teoretisk del, som arrangeres som et alternativ til Mattilsynets nettbaserte autorisasjonskurså sørge for at det holdes kurs i gnagerbekjempelseå sørge for at kursene avsluttes med tilbud om eksamen.
+Statsforvalteren har ansvaret for:
+
+1. å sørge for at det holdes autorisasjonskurs for plantevernmidler, teoretisk og praktisk del, for de som skal ha autorisasjon for første gang. Den teoretiske delen skal være et alternativ til Mattilsynets nettbaserte autorisasjonskurs
+2. å sørge for at det holdes kurs for fornyelse av autorisasjonsbevis for plantevernmidler, teoretisk del, som arrangeres som et alternativ til Mattilsynets nettbaserte autorisasjonskurs
+3. å sørge for at det holdes kurs i gnagerbekjempelse
+4. å sørge for at kursene avsluttes med tilbud om eksamen.
 
 Statsforvalteren skal sørge for at autorisasjonskursene for plantevernmidler og kursene i gnagerbekjempelse oppfyller de relevante kravene som følger av vedlegget til denne instruksen.
 
@@ -62,7 +67,10 @@ Statsforvalteren eller kommunen skal sørge for at alle som består eksamen på 
 
 Statsforvalteren bestemmer hvem som kan være undervisere på autorisasjonskurs, jf. [plantevernmiddelforskriften § 9](forskrift/2015-05-06-455/§9), og fører lister over disse.
 
-Undervisere på den teoretiske delen av plantevernmiddelkursene bør ha relevant kompetanse på universitets- eller høyskolenivå, alternativt relevant kompetanse som er opparbeidet gjennom yrkespraksis:Undervisning om plantevernmidler og helse bør gis av godkjent helsepersonell eller personell fra Arbeidstilsynet eller Norsk Landbruksrådgiving med kompetanse innen HMS.Undervisning om integrert plantevern, godkjenning og bruk av plantevernmidler og miljø bør gis av landbruksrådgivere, lærere på fagskoler, skoginstruktører, konsulenter fra landbruks- og miljøforvaltning i kommunen og hos statsforvalteren o.l.
+Undervisere på den teoretiske delen av plantevernmiddelkursene bør ha relevant kompetanse på universitets- eller høyskolenivå, alternativt relevant kompetanse som er opparbeidet gjennom yrkespraksis:
+
+- Undervisning om plantevernmidler og helse bør gis av godkjent helsepersonell eller personell fra Arbeidstilsynet eller Norsk Landbruksrådgiving med kompetanse innen HMS.
+- Undervisning om integrert plantevern, godkjenning og bruk av plantevernmidler og miljø bør gis av landbruksrådgivere, lærere på fagskoler, skoginstruktører, konsulenter fra landbruks- og miljøforvaltning i kommunen og hos statsforvalteren o.l.
 
 Undervisning i den sprøytetekniske delen av kursene bør fortrinnsvis gjøres av autoriserte funksjonstestere, jf. [plantevernmiddelforskriften § 15](forskrift/2015-05-06-455/§15), annet ledd.
 
@@ -76,7 +84,19 @@ Importører eller forhandlere av plantevernmidler og gnagermidler kan ikke være
 
 Kommunen vurderer om vilkårene for autorisasjonsbevis er oppfylt, jf. [plantevernmiddelforskriften § 8](forskrift/2015-05-06-455/§8). Dersom vilkårene ikke er oppfylt, fattes det skriftlig vedtak om avslag. Når autorisasjonsbevis innvilges, skal kommunen oppdatere Mattilsynets autorisasjonsregister for brukere av plantevernmidler. Mattilsynet sender deretter ut autorisasjonsbeviset.
 
-Eksempler på hva som kan være yrkesmessig behov, jf. [plantevernmiddelforskriften § 8](forskrift/2015-05-06-455/§8), annet ledd, bokstav b) (listen er ikke uttømmende):eiere og ansatte i jordbruks- og skogbruksforetak og i planteskoler og gartnerieranleggsgartnere og ansatte i anleggsgartnervirksomheterbarn/ektefelle/samboer/kårfolk som er involvert i gårdsdriftpersoner som håndterer beisemidler for korn, såfrø mv.forhandlere og ekspeditører som selger plantevernmidleransatte og studenter ved forskningsinstitusjoner og laboratorier som benytter plantevernmidleransatte i landbruksrådgivningenundervisningspersonell ved fagskoler som underviser i plantevernpersonell med ansvar for samferdselsanlegg eller større grøntanlegg/fellesarealer som ikke er barns lekearealergreenkeepere på golfanlegglandbruksentreprenører som skal benytte plantevernmidler.
+Eksempler på hva som kan være yrkesmessig behov, jf. [plantevernmiddelforskriften § 8](forskrift/2015-05-06-455/§8), annet ledd, bokstav b) (listen er ikke uttømmende):
+
+- eiere og ansatte i jordbruks- og skogbruksforetak og i planteskoler og gartnerier
+- anleggsgartnere og ansatte i anleggsgartnervirksomheter
+- barn/ektefelle/samboer/kårfolk som er involvert i gårdsdrift
+- personer som håndterer beisemidler for korn, såfrø mv.
+- forhandlere og ekspeditører som selger plantevernmidler
+- ansatte og studenter ved forskningsinstitusjoner og laboratorier som benytter plantevernmidler
+- ansatte i landbruksrådgivningen
+- undervisningspersonell ved fagskoler som underviser i plantevern
+- personell med ansvar for samferdselsanlegg eller større grøntanlegg/fellesarealer som ikke er barns lekearealer
+- greenkeepere på golfanlegg
+- landbruksentreprenører som skal benytte plantevernmidler.
 
 Kommunen skal oppdatere Mattilsynets autorisasjonsregister for brukere av gnagermidler, jf. [plantevernmiddelforskriften § 8a](forskrift/2015-05-06-455/§8a), når en autorisasjonsinnehaver har gått på kurs i gnagerbekjempelse, har bestått eksamen, og oppfyller vilkårene for å kunne utføre slik bekjempelse jf. [plantevernmiddelforskriften § 8a](forskrift/2015-05-06-455/§8a) Mattilsynet sender deretter ut tilleggsautorisasjonen.
 
@@ -118,7 +138,17 @@ Ved vurdering av om de øvrige vilkårene i [plantevernmiddelforskriftens § 17]
 
 Kommunen skal fatte vedtak innen 15. mars året etter at søknaden ble mottatt. Kopi av vedtaket skal sendes statsforvalterens miljøvernavdeling og Mattilsynet.
 
-I saker hvor det gis tillatelse til spredning fra helikopter skal vedtaket gjengi kravene i [plantevernmiddelforskriften § 17](forskrift/2015-05-06-455/§17), [§ 20](forskrift/2015-05-06-455/§20) første ledd, tredje punktum og [§ 23](forskrift/2015-05-06-455/§23) bokstav a) og b). I tillegg skal følgende vilkår gjengis i vedtaket, unntatt de som ikke passer i den enkelte sak:Spredefeltets ytterkanter skal merkes slik at de er lett synlige for den som utfører arbeidet.Oppdraget skal ikke utføres når vindstyrken er over 5 meter pr. sekund målt 2 meter over bakken i åpent lende.Ved spredning av plantevernmidler i ungskogfelt skal det vises viltbiologiske og landskapsmessige hensyn spesielt mot myr, vassdrag og større ferdselsårer.Spredningen på feltet skal utføres slik at noe av lauvvegetasjonen blir stående igjen.Landingsplass for helikopter skal så vidt mulig legges slik i forhold til feltet at overflyging av bebyggelse, dyrket mark, drikkevannskilder og innsjøer unngås.Arbeidstrykket ved dysene på spredebommen på helikopteret skal ikke være over 2,5 bar under spredning, og spredeutstyret må for øvrig fungere slik det skal.De som skal utføre spredningen plikter å utføre internkontroll.Før behandling skal man fly over feltet for å kontrollere at markeringen av feltets yttergrenser er lett synlig fra luftfartøyet.Den som utfører oppdraget skal føre sprøytejournal for oppdraget med følgende informasjon: oppdragsgiverens navn og adresse, dato for utført spredning, arealstørrelse, plantevernmiddelets handelsnavn, anvendt totalmengde av handelspreparatet, lufttemperatur, vindretning og vindhastighet under spredningen. Journalen skal oppbevares i 10 år.
+I saker hvor det gis tillatelse til spredning fra helikopter skal vedtaket gjengi kravene i [plantevernmiddelforskriften § 17](forskrift/2015-05-06-455/§17), [§ 20](forskrift/2015-05-06-455/§20) første ledd, tredje punktum og [§ 23](forskrift/2015-05-06-455/§23) bokstav a) og b). I tillegg skal følgende vilkår gjengis i vedtaket, unntatt de som ikke passer i den enkelte sak:
+
+1. Spredefeltets ytterkanter skal merkes slik at de er lett synlige for den som utfører arbeidet.
+2. Oppdraget skal ikke utføres når vindstyrken er over 5 meter pr. sekund målt 2 meter over bakken i åpent lende.
+3. Ved spredning av plantevernmidler i ungskogfelt skal det vises viltbiologiske og landskapsmessige hensyn spesielt mot myr, vassdrag og større ferdselsårer.
+4. Spredningen på feltet skal utføres slik at noe av lauvvegetasjonen blir stående igjen.
+5. Landingsplass for helikopter skal så vidt mulig legges slik i forhold til feltet at overflyging av bebyggelse, dyrket mark, drikkevannskilder og innsjøer unngås.
+6. Arbeidstrykket ved dysene på spredebommen på helikopteret skal ikke være over 2,5 bar under spredning, og spredeutstyret må for øvrig fungere slik det skal.
+7. De som skal utføre spredningen plikter å utføre internkontroll.
+8. Før behandling skal man fly over feltet for å kontrollere at markeringen av feltets yttergrenser er lett synlig fra luftfartøyet.
+9. Den som utfører oppdraget skal føre sprøytejournal for oppdraget med følgende informasjon: oppdragsgiverens navn og adresse, dato for utført spredning, arealstørrelse, plantevernmiddelets handelsnavn, anvendt totalmengde av handelspreparatet, lufttemperatur, vindretning og vindhastighet under spredningen. Journalen skal oppbevares i 10 år.
 
 Kommunen kan i tillegg sette egne, faglig berettigete vilkår. Dessuten skal vedtaket fastsette en frist for gjennomføring av oppdraget, før det eventuelt må søkes på nytt.
 
@@ -174,17 +204,52 @@ Denne instruks trer i kraft 1. juni 2015. Samtidig oppheves instruks [5. oktober
 
 ### A1 grunnkurs
 
-Grunnkurset består av:Teoretisk del (12 timer) som gjennomføres enten som:kurs med lærer – fysisk oppmøte, ellerkurs med lærer – webinarObligatorisk praksisdag med fysisk oppmøte (7 timer) som fordeles på følgende emner:plantevernmidler som helserisiko (1,5 timer)verneutstyr (1 time)sprøyteutstyr, innstilling og bruk (2 timer)demonstrasjon/øvelse i sprøyteutstyr, innstilling og bruk, sjekkliste og verneutstyr (2,5 timer)Det kan ikke være flere enn 30–35 kursdeltakere på denne delen av kurset.Eksamen – fysisk oppmøte (1 time)Tillatte hjelpemidler: kalkulator.
+Grunnkurset består av:
+
+1. Teoretisk del (12 timer) som gjennomføres enten som:
+
+   1. kurs med lærer – fysisk oppmøte, eller
+   2. kurs med lærer – webinar
+2. Obligatorisk praksisdag med fysisk oppmøte (7 timer) som fordeles på følgende emner:
+
+   1. plantevernmidler som helserisiko (1,5 timer)
+   2. verneutstyr (1 time)
+   3. sprøyteutstyr, innstilling og bruk (2 timer)
+   4. demonstrasjon/øvelse i sprøyteutstyr, innstilling og bruk, sjekkliste og verneutstyr (2,5 timer)
+
+   Det kan ikke være flere enn 30–35 kursdeltakere på denne delen av kurset.
+3. Eksamen – fysisk oppmøte (1 time)
+
+   - Tillatte hjelpemidler: kalkulator.
 
 ### A2 fornyingskurs
 
-Fornyingskurset består av:Obligatorisk teorikurs (minimum 7 timer) som gjennomføres enten som:kurs med lærer – fysisk oppmøte, ellerkurs med lærer – webinarTeorikurset fordeles på følgende emner:integrert plantevern (2,5 timer)godkjenning og bruk av plantevernmidler med hovedvekt på regelverket og etiketten (2 timer)plantevernmidler – helse og miljø med hovedvekt på konsekvenser ved bruk av plantevernmidler for forbruker, miljø og bruker av plantevernmidler (2 timer)sprøyteutstyr, innstilling og bruk (0,5 timer)Eksamen – fysisk oppmøte (1 time)Tillatte hjelpemidler: kalkulator, kursmateriell og notater.
+Fornyingskurset består av:
+
+1. Obligatorisk teorikurs (minimum 7 timer) som gjennomføres enten som:
+
+   1. kurs med lærer – fysisk oppmøte, eller
+   2. kurs med lærer – webinar
+
+   Teorikurset fordeles på følgende emner:
+
+   1. integrert plantevern (2,5 timer)
+   2. godkjenning og bruk av plantevernmidler med hovedvekt på regelverket og etiketten (2 timer)
+   3. plantevernmidler – helse og miljø med hovedvekt på konsekvenser ved bruk av plantevernmidler for forbruker, miljø og bruker av plantevernmidler (2 timer)
+   4. sprøyteutstyr, innstilling og bruk (0,5 timer)
+2. Eksamen – fysisk oppmøte (1 time)
+
+   - Tillatte hjelpemidler: kalkulator, kursmateriell og notater.
 
 ### B – opplæringsemner autorisasjonskurs
 
 1. All relevant lovgivning vedrørende plantevernmidler og deres bruk.
 2. Forekomsten av og risikoen ved ulovlige (falske) plantevernmidler og metoder for å identifisere slike produkter.
-3. Farer og risiko forbundet med plantevernmidler, og hvordan de kan identifiseres og kontrolleres, særlig:risiko for mennesker (operatører, beboere, tilstedeværende, personer som entrer behandlede områder, og personer som håndterer eller inntar behandlede produkter) og hvordan faktorer som røyking forverrer slik risiko,symptomer på forgiftning fra plantevernmidler, og førstehjelpstiltak,risiko for planter utenfor målgruppen, nytteinsekter, ville dyr og planter, biologisk mangfold og miljøet generelt.
+3. Farer og risiko forbundet med plantevernmidler, og hvordan de kan identifiseres og kontrolleres, særlig:
+
+   1. risiko for mennesker (operatører, beboere, tilstedeværende, personer som entrer behandlede områder, og personer som håndterer eller inntar behandlede produkter) og hvordan faktorer som røyking forverrer slik risiko,
+   2. symptomer på forgiftning fra plantevernmidler, og førstehjelpstiltak,
+   3. risiko for planter utenfor målgruppen, nytteinsekter, ville dyr og planter, biologisk mangfold og miljøet generelt.
 4. Basiskunnskap om strategier og teknikker for integrert plantevern, prinsipper for økologisk landbruk, biologiske metoder for bekjempelse av skadegjørere, informasjon og generelle prinsipper og avlings- eller sektorspesifikke retningslinjer for integrert plantevern.
 5. Innføring i sammenlignende vurdering på brukerplan for å hjelpe yrkesbrukere med å velge de plantevernmidler som har færrest bivirkninger på menneskers helse, organismer utenfor målgruppen og miljøet blant alle godkjente produkter for en gitt skadegjører i en gitt situasjon.
 6. Tiltak for å redusere risikoene for mennesker, organismer utenfor målgruppen og miljøet til et minimum: sikre arbeidsmetoder for lagring, håndtering og blanding av plantevernmidler, og disponering av tom emballasje, andre forurensede materialer og overskudd av plantevernmidler (herunder tankblandinger), enten i konsentrert eller fortynnet form, den anbefalte måten å kontrollere eksponering av operatører på (personlig verneutstyr).
@@ -200,8 +265,25 @@ Fornyingskurset består av:Obligatorisk teorikurs (minimum 7 timer) som gjennomf
 
 ### A opplegg og gjennomføring av kurs i gnagerbekjempelse
 
-Kurset består av:Obligatorisk teorikurs (minimum 5 timer) som gjennomføres enten somkurs med lærer – fysisk oppmøte, ellerkurs med lærer – webinarEksamen – fysisk oppmøte (1 time)Ingen hjelpemidler tillatt.
+Kurset består av:
+
+1. Obligatorisk teorikurs (minimum 5 timer) som gjennomføres enten som
+
+   1. kurs med lærer – fysisk oppmøte, eller
+   2. kurs med lærer – webinar
+2. Eksamen – fysisk oppmøte (1 time)
+
+   - Ingen hjelpemidler tillatt.
 
 ### B – opplæringsemner kurs i gnagerbekjempelse
 
-Kursene skal ha opplæring i følgende temaer:Sammenhengen mellom plantevernmiddelregelverket og tilleggsbevis gnagermidlerSkadedyrforskriften og annet relevant regelverk (inkl. dyrevelferd)GnagerbiologiForebyggingIntegrert skadedyrkontrollMekaniske feller, inkludert våndbekjempelseRodenticider, toksikologi og åtestasjonerMiljøvennlig bekjempelse.
+Kursene skal ha opplæring i følgende temaer:
+
+1. Sammenhengen mellom plantevernmiddelregelverket og tilleggsbevis gnagermidler
+2. Skadedyrforskriften og annet relevant regelverk (inkl. dyrevelferd)
+3. Gnagerbiologi
+4. Forebygging
+5. Integrert skadedyrkontroll
+6. Mekaniske feller, inkludert våndbekjempelse
+7. Rodenticider, toksikologi og åtestasjoner
+8. Miljøvennlig bekjempelse.

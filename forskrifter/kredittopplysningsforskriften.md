@@ -32,21 +32,81 @@ Datatilsynet kan ved enkeltvedtak gi dispensasjon fra de enkelte bestemmelsene i
 
 I kredittopplysningsvirksomhet kan det registreres og behandles opplysninger om fysiske personer som nevnt i denne bestemmelsen.
 
-Grunndata:navnfolkeregistrert adresse og eventuell sekundæradressetelefonnummer registrert hos offentlig tilgjengelig opplysningstjenesteøvrige kontaktopplysninger etter samtykke fra den registrertefødselsnummerd-nummerstatus om fysiske personer angitt i Folkeregisteretorganisasjonsnummer for enkeltpersonforetak den fysiske person er innehaver avoffentlig tilgjengelige grunndata om enkeltpersonforetak, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6).
+Grunndata:
 
-Kredittopplysninger fra offentlig tilgjengelige kilder:opplysninger om tvangsforretninger i fast eiendom eller løsørefrivillige heftelser i fast eiendom og løsøreskattefastsettingrettskraftige dommeropplysninger om utleggstrekk, jf. [tvangsfullbyrdelsesloven § 7-21](lov/1992-06-26-86/§7-21), samt opplysninger om «intet til utlegg», jf. [tvangsfullbyrdelsesloven § 7-25](lov/1992-06-26-86/§7-25) og [§ 7-29](lov/1992-06-26-86/§7-29)registrert gjeldsordning, jf. [gjeldsordningsloven § 7-1](lov/1992-07-17-99/§7-1)konkurs- og akkordopplysningerkonkurskarantenenæringsinteresseråpning av gjeldsforhandling, jf. [gjeldsordningsloven § 7-1](lov/1992-07-17-99/§7-1)opplysning om at en person er under vergemål, jf. [vergemålsloven § 1](lov/2010-03-26-9/§1)opplysninger om eierskap i fast eiendom og motorvogn.
+1. navn
+2. folkeregistrert adresse og eventuell sekundæradresse
+3. telefonnummer registrert hos offentlig tilgjengelig opplysningstjeneste
+4. øvrige kontaktopplysninger etter samtykke fra den registrerte
+5. fødselsnummer
+6. d-nummer
+7. status om fysiske personer angitt i Folkeregisteret
+8. organisasjonsnummer for enkeltpersonforetak den fysiske person er innehaver av
+9. offentlig tilgjengelige grunndata om enkeltpersonforetak, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6).
 
-Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:betalingsanmerkningerkredittscorefrivillig registrering av sperre mot kredittvurderingkredittrating av enkeltpersonforetak.
+Kredittopplysninger fra offentlig tilgjengelige kilder:
+
+1. opplysninger om tvangsforretninger i fast eiendom eller løsøre
+2. frivillige heftelser i fast eiendom og løsøre
+3. skattefastsetting
+4. rettskraftige dommer
+5. opplysninger om utleggstrekk, jf. [tvangsfullbyrdelsesloven § 7-21](lov/1992-06-26-86/§7-21), samt opplysninger om «intet til utlegg», jf. [tvangsfullbyrdelsesloven § 7-25](lov/1992-06-26-86/§7-25) og [§ 7-29](lov/1992-06-26-86/§7-29)
+6. registrert gjeldsordning, jf. [gjeldsordningsloven § 7-1](lov/1992-07-17-99/§7-1)
+7. konkurs- og akkordopplysninger
+8. konkurskarantene
+9. næringsinteresser
+10. åpning av gjeldsforhandling, jf. [gjeldsordningsloven § 7-1](lov/1992-07-17-99/§7-1)
+11. opplysning om at en person er under vergemål, jf. [vergemålsloven § 1](lov/2010-03-26-9/§1)
+12. opplysninger om eierskap i fast eiendom og motorvogn.
+
+Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:
+
+1. betalingsanmerkninger
+2. kredittscore
+3. frivillig registrering av sperre mot kredittvurdering
+4. kredittrating av enkeltpersonforetak.
 
 ## § 3. Opplysninger om juridiske personer som kan behandles i kredittopplysningsvirksomhet
 
 I kredittopplysningsvirksomhet kan det registreres og behandles opplysninger om juridiske personer som nevnt i denne bestemmelsen.
 
-Grunndata:firmanavn og adressetelefonnummer registrert hos offentlig tilgjengelig opplysningstjenesteøvrige kontaktopplysningerorganisasjonsnummerbransjekodeoffentlig tilgjengelige grunndata om den juridiske personen, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6), innhentet fra Brønnøysundregistrene, eller fra den registrerte selvantall ansattestatus om foretaket.
+Grunndata:
 
-Kredittopplysninger fra offentlig tilgjengelige kilder:opplysninger om tvangsforretninger i fast eiendom eller løsørefrivillige heftelser i fast eiendom og løsøreskattefastsettingrettskraftige dommerkonkurs- og akkordopplysningerkonkurskaranteneårsoppgjørselskapskapital og innbetalingsforholdaktuelle hendelser av faktisk og økonomisk karakter som åpenbart er av betydningopplysninger om eierskap i fast eiendom og motorvogn.
+1. firmanavn og adresse
+2. telefonnummer registrert hos offentlig tilgjengelig opplysningstjeneste
+3. øvrige kontaktopplysninger
+4. organisasjonsnummer
+5. bransjekode
+6. offentlig tilgjengelige grunndata om den juridiske personen, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) og [§ 6](lov/1994-06-03-15/§6), innhentet fra Brønnøysundregistrene, eller fra den registrerte selv
+7. antall ansatte
+8. status om foretaket.
 
-Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:betalingsanmerkningernøkkeltall fra regnskapenekredittkonklusjon med kredittkommentarerkredittgrensekredittratinghistorisk kredittratingkredittrating av datterselskapbank- og forsikringsforbindelseinformasjon om betalte fakturaerkredittvurderingenfrivillig registrering av sperre mot kredittvurdering.
+Kredittopplysninger fra offentlig tilgjengelige kilder:
+
+1. opplysninger om tvangsforretninger i fast eiendom eller løsøre
+2. frivillige heftelser i fast eiendom og løsøre
+3. skattefastsetting
+4. rettskraftige dommer
+5. konkurs- og akkordopplysninger
+6. konkurskarantene
+7. årsoppgjør
+8. selskapskapital og innbetalingsforhold
+9. aktuelle hendelser av faktisk og økonomisk karakter som åpenbart er av betydning
+10. opplysninger om eierskap i fast eiendom og motorvogn.
+
+Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:
+
+1. betalingsanmerkninger
+2. nøkkeltall fra regnskapene
+3. kredittkonklusjon med kredittkommentarer
+4. kredittgrense
+5. kredittrating
+6. historisk kredittrating
+7. kredittrating av datterselskap
+8. bank- og forsikringsforbindelse
+9. informasjon om betalte fakturaer
+10. kredittvurderingen
+11. frivillig registrering av sperre mot kredittvurdering.
 
 ## § 4. Kilder opplysninger kan hentes fra
 

@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Formål
 
-Denne forskriften skal:bidra til at markedet får virke før, under og etter iverksettelse av kraftrasjonering.bidra til at valg og bruk av virkemidler og tiltak for håndtering av energiknapphet er planlagte, forholdsmessige og i størst mulig grad brukes ut fra markedsmessige prinsipper.legge til rette for at rasjoneringsmyndigheten og systemansvarlig sørger for at valg av type, rekkefølge og omfang av virkemidler og tiltak skjer etter en helhetlig vurdering av kraftsituasjonen.bidra til at kraftrasjonering unngås.bidra til at kraftrasjonering blir gjennomført på en samfunnsmessig rasjonell måte, slik at energien blir best mulig utnyttet ut fra hensynet til allmenne og private interesser.bidra til involvering av og samarbeid mellom relevante myndigheter og aktører.
+Denne forskriften skal:
+
+1. bidra til at markedet får virke før, under og etter iverksettelse av kraftrasjonering.
+2. bidra til at valg og bruk av virkemidler og tiltak for håndtering av energiknapphet er planlagte, forholdsmessige og i størst mulig grad brukes ut fra markedsmessige prinsipper.
+3. legge til rette for at rasjoneringsmyndigheten og systemansvarlig sørger for at valg av type, rekkefølge og omfang av virkemidler og tiltak skjer etter en helhetlig vurdering av kraftsituasjonen.
+4. bidra til at kraftrasjonering unngås.
+5. bidra til at kraftrasjonering blir gjennomført på en samfunnsmessig rasjonell måte, slik at energien blir best mulig utnyttet ut fra hensynet til allmenne og private interesser.
+6. bidra til involvering av og samarbeid mellom relevante myndigheter og aktører.
 
 ### § 2. Virkeområde
 
@@ -34,23 +41,48 @@ Denne forskriften gjelder planlegging for, og håndtering av, situasjoner med en
 
 ### § 3. Hvem forskriften gjelder for
 
-Denne forskriften gjelder for:den som i medhold av [energiloven § 6-2](lov/1990-06-29-50/§6-2) annet ledd er utpekt som rasjoneringsmyndighet.den som i medhold av [energiloven § 6-1](lov/1990-06-29-50/§6-1) annet ledd er tildelt myndigheten til å utøve systemansvaret.den som omfattes av definisjonen av nettselskap i [§ 4](forskrift/2023-12-19-2161/§4).den som i medhold av [kraftberedskapsforskriften § 3-4](forskrift/2012-12-07-1157/§3-4), jf. [§ 2-1](forskrift/2012-12-07-1157/§2-1), er utpekt som KDS (kraftforsyningens distriktssjefer).den som omfattes av definisjonen kraftprodusent i [§ 4](forskrift/2023-12-19-2161/§4).statsforvalter.
+Denne forskriften gjelder for:
+
+1. den som i medhold av [energiloven § 6-2](lov/1990-06-29-50/§6-2) annet ledd er utpekt som rasjoneringsmyndighet.
+2. den som i medhold av [energiloven § 6-1](lov/1990-06-29-50/§6-1) annet ledd er tildelt myndigheten til å utøve systemansvaret.
+3. den som omfattes av definisjonen av nettselskap i [§ 4](forskrift/2023-12-19-2161/§4).
+4. den som i medhold av [kraftberedskapsforskriften § 3-4](forskrift/2012-12-07-1157/§3-4), jf. [§ 2-1](forskrift/2012-12-07-1157/§2-1), er utpekt som KDS (kraftforsyningens distriktssjefer).
+5. den som omfattes av definisjonen kraftprodusent i [§ 4](forskrift/2023-12-19-2161/§4).
+6. statsforvalter.
 
 ### § 4. Definisjoner
 
-I denne forskriften menes med:*Energi:* elektrisk energi.*Kraftprodusent:* den som driver produksjon av elektrisk energi i medhold av konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1).*Nettselskap:* virksomhet omfattet av [kraftberedskapsforskriften § 2-1](forskrift/2012-12-07-1157/§2-1) og som har områdekonsesjon etter [energiloven § 3-2](lov/1990-06-29-50/§3-2), og som også forsyner andre sluttbrukere.*Sluttbruker:* Kjøper av elektrisk energi som ikke selger denne videre.
+I denne forskriften menes med:
+
+- *Energi:* elektrisk energi.
+- *Kraftprodusent:* den som driver produksjon av elektrisk energi i medhold av konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1).
+- *Nettselskap:* virksomhet omfattet av [kraftberedskapsforskriften § 2-1](forskrift/2012-12-07-1157/§2-1) og som har områdekonsesjon etter [energiloven § 3-2](lov/1990-06-29-50/§3-2), og som også forsyner andre sluttbrukere.
+- *Sluttbruker:* Kjøper av elektrisk energi som ikke selger denne videre.
 
 ## Kapittel 2. Ansvar og myndighet
 
 ### § 5. Rasjoneringsmyndighetens ansvar og oppgaver
 
-Rasjoneringsmyndigheten skal:utføre oppgaver etter [energiloven § 6-2](lov/1990-06-29-50/§6-2) og [energilovforskriften § 6-2a](forskrift/1990-12-07-959/§6-2a) og etter denne forskriften.sørge for nødvendig samordning av vurderinger av kraftsituasjonen og behovet for tiltak med systemansvarlig.i samarbeid med departementet, informere allmenheten om forhold knyttet til den aktuelle kraftsituasjonen.til enhver tid ha planer for å kunne gi informasjon etter bokstav c.påse at nettselskap har rasjoneringsplaner i henhold til denne forskriften.
+Rasjoneringsmyndigheten skal:
+
+1. utføre oppgaver etter [energiloven § 6-2](lov/1990-06-29-50/§6-2) og [energilovforskriften § 6-2a](forskrift/1990-12-07-959/§6-2a) og etter denne forskriften.
+2. sørge for nødvendig samordning av vurderinger av kraftsituasjonen og behovet for tiltak med systemansvarlig.
+3. i samarbeid med departementet, informere allmenheten om forhold knyttet til den aktuelle kraftsituasjonen.
+4. til enhver tid ha planer for å kunne gi informasjon etter bokstav c.
+5. påse at nettselskap har rasjoneringsplaner i henhold til denne forskriften.
 
 > Endret ved forskrift [20 juni 2024 nr. 1306](forskrift/2024-06-20-1306) (i kraft 1 juli 2024).
 
 ### § 6. Den systemansvarliges ansvar og oppgaver
 
-Systemansvarlig skal:bistå rasjoneringsmyndigheten i forbindelse med innhenting og vurdering av informasjon etter [§ 11](forskrift/2023-12-19-2161/§11).orientere rasjoneringsmyndigheten når det vurderes eller innføres virkemidler og tiltak, som kan påvirke kraftsituasjonen, men som ikke krever godkjenning etter [§ 13](forskrift/2023-12-19-2161/§13).koordinere ekstern informasjon sammen med rasjoneringsmyndigheten i situasjoner med energiknapphet og kraftrasjonering.etter anmodning fra rasjoneringsmyndigheten bistå ved planlegging og bruk av virkemidler og tiltak for å håndtere energiknapphet eller kraftrasjonering.Utrede og utvikle særskilte virkemidler og tiltak for å håndtere perioder med energiknapphet etter [§ 13](forskrift/2023-12-19-2161/§13).vurdere om det er behov for å ta i bruk virkemidler og tiltak eller iverksette kraftrasjonering, og etter anmodning fra rasjoneringsmyndigheten bistå med å vurdere kraftsituasjonen.
+Systemansvarlig skal:
+
+1. bistå rasjoneringsmyndigheten i forbindelse med innhenting og vurdering av informasjon etter [§ 11](forskrift/2023-12-19-2161/§11).
+2. orientere rasjoneringsmyndigheten når det vurderes eller innføres virkemidler og tiltak, som kan påvirke kraftsituasjonen, men som ikke krever godkjenning etter [§ 13](forskrift/2023-12-19-2161/§13).
+3. koordinere ekstern informasjon sammen med rasjoneringsmyndigheten i situasjoner med energiknapphet og kraftrasjonering.
+4. etter anmodning fra rasjoneringsmyndigheten bistå ved planlegging og bruk av virkemidler og tiltak for å håndtere energiknapphet eller kraftrasjonering.
+5. Utrede og utvikle særskilte virkemidler og tiltak for å håndtere perioder med energiknapphet etter [§ 13](forskrift/2023-12-19-2161/§13).
+6. vurdere om det er behov for å ta i bruk virkemidler og tiltak eller iverksette kraftrasjonering, og etter anmodning fra rasjoneringsmyndigheten bistå med å vurdere kraftsituasjonen.
 
 ### § 7. Utveksling av informasjon mellom rasjoneringsmyndigheten og reguleringsmyndigheten for energi
 
@@ -74,7 +106,10 @@ I samsvar med [energilovforskriften § 6-2a](forskrift/1990-12-07-959/§6-2a) sk
 
 I samsvar med [energilovforskriften § 6-2a](forskrift/1990-12-07-959/§6-2a) skal rasjoneringsmyndigheten legge til rette for at markedet kan virke så lenge som mulig og i så stor utstrekning som mulig. Det skal legges til rette for at markedsmessige virkemidler benyttes før, under og etter iverksettelse av kraftrasjonering.
 
-Rasjoneringsmyndigheten skal i valg av type virkemiddel og tiltak, samt rekkefølge for disse vurdere:hva som i den konkrete situasjonen bidrar til å håndtere energiknapphet og kraftrasjonering på best mulig måte, oghva som er minst inngripende.
+Rasjoneringsmyndigheten skal i valg av type virkemiddel og tiltak, samt rekkefølge for disse vurdere:
+
+1. hva som i den konkrete situasjonen bidrar til å håndtere energiknapphet og kraftrasjonering på best mulig måte, og
+2. hva som er minst inngripende.
 
 Valg av virkemidler og tiltak skal så langt som mulig bidra til at kraftrasjonering unngås, og at kraftrasjonering varer så kort som mulig.
 
@@ -130,13 +165,24 @@ Rasjoneringsplaner skal inneholde alle elementer fastsatt i [§ 19](forskrift/20
 
 Nettselskapene skal be statsforvalter om å bidra med nødvendig informasjon om sluttbrukere for utarbeidelse av rasjoneringsplaner.
 
-Statsforvalter bør:innhente nødvendig informasjon for fordeling av energi fra relevante myndigheter og private aktører.bidra til at innhentet informasjon etter bokstav a gir best mulig grunnlag for nettselskapets utarbeidelse av rasjoneringsplaner.bistå med samordning av rasjoneringsplaner, jf. denne forskriften [§ 20](forskrift/2023-12-19-2161/§20) og [§ 21](forskrift/2023-12-19-2161/§21).
+Statsforvalter bør:
+
+1. innhente nødvendig informasjon for fordeling av energi fra relevante myndigheter og private aktører.
+2. bidra til at innhentet informasjon etter bokstav a gir best mulig grunnlag for nettselskapets utarbeidelse av rasjoneringsplaner.
+3. bistå med samordning av rasjoneringsplaner, jf. denne forskriften [§ 20](forskrift/2023-12-19-2161/§20) og [§ 21](forskrift/2023-12-19-2161/§21).
 
 KDS skal utføre sine oppgaver i tråd med den avtale som er inngått med NVE og i årlige forventningsbrev i medhold av [kraftberedskapsforskriften § 3-4](forskrift/2012-12-07-1157/§3-4).
 
 ### § 19. Innhold i nettselskapenes rasjoneringsplaner
 
-Nettselskapenes rasjoneringsplaner skal inneholde følgende elementer:Plan for organisering av nettselskapets interne beredskap og vaktordninger ved gjennomføring av kraftrasjonering. Planen bør ta hensyn til beredskap for feilretting.Plan for informasjonshåndtering knyttet til gjennomføring av kraftrasjonering. Dette skal omfatte både informasjon til sluttbrukerne, statsforvalteren, kommuner, kritiske samfunnsfunksjoner, media og rasjoneringsmyndigheten, samt plan for informasjon internt i egen organisasjon. Planen skal også beskrive hvordan henvendelser fra de ulike aktørene nevnt over skal håndteres.Plan for samarbeid med KDS, statsforvalteren, kommuner, kritiske samfunnsfunksjoner og andre viktige aktører ved planlegging og gjennomføring av kraftrasjonering.Oversikt over sluttbrukere innenfor eget område som skal omfattes av plan for fordeling av energi under kvoterasjonering.Plan for gjennomføring av kvoterasjonering. Denne skal inkludere hvordan nettselskapet skal kunne redusere samlet overføring til sine sluttbrukere med henholdsvis 10, 30 og 50 prosent sammenlignet med et representativt forbruksnivå. Nettselskapene må også planlegge for at rasjoneringsmyndigheten kan vedta andre satser for kvoterasjonering.Oversikt over forventet forbruksreduksjon etter bokstav e.
+Nettselskapenes rasjoneringsplaner skal inneholde følgende elementer:
+
+1. Plan for organisering av nettselskapets interne beredskap og vaktordninger ved gjennomføring av kraftrasjonering. Planen bør ta hensyn til beredskap for feilretting.
+2. Plan for informasjonshåndtering knyttet til gjennomføring av kraftrasjonering. Dette skal omfatte både informasjon til sluttbrukerne, statsforvalteren, kommuner, kritiske samfunnsfunksjoner, media og rasjoneringsmyndigheten, samt plan for informasjon internt i egen organisasjon. Planen skal også beskrive hvordan henvendelser fra de ulike aktørene nevnt over skal håndteres.
+3. Plan for samarbeid med KDS, statsforvalteren, kommuner, kritiske samfunnsfunksjoner og andre viktige aktører ved planlegging og gjennomføring av kraftrasjonering.
+4. Oversikt over sluttbrukere innenfor eget område som skal omfattes av plan for fordeling av energi under kvoterasjonering.
+5. Plan for gjennomføring av kvoterasjonering. Denne skal inkludere hvordan nettselskapet skal kunne redusere samlet overføring til sine sluttbrukere med henholdsvis 10, 30 og 50 prosent sammenlignet med et representativt forbruksnivå. Nettselskapene må også planlegge for at rasjoneringsmyndigheten kan vedta andre satser for kvoterasjonering.
+6. Oversikt over forventet forbruksreduksjon etter bokstav e.
 
 ### § 20. Plikt til samordning av rasjoneringsplaner
 

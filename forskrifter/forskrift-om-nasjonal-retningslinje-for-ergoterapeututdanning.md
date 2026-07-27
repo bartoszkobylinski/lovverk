@@ -42,7 +42,14 @@ Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for li
 
 ### § 3. Kompetanseområder
 
-Ergoterapeututdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1484/kap2) til [7](forskrift/2025-07-04-1484/kap7) under følgende kompetanseområder:Aktivitet og deltakelse i hverdagslivetErgoterapeutisk profesjonsutøvelseRehabilitering, habilitering og behandlingTilgjengelighet, teknologi og tilretteleggingInkludering, deltakelse og tilhørighetInnovasjon, fagutvikling og ledelse.
+Ergoterapeututdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1484/kap2) til [7](forskrift/2025-07-04-1484/kap7) under følgende kompetanseområder:
+
+- Aktivitet og deltakelse i hverdagslivet
+- Ergoterapeutisk profesjonsutøvelse
+- Rehabilitering, habilitering og behandling
+- Tilgjengelighet, teknologi og tilrettelegging
+- Inkludering, deltakelse og tilhørighet
+- Innovasjon, fagutvikling og ledelse.
 
 Læringsutbyttebeskrivelsene i [§ 7](forskrift/2025-07-04-1484/§7) b og d, [§ 8](forskrift/2025-07-04-1484/§8) a og b, [§ 9](forskrift/2025-07-04-1484/§9) b–d, [§ 11](forskrift/2025-07-04-1484/§11) b, [§ 12](forskrift/2025-07-04-1484/§12) a og b, [§ 14](forskrift/2025-07-04-1484/§14) c, [§ 16](forskrift/2025-07-04-1484/§16) c, d og f, [§ 17](forskrift/2025-07-04-1484/§17) e, [§ 19](forskrift/2025-07-04-1484/§19) a og b, [§ 20](forskrift/2025-07-04-1484/§20) b og [§ 21](forskrift/2025-07-04-1484/§21) a, er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -50,85 +57,164 @@ Læringsutbyttebeskrivelsene i [§ 7](forskrift/2025-07-04-1484/§7) b og d, [§
 
 ### § 4. Aktivitet og deltakelse – Kunnskap
 
-Kandidatenhar bred kunnskap om aktivitetsvitenskap og sentrale aktivitetsteorier og -modeller i ergoterapihar bred kunnskap om hvordan aktivitetsanalyse, vurdering av fysiske, psykiske, kognitive og sosiale funksjoner og meningsfull aktivitet brukes målrettet i intervensjon for å fremme mestring og selvstendighet i hverdagslivethar bred kunnskap om hvordan personers aktivitet, deltakelse og helse påvirker hverandre og inngår i samspill med omgivelsene gjennom livsløpethar bred kunnskap om forutsetninger for aktivitetsutførelsehar bred kunnskap om betydningen hverdagslivets aktiviteter, lek, læring og arbeid har for helse og identitethar kunnskap om hvordan levevaner og aktivitetsbalanse kan fremme helse og livskvalitethar kunnskap om å fremme aktiv aldring og eldres mestring av hverdagslivets aktiviteter.
+Kandidaten
+
+1. har bred kunnskap om aktivitetsvitenskap og sentrale aktivitetsteorier og -modeller i ergoterapi
+2. har bred kunnskap om hvordan aktivitetsanalyse, vurdering av fysiske, psykiske, kognitive og sosiale funksjoner og meningsfull aktivitet brukes målrettet i intervensjon for å fremme mestring og selvstendighet i hverdagslivet
+3. har bred kunnskap om hvordan personers aktivitet, deltakelse og helse påvirker hverandre og inngår i samspill med omgivelsene gjennom livsløpet
+4. har bred kunnskap om forutsetninger for aktivitetsutførelse
+5. har bred kunnskap om betydningen hverdagslivets aktiviteter, lek, læring og arbeid har for helse og identitet
+6. har kunnskap om hvordan levevaner og aktivitetsbalanse kan fremme helse og livskvalitet
+7. har kunnskap om å fremme aktiv aldring og eldres mestring av hverdagslivets aktiviteter.
 
 ### § 5. Aktivitet og deltakelse – Ferdigheter
 
-Kandidatenkan beherske aktivitetsanalyse og ergoterapeutiske arbeidsprosesser gjennom kartlegging og intervensjonerkan beherske aktivitetsbaserte kartleggings- og undersøkelsesredskaperkan anvende aktiviteter metodisk for å fremme aktivitetsutførelsekan anvende faglig kunnskap om å tilpasse aktiviteter for å utvikle eller vedlikeholde ferdigheter, aktivitetsvaner og aktivitetsrollerkan anvende faglig kunnskap for å engasjere og involvere personer i hverdagslivets aktiviteter.
+Kandidaten
+
+1. kan beherske aktivitetsanalyse og ergoterapeutiske arbeidsprosesser gjennom kartlegging og intervensjoner
+2. kan beherske aktivitetsbaserte kartleggings- og undersøkelsesredskaper
+3. kan anvende aktiviteter metodisk for å fremme aktivitetsutførelse
+4. kan anvende faglig kunnskap om å tilpasse aktiviteter for å utvikle eller vedlikeholde ferdigheter, aktivitetsvaner og aktivitetsroller
+5. kan anvende faglig kunnskap for å engasjere og involvere personer i hverdagslivets aktiviteter.
 
 ### § 6. Aktivitet og deltakelse – Generell kompetanse
 
-Kandidatenkan planlegge og tilrettelegge for at personer med funksjonsnedsettelser kan delta i meningsfulle og verdsatte aktiviteter.
+Kandidaten
+
+1. kan planlegge og tilrettelegge for at personer med funksjonsnedsettelser kan delta i meningsfulle og verdsatte aktiviteter.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet ergoterapeutisk profesjonsutøvelse
 
 ### § 7. Ergoterapeutisk profesjonsutøvelse – Kunnskap
 
-Kandidatenhar bred kunnskap om ergoterapeutiske arbeidsprosesser og -metoder som fremmer aktivitet og deltakelsehar kunnskap om og holder seg oppdatert på relevant lovverk for ergoterapeutisk profesjonsutøvelsehar kunnskap om ergoterapifagets historie, utvikling, egenart og betydning i samfunnethar kunnskap om menneskerettigheter, brukermedvirkning, veiledning, kommunikasjon, etikk og relasjonsbygging.
+Kandidaten
+
+1. har bred kunnskap om ergoterapeutiske arbeidsprosesser og -metoder som fremmer aktivitet og deltakelse
+2. har kunnskap om og holder seg oppdatert på relevant lovverk for ergoterapeutisk profesjonsutøvelse
+3. har kunnskap om ergoterapifagets historie, utvikling, egenart og betydning i samfunnet
+4. har kunnskap om menneskerettigheter, brukermedvirkning, veiledning, kommunikasjon, etikk og relasjonsbygging.
 
 ### § 8. Ergoterapeutisk profesjonsutøvelse – Ferdigheter
 
-Kandidatenkan finne og henvise til lovverk som er relevant for ergoterapeutisk profesjonsutøvelsekan identifisere, reflektere over og anvende terapeutisk og etisk kompetanse i møte med brukere, pasienter, pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesserkan anvende veiledende, ressursorienterte, myndiggjørende, problemløsende og kreative strategier som fremmer aktivitet og deltakelse.
+Kandidaten
+
+1. kan finne og henvise til lovverk som er relevant for ergoterapeutisk profesjonsutøvelse
+2. kan identifisere, reflektere over og anvende terapeutisk og etisk kompetanse i møte med brukere, pasienter, pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser
+3. kan anvende veiledende, ressursorienterte, myndiggjørende, problemløsende og kreative strategier som fremmer aktivitet og deltakelse.
 
 ### § 9. Ergoterapeutisk profesjonsutøvelse – Generell kompetanse
 
-Kandidatenkan reflektere over faglige og helse- og sosialpolitiske spørsmålhar innsikt i og kan følge ergoterapeutenes yrkesetiske retningslinjer for å fremme personers rett til aktivitet og deltakelsekan formidle og dokumentere ergoterapeutisk profesjonsutøvelsekan vurdere og forebygge risiko for uønskede hendelser og kjenner til metoder for å følge dette opp systematisk.
+Kandidaten
+
+1. kan reflektere over faglige og helse- og sosialpolitiske spørsmål
+2. har innsikt i og kan følge ergoterapeutenes yrkesetiske retningslinjer for å fremme personers rett til aktivitet og deltakelse
+3. kan formidle og dokumentere ergoterapeutisk profesjonsutøvelse
+4. kan vurdere og forebygge risiko for uønskede hendelser og kjenner til metoder for å følge dette opp systematisk.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet rehabilitering, habilitering og behandling
 
 ### § 10. Rehabilitering, habilitering og behandling – Kunnskap
 
-Kandidatenhar bred kunnskap om ergoterapeuters tilnærming innen rehabilitering og habiliteringhar bred kunnskap om hvordan ergoterapeuter kan bidra til etablering og endring av vaner, rutiner og rollerhar kunnskap om hvordan overgangsfaser i livet har betydning for mestring, aktivitet og deltakelsehar kunnskap om palliativ og behandlende ergoterapi.
+Kandidaten
+
+1. har bred kunnskap om ergoterapeuters tilnærming innen rehabilitering og habilitering
+2. har bred kunnskap om hvordan ergoterapeuter kan bidra til etablering og endring av vaner, rutiner og roller
+3. har kunnskap om hvordan overgangsfaser i livet har betydning for mestring, aktivitet og deltakelse
+4. har kunnskap om palliativ og behandlende ergoterapi.
 
 ### § 11. Rehabilitering, habilitering og behandling – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap om meningsfull aktivitet i personers habilitering, rehabilitering, behandling og palliasjonkan anvende relevant faglig kunnskap om barn og unge, inklusive personers og pårørendes erfaringskompetanse, i terapeutisk samhandling.
+Kandidaten
+
+1. kan anvende faglig kunnskap om meningsfull aktivitet i personers habilitering, rehabilitering, behandling og palliasjon
+2. kan anvende relevant faglig kunnskap om barn og unge, inklusive personers og pårørendes erfaringskompetanse, i terapeutisk samhandling.
 
 ### § 12. Rehabilitering, habilitering og behandling – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre behandling eller tjenester som sikrer barn og unges medvirkning og rettigheterkan planlegge og samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandling.
+Kandidaten
+
+1. kan planlegge og gjennomføre behandling eller tjenester som sikrer barn og unges medvirkning og rettigheter
+2. kan planlegge og samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandling.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet tilgjengelighet, teknologi og tilrettelegging
 
 ### § 13. Tilgjengelighet, teknologi og tilrettelegging – Kunnskap
 
-Kandidatenhar bred kunnskap om bomiljø, universell utforming og tilrettelegging av omgivelsenehar bred kunnskap om hvordan teknologi og hjelpemidler kan fremme personers aktivitet og deltakelsehar bred kunnskap om ergonomi, tilrettelegging av arbeidsplass og sammenhenger mellom funksjonsnedsettelse, helse og arbeidsdeltakelse.
+Kandidaten
+
+1. har bred kunnskap om bomiljø, universell utforming og tilrettelegging av omgivelsene
+2. har bred kunnskap om hvordan teknologi og hjelpemidler kan fremme personers aktivitet og deltakelse
+3. har bred kunnskap om ergonomi, tilrettelegging av arbeidsplass og sammenhenger mellom funksjonsnedsettelse, helse og arbeidsdeltakelse.
 
 ### § 14. Tilgjengelighet, teknologi og tilrettelegging – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap om omgivelsenes utforming og bomiljø for å fremme selvstendighet, helse og livskvalitetkan anvende faglig kunnskap om ergonomi og tilrettelegging av arbeidsplasskan anvende digital kompetanse og kan bistå i utviklingen av, og bruke, egnet teknologi både på individ- og systemnivå. Videre skal kandidaten også ha kunnskap om digital sikkerhet.
+Kandidaten
+
+1. kan anvende faglig kunnskap om omgivelsenes utforming og bomiljø for å fremme selvstendighet, helse og livskvalitet
+2. kan anvende faglig kunnskap om ergonomi og tilrettelegging av arbeidsplass
+3. kan anvende digital kompetanse og kan bistå i utviklingen av, og bruke, egnet teknologi både på individ- og systemnivå. Videre skal kandidaten også ha kunnskap om digital sikkerhet.
 
 ### § 15. Tilgjengelighet, teknologi og tilrettelegging – Generell kompetanse
 
-Kandidatenkan utveksle synspunkter og samarbeide med andre om utvikling og bruk av velferdsteknologihar innsikt i og kan reflektere over konsekvenser av digitaliseringen.
+Kandidaten
+
+1. kan utveksle synspunkter og samarbeide med andre om utvikling og bruk av velferdsteknologi
+2. har innsikt i og kan reflektere over konsekvenser av digitaliseringen.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet inkludering, deltakelse og tilhørighet
 
 ### § 16. Inkludering, deltakelse og tilhørighet – Kunnskap
 
-Kandidatenhar bred kunnskap om inkluderende og ekskluderende forhold som påvirker deltakelse og tilhørighethar kunnskap om forsknings- og utviklingsarbeid innen ergoterapi som kan knyttes til folkehelse, helsefremmende og forebyggende arbeidhar kunnskap om og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelsehar kunnskap om hvordan sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer har konsekvenser for aktivitetsdeltakelsehar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnetkjenner til minoritetsgruppers rettigheter og aktivitetsdeltakelse, og har kunnskap om og forståelse for samers rettigheter og status som urfolkkjenner til hvordan lokale, nasjonale og globale helse- og miljøutfordringer påvirker aktivitetsmuligheter i ulike kontekster.
+Kandidaten
+
+1. har bred kunnskap om inkluderende og ekskluderende forhold som påvirker deltakelse og tilhørighet
+2. har kunnskap om forsknings- og utviklingsarbeid innen ergoterapi som kan knyttes til folkehelse, helsefremmende og forebyggende arbeid
+3. har kunnskap om og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse
+4. har kunnskap om hvordan sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer har konsekvenser for aktivitetsdeltakelse
+5. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+6. kjenner til minoritetsgruppers rettigheter og aktivitetsdeltakelse, og har kunnskap om og forståelse for samers rettigheter og status som urfolk
+7. kjenner til hvordan lokale, nasjonale og globale helse- og miljøutfordringer påvirker aktivitetsmuligheter i ulike kontekster.
 
 ### § 17. Inkludering, deltakelse og tilhørighet – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap om fysiske, psykososiale, strukturelle, digitale, kulturelle og holdningsmessige forhold for å fremme inkludering og deltakelsekan anvende faglig kunnskap om og sette inn tiltak og/eller behandling for mennesker med sosiale og helsemessige utfordringer, eller henvise videre ved behovkan reflektere over hvordan menneskerettighetene og retten til aktivitet kan sikre likeverdige tjenester for sårbare grupperkan reflektere over aktiviteters kulturelle betydning for tilhørighet i lokalsamfunnkan reflektere over sammenheng mellom helse, oppvekst, utdanning, arbeid og levekår for å bidra til utvikling av god folkehelse og arbeidsinkludering for både enkeltpersoner og grupper.
+Kandidaten
+
+1. kan anvende faglig kunnskap om fysiske, psykososiale, strukturelle, digitale, kulturelle og holdningsmessige forhold for å fremme inkludering og deltakelse
+2. kan anvende faglig kunnskap om og sette inn tiltak og/eller behandling for mennesker med sosiale og helsemessige utfordringer, eller henvise videre ved behov
+3. kan reflektere over hvordan menneskerettighetene og retten til aktivitet kan sikre likeverdige tjenester for sårbare grupper
+4. kan reflektere over aktiviteters kulturelle betydning for tilhørighet i lokalsamfunn
+5. kan reflektere over sammenheng mellom helse, oppvekst, utdanning, arbeid og levekår for å bidra til utvikling av god folkehelse og arbeidsinkludering for både enkeltpersoner og grupper.
 
 ### § 18. Inkludering, deltakelse og tilhørighet – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre samarbeid med frivillige, personer og organisasjoner og andre relevante aktørerkan utveksle synspunkter og erfaringer som sikrer likeverdige tjenester og gjennom dette bidra til utvikling av god praksis.
+Kandidaten
+
+1. kan planlegge og gjennomføre samarbeid med frivillige, personer og organisasjoner og andre relevante aktører
+2. kan utveksle synspunkter og erfaringer som sikrer likeverdige tjenester og gjennom dette bidra til utvikling av god praksis.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet innovasjon, fagutvikling og ledelse
 
 ### § 19. Innovasjon, fagutvikling og ledelse – Kunnskap
 
-Kandidatenhar kunnskap om prinsipper for kunnskapsbasert praksishar kjennskap til innovasjon, fagutvikling, ledelse, veiledning, prosjektarbeid og entreprenørskaphar kjennskap til vitenskapsteori, forskningsetikk og -metoder, og hvordan dette har betydning for kunnskapsutvikling i ergoterapi.
+Kandidaten
+
+1. har kunnskap om prinsipper for kunnskapsbasert praksis
+2. har kjennskap til innovasjon, fagutvikling, ledelse, veiledning, prosjektarbeid og entreprenørskap
+3. har kjennskap til vitenskapsteori, forskningsetikk og -metoder, og hvordan dette har betydning for kunnskapsutvikling i ergoterapi.
 
 ### § 20. Innovasjon, fagutvikling og ledelse – Ferdigheter
 
-Kandidatenkan finne og vurdere vitenskapelig litteratur som er relevant for egen profesjonsutøvelsekan anvende ny faglig kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
+Kandidaten
+
+1. kan finne og vurdere vitenskapelig litteratur som er relevant for egen profesjonsutøvelse
+2. kan anvende ny faglig kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
 
 ### § 21. Innovasjon, fagutvikling og ledelse – Generell kompetanse
 
-Kandidatenkjenner til nytenkning og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesserkan planlegge og gjennomføre ergoterapifaglige utviklingsprosjekter.
+Kandidaten
+
+1. kjenner til nytenkning og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser
+2. kan planlegge og gjennomføre ergoterapifaglige utviklingsprosjekter.
 
 ## Kapittel 8. Studiets oppbygging og praksisstudier
 

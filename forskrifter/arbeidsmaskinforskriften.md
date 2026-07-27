@@ -34,7 +34,13 @@ Forskriften omfatter tillatelse til å ta i bruk arbeidsmaskiner, oppgradering, 
 
 ### § 1-3. Definisjoner
 
-I forskriften her forstås med:*jernbanenett:* hele jernbaneinfrastrukturen som forvaltes av en infrastrukturforvalter,*jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,*arbeidsmaskin:* skinne-/veimaskiner og påsporbare maskiner med jernbaneutrustning iht. EN 14033, EN 15746 og EN 15954, EN 15955 og EN 13977,*oppgradering:* ethvert større endringsarbeid på et delsystem eller en del av et delsystem som forbedrer delsystemets generelle ytelse,*lukket område:* område hvor jernbanestrekningen er stengt for ordinær trafikk, herunder sikret anleggsområde-jernbane og avstengt område.
+I forskriften her forstås med:
+
+1. *jernbanenett:* hele jernbaneinfrastrukturen som forvaltes av en infrastrukturforvalter,
+2. *jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,
+3. *arbeidsmaskin:* skinne-/veimaskiner og påsporbare maskiner med jernbaneutrustning iht. EN 14033, EN 15746 og EN 15954, EN 15955 og EN 13977,
+4. *oppgradering:* ethvert større endringsarbeid på et delsystem eller en del av et delsystem som forbedrer delsystemets generelle ytelse,
+5. *lukket område:* område hvor jernbanestrekningen er stengt for ordinær trafikk, herunder sikret anleggsområde-jernbane og avstengt område.
 
 ## Kapittel 2. Krav til virksomheter som forvalter jernbanekjøretøy
 
@@ -88,7 +94,13 @@ Slik ny tillatelse skal kreves når det allmenne sikkerhetsnivået kan påvirkes
 
 ### § 4-2. Søknad om tillatelse til å ta i bruk kjøretøy
 
-Ved søknad om tillatelse til å ta i bruk en arbeidsmaskin må følgende dokumentasjon vedlegges søknaden:navn på kontaktperson,beskrivelse av kjøretøyet (systembeskrivelse),angivelse av den infrastrukturen kjøretøyet skal brukes på,oversikt over relevante standarder som vist til i [§ 3-1](forskrift/2022-05-25-924/§3-1) som kjøretøyet er bygget etter, eventuelle avvik fra disse standardene,sikkerhetsvurderingsrapport som bekrefter kompatibilitet mellom kjøretøyet og infrastrukturen det skal brukes på.
+Ved søknad om tillatelse til å ta i bruk en arbeidsmaskin må følgende dokumentasjon vedlegges søknaden:
+
+1. navn på kontaktperson,
+2. beskrivelse av kjøretøyet (systembeskrivelse),
+3. angivelse av den infrastrukturen kjøretøyet skal brukes på,
+4. oversikt over relevante standarder som vist til i [§ 3-1](forskrift/2022-05-25-924/§3-1) som kjøretøyet er bygget etter, eventuelle avvik fra disse standardene,
+5. sikkerhetsvurderingsrapport som bekrefter kompatibilitet mellom kjøretøyet og infrastrukturen det skal brukes på.
 
 ### § 4-3. Søknad om tillatelse til å ta i bruk kjøretøy som er i samsvar med en tillatt type
 

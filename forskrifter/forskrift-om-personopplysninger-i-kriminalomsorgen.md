@@ -28,7 +28,20 @@ Forskriften skal sikre at kriminalomsorgen ivaretar personvernet når de behandl
 
 ## § 2. Opplysningskategorier
 
-Når det er nødvendig for å ivareta formålene i [straffegjennomføringsloven § 4c](lov/2001-05-18-21/§4c), kan kriminalomsorgen behandle følgende:personalia, herunder aliassignalement, personlige kjennetegn og bilde av domfelte og innsattekontaktopplysningeropplysninger om pårørende, barn og forsørgeransvarstraffesaks- og soningsdatapolitiopplysninger av betydning for straffegjennomføringenhelseopplysningerarbeids- og utdanningsopplysningeropplysninger mottatt fra samarbeidspartnere i forvaltningenopplysninger om domfeltes geografiske posisjon og bevegelsedomfeltes biometri, herunder fingeravtrykk og ansiktssignalementandre opplysninger for å ivareta sikkerheten til tilsatte, domfelte, innsatte og samfunnet for øvrig.
+Når det er nødvendig for å ivareta formålene i [straffegjennomføringsloven § 4c](lov/2001-05-18-21/§4c), kan kriminalomsorgen behandle følgende:
+
+1. personalia, herunder alias
+2. signalement, personlige kjennetegn og bilde av domfelte og innsatte
+3. kontaktopplysninger
+4. opplysninger om pårørende, barn og forsørgeransvar
+5. straffesaks- og soningsdata
+6. politiopplysninger av betydning for straffegjennomføringen
+7. helseopplysninger
+8. arbeids- og utdanningsopplysninger
+9. opplysninger mottatt fra samarbeidspartnere i forvaltningen
+10. opplysninger om domfeltes geografiske posisjon og bevegelse
+11. domfeltes biometri, herunder fingeravtrykk og ansiktssignalement
+12. andre opplysninger for å ivareta sikkerheten til tilsatte, domfelte, innsatte og samfunnet for øvrig.
 
 Kriminalomsorgen kan behandle opplysninger om siktedes, domfeltes og innsattes personlige forhold, livsforhold og fremtidsmuligheter i forbindelse med arbeid med personundersøkelse etter [straffeprosessloven § 161](lov/1981-05-22-25/§161).
 
@@ -36,7 +49,11 @@ Kriminalomsorgen kan behandle opplysninger om siktedes, domfeltes og innsattes p
 
 ## § 3. Kvalitetskrav til personopplysningene
 
-Personopplysninger som behandles skalvære tilstrekkelige og relevante for formålet med behandlingenvære korrekte og oppdaterteikke lagres lenger enn nødvendig ut fra formålet med behandlingen, jf. [straffegjennomføringsloven § 4c](lov/2001-05-18-21/§4c).
+Personopplysninger som behandles skal
+
+1. være tilstrekkelige og relevante for formålet med behandlingen
+2. være korrekte og oppdaterte
+3. ikke lagres lenger enn nødvendig ut fra formålet med behandlingen, jf. [straffegjennomføringsloven § 4c](lov/2001-05-18-21/§4c).
 
 ## § 4. Behandlingen av personopplysninger som ikke er verifiserte
 

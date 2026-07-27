@@ -15,7 +15,7 @@ xml_hash: "6269abb1be533a775b26235d42a36ac207897a1cafa34f71762ba60611b9b2aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019R2088"
@@ -26,7 +26,10 @@ eu_basis:
 
 ## § 1. Anvendelsesområde
 
-Loven gjelder for:Finansmarkedsdeltagere og finansrådgivere nevnt i offentliggjøringsforordningen artikkel 2(1) og 2(11).Foretak nevnt i taksonomiforordningen artikkel 8 nr. 1.
+Loven gjelder for:
+
+1. Finansmarkedsdeltagere og finansrådgivere nevnt i offentliggjøringsforordningen artikkel 2(1) og 2(11).
+2. Foretak nevnt i taksonomiforordningen artikkel 8 nr. 1.
 
 ## § 2. Offentliggjøringsforordningen
 

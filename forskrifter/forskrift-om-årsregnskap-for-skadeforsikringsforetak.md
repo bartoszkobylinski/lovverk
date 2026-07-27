@@ -15,7 +15,7 @@ xml_hash: "f429b27e463239647307be23d574c5350ec296aeb21072a13a1ab75ba6a4e00f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,18 @@ eu_basis: []
 
 (3) Forskriften gjelder filialer av utenlandske skadeforsikringsforetak, med unntak av [kapittel 6](forskrift/2015-12-18-1775/kap6) om delårsregnskap.
 
-(4) For blandede finanskonsern gjelder følgende bestemmelser så langt de passer:bestemmelsene om konsernregnskap i [regnskapsloven](lov/1998-07-17-56),[forskrift om årsregnskap for banker, kredittforetak og finansieringsforetak](forskrift/1998-12-16-1240),[forskrift om årsregnskap for livsforsikringsforetak](forskrift/2015-12-18-1824),denne forskriften.
+(4) For blandede finanskonsern gjelder følgende bestemmelser så langt de passer:
 
-(5) For konsern med livsforsikringsvirksomhet gjelder følgende bestemmelser så langt de passer:bestemmelsene om konsernregnskap i [regnskapsloven](lov/1998-07-17-56),[forskrift om årsregnskap for livsforsikringsforetak](forskrift/2015-12-18-1824),denne forskriften.
+1. bestemmelsene om konsernregnskap i [regnskapsloven](lov/1998-07-17-56),
+2. [forskrift om årsregnskap for banker, kredittforetak og finansieringsforetak](forskrift/1998-12-16-1240),
+3. [forskrift om årsregnskap for livsforsikringsforetak](forskrift/2015-12-18-1824),
+4. denne forskriften.
+
+(5) For konsern med livsforsikringsvirksomhet gjelder følgende bestemmelser så langt de passer:
+
+1. bestemmelsene om konsernregnskap i [regnskapsloven](lov/1998-07-17-56),
+2. [forskrift om årsregnskap for livsforsikringsforetak](forskrift/2015-12-18-1824),
+3. denne forskriften.
 
 (6) Salgsinntekter i [regnskapsloven § 1-5](lov/1998-07-17-56/§1-5) skal for skadeforsikringsforetak forstås som opptjente bruttopremier, jf. post 1.1 i [§ 4-5](forskrift/2015-12-18-1775/§4-5) i denne forskrift.
 
@@ -42,7 +51,10 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-(1) Som store skadeforsikringsforetak regnes:Skadeforsikringsforetak som inngår i konsern der konsernregnskapet utarbeides etter IFRS i samsvar med [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) ogSkadeforsikringsforetak som har utstedt verdipapirer på regulert marked i en EØS-stat, men som ikke har konsernregnskapsplikt etter IFRS.
+(1) Som store skadeforsikringsforetak regnes:
+
+1. Skadeforsikringsforetak som inngår i konsern der konsernregnskapet utarbeides etter IFRS i samsvar med [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) og
+2. Skadeforsikringsforetak som har utstedt verdipapirer på regulert marked i en EØS-stat, men som ikke har konsernregnskapsplikt etter IFRS.
 
 (2) Som små skadeforsikringsforetak regnes skadeforsikringsforetak, som ikke omfattes av første ledd, med forfalte bruttopremier som ikke overstiger 40 millioner kroner på balansedagen. Foretak som har mer enn 40 millioner kroner i forfalte bruttopremier på balansedagen, men som var omfattet av første ledd foregående balanseår, regnes likevel som små skadeforsikringsforetak. Foretak som i de to foregående regnskapsår har hatt mer enn 40 millioner kroner i forfalte bruttopremier, men som på balansedagen har mindre enn 40 millioner kroner i forfalte brutto premieinntekter, regnes likevel ikke som små foretak.
 
@@ -172,7 +184,10 @@ Det skal ikke beregnes utsatt skatt av avsetning til naturskadekapital, av avset
 
 (3) Brutto erstatningsavsetning skal tilsvare de forventede fremtidige brutto erstatningskostnader for alle skadetilfeller som på balansedagen er inntruffet, men ikke oppgjort. Avsetningen skal omfatte forventede direkte og indirekte skadebehandlingskostnader i forbindelse med slike skadetilfeller. Det skal tas hensyn til forventede kostnadsøkninger.
 
-(4) Erstatningsavsetningen beregnet i samsvar med tredje ledd kan bare diskonteres i de tilfeller der det foreligger et pålitelig statistisk grunnlag for å fastsettehvor lang tid det vil ta å avvikle de enkelte skadeårganger,de forventede erstatningsutbetalinger for det enkelte avviklingsår.
+(4) Erstatningsavsetningen beregnet i samsvar med tredje ledd kan bare diskonteres i de tilfeller der det foreligger et pålitelig statistisk grunnlag for å fastsette
+
+1. hvor lang tid det vil ta å avvikle de enkelte skadeårganger,
+2. de forventede erstatningsutbetalinger for det enkelte avviklingsår.
 
 (5) Ved diskontering av erstatningsavsetningen i samsvar med reglene gitt i fjerde ledd, skal diskonteringsrenten ikke overstige en forsiktig vurdering av forventet fremtidig avkastning på foretakets eiendeler, jf. [finansforetaksloven § 13-10](lov/2015-04-10-17/§13-10). Den diskonterte erstatningsavsetningen skal ikke under noen omstendighet settes til et lavere beløp enn det beløp som fremkommer når erstatningsavsetningen verdsettes med utgangspunkt i prisnivået på balansedagen.
 
@@ -254,24 +269,63 @@ Resultatregnskapet skal ha følgende oppstillingsplan:
 
 TEKNISK REGNSKAP
 
-1. **Premieinntekter mv.**Opptjente bruttopremier– Gjenforsikringsandel av opptjente bruttopremier*Sum premieinntekter for egen regning*
+1. **Premieinntekter mv.**
+
+   1. Opptjente bruttopremier
+   2. – Gjenforsikringsandel av opptjente bruttopremier
+
+   *Sum premieinntekter for egen regning*
 2. **Andre forsikringsrelaterte inntekter**
-3. **Erstatningskostnader**Brutto erstatningskostnader– Gjenforsikringsandel av brutto erstatningskostnader*Sum erstatningskostnader for egen regning*
-4. **Forsikringsrelaterte driftskostnader**SalgskostnaderEndringer i forskuddsbetalte direkte salgskostnaderForsikringsrelaterte administrasjonskostnader inkl. provisjoner for mottatt gjenforsikring– Mottatte provisjoner for avgitt gjenforsikring og gevinstandeler*Sum forsikringsrelaterte driftskostnader*
+3. **Erstatningskostnader**
+
+   1. Brutto erstatningskostnader
+   2. – Gjenforsikringsandel av brutto erstatningskostnader
+
+   *Sum erstatningskostnader for egen regning*
+4. **Forsikringsrelaterte driftskostnader**
+
+   1. Salgskostnader
+   2. Endringer i forskuddsbetalte direkte salgskostnader
+   3. Forsikringsrelaterte administrasjonskostnader inkl. provisjoner for mottatt gjenforsikring
+   4. – Mottatte provisjoner for avgitt gjenforsikring og gevinstandeler
+
+   *Sum forsikringsrelaterte driftskostnader*
 5. **Andre forsikringsrelaterte driftskostnader**
 6. **Endring i avsetning for ikke avløpt risiko**
 7. **Resultat av teknisk regnskap**
 
 IKKE-TEKNISK REGNSKAP
 
-1. **Netto inntekter fra investeringer**Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretakRenteinntekt og utbytte mv. på finansielle eiendelerNetto driftsinntekt fra eiendomVerdiendringer på investeringerRealisert gevinst og tap på investeringerAdministrasjonskostnader knyttet til investeringer, herunder rentekostnader*Sum netto inntekter fra investeringer*
+1. **Netto inntekter fra investeringer**
+
+   1. Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak
+   2. Renteinntekt og utbytte mv. på finansielle eiendeler
+   3. Netto driftsinntekt fra eiendom
+   4. Verdiendringer på investeringer
+   5. Realisert gevinst og tap på investeringer
+   6. Administrasjonskostnader knyttet til investeringer, herunder rentekostnader
+
+   *Sum netto inntekter fra investeringer*
 2. **Andre inntekter**
 3. **Andre kostnader**
 4. **Resultat av ikke-teknisk regnskap**
 5. **Resultat før skattekostnad**
 6. **Skattekostnad**
 7. **Resultat før andre inntekter og kostnader**
-8. **Andre inntekter og kostnader**Andre inntekter og kostnader som ikke blir omklassifisert til resultatetVerdireguleringer – eiendom, anlegg og utstyrEstimatendringer knyttet til ytelsesbaserte pensjonsordningerØvrige andre inntekter og kostnaderSkatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatetAndre inntekter og kostnader som kan bli omklassifisert til resultatetAndre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirerEffektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikringØvrige andre inntekter og kostnaderSkatt på andre inntekter og kostnader som kan bli omklassifisert
+8. **Andre inntekter og kostnader**
+
+   1. Andre inntekter og kostnader som ikke blir omklassifisert til resultatet
+
+      - Verdireguleringer – eiendom, anlegg og utstyr
+      - Estimatendringer knyttet til ytelsesbaserte pensjonsordninger
+      - Øvrige andre inntekter og kostnader
+      - Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet
+   2. Andre inntekter og kostnader som kan bli omklassifisert til resultatet
+
+      - Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer
+      - Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring
+      - Øvrige andre inntekter og kostnader
+      - Skatt på andre inntekter og kostnader som kan bli omklassifisert
 9. **TOTALRESULTAT**
 
 > Endret ved [forskrifter 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018), [17 aug 2022 nr. 1453](forskrift/2022-08-17-1453) (i kraft 1 jan 2023, tidligere § 4-3).
@@ -282,25 +336,135 @@ Balansen skal ha følgende oppstillingsplan:
 
 EIENDELER
 
-1. **Immaterielle eiendeler**GoodwillAndre immaterielle eiendeler*Sum immaterielle eiendeler*
-2. **Investeringer**Bygninger og andre faste eiendommerInvesteringseiendommerEierbenyttet eiendomDatterforetak, tilknyttede foretak og felleskontrollerte foretakAksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretakFordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretakFinansielle eiendeler som måles til amortisert kostRentebærende verdipapirerUtlån og fordringerFinansielle eiendeler som måles til virkelig verdiAksjer og andeler (inkl. aksjer og andeler målt til kost)Rentebærende verdipapirerUtlån og fordringerFinansielle derivaterAndre finansielle eiendelerGjenforsikringsdepoter*Sum investeringer*
-3. **Gjenforsikringsandel av brutto forsikringsforpliktelser**Gjenforsikringsandel av ikke opptjent bruttopremieGjenforsikringsandel av brutto erstatningsavsetning*Sum gjenforsikringsandel av brutto forsikringsforpliktelser*
-4. **Fordringer**Fordringer i forbindelse med direkte forretningerForsikringstakereMellommennFordringer i forbindelse med gjenforsikringAndre fordringer*Sum fordringer*
-5. **Andre eiendeler**Anlegg og utstyrKasse, bankEiendeler ved skattAndre eiendeler betegnet etter sin art*Sum andre eiendeler*
-6. **Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter**Opptjente, ikke mottatte leieinntekterForskuddsbetalte direkte salgskostnaderAndre forskuddsbetalte kostnader og opptjente ikke mottatte inntekter*Sum forskuddsbetalte kostnader og opptjente ikke mottatte inntekter*
+1. **Immaterielle eiendeler**
+
+   1. Goodwill
+   2. Andre immaterielle eiendeler
+
+   *Sum immaterielle eiendeler*
+2. **Investeringer**
+
+   1. Bygninger og andre faste eiendommer
+
+      - Investeringseiendommer
+      - Eierbenyttet eiendom
+   2. Datterforetak, tilknyttede foretak og felleskontrollerte foretak
+
+      - Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak
+      - Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak
+   3. Finansielle eiendeler som måles til amortisert kost
+
+      - Rentebærende verdipapirer
+      - Utlån og fordringer
+   4. Finansielle eiendeler som måles til virkelig verdi
+
+      - Aksjer og andeler (inkl. aksjer og andeler målt til kost)
+      - Rentebærende verdipapirer
+      - Utlån og fordringer
+      - Finansielle derivater
+      - Andre finansielle eiendeler
+   5. Gjenforsikringsdepoter
+
+   *Sum investeringer*
+3. **Gjenforsikringsandel av brutto forsikringsforpliktelser**
+
+   1. Gjenforsikringsandel av ikke opptjent bruttopremie
+   2. Gjenforsikringsandel av brutto erstatningsavsetning
+
+   *Sum gjenforsikringsandel av brutto forsikringsforpliktelser*
+4. **Fordringer**
+
+   1. Fordringer i forbindelse med direkte forretninger
+
+      - Forsikringstakere
+      - Mellommenn
+   2. Fordringer i forbindelse med gjenforsikring
+   3. Andre fordringer
+
+   *Sum fordringer*
+5. **Andre eiendeler**
+
+   1. Anlegg og utstyr
+   2. Kasse, bank
+   3. Eiendeler ved skatt
+   4. Andre eiendeler betegnet etter sin art
+
+   *Sum andre eiendeler*
+6. **Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter**
+
+   1. Opptjente, ikke mottatte leieinntekter
+   2. Forskuddsbetalte direkte salgskostnader
+   3. Andre forskuddsbetalte kostnader og opptjente ikke mottatte inntekter
+
+   *Sum forskuddsbetalte kostnader og opptjente ikke mottatte inntekter*
 
 SUM EIENDELER
 
 EGENKAPITAL OG FORPLIKTELSER
 
-1. **Innskutt egenkapital**SelskapskapitalAksjekapital/eierandelskapital/garantifondBeholdning av egne aksjer/egenkapitalbevisOverkursEgenkapitalandel av sammensatte finansielle instrumenter og andre egenkapitalinstrumenterAnnen innskutt egenkapital*Sum innskutt egenkapital*
-2. **Opptjent egenkapital**Fond mv.Fond for vurderingsforskjellerFond for urealiserte gevinsterAvsetning til naturskadekapitalAvsetning til garantiordningenAnnen opptjent egenkapital*Sum opptjent egenkapital*
-3. **Ansvarlig lånekapital mv.**Evigvarende ansvarlig lånekapitalAnsvarlig lånekapital med tilknyttede konverteringsrettigheterAnnen ansvarlig lånekapitalFondsobligasjoner*Sum ansvarlig lånekapital mv.*
-4. **Brutto forsikringsforpliktelser**Avsetning for ikke opptjent bruttopremieAvsetning for ikke avløpt risikoBrutto erstatningsavsetning*Sum brutto forsikringsforpliktelser*
-5. **Avsetninger for forpliktelser**Pensjonsforpliktelser o.l.Forpliktelser ved skattForpliktelser ved periodeskattForpliktelser ved utsatt skattAndre avsetninger for forpliktelser*Sum avsetninger for forpliktelser*
+1. **Innskutt egenkapital**
+
+   1. Selskapskapital
+
+      - Aksjekapital/eierandelskapital/garantifond
+      - Beholdning av egne aksjer/egenkapitalbevis
+   2. Overkurs
+   3. Egenkapitalandel av sammensatte finansielle instrumenter og andre egenkapitalinstrumenter
+   4. Annen innskutt egenkapital
+
+   *Sum innskutt egenkapital*
+2. **Opptjent egenkapital**
+
+   1. Fond mv.
+
+      - Fond for vurderingsforskjeller
+      - Fond for urealiserte gevinster
+      - Avsetning til naturskadekapital
+      - Avsetning til garantiordningen
+   2. Annen opptjent egenkapital
+
+   *Sum opptjent egenkapital*
+3. **Ansvarlig lånekapital mv.**
+
+   1. Evigvarende ansvarlig lånekapital
+   2. Ansvarlig lånekapital med tilknyttede konverteringsrettigheter
+   3. Annen ansvarlig lånekapital
+   4. Fondsobligasjoner
+
+   *Sum ansvarlig lånekapital mv.*
+4. **Brutto forsikringsforpliktelser**
+
+   1. Avsetning for ikke opptjent bruttopremie
+   2. Avsetning for ikke avløpt risiko
+   3. Brutto erstatningsavsetning
+
+   *Sum brutto forsikringsforpliktelser*
+5. **Avsetninger for forpliktelser**
+
+   1. Pensjonsforpliktelser o.l.
+   2. Forpliktelser ved skatt
+
+      - Forpliktelser ved periodeskatt
+      - Forpliktelser ved utsatt skatt
+   3. Andre avsetninger for forpliktelser
+
+   *Sum avsetninger for forpliktelser*
 6. **Premiedepot fra gjenforsikringsforetak**
-7. **Forpliktelser**Forpliktelser i forbindelse med direkte forsikringForpliktelser i forbindelse med gjenforsikringForpliktelser til kredittinstitusjonerFinansielle derivaterAndre forpliktelser*Sum forpliktelser*
-8. **Påløpte kostnader og mottatte ikke opptjente inntekter**Mottatte, ikke opptjente leieinntekterAndre påløpte kostnader og mottatte ikke opptjente inntekter*Sum påløpte kostnader og mottatte ikke opptjente inntekter*
+7. **Forpliktelser**
+
+   1. Forpliktelser i forbindelse med direkte forsikring
+   2. Forpliktelser i forbindelse med gjenforsikring
+   3. Forpliktelser til kredittinstitusjoner
+   4. Finansielle derivater
+   5. Andre forpliktelser
+
+   *Sum forpliktelser*
+8. **Påløpte kostnader og mottatte ikke opptjente inntekter**
+
+   1. Mottatte, ikke opptjente leieinntekter
+   2. Andre påløpte kostnader og mottatte ikke opptjente inntekter
+
+   *Sum påløpte kostnader og mottatte ikke opptjente inntekter*
 
 SUM EGENKAPITAL OG FORPLIKTELSER
 
@@ -313,7 +477,15 @@ POSTER UTENOM BALANSEN
 
 ### § 4-7. Oppstilling av endringer i egenkapital
 
-Det skal presenteres en oppstilling av endringer i egenkapital som viser:totalresultat for perioden (resultatpost 16), som viser separat de samlede beløp som kan henføres til morselskapets eiere og til minoritetsinteresser,for hver post under egenkapitalen, virkningene av endringer i regnskapsprinsipper og korreksjoner av feil innregnet i samsvar med IAS 8,for hver bestanddel av egenkapitalen, en avstemming mellom den balanseførte verdien i begynnelsen og slutten av perioden, med separate opplysninger om endringer som følger avresultat før andre inntekter og kostnader (resultatpost 14)andre inntekter og kostnader (resultatpost 15) spesifisert på de enkelte underposter (resultatpost 15.1–15.1.4 og 15.2–15.2.4)transaksjoner med eiere i deres egenskap av eiere, med separat visning av bidrag fra og utdelinger til eiere.
+Det skal presenteres en oppstilling av endringer i egenkapital som viser:
+
+1. totalresultat for perioden (resultatpost 16), som viser separat de samlede beløp som kan henføres til morselskapets eiere og til minoritetsinteresser,
+2. for hver post under egenkapitalen, virkningene av endringer i regnskapsprinsipper og korreksjoner av feil innregnet i samsvar med IAS 8,
+3. for hver bestanddel av egenkapitalen, en avstemming mellom den balanseførte verdien i begynnelsen og slutten av perioden, med separate opplysninger om endringer som følger av
+
+   - resultat før andre inntekter og kostnader (resultatpost 14)
+   - andre inntekter og kostnader (resultatpost 15) spesifisert på de enkelte underposter (resultatpost 15.1–15.1.4 og 15.2–15.2.4)
+   - transaksjoner med eiere i deres egenskap av eiere, med separat visning av bidrag fra og utdelinger til eiere.
 
 > Endret ved forskrifter [16 des 2016 nr. 1637](forskrift/2016-12-16-1637) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018), [17 aug 2022 nr. 1453](forskrift/2022-08-17-1453) (i kraft 1 jan 2023, tidligere § 4-6).
 
@@ -325,7 +497,10 @@ For holdingforetak som ikke driver forsikring, kan den ikke-tekniske oppstilling
 
 ### § 4-9. Konsernregnskapets oppstillingsplan
 
-(1) Konsernregnskapet for skade- og livsforsikringskonsern skal settes opp som følger:Resultatregnskapet settes opp i henhold til § 4-5 og [forskrift om årsregnskap for livsforsikringsforetak § 4-4](forskrift/2015-12-18-1824/§4-4), slik at teknisk regnskap for henholdsvis skadeforsikring og livsforsikring fremkommer hver for seg. I ikke-teknisk regnskap kan poster med samme innhold slås sammen.Balansen settes opp i henhold til § 4-6 og [forskrift om årsregnskap for livsforsikringsforetak § 4-5](forskrift/2015-12-18-1824/§4-5). Underposter underlagt ulike vurderingsregler kan ikke slås sammen, men skal spesifiseres på separate underposter eller hovedposter.
+(1) Konsernregnskapet for skade- og livsforsikringskonsern skal settes opp som følger:
+
+1. Resultatregnskapet settes opp i henhold til § 4-5 og [forskrift om årsregnskap for livsforsikringsforetak § 4-4](forskrift/2015-12-18-1824/§4-4), slik at teknisk regnskap for henholdsvis skadeforsikring og livsforsikring fremkommer hver for seg. I ikke-teknisk regnskap kan poster med samme innhold slås sammen.
+2. Balansen settes opp i henhold til § 4-6 og [forskrift om årsregnskap for livsforsikringsforetak § 4-5](forskrift/2015-12-18-1824/§4-5). Underposter underlagt ulike vurderingsregler kan ikke slås sammen, men skal spesifiseres på separate underposter eller hovedposter.
 
 (2) Dersom aksjer eller andeler i et datterforetak eies av andre enn de konsoliderte foretakene, skal deres andel av egenkapitalen og årets resultat oppføres som minoritetsinteresser. Minoritetsinteresser oppføres under egenkapital i balansen, og som fradrag i årsresultatet i resultatregnskapet.
 
@@ -351,7 +526,9 @@ For holdingforetak som ikke driver forsikring, kan den ikke-tekniske oppstilling
 
 (1) «Salgskostnader» omfatter direkte og indirekte kostnader som følger av salgsaktivitet ved inngåelse og fornyelse av forsikringsavtaler. Salgskostnadene omfatter direkte henførbare kostnader som lønn og drift av salgskorpset, indirekte kostnader knyttet til markedsføring, og administrasjonskostnader i forbindelse med kjøp av forsikring og utstedelse av forsikringsavtale.
 
-(2) Direkte variable salgskostnader kan balanseføres når de er vesentlige for foretaket.Kostnadsføring skal skje i takt med inntektsføring av premien, men minst med en femtedel årlig.
+(2) Direkte variable salgskostnader kan balanseføres når de er vesentlige for foretaket.
+
+Kostnadsføring skal skje i takt med inntektsføring av premien, men minst med en femtedel årlig.
 
 (3) «Forsikringsrelaterte administrasjonskostnader» omfatter alle øvrige forsikringsrelaterte driftskostnader som ikke kan henføres til «Salgskostnader» eller til «Erstatningskostnader», jf. resultatpost 3.
 
@@ -461,7 +638,9 @@ Store skadeforsikringsforetak som nevnt i [§ 1-2](forskrift/2015-12-18-1775/§1
 
 (2) Dersom foretaket er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.
 
-(3) Ethvert fravik som nevnt i [§ 2-2](forskrift/2015-12-18-1775/§2-2) og [regnskapsloven § 3-2a](lov/1998-07-17-56/§3-2a) annet ledd skal angis.[Regnskapsloven § 7-1](lov/1998-07-17-56/§7-1) sjette ledd annet punktum gjelder tilsvarende.
+(3) Ethvert fravik som nevnt i [§ 2-2](forskrift/2015-12-18-1775/§2-2) og [regnskapsloven § 3-2a](lov/1998-07-17-56/§3-2a) annet ledd skal angis.
+
+[Regnskapsloven § 7-1](lov/1998-07-17-56/§7-1) sjette ledd annet punktum gjelder tilsvarende.
 
 > Endret ved [forskrift 16 des 2016 nr. 1637](forskrift/2016-12-16-1637) (med virkning fra regnskapsåret 2016).
 
@@ -483,7 +662,11 @@ Det skal opplyses om virkning av endring av regnskapsprinsipp. Dersom sammenlign
 
 (1) Store skadeforsikringsforetak skal gi opplysninger om virkelig verdi i samsvar med IFRS 13.
 
-(2) Mellomstore og små skadeforsikringsforetak skal for eiendeler og forpliktelser som måles til virkelig verdi:opplyse om de verdsettingsmetodene og inndata som ble benyttet,opplyse om det nivået innenfor hierarkiet for virkelig verdi der målingene av virkelig verdi i sin helhet er kategorisert,der målingene av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som ble benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
+(2) Mellomstore og små skadeforsikringsforetak skal for eiendeler og forpliktelser som måles til virkelig verdi:
+
+1. opplyse om de verdsettingsmetodene og inndata som ble benyttet,
+2. opplyse om det nivået innenfor hierarkiet for virkelig verdi der målingene av virkelig verdi i sin helhet er kategorisert,
+3. der målingene av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som ble benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
 
 > Endret ved [forskrifter 16 des 2016 nr. 1637](forskrift/2016-12-16-1637) (med virkning fra regnskapsåret 2016), [1 nov 2024 nr. 2611](forskrift/2024-11-01-2611).
 
@@ -523,9 +706,40 @@ Tilsvarende gjelder for endring av måling av gjenforsikringsandelen.
 
 ### § 5-10. Premieinntekter og erstatningskostnader mv.
 
-(1) Forfalte premier, opptjente premier og inntrufne erstatninger skal spesifiseres på forsikringsbransjer som nevnt i annet ledd med følgende underinndeling:Brutto – direkte forretning og mottatt proporsjonal gjenforsikringBrutto – mottatt ikke-proporsjonal gjenforsikringGjenforsikringsandelFor egen regning.Det skal videre opplyses hvordan påløpte brutto erstatningskostnader er fordelt mellom anslåtte brutto erstatningskostnader relatert til den aktuelle regnskapsperioden og brutto avviklingsresultat relatert til tidligere regnskapsperioder. Med anslåtte erstatningskostnader menes betalte erstatninger for skadetilfeller inntruffet i regnskapsperioden tillagt erstatningsavsetningen for disse skadetilfellene ved utgangen av regnskapsperioden. Med avviklingsresultatet relatert til tidligere regnskapsperioder menes differansen mellomerstatningsavsetningen ved inngangen til regnskapsperioden for skadetilfeller inntruffet i tidligere regnskapsperioder, ogerstatninger som er betalt i løpet av regnskapsperioden for skadetilfeller inntruffet i tidligere regnskapsperioder, tillagt erstatningsavsetningen for disse skadetilfellene ved utgangen av regnskapsperioden.
+(1) Forfalte premier, opptjente premier og inntrufne erstatninger skal spesifiseres på forsikringsbransjer som nevnt i annet ledd med følgende underinndeling:
 
-(2) Postene i første ledd skal fordeles på;Direkte forsikring og mottatt proporsjonal gjenforsikring:Forsikring mot utgifter til medisinsk behandlingForsikring mot inntektstapYrkesskadeforsikringMotorvognforsikring – trafikkMotorvognforsikring – øvrigSjøforsikring, transportforsikring og luftfartforsikringForsikring mot brann og annen skade på eiendomAnsvarsforsikringKreditt- og kausjonsforsikringRettshjelpforsikringAssistanseforsikringForsikring mot diverse økonomisk tapMottatt ikke-proporsjonal gjenforsikring:Ikke-proporsjonal gjenforsikring av helseforsikringsforpliktelserIkke-proporsjonal gjenforsikring av ansvarsforsikringsforpliktelserIkke-proporsjonal gjenforsikring av forpliktelser innen sjøforsikring, transportforsikring og luftfartforsikringIkke-proporsjonal gjenforsikring av øvrige skadeforsikringsforpliktelser.
+- Brutto – direkte forretning og mottatt proporsjonal gjenforsikring
+- Brutto – mottatt ikke-proporsjonal gjenforsikring
+- Gjenforsikringsandel
+- For egen regning.
+
+Det skal videre opplyses hvordan påløpte brutto erstatningskostnader er fordelt mellom anslåtte brutto erstatningskostnader relatert til den aktuelle regnskapsperioden og brutto avviklingsresultat relatert til tidligere regnskapsperioder. Med anslåtte erstatningskostnader menes betalte erstatninger for skadetilfeller inntruffet i regnskapsperioden tillagt erstatningsavsetningen for disse skadetilfellene ved utgangen av regnskapsperioden. Med avviklingsresultatet relatert til tidligere regnskapsperioder menes differansen mellom
+
+- erstatningsavsetningen ved inngangen til regnskapsperioden for skadetilfeller inntruffet i tidligere regnskapsperioder, og
+- erstatninger som er betalt i løpet av regnskapsperioden for skadetilfeller inntruffet i tidligere regnskapsperioder, tillagt erstatningsavsetningen for disse skadetilfellene ved utgangen av regnskapsperioden.
+
+(2) Postene i første ledd skal fordeles på;
+
+- Direkte forsikring og mottatt proporsjonal gjenforsikring:
+
+  - Forsikring mot utgifter til medisinsk behandling
+  - Forsikring mot inntektstap
+  - Yrkesskadeforsikring
+  - Motorvognforsikring – trafikk
+  - Motorvognforsikring – øvrig
+  - Sjøforsikring, transportforsikring og luftfartforsikring
+  - Forsikring mot brann og annen skade på eiendom
+  - Ansvarsforsikring
+  - Kreditt- og kausjonsforsikring
+  - Rettshjelpforsikring
+  - Assistanseforsikring
+  - Forsikring mot diverse økonomisk tap
+- Mottatt ikke-proporsjonal gjenforsikring:
+
+  - Ikke-proporsjonal gjenforsikring av helseforsikringsforpliktelser
+  - Ikke-proporsjonal gjenforsikring av ansvarsforsikringsforpliktelser
+  - Ikke-proporsjonal gjenforsikring av forpliktelser innen sjøforsikring, transportforsikring og luftfartforsikring
+  - Ikke-proporsjonal gjenforsikring av øvrige skadeforsikringsforpliktelser.
 
 (3) Andre bransjer skal tilføyes etter behov.
 
@@ -553,7 +767,13 @@ Det skal gis opplysninger som setter brukere av årsregnskapet i stand til å ev
 
 ### § 5-14. Kategorier av finansielle eiendeler og finansielle forpliktelser
 
-(1) Det skal gis opplysninger om den balanseførte verdien av hver av følgende kategorier som definert i IFRS 9:finansielle eiendeler til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle eiendelene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,finansielle forpliktelser til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle forpliktelsene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,finansielle eiendeler målt til amortisert kost,finansielle forpliktelser målt til amortisert kost, ogfinansielle eiendeler målt til virkelig verdi over andre inntekter og kostnader, spesifisert på (i) gjeldsinstrumenter og (ii) egenkapitalinstrumenter.
+(1) Det skal gis opplysninger om den balanseførte verdien av hver av følgende kategorier som definert i IFRS 9:
+
+1. finansielle eiendeler til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle eiendelene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,
+2. finansielle forpliktelser til virkelig verdi over resultatet, som hver for seg viser (i) de finansielle forpliktelsene som ble øremerket som slike ved førstegangsinnregning, og (ii) de som etter IFRS 9 er pliktig å holde i denne kategorien,
+3. finansielle eiendeler målt til amortisert kost,
+4. finansielle forpliktelser målt til amortisert kost, og
+5. finansielle eiendeler målt til virkelig verdi over andre inntekter og kostnader, spesifisert på (i) gjeldsinstrumenter og (ii) egenkapitalinstrumenter.
 
 > Endret ved [forskrifter 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018), [4 juli 2023 nr. 1243](forskrift/2023-07-04-1243).
 
@@ -593,7 +813,11 @@ Det skal opplyses om den balanseførte verdien av finansielle eiendeler som fore
 
 ### § 5-20. Sikkerhetsstillelse for utlån og andre eiendeler
 
-Når foretaket har akseptert en sikkerhetsstillelse for eiendeler, som det kan selge eller stille som sikkerhet på nytt, skal det opplyses omden virkelige verdien av sikkerhetsstillelsen,den virkelige verdien av sikkerhet som er solgt eller stilt som sikkerhet på nytt, samt om foretaket har en plikt til å returnere den, ogvilkår og betingelser knyttet til foretakets bruk av sikkerhetsstillelsen.
+Når foretaket har akseptert en sikkerhetsstillelse for eiendeler, som det kan selge eller stille som sikkerhet på nytt, skal det opplyses om
+
+1. den virkelige verdien av sikkerhetsstillelsen,
+2. den virkelige verdien av sikkerhet som er solgt eller stilt som sikkerhet på nytt, samt om foretaket har en plikt til å returnere den, og
+3. vilkår og betingelser knyttet til foretakets bruk av sikkerhetsstillelsen.
 
 > Endret ved forskrifter [16 des 2016 nr. 1637](forskrift/2016-12-16-1637) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018, tidligere § 5-19).
 
@@ -659,7 +883,9 @@ Det skal gis opplysninger om virkelig verdi for balansepost 2.3.1 og 2.3.2. Oppl
 
 ### § 5-27. Overføring av finansielle eiendeler
 
-(1) Det skal gis opplysninger som gjør det mulig for brukerne av årsregnskapet:å forstå forholdet mellom overførte finansielle eiendeler som ikke er fraregnet i sin helhet og de tilknyttede forpliktelsene, og b) å evaluere arten av og risikoene knyttet til foretakets vedvarende engasjement i fraregnede finansielle eiendeler.
+(1) Det skal gis opplysninger som gjør det mulig for brukerne av årsregnskapet:
+
+1. å forstå forholdet mellom overførte finansielle eiendeler som ikke er fraregnet i sin helhet og de tilknyttede forpliktelsene, og b) å evaluere arten av og risikoene knyttet til foretakets vedvarende engasjement i fraregnede finansielle eiendeler.
 
 (2) Det skal gis opplysninger om overførte finansielle eiendeler som ikke er blitt fraregnet i sin helhet i samsvar med IFRS 7.42D. Små foretak skal gi opplysninger i samsvar med IFRS 7.42D bokstav a, b og e.
 
@@ -707,7 +933,15 @@ Balansepost 6.3 skal spesifiseres på de viktigste enkeltbeløp, dersom disse er
 
 ### § 5-34. Ansvarlig lån
 
-(1) Foretaket skal gi følgende opplysninger når det gjelder ansvarlig lånekapital:For hvert lån som overstiger 10 prosent av totalbeløpet for den ansvarlige lånekapital:lånets størrelse, den valuta det er oppgitt i, rentesats og forfall, eller opplysning om at det er en evigvarende ansvarlig lånekapital,om det er forhold som eventuelt krever en hurtigere tilbakebetaling ogvilkårene for den ansvarlige lånekapital, eventuelle bestemmelser om at den ansvarlige lånekapital kan konverteres til egenkapital eller til en annen form for gjeld, samt vilkårene i disse bestemmelsene.For annen ansvarlig lånekapital skal det gis en summarisk oversikt over betingelsene.
+(1) Foretaket skal gi følgende opplysninger når det gjelder ansvarlig lånekapital:
+
+For hvert lån som overstiger 10 prosent av totalbeløpet for den ansvarlige lånekapital:
+
+1. lånets størrelse, den valuta det er oppgitt i, rentesats og forfall, eller opplysning om at det er en evigvarende ansvarlig lånekapital,
+2. om det er forhold som eventuelt krever en hurtigere tilbakebetaling og
+3. vilkårene for den ansvarlige lånekapital, eventuelle bestemmelser om at den ansvarlige lånekapital kan konverteres til egenkapital eller til en annen form for gjeld, samt vilkårene i disse bestemmelsene.
+
+For annen ansvarlig lånekapital skal det gis en summarisk oversikt over betingelsene.
 
 (2) Dersom foretaket har opptatt ansvarlig lånekapital i utenlandsk valuta, skal valutakursgevinst eller valutakurstap på slik lånekapital angis. Dersom foretaket har inngått sikringsforretning som gjelder ansvarlig lånekapital i utenlandsk valuta skal dette opplyses.
 
@@ -727,19 +961,58 @@ Balansepost 13.5 skal spesifiseres på de viktigste enkeltbeløp, dersom disse e
 
 (1) Mellomstore og små skadeforsikringsforetak skal gi opplysninger om investeringseiendom i samsvar med andre til fjerde ledd samt [§ 5-6](forskrift/2015-12-18-1775/§5-6) annet ledd.
 
-(2) Foretak som anvender modellen med virkelig verdi skal:opplyse om i hvilket omfang den virkelige verdien er basert på en verdsetting foretatt av en uavhengig takstmann med en anerkjent og relevant faglig kvalifikasjon og som nylig har hatt erfaring med lokaliseringen og kategorien av den investeringseiendommen som blir taksert. Dersom det ikke har skjedd noen slik verdsetting, skal det opplyses om dette.gi en avstemming mellom de balanseførte verdiene av investeringseiendom i begynnelsen og i slutten av perioden som viser:tilganger, spesifisert på:de tilganger som er resultat av anskaffelserde tilganger som er resultat av etterfølgende utgifter innregnet i en eiendels balanseførte verdide tilganger som er resultat av anskaffelser i forbindelse medvirksomhetssammenslutningerinvesteringseiendommer klassifisert som holdt for salg i samsvar med IFRS 5 og andre avhendingernetto gevinster eller tap ved justering av virkelig verdioverføringer til og fra eierbenyttet eiendomandre endringer.
+(2) Foretak som anvender modellen med virkelig verdi skal:
+
+1. opplyse om i hvilket omfang den virkelige verdien er basert på en verdsetting foretatt av en uavhengig takstmann med en anerkjent og relevant faglig kvalifikasjon og som nylig har hatt erfaring med lokaliseringen og kategorien av den investeringseiendommen som blir taksert. Dersom det ikke har skjedd noen slik verdsetting, skal det opplyses om dette.
+2. gi en avstemming mellom de balanseførte verdiene av investeringseiendom i begynnelsen og i slutten av perioden som viser:
+
+   1. tilganger, spesifisert på:
+
+      - de tilganger som er resultat av anskaffelser
+      - de tilganger som er resultat av etterfølgende utgifter innregnet i en eiendels balanseførte verdi
+      - de tilganger som er resultat av anskaffelser i forbindelse medvirksomhetssammenslutninger
+   2. investeringseiendommer klassifisert som holdt for salg i samsvar med IFRS 5 og andre avhendinger
+   3. netto gevinster eller tap ved justering av virkelig verdi
+   4. overføringer til og fra eierbenyttet eiendom
+   5. andre endringer.
 
 (3) I de unntaksvise tilfellene hvor virkelig verdi ikke kan fastsettes på en pålitelig måte (se nr. 53 i IAS 40), skal det gis en beskrivelse av investeringseiendommen og en forklaring på hvorfor virkelig verdi ikke kan fastsettes på en pålitelig måte.
 
-(4) Foretak som anvender anskaffelseskostmodellen skal gi opplysninger om:hvilke avskrivningsmetoder som er benyttet,utnyttbar levetid eller avskrivningssatsene som er benyttet,brutto balanseført verdi og akkumulert avskrivning (herunder akkumulerte tap ved verdifall) ved begynnelsen og slutten av perioden,en avstemming av den balanseførte verdien av investeringseiendom ved begynnelsen og slutten av perioden som viser:tilganger, spesifisert påde tilganger som er resultat av anskaffelserde tilganger som er resultat av etterfølgende utgifter innregnet i en eiendels balanseførte verdi de tilganger som er resultat av anskaffelser i forbindelse med virksomhetssammenslutningerinvesteringseiendommer klassifisert som holdt for salg i samsvar med IFRS 5 og andre avhendingeravskrivningbeløpet for tap ved verdifall som er innregnet, samt beløpet for reverserte tap ved verdifall i løpet av perioden, i samsvar med IAS 36overføringer til og fra eierbenyttet eiendomandre endringer.
+(4) Foretak som anvender anskaffelseskostmodellen skal gi opplysninger om:
+
+1. hvilke avskrivningsmetoder som er benyttet,
+2. utnyttbar levetid eller avskrivningssatsene som er benyttet,
+3. brutto balanseført verdi og akkumulert avskrivning (herunder akkumulerte tap ved verdifall) ved begynnelsen og slutten av perioden,
+4. en avstemming av den balanseførte verdien av investeringseiendom ved begynnelsen og slutten av perioden som viser:
+
+   1. tilganger, spesifisert på
+
+      - de tilganger som er resultat av anskaffelser
+      - de tilganger som er resultat av etterfølgende utgifter innregnet i en eiendels balanseførte verdi de tilganger som er resultat av anskaffelser i forbindelse med virksomhetssammenslutninger
+   2. investeringseiendommer klassifisert som holdt for salg i samsvar med IFRS 5 og andre avhendinger
+   3. avskrivning
+   4. beløpet for tap ved verdifall som er innregnet, samt beløpet for reverserte tap ved verdifall i løpet av perioden, i samsvar med IAS 36
+   5. overføringer til og fra eierbenyttet eiendom
+   6. andre endringer.
 
 > Endret ved forskrifter [16 des 2016 nr. 1637](forskrift/2016-12-16-1637) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018, tidligere § 5-35), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225), tidligere § 5-38), [17 aug 2022 nr. 1453](forskrift/2022-08-17-1453) (i kraft 1 jan 2023).
 
 ### § 5-37. Eierbenyttet eiendom
 
-(1) Det skal gis en avstemming av balanseført verdi av eierbenyttet eiendom ved begynnelsen og slutten av perioden som viser:tilgang og avgangøkninger eller reduksjoner som skyldes verdireguleringeravskrivningerandre endringer.
+(1) Det skal gis en avstemming av balanseført verdi av eierbenyttet eiendom ved begynnelsen og slutten av perioden som viser:
 
-(2) For eierbenyttet eiendom som balanseføres til verdiregulert beløp, skal det videre gis følgende opplysninger:tidspunktet for verdireguleringenom en uavhengig takstmann ble benyttetden balanseførte verdien som ville ha vært innregnet dersom eiendommen hadde vært balanseført i henhold til anskaffelseskostmodellenverdireguleringsreserven, som viser endringen i reserven i periodenopplysninger om virkelig verdi i samsvar med [§ 5-6](forskrift/2015-12-18-1775/§5-6).
+1. tilgang og avgang
+2. økninger eller reduksjoner som skyldes verdireguleringer
+3. avskrivninger
+4. andre endringer.
+
+(2) For eierbenyttet eiendom som balanseføres til verdiregulert beløp, skal det videre gis følgende opplysninger:
+
+1. tidspunktet for verdireguleringen
+2. om en uavhengig takstmann ble benyttet
+3. den balanseførte verdien som ville ha vært innregnet dersom eiendommen hadde vært balanseført i henhold til anskaffelseskostmodellen
+4. verdireguleringsreserven, som viser endringen i reserven i perioden
+5. opplysninger om virkelig verdi i samsvar med [§ 5-6](forskrift/2015-12-18-1775/§5-6).
 
 > Endret ved [forskrifter 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018, tidligere § 5-36), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225), tidligere § 5-39).
 
@@ -785,7 +1058,13 @@ Ansvarlig lånekapital i datterforetak, tilknyttede foretak og felleskontrollert
 
 ### § 5-42. Immaterielle eiendeler samt anlegg og utstyr
 
-(1) For hver post under immaterielle eiendeler samt anlegg og utstyr skal det opplyses om: inngående balanse,anskaffelseskost,tilgang og avgang i løpet av regnskapsåret,samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger,avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret ogutgående balanse.
+(1) For hver post under immaterielle eiendeler samt anlegg og utstyr skal det opplyses om: inngående balanse,
+
+1. anskaffelseskost,
+2. tilgang og avgang i løpet av regnskapsåret,
+3. samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger,
+4. avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret og
+5. utgående balanse.
 
 (2) Det skal opplyses om endring i avskrivningsplan.
 
@@ -813,9 +1092,17 @@ Ansvarlig lånekapital i datterforetak, tilknyttede foretak og felleskontrollert
 
 (2) Det skal gis opplysninger om navn og eierandel for de 20 største aksjeeierne. Opplysning om aksjeeiere som eier under 1 prosent av aksjene kan utelates.
 
-(3) Det skal opplyses om aksjer i foretaket samt rettigheter til slike, som eies av hvert enkelt medlem av styret, representantskap, kontrollkomiteen, samt administrerende direktør og de enkelte ledende ansatte. For hver aksjeeier skal medregnes aksjer som eies av personlig nærstående. Som personlig nærstående regnes:ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i a) som vedkommende bor sammen med, ogforetak der vedkommende selv eller noen som er nevnt i a) og b) har slik bestemmende innflytelse som nevnt i [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+(3) Det skal opplyses om aksjer i foretaket samt rettigheter til slike, som eies av hvert enkelt medlem av styret, representantskap, kontrollkomiteen, samt administrerende direktør og de enkelte ledende ansatte. For hver aksjeeier skal medregnes aksjer som eies av personlig nærstående. Som personlig nærstående regnes:
 
-(4) Foretak som er morselskap skal i tillegg opplyse om datterforetaks beholdning av morselskapets aksjer. Endringer i løpet av regnskapsåret i beholdningen av foretakets egne aksjer og datterforetakenes beholdning av aksjer i morselskapet skal spesifiseres. Det skal minst opplyses om:bakgrunnen for erverv som har funnet sted,antall aksjer som er ervervet, og vederlaget, ogantall aksjer som er avhendet, og vederlaget.
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i a) som vedkommende bor sammen med, og
+3. foretak der vedkommende selv eller noen som er nevnt i a) og b) har slik bestemmende innflytelse som nevnt i [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+
+(4) Foretak som er morselskap skal i tillegg opplyse om datterforetaks beholdning av morselskapets aksjer. Endringer i løpet av regnskapsåret i beholdningen av foretakets egne aksjer og datterforetakenes beholdning av aksjer i morselskapet skal spesifiseres. Det skal minst opplyses om:
+
+1. bakgrunnen for erverv som har funnet sted,
+2. antall aksjer som er ervervet, og vederlaget, og
+3. antall aksjer som er avhendet, og vederlaget.
 
 (5) Regnskapspliktige som er utstedere med Norge som hjemstat etter [verdipapirhandelloven § 5-4](lov/2007-06-29-75/§5-4), skal opplyse om vesentlige indirekte aksjebesittelser i foretaket. Aksjebesittelser som representerer minst 10 prosent av stemmerettene i foretaket, regnes som vesentlige etter første punktum.
 

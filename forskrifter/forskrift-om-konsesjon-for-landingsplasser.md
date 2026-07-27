@@ -26,13 +26,24 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med forskriften er:Å angi hvilke landingsplasser som trenger konsesjon, vilkårene for konsesjon og opplysninger om søknadsprosessen mv.Å sikre en samfunnstjenlig luftfart og en hensiktsmessig disponering av arealer, og at vurderingen av konsesjonssøknader skjer ut fra hensynet til miljø, helse, flysikkerhet, næringsinteresser, reguleringsplan, kulturlandskap, samt hensynet til regional utvikling og bosetting.
+Formålet med forskriften er:
+
+1. Å angi hvilke landingsplasser som trenger konsesjon, vilkårene for konsesjon og opplysninger om søknadsprosessen mv.
+2. Å sikre en samfunnstjenlig luftfart og en hensiktsmessig disponering av arealer, og at vurderingen av konsesjonssøknader skjer ut fra hensynet til miljø, helse, flysikkerhet, næringsinteresser, reguleringsplan, kulturlandskap, samt hensynet til regional utvikling og bosetting.
 
 ## Overskrift b
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*Flybevegelse:* Enten en avgang eller en landing med luftfartøy.*Landingsplass:* Et bestemt land- eller sjøområde (med bygninger, installasjoner og utstyr) som er beregnet til helt eller delvis å bli brukt for luftfartøyers avgang, landing og annen manøvrering.*Naturlig landingsplass:* Et land- eller sjøområde hvor det ikke er eller vil bli foretatt annet enn ubetydelig rydnings-, anleggs- eller bygningsvirksomhet for å tilrettelegge det som landingsplass.*Lufthavn:* Flyplass åpen for sivil trafikk som med hensyn til anlegg, instrumentering, utstyr og tjenester er av en slik standard at den etter luftfartsmyndighetens oppfatning er av vesentlig betydning for sivil luftfart.*Operatør:* En person, organisasjon eller virksomhet som er engasjert eller tilbyr engasjement i operasjon av luftfartøy.*Landingsplass til offentlig bruk:* Landingsplass som kan benyttes av enhver innenfor kunngjort åpningstid uten særskilt tillatelse fra konsesjonshaver.*Landingsplass til privat bruk:* Landingsplass hvor benyttelse krever særskilt tillatelse fra konsesjonsinnehaver.
+I denne forskrift menes med:
+
+1. *Flybevegelse:* Enten en avgang eller en landing med luftfartøy.
+2. *Landingsplass:* Et bestemt land- eller sjøområde (med bygninger, installasjoner og utstyr) som er beregnet til helt eller delvis å bli brukt for luftfartøyers avgang, landing og annen manøvrering.
+3. *Naturlig landingsplass:* Et land- eller sjøområde hvor det ikke er eller vil bli foretatt annet enn ubetydelig rydnings-, anleggs- eller bygningsvirksomhet for å tilrettelegge det som landingsplass.
+4. *Lufthavn:* Flyplass åpen for sivil trafikk som med hensyn til anlegg, instrumentering, utstyr og tjenester er av en slik standard at den etter luftfartsmyndighetens oppfatning er av vesentlig betydning for sivil luftfart.
+5. *Operatør:* En person, organisasjon eller virksomhet som er engasjert eller tilbyr engasjement i operasjon av luftfartøy.
+6. *Landingsplass til offentlig bruk:* Landingsplass som kan benyttes av enhver innenfor kunngjort åpningstid uten særskilt tillatelse fra konsesjonshaver.
+7. *Landingsplass til privat bruk:* Landingsplass hvor benyttelse krever særskilt tillatelse fra konsesjonsinnehaver.
 
 ### Overskrift o
 
@@ -46,7 +57,13 @@ I denne forskrift menes med:*Flybevegelse:* Enten en avgang eller en landing med
 
 ### § 4. Landingsplass som er unntatt fra konsesjonskravet
 
-(1) Følgende landingsplasser er unntatt fra konsesjonskravet:Naturlig landingsplass der det ikke foretas mer enn 12 flybevegelser per uke. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes av samme operatør.Landingsplass på faste eller flyttbare innretninger på norsk kontinentalsokkel i tilknytning til petroleumsvirksomhet.Landingsplass som vil bli benyttet i høyst én måned og som ikke har karakter av å være en fast etablert landingsplass. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes av samme operatør.Landingsplass i forbindelse med bygg- og anleggsvirksomhet hvor landingsplassen ikke blir benyttet i mer enn ett år. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes i forbindelse med samme bygge- og anleggsprosjekt.Landingsplass på skip.
+(1) Følgende landingsplasser er unntatt fra konsesjonskravet:
+
+1. Naturlig landingsplass der det ikke foretas mer enn 12 flybevegelser per uke. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes av samme operatør.
+2. Landingsplass på faste eller flyttbare innretninger på norsk kontinentalsokkel i tilknytning til petroleumsvirksomhet.
+3. Landingsplass som vil bli benyttet i høyst én måned og som ikke har karakter av å være en fast etablert landingsplass. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes av samme operatør.
+4. Landingsplass i forbindelse med bygg- og anleggsvirksomhet hvor landingsplassen ikke blir benyttet i mer enn ett år. To eller flere landingsplasser som ligger nærmere hverandre enn 1 km, regnes i denne sammenheng som en og samme landingsplass dersom landingsplassene benyttes i forbindelse med samme bygge- og anleggsprosjekt.
+5. Landingsplass på skip.
 
 (2) Luftfartstilsynet kan likevel kreve konsesjon for disse landingsplassene dersom støymessige eller flysikkerhetsmessige hensyn tilsier det.
 
@@ -76,11 +93,28 @@ Dersom det er krav om teknisk/operativ godkjenning for landingsplassen skal slik
 
 ### § 9. Opplysninger om området der landingsplassen skal ligge
 
-Søknaden skal inneholde:dokumentasjon på eierforholdet der landingsplassen skal ligge, i form av utskrift av grunnboken og eventuelt avtale med grunneier om eksklusiv bruks- og råderett over området som landingsplass i hele perioden det søkes konsesjon for,oversiktskart som viser landingsplassens beliggenhet, områdene rundt og den aktuelle eiendommens gårds- og bruksnummer,kart som viser landingsplassens utstrekning og plassering i hensiktsmessig målestokk, fortrinnsvis i A4-format for helikopterplasser og A3-format for andre landingsplasser,opplysninger om hvorvidt området for landingsplassen er regulert i kommunale eller fylkeskommunale planer. Dersom området for landingsplassen ikke er regulert til formålet, skal kopi av nødvendige dispensasjoner fra kommunen vedlegges søknaden.
+Søknaden skal inneholde:
+
+1. dokumentasjon på eierforholdet der landingsplassen skal ligge, i form av utskrift av grunnboken og eventuelt avtale med grunneier om eksklusiv bruks- og råderett over området som landingsplass i hele perioden det søkes konsesjon for,
+2. oversiktskart som viser landingsplassens beliggenhet, områdene rundt og den aktuelle eiendommens gårds- og bruksnummer,
+3. kart som viser landingsplassens utstrekning og plassering i hensiktsmessig målestokk, fortrinnsvis i A4-format for helikopterplasser og A3-format for andre landingsplasser,
+4. opplysninger om hvorvidt området for landingsplassen er regulert i kommunale eller fylkeskommunale planer. Dersom området for landingsplassen ikke er regulert til formålet, skal kopi av nødvendige dispensasjoner fra kommunen vedlegges søknaden.
 
 ### § 10. Opplysninger om landingsplassens anvendelse og utvikling
 
-Søknaden skal inneholde følgende opplysninger:Planlagt åpningstid for landingsplassen.Aktuelle luftfartøytyper.Anslag over forventet antall flybevegelser i uken og på årsbasis.Under hvilke forhold landingsplassen skal benyttes (dagslys/mørke, instrumentforhold, sommer/vinter).Om landingsplassen forventes å ha en eller flere av følgende aktiviteter:Luftrutetrafikk eller annen regelbundet luftfartsvirksomhet.Hoved- eller sekundærbase for ervervsmessig luftfartsforetak.Base for skoleflyging med motorfly eller helikopter.Om landingsplassen skal være til offentlig bruk.Om landingsplassen skal brukes til internasjonal luftfart.
+Søknaden skal inneholde følgende opplysninger:
+
+1. Planlagt åpningstid for landingsplassen.
+2. Aktuelle luftfartøytyper.
+3. Anslag over forventet antall flybevegelser i uken og på årsbasis.
+4. Under hvilke forhold landingsplassen skal benyttes (dagslys/mørke, instrumentforhold, sommer/vinter).
+5. Om landingsplassen forventes å ha en eller flere av følgende aktiviteter:
+
+   1. Luftrutetrafikk eller annen regelbundet luftfartsvirksomhet.
+   2. Hoved- eller sekundærbase for ervervsmessig luftfartsforetak.
+   3. Base for skoleflyging med motorfly eller helikopter.
+6. Om landingsplassen skal være til offentlig bruk.
+7. Om landingsplassen skal brukes til internasjonal luftfart.
 
 ### § 11. Konsekvens- og miljøutredning m.m.
 
@@ -94,7 +128,12 @@ Søknaden skal inneholde følgende opplysninger:Planlagt åpningstid for landing
 
 ### § 12. Tilleggskrav for landingsplasser til offentlig bruk
 
-For landingsplasser til offentlig bruk, kreves i tillegg:Redegjørelse for konsesjonssøkers organiseringsform, økonomiske status og administrative oppbygging.Redegjørelse for prosjektets investeringskostnader og finansieringsplan.Redegjørelse for forventede driftsutgifter for landingsplassen.Kalkyle over forventede inntekter i form av luftfartsavgifter og eventuelt andre inntekter ved landingsplassen.
+For landingsplasser til offentlig bruk, kreves i tillegg:
+
+1. Redegjørelse for konsesjonssøkers organiseringsform, økonomiske status og administrative oppbygging.
+2. Redegjørelse for prosjektets investeringskostnader og finansieringsplan.
+3. Redegjørelse for forventede driftsutgifter for landingsplassen.
+4. Kalkyle over forventede inntekter i form av luftfartsavgifter og eventuelt andre inntekter ved landingsplassen.
 
 ### § 13. Tilleggsopplysninger
 
@@ -102,7 +141,14 @@ Søker plikter ellers å fremlegge de opplysninger Luftfartsmyndigheten anser so
 
 ### § 14. Søknad om fornyelse av konsesjon
 
-(1) Søknad om fornyelse av konsesjon skal inneholde:Søkers navn, adresse og telefonnummer. Firmaattest dersom søker er en juridisk person.Redegjørelse for dagens trafikk ved landingsplassen og forventet utvikling.Oppdatert status for områdets plansituasjon.Bilag som nevnt i [§ 11](forskrift/2007-01-11-40/§11) dersom slike ikke foreligger fra før, eller forutsetningene for disse er vesentlig endret siden forrige konsesjon ble gitt.Oppdaterte kart over landingsplassen, jf. [§ 9](forskrift/2007-01-11-40/§9) bokstav b og c.Andre opplysninger som kan ha betydning for konsesjonen eller vilkår som er knyttet til konsesjonen.
+(1) Søknad om fornyelse av konsesjon skal inneholde:
+
+1. Søkers navn, adresse og telefonnummer. Firmaattest dersom søker er en juridisk person.
+2. Redegjørelse for dagens trafikk ved landingsplassen og forventet utvikling.
+3. Oppdatert status for områdets plansituasjon.
+4. Bilag som nevnt i [§ 11](forskrift/2007-01-11-40/§11) dersom slike ikke foreligger fra før, eller forutsetningene for disse er vesentlig endret siden forrige konsesjon ble gitt.
+5. Oppdaterte kart over landingsplassen, jf. [§ 9](forskrift/2007-01-11-40/§9) bokstav b og c.
+6. Andre opplysninger som kan ha betydning for konsesjonen eller vilkår som er knyttet til konsesjonen.
 
 (2) Søker plikter ellers å fremlegge de opplysninger Luftfartsmyndigheten anser som nødvendige for å ta stilling til søknaden.
 
@@ -146,11 +192,27 @@ Forskriften trer i kraft straks.
 
 ### Generelt
 
-Søknader om konsesjon for landingsplasser skal sendes til Luftfartstilsynet.Postadresse: Postboks 243, 8001 BodøTelefon: 75 58 50 00Faks: 75 58 50 05E-post: postmottak caa.noInternett: [www.luftfartstilsynet.no](https://www.luftfartstilsynet.no).
+Søknader om konsesjon for landingsplasser skal sendes til Luftfartstilsynet.
+
+Postadresse: Postboks 243, 8001 Bodø
+
+Telefon: 75 58 50 00
+
+Faks: 75 58 50 05
+
+E-post: postmottak caa.no
+
+Internett: [www.luftfartstilsynet.no](https://www.luftfartstilsynet.no).
 
 Luftfartstilsynet er delegert myndighet til å behandle og fatte vedtak i de fleste saker om konsesjon. I konsesjonssaker som antas å være av politisk art, fatter Samferdselsdepartementet vedtak i saken, men Luftfartstilsynet er forberedende organ, jf. [delegeringsvedtak 10. desember 1999 nr. 1273](forskrift/1999-12-10-1273).
 
-Søknader om konsesjon skal etter [luftfartsloven § 7-6](lov/1993-06-11-101/§7-6) sendes på høring til berørte kommuner og andre myndigheter. Normalt vil høringsinstansene være følgende etater:Kommunen der landingsplassen ligger, samt eventuelle berørte nabokommuner.Fylkesmannen i fylket hvor landingsplassen ligger.Fylkeskommunen i fylket hvor landingsplassen ligger.Kystverket i saker om sjøflyplasser.Statens vegvesen dersom landingsplassen ligger i nærheten av riks- eller fylkesvei.
+Søknader om konsesjon skal etter [luftfartsloven § 7-6](lov/1993-06-11-101/§7-6) sendes på høring til berørte kommuner og andre myndigheter. Normalt vil høringsinstansene være følgende etater:
+
+- Kommunen der landingsplassen ligger, samt eventuelle berørte nabokommuner.
+- Fylkesmannen i fylket hvor landingsplassen ligger.
+- Fylkeskommunen i fylket hvor landingsplassen ligger.
+- Kystverket i saker om sjøflyplasser.
+- Statens vegvesen dersom landingsplassen ligger i nærheten av riks- eller fylkesvei.
 
 Luftfartstilsynet vurderer i hvert enkelt tilfelle hvorvidt forvaltningslovens utredningsplikt tilsier at også andre bør høres.
 
@@ -172,7 +234,11 @@ Konsesjonsplikten retter seg mot den som vil anlegge, inneha eller drive en land
 
 Ansvaret for å overholde konsesjonsbestemmelsene kan i utgangspunktet påhvile både grunneier/leier av grunn og den operatør som benytter landingsplassen. Når det er tildelt konsesjon for en landingsplass, påhviler dette ansvaret konsesjonshaver.
 
-For å unngå uklarheter om ansvarsforholdet i forbindelse med en konsesjon og for å unngå at flere operatører hevder rett til å utnytte samme område som landingsplass, kreves det at den som søker konsesjon må kunne dokumentere (jf. [§ 9](forskrift/2007-01-11-40/§9) bokstav a) en eksklusiv rett til å utnytte området som landingsplass. Dette enten gjennom:eiendomsrett, elleravtale o.l. som gir eksklusiv rett til å bruke området som landingsplass elleravtale o.l. som gir rett til å tillate eller forby andres bruk av området som landingsplass.
+For å unngå uklarheter om ansvarsforholdet i forbindelse med en konsesjon og for å unngå at flere operatører hevder rett til å utnytte samme område som landingsplass, kreves det at den som søker konsesjon må kunne dokumentere (jf. [§ 9](forskrift/2007-01-11-40/§9) bokstav a) en eksklusiv rett til å utnytte området som landingsplass. Dette enten gjennom:
+
+- eiendomsrett, eller
+- avtale o.l. som gir eksklusiv rett til å bruke området som landingsplass eller
+- avtale o.l. som gir rett til å tillate eller forby andres bruk av området som landingsplass.
 
 ### Til § 4 Landingsplass som er unntatt fra konsesjonskravet
 
@@ -214,7 +280,17 @@ Gebyret betales inn til Luftfartstilsynets kontonr. 7694 05 07681. Det bør oppl
 
 *Særkrav for sjøflyplasser:* Ved etablering av sjøflyplasser er det i enkelte tilfelle krav om tillatelse etter [lov 8. juni 1984 nr. 51](lov/1984-06-08-51) om havner og farvann m.v. Søknad om tillatelse etter havne- og farvannsloven sendes til Kystverkets distriktskontor eller det lokale havnevesen i kommuner der det er opprettet havnedistrikt. Kystdirektoratet vil være behjelpelig med å identifisere rett organ for søknaden.
 
-Adresse:Kystdirektoratet, Serviceboks 2, 6025 ÅlesundTelefon: 70 23 10 00Faks: 70 23 10 08E-post: kystdir kystverket.noInternett: [www.kystverket.no](https://www.kystverket.no).
+Adresse:
+
+Kystdirektoratet, Serviceboks 2, 6025 Ålesund
+
+Telefon: 70 23 10 00
+
+Faks: 70 23 10 08
+
+E-post: kystdir kystverket.no
+
+Internett: [www.kystverket.no](https://www.kystverket.no).
 
 ### Til § 7 Navn på landingsplass
 
@@ -230,7 +306,13 @@ Dersom kravet om tre elementer innebærer et navn som overhodet ikke er hensikts
 
 *Bokstav g:* Dersom landingsplassen skal brukes til internasjonal luftfart kreves det at landingsplassen innehar såkalt internasjonal status. I henhold til [luftfartsloven § 7-23](lov/1993-06-11-101/§7-23) kan departementet bestemme hvilke landingsplasser som skal ha internasjonal status. Det må søkes spesielt om slik tillatelse. Søknaden sendes til Luftfartstilsynet for forberedende behandling, som igjen oversender saken til Samferdselsdepartementet for vedtak.
 
-Søknad om internasjonal status må inneholde følgende opplysninger:forventet trafikkmengdehvilke områder man vil betjenetrafikkgrunnlaget i disse områdeneantall landingerplanlagte kontrollfasiliteter (pass, toll og security).
+Søknad om internasjonal status må inneholde følgende opplysninger:
+
+- forventet trafikkmengde
+- hvilke områder man vil betjene
+- trafikkgrunnlaget i disse områdene
+- antall landinger
+- planlagte kontrollfasiliteter (pass, toll og security).
 
 Det må påregnes en saksbehandlingstid på ca. tre måneder for denne typen tillatelser. Det bør derfor søkes samtidig med konsesjonssøknaden slik at saksbehandlingen kan løpe parallelt.
 
@@ -248,20 +330,82 @@ En miljøutredning i konsesjonsforskriftens forstand betyr en redegjørelse for 
 
 Luftfartstilsynet forutsetter at redegjørelsens omfang avpasses tiltakets størrelse, det vil si at en enkel flystripe langt fra bebyggelse ikke bør gjennomgå en like inngående vurdering som en sterkt trafikkert helikopterplass i tettbebygd strøk. Se veiledningens del 2 for oversikt over hvilke spørsmål som bør besvares som en del av miljøutredningen. Det bør gis en kort begrunnelse for valg av svaralternativ.
 
-*Tredje ledd:* Det er som hovedregel fastsatt krav til støyberegning i henhold til Miljøverndepartementets retningslinjer T-1442. En slik støyberegning gjør det enklere for å vurdere landingsplassens miljøpåvirkning, og derfor et viktig dokument for behandlingen av søknad om konsesjon. For nærmere informasjon henvises det til Statens forurensingstilsyn (SFT).Adresse: Strømsveien 96, Postboks 8100 Dep, 0032 OsloTelefon: 22 57 34 00Faks: 22 67 67 06E-post: postmottak sft.noInternett: [www.sft.no](https://www.sft.no).
+*Tredje ledd:* Det er som hovedregel fastsatt krav til støyberegning i henhold til Miljøverndepartementets retningslinjer T-1442. En slik støyberegning gjør det enklere for å vurdere landingsplassens miljøpåvirkning, og derfor et viktig dokument for behandlingen av søknad om konsesjon. For nærmere informasjon henvises det til Statens forurensingstilsyn (SFT).
+
+Adresse: Strømsveien 96, Postboks 8100 Dep, 0032 Oslo
+
+Telefon: 22 57 34 00
+
+Faks: 22 67 67 06
+
+E-post: postmottak sft.no
+
+Internett: [www.sft.no](https://www.sft.no).
 
 Det er i forskriften inntatt en særskilt dispensasjonsbestemmelse fra kravet om støyberegninger. Bakgrunnen for dette er at det reelle behovet for støyberegninger kan variere fra sak til sak. Det ene ytterpunktet vil være landingsplasser nær støyømfintlig bebyggelse, hvor støyberegninger klart bør være en forutsetning for å få vurdert en konsesjonssøknad. Motsatt ytterpunkt vil være avsidesliggende landingsplasser, hvor støyberegninger ikke spiller noen sentral rolle for de lokale myndigheters syn på saken i høringsrunden. I tillegg kommer det forhold at støyberegninger etter Miljøverndepartementets retningslinjer kan utgjøre en vesentlig kostnad, særlig for mindre operatører. Det er derfor vurdert som ønskelig å ha en klar dispensasjonsadgang for de tilfeller hvor støymåling ikke anses nødvendig, eller hvor det anses tilstrekkelig med en enklere støymåling enn hva som følger av Miljøverndepartementets retningslinjer. Før vedtak om dispensasjon treffes, skal Luftfartstilsynet innhente uttalelse fra høringsinstansene for den enkelte sak.
 
 *Fjerde ledd:* For å kunne redusere omfang og skader av uønskede hendelser, slik som uhell, ulykker, driftsstans og katastrofer, er det en forutsetning at man først kartlegger risiko og sårbarhet. Enkelte landingsplasser vil kunne utgjøre en større risiko for samfunnssikkerheten enn andre og det er nødvendig å foreta en analyse. Dette vil sikre at det foretas en gjennomgang av mulige scenarier knyttet til den enkelte landingsplass, at det avdekkes hendelser som kan forebygges og at man eventuelt finner mer hensiktsmessig plassering av landingsplassen.
 
-Nedenfor følger enkelte eksempler på hendelser som det kan være aktuelt å kartlegge risikoen for:eksplosjoner,brann,sabotasje og hærverk,storm/orkan,ras- og skredfare,svikt eller brudd i elektrisitetsforsyningen,forurensing av drikkevann,olje- og kjemikalieforurensning,havari.
+Nedenfor følger enkelte eksempler på hendelser som det kan være aktuelt å kartlegge risikoen for:
 
-Tenkelige informasjonskilder kan være:uttalelser fra fagkyndige,lokalkunnskap,rapporterte nestenulykker,tilsynsrapporter,ulykkesstatistikker,dokumentasjon av anlegg.
+- eksplosjoner,
+- brann,
+- sabotasje og hærverk,
+- storm/orkan,
+- ras- og skredfare,
+- svikt eller brudd i elektrisitetsforsyningen,
+- forurensing av drikkevann,
+- olje- og kjemikalieforurensning,
+- havari.
 
-For nærmere informasjon om innhold og fremgangsmåte for utarbeidelsen av ROS-analyse, henvises det til Direktorat for samfunnssikkerhet og beredskap (DSB).Adresse: Postboks 2014, 3103 TønsbergTelefon: 33 41 25 00Faks: 33 31 06 60E-post: postmottak dsb.noInternett: [www.dsb.no](https://www.dsb.no).
+Tenkelige informasjonskilder kan være:
+
+- uttalelser fra fagkyndige,
+- lokalkunnskap,
+- rapporterte nestenulykker,
+- tilsynsrapporter,
+- ulykkesstatistikker,
+- dokumentasjon av anlegg.
+
+For nærmere informasjon om innhold og fremgangsmåte for utarbeidelsen av ROS-analyse, henvises det til Direktorat for samfunnssikkerhet og beredskap (DSB).
+
+Adresse: Postboks 2014, 3103 Tønsberg
+
+Telefon: 33 41 25 00
+
+Faks: 33 31 06 60
+
+E-post: postmottak dsb.no
+
+Internett: [www.dsb.no](https://www.dsb.no).
 
 ### Del 2. Miljøutredning
 
-Spørsmålene nedenfor bør besvares som en del av miljøutredningen i henhold til [§ 11](forskrift/2007-01-11-40/§11) annet ledd. De besvares med:Sannsynlig.Mindre sannsynlig.Lite sannsynlig.
+Spørsmålene nedenfor bør besvares som en del av miljøutredningen i henhold til [§ 11](forskrift/2007-01-11-40/§11) annet ledd. De besvares med:
 
-Ved vurdering av *vesentlighetskriteriet* i spørsmålene i denne sjekklisten bør det legges vekt på om sakens konsekvenser kan være særlig risikofylte, farlige eller uopprettelige.Kan tiltaket bidra til miljø- eller helseskadelig forurensning?Vil tiltaket føre til vesentlig påvirkning av vannkvaliteten i ferskvannsforekomster eller marine områder, slik at muligheten til å opprettholde arter og/eller økosystemer og ivareta hensynet til menneskers helse og trivsel reduseres?Vil tiltaket føre til en vesentlig økning av utslippene av næringssaltene fosfor og nitrogen til ferskvannsforekomster eller marine områder?Vil tiltaket føre til vesentlig utslipp av olje?Vil tiltaket føre til vesentlig utslipp og bruk av kjemikalier, slik at det medfører helse- eller miljøskade?Vil tiltaket føre til sluttbehandling av betydelige avfallsmengder eller til at det oppstår betydelige mengder spesialavfall?Vil tiltaket føre til vesentlig økte utslipp av klimagasser, eller til produksjon og forbruk av ozonreduserende stoffer?Vil tiltaket føre til vesentlig økte utslipp av svoveldioksid, nitrogenoksider, flyktige organiske forbindelser og ammoniakk, slik at naturens tålegrense overskrides?Vil tiltaket bidra til vesentlig økt lokal luftforurensning?Vil tiltaket bidra til vesentlig økt støy?Kan tiltaket medføre inngrep i verdifulle arealer og bruken av disse, eller påvirke biologisk mangfold?Vil tiltaket forårsake vesentlig inngrep, nærføring eller annen påvirkning som medfører at kulturminner og kulturmiljøer går tapt, blir skadet eller får nedsatt kvalitet?Vil tiltaket påvirke landskapsbildet vesentlig, herunder landskapets kulturhistoriske trekk og estetiske kvaliteter, i landlige områder og/eller i byene og tettstedene?Vil tiltaket få vesentlige konsekvenser for, eller for områder nær inntil, nasjonalparker, landskapsvernområder, naturreservater, vernede vassdrag, naturminner, områder som er foreslått vernet, inngrepsfrie områder, eller truede eller sårbare/hensynskrevende naturtyper?Vil tiltaket få vesentlige konsekvenser for, eller for områder nær inntil, viktige leveområder for fredede eller truede arter?Vil tiltaket påvirke høsting og annen bruk av levende ressurser slik at arter eller bestander utryddes eller trues?Vil tiltaket få vesentlige konsekvenser for verdifulle områder for friluftsliv, jakt, fiske eller rekreasjon, eller vanskeliggjøre den allmenne ferdsel eller tilgjengelighet til slike områder?Vil tiltaket få vesentlige konsekvenser for områder nær inntil boliger, skoler og barnehager, og dermed innvirke på adgang til fri lek og målsetning om å etablere en sammenhengende grøntstruktur?Vil tiltaket få vesentlige konsekvenser for andre eksisterende nasjonale planer angående miljøvern, nasjonal arealpolitikk, rikspolitiske retningslinjer og bestemmelser, fylkesplaner og fylkesdelplaner, eller komme i konflikt med målene om estetikk og tilgjengelighet for alle?Vil tiltaket få vesentlige konsekvenser for arealer med høyt potensiale for matproduksjon eller av stor betydning for reindriften?
+1. Sannsynlig.
+2. Mindre sannsynlig.
+3. Lite sannsynlig.
+
+Ved vurdering av *vesentlighetskriteriet* i spørsmålene i denne sjekklisten bør det legges vekt på om sakens konsekvenser kan være særlig risikofylte, farlige eller uopprettelige.
+
+1. Kan tiltaket bidra til miljø- eller helseskadelig forurensning?
+2. Vil tiltaket føre til vesentlig påvirkning av vannkvaliteten i ferskvannsforekomster eller marine områder, slik at muligheten til å opprettholde arter og/eller økosystemer og ivareta hensynet til menneskers helse og trivsel reduseres?
+3. Vil tiltaket føre til en vesentlig økning av utslippene av næringssaltene fosfor og nitrogen til ferskvannsforekomster eller marine områder?
+4. Vil tiltaket føre til vesentlig utslipp av olje?
+5. Vil tiltaket føre til vesentlig utslipp og bruk av kjemikalier, slik at det medfører helse- eller miljøskade?
+6. Vil tiltaket føre til sluttbehandling av betydelige avfallsmengder eller til at det oppstår betydelige mengder spesialavfall?
+7. Vil tiltaket føre til vesentlig økte utslipp av klimagasser, eller til produksjon og forbruk av ozonreduserende stoffer?
+8. Vil tiltaket føre til vesentlig økte utslipp av svoveldioksid, nitrogenoksider, flyktige organiske forbindelser og ammoniakk, slik at naturens tålegrense overskrides?
+9. Vil tiltaket bidra til vesentlig økt lokal luftforurensning?
+10. Vil tiltaket bidra til vesentlig økt støy?
+11. Kan tiltaket medføre inngrep i verdifulle arealer og bruken av disse, eller påvirke biologisk mangfold?
+12. Vil tiltaket forårsake vesentlig inngrep, nærføring eller annen påvirkning som medfører at kulturminner og kulturmiljøer går tapt, blir skadet eller får nedsatt kvalitet?
+13. Vil tiltaket påvirke landskapsbildet vesentlig, herunder landskapets kulturhistoriske trekk og estetiske kvaliteter, i landlige områder og/eller i byene og tettstedene?
+14. Vil tiltaket få vesentlige konsekvenser for, eller for områder nær inntil, nasjonalparker, landskapsvernområder, naturreservater, vernede vassdrag, naturminner, områder som er foreslått vernet, inngrepsfrie områder, eller truede eller sårbare/hensynskrevende naturtyper?
+15. Vil tiltaket få vesentlige konsekvenser for, eller for områder nær inntil, viktige leveområder for fredede eller truede arter?
+16. Vil tiltaket påvirke høsting og annen bruk av levende ressurser slik at arter eller bestander utryddes eller trues?
+17. Vil tiltaket få vesentlige konsekvenser for verdifulle områder for friluftsliv, jakt, fiske eller rekreasjon, eller vanskeliggjøre den allmenne ferdsel eller tilgjengelighet til slike områder?
+18. Vil tiltaket få vesentlige konsekvenser for områder nær inntil boliger, skoler og barnehager, og dermed innvirke på adgang til fri lek og målsetning om å etablere en sammenhengende grøntstruktur?
+19. Vil tiltaket få vesentlige konsekvenser for andre eksisterende nasjonale planer angående miljøvern, nasjonal arealpolitikk, rikspolitiske retningslinjer og bestemmelser, fylkesplaner og fylkesdelplaner, eller komme i konflikt med målene om estetikk og tilgjengelighet for alle?
+20. Vil tiltaket få vesentlige konsekvenser for arealer med høyt potensiale for matproduksjon eller av stor betydning for reindriften?

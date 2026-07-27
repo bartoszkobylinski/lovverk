@@ -24,11 +24,36 @@ eu_basis: []
 
 ## § 1.
 
-I melding til kommunen om overdragelse av leiegård som omfattes av [lov 29. april 1977 nr. 34](lov/1977-04-29-34) om kommunal forkjøpsrett til leiegårder, skal det gis følgende opplysninger:Eiendommens gnr., bnr. og gateadresse. Dersom eiendommen er seksjonert oppgis snr.Det skal opplyses om det er eiet eller festet grunn. Dersom det er festet grunn oppgis festenr.Selgers navn, personnr./foretaksnr. og adresseKjøpers navn, personnr./foretaksnr. og adresseDersom erververen er eierens ektefelle eller i slekt med eieren eller eierens ektefelle i rett opp- eller nedstigende linje, eller i eierens eller ektefellens første sidelinje til og med barn av søsken, skal det gis opplysning om dette.Navn til samtlige leieboere. Dersom en hovedleier for tiden ikke bor i eiendommen skal vedkommendes adresse oppgis.Antall tidsbegrensede leieforholdAntall tidsubestemte leieforholdAntall ledige boliger og næringslokalerSamlede leieinntekter for foregående årSamlede driftsutgifter for foregående år. Følgende driftsutgifter skal spesifiseres:vedlikeholdsutgifterforsikringerskatter og kommunale avgifterandre driftsutgifterOverdragelsessum og øvrige vilkår, herunder kopi av alle kontrakter vedrørende overdragelsen. Ved gave eller gavesalg oppgis antatt omsetningsverdi. Ved tvangssalg skal stadfestelseskjennelsen vedlegges. Panteattest vedlegges dersom det foreligger.
+I melding til kommunen om overdragelse av leiegård som omfattes av [lov 29. april 1977 nr. 34](lov/1977-04-29-34) om kommunal forkjøpsrett til leiegårder, skal det gis følgende opplysninger:
+
+1. Eiendommens gnr., bnr. og gateadresse. Dersom eiendommen er seksjonert oppgis snr.
+2. Det skal opplyses om det er eiet eller festet grunn. Dersom det er festet grunn oppgis festenr.
+3. Selgers navn, personnr./foretaksnr. og adresse
+4. Kjøpers navn, personnr./foretaksnr. og adresse
+5. Dersom erververen er eierens ektefelle eller i slekt med eieren eller eierens ektefelle i rett opp- eller nedstigende linje, eller i eierens eller ektefellens første sidelinje til og med barn av søsken, skal det gis opplysning om dette.
+6. Navn til samtlige leieboere. Dersom en hovedleier for tiden ikke bor i eiendommen skal vedkommendes adresse oppgis.
+7. Antall tidsbegrensede leieforhold
+8. Antall tidsubestemte leieforhold
+9. Antall ledige boliger og næringslokaler
+10. Samlede leieinntekter for foregående år
+11. Samlede driftsutgifter for foregående år. Følgende driftsutgifter skal spesifiseres:
+
+    1. vedlikeholdsutgifter
+    2. forsikringer
+    3. skatter og kommunale avgifter
+    4. andre driftsutgifter
+12. Overdragelsessum og øvrige vilkår, herunder kopi av alle kontrakter vedrørende overdragelsen. Ved gave eller gavesalg oppgis antatt omsetningsverdi. Ved tvangssalg skal stadfestelseskjennelsen vedlegges. Panteattest vedlegges dersom det foreligger.
 
 ## § 2.
 
-Følgende opplysninger skal gis i den grad de ikke fremgår av vedlagt takst:TomtearealByggeårAntall etasjerAntall boliger og ca. antall m2 boligarealAntall næringslokaler og ca. antall m2 næringsarealArealberegningsmetode som er lagt til grunn under pkt. 5 og 6, jfr. NS-3940 om areal- og volumberegning av bygninger.
+Følgende opplysninger skal gis i den grad de ikke fremgår av vedlagt takst:
+
+1. Tomteareal
+2. Byggeår
+3. Antall etasjer
+4. Antall boliger og ca. antall m2 boligareal
+5. Antall næringslokaler og ca. antall m2 næringsareal
+6. Arealberegningsmetode som er lagt til grunn under pkt. 5 og 6, jfr. NS-3940 om areal- og volumberegning av bygninger.
 
 ## § 3.
 

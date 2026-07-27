@@ -15,7 +15,7 @@ xml_hash: "9b6ee5950e1a6cbafe38b833a208573f2ddce71b0b5a984c1e2ed52ca6e85b5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,10 @@ Helseforetakene er dataansvarlige, jf. [pasientjournalloven § 2](lov/2014-06-20
 
 ## § 10. Endringer i andre forskrifter
 
-Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:I [forskrift 21. desember 2007 nr. 1610](forskrift/2007-12-21-1610) om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) skal [§ 1-7](forskrift/2007-12-21-1610/§1-7) første ledd nytt punkt 1.3 lyde: ---I [forskrift 17. oktober 2003 nr. 1246](forskrift/2003-10-17-1246) om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister (Reseptregisteret) skal [§ 1-8](forskrift/2003-10-17-1246/§1-8) andre ledd bokstav d lyde: ---
+Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:
+
+1. I [forskrift 21. desember 2007 nr. 1610](forskrift/2007-12-21-1610) om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) skal [§ 1-7](forskrift/2007-12-21-1610/§1-7) første ledd nytt punkt 1.3 lyde: ---
+2. I [forskrift 17. oktober 2003 nr. 1246](forskrift/2003-10-17-1246) om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister (Reseptregisteret) skal [§ 1-8](forskrift/2003-10-17-1246/§1-8) andre ledd bokstav d lyde: ---
 
 ## § 11. Ikraftsetting
 

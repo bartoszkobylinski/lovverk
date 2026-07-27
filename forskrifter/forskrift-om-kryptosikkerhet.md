@@ -46,7 +46,14 @@ NSM skal produsere kryptonøkler og utgi kryptodokumenter.
 
 NSM skal utpeke virksomheter med myndighet til å gi kryptokvalifisering, jf. [§ 13](forskrift/2018-12-20-2055/§13) til [§ 16](forskrift/2018-12-20-2055/§16), og hovedforvalter for hver type kryptoutstyr.
 
-Følgende skal godkjennes av NSM:kryptoutstyr, herunder NSK, til beskyttelse av informasjon gradert KONFIDENSIELT eller høyere. Formidles informasjon sikkerhetsgradert NATO SECRET eller COSMIC TOP SECRET, skal kryptosystemet i tillegg være godkjent av NATO. Informasjon merket ATOMAL, STRENGT HEMMELIG, KRYPTO, EKSKLUSIV eller tilsvarende skal behandles på separate systemer godkjent av NSManskaffelse av kryptomateriell for beskyttelse av informasjon gradert KONFIDENSIELT eller høyerebruk av kryptoutstyr og kryptosystemer, og kryptosikkerheten i den enkelte virksomhet før virksomheten kan ta kryptomateriell i brukandre virksomheter enn NSM som skal levere kryptosikkerhetstjenester, herunder tredjepart for offentlige systemer for fordeling av kryptonøklervirksomheter som skal utvikle kryptoutstyrandre virksomheter som skal produsere kryptonøkler og kryptodokument. NSM bestemmer type av kryptonøkler og gyldighetsperiode for disse.
+Følgende skal godkjennes av NSM:
+
+1. kryptoutstyr, herunder NSK, til beskyttelse av informasjon gradert KONFIDENSIELT eller høyere. Formidles informasjon sikkerhetsgradert NATO SECRET eller COSMIC TOP SECRET, skal kryptosystemet i tillegg være godkjent av NATO. Informasjon merket ATOMAL, STRENGT HEMMELIG, KRYPTO, EKSKLUSIV eller tilsvarende skal behandles på separate systemer godkjent av NSM
+2. anskaffelse av kryptomateriell for beskyttelse av informasjon gradert KONFIDENSIELT eller høyere
+3. bruk av kryptoutstyr og kryptosystemer, og kryptosikkerheten i den enkelte virksomhet før virksomheten kan ta kryptomateriell i bruk
+4. andre virksomheter enn NSM som skal levere kryptosikkerhetstjenester, herunder tredjepart for offentlige systemer for fordeling av kryptonøkler
+5. virksomheter som skal utvikle kryptoutstyr
+6. andre virksomheter som skal produsere kryptonøkler og kryptodokument. NSM bestemmer type av kryptonøkler og gyldighetsperiode for disse.
 
 Dersom NSM godkjenner virksomhet som nevnt i femte ledd nr. 4 til 6, skal NSM inngå avtale med virksomheten om ansvar og sikkerhetsmessige forhold.
 
@@ -80,15 +87,34 @@ Kryptosikkerhetspersonellet skal være faglig kvalifisert, herunder kryptokvalif
 
 ### § 7. Virksomhetens leder
 
-Virksomhetens leder er ansvarlig for at sikkerhetsbestemmelsene for kryptotjenesten blir fulgt i egen virksomhet og skalskriftlig utpeke kryptosikkerhetsleder og kryptoforvalter med stedfortredereminst en gang i året kontrollere utførelsen av kryptosikkerhetstjenesteniverksette nødvendige tiltak for å redusere skadevirkning og rapportere til overordnet virksomhet ved sikkerhetsbrudd, kompromittering, uautorisert endring eller utilgjengelighet av kryptoutstyr eller sikkerhetsgradert informasjonsnarest rapportere til NSM og klareringsmyndighet i tilfeller av fjerning eller uautorisert fravær av kryptoforvalter eller stedfortreder, og om nødvendig utpeke ny kryptoforvalter eller stedfortreder.
+Virksomhetens leder er ansvarlig for at sikkerhetsbestemmelsene for kryptotjenesten blir fulgt i egen virksomhet og skal
+
+1. skriftlig utpeke kryptosikkerhetsleder og kryptoforvalter med stedfortredere
+2. minst en gang i året kontrollere utførelsen av kryptosikkerhetstjenesten
+3. iverksette nødvendige tiltak for å redusere skadevirkning og rapportere til overordnet virksomhet ved sikkerhetsbrudd, kompromittering, uautorisert endring eller utilgjengelighet av kryptoutstyr eller sikkerhetsgradert informasjon
+4. snarest rapportere til NSM og klareringsmyndighet i tilfeller av fjerning eller uautorisert fravær av kryptoforvalter eller stedfortreder, og om nødvendig utpeke ny kryptoforvalter eller stedfortreder.
 
 ### § 8. Kryptosikkerhetsleder
 
-Kryptosikkerhetsleder skal føre daglig tilsyn med at sikkerhetsbestemmelsene for kryptotjenesten blir fulgt og skalsørge for opplæring av personell som arbeider med kryptomateriell slik at de er kjent med instruksene til kryptoutstyr som er i brukgjøre virksomhetens leder oppmerksom på sikkerhetsgradert informasjon som er sendt eller mottatt i et kryptosystem som av kontrollerende myndighet er erklært kompromittert, uautorisert endret eller utilgjengeligøyeblikkelig rapportere til virksomhetens leder enhver kjent eller mulig kompromittering, tap, uautorisert tilintetgjøring eller utilfredsstillende oppbevaring av kryptomateriellutarbeide plan for tilintetgjøring og evakuering av kryptomateriell i samsvar med [§ 34](forskrift/2018-12-20-2055/§34) og sørge for at nødvendig utstyr er tilgjengelig for å gjennomføre planenutarbeide lokal kryptosikkerhetsinstruks som skal godkjennes av virksomhetens leder, og etablere lokale løsninger og prosedyrer for krav angitt i lov eller forskrift skal følges.
+Kryptosikkerhetsleder skal føre daglig tilsyn med at sikkerhetsbestemmelsene for kryptotjenesten blir fulgt og skal
+
+1. sørge for opplæring av personell som arbeider med kryptomateriell slik at de er kjent med instruksene til kryptoutstyr som er i bruk
+2. gjøre virksomhetens leder oppmerksom på sikkerhetsgradert informasjon som er sendt eller mottatt i et kryptosystem som av kontrollerende myndighet er erklært kompromittert, uautorisert endret eller utilgjengelig
+3. øyeblikkelig rapportere til virksomhetens leder enhver kjent eller mulig kompromittering, tap, uautorisert tilintetgjøring eller utilfredsstillende oppbevaring av kryptomateriell
+4. utarbeide plan for tilintetgjøring og evakuering av kryptomateriell i samsvar med [§ 34](forskrift/2018-12-20-2055/§34) og sørge for at nødvendig utstyr er tilgjengelig for å gjennomføre planen
+5. utarbeide lokal kryptosikkerhetsinstruks som skal godkjennes av virksomhetens leder, og etablere lokale løsninger og prosedyrer for krav angitt i lov eller forskrift skal følges.
 
 ### § 9. Kryptoforvalter
 
-Kryptoforvalter skal forvalte kryptomateriell ved virksomheten og skalMotta, oppbevare og behandle alt kryptomateriell for å hindre tap og kompromitteringFøre løpende kryptoregnskap over kryptomateriell og ha kontroll med hvor regnskapspliktig kryptomateriell befinner seg og hva det brukes tilUtføre tilintetgjøring og sende tilintetgjøringsrapport i samsvar med pålagte kravDistribuere eller overføre kryptomateriell til autoriserte brukereGjøre seg kjent med gjeldende planer for tilintetgjøring, evakuering og beskyttelse av kryptomateriell i tilfelle brann eller andre nødsituasjonerEtablere prosedyrer for å sikre kontroll med kryptonøkler og annet kryptomateriell som skal overbringes fra en person til en annenØyeblikkelig rapportere til virksomhetens leder eller kryptosikkerhetsleder enhver kjent eller mulig kompromittering, tap, uautorisert tilintetgjøring eller utilfredsstillende oppbevaring av kryptomateriell.
+Kryptoforvalter skal forvalte kryptomateriell ved virksomheten og skal
+
+1. Motta, oppbevare og behandle alt kryptomateriell for å hindre tap og kompromittering
+2. Føre løpende kryptoregnskap over kryptomateriell og ha kontroll med hvor regnskapspliktig kryptomateriell befinner seg og hva det brukes til
+3. Utføre tilintetgjøring og sende tilintetgjøringsrapport i samsvar med pålagte krav
+4. Distribuere eller overføre kryptomateriell til autoriserte brukere
+5. Gjøre seg kjent med gjeldende planer for tilintetgjøring, evakuering og beskyttelse av kryptomateriell i tilfelle brann eller andre nødsituasjoner
+6. Etablere prosedyrer for å sikre kontroll med kryptonøkler og annet kryptomateriell som skal overbringes fra en person til en annen
+7. Øyeblikkelig rapportere til virksomhetens leder eller kryptosikkerhetsleder enhver kjent eller mulig kompromittering, tap, uautorisert tilintetgjøring eller utilfredsstillende oppbevaring av kryptomateriell.
 
 Stedfortredende kryptoforvalter skal bistå kryptoforvalter i utførelsen av dennes oppgaver og i dennes fravær overta ansvar og gjøremål. Stedfortredende kryptoforvalter har ikke ansvar for kryptomateriell når kryptoforvalter er til stede.
 
@@ -134,13 +160,23 @@ Kryptokvalifisering gis av NSM eller virksomhet som NSM utpeker.
 
 Kryptokvalifisering grad 2 kan bare gis når personellet har tjenstlig behov, har sikkerhetsklarering for HEMMELIG/tilsvarende eller høyere, er norsk statsborger og har gjennomført opplæring som nevnt i [§ 11](forskrift/2018-12-20-2055/§11) første ledd.
 
-Tjenstlig behov etter første ledd foreligger bare dersom det er nødvendig å gi personell tilgang tilkryptonøkler for testformål eller operativ bruk gradert til og med HEMMELIGå kryptere eller dekryptere mellom to forbindelsespunkterinformasjon merket KRYPTO ellerkryptoutstyr for det formål å reparere eller vedlikeholde utstyret.
+Tjenstlig behov etter første ledd foreligger bare dersom det er nødvendig å gi personell tilgang til
+
+1. kryptonøkler for testformål eller operativ bruk gradert til og med HEMMELIG
+2. å kryptere eller dekryptere mellom to forbindelsespunkter
+3. informasjon merket KRYPTO eller
+4. kryptoutstyr for det formål å reparere eller vedlikeholde utstyret.
 
 ### § 15. Krav til kryptokvalifisering grad 1
 
 Kryptokvalifisering grad 1 kan bare gis når personellet har tjenstlig behov, har sikkerhetsklarering for STRENGT HEMMELIG/tilsvarende, er norsk statsborger og har gjennomført opplæring som nevnt i [§ 11](forskrift/2018-12-20-2055/§11) første ledd.
 
-Tjenstlig behov etter første ledd foreligger bare dersom det er nødvendig å gi personell tilgang tilkryptonøkler sikkerhetsgradert STRENGT HEMMELIGkryptonøkler for kryptering og dekryptering mellom flere enn to forbindelsespunkterå produsere kryptonøkler ellerå operere kryptosystem godkjent for ATOMAL, STRENGT HEMMELIG, KRYPTO, EKSKLUSIV eller tilsvarende.
+Tjenstlig behov etter første ledd foreligger bare dersom det er nødvendig å gi personell tilgang til
+
+1. kryptonøkler sikkerhetsgradert STRENGT HEMMELIG
+2. kryptonøkler for kryptering og dekryptering mellom flere enn to forbindelsespunkter
+3. å produsere kryptonøkler eller
+4. å operere kryptosystem godkjent for ATOMAL, STRENGT HEMMELIG, KRYPTO, EKSKLUSIV eller tilsvarende.
 
 ### § 16. Tilbakekallelse av kryptokvalifisering
 
@@ -190,7 +226,14 @@ Ved forsendelse av kryptomateriell som ikke er merket KRYPTO, NSK eller CCI skal
 
 ### § 20. Etablering av kryptoregnskap
 
-Enhver virksomhet som mottar kryptomateriell skal føre kryptoregnskap. Før kryptoregnskap etableres, skal virksomheten sende en skriftlig anmodning om dette til NSM, underordnet kryptodistribusjonsmyndighet eller leverandør av kryptosikkerhetstjenester. Anmodningen skal inneholdenavn (tittel) og fullstendig adresse på virksomheten som anmoder om kryptoregnskaparten av kryptomateriell som skal installeres og tidspunktet virksomheten ønsker det i operativ driftbakgrunn og begrunnelse for å etablere kryptoregnskapbeskrivelse og stadfesting av at minimumskravene til fysisk sikring for oppbevaring av kryptomateriell kan oppfyllesnavn og grad/stilling med fødselsnummer til personer som utpekes til kryptosikkerhetsleder, kryptoforvalter eller deres stedfortrederesignaturprøver til kryptoforvalter og dennes stedfortreder, undertegnet av virksomhetens leder.
+Enhver virksomhet som mottar kryptomateriell skal føre kryptoregnskap. Før kryptoregnskap etableres, skal virksomheten sende en skriftlig anmodning om dette til NSM, underordnet kryptodistribusjonsmyndighet eller leverandør av kryptosikkerhetstjenester. Anmodningen skal inneholde
+
+1. navn (tittel) og fullstendig adresse på virksomheten som anmoder om kryptoregnskap
+2. arten av kryptomateriell som skal installeres og tidspunktet virksomheten ønsker det i operativ drift
+3. bakgrunn og begrunnelse for å etablere kryptoregnskap
+4. beskrivelse og stadfesting av at minimumskravene til fysisk sikring for oppbevaring av kryptomateriell kan oppfylles
+5. navn og grad/stilling med fødselsnummer til personer som utpekes til kryptosikkerhetsleder, kryptoforvalter eller deres stedfortredere
+6. signaturprøver til kryptoforvalter og dennes stedfortreder, undertegnet av virksomhetens leder.
 
 Ved mottak av anmodningen kan NSM, underordnet kryptodistribusjonsmyndighet eller leverandør av kryptosikkerhetstjenester, etablere regnskapet og registrere åpningen av regnskapet og utpekingen av kryptoforvalter og dennes stedfortreder. Bekreftelse som stadfester etableringen av kryptoregnskapet skal sendes anmodende virksomhet.
 
@@ -206,7 +249,15 @@ Ved overføring eller tilintetgjøring av registrert kryptomateriell skal materi
 
 ### § 22. Regnskapskoder
 
-I kryptoregnskapet skal det benyttes følgende regnskapskoder (RK) utgitt av NSM, som tilsvarer NATOs Account Legend Codes (ALC), med tilhørende plikter vedrørende regnskapsføring og rapportering:RK 1: Materiellet skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal rapporteresRK 2: Materiellet skal regnskapsføres i alle distribusjonsledd med antall. Materiellet skal rapporteresRK 3: Materiellet skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal ikke rapporteresRK 4: Materiellet skal regnskapsføres i alle distribusjonsledd med antall. Materiellet kan i tillegg føres i det ordinære materiellregnskapet. Materiellet skal ikke rapporteresRK 5: Ikke i brukRK 6: Elektroniske kryptonøkler skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal rapporteresRK 7: Elektroniske kryptonøkler som er lokalt distribuert skal regnskapsføres lokalt. Materiellet skal ikke rapporteres.
+I kryptoregnskapet skal det benyttes følgende regnskapskoder (RK) utgitt av NSM, som tilsvarer NATOs Account Legend Codes (ALC), med tilhørende plikter vedrørende regnskapsføring og rapportering:
+
+1. RK 1: Materiellet skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal rapporteres
+2. RK 2: Materiellet skal regnskapsføres i alle distribusjonsledd med antall. Materiellet skal rapporteres
+3. RK 3: Materiellet skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal ikke rapporteres
+4. RK 4: Materiellet skal regnskapsføres i alle distribusjonsledd med antall. Materiellet kan i tillegg føres i det ordinære materiellregnskapet. Materiellet skal ikke rapporteres
+5. RK 5: Ikke i bruk
+6. RK 6: Elektroniske kryptonøkler skal regnskapsføres i alle distribusjonsledd med antall og registreringsnummer. Materiellet skal rapporteres
+7. RK 7: Elektroniske kryptonøkler som er lokalt distribuert skal regnskapsføres lokalt. Materiellet skal ikke rapporteres.
 
 NSM bestemmer i samråd med hovedforvalter hvilke regnskapskoder som skal benyttes for det enkelte materiell.
 
@@ -228,7 +279,12 @@ Utdrag av kryptonøkler skal ikke beholdes lenger enn nødvendig og under enhver
 
 ### § 25. Rapportering
 
-Ved regnskap over kryptomateriell skal det benyttesoverføringsrapport ved overføring av kryptomateriell fra ett kryptoregnskap til et annetmottaksrapport ved mottak av kryptomateriell der overføringsrapport manglerbeholdningsrapport ved opptelling av fysisk beholdning av kryptomateriell ogtilintetgjøringsrapport ved fysisk tilintetgjøring av kryptomateriell.
+Ved regnskap over kryptomateriell skal det benyttes
+
+1. overføringsrapport ved overføring av kryptomateriell fra ett kryptoregnskap til et annet
+2. mottaksrapport ved mottak av kryptomateriell der overføringsrapport mangler
+3. beholdningsrapport ved opptelling av fysisk beholdning av kryptomateriell og
+4. tilintetgjøringsrapport ved fysisk tilintetgjøring av kryptomateriell.
 
 Underordnet kryptodistribusjonsmyndighet skal kontrollere rapporter fra virksomhetene og sende beholdningsrapport til NSM eller leverandør av kryptosikkerhetstjenester. Virksomheter som mottar kryptomateriell direkte fra NSM skal kontrollere beholdningen og sende beholdningsrapport til NSM.
 
@@ -378,11 +434,28 @@ Kryptoutstyr skal beskyttes i samsvar med [virksomhetsikkerhetsforskriften § 27
 
 ### § 41. Typer sikkerhetstruende hendelser
 
-Operative og tekniske sikkerhetstruende hendelser i form av funksjonsfeil og produksjonsfeil på kryptoutstyr, og operatørfeil som har innvirkning på kryptosikkerheten skal omfattebruk av kryptonøkkel som enten er kompromittert, tidligere brukt og ikke godkjent for gjenbruk, brukt til andre formål enn den er godkjent for, brukt utenfor den tidsperiode den er godkjent for, eller som ikke er godkjent av NSMavvik fra vedlikeholdsinstruks for et spesifikt kryptoutstyrutført eller forsøk på reparasjon eller vedlikehold foretatt av uautorisert personellbruk av forbindelse som ikke er kryptert for å omtale detaljer om feil og feilfunksjoner på kryptoutstyrforsøk på eller utført modifisering av kryptoutstyr uten godkjennelsekompromitterende elektromagnetisk stråling (tempest) fra kryptoutstyr.
+Operative og tekniske sikkerhetstruende hendelser i form av funksjonsfeil og produksjonsfeil på kryptoutstyr, og operatørfeil som har innvirkning på kryptosikkerheten skal omfatte
+
+1. bruk av kryptonøkkel som enten er kompromittert, tidligere brukt og ikke godkjent for gjenbruk, brukt til andre formål enn den er godkjent for, brukt utenfor den tidsperiode den er godkjent for, eller som ikke er godkjent av NSM
+2. avvik fra vedlikeholdsinstruks for et spesifikt kryptoutstyr
+3. utført eller forsøk på reparasjon eller vedlikehold foretatt av uautorisert personell
+4. bruk av forbindelse som ikke er kryptert for å omtale detaljer om feil og feilfunksjoner på kryptoutstyr
+5. forsøk på eller utført modifisering av kryptoutstyr uten godkjennelse
+6. kompromitterende elektromagnetisk stråling (tempest) fra kryptoutstyr.
 
 Personellmessige sikkerhetstruende hendelser i form av at personer med adgang til kryptomateriell kan ha innvirkning på sikkerheten til kryptomateriell, omfatter blant annet tilfeller der det kan være grunn til å revurdere en persons sikkerhetsklarering og tilfeller hvor det har foregått eller vært forsøk på ulovlig utlevering av informasjon om kryptomateriell.
 
-Fysiske sikkerhetstruende hendelser i form av tap, tyveri, manipulering, uautorisert adgang eller innsyn vedrørende kryptomateriell, eller forsøk på slike handlinger, skal omfattekryptomateriell som er rapportert tilintetgjort, men hvor tilintetgjøring ikke har funnet stedkryptomateriell som ikke er fullstendig tilintetgjort og deretter forlatt uten tilsynforsendelse av kryptomateriell utenfor godkjent distribusjonskanalkryptomateriell som ikke er korrekt pakket, mottatt med skadet emballasje, eller uforklarlig brekkasje av forsegling på kryptonøklerbruk av tilintetgjøringsmetoder som ikke er godkjentmangfoldiggjøring eller reproduksjon av kryptonøkler som ikke er godkjent av NSM eller andre virksomheter som produserer kryptonøklerbrudd på eventuelle krav om tilstedeværelse av to personer samtidig for behandling av kryptomateriellforfalskning av kryptodokumenter eller kryptonøkler, ogmanipulering eller inntrenging i et kryptosystem, konstatering av elektroniske overvåkings- eller opptaksanordninger nær et kryptosystem, eller utløsning av sikkerhetsmekanismer mot manipulasjon.
+Fysiske sikkerhetstruende hendelser i form av tap, tyveri, manipulering, uautorisert adgang eller innsyn vedrørende kryptomateriell, eller forsøk på slike handlinger, skal omfatte
+
+1. kryptomateriell som er rapportert tilintetgjort, men hvor tilintetgjøring ikke har funnet sted
+2. kryptomateriell som ikke er fullstendig tilintetgjort og deretter forlatt uten tilsyn
+3. forsendelse av kryptomateriell utenfor godkjent distribusjonskanal
+4. kryptomateriell som ikke er korrekt pakket, mottatt med skadet emballasje, eller uforklarlig brekkasje av forsegling på kryptonøkler
+5. bruk av tilintetgjøringsmetoder som ikke er godkjent
+6. mangfoldiggjøring eller reproduksjon av kryptonøkler som ikke er godkjent av NSM eller andre virksomheter som produserer kryptonøkler
+7. brudd på eventuelle krav om tilstedeværelse av to personer samtidig for behandling av kryptomateriell
+8. forfalskning av kryptodokumenter eller kryptonøkler, og
+9. manipulering eller inntrenging i et kryptosystem, konstatering av elektroniske overvåkings- eller opptaksanordninger nær et kryptosystem, eller utløsning av sikkerhetsmekanismer mot manipulasjon.
 
 ### § 42. Generelt om rapporterings- og tiltaksplikt
 

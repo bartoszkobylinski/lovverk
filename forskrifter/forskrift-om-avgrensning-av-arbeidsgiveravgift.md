@@ -44,7 +44,12 @@ Fritaket i [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2) sjuende ledd gjel
 
 Arbeidsoppdrag etter [§ 2](forskrift/1997-11-19-1173/§2) må avtales av arbeidsgiveren som privatperson. Lønnsutgifter som er fradragsberettiget i arbeidsgiverens næringsvirksomhet eller ved regnskapsligning av bolig- og fritidseiendom, omfattes ikke av avgiftsfritak som nevnt i [§ 2](forskrift/1997-11-19-1173/§2).
 
-Et arbeidsoppdrag går ikke inn under [§ 2](forskrift/1997-11-19-1173/§2) dersom det utføres:av en næringsdrivende, med mindre oppdraget faller utenfor næringsvirksomheten,i et slikt omfang at dette i seg selv må regnes som næringsvirksomhet, eller innebærer en utvidelse av en eksisterende næringsvirksomhet,av en ansatt som har dominerende eierandel eller innflytelse i et aksjeselskap når oppdraget etter sin art omfattes av selskapets virksomhet, ellerav en arbeids- eller oppdragstaker hos en hovedoppdragstaker som oppdragsgiveren har inngått avtale med.
+Et arbeidsoppdrag går ikke inn under [§ 2](forskrift/1997-11-19-1173/§2) dersom det utføres:
+
+1. av en næringsdrivende, med mindre oppdraget faller utenfor næringsvirksomheten,
+2. i et slikt omfang at dette i seg selv må regnes som næringsvirksomhet, eller innebærer en utvidelse av en eksisterende næringsvirksomhet,
+3. av en ansatt som har dominerende eierandel eller innflytelse i et aksjeselskap når oppdraget etter sin art omfattes av selskapets virksomhet, eller
+4. av en arbeids- eller oppdragstaker hos en hovedoppdragstaker som oppdragsgiveren har inngått avtale med.
 
 ### § 4. Beregningsenheten
 

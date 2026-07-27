@@ -15,7 +15,7 @@ xml_hash: "2e7d45e40f046620115aa6cce12255bf5cc0ae316de381e99e941905cbc20a52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Graden doctor philosophiae (dr.philos.) er en ikke-veiledet doktorgrad som kan t
 
 En dr.philos.-grad kvalifiserer for forskningsvirksomhet og annet arbeid i samfunnet hvor det stilles store krav til vitenskapelig innsikt, arbeidsmåte og analytisk tenkning i samsvar med god vitenskapelig skikk og forskningsetiske standarder.
 
-Dr.philos.-graden tildeles på grunnlag av:vitenskapelig avhandlingdoktorgradsprøve.
+Dr.philos.-graden tildeles på grunnlag av:
+
+- vitenskapelig avhandling
+- doktorgradsprøve.
 
 Doktorgradsprøven består av to prøveforelesninger og et offentlig forsvar av avhandlingen, også kalt disputas. Den ene prøveforelesningen er over et oppgitt emne, mens den andre prøveforelesningen er over et selvvalgt emne.
 
@@ -50,13 +53,25 @@ Fakultetets myndighet etter denne forskriften kan ikke delegeres til instituttni
 
 Søkeren skal ha en femårig mastergrad eller tilsvarende utdanning. Fakultetet kan gi søkere som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag adgang til å fremstille seg til doktorgradsprøven. Det påhviler søkeren å fremlegge dokumentasjon på tilsvarende kvalifikasjoner.
 
-Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge, ellerhar sterk tilknytning til norsk forskning innen fagområdet, ellerer utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
+Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge, eller
+- har sterk tilknytning til norsk forskning innen fagområdet, eller
+- er utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
 
 [§ 4](forskrift/2011-01-05-841/§4).2. *Søknad og krav til dokumentasjon*
 
 Søknad rettes til det fakultet som avhandlingens tema hører inn under.
 
-Følgende dokumentasjon skal være vedlagt søknaden:Ett eksemplar av avhandlingen.Dokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjoner.Oversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel).Dokumentasjon på at nødvendige tillatelser er innhentet.Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5](forskrift/2011-01-05-841/§5).1.Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.
+Følgende dokumentasjon skal være vedlagt søknaden:
+
+- Ett eksemplar av avhandlingen.
+- Dokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjoner.
+- Oversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel).
+- Dokumentasjon på at nødvendige tillatelser er innhentet.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5](forskrift/2011-01-05-841/§5).1.
+- Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.
 
 Søkere som ikke er statsborger i Norge eller et annet nordisk land må i tillegg legge ved dokumentasjon på oppholdstillatelse og/eller en redegjørelse for avhandlingens tilknytning til Norge.
 
@@ -112,7 +127,12 @@ Når fakultetet har godkjent søknad om å få avhandlingen bedømt, oppnevner f
 
 Det bør normalt ikke gå mer enn 6 uker fra søknaden er godkjent til komiteen er oppnevnt.
 
-Bedømmelseskomiteen skal som hovedregel settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til Universitetet i Oslominst ett av medlemmene er uten tilknytning til norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal som hovedregel settes sammen slik at:
+
+- begge kjønn er representert
+- minst ett av medlemmene er uten tilknytning til Universitetet i Oslo
+- minst ett av medlemmene er uten tilknytning til norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes skal dette begrunnes særskilt.
 

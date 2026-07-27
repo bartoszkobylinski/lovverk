@@ -15,7 +15,7 @@ xml_hash: "67b006747d21bef999df1d968560d547348a80a066e2bc7ec81fbb7c568e7c9c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,10 @@ Målet skal være at klimagassutslippene i 2050 reduseres i størrelsesorden 90 
 
 ## § 6. Gjennomgang av klimamål hvert femte år
 
-For å fremme omstilling til et lavutslippssamfunn, jf. [§ 5](lov/2017-06-16-60/§5), skal regjeringen i 2020 og deretter hvert femte år legge fram for Stortinget oppdaterte klimamål. Disse skallegge til grunn beste vitenskapelige grunnlagså langt som mulig være tallfestede og målbare.
+For å fremme omstilling til et lavutslippssamfunn, jf. [§ 5](lov/2017-06-16-60/§5), skal regjeringen i 2020 og deretter hvert femte år legge fram for Stortinget oppdaterte klimamål. Disse skal
+
+1. legge til grunn beste vitenskapelige grunnlag
+2. så langt som mulig være tallfestede og målbare.
 
 Klimamål etter paragrafen her skal utgjøre en progresjon fra forrige mål og fremme gradvis omstilling fram mot 2050.
 
@@ -70,9 +73,17 @@ Loven skal ikke være til hinder for at det, som et supplement til klimamål ett
 
 ## § 7. Årlig redegjørelse for Stortinget
 
-I budsjettproposisjonen for neste års statsbudsjett skal regjeringen redegjøre forhvordan Norge kan nå klimamål som nevnt i [§§ 3](lov/2017-06-16-60/§3) til [6](lov/2017-06-16-60/§6)klimaeffekten av fremlagt budsjett.
+I budsjettproposisjonen for neste års statsbudsjett skal regjeringen redegjøre for
 
-Regjeringen skal, basert på et faglig grunnlag, hvert år overfor Stortinget på egnet vis redegjøre forutviklingen i utslipp og opptak av klimagasser, framskrivinger av utslipp og opptak og gjennomføring av klimamål som nevnt i [§§ 3](lov/2017-06-16-60/§3) til [6](lov/2017-06-16-60/§6)hvordan Norge forberedes på og tilpasses klimaendringeneen oversikt som synliggjør sektorvise utslippsbaner innenfor ikke-kvotepliktig sektor og hvilke typer tiltak som vil være nødvendig for å realisere dissestatus for Norges karbonbudsjett, også innenfor et eventuelt klimasamarbeid med EU om felles oppfyllelse av klimamål.
+1. hvordan Norge kan nå klimamål som nevnt i [§§ 3](lov/2017-06-16-60/§3) til [6](lov/2017-06-16-60/§6)
+2. klimaeffekten av fremlagt budsjett.
+
+Regjeringen skal, basert på et faglig grunnlag, hvert år overfor Stortinget på egnet vis redegjøre for
+
+1. utviklingen i utslipp og opptak av klimagasser, framskrivinger av utslipp og opptak og gjennomføring av klimamål som nevnt i [§§ 3](lov/2017-06-16-60/§3) til [6](lov/2017-06-16-60/§6)
+2. hvordan Norge forberedes på og tilpasses klimaendringene
+3. en oversikt som synliggjør sektorvise utslippsbaner innenfor ikke-kvotepliktig sektor og hvilke typer tiltak som vil være nødvendig for å realisere disse
+4. status for Norges karbonbudsjett, også innenfor et eventuelt klimasamarbeid med EU om felles oppfyllelse av klimamål.
 
 > Endret ved lov [20 juni 2025 nr. 90](lov/2025-06-20-90) (tidligere § 6).
 

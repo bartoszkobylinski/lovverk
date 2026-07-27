@@ -15,7 +15,7 @@ xml_hash: "bfe3fa4af3d86a01ff9a98952c89f4dfec53bc4a48eb7bc2adaf5960669ea4aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,13 +91,21 @@ På dette nivået kan innlæreren forstå komplekse framstillinger og faglige dr
 
 Innlæreren kan forstå en kompleks, muntlig framstilling, også når talen ikke er tydelig strukturert og forhold ikke omtales direkte, men er underforståtte. Innlæreren kan ha behov for enkelte oppklaringer, særlig hvis talemålsvarianten er ukjent.
 
-Innlærerenkan forstå det meste av en lengre muntlig framstilling, for eksempel en presentasjon, en forelesning eller en debatt, også om emner utenfor eget fag- eller interessefelt.kan forstå et bredt spekter av auditivt materiale, for eksempel pod kast eller film, og oppfatte nyanser og underforståtte holdninger og forhold mellom dem som snakker.kan oppfatte holdninger og synspunkter til deltakere i en diskusjon selv når diskusjonen preges av overlapping, avbrytelser, digresjoner og uformell språkbruk når talehastigheten er normal, og talemålsvariantene er kjent.
+Innlæreren
+
+- kan forstå det meste av en lengre muntlig framstilling, for eksempel en presentasjon, en forelesning eller en debatt, også om emner utenfor eget fag- eller interessefelt.
+- kan forstå et bredt spekter av auditivt materiale, for eksempel pod kast eller film, og oppfatte nyanser og underforståtte holdninger og forhold mellom dem som snakker.
+- kan oppfatte holdninger og synspunkter til deltakere i en diskusjon selv når diskusjonen preges av overlapping, avbrytelser, digresjoner og uformell språkbruk når talehastigheten er normal, og talemålsvariantene er kjent.
 
 ### Skriftlig resepsjon
 
 Innlæreren kan forstå omfattende, komplekse tekster, og oppfatte finere nyanser, også holdninger og underforståtte meninger, forutsatt at hun/han har mulighet til å lese vanskelige passasjer om igjen og bruke oppslagsverk og søkeverktøy ved behov.
 
-Innlærerenkan forstå et bredt spekter av allmennvitenskapelige eller akademiske artikler og publikasjoner, også utenfor ens eget fag- eller interessefelt.kan forstå det meste av skriftlig informasjonsutveksling i private, offentlige og faglige sammenhenger, for eksempel sosiale medier, e-post, brev eller offentlige skriv.kan forstå et variert utvalg av skjønnlitterære tekster i moderne språkdrakt.
+Innlæreren
+
+- kan forstå et bredt spekter av allmennvitenskapelige eller akademiske artikler og publikasjoner, også utenfor ens eget fag- eller interessefelt.
+- kan forstå det meste av skriftlig informasjonsutveksling i private, offentlige og faglige sammenhenger, for eksempel sosiale medier, e-post, brev eller offentlige skriv.
+- kan forstå et variert utvalg av skjønnlitterære tekster i moderne språkdrakt.
 
 ### Produksjon
 
@@ -105,25 +113,47 @@ Innlærerenkan forstå et bredt spekter av allmennvitenskapelige eller akademisk
 
 Innlæreren kan gi klare, detaljerte beskrivelser og presentasjoner av komplekse emner, der hun/han trekker inn delmomenter og relevante eksempler, utdyper og underbygger synspunkter og runder av på en passende måte.
 
-Innlærerenkan gi klare, detaljerte beskrivelser og presentasjoner av personlige eller faglige erfaringer, flette inn undertema og utdype viktige punkter.kan gi instruksjoner om hvordan en rekke komplekse praktiske og/eller faglige prosedyrer skal utføres.kan bruke et variert repertoar av ord og uttrykk og være i stand til å omformulere seg i de fleste situasjoner.kan bruke ulike språklige virkemidler for å uttrykke holdninger, følelser og sinnsstemninger.
+Innlæreren
+
+- kan gi klare, detaljerte beskrivelser og presentasjoner av personlige eller faglige erfaringer, flette inn undertema og utdype viktige punkter.
+- kan gi instruksjoner om hvordan en rekke komplekse praktiske og/eller faglige prosedyrer skal utføres.
+- kan bruke et variert repertoar av ord og uttrykk og være i stand til å omformulere seg i de fleste situasjoner.
+- kan bruke ulike språklige virkemidler for å uttrykke holdninger, følelser og sinnsstemninger.
 
 ### Skriftlig produksjon
 
 Innlæreren kan skrive klare, detaljerte og velstrukturerte tekster innenfor et bredt spekter av sjangre, og kan tilpasse språket etter situasjonen, mottakeren og budskapet som skal formidles.
 
-Innlærerenkan skrive argumenterende tekster med en oversiktlig og leservennlig oppbygning og gi uttrykk for synspunkter og holdninger på en utfyllende og nyansert måte.kan skrive rapporter og utgreiinger om komplekse tema innenfor sitt eget fag- eller interessefelt og velge en hensiktsmessig stil.kan skrive formelle brev der hun/han uttrykker for eksempel kritikk, anmodning, oppfordring eller medfølelse med en språkbruk som er tydelig og tilpasset formålet.
+Innlæreren
+
+- kan skrive argumenterende tekster med en oversiktlig og leservennlig oppbygning og gi uttrykk for synspunkter og holdninger på en utfyllende og nyansert måte.
+- kan skrive rapporter og utgreiinger om komplekse tema innenfor sitt eget fag- eller interessefelt og velge en hensiktsmessig stil.
+- kan skrive formelle brev der hun/han uttrykker for eksempel kritikk, anmodning, oppfordring eller medfølelse med en språkbruk som er tydelig og tilpasset formålet.
 
 ### Samhandling
 
 Innlæreren kan tilpasse språket til ulike sosiale situasjoner både muntlig og skriftlig og uttrykke seg med høy grad av presisjon. Innlæreren kan med letthet følge og bidra til samhandling i formelle og uformelle diskusjoner og samtaler, også når det dreier seg om komplekse og/eller ukjente emner.
 
-Innlærerenkan utdype og videreutvikle viktige punkter uten støtte, og takler avbrytelser og innspill på en språklig passende måte.kan argumentere overbevisende for et standpunkt, svare på spørsmål og gi passende tilsvar til komplekse motargumenter.har et bredt repertoar av automatiserte kommunikasjonsteknikker slik at hun/han finner passende uttrykk for å ta eller beholde ordet og knytte egne bidrag til det andre sier på en hensiktsmessig måte.kan delta i ulike typer diskusjoner på internett og uttrykke seg hensiktsmessig i sosiale medier uten at språket setter begrensninger.
+Innlæreren
+
+- kan utdype og videreutvikle viktige punkter uten støtte, og takler avbrytelser og innspill på en språklig passende måte.
+- kan argumentere overbevisende for et standpunkt, svare på spørsmål og gi passende tilsvar til komplekse motargumenter.
+- har et bredt repertoar av automatiserte kommunikasjonsteknikker slik at hun/han finner passende uttrykk for å ta eller beholde ordet og knytte egne bidrag til det andre sier på en hensiktsmessig måte.
+- kan delta i ulike typer diskusjoner på internett og uttrykke seg hensiktsmessig i sosiale medier uten at språket setter begrensninger.
 
 ### Mediering
 
 Innlæreren kan bruke språket muntlig og skriftlig til å bearbeide, sammenfatte og videreformidle informasjon på en hensiktsmessig måte. Innlæreren kan bidra til at ulike perspektiver kommer fram, og at misforståelser oppklares. I samarbeid med andre kan innlæreren utforske nye ord, uttrykk og begreper for på den måten å videreutvikle egen og andres språkforståelse.
 
-Innlærerenkan trekke ut informasjon og argumenter i lange og komplekse muntlige og/eller skriftlige tekster fra en eller flere kilder for deretter å videreformidle egen forståelse og tolkning på en klar og velstrukturert måte.kan videreformidle de fleste nyanser og detaljer i muntlige og skriftlige tekster på en korrekt måte, men kan ha behov for å sjekke den presise betydningen av enkelte lite frekvente ord og uttrykk.kan ta detaljerte notater under en forelesning, et møte eller liknende, om emner innenfor sitt eget fag- eller interessefelt, og kan gjengi informasjon så nøyaktig og tett opp til originalen at notatene også kan være til nytte for andre.kan tolke og beskrive diagrammer og annen visuell informasjon på en klar og presis måte.kan gjøre et komplekst innhold mer tilgjengelig ved å forklare, forenkle eller omstrukturere originalteksten, eventuelt legge til nyttige detaljer.kan gripe inn på en språklig passende måte for å få kommunikasjonen inn på et nytt spor.kan bruke sine språklige ressurser skriftlig eller muntlig til å oversette tekster i ulike sjangre innenfor eget interessefelt, men det kan forekomme formuleringer som er påvirket av morsmålet eller andre språk innlæreren har lært.
+Innlæreren
+
+- kan trekke ut informasjon og argumenter i lange og komplekse muntlige og/eller skriftlige tekster fra en eller flere kilder for deretter å videreformidle egen forståelse og tolkning på en klar og velstrukturert måte.
+- kan videreformidle de fleste nyanser og detaljer i muntlige og skriftlige tekster på en korrekt måte, men kan ha behov for å sjekke den presise betydningen av enkelte lite frekvente ord og uttrykk.
+- kan ta detaljerte notater under en forelesning, et møte eller liknende, om emner innenfor sitt eget fag- eller interessefelt, og kan gjengi informasjon så nøyaktig og tett opp til originalen at notatene også kan være til nytte for andre.
+- kan tolke og beskrive diagrammer og annen visuell informasjon på en klar og presis måte.
+- kan gjøre et komplekst innhold mer tilgjengelig ved å forklare, forenkle eller omstrukturere originalteksten, eventuelt legge til nyttige detaljer.
+- kan gripe inn på en språklig passende måte for å få kommunikasjonen inn på et nytt spor.
+- kan bruke sine språklige ressurser skriftlig eller muntlig til å oversette tekster i ulike sjangre innenfor eget interessefelt, men det kan forekomme formuleringer som er påvirket av morsmålet eller andre språk innlæreren har lært.
 
 ### 5.3 Kjennetegn ved språket i bruk
 

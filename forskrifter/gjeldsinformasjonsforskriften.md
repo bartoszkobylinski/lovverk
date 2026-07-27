@@ -28,7 +28,11 @@ Forskriften gjelder foretak og virksomhet som er omfattet av gjeldsinformasjonsl
 
 ## § 2. Gjeldsopplysningenes innhold
 
-Gjeldsopplysninger skal inneholde informasjon om følgende forhold:for nedbetalingslån: opprinnelig lånebeløp, saldo, nedbetalingstid, effektiv rente og navn på kredittyter,for rammekreditt: kredittgrense, rentebærende og ikke-rentebærende saldo, effektiv rente og navn på kredittyter,for faktureringskort: rentebærende og ikke-rentebærende saldo og navn på kredittyter.
+Gjeldsopplysninger skal inneholde informasjon om følgende forhold:
+
+1. for nedbetalingslån: opprinnelig lånebeløp, saldo, nedbetalingstid, effektiv rente og navn på kredittyter,
+2. for rammekreditt: kredittgrense, rentebærende og ikke-rentebærende saldo, effektiv rente og navn på kredittyter,
+3. for faktureringskort: rentebærende og ikke-rentebærende saldo og navn på kredittyter.
 
 Saldo omfatter hovedkrav, renter og omkostninger.
 
@@ -42,7 +46,10 @@ Navn på kredittyter kan bare utleveres til den opplysningen gjelder, samt motta
 
 ## § 3. Finansforetaks plikt til å gjøre gjeldsopplysninger tilgjengelige for gjeldsinformasjonsforetak
 
-Med tilgjengeliggjøring av gjeldsopplysninger etter [gjeldsinformasjonsloven § 10](lov/2017-06-16-47/§10) første ledd menesfinansforetaks rapportering av gjeldsopplysninger til gjeldsinformasjonsforetak ogfinansforetaks tilrettelegging for gjeldsinformasjonsforetaks innhenting av gjeldsopplysninger.
+Med tilgjengeliggjøring av gjeldsopplysninger etter [gjeldsinformasjonsloven § 10](lov/2017-06-16-47/§10) første ledd menes
+
+1. finansforetaks rapportering av gjeldsopplysninger til gjeldsinformasjonsforetak og
+2. finansforetaks tilrettelegging for gjeldsinformasjonsforetaks innhenting av gjeldsopplysninger.
 
 Finansforetak skal tilpasse sine systemer, blant annet teknisk og administrativt, slik at gjeldsopplysninger blir tilgjengeliggjort for gjeldsinformasjonsforetak på en effektiv og hensiktsmessig måte i henhold til gjeldsinformasjonsforetakets spesifikasjoner. Departementet kan fastsette en felles teknisk standard for tilgjengeliggjøring av gjeldsopplysninger fra finansforetak til gjeldsinformasjonsforetak.
 

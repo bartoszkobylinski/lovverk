@@ -16,7 +16,7 @@ xml_hash: "b4a87d823b651a78037cb53c1d7da7e13aa86c7d3bb50d1da8c6f5438710c603"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,12 +31,25 @@ Forskriften gjelder for opptak til masterstudier ved Politihøgskolen. Bestemmel
 
 (2-1)
 
-1. For opptak til mastergrad av 120 studiepoeng omfang må ett av følgende utdanningsløp være fullført og bestått:BachelorgradCand.mag.-gradAnnen grad eller utdanningsløp av minimum 3 års omfangUtdanning som i henhold til § 3-5 i lov om universiteter og høgskoler er godkjent som jevngod med overnevnte grader eller utdanningsløp
-2. Innenfor et av de nevnte utdanningsløp må søker oppfylle minst ett av følgende vilkår:Fordypning i fag, emne eller emnegruppe innenfor fagområdet for mastergraden av minimum 80 studiepoengs omfangIntegrert utdanning av minimum 120 studiepoengs omfang innenfor fagområdet for mastergraden
+1. For opptak til mastergrad av 120 studiepoeng omfang må ett av følgende utdanningsløp være fullført og bestått:
+
+   1. Bachelorgrad
+   2. Cand.mag.-grad
+   3. Annen grad eller utdanningsløp av minimum 3 års omfang
+   4. Utdanning som i henhold til § 3-5 i lov om universiteter og høgskoler er godkjent som jevngod med overnevnte grader eller utdanningsløp
+2. Innenfor et av de nevnte utdanningsløp må søker oppfylle minst ett av følgende vilkår:
+
+   1. Fordypning i fag, emne eller emnegruppe innenfor fagområdet for mastergraden av minimum 80 studiepoengs omfang
+   2. Integrert utdanning av minimum 120 studiepoengs omfang innenfor fagområdet for mastergraden
 
 (2-2)
 
-For opptak til erfaringsbasert mastergrad av 90 studiepoeng omfang må ett av følgende utdanningsløp være fullført og bestått:BachelorgradCand.mag.-gradAnnen grad eller utdanningsløp av minimum 3 års omfangUtdanning som i henhold til § 3-5 i lov om universiteter og høgskoler er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+For opptak til erfaringsbasert mastergrad av 90 studiepoeng omfang må ett av følgende utdanningsløp være fullført og bestått:
+
+1. Bachelorgrad
+2. Cand.mag.-grad
+3. Annen grad eller utdanningsløp av minimum 3 års omfang
+4. Utdanning som i henhold til § 3-5 i lov om universiteter og høgskoler er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
 
 I tillegg kreves minimum 2 år relevant yrkespraksis etter fullført grunnutdanning.
 
@@ -56,7 +69,11 @@ Styret kan fastsette kvoter dersom særskilte behov tilsier en slik ordning. Kvo
 
 (5-1)
 
-Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne på følgende grunnlag:Søkere med bachelorgrad eller annen utdanning av 180 studiepoengs omfang som er godkjent som opptaksgrunnlag, rangeres på grunnlag av et vektet gjennomsnitt av alle eksamener som inngår i utdanningen.For søkere med cand.mag.-grad eller annet fullført utdanningsløp som omfatter mer enn 180 studiepoeng, foretas rangeringen på grunnlag av vektet gjennomsnitt av eksamener i 180 studiepoeng. Fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang eller integrert utdanning av minimum 120 studiepoengs omfang skal alltid inngå i grunnlaget for rangering. For øvrig velges de eksamener som gir gunstigst resultat for søker.Med vektet gjennomsnitt menes gjennomsnittet av alle karakterer som inngår i opptaksgrunnlaget vektet i forhold til antall studiepoeng på hver karakterenhet. Karakterpoeng beregnes på grunnlag av vektet karaktergjennomsnitt x 10.
+Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne på følgende grunnlag:
+
+1. Søkere med bachelorgrad eller annen utdanning av 180 studiepoengs omfang som er godkjent som opptaksgrunnlag, rangeres på grunnlag av et vektet gjennomsnitt av alle eksamener som inngår i utdanningen.
+2. For søkere med cand.mag.-grad eller annet fullført utdanningsløp som omfatter mer enn 180 studiepoeng, foretas rangeringen på grunnlag av vektet gjennomsnitt av eksamener i 180 studiepoeng. Fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang eller integrert utdanning av minimum 120 studiepoengs omfang skal alltid inngå i grunnlaget for rangering. For øvrig velges de eksamener som gir gunstigst resultat for søker.
+3. Med vektet gjennomsnitt menes gjennomsnittet av alle karakterer som inngår i opptaksgrunnlaget vektet i forhold til antall studiepoeng på hver karakterenhet. Karakterpoeng beregnes på grunnlag av vektet karaktergjennomsnitt x 10.
 
 (5-2)
 
@@ -72,11 +89,25 @@ For omregning av karakterer som grunnlag for utregning av vektet gjennomsnitt gj
 
 (5-3)
 
-Ved opptak til masterstudium jf. § 2-1 i denne forskrift, gis tilleggspoeng for:Utdanning utover opptaksgrunnlaget på 180 studiepoeng, etter følgende regler:0,5 poeng for 30 studiepoeng, maksimalt 2,0 poeng.Relevant yrkeserfaring etter følgende regler:0,5 poeng pr. halvår relevant yrkeserfaring (heltid), maksimalt 2,0 poeng.
+Ved opptak til masterstudium jf. § 2-1 i denne forskrift, gis tilleggspoeng for:
+
+1. Utdanning utover opptaksgrunnlaget på 180 studiepoeng, etter følgende regler:
+
+   - 0,5 poeng for 30 studiepoeng, maksimalt 2,0 poeng.
+2. Relevant yrkeserfaring etter følgende regler:
+
+   - 0,5 poeng pr. halvår relevant yrkeserfaring (heltid), maksimalt 2,0 poeng.
 
 (5-4)
 
-Ved opptak til masterstudium jf. § 2-2 i denne forskrift, gis tilleggspoeng for:Utdanning utover opptaksgrunnlaget på 180 studiepoeng, etter følgende regler:0,5 poeng for 30 studiepoeng, maksimalt 2,0 poeng.Relevant yrkeserfaring utover minstekravet på 2 år, etter følgende regler:1,0 poeng pr. halvår relevant yrkeserfaring (heltid), maksimalt 4,0 poeng.
+Ved opptak til masterstudium jf. § 2-2 i denne forskrift, gis tilleggspoeng for:
+
+1. Utdanning utover opptaksgrunnlaget på 180 studiepoeng, etter følgende regler:
+
+   - 0,5 poeng for 30 studiepoeng, maksimalt 2,0 poeng.
+2. Relevant yrkeserfaring utover minstekravet på 2 år, etter følgende regler:
+
+   - 1,0 poeng pr. halvår relevant yrkeserfaring (heltid), maksimalt 4,0 poeng.
 
 (5-5)
 

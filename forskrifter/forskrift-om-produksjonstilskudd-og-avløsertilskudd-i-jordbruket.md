@@ -15,7 +15,7 @@ xml_hash: "9df7e0b41eedb09a3410ffb2ae38a1ef941edb59f0955cd3ae1d22832d1afd85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,11 +38,24 @@ Foretak som bare søker tilskudd for bifolk er unntatt fra kravet om at produksj
 
 Det kan gis tilskudd for husdyr eller bifolk som foretaket disponerer på det tidspunkt eller i den perioden som fremgår av jordbruksavtalen.
 
-Det kan i tillegg gis driftstilskudd til foretak som driver:melkeproduksjon, dersom foretaket disponerer kvote, ogspesialisert storfekjøttproduksjon.
+Det kan i tillegg gis driftstilskudd til foretak som driver:
 
-Det kan gis ytterligere tilskudd for:Økologisk husdyrhold, dersom produksjonen drives i samsvar med [forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m.](forskrift/2022-06-11-1171)melkekyr, dersom foretaket har mellom 6 og 50 melkekyr,dyr på beite med tilfredsstillende beitemuligheter, dersom hoveddelen av det daglige grovfôrinntaket til dyret skjer ved beiting i minimum 16 uker i sone 1–4, og 12 uker i sone 5–7,dyr på utmarksbeite med tilfredsstillende beitemuligheter, dersom hoveddelen av det daglige grovfôrinntaket til dyret skjer ved beiting i utmark i minimum 5 uker.
+1. melkeproduksjon, dersom foretaket disponerer kvote, og
+2. spesialisert storfekjøttproduksjon.
 
-Det kan i tillegg gis tilskudd for:bevaringsverdige raser av storfe, som definert i jordbruksavtalen såfremt individet er registrert i Kuregisteret ved Norsk genressurssenter,bevaringsverdige raser av sau, som definert i jordbruksavtalen såfremt individet er registrert med låst rasekode i Sauekontrollen,bevaringsverdige raser av geit, som definert i jordbruksavtalen såfremt individet er registrert med låst rasekode i Ammegeitkontrollen,bevaringsverdige raser av hest, som definert i jordbruksavtalen såfremt individet er stambokført (rasegodkjent) og har fått utstedt hestepass.
+Det kan gis ytterligere tilskudd for:
+
+1. Økologisk husdyrhold, dersom produksjonen drives i samsvar med [forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m.](forskrift/2022-06-11-1171)
+2. melkekyr, dersom foretaket har mellom 6 og 50 melkekyr,
+3. dyr på beite med tilfredsstillende beitemuligheter, dersom hoveddelen av det daglige grovfôrinntaket til dyret skjer ved beiting i minimum 16 uker i sone 1–4, og 12 uker i sone 5–7,
+4. dyr på utmarksbeite med tilfredsstillende beitemuligheter, dersom hoveddelen av det daglige grovfôrinntaket til dyret skjer ved beiting i utmark i minimum 5 uker.
+
+Det kan i tillegg gis tilskudd for:
+
+1. bevaringsverdige raser av storfe, som definert i jordbruksavtalen såfremt individet er registrert i Kuregisteret ved Norsk genressurssenter,
+2. bevaringsverdige raser av sau, som definert i jordbruksavtalen såfremt individet er registrert med låst rasekode i Sauekontrollen,
+3. bevaringsverdige raser av geit, som definert i jordbruksavtalen såfremt individet er registrert med låst rasekode i Ammegeitkontrollen,
+4. bevaringsverdige raser av hest, som definert i jordbruksavtalen såfremt individet er stambokført (rasegodkjent) og har fått utstedt hestepass.
 
 > Endret ved [forskrifter 22 juni 2016 nr. 766](forskrift/2016-06-22-766) (i kraft 1 juli 2016), [18 april 2017 nr. 474](forskrift/2017-04-18-474), [30 juni 2017 nr. 1087](forskrift/2017-06-30-1087) (i kraft 1 juli 2017), [5 feb 2018 nr. 146](forskrift/2018-02-05-146), [27 juni 2018 nr. 1058](forskrift/2018-06-27-1058) (i kraft 1 juli 2018), [17 sep 2025 nr. 1852](forskrift/2025-09-17-1852).
 
@@ -70,7 +83,10 @@ For å motta tilskudd må foretaket ha disponert arealet produksjonen av varene 
 
 Foretak som selger bearbeidede varer må kunne legge fram produksjonslogg eller resept. Produksjonsloggen skal inneholde antall kg råvare som ble bearbeidet og hvilken mengde ferdigvare dette ga. Resepten skal angi antall kg råvare som inngår i produksjonen av en angitt mengde ferdigvare.
 
-Foretaket må kunne legge frem salgsbilag der omsatt mengde er spesifisert i kg, unntatt for:Varer som har omregningsfaktor fra én mengdeenhet til en annen i medhold av jordbruksavtalen eller forskrift. I disse tilfellene kan begge mengdeenhetene benyttes i salgsbilaget.Bearbeidede varer. I disse tilfellene skal det være samme mengdeenhet i salgsbilaget og i resepten eller produksjonsloggen.
+Foretaket må kunne legge frem salgsbilag der omsatt mengde er spesifisert i kg, unntatt for:
+
+1. Varer som har omregningsfaktor fra én mengdeenhet til en annen i medhold av jordbruksavtalen eller forskrift. I disse tilfellene kan begge mengdeenhetene benyttes i salgsbilaget.
+2. Bearbeidede varer. I disse tilfellene skal det være samme mengdeenhet i salgsbilaget og i resepten eller produksjonsloggen.
 
 > Endret ved [forskrifter 14 mai 2018 nr. 721](forskrift/2018-05-14-721), [1 juli 2023 nr. 1413](forskrift/2023-07-01-1413), [17 sep 2025 nr. 1852](forskrift/2025-09-17-1852).
 
@@ -78,7 +94,11 @@ Foretaket må kunne legge frem salgsbilag der omsatt mengde er spesifisert i kg,
 
 Det kan gis tilskudd til avløsning på grunnlag av det dyretallet foretaket disponerte på det tidspunkt eller i den perioden som fremgår av jordbruksavtalen. Tilskuddet kan ikke overstige foretakets faktiske utgifter til avløsning.
 
-Som avløsning regnes ikke arbeid utført av person somhar næringsinntekt fra foretaket,er ektefelle eller samboer til en som har næringsinntekt fra foretaket, ellerer under 15 år.
+Som avløsning regnes ikke arbeid utført av person som
+
+1. har næringsinntekt fra foretaket,
+2. er ektefelle eller samboer til en som har næringsinntekt fra foretaket, eller
+3. er under 15 år.
 
 Tilskudd etter denne paragrafen kan ikke gis til skoler samt andre offentlige og private institusjoner.
 
@@ -102,7 +122,13 @@ Foretak som søker tilskudd skal benytte søknadsskjema fastsatt av Landbruksdir
 
 Søknad om tilskudd må være levert innen henholdsvis 15. mars og 15. oktober. Søknad kan likevel leveres inntil 14 dager etter søknadsfristen, men utbetalingen reduseres da med 1 000 kroner for hver dag fristen er overskredet. Søknader som er levert innen søknadsfristen kan endres innen henholdsvis 29. mars og 29. oktober uten reduksjon i tilskuddet.
 
-Følgende opplysninger kan etterregistreres i søknaden frem til 10. januar påfølgende år:Avløserutgifter som foretaket har hatt etter 15. oktoberSalg av tilskuddsberettigede livdyr etter 15. oktoberDyr sanket fra utmarksbeite etter 15. oktoberVarer omfattet av [§ 5](forskrift/2014-12-19-1817/§5) omsatt etter 15. oktoberRugeegg levert til rugeri etter 15. oktober.
+Følgende opplysninger kan etterregistreres i søknaden frem til 10. januar påfølgende år:
+
+1. Avløserutgifter som foretaket har hatt etter 15. oktober
+2. Salg av tilskuddsberettigede livdyr etter 15. oktober
+3. Dyr sanket fra utmarksbeite etter 15. oktober
+4. Varer omfattet av [§ 5](forskrift/2014-12-19-1817/§5) omsatt etter 15. oktober
+5. Rugeegg levert til rugeri etter 15. oktober.
 
 Krav på tilskudd kan ikke pantsettes eller overdras.
 

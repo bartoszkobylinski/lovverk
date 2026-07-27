@@ -28,7 +28,18 @@ Myndighet til å treffe enkeltvedtak som er lagt til «departementet» etter [lo
 
 Delegering av enkeltvedtakskompetanse etter [§ 28](lov/2019-06-21-70/§28) første ledd omfatter ikke myndighet til å utpeke hvilke havner som skal inngå i det transeuropeiske transportnettverket (TEN-T).
 
-Myndighet til å fastsette forskrift etter følgende bestemmelser i [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70) delegeres til Kystverket:[§ 7](lov/2019-06-21-70/§7), med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet[§ 10](lov/2019-06-21-70/§10) sjette ledd[§ 13](lov/2019-06-21-70/§13) annet ledd, med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet[§ 13](lov/2019-06-21-70/§13) tredje ledd[§ 14](lov/2019-06-21-70/§14) sjette ledd, 1. og 3. punktum[§ 21](lov/2019-06-21-70/§21) fjerde ledd bokstav d[§ 22](lov/2019-06-21-70/§22) fjerde ledd[§ 23](lov/2019-06-21-70/§23) femte ledd[§ 23](lov/2019-06-21-70/§23) sjette ledd[§ 30](lov/2019-06-21-70/§30) annet ledd.
+Myndighet til å fastsette forskrift etter følgende bestemmelser i [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70) delegeres til Kystverket:
+
+- [§ 7](lov/2019-06-21-70/§7), med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet
+- [§ 10](lov/2019-06-21-70/§10) sjette ledd
+- [§ 13](lov/2019-06-21-70/§13) annet ledd, med unntak av forskrifter om endring av sjøtrafikksentralenes tjenesteområde og myndighet til å frafalle kravet om tillatelse ved bruk av tjenesteområdet
+- [§ 13](lov/2019-06-21-70/§13) tredje ledd
+- [§ 14](lov/2019-06-21-70/§14) sjette ledd, 1. og 3. punktum
+- [§ 21](lov/2019-06-21-70/§21) fjerde ledd bokstav d
+- [§ 22](lov/2019-06-21-70/§22) fjerde ledd
+- [§ 23](lov/2019-06-21-70/§23) femte ledd
+- [§ 23](lov/2019-06-21-70/§23) sjette ledd
+- [§ 30](lov/2019-06-21-70/§30) annet ledd.
 
 ## II
 

@@ -22,4 +22,8 @@ eu_basis: []
 
 # Forskrift om opprettelse av en ny Moss byrett m.v.
 
-Med hjemmel i [lov av 13. august 1915 nr. 5](lov/1915-08-13-5) om domstolene [§ 22](lov/1915-08-13-5/§22), bestemmes med virkning fra den tid Justisdepartementet bestemmer:Det opprettes en ny Moss byrett omfattende kommunene Moss, Hobøl, Rygge, Råde og Våler.Moss byrett organiseres med 1 justitiarius og 2 andre dommere.Moss sorenskriverembete nedlegges.
+Med hjemmel i [lov av 13. august 1915 nr. 5](lov/1915-08-13-5) om domstolene [§ 22](lov/1915-08-13-5/§22), bestemmes med virkning fra den tid Justisdepartementet bestemmer:
+
+1. Det opprettes en ny Moss byrett omfattende kommunene Moss, Hobøl, Rygge, Råde og Våler.
+2. Moss byrett organiseres med 1 justitiarius og 2 andre dommere.
+3. Moss sorenskriverembete nedlegges.

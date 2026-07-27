@@ -24,7 +24,10 @@ eu_basis: []
 
 ## Innledning
 
-Tilskuddsordning for kollektiv kompetanseutvikling i videregående opplæring er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:[Forskrift om tilskudd til kollektiv kompetanseutvikling i barnehage og grunnskole](forskrift/2026-01-12-23)[Forskrift om tilskudd til videreutdanning i barnehage, grunnskole og videregående opplæring](forskrift/2026-01-12-24).
+Tilskuddsordning for kollektiv kompetanseutvikling i videregående opplæring er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:
+
+- [Forskrift om tilskudd til kollektiv kompetanseutvikling i barnehage og grunnskole](forskrift/2026-01-12-23)
+- [Forskrift om tilskudd til videreutdanning i barnehage, grunnskole og videregående opplæring](forskrift/2026-01-12-24).
 
 Kommuner, fylkeskommuner og private eiere har ansvar for at virksomhetene drives i samsvar med regelverket. Dette omfatter også et ansvar for å legge til rette for kompetanseutvikling for sine ansatte, jf. [opplæringslovens §§ 17-8](lov/2023-06-09-30/§17-8) og [22-2](lov/2023-06-09-30/§22-2). Medbestemmelse skal ivaretas i tråd med gjeldende avtaler mellom partene i arbeidslivet.
 
@@ -68,7 +71,13 @@ Tiltak kan være tverrfaglige og rettet mot en bredere målgruppe i laget rundt 
 
 ### § 5. Kjennetegn på måloppnåelse
 
-Tilskuddsmottaker skal gjøre en vurdering av måloppnåelse av tiltakene. Kjennetegn på måloppnåelse er:Tilskuddsmottaker har gjennomført kollektive kompetanseutviklingstiltak i videregående skoler og lærebedrifter i tråd med langsiktig plan.Tiltakene har bidratt til planlagt praksisendring.Tiltakene har styrket det profesjonelle læringsfellesskapet i og mellom videregående skoler og lærebedrifter.Tiltakene har bidratt til å styrke og praksisrette lærerutdanningen.Tiltakene har bidratt til å forebygge utenforskap, fremme inkludering og gi tilpasset opplæring.
+Tilskuddsmottaker skal gjøre en vurdering av måloppnåelse av tiltakene. Kjennetegn på måloppnåelse er:
+
+1. Tilskuddsmottaker har gjennomført kollektive kompetanseutviklingstiltak i videregående skoler og lærebedrifter i tråd med langsiktig plan.
+2. Tiltakene har bidratt til planlagt praksisendring.
+3. Tiltakene har styrket det profesjonelle læringsfellesskapet i og mellom videregående skoler og lærebedrifter.
+4. Tiltakene har bidratt til å styrke og praksisrette lærerutdanningen.
+5. Tiltakene har bidratt til å forebygge utenforskap, fremme inkludering og gi tilpasset opplæring.
 
 ## Kapittel 2. Forvaltning av tilskuddsordningen
 
@@ -102,7 +111,13 @@ Fordeling av midler skal skje med utgangspunkt i behovsvurderinger og målene fo
 
 ### § 9. Føringer for samarbeidsforumets langsiktige plan
 
-Samarbeidsforumets langsiktige plan skal legge føringer forfordeling av midler mellom studieforberedende utdanningsprogram og yrkesfaglige utdanningsprogram med utgangspunkt i lokale behovsvurderinger og målene for tilskuddsordningenfordeling av midler mellom skole og lærebedriftfordeling av midler mellom universitet, høyskoler, fagskoler og andre relevante kompetansemiljøerprioriterte tematiske områder, herunder fordeling av midler til spesialpedagogikk og inkluderende praksiskriterier for tildeling dersom behovsvurderingene overstiger budsjettrammen.
+Samarbeidsforumets langsiktige plan skal legge føringer for
+
+1. fordeling av midler mellom studieforberedende utdanningsprogram og yrkesfaglige utdanningsprogram med utgangspunkt i lokale behovsvurderinger og målene for tilskuddsordningen
+2. fordeling av midler mellom skole og lærebedrift
+3. fordeling av midler mellom universitet, høyskoler, fagskoler og andre relevante kompetansemiljøer
+4. prioriterte tematiske områder, herunder fordeling av midler til spesialpedagogikk og inkluderende praksis
+5. kriterier for tildeling dersom behovsvurderingene overstiger budsjettrammen.
 
 ## Kapittel 3. Saksgang
 
@@ -114,7 +129,14 @@ Fylkeskommunen fatter vedtak og fastsetter fordeling av tilskuddsmidler i tråd 
 
 Fylkeskommunen utbetaler midlene til de aktuelle målgruppene gjennom et tilskuddsbrev.
 
-Tilskuddsbrevet skal inneholde:tilskuddsmottakers navn, organisasjonsnummer, kontonummer og tilskuddsbeløpformål og hvilke tiltak tilskuddet skal benyttet tiltidsrammekrav til rapporteringjuridiske forpliktelsermulige reaksjonsformer dersom mottaker ikke opptrer i samsvar med forutsetningene for tilskuddet.
+Tilskuddsbrevet skal inneholde:
+
+1. tilskuddsmottakers navn, organisasjonsnummer, kontonummer og tilskuddsbeløp
+2. formål og hvilke tiltak tilskuddet skal benyttet til
+3. tidsramme
+4. krav til rapportering
+5. juridiske forpliktelser
+6. mulige reaksjonsformer dersom mottaker ikke opptrer i samsvar med forutsetningene for tilskuddet.
 
 ### § 12. Frister
 

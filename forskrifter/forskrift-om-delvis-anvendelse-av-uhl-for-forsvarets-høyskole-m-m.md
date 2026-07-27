@@ -28,7 +28,22 @@ Forskriften skal gjøre Forsvarets høgskole til en relevant og attraktiv akadem
 
 ## § 2. Universitets- og høyskolelovens anvendelse for Forsvarets høgskole
 
-Følgende bestemmelser i universitets- og høyskoleloven skal gjelde for Forsvarets høgskole:kapittel 1 unntatt § 1-2, og § 1-5 tredje ledd bokstav b gjelder ikke militært tilsattekapittel 2kapittel 3 unntatt § 3-7 første ledd, § 3-8 og § 3-10kapittel 4 unntatt § 4-3 første ledd andre punktumkapittel 5 unntatt § 5-1 tredje leddkapittel 6 unntatt § 6-3 første, andre og fjerde ledd, og § 6-4 gjelder ikke militært tilsattekapittel 7kapittel 9 unntatt § 9-6 sjette ledd og § 9-7 tredje ledd, og i § 9-3 første og andre ledd skalstyremedlemmer erstattes med styrkesjefene eller representanter for dem, og § 9-4 niende ledd gjelder ikke for demstyrets leder og minst en av de eksterne styremedlemmene ikke være ansatt i Forsvarsdepartementet eller dets underliggende etaterstyrets leder og minst en av de eksterne styremedlemmene ha solid akademisk kompetanse og ledererfaring, lang erfaring fra universitets- og høyskolesektoren og erfaring fra forskningsarbeidkapittel 10 unntatt § 10-1 første ledd andre punktum, § 10-2 og § 10-3, og § 10-1 første ledd første punktum gjelder ikke militært tilsattekapittel 12 med unntak av § 12-3 og § 12-4.
+Følgende bestemmelser i universitets- og høyskoleloven skal gjelde for Forsvarets høgskole:
+
+1. kapittel 1 unntatt § 1-2, og § 1-5 tredje ledd bokstav b gjelder ikke militært tilsatte
+2. kapittel 2
+3. kapittel 3 unntatt § 3-7 første ledd, § 3-8 og § 3-10
+4. kapittel 4 unntatt § 4-3 første ledd andre punktum
+5. kapittel 5 unntatt § 5-1 tredje ledd
+6. kapittel 6 unntatt § 6-3 første, andre og fjerde ledd, og § 6-4 gjelder ikke militært tilsatte
+7. kapittel 7
+8. kapittel 9 unntatt § 9-6 sjette ledd og § 9-7 tredje ledd, og i § 9-3 første og andre ledd skal
+
+   1. styremedlemmer erstattes med styrkesjefene eller representanter for dem, og § 9-4 niende ledd gjelder ikke for dem
+   2. styrets leder og minst en av de eksterne styremedlemmene ikke være ansatt i Forsvarsdepartementet eller dets underliggende etater
+   3. styrets leder og minst en av de eksterne styremedlemmene ha solid akademisk kompetanse og ledererfaring, lang erfaring fra universitets- og høyskolesektoren og erfaring fra forskningsarbeid
+9. kapittel 10 unntatt § 10-1 første ledd andre punktum, § 10-2 og § 10-3, og § 10-1 første ledd første punktum gjelder ikke militært tilsatte
+10. kapittel 12 med unntak av § 12-3 og § 12-4.
 
 ## § 3. [Forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdannings anvendelse for Forsvarets høgskole
 
@@ -48,7 +63,11 @@ Forsvaret delegeres myndigheten etter [forskrift 6. januar 2017 nr. 13](forskrif
 
 ## § 5. Rangering av søkere
 
-Søkere til utdanning ved Forsvarets høgskole som har opptaksprøve som spesielt opptakskrav, kan rangeresetter [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-9](forskrift/2017-01-06-13/§7-9), [§ 7-11](forskrift/2017-01-06-13/§7-11), [§ 7-12](forskrift/2017-01-06-13/§7-12) og [kapittel 9](forskrift/2017-01-06-13/kap9)på grunnlag av opptaksprøverpå grunnlag av en kombinasjon av bokstav a og b.
+Søkere til utdanning ved Forsvarets høgskole som har opptaksprøve som spesielt opptakskrav, kan rangeres
+
+1. etter [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-9](forskrift/2017-01-06-13/§7-9), [§ 7-11](forskrift/2017-01-06-13/§7-11), [§ 7-12](forskrift/2017-01-06-13/§7-12) og [kapittel 9](forskrift/2017-01-06-13/kap9)
+2. på grunnlag av opptaksprøver
+3. på grunnlag av en kombinasjon av bokstav a og b.
 
 Forsvaret fastsetter hvilket alternativ som skal følges for den enkelte utdanningen. Fastsatte kvoter for førstegangsvitnemål gjelder med mindre Forsvaret har fastsatt unntak.
 
@@ -66,7 +85,12 @@ Forsvarets høgskole skal gi studentene tilstrekkelig og relevant informasjon om
 
 ## § 8. Vurderingen av om en student er skikket
 
-I vurderingen av om en student er skikket, skal det legges vekt på omstudenten viser holdninger eller atferd som strider mot kjerneverdiene i Forsvarets verdigrunnlag eller mot forsvarssjefens grunnsyn på ledelsestudenten er ilagt refs etter [lov om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1)studenten viser dårlig samarbeidsevner i studietstudenten har mistet sin autorisasjon eller sikkerhetsklarering.
+I vurderingen av om en student er skikket, skal det legges vekt på om
+
+1. studenten viser holdninger eller atferd som strider mot kjerneverdiene i Forsvarets verdigrunnlag eller mot forsvarssjefens grunnsyn på ledelse
+2. studenten er ilagt refs etter [lov om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1)
+3. studenten viser dårlig samarbeidsevner i studiet
+4. studenten har mistet sin autorisasjon eller sikkerhetsklarering.
 
 Vurderingskriteriene etter første ledd gjelder både for løpende og for særskilt skikkethetsvurdering.
 
@@ -92,7 +116,13 @@ Dersom oppfølgingen og veiledningen ikke gir nødvendig endring og utvikling ho
 
 ## § 12. Skikkethetsnemnd for Forsvarets høgskole
 
-Styret ved Forsvarets høgskole skal oppnevne en skikkethetsnemnd for Forsvarets høgskole. Nemnda skal bestå avlederen som skal være den faglige studielederen eller en med tilsvarende funksjonfire representanter fra forsvarsgrenene, Hæren, Sjøforsvaret og Luftforsvaret skal være representertto faglærere, en offiser og en sivilto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+Styret ved Forsvarets høgskole skal oppnevne en skikkethetsnemnd for Forsvarets høgskole. Nemnda skal bestå av
+
+1. lederen som skal være den faglige studielederen eller en med tilsvarende funksjon
+2. fire representanter fra forsvarsgrenene, Hæren, Sjøforsvaret og Luftforsvaret skal være representert
+3. to faglærere, en offiser og en sivil
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 Medlemmene etter bokstav a til c og e oppnevnes for tre år av gangen. Medlemmene etter bokstav d oppnevnes for ett år.
 
@@ -110,7 +140,11 @@ Dissens i nemnda skal begrunnes og fremgå av innstillingen.
 
 ## § 14. Klage på faglige vurderinger av kompetanse og opptaksprøver til Forsvarets høgskoles vedtaks- og klageorgan
 
-Følgende faglige vurderinger kan bringes inn for Forsvarets høgskoles vedtaks- og klageorgan:opptak på grunnlag av realkompetanse etter universitets- og [høgskoleloven § 3-6](lov/2005-04-01-15/§3-6)opptak etter dispensasjon fra krav om generell studiekompetanse etter universitetets- og [høyskoleloven § 3-6](lov/2005-04-01-15/§3-6)spesielle opptakskrav som gjelder ferdigheter eller opptaksprøver fastsatt av Forsvaret.
+Følgende faglige vurderinger kan bringes inn for Forsvarets høgskoles vedtaks- og klageorgan:
+
+1. opptak på grunnlag av realkompetanse etter universitets- og [høgskoleloven § 3-6](lov/2005-04-01-15/§3-6)
+2. opptak etter dispensasjon fra krav om generell studiekompetanse etter universitetets- og [høyskoleloven § 3-6](lov/2005-04-01-15/§3-6)
+3. spesielle opptakskrav som gjelder ferdigheter eller opptaksprøver fastsatt av Forsvaret.
 
 Forsvarets høgskoles vedtaks- og klageorgan behandler klager etter bokstav a, b og c. Faglige vurderinger av søkerens prestasjoner etter bokstav c kan ikke påklages.
 
@@ -124,7 +158,15 @@ Et vedtak om utestenging skal opplyse studenten om at han eller hun må søke om
 
 ## § 16. Klage til klagenemnda for Forsvarets høgskole
 
-Klagenemnda for Forsvarets høgskole er med unntak for faglige vurderinger etter [§ 14](forskrift/2018-07-30-1211/§14) klageinstans for enkeltvedtak fastsatt med hjemmel i universitetets- og høyskoleloven§ 3-7 om studentopptak§ 4-7 om annullering av eksamen eller prøve§ 4-8 om utestenging og bortvisning§ 4-8 om salærnedsettelse§ 4-9 om utestenging på grunn av straffbare forhold – politiattest§ 4-10 om utestenging av studenter som ikke er skikket§ 4-13 om tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet.
+Klagenemnda for Forsvarets høgskole er med unntak for faglige vurderinger etter [§ 14](forskrift/2018-07-30-1211/§14) klageinstans for enkeltvedtak fastsatt med hjemmel i universitetets- og høyskoleloven
+
+1. § 3-7 om studentopptak
+2. § 4-7 om annullering av eksamen eller prøve
+3. § 4-8 om utestenging og bortvisning
+4. § 4-8 om salærnedsettelse
+5. § 4-9 om utestenging på grunn av straffbare forhold – politiattest
+6. § 4-10 om utestenging av studenter som ikke er skikket
+7. § 4-13 om tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet.
 
 [Forvaltningsloven kapittel IV](lov/1967-02-10/kapiv) til VI gjelder for klagebehandlingen, med de tilpasninger som følger av reglene om klageinstans og unntak fra retten til å klage på faglige vurderinger som følger av forskriften og universitets- og høgskoleloven.
 

@@ -15,7 +15,7 @@ xml_hash: "57c9b1e404d3dfbf02090a13fd4a45be1ceb3759f54f1c00f58717147fbd0cec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,14 @@ Ressursforvaltningen forestås av Kongen i samsvar med bestemmelsene i denne lov
 
 ### § 1-5. Definisjoner
 
-I denne loven forstås med:mineralvirksomhet: all virksomhet som er omfattet av [lovens § 1-2](lov/2019-03-22-7/§1-2)innretning: installasjon, anlegg og annet utstyr for mineralvirksomhet, også rørledninger og kabler om ikke noe annet er bestemt, men ikke forsynings- og hjelpefartøy eller skip som transporterer mineraler i bulkundersøkelse: leting etter og kartlegging av mineralforekomster for kommersielt formål, medregnet geologiske, geofysiske, geokjemiske og geotekniske aktiviteter og drift og bruk av innretninger i den utstrekning de anvendes til undersøkelseutvinning: uttak av mineraler fra havbunnen eller havbunnens undergrunn for kommersielt formål, medregnet bearbeiding på innretninger, deponering av eventuelt overskuddsmateriale fra driften og bygging, plassering, drift og bruk av de innretninger som er nødvendig for utvinningen og transporten av mineralene til innretninger eller transportskiprettighetshaver: en fysisk eller juridisk person som etter loven her eller tidligere lovgivning har fått en tillatelse til undersøkelse eller utvinning av mineralforekomster eller en særskilt tillatelse til anlegg av og drift av innretninger, en gruppe personer som sammen har fått en slik tillatelse, eller en person som inngår i en slik gruppeoperatør: en rettighetshaver som står for den daglige ledelse av mineralvirksomheten.
+I denne loven forstås med:
+
+1. mineralvirksomhet: all virksomhet som er omfattet av [lovens § 1-2](lov/2019-03-22-7/§1-2)
+2. innretning: installasjon, anlegg og annet utstyr for mineralvirksomhet, også rørledninger og kabler om ikke noe annet er bestemt, men ikke forsynings- og hjelpefartøy eller skip som transporterer mineraler i bulk
+3. undersøkelse: leting etter og kartlegging av mineralforekomster for kommersielt formål, medregnet geologiske, geofysiske, geokjemiske og geotekniske aktiviteter og drift og bruk av innretninger i den utstrekning de anvendes til undersøkelse
+4. utvinning: uttak av mineraler fra havbunnen eller havbunnens undergrunn for kommersielt formål, medregnet bearbeiding på innretninger, deponering av eventuelt overskuddsmateriale fra driften og bygging, plassering, drift og bruk av de innretninger som er nødvendig for utvinningen og transporten av mineralene til innretninger eller transportskip
+5. rettighetshaver: en fysisk eller juridisk person som etter loven her eller tidligere lovgivning har fått en tillatelse til undersøkelse eller utvinning av mineralforekomster eller en særskilt tillatelse til anlegg av og drift av innretninger, en gruppe personer som sammen har fått en slik tillatelse, eller en person som inngår i en slik gruppe
+6. operatør: en rettighetshaver som står for den daglige ledelse av mineralvirksomheten.
 
 ### § 1-6. Krav om tillatelse
 
@@ -110,7 +117,12 @@ Kongen i statsråd kan i særlige tilfeller gi tillatelse til mineralvirksomhet 
 
 Departementet kan etter en skriftlig søknad tildele en tillatelse til undersøkelse til en fysisk eller juridisk person.
 
-En søknad om undersøkelsestillatelse skal presist angi det geografiske området den omfatter. Søknaden skal også redegjøre fori form av et undersøkelsesprogram, hvilke undersøkelser man ønsker å gjennomføreformålet med undersøkelsene, inklusive de mineralforekomstene man ønsker å undersøkenår undersøkelsene er planlagt påbegynt og avsluttethvor innenfor det geografiske området undersøkelsene skal utføres.
+En søknad om undersøkelsestillatelse skal presist angi det geografiske området den omfatter. Søknaden skal også redegjøre for
+
+1. i form av et undersøkelsesprogram, hvilke undersøkelser man ønsker å gjennomføre
+2. formålet med undersøkelsene, inklusive de mineralforekomstene man ønsker å undersøke
+3. når undersøkelsene er planlagt påbegynt og avsluttet
+4. hvor innenfor det geografiske området undersøkelsene skal utføres.
 
 Departementet kan gi forskrift om nærmere krav til innholdet i søknaden.
 
@@ -128,7 +140,12 @@ En undersøkelsestillatelse gir ikke enerett til undersøkelse i de områder som
 
 Departementet kan tildele utvinningstillatelse til andre i områder som dekkes av en undersøkelsestillatelse.
 
-En undersøkelsestillatelse etter denne loven er ikke til hinder forat det gis rett til å foreta undersøkelser etter og utvinning av petroleumsforekomster i medhold av [petroleumsloven](lov/1996-11-29-72)aktivitet i medhold av [lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomsteraktivitet i medhold av [havressurslova](lov/2008-06-06-37) og [naturmangfoldloven](lov/2009-06-19-100)aktivitet i medhold av [havenergilova](lov/2010-06-04-21).
+En undersøkelsestillatelse etter denne loven er ikke til hinder for
+
+1. at det gis rett til å foreta undersøkelser etter og utvinning av petroleumsforekomster i medhold av [petroleumsloven](lov/1996-11-29-72)
+2. aktivitet i medhold av [lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster
+3. aktivitet i medhold av [havressurslova](lov/2008-06-06-37) og [naturmangfoldloven](lov/2009-06-19-100)
+4. aktivitet i medhold av [havenergilova](lov/2010-06-04-21).
 
 Det kan ikke gis undersøkelsestillatelse for områder som omfattes av utvinningstillatelser gitt i medhold av [§ 4-1](lov/2019-03-22-7/§4-1). Det kan gjøres unntak fra første punktum dersom søknaden om undersøkelsestillatelse gjelder andre mineraler enn de som er omfattet av en pågående eller planlagt utvinning i henhold til en godkjent plan for utvinning etter [§ 4-4](lov/2019-03-22-7/§4-4), og rettighetshaveren til utvinningstillatelsen samtykker.
 
@@ -136,7 +153,12 @@ Det kan ikke gis undersøkelsestillatelse for områder som omfattes av utvinning
 
 ### § 3-3. Melding i forbindelse med undersøkelser mv.
 
-Rettighetshaveren skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende en melding til departementet, Sokkeldirektoratet, Sjøfartsdirektoratet, Fiskeridirektoratet, Havforskningsinstituttet, Kystverket og Forsvarsdepartementet med opplysninger omtid, varighet og nøyaktige opplysninger om området undersøkelsene gjelder med posisjonslinjerundersøkelsesmetodene som skal anvendeshvilket fartøy som skal benyttesi hvilken form resultatene fra undersøkelsen vil foreligge.
+Rettighetshaveren skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende en melding til departementet, Sokkeldirektoratet, Sjøfartsdirektoratet, Fiskeridirektoratet, Havforskningsinstituttet, Kystverket og Forsvarsdepartementet med opplysninger om
+
+1. tid, varighet og nøyaktige opplysninger om området undersøkelsene gjelder med posisjonslinjer
+2. undersøkelsesmetodene som skal anvendes
+3. hvilket fartøy som skal benyttes
+4. i hvilken form resultatene fra undersøkelsen vil foreligge.
 
 Departementet kan gi forskrift om innsending av melding i forbindelse med undersøkelser, blant annet om unntak fra fristen i første ledd.
 
@@ -160,7 +182,16 @@ Kongen kan gi forskrift om eller fastsette i den enkelte tillatelsen hvilke vilk
 
 ### § 4-2. Søknad om tildeling av utvinningstillatelse
 
-En søknad om utvinningstillatelse skal redegjøre forhvilke mineralforekomster som er identifisert i områdethvilke mineraler eller mineralforekomster som planlegges utvunneteventuelt det kjente ressurspotensialetdet geografiske området som ønskes omfattet av tillatelsensøkerens finansielle evnesøkerens teknologiske kompetanse og tekniske gjennomføringsevneden foreslåtte utbyggingsløsningenall annen informasjon som er nødvendig for å avgjøre søknaden.
+En søknad om utvinningstillatelse skal redegjøre for
+
+1. hvilke mineralforekomster som er identifisert i området
+2. hvilke mineraler eller mineralforekomster som planlegges utvunnet
+3. eventuelt det kjente ressurspotensialet
+4. det geografiske området som ønskes omfattet av tillatelsen
+5. søkerens finansielle evne
+6. søkerens teknologiske kompetanse og tekniske gjennomføringsevne
+7. den foreslåtte utbyggingsløsningen
+8. all annen informasjon som er nødvendig for å avgjøre søknaden.
 
 Departementet kan gi forskrift om nærmere krav til søknadens innhold.
 
@@ -224,7 +255,11 @@ Bestemmelsene i første ledd gjelder tilsvarende for nødvendige trasé- og grun
 
 ### § 4-9. Andre naturforekomster enn mineraler mv.
 
-En utvinningstillatelse etter denne loven er ikke til hinder for at andre enn rettighetshaveren gis rett til å foreta undersøkelser etter og utvinning av petroleumsforekomster i medhold av [petroleumsloven](lov/1996-11-29-72) når dette ikke medfører urimelig ulempe for den mineralvirksomheten som rettighetshaveren driver i medhold av utvinningstillatelsen. Det samme gjelderaktivitet i medhold av [lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomsteraktivitet i medhold av [havressurslova](lov/2008-06-06-37) og [naturmangfoldloven](lov/2009-06-19-100)aktivitet i medhold av [havenergilova](lov/2010-06-04-21).
+En utvinningstillatelse etter denne loven er ikke til hinder for at andre enn rettighetshaveren gis rett til å foreta undersøkelser etter og utvinning av petroleumsforekomster i medhold av [petroleumsloven](lov/1996-11-29-72) når dette ikke medfører urimelig ulempe for den mineralvirksomheten som rettighetshaveren driver i medhold av utvinningstillatelsen. Det samme gjelder
+
+1. aktivitet i medhold av [lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster
+2. aktivitet i medhold av [havressurslova](lov/2008-06-06-37) og [naturmangfoldloven](lov/2009-06-19-100)
+3. aktivitet i medhold av [havenergilova](lov/2010-06-04-21).
 
 Dersom det er gjort funn av petroleum i et område som omfattes av en utvinningstillatelse etter denne loven, og fortsatt petroleumsvirksomhet ikke kan foregå uten å medføre urimelig ulempe for mineralvirksomheten som rettighetshaveren driver i medhold av utvinningstillatelsen, bestemmer Kongen hvilken av virksomhetene som skal utsettes, eventuelt i hvilket omfang. Det skal ved avgjørelsen tas hensyn til hva slags funn som er gjort, foretatte investeringer, hvilket stadium virksomheten har nådd, virksomhetens varighet og omfang og dens økonomiske og samfunnsmessige betydning.
 
@@ -512,7 +547,13 @@ Utgiftene til å stanse virksomheten kan kreves dekket av rettighetshaveren. Et 
 
 ### § 9-9. Endring og tilbakekall av tillatelse mv.
 
-Departementet kan oppheve, trekke tilbake, endre vilkårene i eller sette nye vilkår for en tillatelse etter denne loven eller en forskrift gitt i medhold av loven dersomdet foreligger en grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne lovenrettighetshaveren ikke etterkommer et pålegg om å rette eller stanse forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven eller vedtak truffet etter denne loventillatelsen er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydningvesentlige forutsetninger som lå til grunn for å gi tillatelsen er bortfaltden sikkerheten som rettighetshaveren plikter å stille etter [§ 9-2](lov/2019-03-22-7/§9-2) er vesentlig svekket, eller selskapet eller sammenslutningen som innehar tillatelsen, oppløses eller tas under akkord- eller konkursbehandling.
+Departementet kan oppheve, trekke tilbake, endre vilkårene i eller sette nye vilkår for en tillatelse etter denne loven eller en forskrift gitt i medhold av loven dersom
+
+1. det foreligger en grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven
+2. rettighetshaveren ikke etterkommer et pålegg om å rette eller stanse forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven eller vedtak truffet etter denne loven
+3. tillatelsen er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning
+4. vesentlige forutsetninger som lå til grunn for å gi tillatelsen er bortfalt
+5. den sikkerheten som rettighetshaveren plikter å stille etter [§ 9-2](lov/2019-03-22-7/§9-2) er vesentlig svekket, eller selskapet eller sammenslutningen som innehar tillatelsen, oppløses eller tas under akkord- eller konkursbehandling.
 
 En endring eller et tilbakekall av en tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrensede endringer eller tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.
 
@@ -536,7 +577,12 @@ Departementet kan kreve at materiale og opplysninger som en rettighetshaver, ope
 
 Rettighetshaveren skal vederlagsfritt sende prøver av de mineralene som tas opp fra havbunnen, til departementet eller den departementet utpeker. Departementet kan gi forskrift eller treffe enkeltvedtak om at tilsvarende skal gjelde for biologisk materiale. Staten overtar eiendomsretten til det innsendte materialet.
 
-Rettighetshaveren skal vederlagsfritt sende følgende materiale til departementet, eller den departementet utpekerrapporter fra undersøkelser så snart de foreligger, og senest tre måneder etter at undersøkelsene er avsluttetkopier av data, prøver og resultater og tolkningen av demopplysninger om uttak av mineraler, og mengden som er tatt ut, og en beskrivelse av mineralgehaltenopplysninger om videresalg av mineraler og salgsverdien.
+Rettighetshaveren skal vederlagsfritt sende følgende materiale til departementet, eller den departementet utpeker
+
+1. rapporter fra undersøkelser så snart de foreligger, og senest tre måneder etter at undersøkelsene er avsluttet
+2. kopier av data, prøver og resultater og tolkningen av dem
+3. opplysninger om uttak av mineraler, og mengden som er tatt ut, og en beskrivelse av mineralgehalten
+4. opplysninger om videresalg av mineraler og salgsverdien.
 
 Departementet kan gi forskrift om hvilket materiale som skal være tilgjengelig for myndighetene, hva som kan kreves overlevert, når materialet senest skal være tilgjengelig eller overlevert, og om hvilke opplysninger som skal gis til offentlige myndigheter før mineralvirksomheten begynner, og etter at den er kommet i gang.
 

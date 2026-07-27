@@ -15,7 +15,7 @@ xml_hash: "38d7ddfbc63daf27a367e2f45db12aabf90a2839b0c9ba37b0737efe8752b749"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Skilsmisse eller separasjon som er oppnådd i en fremmed stat med bindende virkning der, gjelder her i riket, såframt en av ektefellene på den tid da saken ble reisthadde bopel eller domisil i den fremmede staten, ellervar statsborger der.
+Skilsmisse eller separasjon som er oppnådd i en fremmed stat med bindende virkning der, gjelder her i riket, såframt en av ektefellene på den tid da saken ble reist
+
+1. hadde bopel eller domisil i den fremmede staten, eller
+2. var statsborger der.
 
 Slik gyldighet har også en skilsmisse eller separasjon som er oppnådd med bindende virkning i en annen stat enn de nevnte, såframt den anerkjennes i stat hvor en av ektefellene hadde bopel på tidspunktet for saksanlegget, eller har bopel når anerkjennelse søkes her i riket.
 

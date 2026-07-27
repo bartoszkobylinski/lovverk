@@ -15,7 +15,7 @@ xml_hash: "82fb01e512dfb370a2a15be4fc7a6be0eb1f3ae164929dd10d85d4ca40334a91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -36,7 +36,13 @@ eu_basis:
 
 ### § 2. Definisjoner
 
-I denne loven menes medadvokat: person med norsk advokatbevillingklient: fysisk eller juridisk person hvis interesser ivaretas av en advokatjurist: person med juridisk embetseksamen eller mastergrad i rettsvitenskaprettslig bistand: råd og annen bistand om rettslige spørsmål som ytes til andreadvokatvirksomhet: rettslig bistand i og utenfor rettergang som en advokat yter til en klient og annen bistand fra en advokat som det er vanlig at advokater yter, eller virksomhet advokatbevillingen i medhold av andre lover gir advokaten rett til å utøve.
+I denne loven menes med
+
+1. advokat: person med norsk advokatbevilling
+2. klient: fysisk eller juridisk person hvis interesser ivaretas av en advokat
+3. jurist: person med juridisk embetseksamen eller mastergrad i rettsvitenskap
+4. rettslig bistand: råd og annen bistand om rettslige spørsmål som ytes til andre
+5. advokatvirksomhet: rettslig bistand i og utenfor rettergang som en advokat yter til en klient og annen bistand fra en advokat som det er vanlig at advokater yter, eller virksomhet advokatbevillingen i medhold av andre lover gir advokaten rett til å utøve.
 
 ### § 3. Ufravikelighet
 
@@ -46,11 +52,23 @@ Lovens bestemmelser kan ikke fravikes, med mindre det følger av lov.
 
 ### § 4. Utstedelse av advokatbevilling
 
-(1) Advokattilsynet utsteder advokatbevilling. Advokatbevilling kan gis til personer over 18 år som oppfyller følgende vilkår:Personen har juridisk embetseksamen, mastergrad i rettsvitenskap eller tilsvarende utenlandsk juridisk utdanning.Personen har i minst to år vært i virksomhet som advokatfullmektig, som dommer eller dommerfullmektig, i en stilling ved påtalemyndigheten der behandling av rettssaker inngår som en vesentlig del, eller i annen godkjent juridisk stilling.Personen har gjennomført og bestått advokatkurs.Personen har hederlig vandel. Det skal legges frem utvidet ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og [§ 41](lov/2010-05-28-16/§41) nr. 2.Det foreligger ikke forhold som medfører at advokatbevillingen ville ha bortfalt eller blitt tilbakekalt eller suspendert etter [§§ 14](lov/2022-05-12-28/§14), [15](lov/2022-05-12-28/§15) eller [16](lov/2022-05-12-28/§16).Personen har ikke blitt ilagt forbud mot å yte rettslig bistand etter [§ 70](lov/2022-05-12-28/§70).
+(1) Advokattilsynet utsteder advokatbevilling. Advokatbevilling kan gis til personer over 18 år som oppfyller følgende vilkår:
+
+1. Personen har juridisk embetseksamen, mastergrad i rettsvitenskap eller tilsvarende utenlandsk juridisk utdanning.
+2. Personen har i minst to år vært i virksomhet som advokatfullmektig, som dommer eller dommerfullmektig, i en stilling ved påtalemyndigheten der behandling av rettssaker inngår som en vesentlig del, eller i annen godkjent juridisk stilling.
+3. Personen har gjennomført og bestått advokatkurs.
+4. Personen har hederlig vandel. Det skal legges frem utvidet ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og [§ 41](lov/2010-05-28-16/§41) nr. 2.
+5. Det foreligger ikke forhold som medfører at advokatbevillingen ville ha bortfalt eller blitt tilbakekalt eller suspendert etter [§§ 14](lov/2022-05-12-28/§14), [15](lov/2022-05-12-28/§15) eller [16](lov/2022-05-12-28/§16).
+6. Personen har ikke blitt ilagt forbud mot å yte rettslig bistand etter [§ 70](lov/2022-05-12-28/§70).
 
 (2) Den som søker om advokatbevilling, skal godtgjøre at vedkommende vil oppfylle plikten til å stille sikkerhet etter [§ 5](lov/2022-05-12-28/§5), plikten til å ha revisor etter [§ 42](lov/2022-05-12-28/§42) og plikten til å betale bidrag etter [§ 60](lov/2022-05-12-28/§60).
 
-(3) Departementet gir forskrift omutstedelse av advokatbevilling, blant annet om utstedelse på grunnlag av utenlandsk juridisk utdanning, praksis eller advokatbevillingpraksiskravet, blant annet om annen juridisk virksomhet kan godkjennes etter første ledd bokstav bprosedyreerfaring som vilkår for å medregne praksis som advokatfullmektigadvokatkursets innhold og gjennomføring.
+(3) Departementet gir forskrift om
+
+1. utstedelse av advokatbevilling, blant annet om utstedelse på grunnlag av utenlandsk juridisk utdanning, praksis eller advokatbevilling
+2. praksiskravet, blant annet om annen juridisk virksomhet kan godkjennes etter første ledd bokstav b
+3. prosedyreerfaring som vilkår for å medregne praksis som advokatfullmektig
+4. advokatkursets innhold og gjennomføring.
 
 ### § 5. Advokaters plikt til sikkerhetsstillelse
 
@@ -108,7 +126,12 @@ Departementet gir forskrift om adgangen for personer med utenlandsk advokatbevil
 
 ### § 11. Autorisasjon av advokatfullmektig
 
-(1) Enhver advokat har rett til å la en autorisert fullmektig opptre for seg. Autorisasjon av advokatfullmektig gis av Advokattilsynet. Advokatfullmektigen skal være over 18 år og oppfylle følgende vilkår:Personen har juridisk embetseksamen, mastergrad i rettsvitenskap eller tilsvarende godkjent utenlandsk utdanning.Personen har hederlig vandel. Det skal legges frem utvidet ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og [§ 41](lov/2010-05-28-16/§41) nr. 2.Det foreligger ikke forhold som ville ført til at autorisasjonen ville bortfalt etter [§ 14](lov/2022-05-12-28/§14) bokstav c eller d, blitt tilbakekalt etter [§ 15](lov/2022-05-12-28/§15) første ledd eller andre ledd bokstav a eller e, eller blitt suspendert etter [§ 16](lov/2022-05-12-28/§16) første ledd første punktum.Personen har ikke blitt ilagt forbud mot å yte rettslig bistand etter [§ 70](lov/2022-05-12-28/§70).
+(1) Enhver advokat har rett til å la en autorisert fullmektig opptre for seg. Autorisasjon av advokatfullmektig gis av Advokattilsynet. Advokatfullmektigen skal være over 18 år og oppfylle følgende vilkår:
+
+1. Personen har juridisk embetseksamen, mastergrad i rettsvitenskap eller tilsvarende godkjent utenlandsk utdanning.
+2. Personen har hederlig vandel. Det skal legges frem utvidet ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og [§ 41](lov/2010-05-28-16/§41) nr. 2.
+3. Det foreligger ikke forhold som ville ført til at autorisasjonen ville bortfalt etter [§ 14](lov/2022-05-12-28/§14) bokstav c eller d, blitt tilbakekalt etter [§ 15](lov/2022-05-12-28/§15) første ledd eller andre ledd bokstav a eller e, eller blitt suspendert etter [§ 16](lov/2022-05-12-28/§16) første ledd første punktum.
+4. Personen har ikke blitt ilagt forbud mot å yte rettslig bistand etter [§ 70](lov/2022-05-12-28/§70).
 
 (2) Departementet kan gi forskrift om godkjenning av utenlandsk utdanning.
 
@@ -134,13 +157,27 @@ Departementet gir forskrift om adgangen for personer med utenlandsk advokatbevil
 
 ### § 14. Bortfall av advokatbevilling
 
-En advokatbevilling faller bort dersomadvokaten døradvokaten gir melding om opphør av advokatvirksomhet til Advokattilsynetadvokaten fradømmes retten til å utøve advokatvirksomhet i medhold av [straffeloven § 56](lov/2005-05-20-28/§56)advokaten får oppnevnt verge etter [vergemålsloven kapittel 4](lov/2010-03-26-9/kap4)advokatens bo kommer under konkursbehandling.
+En advokatbevilling faller bort dersom
+
+1. advokaten dør
+2. advokaten gir melding om opphør av advokatvirksomhet til Advokattilsynet
+3. advokaten fradømmes retten til å utøve advokatvirksomhet i medhold av [straffeloven § 56](lov/2005-05-20-28/§56)
+4. advokaten får oppnevnt verge etter [vergemålsloven kapittel 4](lov/2010-03-26-9/kap4)
+5. advokatens bo kommer under konkursbehandling.
 
 ### § 15. Tilbakekall av advokatbevilling
 
 (1) Advokattilsynet kan tilbakekalle en advokatbevilling dersom advokaten anses uskikket til å utøve advokatvirksomhet som følge av straffbare forhold, manglende økonomisk kontroll, grove eller gjentatte overtredelser av plikter gitt i eller i medhold av lov eller andre tilsvarende alvorlige forhold.
 
-(2) Dersom ett eller flere av følgende forhold foreligger, kan Advokattilsynet gi skriftlig pålegg med en rimelig frist for å bringe forholdet i orden:Advokaten oppfyller ikke kravene i [§ 19](lov/2022-05-12-28/§19).Advokaten misligholder plikten etter [§ 5](lov/2022-05-12-28/§5) til å stille sikkerhet eller plikten etter [§ 60](lov/2022-05-12-28/§60) til å betale bidrag til Advokattilsynet eller Advokatnemnda.Advokaten forsømmer sine plikter etter [§§ 42](lov/2022-05-12-28/§42) eller [62](lov/2022-05-12-28/§62). Dette omfatter også å gi adgang til kontroll etter [§ 45](lov/2022-05-12-28/§45).Advokaten blir bedt om å gi forklaring til Advokattilsynet eller Advokatnemnda om forhold som vedrører advokatvirksomheten, men gir ingen tilfredsstillende forklaring.Advokaten utøver yrkesaktivitet i strid med [§ 27](lov/2022-05-12-28/§27) andre ledd.Dersom advokaten ikke bringer forholdet i orden innen fristen, kan Advokattilsynet tilbakekalle advokatbevillingen.
+(2) Dersom ett eller flere av følgende forhold foreligger, kan Advokattilsynet gi skriftlig pålegg med en rimelig frist for å bringe forholdet i orden:
+
+1. Advokaten oppfyller ikke kravene i [§ 19](lov/2022-05-12-28/§19).
+2. Advokaten misligholder plikten etter [§ 5](lov/2022-05-12-28/§5) til å stille sikkerhet eller plikten etter [§ 60](lov/2022-05-12-28/§60) til å betale bidrag til Advokattilsynet eller Advokatnemnda.
+3. Advokaten forsømmer sine plikter etter [§§ 42](lov/2022-05-12-28/§42) eller [62](lov/2022-05-12-28/§62). Dette omfatter også å gi adgang til kontroll etter [§ 45](lov/2022-05-12-28/§45).
+4. Advokaten blir bedt om å gi forklaring til Advokattilsynet eller Advokatnemnda om forhold som vedrører advokatvirksomheten, men gir ingen tilfredsstillende forklaring.
+5. Advokaten utøver yrkesaktivitet i strid med [§ 27](lov/2022-05-12-28/§27) andre ledd.
+
+Dersom advokaten ikke bringer forholdet i orden innen fristen, kan Advokattilsynet tilbakekalle advokatbevillingen.
 
 (3) Den som får advokatbevillingen tilbakekalt etter første eller andre ledd, kan ikke ta stilling som advokatfullmektig, med mindre vedtaket fastsetter noe annet.
 
@@ -202,7 +239,10 @@ Ved vesentlige brudd på reglene for advokatvirksomhet kan Advokattilsynet forby
 
 (4) I advokatforetak som drives som samvirkeforetak, kan bare personer som utøver vesentlig yrkesaktivitet i foretaket, og juridiske personer organisert etter reglene for holdingselskaper i andre ledd, være medlemmer. For øvrig gjelder andre ledd og [§ 22](lov/2022-05-12-28/§22) tilsvarende.
 
-(5) Departementet kan gi forskrift omforetaksnavn for advokatforetak etablert av personer med utenlandsk advokatbevillingretten til å drive advokatvirksomhet i Norge fra foretak med hovedsete i en annen stat.
+(5) Departementet kan gi forskrift om
+
+1. foretaksnavn for advokatforetak etablert av personer med utenlandsk advokatbevilling
+2. retten til å drive advokatvirksomhet i Norge fra foretak med hovedsete i en annen stat.
 
 ### § 22. Krav til eiere og ledelsen i advokatforetak
 
@@ -390,7 +430,14 @@ Advokattilsynet skal etter søknad utstede bekreftelser på at advokater fyller 
 
 ### § 46. Om forvaltning og forvalterordningen for advokatvirksomhet
 
-(1) Dersom det er nødvendig for å avverge skade eller tap for klienter, kan Advokattilsynet oppnevne en annen advokat som forvalter for en advokats virksomhet i følgende tilfeller:Advokatbevillingen er bortfalt etter [§ 14](lov/2022-05-12-28/§14) bokstav a, c, d eller e.Advokatbevillingen er tilbakekalt etter [§ 15](lov/2022-05-12-28/§15) første ledd.Advokatbevillingen blir suspendert etter [§ 16](lov/2022-05-12-28/§16) første ledd.Advokatvirksomheten ivaretas av andre grunner ikke på en forsvarlig måte.Dette gjelder ikke for advokatvirksomhet som utøves av internadvokater etter [§ 24](lov/2022-05-12-28/§24).
+(1) Dersom det er nødvendig for å avverge skade eller tap for klienter, kan Advokattilsynet oppnevne en annen advokat som forvalter for en advokats virksomhet i følgende tilfeller:
+
+1. Advokatbevillingen er bortfalt etter [§ 14](lov/2022-05-12-28/§14) bokstav a, c, d eller e.
+2. Advokatbevillingen er tilbakekalt etter [§ 15](lov/2022-05-12-28/§15) første ledd.
+3. Advokatbevillingen blir suspendert etter [§ 16](lov/2022-05-12-28/§16) første ledd.
+4. Advokatvirksomheten ivaretas av andre grunner ikke på en forsvarlig måte.
+
+Dette gjelder ikke for advokatvirksomhet som utøves av internadvokater etter [§ 24](lov/2022-05-12-28/§24).
 
 (2) Kostnadene ved forvaltningen eller avviklingen dekkes av Advokattilsynet. Advokattilsynet kan kreve refusjon fra advokaten eller det boet som virksomheten inngår i. Krav om refusjon er tvangsgrunnlag for utlegg.
 
@@ -554,7 +601,15 @@ Reglene i [arkivlova](lov/1992-12-04-126) om offentlige arkiver gjelder for Advo
 
 ### § 65. Domstolsprøving
 
-(1) Retten kan prøve alle sider av saker som gjelder følgende vedtak:tilbakekall og suspensjon av en advokatbevillingtilbakekall og suspensjon av en autorisasjon som advokatfullmektigtilbakekall og suspensjon av en tillatelse for personer med utenlandsk advokatbevilling til å utøve advokatvirksomhet på permanent basis i Norgeforbud mot å yte rettslig bistandforbud mot å utøve advokatvirksomhet på permanent basis i Norge for personer med advokatbevilling fra en EØS-stat eller Sveits og forbud mot gjesteadvokaters utøvelse av advokatvirksomhetforbud mot at organisasjoner eller enheter med organisasjonsadvokater kan drive advokatvirksomhetileggelser av overtredelsesgebyr.
+(1) Retten kan prøve alle sider av saker som gjelder følgende vedtak:
+
+1. tilbakekall og suspensjon av en advokatbevilling
+2. tilbakekall og suspensjon av en autorisasjon som advokatfullmektig
+3. tilbakekall og suspensjon av en tillatelse for personer med utenlandsk advokatbevilling til å utøve advokatvirksomhet på permanent basis i Norge
+4. forbud mot å yte rettslig bistand
+5. forbud mot å utøve advokatvirksomhet på permanent basis i Norge for personer med advokatbevilling fra en EØS-stat eller Sveits og forbud mot gjesteadvokaters utøvelse av advokatvirksomhet
+6. forbud mot at organisasjoner eller enheter med organisasjonsadvokater kan drive advokatvirksomhet
+7. ileggelser av overtredelsesgebyr.
 
 (2) Søksmål om gyldigheten av et vedtak fattet av Advokattilsynet eller Advokatnemnda må reises innen seks måneder etter at vedtaket er meddelt partene. Søksmålet reises mot staten ved det organet som har fattet vedtaket.
 
@@ -584,7 +639,13 @@ Reglene i [arkivlova](lov/1992-12-04-126) om offentlige arkiver gjelder for Advo
 
 (2) Jurister som har plikt til å stille sikkerhet etter første ledd, skal betale årlig bidrag til Advokattilsynet. Advokattilsynet kan ilegge et gebyr på inntil fem ganger rettsgebyret for forsinket betaling av bidrag. Skyldig bidrag og gebyr er tvangsgrunnlag for utlegg.
 
-(3) Departementet kan gi forskrift omsikkerhetsstillelse for jurister, blant annet om fritak fra plikt til å stille sikkerhetopplysningsplikt for den som stiller sikkerhetmeldeplikt til Advokattilsynet for jurister som yter rettslig bistand som ledd i næringsvirksomhetplikt for Advokattilsynet til å føre et register over jurister som yter rettslig bistand som ledd i næringsvirksomhetbidrag til Advokattilsynet, blant annet om bidragets størrelse og innkreving.
+(3) Departementet kan gi forskrift om
+
+1. sikkerhetsstillelse for jurister, blant annet om fritak fra plikt til å stille sikkerhet
+2. opplysningsplikt for den som stiller sikkerhet
+3. meldeplikt til Advokattilsynet for jurister som yter rettslig bistand som ledd i næringsvirksomhet
+4. plikt for Advokattilsynet til å føre et register over jurister som yter rettslig bistand som ledd i næringsvirksomhet
+5. bidrag til Advokattilsynet, blant annet om bidragets størrelse og innkreving.
 
 > Endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46).
 

@@ -15,7 +15,7 @@ xml_hash: "9db8276572e48330dae1027c49864730ae059dc042909d313c868e9c29e106bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,21 @@ Departementet gir nærmere regler om organisasjon, lokalisering, administrasjon 
 
 Registrering i frivillighetsregisteret er en rett som tilordnes registreringsenheter, jf. [§ 4](lov/2007-06-29-88/§4), som driver frivillig virksomhet. Frivillig virksomhet er aktiviteter som ikke er fortjenestebasert.
 
-Følgende aktiviteter regnes ikke som frivillig virksomhet:aktiviteter organisert av det offentlige,aktiviteter basert på samvirkeprinsipper og som omfattes av [lov om samvirkeforetak (samvirkeloven)](lov/2007-06-29-81).
+Følgende aktiviteter regnes ikke som frivillig virksomhet:
+
+1. aktiviteter organisert av det offentlige,
+2. aktiviteter basert på samvirkeprinsipper og som omfattes av [lov om samvirkeforetak (samvirkeloven)](lov/2007-06-29-81).
 
 Frivillig virksomhet som ikke anses allmennyttig, kan nektes registrering i særskilte tilfeller.
 
 ## § 4. Registreringsenheter
 
-Som registreringsenhet regnes:ikke-økonomisk (ideell) forening,alminnelig stiftelse som ikke foretar utdelinger, eller som utelukkende foretar utdelinger til frivillig virksomhet,næringsdrivende stiftelse som utelukkende foretar utdelinger til frivillig virksomhet,aksjeselskap som utelukkende foretar utdelinger til frivillig virksomhet.
+Som registreringsenhet regnes:
+
+1. ikke-økonomisk (ideell) forening,
+2. alminnelig stiftelse som ikke foretar utdelinger, eller som utelukkende foretar utdelinger til frivillig virksomhet,
+3. næringsdrivende stiftelse som utelukkende foretar utdelinger til frivillig virksomhet,
+4. aksjeselskap som utelukkende foretar utdelinger til frivillig virksomhet.
 
 Enhet som har adgang til å foreta utdelinger til fysisk person, eller som foretar slike utdelinger, kan ikke få stilling som registreringsenhet.
 

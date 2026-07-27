@@ -15,7 +15,7 @@ xml_hash: "faaa5084aed54e1fc4c753dc69c9850fa86d323af53684ddae785761460ab023"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,17 @@ Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastse
 
 ### § 1-3. Virksomheter loven gjelder for
 
-Denne lov gjelder for:den offentlige helse- og omsorgstjeneste og sosialtjeneste og kommunens folkehelsearbeid etter [folkehelseloven kapittel 2](lov/2011-06-24-29/kap2) og 3,private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,Mattilsynet,offentlige næringsmiddellaboratorier,private næringsmiddellaboratorier,vannverk,apotek, grossister og tilvirkere av legemidler,bandasjister, tilvirkere og andre omsettere av medisinsk utstyr.
+Denne lov gjelder for:
+
+1. den offentlige helse- og omsorgstjeneste og sosialtjeneste og kommunens folkehelsearbeid etter [folkehelseloven kapittel 2](lov/2011-06-24-29/kap2) og 3,
+2. private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,
+3. private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,
+4. Mattilsynet,
+5. offentlige næringsmiddellaboratorier,
+6. private næringsmiddellaboratorier,
+7. vannverk,
+8. apotek, grossister og tilvirkere av legemidler,
+9. bandasjister, tilvirkere og andre omsettere av medisinsk utstyr.
 
 Departementet kan i forskrift bestemme at også andre virksomheter som tilbyr materiell, utstyr og tjenester av betydning for helse- og omsorgstjenesten og sosialtjenesten, skal omfattes av loven.
 
@@ -50,7 +60,10 @@ Denne lov gjelder for personell som tjenestegjør i virksomheter loven omfatter.
 
 ### § 1-5. Når fullmaktsbestemmelsene i loven gjelder
 
-[§§ 3-1](lov/2000-06-23-56/§3-1), [4-1](lov/2000-06-23-56/§4-1), [5-1](lov/2000-06-23-56/§5-1) og [5-2](lov/2000-06-23-56/§5-2) får anvendelse:når riket er i krig eller når krig truer,ved kriser eller katastrofer i fredstid etter beslutning av Kongen. Dersom det er nødvendig for å sikre liv og helse, kan departementet treffe en foreløpig beslutning om anvendelse. En slik beslutning skal bekreftes av Kongen så snart som mulig. En beslutning om anvendelse gis for et begrenset tidsrom og maksimalt for 1 måned. Beslutningen kan gjentas for inntil 1 måned av gangen.
+[§§ 3-1](lov/2000-06-23-56/§3-1), [4-1](lov/2000-06-23-56/§4-1), [5-1](lov/2000-06-23-56/§5-1) og [5-2](lov/2000-06-23-56/§5-2) får anvendelse:
+
+1. når riket er i krig eller når krig truer,
+2. ved kriser eller katastrofer i fredstid etter beslutning av Kongen. Dersom det er nødvendig for å sikre liv og helse, kan departementet treffe en foreløpig beslutning om anvendelse. En slik beslutning skal bekreftes av Kongen så snart som mulig. En beslutning om anvendelse gis for et begrenset tidsrom og maksimalt for 1 måned. Beslutningen kan gjentas for inntil 1 måned av gangen.
 
 ## Kapittel 2. Ansvar for forberedelser og gjennomføring
 

@@ -30,7 +30,10 @@ Loven skal bidra til å sikre at alle som er valgt inn på Stortinget, har mulig
 
 ### § 2. Definisjoner
 
-Fast møtende vararepresentanter er representanter som møter forstortingsrepresentanter som er utnevnt til statsråder, statssekretærer eller politiske rådgivere i regjeringenstortingsrepresentanter som trer ut av Stortinget fordi de ikke lenger er valgbare etter [Grunnloven § 62 første ledd](lov/1814-05-17/§62/ledd/1).
+Fast møtende vararepresentanter er representanter som møter for
+
+1. stortingsrepresentanter som er utnevnt til statsråder, statssekretærer eller politiske rådgivere i regjeringen
+2. stortingsrepresentanter som trer ut av Stortinget fordi de ikke lenger er valgbare etter [Grunnloven § 62 første ledd](lov/1814-05-17/§62/ledd/1).
 
 Innkalte vararepresentanter er personer som møter for representanter som har fått innvilget permisjon.
 
@@ -66,7 +69,11 @@ Den årlige godtgjøringen utbetales med en tolvtedel hver måned. Dette gjelder
 
 Innkalte vararepresentanter har samme godtgjøring som stortingsrepresentantene for de dagene eller periodene de er innkalt til å møte. Innkalte vararepresentanter får også godtgjøring for hver dag eller del av dag på mer enn seks timer som er nødvendig for reise til og fra Stortinget, og som faller utenom de dagene vararepresentanten møter i Stortinget.
 
-Stortingets presidentskap kan etter søknad bestemme at vararepresentanter får beholde godtgjøringen i perioder de ikke er innkalt, i følgende tilfeller:i perioder uten møter i plenum når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden han eller hun søker om å beholde godtgjøringen for.i andre særlige tilfeller.
+Stortingets presidentskap kan etter søknad bestemme at vararepresentanter får beholde godtgjøringen i perioder de ikke er innkalt, i følgende tilfeller:
+
+1. i perioder uten møter i plenum når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.
+2. ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden han eller hun søker om å beholde godtgjøringen for.
+3. i andre særlige tilfeller.
 
 Godtgjøringen blir utbetalt minst én gang per måned.
 
@@ -84,7 +91,12 @@ Stortingets presidentskap kan etter søknad bestemme at en representant i særsk
 
 Representanter som har permisjon fra Stortinget, beholder godtgjøringen i inntil 14 dager med mindre de gir avkall på den.
 
-Stortingets presidentskap kan etter søknad bestemme at en representant får beholde godtgjøringen ut over 14 dager hvis representanten har fått permisjonpå grunn sykdom eller skade. Representanten må fremlegge sykmelding enten sammen med permisjonssøknaden eller snarest mulig etter at permisjonen er innvilget. Dersom representanten ikke gjør dette, kan Stortingets presidentskap bestemme at godtgjøringen skal falle bort for den resterende delen av permisjonen.for å delta på reise som medlem av en delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.av velferdsgrunner. Godtgjøringen kan bare innvilges i særlige tilfeller og i en tidsavgrenset periode.
+Stortingets presidentskap kan etter søknad bestemme at en representant får beholde godtgjøringen ut over 14 dager hvis representanten har fått permisjon
+
+1. på grunn sykdom eller skade. Representanten må fremlegge sykmelding enten sammen med permisjonssøknaden eller snarest mulig etter at permisjonen er innvilget. Dersom representanten ikke gjør dette, kan Stortingets presidentskap bestemme at godtgjøringen skal falle bort for den resterende delen av permisjonen.
+2. for å delta på reise som medlem av en delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.
+3. for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.
+4. av velferdsgrunner. Godtgjøringen kan bare innvilges i særlige tilfeller og i en tidsavgrenset periode.
 
 Ved svangerskapspermisjon, omsorgspermisjon, adopsjonspermisjon, fødselspermisjon, foreldrepermisjon og permisjon ved barns og barnepassers sykdom beholder representantene godtgjøringen etter tilsvarende regler som for ansatte i staten, så langt reglene passer. Dette gjelder også for innkalte vararepresentanter i den perioden innkallingen gjelder.
 
@@ -248,7 +260,11 @@ En fratrådt stortingsrepresentant som tidligere har mottatt sykepenger etter [�
 
 Fratredelsesytelse og omstillingsytelse bortfaller dersom mottakeren har bruttoinntekt fra stilling på minst 30 timer per uke.
 
-Ytelsene skal ellers avkortes mot annen inntekt, men først når inntekt opptjent i ytelsesperiodene samlet overstiger 0,1 ganger grunnbeløpet i folketrygden. Det avkortes deretter krone for krone mot følgende skattepliktige inntekter opptjent i ytelsesperioden:brutto arbeidsinntekt,netto virksomhetsinntekt ogkapitalinntekter i form av netto leieinntekter fra fast eiendom og utbytte fra aksjer og andre selskapsandeler.
+Ytelsene skal ellers avkortes mot annen inntekt, men først når inntekt opptjent i ytelsesperiodene samlet overstiger 0,1 ganger grunnbeløpet i folketrygden. Det avkortes deretter krone for krone mot følgende skattepliktige inntekter opptjent i ytelsesperioden:
+
+1. brutto arbeidsinntekt,
+2. netto virksomhetsinntekt og
+3. kapitalinntekter i form av netto leieinntekter fra fast eiendom og utbytte fra aksjer og andre selskapsandeler.
 
 Andre ledd gjelder tilsvarende for brutto pensjon som er utbetalt for ytelsesperioden.
 

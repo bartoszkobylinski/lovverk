@@ -72,19 +72,41 @@ Opplysninger om eventuell kontofører for finansielle instrumenter innført i ve
 
 ## § 6. Opplysninger som skal registreres om kontohaver og kontoen
 
-Følgende opplysninger om kontohaver og kontoen skal registreres i verdipapirsentralens register:kontohavers navn og adressekontohavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildeltkontohavers utenlandske identifikasjonsnummer, dersom relevant, for nye kontohaverekontohavers skatteland og kildeskatteprosent, dersom kontohaver ikke er skattemessig bosatt eller hjemmehørende i Norgekontohavers statsborgerskap eller registreringsland for juridiske personereventuell kontofører for kontoensærlige regler for innsyn, disposisjonsrett og disposisjonsbegrensninger for kontoen.
+Følgende opplysninger om kontohaver og kontoen skal registreres i verdipapirsentralens register:
+
+1. kontohavers navn og adresse
+2. kontohavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildelt
+3. kontohavers utenlandske identifikasjonsnummer, dersom relevant, for nye kontohavere
+4. kontohavers skatteland og kildeskatteprosent, dersom kontohaver ikke er skattemessig bosatt eller hjemmehørende i Norge
+5. kontohavers statsborgerskap eller registreringsland for juridiske personer
+6. eventuell kontofører for kontoen
+7. særlige regler for innsyn, disposisjonsrett og disposisjonsbegrensninger for kontoen.
 
 > Tilføyd ved forskrift [26 aug 2022 nr. 1493](forskrift/2022-08-26-1493).
 
 ## § 7. Opplysninger som skal registreres om begrensede rettigheter mv.
 
-Følgende opplysninger om begrensede rettigheter mv. skal registreres i verdipapirsentralens register:type rettighetrettighetshavers navn og adresserettighetshavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildeltgrunnlaget for rettsstiftelsende beløp rettigheten skal dekkedisposisjonsrett for innehaverregistreringstidspunkt.
+Følgende opplysninger om begrensede rettigheter mv. skal registreres i verdipapirsentralens register:
+
+1. type rettighet
+2. rettighetshavers navn og adresse
+3. rettighetshavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildelt
+4. grunnlaget for rettsstiftelsen
+5. de beløp rettigheten skal dekke
+6. disposisjonsrett for innehaver
+7. registreringstidspunkt.
 
 > Tilføyd ved forskrift [26 aug 2022 nr. 1493](forskrift/2022-08-26-1493).
 
 ## § 8. Opplysninger som skal registreres om fullmaktsforhold
 
-Følgende opplysninger om fullmaktsforhold skal registreres i verdipapirsentralens register:type fullmaktfullmaktshavers navn og adressefullmaktshavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildeltfullmaktens eventuelle løpetidregistreringstidspunkt.
+Følgende opplysninger om fullmaktsforhold skal registreres i verdipapirsentralens register:
+
+1. type fullmakt
+2. fullmaktshavers navn og adresse
+3. fullmaktshavers organisasjonsnummer eller fødselsnummer, eventuelt D-nummer dersom slikt nummer er tildelt
+4. fullmaktens eventuelle løpetid
+5. registreringstidspunkt.
 
 > Tilføyd ved forskrift [26 aug 2022 nr. 1493](forskrift/2022-08-26-1493).
 

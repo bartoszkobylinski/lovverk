@@ -15,7 +15,7 @@ xml_hash: "236a561164dba846879d0d326479dea07c9d292f202e0752c2314628db24f5ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,11 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring mv. av [skat
 
 ### § 2-1-1. Lønnsinntekt
 
-(1) Med lønnsinntekt menes ytelser som nevnt i [skatteloven § 5-10](lov/1999-03-26-14/§5-10) bokstavene a og d, samt følgende ytelser i den utstrekning de trer i stedet for lønnsinntekt:sykepenger etter [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8), herunder sykepenger fra arbeidsgiver i arbeidsgiverperioden,fødselspenger og adopsjonspenger etter [folketrygdloven kapittel 14](lov/1997-02-28-19/kap14),tilsvarende ytelser fra offentlig trygdeordning i annen stat eller fra privat forsikringsordning (finansiert av arbeidsgiver), men kun i den periode personen ville hatt krav på slike ytelser fra den norske folketrygden dersom vedkommende hadde vært medlem av den norske folketrygden.
+(1) Med lønnsinntekt menes ytelser som nevnt i [skatteloven § 5-10](lov/1999-03-26-14/§5-10) bokstavene a og d, samt følgende ytelser i den utstrekning de trer i stedet for lønnsinntekt:
+
+1. sykepenger etter [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8), herunder sykepenger fra arbeidsgiver i arbeidsgiverperioden,
+2. fødselspenger og adopsjonspenger etter [folketrygdloven kapittel 14](lov/1997-02-28-19/kap14),
+3. tilsvarende ytelser fra offentlig trygdeordning i annen stat eller fra privat forsikringsordning (finansiert av arbeidsgiver), men kun i den periode personen ville hatt krav på slike ytelser fra den norske folketrygden dersom vedkommende hadde vært medlem av den norske folketrygden.
 
 (2) Med lønnsinntekt menes ikke inntekt for arbeid utført i riket under opphold som nevnt i [§ 2-1-5](forskrift/1999-11-19-1158/§2-1-5), eller inntekt som nevnt i [skatteloven § 5-14](lov/1999-03-26-14/§5-14).
 
@@ -160,13 +164,24 @@ Skattyter skal som vedlegg til skattemeldingen levere en egen oppgave for omsetn
 
 ### § 2-30-1. Fritak for skatteplikt for fremmede staters diplomatiske og konsulære tjenestemenn mv.
 
-(1) Formues- og inntektsskatt til stat og kommune kan ikke pålegges:Sjefen for fremmed stats diplomatiske stasjon i riket, samt personer som tilhører stasjonens diplomatiske personale.Medlemmer av familien til personer som nevnt under a, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere.Fremmed stats lønte (ikke-honorære) konsuler.Medlemmer av familien til personer som nevnt under c, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere.Personer som tilhører det administrative eller tekniske personale ved fremmed stats diplomatiske stasjon eller fremmed stats konsulære stasjoner, forutsatt at vedkommende ikke er norsk borger eller fast bosatt i riket.Medlemmer av familien til personer som er nevnt under e, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere eller er fast bosatt i riket.
+(1) Formues- og inntektsskatt til stat og kommune kan ikke pålegges:
+
+1. Sjefen for fremmed stats diplomatiske stasjon i riket, samt personer som tilhører stasjonens diplomatiske personale.
+2. Medlemmer av familien til personer som nevnt under a, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere.
+3. Fremmed stats lønte (ikke-honorære) konsuler.
+4. Medlemmer av familien til personer som nevnt under c, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere.
+5. Personer som tilhører det administrative eller tekniske personale ved fremmed stats diplomatiske stasjon eller fremmed stats konsulære stasjoner, forutsatt at vedkommende ikke er norsk borger eller fast bosatt i riket.
+6. Medlemmer av familien til personer som er nevnt under e, forutsatt at de tilhører vedkommendes husstand og ikke er norske borgere eller er fast bosatt i riket.
 
 (2) Skattefriheten etter første ledd omfatter ikke formue og inntekt mv. av kilder som omhandlet i [skatteloven § 2-3](lov/1999-03-26-14/§2-3).
 
 (3) Ved skattlegging av inntekt som omhandlet i [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd d, settes skattyter i klasse 1 eller høyere i samsvar med de alminnelige regler for personfradrag. Hvis skattyter også mottar lønn eller annen godtgjørelse for personlig arbeid som er fritatt for skatt etter første ledd, settes vedkommende likevel i klasse 0. Ved skattlegging av formue og inntekt fra kilder som omhandlet for øvrig i [skatteloven § 2-3](lov/1999-03-26-14/§2-3), settes skattyter i klasse 0.
 
-(4) Skatt av inntekt kan ikke pålegges følgende personer, når de ikke er norske borgere eller fast bosatt i riket:Fremmed stats honorære konsuler for så vidt gjelder godtgjørelse som utbetales fra senderstaten for utøvelse av konsulær virksomhet,Personer som tilhører hjelpe- eller tjenerpersonalet ved fremmed stats diplomatiske stasjon eller ved fremmed stats konsulære stasjoner som ledes av en lønnet (ikke-honorær) konsul, for så vidt gjelder den lønn vedkommende mottar ved stasjonen,Privat tjener hos skattefri person som nevnt i første ledd a, c og e, for så vidt gjelder den lønn vedkommende mottar som tjener.
+(4) Skatt av inntekt kan ikke pålegges følgende personer, når de ikke er norske borgere eller fast bosatt i riket:
+
+1. Fremmed stats honorære konsuler for så vidt gjelder godtgjørelse som utbetales fra senderstaten for utøvelse av konsulær virksomhet,
+2. Personer som tilhører hjelpe- eller tjenerpersonalet ved fremmed stats diplomatiske stasjon eller ved fremmed stats konsulære stasjoner som ledes av en lønnet (ikke-honorær) konsul, for så vidt gjelder den lønn vedkommende mottar ved stasjonen,
+3. Privat tjener hos skattefri person som nevnt i første ledd a, c og e, for så vidt gjelder den lønn vedkommende mottar som tjener.
 
 (5) Hvis en fremmed stat overfor personer som er tilknyttet en norsk utenriksstasjon anvender skatteregler som medfører større skattebyrde enn bestemmelsene i denne paragraf, kan departementet bestemme at tilsvarende restriksjoner skal anvendes overfor personer som er tilknyttet vedkommende fremmede stats diplomatiske stasjon eller dens konsulære stasjoner i riket.
 
@@ -242,7 +257,13 @@ Som verdipapirfond etter [skatteloven § 2-38 første ledd](lov/1999-03-26-14/§
 
 (1) En person anses å ha sitt hjem der ektefelle eller barn er bosatt dersom denne boligen er felles. For skattyter som forsørger og bor sammen med søsken, regnes deres felles bolig som hjem. Felles hjem med ektefelle går foran felles hjem med andre.
 
-(2) Pendler ektefeller mellom flere felles boliger, anses de å ha sitt hjem i den ene av boligene etter følgende rangorden:den boligen som de også har felles med barn,den boligen som er selvstendig etter kriteriene i [§ 3-1-4](forskrift/1999-11-19-1158/§3-1-4),den boligen hvor ektefellene til sammen har sin overveiende døgnhvile.Ektefeller som tar til å pendle mellom flere felles boliger, kan uansett andre og tredje strekpunkt kreve å beholde sin registrering dersom vilkårene i [§ 3-1-3](forskrift/1999-11-19-1158/§3-1-3) femte ledd er oppfylt for begge ektefellene.
+(2) Pendler ektefeller mellom flere felles boliger, anses de å ha sitt hjem i den ene av boligene etter følgende rangorden:
+
+- den boligen som de også har felles med barn,
+- den boligen som er selvstendig etter kriteriene i [§ 3-1-4](forskrift/1999-11-19-1158/§3-1-4),
+- den boligen hvor ektefellene til sammen har sin overveiende døgnhvile.
+
+Ektefeller som tar til å pendle mellom flere felles boliger, kan uansett andre og tredje strekpunkt kreve å beholde sin registrering dersom vilkårene i [§ 3-1-3](forskrift/1999-11-19-1158/§3-1-3) femte ledd er oppfylt for begge ektefellene.
 
 > Tilføyd ved [forskrift 10 nov 2000 nr. 1107](forskrift/2000-11-10-1107) (fom inntektsåret 2001).
 
@@ -256,7 +277,12 @@ Som verdipapirfond etter [skatteloven § 2-38 første ledd](lov/1999-03-26-14/§
 
 (4) Med foreldrehjem forstås det skattemessige bostedet til foreldre eller andre som personen har vokst opp hos. Kan flere boliger regnes som foreldrehjem for personen, gjelder døgnhvileregelen i [§ 3-1-1](forskrift/1999-11-19-1158/§3-1-1) andre ledd i forholdet mellom disse.
 
-(5) Skattyter som tar til å pendle fra en kommune der han har vært bosatt i minst tre år da pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen, dersomboligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, ogskattyter eier den første boligen eller har utgifter til leie av denne. Skattyter som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med skattyter som tar til å pendle fra en eid eller leid bolig dersom skattyter er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.Bolig i boenhet der det bor flere, anses å ha som areal av primærrom boenhetens totale areal av primærrom delt på antallet beboere i boenheten som er over 15 år. [§ 3-1-4](forskrift/1999-11-19-1158/§3-1-4) andre og tredje ledd gjelder så langt de passer.
+(5) Skattyter som tar til å pendle fra en kommune der han har vært bosatt i minst tre år da pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen, dersom
+
+- boligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, og
+- skattyter eier den første boligen eller har utgifter til leie av denne. Skattyter som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med skattyter som tar til å pendle fra en eid eller leid bolig dersom skattyter er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.
+
+Bolig i boenhet der det bor flere, anses å ha som areal av primærrom boenhetens totale areal av primærrom delt på antallet beboere i boenheten som er over 15 år. [§ 3-1-4](forskrift/1999-11-19-1158/§3-1-4) andre og tredje ledd gjelder så langt de passer.
 
 (6) I andre tilfeller enn som nevnt i første til femte ledd skal enslig som pendler mellom to eller flere boliger, anses å ha sitt hjem i den av boligene som er selvstendig, jf. [§ 3-1-4](forskrift/1999-11-19-1158/§3-1-4). Ved pendling mellom selvstendige boliger, eller kun mellom uselvstendige boliger, gjelder døgnhvileregelen i [§ 3-1-1](forskrift/1999-11-19-1158/§3-1-1) andre ledd, dersom ikke den enslige krever noe annet på grunnlag av femte ledd.
 
@@ -264,7 +290,14 @@ Som verdipapirfond etter [skatteloven § 2-38 første ledd](lov/1999-03-26-14/§
 
 ### § 3-1-4. Selvstendig og uselvstendig bolig
 
-(1) Som selvstendig bolig regnes kun hus eller leilighet somhar minst 30 kvadratmeter areal av primærrom, oghar innlagt vann og avløp, ogpendleren eier eller disponerer for et tidsrom som må forutsettes å få en varighet av minst ett år, ogpendleren har tilgang til alle ukens dager.I boenhet der det bor mer enn en, settes kravet til areal av primærrom til 30 kvadratmeter tillagt 20 kvadratmeter for hver ytterligere beboer i boenheten som er over 15 år.
+(1) Som selvstendig bolig regnes kun hus eller leilighet som
+
+- har minst 30 kvadratmeter areal av primærrom, og
+- har innlagt vann og avløp, og
+- pendleren eier eller disponerer for et tidsrom som må forutsettes å få en varighet av minst ett år, og
+- pendleren har tilgang til alle ukens dager.
+
+I boenhet der det bor mer enn en, settes kravet til areal av primærrom til 30 kvadratmeter tillagt 20 kvadratmeter for hver ytterligere beboer i boenheten som er over 15 år.
 
 (2) Skattyteren må dokumentere boligenes areal av primærrom, enten ved oppmåling av takstmann eller på annen måte som skattemyndighetene finner tilfredsstillende. Skattemyndighetene kan legge bruksarealet til grunn dersom dette er bedre dokumentert enn areal av primærrom.
 
@@ -330,7 +363,14 @@ Skatteetaten kan bestemme at personer som har strengt fortrolig adresse, skal an
 
 (5) Det kreves normalt minst tre hjemreiser i året.
 
-(6) Ved etablering av bosted etter [skatteloven § 3-5 tredje ledd annet punktum](lov/1999-03-26-14/§3-5/ledd/3/setning/2), kan følgende forhold begrunne bosted etter særregelen:etablering av bosted i tidligere hjemdistrikt eller valgdistrikt,etablering av bosted i forbindelse med barnehage, skole eller utdanning for hjemmeboende barn,etablering av felles bolig med ektefelle som har eller har hatt bosted i distriktet elleretablering av bosted mot slutten av funksjonsperioden med sikte på fremtidig arbeid.Med hjemdistrikt forstås fylke og nærliggende områder.
+(6) Ved etablering av bosted etter [skatteloven § 3-5 tredje ledd annet punktum](lov/1999-03-26-14/§3-5/ledd/3/setning/2), kan følgende forhold begrunne bosted etter særregelen:
+
+- etablering av bosted i tidligere hjemdistrikt eller valgdistrikt,
+- etablering av bosted i forbindelse med barnehage, skole eller utdanning for hjemmeboende barn,
+- etablering av felles bolig med ektefelle som har eller har hatt bosted i distriktet eller
+- etablering av bosted mot slutten av funksjonsperioden med sikte på fremtidig arbeid.
+
+Med hjemdistrikt forstås fylke og nærliggende områder.
 
 > Tilføyd ved forskrift [16 sep 2025 nr. 1845](forskrift/2025-09-16-1845) (i kraft 1 okt 2025).
 
@@ -382,7 +422,12 @@ Bestemmelser om fordeling av formue og inntekt mellom andelshavere i boligselska
 
 (2) Fritidsbolig som leies ut i eierens næringsvirksomhet anses som utleid næringseiendom etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10).
 
-(3) Følgende eiendom anses ikke som næringseiendom etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10):bolig som verdsettes etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10) annet og tredje leddandel i boligselskap som verdsettes etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10) femte leddjordbrukseiendom og skog som verdsettes etter [skatteloven § 4-11](lov/1999-03-26-14/§4-11)kraftanlegg som verdsettes etter [skatteloven § 18-5](lov/1999-03-26-14/§18-5).
+(3) Følgende eiendom anses ikke som næringseiendom etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10):
+
+1. bolig som verdsettes etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10) annet og tredje ledd
+2. andel i boligselskap som verdsettes etter [skatteloven § 4-10](lov/1999-03-26-14/§4-10) femte ledd
+3. jordbrukseiendom og skog som verdsettes etter [skatteloven § 4-11](lov/1999-03-26-14/§4-11)
+4. kraftanlegg som verdsettes etter [skatteloven § 18-5](lov/1999-03-26-14/§18-5).
 
 > Tilføyd ved [forskrift 31 mars 2009 nr. 383](forskrift/2009-03-31-383) (fom inntektsåret 2009, men fom inntektsåret 2008 for verdsettelse av utleid næringseiendom eid av ikke-børsnoterte aksjeselskap eller allmennaksjeselskap, se endringsforskriften III for overgangsregler), endret ved [forskrifter 15 mai 2009 nr. 519](forskrift/2009-05-15-519) (fom inntektsåret 2008), [18 nov 2010 nr. 1461](forskrift/2010-11-18-1461) (fom inntektsåret 2010), [2 feb 2021 nr. 285](forskrift/2021-02-02-285) (med virkning fra inntektsåret 2021).
 
@@ -470,7 +515,13 @@ Ved delutleie av næringseiendom skal inntektsårets utleieinntekt divideres på
 
 ### § 4-10-11. Krav til dokumentasjon
 
-(1) Ved verdsettelse av næringseiendom basert på eiendommens dokumenterte omsetningsverdi, jf. [skatteloven § 4-10](lov/1999-03-26-14/§4-10) syvende ledd tredje punktum, skal dokumentasjonen:tidligst være utarbeidet i det første inntektsåret den skal benyttes for,være ferdig utarbeidet senest på det tidspunktet det kreves nedsettelse, og kunne fremlegges umiddelbart for skattemyndighetene på forespørsel,ikke være utarbeidet av noen som er i et interessefellesskap med eller er i et nærstående- eller avhengighetsforhold til skattyter,være utarbeidet av noen med relevant, faglig kompetanse til å foreta verdivurdering av næringseiendom, herunder takstmann eller næringsmegler, oginneholde en redegjørelse for vurderingen av eiendommens omsetningsverdi og forutsetningene som denne bygger på.
+(1) Ved verdsettelse av næringseiendom basert på eiendommens dokumenterte omsetningsverdi, jf. [skatteloven § 4-10](lov/1999-03-26-14/§4-10) syvende ledd tredje punktum, skal dokumentasjonen:
+
+1. tidligst være utarbeidet i det første inntektsåret den skal benyttes for,
+2. være ferdig utarbeidet senest på det tidspunktet det kreves nedsettelse, og kunne fremlegges umiddelbart for skattemyndighetene på forespørsel,
+3. ikke være utarbeidet av noen som er i et interessefellesskap med eller er i et nærstående- eller avhengighetsforhold til skattyter,
+4. være utarbeidet av noen med relevant, faglig kompetanse til å foreta verdivurdering av næringseiendom, herunder takstmann eller næringsmegler, og
+5. inneholde en redegjørelse for vurderingen av eiendommens omsetningsverdi og forutsetningene som denne bygger på.
 
 (2) Som dokumentert omsetningsverdi regnes også eiendommens observerbare omsetningsverdi i inntektsåret det kreves nedsettelse, forutsatt at omsetningen er et fritt salg mellom uavhengige parter.
 
@@ -576,11 +627,21 @@ Når gjenkjøpsverdien til en livsforsikringspolise ikke er tilfredsstillende op
 
 Tallene i parentes gjelder for forsikringer som er tegnet med engangspremie etter 12. mars 1942.
 
-(2) Beregningen skal foretas på polisens pålydende forsikringssum. For poliser som både haren forsikringssum for tilfelle av dødsfall, ogen forsikringssum til utbetaling ved forsikringstidens utløp,anses b som polisens «pålydende» beløp, når b er større enn a. Dette gjelder inntil gjenkjøpsverdien har nådd en størrelse lik den minste av a eller b, som deretter forblir uforandret gjenkjøpsverdi i resten av forsikringstiden. I alle andre tilfeller anses den minste forsikringssummen som pålydende.
+(2) Beregningen skal foretas på polisens pålydende forsikringssum. For poliser som både har
+
+1. en forsikringssum for tilfelle av dødsfall, og
+2. en forsikringssum til utbetaling ved forsikringstidens utløp,
+
+anses b som polisens «pålydende» beløp, når b er større enn a. Dette gjelder inntil gjenkjøpsverdien har nådd en størrelse lik den minste av a eller b, som deretter forblir uforandret gjenkjøpsverdi i resten av forsikringstiden. I alle andre tilfeller anses den minste forsikringssummen som pålydende.
 
 ### § 4-16-4. Når betaling skal stanse før forsikringstidens utløp
 
-For forsikringer hvor premiebetalingen ennå løper, men hvor den etter polisen skal stanse flere år før forsikringstidens utløp, gjelder følgende:Før premie er betalt for fulle fem år, skal det ikke fastsettes noen gjenkjøpsverdi.Etter fem år fastsettes gjenkjøpsverdien til 2/3 av den innbetalte premiesummen, så lenge premiebetalingen løper.Når premiebetalingen er avsluttet, faller forsikringen inn under reglene i [§ 4-16-3](forskrift/1999-11-19-1158/§4-16-3).For øvrig skal beregningen utføres på polisens pålydende premie, uten fradrag for bonus.
+For forsikringer hvor premiebetalingen ennå løper, men hvor den etter polisen skal stanse flere år før forsikringstidens utløp, gjelder følgende:
+
+1. Før premie er betalt for fulle fem år, skal det ikke fastsettes noen gjenkjøpsverdi.
+2. Etter fem år fastsettes gjenkjøpsverdien til 2/3 av den innbetalte premiesummen, så lenge premiebetalingen løper.
+3. Når premiebetalingen er avsluttet, faller forsikringen inn under reglene i [§ 4-16-3](forskrift/1999-11-19-1158/§4-16-3).
+4. For øvrig skal beregningen utføres på polisens pålydende premie, uten fradrag for bonus.
 
 ### § 4-16-5. Formuesverdi
 
@@ -630,7 +691,12 @@ Ved rimelig lån i deler av et inntektsår, gjennomføres fordelsbeskatningen fo
 
 ### § 5-12-2. Långiver
 
-Som långiver i arbeidsforhold regnes arbeidsgiver som yter lån til låntaker som nevnt i [§ 5-12-3](forskrift/1999-11-19-1158/§5-12-3). Arbeidsgiveren regnes også som långiver når vedkommende er formidler av lånet eller lånet er foranlediget av arbeidsforholdet. Som lån i arbeidsforhold anses dermed også lån fraandre selskaper i et konsern,andre virksomheter som drives av arbeidsgiveren eller i fellesskap med andre,andre hvor arbeidsgiveren garanterer for lånet,pensjonskasser, fondsinnretninger o.l. som arbeidsgiver har opprettet, eller som følger av arbeidsavtale.
+Som långiver i arbeidsforhold regnes arbeidsgiver som yter lån til låntaker som nevnt i [§ 5-12-3](forskrift/1999-11-19-1158/§5-12-3). Arbeidsgiveren regnes også som långiver når vedkommende er formidler av lånet eller lånet er foranlediget av arbeidsforholdet. Som lån i arbeidsforhold anses dermed også lån fra
+
+1. andre selskaper i et konsern,
+2. andre virksomheter som drives av arbeidsgiveren eller i fellesskap med andre,
+3. andre hvor arbeidsgiveren garanterer for lånet,
+4. pensjonskasser, fondsinnretninger o.l. som arbeidsgiver har opprettet, eller som følger av arbeidsavtale.
 
 ### § 5-12-3. Låntaker
 
@@ -640,7 +706,10 @@ Som långiver i arbeidsforhold regnes arbeidsgiver som yter lån til låntaker s
 
 ### § 5-12-4. Tidligere arbeidsforhold
 
-Som skattepliktig inntekt anses rentefordel av rimelig lån somfortsetter å bestå etter arbeidsforholdets opphør, ellerer opptatt hos tidligere arbeidsgiver.
+Som skattepliktig inntekt anses rentefordel av rimelig lån som
+
+1. fortsetter å bestå etter arbeidsforholdets opphør, eller
+2. er opptatt hos tidligere arbeidsgiver.
 
 ### § 5-12-5. Beregning av normrenten
 
@@ -774,7 +843,11 @@ Det skal ikke fastsettes fordel for bolig som etter [§ 3-1-4](forskrift/1999-11
 
 Bestemmelsene i [§ 5-13](forskrift/1999-11-19-1158/§5-13) i denne forskrift gjelder for alle typer biler herunder varebiler, kombinerte biler, lastebiler og busser.
 
-Bestemmelsene gjelder likevel ikke for følgende biler:lastebiler med totalvekt på 7.500 kg eller mer og busser med mer enn 15 passasjerplasser.biler som det i lov eller i medhold av lov er fastsatt forbud mot å benytte til annen privatkjøring enn arbeidsreise.biler som er registrert for ni passasjerer eller mer såfremt de brukes i kjøreordning organisert av arbeidsgiver for transport av ansatte på arbeidsreise og ikke brukes privat utover arbeidsreise.
+Bestemmelsene gjelder likevel ikke for følgende biler:
+
+1. lastebiler med totalvekt på 7.500 kg eller mer og busser med mer enn 15 passasjerplasser.
+2. biler som det i lov eller i medhold av lov er fastsatt forbud mot å benytte til annen privatkjøring enn arbeidsreise.
+3. biler som er registrert for ni passasjerer eller mer såfremt de brukes i kjøreordning organisert av arbeidsgiver for transport av ansatte på arbeidsreise og ikke brukes privat utover arbeidsreise.
 
 Fordelen ved bruk av biler som nevnt i annet ledd fastsettes på grunnlag av faktisk bruk etter [skatteloven § 5-10](lov/1999-03-26-14/§5-10).
 
@@ -862,11 +935,37 @@ Departementets myndighet etter [skatteloven § 5-13](lov/1999-03-26-14/§5-13) f
 
 ### § 5-14-12. Skattlegging av opsjoner i selskap i oppstarts- og vekstfasen
 
-(1) Som selskap i oppstarts- og vekstfasen etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd anses aksjeselskap hjemmehørende i Norge som oppfyller følgende vilkår:selskapets gjennomsnittlige antall årsverk var 150 eller færre, og samlede driftsinntekter var 80 millioner kroner eller mindre og balansesum var 200 millioner kroner eller mindre, i inntektsåret før tildelingstidspunktet,selskapet er ikke eldre enn tolv år i tildelingsåret, medregnet stiftelsesåret. For selskap stiftet ved skattefri omdanning fra en selskapsform til en annen, beregnes alderen fra stiftelsesåret til det opprinnelige selskapet. For selskap stiftet ved fisjon gjelder annet punktum tilsvarende. For selskap som har vært part i fusjon, benyttes alderen til det eldste selskapet,ett eller flere offentlige organer kontrollerer ikke alene eller til sammen 25 prosent eller mer av kapital- eller stemmeandelene i selskapet på tildelingstidspunktet,selskapet driver ikke kull- eller stålvirksomhet,selskapet driver hovedsakelig annen aktivitet enn passiv kapitalforvaltning,maksimalt 30 prosent av selskapets samlede lønnskostnader er knyttet til en eller flere av følgende:aktiviteter omfattet av næringshovedområde L «Finansiell tjenesteyting» i Statistisk sentralbyrås standard for næringsgruppering,omsetning av eiendom eller råvarer,langtidsutleie av lokaler eller boliger,juridisk rådgivning, revisjon eller regnskap, ogselskapet har ikke utestående krav på tilbakebetaling av ulovlig statsstøtte og var ikke i økonomiske vanskeligheter på tildelingstidspunktet.Dersom selskapet inngår i et konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), må vilkårene i dette ledd også være oppfylt for konsernet sett under ett. Samtlige selskap i konsernet må være aksjeselskap. Bestemmelsene i denne paragrafen gjelder tilsvarende for utenlandske selskap som tilsvarer aksjeselskap, forutsatt at det utenlandske selskapet er hjemmehørende i et land innenfor EØS eller et land Norge har inngått folkerettslig overenskomst med som inneholder en artikkel om informasjonsutveksling, og er skattepliktig etter § 2-3 første ledd bokstav b.
+(1) Som selskap i oppstarts- og vekstfasen etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd anses aksjeselskap hjemmehørende i Norge som oppfyller følgende vilkår:
 
-(2) Skattlegging etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd gjelder for ansatte som:gjennomsnittlig har minst 25 timer arbeidstid i selskapet per uke, beregnet på årsbasis, ved tildeling og frem til innløsning av opsjonen, ogverken alene eller sammen med nærstående, jf. [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, direkte eller indirekte kontrollerer mer enn 5 prosent av aksjene eller stemmene i selskapet i tildelingsåret, samt de to foregående årene.Dersom selskapet inngår i et konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), gjelder dette ledd bokstav b også for konsernet sett under ett.
+1. selskapets gjennomsnittlige antall årsverk var 150 eller færre, og samlede driftsinntekter var 80 millioner kroner eller mindre og balansesum var 200 millioner kroner eller mindre, i inntektsåret før tildelingstidspunktet,
+2. selskapet er ikke eldre enn tolv år i tildelingsåret, medregnet stiftelsesåret. For selskap stiftet ved skattefri omdanning fra en selskapsform til en annen, beregnes alderen fra stiftelsesåret til det opprinnelige selskapet. For selskap stiftet ved fisjon gjelder annet punktum tilsvarende. For selskap som har vært part i fusjon, benyttes alderen til det eldste selskapet,
+3. ett eller flere offentlige organer kontrollerer ikke alene eller til sammen 25 prosent eller mer av kapital- eller stemmeandelene i selskapet på tildelingstidspunktet,
+4. selskapet driver ikke kull- eller stålvirksomhet,
+5. selskapet driver hovedsakelig annen aktivitet enn passiv kapitalforvaltning,
+6. maksimalt 30 prosent av selskapets samlede lønnskostnader er knyttet til en eller flere av følgende:
 
-(3) Skattlegging etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd gjelder for opsjoner som:tildeles den ansatte 1. januar 2022 eller senere,gir den ansatte rett til å erverve aksjer i arbeidsgiverselskapet,ikke kan omsettes eller overdras ved arv, gave eller på annen måte,har en innløsningskurs som ikke er lavere enn markedsverdien på de underliggende aksjene på tildelingstidspunktet, oginnløses tidligst tre år, og senest ti år, etter tildelingstidspunktet.
+   - aktiviteter omfattet av næringshovedområde L «Finansiell tjenesteyting» i Statistisk sentralbyrås standard for næringsgruppering,
+   - omsetning av eiendom eller råvarer,
+   - langtidsutleie av lokaler eller boliger,
+   - juridisk rådgivning, revisjon eller regnskap, og
+7. selskapet har ikke utestående krav på tilbakebetaling av ulovlig statsstøtte og var ikke i økonomiske vanskeligheter på tildelingstidspunktet.
+
+Dersom selskapet inngår i et konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), må vilkårene i dette ledd også være oppfylt for konsernet sett under ett. Samtlige selskap i konsernet må være aksjeselskap. Bestemmelsene i denne paragrafen gjelder tilsvarende for utenlandske selskap som tilsvarer aksjeselskap, forutsatt at det utenlandske selskapet er hjemmehørende i et land innenfor EØS eller et land Norge har inngått folkerettslig overenskomst med som inneholder en artikkel om informasjonsutveksling, og er skattepliktig etter § 2-3 første ledd bokstav b.
+
+(2) Skattlegging etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd gjelder for ansatte som:
+
+1. gjennomsnittlig har minst 25 timer arbeidstid i selskapet per uke, beregnet på årsbasis, ved tildeling og frem til innløsning av opsjonen, og
+2. verken alene eller sammen med nærstående, jf. [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, direkte eller indirekte kontrollerer mer enn 5 prosent av aksjene eller stemmene i selskapet i tildelingsåret, samt de to foregående årene.
+
+Dersom selskapet inngår i et konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), gjelder dette ledd bokstav b også for konsernet sett under ett.
+
+(3) Skattlegging etter [skatteloven § 5-14](lov/1999-03-26-14/§5-14) annet ledd gjelder for opsjoner som:
+
+1. tildeles den ansatte 1. januar 2022 eller senere,
+2. gir den ansatte rett til å erverve aksjer i arbeidsgiverselskapet,
+3. ikke kan omsettes eller overdras ved arv, gave eller på annen måte,
+4. har en innløsningskurs som ikke er lavere enn markedsverdien på de underliggende aksjene på tildelingstidspunktet, og
+5. innløses tidligst tre år, og senest ti år, etter tildelingstidspunktet.
 
 (4) Samlet verdi av de underliggende aksjene knyttet til selskapets opsjoner under ordningen kan ikke overstige 60 millioner kroner, beregnet på tildelingstidspunktet. Samlet verdi av de underliggende aksjene knyttet til den enkelte ansattes opsjoner under ordningen kan ikke overstige 3 millioner kroner, beregnet på tildelingstidspunktet.
 
@@ -880,7 +979,12 @@ Departementets myndighet etter [skatteloven § 5-13](lov/1999-03-26-14/§5-13) f
 
 (1) Gaver fra egen arbeidsgiver til en verdi av inntil 8 000 kroner regnes ikke som skattepliktig inntekt når gaven gis etter minst 20 års tjenestetid i bedriften og består av annet enn pengebeløp. Det samme gjelder når slike gaver gis etter minst 10 års ytterligere tjenestetid.
 
-(2) Jubileums- eller oppmerksomhetsgaver i arbeidsforhold til en verdi av inntil 4 000 kroner per år regnes ikke som skattepliktig inntekt når gaven består av annet enn pengebeløp. Som jubileums- eller oppmerksomhetsgaver regnes gaver i anledning av atbedriften har bestått i 25 år eller i et antall år som er delelig med 25,mottakeren gifter seg,mottakeren fyller 50 år, og deretter hvert tiende år,mottakeren slutter etter minst 10 år i bedriften eller går av med pensjon.
+(2) Jubileums- eller oppmerksomhetsgaver i arbeidsforhold til en verdi av inntil 4 000 kroner per år regnes ikke som skattepliktig inntekt når gaven består av annet enn pengebeløp. Som jubileums- eller oppmerksomhetsgaver regnes gaver i anledning av at
+
+1. bedriften har bestått i 25 år eller i et antall år som er delelig med 25,
+2. mottakeren gifter seg,
+3. mottakeren fyller 50 år, og deretter hvert tiende år,
+4. mottakeren slutter etter minst 10 år i bedriften eller går av med pensjon.
 
 (3) Gaver i arbeidsforhold til en verdi av inntil 5 000 kroner per år regnes ikke som skattepliktig inntekt når gaven består av annet enn pengebeløp.
 
@@ -938,7 +1042,11 @@ Erkjentlighetsgave for enkeltstående arbeidsprestasjon regnes ikke som skattepl
 
 (11) Bestemmelsene i foregående ledd gjelder tilsvarende ved offentlig dekning av arbeidsreise for skattytere i anledning politiske verv.
 
-(12) Fordel i form av at arbeidsgiver:yter eller godtgjør utgifter til skjermet transport,installerer eller dekker utgifter til installasjon av sikkerhetstiltak i ansattes bolig eller fritidsbolig, elleryter eller godtgjør utgifter til særlig sikker bolig, regnes ikke som skattepliktig inntekt når sikkerhetstiltaket er tilrådd av politiet eller av Politiets sikkerhetstjeneste. Tilrådingen skal gjelde en angitt enkeltperson og eventuelt personer i samme husstand. Tilrådingen skal angi hva tiltaket skal bestå av og for hvilket tidsrom det skal gjelde. For tiltak under bokstav c er det en forutsetning for skattefritaket at den ansatte med sin husstand disponerer en egen privat bolig i tillegg, og ikke har skattepliktig leieinntekt av denne etter [skatteloven § 7-2](lov/1999-03-26-14/§7-2) første ledd. Er dette vilkåret ikke oppfylt, fastsetter Skattedirektoratet verdien av den private fordelen.
+(12) Fordel i form av at arbeidsgiver:
+
+1. yter eller godtgjør utgifter til skjermet transport,
+2. installerer eller dekker utgifter til installasjon av sikkerhetstiltak i ansattes bolig eller fritidsbolig, eller
+3. yter eller godtgjør utgifter til særlig sikker bolig, regnes ikke som skattepliktig inntekt når sikkerhetstiltaket er tilrådd av politiet eller av Politiets sikkerhetstjeneste. Tilrådingen skal gjelde en angitt enkeltperson og eventuelt personer i samme husstand. Tilrådingen skal angi hva tiltaket skal bestå av og for hvilket tidsrom det skal gjelde. For tiltak under bokstav c er det en forutsetning for skattefritaket at den ansatte med sin husstand disponerer en egen privat bolig i tillegg, og ikke har skattepliktig leieinntekt av denne etter [skatteloven § 7-2](lov/1999-03-26-14/§7-2) første ledd. Er dette vilkåret ikke oppfylt, fastsetter Skattedirektoratet verdien av den private fordelen.
 
 (13) Fordel ved arbeidsgivers dekning av personalforsikringer som overstiger den enkelte ansattes forholdsmessige andel av arbeidsgivers samlede premie til ordninger den ansatte er omfattet av, regnes ikke som skattepliktig inntekt.
 
@@ -980,7 +1088,10 @@ Denne forskrift [§ 5-15](forskrift/1999-11-19-1158/§5-15) del B gjelder vilkå
 
 ### § 5-15-11. Skattefrie ytelser til utdanning
 
-(1) Skattefritaket omfatter arbeidsgivers dekning av kostnader tilundervisning, eksamensavgift mv., skolebøker og annet materiell knyttet direkte til utdanningen,reise til undervisningsstedet og merkostnader til opphold utenfor hjemmet, herunder kostnader til besøksreiser til hjemmet, i de tilfeller skattyter på grunn av utdanningen må bo utenfor sitt egentlige hjem. Reglene i [skatteloven § 6-13](lov/1999-03-26-14/§6-13) gjelder tilsvarende.
+(1) Skattefritaket omfatter arbeidsgivers dekning av kostnader til
+
+1. undervisning, eksamensavgift mv., skolebøker og annet materiell knyttet direkte til utdanningen,
+2. reise til undervisningsstedet og merkostnader til opphold utenfor hjemmet, herunder kostnader til besøksreiser til hjemmet, i de tilfeller skattyter på grunn av utdanningen må bo utenfor sitt egentlige hjem. Reglene i [skatteloven § 6-13](lov/1999-03-26-14/§6-13) gjelder tilsvarende.
 
 (2) Utbetaler arbeidsgiver godtgjørelse til dekning av utdanning, omfatter skattefritaket den del av godtgjørelsen som dekker ovennevnte kostnader. Det er et vilkår at arbeidstaker utarbeider og underskriver en oppgave til arbeidsgiver over størrelsen og arten av den pådratte kostnaden og at arbeidsgiver ikke har grunn til å anta at utbetalingen gir overskudd. Dersom utbetalingen foretas før kostnaden pådras, må arbeidstaker før utbetalingen levere et anslag over størrelsen og arten av de forventede kostnadene. Etter at kostnaden er pådratt, må arbeidstaker snarest levere endelig oppgave til arbeidsgiver.
 
@@ -988,7 +1099,10 @@ Denne forskrift [§ 5-15](forskrift/1999-11-19-1158/§5-15) del B gjelder vilkå
 
 ### § 5-15-12. Utdanningens tilknytning til skattyters arbeid
 
-(1) Skattefritaket gjelder bare dersom utdanningengir kompetanse som kan benyttes i nåværende eller fremtidig arbeid hos nåværende arbeidsgiver, ellerdekkes i forbindelse med opphør av arbeidsforhold og gir kompetanse som kan nyttiggjøres ved søking av nytt arbeid hos annen arbeidsgiver.
+(1) Skattefritaket gjelder bare dersom utdanningen
+
+1. gir kompetanse som kan benyttes i nåværende eller fremtidig arbeid hos nåværende arbeidsgiver, eller
+2. dekkes i forbindelse med opphør av arbeidsforhold og gir kompetanse som kan nyttiggjøres ved søking av nytt arbeid hos annen arbeidsgiver.
 
 (2) Skattefritak etter første ledd b begrenses til 1,5 ganger folketrygdens grunnbeløp (G).
 
@@ -1034,7 +1148,15 @@ Denne forskrift [§ 5-15](forskrift/1999-11-19-1158/§5-15) del B gjelder vilkå
 
 ###### § 5-20-3. Definisjoner
 
-I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: Den premien forsikringstakeren har betalt i løpet av året, herunder beløp som er kreditert forsikringstakeren ved innvilget premiefritak.*Risikopremien*: Anses å utgjøre den årlige risikopremien som ville ha blitt beregnet for den forsikrede for det aktuelle kalenderår med utgangspunkt i den udekkede risikoen ved forsikringspoliseårets begynnelse, og med anvendelse av det beregningsgrunnlaget som er benyttet ved beregningen av risikopremien. Når premien er beregnet ved anvendelse av rabatt på et beregningsgrunnlag, beregnes risikopremien med utgangspunkt i de beregningselementene som det er tatt utgangspunkt i ved fastsettelsen av rabatten. Årsrisikopremien er lik null når premiereserven er større enn forsikringssummen ved inntruffet forsikringstilfelle. Selskapet skal beregne risikopremien etter retningslinjer godkjent av Finanstilsynet. Finanstilsynet kan fastsette forskrifter om beregningsmåten eller gi et selskap pålegg om hvordan beregningen skal utføres.*Risikoomkostningsdelen*: Den del av premien som skal dekke omkostningene ved risikodekningen under forsikringen. Risikoomkostningsdelen skal anses å utgjøre tre tideler av risikopremien.*Sparesaldoen*: Den samlede sparing under en forsikring, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).*Årsavkastningen*: Avkastningen i ett år av oppsparingen under forsikringen, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).*Verdien av forsikringen*: Sparesaldoen med fradrag av saldoen på den skattetrekkskonto som er knyttet til forsikringen.*Selskapet*: Det livsforsikringsselskapet som har tegnet forsikringene.
+I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr
+
+1. *Premien*: Den premien forsikringstakeren har betalt i løpet av året, herunder beløp som er kreditert forsikringstakeren ved innvilget premiefritak.
+2. *Risikopremien*: Anses å utgjøre den årlige risikopremien som ville ha blitt beregnet for den forsikrede for det aktuelle kalenderår med utgangspunkt i den udekkede risikoen ved forsikringspoliseårets begynnelse, og med anvendelse av det beregningsgrunnlaget som er benyttet ved beregningen av risikopremien. Når premien er beregnet ved anvendelse av rabatt på et beregningsgrunnlag, beregnes risikopremien med utgangspunkt i de beregningselementene som det er tatt utgangspunkt i ved fastsettelsen av rabatten. Årsrisikopremien er lik null når premiereserven er større enn forsikringssummen ved inntruffet forsikringstilfelle. Selskapet skal beregne risikopremien etter retningslinjer godkjent av Finanstilsynet. Finanstilsynet kan fastsette forskrifter om beregningsmåten eller gi et selskap pålegg om hvordan beregningen skal utføres.
+3. *Risikoomkostningsdelen*: Den del av premien som skal dekke omkostningene ved risikodekningen under forsikringen. Risikoomkostningsdelen skal anses å utgjøre tre tideler av risikopremien.
+4. *Sparesaldoen*: Den samlede sparing under en forsikring, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).
+5. *Årsavkastningen*: Avkastningen i ett år av oppsparingen under forsikringen, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).
+6. *Verdien av forsikringen*: Sparesaldoen med fradrag av saldoen på den skattetrekkskonto som er knyttet til forsikringen.
+7. *Selskapet*: Det livsforsikringsselskapet som har tegnet forsikringene.
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
@@ -1046,11 +1168,21 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 (2) Kontoen skal opprettes når forsikringen tegnes.
 
-(3) Kontoen for en forsikring skal for hvert år visesparesaldoen ved utgangen av foregående år,sparesaldoen ved utgangen av året,årsavkastningen,skattetrekk foretatt av selskapet til dekning av forsikringstakerens inntektsskatt av årsavkastningen,utbetaling av forsikringsbeløp i løpet av året,verdien av forsikringen ved utgangen av året.
+(3) Kontoen for en forsikring skal for hvert år vise
+
+1. sparesaldoen ved utgangen av foregående år,
+2. sparesaldoen ved utgangen av året,
+3. årsavkastningen,
+4. skattetrekk foretatt av selskapet til dekning av forsikringstakerens inntektsskatt av årsavkastningen,
+5. utbetaling av forsikringsbeløp i løpet av året,
+6. verdien av forsikringen ved utgangen av året.
 
 ###### § 5-20-5. Beregning av sparesaldoen
 
-(1) Sparesaldoen for en forsikring skal utgjøre summen avbruttoreserven for forsikringen beregnet etter det beregningsgrunnlaget som gjelder for forsikringen, ogforsikringens andel av selskapets overskudd (overskuddsandelen).
+(1) Sparesaldoen for en forsikring skal utgjøre summen av
+
+1. bruttoreserven for forsikringen beregnet etter det beregningsgrunnlaget som gjelder for forsikringen, og
+2. forsikringens andel av selskapets overskudd (overskuddsandelen).
 
 (2) Med Finanstilsynets godkjennelse kan nettoreserven fratrukket godkjent gjenkjøpsfradrag her anses som en forsikrings bruttoreserve. Overskuddsandelen for en forsikring er en andel av det samlede overskuddet selskapet har opparbeidet som følge av høyere avkastning av selskapets midler og andre avvik fra beregningsgrunnlaget for selskapets premier.
 
@@ -1066,7 +1198,11 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 (1) Selskapet skal for hvert år beregne årsavkastningen under forsikringen.
 
-(2) Årsavkastningen utgjør det beløpet som fremkommer etter at det fra sparesaldoen ved årets utgang er gjort fradrag forsparesaldoen ved utgangen av foregående år,premien, fratrukket risikopremien og risikoomkostningsdelen,renter som i løpet av året er belastet den skattetrekkskontoen som er knyttet til forsikringen.
+(2) Årsavkastningen utgjør det beløpet som fremkommer etter at det fra sparesaldoen ved årets utgang er gjort fradrag for
+
+1. sparesaldoen ved utgangen av foregående år,
+2. premien, fratrukket risikopremien og risikoomkostningsdelen,
+3. renter som i løpet av året er belastet den skattetrekkskontoen som er knyttet til forsikringen.
 
 (3) Har selskapet foretatt utbetaling under forsikringen i løpet av året, gjelder reglene i annet ledd tilsvarende for beregning av avkastningen frem til utbetalingstidspunktet og for beregning av avkastningen fra utbetalingstidspunktet og til årets utløp.
 
@@ -1076,7 +1212,11 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 ###### § 5-20-8. Meldinger til forsikringstakere
 
-(1) Hvert år skal selskapet innen 1. mai sende forsikringstakerne kontoutskrift eller annen oversikt over avkastningen i foregående år. Selskapet skal samtidig gjøre oppmerksom påforsikringstakerens rett til å be om at selskapet foretar skattetrekk, jf. [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) og [§ 5-20-11](forskrift/1999-11-19-1158/§5-20-11),hvordan forsikringstakeren skal gå frem for å få foretatt skattetrekk og fristen for å be om trekk,andre opplysninger som forsikringstakerne vil ha bruk for når de skal ta standpunkt til spørsmålet om skattetrekk.
+(1) Hvert år skal selskapet innen 1. mai sende forsikringstakerne kontoutskrift eller annen oversikt over avkastningen i foregående år. Selskapet skal samtidig gjøre oppmerksom på
+
+1. forsikringstakerens rett til å be om at selskapet foretar skattetrekk, jf. [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) og [§ 5-20-11](forskrift/1999-11-19-1158/§5-20-11),
+2. hvordan forsikringstakeren skal gå frem for å få foretatt skattetrekk og fristen for å be om trekk,
+3. andre opplysninger som forsikringstakerne vil ha bruk for når de skal ta standpunkt til spørsmålet om skattetrekk.
 
 (2) Har en forsikringstaker allerede krevet skatt trukket for det aktuelle året, jf. [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) første ledd annet punktum, plikter selskapet ikke å sende melding som nevnt i første ledd.
 
@@ -1112,7 +1252,10 @@ Skattetrekket skal beregnes etter bestemmelsene i [skattebetalingsloven § 5-5](
 
 (1) Selskapets plikt til å trekke skatt i henhold til [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) og [§ 5-20-11](forskrift/1999-11-19-1158/§5-20-11) gjelder ikke forsikringer hvor det i henhold til forsikringsvilkårene foreligger alminnelig adgang til uttak fra forsikringens sparekonto. Finanstilsynet skal godkjenne den enkelte forsikringsordning som unntas fra trekkplikten.
 
-(2) Dersom samlet årlig avkastning av sparing under forsikringstakerens kapitalforsikring(er) i selskapet ikke overstiger 300 kroner, har selskapet ikke plikt tilå foreta skattetrekk etter reglene i [§ 5-20](forskrift/1999-11-19-1158/§5-20) del III, ogå sende oppgave over avkastningen til skattemyndighetene etter [skatteforvaltningsloven § 7-10](lov/2016-05-27-14/§7-10).
+(2) Dersom samlet årlig avkastning av sparing under forsikringstakerens kapitalforsikring(er) i selskapet ikke overstiger 300 kroner, har selskapet ikke plikt til
+
+1. å foreta skattetrekk etter reglene i [§ 5-20](forskrift/1999-11-19-1158/§5-20) del III, og
+2. å sende oppgave over avkastningen til skattemyndighetene etter [skatteforvaltningsloven § 7-10](lov/2016-05-27-14/§7-10).
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -1190,13 +1333,34 @@ Bestemmelsene i denne forskrift [§ 5-22](forskrift/1999-11-19-1158/§5-22) gjel
 
 Bestemmelsene i denne forskrift [§ 5-41](forskrift/1999-11-19-1158/§5-41) får anvendelse når livrente ifølge polisen er tegnet i selskap som har hatt tillatelse til å drive forsikringsvirksomhet her i landet, og det ikke har vært gitt fradrag for premien ved fastsettingen av skatt. Bestemmelsene gjelder ikke kollektiv livrente som er tegnet før inntektsåret 2007.
 
-Bestemmelsene i denne forskrift [§ 5-41](forskrift/1999-11-19-1158/§5-41) om beregning av skattepliktig inntekt gjelder tilsvarende så langt de passer for:livrente som er tegnet som fortsettelsesforsikring etter [lov om foretakspensjon § 4-9](lov/2000-03-24-16/§4-9),livrente som er tegnet etter [lov om tjenestepensjon § 6-4](lov/2013-12-13-106/§6-4),livrente som er tegnet som fortsettelsesforsikring utgått fra kommunal pensjonsordning,livrente som er tegnet etter [lov om individuell pensjonsordning § 5-3](lov/2008-06-27-62/§5-3),livrente som er tegnet etter overgangsbestemmelsene i denne forskrift [§ 6-47-41](forskrift/1999-11-19-1158/§6-47-41).
+Bestemmelsene i denne forskrift [§ 5-41](forskrift/1999-11-19-1158/§5-41) om beregning av skattepliktig inntekt gjelder tilsvarende så langt de passer for:
+
+1. livrente som er tegnet som fortsettelsesforsikring etter [lov om foretakspensjon § 4-9](lov/2000-03-24-16/§4-9),
+2. livrente som er tegnet etter [lov om tjenestepensjon § 6-4](lov/2013-12-13-106/§6-4),
+3. livrente som er tegnet som fortsettelsesforsikring utgått fra kommunal pensjonsordning,
+4. livrente som er tegnet etter [lov om individuell pensjonsordning § 5-3](lov/2008-06-27-62/§5-3),
+5. livrente som er tegnet etter overgangsbestemmelsene i denne forskrift [§ 6-47-41](forskrift/1999-11-19-1158/§6-47-41).
 
 > Endret ved [forskrifter 18 des 2009 nr. 1703](forskrift/2009-12-18-1703) (fom inntektsåret 2010), [17 des 2015 nr. 1693](forskrift/2015-12-17-1693) (fom inntektsåret 2015), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
 ### § 5-41-2. Definisjoner
 
-I [§ 5-41](forskrift/1999-11-19-1158/§5-41) i denne forskrift betyr:*Livrente*: Forsikring hvor selskapet skal utbetale terminbeløp så lenge en person lever eller til personen når en bestemt alder, jf. [forsikringsavtaleloven § 10-2](lov/1989-06-16-69/§10-2). Skal terminbeløp utbetales inntil personen når en bestemt alder, må den avtalte forsikringstiden (tiden fra tegningstidspunktet til siste avtalteutbetaling) være minst tolv år regnet fra tegningstidspunktet. Utbetalingstiden (tiden fra første til siste utbetaling) må i disse tilfellene være seks år eller mer. Tegnes livrenteforsikringen av arbeidsgiver for å finansiere førtidspensjonering av arbeidstaker frem til arbeidstaker når lovhjemlet pensjonsalder, kan kravene til forsikringstid og utbetalingstid fravikes i den grad de ikke kan oppfylles frem til lovhjemlet pensjonsalder. Den avtalte utbetalingstiden må likevel være minst to år regnet fra den kalendermåneden utbetalingene begynner å løpe. Når kravene til forsikringstid eller utbetalingstid fravikes etter de to foregående punktumene, kan det ikke foretas utbetaling etter at lovhjemlet pensjonsalder er nådd. Premieinnbetalingen kan ikke overstige 66 prosent av arbeidstakers lønn i det siste året før fratredelsestidspunktet, likevel maksimalt 66 prosent av tolv ganger folketrygdens grunnbeløp (G), multiplisert med antall utbetalingsår etter polisen. Annet til og med syvende punktum gjelder ikke for kollektiv livrente.*Livrente med rett til tilbakebetaling*: Livrente som ved forsikredes død gir rett til tilbakebetaling av de innbetalte premiene uten renter, og der livrentebeløp som er utbetalt, skal trekkes fra premiebeløpet.*Livrente uten rett til tilbakebetaling*: Livrente som ved forsikredes død ikke gir rett til tilbakebetaling av de innbetalte premiene.*Livrente med garanti*: Livrente som etter forsikringsavtalen i alle tilfelle vil bli utbetalt minst i et garantert antall år. I tillegg til garantiperioden må det være avtalt en ugarantert utbetalingsperiode på minst fem hele år. Ved tegning av livsvarige livrenter kan den garanterte perioden ikke overstige statistisk forventet gjenstående levetid.*Overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død, og så lenge den andre forsikrede lever, eventuelt til et avtalt tidligere opphørstidspunkt.*Livsvarig overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død og som opphører ved forsikredes død.*Opphørende overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død og frem til et avtalt tidspunkt, men ikke lenger enn til forsikredes død.*Ektefellerente*: Overlevelsesrente som er tegnet i tilknytning til livrenter som nevnt i a – d.*Barnerente*: Overlevelsesrente som er tegnet i tilknytning til annen livrente og som skal løpe til den måned barnet er 25 år, eventuelt utover denne alderen hvis barnet blir varig ufør. I en kollektiv livrente kan det avtales lavere aldersgrense.*Uførerente*: Risikoforsikring som ikke omfatter sparing.*Innbetalt premie*: Det beløpet som er betalt for forsikringen medregnet beløp som er kreditert som premiefritak ved uførhet. Overskudd anvendt til premiereduksjon, regnes ikke som innbetalt premie. I en kollektiv livrente er innbetalt premie det beløpet som er skattepliktig etter [skatteloven § 5-12](lov/1999-03-26-14/§5-12) sjette ledd. Ved ervervsmessig uførhet regnes også arbeidsgivers premiefritak som innbetalt premie.*Avbruddsverdi*: Forsikringens brutto matematiske verdi på det tidspunktet et forsikringsforhold avbrytes, dvs. de innbetalte premier med fradrag for risiko og omkostninger, og med tillegg av renter.*Gjenkjøpsverdi*: Det beløpet forsikrede får utbetalt hvis forsikringsforholdet avbrytes.*Kollektiv livrente:* Forsikring i arbeidsforhold som omfatter flere personer i en nærmere angitt gruppe, og eventuelt ektefelle, barn eller lignende, jf. [forsikringsavtaleloven § 10-2](lov/1989-06-16-69/§10-2).
+I [§ 5-41](forskrift/1999-11-19-1158/§5-41) i denne forskrift betyr:
+
+1. *Livrente*: Forsikring hvor selskapet skal utbetale terminbeløp så lenge en person lever eller til personen når en bestemt alder, jf. [forsikringsavtaleloven § 10-2](lov/1989-06-16-69/§10-2). Skal terminbeløp utbetales inntil personen når en bestemt alder, må den avtalte forsikringstiden (tiden fra tegningstidspunktet til siste avtalteutbetaling) være minst tolv år regnet fra tegningstidspunktet. Utbetalingstiden (tiden fra første til siste utbetaling) må i disse tilfellene være seks år eller mer. Tegnes livrenteforsikringen av arbeidsgiver for å finansiere førtidspensjonering av arbeidstaker frem til arbeidstaker når lovhjemlet pensjonsalder, kan kravene til forsikringstid og utbetalingstid fravikes i den grad de ikke kan oppfylles frem til lovhjemlet pensjonsalder. Den avtalte utbetalingstiden må likevel være minst to år regnet fra den kalendermåneden utbetalingene begynner å løpe. Når kravene til forsikringstid eller utbetalingstid fravikes etter de to foregående punktumene, kan det ikke foretas utbetaling etter at lovhjemlet pensjonsalder er nådd. Premieinnbetalingen kan ikke overstige 66 prosent av arbeidstakers lønn i det siste året før fratredelsestidspunktet, likevel maksimalt 66 prosent av tolv ganger folketrygdens grunnbeløp (G), multiplisert med antall utbetalingsår etter polisen. Annet til og med syvende punktum gjelder ikke for kollektiv livrente.
+2. *Livrente med rett til tilbakebetaling*: Livrente som ved forsikredes død gir rett til tilbakebetaling av de innbetalte premiene uten renter, og der livrentebeløp som er utbetalt, skal trekkes fra premiebeløpet.
+3. *Livrente uten rett til tilbakebetaling*: Livrente som ved forsikredes død ikke gir rett til tilbakebetaling av de innbetalte premiene.
+4. *Livrente med garanti*: Livrente som etter forsikringsavtalen i alle tilfelle vil bli utbetalt minst i et garantert antall år. I tillegg til garantiperioden må det være avtalt en ugarantert utbetalingsperiode på minst fem hele år. Ved tegning av livsvarige livrenter kan den garanterte perioden ikke overstige statistisk forventet gjenstående levetid.
+5. *Overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død, og så lenge den andre forsikrede lever, eventuelt til et avtalt tidligere opphørstidspunkt.
+6. *Livsvarig overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død og som opphører ved forsikredes død.
+7. *Opphørende overlevelsesrente*: Livrente som tar til å løpe ved en bestemt persons død og frem til et avtalt tidspunkt, men ikke lenger enn til forsikredes død.
+8. *Ektefellerente*: Overlevelsesrente som er tegnet i tilknytning til livrenter som nevnt i a – d.
+9. *Barnerente*: Overlevelsesrente som er tegnet i tilknytning til annen livrente og som skal løpe til den måned barnet er 25 år, eventuelt utover denne alderen hvis barnet blir varig ufør. I en kollektiv livrente kan det avtales lavere aldersgrense.
+10. *Uførerente*: Risikoforsikring som ikke omfatter sparing.
+11. *Innbetalt premie*: Det beløpet som er betalt for forsikringen medregnet beløp som er kreditert som premiefritak ved uførhet. Overskudd anvendt til premiereduksjon, regnes ikke som innbetalt premie. I en kollektiv livrente er innbetalt premie det beløpet som er skattepliktig etter [skatteloven § 5-12](lov/1999-03-26-14/§5-12) sjette ledd. Ved ervervsmessig uførhet regnes også arbeidsgivers premiefritak som innbetalt premie.
+12. *Avbruddsverdi*: Forsikringens brutto matematiske verdi på det tidspunktet et forsikringsforhold avbrytes, dvs. de innbetalte premier med fradrag for risiko og omkostninger, og med tillegg av renter.
+13. *Gjenkjøpsverdi*: Det beløpet forsikrede får utbetalt hvis forsikringsforholdet avbrytes.
+14. *Kollektiv livrente:* Forsikring i arbeidsforhold som omfatter flere personer i en nærmere angitt gruppe, og eventuelt ektefelle, barn eller lignende, jf. [forsikringsavtaleloven § 10-2](lov/1989-06-16-69/§10-2).
 
 > Endret ved [forskrift 18 des 2009 nr. 1703](forskrift/2009-12-18-1703) (fom inntektsåret 2010).
 
@@ -1214,7 +1378,10 @@ I [§ 5-41](forskrift/1999-11-19-1158/§5-41) i denne forskrift betyr:*Livrente*
 
 (1) Bestemmelsene i [§ 5-41-3](forskrift/1999-11-19-1158/§5-41-3) gjelder tilsvarende for overlevelsesrenter, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2) e – g. Når fradragsbeløpet beregnes, legges forsikringens avbruddsverdi, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2) l, på det tidspunkt forsikringstilfellet inntreffer, til grunn i stedet for summen av innbetalte premier.
 
-(2) Første ledd gjelder også for:ektefellerente, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2) h, tilknyttet livrente uten tilbakebetaling og livrente med garanti,livrente med garanti som begynner å løpe på grunn av dødsfall før oppnådd alder etter polisen.
+(2) Første ledd gjelder også for:
+
+1. ektefellerente, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2) h, tilknyttet livrente uten tilbakebetaling og livrente med garanti,
+2. livrente med garanti som begynner å løpe på grunn av dødsfall før oppnådd alder etter polisen.
 
 (3) Bestemmelsene i [§ 5-41-3](forskrift/1999-11-19-1158/§5-41-3) gjelder tilsvarende for ytelser til etterlatte fra en kollektiv livrente, med unntak for ytelser som nevnt i [§ 5-41-5](forskrift/1999-11-19-1158/§5-41-5).
 
@@ -1256,7 +1423,11 @@ Ytelser på livrente som ikke tilfredsstiller vilkårene i denne forskrift, regn
 
 ### § 5-41-11. Overgangsregler
 
-Hvis forsikringsavtalen er inngått før 1. januar 1985 og livrenten løp før 1. januar 1990, gjelder følgende overgangsregler:Fradragsbeløpet etter [§ 5-41-3](forskrift/1999-11-19-1158/§5-41-3) er forsikringens avbruddsverdi, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2), 1. januar 1990 dividert med det antall år det er avtalt at livrenten skal løpe etter denne datoen. Den skattepliktige inntekten skal likevel være minst like stor som etter Sosialdepartementets regler av 23. april 1954 om skattlegging av livrenter.For livrenter etter [§ 5-41-4](forskrift/1999-11-19-1158/§5-41-4) og [§ 5-41-5](forskrift/1999-11-19-1158/§5-41-5) tegnet forut for 1. januar 1990 gjelder Sosialdepartementets regler av 23. april 1954 om skattlegging av livrenter så lenge livrenten løper.Ved gjenkjøp av livrente etter [§ 5-41-8](forskrift/1999-11-19-1158/§5-41-8), skal forsikringens avbruddsverdi 1. januar 1990 benyttes i stedet for summen av premier som er innbetalt inntil dette tidspunktet. Innbetaling av premie og tilskudd til premiefond til Egen pensjonsforsikring etter tidligere [lov 18. august 1911 nr. 8](lov/1911-08-18-8) om skatt av formue og inntekt [§ 44](lov/1911-08-18-8/§44) annet ledd nr. 1, foretatt i inntektsåret 1996 eller tidligere, og som ikke har kommet til fradrag ved fastsettingen av skatt, regnes som livrente dersom vilkårene i denne forskrift er oppfylt. Et beløp tilsvarende det beløp som det ikke er gitt fradrag for, unntas fra skattlegging ved utbetaling under forsikringen. Skattyter må dokumentere, med bekreftelse fra skattekontoret, at fradrag ikke er gitt for de respektive årene.
+Hvis forsikringsavtalen er inngått før 1. januar 1985 og livrenten løp før 1. januar 1990, gjelder følgende overgangsregler:
+
+1. Fradragsbeløpet etter [§ 5-41-3](forskrift/1999-11-19-1158/§5-41-3) er forsikringens avbruddsverdi, jf. [§ 5-41-2](forskrift/1999-11-19-1158/§5-41-2), 1. januar 1990 dividert med det antall år det er avtalt at livrenten skal løpe etter denne datoen. Den skattepliktige inntekten skal likevel være minst like stor som etter Sosialdepartementets regler av 23. april 1954 om skattlegging av livrenter.
+2. For livrenter etter [§ 5-41-4](forskrift/1999-11-19-1158/§5-41-4) og [§ 5-41-5](forskrift/1999-11-19-1158/§5-41-5) tegnet forut for 1. januar 1990 gjelder Sosialdepartementets regler av 23. april 1954 om skattlegging av livrenter så lenge livrenten løper.
+3. Ved gjenkjøp av livrente etter [§ 5-41-8](forskrift/1999-11-19-1158/§5-41-8), skal forsikringens avbruddsverdi 1. januar 1990 benyttes i stedet for summen av premier som er innbetalt inntil dette tidspunktet. Innbetaling av premie og tilskudd til premiefond til Egen pensjonsforsikring etter tidligere [lov 18. august 1911 nr. 8](lov/1911-08-18-8) om skatt av formue og inntekt [§ 44](lov/1911-08-18-8/§44) annet ledd nr. 1, foretatt i inntektsåret 1996 eller tidligere, og som ikke har kommet til fradrag ved fastsettingen av skatt, regnes som livrente dersom vilkårene i denne forskrift er oppfylt. Et beløp tilsvarende det beløp som det ikke er gitt fradrag for, unntas fra skattlegging ved utbetaling under forsikringen. Skattyter må dokumentere, med bekreftelse fra skattekontoret, at fradrag ikke er gitt for de respektive årene.
 
 > Endret ved [forskrift 9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -1272,7 +1443,11 @@ Bestemmelsene i denne forskrift [§ 5-43](forskrift/1999-11-19-1158/§5-43) regu
 
 ### § 5-43-2. Skattefritak for premiefritak
 
-Som inntekt regnes ikke premiefritak ved ervervsmessig uførhet i tilknytning tilindividuell pensjonsforsikringsavtale etter skatteloven (IPA),fortsettelsesforsikring utgått fra en privat tjenestepensjonsordning etter skatteloven,fortsettelsesforsikring etter [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon [§ 4-9](lov/2000-03-24-16/§4-9).
+Som inntekt regnes ikke premiefritak ved ervervsmessig uførhet i tilknytning til
+
+1. individuell pensjonsforsikringsavtale etter skatteloven (IPA),
+2. fortsettelsesforsikring utgått fra en privat tjenestepensjonsordning etter skatteloven,
+3. fortsettelsesforsikring etter [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon [§ 4-9](lov/2000-03-24-16/§4-9).
 
 > Tilføyd ved [forskrift 21 des 2000 nr. 1400](forskrift/2000-12-21-1400) (fom inntektsåret 2000).
 
@@ -1292,7 +1467,12 @@ Når det er gitt fradrag for premie etter skatteloven § 6-47 c og d første og 
 
 ### § 6-2-1. Endelig konstatert tap
 
-(1) Tap på utestående fordring som nevnt i [skatteloven § 6-2](lov/1999-03-26-14/§6-2) annet ledd anses endelig konstatert i den utstrekningforetatt tvangsinndrivning eller inkasso har vært forgjeves, ellerfordringen er en kundefordring som ikke er innfridd seks måneder etter forfall, til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier, elleroffentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, ellerdet ellers er helt klart at fordringen ikke kan bli oppfylt på grunn av skyldners manglende betalingsevne.
+(1) Tap på utestående fordring som nevnt i [skatteloven § 6-2](lov/1999-03-26-14/§6-2) annet ledd anses endelig konstatert i den utstrekning
+
+1. foretatt tvangsinndrivning eller inkasso har vært forgjeves, eller
+2. fordringen er en kundefordring som ikke er innfridd seks måneder etter forfall, til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier, eller
+3. offentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, eller
+4. det ellers er helt klart at fordringen ikke kan bli oppfylt på grunn av skyldners manglende betalingsevne.
 
 (2) En fordring anses likevel ikke tapt i den utstrekning den er tilstrekkelig sikret ved pant, kausjon e.l.
 
@@ -1302,7 +1482,13 @@ Når det er gitt fradrag for premie etter skatteloven § 6-47 c og d første og 
 
 (1) Kreditorselskapet og debitorselskapet anses som nærstående når kreditorselskapet på noe tidspunkt i fordringens levetid, men likevel ikke lenger tilbake enn 1. januar det fjerde året forut for realisasjonsåret, har eid 90 prosent eller mer av aksjene eller selskapsandelene i debitorselskapet. Det samme gjelder ved indirekte eie der kravet til eierandel er oppfylt i hvert ledd i eierkjeden. Kreditorselskap og debitorselskap anses også som nærstående når kreditorselskapet sammen med ett eller flere andre nærstående selskap, oppfyller kravet til eierandel i debitorselskapet. Kreditor- og debitorselskap som begge eies av et selskap med eierandel som nevnt i første eller annet punktum, anses som nærstående. Forrige punktum gjelder likevel ikke dersom debitorselskapet eier 90 prosent eller mer av aksjene eller selskapsandelene i kreditorselskapet.
 
-(2) Avskjæring av tap på utestående fordring etter [skatteloven § 6-2](lov/1999-03-26-14/§6-2) tredje ledd gjelder ikke for:kundefordringer,utestående fordringer hvor verdien av fordringen tidligere har vært regnet som skattepliktig inntekt eller har inngått i et gevinst/tapsoppgjør med skatterettslig virkning for kreditorselskapet eller selskap som etter første ledd er nærstående til kreditorselskapet,fordring der fradragsretten følger av [skatteloven § 11-7](lov/1999-03-26-14/§11-7) tredje ledd,tap som nevnt i [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde ledd bokstav g, når fordringen er en del av kreditors ordinære utlånsvirksomhet,valutatap på fordringer, i samme utstrekning som valutagevinst er skattepliktig.
+(2) Avskjæring av tap på utestående fordring etter [skatteloven § 6-2](lov/1999-03-26-14/§6-2) tredje ledd gjelder ikke for:
+
+1. kundefordringer,
+2. utestående fordringer hvor verdien av fordringen tidligere har vært regnet som skattepliktig inntekt eller har inngått i et gevinst/tapsoppgjør med skatterettslig virkning for kreditorselskapet eller selskap som etter første ledd er nærstående til kreditorselskapet,
+3. fordring der fradragsretten følger av [skatteloven § 11-7](lov/1999-03-26-14/§11-7) tredje ledd,
+4. tap som nevnt i [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde ledd bokstav g, når fordringen er en del av kreditors ordinære utlånsvirksomhet,
+5. valutatap på fordringer, i samme utstrekning som valutagevinst er skattepliktig.
 
 (3) Tap på kundefordringer som nevnt i annet ledd bokstav a og rentefordringer etter annet ledd bokstav b, kan likevel avskjæres etter [skatteloven § 6-2 tredje ledd](lov/1999-03-26-14/§6-2/ledd/3) om vilkårene for tapsføring ikke er oppfylt, innen 24 måneder fra fordringen ble etablert. Kundefordring anses etablert da den nærstående ble fakturert eller skulle vært fakturert etter bestemmelser fastsatt i eller i medhold av [bokføringsloven](lov/2004-11-19-73). Rentefordring anses etablert ved utløpet av det kalenderår rentene er påløpt. Tidsperioden forlenges mens debitor er i offentlige gjeldsforhandlinger, under bobehandling etter konkursåpning eller er under rekonstruksjonsforhandlinger.
 
@@ -1314,7 +1500,12 @@ Når det er gitt fradrag for premie etter skatteloven § 6-47 c og d første og 
 
 ### § 6-12-1. Beregning av bilholdskostnader ved reduksjon av fradrag for privat bruk
 
-(1) Samlede kostnader ved bilhold etter [skatteloven § 6-12](lov/1999-03-26-14/§6-12) annet ledd beregnes på følgende måte:Som kostnader regnes de faktiske utgifter skattyter har hatt vedrørende bilen i året. Finansieringsutgifter medregnes likevel ikke, med unntak for leievederlag.Eier skattyter bilen, tillegges for verdiforringelse 17 prosent saldoavskrivninger med utgangspunkt i bilens listepris som ny.For skattyter med leiet bil tillegges ikke beregnede kostnader for verdiforringelse.Regnes det med privatkjøring bare for en del av den perioden skattyteren har hatt bilen, avkortes kostnadene forholdsmessig ved beregning av maksimalt tilbakeføringsbeløp.
+(1) Samlede kostnader ved bilhold etter [skatteloven § 6-12](lov/1999-03-26-14/§6-12) annet ledd beregnes på følgende måte:
+
+1. Som kostnader regnes de faktiske utgifter skattyter har hatt vedrørende bilen i året. Finansieringsutgifter medregnes likevel ikke, med unntak for leievederlag.
+2. Eier skattyter bilen, tillegges for verdiforringelse 17 prosent saldoavskrivninger med utgangspunkt i bilens listepris som ny.
+3. For skattyter med leiet bil tillegges ikke beregnede kostnader for verdiforringelse.
+4. Regnes det med privatkjøring bare for en del av den perioden skattyteren har hatt bilen, avkortes kostnadene forholdsmessig ved beregning av maksimalt tilbakeføringsbeløp.
 
 (2) Skattedirektoratet kan gi regler til utfylling og gjennomføring av denne paragraf.
 
@@ -1410,13 +1601,30 @@ Departementets myndighet etter [skatteloven § 6-31](lov/1999-03-26-14/§6-31) f
 
 (3) Bestemmelsene i denne forskrift [§ 6-40](forskrift/1999-11-19-1158/§6-40) gjelder ikke ved kontokjøp, jf. fjerde ledd nr. 2, hvis kredittyteren er en sparebank, en forretningsbank eller et finansieringsforetak som har fått tillatelse til å drive finansieringsvirksomhet etter [lov 10. juni 1988 nr. 40 kapittel 3](lov/1988-06-10-40/kap3).
 
-(4) I denne forskrift menes med*kredittkjøp:*kjøp av løsøre der det er avtalt utsettelse med betaling av kjøpesummen eller noen del av den,kjøp av løsøre der kjøpesummen helt eller delvis dekkes ved lån og kreditten gis av selgeren eller av en annen på grunnlag av avtale med selgeren (lånekjøp), ellerleie eller annen avtale om bruk av løsøre som i realiteten tjener til å sikre et avhendingsvederlag, dersom det er meningen at mottakeren skal bli eier av tingen*kontokjøp:* kredittkjøp der kjøpesummen helt eller delvis dekkes på grunnlag av avtale mellom kjøperen (kontohaveren) og kredittyteren om løpende kreditt (kontokredittavtale).
+(4) I denne forskrift menes med
+
+1. *kredittkjøp:*
+
+   1. kjøp av løsøre der det er avtalt utsettelse med betaling av kjøpesummen eller noen del av den,
+   2. kjøp av løsøre der kjøpesummen helt eller delvis dekkes ved lån og kreditten gis av selgeren eller av en annen på grunnlag av avtale med selgeren (lånekjøp), eller
+   3. leie eller annen avtale om bruk av løsøre som i realiteten tjener til å sikre et avhendingsvederlag, dersom det er meningen at mottakeren skal bli eier av tingen
+2. *kontokjøp:* kredittkjøp der kjøpesummen helt eller delvis dekkes på grunnlag av avtale mellom kjøperen (kontohaveren) og kredittyteren om løpende kreditt (kontokredittavtale).
 
 > Endret ved [forskrift 22 des 2011 nr. 1491](forskrift/2011-12-22-1491) (fom inntektsåret 2011).
 
 ### § 6-40-2. Skriftlig kontrakt mv.
 
-(1) Fradrag for renter og kostnader ved kredittkjøp kan bare kreves hvis kjøper ved skriftlig kontrakt, ved skriftlig bekreftelse fra selger eller på annen tilfredsstillende måte kan dokumentere følgende:gjenstandens art,salgsdato,kontantprisen: Den pris som selgeren ville krevd ved kontant betaling,kontantinnsatsen: Det beløp kjøperen skal betale kontant,kredittkostnader: Alle kostnader, herunder rente, provisjon, gebyr, avgifter og andre utgifter som kjøperen skal betale på grunn av kreditten,kredittiden: Hvor lang tid gjelden skal betales over angitt i måneder, og i tilfelle når de enkelte avdrag skal betales,effektiv rente ved inngåelsen av kontrakten: Kredittkostnadene angitt som en årlig etterskuddsvis rente, beregnet av den del av kontantprisen som kjøperen får kreditt for (kredittbeløpet) og under hensyn til eventuelle nedbetalinger av kredittbeløpet i kredittiden,navn og adresse på selger,navn, adresse og fødselsdato på kjøper.
+(1) Fradrag for renter og kostnader ved kredittkjøp kan bare kreves hvis kjøper ved skriftlig kontrakt, ved skriftlig bekreftelse fra selger eller på annen tilfredsstillende måte kan dokumentere følgende:
+
+1. gjenstandens art,
+2. salgsdato,
+3. kontantprisen: Den pris som selgeren ville krevd ved kontant betaling,
+4. kontantinnsatsen: Det beløp kjøperen skal betale kontant,
+5. kredittkostnader: Alle kostnader, herunder rente, provisjon, gebyr, avgifter og andre utgifter som kjøperen skal betale på grunn av kreditten,
+6. kredittiden: Hvor lang tid gjelden skal betales over angitt i måneder, og i tilfelle når de enkelte avdrag skal betales,
+7. effektiv rente ved inngåelsen av kontrakten: Kredittkostnadene angitt som en årlig etterskuddsvis rente, beregnet av den del av kontantprisen som kjøperen får kreditt for (kredittbeløpet) og under hensyn til eventuelle nedbetalinger av kredittbeløpet i kredittiden,
+8. navn og adresse på selger,
+9. navn, adresse og fødselsdato på kjøper.
 
 (2) Dokumentasjon etter første ledd skal fremlegges på skattemyndighetenes begjæring.
 
@@ -1426,7 +1634,12 @@ Departementets myndighet etter [skatteloven § 6-31](lov/1999-03-26-14/§6-31) f
 
 ### § 6-40-3. Dokumentasjon av påløpte renter og kostnader
 
-(1) Fradrag for renter og kostnader ved kredittkjøp kan bare kreves hvis kjøper ved skriftlig oppgave fra kredittyter eller på annen tilfredsstillende måte kan dokumentere følgende:kredittkostnader påløpt i inntektsåret,hvor stor del, angitt i kroner, av påløpte kredittkostnader som er fradragsberettiget etter reglene i [§ 6-40-4](forskrift/1999-11-19-1158/§6-40-4),avdrag betalt i inntektsåret,resterende gjeld ved årets utgang.
+(1) Fradrag for renter og kostnader ved kredittkjøp kan bare kreves hvis kjøper ved skriftlig oppgave fra kredittyter eller på annen tilfredsstillende måte kan dokumentere følgende:
+
+1. kredittkostnader påløpt i inntektsåret,
+2. hvor stor del, angitt i kroner, av påløpte kredittkostnader som er fradragsberettiget etter reglene i [§ 6-40-4](forskrift/1999-11-19-1158/§6-40-4),
+3. avdrag betalt i inntektsåret,
+4. resterende gjeld ved årets utgang.
 
 (2) Dokumentasjon etter første ledd skal fremlegges på skattemyndighetenes begjæring.
 
@@ -1466,13 +1679,20 @@ Med det øverste selskapet i konsernet i [skatteloven § 6-41](lov/1999-03-26-14
 
 ### § 6-41-3. Sikkerhetsstillelse fra nærstående part
 
-Bestemmelsen i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) syvende ledd a gjelder ikke:i tilfeller der selskapet eller innretningen som har stilt sikkerhet, er eid eller kontrollert direkte eller indirekte med minst 50 prosent av låntakeren.i tilfeller der sikkerheten fra den nærstående parten er stilt i form av pant i eierandel i låntakeren eller fordring på låntakeren.
+Bestemmelsen i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) syvende ledd a gjelder ikke:
+
+1. i tilfeller der selskapet eller innretningen som har stilt sikkerhet, er eid eller kontrollert direkte eller indirekte med minst 50 prosent av låntakeren.
+2. i tilfeller der sikkerheten fra den nærstående parten er stilt i form av pant i eierandel i låntakeren eller fordring på låntakeren.
 
 > Tilføyd ved [forskrift 24 april 2014 nr. 570](forskrift/2014-04-24-570) (fom inntektsåret 2014), endret ved [forskrift 6 des 2019 nr. 1649](forskrift/2019-12-06-1649) (med virkning fra inntektsåret 2019, tidligere § 6-41-1).
 
 ### § 6-41-4. Nærstående part utenfor samme konsern som den skattepliktige
 
-(1) Med nærstående part utenfor samme konsern i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) niende ledd menes følgende:i tilfeller der den skattepliktige er unntatt fra avskjæring av rentefradrag etter [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd, menes nærstående part som ikke er konsolidert linje for linje i konsernregnskapet som benyttes som grunnlag for beregning av konsernets egenkapitalandel, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd b,i tilfeller der den skattepliktige er unntatt fra avskjæring av rentefradrag etter [skatteloven § 6-41](lov/1999-03-26-14/§6-41) fjerde ledd annet punktum, men er konsolidert linje for linje i et konsernregnskap som oppfyller kravene i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd b, menes nærstående part som ikke er konsolidert linje for linje i dette konsernregnskap, ogi tilfeller der det ikke foreligger konsernregnskap som nevnt i denne bestemmelse første ledd b, menes nærstående part som for regnskapsåret før inntektsåret ikke kunne ha vært konsolidert linje for linje i utgående balanse i samme konsernregnskap som den skattepliktige dersom IFRS hadde vært anvendt.
+(1) Med nærstående part utenfor samme konsern i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) niende ledd menes følgende:
+
+1. i tilfeller der den skattepliktige er unntatt fra avskjæring av rentefradrag etter [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd, menes nærstående part som ikke er konsolidert linje for linje i konsernregnskapet som benyttes som grunnlag for beregning av konsernets egenkapitalandel, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd b,
+2. i tilfeller der den skattepliktige er unntatt fra avskjæring av rentefradrag etter [skatteloven § 6-41](lov/1999-03-26-14/§6-41) fjerde ledd annet punktum, men er konsolidert linje for linje i et konsernregnskap som oppfyller kravene i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd b, menes nærstående part som ikke er konsolidert linje for linje i dette konsernregnskap, og
+3. i tilfeller der det ikke foreligger konsernregnskap som nevnt i denne bestemmelse første ledd b, menes nærstående part som for regnskapsåret før inntektsåret ikke kunne ha vært konsolidert linje for linje i utgående balanse i samme konsernregnskap som den skattepliktige dersom IFRS hadde vært anvendt.
 
 (2) Som nærstående part utenfor samme konsern etter første ledd anses likevel ikke en nærstående part som i utgående balanse i inntektsåret er konsolidert linje for linje i et konsernregnskap som oppfyller kravene i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) åttende ledd bokstav b, der den skattepliktige også er konsolidert linje for linje.
 
@@ -1480,7 +1700,10 @@ Bestemmelsen i [skatteloven § 6-41](lov/1999-03-26-14/§6-41) syvende ledd a gj
 
 ### § 6-41-5. Sikkerhetsstillelse mv. fra nærstående part utenfor samme konsern
 
-(1) Ved anvendelsen av [skatteloven § 6-41](lov/1999-03-26-14/§6-41) syvende ledd for selskap mv. i konsern, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) femte ledd, skal gjeld som er opptatt hos en part som ikke er nærstående, anses som opptatt hos en nærstående part utenfor samme konsern, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) niende ledd, så langt:en nærstående part utenfor samme konsern har stilt sikkerhet for gjelden, elleren nærstående part utenfor samme konsern har en fordring på en part som ikke er nærstående, og fordringen har sammenheng med gjelden.
+(1) Ved anvendelsen av [skatteloven § 6-41](lov/1999-03-26-14/§6-41) syvende ledd for selskap mv. i konsern, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) femte ledd, skal gjeld som er opptatt hos en part som ikke er nærstående, anses som opptatt hos en nærstående part utenfor samme konsern, jf. [skatteloven § 6-41](lov/1999-03-26-14/§6-41) niende ledd, så langt:
+
+1. en nærstående part utenfor samme konsern har stilt sikkerhet for gjelden, eller
+2. en nærstående part utenfor samme konsern har en fordring på en part som ikke er nærstående, og fordringen har sammenheng med gjelden.
 
 (2) [FSFIN § 6-41-4](forskrift/1999-11-19-1158/§6-41-4) gjelder tilsvarende ved vurderingen av om en part i denne paragraf skal anses som nærstående part utenfor samme konsern.
 
@@ -1562,7 +1785,10 @@ Satsen for bruk av privatbil til arbeidsreise og besøksreise til hjem utenfor E
 
 ### § 6-44-10. Anvendelsesområde
 
-Bestemmelsene i [§ 6-44](forskrift/1999-11-19-1158/§6-44) B regulerer skattemessig klassifisering av reise som foretas på strekningenmellom skattyters bolig og arbeidssted.mellom arbeidssteder.
+Bestemmelsene i [§ 6-44](forskrift/1999-11-19-1158/§6-44) B regulerer skattemessig klassifisering av reise som foretas på strekningen
+
+1. mellom skattyters bolig og arbeidssted.
+2. mellom arbeidssteder.
 
 Reisen klassifiseres enten som arbeidsreise eller som yrkesreise. Klassifiseringen legges til grunn både i forhold til regler om fradrag i inntekt, og i forhold til regler om skattlegging av dekning av reisekostnader.
 
@@ -1570,11 +1796,20 @@ Reisen klassifiseres enten som arbeidsreise eller som yrkesreise. Klassifisering
 
 ### § 6-44-11. Definisjoner
 
-(1) Med fast arbeidssted skal forstås:Sted hvor skattyter normalt utfører sitt arbeid. Det skal særlig legges vekt på om skattyters arbeid på stedet skjer regelmessig og med en viss hyppighet. Dersom skattyter i det samme arbeidsforhold arbeider på flere arbeidssteder, anses bare det arbeidsstedet hvor det meste av arbeidstiden tilbringes i den enkelte kalendermåned som nevnt i [skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11) første ledd som sted hvor skattyter normalt utfører sitt arbeid i kalendermåneden.Sted hvor skattyter ikke normalt utfører sitt arbeid, jf. bokstav a, men som likevel er det samme i en periode på mer enn to uker.Oppmøtested for tildeling av og/eller forberedelse til arbeid når oppmøtestedet er det samme i en periode på mer enn to uker.Oppmøtested for transport til eller fra arbeidssted på sokkelinnretning, fartøy eller i utlandet.
+(1) Med fast arbeidssted skal forstås:
+
+1. Sted hvor skattyter normalt utfører sitt arbeid. Det skal særlig legges vekt på om skattyters arbeid på stedet skjer regelmessig og med en viss hyppighet. Dersom skattyter i det samme arbeidsforhold arbeider på flere arbeidssteder, anses bare det arbeidsstedet hvor det meste av arbeidstiden tilbringes i den enkelte kalendermåned som nevnt i [skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11) første ledd som sted hvor skattyter normalt utfører sitt arbeid i kalendermåneden.
+2. Sted hvor skattyter ikke normalt utfører sitt arbeid, jf. bokstav a, men som likevel er det samme i en periode på mer enn to uker.
+3. Oppmøtested for tildeling av og/eller forberedelse til arbeid når oppmøtestedet er det samme i en periode på mer enn to uker.
+4. Oppmøtested for transport til eller fra arbeidssted på sokkelinnretning, fartøy eller i utlandet.
 
 (2) Det foretas en selvstendig vurdering av om det foreligger fast arbeidssted etter vilkårene i bokstavene a-d for det enkelte arbeidsforhold.
 
-(3) Med ikke-fast arbeidssted skal forstås:Arbeids- eller oppmøtested som ikke omfattes av første ledd.Særskilt sted for møte, kurs og lignende, der skattyter er deltaker.Sted hvor skattyter ikke arbeider mer enn 10 dager i inntektsåret. Det foretas en selvstendig vurdering for hvert arbeidsforhold.
+(3) Med ikke-fast arbeidssted skal forstås:
+
+1. Arbeids- eller oppmøtested som ikke omfattes av første ledd.
+2. Særskilt sted for møte, kurs og lignende, der skattyter er deltaker.
+3. Sted hvor skattyter ikke arbeider mer enn 10 dager i inntektsåret. Det foretas en selvstendig vurdering for hvert arbeidsforhold.
 
 (4) Arbeidsfravær på inntil tre dager påvirker ikke anvendelsen av to-ukersgrensene i første ledd. Ved lengre fravær anvendes to-ukersgrensene særskilt for arbeidsperiodene før og etter fraværet.
 
@@ -1582,13 +1817,26 @@ Reisen klassifiseres enten som arbeidsreise eller som yrkesreise. Klassifisering
 
 ### § 6-44-12. Arbeidsreise
 
-Som arbeidsreise anses:reise mellom bolig og fast arbeidssted.reise mellom faste arbeidssteder.reise mellom hjem eller arbeidssted og undervisningssted hvor det ytes undervisning etter introduksjonsloven.
+Som arbeidsreise anses:
+
+1. reise mellom bolig og fast arbeidssted.
+2. reise mellom faste arbeidssteder.
+3. reise mellom hjem eller arbeidssted og undervisningssted hvor det ytes undervisning etter introduksjonsloven.
 
 > Tilføyd ved [forskrift 18 jan 2000 nr. 43](forskrift/2000-01-18-43) (fom inntektsåret 2000, som endret ved [forskrift 27 aug 2001 nr. 1000](forskrift/2001-08-27-1000)). Endret ved [forskrift 3 sep 2003 nr. 1125](forskrift/2003-09-03-1125) (fom 1 sep 2003).
 
 ### § 6-44-13. Yrkesreise
 
-Som yrkesreise anses:Reise mellom bolig og ikke-fast arbeidssted.Reise mellom fast arbeidssted og ikke-fast arbeidssted.Reise der skattyter av hensyn til arbeidet må bo utenfor hjemmet. Dette gjelder likevel ikke besøksreise til hjemmet.Reise der medlem av Stortinget og regjeringen, statssekretærer og politiske rådgivere i departementene og ved Statsministerens kontor av hensyn til det politiske vervet eller arbeidet må bo utenfor hjemmet.Reise fra bolig til fast arbeidssted før en yrkesreise påbegynnes fra arbeidsstedet dersom skattyter oppholder seg på arbeidsstedet i kort tid, og ikke utfører alminnelig arbeid under oppholdet. Det samme gjelder tilsvarende returreise.Reise mellom bolig og fast arbeidssted når arbeidet regelmessig gjør det påkrevet å frakte arbeidsutstyr med bil.Reise fra det sted skattyter oppholder seg til fast arbeidssted når reisen foretas på grunn av nødvendig tilkalling utenom ordinær arbeidstid. Det samme gjelder returreisen.Reise fra oppmøtested som nevnt i [§ 6-44-11](forskrift/1999-11-19-1158/§6-44-11) første ledd d til fast arbeidssted på sokkelinnretning, fartøy eller i utlandet. Det samme gjelder returreisen.
+Som yrkesreise anses:
+
+1. Reise mellom bolig og ikke-fast arbeidssted.
+2. Reise mellom fast arbeidssted og ikke-fast arbeidssted.
+3. Reise der skattyter av hensyn til arbeidet må bo utenfor hjemmet. Dette gjelder likevel ikke besøksreise til hjemmet.
+4. Reise der medlem av Stortinget og regjeringen, statssekretærer og politiske rådgivere i departementene og ved Statsministerens kontor av hensyn til det politiske vervet eller arbeidet må bo utenfor hjemmet.
+5. Reise fra bolig til fast arbeidssted før en yrkesreise påbegynnes fra arbeidsstedet dersom skattyter oppholder seg på arbeidsstedet i kort tid, og ikke utfører alminnelig arbeid under oppholdet. Det samme gjelder tilsvarende returreise.
+6. Reise mellom bolig og fast arbeidssted når arbeidet regelmessig gjør det påkrevet å frakte arbeidsutstyr med bil.
+7. Reise fra det sted skattyter oppholder seg til fast arbeidssted når reisen foretas på grunn av nødvendig tilkalling utenom ordinær arbeidstid. Det samme gjelder returreisen.
+8. Reise fra oppmøtested som nevnt i [§ 6-44-11](forskrift/1999-11-19-1158/§6-44-11) første ledd d til fast arbeidssted på sokkelinnretning, fartøy eller i utlandet. Det samme gjelder returreisen.
 
 > Tilføyd ved [forskrift 18 jan 2000 nr. 43](forskrift/2000-01-18-43) (fom inntektsåret 2000, som endret ved [forskrift 27 aug 2001 nr. 1000](forskrift/2001-08-27-1000)), endret ved [forskrifter 22 nov 2000 nr. 1166](forskrift/2000-11-22-1166) (fom inntektsåret 2000 og inntektsåret 2001), [19 sep 2013 nr. 1096](forskrift/2013-09-19-1096) (fom 1 okt 2013), [16 sep 2025 nr. 1845](forskrift/2025-09-16-1845) (i kraft 1 okt 2025).
 
@@ -1622,7 +1870,11 @@ Bestemmelsene i denne forskrift [§ 6-45](forskrift/1999-11-19-1158/§6-45) regu
 
 (1) Det gis fradrag for premie til pensjonsordninger tilsvarende de ordninger som kan opprettes i medhold av [lov av 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner (kommuneloven) [§ 24](lov/1992-09-25-107/§24). Det gis på lik linje fradrag for premie til Norges Banks pensjonskasse.
 
-(2) Rett til fradrag har:foretak som har eller har hatt en kommunal, herunder fylkeskommunal, eierandel, ellerforetak med nær tilknytning til kommune eller fylkeskommune, ellerforetak hvor Norges Bank har eller har hatt eierandel, og hvor det ikke meldes nye medlemmer inn i Norges Banks pensjonskasse.
+(2) Rett til fradrag har:
+
+1. foretak som har eller har hatt en kommunal, herunder fylkeskommunal, eierandel, eller
+2. foretak med nær tilknytning til kommune eller fylkeskommune, eller
+3. foretak hvor Norges Bank har eller har hatt eierandel, og hvor det ikke meldes nye medlemmer inn i Norges Banks pensjonskasse.
 
 (3) Ansatte i Norges Bank med medlemskap i Norges Banks pensjonskasse gis fradrag for sin andel av premie til Norges Banks pensjonskasse.
 
@@ -1722,7 +1974,15 @@ Bestemmelsene i [§ 6-47-1](forskrift/1999-11-19-1158/§6-47-1) til [§ 6-47-17]
 
 ### § 6-47-8. Kontoføring
 
-(1) Institusjonen skal føre konto for hver avtale om individuell sparing til pensjon. Kontoen skal for hvert år minst angi:Årets innskudd.Årets vederlag for eventuell forsikring tilknyttet avtalen i henhold til [§ 6-47-3](forskrift/1999-11-19-1158/§6-47-3) andre ledd.Årets vederlag for administrasjon av avtalen.Årets vederlag for forvaltning av pensjonskapitalen. Det skal angis hvilke direkte og indirekte kostnader som er påløpt.Årets avkastning av pensjonskapitalen etter kostnader (netto). Livsforsikringsforetak og pensjonsforetak skal i tillegg opplyse om avregnede beløp som er tilordnet som avkastning av pensjonskapitalen.Årets overskudd knyttet til uførhetsrisiko.Endringen i alderspensjonskapitalen i løpet av året og samlet alderspensjonskapital ved utgangen av året.
+(1) Institusjonen skal føre konto for hver avtale om individuell sparing til pensjon. Kontoen skal for hvert år minst angi:
+
+1. Årets innskudd.
+2. Årets vederlag for eventuell forsikring tilknyttet avtalen i henhold til [§ 6-47-3](forskrift/1999-11-19-1158/§6-47-3) andre ledd.
+3. Årets vederlag for administrasjon av avtalen.
+4. Årets vederlag for forvaltning av pensjonskapitalen. Det skal angis hvilke direkte og indirekte kostnader som er påløpt.
+5. Årets avkastning av pensjonskapitalen etter kostnader (netto). Livsforsikringsforetak og pensjonsforetak skal i tillegg opplyse om avregnede beløp som er tilordnet som avkastning av pensjonskapitalen.
+6. Årets overskudd knyttet til uførhetsrisiko.
+7. Endringen i alderspensjonskapitalen i løpet av året og samlet alderspensjonskapital ved utgangen av året.
 
 > Tilføyd ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017).
 
@@ -1824,7 +2084,15 @@ Bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift gj
 
 ###### § 6-47-21. Definisjoner
 
-I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighetshaver*: Den avtalepart som erverver en rett til ytelser etter pensjonsavtalen.*begunstiget*: Annen person enn rettighetshaver, som etter pensjonsavtalen skal motta ytelser.*samboer*:Person som rettighetshaveren har felles bolig og felles barn med, ellerPerson som rettighetshaveren lever sammen med i ekteskapslignende eller partnerskapslignende forhold når det godtgjøres at forholdet har bestått uavbrutt i de fem siste år før inngåelsen av pensjonsavtalen, og det ikke foreligger forhold som er til hinder for at lovlig ekteskap eller registrert partnerskap inngås.*registrert partner*: Partner som er registrert i henhold til partnerskapsloven.
+I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:
+
+1. *rettighetshaver*: Den avtalepart som erverver en rett til ytelser etter pensjonsavtalen.
+2. *begunstiget*: Annen person enn rettighetshaver, som etter pensjonsavtalen skal motta ytelser.
+3. *samboer*:
+
+   - Person som rettighetshaveren har felles bolig og felles barn med, eller
+   - Person som rettighetshaveren lever sammen med i ekteskapslignende eller partnerskapslignende forhold når det godtgjøres at forholdet har bestått uavbrutt i de fem siste år før inngåelsen av pensjonsavtalen, og det ikke foreligger forhold som er til hinder for at lovlig ekteskap eller registrert partnerskap inngås.
+4. *registrert partner*: Partner som er registrert i henhold til partnerskapsloven.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-2).
 
@@ -1842,7 +2110,12 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 
 ###### § 6-47-23. Pensjonsspareavtale
 
-(1) Pensjonsspareavtale kan bare inngås med selskap som har tillatelse til å drive:bankvirksomhet etter [sparebankloven § 2](lov/1961-05-24-1/§2) første eller fjerde ledd,bankvirksomhet etter [forretningsbankloven § 8](lov/1961-05-24-2/§8) første eller annet ledd,livsforsikringsvirksomhet etter [forsikringsvirksomhetsloven § 2-1](lov/2005-06-10-44/§2-1) og [§ 2-4](lov/2005-06-10-44/§2-4) første ledd, ellerverdipapirfondsforvaltning etter [verdipapirfondloven § 1-3](lov/2011-11-25-44/§1-3) fjerde ledd og [§ 2-2](lov/2011-11-25-44/§2-2).
+(1) Pensjonsspareavtale kan bare inngås med selskap som har tillatelse til å drive:
+
+1. bankvirksomhet etter [sparebankloven § 2](lov/1961-05-24-1/§2) første eller fjerde ledd,
+2. bankvirksomhet etter [forretningsbankloven § 8](lov/1961-05-24-2/§8) første eller annet ledd,
+3. livsforsikringsvirksomhet etter [forsikringsvirksomhetsloven § 2-1](lov/2005-06-10-44/§2-1) og [§ 2-4](lov/2005-06-10-44/§2-4) første ledd, eller
+4. verdipapirfondsforvaltning etter [verdipapirfondloven § 1-3](lov/2011-11-25-44/§1-3) fjerde ledd og [§ 2-2](lov/2011-11-25-44/§2-2).
 
 (2) Pensjonsspareavtale kan også inngås med filial i Norge av foretak med hovedsete i annen stat som omfattes av Det europeiske økonomiske samarbeidsområde og som driver tilsvarende virksomhet som nevnt i første ledd.
 
@@ -1928,7 +2201,12 @@ Midler i individuelle pensjonsavtaler etter skatteloven er fritatt fra formuesbe
 
 ###### § 6-47-32. Lavere pensjonsalder for særskilte yrker
 
-(1) For følgende yrkesgrupper kan det avtales pensjonsalder som angitt nedenfor:Flypiloter – pensjonsalder 55 årDykkere – pensjonsalder 55 årFlybesetningsmedlemmer, unntatt piloter – pensjonsalder 60 årYrkessjåfører – pensjonsalder 62 år
+(1) For følgende yrkesgrupper kan det avtales pensjonsalder som angitt nedenfor:
+
+1. Flypiloter – pensjonsalder 55 år
+2. Dykkere – pensjonsalder 55 år
+3. Flybesetningsmedlemmer, unntatt piloter – pensjonsalder 60 år
+4. Yrkessjåfører – pensjonsalder 62 år
 
 (2) Lavere pensjonsalder som nevnt i første ledd kan anvendes for rettighetshaver som på avtaleinngåelsestidspunktet har yrke som nevnt. Innbetaling under pensjonsavtale med slik lavere pensjonsalder er fradragsberettiget så lenge vedkommende har yrke som nevnt.
 
@@ -1998,7 +2276,13 @@ Pensjonsforsikringsavtale kan inneholde avtale om premiefritak. Premiefritak er 
 
 (3) Hvis det er midler i premiefondet når rettighetshaver når pensjonsalder, skal midlene benyttes til økning av ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del II, III og IV. Ytelsene skal beregnes etter en fast plan, og med anvendelse av selskapets forsikringstekniske beregningsgrunnlag.
 
-(4) Hvis det er midler i premiefondet ved rettighetshavers død, og pensjonsforsikringsavtalen gir rett til ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene anvendes til forholdsmessig økning av disse ytelsene. Dersom pensjonsforsikringsavtalen ikke gir rett til ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene likevel anvendes til slike ytelser, i følgende prioritetsrekkefølge:Ytelser som nevnt i [§ 6-47-15](forskrift/1999-11-19-1158/§6-47-15) dersom rettighetshaver har etterlatt ektefelle, registrert partner eller samboer.Ytelser som nevnt i [§ 6-47-16](forskrift/1999-11-19-1158/§6-47-16) dersom rettighetshaver har etterlatt barn, stebarn eller fosterbarn under 21 år.Ytelser som nevnt i [§ 6-47-17](forskrift/1999-11-19-1158/§6-47-17) dersom rettighetshaver har annen etterlatt livsarving.Hvis rettighetshaver ikke har etterlatte som er eller kunne ha vært sikret ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene i premiefondet behandles på samme måte som forsikringsmidler for øvrig.
+(4) Hvis det er midler i premiefondet ved rettighetshavers død, og pensjonsforsikringsavtalen gir rett til ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene anvendes til forholdsmessig økning av disse ytelsene. Dersom pensjonsforsikringsavtalen ikke gir rett til ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene likevel anvendes til slike ytelser, i følgende prioritetsrekkefølge:
+
+1. Ytelser som nevnt i [§ 6-47-15](forskrift/1999-11-19-1158/§6-47-15) dersom rettighetshaver har etterlatt ektefelle, registrert partner eller samboer.
+2. Ytelser som nevnt i [§ 6-47-16](forskrift/1999-11-19-1158/§6-47-16) dersom rettighetshaver har etterlatt barn, stebarn eller fosterbarn under 21 år.
+3. Ytelser som nevnt i [§ 6-47-17](forskrift/1999-11-19-1158/§6-47-17) dersom rettighetshaver har annen etterlatt livsarving.
+
+Hvis rettighetshaver ikke har etterlatte som er eller kunne ha vært sikret ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III, skal midlene i premiefondet behandles på samme måte som forsikringsmidler for øvrig.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-21).
 
@@ -2042,7 +2326,12 @@ Forsikring inngått i henhold til [forskrift av 18. september 1995 nr. 797](fors
 
 ###### § 6-47-47. Utfyllende informasjonskrav for bank og forvaltningsselskap for verdipapirfond
 
-(1) Bank og forvaltningsselskap for verdipapirfond som nevnt i [§ 6-47-4](forskrift/1999-11-19-1158/§6-47-4), skal gi følgende opplysninger til rettighetshaver ved avtaleinngåelse:Beskrivelse av hvilke ytelser avtalen omfatter og vilkårene som må være oppfylt for at ytelsene skal komme til utbetaling.Hvilken rett rettighetshaver har til å endre avtalens innhold i kontraktstiden, herunder når og hvordan rettighetshaver kan bruke denne retten.Betingelser for oppsigelse av avtalen, herunder betingelser for oppsigelse med sikte på overføring av midler til et annet selskap.En kort redegjørelse for de skattereglene som gjelder for pensjonsavtalen.
+(1) Bank og forvaltningsselskap for verdipapirfond som nevnt i [§ 6-47-4](forskrift/1999-11-19-1158/§6-47-4), skal gi følgende opplysninger til rettighetshaver ved avtaleinngåelse:
+
+1. Beskrivelse av hvilke ytelser avtalen omfatter og vilkårene som må være oppfylt for at ytelsene skal komme til utbetaling.
+2. Hvilken rett rettighetshaver har til å endre avtalens innhold i kontraktstiden, herunder når og hvordan rettighetshaver kan bruke denne retten.
+3. Betingelser for oppsigelse av avtalen, herunder betingelser for oppsigelse med sikte på overføring av midler til et annet selskap.
+4. En kort redegjørelse for de skattereglene som gjelder for pensjonsavtalen.
 
 (2) Bank og forvaltningsselskap for verdipapirfond skal hvert år sende rettighetshaver utskrift av kontoen for pensjonsspareavtalen.
 
@@ -2176,7 +2465,17 @@ Organisasjonene skal etter krav fra departementet gi opplysninger som kan ha bet
 
 ### § 6-61-1. Skip i fart
 
-Som skip i fart etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) annet ledd regnes ikke:skip under 100 brutto registertonn,skip uten eget fremdriftsmaskineri,skip som vesentlig går i fart på norske innsjøer og elver,skip i stasjonær virksomhet og havnetrafikk. Det samme gjelder skip i annen virksomhet over begrenset fartsområde hvor utseilt distanse ikke overstiger 30 nautiske mil, med mindre mannskapet har avtalt turnusordning som forutsetter sammenhengende opphold om bord på skipet i minst 3 uker om gangen. Skip i annen virksomhet over begrenset fartsområde som utfører fartøysoperasjoner med stasjonære innslag, herunder brønnbåter, anses ikke for å være i stasjonær virksomhet etter denne bestemmelsen.losjiskip eller skip som brukes som arbeidsplattformer, misjonsskip, teaterskip o.l. i eller mellom norske havner,skip som tilhører eller drives av Forsvaret, med mindre skipet er et marinefartøy med kommando heist. Marinefartøy med kommando heist anses som skip i fart selv om vedkommende fartøy måler under 100 brutto registertonn,lystfartøy, representasjonsfartøy, skyssfartøy o.l.,fiske- og fangstfartøy i den tid fartøyet brukes til fiske og fangst,fartøy i petroleumsvirksomheten for så vidt angår undersøkelse, leteboring, utvinning, utnyttelse og rørledningstransport. Denne begrensningen gjelder ikke på fartøy som driver forsynings-, beredskaps-, og ankerhåndteringstjeneste, seismiske eller geologiske undersøkelser og annen sammenliknbar virksomhet, samt konstruksjons-, rørleggings-, eller vedlikeholdsaktivitet.
+Som skip i fart etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) annet ledd regnes ikke:
+
+1. skip under 100 brutto registertonn,
+2. skip uten eget fremdriftsmaskineri,
+3. skip som vesentlig går i fart på norske innsjøer og elver,
+4. skip i stasjonær virksomhet og havnetrafikk. Det samme gjelder skip i annen virksomhet over begrenset fartsområde hvor utseilt distanse ikke overstiger 30 nautiske mil, med mindre mannskapet har avtalt turnusordning som forutsetter sammenhengende opphold om bord på skipet i minst 3 uker om gangen. Skip i annen virksomhet over begrenset fartsområde som utfører fartøysoperasjoner med stasjonære innslag, herunder brønnbåter, anses ikke for å være i stasjonær virksomhet etter denne bestemmelsen.
+5. losjiskip eller skip som brukes som arbeidsplattformer, misjonsskip, teaterskip o.l. i eller mellom norske havner,
+6. skip som tilhører eller drives av Forsvaret, med mindre skipet er et marinefartøy med kommando heist. Marinefartøy med kommando heist anses som skip i fart selv om vedkommende fartøy måler under 100 brutto registertonn,
+7. lystfartøy, representasjonsfartøy, skyssfartøy o.l.,
+8. fiske- og fangstfartøy i den tid fartøyet brukes til fiske og fangst,
+9. fartøy i petroleumsvirksomheten for så vidt angår undersøkelse, leteboring, utvinning, utnyttelse og rørledningstransport. Denne begrensningen gjelder ikke på fartøy som driver forsynings-, beredskaps-, og ankerhåndteringstjeneste, seismiske eller geologiske undersøkelser og annen sammenliknbar virksomhet, samt konstruksjons-, rørleggings-, eller vedlikeholdsaktivitet.
 
 > Endret ved forskrift [19 des 2023 nr. 2162](forskrift/2023-12-19-2162) (med virkning fra inntektsåret 2024).
 
@@ -2194,7 +2493,12 @@ Som skip i fart etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) annet ledd
 
 ### § 6-61-4. Krav til dokumentasjon for sjøfolk i arbeid om bord på utenlandske skip
 
-Sjøfolk bosatt i Norge som arbeider om bord på utenlandske skip, må ved krav om fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) fremlegge nærmere angitt dokumentasjon. For sjøfolk ansatt om bord på skip i fart må dokumentasjonen være utstedt av rederiet. Dokumentasjonen må inneholde opplysninger om:hvilke tidsrom vedkommende har arbeidet om bord,hva slags type skip arbeidet er utført om bord på,skipets navn og fartsområde,størrelsen på den inntekten som er oppebåret i det tidsrom hvor det kreves fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61).
+Sjøfolk bosatt i Norge som arbeider om bord på utenlandske skip, må ved krav om fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) fremlegge nærmere angitt dokumentasjon. For sjøfolk ansatt om bord på skip i fart må dokumentasjonen være utstedt av rederiet. Dokumentasjonen må inneholde opplysninger om:
+
+1. hvilke tidsrom vedkommende har arbeidet om bord,
+2. hva slags type skip arbeidet er utført om bord på,
+3. skipets navn og fartsområde,
+4. størrelsen på den inntekten som er oppebåret i det tidsrom hvor det kreves fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61).
 
 ### § 6-72. Fradrag for tilskudd til utenlandsk pensjonsordning
 
@@ -2202,7 +2506,13 @@ Sjøfolk bosatt i Norge som arbeider om bord på utenlandske skip, må ved krav 
 
 ### § 6-72-1. Vilkår for fradrag
 
-Fradrag for tilskudd til utenlandsk pensjonsordning etter [skatteloven § 6-72](lov/1999-03-26-14/§6-72) gis dersom følgende vilkår er oppfylt:Skattyter må ha vært medlem i ordningen i minst ett år før skatteplikten til Norge etableres.Det er gitt fradrag for tilskudd til ordningen før skatteplikten til Norge etableres.Alderspensjon skal være hovedytelse i ordningen.Pensjonsinnretningen må ha nødvendig tillatelse til å utøve slik virksomhet i hjemstaten, og skal være underlagt tilsyn fra offentlig myndighet der.Norske myndigheter kan kreve utlevert opplysninger fra etableringsstaten i medhold av skatteavtale eller annen folkerettslig overenskomst. Dersom det ikke foreligger slik overenskomst, gjelder tilsvarende når skattyter legger fram erklæring fra offentlig myndighet i etableringsstaten som bekrefter forhold av betydning for fradragsretten.
+Fradrag for tilskudd til utenlandsk pensjonsordning etter [skatteloven § 6-72](lov/1999-03-26-14/§6-72) gis dersom følgende vilkår er oppfylt:
+
+1. Skattyter må ha vært medlem i ordningen i minst ett år før skatteplikten til Norge etableres.
+2. Det er gitt fradrag for tilskudd til ordningen før skatteplikten til Norge etableres.
+3. Alderspensjon skal være hovedytelse i ordningen.
+4. Pensjonsinnretningen må ha nødvendig tillatelse til å utøve slik virksomhet i hjemstaten, og skal være underlagt tilsyn fra offentlig myndighet der.
+5. Norske myndigheter kan kreve utlevert opplysninger fra etableringsstaten i medhold av skatteavtale eller annen folkerettslig overenskomst. Dersom det ikke foreligger slik overenskomst, gjelder tilsvarende når skattyter legger fram erklæring fra offentlig myndighet i etableringsstaten som bekrefter forhold av betydning for fradragsretten.
 
 > Tilføyd ved [forskrift 9 okt 2015 nr. 1176](forskrift/2015-10-09-1176) (fom inntekståret 2015), endret ved forskrift [20 des 2024 nr. 3405](forskrift/2024-12-20-3405) (med virkning fra inntektsåret 2025).
 
@@ -2222,7 +2532,16 @@ Bestemmelser til utfylling av [skatteloven § 6-83](lov/1999-03-26-14/§6-83) er
 
 (1) Arbeidsfradrag etter [skatteloven § 6-86](lov/1999-03-26-14/§6-86) gis til et tilfeldig utvalg på 8 prosent av personlige skattytere som er registrert som skattepliktige til Norge i skattemanntallet per 31. oktober 2025, er født i årene 1991–2006 og som trekkes av skattemyndighetene etter en randomisert metode.
 
-(2) Trekningen gjennomføres som følger:Skattemyndighetene sammenstiller opplysninger om alle skattepliktige personer som er født i årene 1991–2006, og deler disse inn i undergrupper etter kjønn, fødselsår, inntekt og bosatt-status. Innad i hver av disse undergruppene trekkes 8 prosent av skattyterne tilfeldig ut til å få rett til arbeidsfradrag gjennom hele forsøket.Trekningen foregår ved hjelp av en programkode (algoritme) som trekker tilfeldige tall, som igjen danner grunnlaget for hvem som skal få og ikke få rett til arbeidsfradrag. Programkoden som skal brukes, er offentlig tilgjengelig på regjeringen.no.Nøkkelen for programkoden settes til åpningskursen på Oslo Børs (OSEBX) den 3. november 2025 (1611,82).Utfallet av trekningen vil gis av kombinasjonen av:datasettet som inneholder alle i målgruppen,programkoden ognøkkelen.
+(2) Trekningen gjennomføres som følger:
+
+1. Skattemyndighetene sammenstiller opplysninger om alle skattepliktige personer som er født i årene 1991–2006, og deler disse inn i undergrupper etter kjønn, fødselsår, inntekt og bosatt-status. Innad i hver av disse undergruppene trekkes 8 prosent av skattyterne tilfeldig ut til å få rett til arbeidsfradrag gjennom hele forsøket.
+2. Trekningen foregår ved hjelp av en programkode (algoritme) som trekker tilfeldige tall, som igjen danner grunnlaget for hvem som skal få og ikke få rett til arbeidsfradrag. Programkoden som skal brukes, er offentlig tilgjengelig på regjeringen.no.
+3. Nøkkelen for programkoden settes til åpningskursen på Oslo Børs (OSEBX) den 3. november 2025 (1611,82).
+4. Utfallet av trekningen vil gis av kombinasjonen av:
+
+   - datasettet som inneholder alle i målgruppen,
+   - programkoden og
+   - nøkkelen.
 
 > Tilføyd ved forskrift [22 des 2025 nr. 2861](forskrift/2025-12-22-2861) (med virkning fra inntektsåret 2026).
 
@@ -2258,13 +2577,19 @@ Bestemmelsene i [§ 7-3](forskrift/1999-11-19-1158/§7-3) del B gjelder fordelin
 
 ### § 7-3-11. Definisjoner
 
-I denne forskrift [§ 7-3](forskrift/1999-11-19-1158/§7-3) del B betyr:*Boligselskap:* Selskap som omfattes av [skatteloven § 7-3](lov/1999-03-26-14/§7-3).*Langsiktig fellesgjeld:* Fellesgjeld i boligselskapet hvor hele eller deler av beløpet forfaller til betaling mer enn ett år etter gjeldsstiftelsen.
+I denne forskrift [§ 7-3](forskrift/1999-11-19-1158/§7-3) del B betyr:
+
+1. *Boligselskap:* Selskap som omfattes av [skatteloven § 7-3](lov/1999-03-26-14/§7-3).
+2. *Langsiktig fellesgjeld:* Fellesgjeld i boligselskapet hvor hele eller deler av beløpet forfaller til betaling mer enn ett år etter gjeldsstiftelsen.
 
 > Tilføyd ved [forskrift 16 okt 2000 nr. 1065](forskrift/2000-10-16-1065) (fom inntektsåret 2000). Endret ved [forskrift 17 des 2004 nr. 1709](forskrift/2004-12-17-1709) (fom inntektsåret 2005, tidligere § 7-12-11).
 
 ### § 7-3-12. Valg av fordelingsmetode
 
-(1) Inntekt og formue fordeles mellom andelshaverne etter en av disse metodene:Husleiebrøk, jf. [§ 7-3-13](forskrift/1999-11-19-1158/§7-3-13)Andelsbrøk og andelskonto, jf. [§ 7-3-14](forskrift/1999-11-19-1158/§7-3-14).
+(1) Inntekt og formue fordeles mellom andelshaverne etter en av disse metodene:
+
+1. Husleiebrøk, jf. [§ 7-3-13](forskrift/1999-11-19-1158/§7-3-13)
+2. Andelsbrøk og andelskonto, jf. [§ 7-3-14](forskrift/1999-11-19-1158/§7-3-14).
 
 (2) Vedtak om valg av fordelingsmetode og om fastsettelse av fordelingen treffes av generalforsamlingen i samsvar med lov om borettslag og alminnelige vedtaksprinsipper.
 
@@ -2278,7 +2603,10 @@ Ved fordeling etter husleiebrøk fordeles alle inntekts- og formuespostene unnta
 
 ### § 7-3-14. Fordeling etter andelsbrøk og andelskonto
 
-(1) Følgende formues- og inntektsposter kontoføres:*Langsiktig fellesgjeld:* For hver enkelt boenhet føres en egen konto med boenhetens andel av langsiktig fellesgjeld. I nye boligselskaper settes inngående verdi på kontoen til boenhetens andel av fellesgjelden slik den er beregnet av selskapet. Kontoen korrigeres for senere nedbetalinger mv. fra andelshaver.*Renter av langsiktig fellesgjeld:* Rentene fordeles på samme måte som gjelden.
+(1) Følgende formues- og inntektsposter kontoføres:
+
+1. *Langsiktig fellesgjeld:* For hver enkelt boenhet føres en egen konto med boenhetens andel av langsiktig fellesgjeld. I nye boligselskaper settes inngående verdi på kontoen til boenhetens andel av fellesgjelden slik den er beregnet av selskapet. Kontoen korrigeres for senere nedbetalinger mv. fra andelshaver.
+2. *Renter av langsiktig fellesgjeld:* Rentene fordeles på samme måte som gjelden.
 
 (2) Øvrige inntekts- og formuesposter unntatt formuesverdien av andelshavers boenhet omfattet av [skatteloven § 4-10](lov/1999-03-26-14/§4-10) annet ledd, fordeles etter andelsbrøk. Andelsbrøk fastsettes etter det opprinnelige forholdet mellom den enkelte boenhetens innskudd med tillegg av andel fellesgjeld og samlet innskudd med tillegg av samlet fellesgjeld.
 
@@ -2286,7 +2614,10 @@ Ved fordeling etter husleiebrøk fordeles alle inntekts- og formuespostene unnta
 
 ### § 7-3-15. Endring av fordelingsmetode
 
-Ved overgang fra husleiebrøk til andelsbrøk og andelskonto gjelder:Poster som skal fordeles etter andelskonto: Inngående verdi på kontiene skal fastsettes i samsvar med husleiebrøken for siste inntektsår.Poster som skal fordeles ved andelsbrøk: I stedet for den fordeling som følger av [§ 7-3-14](forskrift/1999-11-19-1158/§7-3-14) annet ledd, kan generalforsamlingen vedta at fordeling skal skje i samsvar med husleiebrøken for siste inntektsår.
+Ved overgang fra husleiebrøk til andelsbrøk og andelskonto gjelder:
+
+1. Poster som skal fordeles etter andelskonto: Inngående verdi på kontiene skal fastsettes i samsvar med husleiebrøken for siste inntektsår.
+2. Poster som skal fordeles ved andelsbrøk: I stedet for den fordeling som følger av [§ 7-3-14](forskrift/1999-11-19-1158/§7-3-14) annet ledd, kan generalforsamlingen vedta at fordeling skal skje i samsvar med husleiebrøken for siste inntektsår.
 
 > Tilføyd ved [forskrift 16 okt 2000 nr. 1065](forskrift/2000-10-16-1065) (fom inntektsåret 2000). Endret ved [forskrift 17 des 2004 nr. 1709](forskrift/2004-12-17-1709) (fom inntektsåret 2005, tidligere § 7-12-15).
 
@@ -2328,7 +2659,11 @@ Inntekter som beskattes etter [skatteloven § 7-11 første ledd](lov/1999-03-26-
 
 (1) For medlemmer av Pelsdyrnæringens Markedsutjevningsfond regnes ut- og innbetalinger på medlemskonto i fondet gjennom skinnavregninger som tillegg til, henholdsvis fradrag i, skattyterens inntekt av pelsdyrnæringen på inn-/utbetalingstidspunktet, jf. [skatteloven § 8-1](lov/1999-03-26-14/§8-1) annet ledd. Eventuelle renter som godskrives på markedsutjevningskontoen følger bestemmelsen i første punktum.
 
-(2) Ved opphør av næring mv. gjelder følgende særregler:Eventuell gjenstående rest på konto skattlegges i sin helhet det tiende inntektsår etter at skattyteren har oppnådd full alderspensjon.Ved opphør av pelsdyrnæring og ellers ved utmelding av fondet før oppnådd pensjonsalder, jf. a, skal eventuell gjenstående rest på konto skattlegges i sin helhet det femte inntektsår etter opphøret/uttredenen.Ved dødsfall skal restbeløpet på konto skattlegges i dødsåret. Gjenlevende ektefelle som fortsetter pelsdyrnæringen, kan likevel fortsatt la midlene stå ubeskattet på konto, slik at gjenlevende skattlegges ved uttak etter vanlige regler.
+(2) Ved opphør av næring mv. gjelder følgende særregler:
+
+1. Eventuell gjenstående rest på konto skattlegges i sin helhet det tiende inntektsår etter at skattyteren har oppnådd full alderspensjon.
+2. Ved opphør av pelsdyrnæring og ellers ved utmelding av fondet før oppnådd pensjonsalder, jf. a, skal eventuell gjenstående rest på konto skattlegges i sin helhet det femte inntektsår etter opphøret/uttredenen.
+3. Ved dødsfall skal restbeløpet på konto skattlegges i dødsåret. Gjenlevende ektefelle som fortsetter pelsdyrnæringen, kan likevel fortsatt la midlene stå ubeskattet på konto, slik at gjenlevende skattlegges ved uttak etter vanlige regler.
 
 (3) Skattytere som har innestående midler på markedsutjevningskonto, eller har gjeld til fondet, skal alltid levere utfylt pelsdyrskjema.
 
@@ -2344,7 +2679,22 @@ Bestemmelsene i [§ 8-1](forskrift/1999-11-19-1158/§8-1) del B gjelder beregnin
 
 ### § 8-1-11. Definisjoner
 
-I [skatteloven § 8-1](lov/1999-03-26-14/§8-1) femte ledd betyr:*Jord- og hagebruk*: Virksomhet som ved bruk av jorda og/eller gjennom husdyrhold produserer mat eller fôr. Som jord- og hagebruk regnes også:gartneridriftdyrking av blomster og andre plantevekster på friland eller under glass, plast og lignende, samt tiltrekking av planterpelsdyrnæringavl, oppdrett (til to års alder) og oppstalling av hest, når dette skjer ved utnyttelse av gårdens produksjonsmidler og hovedsaklig egenprodusert fôrbiholdfølgende aktiviteter dersom de drives i tilknytning til virksomheten:utnyttelse av jakt- og fiskerettigheteruttak av jord, sand, stein og torvsanking av bær, kongler, mose, tang, tare og lignendeutføring av tjenester for andre med betydelige driftsmidler som minst 60 prosent nyttes i egen jord- eller skogbruksvirksomhet eller utleie av slike driftsmidler, forutsatt at virksomheten ikke utøves som selvstendig næring. For utleid bygning er det ikke krav om bruk i egen jord- eller skogbruksvirksomhet.*Biinntekter*: Omsetning i annen næringsvirksomhet dersom denne omsetningen ikke overstiger 30 000 kroner.
+I [skatteloven § 8-1](lov/1999-03-26-14/§8-1) femte ledd betyr:
+
+1. *Jord- og hagebruk*: Virksomhet som ved bruk av jorda og/eller gjennom husdyrhold produserer mat eller fôr. Som jord- og hagebruk regnes også:
+
+   1. gartneridrift
+   2. dyrking av blomster og andre plantevekster på friland eller under glass, plast og lignende, samt tiltrekking av planter
+   3. pelsdyrnæring
+   4. avl, oppdrett (til to års alder) og oppstalling av hest, når dette skjer ved utnyttelse av gårdens produksjonsmidler og hovedsaklig egenprodusert fôr
+   5. bihold
+   6. følgende aktiviteter dersom de drives i tilknytning til virksomheten:
+
+      - utnyttelse av jakt- og fiskerettigheter
+      - uttak av jord, sand, stein og torv
+      - sanking av bær, kongler, mose, tang, tare og lignende
+      - utføring av tjenester for andre med betydelige driftsmidler som minst 60 prosent nyttes i egen jord- eller skogbruksvirksomhet eller utleie av slike driftsmidler, forutsatt at virksomheten ikke utøves som selvstendig næring. For utleid bygning er det ikke krav om bruk i egen jord- eller skogbruksvirksomhet.
+2. *Biinntekter*: Omsetning i annen næringsvirksomhet dersom denne omsetningen ikke overstiger 30 000 kroner.
 
 > Tilføyd ved [forskrift 15 des 2004 nr. 1727](forskrift/2004-12-15-1727) (fom inntektsåret 2004). Endret ved [forskrift 25 sep 2012 nr. 908](forskrift/2012-09-25-908) (fom inntektsåret 2012).
 
@@ -2364,17 +2714,33 @@ Velges brutto inntekter fra produksjon av biomasse til energiformål ført som j
 
 ### § 8-2-1. Skattefordel ved bruk av skogfond til bestemte formål
 
-(1) *Generelt*Skattefordel ved bruk av skogfond etter [skatteloven § 8-2](lov/1999-03-26-14/§8-2) annet ledd bokstav a, gjelder for det samlede beløp som en skattyter får utbetalt fra skogfondet i løpet av kalenderåret til skogkultur, bygging og opprusting av skogsveier, sommervedlikehold av skogsbilvei, miljøtiltak, skogbruksplanlegging med miljøregistrering, forsikring mot stormskader og brann på skog, kompetansehevende tiltak, oppmerking av eiendomsgrenser og nødvendige håndtlangerutgifter i forbindelse med jordskifte av skog, samt investeringer i bioenergitiltak i tilknytning til bruket og som bidrar til varmeleveranser basert på eget råstoff eller lokale skogressurser.For en skattyter som har skogeiendom i flere kommuner, skal den reduserte inntekten fordeles på hver enkelt kommune i forhold til skogfond brukt med skattefordel i vedkommende kommune. For skogeier som etter avtale med skattemyndighetene fører felles regnskap for sine skoger, skal imidlertid den beregnede skattefrie delen av skogfondet fratrekkes i sin helhet før driftsresultatet fordeles etter avtalen.De investeringene som foretas, skal være faglig og økonomisk forsvarlige, og investeringene må ikke være i strid med skogbrukslovens formål og bestemmelser, eller forskrifter gitt i medhold av [lov 27. mai 2005 nr. 31](lov/2005-05-27-31) om skogbruk.Kostnader som ikke kan dokumenteres f.eks. eget arbeid og bruk av eget driftsapparat, forutsettes kontrollert av kommunen slik at skattefordel ved bruk av skogfond bare gis for kostnader som ikke overstiger det som anses normalt ved en rasjonell arbeidsordning, og som er i tråd med ordinært kostnadsnivå for innkjøp og entreprenørarbeid på vedkommende område.
+(1) *Generelt*
 
-(2) *Anvendelse av skogfond med skattefordel til etablering og pleie av skog (skogkultur)*Skattefordel gis ved bruk av skogfond til alle nødvendige tiltak i forbindelse med etablering og pleie av skog, herunder tynning, inntil det kan hogges virke som gir positiv rotnetto, samt til gjødsling av skog uansett skogens alder. Kostnadene reduseres med inntekter av tynning.
+1. Skattefordel ved bruk av skogfond etter [skatteloven § 8-2](lov/1999-03-26-14/§8-2) annet ledd bokstav a, gjelder for det samlede beløp som en skattyter får utbetalt fra skogfondet i løpet av kalenderåret til skogkultur, bygging og opprusting av skogsveier, sommervedlikehold av skogsbilvei, miljøtiltak, skogbruksplanlegging med miljøregistrering, forsikring mot stormskader og brann på skog, kompetansehevende tiltak, oppmerking av eiendomsgrenser og nødvendige håndtlangerutgifter i forbindelse med jordskifte av skog, samt investeringer i bioenergitiltak i tilknytning til bruket og som bidrar til varmeleveranser basert på eget råstoff eller lokale skogressurser.
+2. For en skattyter som har skogeiendom i flere kommuner, skal den reduserte inntekten fordeles på hver enkelt kommune i forhold til skogfond brukt med skattefordel i vedkommende kommune. For skogeier som etter avtale med skattemyndighetene fører felles regnskap for sine skoger, skal imidlertid den beregnede skattefrie delen av skogfondet fratrekkes i sin helhet før driftsresultatet fordeles etter avtalen.
+3. De investeringene som foretas, skal være faglig og økonomisk forsvarlige, og investeringene må ikke være i strid med skogbrukslovens formål og bestemmelser, eller forskrifter gitt i medhold av [lov 27. mai 2005 nr. 31](lov/2005-05-27-31) om skogbruk.
+4. Kostnader som ikke kan dokumenteres f.eks. eget arbeid og bruk av eget driftsapparat, forutsettes kontrollert av kommunen slik at skattefordel ved bruk av skogfond bare gis for kostnader som ikke overstiger det som anses normalt ved en rasjonell arbeidsordning, og som er i tråd med ordinært kostnadsnivå for innkjøp og entreprenørarbeid på vedkommende område.
 
-(3) *Anvendelse av skogfond med skattefordel til skogsveier m.m.*Det gis skattefordel ved bruk av skogfond til bygging, ombygging og annen opprusting av skogsveier, både bilvei og traktorvei, når veien er i samsvar med de normaler som til enhver tid er fastsatt for skogsvei.Bruk av skogfond til sommervedlikehold av skogsbilveier, gir skattefordel, men ikke vintervedlikehold av skogsbilvei (snøbrøyting, strøing mv.) og vedlikehold av traktorvei. Bruk til løpende, hyppig sommervedlikehold av skogsbilvei, som høvling, skraping, slådding, salting, vegetasjonsfjerning og -sprøyting mv., gir bare skattefordel for årlige kostnader inntil 4 kroner per meter behandlet vei. Bruk til vedlikeholdsgrusing, grøfterensk og annen grøfteopparbeiding, samt til utskiftning av stikkrenner og andre tekniske deler av veien, gir bare skattefordel for tiltak i henhold til vedlikeholdsprogram med kostnadsoverslag som er forhåndsgodkjent av skogmyndigheten. Begrensningene i de to foregående punktum gjelder ikke ved utbedring av betydelig veiskade ved flom, ras eller annen uforutsett hendelse.
+(2) *Anvendelse av skogfond med skattefordel til etablering og pleie av skog (skogkultur)*
 
-(4) *Anvendelse av skogfond med skattefordel til miljøtiltak*Skattefordel gis ved bruk av skogfond til skogbrukstiltak som tar konkrete miljøhensyn knyttet til biologisk mangfold, landskapsverdier, kulturminner og friluftsområder, i områder der det blir drevet skogbruk.
+Skattefordel gis ved bruk av skogfond til alle nødvendige tiltak i forbindelse med etablering og pleie av skog, herunder tynning, inntil det kan hogges virke som gir positiv rotnetto, samt til gjødsling av skog uansett skogens alder. Kostnadene reduseres med inntekter av tynning.
 
-(5) *Bruk av skogfond med skattefordel til investeringer i bioenergitiltak, som bidrar til varmeleveranser*Skattefordel ved bruk av skogfond til investeringer i bioenergitiltak gis for investeringer i anlegg og utstyr, men ikke løpende utgifter, som nyttes i produksjon av ferdig varme for levering. Investeringene og produksjonen må skje i tilknytning til bruket. Produksjonen må være basert på brukets eget råstoff eller lokale skogressurser, og minst 75 prosent av produksjonskapasiteten må være egnet til leveranser, dvs. som ferdig varme levert til andre. Produksjon av ved og annet brensel basert på trevirke for levering, regnes ikke som produksjon av varme.
+(3) *Anvendelse av skogfond med skattefordel til skogsveier m.m.*
 
-(6) *Forhåndsgodkjenning*Bruk av skogfond med skattefordel forutsetter at anvendelsen er forhåndsgodkjent av skogbruksmyndigheten i den grad dette er et krav i henhold til bestemmelser om bruk av skogfond gitt i medhold av skogbruksloven.
+1. Det gis skattefordel ved bruk av skogfond til bygging, ombygging og annen opprusting av skogsveier, både bilvei og traktorvei, når veien er i samsvar med de normaler som til enhver tid er fastsatt for skogsvei.
+2. Bruk av skogfond til sommervedlikehold av skogsbilveier, gir skattefordel, men ikke vintervedlikehold av skogsbilvei (snøbrøyting, strøing mv.) og vedlikehold av traktorvei. Bruk til løpende, hyppig sommervedlikehold av skogsbilvei, som høvling, skraping, slådding, salting, vegetasjonsfjerning og -sprøyting mv., gir bare skattefordel for årlige kostnader inntil 4 kroner per meter behandlet vei. Bruk til vedlikeholdsgrusing, grøfterensk og annen grøfteopparbeiding, samt til utskiftning av stikkrenner og andre tekniske deler av veien, gir bare skattefordel for tiltak i henhold til vedlikeholdsprogram med kostnadsoverslag som er forhåndsgodkjent av skogmyndigheten. Begrensningene i de to foregående punktum gjelder ikke ved utbedring av betydelig veiskade ved flom, ras eller annen uforutsett hendelse.
+
+(4) *Anvendelse av skogfond med skattefordel til miljøtiltak*
+
+Skattefordel gis ved bruk av skogfond til skogbrukstiltak som tar konkrete miljøhensyn knyttet til biologisk mangfold, landskapsverdier, kulturminner og friluftsområder, i områder der det blir drevet skogbruk.
+
+(5) *Bruk av skogfond med skattefordel til investeringer i bioenergitiltak, som bidrar til varmeleveranser*
+
+Skattefordel ved bruk av skogfond til investeringer i bioenergitiltak gis for investeringer i anlegg og utstyr, men ikke løpende utgifter, som nyttes i produksjon av ferdig varme for levering. Investeringene og produksjonen må skje i tilknytning til bruket. Produksjonen må være basert på brukets eget råstoff eller lokale skogressurser, og minst 75 prosent av produksjonskapasiteten må være egnet til leveranser, dvs. som ferdig varme levert til andre. Produksjon av ved og annet brensel basert på trevirke for levering, regnes ikke som produksjon av varme.
+
+(6) *Forhåndsgodkjenning*
+
+Bruk av skogfond med skattefordel forutsetter at anvendelsen er forhåndsgodkjent av skogbruksmyndigheten i den grad dette er et krav i henhold til bestemmelser om bruk av skogfond gitt i medhold av skogbruksloven.
 
 > Endret ved [forskrifter 24 okt 2003 nr. 1258](forskrift/2003-10-24-1258) (fom inntektsåret 2003), [10 jan 2007 nr. 18](forskrift/2007-01-10-18) (fom inntektsåret 2007), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -2384,7 +2750,11 @@ Denne paragrafen gjelder for selskap med deltakerfastsetting med aktivitet som i
 
 For slike selskap gjelder reglene i [§ 10-44-2](forskrift/1999-11-19-1158/§10-44-2) a til c i denne forskrift tilsvarende.
 
-Selskap som nevnt i første ledd kan oppløses uten realisasjonsbeskatning etter [skatteloven § 5-1](lov/1999-03-26-14/§5-1) jf. [§ 9-2](lov/1999-03-26-14/§9-2) dersom følgende vilkår er oppfylt:Selskapet driver ikke annen skattepliktig virksomhet.Skogeiendommen og andre eiendeler, rettigheter og plikter knyttet til skogeiendommen overtas i sameie av de tidligere selskapsdeltakerne i samme forhold som de eide andeler i selskapet.Selskapets skatteposisjoner knyttet til skogsdriften, herunder skattemessige inngangsverdier og ervervstidspunkt for overførte eiendeler, ikke skattlagte inntekter og pådratte, ikke fradragsførte kostnader, videreføres hos sameierne i samme forhold som de eide andeler i selskapet. Sameierens inngangsverdi på skogen justeres for eventuell differanse mellom vederlaget for andelen og deltakerens andel av selskapets skattemessige verdier på ervervstidspunktet (over- eller underpris).
+Selskap som nevnt i første ledd kan oppløses uten realisasjonsbeskatning etter [skatteloven § 5-1](lov/1999-03-26-14/§5-1) jf. [§ 9-2](lov/1999-03-26-14/§9-2) dersom følgende vilkår er oppfylt:
+
+1. Selskapet driver ikke annen skattepliktig virksomhet.
+2. Skogeiendommen og andre eiendeler, rettigheter og plikter knyttet til skogeiendommen overtas i sameie av de tidligere selskapsdeltakerne i samme forhold som de eide andeler i selskapet.
+3. Selskapets skatteposisjoner knyttet til skogsdriften, herunder skattemessige inngangsverdier og ervervstidspunkt for overførte eiendeler, ikke skattlagte inntekter og pådratte, ikke fradragsførte kostnader, videreføres hos sameierne i samme forhold som de eide andeler i selskapet. Sameierens inngangsverdi på skogen justeres for eventuell differanse mellom vederlaget for andelen og deltakerens andel av selskapets skattemessige verdier på ervervstidspunktet (over- eller underpris).
 
 > Tilføyd ved [forskrift 7 april 2017 nr. 456](forskrift/2017-04-07-456) (med virkning fra og med inntektsåret 2016. Selskap som nevnt i første ledd og som kan ha inntektsåret 2019 som siste år med gjennomsnittsfastsetting etter [lov 19. desember 2014 nr. 80](lov/2014-12-19-80), kan velge at selskapet ikke skal anses skattemessig oppløst før senest i 2020).
 
@@ -2398,7 +2768,12 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 ### § 8-5-2. Fradragsgrunnlag og fradragsberegning
 
-(1) I grunnlaget for beregning av fradrag etter [§ 8-5-1](forskrift/1999-11-19-1158/§8-5-1) inngår følgende inntekter som tilflyter livsforsikringsselskap og pensjonsforetak:Andel av overskudd etter [forsikringsvirksomhetsloven § 3-16](lov/2005-06-10-44/§3-16) tredje ledd,Andel av overskudd etter [forskrift 30. juni 2006 nr. 869](forskrift/2006-06-30-869) til forsikringsvirksomhetsloven (livsforsikring mv.) § 7-1,Andel av overskudd etter [forskrift 30. juni 2006 nr. 869](forskrift/2006-06-30-869) til forsikringsvirksomhetsloven (livsforsikring mv.) § 4-1,Nettoinntekt ved samlet kapitalforvaltning etter [forsikringsvirksomhetsloven § 3-11](lov/2005-06-10-44/§3-11) niende ledd.
+(1) I grunnlaget for beregning av fradrag etter [§ 8-5-1](forskrift/1999-11-19-1158/§8-5-1) inngår følgende inntekter som tilflyter livsforsikringsselskap og pensjonsforetak:
+
+1. Andel av overskudd etter [forsikringsvirksomhetsloven § 3-16](lov/2005-06-10-44/§3-16) tredje ledd,
+2. Andel av overskudd etter [forskrift 30. juni 2006 nr. 869](forskrift/2006-06-30-869) til forsikringsvirksomhetsloven (livsforsikring mv.) § 7-1,
+3. Andel av overskudd etter [forskrift 30. juni 2006 nr. 869](forskrift/2006-06-30-869) til forsikringsvirksomhetsloven (livsforsikring mv.) § 4-1,
+4. Nettoinntekt ved samlet kapitalforvaltning etter [forsikringsvirksomhetsloven § 3-11](lov/2005-06-10-44/§3-11) niende ledd.
 
 (2) Fradraget utgjør grunnlaget etter første ledd multiplisert med en faktor. Faktoren settes til den del av inntekten etter [skatteloven § 8-5](lov/1999-03-26-14/§8-5) fjerde ledd som er benevnt som skattefri etter [skatteloven § 2-38](lov/1999-03-26-14/§2-38) andre til fjerde ledd.
 
@@ -2416,7 +2791,16 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 ### § 8-11-1. Skip i fart
 
-(1) Som skip i fart etter [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a regnes ikke:skip under 100 brutto registertonn,skip uten eget fremdriftsmaskineri, med mindre skipet drives i tilknytning med skip i fart med eget driftsmaskineri,skip som vesentlig går i fart på norske innsjøer og elver,skip i stasjonær virksomhet og havnetrafikk, eller annen virksomhet over begrenset fartsområde hvor utseilt distanse ikke overstiger 30 nautiske mil, likevel slik at taubåt anses som skip i fart når fartøyet driver virksomhet som nevnt i mindre enn halvparten av inntektsåret. Ventedager skal fordeles forholdsmessig mellom virksomhet som nevnt og annen transportvirksomhet.losjiskip eller skip som brukes som arbeidsplattformer, misjonsskip, teaterskip o.l. i eller mellom norske havner,lystfartøy, representasjonsfartøy, skyssfartøy o.l.,fiske- og fangstfartøy i den tid fartøyet brukes til fiske og fangst,ferger eller passasjerfartøy i rutetrafikk mellom norske havner når rutens distanse mellom første og siste anløpssted er under 300 nautiske mil.
+(1) Som skip i fart etter [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a regnes ikke:
+
+1. skip under 100 brutto registertonn,
+2. skip uten eget fremdriftsmaskineri, med mindre skipet drives i tilknytning med skip i fart med eget driftsmaskineri,
+3. skip som vesentlig går i fart på norske innsjøer og elver,
+4. skip i stasjonær virksomhet og havnetrafikk, eller annen virksomhet over begrenset fartsområde hvor utseilt distanse ikke overstiger 30 nautiske mil, likevel slik at taubåt anses som skip i fart når fartøyet driver virksomhet som nevnt i mindre enn halvparten av inntektsåret. Ventedager skal fordeles forholdsmessig mellom virksomhet som nevnt og annen transportvirksomhet.
+5. losjiskip eller skip som brukes som arbeidsplattformer, misjonsskip, teaterskip o.l. i eller mellom norske havner,
+6. lystfartøy, representasjonsfartøy, skyssfartøy o.l.,
+7. fiske- og fangstfartøy i den tid fartøyet brukes til fiske og fangst,
+8. ferger eller passasjerfartøy i rutetrafikk mellom norske havner når rutens distanse mellom første og siste anløpssted er under 300 nautiske mil.
 
 (2) Skip i utenriksfart som har eget fremdriftsmaskineri anses som skip i fart, uavhengig av størrelse og utstrekningen på skipets fartsområde. Taubåt i utenriksfart anses som skip i fart bare dersom taubåten i mindre enn halvparten av inntektsåret benyttes til stasjonær virksomhet og havnetrafikk eller annen virksomhet der utseilt distanse ikke overstiger 30 nautiske mil. Ventedager skal fordeles forholdsmessig mellom virksomhet som nevnt og annen transportvirksomhet.
 
@@ -2454,7 +2838,11 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 (1) Ved fusjon etter bestemmelsene i [skatteloven kapittel 11](lov/1999-03-26-14/kap11) beregnes nytt flaggkrav for overtakende selskap som forholdet mellom de fusjonerte selskapenes samlede EØS-registrerte nettotonnasje eid på måletidspunktet, jf. § 8-11-2 tredje ledd og de fusjonerte selskapenes samlede nettotonnasje eid på måletidspunktet, jf. § 8-11-2 fjerde ledd.
 
-(2) Ved fisjon etter bestemmelsene i [skatteloven kapittel 11](lov/1999-03-26-14/kap11) beregnes ny andel EØS-registrert nettotonnasje for overdragende og overtakende selskap på følgende måte:For overdragende og overtakende selskap beregnes en ny verdi for EØS-registrert nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapene får en andel av det fisjonerte selskapets totale EØS-registrerte nettotonnasje på måletidspunktet som forholdsmessig tilsvarer den andelen det overdragende eller overtakende selskapet får av den totale EØS-registrerte nettotonnasjen ved fisjonen.For overdragende og overtakende selskap beregnes en ny verdi for nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av det fisjonerte selskapets totale nettotonnasje på måletidspunktet som forholdsmessig tilsvarer den andelen det overdragende eller overtagende selskapet får av den totale nettotonnasjen ved fisjonen.På bakgrunn av de beregnede nye verdiene for EØS-registrert nettotonnasje eid på måletidspunktet og nettotonnasje eid på måletidspunktet, fastsettes nytt flaggkrav for overtakende og overdragende selskap. Der fisjonen skjer ved overføring til et eksisterende selskap, beregnes nytt flaggkrav for det overtakende selskapet som ved fusjon, jf. første ledd.
+(2) Ved fisjon etter bestemmelsene i [skatteloven kapittel 11](lov/1999-03-26-14/kap11) beregnes ny andel EØS-registrert nettotonnasje for overdragende og overtakende selskap på følgende måte:
+
+1. For overdragende og overtakende selskap beregnes en ny verdi for EØS-registrert nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapene får en andel av det fisjonerte selskapets totale EØS-registrerte nettotonnasje på måletidspunktet som forholdsmessig tilsvarer den andelen det overdragende eller overtakende selskapet får av den totale EØS-registrerte nettotonnasjen ved fisjonen.
+2. For overdragende og overtakende selskap beregnes en ny verdi for nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av det fisjonerte selskapets totale nettotonnasje på måletidspunktet som forholdsmessig tilsvarer den andelen det overdragende eller overtagende selskapet får av den totale nettotonnasjen ved fisjonen.
+3. På bakgrunn av de beregnede nye verdiene for EØS-registrert nettotonnasje eid på måletidspunktet og nettotonnasje eid på måletidspunktet, fastsettes nytt flaggkrav for overtakende og overdragende selskap. Der fisjonen skjer ved overføring til et eksisterende selskap, beregnes nytt flaggkrav for det overtakende selskapet som ved fusjon, jf. første ledd.
 
 (3) I tilfeller hvor fusjonen eller fisjonen medfører endringer i en konsolidert selskapsgruppe, omregnes flaggkravet for den konsoliderte selskapsgruppen etter reglene i [§ 8-11-3](forskrift/1999-11-19-1158/§8-11-3) første ledd.
 
@@ -2464,7 +2852,11 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 (1) Ved oppkjøp, inntreden, nystiftelse mv. av selskap som fører til at ett eller flere selskaper blir tilknyttet en eksisterende konsolidert selskapsgruppe, skal det foretas en omregning av flaggkravet på grunnlag av flaggkravet for selskapene som inngår i den konsoliderte selskapsgruppen, jf. [§ 8-11-3](forskrift/1999-11-19-1158/§8-11-3) første ledd.
 
-(2) Ved salg, uttreden mv. av selskaper som fører til opphør av en konsolidert selskapsgruppe, eller til at et eller flere selskap ikke lenger skal inngå i en konsolidert selskapsgruppe, beregnes nytt flaggkrav for hvert av selskapene som har inngått i den konsoliderte selskapsgruppen på følgende måte:For hvert selskap beregnes en ny verdi for nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av den totale nettotonnasjen de selskap som inngikk i den konsoliderte selskapsgruppen eide på måletidspunktet, som forholdsmessig tilsvarer den andelen selskapet eier av den totale nettotonnasjen på tidspunktet for endring.For hvert selskap beregnes en ny verdi for EØS-registrert nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av den totale EØS-registrerte nettotonnasjen de selskap som inngikk i den konsoliderte selskapsgruppen eide på måletidspunktet, som forholdsmessig tilsvarer den andelen selskapet eier av den totale EØS-registrerte nettotonnasjen på tidspunktet for endring.For selskaper som etter endringen ikke lenger inngår i en konsolidert selskapsgruppe, beregnes nytt flaggkrav etter [§ 8-11-2](forskrift/1999-11-19-1158/§8-11-2) første ledd, basert på ny beregnet EØS-registrert nettotonnasje på måletidspunktet og ny beregnet nettotonnasje på måletidspunktet. For konsoliderte selskapsgrupper beregnes nytt konsolidert flaggkrav etter [§ 8-11-3](forskrift/1999-11-19-1158/§8-11-3) første ledd.
+(2) Ved salg, uttreden mv. av selskaper som fører til opphør av en konsolidert selskapsgruppe, eller til at et eller flere selskap ikke lenger skal inngå i en konsolidert selskapsgruppe, beregnes nytt flaggkrav for hvert av selskapene som har inngått i den konsoliderte selskapsgruppen på følgende måte:
+
+1. For hvert selskap beregnes en ny verdi for nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av den totale nettotonnasjen de selskap som inngikk i den konsoliderte selskapsgruppen eide på måletidspunktet, som forholdsmessig tilsvarer den andelen selskapet eier av den totale nettotonnasjen på tidspunktet for endring.
+2. For hvert selskap beregnes en ny verdi for EØS-registrert nettotonnasje eid på måletidspunktet. Verdien beregnes ved at selskapet får en andel av den totale EØS-registrerte nettotonnasjen de selskap som inngikk i den konsoliderte selskapsgruppen eide på måletidspunktet, som forholdsmessig tilsvarer den andelen selskapet eier av den totale EØS-registrerte nettotonnasjen på tidspunktet for endring.
+3. For selskaper som etter endringen ikke lenger inngår i en konsolidert selskapsgruppe, beregnes nytt flaggkrav etter [§ 8-11-2](forskrift/1999-11-19-1158/§8-11-2) første ledd, basert på ny beregnet EØS-registrert nettotonnasje på måletidspunktet og ny beregnet nettotonnasje på måletidspunktet. For konsoliderte selskapsgrupper beregnes nytt konsolidert flaggkrav etter [§ 8-11-3](forskrift/1999-11-19-1158/§8-11-3) første ledd.
 
 > Tilføyd ved [forskrift 30 okt 2008 nr. 1163](forskrift/2008-10-30-1163) (fom inntektsåret 2005, se endringsforskriften for overgangsregler).
 
@@ -2474,7 +2866,26 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 ### § 8-13-1. Strategisk og kommersiell ledelse og annen tilknyttet virksomhet
 
-(1) Selskap innenfor ordningen kan drive virksomhet i form avstrategisk og kommersiell ledelse samt daglig teknisk drift og vedlikehold av egne og innleide fartøyer, samt kvalifiserte fartøyer som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a eller b i konsernforbundet selskapstrategisk og kommersiell ledelse samt daglig teknisk drift og vedlikehold av fartøy i poolsamarbeid som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd d, dersom selskapet er deltaker i poolen, eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g er deltaker i poolenfølgende aktiviteter knyttet til gods som transporteres på et kvalifisert fartøy eid eller innleid av selskapet eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g, når aktiviteten utøves i nær tilknytning til godstransportvirksomheten:lasting og lossing av gods,midlertidig plassering av gods i eller i nærheten av havn i påvente av videre transport,transport av gods i havneområdet,utleie av containere for gods om bord,følgende aktiviteter knyttet til persontransport på et kvalifisert fartøy eid eller innleid av selskapet eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g, når aktiviteten utøves i nær tilknytning til persontransportvirksomheten:på- og avstigning av passasjerer,drift av billettkontorer og passasjerterminaler,transport av personer i havneområdet,salg av varer til forbruk om bord,salg av tjenester som står i en naturlig sammenheng med passasjertransporten,utleie av lokaler om bord,samlet transporttjeneste som består av sjøtransport med eid eller innleid kvalifisert fartøy som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a eller b samt land- og/eller flytransport, når det er inngått avtale med en tredjepart om land- og/eller flytransporten. I forbindelse med avtale om samlet transporttjeneste som nevnt i foregående punktum kan sjøtransport med eget eller innleid skip erstattes av annen type transport dersom transporten med eget eller innleid skip ikke kan gjennomføres på grunn av forhold som var upåregnelige på tidspunktet for inngåelsen av avtalen om samlet transporttjeneste. Selskapet kan ikke beregne seg fortjeneste på land- og/eller lufttransport.Aktivitet i forbindelse med rederiers plikter og ansvar etter [skipsarbeidsloven § 2-4](lov/2013-06-21-102/§2-4), herunder solidaransvar som nevnt i [skipsarbeidsloven § 2-4](lov/2013-06-21-102/§2-4) tredje ledd og omsorgsplikter som nevnt i [skipsarbeidsloven kapittel 8](lov/2013-06-21-102/kap8).
+(1) Selskap innenfor ordningen kan drive virksomhet i form av
+
+1. strategisk og kommersiell ledelse samt daglig teknisk drift og vedlikehold av egne og innleide fartøyer, samt kvalifiserte fartøyer som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a eller b i konsernforbundet selskap
+2. strategisk og kommersiell ledelse samt daglig teknisk drift og vedlikehold av fartøy i poolsamarbeid som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd d, dersom selskapet er deltaker i poolen, eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g er deltaker i poolen
+3. følgende aktiviteter knyttet til gods som transporteres på et kvalifisert fartøy eid eller innleid av selskapet eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g, når aktiviteten utøves i nær tilknytning til godstransportvirksomheten:
+
+   1. lasting og lossing av gods,
+   2. midlertidig plassering av gods i eller i nærheten av havn i påvente av videre transport,
+   3. transport av gods i havneområdet,
+   4. utleie av containere for gods om bord,
+4. følgende aktiviteter knyttet til persontransport på et kvalifisert fartøy eid eller innleid av selskapet eller konsernforbundet selskap som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd e til g, når aktiviteten utøves i nær tilknytning til persontransportvirksomheten:
+
+   1. på- og avstigning av passasjerer,
+   2. drift av billettkontorer og passasjerterminaler,
+   3. transport av personer i havneområdet,
+   4. salg av varer til forbruk om bord,
+   5. salg av tjenester som står i en naturlig sammenheng med passasjertransporten,
+   6. utleie av lokaler om bord,
+5. samlet transporttjeneste som består av sjøtransport med eid eller innleid kvalifisert fartøy som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd a eller b samt land- og/eller flytransport, når det er inngått avtale med en tredjepart om land- og/eller flytransporten. I forbindelse med avtale om samlet transporttjeneste som nevnt i foregående punktum kan sjøtransport med eget eller innleid skip erstattes av annen type transport dersom transporten med eget eller innleid skip ikke kan gjennomføres på grunn av forhold som var upåregnelige på tidspunktet for inngåelsen av avtalen om samlet transporttjeneste. Selskapet kan ikke beregne seg fortjeneste på land- og/eller lufttransport.
+6. Aktivitet i forbindelse med rederiers plikter og ansvar etter [skipsarbeidsloven § 2-4](lov/2013-06-21-102/§2-4), herunder solidaransvar som nevnt i [skipsarbeidsloven § 2-4](lov/2013-06-21-102/§2-4) tredje ledd og omsorgsplikter som nevnt i [skipsarbeidsloven kapittel 8](lov/2013-06-21-102/kap8).
 
 (2) Med konsernforbundet selskap menes i denne paragraf selskap som etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3) tilhører samme konsern.
 
@@ -2482,7 +2893,15 @@ Livsforsikringsselskap og pensjonsforetak gis fradrag i inntekt som nevnt i [ska
 
 ### § 8-13-2. Anvendelsesområde for begrensningene i utleie på bareboat-vilkår av hjelpefartøyer i petroleumsvirksomhet mv.
 
-Begrensningsregelen i [skatteloven § 8-13](lov/1999-03-26-14/§8-13) niende ledd gjelder for:hjelpefartøyer i petroleumsvirksomhet, jf. [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,skytteltankskip (shuttle tankers) som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,brønnbåter for frakt av fisk,kabelleggingsfartøyer som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b eller i,taubåter som ikke brukes i tradisjonelle fraktoppdrag og som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,seismikkfartøyer som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b ogvindmøllefartøyer, jf. [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav i.
+Begrensningsregelen i [skatteloven § 8-13](lov/1999-03-26-14/§8-13) niende ledd gjelder for:
+
+1. hjelpefartøyer i petroleumsvirksomhet, jf. [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,
+2. skytteltankskip (shuttle tankers) som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,
+3. brønnbåter for frakt av fisk,
+4. kabelleggingsfartøyer som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b eller i,
+5. taubåter som ikke brukes i tradisjonelle fraktoppdrag og som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b,
+6. seismikkfartøyer som ikke er omfattet av [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav b og
+7. vindmøllefartøyer, jf. [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd bokstav i.
 
 > Tilføyd ved [forskrift 14 des 2018 nr. 2011](forskrift/2018-12-14-2011) (med virkning fra og med inntektsåret 2018).
 
@@ -2633,13 +3052,27 @@ Bestemmelsene i [§ 8-20-1](forskrift/1999-11-19-1158/§8-20-1) til [§ 8-20-7](
 
 (1) Med miljøtiltak menes ethvert tiltak som fører til reduksjon av forurensning. Som forurensning regnes miljøpåvirkning som omfattes av [forurensningsloven § 6](lov/1981-03-13-6/§6) og [§ 27](lov/1981-03-13-6/§27). Som forurensning regnes også tilførsel av fremmede organismer til vann.
 
-(2) Følgende tiltak skal ikke anses som miljøtiltak:Ulykkesforebyggende tiltak av den art som er regulert i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs av 1.](traktat/1974-11-01-1) november 1974 nr. 1 med endringer ([SOLAS 74).](traktat/1974-11-01-1)Del av tiltak som oppfyller miljøkrav som følger av gjeldende miljøregelverk som er vedtatt av FNs sjøfartsorganisasjon (IMO) og som har trådt i kraft, eller strengere krav for fartøy som følge av registrering i norsk eller utenlandsk skipsregister som har virkning for virksomheten.Tiltak som gjennomføres mindre enn 12 måneder før tiltaket er påkrevd etter miljøregelverket. Dette gjelder likevel ikke for tiltak som etter sin art ikke har virkning i mer enn 12 måneder.
+(2) Følgende tiltak skal ikke anses som miljøtiltak:
+
+1. Ulykkesforebyggende tiltak av den art som er regulert i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs av 1.](traktat/1974-11-01-1) november 1974 nr. 1 med endringer ([SOLAS 74).](traktat/1974-11-01-1)
+2. Del av tiltak som oppfyller miljøkrav som følger av gjeldende miljøregelverk som er vedtatt av FNs sjøfartsorganisasjon (IMO) og som har trådt i kraft, eller strengere krav for fartøy som følge av registrering i norsk eller utenlandsk skipsregister som har virkning for virksomheten.
+3. Tiltak som gjennomføres mindre enn 12 måneder før tiltaket er påkrevd etter miljøregelverket. Dette gjelder likevel ikke for tiltak som etter sin art ikke har virkning i mer enn 12 måneder.
 
 (3) Som miljøtiltak regnes bare tiltak som antas å ha en miljøgevinst med en dokumenterbar miljøvirkning i minst 12 måneder, dersom tiltaket etter sin art er egnet til å gi en slik varig effekt.
 
-(4) Investering i følgende anses som miljøtiltak:Gassmotor, brenselcellemotor og hybridmotor.Motortekniske ombygninger.Vannemulsjon.SCR-katalysator.Anlegg for håndtering av ballastvann.
+(4) Investering i følgende anses som miljøtiltak:
 
-(5) Følgende løpende tiltak anses som miljøtiltak:Kjøp av urea eller ammoniakk til bruk i SCR-katalysator.Kjøp av varer eller tjenester som reduserer bruken av biocidholdige bunnstoff.Kjøp av drivstoff med lavt svovelinnhold. Med lavt svovelinnhold menes 0,5 pst. eller mindre for skip med fartsområde helt eller delvis i Nord- eller Østersjøen, slik disse områdene er definert i [forskrift 16. juni 1983 nr. 1122](forskrift/1983-06-16-1122) om hindring av forurensning fra skip § 7-10 første ledd a og b, og for andre skip 1,5 pst. eller mindre.
+1. Gassmotor, brenselcellemotor og hybridmotor.
+2. Motortekniske ombygninger.
+3. Vannemulsjon.
+4. SCR-katalysator.
+5. Anlegg for håndtering av ballastvann.
+
+(5) Følgende løpende tiltak anses som miljøtiltak:
+
+1. Kjøp av urea eller ammoniakk til bruk i SCR-katalysator.
+2. Kjøp av varer eller tjenester som reduserer bruken av biocidholdige bunnstoff.
+3. Kjøp av drivstoff med lavt svovelinnhold. Med lavt svovelinnhold menes 0,5 pst. eller mindre for skip med fartsområde helt eller delvis i Nord- eller Østersjøen, slik disse områdene er definert i [forskrift 16. juni 1983 nr. 1122](forskrift/1983-06-16-1122) om hindring av forurensning fra skip § 7-10 første ledd a og b, og for andre skip 1,5 pst. eller mindre.
 
 (6) Opphugging av skip kan anses som miljøtiltak for så vidt opphuggingen gjennomføres i henhold til kravene i det til enhver tid gjeldende utkast til konvensjon om skipsopphugging, og til konvensjonen når denne blir fastsatt av FNs sjøfartsorganisasjon (IMO).
 
@@ -2653,7 +3086,10 @@ Bestemmelsene i [§ 8-20-1](forskrift/1999-11-19-1158/§8-20-1) til [§ 8-20-7](
 
 (2) Med forsknings- og utviklingsprosjekt forstås et avgrenset og målrettet prosjekt med sikte på å fremskaffe ny kunnskap, informasjon eller erfaring, herunder utvikling av produkter og utstyr, som antas å være til nytte i forbindelse med utvikling og iverksettelse av miljøtiltak som nevnt i [§ 8-20-3](forskrift/1999-11-19-1158/§8-20-3).
 
-(3) Alminnelig bedriftsorientert produkt- og tjenesteutvikling uten forskningspreg omfattes ikke, herunder prosjekter som:har karakter av løpende drift, ellerhovedsakelig omfatter organisasjonsutvikling, opplæring eller kvalitetssikring.
+(3) Alminnelig bedriftsorientert produkt- og tjenesteutvikling uten forskningspreg omfattes ikke, herunder prosjekter som:
+
+1. har karakter av løpende drift, eller
+2. hovedsakelig omfatter organisasjonsutvikling, opplæring eller kvalitetssikring.
 
 > Tilføyd ved [forskrift 14 mars 2008 nr. 299](forskrift/2008-03-14-299) (fom inntektsåret 2007).
 
@@ -2675,7 +3111,12 @@ Bestemmelsene i [§ 8-20-1](forskrift/1999-11-19-1158/§8-20-1) til [§ 8-20-7](
 
 ### § 8-20-6. Dokumentasjon
 
-(1) Skattyter skal i vedlegg til skattemeldingen fremlegge dokumentasjon vedrørende:Restsaldo på fond for miljøtiltak mv. per 31. desember i inntektsåret.Tiltak med miljøgevinst som er foretatt i inntektsåret.Tiltakenes miljøgevinst, herunder at disse har en miljøvirkning i minst 12 måneder.Kostnadene knyttet til miljøgevinsten.
+(1) Skattyter skal i vedlegg til skattemeldingen fremlegge dokumentasjon vedrørende:
+
+1. Restsaldo på fond for miljøtiltak mv. per 31. desember i inntektsåret.
+2. Tiltak med miljøgevinst som er foretatt i inntektsåret.
+3. Tiltakenes miljøgevinst, herunder at disse har en miljøvirkning i minst 12 måneder.
+4. Kostnadene knyttet til miljøgevinsten.
 
 (2) Som dokumentasjon regnes blant annet utførte utslippsmålinger, produktbeskrivelser og dokumentasjon fra leverandør.
 
@@ -2703,7 +3144,12 @@ Bestemmelsene i [§ 8-20-1](forskrift/1999-11-19-1158/§8-20-1) til [§ 8-20-7](
 
 ### § 8-20-10. Justering av regnskapsmessige verdier
 
-Ved fastsettelse av regnskapsmessige verdier etter første ledd annet punktum og åttende ledd første punktum i overgangsregler til endringer i [skatteloven § 8-14](lov/1999-03-26-14/§8-14), § 8-15 og § 8-17, jf. [lov 14. desember 2007 nr. 107](lov/2007-12-14-107) om endringer i [lov 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt av formue og inntekt (skatteloven) del X, skal det foretas følgende justeringer:Selskap som utarbeider selskapsregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) tredje eller fjerde ledd skal, for så vidt gjelder driftsmidler og andeler i selskaper som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) og [§ 10-60](lov/1999-03-26-14/§10-60), korrigere for differanse mellom bokført verdi og den verdi eiendelen ville vært bokført til dersom eiendelen hadde vært vurdert etter norske regnskapsregler, med eventuelle justeringer etter bokstav b.Dersom andel i selskap som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) eller [§ 10-60](lov/1999-03-26-14/§10-60) er vurdert etter kostmetoden, skal regnskapsmessig verdi erstattes av andel av det underliggende selskapets regnskapsmessige egenkapital på tidspunktet for inntreden, med eventuelle justeringer etter bokstav c. Verdien kan likevel ikke settes lavere enn deltakerens bokførte verdi av andelen eller aksjene.Ved verdsettelse av andel i selskap som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) og [§ 10-60](lov/1999-03-26-14/§10-60) skal verdien korrigeres for andel av urealisert valutagevinst eller -tap som ikke er inntektsført eller fradragsført i det underliggende selskap. Korrigering skal bare foretas for andel av urealisert valutagevinst eller -tap som er oppstått i deltakerens eiertid. For aksjer i selskaper som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd d og g som ville vært fritatt fra beskatning ved realisasjon etter [skatteloven § 2-38](lov/1999-03-26-14/§2-38) og øvrige finansielle eiendeler, skal regnskapsmessig verdi erstattes med kostpris. Justering etter denne bokstav skal foretas uavhengig av hvilken regnskapsmetode andelen er bokført etter.I tilfeller der det er inngått en leasingavtale, og leaser anses som eier regnskapsmessig, men som leier skattemessig, skal det ved fastsettelse av regnskapsmessig verdi for den eiendel leasingavtalen angår, gjøres fradrag for regnskapsmessig verdi av gjeld knyttet til leasingavtalen. Det samme gjelder i tilfeller der det er inngått en leasingavtale, og leiebeløpene balanseføres til nåverdi regnskapsmessig, men til nominell verdi skattemessig.
+Ved fastsettelse av regnskapsmessige verdier etter første ledd annet punktum og åttende ledd første punktum i overgangsregler til endringer i [skatteloven § 8-14](lov/1999-03-26-14/§8-14), § 8-15 og § 8-17, jf. [lov 14. desember 2007 nr. 107](lov/2007-12-14-107) om endringer i [lov 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt av formue og inntekt (skatteloven) del X, skal det foretas følgende justeringer:
+
+1. Selskap som utarbeider selskapsregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) tredje eller fjerde ledd skal, for så vidt gjelder driftsmidler og andeler i selskaper som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) og [§ 10-60](lov/1999-03-26-14/§10-60), korrigere for differanse mellom bokført verdi og den verdi eiendelen ville vært bokført til dersom eiendelen hadde vært vurdert etter norske regnskapsregler, med eventuelle justeringer etter bokstav b.
+2. Dersom andel i selskap som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) eller [§ 10-60](lov/1999-03-26-14/§10-60) er vurdert etter kostmetoden, skal regnskapsmessig verdi erstattes av andel av det underliggende selskapets regnskapsmessige egenkapital på tidspunktet for inntreden, med eventuelle justeringer etter bokstav c. Verdien kan likevel ikke settes lavere enn deltakerens bokførte verdi av andelen eller aksjene.
+3. Ved verdsettelse av andel i selskap som nevnt i [skatteloven § 10-40](lov/1999-03-26-14/§10-40) og [§ 10-60](lov/1999-03-26-14/§10-60) skal verdien korrigeres for andel av urealisert valutagevinst eller -tap som ikke er inntektsført eller fradragsført i det underliggende selskap. Korrigering skal bare foretas for andel av urealisert valutagevinst eller -tap som er oppstått i deltakerens eiertid. For aksjer i selskaper som nevnt i [skatteloven § 8-11](lov/1999-03-26-14/§8-11) første ledd d og g som ville vært fritatt fra beskatning ved realisasjon etter [skatteloven § 2-38](lov/1999-03-26-14/§2-38) og øvrige finansielle eiendeler, skal regnskapsmessig verdi erstattes med kostpris. Justering etter denne bokstav skal foretas uavhengig av hvilken regnskapsmetode andelen er bokført etter.
+4. I tilfeller der det er inngått en leasingavtale, og leaser anses som eier regnskapsmessig, men som leier skattemessig, skal det ved fastsettelse av regnskapsmessig verdi for den eiendel leasingavtalen angår, gjøres fradrag for regnskapsmessig verdi av gjeld knyttet til leasingavtalen. Det samme gjelder i tilfeller der det er inngått en leasingavtale, og leiebeløpene balanseføres til nåverdi regnskapsmessig, men til nominell verdi skattemessig.
 
 > Tilføyd ved [forskrift 26 mai 2008 nr. 490](forskrift/2008-05-26-490) (fom inntektsåret 2007).
 
@@ -2733,7 +3179,9 @@ Ved beskatning etter del X åttende ledd annet og tredje punktum i [lov 14. dese
 
 ### § 9-3-2. Satser
 
-(1) Ved realisasjon av eiendom som faller inn under [§ 9-3-1](forskrift/1999-11-19-1158/§9-3-1) skal kostprisen pr. 31. desember 2004 fastsettes ved en oppregulering av historisk kostpris basert på en gjennomsnittlig årlig prisvekst for eiendommen. Den årlige prosentvise prisveksten (P) fastsettes med utgangspunkt i historisk kostpris (K), salgsprisen (S) og antall år selger har eid eiendommen (n) etter følgende formel:\\(P=[(S/K)^{1/n}-1]\\cdot100\\%\\)
+(1) Ved realisasjon av eiendom som faller inn under [§ 9-3-1](forskrift/1999-11-19-1158/§9-3-1) skal kostprisen pr. 31. desember 2004 fastsettes ved en oppregulering av historisk kostpris basert på en gjennomsnittlig årlig prisvekst for eiendommen. Den årlige prosentvise prisveksten (P) fastsettes med utgangspunkt i historisk kostpris (K), salgsprisen (S) og antall år selger har eid eiendommen (n) etter følgende formel:
+
+- \\(P=[(S/K)^{1/n}-1]\\cdot100\\%\\)
 
 (2) Salgsprisen må justeres forholdsmessig for den delen som faller på eiendeler hvor kostprisen ikke skal oppreguleres. Ervervsåret og salgsåret skal regnes som hele år uavhengig av når på året ervervet eller salget skjedde.
 
@@ -2767,7 +3215,10 @@ Bestemmelsene i [§ 9-8](forskrift/1999-11-19-1158/§9-8) del I gjelder oppregul
 
 ### § 9-8-2. Alternative inngangsverdier
 
-For eiendel som nevnt i [§ 9-8-1](forskrift/1999-11-19-1158/§9-8-1) kan skattyteren kreve at inngangsverdien pr. 1. januar 1992:fastsettes på grunnlag av takst som er levert til skattemyndighetene i bostedskommunen innen 1. juli 1994, i henhold til tidligere [forskrift 13. januar 1993 nr. 20](forskrift/1993-01-13-20), ellersettes til arveavgiftsgrunnlaget oppregulert etter bestemmelsene i [§ 9-8](forskrift/1999-11-19-1158/§9-8) del II.
+For eiendel som nevnt i [§ 9-8-1](forskrift/1999-11-19-1158/§9-8-1) kan skattyteren kreve at inngangsverdien pr. 1. januar 1992:
+
+1. fastsettes på grunnlag av takst som er levert til skattemyndighetene i bostedskommunen innen 1. juli 1994, i henhold til tidligere [forskrift 13. januar 1993 nr. 20](forskrift/1993-01-13-20), eller
+2. settes til arveavgiftsgrunnlaget oppregulert etter bestemmelsene i [§ 9-8](forskrift/1999-11-19-1158/§9-8) del II.
 
 > Endret ved [forskrift 9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -2777,7 +3228,12 @@ For eiendel som nevnt i [§ 9-8-1](forskrift/1999-11-19-1158/§9-8-1) kan skatty
 
 (1) Bestemmelsene i [§ 9-8](forskrift/1999-11-19-1158/§9-8) del II gjelder oppregulering av kostpris på eiendom som realiseres i 1992 eller senere og som pr. 31. desember 1991 falt inn under området for omregning av kostpris, jf. annet ledd. Reglene gjelder ikke eiendom som er ervervet i 1991 og senere.
 
-(2) Reglene om kostprisregulering gjelder beregning av gevinst ved realisasjon av:tomt og annen fast eiendom uten avskrivbare bygninger eller anlegg utenom næringsvirksomhet og rettigheter over slik eiendom,avskrivbar bygning hvorav en del har vært brukt av selgeren som egen bolig, for så vidt gjelder den del av kostprisen som faller på boligen,ikke avskrivbar arbeider- og funksjonærbolig,leiegårder vesentlig bestemt til beboelse, og alminnelig gårdsbruk og skogbruk, for så vidt gjelder den del av kostprisen som ikke faller på avskrivbare bygninger og anlegg.
+(2) Reglene om kostprisregulering gjelder beregning av gevinst ved realisasjon av:
+
+1. tomt og annen fast eiendom uten avskrivbare bygninger eller anlegg utenom næringsvirksomhet og rettigheter over slik eiendom,
+2. avskrivbar bygning hvorav en del har vært brukt av selgeren som egen bolig, for så vidt gjelder den del av kostprisen som faller på boligen,
+3. ikke avskrivbar arbeider- og funksjonærbolig,
+4. leiegårder vesentlig bestemt til beboelse, og alminnelig gårdsbruk og skogbruk, for så vidt gjelder den del av kostprisen som ikke faller på avskrivbare bygninger og anlegg.
 
 ### § 9-8-4. Satser
 
@@ -2932,7 +3388,12 @@ Det skal leveres oppgave over eiendeler og forpliktelser som nevnt i [skattelove
 
 ### § 10-11-1. Unntak fra reglene om at lån fra selskap til aksjonær skal anses som utbytte
 
-Lån fra selskap til aksjonær skal ikke anses som utbytte i følgende tilfeller:Kreditt eller sikkerhetsstillelse fra finansforetak, jf. [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3).Kreditt under 100 000 kroner fra selskap til aksjonær dersom kreditten innfris innen 60 dager etter at den ble gitt.Kundefordringer som er et ledd i selskapets ordinære virksomhet, dersom fordringen innfris innen 30 dager etter at den ble gitt.Kreditt eller sikkerhetsstillelse som ytes fra arbeidsgiver dersom arbeidstakeren på lånetidspunktet ikke direkte eller indirekte eier mer enn fem prosent av aksjene eller andelene eller har mer enn fem prosent av stemmene på generalforsamlingen i arbeidsgiverselskapet eller et annet selskap i samme konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), som arbeidsgiverselskapet. Aksjer eller selskapsandeler som eies av den ansattes ektefelle, samboer eller person som den ansatte er i slekt eller svogerskap med i opp eller nedstigende linje eller i sidelinje så nær som onkel eller tante, skal regnes med ved beregningen av den ansattes aksje- eller selskapsandel.
+Lån fra selskap til aksjonær skal ikke anses som utbytte i følgende tilfeller:
+
+1. Kreditt eller sikkerhetsstillelse fra finansforetak, jf. [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3).
+2. Kreditt under 100 000 kroner fra selskap til aksjonær dersom kreditten innfris innen 60 dager etter at den ble gitt.
+3. Kundefordringer som er et ledd i selskapets ordinære virksomhet, dersom fordringen innfris innen 30 dager etter at den ble gitt.
+4. Kreditt eller sikkerhetsstillelse som ytes fra arbeidsgiver dersom arbeidstakeren på lånetidspunktet ikke direkte eller indirekte eier mer enn fem prosent av aksjene eller andelene eller har mer enn fem prosent av stemmene på generalforsamlingen i arbeidsgiverselskapet eller et annet selskap i samme konsern, jf. [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), som arbeidsgiverselskapet. Aksjer eller selskapsandeler som eies av den ansattes ektefelle, samboer eller person som den ansatte er i slekt eller svogerskap med i opp eller nedstigende linje eller i sidelinje så nær som onkel eller tante, skal regnes med ved beregningen av den ansattes aksje- eller selskapsandel.
 
 > Tilføyd ved [forskrift 5 feb 2016 nr. 100](forskrift/2016-02-05-100) (i kraft 7 okt 2015).
 
@@ -2980,7 +3441,15 @@ Departementets myndighet etter [skatteloven § 10-13](lov/1999-03-26-14/§10-13)
 
 ### § 10-20-1. Verdipapirfond
 
-(1) Ved vurderingen av om et verdipapirfond som er etablert etter lovgivningen i en annen stat, tilsvarer et nasjonalt fond etter [verdipapirfondloven](lov/2011-11-25-44), skal det legges vekt på om fondet:retter seg mot en ubestemt krets av personer tilsvarende som etter [verdipapirfondloven § 1-2 første ledd nr. 1](lov/2011-11-25-44/§1-2/ledd/1/nummer/1),gir adgang til å kreve innløsning av andeler, tilsvarende som etter [verdipapirfondloven § 4-12](lov/2011-11-25-44/§4-12),gir andelseierne rådighet og ansvar tilsvarende som etter [verdipapirfondloven § 4-16](lov/2011-11-25-44/§4-16),er underlagt plasseringsregler knyttet til investeringsområdet, likviditet og diversifisering, tilsvarende som etter [verdipapirfondloven kapittel 6](lov/2011-11-25-44/kap6) og [7](lov/2011-11-25-44/kap7),er underlagt informasjonsplikter til andelseierne, tilsvarende som etter [verdipapirfondloven kapittel 8](lov/2011-11-25-44/kap8),er underlagt kontroll av en depotmottaker eller tilsvarende, tilsvarende som etter [verdipapirfondloven kapittel 10](lov/2011-11-25-44/kap10),er underlagt tilsyn i etableringsstaten, tilsvarende som etter [verdipapirfondloven § 11-2](lov/2011-11-25-44/§11-2).
+(1) Ved vurderingen av om et verdipapirfond som er etablert etter lovgivningen i en annen stat, tilsvarer et nasjonalt fond etter [verdipapirfondloven](lov/2011-11-25-44), skal det legges vekt på om fondet:
+
+1. retter seg mot en ubestemt krets av personer tilsvarende som etter [verdipapirfondloven § 1-2 første ledd nr. 1](lov/2011-11-25-44/§1-2/ledd/1/nummer/1),
+2. gir adgang til å kreve innløsning av andeler, tilsvarende som etter [verdipapirfondloven § 4-12](lov/2011-11-25-44/§4-12),
+3. gir andelseierne rådighet og ansvar tilsvarende som etter [verdipapirfondloven § 4-16](lov/2011-11-25-44/§4-16),
+4. er underlagt plasseringsregler knyttet til investeringsområdet, likviditet og diversifisering, tilsvarende som etter [verdipapirfondloven kapittel 6](lov/2011-11-25-44/kap6) og [7](lov/2011-11-25-44/kap7),
+5. er underlagt informasjonsplikter til andelseierne, tilsvarende som etter [verdipapirfondloven kapittel 8](lov/2011-11-25-44/kap8),
+6. er underlagt kontroll av en depotmottaker eller tilsvarende, tilsvarende som etter [verdipapirfondloven kapittel 10](lov/2011-11-25-44/kap10),
+7. er underlagt tilsyn i etableringsstaten, tilsvarende som etter [verdipapirfondloven § 11-2](lov/2011-11-25-44/§11-2).
 
 (2) Ved vurderingen etter første ledd skal det legges vekt på om vilkårene og reguleringene fyller de samme funksjonene og har det samme hovedinnholdet som tilsvarende norske bestemmelser. En konkret helhetsvurdering legges til grunn. Unntak fra kravene godtas i samme utstrekning som etter tilsvarende norske bestemmelser.
 
@@ -3016,7 +3485,17 @@ Avtale om aksjesparekonto skal inngås skriftlig. Avtalen skal angi hvilke midle
 
 ### § 10-21-4. Kontoføring
 
-Tilbyder skal føre aksjesparekontoen og ha kontroll på innestående finansielle instrumenter og kontanter på kontoen. Tilbyder kan inngå samarbeid med tredjeparter om utførelse av oppgaver i forbindelse med aksjesparekonto. Kontoen skal angi:Innskudd på kontoenOversikt over finansielle instrumenter på kontoenKontantbeholdningUbenyttet skjermingsfradrag fra tidligere årSkjermingsgrunnlagBeregnet skjermingsfradrag for skattleggingsperiodenSkattepliktig uttak på kontoen i løpet av skattleggingsperiodenKontoens markedsverdi ved årsskiftetMottatt utbytte.
+Tilbyder skal føre aksjesparekontoen og ha kontroll på innestående finansielle instrumenter og kontanter på kontoen. Tilbyder kan inngå samarbeid med tredjeparter om utførelse av oppgaver i forbindelse med aksjesparekonto. Kontoen skal angi:
+
+1. Innskudd på kontoen
+2. Oversikt over finansielle instrumenter på kontoen
+3. Kontantbeholdning
+4. Ubenyttet skjermingsfradrag fra tidligere år
+5. Skjermingsgrunnlag
+6. Beregnet skjermingsfradrag for skattleggingsperioden
+7. Skattepliktig uttak på kontoen i løpet av skattleggingsperioden
+8. Kontoens markedsverdi ved årsskiftet
+9. Mottatt utbytte.
 
 > Tilføyd ved [forskrift 21 juni 2017 nr. 853](forskrift/2017-06-21-853) (i kraft 1 sep 2017).
 
@@ -3060,7 +3539,16 @@ I selskapets stiftelsesår avkortes verdien av skjermingsgrunnlaget forholdsmess
 
 ### § 10-42-3. Overføring av skjerming mellom virksomheter
 
-Ubenyttet skjerming, jf. [skatteloven § 10-42](lov/1999-03-26-14/§10-42) niende ledd, kan overføres mellom deltakerlignede selskaper nårbegge selskapene driver virksomhet innenfor ett eller flere av følgende områderalminnelig gårdsbruk og bierverv knyttet til dette,reindrift og bierverv knyttet til denne, jf. [skatteloven § 14-82](lov/1999-03-26-14/§14-82),alminnelig gårdsbruk, skogbruk og uttak av sand, grus, stein og torv fra eiendommen når den samlede årlige virksomheten ikke overstiger tre normalårsverk,alminnelig gårdsbruk, skogbruk og fiske og fangst når den samlede årlige virksomheten ikke overstiger tre normalårsverk.det er høy grad av innholdsmessig og økonomisk nærhet mellom selskapene. Ved vurderingen legges blant annet vekt på om det er nyttet felles anlegg, driftsmidler, personale, regnskap og finansiering og om selskapene kompletterer hverandre med sikte på å gi et tilbud av varer og tjenester som hører sammen.bokstav a og b gjelder tilsvarende når en eller flere av virksomhetene drives som enkeltpersonforetak.
+Ubenyttet skjerming, jf. [skatteloven § 10-42](lov/1999-03-26-14/§10-42) niende ledd, kan overføres mellom deltakerlignede selskaper når
+
+1. begge selskapene driver virksomhet innenfor ett eller flere av følgende områder
+
+   - alminnelig gårdsbruk og bierverv knyttet til dette,
+   - reindrift og bierverv knyttet til denne, jf. [skatteloven § 14-82](lov/1999-03-26-14/§14-82),
+   - alminnelig gårdsbruk, skogbruk og uttak av sand, grus, stein og torv fra eiendommen når den samlede årlige virksomheten ikke overstiger tre normalårsverk,
+   - alminnelig gårdsbruk, skogbruk og fiske og fangst når den samlede årlige virksomheten ikke overstiger tre normalårsverk.
+2. det er høy grad av innholdsmessig og økonomisk nærhet mellom selskapene. Ved vurderingen legges blant annet vekt på om det er nyttet felles anlegg, driftsmidler, personale, regnskap og finansiering og om selskapene kompletterer hverandre med sikte på å gi et tilbud av varer og tjenester som hører sammen.
+3. bokstav a og b gjelder tilsvarende når en eller flere av virksomhetene drives som enkeltpersonforetak.
 
 > Tilføyd ved [forskrift 9 sep 2005 nr. 1042](forskrift/2005-09-09-1042) (fom inntektsåret 2006).
 
@@ -3080,7 +3568,9 @@ Det gjøres fradrag for deltakerens andel av skatt på grunnrenteinntekt i utdel
 
 ### § 10-44-1. Særregler ved endring av fastsettingsmåte fra brutto- til nettofastsetting
 
-(1) For deltaker som har endret fastsettingsmåte fra brutto- til nettofastsetting i forbindelse med skattereformen 1992, og som pr. 31. desember 1991 hadde rett til oppregulering av inngangsverdien på eiendel som tilhørte selskapet, gjelder følgende:Deltakeren kan på det tidspunkt selskapet realiserer eiendelen kreve fradrag for differansen mellom sin andel av den oppregulerte verdien og sin skattemessig bokførte verdi på eiendelen pr. 31. desember 1991.
+(1) For deltaker som har endret fastsettingsmåte fra brutto- til nettofastsetting i forbindelse med skattereformen 1992, og som pr. 31. desember 1991 hadde rett til oppregulering av inngangsverdien på eiendel som tilhørte selskapet, gjelder følgende:
+
+Deltakeren kan på det tidspunkt selskapet realiserer eiendelen kreve fradrag for differansen mellom sin andel av den oppregulerte verdien og sin skattemessig bokførte verdi på eiendelen pr. 31. desember 1991.
 
 (2) Fradraget etter første ledd gis ved at beløpet føres på deltakerens gevinst- og tapskonto etter [skatteloven § 14-45](lov/1999-03-26-14/§14-45).
 
@@ -3090,7 +3580,13 @@ Det gjøres fradrag for deltakerens andel av skatt på grunnrenteinntekt i utdel
 
 ### § 10-44-2. Skattemessig oppløsning
 
-Et selskap med deltakerfastsetting anses skattemessig oppløst når:selskapet er registrert i Foretaksregisteret og det er gjennomført en formell oppløsning og avvikling etter reglene i selskapsloven.selskapet er registrert i Foretaksregisteret, virksomheten har opphørt og selskapet i de to foregående inntektsår ikke har levert selskapsmelding eller annen melding som nevnt i [skatteforvaltningsloven § 8-9](lov/2016-05-27-14/§8-9).selskapet ikke er registrert i Foretaksregisteret og virksomheten har opphørt.andeler skifter eier på en slik måte at det etterpå bare er igjen en eier til det tidligere selskapets eiendeler/virksomhet. Det gjelder likevel ikke dersom den gjenværende eier overdrar deler av selskapet til en annen innen åtte måneder etter eierskiftet. Har gjenværende eier overtatt andeler som følge av arv, anses eierskiftet å finne sted på tidspunktet for utlodning eller udelt boovertakelse.selskapet tas under konkursbehandling. Oppløsning anses å finne sted på det tidspunkt konkursbehandlingen åpnes.
+Et selskap med deltakerfastsetting anses skattemessig oppløst når:
+
+1. selskapet er registrert i Foretaksregisteret og det er gjennomført en formell oppløsning og avvikling etter reglene i selskapsloven.
+2. selskapet er registrert i Foretaksregisteret, virksomheten har opphørt og selskapet i de to foregående inntektsår ikke har levert selskapsmelding eller annen melding som nevnt i [skatteforvaltningsloven § 8-9](lov/2016-05-27-14/§8-9).
+3. selskapet ikke er registrert i Foretaksregisteret og virksomheten har opphørt.
+4. andeler skifter eier på en slik måte at det etterpå bare er igjen en eier til det tidligere selskapets eiendeler/virksomhet. Det gjelder likevel ikke dersom den gjenværende eier overdrar deler av selskapet til en annen innen åtte måneder etter eierskiftet. Har gjenværende eier overtatt andeler som følge av arv, anses eierskiftet å finne sted på tidspunktet for utlodning eller udelt boovertakelse.
+5. selskapet tas under konkursbehandling. Oppløsning anses å finne sted på det tidspunkt konkursbehandlingen åpnes.
 
 > Tilføyd ved [forskrift 19 des 2014 nr. 1890](forskrift/2014-12-19-1890) (fom inntektsåret 2015), endret ved [forskrift 9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -3106,9 +3602,19 @@ Et selskap med deltakerfastsetting anses skattemessig oppløst når:selskapet er
 
 (3) Når grunnlaget for å begrense tillegget i alminnelig inntekt er [skatteloven § 10-47](lov/1999-03-26-14/§10-47) første ledd, skal tillegget fastsettes etter fjerde til og med sjette ledd.
 
-(4) Om en utdeling skal anses foretatt fra virksomhet som er eller har vært skattepliktig til Norge, eller fra annen virksomhet, avgjøres etter følgende kriterier:Med mindre annet følger nedenfor, skal utdeling som skriver seg fra en bestemt virksomhet, anses utdelt fra denne virksomheten.Utdeling som ikke skriver seg fra en bestemt virksomhet, anses utdelt fra virksomhet som er eller har vært skattepliktig til Norge i samme forhold som skattyters nettoinntekt fra selskapsdeltakelsen fastsatt i Norge i inntektsåret og de fire forutgående årene (telleren), utgjør av skattyters samlede nettoinntekt fra selskapsdeltakelsen i samme periode (nevneren).Utdeling av kontanter, bankinnskudd og tilsvarende likvide midler anses ikke å skrive seg fra en bestemt virksomhet, jf. b.
+(4) Om en utdeling skal anses foretatt fra virksomhet som er eller har vært skattepliktig til Norge, eller fra annen virksomhet, avgjøres etter følgende kriterier:
 
-(5) Ved anvendelsen av fjerde ledd b skal følgende gjelde:Telleren baseres på nettoinntekten fastsatt ved fastsatt i Norge.Nevneren baseres på nettoinntekten fastsatt i Norge og, i den utstrekning inntekt fra selskapsdeltakelsen ikke er eller har vært skattepliktig til Norge, på nettoinntekten fastsatt i den eller de stater der inntekten er opptjent (kildestaten). For skattyter som er bosatt i et utland og som skattlegges der for hele sin forholdsmessige del av selskapsinntekten (globalskatteplikt), baseres nevneren på nettoinntekten fastsatt i skattyters bostedsstat.Utdeling som nevnt i [skatteloven § 10-42](lov/1999-03-26-14/§10-42) første ledd regnes ikke som skattepliktig inntekt.Skattyter som er bosatt i Norge skal både i telleren og i nevneren medregne sin forholdsmessige del av inntekter og tap som nevnt i [skatteloven § 2-38](lov/1999-03-26-14/§2-38) annet ledd på selskapets aksjer mv. Dersom slik inntekt eller slikt tap er knyttet til virksomhet som ikke er eller ikke har vært skattepliktig til Norge, skal inntekten eller tapet likevel bare medregnes i nevneren.Skattyter som er bosatt i utlandet skal både i telleren og i nevneren medregne sin forholdsmessige del av inntekter og tap som nevnt i [skatteloven § 2-38](lov/1999-03-26-14/§2-38) annet ledd på selskapets aksjer mv. når inntekten eller tapet er knyttet til virksomhet som er eller har vært skattepliktig til Norge. Dersom slik inntekt eller slikt tap ikke er knyttet til virksomhet som er eller har vært skattepliktig til Norge, skal inntekten eller tapet bare medregnes i nevneren.
+1. Med mindre annet følger nedenfor, skal utdeling som skriver seg fra en bestemt virksomhet, anses utdelt fra denne virksomheten.
+2. Utdeling som ikke skriver seg fra en bestemt virksomhet, anses utdelt fra virksomhet som er eller har vært skattepliktig til Norge i samme forhold som skattyters nettoinntekt fra selskapsdeltakelsen fastsatt i Norge i inntektsåret og de fire forutgående årene (telleren), utgjør av skattyters samlede nettoinntekt fra selskapsdeltakelsen i samme periode (nevneren).
+3. Utdeling av kontanter, bankinnskudd og tilsvarende likvide midler anses ikke å skrive seg fra en bestemt virksomhet, jf. b.
+
+(5) Ved anvendelsen av fjerde ledd b skal følgende gjelde:
+
+1. Telleren baseres på nettoinntekten fastsatt ved fastsatt i Norge.
+2. Nevneren baseres på nettoinntekten fastsatt i Norge og, i den utstrekning inntekt fra selskapsdeltakelsen ikke er eller har vært skattepliktig til Norge, på nettoinntekten fastsatt i den eller de stater der inntekten er opptjent (kildestaten). For skattyter som er bosatt i et utland og som skattlegges der for hele sin forholdsmessige del av selskapsinntekten (globalskatteplikt), baseres nevneren på nettoinntekten fastsatt i skattyters bostedsstat.
+3. Utdeling som nevnt i [skatteloven § 10-42](lov/1999-03-26-14/§10-42) første ledd regnes ikke som skattepliktig inntekt.
+4. Skattyter som er bosatt i Norge skal både i telleren og i nevneren medregne sin forholdsmessige del av inntekter og tap som nevnt i [skatteloven § 2-38](lov/1999-03-26-14/§2-38) annet ledd på selskapets aksjer mv. Dersom slik inntekt eller slikt tap er knyttet til virksomhet som ikke er eller ikke har vært skattepliktig til Norge, skal inntekten eller tapet likevel bare medregnes i nevneren.
+5. Skattyter som er bosatt i utlandet skal både i telleren og i nevneren medregne sin forholdsmessige del av inntekter og tap som nevnt i [skatteloven § 2-38](lov/1999-03-26-14/§2-38) annet ledd på selskapets aksjer mv. når inntekten eller tapet er knyttet til virksomhet som er eller har vært skattepliktig til Norge. Dersom slik inntekt eller slikt tap ikke er knyttet til virksomhet som er eller har vært skattepliktig til Norge, skal inntekten eller tapet bare medregnes i nevneren.
 
 (6) Dersom skattyter eller skattemyndigheten godtgjør at fordeling etter fjerde ledd åpenbart ikke gjenspeiler hvilket virksomhetsområde utdelingen skriver seg fra og at resultatet av å anvende nevnte fordelingsregel fremstår som urimelig, kan en annen fordeling legges til grunn.
 
@@ -3138,9 +3644,16 @@ Når [skatteloven § 2-3](lov/1999-03-26-14/§2-3) eller bestemmelse i skatteavt
 
 ### § 10-48-1. Ektefeller som selvstendige deltakere
 
-(1) Ektefeller anses som selvstendige deltakere i selskap med deltakerfastsetting når samtlige av følgende vilkår er oppfylt:Det er inngått selskapsavtale etter [selskapsloven § 2-3](lov/1985-06-21-83/§2-3) hvor begge ektefellene er oppført som selvstendige deltakere.Selskapsavtalen er registrert i Foretaksregisteret.Begge ektefellene er registrert som deltakere i Foretaksregisteret.
+(1) Ektefeller anses som selvstendige deltakere i selskap med deltakerfastsetting når samtlige av følgende vilkår er oppfylt:
 
-(2) Når vilkårene i første ledd er oppfylt, gjelder følgende:Overskudd i selskapet fordeles likt mellom ektefellene dersom ikke en annen fordeling følger av selskapsavtale registrert i Foretaksregisteret. Dersom en annen fordeling følger av den registrerte selskapsavtalen, legges denne til grunn. Underskudd fordeles på tilsvarende måte.Formue i selskapet fordeles mellom ektefellene etter ektefellenes eierandel ved utgangen av året, eller eventuelt annen spesifisert fordeling.
+1. Det er inngått selskapsavtale etter [selskapsloven § 2-3](lov/1985-06-21-83/§2-3) hvor begge ektefellene er oppført som selvstendige deltakere.
+2. Selskapsavtalen er registrert i Foretaksregisteret.
+3. Begge ektefellene er registrert som deltakere i Foretaksregisteret.
+
+(2) Når vilkårene i første ledd er oppfylt, gjelder følgende:
+
+1. Overskudd i selskapet fordeles likt mellom ektefellene dersom ikke en annen fordeling følger av selskapsavtale registrert i Foretaksregisteret. Dersom en annen fordeling følger av den registrerte selskapsavtalen, legges denne til grunn. Underskudd fordeles på tilsvarende måte.
+2. Formue i selskapet fordeles mellom ektefellene etter ektefellenes eierandel ved utgangen av året, eller eventuelt annen spesifisert fordeling.
 
 (3) De foregående ledd gjelder ikke for indre selskap. Ektefeller som er deltakere i indre selskap uten andre deltakere, behandles under ett. Ektefellene behandles under ett også når det er andre deltakere enn ektefellene, og ektefellene har levert felles deltakeroppgave.
 
@@ -3160,7 +3673,10 @@ Når [skatteloven § 2-3](lov/1999-03-26-14/§2-3) eller bestemmelse i skatteavt
 
 (2) Skjermingsgrunnlaget og inngangsverdien settes til deltakerens faktiske andel av selskapets skattemessige verdier pr. 1. januar 2006, korrigert for over- eller underpris ved erverv av selskapsandelen.
 
-(3) I grunnlaget etter annet ledd inngår ogsåkostnader som deltakeren har hatt til mekler eller liknende ved anskaffelse av andelendifferanser etter fusjon eller fisjon etter [skatteloven § 11-7](lov/1999-03-26-14/§11-7) femte ledd.
+(3) I grunnlaget etter annet ledd inngår også
+
+1. kostnader som deltakeren har hatt til mekler eller liknende ved anskaffelse av andelen
+2. differanser etter fusjon eller fisjon etter [skatteloven § 11-7](lov/1999-03-26-14/§11-7) femte ledd.
 
 (4) Ved negativt skjermingsgrunnlag settes årets skjerming til null, jf. [skatteloven § 10-42](lov/1999-03-26-14/§10-42) tiende ledd.
 
@@ -3222,7 +3738,19 @@ Bestemmelsene i denne forskrift [§ 10-68](forskrift/1999-11-19-1158/§10-68) gj
 
 ### § 10-68-4. Individuelle korreksjoner på deltakeren
 
-(1) Deltakerens andel av selskapets tilbakeholdte skattlagte inntekt etter [§ 10-68-3](forskrift/1999-11-19-1158/§10-68-3), tillegges følgende poster:deltakers inntektstillegg for uttak av driftsmidler fra selskapet etter [skatteloven § 14-60](lov/1999-03-26-14/§14-60),utbetalt utbytte som ikke er mottatt av deltakeren, men som har redusert selskapets tilbakeholdte beskattede inntekt ogdeltakerens andel av økning av skattlagt kapital som følge av endring av selskapets skattepliktige inntekt for tidligere år .Følgende poster trekkes fra:deltakerens andel av fremførbart underskudd fra selskapet oppstått fra og med inntektsåret 2003, i den grad underskuddet er kommet til fradrag i årets skattepliktige inntekt fra selskapet,utbetalt utbytte som ikke er tatt hensyn til ved beregningen av tilbakeholdt skattlagt inntekt for selskapet,deltakerens kredittfradrag for skatt som deltakeren eller selskapet har betalt i utlandet,deltakerens andel av fremførbart underskudd fra selskapet for 2002 eller tidligere inntektsår som ikke har kommet til fradrag i årets skattepliktige inntekt fra selskapet ogdeltakers andel av reduksjon av skattlagt kapital som følge av endring av selskapets inntekt for tidligere år.
+(1) Deltakerens andel av selskapets tilbakeholdte skattlagte inntekt etter [§ 10-68-3](forskrift/1999-11-19-1158/§10-68-3), tillegges følgende poster:
+
+- deltakers inntektstillegg for uttak av driftsmidler fra selskapet etter [skatteloven § 14-60](lov/1999-03-26-14/§14-60),
+- utbetalt utbytte som ikke er mottatt av deltakeren, men som har redusert selskapets tilbakeholdte beskattede inntekt og
+- deltakerens andel av økning av skattlagt kapital som følge av endring av selskapets skattepliktige inntekt for tidligere år .
+
+Følgende poster trekkes fra:
+
+- deltakerens andel av fremførbart underskudd fra selskapet oppstått fra og med inntektsåret 2003, i den grad underskuddet er kommet til fradrag i årets skattepliktige inntekt fra selskapet,
+- utbetalt utbytte som ikke er tatt hensyn til ved beregningen av tilbakeholdt skattlagt inntekt for selskapet,
+- deltakerens kredittfradrag for skatt som deltakeren eller selskapet har betalt i utlandet,
+- deltakerens andel av fremførbart underskudd fra selskapet for 2002 eller tidligere inntektsår som ikke har kommet til fradrag i årets skattepliktige inntekt fra selskapet og
+- deltakers andel av reduksjon av skattlagt kapital som følge av endring av selskapets inntekt for tidligere år.
 
 (2) For deltakere som ikke omfattes av [skatteloven § 2-38](lov/1999-03-26-14/§2-38) første ledd, skal det korrigeres for utbytte, kapitalgevinster og -tap som ikke inngår i tilbakeholdt skattlagt kapital etter § 10-68-3.
 
@@ -3322,7 +3850,15 @@ Aksjeselskap kan ikke innfusjoneres i borettslag uten skattlegging.
 
 (1) Med omdanning menes endring av et selskap eller foretaks juridiske form, der all virksomhet og det vesentligste av tilhørende eiendeler og gjeld i selskap eller foretak overføres til et nystiftet selskap som har en annen juridisk form.
 
-(2) Bestemmelsene i denne forskrift [§ 11-20](forskrift/1999-11-19-1158/§11-20) gjelder skattefri omdanning til aksjeselskap eller allmennaksjeselskap av:enkeltpersonforetak,virksomhet drevet av kommune eller fylkeskommune,interkommunalt selskap,deltakerlignet selskap som omfattes av [skatteloven § 10-40](lov/1999-03-26-14/§10-40),samvirkeforetak,statsforetak,norskregistrert utenlandsk selskap skattepliktig etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd e.
+(2) Bestemmelsene i denne forskrift [§ 11-20](forskrift/1999-11-19-1158/§11-20) gjelder skattefri omdanning til aksjeselskap eller allmennaksjeselskap av:
+
+1. enkeltpersonforetak,
+2. virksomhet drevet av kommune eller fylkeskommune,
+3. interkommunalt selskap,
+4. deltakerlignet selskap som omfattes av [skatteloven § 10-40](lov/1999-03-26-14/§10-40),
+5. samvirkeforetak,
+6. statsforetak,
+7. norskregistrert utenlandsk selskap skattepliktig etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd e.
 
 (3) Bestemmelsene og prinsippene i denne forskrift [§ 11-20](forskrift/1999-11-19-1158/§11-20) gjelder tilsvarende så langt de passer ved omdanning fra enkeltpersonforetak til deltakerlignet selskap som omfattes av [skatteloven § 10-40](lov/1999-03-26-14/§10-40).
 
@@ -3362,7 +3898,12 @@ Omdanning kan foretas uten beskatning når nystiftet aksjeselskap eller allmenna
 
 (3) Spesifisert oppgave over eiendeler, deres alder og tilstand, og over forpliktelser som overføres, må vedlegges skattemeldingen.
 
-(4) Ved omdanning av enkeltpersonforetak til aksjeselskap eller allmennaksjeselskap, gjelder følgende:Fast eiendom som er eiendel i virksomheten, kreves ikke overført. Forutsatt at aktiviteten ved drift av den faste eiendommen har et slikt omfang at den i seg selv vil bli å anse som virksomhet, kan det i forbindelse med omdanningen stiftes et særskilt aksjeselskap eller allmennaksjeselskap som den faste eiendom og driften av denne overføres til. Forskriftens bestemmelser gjelder også for overføring til slikt særskilt eiendomsaksjeselskap.Aksjer og andre finansaktiva kan fritt overføres.Bolig- eller fritidseiendom som den næringsdrivende selv bruker, kan ikke overføres til aksjeselskapet eller allmennaksjeselskapet i forbindelse med omdanningen. Det samme gjelder andre eiendeler hovedsakelig bestemt for privat bruk.Gjeldsposter kreves ikke overført.
+(4) Ved omdanning av enkeltpersonforetak til aksjeselskap eller allmennaksjeselskap, gjelder følgende:
+
+1. Fast eiendom som er eiendel i virksomheten, kreves ikke overført. Forutsatt at aktiviteten ved drift av den faste eiendommen har et slikt omfang at den i seg selv vil bli å anse som virksomhet, kan det i forbindelse med omdanningen stiftes et særskilt aksjeselskap eller allmennaksjeselskap som den faste eiendom og driften av denne overføres til. Forskriftens bestemmelser gjelder også for overføring til slikt særskilt eiendomsaksjeselskap.
+2. Aksjer og andre finansaktiva kan fritt overføres.
+3. Bolig- eller fritidseiendom som den næringsdrivende selv bruker, kan ikke overføres til aksjeselskapet eller allmennaksjeselskapet i forbindelse med omdanningen. Det samme gjelder andre eiendeler hovedsakelig bestemt for privat bruk.
+4. Gjeldsposter kreves ikke overført.
 
 > Endret ved [forskrifter 16 feb 2012 nr. 155](forskrift/2012-02-16-155) (fom inntektsåret 2012), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -3698,9 +4239,17 @@ Skatt på bonus ved åremåls tilsetting i Forsvaret, som utbetales i én sum ve
 
 (2) Skatten beregnes ved at flygerens øvrige inntekt dette år tillegges 1/4 av utbetalt bonus og skatten av denne 1/4 multipliseres med 4.
 
-(3) Luftforsvaret skalsnarest mulig opplyse skattemyndighetene om at kontrakt som nevnt i første ledd er inngått, om kontraktstidens lengde og om størrelsen av og tidspunktet for utbetaling av den første bonus,innen 1. november året før annen og tredje periodes begynnelse opplyse skattemyndighetene om den bonus som utbetales i begynnelsen av det kommende år,opplyse om bonusutbetalingen sammen med flyverens lønnsoppgave,melde fra om endring/avbrytelse av kontrakten sammen med oppgave over eventuell tilbakebetaling av bonus og lønnstillegg.
+(3) Luftforsvaret skal
 
-(4) Skattemyndighetene skal på grunnlag av opplysningene som Luftforsvaret plikter å gi etter tredje leddsørge for en forskuddsutskriving som tar hensyn til den særlige skatteberegning etter annet ledd for det år bonus utbetales,foreta endelig beregning av skatten for utbetalingsåret i samsvar med annet ledd.
+1. snarest mulig opplyse skattemyndighetene om at kontrakt som nevnt i første ledd er inngått, om kontraktstidens lengde og om størrelsen av og tidspunktet for utbetaling av den første bonus,
+2. innen 1. november året før annen og tredje periodes begynnelse opplyse skattemyndighetene om den bonus som utbetales i begynnelsen av det kommende år,
+3. opplyse om bonusutbetalingen sammen med flyverens lønnsoppgave,
+4. melde fra om endring/avbrytelse av kontrakten sammen med oppgave over eventuell tilbakebetaling av bonus og lønnstillegg.
+
+(4) Skattemyndighetene skal på grunnlag av opplysningene som Luftforsvaret plikter å gi etter tredje ledd
+
+1. sørge for en forskuddsutskriving som tar hensyn til den særlige skatteberegning etter annet ledd for det år bonus utbetales,
+2. foreta endelig beregning av skatten for utbetalingsåret i samsvar med annet ledd.
 
 (5) Ved pliktig tilbakebetaling av bonus og lønnstillegg skal tidligere innkrevet skatt på disse inntektene refunderes skattyteren.
 
@@ -3710,7 +4259,11 @@ Skatt på bonus ved åremåls tilsetting i Forsvaret, som utbetales i én sum ve
 
 (1) Bonus i form av engangsbeløp som flyvere i henhold til personlig tjenestekontrakt med Luftforsvaret skal ha utbetalt ved kontrakttidens utløp, skal skattlegges i utbetalingsåret. Skatten beregnes til det beløp den ville ha utgjort dersom bonusen var blitt tillagt inntekten det enkelte kontraktsår med et forholdsmessig beløp.
 
-(2) Luftforsvaret skalopplyse skattemyndighetene om at kontrakt som nevnt i første ledd er inngått, kontrakttidens lengde og bonusbeløpets størrelse. Denne informasjonen gis sammen med flyverens lønnsoppgave for det året tjenestekontrakten er inngått. På tilsvarende måte skal det gis melding om eventuell endring/avbrytelse av kontrakten,hvert år innhente oppgave fra skattemyndighetene over beregnet skatt som ville blitt fastsatt på den forholdsmessige andel av bonusen, jf. tredje ledd,ved utbetaling av bonusen foreta et trekk basert på summen av oppgaver innhentet i medhold av b over beregnet skatt. Har flyveren vært skattepliktig til flere kommuner i tjenestekontraktstiden, fordeles trekkbeløpet på disse i henhold til oppgaver innhentet i medhold av b.
+(2) Luftforsvaret skal
+
+1. opplyse skattemyndighetene om at kontrakt som nevnt i første ledd er inngått, kontrakttidens lengde og bonusbeløpets størrelse. Denne informasjonen gis sammen med flyverens lønnsoppgave for det året tjenestekontrakten er inngått. På tilsvarende måte skal det gis melding om eventuell endring/avbrytelse av kontrakten,
+2. hvert år innhente oppgave fra skattemyndighetene over beregnet skatt som ville blitt fastsatt på den forholdsmessige andel av bonusen, jf. tredje ledd,
+3. ved utbetaling av bonusen foreta et trekk basert på summen av oppgaver innhentet i medhold av b over beregnet skatt. Har flyveren vært skattepliktig til flere kommuner i tjenestekontraktstiden, fordeles trekkbeløpet på disse i henhold til oppgaver innhentet i medhold av b.
 
 (3) Skattemyndighetene skal på bakgrunn av opplysningene som Luftforsvaret plikter å gi etter annet ledd, hvert år beregne den skatten som ville blitt fastsatt på bonusen dersom denne var tillagt inntekten det enkelte år i kontrakttiden med et like stort beløp. Melding om skatteberegningen sendes Luftforsvaret
 
@@ -3764,7 +4317,11 @@ Med etableringsåret i [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde le
 
 ### § 14-5-13. Unntak ved ikke tapsutsatt omsetning
 
-(1) Skattytere som har etablert ny virksomhet, har ikke adgang til nedskrivning på kundefordringer etter [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde ledd d når mer enn 50 prosent av kredittsalget skjer til:samvirkeorganisasjon hvor skattyter er medlem,norsk og utenlandsk selskap innen konsern med eierforhold som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), ellerdet offentlige, eller offentlig eid virksomhet hvor stat eller kommune kan pålegges å dekke kreditorene.
+(1) Skattytere som har etablert ny virksomhet, har ikke adgang til nedskrivning på kundefordringer etter [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde ledd d når mer enn 50 prosent av kredittsalget skjer til:
+
+1. samvirkeorganisasjon hvor skattyter er medlem,
+2. norsk og utenlandsk selskap innen konsern med eierforhold som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), eller
+3. det offentlige, eller offentlig eid virksomhet hvor stat eller kommune kan pålegges å dekke kreditorene.
 
 (2) Det er ikke adgang til nedskrivning etter [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde ledd d på kundefordringer oppstått i virksomhet som er særskattepliktig etter petroleumsskatteloven.
 
@@ -3772,7 +4329,11 @@ Med etableringsåret i [skatteloven § 14-5](lov/1999-03-26-14/§14-5) fjerde le
 
 ### § 14-5-20. Omvurderingskonto
 
-Skattyter som kommer inn under bestemmelsene i [skatteloven § 14-5](lov/1999-03-26-14/§14-5), skal føre en omvurderingskonto for langsiktige fordrings- og gjeldsposter i fremmed valuta, på følgende måte:Omvurderingskontoen tillegges urealisert tap og fratrekkes urealisert gevinst på de enkelte poster i henhold til kursen pr. 31. desember i inntektsåret i forhold til kursen for de enkelte poster på anskaffelsestidspunktet. Dersom den enkelte post viser urealisert tap, kan skattyter likevel velge å sette denne posten til null i omvurderingskontoen.Dersom resultatet på omvurderingskontoen viser at urealisert gevinst overstiger urealisert tap, kan omvurderingskontoen settes til null. I andre tilfeller settes omvurderingskontoen til netto resultat.Endring på omvurderingskontoen i forhold til foregående inntektsår tas i betraktning med virkning for skattefastsettingen.
+Skattyter som kommer inn under bestemmelsene i [skatteloven § 14-5](lov/1999-03-26-14/§14-5), skal føre en omvurderingskonto for langsiktige fordrings- og gjeldsposter i fremmed valuta, på følgende måte:
+
+1. Omvurderingskontoen tillegges urealisert tap og fratrekkes urealisert gevinst på de enkelte poster i henhold til kursen pr. 31. desember i inntektsåret i forhold til kursen for de enkelte poster på anskaffelsestidspunktet. Dersom den enkelte post viser urealisert tap, kan skattyter likevel velge å sette denne posten til null i omvurderingskontoen.
+2. Dersom resultatet på omvurderingskontoen viser at urealisert gevinst overstiger urealisert tap, kan omvurderingskontoen settes til null. I andre tilfeller settes omvurderingskontoen til netto resultat.
+3. Endring på omvurderingskontoen i forhold til foregående inntektsår tas i betraktning med virkning for skattefastsettingen.
 
 > Endret ved [forskrift 9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -3862,15 +4423,31 @@ Den del av beregnede utgående tapsavsetninger etter [forskrift 14. november 199
 
 (5) Startavskrivninger kan ikke kreves dersom støtten beregnet etter tredje ledd og annen støtte gitt med grunnlag i EU-kommisjonens midlertidige retningslinjer for statsstøtte under virusutbruddet etter art. 107 (3)b/61(3)b punkt 3.1, samlet overstiger 8 millioner kroner. Støtten kan gis sammen med med annen bagatellmessig støtte (de minimis) innenfor en grense på 8 mill. kroner for året 2020. Støtten kan gis sammen med støtte under gruppeunntaksforordningene eller annen notifisert støtte, så lenge beløpsgrensene eller støtteintensiteten i det aktuelle tiltaket ikke overskrides.
 
-(6) Startavskrivning kan ikke kreves av skattyter som var i vanskeligheter 31. desember 2019. Med skattyter i vanskeligheter, menes foretak der minst én av følgende hendelser har inntruffet:når det gjelder et foretak med begrenset ansvar, dersom mer enn halvparten av dets tegnede aksjekapital har forsvunnet som følge av akkumulerte tap. Dette er tilfelle når fradrag av akkumulerte tap fra reservene (og alle andre poster som vanligvis anses som en del av selskapets ansvarlige kapital) fører til et negativt kumulativt beløp som overstiger halvparten av den tegnede aksjekapitalen. I denne bestemmelsen menes med «selskap med begrenset ansvar» særlig selskapstyper omhandlet i vedlegg I til direktiv [2013/34/EU](eu/32013l0034) (1), og «aksjekapital» omfatter overkurs når det er relevant,når det gjelder et foretak der minst noen medlemmer har ubegrenset ansvar for foretakets gjeld, dersom mer enn halvparten av kapitalen som er oppført i selskapets regnskap, har forsvunnet som følge av akkumulerte tap. I denne bestemmelsen menes med «et selskap der minst noen medlemmer har ubegrenset ansvar for selskapets gjeld» særlig selskapstyper omhandlet i vedlegg II til direktiv [2013/34/EU](eu/32013l0034),foretaket er gjenstand for kollektiv insolvensbehandling eller oppfyller de fastsatte kriterier i nasjonal lovgivning for å være gjenstand for kollektiv insolvensbehandling etter anmodning fra kreditorene,foretaket har mottatt krisestøtte og har ennå ikke tilbakebetalt lånet eller innløst garantien, eller det har mottatt omstruktureringsstøtte og er fortsatt omfattet av en omstruktureringsplan,når det gjelder foretak som ikke er små eller mellomstore, dersom følgende gjelder for de to foregående årene:foretakets bokførte forhold mellom gjeld og egenkapital har vært større enn 7,5 ogforetakets EBITDA-rentedekningsgrad har vært lavere enn 1,0.
+(6) Startavskrivning kan ikke kreves av skattyter som var i vanskeligheter 31. desember 2019. Med skattyter i vanskeligheter, menes foretak der minst én av følgende hendelser har inntruffet:
+
+1. når det gjelder et foretak med begrenset ansvar, dersom mer enn halvparten av dets tegnede aksjekapital har forsvunnet som følge av akkumulerte tap. Dette er tilfelle når fradrag av akkumulerte tap fra reservene (og alle andre poster som vanligvis anses som en del av selskapets ansvarlige kapital) fører til et negativt kumulativt beløp som overstiger halvparten av den tegnede aksjekapitalen. I denne bestemmelsen menes med «selskap med begrenset ansvar» særlig selskapstyper omhandlet i vedlegg I til direktiv [2013/34/EU](eu/32013l0034) (1), og «aksjekapital» omfatter overkurs når det er relevant,
+2. når det gjelder et foretak der minst noen medlemmer har ubegrenset ansvar for foretakets gjeld, dersom mer enn halvparten av kapitalen som er oppført i selskapets regnskap, har forsvunnet som følge av akkumulerte tap. I denne bestemmelsen menes med «et selskap der minst noen medlemmer har ubegrenset ansvar for selskapets gjeld» særlig selskapstyper omhandlet i vedlegg II til direktiv [2013/34/EU](eu/32013l0034),
+3. foretaket er gjenstand for kollektiv insolvensbehandling eller oppfyller de fastsatte kriterier i nasjonal lovgivning for å være gjenstand for kollektiv insolvensbehandling etter anmodning fra kreditorene,
+4. foretaket har mottatt krisestøtte og har ennå ikke tilbakebetalt lånet eller innløst garantien, eller det har mottatt omstruktureringsstøtte og er fortsatt omfattet av en omstruktureringsplan,
+5. når det gjelder foretak som ikke er små eller mellomstore, dersom følgende gjelder for de to foregående årene:
+
+   1. foretakets bokførte forhold mellom gjeld og egenkapital har vært større enn 7,5 og
+   2. foretakets EBITDA-rentedekningsgrad har vært lavere enn 1,0.
 
 (7) Små og mellomstore foretak som nevnt under og som har eksistert i mindre enn tre år regnet fra det tidspunktet foretaket ble registrert i Foretaksregisteret, anses ikke å være i vanskeligheter selv om hendelsene som nevnt i første ledd bokstav a og b har inntruffet.
 
 (8) Små foretak som nevnt under, er ikke utelukket fra å kreve startavskrivninger selv om de var i vanskeligheter 31. desember 2019, med mindre foretaket er gjenstand for kollektiv insolvensbehandling, eller har mottatt krise- eller omstruktureringsstøtte.
 
-(9) Med mellomstore foretak menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:sysselsetter færre enn 250 personer, oghar en årsomsetning som ikke overstiger 500 millioner kroner, ellerhar en samlet årsbalanse som ikke overstiger 430 millioner kroner.
+(9) Med mellomstore foretak menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:
 
-(10) Med små foretak menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:sysselsetter færre enn 50 personer, oghar en årsomsetning eller en årsbalanse som ikke overstiger 100 millioner kroner. Inngår skattyter i et konsern, skal vilkårene i første til tredje ledd vurderes både for den konkrete skattyteren og på konsolidert nivå.
+1. sysselsetter færre enn 250 personer, og
+2. har en årsomsetning som ikke overstiger 500 millioner kroner, eller
+3. har en samlet årsbalanse som ikke overstiger 430 millioner kroner.
+
+(10) Med små foretak menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:
+
+1. sysselsetter færre enn 50 personer, og
+2. har en årsomsetning eller en årsbalanse som ikke overstiger 100 millioner kroner. Inngår skattyter i et konsern, skal vilkårene i første til tredje ledd vurderes både for den konkrete skattyteren og på konsolidert nivå.
 
 (11) Med begrepet kollektiv insolvensbehandling menes konkursbehandling etter konkursloven. Skattyter anses å oppfylle kriteriene for å være gjenstand for kollektiv insolvensbehandling når skattyt er insolvent etter [konkursloven § 61](lov/1984-06-08-58/§61).
 
@@ -3888,7 +4465,13 @@ Bestemmelsene i denne forskrift [§ 14-62](forskrift/1999-11-19-1158/§14-62) gj
 
 ### § 14-62-2. Avskrivningssatser
 
-(1) Det anvendes følgende avskrivningssatser:Kontormaskiner, verktøy, rekvisita o.l.: 20 prosent.Større data-anlegg, instrumenter, inventar, biler, vogntog o.l., rullende og faste maskiner og materiell med kostpris under 2 millioner kroner: 12 prosent.Rullende og faste maskiner og materiell, herunder dykkerutstyr, sveisestasjoner, kraner, pumper, kompressorer o.l., så fremt driftsmidlet har en kostpris på minst 2 millioner kroner: 10 prosent.Fly, helikopter o.l., spesialfartøyer benyttet i oljesektoren slik som dykkerfartøyer og fjernstyrte undervannsfartøyer: 7 prosent.Skip og fartøyer som ikke går inn under gruppe d, herunder passasjerskip og frakteskip bygget for spesialfart, rørleggingsfartøyer, rigger, floteller, lektere: 4 prosent.
+(1) Det anvendes følgende avskrivningssatser:
+
+1. Kontormaskiner, verktøy, rekvisita o.l.: 20 prosent.
+2. Større data-anlegg, instrumenter, inventar, biler, vogntog o.l., rullende og faste maskiner og materiell med kostpris under 2 millioner kroner: 12 prosent.
+3. Rullende og faste maskiner og materiell, herunder dykkerutstyr, sveisestasjoner, kraner, pumper, kompressorer o.l., så fremt driftsmidlet har en kostpris på minst 2 millioner kroner: 10 prosent.
+4. Fly, helikopter o.l., spesialfartøyer benyttet i oljesektoren slik som dykkerfartøyer og fjernstyrte undervannsfartøyer: 7 prosent.
+5. Skip og fartøyer som ikke går inn under gruppe d, herunder passasjerskip og frakteskip bygget for spesialfart, rørleggingsfartøyer, rigger, floteller, lektere: 4 prosent.
 
 (2) Dersom driftsmidlet har inntaksverdi lavere enn 30 000 kroner, kan inntaksverdien føres til fradrag i inntaksåret.
 
@@ -3976,9 +4559,22 @@ Departementets myndighet etter [skatteloven § 15-3](lov/1999-03-26-14/§15-3) d
 
 ### § 16-10-5. Kontraktsbrudd
 
-(1) Vilkårene for boligsparingen anses bruttved uttak av innbetalt sparebeløp eller renter påløpt frem til og med det året skattyter fyller 33 år, til annet formål enn det som følger av [§ 16-10-4](forskrift/1999-11-19-1158/§16-10-4),ved overdragelse,ved frivillig sikkerhetsstillelse,for den del av sparebeløpet som overstiger boligens kostpris mv. ved erverv av bolig. I slike tilfeller anses først innbetalt sparebeløp anvendt til erverv av bolig, dernest akkumulerte renter,hvis skattyter ikke overholder opplysningsplikten ved sparing på boligsparekonto i annen EØS-stat.
+(1) Vilkårene for boligsparingen anses brutt
 
-(2) Vilkårene for boligsparing anses ikke bruttved uttak av årets innbetalte sparebeløp senest 31. desember i inntektsåret,ved uttak av renter som påløper etter det inntektsåret skattyter fyller 33 år,hvis gjenlevende ektefelle overtar kontrakten,ved overdragelse av hele sparebeløpet til ektefelle ved separasjon eller skilsmisse,hvis skattyter går konkurs og midlene anvendes til dekning av kreditorene,hvis skattyter godtgjør at det foreligger særlige omstendigheter som har forhindret skattyter fra å oppfylle sin opplysningsplikt ved sparing på boligsparekonto i annen EØS-stat.
+1. ved uttak av innbetalt sparebeløp eller renter påløpt frem til og med det året skattyter fyller 33 år, til annet formål enn det som følger av [§ 16-10-4](forskrift/1999-11-19-1158/§16-10-4),
+2. ved overdragelse,
+3. ved frivillig sikkerhetsstillelse,
+4. for den del av sparebeløpet som overstiger boligens kostpris mv. ved erverv av bolig. I slike tilfeller anses først innbetalt sparebeløp anvendt til erverv av bolig, dernest akkumulerte renter,
+5. hvis skattyter ikke overholder opplysningsplikten ved sparing på boligsparekonto i annen EØS-stat.
+
+(2) Vilkårene for boligsparing anses ikke brutt
+
+1. ved uttak av årets innbetalte sparebeløp senest 31. desember i inntektsåret,
+2. ved uttak av renter som påløper etter det inntektsåret skattyter fyller 33 år,
+3. hvis gjenlevende ektefelle overtar kontrakten,
+4. ved overdragelse av hele sparebeløpet til ektefelle ved separasjon eller skilsmisse,
+5. hvis skattyter går konkurs og midlene anvendes til dekning av kreditorene,
+6. hvis skattyter godtgjør at det foreligger særlige omstendigheter som har forhindret skattyter fra å oppfylle sin opplysningsplikt ved sparing på boligsparekonto i annen EØS-stat.
 
 > Endret ved [forskrifter 19 des 2002 nr. 1716](forskrift/2002-12-19-1716) (fom inntektsåret 2002), [17 des 2004 nr. 1709](forskrift/2004-12-17-1709) (fom inntektsåret 2004).
 
@@ -4054,7 +4650,13 @@ Ved beregningen av det maksimale kreditfradraget etter [skatteloven § 16-21](lo
 
 (2) Gjeldsrenter som er fradragsberettiget i Norge, skal tilordnes Norge eller utlandet, fordelt på inntektskategoriene i [skatteloven § 16-21](lov/1999-03-26-14/§16-21) første ledd a og b, forholdsmessig etter hvor nettoinntekten etter første ledd er tilordnet. Skattyter som driver virksomhet i annen EØS-stat kan likevel tilordne gjeldsrenter i tråd med prinsippene i første ledd, dersom skattyter godtgjør at 90 prosent eller mer av gjeldsrentene er tilknyttet skattyters virksomhet i Norge. Dersom 90 prosent eller mer av gjeldsrentene er tilknyttet skattyters virksomhet utenfor Norge, skal gjeldsrentene tilordnes i tråd med prinsippene i første ledd. Ved tilordning av gjeldsrenter etter første punktum skal inntekt av arbeid eller pensjon som oppebæres fra fremmed stat likestilles med norsk inntekt ved fastsettelse av nettoinntekten etter første ledd. Andelshavers andel av kostnader i boligselskap, jf. [skatteloven § 7-3](lov/1999-03-26-14/§7-3) femte ledd b, tilordnes Norge og utlandet på samme måte som gjeldsrenter.
 
-(3) Kostnader som ikke kan tilordnes en bestemt virksomhet eller inntekt, og som ikke er omfattet av annet ledd, skal tilordnes Norge eller utlandet, fordelt på inntektskategoriene i [skatteloven § 16-21](lov/1999-03-26-14/§16-21) første ledd a og b, forholdsmessig etter hvor nettoinntekten etter første ledd er tilordnet. Følgende fradragsberettigede kostnader skal alltid tilordnes slik:bidrag til forskning etter [skatteloven § 6-42](lov/1999-03-26-14/§6-42),foreldrefradrag etter [skatteloven § 6-48](lov/1999-03-26-14/§6-48), ogsærfradrag etter [skatteloven § 6-80](lov/1999-03-26-14/§6-80) og [§ 6-82](lov/1999-03-26-14/§6-82).Ved tilordning etter første punktum av kostnader som nevnt i annet punktum b–d, skal inntekt av arbeid, pensjon eller virksomhet som skattyter oppebærer fra andre EØS-stater likestilles med norsk inntekt, med mindre 90 prosent eller mer av den nevnte inntekten oppebæres fra én annen EØS-stat.
+(3) Kostnader som ikke kan tilordnes en bestemt virksomhet eller inntekt, og som ikke er omfattet av annet ledd, skal tilordnes Norge eller utlandet, fordelt på inntektskategoriene i [skatteloven § 16-21](lov/1999-03-26-14/§16-21) første ledd a og b, forholdsmessig etter hvor nettoinntekten etter første ledd er tilordnet. Følgende fradragsberettigede kostnader skal alltid tilordnes slik:
+
+1. bidrag til forskning etter [skatteloven § 6-42](lov/1999-03-26-14/§6-42),
+2. foreldrefradrag etter [skatteloven § 6-48](lov/1999-03-26-14/§6-48), og
+3. særfradrag etter [skatteloven § 6-80](lov/1999-03-26-14/§6-80) og [§ 6-82](lov/1999-03-26-14/§6-82).
+
+Ved tilordning etter første punktum av kostnader som nevnt i annet punktum b–d, skal inntekt av arbeid, pensjon eller virksomhet som skattyter oppebærer fra andre EØS-stater likestilles med norsk inntekt, med mindre 90 prosent eller mer av den nevnte inntekten oppebæres fra én annen EØS-stat.
 
 (4) Kostnader som nevnt i tredje ledd første punktum kan unntaksvis tilordnes etter en annen fordelingsnøkkel, dersom skattyter godtgjør at en slik fordelingsnøkkel gir et rimelig resultat i overensstemmelse med alminnelig aksepterte forretningsmessige og bedriftsøkonomiske prinsipper og skattyter godtgjør at en slik fordelingsnøkkel anvendes konsekvent.
 
@@ -4098,7 +4700,11 @@ Ved beregningen av det maksimale kreditfradraget skal inntekter og kostnader tid
 
 ###### § 16-29-8. Dokumentasjonsplikt for den utenlandske skatten
 
-Skattyter som krever fradrag som nevnt i [§ 16-29-1](forskrift/1999-11-19-1158/§16-29-1), skal dokumentere:at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,at beløpet er innbetalt til fremmed stat, ogat beløpet utgjør endelig skatt ved ordinær skattefastsetting i fremmed stat.
+Skattyter som krever fradrag som nevnt i [§ 16-29-1](forskrift/1999-11-19-1158/§16-29-1), skal dokumentere:
+
+1. at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,
+2. at beløpet er innbetalt til fremmed stat, og
+3. at beløpet utgjør endelig skatt ved ordinær skattefastsetting i fremmed stat.
 
 > Endret ved [forskrifter 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-8), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -4132,7 +4738,16 @@ Skattyter har plikt til å informere norske skattemyndigheter dersom den utenlan
 
 ### § 16-29-20. Anvendelsesområde for bestemmelsene om den alternative fordelingsmetoden
 
-(1) Bestemmelsene i [§ 16-29](forskrift/1999-11-19-1158/§16-29) del B i denne forskrift gjelder ved:Fastsettelse av norsk skatt på skattyters øvrige inntekter når vedkommende oppebærerinntekt fra utlandet som etter skatteavtale eller annen folkerettslig overenskomst er unntatt fra skattlegging i Norge og alternativ fordeling etter avtalen kan anvendes, ellerlønnsinntekt fra utlandet som er unntatt fra skattlegging i Norge i henhold til skatteavtale eller annen folkerettslig overenskomst og avtalen har progresjonsforbehold.Fastsettelse av norsk skatt når skattyter oppebærerinntekt fra utlandet som gir rett til skattenedsettelse i henhold til en skatteavtale, ellerlønnsinntekt opptjent ved arbeidsopphold utenfor riket som gir rett til skattenedsettelse i henhold til [skatteloven § 2-1](lov/1999-03-26-14/§2-1) tiende ledd.
+(1) Bestemmelsene i [§ 16-29](forskrift/1999-11-19-1158/§16-29) del B i denne forskrift gjelder ved:
+
+1. Fastsettelse av norsk skatt på skattyters øvrige inntekter når vedkommende oppebærer
+
+   1. inntekt fra utlandet som etter skatteavtale eller annen folkerettslig overenskomst er unntatt fra skattlegging i Norge og alternativ fordeling etter avtalen kan anvendes, eller
+   2. lønnsinntekt fra utlandet som er unntatt fra skattlegging i Norge i henhold til skatteavtale eller annen folkerettslig overenskomst og avtalen har progresjonsforbehold.
+2. Fastsettelse av norsk skatt når skattyter oppebærer
+
+   1. inntekt fra utlandet som gir rett til skattenedsettelse i henhold til en skatteavtale, eller
+   2. lønnsinntekt opptjent ved arbeidsopphold utenfor riket som gir rett til skattenedsettelse i henhold til [skatteloven § 2-1](lov/1999-03-26-14/§2-1) tiende ledd.
 
 (2) Dersom skattyter både har inntekt som omfattes av reglene om fradrag i norsk skatt for skatt betalt i fremmed stat i [skatteloven § 16-20](lov/1999-03-26-14/§16-20) flg. og inntekt som omfattes av bestemmelsene i [§ 16-29](lov/1999-03-26-14/§16-29) del B i denne forskrift, skal nedsettelsen av norsk skatt etter reglene i [§ 16-29](lov/1999-03-26-14/§16-29) del B i denne forskrift foretas før det beregnes maksimalt kreditfradrag etter [skatteloven § 16-21](lov/1999-03-26-14/§16-21).
 
@@ -4154,7 +4769,12 @@ Ved fastsettelse av den del av den norske skatten som forholdsmessig faller på 
 
 (2) Gjeldsrenter som er fradragsberettiget i Norge skal tilordnes Norge. Det samme gjelder andelshavers andel av kostnader i boligselskap, jf. [skatteloven § 7-3](lov/1999-03-26-14/§7-3) femte ledd b.
 
-(3) Kostnader som ikke kan tilordnes en bestemt inntektskilde og som ikke omfattes av annet ledd, skal tilordnes Norge eller utlandet forholdsmessig etter hvor nettoinntekten etter første ledd er tilordnet. Følgende fradragsberettigede kostnader skal alltid tilordnes slik:foreldrefradrag etter [skatteloven § 6-48](lov/1999-03-26-14/§6-48), ogsærfradrag etter [skatteloven § 6-80](lov/1999-03-26-14/§6-80) og [§ 6-82](lov/1999-03-26-14/§6-82).Ved tilordning etter første punktum av kostnader som nevnt i annet punktum, skal inntekt av arbeid eller pensjon som skattyter oppebærer fra andre EØS-stater likestilles med norsk inntekt, med mindre 90 prosent eller mer av den nevnte inntekten oppebæres fra én annen EØS-stat.
+(3) Kostnader som ikke kan tilordnes en bestemt inntektskilde og som ikke omfattes av annet ledd, skal tilordnes Norge eller utlandet forholdsmessig etter hvor nettoinntekten etter første ledd er tilordnet. Følgende fradragsberettigede kostnader skal alltid tilordnes slik:
+
+1. foreldrefradrag etter [skatteloven § 6-48](lov/1999-03-26-14/§6-48), og
+2. særfradrag etter [skatteloven § 6-80](lov/1999-03-26-14/§6-80) og [§ 6-82](lov/1999-03-26-14/§6-82).
+
+Ved tilordning etter første punktum av kostnader som nevnt i annet punktum, skal inntekt av arbeid eller pensjon som skattyter oppebærer fra andre EØS-stater likestilles med norsk inntekt, med mindre 90 prosent eller mer av den nevnte inntekten oppebæres fra én annen EØS-stat.
 
 (4) Minstefradrag tilordnes Norge eller utlandet forholdsmessig etter hvor inntekt som nevnt i [skatteloven § 6-31](lov/1999-03-26-14/§6-31) er tilordnet. Ved tilordning av minstefradrag etter foregående punktum skal inntekt av arbeid eller pensjon som skattyter oppebærer fra andre EØS-stater likestilles med norsk inntekt, med mindre 90 prosent eller mer av den nevnte inntekten oppebæres fra én annen EØS-stat.
 
@@ -4218,13 +4838,32 @@ Departementets myndighet etter [skatteloven § 16-30](lov/1999-03-26-14/§16-30)
 
 (2) Utvikling av kommersielt anvendelige prototyper og forsøksprosjekter er også omfattet, dersom prototypen nødvendigvis er det endelige, kommersielle produktet, og dersom den er for kostbar å fremstille for bare å brukes til demonstrasjon og validering. I tilfelle en etterfølgende kommersiell bruk av prototype eller pilotprosjekt genererer inntekter, må disse trekkes fra i de berettigede kostnader.
 
-(3) Alminnelig bedriftsorientert produktutvikling uten forskningspreg omfattes ikke, herunder:aktivitet med karakter av løpende drift, herunder rutinemessig eller regelmessige endringer av varer, tjenester, produksjonslinjer, produksjonsprosesser, eksisterende tjenester eller annen pågående aktivitet, selv om slike endringer kan innebære forbedringer,modifikasjon og endring av bedriftens varer, tjenester eller produksjonsprosesser, når dette ikke fordrer utvikling av ny kunnskap eller nye ferdigheter eller bruk av eksisterende kunnskap på nye måter,organisasjonsutvikling, opplæring eller kompetansetiltak,kunde- eller markedsundersøkelser,installasjon eller tilpasning av innkjøpt produksjonsutstyr,kunstnerisk, musikalsk, filmatisk, litterær eller lignende aktivitet,aktivitet som består i å lage anlegg for produksjon,erverv, oppføring eller utbedring av fast eiendom, kjøretøy, skip eller fly,kartlegging av og leting etter mineralske forekomster, naturressurser eller lignende, med mindre det dreier seg om å utvikle nye eller forbedrede metoder og teknikker,kontingenter, eller andeler til finansiering av fellesforskning der hvor dette ikke er knyttet til gjennomføring av et konkret samarbeidsprosjekt hvor bedriften er aktivt involvert,kontroll, kvalitetssikring og validering av løpende produksjon og levering av varer og tjenester.
+(3) Alminnelig bedriftsorientert produktutvikling uten forskningspreg omfattes ikke, herunder:
+
+1. aktivitet med karakter av løpende drift, herunder rutinemessig eller regelmessige endringer av varer, tjenester, produksjonslinjer, produksjonsprosesser, eksisterende tjenester eller annen pågående aktivitet, selv om slike endringer kan innebære forbedringer,
+2. modifikasjon og endring av bedriftens varer, tjenester eller produksjonsprosesser, når dette ikke fordrer utvikling av ny kunnskap eller nye ferdigheter eller bruk av eksisterende kunnskap på nye måter,
+3. organisasjonsutvikling, opplæring eller kompetansetiltak,
+4. kunde- eller markedsundersøkelser,
+5. installasjon eller tilpasning av innkjøpt produksjonsutstyr,
+6. kunstnerisk, musikalsk, filmatisk, litterær eller lignende aktivitet,
+7. aktivitet som består i å lage anlegg for produksjon,
+8. erverv, oppføring eller utbedring av fast eiendom, kjøretøy, skip eller fly,
+9. kartlegging av og leting etter mineralske forekomster, naturressurser eller lignende, med mindre det dreier seg om å utvikle nye eller forbedrede metoder og teknikker,
+10. kontingenter, eller andeler til finansiering av fellesforskning der hvor dette ikke er knyttet til gjennomføring av et konkret samarbeidsprosjekt hvor bedriften er aktivt involvert,
+11. kontroll, kvalitetssikring og validering av løpende produksjon og levering av varer og tjenester.
 
 > Tilføyd ved [forskrift 4 des 2002 nr. 1347](forskrift/2002-12-04-1347) (fom inntektsåret 2002 jf. [forskrift 20 des 2002 nr. 1626](forskrift/2002-12-20-1626)), endret ved [forskrifter 24 mars 2003 nr. 393](forskrift/2003-03-24-393) (fom inntektsåret 2003), [14 jan 2011 nr. 31](forskrift/2011-01-14-31) (fom inntektsåret 2011).
 
 ### § 16-40-3. Definisjon av nærstående
 
-(1) Med nærstående menes i dette kapittel:selskap mv. som virksomheten, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,person eller selskap mv. som, direkte eller indirekte, eier eller kontrollerer virksomheten med minst 50 prosent,selskap mv. som nærstående etter b, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,nærstående person etter bokstav b sine foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre, samt selskap mv. som disse, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,styremedlem eller daglig leder i virksomheten, ogektefelle til, eller en person som lever sammen i ekteskapsliknende forhold med, person som er nevnt i e.
+(1) Med nærstående menes i dette kapittel:
+
+1. selskap mv. som virksomheten, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,
+2. person eller selskap mv. som, direkte eller indirekte, eier eller kontrollerer virksomheten med minst 50 prosent,
+3. selskap mv. som nærstående etter b, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,
+4. nærstående person etter bokstav b sine foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre, samt selskap mv. som disse, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent,
+5. styremedlem eller daglig leder i virksomheten, og
+6. ektefelle til, eller en person som lever sammen i ekteskapsliknende forhold med, person som er nevnt i e.
 
 (2) Person eller selskap mv. regnes som nærstående dersom kravet til eierskap eller kontroll har vært oppfylt på noe tidspunkt i inntektsåret.
 
@@ -4242,11 +4881,34 @@ Departementets myndighet etter [skatteloven § 16-30](lov/1999-03-26-14/§16-30)
 
 ### § 16-40-5. Definisjon av små og mellomstore bedrifter (SMB)
 
-(1) Skattyter anses som en SMB dersom virksomheten oppfyller følgende vilkår:Virksomheten har færre enn 250 ansatte, ogVirksomheten har en årlig salgsinntekt som ikke overstiger 50 millioner euro, eller en årlig balansesum som ikke overstiger 43 millioner euro.
+(1) Skattyter anses som en SMB dersom virksomheten oppfyller følgende vilkår:
 
-(2) For en uavhengig virksomhet, jf. bokstav a, beregnes antall ansatte og finansielle beløp på grunnlag av denne virksomhetens regnskap. Har virksomheten partnervirksomhet eller tilknyttet virksomhet, jf. bokstavene b til e, skal disse inkluderes ved beregningen av antall ansatte og finansielle beløp etter reglene i tredje ledd.«Uavhengig virksomhet» er en virksomhet som ikke er klassifisert som partnervirksomhet i henhold til bokstav b eller som tilknyttet virksomhet i henhold til bokstav d.«Partnervirksomhet» er alle virksomheter som ikke er klassifisert som tilknyttede virksomheter i henhold til bokstav d, og som det er følgende forbindelse mellom: en virksomhet (virksomhet som befinner seg på tidligere ledd i omsetningskjeden) som alene eller i fellesskap med en eller flere tilknyttede virksomheter i henhold til bokstav d har 25 prosent eller mer av kapitalen eller stemmerettighetene i en annen virksomhet (som befinner seg på et senere ledd i omsetningskjeden).En virksomhet kan imidlertid betegnes som uavhengig, dvs. uten partnervirksomhet, selv om terskelen på 25 prosent nås eller overstiges av følgende investorer, forutsatt at disse investorene verken enkeltvis eller i fellesskap er tilknyttet, i henhold til bokstav d, den berørte virksomhet:offentlige investeringsselskaper, venture-selskaper, fysiske personer eller grupper av enkeltpersoner som regelmessig utøver virksomhet som risikokapitalinvestorer som investerer egenkapital i ikke-børsnoterte foretak (private investorer), forutsatt at samlet investering for disse private investorene i samme foretak er mindre enn 1 250 000 euro,universiteter eller sentre for ideell forskning,institusjonelle investorer, herunder fond for regionsutvikling,selvstendig lokale myndigheter med et årlig budsjett på mindre enn 10 millioner euro og færre enn 5000 innbyggere.«Tilknyttet virksomhet» er alle virksomheter som har en av følgende forbindelser med hverandre:en virksomhet sitter med flertallet av aksjeeiernes eller deltakernes stemmerettigheter i en annen virksomhet,en virksomhet har rett til å utpeke eller fjerne et flertall av medlemmene av administrasjon, ledelses- eller kontrollorganet i en annen virksomhet,en virksomhet har rett til å ha dominerende innflytelse på en annen virksomhet i henhold til en kontrakt inngått med den virksomheten eller i henhold til en bestemmelse i dens vedtekter,en virksomhet som er aksjeeier eller deltaker i en annen virksomhet, kontrollerer alene i henhold til en avtale med andre aksjeeiere eller deltagere i denne virksomheten et flertall av aksjeeiernes eller deltagernes stemmerettigheter i denne virksomheten.En dominerende innflytelse anses ikke for å foreligge dersom investorene som nevnt i bokstav c ikke direkte eller indirekte deltar i forvaltningen av den berørte virksomheten, med forbehold for deres rettigheter som aksjeeiere. Virksomheter som opprettholder en forbindelse som nevnt i bokstav d, gjennom en eller flere virksomheter, eller med en investor som nevnt i bokstav b eller c, anses også for å være tilknyttet. Virksomheter som opprettholder en eller flere slike forbindelser gjennom en fysisk person eller en gruppe fysiske personer som opptrer i fellesskap, skal også anses som tilknyttede virksomheter dersom de utøver sin virksomhet eller en del av sin virksomhet i det samme relevante markedet eller i tilgrensende markeder. Som et «tilgrensende marked» anses markeder for et produkt eller en tjeneste som befinner seg på et umiddelbart foregående eller etterfølgende ledd i omsetningskjeden.
+1. Virksomheten har færre enn 250 ansatte, og
+2. Virksomheten har en årlig salgsinntekt som ikke overstiger 50 millioner euro, eller en årlig balansesum som ikke overstiger 43 millioner euro.
 
-(3)For en virksomhet som har partnervirksomheter eller tilknyttede virksomheter blir dataene, herunder antall ansatte, utarbeidet på grunnlag av virksomhetens regnskaper og andre opplysninger om virksomheten eller, dersom slike foreligger, virksomhetens konsoliderte regnskaper, eller de konsoliderte regnskapene virksomheten inngår i ved konsolidering. Til dataene nevnt i første punktum legges data om den berørte virksomhetens eventuelle umiddelbart overordnede eller underordnede partnervirksomheter. Dataene skal legges sammen proporsjonalt med andelen av kapitalen eller stemmerettene (den høyeste av disse to prosentandelene). Ved gjensidige eierinteresser skal den høyeste prosentandelen anvendes. Til dataene nevnt i første punktum og annet til fjerde punktum legges 100 prosent av dataene for enhver virksomhet som er direkte eller indirekte knyttet til den berørte virksomheten og som ikke allerede inngår i regnskapene ved konsolidering.Ved anvendelse av bokstav a skal dataene for partnervirksomhetene til den berørte virksomheten hentes fra deres regnskaper og andre data, eventuelt i konsolidert form. Til disse legges 100 prosent av dataene for virksomheter som er knyttet til disse partnervirksomhetene, med mindre deres regnskapsdata allerede inngår ved konsolidering. Ved anvendelse av nevnte bokstav a skal dataene for virksomhetene som er knyttet til den berørte virksomheten hentes fra deres regnskaper og andre data, eventuelt i konsolidert form. Til disse legges proporsjonalt dataene for eventuelle partnervirksomheter til de tilknyttede virksomhetene som befinner seg på et umiddelbart foregående eller etterfølgende ledd i omsetningskjeden, med mindre de allerede inngår i det konsoliderte regnskapet i et forhold som minst tilsvarer den prosentandelen som er fastsatt i bokstav a annet til fjerde punktum.Dersom antall ansatte i en gitt virksomhet ikke framgår av de konsoliderte regnskapene, skal det beregnes ved å legge sammen dataene for denne virksomhetens partnervirksomheter proporsjonalt og legge til dataene for de virksomhetene den berørte virksomheten er tilknyttet.
+(2) For en uavhengig virksomhet, jf. bokstav a, beregnes antall ansatte og finansielle beløp på grunnlag av denne virksomhetens regnskap. Har virksomheten partnervirksomhet eller tilknyttet virksomhet, jf. bokstavene b til e, skal disse inkluderes ved beregningen av antall ansatte og finansielle beløp etter reglene i tredje ledd.
+
+1. «Uavhengig virksomhet» er en virksomhet som ikke er klassifisert som partnervirksomhet i henhold til bokstav b eller som tilknyttet virksomhet i henhold til bokstav d.
+2. «Partnervirksomhet» er alle virksomheter som ikke er klassifisert som tilknyttede virksomheter i henhold til bokstav d, og som det er følgende forbindelse mellom: en virksomhet (virksomhet som befinner seg på tidligere ledd i omsetningskjeden) som alene eller i fellesskap med en eller flere tilknyttede virksomheter i henhold til bokstav d har 25 prosent eller mer av kapitalen eller stemmerettighetene i en annen virksomhet (som befinner seg på et senere ledd i omsetningskjeden).
+3. En virksomhet kan imidlertid betegnes som uavhengig, dvs. uten partnervirksomhet, selv om terskelen på 25 prosent nås eller overstiges av følgende investorer, forutsatt at disse investorene verken enkeltvis eller i fellesskap er tilknyttet, i henhold til bokstav d, den berørte virksomhet:
+
+   1. offentlige investeringsselskaper, venture-selskaper, fysiske personer eller grupper av enkeltpersoner som regelmessig utøver virksomhet som risikokapitalinvestorer som investerer egenkapital i ikke-børsnoterte foretak (private investorer), forutsatt at samlet investering for disse private investorene i samme foretak er mindre enn 1 250 000 euro,
+   2. universiteter eller sentre for ideell forskning,
+   3. institusjonelle investorer, herunder fond for regionsutvikling,
+   4. selvstendig lokale myndigheter med et årlig budsjett på mindre enn 10 millioner euro og færre enn 5000 innbyggere.
+4. «Tilknyttet virksomhet» er alle virksomheter som har en av følgende forbindelser med hverandre:
+
+   1. en virksomhet sitter med flertallet av aksjeeiernes eller deltakernes stemmerettigheter i en annen virksomhet,
+   2. en virksomhet har rett til å utpeke eller fjerne et flertall av medlemmene av administrasjon, ledelses- eller kontrollorganet i en annen virksomhet,
+   3. en virksomhet har rett til å ha dominerende innflytelse på en annen virksomhet i henhold til en kontrakt inngått med den virksomheten eller i henhold til en bestemmelse i dens vedtekter,
+   4. en virksomhet som er aksjeeier eller deltaker i en annen virksomhet, kontrollerer alene i henhold til en avtale med andre aksjeeiere eller deltagere i denne virksomheten et flertall av aksjeeiernes eller deltagernes stemmerettigheter i denne virksomheten.
+5. En dominerende innflytelse anses ikke for å foreligge dersom investorene som nevnt i bokstav c ikke direkte eller indirekte deltar i forvaltningen av den berørte virksomheten, med forbehold for deres rettigheter som aksjeeiere. Virksomheter som opprettholder en forbindelse som nevnt i bokstav d, gjennom en eller flere virksomheter, eller med en investor som nevnt i bokstav b eller c, anses også for å være tilknyttet. Virksomheter som opprettholder en eller flere slike forbindelser gjennom en fysisk person eller en gruppe fysiske personer som opptrer i fellesskap, skal også anses som tilknyttede virksomheter dersom de utøver sin virksomhet eller en del av sin virksomhet i det samme relevante markedet eller i tilgrensende markeder. Som et «tilgrensende marked» anses markeder for et produkt eller en tjeneste som befinner seg på et umiddelbart foregående eller etterfølgende ledd i omsetningskjeden.
+
+(3)
+
+1. For en virksomhet som har partnervirksomheter eller tilknyttede virksomheter blir dataene, herunder antall ansatte, utarbeidet på grunnlag av virksomhetens regnskaper og andre opplysninger om virksomheten eller, dersom slike foreligger, virksomhetens konsoliderte regnskaper, eller de konsoliderte regnskapene virksomheten inngår i ved konsolidering. Til dataene nevnt i første punktum legges data om den berørte virksomhetens eventuelle umiddelbart overordnede eller underordnede partnervirksomheter. Dataene skal legges sammen proporsjonalt med andelen av kapitalen eller stemmerettene (den høyeste av disse to prosentandelene). Ved gjensidige eierinteresser skal den høyeste prosentandelen anvendes. Til dataene nevnt i første punktum og annet til fjerde punktum legges 100 prosent av dataene for enhver virksomhet som er direkte eller indirekte knyttet til den berørte virksomheten og som ikke allerede inngår i regnskapene ved konsolidering.
+2. Ved anvendelse av bokstav a skal dataene for partnervirksomhetene til den berørte virksomheten hentes fra deres regnskaper og andre data, eventuelt i konsolidert form. Til disse legges 100 prosent av dataene for virksomheter som er knyttet til disse partnervirksomhetene, med mindre deres regnskapsdata allerede inngår ved konsolidering. Ved anvendelse av nevnte bokstav a skal dataene for virksomhetene som er knyttet til den berørte virksomheten hentes fra deres regnskaper og andre data, eventuelt i konsolidert form. Til disse legges proporsjonalt dataene for eventuelle partnervirksomheter til de tilknyttede virksomhetene som befinner seg på et umiddelbart foregående eller etterfølgende ledd i omsetningskjeden, med mindre de allerede inngår i det konsoliderte regnskapet i et forhold som minst tilsvarer den prosentandelen som er fastsatt i bokstav a annet til fjerde punktum.
+3. Dersom antall ansatte i en gitt virksomhet ikke framgår av de konsoliderte regnskapene, skal det beregnes ved å legge sammen dataene for denne virksomhetens partnervirksomheter proporsjonalt og legge til dataene for de virksomhetene den berørte virksomheten er tilknyttet.
 
 (4) Med unntak av tilfellene nevnt i annet ledd bokstav c kan en virksomhet ikke anses å tilhøre kategorien små og mellomstore bedrifter dersom 25 prosent eller mer av kapitalen eller stemmerettene direkte eller indirekte kontrolleres av ett eller flere offentlige organer enkeltvis eller i fellesskap.
 
@@ -4486,7 +5148,13 @@ Forlengelse av kontrakter som nevnt i [skatteloven § 18-3](lov/1999-03-26-14/§
 
 ### § 18-3-13. Krav til dokumentasjon
 
-Dersom skattyter har kraft som forbrukes i egen produksjonsvirksomhet (interne leveranser) og som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 3, eller har mottatt leveranse av kraft som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 2, må det fremlegges en dokumentert oversikt for det enkelte inntektsår som viser:årets forbruk av kraft i skattyters produksjonsvirksomhetårets krafttilgang i henhold til kontrakter eller leieavtaler som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 2årets produksjon i skattyters egne kraftverk, samt andel av kraftproduksjon som skattyter har rett til å disponere i kraftverk hvor skattyter har eierandeler.Oversikten gis på et eget skjema som vedlegg til skattemeldingen.
+Dersom skattyter har kraft som forbrukes i egen produksjonsvirksomhet (interne leveranser) og som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 3, eller har mottatt leveranse av kraft som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 2, må det fremlegges en dokumentert oversikt for det enkelte inntektsår som viser:
+
+1. årets forbruk av kraft i skattyters produksjonsvirksomhet
+2. årets krafttilgang i henhold til kontrakter eller leieavtaler som skal verdsettes etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 2
+3. årets produksjon i skattyters egne kraftverk, samt andel av kraftproduksjon som skattyter har rett til å disponere i kraftverk hvor skattyter har eierandeler.
+
+Oversikten gis på et eget skjema som vedlegg til skattemeldingen.
 
 > Endret ved [forskrift 9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
@@ -4603,9 +5271,21 @@ Prisen etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 1,
 
 ### § 18-3-29. Unntak for langsiktige kontrakter for kraft til standard fastprisavtaler i sluttbrukermarkedet
 
-(1) Kraft som er levert i henhold til langsiktige fastpriskontrakter, og som er avtalt viderelevert til sluttbruker, verdsettes til kontraktsprisen, jf. [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd bokstav a nr. 4, når følgende vilkår er oppfylt:Kraftprodusent og sluttbruker må befinne seg innenfor et samlet, sørlig eller et samlet, nordlig prisområde. Det samlede sørlige prisområdet består av prisområdene NO1, NO2 og NO5. Det samlede nordlige prisområdet består av prisområde NO3 og NO4.Kontrakten og avtalene med sluttbrukere må ha en varighet på 3, 5, eller 7 år.Kontraktene og avtalene i sluttbrukermarkedet må gjelde et fast volum. Det kan ikke avtales et variabelt volum til fastpris, som en del av standard fastprisavtale i sluttbrukermarkedet.Det må følge av kontrakten mellom kraftprodusent og strømleverandør at avtalt kraftvolum etter kontrakten, skal tilsvare kraftvolum som er avtalt videresolgt til sluttbruker. Videresalget må være avtalt i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår. Kontraktene som inngås mellom kraftprodusenter og strømleverandører, må samsvare med avtalene som inngås mellom strømleverandører og sluttbrukere, når det gjelder varighet, avtalt volum, tiden for avtalt levering og prisområde i henhold til inndelingen i dette ledd nr. 1. Fastprisavtalene kan også inngås direkte mellom kraftprodusent og sluttbruker, i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår.Det må følge av kontrakten at prispåslaget ved salg i sluttbrukermarkedet maksimalt kan utgjøre 2,5 øre/kWh, samt et maksimalt pristillegg på 99 kroner per målepunkt, ikke medregnet merverdiavgift eller pris for elsertifikater.Kontrakten og avtaler om strøm i sluttbrukermarkedet må være inngått på forretningsmessig grunnlag. Dette gjelder også for avtalt pris ved oppgjør av over- og underforbruk.Tilleggstjenester kan ikke inngå i de standardiserte fastprisavtalene, men kan tilbys i separate avtaler med sluttbrukere.Kraftprodusenten må rapportere de oppnådde kontraktsprisene for hvert tidsavsnitt, samlet og volumvektet for kontrakter inngått med den enkelte leverandør.
+(1) Kraft som er levert i henhold til langsiktige fastpriskontrakter, og som er avtalt viderelevert til sluttbruker, verdsettes til kontraktsprisen, jf. [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd bokstav a nr. 4, når følgende vilkår er oppfylt:
 
-(2) Følgende omfattes ikke av første ledd:Kraft som forbrukes i produksjonsvirksomhet som nevnt i § 18-3-4. Når kraften leveres til sluttbrukere som ikke har kraftkjøpsavtaler med fastpris på til sammen 150 GWh eller mer, gjelder unntaket uavhengig av bestemmelsen i forrige punktum.Konsesjonskraft som omfattes av [skatteloven § 18-3](lov/1999-03-26-14/§18-3) andre ledd bokstav a nr. 2.
+1. Kraftprodusent og sluttbruker må befinne seg innenfor et samlet, sørlig eller et samlet, nordlig prisområde. Det samlede sørlige prisområdet består av prisområdene NO1, NO2 og NO5. Det samlede nordlige prisområdet består av prisområde NO3 og NO4.
+2. Kontrakten og avtalene med sluttbrukere må ha en varighet på 3, 5, eller 7 år.
+3. Kontraktene og avtalene i sluttbrukermarkedet må gjelde et fast volum. Det kan ikke avtales et variabelt volum til fastpris, som en del av standard fastprisavtale i sluttbrukermarkedet.
+4. Det må følge av kontrakten mellom kraftprodusent og strømleverandør at avtalt kraftvolum etter kontrakten, skal tilsvare kraftvolum som er avtalt videresolgt til sluttbruker. Videresalget må være avtalt i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår. Kontraktene som inngås mellom kraftprodusenter og strømleverandører, må samsvare med avtalene som inngås mellom strømleverandører og sluttbrukere, når det gjelder varighet, avtalt volum, tiden for avtalt levering og prisområde i henhold til inndelingen i dette ledd nr. 1. Fastprisavtalene kan også inngås direkte mellom kraftprodusent og sluttbruker, i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår.
+5. Det må følge av kontrakten at prispåslaget ved salg i sluttbrukermarkedet maksimalt kan utgjøre 2,5 øre/kWh, samt et maksimalt pristillegg på 99 kroner per målepunkt, ikke medregnet merverdiavgift eller pris for elsertifikater.
+6. Kontrakten og avtaler om strøm i sluttbrukermarkedet må være inngått på forretningsmessig grunnlag. Dette gjelder også for avtalt pris ved oppgjør av over- og underforbruk.
+7. Tilleggstjenester kan ikke inngå i de standardiserte fastprisavtalene, men kan tilbys i separate avtaler med sluttbrukere.
+8. Kraftprodusenten må rapportere de oppnådde kontraktsprisene for hvert tidsavsnitt, samlet og volumvektet for kontrakter inngått med den enkelte leverandør.
+
+(2) Følgende omfattes ikke av første ledd:
+
+1. Kraft som forbrukes i produksjonsvirksomhet som nevnt i § 18-3-4. Når kraften leveres til sluttbrukere som ikke har kraftkjøpsavtaler med fastpris på til sammen 150 GWh eller mer, gjelder unntaket uavhengig av bestemmelsen i forrige punktum.
+2. Konsesjonskraft som omfattes av [skatteloven § 18-3](lov/1999-03-26-14/§18-3) andre ledd bokstav a nr. 2.
 
 (3) Det er ikke til hinder for verdsettelse til kontraktspris, jf. første ledd, at strømleverandør har organisert kraftkjøpsvirksomheten og salgsvirksomheten til sluttbruker i selskaper som er atskilte skattesubjekter. Samlet prispåslag kan likevel ikke overstige 2,5 øre/kWh.
 
@@ -4723,7 +5403,16 @@ Fremtidige utskiftningskostnader skal fastsettes for driftsmidler som utgjør en
 
 (2) Ved beregningen av fremtidige kostnader til utskiftning settes levetiden for fremtidige investeringer i driftsmidler som avskrives lineært etter [skatteloven § 18-6](lov/1999-03-26-14/§18-6) første ledd lik den lovforutsatte levetiden for de aktuelle driftsmidlene.
 
-(3) For driftsmidler som saldoavskrives etter [skatteloven § 14-41](lov/1999-03-26-14/§14-41), settes levetidene i de ulike avskrivningsgruppene etter [skatteloven § 14-43](lov/1999-03-26-14/§14-43) til:avskrivningsgruppe a og b: 5 åravskrivningsgruppe c: 7 åravskrivningsgruppe d og e: 8 åravskrivningsgruppe f: 14 åravskrivningsgruppe g: 31 åravskrivningsgruppe h: 38 åravskrivningsgruppe i: 67 åravskrivningsgruppe j: 20 år.
+(3) For driftsmidler som saldoavskrives etter [skatteloven § 14-41](lov/1999-03-26-14/§14-41), settes levetidene i de ulike avskrivningsgruppene etter [skatteloven § 14-43](lov/1999-03-26-14/§14-43) til:
+
+- avskrivningsgruppe a og b: 5 år
+- avskrivningsgruppe c: 7 år
+- avskrivningsgruppe d og e: 8 år
+- avskrivningsgruppe f: 14 år
+- avskrivningsgruppe g: 31 år
+- avskrivningsgruppe h: 38 år
+- avskrivningsgruppe i: 67 år
+- avskrivningsgruppe j: 20 år.
 
 (4) For driftsmidler som avskrives etter avskrivningsgruppene a – d kan fremtidige utskiftningskostnader beregnes samlet med en gjennomsnittlig levetid på syv år.
 
@@ -4882,7 +5571,16 @@ Prisen etter [skatteloven § 18-10 annet ledd bokstav a nr. 1](lov/1999-03-26-14
 
 ### § 18-10-11. Unntak for langsiktige kontrakter for kraft til standard fastprisavtaler i sluttbrukermarkedet, jf. skatteloven § 18-10 annet ledd bokstav a nr. 2
 
-(1) Kraft som er levert i henhold til langsiktige fastpriskontrakter, og som er avtalt viderelevert til sluttbruker, verdsettes til kontraktsprisen, jf. [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), når følgende vilkår er oppfylt:Kraftprodusent og sluttbruker må befinne seg innenfor et samlet, sørlig eller et samlet, nordlig prisområde. Det samlede sørlige prisområdet består av prisområdene NO1, NO2 og NO5. Det samlede nordlige prisområdet består av prisområdene NO3 og NO4.Kontrakten og avtalene med sluttbrukere må ha en varighet på 3, 5, eller 7 år.Kontraktene og avtalene i sluttbrukermarkedet må gjelde et fast volum. Det kan ikke avtales et variabelt volum til fastpris, som en del av standard fastprisavtale i sluttbrukermarkedet.Det må følge av kontrakten mellom kraftprodusent og strømleverandør at avtalt kraftvolum etter kontrakten, skal tilsvare kraftvolum som er avtalt videresolgt til sluttbruker. Videresalget må være avtalt i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår. Kontraktene som inngås mellom kraftprodusenter og strømleverandører, må samsvare med avtalene som inngås mellom strømleverandører og sluttbrukere, når det gjelder varighet, avtalt volum, tiden for avtalt levering og prisområde i henhold til inndelingen i dette ledd nr. 1. Fastprisavtalene kan også inngås direkte mellom kraftprodusent og sluttbruker, i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår.Det må følge av kontrakten at prispåslaget ved salg i sluttbrukermarkedet maksimalt kan utgjøre 2,5 øre/kWh, samt et maksimalt pristillegg på 99 kroner per målepunkt, ikke medregnet merverdiavgift eller pris for elsertifikater.Kontrakten og avtaler om strøm i sluttbrukermarkedet må være inngått på forretningsmessig grunnlag. Dette gjelder også for avtalt pris ved oppgjør av over- og underforbruk.Tilleggstjenester kan ikke inngå i de standardiserte fastprisavtalene, men kan tilbys i separate avtaler med sluttbrukere.Kraftprodusenten må rapportere de oppnådde kontraktsprisene for hvert tidsavsnitt, samlet og volumvektet for kontrakter inngått med den enkelte leverandør.
+(1) Kraft som er levert i henhold til langsiktige fastpriskontrakter, og som er avtalt viderelevert til sluttbruker, verdsettes til kontraktsprisen, jf. [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), når følgende vilkår er oppfylt:
+
+1. Kraftprodusent og sluttbruker må befinne seg innenfor et samlet, sørlig eller et samlet, nordlig prisområde. Det samlede sørlige prisområdet består av prisområdene NO1, NO2 og NO5. Det samlede nordlige prisområdet består av prisområdene NO3 og NO4.
+2. Kontrakten og avtalene med sluttbrukere må ha en varighet på 3, 5, eller 7 år.
+3. Kontraktene og avtalene i sluttbrukermarkedet må gjelde et fast volum. Det kan ikke avtales et variabelt volum til fastpris, som en del av standard fastprisavtale i sluttbrukermarkedet.
+4. Det må følge av kontrakten mellom kraftprodusent og strømleverandør at avtalt kraftvolum etter kontrakten, skal tilsvare kraftvolum som er avtalt videresolgt til sluttbruker. Videresalget må være avtalt i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår. Kontraktene som inngås mellom kraftprodusenter og strømleverandører, må samsvare med avtalene som inngås mellom strømleverandører og sluttbrukere, når det gjelder varighet, avtalt volum, tiden for avtalt levering og prisområde i henhold til inndelingen i dette ledd nr. 1. Fastprisavtalene kan også inngås direkte mellom kraftprodusent og sluttbruker, i henhold til Energi Norges Standardavtale fastpris 3, 5 og 7 år – Næring, eller avtale som inneholder tilsvarende vilkår.
+5. Det må følge av kontrakten at prispåslaget ved salg i sluttbrukermarkedet maksimalt kan utgjøre 2,5 øre/kWh, samt et maksimalt pristillegg på 99 kroner per målepunkt, ikke medregnet merverdiavgift eller pris for elsertifikater.
+6. Kontrakten og avtaler om strøm i sluttbrukermarkedet må være inngått på forretningsmessig grunnlag. Dette gjelder også for avtalt pris ved oppgjør av over- og underforbruk.
+7. Tilleggstjenester kan ikke inngå i de standardiserte fastprisavtalene, men kan tilbys i separate avtaler med sluttbrukere.
+8. Kraftprodusenten må rapportere de oppnådde kontraktsprisene for hvert tidsavsnitt, samlet og volumvektet for kontrakter inngått med den enkelte leverandør.
 
 (2) Det er ikke til hinder for verdsettelse til kontraktspris, jf. første ledd, at strømleverandør har organisert kraftkjøpsvirksomheten og salgsvirksomheten til sluttbruker i selskaper som er atskilte skattesubjekter. Samlet prispåslag kan likevel ikke overstige 2,5 øre/kWh.
 
@@ -5108,11 +5806,30 @@ Denne forskrift trer i kraft 1. januar 2000.
 
 (1) Deltaker som fikk en høyere skattemessig verdi på sin andel som følge av overgang fra bruttoligning til nettoligning ved innføring av reglene i den tidligere [selskapsskatteloven av 20. juli 1991 nr. 65 kapittel 6](lov/1991-07-20-65/kap6), skal inntektsføre slike differanser etter reglene i denne paragraf. Deltaker som fikk en lavere skattemessig verdi på sin andel som følge av overgang fra bruttoligning til nettoligning, kan fradragsføre slike differanser etter reglene i denne paragraf.
 
-(2) Differansene føres på særskilte differansesaldi inndelt i følgende grupper:kontormaskiner og lignendeervervet forretningsverdivogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmedepersonbiler, traktorer, andre rullende maskiner og materiell, andre maskiner, redskap, instrumenter, inventar mv.skip, fartøyer, rigger mv.fly, helikopterbygg og anlegg, hoteller, losjihus, bevertningssteder mv.forretningsbyggikke avskrivbare eiendeler.
+(2) Differansene føres på særskilte differansesaldi inndelt i følgende grupper:
+
+1. kontormaskiner og lignende
+2. ervervet forretningsverdi
+3. vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede
+4. personbiler, traktorer, andre rullende maskiner og materiell, andre maskiner, redskap, instrumenter, inventar mv.
+5. skip, fartøyer, rigger mv.
+6. fly, helikopter
+7. bygg og anlegg, hoteller, losjihus, bevertningssteder mv.
+8. forretningsbygg
+9. ikke avskrivbare eiendeler.
 
 (3) Hver saldo etter annet ledd er eget grunnlag for inntekts- eller fradragsføring. Årets saldo består av saldo etter forrige års inntekts- eller fradragsføring.
 
-(4) Differanser til inntektsføring inntektsføres med minst de satsene som er nevnt i a – h. Differanser til fradragsføring kan fradragsføres med inntil de satsene som er nevnt i a – h:kontormaskiner og lignende, 30 prosentervervet forretningsverdi, 30 prosentvogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede, 25 prosentpersonbiler, traktorer, andre rullende maskiner og materiell, andre maskiner, redskap, instrumenter, inventar mv., 20 prosentskip, fartøyer, rigger mv., 20 prosentfly, helikopter, 12 prosentbygg og anlegg, hoteller, losjihus, bevertningssteder mv., 5 prosentforretningsbygg, 2 prosent.
+(4) Differanser til inntektsføring inntektsføres med minst de satsene som er nevnt i a – h. Differanser til fradragsføring kan fradragsføres med inntil de satsene som er nevnt i a – h:
+
+1. kontormaskiner og lignende, 30 prosent
+2. ervervet forretningsverdi, 30 prosent
+3. vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede, 25 prosent
+4. personbiler, traktorer, andre rullende maskiner og materiell, andre maskiner, redskap, instrumenter, inventar mv., 20 prosent
+5. skip, fartøyer, rigger mv., 20 prosent
+6. fly, helikopter, 12 prosent
+7. bygg og anlegg, hoteller, losjihus, bevertningssteder mv., 5 prosent
+8. forretningsbygg, 2 prosent.
 
 (5) Differanser som gjelder ikke avskrivbare eiendeler, jf. annet ledd i, skal ikke inntekts- eller fradragsføres etter denne paragraf.
 
@@ -5120,7 +5837,10 @@ Denne forskrift trer i kraft 1. januar 2000.
 
 (7) Realiserer selskapet driftsmiddel som nevnt i [skatteloven § 14-41](lov/1999-03-26-14/§14-41) første ledd a – d, får dette ingen virkning for inntekts- eller fradragsføring av differansesaldi knyttet til driftsmidlet etter annet ledd a – d. Realiserer selskapet driftsmiddel som nevnt i [skatteloven § 14-41](lov/1999-03-26-14/§14-41) første ledd e – h eller ikke-avskrivbart driftsmiddel, skal differansesaldo til inntektsføring etter annet ledd e – i tas til inntekt, mens differansesaldo til fradragsføring kan føres til fradrag. Slik inntekts- og fradragsføring gjøres ved at beløpet føres på skattyterens gevinst- og tapskonto.
 
-(8) Behandling av differansesaldi ved realisasjon og annen overdragelse av selskapsandel behandles på følgende måte:Dersom deltakeren realiserer andel i selskapet, skal deltakerens gjenstående differansesaldo til inntekts- eller fradragsføring behandles henholdsvis som under- eller overpris ved gevinst- eller tapsoppgjøret etter [skatteloven § 10-44](lov/1999-03-26-14/§10-44).Dersom deltakeren overdrar andel i selskapet på annen måte enn nevnt i a, skal deltakerens gjenstående differansesaldo derfra overføres til deltakerens gevinst- og tapskonto vedrørende selskapet og følge reglene i [skatteloven § 14-45](lov/1999-03-26-14/§14-45).
+(8) Behandling av differansesaldi ved realisasjon og annen overdragelse av selskapsandel behandles på følgende måte:
+
+1. Dersom deltakeren realiserer andel i selskapet, skal deltakerens gjenstående differansesaldo til inntekts- eller fradragsføring behandles henholdsvis som under- eller overpris ved gevinst- eller tapsoppgjøret etter [skatteloven § 10-44](lov/1999-03-26-14/§10-44).
+2. Dersom deltakeren overdrar andel i selskapet på annen måte enn nevnt i a, skal deltakerens gjenstående differansesaldo derfra overføres til deltakerens gevinst- og tapskonto vedrørende selskapet og følge reglene i [skatteloven § 14-45](lov/1999-03-26-14/§14-45).
 
 (9) Differansesaldo til inntektsføring skal inntektsføres i sin helhet når saldoen er mindre enn 15.000 kroner. Differansesaldo til fradragsføring kan fradragsføres i sin helhet når saldoen er mindre enn 15.000 kroner.
 
@@ -5130,12 +5850,19 @@ Denne forskrift trer i kraft 1. januar 2000.
 
 ### § 21-2-2. Særlig om differanser i norsk-kontrollerte selskaper hjemmehørende i lavskatteland (jf. skatteloven § 19-2 annet ledd e)
 
-Aksjonær som fikk andel i høyere eller lavere skattemessige verdier ved innføringen av reglene i den tidligere [selskapsskatteloven av 20. juli 1991 nr. 65 kapittel 7](lov/1991-07-20-65/kap7), inntekts- eller fradragsfører differansen ved overføring til gevinst- og tapskonto, jf. [skatteloven § 14-45](lov/1999-03-26-14/§14-45). Ved realisasjon av aksjene eller ved opphør av skatteplikt etter bestemmelsene i [skatteloven § 10-60](lov/1999-03-26-14/§10-60) til [§ 10-68](lov/1999-03-26-14/§10-68), behandles differansene på følgende måte:Ved realisasjon av aksjene eller ved opphør av skatteplikt etter bestemmelsene i [skatteloven § 10-60](lov/1999-03-26-14/§10-60) til [§ 10-68](lov/1999-03-26-14/§10-68), faller gjenværende differanser bort.Realiseres bare en del av aksjene, faller en forholdsmessig del av differansene bort.Ved realisasjon av aksjer, skal inntektsført differanse legges til aksjenes inngangsverdi. Tilsvarende skal fradragsført differanse trekkes fra inngangsverdien.
+Aksjonær som fikk andel i høyere eller lavere skattemessige verdier ved innføringen av reglene i den tidligere [selskapsskatteloven av 20. juli 1991 nr. 65 kapittel 7](lov/1991-07-20-65/kap7), inntekts- eller fradragsfører differansen ved overføring til gevinst- og tapskonto, jf. [skatteloven § 14-45](lov/1999-03-26-14/§14-45). Ved realisasjon av aksjene eller ved opphør av skatteplikt etter bestemmelsene i [skatteloven § 10-60](lov/1999-03-26-14/§10-60) til [§ 10-68](lov/1999-03-26-14/§10-68), behandles differansene på følgende måte:
+
+1. Ved realisasjon av aksjene eller ved opphør av skatteplikt etter bestemmelsene i [skatteloven § 10-60](lov/1999-03-26-14/§10-60) til [§ 10-68](lov/1999-03-26-14/§10-68), faller gjenværende differanser bort.
+2. Realiseres bare en del av aksjene, faller en forholdsmessig del av differansene bort.
+3. Ved realisasjon av aksjer, skal inntektsført differanse legges til aksjenes inngangsverdi. Tilsvarende skal fradragsført differanse trekkes fra inngangsverdien.
 
 > Endret ved [forskrift 18 des 2018 nr. 2130](forskrift/2018-12-18-2130) (i kraft 1 jan 2019 med virkning fra inntektsåret 2019, tidligere § 19-2-2), [18 des 2023 nr. 2098](forskrift/2023-12-18-2098) (tidligere § 20-2-2).
 
 ### § 21-2-3. Utfyllende bestemmelser til skatteloven § 19-2 tredje ledd e
 
-Reglene i [skatteloven § 19-2](lov/1999-03-26-14/§19-2) tredje ledd e siste punktum om 50 prosent fradrag i inngangsverdien får også virkning for aksjer som ble ervervet i investeringsselskaper og aksjefond som:var skattepliktige til en kommune i et område som pr. 31. desember 1992 var omfattet av [distriktsskatteloven § 10](lov/1969-06-19-72/§10) med forskrift, ogutelukkende har til formål å investere i samme område.
+Reglene i [skatteloven § 19-2](lov/1999-03-26-14/§19-2) tredje ledd e siste punktum om 50 prosent fradrag i inngangsverdien får også virkning for aksjer som ble ervervet i investeringsselskaper og aksjefond som:
+
+1. var skattepliktige til en kommune i et område som pr. 31. desember 1992 var omfattet av [distriktsskatteloven § 10](lov/1969-06-19-72/§10) med forskrift, og
+2. utelukkende har til formål å investere i samme område.
 
 > Endret ved [forskrift 18 des 2018 nr. 2130](forskrift/2018-12-18-2130) (i kraft 1 jan 2019 med virkning fra inntektsåret 2019, tidligere § 19-2-3), [18 des 2023 nr. 2098](forskrift/2023-12-18-2098) (tidligere § 20-2-3).

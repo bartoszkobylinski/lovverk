@@ -15,7 +15,7 @@ xml_hash: "e9a40f56980261e5909f1298bbc8b073d47a1f724666ecea9b969bdfc45a9015"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,13 @@ Direktoratet fatter vedtak om spesialistgodkjenning, godkjenning eller registrer
 
 ### § 4. De regionale helseforetakene
 
-De regionale helseforetakene skal sørge for at regionens behov for utdanning av spesialister til spesialisthelsetjenesten blir dekket. Dette innebærer blant annet å sørge forat det er tilstrekkelig med stillinger for å sikre nødvendig tilgang på spesialisterat det tilbys stillinger for å kunne ta sykehusdelen av utdanningens første delat det legges til rette for helhetlige utdanningsløp for utdanningens andre og tredje del i sykehusspesialitetene på tvers av helseforetak, private aktører, andre aktuelle aktører og eventuelle læringsarenaer i primærhelsetjenestenat det opprettes regionale utdanningssentra som skal ha ansvar for å utvikle og gjennomføre læringsaktivitetersamarbeid med andre regionale helseforetak for å bidra til en samordnet og harmonisert utdanning i hele landet.
+De regionale helseforetakene skal sørge for at regionens behov for utdanning av spesialister til spesialisthelsetjenesten blir dekket. Dette innebærer blant annet å sørge for
+
+1. at det er tilstrekkelig med stillinger for å sikre nødvendig tilgang på spesialister
+2. at det tilbys stillinger for å kunne ta sykehusdelen av utdanningens første del
+3. at det legges til rette for helhetlige utdanningsløp for utdanningens andre og tredje del i sykehusspesialitetene på tvers av helseforetak, private aktører, andre aktuelle aktører og eventuelle læringsarenaer i primærhelsetjenesten
+4. at det opprettes regionale utdanningssentra som skal ha ansvar for å utvikle og gjennomføre læringsaktiviteter
+5. samarbeid med andre regionale helseforetak for å bidra til en samordnet og harmonisert utdanning i hele landet.
 
 De regionale helseforetakene skal også legge til rette for at leger i spesialisering i allmennmedisin, kan få nødvendig praktisk tjeneste i spesialisthelsetjenesten.
 
@@ -80,13 +86,20 @@ De regionale helseforetakene skal også legge til rette for at leger i spesialis
 
 Kommunen har for utdanningens første del ansvar for utdanningen i den kommunale helse- og omsorgstjenesten etter [§ 17](forskrift/2016-12-08-1482/§17).
 
-Kommunen har for spesialistutdanningen i allmennmedisin ansvar for å legge til rette for utdanningen av spesialister. Dette innebærer blant annet å bidra tilat spesialistutdanningen gjennomføres i åpen uselektert allmennpraksis og kommunale stillinger der det ytes tjenester i medhold av helse- og omsorgstjenesteloven, slik at det blir nødvendig tilgang på spesialister i allmennmedisinhelhetlige utdanningsløp på tvers av kommuner, private aktører, andre aktuelle aktører og læringsarenaer i spesialisthelsetjenesten. Dette gjelder også på tvers av ulike læringsarenaer i kommunen der det ytes tjenester i medhold av helse- og omsorgstjenestelovensamarbeid med andre kommuner for å oppnå en samordnet og harmonisert utdanning på tvers av kommunegrenser.
+Kommunen har for spesialistutdanningen i allmennmedisin ansvar for å legge til rette for utdanningen av spesialister. Dette innebærer blant annet å bidra til
+
+1. at spesialistutdanningen gjennomføres i åpen uselektert allmennpraksis og kommunale stillinger der det ytes tjenester i medhold av helse- og omsorgstjenesteloven, slik at det blir nødvendig tilgang på spesialister i allmennmedisin
+2. helhetlige utdanningsløp på tvers av kommuner, private aktører, andre aktuelle aktører og læringsarenaer i spesialisthelsetjenesten. Dette gjelder også på tvers av ulike læringsarenaer i kommunen der det ytes tjenester i medhold av helse- og omsorgstjenesteloven
+3. samarbeid med andre kommuner for å oppnå en samordnet og harmonisert utdanning på tvers av kommunegrenser.
 
 > Tilføyd ved [forskrift 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019).
 
 ### § 6. Legeforeningen
 
-Legeforeningens spesialitetskomiteer kan gi faglige råd til Helsedirektoratet i saker om spesialistutdanning og spesialistgodkjenning. Helsedirektoratet skal be om råd vedutarbeidelse av forslag til endringer i forskriftens vedlegg 2 om læringsmål og til anbefalinger om læringsaktivitetergodkjenning og vurdering av utdanningsvirksomheter som omfattes av [§ 19](forskrift/2016-12-08-1482/§19) første ledd.
+Legeforeningens spesialitetskomiteer kan gi faglige råd til Helsedirektoratet i saker om spesialistutdanning og spesialistgodkjenning. Helsedirektoratet skal be om råd ved
+
+1. utarbeidelse av forslag til endringer i forskriftens vedlegg 2 om læringsmål og til anbefalinger om læringsaktiviteter
+2. godkjenning og vurdering av utdanningsvirksomheter som omfattes av [§ 19](forskrift/2016-12-08-1482/§19) første ledd.
 
 Legeforeningen kan ivareta læringsaktiviteter i tråd med læringsmålene for spesialistutdanningen i allmennmedisin, samfunnsmedisin og arbeidsmedisin.
 
@@ -114,7 +127,10 @@ For leger i spesialisering tilknyttet registrerte utdanningsvirksomheter, skal u
 
 ### § 9. Generelle vilkår for tiltredelse
 
-Arbeidsgiveren skal påse at leger som tiltrer i stillinger for leger i spesialisering harautorisasjon eller lisens etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) eller [§ 49](lov/1999-07-02-64/§49)tilstrekkelige språkkunnskaper for en forsvarlig yrkesutøvelse.
+Arbeidsgiveren skal påse at leger som tiltrer i stillinger for leger i spesialisering har
+
+1. autorisasjon eller lisens etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) eller [§ 49](lov/1999-07-02-64/§49)
+2. tilstrekkelige språkkunnskaper for en forsvarlig yrkesutøvelse.
 
 Tilsvarende gjelder for en registrert utdanningsvirksomhet som skal ansette lege eller inngå avtale med lege som skal gjennomføre spesialistutdanning.
 
@@ -152,7 +168,10 @@ Stillinger opprettet etter [§ 11 tredje ledd](forskrift/2016-12-08-1482/§11/le
 
 ### § 13. Kobling av stillinger i utdanningens første del
 
-Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut stillinger koblet, slik at den som ansettes får gjennomført hele utdanningens første del innenfor en utlyst stilling. Helsedirektoratet kan pålegge helseforetak, sykehus og kommuner å lyse ut koblete stillinger. Stillingene i sykehuset og i kommunen er to ulike ansettelsesforhold. Stillingene kan kobles på en av følgende måter:Søkeren ansettes samtidig i en stilling ved et sykehus eller et helseforetak, og i en stilling i en bestemt kommune.Søkeren ansettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal ansettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
+Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut stillinger koblet, slik at den som ansettes får gjennomført hele utdanningens første del innenfor en utlyst stilling. Helsedirektoratet kan pålegge helseforetak, sykehus og kommuner å lyse ut koblete stillinger. Stillingene i sykehuset og i kommunen er to ulike ansettelsesforhold. Stillingene kan kobles på en av følgende måter:
+
+1. Søkeren ansettes samtidig i en stilling ved et sykehus eller et helseforetak, og i en stilling i en bestemt kommune.
+2. Søkeren ansettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal ansettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
 
 > Endret ved [forskrift 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 11).
 
@@ -190,7 +209,14 @@ Misligholder kommunen sine forpliktelser etter forskriften, kan Helsedirektorate
 
 ### § 17. Ansvaret for utdanningen i den kommunale helse- og omsorgstjenesten i utdanningens første del
 
-For en lege som gjennomfører praktisk tjeneste i den kommunale helse- og omsorgstjenesten som en del av utdanningens første del, skal kommunenlegge til rette for læringsaktiviteter slik at legen kan oppnå læringsmålene knyttet til denne delen av utdanningensørge for at legen får nødvendig veiledning og supervisjonsørge for at det oppnevnes en individuell veileder for den enkelte legesørge for at den enkelte lege får løpende vurdering av om læringsmålene er oppnåddsørge for at oppnådde læringsmål dokumenteresutstede bekreftelse på gjennomført praktisk tjeneste.
+For en lege som gjennomfører praktisk tjeneste i den kommunale helse- og omsorgstjenesten som en del av utdanningens første del, skal kommunen
+
+1. legge til rette for læringsaktiviteter slik at legen kan oppnå læringsmålene knyttet til denne delen av utdanningen
+2. sørge for at legen får nødvendig veiledning og supervisjon
+3. sørge for at det oppnevnes en individuell veileder for den enkelte lege
+4. sørge for at den enkelte lege får løpende vurdering av om læringsmålene er oppnådd
+5. sørge for at oppnådde læringsmål dokumenteres
+6. utstede bekreftelse på gjennomført praktisk tjeneste.
 
 Kommunen kan inngå avtaler med fastlegekontorer for gjennomføring av praktisk tjeneste i den kommunale helse- og omsorgstjenesten.
 
@@ -238,7 +264,23 @@ Når en virksomhet blir registrert, skal virksomheten regnes som registrert fra 
 
 ### § 22. Godkjente utdanningsvirksomheters ansvar for utdanningen
 
-Den godkjente utdanningsvirksomheten skal sørge for at utdanningen av spesialister i virksomheten skjer innen faglig forsvarlige rammer og på en måte som sikrer tilstrekkelig kvalitet og gjennomstrømning i utdanningsløpet. Virksomheten skal blant annetha en eller flere ansatte spesialister for hver av spesialitetene det søkes godkjenning for, og der minst halvparten av spesialistene skal være fast ansattedokumentere hvordan arbeidet med spesialistutdanningen er organisert og hvordan ansvaret er plassert på alle nivåene i virksomheten, blant annet hvordan fagmiljøet og leger i spesialisering sikres innflytelse på utformingen av utdanningstilbudetdokumentere at pasientgrunnlaget, klinisk og akademisk kompetanse, medisinskfaglige aktiviteter og forskningsaktiviteter er tilstrekkelige i forhold til læringsmålene og antall leger i spesialisering i virksomhetenlegge til rette for læringsaktiviteter slik at legene i spesialisering kan oppnå læringsmåleneutarbeide en plan for hver av spesialitetene det søkes godkjenning for. Planen skal blant annet inneholde opplysninger omhvilke læringsmål virksomheten kan oppfyllehvilke læringsarenaer innenfor virksomheten som kan tilby de ulike læringsmålenehvilke læringsmål som kan tilbys ved andre virksomheter gjennom avtalerhvordan det vil legges til rette for supervisjon på de enkelte læringsarenaenehvordan veiledningen og vurderingen organiseres og gjennomføres i virksomhetenhvordan virksomhetens spesialister skal benyttes i supervisjonenhvordan teoretisk undervisning inngår som del av spesialistutdanningen knyttet til de enkelte læringsmålenehvordan forskning inngår som en del av spesialistutdanningenhvordan virksomhetens akademiske og kliniske kompetanse skal benyttes for å oppnå læringsmålene knyttet til forskning.
+Den godkjente utdanningsvirksomheten skal sørge for at utdanningen av spesialister i virksomheten skjer innen faglig forsvarlige rammer og på en måte som sikrer tilstrekkelig kvalitet og gjennomstrømning i utdanningsløpet. Virksomheten skal blant annet
+
+1. ha en eller flere ansatte spesialister for hver av spesialitetene det søkes godkjenning for, og der minst halvparten av spesialistene skal være fast ansatte
+2. dokumentere hvordan arbeidet med spesialistutdanningen er organisert og hvordan ansvaret er plassert på alle nivåene i virksomheten, blant annet hvordan fagmiljøet og leger i spesialisering sikres innflytelse på utformingen av utdanningstilbudet
+3. dokumentere at pasientgrunnlaget, klinisk og akademisk kompetanse, medisinskfaglige aktiviteter og forskningsaktiviteter er tilstrekkelige i forhold til læringsmålene og antall leger i spesialisering i virksomheten
+4. legge til rette for læringsaktiviteter slik at legene i spesialisering kan oppnå læringsmålene
+5. utarbeide en plan for hver av spesialitetene det søkes godkjenning for. Planen skal blant annet inneholde opplysninger om
+
+   - hvilke læringsmål virksomheten kan oppfylle
+   - hvilke læringsarenaer innenfor virksomheten som kan tilby de ulike læringsmålene
+   - hvilke læringsmål som kan tilbys ved andre virksomheter gjennom avtaler
+   - hvordan det vil legges til rette for supervisjon på de enkelte læringsarenaene
+   - hvordan veiledningen og vurderingen organiseres og gjennomføres i virksomheten
+   - hvordan virksomhetens spesialister skal benyttes i supervisjonen
+   - hvordan teoretisk undervisning inngår som del av spesialistutdanningen knyttet til de enkelte læringsmålene
+   - hvordan forskning inngår som en del av spesialistutdanningen
+   - hvordan virksomhetens akademiske og kliniske kompetanse skal benyttes for å oppnå læringsmålene knyttet til forskning.
 
 Ved opprettelse av nye spesialiteter, kan Helsedirektoratet etter søknad fra utdanningsvirksomhet gi tidsavgrenset fritak fra kravene i første ledd bokstav a om å ha ansatte spesialister. Det kan stilles vilkår ved fritaket.
 
@@ -246,7 +288,16 @@ Ved opprettelse av nye spesialiteter, kan Helsedirektoratet etter søknad fra ut
 
 ### § 23. Registrerte utdanningsvirksomheters ansvar for utdanningen
 
-Den registrerte utdanningsvirksomheten skal legge til rette for at utdanningen av spesialister skjer innen faglig forsvarlige rammer og på en måte som sikrer tilstrekkelig kvalitet og gjennomstrømming i utdanningsløpet. Virksomheten skal blant annetlegge til rette for helhetlige utdanningsløplegge til rette for læringsaktiviteter slik at legene i spesialisering kan oppnå læringsmålenedokumentere hvordan arbeidet med spesialistutdanningen er organisert og hvordan ansvaret er plassert i virksomhetenutarbeide en plan for spesialistutdanningen. Planen skal blant annet inneholde opplysninger omhvilke læringsarenaer som kan tilby de ulike læringsmålenehvordan veiledningen og vurderingen organiseres og gjennomføreshvordan det legges til rette for supervisjon.
+Den registrerte utdanningsvirksomheten skal legge til rette for at utdanningen av spesialister skjer innen faglig forsvarlige rammer og på en måte som sikrer tilstrekkelig kvalitet og gjennomstrømming i utdanningsløpet. Virksomheten skal blant annet
+
+1. legge til rette for helhetlige utdanningsløp
+2. legge til rette for læringsaktiviteter slik at legene i spesialisering kan oppnå læringsmålene
+3. dokumentere hvordan arbeidet med spesialistutdanningen er organisert og hvordan ansvaret er plassert i virksomheten
+4. utarbeide en plan for spesialistutdanningen. Planen skal blant annet inneholde opplysninger om
+
+   - hvilke læringsarenaer som kan tilby de ulike læringsmålene
+   - hvordan veiledningen og vurderingen organiseres og gjennomføres
+   - hvordan det legges til rette for supervisjon.
 
 > Tilføyd ved [forskrift 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019).
 
@@ -258,7 +309,13 @@ Godkjente utdanningsvirksomheter skal gjennomføre internundervisning i minimum 
 
 ### § 25. Utdanningsvirksomhetenes ansvar for utdanningsløpet til den enkelte lege
 
-Overfor den enkelte lege i spesialisering skal utdanningsvirksomheten legge til rette for at legen skal kunne oppnå læringsmålene og gjennomføre et utdanningsløp for henholdsvis utdanningens første del og for utdanningens andre og tredje del. Virksomheten skal blant annetsørge for at det utarbeides en individuell utdanningsplan med et utdanningsløp i samråd med legen og at planen revideres ved behovlegge til rette for at utdanningen kan skje etter den individuelle planenlegge til rette for at legen får nødvendig veiledning og supervisjonoppnevne en individuell veilederutstede bekreftelse på gjennomført praktisk tjeneste.
+Overfor den enkelte lege i spesialisering skal utdanningsvirksomheten legge til rette for at legen skal kunne oppnå læringsmålene og gjennomføre et utdanningsløp for henholdsvis utdanningens første del og for utdanningens andre og tredje del. Virksomheten skal blant annet
+
+1. sørge for at det utarbeides en individuell utdanningsplan med et utdanningsløp i samråd med legen og at planen revideres ved behov
+2. legge til rette for at utdanningen kan skje etter den individuelle planen
+3. legge til rette for at legen får nødvendig veiledning og supervisjon
+4. oppnevne en individuell veileder
+5. utstede bekreftelse på gjennomført praktisk tjeneste.
 
 Ved spesialistutdanning ved godkjente utdanningsvirksomheter skal veilederen som oppnevnes etter første ledd bokstav d, være ansatt i en godkjent utdanningsvirksomhet. Tilsvarende gjelder ikke ved spesialistutdanning tilknyttet registrerte utdanningsvirksomheter.
 
@@ -308,7 +365,11 @@ Dersom virksomheten ikke oppfyller kravene skal Helsedirektoratet følge opp vir
 
 ### § 29. Spesialistgodkjenning
 
-Helsedirektoratet skal gi spesialistgodkjenning etter søknad fra legen dersom følgende vilkår er oppfylt:Det er dokumentert at læringsmålene for utdanningens første del og for den aktuelle spesialiteten i forskriftens vedlegg 2 er oppnådd.Utdanningen er gjennomført i samsvar med [§ 2](forskrift/2016-12-08-1482/§2).Legen har autorisasjon etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a).
+Helsedirektoratet skal gi spesialistgodkjenning etter søknad fra legen dersom følgende vilkår er oppfylt:
+
+1. Det er dokumentert at læringsmålene for utdanningens første del og for den aktuelle spesialiteten i forskriftens vedlegg 2 er oppnådd.
+2. Utdanningen er gjennomført i samsvar med [§ 2](forskrift/2016-12-08-1482/§2).
+3. Legen har autorisasjon etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a).
 
 Søknaden kan avslås dersom det foreligger forhold som ville gitt grunn til å tilbakekalle spesialistgodkjenningen etter [helsepersonelloven § 57](lov/1999-07-02-64/§57).
 
@@ -318,7 +379,11 @@ Ved innføring av en ny legespesialitet, kan Helsedirektoratet gi spesialistgodk
 
 ### § 30. Behandling av søknader
 
-Helsedirektoratet kan fastsette atdet skal søkes på en bestemt måteoppnådde læringsmål og gjennomført praktisk tjeneste skal dokumenteres på en bestemt måtesøkeren skal betale fastsatt gebyr før søknaden behandles.
+Helsedirektoratet kan fastsette at
+
+1. det skal søkes på en bestemt måte
+2. oppnådde læringsmål og gjennomført praktisk tjeneste skal dokumenteres på en bestemt måte
+3. søkeren skal betale fastsatt gebyr før søknaden behandles.
 
 > Endret ved [forskrift 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 25).
 
@@ -328,9 +393,16 @@ Samlet utdanningstid, jf. kravet om minste utdanningstid på seks og et halvt å
 
 Dersom legen har hatt tjeneste på deltid under utdanningen skal utdanningstiden forkortes tilsvarende.
 
-Følgende fravær skal telle med ved beregningen av utdanningstiden:deltakelse på kurs eller liknende fravær som er relatert til utdanningenlovfestet eller tariffestet ferie, med unntak av overført ferie eller forskuddsferie.
+Følgende fravær skal telle med ved beregningen av utdanningstiden:
 
-Fravær som ikke omfattes av tredje ledd skal komme til fratrekk ved beregning av utdanningstiden, for den andelen som utgjør mer enntolv dager av utdanningstiden i spesialisthelsetjenesten i utdanningens første delseks dager av utdanningstiden i den kommunale helse- og omsorgstjenesten i utdanningens første delti prosent av utdanningstiden i utdanningens resterende del.
+1. deltakelse på kurs eller liknende fravær som er relatert til utdanningen
+2. lovfestet eller tariffestet ferie, med unntak av overført ferie eller forskuddsferie.
+
+Fravær som ikke omfattes av tredje ledd skal komme til fratrekk ved beregning av utdanningstiden, for den andelen som utgjør mer enn
+
+1. tolv dager av utdanningstiden i spesialisthelsetjenesten i utdanningens første del
+2. seks dager av utdanningstiden i den kommunale helse- og omsorgstjenesten i utdanningens første del
+3. ti prosent av utdanningstiden i utdanningens resterende del.
 
 For fravær som er en følge av covid-19-utbruddet gjelder ikke fjerde ledd bokstav a og b. Slikt fravær skal ikke komme til fratrekk ved beregningen av utdanningstiden i utdanningens første del.
 
@@ -378,9 +450,24 @@ Departementet fastsetter nærmere regler om gjennomføringen av spesialistutdann
 
 ### § 35. Klage på Helsedirektoratets vedtak
 
-Statens helsepersonellnemnd er klageinstans for vedtak om avslag på søknad omspesialistgodkjenning etter [§ 29](forskrift/2016-12-08-1482/§29), [§ 33](forskrift/2016-12-08-1482/§33) og [§ 34](forskrift/2016-12-08-1482/§34)bekreftelse av oppnådde læringsmål etter [§ 32](forskrift/2016-12-08-1482/§32) andre ledd.
+Statens helsepersonellnemnd er klageinstans for vedtak om avslag på søknad om
 
-Nasjonalt klageorgan for helse- og omsorgstjenesten (Helseklage) er klageinstans for vedtak omfritak fra kravet om en arbeidstid tilsvarende minst 50 prosent av heltid etter [§ 8](forskrift/2016-12-08-1482/§8) fjerde ledd femte punktumpålegg om å ansette i utdanningens første del etter [§ 11](forskrift/2016-12-08-1482/§11) andre leddavslag på søknad etter [§ 12](forskrift/2016-12-08-1482/§12) tredje ledd tredje punktumkobling av stillinger etter [§ 13](forskrift/2016-12-08-1482/§13)pålegg til kommunen om ny stilling etter [§ 14](forskrift/2016-12-08-1482/§14) sjette ledd tredje punktumtilskudd til kommunene etter [§ 16](forskrift/2016-12-08-1482/§16)avslag på søknad om tidsavgrenset fritak fra kravene om å ha ansatte spesialister etter [§ 22](forskrift/2016-12-08-1482/§22) andre leddavslag på søknad om tidsavgrenset fritak fra kravet om at veilederen for lege under spesialistutdanning i allmennmedisin, samfunnsmedisin og arbeidsmedisin skal være godkjent spesialist i den aktuelle spesialiteten etter [§ 25](forskrift/2016-12-08-1482/§25) fjerde leddavslag på søknad om tidsavgrenset fritak fra kravet om at veilederen skal være godkjent spesialist etter [§ 25](forskrift/2016-12-08-1482/§25) femte leddavslag om eller tilbaketrekning av godkjenning av utdanningsvirksomhet etter [§ 20](forskrift/2016-12-08-1482/§20) første ledd første punktum eller [§ 27](forskrift/2016-12-08-1482/§27) andre ledd første punktumavslag på registrering av utdanningsvirksomhet etter [§ 21](forskrift/2016-12-08-1482/§21) første ledd.
+1. spesialistgodkjenning etter [§ 29](forskrift/2016-12-08-1482/§29), [§ 33](forskrift/2016-12-08-1482/§33) og [§ 34](forskrift/2016-12-08-1482/§34)
+2. bekreftelse av oppnådde læringsmål etter [§ 32](forskrift/2016-12-08-1482/§32) andre ledd.
+
+Nasjonalt klageorgan for helse- og omsorgstjenesten (Helseklage) er klageinstans for vedtak om
+
+1. fritak fra kravet om en arbeidstid tilsvarende minst 50 prosent av heltid etter [§ 8](forskrift/2016-12-08-1482/§8) fjerde ledd femte punktum
+2. pålegg om å ansette i utdanningens første del etter [§ 11](forskrift/2016-12-08-1482/§11) andre ledd
+3. avslag på søknad etter [§ 12](forskrift/2016-12-08-1482/§12) tredje ledd tredje punktum
+4. kobling av stillinger etter [§ 13](forskrift/2016-12-08-1482/§13)
+5. pålegg til kommunen om ny stilling etter [§ 14](forskrift/2016-12-08-1482/§14) sjette ledd tredje punktum
+6. tilskudd til kommunene etter [§ 16](forskrift/2016-12-08-1482/§16)
+7. avslag på søknad om tidsavgrenset fritak fra kravene om å ha ansatte spesialister etter [§ 22](forskrift/2016-12-08-1482/§22) andre ledd
+8. avslag på søknad om tidsavgrenset fritak fra kravet om at veilederen for lege under spesialistutdanning i allmennmedisin, samfunnsmedisin og arbeidsmedisin skal være godkjent spesialist i den aktuelle spesialiteten etter [§ 25](forskrift/2016-12-08-1482/§25) fjerde ledd
+9. avslag på søknad om tidsavgrenset fritak fra kravet om at veilederen skal være godkjent spesialist etter [§ 25](forskrift/2016-12-08-1482/§25) femte ledd
+10. avslag om eller tilbaketrekning av godkjenning av utdanningsvirksomhet etter [§ 20](forskrift/2016-12-08-1482/§20) første ledd første punktum eller [§ 27](forskrift/2016-12-08-1482/§27) andre ledd første punktum
+11. avslag på registrering av utdanningsvirksomhet etter [§ 21](forskrift/2016-12-08-1482/§21) første ledd.
 
 > Endret ved [forskrifter 16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017), [19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 30).
 
@@ -398,9 +485,17 @@ Leger som per 1. mars 2017 ikke er ansatt eller ikke har fått tilbud om ansette
 
 Norsk spesialistgodkjenning som er gitt etter tidligere regler beholdes.
 
-For leger som per 1. mars 2019 er under spesialisering gjelder, med unntak for spesialisering i allmennmedisin, samfunnsmedisin og arbeidsmedisin, følgende overgangsregler:Legene har rett til å få en vurdering av oppnådde læringsmål på bakgrunn av kompetanse oppnådd ved tjeneste og andre læringsaktiviteter som allerede er gjennomført etter [forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger. Utdanningsvirksomheten der legen er ansatt eller utdanningsvirksomheten legen er tilknyttet, skal sørge for at oppnådde læringsmål vurderes og dokumenteres innen 31. desember 2023. For leger som da er i permisjon eller har annet fravær fra tjenesten, er fristen seks måneder etter at legen er tilbake i tjenesten.Praktisk tjeneste i utdanningsstilling før 1. mars 2019 skal telle med i beregningen av samlet utdanningstid etter [§ 31](forskrift/2016-12-08-1482/§31).Leger som per 1. mars 2019 har mindre enn tre år igjen av spesialistutdanningen, kan søke om spesialistgodkjenning etter [forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger.
+For leger som per 1. mars 2019 er under spesialisering gjelder, med unntak for spesialisering i allmennmedisin, samfunnsmedisin og arbeidsmedisin, følgende overgangsregler:
 
-For leger som per 1. mars 2019 er under spesialisering i allmennmedisin, samfunnsmedisin og arbeidsmedisin gjelder følgende overgangsregler:Leger har rett til å gjennomføre spesialistutdanningen i allmennmedisin og samfunnsmedisin og søke om spesialistgodkjenning etter tidligere ordning dersom de søker om spesialistgodkjenning innen 31. desember 2026. For arbeidsmedisin er fristen 31. desember 2028.Dersom legen og virksomheten legen er tilknyttet blir enige om at legen skal gå over i ny ordning for spesialistutdanning, kan legen gjennomføre resten av spesialistutdanningen og søke om spesialistgodkjenning etter denne forskriften. Virksomheten må i så fall oppfylle kravene etter denne forskriften for den gjenstående delen av spesialistutdanningen. Legen får i så fall rett til en vurdering av oppnådde læringsmål på bakgrunn av kompetanse oppnådd ved tjeneste og andre læringsaktiviteter som allerede er gjennomført etter påbegynt ordning for spesialistutdanning. Virksomheten skal sørge for at oppnådde læringsmål vurderes og dokumenteres innen 31. desember 2023. For leger som da er i permisjon eller har annet fravær fra tjenesten, er fristen seks måneder etter at legen er tilbake i tjenesten.Når leger gjennomfører resten av spesialistutdanningen etter denne forskriften, skal praktisk tjeneste gjennomført under spesialisering før 1. mars 2019 telle med i beregningen av samlet utdanningstid etter [§ 31](forskrift/2016-12-08-1482/§31).
+1. Legene har rett til å få en vurdering av oppnådde læringsmål på bakgrunn av kompetanse oppnådd ved tjeneste og andre læringsaktiviteter som allerede er gjennomført etter [forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger. Utdanningsvirksomheten der legen er ansatt eller utdanningsvirksomheten legen er tilknyttet, skal sørge for at oppnådde læringsmål vurderes og dokumenteres innen 31. desember 2023. For leger som da er i permisjon eller har annet fravær fra tjenesten, er fristen seks måneder etter at legen er tilbake i tjenesten.
+2. Praktisk tjeneste i utdanningsstilling før 1. mars 2019 skal telle med i beregningen av samlet utdanningstid etter [§ 31](forskrift/2016-12-08-1482/§31).
+3. Leger som per 1. mars 2019 har mindre enn tre år igjen av spesialistutdanningen, kan søke om spesialistgodkjenning etter [forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger.
+
+For leger som per 1. mars 2019 er under spesialisering i allmennmedisin, samfunnsmedisin og arbeidsmedisin gjelder følgende overgangsregler:
+
+1. Leger har rett til å gjennomføre spesialistutdanningen i allmennmedisin og samfunnsmedisin og søke om spesialistgodkjenning etter tidligere ordning dersom de søker om spesialistgodkjenning innen 31. desember 2026. For arbeidsmedisin er fristen 31. desember 2028.
+2. Dersom legen og virksomheten legen er tilknyttet blir enige om at legen skal gå over i ny ordning for spesialistutdanning, kan legen gjennomføre resten av spesialistutdanningen og søke om spesialistgodkjenning etter denne forskriften. Virksomheten må i så fall oppfylle kravene etter denne forskriften for den gjenstående delen av spesialistutdanningen. Legen får i så fall rett til en vurdering av oppnådde læringsmål på bakgrunn av kompetanse oppnådd ved tjeneste og andre læringsaktiviteter som allerede er gjennomført etter påbegynt ordning for spesialistutdanning. Virksomheten skal sørge for at oppnådde læringsmål vurderes og dokumenteres innen 31. desember 2023. For leger som da er i permisjon eller har annet fravær fra tjenesten, er fristen seks måneder etter at legen er tilbake i tjenesten.
+3. Når leger gjennomfører resten av spesialistutdanningen etter denne forskriften, skal praktisk tjeneste gjennomført under spesialisering før 1. mars 2019 telle med i beregningen av samlet utdanningstid etter [§ 31](forskrift/2016-12-08-1482/§31).
 
 For leger som per 1. mars 2019 er under spesialisering og har autorisasjon på grunnlag av gjennomført grunnleggende legeutdanning i andre EØS-land, gjelder ikke kravet i [§ 29](forskrift/2016-12-08-1482/§29) bokstav a om dokumentasjon på oppnådde læringsmål i utdanningens første del.
 
@@ -539,7 +634,11 @@ Læringsmålene dekker et grunnleggende sett av kompetanser alle leger må ha fo
 
 *Del 1:*
 
-- FKMS-004:   Ha kunnskap om forebyggende og helsefremmende arbeid på individ- og gruppenivå, herunder:Kunnskap om hva helsefremmende arbeid innebærer.Kunnskap om primær-, sekundær- og tertiærforebygging.Kunnskap om grunnleggende smittevernsprinsipper.
+- FKMS-004:   Ha kunnskap om forebyggende og helsefremmende arbeid på individ- og gruppenivå, herunder:
+
+  - Kunnskap om hva helsefremmende arbeid innebærer.
+  - Kunnskap om primær-, sekundær- og tertiærforebygging.
+  - Kunnskap om grunnleggende smittevernsprinsipper.
 - FKMK-003:   Selvstendig kunne informere om og drøfte forebygging av de vanligste livsstilssykdommene med pasienter, og selvstendig iverksette nødvendige tiltak og oppfølging.
 
 ### A6. Forskningsforståelse og kunnskapshåndtering
@@ -1322,7 +1421,12 @@ Selvstendig kunne lede hjertestansteam sammen med andre faggrupper i tråd med e
 
 FIM-006
 
-Ha god kunnskap om årsaker, patofysiologi og behandling av de ulike typer sirkulasjonssvikt (sjokk):kardiogent sjokkhypovolemisk sjokkseptisk sjokkanafylaktisk sjokk
+Ha god kunnskap om årsaker, patofysiologi og behandling av de ulike typer sirkulasjonssvikt (sjokk):
+
+- kardiogent sjokk
+- hypovolemisk sjokk
+- septisk sjokk
+- anafylaktisk sjokk
 
 FIM-007
 
@@ -1405,7 +1509,13 @@ Ha kunnskap om følgende forstyrrelser:
 
 FIM-021
 
-Ha kunnskap om og under supervisjon kunne diagnostisere og behandle ulike syre-/baseforstyrrelser, herunder:respiratorisk acidoserespiratorisk alkalosemetabolsk acidosemetabolsk alkalose«blandede typer»
+Ha kunnskap om og under supervisjon kunne diagnostisere og behandle ulike syre-/baseforstyrrelser, herunder:
+
+- respiratorisk acidose
+- respiratorisk alkalose
+- metabolsk acidose
+- metabolsk alkalose
+- «blandede typer»
 
 FIM-022
 
@@ -1447,7 +1557,13 @@ Selvstendig kunne utføre og tolke arbeids-EKG.
 
 FIM-029
 
-Selvstendig kunne utføre og tolke en orienterende ekkokardiografisk undersøkelse av hjertet, aorta og store kar med følgende målsettinger:vurdere hjertets pumpefunksjon og angi om den er tilnærmet normal, eller om den er moderat eller betydelig nedsatt/redusert; påvise større områder med dysfunksjonfinne klaffefeil som eventuelt kan være av betydning hos pasienter med akutt sykdomkjenne til ekkokardiografiske funn ved aortaaneurismer/-disseksjonpåvise perikardvæske og sammenholdt med klinikk vurdere om det kan foreligge hjertetamponadepåvise typiske hemodynamiske endringer ved større lungeembolier
+Selvstendig kunne utføre og tolke en orienterende ekkokardiografisk undersøkelse av hjertet, aorta og store kar med følgende målsettinger:
+
+- vurdere hjertets pumpefunksjon og angi om den er tilnærmet normal, eller om den er moderat eller betydelig nedsatt/redusert; påvise større områder med dysfunksjon
+- finne klaffefeil som eventuelt kan være av betydning hos pasienter med akutt sykdom
+- kjenne til ekkokardiografiske funn ved aortaaneurismer/-disseksjon
+- påvise perikardvæske og sammenholdt med klinikk vurdere om det kan foreligge hjertetamponade
+- påvise typiske hemodynamiske endringer ved større lungeembolier
 
 FIM-030
 
@@ -1455,11 +1571,23 @@ Ha god kunnskap om patogenesen ved koronarsykdom, hvilke forhold som avgjør pre
 
 FIM-031
 
-Ha kompetanse om akutt koronarsyndrom, herunder:god kunnskap om primær- og sekundærforebygging av koronarsykdomgod kunnskap om medikamentell behandling og klinisk oppfølgninggod kunnskap om diagnostikk og behandling av komplikasjoner ved NSTEMI og STEMIkunnskap om stresstesterkunnskap om indikasjoner for bruk av bildediagnostikk ved koronarsykdom, herunder CT og MRgod kunnskap om prinsippene ved revaskularisering med PCI og kirurgigod kunnskap om oppfølging etter PCI og kirurgi, inkludert hjerterehabilitering
+Ha kompetanse om akutt koronarsyndrom, herunder:
+
+- god kunnskap om primær- og sekundærforebygging av koronarsykdom
+- god kunnskap om medikamentell behandling og klinisk oppfølgning
+- god kunnskap om diagnostikk og behandling av komplikasjoner ved NSTEMI og STEMI
+- kunnskap om stresstester
+- kunnskap om indikasjoner for bruk av bildediagnostikk ved koronarsykdom, herunder CT og MR
+- god kunnskap om prinsippene ved revaskularisering med PCI og kirurgi
+- god kunnskap om oppfølging etter PCI og kirurgi, inkludert hjerterehabilitering
 
 FIM-032
 
-Beherske utredning og behandling av akutt koronarsyndrom, herunder:bruk av EKG og biomarkørergjennomføring av veiledende ekkokardiografihenvisning til koronar angiografi ifølge gjeldende retningslinjer
+Beherske utredning og behandling av akutt koronarsyndrom, herunder:
+
+- bruk av EKG og biomarkører
+- gjennomføring av veiledende ekkokardiografi
+- henvisning til koronar angiografi ifølge gjeldende retningslinjer
 
 FIM-033
 
@@ -1751,7 +1879,14 @@ Ha kunnskap om diagnostikk og behandling av irritabel tarmsykdom, divertikkelsyk
 
 FIM-089
 
-Ha kunnskap om diagnostikk og behandling av leversykdommer, herunder:alkoholbetingede, medikamentutløste og andre toksiskefettleversykdom og andre metabolskevirushepatitter og andre infeksiøseautoimmunegenetiskevaskulære
+Ha kunnskap om diagnostikk og behandling av leversykdommer, herunder:
+
+- alkoholbetingede, medikamentutløste og andre toksiske
+- fettleversykdom og andre metabolske
+- virushepatitter og andre infeksiøse
+- autoimmune
+- genetiske
+- vaskulære
 
 FIM-090
 
@@ -1941,7 +2076,12 @@ Ha kjennskap til prinsipper for dannelse, forebygging og behandling av biofilm.
 
 FIM-127
 
-Ha kunnskap om og under supervisjon fra spesialist kunne iverksette adekvat antimikrobiell og støttebehandling hos pasienter med ervervet immunsvikt på grunn av:HIVkreftsykdomnyresviktbruk av immunmodulerende legemidler herunder cytostatika og biologiske legemidler.
+Ha kunnskap om og under supervisjon fra spesialist kunne iverksette adekvat antimikrobiell og støttebehandling hos pasienter med ervervet immunsvikt på grunn av:
+
+- HIV
+- kreftsykdom
+- nyresvikt
+- bruk av immunmodulerende legemidler herunder cytostatika og biologiske legemidler.
 
 FIM-128
 
@@ -2003,7 +2143,12 @@ Ha god kunnskap om diagnostikk og behandling av hjerneslag og TIA.
 
 FIM-139
 
-Ha kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander:hodepinesyndromer herunder sinusvenetromboseakutt polyradikulittpresentasjon og komplikasjoner av multippel sklerose, Mb Parkinson, myastenia gravis, hjerneabscesssvimmelhet
+Ha kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander:
+
+- hodepinesyndromer herunder sinusvenetrombose
+- akutt polyradikulitt
+- presentasjon og komplikasjoner av multippel sklerose, Mb Parkinson, myastenia gravis, hjerneabscess
+- svimmelhet
 
 FIM-140
 
@@ -2035,11 +2180,23 @@ Under supervisjon kunne utrede unormal blødningstendens, med spesiell vekt på 
 
 FIM-146
 
-Ha kunnskap om symptomer og utreding av følgende tilstander:akutte og kroniske leukemiermonoklonal gammapati av usikker betydning (MGUS)myelomatoselymfomermyelofibrosepolycytemia veraessensiell trombocytose
+Ha kunnskap om symptomer og utreding av følgende tilstander:
+
+- akutte og kroniske leukemier
+- monoklonal gammapati av usikker betydning (MGUS)
+- myelomatose
+- lymfomer
+- myelofibrose
+- polycytemia vera
+- essensiell trombocytose
 
 FIM-147
 
-Kjenne til indikasjon for tverrfaglig vurdering av behov for akutt strålebehandling/laminektomi. Under supervisjon kunne:identifisere og behandle pasienter med tumorlysesyndromidentifisere pasienter med truende tverrsnittslesjon og kjenne til ved hvilke tilstander dette kan forekommeidentifisere og behandle pasienter med vena cava superior syndrom
+Kjenne til indikasjon for tverrfaglig vurdering av behov for akutt strålebehandling/laminektomi. Under supervisjon kunne:
+
+- identifisere og behandle pasienter med tumorlysesyndrom
+- identifisere pasienter med truende tverrsnittslesjon og kjenne til ved hvilke tilstander dette kan forekomme
+- identifisere og behandle pasienter med vena cava superior syndrom
 
 FIM-148
 
@@ -2047,7 +2204,13 @@ Ha god kunnskap om generelle indikasjoner og rutiner for transfusjon av blodprod
 
 FIM-149
 
-Under supervisjon kunne tolke blodutstryk ved mistanke om følgende tilstander som:akutt leukemikronisk myelogen leukemikronisk lymfatisk leukemimikroangiopatiske anemier (TTP/HUS)alvorlige infeksjoner
+Under supervisjon kunne tolke blodutstryk ved mistanke om følgende tilstander som:
+
+- akutt leukemi
+- kronisk myelogen leukemi
+- kronisk lymfatisk leukemi
+- mikroangiopatiske anemier (TTP/HUS)
+- alvorlige infeksjoner
 
 FIM-153
 
@@ -2099,7 +2262,18 @@ Selvstendig kunne håndtere sammensatte og komplekse sykdomstilstander hos eldre
 
 AMM-007
 
-Ha god kunnskap om utredning og behandling av symptombaserte innleggelser, herunder:brystsmerterdyspnoeredusert bevissthethypertermihypotermilammelserbuksmerterblodtrykksfall (sjokk)blodtrykkskriserkramper
+Ha god kunnskap om utredning og behandling av symptombaserte innleggelser, herunder:
+
+- brystsmerter
+- dyspnoe
+- redusert bevissthet
+- hypertermi
+- hypotermi
+- lammelser
+- buksmerter
+- blodtrykksfall (sjokk)
+- blodtrykkskriser
+- kramper
 
 AMM-008
 
@@ -2111,7 +2285,10 @@ Ha kunnskap om rettsmedisinske vurderinger i mottak knyttet til dette.
 
 AMM-009
 
-Beherske behandling av akutte smertetilstander, herunder:adekvat smertelindringanalgesi og sedasjon i samarbeid med anestesipersonell ved akutte prosedyrer i mottak
+Beherske behandling av akutte smertetilstander, herunder:
+
+- adekvat smertelindring
+- analgesi og sedasjon i samarbeid med anestesipersonell ved akutte prosedyrer i mottak
 
 AMM-010
 
@@ -2246,7 +2423,16 @@ Ha kunnskap om indikasjon for EEG ved akuttilstander.
 
 AMM-034
 
-Ha god kunnskap om og selvstendig kunne diagnostisere, stabilisere og raskt kunne henvise til definitiv behandling av pasienter med akutte buksmerter, herunder:appendicittcholecystittpankreatittperitonittsubileus/ileusvaskulære tilstanderekstrauterin graviditetsalpingitt
+Ha god kunnskap om og selvstendig kunne diagnostisere, stabilisere og raskt kunne henvise til definitiv behandling av pasienter med akutte buksmerter, herunder:
+
+- appendicitt
+- cholecystitt
+- pankreatitt
+- peritonitt
+- subileus/ileus
+- vaskulære tilstander
+- ekstrauterin graviditet
+- salpingitt
 
 AMM-035
 
@@ -2260,11 +2446,20 @@ Selvstendig kunne henvise til definitiv diagnostikk og behandling, ved tilstande
 
 AMM-036
 
-Ha god kunnskap om diagnostikk og selvstendig kunne initialbehandle akutte urologiske tilstander inntil definitiv urologisk avklaring, herunder ved:«akutt scrotum»nyresteinurinretensjon
+Ha god kunnskap om diagnostikk og selvstendig kunne initialbehandle akutte urologiske tilstander inntil definitiv urologisk avklaring, herunder ved:
+
+- «akutt scrotum»
+- nyrestein
+- urinretensjon
 
 AMM-037
 
-Ha god kunnskap om og selvstendig kunne initialbehandle akutte nevrokirurgiske tilstander inntil definitiv kirurgisk avklaring, herunder:kraniebruddhjernerystelse og hjernekontusjonhjerneblødninger (intrakraniell blødning, subarachnoidal blødning, epidural blødning, subdural blødning)tumores
+Ha god kunnskap om og selvstendig kunne initialbehandle akutte nevrokirurgiske tilstander inntil definitiv kirurgisk avklaring, herunder:
+
+- kraniebrudd
+- hjernerystelse og hjernekontusjon
+- hjerneblødninger (intrakraniell blødning, subarachnoidal blødning, epidural blødning, subdural blødning)
+- tumores
 
 ### 2.9 Ortopedi
 
@@ -2294,11 +2489,22 @@ Selvstendig kunne fjerne overflatiske fremmedlegemer fra øye, samt fra øre, ne
 
 AMM-041
 
-Ha kunnskap om relevante kirurgiske og ortopediske kliniske prosedyrer, herunder:artroscentesethoraksdren og plurasugsuprapubisk kateterincisjon og drenasjeimmobilisering og akuttreponering av frakturer/dislokasjoner før ev. transport til ortopedisk avdelingteknikker for kontroll av epistaksis
+Ha kunnskap om relevante kirurgiske og ortopediske kliniske prosedyrer, herunder:
+
+- artroscentese
+- thoraksdren og plurasug
+- suprapubisk kateter
+- incisjon og drenasje
+- immobilisering og akuttreponering av frakturer/dislokasjoner før ev. transport til ortopedisk avdeling
+- teknikker for kontroll av epistaksis
 
 AMM-042
 
-Ha god kunnskap om og beherske bruk av:nasogastrisk sondeFoleykatetersuturering og generell sårbehandling
+Ha god kunnskap om og beherske bruk av:
+
+- nasogastrisk sonde
+- Foleykateter
+- suturering og generell sårbehandling
 
 ### 2.13 Gynekologi
 
@@ -2374,11 +2580,27 @@ Ha god kunnskap om og beherske tverrfaglig vurdering av behandlingsnivå ved aku
 
 AMM-058
 
-Ha god kunnskap om og beherske målrettet og symptombasert ekko-dopplerundersøkelse av hjertet, aorta og store kar, herunder:vurdere hjertets pumpefunksjon (estimere EF) og påvise eventuell regional/global hypo-/akinesipåvise moderate/store klaffefeilvurdering av diameter og andre forhold ved store kar (aorta, vv cavae) inkludert å påvise aortaaneurismer/-disseksjonpåvise perikardvæske og hjertetamponadepåvise typiske hemodynamiske endringer ved større lungeemboliervurdere volumstatus (hjerte/VCI) og relatere dette opp mot volumbehovha kunnskap om ultralyd som et redskap for hemodynamisk monitoreringpåvise venøs trombose (DVT) også i mellomstore kar (legg/lår) via kompresjon og dopplerteknikk
+Ha god kunnskap om og beherske målrettet og symptombasert ekko-dopplerundersøkelse av hjertet, aorta og store kar, herunder:
+
+- vurdere hjertets pumpefunksjon (estimere EF) og påvise eventuell regional/global hypo-/akinesi
+- påvise moderate/store klaffefeil
+- vurdering av diameter og andre forhold ved store kar (aorta, vv cavae) inkludert å påvise aortaaneurismer/-disseksjon
+- påvise perikardvæske og hjertetamponade
+- påvise typiske hemodynamiske endringer ved større lungeembolier
+- vurdere volumstatus (hjerte/VCI) og relatere dette opp mot volumbehov
+- ha kunnskap om ultralyd som et redskap for hemodynamisk monitorering
+- påvise venøs trombose (DVT) også i mellomstore kar (legg/lår) via kompresjon og dopplerteknikk
 
 AMM-059
 
-Beherske målrettet ultralydundersøkelse av abdomen, herunder påvisning av:cholecystitthydronefroseacitesgallestenhematomerabcesser
+Beherske målrettet ultralydundersøkelse av abdomen, herunder påvisning av:
+
+- cholecystitt
+- hydronefrose
+- acites
+- gallesten
+- hematomer
+- abcesser
 
 AMM-060
 
@@ -2390,7 +2612,12 @@ Selvstendig kunne avgjøre om det foreligger perifer sirkulasjon ved hjelp av do
 
 AMM-062
 
-Selvstendig kunne bruke ultralyd ved enkelte akuttmedisinske prosedyrer, herunder:pleuratappingascitestappingdiagnostisk leddpunksjondiagnostisk abscessdrenasje/hudaspirat
+Selvstendig kunne bruke ultralyd ved enkelte akuttmedisinske prosedyrer, herunder:
+
+- pleuratapping
+- ascitestapping
+- diagnostisk leddpunksjon
+- diagnostisk abscessdrenasje/hudaspirat
 
 AMM-063
 
@@ -2398,7 +2625,13 @@ Ha god kunnskap om pericardiocentese ved hjertetamponade.
 
 AMM-064
 
-Ha god kunnskap om påvisning/diagnostisering av de vanligste akutte tilstander i mottaket ved hjelp av vanlige bildediagnostiske undersøkelser som konvensjonell røntgen, CT og MR, herunder påvisning/diagnostisering av:pneumonipneumothoraxpleuravæskehjerneblødningfri luft i abdomen
+Ha god kunnskap om påvisning/diagnostisering av de vanligste akutte tilstander i mottaket ved hjelp av vanlige bildediagnostiske undersøkelser som konvensjonell røntgen, CT og MR, herunder påvisning/diagnostisering av:
+
+- pneumoni
+- pneumothorax
+- pleuravæske
+- hjerneblødning
+- fri luft i abdomen
 
 ### 2.17 Etikk
 
@@ -3032,7 +3265,13 @@ Ha god kunnskap om betydningen av hereditære trombofilier som risikofaktorer fo
 
 BLS-141
 
-Ha god kunnskap om og beherske utredning og behandling av ervervet trombosetendens, herunder:antifosfolipidsyndromheparinindusert trombocytopeniparoxysmal nattlig hemoglobinurimyeloproliferative neoplasierannen kreftsykdom
+Ha god kunnskap om og beherske utredning og behandling av ervervet trombosetendens, herunder:
+
+- antifosfolipidsyndrom
+- heparinindusert trombocytopeni
+- paroxysmal nattlig hemoglobinuri
+- myeloproliferative neoplasier
+- annen kreftsykdom
 
 BLS-142
 
@@ -3062,7 +3301,13 @@ Ha kunnskap om prinsippene for HLA-typing og påvisning av anti-HLA antistoff.
 
 BLS-148
 
-Ha god kunnskap om og beherske transfusjon av erytrocytter, trombocytter og plasma. Selvstendig kunne utrede og behandle eventuelle bivirkninger, herunder:hemolytisk transfusjonsreaksjon akutt og forsinketfebril nonhemolytisk transfusjonsreaksjonallergiske og anafylaktiske reaksjonertransfusjonsassosiert akutt lungeskade (TRALI)transfusjonsrelatert GvHD
+Ha god kunnskap om og beherske transfusjon av erytrocytter, trombocytter og plasma. Selvstendig kunne utrede og behandle eventuelle bivirkninger, herunder:
+
+- hemolytisk transfusjonsreaksjon akutt og forsinket
+- febril nonhemolytisk transfusjonsreaksjon
+- allergiske og anafylaktiske reaksjoner
+- transfusjonsassosiert akutt lungeskade (TRALI)
+- transfusjonsrelatert GvHD
 
 BLS-149
 
@@ -3120,15 +3365,29 @@ Beherske diagnostikk og behandling av de hyppigst forekommende diabetiske senkom
 
 END-005
 
-Beherske diagnostikk og behandling av diabetesrelaterte problemer, herunderhypertensjonhyperlipidemiereksjonssvikt
+Beherske diagnostikk og behandling av diabetesrelaterte problemer, herunder
+
+- hypertensjon
+- hyperlipidemi
+- ereksjonssvikt
 
 END-006
 
-Beherske diagnostikk og behandling av spesielle diabeteskomplikasjoner og henvise til/samarbeide med relevant spesialist, herunder:diabetiske fotsår, infiserte sår, ostemyelittCharcotfot
+Beherske diagnostikk og behandling av spesielle diabeteskomplikasjoner og henvise til/samarbeide med relevant spesialist, herunder:
+
+- diabetiske fotsår, infiserte sår, ostemyelitt
+- Charcotfot
 
 END-007
 
-Beherskediabetesbehandling ved anestesi/kirurgidiabetesbehandling av pasienter innlagt på sykehusbehandling/oppfølging av spiseforstyrrelser ved diabetesakutt hjerteinfarkt ved diabetesbehandling av alvorlige infeksjoner ved diabetesbehandling av metabolsk kardiovaskulært syndrom
+Beherske
+
+- diabetesbehandling ved anestesi/kirurgi
+- diabetesbehandling av pasienter innlagt på sykehus
+- behandling/oppfølging av spiseforstyrrelser ved diabetes
+- akutt hjerteinfarkt ved diabetes
+- behandling av alvorlige infeksjoner ved diabetes
+- behandling av metabolsk kardiovaskulært syndrom
 
 Ha god kunnskap om førerkortforskriftene
 
@@ -3182,7 +3441,11 @@ Beherske diagnostikk, behandling og oppfølging av ikke-hormonproduserende hypof
 
 END-018
 
-Beherske diagnostikk, behandling og oppfølging av hormonproduserende hypofysetumor, herunder:akromegaliCushings sykdomprolaktinom
+Beherske diagnostikk, behandling og oppfølging av hormonproduserende hypofysetumor, herunder:
+
+- akromegali
+- Cushings sykdom
+- prolaktinom
 
 END-019
 
@@ -3848,7 +4111,14 @@ Ha god kunnskap om ulike tilstander som kan gi demens og demenslignende klinisk 
 
 GER-018
 
-Ha god kunnskap om de vanligste demensformene:demens ved Alzheimers sykdomvaskulær demensdemens med Lewylegemerfrontotemporallappsdemensalkoholisk demensdemens ved Parkinsons sykdom
+Ha god kunnskap om de vanligste demensformene:
+
+- demens ved Alzheimers sykdom
+- vaskulær demens
+- demens med Lewylegemer
+- frontotemporallappsdemens
+- alkoholisk demens
+- demens ved Parkinsons sykdom
 
 GER-019
 
@@ -3948,7 +4218,11 @@ Ha god kunnskap om symptomer og utredning ved normaltrykkshydrocefalus.
 
 GER-040
 
-Ha god kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander, herunder:hodepinesyndromer inkludert sinusvenetromboseakutt polyradikulittpresentasjon og komplikasjoner av multippel sklerose og myastenia gravis
+Ha god kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander, herunder:
+
+- hodepinesyndromer inkludert sinusvenetrombose
+- akutt polyradikulitt
+- presentasjon og komplikasjoner av multippel sklerose og myastenia gravis
 
 GER-041
 
@@ -4298,7 +4572,14 @@ Kjenne til kardiovaskulære manifestasjoner av Marfan, Turner og Loeys-Dietz syn
 
 HJS-046
 
-Selvstendig kunne veilede og vurdere videre henvisning ved planlegging og gjennomføring av svangerskap hos kvinner med medfødt hjertesykdom, herunder:klaffesykdommer inkludert klaffeproteserhypertensjonMarfan syndromarytmierkardiomyopatikoronarsykdom
+Selvstendig kunne veilede og vurdere videre henvisning ved planlegging og gjennomføring av svangerskap hos kvinner med medfødt hjertesykdom, herunder:
+
+- klaffesykdommer inkludert klaffeproteser
+- hypertensjon
+- Marfan syndrom
+- arytmier
+- kardiomyopati
+- koronarsykdom
 
 HJS-047
 
@@ -4582,7 +4863,13 @@ Ha god kunnskap om årsaksforhold, symptomer, funn og komplikasjoner ved andre t
 
 MED-048
 
-Ha god kunnskap om og under supervisjon kunne utrede og behandle leversykdommer, herunder:alkoholbetingede, medikamentuløste og andre toksiskefettleversykdom og andre metabolskevirushepatitter og andre infeksiøseautoimmunegenetiske og vaskulære
+Ha god kunnskap om og under supervisjon kunne utrede og behandle leversykdommer, herunder:
+
+- alkoholbetingede, medikamentuløste og andre toksiske
+- fettleversykdom og andre metabolske
+- virushepatitter og andre infeksiøse
+- autoimmune
+- genetiske og vaskulære
 
 MED-049
 
@@ -4730,7 +5017,14 @@ Ha god kunnskap om og under supervisjon kunne utrede og behandle flåttbårne sy
 
 MED-081
 
-Ha god kunnskap om utredning og behandling av alle vanlige demenssykdommer:demens ved Alzheimers sykdomvaskulær demensdemens med Lewy-legemerfrontotemporallapp-demensalkoholisk demensdemens ved Parkinsons sykdom
+Ha god kunnskap om utredning og behandling av alle vanlige demenssykdommer:
+
+- demens ved Alzheimers sykdom
+- vaskulær demens
+- demens med Lewy-legemer
+- frontotemporallapp-demens
+- alkoholisk demens
+- demens ved Parkinsons sykdom
 
 Ha kunnskap om gradering av demens og om skillet mellom mild kognitiv svikt og demens.
 
@@ -4836,7 +5130,16 @@ Beherske innleggelse av introducer i lyskevenen.
 
 MED-104
 
-Ha god kunnskap om og selvstendig kunne diagnostisere og behandle ulike syre-/base- og elektrolyttforstyrrelser. Ha god kunnskap om sammenhengen mellom syre-/base- og elektrolyttforstyrrelser, herunder:hypo-/hypernatremihypo-/hyperkalemihypo-/hyperkalsemihypo-/hyperfosfatemihypo-/hypermagnesemirespiratorisk acidose og alkalosemetabolsk acidose og alkolose«blandede typer»
+Ha god kunnskap om og selvstendig kunne diagnostisere og behandle ulike syre-/base- og elektrolyttforstyrrelser. Ha god kunnskap om sammenhengen mellom syre-/base- og elektrolyttforstyrrelser, herunder:
+
+- hypo-/hypernatremi
+- hypo-/hyperkalemi
+- hypo-/hyperkalsemi
+- hypo-/hyperfosfatemi
+- hypo-/hypermagnesemi
+- respiratorisk acidose og alkalose
+- metabolsk acidose og alkolose
+- «blandede typer»
 
 ### 8.10 Kliniske studier – indremedisin.
 
@@ -4956,7 +5259,12 @@ Ha kunnskap om diagnostiske metoder, prøvetaking og tolkning av prøvesvar ved 
 
 INF-022
 
-Ha kunnskap om pasientveiledning og behandling av de mest vanlige seksuelt overførbare sykdommene, herunder:klamydiamykoplasmagonorésyfilis
+Ha kunnskap om pasientveiledning og behandling av de mest vanlige seksuelt overførbare sykdommene, herunder:
+
+- klamydia
+- mykoplasma
+- gonoré
+- syfilis
 
 ### 9.7 Importsykdommer
 
@@ -5162,7 +5470,15 @@ Ha god kunnskap om årsaker til bronkiektasier og prinsipper for diagnostikk og 
 
 LUN-009
 
-Ha kunnskap om sykdomsbilder ved andre luftveissykdommer, herunder:bronkiolittluftveisstenosetrakeobronkomalasitrakeo-øsofageal fistelsykdommer i øvre luftveierstemmebåndsdysfunksjon/exercise induced laryngeal obstructionaspirasjon av fremmedlegeme
+Ha kunnskap om sykdomsbilder ved andre luftveissykdommer, herunder:
+
+- bronkiolitt
+- luftveisstenose
+- trakeobronkomalasi
+- trakeo-øsofageal fistel
+- sykdommer i øvre luftveier
+- stemmebåndsdysfunksjon/exercise induced laryngeal obstruction
+- aspirasjon av fremmedlegeme
 
 ### 10.4 Thorakale tumorsykdommer
 
@@ -5256,7 +5572,13 @@ Selvstendig kunne utrede og behandle sarkoidose.
 
 LUN-027
 
-Ha god kunnskap om utredning og behandling av sjeldne interstitielle lungesykdommer, herunder:idiopatisk pulmonal fibrose og andre idiopatiske interstitielle lungesykdommerlungemanifestasjoner ved systemsykdompneumokonioserhypersensitivitetspneumonittcystiske lungesykdommer
+Ha god kunnskap om utredning og behandling av sjeldne interstitielle lungesykdommer, herunder:
+
+- idiopatisk pulmonal fibrose og andre idiopatiske interstitielle lungesykdommer
+- lungemanifestasjoner ved systemsykdom
+- pneumokonioser
+- hypersensitivitetspneumonitt
+- cystiske lungesykdommer
 
 ### 10.10 Respirasjonssvikt
 
@@ -5392,7 +5714,16 @@ Ha kunnskap om indikasjoner og kontraindikasjoner for nuklærmedisinske undersø
 
 LUN-052
 
-Selvstendig kunne gjennomføre og tolke respirasjonsfysiologiske undersøkelser, herunder:spirometri inkludert reversibilitetstestingstatiske lungevolum (RV, TLC) Helkroppspletysmografimåling av diffusjonskapasitet (DLCO)bronkial provokasjongangtest6 min. eller tilsvarendearbeidsbelastning m/måling av gassveksling/O2-opptakkalibrering av apparatur anvendt ved ovennevnte prosedyrer
+Selvstendig kunne gjennomføre og tolke respirasjonsfysiologiske undersøkelser, herunder:
+
+- spirometri inkludert reversibilitetstesting
+- statiske lungevolum (RV, TLC) Helkroppspletysmografi
+- måling av diffusjonskapasitet (DLCO)
+- bronkial provokasjon
+- gangtest
+- 6 min. eller tilsvarende
+- arbeidsbelastning m/måling av gassveksling/O2-opptak
+- kalibrering av apparatur anvendt ved ovennevnte prosedyrer
 
 LUN-053
 
@@ -5962,7 +6293,12 @@ Ha kjennskap til «damage control»-prinsippet ved store traumer.
 
 FKI-038
 
-Ha kunnskap om rutiner for smittevern, herunder:prinsipper omkring sterilitet ved kirurgivanlige sykehusinfeksjoner og forebygging av disseblodbårne virussykdommerrutiner og tiltak ved risiko for smitteoverføring
+Ha kunnskap om rutiner for smittevern, herunder:
+
+- prinsipper omkring sterilitet ved kirurgi
+- vanlige sykehusinfeksjoner og forebygging av disse
+- blodbårne virussykdommer
+- rutiner og tiltak ved risiko for smitteoverføring
 
 FKI-039
 
@@ -6700,11 +7036,19 @@ Selvstendig kunne vurdere bildemessig og klinisk når det er mistanke om lokalav
 
 BEK-062
 
-Ha kjennskap til adjuvant lokoregional og systemisk terapi ved maligne tumores i thyreoidea:strålebehandlingthyrosinkinasehemmere (TKI)cytostatikabehandling der dette er relevant
+Ha kjennskap til adjuvant lokoregional og systemisk terapi ved maligne tumores i thyreoidea:
+
+- strålebehandling
+- thyrosinkinasehemmere (TKI)
+- cytostatikabehandling der dette er relevant
 
 BEK-063
 
-Ha kjennskap til etanolbehandling av lymfeknuteresidiv:indikasjonsstillingmuligheter og begrensningerkomplikasjoner
+Ha kjennskap til etanolbehandling av lymfeknuteresidiv:
+
+- indikasjonsstilling
+- muligheter og begrensninger
+- komplikasjoner
 
 BEK-064
 
@@ -6808,7 +7152,11 @@ Ha kunnskap om substitusjonsbehandling etter adrenalektomi.
 
 BEK-083
 
-Ha kunnskap om nevroendokrine tumores i ventrikkel, tarm, pankreas og bronkier:utredning, inklusive arvelige syndromer som blant andre MEN 1kirurgiske og medisinske behandlingsprinsipperrelevante henvisningsinstanser
+Ha kunnskap om nevroendokrine tumores i ventrikkel, tarm, pankreas og bronkier:
+
+- utredning, inklusive arvelige syndromer som blant andre MEN 1
+- kirurgiske og medisinske behandlingsprinsipper
+- relevante henvisningsinstanser
 
 ### 14.9 Holdninger og fagetikk
 
@@ -6860,7 +7208,11 @@ Ha god kunnskap om strålevern ved røntgendiagnostikk.
 
 GAK-005
 
-Ha god kunnskap i farmakologi relevant for trygg kirurgisk praksis, herunder:medikamenter som påvirker kroppens tilhelingsevne eller blødningsrisikomedikamenter som kan ha endret opptak eller effekt som følge av gastrokirurgiske inngrepmedikamenter som brukes ved de vanligste tilleggssykdommer hos kirurgiske pasienter
+Ha god kunnskap i farmakologi relevant for trygg kirurgisk praksis, herunder:
+
+- medikamenter som påvirker kroppens tilhelingsevne eller blødningsrisiko
+- medikamenter som kan ha endret opptak eller effekt som følge av gastrokirurgiske inngrep
+- medikamenter som brukes ved de vanligste tilleggssykdommer hos kirurgiske pasienter
 
 GAK-006
 
@@ -7020,11 +7372,33 @@ Ha god kunnskap om oppfølging av traumepasienter med enklere skader.
 
 GAK-035
 
-Ha god kunnskap om hvilke skader som skal behandles ved traumesenter. Beherske stabilisering før eventuell overflytting til traumesenter ved følgende tilstander:hodeskaderhals-/nakkeskaderthoraxskaderbukskaderbekkenskaderryggskaderekstremitetsskaderbrannskadereksplosjonsskaderhypotermifrostskader
+Ha god kunnskap om hvilke skader som skal behandles ved traumesenter. Beherske stabilisering før eventuell overflytting til traumesenter ved følgende tilstander:
+
+- hodeskader
+- hals-/nakkeskader
+- thoraxskader
+- bukskader
+- bekkenskader
+- ryggskader
+- ekstremitetsskader
+- brannskader
+- eksplosjonsskader
+- hypotermi
+- frostskader
 
 GAK-036
 
-Ha god kunnskap om «damage control»-prinsippet og kunne anvende dette. Beherske indikasjonsstilling og gjennomføring av:fri luftvei med enklere tiltak som kjeveløftmaske/bag ventilasjonendotracheal intubasjonkirurgisk luftveithoraxdrennødthorakotomitraumelaparotomi med systematisk gjennomgang og blødningskontroll inkludert pakking samt kontaminasjonskontrollsplenektominefrektomi
+Ha god kunnskap om «damage control»-prinsippet og kunne anvende dette. Beherske indikasjonsstilling og gjennomføring av:
+
+- fri luftvei med enklere tiltak som kjeveløft
+- maske/bag ventilasjon
+- endotracheal intubasjon
+- kirurgisk luftvei
+- thoraxdren
+- nødthorakotomi
+- traumelaparotomi med systematisk gjennomgang og blødningskontroll inkludert pakking samt kontaminasjonskontroll
+- splenektomi
+- nefrektomi
 
 GAK-037
 
@@ -7416,7 +7790,11 @@ Ha god kunnskap om strålevern ved røntgendiagnostikk.
 
 KIR-005
 
-Ha god kunnskap i farmakologi relevant for trygg kirurgisk praksis, herunder medikamenter som:påvirker kroppens tilhelingsevne eller blødningsrisikokan ha endret opptak eller effekt som følge av generellkirurgiske inngrepbrukes ved de vanligste tilleggssykdommer hos kirurgiske pasienter.
+Ha god kunnskap i farmakologi relevant for trygg kirurgisk praksis, herunder medikamenter som:
+
+- påvirker kroppens tilhelingsevne eller blødningsrisiko
+- kan ha endret opptak eller effekt som følge av generellkirurgiske inngrep
+- brukes ved de vanligste tilleggssykdommer hos kirurgiske pasienter.
 
 KIR-006
 
@@ -7512,7 +7890,16 @@ Beherske diagnostikk og initial behandling av akuttkirurgiske tilstander svarend
 
 KIR-024
 
-Selvstendig kunne diagnostisere pasienter med akutte buksmerter, akutte blødingstilstander og andre akuttkirurgisk tilstander i abdomen. Beherske følgende prosedyrer:appendektomilaparoskopicholecystektomiakutte ventrikkeloperasjonerlaparotomi inkludert damage controltarmreseksjonanleggelse av stomiakutte brokkoperasjoner.
+Selvstendig kunne diagnostisere pasienter med akutte buksmerter, akutte blødingstilstander og andre akuttkirurgisk tilstander i abdomen. Beherske følgende prosedyrer:
+
+- appendektomi
+- laparoskopi
+- cholecystektomi
+- akutte ventrikkeloperasjoner
+- laparotomi inkludert damage control
+- tarmreseksjon
+- anleggelse av stomi
+- akutte brokkoperasjoner.
 
 KIR-025
 
@@ -7986,7 +8373,12 @@ Ha god kunnskap om multidisiplinære team og ha forståelse for tverrfaglig sama
 
 KIR-112
 
-Ha god kunnskap om rutiner for smittevern, herunder:prinsipper omkring sterilitet ved kirurgivanlige sykehusinfeksjoner og forebygging av disseblodbårne virussykdommerrutiner og tiltak ved risiko for smitteoverføring.
+Ha god kunnskap om rutiner for smittevern, herunder:
+
+- prinsipper omkring sterilitet ved kirurgi
+- vanlige sykehusinfeksjoner og forebygging av disse
+- blodbårne virussykdommer
+- rutiner og tiltak ved risiko for smitteoverføring.
 
 KIR-113
 
@@ -8084,7 +8476,13 @@ Ha kunnskap om diagnostikk og behandling av diabetesfot.
 
 KIR-132
 
-Ha kunnskap om komplikasjoner etter behandling av perifer karsykdom, herunder:kompartmentsyndrominfeksjonerlymfelekkasjerokklusjonblødning.
+Ha kunnskap om komplikasjoner etter behandling av perifer karsykdom, herunder:
+
+- kompartmentsyndrom
+- infeksjoner
+- lymfelekkasjer
+- okklusjon
+- blødning.
 
 KIR-133
 
@@ -8098,7 +8496,13 @@ Ha kunnskap om primær og langtidsbehandling av torakal aortadisseksjon type A o
 
 KIR-135
 
-Ha kunnskap om postoperative komplikasjoner og sene komplikasjoner ved behandling av aneurismer:perifer emboliseringkoloniskemispinaliskemiabdominalt kompartmentsyndromgraftinfeksjoner
+Ha kunnskap om postoperative komplikasjoner og sene komplikasjoner ved behandling av aneurismer:
+
+- perifer embolisering
+- koloniskemi
+- spinaliskemi
+- abdominalt kompartmentsyndrom
+- graftinfeksjoner
 
 KIR-136
 
@@ -8169,7 +8573,14 @@ Ha kunnskap om etiologi, patologi, patogenese og epidemiologi ved non melanoma h
 
 KIR-147
 
-Ha kunnskap om diagnostisering av non-melanom hudcancer og andre tumores, herunder:basalcellekarsinom (nodulære, superficielle, morfea)plateepitelkarsinomMerkelcelletumoradnextumoressarkomermetastaser
+Ha kunnskap om diagnostisering av non-melanom hudcancer og andre tumores, herunder:
+
+- basalcellekarsinom (nodulære, superficielle, morfea)
+- plateepitelkarsinom
+- Merkelcelletumor
+- adnextumores
+- sarkomer
+- metastaser
 
 KIR-148
 
@@ -8183,7 +8594,11 @@ Ha god kunnskap om og selvstendig kunne utrede, diagnostisere og behandle pasien
 
 KIR-150
 
-Selvstendig kunne utrede og initialt behandle akutt hematuri og hydronefrose, herunder beherske:cystoskopievakuering av koagler fra urinblæreJJ stent vs nefrostomikateter.
+Selvstendig kunne utrede og initialt behandle akutt hematuri og hydronefrose, herunder beherske:
+
+- cystoskopi
+- evakuering av koagler fra urinblære
+- JJ stent vs nefrostomikateter.
 
 KIR-151
 
@@ -8315,7 +8730,11 @@ Ha god kunnskap om indikasjon for og behandling med platehemmer, antikoagulantia
 
 KAK-004
 
-Ha god kunnskap om beste medisinske behandling ved perifer aterosklerotisk karsykdom, herunder:indikasjoner og iverksettelseikke-kirurgiske behandlingsmetoder ved klaudikasjonsekundærprofylakse og oppfølging etter karkirurgisk og endovaskulær behandling
+Ha god kunnskap om beste medisinske behandling ved perifer aterosklerotisk karsykdom, herunder:
+
+- indikasjoner og iverksettelse
+- ikke-kirurgiske behandlingsmetoder ved klaudikasjon
+- sekundærprofylakse og oppfølging etter karkirurgisk og endovaskulær behandling
 
 Selvstendig kunne gi relevant veiledning til pasienten om beste medisinske behandling ved hjerte- og perifer karsykdom.
 
@@ -8369,7 +8788,10 @@ Kunne utføre tåtrykksmåling under supervisjon og selvstendig kunne tolke mål
 
 KAK-016
 
-Selvstendig kunne utføre åpen rekonstruktiv karkirurgi ved perifer aterosklerotisk karsykdom, herunder:stille indikasjonerselvstendig kunne utføre trombendarterektomi, ringstripping, plastikker, femoropopliteal, femorofemoral og aortobifemorale bypass
+Selvstendig kunne utføre åpen rekonstruktiv karkirurgi ved perifer aterosklerotisk karsykdom, herunder:
+
+- stille indikasjoner
+- selvstendig kunne utføre trombendarterektomi, ringstripping, plastikker, femoropopliteal, femorofemoral og aortobifemorale bypass
 
 KAK-017
 
@@ -8405,11 +8827,22 @@ Ha kunnskap om utredning og behandling av visceralkarsykdom og nyrearteriesykdom
 
 KAK-024
 
-Selvstendig kunne behandle komplikasjoner til perifer aterosklerotisk sykdom, herunder:kompartmentsyndromInfeksjonerlymfelekkasjerokklusjonblødning
+Selvstendig kunne behandle komplikasjoner til perifer aterosklerotisk sykdom, herunder:
+
+- kompartmentsyndrom
+- Infeksjoner
+- lymfelekkasjer
+- okklusjon
+- blødning
 
 KAK-025
 
-Ha kunnskap om vaskulitter, herunder:Takayasu og kjempecellearterittsystemiske vaskulitterTrombangiitis obliterans (mb Buerger)Raynauds syndrom
+Ha kunnskap om vaskulitter, herunder:
+
+- Takayasu og kjempecellearteritt
+- systemiske vaskulitter
+- Trombangiitis obliterans (mb Buerger)
+- Raynauds syndrom
 
 ### 17.4 Aneurismer
 
@@ -8427,7 +8860,11 @@ Under supervisjon kunne utrede pasienter med aneurismer ved hjelp av CT-/MR-angi
 
 KAK-029
 
-Selvstendig kunne diagnostisere og behandle infrarenale aortaaneurismer:selvstendig kunne gjennomføre oppfølgning, indikasjonsstilling og preoperativ utredningselvstendig kunne utføre åpen operasjon og behandling av perioperative komplikasjonerselvstendig kunne utføre EVAR og behandling av perioperative komplikasjoner
+Selvstendig kunne diagnostisere og behandle infrarenale aortaaneurismer:
+
+- selvstendig kunne gjennomføre oppfølgning, indikasjonsstilling og preoperativ utredning
+- selvstendig kunne utføre åpen operasjon og behandling av perioperative komplikasjoner
+- selvstendig kunne utføre EVAR og behandling av perioperative komplikasjoner
 
 KAK-030
 
@@ -8467,7 +8904,13 @@ Ha kunnskap om primær og langtidsbehandling av torakal aortadisseksjon type A o
 
 KAK-037
 
-Ha kunnskap om postoperative komplikasjoner og sene komplikasjoner ved behandling av aneurismer, herunder:perifer emboliseringkoloniskemispinaliskemiabdominalt kompartmentsyndromgraftinfeksjoner
+Ha kunnskap om postoperative komplikasjoner og sene komplikasjoner ved behandling av aneurismer, herunder:
+
+- perifer embolisering
+- koloniskemi
+- spinaliskemi
+- abdominalt kompartmentsyndrom
+- graftinfeksjoner
 
 ### 17.5 Supraaortal sykdom
 
@@ -8503,7 +8946,13 @@ Ha kjennskap til åpen kirurgisk rekonstruksjon og endovaskulær behandling av s
 
 KAK-044
 
-Ved akutt iskemi og karskade, ha god kunnskap om:patofysiologiinitial traumebehandlinganestesi/intensivbehandlingbildediagnostikkindikasjon for åpen og endovaskulær behandling
+Ved akutt iskemi og karskade, ha god kunnskap om:
+
+- patofysiologi
+- initial traumebehandling
+- anestesi/intensivbehandling
+- bildediagnostikk
+- indikasjon for åpen og endovaskulær behandling
 
 KAK-045
 
@@ -8697,7 +9146,11 @@ Selvstendig kunne vurdere tromboserisiko i forbindelse med kirurgi og kjenne til
 
 PLA-020
 
-Ha god kunnskap om smitteforebyggende tiltak, herunder:prinsipper omkring sterilitet ved kirurgivanlige sykehusinfeksjoner og forebygging av disseblodbårne virussykdommer med rutiner og tiltak ved risiko for smitteoverføring
+Ha god kunnskap om smitteforebyggende tiltak, herunder:
+
+- prinsipper omkring sterilitet ved kirurgi
+- vanlige sykehusinfeksjoner og forebygging av disse
+- blodbårne virussykdommer med rutiner og tiltak ved risiko for smitteoverføring
 
 PLA-021
 
@@ -8762,11 +9215,18 @@ Beherske planlegging av rekonstruktive inngrep basert på anatomi- og fysiologik
 
 PLA-029
 
-Ha god kunnskap om suturering og sårtilheling:ulike suturmaterialer og nåletypersuturvalgtidspunkt for fjernelse av suturer avhengig av lokalisasjon og inngrepets karakter. Beherske sutur- og knuteteknikk.
+Ha god kunnskap om suturering og sårtilheling:
+
+- ulike suturmaterialer og nåletyper
+- suturvalg
+- tidspunkt for fjernelse av suturer avhengig av lokalisasjon og inngrepets karakter. Beherske sutur- og knuteteknikk.
 
 PLA-030
 
-Beherske arrkorreksjoner, både etter kirurgi, skader eller brannskader, herunder:Z-, V-Y, Y-V, W-plastikkerhudtransplantater, delhud og fullhud
+Beherske arrkorreksjoner, både etter kirurgi, skader eller brannskader, herunder:
+
+- Z-, V-Y, Y-V, W-plastikker
+- hudtransplantater, delhud og fullhud
 
 PLA-031
 
@@ -8794,7 +9254,12 @@ Ha god kunnskap om prinsippene ved xenograft, allograft og bruk av annet synteti
 
 PLA-035
 
-Ha god kunnskap om ulike typer vevslapper, herunder:rotasjon, forskyvning, transposisjonrandom lapp, aksial lapp, perforantlappfasciokutanlapp, muskellappfri lapp
+Ha god kunnskap om ulike typer vevslapper, herunder:
+
+- rotasjon, forskyvning, transposisjon
+- random lapp, aksial lapp, perforantlapp
+- fasciokutanlapp, muskellapp
+- fri lapp
 
 PLA-036
 
@@ -8854,7 +9319,13 @@ Beherske rollen som assistent ved slike operasjoner.
 
 PLA-045
 
-Ha kunnskap om leppe-kjeve-ganespalter og operasjonsmetoder, herunder:primære og sekundære spalteoperasjonerleppelukningganelukningpharyngeallappbentransplantat
+Ha kunnskap om leppe-kjeve-ganespalter og operasjonsmetoder, herunder:
+
+- primære og sekundære spalteoperasjoner
+- leppelukning
+- ganelukning
+- pharyngeallapp
+- bentransplantat
 
 Beherske rollen som assistent ved slike operasjoner.
 
@@ -8890,7 +9361,13 @@ Beherske rollen som assistent ved slike operasjoner.
 
 PLA-051
 
-Ha kunnskap om ulike brystmisdannelser og operasjonsmetoder, herunder:inverterte mamillertuberøse brystbrysthypoplasiasymmetri av brystPoland syndrom Beherske rollen som assistent ved slike operasjoner.
+Ha kunnskap om ulike brystmisdannelser og operasjonsmetoder, herunder:
+
+- inverterte mamiller
+- tuberøse bryst
+- brysthypoplasi
+- asymmetri av bryst
+- Poland syndrom Beherske rollen som assistent ved slike operasjoner.
 
 PLA-052
 
@@ -8956,7 +9433,17 @@ Ha kunnskap om facialisparese og ulik etiologi.
 
 PLA-064
 
-Under supervisjon kunne vurdere og informere om facialisparese og beherske rollen som assistent ved inngrep, herunder:cross-face nervegraftingdynamisk reanimasjonstatisk rekonstruksjonmuskeltransposisjonfri muskellappgullvekttarsoraficanthopeksiøyebrynsløft
+Under supervisjon kunne vurdere og informere om facialisparese og beherske rollen som assistent ved inngrep, herunder:
+
+- cross-face nervegrafting
+- dynamisk reanimasjon
+- statisk rekonstruksjon
+- muskeltransposisjon
+- fri muskellapp
+- gullvekt
+- tarsorafi
+- canthopeksi
+- øyebrynsløft
 
 ### 18.11 Mikrokirurgi
 
@@ -8984,7 +9471,15 @@ Beherske rollen som assistent ved operasjoner, herunder:
 
 PLA-067
 
-Ha god kunnskap om normal brystanatomi og -patologi herunder:hypertrofia mammaeptosis mammaetuberøse brysthypoplasia/aplasia mammaeasymmetria mammaeinverterte mamillergynekomasti
+Ha god kunnskap om normal brystanatomi og -patologi herunder:
+
+- hypertrofia mammae
+- ptosis mammae
+- tuberøse bryst
+- hypoplasia/aplasia mammae
+- asymmetria mammae
+- inverterte mamiller
+- gynekomasti
 
 PLA-068
 
@@ -9162,7 +9657,20 @@ Beherske rollen som assistent ved operasjoner, herunder ved:
 
 PLA-093
 
-Ha kunnskap om estetisk ansiktskirurgi, operasjonsmetoder, komplikasjoner og beherske rollen som assistent, herunder ved:ansiktsløftpanneløftøyebrynsløftkjemisk/mekanisk/laser peelingnedre øyelokksplastikkrhinoplastikkansiktsproteserfettransplantasjonfillersBotoxhårtransplantasjonfettsuging
+Ha kunnskap om estetisk ansiktskirurgi, operasjonsmetoder, komplikasjoner og beherske rollen som assistent, herunder ved:
+
+- ansiktsløft
+- panneløft
+- øyebrynsløft
+- kjemisk/mekanisk/laser peeling
+- nedre øyelokksplastikk
+- rhinoplastikk
+- ansiktsproteser
+- fettransplantasjon
+- fillers
+- Botox
+- hårtransplantasjon
+- fettsuging
 
 PLA-094
 
@@ -9170,7 +9678,15 @@ Ha god kunnskap om øvre øyelokksplastikk og operasjonsmetode. Selvstendig kunn
 
 PLA-095
 
-Ha god kunnskap om estetisk brystkirurgi, operasjonsmetoder og mulige komplikasjoner samt behandlingen av disse, herunder ved:brystreduksjonmastopeksibrystaugmentasjonmastopeksiaugmentasjonfettsuging av brystfettransplantasjon til brystgynekomasti
+Ha god kunnskap om estetisk brystkirurgi, operasjonsmetoder og mulige komplikasjoner samt behandlingen av disse, herunder ved:
+
+- brystreduksjon
+- mastopeksi
+- brystaugmentasjon
+- mastopeksiaugmentasjon
+- fettsuging av bryst
+- fettransplantasjon til bryst
+- gynekomasti
 
 PLA-096
 
@@ -9275,7 +9791,14 @@ Ha god kunnskap om etiologi, patologi, patogenese og epidemiologi ved non-melano
 
 PLA-112
 
-Beherske diagnostisering av non-melanom hudcancer og andre tumores herunder:basalcellekarsinom (nodulære, superficielle, morfea)plateepitelkarsinomMerkelcelletumoradnextumoressarkomermetastaser
+Beherske diagnostisering av non-melanom hudcancer og andre tumores herunder:
+
+- basalcellekarsinom (nodulære, superficielle, morfea)
+- plateepitelkarsinom
+- Merkelcelletumor
+- adnextumores
+- sarkomer
+- metastaser
 
 PLA-113
 
@@ -9631,7 +10154,11 @@ Alle felles kirurgiske læringsmål i kapittel C12. og følgende læringsmål:
 
 URO-001
 
-Selvstendig kunne utrede og initialt behandle akutt hematuri og hydronefrose, herunder beherske:cystoskopievakuering av koagler fra urinblæreJJ-stent versus nefrostomikateter
+Selvstendig kunne utrede og initialt behandle akutt hematuri og hydronefrose, herunder beherske:
+
+- cystoskopi
+- evakuering av koagler fra urinblære
+- JJ-stent versus nefrostomikateter
 
 URO-002
 
@@ -9923,7 +10450,11 @@ Ha god kunnskap om og kunne utrede pasienter med ulike typer inkontinens.
 
 URO-064
 
-Ha kunnskap om behandlingsmetoder og operasjonsmetoder både ved primær inkontinens og ved inkontinens sekundært til annen behandling, herunder:kirurgi ved stressincontinenssfinkterproteseelektrostimulering
+Ha kunnskap om behandlingsmetoder og operasjonsmetoder både ved primær inkontinens og ved inkontinens sekundært til annen behandling, herunder:
+
+- kirurgi ved stressincontinens
+- sfinkterprotese
+- elektrostimulering
 
 URO-065
 
@@ -10447,7 +10978,20 @@ Selvstendig kunne ivareta pasientsikkerhet ved systemsvikt.
 
 ANE-007
 
-Ha god kunnskap om og selvstendig kunne bruke medisinskteknisk utstyr som rutinemessig anvendes i anestesiologisk og intensivmedisinsk praksis, herunder:aktuelle respiratorer og utstyr til non-invasiv respirasjonsstøttelaryngoskopbronkoskop og videolaryngoskopblodtrykksapparatur, EKG, noninvasivt og invasivt hemodynamisk monitoreringsutstyrkapnograf og pulsoksimeternervestimulatordefibrillator og ekstern pacemakerinfusjonspumper, pasientkontrollerte infusjonspumperutstyr for væske/blodvarmingultralydapparatutstyr for nyreerstattende behandlingutstyr for hypo/hypertermibehandling
+Ha god kunnskap om og selvstendig kunne bruke medisinskteknisk utstyr som rutinemessig anvendes i anestesiologisk og intensivmedisinsk praksis, herunder:
+
+- aktuelle respiratorer og utstyr til non-invasiv respirasjonsstøtte
+- laryngoskop
+- bronkoskop og videolaryngoskop
+- blodtrykksapparatur, EKG, noninvasivt og invasivt hemodynamisk monitoreringsutstyr
+- kapnograf og pulsoksimeter
+- nervestimulator
+- defibrillator og ekstern pacemaker
+- infusjonspumper, pasientkontrollerte infusjonspumper
+- utstyr for væske/blodvarming
+- ultralydapparat
+- utstyr for nyreerstattende behandling
+- utstyr for hypo/hypertermibehandling
 
 ANE-008
 
@@ -10459,29 +11003,53 @@ Ha god kunnskap om basalt strålevern ved bruk av radiologisk utstyr.
 
 ANE-010
 
-Selvstendig kunne ivareta stabiliserende akuttbehandling ved akutte cerebrale tilstander, herunder:endret bevissthetsnivåcerebrovaskulære tilstanderepilepsi
+Selvstendig kunne ivareta stabiliserende akuttbehandling ved akutte cerebrale tilstander, herunder:
+
+- endret bevissthetsnivå
+- cerebrovaskulære tilstander
+- epilepsi
 
 ANE-011
 
-Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte kardiologiske tilstander, herunder:akutt koronarsyndromarytmierhypertensive kriseraortadisseksjonakutt dekompensert hjertesvikt
+Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte kardiologiske tilstander, herunder:
+
+- akutt koronarsyndrom
+- arytmier
+- hypertensive kriser
+- aortadisseksjon
+- akutt dekompensert hjertesvikt
 
 Selvstendig kunne ivareta stabiliserende akuttbehandling.
 
 ANE-012
 
-Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte respirasjonstilstander, herunder:akutt respirasjonssviktobstruktive luftveistilstanderlungeembolisme
+Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte respirasjonstilstander, herunder:
+
+- akutt respirasjonssvikt
+- obstruktive luftveistilstander
+- lungeembolisme
 
 Selvstendig kunne ivareta stabiliserende akuttbehandling.
 
 ANE-013
 
-Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte nefrologiske og endokrinologiske tilstander herunder:akutt nyresviktforstyrrelser i væske-/elektrolytt og syre-/basebalansenhyper- og hypoglykemithyrotoxisk krise
+Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste akutte nefrologiske og endokrinologiske tilstander herunder:
+
+- akutt nyresvikt
+- forstyrrelser i væske-/elektrolytt og syre-/basebalansen
+- hyper- og hypoglykemi
+- thyrotoxisk krise
 
 Selvstendig kunne ivareta stabiliserende akuttbehandling.
 
 ANE-014
 
-Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste gastroenterologiske tilstander, herunder:blødninger fra GI-traktusakutt leversviktakutt pancreatittakutt abdomen
+Ha god kunnskap om indremedisinsk diagnostikk og behandling ved de vanligste gastroenterologiske tilstander, herunder:
+
+- blødninger fra GI-traktus
+- akutt leversvikt
+- akutt pancreatitt
+- akutt abdomen
 
 Selvstendig kunne ivareta stabiliserende akuttbehandling.
 
@@ -10491,7 +11059,24 @@ Selvstendig kunne håndtere akuttbehandling av allergiske reaksjoner. Ha god kun
 
 ANE-016
 
-Ha god kunnskap om kroniske tilstander hos voksne og barn som har betydning for spesialiteten anestesiologi, herunder:kronisk obstruktive og restriktive lungelidelserpulmonal hypertensjonkronisk hjertesvikt inkludert klaffelidelserkoronarsykdomkoagulopatier/trombofilicerebrovaskulær sykdomnevromuskulære lidelserepilepsikronisk mage- og tarmsykdomleversviktnyresviktdiabetes mellitusbinyrebarksviktthyreoideadysfunksjonsykelig overvektposttransplantasjonsmedisin
+Ha god kunnskap om kroniske tilstander hos voksne og barn som har betydning for spesialiteten anestesiologi, herunder:
+
+- kronisk obstruktive og restriktive lungelidelser
+- pulmonal hypertensjon
+- kronisk hjertesvikt inkludert klaffelidelser
+- koronarsykdom
+- koagulopatier/trombofili
+- cerebrovaskulær sykdom
+- nevromuskulære lidelser
+- epilepsi
+- kronisk mage- og tarmsykdom
+- leversvikt
+- nyresvikt
+- diabetes mellitus
+- binyrebarksvikt
+- thyreoideadysfunksjon
+- sykelig overvekt
+- posttransplantasjonsmedisin
 
 Selvstendig kunne ivareta behandling av kroniske tilstander ved anestesi og interkurrent akutt sykdom.
 
@@ -10499,7 +11084,14 @@ Selvstendig kunne identifisere behov for endret behandling og gjennomføre dette
 
 ANE-017
 
-Ha god kunnskap om nytte og begrensninger av ulike diagnostiske undersøkelser, herunder:ekkokardiografiarbeids-EKGkoronar angiografispirometriblodgassanalysemåling av gassdiffusjon.
+Ha god kunnskap om nytte og begrensninger av ulike diagnostiske undersøkelser, herunder:
+
+- ekkokardiografi
+- arbeids-EKG
+- koronar angiografi
+- spirometri
+- blodgassanalyse
+- måling av gassdiffusjon.
 
 Selvstendig kunne nyttiggjøre seg av informasjonen i anestesiologiske vurderinger.
 
@@ -10517,19 +11109,42 @@ Selvstendig kunne håndtere pasienter med alvorlig infeksjon ut fra gjeldende re
 
 ANE-021
 
-Ha god kunnskap om og selvstendig kunne behandle akutte intoksikasjoner i samarbeid med aktuelle spesialiteter, herunder ha god kunnskap om:klinisk presentasjon og farmakologi for de vanligste brukte rusmiddel og stoffer assosierte med aksidentell og voluntær intoksikasjonakuttbehandling inklusive bruk av antidoter, medisinsk kull, brekkmiddel og ventrikkelskyllinggiftinformasjonstjenesten i Norge
+Ha god kunnskap om og selvstendig kunne behandle akutte intoksikasjoner i samarbeid med aktuelle spesialiteter, herunder ha god kunnskap om:
+
+- klinisk presentasjon og farmakologi for de vanligste brukte rusmiddel og stoffer assosierte med aksidentell og voluntær intoksikasjon
+- akuttbehandling inklusive bruk av antidoter, medisinsk kull, brekkmiddel og ventrikkelskylling
+- giftinformasjonstjenesten i Norge
 
 ANE-022
 
-Beherske grunnleggende stabiliserende akuttbehandling av barn i alle aldre, inntil transport til høyere behandlingsnivå er mulig, herunder ha god kunnskap om:spesielle fysiologiske og anatomiske forholdvurdering av alvorlighetsgrad ut fra klinisk undersøkelse, vitalparametere og etablerte skåringssystembruk av aldersjusterte referanseverdierspesielle farmakologiske hensynspesielle forhold ved organstøttende behandling, herunder mekanisk ventilasjon, sirkulasjonsstøtte, blod- og væskebehandling
+Beherske grunnleggende stabiliserende akuttbehandling av barn i alle aldre, inntil transport til høyere behandlingsnivå er mulig, herunder ha god kunnskap om:
+
+- spesielle fysiologiske og anatomiske forhold
+- vurdering av alvorlighetsgrad ut fra klinisk undersøkelse, vitalparametere og etablerte skåringssystem
+- bruk av aldersjusterte referanseverdier
+- spesielle farmakologiske hensyn
+- spesielle forhold ved organstøttende behandling, herunder mekanisk ventilasjon, sirkulasjonsstøtte, blod- og væskebehandling
 
 ANE-023
 
-Ha kunnskap om stabilisering av vitale funksjoner hos premature og fullbårne nyfødte, og kunne utføre slik behandling under supervisjon/i samråd med pediater, herunder:vurdering av barnets tilstand, inkludert Apgar-scoreovervåkning av vitale funksjonerkuvøsebehandlingetablering og vedlikehold av non-invasiv og invasiv ventilasjonsstøtte ved respirasjonssviktanleggelse av navlevenekateterinitialbehandling av neonatal hypoglykemi, infeksjon, abstinens og kramper i samråd med pediaterprostaglandinbehandling ved mistanke om hjertefeil
+Ha kunnskap om stabilisering av vitale funksjoner hos premature og fullbårne nyfødte, og kunne utføre slik behandling under supervisjon/i samråd med pediater, herunder:
+
+- vurdering av barnets tilstand, inkludert Apgar-score
+- overvåkning av vitale funksjoner
+- kuvøsebehandling
+- etablering og vedlikehold av non-invasiv og invasiv ventilasjonsstøtte ved respirasjonssvikt
+- anleggelse av navlevenekateter
+- initialbehandling av neonatal hypoglykemi, infeksjon, abstinens og kramper i samråd med pediater
+- prostaglandinbehandling ved mistanke om hjertefeil
 
 ANE-024
 
-Ha god kunnskap om bruk av ultralyd i anestesiologisk praksis, herunder:grunnleggende fysiske prinsipperultralydapparatets funksjoner og viktigste innstillingervurdering av bildekvalitetbegrensninger i egen tolkningsevne og hvordan dette påvirker diagnostisk bruk
+Ha god kunnskap om bruk av ultralyd i anestesiologisk praksis, herunder:
+
+- grunnleggende fysiske prinsipper
+- ultralydapparatets funksjoner og viktigste innstillinger
+- vurdering av bildekvalitet
+- begrensninger i egen tolkningsevne og hvordan dette påvirker diagnostisk bruk
 
 ANE-025
 
@@ -10539,7 +11154,15 @@ Ha god kunnskap om indikasjon og metode for ultralydveiledet pleuradrenasje, sam
 
 ANE-026
 
-Selvstendig kunne utføre en fokusorientert ultralydundersøkelse av hjertet, aorta og store kar, herunder:å visuelt bedømme pumpefunksjonkunne prinsipp om bruk av fargedoppler, herunder påvisning av klaffelekkasjerå måle diameter av aorta og se etter aortadisseksjonå påvise perikardvæske og tegn til hjertetamponadeå gjenkjenne akutt belastning av høyre hjertehalvdel, herunder ved stor lungeembolibruk av hjerteultralyd i vurdering av hemodynamikk under resusciteringvære bevisst begrensinger, feilkilder og fallgruver som ligger i bruk av hjerteultralydmetoden
+Selvstendig kunne utføre en fokusorientert ultralydundersøkelse av hjertet, aorta og store kar, herunder:
+
+- å visuelt bedømme pumpefunksjon
+- kunne prinsipp om bruk av fargedoppler, herunder påvisning av klaffelekkasjer
+- å måle diameter av aorta og se etter aortadisseksjon
+- å påvise perikardvæske og tegn til hjertetamponade
+- å gjenkjenne akutt belastning av høyre hjertehalvdel, herunder ved stor lungeemboli
+- bruk av hjerteultralyd i vurdering av hemodynamikk under resuscitering
+- være bevisst begrensinger, feilkilder og fallgruver som ligger i bruk av hjerteultralydmetoden
 
 ANE-027
 
@@ -10553,7 +11176,11 @@ Beherske aktuelle akuttprosedyrer ut fra gjeldende retningslinjer.
 
 ANE-029
 
-Ha god kunnskap om væskebehandling, herunder:valg av væske for transfusjon; indikasjoner, kontraindikasjoner og forsiktighetsreglermetoder for å estimere væskeresponsmonitorering
+Ha god kunnskap om væskebehandling, herunder:
+
+- valg av væske for transfusjon; indikasjoner, kontraindikasjoner og forsiktighetsregler
+- metoder for å estimere væskerespons
+- monitorering
 
 ANE-030
 
@@ -10592,7 +11219,20 @@ Selvstendig kunne utføre avansert hjerte-/lungeredning (AHLR) på voksne, barn 
 
 ANE-035
 
-Selvstendig kunne iverksette livreddende og stabiliserende behandling, samt gjenoppliving, ved ulike utløsende tilstander, herunder beherske spesielle hensyn og tiltak ved:drukningtromboemboliske tilstanderintoxikasjonerhjertetamponade og postoperativ hjertestans etter thoraxkirurgitrykkpneumothoraxhypo- og hypertermihypovolemialvorlige elektrolyttforstyrrelserprimær hypoksi og inhalsjonsskaderprimære maligne arytmierstumpe og penertrerende traumerhjertestans hos gravide
+Selvstendig kunne iverksette livreddende og stabiliserende behandling, samt gjenoppliving, ved ulike utløsende tilstander, herunder beherske spesielle hensyn og tiltak ved:
+
+- drukning
+- tromboemboliske tilstander
+- intoxikasjoner
+- hjertetamponade og postoperativ hjertestans etter thoraxkirurgi
+- trykkpneumothorax
+- hypo- og hypertermi
+- hypovolemi
+- alvorlige elektrolyttforstyrrelser
+- primær hypoksi og inhalsjonsskader
+- primære maligne arytmier
+- stumpe og penertrerende traumer
+- hjertestans hos gravide
 
 ANE-036
 
@@ -10646,15 +11286,26 @@ Ha kunnskap om prinsipper for organisering av skadested og triagering av pasient
 
 ANE-046
 
-Ha kunnskap om organiseringen av den akuttmedisinske kjeden, herunder:organiseringen av Akuttmedisinsk kommunikasjonssentral (AMK) og håndtering av nødsamtalerhvordan ressurser aktiveres ved ulike hendelser
+Ha kunnskap om organiseringen av den akuttmedisinske kjeden, herunder:
+
+- organiseringen av Akuttmedisinsk kommunikasjonssentral (AMK) og håndtering av nødsamtaler
+- hvordan ressurser aktiveres ved ulike hendelser
 
 ANE-047
 
-Ha kunnskap om organisering av ambulanse og luftambulansetjenesten og deres rolle i den akuttmedisinske kjeden, herunder:kriterier for utkallprimær- og sekundæroppdragtjenestens operative og faglige kompetanse
+Ha kunnskap om organisering av ambulanse og luftambulansetjenesten og deres rolle i den akuttmedisinske kjeden, herunder:
+
+- kriterier for utkall
+- primær- og sekundæroppdrag
+- tjenestens operative og faglige kompetanse
 
 ANE-048
 
-Selvstendig kunne planlegge transporter av kritisk syke i sykehus og ha god kunnskap om planlegging av slik transport, herunder:aktuelt medisinsk teknisk utstyr og monitoreringsedasjon og organstøttende behandlingkommunikasjon ved avhenting og overlevering
+Selvstendig kunne planlegge transporter av kritisk syke i sykehus og ha god kunnskap om planlegging av slik transport, herunder:
+
+- aktuelt medisinsk teknisk utstyr og monitorering
+- sedasjon og organstøttende behandling
+- kommunikasjon ved avhenting og overlevering
 
 ### 22.3 Anestesi og perioperativ medisin
 
@@ -10672,11 +11323,29 @@ Selvstendig kunne utarbeide en helhetlig plan for anestesi og perioperativt forl
 
 ANE-051
 
-Selvstendig kunne håndtere sikker overflytting til postoperartiv-/intensivavdeling, kontinuerlig postopertiv overvåkning og behandling av de vanligste problemer i den postoperative fasen, herunder:respirasjons- og luftveiskomplikasjonervæske og elektrolyttforstyrrelsersviktende nyrefunksjonhjerte- og sirkulasjonssviktmultimodal smertelindring med alders- og funksjonstilpassede verktøykvalme og oppkastblødningerdelir og CNS-påvirkning
+Selvstendig kunne håndtere sikker overflytting til postoperartiv-/intensivavdeling, kontinuerlig postopertiv overvåkning og behandling av de vanligste problemer i den postoperative fasen, herunder:
+
+- respirasjons- og luftveiskomplikasjoner
+- væske og elektrolyttforstyrrelser
+- sviktende nyrefunksjon
+- hjerte- og sirkulasjonssvikt
+- multimodal smertelindring med alders- og funksjonstilpassede verktøy
+- kvalme og oppkast
+- blødninger
+- delir og CNS-påvirkning
 
 ANE-052
 
-Ha god kunnskap om og beherske bruk av ulikt utstyr for luftveistilgang:maskeventilasjon med bagsvelgtubernasofaryngeal luftveiulike supraglottiske luftveisutstyr, herunder larynxmaskeendotrakealtubedobbeltlumentubetrakealkanylertubeleder (boogie)
+Ha god kunnskap om og beherske bruk av ulikt utstyr for luftveistilgang:
+
+- maskeventilasjon med bag
+- svelgtuber
+- nasofaryngeal luftvei
+- ulike supraglottiske luftveisutstyr, herunder larynxmaske
+- endotrakealtube
+- dobbeltlumentube
+- trakealkanyler
+- tubeleder (boogie)
 
 Selvstendig kunne sikre luftveistilgang med intubasjon ved hjelp av direkte laryngoskopi, videolaryngoskopi og fiberoptisk bronkoskop.
 
@@ -10690,7 +11359,10 @@ Selvstendig kunne håndtere en uventet vanskelig luftvei etter algoritme for hå
 
 ANE-054
 
-Ha god kunnskap om og selvstendig kunne håndtere ulike metoder for innledning av anestesi, herunder:hurtiginnledningmaskeinnledning/gassinnledning
+Ha god kunnskap om og selvstendig kunne håndtere ulike metoder for innledning av anestesi, herunder:
+
+- hurtiginnledning
+- maskeinnledning/gassinnledning
 
 ANE-055
 
@@ -10698,7 +11370,12 @@ Ha god kunnskap om og selvstendig kunne utføre en kirurgisk- eller percutan luf
 
 ANE-056
 
-Ha god kunnskap om og beherske bruk av de ulike anestesiformene, herundertotal intravenøs anestesigassanestesineuraxial- og regionalanestesisedasjon, alene og i kombinasjon med neuraxial-/regionalanestesi.
+Ha god kunnskap om og beherske bruk av de ulike anestesiformene, herunder
+
+- total intravenøs anestesi
+- gassanestesi
+- neuraxial- og regionalanestesi
+- sedasjon, alene og i kombinasjon med neuraxial-/regionalanestesi.
 
 ANE-057
 
@@ -10712,23 +11389,58 @@ Ha god kunnskap om fysiologiske og farmakologiske utfordringer hos eldre. Selvst
 
 ANE-059
 
-Selvstendig kunne gjenkjenne og håndtere de vanligste peroperative luftveiskomplikasjoner, herunder:ufri luftveiøsofagusintubasjonendobronkial intubasjonaksidentell ekstubasjonlaryngospasme og bronkospasmegassemboliaspirasjonpneumothoraxhypoksi, hypo- og hyperventilasjon, og høyt luftveistrykk
+Selvstendig kunne gjenkjenne og håndtere de vanligste peroperative luftveiskomplikasjoner, herunder:
+
+- ufri luftvei
+- øsofagusintubasjon
+- endobronkial intubasjon
+- aksidentell ekstubasjon
+- laryngospasme og bronkospasme
+- gassemboli
+- aspirasjon
+- pneumothorax
+- hypoksi, hypo- og hyperventilasjon, og høyt luftveistrykk
 
 ANE-060
 
-Selvstendig kunne gjenkjenne og håndtere de vanligste peroperative anestesirelaterte komplikasjoner, herunder:postpunksjonshodepine etter neuraxial anestesi/analgesitoxisitet av lokalanestestikahyper- og hypotensjonarytmiermyokardiskemioliguri og anurihypo- og hypertermimalign hypertermianafylaksiinadekvat neuraxial blokkadeintraoperativ 'awareness'kramper
+Selvstendig kunne gjenkjenne og håndtere de vanligste peroperative anestesirelaterte komplikasjoner, herunder:
+
+- postpunksjonshodepine etter neuraxial anestesi/analgesi
+- toxisitet av lokalanestestika
+- hyper- og hypotensjon
+- arytmier
+- myokardiskemi
+- oliguri og anuri
+- hypo- og hypertermi
+- malign hypertermi
+- anafylaksi
+- inadekvat neuraxial blokkade
+- intraoperativ 'awareness'
+- kramper
 
 ANE-061
 
-Ha god kunnskap om bruk av muskelrelakserende medikamenter, herunder:monitorering av nevromuskulær funksjongjenkjennelse av restblokkade og reversering
+Ha god kunnskap om bruk av muskelrelakserende medikamenter, herunder:
+
+- monitorering av nevromuskulær funksjon
+- gjenkjennelse av restblokkade og reversering
 
 ANE-062
 
-Ha god kunnskap om og selvstendig kunne håndtere de særskilte utfordringene ved anestesi til akutt og elektiv laparotomi, herunder:større blødningvæskeskiftperioperativ smertestillingkombinert neuraxial blokkade og generell anestesi
+Ha god kunnskap om og selvstendig kunne håndtere de særskilte utfordringene ved anestesi til akutt og elektiv laparotomi, herunder:
+
+- større blødning
+- væskeskift
+- perioperativ smertestilling
+- kombinert neuraxial blokkade og generell anestesi
 
 ANE-063
 
-Ha god kunnskap om og selvstendig kunne håndtere de særskilte utfordringene ved anestesi til laparoskopi, herunder:ekstrem leiring av pasienteffekter av CO2-inflasjon i buk herunder hypercarbi, økt intraabdominalt trykkgassemboli
+Ha god kunnskap om og selvstendig kunne håndtere de særskilte utfordringene ved anestesi til laparoskopi, herunder:
+
+- ekstrem leiring av pasient
+- effekter av CO2-inflasjon i buk herunder hypercarbi, økt intraabdominalt trykk
+- gassemboli
 
 ANE-064
 
@@ -10756,7 +11468,12 @@ Ha god kunnskap om og beherske de særskilte utfordringene ved anestesi til orto
 
 ANE-069
 
-Ha god kunnskap om og beherske de særskilte utfordringene ved obstetrisk anestesi og analgesi, herunder:svangerskapsfysiologi, inklusiv påvirkning av hemodynamikk ved anestesi til friske gravidede vanligste og mest alvorlige akutte tilstander i svangerskapet, herunder preeklampsi og peripartumblødningerindikasjoner og kontraindikasjoner for regionalanestesi til friske fødende og kvinner med komorbiditetpostpartumblødninger, inklusiv bruk av uterotonika
+Ha god kunnskap om og beherske de særskilte utfordringene ved obstetrisk anestesi og analgesi, herunder:
+
+- svangerskapsfysiologi, inklusiv påvirkning av hemodynamikk ved anestesi til friske gravide
+- de vanligste og mest alvorlige akutte tilstander i svangerskapet, herunder preeklampsi og peripartumblødninger
+- indikasjoner og kontraindikasjoner for regionalanestesi til friske fødende og kvinner med komorbiditet
+- postpartumblødninger, inklusiv bruk av uterotonika
 
 ANE-070
 
@@ -10784,7 +11501,13 @@ Ha god kunnskap om og beherske spesielle forhold knyttet til anestesiprosedyrer 
 
 ANE-075
 
-Ha god kunnskap om spesielle forhold knyttet til barneanestesi, herunder:anatomiske forhold relevante for luftveishåndtering, sirkulasjon og bruk av regional anestesispesielle forhold knyttet til respirasjon og sirkulasjonsfysiologi, væskebalanse og termoreguleringfysisk og mental utvikling av friske barnspesielle farmakologiske forhold ved de vanligst brukte medikamentenevanligst forekommende tilstander/komorbiditet som påvirker håndtering av anestesi
+Ha god kunnskap om spesielle forhold knyttet til barneanestesi, herunder:
+
+- anatomiske forhold relevante for luftveishåndtering, sirkulasjon og bruk av regional anestesi
+- spesielle forhold knyttet til respirasjon og sirkulasjonsfysiologi, væskebalanse og termoregulering
+- fysisk og mental utvikling av friske barn
+- spesielle farmakologiske forhold ved de vanligst brukte medikamentene
+- vanligst forekommende tilstander/komorbiditet som påvirker håndtering av anestesi
 
 Beherske anestesi og perioperativ håndtering av barn eldre enn 3 år.
 
@@ -10796,7 +11519,11 @@ Kunne utføre anestesi til barn under 3 år under supervisjon av spesialist med 
 
 ANE-137
 
-Selvstendig kunne håndtere spesielle forhold ved anestesi og perioperativ behandling av nevrokirurgiske pasienter, herunder:Leiring med hodet høyestAnestesi ved hodetraume og ryggmargsskadeAnestesi ved organdonasjon
+Selvstendig kunne håndtere spesielle forhold ved anestesi og perioperativ behandling av nevrokirurgiske pasienter, herunder:
+
+- Leiring med hodet høyest
+- Anestesi ved hodetraume og ryggmargsskade
+- Anestesi ved organdonasjon
 
 ANE-079
 
@@ -10804,7 +11531,12 @@ Kunne utføre anestesi ved cerebrovaskulær kirurgi og intervensjonsradiologi un
 
 ANE-080
 
-Kunne utføre anestesi ved hjertekirurgi under supervisjon, herunder ha kunnskap om:hemodynamiske forhold ved hjerte- og thoraxanestesiaorta ballong-pumpe, hjerte-lungemaskin og ekstrakorporal membranoksygeneringantikoagulasjon og bruk av kardioplegihåndtering av thoraxdrenasje, pneumothorax og pericardtamponade
+Kunne utføre anestesi ved hjertekirurgi under supervisjon, herunder ha kunnskap om:
+
+- hemodynamiske forhold ved hjerte- og thoraxanestesi
+- aorta ballong-pumpe, hjerte-lungemaskin og ekstrakorporal membranoksygenering
+- antikoagulasjon og bruk av kardioplegi
+- håndtering av thoraxdrenasje, pneumothorax og pericardtamponade
 
 ANE-081
 
@@ -10818,11 +11550,21 @@ Herunder ha god kunnskap om:
 
 ANE-082
 
-Ha kunnskap om og kunne håndtere under supervisjon de særskilte utfordringene ved anestesi for lungekirurgi, herunder:preoperativ vurdering av lungefunksjoneffekter av ulikt leie og en-lungeventilasjon på ventilasjon og lungesirkulasjonulike teknikker for separert lungeventilasjon og kontroll av tubeposisjonperioperativ håndtering av aktiv og passiv thoraxdrenasje
+Ha kunnskap om og kunne håndtere under supervisjon de særskilte utfordringene ved anestesi for lungekirurgi, herunder:
+
+- preoperativ vurdering av lungefunksjon
+- effekter av ulikt leie og en-lungeventilasjon på ventilasjon og lungesirkulasjon
+- ulike teknikker for separert lungeventilasjon og kontroll av tubeposisjon
+- perioperativ håndtering av aktiv og passiv thoraxdrenasje
 
 ANE-136
 
-Selvstendig kunne håndtere spesielle forhold hos pasienter med forhøyet intrakranielt trykk, herunder:monitorering av cerebralt blodfløde, intrakranielt trykk og cerebralt perfusjonstrykkneuroprotektiv behandling inkl. væske- og osmotisk-terapi, sedasjon og ventilasjonsstøttespesielle farmakologiske hensynindikasjon for og håndtering av pasienter med ekstern ventrikkeldrenasje, i samråd med nevrokirurg
+Selvstendig kunne håndtere spesielle forhold hos pasienter med forhøyet intrakranielt trykk, herunder:
+
+- monitorering av cerebralt blodfløde, intrakranielt trykk og cerebralt perfusjonstrykk
+- neuroprotektiv behandling inkl. væske- og osmotisk-terapi, sedasjon og ventilasjonsstøtte
+- spesielle farmakologiske hensyn
+- indikasjon for og håndtering av pasienter med ekstern ventrikkeldrenasje, i samråd med nevrokirurg
 
 ### 22.4 Intensivmedisin
 
@@ -10836,27 +11578,63 @@ Selvstendig kunne gjenkjenne tegn på begynnende organsvikt, triagere/risikovurd
 
 ANE-085
 
-Selvstendig kunne ivareta god pasientbehandling gjennom et fullstendig intensivforløp, herunder beherske:multidisiplinært samarbeid med intensivsykepleiere og andre relevante spesialiteterkontinuerlig overvåkning av organfunksjonfortløpende vurdering av behandlingsplan ut fra klinisk respons, akutt- og kronisk komorbiditetgod kommunikasjon med pasienter og pårørendeforsvarlig dokumentasjon av behandlingsforløpet og sikkert mottak og utskrivning til annet behandlingsnivå
+Selvstendig kunne ivareta god pasientbehandling gjennom et fullstendig intensivforløp, herunder beherske:
+
+- multidisiplinært samarbeid med intensivsykepleiere og andre relevante spesialiteter
+- kontinuerlig overvåkning av organfunksjon
+- fortløpende vurdering av behandlingsplan ut fra klinisk respons, akutt- og kronisk komorbiditet
+- god kommunikasjon med pasienter og pårørende
+- forsvarlig dokumentasjon av behandlingsforløpet og sikkert mottak og utskrivning til annet behandlingsnivå
 
 ANE-086
 
-Selvstendig kunne ta beslutning om avslutning eller tilbakehold av behandling i et multidisiplinært samarbeid, basert på generelle og individuelle prognostiske faktorer, herunder beherske samarbeid omdiskusjon rundt omsorg og behandling med pasient og pårørendeplanlegging og gjennomføring av palliativ behandling i intensivavdelinggjennomføring av ettersamtale med pårørende
+Selvstendig kunne ta beslutning om avslutning eller tilbakehold av behandling i et multidisiplinært samarbeid, basert på generelle og individuelle prognostiske faktorer, herunder beherske samarbeid om
+
+- diskusjon rundt omsorg og behandling med pasient og pårørende
+- planlegging og gjennomføring av palliativ behandling i intensivavdeling
+- gjennomføring av ettersamtale med pårørende
 
 ANE-087
 
-Selvstendig kunne gjenkjenne, forebygge og behandle smerte og delirium under intensivbehandling, herunder:utforme en individuelt tilpasset plan for analgesi, sedasjon og profylakse mot deliriumanvende skåringssystemer for smerte, sedasjonsdybde og delirium for løpende vurdering av behandlingsbehovplanlegge og gjennomføre nedtrapping og forebygge, identifisere og behandle abstinens
+Selvstendig kunne gjenkjenne, forebygge og behandle smerte og delirium under intensivbehandling, herunder:
+
+- utforme en individuelt tilpasset plan for analgesi, sedasjon og profylakse mot delirium
+- anvende skåringssystemer for smerte, sedasjonsdybde og delirium for løpende vurdering av behandlingsbehov
+- planlegge og gjennomføre nedtrapping og forebygge, identifisere og behandle abstinens
 
 ANE-088
 
-Selvstendig kunne vurdere ernæringstilstand, og med hensyn til aktuell situasjon forordne en individuell ernæringsplan ved ulike intensivmedisinske tilstander, herunder:brannskadersepsistraumerorgansviktgastrointestinal dysfunksjonunderernæring/feilernæringreernæringssyndrom
+Selvstendig kunne vurdere ernæringstilstand, og med hensyn til aktuell situasjon forordne en individuell ernæringsplan ved ulike intensivmedisinske tilstander, herunder:
+
+- brannskader
+- sepsis
+- traumer
+- organsvikt
+- gastrointestinal dysfunksjon
+- underernæring/feilernæring
+- reernæringssyndrom
 
 ANE-089
 
-Selvstendig kunne vurdere risiko for og iverksette forebyggende og terapeutiske tiltak ved de vanligst forekommende komplikasjoner, herunder:tromboemboliske hendelserventilatorassosiert lungeskadestressulcusnyresviktnosokomial infeksjonobstipasjon/ventrikkelretensjondeliriumtrykksår/liggesårmedikamentbivirkninger
+Selvstendig kunne vurdere risiko for og iverksette forebyggende og terapeutiske tiltak ved de vanligst forekommende komplikasjoner, herunder:
+
+- tromboemboliske hendelser
+- ventilatorassosiert lungeskade
+- stressulcus
+- nyresvikt
+- nosokomial infeksjon
+- obstipasjon/ventrikkelretensjon
+- delirium
+- trykksår/liggesår
+- medikamentbivirkninger
 
 ANE-090
 
-Beherske relevante skåringssystemer for vurdering av intensivpasienter herunderprognostiske skåringssystemorgansviktskårressursbrukskår
+Beherske relevante skåringssystemer for vurdering av intensivpasienter herunder
+
+- prognostiske skåringssystem
+- organsviktskår
+- ressursbrukskår
 
 ANE-091
 
@@ -10864,7 +11642,14 @@ Ha god kunnskap om betydningen av kardiovaskulær komorbiditet ved kritisk sykdo
 
 ANE-092
 
-Ha god kunnskap om og i samarbeid med andre spesialister beherske generell intensivbehandling ved sirkulasjonssvikt av ulike årsaker, herunder beherske intervensjon med:vasoaktivainotropikaantiarytmikaelektrokonverteringekstern pacingvæske- og volumterapi
+Ha god kunnskap om og i samarbeid med andre spesialister beherske generell intensivbehandling ved sirkulasjonssvikt av ulike årsaker, herunder beherske intervensjon med:
+
+- vasoaktiva
+- inotropika
+- antiarytmika
+- elektrokonvertering
+- ekstern pacing
+- væske- og volumterapi
 
 ANE-093
 
@@ -10880,11 +11665,27 @@ Ha kunnskap om monitorering og behandling av pasienter etter gjennomgått thorax
 
 ANE-096
 
-Ha god kunnskap om og beherske generell intensivbehandling ved akutte luftveistilstander i samarbeid med tilgrensende spesialiteter, herunder:akutt forverring av kronisk lungesvikt; obstruktiv og restriktivøvre luftveisobstruksjonlungeødempneumothoraxakutt lungesviktsyndromaspirasjonluftveisinfeksjoner
+Ha god kunnskap om og beherske generell intensivbehandling ved akutte luftveistilstander i samarbeid med tilgrensende spesialiteter, herunder:
+
+- akutt forverring av kronisk lungesvikt; obstruktiv og restriktiv
+- øvre luftveisobstruksjon
+- lungeødem
+- pneumothorax
+- akutt lungesviktsyndrom
+- aspirasjon
+- luftveisinfeksjoner
 
 ANE-097
 
-Ha gode kunnskaper om og selvstendig kunne gjennomføre respiratorbehandling, herunder:forberede og gjennomføre intubasjon i en intensivsettingvelge respiratorinnstillinger på grunnlag av komorbiditet, aktuell situasjon og komplikasjonsrisikofortløpende evaluere og endre respiratorbehandling på grunnlag av klinisk utvikling og prøvesvarplanlegge og gjennomføre avvenning fra respiratorforebygge mekanisk ventilasjonsskade og aspirasjon, samt gjenkjenne og behandle volu- og barotraumerhåndtere inhalasjonsbehandlinghåndtere bruk av trachealkanyle
+Ha gode kunnskaper om og selvstendig kunne gjennomføre respiratorbehandling, herunder:
+
+- forberede og gjennomføre intubasjon i en intensivsetting
+- velge respiratorinnstillinger på grunnlag av komorbiditet, aktuell situasjon og komplikasjonsrisiko
+- fortløpende evaluere og endre respiratorbehandling på grunnlag av klinisk utvikling og prøvesvar
+- planlegge og gjennomføre avvenning fra respirator
+- forebygge mekanisk ventilasjonsskade og aspirasjon, samt gjenkjenne og behandle volu- og barotraumer
+- håndtere inhalasjonsbehandling
+- håndtere bruk av trachealkanyle
 
 ANE-098
 
@@ -10900,7 +11701,11 @@ Ha god kunnskap om teknikk og utstyr for percutan tracheostomi og kunne utføre 
 
 ANE-101
 
-Ha god kunnskap om renal fysiologi og biokjemi, inkludert væske-, elektrolytt- og syre-/baseforstyrrelser som er vanlige i intensivsammenheng. Selvstendig kunne overvåke og iverksette tiltak ved sviktende nyrefunksjon, herunder:vurdere og monitorere nyrefunksjon på basis av kliniske og biokjemiske parametreidentifisere og klassifisere begynnende og manifest nyresvikt i henhold til gjeldende internasjonalt anerkjente kriterierforebygge/redusere risiko for nyresvikt gjennom valg av medikamenter og væskebehandling
+Ha god kunnskap om renal fysiologi og biokjemi, inkludert væske-, elektrolytt- og syre-/baseforstyrrelser som er vanlige i intensivsammenheng. Selvstendig kunne overvåke og iverksette tiltak ved sviktende nyrefunksjon, herunder:
+
+- vurdere og monitorere nyrefunksjon på basis av kliniske og biokjemiske parametre
+- identifisere og klassifisere begynnende og manifest nyresvikt i henhold til gjeldende internasjonalt anerkjente kriterier
+- forebygge/redusere risiko for nyresvikt gjennom valg av medikamenter og væskebehandling
 
 ANE-102
 
@@ -10935,7 +11740,14 @@ Beherske diagnostikk, overvåkning og iverksette behandling i samarbeid med tilg
 
 ANE-105
 
-Ha god kunnskap om og beherske intensivbehandling av akutte nevrologiske og nevrokirurgiske tilstander, herunderkomaepilepsi/krampercerebralt ødemtraumatisk hjerneskadecerebrovaskulære blødningertromboemboliske tilstander
+Ha god kunnskap om og beherske intensivbehandling av akutte nevrologiske og nevrokirurgiske tilstander, herunder
+
+- koma
+- epilepsi/kramper
+- cerebralt ødem
+- traumatisk hjerneskade
+- cerebrovaskulære blødninger
+- tromboemboliske tilstander
 
 ANE-106
 
@@ -10943,7 +11755,11 @@ Ha kunnskap om og kjenne til monitorering av cerebralt perfusjonstrykk og tilsta
 
 ANE-107
 
-Ha god kunnskap om monitorering og behandling av pasienter som har gjennomgått nevrokirurgi, herunder:monitorering av cerebralt perfusjonstrykkbehandling av forstyrrelser i elektrolytt og osmoreguleringvurdering av nevrologisk funksjon
+Ha god kunnskap om monitorering og behandling av pasienter som har gjennomgått nevrokirurgi, herunder:
+
+- monitorering av cerebralt perfusjonstrykk
+- behandling av forstyrrelser i elektrolytt og osmoregulering
+- vurdering av nevrologisk funksjon
 
 ANE-108
 
@@ -10953,11 +11769,21 @@ Beherske utredning og behandling av intensivrelaterte nevromuskulære tilstander
 
 ANE-109
 
-Ha god kunnskap om relevant fysiologi innen forstyrrelser i væske-/elektrolytt- og syre-/basebalansen, og beherske diagnostikk og behandling i samarbeid med tilgrensende spesialiteter av de vanligste tilstandene, herunder:metabolsk og respiratorisk acidose og alkalosekombinerte syre-/baseforstyrrelserhyper- og hyponatremihyper- og hypokalemimagnesium-, kalsium- og fosfatforstyrrelser
+Ha god kunnskap om relevant fysiologi innen forstyrrelser i væske-/elektrolytt- og syre-/basebalansen, og beherske diagnostikk og behandling i samarbeid med tilgrensende spesialiteter av de vanligste tilstandene, herunder:
+
+- metabolsk og respiratorisk acidose og alkalose
+- kombinerte syre-/baseforstyrrelser
+- hyper- og hyponatremi
+- hyper- og hypokalemi
+- magnesium-, kalsium- og fosfatforstyrrelser
 
 ANE-110
 
-Ha god kunnskap om og i samarbeid med tilgrensende spesialiteter beherske diagnostikk og behandling av metabolske og endokrine forstyrrelser ved kritisk sykdom og akutte tilstander, herunder:hypo- og hyperglykemi/diabetisk ketoacidoseforstyrrelser i thyroideafunksjonforstyrrelser i binyrebarkfunksjon
+Ha god kunnskap om og i samarbeid med tilgrensende spesialiteter beherske diagnostikk og behandling av metabolske og endokrine forstyrrelser ved kritisk sykdom og akutte tilstander, herunder:
+
+- hypo- og hyperglykemi/diabetisk ketoacidose
+- forstyrrelser i thyroideafunksjon
+- forstyrrelser i binyrebarkfunksjon
 
 ANE-111
 
@@ -10998,7 +11824,13 @@ Selvstendig kunne håndtere koagulasjonsforstyrrelser i samarbeid med tilgrensen
 
 ANE-115
 
-Ha god kunnskap om og kunne beherske behandlingen av akutte koagulasjonsforstyrrelser, herunder:disseminert intravaskulær koagulasjon (DIC)transfusjonsreaksjonerblødningssjokk og multitransfusjonerhemolyseheparinindusert trombocytopeni
+Ha god kunnskap om og kunne beherske behandlingen av akutte koagulasjonsforstyrrelser, herunder:
+
+- disseminert intravaskulær koagulasjon (DIC)
+- transfusjonsreaksjoner
+- blødningssjokk og multitransfusjoner
+- hemolyse
+- heparinindusert trombocytopeni
 
 ANE-116
 
@@ -11113,11 +11945,20 @@ Selvstendig kunne iverksette, vedlikeholde og evaluere effekt av behandling for 
 
 ANE-133
 
-Selvstendig kunne utvikle og fortløpende evaluere evidensbasert anestesiologisk praksis, herunder beherske:systematisk evaluering/k valitetskontroll av klinisk praksissystematisk innhenting og vurdering av vitenskapelig litteratur for å løse en spesifikk klinisk problemstillingvurdering av fordeler og ulemper ved innføring av nye metoder i klinisk praksis ut fra medisinske, etiske, lovmessige og økonomiske forhold
+Selvstendig kunne utvikle og fortløpende evaluere evidensbasert anestesiologisk praksis, herunder beherske:
+
+- systematisk evaluering/k valitetskontroll av klinisk praksis
+- systematisk innhenting og vurdering av vitenskapelig litteratur for å løse en spesifikk klinisk problemstilling
+- vurdering av fordeler og ulemper ved innføring av nye metoder i klinisk praksis ut fra medisinske, etiske, lovmessige og økonomiske forhold
 
 ANE-134
 
-Selvstendig kunne identifisere utdanningsbehov og undervise andre etter moderne undervisningsprinsipp relevant for medisinsk praksis, herunder selvstendig kunne:gi en ryddig og tydelig fremstilling av et tema etter litteraturgjennomgang/reviewlegge frem og kritisk evaluere en kasus-rapportlegge frem og kritisk evaluere resultater fra en forskningsstudiefasilitere en enkel medisinsk simulering
+Selvstendig kunne identifisere utdanningsbehov og undervise andre etter moderne undervisningsprinsipp relevant for medisinsk praksis, herunder selvstendig kunne:
+
+- gi en ryddig og tydelig fremstilling av et tema etter litteraturgjennomgang/review
+- legge frem og kritisk evaluere en kasus-rapport
+- legge frem og kritisk evaluere resultater fra en forskningsstudie
+- fasilitere en enkel medisinsk simulering
 
 ANE-135
 
@@ -11137,15 +11978,35 @@ Ha god kunnskap om og selvstendig kunne utføre risikoanalyse/-vurdering og -kom
 
 ARB-002
 
-Ha god kunnskap om og selvstendig kunne vurdere risikoforhold knyttet til arbeidsmiljø i sentrale bransjer, herunder:jordbruk, skogbruk og fisketransport og lagringolje- og gassutvinninghotell- og restaurantvirksomhetindustri og bergverksdriftkommunikasjon, finans, eiendom, forretningsmessige tjenesterkraft, vann, avløp og renovasjonoffentlig administrasjon og undervisningbygge- og anleggsvirksomhethelse og sosiale tjenestervarehandel
+Ha god kunnskap om og selvstendig kunne vurdere risikoforhold knyttet til arbeidsmiljø i sentrale bransjer, herunder:
+
+- jordbruk, skogbruk og fiske
+- transport og lagring
+- olje- og gassutvinning
+- hotell- og restaurantvirksomhet
+- industri og bergverksdrift
+- kommunikasjon, finans, eiendom, forretningsmessige tjenester
+- kraft, vann, avløp og renovasjon
+- offentlig administrasjon og undervisning
+- bygge- og anleggsvirksomhet
+- helse og sosiale tjenester
+- varehandel
 
 ARB-003
 
-Ha god kunnskap om og selvstendig kunne anvende de mest sentrale lover og forskrifter som regulerer HMS-forholdene i en virksomhet, herunder;[arbeidsmiljøloven](lov/2005-06-17-62) med forskrifter, og tilsvarende sektorspesifikke regelverk (luft- og sjøfart, petroleumsvirksomhet, militærvirksomhet m.m.)[forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter](forskrift/1996-12-06-1127)trygde- og forsikringslovgivning og erstatningsrettslige forhold når det gjelder yrkesskader/-sykdommer, samt regelverk knyttet til yrkesrettet og bedriftsintern attføring
+Ha god kunnskap om og selvstendig kunne anvende de mest sentrale lover og forskrifter som regulerer HMS-forholdene i en virksomhet, herunder;
+
+- [arbeidsmiljøloven](lov/2005-06-17-62) med forskrifter, og tilsvarende sektorspesifikke regelverk (luft- og sjøfart, petroleumsvirksomhet, militærvirksomhet m.m.)
+- [forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter](forskrift/1996-12-06-1127)
+- trygde- og forsikringslovgivning og erstatningsrettslige forhold når det gjelder yrkesskader/-sykdommer, samt regelverk knyttet til yrkesrettet og bedriftsintern attføring
 
 ARB-004
 
-Ha god kunnskap om prinsipper for forebyggende helsearbeid på arbeidsplassen:primærforebyggingsekundærforebyggingtertiærforebygging
+Ha god kunnskap om prinsipper for forebyggende helsearbeid på arbeidsplassen:
+
+- primærforebygging
+- sekundærforebygging
+- tertiærforebygging
 
 ARB-005
 
@@ -11237,7 +12098,14 @@ Selvstendig kunne rådgi om de mest sentrale lover og forskrifter som regulerer 
 
 ARB-025
 
-Selvstendig kunne rådgi om helserisiko og forebyggende tiltak for arbeidstakere som reiser, herunder:vaksinerdøgnrytmeforstyrrelsersmitterisikoklimavold og ulykkerrusadferd
+Selvstendig kunne rådgi om helserisiko og forebyggende tiltak for arbeidstakere som reiser, herunder:
+
+- vaksiner
+- døgnrytmeforstyrrelser
+- smitterisiko
+- klima
+- vold og ulykker
+- rusadferd
 
 ARB-026
 
@@ -11397,7 +12265,15 @@ Ha god kunnskap om hovedprinsipper når det gjelder eksponering og virkningsmeka
 
 ARB-062
 
-Ha god kunnskap om klinikk, diagnostikk og oppfølging når det gjelder mulig arbeidsrelaterte luftveissykdommer, herunder:rhinitt og sinusittastma (irritant, allergisk, arbeidsforverret) og RADS (Reactive Airways Dysfunction Syndrome)kronisk obstruktiv lungesykdomkreft i øvre og nedre luftveierhypersensitivtetspneumonittannen allergi og overfølsomhetstøvlungesykdommer
+Ha god kunnskap om klinikk, diagnostikk og oppfølging når det gjelder mulig arbeidsrelaterte luftveissykdommer, herunder:
+
+- rhinitt og sinusitt
+- astma (irritant, allergisk, arbeidsforverret) og RADS (Reactive Airways Dysfunction Syndrome)
+- kronisk obstruktiv lungesykdom
+- kreft i øvre og nedre luftveier
+- hypersensitivtetspneumonitt
+- annen allergi og overfølsomhet
+- støvlungesykdommer
 
 ARB-063
 
@@ -11429,7 +12305,11 @@ Ha god kunnskap om metoder for utredning av allergisk luftveislidelse.
 
 ARB-070
 
-Ha god kunnskap om grunnlag og prinsipper for forebyggende tiltak mot arbeidsbetingede luftveissykdommer, herundereksponerings-/effektforholdventilasjon og avsugtyper av åndedrettsvern
+Ha god kunnskap om grunnlag og prinsipper for forebyggende tiltak mot arbeidsbetingede luftveissykdommer, herunder
+
+- eksponerings-/effektforhold
+- ventilasjon og avsug
+- typer av åndedrettsvern
 
 ARB-071
 
@@ -11443,7 +12323,11 @@ Ha god kunnskap om hovedprinsipper når det gjelder eksponering og virkningsmeka
 
 ARB-073
 
-Ha god kunnskap om klinikk, diagnostikk og oppfølging av mulig arbeidsrelaterte hudsykdommer, herunder:irritativt (toksisk) og allergisk kontakteksemkontakturticariaarbeidsrelatert hudkreft
+Ha god kunnskap om klinikk, diagnostikk og oppfølging av mulig arbeidsrelaterte hudsykdommer, herunder:
+
+- irritativt (toksisk) og allergisk kontakteksem
+- kontakturticaria
+- arbeidsrelatert hudkreft
 
 ARB-074
 
@@ -11473,7 +12357,10 @@ Ha god kunnskap om omfanget av arbeidsrelaterte muskel- og skjelettplager genere
 
 ARB-080
 
-Ha kunnskap om mulige mekanismer for utvikling og forløp av muskel- og skjelettplager, herunder:multifaktorielle forståelsesmodeller (f.eks. læring, psykologiske, organisatoriske, kulturelle og ulike fysiske/fysiologiske forhold)tradisjonelle fysiske/fysiologiske modeller ved tilstander der det rimelig klart er dokumentert slike sammenhenger
+Ha kunnskap om mulige mekanismer for utvikling og forløp av muskel- og skjelettplager, herunder:
+
+- multifaktorielle forståelsesmodeller (f.eks. læring, psykologiske, organisatoriske, kulturelle og ulike fysiske/fysiologiske forhold)
+- tradisjonelle fysiske/fysiologiske modeller ved tilstander der det rimelig klart er dokumentert slike sammenhenger
 
 ARB-081
 
@@ -11499,11 +12386,26 @@ Ha god kunnskap om hovedprinsipper når det gjelder eksponering og virkningsmeka
 
 ARB-086
 
-Ha god kunnskap om risiko for skader i nervesystemet knyttet til spesielle bransjer og påvirkninger, herunder:organiske løsemidlermetaller (kvikksølv, bly)støyvibrasjonhypoksitrykkendringerstrømgjennomgang
+Ha god kunnskap om risiko for skader i nervesystemet knyttet til spesielle bransjer og påvirkninger, herunder:
+
+- organiske løsemidler
+- metaller (kvikksølv, bly)
+- støy
+- vibrasjon
+- hypoksi
+- trykkendringer
+- strømgjennomgang
 
 ARB-087
 
-Ha god kunnskap om klinikk, diagnostikk og oppfølging når det gjelder mulig arbeidsrelaterte sykdommer i nervesystemet og sanseorganene, herunder:toksisk encefalopatipolynevropatistøyskadetrykkfallsykehånd-/arm-vibrasjonssyndromstrømskade
+Ha god kunnskap om klinikk, diagnostikk og oppfølging når det gjelder mulig arbeidsrelaterte sykdommer i nervesystemet og sanseorganene, herunder:
+
+- toksisk encefalopati
+- polynevropati
+- støyskade
+- trykkfallsyke
+- hånd-/arm-vibrasjonssyndrom
+- strømskade
 
 ARB-088
 
@@ -11515,11 +12417,20 @@ Selvstendig kunne utføre og vurdere resultatet av vibrametri.
 
 ARB-090
 
-Ha kunnskap om relevant undersøkelsesteknikk, herunder:nevrofysiologiske undersøkelserbildediagnostikkprinsipper ved nevropsykologisk utredningtaleaudiometri og andre hørselsundersøkelser
+Ha kunnskap om relevant undersøkelsesteknikk, herunder:
+
+- nevrofysiologiske undersøkelser
+- bildediagnostikk
+- prinsipper ved nevropsykologisk utredning
+- taleaudiometri og andre hørselsundersøkelser
 
 ARB-091
 
-Ha god kunnskap om grunnlag og prinsipper for forebyggende tiltak mot arbeidsrelaterte skader i nervesystemet, herunder kunnskap omeksponerings-/effektforholdeliminasjonsteknikkbruk av personlig verneutstyr
+Ha god kunnskap om grunnlag og prinsipper for forebyggende tiltak mot arbeidsrelaterte skader i nervesystemet, herunder kunnskap om
+
+- eksponerings-/effektforhold
+- eliminasjonsteknikk
+- bruk av personlig verneutstyr
 
 ### 23.13 Arbeidsrelaterte psykiske lidelser
 
@@ -11529,7 +12440,11 @@ Ha kunnskap om hovedprinsipper for eksponering og virkningsmekanismer ved påvir
 
 ARB-093
 
-Ha kunnskap om klinikk, diagnostikk og oppfølging for mulig arbeidsrelaterte psykiske sykdommer, herunder:post-traumatisk stresslidelse«utbrenthet»depresjon
+Ha kunnskap om klinikk, diagnostikk og oppfølging for mulig arbeidsrelaterte psykiske sykdommer, herunder:
+
+- post-traumatisk stresslidelse
+- «utbrenthet»
+- depresjon
 
 ARB-094
 
@@ -11551,7 +12466,13 @@ Ha god kunnskap om de viktigste kreftfremkallende stoffer i arbeidslivet.
 
 ARB-098
 
-Ha god kunnskap om kreftsykdommer som kan være arbeidsrelatert, herunder:lungekreftmesoteliomblærekreftleukeminyrekreft
+Ha god kunnskap om kreftsykdommer som kan være arbeidsrelatert, herunder:
+
+- lungekreft
+- mesoteliom
+- blærekreft
+- leukemi
+- nyrekreft
 
 ### 23.15 Toksikologi
 
@@ -11645,7 +12566,11 @@ Ha kunnskap om juridiske og etiske krav/problemstillinger ved forskningsarbeid i
 
 ARB-120
 
-Ha god kunnskap om prosjektarbeid som metode i arbeidsmedisin, og om hvordan systematisk registrering av kvantitative og kvalitative sammenhenger kan brukes i det løpende helse-, miljø- og sikkerhetsarbeidet i arbeidslivet, herunder:kunnskap om hensiktsmessigheten av og metoder for dataregistrering i bedriftshelsetjenestenkunnskap om metoder for systematisk innsamling av data fra arbeidsmiljøet og effektvariablerkunnskap om organisering og rapportering av prosjekter
+Ha god kunnskap om prosjektarbeid som metode i arbeidsmedisin, og om hvordan systematisk registrering av kvantitative og kvalitative sammenhenger kan brukes i det løpende helse-, miljø- og sikkerhetsarbeidet i arbeidslivet, herunder:
+
+- kunnskap om hensiktsmessigheten av og metoder for dataregistrering i bedriftshelsetjenesten
+- kunnskap om metoder for systematisk innsamling av data fra arbeidsmiljøet og effektvariabler
+- kunnskap om organisering og rapportering av prosjekter
 
 ### C24. Barne- og ungdomspsykiatri
 
@@ -11661,7 +12586,11 @@ Ha god kunnskap om de vanligste psykiske lidelser hos voksne og beherske akuttvu
 
 BUP-003
 
-Ha kunnskap om barns utvikling:normal utvikling fra spedbarnsalder til ung voksen, utviklingsmessige milepæler og ulike aldersperspektiverbarn og unges seksuelle utvikling og manifestasjoner, utviklingspsykopatologi og forhold av betydning for skjevutviklingpsykososiale og miljømessige faktorer; risikofaktorer og beskyttende faktorer
+Ha kunnskap om barns utvikling:
+
+- normal utvikling fra spedbarnsalder til ung voksen, utviklingsmessige milepæler og ulike aldersperspektiver
+- barn og unges seksuelle utvikling og manifestasjoner, utviklingspsykopatologi og forhold av betydning for skjevutvikling
+- psykososiale og miljømessige faktorer; risikofaktorer og beskyttende faktorer
 
 Ha kunnskap om at belastende livshendelser påvirker psyken og at disse kan være årsaken til symptomer på psykiske lidelser.
 
@@ -11939,7 +12868,12 @@ Selvstendig kunne bidra faglig ut fra egen ekspertise og gi råd om behandling.
 
 BUP-053
 
-Selvstendig kunne samarbeide med andre instanser:ha kunnskap om førstelinje, barnevern, politi og NAV, samt andre medisinske spesialiteter og tjenesteytere på ulike nivåselvstendig kunne være igangsetter og pådriver i tverretatlig samarbeid rundt pasienter med behov for koordinerte tjenestebeherske god kommunikasjon og samhandling i samarbeidsteamha kunnskap om konstruktiv konfliktløsning, internt og eksternt
+Selvstendig kunne samarbeide med andre instanser:
+
+- ha kunnskap om førstelinje, barnevern, politi og NAV, samt andre medisinske spesialiteter og tjenesteytere på ulike nivå
+- selvstendig kunne være igangsetter og pådriver i tverretatlig samarbeid rundt pasienter med behov for koordinerte tjeneste
+- beherske god kommunikasjon og samhandling i samarbeidsteam
+- ha kunnskap om konstruktiv konfliktløsning, internt og eksternt
 
 ### 24.24 Helsefremmende og samfunnsmedisinsk arbeid
 
@@ -12889,7 +13823,15 @@ Ha god kunnskap om og selvstendig kunne behandle huggormbitt.
 
 PED-160
 
-Ha god kunnskap om og selvstendig kunne administrere legemidler, herunder:dosere legemidler avhengig av barnets alder, vekt og ev. sykdomstilstanderkjenne prinsipper for bruk av intravenøse versus perorale legemidler i behandling av ulike sykdommer, vurdere tidspunkt for skifte mellom administrasjonsformenekjenne ulikheter i farmakodynamikk ogkinetikk hos barn sammenlignet med voksne pasienter, herunder doseringsintervaller hos nyfødte og premature barnkjenne legemiddelreaksjoner og bivirkninger spesifikke for barnkjenne kontraindikasjoner for bruk av legemidler til barnkjenne prinsipper for utblanding og fortynning av legemidler som skal gis til barn
+Ha god kunnskap om og selvstendig kunne administrere legemidler, herunder:
+
+- dosere legemidler avhengig av barnets alder, vekt og ev. sykdomstilstander
+- kjenne prinsipper for bruk av intravenøse versus perorale legemidler i behandling av ulike sykdommer, vurdere tidspunkt for skifte mellom administrasjonsformene
+- kjenne ulikheter i farmakodynamikk og
+- kinetikk hos barn sammenlignet med voksne pasienter, herunder doseringsintervaller hos nyfødte og premature barn
+- kjenne legemiddelreaksjoner og bivirkninger spesifikke for barn
+- kjenne kontraindikasjoner for bruk av legemidler til barn
+- kjenne prinsipper for utblanding og fortynning av legemidler som skal gis til barn
 
 PED-161
 
@@ -13265,7 +14207,17 @@ Selvstendig kunne ta kliniske avgjørelser og prioriteringer på dag og vaktarbe
 
 FMR-109
 
-Selvstendig kunne utarbeide utrednings-, behandlings- og oppfølgingsplan for pasienter i en eller to av følgende spesialiteter:indremedisinske spesialiteterrevmatologiortopedinevrologinevrokirurgipsykiatrionkologirus- og avhengighetsmedisinallmennmedisin
+Selvstendig kunne utarbeide utrednings-, behandlings- og oppfølgingsplan for pasienter i en eller to av følgende spesialiteter:
+
+- indremedisinske spesialiteter
+- revmatologi
+- ortopedi
+- nevrologi
+- nevrokirurgi
+- psykiatri
+- onkologi
+- rus- og avhengighetsmedisin
+- allmennmedisin
 
 ### 26.13 Rehabilitering i intensivfasen
 
@@ -13393,7 +14345,14 @@ Selvstendig kunne veilede gravide om NIPT og tidlig ultralydundersøkelse, og un
 
 GYN-001
 
-Ha god kunnskap om normal svangerskapsfysiologi, herunder:biokjemiske endringer i svangerskapetkostrådreisemedikamentervaksinevanlige plager i svangerskapet
+Ha god kunnskap om normal svangerskapsfysiologi, herunder:
+
+- biokjemiske endringer i svangerskapet
+- kostråd
+- reise
+- medikamenter
+- vaksine
+- vanlige plager i svangerskapet
 
 GYN-002
 
@@ -13409,7 +14368,17 @@ Kjenne til indikasjoner og prinsipper for pregestasjonell diagnostikk.
 
 GYN-005
 
-Ha god kunnskap om vurdering og indikasjon for behandling av truende preterm fødsel, herunder:progesteronpessarcerclagecervixmålingtokolysesteroiderfibronektintestetiske betraktningerlevedyktighet
+Ha god kunnskap om vurdering og indikasjon for behandling av truende preterm fødsel, herunder:
+
+- progesteron
+- pessar
+- cerclage
+- cervixmåling
+- tokolyse
+- steroider
+- fibronektintest
+- etiske betraktninger
+- levedyktighet
 
 GYN-006
 
@@ -13429,7 +14398,12 @@ Ha god kunnskap om håndtering av svangerskap med avvikende leie.
 
 GYN-010
 
-Ha god kunnskap om oppfølging av flerlingesvangerskap, herunder:transfusjonssyndromselektiv veksthemningintrauterin fosterdødchorionisitet
+Ha god kunnskap om oppfølging av flerlingesvangerskap, herunder:
+
+- transfusjonssyndrom
+- selektiv veksthemning
+- intrauterin fosterdød
+- chorionisitet
 
 GYN-011
 
@@ -13437,7 +14411,10 @@ Ha god kunnskap om kvinner med hypertensive svangerskapssykdommer.
 
 GYN-012
 
-Ha god kunnskap om kvinner med sjeldne, alvorlige tilstander i svangerskapet, herunder:hemolytisk uremisk syndromakutt fettlever
+Ha god kunnskap om kvinner med sjeldne, alvorlige tilstander i svangerskapet, herunder:
+
+- hemolytisk uremisk syndrom
+- akutt fettlever
 
 GYN-013
 
@@ -13445,7 +14422,15 @@ Ha god kunnskap om pasienter med intrahepatisk kolestase i svangerskapet.
 
 GYN-014
 
-Ha kunnskap om oppfølging av svangerskap hos kvinner med komplisert maternell sykdom, herunder:stoffskiftesykdomepilepsirevmatologiske lidelsertransplantertehjertesykdomleversykdominfeksjonssykdommer
+Ha kunnskap om oppfølging av svangerskap hos kvinner med komplisert maternell sykdom, herunder:
+
+- stoffskiftesykdom
+- epilepsi
+- revmatologiske lidelser
+- transplanterte
+- hjertesykdom
+- leversykdom
+- infeksjonssykdommer
 
 GYN-015
 
@@ -13473,11 +14458,24 @@ Ha god kunnskap om hvordan omskjæring påvirker svangerskap og fødsel.
 
 GYN-021
 
-Ha god kunnskap om barselforløp og vanlige komplikasjoner, herunder:ammingpsykiske reaksjoneranemiinfeksjonerretinerte graviditetsprodukterurinretensjon
+Ha god kunnskap om barselforløp og vanlige komplikasjoner, herunder:
+
+- amming
+- psykiske reaksjoner
+- anemi
+- infeksjoner
+- retinerte graviditetsprodukter
+- urinretensjon
 
 GYN-022
 
-Selvstendig kunne utføre ultralyddiagnostikk for undersøkelse av utviklingsavvik, herunder:biometrifostervannsmengderutine ultralyd for terminbestemmelsedoppler i a umbilicalisdoppler i a cerebri media
+Selvstendig kunne utføre ultralyddiagnostikk for undersøkelse av utviklingsavvik, herunder:
+
+- biometri
+- fostervannsmengde
+- rutine ultralyd for terminbestemmelse
+- doppler i a umbilicalis
+- doppler i a cerebri media
 
 GYN-023
 
@@ -13493,7 +14491,12 @@ Selvstendig kunne diagnostisere og behandle truende preterm fødsel ved hjelp av
 
 GYN-026
 
-Under supervisjon kunne utføre behandling av truende preterm fødsel, herunder:progesteronpessarcerclagefibronektintest
+Under supervisjon kunne utføre behandling av truende preterm fødsel, herunder:
+
+- progesteron
+- pessar
+- cerclage
+- fibronektintest
 
 GYN-027
 
@@ -13519,7 +14522,12 @@ Ha god kunnskap om vurdering av posisjon, stasjon og innstilling under fødsel o
 
 GYN-032
 
-Ha god kunnskap om vanlige problemstillinger ved fødsel til termin, herunder:induksjonvannavgang med eller uten rierprotrahert forløpinfeksjon
+Ha god kunnskap om vanlige problemstillinger ved fødsel til termin, herunder:
+
+- induksjon
+- vannavgang med eller uten rier
+- protrahert forløp
+- infeksjon
 
 GYN-033
 
@@ -13527,15 +14535,29 @@ Ha god kunnskap om hvordan man opptrer i møte med pasientene. Kunne formidle in
 
 GYN-034
 
-Ha god kunnskap om fosterovervåkning under fødsel, herunder:CTGSTANfosterskalpblodprøve
+Ha god kunnskap om fosterovervåkning under fødsel, herunder:
+
+- CTG
+- STAN
+- fosterskalpblodprøve
 
 GYN-035
 
-Ha god kunnskap om akutte fødselsproblemer, herunder:placentaløsningnavlesnorframfallskulderdystocipostpartum blødningmaternell kollaps
+Ha god kunnskap om akutte fødselsproblemer, herunder:
+
+- placentaløsning
+- navlesnorframfall
+- skulderdystoci
+- postpartum blødning
+- maternell kollaps
 
 GYN-036
 
-Ha god kunnskap om fødsler ved avvikende leie, herunder:avvikende hodeleieseteleietverrleie
+Ha god kunnskap om fødsler ved avvikende leie, herunder:
+
+- avvikende hodeleie
+- seteleie
+- tverrleie
 
 GYN-037
 
@@ -13559,7 +14581,11 @@ Ha god kunnskap om årsaker til og behandling av postpartumblødning.
 
 GYN-042
 
-Ha god kunnskap om alvorlige, akutte hendelser under fødsel, herunder:uterusrupturplacentaløsninginversjon av uterus
+Ha god kunnskap om alvorlige, akutte hendelser under fødsel, herunder:
+
+- uterusruptur
+- placentaløsning
+- inversjon av uterus
 
 GYN-043
 
@@ -13587,11 +14613,21 @@ Selvstendig kunne utføre keisersnitt.
 
 GYN-049
 
-Selvstendig kunne vurdere og behandle skader etter fødsel, herunder:vaginalrifterperineale riftercervixrifter
+Selvstendig kunne vurdere og behandle skader etter fødsel, herunder:
+
+- vaginalrifter
+- perineale rifter
+- cervixrifter
 
 GYN-050
 
-Selvstendig kunne behandle postpartumblødning, herunder:kompresjon av uterusmedikamentell behandlingplacentauthentingB-lynchballongtamponade
+Selvstendig kunne behandle postpartumblødning, herunder:
+
+- kompresjon av uterus
+- medikamentell behandling
+- placentauthenting
+- B-lynch
+- ballongtamponade
 
 GYN-051
 
@@ -13641,7 +14677,15 @@ Selvstendig kunne utrede og behandle pasienter med overstimuleringssyndrom.
 
 GYN-061
 
-Ha god kunnskap om og selvstendig kunne diagnostisere og behandle blødningsforstyrrelser, herunder:myoma uteriektopi/postcoital blødningpolypperkomplikasjoner i tidlig svangerskapmaligne/premaligne tilstanderdysfunksjonelle blødningerpostmenopausal blødning
+Ha god kunnskap om og selvstendig kunne diagnostisere og behandle blødningsforstyrrelser, herunder:
+
+- myoma uteri
+- ektopi/postcoital blødning
+- polypper
+- komplikasjoner i tidlig svangerskap
+- maligne/premaligne tilstander
+- dysfunksjonelle blødninger
+- postmenopausal blødning
 
 GYN-062
 
@@ -13669,7 +14713,14 @@ Selvstendig kunne utrede inkontinens og descens.
 
 GYN-067
 
-Ha god kunnskap om de ulike operasjonsteknikkene, herunder:TVT/TVTO/TOTfremre plastikkbakre plastikkperineoplastikkportioamputasjonvaginal hysterektomi
+Ha god kunnskap om de ulike operasjonsteknikkene, herunder:
+
+- TVT/TVTO/TOT
+- fremre plastikk
+- bakre plastikk
+- perineoplastikk
+- portioamputasjon
+- vaginal hysterektomi
 
 Ha kunnskap om:
 
@@ -13702,15 +14753,30 @@ Ha kunnskap om barn med abnormal pubertetsutvikling.
 
 GYN-073
 
-Ha god kunnskap om og selvstendig kunne utrede og behandle ulike utviklingsanomalier, herunder:imperforert hymenhematokolpos og hematometraseptae
+Ha god kunnskap om og selvstendig kunne utrede og behandle ulike utviklingsanomalier, herunder:
+
+- imperforert hymen
+- hematokolpos og hematometra
+- septae
 
 GYN-074
 
-Ha god kunnskap om ulike genitale utviklingsavvik, herunder:genitale misdannelserMRKHTurner
+Ha god kunnskap om ulike genitale utviklingsavvik, herunder:
+
+- genitale misdannelser
+- MRKH
+- Turner
 
 GYN-075
 
-Ha god kunnskap om:endometriosedysmenoredyspareunivaginismevestibulittPMS
+Ha god kunnskap om:
+
+- endometriose
+- dysmenore
+- dyspareuni
+- vaginisme
+- vestibulitt
+- PMS
 
 Selvstendig kunne utrede og behandle smertepasienter.
 
@@ -13728,15 +14794,32 @@ Ha god kunnskap om omskjæring. Selvstendig kunne utføre deinfibulering.
 
 GYN-079
 
-Ha god kunnskap om, selvstendig kunne utrede og behandle ulike vulvalidelser, herunder:lichen sclerosusdermatitterpsoriasisbartholinittSOSkløe, svie og utflod
+Ha god kunnskap om, selvstendig kunne utrede og behandle ulike vulvalidelser, herunder:
+
+- lichen sclerosus
+- dermatitter
+- psoriasis
+- bartholinitt
+- SOS
+- kløe, svie og utflod
 
 GYN-080
 
-Ha god kunnskap om og selvstendig kunne behandle alvorlige infeksjonssykdommer, herunder:bakteriemi og sepsisgruppe A-streptokokkerUVI
+Ha god kunnskap om og selvstendig kunne behandle alvorlige infeksjonssykdommer, herunder:
+
+- bakteriemi og sepsis
+- gruppe A-streptokokker
+- UVI
 
 GYN-081
 
-Ha god kunnskap om:trygg kirurgisjekklisteroperasjonsatlaskvalitetsregistrepasientforeninger
+Ha god kunnskap om:
+
+- trygg kirurgi
+- sjekklister
+- operasjonsatlas
+- kvalitetsregistre
+- pasientforeninger
 
 Ha god kunnskap om kirurgiske instrumenter ved åpen kirurgi og endoskopi.
 
@@ -13744,7 +14827,12 @@ Ha god kunnskap om suturmateriale, nålestørrelse og apparatur, herunder diater
 
 GYN-082
 
-Selvstendig kunne utføre intrauterine inngrep, herunder:kirurgisk abortevacuatio/revisioblokke cervix og utføre fraksjonert abrasiodiagnostisk hysteroskopi
+Selvstendig kunne utføre intrauterine inngrep, herunder:
+
+- kirurgisk abort
+- evacuatio/revisio
+- blokke cervix og utføre fraksjonert abrasio
+- diagnostisk hysteroskopi
 
 Ha god kunnskap om terapeutisk hysteroskopi og kjenne til inngrep som:
 
@@ -13755,19 +14843,37 @@ Ha god kunnskap om terapeutisk hysteroskopi og kjenne til inngrep som:
 
 GYN-083
 
-Selvstendig kunne ta ulike cervixprøver, herunder:cytologisk prøvetakingbakteriologiske og virologiske prøverportiobiopsiercervical abrasiofjerne cervixpolypperfjerne myom i fødsel
+Selvstendig kunne ta ulike cervixprøver, herunder:
+
+- cytologisk prøvetaking
+- bakteriologiske og virologiske prøver
+- portiobiopsier
+- cervical abrasio
+- fjerne cervixpolypper
+- fjerne myom i fødsel
 
 GYN-084
 
-Selvstendig kunne ta biopsier som:endometriebiopsierstansebiopsierportiobiopsier
+Selvstendig kunne ta biopsier som:
+
+- endometriebiopsier
+- stansebiopsier
+- portiobiopsier
 
 GYN-085
 
-Selvstendig kunne anvende lokalanestesi, herunder:paracervikal blokadelokalanestesipudendalanestesi
+Selvstendig kunne anvende lokalanestesi, herunder:
+
+- paracervikal blokade
+- lokalanestesi
+- pudendalanestesi
 
 GYN-086
 
-Selvstendig kunne håndtere prevensjon, herunder:legge inn og ta ut en spirallegge inn og fjerne en p-stav
+Selvstendig kunne håndtere prevensjon, herunder:
+
+- legge inn og ta ut en spiral
+- legge inn og fjerne en p-stav
 
 GYN-087
 
@@ -13797,11 +14903,25 @@ Selvstendig kunne utføre ascitestapping.
 
 GYN-093
 
-Selvstendig kunne laparoskopere, herunder:anvende og kunne basale kirurgiske prinsipper og instrumenterkunne utføre diagnostisk laparoskopikunne kjenne igjen og behandle overflatisk endometriosekunne operere en ekstrauterin graviditet (salpingektomi eller salpingostomi)kunne utføre detorkvering av adnexkunne fjerne adnexkunne utføre cysteekstirpasjonkunne assistere ved laparoskopiske hysterektomier
+Selvstendig kunne laparoskopere, herunder:
+
+- anvende og kunne basale kirurgiske prinsipper og instrumenter
+- kunne utføre diagnostisk laparoskopi
+- kunne kjenne igjen og behandle overflatisk endometriose
+- kunne operere en ekstrauterin graviditet (salpingektomi eller salpingostomi)
+- kunne utføre detorkvering av adnex
+- kunne fjerne adnex
+- kunne utføre cysteekstirpasjon
+- kunne assistere ved laparoskopiske hysterektomier
 
 GYN-094
 
-Selvstendig kunne:åpne og lukke bukhulen (laparotomi)sy serosarifterutføre adheranseløsningsy blærelesjon
+Selvstendig kunne:
+
+- åpne og lukke bukhulen (laparotomi)
+- sy serosarifter
+- utføre adheranseløsning
+- sy blærelesjon
 
 Ha god kunnskap om:
 
@@ -13812,11 +14932,22 @@ Kunne utføre en åpen hysterektomi under supervisjon.
 
 GYN-095
 
-Selvstendig kunne utføre ulike typer vaginalplastikker herunder:fremre og bakre kolporrafiperineoplastikkcervixamputasjon
+Selvstendig kunne utføre ulike typer vaginalplastikker herunder:
+
+- fremre og bakre kolporrafi
+- perineoplastikk
+- cervixamputasjon
 
 GYN-096
 
-Ha god kunnskap om kirurgiske komplikasjoner, herunder:sårinfeksjonfascierupturblære- og tarmperforasjonblødningileustromboemboliske komplikasjoner
+Ha god kunnskap om kirurgiske komplikasjoner, herunder:
+
+- sårinfeksjon
+- fascieruptur
+- blære- og tarmperforasjon
+- blødning
+- ileus
+- tromboemboliske komplikasjoner
 
 Selvstendig kunne utføre sårrevisjon, anlegge VAC-pumpe, sy peroperative blære- og tarmperforasjoner.
 
@@ -13842,21 +14973,37 @@ Beherske laparotomi med løsning av adheranser samt sutur av tarm- og blærerift
 
 GYN-101
 
-Selvstendig kunne:drenere absesserbehandle sårrupturer og sårinfeksjoner
+Selvstendig kunne:
+
+- drenere absesser
+- behandle sårrupturer og sårinfeksjoner
 
 ### 27.5 Gynekologisk onkologi
 
 GYN-102
 
-Ha god kunnskap om:carcinogenesecellulær biologirisikofaktorer for kreftutviklinggenetisk disposisjon
+Ha god kunnskap om:
+
+- carcinogenese
+- cellulær biologi
+- risikofaktorer for kreftutvikling
+- genetisk disposisjon
 
 GYN-103
 
-Ha god kunnskap om:patologisk klassifiseringanatomisk klassifiseringcancermarkører
+Ha god kunnskap om:
+
+- patologisk klassifisering
+- anatomisk klassifisering
+- cancermarkører
 
 GYN-104
 
-Ha god kunnskap om og selvstendig kunne utrede, behandle og følge opp:premaligne tilstander i vulvapremaligne tilstander i cervixpremaligne tilstander i uterus (hyperplasier med og uten atypi)
+Ha god kunnskap om og selvstendig kunne utrede, behandle og følge opp:
+
+- premaligne tilstander i vulva
+- premaligne tilstander i cervix
+- premaligne tilstander i uterus (hyperplasier med og uten atypi)
 
 Ha god kunnskap om HPV og vaksinasjonstilbud.
 
@@ -13870,7 +15017,12 @@ Ha kunnskap om utredning og behandling av trofoblastsykdom.
 
 GYN-107
 
-Ha god kunnskap om og under supervisjon kunne utrede, behandle og følge opp:ovarialcancerendometriecancercervixcancervulvacancer
+Ha god kunnskap om og under supervisjon kunne utrede, behandle og følge opp:
+
+- ovarialcancer
+- endometriecancer
+- cervixcancer
+- vulvacancer
 
 GYN-108
 
@@ -13896,7 +15048,12 @@ Ha god kunnskap om konsekvenser av cytostatika gitt til fertile.
 
 GYN-113
 
-Ha god kunnskap om prinsipper for reproduksjonsendokrinologi:normal menstruasjonssyklus og samspill hypothalamus-hypofyse-ovarier og uterusanovulasjon-årsaker/utredningpolycystisk ovariesyndromdefinisjoner, fysiologiske manifestasjoner, langtidseffekter
+Ha god kunnskap om prinsipper for reproduksjonsendokrinologi:
+
+- normal menstruasjonssyklus og samspill hypothalamus-hypofyse-ovarier og uterus
+- anovulasjon-årsaker/utredning
+- polycystisk ovariesyndrom
+- definisjoner, fysiologiske manifestasjoner, langtidseffekter
 
 GYN-114
 
@@ -14282,7 +15439,14 @@ Kunne kjenne igjen og initiere behandling av akutte allergiske reaksjoner.
 
 HUD-084
 
-Ha kunnskap om risikofaktorer for koronarsykdom, og ha kjennskap til behandling og intervensjon ved:hypertensjonrøykingdyslipidemidiabetes mellitusovervektmetabolsk syndrom
+Ha kunnskap om risikofaktorer for koronarsykdom, og ha kjennskap til behandling og intervensjon ved:
+
+- hypertensjon
+- røyking
+- dyslipidemi
+- diabetes mellitus
+- overvekt
+- metabolsk syndrom
 
 HUD-085
 
@@ -14366,7 +15530,13 @@ Ha god kunnskap om komplementsystemet i form av komponenter og funksjon.
 
 ITR-008
 
-Ha god kunnskap om mekanismer ved de viktigste immunreaksjoner ved:ulike infeksjoneroverfølsomhetsreaksjoner (type I til IV)transplantasjontransfusjonimmunisering i svangerskapet
+Ha god kunnskap om mekanismer ved de viktigste immunreaksjoner ved:
+
+- ulike infeksjoner
+- overfølsomhetsreaksjoner (type I til IV)
+- transplantasjon
+- transfusjon
+- immunisering i svangerskapet
 
 ITR-009
 
@@ -14386,7 +15556,14 @@ Ha god kunnskap om viktige CD-markører (Cluster of Differentiation), herunder C
 
 ITR-013
 
-Ha god kunnskap om:NK-cellerandre innate lymfoide celler (ILC)dendrittiske cellermonocyttergranulocyttermakrofager
+Ha god kunnskap om:
+
+- NK-celler
+- andre innate lymfoide celler (ILC)
+- dendrittiske celler
+- monocytter
+- granulocytter
+- makrofager
 
 ### 29.2 Immunologiske metoder
 
@@ -14396,11 +15573,28 @@ Ha god kunnskap om metoder for bestemmelse av humorale, cellulære, inflammatori
 
 ITR-015
 
-Ha god kunnskap om:Enzyme-Linked Immunosorbent Assay (ELISA)agglutinasjonstestererytrocyttantistoffidentifiseringhemagglutinasjonsmetoder; automatisert/manuelt for blodtypingseparasjon og preparering av cellerflowcytometrinefelometri/turbidometri
+Ha god kunnskap om:
+
+- Enzyme-Linked Immunosorbent Assay (ELISA)
+- agglutinasjonstester
+- erytrocyttantistoffidentifisering
+- hemagglutinasjonsmetoder; automatisert/manuelt for blodtyping
+- separasjon og preparering av celler
+- flowcytometri
+- nefelometri/turbidometri
 
 ITR-016
 
-Ha god kunnskap om metoder for:serologiske og molekylærbiologiske metoder for vevstypinglymfocytt-crossmatchmolekylærbiologiske metoder: DNA preparering, Polymerase Chain Reaction (PCR), sekvensering og mutasjonsanalyserimmunfluorescensimmunoblot-analyserelektroforesekomplementfunksjonsanalysercellefunksjonsanalyser blant annet proliferasjonstester og tester for granulocyttfunksjon
+Ha god kunnskap om metoder for:
+
+- serologiske og molekylærbiologiske metoder for vevstyping
+- lymfocytt-crossmatch
+- molekylærbiologiske metoder: DNA preparering, Polymerase Chain Reaction (PCR), sekvensering og mutasjonsanalyser
+- immunfluorescens
+- immunoblot-analyser
+- elektroforese
+- komplementfunksjonsanalyser
+- cellefunksjonsanalyser blant annet proliferasjonstester og tester for granulocyttfunksjon
 
 ### 29.3 Allergi
 
@@ -14412,11 +15606,21 @@ Selvstendig kunne anbefale analyse, vurdere analysemetode, vurdere analyseresult
 
 ITR-018
 
-Ha god kunnskap om:etiologi og patogenese ved allergi/hypersensitivitet inkludert mekanismer for hovedtyper av hypersensitivitetsreaksjonerkliniske manifestasjoner og forløp ved hypersensitivitet og allergiske sykdommer, samt kunnskap om behandlingbetydning av IgE ved allergisk sykdomin vivo-tester (hudtest og provokasjonstester)
+Ha god kunnskap om:
+
+- etiologi og patogenese ved allergi/hypersensitivitet inkludert mekanismer for hovedtyper av hypersensitivitetsreaksjoner
+- kliniske manifestasjoner og forløp ved hypersensitivitet og allergiske sykdommer, samt kunnskap om behandling
+- betydning av IgE ved allergisk sykdom
+- in vivo-tester (hudtest og provokasjonstester)
 
 ITR-019
 
-Ha god kunnskap om metoder for allergitester og analyserepertoar, herunder:IgE-analyserallergenkomponentanalyserbasofil aktiveringstestinflammasjonmarkører inkludert tryptase, Eosinofilt Kationisk Protein (EKP)
+Ha god kunnskap om metoder for allergitester og analyserepertoar, herunder:
+
+- IgE-analyser
+- allergenkomponentanalyser
+- basofil aktiveringstest
+- inflammasjonmarkører inkludert tryptase, Eosinofilt Kationisk Protein (EKP)
 
 Selvstendig kunne anbefale rett analyse, vurdere resultater og mulige feilkilder.
 
@@ -14452,31 +15656,71 @@ Ha god kunnskap om autoinflammatoriske og postinfeksiøse autoimmune sykdommer.
 
 ITR-027
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved revmatiske ledd- og systemsykdommer, herunder:revmatoid artrittspondyloartritter, inkludert postinfektiøsesystemisk lupus erythematosusblandet bindevevssykdomSjøgrens syndrompolymyosittdermatomyosittsystemisk sklerosesystemiske vaskulitter
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved revmatiske ledd- og systemsykdommer, herunder:
+
+- revmatoid artritt
+- spondyloartritter, inkludert postinfektiøse
+- systemisk lupus erythematosus
+- blandet bindevevssykdom
+- Sjøgrens syndrom
+- polymyositt
+- dermatomyositt
+- systemisk sklerose
+- systemiske vaskulitter
 
 ITR-028
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved nevrologiske sykdommer, herunder:myastenia gravisinflammatoriske polynevropatierinflammatoriske sykdommer i sentralnervesystemet
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved nevrologiske sykdommer, herunder:
+
+- myastenia gravis
+- inflammatoriske polynevropatier
+- inflammatoriske sykdommer i sentralnervesystemet
 
 ITR-029
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved endokrinologiske sykdommer, herunder:diabetes mellitushypo/hypertyreoseautoimmunt polyglandulært syndromAddisons sykdom
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved endokrinologiske sykdommer, herunder:
+
+- diabetes mellitus
+- hypo/hypertyreose
+- autoimmunt polyglandulært syndrom
+- Addisons sykdom
 
 ITR-030
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved gastroenterologiske sykdommer, herunder:autoimmune leversykdommercøliakipernisiøs anemi/atrofisk gastritt
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved gastroenterologiske sykdommer, herunder:
+
+- autoimmune leversykdommer
+- cøliaki
+- pernisiøs anemi/atrofisk gastritt
 
 ITR-031
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved nefrologiske sykdommer, herunder:Goodpastures sykdomimmunkompleksmedierte nefritter, IgA-nefritt
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved nefrologiske sykdommer, herunder:
+
+- Goodpastures sykdom
+- immunkompleksmedierte nefritter, IgA-nefritt
 
 ITR-033
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved hematologiske sykdommer, herunder:fosfolipidantistoffsyndromautoimmune cytopenierkryoglobulinemierimmunkomplekssykdomkomplementmangelangioødem
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved hematologiske sykdommer, herunder:
+
+- fosfolipidantistoffsyndrom
+- autoimmune cytopenier
+- kryoglobulinemier
+- immunkomplekssykdom
+- komplementmangel
+- angioødem
 
 ITR-144
 
-Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved dermatologiske sykdommer, herunder:bulløs pemfigoidpemfigus vulgarisdermatitis herpetiformisantistoffsmedierte vaskulitter/Henoch-Schønleins purpuralineær IgA-dermatosesvangerskapspemfigoid
+Ha god kunnskap om og selvstendig kunne anbefale immunologiske analyser, vurdere analysemetoder, vurdere analyseresultater og veilede klinikere ved dermatologiske sykdommer, herunder:
+
+- bulløs pemfigoid
+- pemfigus vulgaris
+- dermatitis herpetiformis
+- antistoffsmedierte vaskulitter/Henoch-Schønleins purpura
+- lineær IgA-dermatose
+- svangerskapspemfigoid
 
 ### 29.5 Immunsvikt
 
@@ -14486,7 +15730,20 @@ Ha kunnskap om immunologisk diagnostikk ved immunsvikttilstander. Selvstendig ku
 
 ITR-035
 
-Ha kunnskap om:Common Variabel Immunodeficiency (CVID)ulike former for alvorlig kombinert immunsvikt (SCID)kjønnsbunden hypogammaglobulinemi (XLA)ulike former for hyper-IgM-syndromselektiv IgA-mangelIgG subklassemangelulike former for mangel i komplementsystemetkronisk granulomatøs sykdomandre former for granulocytt-/fagocyttdefekter inklusive medfødt nøytropeniandre defekter (eksempel cytokindefekter, defekter i Toll-like receptors (TLR), NOD-like receptors (NLR) med flere)DiGeorges syndromervervet immunsvikt
+Ha kunnskap om:
+
+- Common Variabel Immunodeficiency (CVID)
+- ulike former for alvorlig kombinert immunsvikt (SCID)
+- kjønnsbunden hypogammaglobulinemi (XLA)
+- ulike former for hyper-IgM-syndrom
+- selektiv IgA-mangel
+- IgG subklassemangel
+- ulike former for mangel i komplementsystemet
+- kronisk granulomatøs sykdom
+- andre former for granulocytt-/fagocyttdefekter inklusive medfødt nøytropeni
+- andre defekter (eksempel cytokindefekter, defekter i Toll-like receptors (TLR), NOD-like receptors (NLR) med flere)
+- DiGeorges syndrom
+- ervervet immunsvikt
 
 ### 29.6 Cellulær immunologi
 
@@ -14784,7 +16041,15 @@ Ha god kunnskap om akutte transfusjoner.
 
 ITR-099
 
-Ha god kunnskap om diagnostikk og tiltak ved transfusjonsreaksjoner, herunder:hemolytiske (akutte, forsinkede)febrile non-hemolytiskeallergiskeTransfusion-related acute lung injury (TRALI)Transfusion-associated circulatory overload (TACO)Transfusion-related graft versus host disease (TR-GvHD)Post-transfusion purpura (PTP)
+Ha god kunnskap om diagnostikk og tiltak ved transfusjonsreaksjoner, herunder:
+
+- hemolytiske (akutte, forsinkede)
+- febrile non-hemolytiske
+- allergiske
+- Transfusion-related acute lung injury (TRALI)
+- Transfusion-associated circulatory overload (TACO)
+- Transfusion-related graft versus host disease (TR-GvHD)
+- Post-transfusion purpura (PTP)
 
 Selvstendig kunne anbefale immunologisk analyse, vurdere analyseresultat, vurdere betydning for valg av blodprodukt og veilede klinikere.
 
@@ -15134,7 +16399,16 @@ Ha kunnskap om det sentrale og perifere nervesystemets og muskelsystemets biokje
 
 KNF-004
 
-Selvstendig kunne utføre og vurdere resultatet av de vanligste EEG-metodene på pasienter i alle aldre, herunder:montere og praktisk utføre standard-EEGstandard-EEG på voksne og barnprovokasjon med hyperventilasjon og fotostimuleringsøvndeprivert EEGEEG hos nyfødte og prematureEEG-diagnostikk ved koma og spørsmål om opphevet elektrisk hjerneaktivitet (hjernedød)langtids-EEG med videobeskrive anfallssemiologi
+Selvstendig kunne utføre og vurdere resultatet av de vanligste EEG-metodene på pasienter i alle aldre, herunder:
+
+- montere og praktisk utføre standard-EEG
+- standard-EEG på voksne og barn
+- provokasjon med hyperventilasjon og fotostimulering
+- søvndeprivert EEG
+- EEG hos nyfødte og premature
+- EEG-diagnostikk ved koma og spørsmål om opphevet elektrisk hjerneaktivitet (hjernedød)
+- langtids-EEG med video
+- beskrive anfallssemiologi
 
 KNF-005
 
@@ -15144,7 +16418,13 @@ Ha kjennskap til indikasjon for og utførelse av mindre vanlige EEG-metoder.
 
 KNF-006
 
-Selvstendig kunne utføre og tolke de vanlige rutinemessig utførte nevrografiundersøkelsene på pasienter over 10 år, herunder:motorisk og sensorisk nevrografiF-responserrepetitiv nervestimulering for å bestemme dekrement og inkrementH-refleksundersøkelseblink-refleksundersøkelse
+Selvstendig kunne utføre og tolke de vanlige rutinemessig utførte nevrografiundersøkelsene på pasienter over 10 år, herunder:
+
+- motorisk og sensorisk nevrografi
+- F-responser
+- repetitiv nervestimulering for å bestemme dekrement og inkrement
+- H-refleksundersøkelse
+- blink-refleksundersøkelse
 
 KNF-007
 
@@ -15158,7 +16438,11 @@ Ha kjennskap til indikasjon for og utførelse av mindre vanlige nevrografimetode
 
 KNF-009
 
-Selvstendig kunne utføre, vurdere og tolke de vanlige og rutinemessig utførte EMG-undersøkelsene på pasienter over 10 år, herunder:normal og patologisk spontan aktivitetrekrutterings- og interferensmønstrevisuell og kvantitativ analyse av motoriske enheter
+Selvstendig kunne utføre, vurdere og tolke de vanlige og rutinemessig utførte EMG-undersøkelsene på pasienter over 10 år, herunder:
+
+- normal og patologisk spontan aktivitet
+- rekrutterings- og interferensmønstre
+- visuell og kvantitativ analyse av motoriske enheter
 
 KNF-010
 
@@ -15292,15 +16576,27 @@ Selvstendig kunne forklare pårørende og pasient om skadeomfang og behandling s
 
 MAX-010
 
-Ha kjennskap til metabolske reaksjoner på traumer og deres kliniske implikasjoner:nevro-endokrine responsinflammatoriske mediatorer
+Ha kjennskap til metabolske reaksjoner på traumer og deres kliniske implikasjoner:
+
+- nevro-endokrine respons
+- inflammatoriske mediatorer
 
 MAX-011
 
-Ha kunnskap om tilhelingsprosess etter traumatiske skader, inkludert:bløtvevbeinbrusk
+Ha kunnskap om tilhelingsprosess etter traumatiske skader, inkludert:
+
+- bløtvev
+- bein
+- brusk
 
 MAX-012
 
-Ha kunnskap om overvåkning og intensivbehandling av traumepasienten:ernæringsregime etter traumerkonsekvenser av underernæringmetabolsk respons til katabolisme og traumeenteral ernæring/parenteral ernæring
+Ha kunnskap om overvåkning og intensivbehandling av traumepasienten:
+
+- ernæringsregime etter traumer
+- konsekvenser av underernæring
+- metabolsk respons til katabolisme og traume
+- enteral ernæring/parenteral ernæring
 
 MAX-013
 
@@ -15316,7 +16612,13 @@ Selvstendig kunne oppdage sameksisterende øyeskader hos pasienter med ansiktsfr
 
 MAX-016
 
-Ha kunnskap om utfordringer ved ansiktsfrakturer i geriatrisk populasjon, herunder:vevsforandringer i det aldrende ansiktetsystemiske betraktningerspesielle hensyn, herunder blodtilførsel til kjeven og forvaltningen av atrofisk kjevebruddbeingraft av atrofisk kjevekampostoperative komplikasjoner
+Ha kunnskap om utfordringer ved ansiktsfrakturer i geriatrisk populasjon, herunder:
+
+- vevsforandringer i det aldrende ansiktet
+- systemiske betraktninger
+- spesielle hensyn, herunder blodtilførsel til kjeven og forvaltningen av atrofisk kjevebrudd
+- beingraft av atrofisk kjevekam
+- postoperative komplikasjoner
 
 MAX-017
 
@@ -15538,7 +16840,12 @@ Selvstendig kunne utføre tumorreseksjon i mandibelens strukturer, herunder ramu
 
 MAX-070
 
-Selvstendig kunne utføre følgende rekonstruksjoner:ganerotasjonslappfacialis myomucosallappbuccal fettputelapptemporalislapp
+Selvstendig kunne utføre følgende rekonstruksjoner:
+
+- ganerotasjonslapp
+- facialis myomucosallapp
+- buccal fettputelapp
+- temporalislapp
 
 MAX-071
 
@@ -15706,7 +17013,21 @@ Selvstendig kunne utarbeide behandlingsplan, inklusive preprotetisk kirurgi og i
 
 MAX-111
 
-Selvstendig kunne utføre preprotetisk kirurgi inklusive:frenektomifjerne protesehyperplasisubmukøsvestibuloplastikkvestibuloplasikk med hud eller slimhinnemunngulvsenkingreduksjon av linea mylohyoideareduksjon av tuberreposisjon av nervus mentalisaugmentering av benvev i over- og underkjevealveolarkamplastikksekundær alveolærkamplastikktuberplastikkeksisjon av tuber og papillehyperplasi
+Selvstendig kunne utføre preprotetisk kirurgi inklusive:
+
+- frenektomi
+- fjerne protesehyperplasi
+- submukøsvestibuloplastikk
+- vestibuloplasikk med hud eller slimhinne
+- munngulvsenking
+- reduksjon av linea mylohyoidea
+- reduksjon av tuber
+- reposisjon av nervus mentalis
+- augmentering av benvev i over- og underkjeve
+- alveolarkamplastikk
+- sekundær alveolærkamplastikk
+- tuberplastikk
+- eksisjon av tuber og papillehyperplasi
 
 MAX-112
 
@@ -16430,7 +17751,15 @@ Ha kjennskap til terapeutiske tilnærminger og behandling av peri-implantitt.
 
 MAX-287
 
-Selvstendig kunne undersøke, diagnostisere, vurdere og behandle pasienter med benigne og premaligne orale slimhinnelidelser, inkludert:aftøse såroral lichen planusslimhinne pemfigoidpemfigus vulgarisertytema multiformelupus erytematosusoral dysestesi
+Selvstendig kunne undersøke, diagnostisere, vurdere og behandle pasienter med benigne og premaligne orale slimhinnelidelser, inkludert:
+
+- aftøse sår
+- oral lichen planus
+- slimhinne pemfigoid
+- pemfigus vulgaris
+- ertytema multiforme
+- lupus erytematosus
+- oral dysestesi
 
 MAX-288
 
@@ -16442,7 +17771,13 @@ Ha kunnskap om orale slimhinnelidelser som er assosiert med- eller skyldes virus
 
 MAX-290
 
-Selvstendig kunne diagnostisere og behandle:brennende munn syndromnevropati og nevropatisk smerte i klinisk praksisdeskvammativ gingivitt som manifestasjon av ulike sykdomsprosesserorofacial granulomatoseSjögrens syndrom
+Selvstendig kunne diagnostisere og behandle:
+
+- brennende munn syndrom
+- nevropati og nevropatisk smerte i klinisk praksis
+- deskvammativ gingivitt som manifestasjon av ulike sykdomsprosesser
+- orofacial granulomatose
+- Sjögrens syndrom
 
 MAX-291
 
@@ -16492,7 +17827,11 @@ Selvstendig kunne utføre kliniske fotografier.
 
 MAX-302
 
-Selvstendig kunne utføre kirurgiske prosedyrer ved bruk av hensiktsmessige og etablerte operative teknikker ved behandling av dentofaciale deformiteter:mandibelosteotomiermaxilleosteotomierzygomaosteotomier
+Selvstendig kunne utføre kirurgiske prosedyrer ved bruk av hensiktsmessige og etablerte operative teknikker ved behandling av dentofaciale deformiteter:
+
+- mandibelosteotomier
+- maxilleosteotomier
+- zygomaosteotomier
 
 MAX-303
 
@@ -16664,7 +18003,17 @@ Ha kunnskap om psykologisk og etisk behandling, balansert diskusjon med barn og 
 
 MAX-344
 
-Ha kunnskap om prekirurgisk kjeveortopedi og tidlig kjeveortopedisk behandling. Ha kunnskap om prinsipper ved primær spaltebehanding:alveolærspaltekirurgisk assistert maxilleekspansjonfistellukkingkirurgisk håndtering av maxillespalte og relatert ortognatisk kirurgirekonstruksjon av alveolarspalte for tannreplasseringcraniofacial implantatbehandlingøre- og orbitaproteserkirurgisk protokoll for håndtering av vanlige craniofaciale syndromer som oto-aurikulo-vertebralt syndromcraniosynostoser
+Ha kunnskap om prekirurgisk kjeveortopedi og tidlig kjeveortopedisk behandling. Ha kunnskap om prinsipper ved primær spaltebehanding:
+
+- alveolærspalte
+- kirurgisk assistert maxilleekspansjon
+- fistellukking
+- kirurgisk håndtering av maxillespalte og relatert ortognatisk kirurgi
+- rekonstruksjon av alveolarspalte for tannreplassering
+- craniofacial implantatbehandling
+- øre- og orbitaproteser
+- kirurgisk protokoll for håndtering av vanlige craniofaciale syndromer som oto-aurikulo-vertebralt syndrom
+- craniosynostoser
 
 ### 32.20 Maxillofacial protetikk og teknikker
 
@@ -17790,7 +19139,10 @@ Ha kunnskap om normalfloraen og dens betydning for helse og sykdom.
 
 MMB-005
 
-Selvstendig kunne vurdere henvisninger både på klinikernes og fagets egne premisser, herunder:søke å oppfylle klinikernes sentrale diagnostiske behov i størst mulig graderkjenne rett og plikt til å korrigere indikasjonsstillinger, endre metodevalg, og prioritere i henhold til fagets utvikling, rammebetingelser og ansvarlig ressursbruk
+Selvstendig kunne vurdere henvisninger både på klinikernes og fagets egne premisser, herunder:
+
+- søke å oppfylle klinikernes sentrale diagnostiske behov i størst mulig grad
+- erkjenne rett og plikt til å korrigere indikasjonsstillinger, endre metodevalg, og prioritere i henhold til fagets utvikling, rammebetingelser og ansvarlig ressursbruk
 
 ### 35.3 Sterilisering og desinfeksjon
 
@@ -17914,11 +19266,21 @@ Selvstendig kunne innstille et lysmikroskop.
 
 MMB-031
 
-Selvstendig kunne utføre vanlige fargemetoder, herunder:Gram-preparatsyrefast fargingfluorescensvåtpreparatGiemsa
+Selvstendig kunne utføre vanlige fargemetoder, herunder:
+
+- Gram-preparat
+- syrefast farging
+- fluorescens
+- våtpreparat
+- Giemsa
 
 MMB-032
 
-Selvstendig kunne gjenkjenne ulike mikrober i mikroskop, samt kunne gjenkjenne artefakter, herunder:bakteriersoppparasitter
+Selvstendig kunne gjenkjenne ulike mikrober i mikroskop, samt kunne gjenkjenne artefakter, herunder:
+
+- bakterier
+- sopp
+- parasitter
 
 ### 35.12 Bakteriologi
 
@@ -17928,7 +19290,11 @@ Ha god kunnskap om epidemiologi, etiologi, klinikk, mikrobiologisk diagnostikk, 
 
 MMB-034
 
-For dyrkning av aerobe og anaerobe bakterier selvstendig kunne velge:medier, inkludert selektive medier, anrikningsmedier, kromogene medieratmosfæretemperatur
+For dyrkning av aerobe og anaerobe bakterier selvstendig kunne velge:
+
+- medier, inkludert selektive medier, anrikningsmedier, kromogene medier
+- atmosfære
+- temperatur
 
 MMB-035
 
@@ -18382,7 +19748,13 @@ Selvstendig kunne stille operasjonsindikasjon på akutte og elektive pasienter e
 
 NKI-003
 
-Selvstendig kunne gjøre preoperativ vurdering av pasienter som skal opereres akutt og elektivt, herunder innhente relevant pasientinformasjon:anamneseklinisk undersøkelsebildeundersøkelsereventuelt andre supplerende undersøkelserevaluere operasjonsindikasjon og type inngrep, operabilitet og risiko ved inngrepet
+Selvstendig kunne gjøre preoperativ vurdering av pasienter som skal opereres akutt og elektivt, herunder innhente relevant pasientinformasjon:
+
+- anamnese
+- klinisk undersøkelse
+- bildeundersøkelser
+- eventuelt andre supplerende undersøkelser
+- evaluere operasjonsindikasjon og type inngrep, operabilitet og risiko ved inngrepet
 
 NKI-004
 
@@ -18434,15 +19806,26 @@ Ha god kunnskap om epidemiologi, etiologi, patofysiologi, utredning og behandlin
 
 NKI-012
 
-Selvstendig kunne utføre:innleggelse av intrakranial trykkmåler (ICP måler)innleggelse av eksternt ventrikkel dren (EVD)
+Selvstendig kunne utføre:
+
+- innleggelse av intrakranial trykkmåler (ICP måler)
+- innleggelse av eksternt ventrikkel dren (EVD)
 
 NKI-013
 
-Selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av:skalletak- og enklere skallebasisfrakturerepidurale hematom (EDH)akutte og kroniske subdurale hematom (A/KSDH)kontusjoner
+Selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av:
+
+- skalletak- og enklere skallebasisfrakturer
+- epidurale hematom (EDH)
+- akutte og kroniske subdurale hematom (A/KSDH)
+- kontusjoner
 
 NKI-014
 
-Selvstendig kunne utføre:hemikraniektomierkranioplastikker
+Selvstendig kunne utføre:
+
+- hemikraniektomier
+- kranioplastikker
 
 ### 36.4 Intrakranielle tumorer
 
@@ -18460,13 +19843,23 @@ Ha kunnskap om transsphenoidal hypofysekirurgi.
 
 NKI-018
 
-Ha kjennskap til ikke-operativ behandling av intrakraniale tumorer, herunder:gammaknivprotonbestrålinggenerell bestrålingcytostatikaandre medikamentelle behandlinger
+Ha kjennskap til ikke-operativ behandling av intrakraniale tumorer, herunder:
+
+- gammakniv
+- protonbestråling
+- generell bestråling
+- cytostatika
+- andre medikamentelle behandlinger
 
 ### 36.5 Cerebrovaskulære lidelser
 
 NKI-019
 
-Ha god kunnskap om epidemiologi, etiologi, patofysiologi, og beherske utredning og behandling av de ulike cerebrovaskulære lidelsene der nevrokirurgiske tiltak vil kunne være aktuelle, herunder:hjerneblødninger (ICH)intraventrikulære blødninger (IVH)maligne hjerneinfarkt
+Ha god kunnskap om epidemiologi, etiologi, patofysiologi, og beherske utredning og behandling av de ulike cerebrovaskulære lidelsene der nevrokirurgiske tiltak vil kunne være aktuelle, herunder:
+
+- hjerneblødninger (ICH)
+- intraventrikulære blødninger (IVH)
+- maligne hjerneinfarkt
 
 Selvstendig kunne vurdere, planlegge og gjennomføre supra- og infratentorielle kraniotomier med evakuering av intraparenchymatøse blødninger, hemikraniektomi ved maligne hjerneinfarkt og innleggelse av eksternt ventrikkeldren ved intraventrikulære blødninger.
 
@@ -18480,11 +19873,19 @@ Kunne bidra i vurdering, planlegging og gjennomføring av operativ behandling av
 
 NKI-021
 
-Ha god kunnskap om epidemiologi, etiologi og patofysiologi, og selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av alle typer hydrocephalus, herunder:kommuniserende og obstruktiv hydrocephalusnormaltrykkshydrocephaluspost-traumatisk hydrocephalus
+Ha god kunnskap om epidemiologi, etiologi og patofysiologi, og selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av alle typer hydrocephalus, herunder:
+
+- kommuniserende og obstruktiv hydrocephalus
+- normaltrykkshydrocephalus
+- post-traumatisk hydrocephalus
 
 NKI-022
 
-Selvstendig kunne utføre:innleggelse av eksternt ventrikkel dren (EVD)innleggelse av ekstern lumbal drenasjeanleggelse av ventrikuloperitoneal (VP) shunt
+Selvstendig kunne utføre:
+
+- innleggelse av eksternt ventrikkel dren (EVD)
+- innleggelse av ekstern lumbal drenasje
+- anleggelse av ventrikuloperitoneal (VP) shunt
 
 Under supervisjon kunne utføre:
 
@@ -18500,7 +19901,11 @@ Ha god kunnskap om epidemiologi, etiologi, patofysiologi, utredning og behandlin
 
 NKI-024
 
-Selvstendig kunne:anlegge nakkekrage og skallestrekkutføre fremre dekompresjon og fiksasjon cervikaltutføre bakre dekompresjon cervikalt, thorakalt og lumbalt
+Selvstendig kunne:
+
+- anlegge nakkekrage og skallestrekk
+- utføre fremre dekompresjon og fiksasjon cervikalt
+- utføre bakre dekompresjon cervikalt, thorakalt og lumbalt
 
 Under supervisjon kunne:
 
@@ -18517,7 +19922,11 @@ Ha god kunnskap om epidemiologi, etiologi, patofysiologi, utredning og behandlin
 
 NKI-026
 
-Selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av cervikale og lumbale prolaps og bakre dekompresjon i hele columna, herunder:dekompresjon av cervikale nerverøtter og medulladekompresjon av thorakal medulladekompresjon av lumbale nerverøtter
+Selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av cervikale og lumbale prolaps og bakre dekompresjon i hele columna, herunder:
+
+- dekompresjon av cervikale nerverøtter og medulla
+- dekompresjon av thorakal medulla
+- dekompresjon av lumbale nerverøtter
 
 Kunne under supervisjon utføre bakre instrumentering i columna ved degenerative tilstander.
 
@@ -18545,7 +19954,13 @@ Selvstendig kunne vurdere, planlegge og gjennomføre operativ behandling av infe
 
 NKI-029
 
-Ha god kunnskap om epidemiologi, etiologi, patofysiologi, utredning og behandling av nevrokirurgiske tilstander hos barn (<18 år), herunder basale kunnskaper i medisinsk genetikk og prinsippene for famileutredning. Kunne under supervisjon planlegge og gjennomføre nevrokirurgisk behandling av barn, herunder:medfødte tilstanderintrakraniale og spinale tumorernevrotraumerinfeksiøse tilstander i SNStilstander der funksjonelle nevrokirurgiske inngrep kan være aktuelle
+Ha god kunnskap om epidemiologi, etiologi, patofysiologi, utredning og behandling av nevrokirurgiske tilstander hos barn (<18 år), herunder basale kunnskaper i medisinsk genetikk og prinsippene for famileutredning. Kunne under supervisjon planlegge og gjennomføre nevrokirurgisk behandling av barn, herunder:
+
+- medfødte tilstander
+- intrakraniale og spinale tumorer
+- nevrotraumer
+- infeksiøse tilstander i SNS
+- tilstander der funksjonelle nevrokirurgiske inngrep kan være aktuelle
 
 NKI-030
 
@@ -18589,7 +20004,12 @@ Ha kunnskap om de vanligste nevrofysiologisk tester.
 
 NKI-036
 
-Ha kunnskap om epidemiologi, etiologi, patofysiologi og under supervisjon kunne utrede og behandle:slagepilepsibevegelsesforstyrrelsernormaltrykkshydrocephalus
+Ha kunnskap om epidemiologi, etiologi, patofysiologi og under supervisjon kunne utrede og behandle:
+
+- slag
+- epilepsi
+- bevegelsesforstyrrelser
+- normaltrykkshydrocephalus
 
 ### C37. Nevrologi
 
@@ -18613,7 +20033,20 @@ Ha god kunnskap om utredning, behandling og oppfølging av polikliniske nevrolog
 
 NEV-004
 
-Ha god kunnskap om og selvstendig kunne håndtere akuttnevrologiske tilstander i, herunder:akutt hjerneslag og hjerneslagimitatorerstatus epileptikusnevroimmunologiske tilstanderhyperakutt hodepine inklusive subaraknoidal blødningsynkope og kramperredusert bevissthetakutt økt intrakranialt trykkakutte perifere pareserinfeksjonertverrsnittslesjonerakutte nevrotoksiske tilstanderakutte nevrometabolske tilstander
+Ha god kunnskap om og selvstendig kunne håndtere akuttnevrologiske tilstander i, herunder:
+
+- akutt hjerneslag og hjerneslagimitatorer
+- status epileptikus
+- nevroimmunologiske tilstander
+- hyperakutt hodepine inklusive subaraknoidal blødning
+- synkope og kramper
+- redusert bevissthet
+- akutt økt intrakranialt trykk
+- akutte perifere pareser
+- infeksjoner
+- tverrsnittslesjoner
+- akutte nevrotoksiske tilstander
+- akutte nevrometabolske tilstander
 
 ### 37.3 Nevrologisk tjeneste ved annen enhet
 
@@ -19334,131 +20767,282 @@ Under supervisjon tolke/beskrive UL-undersøkelser.
 
 ONC-001
 
-Ha god kunnskap om og kunne håndtere onkologiske pasienter med hensyn til:dosering, bivirkninger og valg av behandlingkomorbiditetpolyfarmasivurdering av om behandling skal igangsettes, herunder vurdering av funksjonsnivå
+Ha god kunnskap om og kunne håndtere onkologiske pasienter med hensyn til:
+
+- dosering, bivirkninger og valg av behandling
+- komorbiditet
+- polyfarmasi
+- vurdering av om behandling skal igangsettes, herunder vurdering av funksjonsnivå
 
 ONC-002
 
-Ha god kunnskap om og kunne håndtere pasienter i terminalfasen og håndtere vanlige plager som:angstdyspnoesmerterslim i luftveier
+Ha god kunnskap om og kunne håndtere pasienter i terminalfasen og håndtere vanlige plager som:
+
+- angst
+- dyspnoe
+- smerter
+- slim i luftveier
 
 ONC-003
 
-Ha god kunnskap om og selvstendig kunne håndtere palliativ behandling relatert til:smertekvalmeobstipasjon
+Ha god kunnskap om og selvstendig kunne håndtere palliativ behandling relatert til:
+
+- smerte
+- kvalme
+- obstipasjon
 
 ONC-004
 
-Ha god kunnskap om og selvstendig kunne håndtere og samtale med pasient og pårørende om relevante onkologiske problemstillinger, herunder:gi helhetlig informasjon om utredning, diagnose, behandling, prognose, akutte bivirkninger og seneffektersamtale om avslutning av aktiv tumorrettet behandlingformidle beskjeder på en empatisk måteidentifisere og håndtere med empati en kriserammet pasient og pårørendevære åpen og inkluderende, respektere pasientenes autonomi og deres rett til å delta i beslutningen om egen behandling innenfor etablert standardterapi
+Ha god kunnskap om og selvstendig kunne håndtere og samtale med pasient og pårørende om relevante onkologiske problemstillinger, herunder:
+
+- gi helhetlig informasjon om utredning, diagnose, behandling, prognose, akutte bivirkninger og seneffekter
+- samtale om avslutning av aktiv tumorrettet behandling
+- formidle beskjeder på en empatisk måte
+- identifisere og håndtere med empati en kriserammet pasient og pårørende
+- være åpen og inkluderende, respektere pasientenes autonomi og deres rett til å delta i beslutningen om egen behandling innenfor etablert standardterapi
 
 ONC-005
 
-Ha god kunnskap om og selvstendig kunne være administrator, herunder:planlegge, gjennomføre og evaluere visittgang på sengepost sammen med andre leger og sykepleierelede tverrfaglige møter på en tydelig måte i henhold til oppsatt programta ledelsen ved mottak av pasient til akutt innleggelse eller andre akutte situasjonerdelta i planlegging og implementering av nye prosjekter i avdelingenpåta seg organisatoriske oppgaver i avdelingenforstå og kunne kommunisere onkologiens rolle og plassering i forhold til andre spesialiteter
+Ha god kunnskap om og selvstendig kunne være administrator, herunder:
+
+- planlegge, gjennomføre og evaluere visittgang på sengepost sammen med andre leger og sykepleiere
+- lede tverrfaglige møter på en tydelig måte i henhold til oppsatt program
+- ta ledelsen ved mottak av pasient til akutt innleggelse eller andre akutte situasjoner
+- delta i planlegging og implementering av nye prosjekter i avdelingen
+- påta seg organisatoriske oppgaver i avdelingen
+- forstå og kunne kommunisere onkologiens rolle og plassering i forhold til andre spesialiteter
 
 ONC-006
 
-Ha god kunnskap om og selvstendig kunne være helserådgiver, herunder:redegjøre for den vitenskapelige evidens for sammenheng mellom risikofaktorer og utvikling av kreftsykdominformere og gi råd om sammenhenger mellom livsstil og kreftrisiko til pasienter, helsepersonell og samfunnet for øvrigforstå hvordan kostnadseffektivitet og kostnadsnytteanalyse av nye kreftmedisiner bestemmesforstå de etiske, juridiske og helsepolitiske prinsipper som styrer bruk og innføring av nye behandlingerforstå økonomiske og organisatoriske konsekvenser av å endre faglig praksis
+Ha god kunnskap om og selvstendig kunne være helserådgiver, herunder:
+
+- redegjøre for den vitenskapelige evidens for sammenheng mellom risikofaktorer og utvikling av kreftsykdom
+- informere og gi råd om sammenhenger mellom livsstil og kreftrisiko til pasienter, helsepersonell og samfunnet for øvrig
+- forstå hvordan kostnadseffektivitet og kostnadsnytteanalyse av nye kreftmedisiner bestemmes
+- forstå de etiske, juridiske og helsepolitiske prinsipper som styrer bruk og innføring av nye behandlinger
+- forstå økonomiske og organisatoriske konsekvenser av å endre faglig praksis
 
 ONC-007
 
-Ha god kunnskap om og selvstendig kunne opptre profesjonelt, herunder kunne:vurdere egen faglig kompetanse, kjenne egne begrensinger og be om hjelp ved behovta initiativ til egen læringbidra til et aktivt læringsmiljøhåndtere vanskelige situasjoner på arbeidsplassen, som feilbehandling og uheldige hendelser, i overensstemmelse med gjeldende lover og etiske standarderanvende og fortolke relevant lovgivning og regler med relevans for spesialiteten onkologianvende etiske refleksjoner i beslutningsgrunnlag og evaluering av behandling
+Ha god kunnskap om og selvstendig kunne opptre profesjonelt, herunder kunne:
+
+- vurdere egen faglig kompetanse, kjenne egne begrensinger og be om hjelp ved behov
+- ta initiativ til egen læring
+- bidra til et aktivt læringsmiljø
+- håndtere vanskelige situasjoner på arbeidsplassen, som feilbehandling og uheldige hendelser, i overensstemmelse med gjeldende lover og etiske standarder
+- anvende og fortolke relevant lovgivning og regler med relevans for spesialiteten onkologi
+- anvende etiske refleksjoner i beslutningsgrunnlag og evaluering av behandling
 
 ### 39.2 Mage- og tarmkreft
 
 ONC-008
 
-Ha god kunnskap om mage- og tarmkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om mage- og tarmkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.3 Brystkreft
 
 ONC-009
 
-Ha god kunnskap om brystkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om brystkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.4 Urologisk kreft
 
 ONC-010
 
-Ha god kunnskap om prostata- og annen urologisk kreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om prostata- og annen urologisk kreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.5 Lungekreft
 
 ONC-011
 
-Ha god kunnskap om lungekreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om lungekreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.6 Lymfekreft
 
 ONC-012
 
-Ha god kunnskap om lymfekreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om lymfekreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.7 Føflekkreft og annen hudkreft
 
 ONC-013
 
-Ha god kunnskap om føflekkreft og annen hudkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om føflekkreft og annen hudkreft og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.8 Kreft med ukjent utgangspunkt
 
 ONC-014
 
-Ha god kunnskap om kreft med ukjent utgangspunkt og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha god kunnskap om kreft med ukjent utgangspunkt og selvstendig kunne utrede og behandle pasienter med denne diagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.9 Øre-, nese-, halskreft
 
 ONC-015
 
-Ha kunnskap om øre-, nese-, halskreft og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om øre-, nese-, halskreft og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.10 Testikkelkreft
 
 ONC-016
 
-Ha kunnskap om testikkelkreft og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om testikkelkreft og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.11 Kreft i sentralnervesystemet (CNS)
 
 ONC-017
 
-Ha kunnskap om kreft i sentralnervesystemet (CNS) og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om kreft i sentralnervesystemet (CNS) og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.12 Nevroendokrine svulster
 
 ONC-018
 
-Ha kunnskap om nevroendokrine svulster og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om nevroendokrine svulster og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.13 Kreft i skjoldbruskkjertelen
 
 ONC-019
 
-Ha kunnskap om kreft i skjoldbruskkjertelen og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om kreft i skjoldbruskkjertelen og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.14 Sarkom
 
 ONC-020
 
-Ha kunnskap om sarkom og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:vurdere henvisningerlage individuelle behandlingsplanerrekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til gjeldende kriterierresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Ha kunnskap om sarkom og under supervisjon kunne utrede og behandle pasienter med denne kreftdiagnosen, herunder kunne:
+
+- vurdere henvisninger
+- lage individuelle behandlingsplaner
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til gjeldende kriterier
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.15 Endokrin kreft
 
 ONC-021
 
-Kjenne til utredning og behandling av pasienter med endokrin kreft, herunder kunne:rekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til TNMresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Kjenne til utredning og behandling av pasienter med endokrin kreft, herunder kunne:
+
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til TNM
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.16 Gynekologisk kreft
 
 ONC-022
 
-Kjenne til utredning og behandling av pasienter med gynekologisk kreft, herunder kunne:rekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndele i henhold til TNMresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Kjenne til utredning og behandling av pasienter med gynekologisk kreft, herunder kunne:
+
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele i henhold til TNM
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.17 Blodkreft
 
 ONC-023
 
-Kjenne til utredning og behandling av pasienter med myelomatose, herunder kunne:rekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndeleresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Kjenne til utredning og behandling av pasienter med myelomatose, herunder kunne:
+
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ONC-024
 
-Kjenne til utredning og behandling av pasienter med leukemi, herunder kunne:rekvirere og vurdere rutinemessige diagnostiske prosedyrerstadieinndeleresponsevaluere behandlingenvurdere når behandlingen bør avsluttes
+Kjenne til utredning og behandling av pasienter med leukemi, herunder kunne:
+
+- rekvirere og vurdere rutinemessige diagnostiske prosedyrer
+- stadieinndele
+- responsevaluere behandlingen
+- vurdere når behandlingen bør avsluttes
 
 ### 39.18 Kreftbehandling
 
@@ -19482,17 +21066,43 @@ Kjenne indikasjon for og bruk av epidural og spinal smertebehandling.
 
 ONC-028
 
-Ha god kunnskap om og selvstendig kunne diagnostisere, utrede og iverksette tiltak ved følgende onkologiske ø-hjelpssituasjoner:trombose, embolivena cava superior-syndrommedullakompresjonhyperkalsemitumorlysesyndromparaneoplastiske syndromerakutt (tumor-) blødningnøytropen feberpneumonitt
+Ha god kunnskap om og selvstendig kunne diagnostisere, utrede og iverksette tiltak ved følgende onkologiske ø-hjelpssituasjoner:
+
+- trombose, emboli
+- vena cava superior-syndrom
+- medullakompresjon
+- hyperkalsemi
+- tumorlysesyndrom
+- paraneoplastiske syndromer
+- akutt (tumor-) blødning
+- nøytropen feber
+- pneumonitt
 
 ONC-029
 
-Selvstendig kunne vurdere indikasjon for strålebehandling ved øyeblikkelig hjelp-situasjoner, herunder kunne gjøre en helhetsvurdering av pasientens funksjonsstatus, forventet levetid, mål med behandlingen, fraksjonering, eventuell kombinasjon med systembehandling og kirurgi for å lindre smerte og/eller bedre funksjon ved:medullakompresjontumorblødningvena cava superior-syndrom
+Selvstendig kunne vurdere indikasjon for strålebehandling ved øyeblikkelig hjelp-situasjoner, herunder kunne gjøre en helhetsvurdering av pasientens funksjonsstatus, forventet levetid, mål med behandlingen, fraksjonering, eventuell kombinasjon med systembehandling og kirurgi for å lindre smerte og/eller bedre funksjon ved:
+
+- medullakompresjon
+- tumorblødning
+- vena cava superior-syndrom
 
 ### 39.21 Komplikasjoner og bivirkninger av kreftbehandling
 
 ONC-030
 
-Ha god kunnskap om og selvstendig kunne diagnostisere, utrede og iverksette tiltak ved komplikasjoner eller bivirkninger av systemisk onkologisk behandling, herunder:akutt anafylaksimyelosuppresjoninfeksjonerkvalme og oppkastblødningerobstipasjon/diarémukosittorgantoksisitetpyreksihypertensjonendokrinopatierokulær toksisitet
+Ha god kunnskap om og selvstendig kunne diagnostisere, utrede og iverksette tiltak ved komplikasjoner eller bivirkninger av systemisk onkologisk behandling, herunder:
+
+- akutt anafylaksi
+- myelosuppresjon
+- infeksjoner
+- kvalme og oppkast
+- blødninger
+- obstipasjon/diaré
+- mukositt
+- organtoksisitet
+- pyreksi
+- hypertensjonendokrinopatier
+- okulær toksisitet
 
 ONC-031
 
@@ -19548,47 +21158,117 @@ Ha kunnskap om diagnostikk og håndtering av vekstforstyrrelser hos barn etter t
 
 ONC-044
 
-Ha god kunnskap om forebygging, diagnostikk og behandling av ekstravasasjon av vevstoksiske midler, herunder:kunne generelle forholdsregler med tanke på intravenøs behandlingkunne symptomer på ekstravasasjonha kunnskap om potensiell vevstoksisitet av aktuell behandlingha kunnskap om behandling av ekstravasasjon av vevstoksiske midlerkunne vurdere behov for henvisning til annen spesialitet
+Ha god kunnskap om forebygging, diagnostikk og behandling av ekstravasasjon av vevstoksiske midler, herunder:
+
+- kunne generelle forholdsregler med tanke på intravenøs behandling
+- kunne symptomer på ekstravasasjon
+- ha kunnskap om potensiell vevstoksisitet av aktuell behandling
+- ha kunnskap om behandling av ekstravasasjon av vevstoksiske midler
+- kunne vurdere behov for henvisning til annen spesialitet
 
 ### 39.22 Stråleterapi
 
 ONC-045
 
-Ha god kunnskap om strålefysikk og radioaktivitet, herunder:vekselvirkningsprosesserfotonstrålingpartikkelstrålingdoseberegningdybdedosekurver/isodoserdosimetridose-volumhistogrammer
+Ha god kunnskap om strålefysikk og radioaktivitet, herunder:
+
+- vekselvirkningsprosesser
+- fotonstråling
+- partikkelstråling
+- doseberegning
+- dybdedosekurver/isodoser
+- dosimetri
+- dose-volumhistogrammer
 
 ONC-046
 
-Ha kunnskap om grunnleggende tekniske prinsipper i stråleterapien, spesielle behandlingsmetoder og pasientgrupper, lovverk og rapportering, herunder:grunnleggende tekniske prinsipper ved lineærakseleratorergrunnleggende tekniske prinsipper ved konvensjonell røntgen, CT, MR, PET og fusjon av ulike bildemodalitetervurdere indikasjonsstilling og kjenne prinsippene for radioaktiv jodbehandlingbrachyterapi- planlegging og doseberegningpartikkelbehandling og de viktigste indikasjoner for denne behandlingenforholdsregler ved strålebehandling av barnrelevante kapitler i lovverket vedrørende arbeid med ioniserende stråling (Strålevernet)
+Ha kunnskap om grunnleggende tekniske prinsipper i stråleterapien, spesielle behandlingsmetoder og pasientgrupper, lovverk og rapportering, herunder:
+
+- grunnleggende tekniske prinsipper ved lineærakseleratorer
+- grunnleggende tekniske prinsipper ved konvensjonell røntgen, CT, MR, PET og fusjon av ulike bildemodaliteter
+- vurdere indikasjonsstilling og kjenne prinsippene for radioaktiv jodbehandling
+- brachyterapi- planlegging og doseberegning
+- partikkelbehandling og de viktigste indikasjoner for denne behandlingen
+- forholdsregler ved strålebehandling av barn
+- relevante kapitler i lovverket vedrørende arbeid med ioniserende stråling (Strålevernet)
 
 Ha god kunnskap om og selvstendig kunne benytte rapporteringssystem for uheldige behandlingsforløp og pasientskader.
 
 ONC-047
 
-Ha god kunnskap om planlegging og gjennomføring av strålebehandling, herunder:vurdering av behandlingsindikasjon/rekvirere strålebehandlingdefinisjon av målvolum og risikoorganervurdering og godkjenning av doseplanervurdering og godkjenning av feltkontrollbilder
+Ha god kunnskap om planlegging og gjennomføring av strålebehandling, herunder:
+
+- vurdering av behandlingsindikasjon/rekvirere strålebehandling
+- definisjon av målvolum og risikoorganer
+- vurdering og godkjenning av doseplaner
+- vurdering og godkjenning av feltkontrollbilder
 
 ONC-048
 
-Ha god kunnskap om forskjellige behandlingsteknikker, herunder:3-D conformal (3-DCRT)imageguided (IGRT)intensitetsmodulert (IMRT/VMAT)stereotaktiskgating
+Ha god kunnskap om forskjellige behandlingsteknikker, herunder:
+
+- 3-D conformal (3-DCRT)
+- imageguided (IGRT)
+- intensitetsmodulert (IMRT/VMAT)
+- stereotaktisk
+- gating
 
 ONC-049
 
-Ha god kunnskap om effekt av ioniserende stråling på tumorvev og friskt vev:radiobiologiske grunnprinsipper, effekt av:totaldosefraksjoneringtidstrålekvalitetakutte bivirkningersenfølger/skadergaderingssystemer for registrering av bivirkninger/senskader (WHO, CTC, RTOG)effekt av multimodalitetsbehandling; kombinasjon av stråleterapi med:immunterapikjemoterapimålstyrt terapi (targeted therapy)hormoner
+Ha god kunnskap om effekt av ioniserende stråling på tumorvev og friskt vev:
+
+- radiobiologiske grunnprinsipper, effekt av:
+- totaldose
+- fraksjonering
+- tid
+- strålekvalitet
+- akutte bivirkninger
+- senfølger/skader
+- gaderingssystemer for registrering av bivirkninger/senskader (WHO, CTC, RTOG)
+- effekt av multimodalitetsbehandling; kombinasjon av stråleterapi med:
+- immunterapi
+- kjemoterapi
+- målstyrt terapi (targeted therapy)
+- hormoner
 
 ONC-050
 
-Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for prostatakreft:primær radikal (kurativ) behandlingpostoperativ behandlingkombinasjon med endokrin behandlingpalliativ behandling
+Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for prostatakreft:
+
+- primær radikal (kurativ) behandling
+- postoperativ behandling
+- kombinasjon med endokrin behandling
+- palliativ behandling
 
 ONC-051
 
-Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for brystkreft:neoadjuvant behandlingadjuvant behandlingprimær radikal behandlingkombinasjon med kjemoterapi/annen systembehandlingpalliativ behandling
+Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for brystkreft:
+
+- neoadjuvant behandling
+- adjuvant behandling
+- primær radikal behandling
+- kombinasjon med kjemoterapi/annen systembehandling
+- palliativ behandling
 
 ONC-052
 
-Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for småcellet og ikke-småcellet lungekreft:primær radikal behandlingpreoperativ behandlingpostoperativ behandlingkombinasjon med kjemoterapi/annen systembehandlingpalliativ behandling
+Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for småcellet og ikke-småcellet lungekreft:
+
+- primær radikal behandling
+- preoperativ behandling
+- postoperativ behandling
+- kombinasjon med kjemoterapi/annen systembehandling
+- palliativ behandling
 
 ONC-053
 
-Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for kreft i rectum:primær radikal behandlingpreoperativ behandlingpostoperativ behandlingkombinasjon med kjemoterapi/annen systembehandlingpalliativ behandling
+Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for kreft i rectum:
+
+- primær radikal behandling
+- preoperativ behandling
+- postoperativ behandling
+- kombinasjon med kjemoterapi/annen systembehandling
+- palliativ behandling
 
 ONC-054
 
@@ -19598,19 +21278,37 @@ Selvstendig kunne bestemme fraksjonering, gi informasjon til pasient og pårøre
 
 ONC-055
 
-Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for tumor cerebri, herunder primære CNS-tumores:primær radikal behandlingkombinasjon med kjemoterapipostoperativ behandlingpalliativ behandling
+Selvstendig kunne vurdere indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for tumor cerebri, herunder primære CNS-tumores:
+
+- primær radikal behandling
+- kombinasjon med kjemoterapi
+- postoperativ behandling
+- palliativ behandling
 
 ONC-056
 
-Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med øre-, nese-, halskreft:primær radikal behandlingpostoperativ behandlingkombinasjon med kjemoterapi/annen systembehandlingpalliativ behandling
+Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med øre-, nese-, halskreft:
+
+- primær radikal behandling
+- postoperativ behandling
+- kombinasjon med kjemoterapi/annen systembehandling
+- palliativ behandling
 
 ONC-057
 
-Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med hudkreft:postoperativ behandlingkombinasjon med systembehandling
+Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med hudkreft:
+
+- postoperativ behandling
+- kombinasjon med systembehandling
 
 ONC-058
 
-Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med sarkom:primær radikal behandlingpostoperativ behandlingkombinasjon med kjemoterapipalliativ behandling
+Ha kunnskap om indikasjon for strålebehandling, bestemme fraksjonering, gi informasjon til pasient og pårørende, gjøre inntegning av målvolum og godkjenne doseplaner for pasienter med sarkom:
+
+- primær radikal behandling
+- postoperativ behandling
+- kombinasjon med kjemoterapi
+- palliativ behandling
 
 ONC-059
 
@@ -19644,11 +21342,26 @@ Ha god kunnskap om og selvstendig kunne diagnostisere og behandle akutt delir.
 
 ONC-066
 
-Ha kunnskap om og under supervisjon kunne diagnostisere, utrede og behandle vanlige indremedisinske tilstander, herunder:Nyresykdommer: Nyresvikt. Elektrolyttforstyrrelser. Hypertensjon.Hjertesykdommer: Hjertesvikt. Atrieflimmer.Endokrinologi: Diabetes mellitus. Hypo-/hyperthyreose.Lungesykdommer: Kronisk obstruktiv lungesykdom (KOLS)/astma.Infeksjonssykdommer: Meningitt. Pneumoni. Urinveisinfeksjon. Infeksjoner i gastrointestinaltraktus, inklusive galleblære, galleveier og tynn- og tykktarm. Erysipelas. Herpes zoster. Invasive og non-invasive soppinfeksjoner.Gastroenterologi: Dyspepsi. Ulcus ventriculi/duodeni. Pankreatitt. Hemoroider.Blodsykdommer: Anemi. Maligne blodsykdommer. Ikke-maligne blodsykdommer.
+Ha kunnskap om og under supervisjon kunne diagnostisere, utrede og behandle vanlige indremedisinske tilstander, herunder:
+
+- Nyresykdommer: Nyresvikt. Elektrolyttforstyrrelser. Hypertensjon.
+- Hjertesykdommer: Hjertesvikt. Atrieflimmer.
+- Endokrinologi: Diabetes mellitus. Hypo-/hyperthyreose.
+- Lungesykdommer: Kronisk obstruktiv lungesykdom (KOLS)/astma.
+- Infeksjonssykdommer: Meningitt. Pneumoni. Urinveisinfeksjon. Infeksjoner i gastrointestinaltraktus, inklusive galleblære, galleveier og tynn- og tykktarm. Erysipelas. Herpes zoster. Invasive og non-invasive soppinfeksjoner.
+- Gastroenterologi: Dyspepsi. Ulcus ventriculi/duodeni. Pankreatitt. Hemoroider.
+- Blodsykdommer: Anemi. Maligne blodsykdommer. Ikke-maligne blodsykdommer.
 
 ONC-067
 
-Selvstendig kunne:tolke EKGtolke røntgen thoraxindikasjon for CPAP/BiPAPta og tolke arteriell blodgasstolkning av svar på dyrkningsprøver og resistensbestemmelseforordning av adekvat antimikrobiell behandling
+Selvstendig kunne:
+
+- tolke EKG
+- tolke røntgen thorax
+- indikasjon for CPAP/BiPAP
+- ta og tolke arteriell blodgass
+- tolkning av svar på dyrkningsprøver og resistensbestemmelse
+- forordning av adekvat antimikrobiell behandling
 
 ### 39.24 Medisinsk genetikk
 
@@ -19684,7 +21397,11 @@ Selvstendig kunne bestille relevant og ressurseffektiv bildediagnostikk og kjenn
 
 ORT-004
 
-Selvstendig kunne redegjøre for de hyppigste postoperative komplikasjoner og iverksette utredning og behandling av:infeksjon i sårdyp venetromboseblødning/sepsis/nerveskader
+Selvstendig kunne redegjøre for de hyppigste postoperative komplikasjoner og iverksette utredning og behandling av:
+
+- infeksjon i sår
+- dyp venetrombose
+- blødning/sepsis/nerveskader
 
 ORT-005
 
@@ -19824,7 +21541,11 @@ Beherske diagnostikk og behandling av tilknyttet artroskopisk kirurgi og idretts
 
 ORT-039
 
-Selvstendig kunne diagnostisere, forebygge og behandle vanlige overbelastningsskader i bevegelsesapparatet:fremre knesmerterMb Schlattertendinopatier
+Selvstendig kunne diagnostisere, forebygge og behandle vanlige overbelastningsskader i bevegelsesapparatet:
+
+- fremre knesmerter
+- Mb Schlatter
+- tendinopatier
 
 ORT-040
 
@@ -19840,7 +21561,11 @@ Selvstendig kunne diagnostisere og initialt behandle akutte kneskader herunder h
 
 ORT-043
 
-Selvstendig kunne utføre enkel kneskopi, herunder:fjerning av corpus librumbehandling av menisklesjonergjenkjenne bruskforandringer Under supervisjon kunne utføre kneskopi utover meniskreseksjon.
+Selvstendig kunne utføre enkel kneskopi, herunder:
+
+- fjerning av corpus librum
+- behandling av menisklesjoner
+- gjenkjenne bruskforandringer Under supervisjon kunne utføre kneskopi utover meniskreseksjon.
 
 ORT-044
 
@@ -19852,15 +21577,28 @@ Selvstendig kunne diagnostisere kroniske skulderplager, herunder avgrensning mot
 
 ORT-046
 
-Selvstendig kunne diagnostisere og initiere behandling ved:impingement i skulderadhesjonskapsulitt
+Selvstendig kunne diagnostisere og initiere behandling ved:
+
+- impingement i skulder
+- adhesjonskapsulitt
 
 ORT-047
 
-Kjenne til diagnostikk og behandling ved:cuffrupturersuperior labrum anterior posterior (SLAP) og bicepspatologikronisk instabilitet i skulder og akromioklavikularledd (AC-ledd)akromioklavikularleddsartroseskulderleddsartrose
+Kjenne til diagnostikk og behandling ved:
+
+- cuffrupturer
+- superior labrum anterior posterior (SLAP) og bicepspatologi
+- kronisk instabilitet i skulder og akromioklavikularledd (AC-ledd)
+- akromioklavikularleddsartrose
+- skulderleddsartrose
 
 ORT-048
 
-Selvstendig kunne diagnostisere og initiere behandling ved akutte skulderskader:skulderluksasjonerakutte cuffrupturerakutte AC-luksasjoner
+Selvstendig kunne diagnostisere og initiere behandling ved akutte skulderskader:
+
+- skulderluksasjoner
+- akutte cuffrupturer
+- akutte AC-luksasjoner
 
 ORT-049
 
@@ -19884,7 +21622,12 @@ Selvstendig kunne utføre revisjon ved dype infeksjoner.
 
 ORT-054
 
-Beherske diagnostikk knyttet til tumores, herunder:ha kjennskap til de maligne ben- og bløtdelssvulster som forekommer, kjenne til tidlige symptomer ved svulstsykdom, hvordan symptomene utredes og hvilke henvisningsrutiner som gjelderha basal kunnskap om behandlingsmetoder og sentraliseringsrutinerkjenne til de vanligste differensialdiagnoser og ha basal kunnskap om behandling av de vanligste benigne ben- og bløtdelssvulsterkjenne til prinsippene for håndtering av patologiske brudd
+Beherske diagnostikk knyttet til tumores, herunder:
+
+- ha kjennskap til de maligne ben- og bløtdelssvulster som forekommer, kjenne til tidlige symptomer ved svulstsykdom, hvordan symptomene utredes og hvilke henvisningsrutiner som gjelder
+- ha basal kunnskap om behandlingsmetoder og sentraliseringsrutiner
+- kjenne til de vanligste differensialdiagnoser og ha basal kunnskap om behandling av de vanligste benigne ben- og bløtdelssvulster
+- kjenne til prinsippene for håndtering av patologiske brudd
 
 ORT-055
 
@@ -19990,7 +21733,11 @@ Selvstendig kunne utføre elektive og akutte håndoperasjoner.
 
 ORT-080
 
-Beherske diagnostikk og selvstendig kunne redegjøre for behandling av de vanligste tilstander i albue, herunder:epikondylittinstabilitetercorpus librum
+Beherske diagnostikk og selvstendig kunne redegjøre for behandling av de vanligste tilstander i albue, herunder:
+
+- epikondylitt
+- instabiliteter
+- corpus librum
 
 ORT-081
 
@@ -20000,7 +21747,18 @@ Selvstendig kunne gjøre diagnostikk av tilstander i revmakirurgi. Selvstendig k
 
 ORT-082
 
-Selvstendig kunne utføre operativ behandling og supervisere innen ett av følgende områder:traumatologikneprotesekirurgihofteprotesekirurgiartroskopisk kirurgikreftortopedifot- og ankelkirurgihåndkirurgirevmakirurgibarneortopediryggkirurgi
+Selvstendig kunne utføre operativ behandling og supervisere innen ett av følgende områder:
+
+- traumatologi
+- kneprotesekirurgi
+- hofteprotesekirurgi
+- artroskopisk kirurgi
+- kreftortopedi
+- fot- og ankelkirurgi
+- håndkirurgi
+- revmakirurgi
+- barneortopedi
+- ryggkirurgi
 
 Under supervisjon kunne utføre revisjonskirurgi.
 
@@ -22642,7 +24400,14 @@ Ha god kunnskap om epidemiologi, genetikk, patogenese, sykdomsmanifestasjoner, k
 
 REV-008
 
-Ha god kunnskap om differensialdiagnostikk og differensialdiagnoser ved artrittsykdommene, herunder:de inflammatoriske revmatiske artrittsykdommeneinfeksiøs artrittkrystallartrittparamalign artrittartritter sekundært til infeksjonartritter ved systemiske bindevevssykdom mv.
+Ha god kunnskap om differensialdiagnostikk og differensialdiagnoser ved artrittsykdommene, herunder:
+
+- de inflammatoriske revmatiske artrittsykdommene
+- infeksiøs artritt
+- krystallartritt
+- paramalign artritt
+- artritter sekundært til infeksjon
+- artritter ved systemiske bindevevssykdom mv.
 
 Ha god kunnskap om typisk klinisk bilde for de enkelte sykdommene og gjeldende klassifisering.
 
@@ -22708,7 +24473,14 @@ Selvstendig kunne utføre punksjon, aspirasjon og injeksjon av seneskjeder og bu
 
 REV-021
 
-Ha god kunnskap om epidemiologi, genetikk, patogenese, sykdomsmanifestasjoner, kliniske uttrykksformer, naturlig forløp, potensielle komplikasjoner og prognose for systemiske bindevevssykdommer, herunder:systematisk lupus erythematosus (SLE)antifosfolipidsyndromSjögrenblandet bindevevssykdom/mixed connective tissue disease (MCTD)systemisk skleroseinflammatoriske myopatier
+Ha god kunnskap om epidemiologi, genetikk, patogenese, sykdomsmanifestasjoner, kliniske uttrykksformer, naturlig forløp, potensielle komplikasjoner og prognose for systemiske bindevevssykdommer, herunder:
+
+- systematisk lupus erythematosus (SLE)
+- antifosfolipidsyndrom
+- Sjögren
+- blandet bindevevssykdom/mixed connective tissue disease (MCTD)
+- systemisk sklerose
+- inflammatoriske myopatier
 
 REV-022
 
@@ -22770,7 +24542,21 @@ Beherske behandling av non-responder på konvensjonell behandling og bruk av leg
 
 REV-034
 
-Ha god kunnskap om epidemiologi, patogenese, kliniske manifestasjoner, genetikk, behandlingsalternativer, potensielle komplikasjoner og prognose for sykdommene:polymyalgia revmatikaTakayasus sykdomkjempecellearterittpolyarteritis nodosaKawasakis syndromGranulomatøs Polyangitt (GPA)Eosinofil Granulomatøs Polyangitt EGPA)Mikroskopisk Polyangitis (MPA)IgA vaskulitt (Henoch Schönlein)Kryoglobulin vaskulittannen immunkompleks vaskulitt (Goodpasture)Mb.Bechetsuspesifisert nekrotiserende vaskulitter
+Ha god kunnskap om epidemiologi, patogenese, kliniske manifestasjoner, genetikk, behandlingsalternativer, potensielle komplikasjoner og prognose for sykdommene:
+
+- polymyalgia revmatika
+- Takayasus sykdom
+- kjempecellearteritt
+- polyarteritis nodosa
+- Kawasakis syndrom
+- Granulomatøs Polyangitt (GPA)
+- Eosinofil Granulomatøs Polyangitt EGPA)
+- Mikroskopisk Polyangitis (MPA)
+- IgA vaskulitt (Henoch Schönlein)
+- Kryoglobulin vaskulitt
+- annen immunkompleks vaskulitt (Goodpasture)
+- Mb.Bechets
+- uspesifisert nekrotiserende vaskulitter
 
 REV-036
 
@@ -22884,7 +24670,15 @@ Ha god kunnskap om utfordringer og muligheter for unge med revmatisk sykdom som 
 
 REV-063
 
-Beherske diagnostisering av ikke-inflammatoriske ledd-, muskel- og skjelettsymptomer, og selvstendig kunne gi innledende behandling, herunder:lumbagoisjiaskarpaltunnelsyndromBakers cysteentesopatierperitendinittkapsulitt i skulder
+Beherske diagnostisering av ikke-inflammatoriske ledd-, muskel- og skjelettsymptomer, og selvstendig kunne gi innledende behandling, herunder:
+
+- lumbago
+- isjias
+- karpaltunnelsyndrom
+- Bakers cyste
+- entesopatier
+- peritendinitt
+- kapsulitt i skulder
 
 REV-064
 
@@ -23040,7 +24834,12 @@ Selvstendig kunne lede hjertestansteam sammen med andre faggrupper i tråd med e
 
 REV-095
 
-Ha god kunnskap om årsaker, patofysiologi og behandling av de ulike typer sirkulasjonssvikt (sjokk):kardiogent sjokkhypovolemisk sjokkseptisk sjokkanafylaktisk sjokk
+Ha god kunnskap om årsaker, patofysiologi og behandling av de ulike typer sirkulasjonssvikt (sjokk):
+
+- kardiogent sjokk
+- hypovolemisk sjokk
+- septisk sjokk
+- anafylaktisk sjokk
 
 REV-096
 
@@ -23107,7 +24906,13 @@ Ha kunnskap om følgende forstyrrelser:
 
 REV-107
 
-Ha kunnskap om og vurderingskompetanse ved ulike syre-/baseforstyrrelser, herunder:respiratorisk acidoserespiratorisk alkalosemetabolsk acidosemetabolsk alkalose«blandede typer»
+Ha kunnskap om og vurderingskompetanse ved ulike syre-/baseforstyrrelser, herunder:
+
+- respiratorisk acidose
+- respiratorisk alkalose
+- metabolsk acidose
+- metabolsk alkalose
+- «blandede typer»
 
 REV-108
 
@@ -23193,7 +24998,15 @@ Ha kunnskap om ulike årsaker til pulmonal hypertensjon og utredning av disse.
 
 REV-124
 
-Ha god kunnskap om indikasjon for og nytte av intervensjon ved:hypertensjonrøykingdyslipidemidiabetes mellitusfysisk inaktivitetovervektmetabolsk syndrom
+Ha god kunnskap om indikasjon for og nytte av intervensjon ved:
+
+- hypertensjon
+- røyking
+- dyslipidemi
+- diabetes mellitus
+- fysisk inaktivitet
+- overvekt
+- metabolsk syndrom
 
 ### 44.17 Lungesykdommer
 
@@ -23353,7 +25166,14 @@ Ha kunnskap om diagnostikk og behandling av irritabel tarmsykdom, divertikkelsyk
 
 REV-158
 
-Ha kunnskap om diagnostikk og behandling av leversykdommer, herunder:alkoholbetingede, medikamentutløste og andre toksiskefettleversykdom og andre metabolskevirushepatitter og andre infeksiøseautoimmunegenetiskevaskulære
+Ha kunnskap om diagnostikk og behandling av leversykdommer, herunder:
+
+- alkoholbetingede, medikamentutløste og andre toksiske
+- fettleversykdom og andre metabolske
+- virushepatitter og andre infeksiøse
+- autoimmune
+- genetiske
+- vaskulære
 
 REV-159
 
@@ -23473,7 +25293,12 @@ Ha kjennskap til prinsipper for dannelse, forebygging og behandling av biofilm.
 
 REV-183
 
-Ha kunnskap om og under supervisjon fra spesialist kunne iverksette adekvat antimikrobiell og støttebehandling hos pasienter med ervervet immunsvikt på grunn av:HIVkreftsykdomnyresviktbruk av immunmodulerende legemidler som cytostatika og biologiske legemidler
+Ha kunnskap om og under supervisjon fra spesialist kunne iverksette adekvat antimikrobiell og støttebehandling hos pasienter med ervervet immunsvikt på grunn av:
+
+- HIV
+- kreftsykdom
+- nyresvikt
+- bruk av immunmodulerende legemidler som cytostatika og biologiske legemidler
 
 REV-184
 
@@ -23535,7 +25360,12 @@ Under supervisjon kunne gjenkjenne nevrologiske tilstander med leddsymptomer, og
 
 REV-197
 
-Ha kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander, herunder:hodepinesyndromer, inkludert sinusvenetromboseakutt polyradikulittpresentasjon og komplikasjoner av multippel sklerose, Mb Parkinson, myastenia gravis og hjerneabscesssvimmelhet
+Ha kunnskap om diagnostikk og initial behandling av andre nevrologiske tilstander, herunder:
+
+- hodepinesyndromer, inkludert sinusvenetrombose
+- akutt polyradikulitt
+- presentasjon og komplikasjoner av multippel sklerose, Mb Parkinson, myastenia gravis og hjerneabscess
+- svimmelhet
 
 ### 44.24 Psykiatri
 
@@ -23574,7 +25404,11 @@ Selvstendig kunne:
 
 RUS-002
 
-Selvstendig kunne fremme brukermedvirkning i pasientens egen behandling og endringsprosess. Selvstendig kunne anvende:motivasjonsfremmende metoder som Motiverende intervju (MI)systematisk bruk av planer som tiltaksplaner, handlingsplaner, behandlingsplaner, individuell plan og kriseplansystematisk bruk av tilbakemeldingsverktøy
+Selvstendig kunne fremme brukermedvirkning i pasientens egen behandling og endringsprosess. Selvstendig kunne anvende:
+
+- motivasjonsfremmende metoder som Motiverende intervju (MI)
+- systematisk bruk av planer som tiltaksplaner, handlingsplaner, behandlingsplaner, individuell plan og kriseplan
+- systematisk bruk av tilbakemeldingsverktøy
 
 RUS-003
 
@@ -23582,7 +25416,15 @@ Selvstendig kunne involvere pårørende og nettverk i pasientbehandlingen i trå
 
 RUS-004
 
-Ha god kunnskap om rusmidler:utbredelse og bruk av rusmidler og legemidlerrusmidlenes virkemåte, farmakologi og interaksjoner (farmakodynamisk og farmakokinetisk)effekten av rusmidler (toksikologi)i ulike livsfaserfor fosterkvinne/mannpå kort og lang sikt
+Ha god kunnskap om rusmidler:
+
+- utbredelse og bruk av rusmidler og legemidler
+- rusmidlenes virkemåte, farmakologi og interaksjoner (farmakodynamisk og farmakokinetisk)
+- effekten av rusmidler (toksikologi)
+- i ulike livsfaser
+- for foster
+- kvinne/mann
+- på kort og lang sikt
 
 ### 45.2 Undersøke og vurdere
 
@@ -23612,7 +25454,12 @@ Selvstendig kunne vurdere tidligere journalopplysninger.
 
 RUS-011
 
-Selvstendig kunne innhente og vurdere opplysninger, eventuelt komparentopplysninger om påvirkningsfaktorer i oppvekst og utviklingshistorie, skolegang/arbeid, ressursfaktorer, sårbarhet, risikofaktorer og forhold til rettsvesenet, herunder faktorer som:familiær disposisjonpasientens styrke og motstandskraftvold og seksuelle overgrepomsorgssvikt
+Selvstendig kunne innhente og vurdere opplysninger, eventuelt komparentopplysninger om påvirkningsfaktorer i oppvekst og utviklingshistorie, skolegang/arbeid, ressursfaktorer, sårbarhet, risikofaktorer og forhold til rettsvesenet, herunder faktorer som:
+
+- familiær disposisjon
+- pasientens styrke og motstandskraft
+- vold og seksuelle overgrep
+- omsorgssvikt
 
 RUS-012
 
@@ -23620,7 +25467,14 @@ Selvstendig kunne vurdere pasientens tidligere behandlingserfaring.
 
 RUS-013
 
-Selvstendig kunne vurdere pasientens livssituasjon og familiesituasjon inkludert:omsorg for barnsosialt nettverkøkonomisk situasjonarbeidsevne/yrkesutøvelseboforhold og boevnespråk og språkfunksjon
+Selvstendig kunne vurdere pasientens livssituasjon og familiesituasjon inkludert:
+
+- omsorg for barn
+- sosialt nettverk
+- økonomisk situasjon
+- arbeidsevne/yrkesutøvelse
+- boforhold og boevne
+- språk og språkfunksjon
 
 RUS-014
 
@@ -23636,7 +25490,12 @@ Selvstendig kunne skille mellom rusmiddelrelaterte og ikke-rusmiddelrelaterte sy
 
 RUS-017
 
-Selvstendig kunne vurdere livsstilsfaktorer:fysisk aktivitetsgradernæringsstatusrøykevanerdøgnrytme
+Selvstendig kunne vurdere livsstilsfaktorer:
+
+- fysisk aktivitetsgrad
+- ernæringsstatus
+- røykevaner
+- døgnrytme
 
 RUS-018
 
@@ -23644,7 +25503,11 @@ Selvstendig kunne anvende resultatet av klinisk intervju og undersøkelse til å
 
 RUS-019
 
-Selvstendig kunne vurdere:avhengighetstilstander og følgetilstander som skyldes rusmiddelinntak, herunder også nikotin og løsemidleravhengighetslidelser som ikke skyldes bruk av psykoaktive stofferavhengighetslidelser som skyldes prestasjonsfremmende midler, herunder AAS
+Selvstendig kunne vurdere:
+
+- avhengighetstilstander og følgetilstander som skyldes rusmiddelinntak, herunder også nikotin og løsemidler
+- avhengighetslidelser som ikke skyldes bruk av psykoaktive stoffer
+- avhengighetslidelser som skyldes prestasjonsfremmende midler, herunder AAS
 
 RUS-020
 
@@ -23662,7 +25525,13 @@ Selvstendig kunne vurdere henvisninger i henhold til [prioriteringsforskriften](
 
 RUS-023
 
-Selvstendig kunne planlegge behandling av ruslidelsersammen med pasientensammen med tverrfaglig teamsammen med pårørende/nettverki samhandling med annen spesialisthelsetjenestei samhandling med kommunale aktører
+Selvstendig kunne planlegge behandling av ruslidelser
+
+- sammen med pasienten
+- sammen med tverrfaglig team
+- sammen med pårørende/nettverk
+- i samhandling med annen spesialisthelsetjeneste
+- i samhandling med kommunale aktører
 
 RUS-024
 
@@ -23680,11 +25549,26 @@ Beherske basale ferdigheter i systematisk psykoterapeutisk samtalebehandling av 
 
 RUS-027
 
-Selvstendig kunne vurdere indikasjon for psykoterapi ved ulike lidelser, herunder selvstendig kunne utføre:motiverende intervjuteknikker hentet fra kognitiv terapipsykoedukative metoderstabiliserende traumebehandling
+Selvstendig kunne vurdere indikasjon for psykoterapi ved ulike lidelser, herunder selvstendig kunne utføre:
+
+- motiverende intervju
+- teknikker hentet fra kognitiv terapi
+- psykoedukative metoder
+- stabiliserende traumebehandling
 
 RUS-028
 
-Ha kunnskap om og under veiledning kunne utføre to av følgende terapimetoder:familieterapikognitivt terapimentaliseringsbasert terapinettverksintervensjonerforsterkningsbehandlingpsykodynamisk behandling12-trinnsbehandlinggruppeterapitraumebehandling
+Ha kunnskap om og under veiledning kunne utføre to av følgende terapimetoder:
+
+- familieterapi
+- kognitivt terapi
+- mentaliseringsbasert terapi
+- nettverksintervensjoner
+- forsterkningsbehandling
+- psykodynamisk behandling
+- 12-trinnsbehandling
+- gruppeterapi
+- traumebehandling
 
 RUS-029
 
@@ -23692,7 +25576,14 @@ Ha kunnskap om betydningen av fysisk aktivitet, treningsterapi og andre terapifo
 
 RUS-030
 
-Selvstendig kunne vurdere indikasjoner, kontraindikasjoner og interaksjoner, og iverksette farmakologiske behandlingstiltak for rus- og avhengighetslidelser:substitusjonsbehandling (LAR)aversiv behandlingblokkerende behandlingtenningsreduserende behandlingbruk av vanedannende legemidlerplacebo-effekter og medikamenters psykologiske betydning
+Selvstendig kunne vurdere indikasjoner, kontraindikasjoner og interaksjoner, og iverksette farmakologiske behandlingstiltak for rus- og avhengighetslidelser:
+
+- substitusjonsbehandling (LAR)
+- aversiv behandling
+- blokkerende behandling
+- tenningsreduserende behandling
+- bruk av vanedannende legemidler
+- placebo-effekter og medikamenters psykologiske betydning
 
 RUS-031
 
@@ -23702,11 +25593,18 @@ Selvstendig kunne tilpasse behandling til ressurser og problemer inkludert alder
 
 RUS-032
 
-Selvstendig kunne vurdere og behandle abstinenstilstander med hensyn til alvorlighet ved bruk av:systematisk observasjonmiljøterapeutiske tiltak
+Selvstendig kunne vurdere og behandle abstinenstilstander med hensyn til alvorlighet ved bruk av:
+
+- systematisk observasjon
+- miljøterapeutiske tiltak
 
 RUS-033
 
-Selvstendig kunne vurdere indikasjon for og iverksette medikamentell behandling, herunder:abstinensbehandlingnedtrappingerkrampeprofylakse
+Selvstendig kunne vurdere indikasjon for og iverksette medikamentell behandling, herunder:
+
+- abstinensbehandling
+- nedtrappinger
+- krampeprofylakse
 
 RUS-034
 
@@ -23728,15 +25626,29 @@ Selvstendig kunne håndtere og utføre slik behandling i TSB i samvalg med pasie
 
 RUS-037
 
-Selvstendig kunne diagnostisere og vurdere behandlingsbehov ved:psykoselidelserrusutløste psykoselignende tilstander
+Selvstendig kunne diagnostisere og vurdere behandlingsbehov ved:
+
+- psykoselidelser
+- rusutløste psykoselignende tilstander
 
 RUS-038
 
-Selvstendig kunne diagnostisere og vurdere behandlingsbehov for:affektive lidelserbipolar type 1bipolar type 2depresjon (ulike typer)
+Selvstendig kunne diagnostisere og vurdere behandlingsbehov for:
+
+- affektive lidelser
+- bipolar type 1
+- bipolar type 2
+- depresjon (ulike typer)
 
 RUS-039
 
-Selvstendig kunne diagnostisere angsttilstander, vurdere behandlingsbehov og initiere behandling av disse, herunder:tvangslidelsersosial fobiandre fobierpanikkangstposttraumatiske lidelser
+Selvstendig kunne diagnostisere angsttilstander, vurdere behandlingsbehov og initiere behandling av disse, herunder:
+
+- tvangslidelser
+- sosial fobi
+- andre fobier
+- panikkangst
+- posttraumatiske lidelser
 
 RUS-040
 
@@ -23744,7 +25656,12 @@ Selvstendig kunne utrede og diagnostisere voksne med ADHD, inkludert initiere be
 
 RUS-041
 
-Selvstendig kunne vurdereutviklingsforstyrrelserpsykisk utviklingshemmingautismespekterforstyrrelserervervet svekket kognitiv fungering
+Selvstendig kunne vurdere
+
+- utviklingsforstyrrelser
+- psykisk utviklingshemming
+- autismespekterforstyrrelser
+- ervervet svekket kognitiv fungering
 
 RUS-042
 
@@ -23756,15 +25673,28 @@ Selvstendig kunne vurdere og diagnostisere søvnforstyrrelser, og kunne iverkset
 
 RUS-044
 
-Selvstendig kunne kartlegge og vurdere behandlingstiltak ved:spiseforstyrrelserselvdestruktiv atferdselvskading
+Selvstendig kunne kartlegge og vurdere behandlingstiltak ved:
+
+- spiseforstyrrelser
+- selvdestruktiv atferd
+- selvskading
 
 RUS-045
 
-Selvstendig kunne vurdere somatisk helsetilstand og kunne vurdere behandlingsalternativer ved:somatiske lidelserfølgetilstander ved bruk av rusmidlerfølgetilstander ved bruk av prestasjonsfremmende midler
+Selvstendig kunne vurdere somatisk helsetilstand og kunne vurdere behandlingsalternativer ved:
+
+- somatiske lidelser
+- følgetilstander ved bruk av rusmidler
+- følgetilstander ved bruk av prestasjonsfremmende midler
 
 RUS-046
 
-Selvstendig kunne vurdere ernæringsstatus og mangeltilstander hos pasienten og initiere behandlingstiltak, herunder:BMIelektrolyttforstyrrelservitaminmangelrefeeding syndrome
+Selvstendig kunne vurdere ernæringsstatus og mangeltilstander hos pasienten og initiere behandlingstiltak, herunder:
+
+- BMI
+- elektrolyttforstyrrelser
+- vitaminmangel
+- refeeding syndrome
 
 RUS-047
 
@@ -23772,15 +25702,32 @@ Selvstendig kunne vurdere munnhelse og behov for videre undersøkelser.
 
 RUS-048
 
-Selvstendig kunne gjennomføre en orienterende nevrologisk undersøkelse med tanke på å identifisere rusrelaterte nevrologiske skader og følgetilstander herunder:nevropatierdegenerative cerebrale tilstanderperifere skaderataxier
+Selvstendig kunne gjennomføre en orienterende nevrologisk undersøkelse med tanke på å identifisere rusrelaterte nevrologiske skader og følgetilstander herunder:
+
+- nevropatier
+- degenerative cerebrale tilstander
+- perifere skader
+- ataxier
 
 RUS-049
 
-Selvstendig kunne utrede og gjenkjenne endokrinologiske sykdommer og følgetilstander relatert til:kjønnshormonerstoffskiftediabetesbruk av anabole androgene steroider
+Selvstendig kunne utrede og gjenkjenne endokrinologiske sykdommer og følgetilstander relatert til:
+
+- kjønnshormoner
+- stoffskifte
+- diabetes
+- bruk av anabole androgene steroider
 
 RUS-050
 
-Selvstendig kunne vurdere skader som følge av injiserende atferd, herunder:endokardittvenetromboserkarskaderlokale infeksjoner og absessersystemiske infeksjonerorganskader
+Selvstendig kunne vurdere skader som følge av injiserende atferd, herunder:
+
+- endokarditt
+- venetromboser
+- karskader
+- lokale infeksjoner og absesser
+- systemiske infeksjoner
+- organskader
 
 RUS-051
 
@@ -23790,7 +25737,10 @@ Selvstendig kunne vurdere effekter på hjerterytme, herunder forlenget QT-tid.
 
 RUS-052
 
-Selvstendig kunne vurdere rusrelaterte skader på mage- og tarmsystemet, herunder:alkoholiske leverskadermage-tarmskade
+Selvstendig kunne vurdere rusrelaterte skader på mage- og tarmsystemet, herunder:
+
+- alkoholiske leverskader
+- mage-tarmskade
 
 RUS-053
 
@@ -23818,7 +25768,13 @@ Selvstendig kunne vurdere rusrelaterte hudsykdommer og veneriske sykdommer og si
 
 RUS-059
 
-Selvstendig kunne gjøre akuttvurderinger og kriseintervensjoner, herunder:selvstendig vurdere behov for innleggelse i somatisk akuttmottakselvstendig kunne vurdere pasientens samtykkekompetanse etter [pasientrettighetsloven](lov/1999-07-02-63)selvstendig vurdere behov for frivillig innleggelse i psykisk helsevernselvstendig vurdere behov for innleggelse etter tvungent psykisk helsevern (TPH)selvstendig kunne vurdere behov for anbefaling til sosialtjenesten om å fremme tvangssak etter [helse og omsorgstjenesteloven](lov/2011-06-24-30)
+Selvstendig kunne gjøre akuttvurderinger og kriseintervensjoner, herunder:
+
+- selvstendig vurdere behov for innleggelse i somatisk akuttmottak
+- selvstendig kunne vurdere pasientens samtykkekompetanse etter [pasientrettighetsloven](lov/1999-07-02-63)
+- selvstendig vurdere behov for frivillig innleggelse i psykisk helsevern
+- selvstendig vurdere behov for innleggelse etter tvungent psykisk helsevern (TPH)
+- selvstendig kunne vurdere behov for anbefaling til sosialtjenesten om å fremme tvangssak etter [helse og omsorgstjenesteloven](lov/2011-06-24-30)
 
 RUS-060
 
@@ -23828,11 +25784,20 @@ Selvstendig kunne bruke evalueringer av behandlingsresultater og vurdere endring
 
 RUS-061
 
-Ha god kunnskap om og selvstendig kunne anvendelovverk som regulerer virksomhet i tverrfaglig spesialisert behandling for rus- og avhengighetslidelser (TSB), psykisk helsevern og kommunale tjenesterpasientrettigheter, herunder refusjonsordninger med merforskrifter med betydning for førerkort, omsorg for barn, smittevern og yrkesutøvelseregelverk for bruk av kontrollprøver og sanksjonære prøvernasjonale faglige retningslinjer
+Ha god kunnskap om og selvstendig kunne anvende
+
+- lovverk som regulerer virksomhet i tverrfaglig spesialisert behandling for rus- og avhengighetslidelser (TSB), psykisk helsevern og kommunale tjenester
+- pasientrettigheter, herunder refusjonsordninger med mer
+- forskrifter med betydning for førerkort, omsorg for barn, smittevern og yrkesutøvelse
+- regelverk for bruk av kontrollprøver og sanksjonære prøver
+- nasjonale faglige retningslinjer
 
 RUS-062
 
-Ha god kunnskap omorganisering av helsevesen og sosialtjenestehelsetilsyn og andre helsemyndigheter
+Ha god kunnskap om
+
+- organisering av helsevesen og sosialtjeneste
+- helsetilsyn og andre helsemyndigheter
 
 ### 45.6 Kommunikasjon og samhandling
 
@@ -23846,7 +25811,11 @@ Selvstendig kunne fremme kompetanse i pasientens nettverk.
 
 RUS-065
 
-Selvstendig kunne samarbeide med andre tjenesteytere i spesialisthelsetjenesten, herunder:utføre konsultasjon- og liaisontjenestesamarbeide med somatikkensamarbeide med psykisk helsevern
+Selvstendig kunne samarbeide med andre tjenesteytere i spesialisthelsetjenesten, herunder:
+
+- utføre konsultasjon- og liaisontjeneste
+- samarbeide med somatikken
+- samarbeide med psykisk helsevern
 
 RUS-066
 
@@ -23854,7 +25823,15 @@ Ha god kunnskap om legerollen i TSB.
 
 RUS-067
 
-Selvstendig kunne samarbeide med og ha kunnskaper om andre tjenesteytere på tvers av nivåer, herunder:kommunale tjenesterNAVbarnevernfastlegenansvarsgruppefengselshelsetjenestenstatsforvalteren
+Selvstendig kunne samarbeide med og ha kunnskaper om andre tjenesteytere på tvers av nivåer, herunder:
+
+- kommunale tjenester
+- NAV
+- barnevern
+- fastlegen
+- ansvarsgruppe
+- fengselshelsetjenesten
+- statsforvalteren
 
 RUS-068
 
@@ -23864,11 +25841,18 @@ Selvstendig kunne fylle rollen som sakkyndig, herunder skrive spesialistvurderin
 
 RUS-069
 
-Selvstendig kunne anvende forebyggende tiltak på individnivå, herunder:kartlegge vaksinasjonsstatus og ved behov sikre vaksinering mot blant annet hepatittermot uønskede svangerskap ved å gi adekvat prevensjonsveiledning
+Selvstendig kunne anvende forebyggende tiltak på individnivå, herunder:
+
+- kartlegge vaksinasjonsstatus og ved behov sikre vaksinering mot blant annet hepatitter
+- mot uønskede svangerskap ved å gi adekvat prevensjonsveiledning
 
 RUS-070
 
-Selvstendig kunne iverksette systematiske kvalitetssikrede metoder og tiltak motoverdoserselvmordvold
+Selvstendig kunne iverksette systematiske kvalitetssikrede metoder og tiltak mot
+
+- overdoser
+- selvmord
+- vold
 
 RUS-071
 

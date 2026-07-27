@@ -15,7 +15,7 @@ xml_hash: "9bd5436b14359f170dbd937b2c931905e9f125d31bb80b6a1ad278fd252fed6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,14 @@ I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn
 
 ### § 2-2. Minstekrav til vedtektene
 
-(1) Vedtektene skal minst innehalde føresegner omføretaksnamn for laget,kommune i riket der laget skal ha forretningskontor,kva verksemd laget skal drive i tillegg til hovudføremålet,pålydande verdi på andelane,lågaste og høgaste tal på medlemmer av styre og valkomité,kva saker som skal opp på den ordinære generalforsamlinga.
+(1) Vedtektene skal minst innehalde føresegner om
+
+1. føretaksnamn for laget,
+2. kommune i riket der laget skal ha forretningskontor,
+3. kva verksemd laget skal drive i tillegg til hovudføremålet,
+4. pålydande verdi på andelane,
+5. lågaste og høgaste tal på medlemmer av styre og valkomité,
+6. kva saker som skal opp på den ordinære generalforsamlinga.
 
 (2) Namnet på bustadbyggjelaget (føretaksnamnet) skal innehalde ordet bustadbyggjelag eller avkortinga BBL.
 
@@ -342,11 +349,19 @@ Den som opnar møtet, skal før første røysting setje opp ei liste over dei an
 
 (1) Saker som ikkje er melde til andelseigarane etter reglane om innkalling av generalforsamlinga, kan ikkje avgjerast utan at alle andelseigarane i laget samtykkjer.
 
-(2) At saka ikkje er oppgitt i innkallinga, hindrar ikkje atden ordinære generalforsamlinga avgjer saker som etter lova eller vedtektene skal takast opp på kvar ordinær generalforsamling,den ordinære generalforsamlinga avgjer framlegg om gransking etter [§ 5-24](lov/2003-06-06-38/§5-24),det blir vedteke å kalle inn til ny generalforsamling for å avgjere framlegg som er gjorde i møtet.
+(2) At saka ikkje er oppgitt i innkallinga, hindrar ikkje at
+
+1. den ordinære generalforsamlinga avgjer saker som etter lova eller vedtektene skal takast opp på kvar ordinær generalforsamling,
+2. den ordinære generalforsamlinga avgjer framlegg om gransking etter [§ 5-24](lov/2003-06-06-38/§5-24),
+3. det blir vedteke å kalle inn til ny generalforsamling for å avgjere framlegg som er gjorde i møtet.
 
 ### § 5-15. Opplysningsplikt for leiinga
 
-(1) Ein andelseigar kan krevje at styremedlemmer og dagleg leiar gir tilgjengelege opplysningar på generalforsamlinga om tilhøve som kan verke inn på vurderinga avgodkjenning av årsrekneskapen og årsmeldinga,saker som er lagde fram for andelseigarane eller dei delegerte til avgjerd,den økonomiske stillinga for laget, medrekna verksemda i samanslutningar som laget tek del i, og andre saker som generalforsamlinga skal ta opp, om dei opplysningane som blir kravde, kan givast utan for stor skade for laget.
+(1) Ein andelseigar kan krevje at styremedlemmer og dagleg leiar gir tilgjengelege opplysningar på generalforsamlinga om tilhøve som kan verke inn på vurderinga av
+
+1. godkjenning av årsrekneskapen og årsmeldinga,
+2. saker som er lagde fram for andelseigarane eller dei delegerte til avgjerd,
+3. den økonomiske stillinga for laget, medrekna verksemda i samanslutningar som laget tek del i, og andre saker som generalforsamlinga skal ta opp, om dei opplysningane som blir kravde, kan givast utan for stor skade for laget.
 
 (2) Er andelseigarane representerte ved delegerte, kan berre dei delegerte krevje slike opplysningar.
 
@@ -398,7 +413,12 @@ Ein andelseigar, ein styremedlem eller dagleg leiar kan reise søksmål med pås
 
 (1) Søksmål etter [§ 5-21](lov/2003-06-06-38/§5-21) om at eit vedtak er ugyldig, må reisast innan tre månader etter at vedtaket er gjort, elles er vedtaket gyldig.
 
-(2) Reglane i første ledd gjeld ikkje nårvedtaket er av slikt slag at det ikkje kan takast sjølv med samtykke frå alle andelseigarane,lov eller vedtekter krev at visse andelseigarar eller alle andelseigarar må gi samtykke til vedtaket, og slikt samtykke ikkje er gitt,det ikkje er kalla inn til generalforsamlinga, eller reglane om innkalling har vore sette vesentleg til side,søksmål blir reist innan to år etter utgangen av fristen i første ledd, og tingretten kjem til at saksøkjaren har hatt rimeleg grunn til fristforsøminga, og at det ville føre til openbert urimeleg resultat om vedtaket skulle reknast som gyldig.
+(2) Reglane i første ledd gjeld ikkje når
+
+1. vedtaket er av slikt slag at det ikkje kan takast sjølv med samtykke frå alle andelseigarane,
+2. lov eller vedtekter krev at visse andelseigarar eller alle andelseigarar må gi samtykke til vedtaket, og slikt samtykke ikkje er gitt,
+3. det ikkje er kalla inn til generalforsamlinga, eller reglane om innkalling har vore sette vesentleg til side,
+4. søksmål blir reist innan to år etter utgangen av fristen i første ledd, og tingretten kjem til at saksøkjaren har hatt rimeleg grunn til fristforsøminga, og at det ville føre til openbert urimeleg resultat om vedtaket skulle reknast som gyldig.
 
 ### § 5-23. Dom om ugyldig vedtak
 
@@ -474,9 +494,19 @@ Styret skal tilsetje ein dagleg leiar for laget.
 
 ### § 6-4 a. Krav til kjønnssamansetjing i styret
 
-(1) Føresegnene i denne paragrafen gjeld for bustadbyggjelag som på balansedagen for årsrekneskapen anten har:samla driftsinntekter og finansinntekter på meir enn 50 millionar kroner,fleire enn 30 tilsette, som skal reknast likt som etter [§ 6-4](lov/2003-06-06-38/§6-4), ellermeir enn 500 andelseigarar.
+(1) Føresegnene i denne paragrafen gjeld for bustadbyggjelag som på balansedagen for årsrekneskapen anten har:
 
-(2) Kjønnssamansetjinga i styret skal oppfylle følgjande krav:Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha same kjønn.Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha same kjønn.Har styret sju medlemmer, kan maksimalt fire styremedlemmer ha same kjønn.Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha same kjønn.Har styret ni eller fleire medlemmer, kan maksimalt 60 prosent av styremedlemmene ha same kjønn.
+1. samla driftsinntekter og finansinntekter på meir enn 50 millionar kroner,
+2. fleire enn 30 tilsette, som skal reknast likt som etter [§ 6-4](lov/2003-06-06-38/§6-4), eller
+3. meir enn 500 andelseigarar.
+
+(2) Kjønnssamansetjinga i styret skal oppfylle følgjande krav:
+
+1. Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha same kjønn.
+2. Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha same kjønn.
+3. Har styret sju medlemmer, kan maksimalt fire styremedlemmer ha same kjønn.
+4. Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha same kjønn.
+5. Har styret ni eller fleire medlemmer, kan maksimalt 60 prosent av styremedlemmene ha same kjønn.
 
 (3) Andre ledd gjeld tilsvarande for varamedlemmer.
 
@@ -690,13 +720,23 @@ Etter at val av styremedlem eller tilsetjing av dagleg leiar er registrert i Fø
 
 ### § 7-1. Skaffe andelseigarane bustader
 
-(1) Bustadbyggjelaget kan skaffe bustader til andelseigarane gjennomavtalar med andelseigarane om oppføring eller avhending av bustader som er knytte til eller skal knytast til andel i burettslag,avtalar med andelseigarane om oppføring eller avhending av andre bustader,avtalar med andelseigarane om utleige av bustad,andre avtalar med andelseigarane om rett til bustad,vedtekter eller avtalar om forkjøpsrett eller annan løysingsrett til bustad for andelseigarane i bustadbyggjelaget.
+(1) Bustadbyggjelaget kan skaffe bustader til andelseigarane gjennom
+
+1. avtalar med andelseigarane om oppføring eller avhending av bustader som er knytte til eller skal knytast til andel i burettslag,
+2. avtalar med andelseigarane om oppføring eller avhending av andre bustader,
+3. avtalar med andelseigarane om utleige av bustad,
+4. andre avtalar med andelseigarane om rett til bustad,
+5. vedtekter eller avtalar om forkjøpsrett eller annan løysingsrett til bustad for andelseigarane i bustadbyggjelaget.
 
 (2) Ei fullmakt for laget til å ta avgjerder på vegner av ein andelseigar i ein avtale mellom andelseigaren og ein entreprenør eller seljar om oppføring av eller rett til bustad, kan kallast tilbake utan varsel.
 
 ### § 7-2. Bustadforvaltning
 
-Bustadbyggjelaget kan forvalte bustader for andelseigarane gjennomavtalar med burettslag, seksjonssameige eller andelseigarar om forretningsførsel eller andre forvaltningsoppgåver,avtalar med andre om forvaltningsoppgåver,forvaltning av utleigebustader.
+Bustadbyggjelaget kan forvalte bustader for andelseigarane gjennom
+
+1. avtalar med burettslag, seksjonssameige eller andelseigarar om forretningsførsel eller andre forvaltningsoppgåver,
+2. avtalar med andre om forvaltningsoppgåver,
+3. forvaltning av utleigebustader.
 
 ### § 7-3. Dotterselskap o.a.
 
@@ -770,7 +810,12 @@ Andelseigarane i det overdragande laget skal førast inn i andelseigarboka i det
 
 ### § 9-4. Innhaldet i planen for samanslåinga
 
-(1) Planen for samanslåing skal minst innehaldeføretaksnamn for laga, forretningskommunar, adresser og organisasjonsnummer,frå kva tid transaksjonar i det overdragande laget i forhold til rekneskapen skal sjåast som gjorde for rekning av det overtakande laget,kva rettar andelseigarane skal ha i det overtakande laget,utkast til opningsbalanse for det overtakande laget. Opningsbalansen skal setjast opp i samsvar med gjeldande rekneskapsreglar. Registrert eller statsautorisert revisor skal gi ei fråsegn om at balansen er sett opp i samsvar med desse reglane.
+(1) Planen for samanslåing skal minst innehalde
+
+1. føretaksnamn for laga, forretningskommunar, adresser og organisasjonsnummer,
+2. frå kva tid transaksjonar i det overdragande laget i forhold til rekneskapen skal sjåast som gjorde for rekning av det overtakande laget,
+3. kva rettar andelseigarane skal ha i det overtakande laget,
+4. utkast til opningsbalanse for det overtakande laget. Opningsbalansen skal setjast opp i samsvar med gjeldande rekneskapsreglar. Registrert eller statsautorisert revisor skal gi ei fråsegn om at balansen er sett opp i samsvar med desse reglane.
 
 (2) Planen skal òg innehalde framlegg til vedtektsendring i det overtakande laget. Nye reglar om rettar og plikter i laget skal vere oppgitt særskilt.
 
@@ -782,7 +827,10 @@ Andelseigarane i det overdragande laget skal førast inn i andelseigarboka i det
 
 ### § 9-5. Vedlegg til planen
 
-Som vedlegg til planen skal følgjevedtektene i det overtakande laget,siste årsrekneskap, årsmelding og revisjonsmelding for kvart av laga.
+Som vedlegg til planen skal følgje
+
+1. vedtektene i det overtakande laget,
+2. siste årsrekneskap, årsmelding og revisjonsmelding for kvart av laga.
 
 ### § 9-6. Rapport om samanslåinga
 
@@ -932,7 +980,10 @@ Det som måtte tilfalle laget av summar som er sette av etter [§ 10-9](lov/2003
 
 ### § 10-13. Tingretten overtek ansvaret for avviklinga
 
-(1) Tingretten kan ved orskurd vedta å overta ansvaret for avviklinga av laget når særlege grunner talar for det, dersomlaget ikkje er meldt endeleg oppløyst til Føretaksregisteret seinast eitt år etter registreringa av melding etter [§ 10-3](lov/2003-06-06-38/§10-3), ellerminst ein femtedel av andelseigarane krev det.
+(1) Tingretten kan ved orskurd vedta å overta ansvaret for avviklinga av laget når særlege grunner talar for det, dersom
+
+1. laget ikkje er meldt endeleg oppløyst til Føretaksregisteret seinast eitt år etter registreringa av melding etter [§ 10-3](lov/2003-06-06-38/§10-3), eller
+2. minst ein femtedel av andelseigarane krev det.
 
 (2) Styret eller i tilfelle avviklingsstyret skal få høve til å uttale seg før avgjerda blir teken. Føretaksregisteret skal gi retten melding om at fristen etter første ledd nr. 1 er ute.
 
@@ -942,7 +993,12 @@ Det som måtte tilfalle laget av summar som er sette av etter [§ 10-9](lov/2003
 
 ### § 10-14. Oppløysing etter orskurd frå tingretten
 
-Dersom ikkje generalforsamlinga vedtek oppløysing, skal tingretten ved orskurd vedta laget oppløyst i desse tilfellanår laget ikkje har meldt til Føretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegner gitt i eller i medhald av lov,når laget ikkje har meldt til Føretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,når laget ikkje har meldt til Føretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,når årsrekneskap, årsmelding og revisjonsmelding som laget skal sende til Rekneskapsregisteret etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
+Dersom ikkje generalforsamlinga vedtek oppløysing, skal tingretten ved orskurd vedta laget oppløyst i desse tilfella
+
+1. når laget ikkje har meldt til Føretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegner gitt i eller i medhald av lov,
+2. når laget ikkje har meldt til Føretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,
+3. når laget ikkje har meldt til Føretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,
+4. når årsrekneskap, årsmelding og revisjonsmelding som laget skal sende til Rekneskapsregisteret etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
 
 ### § 10-15. Behandling av saker om oppløysing etter § 10-14
 

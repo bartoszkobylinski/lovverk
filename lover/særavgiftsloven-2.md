@@ -15,7 +15,7 @@ xml_hash: "008e50130ac6472d3a89732cf3b6f39c107d782217086b49b501369c4c120a2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,7 +69,18 @@ Departementet kan gi forskrift om avgiftsfritak som følger av folkerettslig avt
 
 ### § 1-6. Forskriftsfullmakt
 
-Departementet kan gi forskrift omavgiftspliktens omfangavgiftsgrunnlag og -beregningnår avgiften skal beregnes og rapportereshvem som skal beregne og betale avgiftengjennomføring og vilkår for reduserte avgiftssatser og -fritakfritak av avgiftstekniske hensynplikt til og vilkår for registrering i Særavgiftsregisteretplikt til og vilkår for registrering av lokalerplikt til å iverksette tiltak som er nødvendige for kontrollregistrering og dokumentasjon.
+Departementet kan gi forskrift om
+
+1. avgiftspliktens omfang
+2. avgiftsgrunnlag og -beregning
+3. når avgiften skal beregnes og rapporteres
+4. hvem som skal beregne og betale avgiften
+5. gjennomføring og vilkår for reduserte avgiftssatser og -fritak
+6. fritak av avgiftstekniske hensyn
+7. plikt til og vilkår for registrering i Særavgiftsregisteret
+8. plikt til og vilkår for registrering av lokaler
+9. plikt til å iverksette tiltak som er nødvendige for kontroll
+10. registrering og dokumentasjon.
 
 ## Kapittel 2 Fellesbestemmelser om særavgifter på varer
 
@@ -463,7 +474,11 @@ Barn under to år er fritatt for avgift.
 
 ### § 16-1. Avgiftsplikt
 
-Det skal beregnes avgift for utslipp av NOX ved energiproduksjon i følgende kilder:framdriftsmaskineri med effekt over 750 kWmotorer, kjeler og turbiner med effekt over 10 MWflammetårn.
+Det skal beregnes avgift for utslipp av NOX ved energiproduksjon i følgende kilder:
+
+1. framdriftsmaskineri med effekt over 750 kW
+2. motorer, kjeler og turbiner med effekt over 10 MW
+3. flammetårn.
 
 Det skal beregnes avgift for utslipp av NOX i særavgiftsområdet.
 

@@ -26,9 +26,17 @@ eu_basis: []
 
 ### § 1
 
-Norges Kommunalbank har til formål å yte lån til:kommuner, bygningskommuner og havnekasserkommunelaglag eller sammenslutninger til fremme av elektrisitets- og vannforsyning når en eller flere kommuner har skutt inn en del av aksje- eller andelskapitalen eller har garantert for lånetoppføring av sykehus eller andre helse- og sosialbygg uten hensyn til hvem som skal eie eller drive institusjonen.
+Norges Kommunalbank har til formål å yte lån til:
 
-Banken kan dessuten stille garanti:----for lån som kommuner tar opp til finansiering av skolebygg.
+1. kommuner, bygningskommuner og havnekasser
+2. kommunelag
+3. lag eller sammenslutninger til fremme av elektrisitets- og vannforsyning når en eller flere kommuner har skutt inn en del av aksje- eller andelskapitalen eller har garantert for lånet
+4. oppføring av sykehus eller andre helse- og sosialbygg uten hensyn til hvem som skal eie eller drive institusjonen.
+
+Banken kan dessuten stille garanti:
+
+1. ----
+2. for lån som kommuner tar opp til finansiering av skolebygg.
 
 ### § 2
 

@@ -15,7 +15,7 @@ xml_hash: "6ae8fdb1440dbf0556725e2cf4ed9627e440b1954ca3cae1cdfa68a0ac1508ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,58 @@ Forskriften skal forebygge ulykker og uønskede hendelser knyttet til håndterin
 
 ### § 4. Definisjoner
 
-I forskriften menes med*akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet*ammunisjon:*Patroner eller andre gjenstander som er laget for å bli brukt i skytevåpenDrivmiddel, tennmiddel og prosjektil til gjenstander som er nevnt i bokstav a. Krutt i løsvekt anses likevel ikke å være ammunisjonHåndgranat, bomber, raketter, miner eller liknende gjenstander, som er laget for å detonere, deflagere eller sende ut lys, gass, gift, røyk eller liknende*bergsprengning:* bruk av eksplosjonsfarlig stoff i berg/fjell og lignende, over og under jord, over og under vann, for å fragmentere, drive ut eller knuse masse*bringe i omsetning*: gjøre et eksplosiv tilgjengelig i EØS for første gang*CE-merking:* merking der produsenten angir at eksplosivet oppfyller gjeldende krav fastsatt i EØS-regelverk for slik merking*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør eksplosiver tilgjengelig på markedet*eksplosiv:* eksplosjonsfarlige stoffer og gjenstander som i henhold til De forente nasjoners (FN) rekommandasjoner om transport av farlig gods er oppført i klasse 1*eksplosjonsfarlig stoff:* fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer*eksportør:* enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver i omsetning i en tredjestat*EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter*faregruppe:* eksplosiver klassifisert etter farlighetsgrad i følgende grupper etter De forente nasjoners (FN) rekommandasjoner om transport av farlig gods:a)1.1Stoffer og gjenstander som innebærer fare for masseeksplosjon (en masseeksplosjon er en eksplosjon som nærmest momentant omfatter nesten hele beholdningen).b)1.2Stoffer og gjenstander uten masseeksplosjonsrisiko, men med fare for utkast.c)1.3Stoffer og gjenstander uten masseeksplosjonsrisiko, men som innebærer brannrisiko samt en mindre sprengningsfare og/eller en mindre fare for utkast og som- i tilfelle brann kan gi betydelig strålevarme; eller- når brannen skjer etappevis, gir mindre eksplosjoner og/eller utkast.d)1.4Stoffer og gjenstander som bare innebærer ubetydelig fare dersom de blir utsatt for tenning eller initiering. Virkningen er vesentlig begrenset til kolliet, og det ventes ikke utkast av nevneverdig størrelse eller i nevneverdig avstand. En utvendig brann må ikke kunne føre til at nesten hele innholdet i kolliet eksploderer nærmest momentant.e)1.5Meget ufølsomme stoffer, som kan forårsake masseeksplosjon, men som er så ufølsomme at det er meget liten sannsynlighet for tenning eller overgang fra brann til eksplosjon under normale forhold.f)1.6Ekstremt ufølsomme gjenstander uten fare for masseeksplosjon. Gjenstandene inneholder kun meget ufølsomme eksplosivstoffer og viser en neglisjerbar sannsynlighet for utilsiktet tenning eller detonasjonsoverføring.*forsager:* eksplosiver som ikke har gått av ved avfyring.*gjøre tilgjengelig på markedet:* enhver levering av eksplosiv for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk*håndtering:* enhver omgang med eksplosjonsfarlig stoff slik som tilvirkning, oppbevaring, behandling, transport, lasting, lossing erverv, handel, innførsel, utførsel, overføring, bruk og tilintetgjøring*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver fra en tredjestat i omsetning i EØS*markedsdeltakere*: produsenten, representanten, importøren, distributøren og alle andre fysiske eller juridiske personer som oppbevarer, bruker, overfører, importerer, eksporterer, eller driver handel med eksplosiver*mobil enhet for produksjon av eksplosiver:* en enhet som produserer og lader eksplosiver fra farlig gods, som ikke er eksplosiver. Enheten kan være påmontert et kjøretøy.*nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten*netto eksplosivinnhold (NEI):* den totale massen av eksplosiv uten emballasje, rør, prosjektiler osv.*overføring:* enhver fysisk flytting av eksplosiver innenfor EØS-området unntatt forflytning innenfor ett og samme anlegg*overføringstillatelse:* den beslutningen som treffes om å tillate planlagt overføring av eksplosiver innenfor EØS-området*produksjon:* enhver fremgangsmåte hvor eksplosiver blir fremstilt, sammenstilt eller bearbeidet. Klargjøring av ammunisjon, montering av tennmidler eller liknende handling som etter anerkjent praksis blir foretatt i forbindelse med bruken av eksplosivet, er ikke produksjon*produsent:* enhver fysisk eller juridisk person som produserer et eksplosiv, eller får eksplosiver konstruert eller produsert, og som markedsfører det under eget navn eller varemerke, eller tar det i bruk til egne formål*representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*salveplan:* skriftlig plan som beskriver hvordan boring, lading, tenning og dekking av den enkelte salven skal være, slik at sikkerheten blir ivaretatt som planlagt og beskrevet i sprengningsplanen.*samsvarsvurdering:* prosessen for å fastslå om et eksplosiv oppfyller de grunnleggende sikkerhetskravene*sprengningsplan:* skriftlig plan for hvordan sikkerheten skal ivaretas i forbindelse med sprengning på et bestemt område*steinsprekking:* bruk av teknisk innretning som ved hjelp av eksplosjonsfarlig stoff sprekker og deler berg eller annet materiale*teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar](lov/1994-06-16-20)*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som et eksplosiv skal oppfylle*teknisk sprengning:* annen sprengning enn bergsprengning, slik som sprengning ved smelteverk, seismikksprengning, bruk av sprengstoff ved skjøting av linjer eller kutting av trær, sprengning i brønnhull for kapasitetsøkning, samt demolering av byggverk eller faste installasjoner med liten risiko for skade på omgivelser*tennmiddel:* eksplosiv som brukes til å innlede sprengkjeden i et annet eksplosiv, unntatt tennmidler til ammunisjon*tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av et eksplosiv som allerede er gjort tilgjengelig for brukerne*tilbaketrekking:* ethvert tiltak rettet mot å hindre at et eksplosiv i omsetningskjeden blir gjort tilgjengelig på markedet.
+I forskriften menes med
+
+1. *akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet
+2. *ammunisjon:*
+
+   1. Patroner eller andre gjenstander som er laget for å bli brukt i skytevåpen
+   2. Drivmiddel, tennmiddel og prosjektil til gjenstander som er nevnt i bokstav a. Krutt i løsvekt anses likevel ikke å være ammunisjon
+   3. Håndgranat, bomber, raketter, miner eller liknende gjenstander, som er laget for å detonere, deflagere eller sende ut lys, gass, gift, røyk eller liknende
+3. *bergsprengning:* bruk av eksplosjonsfarlig stoff i berg/fjell og lignende, over og under jord, over og under vann, for å fragmentere, drive ut eller knuse masse
+4. *bringe i omsetning*: gjøre et eksplosiv tilgjengelig i EØS for første gang
+5. *CE-merking:* merking der produsenten angir at eksplosivet oppfyller gjeldende krav fastsatt i EØS-regelverk for slik merking
+6. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør eksplosiver tilgjengelig på markedet
+7. *eksplosiv:* eksplosjonsfarlige stoffer og gjenstander som i henhold til De forente nasjoners (FN) rekommandasjoner om transport av farlig gods er oppført i klasse 1
+8. *eksplosjonsfarlig stoff:* fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer
+9. *eksportør:* enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver i omsetning i en tredjestat
+10. *EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter
+11. *faregruppe:* eksplosiver klassifisert etter farlighetsgrad i følgende grupper etter De forente nasjoners (FN) rekommandasjoner om transport av farlig gods:
+
+    |  |  |  |
+    | --- | --- | --- |
+    | a) | 1.1 | Stoffer og gjenstander som innebærer fare for masseeksplosjon (en masseeksplosjon er en eksplosjon som nærmest momentant omfatter nesten hele beholdningen). |
+    | b) | 1.2 | Stoffer og gjenstander uten masseeksplosjonsrisiko, men med fare for utkast. |
+    | c) | 1.3 | Stoffer og gjenstander uten masseeksplosjonsrisiko, men som innebærer brannrisiko samt en mindre sprengningsfare og/eller en mindre fare for utkast og som |
+    |  |  | - i tilfelle brann kan gi betydelig strålevarme; eller |
+    |  |  | - når brannen skjer etappevis, gir mindre eksplosjoner og/eller utkast. |
+    | d) | 1.4 | Stoffer og gjenstander som bare innebærer ubetydelig fare dersom de blir utsatt for tenning eller initiering. Virkningen er vesentlig begrenset til kolliet, og det ventes ikke utkast av nevneverdig størrelse eller i nevneverdig avstand. En utvendig brann må ikke kunne føre til at nesten hele innholdet i kolliet eksploderer nærmest momentant. |
+    | e) | 1.5 | Meget ufølsomme stoffer, som kan forårsake masseeksplosjon, men som er så ufølsomme at det er meget liten sannsynlighet for tenning eller overgang fra brann til eksplosjon under normale forhold. |
+    | f) | 1.6 | Ekstremt ufølsomme gjenstander uten fare for masseeksplosjon. Gjenstandene inneholder kun meget ufølsomme eksplosivstoffer og viser en neglisjerbar sannsynlighet for utilsiktet tenning eller detonasjonsoverføring. |
+12. *forsager:* eksplosiver som ikke har gått av ved avfyring.
+13. *gjøre tilgjengelig på markedet:* enhver levering av eksplosiv for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+14. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk
+15. *håndtering:* enhver omgang med eksplosjonsfarlig stoff slik som tilvirkning, oppbevaring, behandling, transport, lasting, lossing erverv, handel, innførsel, utførsel, overføring, bruk og tilintetgjøring
+16. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver fra en tredjestat i omsetning i EØS
+17. *markedsdeltakere*: produsenten, representanten, importøren, distributøren og alle andre fysiske eller juridiske personer som oppbevarer, bruker, overfører, importerer, eksporterer, eller driver handel med eksplosiver
+18. *mobil enhet for produksjon av eksplosiver:* en enhet som produserer og lader eksplosiver fra farlig gods, som ikke er eksplosiver. Enheten kan være påmontert et kjøretøy.
+19. *nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten
+20. *netto eksplosivinnhold (NEI):* den totale massen av eksplosiv uten emballasje, rør, prosjektiler osv.
+21. *overføring:* enhver fysisk flytting av eksplosiver innenfor EØS-området unntatt forflytning innenfor ett og samme anlegg
+22. *overføringstillatelse:* den beslutningen som treffes om å tillate planlagt overføring av eksplosiver innenfor EØS-området
+23. *produksjon:* enhver fremgangsmåte hvor eksplosiver blir fremstilt, sammenstilt eller bearbeidet. Klargjøring av ammunisjon, montering av tennmidler eller liknende handling som etter anerkjent praksis blir foretatt i forbindelse med bruken av eksplosivet, er ikke produksjon
+24. *produsent:* enhver fysisk eller juridisk person som produserer et eksplosiv, eller får eksplosiver konstruert eller produsert, og som markedsfører det under eget navn eller varemerke, eller tar det i bruk til egne formål
+25. *representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+26. *salveplan:* skriftlig plan som beskriver hvordan boring, lading, tenning og dekking av den enkelte salven skal være, slik at sikkerheten blir ivaretatt som planlagt og beskrevet i sprengningsplanen.
+27. *samsvarsvurdering:* prosessen for å fastslå om et eksplosiv oppfyller de grunnleggende sikkerhetskravene
+28. *sprengningsplan:* skriftlig plan for hvordan sikkerheten skal ivaretas i forbindelse med sprengning på et bestemt område
+29. *steinsprekking:* bruk av teknisk innretning som ved hjelp av eksplosjonsfarlig stoff sprekker og deler berg eller annet materiale
+30. *teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar](lov/1994-06-16-20)
+31. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som et eksplosiv skal oppfylle
+32. *teknisk sprengning:* annen sprengning enn bergsprengning, slik som sprengning ved smelteverk, seismikksprengning, bruk av sprengstoff ved skjøting av linjer eller kutting av trær, sprengning i brønnhull for kapasitetsøkning, samt demolering av byggverk eller faste installasjoner med liten risiko for skade på omgivelser
+33. *tennmiddel:* eksplosiv som brukes til å innlede sprengkjeden i et annet eksplosiv, unntatt tennmidler til ammunisjon
+34. *tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av et eksplosiv som allerede er gjort tilgjengelig for brukerne
+35. *tilbaketrekking:* ethvert tiltak rettet mot å hindre at et eksplosiv i omsetningskjeden blir gjort tilgjengelig på markedet.
 
 > Endret ved forskrift [17 feb 2026 nr. 227](forskrift/2026-02-17-227).
 
@@ -96,7 +147,12 @@ Det er forbudt å bruke åpen ild eller andre tennkilder innenfor anlegg, områd
 
 (2) Virksomheten skal samordne beredskapsplanen sin med relevante nød- og beredskapsetater dersom virksomhetens art, risiko, størrelse eller kompleksitet tilsier det.
 
-(3) Beredskapsplanen skal inneholde opplysninger om hvordan egenberedskapen er organisert og beskriveansvar og oppgavefordeling under innsats ved ulykker og andre uønskede hendelseralarmeringsinstrukser og varslingslisteroppgaver som umiddelbart skal utføres ved alarmpersonell, materiell og utstyr som er tilgjengelig.
+(3) Beredskapsplanen skal inneholde opplysninger om hvordan egenberedskapen er organisert og beskrive
+
+1. ansvar og oppgavefordeling under innsats ved ulykker og andre uønskede hendelser
+2. alarmeringsinstrukser og varslingslister
+3. oppgaver som umiddelbart skal utføres ved alarm
+4. personell, materiell og utstyr som er tilgjengelig.
 
 (4) Virksomheten skal regelmessig gjennomgå beredskapsplanen og øve egenberedskapen.
 
@@ -114,7 +170,12 @@ Nabovirksomheter som håndterer eksplosjonsfarlige stoffer hver for seg, og hvor
 
 (3) Virksomheten skal ikke la noen planlegge en aktivitet med eller håndtere eksplosjonsfarlige stoffer, som går ut over det disse har kunnskap, erfaring og ferdigheter til, eller er skikket til.
 
-(4) Virksomheten skal sørge for at ansatte som håndterer eksplosjonsfarlige stoffer, har opplæring iregelverk som gjelder for stoffene og håndteringen av stoffenestoffenes egenskaper, sammensetning, virkemåte og risikosikker håndtering av stoffenesikring av stoffene.
+(4) Virksomheten skal sørge for at ansatte som håndterer eksplosjonsfarlige stoffer, har opplæring i
+
+1. regelverk som gjelder for stoffene og håndteringen av stoffene
+2. stoffenes egenskaper, sammensetning, virkemåte og risiko
+3. sikker håndtering av stoffene
+4. sikring av stoffene.
 
 (5) Omfanget og innholdet i opplæringen skal være tilpasset det ansvaret og de oppgavene som den ansatte har.
 
@@ -254,7 +315,15 @@ Når det blir gitt en godkjenning, tillatelse eller sertifikat, kan det fastsett
 
 (5) Skjer overføringen via én eller flere stater innenfor EØS-området skal avsender av eksplosivene sørge for at vedkommende myndighet i de enkelte land får en melding om overføringen. Overføring skal ikke skje før disse myndighetene har gitt sitt samtykke. Dersom overføringen skjer fra eller via Norge skal avsender innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap.
 
-(6) Det kan stilles særlige krav til kontroll med overføring av eksplosiver dersom det er behov for å ivareta særlige hensyn til offentlig sikkerhet. Direktoratet for samfunnssikkerhet og beredskap kan i slike tilfeller kreve at følgende opplysninger skal legges frem ved søknad om tillatelse til overføring:foretaksnavn og adresse til de involverte markedsdeltakerneantall og mengde eksplosiver som skal overføresfullstendig beskrivelse og identifikasjon av eksplosivene, inkludert UN-nummer og identifikasjonsmerkehvordan samsvar med betingelsene for å bringe eksplosivene i omsetning etter [kapittel 13](forskrift/2017-06-15-844/kap13) er ivaretatttransportmidler og transportruteavsendelsesdato og forventet ankomstdatonøyaktig sted for grensepasseringer.
+(6) Det kan stilles særlige krav til kontroll med overføring av eksplosiver dersom det er behov for å ivareta særlige hensyn til offentlig sikkerhet. Direktoratet for samfunnssikkerhet og beredskap kan i slike tilfeller kreve at følgende opplysninger skal legges frem ved søknad om tillatelse til overføring:
+
+1. foretaksnavn og adresse til de involverte markedsdeltakerne
+2. antall og mengde eksplosiver som skal overføres
+3. fullstendig beskrivelse og identifikasjon av eksplosivene, inkludert UN-nummer og identifikasjonsmerke
+4. hvordan samsvar med betingelsene for å bringe eksplosivene i omsetning etter [kapittel 13](forskrift/2017-06-15-844/kap13) er ivaretatt
+5. transportmidler og transportrute
+6. avsendelsesdato og forventet ankomstdato
+7. nøyaktig sted for grensepasseringer.
 
 (7) Dersom det ikke er behov for å ivareta særlige hensyn til offentlig sikkerhet kan eksplosivene overføres uten at opplysningen i sjette ledd er meldt på forhånd. Tillatelsen til overføring gis da for en bestemt periode. Tillatelsen kan trekkes tilbake dersom det foreligger særlige grunner til det.
 
@@ -296,7 +365,10 @@ Markedsdeltakere plikter på forespørsel fra vedkommende myndigheter innenfor E
 
 (1) Før eksplosiver kan oppbevares skal det foreligge en tillatelse.
 
-(2) Uten tillatelse kan det allikevel forsvarlig nedlåst oppbevares:Inntil fem kilo røyksvakt kruttInntil tre kg svartkrutt separert i enheter på inntil én kilo.
+(2) Uten tillatelse kan det allikevel forsvarlig nedlåst oppbevares:
+
+1. Inntil fem kilo røyksvakt krutt
+2. Inntil tre kg svartkrutt separert i enheter på inntil én kilo.
 
 (3) Kommunen kan selv om eksplosivene kan oppbevares uten tillatelse, fastsette nærmere vilkår, begrensinger eller forbud mot oppbevaring, dersom eksplosivene etter forholdene på stedet kan medføre særlig fare for brann eller eksplosjon.
 
@@ -322,7 +394,12 @@ Virksomheten skal plassere eksplosivlageret slik at kravene til sikkerhetsavstan
 
 (3) Den som søker om tillatelse til oppbevaring skal dokumentere at kravet i første ledd er oppfylt. Dokumentasjonen kan skje gjennom å påvise at sikkerhetsavstandene i fjerde til tolvte ledd er oppfylt, eller ved en risikovurdering hvor resultatene sammenholdes med akseptkriterier som defineres av Direktoratet for samfunnssikkerhet og beredskap.
 
-(4) Sikkerhetsavstander beregnes etter formelen D = k x Qn hvor:D = Sikkerhetsavstand i meterk = konstant som er avhengig av eksplosivets egenskaper og hvilken type objekt som er utsattQ = netto eksplosiver i kgn = faktor som er avhengig av eksplosivenes egenskaper.
+(4) Sikkerhetsavstander beregnes etter formelen D = k x Qn hvor:
+
+1. D = Sikkerhetsavstand i meter
+2. k = konstant som er avhengig av eksplosivets egenskaper og hvilken type objekt som er utsatt
+3. Q = netto eksplosiver i kg
+4. n = faktor som er avhengig av eksplosivenes egenskaper.
 
 (5) På grunn av fare for splinter og utkast skal sikkerhetsavstanden ikke være mindre enn den angitte minsteavstanden – Dmin – for den aktuelle situasjonen, dersom ikke risikovurderingen viser at mindre avstand er akseptabel. Denne avstanden er avhengig av type eksplosiver og utsatt objekt.
 
@@ -442,7 +519,14 @@ Dette kapittelet gjelder for oppbevaring av ammoniumnitratholdige stoffer og sto
 
 ### § 50. Forebyggende bygningstekniske sikkerhetstiltak
 
-Lager for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger skalvære tørt og fritt for tilsig, og ha en temperatur som samsvarer med produsentens anvisning for stoffenevære konstruert av ikke-brennbart materialevære konstruert slik at flytende ammoniumnitratholdige stoffer eller stoffblandinger ikke kan samles i avløp og liknende med fare for trykkoppbygging, og slik at søl av kjemikalier kan oppdages og samles oppha et jordingssystemha et system for lynavledning i områder hvor lynnedslag ofte forekommer, dersom det er vurdert å være behov for detha brannalarm koblet til vaktordning eller nødalarmsentral.
+Lager for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger skal
+
+1. være tørt og fritt for tilsig, og ha en temperatur som samsvarer med produsentens anvisning for stoffene
+2. være konstruert av ikke-brennbart materiale
+3. være konstruert slik at flytende ammoniumnitratholdige stoffer eller stoffblandinger ikke kan samles i avløp og liknende med fare for trykkoppbygging, og slik at søl av kjemikalier kan oppdages og samles opp
+4. ha et jordingssystem
+5. ha et system for lynavledning i områder hvor lynnedslag ofte forekommer, dersom det er vurdert å være behov for det
+6. ha brannalarm koblet til vaktordning eller nødalarmsentral.
 
 ### § 51. Forebyggende sikkerhetstiltak mot brann
 
@@ -498,15 +582,31 @@ Lager for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger ska
 
 ### § 56. Krav til merking ved oppbevaring
 
-Tank, telt, bygning eller fjellhall for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger skal være tydelig merket medadgang forbudt for uvedkommendeforbud mot bruk av åpen ild eller andre tennkilderoksiderende stoff kl. 5.1.
+Tank, telt, bygning eller fjellhall for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger skal være tydelig merket med
+
+1. adgang forbudt for uvedkommende
+2. forbud mot bruk av åpen ild eller andre tennkilder
+3. oksiderende stoff kl. 5.1.
 
 ## Kapittel. 7. Produksjon av eksplosiver og ammunisjon
 
 ### § 57. Tillatelse til produksjon
 
-(1) Ved søknad om tillatelse til produksjon av eksplosiver eller ammunisjon skal det legges fremopplysninger om anlegg, prosess og metode og om stoffene som inngår i prosesseninformasjon om hvem som på virksomhetens vegne er ansvarlig for produksjonenforslag til transportklassifisering av produkt som ønskes produsertdokumentasjon på hvordan det sikres at eksplosivene er i samsvar med [vedlegg II](forskrift/2017-06-15-844/vedleggII)dokumentasjon på at avstandskravene i [kapittel 5](forskrift/2017-06-15-844/kap5) er oppfylt for eksplosiver eller ammunisjon som skal oppbevaresdokumentasjon på at bestemmelsene i [kapittel 6](forskrift/2017-06-15-844/kap6) er oppfylt, når det skal oppbevares ammoniumnitratholdige stoffer eller stoffblandinger på lager som er etablert for produksjon av eksplosiver på brukersted.
+(1) Ved søknad om tillatelse til produksjon av eksplosiver eller ammunisjon skal det legges frem
 
-(2) Tillatelse til stasjonær produksjon av eksplosiver og ammunisjon gir også rett til å:erverve andre eksplosiver som inngår i produksjonsprosessenoppbevare eksplosiver og ammunisjon på produksjonsstedettilintetgjøre sine egne produserte eksplosiver og ammunisjondistribuere produserte eksplosiver.
+1. opplysninger om anlegg, prosess og metode og om stoffene som inngår i prosessen
+2. informasjon om hvem som på virksomhetens vegne er ansvarlig for produksjonen
+3. forslag til transportklassifisering av produkt som ønskes produsert
+4. dokumentasjon på hvordan det sikres at eksplosivene er i samsvar med [vedlegg II](forskrift/2017-06-15-844/vedleggII)
+5. dokumentasjon på at avstandskravene i [kapittel 5](forskrift/2017-06-15-844/kap5) er oppfylt for eksplosiver eller ammunisjon som skal oppbevares
+6. dokumentasjon på at bestemmelsene i [kapittel 6](forskrift/2017-06-15-844/kap6) er oppfylt, når det skal oppbevares ammoniumnitratholdige stoffer eller stoffblandinger på lager som er etablert for produksjon av eksplosiver på brukersted.
+
+(2) Tillatelse til stasjonær produksjon av eksplosiver og ammunisjon gir også rett til å:
+
+1. erverve andre eksplosiver som inngår i produksjonsprosessen
+2. oppbevare eksplosiver og ammunisjon på produksjonsstedet
+3. tilintetgjøre sine egne produserte eksplosiver og ammunisjon
+4. distribuere produserte eksplosiver.
 
 > Endret ved forskrift [17 feb 2026 nr. 227](forskrift/2026-02-17-227).
 
@@ -524,7 +624,21 @@ Direktoratet for samfunnssikkerhet og beredskap kan forby fremgangsmåter for pr
 
 ### § 60. Krav til virksomhet med tillatelse til produksjon
 
-(1) Virksomhet som produserer eksplosiver eller ammunisjon skal sørge for at alle forhold som påvirker produksjonsprosessen er ivaretatt, slik som:planleggingproduktdefinisjon og reseptutviklingdesign av produksjonsprosess og utstyrbygging og etablering av anleggdrift og prosesskontrollhåndtering av eksplosiver og spillmaterialstyring og rapporteringsikring, sikkerhets- og kvalitetsstyringrekruttering og ansettelse av operatører og ledereopplæringmateriellforvaltning og vedlikeholdutfasing og destruksjonnedrigging og riving.
+(1) Virksomhet som produserer eksplosiver eller ammunisjon skal sørge for at alle forhold som påvirker produksjonsprosessen er ivaretatt, slik som:
+
+1. planlegging
+2. produktdefinisjon og reseptutvikling
+3. design av produksjonsprosess og utstyr
+4. bygging og etablering av anlegg
+5. drift og prosesskontroll
+6. håndtering av eksplosiver og spill
+7. materialstyring og rapportering
+8. sikring, sikkerhets- og kvalitetsstyring
+9. rekruttering og ansettelse av operatører og ledere
+10. opplæring
+11. materiellforvaltning og vedlikehold
+12. utfasing og destruksjon
+13. nedrigging og riving.
 
 (2) Bygging, ombygging, produksjon og vedlikehold av utstyr skal kun skje av virksomheter med tilstrekkelige kvalifikasjoner og som er akseptert av den virksomheten som har tillatelse til produksjon av eksplosiver og ammunisjon.
 
@@ -554,7 +668,11 @@ Virksomheter som produserer eksplosiver på brukersted, skal på anmodning fra D
 
 ### § 64. Andre særlige krav ved produksjon av eksplosiver på brukersted
 
-(1) Virksomhet med tillatelse til produksjon av eksplosiver på brukersted skal til enhver tid kunne dokumenterehvilken mobil produksjonsenhet som brukesgenerelle rutiner og prosedyrer for virksomhetens valg av produksjonssted på brukerstedetrisikovurdering for oppstilling og produksjon på det aktuelle brukerstedet.
+(1) Virksomhet med tillatelse til produksjon av eksplosiver på brukersted skal til enhver tid kunne dokumentere
+
+1. hvilken mobil produksjonsenhet som brukes
+2. generelle rutiner og prosedyrer for virksomhetens valg av produksjonssted på brukerstedet
+3. risikovurdering for oppstilling og produksjon på det aktuelle brukerstedet.
 
 (2) Alle faser i produksjonen slik som lasting, lossing, pumping, blanding og lading skal overvåkes nøye. Under produksjonen skal produksjonsenheten overvåkes kontinuerlig.
 
@@ -612,7 +730,11 @@ Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffbla
 
 ### § 72. Tillatelse til erverv av eksplosiver
 
-(1) For å få tillatelse til erverv av eksplosiver må virksomheten enten ha enegen tillatelse til oppbevaring av eksplosivene,avtale om leie av oppbevaring inngått med innehaveren av tillatelsen til oppbevaring, elleravtale med distributør om retur av eksplosivene.
+(1) For å få tillatelse til erverv av eksplosiver må virksomheten enten ha en
+
+1. egen tillatelse til oppbevaring av eksplosivene,
+2. avtale om leie av oppbevaring inngått med innehaveren av tillatelsen til oppbevaring, eller
+3. avtale med distributør om retur av eksplosivene.
 
 (2) Erverv kan bare skje fra virksomhet som har tillatelse til å produsere, importere, overføre eller distribuere eksplosiver.
 
@@ -674,7 +796,11 @@ Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffbla
 
 ### § 79a. Bergsprengning under vann
 
-(1) Lading og kobling av salver under vann kan bare utføres av arbeidsdykker med dykkebevis klasse B og som i tillegg har:gyldig sertifikat som bergsprengerbestått prøve i sprengning under vann i regi av høyskole, ellergjennomført særskilt kurs og bestått tilhørende prøve i regi av kursadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap.
+(1) Lading og kobling av salver under vann kan bare utføres av arbeidsdykker med dykkebevis klasse B og som i tillegg har:
+
+1. gyldig sertifikat som bergsprenger
+2. bestått prøve i sprengning under vann i regi av høyskole, eller
+3. gjennomført særskilt kurs og bestått tilhørende prøve i regi av kursadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap.
 
 (2) Dykker som ikke selv er bergsprenger skal ved lading og kobling av salver under vann ha direkte og kontinuerlig talekommunikasjon og videooverføring med en bergsprenger over vann. Bergsprenger som er over vann må være ansatt i en virksomhet som tilfredsstiller kravene i [§ 79](forskrift/2017-06-15-844/§79). Bergsprenger over vann må ha gjennomført særskilt kurs og bestått tilhørende prøve i regi av kursadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap.
 
@@ -686,13 +812,23 @@ Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffbla
 
 (2) Sertifikat kan utstedes til søkere som enten har to års dokumentert relevant praksis som bergsprenger, eller ett års relevant praksis i planlegging av bergsprengningsarbeid etter endt relevant ingeniørutdanning.
 
-(3) I tillegg må søkereha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,ha bestått prøve som bergsprengningsleder i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,kunne fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder, ogvære skikket.
+(3) I tillegg må søkere
+
+1. ha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,
+2. ha bestått prøve som bergsprengningsleder i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,
+3. kunne fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder, og
+4. være skikket.
 
 (4) En kandidat som stryker to ganger på prøven som bergsprengningsleder, skal ta nytt kurs før kandidaten kan melde seg opp til ny prøve. Hvis kandidaten stryker tre ganger på prøven, må kandidaten vente i ett år før kandidaten kan gjennomføre nytt kurs og melde seg opp til ny prøve. En kandidat som stryker flere enn tre ganger, må ta nytt kurs og vente i ett år med å søke for hver gang han eller hun stryker.
 
 ### § 81. Sertifikat som bergsprenger
 
-(1) For å arbeide som bergsprenger, kreves sertifikat som bergsprenger. Søknad om sertifikat sendes til Direktoratet for samfunnssikkerhet og beredskap. Sertifikat kan utstedes til søkere somhar fagbrev i fjell- og bergverksfaget med fordypning bergsprengning,har bestått prøve som bergsprenger i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,kan fremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder, oger skikket.
+(1) For å arbeide som bergsprenger, kreves sertifikat som bergsprenger. Søknad om sertifikat sendes til Direktoratet for samfunnssikkerhet og beredskap. Sertifikat kan utstedes til søkere som
+
+1. har fagbrev i fjell- og bergverksfaget med fordypning bergsprengning,
+2. har bestått prøve som bergsprenger i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,
+3. kan fremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder, og
+4. er skikket.
 
 (2) Sertifikat kan utstedes til søker som ikke tilfredsstiller kravet i første ledd bokstav a), dersom søker har fagbrev i fjell- og bergverksfaget med fordypning innen fjellsikring eller knuseverk, og som gjennom en særskilt opplæringsbok, kan dokumentere ett års relevant praksis fra bergsprengningsarbeid. Praksisen må ha funnet sted etter at søker besto fagprøven. Før oppstart av praksisperioden skal søker være meldt inn til Direktoratet for samfunnssikkerhet og beredskap som under opplæring i bergsprengning. Søker må i tillegg tilfredsstille de øvrige kravene i første ledd.
 
@@ -710,7 +846,11 @@ Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffbla
 
 ### § 82. Gyldigheten av sertifikatene
 
-(1) Sertifikat som bergsprenger og bergsprengningsleder er gyldig i inntil fem år regnet fra datoen sertifikatet ble utstedt. For å få fornyet sertifikatet skal søkergjennomføre et oppfriskningskurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,bestå prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap, ogfremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder.
+(1) Sertifikat som bergsprenger og bergsprengningsleder er gyldig i inntil fem år regnet fra datoen sertifikatet ble utstedt. For å få fornyet sertifikatet skal søker
+
+1. gjennomføre et oppfriskningskurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,
+2. bestå prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap, og
+3. fremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder.
 
 (2) Dersom oppfriskningsprøven er bestått mer enn 12 måneder før utløpsdatoen på sertifikatet, gjelder det nye sertifikatet i fem år fra da oppfriskningsprøven ble bestått.
 
@@ -842,7 +982,12 @@ Virksomheten skal før den bruker eksplosiver informere og varsle alle som kan b
 
 ### § 96. Teknisk sprengningskyndig
 
-(1) Teknisk sprengningskyndig skalha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskapha bestått prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskaphvert femte år gjennomføre oppdateringskurs og bestå en prøve i regi av kursadministrator og kursarrangør eller eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskapdokumentere produktkunnskap om relevante eksplosiver og aktiviteten der sprengningen inngår.
+(1) Teknisk sprengningskyndig skal
+
+1. ha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap
+2. ha bestått prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap
+3. hvert femte år gjennomføre oppdateringskurs og bestå en prøve i regi av kursadministrator og kursarrangør eller eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap
+4. dokumentere produktkunnskap om relevante eksplosiver og aktiviteten der sprengningen inngår.
 
 (2) Personer med gyldig sertifikat som bergsprenger kan ha rollen som teknisk sprengningskyndig og må ikke oppfylle kravene i første ledd bokstav a til c.
 
@@ -942,13 +1087,23 @@ Sivile eksplosiver kan bare gjøres tilgjengelig på markedet dersom de er i sam
 
 (2) Forpliktelsene etter [§ 105 første ledd](forskrift/2017-06-15-844/§105/ledd/1), og plikten til å utarbeide teknisk dokumentasjon nevnt i [§ 105 annet ledd](forskrift/2017-06-15-844/§105/ledd/2), skal ikke omfattes av representantens fullmakt.
 
-(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at eksplosivet er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at eksplosivet er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med eksplosivene som omfattes av fullmakten.
+(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til å
+
+1. ha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at eksplosivet er brakt i omsetning
+2. på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at eksplosivet er i samsvar med forskriften
+3. på anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med eksplosivene som omfattes av fullmakten.
 
 ### § 107. Importørens forpliktelser
 
 (1) Importøren skal bare bringe i omsetning eksplosiver som er i samsvar med forskriften.
 
-(2) Før et eksplosiv bringes i omsetning, skal importøren sikre atprodusenten har gjennomført relevant fremgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjoneksplosivet er påført CE-merkingeksplosivet følges av de nødvendige dokumenteneprodusenten har oppfylt kravene i [§ 105](forskrift/2017-06-15-844/§105).
+(2) Før et eksplosiv bringes i omsetning, skal importøren sikre at
+
+1. produsenten har gjennomført relevant fremgangsmåte for samsvarsvurdering
+2. produsenten har utarbeidet teknisk dokumentasjon
+3. eksplosivet er påført CE-merking
+4. eksplosivet følges av de nødvendige dokumentene
+5. produsenten har oppfylt kravene i [§ 105](forskrift/2017-06-15-844/§105).
 
 (3) En importør som har grunn til å tro at et eksplosiv ikke er i samsvar med kravene i [vedlegg II](forskrift/2017-06-15-844/vedleggII), skal ikke bringe eksplosivet i omsetning før det er i samsvar med kravene. Dersom eksplosivet utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.
 
@@ -968,7 +1123,13 @@ Sivile eksplosiver kan bare gjøres tilgjengelig på markedet dersom de er i sam
 
 (1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når eksplosiver gjøres tilgjengelig på markedet.
 
-(2) Før eksplosiver gjøres tilgjengelig på markedet, skal distributøren kontrollere ateksplosivet er påført CE-merking og påskriftene etter [§ 105 tredje ledd](forskrift/2017-06-15-844/§105/ledd/3)eksplosivet følges av de nødvendige dokumenteneeksplosivet følges av anvisninger og sikkerhetsinformasjon på norsk. Dersom eksplosivene skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i [§ 105 sjuende](forskrift/2017-06-15-844/§105/ledd/7) og [åttende ledd](forskrift/2017-06-15-844/§105/ledd/8)importøren har oppfylt kravene i [§ 107 fjerde ledd](forskrift/2017-06-15-844/§107/ledd/4).
+(2) Før eksplosiver gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. eksplosivet er påført CE-merking og påskriftene etter [§ 105 tredje ledd](forskrift/2017-06-15-844/§105/ledd/3)
+2. eksplosivet følges av de nødvendige dokumentene
+3. eksplosivet følges av anvisninger og sikkerhetsinformasjon på norsk. Dersom eksplosivene skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten
+4. produsenten har oppfylt kravene i [§ 105 sjuende](forskrift/2017-06-15-844/§105/ledd/7) og [åttende ledd](forskrift/2017-06-15-844/§105/ledd/8)
+5. importøren har oppfylt kravene i [§ 107 fjerde ledd](forskrift/2017-06-15-844/§107/ledd/4).
 
 (3) En distributør som har grunn til å tro at et eksplosiv ikke er i samsvar med kravene i [vedlegg II](forskrift/2017-06-15-844/vedleggII), skal ikke gjøre eksplosivet tilgjengelig på markedet før det er i samsvar med kravene. Dersom eksplosivet utgjør en risiko, skal distributøren varsle produsenten eller importøren og markedstilsynsmyndighetene om dette.
 
@@ -996,7 +1157,11 @@ Eksplosiver skal antas å oppfylle de grunnleggende sikkerhetskravene i [vedlegg
 
 (1) Samsvarserklæringen skal fastslå at kravene i [vedlegg II](forskrift/2017-06-15-844/vedleggII) er oppfylt.
 
-(2) Samsvarserklæringen skalutformes etter malen i [vedlegg IV](forskrift/2017-06-15-844/vedleggIV)inneholde elementene angitt i de relevante fremgangsmåtene for samsvarsvurdering i [vedlegg III](forskrift/2017-06-15-844/vedleggIII)ajourføres fortløpende.
+(2) Samsvarserklæringen skal
+
+1. utformes etter malen i [vedlegg IV](forskrift/2017-06-15-844/vedleggIV)
+2. inneholde elementene angitt i de relevante fremgangsmåtene for samsvarsvurdering i [vedlegg III](forskrift/2017-06-15-844/vedleggIII)
+3. ajourføres fortløpende.
 
 (3) Samsvarserklæringen skal være på norsk, svensk, dansk, eller engelsk. Dersom eksplosivet skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.
 
@@ -1030,7 +1195,15 @@ Eksplosiver skal antas å oppfylle de grunnleggende sikkerhetskravene i [vedlegg
 
 ### § 114. Fremgangsmåter for samsvarsvurdering
 
-Ved samsvarsvurdering av eksplosiver, skal produsenten følge en av følgende fremgangsmåter nevnt i [vedlegg III](forskrift/2017-06-15-844/vedleggIII):EU-typeprøving (modul B) og etter produsentens eget valg, en av følgende:typesamsvar basert på intern produksjonskontroll og overvåket [produktkontroll](lov/1976-06-11-79) med tilfeldige intervaller (modul C2)typesamsvar basert på kvalitetssikring av produksjonsprosessen (modul D)typesamsvar basert på av kvalitetssikring av produktene (modul E)typesamsvar basert på [produktkontroll](lov/1976-06-11-79) (modul F)samsvar basert på verifisering av enkelteksemplarer (modul G).
+Ved samsvarsvurdering av eksplosiver, skal produsenten følge en av følgende fremgangsmåter nevnt i [vedlegg III](forskrift/2017-06-15-844/vedleggIII):
+
+1. EU-typeprøving (modul B) og etter produsentens eget valg, en av følgende:
+
+   1. typesamsvar basert på intern produksjonskontroll og overvåket [produktkontroll](lov/1976-06-11-79) med tilfeldige intervaller (modul C2)
+   2. typesamsvar basert på kvalitetssikring av produksjonsprosessen (modul D)
+   3. typesamsvar basert på av kvalitetssikring av produktene (modul E)
+   4. typesamsvar basert på [produktkontroll](lov/1976-06-11-79) (modul F)
+2. samsvar basert på verifisering av enkelteksemplarer (modul G).
 
 ## Kapittel. 14 Tekniske kontrollorgan
 
@@ -1050,11 +1223,21 @@ Ved samsvarsvurdering av eksplosiver, skal produsenten følge en av følgende fr
 
 (7) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter [vedlegg III](forskrift/2017-06-15-844/vedleggIII) og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.
 
-(8) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av eksplosiver som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhetframgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks eksplosivets teknologi er, og produksjonsprosessens masse- eller seriepreg.
+(8) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av eksplosiver som det er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhet
+4. framgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks eksplosivets teknologi er, og produksjonsprosessens masse- eller seriepreg.
 
 (9) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
 
-(10) Personale med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i [vedlegg II](forskrift/2017-06-15-844/vedleggII), de relevante harmoniserte standardene, relevante bestemmelser i EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(10) Personale med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+2. tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av kravene i [vedlegg II](forskrift/2017-06-15-844/vedleggII), de relevante harmoniserte standardene, relevante bestemmelser i EØS-regelverk og relevant nasjonal lovgivning
+4. nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (11) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonalet er upartiske.
 
@@ -1108,7 +1291,12 @@ Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktora
 
 ### § 121. Opplysningsplikt
 
-(1) Tekniske kontrollorganer skal varsle Direktoratet for samfunnssikkerhet og beredskap omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhetsamsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene, dersom direktoratet ber om dette.
+(1) Tekniske kontrollorganer skal varsle Direktoratet for samfunnssikkerhet og beredskap om
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake
+2. alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhet
+4. samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene, dersom direktoratet ber om dette.
 
 (2) Et teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet for eksplosiver, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og i tillegg positive resultater dersom de ber om det.
 
@@ -1116,7 +1304,14 @@ Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktora
 
 ### § 122. Virkeområdet for dette kapittelet
 
-Bestemmelsene i dette kapittelet gjelder for eksplosiver, med unntak aveksplosiver som transporteres og leveres uemballert eller i pumpevogn i den hensikt å skulle losses direkte i borehulleteksplosiver som produseres på sprengningsstedet, og som lades umiddelbart etter at det er produsertammunisjonikke-detonerende lunte, i løpemetersikkerhetslunte av svartkrutt (svartkruttlunte), som brenner med forutsigbar hastighet og som ikke gir noen utvendig eksplosiv effekttennhette for håndvåpenammunisjon og små drivladninger.
+Bestemmelsene i dette kapittelet gjelder for eksplosiver, med unntak av
+
+1. eksplosiver som transporteres og leveres uemballert eller i pumpevogn i den hensikt å skulle losses direkte i borehullet
+2. eksplosiver som produseres på sprengningsstedet, og som lades umiddelbart etter at det er produsert
+3. ammunisjon
+4. ikke-detonerende lunte, i løpemeter
+5. sikkerhetslunte av svartkrutt (svartkruttlunte), som brenner med forutsigbar hastighet og som ikke gir noen utvendig eksplosiv effekt
+6. tennhette for håndvåpenammunisjon og små drivladninger.
 
 ### § 123. Unik id-merking
 
@@ -1134,7 +1329,10 @@ Bestemmelsene i dette kapittelet gjelder for eksplosiver, med unntak aveksplosiv
 
 (1) Eksplosivet skal påføres et permanent, fullt leselig og unikt id-merke, enten ved direkte trykk eller ved en selvklebende etikett.
 
-(2) Id-merket skal inneholde en lesbar del som inneholdernavn på produsenten alfanummerisk kode bestående av to bokstaver som identifiserer EØS-staten hvor eksplosivet er produsert eller importert til, en tresifret kode utstedt av myndigheten i EØS-staten som identifiserer produksjonssted, og en unik produktkode og logistikkinformasjon utviklet av produsenten.
+(2) Id-merket skal inneholde en lesbar del som inneholder
+
+1. navn på produsent
+2. en alfanummerisk kode bestående av to bokstaver som identifiserer EØS-staten hvor eksplosivet er produsert eller importert til, en tresifret kode utstedt av myndigheten i EØS-staten som identifiserer produksjonssted, og en unik produktkode og logistikkinformasjon utviklet av produsenten.
 
 (3) Id-merket skal i tillegg inneholde en elektronisk lesbar strekkode eller matrisekode motsvarende den alfanumeriske koden, for eksempel slik som figuren under viser.
 
@@ -1226,7 +1424,24 @@ Virksomheten kan feste avtakbare selvklebende kopier av originaletiketter på ek
 
 ### § 136. Dispensasjon
 
-(1) I særlige tilfeller kan Direktoratet for samfunnssikkerhet og beredskap dispensere fra forskriften[§ 8 fjerde ledd](forskrift/2017-06-15-844/§8/ledd/4)[§ 12 andre ledd](forskrift/2017-06-15-844/§12/ledd/2)[§ 21 første ledd andre punktum](forskrift/2017-06-15-844/§21/ledd/1/setning/2)[§ 28 første ledd](forskrift/2017-06-15-844/§28/ledd/1)[§ 36 første ledd](forskrift/2017-06-15-844/§36/ledd/1)[§ 38](forskrift/2017-06-15-844/§38)[§ 50](forskrift/2017-06-15-844/§50)[§ 51](forskrift/2017-06-15-844/§51)[§ 52](forskrift/2017-06-15-844/§52)[§ 55 fjerde ledd](forskrift/2017-06-15-844/§55/ledd/4)[§ 65](forskrift/2017-06-15-844/§65)[§ 79a](forskrift/2017-06-15-844/§79a)[§ 80](forskrift/2017-06-15-844/§80)[§ 81](forskrift/2017-06-15-844/§81)[§ 82 første ledd](forskrift/2017-06-15-844/§82/ledd/1)[§ 96](forskrift/2017-06-15-844/§96).
+(1) I særlige tilfeller kan Direktoratet for samfunnssikkerhet og beredskap dispensere fra forskriften
+
+1. [§ 8 fjerde ledd](forskrift/2017-06-15-844/§8/ledd/4)
+2. [§ 12 andre ledd](forskrift/2017-06-15-844/§12/ledd/2)
+3. [§ 21 første ledd andre punktum](forskrift/2017-06-15-844/§21/ledd/1/setning/2)
+4. [§ 28 første ledd](forskrift/2017-06-15-844/§28/ledd/1)
+5. [§ 36 første ledd](forskrift/2017-06-15-844/§36/ledd/1)
+6. [§ 38](forskrift/2017-06-15-844/§38)
+7. [§ 50](forskrift/2017-06-15-844/§50)
+8. [§ 51](forskrift/2017-06-15-844/§51)
+9. [§ 52](forskrift/2017-06-15-844/§52)
+10. [§ 55 fjerde ledd](forskrift/2017-06-15-844/§55/ledd/4)
+11. [§ 65](forskrift/2017-06-15-844/§65)
+12. [§ 79a](forskrift/2017-06-15-844/§79a)
+13. [§ 80](forskrift/2017-06-15-844/§80)
+14. [§ 81](forskrift/2017-06-15-844/§81)
+15. [§ 82 første ledd](forskrift/2017-06-15-844/§82/ledd/1)
+16. [§ 96](forskrift/2017-06-15-844/§96).
 
 (2) Ved utplassering av eksplosiver eller innretninger med eksplosiver til snøsikring, kan det dispenseres fra forskriftens bestemmelser i [kapittel 5](forskrift/2017-06-15-844/kap5), [kapittel 6](forskrift/2017-06-15-844/kap6) og [kapittel 11](forskrift/2017-06-15-844/kap11).
 
@@ -1248,11 +1463,28 @@ Ved overtredelse av forskriften, eller vedtak truffet i medhold av denne, kommer
 
 ### § 139. Markedstilsyn, kontroll og beskyttelsestiltak
 
-Dersom en markedsdeltaker ikke har oppfylt sine forpliktelser etter [kapittel 12](forskrift/2017-06-15-844/kap12), eksplosivet utgjør en risiko eller ikke er i samsvar med forskriften, kan Direktoratet for samfunnssikkerhet og beredskapnedlegge forbud mot å importere, bringe i omsetning eller gjøre tilgjengelig på markedetkreve at eksplosivet tilbaketrekkeskreve at eksplosivet tilbakekalleskreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av eksplosivetkreve retting av avvikkreve at eksplosivet tilintetgjøresnedlegge forbud mot bruk av eksplosivetkreve merking av eksplosivet.
+Dersom en markedsdeltaker ikke har oppfylt sine forpliktelser etter [kapittel 12](forskrift/2017-06-15-844/kap12), eksplosivet utgjør en risiko eller ikke er i samsvar med forskriften, kan Direktoratet for samfunnssikkerhet og beredskap
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre tilgjengelig på markedet
+2. kreve at eksplosivet tilbaketrekkes
+3. kreve at eksplosivet tilbakekalles
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av eksplosivet
+5. kreve retting av avvik
+6. kreve at eksplosivet tilintetgjøres
+7. nedlegge forbud mot bruk av eksplosivet
+8. kreve merking av eksplosivet.
 
 ### § 140. Tilbakekall av tillatelse, særskilt godkjenning, eller sertifikat
 
-(1) En tillatelse eller godkjenning kan tilbakekalles nårdet er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for utstedelsen av tillatelsen eller godkjenningenhensynet til sikkerhet eller sikring er satt i fare ved alvorlige eller gjentatte brudd på forskriften, eller virksomheten på annen måte ikke er skikket til å håndtere eksplosjonsfarlige stoffervilkårene som gjelder ikke blir overholdtden blir brukt på en måte som er i strid med lov, forskrift eller vedtakdet er grunn til å frykte at eksplosjonsfarlige stoffer kan bli misbrukt av innehaverenforhold av sikkerhetsmessig betydning på stedet har endret seg vesentlig etter at tillatelsen ble gittkravene som ble stilt da tillatelsen eller godkjenningen ble gitt ikke lenger anses for å tilfredsstille til de kravene til sikkerhet og sikring som bør stilles.
+(1) En tillatelse eller godkjenning kan tilbakekalles når
+
+1. det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for utstedelsen av tillatelsen eller godkjenningen
+2. hensynet til sikkerhet eller sikring er satt i fare ved alvorlige eller gjentatte brudd på forskriften, eller virksomheten på annen måte ikke er skikket til å håndtere eksplosjonsfarlige stoffer
+3. vilkårene som gjelder ikke blir overholdt
+4. den blir brukt på en måte som er i strid med lov, forskrift eller vedtak
+5. det er grunn til å frykte at eksplosjonsfarlige stoffer kan bli misbrukt av innehaveren
+6. forhold av sikkerhetsmessig betydning på stedet har endret seg vesentlig etter at tillatelsen ble gitt
+7. kravene som ble stilt da tillatelsen eller godkjenningen ble gitt ikke lenger anses for å tilfredsstille til de kravene til sikkerhet og sikring som bør stilles.
 
 (2) Direktoratet for samfunnssikkerhet og beredskap kan trekke tilbake sertifikat, kompetansebevis og særskilt godkjenning dersom innehaver ikke er skikket til å håndtere eksplosjonsfarlige stoffer, eller ikke er skikket til å være bergsprengningsleder. Ved vurderingen kan det blant annet legges vekt på forholdene som er listet opp i første ledd. Direktoratet kan avgjøre når og på hvilke vilkår et eventuelt nytt sertifikat, kompetansebevis eller særskilt godkjenning kan utstedes etter en slik tilbaketrekking, for eksempel pålegge vedkommende å gjennomføre nytt kurs og avlegge ny prøve.
 
@@ -1262,7 +1494,25 @@ Dersom en markedsdeltaker ikke har oppfylt sine forpliktelser etter [kapittel 12
 
 ### § 141. Straff
 
-Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften[kapittel 2](forskrift/2017-06-15-844/kap2) med unntak av [§ 19](forskrift/2017-06-15-844/§19)[§ 29 første ledd](forskrift/2017-06-15-844/§29/ledd/1)[§ 30](forskrift/2017-06-15-844/§30)[§ 31. første ledd](forskrift/2017-06-15-844/§31/ledd/1)[§ 32](forskrift/2017-06-15-844/§32)[kapittel 5](forskrift/2017-06-15-844/kap5) med unntak av [§ 34](forskrift/2017-06-15-844/§34) og [§ 36](forskrift/2017-06-15-844/§36)[kapittel 6](forskrift/2017-06-15-844/kap6) med unntak av [§ 46](forskrift/2017-06-15-844/§46)[kapittel 7](forskrift/2017-06-15-844/kap7) med unntak av [§ 57](forskrift/2017-06-15-844/§57) og [§ 59](forskrift/2017-06-15-844/§59)[kapittel 8](forskrift/2017-06-15-844/kap8) med unntak av [§ 71](forskrift/2017-06-15-844/§71) og [§ 72](forskrift/2017-06-15-844/§72)[kapittel 9](forskrift/2017-06-15-844/kap9) med unntak av [§ 77](forskrift/2017-06-15-844/§77)[kapittel 10](forskrift/2017-06-15-844/kap10) med unntak av [§ 79a andre ledd tredje punktum](forskrift/2017-06-15-844/§79/ledd/2/setning/3), [§ 80](forskrift/2017-06-15-844/§80) og [§ 81](forskrift/2017-06-15-844/§81)[kapittel 11](forskrift/2017-06-15-844/kap11) med unntak av [§ 98](forskrift/2017-06-15-844/§98)[kapittel 12](forskrift/2017-06-15-844/kap12)[kapittel 13](forskrift/2017-06-15-844/kap13) med unntak av [§ 111](forskrift/2017-06-15-844/§111)[kapittel 14](forskrift/2017-06-15-844/kap14) med unntak av [§ 116](forskrift/2017-06-15-844/§116), [§ 118](forskrift/2017-06-15-844/§118) og [§ 119](forskrift/2017-06-15-844/§119)eller vedtak gitt i medhold av disse bestemmelsene, kan straffes med bøter eller fengsel etter [brann- og eksplosjonsvernloven § 42](lov/2002-06-14-20/§42).
+Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften
+
+1. [kapittel 2](forskrift/2017-06-15-844/kap2) med unntak av [§ 19](forskrift/2017-06-15-844/§19)
+2. [§ 29 første ledd](forskrift/2017-06-15-844/§29/ledd/1)
+3. [§ 30](forskrift/2017-06-15-844/§30)
+4. [§ 31. første ledd](forskrift/2017-06-15-844/§31/ledd/1)
+5. [§ 32](forskrift/2017-06-15-844/§32)
+6. [kapittel 5](forskrift/2017-06-15-844/kap5) med unntak av [§ 34](forskrift/2017-06-15-844/§34) og [§ 36](forskrift/2017-06-15-844/§36)
+7. [kapittel 6](forskrift/2017-06-15-844/kap6) med unntak av [§ 46](forskrift/2017-06-15-844/§46)
+8. [kapittel 7](forskrift/2017-06-15-844/kap7) med unntak av [§ 57](forskrift/2017-06-15-844/§57) og [§ 59](forskrift/2017-06-15-844/§59)
+9. [kapittel 8](forskrift/2017-06-15-844/kap8) med unntak av [§ 71](forskrift/2017-06-15-844/§71) og [§ 72](forskrift/2017-06-15-844/§72)
+10. [kapittel 9](forskrift/2017-06-15-844/kap9) med unntak av [§ 77](forskrift/2017-06-15-844/§77)
+11. [kapittel 10](forskrift/2017-06-15-844/kap10) med unntak av [§ 79a andre ledd tredje punktum](forskrift/2017-06-15-844/§79/ledd/2/setning/3), [§ 80](forskrift/2017-06-15-844/§80) og [§ 81](forskrift/2017-06-15-844/§81)
+12. [kapittel 11](forskrift/2017-06-15-844/kap11) med unntak av [§ 98](forskrift/2017-06-15-844/§98)
+13. [kapittel 12](forskrift/2017-06-15-844/kap12)
+14. [kapittel 13](forskrift/2017-06-15-844/kap13) med unntak av [§ 111](forskrift/2017-06-15-844/§111)
+15. [kapittel 14](forskrift/2017-06-15-844/kap14) med unntak av [§ 116](forskrift/2017-06-15-844/§116), [§ 118](forskrift/2017-06-15-844/§118) og [§ 119](forskrift/2017-06-15-844/§119)
+
+eller vedtak gitt i medhold av disse bestemmelsene, kan straffes med bøter eller fengsel etter [brann- og eksplosjonsvernloven § 42](lov/2002-06-14-20/§42).
 
 > Endret ved forskrift [17 feb 2026 nr. 227](forskrift/2026-02-17-227).
 
@@ -1274,7 +1524,10 @@ Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften[kapittel 
 
 ### § 143. Ikrafttredelse og oppheving
 
-(1) Forskriften trer i kraft 1. juli 2017, med de unntak som følger av andre til syvende ledd. Fra samme tidspunkt oppheves [forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff](forskrift/2002-06-26-922), med unntak av:bestemmelsene som gjelder håndtering av pyrotekniske artiklerkapittel 14 felles bestemmelser om godkjenning av yrkeskvalifikasjoner fra andre EØS-stater.
+(1) Forskriften trer i kraft 1. juli 2017, med de unntak som følger av andre til syvende ledd. Fra samme tidspunkt oppheves [forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff](forskrift/2002-06-26-922), med unntak av:
+
+1. bestemmelsene som gjelder håndtering av pyrotekniske artikler
+2. kapittel 14 felles bestemmelser om godkjenning av yrkeskvalifikasjoner fra andre EØS-stater.
 
 (2) [§ 19 annet ledd](forskrift/2017-06-15-844/§19/ledd/2) om kostnader ved tilintetgjøring av eksplosiver, trer i kraft 1. januar 2018.
 
@@ -1403,7 +1656,21 @@ Hvert eksplosiv skal konstrueres og framstilles slik at den ved anvendelse av en
 
 1\.
 
-Som et minstekrav skal følgende opplysninger og egenskaper der det er hensiktsmessig vurderes eller prøves:konstruksjon og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsgrad og eventuelt dimensjoner og kornstørrelsesfordeling,eksplosivets fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for,følsomhet for støt og friksjon,alle bestanddelenes forenlighet med hensyn til fysisk og kjemisk stabilitet,eksplosivets kjemiske renhet,eksplosivets vannbestandighet, når den er beregnet på bruk under fuktige eller våte forhold og vann kan svekke eksplosivets sikkerhet og pålitelighet,bestandighet mot høye og lave temperaturer, når eksplosivet er beregnet på lagring eller bruk ved slike temperaturer og dets sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av eksplosivet som helhet,eksplosivets egnethet for bruk i farlige omgivelser (f.eks. ved forekomst av gruvegass, varme omgivelser osv.), dersom den er beregnet på bruk under slike forhold,sikkerhetsinnretninger som skal forhindre at initiering eller tenning skjer i utide eller ved uaktsomhet,riktig lading av og virkemåte til eksplosivet når den brukes i samsvar med sitt formål,hensiktsmessige anvisninger og om nødvendig merking vedrørende sikker håndtering, lagring, bruk og disponering,den evne eksplosivet, dets innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt,spesifisering av alle innretninger og alt tilbehør som er nødvendig for at eksplosivet skal fungere pålitelig og sikkert.
+Som et minstekrav skal følgende opplysninger og egenskaper der det er hensiktsmessig vurderes eller prøves:
+
+1. konstruksjon og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsgrad og eventuelt dimensjoner og kornstørrelsesfordeling,
+2. eksplosivets fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for,
+3. følsomhet for støt og friksjon,
+4. alle bestanddelenes forenlighet med hensyn til fysisk og kjemisk stabilitet,
+5. eksplosivets kjemiske renhet,
+6. eksplosivets vannbestandighet, når den er beregnet på bruk under fuktige eller våte forhold og vann kan svekke eksplosivets sikkerhet og pålitelighet,
+7. bestandighet mot høye og lave temperaturer, når eksplosivet er beregnet på lagring eller bruk ved slike temperaturer og dets sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av eksplosivet som helhet,
+8. eksplosivets egnethet for bruk i farlige omgivelser (f.eks. ved forekomst av gruvegass, varme omgivelser osv.), dersom den er beregnet på bruk under slike forhold,
+9. sikkerhetsinnretninger som skal forhindre at initiering eller tenning skjer i utide eller ved uaktsomhet,
+10. riktig lading av og virkemåte til eksplosivet når den brukes i samsvar med sitt formål,
+11. hensiktsmessige anvisninger og om nødvendig merking vedrørende sikker håndtering, lagring, bruk og disponering,
+12. den evne eksplosivet, dets innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt,
+13. spesifisering av alle innretninger og alt tilbehør som er nødvendig for at eksplosivet skal fungere pålitelig og sikkert.
 
 2\.
 
@@ -1413,19 +1680,38 @@ Slik kontroll skal foretas under realistiske forhold. Dersom dette ikke er mulig
 
 3.1
 
-Sprengstoffer skal også oppfylle følgende krav:den angitte initieringsmåte skal sikre at sprengstoffet henholdsvis deflagrerer, detonerer eller eksploderer sikkert, pålitelig og fullstendig. For svartkrutt skal deflagrasjonsegenskapene undersøkes,sprengstoffer i form av patroner skal overføre detonasjonen sikkert og pålitelig gjennom hele rekken av patroner,gassene som utvikles ved detonasjon av sprengstoffer under jord, skal ikke inneholde karbonmonoksid, nitrøse gasser, andre gasser, damper eller luftbårne restpartikler i mengder som under vanlige driftsvilkår er helseskadelige.
+Sprengstoffer skal også oppfylle følgende krav:
+
+1. den angitte initieringsmåte skal sikre at sprengstoffet henholdsvis deflagrerer, detonerer eller eksploderer sikkert, pålitelig og fullstendig. For svartkrutt skal deflagrasjonsegenskapene undersøkes,
+2. sprengstoffer i form av patroner skal overføre detonasjonen sikkert og pålitelig gjennom hele rekken av patroner,
+3. gassene som utvikles ved detonasjon av sprengstoffer under jord, skal ikke inneholde karbonmonoksid, nitrøse gasser, andre gasser, damper eller luftbårne restpartikler i mengder som under vanlige driftsvilkår er helseskadelige.
 
 3.2
 
-Detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal også oppfylle følgende krav:innkapslingen til detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad beskytte den eksplosive kjernen når den utsettes for vanlig mekanisk påkjenning,parametrene for sikkerhetslunters brennetid skal angis og overholdes på en pålitelig måte,detonerende lunter skal kunne initieres på en pålitelig måte, ha tilstrekkelig initieringsevne og oppfylle kravene med hensyn til lagring selv under særlige klimatiske forhold.
+Detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal også oppfylle følgende krav:
+
+1. innkapslingen til detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad beskytte den eksplosive kjernen når den utsettes for vanlig mekanisk påkjenning,
+2. parametrene for sikkerhetslunters brennetid skal angis og overholdes på en pålitelig måte,
+3. detonerende lunter skal kunne initieres på en pålitelig måte, ha tilstrekkelig initieringsevne og oppfylle kravene med hensyn til lagring selv under særlige klimatiske forhold.
 
 3.3
 
-Tennere (herunder intervalltennere) og koplings- og forsinkerelementer skal også oppfylle følgende krav:tennere skal under alle forventede bruksforhold initiere de sprengstoffene de skal brukes sammen med, på en pålitelig måte.forsinkerelementer til detonerende lunter må initieres på en pålitelig måte,initieringsevnen skal ikke kunne svekkes av fuktighet.intervalltennernes forsinkelsestider skal være tilstrekkelig ensartet til å sikre at faren for overlapping med etterfølgende tidstrinnsforsinkelsestid er ubetydelig,de elektriske egenskapene til elektriske tennere skal angis på emballasjen (f.eks. minste tennenergi, resistans),ledningene til elektriske tennere skal ha tilstrekkelig isolasjon og mekanisk styrke, herunder soliditet i forbindelsen til tenneren, for deres tiltenkte bruksområde.
+Tennere (herunder intervalltennere) og koplings- og forsinkerelementer skal også oppfylle følgende krav:
+
+1. tennere skal under alle forventede bruksforhold initiere de sprengstoffene de skal brukes sammen med, på en pålitelig måte.
+2. forsinkerelementer til detonerende lunter må initieres på en pålitelig måte,
+3. initieringsevnen skal ikke kunne svekkes av fuktighet.
+4. intervalltennernes forsinkelsestider skal være tilstrekkelig ensartet til å sikre at faren for overlapping med etterfølgende tidstrinnsforsinkelsestid er ubetydelig,
+5. de elektriske egenskapene til elektriske tennere skal angis på emballasjen (f.eks. minste tennenergi, resistans),
+6. ledningene til elektriske tennere skal ha tilstrekkelig isolasjon og mekanisk styrke, herunder soliditet i forbindelsen til tenneren, for deres tiltenkte bruksområde.
 
 3.4
 
-Drivladningskrutt og rakettkrutt skal også oppfylle følgende krav:disse materialene skal ikke detonere når de brukes i samsvar med sitt formål,drivladningskrutt skal om nødvendig (f.eks. dersom de er basert på nitrocellulose) stabiliseres for å unngå nedbryting,rakettkrutt skal ikke inneholde utilsiktede sprekker eller gassbobler som kan utgjøre en fare for rakettkruttets virkemåte, når det foreligger i komprimert eller støpt form.
+Drivladningskrutt og rakettkrutt skal også oppfylle følgende krav:
+
+1. disse materialene skal ikke detonere når de brukes i samsvar med sitt formål,
+2. drivladningskrutt skal om nødvendig (f.eks. dersom de er basert på nitrocellulose) stabiliseres for å unngå nedbryting,
+3. rakettkrutt skal ikke inneholde utilsiktede sprekker eller gassbobler som kan utgjøre en fare for rakettkruttets virkemåte, når det foreligger i komprimert eller støpt form.
 
 ## Vedlegg III: Fremgangsmåter for samsvarsvurdering
 
@@ -1444,15 +1730,32 @@ EU-typeprøving skal gjennomføres som en vurdering av egnetheten til eksplosive
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt meldt organ etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med gjeldende krav i dette direktiv, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av eksplosivet,konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig i tilfeller der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+3. den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med gjeldende krav i dette direktiv, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+   1. en generell beskrivelse av eksplosivet,
+   2. konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,
+   3. nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivets virkemåte,
+   4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+   5. resultater av konstruksjonsberegninger, undersøkelser osv.,
+   6. prøvingsrapporter,
+4. eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,
+5. underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig i tilfeller der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
 
 4\.
 
-Det meldte organ skalnår det gjelder eksplosivet,
+Det meldte organ skal
+
+når det gjelder eksplosivet,
 
 4.1
 
-undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om eksplosivets tekniske konstruksjon er tilfredsstillende,når det gjelder eksemplaret eller eksemplarene,
+undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om eksplosivets tekniske konstruksjon er tilfredsstillende,
+
+når det gjelder eksemplaret eller eksemplarene,
 
 4.2
 
@@ -1556,7 +1859,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for de berørte eksplosivene til et meldt organ etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle relevante opplysninger om den planlagte kategori eksplosiver,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+3. alle relevante opplysninger om den planlagte kategori eksplosiver,
+4. dokumentasjon for kvalitetssystemet,
+5. den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
 
 3.2
 
@@ -1564,7 +1873,13 @@ Kvalitetssystemet skal sikre at eksplosivene er i samsvar med typen beskrevet i 
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og anvisninger. Denne dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+2. de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,
+3. undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+4. kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,
+5. metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1596,7 +1911,10 @@ Formålet med tilsynet er å sikre at produsenten korrekt oppfyller de forplikte
 
 4.2
 
-Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjonen for kvalitetssystemet,
+2. kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 4.3
 
@@ -1620,7 +1938,11 @@ En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for v
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1,
+2. opplysningene om godkjente endringer nevnt i nr. 3.5,
+3. vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1649,7 +1971,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for de berørte eksplosivene til et meldt organ etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle relevante opplysninger om den planlagte kategorien eksplosiver,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+3. alle relevante opplysninger om den planlagte kategorien eksplosiver,
+4. dokumentasjon for kvalitetssystemet,
+5. den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
 
 3.2
 
@@ -1657,7 +1985,12 @@ Kvalitetssystemet skal sikre at eksplosivene er i samsvar med typen beskrevet i 
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og anvisninger. Denne dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+2. undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,
+3. kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,
+4. tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1689,7 +2022,10 @@ Formålet med tilsynet er å sikre at produsenten korrekt oppfyller de forplikte
 
 4.2
 
-Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjonen for kvalitetssystemet,
+2. kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 4.3
 
@@ -1713,7 +2049,11 @@ En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for v
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1,
+2. opplysningene om godkjente endringer nevnt i nr. 3.5,
+3. vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1807,7 +2147,14 @@ Samsvar basert på kontroll av enkelteksemplarer er den framgangsmåten for sams
 
 2.1
 
-Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av eksplosivet,konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivetsvirkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Når det gjelder harmoniserte standarder som er delvis anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv., ogprøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+1. en generell beskrivelse av eksplosivet,
+2. konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,
+3. nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivetsvirkemåte,
+4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Når det gjelder harmoniserte standarder som er delvis anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+5. resultater av konstruksjonsberegninger, undersøkelser osv., og
+6. prøvingsrapporter.
 
 2.2
 
@@ -1853,9 +2200,9 @@ EU-SAMSVARSERKLÆRING (NR. XXXX)1
 6. Henvisninger til de relevante harmoniserte standarder som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med:
 7. Det meldte organ ... (navn, nummer) har utført ... (beskrivelse av inngrepet) og utstedt sertifikatet:
 8. Tilleggsopplysninger:
-Undertegnet for og på vegne av:
-(sted og dato for utstedelse):
-(navn, stilling) (underskrift):
+   Undertegnet for og på vegne av:
+   (sted og dato for utstedelse):
+   (navn, stilling) (underskrift):
 
 1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 

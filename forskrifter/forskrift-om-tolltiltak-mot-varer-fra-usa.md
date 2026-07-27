@@ -15,7 +15,7 @@ xml_hash: "e9d7f2cf8ccc17b8b1039a989d9850d29085861d2ef5ef909c676cd87aa3e6a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Opphevelsen av tollinnrømmelser og øvrige forpliktelser etter første ledd ive
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*Rebalanserende tiltak* – iverksettelse av visse tolløkninger som følge av opphevelse av Norges tollinnrømmelser og øvrige forpliktelser overfor USA, innenfor de rammer som følger av WTO-avtalen om beskyttelsestiltak artikkel 8 § 2.*Tolløkning* – økning av toll utover den sats som følger av Stortingets vedtak om tollavgifter.*Tollnedsettelse* – hel eller delvis nedsettelse av tolløkning nevnt under bokstav b.*Varer med opprinnelse i USA* – varer som enten i sin helhet eller i det vesentlige er fremstilt innenfor USAs territorium.
+I denne forskrift menes med:
+
+1. *Rebalanserende tiltak* – iverksettelse av visse tolløkninger som følge av opphevelse av Norges tollinnrømmelser og øvrige forpliktelser overfor USA, innenfor de rammer som følger av WTO-avtalen om beskyttelsestiltak artikkel 8 § 2.
+2. *Tolløkning* – økning av toll utover den sats som følger av Stortingets vedtak om tollavgifter.
+3. *Tollnedsettelse* – hel eller delvis nedsettelse av tolløkning nevnt under bokstav b.
+4. *Varer med opprinnelse i USA* – varer som enten i sin helhet eller i det vesentlige er fremstilt innenfor USAs territorium.
 
 ## § 3. Rebalanserende tiltak som tolløkning på enkelte vareslag
 

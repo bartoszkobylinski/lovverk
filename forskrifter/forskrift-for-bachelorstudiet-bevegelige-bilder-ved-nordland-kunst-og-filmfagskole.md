@@ -15,7 +15,7 @@ xml_hash: "0f0f848672184d6d173751a3b3c1a80fcfdff991b8f866a1afd0b3a515a82ed9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,7 +65,17 @@ Semestervurdering er en formell intern vurdering av det faglige nivået og fagli
 
 Eksamen, jf. [uhl. § 3-9](lov/2005-04-01-15/§3-9); er den formelle vurderingen av det faglige nivået studenten har oppnådd ved avslutningen av studieprogrammet. I eksamensvurderingen skal ekstern sensor delta.
 
-Eksamen kan gjennomføres som:ForestillingerUtstillingerVisningerOppgaverSkriftlig prøvePraktisk prøveMuntlig prøveFremlegging av arbeid/mappeKombinasjon av ovennevnte eksamensformer.
+Eksamen kan gjennomføres som:
+
+- Forestillinger
+- Utstillinger
+- Visninger
+- Oppgaver
+- Skriftlig prøve
+- Praktisk prøve
+- Muntlig prøve
+- Fremlegging av arbeid/mappe
+- Kombinasjon av ovennevnte eksamensformer.
 
 Det vises her til eksamensreglementet punkt 3.
 
@@ -85,7 +95,13 @@ I bachelorgraden skal det inngå et selvstendig kunstnerisk arbeid som skal utgj
 
 ### § 1-4. Studieplan
 
-Studieplanen, jf. [uhl. § 3-3](lov/2005-04-01-15/§3-3) (3) skal inneholde:Målsetting og læringsutbytte for studiet,Studiestruktur og innhold med eventuelle obligatoriske deler,Arbeids- og undervisningsformer,Vurderingskriterier og prosedyre for vurderingOpptakskrav.
+Studieplanen, jf. [uhl. § 3-3](lov/2005-04-01-15/§3-3) (3) skal inneholde:
+
+- Målsetting og læringsutbytte for studiet,
+- Studiestruktur og innhold med eventuelle obligatoriske deler,
+- Arbeids- og undervisningsformer,
+- Vurderingskriterier og prosedyre for vurdering
+- Opptakskrav.
 
 Studieplanen vedtas av styret.
 
@@ -121,7 +137,12 @@ Nærmere bestemmelser om vurderingsprosedyrene kan fastsettes i studieplanen.
 
 ### § 1-7. Vilkår for vurdering
 
-Obligatoriske arbeidskrav som må være oppfylt før studenten kan framstå for semestervurdering:Minimum 80 % deltakelse på obligatorisk undervisningMinst to fremlegg av eget kunstnerisk arbeid i løpet av semesteretFremlegg av refleksjonsnotat der studenten redegjør for egen praksis og progresjonMinst et framlegg under gruppekritikk.
+Obligatoriske arbeidskrav som må være oppfylt før studenten kan framstå for semestervurdering:
+
+- Minimum 80 % deltakelse på obligatorisk undervisning
+- Minst to fremlegg av eget kunstnerisk arbeid i løpet av semesteret
+- Fremlegg av refleksjonsnotat der studenten redegjør for egen praksis og progresjon
+- Minst et framlegg under gruppekritikk.
 
 Dersom slike obligatoriske deler ikke er gjennomført, kan rektor etter tilrådning fra hovedveileder likevel beslutte at studenten skal vurderes. Hvis den faglige framgangen i slike tilfeller, ut fra en samlet vurdering, vurderes som tilstrekkelig, er det en forutsetning for å ha bestått vurderingen at de obligatoriske deler kan gjennomføres i løpet av de neste 12 måneder.
 
@@ -135,7 +156,10 @@ Vurderingsuttrykk: Bestått/Ikke bestått.
 
 Skolens semesterplaner (plan for undervisningsterminene), jf. [uhl. § 3-8](lov/2005-04-01-15/§3-8) (1), utarbeides foran hvert studieår for å gjennomføre intensjonene i studieplanen. Den skal inneholde konkret oversikt over studieårets tilbud av undervisning og andre faglige aktiviteter, i form av kurs, prosjekter, seminarer, arbeidskrav etc.
 
-Semesterplanen inneholder elementer så som:FelleselementerFagspesifikke deler.
+Semesterplanen inneholder elementer så som:
+
+- Felleselementer
+- Fagspesifikke deler.
 
 Fastsettelse av skolens semesterplaner har styret delegert til rektor.
 
@@ -143,7 +167,11 @@ Fastsettelse av skolens semesterplaner har styret delegert til rektor.
 
 Studieprogrammet avsluttes med en eksamen. Vilkåret for å bli oppmeldt til eksamen, er at studenten har bestått de forutgående vurderinger som kreves etter forskriften her og studieplanen.
 
-Studenter til studieprogrammet bachelor i bevegelige bilder blir automatisk oppmeldt til eksamen når forutsetning for oppmelding foreligger.Bare studenter som har fått godkjent de fem første semestrene i bachelorgraden, kan begynne på eksamensarbeidet.Kandidater som er godkjent for eksaminering skal levere en skriftlig redegjørelse om eksamensoppgavens omfang, innhold og presentasjonsform. Dette gjøres senest 3 uker etter semesterstart i 6. semester.Det gis bare anledning til å påbegynne samme eksamen ved skolen tre ganger.
+Studenter til studieprogrammet bachelor i bevegelige bilder blir automatisk oppmeldt til eksamen når forutsetning for oppmelding foreligger.
+
+- Bare studenter som har fått godkjent de fem første semestrene i bachelorgraden, kan begynne på eksamensarbeidet.
+- Kandidater som er godkjent for eksaminering skal levere en skriftlig redegjørelse om eksamensoppgavens omfang, innhold og presentasjonsform. Dette gjøres senest 3 uker etter semesterstart i 6. semester.
+- Det gis bare anledning til å påbegynne samme eksamen ved skolen tre ganger.
 
 Studenten skal vurderes i forhold til studieplanen og eller den individuelle utdanningsplanens målsettinger og de vurderingskriterier som er fastsatt i studieplanen.
 
@@ -165,7 +193,12 @@ Hvis studenten ikke får godkjent resultat etter tredje gangs vurdering iht. [§
 
 ### § 1-11. Klage
 
-En student kan klage, jf. [uhl. § 5-2](lov/2005-04-01-15/§5-2) og [§ 5-3](lov/2005-04-01-15/§5-3) dersom:Studenten ikke får godkjent den individuelle utdanningsplanen, jf. [§ 1-5](forskrift/2017-02-15-2466/§1-5).Studenten ikke blir tatt opp til vurdering av gjennomført semester på grunn av manglende gjennomføring av deler av studiet, jf. [§ 1-6](forskrift/2017-02-15-2466/§1-6).Vurderingen ved slutten av et semester konkluderer med at studenten ikke har vist tilstrekkelig faglig framgang til å ha bestått arbeidsperioden, jf. [§ 1-6](forskrift/2017-02-15-2466/§1-6).Studenten ikke består eksamen ved slutten av studieprogrammet, jf. [§ 1-9](forskrift/2017-02-15-2466/§1-9).
+En student kan klage, jf. [uhl. § 5-2](lov/2005-04-01-15/§5-2) og [§ 5-3](lov/2005-04-01-15/§5-3) dersom:
+
+- Studenten ikke får godkjent den individuelle utdanningsplanen, jf. [§ 1-5](forskrift/2017-02-15-2466/§1-5).
+- Studenten ikke blir tatt opp til vurdering av gjennomført semester på grunn av manglende gjennomføring av deler av studiet, jf. [§ 1-6](forskrift/2017-02-15-2466/§1-6).
+- Vurderingen ved slutten av et semester konkluderer med at studenten ikke har vist tilstrekkelig faglig framgang til å ha bestått arbeidsperioden, jf. [§ 1-6](forskrift/2017-02-15-2466/§1-6).
+- Studenten ikke består eksamen ved slutten av studieprogrammet, jf. [§ 1-9](forskrift/2017-02-15-2466/§1-9).
 
 Ved klage etter første, andre og tredje kulepunkt, vurderes klagen av klagenemnda.
 

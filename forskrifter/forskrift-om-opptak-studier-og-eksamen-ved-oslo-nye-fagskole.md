@@ -121,7 +121,10 @@ eu_basis: []
 
 ### § 3-2. Studieplaner
 
-(1) For alle studieprogrammer som tilbys ved fagskolen skal det fastsettes en studieplan. Studieplanen skal inneholde:Programbeskrivelse for utdanningen.Emnebeskrivelser for hvert emne som inngår i utdanningen.
+(1) For alle studieprogrammer som tilbys ved fagskolen skal det fastsettes en studieplan. Studieplanen skal inneholde:
+
+1. Programbeskrivelse for utdanningen.
+2. Emnebeskrivelser for hvert emne som inngår i utdanningen.
 
 (2) Studieplanen fastsettes endelig av fagskolestyret ved Oslo Nye fagskole.
 
@@ -197,7 +200,12 @@ eu_basis: []
 
 (1) Skikkethetsvurdering er en løpende vurdering gjennom hele utdanningen av om studenten har de nødvendige forutsetningene for å kunne utøve det yrket utdanningen kvalifiserer for.
 
-(2) Følgende utdanninger ved fagskolen er underlagt skikkethetsvurdering:Miljøarbeid i barnehagenMiljøarbeid i barneskole og SFOMiljøarbeid i ungdomsskole og videregående skoleUfrivillig skolefravær.
+(2) Følgende utdanninger ved fagskolen er underlagt skikkethetsvurdering:
+
+1. Miljøarbeid i barnehagen
+2. Miljøarbeid i barneskole og SFO
+3. Miljøarbeid i ungdomsskole og videregående skole
+4. Ufrivillig skolefravær.
 
 (3) Med hjemmel i [forskrift om høyere yrkesfaglig utdanning § 35 (3)](forskrift/2019-07-11-1005/§35/ledd/3) og [§ 36](forskrift/2019-07-11-1005/§36) kan fagskolens klagenemnd fatte vedtak om at en student ikke er skikket.
 
@@ -243,7 +251,12 @@ Eksamen og arbeidskrav skal gi grunnlag for å sikre at studentene holder et til
 
 (1) Med hjemmel i [fagskoleloven](lov/2018-06-08-28) kan fagskolens klagenemnd annullere eksamen eller arbeidskrav ved fusk, forsøk på fusk, eller annen uredelig opptreden. På samme grunnlag kan klagenemnda fatte vedtak om utestenging fra institusjonen, samt frata retten til å gå opp til eksamen ved institusjoner under [fagskoleloven](lov/2018-06-08-28) i inntil ett år.
 
-(2) Ved mistanke om fusk skal dette meldes til eksamenskontoret. Med fusk menes blant annet:Bruk av hjelpemidler som ikke er tillatt.Plagiat, inkludert selvplagiat.Brudd på avtale om eksamen.Innlevering av andres arbeid som sitt eget.
+(2) Ved mistanke om fusk skal dette meldes til eksamenskontoret. Med fusk menes blant annet:
+
+1. Bruk av hjelpemidler som ikke er tillatt.
+2. Plagiat, inkludert selvplagiat.
+3. Brudd på avtale om eksamen.
+4. Innlevering av andres arbeid som sitt eget.
 
 (3) Oppdages fusk, forsøk på fusk, eller det foreligger mistanke om fusk i forbindelse med eksamen skal Fagskolens eksamenskontor informeres straks.
 

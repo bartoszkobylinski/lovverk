@@ -30,7 +30,13 @@ Forskriften skal sikre ensartet og effektiv kommunal håndheving av vedtekter et
 
 Forskriften får anvendelse for kommuner som vedtar håndheving etter [politiloven § 14](lov/1995-08-04-53/§14) tredje ledd.
 
-Vedtak om kommunal håndheving kan omfatte overtredelser av bestemmelser i vedtektene omå hindre tilgrising på steder som er alminnelig beferdet eller bestemt for alminnelig ferdsel,hus- eller grunneiers plikt til å holde det rent og ryddig på fortau eller tilsvarende område i umiddelbar tilknytning til eiendommen,hus- eller grunneiers plikt til å rydde for snø og strø når det er glatt,hus- eller grunneiers plikt til å sikre ferdsel uten hinder av gjenstander eller lignende på eller ut over fortau,hus- eller grunneiers plikt til å sikre ferdsel uten hinder av snø- og takras.
+Vedtak om kommunal håndheving kan omfatte overtredelser av bestemmelser i vedtektene om
+
+1. å hindre tilgrising på steder som er alminnelig beferdet eller bestemt for alminnelig ferdsel,
+2. hus- eller grunneiers plikt til å holde det rent og ryddig på fortau eller tilsvarende område i umiddelbar tilknytning til eiendommen,
+3. hus- eller grunneiers plikt til å rydde for snø og strø når det er glatt,
+4. hus- eller grunneiers plikt til å sikre ferdsel uten hinder av gjenstander eller lignende på eller ut over fortau,
+5. hus- eller grunneiers plikt til å sikre ferdsel uten hinder av snø- og takras.
 
 ## § 3. Adgang til å ilegge overtredelsesgebyr
 

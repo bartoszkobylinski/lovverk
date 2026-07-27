@@ -15,7 +15,7 @@ xml_hash: "07569bb9132b2408888a9864a440ba0c7b259701045f9a422498698b1beee133"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ eu_basis: []
 
 Vilt og ferskvannsfisk er en viktig del av naturmiljøet på Svalbard og Jan Mayen. Gjennom en forvaltning basert på økologiske prinsipper skal disse naturressursene bevares for fremtiden.
 
-Formålet med disse forskrifter er å:Opprettholde områdenes naturlige artsrikdom.Bevare balansen mellom artene og deres naturgrunnlag og mellom artene innbyrdes.Regulere en økologisk forsvarlig høsting av vilt og ferskvannsfisk.
+Formålet med disse forskrifter er å:
+
+1. Opprettholde områdenes naturlige artsrikdom.
+2. Bevare balansen mellom artene og deres naturgrunnlag og mellom artene innbyrdes.
+3. Regulere en økologisk forsvarlig høsting av vilt og ferskvannsfisk.
 
 > Opphevet for så vidt gjelder viltlevende fugler og landpattedyr på Svalbard med tilhørende territorialfarvann, jfr [forskrift 24 mai 1996 nr. 516](forskrift/1996-05-24-516), [18 juni 1997 nr. 623](forskrift/1997-06-18-623) (opphever bestemmelsen for landpattedyr og fugler), [28 juni 2002 nr. 653](forskrift/2002-06-28-653) (opphevet for så vidt gjelder sjøpattedyr på Svalbard, i kraft 1 juli 2002).
 
@@ -100,7 +104,10 @@ Under jakt og fangst er det forbudt å bruke luftfartøy eller motordrevet kjør
 
 Det er ikke tillatt å fiske etter ferskvannsfisk i perioden f.o.m. 26. juli t.o.m. 10. august, med unntak av Bjørnøya.
 
-Fiske etter laks og pukkellaks i sjøen er forbudt hele året med unntak avsportsfiske med stang eller håndsnøre,fiske i fjordene med settegarn.
+Fiske etter laks og pukkellaks i sjøen er forbudt hele året med unntak av
+
+1. sportsfiske med stang eller håndsnøre,
+2. fiske i fjordene med settegarn.
 
 > Endret ved [forskrift 31 jan 1997 nr. 101](forskrift/1997-01-31-101) (opphevet forsåvidt gjelder Svalbard).
 
@@ -120,7 +127,12 @@ Bruk av sprengstoff, elektrisitet eller giftstoffer til fiske er forbudt.
 
 ### § 11
 
-Departementet kan for enkelte dyrearter:fastsette kvoter for den totale beskatning, kvoter for enkeltpersoner, for grupper av personer eller for fartøyer,vedta utvidelser eller innskrenkninger i jakttiden,oppheve fredning,vedta fredning.
+Departementet kan for enkelte dyrearter:
+
+1. fastsette kvoter for den totale beskatning, kvoter for enkeltpersoner, for grupper av personer eller for fartøyer,
+2. vedta utvidelser eller innskrenkninger i jakttiden,
+3. oppheve fredning,
+4. vedta fredning.
 
 Slike forskrifter kan begrenses til hann eller hunn eller til eldre eller yngre individer av vedkommende art.
 
@@ -128,13 +140,23 @@ Slike forskrifter kan begrenses til hann eller hunn eller til eldre eller yngre 
 
 ### § 12
 
-Departementet kan fastsette nærmere forskrifter om:jakt- og fangstmetoder, herunder de skytevåpen og den ammunisjon det skal være tillatt å bruke og særskilte hjelpemidler som f.eks. lys og lyd,områdebegrensninger ved jakt, regulering av antall jegere, innføring av jaktkort, krav om ansvarsforsikring og gebyr for utstedelse av jaktkort og tildeling av jaktkvoter,aldersgrense for jegere, innføring av jegerprøve og kontroll med utøvelse av jakt,bruk av motordrevet kjøretøy, luftfartøy eller båt i forbindelse med jakt.
+Departementet kan fastsette nærmere forskrifter om:
+
+1. jakt- og fangstmetoder, herunder de skytevåpen og den ammunisjon det skal være tillatt å bruke og særskilte hjelpemidler som f.eks. lys og lyd,
+2. områdebegrensninger ved jakt, regulering av antall jegere, innføring av jaktkort, krav om ansvarsforsikring og gebyr for utstedelse av jaktkort og tildeling av jaktkvoter,
+3. aldersgrense for jegere, innføring av jegerprøve og kontroll med utøvelse av jakt,
+4. bruk av motordrevet kjøretøy, luftfartøy eller båt i forbindelse med jakt.
 
 > Opphevet for såvidt gjelder viltlevende fugler og landpattedyr på Svalbard med tilhørende territorialfarvann, jfr [forskrift 24 mai 1996 nr. 516](forskrift/1996-05-24-516), [28 juni 2002 nr. 653](forskrift/2002-06-28-653) (opphevet for så vidt gjelder sjøpattedyr på Svalbard, i kraft 1 juli 2002).
 
 ### § 13
 
-Departementet kan vedta:endringer av fredningstiden for ferskvannsfisk,endringer av tillatt maskevidde og antallsbegrensning for garn,forskrifter om områdebegrensninger, kvotebegrensninger, tillatt fiskeredskap ved ferskvannsfiske og om hvor lenge redskap kan stå ute uten tilsyn,regulering av antall fiskere, innføring av fiskekort og gebyr ved løsing av fiskekort, og nærmere forskrifter om kontroll med ferskvannsfisk.
+Departementet kan vedta:
+
+1. endringer av fredningstiden for ferskvannsfisk,
+2. endringer av tillatt maskevidde og antallsbegrensning for garn,
+3. forskrifter om områdebegrensninger, kvotebegrensninger, tillatt fiskeredskap ved ferskvannsfiske og om hvor lenge redskap kan stå ute uten tilsyn,
+4. regulering av antall fiskere, innføring av fiskekort og gebyr ved løsing av fiskekort, og nærmere forskrifter om kontroll med ferskvannsfisk.
 
 > Opphevet for såvidt gjelder viltlevende fugler og landpattedyr på Svalbard med tilhørende territorialfarvann, jfr [forskrift 24 mai 1996 nr. 516](forskrift/1996-05-24-516). Endret ved [forskrift 31 jan 1997 nr. 101](forskrift/1997-01-31-101) (opphevet forsåvidt gjelder Svalbard).
 
@@ -142,7 +164,11 @@ Departementet kan vedta:endringer av fredningstiden for ferskvannsfisk,endringer
 
 ### § 14
 
-Det er forbudt i tiden f.o.m. 1. april t.o.m. 31. augustå løsne skudd i eller innen en avstand av 1 km fra fuglefjell,å bruke skipsfløyte innen en avstand av 1 km fra fuglefjell, når ikke hensynet til sikkerheten gjør dette nødvendig,å fly i en avstand på mindre enn 500 m fra fuglefjell, unntatt i ambulanse-, oppsyns-, eller politiøyemed.
+Det er forbudt i tiden f.o.m. 1. april t.o.m. 31. august
+
+1. å løsne skudd i eller innen en avstand av 1 km fra fuglefjell,
+2. å bruke skipsfløyte innen en avstand av 1 km fra fuglefjell, når ikke hensynet til sikkerheten gjør dette nødvendig,
+3. å fly i en avstand på mindre enn 500 m fra fuglefjell, unntatt i ambulanse-, oppsyns-, eller politiøyemed.
 
 > Opphevet for såvidt gjelder viltlevende fugler og landpattedyr på Svalbard med tilhørende territorialfarvann, jfr [forskrift 24 mai 1996 nr. 516](forskrift/1996-05-24-516), [28 juni 2002 nr. 653](forskrift/2002-06-28-653) (opphevet for så vidt gjelder sjøpattedyr på Svalbard, i kraft 1 juli 2002).
 
@@ -183,7 +209,11 @@ Departementet kan vedta tilsvarende forskrifter for Jan Mayen.
 
 ### § 19
 
-Departementet kan gjøre unntak fra disse forskriftene:for tiltak i forbindelse med vilt- eller fiskestell,for vitenskapelige formål,når særlige grunner foreligger og det ikke er i strid med formålet med forskriftene.
+Departementet kan gjøre unntak fra disse forskriftene:
+
+1. for tiltak i forbindelse med vilt- eller fiskestell,
+2. for vitenskapelige formål,
+3. når særlige grunner foreligger og det ikke er i strid med formålet med forskriftene.
 
 > Endret ved [forskrifter 24 mai 1996 nr. 516](forskrift/1996-05-24-516) (opphevet for såvidt gjelder viltlevende fugler og landpattedyr på Svalbard med tilhørende territorialfarvann), [28 juni 2002 nr. 653](forskrift/2002-06-28-653) (opphevet for så vidt gjelder sjøpattedyr på Svalbard, i kraft 1 juli 2002).
 
@@ -217,7 +247,12 @@ I stedet for gjenstanden kan inndras et beløp som svarer til dens verdi eller e
 
 ### § 22
 
-Disse forskrifter trer i kraft 15. september 1978. Fra samme dato oppheves:Kgl.res. av 29. juni 1934 om forbud mot innførsel av rein til Svalbard.Kronprinsregentens res. av 26. august 1955 om jakt, fangst og fredning på Svalbard med senere endringer.Kronprinsregentens res. av 26. august 1955 om jakt, fangst og fredning på Jan Mayen.Kronprinsregentens res. av 26. juni 1970 om isbjørnjakt for så vidt gjelder reglenes anvendelse på Svalbard og Jan Mayen med tilliggende territorialfarvann.
+Disse forskrifter trer i kraft 15. september 1978. Fra samme dato oppheves:
+
+1. Kgl.res. av 29. juni 1934 om forbud mot innførsel av rein til Svalbard.
+2. Kronprinsregentens res. av 26. august 1955 om jakt, fangst og fredning på Svalbard med senere endringer.
+3. Kronprinsregentens res. av 26. august 1955 om jakt, fangst og fredning på Jan Mayen.
+4. Kronprinsregentens res. av 26. juni 1970 om isbjørnjakt for så vidt gjelder reglenes anvendelse på Svalbard og Jan Mayen med tilliggende territorialfarvann.
 
 ## Vedlegg til forskrifter om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen:
 

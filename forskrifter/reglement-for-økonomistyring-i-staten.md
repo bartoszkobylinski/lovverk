@@ -26,11 +26,21 @@ eu_basis: []
 
 ### § 1. Formål
 
-Reglement for økonomistyring har som formål å sikre at:statlige midler brukes og inntekter oppnås i samsvar med Stortingets vedtak og forutsetningerfastsatte mål og resultatkrav oppnåsstatlige midler brukes effektivtstatens materielle verdier forvaltes på en forsvarlig måte.
+Reglement for økonomistyring har som formål å sikre at:
+
+1. statlige midler brukes og inntekter oppnås i samsvar med Stortingets vedtak og forutsetninger
+2. fastsatte mål og resultatkrav oppnås
+3. statlige midler brukes effektivt
+4. statens materielle verdier forvaltes på en forsvarlig måte.
 
 ### § 2. Virkeområde
 
-Reglementet gjelder for:aktivitetene i statlige forvaltningsorganerstyring og oppfølging av statlige forvaltningsorganer og andre som har fått delegert forvaltningsmyndighetforvaltningen av statlige tilskudds-, stønads- og garantiordningerstyring og oppfølging av statens eierinteresser i statsaksjeselskaper, statsforetak, særlovsselskaper og andre selvstendige rettssubjekter som staten eier fullt ut, samt selskaper der staten er deleier
+Reglementet gjelder for:
+
+1. aktivitetene i statlige forvaltningsorganer
+2. styring og oppfølging av statlige forvaltningsorganer og andre som har fått delegert forvaltningsmyndighet
+3. forvaltningen av statlige tilskudds-, stønads- og garantiordninger
+4. styring og oppfølging av statens eierinteresser i statsaksjeselskaper, statsforetak, særlovsselskaper og andre selvstendige rettssubjekter som staten eier fullt ut, samt selskaper der staten er deleier
 
 Statlige forvaltningsorganer, herunder departementer, er heretter betegnet som «virksomheter», mens selvstendige rettssubjekter beskrevet i pkt. d betegnes som «selskap».
 
@@ -46,7 +56,11 @@ Underliggende virksomheter skal fastsette instrukser for egne aktiviteter innenf
 
 ### § 4. Grunnleggende styringsprinsipper
 
-Alle virksomheter skal:fastsette mål og resultatkrav innenfor rammen av disponible ressurser og forutsetninger gitt av overordnet myndighetsikre at fastsatte mål og resultatkrav oppnås, ressursbruken er effektiv og at virksomheten drives i samsvar med gjeldende lover og regler, herunder krav til god forvaltningsskikk, habilitet og etisk adferdsikre tilstrekkelig styringsinformasjon og forsvarlig beslutningsgrunnlag.
+Alle virksomheter skal:
+
+1. fastsette mål og resultatkrav innenfor rammen av disponible ressurser og forutsetninger gitt av overordnet myndighet
+2. sikre at fastsatte mål og resultatkrav oppnås, ressursbruken er effektiv og at virksomheten drives i samsvar med gjeldende lover og regler, herunder krav til god forvaltningsskikk, habilitet og etisk adferd
+3. sikre tilstrekkelig styringsinformasjon og forsvarlig beslutningsgrunnlag.
 
 Departementene skal i tillegg fastsette overordnede mål og styringsparametere for underliggende virksomheter, jf. [§ 7](forskrift/2003-12-12-1938/§7).
 
@@ -56,7 +70,11 @@ Styring, oppfølging, kontroll og forvaltning må tilpasses virksomhetens egenar
 
 ### § 5. Utarbeidelse av budsjettforslag til Stortinget
 
-Departementet og dets underliggende virksomheter skal utarbeide budsjettforslaget slik at det blant annet:gir grunnlag for prioritering mellom departementets ansvarsområder i samsvar med gjeldende politiske målsikrer samordning på hvert nivåbidrar til at målene blir oppnådd på en effektiv måte
+Departementet og dets underliggende virksomheter skal utarbeide budsjettforslaget slik at det blant annet:
+
+1. gir grunnlag for prioritering mellom departementets ansvarsområder i samsvar med gjeldende politiske mål
+2. sikrer samordning på hvert nivå
+3. bidrar til at målene blir oppnådd på en effektiv måte
 
 Utarbeidelsen av budsjettproposisjonen skal bygge på prinsippene fastsatt i [bevilgningsreglementet § 3](forskrift/2005-05-26-876/§3) – § 9, og utføres i samsvar med retningslinjer fastsatt av Finansdepartementet i årlig rundskriv.
 
@@ -92,13 +110,22 @@ Departementene skal i tilknytning til garantifullmakt i medhold av [bevilgningsr
 
 ### § 9. Planlegging, gjennomføring og oppfølging
 
-Alle virksomheter skal innenfor sitt ansvarsområde sikre at fastsatte mål og resultatkrav oppnås på en effektiv måte. For å sikre dette skal virksomhetene:planlegge med både ettårig og flerårig perspektivgjennomføre fastsatte planerrapportere om måloppnåelse og resultater internt og til overordnet myndighet.
+Alle virksomheter skal innenfor sitt ansvarsområde sikre at fastsatte mål og resultatkrav oppnås på en effektiv måte. For å sikre dette skal virksomhetene:
+
+1. planlegge med både ettårig og flerårig perspektiv
+2. gjennomføre fastsatte planer
+3. rapportere om måloppnåelse og resultater internt og til overordnet myndighet.
 
 ### § 10. Oppfølging av statens eierinteresse m.m.
 
 Virksomheter som har overordnet ansvar for statsaksjeselskaper, statsforetak, særlovsselskaper eller andre selvstendige rettssubjekt som staten eier helt eller delvis, skal utarbeide skriftlige retningslinjer om hvordan styrings- og kontrollmyndigheten skal utøves overfor hvert enkelt selskap eller grupper av selskaper. Gjenpart av retningslinjene skal sendes Riksrevisjonen.
 
-Staten skal, innenfor gjeldende lover og regler, forvalte sine eierinteresser i samsvar med overordnede prinsipper for god eierstyring med særlig vekt på:at den valgte selskapsform, selskapets vedtekter, finansiering og styresammensetning er hensiktsmessig i forhold til selskapets formål og eierskapat utøvelsen av eierskapet sikrer likebehandling av alle eiere og understøtter en klar fordeling av myndighet og ansvar mellom eiervirksomheten og styretat målene fastsatt for selskapet oppnåsat styret fungerer tilfredsstillende.
+Staten skal, innenfor gjeldende lover og regler, forvalte sine eierinteresser i samsvar med overordnede prinsipper for god eierstyring med særlig vekt på:
+
+1. at den valgte selskapsform, selskapets vedtekter, finansiering og styresammensetning er hensiktsmessig i forhold til selskapets formål og eierskap
+2. at utøvelsen av eierskapet sikrer likebehandling av alle eiere og understøtter en klar fordeling av myndighet og ansvar mellom eiervirksomheten og styret
+3. at målene fastsatt for selskapet oppnås
+4. at styret fungerer tilfredsstillende.
 
 Styring, oppfølging og kontroll samt tilhørende retningslinjer skal tilpasses statens eierandel, selskapets egenart og risiko og vesentlighet.
 
@@ -126,7 +153,15 @@ Hvert departement skal avgi forklaringer til bevilgningsregnskapet om ikke uvese
 
 ### § 14. Intern kontroll
 
-Alle virksomheter skal etablere systemer og rutiner som har innebygd intern kontroll for å sikre at:beløpsmessige rammer ikke overskrides og at forutsatte inntekter kommer innmåloppnåelse og resultater står i et tilfredsstillende forhold til fastsatte mål og resultatkrav, og at eventuelle vesentlige avvik forebygges, avdekkes og korrigeres i nødvendig utstrekningressursbruken er effektivregnskap og informasjon om resultater er pålitelig og nøyaktigvirksomhetens verdier, herunder fast eiendom, materiell, utstyr, verdipapirer og andre økonomiske verdier, forvaltes på en forsvarlig måteøkonomistyringen er organisert på en forsvarlig måte og utføres i samsvar med gjeldende lover og reglermisligheter og økonomisk kriminalitet forebygges og avdekkes.
+Alle virksomheter skal etablere systemer og rutiner som har innebygd intern kontroll for å sikre at:
+
+1. beløpsmessige rammer ikke overskrides og at forutsatte inntekter kommer inn
+2. måloppnåelse og resultater står i et tilfredsstillende forhold til fastsatte mål og resultatkrav, og at eventuelle vesentlige avvik forebygges, avdekkes og korrigeres i nødvendig utstrekning
+3. ressursbruken er effektiv
+4. regnskap og informasjon om resultater er pålitelig og nøyaktig
+5. virksomhetens verdier, herunder fast eiendom, materiell, utstyr, verdipapirer og andre økonomiske verdier, forvaltes på en forsvarlig måte
+6. økonomistyringen er organisert på en forsvarlig måte og utføres i samsvar med gjeldende lover og regler
+7. misligheter og økonomisk kriminalitet forebygges og avdekkes.
 
 ### § 15. Kontroll av underliggende virksomheter og andre som utøver forvaltningsmyndighet samt tilskuddsmottakere
 

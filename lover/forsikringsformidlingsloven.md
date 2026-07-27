@@ -15,7 +15,7 @@ xml_hash: "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L0097"
@@ -42,9 +42,16 @@ Kongen kan i forskrift gi regler om i hvilken utstrekning loven skal gjøres gje
 
 Med forsikringsformidling menes ervervsmessig mellomleddsvirksomhet som består i å utøve forsikringsdistribusjon.
 
-Som forsikringsdistribusjon regneså legge frem, gi råd om, foreslå eller utføre annet forberedende arbeid i forbindelse med inngåelse av forsikringsavtaler, eller inngå slike avtaler, eller å bistå ved forvaltningen eller gjennomføringen av slike avtaler, særlig i forbindelse med et skadetilfelleå levere opplysninger om én eller flere forsikringsavtaler i overensstemmelse med kundens valgte kriterier via et nettsted eller andre medier, herunder utarbeidelse av en prioritert liste over forsikringsavtaler som omfatter pris- og produktsammenligninger eller prisrabatter på en forsikringsavtale, hvis kunden er i stand til direkte eller indirekte å inngå en forsikringsavtale ved å bruke nettsted eller andre medier.
+Som forsikringsdistribusjon regnes
 
-Som forsikringsdistribusjon regnes ikkevirksomhet som består i å gi opplysninger ved enkelte anledninger som ledd i annen yrkesvirksomhet, dersom formålet ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtalevirksomhet som kun består i å formidle generell informasjon om forsikringsprodukter eller skape kontakt med forsikringsforetak, dersom formålet ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtaleervervsmessig virksomhet som ivaretar administrasjonen av et forsikringsforetaks skadebehandling, eller taksering og sakkyndig vurdering av skader.
+1. å legge frem, gi råd om, foreslå eller utføre annet forberedende arbeid i forbindelse med inngåelse av forsikringsavtaler, eller inngå slike avtaler, eller å bistå ved forvaltningen eller gjennomføringen av slike avtaler, særlig i forbindelse med et skadetilfelle
+2. å levere opplysninger om én eller flere forsikringsavtaler i overensstemmelse med kundens valgte kriterier via et nettsted eller andre medier, herunder utarbeidelse av en prioritert liste over forsikringsavtaler som omfatter pris- og produktsammenligninger eller prisrabatter på en forsikringsavtale, hvis kunden er i stand til direkte eller indirekte å inngå en forsikringsavtale ved å bruke nettsted eller andre medier.
+
+Som forsikringsdistribusjon regnes ikke
+
+1. virksomhet som består i å gi opplysninger ved enkelte anledninger som ledd i annen yrkesvirksomhet, dersom formålet ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtale
+2. virksomhet som kun består i å formidle generell informasjon om forsikringsprodukter eller skape kontakt med forsikringsforetak, dersom formålet ikke er å bistå kunden med inngåelse eller gjennomføring av en forsikringsavtale
+3. ervervsmessig virksomhet som ivaretar administrasjonen av et forsikringsforetaks skadebehandling, eller taksering og sakkyndig vurdering av skader.
 
 Finanstilsynet avgjør i tvilstilfelle om en virksomhet driver forsikringsformidling.
 
@@ -74,9 +81,17 @@ Med forsikringsagentvirksomhet menes forsikringsformidling på vegne av ett elle
 
 ### § 2-4. Aksessorisk forsikringsagentvirksomhet
 
-Med aksessorisk forsikringsagentvirksomhet menes forsikringsformidling som består i å tilby forsikringsavtaler på vegne av ett eller flere forsikringsforetak, og der følgende vilkår er oppfylt:Foretaket som yter forsikringsformidling er ikke bank, kredittforetak eller verdipapirforetak.Foretaket utøver ikke forsikringsformidling som hovedvirksomhet.Foretaket formidler kun forsikringsavtaler som utgjør et supplement til en vare eller tjeneste.Forsikringsavtalene som nevnt i bokstav c omfatter ikke livs- eller ansvarsforsikring, med mindre dette er et supplement til den vare eller tjenesteytelse som formidleren tilbyr som sitt hovederverv.
+Med aksessorisk forsikringsagentvirksomhet menes forsikringsformidling som består i å tilby forsikringsavtaler på vegne av ett eller flere forsikringsforetak, og der følgende vilkår er oppfylt:
 
-Kravet om registrering etter [§ 3-1](lov/2021-12-22-163/§3-1) gjelder ikke for aksessorisk forsikringsagentvirksomhet som består i å formidle forsikringer hvoravtalen utgjør et supplement til en vare eller tjeneste levert av formidleren, og som dekker risikoen for funksjonssvikt, tap av eller skade på varen eller at en tjeneste ikke kan benyttes, eller skade på eller tap av bagasje og andre risikoer i forbindelse med en reise bestilt hos formidlerenårlig premiebeløp ikke overstiger et beløp som svarer til 600 euro, eller 200 euro dersom forsikringsavtalen utgjør et supplement til en tjeneste som nevnt i bokstav a og varigheten på tjenesten er tre måneder eller kortere.
+1. Foretaket som yter forsikringsformidling er ikke bank, kredittforetak eller verdipapirforetak.
+2. Foretaket utøver ikke forsikringsformidling som hovedvirksomhet.
+3. Foretaket formidler kun forsikringsavtaler som utgjør et supplement til en vare eller tjeneste.
+4. Forsikringsavtalene som nevnt i bokstav c omfatter ikke livs- eller ansvarsforsikring, med mindre dette er et supplement til den vare eller tjenesteytelse som formidleren tilbyr som sitt hovederverv.
+
+Kravet om registrering etter [§ 3-1](lov/2021-12-22-163/§3-1) gjelder ikke for aksessorisk forsikringsagentvirksomhet som består i å formidle forsikringer hvor
+
+1. avtalen utgjør et supplement til en vare eller tjeneste levert av formidleren, og som dekker risikoen for funksjonssvikt, tap av eller skade på varen eller at en tjeneste ikke kan benyttes, eller skade på eller tap av bagasje og andre risikoer i forbindelse med en reise bestilt hos formidleren
+2. årlig premiebeløp ikke overstiger et beløp som svarer til 600 euro, eller 200 euro dersom forsikringsavtalen utgjør et supplement til en tjeneste som nevnt i bokstav a og varigheten på tjenesten er tre måneder eller kortere.
 
 ## Kapittel 3. Vilkår for å drive forsikringsformidling, søknad, tildeling mv.
 
@@ -86,7 +101,13 @@ Forsikringsformidling kan bare drives av foretak som har tillatelse til å drive
 
 ### § 3-2. Søknad om å drive forsikringsformidling
 
-Søknad om å drive forsikringsformidling sendes til Finanstilsynet. Søknaden skal angi hva det søkes om, og skal inneholde de opplysninger som må anses å være av betydning for behandlingen av søknaden, herunderdokumentasjon for at foretaket oppfyller kravene i [§ 3-4](lov/2021-12-22-163/§3-4)en beskrivelse av hvilke forsikringer foretaket skal formidleopplysninger om fysiske og juridiske personer som har eierandeler i foretaket på over 10 prosent, samt størrelsen på eierandeleneopplysninger om identiteten til fysiske og juridiske personer som må anses å ha nære forbindelser med foretaket, jf. [finanstilsynsloven § 3-3 tredje ledd annet punktum](lov/2024-06-21-41/§3-3/ledd/3/setning/2) med tilhørende forskrifter.opplysninger om at forhold som nevnt i bokstav c og d ikke er til hinder for Finanstilsynets mulighet til å føre effektivt tilsyn med virksomheten.
+Søknad om å drive forsikringsformidling sendes til Finanstilsynet. Søknaden skal angi hva det søkes om, og skal inneholde de opplysninger som må anses å være av betydning for behandlingen av søknaden, herunder
+
+1. dokumentasjon for at foretaket oppfyller kravene i [§ 3-4](lov/2021-12-22-163/§3-4)
+2. en beskrivelse av hvilke forsikringer foretaket skal formidle
+3. opplysninger om fysiske og juridiske personer som har eierandeler i foretaket på over 10 prosent, samt størrelsen på eierandelene
+4. opplysninger om identiteten til fysiske og juridiske personer som må anses å ha nære forbindelser med foretaket, jf. [finanstilsynsloven § 3-3 tredje ledd annet punktum](lov/2024-06-21-41/§3-3/ledd/3/setning/2) med tilhørende forskrifter.
+5. opplysninger om at forhold som nevnt i bokstav c og d ikke er til hinder for Finanstilsynets mulighet til å føre effektivt tilsyn med virksomheten.
 
 Søknaden skal behandles innen tre måneder etter at den er mottatt. Dersom søknaden ikke inneholder de opplysningene som er nødvendige for Finanstilsynets vurdering av søknaden, regnes fristen fra det tidspunktet slike opplysninger ble mottatt av Finanstilsynet.
 
@@ -104,7 +125,13 @@ Departementet kan i forskrift gi regler om forsikringsforetakets bekreftelse, op
 
 ### § 3-4. Tillatelse, registrering, vilkår mv.
 
-Finanstilsynet kan etter søknad gi et foretak tillatelse til å drive forsikringsmegling eller gjenforsikringsmegling eller registrere et foretak som forsikringsagentforetak eller aksessorisk forsikringsagentforetak. Det kan settes vilkår for tillatelsen eller registreringen. Finanstilsynet kan bare gi tillatelse til eller registrere foretak som oppfyller følgende vilkår:Foretaket er organisert som aksjeselskap, allmennaksjeselskap, ansvarlig selskap, sparebank, forening, samvirkeforetak eller enkeltpersonforetak.Foretaket har fullt innbetalt aksjekapital på søknadstidspunktet, dersom virksomheten er organisert som aksjeselskap eller allmennaksjeselskap.Foretaket er ikke under konkursbehandling.Foretaket oppfyller kravene til forsikring i [kapittel 7](lov/2021-12-22-163/kap7).Styret, daglig leder og andre personer i den faktiske ledelsen av formidlingsvirksomheten samt forsikringsmeglere og forsikringsagenter oppfyller kravene til egnethet i [kapittel 6](lov/2021-12-22-163/kap6).
+Finanstilsynet kan etter søknad gi et foretak tillatelse til å drive forsikringsmegling eller gjenforsikringsmegling eller registrere et foretak som forsikringsagentforetak eller aksessorisk forsikringsagentforetak. Det kan settes vilkår for tillatelsen eller registreringen. Finanstilsynet kan bare gi tillatelse til eller registrere foretak som oppfyller følgende vilkår:
+
+1. Foretaket er organisert som aksjeselskap, allmennaksjeselskap, ansvarlig selskap, sparebank, forening, samvirkeforetak eller enkeltpersonforetak.
+2. Foretaket har fullt innbetalt aksjekapital på søknadstidspunktet, dersom virksomheten er organisert som aksjeselskap eller allmennaksjeselskap.
+3. Foretaket er ikke under konkursbehandling.
+4. Foretaket oppfyller kravene til forsikring i [kapittel 7](lov/2021-12-22-163/kap7).
+5. Styret, daglig leder og andre personer i den faktiske ledelsen av formidlingsvirksomheten samt forsikringsmeglere og forsikringsagenter oppfyller kravene til egnethet i [kapittel 6](lov/2021-12-22-163/kap6).
 
 Finanstilsynet kan nekte tillatelse eller registrering dersom det foreligger forhold som er egnet til å hindre et effektivt tilsyn med forsikringsformidlingsforetaket.
 
@@ -120,7 +147,11 @@ Forsikringsformidling kan ikke igangsettes før foretaket er oppført i Finansti
 
 Før et norsk forsikringsformidlingsforetak kan etablere filial eller annen permanent tilstedeværelse i en annen EØS-stat, skal foretaket gi Finanstilsynet melding om dette.
 
-Meldingen skal minst inneholdeopplysninger om hvilken EØS-stat foretaket har til hensikt å etablere filial i, og filialens adressenavn på personene som utgjør filialens ledelseen virksomhetsplan som beskriver tjenestene foretaket har til hensikt å utøve, og filialens organisering.
+Meldingen skal minst inneholde
+
+1. opplysninger om hvilken EØS-stat foretaket har til hensikt å etablere filial i, og filialens adresse
+2. navn på personene som utgjør filialens ledelse
+3. en virksomhetsplan som beskriver tjenestene foretaket har til hensikt å utøve, og filialens organisering.
 
 Finanstilsynet skal sende melding om filialetablering til vertslandet innen én måned etter at meldingen om filialetablering er mottatt, med mindre det er grunn til å anta at forsikringsformidlingsforetakets organisering eller finansielle situasjon ikke er forsvarlig i forhold til den planlagte virksomheten.
 
@@ -134,7 +165,10 @@ Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller 
 
 Før et norsk forsikringsformidlingsforetak kan tilby grensekryssende tjenester i en annen EØS-stat, skal foretaket gi Finanstilsynet melding om dette.
 
-Meldingen skal minst inneholdeopplysninger om hvilken EØS-stat foretaket har til hensikt å utøve virksomhet ien virksomhetsplan som beskriver tjenestene foretaket har til hensikt å utøve.
+Meldingen skal minst inneholde
+
+1. opplysninger om hvilken EØS-stat foretaket har til hensikt å utøve virksomhet i
+2. en virksomhetsplan som beskriver tjenestene foretaket har til hensikt å utøve.
 
 Finanstilsynet skal sende meldingen til vertsstatens tilsynsmyndighet innen én måned etter at meldingen er mottatt. Forsikringsformidlingsforetaket kan igangsette virksomheten når vertslandet har mottatt melding fra Finanstilsynet. Finanstilsynet skal samtidig opplyse hvor formidlingsforetaket kan finne informasjon om regelverk som vil gjelde for virksomheten.
 
@@ -154,7 +188,13 @@ Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller 
 
 ### § 5-1. Filial av forsikringsformidlingsforetak registrert i en annen EØS-stat
 
-Forsikringsformidlingsforetak som er registrert i en annen EØS-stat, kan gjennom filial her i riket drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten. Filialen kan etableres én måned etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i forsikringsformidlingsforetakets hjemstat:foretakets navn, adresse og eventuelt foretaksnummerhvilken forsikringsformidlingskategori tillatelsen omfatter, og, der det er relevant, navnet på forsikringsforetaket foretaket opptrer på vegne avhvilke forsikringsklasser forsikringsformidlingen omfatterpostadresse i Norgenavn på personene som skal inngå i ledelsen av filialen.
+Forsikringsformidlingsforetak som er registrert i en annen EØS-stat, kan gjennom filial her i riket drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten. Filialen kan etableres én måned etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i forsikringsformidlingsforetakets hjemstat:
+
+1. foretakets navn, adresse og eventuelt foretaksnummer
+2. hvilken forsikringsformidlingskategori tillatelsen omfatter, og, der det er relevant, navnet på forsikringsforetaket foretaket opptrer på vegne av
+3. hvilke forsikringsklasser forsikringsformidlingen omfatter
+4. postadresse i Norge
+5. navn på personene som skal inngå i ledelsen av filialen.
 
 Finanstilsynet skal innen én måned etter at opplysningene er mottatt fra tilsynsmyndigheten i forsikringsformidlingsforetakets hjemstat, gi tilsynsmyndigheten i hjemstaten melding om at filialen kan etableres, og samtidig gi en oversikt over hvilke regler som vil gjelde for virksomheten her i riket. Etablerer foretaket filial eller tilsvarende etablering som omfattes av [foretaksregisterloven](lov/2025-06-20-106), må foretaket registrere denne i Foretaksregisteret før virksomheten kan igangsettes.
 
@@ -170,7 +210,11 @@ Departementet kan i forskrift gi regler som utfyller paragrafen her, herunder om
 
 ### § 5-3. Grensekryssende virksomhet fra forsikringsformidlingsforetak registrert i en annen EØS-stat
 
-Forsikringsformidlingsforetak som er registrert i en annen EØS-stat, kan drive grensekryssende virksomhet her i riket i den utstrekning foretaket har tillatelse i hjemstaten. Foretaket kan starte virksomheten her i riket straks Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat med følgende opplysninger:foretakets navn, adresse og eventuelt foretaksnummerhvilken forsikringsformidlingskategori tillatelsen omfatter, og, der det er relevant, navnet på forsikringsforetaket foretaket opptrer på vegne avhvilke forsikringsklasser forsikringsavtalene som skal formidles, omfatter.
+Forsikringsformidlingsforetak som er registrert i en annen EØS-stat, kan drive grensekryssende virksomhet her i riket i den utstrekning foretaket har tillatelse i hjemstaten. Foretaket kan starte virksomheten her i riket straks Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat med følgende opplysninger:
+
+1. foretakets navn, adresse og eventuelt foretaksnummer
+2. hvilken forsikringsformidlingskategori tillatelsen omfatter, og, der det er relevant, navnet på forsikringsforetaket foretaket opptrer på vegne av
+3. hvilke forsikringsklasser forsikringsavtalene som skal formidles, omfatter.
 
 Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her.
 
@@ -256,7 +300,12 @@ Departementet kan i forskrift gi regler som utfyller paragrafen her. Departement
 
 Forsikringsforetaket som forsikringsformidlingsforetaket er forsikret i etter [§ 7-2](lov/2021-12-22-163/§7-2) på det tidspunktet den skadelidte fremsetter krav om erstatning, er ansvarlig overfor den skadelidte.
 
-Et erstatningskrav anses fremsatt på det tidligste av følgende tidspunkter:det tidspunktet forsikringsformidlingsforetaket eller forsikringsforetaket første gang mottok melding om tapet med krav om erstatningdet tidspunktet forsikringsformidlingsforetaket eller forsikringsforetaket første gang mottok skriftlig melding fra skadelidte vedrørende omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot forsikringsformidlingsforetaket.Bokstav b gjelder tilsvarende for melding fra forsikringsformidlingsforetaket til forsikringsforetaket.
+Et erstatningskrav anses fremsatt på det tidligste av følgende tidspunkter:
+
+1. det tidspunktet forsikringsformidlingsforetaket eller forsikringsforetaket første gang mottok melding om tapet med krav om erstatning
+2. det tidspunktet forsikringsformidlingsforetaket eller forsikringsforetaket første gang mottok skriftlig melding fra skadelidte vedrørende omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot forsikringsformidlingsforetaket.
+
+Bokstav b gjelder tilsvarende for melding fra forsikringsformidlingsforetaket til forsikringsforetaket.
 
 Oppsigelse av forsikringene eller bortfall av forsikringene på annen måte gis ikke virkning overfor skadelidte før én måned etter at Finanstilsynet har mottatt melding om bortfallet. Stilles ny forsikring før utløpet av denne perioden, gis bortfallet virkning fra det tidspunktet ny forsikring er stilt.
 
@@ -286,7 +335,11 @@ Departementet kan i forskrift gi regler som utfyller paragrafen her, herunder fa
 
 ### § 8-2. Krav til økonomi
 
-Forsikringsformidlingsforetak skalvære i stand til å oppfylle sine forpliktelser etter hvert som de forfallerha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaketha eiendeler som har en verdi som overstiger foretakets samlede forpliktelser.
+Forsikringsformidlingsforetak skal
+
+1. være i stand til å oppfylle sine forpliktelser etter hvert som de forfaller
+2. ha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket
+3. ha eiendeler som har en verdi som overstiger foretakets samlede forpliktelser.
 
 For forsikringsformidlingsforetak som er organisert som enkeltpersonforetak, gjelder ikke første ledd bokstav b og c.
 
@@ -306,7 +359,16 @@ Forsikringsmeglingsforetak skal utvise tilbørlig aktsomhet ved valg av forsikri
 
 Forsikringsmeglingsforetak har ikke adgang til å motta provisjon eller annen godtgjørelse for forsikringsformidlingen fra den forsikringsgiveren som har overtatt forsikringsavtalen et formidlingsoppdrag gjelder.
 
-Tredje ledd gjelder ikke megling av gjenforsikring. Tredje ledd gjelder heller ikke megling av forsikringer fra forsikringsforetak som ikke er etablert her i riket, forutsatt at forsikringsmeglingsforetaket videreformidler mottatt vederlag til oppdragsgiveren. Tredje ledd gjelder heller ikke megling av forsikring knyttet tilluftfartøyskip som er registreringspliktige i norsk ordinært skipsregister, norsk internasjonalt skipsregister eller i utenlandsk skipsregisterboreplattformer og lignende flyttbare innretningerfaste innretninger til bruk i forbindelse med utvinning og utnyttelse av undersjøiske petroleumsforekomster eller utskiping, lagring eller rørtransport av utvunnet olje og gassinnretninger til bruk i forbindelse med olje- og gassvirksomhet ved anlegg på landbygging av skip eller innretninger som nevnt i bokstav b til evirksomhet, utstyr, tilbehør mv. i tilknytning til innretninger som nevnt i bokstav c til fren internasjonal varetransport.
+Tredje ledd gjelder ikke megling av gjenforsikring. Tredje ledd gjelder heller ikke megling av forsikringer fra forsikringsforetak som ikke er etablert her i riket, forutsatt at forsikringsmeglingsforetaket videreformidler mottatt vederlag til oppdragsgiveren. Tredje ledd gjelder heller ikke megling av forsikring knyttet til
+
+1. luftfartøy
+2. skip som er registreringspliktige i norsk ordinært skipsregister, norsk internasjonalt skipsregister eller i utenlandsk skipsregister
+3. boreplattformer og lignende flyttbare innretninger
+4. faste innretninger til bruk i forbindelse med utvinning og utnyttelse av undersjøiske petroleumsforekomster eller utskiping, lagring eller rørtransport av utvunnet olje og gass
+5. innretninger til bruk i forbindelse med olje- og gassvirksomhet ved anlegg på land
+6. bygging av skip eller innretninger som nevnt i bokstav b til e
+7. virksomhet, utstyr, tilbehør mv. i tilknytning til innretninger som nevnt i bokstav c til f
+8. ren internasjonal varetransport.
 
 Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her.
 
@@ -320,9 +382,20 @@ Departementet kan i forskrift gi utfyllende regler om forsikringsagentforetakets
 
 Forsikringer kan bare plasseres i forsikringsforetak med hovedsete i en EØS-stat og i norsk filial av utenlandsk forsikringsforetak med tillatelse etter [finansforetaksloven § 5-6](lov/2015-04-10-17/§5-6). Lovpliktige skadeforsikringer kan bare plasseres i forsikringsforetak som oppfyller de kravene som gjelder etter den særlige reguleringen av slike forsikringer.
 
-Forsikringsmeglingsforetak kan likevel megle skadeforsikring i næringsvirksomhet til forsikringsforetak med hovedsete i en stat utenfor EØS dersom forsikringen ikke gjelderlovpliktig yrkesskadeforsikringlovpliktig ansvarsforsikring for motorkjøretøylovpliktig ansvarsforsikring som gjelder erstatningsansvar for skade voldt ved atomskade eller av legemidler.
+Forsikringsmeglingsforetak kan likevel megle skadeforsikring i næringsvirksomhet til forsikringsforetak med hovedsete i en stat utenfor EØS dersom forsikringen ikke gjelder
 
-Som skadeforsikring i næringsvirksomhet etter annet ledd regnessjø- og transportforsikringluftfartsforsikringforsikring knyttet til undersøkelser etter, utnytting, lagring eller rørtransport av undersjøiske naturforekomsterkreditt eller kausjon når forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen gjelder for virksomhetenforsikring tegnet av foretak med ansatte som tilsvarer minst 10 årsverkforsikring tegnet av foretak med en årsomsetning på minst 50 mill. kroner.
+1. lovpliktig yrkesskadeforsikring
+2. lovpliktig ansvarsforsikring for motorkjøretøy
+3. lovpliktig ansvarsforsikring som gjelder erstatningsansvar for skade voldt ved atomskade eller av legemidler.
+
+Som skadeforsikring i næringsvirksomhet etter annet ledd regnes
+
+1. sjø- og transportforsikring
+2. luftfartsforsikring
+3. forsikring knyttet til undersøkelser etter, utnytting, lagring eller rørtransport av undersjøiske naturforekomster
+4. kreditt eller kausjon når forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen gjelder for virksomheten
+5. forsikring tegnet av foretak med ansatte som tilsvarer minst 10 årsverk
+6. forsikring tegnet av foretak med en årsomsetning på minst 50 mill. kroner.
 
 Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gjøre unntak for angitte forsikringsavtaler eller forsikringsrisikoer og fastsette vilkår for slike unntak.
 
@@ -396,13 +469,22 @@ Første ledd gjelder tilsvarende dersom Finanstilsynet underrettes av tilsynsmyn
 
 ### § 10-3. Tilbakekall av tillatelse og sletting av registrering
 
-Finanstilsynet kan kalle tilbake tillatelsen og slette et forsikringsformidlingsforetak fra Finanstilsynets register dersom foretaketikke gjør bruk av tillatelsen eller registreringen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller registreringen eller har opphørt å drive virksomhet i mer enn seks månederikke lenger oppfyller vilkårene for tillatelse eller registrering i [§ 3-4](lov/2021-12-22-163/§3-4)har fått tillatelsen eller blitt registrert ved hjelp av uriktige opplysninger eller andre uregelmessighetergrovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av lov som gjelder for forsikringsformidlingsvirksomheten, ellerikke etterkommer pålegg gitt av Finanstilsynet eller annen tilsynsmyndighet.
+Finanstilsynet kan kalle tilbake tillatelsen og slette et forsikringsformidlingsforetak fra Finanstilsynets register dersom foretaket
+
+1. ikke gjør bruk av tillatelsen eller registreringen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller registreringen eller har opphørt å drive virksomhet i mer enn seks måneder
+2. ikke lenger oppfyller vilkårene for tillatelse eller registrering i [§ 3-4](lov/2021-12-22-163/§3-4)
+3. har fått tillatelsen eller blitt registrert ved hjelp av uriktige opplysninger eller andre uregelmessigheter
+4. grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av lov som gjelder for forsikringsformidlingsvirksomheten, eller
+5. ikke etterkommer pålegg gitt av Finanstilsynet eller annen tilsynsmyndighet.
 
 Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.
 
 ### § 10-4. Straff
 
-Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uaktsomt overtrer[§ 3-1](lov/2021-12-22-163/§3-1), [§ 4-1](lov/2021-12-22-163/§4-1) første ledd, [§ 4-2](lov/2021-12-22-163/§4-2) første ledd, [§ 4-3](lov/2021-12-22-163/§4-3) første ledd, [§ 5-5](lov/2021-12-22-163/§5-5) første ledd, [§ 7-1](lov/2021-12-22-163/§7-1), [§ 8-3](lov/2021-12-22-163/§8-3) eller [§ 8-5](lov/2021-12-22-163/§8-5) til [§ 8-8](lov/2021-12-22-163/§8-8), ellerbestemmelse i forskrift som utfyller bestemmelsene nevnt i bokstav a, når det i forskriften er fastsatt at en slik overtredelse av den aktuelle bestemmelsen er straffbar.
+Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uaktsomt overtrer
+
+1. [§ 3-1](lov/2021-12-22-163/§3-1), [§ 4-1](lov/2021-12-22-163/§4-1) første ledd, [§ 4-2](lov/2021-12-22-163/§4-2) første ledd, [§ 4-3](lov/2021-12-22-163/§4-3) første ledd, [§ 5-5](lov/2021-12-22-163/§5-5) første ledd, [§ 7-1](lov/2021-12-22-163/§7-1), [§ 8-3](lov/2021-12-22-163/§8-3) eller [§ 8-5](lov/2021-12-22-163/§8-5) til [§ 8-8](lov/2021-12-22-163/§8-8), eller
+2. bestemmelse i forskrift som utfyller bestemmelsene nevnt i bokstav a, når det i forskriften er fastsatt at en slik overtredelse av den aktuelle bestemmelsen er straffbar.
 
 På samme måte straffes grove eller gjentatte brudd på god forretningsskikk, jf. [§ 9-1](lov/2021-12-22-163/§9-1), og bestemmelse i forskrift som utfyller [§ 9-1](lov/2021-12-22-163/§9-1), når det i forskriften er fastsatt at overtredelse av den aktuelle bestemmelsen er straffbar.
 
@@ -445,4 +527,8 @@ Departementet kan gi overgangsregler. I overgangsreglene kan det gjøres unntak 
 
 ### § 11-3. Endringer i andre lover
 
-Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:I [lov 10. juni 2005 nr. 44 om forsikringsvirksomhet](lov/2005-06-10-44) oppheves [§ 7-4](lov/2005-06-10-44/§7-4).[Lov 10. juni 2005 nr. 41 om forsikringsformidling](lov/2005-06-10-41) oppheves.I [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern](lov/2015-04-10-17) gjøres følgende endringer: – – –
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+1. I [lov 10. juni 2005 nr. 44 om forsikringsvirksomhet](lov/2005-06-10-44) oppheves [§ 7-4](lov/2005-06-10-44/§7-4).
+2. [Lov 10. juni 2005 nr. 41 om forsikringsformidling](lov/2005-06-10-41) oppheves.
+3. I [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern](lov/2015-04-10-17) gjøres følgende endringer: – – –

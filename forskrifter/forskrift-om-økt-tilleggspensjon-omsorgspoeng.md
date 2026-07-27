@@ -28,7 +28,10 @@ Denne forskriften inneholder nærmere bestemmelser om når økt tilleggspensjon 
 
 ## § 2. Hovedregler
 
-Ved samordning av hel tjenestepensjon med tilleggspensjon fra folketrygden holdes økt tilleggspensjon utenfor samordningennår økningen skyldes at det etter helt avsluttet yrkesaktivitet er godskrevet pensjonspoeng for omsorgsarbeid etter [folketrygdloven § 3-16](lov/1997-02-28-19/§3-16), ognår økningen skyldes at pensjonisten etter helt uttak av tjenestepensjon har tjent opp pensjonspoeng i folketrygden i årene da han eller hun fylte 67–75 år.
+Ved samordning av hel tjenestepensjon med tilleggspensjon fra folketrygden holdes økt tilleggspensjon utenfor samordningen
+
+1. når økningen skyldes at det etter helt avsluttet yrkesaktivitet er godskrevet pensjonspoeng for omsorgsarbeid etter [folketrygdloven § 3-16](lov/1997-02-28-19/§3-16), og
+2. når økningen skyldes at pensjonisten etter helt uttak av tjenestepensjon har tjent opp pensjonspoeng i folketrygden i årene da han eller hun fylte 67–75 år.
 
 Samordningsfritak etter første ledd bokstav a gis bare når pensjonspoeng for omsorgsarbeid ble godskrevet etter at arbeidsinntekten var falt helt bort, og pensjonisten ikke senere har hatt inntektsgivende arbeid.
 
@@ -42,8 +45,28 @@ Pensjonspoeng for omsorgsarbeid etter helt avsluttet yrkesaktivitet holdes utenf
 
 ## § 4. Økt tilleggspensjon på grunn av opptjening etter fylte 67 år
 
-1. *Personer født til og med 1942*Samordningsfradraget ved fylte 70 år fastsettes etter bestemmelsene her når en pensjonist etter helt uttak av tjenestepensjon har fått økt tilleggspensjon i folketrygden på grunn av poengopptjening for årene da vedkommende fylte 67, 68 eller 69 år.Dersom pensjonisten har fratrådt med hel tjenestepensjon i det året han eller hun fylte 67 år eller tidligere, benyttes det antallet poengår som er fastsatt ved fylte 67 år. Dersom pensjonisten fratrådte med hel tjenestepensjon i det året han eller hun fylte 68 år holdes poengår da pensjonisten fylte 68 og 69 år utenfor når samordningsfradraget fastsettes. Hvis pensjonisten fratrådte i det året han eller hun fylte 69 år, holdes poengår da pensjonisten fylte 69 år utenfor når samordningsfradraget fastsettes.Dersom pensjonisten har fått endret sluttpoengtallet i folketrygden, skal sluttpoengtallet som brukes ved samordningsberegningen, fastsettes etter følgende bestemmelser:Hvis sluttpoengtallet øker, legges det sluttpoengtallet som ble fastsatt ved fylte 67 år til grunn.Hvis sluttpoengtallet blir lavere, skal det lavere pensjonspoengtallet legges til grunn.Hvis sluttpoengtallet blir lavere når samordningsfradraget i utgangspunktet er fastsatt ut fra et beregnet sluttpoengtall etter [samordningsloven § 23](lov/1957-07-06-26/§23) nr. 2 første ledd, skal sluttpoengtallet settes ned med etter bestemmelsene i samordningsforskrift nr. 16 ([forskrift 9. april 1973 nr. 9549](forskrift/1973-04-09-9549)) bokstav a andre ledd.
-2. *Personer født fra og med 1943*Samordningsfradraget fastsettes etter bestemmelsene her når en pensjonist etter helt uttak av tjenestepensjon har fått økt tilleggspensjon i folketrygden på grunn av poengopptjening for årene da vedkommende fylte 67–75 år.Dersom pensjonisten har fratrådt med hel tjenestepensjon i det året han eller hun fylte 67 år eller tidligere, benyttes det antallet poengår som er fastsatt ved fylte 67 år. Dersom pensjonisten fratrådte med hel tjenestepensjon ved en senere alder, holdes poengår for år fra og med det året pensjonisten fratrådte med hel tjenestepensjon og til og med det året pensjonisten fylte 75 år utenfor når samordningsfradraget fastsettes. Det legges til grunn samme virkningstidspunkt som for omregningen av alderspensjonen fra folketrygden. Økt tilleggspensjon i folketrygden som er opptjent før uttak av hel tjenestepensjonen, men som utbetales med virkningstidspunkt etter uttak av hel tjenestepensjon, skal likevel ikke holdes utenfor samordning.Dersom pensjonisten har fått endret sluttpoengtallet i folketrygden, skal sluttpoengtallet som brukes ved samordningsberegningen, fastsettes etter følgende bestemmelser:Hvis sluttpoengtallet øker, legges det sluttpoengtallet som ble fastsatt ved uttak av tjenestepensjonen til grunn.Hvis sluttpoengtallet blir lavere, skal det lavere pensjonspoengtallet legges til grunn.Hvis sluttpoengtallet blir lavere når samordningsfradraget i utgangspunktet er fastsatt ut fra et beregnet sluttpoengtall etter [samordningsloven § 23](lov/1957-07-06-26/§23) nr. 2 første ledd, skal sluttpoengtallet settes ned på tilsvarende måte som bestemt i samordningsforskrift nr. 16 ([forskrift 9. april 1973 nr. 9549](forskrift/1973-04-09-9549)) bokstav a andre ledd.
+1. *Personer født til og med 1942*
+
+   Samordningsfradraget ved fylte 70 år fastsettes etter bestemmelsene her når en pensjonist etter helt uttak av tjenestepensjon har fått økt tilleggspensjon i folketrygden på grunn av poengopptjening for årene da vedkommende fylte 67, 68 eller 69 år.
+
+   Dersom pensjonisten har fratrådt med hel tjenestepensjon i det året han eller hun fylte 67 år eller tidligere, benyttes det antallet poengår som er fastsatt ved fylte 67 år. Dersom pensjonisten fratrådte med hel tjenestepensjon i det året han eller hun fylte 68 år holdes poengår da pensjonisten fylte 68 og 69 år utenfor når samordningsfradraget fastsettes. Hvis pensjonisten fratrådte i det året han eller hun fylte 69 år, holdes poengår da pensjonisten fylte 69 år utenfor når samordningsfradraget fastsettes.
+
+   Dersom pensjonisten har fått endret sluttpoengtallet i folketrygden, skal sluttpoengtallet som brukes ved samordningsberegningen, fastsettes etter følgende bestemmelser:
+
+   1. Hvis sluttpoengtallet øker, legges det sluttpoengtallet som ble fastsatt ved fylte 67 år til grunn.
+   2. Hvis sluttpoengtallet blir lavere, skal det lavere pensjonspoengtallet legges til grunn.
+   3. Hvis sluttpoengtallet blir lavere når samordningsfradraget i utgangspunktet er fastsatt ut fra et beregnet sluttpoengtall etter [samordningsloven § 23](lov/1957-07-06-26/§23) nr. 2 første ledd, skal sluttpoengtallet settes ned med etter bestemmelsene i samordningsforskrift nr. 16 ([forskrift 9. april 1973 nr. 9549](forskrift/1973-04-09-9549)) bokstav a andre ledd.
+2. *Personer født fra og med 1943*
+
+   Samordningsfradraget fastsettes etter bestemmelsene her når en pensjonist etter helt uttak av tjenestepensjon har fått økt tilleggspensjon i folketrygden på grunn av poengopptjening for årene da vedkommende fylte 67–75 år.
+
+   Dersom pensjonisten har fratrådt med hel tjenestepensjon i det året han eller hun fylte 67 år eller tidligere, benyttes det antallet poengår som er fastsatt ved fylte 67 år. Dersom pensjonisten fratrådte med hel tjenestepensjon ved en senere alder, holdes poengår for år fra og med det året pensjonisten fratrådte med hel tjenestepensjon og til og med det året pensjonisten fylte 75 år utenfor når samordningsfradraget fastsettes. Det legges til grunn samme virkningstidspunkt som for omregningen av alderspensjonen fra folketrygden. Økt tilleggspensjon i folketrygden som er opptjent før uttak av hel tjenestepensjonen, men som utbetales med virkningstidspunkt etter uttak av hel tjenestepensjon, skal likevel ikke holdes utenfor samordning.
+
+   Dersom pensjonisten har fått endret sluttpoengtallet i folketrygden, skal sluttpoengtallet som brukes ved samordningsberegningen, fastsettes etter følgende bestemmelser:
+
+   1. Hvis sluttpoengtallet øker, legges det sluttpoengtallet som ble fastsatt ved uttak av tjenestepensjonen til grunn.
+   2. Hvis sluttpoengtallet blir lavere, skal det lavere pensjonspoengtallet legges til grunn.
+   3. Hvis sluttpoengtallet blir lavere når samordningsfradraget i utgangspunktet er fastsatt ut fra et beregnet sluttpoengtall etter [samordningsloven § 23](lov/1957-07-06-26/§23) nr. 2 første ledd, skal sluttpoengtallet settes ned på tilsvarende måte som bestemt i samordningsforskrift nr. 16 ([forskrift 9. april 1973 nr. 9549](forskrift/1973-04-09-9549)) bokstav a andre ledd.
 
 > Endret ved [forskrift 20 des 2011 nr. 1461](forskrift/2011-12-20-1461) (med virkning fra 1 jan 2010).
 

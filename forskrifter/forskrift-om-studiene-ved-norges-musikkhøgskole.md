@@ -15,7 +15,7 @@ xml_hash: "fc98fc3166c6eed9398747da363f44b491a2215594e48b4ce0561f998139f01f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,20 +58,67 @@ eu_basis: []
 
 ### § 3. Opptakskvoter og søknadsfrist
 
-1. Alle studier ved NMH er adgangsregulert pga. kapasitets- og ressurshensyn, jf. universitets- og [høyskoleloven § 3-7](lov/2005-04-01-15/§3-7) (5). Studieutvalget fastsetter årlig opptakskvoter for de enkelte studier og på de enkelte instrumenter. Studieutvalgets leder har fullmakt til å justere opptakskvotene dersom det blir nødvendig underveis i opptaksarbeidet.Studenter tas normalt opp til høgskolens ordinære studier på grunnlag av fastsatte opptakskrav. Også utvekslingsstudenter tas opp til høgskolens ordinære studier.
+1. Alle studier ved NMH er adgangsregulert pga. kapasitets- og ressurshensyn, jf. universitets- og [høyskoleloven § 3-7](lov/2005-04-01-15/§3-7) (5). Studieutvalget fastsetter årlig opptakskvoter for de enkelte studier og på de enkelte instrumenter. Studieutvalgets leder har fullmakt til å justere opptakskvotene dersom det blir nødvendig underveis i opptaksarbeidet.
+
+   Studenter tas normalt opp til høgskolens ordinære studier på grunnlag av fastsatte opptakskrav. Også utvekslingsstudenter tas opp til høgskolens ordinære studier.
 2. Normalt tas det opp studenter en gang i året med studiestart ved høstsemesterets begynnelse. Søknadsfrister er, så langt annet ikke er bestemt, 15. desember for opptak til bachelor- og masterstudier og 15. april for opptak til øvrige studier.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
 
 ### § 4. Opptaksgrunnlag m.m.
 
-1. *Generelt opptaksgrunnlag*For opptak til studier ved NMH kreves normalt generell studiekompetanse som fastsatt av Kunnskapsdepartementet i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning, beståtte prøver i musikkfaglige kunnskaper og ferdigheter eller andre krav som fastsatt for det enkelte studieprogram.Ved opptak til bachelorstudiene i utøving, dirigering, komposisjon og kirkemusikk og til det frie bachelorstudiet kan det, med hjemmel i § 3-6 i forskrift om opptak til høgre utdanning gjøres unntak fra kravet om generell studiekompetanse. For søkere som er yngre enn 19 år i løpet av opptaksåret skal unntak fra kravet til generell studiekompetanse ved opptak til ordinære studier bare gis ved uvanlig gode musikkfaglige kvalifikasjoner.Når det gjøres unntak fra kravet om generell studiekompetanse er det for norske søkere likevel et krav at søkeren har bestått følgende fag fra videregående skole:norsk 393 timerengelsk 140 timermatematikk 224 timernaturfag 140 timersamfunnsfag 84 timerhistorie 140 timer.Fagene er oppgitt med samlet omfang i timer (60 minutters enheter). Fagene må være bestått med karakteren 2 eller bedre. For øvrig gjelder tilleggsbestemmelsene i § 2-1 (2)–(4) i forskrift om opptak til høgre utdanning.Når det gjøres unntak fra kravet om generell studiekompetanse for utenlandske søkere er det et minimumskrav at søkeren kan dokumentere tilsvarende minimumskvalifikasjoner.Søkere med 3-årig videregående utdanning fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universitet og høyskoler i de respektive landene.For søkere fra ikke-skandinaviske land kan det gjøres unntak fra dette språkkravet for søkere til bachelorstudiene i komposisjon, kirkemusikk, utøving, dirigering og det frie bachelorstudiet. Søkere til disse studiene må likevel kunne dokumentere tilstrekkelige norskkunnskaper til å kunne følge undervisningen.Saker om unntak fra kravet til generell studiekompetanse behandles av studieutvalget dersom det foreligger tvil om hvorvidt minimumskravene er oppfylt.
-2. *Opptak på grunnlag av realkompetanse*Ved søknad om opptak på grunnlag av realkompetanse, jf. universitets- og [høyskoleloven § 3-6](lov/2005-04-01-15/§3-6) (2) og forskrift om opptak til høgre utdanning [§ 3-1](lov/2005-04-01-15/§3-1), foretas vurdering av realkompetanse slik:For opptak til bachelorstudiene i utøving, dirigering, komposisjon og kirkemusikk foretas vurdering av søkernes kompetanse på grunnlag av ordinære opptaksprøver som beskrevet for det enkelte studiumFor opptak til bachelorstudiet i musikkpedagogikk gjennomføres i tillegg til de ordinære opptaksprøver for studiet en skriftlig prøve basert på en forelagt tekst for å vurdere søkerens evne til å oppfatte en tekst og til å formulere seg skriftlig. Slik prøve gjennomføres etter de øvrige opptaksprøvene som er beskrevet for studiet.For opptak til det frie bachelorstudiet og eventuelle andre studier vurderes i det enkelte tilfelle behovet for skriftlig tilleggsprøve.
-3. *Dispensasjon fra kravet til generelt opptaksgrunnlag*Dispensasjon fra minimumskravene nevnt i nr. 1 for søkere under 25 år kan gis hvis søkeren kan dokumentere at det ikke har vært mulig, på grunn av varig sykdom, funksjonshemming eller lignende, å tilfredsstille enkelte av de kravene som er stilt, jf. § 3-2 i forskrift om opptak til høyere utdanning. Saker om dispensasjon behandles av studieutvalget.
-4. *Betinget opptak*Søkere som ikke fyller de generelle opptakskrav ved opptakstidspunktet kan gis betinget opptak fram til studiestart, forutsatt at de har dokumentert at de vil avlegge nødvendige eksamener før studiestart.Søkere til bachelorstudiene som ved studiestart fortsatt ikke fyller de generelle opptakskrav kan få utvidet betinget opptak bare dersom de tilfredsstiller kravene som er stilt i § 5-1 i forskrift om opptak til høgre utdanning.Søkere til høyere grads studier kan etter søknad til studieutvalget få utvidet betinget opptak dersom det foreligger særlige grunner.
-5. *Opptakskrav for de enkelte studier*Spesielle opptakskrav for de enkelte studier er fastsatt i studieplanene.For opptak til bachelorstudienes andre avdeling må studentenha fullført studiets første avdeling eller tilsvarende utdanningoppfylle øvrige opptakskrav fastsatt i studieplanen.For å bli tatt opp til et masterstudium må studentenoppfylle krav nevnt i [forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.oppfylle øvrige opptakskrav fastsatt i studieplanen for masterstudiet.Saker om godkjenning av annen utdanning som grunnlag for opptak til bachelorstudienes andre avdeling eller masterstudiet behandles av studieutvalget dersom det foreligger tvil om hvorvidt kravene er oppfylt.Spesielle opptakskrav for de enkelte studieprogrammene prøves ved opptaksprøver, jf. [§ 5](forskrift/2005-12-16-1559/§5).
-6. *Rangering av søkere*Søkere rangeres på grunnlag av resultatet av opptaksprøvene og/eller i forhold til andre kriterier fastsatt det enkelte studium. Det generelle opptaksgrunnlaget som beskrevet i nr. 1 og nr. 5 er minimumskrav. Dette innebærer at ordinære opptakspoeng på grunnlag av karakterer fra videregående skole o.a. ikke skal benyttes til rangering av søkere.
-7. *Begrensning i rett til opptak*Søkere som allerede har gjennomført et utøvende masterstudium ved NMH, tas normalt ikke opp til et nytt utøvende masterstudium. Tilsvarende begrensning gjelder for opptak til ulike varianter innen samme masterstudium.
+1. *Generelt opptaksgrunnlag*
+
+   1. For opptak til studier ved NMH kreves normalt generell studiekompetanse som fastsatt av Kunnskapsdepartementet i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning, beståtte prøver i musikkfaglige kunnskaper og ferdigheter eller andre krav som fastsatt for det enkelte studieprogram.
+   2. Ved opptak til bachelorstudiene i utøving, dirigering, komposisjon og kirkemusikk og til det frie bachelorstudiet kan det, med hjemmel i § 3-6 i forskrift om opptak til høgre utdanning gjøres unntak fra kravet om generell studiekompetanse. For søkere som er yngre enn 19 år i løpet av opptaksåret skal unntak fra kravet til generell studiekompetanse ved opptak til ordinære studier bare gis ved uvanlig gode musikkfaglige kvalifikasjoner.
+   3. Når det gjøres unntak fra kravet om generell studiekompetanse er det for norske søkere likevel et krav at søkeren har bestått følgende fag fra videregående skole:
+
+      - norsk 393 timer
+      - engelsk 140 timer
+      - matematikk 224 timer
+      - naturfag 140 timer
+      - samfunnsfag 84 timer
+      - historie 140 timer.
+
+      Fagene er oppgitt med samlet omfang i timer (60 minutters enheter). Fagene må være bestått med karakteren 2 eller bedre. For øvrig gjelder tilleggsbestemmelsene i § 2-1 (2)–(4) i forskrift om opptak til høgre utdanning.
+   4. Når det gjøres unntak fra kravet om generell studiekompetanse for utenlandske søkere er det et minimumskrav at søkeren kan dokumentere tilsvarende minimumskvalifikasjoner.
+   5. Søkere med 3-årig videregående utdanning fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universitet og høyskoler i de respektive landene.
+   6. For søkere fra ikke-skandinaviske land kan det gjøres unntak fra dette språkkravet for søkere til bachelorstudiene i komposisjon, kirkemusikk, utøving, dirigering og det frie bachelorstudiet. Søkere til disse studiene må likevel kunne dokumentere tilstrekkelige norskkunnskaper til å kunne følge undervisningen.
+   7. Saker om unntak fra kravet til generell studiekompetanse behandles av studieutvalget dersom det foreligger tvil om hvorvidt minimumskravene er oppfylt.
+2. *Opptak på grunnlag av realkompetanse*
+
+   Ved søknad om opptak på grunnlag av realkompetanse, jf. universitets- og [høyskoleloven § 3-6](lov/2005-04-01-15/§3-6) (2) og forskrift om opptak til høgre utdanning [§ 3-1](lov/2005-04-01-15/§3-1), foretas vurdering av realkompetanse slik:
+
+   1. For opptak til bachelorstudiene i utøving, dirigering, komposisjon og kirkemusikk foretas vurdering av søkernes kompetanse på grunnlag av ordinære opptaksprøver som beskrevet for det enkelte studium
+   2. For opptak til bachelorstudiet i musikkpedagogikk gjennomføres i tillegg til de ordinære opptaksprøver for studiet en skriftlig prøve basert på en forelagt tekst for å vurdere søkerens evne til å oppfatte en tekst og til å formulere seg skriftlig. Slik prøve gjennomføres etter de øvrige opptaksprøvene som er beskrevet for studiet.
+   3. For opptak til det frie bachelorstudiet og eventuelle andre studier vurderes i det enkelte tilfelle behovet for skriftlig tilleggsprøve.
+3. *Dispensasjon fra kravet til generelt opptaksgrunnlag*
+
+   Dispensasjon fra minimumskravene nevnt i nr. 1 for søkere under 25 år kan gis hvis søkeren kan dokumentere at det ikke har vært mulig, på grunn av varig sykdom, funksjonshemming eller lignende, å tilfredsstille enkelte av de kravene som er stilt, jf. § 3-2 i forskrift om opptak til høyere utdanning. Saker om dispensasjon behandles av studieutvalget.
+4. *Betinget opptak*
+
+   1. Søkere som ikke fyller de generelle opptakskrav ved opptakstidspunktet kan gis betinget opptak fram til studiestart, forutsatt at de har dokumentert at de vil avlegge nødvendige eksamener før studiestart.
+   2. Søkere til bachelorstudiene som ved studiestart fortsatt ikke fyller de generelle opptakskrav kan få utvidet betinget opptak bare dersom de tilfredsstiller kravene som er stilt i § 5-1 i forskrift om opptak til høgre utdanning.
+   3. Søkere til høyere grads studier kan etter søknad til studieutvalget få utvidet betinget opptak dersom det foreligger særlige grunner.
+5. *Opptakskrav for de enkelte studier*
+
+   1. Spesielle opptakskrav for de enkelte studier er fastsatt i studieplanene.
+   2. For opptak til bachelorstudienes andre avdeling må studenten
+
+      - ha fullført studiets første avdeling eller tilsvarende utdanning
+      - oppfylle øvrige opptakskrav fastsatt i studieplanen.
+   3. For å bli tatt opp til et masterstudium må studenten
+
+      - oppfylle krav nevnt i [forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.
+      - oppfylle øvrige opptakskrav fastsatt i studieplanen for masterstudiet.
+   4. Saker om godkjenning av annen utdanning som grunnlag for opptak til bachelorstudienes andre avdeling eller masterstudiet behandles av studieutvalget dersom det foreligger tvil om hvorvidt kravene er oppfylt.
+   5. Spesielle opptakskrav for de enkelte studieprogrammene prøves ved opptaksprøver, jf. [§ 5](forskrift/2005-12-16-1559/§5).
+6. *Rangering av søkere*
+
+   Søkere rangeres på grunnlag av resultatet av opptaksprøvene og/eller i forhold til andre kriterier fastsatt det enkelte studium. Det generelle opptaksgrunnlaget som beskrevet i nr. 1 og nr. 5 er minimumskrav. Dette innebærer at ordinære opptakspoeng på grunnlag av karakterer fra videregående skole o.a. ikke skal benyttes til rangering av søkere.
+7. *Begrensning i rett til opptak*
+
+   Søkere som allerede har gjennomført et utøvende masterstudium ved NMH, tas normalt ikke opp til et nytt utøvende masterstudium. Tilsvarende begrensning gjelder for opptak til ulike varianter innen samme masterstudium.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
 
@@ -95,8 +142,21 @@ Det er kun adgang til å klage over formelle feil ved avgjørelse om opptak. De 
 ### § 7. Studierett og studieprogresjon
 
 1. Opptak ved NMH gir studierett til studieprogrammet studenten er tatt opp til eller enkeltemner som studenten er tatt opp til. Studieretten gir adgang til de emnene som er spesifisert i utdanningsplanen etter den progresjonen som høgskolen har godkjent. Studieretten gjelder normalt fra 1. august ved opptak i høstsemesteret og 1. januar ved opptak i vårsemesteret.
-2. Studieretten til studieprogrammet studenten er tatt opp til, opphører nårstudenten oppfyller kravene for tildeling av vitnemål for fullført studieprogramstudenten selv bekrefter at han/hun trekker seg fra studieprogrammet før det er fullførtstudenten har brukt opp sine forsøk til eksamen eller praksisperiode i minst ett emne, jf. [§ 24](forskrift/2005-12-16-1559/§24)studenten fratas sin studierett iht. [§ 7](forskrift/2005-12-16-1559/§7) nr. 3studenten ikke betaler semesteravgift eller bekrefter sin utdanningsplan eller ikke registrerer seg innen gitte fristerstudenten ikke lenger tilfredsstiller faglige krav for studiet iht. [§ 9](forskrift/2005-12-16-1559/§9) nr. 4.
-3. En student som på grunn av ikke beståtte emner og/eller permisjoner, herunder også sykepermisjoner, er mer enn to år forsinket i forhold til den normale studieprogresjon, mister sin studierett. For bachelorstudiene gjelder regelen for hver avdeling.En student som ved avslutning av 1. studieår i bachelorstudiene ikke har fått godkjent obligatoriske aktiviteter og/eller ikke har bestått eksamen i tre eller flere obligatoriske emner, må avbryte studiet. Avbrutt studium kan gjenopptas når eksamen er bestått, innenfor den toårsgrense som følger av første ledd.I bachelorstudiene må alle eksamener i første avdeling være bestått før studenten kan påbegynne andre avdeling. Studenter som ved avslutning av første avdeling mangler bestått vurdering i inntil ett emne, kan etter søknad til studieutvalget gis adgang til å begynne i andre avdeling. Dette gjelder normalt ikke eksamen i hovedinstrument/hovedområde. Dersom studenten ikke består ny eksamen i løpet av første studieår i andre avdeling, må studiet avbrytes. Når eksamen er bestått, kan avbrutt studium gjenopptas fra neste høstsemester, innenfor den toårsgrense som følger av første ledd.Studieutvalget kan etter søknad gi dispensasjon fra disse bestemmelsene.
+2. Studieretten til studieprogrammet studenten er tatt opp til, opphører når
+
+   - studenten oppfyller kravene for tildeling av vitnemål for fullført studieprogram
+   - studenten selv bekrefter at han/hun trekker seg fra studieprogrammet før det er fullført
+   - studenten har brukt opp sine forsøk til eksamen eller praksisperiode i minst ett emne, jf. [§ 24](forskrift/2005-12-16-1559/§24)
+   - studenten fratas sin studierett iht. [§ 7](forskrift/2005-12-16-1559/§7) nr. 3
+   - studenten ikke betaler semesteravgift eller bekrefter sin utdanningsplan eller ikke registrerer seg innen gitte frister
+   - studenten ikke lenger tilfredsstiller faglige krav for studiet iht. [§ 9](forskrift/2005-12-16-1559/§9) nr. 4.
+3. En student som på grunn av ikke beståtte emner og/eller permisjoner, herunder også sykepermisjoner, er mer enn to år forsinket i forhold til den normale studieprogresjon, mister sin studierett. For bachelorstudiene gjelder regelen for hver avdeling.
+
+   En student som ved avslutning av 1. studieår i bachelorstudiene ikke har fått godkjent obligatoriske aktiviteter og/eller ikke har bestått eksamen i tre eller flere obligatoriske emner, må avbryte studiet. Avbrutt studium kan gjenopptas når eksamen er bestått, innenfor den toårsgrense som følger av første ledd.
+
+   I bachelorstudiene må alle eksamener i første avdeling være bestått før studenten kan påbegynne andre avdeling. Studenter som ved avslutning av første avdeling mangler bestått vurdering i inntil ett emne, kan etter søknad til studieutvalget gis adgang til å begynne i andre avdeling. Dette gjelder normalt ikke eksamen i hovedinstrument/hovedområde. Dersom studenten ikke består ny eksamen i løpet av første studieår i andre avdeling, må studiet avbrytes. Når eksamen er bestått, kan avbrutt studium gjenopptas fra neste høstsemester, innenfor den toårsgrense som følger av første ledd.
+
+   Studieutvalget kan etter søknad gi dispensasjon fra disse bestemmelsene.
 4. En student som er tatt opp til et studieprogram og som følger dette med normal studieprogresjon har krav på at programmets faglige mål, nivå og struktur ikke endres i den tiden han/hun har studierett til programmet. Studenten må likevel akseptere at det kan bli endringer i programmets emner og oppbygging så lenge dette ikke medfører at studenten blir forsinket i sin studieprogresjon.
 5. En student kan tas opp til studier/emner med en maksimal normert studiebelastning på inntil 70 studiepoeng pr studieår. Studieutvalget kan, etter særskilt og begrunnet søknad gi dispensasjon for opptak til større studiebelastning enn dette. En student som er tatt opp til et studieprogram eller enkeltemner ved NMH, har likevel rett til å melde seg til vurdering i andre emner hvis han/hun fyller kravene til det. Studenten har også rett til å følge undervisning i emner utenfor studieprogrammet dersom adgangen til emnene ikke er begrenset.
 
@@ -104,7 +164,12 @@ Det er kun adgang til å klage over formelle feil ved avgjørelse om opptak. De 
 
 ### § 8. Registrering
 
-Studenter med studierett ved NMH plikter å betale semesteravgift og registrere seg som student ved NMH hvert semester innen de frister direktøren fastsetter. Innreisende utvekslingsstudenter skal som hovedregel ikke betale semesteravgift. Registrering gir adgang til de ressursene NMH tilbyr for at studenten skal kunne gjennomføre sine emner det semesteret. Studenter skal ved registreringen bekrefte opplysningene i utdanningsplanen for inneværende semester omhvilke emner studenten skal følge undervisning ihvilke emner studenten melder seg til vurdering ieventuelle andre aktiviteter som studenten skal delta iandre opplysninger som kan justeres og har betydning for progresjonen i eget studium.
+Studenter med studierett ved NMH plikter å betale semesteravgift og registrere seg som student ved NMH hvert semester innen de frister direktøren fastsetter. Innreisende utvekslingsstudenter skal som hovedregel ikke betale semesteravgift. Registrering gir adgang til de ressursene NMH tilbyr for at studenten skal kunne gjennomføre sine emner det semesteret. Studenter skal ved registreringen bekrefte opplysningene i utdanningsplanen for inneværende semester om
+
+- hvilke emner studenten skal følge undervisning i
+- hvilke emner studenten melder seg til vurdering i
+- eventuelle andre aktiviteter som studenten skal delta i
+- andre opplysninger som kan justeres og har betydning for progresjonen i eget studium.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
 
@@ -140,7 +205,17 @@ Styret oppretter og nedlegger studieprogram.
 ### § 13. Studieplan
 
 1. Studieutvalget fastsetter studieplaner for alle studier som tilbys ved NMH.
-2. En studieplan skal fastsette:Opptakskrav og eventuelle andre forkunnskapskrav for studiet.Omfang av studiet og om det normalt skal gjennomføres på heltid eller deltid.Studiets læringsmål og beskrivelse av faglig innhold, herunder emnestruktur og emnenes omfang i studiepoeng.Hvilke emner som er obligatoriske, valgfrie innenfor gitt faglig ramme eller helt valgfrie i studiet.Beskrivelse av hvert enkelt emne som inngår i studiet, herunder beskrivelse av eventuelle forkunnskapskrav, læringsmål, innhold, organisering, eventuelle arbeidskrav, vurderingsordning og karakteruttrykk.Bestemmelser om eventuelle obligatoriske aktiviteter, praksis og lignende.Eksamensordning, prøve- og vurderingsform, herunder hvilke vurderinger som kommer på vitnemålet eller som inngår i beregningsgrunnlaget for en karakter som kommer på vitnemålet og retningslinjer for ny eksamen.Eventuelle hjelpemidler ved avsluttende eksamen.Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
+2. En studieplan skal fastsette:
+
+   - Opptakskrav og eventuelle andre forkunnskapskrav for studiet.
+   - Omfang av studiet og om det normalt skal gjennomføres på heltid eller deltid.
+   - Studiets læringsmål og beskrivelse av faglig innhold, herunder emnestruktur og emnenes omfang i studiepoeng.
+   - Hvilke emner som er obligatoriske, valgfrie innenfor gitt faglig ramme eller helt valgfrie i studiet.
+   - Beskrivelse av hvert enkelt emne som inngår i studiet, herunder beskrivelse av eventuelle forkunnskapskrav, læringsmål, innhold, organisering, eventuelle arbeidskrav, vurderingsordning og karakteruttrykk.
+   - Bestemmelser om eventuelle obligatoriske aktiviteter, praksis og lignende.
+   - Eksamensordning, prøve- og vurderingsform, herunder hvilke vurderinger som kommer på vitnemålet eller som inngår i beregningsgrunnlaget for en karakter som kommer på vitnemålet og retningslinjer for ny eksamen.
+   - Eventuelle hjelpemidler ved avsluttende eksamen.
+   - Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
 3. I en studieplan for et masterstudium skal det fastsettes nærmere regler om det selvstendige arbeidet, inkludert omfang, vurderingsform og om arbeidet kan/skal utføres individuelt eller som gruppearbeid.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
@@ -188,7 +263,17 @@ Studieutvalget avgjør søknader fra enkeltpersoner om godkjenning av annen høy
 
 ### § 20. Eksamensformer
 
-Eksamen eller prøve kan gjennomføres somskriftlig eksamen/prøve, som skoleeksamen/-prøve eller hjemmeeksamen/-prøvemuntlig eksamen/prøveutøvende eller annen praktisk eksamen/prøvegjennomføring av obligatorisk praksismappevurderinggjennomføring av obligatorisk undervisningutførte oppgaver, prosjektarbeid, praksisrapport, seminararbeid, rapporter eller annen dokumentasjonkombinasjon av ovennevnte eksamensformerandre vurderingsformer godkjent av studieutvalget.
+Eksamen eller prøve kan gjennomføres som
+
+- skriftlig eksamen/prøve, som skoleeksamen/-prøve eller hjemmeeksamen/-prøve
+- muntlig eksamen/prøve
+- utøvende eller annen praktisk eksamen/prøve
+- gjennomføring av obligatorisk praksis
+- mappevurdering
+- gjennomføring av obligatorisk undervisning
+- utførte oppgaver, prosjektarbeid, praksisrapport, seminararbeid, rapporter eller annen dokumentasjon
+- kombinasjon av ovennevnte eksamensformer
+- andre vurderingsformer godkjent av studieutvalget.
 
 Eksamen eller prøve kan gjennomføres individuelt eller gruppevis. Hvilke(n) eksamens- eller prøveform(er) som benyttes i det enkelte emne framgår av emnebeskrivelsen.
 
@@ -218,8 +303,15 @@ Direktøren kan etter søknad i særlige tilfeller gi dispensasjon fra oppmeldin
 
 ### § 23. Fravær fra og utsettelse av eksamen
 
-1. *Fravær fra eksamen*Det er ikke anledning til å trekke seg fra eksamen, obligatoriske praksisstudier, praksisperioder, praksisarbeider, oppgaver eller prøver uten gyldig grunn. Med gyldig grunn menes sykefravær dokumentert med legeattest, jf. [§ 32](forskrift/2005-12-16-1559/§32), eller annet dokumentert tvingende fravær. Med annet dokumentert tvingende fravær menes fravær grunnet ulykker, alvorlig sykdom eller dødsfall i nær familie. Fraværet må meldes høgskolen umiddelbart.Studieutvalget avgjør i tvilstilfeller om fraværet kan godkjennes som gyldig fravær.Fravær fra eksamen, obligatoriske praksisstudier, praksisperioder og praksisarbeider eller innlevering av oppgaver etter innleveringsfristen uten gyldig grunn blir registrert som «ikke møtt». «Ikke møtt» teller som et eksamensforsøk.
-2. Forlengelse av innleveringsfrist for masteroppgaveVed sykdom dokumentert med legeattest kan innleveringsfristen for masteroppgaver forlenges med inntil 2 semester. Dersom masteroppgaven av andre tvingende årsaker ikke kan innleveres innen fristens utløp, kan det søkes om forlengelse av innleveringsfristen på opptil 3 måneder. Søknaden må foreligge senest 6 uker før oppgavens innleveringsfrist.Studieutvalget avgjør i tvilstilfeller om det skal innvilges forlengelse av innleveringsfrist.
+1. *Fravær fra eksamen*
+
+   1. Det er ikke anledning til å trekke seg fra eksamen, obligatoriske praksisstudier, praksisperioder, praksisarbeider, oppgaver eller prøver uten gyldig grunn. Med gyldig grunn menes sykefravær dokumentert med legeattest, jf. [§ 32](forskrift/2005-12-16-1559/§32), eller annet dokumentert tvingende fravær. Med annet dokumentert tvingende fravær menes fravær grunnet ulykker, alvorlig sykdom eller dødsfall i nær familie. Fraværet må meldes høgskolen umiddelbart.
+   2. Studieutvalget avgjør i tvilstilfeller om fraværet kan godkjennes som gyldig fravær.
+   3. Fravær fra eksamen, obligatoriske praksisstudier, praksisperioder og praksisarbeider eller innlevering av oppgaver etter innleveringsfristen uten gyldig grunn blir registrert som «ikke møtt». «Ikke møtt» teller som et eksamensforsøk.
+2. Forlengelse av innleveringsfrist for masteroppgave
+
+   1. Ved sykdom dokumentert med legeattest kan innleveringsfristen for masteroppgaver forlenges med inntil 2 semester. Dersom masteroppgaven av andre tvingende årsaker ikke kan innleveres innen fristens utløp, kan det søkes om forlengelse av innleveringsfristen på opptil 3 måneder. Søknaden må foreligge senest 6 uker før oppgavens innleveringsfrist.
+   2. Studieutvalget avgjør i tvilstilfeller om det skal innvilges forlengelse av innleveringsfrist.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [10 juni 2011 nr. 670](forskrift/2011-06-10-670) (i kraft 1 aug 2011).
 
@@ -319,7 +411,12 @@ Hvilke hjelpemidler som tillates brukt ved den enkelte eksamen skal være oppgit
 
 ### § 35. Vurdering – karakterskalaer
 
-1. Følgende karakterskalaer brukes:graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter. F er stryk.bestått eller ikke bestått.Godkjent eller ikke godkjent benyttes som uttrykk ved vurdering av om obligatorisk undervisning, innføringskurs og lignende er gjennomført, der det ikke skal gjøres en vurdering av studentens faglige nivå.
+1. Følgende karakterskalaer brukes:
+
+   - graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter. F er stryk.
+   - bestått eller ikke bestått.
+
+   Godkjent eller ikke godkjent benyttes som uttrykk ved vurdering av om obligatorisk undervisning, innføringskurs og lignende er gjennomført, der det ikke skal gjøres en vurdering av studentens faglige nivå.
 2. Det framgår av den enkelte emnebeskrivelse hvilken karakterskala som skal benyttes.
 3. Regler for beregning av endelig karakter for eksamen som består av flere deler skal framgå av emnebeskrivelsen. Alle deler av eksamen må være bestått for at slik sammensatt eksamen skal være bestått.
 4. Kandidater som leverer blank besvarelse, eller som trekker seg under eksamen uten gyldig grunn, får registrert strykkarakter.
@@ -330,9 +427,13 @@ Hvilke hjelpemidler som tillates brukt ved den enkelte eksamen skal være oppgit
 ### § 36. Sensur
 
 1. Sensorer oppnevnes av studieutvalget.
-2. Ved muntlig, skriftlig eller utøvende/praktisk eksamen samt ved vurdering av prosjektarbeid, porteføljeeksamen og andre typer skriftlige eksamensarbeider skal vurderingen foretas av minst to sensorer. Ved vurdering av muntlig eller utøvende/praktisk eksamen skal normalt en av sensorene være studentens faglærer.Ved vurdering av kandidatenes selvstendige arbeid i høyere grads studier skal det være en eksamenskommisjon med minst to sensorer hvorav minst en ekstern.
+2. Ved muntlig, skriftlig eller utøvende/praktisk eksamen samt ved vurdering av prosjektarbeid, porteføljeeksamen og andre typer skriftlige eksamensarbeider skal vurderingen foretas av minst to sensorer. Ved vurdering av muntlig eller utøvende/praktisk eksamen skal normalt en av sensorene være studentens faglærer.
+
+   Ved vurdering av kandidatenes selvstendige arbeid i høyere grads studier skal det være en eksamenskommisjon med minst to sensorer hvorav minst en ekstern.
 3. Ekstern sensor må ikke ha noe ansettelsesforhold ved NMH i det aktuelle studieåret og bør normalt ikke ha annen, nær profesjonell tilknytning til faglærere på NMH innen samme emne eller instrument. Ekstern sensor skal normalt ikke benyttes sammenhengende i mer enn 3 år.
-4. Ved ny vurdering etter [§ 39](forskrift/2005-12-16-1559/§39) eller [§ 40](forskrift/2005-12-16-1559/§40) skal minst en av sensorene være ekstern.Ved vurdering av ny muntlig eller utøvende/praktisk eksamen skal minst en av sensorene ikke tidligere ha evaluert vedkommende kandidat i emnet.
+4. Ved ny vurdering etter [§ 39](forskrift/2005-12-16-1559/§39) eller [§ 40](forskrift/2005-12-16-1559/§40) skal minst en av sensorene være ekstern.
+
+   Ved vurdering av ny muntlig eller utøvende/praktisk eksamen skal minst en av sensorene ikke tidligere ha evaluert vedkommende kandidat i emnet.
 5. Sensuren skal foreligge innen tre uker etter eksamen hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Unntatt fra dette er selvstendig arbeid av skriftlig art på høyere grads nivå, der sensurfristen er seks uker.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [10 juni 2011 nr. 670](forskrift/2011-06-10-670) (i kraft 1 aug 2011), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
@@ -399,10 +500,38 @@ Studenter som er tatt opp til den toårige pianostemmerutdanningen må ha bestå
 ### § 45. Vitnemål
 
 1. Vitnemål utstedes ved fullført grad eller fullført utdanning. Vitnemålet skal gi opplysninger om hvilket semester og år graden/utdanningen er fullført. Vitnemål utstedes bare én gang.
-2. For oppnådd bachelorgrad av 240 studiepoengs omfang angis graden som:*Fullført studieprogram**Gradsbetegnelse*Bachelorstudiet i utøvingBachelor i utøvingBachelorstudiet i dirigeringBachelor i dirigeringBachelorstudiet i komposisjonBachelor i komposisjonBachelorstudiet i kirkemusikkBachelor i kirkemusikkBachelorstudiet i musikkpedagogikkBachelor i musikkpedagogikkDet frie bachelorstudietBachelor i *<faglig fordypning av minst 80 studiepoengs omfang>*, jf. [§ 42](forskrift/2005-12-16-1559/§42)I tillegg skal tittel på studieprogrammet som er fullført fremgå på vitnemålet. For bachelorstudiet i utøving skal også studieretning fremgå.
+2. For oppnådd bachelorgrad av 240 studiepoengs omfang angis graden som:
+
+   | *Fullført studieprogram* | *Gradsbetegnelse* |
+   | --- | --- |
+   | Bachelorstudiet i utøving | Bachelor i utøving |
+   | Bachelorstudiet i dirigering | Bachelor i dirigering |
+   | Bachelorstudiet i komposisjon | Bachelor i komposisjon |
+   | Bachelorstudiet i kirkemusikk | Bachelor i kirkemusikk |
+   | Bachelorstudiet i musikkpedagogikk | Bachelor i musikkpedagogikk |
+   | Det frie bachelorstudiet | Bachelor i *<faglig fordypning av minst 80 studiepoengs omfang>*, jf. [§ 42](forskrift/2005-12-16-1559/§42) |
+
+   I tillegg skal tittel på studieprogrammet som er fullført fremgå på vitnemålet. For bachelorstudiet i utøving skal også studieretning fremgå.
 3. For oppnådd fritt sammensatt bachelorgrad av 180 studiepoengs omfang angis graden som Bachelor i fritt sammensatte fag.
-4. For oppnådd mastergrad angis graden som:*Fullført studieprogram**Gradsbetegnelse*Diplomstudiet i utøvingMaster i utøvingMasterstudiet i utøvingMaster i utøvingMasterstudiet i komposisjonMaster i komposisjonMasterstudiet i dirigeringMaster i dirigeringMasterstudiet i musikkteoriMaster i musikkteoriMasterstudiet i kirkemusikkMaster i kirkemusikkMasterstudiet i musikkterapiMaster i musikkterapiMasterstudiet i musikkpedagogikkMaster i musikkpedagogikkI tillegg skal tittel på studieprogrammet som er fullført fremgå på vitnemålet. For masterstudiene i dirigering og utøving skal også studieretning fremgå.
-5. For oppnådd høgskolekandidatgrad angis graden som:*Fullført studieprogram**Gradsbetegnelse*2-årig pianostemmerutdanningHøgskolekandidat
+4. For oppnådd mastergrad angis graden som:
+
+   | *Fullført studieprogram* | *Gradsbetegnelse* |
+   | --- | --- |
+   | Diplomstudiet i utøving | Master i utøving |
+   | Masterstudiet i utøving | Master i utøving |
+   | Masterstudiet i komposisjon | Master i komposisjon |
+   | Masterstudiet i dirigering | Master i dirigering |
+   | Masterstudiet i musikkteori | Master i musikkteori |
+   | Masterstudiet i kirkemusikk | Master i kirkemusikk |
+   | Masterstudiet i musikkterapi | Master i musikkterapi |
+   | Masterstudiet i musikkpedagogikk | Master i musikkpedagogikk |
+
+   I tillegg skal tittel på studieprogrammet som er fullført fremgå på vitnemålet. For masterstudiene i dirigering og utøving skal også studieretning fremgå.
+5. For oppnådd høgskolekandidatgrad angis graden som:
+
+   | *Fullført studieprogram* | *Gradsbetegnelse* |
+   | --- | --- |
+   | 2-årig pianostemmerutdanning | Høgskolekandidat |
 6. Vitnemål utstedes på norsk. Et eget vitnemålstillegg, Diploma Supplement, gir en nærmere beskrivelse på engelsk av kandidatens utdanning og av det norske utdanningssystemet.
 
 > Endret ved [forskrifter 5 juni 2009 nr. 976](forskrift/2009-06-05-976) (i kraft 1 aug 2009), [11 juni 2020 nr. 1472](forskrift/2020-06-11-1472) (i kraft 1 aug 2020).
@@ -424,4 +553,6 @@ Studieutvalget kan gi utfyllende regler til forskriften.
 
 ### § 48. Ikrafttredelse
 
-Forskriften trer i kraft fra og med 1. januar 2006.Fra samme tid oppheves: [Forskrift 24. juni 2003 nr. 949](forskrift/2003-06-24-949) om studiene ved Norges musikkhøgskole, fastsatt av NMHs styre.
+Forskriften trer i kraft fra og med 1. januar 2006.
+
+- Fra samme tid oppheves: [Forskrift 24. juni 2003 nr. 949](forskrift/2003-06-24-949) om studiene ved Norges musikkhøgskole, fastsatt av NMHs styre.

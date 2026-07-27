@@ -15,7 +15,7 @@ xml_hash: "f57c7fe008d1a3031b212aa087d860459c6f0f3bc32fd80d0b03af5ffaa93dbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,30 @@ Forskriften gjelder for petroleumsvirksomhet til havs på norsk kontinentalsokke
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Innretning:* installasjoner, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel.*Operatør:* den som på rettighetshavers vegne forestår den daglige ledelse av virksomheten.*Petroleumsvirksomhet:* all virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.*Energibærer:* medium som kan lagre eller transportere energi for bruk.*Biomasse:* den biologisk nedbrytbare delen av produkter, avfall og rester av biologisk opprinnelse fra jordbruk, skogbruk, fiske, akvakultur og tilhørende næringer, samt den biologisk nedbrytbare delen av avfall av biologisk opprinnelse.*Fornybare drivstoff av ikke-biologisk opprinnelse:* flytende eller gassformige drivstoff som brukes i transportsektoren, med unntak av biodrivstoff eller biogass, der energiinnholdet kommer fra andre fornybare kilder enn biomasse.*Drivstoff basert på gjenvunnet karbon:* flytende og gassformige drivstoff framstilt av strømmen av flytende eller fast avfall av ikke-fornybar opprinnelse som ikke er egnet for materialutnytting i samsvar med artikkel 4 i direktiv [2008/98/EF](eu/32008l0098), eller av avgass fra avfallsbehandling og eksos av ikke-fornybar opprinnelse som produseres som en uunngåelig og utilsiktet følge av produksjonsprosessen i industrianlegg.*Lavkarbon hydrogen:* hydrogen hvor energiinnholdet stammer fra ikke-fornybare kilder, og som oppfyller krav til reduksjon av klimagassutslipp i [§ 6](forskrift/2026-05-12-793/§6).*Lavkarbon gass:* delen av gassformige drivstoff som inngår i drivstoff basert på gjenvunnet karbon, lavkarbon hydrogen og syntetisk gassformige drivstoff, hvor energiinnholdet er avledet fra lavkarbon hydrogen.*Drivstoff basert på lavkarbon hydrogen:* syntetiske gassformige og flytende drivstoff hvor energiinnholdet er avledet fra lavkarbon hydrogen*Biogass:* gassformig brensel framstilt av biomasse.*Biodrivstoff:* flytende drivstoff til transport, framstilt av biomasse.*Bunkringssted:* det siste leddet i forsyningskjeden av drivstoff til offshoreskip*Klimagassintensitet:* utslipp av klimagasser per energienhet forbrukt om bord på skip.
+I denne forskriften menes med:
+
+1. *Innretning:* installasjoner, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel.
+2. *Operatør:* den som på rettighetshavers vegne forestår den daglige ledelse av virksomheten.
+3. *Petroleumsvirksomhet:* all virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.
+4. *Energibærer:* medium som kan lagre eller transportere energi for bruk.
+5. *Biomasse:* den biologisk nedbrytbare delen av produkter, avfall og rester av biologisk opprinnelse fra jordbruk, skogbruk, fiske, akvakultur og tilhørende næringer, samt den biologisk nedbrytbare delen av avfall av biologisk opprinnelse.
+6. *Fornybare drivstoff av ikke-biologisk opprinnelse:* flytende eller gassformige drivstoff som brukes i transportsektoren, med unntak av biodrivstoff eller biogass, der energiinnholdet kommer fra andre fornybare kilder enn biomasse.
+7. *Drivstoff basert på gjenvunnet karbon:* flytende og gassformige drivstoff framstilt av strømmen av flytende eller fast avfall av ikke-fornybar opprinnelse som ikke er egnet for materialutnytting i samsvar med artikkel 4 i direktiv [2008/98/EF](eu/32008l0098), eller av avgass fra avfallsbehandling og eksos av ikke-fornybar opprinnelse som produseres som en uunngåelig og utilsiktet følge av produksjonsprosessen i industrianlegg.
+8. *Lavkarbon hydrogen:* hydrogen hvor energiinnholdet stammer fra ikke-fornybare kilder, og som oppfyller krav til reduksjon av klimagassutslipp i [§ 6](forskrift/2026-05-12-793/§6).
+9. *Lavkarbon gass:* delen av gassformige drivstoff som inngår i drivstoff basert på gjenvunnet karbon, lavkarbon hydrogen og syntetisk gassformige drivstoff, hvor energiinnholdet er avledet fra lavkarbon hydrogen.
+10. *Drivstoff basert på lavkarbon hydrogen:* syntetiske gassformige og flytende drivstoff hvor energiinnholdet er avledet fra lavkarbon hydrogen
+11. *Biogass:* gassformig brensel framstilt av biomasse.
+12. *Biodrivstoff:* flytende drivstoff til transport, framstilt av biomasse.
+13. *Bunkringssted:* det siste leddet i forsyningskjeden av drivstoff til offshoreskip
+14. *Klimagassintensitet:* utslipp av klimagasser per energienhet forbrukt om bord på skip.
 
 ## § 4. Krav til klimagassintensitet for skip som brukes i forbindelse med petroleumsvirksomhet
 
-Operatøren skal redusere klimagassintensiteten i samsvar med [§ 5](forskrift/2026-05-12-793/§5). Kravet gjelder for den samlede energibruken til alle skip som på vegne av operatøren utfører følgende aktiviteter i forbindelse med petroleumsvirksomhet:frakt av forråd, materialer, personell og utstyrinstallasjons-, drifts- og avslutningsaktiviteter, herunder ankerhåndtering, sleping og rør- og kabelleggingoppgaver i forbindelse med beredskap rundt innretninger.
+Operatøren skal redusere klimagassintensiteten i samsvar med [§ 5](forskrift/2026-05-12-793/§5). Kravet gjelder for den samlede energibruken til alle skip som på vegne av operatøren utfører følgende aktiviteter i forbindelse med petroleumsvirksomhet:
+
+1. frakt av forråd, materialer, personell og utstyr
+2. installasjons-, drifts- og avslutningsaktiviteter, herunder ankerhåndtering, sleping og rør- og kabellegging
+3. oppgaver i forbindelse med beredskap rundt innretninger.
 
 Unntatt fra kravet i første ledd er energibruken til skip som på vegne av operatøren utfører aktiviteter kortere enn en samlet periode på 30 dager i løpet av en oppfyllelsesperiode, jf. [§ 5 første ledd](forskrift/2026-05-12-793/§5/ledd/1).
 
@@ -44,7 +63,12 @@ Operatøren kan oppfylle kravet i første ledd i samarbeid med andre operatører
 
 ## § 5. Innhold i kravet til klimagassintensitet
 
-Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet, jf. [§ 4 første ledd](forskrift/2026-05-12-793/§4/ledd/1), skal innenfor følgende treårsperioder være redusert med minimum10 prosent fra 1. januar 2029 til 31. desember 203115 prosent fra 1. januar 2032 til 31. desember 203420 prosent fra 1. januar 2035 til 31. desember 203740 prosent fra 1. januar 2038 til 31. desember 2040.
+Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet, jf. [§ 4 første ledd](forskrift/2026-05-12-793/§4/ledd/1), skal innenfor følgende treårsperioder være redusert med minimum
+
+- 10 prosent fra 1. januar 2029 til 31. desember 2031
+- 15 prosent fra 1. januar 2032 til 31. desember 2034
+- 20 prosent fra 1. januar 2035 til 31. desember 2037
+- 40 prosent fra 1. januar 2038 til 31. desember 2040.
 
 Reduksjon i klimagassintensitet gjelder i forhold til referanseverdien 91,16 gram CO2-ekvivalenter per MJ. Klimagassintensiteten skal beregnes i henhold til metoden i [vedlegg I](forskrift/2026-05-12-793/vedleggI) til denne forskriften, og basert på standardverdier for utslipp angitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII) til denne forskriften.
 
@@ -114,21 +138,31 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg I. Formler for beregning av klimagassintensitet
 
-Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet skal beregnes med følgende formel: $$\\frac{U}{E} = \\frac{u_{WtT} + u_{TtW}}{E} + C $$
+Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet skal beregnes med følgende formel:
+
+$$\\frac{U}{E} = \\frac{u_{WtT} + u_{TtW}}{E} + C $$
 
 I denne formelen inngår uWtT, (oppstrømsutslipp), uTtW (nedstrømsutslipp) og E, (energibruk). C er klimagassintensitet for fangst og -lagring av CO2 fra forbrenning av drivstoff på skip som brukes i forbindelse med petroleumsvirksomhet.
 
-Oppstrømsutslipp (WtT; fra kilde til tank) skal beregnes med følgende formel: $$ u_{WtT} = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot CO_2ekv_{WtT,i} $$
+Oppstrømsutslipp (WtT; fra kilde til tank) skal beregnes med følgende formel:
+
+$$ u_{WtT} = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot CO_2ekv_{WtT,i} $$
 
 Mi og NBVi er henholdsvis massen og nedre brennverdi av hvert drivstoff, slik at Mi∙NBVi er energimengden brukt av hvert drivstoff i. Standardverdier for NBVi og \\( CO_2ekv_{WtT,i}\\), i er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII).
 
-Nedstrømsutslipp (TtW; fra tank til propell) fra bruk av drivstoff i på drivstoffomformer j på skipet, summert over alle i og j, skal beregnes med følgende formel: $$ u_{TtW} = \\sum_{drivstoff i} \\sum_{motor j} M_{i,j} \\cdot \\left[\\left(1 - C_{slip j}\\right) \\cdot CO_2ekv_{\\cdot TtW,i,j} + C_{slip,j} \\cdot GWP_{CH4}\\right]_i$$
+Nedstrømsutslipp (TtW; fra tank til propell) fra bruk av drivstoff i på drivstoffomformer j på skipet, summert over alle i og j, skal beregnes med følgende formel:
 
-Her er: $$ CO_2ekv_{TtW,i,j} = C_{f CO2} \\cdot GWP_{CO2} + C_{f CH4} \\cdot GWP_{CH4} + C_{f N2O} \\cdot GWP_{N2O}$$
+$$ u_{TtW} = \\sum_{drivstoff i} \\sum_{motor j} M_{i,j} \\cdot \\left[\\left(1 - C_{slip j}\\right) \\cdot CO_2ekv_{\\cdot TtW,i,j} + C_{slip,j} \\cdot GWP_{CH4}\\right]_i$$
+
+Her er:
+
+$$ CO_2ekv_{TtW,i,j} = C_{f CO2} \\cdot GWP_{CO2} + C_{f CH4} \\cdot GWP_{CH4} + C_{f N2O} \\cdot GWP_{N2O}$$
 
 Standardverdier for \\( C_{slip j}\\) (%), \\(C_{f CO2}\\) , \\(C_{f CH4}\\) og \\( C_{f N2O}\\) er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII). Verdier for \\(GWP_{CO2}\\), \\(GWP_{CH4}\\) og \\(GWP_{N2O}\\) er definert i del C nr. 4 i vedlegg V til direktiv [(EU) 2018/2001](eu/32018l2001).
 
-Energibruken summert for alle drivstoff i og for elektrisitet skal beregnes med følgende formel: $$E = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot RWD_i + \\sum_k E_k \\cdot RWD_i$$
+Energibruken summert for alle drivstoff i og for elektrisitet skal beregnes med følgende formel:
+
+$$E = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot RWD_i + \\sum_k E_k \\cdot RWD_i$$
 
 Ek er elektrisitet levert fra alle tilknytningspunkt k. For elektrisitet og drivstoff som er fornybart drivstoff av ikke-biologisk opprinnelse, lavkarbon hydrogen eller drivstoff basert på lavkarbon hydrogen, er RWDi lik 2 i perioden fra 1. januar 2029 til 31. desember 2033, ellers er RWDi lik 1.
 
@@ -167,7 +201,14 @@ Ek er elektrisitet levert fra alle tilknytningspunkt k. For elektrisitet og driv
 | Forbrenningsmotor | 0 | N/A | SM | N/A |  |  |  |  |
 | Strøm | Strøm | – | 0 | Tilknytning til strømnett eller annen utslippsfri energikilde | – | – | – | – |
 
-I tabellen over gjelder:Verdiene Cf CO2,Cf CH4 og Cf N2O har enhet gram per gram drivstoffSM betyr at verdier skal målesN/A betyr at verdi ikke er tilgjengeligStrek (-) betyr ikke relevantDF MS og SS betyr kombinasjonsdrivstoffmotor (dual fuel) med henholdsvis middels hastighet (medium speed) og lav hastighet (slow speed)Verdier for E er fastsatt med metodene definert i del C i vedlegg V og i del B i vedlegg VI til direktiv [(EU) 2018/2001](eu/32018l2001) (fornybardirektivet).
+I tabellen over gjelder:
+
+- Verdiene Cf CO2,Cf CH4 og Cf N2O har enhet gram per gram drivstoff
+- SM betyr at verdier skal måles
+- N/A betyr at verdi ikke er tilgjengelig
+- Strek (-) betyr ikke relevant
+- DF MS og SS betyr kombinasjonsdrivstoffmotor (dual fuel) med henholdsvis middels hastighet (medium speed) og lav hastighet (slow speed)
+- Verdier for E er fastsatt med metodene definert i del C i vedlegg V og i del B i vedlegg VI til direktiv [(EU) 2018/2001](eu/32018l2001) (fornybardirektivet).
 
 For lavkarbon hydrogen og lavkarbon gass skal WtT-verdier beregnes i henhold til direktiv [(EU) 2024/1788](eu/32024l1788) og relevante rettsakter tilknyttet direktivet.
 
@@ -175,6 +216,18 @@ Dersom det i en celle står SM eller N/A, med mindre det er påvist en verdi ser
 
 ## Vedlegg III. Krav til dokumentasjon
 
-Dokumentasjon på oppfyllelse av kravet til klimagassintensitet skal inneholde opplysninger om bruk av energibærere på skip fra leveringsseddel for bunkring, samt følgende informasjon:Nedre brennverdi (MJ/g)For biogass: E-verdier fastlagt i henhold til metoder som beskrevet i fornybardirektivet vedlegg V del C og vedlegg VI del B (gCO2-ekv./Mj), og tilhørende dokumentasjon for oppfyllelse av reglene i nevnte direktiv for slike drivstoff, som identifiserer drivstoffets produksjonsprosessFor fornybare drivstoff av ikke-biologisk opprinnelse, lavkarbon hydrogen og lavkarbon gass: WtT-utslippsfaktoren (gCO2-ekv./Mj) og tilhørende sertifikat, som identifiserer drivstoffets produksjonsprosessVed blanding av drivstoff skal opplysningene som kreves etter dette vedlegg angis for hvert drivstoff.
+Dokumentasjon på oppfyllelse av kravet til klimagassintensitet skal inneholde opplysninger om bruk av energibærere på skip fra leveringsseddel for bunkring, samt følgende informasjon:
 
-Dokumentasjon på oppfyllelse av kravet til klimagassintensitet skal inneholde følgende opplysninger om bruk av elektrisitet som er levert til skipet:Leverandør: navn, adresse, telefonnummer, e-postadresse og representantMottakerskip: IMO-nummer (eventuelt MMSI-nummer), skipsnavnHavn: navn, beliggenhet (LOCODE), terminal/kaiTilkoblingspunkt til landstrøm: detaljer om tilkoblingspunktTilkoblingstid for landstrøm: dato og klokkeslett for start/sluttLevert energi: elektrisitetsforbruk (kWh) i faktureringsperioden.
+- Nedre brennverdi (MJ/g)
+- For biogass: E-verdier fastlagt i henhold til metoder som beskrevet i fornybardirektivet vedlegg V del C og vedlegg VI del B (gCO2-ekv./Mj), og tilhørende dokumentasjon for oppfyllelse av reglene i nevnte direktiv for slike drivstoff, som identifiserer drivstoffets produksjonsprosess
+- For fornybare drivstoff av ikke-biologisk opprinnelse, lavkarbon hydrogen og lavkarbon gass: WtT-utslippsfaktoren (gCO2-ekv./Mj) og tilhørende sertifikat, som identifiserer drivstoffets produksjonsprosess
+- Ved blanding av drivstoff skal opplysningene som kreves etter dette vedlegg angis for hvert drivstoff.
+
+Dokumentasjon på oppfyllelse av kravet til klimagassintensitet skal inneholde følgende opplysninger om bruk av elektrisitet som er levert til skipet:
+
+- Leverandør: navn, adresse, telefonnummer, e-postadresse og representant
+- Mottakerskip: IMO-nummer (eventuelt MMSI-nummer), skipsnavn
+- Havn: navn, beliggenhet (LOCODE), terminal/kai
+- Tilkoblingspunkt til landstrøm: detaljer om tilkoblingspunkt
+- Tilkoblingstid for landstrøm: dato og klokkeslett for start/slutt
+- Levert energi: elektrisitetsforbruk (kWh) i faktureringsperioden.

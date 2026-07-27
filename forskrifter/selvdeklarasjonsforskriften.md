@@ -15,7 +15,7 @@ xml_hash: "46422a56faf18a74ada13f88b791ddf2f3248fe4a0b21d5fc9f29a0f7a60063b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -143,21 +143,32 @@ Identitetspåstanden må gjelde en person som finnes i Folkeregisteret. eID-tilb
 
 ### § 19. Tilpasninger for nivå høyt
 
-For identifikasjonsnivåforskriften pkt. 2.1.2 høyt nr. 1 bokstav a gjelder følgende tilpasning:Som gyldig identitetsbevis regnes pass eller nasjonalt identitetskort. For utenlandsk identitetsbevis må entydig knytning til norsk identitetsnummer godtgjøres.Kravet er også oppfylt for eID på nivå 4 iht. rammeverket fra 2008 for autentisering og uavviselighet.
+For identifikasjonsnivåforskriften pkt. 2.1.2 høyt nr. 1 bokstav a gjelder følgende tilpasning:
 
-For identifikasjonsnivåforskriften 2.3.1 høyt nr. 2 gjelder følgende presisering:Kravet er ikke til hinder for at identitetsinformasjon, f.eks. fødselsnummer, gjøres tilgjengelig på annen måte, eksempelvis i oppslagstjeneste eller at det lagres i sertifikatet for PKI-baserte eID-er. Kravet i 2.3.1 nr. 2 høyt gjelder utlevering av identitetsinformasjon ved autentisering.
+- Som gyldig identitetsbevis regnes pass eller nasjonalt identitetskort. For utenlandsk identitetsbevis må entydig knytning til norsk identitetsnummer godtgjøres.
+- Kravet er også oppfylt for eID på nivå 4 iht. rammeverket fra 2008 for autentisering og uavviselighet.
+
+For identifikasjonsnivåforskriften 2.3.1 høyt nr. 2 gjelder følgende presisering:
+
+- Kravet er ikke til hinder for at identitetsinformasjon, f.eks. fødselsnummer, gjøres tilgjengelig på annen måte, eksempelvis i oppslagstjeneste eller at det lagres i sertifikatet for PKI-baserte eID-er. Kravet i 2.3.1 nr. 2 høyt gjelder utlevering av identitetsinformasjon ved autentisering.
 
 ### § 20. Tilpasninger for nivå betydelig
 
-For identifikasjonsnivåforskriften pkt. 2.1.2 nivå betydelig nr. 1 gjelder følgende tilpasning:Kravet til å besitte et bevis kan oppfylles ved at personen godtgjør at han/hun har tilgang til en adresse (postal eller elektronisk) som er registrert på personen i det norske Folkeregisteret eller annet register som gir tilstrekkelig sikkerhet, eksempelvis kontaktregisteret. I tillegg må det finnes tiltak for å sikre at riktig person tar eID-en i bruk, typisk varsling til annen eller samme adresse.
+For identifikasjonsnivåforskriften pkt. 2.1.2 nivå betydelig nr. 1 gjelder følgende tilpasning:
 
-For identifikasjonsnivåforskriften pkt. 2.4.6. nivå betydelig gjelder følgende tilpasning:Kravet kan eksempelvis oppnås ved bruk av sikrede maskinvaremoduler (HSM) eller kombinasjoner av tilgangsstyring, logging, overvåking og tjenestedeling. Kravet tar sikte på å hindre at autoriserte personer alene og uoppdaget kan kompromittere prosessene.
+- Kravet til å besitte et bevis kan oppfylles ved at personen godtgjør at han/hun har tilgang til en adresse (postal eller elektronisk) som er registrert på personen i det norske Folkeregisteret eller annet register som gir tilstrekkelig sikkerhet, eksempelvis kontaktregisteret. I tillegg må det finnes tiltak for å sikre at riktig person tar eID-en i bruk, typisk varsling til annen eller samme adresse.
+
+For identifikasjonsnivåforskriften pkt. 2.4.6. nivå betydelig gjelder følgende tilpasning:
+
+- Kravet kan eksempelvis oppnås ved bruk av sikrede maskinvaremoduler (HSM) eller kombinasjoner av tilgangsstyring, logging, overvåking og tjenestedeling. Kravet tar sikte på å hindre at autoriserte personer alene og uoppdaget kan kompromittere prosessene.
 
 ### § 21. Tilpasninger for nivå lavt
 
 For identifikasjonsnivåforskriften pkt. 2.1.2 skal også kravene for nivå betydelig tilfredsstilles, jf. [§ 20](forskrift/2019-11-21-1578/§20) første ledd.
 
-For identifikasjonsnivåforskriften 2.4.7 gjelder følgende presisering:Kravet kan eksempelvis oppfylles ved revisjon iht. ISO 17065, som bl.a. dekker tillitstjenester, med relevante tilleggskrav i ETSI 319403.
+For identifikasjonsnivåforskriften 2.4.7 gjelder følgende presisering:
+
+- Kravet kan eksempelvis oppfylles ved revisjon iht. ISO 17065, som bl.a. dekker tillitstjenester, med relevante tilleggskrav i ETSI 319403.
 
 ## Del IV – ikrafttredelse
 

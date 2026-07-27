@@ -52,7 +52,13 @@ Utdanningene skal også sikre kompetanse og holdninger som danner grunnlag for l
 
 ### § 3. Kompetanseområder
 
-Bachelorutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i [kapittel 2](forskrift/2025-07-04-1474/kap2) til [6](forskrift/2025-07-04-1474/kap6), og masterutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i [kapittel 7](forskrift/2025-07-04-1474/kap7) til [11](forskrift/2025-07-04-1474/kap11) under følgende kompetanseområder:Legemidler og helsePasientsikkerhet og kvalitetssikringKommunikasjon, samarbeid og tverrprofesjonell samhandlingLegemidler og samfunnForskning, utvikling og innovasjon.
+Bachelorutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i [kapittel 2](forskrift/2025-07-04-1474/kap2) til [6](forskrift/2025-07-04-1474/kap6), og masterutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i [kapittel 7](forskrift/2025-07-04-1474/kap7) til [11](forskrift/2025-07-04-1474/kap11) under følgende kompetanseområder:
+
+- Legemidler og helse
+- Pasientsikkerhet og kvalitetssikring
+- Kommunikasjon, samarbeid og tverrprofesjonell samhandling
+- Legemidler og samfunn
+- Forskning, utvikling og innovasjon.
 
 En integrert masterutdanning i farmasi skal gi en samlet sluttkompetanse i tråd med læringsutbyttene i [kapittel 2](forskrift/2025-07-04-1474/kap2) til [11](forskrift/2025-07-04-1474/kap11).
 
@@ -64,137 +70,247 @@ Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjø
 
 ### § 4. Legemidler og helse – Kunnskap
 
-Kandidatenhar inngående kunnskap om sentrale stoffers opprinnelse, kjemiske og fysikalske egenskaperhar bred kunnskap om sammensetning og fremstilling av sentrale legemiddelformer, samt deres fysikalske, kjemiske og biofarmasøytiske egenskaperhar bred kunnskap om legemidlers virkning, bivirkning og bruk i forebygging og behandling av fysisk og psykisk sykdom med farmakologi, farmakoterapi og farmakoepidemiologi som sentrale faghar kunnskap om valg og utførelse av sentrale legemiddelanalytiske metoderhar kunnskap om relevante naturvitenskapelige basalfag som biologi, kjemi og fysikkhar kunnskap om relevante medisinske fag som anatomi, fysiologi, patologi, mikrobiologi og toksikologihar kunnskap om hvordan rekvirering og bruk av veterinære legemidler kan bidra til å sikre god dyrehelse og mattrygghethar kunnskap om bruk av relevant medisinsk utstyrhar kjennskap til ernæring og kosttilskudd og mulige interaksjoner med legemidler.
+Kandidaten
+
+1. har inngående kunnskap om sentrale stoffers opprinnelse, kjemiske og fysikalske egenskaper
+2. har bred kunnskap om sammensetning og fremstilling av sentrale legemiddelformer, samt deres fysikalske, kjemiske og biofarmasøytiske egenskaper
+3. har bred kunnskap om legemidlers virkning, bivirkning og bruk i forebygging og behandling av fysisk og psykisk sykdom med farmakologi, farmakoterapi og farmakoepidemiologi som sentrale fag
+4. har kunnskap om valg og utførelse av sentrale legemiddelanalytiske metoder
+5. har kunnskap om relevante naturvitenskapelige basalfag som biologi, kjemi og fysikk
+6. har kunnskap om relevante medisinske fag som anatomi, fysiologi, patologi, mikrobiologi og toksikologi
+7. har kunnskap om hvordan rekvirering og bruk av veterinære legemidler kan bidra til å sikre god dyrehelse og mattrygghet
+8. har kunnskap om bruk av relevant medisinsk utstyr
+9. har kjennskap til ernæring og kosttilskudd og mulige interaksjoner med legemidler.
 
 ### § 5. Legemidler og helse – Ferdigheter
 
-Kandidatenkan anvende faglige kunnskaper som sikrer rasjonell legemiddelbruk og forsvarlig legemiddelhåndteringkan anvende faglige kunnskaper for å forebygge smitte og utvikling av antibiotikaresistenskan anvende faglige kunnskaper for å identifisere og håndtere legemiddelrelaterte problemer, veilede og tilrettelegge for brukermedvirkning ved reseptekspedisjon og salg av legemidler og øvrige apotekvarerkan beherske reseptekspedisjon med grunnlag i faglige vurderinger, lover og forskrifterkan beherske relevante teknikker innen fremstilling av sterile og ikke-sterile legemidler.
+Kandidaten
+
+1. kan anvende faglige kunnskaper som sikrer rasjonell legemiddelbruk og forsvarlig legemiddelhåndtering
+2. kan anvende faglige kunnskaper for å forebygge smitte og utvikling av antibiotikaresistens
+3. kan anvende faglige kunnskaper for å identifisere og håndtere legemiddelrelaterte problemer, veilede og tilrettelegge for brukermedvirkning ved reseptekspedisjon og salg av legemidler og øvrige apotekvarer
+4. kan beherske reseptekspedisjon med grunnlag i faglige vurderinger, lover og forskrifter
+5. kan beherske relevante teknikker innen fremstilling av sterile og ikke-sterile legemidler.
 
 ### § 6. Legemidler og helse – Generell kompetanse
 
-Kandidatenhar innsikt i og forståelse for hvordan legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå.
+Kandidaten
+
+1. har innsikt i og forståelse for hvordan legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå.
 
 ## Kapittel 3. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet pasientsikkerhet og kvalitetssikring
 
 ### § 7. Pasientsikkerhet og kvalitetssikring – Kunnskaper
 
-Kandidatenhar bred kunnskap om hvordan system- og pasientrettede farmasøytiske tjenester kan bidra til å kvalitetssikre legemiddelbehandling og ivareta pasientsikkerhethar bred kunnskap om kvalitetskrav, -sikring og -kontroll av legemidler og relevant medisinsk utstyr.
+Kandidaten
+
+1. har bred kunnskap om hvordan system- og pasientrettede farmasøytiske tjenester kan bidra til å kvalitetssikre legemiddelbehandling og ivareta pasientsikkerhet
+2. har bred kunnskap om kvalitetskrav, -sikring og -kontroll av legemidler og relevant medisinsk utstyr.
 
 ### § 8. Pasientsikkerhet og kvalitetssikring – Ferdigheter
 
-Kandidatenkan utføre farmasøytiske tjenester som ivaretar riktig legemiddelbruk og pasientsikkerhetkan anvende systemer for kvalitetssikring, herunder internkontrollsystemer, samt vurdere risiko for uønskede hendelser og kjenne til metoder for å følge opp disse systematisk.
+Kandidaten
+
+1. kan utføre farmasøytiske tjenester som ivaretar riktig legemiddelbruk og pasientsikkerhet
+2. kan anvende systemer for kvalitetssikring, herunder internkontrollsystemer, samt vurdere risiko for uønskede hendelser og kjenne til metoder for å følge opp disse systematisk.
 
 ### § 9. Pasientsikkerhet og kvalitetssikring – Generell kompetanse
 
-Kandidatenhar innsikt i og forståelse for hvordan legemiddelovervåking, kvalitetssystemer og kvalitets- og forbedringsarbeid bidrar til trygg legemiddelbruk og økt pasientsikkerhet.
+Kandidaten
+
+1. har innsikt i og forståelse for hvordan legemiddelovervåking, kvalitetssystemer og kvalitets- og forbedringsarbeid bidrar til trygg legemiddelbruk og økt pasientsikkerhet.
 
 ## Kapittel 4. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet kommunikasjon, samarbeid og tverrprofesjonell samhandling
 
 ### § 10. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Kunnskaper
 
-Kandidatenhar kunnskap om veilednings- og kommunikasjonsteori, samarbeid og tverrprofesjonell samhandling, og hvordan språk og kultur påvirker dette.
+Kandidaten
+
+1. har kunnskap om veilednings- og kommunikasjonsteori, samarbeid og tverrprofesjonell samhandling, og hvordan språk og kultur påvirker dette.
 
 ### § 11. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Ferdigheter
 
-Kandidatenkan anvende faglige kunnskaper for å foreslå løsninger på relevante teoretiske og praktiske farmasifaglige utfordringerkan anvende relasjons-, kommunikasjons- og veiledningskompetanse for å forstå, samhandle med og veilede brukere, pasienter, pårørende, studenter og helsepersonell som er i lærings-, mestrings- eller endringsprosesser, herunder kunne motivere og bidra til samvalg av løsninger og egenomsorghar kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
+Kandidaten
+
+1. kan anvende faglige kunnskaper for å foreslå løsninger på relevante teoretiske og praktiske farmasifaglige utfordringer
+2. kan anvende relasjons-, kommunikasjons- og veiledningskompetanse for å forstå, samhandle med og veilede brukere, pasienter, pårørende, studenter og helsepersonell som er i lærings-, mestrings- eller endringsprosesser, herunder kunne motivere og bidra til samvalg av løsninger og egenomsorg
+3. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
 
 ### § 12. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Generell kompetanse
 
-Kandidatenkan planlegge, initiere og gjennomføre tverrfaglig, tverrprofesjonelt og tverrsektorielt samarbeid på tvers av virksomheter og nivåer.
+Kandidaten
+
+1. kan planlegge, initiere og gjennomføre tverrfaglig, tverrprofesjonelt og tverrsektorielt samarbeid på tvers av virksomheter og nivåer.
 
 ## Kapittel 5. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og samfunn
 
 ### § 13. Legemidler og samfunn – Kunnskaper
 
-Kandidatenhar bred kunnskap om helsevesenets oppbygning, ansvarsfordeling, samhandling og legemidlers betydning i helsetjeneste og samfunnhar kunnskap om legemiddelforsyning og legemiddelberedskaphar kunnskap om og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltethar kunnskap om menneskers livsløp, herunder barn og unge, og faktorer som bidrar til god helse og egenomsorg, og er en utøver som ivaretar deres behov for legemiddelbehandling og/eller farmasøytiske tjenester og kan sikre deres medvirkning og rettigheterkjenner til farmasiens historie og farmasøytiske yrkesrollerkjenner til bærekraftsmål, samt nasjonale og globale helse- og miljøutfordringerkjenner til sosiale og helsemessige utfordringer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten kan sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behovkjenner til sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkluderingkjenner til inkludering, likestilling og ikke-diskriminering slik at kandidaten bidrar til å sikre likeverdige farmasøytiske tjenester for alle grupper i samfunnet uavhengig av mottakers kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder.
+Kandidaten
+
+1. har bred kunnskap om helsevesenets oppbygning, ansvarsfordeling, samhandling og legemidlers betydning i helsetjeneste og samfunn
+2. har kunnskap om legemiddelforsyning og legemiddelberedskap
+3. har kunnskap om og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.
+4. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet
+5. har kunnskap om menneskers livsløp, herunder barn og unge, og faktorer som bidrar til god helse og egenomsorg, og er en utøver som ivaretar deres behov for legemiddelbehandling og/eller farmasøytiske tjenester og kan sikre deres medvirkning og rettigheter
+6. kjenner til farmasiens historie og farmasøytiske yrkesroller
+7. kjenner til bærekraftsmål, samt nasjonale og globale helse- og miljøutfordringer
+8. kjenner til sosiale og helsemessige utfordringer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten kan sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov
+9. kjenner til sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
+10. kjenner til inkludering, likestilling og ikke-diskriminering slik at kandidaten bidrar til å sikre likeverdige farmasøytiske tjenester for alle grupper i samfunnet uavhengig av mottakers kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder.
 
 ### § 14. Legemidler og samfunn – Ferdigheter
 
-Kandidatenkan anvende faglige kunnskaper i samhandling med helsepersonell, myndigheter og allmenheten for å bidra til utvikling av god folkehelse i vårt multikulturelle samfunnkan anvende, vedlikeholde og tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksiskan beherske selvstendig forsvarlig tjenesteutøvelse i tråd med lover, forskrifter og yrkesetiske retningslinjerkan reflektere over og anvende ulike faglige informasjonskilder.
+Kandidaten
+
+1. kan anvende faglige kunnskaper i samhandling med helsepersonell, myndigheter og allmenheten for å bidra til utvikling av god folkehelse i vårt multikulturelle samfunn
+2. kan anvende, vedlikeholde og tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis
+3. kan beherske selvstendig forsvarlig tjenesteutøvelse i tråd med lover, forskrifter og yrkesetiske retningslinjer
+4. kan reflektere over og anvende ulike faglige informasjonskilder.
 
 ### § 15. Legemidler og samfunn – Generell kompetanse
 
-Kandidatenkan formidle sin farmasøytiske kunnskap med faglig trygghet, både skriftlig og muntlig, til alle aktuelle grupper, og kan dokumentere helsehjelpenhar innsikt i farmasirelaterte samfunnstrender og kan bidra til utvikling av eget fag og profesjonhar innsikt i og kan identifisere, reflektere over og håndtere etiske problemstillinger i farmasøytisk yrkesutøvelse og viser respekt for brukere av farmasøytiske tjenester og gir veiledning som ivaretar brukernes integritet og rettigheterhar digital kompetanse med innsikt i e-helse, velferdsteknologi og digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå.
+Kandidaten
+
+1. kan formidle sin farmasøytiske kunnskap med faglig trygghet, både skriftlig og muntlig, til alle aktuelle grupper, og kan dokumentere helsehjelpen
+2. har innsikt i farmasirelaterte samfunnstrender og kan bidra til utvikling av eget fag og profesjon
+3. har innsikt i og kan identifisere, reflektere over og håndtere etiske problemstillinger i farmasøytisk yrkesutøvelse og viser respekt for brukere av farmasøytiske tjenester og gir veiledning som ivaretar brukernes integritet og rettigheter
+4. har digital kompetanse med innsikt i e-helse, velferdsteknologi og digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå.
 
 ## Kapittel 6. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet forskning, utvikling og innovasjon
 
 ### § 16. Forskning, utvikling og innovasjon – Kunnskaper
 
-Kandidatenhar kunnskap om kvalitative og kvantitative forskningsmetoder som er relevante for gjennomføring av farmasøytiske forsknings- og utviklingsprosjekterhar kjennskap til klinisk utprøving av legemidlerkjenner til sentrale forskningsetiske regelverk og prinsipper.
+Kandidaten
+
+1. har kunnskap om kvalitative og kvantitative forskningsmetoder som er relevante for gjennomføring av farmasøytiske forsknings- og utviklingsprosjekter
+2. har kjennskap til klinisk utprøving av legemidler
+3. kjenner til sentrale forskningsetiske regelverk og prinsipper.
 
 ### § 17. Forskning, utvikling og innovasjon – Ferdigheter
 
-Kandidatenkan anvende basale matematiske, statistiske og epidemiologiske metoder til å undersøke praktiske og teoretiske farmasifaglige problemstillinger.
+Kandidaten
+
+1. kan anvende basale matematiske, statistiske og epidemiologiske metoder til å undersøke praktiske og teoretiske farmasifaglige problemstillinger.
 
 ### § 18. Forskning, utvikling og innovasjon – Generell kompetanse
 
-Kandidatenhar innsikt i betydningen av vitenskapelig dokumentasjon, kan innhente og sammenfatte slik dokumentasjon og skille mellom dokumenterte og udokumenterte påstanderkjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon, entreprenørskap og systematiske og kvalitetsforbedrende arbeidsprosesser.
+Kandidaten
+
+1. har innsikt i betydningen av vitenskapelig dokumentasjon, kan innhente og sammenfatte slik dokumentasjon og skille mellom dokumenterte og udokumenterte påstander
+2. kjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon, entreprenørskap og systematiske og kvalitetsforbedrende arbeidsprosesser.
 
 ## Kapittel 7. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og helse
 
 ### § 19. Legemidler og helse – Kunnskaper
 
-Kandidatenhar avansert kunnskap om legemidlers effekter og bruk i forebygging og behandling av sykdom ut fra et individ- og samfunnsperspektiv med farmakologi, farmakoterapi, farmakoepidemiologi, farmakokinetikk og -genetikk som sentrale faghar avansert kunnskap om formulering, fremstilling og biofarmasøytiske egenskaper av ulike legemiddelformerhar inngående kunnskap om sentrale stoffers syntese, isolering, strukturoppklaring strukturaktivitetsforhold, stabilitet og biotilgjengelighethar kunnskap om forholdet mellom helseøkonomiske prinsipper og rasjonell legemiddelbruk i et individ- og samfunnsperspektiv.
+Kandidaten
+
+1. har avansert kunnskap om legemidlers effekter og bruk i forebygging og behandling av sykdom ut fra et individ- og samfunnsperspektiv med farmakologi, farmakoterapi, farmakoepidemiologi, farmakokinetikk og -genetikk som sentrale fag
+2. har avansert kunnskap om formulering, fremstilling og biofarmasøytiske egenskaper av ulike legemiddelformer
+3. har inngående kunnskap om sentrale stoffers syntese, isolering, strukturoppklaring strukturaktivitetsforhold, stabilitet og biotilgjengelighet
+4. har kunnskap om forholdet mellom helseøkonomiske prinsipper og rasjonell legemiddelbruk i et individ- og samfunnsperspektiv.
 
 ### § 20. Legemidler og helse – Ferdigheter
 
-Kandidatenkan analysere, tilpasse og gi råd vedrørende avansert legemiddelterapi og legemiddelhåndtering i samhandling med annet helsepersonell, pårørende og pasientkan bruke relevante prinsipper for formulering og produksjon av sentrale legemiddelformer.
+Kandidaten
+
+1. kan analysere, tilpasse og gi råd vedrørende avansert legemiddelterapi og legemiddelhåndtering i samhandling med annet helsepersonell, pårørende og pasient
+2. kan bruke relevante prinsipper for formulering og produksjon av sentrale legemiddelformer.
 
 ### § 21. Legemidler og helse – Generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter slik at legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter slik at legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå.
 
 ## Kapittel 8. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet pasientsikkerhet og kvalitetssikring
 
 ### § 22. Pasientsikkerhet og kvalitetssikring – Kunnskaper
 
-Kandidatenhar avansert kunnskap om legemiddelhåndtering, klinisk farmasi og andre farmasøytiske tjenesterhar avansert kunnskap om kvalitetskrav, -sikring og -kontroll av sentrale trinn i utvikling, produksjon, oppbevaring og distribusjon av legemidler, jamfør krav til QP og FFA.
+Kandidaten
+
+1. har avansert kunnskap om legemiddelhåndtering, klinisk farmasi og andre farmasøytiske tjenester
+2. har avansert kunnskap om kvalitetskrav, -sikring og -kontroll av sentrale trinn i utvikling, produksjon, oppbevaring og distribusjon av legemidler, jamfør krav til QP og FFA.
 
 ### § 23. Pasientsikkerhet og kvalitetssikring – Ferdigheter
 
-Kandidatenkan gjennomføre utvikling av kvalitetssystemer for legemidler, legemiddelhåndtering og legemiddelrelaterte produkter og tjenesterkan gjennomføre avanserte farmasøytiske tjenester som bidrar til å ivareta og forbedre legemiddelbehandling og pasientsikkerhetkan gjennomføre analyse og kvalitetskontroll av farmasøytiske råvarer og ferdige legemidler, og vurdere hvordan avvik påvirker legemidlers kvalitet.
+Kandidaten
+
+1. kan gjennomføre utvikling av kvalitetssystemer for legemidler, legemiddelhåndtering og legemiddelrelaterte produkter og tjenester
+2. kan gjennomføre avanserte farmasøytiske tjenester som bidrar til å ivareta og forbedre legemiddelbehandling og pasientsikkerhet
+3. kan gjennomføre analyse og kvalitetskontroll av farmasøytiske råvarer og ferdige legemidler, og vurdere hvordan avvik påvirker legemidlers kvalitet.
 
 ## Kapittel 9. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet kommunikasjon, samarbeid og tverrprofesjonell samhandling
 
 ### § 24. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Kunnskaper
 
-Kandidatenhar klinisk kommunikasjonskunnskap.
+Kandidaten
+
+1. har klinisk kommunikasjonskunnskap.
 
 ### § 25. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Ferdigheter
 
-Kandidatenkan bruke relevante faglige kunnskaper for å foreslå løsninger på avanserte teoretiske og praktiske farmasifaglige utfordringer.
+Kandidaten
+
+1. kan bruke relevante faglige kunnskaper for å foreslå løsninger på avanserte teoretiske og praktiske farmasifaglige utfordringer.
 
 ### § 26. Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Generell kompetanse
 
-Kandidatenkan formidle råd om farmasifaglige problemstillinger, analyser, forskningsresultater og konklusjoner til annet helsepersonellkan formidle evidensbasert kunnskap til helsepersonell, legemiddelbrukere og allmennhetenkan bidra til optimal legemiddelbehandling for den enkelte pasient gjennom tverrfaglig samarbeid.
+Kandidaten
+
+1. kan formidle råd om farmasifaglige problemstillinger, analyser, forskningsresultater og konklusjoner til annet helsepersonell
+2. kan formidle evidensbasert kunnskap til helsepersonell, legemiddelbrukere og allmennheten
+3. kan bidra til optimal legemiddelbehandling for den enkelte pasient gjennom tverrfaglig samarbeid.
 
 ## Kapittel 10. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og samfunn
 
 ### § 27. Legemidler og samfunn – Kunnskaper
 
-Kandidatenhar kunnskap om ledelse og ulike farmasøytiske lederrollerhar kunnskap om samspill mellom teknologiske løsninger og arbeidsprosesser, samt føringer i lovverk og standarder.
+Kandidaten
+
+1. har kunnskap om ledelse og ulike farmasøytiske lederroller
+2. har kunnskap om samspill mellom teknologiske løsninger og arbeidsprosesser, samt føringer i lovverk og standarder.
 
 ### § 28. Legemidler og samfunn – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til ulike informasjonskilder og anvende disse til å strukturere og formulere faglige resonnementer.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til ulike informasjonskilder og anvende disse til å strukturere og formulere faglige resonnementer.
 
 ### § 29. Legemidler og samfunn – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til utvikling av faget og farmasøytens rolle i samfunnetkan analysere og reflektere over etiske problemstillinger innen farmasøytisk praksis og forskningkan anvende sine kunnskaper og ferdigheter i faglig ledelse.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til utvikling av faget og farmasøytens rolle i samfunnet
+2. kan analysere og reflektere over etiske problemstillinger innen farmasøytisk praksis og forskning
+3. kan anvende sine kunnskaper og ferdigheter i faglig ledelse.
 
 ## Kapittel 11. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet forskning, utvikling og innovasjon
 
 ### § 30. Forskning, utvikling og innovasjon – Kunnskaper
 
-Kandidatenhar inngående kunnskap i et farmasøytisk relevant fagfelt og dets vitenskapelige metoder for å utføre et forsknings- eller utviklingsprosjekthar inngående kunnskap om sentrale forskningsetiske prinsipper og regelverkhar kunnskap om utvikling av nye legemidlerhar kunnskap om klinisk utprøving av legemidler med tilhørende innsamling av data og krav til dokumentasjonkjenner til krav til dokumentasjon i forbindelse med søknad om markedsføringstillatelse for et legemiddel.
+Kandidaten
+
+1. har inngående kunnskap i et farmasøytisk relevant fagfelt og dets vitenskapelige metoder for å utføre et forsknings- eller utviklingsprosjekt
+2. har inngående kunnskap om sentrale forskningsetiske prinsipper og regelverk
+3. har kunnskap om utvikling av nye legemidler
+4. har kunnskap om klinisk utprøving av legemidler med tilhørende innsamling av data og krav til dokumentasjon
+5. kjenner til krav til dokumentasjon i forbindelse med søknad om markedsføringstillatelse for et legemiddel.
 
 ### § 31. Forskning, utvikling og innovasjon – Ferdigheter
 
-Kandidatenkan bruke sentrale statistiske og epidemiologiske metoderkan gjennomføre et avgrenset forsknings- og utviklingsprosjekt relatert til farmasi.
+Kandidaten
+
+1. kan bruke sentrale statistiske og epidemiologiske metoder
+2. kan gjennomføre et avgrenset forsknings- og utviklingsprosjekt relatert til farmasi.
 
 ### § 32. Forskning, utvikling og innovasjon – Generell kompetanse
 
-Kandidatenkan formidle betydningen av vitenskapelig dokumentasjon og forskjellen mellom dokumenterte og udokumenterte påstanderkan bidra til kvalitetsutvikling, innovasjon og nytenkning innen fagfeltet.
+Kandidaten
+
+1. kan formidle betydningen av vitenskapelig dokumentasjon og forskjellen mellom dokumenterte og udokumenterte påstander
+2. kan bidra til kvalitetsutvikling, innovasjon og nytenkning innen fagfeltet.
 
 ## Kapittel 12. Studiets oppbygning og praksisstudier
 

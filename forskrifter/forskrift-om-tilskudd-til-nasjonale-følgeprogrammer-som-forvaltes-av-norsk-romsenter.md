@@ -28,19 +28,35 @@ Forskriften gjelder Norsk Romsenters forvaltning av tilskuddsordningen for nasjo
 
 ## § 2. Formål og målgruppe for tilskuddsordningen
 
-Formålet med tilskuddsordningen er å:bidra til å styrke konkurranseevnen til norsk romrelatert næringsliv, slik at Norge kan høste fra og nyttiggjøre seg norsk medlemskap i Den europeiske romorganisasjonen (ESA), Den europeiske unions (EUs) romprogram og andre internasjonale samarbeidsarenaer for romvirksomhet,bidra til å utvikle rom- og satellittbaserte varer, tjenester og anvendelser for å dekke nasjonale offentlige behov på en effektiv og kostnadsbesparende måte, inkludert deltagelse i utviklingsprosjekter fra offentlige virksomheter og etater,gjennom kompetanseheving bidra til å gjøre norsk romrelatert næringsliv konkurransedyktig i et internasjonalt marked.
+Formålet med tilskuddsordningen er å:
+
+1. bidra til å styrke konkurranseevnen til norsk romrelatert næringsliv, slik at Norge kan høste fra og nyttiggjøre seg norsk medlemskap i Den europeiske romorganisasjonen (ESA), Den europeiske unions (EUs) romprogram og andre internasjonale samarbeidsarenaer for romvirksomhet,
+2. bidra til å utvikle rom- og satellittbaserte varer, tjenester og anvendelser for å dekke nasjonale offentlige behov på en effektiv og kostnadsbesparende måte, inkludert deltagelse i utviklingsprosjekter fra offentlige virksomheter og etater,
+3. gjennom kompetanseheving bidra til å gjøre norsk romrelatert næringsliv konkurransedyktig i et internasjonalt marked.
 
 Målgruppen er norske bedrifter og forskningsmiljøer som har eller kan få leveranser til internasjonal romrelatert virksomhet, både på grunnlag av Norges medlemskap i ESA og på grunnlag av kontrakter i det ordinære kommersielle rommarkedet, innen EUs satsing på tjenesteutvikling eller anvendelsesområder av stor betydning for Norge. Ordningen skal operere innenfor teknologiintensive nisjer, og den skal bidra til å utvikle norske høyteknologiske miljøer.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Grunnforskning*, eksperimentelt eller teoretisk arbeid som fortrinnsvis utføres med sikte på tilegnelse av ny kunnskap om de underliggende årsakene til fenomener og observerbare fakta, uten at det tas sikte på direkte kommersiell anvendelse.*Industriell forskning*, planlagt forskning eller kritisk undersøkelse med sikte på tilegnelse av ny kunnskap og nye ferdigheter for å utvikle nye produkter, prosesser eller tjenester, eller med sikte på en betydelig forbedring av eksisterende produkter, prosesser eller tjenester. Dette omfatter utforming av komponenter til sammensatte systemer og kan omfatte utvikling av prototyper i et laboratoriemiljø eller i et miljø med simulerte grensesnitt mot eksisterende systemer samt av pilotprosjekter, når det er nødvendig for den industrielle forskningen og særlig for å validere allmenn teknologi.*Eksperimentell utvikling*, tilegnelse, kombinering, utforming og bruk av eksisterende vitenskapelige, teknologiske, forretningsmessige og andre relevante kunnskaper og ferdigheter med sikte på å utvikle nye eller forbedrede produkter, prosesser eller tjenester. Dette kan også omfatte for eksempel virksomhet som tar sikte på begrepsmessig definisjon, planlegging og dokumentasjon av nye produkter, prosesser og tjenester.*Forundersøkelser*, evaluering og analyse av et prosjekts potensial med det formål å støtte beslutningsprosessen gjennom en objektiv og rasjonell påvisning av dets sterke og svake sider, muligheter og trusler, identifisere hvilke ressurser som kreves for å gjennomføre det, og til slutt vurdere dets utsikter til å lykkes.
+I denne forskriften menes med:
+
+1. *Grunnforskning*, eksperimentelt eller teoretisk arbeid som fortrinnsvis utføres med sikte på tilegnelse av ny kunnskap om de underliggende årsakene til fenomener og observerbare fakta, uten at det tas sikte på direkte kommersiell anvendelse.
+2. *Industriell forskning*, planlagt forskning eller kritisk undersøkelse med sikte på tilegnelse av ny kunnskap og nye ferdigheter for å utvikle nye produkter, prosesser eller tjenester, eller med sikte på en betydelig forbedring av eksisterende produkter, prosesser eller tjenester. Dette omfatter utforming av komponenter til sammensatte systemer og kan omfatte utvikling av prototyper i et laboratoriemiljø eller i et miljø med simulerte grensesnitt mot eksisterende systemer samt av pilotprosjekter, når det er nødvendig for den industrielle forskningen og særlig for å validere allmenn teknologi.
+3. *Eksperimentell utvikling*, tilegnelse, kombinering, utforming og bruk av eksisterende vitenskapelige, teknologiske, forretningsmessige og andre relevante kunnskaper og ferdigheter med sikte på å utvikle nye eller forbedrede produkter, prosesser eller tjenester. Dette kan også omfatte for eksempel virksomhet som tar sikte på begrepsmessig definisjon, planlegging og dokumentasjon av nye produkter, prosesser og tjenester.
+4. *Forundersøkelser*, evaluering og analyse av et prosjekts potensial med det formål å støtte beslutningsprosessen gjennom en objektiv og rasjonell påvisning av dets sterke og svake sider, muligheter og trusler, identifisere hvilke ressurser som kreves for å gjennomføre det, og til slutt vurdere dets utsikter til å lykkes.
 
 ## § 4. Hva det kan gis tilskudd til
 
 Norsk Romsenter fastsetter reglene for støtteberettigede kostnader og støtteintensitet i de prosjektene der slik støtte ikke vil kunne regnes som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-Hvis støtte til et prosjekt klassifiseres som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl), kan tilskudd brukes til å dekke følgende prosjektkostnader i henhold til EFTAs overvåkningsorgans retningslinjer for statsstøtte til forskning, utvikling og innovasjon:personalkostnader,kostnader til utstyr og instrumenter,kostnader til bygninger og grunn,kostnader til kontraktsforskning, teknisk kunnskap og patenter,ytterligere overheadkostnader som er direkte knyttet til prosjektet,driftskostnader som materialer og forsyninger.
+Hvis støtte til et prosjekt klassifiseres som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl), kan tilskudd brukes til å dekke følgende prosjektkostnader i henhold til EFTAs overvåkningsorgans retningslinjer for statsstøtte til forskning, utvikling og innovasjon:
+
+- personalkostnader,
+- kostnader til utstyr og instrumenter,
+- kostnader til bygninger og grunn,
+- kostnader til kontraktsforskning, teknisk kunnskap og patenter,
+- ytterligere overheadkostnader som er direkte knyttet til prosjektet,
+- driftskostnader som materialer og forsyninger.
 
 Det er en forutsetning at ovennevnte kostnader er direkte knyttet til prosjektet, og at det kun dekkes kostnader som påløper i prosjektperioden. Norsk Romsenter kan i hvert enkelt tilfelle beslutte at visse kostnader ikke vil bli dekket.
 
@@ -52,19 +68,46 @@ Prosjekter som mottar støtte som klassifiseres som statsstøtte etter [EØS-avt
 
 Hvis et prosjekt får offentlig støtte fra mer enn én kilde, må støtten akkumuleres slik at Norsk Romsenter kan vurdere effekten av den samlede offentlige støtte til prosjektet.
 
-Støtteintensiteten for hver støttemottaker skal ikke overstige:100 % av de støtteberettigede kostnadene for grunnforskning,50 % av de støtteberettigede kostnadene for industriell forskning,25 % av de støtteberettigede kostnadene for eksperimentell utvikling,50 % av de støtteberettigede kostnadene for forundersøkelser.
+Støtteintensiteten for hver støttemottaker skal ikke overstige:
 
-Støtteintensitetene for industriell forskning og eksperimentell utvikling kan imidlertid økes opp til en høyeste støtteintensitet på 80 % av de støtteberettigede kostnadene på følgende måte:med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter,med 15 prosentpoeng dersom ett av følgende vilkår er oppfylt:prosjektet omfatter et faktisk samarbeidmellom foretak der minst ett er en SMB, eller utføres i minst to medlemsstater eller i en medlemsstat og en stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), og ingen foretak alene står for mer enn 70 % av de støtteberettigede kostnadene, ellermellom et foretak og en eller flere organisasjoner for forskning og kunnskapsformidling, der den/de sistnevnte alene står for minst 10 % av de støtteberettigede kostnadene og har rett til å offentliggjøre sine egne forskningsresultater,resultatene av prosjektet får omfattende spredning gjennom konferanser, publikasjoner, åpne datakilder eller programvare med gratis eller åpen kildekode.
+1. 100 % av de støtteberettigede kostnadene for grunnforskning,
+2. 50 % av de støtteberettigede kostnadene for industriell forskning,
+3. 25 % av de støtteberettigede kostnadene for eksperimentell utvikling,
+4. 50 % av de støtteberettigede kostnadene for forundersøkelser.
+
+Støtteintensitetene for industriell forskning og eksperimentell utvikling kan imidlertid økes opp til en høyeste støtteintensitet på 80 % av de støtteberettigede kostnadene på følgende måte:
+
+1. med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter,
+2. med 15 prosentpoeng dersom ett av følgende vilkår er oppfylt:
+
+   1. prosjektet omfatter et faktisk samarbeid
+
+      - mellom foretak der minst ett er en SMB, eller utføres i minst to medlemsstater eller i en medlemsstat og en stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), og ingen foretak alene står for mer enn 70 % av de støtteberettigede kostnadene, eller
+      - mellom et foretak og en eller flere organisasjoner for forskning og kunnskapsformidling, der den/de sistnevnte alene står for minst 10 % av de støtteberettigede kostnadene og har rett til å offentliggjøre sine egne forskningsresultater,
+   2. resultatene av prosjektet får omfattende spredning gjennom konferanser, publikasjoner, åpne datakilder eller programvare med gratis eller åpen kildekode.
 
 Støtteintensitetene for forundersøkelser kan økes med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter.
 
 ## § 6. Utlysning av tilskuddsmidler
 
-Utlysningen skal inneholde:formål med tilskuddsordningen og målgruppe,krav som gjelder for å kunne få innvilget søknaden (tildelingskriterier),informasjon om maksimal støtte/-sats,informasjon om at søknader skal skrives på standard søknadsskjema og ha original underskrift, ev. krav til elektronisk signatur,hvilke opplysninger søknaden må inneholde for at det i første fase skal kunne konstateres om søknaden faller inn under ordningen,vilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og revisorgodkjenning av prosjektregnskaper),informasjon om at Norsk Romsenter kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formålet,søknadsfrist.
+Utlysningen skal inneholde:
+
+1. formål med tilskuddsordningen og målgruppe,
+2. krav som gjelder for å kunne få innvilget søknaden (tildelingskriterier),
+3. informasjon om maksimal støtte/-sats,
+4. informasjon om at søknader skal skrives på standard søknadsskjema og ha original underskrift, ev. krav til elektronisk signatur,
+5. hvilke opplysninger søknaden må inneholde for at det i første fase skal kunne konstateres om søknaden faller inn under ordningen,
+6. vilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og revisorgodkjenning av prosjektregnskaper),
+7. informasjon om at Norsk Romsenter kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formålet,
+8. søknadsfrist.
 
 ## § 7. Krav til søknaden
 
-Krav til søknaden skal fremgå av de årlige utlysningene av tilskuddsmidler. En søknad skal alltid:dokumentere at tilskuddet vil ha utløsende effekt for gjennomføring av prosjektet,angi all annen offentlig støtte gitt til samme prosjekt,angi FoU-kategori (grunnforskning, industriell forskning, eksperimentell utvikling eller forundersøkelser).
+Krav til søknaden skal fremgå av de årlige utlysningene av tilskuddsmidler. En søknad skal alltid:
+
+1. dokumentere at tilskuddet vil ha utløsende effekt for gjennomføring av prosjektet,
+2. angi all annen offentlig støtte gitt til samme prosjekt,
+3. angi FoU-kategori (grunnforskning, industriell forskning, eksperimentell utvikling eller forundersøkelser).
 
 Norsk Romsenter kan kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden, enn de som fremgår av utlysningen og den mottatte søknaden.
 
@@ -78,7 +121,12 @@ Norsk Romsenter skal følge opp overfor tilskuddsmottaker dersom innrapportert i
 
 Norsk Romsenter skal gi nødvendig tilbakemelding til tilskuddsmottaker om dennes rapportering og treffe tiltak dersom kontrollen avdekker muligheter for uregelmessigheter.
 
-Norsk Romsenter kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsbrevet er oppfylt gjennom å:be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen,innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene,gjennomføre stikkprøvekontroll for prøving av data som ligger til grunn for innrapportert informasjon,gjennomføre en nærmere regnskapsgjennomgang eller annen kontroll med at midlene har blitt nyttet som forutsatt, jf. [Bevilgningsreglementets § 10](forskrift/2005-05-26-876/§10).
+Norsk Romsenter kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsbrevet er oppfylt gjennom å:
+
+1. be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen,
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene,
+3. gjennomføre stikkprøvekontroll for prøving av data som ligger til grunn for innrapportert informasjon,
+4. gjennomføre en nærmere regnskapsgjennomgang eller annen kontroll med at midlene har blitt nyttet som forutsatt, jf. [Bevilgningsreglementets § 10](forskrift/2005-05-26-876/§10).
 
 ## § 10. Immaterielle rettigheter (IPR)
 
@@ -106,4 +154,8 @@ Departementet er klageinstans for vedtak om tilskudd fattet av Norsk Romsenter e
 
 Forskriften trer i kraft når den er vedtatt og kunngjort i Norsk Lovtidend.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[forskrift 12. desember 2003 nr. 1571 om vedtekter for Norsk Romsenter](forskrift/2003-12-12-1571),[forskrift 5. juli 1987 nr. 4022 om vedtekter for Norsk Romsenter](forskrift/1987-07-05-4022),[forskrift 13. oktober 1995 nr. 857 om endring i forskrift om vedtekter for Norsk Romsenter](forskrift/1995-10-13-857).
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [forskrift 12. desember 2003 nr. 1571 om vedtekter for Norsk Romsenter](forskrift/2003-12-12-1571),
+2. [forskrift 5. juli 1987 nr. 4022 om vedtekter for Norsk Romsenter](forskrift/1987-07-05-4022),
+3. [forskrift 13. oktober 1995 nr. 857 om endring i forskrift om vedtekter for Norsk Romsenter](forskrift/1995-10-13-857).

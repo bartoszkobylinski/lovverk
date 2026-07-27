@@ -38,7 +38,16 @@ Forskriften gjelder kun tillatelser registrert i akvakulturregisteret per 31. de
 
 ### § 3. Produksjonsområder og økning av kapasitet
 
-[Kapittel](forskrift/2017-12-20-2397/kap2) 2 om økt kapasitet på eksisterende tillatelser gjelder tillatelse hjemmehørende i følgende produksjonsområder:Område 1: Svenskegrensen til JærenOmråde 7: Nord-Trøndelag med BindalOmråde 8: Helgeland til BodøOmråde 9: Vestfjorden og VesterålenOmråde 10: Andøya til SenjaOmråde 11: Kvaløya til LoppaOmråde 12: Vest-FinnmarkOmråde 13: Øst-Finnmark
+[Kapittel](forskrift/2017-12-20-2397/kap2) 2 om økt kapasitet på eksisterende tillatelser gjelder tillatelse hjemmehørende i følgende produksjonsområder:
+
+1. Område 1: Svenskegrensen til Jæren
+2. Område 7: Nord-Trøndelag med Bindal
+3. Område 8: Helgeland til Bodø
+4. Område 9: Vestfjorden og Vesterålen
+5. Område 10: Andøya til Senja
+6. Område 11: Kvaløya til Loppa
+7. Område 12: Vest-Finnmark
+8. Område 13: Øst-Finnmark
 
 [Kapittel](forskrift/2017-12-20-2397/kap3) 3 gjelder i alle produksjonsområder.
 
@@ -52,7 +61,12 @@ Dette kapitlet gjelder tilbud om å øke maksimalt tillatt biomasse på eksister
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 4 uker før fristen for å søke om kapasitetsøkning går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknad og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, ogat det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknad og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, og
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
 
 ### § 6. Økning av kapasitet på eksisterende tillatelser
 
@@ -98,13 +112,29 @@ Dette kapitlet gjelder tilbud om å øke maksimalt tillatt biomasse på tillatel
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 4 uker før fristen går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknaden og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut,at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, ogopplysninger om saksbehandlingsgebyr.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknaden og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut,
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, og
+5. opplysninger om saksbehandlingsgebyr.
 
 ### § 12. Tilbud om kapasitetsøkning uavhengig av miljøstatus i produksjonsområdet
 
-Innehaver av tillatelse som nevnt i [§ 2](forskrift/2017-12-20-2397/§2) kan sende søknad om å motta tilbud om kapasitetsøkning. For å motta tilbud må innehaverens tillatelse ha vært eller være tilknyttet en lokalitet derlakseluslarver ikke slippes ut i frie vannmasser, og dette er dokumentert av en uhildet faginstans for den sist gjennomførte produksjonssyklusen og samtidig for en periode på minimum 12 måneder, ellerdetvar færre enn 0,1 voksne hunnlus per fisk ved alle tellinger i perioden 1. april til 30. september i årene 2016 og 2017, eller at utslippet av egg og frittsvømmende stadier av lakselus til miljøet ikke er større enn det utslippet ville ha vært fra et tilsvarende antall fisk med et lusenivå på 0,1 voksne hunnlus i gjennomsnitt per fisk,ikke er behandlet medikamentelt mot lakselus mer enn 1 gang under den siste produksjonssyklusen. Dersom produksjonssyklusen er kortere enn 12 måneder, forlenges perioden bakover i tid til 12 måneder, men samtidig slik at hele produksjonssyklusen omfattes,ikke er truffet vedtak om reduksjon av maksimalt tillatt biomasse, og dette vedtaket har hatt effekt innenfor kalenderårene 2016 og 2017.
+Innehaver av tillatelse som nevnt i [§ 2](forskrift/2017-12-20-2397/§2) kan sende søknad om å motta tilbud om kapasitetsøkning. For å motta tilbud må innehaverens tillatelse ha vært eller være tilknyttet en lokalitet der
 
-Selv om det observerte lusenivået på en lokalitet overskrider lusegrensen angitt i første ledd bokstav b) nr. 1 og 2, kan fylkeskommunen likevel gi tilbud til innehaver av tillatelse så fremt den observerte verdienoversteg 0,17 kun ved en telling per periode per kalenderår nevnt i første ledd, oget lusenivå høyere enn 0,1 voksne hunnlus ikke ble påvist i mer enn tre påfølgende tellinger i løpet av perioden per kalenderår.
+1. lakseluslarver ikke slippes ut i frie vannmasser, og dette er dokumentert av en uhildet faginstans for den sist gjennomførte produksjonssyklusen og samtidig for en periode på minimum 12 måneder, eller
+2. det
+
+   1. var færre enn 0,1 voksne hunnlus per fisk ved alle tellinger i perioden 1. april til 30. september i årene 2016 og 2017, eller at utslippet av egg og frittsvømmende stadier av lakselus til miljøet ikke er større enn det utslippet ville ha vært fra et tilsvarende antall fisk med et lusenivå på 0,1 voksne hunnlus i gjennomsnitt per fisk,
+   2. ikke er behandlet medikamentelt mot lakselus mer enn 1 gang under den siste produksjonssyklusen. Dersom produksjonssyklusen er kortere enn 12 måneder, forlenges perioden bakover i tid til 12 måneder, men samtidig slik at hele produksjonssyklusen omfattes,
+   3. ikke er truffet vedtak om reduksjon av maksimalt tillatt biomasse, og dette vedtaket har hatt effekt innenfor kalenderårene 2016 og 2017.
+
+Selv om det observerte lusenivået på en lokalitet overskrider lusegrensen angitt i første ledd bokstav b) nr. 1 og 2, kan fylkeskommunen likevel gi tilbud til innehaver av tillatelse så fremt den observerte verdien
+
+1. oversteg 0,17 kun ved en telling per periode per kalenderår nevnt i første ledd, og
+2. et lusenivå høyere enn 0,1 voksne hunnlus ikke ble påvist i mer enn tre påfølgende tellinger i løpet av perioden per kalenderår.
 
 ### § 13. Krav til sending og søknad
 
@@ -112,7 +142,15 @@ Søknaden skal sendes senest 31. januar 2018. Det skal kun sendes en søknad per
 
 Søknaden skal merkes med: «Søknad om kapasitetsøkning – unntak 2017–2018».
 
-Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon omhvilken tillatelse og lokalitet søknaden gjelder,dokumentasjon på at vilkårene i [§ 12](forskrift/2017-12-20-2397/§12) er oppfylt, ogsøkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter, i henhold til kriteriene i [§ 17](forskrift/2017-12-20-2397/§17), ogved eventuell samdrift må ideell eierandel fremgå,ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.kvittering for innbetalt saksbehandlingsgebyr
+Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon om
+
+1. hvilken tillatelse og lokalitet søknaden gjelder,
+2. dokumentasjon på at vilkårene i [§ 12](forskrift/2017-12-20-2397/§12) er oppfylt, og
+3. søkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter, i henhold til kriteriene i [§ 17](forskrift/2017-12-20-2397/§17), og
+4. ved eventuell samdrift må ideell eierandel fremgå,
+5. ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,
+6. dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.
+7. kvittering for innbetalt saksbehandlingsgebyr
 
 For lokaliteter i produksjonsområde 1 og 2 skal skjemaet sendes til Rogaland fylkeskommune, for produksjonsområde 3 skal det sendes Hordaland fylkeskommune, for produksjonsområde 4 sendes det til Sogn og Fjordane fylkeskommune, for produksjonsområde 5 sendes det til Møre og Romsdal fylkeskommune, for produksjonsområdene 6 og 7 skal det sendes til Trøndelag fylkeskommune, for produksjonsområdene 8 og 9 skal det sendes til Nordland fylkeskommune, for produksjonsområdene 10 og 11 skal det sendes til Troms fylkeskommune og for produksjonsområdene 12 og 13 skal det sendes til Finnmark fylkeskommune.
 
@@ -142,7 +180,12 @@ Dersom Mattilsynet kommer til at vilkårene i [§ 12](forskrift/2017-12-20-2397/
 
 Tilbudet kan omfatte de tillatelsene som er knyttet til lokaliteten som oppfyller vilkårene. Tilbudets størrelse beregnes slik: Den årlige tilveksten på lokaliteten divideres med det fastsatte snittet for kapasitetsutnyttelse. Resultatet multipliseres med 6 prosent. Tilbudet kan likevel ikke overstige 6 prosent per tillatelse, inkludert eventuelle kapasitetsøkninger tildelt etter [kapittel 2](forskrift/2017-12-20-2397/kap2), og avregnes til nærmeste tonn.
 
-Med årlig tilvekst menes:samlet vektøkning på fisk i sjø på lokalitet som oppfyller vilkårene, ellersamlet vektøkning på settefisk over 250 gram eller matfisk produsert for samme formål (postsmolt), som er produsert på lokalitet i sjø som oppfyller vilkårene i første ledd.Matfisk som er flyttet til eller fra lokaliteten som oppfyller vilkårene, med unntak for fisk til slakt, medregnes ikke.perioden 1. desember 2017 og to år tilbake i tid, og snittet av de to årene legges til grunn i beregningene.
+Med årlig tilvekst menes:
+
+1. samlet vektøkning på fisk i sjø på lokalitet som oppfyller vilkårene, eller
+2. samlet vektøkning på settefisk over 250 gram eller matfisk produsert for samme formål (postsmolt), som er produsert på lokalitet i sjø som oppfyller vilkårene i første ledd.
+3. Matfisk som er flyttet til eller fra lokaliteten som oppfyller vilkårene, med unntak for fisk til slakt, medregnes ikke.
+4. perioden 1. desember 2017 og to år tilbake i tid, og snittet av de to årene legges til grunn i beregningene.
 
 Kapasitetsutnyttelsen som må benyttes for omregning fra årlig tilvekst på lokaliteten til tillatelseskapasitet settes til 1,692 tonn tilvekst per tonn tillatelseskapasitet, alt i form av levende vekt.
 

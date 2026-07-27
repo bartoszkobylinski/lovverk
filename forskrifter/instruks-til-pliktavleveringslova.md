@@ -15,7 +15,7 @@ xml_hash: "a9663a8394492c1cd86d9789a33beeb9edc43a53de43f5337589482071b7a1e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,13 @@ Når eitt eller fleire av dei biblioteka som plikteksemplara skal fordelast til,
 
 ## IV
 
-Dersom Nasjonalbiblioteket har motteke færre eksemplar enn dei sju som lova føreskriv, skal dei mottekne eksemplara forvaltast etter denne prioriteringa:1. eksemplar er tryggingseksemplar i Nasjonalbiblioteket i Rana2. eksemplar er brukseksemplar i Nasjonalbiblioteket i Oslo3.-5. eksemplar til universitetsbiblioteka i Bergen, Trondheim og Tromsø med jamnt vekslande priortering.6. eksemplar til Universitetsbiblioteket i Oslo7. eksemplar er fjernlånseksemplar ved Nasjonalbiblioteket i Rana.
+Dersom Nasjonalbiblioteket har motteke færre eksemplar enn dei sju som lova føreskriv, skal dei mottekne eksemplara forvaltast etter denne prioriteringa:
+
+- 1\. eksemplar er tryggingseksemplar i Nasjonalbiblioteket i Rana
+- 2\. eksemplar er brukseksemplar i Nasjonalbiblioteket i Oslo
+- 3.-5. eksemplar til universitetsbiblioteka i Bergen, Trondheim og Tromsø med jamnt vekslande priortering.
+- 6\. eksemplar til Universitetsbiblioteket i Oslo
+- 7\. eksemplar er fjernlånseksemplar ved Nasjonalbiblioteket i Rana.
 
 Samisk spesialbibliotek i Karasjok skal ha 3. prioritet, med påfølgjande nedprioritering av hine biblioteka, for dei dokumenta som skal sendast dit.
 

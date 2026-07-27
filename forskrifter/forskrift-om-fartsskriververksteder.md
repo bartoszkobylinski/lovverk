@@ -60,7 +60,21 @@ Statens vegvesen fastsetter nærmere vilkår for adgangen til å utføre ambuler
 
 ### § 5. Krav til kontrollutstyr
 
-Teknisk utstyr som skal benyttes av godkjent fartsskriververksted etter denne forskriften skal være egnet til formålet. Utstyr til kontroll av fartsskrivere og prøvestrekninger skal fylle følgende krav til maksimalt tillatte målefeil:Utstyr til fastleggelse av prøvestrekninger:i forbindelse med reparasjon, generert av prøvebenk, innenfor 0,1 %i forbindelse med installering/ettersyn, innenfor 0,4 %Utstyr til generert hastighet:i forbindelse med reparasjon eller installering/ettersyn, innenfor 0,3 km/hUtstyr til fastleggelse av kjøretøyets karakteristiske koeffisient (w):innenfor 0,3 %Utstyr til kontroll av fartsskriverens ur:innenfor 2 sek/døgn.
+Teknisk utstyr som skal benyttes av godkjent fartsskriververksted etter denne forskriften skal være egnet til formålet. Utstyr til kontroll av fartsskrivere og prøvestrekninger skal fylle følgende krav til maksimalt tillatte målefeil:
+
+1. Utstyr til fastleggelse av prøvestrekninger:
+
+   1. i forbindelse med reparasjon, generert av prøvebenk, innenfor 0,1 %
+   2. i forbindelse med installering/ettersyn, innenfor 0,4 %
+2. Utstyr til generert hastighet:
+
+   1. i forbindelse med reparasjon eller installering/ettersyn, innenfor 0,3 km/h
+3. Utstyr til fastleggelse av kjøretøyets karakteristiske koeffisient (w):
+
+   1. innenfor 0,3 %
+4. Utstyr til kontroll av fartsskriverens ur:
+
+   1. innenfor 2 sek/døgn.
 
 Kontrollutstyret skal ha brukerveiledning og nødvendige spesifikasjoner for kalibrering, samt kalibreres ved bruk av anerkjente kalibreringsmetoder og i henhold til fabrikantens anvisninger.
 
@@ -86,7 +100,11 @@ Verkstedets datautstyr skal kunne behandle data fra fartsskriveren og verkstedko
 
 Godkjent fartsskriververksted skal ha en ansvarlig leder og stedfortreder. Ansvarlig leder skal være heltidsbeskjeftiget og oppfylle kompetansekravene til mekaniker etter [§ 9](forskrift/2018-09-26-1467/§9).
 
-Ansvarlig leder er ansvarlig for at arbeid på fartsskriver gjennomføres i samsvar med gjeldende regelverk. Ansvarlig leder skal samordne arbeidet og er verkstedets kontaktperson i forhold til Statens vegvesen. Ansvarlig leder skal bl.a:rettlede personalet og påse at arbeidet utføres i samsvar med denne forskriftenpåse at mekanikere oppfyller kravene etter [§ 10](forskrift/2018-09-26-1467/§10), herunder at etterutdanning av mekanikere gjennomføres ved behov. Ansvarlig leder plikter å påse at fartsskriververkstedet dokumenterer opplæring gjennomført av mekanikere tilknyttet virksomhetensørge for at virksomheten til enhver tid har personale som har kjennskap til og ansvar for datasikkerhet og datahåndtering, samt fartsskriververkstedets system for kvalitetsstyring.
+Ansvarlig leder er ansvarlig for at arbeid på fartsskriver gjennomføres i samsvar med gjeldende regelverk. Ansvarlig leder skal samordne arbeidet og er verkstedets kontaktperson i forhold til Statens vegvesen. Ansvarlig leder skal bl.a:
+
+1. rettlede personalet og påse at arbeidet utføres i samsvar med denne forskriften
+2. påse at mekanikere oppfyller kravene etter [§ 10](forskrift/2018-09-26-1467/§10), herunder at etterutdanning av mekanikere gjennomføres ved behov. Ansvarlig leder plikter å påse at fartsskriververkstedet dokumenterer opplæring gjennomført av mekanikere tilknyttet virksomheten
+3. sørge for at virksomheten til enhver tid har personale som har kjennskap til og ansvar for datasikkerhet og datahåndtering, samt fartsskriververkstedets system for kvalitetsstyring.
 
 Krav til ansvarlig leder anses videre oppfylt på bakgrunn av annen relevant utdanning eller praksis dersom Statens vegvesen finner denne likeverdig med forannevnte.
 
@@ -100,7 +118,16 @@ Ved ansvarlig leders fravær skal det utpekes en stedfortreder. Denne skal oppfy
 
 Mekaniker skal til enhver tid besitte de kunnskaper og ferdigheter som er nødvendige for å utføre arbeid etter denne forskriften.
 
-Mekaniker skal ha gjennomgått relevant opplæring om fartsskriver, herunder om fartsskriverens funksjon, kontrollmetoder og formål. Opplæringen skal omfatte:gjeldende regler for utføring av arbeid på fartsskriverfartsskriverens funksjonarbeidsmetoder og utstyr ved installering, ettersyn og reparasjonmetoder og utstyr for gjennomføring av arbeid på fartsskriverdokumentasjon for utført installering, reparasjon, ettersyn og kontrolldatasikkerhet og datahåndtering for digital fartsskriverprosedyrer for behandling av elektroniske data tilknyttet fartsskriverenprosedyre sikring av habiliteten ved arbeid på og kontroll av fartsskriver.
+Mekaniker skal ha gjennomgått relevant opplæring om fartsskriver, herunder om fartsskriverens funksjon, kontrollmetoder og formål. Opplæringen skal omfatte:
+
+1. gjeldende regler for utføring av arbeid på fartsskriver
+2. fartsskriverens funksjon
+3. arbeidsmetoder og utstyr ved installering, ettersyn og reparasjon
+4. metoder og utstyr for gjennomføring av arbeid på fartsskriver
+5. dokumentasjon for utført installering, reparasjon, ettersyn og kontroll
+6. datasikkerhet og datahåndtering for digital fartsskriver
+7. prosedyrer for behandling av elektroniske data tilknyttet fartsskriveren
+8. prosedyre sikring av habiliteten ved arbeid på og kontroll av fartsskriver.
 
 Mekanikere som selv skal prøvekjøre kjøretøyene de arbeider på, må ha førerrett for dette, jf. [forskrift 19. januar 2004 nr. 298 om førerkort m.m](forskrift/2004-01-19-298). Unntak i [førerkortforskriften § 12-2](forskrift/2004-01-19-298/§12-2) første ledd gjelder.
 
@@ -152,7 +179,17 @@ Ansvarlig leder plikter å føre tilsyn med at arbeidet organiseres og gjennomf�
 
 ### § 15. Utforming og innhold av kvalitetsstyringssystemet
 
-Kvalitetsstyringssystemet skal minimum inneholde følgende:Beskrivelse av hvordan arbeidet på fartsskrivere er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.Oversikt over utstyr, plombeutstyr og plombenummer som tilhører fartsskriververkstedet og prosedyrebeskrivelse for oppbevaring av plombeverktøy, installasjonsplater og annet utstyr som kan endre innstillingene til fartsskriveren.Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester) og prosedyrebeskrivelse for gjennomføring av arbeid på fartsskrivere.Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.Prosedyrebeskrivelse for og registreringer av kalibrering og periodisk vedlikehold av utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.Prosedyrebeskrivelse for behandling av elektroniske data tilknyttet fartsskriveren.Prosedyrebeskrivelse for sikring av habiliteten ved arbeid på og kontroll av fartsskriver.Prosedyrebeskrivelse for og registeringer av avvikshåndtering.
+Kvalitetsstyringssystemet skal minimum inneholde følgende:
+
+1. Beskrivelse av hvordan arbeidet på fartsskrivere er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.
+2. Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.
+3. Oversikt over utstyr, plombeutstyr og plombenummer som tilhører fartsskriververkstedet og prosedyrebeskrivelse for oppbevaring av plombeverktøy, installasjonsplater og annet utstyr som kan endre innstillingene til fartsskriveren.
+4. Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester) og prosedyrebeskrivelse for gjennomføring av arbeid på fartsskrivere.
+5. Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.
+6. Prosedyrebeskrivelse for og registreringer av kalibrering og periodisk vedlikehold av utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.
+7. Prosedyrebeskrivelse for behandling av elektroniske data tilknyttet fartsskriveren.
+8. Prosedyrebeskrivelse for sikring av habiliteten ved arbeid på og kontroll av fartsskriver.
+9. Prosedyrebeskrivelse for og registeringer av avvikshåndtering.
 
 > Endret ved forskrift [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 16).
 
@@ -180,7 +217,18 @@ Statens vegvesen fører register over utstedte, stjålne, tapte og defekte verks
 
 ### § 18. Verkstedkort i kvalitetsstyringssystemet
 
-Kvalitetsstyringssystemet skal inneholde følgende rutiner for oppbevaring og håndtering av verkstedkort:Oversikt over verkstedkort med mekanikeres navn og fødselsdato, kortnummer, kortets gyldighetstid, samt dato for når kortet er tatt i bruk og eventuell inndragningat verkstedkortet bare brukes av den mekaniker som kortet er utstedt tilat mekaniker som arbeider på flere verksteder, bare utfører arbeid på fartsskriver med det verkstedkortet som er utstedt til verkstedetat verkstedkortet skal låses inn og oppbevares forsvarlig når det ikke er i brukinndragning av verkstedkort hvis mekaniker misbruker kortet, eller på annen måte ikke overholder reglene for bruk av kort eller PIN-kodetilbakelevering av sitt kort uten PIN-kode til ansvarlig leder ved arbeidsforholdets opphørat verkstedkort som verkstedet inndrar eller får tilbakelevert, jf. bokstav e) og f), straks sendes til Statens vegvesen med opplysninger om årsakenvarsling av Statens vegvesen om verkstedkort som er mistet, stjålet eller defektverkstedets oppbevaring av opplysninger om mekanikere og verkstedkort i ett år etter arbeidsforholdets opphøroppbevaring og sikring av data fra verkstedkort.
+Kvalitetsstyringssystemet skal inneholde følgende rutiner for oppbevaring og håndtering av verkstedkort:
+
+1. Oversikt over verkstedkort med mekanikeres navn og fødselsdato, kortnummer, kortets gyldighetstid, samt dato for når kortet er tatt i bruk og eventuell inndragning
+2. at verkstedkortet bare brukes av den mekaniker som kortet er utstedt til
+3. at mekaniker som arbeider på flere verksteder, bare utfører arbeid på fartsskriver med det verkstedkortet som er utstedt til verkstedet
+4. at verkstedkortet skal låses inn og oppbevares forsvarlig når det ikke er i bruk
+5. inndragning av verkstedkort hvis mekaniker misbruker kortet, eller på annen måte ikke overholder reglene for bruk av kort eller PIN-kode
+6. tilbakelevering av sitt kort uten PIN-kode til ansvarlig leder ved arbeidsforholdets opphør
+7. at verkstedkort som verkstedet inndrar eller får tilbakelevert, jf. bokstav e) og f), straks sendes til Statens vegvesen med opplysninger om årsaken
+8. varsling av Statens vegvesen om verkstedkort som er mistet, stjålet eller defekt
+9. verkstedets oppbevaring av opplysninger om mekanikere og verkstedkort i ett år etter arbeidsforholdets opphør
+10. oppbevaring og sikring av data fra verkstedkort.
 
 > Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024).
 
@@ -228,7 +276,10 @@ Ved kontroll av fartsskriver skal det kontrolleres at det på kjøretøyet ikke 
 
 Fartsskriver skal etter utført reparasjon kontrolleres i overensstemmelse med denne forskrift og de metoder angitt av produsenten av fartsskriveren eller produsentens representant. Fartsskriverens evne til å vise og registrere avstand og hastighet skal kontrolleres. Testutstyret skal trinnløst kunne generere alle hastigheter innenfor fartsskriverens visnings- og registreringsområde med en måleusikkerhet mindre enn 0,3 km/t. Fartsskriverens evne til å vise og registrere hastighet skal kontrolleres i minst tre punkter jevnt fordelt innenfor fartsskriverens visnings- og registreringsområde.
 
-Resultatet av de utførte kontroller skal for:analog fartsskriver føres på prøvediagramskive og oppbevares sammen med kontrollskjemaer i tre årdigital fartsskriver og smart fartsskriver registreres på verkstedkortet, kopieres til et eksternt lagringsmedium og oppbevares i tre år
+Resultatet av de utførte kontroller skal for:
+
+1. analog fartsskriver føres på prøvediagramskive og oppbevares sammen med kontrollskjemaer i tre år
+2. digital fartsskriver og smart fartsskriver registreres på verkstedkortet, kopieres til et eksternt lagringsmedium og oppbevares i tre år
 
 Ved reparasjon eller utskifting av digital fartsskriver skal fartsskriververkstedet laste ned alle data fra fartsskriveren før reparasjon eller utskiftning påbegynnes. Nedlastede data skal oppbevares i et eksternt lagringsmedium i ett år og deretter destrueres. Kopi av nedlastede data sendes til transportforetaket uten ugrunnet opphold. I tilfeller hvor nedlasting ikke er teknisk mulig eller data har gått tapt skal verkstedet bekrefte dette skriftlig overfor dataenes eier med kopi til Statens vegvesen. Kopi av bekreftelsen skal fartsskriververkstedet oppbevare sammen med kontrollskjemaet i tre år.
 
@@ -262,7 +313,12 @@ Dersom retting ikke er foretatt innen en gitt frist, kan Statens vegvesen fastse
 
 Statens vegvesen skal tilbakekalle godkjenningen dersom vilkårene for godkjenning slik dette følger av forskriften [kapittel 2](forskrift/2018-09-26-1467/kap2) samt [§ 11](forskrift/2018-09-26-1467/§11) og/eller godkjenningsvedtak ikke lenger er oppfylt.
 
-Statens vegvesen kan midlertidig eller permanent tilbakekalle fartsskriververkstedets godkjenning dersom det avdekkes:Vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, registrering og rapportering, habilitet eller kvalitetsstyring.Vesentlige eller gjentatte avvik fra kravene til arbeid med fartsskriver.At pålegg som er nødvendig for at arbeid på fartsskriver utføres i samsvar med gjeldende regelverk ikke etterkommes eller at skriftlig advarsel ikke tas til følge.At fartsskriververkstedet unndrar seg tilsyn, herunder ikke svarer på henvendelser eller følger opp frister.
+Statens vegvesen kan midlertidig eller permanent tilbakekalle fartsskriververkstedets godkjenning dersom det avdekkes:
+
+1. Vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, registrering og rapportering, habilitet eller kvalitetsstyring.
+2. Vesentlige eller gjentatte avvik fra kravene til arbeid med fartsskriver.
+3. At pålegg som er nødvendig for at arbeid på fartsskriver utføres i samsvar med gjeldende regelverk ikke etterkommes eller at skriftlig advarsel ikke tas til følge.
+4. At fartsskriververkstedet unndrar seg tilsyn, herunder ikke svarer på henvendelser eller følger opp frister.
 
 For mindre vesentlige forhold kan det gis advarsel.
 

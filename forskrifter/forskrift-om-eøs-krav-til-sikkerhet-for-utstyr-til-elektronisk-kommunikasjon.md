@@ -30,7 +30,19 @@ Formålet med forskriften er å sikre at det indre marked fungerer og sørge for
 
 Forskriften gjelder utstyr til elektronisk kommunikasjon konstruert for bruk ved en merkespenning på mellom 50 og 1000 V for vekselstrøm og på mellom 75 og 1500 V for likestrøm. Forskriften setter krav til utstyr som gjøres tilgjengelig på markedet og krav til markedsaktørene som gjør utstyret tilgjengelig.
 
-Forskriften gjelder ikkeelektrisk utstyr til bruk i en eksplosiv atmosfæreelektrisk utstyr til radiologi og medisinske formålelektriske deler til vare- og personheiserelektrisitetsmålereplugger og stikkontakter til bruk i boligerelektriske gjerdeapparaterspesialisert elektrisk utstyr til bruk om bord i skip, fly eller jernbane som er i samsvar med sikkerhetsbestemmelser utarbeidet av internasjonale organer som Norge er medlem avelektromagnetisk interferensspesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformålutstyr regulert av [forskrift 20. juni 2000 nr. 628](forskrift/2000-06-20-628) om EØS-krav til radio- og teleterminalutstyr og forskrift om EØS-krav til radioutstyr med ikrafttredelse 13. juni 2016 som opphever førstnevnte forskriftutstyr regulert av [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr og forskrift om EØS-krav til maritimt radioutstyr med ikrafttredelse 18. september 2016 som opphever førstnevnte forskrift.
+Forskriften gjelder ikke
+
+1. elektrisk utstyr til bruk i en eksplosiv atmosfære
+2. elektrisk utstyr til radiologi og medisinske formål
+3. elektriske deler til vare- og personheiser
+4. elektrisitetsmålere
+5. plugger og stikkontakter til bruk i boliger
+6. elektriske gjerdeapparater
+7. spesialisert elektrisk utstyr til bruk om bord i skip, fly eller jernbane som er i samsvar med sikkerhetsbestemmelser utarbeidet av internasjonale organer som Norge er medlem av
+8. elektromagnetisk interferens
+9. spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål
+10. utstyr regulert av [forskrift 20. juni 2000 nr. 628](forskrift/2000-06-20-628) om EØS-krav til radio- og teleterminalutstyr og forskrift om EØS-krav til radioutstyr med ikrafttredelse 13. juni 2016 som opphever førstnevnte forskrift
+11. utstyr regulert av [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr og forskrift om EØS-krav til maritimt radioutstyr med ikrafttredelse 18. september 2016 som opphever førstnevnte forskrift.
 
 På Svalbard kan det for utstyr som omfattes av forskriften, alternativt gis tillatelse etter [ekomloven § 13-1 tredje ledd](lov/2024-12-13-76/§13-1/ledd/3).
 
@@ -38,7 +50,21 @@ På Svalbard kan det for utstyr som omfattes av forskriften, alternativt gis til
 
 ## § 3. Definisjoner
 
-I forskriften menes med*gjøre tilgjengelig på markedet:* enhver levering av et utstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre et utstyr tilgjengelig i EØS for første gang*produsent:* enhver fysisk eller juridisk person som produserer et utstyr, eller som får et utstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke*autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et utstyr fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et utstyr tilgjengelig på markedet*markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et utstyr skal oppfylle*harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av Unionens harmoniseringsregelverk*samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene i forskriften her er oppfylt*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et produkt som allerede er gjort tilgjengelig for sluttbrukeren*tilbaketrekking:* ethvert tiltak med sikte på å hindre at et utstyr i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at utstyret oppfyller gjeldende krav fastsatt i EØS-regelverket.
+I forskriften menes med
+
+1. *gjøre tilgjengelig på markedet:* enhver levering av et utstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+2. *bringe i omsetning:* gjøre et utstyr tilgjengelig i EØS for første gang
+3. *produsent:* enhver fysisk eller juridisk person som produserer et utstyr, eller som får et utstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke
+4. *autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+5. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et utstyr fra en tredjestat i omsetning i EØS
+6. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et utstyr tilgjengelig på markedet
+7. *markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren
+8. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et utstyr skal oppfylle
+9. *harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av Unionens harmoniseringsregelverk
+10. *samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene i forskriften her er oppfylt
+11. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et produkt som allerede er gjort tilgjengelig for sluttbrukeren
+12. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at et utstyr i omsetningskjeden blir gjort tilgjengelig på markedet
+13. *CE-merking:* merking der produsenten angir at utstyret oppfyller gjeldende krav fastsatt i EØS-regelverket.
 
 For øvrig gjelder definisjonene i ekomloven.
 
@@ -50,7 +76,15 @@ Utstyr kan gjøres tilgjengelig på markedet når det tilfredsstiller de grunnle
 
 Utstyr skal være konstruert slik at det ikke forårsaker fare for liv og helse for personer og husdyr og fare for skade på eiendom, og oppfylle grunnleggende krav til sikkerhet når det er korrekt installert, vedlikeholdt og blir brukt som tilsiktet.
 
-Utstyret skal være konstruert og produsert i samsvar med anerkjent teknologisk praksis for sikkerhet, slik at utstyret ved installasjon, vedlikehold og tiltenkt bruk ikke medfører fare som kan være forårsaket av:direkte eller indirekte kontakt med utstyrettemperaturer, lysbuer eller strålingikke-elektrisk art som kan skyldes det elektriske utstyretat utstyrets isolasjon ikke er tilpasset de forhold som kan forutsesat utstyret ikke oppfyller mekaniske kravat utstyret ikke kan motstå ikke-mekaniske påvirkninger som kan forutses under de miljømessige forhold som utstyret forventes brukt ioverbelastning og andre påregnelige feil.
+Utstyret skal være konstruert og produsert i samsvar med anerkjent teknologisk praksis for sikkerhet, slik at utstyret ved installasjon, vedlikehold og tiltenkt bruk ikke medfører fare som kan være forårsaket av:
+
+1. direkte eller indirekte kontakt med utstyret
+2. temperaturer, lysbuer eller stråling
+3. ikke-elektrisk art som kan skyldes det elektriske utstyret
+4. at utstyrets isolasjon ikke er tilpasset de forhold som kan forutses
+5. at utstyret ikke oppfyller mekaniske krav
+6. at utstyret ikke kan motstå ikke-mekaniske påvirkninger som kan forutses under de miljømessige forhold som utstyret forventes brukt i
+7. overbelastning og andre påregnelige feil.
 
 Utstyret og dets enkelte deler skal være konstruert slik at det kan settes sammen og tilkoples på en korrekt og sikker måte.
 
@@ -78,11 +112,20 @@ Dersom utstyret utgjør en risiko, skal produsenten straks melde fra til Nasjona
 
 Produsenten kan ved skriftlig fullmakt gi en autorisert representant i EØS fullmakt til å opptre på vegne av produsenten. Den autoriserte representanten kan ikke gis fullmakt til å påta seg ansvaret for kravene til utarbeidelse av teknisk dokumentasjon i § 13 eller ansvar for å sikre at utstyret er konstruert og produsert i samsvar med de grunnleggende kravene i forskriften [§ 5](forskrift/2016-04-15-379/§5).
 
-Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til åstille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble brakt i omsetningpå anmodning fra Nasjonal kommunikasjonsmyndighet, legge frem informasjon og dokumentasjon på at utstyret er i samsvar med kravene i forskriftenpå anmodning, samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved utstyret.
+Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til å
+
+1. stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble brakt i omsetning
+2. på anmodning fra Nasjonal kommunikasjonsmyndighet, legge frem informasjon og dokumentasjon på at utstyret er i samsvar med kravene i forskriften
+3. på anmodning, samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved utstyret.
 
 ## § 8. Krav til importør
 
-Før utstyr bringes i omsetning skal importør sikre atprodusenten har utført samsvarsvurdering i samsvar med [§ 11](forskrift/2016-04-15-379/§11)produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 13](forskrift/2016-04-15-379/§13)utstyret er korrekt merket i samsvar med [§ 14](forskrift/2016-04-15-379/§14)utstyret har bruksanvisning og sikkerhetsinformasjon i samsvar med kravene i [§ 15](forskrift/2016-04-15-379/§15).
+Før utstyr bringes i omsetning skal importør sikre at
+
+1. produsenten har utført samsvarsvurdering i samsvar med [§ 11](forskrift/2016-04-15-379/§11)
+2. produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 13](forskrift/2016-04-15-379/§13)
+3. utstyret er korrekt merket i samsvar med [§ 14](forskrift/2016-04-15-379/§14)
+4. utstyret har bruksanvisning og sikkerhetsinformasjon i samsvar med kravene i [§ 15](forskrift/2016-04-15-379/§15).
 
 Der en importør finner ut eller har grunn til å tro at utstyr ikke oppfyller de grunnleggende kravene i forskriften [§ 5](forskrift/2016-04-15-379/§5), skal han ikke gjøre utstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom utstyret utgjør en risiko, skal importør informere produsent og Nasjonal kommunikasjonsmyndighet om dette.
 
@@ -102,7 +145,13 @@ Der importør bringer utstyr i omsetning under sitt navn eller varemerke, eller 
 
 ## § 9. Krav til distributør
 
-Før utstyr gjøres tilgjengelig på markedet skal distributøren sikre atutstyret er CE-merket i samsvar med [§ 14](forskrift/2016-04-15-379/§14) og at det følger med dokumentasjon, bruksanvisning og sikkerhetsinformasjon slik det fremgår av [§ 15](forskrift/2016-04-15-379/§15)produsent og importør har oppfylt krav omat utstyret som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 14](forskrift/2016-04-15-379/§14) annet ledd som gjør det mulig å identifisere utstyretat utstyret er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 14](forskrift/2016-04-15-379/§14) første ledd.
+Før utstyr gjøres tilgjengelig på markedet skal distributøren sikre at
+
+1. utstyret er CE-merket i samsvar med [§ 14](forskrift/2016-04-15-379/§14) og at det følger med dokumentasjon, bruksanvisning og sikkerhetsinformasjon slik det fremgår av [§ 15](forskrift/2016-04-15-379/§15)
+2. produsent og importør har oppfylt krav om
+
+   1. at utstyret som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 14](forskrift/2016-04-15-379/§14) annet ledd som gjør det mulig å identifisere utstyret
+   2. at utstyret er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 14](forskrift/2016-04-15-379/§14) første ledd.
 
 Der en distributør finner ut eller har grunn til å tro at utstyr ikke oppfyller de grunnleggende kravene i forskriften [§ 5](forskrift/2016-04-15-379/§5), skal han ikke gjøre utstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom utstyret utgjør en risiko, skal distributør informere produsent og Nasjonal kommunikasjonsmyndighet.
 
@@ -126,7 +175,12 @@ Hvor det ikke finnes harmoniserte standarder etter første ledd eller internasjo
 
 ## § 11. Samsvarsvurdering
 
-Produsent skal dokumentere at de grunnleggende kravene i [§ 5](forskrift/2016-04-15-379/§5) er oppfylt ved samsvarsprosedyre ved intern produksjonskontroll som innebærer at produsenten skalutarbeide teknisk dokumentasjon i henhold til forskriften [§ 13](forskrift/2016-04-15-379/§13)besørge en forsvarlig produksjonsprosess for å sikre at utstyret er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonenprodusent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 14 på utstyr som oppfyller kravene i forskriftenprodusent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 12](forskrift/2016-04-15-379/§12) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning.
+Produsent skal dokumentere at de grunnleggende kravene i [§ 5](forskrift/2016-04-15-379/§5) er oppfylt ved samsvarsprosedyre ved intern produksjonskontroll som innebærer at produsenten skal
+
+1. utarbeide teknisk dokumentasjon i henhold til forskriften [§ 13](forskrift/2016-04-15-379/§13)
+2. besørge en forsvarlig produksjonsprosess for å sikre at utstyret er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonen
+3. produsent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 14 på utstyr som oppfyller kravene i forskriften
+4. produsent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 12](forskrift/2016-04-15-379/§12) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning.
 
 ## § 12. Samsvarserklæring
 
@@ -140,7 +194,14 @@ Samsvarserklæringen skal utferdiges på norsk, svensk, dansk eller engelsk.
 
 Den tekniske dokumentasjonen skal sikre mulighet for å vurdere om utstyret er i samsvar med kravene i forskriften, og skal omfatte en analyse og vurdering av risiko ved utstyret. Dokumentasjonen skal inneholde en beskrivelse av gjeldende krav, og skal, i den grad det er relevant for vurderingen, omfatte dokumentasjon av konstruksjon, produksjon og utstyrets virkemåte.
 
-Den tekniske dokumentasjonen, skal i den grad det er relevant, minst inneholdeen generell beskrivelse av utstyretkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer mv.beskrivelser og forklaringer som er nødvendige for å forstå tegninger og oversikter som nevnt i bokstav b samt bruk av utstyretliste over harmoniserte standarder som er anvendt med referanser til Den europeiske unions tidende eller internasjonale standarder eller nasjonale standarder. Der slike standarder ikke er anvendt, skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder, internasjonale standarder eller nasjonale standarder er anvendt, skal dokumentasjonen angi hvilke deler som er anvendtresultater fra gjennomførte konstruksjonsberegninger, gjennomførte undersøkelser og andre relevante elementertestrapporter.
+Den tekniske dokumentasjonen, skal i den grad det er relevant, minst inneholde
+
+1. en generell beskrivelse av utstyret
+2. konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer mv.
+3. beskrivelser og forklaringer som er nødvendige for å forstå tegninger og oversikter som nevnt i bokstav b samt bruk av utstyret
+4. liste over harmoniserte standarder som er anvendt med referanser til Den europeiske unions tidende eller internasjonale standarder eller nasjonale standarder. Der slike standarder ikke er anvendt, skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder, internasjonale standarder eller nasjonale standarder er anvendt, skal dokumentasjonen angi hvilke deler som er anvendt
+5. resultater fra gjennomførte konstruksjonsberegninger, gjennomførte undersøkelser og andre relevante elementer
+6. testrapporter.
 
 ## § 14. Krav til merking
 
@@ -198,6 +259,16 @@ Fra den tid forskriften trer i kraft, gjøres følgende endringer i [forskrift 1
 
 ## Vedlegg 1. Samsvarserklæring
 
-Samsvarserklæring (Nr. XXXX) (Innsetting av nummer er valgfritt)Produkt (produktnavn, typebetegnelse, parti- eller serienummer):Navn og adresse til produsent eller produsentens autorisert representant:Denne samsvarserklæringen er utferdiget under eneansvar av produsenten.Produktet som samsvarserklæres (identifisering av utstyret slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer utstyret):Produktet er i samsvar med følgende relevante EU-lovgivning:Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i punkt 5:Supplerende opplysninger:Underskrevet for og på vegne av:
-(sted og dato for utstedelse)
-(navn, stilling) (underskrift)
+Samsvarserklæring (Nr. XXXX) (Innsetting av nummer er valgfritt)
+
+1. Produkt (produktnavn, typebetegnelse, parti- eller serienummer):
+2. Navn og adresse til produsent eller produsentens autorisert representant:
+3. Denne samsvarserklæringen er utferdiget under eneansvar av produsenten.
+4. Produktet som samsvarserklæres (identifisering av utstyret slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer utstyret):
+5. Produktet er i samsvar med følgende relevante EU-lovgivning:
+6. Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i punkt 5:
+7. Supplerende opplysninger:
+
+   Underskrevet for og på vegne av:
+   (sted og dato for utstedelse)
+   (navn, stilling) (underskrift)

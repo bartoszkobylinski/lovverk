@@ -15,7 +15,7 @@ xml_hash: "25336bfe1d0a5cdfc6b8d431480b77db9462a572ce707d05a1c52cf70c801999"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0125"
@@ -35,11 +35,28 @@ Kongen kan gi forskrift om lovens anvendelse for Svalbard og fastsette særlige 
 
 ## § 3. Økodesign
 
-Kongen kan gi forskrift for å gjennomføre rettsakter som er vedtatt i medhold av direktiv [2005/32/EF](eu/32005l0032) og [2009/125/EF](eu/32009l0125) og innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl), blant annet ombærekraftskrav knyttet til produkters design, sammensetning, innhold og egenskaper, slik som innhold av kjemiske stoffer som gir grunn til bekymring, innhold av materialgjenvunnet råvare, energibruk og energieffektivitet, klima- og miljøfotavtrykk, holdbarhet, ombrukbarhet, reparerbarhet, fradelbarhet eller materialgjenvinnbarhetytelses- og funksjonskravkrav til dokumentasjon av og informasjon om oppfyllelse av krav etter bokstav a og b, og plikt til å gjøre dokumentasjon og informasjon tilgjengelig.
+Kongen kan gi forskrift for å gjennomføre rettsakter som er vedtatt i medhold av direktiv [2005/32/EF](eu/32005l0032) og [2009/125/EF](eu/32009l0125) og innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl), blant annet om
+
+1. bærekraftskrav knyttet til produkters design, sammensetning, innhold og egenskaper, slik som innhold av kjemiske stoffer som gir grunn til bekymring, innhold av materialgjenvunnet råvare, energibruk og energieffektivitet, klima- og miljøfotavtrykk, holdbarhet, ombrukbarhet, reparerbarhet, fradelbarhet eller materialgjenvinnbarhet
+2. ytelses- og funksjonskrav
+3. krav til dokumentasjon av og informasjon om oppfyllelse av krav etter bokstav a og b, og plikt til å gjøre dokumentasjon og informasjon tilgjengelig.
 
 ## § 4. Bærekraftige produkter og verdikjeder
 
-Kongen kan gi forskrift for å gjennomføre EØS-rettslige forpliktelser om krav til bærekraft i hele verdikjeden for batterier, kjøretøy, emballasje, plast, elektriske og elektroniske produkter og tekstiler, blant annet omplikter og ansvar for bærekraft i verdikjeden hos markedsaktøreraktsomhetskrav og aktsomhetserklæringer om bærekraft, inkludert sosial bærekraftbærekraftskrav til produktets egenskaper, herunder krav til design og utforming av produkter, slik som holdbarhet og kvalitet, innhold av kjemiske stoffer som gir grunn til bekymring, innhold av materialgjenvunnet råvare, klima- og miljøfotavtrykk, energibruk og energieffektivitet, reparerbarhet, fradelbarhet, ombrukbarhet eller gjenvinnbarhetytelses- og funksjonskrav for produkterdokumentasjon av bærekraftsaspekter ved produktertilgjengeliggjøring av informasjon til markedet og brukere om bærekraftsaspekterrestriksjoner på og forbud mot innførsel, utførsel, omsetning og bruk av produkterforbruksreduksjon og tiltak for å fremme bærekraftige forbruksmønstreutvidet produsentansvar, inkludert registre over produsenterforebygging av at avfall oppstår, håndtering av avfall, bindende mål for gjenvinning av avfall inkludert mål for forberedelse til ombruk og materialgjenvinning, og avfallsplanergrønne offentlige anskaffelserrapporterings- og kontrollprosedyrer.
+Kongen kan gi forskrift for å gjennomføre EØS-rettslige forpliktelser om krav til bærekraft i hele verdikjeden for batterier, kjøretøy, emballasje, plast, elektriske og elektroniske produkter og tekstiler, blant annet om
+
+1. plikter og ansvar for bærekraft i verdikjeden hos markedsaktører
+2. aktsomhetskrav og aktsomhetserklæringer om bærekraft, inkludert sosial bærekraft
+3. bærekraftskrav til produktets egenskaper, herunder krav til design og utforming av produkter, slik som holdbarhet og kvalitet, innhold av kjemiske stoffer som gir grunn til bekymring, innhold av materialgjenvunnet råvare, klima- og miljøfotavtrykk, energibruk og energieffektivitet, reparerbarhet, fradelbarhet, ombrukbarhet eller gjenvinnbarhet
+4. ytelses- og funksjonskrav for produkter
+5. dokumentasjon av bærekraftsaspekter ved produkter
+6. tilgjengeliggjøring av informasjon til markedet og brukere om bærekraftsaspekter
+7. restriksjoner på og forbud mot innførsel, utførsel, omsetning og bruk av produkter
+8. forbruksreduksjon og tiltak for å fremme bærekraftige forbruksmønstre
+9. utvidet produsentansvar, inkludert registre over produsenter
+10. forebygging av at avfall oppstår, håndtering av avfall, bindende mål for gjenvinning av avfall inkludert mål for forberedelse til ombruk og materialgjenvinning, og avfallsplaner
+11. grønne offentlige anskaffelser
+12. rapporterings- og kontrollprosedyrer.
 
 ## § 4 a. Bærekraftskrav for brensler
 
@@ -69,7 +86,11 @@ Kongen kan gi forskrift om opplysningsplikt, undersøkelsesplikt og kostnadsdekn
 
 ## § 7. Nødvendige vedtak for gjennomføring av loven
 
-Tilsynsmyndigheten kan fatte enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11), blant annetforby produksjon, innførsel, omsetning, eksport, bruk eller annen behandling av produkterpålegge tilbakekall eller tilbaketrekking av produkterpålegge gjennomføring av tiltak for å bringe et produkt eller et tilfelle i samsvar med bestemmelser gitt i medhold av denne loven.
+Tilsynsmyndigheten kan fatte enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11), blant annet
+
+1. forby produksjon, innførsel, omsetning, eksport, bruk eller annen behandling av produkter
+2. pålegge tilbakekall eller tilbaketrekking av produkter
+3. pålegge gjennomføring av tiltak for å bringe et produkt eller et tilfelle i samsvar med bestemmelser gitt i medhold av denne loven.
 
 Kongen kan gi forskrifter som er nødvendige for å gjennomføre bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
 
@@ -85,7 +106,11 @@ Kongen kan gi forskrift om midlertidig forbud som nevnt i første og andre ledd.
 
 ## § 9. Risikoreduserende tiltak
 
-Hvis det foreligger en risiko for skade på helse eller miljø og det for øvrig foreligger særlige grunner, kan tilsynsmyndigheten pålegge den som produserer, innfører, bearbeider, omsetter, bruker eller på annen måte behandler produkt, å treffe tiltak, alene eller i samarbeid, for å redusere risikoen, blant annet åoffentliggjøre advarselsinformasjon eller lignende til distributører eller brukere av produktettilbakekalle eller tilbaketrekke produktet fra brukere eller distributøreruskadeliggjøre produktet.
+Hvis det foreligger en risiko for skade på helse eller miljø og det for øvrig foreligger særlige grunner, kan tilsynsmyndigheten pålegge den som produserer, innfører, bearbeider, omsetter, bruker eller på annen måte behandler produkt, å treffe tiltak, alene eller i samarbeid, for å redusere risikoen, blant annet å
+
+1. offentliggjøre advarselsinformasjon eller lignende til distributører eller brukere av produktet
+2. tilbakekalle eller tilbaketrekke produktet fra brukere eller distributører
+3. uskadeliggjøre produktet.
 
 Det kan videre fattes vedtak om forbud mot eksport av produkter som utgjør en risiko som nevnt i første ledd.
 
@@ -117,7 +142,11 @@ Tvangsmulkt ilegges den ansvarlige for overtredelsen. Er overtredelsen skjedd p�
 
 ## § 14. Overtredelsesgebyr
 
-Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrerbestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
+Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer
+
+1. bestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)
+2. plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)
+3. plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
 
 Foretak kan ilegges overtredelsesgebyr dersom overtredelsen ble begått av noen som handlet på vegne av foretaket. Det gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr for overtredelsen.
 

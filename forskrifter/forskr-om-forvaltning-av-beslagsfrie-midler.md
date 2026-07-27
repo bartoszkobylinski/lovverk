@@ -28,7 +28,11 @@ Tillitsmann som forvalter beslagsfrie midler, skal føre regnskap over midlene.
 
 ## § 2.
 
-Fylkesmannen har plikt til å påta seg oppgaven som tillitsmann ved beslagsforbud, med mindrede beslagsfrie midlene omfatter annet enn penger og verdipapirer, elleroverdrageren har gitt regler for forvaltningen av de beslagsfrie midlene som avviker fra de reglene som gjelder for forvaltning av midler etter [vergemålsloven kapittel 7](lov/2010-03-26-9/kap7), ellererververen bor utenfor kommunen.
+Fylkesmannen har plikt til å påta seg oppgaven som tillitsmann ved beslagsforbud, med mindre
+
+1. de beslagsfrie midlene omfatter annet enn penger og verdipapirer, eller
+2. overdrageren har gitt regler for forvaltningen av de beslagsfrie midlene som avviker fra de reglene som gjelder for forvaltning av midler etter [vergemålsloven kapittel 7](lov/2010-03-26-9/kap7), eller
+3. erververen bor utenfor kommunen.
 
 > Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (i kraft 1 juli 2013).
 

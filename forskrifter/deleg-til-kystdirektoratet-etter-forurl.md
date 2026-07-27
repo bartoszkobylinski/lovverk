@@ -26,7 +26,15 @@ Med hjemmel i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensni
 
 Delegeringen medfører ikke myndighet til å fastsette forskrifter.
 
-Med hjemmel i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (Forurensningsloven) [§ 81](lov/1981-03-13-6/§81) annet ledd, jf. [kgl.res. 20. desember 2002 nr. 1805](forskrift/2002-12-20-1805) om delegering av myndighet til Fiskeridepartementet etter forurensningsloven og svalbardmiljøloven ved akutt forurensning eller fare for akutt forurensning, delegerer Fiskeridepartementet ansvar og myndighet til Kystdirektoratet etter følgende bestemmelser i forurensningsloven:§ 7 fjerde ledd,§ 48 til og med § 51,§ 73,§ 74 første, andre, tredje og femte ledd, og§ 75 til og med 78
-i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38), eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kap. 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.§ 37 andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til § 79 for så vidt gjelder skip.§ 39 tredje ledd.
+Med hjemmel i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (Forurensningsloven) [§ 81](lov/1981-03-13-6/§81) annet ledd, jf. [kgl.res. 20. desember 2002 nr. 1805](forskrift/2002-12-20-1805) om delegering av myndighet til Fiskeridepartementet etter forurensningsloven og svalbardmiljøloven ved akutt forurensning eller fare for akutt forurensning, delegerer Fiskeridepartementet ansvar og myndighet til Kystdirektoratet etter følgende bestemmelser i forurensningsloven:
+
+- § 7 fjerde ledd,
+- § 48 til og med § 51,
+- § 73,
+- § 74 første, andre, tredje og femte ledd, og
+- § 75 til og med 78
+  i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38), eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kap. 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.
+- § 37 andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til § 79 for så vidt gjelder skip.
+- § 39 tredje ledd.
 
 Delegeringen medfører ikke myndighet til å fastsette forskrifter.

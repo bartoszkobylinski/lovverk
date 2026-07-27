@@ -46,4 +46,7 @@ Reglane under I tek til å gjelda 1. januar 1988 og får verknad første gongen 
 
 Endringane av 15 juli 1994 nr. 680 tek til å gjelda for rente som påløpar frå og med 1. september 1994.
 
-For krav kor rente svarast for kvar månad etter tidlegare reglar, gjeld følgjande:På beløp som ikkje er betalt til rett tid, vert renter for påbyrja og ikkje utløpt månad innan 1. september å frafalle.På beløp som ikkje er betalt attende til rett tid, skal det svarast rente for heil månad av månad som er påbyrja og ikkje utløpt innan 1. september 1994. Deretter regnes renter etter dei nye reglane.
+For krav kor rente svarast for kvar månad etter tidlegare reglar, gjeld følgjande:
+
+1. På beløp som ikkje er betalt til rett tid, vert renter for påbyrja og ikkje utløpt månad innan 1. september å frafalle.
+2. På beløp som ikkje er betalt attende til rett tid, skal det svarast rente for heil månad av månad som er påbyrja og ikkje utløpt innan 1. september 1994. Deretter regnes renter etter dei nye reglane.

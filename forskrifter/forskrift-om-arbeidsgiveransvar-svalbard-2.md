@@ -15,7 +15,7 @@ xml_hash: "1e0a580bcb381ac0d4eea584793bd544d77e265ce303631e283c7d99f1604b57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Nødvendiggjør sykdommen kur og pleie på sykehus, isolasjon, desinfeksjon elle
 
 ## § 6.
 
-Arbeidsgiverens forpliktelser i henhold til foranstående paragrafer bortfaller såfremt den syke efter lægens bestemmelser kan bli sendt til sin bopel i hjemlandet eller hvis han ingen fast bopel har, til sin hjemstavnskommune. Arbeidsgiveren skal i så fall sørge for og bekoste hjemsendelse helt fram. Arbeidsgiveren kan i følgende tilfelle søke sine utgifter refundert hos den syke:Såfremt denne var lidende av sykdommen allerede ved avreisen til Svalbard.Hvis den syke ikke retter sig efter lægens bestemmelser eller utviser grov skjødesløshet med hensyn til sin helbred.Hvis sykdommen er pådratt med forsett, ved beruselse eller ved forsettlig overtredelse av arbeidsreglement o.l.
+Arbeidsgiverens forpliktelser i henhold til foranstående paragrafer bortfaller såfremt den syke efter lægens bestemmelser kan bli sendt til sin bopel i hjemlandet eller hvis han ingen fast bopel har, til sin hjemstavnskommune. Arbeidsgiveren skal i så fall sørge for og bekoste hjemsendelse helt fram. Arbeidsgiveren kan i følgende tilfelle søke sine utgifter refundert hos den syke:
+
+1. Såfremt denne var lidende av sykdommen allerede ved avreisen til Svalbard.
+2. Hvis den syke ikke retter sig efter lægens bestemmelser eller utviser grov skjødesløshet med hensyn til sin helbred.
+3. Hvis sykdommen er pådratt med forsett, ved beruselse eller ved forsettlig overtredelse av arbeidsreglement o.l.
 
 ## § 7.
 

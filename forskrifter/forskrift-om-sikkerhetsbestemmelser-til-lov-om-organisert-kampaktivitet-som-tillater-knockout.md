@@ -66,7 +66,14 @@ Søknadsfristen er tre måneder før igangsetting av den omsøkte kampaktivitete
 
 ### § 2-3. Krav til en søknad om godkjenning
 
-Søknaden skal inneholdeinformasjon om søkerenbeskrivelse av kampaktiviteten det søkes om godkjenning forkonkurransereglement som skal gjeldeantidopingbestemmelseren beskrivelse av hvordan søker oppfyller sikkerhetsbestemmelsene i denne forskriften og det konkurransereglementet som søknaden gjelderinformasjon om hvordan eventuelle brudd på sikkerhetsbestemmelsene i denne forskriften og konkurransereglementet som søknaden gjelder, vil bli sanksjonert.
+Søknaden skal inneholde
+
+1. informasjon om søkeren
+2. beskrivelse av kampaktiviteten det søkes om godkjenning for
+3. konkurransereglement som skal gjelde
+4. antidopingbestemmelser
+5. en beskrivelse av hvordan søker oppfyller sikkerhetsbestemmelsene i denne forskriften og det konkurransereglementet som søknaden gjelder
+6. informasjon om hvordan eventuelle brudd på sikkerhetsbestemmelsene i denne forskriften og konkurransereglementet som søknaden gjelder, vil bli sanksjonert.
 
 Godkjenningsnemnda kan be om ytterligere opplysninger som er nødvendige for å kunne vurdere en søknad.
 
@@ -74,9 +81,17 @@ Godkjenningsnemnda kan be om ytterligere opplysninger som er nødvendige for å 
 
 ### § 3-1. Kampansvarlig leder
 
-Hver organiserte kampaktivitet skal ledes av en kampansvarlig leder som skal lede kampen i kamparealet og påseat den organiserte kampaktiviteten foregår i tråd med kravene i denne forskriftenat den organiserte kampaktiviteten stoppes dersom en utøver anses som så underlegen at det å fortsette aktiviteten kan gi fare for skadeat kamputfallet og eventuell skade og karantene føres inn i utøverens startbok.
+Hver organiserte kampaktivitet skal ledes av en kampansvarlig leder som skal lede kampen i kamparealet og påse
 
-Kampansvarlig leder skal ha dokumentert kunnskap omden enkelte kampaktivitetensymptomer og konsekvenser ved hodeskaderskaderisiko ved tillatte kampteknikker.
+1. at den organiserte kampaktiviteten foregår i tråd med kravene i denne forskriften
+2. at den organiserte kampaktiviteten stoppes dersom en utøver anses som så underlegen at det å fortsette aktiviteten kan gi fare for skade
+3. at kamputfallet og eventuell skade og karantene føres inn i utøverens startbok.
+
+Kampansvarlig leder skal ha dokumentert kunnskap om
+
+1. den enkelte kampaktiviteten
+2. symptomer og konsekvenser ved hodeskader
+3. skaderisiko ved tillatte kampteknikker.
 
 Den som har godkjenning etter [§ 1-2](forskrift/2024-12-06-2944/§1-2) skal sikre at den kampansvarlige lederen kjenner til og har akseptert kravene i denne bestemmelsen.
 
@@ -94,7 +109,10 @@ Den som har godkjenning etter [§ 1-2](forskrift/2024-12-06-2944/§1-2) skal sik
 
 ### § 3-3. Helseattest
 
-Utøver skal legge frem helseattest for kamplege. Helseattesten skal være utstedt av lege, være på norsk eller engelsk, være under ett år gammel og innført i utøverens startbok eller tilsvarende dokumentasjonsmateriale. Helseattesten baseres på følgende:en fullstendig klinisk undersøkelse, inkludert en fullstendig nevrologisk undersøkelseopplysninger om tidligere skader og sykdom av betydning for deltakelse i organisert kampaktivitet som tillater knockout.
+Utøver skal legge frem helseattest for kamplege. Helseattesten skal være utstedt av lege, være på norsk eller engelsk, være under ett år gammel og innført i utøverens startbok eller tilsvarende dokumentasjonsmateriale. Helseattesten baseres på følgende:
+
+1. en fullstendig klinisk undersøkelse, inkludert en fullstendig nevrologisk undersøkelse
+2. opplysninger om tidligere skader og sykdom av betydning for deltakelse i organisert kampaktivitet som tillater knockout.
 
 Undersøkende lege skal vurdere hvilke supplerende undersøkelser som skal inngå i tillegg til den nevrologiske undersøkelsen.
 

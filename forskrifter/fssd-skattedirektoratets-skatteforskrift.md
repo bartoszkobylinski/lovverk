@@ -96,7 +96,11 @@ Boligeiendommen regnes som sekundærbolig i forhold til reglene om nedsettelse a
 
 ### § 6-13-1. Fradrag for merkostnader til kost
 
-(1) Fradrag for merkostnader til kost gis som hovedregel etter satser som fastsettes årlig av Skattedirektoratet. Avgjørende for valg av sats er hvor skattyter har bodd. Fradrag etter de to høyeste satsene (hotellsats eller sats for hybel uten kokemulighet/pensjonat/brakke) forutsetter at skattyter kan legitimere arten av bosted. En slik legitimering innebærer at skattyter ved en fortløpende oppstilling må sannsynliggjøre hvordan han har innrettet seg under arbeidsoppholdet. Oppstillingen skal minst inneholde følgende opplysninger:dato og klokkeslett for avreise og hjemkomst for hver reise,navn og adresse på overnattingssted/utleier, og ved flere overnattingssteder også dato for overnattingene, ogtype losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel, må det oppgis om den har kokemulighet.
+(1) Fradrag for merkostnader til kost gis som hovedregel etter satser som fastsettes årlig av Skattedirektoratet. Avgjørende for valg av sats er hvor skattyter har bodd. Fradrag etter de to høyeste satsene (hotellsats eller sats for hybel uten kokemulighet/pensjonat/brakke) forutsetter at skattyter kan legitimere arten av bosted. En slik legitimering innebærer at skattyter ved en fortløpende oppstilling må sannsynliggjøre hvordan han har innrettet seg under arbeidsoppholdet. Oppstillingen skal minst inneholde følgende opplysninger:
+
+1. dato og klokkeslett for avreise og hjemkomst for hver reise,
+2. navn og adresse på overnattingssted/utleier, og ved flere overnattingssteder også dato for overnattingene, og
+3. type losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel, må det oppgis om den har kokemulighet.
 
 (2) Skattyter som er på yrkes- eller tjenestereise, men ikke kan sannsynliggjøre hvordan han har innrettet seg under arbeidsoppholdet, gis fradrag etter laveste sats (sats for hybel med kokemulighet eller overnattet privat).
 
@@ -208,7 +212,12 @@ Enkle oppmerksomheter overfor forretningsforbindelser som ikke overstiger den be
 
 (1) Skattemyndighetene kan dispensere fra kravet om at minst 85 prosent av leieinntektene skal komme fra andelshavere mv.
 
-(2) Dispensasjon kan blant annet gis i følgende tilfeller:Når kravet om 85 prosent unntaksvis ikke er oppfylt i enkelte inntektsår.Når formålet med utleie av lokaler til andre enn andelshavere mv. er å yte service overfor andelshaverne, for eksempel ved utleie av lokaler til barnehave, selskapslokale og lignende.Når et forholdsmessig lite areal leies ut til andre enn andelshavere mv. og grunnen til at kravet om 85 prosent ikke oppfylles er at markedsleie for andre enn andelshavere mv. er forholdsvis høyere enn andelshavernes husleie.Når kravet om 85 prosent ikke er oppfylt på grunn av ekstraordinær innbetaling av andel av fellesgjelden jf. [burettslagslova § 2-15](lov/2003-06-06-39/§2-15) andre punktum (IN-ordningen).
+(2) Dispensasjon kan blant annet gis i følgende tilfeller:
+
+1. Når kravet om 85 prosent unntaksvis ikke er oppfylt i enkelte inntektsår.
+2. Når formålet med utleie av lokaler til andre enn andelshavere mv. er å yte service overfor andelshaverne, for eksempel ved utleie av lokaler til barnehave, selskapslokale og lignende.
+3. Når et forholdsmessig lite areal leies ut til andre enn andelshavere mv. og grunnen til at kravet om 85 prosent ikke oppfylles er at markedsleie for andre enn andelshavere mv. er forholdsvis høyere enn andelshavernes husleie.
+4. Når kravet om 85 prosent ikke er oppfylt på grunn av ekstraordinær innbetaling av andel av fellesgjelden jf. [burettslagslova § 2-15](lov/2003-06-06-39/§2-15) andre punktum (IN-ordningen).
 
 > Endret ved forskrifter [16 juni 2005 nr. 596](forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12-2), [9 des 2016 nr. 1507](forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [3 jan 2022 nr. 48](forskrift/2022-01-03-48) (med virkning fra inntektsåret 2022, tidligere § 7-3-2).
 
@@ -216,7 +225,12 @@ Enkle oppmerksomheter overfor forretningsforbindelser som ikke overstiger den be
 
 (1) Dispensasjon for det enkelte inntektsår gis etter søknad fra boligselskapet til skattekontoret.
 
-(2) Søknad om dispensasjon skal inneholde:opplysning om den prosentandel av boligselskapets totale leieinntekter som i inntektsåret kommer fra andre enn andelshavere mv.,antall andelshavere mv. og antall øvrige leietakere,prosent av det totale areal som disponeres av andre enn andelshavere mv., samt deres formål for denne bruken, ogen kort begrunnelse for hvorfor fastsetting av skatten etter [skatteloven § 7-3](lov/1999-03-26-14/§7-3) vil gi et riktigere resultat enn fastsetting etter regnskap.
+(2) Søknad om dispensasjon skal inneholde:
+
+1. opplysning om den prosentandel av boligselskapets totale leieinntekter som i inntektsåret kommer fra andre enn andelshavere mv.,
+2. antall andelshavere mv. og antall øvrige leietakere,
+3. prosent av det totale areal som disponeres av andre enn andelshavere mv., samt deres formål for denne bruken, og
+4. en kort begrunnelse for hvorfor fastsetting av skatten etter [skatteloven § 7-3](lov/1999-03-26-14/§7-3) vil gi et riktigere resultat enn fastsetting etter regnskap.
 
 (3) Har boligselskapet i ett eller flere av de fem siste år ikke oppfylt kravet om 85 prosent, skal dette oppgis. Det skal videre oppgis hvorvidt det i disse årene er gitt dispensasjon.
 
@@ -370,13 +384,57 @@ Opplisting av land som skal anses som lavskattland og land som ikke skal anses s
 
 ### § 10-63-2
 
-Følgende land anses som lavskattland:AndorraAnguillaAntigua og BarbudaBahamasBahrain, med unntak for selskap som er skattepliktig for aktiviteter i oljesektorenBelizeBermudaBES Islands (Bonaire, St. Eustatius og Saba)CaymanøyeneDe forente arabiske emiraterIsle of ManJomfruøyene (amerikanske)Jomfruøyene (britiske)Kanaløyene (Jersey, Guernsey, Lihou, Jethou, Herm, Alderney, Great Sark, Little Sark og Brecqhou)KosovoLiberiaMacaoMarshalløyeneMaldiveneMauritiusMoldovaMonacoMontenegroNord-MakedoniaParaguayPalau (Belau)Qatar, med unntak for selskap som er skattepliktig for aktiviteter i oljesektorenSan-Barthélemy (Saint Barts, Saint Barth)St. Kitts og NevisSt. Vincent og GrenadineneTurks- og CaicosøyeneUsbekistanVanuatu.
+Følgende land anses som lavskattland:
+
+- Andorra
+- Anguilla
+- Antigua og Barbuda
+- Bahamas
+- Bahrain, med unntak for selskap som er skattepliktig for aktiviteter i oljesektoren
+- Belize
+- Bermuda
+- BES Islands (Bonaire, St. Eustatius og Saba)
+- Caymanøyene
+- De forente arabiske emirater
+- Isle of Man
+- Jomfruøyene (amerikanske)
+- Jomfruøyene (britiske)
+- Kanaløyene (Jersey, Guernsey, Lihou, Jethou, Herm, Alderney, Great Sark, Little Sark og Brecqhou)
+- Kosovo
+- Liberia
+- Macao
+- Marshalløyene
+- Maldivene
+- Mauritius
+- Moldova
+- Monaco
+- Montenegro
+- Nord-Makedonia
+- Paraguay
+- Palau (Belau)
+- Qatar, med unntak for selskap som er skattepliktig for aktiviteter i oljesektoren
+- San-Barthélemy (Saint Barts, Saint Barth)
+- St. Kitts og Nevis
+- St. Vincent og Grenadinene
+- Turks- og Caicosøyene
+- Usbekistan
+- Vanuatu.
 
 > Tilføyd ved forskrift [26 sep 2005 nr. 1075](forskrift/2005-09-26-1075) (fom inntektsåret 2006), endret ved forskrifter [3 okt 2006 nr. 1122](forskrift/2006-10-03-1122) (fom 1 jan 2007), [1 okt 2007 nr. 1099](forskrift/2007-10-01-1099) (fom 1 jan 2008), [1 okt 2008 nr. 1077](forskrift/2008-10-01-1077) (fom 1 jan 2009), [1 okt 2009 nr. 1248](forskrift/2009-10-01-1248) (fom 1 jan 2010), [1 okt 2010 nr. 1840](forskrift/2010-10-01-1840) (fom 1 jan 2011), [1 okt 2011 nr. 981](forskrift/2011-10-01-981) (fom 1 jan 2012), [1 okt 2012 nr. 916](forskrift/2012-10-01-916) (fom 1 jan 2013), [1 okt 2013 nr. 1198](forskrift/2013-10-01-1198) (fom 1 jan 2014), [24 nov 2014 nr. 1457](forskrift/2014-11-24-1457) (fom 1 jan 2015), [23 sep 2015 nr. 1081](forskrift/2015-09-23-1081) (fom 1 jan 2016), [1 nov 2016 nr. 1266](forskrift/2016-11-01-1266) (fom 1 jan 2017), [26 sep 2017 nr. 1494](forskrift/2017-09-26-1494) (fom 1 jan 2018), [26 sep 2019 nr. 1226](forskrift/2019-09-26-1226) (fom 1 jan 2020, se endringsforskriften), [24 sep 2020 nr. 1812](forskrift/2020-09-24-1812) (fom 1 jan 2021, se endringsforskriften), [23 sep 2022 nr. 1668](forskrift/2022-09-23-1668) (med virkning fra 1 jan 2023, se endringsforskriften).
 
 ### § 10-63-3
 
-(1) Landene nedenfor anses ikke som lavskattland, med unntak for selskap som beskattes med redusert sats, som fritas for skatteplikt gjennom ulike incentivordninger eller som på annen måte fritas for beskatning:AustraliaCanadaChileIndiaJapanKinaNew ZealandSør AfrikaUSA.
+(1) Landene nedenfor anses ikke som lavskattland, med unntak for selskap som beskattes med redusert sats, som fritas for skatteplikt gjennom ulike incentivordninger eller som på annen måte fritas for beskatning:
+
+- Australia
+- Canada
+- Chile
+- India
+- Japan
+- Kina
+- New Zealand
+- Sør Afrika
+- USA.
 
 (2) Opplistingen av land som ikke anses som lavskattland i denne paragraf er likevel ikke bindende uten nærmere vurdering, jf. [§ 10-63-1](forskrift/1999-11-22-1160/§10-63-1), hvis selskapets inntekt i dette landet hovedsakelig er inntekt som nevnt i [skatteloven § 2-38](lov/1999-03-26-14/§2-38) annet ledd som er skattefri, og inntekten skriver seg fra investering i lavskattland.
 
@@ -462,7 +520,12 @@ Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens k
 
 (1) Søknad fra et kommunestyre eller et fylkesting om forlengelse av fristen for forskuddsvedtak sendes Skattedirektoratet, og må være postlagt innen 24. oktober i året forut for vedkommende inntektsår.
 
-(2) I søknaden skal det gis opplysning om:grunnen til at det anses påkrevet å få forlenget den vedtaksfristen som er fastsatt i [skatteloven § 15-3](lov/1999-03-26-14/§15-3) første ledd,hvor lang fristforlengelse det søkes om,foregående års forskuddsvedtak, oghvilket forskuddsvedtak (skattøre for inntektsskatt og promillesats for formuesskatt) det mest sannsynlig vil bli spørsmål om å nytte for det kommende året, eventuelt innstillinger eller vedtak som allerede måtte foreligge i saken.
+(2) I søknaden skal det gis opplysning om:
+
+1. grunnen til at det anses påkrevet å få forlenget den vedtaksfristen som er fastsatt i [skatteloven § 15-3](lov/1999-03-26-14/§15-3) første ledd,
+2. hvor lang fristforlengelse det søkes om,
+3. foregående års forskuddsvedtak, og
+4. hvilket forskuddsvedtak (skattøre for inntektsskatt og promillesats for formuesskatt) det mest sannsynlig vil bli spørsmål om å nytte for det kommende året, eventuelt innstillinger eller vedtak som allerede måtte foreligge i saken.
 
 (3) Med søknaden må følge uttalelse fra skattekontoret om muligheten av å kunne gjennomføre forskuddsutskrivningen på forsvarlig måte og innen rimelig tid dersom den omsøkte fristforlengelse blir innvilget.
 
@@ -480,7 +543,15 @@ Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens k
 
 ### § 16-30-1. Dokumentasjonsplikt for den utenlandske skatten
 
-(1) Skattyter som krever fradrag som nevnt i [skatteloven § 16-30](lov/1999-03-26-14/§16-30), skal i vedlegg til skattemeldingen dokumentere:morselskapets eierandel og andel av stemmene som kan avgis på generalforsamlingen i det utenlandske datterselskapet i en sammenhengende periode på to år som omfatter tidspunktet for innvinning av utbytte,det utbytte morselskapet har mottatt, eventuell kildeskatt av utbyttet som er betalt til datterselskapets hjemstat samt hvordan og for hvilken periode utbyttet er beregnet,de selskaps- og regnskapsrettslige regler i datterselskapets hjemstat om inntektsår og utbytteutdeling,inntektsskatten som datterselskapet faktisk har betalt til sin hjemstat og det skattemessige overskudd denne skatten er fastsatt på, for det inntektsåret som utbyttet kan henføres til og de fire forutgående år når fradrag kreves for disse,at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,at beløpet er innbetalt til datterselskapets hjemstat, ogat beløpet utgjør endelig fastsatt skatt ved ordinær fastsetting i datterselskapets hjemstat.
+(1) Skattyter som krever fradrag som nevnt i [skatteloven § 16-30](lov/1999-03-26-14/§16-30), skal i vedlegg til skattemeldingen dokumentere:
+
+1. morselskapets eierandel og andel av stemmene som kan avgis på generalforsamlingen i det utenlandske datterselskapet i en sammenhengende periode på to år som omfatter tidspunktet for innvinning av utbytte,
+2. det utbytte morselskapet har mottatt, eventuell kildeskatt av utbyttet som er betalt til datterselskapets hjemstat samt hvordan og for hvilken periode utbyttet er beregnet,
+3. de selskaps- og regnskapsrettslige regler i datterselskapets hjemstat om inntektsår og utbytteutdeling,
+4. inntektsskatten som datterselskapet faktisk har betalt til sin hjemstat og det skattemessige overskudd denne skatten er fastsatt på, for det inntektsåret som utbyttet kan henføres til og de fire forutgående år når fradrag kreves for disse,
+5. at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,
+6. at beløpet er innbetalt til datterselskapets hjemstat, og
+7. at beløpet utgjør endelig fastsatt skatt ved ordinær fastsetting i datterselskapets hjemstat.
 
 (2) Når det foreligger skatteavtale med datterselskapets hjemstat er det i forhold til første ledd e tilstrekkelig å dokumentere at skatten er omfattet av avtalen, samt hva slags skatt det kreves fradrag for. Kravet i første ledd g om at skatten må være endelig fastsatt ved ordinær fastsetting gjelder ikke hvor skatten er en kildeskatt ilagt etter skatteavtale.
 
@@ -516,6 +587,21 @@ Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens k
 
 ### § 19-1. Ikrafttredelse
 
-(1) Denne forskrift trer i kraft 1. januar 2000. Fra samme dato oppheves følgende forskrifter:[Forskrift av 18. juni 1970 nr. 9839](forskrift/1970-06-18-9839) om forlengelse av frist for kommunenes og fylkeskommunenes forskuddsvedtak[Forskrift av 9. desember 1975 nr. 4926](forskrift/1975-12-09-4926) om skattlegging m.v. av gevinst ved salg av andel/aksje i boligselskap[Forskrift av 24. juni 1976 nr. 8889](forskrift/1976-06-24-8889) om prosentligning m.v. av bolig og fritidseiendommer[Forskrift av 27. februar 1992 nr. 99](forskrift/1992-02-27-99) om registrering m.v. av aksjeselskaper som driver ny virksomhet[Forskrift av 27. februar 1992 nr. 100](forskrift/1992-02-27-100) om oppgaveplikt for aksjeselskap som driver ny virksomhet[Forskrift av 30. oktober 1992 nr. 771](forskrift/1992-10-30-771) om ligning av andelshavere i boligselskaper[Forskrift av 30. oktober 1992 nr. 772](forskrift/1992-10-30-772) om adgang til prosentligning i boligselskaper[Forskrift av 9. desember 1992 nr. 1042](forskrift/1992-12-09-1042) om krav til legitimasjon vedrørende fradrag for merutgifter til kost og losji ved arbeidsopphold utenfor hjemmet[Forskrift av 13. juli 1995 nr. 686](forskrift/1995-07-13-686) om beskatning av prosentlignet eierseksjon i boligsameie[Forskrift av 8. desember 1997 nr. 1283](forskrift/1997-12-08-1283) om fastsettelse av personinntekt, trygdeavgift og arbeidsgiveravgift i særlige tilfeller[Forskrift av 22. desember 1997 nr. 1431](forskrift/1997-12-22-1431) om dokumentasjonsplikt ved krav om fradrag i norsk skatt for skatt betalt av utenlandsk datterselskap mv.
+(1) Denne forskrift trer i kraft 1. januar 2000. Fra samme dato oppheves følgende forskrifter:
 
-(2) Fra denne forskrifts ikrafttredelse opphører følgende å gjelde:Riksskattestyrets rundskriv av [1. april 1974 (nr. 3538)](forskrift/1974-04-01-3538) om avgrensning av representasjonsutgifter mot sosiale utgifter og reklameutgifter m.v.Direktøren for skattevesenets retningslinjer av 22. desember 1975 om fordeling av særfradrag mellom ektefeller som lignes felles med fordeling av skatten.
+1. [Forskrift av 18. juni 1970 nr. 9839](forskrift/1970-06-18-9839) om forlengelse av frist for kommunenes og fylkeskommunenes forskuddsvedtak
+2. [Forskrift av 9. desember 1975 nr. 4926](forskrift/1975-12-09-4926) om skattlegging m.v. av gevinst ved salg av andel/aksje i boligselskap
+3. [Forskrift av 24. juni 1976 nr. 8889](forskrift/1976-06-24-8889) om prosentligning m.v. av bolig og fritidseiendommer
+4. [Forskrift av 27. februar 1992 nr. 99](forskrift/1992-02-27-99) om registrering m.v. av aksjeselskaper som driver ny virksomhet
+5. [Forskrift av 27. februar 1992 nr. 100](forskrift/1992-02-27-100) om oppgaveplikt for aksjeselskap som driver ny virksomhet
+6. [Forskrift av 30. oktober 1992 nr. 771](forskrift/1992-10-30-771) om ligning av andelshavere i boligselskaper
+7. [Forskrift av 30. oktober 1992 nr. 772](forskrift/1992-10-30-772) om adgang til prosentligning i boligselskaper
+8. [Forskrift av 9. desember 1992 nr. 1042](forskrift/1992-12-09-1042) om krav til legitimasjon vedrørende fradrag for merutgifter til kost og losji ved arbeidsopphold utenfor hjemmet
+9. [Forskrift av 13. juli 1995 nr. 686](forskrift/1995-07-13-686) om beskatning av prosentlignet eierseksjon i boligsameie
+10. [Forskrift av 8. desember 1997 nr. 1283](forskrift/1997-12-08-1283) om fastsettelse av personinntekt, trygdeavgift og arbeidsgiveravgift i særlige tilfeller
+11. [Forskrift av 22. desember 1997 nr. 1431](forskrift/1997-12-22-1431) om dokumentasjonsplikt ved krav om fradrag i norsk skatt for skatt betalt av utenlandsk datterselskap mv.
+
+(2) Fra denne forskrifts ikrafttredelse opphører følgende å gjelde:
+
+1. Riksskattestyrets rundskriv av [1. april 1974 (nr. 3538)](forskrift/1974-04-01-3538) om avgrensning av representasjonsutgifter mot sosiale utgifter og reklameutgifter m.v.
+2. Direktøren for skattevesenets retningslinjer av 22. desember 1975 om fordeling av særfradrag mellom ektefeller som lignes felles med fordeling av skatten.

@@ -15,7 +15,7 @@ xml_hash: "764002d1067cca918595ed244065e24edb7c3ba94b359796f8a4bc07d863a2fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Lovens formål erå forebygge spilleproblemer og andre negative konsekvenser av pengespillå sikre at pengespill gjennomføres på en ansvarlig og trygg måteå legge til rette for at overskudd fra pengespill går til ikke-fortjenestebaserte formål.
+Lovens formål er
+
+1. å forebygge spilleproblemer og andre negative konsekvenser av pengespill
+2. å sikre at pengespill gjennomføres på en ansvarlig og trygg måte
+3. å legge til rette for at overskudd fra pengespill går til ikke-fortjenestebaserte formål.
 
 ### § 2. Hva loven gjelder
 
@@ -60,7 +64,11 @@ Departementet kan gi forskrift om forbudet mot å formidle betalingstransaksjone
 
 Pengespill kan bare markedsføres så langt det er nødvendig for å informere om spilltilbudet og å lede spillelysten i samfunnet til ansvarlige og trygge spilltilbud.
 
-Det er forbudtå markedsføre eller medvirke til å markedsføre pengespill som ikke er tillatt etter denne lovenå markedsføre pengespill mot mindreårigeå markedsføre pengespill direkte mot dem som har reservert seg mot slik markedsføring hos pengespilltilbyderen.
+Det er forbudt
+
+1. å markedsføre eller medvirke til å markedsføre pengespill som ikke er tillatt etter denne loven
+2. å markedsføre pengespill mot mindreårige
+3. å markedsføre pengespill direkte mot dem som har reservert seg mot slik markedsføring hos pengespilltilbyderen.
 
 Departementet kan gi forskrift om markedsføring av pengespill.
 
@@ -114,7 +122,13 @@ Departementet kan gi skriftlige instrukser til selskapet utenom generalforsamlin
 
 ### § 12. Fordelingen av Norsk Tippings overskudd
 
-Overskuddet fra Norsk Tippings pengespill fordeles av selskapets generalforsamling i følgende rekkefølge:Overskuddet fra Norsk Tippings bingoterminaler fordeles etter forskrift om fordelingen.Minimum 0,5 pst. av selskapets overskudd settes av til tiltak mot spilleproblemer.Midler settes ved behov av til annen egenkapital.6,4 pst. av resten av overskuddet fordeles til helse- og rehabiliteringsformål.Det gjenværende beløpet fordeles med 64 pst. til idrettsformål, 18 pst. til kulturformål og 18 pst. til samfunnsnyttige eller humanitære organisasjoner.
+Overskuddet fra Norsk Tippings pengespill fordeles av selskapets generalforsamling i følgende rekkefølge:
+
+1. Overskuddet fra Norsk Tippings bingoterminaler fordeles etter forskrift om fordelingen.
+2. Minimum 0,5 pst. av selskapets overskudd settes av til tiltak mot spilleproblemer.
+3. Midler settes ved behov av til annen egenkapital.
+4. 6,4 pst. av resten av overskuddet fordeles til helse- og rehabiliteringsformål.
+5. Det gjenværende beløpet fordeles med 64 pst. til idrettsformål, 18 pst. til kulturformål og 18 pst. til samfunnsnyttige eller humanitære organisasjoner.
 
 Departementet kan gi forskrift om fordelingen etter første ledd.
 
@@ -132,7 +146,11 @@ Departementet kan gi forskrift om grasrotandelen.
 
 ### § 14. Enerett til å tilby pengespill på hest
 
-Kongen kan gi enerett til å tilby pengespill på hest til en tilbyder som har som formålå legge til rette for et ansvarlig pengespilltilbudå forebygge negative konsekvenser av pengespillå støtte hestehold, hestesport og hesteavl.
+Kongen kan gi enerett til å tilby pengespill på hest til en tilbyder som har som formål
+
+1. å legge til rette for et ansvarlig pengespilltilbud
+2. å forebygge negative konsekvenser av pengespill
+3. å støtte hestehold, hestesport og hesteavl.
 
 Departementet skal ha rett til å oppnevne et flertall av medlemmene i tilbyderens styre.
 
@@ -164,7 +182,12 @@ Pengespill som tilbys av andre enn enerettstilbyderne, skal ha lav omsetning, be
 
 ### § 18. Tillatelse til ikke-fortjenestebaserte organisasjoner til å tilby pengespill
 
-Ikke-fortjenestebaserte organisasjoner kan få tillatelse fra Lotteritilsynet til å tilby pengespill dersom deer registrert i frivillighetsregisterethar frivillig innsats som en viktig del av virksomhetenikke er tilgjengelig bare for en lukket kretsikke driver virksomhet som gir privatøkonomiske fordeler.
+Ikke-fortjenestebaserte organisasjoner kan få tillatelse fra Lotteritilsynet til å tilby pengespill dersom de
+
+1. er registrert i frivillighetsregisteret
+2. har frivillig innsats som en viktig del av virksomheten
+3. ikke er tilgjengelig bare for en lukket krets
+4. ikke driver virksomhet som gir privatøkonomiske fordeler.
 
 Kravet om registrering i frivillighetsregisteret gjelder ikke for menigheter i Den norske kirke.
 
@@ -294,7 +317,11 @@ Kalles en tillatelse eller godkjenning tilbake, skal Lotteritilsynet bestemme hv
 
 ### § 35. Stans av utbetalinger og tilbakebetaling
 
-Dersom en organisasjon benytter midler fra pengespill i strid med bestemmelser gitt i eller med hjemmel i denne loven, eller for øvrig ikke oppfyller lovens vilkår, kan Lotteritilsynet stanse utbetaling av midler fra pengespill tilorganisasjoner som mottar en andel av overskuddet fra Norsk Tipping etter [§ 12](lov/2022-03-18-12/§12) første ledd nr. 1organisasjoner som mottar grasrotandel etter [§ 13](lov/2022-03-18-12/§13)organisasjoner med tillatelse etter [§ 18](lov/2022-03-18-12/§18).
+Dersom en organisasjon benytter midler fra pengespill i strid med bestemmelser gitt i eller med hjemmel i denne loven, eller for øvrig ikke oppfyller lovens vilkår, kan Lotteritilsynet stanse utbetaling av midler fra pengespill til
+
+1. organisasjoner som mottar en andel av overskuddet fra Norsk Tipping etter [§ 12](lov/2022-03-18-12/§12) første ledd nr. 1
+2. organisasjoner som mottar grasrotandel etter [§ 13](lov/2022-03-18-12/§13)
+3. organisasjoner med tillatelse etter [§ 18](lov/2022-03-18-12/§18).
 
 Er vilkårene etter første ledd oppfylt, kan utbetalinger også helt eller delvis kreves tilbakebetalt. Et endelig vedtak om tilbakebetaling er tvangsgrunnlag for utlegg.
 
@@ -318,7 +345,11 @@ Grove overtredelser straffes med bøter eller fengsel inntil tre år. Ved avgjø
 
 ### § 38. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Fra samme tid oppheves følgende lover:[lov 1. juli 1927 nr. 3 om veddemål ved totalisator](lov/1927-07-01-3)[lov 28. august 1992 nr. 103 om pengespill m.v](lov/1992-08-28-103).[lov 24. februar 1995 nr. 11 om lotterier m.v](lov/1995-02-24-11).
+Loven gjelder fra den tiden1 Kongen bestemmer. Fra samme tid oppheves følgende lover:
+
+1. [lov 1. juli 1927 nr. 3 om veddemål ved totalisator](lov/1927-07-01-3)
+2. [lov 28. august 1992 nr. 103 om pengespill m.v](lov/1992-08-28-103).
+3. [lov 24. februar 1995 nr. 11 om lotterier m.v](lov/1995-02-24-11).
 
 Forskrifter fastsatt med hjemmel i lovene nevnt i første ledd gjelder også etter at denne loven trer i kraft.
 

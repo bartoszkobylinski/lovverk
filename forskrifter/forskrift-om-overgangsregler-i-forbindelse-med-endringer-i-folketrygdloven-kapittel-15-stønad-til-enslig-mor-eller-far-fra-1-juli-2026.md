@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Hvem som omfattes
 
-Forskriften gjelder for en enslig mor eller far som før 1. juli 2026har fått et vedtak om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10) før 1. juli 2026, og stønadsperioden går ut over 1. juli 2026,har søkt om og fyller vilkårene for overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10),har fått avslag på søknad om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10), og får vedtaket omgjort etter 1. juli 2026 med virkningsdato før 1. juli 2026, ellerhar fått et vedtak om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5), og kan få stønadsperioden utvidet eller forlenget stønadsperioden etter dagjeldende [§ 15-8 andre](lov/1997-02-28-19/§15-8/ledd/2), [fjerde](lov/1997-02-28-19/§15-8/ledd/4) og [femte ledd](lov/1997-02-28-19/§15-8/ledd/5).
+Forskriften gjelder for en enslig mor eller far som før 1. juli 2026
+
+1. har fått et vedtak om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10) før 1. juli 2026, og stønadsperioden går ut over 1. juli 2026,
+2. har søkt om og fyller vilkårene for overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10),
+3. har fått avslag på søknad om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5) eller stønad til barnetilsyn etter dagjeldende [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10), og får vedtaket omgjort etter 1. juli 2026 med virkningsdato før 1. juli 2026, eller
+4. har fått et vedtak om overgangsstønad etter dagjeldende [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5), og kan få stønadsperioden utvidet eller forlenget stønadsperioden etter dagjeldende [§ 15-8 andre](lov/1997-02-28-19/§15-8/ledd/2), [fjerde](lov/1997-02-28-19/§15-8/ledd/4) og [femte ledd](lov/1997-02-28-19/§15-8/ledd/5).
 
 ## § 2. Generelle vilkår
 
@@ -40,7 +45,12 @@ Et medlem som uten rimelig grunn har sagt opp et arbeidsforhold de siste seks m�
 
 ## § 4. Plikt til yrkesrettet aktivitet
 
-Når det yngste barnet har fylt ett år, er det et vilkår for rett til overgangsstønad at medlemmet entener i arbeid som utgjør minst halvparten av full tid,har meldt seg til Arbeids- og velferdsetaten som reell arbeidssøker,gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som Arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at medlemmet skal kunne få eller beholde et arbeid, elleretablerer egen virksomhet, se § 4-6 tredje ledd.
+Når det yngste barnet har fylt ett år, er det et vilkår for rett til overgangsstønad at medlemmet enten
+
+1. er i arbeid som utgjør minst halvparten av full tid,
+2. har meldt seg til Arbeids- og velferdsetaten som reell arbeidssøker,
+3. gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som Arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at medlemmet skal kunne få eller beholde et arbeid, eller
+4. etablerer egen virksomhet, se § 4-6 tredje ledd.
 
 Arbeids- og velferdsetaten skal etter behov innkalle til samtaler for å vurdere oppfølging av medlemmet og om det skal settes i verk tiltak med sikte på overgang til arbeid.
 
@@ -50,7 +60,13 @@ Om medlemmet ikke er i yrkesrettet aktivitet etter første ledd, ytes likevel ov
 
 ## § 5. Reell arbeidssøker
 
-Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til åta ethvert arbeid som er lønnet etter tariff eller sedvane,ta ethvert arbeid hvor reisetiden utgjør opptil én time hver vei med offentlig transport mellom hjem og arbeidsplass,ta arbeid som utgjør minst halvparten av full tid, ogdelta på arbeidsmarkedstiltak.Den enslige moren eller faren kan reservere seg mot kvelds-, natt-, og helgearbeid.
+Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til å
+
+1. ta ethvert arbeid som er lønnet etter tariff eller sedvane,
+2. ta ethvert arbeid hvor reisetiden utgjør opptil én time hver vei med offentlig transport mellom hjem og arbeidsplass,
+3. ta arbeid som utgjør minst halvparten av full tid, og
+4. delta på arbeidsmarkedstiltak.
+5. Den enslige moren eller faren kan reservere seg mot kvelds-, natt-, og helgearbeid.
 
 ## § 6. Nødvendig og hensiktsmessig utdanning eller opplæring jf. § 4 første ledd bokstav c
 
@@ -80,7 +96,14 @@ I direkte tilknytning til en løpende stønadsperiode kan stønadstiden i særli
 
 ## § 9. Tilleggsstønader
 
-Et medlem som gjennomfører utdanning eller opplæring etter [§ 4 første ledd bokstav c](forskrift/2026-06-25-1361/§4/ledd/1/bokstav/c), kan gis tilleggsstønader som helt eller delvis dekkerutgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningen,utgifter til hjemreiser i forbindelse med utdanningen,nødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomført,nødvendige utgifter til tilsyn for barn i forbindelse med utredning eller gjennomføring av utdanningen,nødvendige ekstrautgifter til bolig i forbindelse med utredning, eller gjennomføring av utdanningen,stønad til dekning av nødvendige utgifter til læremidler.
+Et medlem som gjennomfører utdanning eller opplæring etter [§ 4 første ledd bokstav c](forskrift/2026-06-25-1361/§4/ledd/1/bokstav/c), kan gis tilleggsstønader som helt eller delvis dekker
+
+1. utgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningen,
+2. utgifter til hjemreiser i forbindelse med utdanningen,
+3. nødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomført,
+4. nødvendige utgifter til tilsyn for barn i forbindelse med utredning eller gjennomføring av utdanningen,
+5. nødvendige ekstrautgifter til bolig i forbindelse med utredning, eller gjennomføring av utdanningen,
+6. stønad til dekning av nødvendige utgifter til læremidler.
 
 Stønad til flytting etter første ledd bokstav c kan også gis til et medlem som må flytte fra hjemstedet for å starte i arbeid på et annet sted. Flyttestønad gis bare når medlemmet har flyttet i et tidsrom der han eller hun har rett til overgangsstønad eller innen seks måneder etter at overgangsstønaden falt bort.
 

@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Formålet med forskriften
 
-Forskriftens formål er å bidra til atpasienter ved hjelp av relevant og nødvendig dokumentasjon kan gis helsehjelp av god kvalitet, inkludert effektive og gode pasientforløppersonvernet ivaretas, inkludert pasientens rett til informasjon og medvirkninghelsehjelpen kan kontrolleres i ettertid.
+Forskriftens formål er å bidra til at
+
+1. pasienter ved hjelp av relevant og nødvendig dokumentasjon kan gis helsehjelp av god kvalitet, inkludert effektive og gode pasientforløp
+2. personvernet ivaretas, inkludert pasientens rett til informasjon og medvirkning
+3. helsehjelpen kan kontrolleres i ettertid.
 
 ## § 2. Saklig virkeområde
 
@@ -50,21 +54,46 @@ En oversikt over hvilke opplysninger som kan være relevante og nødvendige ette
 
 ## § 5. Administrative opplysninger
 
-Oversikten nedenfor angir hvilke administrative opplysninger som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.opplysninger for å kunne kontakte pasientens nærmeste pårørendeopplysninger om når og hvor helsehjelpen er gitt og type kontakt, blant annet om helsehjelpen er gitt ved ordinær konsultasjon, videokonsultasjon, nettbasert behandling, medisinsk avstandsoppfølging eller opphold i institusjonkontaktopplysninger til pasientens faste lege (fastlege eller lignende), koordinator, kontaktlege og eventuelt annet personell som er nødvendig for å lette samarbeidet mellom helsepersonell om helsehjelp til pasientenopplysninger om pasienten har individuell plan samt en henvisning til hvor helsepersonellet kan finne frem til planen.
+Oversikten nedenfor angir hvilke administrative opplysninger som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.
+
+1. opplysninger for å kunne kontakte pasientens nærmeste pårørende
+2. opplysninger om når og hvor helsehjelpen er gitt og type kontakt, blant annet om helsehjelpen er gitt ved ordinær konsultasjon, videokonsultasjon, nettbasert behandling, medisinsk avstandsoppfølging eller opphold i institusjon
+3. kontaktopplysninger til pasientens faste lege (fastlege eller lignende), koordinator, kontaktlege og eventuelt annet personell som er nødvendig for å lette samarbeidet mellom helsepersonell om helsehjelp til pasienten
+4. opplysninger om pasienten har individuell plan samt en henvisning til hvor helsepersonellet kan finne frem til planen.
 
 ## § 6. Opplysninger om pasientens helse og helseforhold, inkludert opplysninger og vurderinger innhentet ved kliniske og medisinske undersøkelser
 
-Oversikten nedenfor angir hvilke kliniske og medisinske opplysninger som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.pasientens beskrivelse av sin situasjon og eventuelle ønsker for helsehjelpenopplysninger om pasientens sykehistorie og pågående behandlingopplysninger om symptomer, observasjoner og funn ved undersøkelser, diagnostiske overveielser og andre medisinske opplysninger og vurderingerbehandlingsplan for pasienten og status i gjennomføringen av planenopplysninger om behandling med legemidler, samt virkning og bivirkning av slik behandling. Opplysningene skal inneholde navn på legemidlet, virkestoff, styrke, mengde, dosering, indikasjon eller bruksområde og tidspunkt for når legemidlet er gitt. Opplysningene skal også omfatte en samlet og oppdatert oversikt over relevante opplysninger om pasientens legemiddelbehandling (pasientens legemiddelliste) etter [§ 9](forskrift/2019-03-01-168/§9)kritisk informasjon, inkludert alvorlige allergier og alvorlige reaksjoner på legemidler (CAVE)opplysninger om overveielser som har ledet til tiltak som fraviker fra gjeldende retningslinjerbeskrivelse av de funn og vurderinger som ligger til grunn for kodet informasjon innrapportert til helseregistre etter [helseregisterloven § 10](lov/2014-06-20-43/§10) og [§ 11](lov/2014-06-20-43/§11).
+Oversikten nedenfor angir hvilke kliniske og medisinske opplysninger som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.
+
+1. pasientens beskrivelse av sin situasjon og eventuelle ønsker for helsehjelpen
+2. opplysninger om pasientens sykehistorie og pågående behandling
+3. opplysninger om symptomer, observasjoner og funn ved undersøkelser, diagnostiske overveielser og andre medisinske opplysninger og vurderinger
+4. behandlingsplan for pasienten og status i gjennomføringen av planen
+5. opplysninger om behandling med legemidler, samt virkning og bivirkning av slik behandling. Opplysningene skal inneholde navn på legemidlet, virkestoff, styrke, mengde, dosering, indikasjon eller bruksområde og tidspunkt for når legemidlet er gitt. Opplysningene skal også omfatte en samlet og oppdatert oversikt over relevante opplysninger om pasientens legemiddelbehandling (pasientens legemiddelliste) etter [§ 9](forskrift/2019-03-01-168/§9)
+6. kritisk informasjon, inkludert alvorlige allergier og alvorlige reaksjoner på legemidler (CAVE)
+7. opplysninger om overveielser som har ledet til tiltak som fraviker fra gjeldende retningslinjer
+8. beskrivelse av de funn og vurderinger som ligger til grunn for kodet informasjon innrapportert til helseregistre etter [helseregisterloven § 10](lov/2014-06-20-43/§10) og [§ 11](lov/2014-06-20-43/§11).
 
 Bokstav e tredje punktum trer i kraft når departementet bestemmer.
 
 ## § 7. Opplysninger om informasjon og informasjonsutveksling, reservasjoner og samtykkekompetanse
 
-Oversikten nedenfor angir hvilke opplysninger om informasjon og informasjonsbehandling, reservasjoner og samtykkekompetanse som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.opplysninger om det er gitt råd og informasjon til pasient og nærmeste pårørende, og hovedinnholdet i rådene og informasjonenopplysninger om melding av opplysninger til annet personell og til andre etater eller tjenester etter [helsepersonelloven kapittel 5](lov/1999-07-02-64/kap5), [6](lov/1999-07-02-64/kap6) og 7, for eksempel henvisninger, epikriser, innleggelsesbegjæringer og resultater av rekvirerte undersøkelser, samt hvilke opplysninger slike meldinger bygger påopplysninger om pasientens reservasjoner og samtykkekompetanse.
+Oversikten nedenfor angir hvilke opplysninger om informasjon og informasjonsbehandling, reservasjoner og samtykkekompetanse som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.
+
+1. opplysninger om det er gitt råd og informasjon til pasient og nærmeste pårørende, og hovedinnholdet i rådene og informasjonen
+2. opplysninger om melding av opplysninger til annet personell og til andre etater eller tjenester etter [helsepersonelloven kapittel 5](lov/1999-07-02-64/kap5), [6](lov/1999-07-02-64/kap6) og 7, for eksempel henvisninger, epikriser, innleggelsesbegjæringer og resultater av rekvirerte undersøkelser, samt hvilke opplysninger slike meldinger bygger på
+3. opplysninger om pasientens reservasjoner og samtykkekompetanse.
 
 ## § 8. Andre opplysninger
 
-Oversikten nedenfor angir enkelte andre opplysninger, enn de som følger av [§ 5](forskrift/2019-03-01-168/§5) til [§ 7](forskrift/2019-03-01-168/§7), som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.ved bruk av tvang; opplysninger om det faktiske og rettslige grunnlaget for tvangen og eventuelle vedtak fattet av kontrollkommisjonen eller statsforvalterenopplysninger om pasient med psykisk sykdom, rusmiddelavhengighet eller alvorlig somatisk sykdom eller skade har mindreårige barn eller mindreårige søsken, jf. [helsepersonelloven § 10a](lov/1999-07-02-64/§10a)opplysninger om foreldre eller andre omsorgspersoner som har konsekvens for barnets behandlingssituasjonopplysninger om sykemeldinger og attester utarbeidet i forbindelse med helsehjelpopplysninger om sakkyndige erklæringer o.l.opplysninger om pasienten er erklært utskrivningsklar fra spesialisthelsetjenesten eller om det er mottatt slik melding fra spesialisthelsetjenesten.
+Oversikten nedenfor angir enkelte andre opplysninger, enn de som følger av [§ 5](forskrift/2019-03-01-168/§5) til [§ 7](forskrift/2019-03-01-168/§7), som det kan være relevant og nødvendig at fremgår av pasientens journal. Oversikten er ikke uttømmende.
+
+1. ved bruk av tvang; opplysninger om det faktiske og rettslige grunnlaget for tvangen og eventuelle vedtak fattet av kontrollkommisjonen eller statsforvalteren
+2. opplysninger om pasient med psykisk sykdom, rusmiddelavhengighet eller alvorlig somatisk sykdom eller skade har mindreårige barn eller mindreårige søsken, jf. [helsepersonelloven § 10a](lov/1999-07-02-64/§10a)
+3. opplysninger om foreldre eller andre omsorgspersoner som har konsekvens for barnets behandlingssituasjon
+4. opplysninger om sykemeldinger og attester utarbeidet i forbindelse med helsehjelp
+5. opplysninger om sakkyndige erklæringer o.l.
+6. opplysninger om pasienten er erklært utskrivningsklar fra spesialisthelsetjenesten eller om det er mottatt slik melding fra spesialisthelsetjenesten.
 
 > Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
 
@@ -100,7 +129,13 @@ Dataansvarlig skal ha kontroll og oversikt over all behandling av helseopplysnin
 
 ## § 13. Krav om tilgangsstyring (autorisering og autentisering mv.)
 
-Behandling av journalopplysninger skal baseres på bestemte tildelte tillatelser til å lese, registrere, redigere, rette, slette, sperre eller på annen måte behandle opplysninger i journalen (autorisasjon). Autorisasjonen skalbeskrive rettighetene og pliktene som autorisasjonen omfatterangi hvilke virksomheter autorisasjonen omfatterdokumenteres i virksomhetens oversikt over helsepersonells autorisasjonervære tidsbegrensetvurderes på nytt når det oppstår endringer i ansvarsområder eller ansettelsesforhold.
+Behandling av journalopplysninger skal baseres på bestemte tildelte tillatelser til å lese, registrere, redigere, rette, slette, sperre eller på annen måte behandle opplysninger i journalen (autorisasjon). Autorisasjonen skal
+
+1. beskrive rettighetene og pliktene som autorisasjonen omfatter
+2. angi hvilke virksomheter autorisasjonen omfatter
+3. dokumenteres i virksomhetens oversikt over helsepersonells autorisasjoner
+4. være tidsbegrenset
+5. vurderes på nytt når det oppstår endringer i ansvarsområder eller ansettelsesforhold.
 
 Journalopplysninger kan bare gjøres tilgjengelig for personell som gjennom autentisering kan bekrefte sin identitet på en sikker måte.
 
@@ -132,4 +167,11 @@ Journaler som avleveres oppbevares til det av hensyn til helsehjelpens karakter 
 
 Forskriften [§ 6](forskrift/2019-03-01-168/§6) bokstav e tredje punktum og [§ 9](forskrift/2019-03-01-168/§9) trer i kraft fra det tidspunkt departementet bestemmer.
 
-Øvrige deler av forskriften trer ikraft 1. juli 2019. Fra samme tidspunkt gjøres følgende endringer i andre forskrifter:[forskrift 21. desember 2000 nr. 1385](forskrift/2000-12-21-1385) om pasientjournal oppheves.[forskrift 17. desember 2014 nr. 1757](forskrift/2014-12-17-1757) om tilgang til helseopplysninger mellom virksomheter oppheves.[forskrift 22. juni 2015 nr. 747](forskrift/2015-06-22-747) om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen [§ 4](forskrift/2000-12-21-1385/§4) andre ledd bokstav c skal lyde: – – –[forskrift 20. desember 2016 nr. 1848](forskrift/2016-12-20-1848) om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta [§ 8](forskrift/2016-12-20-1848/§8) andre ledd oppheves.Overskriften til [§ 8](forskrift/2000-12-21-1385/§8) skal lyde: – – –
+Øvrige deler av forskriften trer ikraft 1. juli 2019. Fra samme tidspunkt gjøres følgende endringer i andre forskrifter:
+
+1. [forskrift 21. desember 2000 nr. 1385](forskrift/2000-12-21-1385) om pasientjournal oppheves.
+2. [forskrift 17. desember 2014 nr. 1757](forskrift/2014-12-17-1757) om tilgang til helseopplysninger mellom virksomheter oppheves.
+3. [forskrift 22. juni 2015 nr. 747](forskrift/2015-06-22-747) om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen [§ 4](forskrift/2000-12-21-1385/§4) andre ledd bokstav c skal lyde: – – –
+4. [forskrift 20. desember 2016 nr. 1848](forskrift/2016-12-20-1848) om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta [§ 8](forskrift/2016-12-20-1848/§8) andre ledd oppheves.
+
+   Overskriften til [§ 8](forskrift/2000-12-21-1385/§8) skal lyde: – – –

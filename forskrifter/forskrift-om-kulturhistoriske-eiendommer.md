@@ -15,7 +15,7 @@ xml_hash: "3128be9d18f7506ea15619d5c22f758dbcdcb8537f0693f9aa11d4b81d1ca6f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,16 @@ eu_basis: []
 
 ### § 1-1. Formålet med fredning
 
-Fredning etter forskriften har som formål å sikre og bevare et representativt utvalg kulturminner i form av byggverk og anlegg knyttet til statens virksomhet. Fredningen skal bidra til åsikre at arkitektoniske eller kulturhistoriske verdier ved byggverkene og anleggene bevaresvise statlige sektorers historiske utvikling og deres betydning, for eksempel for samfunnsutviklingen, oppbyggingen av Norge som velferdsstat og forholdet til urfolk og minoritetersikre at representative eksempler fra ulike perioder av en utvikling bevaresformidle forståelse for de sektorer og tidsepoker de representererbevare byggverkene og anleggene som historiske referanser og kilde til kunnskapbevare opprinnelige elementer og senere tilføyelser dersom disse vurderes å ha en selvstendig verdi som representant for en historisk utviklingsikre at byggverkenes og anleggenes innbyrdes sammenheng ivaretassikre at uteområdene bevares og at den funksjonelle og visuelle sammenhengen med de fredete kompleksene opprettholdes.
+Fredning etter forskriften har som formål å sikre og bevare et representativt utvalg kulturminner i form av byggverk og anlegg knyttet til statens virksomhet. Fredningen skal bidra til å
+
+1. sikre at arkitektoniske eller kulturhistoriske verdier ved byggverkene og anleggene bevares
+2. vise statlige sektorers historiske utvikling og deres betydning, for eksempel for samfunnsutviklingen, oppbyggingen av Norge som velferdsstat og forholdet til urfolk og minoriteter
+3. sikre at representative eksempler fra ulike perioder av en utvikling bevares
+4. formidle forståelse for de sektorer og tidsepoker de representerer
+5. bevare byggverkene og anleggene som historiske referanser og kilde til kunnskap
+6. bevare opprinnelige elementer og senere tilføyelser dersom disse vurderes å ha en selvstendig verdi som representant for en historisk utvikling
+7. sikre at byggverkenes og anleggenes innbyrdes sammenheng ivaretas
+8. sikre at uteområdene bevares og at den funksjonelle og visuelle sammenhengen med de fredete kompleksene opprettholdes.
 
 ### § 1-2. Omfang
 
@@ -38,7 +47,11 @@ Nærmere informasjon om byggverkene og anleggene fremgår av landsverneplanene f
 
 Byggverk og anlegg som er fredet etter forskriften skal forvaltes på en slik måte at de kulturhistoriske og arkitektoniske verdier de representerer, blir ivaretatt.
 
-Det er ikke tillatt å foreta inngrep i fredete byggverk og anlegg så langt de er fredet. Med *inngrep* meneså rive, skade, bygge om eller flytteå skifte ut bygningselementer eller materialer, forandre overflater eller foreta andre endringer som går lenger enn vanlig vedlikeholdå skade eller permanent fjerne løst inventar som inngår i fredningen.
+Det er ikke tillatt å foreta inngrep i fredete byggverk og anlegg så langt de er fredet. Med *inngrep* menes
+
+1. å rive, skade, bygge om eller flytte
+2. å skifte ut bygningselementer eller materialer, forandre overflater eller foreta andre endringer som går lenger enn vanlig vedlikehold
+3. å skade eller permanent fjerne løst inventar som inngår i fredningen.
 
 Med *vanlig vedlikehold* menes å ta vare på og reparere de eksisterende bygningselementer og detaljer som for eksempel dører, vinduer, listverk, gerikter og overflatebehandlingen. Vanlig vedlikehold skal skje i samsvar med opprinnelig eller eksisterende teknikk, utførelse og materialbruk og på en måte som ikke reduserer arkitektoniske og kulturhistoriske verdier.
 
@@ -48,7 +61,13 @@ Annet ledd er ikke til hinder for ordinær skjøtsel i hage- og parkanlegg og an
 
 Forvaltningsmyndigheten jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7) kan i særlige tilfelle gjøre unntak fra fredningen og fredningsbestemmelsene for tiltak som ikke medfører vesentlige inngrep i kulturminnet.
 
-Ved avgjørelsen av hva som utgjør særlige tilfelle skal det legges vekt på i hvilken grad tiltaket er nødvendig av hensyn til formålet med fredningen, herunderistandsetting og restaureringutskiftning av ødelagt materiale og eller vegetasjontilbakeføringer til opprinnelig eller tidligere utseende og konstruksjoner under forutsetning av at tiltaket kan gjøres på et sikkert dokumentert grunnlag og i tråd med tradisjonelle metoder og materialbrukbrannsikringstiltakandre tiltak som skal beskytte kulturminnet.
+Ved avgjørelsen av hva som utgjør særlige tilfelle skal det legges vekt på i hvilken grad tiltaket er nødvendig av hensyn til formålet med fredningen, herunder
+
+1. istandsetting og restaurering
+2. utskiftning av ødelagt materiale og eller vegetasjon
+3. tilbakeføringer til opprinnelig eller tidligere utseende og konstruksjoner under forutsetning av at tiltaket kan gjøres på et sikkert dokumentert grunnlag og i tråd med tradisjonelle metoder og materialbruk
+4. brannsikringstiltak
+5. andre tiltak som skal beskytte kulturminnet.
 
 I vurderingen av hva som utgjør særlige tilfelle kan det også legges vekt på tiltak av vesentlig samfunnsmessig betydning, som for eksempel hensyn til sikkerhet og andre forhold av vesentlig betydning.
 
@@ -133,7 +152,10 @@ Fredningen omfatter følgende eiendommer:
 
 ### § 2-2. Tiltak i fredet utomhusområde
 
-For følgende eiendommer kan det tillates oppført mindre frittliggende bygninger innenfor fredet utomhusområde:Dikemark sykehus, gnr./bnr. 89/1, Asker kommuneSSBU Statens senter for barne- og ungdomspsykiatri, gnr./bnr. 42/132, Oslo kommune.
+For følgende eiendommer kan det tillates oppført mindre frittliggende bygninger innenfor fredet utomhusområde:
+
+1. Dikemark sykehus, gnr./bnr. 89/1, Asker kommune
+2. SSBU Statens senter for barne- og ungdomspsykiatri, gnr./bnr. 42/132, Oslo kommune.
 
 Ny bebyggelse skal tilpasses i utforming og volum til eksisterende bebyggelse på eiendommen. Tiltak skal på forhånd godkjennes av forvaltningsmyndigheten jf [§ 1-7](forskrift/2011-11-09-1088/§1-7).
 
@@ -151,9 +173,17 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av år 2013.
 
 ### § 3-1. Omfang
 
-Fredningen omfatter følgende eiendom:Nasjonalgalleriet med forhage mot Universitetsgaten, Universitetsgaten 13, gnr. 209, bnr. 394, Oslo kommune.
+Fredningen omfatter følgende eiendom:
 
-Fredningen omfatter bygningens eksteriør og interiør. Fredet interiør omfatter innvendig hovedstruktur (rominndeling) og eldre arkitektoniske detaljer (dører, vinduer, listverk, overflater, dekor etc.). Underetasjens interiør er ikke omfattet av fredningen. Representative rom har særskilte bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt. 2 og plantegninger med merking.Fredningsomfang, interiør, 1. etasje; Hele etasjen fredet. Rom uten gråtone (representative rom) har særlige bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt. 2.Fredningsomfang, interiør, 2. etasje; Hele etasjen fredet, rom uten gråtone (representative rom) har særlige bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt 2.Fredningsomfang, interiør, 3. etasje; Hele etasjen fredet.
+Nasjonalgalleriet med forhage mot Universitetsgaten, Universitetsgaten 13, gnr. 209, bnr. 394, Oslo kommune.
+
+Fredningen omfatter bygningens eksteriør og interiør. Fredet interiør omfatter innvendig hovedstruktur (rominndeling) og eldre arkitektoniske detaljer (dører, vinduer, listverk, overflater, dekor etc.). Underetasjens interiør er ikke omfattet av fredningen. Representative rom har særskilte bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt. 2 og plantegninger med merking.
+
+Fredningsomfang, interiør, 1. etasje; Hele etasjen fredet. Rom uten gråtone (representative rom) har særlige bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt. 2.
+
+Fredningsomfang, interiør, 2. etasje; Hele etasjen fredet, rom uten gråtone (representative rom) har særlige bestemmelser, jf. [§ 3-3](forskrift/2011-11-09-1088/§3-3) pkt 2.
+
+Fredningsomfang, interiør, 3. etasje; Hele etasjen fredet.
 
 > Tilføyd ved [forskrift 5 jan 2012 nr. 1453](forskrift/2012-01-05-1453).
 
@@ -171,7 +201,10 @@ Formålet med å frede forhagen er å sikre denne som en integrert del av et hel
 
 ### § 3-3. Særbestemmelser
 
-For Nasjonalgalleriet med forhage gjelder følgende særbestemmelser:Romstruktur i utstillingsrommene kan endres ved tilføyelser og endringer i overflate. Disse rommene er farget grå i plantegningene. Det vises her til formålet for fredningen.Tekniske oppgraderinger kan gjennomføres etter dispensasjon fra kulturminnemyndigheten jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
+For Nasjonalgalleriet med forhage gjelder følgende særbestemmelser:
+
+- Romstruktur i utstillingsrommene kan endres ved tilføyelser og endringer i overflate. Disse rommene er farget grå i plantegningene. Det vises her til formålet for fredningen.
+- Tekniske oppgraderinger kan gjennomføres etter dispensasjon fra kulturminnemyndigheten jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
 
 > Tilføyd ved [forskrift 5 jan 2012 nr. 1453](forskrift/2012-01-05-1453).
 
@@ -298,7 +331,9 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av år 2016.
 
 ### § 8-1. Omfang
 
-Fredningen omfatter følgende eiendom:Scenebygg for Den Norske Opera og Ballett, Kirsten Flagstads plass 1, gnr. 207, bnr. 167, bygn. nr. 81770859, Oslo kommune. Fredningen omfatter bygningens eksteriør, deler av interiør og uteområdet innenfor eiendomsgrensen. Anlegget og avgrensing av fredningen er vist på kart:
+Fredningen omfatter følgende eiendom:
+
+Scenebygg for Den Norske Opera og Ballett, Kirsten Flagstads plass 1, gnr. 207, bnr. 167, bygn. nr. 81770859, Oslo kommune. Fredningen omfatter bygningens eksteriør, deler av interiør og uteområdet innenfor eiendomsgrensen. Anlegget og avgrensing av fredningen er vist på kart:
 
 Fredningen av eksteriør og deler av interiør inkluderer hovedelementer som konstruksjon, fasadekomposisjon, planløsning, materialbruk, overflatebehandling og bygningsdeler som vinduer, dører, gerikter, listverk og detaljer som skilt og dekor mv. Fredningen av eksteriøret innbefatter den integrerte utsmykning «U.T.» i marmor av Kalle Grude, Jorunn Sannes og Kristian Blystad og «U.T.» i aluminium av Astrid Løvaas og Kirsten Marie Wagle.
 
@@ -306,23 +341,37 @@ Fast inventar er fredet som del av interiøret.
 
 Fredningen av interiøret omfatter publikumsarealer for plan 1, 2, 3 og 4 samt to publikumsheiser. De fredete delene av interiøret er merket med blått på plantegninger i forskriften.
 
-For interiører plan 1 omfatter fredningen:Foajé med billettluke, to faste bardisker, kunstnerisk utsmykning av tre frittstående toalettkuber med integrert utsmykning «The other wall» av Olafur Eliasson, toalettkubenes interiører samt grunnstein i gulvet «Hyperovertyre» av Linus Elmes og Ludvig LöfgrenPublikumsgarderobeHovedscenens parkett med orkestergravens front, prosceniet og sceneteppe «Metafoil» av Pae White.
+For interiører plan 1 omfatter fredningen:
+
+1. Foajé med billettluke, to faste bardisker, kunstnerisk utsmykning av tre frittstående toalettkuber med integrert utsmykning «The other wall» av Olafur Eliasson, toalettkubenes interiører samt grunnstein i gulvet «Hyperovertyre» av Linus Elmes og Ludvig Löfgren
+2. Publikumsgarderobe
+3. Hovedscenens parkett med orkestergravens front, prosceniet og sceneteppe «Metafoil» av Pae White.
 
 Fredningen omfatter ikke billettlukens interiør, restaurantlokale mot nord, butikkinnredning i foajé, interiør i tekniske rom foajeens kuber, interiør i teknisk rom parkett og orkestergravens interiør.
 
 Plan 1 fredete interiører merket med blå skravering.
 
-For interiører plan 2 omfatter fredningen:Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapperMottagelsesrom («Gunnar Brunvoll» og «Kirsten Flagstad») med fast inventar1. balkong hovedscene.
+For interiører plan 2 omfatter fredningen:
+
+1. Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapper
+2. Mottagelsesrom («Gunnar Brunvoll» og «Kirsten Flagstad») med fast inventar
+3. 1\. balkong hovedscene.
 
 Fredningen omfatter ikke teknisk rom.
 
 Plan 2 fredete interiører merket med blå skravering.
 
-For interiører plan 3 omfatter fredningen:Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapper2. balkong hovedscene.
+For interiører plan 3 omfatter fredningen:
+
+1. Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapper
+2. 2\. balkong hovedscene.
 
 Plan 3 fredete interiører merket med blå skravering.
 
-For interiører plan 4 omfatter fredningen:Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapper3. balkong hovedscene.
+For interiører plan 4 omfatter fredningen:
+
+1. Publikumsgalleri med toaletter, bardisk, ganger, trapperom og trapper
+2. 3\. balkong hovedscene.
 
 Plan 4 fredete interiører merket med blå skravering.
 
@@ -421,9 +470,13 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2017.
 
 ### § 9-3. Tiltak på fredet bygning
 
-På følgende bygning kan det tillates eksteriørmessige og volummessige endringer, for eksempel tilbaketrukne etasjer:a) Universitetet i Oslo – Blindern – BL03 Frederikke, gnr./bnr. 44/85, Oslo kommune. Tiltak som reduserer omfanget av utomhusfredningen av Frederikkeplassen tillates ikke. Tiltak skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
+På følgende bygning kan det tillates eksteriørmessige og volummessige endringer, for eksempel tilbaketrukne etasjer:
 
-På følgende bygninger kan det tillates eksteriørmessige endringer:Sem Øvre a) Driftsbygning/Låve, b) Korntørke, c) Redskapshus og d) Sauefjøs, gnr./bnr. 20/2 – Asker kommune. Endringene kan tillates utført på fasadene som vender mot Semsvannet og eksempelvis være åpning/endring av fasade. Tiltak skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
+a) Universitetet i Oslo – Blindern – BL03 Frederikke, gnr./bnr. 44/85, Oslo kommune. Tiltak som reduserer omfanget av utomhusfredningen av Frederikkeplassen tillates ikke. Tiltak skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
+
+På følgende bygninger kan det tillates eksteriørmessige endringer:
+
+Sem Øvre a) Driftsbygning/Låve, b) Korntørke, c) Redskapshus og d) Sauefjøs, gnr./bnr. 20/2 – Asker kommune. Endringene kan tillates utført på fasadene som vender mot Semsvannet og eksempelvis være åpning/endring av fasade. Tiltak skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
 
 > Tilføyd ved [forskrift 18 juni 2014 nr. 771](forskrift/2014-06-18-771).
 
@@ -499,7 +552,10 @@ Formålet med fredningen av hageanlegget på gnr./bnr. 97/4 er å sikre den oppr
 
 ### § 11-3. Særbestemmelser
 
-For Eidsvollsbygningen gjelder følgende særbestemmelser:Tekniske oppgraderinger kan gjennomføres etter dispensasjon fra kulturminnemyndigheten jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).Ved ytterligere tilbakeføring av hageanleggets opprinnelige karakter, kan vognskjul, oppført i siste halvdel av 1900-tallet, rives etter dispensasjon fra kulturminnemyndigheten.
+For Eidsvollsbygningen gjelder følgende særbestemmelser:
+
+- Tekniske oppgraderinger kan gjennomføres etter dispensasjon fra kulturminnemyndigheten jf. [§ 1-7](forskrift/2011-11-09-1088/§1-7).
+- Ved ytterligere tilbakeføring av hageanleggets opprinnelige karakter, kan vognskjul, oppført i siste halvdel av 1900-tallet, rives etter dispensasjon fra kulturminnemyndigheten.
 
 > Tilføyd ved [forskrift 1 sep 2014 nr. 1120](forskrift/2014-09-01-1120).
 
@@ -1195,7 +1251,17 @@ Forvaltningsplan skal være utarbeidet innen ett år etter mottatt brukstillatel
 
 ### § 33-3. Tiltak på bygninger
 
-Fredningen er ikke til hinder for:følgende tiltak i henhold til Statlig reguleringsplan for Aker sykehus i Oslo kommune, arealplan-ID: NO-201704677:planlagt ny fløy B1 i det fredete området, samt påkobling til den eksisterende bygningen,at planlagt nytt bygg B3 kobles på blokk 2 Nordfløy,etablering av takvinduer jf. bestemmelse 7.2 i reguleringsplan.etablering av følgende nye innganger, forutsatt at de er antikvarisk tilpasset med hensyn til materialer og utforming:akuttinngang ved nordøstre hjørne av blokk 3 østfløy,rømningsdør i første vindu vest for det store glasspartiet på blokk 1 hovedfløyens nordre fasade.
+Fredningen er ikke til hinder for:
+
+1. følgende tiltak i henhold til Statlig reguleringsplan for Aker sykehus i Oslo kommune, arealplan-ID: NO-201704677:
+
+   - planlagt ny fløy B1 i det fredete området, samt påkobling til den eksisterende bygningen,
+   - at planlagt nytt bygg B3 kobles på blokk 2 Nordfløy,
+   - etablering av takvinduer jf. bestemmelse 7.2 i reguleringsplan.
+2. etablering av følgende nye innganger, forutsatt at de er antikvarisk tilpasset med hensyn til materialer og utforming:
+
+   - akuttinngang ved nordøstre hjørne av blokk 3 østfløy,
+   - rømningsdør i første vindu vest for det store glasspartiet på blokk 1 hovedfløyens nordre fasade.
 
 Tiltakene skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-4](forskrift/2011-11-09-1088/§1-4).
 
@@ -1205,7 +1271,13 @@ Tiltakene skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-4](
 
 Ny beplantning og vegetasjon skal være tilpasset anleggets historiske egenart. I det fredete utomhusanlegget er det ikke tillatt å oppføre byggverk, som drivhus etc.
 
-Fredningen er likevel ikke til hinder for:oppføring av mindre og reversible objekter som for eksempel lekeapparateroppføring av ventilasjonstårn nordøst for østfløyennødvendige terrenginngrep for overvannshåndtering og universell utformingopparbeiding av et mindre amfi med trapp sørvest på eiendommenskjæring i terreng og etablering av ny mur med nødvendige sikringstiltak langs ny kjørevei mot sør, jf. Statlig reguleringsplan for Aker sykehus i Oslo kommune, arealplan-ID: NO-201704677.
+Fredningen er likevel ikke til hinder for:
+
+1. oppføring av mindre og reversible objekter som for eksempel lekeapparater
+2. oppføring av ventilasjonstårn nordøst for østfløyen
+3. nødvendige terrenginngrep for overvannshåndtering og universell utforming
+4. opparbeiding av et mindre amfi med trapp sørvest på eiendommen
+5. skjæring i terreng og etablering av ny mur med nødvendige sikringstiltak langs ny kjørevei mot sør, jf. Statlig reguleringsplan for Aker sykehus i Oslo kommune, arealplan-ID: NO-201704677.
 
 Tiltakene skal på forhånd godkjennes av forvaltningsmyndigheten, jf. [§ 1-4](forskrift/2011-11-09-1088/§1-4).
 

@@ -46,7 +46,14 @@ Alle priser det opplyses om skal inkludere merverdiavgift og offentlige avgifter
 
 ### § 4. Definisjoner
 
-I dette kapitlet menes med*salgspris*: den fullstendige prisen for en bestemt mengde av varen*enhetspris*: den fullstendige prisen som angis per liter eller kubikkmeter for varer som selges etter volum, per kilo for varer som selges etter vekt, per meter for varer som selges etter lengde og per kvadratmeter for varer som selges etter flatemål*varer som selges i løs vekt*: varer som ikke er ferdigpakket, og som veies eller måles opp i forbindelse med kjøpet*næringsmiddel*: vare som er bestemt for å konsumeres av mennesker, med unntak av legemidler*nettomengde*: den nettovekten eller det nettovolumet som står oppgitt på en vares pakning, det vil si den varemengden som pakningen anses å inneholde*hovedvare*: vare uten lake, saus eller lignende, og som er ferdig til bruk uten at annen vare må tilsettes.
+I dette kapitlet menes med
+
+1. *salgspris*: den fullstendige prisen for en bestemt mengde av varen
+2. *enhetspris*: den fullstendige prisen som angis per liter eller kubikkmeter for varer som selges etter volum, per kilo for varer som selges etter vekt, per meter for varer som selges etter lengde og per kvadratmeter for varer som selges etter flatemål
+3. *varer som selges i løs vekt*: varer som ikke er ferdigpakket, og som veies eller måles opp i forbindelse med kjøpet
+4. *næringsmiddel*: vare som er bestemt for å konsumeres av mennesker, med unntak av legemidler
+5. *nettomengde*: den nettovekten eller det nettovolumet som står oppgitt på en vares pakning, det vil si den varemengden som pakningen anses å inneholde
+6. *hovedvare*: vare uten lake, saus eller lignende, og som er ferdig til bruk uten at annen vare må tilsettes.
 
 ### § 5. Krav til prisopplysning
 
@@ -62,9 +69,16 @@ Kravet til prisopplysning gjelder ikke for tobakksvarer.
 
 ### § 6. Beregning av enhetspris per kilo og liter
 
-Enhetspris per kilo og liter beregnes slikfor produkter som består utelukkende av en hovedvare: salgsprisen divideres med nettomengden av varenfor næringsmidler med saus, lake, vann eller lignende: salgsprisen divideres med mengden av hovedvarenfor næringsmidler som krever tilsetning av vann, krydder eller annen vare med ubetydelig verdi: salgsprisen divideres med mengden av varen som er ferdig til bruk, når anbefalt blandingsforhold legges til grunn.
+Enhetspris per kilo og liter beregnes slik
 
-Ved beregning av enhetspris for varer som ikke selges i løs vekt skal det korrigeres for forventet svinn i tiden frem til salg til forbruker. For varer som frembys i standard nettovekt eller -volum kan enhetsprisen likevel oppgis på grunnlag av standardmengde dersomvekt eller volum ikke avviker mer enn 5 % fra standard mengde ellervekt eller volum ligger innenfor de toleransegrenser som er fastsatt i [forskrift 21. desember 2007 nr. 1730](forskrift/2007-12-21-1730) om krav til nettoinnhold med videre i ferdigpakninger.
+1. for produkter som består utelukkende av en hovedvare: salgsprisen divideres med nettomengden av varen
+2. for næringsmidler med saus, lake, vann eller lignende: salgsprisen divideres med mengden av hovedvaren
+3. for næringsmidler som krever tilsetning av vann, krydder eller annen vare med ubetydelig verdi: salgsprisen divideres med mengden av varen som er ferdig til bruk, når anbefalt blandingsforhold legges til grunn.
+
+Ved beregning av enhetspris for varer som ikke selges i løs vekt skal det korrigeres for forventet svinn i tiden frem til salg til forbruker. For varer som frembys i standard nettovekt eller -volum kan enhetsprisen likevel oppgis på grunnlag av standardmengde dersom
+
+1. vekt eller volum ikke avviker mer enn 5 % fra standard mengde eller
+2. vekt eller volum ligger innenfor de toleransegrenser som er fastsatt i [forskrift 21. desember 2007 nr. 1730](forskrift/2007-12-21-1730) om krav til nettoinnhold med videre i ferdigpakninger.
 
 Andre ledd bokstav a gjelder ikke ferdigpakninger.
 
@@ -86,9 +100,25 @@ Ved tvil avgjør Forbrukertilsynet hvilken måleenhet som skal danne grunnlag fo
 
 ### § 9. Unntak fra krav om enhetspris
 
-Følgende næringsmidler er unntatt fra plikten til å oppgi enhetsprisen:pakninger med nettomengde under 50 gram eller 50 millilitervarer med ulik enhetspris som selges ferdigpakket i én pakningferdig forberedte måltider med klart adskilte komponenter som selges ferdigpakket i én pakningsmørbrød, snitter, kanapéer og lignendegrønnsaker og urter som selges i potte eller buntsmå spesialtomater som selges i beger eller brettblomkål, brokkoli, stangselleri, agurk, salat og kinakålkonditorvarer, unntatt tørre kaker og kjeksnæringsmidler som krever tilsetning av vare hvor tilsetningsvarens verdi ikke er ubetydeligkosttilskudd, jf. [forskrift 20. mai 2004 nr. 755](forskrift/2004-05-20-755) om kosttilskudd.
+Følgende næringsmidler er unntatt fra plikten til å oppgi enhetsprisen:
 
-Følgende andre varer er unntatt fra plikten til å oppgi enhetsprisen:varer som ikke kan deles uten at varens beskaffenhet eller egenskaper endrespakninger med nettomengde under 50 gram eller 50 millilitervarer med ulik enhetspris som selges ferdigpakket i én pakninglegemidler.
+1. pakninger med nettomengde under 50 gram eller 50 milliliter
+2. varer med ulik enhetspris som selges ferdigpakket i én pakning
+3. ferdig forberedte måltider med klart adskilte komponenter som selges ferdigpakket i én pakning
+4. smørbrød, snitter, kanapéer og lignende
+5. grønnsaker og urter som selges i potte eller bunt
+6. små spesialtomater som selges i beger eller brett
+7. blomkål, brokkoli, stangselleri, agurk, salat og kinakål
+8. konditorvarer, unntatt tørre kaker og kjeks
+9. næringsmidler som krever tilsetning av vare hvor tilsetningsvarens verdi ikke er ubetydelig
+10. kosttilskudd, jf. [forskrift 20. mai 2004 nr. 755](forskrift/2004-05-20-755) om kosttilskudd.
+
+Følgende andre varer er unntatt fra plikten til å oppgi enhetsprisen:
+
+1. varer som ikke kan deles uten at varens beskaffenhet eller egenskaper endres
+2. pakninger med nettomengde under 50 gram eller 50 milliliter
+3. varer med ulik enhetspris som selges ferdigpakket i én pakning
+4. legemidler.
 
 ### § 9a. Prisnedsettelse
 
@@ -138,7 +168,12 @@ Tilbys håndverkertjenester til en forbruker til forhåndsavtalt pris, plikter d
 
 ### § 14. Prisopplysninger til nettbaserte prisportaler
 
-Næringsdrivende skal registrere prisopplysninger for følgende tjenester i følgende prisportaler:for tannhelsetjenester registreres prisopplysninger i prisportal for tannhelsetjenesterfor banktjenester registreres prisopplysninger i Finansportalenfor tjenester knyttet til verdipapirfond registreres prisopplysninger i Finansportalenfor tjenester knyttet til pensjonsprodukter registreres prisopplysninger i Finansportalen. Med pensjonsprodukt menes produkt som kommer til utbetaling ved oppnåelse av fastsatt alder.
+Næringsdrivende skal registrere prisopplysninger for følgende tjenester i følgende prisportaler:
+
+1. for tannhelsetjenester registreres prisopplysninger i prisportal for tannhelsetjenester
+2. for banktjenester registreres prisopplysninger i Finansportalen
+3. for tjenester knyttet til verdipapirfond registreres prisopplysninger i Finansportalen
+4. for tjenester knyttet til pensjonsprodukter registreres prisopplysninger i Finansportalen. Med pensjonsprodukt menes produkt som kommer til utbetaling ved oppnåelse av fastsatt alder.
 
 Næringsdrivende har plikt til å registrere prisopplysninger på den måte som fastsettes av prisportalen.
 
@@ -150,7 +185,11 @@ Næringsdrivende har plikt til å registrere prisopplysninger på den måte som 
 
 Et gravferdsbyrå skal ha skriftlige prisopplysninger til utdeling. Prisopplysningene skal tilbys en forbruker uoppfordret ved første gangs henvendelse eller konsultasjon.
 
-Prisopplysningene skal inneholdeen liste over priser på alle gravferdsbyråets produkteren prisoversikt for gravferd, jf. [§ 16](forskrift/2012-11-14-1066/§16)informasjon om hovedpunktene i [folketrygdloven kapittel 7](lov/1997-02-28-19/kap7) om gravferdsstønad og stønad ved båretransport.
+Prisopplysningene skal inneholde
+
+1. en liste over priser på alle gravferdsbyråets produkter
+2. en prisoversikt for gravferd, jf. [§ 16](forskrift/2012-11-14-1066/§16)
+3. informasjon om hovedpunktene i [folketrygdloven kapittel 7](lov/1997-02-28-19/kap7) om gravferdsstønad og stønad ved båretransport.
 
 Dersom gravferdsbyrået krever betaling for konsultasjon utenfor byråets lokaler, skal det opplyses om det senest når forbrukeren inngår avtale om konsultasjon. Det samme gjelder dersom byrået krever høyere priser for konsultasjon utenfor ordinær arbeidstid.
 
@@ -160,7 +199,30 @@ I en oversikt over pris for gravferd skal det opplyses om hvilket geografisk omr
 
 Prisoversikten skal inneholde minimums- og maksimumspriser for varer og tjenester som gravferdsbyrået leverer eller formidler. Minimums- og maksimumsprisene skal summeres hver for seg, slik at laveste og høyeste totalsum fremgår.
 
-Minimums- og maksimumspriser skal oppgis forkiste, stell og nedlegging i kiste medkiste, inkludert alt tilhørende utstyr og svøp/skjortestell og nedlegging i kiste.transport medbringing av den døde på båre fra dødssted til oppbevaringsstedbringing av kiste til dødssted eller oppbevaringssted for avdødetransport fra dødssted eller oppbevaringssted til seremonistedtransport av utstyr og mannskap til seremoni som byrået tar betalt fortransport av båre etter seremoni når det er nødvendigøvrige tjenester knyttet til transport som byrået tar betalt for.seremoni medpriser på assistanse fra henholdsvis én og to gravferdskonsulenterpynt og hva pynten inkludererprogram i 50 eksemplarerkistedekorasjon ogøvrige tjenester knyttet til seremoni som byrået tar betalt for.honorarer og gebyrer medbyråets avgiftspliktige og avgiftsfrie honorarer og gebyrer og hva som inngår i honorarene.
+Minimums- og maksimumspriser skal oppgis for
+
+1. kiste, stell og nedlegging i kiste med
+
+   1. kiste, inkludert alt tilhørende utstyr og svøp/skjorte
+   2. stell og nedlegging i kiste.
+2. transport med
+
+   1. bringing av den døde på båre fra dødssted til oppbevaringssted
+   2. bringing av kiste til dødssted eller oppbevaringssted for avdøde
+   3. transport fra dødssted eller oppbevaringssted til seremonisted
+   4. transport av utstyr og mannskap til seremoni som byrået tar betalt for
+   5. transport av båre etter seremoni når det er nødvendig
+   6. øvrige tjenester knyttet til transport som byrået tar betalt for.
+3. seremoni med
+
+   1. priser på assistanse fra henholdsvis én og to gravferdskonsulenter
+   2. pynt og hva pynten inkluderer
+   3. program i 50 eksemplarer
+   4. kistedekorasjon og
+   5. øvrige tjenester knyttet til seremoni som byrået tar betalt for.
+4. honorarer og gebyrer med
+
+   1. byråets avgiftspliktige og avgiftsfrie honorarer og gebyrer og hva som inngår i honorarene.
 
 Prisoversikten skal inneholde pris for én dødsannonse over én spalte med størrelse på cirka 75 mm i den mest brukte avisen i distriktet.
 
@@ -188,13 +250,25 @@ Yter folketrygden stønad til tannbehandlingen, skal stønadsbeløpet fremgå av
 
 ### § 19. Definisjoner
 
-I dette kapitlet menes med*spotpris:* prisen i dagen-før-markedet på elektrisk kraft per kWh i det aktuelle prisområdet*tilleggstjenester:* valgfrie tjenester eller produkter som formidles eller tilbys av kraftleverandøren, og som faktureres i tillegg til de obligatoriske priselementene som kraftleverandøren har satt for levering av elektrisk kraft under den aktuelle avtalen.
+I dette kapitlet menes med
+
+1. *spotpris:* prisen i dagen-før-markedet på elektrisk kraft per kWh i det aktuelle prisområdet
+2. *tilleggstjenester:* valgfrie tjenester eller produkter som formidles eller tilbys av kraftleverandøren, og som faktureres i tillegg til de obligatoriske priselementene som kraftleverandøren har satt for levering av elektrisk kraft under den aktuelle avtalen.
 
 > Endret ved forskrift [23 sep 2022 nr. 1694](forskrift/2022-09-23-1694) (i kraft 1 nov 2022).
 
 ### § 20. Opplysninger ved oppfordring til kjøp av kraftavtaler
 
-Ved kommersiell kommunikasjon som utgjør en oppfordring til kjøp etter [markedsføringsloven § 8 tredje](lov/2009-01-09-2/§8/ledd/3) og [fjerde ledd](lov/2009-01-09-2/§8/ledd/4), regnes følgende opplysninger som vesentlige:om avtaletypen er spotpris, fastpris, standard variabel eller annen. Dersom avtalen ikke følger spotpris time for time, skal det opplyses om dettealle obligatoriske priselementer og størrelsen på disse. Dersom størrelsen på priselementene som kraftleverandøren fastsetter ikke med rimelighet kan utregnes på forhånd, skal det fremgå hvordan prisen beregnesavtalens og priselementenes varighet, herunder eventuelle garantiers varighet, dersom denne er begrenseteventuell bindingstid og eventuelt bruddgebyrperioden det må forskuddsbetales for, dersom avtalen krever forskuddsbetalingeventuelle vilkår for å kvalifisere for avtalenat eventuelle tilleggstjenester som tilbys ikke er obligatoriskeat avtalen kan sammenlignes med andre avtaler på Forbrukerrådets strømprisportal. Ved oppfordring til kjøp fremsatt digitalt, skal hyperlenke til Forbrukerrådets strømprisportal inntas.
+Ved kommersiell kommunikasjon som utgjør en oppfordring til kjøp etter [markedsføringsloven § 8 tredje](lov/2009-01-09-2/§8/ledd/3) og [fjerde ledd](lov/2009-01-09-2/§8/ledd/4), regnes følgende opplysninger som vesentlige:
+
+1. om avtaletypen er spotpris, fastpris, standard variabel eller annen. Dersom avtalen ikke følger spotpris time for time, skal det opplyses om dette
+2. alle obligatoriske priselementer og størrelsen på disse. Dersom størrelsen på priselementene som kraftleverandøren fastsetter ikke med rimelighet kan utregnes på forhånd, skal det fremgå hvordan prisen beregnes
+3. avtalens og priselementenes varighet, herunder eventuelle garantiers varighet, dersom denne er begrenset
+4. eventuell bindingstid og eventuelt bruddgebyr
+5. perioden det må forskuddsbetales for, dersom avtalen krever forskuddsbetaling
+6. eventuelle vilkår for å kvalifisere for avtalen
+7. at eventuelle tilleggstjenester som tilbys ikke er obligatoriske
+8. at avtalen kan sammenlignes med andre avtaler på Forbrukerrådets strømprisportal. Ved oppfordring til kjøp fremsatt digitalt, skal hyperlenke til Forbrukerrådets strømprisportal inntas.
 
 > Endret ved forskrifter [23 sep 2022 nr. 1694](forskrift/2022-09-23-1694) (i kraft 1 nov 2022), [21 juni 2024 nr. 1165](forskrift/2024-06-21-1165) (i kraft 1 juli 2024).
 
@@ -278,4 +352,11 @@ Tilbyderen skal gi forbrukeren en spesifisert kvittering når drosjetjenesten er
 
 ### § 26. Ikrafttredelse
 
-Forskriften gjelder fra 1. januar 2013. Fra samme tid oppheves[forskrift 22. desember 1993 nr. 1221](forskrift/1993-12-22-1221) om prisopplysning ved overnattings- og serveringssteder[forskrift 26. januar 1996 nr. 122](forskrift/1996-01-26-122) om prisopplysning ved tannlegetjenester m.m.[forskrift 7. juni 1996 nr. 666](forskrift/1996-06-07-666) om prisopplysning ved transport og salg av elektrisk kraft[forskrift 28. november 1997 nr. 1382](forskrift/1997-11-28-1382) om prisopplysning for tjenester[forskrift 12. desember 1997 nr. 1393](forskrift/1997-12-12-1393) om prisopplysning for gravferdstjenester[forskrift 6. desember 1999 nr. 1256](forskrift/1999-12-06-1256) om prisopplysning for varer.
+Forskriften gjelder fra 1. januar 2013. Fra samme tid oppheves
+
+- [forskrift 22. desember 1993 nr. 1221](forskrift/1993-12-22-1221) om prisopplysning ved overnattings- og serveringssteder
+- [forskrift 26. januar 1996 nr. 122](forskrift/1996-01-26-122) om prisopplysning ved tannlegetjenester m.m.
+- [forskrift 7. juni 1996 nr. 666](forskrift/1996-06-07-666) om prisopplysning ved transport og salg av elektrisk kraft
+- [forskrift 28. november 1997 nr. 1382](forskrift/1997-11-28-1382) om prisopplysning for tjenester
+- [forskrift 12. desember 1997 nr. 1393](forskrift/1997-12-12-1393) om prisopplysning for gravferdstjenester
+- [forskrift 6. desember 1999 nr. 1256](forskrift/1999-12-06-1256) om prisopplysning for varer.

@@ -15,7 +15,7 @@ xml_hash: "10d6d901aa188019c714185d7996fdce0dd783f4b94ee0a50a8685cd662734b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,13 +34,26 @@ Forskriften gjelder for bygging og drift av taubaner, og for konstruksjon, produ
 
 Forskriften gjelder ikke for planlegging og oppføring av taubane.
 
-Forskriften gjelder ikke for:taubaner omfattet av artikkel 2 nr. 2 i forordning [(EU) 2016/424](eu/32016r0424) gjennomført i kapittel 4 i denne forskriftengodstaubaner som er to kilometer eller kortere, eller som går over egen grunnkabelkraner for godstransport som er to kilometer eller kortere, eller som går over egen grunn.
+Forskriften gjelder ikke for:
+
+1. taubaner omfattet av artikkel 2 nr. 2 i forordning [(EU) 2016/424](eu/32016r0424) gjennomført i kapittel 4 i denne forskriften
+2. godstaubaner som er to kilometer eller kortere, eller som går over egen grunn
+3. kabelkraner for godstransport som er to kilometer eller kortere, eller som går over egen grunn.
 
 > Endret ved forskrift [3 des 2024 nr. 2924](forskrift/2024-12-03-2924) (i kraft 1 juli 2025).
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med:*Taubane:* anlegg konstruert, produsert, montert og tatt i bruk for det formål å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av og/eller beveges med tau plassert i eller langs en trasé*Godstaubane:* taubane beregnet for transport av gods*Taubanevirksomhet:* foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for en eller flere taubaner*Driftspersonell:* personer med operative oppgaver av betydning for sikkerheten*Taubaneulykke:* en uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og alle andre lignende ulykker*Alvorlig taubanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en taubaneulykke*Taubanehendelse:* enhver annen hendelse enn en ulykke, som har sammenheng med driften og som innvirker på driftssikkerheten.*Bærende konstruksjoner:* taubanens stasjoner og master, og fundamenter for disse.
+I denne forskriften menes med:
+
+1. *Taubane:* anlegg konstruert, produsert, montert og tatt i bruk for det formål å transportere personer eller gods i vogner eller med trekkinnretninger som bæres av og/eller beveges med tau plassert i eller langs en trasé
+2. *Godstaubane:* taubane beregnet for transport av gods
+3. *Taubanevirksomhet:* foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for en eller flere taubaner
+4. *Driftspersonell:* personer med operative oppgaver av betydning for sikkerheten
+5. *Taubaneulykke:* en uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og alle andre lignende ulykker
+6. *Alvorlig taubanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en taubaneulykke
+7. *Taubanehendelse:* enhver annen hendelse enn en ulykke, som har sammenheng med driften og som innvirker på driftssikkerheten.
+8. *Bærende konstruksjoner:* taubanens stasjoner og master, og fundamenter for disse.
 
 > Endret ved forskrift [3 des 2024 nr. 2924](forskrift/2024-12-03-2924) (i kraft 1 juli 2025).
 
@@ -66,7 +79,11 @@ Taubanevirksomheten har ansvaret for sikker drift og vedlikehold og for å ha ko
 
 Alle taubaner for persontransport skal ha et akseptabelt sikkerhetsnivå.
 
-En taubane anses å ha et akseptabelt sikkerhetsnivå når:den er i samsvar med dokumentasjonen som ligger til grunn for driftstillatelsen og senere endringer som er meldt inn og behandlet av Statens jernbanetilsyn,taubanen drives sikkert, ogtaubanen vedlikeholdes og kontrolleres slik at den er i driftssikker tilstand.
+En taubane anses å ha et akseptabelt sikkerhetsnivå når:
+
+1. den er i samsvar med dokumentasjonen som ligger til grunn for driftstillatelsen og senere endringer som er meldt inn og behandlet av Statens jernbanetilsyn,
+2. taubanen drives sikkert, og
+3. taubanen vedlikeholdes og kontrolleres slik at den er i driftssikker tilstand.
 
 Statens jernbanetilsyn kan kreve at taubanevirksomheten bruker en uavhengig tredjepart eller produsenten av taubanen til å dokumentere at taubanen tilfredsstiller kravet om akseptabelt sikkerhetsnivå i andre ledd.
 
@@ -82,7 +99,12 @@ Det skal sendes en melding om bygging av taubane til Statens jernbanetilsyn slik
 
 Drift av taubane krever driftstillatelse. Før taubaner tas i bruk skal Statens jernbanetilsyn gi driftstillatelse etter at søker har dokumentert at taubanen oppfyller tekniske og driftsmessige krav.
 
-Søknad om driftstillatelse sendes til Statens jernbanetilsyn på et fastsatt skjema. Søknad om driftstillatelse skal minst inneholde:Teknisk dokumentasjonRelevante deler av sikkerhetsstyringssystemetDokumentasjon på forsikring og sikkerhetsstillelseFerdigattest eller midlertidig brukstillatelse etter [plan- og bygningsloven § 21-10](lov/2008-06-27-71/§21-10).
+Søknad om driftstillatelse sendes til Statens jernbanetilsyn på et fastsatt skjema. Søknad om driftstillatelse skal minst inneholde:
+
+1. Teknisk dokumentasjon
+2. Relevante deler av sikkerhetsstyringssystemet
+3. Dokumentasjon på forsikring og sikkerhetsstillelse
+4. Ferdigattest eller midlertidig brukstillatelse etter [plan- og bygningsloven § 21-10](lov/2008-06-27-71/§21-10).
 
 For søknad om ny driftstillatelse etter endring av taubanen skal søknaden inneholde teknisk dokumentasjon og relevante deler av sikkerhetsstyringssystemet. Bokstav c og d skal sendes inn dersom det er relevant for endringen.
 
@@ -156,7 +178,11 @@ Taubaner som ikke lenger har driftstillatelse, skal fjernes innen ett år etter 
 
 Taubanevirksomheten skal være forsikret og ha sikkerhetsstillelse for erstatningsansvar som kan oppstå på grunn av taubanen. Ved manglende sikkerhetsstillelse skal Statens jernbanetilsyn tilbakekalle driftstillatelsen.
 
-Minstekrav til forsikringsdekning for enkelte typer taubaner:Virksomheter som har driftstillatelse for et eller flere skitau, skal være forsikret med en dekning på minst 200 G.Virksomheter som har driftstillatelse for et eller flere skitrekk, skal være forsikret med en dekning på minst 400 G.Virksomheter som har driftstillatelse for en eller flere godstaubaner, skal være forsikret med en dekning på minst 200 G.
+Minstekrav til forsikringsdekning for enkelte typer taubaner:
+
+1. Virksomheter som har driftstillatelse for et eller flere skitau, skal være forsikret med en dekning på minst 200 G.
+2. Virksomheter som har driftstillatelse for et eller flere skitrekk, skal være forsikret med en dekning på minst 400 G.
+3. Virksomheter som har driftstillatelse for en eller flere godstaubaner, skal være forsikret med en dekning på minst 200 G.
 
 Virksomheter som har driftstillatelse for en eller flere kabelbaner, stolheiser eller totausbaner, skal ha en forsikringsdekning og sikkerhetsstillelse som beregnes ut fra det skadepotensialet taubanen representerer.
 
@@ -202,7 +228,19 @@ Sikkerhetsstyringssystemet skal være dokumentert og kjent av alt driftspersonel
 
 Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av den aktuelle virksomheten og skal inneholde bestemmelsene som er nødvendige for å ha kontroll på risikoen forbundet med virksomheten.
 
-I sikkerhetsstyringssystemet skal taubanevirksomheten minst beskrivehvem som har myndighet til å fatte beslutninger av betydning for sikkerhetensystemet for avvikshåndteringhvordan jevnlige risikovurderinger og de tilhørende handlingsplanene skal gjennomføres.instrukser og rutiner forsikker driftkontrollvedlikeholdkompetanse- og opplæringskrav for driftspersonellet, inkludert krav til førstehjelps- og redningskompetanseberedskapsplaner for nødsituasjoner og andre situasjoner som kan true sikkerhetendokumentasjon som inneholder oversikt over tekniske data og driftsdata, journaler over reparasjoner, ombygginger, undersøkelser, prøvinger og kontroller, og rapporter fra disse.
+I sikkerhetsstyringssystemet skal taubanevirksomheten minst beskrive
+
+1. hvem som har myndighet til å fatte beslutninger av betydning for sikkerheten
+2. systemet for avvikshåndtering
+3. hvordan jevnlige risikovurderinger og de tilhørende handlingsplanene skal gjennomføres.
+4. instrukser og rutiner for
+
+   1. sikker drift
+   2. kontroll
+   3. vedlikehold
+5. kompetanse- og opplæringskrav for driftspersonellet, inkludert krav til førstehjelps- og redningskompetanse
+6. beredskapsplaner for nødsituasjoner og andre situasjoner som kan true sikkerheten
+7. dokumentasjon som inneholder oversikt over tekniske data og driftsdata, journaler over reparasjoner, ombygginger, undersøkelser, prøvinger og kontroller, og rapporter fra disse.
 
 > Endret ved forskrift [26 juni 2025 nr. 1343](forskrift/2025-06-26-1343) (i kraft 1 juli 2025).
 
@@ -216,9 +254,17 @@ Instrukser for sikker drift, kontroll og vedlikehold skal utarbeides på grunnla
 
 ### § 2-15. Krav til beredskapsplaner
 
-Beredskapsplanen skal minst inneholde:intern og ekstern varslingslisteoversikt over førstehjelps- og redningsutstyr og hvor det er plassert.
+Beredskapsplanen skal minst inneholde:
 
-Beredskapsplaner for svevebaner og kabelbaner skal i tillegg inneholde:en detaljert redningsplanrutiner for å planlegge og gjennomføre regelmessige redningsøvelserrutiner for å evaluere og følge opp redningsøvelseneoversikt over kommunikasjonsutstyr, utstyr for evakuering eller nedfiring for personer og hvor utstyret er plassert.
+1. intern og ekstern varslingsliste
+2. oversikt over førstehjelps- og redningsutstyr og hvor det er plassert.
+
+Beredskapsplaner for svevebaner og kabelbaner skal i tillegg inneholde:
+
+1. en detaljert redningsplan
+2. rutiner for å planlegge og gjennomføre regelmessige redningsøvelser
+3. rutiner for å evaluere og følge opp redningsøvelsene
+4. oversikt over kommunikasjonsutstyr, utstyr for evakuering eller nedfiring for personer og hvor utstyret er plassert.
 
 ### § 2-16. Oppsyn under drift
 
@@ -260,9 +306,22 @@ Driftslederen skal ha myndighet til å treffe tiltak som er nødvendige for å g
 
 Driftslederen for taubanevirksomheten skal ha den nødvendige erfaringen og de nødvendige kunnskapene, ferdighetene og personlige egenskapene for oppgavene som skal utføres. Driftslederen må være minst 20 år.
 
-Kompetansekravet som virksomheten vurderer som dekkende, skal gå fram av virksomhetens sikkerhetsstyringssystem. Som et minimum skal følgende kompetanseområder være dekket:[taubaneloven](lov/2017-05-22-29) og taubaneforskriftenstyrings- og ledelseskompetansesikkerhetsstyringssystemets hensikt og innholdberedskapteknisk kompetanse, inkludert taubanens oppbygging og virkemåte, risikomomenter forbundet med drift og taubanens sikkerhetsfunksjonerkompetanse knyttet til drift og driftskontroll, inkludert vurdering av tilstrekkelig bemanning, krav til kontroller av taubanen før og under drift og hvilke forhold som krever stans av driftenkompetanse knyttet til vedlikehold, inkludert planlegging, gjennomføring og oppfølging av forebyggende vedlikehold og periodiske kontrollerfor svevende transport: kompetanse om redningsøvelser og -beredskap, inkludert planlegging, gjennomføring og evaluering av redningsøvelser og bemanning, gjennomføring og ledelse av redningsaksjoner.
+Kompetansekravet som virksomheten vurderer som dekkende, skal gå fram av virksomhetens sikkerhetsstyringssystem. Som et minimum skal følgende kompetanseområder være dekket:
 
-I tillegg skal driftslederen ha en obligatorisk praksisperiode som driftspersonell for en relevant taubane under veiledning av driftslederen med god erfaring fra tilsvarende taubane. Praksisperioden skal spesielt dekke bokstav c) til f). Varigheten på praksisperioden skal minst væreskitau: 1 ukeskitrekk: 1 månedandre taubaner: 4 måneder.
+1. [taubaneloven](lov/2017-05-22-29) og taubaneforskriften
+2. styrings- og ledelseskompetanse
+3. sikkerhetsstyringssystemets hensikt og innhold
+4. beredskap
+5. teknisk kompetanse, inkludert taubanens oppbygging og virkemåte, risikomomenter forbundet med drift og taubanens sikkerhetsfunksjoner
+6. kompetanse knyttet til drift og driftskontroll, inkludert vurdering av tilstrekkelig bemanning, krav til kontroller av taubanen før og under drift og hvilke forhold som krever stans av driften
+7. kompetanse knyttet til vedlikehold, inkludert planlegging, gjennomføring og oppfølging av forebyggende vedlikehold og periodiske kontroller
+8. for svevende transport: kompetanse om redningsøvelser og -beredskap, inkludert planlegging, gjennomføring og evaluering av redningsøvelser og bemanning, gjennomføring og ledelse av redningsaksjoner.
+
+I tillegg skal driftslederen ha en obligatorisk praksisperiode som driftspersonell for en relevant taubane under veiledning av driftslederen med god erfaring fra tilsvarende taubane. Praksisperioden skal spesielt dekke bokstav c) til f). Varigheten på praksisperioden skal minst være
+
+1. skitau: 1 uke
+2. skitrekk: 1 måned
+3. andre taubaner: 4 måneder.
 
 ### § 3-4. Bemanningskrav for taubaner
 
@@ -350,7 +409,11 @@ Når det gjelder stolheiser, totausbaner og kabelbaner, kan Statens jernbanetils
 
 ### § 3-13. Spesielle inspeksjoner
 
-For taubaner for persontransport som ikke er i samsvar med forordning [(EU) 2016/424](eu/32016r0424), skal relevante komponenter og konstruksjonsdeler som utsettes for utmattingsbelastning eller utmattingsspenninger, prøves gjennom ikke-destruktive prøvinger i henhold til anerkjente standarder. Utvelgelsen av hvilke komponenter og konstruksjonsdeler som skal prøves, skal skje på bakgrunn av virksomhetens vurdering av hvilke av disse som er mest utsatt for utmatting. Følgende intervaller gjelder (med unntak av for klemmer):Første spesielle inspeksjon. Senest innen 22 500 driftstimer eller 15 år etter første idriftsettelseAndre spesielle inspeksjon. Senest innen 15 000 driftstimer eller 10 år etter første spesielle inspeksjonTredje og etterfølgende spesielle inspeksjoner: Senest innen 7500 driftstimer eller fem år etter forrige spesielle inspeksjon.
+For taubaner for persontransport som ikke er i samsvar med forordning [(EU) 2016/424](eu/32016r0424), skal relevante komponenter og konstruksjonsdeler som utsettes for utmattingsbelastning eller utmattingsspenninger, prøves gjennom ikke-destruktive prøvinger i henhold til anerkjente standarder. Utvelgelsen av hvilke komponenter og konstruksjonsdeler som skal prøves, skal skje på bakgrunn av virksomhetens vurdering av hvilke av disse som er mest utsatt for utmatting. Følgende intervaller gjelder (med unntak av for klemmer):
+
+1. Første spesielle inspeksjon. Senest innen 22 500 driftstimer eller 15 år etter første idriftsettelse
+2. Andre spesielle inspeksjon. Senest innen 15 000 driftstimer eller 10 år etter første spesielle inspeksjon
+3. Tredje og etterfølgende spesielle inspeksjoner: Senest innen 7500 driftstimer eller fem år etter forrige spesielle inspeksjon.
 
 Kontroll og prøving av klemmer skal skje etter en plan utarbeidet av leverandøren.
 
@@ -394,7 +457,51 @@ Når sikkerhetsbremsen betjenes eller nødstoppet aktiveres, skal det utløse st
 
 ### § 5-3. Dokumentasjon ved søknad om driftstillatelse
 
-Ved søknad om driftstillatelse for godstaubaner skal følgende dokumenteres:oversiktstegning som viser anleggets vertikaltrasé (profil) med tauføring, stasjoner og master: Målestokken skal være minst 1:1000. På tegningen skal det angis:høyde- og lengdekoordinater for topp av mastefundamenter, driv- og vendeskiver og opplagringspunkter for bære-, trekk- og balansetaunyttelastberegning av bære-, trekk- og balansetau, helnings- og brytningsvinkler, opplagertrykk i master, pilhøyder og motvektbevegelse. Spesifikasjon av bæretau, trekk- og balansetau med angivelse av: taufabrikat, taudiameter, taukonstruksjon, nominell strekkfasthet av tråder, minimum effektiv bruddlast og masse pr. lengdeenhet. For bæretau som ikke er strammet med motvekt, skal E-modul angis.beregning av sikkerhet mot glidning av trekktauet på drivskivenstasjoner, med nærmere informasjon:sammenstillingstegningerdetaljtegninger avkraftoverførende deler mellom drivmaskineri og drivskivedriv-, vende- og ledeskiverbremserbærende stålkonstruksjonerfundamenteringforankring av bæretaustyrkeberegning av delene angitt i punkt 2. For roterende aksler skal det foreligge utmattingsberegninger.strammeanordningsammenstillingstegning(er) med spesifikasjon av strammetau og tyngde av motvekt for bæretau og trekktau. Hvis det benyttes andre strammeanordninger enn motvekt (for eksempel hydraulisk stramming), skal det følge med systembeskrivelse og konstruksjonstegninger med spesifikasjoner. Spesifikasjonen av strammetau skal omfattetaufabrikanttaudiametertaukonstruksjonnominell strekkfasthet i trådenespesifisert minste effektive bruddlastkonstruksjonstegninger av opphengingsanordninger, bærende stålkonstruksjoner og tauskiverstyrkeberegningermasterkonstruksjonstegninger med detaljer av skivebatterier og bæretauskofundamenttegningerstyrkeberegningerløpeverk, hengestell, vognsammenstillingstegninger av løpeverk, hengestell og vogn med angivelse av hoveddimensjoner og vekterkonstruksjonstegninger av løpeverk, hengestell og vogn og forbindelse mellom trekktau og hengestellstyrkeberegning av delene angitt i punkt 2beregning av hvilken vindhastighet som gir en ubelastet vogn et utsving på 12 grader på tvers av banenelektrisk utstyr spesifisert med prinsipp- og koblingsskjemahydraulisk utstyr med systemtegninger og styrkeberegningersikkerhetsstyringssystem der det angis materialkvaliteter og eventuell ikke-destruktiv prøving av materialet. For sveiste forbindelser skal angis sveisemetode og tilsettingsmaterialer, eventuell varmebehandling etter sveising og omfanget av eventuell ikke-destruktiv prøving.
+Ved søknad om driftstillatelse for godstaubaner skal følgende dokumenteres:
+
+1. oversiktstegning som viser anleggets vertikaltrasé (profil) med tauføring, stasjoner og master: Målestokken skal være minst 1:1000. På tegningen skal det angis:
+
+   1. høyde- og lengdekoordinater for topp av mastefundamenter, driv- og vendeskiver og opplagringspunkter for bære-, trekk- og balansetau
+   2. nyttelast
+2. beregning av bære-, trekk- og balansetau, helnings- og brytningsvinkler, opplagertrykk i master, pilhøyder og motvektbevegelse. Spesifikasjon av bæretau, trekk- og balansetau med angivelse av: taufabrikat, taudiameter, taukonstruksjon, nominell strekkfasthet av tråder, minimum effektiv bruddlast og masse pr. lengdeenhet. For bæretau som ikke er strammet med motvekt, skal E-modul angis.
+3. beregning av sikkerhet mot glidning av trekktauet på drivskiven
+4. stasjoner, med nærmere informasjon:
+
+   1. sammenstillingstegninger
+   2. detaljtegninger av
+
+      - kraftoverførende deler mellom drivmaskineri og drivskive
+      - driv-, vende- og ledeskiver
+      - bremser
+      - bærende stålkonstruksjoner
+      - fundamentering
+      - forankring av bæretau
+   3. styrkeberegning av delene angitt i punkt 2. For roterende aksler skal det foreligge utmattingsberegninger.
+5. strammeanordning
+
+   1. sammenstillingstegning(er) med spesifikasjon av strammetau og tyngde av motvekt for bæretau og trekktau. Hvis det benyttes andre strammeanordninger enn motvekt (for eksempel hydraulisk stramming), skal det følge med systembeskrivelse og konstruksjonstegninger med spesifikasjoner. Spesifikasjonen av strammetau skal omfatte
+
+      - taufabrikant
+      - taudiameter
+      - taukonstruksjon
+      - nominell strekkfasthet i trådene
+      - spesifisert minste effektive bruddlast
+   2. konstruksjonstegninger av opphengingsanordninger, bærende stålkonstruksjoner og tauskiver
+   3. styrkeberegninger
+6. master
+
+   1. konstruksjonstegninger med detaljer av skivebatterier og bæretausko
+   2. fundamenttegninger
+   3. styrkeberegninger
+7. løpeverk, hengestell, vogn
+
+   1. sammenstillingstegninger av løpeverk, hengestell og vogn med angivelse av hoveddimensjoner og vekter
+   2. konstruksjonstegninger av løpeverk, hengestell og vogn og forbindelse mellom trekktau og hengestell
+   3. styrkeberegning av delene angitt i punkt 2
+   4. beregning av hvilken vindhastighet som gir en ubelastet vogn et utsving på 12 grader på tvers av banen
+8. elektrisk utstyr spesifisert med prinsipp- og koblingsskjema
+9. hydraulisk utstyr med systemtegninger og styrkeberegninger
+10. sikkerhetsstyringssystem der det angis materialkvaliteter og eventuell ikke-destruktiv prøving av materialet. For sveiste forbindelser skal angis sveisemetode og tilsettingsmaterialer, eventuell varmebehandling etter sveising og omfanget av eventuell ikke-destruktiv prøving.
 
 ### § 5-4. Kontroll av ståltau
 
@@ -439,15 +546,46 @@ Opplysninger som tilsynsmyndigheten mottar i medhold av [taubaneloven § 10](lov
 
 ### § 7-3. Vilkår for å kunne vedta overtredelsesgebyr
 
-Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter [taubaneloven](lov/2017-05-22-29) eller denne forskriften, eller individuelle avgjørelser i medhold av [taubaneloven](lov/2017-05-22-29) eller denne forskriften, særlig[taubaneloven § 5](lov/2017-05-22-29/§5) om taubanevirksomhetens plikter[taubaneloven § 6](lov/2017-05-22-29/§6) om krav om driftstillatelse[taubaneloven § 7](lov/2017-05-22-29/§7) om plikt til sikkerhetsstyringssystem (internkontrollsystem)[taubaneloven § 9](lov/2017-05-22-29/§9) om varslingspliktpålegg i medhold av [taubaneloven § 16](lov/2017-05-22-29/§16) om øyeblikkelig stans eller opphør av bruk[taubaneloven § 27](lov/2017-05-22-29/§27) om fjerning av taubane[taubaneforskriften § 2-15](forskrift/2022-12-20-2383/§2-15) om krav til beredskapsplaner[taubaneforskriften § 2-16](forskrift/2022-12-20-2383/§2-16) om oppsyn under drift[taubaneforskriften § 2-17](forskrift/2022-12-20-2383/§2-17) om generelle krav[taubaneforskriften § 3-1](forskrift/2022-12-20-2383/§3-1) om generelle krav til driftspersonellet[taubaneforskriften § 3-4](forskrift/2022-12-20-2383/§3-4) om bemanningskrav for taubaner[taubaneforskriften § 3-6](forskrift/2022-12-20-2383/§3-6) om beredskap for svevebaner og kabelbaner[taubaneforskriften § 3-9](forskrift/2022-12-20-2383/§3-9) om førstehjelpsutstyr[taubaneforskriften § 3-10](forskrift/2022-12-20-2383/§3-10) om driftskontroll[taubaneforskriften § 3-11](forskrift/2022-12-20-2383/§3-11) om magnetinduktiv prøving[taubaneforskriften § 3-12](forskrift/2022-12-20-2383/§3-12) om kontroll og vedlikehold[taubaneforskriften § 3-13](forskrift/2022-12-20-2383/§3-13) om spesielle inspeksjoner[taubaneforskriften § 3-14](forskrift/2022-12-20-2383/§3-14) om skilting.
+Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter [taubaneloven](lov/2017-05-22-29) eller denne forskriften, eller individuelle avgjørelser i medhold av [taubaneloven](lov/2017-05-22-29) eller denne forskriften, særlig
+
+1. [taubaneloven § 5](lov/2017-05-22-29/§5) om taubanevirksomhetens plikter
+2. [taubaneloven § 6](lov/2017-05-22-29/§6) om krav om driftstillatelse
+3. [taubaneloven § 7](lov/2017-05-22-29/§7) om plikt til sikkerhetsstyringssystem (internkontrollsystem)
+4. [taubaneloven § 9](lov/2017-05-22-29/§9) om varslingsplikt
+5. pålegg i medhold av [taubaneloven § 16](lov/2017-05-22-29/§16) om øyeblikkelig stans eller opphør av bruk
+6. [taubaneloven § 27](lov/2017-05-22-29/§27) om fjerning av taubane
+7. [taubaneforskriften § 2-15](forskrift/2022-12-20-2383/§2-15) om krav til beredskapsplaner
+8. [taubaneforskriften § 2-16](forskrift/2022-12-20-2383/§2-16) om oppsyn under drift
+9. [taubaneforskriften § 2-17](forskrift/2022-12-20-2383/§2-17) om generelle krav
+10. [taubaneforskriften § 3-1](forskrift/2022-12-20-2383/§3-1) om generelle krav til driftspersonellet
+11. [taubaneforskriften § 3-4](forskrift/2022-12-20-2383/§3-4) om bemanningskrav for taubaner
+12. [taubaneforskriften § 3-6](forskrift/2022-12-20-2383/§3-6) om beredskap for svevebaner og kabelbaner
+13. [taubaneforskriften § 3-9](forskrift/2022-12-20-2383/§3-9) om førstehjelpsutstyr
+14. [taubaneforskriften § 3-10](forskrift/2022-12-20-2383/§3-10) om driftskontroll
+15. [taubaneforskriften § 3-11](forskrift/2022-12-20-2383/§3-11) om magnetinduktiv prøving
+16. [taubaneforskriften § 3-12](forskrift/2022-12-20-2383/§3-12) om kontroll og vedlikehold
+17. [taubaneforskriften § 3-13](forskrift/2022-12-20-2383/§3-13) om spesielle inspeksjoner
+18. [taubaneforskriften § 3-14](forskrift/2022-12-20-2383/§3-14) om skilting.
 
 > Tilføyd ved forskrift [8 des 2025 nr. 2457](forskrift/2025-12-08-2457) (i kraft 1 jan 2026).
 
 ### § 7-4. Momenter ved vurdering av ileggelse og utmåling av overtredelsesgebyr
 
-Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt påovertredelsens grovhet og omfangom overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltakom overtredelsen er gjentattom overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsenovertrederens økonomiske evne.
+Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt på
 
-Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn tilom noen som handler på vegne av foretaket, har utvist skyldsanksjonens preventive virkningom overtredelsen er begått for å fremme foretakets interesserom andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straffom overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
+1. overtredelsens grovhet og omfang
+2. om overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak
+3. om overtredelsen er gjentatt
+4. om overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsen
+5. overtrederens økonomiske evne.
+
+Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn til
+
+1. om noen som handler på vegne av foretaket, har utvist skyld
+2. sanksjonens preventive virkning
+3. om overtredelsen er begått for å fremme foretakets interesser
+4. om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straff
+5. om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
 
 > Tilføyd ved forskrift [8 des 2025 nr. 2457](forskrift/2025-12-08-2457) (i kraft 1 jan 2026).
 

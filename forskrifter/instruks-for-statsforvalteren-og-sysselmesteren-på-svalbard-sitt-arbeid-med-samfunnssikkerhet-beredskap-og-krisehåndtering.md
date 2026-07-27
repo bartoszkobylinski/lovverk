@@ -15,7 +15,7 @@ xml_hash: "f4f6437cac03946f7803bb2e6c89edc8751020d2d04f6c1f6e9c83cd1cf845db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Formålet med instruksen er å gi retningslinjer for statsforvalterens arbeid me
 
 ## II. Anvendelse for Svalbard
 
-Instruksen gjelder for Sysselmesteren på Svalbard, men slik atmed kommune forstås Longyearbyen lokalstyremed fylke og region forstås Svalbardhenvisningen til plan- og [bygningsloven i kapittel V](lov/2008-06-27-71/kapv) nr. 1 forstås som henvisning til [svalbardmiljøloven kapittel IV](lov/2001-06-15-79/kapiv)med fylkesberedskapsrådet forstås beredskapsrådet for Svalbard.
+Instruksen gjelder for Sysselmesteren på Svalbard, men slik at
+
+1. med kommune forstås Longyearbyen lokalstyre
+2. med fylke og region forstås Svalbard
+3. henvisningen til plan- og [bygningsloven i kapittel V](lov/2008-06-27-71/kapv) nr. 1 forstås som henvisning til [svalbardmiljøloven kapittel IV](lov/2001-06-15-79/kapiv)
+4. med fylkesberedskapsrådet forstås beredskapsrådet for Svalbard.
 
 For øvrig gjelder instruksen så langt den passer og med de særlige tilpasningene som følger av kapittel VII og X.
 
@@ -88,7 +93,10 @@ Statsforvalteren skal føre tilsyn med at kommunen oppfyller kravene i [sivilbes
 
 ## VII. Fylkesberedskapsråd
 
-Statsforvalteren skal oppnevne et fylkesberedskapsråd som ledes av statsforvalteren. Hele rådet skal innkalles minst én gang i året. Statsforvalteren avgjør for øvrig hvor ofte rådet skal møtes.Fylkesberedskapsrådet skal bestå av representanter for regionale aktører med ansvar for kritisk infrastruktur og kritiske samfunnsfunksjoner, ledere fra politiet og øvrige nødetater, Forsvaret, Sivilforsvaret, frivillige organisasjoner, fylkeskommunen og statlige etater med vesentlige beredskapsoppgaver i fylket. Statsforvalteren kan invitere andre aktører.Beredskapsrådet for Svalbard ledes av Sysselmesteren og består av representanter for alle nødetatene, større institusjoner og bedrifter på Svalbard og Longyearbyen Røde Kors.
+Statsforvalteren skal oppnevne et fylkesberedskapsråd som ledes av statsforvalteren. Hele rådet skal innkalles minst én gang i året. Statsforvalteren avgjør for øvrig hvor ofte rådet skal møtes.
+
+1. Fylkesberedskapsrådet skal bestå av representanter for regionale aktører med ansvar for kritisk infrastruktur og kritiske samfunnsfunksjoner, ledere fra politiet og øvrige nødetater, Forsvaret, Sivilforsvaret, frivillige organisasjoner, fylkeskommunen og statlige etater med vesentlige beredskapsoppgaver i fylket. Statsforvalteren kan invitere andre aktører.
+2. Beredskapsrådet for Svalbard ledes av Sysselmesteren og består av representanter for alle nødetatene, større institusjoner og bedrifter på Svalbard og Longyearbyen Røde Kors.
 
 *Fylkesberedskapsrådets rolle er å*
 
@@ -209,7 +217,16 @@ Oversikten over risiko og sårbarhet etableres gjennom en risiko- og sårbarhets
 
 Fylkesmannen skal utarbeide fylkesROS i tråd med DSBs veileder. FylkesROS skal være en felles plattform for fylkesmannens og regionale aktørers arbeid med samfunnssikkerhet og beredskap.
 
-FylkesROS skal bidra til å styrke samordningen regionalt blant annet gjennom å gi:Kunnskap om risiko og sårbarhet i fylketEt felles risiko- og sårbarhetsbilde regionalt og jevnlige orienteringer om status på samfunnssikkerhetsområdetOversikt over regionale aktørers ansvar, utfordringer og gjensidige avhengigheterOversikt over sentrale myndigheters krav til og føringer for kommunenes og regionale aktørers samfunnssikkerhets- og beredskapsarbeidGrunnlag for samarbeid om oppfølging av samfunnssikkerhetshensyn i samfunnsplanleggingenVeiledning til kommunene i arbeidet med oppfølging av kommunal beredskapspliktBakgrunn for fylkesmannens egenberedskap, og fylkesmannens veiledning og samordning av regionale samfunnssikkerhetsaktørers beredskapsplaner og øvelserKartlegging av ressursbehov i fylket.
+FylkesROS skal bidra til å styrke samordningen regionalt blant annet gjennom å gi:
+
+- Kunnskap om risiko og sårbarhet i fylket
+- Et felles risiko- og sårbarhetsbilde regionalt og jevnlige orienteringer om status på samfunnssikkerhetsområdet
+- Oversikt over regionale aktørers ansvar, utfordringer og gjensidige avhengigheter
+- Oversikt over sentrale myndigheters krav til og føringer for kommunenes og regionale aktørers samfunnssikkerhets- og beredskapsarbeid
+- Grunnlag for samarbeid om oppfølging av samfunnssikkerhetshensyn i samfunnsplanleggingen
+- Veiledning til kommunene i arbeidet med oppfølging av kommunal beredskapsplikt
+- Bakgrunn for fylkesmannens egenberedskap, og fylkesmannens veiledning og samordning av regionale samfunnssikkerhetsaktørers beredskapsplaner og øvelser
+- Kartlegging av ressursbehov i fylket.
 
 På bakgrunn av fylkesROS utarbeides en fireårig oppfølgingsplan. I oppfølgingsplanen skal det beskrives hvilket ansvar fylkesmannen har for oppfølgingen av fylkesROS, og fylkesmannens pådriverrolle i oppfølgingen overfor andre samfunnssikkerhetsaktører. Oppfølgingsplanen forankres i embetets ledelse.
 

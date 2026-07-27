@@ -38,7 +38,13 @@ Personlige forsendelser med næringsmidler og fôr nevnt i første ledd til ikke
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*parti (lot):* en avgrenset, nærmere angitt mengde materiale*enkeltprøve (increment sample):* små mengder av en gitt størrelse av produkter tatt fra hvert enkelt prøvetakingspunkt i partiet i hele dets dybde (statisk prøvetaking), eller tatt fra produktstrømmen i en angitt tidsperiode (prøvetaking av friflytende produkter)*samleprøve (bulk sample):* produktmengde fremstilt ved kombinering og blanding av enkeltprøvene fra et særskilt parti*laboratorieprøve (laboratory sample):* produktmengde tatt fra samleprøven beregnet for laboratorieundersøkelse*analyseprøve (analytical sample):* homogenisert laboratorieprøve, bestående av hele eller en representativ del av laboratorieprøven.
+I denne forskrift menes med:
+
+1. *parti (lot):* en avgrenset, nærmere angitt mengde materiale
+2. *enkeltprøve (increment sample):* små mengder av en gitt størrelse av produkter tatt fra hvert enkelt prøvetakingspunkt i partiet i hele dets dybde (statisk prøvetaking), eller tatt fra produktstrømmen i en angitt tidsperiode (prøvetaking av friflytende produkter)
+3. *samleprøve (bulk sample):* produktmengde fremstilt ved kombinering og blanding av enkeltprøvene fra et særskilt parti
+4. *laboratorieprøve (laboratory sample):* produktmengde tatt fra samleprøven beregnet for laboratorieundersøkelse
+5. *analyseprøve (analytical sample):* homogenisert laboratorieprøve, bestående av hele eller en representativ del av laboratorieprøven.
 
 For øvrig gjelder de definisjoner som er gitt i [forskrift 22. desember 2008 nr. 1620 (matlovsforskriften)](forskrift/2008-12-22-1620) som gjennomfører forordning [(EF) nr. 178/2002](eu/32002r0178) art. 2 og 3 og [forskrift 3. mars 2020 nr. 704 (forskrift om offentlig kontroll på matområdet)](forskrift/2020-03-03-704) som gjennomfører forordning [(EU) 2017/625](eu/32017r0625) (Kontrollforordningen) art. 3.
 
@@ -78,7 +84,14 @@ Forhåndsmelding av forsendelser med produkter nevnt i denne forskriften skal gj
 
 (4) Mattilsynet på utpekt importsted kan tillate videre transport av forsendelsen i påvente av resultatene av den fysiske kontrollen. Dersom det gis slik tillatelse, skal forsendelsen hele tiden være under kontroll av Mattilsynet og skal på ingen måte kunne endres i påvente av resultatene av den fysiske kontrollen.
 
-(5) Etter gjennomføringen av kontrollen nevnt i første til fjerde ledd skal Mattilsynet:Fylle ut relevant del av det felles innførselsdokument om helse (CHED) del II, og ansvarlig tjenesteperson hos Mattilsynet skal stemple og signere originaldokumentet.Utfyllingen av innførselsdokumentet kan bare fullføres når resultatet av prøven nevnt i tredje ledd foreligger.Beholde en kopi av den signerte og stemplede innførselsdokumentet.Ved videre transport skal original innførselsdokumentet følge forsendelsen frem til forsendelsen ankommer sitt bestemmelsessted i henhold til innførselsdokumentet.
+(5) Etter gjennomføringen av kontrollen nevnt i første til fjerde ledd skal Mattilsynet:
+
+1. Fylle ut relevant del av det felles innførselsdokument om helse (CHED) del II, og ansvarlig tjenesteperson hos Mattilsynet skal stemple og signere originaldokumentet.
+
+   Utfyllingen av innførselsdokumentet kan bare fullføres når resultatet av prøven nevnt i tredje ledd foreligger.
+2. Beholde en kopi av den signerte og stemplede innførselsdokumentet.
+
+   Ved videre transport skal original innførselsdokumentet følge forsendelsen frem til forsendelsen ankommer sitt bestemmelsessted i henhold til innførselsdokumentet.
 
 (6) Forsendelser skal kun frigis til omsetning når prøvetaking og analyse av alle partiene er gjennomført i samsvar med vedlegg II, med godkjent resultat.
 
@@ -96,7 +109,11 @@ Mattilsynet skal hver tredje måned utarbeide en rapport hvor det redegjøres fo
 
 Rapporten sendes til EU-kommisjonen i løpet av måneden etter hvert kvartal: i april, juli, oktober og januar.
 
-Rapporten skal inneholde følgende informasjon:antall forsendelser som har vært gjenstand for fysisk kontroll,resultatene av kontrollen nevnt i [§ 7](forskrift/2012-01-12-35/§7), ogantall forsendelser som har blitt avvist på grunn av manglende helsesertifikat eller analyserapport.
+Rapporten skal inneholde følgende informasjon:
+
+1. antall forsendelser som har vært gjenstand for fysisk kontroll,
+2. resultatene av kontrollen nevnt i [§ 7](forskrift/2012-01-12-35/§7), og
+3. antall forsendelser som har blitt avvist på grunn av manglende helsesertifikat eller analyserapport.
 
 ## § 10. Gebyr
 

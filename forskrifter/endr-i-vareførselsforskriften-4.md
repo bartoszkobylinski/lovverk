@@ -15,7 +15,7 @@ xml_hash: "59fd6b4ad54f53173f816c350b501fce201604a4ba346a913c0245b010b31b0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,14 @@ I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførse
 
 [§ 2-3-2](forskrift/2022-10-27-1901/§2-3-2) skal lyde:
 
-(1) Melding om ankomst etter [§ 2-3-1 første ledd](forskrift/2022-10-27-1901/§2-3-1/ledd/1) skal inneholde opplysninger som er fastsatt i [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5) og andre opplysninger etter FAL-konvensjonen om:fartøylastvarer medbragt av besetningenproviant.Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), skal leveres før eller senest ved ankomst til bestemmelsessted der varen skal losses.
+(1) Melding om ankomst etter [§ 2-3-1 første ledd](forskrift/2022-10-27-1901/§2-3-1/ledd/1) skal inneholde opplysninger som er fastsatt i [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5) og andre opplysninger etter FAL-konvensjonen om:
+
+1. fartøy
+2. last
+3. varer medbragt av besetningen
+4. proviant.
+
+Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), skal leveres før eller senest ved ankomst til bestemmelsessted der varen skal losses.
 
 (2) Førers opplysningsplikt etter første ledd bokstav b omfatter ikke varer som fartøyets passasjerer har med og som det ikke betales særskilt frakt for.
 
@@ -46,7 +53,10 @@ I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførse
 
 (6) I tillegg til opplysningene som nevnt i første ledd, skal opplysninger om vare i fartøyet som uten lossing skal følge transportmiddelet ut igjen av tollområdet leveres elektronisk etter [§ 2-3-6 første ledd](forskrift/2022-10-27-1901/§2-3-6/ledd/1) dersom tollmyndighetene krever det.
 
-(7) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra plikten til å overføre opplysninger etter første ledd dersomfartøyet ikke har proviant om bord som ikke har gått over til fri disponering, ogfartøyet ikke har anløpt havn utenfor tollområdet.
+(7) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra plikten til å overføre opplysninger etter første ledd dersom
+
+1. fartøyet ikke har proviant om bord som ikke har gått over til fri disponering, og
+2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
 (8) Fører av turistfartøy (flytende hoteller og lignende) i cruisefart er unntatt fra plikten til å overføre opplysninger om besetning og proviant etter første ledd, dersom fartøyet ikke bringer med vare som skal losses her i landet. Tollmyndighetene kan kreve å følge fartøyet på rederiets bekostning mens det er i tollområdet.
 

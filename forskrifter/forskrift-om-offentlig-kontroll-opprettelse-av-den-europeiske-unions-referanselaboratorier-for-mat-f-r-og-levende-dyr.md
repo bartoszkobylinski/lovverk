@@ -94,7 +94,9 @@ Den europeiske unions referanselaboratorium for Rift Valley Fever opprettes herv
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. september 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. september 2021.
 
 |  |  |
 | --- | --- |
@@ -151,7 +153,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. januar 2023.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 24. november 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 24. november 2022.
 
 |  |  |
 | --- | --- |
@@ -204,7 +208,11 @@ Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler 
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 22. januar 2024.*For Kommisjonen*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 22. januar 2024.
+
+*For Kommisjonen*
 Ursula VON DER LEYEN
 *President*
 
@@ -251,6 +259,10 @@ Denne beslutningen får anvendelse fra 1. august 2024.
 
 ### Artikkel 3
 
-Denne beslutningen er rettet til medlemsstatene.Utferdiget i Brussel 22. juli 2024.*For Kommisjonen*
+Denne beslutningen er rettet til medlemsstatene.
+
+Utferdiget i Brussel 22. juli 2024.
+
+*For Kommisjonen*
 Stella KYRIAKIDES
 *Medlem av Kommisjonen*

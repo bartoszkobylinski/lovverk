@@ -15,7 +15,7 @@ xml_hash: "f2ff394905a20ac6cbc5d7954c149573c67b905a362c3c76a75a98ae33576c42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,19 @@ Forskriften omfatter alle bassengbad, badeanlegg og badstuer som er tilgjengelig
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med:*Badeanlegg:* Bassengbad eller badstu, samt tilhørende anlegg som har en relevant funksjon i forhold til virksomheten.*Bassengbad:* Ethvert utendørs- og innendørs basseng med tilhørende tekniske anlegg og tilbehør som er beregnet på bading, herunder svømmebasseng, vannrutsjebaner, plaske- og stupeanlegg, fritidsbad, boblebad, avkjølingsbad, terapibad m.v.*Badstu:* Adskilt rom, avlukke eller lignende som er innrettet i den hensikt å gi brukerne svettebad.*Desinfeksjon:* Destruering av sykdomsfremkallende mikroorganismer som medfører eller kan medføre helsefare for de badende.*Internkontroll:* Å påse at krav fastsatt i eller i medhold av lov eller forskrift overholdes.*Internkontrollsystem:* Systematiske tiltak som skal sikre og dokumentere at aktiviteter utøves i samsvar med krav fastsatt i eller i medhold av lov eller forskrift. De systematiske tiltakene skal være beskrevet i administrative prosedyrer.*Instruks:* Nedskrevne bestemmelser som er ment å skulle følges av dem de retter seg mot.*Renseanlegg:* Den del av sirkulasjonssystemet der urenheter fjernes fra vannet, vannet tilsettes desinfeksjonsmiddel og vannkvaliteten eventuelt justeres med hensyn til surhetsgrad, korrosivitet o.l.*Sanitæranlegg:* Toaletter, dusjanlegg o.l. samt tilhørende funksjoner som er tilknyttet badeanlegget.*Sirkulasjonsmengde:* Den mengde vann som skiftes ut pr. tidsenhet (f.eks. time) pr. badende i bassengbadet.*Sirkulasjonssystemet:* Det samlede system av bassenger, rørledninger, bunn- og undervannsavløp, overløpsrenner, kanaler, utjevningsbassenger og renseanlegg, hvor vannet sirkulerer eller kan sirkulere.
+I denne forskrift forstås med:
+
+1. *Badeanlegg:* Bassengbad eller badstu, samt tilhørende anlegg som har en relevant funksjon i forhold til virksomheten.
+2. *Bassengbad:* Ethvert utendørs- og innendørs basseng med tilhørende tekniske anlegg og tilbehør som er beregnet på bading, herunder svømmebasseng, vannrutsjebaner, plaske- og stupeanlegg, fritidsbad, boblebad, avkjølingsbad, terapibad m.v.
+3. *Badstu:* Adskilt rom, avlukke eller lignende som er innrettet i den hensikt å gi brukerne svettebad.
+4. *Desinfeksjon:* Destruering av sykdomsfremkallende mikroorganismer som medfører eller kan medføre helsefare for de badende.
+5. *Internkontroll:* Å påse at krav fastsatt i eller i medhold av lov eller forskrift overholdes.
+6. *Internkontrollsystem:* Systematiske tiltak som skal sikre og dokumentere at aktiviteter utøves i samsvar med krav fastsatt i eller i medhold av lov eller forskrift. De systematiske tiltakene skal være beskrevet i administrative prosedyrer.
+7. *Instruks:* Nedskrevne bestemmelser som er ment å skulle følges av dem de retter seg mot.
+8. *Renseanlegg:* Den del av sirkulasjonssystemet der urenheter fjernes fra vannet, vannet tilsettes desinfeksjonsmiddel og vannkvaliteten eventuelt justeres med hensyn til surhetsgrad, korrosivitet o.l.
+9. *Sanitæranlegg:* Toaletter, dusjanlegg o.l. samt tilhørende funksjoner som er tilknyttet badeanlegget.
+10. *Sirkulasjonsmengde:* Den mengde vann som skiftes ut pr. tidsenhet (f.eks. time) pr. badende i bassengbadet.
+11. *Sirkulasjonssystemet:* Det samlede system av bassenger, rørledninger, bunn- og undervannsavløp, overløpsrenner, kanaler, utjevningsbassenger og renseanlegg, hvor vannet sirkulerer eller kan sirkulere.
 
 ## Kapittel II. Alminnelige bestemmelser
 
@@ -68,7 +80,15 @@ Meldingen skal forelegges medisinsk-faglig rådgiver til uttalelse.
 
 Badeanlegg skal være utformet slik at hensynet til helse, hygiene og sikkerhet, herunder forebygging av ulykker, til enhver tid ivaretas.
 
-Det skal være driftsrutiner som sikrer hygienisk tilfredsstillende renhold i badeanlegget. Badeanlegget skal ha:forsvarlig innemiljø.sklisikkert golv og underlag rundt bassengbad og på de deler av bassengbunnflaten der vanndybden er liten.et tilstrekkelig areal rundt bassengbad som er utformet slik at livredning kan gjennomføres uten hindring.tilstrekkelig og hensiktmessig sikkerhetsutstyr.tilfredsstillende belysning under bruk.forsvarlig merking av fall i bassengdybden.golv og underlag med en utforming som sikrer oppsamling eller bortledning av vann, og hindrer væske i å renne tilbake til bassengbadet/sirkulasjonssystemet.
+Det skal være driftsrutiner som sikrer hygienisk tilfredsstillende renhold i badeanlegget. Badeanlegget skal ha:
+
+1. forsvarlig innemiljø.
+2. sklisikkert golv og underlag rundt bassengbad og på de deler av bassengbunnflaten der vanndybden er liten.
+3. et tilstrekkelig areal rundt bassengbad som er utformet slik at livredning kan gjennomføres uten hindring.
+4. tilstrekkelig og hensiktmessig sikkerhetsutstyr.
+5. tilfredsstillende belysning under bruk.
+6. forsvarlig merking av fall i bassengdybden.
+7. golv og underlag med en utforming som sikrer oppsamling eller bortledning av vann, og hindrer væske i å renne tilbake til bassengbadet/sirkulasjonssystemet.
 
 I badstu skal badstuovner være skjermet og temperaturfølere/termostater fungere, slik at brannskader unngås.
 
@@ -145,7 +165,9 @@ Bestemmelsen er ikke til hinder for sjokklorering.
 | 33-37°C | 0,9 mg/l | 4 mg/l |
 | >37°C | 1,0 mg/l | 4 mg/l |
 
-\* måles ved utløpet av bassenget før filtrering og før tilsats av nytt desinfeksjonsmiddel, jfr [§ 17](forskrift/1996-06-13-592/§17).\*\* innholdet av bundne klorforbindelser må aldri overstige 50% av den målte verdien av fritt klor. Verdien av bundet klor bør være så lav som mulig og må ikke overstige 0,5 mg Cl/l.
+\* måles ved utløpet av bassenget før filtrering og før tilsats av nytt desinfeksjonsmiddel, jfr [§ 17](forskrift/1996-06-13-592/§17).
+
+\*\* innholdet av bundne klorforbindelser må aldri overstige 50% av den målte verdien av fritt klor. Verdien av bundet klor bør være så lav som mulig og må ikke overstige 0,5 mg Cl/l.
 
 ### § 16. Vannkvalitet
 

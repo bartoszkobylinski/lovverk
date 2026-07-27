@@ -38,7 +38,16 @@ Merverdiavgift beregnes med 15 pst. av omsetning og uttak av vann fra vannverk o
 
 ## § 4. Redusert sats med 12 pst.
 
-Merverdiavgift beregnes med 12 pst. av omsetning og uttak av tjenester som gjelder:persontransport mv. som nevnt i [merverdiavgiftsloven § 5-3](lov/2009-06-19-58/§5-3)transport av kjøretøy på fartøy som nevnt i [merverdiavgiftsloven § 5-4](lov/2009-06-19-58/§5-4)utleie av rom i hotellvirksomhet mv. som nevnt i [merverdiavgiftsloven § 5-5](lov/2009-06-19-58/§5-5)rett til å overvære kinoforestillinger som nevnt i [merverdiavgiftsloven § 5-6](lov/2009-06-19-58/§5-6)kringkastingstjenester som nevnt i [merverdiavgiftsloven § 5-7](lov/2009-06-19-58/§5-7)adgang til utstillinger i museer mv. som nevnt i [merverdiavgiftsloven § 5-9](lov/2009-06-19-58/§5-9)adgang til fornøyelsesparker mv. som nevnt i [merverdiavgiftsloven § 5-10](lov/2009-06-19-58/§5-10)rett til å overvære idrettsarrangementer mv. som nevnt i [merverdiavgiftsloven § 5-11](lov/2009-06-19-58/§5-11).
+Merverdiavgift beregnes med 12 pst. av omsetning og uttak av tjenester som gjelder:
+
+1. persontransport mv. som nevnt i [merverdiavgiftsloven § 5-3](lov/2009-06-19-58/§5-3)
+2. transport av kjøretøy på fartøy som nevnt i [merverdiavgiftsloven § 5-4](lov/2009-06-19-58/§5-4)
+3. utleie av rom i hotellvirksomhet mv. som nevnt i [merverdiavgiftsloven § 5-5](lov/2009-06-19-58/§5-5)
+4. rett til å overvære kinoforestillinger som nevnt i [merverdiavgiftsloven § 5-6](lov/2009-06-19-58/§5-6)
+5. kringkastingstjenester som nevnt i [merverdiavgiftsloven § 5-7](lov/2009-06-19-58/§5-7)
+6. adgang til utstillinger i museer mv. som nevnt i [merverdiavgiftsloven § 5-9](lov/2009-06-19-58/§5-9)
+7. adgang til fornøyelsesparker mv. som nevnt i [merverdiavgiftsloven § 5-10](lov/2009-06-19-58/§5-10)
+8. rett til å overvære idrettsarrangementer mv. som nevnt i [merverdiavgiftsloven § 5-11](lov/2009-06-19-58/§5-11).
 
 ## § 5. Redusert sats med 11,11 pst.
 

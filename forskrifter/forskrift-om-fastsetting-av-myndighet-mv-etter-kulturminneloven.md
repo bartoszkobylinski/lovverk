@@ -15,7 +15,7 @@ xml_hash: "edbfe29dc8847f69a02b4cc8da7277001331e8da6347779b28a2ec3ca5a12d48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,28 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
-I forskriften menes med*universitetsmuseene:*Arkeologisk museum, Universitetet i StavangerKulturhistorisk museum, Universitetet i OsloTromsø Museum, Universitetet i TromsøUniversitetsmuseet i Bergen, Universitetet i BergenVitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)*sjøfartsmuseene:*Museum Stavanger, avdeling Stavanger maritime museumMuseum Vest, avdeling Bergens SjøfartsmuseumNorsk Folkemuseum, avdeling Norsk Maritim MuseumTromsø Museum, Universitetet i TromsøVitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)*forvaltningsmuseene:*universitetsmuseene og sjøfartsmuseene*NIKU:*Norsk institutt for kulturminneforskning.
+I forskriften menes med
+
+1. *universitetsmuseene:*
+
+   - Arkeologisk museum, Universitetet i Stavanger
+   - Kulturhistorisk museum, Universitetet i Oslo
+   - Tromsø Museum, Universitetet i Tromsø
+   - Universitetsmuseet i Bergen, Universitetet i Bergen
+   - Vitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)
+2. *sjøfartsmuseene:*
+
+   - Museum Stavanger, avdeling Stavanger maritime museum
+   - Museum Vest, avdeling Bergens Sjøfartsmuseum
+   - Norsk Folkemuseum, avdeling Norsk Maritim Museum
+   - Tromsø Museum, Universitetet i Tromsø
+   - Vitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)
+3. *forvaltningsmuseene:*
+
+   - universitetsmuseene og sjøfartsmuseene
+4. *NIKU:*
+
+   - Norsk institutt for kulturminneforskning.
 
 > Endret ved [forskrift 13 des 2019 nr. 1747](forskrift/2019-12-13-1747) (i kraft 1 jan 2020).
 
@@ -40,7 +61,14 @@ I forskriften menes med*universitetsmuseene:*Arkeologisk museum, Universitetet i
 
 (5) Riksantikvaren har myndighet etter [kulturminneloven § 15a](lov/1978-06-09-50/§15a), jf. [§ 14a](lov/1978-06-09-50/§14a) tredje ledd andre punktum og [§ 22a](lov/1978-06-09-50/§22a) andre ledd, og etter [§ 19](lov/1978-06-09-50/§19) tredje ledd og [§ 20](lov/1978-06-09-50/§20) tredje ledd i saker som omfattes av sjette ledd. Riksantikvaren har også myndighet etter § 16 til § 18 og § 21 i saker som gjelder kulturminner som omfattes av sjette ledd. Riksantikvaren kan gi samtykke i alle saker etter [kulturminneloven § 17](lov/1978-06-09-50/§17) første ledd andre punktum, gi tilskudd etter [§ 17](lov/1978-06-09-50/§17) andre ledd og forlenge fristen etter [§ 18](lov/1978-06-09-50/§18) første ledd tredje punktum.
 
-(6) Riksantikvaren har myndighet til å fastsette hvilke kulturminner og kulturmiljøer som Riksantikvaren skal ha forvaltningsansvaret for. Dette kan gjelde kulturminner og kulturmiljøer somer særlig viktige for landets kulturhistoriebetraktes som viktige nasjonale symbolerer knyttet til statsmakten og til utøvelse av statlige funksjoner som er sentrale for landetNorge har et internasjonalt ansvar for å bevarehar særlig vitenskapelig betydning, ellerdet kreves særskilt kompetanse å forvalte.
+(6) Riksantikvaren har myndighet til å fastsette hvilke kulturminner og kulturmiljøer som Riksantikvaren skal ha forvaltningsansvaret for. Dette kan gjelde kulturminner og kulturmiljøer som
+
+1. er særlig viktige for landets kulturhistorie
+2. betraktes som viktige nasjonale symboler
+3. er knyttet til statsmakten og til utøvelse av statlige funksjoner som er sentrale for landet
+4. Norge har et internasjonalt ansvar for å bevare
+5. har særlig vitenskapelig betydning, eller
+6. det kreves særskilt kompetanse å forvalte.
 
 (7) Riksantikvaren har myndighet etter kulturminneloven i saker som gjelder kirker.
 
@@ -78,7 +106,11 @@ For samiske kulturminner har Sametinget tilsvarende myndighet som fylkeskommunen
 
 ## § 6. Sjøfartsmuseenes myndighet
 
-Sjøfartsmuseene har myndighet til å gjennomføre tiltak etter [kulturminneloven § 11](lov/1978-06-09-50/§11), [§ 13](lov/1978-06-09-50/§13) første ledd og [§ 14](lov/1978-06-09-50/§14) andre ledd første punktum og tredje ledd andre punktum i saker som gjelderautomatisk fredete kulturminner som befinner seg under vannskipsfunn eldre enn 100 år som befinner seg under vannskipsfunn yngre enn 1536 som befinner seg på land.
+Sjøfartsmuseene har myndighet til å gjennomføre tiltak etter [kulturminneloven § 11](lov/1978-06-09-50/§11), [§ 13](lov/1978-06-09-50/§13) første ledd og [§ 14](lov/1978-06-09-50/§14) andre ledd første punktum og tredje ledd andre punktum i saker som gjelder
+
+1. automatisk fredete kulturminner som befinner seg under vann
+2. skipsfunn eldre enn 100 år som befinner seg under vann
+3. skipsfunn yngre enn 1536 som befinner seg på land.
 
 ## § 7. Underretningsplikt mv.
 
@@ -100,7 +132,11 @@ Før behandling av en søknad om tillatelse etter [kulturminneloven § 8](lov/19
 
 ## § 9. Gjennomføring av arkeologiske utgravinger mv.
 
-Blir det gitt tillatelse etter [kulturminneloven § 8](lov/1978-06-09-50/§8) første eller andre ledd, eller akseptert arealplan etter plan- og bygningsloven, jf. [kulturminneloven § 8](lov/1978-06-09-50/§8) fjerde ledd, eller gitt tillatelse etter [kulturminneloven § 14](lov/1978-06-09-50/§14) andre ledd, skaluniversitetsmuseene gjennomføre utgravinger mv. på land av automatisk fredete kulturminner og skipsfunn fra før 1537, med unntak av kulturminner som nevnt i bokstav csjøfartsmuseene gjennomføre utgravinger mv. under vann av automatisk fredete kulturminner og skipsfunn eldre enn 100 år, og av skipsfunn yngre enn 1536 som befinner seg på landNIKU gjennomføre utgravinger mv. av middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner.
+Blir det gitt tillatelse etter [kulturminneloven § 8](lov/1978-06-09-50/§8) første eller andre ledd, eller akseptert arealplan etter plan- og bygningsloven, jf. [kulturminneloven § 8](lov/1978-06-09-50/§8) fjerde ledd, eller gitt tillatelse etter [kulturminneloven § 14](lov/1978-06-09-50/§14) andre ledd, skal
+
+1. universitetsmuseene gjennomføre utgravinger mv. på land av automatisk fredete kulturminner og skipsfunn fra før 1537, med unntak av kulturminner som nevnt i bokstav c
+2. sjøfartsmuseene gjennomføre utgravinger mv. under vann av automatisk fredete kulturminner og skipsfunn eldre enn 100 år, og av skipsfunn yngre enn 1536 som befinner seg på land
+3. NIKU gjennomføre utgravinger mv. av middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner.
 
 ## § 10. Særskilte registreringsoppgaver mv.
 

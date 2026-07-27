@@ -15,7 +15,7 @@ xml_hash: "50b81dddc16b5c1914a30a89ba6dcabffb95d798ecb36050fed4ce38904743d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,65 +32,125 @@ Når det i det følgende er fastsatt at en tidsfrist går ut på en bestemt dato
 
 ## § 2. Definisjoner
 
-*Eksamen*Skriftlig, muntlig, prosjektinnlevering eller annen vurdering av studentens kunnskaper og ferdigheter som gir grunnlag for fastsettelse av karakter på vitnemålet eller som inngår i beregningsgrunnlag for en karakter som angis på vitnemålet. En eksamen kan omfatte flere deleksamener og i så fall skal kursbeskrivelsen gi opplysninger om den innbyrdes vekting av disse deleksamenene.
+*Eksamen*
 
-*Erfaringsbasert master*Et masterstudium av 90 eller 120 studiepoengs omfang, inkludert selvstendig arbeid.
+Skriftlig, muntlig, prosjektinnlevering eller annen vurdering av studentens kunnskaper og ferdigheter som gir grunnlag for fastsettelse av karakter på vitnemålet eller som inngår i beregningsgrunnlag for en karakter som angis på vitnemålet. En eksamen kan omfatte flere deleksamener og i så fall skal kursbeskrivelsen gi opplysninger om den innbyrdes vekting av disse deleksamenene.
 
-*Evaluering*Vurdere, gi karakter til en students faglige prestasjon.
+*Erfaringsbasert master*
 
-*Fordypningskurs*Tematiske kurs av 6 sp omfang som gis på masternivå.
+Et masterstudium av 90 eller 120 studiepoengs omfang, inkludert selvstendig arbeid.
 
-*Grad*Tildeles etter gjennomført studieprogram av et gitt omfang. AHO tildeler gradene Master og Philosophae doctor (Ph.d).
+*Evaluering*
 
-*Grunnkurs*Kurs som gis innenfor grunnundervisningen.
+Vurdere, gi karakter til en students faglige prestasjon.
 
-*Grunnundervisning*Obligatorisk undervisning som går over de tre første årene av studiene master i industridesign og master i arkitektur.
+*Fordypningskurs*
 
-*Gjestestudent*Benyttes om en student som ikke er tatt opp til et studieprogram, men til ett eller flere kurs på individbasert avtale.
+Tematiske kurs av 6 sp omfang som gis på masternivå.
 
-*Kontinuasjonseksamen*Eksamen som arrangeres for studenter som ikke har bestått ordinær eksamen eller som ønsker å forbedre karakter på tidligere eksamen.
+*Grad*
 
-*Kurs*Et semester er bygget opp av kurs med ulik kreditering og varighet. Kursene ved AHO har følgende betegnelser: Grunnkurs, fordypningskurs og studiokurs.
+Tildeles etter gjennomført studieprogram av et gitt omfang. AHO tildeler gradene Master og Philosophae doctor (Ph.d).
 
-*Læringsutbytte*Beskrivelse av den minimumskompetanse studenten skal ha ved gjennomført og bestått kurs.
+*Grunnkurs*
 
-*Mastergrad*Et studium på 300 eller 330 studiepoeng som fyller kravene til graden master.
+Kurs som gis innenfor grunnundervisningen.
 
-*Masterundervisning*En samlet betegnelse på undervisningen som gis på masternivå etter grunnundervisningen.
+*Grunnundervisning*
 
-*Ny eksamen*Eksamen som arrangeres for studenter som har gyldig fravær ved ordinær eksamen.
+Obligatorisk undervisning som går over de tre første årene av studiene master i industridesign og master i arkitektur.
 
-*Ph.d.*Doktorgrad på grunnlag av forskerutdanningsprogram og godkjent disputas.
+*Gjestestudent*
 
-*Selvstendig arbeid*Arbeid av et nærmere angitt omfang og type som inngår i studiet, og som skal vise forståelse, refleksjon og modning. Arbeidet kan være av teoretisk, praktisk eller kunstnerisk art, og utført individuelt eller i grupper.
+Benyttes om en student som ikke er tatt opp til et studieprogram, men til ett eller flere kurs på individbasert avtale.
 
-*Semester*Et studieår består av to semestre. Hvert semester har et omfang av 30 studiepoeng (sp.). Normalt vil høstsemesteret være på 19 uker og vårsemesteret 21 uker, totalt 1600–1800 arbeidstimer.
+*Kontinuasjonseksamen*
 
-*Semesterplan*En detaljert beskrivelse av det enkelte kurs som deles ut ved semesterstart.
+Eksamen som arrangeres for studenter som ikke har bestått ordinær eksamen eller som ønsker å forbedre karakter på tidligere eksamen.
 
-*Semesterevaluering*Vurdering av undervisningen på et kurs sett i forhold til læringsmålene for kurset. Evalueringen kan også omfatte læringsmiljø og administrative tjenester. Semesterevalueringer foretas av studenter, sensorer og lærere i iht. fastsatte retningslinjer.
+*Kurs*
 
-*Sensorutvalg*Utvalg som oppnevnes for sensur av eksamen, prøve, bedømmelse av oppgaver eller annen vurdering der resultatet inngår i vitnemålet eller regnes inn i karakter for vedkommende studium.
+Et semester er bygget opp av kurs med ulik kreditering og varighet. Kursene ved AHO har følgende betegnelser: Grunnkurs, fordypningskurs og studiokurs.
 
-*Student*En student som er tatt opp til et av høgskolens studier på grunnlag av generelle opptakskrav og øvrige krav i studieplanen, og som har betalt semesteravgift til Studentsamskipnaden i Oslo (SiO) og semesterregistrert seg i henhold til gjeldende bestemmelser.
+*Læringsutbytte*
 
-*Studiokurs*Prosjekteringskurs med omfang fra 18 til 24 studiepoeng.
+Beskrivelse av den minimumskompetanse studenten skal ha ved gjennomført og bestått kurs.
 
-*Studioundervisning*En undervisningsform basert på prosjektarbeid i studio som integrerer undervisning i faglig kunnskap og ferdigheter som del av prosjektarbeidet. Studioundervisningen er undervisningsintensiv og innebærer tilstedeværelse og høg grad av kunnskapsutveksling mellom lærer og student.
+*Mastergrad*
 
-*Studieplan*En plan som beskriver læringsmål, faglige komponenter, oppbygging og gjennomføring av studier som ikke har sentralt fastsatte rammeplaner.
+Et studium på 300 eller 330 studiepoeng som fyller kravene til graden master.
 
-*Studiepoeng*Ett studieår skal tilsvare 60 studiepoeng, og ett 26,7 arbeidstimer
+*Masterundervisning*
 
-*Studieprogram*Et sett kurs som danner en studiemessig helhet, og som studenter tas opp til, får studierett til og som fører fram til en grad.
+En samlet betegnelse på undervisningen som gis på masternivå etter grunnundervisningen.
 
-*Studieretning*En faglig spesialisering innenfor et studieprogram, beskrevet i studieprogrammets studieplan.
+*Ny eksamen*
 
-*Studierett*Rettigheter tilknyttet et studieprogram, for eksempel rett til organisert veiledning, smågruppeundervisning og oppgaveløsning, Studieretten tildeles etter institusjonens tilbud om studieplass og studentenes aksept av denne.
+Eksamen som arrangeres for studenter som har gyldig fravær ved ordinær eksamen.
 
-*Utdanningsplan*En plan for studenten og AHO om plikter og ansvar begge parter har for studentens studieløp samt ansvar studenten har overfor sine medstudenter.
+*Ph.d.*
 
-*Vurdering*De tilbakemeldingene som gis en student på grunnlag av prestasjonene han/hun utfører innenfor et kurs som bedømmes. Kriterier for vurdering skal gå fram av studie- og semesterplan.
+Doktorgrad på grunnlag av forskerutdanningsprogram og godkjent disputas.
+
+*Selvstendig arbeid*
+
+Arbeid av et nærmere angitt omfang og type som inngår i studiet, og som skal vise forståelse, refleksjon og modning. Arbeidet kan være av teoretisk, praktisk eller kunstnerisk art, og utført individuelt eller i grupper.
+
+*Semester*
+
+Et studieår består av to semestre. Hvert semester har et omfang av 30 studiepoeng (sp.). Normalt vil høstsemesteret være på 19 uker og vårsemesteret 21 uker, totalt 1600–1800 arbeidstimer.
+
+*Semesterplan*
+
+En detaljert beskrivelse av det enkelte kurs som deles ut ved semesterstart.
+
+*Semesterevaluering*
+
+Vurdering av undervisningen på et kurs sett i forhold til læringsmålene for kurset. Evalueringen kan også omfatte læringsmiljø og administrative tjenester. Semesterevalueringer foretas av studenter, sensorer og lærere i iht. fastsatte retningslinjer.
+
+*Sensorutvalg*
+
+Utvalg som oppnevnes for sensur av eksamen, prøve, bedømmelse av oppgaver eller annen vurdering der resultatet inngår i vitnemålet eller regnes inn i karakter for vedkommende studium.
+
+*Student*
+
+En student som er tatt opp til et av høgskolens studier på grunnlag av generelle opptakskrav og øvrige krav i studieplanen, og som har betalt semesteravgift til Studentsamskipnaden i Oslo (SiO) og semesterregistrert seg i henhold til gjeldende bestemmelser.
+
+*Studiokurs*
+
+Prosjekteringskurs med omfang fra 18 til 24 studiepoeng.
+
+*Studioundervisning*
+
+En undervisningsform basert på prosjektarbeid i studio som integrerer undervisning i faglig kunnskap og ferdigheter som del av prosjektarbeidet. Studioundervisningen er undervisningsintensiv og innebærer tilstedeværelse og høg grad av kunnskapsutveksling mellom lærer og student.
+
+*Studieplan*
+
+En plan som beskriver læringsmål, faglige komponenter, oppbygging og gjennomføring av studier som ikke har sentralt fastsatte rammeplaner.
+
+*Studiepoeng*
+
+Ett studieår skal tilsvare 60 studiepoeng, og ett 26,7 arbeidstimer
+
+*Studieprogram*
+
+Et sett kurs som danner en studiemessig helhet, og som studenter tas opp til, får studierett til og som fører fram til en grad.
+
+*Studieretning*
+
+En faglig spesialisering innenfor et studieprogram, beskrevet i studieprogrammets studieplan.
+
+*Studierett*
+
+Rettigheter tilknyttet et studieprogram, for eksempel rett til organisert veiledning, smågruppeundervisning og oppgaveløsning, Studieretten tildeles etter institusjonens tilbud om studieplass og studentenes aksept av denne.
+
+*Utdanningsplan*
+
+En plan for studenten og AHO om plikter og ansvar begge parter har for studentens studieløp samt ansvar studenten har overfor sine medstudenter.
+
+*Vurdering*
+
+De tilbakemeldingene som gis en student på grunnlag av prestasjonene han/hun utfører innenfor et kurs som bedømmes. Kriterier for vurdering skal gå fram av studie- og semesterplan.
 
 ## § 3. Opptak og søknadsfrister
 
@@ -142,9 +202,19 @@ AHO tar inn studenter fra land i Afrika, Asia og land i Sentral- og Øst-Europa 
 
 ## § 3-8. Språkkrav
 
-Søkere til første år med utdanning fra land utenfor Norden må dokumentere tilfredsstillende norskkunnskaper. For søkere tatt opp senere i studiet, kan kravet til norskkunnskaper fravikes, men kravet til engelskkunnskaper må kunne dokumenteres. Studenter fra land utenfor Norden som inngår i utvekslingsprogrammer eller blir tatt opp som gjestestudenter må kunne dokumentere engelskkunnskaper som følger:TOEFL – Test of English as a Foreign Language, med minst 550 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 80 poeng på Internet based test (TOEFL IBT)IELTS – International English Language Testing Service, British Council, med minst 6.0 poeng (overall score).Certificate in Advanced English eller Certificate of Proficiency in English fra University of Cambridge
+Søkere til første år med utdanning fra land utenfor Norden må dokumentere tilfredsstillende norskkunnskaper. For søkere tatt opp senere i studiet, kan kravet til norskkunnskaper fravikes, men kravet til engelskkunnskaper må kunne dokumenteres. Studenter fra land utenfor Norden som inngår i utvekslingsprogrammer eller blir tatt opp som gjestestudenter må kunne dokumentere engelskkunnskaper som følger:
 
-Søkere med følgende dokumentasjon er unntatt fra engelskkravet:Statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USA.Ett års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelsk.Fullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studiet.Bachelorgrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangen.A-level i engelsk med minimum C eller bedre.
+- TOEFL – Test of English as a Foreign Language, med minst 550 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 80 poeng på Internet based test (TOEFL IBT)
+- IELTS – International English Language Testing Service, British Council, med minst 6.0 poeng (overall score).
+- Certificate in Advanced English eller Certificate of Proficiency in English fra University of Cambridge
+
+Søkere med følgende dokumentasjon er unntatt fra engelskkravet:
+
+- Statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USA.
+- Ett års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelsk.
+- Fullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studiet.
+- Bachelorgrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangen.
+- A-level i engelsk med minimum C eller bedre.
 
 ## § 3-9. Klage på opptak
 
@@ -162,13 +232,27 @@ Den som har akseptert tilbud om studieplass og betalt semesteravgift til Student
 
 Studieretten gjelder det studieprogrammet eller kurset studenten er tatt opp til. AHO kan innføre plassbegrensning på valgfrie kurs såfremt studentene sikres plass ved alternative kurs, slik at de kan fullføre studiet på normert tid. Studenten kan gis rett til å følge undervisningen og ta eksamen i emner som ikke er en del av studieprogrammet vedkommende tilhører, etter anbefaling fra instituttleder.
 
-Studieretten innebærer:rett til å få fastsatt utdanningsplan i samsvar med [§ 4-3](forskrift/2010-05-28-1888/§4-3)rett til å delta i undervisning i samsvar med studieplanen for det enkelte program og i samsvar med utdanningsplanenrett til veiledning og til å bruke andre ressurser i samsvar med studieplanen utdanningsplanen og eventuelle andre regler gitt av høyskolen, herunder lesesaler, datamaskiner, bibliotek, verksted osv.rett til å bli vurdert til eksamen i samsvar med kursbeskrivelsen og reglene i denne forskriftenplikt til å overholde gjeldende lover og forskrifter.
+Studieretten innebærer:
+
+- rett til å få fastsatt utdanningsplan i samsvar med [§ 4-3](forskrift/2010-05-28-1888/§4-3)
+- rett til å delta i undervisning i samsvar med studieplanen for det enkelte program og i samsvar med utdanningsplanen
+- rett til veiledning og til å bruke andre ressurser i samsvar med studieplanen utdanningsplanen og eventuelle andre regler gitt av høyskolen, herunder lesesaler, datamaskiner, bibliotek, verksted osv.
+- rett til å bli vurdert til eksamen i samsvar med kursbeskrivelsen og reglene i denne forskriften
+- plikt til å overholde gjeldende lover og forskrifter.
 
 AHO kan i tillegg vedta regler om påbudt frammøte ved studiestart, herunder om registrering, gyldig forfall mv.
 
 ## § 4-2. Opphør av studierett
 
-Studieretten opphører dersom studenten:oppfyller kravene for tildeling av vitnemål og grad for fullført studieprogrami løpet av ett år ikke har dokumentert aktivitet i form av semesterregistrering eller innvilget permisjonssøknadskriftlig bekrefter at han/hun trekker seg fra studieprogrammet før det er fullførtikke avlegger eksamen på to år, når permisjonsvedtak ikke er innvilgetunnlater å betale semesteravgift innen fastsatt tidhar brukt opp sine forsøk til eksamen i henhold til denne forskrifter utestengt i henhold til UH-lovens § 4-8.
+Studieretten opphører dersom studenten:
+
+1. oppfyller kravene for tildeling av vitnemål og grad for fullført studieprogram
+2. i løpet av ett år ikke har dokumentert aktivitet i form av semesterregistrering eller innvilget permisjonssøknad
+3. skriftlig bekrefter at han/hun trekker seg fra studieprogrammet før det er fullført
+4. ikke avlegger eksamen på to år, når permisjonsvedtak ikke er innvilget
+5. unnlater å betale semesteravgift innen fastsatt tid
+6. har brukt opp sine forsøk til eksamen i henhold til denne forskrift
+7. er utestengt i henhold til UH-lovens § 4-8.
 
 Den som har mistet studieretten, kan søke studieadministrasjonen om nytt opptak.
 
@@ -176,7 +260,11 @@ Den som har mistet studieretten, kan søke studieadministrasjonen om nytt opptak
 
 Studenter som er tatt opp til studier på 60 studiepoeng eller mer, skal ha en utdanningsplan (UH-lovens [§ 4-2](forskrift/2010-05-28-1888/§4-2)). En utdanningsplan er en oversikt over bestemmelser om AHOs ansvar og studentens forpliktelser overfor institusjonen og medstudenter.
 
-Utdanningsplanen er også et verktøy der studenten kanplanlegge studiet ett år fram i tidse kurs som er avlagt på studieprogrammet fram til fullført gradha innsyn i registrerte data.
+Utdanningsplanen er også et verktøy der studenten kan
+
+- planlegge studiet ett år fram i tid
+- se kurs som er avlagt på studieprogrammet fram til fullført grad
+- ha innsyn i registrerte data.
 
 Utdanningsplanen finnes i StudentWeb.
 
@@ -224,11 +312,26 @@ Krav til innlevert materiale og bedømmelseskriterier bekjentgjøres i studiepla
 
 Studieplanen inneholder kursene som hvert semester tilbys innenfor et studieprogram. Instituttene foreslår og utarbeider innhold og omfang for det enkelte semester. Undervisningsutvalget er ansvarlig for koordinering og godkjenning av studieplanen.
 
-Hver kursbeskrivelse skal inneholde:kursansvarligkursets omfang i studiepoengfaglig forutsetning for å bli tatt opp til kursetlæringsutbyttefaginnholdpensumlæringsformerbedømmelseskriterierorganisering av eventuell avsluttende eksamen og eksamensform.
+Hver kursbeskrivelse skal inneholde:
+
+- kursansvarlig
+- kursets omfang i studiepoeng
+- faglig forutsetning for å bli tatt opp til kurset
+- læringsutbytte
+- faginnhold
+- pensum
+- læringsformer
+- bedømmelseskriterier
+- organisering av eventuell avsluttende eksamen og eksamensform.
 
 ## § 5-6. Semesterplan
 
-Til semesterstart skal det utarbeides en semesterplan til hvert kurs. Semesterplanen gir en detaljert beskrivelse av semesteret. Videre skal semesterplanen inneholde:aktiviteter som inngår i undervisningenaktiviteter som er obligatoriske f.eks. metodekurs, øvinger, ekskursjoner, verkstedsoppgaver, gruppeoppgaver, semesteroppgaver, andre skriftlige oppgaver faglige krav til innlevert oppgave for å bli vurdertdato for innlevering av oppgavereventuelle hjelpemidler ved eksamen.
+Til semesterstart skal det utarbeides en semesterplan til hvert kurs. Semesterplanen gir en detaljert beskrivelse av semesteret. Videre skal semesterplanen inneholde:
+
+- aktiviteter som inngår i undervisningen
+- aktiviteter som er obligatoriske f.eks. metodekurs, øvinger, ekskursjoner, verkstedsoppgaver, gruppeoppgaver, semesteroppgaver, andre skriftlige oppgaver faglige krav til innlevert oppgave for å bli vurdert
+- dato for innlevering av oppgaver
+- eventuelle hjelpemidler ved eksamen.
 
 ## § 5-7. Opphavsrett
 
@@ -244,7 +347,10 @@ En samarbeidsbedrift kan avkreve studenten taushetsplikt i samband med en studen
 
 ## § 5-8. Endring av studieplan
 
-AHOs undervisningsutvalg kan gi regler for overgangsordninger ved endring i studieplan. Ved endring i studieplan slik at et kurs utgår eller ved andre vesentlige endringer, i pensum, tidspunkt for eksamen, innlevering eller kursets varighet, er det anledning til å:avlegge eksamen etter gammel ordningfå tilrettelagt studiemulighetene etter tidligere ordning dersom det med rimelighet kan antas at endringene vil forsinke et studium som er påbegynt før endringer.
+AHOs undervisningsutvalg kan gi regler for overgangsordninger ved endring i studieplan. Ved endring i studieplan slik at et kurs utgår eller ved andre vesentlige endringer, i pensum, tidspunkt for eksamen, innlevering eller kursets varighet, er det anledning til å:
+
+- avlegge eksamen etter gammel ordning
+- få tilrettelagt studiemulighetene etter tidligere ordning dersom det med rimelighet kan antas at endringene vil forsinke et studium som er påbegynt før endringer.
 
 Dersom en student ikke består eksamen, er AHO likevel ikke pålagt å tilrettelegge ny eksamen eller studiemulighet etter gammel ordning.
 
@@ -304,7 +410,13 @@ Fysisk tilrettelegging eller utvidet tid på eksamen skal kompensere for funksjo
 
 Studenter med dysleksi eller andre lese-/skrivevansker, kan etter eget ønske få vedlagt sin eksamensbesvarelse en attest fra studieadministrasjonen som bekrefter dette.
 
-Forlenget tid ved eksamen kan normalt gis med inntil:30 minutter for eksamen som varer til og med 3 timer45 minutter for eksamen som varer til og med 6 timer60 minutter for eksamen som varer mer enn 6 timer1 dag for hjemmeeksameninntil 1 uke for studiokurs.
+Forlenget tid ved eksamen kan normalt gis med inntil:
+
+- 30 minutter for eksamen som varer til og med 3 timer
+- 45 minutter for eksamen som varer til og med 6 timer
+- 60 minutter for eksamen som varer mer enn 6 timer
+- 1 dag for hjemmeeksamen
+- inntil 1 uke for studiokurs.
 
 Når tungtveiende grunner gjør dette nødvendig, kan det godkjennes at eksamen avvikles utenfor institusjonen så fremt dette kan skje under betryggende kontroll.
 
@@ -508,7 +620,12 @@ Denne paragraf gjelder erfaringsbaserte mastergrader. Forhold som ikke spesielt 
 
 Opptak til de erfaringsbaserte studieprogrammene skjer på grunnlag av bekreftede kopier av attester og vitnemål, samt portfolio.
 
-Det formelle opptakskravet til erfaringsbasert masterprogram er en av følgende utdanninger:BachelorgradCand.mag.-gradAnnen grad eller utdanning av min. 3 års omfangUtdanning som i henhold til UH-loven § 48 er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+Det formelle opptakskravet til erfaringsbasert masterprogram er en av følgende utdanninger:
+
+- Bachelorgrad
+- Cand.mag.-grad
+- Annen grad eller utdanning av min. 3 års omfang
+- Utdanning som i henhold til UH-loven § 48 er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
 
 I tillegg kreves minst 2 års relevant yrkespraksis.
 

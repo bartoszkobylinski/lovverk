@@ -28,7 +28,10 @@ eu_basis:
 
 Loven gjelder for elektronisk handel og andre informasjonssamfunnstjenester og offentlige myndigheters regulering av og kontroll med slike tjenester. Loven har til formål å sikre fri bevegelighet av informasjonssamfunnstjenester innenfor Det europeiske økonomiske samarbeidsområde (EØS).
 
-En informasjonssamfunnstjeneste erenhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk, over avstand og etter individuell anmodning fra en tjenestemottaker, samtenhver tjeneste som består i å gi tilgang til, eller overføre informasjon over, et elektronisk kommunikasjonsnett, eller i å være nettvert for data som leveres av tjenestemottakeren.
+En informasjonssamfunnstjeneste er
+
+1. enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk, over avstand og etter individuell anmodning fra en tjenestemottaker, samt
+2. enhver tjeneste som består i å gi tilgang til, eller overføre informasjon over, et elektronisk kommunikasjonsnett, eller i å være nettvert for data som leveres av tjenestemottakeren.
 
 Taletelefoni og telefaks- og telekstjenester går ikke inn under loven.
 
@@ -38,13 +41,26 @@ Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard o
 
 ## § 2. Unntak fra lovens virkeområde
 
-Loven får ikke anvendelse på:skatteområdet,behandling av personopplysninger etter personopplysningsloven med forskrifter, ekomloven med forskrifter og [lov 9. september 2016 nr. 80](lov/2016-09-09-80) om reservasjonssystemer for flyreiser mv.,spørsmål om avtaler eller praksis som reguleres av konkurranseloven og EØS-avtalen artiklene 53 og 54,virksomhet som notarius publicus etter [lov 26. april 2002 nr. 12](lov/2002-04-26-12) om notarius publicus,representasjon av en klient og ivaretakelse av vedkommendes interesser ved domstolene,pengespillvirksomhet som omfattes av [pengespilloven](lov/2022-03-18-12)
+Loven får ikke anvendelse på:
+
+1. skatteområdet,
+2. behandling av personopplysninger etter personopplysningsloven med forskrifter, ekomloven med forskrifter og [lov 9. september 2016 nr. 80](lov/2016-09-09-80) om reservasjonssystemer for flyreiser mv.,
+3. spørsmål om avtaler eller praksis som reguleres av konkurranseloven og EØS-avtalen artiklene 53 og 54,
+4. virksomhet som notarius publicus etter [lov 26. april 2002 nr. 12](lov/2002-04-26-12) om notarius publicus,
+5. representasjon av en klient og ivaretakelse av vedkommendes interesser ved domstolene,
+6. pengespillvirksomhet som omfattes av [pengespilloven](lov/2022-03-18-12)
 
 > Endret ved [lover 20 feb 2004 nr. 8](lov/2004-02-20-8) (ikr. 1 mars 2004 iflg. [res. 20 feb 2004 nr. 400](forskrift/2004-02-20-400)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1922](forskrift/2018-12-14-1922)), [18 mars 2022 nr. 12](lov/2022-03-18-12) (i kraft 1 jan 2023 iflg. [res. 18 mars 2022 nr. 414](forskrift/2022-03-18-414)).
 
 ## § 3. Definisjoner
 
-I denne lov menes med:tjenesteyter: en fysisk eller juridisk person som tilbyr informasjonssamfunnstjenester,tjenestemottaker: en fysisk eller juridisk person som benytter en informasjonssamfunnstjeneste,etableringssted: et fast forretningssted der den økonomiske virksomheten som den aktuelle informasjonssamfunnstjenesten knytter seg til, faktisk utøves,det koordinerte regelområdet: nasjonale regler som stiller krav til informasjonssamfunnstjenester og til tjenesteyter når det gjelder etablering og drift av informasjonssamfunnstjenester,forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+I denne lov menes med:
+
+1. tjenesteyter: en fysisk eller juridisk person som tilbyr informasjonssamfunnstjenester,
+2. tjenestemottaker: en fysisk eller juridisk person som benytter en informasjonssamfunnstjeneste,
+3. etableringssted: et fast forretningssted der den økonomiske virksomheten som den aktuelle informasjonssamfunnstjenesten knytter seg til, faktisk utøves,
+4. det koordinerte regelområdet: nasjonale regler som stiller krav til informasjonssamfunnstjenester og til tjenesteyter når det gjelder etablering og drift av informasjonssamfunnstjenester,
+5. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
 
 ## § 4. Informasjonssamfunnstjenester fra Norge
 
@@ -54,9 +70,17 @@ En tjenesteyter med etableringssted i Norge skal innenfor det koordinerte regelo
 
 En tjenesteyter med etableringssted i en annen stat innenfor EØS har uten hinder av norske regler innenfor det koordinerte regelområdet rett til å tilby informasjonssamfunnstjenester til tjenestemottakere i Norge.
 
-Første ledd er likevel ikke til hinder for at en domstol eller annen myndighet, når dette følger av annen lovgivning, kan begrense adgangen til å tilby en bestemt informasjonssamfunnstjeneste, så langt tiltaket er nødvendig for å beskytte:den offentlige orden, særlig forebygging, etterforsking og rettsforfølging av straffbare forhold, beskyttelse av mindreårige, og vern mot angrep på enkeltmenneskets verd og mot oppfordring til hat på grunnlag av rase, kjønn, religion eller nasjonalitet,folkehelsen,den offentlige sikkerhet, herunder vern av den nasjonale sikkerhet og det nasjonale forsvar, ellerforbrukere, medregnet investorer så langt disse er forbrukere.
+Første ledd er likevel ikke til hinder for at en domstol eller annen myndighet, når dette følger av annen lovgivning, kan begrense adgangen til å tilby en bestemt informasjonssamfunnstjeneste, så langt tiltaket er nødvendig for å beskytte:
 
-Før forbud som nevnt i annet ledd blir nedlagt, måden stat der tjenesteyteren har sitt etableringssted, være oppfordret til å sette i verk tiltak uten at dette har vært tilstrekkelig til å beskytte de formål som er nevnt i annet ledd, ogEFTAs overvåkingsorgan (ESA) og vedkommende stat underrettes om at slikt forbud vil bli nedlagt.
+1. den offentlige orden, særlig forebygging, etterforsking og rettsforfølging av straffbare forhold, beskyttelse av mindreårige, og vern mot angrep på enkeltmenneskets verd og mot oppfordring til hat på grunnlag av rase, kjønn, religion eller nasjonalitet,
+2. folkehelsen,
+3. den offentlige sikkerhet, herunder vern av den nasjonale sikkerhet og det nasjonale forsvar, eller
+4. forbrukere, medregnet investorer så langt disse er forbrukere.
+
+Før forbud som nevnt i annet ledd blir nedlagt, må
+
+1. den stat der tjenesteyteren har sitt etableringssted, være oppfordret til å sette i verk tiltak uten at dette har vært tilstrekkelig til å beskytte de formål som er nevnt i annet ledd, og
+2. EFTAs overvåkingsorgan (ESA) og vedkommende stat underrettes om at slikt forbud vil bli nedlagt.
 
 Reglene i tredje ledd gjelder ikke for saker for domstolene eller for tiltak i etterforsking av straffbare forhold. De kan også fravikes dersom det er fare ved opphold, men da skal ESA og vedkommende stat snarest opplyses om dette og om det nedlagte forbudet.
 
@@ -64,7 +88,17 @@ Kongen kan gi forskrift om hvem som skal ha underretning etter tredje og fjerde 
 
 ## § 6. Unntak fra [§§ 4](lov/2003-05-23-35/§4) og 5
 
-Reglene i [§§ 4](lov/2003-05-23-35/§4) og 5 får ikke anvendelse på:avtaler om lovvalg for en kontrakt,lovvalg i forsikring, jf. lov 27. september 1992 nr. 111 om lovvalg i forsikring §§ 4 til 10,kontraktsvilkår i forbrukeravtaler,ufravikelige formkrav for avtaler som stifter eller overfører rettigheter i fast eiendom,immaterielle rettigheter,elektronisk sending av uanmodet reklame,markedsføring av andeler i verdipapirfond, jf. verdipapirfondloven,utstedelse av elektroniske penger av en institusjon som går inn under et unntak gitt i medhold av [finansforetaksloven § 2-10](lov/2015-04-10-17/§2-10) fjerde ledd, ogforsikringsvirksomhet som er unntatt i henhold til forskrift fast[s]att av departementet.
+Reglene i [§§ 4](lov/2003-05-23-35/§4) og 5 får ikke anvendelse på:
+
+1. avtaler om lovvalg for en kontrakt,
+2. lovvalg i forsikring, jf. lov 27. september 1992 nr. 111 om lovvalg i forsikring §§ 4 til 10,
+3. kontraktsvilkår i forbrukeravtaler,
+4. ufravikelige formkrav for avtaler som stifter eller overfører rettigheter i fast eiendom,
+5. immaterielle rettigheter,
+6. elektronisk sending av uanmodet reklame,
+7. markedsføring av andeler i verdipapirfond, jf. verdipapirfondloven,
+8. utstedelse av elektroniske penger av en institusjon som går inn under et unntak gitt i medhold av [finansforetaksloven § 2-10](lov/2015-04-10-17/§2-10) fjerde ledd, og
+9. forsikringsvirksomhet som er unntatt i henhold til forskrift fast[s]att av departementet.
 
 > Endret ved [lov 18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1922](forskrift/2018-12-14-1922)).
 
@@ -78,9 +112,16 @@ Krav om tillatelse til å bruke begrensede ressurser etter ekomloven, jf. kapitl
 
 ## § 8. Tjenesteyterens opplysningsplikt om virksomheten
 
-En tjenesteyter skal ved utøving av sin virksomhet alltid gi informasjon om navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren. I tillegg skal tjenesteyteren opplyse om:det foretaksregister hvor tjenesteyteren er registrert, samt tjenesteyterens organisasjonsnummer og om virksomheten er merverdiavgiftspliktig, ogeventuelle godkjenninger som kreves for å utføre virksomheten og navn og adresse på den aktuelle godkjenningsmyndigheten.
+En tjenesteyter skal ved utøving av sin virksomhet alltid gi informasjon om navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren. I tillegg skal tjenesteyteren opplyse om:
 
-Ved yrkesvirksomhet som direkte eller indirekte ved lov eller forskrift er betinget av at vedkommende er innehaver av et diplom eller utdanningsbevis skal tjenesteyteren dessuten opplyse om:sin yrkestittel og i hvilken medlemsstat den er gitt,hvilke regler for yrkesmessig opptreden som gjelder for tjenesteyteren, oghvor tjenestemottakeren kan få tilgang til reglene nevnt i bokstav b.
+1. det foretaksregister hvor tjenesteyteren er registrert, samt tjenesteyterens organisasjonsnummer og om virksomheten er merverdiavgiftspliktig, og
+2. eventuelle godkjenninger som kreves for å utføre virksomheten og navn og adresse på den aktuelle godkjenningsmyndigheten.
+
+Ved yrkesvirksomhet som direkte eller indirekte ved lov eller forskrift er betinget av at vedkommende er innehaver av et diplom eller utdanningsbevis skal tjenesteyteren dessuten opplyse om:
+
+1. sin yrkestittel og i hvilken medlemsstat den er gitt,
+2. hvilke regler for yrkesmessig opptreden som gjelder for tjenesteyteren, og
+3. hvor tjenestemottakeren kan få tilgang til reglene nevnt i bokstav b.
 
 Informasjonen etter første og andre ledd skal gjøres enkelt og direkte tilgjengelig for tjenestemottakere og offentlige myndigheter.
 
@@ -104,7 +145,13 @@ En tjenesteyter som har etableringssted i Norge, og som uanmodet retter markedsf
 
 ## § 11. Opplysningsplikt før elektronisk bestilling
 
-Før elektronisk bestilling skal tjenesteyteren på en klar, forståelig og utvetydig måte gi tjenestemottakeren opplysning om:relevante atferdsregler som tjenesteyteren følger og om og hvor disse er tilgjengelige elektronisk,de forskjellige tekniske etappene som er knyttet til avtaleinngåelsen,om en inngått avtale vil bli arkivert av tjenesteyteren, og om den vil være tilgjengelig,de tekniske midlene til å finne og rette inntastingsfeil før bestilling er foretatt,de språk avtalen kan inngås på.
+Før elektronisk bestilling skal tjenesteyteren på en klar, forståelig og utvetydig måte gi tjenestemottakeren opplysning om:
+
+1. relevante atferdsregler som tjenesteyteren følger og om og hvor disse er tilgjengelige elektronisk,
+2. de forskjellige tekniske etappene som er knyttet til avtaleinngåelsen,
+3. om en inngått avtale vil bli arkivert av tjenesteyteren, og om den vil være tilgjengelig,
+4. de tekniske midlene til å finne og rette inntastingsfeil før bestilling er foretatt,
+5. de språk avtalen kan inngås på.
 
 Avtalevilkår, standardvilkår og generelle vilkår, må gjøres tilgjengelige for tjenestemottakeren på en måte som gjør det mulig å lagre og gjengi dem.
 
@@ -124,7 +171,10 @@ Første og annet ledd kan fravikes i avtale utenfor forbrukerforhold.
 
 ## § 13. Ansvar for informasjon og veiledning
 
-Departementet skal i forskrift utpeke kontaktpunkter som er tilgjengelige elektronisk og som tjenestemottakere og tjenesteytere kan henvende seg til for å få:generelle opplysninger om sine kontraktsmessige rettigheter og forpliktelser, samt om klage- og erstatningsordninger ved tvister og om framgangsmåter ved bruk av disse,nærmere opplysninger om myndigheter, sammenslutninger og organisasjoner som kan gi ytterligere opplysninger eller praktisk bistand.
+Departementet skal i forskrift utpeke kontaktpunkter som er tilgjengelige elektronisk og som tjenestemottakere og tjenesteytere kan henvende seg til for å få:
+
+1. generelle opplysninger om sine kontraktsmessige rettigheter og forpliktelser, samt om klage- og erstatningsordninger ved tvister og om framgangsmåter ved bruk av disse,
+2. nærmere opplysninger om myndigheter, sammenslutninger og organisasjoner som kan gi ytterligere opplysninger eller praktisk bistand.
 
 Departementet kan gi forskrift om virksomheten i de kontaktpunktene som utpekes etter første ledd.
 
@@ -140,9 +190,16 @@ For tjenesteyter som overfører informasjon, gir tilgang til et kommunikasjonsne
 
 ## § 16. Ansvarsfrihet for visse overførings- og tilgangstjenester
 
-En tjenesteyter som overfører informasjon for en tjenestemottaker i et kommunikasjonsnettverk, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i den overførte informasjonen, forutsatt atOverføringen ikke starter hos tjenesteyteren,tjenesteyteren ikke selv velger mottakeren av overføringen ogtjenesteyteren ikke selv bestemmer eller endrer informasjonen som overføres.
+En tjenesteyter som overfører informasjon for en tjenestemottaker i et kommunikasjonsnettverk, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i den overførte informasjonen, forutsatt at
 
-Overføring som nevnt i første ledd, omfatter også automatisk, mellomliggende og kortvarig lagring av den overførte informasjonen, forutsatt atlagringen utelukkende tjener til gjennomføring av overføringen oglagringen ikke varer lenger enn det som er nødvendig for slik overføring.
+1. Overføringen ikke starter hos tjenesteyteren,
+2. tjenesteyteren ikke selv velger mottakeren av overføringen og
+3. tjenesteyteren ikke selv bestemmer eller endrer informasjonen som overføres.
+
+Overføring som nevnt i første ledd, omfatter også automatisk, mellomliggende og kortvarig lagring av den overførte informasjonen, forutsatt at
+
+1. lagringen utelukkende tjener til gjennomføring av overføringen og
+2. lagringen ikke varer lenger enn det som er nødvendig for slik overføring.
 
 Bestemmelsene i første og andre ledd gjelder tilsvarende for tjenesteytere hvis tjeneste består i å gi tilgang til et kommunikasjonsnettverk.
 
@@ -150,7 +207,12 @@ Bestemmelsene i første og andre ledd gjelder tilsvarende for tjenesteytere hvis
 
 ## § 17. Ansvarsfrihet for visse mellomlagringstjenester
 
-En tjenesteyter som nevnt i [§ 16](lov/2003-05-23-35/§16) første ledd, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i informasjon som automatisk, mellomliggende og midlertidig lagres utelukkende for å gjøre overføringen til andre tjenestemottakere mer effektiv, forutsatt at tjenesteyterenikke selv bestemmer eller endrer informasjonen som overføres,overholder vilkår for tilgang til informasjonen,overholder alminnelig godtatte regler for oppdatering av informasjonen ogikke griper inn i lovlig anvendelse av alminnelig anerkjent teknologi, i den hensikt å oppnå data om bruken av informasjonen.
+En tjenesteyter som nevnt i [§ 16](lov/2003-05-23-35/§16) første ledd, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i informasjon som automatisk, mellomliggende og midlertidig lagres utelukkende for å gjøre overføringen til andre tjenestemottakere mer effektiv, forutsatt at tjenesteyteren
+
+1. ikke selv bestemmer eller endrer informasjonen som overføres,
+2. overholder vilkår for tilgang til informasjonen,
+3. overholder alminnelig godtatte regler for oppdatering av informasjonen og
+4. ikke griper inn i lovlig anvendelse av alminnelig anerkjent teknologi, i den hensikt å oppnå data om bruken av informasjonen.
 
 Ansvarsfrihet etter første ledd gjelder bare dersom tjenesteyteren uten ugrunnet opphold fjerner eller sperrer tilgang til den lagrede informasjonen når tjenesteyter har fått kunnskap om at en domstol, en offentlig myndighet eller et særskilt organ utpekt av departementet i forskrift har gitt pålegg om å fjerne eller sperre tilgangen til informasjonen. Det samme gjelder når tjenesteyter har mottatt underretning om at informasjonen er fjernet fra opprinnelsesstedet eller at tilgangen til informasjonen er sperret.
 
@@ -158,7 +220,10 @@ Ansvarsfrihet etter første ledd gjelder bare dersom tjenesteyteren uten ugrunne
 
 ## § 18. Ansvarsfrihet for visse lagringstjenester
 
-En tjenesteyter som lagrer informasjon på oppfordring fra en tjenestemottaker, kan barestraffes for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett, ellerholdes erstatningsansvarlig for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett eller grov uaktsomhet.
+En tjenesteyter som lagrer informasjon på oppfordring fra en tjenestemottaker, kan bare
+
+1. straffes for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett, eller
+2. holdes erstatningsansvarlig for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett eller grov uaktsomhet.
 
 Tjenesteyteren er i alle tilfelle straffri eller fri fra erstatningsansvar dersom han uten ugrunnet opphold treffer nødvendige tiltak for å fjerne eller sperre tilgangen til informasjonen etter at forsettet eller den grove uaktsomheten etter første ledd forelå.
 

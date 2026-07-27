@@ -15,7 +15,7 @@ xml_hash: "881bfa4876e607343ae4d6bf6270a3e5ffa9c25419543890ec8e0b7f681ddae0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,15 @@ Ordningen skal bidra til å trygge viktige samfunnsoppgaver på områdene helse,
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*samfunnsnyttige og humanitære organisasjoner:* landsdekkende organisasjoner som er nevnt i [§ 3](forskrift/2022-12-05-2123/§3) eller oppfyller vilkårene i [§ 4](forskrift/2022-12-05-2123/§4)*søker:* sentralledd eller sentralorganisasjon*organisasjon:* sentralledd eller sentralorganisasjon med underledd eller avdelinger*samlet tilskudd:* den andelen av overskuddet fra Norsk Tippings pengespill som årlig skal fordeles til samfunnsnyttige eller humanitære organisasjoner, jf. [pengespilloven § 12 første ledd nr. 5](lov/2022-03-18-12/§12/ledd/1/nummer/5)*landsdekkende organisasjon:* organisasjon som har et sentralledd eller sentralorganisasjon med tilknyttede underledd eller avdelinger med jevnlig regional og lokal aktivitet i minst fire av fem landsdeler i Norge*enhet:* selvstendig juridisk enhet.*andreorientert organisasjon:* organisasjon som produserer goder eller tjenester for utenforstående.
+I denne forskriften menes med
+
+1. *samfunnsnyttige og humanitære organisasjoner:* landsdekkende organisasjoner som er nevnt i [§ 3](forskrift/2022-12-05-2123/§3) eller oppfyller vilkårene i [§ 4](forskrift/2022-12-05-2123/§4)
+2. *søker:* sentralledd eller sentralorganisasjon
+3. *organisasjon:* sentralledd eller sentralorganisasjon med underledd eller avdelinger
+4. *samlet tilskudd:* den andelen av overskuddet fra Norsk Tippings pengespill som årlig skal fordeles til samfunnsnyttige eller humanitære organisasjoner, jf. [pengespilloven § 12 første ledd nr. 5](lov/2022-03-18-12/§12/ledd/1/nummer/5)
+5. *landsdekkende organisasjon:* organisasjon som har et sentralledd eller sentralorganisasjon med tilknyttede underledd eller avdelinger med jevnlig regional og lokal aktivitet i minst fire av fem landsdeler i Norge
+6. *enhet:* selvstendig juridisk enhet.
+7. *andreorientert organisasjon:* organisasjon som produserer goder eller tjenester for utenforstående.
 
 > Endret ved forskrift [18 des 2025 nr. 2733](forskrift/2025-12-18-2733) (i kraft 1 jan 2026).
 
@@ -46,11 +54,31 @@ Følgende tre beredskapsorganisasjoner skal i løpet av andre kvartal motta føl
 
 ## § 4. Tilskuddsberettigede organisasjoner
 
-En samfunnsnyttig eller humanitær organisasjon som ikke er nevnt i [§ 3](forskrift/2022-12-05-2123/§3) er tilskuddsberettiget dersom følgende vilkår er oppfylt:søker må være forhåndsgodkjent etter [forskrift om pengespill § 38](forskrift/2022-11-17-1978/§38)søker må ha fordelingsgrunnlag, jf. [§ 5](forskrift/2022-12-05-2123/§5), tredje ledd på minimum 10 mill. kroner i henhold til forrige års regnskapsøker må være registrert i, og kunne vise til at en sentral del av organisasjonens virksomhet faller inn under, minst en av følgende kategorier i Frivillighetsregisteret:ICNPO 3400 Andre helsetjenesterICNPO 4100 Sosiale tjenesterICNPO 4200 Krisehjelp og støttearbeidICNPO 5100 Natur- og miljøvernICNPO 5200 Dyrevern.Søker må ha nasjonal aktivitet som utgjør minst 50 pst. av organisasjonens samlede regnskapsførte driftskostnader. Søker som er registrert i ICNPO 7100 Interesseorganisasjoner kan være tilskuddsberettiget dersom en sentral del av organisasjonens virksomhet faller inn under minst en av de ovennevnte kategoriene.organisasjonen må være landsdekkende,organisasjonen må være andreorientert,organisasjonen må være ikke-fortjenestebasert, med frivillig innsats som en viktig del av virksomheten, jf. [forskrift 18. desember 2025 nr. 2719 om merverdiavgiftskompensasjon for frivillige organisasjoner §§ 3](forskrift/2025-12-18-2719/§3) og [5](forskrift/2025-12-18-2719/§5).
+En samfunnsnyttig eller humanitær organisasjon som ikke er nevnt i [§ 3](forskrift/2022-12-05-2123/§3) er tilskuddsberettiget dersom følgende vilkår er oppfylt:
+
+1. søker må være forhåndsgodkjent etter [forskrift om pengespill § 38](forskrift/2022-11-17-1978/§38)
+2. søker må ha fordelingsgrunnlag, jf. [§ 5](forskrift/2022-12-05-2123/§5), tredje ledd på minimum 10 mill. kroner i henhold til forrige års regnskap
+3. søker må være registrert i, og kunne vise til at en sentral del av organisasjonens virksomhet faller inn under, minst en av følgende kategorier i Frivillighetsregisteret:
+
+   - ICNPO 3400 Andre helsetjenester
+   - ICNPO 4100 Sosiale tjenester
+   - ICNPO 4200 Krisehjelp og støttearbeid
+   - ICNPO 5100 Natur- og miljøvern
+   - ICNPO 5200 Dyrevern.
+
+   Søker må ha nasjonal aktivitet som utgjør minst 50 pst. av organisasjonens samlede regnskapsførte driftskostnader. Søker som er registrert i ICNPO 7100 Interesseorganisasjoner kan være tilskuddsberettiget dersom en sentral del av organisasjonens virksomhet faller inn under minst en av de ovennevnte kategoriene.
+4. organisasjonen må være landsdekkende,
+5. organisasjonen må være andreorientert,
+6. organisasjonen må være ikke-fortjenestebasert, med frivillig innsats som en viktig del av virksomheten, jf. [forskrift 18. desember 2025 nr. 2719 om merverdiavgiftskompensasjon for frivillige organisasjoner §§ 3](forskrift/2025-12-18-2719/§3) og [5](forskrift/2025-12-18-2719/§5).
 
 Kategoriinndeling skjer i henhold til klassifikasjonsskjema utarbeidet av departementet, jf. [forskrift 15. oktober 2008 nr. 1214 til lov om register for frivillig virksomhet § 4](forskrift/2008-10-15-1214/§4). Departementet kan fastsette nærmere regler om krav til registrering i de ulike kategoriene.
 
-Følgende organisasjoner er likevel ikke tilskuddsberettiget uavhengig av kategori:barne- og ungdomsorganisasjoner,politiske partier,lukkede organisasjoner, ogparaplyorganisasjoner.
+Følgende organisasjoner er likevel ikke tilskuddsberettiget uavhengig av kategori:
+
+1. barne- og ungdomsorganisasjoner,
+2. politiske partier,
+3. lukkede organisasjoner, og
+4. paraplyorganisasjoner.
 
 Lotteri- og stiftelsestilsynet vurderer om en organisasjon er tilskuddsberettiget etter søknad. Vilkårene må være oppfylt ved søknadsfrist 1. september.
 
@@ -60,9 +88,15 @@ Lotteri- og stiftelsestilsynet vurderer om en organisasjon er tilskuddsberettige
 
 Tilskuddet til fordeling mellom tilskuddsberettigede etter [§ 4](forskrift/2022-12-05-2123/§4) utgjør samlet tilskudd med fradrag for tilskudd som er fordelt etter [§ 3](forskrift/2022-12-05-2123/§3), og eventuelle innestående rentemidler.
 
-Tilskudd fordeles av Lotteri- og stiftelsestilsynet etter søknad. Tilskuddet fordeles mellom tilskuddsberettigede etter følgende formel: $$\\text{Tilskudd} =\\frac{\\text{Fordelingsgrunnlag for den enkelte søker}}{\\text{Sum av fordelingsgrunnlag for alle godkjente søkere}} \\cdot \\text{beløp til fordeling}$$
+Tilskudd fordeles av Lotteri- og stiftelsestilsynet etter søknad. Tilskuddet fordeles mellom tilskuddsberettigede etter følgende formel:
 
-Fordelingsgrunnlag for den enkelte søker består av sentralleddets eller sentralorganisasjonens driftskostnader i henhold til forrige års regnskap, med følgende fradrag:kostnader og virksomhet som ikke er kompensasjonsberettiget etter forskrift om merverdiavgiftskompensasjon for frivillige organisasjoner [§ 7 første ledd](forskrift/2025-12-18-2719/§7/ledd/1) bokstav d til k,kontantoverføringer til egen organisasjon og samarbeidspartnere i utlandet, lønnskostnader til personell stasjonert i utlandet samt øvrige kostnader i utlandet, ogtotale driftskostnader knyttet til virksomhet som er kompensasjonsberettiget gjennom [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.](lov/2003-12-12-108), herunder frivillige organisasjoner som på vegne av kommune eller fylkeskommune produserer helse-, undervisnings- eller sosiale tjenester som kommune eller fylkeskommune er lovpålagt å utføre.
+$$\\text{Tilskudd} =\\frac{\\text{Fordelingsgrunnlag for den enkelte søker}}{\\text{Sum av fordelingsgrunnlag for alle godkjente søkere}} \\cdot \\text{beløp til fordeling}$$
+
+Fordelingsgrunnlag for den enkelte søker består av sentralleddets eller sentralorganisasjonens driftskostnader i henhold til forrige års regnskap, med følgende fradrag:
+
+1. kostnader og virksomhet som ikke er kompensasjonsberettiget etter forskrift om merverdiavgiftskompensasjon for frivillige organisasjoner [§ 7 første ledd](forskrift/2025-12-18-2719/§7/ledd/1) bokstav d til k,
+2. kontantoverføringer til egen organisasjon og samarbeidspartnere i utlandet, lønnskostnader til personell stasjonert i utlandet samt øvrige kostnader i utlandet, og
+3. totale driftskostnader knyttet til virksomhet som er kompensasjonsberettiget gjennom [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.](lov/2003-12-12-108), herunder frivillige organisasjoner som på vegne av kommune eller fylkeskommune produserer helse-, undervisnings- eller sosiale tjenester som kommune eller fylkeskommune er lovpålagt å utføre.
 
 Tilskudd regnes som frie midler innenfor mottakers formål.
 

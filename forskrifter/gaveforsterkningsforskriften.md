@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Vilkår for gaveforsterkning
 
-Gaver som skal brukes til langsiktig, grunnleggende forskning utløser en offentlig gaveforsterkning til mottakeren på 25 prosent av gavebeløpet nårgavens verdi er minst tre millioner norske kronergiveren er en enkeltperson eller et annet privat rettssubjektmottakeren er et norsk universitet, en norsk høyskole, Norges forskningsråd, Det Norske Videnskaps-Akademi eller Det Kongelige Norske Videnskabers Selskabdet er avtalt at gaven skal utbetales etter 1. januar 2014.
+Gaver som skal brukes til langsiktig, grunnleggende forskning utløser en offentlig gaveforsterkning til mottakeren på 25 prosent av gavebeløpet når
+
+1. gavens verdi er minst tre millioner norske kroner
+2. giveren er en enkeltperson eller et annet privat rettssubjekt
+3. mottakeren er et norsk universitet, en norsk høyskole, Norges forskningsråd, Det Norske Videnskaps-Akademi eller Det Kongelige Norske Videnskabers Selskab
+4. det er avtalt at gaven skal utbetales etter 1. januar 2014.
 
 Gaver til høyskoler skal enten være gitt til en høyskole med rett til å tildele doktorgrad og skal da være gitt til et fagområde høyskolen har rett til å tildele doktorgrad i, eller gitt i form av et gaveprofessorat.
 
@@ -42,7 +47,14 @@ Norges forskningsråd forvalter gaveforsterkningsordningen.
 
 ## § 4. Saksbehandling og utbetaling
 
-Giveren og mottakeren avtaler skriftlighva gaven skal brukes tilgavens størrelsehvordan tildelingsvilkårene og kravene til bruken etter [§ 1](forskrift/2013-12-20-1662/§1) og [§ 2](forskrift/2013-12-20-1662/§2) skal oppfyllesom giverens navn skal knyttes til gavenom giveren skal holdes orientert om hvordan gaven forvaltes og brukesandre forhold av betydning.
+Giveren og mottakeren avtaler skriftlig
+
+1. hva gaven skal brukes til
+2. gavens størrelse
+3. hvordan tildelingsvilkårene og kravene til bruken etter [§ 1](forskrift/2013-12-20-1662/§1) og [§ 2](forskrift/2013-12-20-1662/§2) skal oppfylles
+4. om giverens navn skal knyttes til gaven
+5. om giveren skal holdes orientert om hvordan gaven forvaltes og brukes
+6. andre forhold av betydning.
 
 Mottakeren søker Norges forskningsråd om gaveforsterkningen. Søknaden skal undertegnes av virksomhetens leder og inneholde kopi av avtalen og dokumentasjon for at gaven er innbetalt til mottakerens konto.
 

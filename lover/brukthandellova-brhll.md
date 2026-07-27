@@ -15,7 +15,7 @@ xml_hash: "3402df44f2eac51d0e8111200ba67cdd0b86b1626b825b7d551dc6b147c98ae1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,15 @@ eu_basis: []
 
 ## § 1. Verkeområde, formål m.v.
 
-Denne lova gjeld handelsverksemd med brukte og kassertevarer av edelt metall,edelsteinar og perler,kulturgjenstandar,kunstverk, samleobjekt og antikvitetar,motorvogner og tilhengjarar til motorvogner.Departementet fastset nærare forskrifter om kva for varer og gjenstandar som skal reknast for omfatta av verkeområdet etter punkt 1 til 5.
+Denne lova gjeld handelsverksemd med brukte og kasserte
+
+1. varer av edelt metall,
+2. edelsteinar og perler,
+3. kulturgjenstandar,
+4. kunstverk, samleobjekt og antikvitetar,
+5. motorvogner og tilhengjarar til motorvogner.
+
+Departementet fastset nærare forskrifter om kva for varer og gjenstandar som skal reknast for omfatta av verkeområdet etter punkt 1 til 5.
 
 Som handelsverksemd vert rekna handel med varer i næring for eiga eller framand rekning og i eige eller i framand namn. Opptak av bestilling av varer i næring for seinare levering vert òg rekna som handelsverksemd.
 

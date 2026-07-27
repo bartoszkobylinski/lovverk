@@ -15,7 +15,7 @@ xml_hash: "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,7 +118,11 @@ Kommunen kan bestemme at det skal være felles samarbeidsutvalg for kommunal bar
 
 ### § 6. Virksomhetens plikt til å søke godkjenning
 
-Virksomheter som har ansvar for barn under opplæringspliktig alder, plikter å søke godkjenning som barnehage når:virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, ogantall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, ogvirksomheten utføres mot godtgjøring.
+Virksomheter som har ansvar for barn under opplæringspliktig alder, plikter å søke godkjenning som barnehage når:
+
+1. virksomheten er regelmessig og ett eller flere barn har en ukentlig oppholdstid på mer enn 20 timer, og
+2. antall barn som er til stede samtidig er ti eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og
+3. virksomheten utføres mot godtgjøring.
 
 Virksomheter etter første ledd må være godkjent før driften settes i gang.
 
@@ -136,7 +140,10 @@ Hver private barnehage skal være et selvstendig rettssubjekt.
 
 Kommunale og private barnehager skal være registrert med eget organisasjonsnummer i Enhetsregisteret.
 
-Første ledd gjelder ikke for åpne barnehager og ikke for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern eierordinære barnehager med til sammen færre enn tretti barn, ellerfamiliebarnehager med til sammen inntil ti barn.
+Første ledd gjelder ikke for åpne barnehager og ikke for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern eier
+
+1. ordinære barnehager med til sammen færre enn tretti barn, eller
+2. familiebarnehager med til sammen inntil ti barn.
 
 Departementet kan gi forskrift om unntak fra kravet i første ledd i særlige tilfeller.
 
@@ -152,7 +159,13 @@ Første ledd gjelder ikke for barnehager som er unntatt fra kravet om å være e
 
 ### § 8. Krav til vedtekter
 
-Kommunale og private barnehager skal ha vedtekter. Vedtektene skal gi opplysninger som er av betydning for foreldrenes forhold til barnehagen, herunder omeierforholdformål, jf. [§§ 1](lov/2005-06-17-64/§1) og [1a](lov/2005-06-17-64/§1a)opptakskriterierantall medlemmer i samarbeidsutvalgetbarnehagens åpningstid.
+Kommunale og private barnehager skal ha vedtekter. Vedtektene skal gi opplysninger som er av betydning for foreldrenes forhold til barnehagen, herunder om
+
+1. eierforhold
+2. formål, jf. [§§ 1](lov/2005-06-17-64/§1) og [1a](lov/2005-06-17-64/§1a)
+3. opptakskriterier
+4. antall medlemmer i samarbeidsutvalget
+5. barnehagens åpningstid.
 
 > Endret ved lover [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [8 aug 2008 nr. 73](lov/2008-08-08-73) (ikr. 1 jan 2009 iflg. [res. 26 sep 2008 nr. 1048](forskrift/2008-09-26-1048)), [19 juni 2009 nr. 93](lov/2009-06-19-93) (ikr. 1 jan 2011 iflg. [res. 29 okt 2010 nr. 1378](forskrift/2010-10-29-1378)), [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
@@ -162,7 +175,13 @@ Barnehageeier skal ha internkontroll for å sikre at kravene i denne loven med f
 
 Internkontrollen skal være systematisk og tilpasset barnehagens størrelse, egenart, aktiviteter og risikoforhold.
 
-Ved internkontroll etter denne paragrafen skal barnehageeierutarbeide en beskrivelse av barnehagens hovedoppgaver, mål og organiseringha nødvendige rutiner og prosedyreravdekke og følge opp avvik og risiko for avvikdokumentere internkontrollen i den formen og det omfanget som er nødvendigevaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal barnehageeier
+
+1. utarbeide en beskrivelse av barnehagens hovedoppgaver, mål og organisering
+2. ha nødvendige rutiner og prosedyrer
+3. avdekke og følge opp avvik og risiko for avvik
+4. dokumentere internkontrollen i den formen og det omfanget som er nødvendig
+5. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
 
 > Endret ved lover [17 juni 2016 nr. 66](lov/2016-06-17-66) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 674](forskrift/2016-06-17-674)), [21 juni 2017 nr. 98](lov/2017-06-21-98) (ikr. 1 aug 2017 iflg. [res. 21 juni 2017 nr. 832](forskrift/2017-06-21-832)), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
@@ -326,7 +345,12 @@ Dersom barnehagen oppfyller kravene i [§ 23](lov/2005-06-17-64/§23), kan barne
 
 ### § 22. Definisjon av nærstående
 
-Med barnehagens nærstående menesfysiske eller juridiske personer som, direkte eller indirekte, eier eller kontrollerer barnehagen med minst 50 prosentstyremedlem, daglig leder eller annen fysisk person med beslutningsmyndighet i barnehagenforeldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre til fysisk person etter bokstavene a og bselskaper mv. som, direkte eller indirekte, eies eller kontrolleres med minst 50 prosent av nærstående etter bokstav a, b eller c.
+Med barnehagens nærstående menes
+
+1. fysiske eller juridiske personer som, direkte eller indirekte, eier eller kontrollerer barnehagen med minst 50 prosent
+2. styremedlem, daglig leder eller annen fysisk person med beslutningsmyndighet i barnehagen
+3. foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre til fysisk person etter bokstavene a og b
+4. selskaper mv. som, direkte eller indirekte, eies eller kontrolleres med minst 50 prosent av nærstående etter bokstav a, b eller c.
 
 > Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
@@ -408,7 +432,13 @@ Kommunens vedtak etter tredje ledd kan påklages til statsforvalteren.
 
 For å bli fast eller midlertidig ansatt i barnehage må personer med et annet førstespråk enn norsk eller samisk ha avlagt en norskprøve og ha oppnådd nivå A2 på delprøven i skriftlig framstilling og nivå B1 på delprøvene i leseforståelse, lytteforståelse og muntlig kommunikasjon. Nivåene A2 og B1 skal tilsvare nivåene beskrevet i Det felles europeiske rammeverket for språk.
 
-Kravet om norskprøve etter første ledd gjelder ikke forstillinger som styrer eller pedagogisk lederstillinger i barnehager som gir et tilbud på et annet språk enn norskpersoner som har gjennomført opplæring i norsk i grunnskolen eller på videregående skole og fått bestått karakter i fagetpersoner som har minst fem års relevant arbeidserfaring fra en norskspråklig barnehage eller skolepersoner som har svensk eller dansk som førstespråk.
+Kravet om norskprøve etter første ledd gjelder ikke for
+
+1. stillinger som styrer eller pedagogisk leder
+2. stillinger i barnehager som gir et tilbud på et annet språk enn norsk
+3. personer som har gjennomført opplæring i norsk i grunnskolen eller på videregående skole og fått bestått karakter i faget
+4. personer som har minst fem års relevant arbeidserfaring fra en norskspråklig barnehage eller skole
+5. personer som har svensk eller dansk som førstespråk.
 
 Dersom det er pedagogisk forsvarlig, kan barnehageeier ansette personer som ikke oppfyller kravet til norskprøve.
 
@@ -416,7 +446,13 @@ Dersom det er pedagogisk forsvarlig, kan barnehageeier ansette personer som ikke
 
 ### § 28. Krav om norskferdigheter for personer med utenlandske yrkeskvalifikasjoner som styrer eller pedagogisk leder
 
-For å bli fast eller midlertidig ansatt som styrer eller pedagogisk leder, må personer med utenlandske yrkeskvalifikasjoner dokumentere norskferdigheter ved å hagjennomført og bestått opplæring i norsk på videregående skolebestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetenebestått eksamen fra 1-årig høgskolestudium i norsk språk og samfunnskunnskap for utenlandske studenterbestått test i norsk – Høyere nivå (Bergenstesten), eller haavlagt norskprøve og oppnådd nivå B2 på delprøvene i skriftlig framstilling, leseforståelse, lytteforståelse og muntlig kommunikasjon.
+For å bli fast eller midlertidig ansatt som styrer eller pedagogisk leder, må personer med utenlandske yrkeskvalifikasjoner dokumentere norskferdigheter ved å ha
+
+1. gjennomført og bestått opplæring i norsk på videregående skole
+2. bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. bestått eksamen fra 1-årig høgskolestudium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. bestått test i norsk – Høyere nivå (Bergenstesten), eller ha
+5. avlagt norskprøve og oppnådd nivå B2 på delprøvene i skriftlig framstilling, leseforståelse, lytteforståelse og muntlig kommunikasjon.
 
 Barnehageeier kan godta annen dokumentasjon av norskferdigheter.
 
@@ -494,7 +530,13 @@ Departementet kan gi forskrift om andre oppgaver for den pedagogisk-psykologiske
 
 Før kommunen eller fylkeskommunen fatter vedtak om spesialpedagogisk hjelp, skal det foreligge en sakkyndig vurdering av om barnet har særlige behov for spesialpedagogisk hjelp.
 
-I den sakkyndige vurderingen skal det utredes og tas standpunkt til blant annet:om det foreligger sen utvikling og lærevansker hos barnetrealistiske mål for barnets utvikling og læringom barnets behov kan avhjelpes innenfor det ordinære barnehagetilbudethvilken type hjelp og organisering som vil bidra til barnets utvikling og læringhvilket omfang av spesialpedagogisk hjelp som er nødvendig, og hvilken kompetanse de som gir hjelpen bør ha
+I den sakkyndige vurderingen skal det utredes og tas standpunkt til blant annet:
+
+1. om det foreligger sen utvikling og lærevansker hos barnet
+2. realistiske mål for barnets utvikling og læring
+3. om barnets behov kan avhjelpes innenfor det ordinære barnehagetilbudet
+4. hvilken type hjelp og organisering som vil bidra til barnets utvikling og læring
+5. hvilket omfang av spesialpedagogisk hjelp som er nødvendig, og hvilken kompetanse de som gir hjelpen bør ha
 
 Departementet kan gi forskrift om innholdet i den sakkyndige vurderingen.
 
@@ -504,7 +546,14 @@ Departementet kan gi forskrift om innholdet i den sakkyndige vurderingen.
 
 Kommunen eller fylkeskommunen fatter vedtak om spesialpedagogisk hjelp. Dersom vedtaket avviker fra den sakkyndige vurderingen, skal dette begrunnes i vedtaket.
 
-Vedtaket skal inneholde:hva hjelpen skal gå ut påhvor lenge hjelpen skal varehvilket timeomfang hjelpen skal hahvordan hjelpen skal organisereshvilken kompetanse de som gir hjelpen skal hatilbud om foreldrerådgivning
+Vedtaket skal inneholde:
+
+1. hva hjelpen skal gå ut på
+2. hvor lenge hjelpen skal vare
+3. hvilket timeomfang hjelpen skal ha
+4. hvordan hjelpen skal organiseres
+5. hvilken kompetanse de som gir hjelpen skal ha
+6. tilbud om foreldrerådgivning
 
 Dersom barnet flytter til en annen kommune, skal vedtaket om spesialpedagogisk hjelp gjelde frem til det er fattet nytt vedtak i saken.
 
@@ -582,7 +631,13 @@ Ved mistanke om eller kjennskap til at et barn ikke har et trygt og godt barneha
 
 Når et barn eller foreldrene sier at barnet ikke har et trygt og godt barnehagemiljø, skal barnehagen undersøke saken og så langt det finnes egnede tiltak, sørge for at barnet får et trygt og godt barnehagemiljø. Det samme gjelder når en undersøkelse som barnehagen selv har satt i gang, viser at et barn ikke har et trygt og godt barnehagemiljø. Tiltakene skal velges på grunnlag av en konkret og faglig vurdering.
 
-Barnehagen skal lage en skriftlig plan når det skal gjøres tiltak i en sak. I planen skal det ståhvilke problemer tiltakene skal løsehvilke tiltak barnehagen har planlagtnår tiltakene skal gjennomføreshvem som skal gjennomføre tiltakenenår tiltakene skal evalueres.
+Barnehagen skal lage en skriftlig plan når det skal gjøres tiltak i en sak. I planen skal det stå
+
+1. hvilke problemer tiltakene skal løse
+2. hvilke tiltak barnehagen har planlagt
+3. når tiltakene skal gjennomføres
+4. hvem som skal gjennomføre tiltakene
+5. når tiltakene skal evalueres.
 
 > Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
@@ -616,7 +671,12 @@ Barnehagepersonalet skal i sitt arbeid være oppmerksom på forhold som bør fø
 
 Enhver som utfører tjeneste eller arbeid etter denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
 
-Enhver som utfører tjeneste eller arbeid etter denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Enhver som utfører tjeneste eller arbeid etter denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+4. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Enhver som utfører tjeneste eller arbeid etter denne loven, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 

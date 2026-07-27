@@ -28,7 +28,19 @@ Formålet med denne forskriften er at forvaltningen av hjortevilt ivaretar besta
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med*hjortevilt:* elg, hjort, rådyr og villrein;*tellende areal:* det arealet som skal legges til grunn for beregning av antall fellingstillatelser;*minsteareal:* størrelsen på det tellende arealet som skal legges til grunn for hvert dyr det gis fellingstillatelse på;*vald:* et areal som etter søknad er godkjent av kommunen eller villreinnemnda for jakt på hjortevilt;*jaktfelt:* et mindre geografisk område innenfor et vald som jaktrettshaverne har avgrenset av hensyn til jaktutøvelsen;*bestandsplanområde for elg og/eller hjort:* et område bestående av to eller flere vald som samarbeider om å utarbeide bestandsplan for elg og/eller hjort. Godkjennes av kommunen etter søknad;*villreinområde:* et område avgrenset som den geografiske forvaltningsenheten for villreinbestanden;*bestandsplan:* jaktrettshavernes offentlig godkjente, flerårige plan med mål for bestandsutviklingen, og beskrivelse av den årlige avskytingen;*jaktrettshaver:* enhver som har jaktrett på en eiendom. Retten til å jakte tilhører grunneier hvis ikke annet er bestemt;*Hjorteviltregisteret:* nasjonal databank som ivaretar og tilrettelegger opplysninger for hjorteviltforvaltningen;*sett elg og sett hjort:* jegernes observasjoner av bestemte viltarter i sitt jaktfelt, registrert etter fastsatt instruks.
+I denne forskriften forstås med
+
+1. *hjortevilt:* elg, hjort, rådyr og villrein;
+2. *tellende areal:* det arealet som skal legges til grunn for beregning av antall fellingstillatelser;
+3. *minsteareal:* størrelsen på det tellende arealet som skal legges til grunn for hvert dyr det gis fellingstillatelse på;
+4. *vald:* et areal som etter søknad er godkjent av kommunen eller villreinnemnda for jakt på hjortevilt;
+5. *jaktfelt:* et mindre geografisk område innenfor et vald som jaktrettshaverne har avgrenset av hensyn til jaktutøvelsen;
+6. *bestandsplanområde for elg og/eller hjort:* et område bestående av to eller flere vald som samarbeider om å utarbeide bestandsplan for elg og/eller hjort. Godkjennes av kommunen etter søknad;
+7. *villreinområde:* et område avgrenset som den geografiske forvaltningsenheten for villreinbestanden;
+8. *bestandsplan:* jaktrettshavernes offentlig godkjente, flerårige plan med mål for bestandsutviklingen, og beskrivelse av den årlige avskytingen;
+9. *jaktrettshaver:* enhver som har jaktrett på en eiendom. Retten til å jakte tilhører grunneier hvis ikke annet er bestemt;
+10. *Hjorteviltregisteret:* nasjonal databank som ivaretar og tilrettelegger opplysninger for hjorteviltforvaltningen;
+11. *sett elg og sett hjort:* jegernes observasjoner av bestemte viltarter i sitt jaktfelt, registrert etter fastsatt instruks.
 
 ## § 3. Mål for forvaltning av elg, hjort og rådyr
 
@@ -74,7 +86,14 @@ Jaktrettshaverne skal oppnevne en valdansvarlig representant som opptrer på veg
 
 Søknad om godkjenning av vald for jakt på elg, hjort eller rådyr sendes kommunen innen 1. mai.
 
-Søknaden skal inneholdeopplysning om hvilken art søknaden gjelder for,kart som tydelig viser grensene for valdet,oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,oversikt over tellende areal som søkes godkjent,underskrift fra den eller de som lovlig representerer hver enkelt eiendom, ogvaldansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift.
+Søknaden skal inneholde
+
+1. opplysning om hvilken art søknaden gjelder for,
+2. kart som tydelig viser grensene for valdet,
+3. oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,
+4. oversikt over tellende areal som søkes godkjent,
+5. underskrift fra den eller de som lovlig representerer hver enkelt eiendom, og
+6. valdansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift.
 
 ## § 11. Godkjenning og endring av vald
 
@@ -98,7 +117,14 @@ Bestandsplanområdet skal oppnevne en representant som opptrer på vegne av best
 
 Søknad om godkjenning av bestandsplanområde for jakt på elg eller hjort sendes kommunen innen 1. mai.
 
-Søknaden skal inneholdeopplysning om hvilken art søknaden gjelder for,kart som tydelig viser grensene for bestandsplanområdet,oversikt over alle valdene som inngår i bestandsplanområdet,oversikt over tellende areal for bestandsplanområdet samlet,underskrift fra valdansvarlig representant for alle vald som inngår i bestandsplanområdet, ognavn, postadresse, telefonnummer, e-postadresse og underskrift for representanten for bestandsplanområdet.
+Søknaden skal inneholde
+
+1. opplysning om hvilken art søknaden gjelder for,
+2. kart som tydelig viser grensene for bestandsplanområdet,
+3. oversikt over alle valdene som inngår i bestandsplanområdet,
+4. oversikt over tellende areal for bestandsplanområdet samlet,
+5. underskrift fra valdansvarlig representant for alle vald som inngår i bestandsplanområdet, og
+6. navn, postadresse, telefonnummer, e-postadresse og underskrift for representanten for bestandsplanområdet.
 
 ## § 14. Godkjenning og endring av bestandsplanområde for elg og hjort
 
@@ -140,7 +166,12 @@ Kommunen tildeler årlig fellingstillatelser for elg og hjort til godkjente vald
 
 For vald eller bestandsplanområder med godkjent bestandsplan skal fellingstillatelsene vise antall dyr uten spesifikasjon på alder og kjønn, og avskytningen skal utføres i samsvar med alder og kjønn i godkjent bestandsplan. For bestandsplanområder tildeles fellingstillatelsene hvert enkelt vald.
 
-For vald uten godkjent bestandsplan beregnes antall fellingstillatelser ved å dividere valdets tellende areal med gjeldende minsteareal. Fellingstillatelse skal fordeles på følgende kategorierelg: kalv (½ år), voksne hunndyr (1½ år og eldre), voksne hanndyr (1½ år og eldre),hjort: kalv (½ år), voksne hunndyr (1½ år og eldre), spissbukk (bukk med ugreina gevir), og voksne hanndyr (1½ år og eldre).For begge artene kan kalv felles i stedet for voksne dyr.
+For vald uten godkjent bestandsplan beregnes antall fellingstillatelser ved å dividere valdets tellende areal med gjeldende minsteareal. Fellingstillatelse skal fordeles på følgende kategorier
+
+1. elg: kalv (½ år), voksne hunndyr (1½ år og eldre), voksne hanndyr (1½ år og eldre),
+2. hjort: kalv (½ år), voksne hunndyr (1½ år og eldre), spissbukk (bukk med ugreina gevir), og voksne hanndyr (1½ år og eldre).
+
+For begge artene kan kalv felles i stedet for voksne dyr.
 
 Kommunen skal sende fellingstillatelsen til valdansvarlig representant innen 15. juni.
 
@@ -166,7 +197,19 @@ Kommunen skal sende fellingstillatelsen til valdansvarlig representant innen 15.
 
 Villrein i alle villreinområder med areal i to eller flere kommuner skal forvaltes av ei villreinnemnd. Villreinnemnda skal arbeide for en langsiktig bærekraftig forvaltning av villreinen og dens leveområder i samsvar med [naturmangfoldloven](lov/2009-06-19-100) og [viltressursloven](lov/2025-06-20-102).
 
-Det skal være ni villreinnemnderVillreinnemnda for SetesdalområdetVillreinnemnda for Brattefjell-Vindeggen, Blefjell og Norefjell-ReinsjøfjellVillreinnemnda for HardangerviddaområdetVillreinnemnda for Nordfjella, Fjellheimen og RaudafjellVillreinnemnda for Sogn og FjordaneVillreinnemnda for Reinheimen-BreheimenVillreinnemnda for Rondane og SølnklettenVillreinnemnda for Snøhetta og KnutshøVillreinnemnda for Forollhogna.Tolga kommune fungerer som villreinnemnd for Tolga Østfjell villreinområde.
+Det skal være ni villreinnemnder
+
+1. Villreinnemnda for Setesdalområdet
+2. Villreinnemnda for Brattefjell-Vindeggen, Blefjell og Norefjell-Reinsjøfjell
+3. Villreinnemnda for Hardangerviddaområdet
+4. Villreinnemnda for Nordfjella, Fjellheimen og Raudafjell
+5. Villreinnemnda for Sogn og Fjordane
+6. Villreinnemnda for Reinheimen-Breheimen
+7. Villreinnemnda for Rondane og Sølnkletten
+8. Villreinnemnda for Snøhetta og Knutshø
+9. Villreinnemnda for Forollhogna.
+
+Tolga kommune fungerer som villreinnemnd for Tolga Østfjell villreinområde.
 
 Villreinnemndas medlemmer og personlige varamedlemmer oppnevnes av Landbruksdirektoratet etter forslag om en kvinnelig og en mannlig kandidat fra hver kommune som har villreinareal innenfor den enkelte nemnds virkeområde. Oppnevningsperioden for medlemmene følger valgperioden for kommunevalget. Villreinnemnda velger selv leder og nestleder.
 
@@ -194,7 +237,13 @@ Jaktrettshaverne skal oppnevne en valdansvarlig representant som opptrer på veg
 
 Søknad om godkjenning av vald for jakt på villrein sendes villreinnemnda innen 1. april.
 
-Søknaden skal inneholdekart som tydelig viser grensene for valdet,oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,oversikt over tellende areal som søkes godkjent,underskrift fra den eller de som lovlig representerer hver enkelt eiendom, ogvaldansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift.
+Søknaden skal inneholde
+
+1. kart som tydelig viser grensene for valdet,
+2. oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,
+3. oversikt over tellende areal som søkes godkjent,
+4. underskrift fra den eller de som lovlig representerer hver enkelt eiendom, og
+5. valdansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift.
 
 ## § 26. Godkjenning og endring av vald
 

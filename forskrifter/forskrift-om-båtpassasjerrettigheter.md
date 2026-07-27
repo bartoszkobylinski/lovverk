@@ -26,7 +26,13 @@ eu_basis: []
 
 Tilsynsorgan etter [sjøloven § 418a](lov/1994-06-24-39/§418a) andre ledd skal være Sjøfartsdirektoratet.
 
-Ved rimelig grunn til mistanke om overtredelse av regler som følger av [sjøloven § 418a](lov/1994-06-24-39/§418a), kan Sjøfartsdirektoratet, jf. [luftfartsloven § 10-42](lov/1993-06-11-101/§10-42) andre og fjerde ledd, uten hinder av taushetsplikt, kreve av tjenesteyteren:å få adgang til alle relevante dokumenter, i enhver form, vedrørende overtredelsen,å ta kopi av, eller lage utdrag fra, dokumenter som nevnt i nr. 1,å gjennomføre nødvendige kontroller på stedetat vedkommende oppfyller sine forpliktelser etter reglene som følger av [sjøloven § 418a](lov/1994-06-24-39/§418a) og stanser overtredelsen,at vedkommende bekrefter sin forpliktelse til å stanse overtredelsen, og eventuelt offentliggjør denne forpliktelsen.
+Ved rimelig grunn til mistanke om overtredelse av regler som følger av [sjøloven § 418a](lov/1994-06-24-39/§418a), kan Sjøfartsdirektoratet, jf. [luftfartsloven § 10-42](lov/1993-06-11-101/§10-42) andre og fjerde ledd, uten hinder av taushetsplikt, kreve av tjenesteyteren:
+
+1. å få adgang til alle relevante dokumenter, i enhver form, vedrørende overtredelsen,
+2. å ta kopi av, eller lage utdrag fra, dokumenter som nevnt i nr. 1,
+3. å gjennomføre nødvendige kontroller på stedet
+4. at vedkommende oppfyller sine forpliktelser etter reglene som følger av [sjøloven § 418a](lov/1994-06-24-39/§418a) og stanser overtredelsen,
+5. at vedkommende bekrefter sin forpliktelse til å stanse overtredelsen, og eventuelt offentliggjør denne forpliktelsen.
 
 Om nødvendig kan Sjøfartsdirektoratet kreve bistand fra politiet til å gjennomføre tiltak som nevnt i andre ledd.
 
@@ -38,7 +44,12 @@ Tvangsmulkt kan fastsettes der fristen for å etterkomme pålegg i medhold av [s
 
 Tvangsmulkt skal kun fastsettes der det anses nødvendig for at pålegget skal bli oppfylt.
 
-Tvangsmulkt skal utmåles konkret i det enkelte tilfelle. Ved vurderingen av om tvangsmulkt skal ilegges, og ved utmålingen, skal det særlig legges vekt på:hvilken type pålegg det erhvor alvorlig overtredelsen erforetakets økonomiske stillingkostnadene ved å oppfylle pålegget som er gitt.
+Tvangsmulkt skal utmåles konkret i det enkelte tilfelle. Ved vurderingen av om tvangsmulkt skal ilegges, og ved utmålingen, skal det særlig legges vekt på:
+
+1. hvilken type pålegg det er
+2. hvor alvorlig overtredelsen er
+3. foretakets økonomiske stilling
+4. kostnadene ved å oppfylle pålegget som er gitt.
 
 Tvangsmulkten løper inntil foretaket har dokumentert at pålegget er oppfylt.
 
@@ -48,7 +59,16 @@ Sjøfartsdirektoratet kan, når sterke hensyn tilsier det, redusere eller frafal
 
 ## § 4. Utmåling av overtredelsesgebyr
 
-Overtredelsesgebyr i medhold av [sjøloven § 418c](lov/1994-06-24-39/§418c) første ledd skal utmåles konkret i det enkelte tilfelle. Ved vurderingen skal det særlig legges vekt på:hvor alvorlig overtredelsen er, herunder overtredelsens omfang og virkning,graden av skyld,om overtredelsen kunne vært forebygget,om overtredelsen er begått for å fremme foretakets interesser,om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,om det foreligger gjentakelse,foretakets økonomiske evne, ogallmennpreventive hensyn.
+Overtredelsesgebyr i medhold av [sjøloven § 418c](lov/1994-06-24-39/§418c) første ledd skal utmåles konkret i det enkelte tilfelle. Ved vurderingen skal det særlig legges vekt på:
+
+1. hvor alvorlig overtredelsen er, herunder overtredelsens omfang og virkning,
+2. graden av skyld,
+3. om overtredelsen kunne vært forebygget,
+4. om overtredelsen er begått for å fremme foretakets interesser,
+5. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,
+6. om det foreligger gjentakelse,
+7. foretakets økonomiske evne, og
+8. allmennpreventive hensyn.
 
 ## § 5. Ikrafttredelse
 

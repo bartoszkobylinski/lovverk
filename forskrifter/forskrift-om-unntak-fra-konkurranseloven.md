@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Unntak fra gjennomføringsforbudet i [konkurranseloven § 19](lov/2004-03-05-12/§19) første ledd
 
-[Konkurranseloven § 19](lov/2004-03-05-12/§19) første ledd er ikke til hinder for gjennomføringen av et offentlig overtakelsestilbud eller en serie transaksjoner i verdipapirer som omsettes på et regulert marked, herunder slike som kan konverteres til andre verdipapirer, der det fra forskjellige selgere erverves kontroll etter [konkurranseloven § 17](lov/2004-03-05-12/§17) dersomforetakssammenslutningen meldes umiddelbart til Konkurransetilsynet i samsvar med [konkurranseloven § 18](lov/2004-03-05-12/§18), ogerververen ikke utøver stemmerettighetene knyttet til de aktuelle verdipapirene, eller kun gjør det for å bevare den fulle verdi av sin investering og etter særskilt unntak fra Konkurransetilsynet i medhold av [konkurranseloven § 19](lov/2004-03-05-12/§19) annet ledd.
+[Konkurranseloven § 19](lov/2004-03-05-12/§19) første ledd er ikke til hinder for gjennomføringen av et offentlig overtakelsestilbud eller en serie transaksjoner i verdipapirer som omsettes på et regulert marked, herunder slike som kan konverteres til andre verdipapirer, der det fra forskjellige selgere erverves kontroll etter [konkurranseloven § 17](lov/2004-03-05-12/§17) dersom
+
+1. foretakssammenslutningen meldes umiddelbart til Konkurransetilsynet i samsvar med [konkurranseloven § 18](lov/2004-03-05-12/§18), og
+2. erververen ikke utøver stemmerettighetene knyttet til de aktuelle verdipapirene, eller kun gjør det for å bevare den fulle verdi av sin investering og etter særskilt unntak fra Konkurransetilsynet i medhold av [konkurranseloven § 19](lov/2004-03-05-12/§19) annet ledd.
 
 ## § 2. Ikrafttredelse
 

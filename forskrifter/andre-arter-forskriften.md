@@ -38,7 +38,24 @@ Forskriften gjelder tildeling, endring og opphør av tillatelser til produksjon 
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med:*Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.*Akvakulturtillatelse:* tillatelse gitt i medhold av [akvakulturloven](lov/2005-06-17-79), som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang på en eller flere bestemte lokaliteter. Tillatelsen kan bestå av tilsagn og vedtak om klarering av lokalitet.*Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kilogram eller tonn)*Bløtdyr:* leddsnegler, snegler, muslinger, blekkspruter og sjøtenner.*Ferskvann:* vann med inntil 0,5 promille saltinnhold.*Krepsdyr:* alle krepsdyr, herunder hummer og krabbe.*Lokalitet:* geografisk avgrenset område enten på land eller i vann der det søkes om eller er gitt tillatelse til akvakultur.*Matfisk:* fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonen av settefisk eller stamfisk.*Pigghuder:* sjøliljer, sjøstjerner, slangestjerner, sjøpiggsvin og sjøpølser.*Settefisk:* rogn, yngel eller andre tidlige livsstadier som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon.*Sjøvann:* vann med minst 0,5 promille saltinnhold.*Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.*Vannlevende planter:* Flercellede vannlevende organismer med fotosyntese, herunder makroalger.*Sekkdyr:* dyr tilhørende klasse Ascidiacea.*Tilsagn:* vedtak om tildeling av produksjonskapasitet til akvakultur.*Klarering av lokalitet:* vedtak om tillatelse til bruk av et geografisk område til akvakultur avsagt etter nødvendige tillatelser og godkjennelser og en helhetlig vurdering gjort av tildelingsmyndigheten.
+I denne forskrift forstås med:
+
+1. *Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.
+2. *Akvakulturtillatelse:* tillatelse gitt i medhold av [akvakulturloven](lov/2005-06-17-79), som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang på en eller flere bestemte lokaliteter. Tillatelsen kan bestå av tilsagn og vedtak om klarering av lokalitet.
+3. *Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kilogram eller tonn)
+4. *Bløtdyr:* leddsnegler, snegler, muslinger, blekkspruter og sjøtenner.
+5. *Ferskvann:* vann med inntil 0,5 promille saltinnhold.
+6. *Krepsdyr:* alle krepsdyr, herunder hummer og krabbe.
+7. *Lokalitet:* geografisk avgrenset område enten på land eller i vann der det søkes om eller er gitt tillatelse til akvakultur.
+8. *Matfisk:* fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonen av settefisk eller stamfisk.
+9. *Pigghuder:* sjøliljer, sjøstjerner, slangestjerner, sjøpiggsvin og sjøpølser.
+10. *Settefisk:* rogn, yngel eller andre tidlige livsstadier som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon.
+11. *Sjøvann:* vann med minst 0,5 promille saltinnhold.
+12. *Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.
+13. *Vannlevende planter:* Flercellede vannlevende organismer med fotosyntese, herunder makroalger.
+14. *Sekkdyr:* dyr tilhørende klasse Ascidiacea.
+15. *Tilsagn:* vedtak om tildeling av produksjonskapasitet til akvakultur.
+16. *Klarering av lokalitet:* vedtak om tillatelse til bruk av et geografisk område til akvakultur avsagt etter nødvendige tillatelser og godkjennelser og en helhetlig vurdering gjort av tildelingsmyndigheten.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1727](forskrift/2009-12-18-1727) (i kraft 1 jan 2010), [5 des 2018 nr. 1797](forskrift/2018-12-05-1797) (i kraft 1 juni 2019), [7 feb 2024 nr. 226](forskrift/2024-02-07-226).
 
@@ -48,7 +65,12 @@ I denne forskrift forstås med:*Akvakultur:* produksjon av akvatiske organismer.
 
 Ingen kan drive akvakultur uten tillatelse. Det kan ikke gis tillatelse til akvakultur av arter som ikke forekommer eller tidligere har forekommet naturlig i området.
 
-Tillatelse kan gis til:en bestemt art,en bestemt lokalitet,akvakultur basert på tidlige livsstadier, herunder oppbevaring og klekking av rogn og produksjon med sikte på overføring til andre lokaliteter eller annen type produksjon, ogakvakultur basert på senere livsstadier.
+Tillatelse kan gis til:
+
+1. en bestemt art,
+2. en bestemt lokalitet,
+3. akvakultur basert på tidlige livsstadier, herunder oppbevaring og klekking av rogn og produksjon med sikte på overføring til andre lokaliteter eller annen type produksjon, og
+4. akvakultur basert på senere livsstadier.
 
 Fylkeskommunen kan tildele tillatelser til akvakultur av andre fiskearter enn laks, ørret og regnbueørret samt akvakultur av bløtdyr, krepsdyr, pigghuder, sekkdyr og akvakultur med vannlevende planter, med mindre annet fremgår av den enkelte bestemmelse. Utenfor én nautisk mil utenfor grunnlinjene kan Fiskeridirektoratet etter søknad gi tillatelse etter denne forskriften.
 
@@ -70,7 +92,29 @@ Fiskeridirektoratet kan fastsette begrensninger av antall tillatelser til akvaku
 
 ### § 7. Generelle vilkår for klarering av lokalitet
 
-Lokalitet for akvakultur kan klareres dersomdet er miljømessig forsvarlig. Lokaliteter for torsk skal ikke etableres i gyteområder eller gytefelt for vill torsk, slik disse til enhver tid vises i Fiskeridirektoratets nettbaserte kartverktøy;det er foretatt en avveining av arealinteresser, med særlig vekt påsøkers behov for areal til planlagt akvakultur,alternativ bruk av området til annen akvakultur,annen bruk av området, ogverneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltetdet er gitt tillatelser som kreves etter[lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv.,[lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,[lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70),[lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann, og[lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd; ogdet ikke er i strid medvedtatte arealplaner etter plan- og bygningsloven,vedtatte vernetiltak etter kapittel V i [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold, ellervedtatte vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.Selv om klarering kan være i strid med bokstav d) kan klarering gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet.
+Lokalitet for akvakultur kan klareres dersom
+
+1. det er miljømessig forsvarlig. Lokaliteter for torsk skal ikke etableres i gyteområder eller gytefelt for vill torsk, slik disse til enhver tid vises i Fiskeridirektoratets nettbaserte kartverktøy;
+2. det er foretatt en avveining av arealinteresser, med særlig vekt på
+
+   1. søkers behov for areal til planlagt akvakultur,
+   2. alternativ bruk av området til annen akvakultur,
+   3. annen bruk av området, og
+   4. verneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet
+3. det er gitt tillatelser som kreves etter
+
+   1. [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv.,
+   2. [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,
+   3. [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70),
+   4. [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann, og
+   5. [lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd; og
+4. det ikke er i strid med
+
+   1. vedtatte arealplaner etter plan- og bygningsloven,
+   2. vedtatte vernetiltak etter kapittel V i [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold, eller
+   3. vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.
+
+Selv om klarering kan være i strid med bokstav d) kan klarering gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet.
 
 Klarering kan gis for flere arter på samme lokalitet.
 
@@ -102,7 +146,11 @@ Søknad om akvakultur skal inneholde opplysninger om strømmålinger på lokalit
 
 ### § 10a. Særlige krav til sikkerhetsstillelse
 
-Søknad om tillatelse til akvakultur av blåskjell, sekkdyr og akvakultur med vannlevende planter med installasjon i sjø, skal inneholde dokumentasjon som viser at søker harinnbetalt et depositum på kr 3000 per omsøkt dekar til en sperret kontoen forsikring som gir tilsvarende dekning som i bokstav a), ellerstilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
+Søknad om tillatelse til akvakultur av blåskjell, sekkdyr og akvakultur med vannlevende planter med installasjon i sjø, skal inneholde dokumentasjon som viser at søker har
+
+1. innbetalt et depositum på kr 3000 per omsøkt dekar til en sperret konto
+2. en forsikring som gir tilsvarende dekning som i bokstav a), eller
+3. stilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
 
 Før tillatelse utstedes må søker dokumentere et depositum, et forsikringsbevis eller annen likeverdig sikkerhet, i samsvar med det antall dekar tillatelsen skal lyde på.
 
@@ -116,7 +164,15 @@ Depositumet, forsikringen eller annen likeverdig sikkerhet skal være sikkerhet 
 
 Søknaden om klarering av lokalitet for akvakultur av fisk i sjø skal inneholde en eller flere rapporter fra en forundersøkelse som er utført i løpet av de siste tre år før søknadsdato.
 
-Forundersøkelsen skal gjennomføres i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm, og skal minimum omfatte:utarbeidelse av kartdokumentasjonpartikkelanalyse for å beskrive bunnsubstratetstrømmålingerhydrografimålinger i hele vannsøylen på den dypeste stasjon i overgangssonen og i eventuelle dypområder med risiko for oksygenmangel utenfor overgangssonenundersøkelse av kjemiske og sensoriske parametere etter metodikken for B-undersøkelsebunndyrsundersøkelser etter metodikken for C-undersøkelse på minst tre stasjoneranalyse av sedimentprøver fra minst to av stasjonene som nevnt i bokstav f for å avklare om og i hvilken grad sedimentene inneholder stoffer som det er grunn til å tro vil bli sluppet ut på lokaliteten og som enten er nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C eller D nr. 2 eller er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
+Forundersøkelsen skal gjennomføres i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm, og skal minimum omfatte:
+
+1. utarbeidelse av kartdokumentasjon
+2. partikkelanalyse for å beskrive bunnsubstratet
+3. strømmålinger
+4. hydrografimålinger i hele vannsøylen på den dypeste stasjon i overgangssonen og i eventuelle dypområder med risiko for oksygenmangel utenfor overgangssonen
+5. undersøkelse av kjemiske og sensoriske parametere etter metodikken for B-undersøkelse
+6. bunndyrsundersøkelser etter metodikken for C-undersøkelse på minst tre stasjoner
+7. analyse av sedimentprøver fra minst to av stasjonene som nevnt i bokstav f for å avklare om og i hvilken grad sedimentene inneholder stoffer som det er grunn til å tro vil bli sluppet ut på lokaliteten og som enten er nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C eller D nr. 2 eller er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
 
 Undersøkelser som nevnt i andre ledd bokstav a, b, d og f skal i tillegg gjennomføres på en referansestasjon minimum 1 km fra omsøkt.
 
@@ -124,7 +180,11 @@ Der undersøkelser etter andre ledd bokstav b, e, f og g vanskelig lar seg gjenn
 
 Forundersøkelsen skal utføres av organer som kan dokumentere relevant faglig kompetanse og er uavhengig oppdragsgiver. Bunndyrsundersøkelser etter andre ledd bokstav f og tredje ledd og analyse av sedimentprøver etter andre ledd bokstav g skal utføres av organer som er akkreditert for oppgaven.
 
-Rapporten eller rapportene som nevnt i første ledd skal inneholdeen sammenfatning av resultateneen begrunnet vurdering eller modellering av grensene for anleggssone og overgangssone og forslag til plassering av prøvestasjoner for miljøovervåking, inkludert en referansestasjon, ogalle originaldata.
+Rapporten eller rapportene som nevnt i første ledd skal inneholde
+
+1. en sammenfatning av resultatene
+2. en begrunnet vurdering eller modellering av grensene for anleggssone og overgangssone og forslag til plassering av prøvestasjoner for miljøovervåking, inkludert en referansestasjon, og
+3. alle originaldata.
 
 Tidligere utført forundersøkelse eller miljøovervåking kan danne tilstrekkelig kunnskapsgrunnlag ved søknad om klarering av lokalitet.
 
@@ -194,7 +254,11 @@ Fiskeridirektoratet kan i særlige tilfelle dispensere fra bestemmelsene i denne
 
 Denne forskrift trer i kraft 1. januar 2005.
 
-Fra samme tid oppheves følgende forskrifter:[forskrift 11. juli 1990 nr. 547](forskrift/1990-07-11-547) om oppdrett av skalldyr[forskrift 11. juli 1990 nr. 548](forskrift/1990-07-11-548) om oppdrett av andre fiskearter enn laks, ørret og regnbueørret i saltvann[forskrift 20. desember 1985 nr. 2272](forskrift/1985-12-20-2272) om oppdrett av fisk på ferskvannslokalitet.
+Fra samme tid oppheves følgende forskrifter:
+
+- [forskrift 11. juli 1990 nr. 547](forskrift/1990-07-11-547) om oppdrett av skalldyr
+- [forskrift 11. juli 1990 nr. 548](forskrift/1990-07-11-548) om oppdrett av andre fiskearter enn laks, ørret og regnbueørret i saltvann
+- [forskrift 20. desember 1985 nr. 2272](forskrift/1985-12-20-2272) om oppdrett av fisk på ferskvannslokalitet.
 
 > Endret ved [forskrift 5 des 2018 nr. 1797](forskrift/2018-12-05-1797) (i kraft 1 juni 2019, tidligere § 22).
 

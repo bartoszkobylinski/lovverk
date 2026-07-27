@@ -15,7 +15,7 @@ xml_hash: "1b4f95d5a0b18726f48ea51d288bf388375b468f4934bc90be8a03ad170f40b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,22 @@ Til fremstilling av produktene som er definert i vedlegg I del I, kan det bare b
 
 ## § 3. Krav til merking
 
-[Forskrift 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler (merkeforskriften) gjelder for produktene som er definert i vedlegg I på følgende betingelser:Varebetegnelsene i vedlegg I kan bare brukes på produktene som er definert der og skal ved omsetning brukes som varebetegnelse på produktene.Dersom et produkt er fremstilt av ett enkelt fruktslag, skal navnet på frukten angis i varebetegnelsen i stedet for ordet «frukt».Dersom et produkt er fremstilt av to eller flere fruktslag, skal varebetegnelsen bestå av en opplisting av de fruktslagene som er brukt i synkende størrelsesorden, beregnet etter mengden av fruktjuice eller fruktpuré, jf. ingredienslisten. Dette gjelder likevel ikke når det er brukt sitronjuice og eller limejuice i samsvar med de vilkårene som fremgår av vedlegg I, del II, punkt 2. Dersom et produkt er fremstilt av tre eller flere fruktslag, kan opplistingen av fruktslagene som er brukt erstattes med opplysningen «flere frukter» eller en tilsvarende opplysning eller med opplysning om antallet fruktslag som er brukt.Ved tilsetning av de strengt nødvendige ingrediensene for å tilbakeføre produktene som er definert i vedlegg I, del I til opprinnelig tilstand, kreves det ikke at disse ingrediensene angis i ingredienslisten. Tilsetning av ekstra fruktkjøtt eller celler til fruktjuice, jf. vedlegg II, skal angis i merkingen.For blandinger av fruktjuice og fruktjuice fremstilt fra konsentrat og for fruktnektar som helt eller delvis er fremstilt fra ett eller flere konsentrerte produkter, skal merkingen inneholde angivelsen «fra konsentrat» eller «delvis fra konsentrat». Denne opplysningen skal stå i umiddelbar nærhet til varebetegnelsen, være iøynefallende og skrives med klart synlige bokstaver.Fruktnektar skal merkes med minsteinnholdet av fruktjuice, fruktpuré eller en blanding av disse bestanddelene ved bruk av angivelsen: «fruktinnhold: minst ... %». Denne opplysningen skal gis i det samme synsfeltet som varebetegnelsen.
+[Forskrift 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler (merkeforskriften) gjelder for produktene som er definert i vedlegg I på følgende betingelser:
+
+1. Varebetegnelsene i vedlegg I kan bare brukes på produktene som er definert der og skal ved omsetning brukes som varebetegnelse på produktene.
+2. Dersom et produkt er fremstilt av ett enkelt fruktslag, skal navnet på frukten angis i varebetegnelsen i stedet for ordet «frukt».
+3. Dersom et produkt er fremstilt av to eller flere fruktslag, skal varebetegnelsen bestå av en opplisting av de fruktslagene som er brukt i synkende størrelsesorden, beregnet etter mengden av fruktjuice eller fruktpuré, jf. ingredienslisten. Dette gjelder likevel ikke når det er brukt sitronjuice og eller limejuice i samsvar med de vilkårene som fremgår av vedlegg I, del II, punkt 2. Dersom et produkt er fremstilt av tre eller flere fruktslag, kan opplistingen av fruktslagene som er brukt erstattes med opplysningen «flere frukter» eller en tilsvarende opplysning eller med opplysning om antallet fruktslag som er brukt.
+4. Ved tilsetning av de strengt nødvendige ingrediensene for å tilbakeføre produktene som er definert i vedlegg I, del I til opprinnelig tilstand, kreves det ikke at disse ingrediensene angis i ingredienslisten. Tilsetning av ekstra fruktkjøtt eller celler til fruktjuice, jf. vedlegg II, skal angis i merkingen.
+5. For blandinger av fruktjuice og fruktjuice fremstilt fra konsentrat og for fruktnektar som helt eller delvis er fremstilt fra ett eller flere konsentrerte produkter, skal merkingen inneholde angivelsen «fra konsentrat» eller «delvis fra konsentrat». Denne opplysningen skal stå i umiddelbar nærhet til varebetegnelsen, være iøynefallende og skrives med klart synlige bokstaver.
+6. Fruktnektar skal merkes med minsteinnholdet av fruktjuice, fruktpuré eller en blanding av disse bestanddelene ved bruk av angivelsen: «fruktinnhold: minst ... %». Denne opplysningen skal gis i det samme synsfeltet som varebetegnelsen.
 
 ## § 4. Krav til merking av konsentrert fruktjuice som ikke er bestemt til den endelige forbruker
 
-I merkingen av konsentrert fruktjuice som nevnt i vedlegg I, del I, punkt 2, som ikke er bestemt til den endelige forbruker, skal det opplyses om det er tilsatt sitronsaft, limesaft eller surhetsregulerende midler som er tillatt etter [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333), og i så fall hvor mye. Opplysningen skal gis på ett av følgende steder:på emballasjen,på en etikett på emballasjen elleri et følgedokument.
+I merkingen av konsentrert fruktjuice som nevnt i vedlegg I, del I, punkt 2, som ikke er bestemt til den endelige forbruker, skal det opplyses om det er tilsatt sitronsaft, limesaft eller surhetsregulerende midler som er tillatt etter [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333), og i så fall hvor mye. Opplysningen skal gis på ett av følgende steder:
+
+1. på emballasjen,
+2. på en etikett på emballasjen eller
+3. i et følgedokument.
 
 ## § 5. Tilsyn og vedtak
 
@@ -100,7 +111,10 @@ Aroma, fruktkjøtt og celler som ved hjelp av egnede fysiske prosesser er fremst
 
 3\. *Vannekstrahert fruktjuice*
 
-Produkt fremstilt ved vannekstraksjon av:kjøttfull hel frukt, hvis juice ikke kan ekstraheres ved fysiske prosesser ellerdehydrert hel frukt.
+Produkt fremstilt ved vannekstraksjon av:
+
+1. kjøttfull hel frukt, hvis juice ikke kan ekstraheres ved fysiske prosesser eller
+2. dehydrert hel frukt.
 
 4\. *Dehydrert fruktjuice/fruktjuice i pulverform*
 
@@ -108,7 +122,10 @@ Produkt fremstilt av juice av en eller flere fruktslag ved fysisk fjerning av ne
 
 5\. *Fruktnektar*
 
-Gjærbart, men ugjæret produkt, somer fremstilt ved tilsetning av vann med eller uten tilsetning av sukker og eller honning til produktene som er definert i punktene 1–4, til fruktpuré og eller til konsentrert fruktpuré og eller til en blanding av disse produktene, og somoppfyller kravene i vedlegg III.
+Gjærbart, men ugjæret produkt, som
+
+1. er fremstilt ved tilsetning av vann med eller uten tilsetning av sukker og eller honning til produktene som er definert i punktene 1–4, til fruktpuré og eller til konsentrert fruktpuré og eller til en blanding av disse produktene, og som
+2. oppfyller kravene i vedlegg III.
 
 Dersom fruktnektar er fremstilt uten tilsatt sukker eller med redusert energiinnhold, kan sukkeret helt eller delvis erstattes med søtstoffer i samsvar med [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333).
 
@@ -130,13 +147,36 @@ Minimums Brix-verdiene som er fastsatt i vedlegg IV for fruktjuice fra konsentra
 
 2\. *Tillatte ingredienser*
 
-Bare følgende ingredienser kan tilsettes til produktene som er definert i del I:Vitaminer og mineraler som er godkjent i [forskrift 26. februar 2010 nr. 247](forskrift/2010-02-26-247) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler, jf. forordning [(EF) nr. 1925/2006](eu/32006r1925).Tilsetningsstoffer til næringsmidler som er godkjent i [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333).
+Bare følgende ingredienser kan tilsettes til produktene som er definert i del I:
 
-I tillegg kan det til de produktene som er nevnt nedenfor tilsettes følgende ingredienser:Til fruktjuice, fruktjuice fra konsentrat og konsentrert fruktjuice: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler.Til druejuice: tilbakeførte salter av vinsyre.Til fruktnektar: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler, sukker og eller honning i en mengde som tilsvarer opp til 20 % av det ferdige produktets samlede vekt og eller søtstoffer. En påstand om at det ikke er tilsatt sukker til fruktnektar, og påstander som må antas å ha samme betydning for forbrukeren, kan bare brukes hvis produktet ikke inneholder tilsatte mono- eller disakkarider eller andre næringsmidler som brukes på grunn av sine søtende egenskaper, herunder søtstoffer jf. [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333). Dersom fruktnektaren har et naturlig innhold av sukker, bør også følgende opplysning angis i merkingen: «med et naturlig innhold av sukker».For å korrigere den syrlige smaken, kan det til produktene som er definert i del I, punktene 1–5, tilsettes sitronjuice og eller limejuice og eller konsentrert sitronjuice og eller limejuice i en mengde på inntil 3 g pr. liter juice, omregnet til vannfri sitronsyre.Til tomatjuice og tomatjuice fra konsentrat: salt, krydder og krydderurter.
+1. Vitaminer og mineraler som er godkjent i [forskrift 26. februar 2010 nr. 247](forskrift/2010-02-26-247) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler, jf. forordning [(EF) nr. 1925/2006](eu/32006r1925).
+2. Tilsetningsstoffer til næringsmidler som er godkjent i [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333).
+
+I tillegg kan det til de produktene som er nevnt nedenfor tilsettes følgende ingredienser:
+
+1. Til fruktjuice, fruktjuice fra konsentrat og konsentrert fruktjuice: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler.
+2. Til druejuice: tilbakeførte salter av vinsyre.
+3. Til fruktnektar: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler, sukker og eller honning i en mengde som tilsvarer opp til 20 % av det ferdige produktets samlede vekt og eller søtstoffer. En påstand om at det ikke er tilsatt sukker til fruktnektar, og påstander som må antas å ha samme betydning for forbrukeren, kan bare brukes hvis produktet ikke inneholder tilsatte mono- eller disakkarider eller andre næringsmidler som brukes på grunn av sine søtende egenskaper, herunder søtstoffer jf. [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333). Dersom fruktnektaren har et naturlig innhold av sukker, bør også følgende opplysning angis i merkingen: «med et naturlig innhold av sukker».
+4. For å korrigere den syrlige smaken, kan det til produktene som er definert i del I, punktene 1–5, tilsettes sitronjuice og eller limejuice og eller konsentrert sitronjuice og eller limejuice i en mengde på inntil 3 g pr. liter juice, omregnet til vannfri sitronsyre.
+5. Til tomatjuice og tomatjuice fra konsentrat: salt, krydder og krydderurter.
 
 3\. *Tillatte behandlinger og stoffer*
 
-Bare følgende behandlinger kan brukes på, og bare følgende stoffer kan tilsettes produktene som er definert i del I:Mekaniske ekstraksjonsprosesser.Vanlige fysiske prosesser og vannekstraksjonsprosesser («in line»-prosess) av den spiselige delen av andre frukter enn druer, for fremstilling av konsentrert fruktjuice som oppfyller kravene i del I, punkt 1.Når det gjelder druejuice, der druene er svovlet ved hjelp av svoveldioksid, er avsvovling ved hjelp av fysiske prosesser tillatt forutsatt at det samlede SO2 -innholdet i det ferdige produkt ikke overstiger 10 mg/l.Enzympreparater: pektinase (til nedbrytning av pektin), protease (til nedbrytning av proteiner) og amylase (til nedbrytning av stivelse), som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer, jf. forordning [(EF) nr. 1332/2008](eu/32008r1332).Spiselig gelatin.Tannin.Silika sol.Trekull.Nitrogen.Bentonit som absorberende leire.Kjemisk inaktive filtreringshjelpemidler og fellingsmidler (herunder perlitt, vasket kiselgur, cellulose, uløselig polyamid, polyvinylpolypyrrolidon og polystyren), som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935).Kjemisk inaktive absorpsjonshjelpemidler, som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935), og som brukes for å redusere innholdet av limonoid og naringin i sitrusjuice uten i vesentlig grad å påvirke innholdet av limonoidglucosider, syre, sukker (herunder oligosaccharider) og mineraler.Planteprotein fra hvete, erter eller poteter for rensing.
+Bare følgende behandlinger kan brukes på, og bare følgende stoffer kan tilsettes produktene som er definert i del I:
+
+1. Mekaniske ekstraksjonsprosesser.
+2. Vanlige fysiske prosesser og vannekstraksjonsprosesser («in line»-prosess) av den spiselige delen av andre frukter enn druer, for fremstilling av konsentrert fruktjuice som oppfyller kravene i del I, punkt 1.
+3. Når det gjelder druejuice, der druene er svovlet ved hjelp av svoveldioksid, er avsvovling ved hjelp av fysiske prosesser tillatt forutsatt at det samlede SO2 -innholdet i det ferdige produkt ikke overstiger 10 mg/l.
+4. Enzympreparater: pektinase (til nedbrytning av pektin), protease (til nedbrytning av proteiner) og amylase (til nedbrytning av stivelse), som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer, jf. forordning [(EF) nr. 1332/2008](eu/32008r1332).
+5. Spiselig gelatin.
+6. Tannin.
+7. Silika sol.
+8. Trekull.
+9. Nitrogen.
+10. Bentonit som absorberende leire.
+11. Kjemisk inaktive filtreringshjelpemidler og fellingsmidler (herunder perlitt, vasket kiselgur, cellulose, uløselig polyamid, polyvinylpolypyrrolidon og polystyren), som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935).
+12. Kjemisk inaktive absorpsjonshjelpemidler, som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935), og som brukes for å redusere innholdet av limonoid og naringin i sitrusjuice uten i vesentlig grad å påvirke innholdet av limonoidglucosider, syre, sukker (herunder oligosaccharider) og mineraler.
+13. Planteprotein fra hvete, erter eller poteter for rensing.
 
 > Endret ved [forskrifter 19 des 2013 nr. 1603](forskrift/2013-12-19-1603), [16 mars 2016 nr. 259](forskrift/2016-03-16-259).
 

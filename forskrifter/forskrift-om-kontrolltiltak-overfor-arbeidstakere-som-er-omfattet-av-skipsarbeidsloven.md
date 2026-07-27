@@ -46,7 +46,11 @@ Ved kameraovervåking etter forskriften her skal rederiet som behandlingsansvarl
 
 ### § 5. Utlevering av opptak gjort ved kameraovervåking
 
-Opptak gjort ved kameraovervåking etter forskriften her, kan bare utleveres til andre enn rederiet dersomden som er avbildet samtykker,utleveringen skjer til politiet ved etterforskning av straffbare handlinger eller ulykker, og lovbestemt taushetsplikt ikke er til hinder for utleveringen ellerdet ellers følger av lov at utlevering kan skje.
+Opptak gjort ved kameraovervåking etter forskriften her, kan bare utleveres til andre enn rederiet dersom
+
+1. den som er avbildet samtykker,
+2. utleveringen skjer til politiet ved etterforskning av straffbare handlinger eller ulykker, og lovbestemt taushetsplikt ikke er til hinder for utleveringen eller
+3. det ellers følger av lov at utlevering kan skje.
 
 ### § 6. Sletting av opptak gjort ved kameraovervåking
 
@@ -54,7 +58,10 @@ Opptak gjort ved kameraovervåking skal slettes senest én uke etter at opptaken
 
 Opptak gjort på utsalgssteder som benytter betalingsinstrument eller identitetsbevis, eller i lokaler hvor post- eller banktjenester leveres, skal slettes senest tre måneder etter at opptakene er gjort.
 
-Sletteplikten etter første og andre ledd gjelder ikkeopptak som kan være av betydning for rikets eller dets alliertes sikkerhet, forholdet til fremmede makter og andre vitale nasjonale sikkerhetsinteresser, ellerhvor den som er avbildet samtykker i at opptakene oppbevares lenger.
+Sletteplikten etter første og andre ledd gjelder ikke
+
+1. opptak som kan være av betydning for rikets eller dets alliertes sikkerhet, forholdet til fremmede makter og andre vitale nasjonale sikkerhetsinteresser, eller
+2. hvor den som er avbildet samtykker i at opptakene oppbevares lenger.
 
 Dersom det foreligger et særlig behov for oppbevaring i lengre tid enn i første og andre ledd, kan Datatilsynet gjøre unntak fra disse bestemmelsene.
 
@@ -66,7 +73,10 @@ Dispensasjoner gitt av Datatilsynet etter [forskrift 15. desember 2000 nr. 1265]
 
 ### § 8. Kapitlets virkeområde
 
-Kapitlet her gjelder arbeidsgivers rett til innsyn i opplysninger lagret ie-postkasse som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidetarbeidstakers personlige områder i datanettverk eller annet elektronisk utstyr som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet.
+Kapitlet her gjelder arbeidsgivers rett til innsyn i opplysninger lagret i
+
+1. e-postkasse som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet
+2. arbeidstakers personlige områder i datanettverk eller annet elektronisk utstyr som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet.
 
 Bestemmelsene gjelder tilsvarende for innsyn i opplysninger som er slettet fra områder som nevnt i første ledd som finnes på sikkerhetskopier eller tilsvarende.
 
@@ -78,9 +88,15 @@ Det er ikke adgang til å fastsette instruks eller inngå avtale som fraviker be
 
 ### § 10. Vilkår for innsyn i e-post mv.
 
-Arbeidsgiver har bare rett til innsyn i opplysninger som er lagret på områder nevnt i [§ 8](forskrift/2019-01-25-53/§8)når det er nødvendig for å ivareta den daglige driften eller andre berettigede interesser ved virksomheten, ellerved begrunnet mistanke om at arbeidstakers bruk av e-postkasse eller annet elektronisk utstyr medfører grovt brudd på de plikter som følger av arbeidsforholdet eller kan gi grunnlag for oppsigelse eller avskjed.
+Arbeidsgiver har bare rett til innsyn i opplysninger som er lagret på områder nevnt i [§ 8](forskrift/2019-01-25-53/§8)
 
-Arbeidsgiver har ikke rett til å overvåke arbeidstakers bruk av elektronisk utstyr, herunder bruk av Internett, med mindre formålet med overvåkingen erå administrere virksomhetens datanettverk ellerå avdekke eller oppklare sikkerhetsbrudd i nettverket.
+1. når det er nødvendig for å ivareta den daglige driften eller andre berettigede interesser ved virksomheten, eller
+2. ved begrunnet mistanke om at arbeidstakers bruk av e-postkasse eller annet elektronisk utstyr medfører grovt brudd på de plikter som følger av arbeidsforholdet eller kan gi grunnlag for oppsigelse eller avskjed.
+
+Arbeidsgiver har ikke rett til å overvåke arbeidstakers bruk av elektronisk utstyr, herunder bruk av Internett, med mindre formålet med overvåkingen er
+
+1. å administrere virksomhetens datanettverk eller
+2. å avdekke eller oppklare sikkerhetsbrudd i nettverket.
 
 ### § 11. Prosedyrer ved innsyn
 

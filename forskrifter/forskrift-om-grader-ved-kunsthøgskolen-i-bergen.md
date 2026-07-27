@@ -15,7 +15,7 @@ xml_hash: "59e070623b55ba8f023b7f7ca013698608ef0db5a15343217640266ab1e3454d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,13 +66,23 @@ Styret vedtar med hjemmel i [lov om universiteter og høgskoler § 46](lov/1995-
 
 ### 4. Studieplan
 
-Studieplanen skal inneholde:Målsetning for studiet;Studiestruktur og innhold med eventuelle obligatoriske deler;Arbeids- og undervisningsformer;Vurderingskriterier og prosedyrer, jf. [pkt. 7](forskrift/2003-06-25-1236/kap7) og 8;Opptakskrav.
+Studieplanen skal inneholde:
+
+- Målsetning for studiet;
+- Studiestruktur og innhold med eventuelle obligatoriske deler;
+- Arbeids- og undervisningsformer;
+- Vurderingskriterier og prosedyrer, jf. [pkt. 7](forskrift/2003-06-25-1236/kap7) og 8;
+- Opptakskrav.
 
 Studieplanen godkjennes av styret med hjemmel i [lov om universiteter og høgskoler § 46](lov/1995-05-12-22/§46) nr. 5.
 
 ### 5. Studiekalender
 
-Studiekalenderen utarbeides foran hvert studieår for å gjennomføre intensjonene i studieplanen. Den skal inneholde en konkret oversikt over dette studieårets tilbud av undervisning og andre faglige aktiviteter, i form av kurser, prosjekter, seminarer etc. Studiekalenderen inneholder elementer så som:Felleskalenderen for hele institusjonen;Felleselementer på avdelingsnivå;Fagspesifikke deler.
+Studiekalenderen utarbeides foran hvert studieår for å gjennomføre intensjonene i studieplanen. Den skal inneholde en konkret oversikt over dette studieårets tilbud av undervisning og andre faglige aktiviteter, i form av kurser, prosjekter, seminarer etc. Studiekalenderen inneholder elementer så som:
+
+- Felleskalenderen for hele institusjonen;
+- Felleselementer på avdelingsnivå;
+- Fagspesifikke deler.
 
 Felleskalenderen fastsettes av rektor. Den øvrige studiekalenderen utarbeides av dekanus og godkjennes av rektor.
 
@@ -148,7 +158,12 @@ Hvis studenten ikke får godkjent resultat etter tredje gangs vurdering iht. [pk
 
 ### 10. Klage
 
-En student kan klage dersom:Studenten ikke får godkjent den individuelle utdanningsplanen/den videreutviklede prosjektbeskrivelsen, jf. [pkt](forskrift/2003-06-25-1236/kap6). 6;Studenten ikke blir tatt opp til vurdering av gjennomført semester/studiedel pga. manglende gjennomføring av obligatoriske deler av studiet, jf. [pkt](forskrift/2003-06-25-1236/kap7). 7;Vurderingen ved slutten av et semester/hovedelement konkluderer med at studenten ikke har vist tilstrekkelig faglig fremgang til å ha bestått arbeidsperioden, jf. [pkt](forskrift/2003-06-25-1236/kap7). 7;Studenten ikke består eksamen ved slutten av et studieprogram, jf. [pkt](forskrift/2003-06-25-1236/kap8). 8.
+En student kan klage dersom:
+
+- Studenten ikke får godkjent den individuelle utdanningsplanen/den videreutviklede prosjektbeskrivelsen, jf. [pkt](forskrift/2003-06-25-1236/kap6). 6;
+- Studenten ikke blir tatt opp til vurdering av gjennomført semester/studiedel pga. manglende gjennomføring av obligatoriske deler av studiet, jf. [pkt](forskrift/2003-06-25-1236/kap7). 7;
+- Vurderingen ved slutten av et semester/hovedelement konkluderer med at studenten ikke har vist tilstrekkelig faglig fremgang til å ha bestått arbeidsperioden, jf. [pkt](forskrift/2003-06-25-1236/kap7). 7;
+- Studenten ikke består eksamen ved slutten av et studieprogram, jf. [pkt](forskrift/2003-06-25-1236/kap8). 8.
 
 Ved klage etter første, andre og tredje strekpunkt vurderes klagen av dekanus, hovedveileder og en annen faglig tilsatt oppnevnt av rektor.
 

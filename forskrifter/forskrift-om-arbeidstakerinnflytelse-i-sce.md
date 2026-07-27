@@ -15,7 +15,7 @@ xml_hash: "0ba8af1c3134ff28fa74515f165f95ca174601758a501604f078902aed4672c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,22 @@ Denne forskriften er gitt for å sikre arbeidstakernes rett til informasjon, dr�
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*SCE-foretak;* et foretak stiftet i henhold til lov om europeiske samvirkeforetak ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10c (rådsforordning [(EF) nr. 1435/2003](eu/32003r1435*)) (SCE-loven) som implementerer forordning [(EF) nr. 1435/2003](eu/32003r1435*) om statuttene for det europeiske samvirkeforetak.*deltakende rettssubjekt;* de fysiske personer, foretak eller rettssubjekter som deltar direkte i stiftelsen av et SCE-foretak.*datterforetak;* et foretak som SCE-foretaket utøver en dominerende innflytelse over.*filial;* en del av et foretak som utøver en økonomisk aktivitet i en annen EU/EØS-stat enn der foretaket har sitt forretningskontor.*berørt datterforetak eller filial;* et deltakende rettssubjekts/SCE-foretaks datterforetak eller filial som vil bli datterforetak eller filial til SCE-foretaket når dette stiftes.*innflytelse;* enhver ordning, herunder informasjon, drøfting og representasjon, som arbeidstakernes representanter kan bruke for å påvirke de beslutningene som treffes i foretaket.*informasjon;* informasjon til representasjonsorganet eller arbeidstakernes representanter fra SCE-foretaket om spørsmål som angår SCE-foretaket og ethvert datterforetak eller filial som ligger i en annen medlemsstat. Det samme gjelder for spørsmål som går utover de beslutningsdyktige organers fullmakt i en enkelt medlemsstat. Informasjonen skal gis på et tidspunkt, på en måte og med et innhold som gjør det mulig for arbeidstakernes representanter å foreta en forsvarlig vurdering av de mulige virkningene, og eventuelt forberede drøftelse med SCE-foretaket.*drøfting;* dialog og utveksling av synspunkter mellom representasjonsorganet eller arbeidstakernes representanter og SCE-foretaket. Drøftingen skal skje på et tidspunkt, på en måte og med et innhold som gjør det mulig for arbeidstakernes representanter, på bakgrunn av den mottatte informasjonen, å gi uttrykk for sin mening slik at synspunktene kan tas i betraktning i beslutningsprosessen i SCE-foretaket.*representasjon;* den innflytelse det organet som representerer arbeidstakerne eller deres representanter har på driften av et foretak gjennom:å benytte retten til å velge eller utpeke noen av medlemmene i foretakets kontroll- eller administrasjonsorgan,ellerå benytte retten til å anbefale og/eller gå imot utpekingen av noen eller alle medlemmene i foretakets kontroll- eller administrasjonsorgan.
+I denne forskriften menes med:
+
+1. *SCE-foretak;* et foretak stiftet i henhold til lov om europeiske samvirkeforetak ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10c (rådsforordning [(EF) nr. 1435/2003](eu/32003r1435*)) (SCE-loven) som implementerer forordning [(EF) nr. 1435/2003](eu/32003r1435*) om statuttene for det europeiske samvirkeforetak.
+2. *deltakende rettssubjekt;* de fysiske personer, foretak eller rettssubjekter som deltar direkte i stiftelsen av et SCE-foretak.
+3. *datterforetak;* et foretak som SCE-foretaket utøver en dominerende innflytelse over.
+4. *filial;* en del av et foretak som utøver en økonomisk aktivitet i en annen EU/EØS-stat enn der foretaket har sitt forretningskontor.
+5. *berørt datterforetak eller filial;* et deltakende rettssubjekts/SCE-foretaks datterforetak eller filial som vil bli datterforetak eller filial til SCE-foretaket når dette stiftes.
+6. *innflytelse;* enhver ordning, herunder informasjon, drøfting og representasjon, som arbeidstakernes representanter kan bruke for å påvirke de beslutningene som treffes i foretaket.
+7. *informasjon;* informasjon til representasjonsorganet eller arbeidstakernes representanter fra SCE-foretaket om spørsmål som angår SCE-foretaket og ethvert datterforetak eller filial som ligger i en annen medlemsstat. Det samme gjelder for spørsmål som går utover de beslutningsdyktige organers fullmakt i en enkelt medlemsstat. Informasjonen skal gis på et tidspunkt, på en måte og med et innhold som gjør det mulig for arbeidstakernes representanter å foreta en forsvarlig vurdering av de mulige virkningene, og eventuelt forberede drøftelse med SCE-foretaket.
+8. *drøfting;* dialog og utveksling av synspunkter mellom representasjonsorganet eller arbeidstakernes representanter og SCE-foretaket. Drøftingen skal skje på et tidspunkt, på en måte og med et innhold som gjør det mulig for arbeidstakernes representanter, på bakgrunn av den mottatte informasjonen, å gi uttrykk for sin mening slik at synspunktene kan tas i betraktning i beslutningsprosessen i SCE-foretaket.
+9. *representasjon;* den innflytelse det organet som representerer arbeidstakerne eller deres representanter har på driften av et foretak gjennom:
+
+   - å benytte retten til å velge eller utpeke noen av medlemmene i foretakets kontroll- eller administrasjonsorgan,
+
+     eller
+   - å benytte retten til å anbefale og/eller gå imot utpekingen av noen eller alle medlemmene i foretakets kontroll- eller administrasjonsorgan.
 
 ## Kapittel II. Forhandlingsfremgangsmåte
 
@@ -106,7 +121,16 @@ I denne forskriften menes med:*SCE-foretak;* et foretak stiftet i henhold til lo
 
 ### § 9. Avtalens innhold
 
-(1) Avtalen mellom de deltakende rettssubjektene og det særlige forhandlingsutvalget om arbeidstakernes innflytelse skal være skriftlig og bør minst fastsette:avtalens virkeområde,sammensetning av, antall medlemmer av og fordeling av plasser i det representasjonsorgan som vil være drøftingspartner med SCE-foretaket i forbindelse med ordninger for informasjon og drøfting med arbeidstakerne i SCE-foretaket, dets datterforetak og filialer,representasjonsorganets funksjon og fremgangsmåten for informasjon og drøfting,møtehyppigheten i representasjonsorganet,de økonomiske og materielle ressursene som skal tildeles representasjonsorganet,dersom partene under forhandlingene beslutter å opprette en eller flere fremgangsmåter for informasjon og drøfting i stedet for et representasjonsorgan; ordningene for gjennomføring av slike fremgangsmåter,dersom partene under forhandlingene beslutter å opprette representasjonsordninger, innholdet i disse ordningene, herunder antall medlemmer i SCE-foretakets administrasjons- eller kontrollorgan som arbeidstakerne vil ha rett til å velge, utpeke, anbefale eller gå imot, fremgangsmåtene for hvordan arbeidstakerne kan velge, utpeke, anbefale eller gå imot disse medlemmene, og deres rettigheter,avtalens ikrafttredelsesdato og dens varighet, tilfeller der avtalen bør reforhandles, herunder tilfeller som nevnt i [§ 4](forskrift/2006-11-03-1213/§4) femte ledd, og fremgangsmåten for reforhandling.
+(1) Avtalen mellom de deltakende rettssubjektene og det særlige forhandlingsutvalget om arbeidstakernes innflytelse skal være skriftlig og bør minst fastsette:
+
+1. avtalens virkeområde,
+2. sammensetning av, antall medlemmer av og fordeling av plasser i det representasjonsorgan som vil være drøftingspartner med SCE-foretaket i forbindelse med ordninger for informasjon og drøfting med arbeidstakerne i SCE-foretaket, dets datterforetak og filialer,
+3. representasjonsorganets funksjon og fremgangsmåten for informasjon og drøfting,
+4. møtehyppigheten i representasjonsorganet,
+5. de økonomiske og materielle ressursene som skal tildeles representasjonsorganet,
+6. dersom partene under forhandlingene beslutter å opprette en eller flere fremgangsmåter for informasjon og drøfting i stedet for et representasjonsorgan; ordningene for gjennomføring av slike fremgangsmåter,
+7. dersom partene under forhandlingene beslutter å opprette representasjonsordninger, innholdet i disse ordningene, herunder antall medlemmer i SCE-foretakets administrasjons- eller kontrollorgan som arbeidstakerne vil ha rett til å velge, utpeke, anbefale eller gå imot, fremgangsmåtene for hvordan arbeidstakerne kan velge, utpeke, anbefale eller gå imot disse medlemmene, og deres rettigheter,
+8. avtalens ikrafttredelsesdato og dens varighet, tilfeller der avtalen bør reforhandles, herunder tilfeller som nevnt i [§ 4](forskrift/2006-11-03-1213/§4) femte ledd, og fremgangsmåten for reforhandling.
 
 (2) Avtalen er ikke underlagt standardbestemmelsene i vedlegg I, med mindre avtalen inneholder bestemmelser om dette.
 
@@ -118,9 +142,16 @@ Forhandlingene skal innledes så snart det særlige forhandlingsutvalget er oppr
 
 ### § 11. Standardbestemmelsenes anvendelse
 
-(1) Standardbestemmelsene fastsatt i vedlegg I til denne forskrift får anvendelse dersom:partene er enige om det, ellerdet ikke er inngått noen avtale innen fristen fastsatt i [§ 10](forskrift/2006-11-03-1213/§10) og hvert deltagende rettssubjekt beslutter å godta anvendelse av standardbestemmelsene for SCE-foretaket, og dermed gå videre med registreringen, og det særlige forhandlingsutvalget ikke har truffet beslutningen fastsatt i [§ 8](forskrift/2006-11-03-1213/§8) syvende og åttende ledd.
+(1) Standardbestemmelsene fastsatt i vedlegg I til denne forskrift får anvendelse dersom:
 
-(2) Med mindre annet følger av avtalen som nevnt i første ledd bokstav a får standardbestemmelsene i vedlegg I om representasjon bare anvendelse:i tilfelle av et SCE-foretak etablert ved omdanning; dersom regler for arbeidstakernes representasjon i administrasjons- eller kontrollorganet gjaldt for et selskap omdannet til et SCE-foretak,i tilfelle av et SCE-foretak etablert ved fusjon; dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet minst 25 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter. Det samme gjelder dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet mindre enn 25 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter dersom det særlige forhandlingsutvalget bestemmer det,i tilfelle av et SCE-foretak etablert på annen måte; dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet minst 50 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter. Det samme gjelder dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet mindre enn 50 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter dersom det særlige forhandlingsutvalget bestemmer det.
+1. partene er enige om det, eller
+2. det ikke er inngått noen avtale innen fristen fastsatt i [§ 10](forskrift/2006-11-03-1213/§10) og hvert deltagende rettssubjekt beslutter å godta anvendelse av standardbestemmelsene for SCE-foretaket, og dermed gå videre med registreringen, og det særlige forhandlingsutvalget ikke har truffet beslutningen fastsatt i [§ 8](forskrift/2006-11-03-1213/§8) syvende og åttende ledd.
+
+(2) Med mindre annet følger av avtalen som nevnt i første ledd bokstav a får standardbestemmelsene i vedlegg I om representasjon bare anvendelse:
+
+1. i tilfelle av et SCE-foretak etablert ved omdanning; dersom regler for arbeidstakernes representasjon i administrasjons- eller kontrollorganet gjaldt for et selskap omdannet til et SCE-foretak,
+2. i tilfelle av et SCE-foretak etablert ved fusjon; dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet minst 25 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter. Det samme gjelder dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet mindre enn 25 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter dersom det særlige forhandlingsutvalget bestemmer det,
+3. i tilfelle av et SCE-foretak etablert på annen måte; dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet minst 50 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter. Det samme gjelder dersom en eller flere former for representasjon gjaldt i ett eller flere av de deltakende rettssubjektene før registrering av SCE-foretaket og omfattet mindre enn 50 prosent av det samlede antall arbeidstakere i alle deltakende rettssubjekter dersom det særlige forhandlingsutvalget bestemmer det.
 
 (3) Dersom det fantes mer enn en form for representasjon i de forskjellige deltakende rettssubjektene, skal det særlige forhandlingsutvalget beslutte hvilken av disse formene som må etableres i SCE-foretaket. Dersom SCE-foretaket skal registreres i Norge og det særlige forhandlingsutvalget ikke har besluttet hvilken form for representasjon som skal etableres i SCE-foretaket, beslutter de deltagende rettssubjektene hvilken form for representasjon som skal innføres i SCE-foretaket. Det særlige forhandlingsutvalget skal underrette de deltakende rettssubjektene om alle beslutninger det treffer i henhold til denne paragrafen.
 
@@ -130,7 +161,10 @@ Forhandlingene skal innledes så snart det særlige forhandlingsutvalget er oppr
 
 (1) Bestemmelsene i [§ 4](forskrift/2006-11-03-1213/§4) til [§ 6](forskrift/2006-11-03-1213/§6) og [§ 8](forskrift/2006-11-03-1213/§8) til [§ 11](forskrift/2006-11-03-1213/§11) kommer til anvendelse for SCE-foretak som er etablert utelukkende av fysiske personer eller av ett enkelt rettssubjekt og fysiske personer, som til sammen har minst 50 arbeidstakere i minst to medlemsstater.
 
-(2) For SCE-foretak som er etablert utelukkende av fysiske personer eller av ett enkelt rettssubjekt og fysiske personer, som til sammen har mindre enn 50 arbeidstakere, eller har minst 50 arbeidstakere men bare i én medlemsstat, gjelder følgende bestemmelser om arbeidstakernes innflytelse:i selve SCE-foretaket får bestemmelsene i den EU/EØS-stat der SCE-foretaket har sitt forretningskontor anvendelse på samme måte som for rettssubjekter av samme typei datterforetak og filialer får bestemmelsene i den EU/EØS-stat der de ligger anvendelse på disse på samme måte som for rettssubjekter av samme art.
+(2) For SCE-foretak som er etablert utelukkende av fysiske personer eller av ett enkelt rettssubjekt og fysiske personer, som til sammen har mindre enn 50 arbeidstakere, eller har minst 50 arbeidstakere men bare i én medlemsstat, gjelder følgende bestemmelser om arbeidstakernes innflytelse:
+
+1. i selve SCE-foretaket får bestemmelsene i den EU/EØS-stat der SCE-foretaket har sitt forretningskontor anvendelse på samme måte som for rettssubjekter av samme type
+2. i datterforetak og filialer får bestemmelsene i den EU/EØS-stat der de ligger anvendelse på disse på samme måte som for rettssubjekter av samme art.
 
 (3) Dersom et SCE-foretak, som er underlagt bestemmelser om representasjon, flytter sitt forretningskontor fra en EU/EØS-stat til en annen, skal arbeidstakernes rett til representasjon videreføres på samme nivå.
 
@@ -158,7 +192,14 @@ Et SCE-foretak eller deltakende rettssubjekt kan i særskilte tilfeller unnlate 
 
 ### § 16. Tvisteløsning
 
-(1) Tvisteløsningsnemnd etter arbeidsmiljøloven, jf. [arbeidsmiljøloven § 17-2](lov/2005-06-17-62/§17-2), kan avgjøre:tvister som knytter seg til opprettelsen av det særlige forhandlingsutvalget etter [§ 4](forskrift/2006-11-03-1213/§4), [§ 5](forskrift/2006-11-03-1213/§5) og [§ 6](forskrift/2006-11-03-1213/§6). For valg av arbeidstakernes representanter i det særlige forhandlingsutvalget fra Norge, gjelder representasjonsforskriften tilsvarende, jf. [§ 6](forskrift/2006-11-03-1213/§6) annet ledd,tvister som knytter seg til inngåelse av avtale om innflytelse, herunder om avtalen er inngått i tråd med forskriftens stemmeregler, jf. [§ 8](forskrift/2006-11-03-1213/§8) og [§ 9](forskrift/2006-11-03-1213/§9),tvister som knytter seg til om vilkårene for anvendelse av standardbestemmelsene i vedlegget er oppfylt, jf. [§ 11](forskrift/2006-11-03-1213/§11),tvister som knytter seg til valget av medlemmer til representasjonsorganet etter standardbestemmelsene i vedlegg I nr. 1,beslutning om taushetsplikt eller tilbakehold av informasjon, jf. [§ 13](forskrift/2006-11-03-1213/§13) og [§ 14](forskrift/2006-11-03-1213/§14),tvister vedrørende fordelingen av plasser samt valg eller utpeking av arbeidstakernes representanter til administrasjons- eller kontrollorgan eller generalforsamling i henhold til avtale inngått etter [§ 9](forskrift/2006-11-03-1213/§9) eller etter standardbestemmelsene i vedlegg I nr. 13.
+(1) Tvisteløsningsnemnd etter arbeidsmiljøloven, jf. [arbeidsmiljøloven § 17-2](lov/2005-06-17-62/§17-2), kan avgjøre:
+
+1. tvister som knytter seg til opprettelsen av det særlige forhandlingsutvalget etter [§ 4](forskrift/2006-11-03-1213/§4), [§ 5](forskrift/2006-11-03-1213/§5) og [§ 6](forskrift/2006-11-03-1213/§6). For valg av arbeidstakernes representanter i det særlige forhandlingsutvalget fra Norge, gjelder representasjonsforskriften tilsvarende, jf. [§ 6](forskrift/2006-11-03-1213/§6) annet ledd,
+2. tvister som knytter seg til inngåelse av avtale om innflytelse, herunder om avtalen er inngått i tråd med forskriftens stemmeregler, jf. [§ 8](forskrift/2006-11-03-1213/§8) og [§ 9](forskrift/2006-11-03-1213/§9),
+3. tvister som knytter seg til om vilkårene for anvendelse av standardbestemmelsene i vedlegget er oppfylt, jf. [§ 11](forskrift/2006-11-03-1213/§11),
+4. tvister som knytter seg til valget av medlemmer til representasjonsorganet etter standardbestemmelsene i vedlegg I nr. 1,
+5. beslutning om taushetsplikt eller tilbakehold av informasjon, jf. [§ 13](forskrift/2006-11-03-1213/§13) og [§ 14](forskrift/2006-11-03-1213/§14),
+6. tvister vedrørende fordelingen av plasser samt valg eller utpeking av arbeidstakernes representanter til administrasjons- eller kontrollorgan eller generalforsamling i henhold til avtale inngått etter [§ 9](forskrift/2006-11-03-1213/§9) eller etter standardbestemmelsene i vedlegg I nr. 13.
 
 (2) Tvister om beslutninger som nevnt i første ledd bokstav e kan ikke bringes inn for tvisteløsningsnemnda etter at opplysningene beslutningen gjelder er blitt offentlig kjent.
 
@@ -186,7 +227,14 @@ Standardbestemmelsene i dette vedlegg kommer til anvendelse i de tilfeller som f
 
 *1 Sammensetningen av arbeidstakernes representasjonsorgan*
 
-(1) Det skal opprettes et representasjonsorgan i samsvar med følgende bestemmelser:Medlemmene av representasjonsorganet velges eller utpekes ut fra antall arbeidstakere i hver EU/EØS-stat i de deltakende foretakene og berørte datterforetak eller filialer. Det skal tildeles én plass per andel arbeidstakere i vedkommende EU/EØS-stat som representerer 10 prosent eller en brøkdel av dette av antall arbeidstakere i de deltakende foretak og berørte datterforetak eller etablerte forretningssteder i alle EU/EØS-statene sammenlagt.Representasjonsorganet skal være sammensatt av arbeidstakerne i SCE-foretaket og dets datterforetak og filialer. Representantene skal være valgt eller utpekt etter reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).Ved vesentlige endringer som ville medført en annen sammensetning av representasjonsorganet, skal disse endringene gjenspeiles i representasjonsorganets sammensetning. Det må om nødvendig foretas et suppleringsvalg. Et slikt valg skal gjennomføres i samsvar med reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).SCE-foretaket skal underrettes om sammensetningen av representasjonsorganet.Dersom størrelsen tilsier det, skal representasjonsorganet opprette et arbeidsutvalg bestående av maksimalt tre medlemmer. Representasjonsorganet skal fastsette sin forretningsorden.Senest fire år etter at representasjonsorganet er opprettet, skal det undersøke om det skal innledes forhandlinger med sikte på å inngå avtale som nevnt i forskriften [§ 9](forskrift/2006-11-03-1213/§9) og [§ 11](forskrift/2006-11-03-1213/§11), eller om standardbestemmelsene fastsatt i dette vedlegget fortsatt skal komme til anvendelse.
+(1) Det skal opprettes et representasjonsorgan i samsvar med følgende bestemmelser:
+
+1. Medlemmene av representasjonsorganet velges eller utpekes ut fra antall arbeidstakere i hver EU/EØS-stat i de deltakende foretakene og berørte datterforetak eller filialer. Det skal tildeles én plass per andel arbeidstakere i vedkommende EU/EØS-stat som representerer 10 prosent eller en brøkdel av dette av antall arbeidstakere i de deltakende foretak og berørte datterforetak eller etablerte forretningssteder i alle EU/EØS-statene sammenlagt.
+2. Representasjonsorganet skal være sammensatt av arbeidstakerne i SCE-foretaket og dets datterforetak og filialer. Representantene skal være valgt eller utpekt etter reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).
+3. Ved vesentlige endringer som ville medført en annen sammensetning av representasjonsorganet, skal disse endringene gjenspeiles i representasjonsorganets sammensetning. Det må om nødvendig foretas et suppleringsvalg. Et slikt valg skal gjennomføres i samsvar med reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).
+4. SCE-foretaket skal underrettes om sammensetningen av representasjonsorganet.
+5. Dersom størrelsen tilsier det, skal representasjonsorganet opprette et arbeidsutvalg bestående av maksimalt tre medlemmer. Representasjonsorganet skal fastsette sin forretningsorden.
+6. Senest fire år etter at representasjonsorganet er opprettet, skal det undersøke om det skal innledes forhandlinger med sikte på å inngå avtale som nevnt i forskriften [§ 9](forskrift/2006-11-03-1213/§9) og [§ 11](forskrift/2006-11-03-1213/§11), eller om standardbestemmelsene fastsatt i dette vedlegget fortsatt skal komme til anvendelse.
 
 (2) Reglene i forskriften [§ 8](forskrift/2006-11-03-1213/§8) til [§ 10](forskrift/2006-11-03-1213/§10) får tilsvarende anvendelse dersom det vedtas å forhandle frem en avtale om arbeidstakernes innflytelse. I dette tilfelle skal uttrykket «det særlige forhandlingsutvalget» erstattes med «representasjonsorganet». Dersom det innen fristen for å avslutte forhandlingene ikke er inngått en avtale, skal de ordninger som er vedtatt i samsvar med standardbestemmelsene fremdeles gjelde.
 

@@ -15,7 +15,7 @@ xml_hash: "fded735c26f7e758a5d6e6a1e9437fdf0bd6e13e59daad85033d87570a05d1ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ Ved kameraovervåking etter forskriften her skal det ved skilting eller på anne
 
 ## § 5. Utlevering av opptak gjort ved kameraovervåking
 
-Personopplysninger som er innsamlet ved kameraovervåking etter forskriften her, kan bare utleveres til andre enn den behandlingsansvarlige dersomden som er avbildet samtykker,utleveringen skjer til politiet ved etterforskning av straffbare handlinger eller ulykker, og lovbestemt taushetsplikt ikke er til hinder for utleveringen ellerdet ellers følger av lov at utlevering kan skje.
+Personopplysninger som er innsamlet ved kameraovervåking etter forskriften her, kan bare utleveres til andre enn den behandlingsansvarlige dersom
+
+1. den som er avbildet samtykker,
+2. utleveringen skjer til politiet ved etterforskning av straffbare handlinger eller ulykker, og lovbestemt taushetsplikt ikke er til hinder for utleveringen eller
+3. det ellers følger av lov at utlevering kan skje.
 
 ## § 6. Sletting av opptak gjort ved kameraovervåking
 
@@ -50,7 +54,10 @@ Opptak skal slettes senest én uke etter at opptakene er gjort. Hvis det er sann
 
 Opptak gjort på utsalgssteder som benytter betalingsinstrument eller identitetsbevis, eller i lokaler hvor post- eller banktjenester leveres, skal slettes senest tre måneder etter at opptakene er gjort.
 
-Sletteplikten etter første og andre ledd gjelder ikkefor opptak som kan være av betydning for rikets eller dets alliertes sikkerhet, forholdet til fremmede makter og andre vitale nasjonale sikkerhetsinteresser, ellerhvor den som er avbildet samtykker i at opptakene oppbevares lenger.
+Sletteplikten etter første og andre ledd gjelder ikke
+
+1. for opptak som kan være av betydning for rikets eller dets alliertes sikkerhet, forholdet til fremmede makter og andre vitale nasjonale sikkerhetsinteresser, eller
+2. hvor den som er avbildet samtykker i at opptakene oppbevares lenger.
 
 Dersom det foreligger et særlig behov for oppbevaring i lengre tid enn i første og andre ledd, kan Datatilsynet gjøre unntak fra disse bestemmelsene.
 

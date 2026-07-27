@@ -15,7 +15,7 @@ xml_hash: "286afa56b9afd6f2314997a7cc07cf98d5eb65febeff6cf1ebafc08a7336cc15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,9 +39,18 @@ Med hjemmel i [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart [§ 15
 
 I medhold av [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart jf. [§ 9-4](lov/1993-06-11-101/§9-4) første ledd annet punktum fastsettes:
 
-Som krigsmateriell i lovens forstand regnes:våpen som er bestemt til eller særlig egnet til krigsbruk, med tilbehør av enhver art herunder ammunisjon og liknende materiell med sprengvirkning, brannstiftende virkning, varmevirkning, røykvirkning, lysvirkning, lydvirkning, radioaktiv virkning eller stridsgassvirkning,materiell som er bestemt til eller særlig egnet til biologisk eller kjemisk krigføring,materiell som er bestemt til eller må antas å skulle anvendes til kontroll, målsøking eller styring av en hvilken som helst type våpen,materiell som er bestemt til vern mot våpen av alle slag, eller til vern mot observasjon eller oppklaring,materiell bestemt til forstyrrelse av ildledning, varsling, navigasjon, målsøking og alle former for sambandstjeneste eller vern mot slik forstyrrelse.
+Som krigsmateriell i lovens forstand regnes:
 
-Uten særlig tillatelse kan innenfor norsk område transporteres i luftfartøy:tjenestevåpen – eventuelt med tilhørende våpendeler og ammunisjon – som bringes med av personer i forsvaret, politiet eller tollvesenet.våpen – eventuelt med tilhørende våpendeler og ammunisjon – som tilhører noen som etter lovgivningen har adgang til å bære det.
+1. våpen som er bestemt til eller særlig egnet til krigsbruk, med tilbehør av enhver art herunder ammunisjon og liknende materiell med sprengvirkning, brannstiftende virkning, varmevirkning, røykvirkning, lysvirkning, lydvirkning, radioaktiv virkning eller stridsgassvirkning,
+2. materiell som er bestemt til eller særlig egnet til biologisk eller kjemisk krigføring,
+3. materiell som er bestemt til eller må antas å skulle anvendes til kontroll, målsøking eller styring av en hvilken som helst type våpen,
+4. materiell som er bestemt til vern mot våpen av alle slag, eller til vern mot observasjon eller oppklaring,
+5. materiell bestemt til forstyrrelse av ildledning, varsling, navigasjon, målsøking og alle former for sambandstjeneste eller vern mot slik forstyrrelse.
+
+Uten særlig tillatelse kan innenfor norsk område transporteres i luftfartøy:
+
+1. tjenestevåpen – eventuelt med tilhørende våpendeler og ammunisjon – som bringes med av personer i forsvaret, politiet eller tollvesenet.
+2. våpen – eventuelt med tilhørende våpendeler og ammunisjon – som tilhører noen som etter lovgivningen har adgang til å bære det.
 
 – – –
 
@@ -51,7 +60,30 @@ Forsvarsdepartementet bemyndiges til å gi forskrifter etter [lov 11. juni 1993 
 
 *Til lovens kap. VII*
 
-I medhold av [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart [§ 7-26](lov/1993-06-11-101/§7-26) fastsettes følgende bestemmelser om avgifter for benyttelse av landingsplasser og andre luftfartsanlegg i allmenn bruk:Når en landingsplass som drives av staten til allmenn bruk, blir nyttet i samband med drift av luftfartøy, betales – med mindre annet er bestemt – avgift til staten for den bruk som blir gjort av plassen eller vedkommende innretning eller for de tjenester som blir ytet, således:på landflyplasser: landingsavgift, lysavgift, hangaravgift, parkeringsavgift og passasjeravgift,i sjøflyhavner: landingsavgift, båtavgift, avgift for bruk av bøye, brygge, bedding eller slip, lysavgift, hangaravgift, parkeringsavgift og passasjeravgift.Størrelsen av de avgifter som er nevnt i punkt 1, fastsettes av Samferdselsdepartementet, som i den forbindelse kan sette landingsplassene i forskjellige avgiftsklasser og gradere avgiftene for de forskjellige kategorier av luftfartøyer under hensyn til deres art, type, vekt, anvendelse m.v.Blir det på en landingsplass ytet ramptjeneste eller andre tjenester enn nevnt i punkt 1 a eller b, kan det kreves betalt til staten en avgift som bestemmes av Luftfartsverket i samråd med vedkommende myndighet på plassen. Det kan dog også for slike tjenester fastsettes avgifter ved forskrift av Samferdselsdepartementet på samme måte som etter punkt 2.Samferdselsdepartementet kan fastsette avgift til staten for tjenester som ytes luftfartøy fra statsdrevet luftfartsanlegg til allmenn bruk utenfor landingsplassene. Slik avgift kan, om det finnes hensiktsmessig, oppkreves sammen med avgift som nevnt i bestemmelsene foran.Avgift betales ikke for luftfartøy som brukes av den norske stat til ikke-ervervsmessig formål. Det samme gjelder for utenlandsk militært luftfartøy og for fartøy som brukes i utenlandsk diplomatisk tjeneste.Samferdselsdepartementet kan fastsette ytterligere fritak for eller lempninger i avgiftsplikten i tilfeller hvor departementet finner at avgiften virker særlig byrdefull eller at andre særlige grunner tilsier det.Plikten til å svare avgift påhviler luftfartøyets eier. Er fartøyet overlatt en annen til bruk for egen regning, er brukeren ansvarlig for avgiften.Blir avgift som er påløpet i forbindelse med luftfartøyets siste landing og opphold på eller avgang fra plassen, ikke betalt, kan vedkommende myndighet på plassen i samsvar med [luftfartsloven § 13-2](lov/1993-06-11-101/§13-2) hindre fartøyet i å forlate plassen før betaling har funnet sted eller tilstrekkelig sikkerhet er stilt.Avgiftsrestanser kan drives inn ved utpanting, jf [luftfartsloven § 13-7](lov/1993-06-11-101/§13-7).Det som er bestemt foran under 1-6, gjelder også for militære landingsplasser når de nyttes av sivile luftfartøyer.Bestemmelsene under 1-6 gjelder tilsvarende landingsplasser og andre luftfartsanlegg som drives av andre enn staten og/eller er til allmenn bruk. Samferdselsdepartementet kan for slike plasser og anlegg fastsette andre avgiftssatser enn de som blir fastsatt etter punktene 1-3.Avgiftene tilfaller innehaveren av landingsplassen eller anlegget.Innehaveren skal utpeke en person i sin tjeneste til å treffe de avgjørelser som er nevnt i punkt 3 første punktum og punkt 6 annet ledd.Samferdselsdepartementet gir nærmere forskrifter til gjennomføringen av disse bestemmelser
+I medhold av [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart [§ 7-26](lov/1993-06-11-101/§7-26) fastsettes følgende bestemmelser om avgifter for benyttelse av landingsplasser og andre luftfartsanlegg i allmenn bruk:
+
+1. Når en landingsplass som drives av staten til allmenn bruk, blir nyttet i samband med drift av luftfartøy, betales – med mindre annet er bestemt – avgift til staten for den bruk som blir gjort av plassen eller vedkommende innretning eller for de tjenester som blir ytet, således:
+
+   1. på landflyplasser: landingsavgift, lysavgift, hangaravgift, parkeringsavgift og passasjeravgift,
+   2. i sjøflyhavner: landingsavgift, båtavgift, avgift for bruk av bøye, brygge, bedding eller slip, lysavgift, hangaravgift, parkeringsavgift og passasjeravgift.
+2. Størrelsen av de avgifter som er nevnt i punkt 1, fastsettes av Samferdselsdepartementet, som i den forbindelse kan sette landingsplassene i forskjellige avgiftsklasser og gradere avgiftene for de forskjellige kategorier av luftfartøyer under hensyn til deres art, type, vekt, anvendelse m.v.
+3. Blir det på en landingsplass ytet ramptjeneste eller andre tjenester enn nevnt i punkt 1 a eller b, kan det kreves betalt til staten en avgift som bestemmes av Luftfartsverket i samråd med vedkommende myndighet på plassen. Det kan dog også for slike tjenester fastsettes avgifter ved forskrift av Samferdselsdepartementet på samme måte som etter punkt 2.
+4. Samferdselsdepartementet kan fastsette avgift til staten for tjenester som ytes luftfartøy fra statsdrevet luftfartsanlegg til allmenn bruk utenfor landingsplassene. Slik avgift kan, om det finnes hensiktsmessig, oppkreves sammen med avgift som nevnt i bestemmelsene foran.
+5. Avgift betales ikke for luftfartøy som brukes av den norske stat til ikke-ervervsmessig formål. Det samme gjelder for utenlandsk militært luftfartøy og for fartøy som brukes i utenlandsk diplomatisk tjeneste.
+
+   Samferdselsdepartementet kan fastsette ytterligere fritak for eller lempninger i avgiftsplikten i tilfeller hvor departementet finner at avgiften virker særlig byrdefull eller at andre særlige grunner tilsier det.
+6. Plikten til å svare avgift påhviler luftfartøyets eier. Er fartøyet overlatt en annen til bruk for egen regning, er brukeren ansvarlig for avgiften.
+
+   Blir avgift som er påløpet i forbindelse med luftfartøyets siste landing og opphold på eller avgang fra plassen, ikke betalt, kan vedkommende myndighet på plassen i samsvar med [luftfartsloven § 13-2](lov/1993-06-11-101/§13-2) hindre fartøyet i å forlate plassen før betaling har funnet sted eller tilstrekkelig sikkerhet er stilt.
+
+   Avgiftsrestanser kan drives inn ved utpanting, jf [luftfartsloven § 13-7](lov/1993-06-11-101/§13-7).
+7. Det som er bestemt foran under 1-6, gjelder også for militære landingsplasser når de nyttes av sivile luftfartøyer.
+8. Bestemmelsene under 1-6 gjelder tilsvarende landingsplasser og andre luftfartsanlegg som drives av andre enn staten og/eller er til allmenn bruk. Samferdselsdepartementet kan for slike plasser og anlegg fastsette andre avgiftssatser enn de som blir fastsatt etter punktene 1-3.
+
+   Avgiftene tilfaller innehaveren av landingsplassen eller anlegget.
+
+   Innehaveren skal utpeke en person i sin tjeneste til å treffe de avgjørelser som er nevnt i punkt 3 første punktum og punkt 6 annet ledd.
+9. Samferdselsdepartementet gir nærmere forskrifter til gjennomføringen av disse bestemmelser
 
 *Til lovens kap. XV*
 

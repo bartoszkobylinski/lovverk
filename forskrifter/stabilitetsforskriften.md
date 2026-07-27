@@ -15,7 +15,7 @@ xml_hash: "1b6bdf2820ce69747fa56c5b0b92e41f3e4b2d70e00595ef967a7dbcee907ba4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,38 @@ Innretninger som er registrert i norsk skipsregister, kan, frem til neste sertif
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Anerkjent standard:* Standard som er utgitt av NS/BS/API/DIN/NFPA/ISO/CEN/IEC eller andre standarder, ev. regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i enkelte tilfeller kunne bestemme hvilken standard som kan anerkjennes.*Ballasterings- og deballasteringskurve:* En kurve, som med et gitt ut gangspunkt, viser hvordan en innretnings fellestyngdepunkt varierer som funksjon av dypgang, eventuelt deplasement, når ballasttanker fylles eller tømmes i en rekkefølge som samsvarer med innretningens ballastprosedyrer.*Forflytningstilstand:* Tilstanden når innretningen skifter posisjon enten ved sleping eller ved hjelp av egen framdrift og er innenfor de operasjonsbegrensninger som er gitt for tilstanden.*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).*Innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster ombord, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.*KG-grensekurve:* En kurve som viser høyeste tillatte vertikale tyngdepunkt (Maks. KG) som funksjon av dypgang, eventuelt deplasement, for at stabilitetskravene skal være oppfylt.*Kontrollstasjon:* Rom hvor utstyr for overvåking, fjernbetjening og kontroll av innretningen er anbrakt. Inkluderer bl.a.:rom hvor radio, hovednavigasjonsutstyr, nødkraftkilde og sentral for interkommunikasjons-, alarm- og høytaleranlegg er anbragtrom hvor utstyr for fjernbetjening og kontroll av ankersystemer, ballastsystem, branndører, dykkesystemer, dynamisk posisjoneringssystemer, fast opplagte brannslokningssystemer, nødkraftkilder og vanntette dører er anbragt.*MODU-koden:* IMOs (International Maritime Organization) «Code for the construction and equipment of Mobile Offshore Drilling Units» av 1989.*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjonene er:American Bureau of Shipping (ABS)DNVLloyd's Register of Shipping (LR).*Operasjonstilstand:* Tilstanden når innretningen utfører sine normale arbeidsoppgaver, f.eks. boring, og er innenfor de operasjonsbegrensninger som er gitt for tilstanden.*Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.*Sikkerhetstilstand:* Tilstanden når operasjonsbegrensningene (maks. tillatt vindhastighet) for aktuell operasjons- eller forflytningstilstand er overskredet, og/eller når nødvendige tiltak for tilstanden er iverksatt.*Sikkerhetsstyringssystem:* Alle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av [lov 16. februar 2007 nr. 9 om skipssikkerhet](lov/2007-02-16-9).*Temporær tilstand:* Tilstanden når en halvt nedsenkbar innretning endrer dypgang fra en driftstilstand til en annen, f.eks. fra forflytningstilstand til operasjonstilstand.*Vanntett lukningsmiddel:* Lukningsmiddel som skal kunne motstå spesifisert vanntrykk, (normalt fra begge sider) for å sikre innretningens vanntette oppdeling.*Værtett lukningsmiddel:* Lukningsmiddel som ved alle aktuelle sjøtilstander hindrer at vann trenger inn i innretningen.
+I denne forskrift betyr:
+
+1. *Anerkjent standard:* Standard som er utgitt av NS/BS/API/DIN/NFPA/ISO/CEN/IEC eller andre standarder, ev. regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i enkelte tilfeller kunne bestemme hvilken standard som kan anerkjennes.
+2. *Ballasterings- og deballasteringskurve:* En kurve, som med et gitt ut gangspunkt, viser hvordan en innretnings fellestyngdepunkt varierer som funksjon av dypgang, eventuelt deplasement, når ballasttanker fylles eller tømmes i en rekkefølge som samsvarer med innretningens ballastprosedyrer.
+3. *Forflytningstilstand:* Tilstanden når innretningen skifter posisjon enten ved sleping eller ved hjelp av egen framdrift og er innenfor de operasjonsbegrensninger som er gitt for tilstanden.
+4. *Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+   1. American Bureau of Shipping (ABS)
+   2. Bureau Veritas (BV)
+   3. DNV
+   4. Lloyd's Register of Shipping (LR)
+   5. Nippon Kaiji Kyoaki (Class NK)
+   6. Rina Services S.p.A (RINA).
+5. *Innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster ombord, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+6. *KG-grensekurve:* En kurve som viser høyeste tillatte vertikale tyngdepunkt (Maks. KG) som funksjon av dypgang, eventuelt deplasement, for at stabilitetskravene skal være oppfylt.
+7. *Kontrollstasjon:* Rom hvor utstyr for overvåking, fjernbetjening og kontroll av innretningen er anbrakt. Inkluderer bl.a.:
+
+   1. rom hvor radio, hovednavigasjonsutstyr, nødkraftkilde og sentral for interkommunikasjons-, alarm- og høytaleranlegg er anbragt
+   2. rom hvor utstyr for fjernbetjening og kontroll av ankersystemer, ballastsystem, branndører, dykkesystemer, dynamisk posisjoneringssystemer, fast opplagte brannslokningssystemer, nødkraftkilder og vanntette dører er anbragt.
+8. *MODU-koden:* IMOs (International Maritime Organization) «Code for the construction and equipment of Mobile Offshore Drilling Units» av 1989.
+9. *MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjonene er:
+
+   1. American Bureau of Shipping (ABS)
+   2. DNV
+   3. Lloyd's Register of Shipping (LR).
+10. *Operasjonstilstand:* Tilstanden når innretningen utfører sine normale arbeidsoppgaver, f.eks. boring, og er innenfor de operasjonsbegrensninger som er gitt for tilstanden.
+11. *Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
+12. *Sikkerhetstilstand:* Tilstanden når operasjonsbegrensningene (maks. tillatt vindhastighet) for aktuell operasjons- eller forflytningstilstand er overskredet, og/eller når nødvendige tiltak for tilstanden er iverksatt.
+13. *Sikkerhetsstyringssystem:* Alle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av [lov 16. februar 2007 nr. 9 om skipssikkerhet](lov/2007-02-16-9).
+14. *Temporær tilstand:* Tilstanden når en halvt nedsenkbar innretning endrer dypgang fra en driftstilstand til en annen, f.eks. fra forflytningstilstand til operasjonstilstand.
+15. *Vanntett lukningsmiddel:* Lukningsmiddel som skal kunne motstå spesifisert vanntrykk, (normalt fra begge sider) for å sikre innretningens vanntette oppdeling.
+16. *Værtett lukningsmiddel:* Lukningsmiddel som ved alle aktuelle sjøtilstander hindrer at vann trenger inn i innretningen.
 
 > Endret ved forskrifter [2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999), [11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [14 mars 2008 nr. 305](forskrift/2008-03-14-305) (i kraft 24 mars 2008), [18 jan 2011 nr. 56](forskrift/2011-01-18-56), [5 juli 2016 nr. 897](forskrift/2016-07-05-897), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -95,7 +126,12 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 
 ### § 9. Driftstilstander, KG-grensekurver og operasjonsbegrensninger
 
-1. Drift av innretningen deles i fire driftstilstander:operasjonstilstand, jf. [§ 10](forskrift/1991-12-20-878/§10),forflytningstilstand (transitt), jf. [§ 11](forskrift/1991-12-20-878/§11),sikkerhetstilstand, jf. [§ 12](forskrift/1991-12-20-878/§12),temporær tilstand (ballastering/deballastering), jf. [§ 13](forskrift/1991-12-20-878/§13).
+1. Drift av innretningen deles i fire driftstilstander:
+
+   - operasjonstilstand, jf. [§ 10](forskrift/1991-12-20-878/§10),
+   - forflytningstilstand (transitt), jf. [§ 11](forskrift/1991-12-20-878/§11),
+   - sikkerhetstilstand, jf. [§ 12](forskrift/1991-12-20-878/§12),
+   - temporær tilstand (ballastering/deballastering), jf. [§ 13](forskrift/1991-12-20-878/§13).
 2. Det skal utarbeides en KG-grensekurve for hver driftstilstand. Alle KG-grensekurver skal samles i ett diagram sammen med eventuelle ballasterings/deballasteringskurver og gjennomgående KG-grensekurve for skadestabilitet, jf. [§ 13](forskrift/1991-12-20-878/§13) og [§ 14](forskrift/1991-12-20-878/§14).
 3. Aktuelle operasjonsbegrensninger med hensyn til maksimal vindhastighet, forbud mot anløp av fartøy, tanker som skal være fulle m.v., skal angis i tilknytning til KG-grensekurvene for den enkelte driftstilstand. Maksimal tillatt vindhastighet for en driftstilstand kan ikke overskride vindhastighet benyttet ved beregning av Maks. KG for intaktstabilitet. Vindhastigheter skal være referert til en høyde av 10 m over vannivå og være gjennomsnitt av det som måles over en tidsperiode på 10 minutter.
 4. Hvis det er ønskelig å heve operasjonsbegrensningen med hensyn til maksimal tillatt vindhastighet for en driftstilstand, kan dette oppnås ved å benytte høyere vindhastigheter ved beregning av Maks. KG enn det som er angitt som minimum. Forholdet mellom benyttet vindhastighet for intakt- og skadestabilitet skal fortsatt være 1,4.
@@ -106,7 +142,9 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 2. Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes opp for alle aktuelle dypganger for operasjon og betegnes i det følgende som KG-grensekurve I-op. Aktuelle operasjonsbegrensninger for tilstanden skal angis i tilknytning til KG-grensekurven.
 3. Det skal være mulig å bringe innretningen til sikkerhetstilstand fra enhver operasjonstilstand kun ved å deballastere, eventuelt dumpe flytende boreslam, jf. [§ 12](forskrift/1991-12-20-878/§12). Hvis Maks. KG knyttet til sikkerhetstilstanden eller temporære tilstander gir begrensninger med hensyn til å bringe innretningen fra operasjonstilstand til sikkerhetstilstand, vil disse bestemme Maks. KG for operasjonstilstanden, jf. [§ 13](forskrift/1991-12-20-878/§13).
 4. For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav ikke til anvendelse1.
-5. Spesialtilstander for operasjon.KG-grensekurver for spesielle eller kortvarige operasjoner kan baseres på andre kriterier eller lavere vindhastigheter enn det som er angitt i nr. 1. Dette forutsetter at den totale sikkerhet for tilstanden minst er den samme som for ordinære operasjonstilstander når det også tas hensyn til operasjonsbegrensninger.
+5. Spesialtilstander for operasjon.
+
+   KG-grensekurver for spesielle eller kortvarige operasjoner kan baseres på andre kriterier eller lavere vindhastigheter enn det som er angitt i nr. 1. Dette forutsetter at den totale sikkerhet for tilstanden minst er den samme som for ordinære operasjonstilstander når det også tas hensyn til operasjonsbegrensninger.
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999).
 
@@ -155,7 +193,12 @@ I tillegg til KG-grensekurvene nevnt i [§ 10](forskrift/1991-12-20-878/§10) ti
 
 ### § 17. Lastetilstander
 
-Følgende tilstander skal beregnes og inngå i operasjonsmanualen:Vanlig operasjonstilstand ved største dypgående, der maksimal dekkslast og utstyr er plassert i den ugunstigste posisjon som kan komme til anvendelse.Sikkerhetstilstand ved maksimum sikkerhetsdypgående idet en benytter den samme vektfordeling som i nr. 1 unntatt for nødvendige endringer av ballast og eventuell dumping av flytende boreslam. For boreinnretninger forutsettes at stigerøret er frakoplet, og at et representativt antall borerør står i boretårnet.Vanlig forflytningstilstand med maksimal dekkslast. For oppjekkbare innretninger skal forflytningstilstanden kontrolleres både med leggene stående i sin høyeste posisjon og dersom det er aktuelt, leggene nedlagt for havslep.Sikkerhetstilstanden ved maksimum sikkerhetsdypgående idet en benytter den samme vektfordeling som i nr. 3 unntatt for nødvendige endringer av ballast, og eventuelt dumpet flytende boreslam. I beregningene forutsettes at innretningens ankere er om bord.
+Følgende tilstander skal beregnes og inngå i operasjonsmanualen:
+
+1. Vanlig operasjonstilstand ved største dypgående, der maksimal dekkslast og utstyr er plassert i den ugunstigste posisjon som kan komme til anvendelse.
+2. Sikkerhetstilstand ved maksimum sikkerhetsdypgående idet en benytter den samme vektfordeling som i nr. 1 unntatt for nødvendige endringer av ballast og eventuell dumping av flytende boreslam. For boreinnretninger forutsettes at stigerøret er frakoplet, og at et representativt antall borerør står i boretårnet.
+3. Vanlig forflytningstilstand med maksimal dekkslast. For oppjekkbare innretninger skal forflytningstilstanden kontrolleres både med leggene stående i sin høyeste posisjon og dersom det er aktuelt, leggene nedlagt for havslep.
+4. Sikkerhetstilstanden ved maksimum sikkerhetsdypgående idet en benytter den samme vektfordeling som i nr. 3 unntatt for nødvendige endringer av ballast, og eventuelt dumpet flytende boreslam. I beregningene forutsettes at innretningens ankere er om bord.
 
 ## Kapittel VII. Detaljkrav, stabilitet
 
@@ -163,7 +206,10 @@ Følgende tilstander skal beregnes og inngå i operasjonsmanualen:Vanlig operasj
 
 1. Kurver for det rettende moment, jf. fig. 1 og 2, skal utarbeides som underlagsmateriale for de beregnede KG-grensekurver.
 2. Ved beregning av rettende moment skal innretningen kunne trimme fritt under krengning, og det skal ses bort fra forankringskreftenes innvirkning.
-3. Åpninger til rom som i beregningene av rettende moment forutsettes å gi oppdrift, skal være utstyrt med lukningsmidler som følger:Vanntett lukningmidler opp til vannnivået for likevektstilstand i både inntakt og skadet tilstand, når det tas hensyn til vind, jf. [§ 20](forskrift/1991-12-20-878/§20) nr. 1 og [§ 21](forskrift/1991-12-20-878/§21) nr. 1. For halvt nedsenkbare innretninger, se også kravene i [§ 22](forskrift/1991-12-20-878/§22) nr. 2 a).Værtette lukningmidler opp til vinkel der arealkravet mellom kurvene for krengende og rettende momenter er oppfylt, minimum 30°, krengning for intakt tilstand, jf. kravet til «andre kryssing» i [§ 20](forskrift/1991-12-20-878/§20) nr. 1 b). (Se fig. 1 og 2). For halvt nedsenkbare innretninger, se også kravene i [§ 22](forskrift/1991-12-20-878/§22) nr. 2 b).
+3. Åpninger til rom som i beregningene av rettende moment forutsettes å gi oppdrift, skal være utstyrt med lukningsmidler som følger:
+
+   1. Vanntett lukningmidler opp til vannnivået for likevektstilstand i både inntakt og skadet tilstand, når det tas hensyn til vind, jf. [§ 20](forskrift/1991-12-20-878/§20) nr. 1 og [§ 21](forskrift/1991-12-20-878/§21) nr. 1. For halvt nedsenkbare innretninger, se også kravene i [§ 22](forskrift/1991-12-20-878/§22) nr. 2 a).
+   2. Værtette lukningmidler opp til vinkel der arealkravet mellom kurvene for krengende og rettende momenter er oppfylt, minimum 30°, krengning for intakt tilstand, jf. kravet til «andre kryssing» i [§ 20](forskrift/1991-12-20-878/§20) nr. 1 b). (Se fig. 1 og 2). For halvt nedsenkbare innretninger, se også kravene i [§ 22](forskrift/1991-12-20-878/§22) nr. 2 b).
 4. Lukningsmidler med en lavere standard enn det som er nevnt i nr. 3 ovenfor, skal anses å lede til progressiv fylling. Dette skal fremgå som avtrappinger i kurven for rettende moment. (jf. [§ 22](forskrift/1991-12-20-878/§22) nr. 3).
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999).
@@ -179,16 +225,31 @@ Følgende tilstander skal beregnes og inngå i operasjonsmanualen:Vanlig operasj
 
 ### § 20. Intaktstabilitetskrav
 
-1. Generelle krav for intaktstabilitet er (se fig. 1):Statisk krengevinkel på grunn av vind (θ1) skal i enhver tilstand ikke overstige 17°.«Andre kryssing» mellom kurven for rettende moment og kurven for vindmoment (θ2) skal skje ved en vinkel som er 30°, eller større. «Andre kryssing» er definert som det punkt der kurven for rettende moment korrigert for mulig progressiv fylling krysser kurven for vindmoment for annen gang.Kurven for rettende moment skal være positiv over hele området fra opprett til andre kryssing.
-2. Tilleggskrav for innretninger av skipstype og oppjekkbare innretninger:Metasenterhøyden (GM) skal være 0,5 m eller større.Arealet under kurven for rettende moment opptil «andre kryssing», eller eventuelt til en mindre vinkel, skal minst være 40% større enn arealet under kurven for vindmoment regnet opp til den samme begrensende vinkel.
-3. Tilleggskrav for halvt nedsenkbare innretninger.Metasenterhøyden (GM) skal være minst 1,0 m for alle operasjons- og forflytningstilstander samt sikkerhetstilstanden. Metasenterhøyden skal aldri være mindre enn 0,3 m i temporære tilstander.Arealet under kurven for rettende moment opp til «andre kryssing», eller eventuelt til en mindre vinkel, skal minst være 30% større enn arealet under kurven for vindmoment begrenset av den samme vinkel.
+1. Generelle krav for intaktstabilitet er (se fig. 1):
+
+   1. Statisk krengevinkel på grunn av vind (θ1) skal i enhver tilstand ikke overstige 17°.
+   2. «Andre kryssing» mellom kurven for rettende moment og kurven for vindmoment (θ2) skal skje ved en vinkel som er 30°, eller større. «Andre kryssing» er definert som det punkt der kurven for rettende moment korrigert for mulig progressiv fylling krysser kurven for vindmoment for annen gang.
+   3. Kurven for rettende moment skal være positiv over hele området fra opprett til andre kryssing.
+2. Tilleggskrav for innretninger av skipstype og oppjekkbare innretninger:
+
+   1. Metasenterhøyden (GM) skal være 0,5 m eller større.
+   2. Arealet under kurven for rettende moment opptil «andre kryssing», eller eventuelt til en mindre vinkel, skal minst være 40% større enn arealet under kurven for vindmoment regnet opp til den samme begrensende vinkel.
+3. Tilleggskrav for halvt nedsenkbare innretninger.
+
+   1. Metasenterhøyden (GM) skal være minst 1,0 m for alle operasjons- og forflytningstilstander samt sikkerhetstilstanden. Metasenterhøyden skal aldri være mindre enn 0,3 m i temporære tilstander.
+   2. Arealet under kurven for rettende moment opp til «andre kryssing», eller eventuelt til en mindre vinkel, skal minst være 30% større enn arealet under kurven for vindmoment begrenset av den samme vinkel.
 4. Forutsatt at en tilsvarende standard av sikkerhet er opprettholdt, kan alternative intaktstabilitetskrav tillates av Sjøfartsdirektoratet, for eksempel basert på modellprøver, jf. [§ 4](forskrift/1991-12-20-878/§4).
 
 > Endret ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
 ### § 21. Skadestabilitetskrav
 
-Krav til stabilitet når innretningen er antatt skadet i henhold til [§ 23](forskrift/1991-12-20-878/§23) til [§ 28](forskrift/1991-12-20-878/§28), er:Vannlinjen i den endelige likevektstilstand etter fylling, når det tas hensyn til effekten av vind, skal være under den laveste kanten av enhver åpning som kan lede til fylling av rom som i beregningene forutsettes intakte. Slike åpninger inkluderer lufterør (uansett lukningsmidler), ventilatorer, ventilasjonsåpninger, ikke-vanntette lukningsmidler, jf. kapittel X. Åpninger utstyrt med fjernopererte vanntette dører som er lukket under drift og lysventiler som ikke kan åpnes, anses ikke å lede til fylling.I den ovenfor nevnte likevektstilstand skal krengningsvinkelen (θ1) aldri overstige 17° i noen retning.Arealet under kurven for rettende moment skal være minst like stort som arealet under kurven for krengende moment opp til andre kryssing av kurvene (θ2). Begge arealene skal beregnes fra den statiske krengningsvinkel uten vind (θ0). (Se fig. 2).Muligheten til å redusere krengningsvinkelen ved kryssfyllingsarrangement, utpumpinger fra ballasttanker og andre tanker eller ved å ta hensyn til ankerkrefter etc. skal ikke tas i betraktning for å følge kravene i nr. 1 til og med nr. 3.
+Krav til stabilitet når innretningen er antatt skadet i henhold til [§ 23](forskrift/1991-12-20-878/§23) til [§ 28](forskrift/1991-12-20-878/§28), er:
+
+1. Vannlinjen i den endelige likevektstilstand etter fylling, når det tas hensyn til effekten av vind, skal være under den laveste kanten av enhver åpning som kan lede til fylling av rom som i beregningene forutsettes intakte. Slike åpninger inkluderer lufterør (uansett lukningsmidler), ventilatorer, ventilasjonsåpninger, ikke-vanntette lukningsmidler, jf. kapittel X. Åpninger utstyrt med fjernopererte vanntette dører som er lukket under drift og lysventiler som ikke kan åpnes, anses ikke å lede til fylling.
+2. I den ovenfor nevnte likevektstilstand skal krengningsvinkelen (θ1) aldri overstige 17° i noen retning.
+3. Arealet under kurven for rettende moment skal være minst like stort som arealet under kurven for krengende moment opp til andre kryssing av kurvene (θ2). Begge arealene skal beregnes fra den statiske krengningsvinkel uten vind (θ0). (Se fig. 2).
+4. Muligheten til å redusere krengningsvinkelen ved kryssfyllingsarrangement, utpumpinger fra ballasttanker og andre tanker eller ved å ta hensyn til ankerkrefter etc. skal ikke tas i betraktning for å følge kravene i nr. 1 til og med nr. 3.
 
 > Endret ved [forskrift 19 des 2017 nr. 2322](forskrift/2017-12-19-2322) (i kraft 1 jan 2018).
 
@@ -196,9 +257,18 @@ Krav til stabilitet når innretningen er antatt skadet i henhold til [§ 23](for
 
 Reserveoppdriftskrav for halvt nedsenkbare innretninger er (se fig. 3):
 
-1. Kurven for rettende arm etter antatt skade i operasjonstilstand (jf. [§ 10](forskrift/1991-12-20-878/§10)) skal ha en positiv utstrekning på minst 10°, mellom første og annen kryssing med vindmomentkurven. Ved en og samme vinkel (θwa) innenfor den positive utstrekningen kreves følgende:Kurven for den rettende arm (rettende moment dividert på deplasement) etter skade, skal oppnå en verdi på minst 2,5 m.Minst 1,0 m av den rettende armen skal komme fra volumer som befinner seg over vanntette barrierer plassert i høyde med eller over laveste gjennomgående dekk (topp av søyle).
-2. Krav til lukking av volumer som etter skade antas å gi oppdrift:Alle åpninger som er neddykket ved vinkelen θwa, skal være utstyrt med vanntette lukningsmidler, jf. kapittel X. Lukningsmidler som aktiviseres på grunn av neddykking kan aksepteres på mindre åpninger hvis tilfredsstillende styrke og driftspålitelighet kan dokumenteres.Åpninger som blir neddykket ut over vinkelen θwa, minimum til utstrekningen krevet i nr. 1 (vinkel for første kryssing med vindmomentkurven pluss 10°), skal minst være utstyrt med værtette lukningsmidler som kan lukkes fra tørt dekk ved vinkelen θwa, og som har betjening som angitt i kapittel XIV. Denne minimum utstrekningen av værtett integritet er på fig. 3 vist som θwe.
-3. Avtrapping av kurven for rettende arm:Enhver åpning nevnt i nr. 2 a) og b) som ikke har tilfredsstillende lukking, skal anses å lede til fylling av tilknyttet rom fra den vinkel hvor den laveste kant av åpning blir neddykket. Dette skal fremgå som avtrapping av kurven for rettende arm.Ovennevnte tap av oppdrift skal ikke forårsake at kurven for rettende arm faller under en verdi som er to ganger verdien for krengende vindarm (vindmoment dividert på deplasement) for den samme vinkel.
+1. Kurven for rettende arm etter antatt skade i operasjonstilstand (jf. [§ 10](forskrift/1991-12-20-878/§10)) skal ha en positiv utstrekning på minst 10°, mellom første og annen kryssing med vindmomentkurven. Ved en og samme vinkel (θwa) innenfor den positive utstrekningen kreves følgende:
+
+   1. Kurven for den rettende arm (rettende moment dividert på deplasement) etter skade, skal oppnå en verdi på minst 2,5 m.
+   2. Minst 1,0 m av den rettende armen skal komme fra volumer som befinner seg over vanntette barrierer plassert i høyde med eller over laveste gjennomgående dekk (topp av søyle).
+2. Krav til lukking av volumer som etter skade antas å gi oppdrift:
+
+   1. Alle åpninger som er neddykket ved vinkelen θwa, skal være utstyrt med vanntette lukningsmidler, jf. kapittel X. Lukningsmidler som aktiviseres på grunn av neddykking kan aksepteres på mindre åpninger hvis tilfredsstillende styrke og driftspålitelighet kan dokumenteres.
+   2. Åpninger som blir neddykket ut over vinkelen θwa, minimum til utstrekningen krevet i nr. 1 (vinkel for første kryssing med vindmomentkurven pluss 10°), skal minst være utstyrt med værtette lukningsmidler som kan lukkes fra tørt dekk ved vinkelen θwa, og som har betjening som angitt i kapittel XIV. Denne minimum utstrekningen av værtett integritet er på fig. 3 vist som θwe.
+3. Avtrapping av kurven for rettende arm:
+
+   1. Enhver åpning nevnt i nr. 2 a) og b) som ikke har tilfredsstillende lukking, skal anses å lede til fylling av tilknyttet rom fra den vinkel hvor den laveste kant av åpning blir neddykket. Dette skal fremgå som avtrapping av kurven for rettende arm.
+   2. Ovennevnte tap av oppdrift skal ikke forårsake at kurven for rettende arm faller under en verdi som er to ganger verdien for krengende vindarm (vindmoment dividert på deplasement) for den samme vinkel.
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999), [11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
@@ -206,9 +276,22 @@ Reserveoppdriftskrav for halvt nedsenkbare innretninger er (se fig. 3):
 
 ### § 23. Antatt skade og vanntett oppdeling
 
-1. GenereltInnretningen skal være oppdelt ved hjelp av vanntette dekk og skott for å kunne motstå fylling som følge av to hovedtyper av skader:En-avdelingsskade i samsvar med [§ 24](forskrift/1991-12-20-878/§24).Kollisjonsskade i henhold til skadeutstrekning for aktuell fartøystype jf. [§ 25](forskrift/1991-12-20-878/§25), [§ 26](forskrift/1991-12-20-878/§26) og [§ 27](forskrift/1991-12-20-878/§27) nedenfor.Skader og fylling skal antas for de enkelte driftstilstander slik det fremgår av kravene i [§ 10](forskrift/1991-12-20-878/§10) til og med [§ 13](forskrift/1991-12-20-878/§13).
-2. Rør etc. i skadeområdetAlle nedgangssjakter, rør og ventilasjonskanaler som kan føre til fylling av rom som forutsettes intakte, skal plasseres utenfor skadeområdet for den enkelte fartøystypen jf. [§ 25](forskrift/1991-12-20-878/§25), [§ 26](forskrift/1991-12-20-878/§26) og [§ 27](forskrift/1991-12-20-878/§27).
-3. PermeabilitetsfaktorerFølgende permeabilitetsfaktorer skal benyttes ved fylling jf. nr. 1:Rom for forråd 0,60, maskinrom 0,85, innredning, tomme rom og tanker 0,95. For rom hvor det er grunn til å anta andre faktorer skal permeabiliteten beregnes.
+1. Generelt
+
+   Innretningen skal være oppdelt ved hjelp av vanntette dekk og skott for å kunne motstå fylling som følge av to hovedtyper av skader:
+
+   - En-avdelingsskade i samsvar med [§ 24](forskrift/1991-12-20-878/§24).
+   - Kollisjonsskade i henhold til skadeutstrekning for aktuell fartøystype jf. [§ 25](forskrift/1991-12-20-878/§25), [§ 26](forskrift/1991-12-20-878/§26) og [§ 27](forskrift/1991-12-20-878/§27) nedenfor.
+
+   Skader og fylling skal antas for de enkelte driftstilstander slik det fremgår av kravene i [§ 10](forskrift/1991-12-20-878/§10) til og med [§ 13](forskrift/1991-12-20-878/§13).
+2. Rør etc. i skadeområdet
+
+   Alle nedgangssjakter, rør og ventilasjonskanaler som kan føre til fylling av rom som forutsettes intakte, skal plasseres utenfor skadeområdet for den enkelte fartøystypen jf. [§ 25](forskrift/1991-12-20-878/§25), [§ 26](forskrift/1991-12-20-878/§26) og [§ 27](forskrift/1991-12-20-878/§27).
+3. Permeabilitetsfaktorer
+
+   Følgende permeabilitetsfaktorer skal benyttes ved fylling jf. nr. 1:
+
+   Rom for forråd 0,60, maskinrom 0,85, innredning, tomme rom og tanker 0,95. For rom hvor det er grunn til å anta andre faktorer skal permeabiliteten beregnes.
 
 ### § 24. En-avdelingsskader
 
@@ -216,14 +299,22 @@ En-avdelingsskader skal antas for ethvert rom som er helt eller delvis under akt
 
 ### § 25. Kollisjonsskader på innretninger av skipstype
 
-1. Ved kollisjonsskader på innretninger av skipstype skal følgende skadeutstrekning antas å inntre hvor som helst innenfor skipets lengde:langskipsutstrekning: 3,0 m;horisontal inntrengning: 1,5 m;vertikal utstrekning: Fra basislinjen og vertikalt oppover uten begrensning.
+1. Ved kollisjonsskader på innretninger av skipstype skal følgende skadeutstrekning antas å inntre hvor som helst innenfor skipets lengde:
+
+   - langskipsutstrekning: 3,0 m;
+   - horisontal inntrengning: 1,5 m;
+   - vertikal utstrekning: Fra basislinjen og vertikalt oppover uten begrensning.
 2. Innretningen skal være vanntett oppdelt slik at når det antas kollisjonsskade i henhold til nr. 1 skal minst ett vanntett skott kunne antas som skadet. Når skade av mindre utstrekning enn den nevnt i nr. 1 resulterer i en mer ugunstig tilstand, skal slik mindre skade antas.
 
 > Endret ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
 ### § 26. Kollisjonsskader på oppjekkbare innretninger
 
-1. Ved kollisjonsskader på oppjekkbare innretninger skal følgende sideskader antas å inntre hvor som helst:horisontal utstrekning: 3,0 m;horisontal inntrengning: 1,5 m;vertikal utstrekning: Fra basislinjen og vertikalt oppover uten begrensning.
+1. Ved kollisjonsskader på oppjekkbare innretninger skal følgende sideskader antas å inntre hvor som helst:
+
+   - horisontal utstrekning: 3,0 m;
+   - horisontal inntrengning: 1,5 m;
+   - vertikal utstrekning: Fra basislinjen og vertikalt oppover uten begrensning.
 2. Innretningen skal være vanntett oppdelt slik at når det antas kollisjonsskade i henhold til nr. 1 skal minst ett vanntett skott kunne antas som skadet. Når skade av mindre utstrekning enn den nevnt i nr. 1 resulterer i en mer ugunstig tilstand, skal slik mindre skade antas.
 3. Dersom innretningen er konstruert med matte, kan Sjøfartsdirektoratet fravike ovennevnte krav til utstrekning hvis innbyrdes avstand mellom skrog og matte er stor, jf. [§ 4](forskrift/1991-12-20-878/§4).
 
@@ -231,12 +322,20 @@ En-avdelingsskader skal antas for ethvert rom som er helt eller delvis under akt
 
 ### § 27. Kollisjonsskader på halvt nedsenkbare innretninger
 
-1. Ved kollisjonsskader på halvt nedsenkbare innretninger skal følgende skadeutstrekning antas:Bare søyler og pontonger i innretningens periferi skal anses utsatt for skade, og skaden forutsettes kun å inntre på de «utsatte deler». Med «utsatte deler» menes de deler av søylene og pontongene, eventuelt andre oppdriftsgivende deler som er plassert utenfor en linje trukket gjennom sentrene på periferisøylene (se fig. 4). Vertikal begrensning er fra 5 meter over øverste operasjonsvannlinje til 3 meter under laveste forflytningsvannlinje.Vertikal utstrekning: 3,0 meter innenfor området fra 5 meter over til 3 meter under aktuell vannlinje.Horisontal utstrekning: 3,0 meter målt langs huden.Inntrengning: 1,5 meter målt vinkelrett på huden.
+1. Ved kollisjonsskader på halvt nedsenkbare innretninger skal følgende skadeutstrekning antas:
+
+   1. Bare søyler og pontonger i innretningens periferi skal anses utsatt for skade, og skaden forutsettes kun å inntre på de «utsatte deler». Med «utsatte deler» menes de deler av søylene og pontongene, eventuelt andre oppdriftsgivende deler som er plassert utenfor en linje trukket gjennom sentrene på periferisøylene (se fig. 4). Vertikal begrensning er fra 5 meter over øverste operasjonsvannlinje til 3 meter under laveste forflytningsvannlinje.
+   2. Vertikal utstrekning: 3,0 meter innenfor området fra 5 meter over til 3 meter under aktuell vannlinje.
+   3. Horisontal utstrekning: 3,0 meter målt langs huden.
+   4. Inntrengning: 1,5 meter målt vinkelrett på huden.
 2. Innretningen skal være vanntett oppdelt slik at når det antas kollisjonsskade i henhold til nr. 1 skal minst ett vanntett skott kunne antas som skadet. Når skade av mindre utstrekning enn den nevnt i nr. 1 resulterer i en mer ugunstig tilstand, skal slik mindre skade antas.
 
 ### § 28. Unntak fra antatt skade for halvt nedsenkbare innretninger
 
-For halvt nedsenkbare innretninger kan det ved beregning av skadestabilitet etter antatt skade i henhold til [§ 24](forskrift/1991-12-20-878/§24) og [§ 27](forskrift/1991-12-20-878/§27), ses bort fra fylling av ballasttanker, som alltid er fulle på de aktuelle dypganger, under følgende forutsetninger:Det skal klart fremgå av ballasteringsprosedyren i operasjonsmanualen at de aktuelle tanker skal være fulle for de aktuelle dypganger, uansett lastetilstand.På KG-grensekurven skal det angis hvilke tanker som er forutsatt fulle og hvilket dypgangsområde det gjelder.
+For halvt nedsenkbare innretninger kan det ved beregning av skadestabilitet etter antatt skade i henhold til [§ 24](forskrift/1991-12-20-878/§24) og [§ 27](forskrift/1991-12-20-878/§27), ses bort fra fylling av ballasttanker, som alltid er fulle på de aktuelle dypganger, under følgende forutsetninger:
+
+1. Det skal klart fremgå av ballasteringsprosedyren i operasjonsmanualen at de aktuelle tanker skal være fulle for de aktuelle dypganger, uansett lastetilstand.
+2. På KG-grensekurven skal det angis hvilke tanker som er forutsatt fulle og hvilket dypgangsområde det gjelder.
 
 ## Kapittel VIII. Fribord og lastelinjeforhold
 
@@ -255,8 +354,14 @@ For halvt nedsenkbare innretninger kan det ved beregning av skadestabilitet ette
 
 ### § 30. Styrke på vanntette skott
 
-1. Generelle krav.De skott som med referanse til skadestabilitetsberegningene forutsettes å være vanntette, skal dimensjoneres for det maksimale vanntrykk som vil kunne oppstå ved krenging etter skade i henhold til stabilitetskrav i [§ 21](forskrift/1991-12-20-878/§21), med en utnyttelsesfaktor på 0,75 mot materialets flytegrense. Det skal kunne framlegges bekreftelse på styrken fra MOU-klasseinstitusjon.
-2. Tilleggskrav for halvt nedsenkbare innretninger.Alle neddykkede skott rundt oppdriftsgivende volumer samt vanntette barrierer ved topp av søylene skal dimensjoneres for også å kunne motstå det vanntrykk som vil oppstå ved krengning i henhold til stabilitetskrav i [§ 22](forskrift/1991-12-20-878/§22) nr. 1 a) og b). Det skal kunne fremlegges bekreftelse på styrken fra MOU-klasseinstitusjon.Skott og barrierer nevnt i a) tillates dimensjonert med en utnyttelsesfaktor 0,95 mot materialets bruddgrense.Vanntette skott rundt oppdriftsgivende volum plassert over søyletoppen skal som minimum dimensjoneres i henhold til regelkrav for utvendige skott som blir utsatt for bølgeslag, gitt av MOU-klasseinstitusjon.
+1. Generelle krav.
+
+   De skott som med referanse til skadestabilitetsberegningene forutsettes å være vanntette, skal dimensjoneres for det maksimale vanntrykk som vil kunne oppstå ved krenging etter skade i henhold til stabilitetskrav i [§ 21](forskrift/1991-12-20-878/§21), med en utnyttelsesfaktor på 0,75 mot materialets flytegrense. Det skal kunne framlegges bekreftelse på styrken fra MOU-klasseinstitusjon.
+2. Tilleggskrav for halvt nedsenkbare innretninger.
+
+   1. Alle neddykkede skott rundt oppdriftsgivende volumer samt vanntette barrierer ved topp av søylene skal dimensjoneres for også å kunne motstå det vanntrykk som vil oppstå ved krengning i henhold til stabilitetskrav i [§ 22](forskrift/1991-12-20-878/§22) nr. 1 a) og b). Det skal kunne fremlegges bekreftelse på styrken fra MOU-klasseinstitusjon.
+   2. Skott og barrierer nevnt i a) tillates dimensjonert med en utnyttelsesfaktor 0,95 mot materialets bruddgrense.
+   3. Vanntette skott rundt oppdriftsgivende volum plassert over søyletoppen skal som minimum dimensjoneres i henhold til regelkrav for utvendige skott som blir utsatt for bølgeslag, gitt av MOU-klasseinstitusjon.
 
 > Endret ved forskrifter [2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999), [11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
@@ -276,7 +381,12 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 ### § 33. Krav om fjernstengesystem
 
 1. Lukningsmidler som skal være av vanntett type i henhold til krav i [§ 18](forskrift/1991-12-20-878/§18) nr. 3 bokstav a, [§ 21](forskrift/1991-12-20-878/§21) nr. 1, [§ 22](forskrift/1991-12-20-878/§22) nr. 2 og [§ 45](forskrift/1991-12-20-878/§45), skal kunne fjernstenges fra et kontrollpanel, jf. [§ 37](forskrift/1991-12-20-878/§37).
-2. Lukningsmidler kan likevel arrangeres uten fjernstengesystem dersom følgende forutsetninger er oppfylt:de står stengt og instruks om at de alltid skal holdes lukket når innretningen er i sjøen, står oppslått på hvert lukningsmiddel,de benyttes som adkomst til avlukkede rom som ikke er i bruk, og i områder ikke beregnet for vanlig ferdsel,kontrollsystemet ellers følger kravene i [§ 37](forskrift/1991-12-20-878/§37) nr. 1 bokstav b, c og d, nr. 2 og nr. 3, ogsentrallukkere for tersene er anordnet på lukningsmidler som tjener som atkomst eller nødutgang.
+2. Lukningsmidler kan likevel arrangeres uten fjernstengesystem dersom følgende forutsetninger er oppfylt:
+
+   1. de står stengt og instruks om at de alltid skal holdes lukket når innretningen er i sjøen, står oppslått på hvert lukningsmiddel,
+   2. de benyttes som adkomst til avlukkede rom som ikke er i bruk, og i områder ikke beregnet for vanlig ferdsel,
+   3. kontrollsystemet ellers følger kravene i [§ 37](forskrift/1991-12-20-878/§37) nr. 1 bokstav b, c og d, nr. 2 og nr. 3, og
+   4. sentrallukkere for tersene er anordnet på lukningsmidler som tjener som atkomst eller nødutgang.
 
 > Endret ved forskrifter [2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999), [11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
@@ -284,7 +394,11 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 
 1. Vanntette lunkningsmidler skal være dimensjonert for å kunne motstå trykk, normalt fra begge sider. Dimensjonerende trykk skal tilsvare det maksimale vanntrykk som vil kunne oppstå ved krenging som spesifisert i [§ 30](forskrift/1991-12-20-878/§30). Styrkeberegning skal utføres i henhold til anerkjente standarder, jf. [§ 2](forskrift/1991-12-20-878/§2) nr. 1.
 2. Lukningsmidler plassert i vanntette skott over søyletoppen skal minst dimensjoneres i henhold til [§ 30](forskrift/1991-12-20-878/§30) nr. 2 c).
-3. Prototyp av lukningsmidlet, montert som forutsatt ombord, skal trykkprøves hos produsent, etter følgende kriterier:minimum prøvetrykk = aktuelt vanntrykk + 5 meter vannsøyle, for vinduer 3 x aktuelt vanntrykk minimum 5 meter vannsøyletrykkprøving foretas med vann fra den mest kritiske sideakseptabel vannlekkasje = 2 liter pr. minutt/m2 lysareal.
+3. Prototyp av lukningsmidlet, montert som forutsatt ombord, skal trykkprøves hos produsent, etter følgende kriterier:
+
+   1. minimum prøvetrykk = aktuelt vanntrykk + 5 meter vannsøyle, for vinduer 3 x aktuelt vanntrykk minimum 5 meter vannsøyle
+   2. trykkprøving foretas med vann fra den mest kritiske side
+   3. akseptabel vannlekkasje = 2 liter pr. minutt/m2 lysareal.
 4. Lukningsmidlet skal som følge av trykkprøven ikke få permanente deformasjoner.
 5. Etter installasjon ombord skal lukningsmidler som dører, luker og spjeld tetthetsprøves ved spyleprøve. Dersom tetning er lett synlig ved stengt lukningsmiddel, kan kontroll med søker, krittprøving e.l. aksepteres.
 6. Dersom lukningsmidlet også skal benyttes som brannskille, skal prototypen testes fra mest kritiske side, i henhold til gjeldende brannkrav. For vanntette skyvedører, se også [§ 41](forskrift/1991-12-20-878/§41) nr. 5.
@@ -306,7 +420,19 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 
 ### § 37. Utstyr på og plassering av kontrollpanel og kontrollrom
 
-1. Kontrollpanelet for lukningsmidlene skal være utstyrt med:Fjernstengesystem med betjeningsvelger for stillingene: «normal operasjon» og «nødstenging» jf. [§ 38](forskrift/1991-12-20-878/§38).Diagram som viser plassering av hvert lukningsmiddel.Lysindikator som angir om hvert enkelt lukningsmiddel er åpent eller lukket (indikator på stenge/tersemekanismen).Lydalarm som, innen 1 time, varsler at et lukningsmiddel, som skal være lukket, har blitt stående åpent.For lukningsmidler som har mekanisk/hydraulisk fjernstengesystem, et alarmsystem som gir:– lav-nivå-alarm for hydraulikkoljetanken– lav-nivå-alarm for lagret energi (trykk) i akkumulatorene– lav-nivå-alarm for krafttilførsel (måles nærmest mulig drivkilden)
+1. Kontrollpanelet for lukningsmidlene skal være utstyrt med:
+
+   1. Fjernstengesystem med betjeningsvelger for stillingene: «normal operasjon» og «nødstenging» jf. [§ 38](forskrift/1991-12-20-878/§38).
+   2. Diagram som viser plassering av hvert lukningsmiddel.
+   3. Lysindikator som angir om hvert enkelt lukningsmiddel er åpent eller lukket (indikator på stenge/tersemekanismen).
+   4. Lydalarm som, innen 1 time, varsler at et lukningsmiddel, som skal være lukket, har blitt stående åpent.
+   5. For lukningsmidler som har mekanisk/hydraulisk fjernstengesystem, et alarmsystem som gir:
+
+      – lav-nivå-alarm for hydraulikkoljetanken
+
+      – lav-nivå-alarm for lagret energi (trykk) i akkumulatorene
+
+      – lav-nivå-alarm for krafttilførsel (måles nærmest mulig drivkilden)
 2. Kontrollpanelet skal, sammen med ballastkontrollpanelet, være plassert i bemannet kontrollstasjon1.
 3. Kontrollstasjonen skal være plassert over ugunstigste vannlinje ved krengevinkler spesifisert i [§ 30](forskrift/1991-12-20-878/§30), samt være tilstrekkelig beskyttet mot vær og vind.
 
@@ -324,7 +450,11 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 
 1. Krafttilførselen til det mekanisk/hydrauliske fjernstengesystemet skal tilkobles hoved- og nødtavlen.
 2. Det mekanisk/hydrauliske systemet skal være adskilt fra andre systemer og konstrueres slik at en enkelt feil normalt bare påvirker betjening av ett lukningsmiddel, og uansett ikke medføre at noe stengt lukningsmiddel åpner seg.
-3. Det mekanisk/hydrauliske fjernstengesystemet kan enten være et:sentralisert system med to uavhengige pumper hver tilknyttet akkumulatorer. Akkumulatorenes samlede kapasitet skal være stor nok til å kunne operere 50% av alle lukningsmidlene minst 3 ganger (lukke, åpne, lukke), ved krenging som spesifisert i [§ 30](forskrift/1991-12-20-878/§30). For vanntette skyvedører se også krav i kapittel XII, eller:uavhengig system for hvert lukningsmiddel, hver med pumpe og akkumulator. Akkumulatorenes kapasitet skal være stor nok til å kunne operere lukningsmidlet minst 3 ganger (lukke, åpne, lukke), ved krenging som spesifisert i [§ 30](forskrift/1991-12-20-878/§30). For vanntette skyvedører se også krav i kapittel XII, eller:kombinasjon av alternativ a) og b).
+3. Det mekanisk/hydrauliske fjernstengesystemet kan enten være et:
+
+   1. sentralisert system med to uavhengige pumper hver tilknyttet akkumulatorer. Akkumulatorenes samlede kapasitet skal være stor nok til å kunne operere 50% av alle lukningsmidlene minst 3 ganger (lukke, åpne, lukke), ved krenging som spesifisert i [§ 30](forskrift/1991-12-20-878/§30). For vanntette skyvedører se også krav i kapittel XII, eller:
+   2. uavhengig system for hvert lukningsmiddel, hver med pumpe og akkumulator. Akkumulatorenes kapasitet skal være stor nok til å kunne operere lukningsmidlet minst 3 ganger (lukke, åpne, lukke), ved krenging som spesifisert i [§ 30](forskrift/1991-12-20-878/§30). For vanntette skyvedører se også krav i kapittel XII, eller:
+   3. kombinasjon av alternativ a) og b).
 4. Med innretningen i opprett stilling skal fjernstengesystemet/akkumulatorene også ha kapasitet til å kunne fjernstenge alle lukningsmidlene samtidig i løpet av 60 sekunder.
 5. Tiden fra selve lukningsmidlet settes i bevegelse til det er helt stengt, skal både i «normal operasjon» og under «nødstenging» være mellom 20 og 40 sekunder. Åpning av døren skal minst gå like hurtig.
 
@@ -347,7 +477,10 @@ Vanntette skyvedører skal i tillegg til krav gitt i kapitlene X og XI oppfylle 
 2. Med innretningen i opprett stilling, skal det være mulig å lukke dørene lokalt ved hjelp av håndpumpe i løpet av 90 sekunder. En enkelt feil i fjernstengesystemet skal ikke hindre operasjon av dørene ved hjelp av håndpumpe.
 3. Lokal betjening av dørene skal foregå ved hjelp av én hendel. Dvs. samme hendel skal benyttes både ved «normal operasjon», ved «nødstenging» og ved bruk av håndpumpe.
 4. For å sikre mot feilbetjening av dørene mens innretningen ligger ved kai/på verksted e.l., må fjernstengesystemet kunne kobles ut manuelt og låses i denne stilling. De vanntette dørene blir da stående i åpen stilling. Ingen form for fjernstenging eller lokal operasjon av dørene skal da få dørene til å lukke før systemet på nytt er aktivert manuelt.
-5. Vanntette skyvedører kan også være branndører forutsatt at:dørene brannisoleres slik at de er likeverdige med de brannskottene de skal plasseres idet mekanisk/hydrauliske fjernstengesystemet konstrueres slik at dørene ikke åpner seg under varmepåvirkning.
+5. Vanntette skyvedører kan også være branndører forutsatt at:
+
+   1. dørene brannisoleres slik at de er likeverdige med de brannskottene de skal plasseres i
+   2. det mekanisk/hydrauliske fjernstengesystemet konstrueres slik at dørene ikke åpner seg under varmepåvirkning.
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999).
 
@@ -399,8 +532,27 @@ Dersom ventilatorer o.l. er plassert slik at de kan bli skadet eller revet løs 
 ### § 49. Stabilitetsinstruks og operasjonsmanual
 
 1. Det skal utarbeides skriftlig instruks om daglig oppfølging av stabiliteten i henhold til denne forskrift. Instruksen skal innarbeides i innretningens operasjonsmanual.
-2. Oppfølgingen av stabiliteten skal gjøres ved:beregning av lastetilstander og kontroll av resultatet mot KG-grensekurvenoppfølging av lettskipsdataopprettholdelse av vanntett oppdelingog, når aktuelt, egne rutiner for:ballastering fra operasjonstilstand til sikkerhetstilstand og fra forflytningstilstand til sikkerhetstilstand, jf. [§ 17](forskrift/1991-12-20-878/§17) og [§ 28](forskrift/1991-12-20-878/§28)spesielle operasjoner, jf. [§ 9](forskrift/1991-12-20-878/§9) nr. 5opprettholdelse av vanntett oppdeling for oppjekkbare innretninger, jf. [§ 50](forskrift/1991-12-20-878/§50), eller for boreskip, jf. [§ 51](forskrift/1991-12-20-878/§51)
-3. I operasjonsmanualen skal det også minst finnes følgende informasjon som er nødvendig for å kunne utføre oppfølgingen som nevnt ovenfor:kort orientering om hvilket regelverk innretningen er dokumentert etter og hva dette innebærer for driften av enhetenKG-grensekurve med tilhørende begrensinger og forklaringer, jf. [§ 9](forskrift/1991-12-20-878/§9), [§ 16](forskrift/1991-12-20-878/§16) og [§ 28](forskrift/1991-12-20-878/§28)formular for beregning av daglige lastetilstander, jf. [§ 15](forskrift/1991-12-20-878/§15) nr. 2data nødvendige for beregning av daglige lastetilstander, jf. [§ 15](forskrift/1991-12-20-878/§15) og [§ 16](forskrift/1991-12-20-878/§16)eksempler på lastetilstander, jf. [§ 17](forskrift/1991-12-20-878/§17)lettskipsdata og formular for videre oppfølging av lettskipsdata, jf. [§ 8](forskrift/1991-12-20-878/§8) nr. 2oversikt over vanntett oppdeling, som også viser hvilke vanntette lukningsmidler som til enhver tid skal stå lukket, og hvilke som skal fjernlukkes enten i en nødsituasjon eller når enheten går til sikkerhetstilstandoversikt over de værtette lukningsmidlene, som også viser hvilke av lukningsmidlene som skal lukkes enten i en nødsituasjon eller når enheten går til sikkerhetstilstand.
+2. Oppfølgingen av stabiliteten skal gjøres ved:
+
+   - beregning av lastetilstander og kontroll av resultatet mot KG-grensekurven
+   - oppfølging av lettskipsdata
+   - opprettholdelse av vanntett oppdeling
+
+   og, når aktuelt, egne rutiner for:
+
+   - ballastering fra operasjonstilstand til sikkerhetstilstand og fra forflytningstilstand til sikkerhetstilstand, jf. [§ 17](forskrift/1991-12-20-878/§17) og [§ 28](forskrift/1991-12-20-878/§28)
+   - spesielle operasjoner, jf. [§ 9](forskrift/1991-12-20-878/§9) nr. 5
+   - opprettholdelse av vanntett oppdeling for oppjekkbare innretninger, jf. [§ 50](forskrift/1991-12-20-878/§50), eller for boreskip, jf. [§ 51](forskrift/1991-12-20-878/§51)
+3. I operasjonsmanualen skal det også minst finnes følgende informasjon som er nødvendig for å kunne utføre oppfølgingen som nevnt ovenfor:
+
+   - kort orientering om hvilket regelverk innretningen er dokumentert etter og hva dette innebærer for driften av enheten
+   - KG-grensekurve med tilhørende begrensinger og forklaringer, jf. [§ 9](forskrift/1991-12-20-878/§9), [§ 16](forskrift/1991-12-20-878/§16) og [§ 28](forskrift/1991-12-20-878/§28)
+   - formular for beregning av daglige lastetilstander, jf. [§ 15](forskrift/1991-12-20-878/§15) nr. 2
+   - data nødvendige for beregning av daglige lastetilstander, jf. [§ 15](forskrift/1991-12-20-878/§15) og [§ 16](forskrift/1991-12-20-878/§16)
+   - eksempler på lastetilstander, jf. [§ 17](forskrift/1991-12-20-878/§17)
+   - lettskipsdata og formular for videre oppfølging av lettskipsdata, jf. [§ 8](forskrift/1991-12-20-878/§8) nr. 2
+   - oversikt over vanntett oppdeling, som også viser hvilke vanntette lukningsmidler som til enhver tid skal stå lukket, og hvilke som skal fjernlukkes enten i en nødsituasjon eller når enheten går til sikkerhetstilstand
+   - oversikt over de værtette lukningsmidlene, som også viser hvilke av lukningsmidlene som skal lukkes enten i en nødsituasjon eller når enheten går til sikkerhetstilstand.
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999).
 

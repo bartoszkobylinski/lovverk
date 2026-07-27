@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1
 
-Forskrifta gjeld for handel i næring med brukte og kassertevarer av edelt metall,edelsteinar og perler,kulturgjenstandar,kunstverk, samleobjekt og antikvitetar,motorvogner og tilhengjarar til motorvogner.Forskrifta gjeld òg for utanlandske foretak som driv handel i Noreg når dei driv handel i næring etter [§ 1 i brukthandellova](lov/1999-12-22-105/§1).
+Forskrifta gjeld for handel i næring med brukte og kasserte
+
+1. varer av edelt metall,
+2. edelsteinar og perler,
+3. kulturgjenstandar,
+4. kunstverk, samleobjekt og antikvitetar,
+5. motorvogner og tilhengjarar til motorvogner.
+
+Forskrifta gjeld òg for utanlandske foretak som driv handel i Noreg når dei driv handel i næring etter [§ 1 i brukthandellova](lov/1999-12-22-105/§1).
 
 Nemninga handel omfattar sal, medrekna auksjonsverksemd, og oppkjøp med sikte på sal av brukte eller kasserte ting, både enkeltgjenstandar og vareparti. Nemninga handel omfattar òg formidling av slik verksemd, jf. [brukthandellova § 1](lov/1999-12-22-105/§1) annet ledd.
 
@@ -36,7 +44,21 @@ Nemninga handlande omfattar alle som har løyve etter [kapittel 2](forskrift/199
 
 ### § 1a
 
-I [brukthandellova](lov/1999-12-22-105) og i denne forskrift blir forstått med:*varer av edelt metall:* varer som definert i [forskrift 10. januar 2011 nr. 12 om varer av edelt metall mv. § 1](forskrift/2011-01-10-12/§1).*edelsteinar og perler:* verdifulle mineral og organiske materialar som brukast i smykkar og liknande eller egner seg for slik bruk på grunn av sin sjeldanheit, vakre utsjåande eller andre ettertrakta eigenskapar. I vurderinga av om ein gjenstand skal reknast som ein edelstein eller perle etter lova, må det i tvilstilfelle leggjast særleg vekt på gjenstandens verdi.*kulturgjenstandar:* gjenstandar som definert i [forskrift 1. januar 2007 nr. 1 om utførsel og innførsel av kulturgjenstander § 2](forskrift/2007-01-01-1/§2). Omgrepet omfattar likevel ikkje fast eigedom.*kunstverk:* varer som definert i [merverdiavgiftsforskriften § 1-3-2](forskrift/2009-12-15-1540/§1-3-2).*samleobjekt:* varer som definert [merverdiavgiftsforskriften § 1-3-3](forskrift/2009-12-15-1540/§1-3-3).*antikvitetar:* varer som definert i [merverdiavgiftsforskriften § 1-3-4](forskrift/2009-12-15-1540/§1-3-4).*motorvogner:* motorvogner som definert [vegtrafikkloven § 2 andre](lov/1965-06-18-4/§2/ledd/2) og [tredje ledd](lov/1965-06-18-4/§2/ledd/3).*tilhengjarar til motorvogner:* tilhengjarar som definert i[forskrift 25. januar 1990 nr 91 om krav til kjøretøy § 1-1 nr. 1 bokstav I](forskrift/1990-01-25-91/§1-1/nummer/1/bokstav/I),[forskrift 4. oktober 1994 nr 918 om tekniske krav og godkjenning av kjøretøy deler og utstyr § 2-5 nr. 5](forskrift/1994-10-04-918/§2-5/nummer/5),[forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften) § 1-5](forskrift/2022-06-28-1233/§1-5) og[forskrift 1. juni 2016 nr. 561 om godkjenning av traktor og tilhenger til traktor § 4](forskrift/2016-06-01-561/§4).
+I [brukthandellova](lov/1999-12-22-105) og i denne forskrift blir forstått med:
+
+1. *varer av edelt metall:* varer som definert i [forskrift 10. januar 2011 nr. 12 om varer av edelt metall mv. § 1](forskrift/2011-01-10-12/§1).
+2. *edelsteinar og perler:* verdifulle mineral og organiske materialar som brukast i smykkar og liknande eller egner seg for slik bruk på grunn av sin sjeldanheit, vakre utsjåande eller andre ettertrakta eigenskapar. I vurderinga av om ein gjenstand skal reknast som ein edelstein eller perle etter lova, må det i tvilstilfelle leggjast særleg vekt på gjenstandens verdi.
+3. *kulturgjenstandar:* gjenstandar som definert i [forskrift 1. januar 2007 nr. 1 om utførsel og innførsel av kulturgjenstander § 2](forskrift/2007-01-01-1/§2). Omgrepet omfattar likevel ikkje fast eigedom.
+4. *kunstverk:* varer som definert i [merverdiavgiftsforskriften § 1-3-2](forskrift/2009-12-15-1540/§1-3-2).
+5. *samleobjekt:* varer som definert [merverdiavgiftsforskriften § 1-3-3](forskrift/2009-12-15-1540/§1-3-3).
+6. *antikvitetar:* varer som definert i [merverdiavgiftsforskriften § 1-3-4](forskrift/2009-12-15-1540/§1-3-4).
+7. *motorvogner:* motorvogner som definert [vegtrafikkloven § 2 andre](lov/1965-06-18-4/§2/ledd/2) og [tredje ledd](lov/1965-06-18-4/§2/ledd/3).
+8. *tilhengjarar til motorvogner:* tilhengjarar som definert i
+
+   - [forskrift 25. januar 1990 nr 91 om krav til kjøretøy § 1-1 nr. 1 bokstav I](forskrift/1990-01-25-91/§1-1/nummer/1/bokstav/I),
+   - [forskrift 4. oktober 1994 nr 918 om tekniske krav og godkjenning av kjøretøy deler og utstyr § 2-5 nr. 5](forskrift/1994-10-04-918/§2-5/nummer/5),
+   - [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften) § 1-5](forskrift/2022-06-28-1233/§1-5) og
+   - [forskrift 1. juni 2016 nr. 561 om godkjenning av traktor og tilhenger til traktor § 4](forskrift/2016-06-01-561/§4).
 
 > Tilføyd ved [forskrift 5 juni 2024 nr. 1000](forskrift/2024-06-05-1000) (i kraft 1 juli 2024).
 
@@ -84,7 +106,13 @@ Vedtak om å nekte eller trekkje attende løyve etter [brukthandellova § 2](lov
 
 ### § 6
 
-Eit løyve skal minst ha opplysningar om:Løyveinnehavaren sitt namn og privatadresse. Dersom det er ein juridisk person: namn og privatadresse for person som nemnt i [§ 3](forskrift/1999-12-22-1379/§3) tredje ledd.Namn og privatadresse på den som skal stå føre handelen når dette er ein annan enn løyveinnehavaren.Adressa til alle forretnings- og oppbevaringsstader, jf. [kapittel 3](forskrift/1999-12-22-1379/kap3).Dei hovudgrupper av ting løyvet gjeld for.Politidistriktet løyvet gjeld for.
+Eit løyve skal minst ha opplysningar om:
+
+- Løyveinnehavaren sitt namn og privatadresse. Dersom det er ein juridisk person: namn og privatadresse for person som nemnt i [§ 3](forskrift/1999-12-22-1379/§3) tredje ledd.
+- Namn og privatadresse på den som skal stå føre handelen når dette er ein annan enn løyveinnehavaren.
+- Adressa til alle forretnings- og oppbevaringsstader, jf. [kapittel 3](forskrift/1999-12-22-1379/kap3).
+- Dei hovudgrupper av ting løyvet gjeld for.
+- Politidistriktet løyvet gjeld for.
 
 Eit løyve kan vere tidsavgrensa dersom politiet finn det formålstenleg.
 
@@ -120,7 +148,12 @@ Den handlande skal føre protokoll godkjent av politiet, over alle mottekne ting
 
 Protokollen skal førast kronologisk og skal til ei kvar tid vere à jour. Mottekne ting skal straks påførast eit nummer, med tilsvarande nummer i protokollen.
 
-I protokollen skal det vere særskilde rubrikkar fornummer på tingendato for når tid tingen er mottekentydeleg merking og forklaring av tingen (medrekna eventuelt identifikasjonsnummer), og kor mange, storleik, mengd og vektnamn og adresse til den personen tingen er motteken frå, og rubrikk for å føre inn kva for legitimasjon som er framvist og merknad om at denne er funnen i orden, jf. [§ 9](forskrift/1999-12-22-1379/§9) andre ledd.
+I protokollen skal det vere særskilde rubrikkar for
+
+1. nummer på tingen
+2. dato for når tid tingen er motteken
+3. tydeleg merking og forklaring av tingen (medrekna eventuelt identifikasjonsnummer), og kor mange, storleik, mengd og vekt
+4. namn og adresse til den personen tingen er motteken frå, og rubrikk for å føre inn kva for legitimasjon som er framvist og merknad om at denne er funnen i orden, jf. [§ 9](forskrift/1999-12-22-1379/§9) andre ledd.
 
 Politiet kan gjere unntak frå føresegnene i første, andre og tredje ledd.
 
@@ -138,7 +171,10 @@ Politiet kan gjere unntak frå krava i første ledd.
 
 ### § 12
 
-[§§ 10](forskrift/1999-12-22-1379/§10) – [11](forskrift/1999-12-22-1379/§11) gjeld ikkje:handel med motorvogner som er registreringspliktige etter [lov 18. juni 1965 nr. 4 (vegtrafikklova) § 15](lov/1965-06-18-4/§15)mottak, kjøp og sal av gjenstandar meint for industriell destruksjon og/eller gjenvinning med unnatak av edle metall, bl.a. platina, sølv og gull.
+[§§ 10](forskrift/1999-12-22-1379/§10) – [11](forskrift/1999-12-22-1379/§11) gjeld ikkje:
+
+1. handel med motorvogner som er registreringspliktige etter [lov 18. juni 1965 nr. 4 (vegtrafikklova) § 15](lov/1965-06-18-4/§15)
+2. mottak, kjøp og sal av gjenstandar meint for industriell destruksjon og/eller gjenvinning med unnatak av edle metall, bl.a. platina, sølv og gull.
 
 > Endra ved [forskrift 20 nov 2006 nr. 1269](forskrift/2006-11-20-1269) (i kraft 1 jan 2007).
 

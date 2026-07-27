@@ -44,7 +44,16 @@ Ortopediingeniørutdanningen kvalifiserer kandidatene til bachelorgrad i ortoped
 
 ### § 3. Kompetanseområder
 
-Ortopediingeniørutdanningen skal gi læringsutbytte i tråd med kravene i kapittel 2-9 under følgende kompetanseområder:Ortopediteknikk – praksis og teoriKroppens funksjon og biomekanikkMaterialteknologi og designProfesjon, psykologi og kommunikasjonSamfunn, folkehelse og etikkHabilitering, rehabilitering og samhandlingInnovasjon og produksjon- og kvalitetsforbedringVitenskapsteori og forskningsmetode.
+Ortopediingeniørutdanningen skal gi læringsutbytte i tråd med kravene i kapittel 2-9 under følgende kompetanseområder:
+
+- Ortopediteknikk – praksis og teori
+- Kroppens funksjon og biomekanikk
+- Materialteknologi og design
+- Profesjon, psykologi og kommunikasjon
+- Samfunn, folkehelse og etikk
+- Habilitering, rehabilitering og samhandling
+- Innovasjon og produksjon- og kvalitetsforbedring
+- Vitenskapsteori og forskningsmetode.
 
 Læringsutbyttebeskrivelsene i [§ 5](forskrift/2025-07-04-1469/§5) e, [§ 12](forskrift/2025-07-04-1469/§12) b, [§ 13](forskrift/2025-07-04-1469/§13) b og d, [§ 15](forskrift/2025-07-04-1469/§15) a, c og d, [§ 16](forskrift/2025-07-04-1469/§16) a–c og f, [§ 18](forskrift/2025-07-04-1469/§18) a og b, [§ 19](forskrift/2025-07-04-1469/§19) a og b, [§ 20](forskrift/2025-07-04-1469/§20) a, [§ 21](forskrift/2025-07-04-1469/§21) a og [22](forskrift/2025-07-04-1469/§22) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -54,101 +63,171 @@ Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjø
 
 ### § 4. Ortopediteknikk – praksis og teori – Kunnskaper
 
-Kandidatenhar bred kunnskap om fordeler og begrensninger med ulike ortopeditekniske tiltak og deres påvirkning på pasientens mulighet til å oppnå best mulig helse, funksjon og deltakelsehar bred kunnskap om klinisk evaluering, og aktuelle måltakings-, produksjons- og tilpasningsmetoder for ortopediske hjelpemidler.
+Kandidaten
+
+1. har bred kunnskap om fordeler og begrensninger med ulike ortopeditekniske tiltak og deres påvirkning på pasientens mulighet til å oppnå best mulig helse, funksjon og deltakelse
+2. har bred kunnskap om klinisk evaluering, og aktuelle måltakings-, produksjons- og tilpasningsmetoder for ortopediske hjelpemidler.
 
 ### § 5. Ortopediteknikk – praksis og teori – Ferdigheter
 
-Kandidatenkan beherske ortopeditekniske og kliniske prosesser i forebygging, behandling og habilitering/rehabiliteringkan anvende faglig kunnskap om helse, miljø og sikkerhet i kliniske og tekniske prosesserkan anvende faglig kunnskap for å utvikle og iverksette en ortopediteknisk oppfølgingsprosess for den enkelte brukerkan anvende kunnskap om fagrelevante utfallsmål og klassifiseringsverktøy, og kan dokumentere kliniske prosesser i samsvar med gjeldende lovverkkan vurdere behovet for og sette inn nødvendige ortopeditekniske tiltak og/eller behandling, eller henvise videre ved behov.
+Kandidaten
+
+1. kan beherske ortopeditekniske og kliniske prosesser i forebygging, behandling og habilitering/rehabilitering
+2. kan anvende faglig kunnskap om helse, miljø og sikkerhet i kliniske og tekniske prosesser
+3. kan anvende faglig kunnskap for å utvikle og iverksette en ortopediteknisk oppfølgingsprosess for den enkelte bruker
+4. kan anvende kunnskap om fagrelevante utfallsmål og klassifiseringsverktøy, og kan dokumentere kliniske prosesser i samsvar med gjeldende lovverk
+5. kan vurdere behovet for og sette inn nødvendige ortopeditekniske tiltak og/eller behandling, eller henvise videre ved behov.
 
 ### § 6. Ortopediteknikk – praksis og teori – Generell kompetanse
 
-Kandidatenhar innsikt i behov for brukermedvirkning på individ- og systemnivåkan planlegge og gjennomføre varierte kunnskapsbaserte arbeidsoppgaver og prosjekter som strekker seg over tid innenfor ortopediingeniørfag.
+Kandidaten
+
+1. har innsikt i behov for brukermedvirkning på individ- og systemnivå
+2. kan planlegge og gjennomføre varierte kunnskapsbaserte arbeidsoppgaver og prosjekter som strekker seg over tid innenfor ortopediingeniørfag.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet kroppens funksjon og biomekanikk
 
 ### § 7. Kroppens funksjon og biomekanikk – Kunnskaper
 
-Kandidatenhar bred kunnskap om anatomi, fysiologi og patologi som forutsetning for helse, aktivitet og deltagelse på alle samfunnets arenaerhar bred kunnskap om bevegelsesvitenskap og biomekanikk innenfor ortopediingeniørfaget.
+Kandidaten
+
+1. har bred kunnskap om anatomi, fysiologi og patologi som forutsetning for helse, aktivitet og deltagelse på alle samfunnets arenaer
+2. har bred kunnskap om bevegelsesvitenskap og biomekanikk innenfor ortopediingeniørfaget.
 
 ### § 8. Kroppens funksjon og biomekanikk – Ferdigheter
 
-Kandidatenkan anvende biomekaniske prinsipper for å analysere hele kroppens bevegelsesmønster, reflektere over funksjonstap og treffe begrunnede valg for eventuelle tiltakkan anvende kunnskap fra anatomi, fysiologi og patologi i gjennomføringen av pasientundersøkelse, og kan treffe begrunnede valg for eventuelle tiltak.
+Kandidaten
+
+1. kan anvende biomekaniske prinsipper for å analysere hele kroppens bevegelsesmønster, reflektere over funksjonstap og treffe begrunnede valg for eventuelle tiltak
+2. kan anvende kunnskap fra anatomi, fysiologi og patologi i gjennomføringen av pasientundersøkelse, og kan treffe begrunnede valg for eventuelle tiltak.
 
 ### § 9. Kroppens funksjon og biomekanikk – Generell kompetanse
 
-Kandidatenkan formidle biomekaniske, materialteknologiske og anatomiske, fysiologiske og patologiske prinsipper som ligger til grunn for ortopeditekniske tiltak.
+Kandidaten
+
+1. kan formidle biomekaniske, materialteknologiske og anatomiske, fysiologiske og patologiske prinsipper som ligger til grunn for ortopeditekniske tiltak.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet materialteknologi og design
 
 ### § 10. Materialteknologi og design – Kunnskaper
 
-Kandidatenhar bred kunnskap om fagrelevante designløsninger og designprinsipperhar kunnskap om fagrelevant materialteknologi.
+Kandidaten
+
+1. har bred kunnskap om fagrelevante designløsninger og designprinsipper
+2. har kunnskap om fagrelevant materialteknologi.
 
 ### § 11. Materialteknologi og design – Ferdigheter
 
-Kandidatenkan beherske relevante materialer, utstyr, komponenter og teknikker i fagutøvelsenkan anvende kunnskap om materialteknologi og design til framstilling av ortopediske hjelpemidler.
+Kandidaten
+
+1. kan beherske relevante materialer, utstyr, komponenter og teknikker i fagutøvelsen
+2. kan anvende kunnskap om materialteknologi og design til framstilling av ortopediske hjelpemidler.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet profesjon, psykologi, og kommunikasjon
 
 ### § 12. Profesjon, psykologi, og kommunikasjon – Kunnskaper
 
-Kandidatenhar kunnskap om ortopediingeniørfagets historie, utvikling, egenart og profesjonens samfunnsoppdragkjenner til ulike typer av assisterende teknologi og bruk av disse, både tverrfaglig, tverrprofesjonelt og tverrsektorielthar kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
+Kandidaten
+
+1. har kunnskap om ortopediingeniørfagets historie, utvikling, egenart og profesjonens samfunnsoppdrag
+2. kjenner til ulike typer av assisterende teknologi og bruk av disse, både tverrfaglig, tverrprofesjonelt og tverrsektorielt
+3. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
 
 ### § 13. Profesjon, psykologi, og kommunikasjon – Ferdigheter
 
-Kandidatenkan beherske skriftlig og muntlig kommunikasjon på en profesjonell måte i møte med pasienter og andre samarbeidspartnerekan anvende digital kompetanse og bistå i utviklingen og bruken av egnet teknologi på både individ- og systemnivå. Videre skal kandidaten kjenne til krav og utfordringer rundt digital sikkerhetkan reflektere over egen praksis, samt lærings- og kompetansebehov for å holde seg oppdatert og treffe begrunnede valgkan vurdere og beskrive egne læringsbehov, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
+Kandidaten
+
+1. kan beherske skriftlig og muntlig kommunikasjon på en profesjonell måte i møte med pasienter og andre samarbeidspartnere
+2. kan anvende digital kompetanse og bistå i utviklingen og bruken av egnet teknologi på både individ- og systemnivå. Videre skal kandidaten kjenne til krav og utfordringer rundt digital sikkerhet
+3. kan reflektere over egen praksis, samt lærings- og kompetansebehov for å holde seg oppdatert og treffe begrunnede valg
+4. kan vurdere og beskrive egne læringsbehov, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
 
 ### § 14. Profesjon, psykologi, og kommunikasjon – Generell kompetanse
 
-Kandidatenhar innsikt i helhetlig tilnærming i møte med pasientenkan utveksle synspunkter og erfaringer med pasienter, pårørende og fagpersoner, og ha forståelse for andres perspektiver og ståsteder.
+Kandidaten
+
+1. har innsikt i helhetlig tilnærming i møte med pasienten
+2. kan utveksle synspunkter og erfaringer med pasienter, pårørende og fagpersoner, og ha forståelse for andres perspektiver og ståsteder.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet samfunn, folkehelse og etikk
 
 ### § 15. Samfunn, folkehelse og etikk – Kunnskaper
 
-Kandidatenhar kunnskap om og forholder seg til helse- og sosialpolitikkkjenner til helsevesenets organiseringhar kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, samt rus- og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringerhar kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet.
+Kandidaten
+
+1. har kunnskap om og forholder seg til helse- og sosialpolitikk
+2. kjenner til helsevesenets organisering
+3. har kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, samt rus- og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer
+4. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet.
 
 ### § 16. Samfunn, folkehelse og etikk – Ferdigheter
 
-Kandidatenkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk, veiledere og retningslinjer i sin tjenesteutøvelsekan anvende kunnskap om menneskerettigheter, inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, språk, religion og livssyn, funksjonsnedsettelse, sosial bakgrunn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnetkan reflektere over sammenhenger mellom helse, utdanning og arbeids- og levekår, og kan bidra til god folkehelse, sosial inkludering og arbeidsinkludering i møte med enkeltpersoner og grupper i samfunnetkan reflektere over og følge opp pasientens behov for koordinerte tjenesterkan reflektere over egne ferdigheter og begrensninger for å ivareta den enkelte pasientens helse og sikkerhet på en etisk og forsvarlig måtekan identifisere, reflektere over, vurdere og håndtere etiske problemstillinger i sin yrkesutøvelse.
+Kandidaten
+
+1. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk, veiledere og retningslinjer i sin tjenesteutøvelse
+2. kan anvende kunnskap om menneskerettigheter, inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, språk, religion og livssyn, funksjonsnedsettelse, sosial bakgrunn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+3. kan reflektere over sammenhenger mellom helse, utdanning og arbeids- og levekår, og kan bidra til god folkehelse, sosial inkludering og arbeidsinkludering i møte med enkeltpersoner og grupper i samfunnet
+4. kan reflektere over og følge opp pasientens behov for koordinerte tjenester
+5. kan reflektere over egne ferdigheter og begrensninger for å ivareta den enkelte pasientens helse og sikkerhet på en etisk og forsvarlig måte
+6. kan identifisere, reflektere over, vurdere og håndtere etiske problemstillinger i sin yrkesutøvelse.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet habilitering, rehabilitering og samhandling
 
 ### § 17. Habilitering, rehabilitering og samhandling – Kunnskaper
 
-Kandidatenhar bred kunnskap om ortopediingeniørens rolle og funksjon innen forebyggende, behandlende, habiliterende og rehabiliterende virksomhethar kunnskap om andre profesjoners kompetanseområde som grunnlag for samarbeid.
+Kandidaten
+
+1. har bred kunnskap om ortopediingeniørens rolle og funksjon innen forebyggende, behandlende, habiliterende og rehabiliterende virksomhet
+2. har kunnskap om andre profesjoners kompetanseområde som grunnlag for samarbeid.
 
 ### § 18. Habilitering, rehabilitering og samhandling – Ferdigheter
 
-Kandidatenkan anvende relevant kunnskap for å ivareta barn, unge og eldres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheterkan anvende relasjons-, kommunikasjons- og veiledningskompetanse for å forstå, veilede og samhandle med pasient, pårørende og andre som er i lærings-, mestrings- og endringsprosesser.
+Kandidaten
+
+1. kan anvende relevant kunnskap for å ivareta barn, unge og eldres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter
+2. kan anvende relasjons-, kommunikasjons- og veiledningskompetanse for å forstå, veilede og samhandle med pasient, pårørende og andre som er i lærings-, mestrings- og endringsprosesser.
 
 ### § 19. Habilitering, rehabilitering og samhandling – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre tverrfaglig, tverrprofesjonelt og tverrsektorielt samarbeid på tvers av virksomheter og nivåerkan formidle og dokumentere sin faglige kunnskap.
+Kandidaten
+
+1. kan planlegge og gjennomføre tverrfaglig, tverrprofesjonelt og tverrsektorielt samarbeid på tvers av virksomheter og nivåer
+2. kan formidle og dokumentere sin faglige kunnskap.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet innovasjon, produksjon- og kvalitetsforbedring
 
 ### § 20. Innovasjon, produksjon- og kvalitetsforbedring – Kunnskaper
 
-Kandidatenkjenner til pasientsikkerhetsarbeid og systematisk kvalitetsforbedringkjenner til hvordan ortopediingeniørfaget påvirker og påvirkes av globale utfordringer innenfor assisterende teknologi og folkehelse, samt til bærekraft og miljø i et samfunn i endring.
+Kandidaten
+
+1. kjenner til pasientsikkerhetsarbeid og systematisk kvalitetsforbedring
+2. kjenner til hvordan ortopediingeniørfaget påvirker og påvirkes av globale utfordringer innenfor assisterende teknologi og folkehelse, samt til bærekraft og miljø i et samfunn i endring.
 
 ### § 21. Innovasjon, produksjon- og kvalitetsforbedring – Ferdigheter
 
-Kandidatenkan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk samt bidra til en kultur som bærer preg av åpenhet rundt slike hendelser.
+Kandidaten
+
+1. kan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk samt bidra til en kultur som bærer preg av åpenhet rundt slike hendelser.
 
 ### § 22. Innovasjon, produksjon- og kvalitetsforbedring – Generell kompetanse
 
-Kandidatenkjenner til nytenkning og innovasjonsprosesser for produkt- og tjenesteutvikling innen ortopediingeniørfaget.
+Kandidaten
+
+1. kjenner til nytenkning og innovasjonsprosesser for produkt- og tjenesteutvikling innen ortopediingeniørfaget.
 
 ## Kapittel 9. Læringsutbytte for kompetanseområdet vitenskapsteori og forskningsmetode
 
 ### § 23. Vitenskapsteori og forskningsmetode – Kunnskaper
 
-Kandidatenkjenner til ulike typer forsknings- og utviklingsarbeid som er relevant for ortopediingeniørfaget og er bevisst på sammenhengen mellom dette og praktisk erfaring.
+Kandidaten
+
+1. kjenner til ulike typer forsknings- og utviklingsarbeid som er relevant for ortopediingeniørfaget og er bevisst på sammenhengen mellom dette og praktisk erfaring.
 
 ### § 24. Vitenskapsteori og forskningsmetode – Ferdigheter
 
-Kandidatenkan finne, vurdere og henvise til informasjon og fagstoff, og formidle dette slik at det belyser en faglig relevant problemstilling.
+Kandidaten
+
+1. kan finne, vurdere og henvise til informasjon og fagstoff, og formidle dette slik at det belyser en faglig relevant problemstilling.
 
 ## Kapittel 10. Studiets oppbygning og praksisstudier
 

@@ -130,7 +130,11 @@ Forskerlinjen er et toårig tilleggsstudium ved profesjonsstudiet i veterinærme
 
 (3) Tilgang til emner reguleres av emnebeskrivelsene.
 
-(4) Enkeltemnestudenter kan ikke:ta emner innen veterinær- og dyrepleierstudienemelde seg opp til gradsoppgave(r)ta spesialpensum.
+(4) Enkeltemnestudenter kan ikke:
+
+- ta emner innen veterinær- og dyrepleierstudiene
+- melde seg opp til gradsoppgave(r)
+- ta spesialpensum.
 
 (5) Enkeltemnestudenter kan maksimalt ta 30 studiepoeng pr. semester.
 
@@ -224,7 +228,10 @@ Rektor kan fastsette utfyllende bestemmelser om privatister.
 
 (2) Enhver student skal semesterregistrere seg og betale semesteravgift innen fastsatt frist. Studenten må i tillegg bekrefte utdanningsplanen sin. Unnlatelse av å semesterregistrere seg eller å betale semesteravgift kan føre til inndragning av studieretten jf. [§ 17-6 første ledd](forskrift/2023-03-09-322/§17-6/ledd/1). For ph.d.-studenter er det unntak fra kravene i dette ledd.
 
-(3) For å bli vurdert i et emne er det i tillegg krav om at studenten:vurderingsmelder seg i emnet samtgjennomfører eventuelle krav om obligatorisk aktivitet
+(3) For å bli vurdert i et emne er det i tillegg krav om at studenten:
+
+1. vurderingsmelder seg i emnet samt
+2. gjennomfører eventuelle krav om obligatorisk aktivitet
 
 (4) Rektor kan fastsette utfyllende bestemmelser om plikter knyttet til studieretten.
 
@@ -258,9 +265,22 @@ Rektor kan fastsette utfyllende bestemmelser om privatister.
 
 ### § 17-6. Inndragning av studieretten
 
-(1) Studentens studierett ved NMBU kan bli inndratt når studenten:oppfyller kravene for tildeling av grad jf. [kapittel 45](forskrift/2023-03-09-322/kap45) eller ph.d.-forskriften [§ 18](forskrift/2020-01-30-1471/§18)får opptak til et annet studieprogram på samme nivå ved NMBU jf. [kapittel 26](forskrift/2023-03-09-322/kap26)selv skriftlig bekrefter at vedkommende trekker seg fra studieprogrammet før det er fullførtsom har fått innvilget betinget opptak ikke oppfyller betingelsene for opptaket innen fastsatt frist jf. [§ 6-1](forskrift/2023-03-09-322/§6-1)ikke har betalt semesteravgift og/eller ikke har bekreftet sin utdanningsplan innen gjeldende frister jf. [§ 17-2](forskrift/2023-03-09-322/§17-2/ledd/2) andre leddikke består eksamen/vurdering i et obligatorisk emne jf. bestemmelsene om antall forsøk i [kapittel 38](forskrift/2023-03-09-322/kap38)er mer enn 60 studiepoeng etter normert studieprogresjon (i studier med særskilte krav til studieprogresjon gjelder regler beskrevet i studieplanen)i løpet av ett år ikke har vist aktivitet i form av avlagte studiepoeng eller delstudier i utlandet (i studier med særskilte krav til studiepoengproduksjon gjelder regler beskrevet i studieplanen).
+(1) Studentens studierett ved NMBU kan bli inndratt når studenten:
 
-(2) Inndragning av studieretten ved stryk eller ikke levert gradsoppgave:Studenter som oppnår stryk (F) på en gradsoppgave, kan levere gradsoppgaven i omarbeidet form iht. bestemmelsene i [§ 44-11 andre ledd](forskrift/2023-03-09-322/§44-11/ledd/2). Ved stryk (F) på en omarbeidet gradsoppgave mister studenten studieretten.Studenter som oppnår stryk (F) på en gradsoppgave som ikke lar seg omarbeide mister studieretten.Studenter som ikke leverer gradsoppgave innen fastsatt frist mister studieretten jf. [§ 44-7](forskrift/2023-03-09-322/§44-7).
+1. oppfyller kravene for tildeling av grad jf. [kapittel 45](forskrift/2023-03-09-322/kap45) eller ph.d.-forskriften [§ 18](forskrift/2020-01-30-1471/§18)
+2. får opptak til et annet studieprogram på samme nivå ved NMBU jf. [kapittel 26](forskrift/2023-03-09-322/kap26)
+3. selv skriftlig bekrefter at vedkommende trekker seg fra studieprogrammet før det er fullført
+4. som har fått innvilget betinget opptak ikke oppfyller betingelsene for opptaket innen fastsatt frist jf. [§ 6-1](forskrift/2023-03-09-322/§6-1)
+5. ikke har betalt semesteravgift og/eller ikke har bekreftet sin utdanningsplan innen gjeldende frister jf. [§ 17-2](forskrift/2023-03-09-322/§17-2/ledd/2) andre ledd
+6. ikke består eksamen/vurdering i et obligatorisk emne jf. bestemmelsene om antall forsøk i [kapittel 38](forskrift/2023-03-09-322/kap38)
+7. er mer enn 60 studiepoeng etter normert studieprogresjon (i studier med særskilte krav til studieprogresjon gjelder regler beskrevet i studieplanen)
+8. i løpet av ett år ikke har vist aktivitet i form av avlagte studiepoeng eller delstudier i utlandet (i studier med særskilte krav til studiepoengproduksjon gjelder regler beskrevet i studieplanen).
+
+(2) Inndragning av studieretten ved stryk eller ikke levert gradsoppgave:
+
+1. Studenter som oppnår stryk (F) på en gradsoppgave, kan levere gradsoppgaven i omarbeidet form iht. bestemmelsene i [§ 44-11 andre ledd](forskrift/2023-03-09-322/§44-11/ledd/2). Ved stryk (F) på en omarbeidet gradsoppgave mister studenten studieretten.
+2. Studenter som oppnår stryk (F) på en gradsoppgave som ikke lar seg omarbeide mister studieretten.
+3. Studenter som ikke leverer gradsoppgave innen fastsatt frist mister studieretten jf. [§ 44-7](forskrift/2023-03-09-322/§44-7).
 
 (3) For studieprogram med fastsatt sluttdato opphører studieretten ved denne dato.
 
@@ -272,7 +292,11 @@ Rektor kan fastsette utfyllende bestemmelser om privatister.
 
 ### § 17-7. Krav til studieprogresjon for veterinær- og dyrepleierstudiene
 
-For veterinær- og dyrepleierstudiene gjelder spesielle krav til studiepoengprogresjon for hvert enkelt studieår. Disse kravene fremgår av studieplanen. Følgende tilleggsbestemmelser gjelder:En student som uten innvilget permisjon avbryter studiet for lengre tid enn tre måneder, mister studieretten.Ved fravær fra obligatorisk undervisning som overstiger det som kan godkjennes for emnet, må forsømt undervisning tas igjen. Bestemmelser om hva som overstiger kravet til godkjenning innen hvert enkelt emne, skal fremgå av studieplanen/emnebeskrivelsen.Dersom en student unnlater å gjennomføre pålagt erstatningsundervisning, eller dersom en student har vært så mye borte fra obligatorisk undervisning at forsømt undervisning ikke kan gjennomføres på samme årskull, kan fakultetet bestemme at vedkommende skal flyttes ned til et lavere årskull.
+For veterinær- og dyrepleierstudiene gjelder spesielle krav til studiepoengprogresjon for hvert enkelt studieår. Disse kravene fremgår av studieplanen. Følgende tilleggsbestemmelser gjelder:
+
+1. En student som uten innvilget permisjon avbryter studiet for lengre tid enn tre måneder, mister studieretten.
+2. Ved fravær fra obligatorisk undervisning som overstiger det som kan godkjennes for emnet, må forsømt undervisning tas igjen. Bestemmelser om hva som overstiger kravet til godkjenning innen hvert enkelt emne, skal fremgå av studieplanen/emnebeskrivelsen.
+3. Dersom en student unnlater å gjennomføre pålagt erstatningsundervisning, eller dersom en student har vært så mye borte fra obligatorisk undervisning at forsømt undervisning ikke kan gjennomføres på samme årskull, kan fakultetet bestemme at vedkommende skal flyttes ned til et lavere årskull.
 
 ### § 17-8. Erklæring ved taushetsbelagte forhold, samt ved bruk av forsøksdyr
 
@@ -350,7 +374,14 @@ Emner ved NMBU som faglig helt eller delvis overlapper hverandre, vil medføre r
 
 (4) Før oppstart skal det utformes en skriftlig avtale mellom studenten(e) og veileder(ne). Avtalen skal blant annet inneholde: læringsmål, læringsutbytte, nivå, vurderingsform, omfang og ansvarsforhold i forhold til veiledningen. Avtalen skal godkjennes av fakultetet.
 
-(5) Spesialpensum:Spesialpensum i tilknytning til masteroppgaven skal være på masternivå.Spesialpensum kan utføres av en enkelt student eller av en gruppe studenter.I hver grad kan det maksimalt inngå to spesialpensumer.I en bachelorgrad kan det maksimalt inngå 10 studiepoeng spesialpensum.I en 2-årig mastergrad kan det maksimalt inngå 20 studiepoeng spesialpensum.I en 5-årig mastergrad kan det maksimalt inngå 30 studiepoeng spesialpensum.
+(5) Spesialpensum:
+
+1. Spesialpensum i tilknytning til masteroppgaven skal være på masternivå.
+2. Spesialpensum kan utføres av en enkelt student eller av en gruppe studenter.
+3. I hver grad kan det maksimalt inngå to spesialpensumer.
+4. I en bachelorgrad kan det maksimalt inngå 10 studiepoeng spesialpensum.
+5. I en 2-årig mastergrad kan det maksimalt inngå 20 studiepoeng spesialpensum.
+6. I en 5-årig mastergrad kan det maksimalt inngå 30 studiepoeng spesialpensum.
 
 (6) For spesialpensum på ph.d.-nivå og for studenter fra samarbeidsprogram gjelder det unntak fra bestemmelsene i femte ledd.
 
@@ -576,7 +607,10 @@ Rektor kan fastsette utfyllende bestemmelser til oppmelding og gjennomføring av
 
 (2) Det gis adgang til å fremstille seg til vurdering av gradsoppgave i samme studieprogram to ganger, unntak følger av [§ 38-1 tredje ledd](forskrift/2023-03-09-322/§38-1/ledd/3). Inndragning av studieretten følger av [§ 17-6 andre ledd](forskrift/2023-03-09-322/§17-6/ledd/2).
 
-(3) Dersom et emne er bestått, har studentene mulighet til å fremstille seg til vurdering i samme emne på nytt. Unntak:Gjentak av bestått gradsoppgave tillates ikke jf. [§ 44-11](forskrift/2023-03-09-322/§44-11) tredje ledd.Emner som inngår i på veterinær- og dyrepleierstudiene.
+(3) Dersom et emne er bestått, har studentene mulighet til å fremstille seg til vurdering i samme emne på nytt. Unntak:
+
+- Gjentak av bestått gradsoppgave tillates ikke jf. [§ 44-11](forskrift/2023-03-09-322/§44-11) tredje ledd.
+- Emner som inngår i på veterinær- og dyrepleierstudiene.
 
 (4) Studenter som gis tillatelse til å fremstille seg til vurdering i et emne som tidligere er bestått, har ikke krav på å kunne følge undervisningen i emner med begrenset kapasitet.
 
@@ -624,13 +658,20 @@ Krav til bruk av sensorer, samt krav til sensorveiledning reguleres av de til en
 
 (1) Det er krav om ekstern sensor enten ved sensur av den enkelte eksamen eller ved ekstern evaluering av eksamens- og sensurordningen.
 
-(2) Det er i tillegg til bestemmelsen i første ledd, krav om to sensorer, hvorav minst én ekstern sensor, ved:sensur av masteroppgave og lignende selvstendige arbeid i høyere gradny sensurering som følge av klage på karakter eller klage over formelle feil.
+(2) Det er i tillegg til bestemmelsen i første ledd, krav om to sensorer, hvorav minst én ekstern sensor, ved:
+
+- sensur av masteroppgave og lignende selvstendige arbeid i høyere grad
+- ny sensurering som følge av klage på karakter eller klage over formelle feil.
 
 > Tilføyd ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024), endret ved forskrift [12 juni 2025 nr. 1411](forskrift/2025-06-12-1411) (i kraft 1 juli 2025).
 
 ### § 40-4. Krav til bruk av to sensorer
 
-Det skal alltid være to sensorer, enten intern og ekstern sensor eller to interne sensorer, ved:sensurering av bacheloroppgaver eller lignende selvstendig arbeid på lavere gradsensurering av eksamener som alene utgjør 15 studiepoeng eller mersensurering av muntlig eksamen eller prøve som ikke lar seg etterprøve.
+Det skal alltid være to sensorer, enten intern og ekstern sensor eller to interne sensorer, ved:
+
+- sensurering av bacheloroppgaver eller lignende selvstendig arbeid på lavere grad
+- sensurering av eksamener som alene utgjør 15 studiepoeng eller mer
+- sensurering av muntlig eksamen eller prøve som ikke lar seg etterprøve.
 
 > Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
 
@@ -766,7 +807,12 @@ Rektor kan fastsette utfyllende bestemmelser for gjennomføring og bekjentgjøri
 
 (1) I bachelorgraden kan det inngå et selvstendig arbeid (bacheloroppgave). I mastergrad av 120 og 300 studiepoengs omfang skal det inngå selvstendig arbeid (masteroppgave). I erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang skal det inngå selvstendig arbeid (masteroppgave).
 
-(2) Det selvstendige arbeidet skal være ett av følgende:bacheloroppgave: 15 studiepoengs omfangmasteroppgave: 30 studiepoengs omfangmasteroppgave: 45 studiepoengs omfangmasteroppgave: 60 studiepoengs omfang.
+(2) Det selvstendige arbeidet skal være ett av følgende:
+
+- bacheloroppgave: 15 studiepoengs omfang
+- masteroppgave: 30 studiepoengs omfang
+- masteroppgave: 45 studiepoengs omfang
+- masteroppgave: 60 studiepoengs omfang.
 
 (3) Fakultetet skal fastsette krav til gradsoppgavens omfang, fagområder og innhold i studieplanen for det enkelte studieprogram.
 
@@ -876,7 +922,11 @@ Masteroppgaven skal ha en offentlig presentasjon og en muntlig diskusjon. Presen
 
 ### § 45-4. Krav til tilknytning til NMBU
 
-Krav til tilknytning for å få tildelt grad fra NMBU:For å få tildelt grad ved NMBU må studenten ha fått godkjent vurdering i emner tilsvarende minst 60 studiepoeng avlagt ved NMBU.Emner av inntil 30 studiepoengs omfang, avlagt ved et utenlandsk universitet eller høgskole som en del av en utvekslingsavtale med NMBU, kan inngå i ovennevnte 60 studiepoengs krav. Tilsvarende vil også kunne være gjeldende innenfor aktuelle fagfelt der NMBU har inngått en gjensidig samarbeidsavtale med et annet universitet eller høgskole i Norge.Det kan gjelde unntak fra kravet om antall studiepoeng avlagt ved NMBU, der studenten i samsvar med en internasjonal samarbeidsavtale, inngått av NMBU, tar en dobbelt- eller fellesgrad.
+Krav til tilknytning for å få tildelt grad fra NMBU:
+
+1. For å få tildelt grad ved NMBU må studenten ha fått godkjent vurdering i emner tilsvarende minst 60 studiepoeng avlagt ved NMBU.
+2. Emner av inntil 30 studiepoengs omfang, avlagt ved et utenlandsk universitet eller høgskole som en del av en utvekslingsavtale med NMBU, kan inngå i ovennevnte 60 studiepoengs krav. Tilsvarende vil også kunne være gjeldende innenfor aktuelle fagfelt der NMBU har inngått en gjensidig samarbeidsavtale med et annet universitet eller høgskole i Norge.
+3. Det kan gjelde unntak fra kravet om antall studiepoeng avlagt ved NMBU, der studenten i samsvar med en internasjonal samarbeidsavtale, inngått av NMBU, tar en dobbelt- eller fellesgrad.
 
 > Endret ved forskrift [12 juni 2025 nr. 1411](forskrift/2025-06-12-1411) (i kraft 1 juli 2025).
 

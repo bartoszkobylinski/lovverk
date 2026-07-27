@@ -15,7 +15,7 @@ xml_hash: "9d6854936cc9f670c26c95bb98e3ef039b1d07cabe2b420ecc46912e4f480e00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ eu_basis: []
 
 ## § 2.
 
-Forordning [(EU) 2018/545](eu/32018r0545) skal leses med følgende tilpasninger:I artikkel 8 nr. 1, etter ordene «alle de offisielle språkene i Unionen», tilføyes ordene «islandsk og norsk».I artikkel 10 nr. 1 bokstav a, etter ordene «et av de offisielle språkene i Unionen», tilføyes ordene «islandsk eller norsk».
+Forordning [(EU) 2018/545](eu/32018r0545) skal leses med følgende tilpasninger:
+
+1. I artikkel 8 nr. 1, etter ordene «alle de offisielle språkene i Unionen», tilføyes ordene «islandsk og norsk».
+2. I artikkel 10 nr. 1 bokstav a, etter ordene «et av de offisielle språkene i Unionen», tilføyes ordene «islandsk eller norsk».
 
 ## § 3.
 

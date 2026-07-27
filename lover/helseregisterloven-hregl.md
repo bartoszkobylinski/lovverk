@@ -15,7 +15,7 @@ xml_hash: "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Formålet med loven er å legge til rette for innsamling og annen behandling av 
 
 ### § 2. Definisjoner
 
-I denne loven forstås med:*helseopplysninger:* personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 15*behandling av helseopplysninger:* enhver operasjon eller rekke av operasjoner som gjøres med helseopplysninger, enten automatisert eller ikke, for eksempel innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 2*helseregister:* enhver strukturert samling av personopplysninger som er tilgjengelig etter særlige kriterier, og som inneholder helseopplysninger, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 6*dataansvarlig:* ansvarlig for behandling av helseopplysninger, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7*samtykke:* enhver frivillig, spesifikk, informert og utvetydig viljesytring fra den registrerte der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger som gjelder vedkommende, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 11*indirekte personidentifiserbare helseopplysninger:* helseopplysninger der navn, fødselsnummer og andre personidentifiserende kjennetegn er fjernet, men hvor opplysningene likevel kan knyttes til en enkeltperson.
+I denne loven forstås med:
+
+1. *helseopplysninger:* personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 15
+2. *behandling av helseopplysninger:* enhver operasjon eller rekke av operasjoner som gjøres med helseopplysninger, enten automatisert eller ikke, for eksempel innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 2
+3. *helseregister:* enhver strukturert samling av personopplysninger som er tilgjengelig etter særlige kriterier, og som inneholder helseopplysninger, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 6
+4. *dataansvarlig:* ansvarlig for behandling av helseopplysninger, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7
+5. *samtykke:* enhver frivillig, spesifikk, informert og utvetydig viljesytring fra den registrerte der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger som gjelder vedkommende, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 11
+6. *indirekte personidentifiserbare helseopplysninger:* helseopplysninger der navn, fødselsnummer og andre personidentifiserende kjennetegn er fjernet, men hvor opplysningene likevel kan knyttes til en enkeltperson.
 
 > Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
@@ -86,19 +93,31 @@ Den helsefaglige eller samfunnsmessige nytten av registeret må klart overstige 
 
 Registrene skal ivareta oppgaver etter apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven og tannhelsetjenesteloven.
 
-Forskriften skal blant annet angiformålet med behandlingen av helseopplysningene,hvilke typer opplysninger som kan behandles,krav til identitetsforvaltning,krav til sikring av opplysningene, oghvem som er dataansvarlig.
+Forskriften skal blant annet angi
+
+1. formålet med behandlingen av helseopplysningene,
+2. hvilke typer opplysninger som kan behandles,
+3. krav til identitetsforvaltning,
+4. krav til sikring av opplysningene, og
+5. hvem som er dataansvarlig.
 
 > Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 9. Registre som er samtykkebaserte eller uten personidentifiserende kjennetegn
 
-Kongen i statsråd kan, i samsvar med vilkår i [§ 8](lov/2014-06-20-43/§8), gi forskrift om behandling av opplysninger i helseregistre dersomden registrerte samtykker, elleropplysningene behandles uten at den dataansvarlige har tilgang til navn, fødselsnummer eller andre personidentifiserende kjennetegn.
+Kongen i statsråd kan, i samsvar med vilkår i [§ 8](lov/2014-06-20-43/§8), gi forskrift om behandling av opplysninger i helseregistre dersom
+
+1. den registrerte samtykker, eller
+2. opplysningene behandles uten at den dataansvarlige har tilgang til navn, fødselsnummer eller andre personidentifiserende kjennetegn.
 
 > Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. j1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
 ### § 10. Helseregistre der den registrerte har rett til å motsette seg behandling av helseopplysninger
 
-Kongen i statsråd kan i samsvar med vilkårene i [§ 8](lov/2014-06-20-43/§8) gi forskrift om behandling av opplysninger i helseregistre der navn, fødselsnummer eller andre personidentifiserende kjennetegn skal kunne behandles uten samtykke fra den registrerte. Slike forskrifter kan gis dersomdet for å oppnå formålet med behandlingen av opplysningene, og av hensyn til registerets kvalitet, ikke kan kreves at samtykke innhentes, ogden registrerte har rett til å motsette seg at helseopplysninger behandles i registeret.
+Kongen i statsråd kan i samsvar med vilkårene i [§ 8](lov/2014-06-20-43/§8) gi forskrift om behandling av opplysninger i helseregistre der navn, fødselsnummer eller andre personidentifiserende kjennetegn skal kunne behandles uten samtykke fra den registrerte. Slike forskrifter kan gis dersom
+
+1. det for å oppnå formålet med behandlingen av opplysningene, og av hensyn til registerets kvalitet, ikke kan kreves at samtykke innhentes, og
+2. den registrerte har rett til å motsette seg at helseopplysninger behandles i registeret.
 
 > Endret ved lov [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
@@ -106,7 +125,19 @@ Kongen i statsråd kan i samsvar med vilkårene i [§ 8](lov/2014-06-20-43/§8) 
 
 Kongen i statsråd kan i samsvar med vilkårene i [§ 8](lov/2014-06-20-43/§8) gi forskrift om behandling av opplysninger i helseregistre der navn, fødselsnummer eller andre personidentifiserende kjennetegn skal kunne behandles uten samtykke fra den registrerte i den utstrekning det er nødvendig for å nå formålet med registeret.
 
-Det kan gis forskrifter om følgende registre:DødsårsaksregisteretKreftregisteretMedisinsk fødselsregisterMeldingssystem for smittsomme sykdommer (MSIS)System for vaksinasjonskontroll (SYSVAK)Forsvarets helseregisterNorsk pasientregisterNasjonalt register over hjerte- og karlidelserSystem for bivirkningsrapporteringKommunalt pasient- og brukerregisterLegemiddelregisteret.
+Det kan gis forskrifter om følgende registre:
+
+1. Dødsårsaksregisteret
+2. Kreftregisteret
+3. Medisinsk fødselsregister
+4. Meldingssystem for smittsomme sykdommer (MSIS)
+5. System for vaksinasjonskontroll (SYSVAK)
+6. Forsvarets helseregister
+7. Norsk pasientregister
+8. Nasjonalt register over hjerte- og karlidelser
+9. System for bivirkningsrapportering
+10. Kommunalt pasient- og brukerregister
+11. Legemiddelregisteret.
 
 Kreftregisteret kan inneholde helseopplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose og kontroll for kreftsykdom. Ved negativt funn kan opplysninger om navn, fødselsnummer, adresse, bostedskommune og sivilstand registreres permanent, med mindre den registrerte motsetter seg det. Dersom den registrerte har motsatt seg permanent registrering, skal opplysningene slettes etter at de er kvalitetssikret og senest seks måneder etter innsamlingen. Dette leddet gjelder også funn som er innsamlet før 1. januar 2014.
 
@@ -140,7 +171,10 @@ Dataansvarlige kan uten hinder av taushetsplikten innhente personopplysninger de
 
 ### § 15. Hvem som har samtykkekompetanse
 
-Rett til å samtykke til behandling av helseopplysninger harmyndige personer, ogmindreårige etter fylte 16 år.
+Rett til å samtykke til behandling av helseopplysninger har
+
+1. myndige personer, og
+2. mindreårige etter fylte 16 år.
 
 For samtykke til behandling av opplysninger som gjelder personer under 16 år, gjelder [pasient- og brukerrettighetsloven § 4-4](lov/1999-07-02-63/§4-4) tilsvarende. Dersom barn mellom 12 og 16 år, av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.
 
@@ -186,7 +220,12 @@ Plikten til å utarbeide statistikk etter andre og tredje ledd gjelder ikke ders
 
 ### § 19 a. Tilgjengeliggjøring av helseopplysninger
 
-Den dataansvarlige skal etter søknad tilgjengeliggjøre helseopplysninger i helseregistre, inkludert opplysninger som er sammenstilt etter [§ 19 c](lov/2014-06-20-43/§19c), nåropplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,mottakeren kan godtgjøre at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9),mottakeren kan godtgjøre at behandlingen av opplysningene vil være innenfor rammene av eventuelle samtykker og ikke i strid med eventuelle reservasjoner, ogmottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten.
+Den dataansvarlige skal etter søknad tilgjengeliggjøre helseopplysninger i helseregistre, inkludert opplysninger som er sammenstilt etter [§ 19 c](lov/2014-06-20-43/§19c), når
+
+1. opplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,
+2. mottakeren kan godtgjøre at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9),
+3. mottakeren kan godtgjøre at behandlingen av opplysningene vil være innenfor rammene av eventuelle samtykker og ikke i strid med eventuelle reservasjoner, og
+4. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten.
 
 Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre personidentifiserende kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
 
@@ -236,7 +275,11 @@ Helseopplysningene kan ikke gjøres tilgjengelige for påtalemyndigheten eller t
 
 ### § 19 e. Dispensasjon fra taushetsplikten
 
-Departementet kan etter søknad bestemme at helseopplysninger fra helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 17](lov/2014-06-20-43/§17), nåropplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, ogbehandlingen av opplysningene er av vesentlig interesse for samfunnet.
+Departementet kan etter søknad bestemme at helseopplysninger fra helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 17](lov/2014-06-20-43/§17), når
+
+1. opplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,
+2. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, og
+3. behandlingen av opplysningene er av vesentlig interesse for samfunnet.
 
 Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre personidentifiserende kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
 
@@ -278,7 +321,13 @@ Løsningen skal legges til et organ underordnet departementet. Organet skal ha d
 
 Opplysningene kan mottas, lagres og behandles på andre måter som et ledd i utarbeidelse av statistikk og tilgjengeliggjøring fra plattformen. Utarbeidelse av statistikk, tilgjengeliggjøring og sammenstilling skal skje i samsvar med vilkårene i [§§ 19](lov/2014-06-20-43/§19) til [19 h](lov/2014-06-20-43/§19h). Overføring av opplysninger til løsningen kan skje uten hinder av taushetsplikt.
 
-Forskriften skal fastsette hvilke datakilder og opplysninger som skal omfattes av løsningen. Forskriften kan også inneholde bestemmelser omansvar og oppgaver for organet som løsningen er lagt tilansvar og oppgaver for dataansvarlige for registrene som omfattes, inkludert plikt til å overføre kvalitetssikrede opplysninger til løsningen og plikt til å tilgjengeliggjøre opplysningerkrav til den organisatoriske og tekniske løsningen for å ivareta informasjonssikkerheten, innbyggertjenester og andre personvernkravkrav til mottaker av opplysningene om dekning av utgifter knyttet til tilgjengeliggjøring etter [§ 19 g](lov/2014-06-20-43/§19g) og utgifter til forvaltning, drift og videreutvikling av løsningenkrav til mottaker av opplysningene om publisering eller retur av analyseresultater.
+Forskriften skal fastsette hvilke datakilder og opplysninger som skal omfattes av løsningen. Forskriften kan også inneholde bestemmelser om
+
+1. ansvar og oppgaver for organet som løsningen er lagt til
+2. ansvar og oppgaver for dataansvarlige for registrene som omfattes, inkludert plikt til å overføre kvalitetssikrede opplysninger til løsningen og plikt til å tilgjengeliggjøre opplysninger
+3. krav til den organisatoriske og tekniske løsningen for å ivareta informasjonssikkerheten, innbyggertjenester og andre personvernkrav
+4. krav til mottaker av opplysningene om dekning av utgifter knyttet til tilgjengeliggjøring etter [§ 19 g](lov/2014-06-20-43/§19g) og utgifter til forvaltning, drift og videreutvikling av løsningen
+5. krav til mottaker av opplysningene om publisering eller retur av analyseresultater.
 
 > Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)).
 
@@ -370,7 +419,13 @@ Den som forsettlig eller grovt uaktsomt overtrer forbudet mot urettmessig tilegn
 
 Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil 3 år.
 
-Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov skal det særlig legges vekt påfaren for stor skade eller ulempe for den registrerte,den tilsiktede vinningen med overtredelsen,overtredelsens varighet og omfang,den utviste skyld, ogom handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
+Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov skal det særlig legges vekt på
+
+1. faren for stor skade eller ulempe for den registrerte,
+2. den tilsiktede vinningen med overtredelsen,
+3. overtredelsens varighet og omfang,
+4. den utviste skyld, og
+5. om handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
 
 > Tilføyd ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 

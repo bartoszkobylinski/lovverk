@@ -28,4 +28,10 @@ I henhold til § 55 i [sjømannslov av 30. mai 1975](lov/1975-05-30-18/§55) nr.
 
 ## II
 
-I medhold av vedkommende bestemmelser i sjømannslov [av 30. mai 1975 nr. 18](lov/1975-05-30-18) bestemmes:Direktoratet for sjømenn bemyndiges tilå utferdige forskrifter/treffe bestemmelse i medhold av lovens § 3 første ledd, § 4 annet og tredje ledd, § 5 tredje ledd, § 7 annet ledd, § 8 femte, sjette, sjuende og åttende ledd, § 13, § 16 nr. 5, § 18 fjerde ledd, § 21 åttende ledd, § 22 tredje og femte ledd første punktum, § 26 tredje ledd, § 27 sjuende ledd, § 28 nr. 5 og 6, § 30 fjerde ledd, § 33 første ledd, § 40 tredje ledd, § 42 tredje ledd, § 46 tredje ledd, § 47 første og annet ledd, § 49 tredje ledd, § 50 fjerde og femte ledd, § 51 og § 54 første ledd.i den utstrekning det finner det påkrevet å bemyndige sjømannskontorer innen riket og norske utenriksstasjoner til å treffe forføyninger etter de under a) nevnte bestemmelser.Myndigheten etter lovens § 26 fjerde ledd legges til Sosialdepartementet.
+I medhold av vedkommende bestemmelser i sjømannslov [av 30. mai 1975 nr. 18](lov/1975-05-30-18) bestemmes:
+
+1. Direktoratet for sjømenn bemyndiges til
+
+   1. å utferdige forskrifter/treffe bestemmelse i medhold av lovens § 3 første ledd, § 4 annet og tredje ledd, § 5 tredje ledd, § 7 annet ledd, § 8 femte, sjette, sjuende og åttende ledd, § 13, § 16 nr. 5, § 18 fjerde ledd, § 21 åttende ledd, § 22 tredje og femte ledd første punktum, § 26 tredje ledd, § 27 sjuende ledd, § 28 nr. 5 og 6, § 30 fjerde ledd, § 33 første ledd, § 40 tredje ledd, § 42 tredje ledd, § 46 tredje ledd, § 47 første og annet ledd, § 49 tredje ledd, § 50 fjerde og femte ledd, § 51 og § 54 første ledd.
+   2. i den utstrekning det finner det påkrevet å bemyndige sjømannskontorer innen riket og norske utenriksstasjoner til å treffe forføyninger etter de under a) nevnte bestemmelser.
+2. Myndigheten etter lovens § 26 fjerde ledd legges til Sosialdepartementet.

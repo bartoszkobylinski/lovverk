@@ -22,6 +22,15 @@ eu_basis: []
 
 # Forvaltningen av Jan Mayen – ansvarsdelingen mellom departementene
 
-1. Justis- og beredskapsdepartementet har ansvaret for:Budsjett for og tildeling av midler til Samfunnet Jan Mayen. Budsjettet og tildelingen skal dekke finansiering av drifts- og investeringskostnader knyttet til tilstedeværelse og aktivitet på Jan Mayen, med unntak av aktivitet som andre aktører har et definert ansvar for.Forvaltningen av eierskapet til statens grunn på Jan Mayen, herunder arealplanlegging og ansvar for kulturminner som ligger under statens eierskap.Forvaltningen av statens eierskap til bygg på Jan Mayen, herunder ansvar for vedlikehold og investeringer, hvor ikke annet eierskap er slått fast.Inngåelse og oppfølging av avtaler med aktører som har virksomhet på Jan Mayen om bruk av infrastruktur og tjenester fra Samfunnet Jan Mayen.
-2. Forsvarsdepartementet har ansvaret for:Driftsoppgaver knyttet til Samfunnet Jan Mayen.Personell som er ansatt ved Samfunnet Jan Mayen.Transporttjenester, herunder flyplassdrift og flysikkerhet på Jan Mayen.
+1. Justis- og beredskapsdepartementet har ansvaret for:
+
+   1. Budsjett for og tildeling av midler til Samfunnet Jan Mayen. Budsjettet og tildelingen skal dekke finansiering av drifts- og investeringskostnader knyttet til tilstedeværelse og aktivitet på Jan Mayen, med unntak av aktivitet som andre aktører har et definert ansvar for.
+   2. Forvaltningen av eierskapet til statens grunn på Jan Mayen, herunder arealplanlegging og ansvar for kulturminner som ligger under statens eierskap.
+   3. Forvaltningen av statens eierskap til bygg på Jan Mayen, herunder ansvar for vedlikehold og investeringer, hvor ikke annet eierskap er slått fast.
+   4. Inngåelse og oppfølging av avtaler med aktører som har virksomhet på Jan Mayen om bruk av infrastruktur og tjenester fra Samfunnet Jan Mayen.
+2. Forsvarsdepartementet har ansvaret for:
+
+   1. Driftsoppgaver knyttet til Samfunnet Jan Mayen.
+   2. Personell som er ansatt ved Samfunnet Jan Mayen.
+   3. Transporttjenester, herunder flyplassdrift og flysikkerhet på Jan Mayen.
 3. Justis- og beredskapsdepartementet kan instruere og delegere oppgaver til Forsvaret i saker som gjelder budsjett for og tildeling av midler til Samfunnet Jan Mayen. Myndigheten er begrenset til saker som ligger innenfor Justis- og beredskapsdepartementets ansvar etter punkt 1.

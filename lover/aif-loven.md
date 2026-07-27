@@ -15,7 +15,7 @@ xml_hash: "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32011L0061"
@@ -39,7 +39,25 @@ eu_basis:
 
 ### § 1-2. Definisjoner
 
-I denne lov forstås med:alternativt investeringsfond: innretning for kollektiv investering som ikke er et UCITS, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 4, og som innhenter kapital fra et antall investorer med sikte på å investere kapitalen i henhold til en definert investeringsstrategi til fordel for investoreneforvalter: foretak som på forretningsmessig basis driver forvaltning av alternativt investeringsfondforvaltning: porteføljeforvaltning og risikostyring for alternative investeringsfondresultatavhengig vederlag: andel av det alternative investeringsfondets overskudd som tilfaller forvalteren som godtgjørelse for forvaltningen, unntatt andel av overskudd som tilfaller forvalter som følge av direkte eller indirekte investering i fondetfinansiell giring: økning av eksponeringen gjennom innlån av penger, verdipapirer, derivatposisjoner eller på annen måtetilføringsfond: alternativt investeringsfond som investerer minst 85 prosent av sine eiendeler i et annet alternativt investeringsfond, i flere andre alternative investeringsfond med identiske investeringsstrategier eller på annen måte har en eksponering på minst 85 prosent av sine eiendeler mot et slikt alternativt investeringsfondmottakerfond: alternativt investeringsfond som et tilføringsfond har eksponering motmarkedsføring: direkte eller indirekte tilbud om kjøp eller plassering av andeler i alternativt investeringsfond på forvalterens initiativ eller på vegne av forvalterennærstående:selskap hvor vedkommende har eller kontrollerer minst 20 prosent av stemmerettighetene eller selskapets kapital,selskap hvor vedkommende har slik innflytelse som nevnt i aksjeloven eller [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd,to eller flere fysiske eller juridiske personer som er permanent forbundet til den samme personen gjennom kontroll som nevnt i nr. 2primærmegler: kredittinstitusjon, verdipapirforetak eller annet regulert foretak underlagt tilsyn og som tilbyr tjenester til profesjonelle investorer for å finansiere eller utføre transaksjoner i finansielle instrumenter som motpart, herunder oppgjørstjenester, oppbevaringstjenester og utlån av finansielle instrumenterprofesjonell investor: profesjonell kunde som nevnt i [verdipapirhandelloven § 10-6](lov/2007-06-29-75/§10-6), eller kunde som behandles som profesjonell etter [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7), jf. [§ 10-8](lov/2007-06-29-75/§10-8)ikke-profesjonell investor: ikke-profesjonell kunde som nevnt i [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7)markedssondering: direkte eller indirekte informasjon om investeringsstrategier eller investeringsideer fra forvalter, eller på dennes vegne, til potensielle profesjonelle investorer som er hjemmehørende i en EØS-stat, for å teste interessen for et alternativt investeringsfond eller en andelsklasse som ikke er meldt for markedsføring i investorens hjemstat eller som ikke er etablert. Markedssondering kan ikke utgjøre et tilbud om investering i eller lede til en plassering i det alternative investeringsfondet.
+I denne lov forstås med:
+
+1. alternativt investeringsfond: innretning for kollektiv investering som ikke er et UCITS, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 4, og som innhenter kapital fra et antall investorer med sikte på å investere kapitalen i henhold til en definert investeringsstrategi til fordel for investorene
+2. forvalter: foretak som på forretningsmessig basis driver forvaltning av alternativt investeringsfond
+3. forvaltning: porteføljeforvaltning og risikostyring for alternative investeringsfond
+4. resultatavhengig vederlag: andel av det alternative investeringsfondets overskudd som tilfaller forvalteren som godtgjørelse for forvaltningen, unntatt andel av overskudd som tilfaller forvalter som følge av direkte eller indirekte investering i fondet
+5. finansiell giring: økning av eksponeringen gjennom innlån av penger, verdipapirer, derivatposisjoner eller på annen måte
+6. tilføringsfond: alternativt investeringsfond som investerer minst 85 prosent av sine eiendeler i et annet alternativt investeringsfond, i flere andre alternative investeringsfond med identiske investeringsstrategier eller på annen måte har en eksponering på minst 85 prosent av sine eiendeler mot et slikt alternativt investeringsfond
+7. mottakerfond: alternativt investeringsfond som et tilføringsfond har eksponering mot
+8. markedsføring: direkte eller indirekte tilbud om kjøp eller plassering av andeler i alternativt investeringsfond på forvalterens initiativ eller på vegne av forvalteren
+9. nærstående:
+
+   1. selskap hvor vedkommende har eller kontrollerer minst 20 prosent av stemmerettighetene eller selskapets kapital,
+   2. selskap hvor vedkommende har slik innflytelse som nevnt i aksjeloven eller [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd,
+   3. to eller flere fysiske eller juridiske personer som er permanent forbundet til den samme personen gjennom kontroll som nevnt i nr. 2
+10. primærmegler: kredittinstitusjon, verdipapirforetak eller annet regulert foretak underlagt tilsyn og som tilbyr tjenester til profesjonelle investorer for å finansiere eller utføre transaksjoner i finansielle instrumenter som motpart, herunder oppgjørstjenester, oppbevaringstjenester og utlån av finansielle instrumenter
+11. profesjonell investor: profesjonell kunde som nevnt i [verdipapirhandelloven § 10-6](lov/2007-06-29-75/§10-6), eller kunde som behandles som profesjonell etter [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7), jf. [§ 10-8](lov/2007-06-29-75/§10-8)
+12. ikke-profesjonell investor: ikke-profesjonell kunde som nevnt i [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7)
+13. markedssondering: direkte eller indirekte informasjon om investeringsstrategier eller investeringsideer fra forvalter, eller på dennes vegne, til potensielle profesjonelle investorer som er hjemmehørende i en EØS-stat, for å teste interessen for et alternativt investeringsfond eller en andelsklasse som ikke er meldt for markedsføring i investorens hjemstat eller som ikke er etablert. Markedssondering kan ikke utgjøre et tilbud om investering i eller lede til en plassering i det alternative investeringsfondet.
 
 > Endret ved lover [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 okt 2024 iflg. [res. 9 aug 2024 nr. 1913](forskrift/2024-08-09-1913)).
 
@@ -55,7 +73,10 @@ I denne lov forstås med:alternativt investeringsfond: innretning for kollektiv 
 
 ### § 1-4. Unntak fra deler av loven for forvaltere som forvalter alternative investeringsfond med samlet forvaltningskapital under visse terskelverdier
 
-(1) For forvaltere som forvalter alternative investeringsfond med samlet forvaltningskapital tilsvarende et beløp i norske kroner som er lavere enn:500 millioner euro når porteføljene består av alternative investeringsfond som ikke er gjenstand for finansiell giring, og som ikke har innløsningsrett i en periode på fem år fra dagen for den første investeringen i hvert fond, eller100 millioner euro, for andre typer alternative investeringsfond enn de som er nevnt i bokstav a, gjelder bare [kapittel 9](lov/2014-06-20-28/kap9), samt bestemmelsene i paragrafen her.
+(1) For forvaltere som forvalter alternative investeringsfond med samlet forvaltningskapital tilsvarende et beløp i norske kroner som er lavere enn:
+
+1. 500 millioner euro når porteføljene består av alternative investeringsfond som ikke er gjenstand for finansiell giring, og som ikke har innløsningsrett i en periode på fem år fra dagen for den første investeringen i hvert fond, eller
+2. 100 millioner euro, for andre typer alternative investeringsfond enn de som er nevnt i bokstav a, gjelder bare [kapittel 9](lov/2014-06-20-28/kap9), samt bestemmelsene i paragrafen her.
 
 (2) Forvaltere som nevnt i første ledd skal registreres i et register ført av Finanstilsynet. Ved registreringen skal forvalteren informere Finanstilsynet om de alternative investeringsfondene som forvaltes, herunder gi opplysninger om fondenes investeringsstrategier.
 
@@ -153,7 +174,11 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 (3) Finanstilsynet kan gi ekstern forvalter tillatelse til å yte aktiv forvaltning av investorers portefølje av instrumenter på individuell basis og etter investors fullmakt.
 
-(4) Ekstern forvalter som har fått tillatelse etter tredje ledd, kan også gis tillatelse fra Finanstilsynet til å yte følgende tilleggstjenester:mottak og formidling av ordre på vegne av kunde i forbindelse med ett eller flere finansielle instrumenter,investeringsrådgivning,oppbevaring og forvaltning av fondsandeler.
+(4) Ekstern forvalter som har fått tillatelse etter tredje ledd, kan også gis tillatelse fra Finanstilsynet til å yte følgende tilleggstjenester:
+
+1. mottak og formidling av ordre på vegne av kunde i forbindelse med ett eller flere finansielle instrumenter,
+2. investeringsrådgivning,
+3. oppbevaring og forvaltning av fondsandeler.
 
 (5) En ekstern forvalter kan ikke drive annen virksomhet enn det som fremgår av første til fjerde ledd. Internt forvaltede alternative investeringsfond kan ikke drive annen virksomhet enn det som er nevnt i første ledd tredje punktum og annet ledd første punktum for det aktuelle fondet.
 
@@ -207,7 +232,10 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 ### § 2-7. Ansvarlig kapital
 
-(1) En forvalter skal ha en ansvarlig kapital som utgjør et beløp i norske kroner som:minst svarer til summen av kravet til startkapital som nevnt i [§ 2-6](lov/2014-06-20-28/§2-6) første ledd og et beløp som svarer til 0,02 prosent av forvalters forvaltningskapital ut over 250 millioner euro, begrenset oppad til et beløp i norske kroner tilsvarende 10 millioner euro, ogslik at den ansvarlige kapitalen til enhver tid minst skal tilsvare en fjerdedel av foretakets faste kostnader i det foregående år.
+(1) En forvalter skal ha en ansvarlig kapital som utgjør et beløp i norske kroner som:
+
+1. minst svarer til summen av kravet til startkapital som nevnt i [§ 2-6](lov/2014-06-20-28/§2-6) første ledd og et beløp som svarer til 0,02 prosent av forvalters forvaltningskapital ut over 250 millioner euro, begrenset oppad til et beløp i norske kroner tilsvarende 10 millioner euro, og
+2. slik at den ansvarlige kapitalen til enhver tid minst skal tilsvare en fjerdedel av foretakets faste kostnader i det foregående år.
 
 (2) Inntil halvparten av kravet til ansvarlig kapital etter første ledd bokstav a som overstiger startkapitalkravet, kan oppfylles ved garanti fra bank eller forsikringsselskap.
 
@@ -233,7 +261,11 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 ### § 3-1. Organisering av virksomheten
 
-(1) Forvalteren skal innrette sin virksomhet slik at foretaket har:tilstrekkelige og egnede ressurser for forsvarlig forvaltning av alternative investeringsfond,gode administrasjons- og regnskapsrutiner, kontroll- og sikkerhetsordninger for elektronisk databehandling, herunder for nettverk og systemer som er etablert og håndtert etter forordning [(EU) 2022/2554](eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), og regler for ansattes personlige transaksjoner,gode interne kontrollmetoder, inkludert rutiner som sikrer at alle transaksjoner for fond under forvaltning kan rekonstrueres og dokumenteres med hensyn til opprinnelse, involverte parter, art, tid og sted for gjennomføring, samt at det kan dokumenteres at fondenes midler forvaltes i samsvar med fondenes vedtekter og gjeldende regler.
+(1) Forvalteren skal innrette sin virksomhet slik at foretaket har:
+
+1. tilstrekkelige og egnede ressurser for forsvarlig forvaltning av alternative investeringsfond,
+2. gode administrasjons- og regnskapsrutiner, kontroll- og sikkerhetsordninger for elektronisk databehandling, herunder for nettverk og systemer som er etablert og håndtert etter forordning [(EU) 2022/2554](eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), og regler for ansattes personlige transaksjoner,
+3. gode interne kontrollmetoder, inkludert rutiner som sikrer at alle transaksjoner for fond under forvaltning kan rekonstrueres og dokumenteres med hensyn til opprinnelse, involverte parter, art, tid og sted for gjennomføring, samt at det kan dokumenteres at fondenes midler forvaltes i samsvar med fondenes vedtekter og gjeldende regler.
 
 (2) Styret og daglig leder skal utarbeide interne retningslinjer som sikrer at kravene i første ledd blir ivaretatt.
 
@@ -245,7 +277,12 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 (1) Forvalteren skal utøve sin virksomhet i samsvar med god forretningsskikk.
 
-(2) Forvalteren skal påse at investorenes og fondenes interesser og markedets integritet ivaretas på beste måte ved å:opptre ryddig og korrekt i utøvelsen av sin virksomhet,utvise den nødvendige kompetanse, omhu og interesse i sin opptreden,ha og effektivt benytte de ressurser og de fremgangsmåter som er nødvendige for å kunne utøve virksomheten på en god måte,sørge for ryddig og korrekt behandling av andelseiere.
+(2) Forvalteren skal påse at investorenes og fondenes interesser og markedets integritet ivaretas på beste måte ved å:
+
+1. opptre ryddig og korrekt i utøvelsen av sin virksomhet,
+2. utvise den nødvendige kompetanse, omhu og interesse i sin opptreden,
+3. ha og effektivt benytte de ressurser og de fremgangsmåter som er nødvendige for å kunne utøve virksomheten på en god måte,
+4. sørge for ryddig og korrekt behandling av andelseiere.
 
 (3) Enhver andel i et alternativt investeringsfond gir lik rett i fondet, med mindre annet er fastsatt i vedtekter, stiftelsesdokumenter eller annen tilgjengelig fondsdokumentasjon.
 
@@ -337,9 +374,19 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 (1) Forvalteren skal for hvert alternativt investeringsfond som forvaltes eller markedsføres i EØS-området, utarbeide en årsrapport i samsvar med reglene i fondets hjemstat. Årsrapporten skal oversendes Finanstilsynet og tilsynsmyndighetene i fondets hjemstat og på anmodning vederlagsfritt gjøres tilgjengelig for investorene. Årsrapporten skal offentliggjøres innen seks måneder fra regnskapsårets utgang, og innen fire måneder etter regnskapsårets utgang for fond omfattet av [verdipapirhandelloven § 5-5](lov/2007-06-29-75/§5-5).
 
-(2) Årsrapporten skal omfatte:årsregnskap og årsberetning,vesentlige endringer i de forhold som nevnt i [§ 4-2](lov/2014-06-20-28/§4-2),summen av utbetalt fast og variabel godtgjørelse til forvalterens ansatte, inkludert resultatavhengig vederlag,summen av godtgjørelse til henholdsvis forvalterens ledende ansatte og ansatte med arbeidsoppgaver av vesentlig betydning for fondenes risikoprofil.
+(2) Årsrapporten skal omfatte:
 
-(3) En forvalter som forvalter fond som har oppnådd kontroll som nevnt i [§ 4-4](lov/2014-06-20-28/§4-4) første ledd bokstav b, skal sørge for at følgende opplysninger inntas i fondets eller målselskapets årsrapport:en beskrivelse av målselskapets virksomhet i regnskapsåret,en beskrivelse av målselskapets sannsynlige fremtidige utvikling,indikasjon om vesentlige hendelser etter regnskapsårets avslutning,opplysning om målselskapets erverv av egne aksjer.
+1. årsregnskap og årsberetning,
+2. vesentlige endringer i de forhold som nevnt i [§ 4-2](lov/2014-06-20-28/§4-2),
+3. summen av utbetalt fast og variabel godtgjørelse til forvalterens ansatte, inkludert resultatavhengig vederlag,
+4. summen av godtgjørelse til henholdsvis forvalterens ledende ansatte og ansatte med arbeidsoppgaver av vesentlig betydning for fondenes risikoprofil.
+
+(3) En forvalter som forvalter fond som har oppnådd kontroll som nevnt i [§ 4-4](lov/2014-06-20-28/§4-4) første ledd bokstav b, skal sørge for at følgende opplysninger inntas i fondets eller målselskapets årsrapport:
+
+1. en beskrivelse av målselskapets virksomhet i regnskapsåret,
+2. en beskrivelse av målselskapets sannsynlige fremtidige utvikling,
+3. indikasjon om vesentlige hendelser etter regnskapsårets avslutning,
+4. opplysning om målselskapets erverv av egne aksjer.
 
 (4) Årsrapporten etter første ledd skal revideres av registrert eller statsautorisert revisor eller godkjent revisjonsselskap, jf. revisorloven.
 
@@ -357,7 +404,25 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 ### § 4-2. Informasjonsplikt før investering
 
-(1) En forvalter skal før en investering gi potensielle investorer følgende informasjon om alternativt investeringsfond som forvalteren forvalter eller markedsfører i EØS:fondets vedtekter og øvrige stiftelsesdokumenter, formål og investeringsstrategi, hvilke aktiva fondet kan investere i, investeringsmetoder, risikoprofil, begrensninger i adgangen til å investere, informasjon om bruk av finansiell giring,en beskrivelse av fremgangsmåten for endring av investeringsstrategi,om fondet er et tilføringsfond, og i så fall hvor mottakerfondet er etablert, samt informasjon om hvor de underliggende fondene er etablert dersom fondet er et fond-i-fond,de viktigste rettslige konsekvenser av investering i fondet, herunder informasjon om verneting, rettsvalg og om det finnes traktater som åpner for anerkjennelse og fullbyrdelse av rettsavgjørelser i fondets hjemstat,identiteten til forvalter, depotmottaker, revisor og andre tjenesteleverandører og en beskrivelse av deres forpliktelser og investorenes rettigheter,forvalterens ansvarsforsikring eller egenkapital etter [§ 2-7](lov/2014-06-20-28/§2-7) tredje ledd,en beskrivelse av eventuell utkontraktering av porteføljeforvaltning, risikostyring, funksjoner som nevnt i [§ 2-2](lov/2014-06-20-28/§2-2) annet ledd første punktum, depotmottakerfunksjoner som nevnt i [kapittel 5](lov/2014-06-20-28/kap5), identiteten til oppdragstakerne og eventuelle interessekonflikter som følge av utkontrakteringen,prosedyrer for verdivurdering etter [§ 3-10](lov/2014-06-20-28/§3-10) med tilhørende forskrifter,prosedyrer for likviditetsstyring etter [§ 3-9](lov/2014-06-20-28/§3-9),direkte og indirekte kostnader som belastes investorene, med angivelse av maksimale beløp,prinsipper for likebehandling av investorene og beskrivelse av eventuelle unntak, herunder hvilke typer investorer som omfattes av unntakene, og deres eventuelle juridiske eller økonomiske forbindelser til fondet eller forvalteren,siste årsrapport,vilkår og fremgangsmåte for tegning, innløsing og salg av andeler, samt eventuelle gjeldende innløsningsavtaler med investorer,netto andelsverdi eller seneste markedspris per andel etter [§ 3-10](lov/2014-06-20-28/§3-10),historisk avkastning,identiteten til og en beskrivelse av eventuelle avtaler med primærmegler og en beskrivelse av hvordan interessekonflikter i den forbindelse håndteres,hvordan og når informasjon som nevnt i [§ 4-3](lov/2014-06-20-28/§4-3) gis.
+(1) En forvalter skal før en investering gi potensielle investorer følgende informasjon om alternativt investeringsfond som forvalteren forvalter eller markedsfører i EØS:
+
+1. fondets vedtekter og øvrige stiftelsesdokumenter, formål og investeringsstrategi, hvilke aktiva fondet kan investere i, investeringsmetoder, risikoprofil, begrensninger i adgangen til å investere, informasjon om bruk av finansiell giring,
+2. en beskrivelse av fremgangsmåten for endring av investeringsstrategi,
+3. om fondet er et tilføringsfond, og i så fall hvor mottakerfondet er etablert, samt informasjon om hvor de underliggende fondene er etablert dersom fondet er et fond-i-fond,
+4. de viktigste rettslige konsekvenser av investering i fondet, herunder informasjon om verneting, rettsvalg og om det finnes traktater som åpner for anerkjennelse og fullbyrdelse av rettsavgjørelser i fondets hjemstat,
+5. identiteten til forvalter, depotmottaker, revisor og andre tjenesteleverandører og en beskrivelse av deres forpliktelser og investorenes rettigheter,
+6. forvalterens ansvarsforsikring eller egenkapital etter [§ 2-7](lov/2014-06-20-28/§2-7) tredje ledd,
+7. en beskrivelse av eventuell utkontraktering av porteføljeforvaltning, risikostyring, funksjoner som nevnt i [§ 2-2](lov/2014-06-20-28/§2-2) annet ledd første punktum, depotmottakerfunksjoner som nevnt i [kapittel 5](lov/2014-06-20-28/kap5), identiteten til oppdragstakerne og eventuelle interessekonflikter som følge av utkontrakteringen,
+8. prosedyrer for verdivurdering etter [§ 3-10](lov/2014-06-20-28/§3-10) med tilhørende forskrifter,
+9. prosedyrer for likviditetsstyring etter [§ 3-9](lov/2014-06-20-28/§3-9),
+10. direkte og indirekte kostnader som belastes investorene, med angivelse av maksimale beløp,
+11. prinsipper for likebehandling av investorene og beskrivelse av eventuelle unntak, herunder hvilke typer investorer som omfattes av unntakene, og deres eventuelle juridiske eller økonomiske forbindelser til fondet eller forvalteren,
+12. siste årsrapport,
+13. vilkår og fremgangsmåte for tegning, innløsing og salg av andeler, samt eventuelle gjeldende innløsningsavtaler med investorer,
+14. netto andelsverdi eller seneste markedspris per andel etter [§ 3-10](lov/2014-06-20-28/§3-10),
+15. historisk avkastning,
+16. identiteten til og en beskrivelse av eventuelle avtaler med primærmegler og en beskrivelse av hvordan interessekonflikter i den forbindelse håndteres,
+17. hvordan og når informasjon som nevnt i [§ 4-3](lov/2014-06-20-28/§4-3) gis.
 
 (2) Forvalteren skal informere investorene om vesentlige endringer i forhold som nevnt i første ledd.
 
@@ -369,7 +434,11 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 ### § 4-3. Periodisk informasjonsplikt
 
-(1) Forvalteren skal regelmessig gi investorene følgende informasjon om alternative investeringsfond som forvaltes eller markedsføres i EØS:prosentvis andel av fondets eiendeler som er gjenstand for særlige ordninger fordi de er illikvide,endringer i systemer for likviditetsstyring,fondets risikoprofil og bruk av systemer for risikostyring.
+(1) Forvalteren skal regelmessig gi investorene følgende informasjon om alternative investeringsfond som forvaltes eller markedsføres i EØS:
+
+1. prosentvis andel av fondets eiendeler som er gjenstand for særlige ordninger fordi de er illikvide,
+2. endringer i systemer for likviditetsstyring,
+3. fondets risikoprofil og bruk av systemer for risikostyring.
 
 (2) For fond som kan benytte finansiell giring skal forvalteren i tillegg gi investorene informasjon om endring av grenser for finansiell giring, rett til gjenbruk av sikkerhetsstillelser eller garantier etter avtaler om finansiell giring og den samlede finansielle giringen som er benyttet av fondet.
 
@@ -377,7 +446,12 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 ### § 4-4. Informasjonsplikt ved oppnåelse av kontroll i unoterte selskaper og utstedere
 
-(1) Forvalteren skal gi melding til Finanstilsynet, målselskapet og målselskapets aksjeeiere dersom et alternativt investeringsfond som forvalteren forvalter alene eller i samarbeid med andre alternative investeringsfond, oppnår kontroll i:et selskap med verdipapir opptatt til handel på regulert marked, elleret selskap med verdipapir som ikke er opptatt til handel på regulert marked, med unntak av selskap som har færre enn 250 ansatte og enten har omsetning som ikke overstiger et beløp i norske kroner tilsvarende 50 millioner euro, eller en balanse som ikke overstiger et beløp i norske kroner tilsvarende 43 millioner euro, og med unntak av selskap som har til eneste formål å eie, erverve eller administrere fast eiendom.Med kontroll i selskap som nevnt i bokstav a menes andel som angitt i [verdipapirhandelloven § 6-1](lov/2007-06-29-75/§6-1). Med kontroll i selskap som nevnt i bokstav b menes direkte eller indirekte andel på mer enn 50 prosent av stemmene i selskapet.
+(1) Forvalteren skal gi melding til Finanstilsynet, målselskapet og målselskapets aksjeeiere dersom et alternativt investeringsfond som forvalteren forvalter alene eller i samarbeid med andre alternative investeringsfond, oppnår kontroll i:
+
+1. et selskap med verdipapir opptatt til handel på regulert marked, eller
+2. et selskap med verdipapir som ikke er opptatt til handel på regulert marked, med unntak av selskap som har færre enn 250 ansatte og enten har omsetning som ikke overstiger et beløp i norske kroner tilsvarende 50 millioner euro, eller en balanse som ikke overstiger et beløp i norske kroner tilsvarende 43 millioner euro, og med unntak av selskap som har til eneste formål å eie, erverve eller administrere fast eiendom.
+
+Med kontroll i selskap som nevnt i bokstav a menes andel som angitt i [verdipapirhandelloven § 6-1](lov/2007-06-29-75/§6-1). Med kontroll i selskap som nevnt i bokstav b menes direkte eller indirekte andel på mer enn 50 prosent av stemmene i selskapet.
 
 (2) Melding etter første ledd skal angi forvalteren, forvalterens tiltak for å unngå interessekonflikter og tiltak for å håndtere interessekonflikter, samt ekstern og intern kommunikasjonsstrategi. Dersom meldingen gjelder selskap som nevnt i første ledd bokstav b, skal meldingen gis innen ti virkedager etter oppnåelse av kontroll og i tillegg angi stemmefordelingen i selskapet, tidspunktet og vilkår for oppnåelse av kontroll, herunder angivelse av involverte eiere og personer som har rett til å utøve stemmerett på deres vegne.
 
@@ -393,7 +467,11 @@ Dersom et alternativt investeringsfonds andel av stemmene i et selskap som angit
 
 (1) Forvalteren skal regelmessig rapportere til Finanstilsynet om de viktigste markedene og instrumentene forvalteren handler i på vegne av de alternative investeringsfondene.
 
-(2) Forvalteren skal for hvert fond som er etablert i EØS som forvaltes, og for hvert fond som markedsføres i EØS, gi følgende informasjon til Finanstilsynet:opplysninger som angitt i [§ 4-3](lov/2014-06-20-28/§4-3) første ledd,informasjon om hovedtyper av eiendeler som fondet har investert i,resultatet av stresstester som er utført etter [§ 3-7](lov/2014-06-20-28/§3-7) annet ledd og [§ 3-9](lov/2014-06-20-28/§3-9) første ledd.
+(2) Forvalteren skal for hvert fond som er etablert i EØS som forvaltes, og for hvert fond som markedsføres i EØS, gi følgende informasjon til Finanstilsynet:
+
+1. opplysninger som angitt i [§ 4-3](lov/2014-06-20-28/§4-3) første ledd,
+2. informasjon om hovedtyper av eiendeler som fondet har investert i,
+3. resultatet av stresstester som er utført etter [§ 3-7](lov/2014-06-20-28/§3-7) annet ledd og [§ 3-9](lov/2014-06-20-28/§3-9) første ledd.
 
 (3) Departementet kan i forskrift gi nærmere regler om periodisk rapportering, herunder fastsette særlige regler for rapportering om fond som benytter finansiell giring.
 
@@ -417,7 +495,11 @@ Forvalteren skal sørge for at det utpekes en depotmottaker for hvert alternativ
 
 ### § 5-2. Krav til depotmottakeren
 
-(1) Depotmottakeren skal være:kredittinstitusjon etablert i en EØS-stat,verdipapirforetak etablert i en EØS-stat, med tillatelse til å yte tilknyttet tjeneste som nevnt i [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6) første ledd nr. 1 og som har en ansvarlig kapital som minst utgjør et beløp i norske kroner tilsvarende 730 000 euro, ellerfor alternative investeringsfond etablert i annen EØS-stat, andre kategorier av foretak som kan utpekes som depotmottaker for UCITS i det alternative investeringsfondets hjemstat.
+(1) Depotmottakeren skal være:
+
+1. kredittinstitusjon etablert i en EØS-stat,
+2. verdipapirforetak etablert i en EØS-stat, med tillatelse til å yte tilknyttet tjeneste som nevnt i [verdipapirhandelloven § 2-6](lov/2007-06-29-75/§2-6) første ledd nr. 1 og som har en ansvarlig kapital som minst utgjør et beløp i norske kroner tilsvarende 730 000 euro, eller
+3. for alternative investeringsfond etablert i annen EØS-stat, andre kategorier av foretak som kan utpekes som depotmottaker for UCITS i det alternative investeringsfondets hjemstat.
 
 (2) Forvalteren kan ikke utpekes som depotmottaker.
 
@@ -459,7 +541,11 @@ Forvalteren skal sørge for at det utpekes en depotmottaker for hvert alternativ
 
 ### § 6-1. Markedsføring i Norge av alternativt investeringsfond etablert i EØS
 
-(1) En forvalter med tillatelse etter [§ 2-2](lov/2014-06-20-28/§2-2) skal gi melding til Finanstilsynet før forvalteren starter markedsføring av alternativt investeringsfond under forvaltning som er etablert i Norge eller annen EØS-stat til profesjonelle investorer i Norge. Meldingen skal inneholde følgende opplysninger:virksomhetsplan som identifiserer fondet og angir i hvilken stat fondet er etablert,informasjon om fondet som er tilgjengelig for fondets investorer, herunder opplysninger som angitt i [§ 4-2](lov/2014-06-20-28/§4-2),angivelse av eventuelle tiltak som skal hindre at fondet markedsføres til ikke-profesjonelle investorer, også der markedsføringen skjer gjennom en distributør.
+(1) En forvalter med tillatelse etter [§ 2-2](lov/2014-06-20-28/§2-2) skal gi melding til Finanstilsynet før forvalteren starter markedsføring av alternativt investeringsfond under forvaltning som er etablert i Norge eller annen EØS-stat til profesjonelle investorer i Norge. Meldingen skal inneholde følgende opplysninger:
+
+1. virksomhetsplan som identifiserer fondet og angir i hvilken stat fondet er etablert,
+2. informasjon om fondet som er tilgjengelig for fondets investorer, herunder opplysninger som angitt i [§ 4-2](lov/2014-06-20-28/§4-2),
+3. angivelse av eventuelle tiltak som skal hindre at fondet markedsføres til ikke-profesjonelle investorer, også der markedsføringen skjer gjennom en distributør.
 
 (2) Finanstilsynet skal innen 20 virkedager etter at fullstendig melding er mottatt, underrette forvalteren om hvorvidt fondet kan markedsføres i Norge. Markedsføring kan bare nektes dersom forvaltningen av fondet eller forvalterens virksomhet for øvrig ikke er eller vil være i samsvar med loven. Forvalteren kan starte markedsføring av fondet fra den dato den mottar underretning om at fondet kan markedsføres i Norge. Dersom fondet er etablert i en annen EØS-stat, skal Finanstilsynet også underrette tilsynsmyndigheten i fondets hjemstat om at fondet kan markedsføres i Norge.
 
@@ -485,13 +571,23 @@ Forvalteren skal sørge for at det utpekes en depotmottaker for hvert alternativ
 
 ### § 6-4. Markedsføring i Norge av alternative investeringsfond etablert utenfor EØS med forvalter etablert i EØS
 
-(1) En forvalter med tillatelse i Norge eller en annen EØS-stat og som forvalter alternativt investeringsfond som er etablert utenfor EØS, eller alternativt investeringsfond etablert i en EØS-stat som er tilføringsfond til et slikt fond, kan markedsføre fondet i Norge til profesjonelle investorer etter tillatelse fra Finanstilsynet. Slik tillatelse kan gis dersom:forvalteren overholder bestemmelser i og i medhold av denne lov, med unntak av reglene om depotmottaker i [kapittel 5](lov/2014-06-20-28/kap5), men slik at forvalteren må dokumentere at et annet foretak enn forvalteren selv utfører depotmottakeroppgaver som nevnt i [§ 5-3](lov/2014-06-20-28/§5-3) annet, tredje og fjerde ledd og forskrifter gitt med hjemmel i [§ 5-3](lov/2014-06-20-28/§5-3),forvalteren gjør det som er nødvendig for her i riket å kunne foreta utbetalinger til investorene, innløse andeler og gi den informasjon som forvalteren skal utarbeide i henhold til reglene i hjemstaten,det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat og Norge,det alternative investeringsfondets hjemstat ikke er oppført av Financial Action Task Force on Money Laundering (FATF) som ikke-samarbeidende land.
+(1) En forvalter med tillatelse i Norge eller en annen EØS-stat og som forvalter alternativt investeringsfond som er etablert utenfor EØS, eller alternativt investeringsfond etablert i en EØS-stat som er tilføringsfond til et slikt fond, kan markedsføre fondet i Norge til profesjonelle investorer etter tillatelse fra Finanstilsynet. Slik tillatelse kan gis dersom:
+
+1. forvalteren overholder bestemmelser i og i medhold av denne lov, med unntak av reglene om depotmottaker i [kapittel 5](lov/2014-06-20-28/kap5), men slik at forvalteren må dokumentere at et annet foretak enn forvalteren selv utfører depotmottakeroppgaver som nevnt i [§ 5-3](lov/2014-06-20-28/§5-3) annet, tredje og fjerde ledd og forskrifter gitt med hjemmel i [§ 5-3](lov/2014-06-20-28/§5-3),
+2. forvalteren gjør det som er nødvendig for her i riket å kunne foreta utbetalinger til investorene, innløse andeler og gi den informasjon som forvalteren skal utarbeide i henhold til reglene i hjemstaten,
+3. det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat og Norge,
+4. det alternative investeringsfondets hjemstat ikke er oppført av Financial Action Task Force on Money Laundering (FATF) som ikke-samarbeidende land.
 
 (2) Finanstilsynet kan stille vilkår for tillatelse etter første ledd for å sikre beskyttelsen av investorer i Norge, herunder vilkår om plikt til å gi opplysninger til investorer og myndigheter og om hvordan salg av andeler i Norge skal skje.
 
 ### § 6-5. Markedsføring i Norge av alternative investeringsfond med forvalter etablert utenfor EØS
 
-(1) En forvalter etablert utenfor EØS som forvalter alternativt investeringsfond, kan markedsføre det alternative investeringsfondet i Norge til profesjonelle investorer etter tillatelse fra Finanstilsynet. Slik tillatelse kan gis dersom:fondet og forvaltningen av fondet er underlagt betryggende tilsyn i hjemstaten og oppfyller de krav som gjelder for å drive virksomheten i hjemstaten,forvalteren overholder reglene i [kapittel 4](lov/2014-06-20-28/kap4) og bestemmelser gitt i medhold av disse,det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat, forvalterens hjemstat og Norge,krav som nevnt i [§ 6-4](lov/2014-06-20-28/§6-4) første ledd bokstav b og d er oppfylt.
+(1) En forvalter etablert utenfor EØS som forvalter alternativt investeringsfond, kan markedsføre det alternative investeringsfondet i Norge til profesjonelle investorer etter tillatelse fra Finanstilsynet. Slik tillatelse kan gis dersom:
+
+1. fondet og forvaltningen av fondet er underlagt betryggende tilsyn i hjemstaten og oppfyller de krav som gjelder for å drive virksomheten i hjemstaten,
+2. forvalteren overholder reglene i [kapittel 4](lov/2014-06-20-28/kap4) og bestemmelser gitt i medhold av disse,
+3. det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat, forvalterens hjemstat og Norge,
+4. krav som nevnt i [§ 6-4](lov/2014-06-20-28/§6-4) første ledd bokstav b og d er oppfylt.
 
 (2) [§ 6-4](lov/2014-06-20-28/§6-4) annet ledd gjelder tilsvarende.
 
@@ -503,7 +599,11 @@ Departementet kan i forskrift gi nærmere regler om markedsføring av alternativ
 
 (1) En forvalter kan foreta markedssondering etter de regler som følger av denne paragraf og § 6-7, uten at fondet er meldt for markedsføring etter [§ 6-1](lov/2014-06-20-28/§6-1) eller [§ 6-2](lov/2014-06-20-28/§6-2). Forvalter kan benytte verdipapirforetak, tilknyttede agenter av verdipapirforetak, kredittinstitusjoner, forvaltningsselskaper eller andre forvaltere av alternative investeringsfond til å utføre markedssonderinger. Kravene til markedssondering gjelder tilsvarende for disse foretakene.
 
-(2) Informasjon som benyttes ved markedssonderingen, skal ikkevære tilstrekkelig til at potensielle investorer kan forplikte seg til å investere i fondet,utgjøre tegningsdokument eller lignende, heller ikke i form av utkast, ellerutgjøre stiftelsesdokument, prospekt eller tilbudsdokument til et alternativt investeringsfond som ikke er etablert.
+(2) Informasjon som benyttes ved markedssonderingen, skal ikke
+
+1. være tilstrekkelig til at potensielle investorer kan forplikte seg til å investere i fondet,
+2. utgjøre tegningsdokument eller lignende, heller ikke i form av utkast, eller
+3. utgjøre stiftelsesdokument, prospekt eller tilbudsdokument til et alternativt investeringsfond som ikke er etablert.
 
 (3) Utkast til prospekt og tilbudsdokument kan ikke være så fullstendig at investorer kan treffe en investeringsbeslutning. Utkast skal tydelig angi at dokumentasjonen ikke utgjør tilbud eller invitasjon til å tegne andeler, og at den er ufullstendig og kan endres.
 
@@ -555,7 +655,12 @@ Departementet kan i forskrift gi nærmere regler om markedsføring av alternativ
 
 ### § 7-1. Markedsføring av alternative investeringsfond som ikke er nasjonale fond til ikke-profesjonelle investorer
 
-(1) En forvalter med tillatelse i Norge eller annen EØS-stat kan markedsføre alternativt investeringsfond som ikke er nasjonalt fond, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 5, som forvalteren forvalter til ikke-profesjonelle investorer i Norge etter tillatelse fra Finanstilsynet. Søknad om tillatelse skal inneholde følgende opplysninger:informasjon som nevnt i [§ 6-1](lov/2014-06-20-28/§6-1) første ledd bokstav a og b,nøkkelinformasjon etter [§ 7-2](lov/2014-06-20-28/§7-2),bekreftelse om at fondet kan markedsføres til ikke-profesjonelle investorer i hjemstaten,en redegjørelse for hvordan markedsføring og salg skal gjennomføres, herunder tiltak for å sikre at markedsføring til ikke-profesjonelle skal skje i samsvar med kravene til god forretningsskikk i [§ 7-3](lov/2014-06-20-28/§7-3).
+(1) En forvalter med tillatelse i Norge eller annen EØS-stat kan markedsføre alternativt investeringsfond som ikke er nasjonalt fond, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 5, som forvalteren forvalter til ikke-profesjonelle investorer i Norge etter tillatelse fra Finanstilsynet. Søknad om tillatelse skal inneholde følgende opplysninger:
+
+1. informasjon som nevnt i [§ 6-1](lov/2014-06-20-28/§6-1) første ledd bokstav a og b,
+2. nøkkelinformasjon etter [§ 7-2](lov/2014-06-20-28/§7-2),
+3. bekreftelse om at fondet kan markedsføres til ikke-profesjonelle investorer i hjemstaten,
+4. en redegjørelse for hvordan markedsføring og salg skal gjennomføres, herunder tiltak for å sikre at markedsføring til ikke-profesjonelle skal skje i samsvar med kravene til god forretningsskikk i [§ 7-3](lov/2014-06-20-28/§7-3).
 
 (2) Dersom det alternative investeringsfondet er etablert utenfor EØS, eller det alternative investeringsfondet er tilføringsfond til et slikt fond, må krav som nevnt i [§ 6-4](lov/2014-06-20-28/§6-4) første ledd være oppfylt.
 
@@ -581,7 +686,11 @@ Departementet kan i forskrift gi nærmere regler om markedsføring av alternativ
 
 (3) Forvalter skal sende Finanstilsynet melding om markedssondering innen to uker etter oppstart. Meldingen skal inneholde en kortfattet beskrivelse av markedssonderingen, herunder investeringsstrategier eller ideer, og en eventuell liste over aktuelle alternative investeringsfond eller andelsklasser.
 
-(4) Informasjon som benyttes ved markedssonderingen, skal ikkevære tilstrekkelig til at potensielle investorer kan forplikte seg til å investere i fondet,utgjøre tegningsdokument eller lignende, heller ikke i form av utkast, ellerutgjøre stiftelsesdokument, prospekt eller tilbudsdokument til et alternativt investeringsfond som ikke er etablert.
+(4) Informasjon som benyttes ved markedssonderingen, skal ikke
+
+1. være tilstrekkelig til at potensielle investorer kan forplikte seg til å investere i fondet,
+2. utgjøre tegningsdokument eller lignende, heller ikke i form av utkast, eller
+3. utgjøre stiftelsesdokument, prospekt eller tilbudsdokument til et alternativt investeringsfond som ikke er etablert.
 
 (5) Utkast til prospekt og tilbudsdokument kan ikke være så fullstendig at investorer kan treffe en investeringsbeslutning. Utkast skal tydelig angi at dokumentasjonen ikke utgjør tilbud eller invitasjon til å tegne andeler, og at den er ufullstendig og kan endres.
 
@@ -647,7 +756,11 @@ Opplysninger eller informasjon som skal gis til ikke-profesjonelle investorer et
 
 (1) En forvalter med tillatelse etter [§ 2-2](lov/2014-06-20-28/§2-2) første, tredje eller fjerde ledd som ønsker å forvalte et alternativt investeringsfond etablert i en annen EØS-stat, eller yte tjenester som nevnt i [§ 2-2](lov/2014-06-20-28/§2-2) tredje og fjerde ledd i en annen EØS-stat, enten fra Norge eller gjennom etablering av en filial, skal gi Finanstilsynet melding om dette. Meldingen skal inneholde en virksomhetsplan som beskriver hvilke tjenester som skal ytes, og i hvilken medlemsstat og hvilke fond som skal forvaltes.
 
-(2) Meldingen om etablering av filial skal i tillegg inneholde følgende opplysninger:hvordan filialen skal være organisert,adresse i fondets hjemstat der dokumenter kan innhentes,navnet på og kontaktinformasjon til de personene som utgjør filialens ledelse.
+(2) Meldingen om etablering av filial skal i tillegg inneholde følgende opplysninger:
+
+1. hvordan filialen skal være organisert,
+2. adresse i fondets hjemstat der dokumenter kan innhentes,
+3. navnet på og kontaktinformasjon til de personene som utgjør filialens ledelse.
 
 (3) Finanstilsynet skal innen én måned etter at fullstendig melding som nevnt i første ledd, eller innen to måneder etter at fullstendig melding som nevnt i annet ledd, er mottatt, videresende meldingen til tilsynsmyndighetene i forvalterens vertsstat. Finanstilsynet skal vedlegge en bekreftelse på at forvalteren har tillatelse til å drive virksomhet i henhold til Europaparlamentets og rådets direktiv [2011/61/EU](eu/32011l0061). Finanstilsynet skal umiddelbart underrette forvalteren om oversendelsen. Forvalteren kan starte utøvelsen av sin virksomhet fra det tidspunktet slik underretning er mottatt.
 
@@ -697,7 +810,15 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 (1) Forvalterens tillatelse til å drive virksomhet faller bort hvis forvalteren kommer under konkurs- eller offentlig akkordforhandling.
 
-(2) Finanstilsynet kan helt eller delvis endre, sette nye vilkår for eller tilbakekalle tillatelsen til forvalteren, dersom forvalteren:ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller i mer enn seks måneder ikke har drevet forvaltning,har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,ikke lenger oppfyller lovens krav eller de vilkår som ble stilt for tillatelsen,begår alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov,gjør seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av virksomheten kan skade allmenne interesser,ikke etterkommer pålegg gitt i medhold av [§ 9-3](lov/2014-06-20-28/§9-3), ellermed tillatelse til å drive porteføljeforvaltning etter [§ 2-2](lov/2014-06-20-28/§2-2) tredje ledd ikke overholder krav til kapital etter [§ 2-6](lov/2014-06-20-28/§2-6) eller [§ 2-7](lov/2014-06-20-28/§2-7) med tilhørende forskrifter.
+(2) Finanstilsynet kan helt eller delvis endre, sette nye vilkår for eller tilbakekalle tillatelsen til forvalteren, dersom forvalteren:
+
+1. ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller i mer enn seks måneder ikke har drevet forvaltning,
+2. har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,
+3. ikke lenger oppfyller lovens krav eller de vilkår som ble stilt for tillatelsen,
+4. begår alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov,
+5. gjør seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av virksomheten kan skade allmenne interesser,
+6. ikke etterkommer pålegg gitt i medhold av [§ 9-3](lov/2014-06-20-28/§9-3), eller
+7. med tillatelse til å drive porteføljeforvaltning etter [§ 2-2](lov/2014-06-20-28/§2-2) tredje ledd ikke overholder krav til kapital etter [§ 2-6](lov/2014-06-20-28/§2-6) eller [§ 2-7](lov/2014-06-20-28/§2-7) med tilhørende forskrifter.
 
 (3) Når tillatelsen bortfaller eller blir kalt tilbake, skal den konsesjonspliktige virksomheten avvikles. Finanstilsynet fører tilsyn under avviklingsperioden og kan gi pålegg om gjennomføringen av avviklingen. Overføring av forvaltningen til en ny forvalter etter varsel om tilbakekall eller tilbakekall av tillatelsen til å drive forvaltning krever samtykke fra Finanstilsynet. Finanstilsynet kan stille vilkår om gjennomføringstidspunkt og hvordan overføringen skal offentliggjøres. Forvalteren kan iverksette overføringen med mindre Finanstilsynet innen én måned etter å ha mottatt informasjon har motsatt seg overføringen eller fastsatt vilkår for overføringen. Finanstilsynet kan forlenge fristen med inntil én måned dersom særlige omstendigheter ved saken gjør det nødvendig. Finanstilsynet skal underrette forvalteren om fristforlengelsen. Kostnadene til overføringen skal dekkes av forvalteren. Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -733,7 +854,15 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 ### § 9-6. Overtredelsesgebyr
 
-(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av:[§ 1-4](lov/2014-06-20-28/§1-4), [§ 2-1](lov/2014-06-20-28/§2-1), [§ 2-2](lov/2014-06-20-28/§2-2), [§ 2-5](lov/2014-06-20-28/§2-5), [§ 2-8](lov/2014-06-20-28/§2-8), [§§ 3-1](lov/2014-06-20-28/§3-1) til [3-3](lov/2014-06-20-28/§3-3), [§ 3-5](lov/2014-06-20-28/§3-5), [§§ 3-7](lov/2014-06-20-28/§3-7) til [3-10](lov/2014-06-20-28/§3-10), [kapittel 4](lov/2014-06-20-28/kap4), [§§ 5-1](lov/2014-06-20-28/§5-1) til [5-3](lov/2014-06-20-28/§5-3), [§ 6-1](lov/2014-06-20-28/§6-1), [§ 6-2](lov/2014-06-20-28/§6-2) første og tredje ledd, [§ 6-4](lov/2014-06-20-28/§6-4), [§ 6-5](lov/2014-06-20-28/§6-5), [kapittel 7](lov/2014-06-20-28/kap7), [§ 8-1](lov/2014-06-20-28/§8-1) og forskrifter gitt til utfylling av disse bestemmelsene,[EuVECA-forordningen artikkel 5](eu/32013r0345/a5) til [7](eu/32013r0345/a7), [12](eu/32013r0345/a12) til 14a og ved bruk av betegnelsen EuVECA ved markedsføring av fond som ikke er etablert etter [artikkel 3](eu/32013r0345/a3) bokstav b (iii) i forordningen,[EuSEF-forordningen artikkel 5](eu/32013r0346/a5) til [7](eu/32013r0346/a7) og [13](eu/32013r0346/a13) til 15a, og ved bruk av betegnelsen EuSEF ved markedsføring av fond som ikke er etablert etter [artikkel 3](eu/32013r0346/a3) bokstav b (iii) i forordningen,[ELTIF-forordningen artikkel 4](eu/32015r0760/a4), [13](eu/32015r0760/a13), [15](eu/32015r0760/a15), [23](eu/32015r0760/a23) til [25](eu/32015r0760/a25), [28](eu/32015r0760/a28), [30](eu/32015r0760/a30) og [31](eu/32015r0760/a31),[pengemarkedsfondsforordningen](eu/32017r1131) artikkel 6, 9 til 21, 23 til 34 og 36,forordning [(EU) 2019/1156 om grensekryssende distribusjon av fond artikkel 4](eu/32019r1156/a4),[SFTR](eu/32015r2365), jf. [verdipapirhandelloven § 17A-1](lov/2007-06-29-75/§17a-1), artikkel 13 og 14, eller utfyllende forskrifter til disse.
+(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av:
+
+1. [§ 1-4](lov/2014-06-20-28/§1-4), [§ 2-1](lov/2014-06-20-28/§2-1), [§ 2-2](lov/2014-06-20-28/§2-2), [§ 2-5](lov/2014-06-20-28/§2-5), [§ 2-8](lov/2014-06-20-28/§2-8), [§§ 3-1](lov/2014-06-20-28/§3-1) til [3-3](lov/2014-06-20-28/§3-3), [§ 3-5](lov/2014-06-20-28/§3-5), [§§ 3-7](lov/2014-06-20-28/§3-7) til [3-10](lov/2014-06-20-28/§3-10), [kapittel 4](lov/2014-06-20-28/kap4), [§§ 5-1](lov/2014-06-20-28/§5-1) til [5-3](lov/2014-06-20-28/§5-3), [§ 6-1](lov/2014-06-20-28/§6-1), [§ 6-2](lov/2014-06-20-28/§6-2) første og tredje ledd, [§ 6-4](lov/2014-06-20-28/§6-4), [§ 6-5](lov/2014-06-20-28/§6-5), [kapittel 7](lov/2014-06-20-28/kap7), [§ 8-1](lov/2014-06-20-28/§8-1) og forskrifter gitt til utfylling av disse bestemmelsene,
+2. [EuVECA-forordningen artikkel 5](eu/32013r0345/a5) til [7](eu/32013r0345/a7), [12](eu/32013r0345/a12) til 14a og ved bruk av betegnelsen EuVECA ved markedsføring av fond som ikke er etablert etter [artikkel 3](eu/32013r0345/a3) bokstav b (iii) i forordningen,
+3. [EuSEF-forordningen artikkel 5](eu/32013r0346/a5) til [7](eu/32013r0346/a7) og [13](eu/32013r0346/a13) til 15a, og ved bruk av betegnelsen EuSEF ved markedsføring av fond som ikke er etablert etter [artikkel 3](eu/32013r0346/a3) bokstav b (iii) i forordningen,
+4. [ELTIF-forordningen artikkel 4](eu/32015r0760/a4), [13](eu/32015r0760/a13), [15](eu/32015r0760/a15), [23](eu/32015r0760/a23) til [25](eu/32015r0760/a25), [28](eu/32015r0760/a28), [30](eu/32015r0760/a30) og [31](eu/32015r0760/a31),
+5. [pengemarkedsfondsforordningen](eu/32017r1131) artikkel 6, 9 til 21, 23 til 34 og 36,
+6. forordning [(EU) 2019/1156 om grensekryssende distribusjon av fond artikkel 4](eu/32019r1156/a4),
+7. [SFTR](eu/32015r2365), jf. [verdipapirhandelloven § 17A-1](lov/2007-06-29-75/§17a-1), artikkel 13 og 14, eller utfyllende forskrifter til disse.
 
 (2) Finanstilsynet kan ilegge overtredelsesgebyr også dersom foretaket har fått tillatelse eller blitt registrert ved hjelp av uriktige opplysninger eller andre uregelmessigheter.
 
@@ -757,7 +886,17 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 ### § 9-7. Momenter ved ileggelse av overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges, og ved utmåling kan det tas hensyn til:overtredelsens grovhet og varighetgraden av skyld hos overtrederenovertrederens finansielle styrke, særlig samlet omsetning eller årsinntektoppnådd fortjeneste eller unngått taptap påført tredjeperson som følge av overtredelsenvilje til å samarbeide med myndighetenetidligere overtredelserforhold som nevnt i [forvaltningsloven § 46](lov/1967-02-10/§46) andre leddandre relevante forhold.
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges, og ved utmåling kan det tas hensyn til:
+
+1. overtredelsens grovhet og varighet
+2. graden av skyld hos overtrederen
+3. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt
+4. oppnådd fortjeneste eller unngått tap
+5. tap påført tredjeperson som følge av overtredelsen
+6. vilje til å samarbeide med myndighetene
+7. tidligere overtredelser
+8. forhold som nevnt i [forvaltningsloven § 46](lov/1967-02-10/§46) andre ledd
+9. andre relevante forhold.
 
 > Tilføyd ved lov [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)).
 
@@ -807,7 +946,11 @@ Finanstilsynet kan kalle tilbake tillatelse til å markedsføre alternative inve
 
 ### § 10-5. Restriksjoner på forvaltningen av alternative investeringsfond mv.
 
-(1) Finanstilsynet kan:forby markedsføring av andeler i et alternativt investeringsfond dersom forvalteren ikke har tillatelse etter [§ 6-5](lov/2014-06-20-28/§6-5),pålegge en forvalter som er etablert utenfor EØS, restriksjoner når det gjelder forvaltningen av et alternativt investeringsfond ved for høy grenseoverskridende risikokonsentrasjon på et bestemt marked,pålegge en forvalter som er etablert utenfor EØS, restriksjoner når det gjelder forvaltningen av et alternativt investeringsfond hvis aktiviteten potensielt utgjør en viktig kilde til motpartsrisiko for en kredittinstitusjon eller en annen systemrelevant institusjon.
+(1) Finanstilsynet kan:
+
+1. forby markedsføring av andeler i et alternativt investeringsfond dersom forvalteren ikke har tillatelse etter [§ 6-5](lov/2014-06-20-28/§6-5),
+2. pålegge en forvalter som er etablert utenfor EØS, restriksjoner når det gjelder forvaltningen av et alternativt investeringsfond ved for høy grenseoverskridende risikokonsentrasjon på et bestemt marked,
+3. pålegge en forvalter som er etablert utenfor EØS, restriksjoner når det gjelder forvaltningen av et alternativt investeringsfond hvis aktiviteten potensielt utgjør en viktig kilde til motpartsrisiko for en kredittinstitusjon eller en annen systemrelevant institusjon.
 
 (2) Finanstilsynet kan bare treffe vedtak som nevnt i første ledd hvis tiltaket effektivt imøtegår trusselen mot finansmarkedene eller den finansielle stabiliteten, eller i vesentlig grad øker mulighetene til å overvåke trusselen. Det kan ikke treffes vedtak etter første ledd hvis tiltaket skaper risiko for regelverksarbitrasje eller skader finansmarkedenes effektivitet, herunder reduserer likviditeten på markedene eller skaper usikkerhet for markedsaktørene på en uforholdsmessig måte.
 
@@ -817,7 +960,10 @@ Finanstilsynet kan kalle tilbake tillatelse til å markedsføre alternative inve
 
 ### § 11-1. Straff
 
-Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uaktsomt:overtrer [§ 2-2](lov/2014-06-20-28/§2-2), [§ 3-5](lov/2014-06-20-28/§3-5), [§ 4-4](lov/2014-06-20-28/§4-4), [§ 4-5](lov/2014-06-20-28/§4-5), [§ 5-3](lov/2014-06-20-28/§5-3), [§§ 6-1](lov/2014-06-20-28/§6-1) til [6-5](lov/2014-06-20-28/§6-5), [§§ 7-1](lov/2014-06-20-28/§7-1) til [7-3](lov/2014-06-20-28/§7-3), [§§ 8-1](lov/2014-06-20-28/§8-1) til [8-3](lov/2014-06-20-28/§8-3), [§ 9-2](lov/2014-06-20-28/§9-2), [§ 9-3](lov/2014-06-20-28/§9-3), [§ 10-1](lov/2014-06-20-28/§10-1) eller [§ 10-2](lov/2014-06-20-28/§10-2), [SFTR](eu/32015r2365), jf. [verdipapirhandelloven § 17A-1](lov/2007-06-29-75/§17a-1), artikkel 14, eller regler eller tillatelser gitt i medhold av de nevnte bestemmelsene,grovt eller gjentatte ganger overtrer [§ 3-2](lov/2007-06-29-75/§3-2) eller [§ 3-3](lov/2007-06-29-75/§3-3).
+Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uaktsomt:
+
+1. overtrer [§ 2-2](lov/2014-06-20-28/§2-2), [§ 3-5](lov/2014-06-20-28/§3-5), [§ 4-4](lov/2014-06-20-28/§4-4), [§ 4-5](lov/2014-06-20-28/§4-5), [§ 5-3](lov/2014-06-20-28/§5-3), [§§ 6-1](lov/2014-06-20-28/§6-1) til [6-5](lov/2014-06-20-28/§6-5), [§§ 7-1](lov/2014-06-20-28/§7-1) til [7-3](lov/2014-06-20-28/§7-3), [§§ 8-1](lov/2014-06-20-28/§8-1) til [8-3](lov/2014-06-20-28/§8-3), [§ 9-2](lov/2014-06-20-28/§9-2), [§ 9-3](lov/2014-06-20-28/§9-3), [§ 10-1](lov/2014-06-20-28/§10-1) eller [§ 10-2](lov/2014-06-20-28/§10-2), [SFTR](eu/32015r2365), jf. [verdipapirhandelloven § 17A-1](lov/2007-06-29-75/§17a-1), artikkel 14, eller regler eller tillatelser gitt i medhold av de nevnte bestemmelsene,
+2. grovt eller gjentatte ganger overtrer [§ 3-2](lov/2007-06-29-75/§3-2) eller [§ 3-3](lov/2007-06-29-75/§3-3).
 
 > Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)).
 

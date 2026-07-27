@@ -15,7 +15,7 @@ xml_hash: "745e92abee017856f59f50c0164ee02b561a2c6dbbd3e6f2ad2a8d64e0dba164"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,9 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 
 ## § 8. Ikrafttredelse og opphevelser
 
-Denne forskriften trer i kraft straks. Samtidig oppheves:[Forskrift av 31. januar 2001 nr. 97](forskrift/2001-01-31-97) om særskilte beskyttelsestiltak ved innførsel av fisk tilhørende laksefamilien Salmonidae fra Færøyene, [forskrift av 31. desember 1997 nr. 1470](forskrift/1997-12-31-1470) om soner for forebygging, begrensning og utrydding av infeksiøs lakseanemi, og [forskrift av 29. desember 2000 nr. 1594](forskrift/2000-12-29-1594) om dyrehelsemessige betingelser ved innførsel og utførsel av akvatiske dyr og produkter og smitteførende gjenstander [§ 4](forskrift/2003-05-30-661/§4), siste ledd, [§ 5](forskrift/2003-05-30-661/§5), siste ledd og § 12, annet ledd.
+Denne forskriften trer i kraft straks. Samtidig oppheves:
+
+[Forskrift av 31. januar 2001 nr. 97](forskrift/2001-01-31-97) om særskilte beskyttelsestiltak ved innførsel av fisk tilhørende laksefamilien Salmonidae fra Færøyene, [forskrift av 31. desember 1997 nr. 1470](forskrift/1997-12-31-1470) om soner for forebygging, begrensning og utrydding av infeksiøs lakseanemi, og [forskrift av 29. desember 2000 nr. 1594](forskrift/2000-12-29-1594) om dyrehelsemessige betingelser ved innførsel og utførsel av akvatiske dyr og produkter og smitteførende gjenstander [§ 4](forskrift/2003-05-30-661/§4), siste ledd, [§ 5](forskrift/2003-05-30-661/§5), siste ledd og § 12, annet ledd.
 
 > Endret ved [forskrift 30 jan 2004 nr. 350](forskrift/2004-01-30-350) (i kraft 1 feb 2004, tidligere § 9).
 

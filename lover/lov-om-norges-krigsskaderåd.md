@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Norges Krigsskaderåd skal overvåke og samordne landets beredskap når det gjelder krigsskader og krigsskadeerstatning og påse at offentlige og private krigsskadeinstitusjoner fyller sin oppgave på best mulig måte. Herunder påligger det særlig rådet:å være rådgiver for Staten og offentlige og private krigsskadeinstitusjoner i spørsmål om krigsskade og krigsskadeerstatning;å fremme forslag om slike tiltak som rådet anser påkrevd til avverging og avhjelp av skader og tap som følge av krig og krigsforhold;å føre tilsyn med offentlige og private krigsskadeinstitusjoner, ogå avgjøre anke over avgjørelser av krigsskadeinstitusjoner i den utstrekning det blir bestemt at de kan innbringes for rådet.
+Norges Krigsskaderåd skal overvåke og samordne landets beredskap når det gjelder krigsskader og krigsskadeerstatning og påse at offentlige og private krigsskadeinstitusjoner fyller sin oppgave på best mulig måte. Herunder påligger det særlig rådet:
+
+1. å være rådgiver for Staten og offentlige og private krigsskadeinstitusjoner i spørsmål om krigsskade og krigsskadeerstatning;
+2. å fremme forslag om slike tiltak som rådet anser påkrevd til avverging og avhjelp av skader og tap som følge av krig og krigsforhold;
+3. å føre tilsyn med offentlige og private krigsskadeinstitusjoner, og
+4. å avgjøre anke over avgjørelser av krigsskadeinstitusjoner i den utstrekning det blir bestemt at de kan innbringes for rådet.
 
 ## § 2.
 

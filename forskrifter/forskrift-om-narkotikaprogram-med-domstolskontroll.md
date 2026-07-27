@@ -32,7 +32,11 @@ Forskriften gjelder gjennomføringen av narkotikaprogram med domstolskontroll fa
 
 ## § 3. Hvem som kan idømmes narkotikaprogram med domstolskontroll
 
-Personer som er avhengige av narkotika kan dømmes til narkotikaprogram med domstolskontroll dersom han eller hun dømmes forovertredelser av [straffeloven § 231](lov/2005-05-20-28/§231) første ledd, [§ 232](lov/2005-05-20-28/§232) eller [legemiddelloven § 31](lov/1992-12-04-132/§31) andre ledd,lovbrudd begått under påvirkning av narkotika ellerlovbrudd begått for å finansiere eget narkotikamisbruk.
+Personer som er avhengige av narkotika kan dømmes til narkotikaprogram med domstolskontroll dersom han eller hun dømmes for
+
+1. overtredelser av [straffeloven § 231](lov/2005-05-20-28/§231) første ledd, [§ 232](lov/2005-05-20-28/§232) eller [legemiddelloven § 31](lov/1992-12-04-132/§31) andre ledd,
+2. lovbrudd begått under påvirkning av narkotika eller
+3. lovbrudd begått for å finansiere eget narkotikamisbruk.
 
 Den som dømmes for overtredelse av minst ett av alternativene i [straffeloven kapittel 25](lov/2005-05-20-28/kap25) eller [26](lov/2005-05-20-28/kap26) skal ikke idømmes narkotikaprogram med domstolskontroll. Ved overtredelse av [straffeloven kapittel 25](lov/2005-05-20-28/kap25) kan det likevel gjøres unntak når forholdet er av mindre alvorlig karakter.
 
@@ -50,7 +54,11 @@ Anses siktede som egnet for å idømmes narkotikaprogram med domstolskontroll, s
 
 ## § 6. Samtykke fra siktede
 
-I forbindelse med personundersøkelsen skal det innhentes samtykke fra siktede til å:gjennomføre narkotikaprogram med domstolskontrollfrita fra taushetspliktengi rett til å få utlevert personopplysninger som ellers ville vært underlagt taushetsplikt.
+I forbindelse med personundersøkelsen skal det innhentes samtykke fra siktede til å:
+
+1. gjennomføre narkotikaprogram med domstolskontroll
+2. frita fra taushetsplikten
+3. gi rett til å få utlevert personopplysninger som ellers ville vært underlagt taushetsplikt.
 
 Samtykkeerklæringen skal underskrives av siktede i forbindelse med personundersøkelsen, jf. [§ 5](forskrift/2017-10-20-1650/§5).
 
@@ -96,9 +104,19 @@ Retten kan bestemme at det skal avholdes saksforberedende møter, som startmøte
 
 ## § 11. Krav til domfelte
 
-Den domfelte skal gjennomføre narkotikaprogrammet i samsvar med kriminalomsorgens anvisninger. Den domfelte skal:møte til fastsatt tid og sted til alle avtaler med involverte instanser under gjennomføringenfølge opp fastsatte tiltakmøte uten påvirkning av alkohol eller annet berusende eller bedøvende middelgi opplysninger om sitt bosted og andre personlige forhold av betydning for gjennomføringen av programmetikke begå ny straffbar handling i prøvetidenvise evne og vilje til å forandre rusadferden og til å gjøre en innsats for å endre livsførselen.
+Den domfelte skal gjennomføre narkotikaprogrammet i samsvar med kriminalomsorgens anvisninger. Den domfelte skal:
 
-Den domfelte skal ikke vise en atferd som kan:true sikkerheten til personer som deltar under straffegjennomføringenpåvirke miljøet på en negativ måte.
+1. møte til fastsatt tid og sted til alle avtaler med involverte instanser under gjennomføringen
+2. følge opp fastsatte tiltak
+3. møte uten påvirkning av alkohol eller annet berusende eller bedøvende middel
+4. gi opplysninger om sitt bosted og andre personlige forhold av betydning for gjennomføringen av programmet
+5. ikke begå ny straffbar handling i prøvetiden
+6. vise evne og vilje til å forandre rusadferden og til å gjøre en innsats for å endre livsførselen.
+
+Den domfelte skal ikke vise en atferd som kan:
+
+1. true sikkerheten til personer som deltar under straffegjennomføringen
+2. påvirke miljøet på en negativ måte.
 
 Domfelte skal selv dekke reiseutgiftene ved gjennomføring av programmet. Kriminalomsorgen kan etter søknad dekke utgiftene dersom domfelte ikke har tilstrekkelige midler.
 
@@ -136,4 +154,7 @@ Justis- og beredskapsdepartementet kan endre forskriften og gi utfyllende bestem
 
 ## § 16. Ikrafttredelse
 
-Forskriften trer i kraft straks. Samtidig oppheves[forskrift 16. desember 2005 nr. 1518](forskrift/2005-12-16-1518) om prøveordning med narkotikaprogram med domstolskontroll[forskrift 12. februar 2016 nr. 152](forskrift/2016-02-12-152) om forlengelse av prøveordning med narkotikaprogram med domstolskontroll.
+Forskriften trer i kraft straks. Samtidig oppheves
+
+- [forskrift 16. desember 2005 nr. 1518](forskrift/2005-12-16-1518) om prøveordning med narkotikaprogram med domstolskontroll
+- [forskrift 12. februar 2016 nr. 152](forskrift/2016-02-12-152) om forlengelse av prøveordning med narkotikaprogram med domstolskontroll.

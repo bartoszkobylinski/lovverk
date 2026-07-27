@@ -17,7 +17,7 @@ xml_hash: "e0e6e582de927c55e0cd5a629b59a398f4006f91abb24a506c92627caa809c52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,9 +38,18 @@ Forskriften gjelder for norsk land- og sjøterritorium, norske luft- og sjøfart
 
 ## § 3. Definisjoner
 
-Definisjonene i [forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften) § 1](forskrift/2008-12-22-1620/§1) jf. artiklene 2 og 3 nr. 2 og 8 i forordning [(EF) nr. 178/2002](eu/32002r0178) (matlovsforordningen) av begrepene:næringsmidler,fôr ogomsetninggjelder også for bestemmelsene i denne forskriften.
+Definisjonene i [forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften) § 1](forskrift/2008-12-22-1620/§1) jf. artiklene 2 og 3 nr. 2 og 8 i forordning [(EF) nr. 178/2002](eu/32002r0178) (matlovsforordningen) av begrepene:
 
-I denne forskriften menes med*mindre viktige næringsmidler:* næringsmidler som er av mindre betydning i det daglige kostholdet, og som kun utgjør et marginalt bidrag til befolkningens inntak av næringsmidler, jf. listen i [vedlegg 2](forskrift/2022-09-14-1580/vedlegg2) del 1.*atomhendelse:* atomulykke eller en annen akutt hendelse som kan innebære ioniserende stråling eller spredning av radioaktivitet, som må antas å føre til eller har medført vesentlig radioaktiv forurensning i næringsmidler og fôr.
+1. næringsmidler,
+2. fôr og
+3. omsetning
+
+gjelder også for bestemmelsene i denne forskriften.
+
+I denne forskriften menes med
+
+1. *mindre viktige næringsmidler:* næringsmidler som er av mindre betydning i det daglige kostholdet, og som kun utgjør et marginalt bidrag til befolkningens inntak av næringsmidler, jf. listen i [vedlegg 2](forskrift/2022-09-14-1580/vedlegg2) del 1.
+2. *atomhendelse:* atomulykke eller en annen akutt hendelse som kan innebære ioniserende stråling eller spredning av radioaktivitet, som må antas å føre til eller har medført vesentlig radioaktiv forurensning i næringsmidler og fôr.
 
 ## § 4. Høyeste midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr
 
@@ -50,7 +59,10 @@ Grenseverdiene i vedleggene setter skranker for hvor høye grenseverdier for rad
 
 ## § 5. Mattilsynets vedtakelse av forskrifter som fastsetter gjeldende midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr, og eventuelle andre nødvendige restriksjoner etter matloven, som følge av en atomhendelse
 
-Hvis Mattilsynet mottar opplysninger om en atomhendelse, kan Mattilsynet vedta forskrifter som fastsetter:gjeldende midlertidige grenseverdier for radioaktiv forurensning i de næringsmidlene og det fôret som kan være forurenset ogandre nødvendige restriksjoner etter [matloven § 9](lov/2003-12-19-124/§9), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13), [§ 14](lov/2003-12-19-124/§14), [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16), [§ 17](lov/2003-12-19-124/§17), [§ 21](lov/2003-12-19-124/§21) og [§ 33](lov/2003-12-19-124/§33).
+Hvis Mattilsynet mottar opplysninger om en atomhendelse, kan Mattilsynet vedta forskrifter som fastsetter:
+
+1. gjeldende midlertidige grenseverdier for radioaktiv forurensning i de næringsmidlene og det fôret som kan være forurenset og
+2. andre nødvendige restriksjoner etter [matloven § 9](lov/2003-12-19-124/§9), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13), [§ 14](lov/2003-12-19-124/§14), [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16), [§ 17](lov/2003-12-19-124/§17), [§ 21](lov/2003-12-19-124/§21) og [§ 33](lov/2003-12-19-124/§33).
 
 Mattilsynet kan vedta forskrifter etter første ledd uten forutgående høring, og kunngjøre disse på særskilt måte.
 
@@ -62,7 +74,10 @@ Mattilsynet bør så snart som mulig, og senest innen 3 måneder, gjennomføre e
 
 ## § 7. Rangordningen mellom ulike bestemmelser
 
-Ved motstrid går følgende bestemmelser foran bestemmelser i forskrifter vedtatt av Mattilsynet etter [§ 5](forskrift/2022-09-14-1580/§5):bestemmelser som regulerer tilsvarende forhold i forskrifter som gjennomfører Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl) i norsk rett ognasjonale bestemmelser i andre forskrifter som fastsetter høyere grenseverdier for radioaktiv forurensning i bestemte næringsmidler eller fôr.
+Ved motstrid går følgende bestemmelser foran bestemmelser i forskrifter vedtatt av Mattilsynet etter [§ 5](forskrift/2022-09-14-1580/§5):
+
+1. bestemmelser som regulerer tilsvarende forhold i forskrifter som gjennomfører Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl) i norsk rett og
+2. nasjonale bestemmelser i andre forskrifter som fastsetter høyere grenseverdier for radioaktiv forurensning i bestemte næringsmidler eller fôr.
 
 Bestemmelser i forskrifter vedtatt av Mattilsynet etter [§ 5](forskrift/2022-09-14-1580/§5) gjelder foran nasjonale bestemmelser i andre forskrifter som fastsetter lavere grenseverdier for radioaktiv forurensning i næringsmidler eller fôr.
 

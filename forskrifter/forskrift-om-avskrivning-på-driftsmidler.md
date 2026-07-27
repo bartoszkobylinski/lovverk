@@ -48,7 +48,11 @@ Ordinær startavskrivning reduserer saldoverdien etter § 44A nr. 2 a første pu
 
 ### § 2-4
 
-Ordinær startavskrivning reduseres med:tidligere avskrivning på grunnlag av forskudds- eller delbetaling i henhold til kontrakt etter § 44A nr. 2 c annet ledd,ekstraordinær startavskrivning eller nedskrivning etter henholdsvis § 3 og § 7 i [lov av 19. juni 1969 nr. 72](lov/1969-06-19-72) (Distriktsskatteloven) ognedskrivning etter § 5 i [lov av 14. desember 1962 nr. 1](lov/1962-12-14-1) om skattefrie fondsavsetninger.
+Ordinær startavskrivning reduseres med:
+
+1. tidligere avskrivning på grunnlag av forskudds- eller delbetaling i henhold til kontrakt etter § 44A nr. 2 c annet ledd,
+2. ekstraordinær startavskrivning eller nedskrivning etter henholdsvis § 3 og § 7 i [lov av 19. juni 1969 nr. 72](lov/1969-06-19-72) (Distriktsskatteloven) og
+3. nedskrivning etter § 5 i [lov av 14. desember 1962 nr. 1](lov/1962-12-14-1) om skattefrie fondsavsetninger.
 
 ## Kap. 3. Avskrivning på alminnelig forretningseiendom
 
@@ -80,16 +84,32 @@ Bygningsmessig arbeid som iverksettes i forbindelse med montering av produksjons
 
 ### § 5-1. Gevinst ved salg av skip m.m.
 
-1. Denne paragraf gjelder:gevinst ved salg eller tap av skip, fiske- og fangstfartøy, borefartøy, annen flytende eller flyttbar plattform og innretning, og fly, oggevinst ved salg av kontrakt om bygging eller kjøp av driftsmiddel som nevnt under a.
-2. I stedet for inntektsføring kan gevinst i salgsåret føres til fradrag i saldoen forskip m.v. som nevnt i § 44A nr. 5,maskin m.v. som nevnt i § 44A nr. 3, jfr. § 45 åttende ledd.
-3. Gevinst avsatt til investeringsfond etter § 45 niende ledd kan nyttes til:reinvestering i driftsmiddel som nevnt i nr. 1 i denne paragraf,reinvestering i driftsmiddel som kan avskrives etter § 44A nr. 3,nedskrivning på saldoen etter § 44A nr. 5,nedskrivning på saldoen etter § 44A nr. 3.
+1. Denne paragraf gjelder:
+
+   1. gevinst ved salg eller tap av skip, fiske- og fangstfartøy, borefartøy, annen flytende eller flyttbar plattform og innretning, og fly, og
+   2. gevinst ved salg av kontrakt om bygging eller kjøp av driftsmiddel som nevnt under a.
+2. I stedet for inntektsføring kan gevinst i salgsåret føres til fradrag i saldoen for
+
+   1. skip m.v. som nevnt i § 44A nr. 5,
+   2. maskin m.v. som nevnt i § 44A nr. 3, jfr. § 45 åttende ledd.
+3. Gevinst avsatt til investeringsfond etter § 45 niende ledd kan nyttes til:
+
+   1. reinvestering i driftsmiddel som nevnt i nr. 1 i denne paragraf,
+   2. reinvestering i driftsmiddel som kan avskrives etter § 44A nr. 3,
+   3. nedskrivning på saldoen etter § 44A nr. 5,
+   4. nedskrivning på saldoen etter § 44A nr. 3.
 4. Fristen for reinvestering eller nedskrivning er 6 år, jfr. § 45 ellevte ledd b.
 
 ### § 5-2. Gevinst ved salg av bygning og anlegg
 
 1. Denne paragraf gjelder gevinst ved salg eller tap av bygning og anlegg, jfr. § 44A nr. 4.
 2. I stedet for inntektsføring kan gevinst i salgsåret føres til fradrag i saldoen for bygning og anlegg som nevnt i § 44A nr. 4. Gevinsten kan også føres til fradrag i saldoen for maskiner m.v. som nevnt i § 44A nr. 3 og skip m.v. som nevnt i § 44A nr. 5, jfr. § 45 åttende ledd.
-3. Gevinst avsatt til investeringsfond etter § 45 tiende ledd første punktum, kan nyttes til:reinvestering i avskrivbart driftsmiddel, unntatt forretningseiendom,reinvestering i arbeider- og funksjonærbolig. Dette gjelder også det år salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet,nedskrivning på saldoen etter § 44A nr. 4,nedskrivning på saldoen etter § 44A nr. 3 og 5.
+3. Gevinst avsatt til investeringsfond etter § 45 tiende ledd første punktum, kan nyttes til:
+
+   1. reinvestering i avskrivbart driftsmiddel, unntatt forretningseiendom,
+   2. reinvestering i arbeider- og funksjonærbolig. Dette gjelder også det år salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet,
+   3. nedskrivning på saldoen etter § 44A nr. 4,
+   4. nedskrivning på saldoen etter § 44A nr. 3 og 5.
 4. Fristen for reinvestering eller nedskrivning er 4 år, jfr. § 45 ellevte ledd b.
 
 Gevinst skal nedskrives på det første driftsmiddel som inngår på saldoen etter § 44A nr. 4, jfr. § 45 ellevte ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
@@ -97,20 +117,36 @@ Gevinst skal nedskrives på det første driftsmiddel som inngår på saldoen ett
 ### § 5-3. Gevinst ved salg av arbeider- og funksjonærbolig
 
 1. Denne paragraf gjelder gevinst ved salg eller tap av arbeider- og funksjonærbolig.
-2. Gevinst avsatt til investeringsfond etter § 45 tiende ledd første punktum kan nyttes til:reinvestering i arbeider- og funksjonærbolig,reinvestering i avskrivbart driftsmiddel, unntatt forretningseiendom.Dette gjelder også det år salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet.
-3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.Gevinst skal nedskrives på den første arbeider- og funksjonærbolig som erverves, jfr. § 45 ellevte ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
+2. Gevinst avsatt til investeringsfond etter § 45 tiende ledd første punktum kan nyttes til:
+
+   1. reinvestering i arbeider- og funksjonærbolig,
+   2. reinvestering i avskrivbart driftsmiddel, unntatt forretningseiendom.
+
+   Dette gjelder også det år salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet.
+3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.
+
+   Gevinst skal nedskrives på den første arbeider- og funksjonærbolig som erverves, jfr. § 45 ellevte ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
 
 ### § 5-4. Gevinst ved salg av alminnelig forretningseiendom
 
 1. Denne paragraf gjelder gevinst ved salg eller tap av alminnelig forretningseiendom, jfr. [§ 3-1](forskrift/1982-10-12-1449/§3-1) i disse forskrifter.
-2. Gevinst avsatt etter § 45 tiende ledd annet punktum, kan nyttes til:reinvestering i avskrivbart driftsmiddel. Dette gjelder også driftsmiddel som er ervervet samme år som salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet,nedskrivning på gjenværende avskrivbart driftsmiddel.
-3. Fristen for reinvestering og nedskrivning er 4 år, jfr. § 45 ellevte ledd b.Gevinst skal nedskrives på den første forretningseiendom som erverves, jfr. § 45 ellevte ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
+2. Gevinst avsatt etter § 45 tiende ledd annet punktum, kan nyttes til:
+
+   1. reinvestering i avskrivbart driftsmiddel. Dette gjelder også driftsmiddel som er ervervet samme år som salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet,
+   2. nedskrivning på gjenværende avskrivbart driftsmiddel.
+3. Fristen for reinvestering og nedskrivning er 4 år, jfr. § 45 ellevte ledd b.
+
+   Gevinst skal nedskrives på den første forretningseiendom som erverves, jfr. § 45 ellevte ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
 
 ### § 5-5. Gevinst ved salg av næringstomt
 
 1. Denne paragraf gjelder gevinst ved salg eller tap av tomt som er brukt som driftsmiddel i næring.
-2. Er gevinst avsatt etter § 45 tiende ledd tredje punktum, kan salgssummen eller erstatningen nyttes til reinvestering i avskrivbart driftsmiddel eller på tomt som skal brukes i næring. Dette gjelder også driftsmiddel som er ervervet samme år som salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet.Gevinsten skal nedskrives på driftsmidlet i samme forhold som salgssummen eller erstatningen er benyttet.
-3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.Gevinst skal nedskrives på den første næringstomt som erverves, jfr. § 45 tiende ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
+2. Er gevinst avsatt etter § 45 tiende ledd tredje punktum, kan salgssummen eller erstatningen nyttes til reinvestering i avskrivbart driftsmiddel eller på tomt som skal brukes i næring. Dette gjelder også driftsmiddel som er ervervet samme år som salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet.
+
+   Gevinsten skal nedskrives på driftsmidlet i samme forhold som salgssummen eller erstatningen er benyttet.
+3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.
+
+   Gevinst skal nedskrives på den første næringstomt som erverves, jfr. § 45 tiende ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.
 
 ### § 5-6. Gevinst ved salg av driftsløsøre
 
@@ -119,14 +155,22 @@ Gevinst skal nedskrives på det første driftsmiddel som inngår på saldoen ett
 
 ### § 5-7. Særregler om gevinst ved salg av livdyr
 
-1. Denne paragraf gjelder gevinst ved salg av livdyr når det antall storfe over tre år og det antall hester som skattyteren hadde ved årets begynnelse, ved salget er redusert med minst en tredjedel, jfr. § 45 trettende ledd b. Kvige som har kalvet, regnes alltid å være over tre år.Reglene i denne paragraf gjelder ikke gevinst ved salg av dyr til slakt.
-2. Er gevinst avsatt etter § 45 trettende ledd, kan salgssummen nyttes til reinvestering i driftsmiddel som skal avskrives etter § 44A nr. 3 til 5. Dette gjelder også det år salget finner sted uavhengig av om anskaffelsen skjer før eller etter salgstidspunktet. Gevinsten skal likevel inntektsbeskattes i utbetalingsåret i den utstrekning skattyteren er innrømmet inntektsfradrag for andel av kostpris ved gjenkjøp av dyr.Gevinsten skal nedskrives på driftsmidlet i samme forhold som salgssummen er benyttet.
-3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.Gevinsten skal nedskrives på det første driftsmiddel som inngår på saldoen etter § 44A nr. 3 eller nr. 5, jfr. § 45 ellevte ledd c.
+1. Denne paragraf gjelder gevinst ved salg av livdyr når det antall storfe over tre år og det antall hester som skattyteren hadde ved årets begynnelse, ved salget er redusert med minst en tredjedel, jfr. § 45 trettende ledd b. Kvige som har kalvet, regnes alltid å være over tre år.
+
+   Reglene i denne paragraf gjelder ikke gevinst ved salg av dyr til slakt.
+2. Er gevinst avsatt etter § 45 trettende ledd, kan salgssummen nyttes til reinvestering i driftsmiddel som skal avskrives etter § 44A nr. 3 til 5. Dette gjelder også det år salget finner sted uavhengig av om anskaffelsen skjer før eller etter salgstidspunktet. Gevinsten skal likevel inntektsbeskattes i utbetalingsåret i den utstrekning skattyteren er innrømmet inntektsfradrag for andel av kostpris ved gjenkjøp av dyr.
+
+   Gevinsten skal nedskrives på driftsmidlet i samme forhold som salgssummen er benyttet.
+3. Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b.
+
+   Gevinsten skal nedskrives på det første driftsmiddel som inngår på saldoen etter § 44A nr. 3 eller nr. 5, jfr. § 45 ellevte ledd c.
 
 ### § 5-8. Særregler om gevinst ved salg eller tap av varelager
 
 1. Denne paragraf gjelder gevinst som oppstår ved at et varelager er gått tapt ved brann eller annen ulykke eller er blitt ekspropriert eller solgt til erverver som kunne kreve det ekspropriert. Som varelager regnes her også besetningen av hester, storfe, griser, småfe, fjærfe, pelsdyr o.l., jfr. § 45 trettende ledd a.
-2. Gevinst avsatt etter § 45 trettende ledd, kan fritas fra inntektsbeskatning inntil salgssummen er nyttet til gjenanskaffelse av nye varer. Fristen for gjenanskaffelse er 2 år.Gevinsten kan nedskrives på den nye varebeholdning i samme forhold som salgssummen eller erstatningen er benyttet. Gevinsten kan likevel bare nyttes til nedskrivning på varebeholdningen i gjenanskaffelsesåret i den utstrekning skattelovens regler tillater det.
+2. Gevinst avsatt etter § 45 trettende ledd, kan fritas fra inntektsbeskatning inntil salgssummen er nyttet til gjenanskaffelse av nye varer. Fristen for gjenanskaffelse er 2 år.
+
+   Gevinsten kan nedskrives på den nye varebeholdning i samme forhold som salgssummen eller erstatningen er benyttet. Gevinsten kan likevel bare nyttes til nedskrivning på varebeholdningen i gjenanskaffelsesåret i den utstrekning skattelovens regler tillater det.
 
 ### § 5-9. Negativ saldoverdi
 
@@ -151,8 +195,20 @@ Gevinst skal nedskrives på det første driftsmiddel som inngår på saldoen ett
 
 ### § 6-3. Behandling av gevinst
 
-1. Tidligere regler om betinget skattefritak skal fortsatt gjelde for gevinst ved salg eller tap av driftsmiddel før 1. januar 1982. Dette gjelder også gevinst som skriver seg fra salg eller tap i 1982 eller 1983, når skattyter nytter tidligere avskrivningsregler vedkommende år.Ved avdragsvis eller utsatt betaling kan skattyter bruke nye regler om avsetning til investeringsfond m.v. for den del av gevinsten som skal skattlegges etter overgangen til nye avskrivningsregler. Dette gjelder også for gevinst ved salg av kontrakt om bygging eller kjøp av skip, fiske- og fangstfartøy, borefartøy, annen flytende eller flyttbar plattform og innretning og fly.Når gevinst som er avsatt etter tidligere regler om betinget skattefritak, nyttes etter at skattyter har gått over til nye avskrivningsregler, er det tilstrekkelig å reinvestere gevinsten. Er en forholdsmessig del av salgssummen eller erstatningen reinvestert tidligere, er det etter overgangen tilstrekkelig å reinvestere den del av gevinsten som svarer til den ikke reinvesterte del av salgssummen eller erstatningen.Deltar skattyteren i selskaper som nevnt i [§ 6-2](forskrift/1982-10-12-1449/§6-2) annet ledd, gjelder det som er bestemt i foregående ledd når reinvestering foretas i selskap der skattyter nytter nye avskrivningsregler. Tilsvarende gjelder når et annet selskap i et konsern oppfyller vilkårene for at gevinsten skal bli endelig fritatt for skatt, jfr. § 16 i [lov av 19. juni 1969 nr. 71](lov/1969-06-19-71/§16) (aksjeskatteloven).Er gevinst avsatt i et selskap hvor skattyter nytter de nye avskrivningsregler, gjelder de nye regler om avsetning til investeringsfond m.v. så langt de passer, selv om reinvesteringen foretas i 1982 eller 1983 i et selskap hvor skattyter nytter de tidligere avskrivningsregler vedkommende år. Tilsvarende gjelder for det overtagende konsernselskap, jfr. [aksjeskattelovens § 16](lov/1969-06-19-71/§16).Bestemmelsene i de tre foregående ledd gjelder ikke gevinst ved overdragelse av tomt som er brukt i næringsvirksomhet.
-2. Har skattyteren for 1982 valgt de tidligere avskrivningsregler, kan gevinst ved salg eller tap av skip eller borefartøy også for 1982 nyttes til ekstraordinær nedskrivning på skip eller borefartøy som er ervervet etter salget eller tapet. Tilsvarende gjelder for 1983 for skattyter som nytter de tidligere avskrivningsregler dette år.§ 45 åttende ledd i de tidligere regler om samtykke til betinget skattefritak for gevinst ved salg til innenlandsk kjøper av skip eller fly, eller kontrakt om bygging eller kjøp av slike driftsmidler gjelder ikke for 1982 og 1983.
+1. Tidligere regler om betinget skattefritak skal fortsatt gjelde for gevinst ved salg eller tap av driftsmiddel før 1. januar 1982. Dette gjelder også gevinst som skriver seg fra salg eller tap i 1982 eller 1983, når skattyter nytter tidligere avskrivningsregler vedkommende år.
+
+   Ved avdragsvis eller utsatt betaling kan skattyter bruke nye regler om avsetning til investeringsfond m.v. for den del av gevinsten som skal skattlegges etter overgangen til nye avskrivningsregler. Dette gjelder også for gevinst ved salg av kontrakt om bygging eller kjøp av skip, fiske- og fangstfartøy, borefartøy, annen flytende eller flyttbar plattform og innretning og fly.
+
+   Når gevinst som er avsatt etter tidligere regler om betinget skattefritak, nyttes etter at skattyter har gått over til nye avskrivningsregler, er det tilstrekkelig å reinvestere gevinsten. Er en forholdsmessig del av salgssummen eller erstatningen reinvestert tidligere, er det etter overgangen tilstrekkelig å reinvestere den del av gevinsten som svarer til den ikke reinvesterte del av salgssummen eller erstatningen.
+
+   Deltar skattyteren i selskaper som nevnt i [§ 6-2](forskrift/1982-10-12-1449/§6-2) annet ledd, gjelder det som er bestemt i foregående ledd når reinvestering foretas i selskap der skattyter nytter nye avskrivningsregler. Tilsvarende gjelder når et annet selskap i et konsern oppfyller vilkårene for at gevinsten skal bli endelig fritatt for skatt, jfr. § 16 i [lov av 19. juni 1969 nr. 71](lov/1969-06-19-71/§16) (aksjeskatteloven).
+
+   Er gevinst avsatt i et selskap hvor skattyter nytter de nye avskrivningsregler, gjelder de nye regler om avsetning til investeringsfond m.v. så langt de passer, selv om reinvesteringen foretas i 1982 eller 1983 i et selskap hvor skattyter nytter de tidligere avskrivningsregler vedkommende år. Tilsvarende gjelder for det overtagende konsernselskap, jfr. [aksjeskattelovens § 16](lov/1969-06-19-71/§16).
+
+   Bestemmelsene i de tre foregående ledd gjelder ikke gevinst ved overdragelse av tomt som er brukt i næringsvirksomhet.
+2. Har skattyteren for 1982 valgt de tidligere avskrivningsregler, kan gevinst ved salg eller tap av skip eller borefartøy også for 1982 nyttes til ekstraordinær nedskrivning på skip eller borefartøy som er ervervet etter salget eller tapet. Tilsvarende gjelder for 1983 for skattyter som nytter de tidligere avskrivningsregler dette år.
+
+   § 45 åttende ledd i de tidligere regler om samtykke til betinget skattefritak for gevinst ved salg til innenlandsk kjøper av skip eller fly, eller kontrakt om bygging eller kjøp av slike driftsmidler gjelder ikke for 1982 og 1983.
 3. Skattytere som nytter tidligere avskrivningsregler for 1982, kan også dette år avsette gevinst ved salg av arbeider- og funksjonærbolig til investeringsfond etter [skattelovens § 45](lov/1911-08-18-8/§45) tiende ledd, første punktum. Tilsvarende gjelder for 1983 for skattyter som nytter de tidligere avskrivningsregler dette år.
 
 ### § 6-4. Grunnlaget for saldoavskrivning

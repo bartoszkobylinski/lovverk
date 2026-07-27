@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen ved innførsel og innenlandsk produksjon av svovelheksafluorid (SF6) med følgende beløp:ren SF6: kr 38 517 per kg.SF6 som inngår i produkter: kr 7 708 per kg.
+Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen ved innførsel og innenlandsk produksjon av svovelheksafluorid (SF6) med følgende beløp:
+
+1. ren SF6: kr 38 517 per kg.
+2. SF6 som inngår i produkter: kr 7 708 per kg.
 
 Avgiften omfatter ikke SF6 som gjenbrukes etter tapping fra SF6-isolerte anlegg som tas ut av drift.
 
@@ -32,7 +35,19 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det gis fritak for avgift på varer somutføres til utlandetlegges inn på tollager når varene er bestemt til utførselinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhettil midlertidig bruk.leveres til eller innføres av NATO og styrker fra land som deltar i Partnerskap for fred,kommer i retur til produsents eller importørs lagerbrukes til førstegangs påfylling av nye høyspentanlegg,renses.
+Det gis fritak for avgift på varer som
+
+1. utføres til utlandet
+2. legges inn på tollager når varene er bestemt til utførsel
+3. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+   3. til midlertidig bruk.
+4. leveres til eller innføres av NATO og styrker fra land som deltar i Partnerskap for fred,
+5. kommer i retur til produsents eller importørs lager
+6. brukes til førstegangs påfylling av nye høyspentanlegg,
+7. renses.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

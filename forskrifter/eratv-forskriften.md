@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Beslutning [2011/665/EU](eu/32011d0665) om det europeiske registeret over godkjente typer jernbanekjøretøyer, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37dk, gjelder som forskrift med de endringer og tillegg som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, og med de endringene som følger avforordning [(EU) 2019/776](eu/32019r0776)beslutning [(EU) 2021/701](eu/32021d0701)beslutning [(EU) 2023/1696](eu/32023d1696)forordning [(EU) 2025/675](eu/32025r0675).
+Beslutning [2011/665/EU](eu/32011d0665) om det europeiske registeret over godkjente typer jernbanekjøretøyer, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37dk, gjelder som forskrift med de endringer og tillegg som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, og med de endringene som følger av
+
+- forordning [(EU) 2019/776](eu/32019r0776)
+- beslutning [(EU) 2021/701](eu/32021d0701)
+- beslutning [(EU) 2023/1696](eu/32023d1696)
+- forordning [(EU) 2025/675](eu/32025r0675).
 
 > Endret ved forskrifter [10 sep 2021 nr. 2743](forskrift/2021-09-10-2743) som endret ved meddelelse [28 sep 2021 nr. 2876](forskrift/2021-09-28-2876) (i kraft 25 sep 2021), [8 sep 2021 nr. 2709](forskrift/2021-09-08-2709) (i kraft 1 juni 2022, jf. meddelelse [6 mai 2022 nr. 774](forskrift/2022-05-06-774)), [14 mars 2025 nr. 449](forskrift/2025-03-14-449) (i kraft 15 mars 2025), [8 des 2025 nr. 2454](forskrift/2025-12-08-2454).
 

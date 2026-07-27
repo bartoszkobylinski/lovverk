@@ -15,7 +15,7 @@ xml_hash: "1c7dc5cb1e2b162a602d3cfda5ce1970c178b3bdc71e92f2a5e28b8010baaee8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,11 @@ Forskriften gjelder for doktorgradsutdanning som fører frem til graden philosop
 
 Ph.d.-utdanningen organiseres i programmer som er normert til 3 års fulltidsstudier. I programmene er det inkludert en opplæringsdel av minimum 30 studiepoengs omfang.
 
-Ph.d.-utdanningen ved Universitetet i Oslo skal utdanne selvstendige forskere på høyt internasjonalt nivå, i samsvar med anerkjente vitenskapelige og etiske prinsipper. Utdanningen skal kvalifisere for forskningsvirksomhet og annet arbeid der det stilles høye krav til vitenskapelig innsikt og analytisk tenkning. Ph.d.-graden tildeles på grunnlag av:gjennomført opplæringsdelvitenskapelig avhandlingdoktorgradsprøve.
+Ph.d.-utdanningen ved Universitetet i Oslo skal utdanne selvstendige forskere på høyt internasjonalt nivå, i samsvar med anerkjente vitenskapelige og etiske prinsipper. Utdanningen skal kvalifisere for forskningsvirksomhet og annet arbeid der det stilles høye krav til vitenskapelig innsikt og analytisk tenkning. Ph.d.-graden tildeles på grunnlag av:
+
+- gjennomført opplæringsdel
+- vitenskapelig avhandling
+- doktorgradsprøve.
 
 Doktorgradsprøven består av en prøveforelesning og et offentlig forsvar av avhandlingen, også kalt disputas.
 
@@ -70,7 +74,10 @@ Søknad om å bli tatt opp på ph.d.-program skal sendes fakultetet på fastsatt
 
 Vedtak om opptak fattes av fakultetet selv. Vedtaket baseres på en samlet vurdering av søknaden. Fakultetet kan rangere kvalifiserte søkere når antall søkere overstiger opptakskapasiteten.
 
-Opptak skal nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingensøkeren ikke vil kunne oppfylle kravet om at minimum ett år av doktorgradsprogrammet skal gjennomføres etter at vedkommende er tatt opp på doktorgradsprogrammet, jf. § 5.3
+Opptak skal nektes om:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av doktorgradsprogrammet skal gjennomføres etter at vedkommende er tatt opp på doktorgradsprogrammet, jf. § 5.3
 
 Fakultetet selv kan fastsette ytterligere vilkår for opptak.
 
@@ -222,7 +229,12 @@ Når fakultetet selv har godkjent søknad om å få avhandlingen bedømt, oppnev
 
 Det bør normalt ikke gå mer enn 4 uker fra søknaden er godkjent til komiteen er oppnevnt.
 
-Bedømmelseskomiteen skal som hovedregel settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til Universitetet i Oslominst ett av medlemmene er uten tilknytning til norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal som hovedregel settes sammen slik at:
+
+- begge kjønn er representert
+- minst ett av medlemmene er uten tilknytning til Universitetet i Oslo
+- minst ett av medlemmene er uten tilknytning til norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes skal dette begrunnes særskilt.
 
@@ -368,7 +380,11 @@ UiO utferdiger et seremonielt doktorgradsdiplom i tillegg til vitnemålet. Diplo
 
 (1) Klage på søknad om opptak og søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i [forvaltningsloven § 28](lov/1967-02-10/§28) flg.
 
-(2) Klage på tvungen avslutning kan påklages etter reglene i [uh-loven av 8. mars 2024 § 13-2](lov/2024-03-08-9/§13-2) eller [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker §§ 28](lov/1967-02-10/§28) flg.Eksamener i opplæringsdelen kan påklages etter reglene i [uh-loven av 8. mars 2024 § 11-10](lov/2024-03-08-9/§11-10) om klage på karakter og [§ 11-9](lov/2024-03-08-9/§11-9) om klage på formelle feil ved eksamen.Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i [forvaltningsloven §§ 28](lov/1967-02-10/§28) flg. og [uh-loven av 8. mars 2024 § 13-1](lov/2024-03-08-9/§13-1).
+(2) Klage på tvungen avslutning kan påklages etter reglene i [uh-loven av 8. mars 2024 § 13-2](lov/2024-03-08-9/§13-2) eller [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker §§ 28](lov/1967-02-10/§28) flg.
+
+Eksamener i opplæringsdelen kan påklages etter reglene i [uh-loven av 8. mars 2024 § 11-10](lov/2024-03-08-9/§11-10) om klage på karakter og [§ 11-9](lov/2024-03-08-9/§11-9) om klage på formelle feil ved eksamen.
+
+Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i [forvaltningsloven §§ 28](lov/1967-02-10/§28) flg. og [uh-loven av 8. mars 2024 § 13-1](lov/2024-03-08-9/§13-1).
 
 > Endret ved [forskrifter 9 feb 2016 nr. 147](forskrift/2016-02-09-147), [29 juni 2018 nr. 1103](forskrift/2018-06-29-1103), [18 juni 2024 nr. 1518](forskrift/2024-06-18-1518) (i kraft 1 aug 2024).
 

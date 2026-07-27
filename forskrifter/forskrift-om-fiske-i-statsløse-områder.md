@@ -36,7 +36,12 @@ Fiskeridirektoratet kan ved forskrift gi nærmere bestemmelser om registrering e
 
 ## § 3. Adgang til å nekte registrering av fartøy
 
-Fiskeridirektoratet kan nekte registrering av fartøy nårfisket anses å være i strid med norske fiskeriinteresser,når internasjonale avtaler gjør det nødvendig,når fisket er regulert av regionale – eller subregionale, fiskeriforvaltningsorganisasjoner eller -arrangementer,en rasjonell eller hensiktsmessig utøvelse eller gjennomføring av fisket tilsier det.
+Fiskeridirektoratet kan nekte registrering av fartøy når
+
+1. fisket anses å være i strid med norske fiskeriinteresser,
+2. når internasjonale avtaler gjør det nødvendig,
+3. når fisket er regulert av regionale – eller subregionale, fiskeriforvaltningsorganisasjoner eller -arrangementer,
+4. en rasjonell eller hensiktsmessig utøvelse eller gjennomføring av fisket tilsier det.
 
 ## § 4. Adgang til å stryke fartøy som er registrert
 

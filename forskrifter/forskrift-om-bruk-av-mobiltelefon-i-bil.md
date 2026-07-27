@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
-I denne forskrift forstås med:*Mobiltelefon:* radioutstyr for kommunikasjon over offentlig nett.*Bruk av mobiltelefon:* enhver betjening av mobiltelefonens funksjoner.
+I denne forskrift forstås med:
+
+1. *Mobiltelefon:* radioutstyr for kommunikasjon over offentlig nett.
+2. *Bruk av mobiltelefon:* enhver betjening av mobiltelefonens funksjoner.
 
 > Endret ved [forskrift 11 mars 2013 nr. 265](forskrift/2013-03-11-265) (i kraft 2 mai 2013).
 

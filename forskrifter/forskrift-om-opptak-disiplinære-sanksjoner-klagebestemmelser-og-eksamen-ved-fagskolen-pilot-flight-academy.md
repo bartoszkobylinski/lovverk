@@ -50,12 +50,26 @@ Styret bestemmer for hvert studieår, evt hver klasse, det antall studenter som 
 
 ### § 2-3. Opptakskrav
 
-(1) Generelle bestemmelserFastsatt med hjemmel i [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7).For opptak vektlegges kunnskap i matematikk, fysikk og engelsk.Søkere må kunne tilfredsstille kravene til formell kompetanse eller realkompetanse og i tillegg de spesielle opptakskravene vedtatt av Styret, jf. punkt e.Søkere kan søke om studieplass på fagfagskoleutdanning før alle eksamener i fag som kreves for opptak er avlagt. Standpunktkarakterer fra siste terminoppgjør legges ved søknaden. Slike søkere vil eventuelt få betinget opptak i påvente av eksamensresultatene. Vitnemål/bekreftelse på tilstrekkelig kvalifikasjoner må sendes Skolen etter at eksamensresultatene er klare og innen studiestart.Styret har fattet vedtak om spesielle opptakskrav utover kravet om formell-/realkompetanse:Søker må ha gjennomført opptaksprøver med tilfredsstillende resultat. Mer informasjon om Skolens opptaksprøver er tilgjengelig på Skolen nettsider.Søker må inneha EASA Class 1 medisinsk kjennelse før skolestart.
+(1) Generelle bestemmelser
+
+1. Fastsatt med hjemmel i [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7).
+2. For opptak vektlegges kunnskap i matematikk, fysikk og engelsk.
+3. Søkere må kunne tilfredsstille kravene til formell kompetanse eller realkompetanse og i tillegg de spesielle opptakskravene vedtatt av Styret, jf. punkt e.
+4. Søkere kan søke om studieplass på fagfagskoleutdanning før alle eksamener i fag som kreves for opptak er avlagt. Standpunktkarakterer fra siste terminoppgjør legges ved søknaden. Slike søkere vil eventuelt få betinget opptak i påvente av eksamensresultatene. Vitnemål/bekreftelse på tilstrekkelig kvalifikasjoner må sendes Skolen etter at eksamensresultatene er klare og innen studiestart.
+5. Styret har fattet vedtak om spesielle opptakskrav utover kravet om formell-/realkompetanse:
+
+   1. Søker må ha gjennomført opptaksprøver med tilfredsstillende resultat. Mer informasjon om Skolens opptaksprøver er tilgjengelig på Skolen nettsider.
+   2. Søker må inneha EASA Class 1 medisinsk kjennelse før skolestart.
 
 (2) Formell kompetanse
 For opptak kreves minimum fullført og bestått videregående opplæring med treårig yrkesfaglig opplæring og/eller generell studiekompetanse, jf. Nasjonalt kvalifikasjonsrammeverk for livslang læring nivå 4. Skolen vektlegger kompetanse i matematikk (tilsvarende nivå R2/P2 eller høyere), fysikk (tilsvarende nivå fysikk 1 / fysikk 2 eller høyere) og engelsk (tilsvarende europeisk nivå B2 eller høyere).
 
-(3) RealkompetanseSøkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 23 år i løpet av året det søkes opptak.Realkompetansen vurderes opp mot læringsutbytte på nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring.Realkompetanse må dokumenteres. Dokumentasjonen må være utformet slik at den kan vurderes mot kompetansemålene for kravene til formell kompetanse. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidets innhold. Arbeidets innhold må kunne vurderes mot kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Et eksempel på dokumentasjon/arbeidsattest finnes på Skolens nettsider. Skolen vektlegger kompetanse i matematikk (tilsvarende nivå R2/P2 eller høyere), fysikk (tilsvarende nivå fysikk 1 / fysikk 2 eller høyere) og engelsk (tilsvarende europeisk nivå B2 eller høyere).Vedtak om godkjent realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder Skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
+(3) Realkompetanse
+
+1. Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 23 år i løpet av året det søkes opptak.
+2. Realkompetansen vurderes opp mot læringsutbytte på nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring.
+3. Realkompetanse må dokumenteres. Dokumentasjonen må være utformet slik at den kan vurderes mot kompetansemålene for kravene til formell kompetanse. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidets innhold. Arbeidets innhold må kunne vurderes mot kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Et eksempel på dokumentasjon/arbeidsattest finnes på Skolens nettsider. Skolen vektlegger kompetanse i matematikk (tilsvarende nivå R2/P2 eller høyere), fysikk (tilsvarende nivå fysikk 1 / fysikk 2 eller høyere) og engelsk (tilsvarende europeisk nivå B2 eller høyere).
+4. Vedtak om godkjent realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder Skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
 
 ### § 2-4. Språkkrav
 
@@ -128,7 +142,11 @@ Skolen forholder seg til [fagskolelovens §§ 28](lov/2018-06-08-28/§28)/[28a](
 (2) En student som får avslag på søknad om medisinsk kjennelse har ankerett til Luftfartstilsynet etter retningslinjer gitt av Luftfartstilsynet.
 
 (3) Studenter som av Luftfartstilsynet er funnet medisinsk skikket til et studium ved Skolen og som har funksjonsnedsettelse eller særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for Skolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og Skolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
-Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:medisinske eller andre årsakerfunksjonsnedsettelselese- og skrivevansker.
+Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:
+
+1. medisinske eller andre årsaker
+2. funksjonsnedsettelse
+3. lese- og skrivevansker.
 
 (4) Skriftlig søknad må fremsette til Skolen v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
 
@@ -136,7 +154,10 @@ Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:medisins
 
 (1) All eksaminering foregår i regi av Luftfartstilsynet. Søknad om tilrettelegging av eksaminering som følge av funksjonsnedsettelse eller særskilte behov rettes til, og behandles av, Luftfartstilsynet.
 
-(2) Individuell tilrettelegging ved eksamen kan være:forlengelse av tid til å gjennomføre oppgaver og prosjekterspesielle hjelpemidler/hjelpetiltak
+(2) Individuell tilrettelegging ved eksamen kan være:
+
+1. forlengelse av tid til å gjennomføre oppgaver og prosjekter
+2. spesielle hjelpemidler/hjelpetiltak
 
 (3) Skriftlig søknad må fremsettes til Luftfartstilsynet via Skolen v/rektor minimum en (1) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato, dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor vil påføre eventuelle anbefalinger og formidle søknaden videre til Luftfartstilsynet. Luftfartstilsynet fatter vedtak.
 
@@ -174,7 +195,10 @@ Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:medisins
 Alle emner har oppgaver/prøver med karakter fra 0 til 100 % eller bestått / ikke bestått.
 Oppgavene/prøvene er et verktøy i oppfølgingen av studentenes faglige progresjon. Til disse oppgavene/prøvene blir det gitt en karakter eller bestått / ikke bestått.
 Ved ikke bestått får studentene anledning til å levere en ny oppgave/gjøre prøven på nytt. Studentene gis inntil 3 forsøk på å forbedre oppgaven. Resultatet gjøres kjent innen tre (3) uker etter at oppgaven er mottatt.
-Karakterskala:0–74 % Ikke bestått75–100 % Bestått.
+Karakterskala:
+
+- 0–74 % Ikke bestått
+- 75–100 % Bestått.
 
 (4) All praktisk opplæring er obligatorisk. En student som ikke har gjennomført obligatorisk praktisk opplæring som planlagt, har rett til å få tildelt slik praktisk opplæring på nytt. Dette er i de tilfeller der studenten dokumenterer gyldig fravær, for eksempel sykdom eller fødsel, eller hvis det er alvorlig sykdom i nærmeste familie som egne barn, ektefelle, samboer eller foreldre, eller dødsfall i nærmeste familie. Gyldig dokumentasjon er bekreftelse eller sykemelding fra lege. Gyldig dokumentasjon må være Skolen i hende senest tre (3) dager etter planlagt praktisk opplæring.
 
@@ -190,7 +214,11 @@ Karakterskala:0–74 % Ikke bestått75–100 % Bestått.
 
 (2) En student har rett til å avlegge teoretisk eksamen inntil fire (4) ganger.
 
-(3) Studentene har adgang til å avlegge teoretisk eksamen dersom:de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamen.de har vært til stede 100 % i undervisningen.de har avlagt Skolens prøve i faget og er av Skolen funnet skikket til å avlegge eksamen, jf. [§ 4-1 (3)](forskrift/2025-04-23-746/§4-1/ledd/3).
+(3) Studentene har adgang til å avlegge teoretisk eksamen dersom:
+
+1. de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamen.
+2. de har vært til stede 100 % i undervisningen.
+3. de har avlagt Skolens prøve i faget og er av Skolen funnet skikket til å avlegge eksamen, jf. [§ 4-1 (3)](forskrift/2025-04-23-746/§4-1/ledd/3).
 
 (4) Når det kan være fare for at en student ikke får ta teoretisk eksamen skal studenten gis beskjed så snart Skolen ser at dette kan skje og innen 14 dager før den teoretiske eksamenen.
 
@@ -204,7 +232,10 @@ Karakterskala:0–74 % Ikke bestått75–100 % Bestått.
 
 ### § 4-5. Kandidaters rett til å fremstille seg til eksamen
 
-Kandidaters rett til å fremstille seg til eksamen avgrenses til totalt fire (4) forsøk for hvert fag og totalt avgrenset til seks (6) eksamensperioder. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:har møtt til eksamen, ellerer oppmeldt til eksamen, men har uteblivelse uten gyldig grunn.
+Kandidaters rett til å fremstille seg til eksamen avgrenses til totalt fire (4) forsøk for hvert fag og totalt avgrenset til seks (6) eksamensperioder. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:
+
+1. har møtt til eksamen, eller
+2. er oppmeldt til eksamen, men har uteblivelse uten gyldig grunn.
 
 ### § 4-6. Spesiell tilrettelegging ved eksamen
 
@@ -232,7 +263,10 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (1) Eksamensavgiften for det enkelte fagskolestudiet er oppgitt på hjemmesiden. Det er Luftfartstilsynet som setter og som krever inn eksamensavgift.
 
-(2) Ny prøve:Ny eksamen kan avlegges mot å betale ny eksamensavgift.Forbedring av eksamen kan avlegges mot å betale ny eksamensavgift.
+(2) Ny prøve:
+
+1. Ny eksamen kan avlegges mot å betale ny eksamensavgift.
+2. Forbedring av eksamen kan avlegges mot å betale ny eksamensavgift.
 
 ### § 4-10. Praktisk eksamen
 
@@ -252,9 +286,18 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (1) Fullstendige retningslinjer for eksamen er publisert på Luftfartstilsynets nettside.
 
-(2) Følgende regnes som fusk:Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+(2) Følgende regnes som fusk:
 
-(3) Eksempler på fusk er:Levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.Levere en besvarelse som helt eller delvis er utarbeidet av en annen person.Levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.Innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater.Plagiering.
+1. Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.
+2. Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+
+(3) Eksempler på fusk er:
+
+1. Levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.
+2. Levere en besvarelse som helt eller delvis er utarbeidet av en annen person.
+3. Levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.
+4. Innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater.
+5. Plagiering.
 
 (4) Fusk eller forsøk på fusk vil medføre at eksamen annulleres. Etter Luftfartstilsynets vurdering kan studenten miste retten til ny eksamen.
 
@@ -276,7 +319,14 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (5) Studenter som består emneeksamen mottar bevis for dette.
 
-(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:Studentens navnStudentens personaliaFagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgittSkolens navnDato og underskriftStudiepoeng for emne/emner som er bestått.
+(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:
+
+1. Studentens navn
+2. Studentens personalia
+3. Fagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgitt
+4. Skolens navn
+5. Dato og underskrift
+6. Studiepoeng for emne/emner som er bestått.
 
 (7) I de tilfeller det er gitt godskriving eller fritak for et eller flere emner, vil dette stå oppført i vitnemålet.
 
@@ -286,7 +336,21 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (2) Utfyllende retningslinjer for klage på sensur er gitt på Luftfartstilsynets nettside.
 
-(3) For klager på karakter gitt på skriftlige eksamener gjelder:I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen tre (3) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen to (2) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.Klage på karakter skal skje skriftlig til Skolen som videreformidler klage til Luftfartstilsynet.En klage må fremsettes innen tre (3) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.Klage på karakter fører til ny vurdering hos sensor.Når en klage på karakter eller sensur blir tatt til følge, gjør Luftfartstilsynet en ny sensur.Den/de nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.Ved mistanke om plagiat ved første sensurering, skal Skolen ikke gjøre sensorene oppmerksom på dette.Ny vurdering kan justere karakteren både opp og ned og til stryk.Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.Studenten kan ikke klage på vurderingen av muntlige eksamener.Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-14](forskrift/2025-04-23-746/§4-14).
+(3) For klager på karakter gitt på skriftlige eksamener gjelder:
+
+1. I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen tre (3) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen to (2) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.
+2. Klage på karakter skal skje skriftlig til Skolen som videreformidler klage til Luftfartstilsynet.
+3. En klage må fremsettes innen tre (3) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.
+4. Klage på karakter fører til ny vurdering hos sensor.
+5. Når en klage på karakter eller sensur blir tatt til følge, gjør Luftfartstilsynet en ny sensur.
+6. Den/de nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.
+7. Ved mistanke om plagiat ved første sensurering, skal Skolen ikke gjøre sensorene oppmerksom på dette.
+8. Ny vurdering kan justere karakteren både opp og ned og til stryk.
+9. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.
+10. Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.
+11. Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.
+12. Studenten kan ikke klage på vurderingen av muntlige eksamener.
+13. Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-14](forskrift/2025-04-23-746/§4-14).
 
 (4) Studenten har krav på en kort begrunnelse for vurderingen av en muntlig eksamen. En slik begrunnelse må studenten be om umiddelbart etter at vedkommende er gjort kjent med resultatet av vurderingen.
 
@@ -294,7 +358,12 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (1) Studenter som har avlagt eksamen har rett til å klage over formelle feil ved oppgaver og over avviklingen av eksamen. Som formelle feil kan regnes feil som har hatt betydning for studentens prestasjon eller bedømmelsen av denne, eksempelvis feil ved oppgavegiving, avvikling eller gjennomføring av sensur.
 
-(2) Den skriftlige klagen skal inneholde:Hvem som klager (navn og adresse)Det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)Hva klagen gjelderDato og underskrift.
+(2) Den skriftlige klagen skal inneholde:
+
+1. Hvem som klager (navn og adresse)
+2. Det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)
+3. Hva klagen gjelder
+4. Dato og underskrift.
 
 (3) Klage på formelle feil ved eksamen må fremsettes skriftlig til Skolen som videreformidler klagen til Luftfartstilsynet senest innen tre (3) uker etter at studenten er eller burde være kjent med det forholdet som begrunner klagen. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten. Luftfartstilsynet innhenter nødvendig opplysninger fra den ansvarlige for eksamen. Luftfartstilsynet behandler saken og vurderer om det er blitt foretatt formelle feil.
 
@@ -352,7 +421,11 @@ Alle studenter som er påmeldt et fagskolestudium vil automatisk bli oppmeldt ti
 
 (2) Lokal Klagenemnd er vedtaksfør når lederen eller varamedlemmet for lederen og to (2) andre medlemmer er til stede. Den Lokale Klagenemndas vedtak i saker om Skolens enkeltvedtak kan ikke påklages.
 
-(3) Styret har gitt Lokal Klagenemnd mandat i «Instruks for Lokal Klagenemnd ved PILOT FLIGHT ACADEMY AS». Lokal Klagenemnd behandler følgende saker:[§ 2-7](forskrift/2025-04-23-746/§2-7) Klage – avslag på opptak.[§ 2-8](forskrift/2025-04-23-746/§2-8) Godskriving av fritak, jf. [lov om høyere yrkesfaglig utdanning § 8](lov/2018-06-08-28/§8).[§ 4-16](forskrift/2025-04-23-746/§4-16) Ikke bestått prøve eller eksamen.
+(3) Styret har gitt Lokal Klagenemnd mandat i «Instruks for Lokal Klagenemnd ved PILOT FLIGHT ACADEMY AS». Lokal Klagenemnd behandler følgende saker:
+
+- [§ 2-7](forskrift/2025-04-23-746/§2-7) Klage – avslag på opptak.
+- [§ 2-8](forskrift/2025-04-23-746/§2-8) Godskriving av fritak, jf. [lov om høyere yrkesfaglig utdanning § 8](lov/2018-06-08-28/§8).
+- [§ 4-16](forskrift/2025-04-23-746/§4-16) Ikke bestått prøve eller eksamen.
 
 (4) Styret har delegert myndighet til Skolens administrasjon som behandler klagesaker etter [fagskolelovens § 23](lov/2018-06-08-28/§23). For slike klager gjelder bestemmelsene i denne forskrift [§ 4-14](forskrift/2025-04-23-746/§4-14).
 
@@ -376,7 +449,12 @@ Skolen er pliktig for å legge til rette for at alle fagskoleklasser velger en t
 
 ### § 7-3. Studentombud
 
-Fagskolestudentene ved Skolen har tilgang til et studentombud:Studentombudet skal gi fagskolestudentene råd og hjelp knyttet til deres studiesituasjon.Studentombudet kan ikke instrueres i sitt virke.Studentombudet har taushetsplikt, jf. [forvaltningsloven § 13](lov/1967-02-10/§13)–[§ 13e](lov/1967-02-10/§13e).Kontaktinformasjon til studentombudet blir opplyst på Skolens nettside og læringsplattform.
+Fagskolestudentene ved Skolen har tilgang til et studentombud:
+
+1. Studentombudet skal gi fagskolestudentene råd og hjelp knyttet til deres studiesituasjon.
+2. Studentombudet kan ikke instrueres i sitt virke.
+3. Studentombudet har taushetsplikt, jf. [forvaltningsloven § 13](lov/1967-02-10/§13)–[§ 13e](lov/1967-02-10/§13e).
+4. Kontaktinformasjon til studentombudet blir opplyst på Skolens nettside og læringsplattform.
 
 ### § 7-4. Studentenes læringsmiljø
 

@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Formål
 
-Tilskudd etter denne forskriften skal bidra til å:redusere faren for tap av menneskeliv og forebygge store skader på eiendom som følge av flom og skred,bedre kunnskapsgrunnlaget om flom- og skredfare.
+Tilskudd etter denne forskriften skal bidra til å:
+
+1. redusere faren for tap av menneskeliv og forebygge store skader på eiendom som følge av flom og skred,
+2. bedre kunnskapsgrunnlaget om flom- og skredfare.
 
 > Endret ved forskrift [17 des 2024 nr. 3199](forskrift/2024-12-17-3199) (i kraft 1 jan 2025).
 
@@ -40,15 +43,37 @@ Forskriften gjelder i Norge, herunder Svalbard. Forskriften gjelder ikke for Jan
 
 ## § 4. Hva det kan gis tilskudd til
 
-(1) NVE kan gi tilskudd til:utredning, planlegging, prosjektering og gjennomføring av fysiske tiltak for å redusere faren for skader fra flom og skred på eksisterende bebyggelse,andre typer risikoreduserende tiltak, slik som overvåking og varsling, der fysisk sikring ikke har latt seg gjennomføre av praktiske eller økonomiske årsaker,kartlegging av kritiske punkt i bekker og bratte vassdrag, faresonekartlegging av flom, faresonekartlegging av skred i bratt terreng og detaljutredning av kartlagte kvikkleiresoner,riving og flytting av fareutsatte bygninger med personopphold i helt spesielle tilfeller.
+(1) NVE kan gi tilskudd til:
 
-(2) NVE kan ikke gi tilskudd til:tiltak som allerede er gjennomført, eller som uansett vil bli gjennomført uten tilskudd. NVE kan gjøre unntak for krisetiltak,tiltak som dekkes av forsikringsordninger for naturskader eller erstatninger fra statens naturskadeordning eller,sikring mot flomfare knyttet til private og kommunale vann-, avløps- og overvannsrør og kulverter eller fare som skyldes terrenginngrep og infrastruktur som tiltakshaveren eller eieren har ansvar for.
+1. utredning, planlegging, prosjektering og gjennomføring av fysiske tiltak for å redusere faren for skader fra flom og skred på eksisterende bebyggelse,
+2. andre typer risikoreduserende tiltak, slik som overvåking og varsling, der fysisk sikring ikke har latt seg gjennomføre av praktiske eller økonomiske årsaker,
+3. kartlegging av kritiske punkt i bekker og bratte vassdrag, faresonekartlegging av flom, faresonekartlegging av skred i bratt terreng og detaljutredning av kartlagte kvikkleiresoner,
+4. riving og flytting av fareutsatte bygninger med personopphold i helt spesielle tilfeller.
 
-(3) Det gis normalt ikke tilskudd til mindre tiltak jf. kostnadsgrense i Prop.1 S, kapittel 18.20. NVE kan gjøre unntak for:vedlikeholdstiltak,krise- og hastetiltak, jf. [§ 5](forskrift/2022-06-29-1237/§5) (4) bokstav a og b,kartlegging, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c).
+(2) NVE kan ikke gi tilskudd til:
 
-(4) Tilskudd til kartlegging av kritiske punkt i bekker og bratte vassdrag, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c), omfatter ikke:planlegging, prosjektering og gjennomføring av risikoreduserende tiltak,detaljert modellering for å kartlegge flomveier/skredbaner ellerfaresonekartlegging av flom (flomsonekartlegging) og faresonekartlegging av skred i bratt terreng.
+1. tiltak som allerede er gjennomført, eller som uansett vil bli gjennomført uten tilskudd. NVE kan gjøre unntak for krisetiltak,
+2. tiltak som dekkes av forsikringsordninger for naturskader eller erstatninger fra statens naturskadeordning eller,
+3. sikring mot flomfare knyttet til private og kommunale vann-, avløps- og overvannsrør og kulverter eller fare som skyldes terrenginngrep og infrastruktur som tiltakshaveren eller eieren har ansvar for.
 
-(5) Tilskudd til faresonekartlegging av flom og skred, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c), omfatter ikke:planlegging, prosjektering og gjennomføring av risikoreduserende tiltak,kartlegging av ustabile fjellpartier,oversiktskartlegging i form av aktsomhetskart elleroversiktskartlegging av kvikkleire.
+(3) Det gis normalt ikke tilskudd til mindre tiltak jf. kostnadsgrense i Prop.1 S, kapittel 18.20. NVE kan gjøre unntak for:
+
+1. vedlikeholdstiltak,
+2. krise- og hastetiltak, jf. [§ 5](forskrift/2022-06-29-1237/§5) (4) bokstav a og b,
+3. kartlegging, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c).
+
+(4) Tilskudd til kartlegging av kritiske punkt i bekker og bratte vassdrag, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c), omfatter ikke:
+
+1. planlegging, prosjektering og gjennomføring av risikoreduserende tiltak,
+2. detaljert modellering for å kartlegge flomveier/skredbaner eller
+3. faresonekartlegging av flom (flomsonekartlegging) og faresonekartlegging av skred i bratt terreng.
+
+(5) Tilskudd til faresonekartlegging av flom og skred, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c), omfatter ikke:
+
+1. planlegging, prosjektering og gjennomføring av risikoreduserende tiltak,
+2. kartlegging av ustabile fjellpartier,
+3. oversiktskartlegging i form av aktsomhetskart eller
+4. oversiktskartlegging av kvikkleire.
 
 (6) NVE kan ikke gi tilskudd til utgifter til merverdiavgift som refunderes mottakeren etter [merverdiavgiftsloven](lov/2009-06-19-58).
 
@@ -62,17 +87,28 @@ Forskriften gjelder i Norge, herunder Svalbard. Forskriften gjelder ikke for Jan
 
 (3) For tilskudd til farekartlegging, jf. [§ 4 (1) bokstav c](forskrift/2022-06-29-1237/§4/ledd/1/bokstav/c) er det ingen egenandel.
 
-(4) Egne satser for redusert eller ingen egenandel følger av Prop.1 S, kapittel 18.20 for:tiltak som er nødvendig for å avverge overhengende fare umiddelbart før, under og rett etter en hendelse (krisetiltak) ellertiltak som må gjennomføres raskt for å avverge eller redusere ytterligere skadeutvikling (hastetiltak).
+(4) Egne satser for redusert eller ingen egenandel følger av Prop.1 S, kapittel 18.20 for:
+
+1. tiltak som er nødvendig for å avverge overhengende fare umiddelbart før, under og rett etter en hendelse (krisetiltak) eller
+2. tiltak som må gjennomføres raskt for å avverge eller redusere ytterligere skadeutvikling (hastetiltak).
 
 (5) NVE kan bestemme at tilskuddsandelen i særlige tilfeller skal økes dersom tiltaket primært er begrunnet med allmenne hensyn.
 
-(6) NVE kan bestemme at tilskuddsandelen reduseres dersom:tilskuddsmottakeren ikke har tatt hensyn til kjente farer,det omsøkte tiltaket vil bidra til å tilrettelegge arealer for ny bebyggelse eller infrastruktur i tillegg til å sikre eksisterende, ellerdet av andre grunner vurderes som rimelig at mottakeren bidrar med en høyere andel.
+(6) NVE kan bestemme at tilskuddsandelen reduseres dersom:
+
+1. tilskuddsmottakeren ikke har tatt hensyn til kjente farer,
+2. det omsøkte tiltaket vil bidra til å tilrettelegge arealer for ny bebyggelse eller infrastruktur i tillegg til å sikre eksisterende, eller
+3. det av andre grunner vurderes som rimelig at mottakeren bidrar med en høyere andel.
 
 > Endret ved forskrift [17 des 2024 nr. 3199](forskrift/2024-12-17-3199) (i kraft 1 jan 2025).
 
 ## § 6. Generelle betingelser
 
-(1) En tilskuddsmottaker skal bruke tilskuddet i samsvar med:formålet som fremgår av forskriften,vedtaket om tilskudd ogsøknaden som ligger til grunn for vedtaket om tilskudd.
+(1) En tilskuddsmottaker skal bruke tilskuddet i samsvar med:
+
+1. formålet som fremgår av forskriften,
+2. vedtaket om tilskudd og
+3. søknaden som ligger til grunn for vedtaket om tilskudd.
 
 (2) Tiltaket skal være igangsatt innen utløpet av det året tilskuddet er gitt.
 
@@ -90,7 +126,11 @@ Forskriften gjelder i Norge, herunder Svalbard. Forskriften gjelder ikke for Jan
 
 (1) Søkeren skal benytte innsendingsløsning bestemt av NVE.
 
-(2) For søknader om tilskudd til gjennomføring av fysiske tiltak for å redusere faren for skader fra flom og skred på eksisterende bebyggelse må søkeren i tillegg legge fram:dokumentasjon fra fagkyndig som sannsynliggjør at aktuell bebyggelse er utsatt for betydelig fare fra flom eller skred og tiltakets effekt i form av redusert fare,en oversikt over hvilke materielle verdier og antall mennesker som vil få økt sikkerhet, ogopplysninger om andre finansieringskilder.
+(2) For søknader om tilskudd til gjennomføring av fysiske tiltak for å redusere faren for skader fra flom og skred på eksisterende bebyggelse må søkeren i tillegg legge fram:
+
+1. dokumentasjon fra fagkyndig som sannsynliggjør at aktuell bebyggelse er utsatt for betydelig fare fra flom eller skred og tiltakets effekt i form av redusert fare,
+2. en oversikt over hvilke materielle verdier og antall mennesker som vil få økt sikkerhet, og
+3. opplysninger om andre finansieringskilder.
 
 (3) For søknader om tilskudd til faresonekartlegging av flom, faresonekartlegging av skred i bratt terreng og detaljutredning av kartlagte kvikkleiresoner må søkeren i tillegg til kravene i (1) legge frem dokumentasjon som viser et behov for nærmere kartlegging.
 
@@ -126,7 +166,10 @@ Forskriften gjelder i Norge, herunder Svalbard. Forskriften gjelder ikke for Jan
 
 ## § 11. Kontroll og opplysningsplikt
 
-NVE og Riksrevisjonen kan kontrollere at betingelsene for tilskuddet og vilkårene i vedtak om tilskudd er oppfylt gjennom å:kreve opplysninger og dokumentasjon som er nødvendig for kontrollen, oginnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene.
+NVE og Riksrevisjonen kan kontrollere at betingelsene for tilskuddet og vilkårene i vedtak om tilskudd er oppfylt gjennom å:
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen, og
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene.
 
 ## § 12. Bortfall og tilbakebetaling
 

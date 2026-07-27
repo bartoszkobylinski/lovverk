@@ -15,7 +15,7 @@ xml_hash: "4b1ac833351aa23e76df1e5410cf1821ce918a1ae19802920521116b5d00b059"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,32 @@ For tilvirkning og import av legemidler til klinisk utprøving av legemidler til
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med:*Legemiddel:* stoffer, droger eller preparater mv. som nevnt i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2);*virksomt stoff:* ethvert stoff eller blanding av stoffer som er ment anvendt i tilvirkning av legemiddel, og som ved å inngå i produksjonen blir en aktiv bestanddel av ferdigvaren;*hjelpestoff:* enhver bestanddel av et legemiddel, unntatt det virksomme stoff og emballasjematerialet;*forfalsket legemiddel:* ethvert legemiddel med uriktig fremstilling avlegemidlets identitet, inkludert emballasje, etikettering, navn eller sammensetning hva angår enhver bestanddel av legemidlet, hjelpestoff, og styrken av alle bestanddelene og hjelpestoffene,legemidlets opprinnelse, inkludert navn på tilvirker, tilvirkningsland, opprinnelsesland eller innehaver av markedsføringstillatelse, ellerlegemidlets historie, inkludert gjengivelse av og dokumenter som omhandler de benyttede distribusjonskanaler;*utprøvningspreparat:* legemiddel som blir utprøvd eller benyttet som referanse i en klinisk utprøving;*tilvirkning:* fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med slike aktiviteter;*tilvirker:* person eller virksomhet som utfører aktiviteter hvor det er krav om tilvirkertillatelse;*kvalifisert person:* person som oppfyller kravene i [§ 2-12](forskrift/2004-11-02-1441/§2-12) og er godkjent av Direktoratet for medisinske produkter;*farmasøytisk kvalitetssystem:* samtlige tiltak som treffes for å sikre at et legemiddel eller et utprøvingspreparat har den kvalitet som kreves for den bruk det er beregnet på;*god tilvirkningspraksis:* den del av kvalitetssikringen som sikrer at legemiddel eller utprøvingspreparatet alltid produseres, importeres og kontrolleres i samsvar med de kvalitetsstandarder som gjelder for den tilsiktede bruken av dem;*retningslinjer for god tilvirkningspraksis:* retningslinjer for god tilvirkningspraksis innen det europeiske økonomiske samarbeidsområdet (EØS);*retningslinjer for god distribusjonspraksis:* retningslinjer for god distribusjonspraksis innen det europeiske økonomiske samarbeidsområdet (EØS);*tredjeland:* land utenfor EØS-området;*blinding:* bruk av kode i stedet for preparatets navn for å skjule et utprøvingspreparats identitet;*avblinding:* avsløring av blindede preparaters identitet;*import:* innførsel av legemidler til Norge;*importør:* innehaver av importtillatelse for legemidler;*sponsor:* en person, et firma, en institusjon eller organisasjon som tar ansvaret for iverksetting, ledelse og/eller finansiering av en klinisk studie;*grossistvirksomhet:* alle aktiviteter som omfatter anskaffelse, oppbevaring, utlevering og eksport av legemidler, med unntak av utlevering av legemidler til allmennheten.*ferdigvare:* legemiddel som har gjennomgått alle produksjonstrinn, inkludert pakking i endelig emballasje.
+I denne forskrift menes med:
+
+1. *Legemiddel:* stoffer, droger eller preparater mv. som nevnt i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2);
+2. *virksomt stoff:* ethvert stoff eller blanding av stoffer som er ment anvendt i tilvirkning av legemiddel, og som ved å inngå i produksjonen blir en aktiv bestanddel av ferdigvaren;
+3. *hjelpestoff:* enhver bestanddel av et legemiddel, unntatt det virksomme stoff og emballasjematerialet;
+4. *forfalsket legemiddel:* ethvert legemiddel med uriktig fremstilling av
+
+   - legemidlets identitet, inkludert emballasje, etikettering, navn eller sammensetning hva angår enhver bestanddel av legemidlet, hjelpestoff, og styrken av alle bestanddelene og hjelpestoffene,
+   - legemidlets opprinnelse, inkludert navn på tilvirker, tilvirkningsland, opprinnelsesland eller innehaver av markedsføringstillatelse, eller
+   - legemidlets historie, inkludert gjengivelse av og dokumenter som omhandler de benyttede distribusjonskanaler;
+5. *utprøvningspreparat:* legemiddel som blir utprøvd eller benyttet som referanse i en klinisk utprøving;
+6. *tilvirkning:* fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med slike aktiviteter;
+7. *tilvirker:* person eller virksomhet som utfører aktiviteter hvor det er krav om tilvirkertillatelse;
+8. *kvalifisert person:* person som oppfyller kravene i [§ 2-12](forskrift/2004-11-02-1441/§2-12) og er godkjent av Direktoratet for medisinske produkter;
+9. *farmasøytisk kvalitetssystem:* samtlige tiltak som treffes for å sikre at et legemiddel eller et utprøvingspreparat har den kvalitet som kreves for den bruk det er beregnet på;
+10. *god tilvirkningspraksis:* den del av kvalitetssikringen som sikrer at legemiddel eller utprøvingspreparatet alltid produseres, importeres og kontrolleres i samsvar med de kvalitetsstandarder som gjelder for den tilsiktede bruken av dem;
+11. *retningslinjer for god tilvirkningspraksis:* retningslinjer for god tilvirkningspraksis innen det europeiske økonomiske samarbeidsområdet (EØS);
+12. *retningslinjer for god distribusjonspraksis:* retningslinjer for god distribusjonspraksis innen det europeiske økonomiske samarbeidsområdet (EØS);
+13. *tredjeland:* land utenfor EØS-området;
+14. *blinding:* bruk av kode i stedet for preparatets navn for å skjule et utprøvingspreparats identitet;
+15. *avblinding:* avsløring av blindede preparaters identitet;
+16. *import:* innførsel av legemidler til Norge;
+17. *importør:* innehaver av importtillatelse for legemidler;
+18. *sponsor:* en person, et firma, en institusjon eller organisasjon som tar ansvaret for iverksetting, ledelse og/eller finansiering av en klinisk studie;
+19. *grossistvirksomhet:* alle aktiviteter som omfatter anskaffelse, oppbevaring, utlevering og eksport av legemidler, med unntak av utlevering av legemidler til allmennheten.
+20. *ferdigvare:* legemiddel som har gjennomgått alle produksjonstrinn, inkludert pakking i endelig emballasje.
 
 Legemidler med utilsiktede kvalitetsmangler omfattes ikke av definisjonen i bokstav d).
 
@@ -58,7 +83,10 @@ Tilvirkertillatelse kreves også ved import av legemidler fra tredjeland.
 
 ### § 2-2. Unntak fra kravet om tilvirkertillatelse
 
-Tilvirkertillatelse kreves ikke for enkel istandgjøring eller pakking av legemiddel dersomistandgjøringen eller pakkingen skjer i apotek og på grunn av begrenset holdbarhet må skje umiddelbart før utlevering elleristandgjøringen eller pakkingen skjer i sykehus og andre helseinstitusjoner, og må skje umiddelbart før bruk, og legemidlet utelukkende er beregnet til bruk på tilberedningsstedet.
+Tilvirkertillatelse kreves ikke for enkel istandgjøring eller pakking av legemiddel dersom
+
+1. istandgjøringen eller pakkingen skjer i apotek og på grunn av begrenset holdbarhet må skje umiddelbart før utlevering eller
+2. istandgjøringen eller pakkingen skjer i sykehus og andre helseinstitusjoner, og må skje umiddelbart før bruk, og legemidlet utelukkende er beregnet til bruk på tilberedningsstedet.
 
 For legemiddel som skal inngå i klinisk utprøving i Norge, kreves ikke tilvirkertillatelse, jf. [§ 2-1](forskrift/2009-12-18-1839/§2-1) for ommerking og ompakking av legemiddel når dette utføres av apotek som har tilvirkertillatelse etter apoteklovgivningen.
 
@@ -70,7 +98,12 @@ For legemiddel som skal inngå i klinisk utprøving i Norge kan Direktoratet for
 
 Søknad om tilvirkertillatelse skal sendes Direktoratet for medisinske produkter av den som skal inneha tillatelsen eller en som opptrer på dennes vegne.
 
-Søknaden skal opplyse omhvilke legemidler og/eller legemiddelformer som skal tilvirkes eller importeres,de relevante tilvirknings- eller importaktiviteter,tilvirkningsprosessen, dersom dette er relevant, for eksempel ved inaktivering av virale eller ikke-konvensjonelle agenser oghvor virksomheten skal foregå.
+Søknaden skal opplyse om
+
+1. hvilke legemidler og/eller legemiddelformer som skal tilvirkes eller importeres,
+2. de relevante tilvirknings- eller importaktiviteter,
+3. tilvirkningsprosessen, dersom dette er relevant, for eksempel ved inaktivering av virale eller ikke-konvensjonelle agenser og
+4. hvor virksomheten skal foregå.
 
 > Endret ved [forskrifter 30 okt 2009 nr. 1322](forskrift/2009-10-30-1322), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -158,7 +191,10 @@ Tilvirker plikter å legge til rette for at virksomhetens kvalifiserte person ka
 
 ### § 2-11. Krav til kvalifisert person
 
-Person som ønsker godkjenning som virksomhetens kvalifiserte person må minst oppfylle følgende krav til teoretisk utdanning og praktisk erfaring:dokumentasjon for fullført universitetsstudium eller annet studium som godkjennes som likeverdig, og som omfatter minst fire års teoretisk og praktisk undervisning innenfor ett av følgende vitenskapelige områder: Farmasi, medisin, veterinærmedisin, kjemi, farmasøytisk kjemi og teknologi eller biologi. Utdanningen skal omfatte teoretisk og praktisk undervisning i minst følgende grunnleggende fag: anvendt fysikk, generell og uorganisk kjemi, organisk kjemi, analytisk kjemi, farmasøytisk kjemi (herunder legemiddelanalyse), generell og anvendt biokjemi (medisinsk), fysiologi, mikrobiologi, farmakologi, farmasøytisk teknologi, toksikologi og farmakognosi.dokumentasjon som viser at vedkommende har minst to års praktisk erfaring fra ett eller flere foretak med tillatelse til tilvirkning av legemidler, innenfor den del av virksomheten som omfatter kvalitativ analyse av legemidler, kvantitativ analyse av virksomme stoffer, samt kvalitetskontroll av legemidler.
+Person som ønsker godkjenning som virksomhetens kvalifiserte person må minst oppfylle følgende krav til teoretisk utdanning og praktisk erfaring:
+
+1. dokumentasjon for fullført universitetsstudium eller annet studium som godkjennes som likeverdig, og som omfatter minst fire års teoretisk og praktisk undervisning innenfor ett av følgende vitenskapelige områder: Farmasi, medisin, veterinærmedisin, kjemi, farmasøytisk kjemi og teknologi eller biologi. Utdanningen skal omfatte teoretisk og praktisk undervisning i minst følgende grunnleggende fag: anvendt fysikk, generell og uorganisk kjemi, organisk kjemi, analytisk kjemi, farmasøytisk kjemi (herunder legemiddelanalyse), generell og anvendt biokjemi (medisinsk), fysiologi, mikrobiologi, farmakologi, farmasøytisk teknologi, toksikologi og farmakognosi.
+2. dokumentasjon som viser at vedkommende har minst to års praktisk erfaring fra ett eller flere foretak med tillatelse til tilvirkning av legemidler, innenfor den del av virksomheten som omfatter kvalitativ analyse av legemidler, kvantitativ analyse av virksomme stoffer, samt kvalitetskontroll av legemidler.
 
 Praksistiden kan reduseres med ett år når universitetsutdanningen er av minst fem års varighet, og med ett og et halvt år når utdanningen er av minst seks års varighet.
 
@@ -170,11 +206,19 @@ Direktoratet for medisinske produkter kan gjøre unntak fra kravene i denne best
 
 ### § 2-12. Ansvarsoppgaver for kvalifisert person
 
-Virksomhetens kvalifiserte person har ansvar for å påse:at ethvert produksjonsparti (batch) med legemidler er fremstilt og kontrollert i samsvar med de krav som er stilt i denne forskrift og eventuelle vilkår som er stilt i markedsføringstillatelsen for det enkelte legemiddel som tilvirkes.at ethvert produksjonsparti med legemidler, som er importert fra tredjeland, har vært underlagt en fullstendig kvalitativ analyse, en kvantitativ analyse av minst alle virkestoffer, samt andre kontroller som anses nødvendig for å sikre at kvaliteten på legemiddelet er i henhold til de krav som er stilt i markedsføringstillatelsen for det enkelte legemiddel som importeres. Virksomhetens kvalifiserte person skal attestere for at vilkårene er oppfylt, og dokumentasjonen må oppdateres regelmessig og skal gjøres tilgjengelig for Direktoratet for medisinske produkter i henhold til [§ 4-1](forskrift/2004-11-02-1441/§4-1).at ethvert parti utprøvingspreparat, som er et sammenligningspreparat fra tredjeland og som har markedsføringstillatelse, men hvor det ikke kan dokumenteres at hvert parti er tilvirket og kontrollert etter en standard for god fremstillingspraksis som minst tilsvarer standarden som nevnt i [§ 2-8](forskrift/2009-12-18-1839/§2-8), har vært underlagt alle analyser, tester eller kontroller som er relevante og nødvendige for å bekrefte at kvaliteten er i samsvar med opplysningene som gitt i søknaden om klinisk utprøving.at kravene i [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 3-29](forskrift/2009-12-18-1839/§3-29) fjerde ledd er oppfylt for alle legemidler som skal markedsføres i EU/EØS.
+Virksomhetens kvalifiserte person har ansvar for å påse:
+
+1. at ethvert produksjonsparti (batch) med legemidler er fremstilt og kontrollert i samsvar med de krav som er stilt i denne forskrift og eventuelle vilkår som er stilt i markedsføringstillatelsen for det enkelte legemiddel som tilvirkes.
+2. at ethvert produksjonsparti med legemidler, som er importert fra tredjeland, har vært underlagt en fullstendig kvalitativ analyse, en kvantitativ analyse av minst alle virkestoffer, samt andre kontroller som anses nødvendig for å sikre at kvaliteten på legemiddelet er i henhold til de krav som er stilt i markedsføringstillatelsen for det enkelte legemiddel som importeres. Virksomhetens kvalifiserte person skal attestere for at vilkårene er oppfylt, og dokumentasjonen må oppdateres regelmessig og skal gjøres tilgjengelig for Direktoratet for medisinske produkter i henhold til [§ 4-1](forskrift/2004-11-02-1441/§4-1).
+3. at ethvert parti utprøvingspreparat, som er et sammenligningspreparat fra tredjeland og som har markedsføringstillatelse, men hvor det ikke kan dokumenteres at hvert parti er tilvirket og kontrollert etter en standard for god fremstillingspraksis som minst tilsvarer standarden som nevnt i [§ 2-8](forskrift/2009-12-18-1839/§2-8), har vært underlagt alle analyser, tester eller kontroller som er relevante og nødvendige for å bekrefte at kvaliteten er i samsvar med opplysningene som gitt i søknaden om klinisk utprøving.
+4. at kravene i [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 3-29](forskrift/2009-12-18-1839/§3-29) fjerde ledd er oppfylt for alle legemidler som skal markedsføres i EU/EØS.
 
 Kravene etter første ledd gjelder ikke for produksjonspartier som har vært undergitt de samme kontroller i annen EØS-stat, forutsatt at det medfølger kontrollrapporter utferdiget av person kvalifisert for dette i angjeldende land.
 
-Den kvalifiserte personen skal fritas fra vilkårene i første ledd dersom Norge gjennom gjensidig anerkjennelsesavtale med eksportlandet har truffet egnede tiltak for å sikre:at tilvirkeren av legemidlet benytter standarder for god tilvirkningspraksis som minst er likeverdige med kravene i denne forskrift, ogat hvert produksjonsparti (batch) har undergått nødvendige kontroller i eksportlandet.
+Den kvalifiserte personen skal fritas fra vilkårene i første ledd dersom Norge gjennom gjensidig anerkjennelsesavtale med eksportlandet har truffet egnede tiltak for å sikre:
+
+1. at tilvirkeren av legemidlet benytter standarder for god tilvirkningspraksis som minst er likeverdige med kravene i denne forskrift, og
+2. at hvert produksjonsparti (batch) har undergått nødvendige kontroller i eksportlandet.
 
 Direktoratet for medisinske produkter kan gjøre unntak fra kravene i denne bestemmelse når særlige grunner knyttet til menneskers eller dyrs liv eller helse taler for det.
 
@@ -316,7 +360,11 @@ Selvinspeksjoner og alle påfølgende korrigerende tiltak skal dokumenteres.
 
 ### § 2-26. Merking og sikkerhetsanordning
 
-Merkingen og sikkerhetsanordningen som fremgår av [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 3-29](forskrift/2009-12-18-1839/§3-29) fjerde ledd må ikke fjernes eller tildekkes, med mindre innehaveren av tilvirkertillatelsen:kontrollerer legemidlets sikkerhetsanordning og at pakningen er ubrutt,benytter sikkerhetsanordninger som er likeverdige med de som er beskrevet i § 3-29 fjerde ledd og kan dokumentere at pakningen er ubrutt, ogutskiftningen av sikkerhetsanordning som nevnt i bokstav b) gjennomføres i samsvar med god tilvirkningspraksis, og etter godkjenning av Direktoratet for medisinske produkter.
+Merkingen og sikkerhetsanordningen som fremgår av [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 3-29](forskrift/2009-12-18-1839/§3-29) fjerde ledd må ikke fjernes eller tildekkes, med mindre innehaveren av tilvirkertillatelsen:
+
+1. kontrollerer legemidlets sikkerhetsanordning og at pakningen er ubrutt,
+2. benytter sikkerhetsanordninger som er likeverdige med de som er beskrevet i § 3-29 fjerde ledd og kan dokumentere at pakningen er ubrutt, og
+3. utskiftningen av sikkerhetsanordning som nevnt i bokstav b) gjennomføres i samsvar med god tilvirkningspraksis, og etter godkjenning av Direktoratet for medisinske produkter.
 
 Utskiftningen av sikkerhetsanordningen som nevnt i første ledd kan kun gjennomføres dersom legemidlets indre emballasje ikke åpnes.
 
@@ -364,11 +412,18 @@ Privatimport av legemidler følger reglene i [§ 3-2](forskrift/2004-11-02-1441/
 
 ### § 3-2. Personlig import
 
-Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS,et rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjeland.
+Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:
+
+1. et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS,
+2. et rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjeland.
 
 Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd ved forsendelse fra EØS, i løpet av en tremåneders periode, importere et rimelig kvantum reseptfrie legemidler som utgjør høyst tre måneders forbruk.
 
-Import etter første og annet ledd forutsetter at importøren kan dokumentere overfor myndighetene at legemidlene er til personlig bruk og lovlig ervervet i innkjøpslandet. Import etter annet ledd forutsetter også atforsendelsen er vedlagt dokumentasjon som viser at selger lovlig kan selge og eksportere de aktuelle legemidlene,legemidlene har markedsføringstillatelse i Norge, ogimportøren er over 18 år.
+Import etter første og annet ledd forutsetter at importøren kan dokumentere overfor myndighetene at legemidlene er til personlig bruk og lovlig ervervet i innkjøpslandet. Import etter annet ledd forutsetter også at
+
+1. forsendelsen er vedlagt dokumentasjon som viser at selger lovlig kan selge og eksportere de aktuelle legemidlene,
+2. legemidlene har markedsføringstillatelse i Norge, og
+3. importøren er over 18 år.
 
 Importøren kan ikke i ettertid fremlegge dokumentasjon som nevnt i forrige ledd bokstav b).
 
@@ -382,7 +437,23 @@ Denne bestemmelsen gjelder ikke for legemidler som omfattes av [forskrift 14. fe
 
 > Endret ved [forskrifter 9 mars 2008 nr. 243](forskrift/2008-03-09-243), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [7 nov 2013 nr. 1303](forskrift/2013-11-07-1303) (i kraft 1 okt 2015 jf. [forskrift 22 sep 2015 nr. 1091](forskrift/2015-09-22-1091)), [24 mars 2017 nr. 388](forskrift/2017-03-24-388), [23 juni 2020 nr. 1384](forskrift/2020-06-23-1384) (i kraft 1 juli 2020), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
-1 For elektroniske sigaretter, som regnes som legemidler etter [legemiddelloven § 2](lov/1992-12-04-132/§2), gjelder iflg [forskrift 22 sep 2015 nr. 1091](forskrift/2015-09-22-1091) tidligere versjon av § 3-2:[§ 3-2](forskrift/2004-11-02-1441/§3-2). *Personlig import*, slik bestemmelsen lød før endring som ble satt i kraft 1 okt 2015:Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS-områdetet rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjelandved forsendelse fra EØS-området, i løpet av en tremåneders periode, legemidler som samlet utgjør høyst tre måneders forbruk. Slik import er ikke tillatt for personer under 18 år.Det må kunne dokumenteres overfor tollvesenet at legemidlene er til personlig bruk og er lovlig ervervet i innkjøpslandet.Import ved forsendelse fra tredjeland er ikke tillatt.Direktoratet for medisinske produkter kan gjøre unntak fra forbudet mot import ved forsendelse fra tredjeland når særlige grunner knyttet til menneskers eller dyrs liv eller helse taler for det.Egne bestemmelser gjelder for import av narkotika og legemidler som omfattes av [forskrift 30. april 1993 nr. 318](forskrift/1993-04-30-318) om hva som skal anses som dopingmidler.
+1 For elektroniske sigaretter, som regnes som legemidler etter [legemiddelloven § 2](lov/1992-12-04-132/§2), gjelder iflg [forskrift 22 sep 2015 nr. 1091](forskrift/2015-09-22-1091) tidligere versjon av § 3-2:
+
+[§ 3-2](forskrift/2004-11-02-1441/§3-2). *Personlig import*, slik bestemmelsen lød før endring som ble satt i kraft 1 okt 2015:
+
+Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:
+
+1. et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS-området
+2. et rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjeland
+3. ved forsendelse fra EØS-området, i løpet av en tremåneders periode, legemidler som samlet utgjør høyst tre måneders forbruk. Slik import er ikke tillatt for personer under 18 år.
+
+Det må kunne dokumenteres overfor tollvesenet at legemidlene er til personlig bruk og er lovlig ervervet i innkjøpslandet.
+
+Import ved forsendelse fra tredjeland er ikke tillatt.
+
+Direktoratet for medisinske produkter kan gjøre unntak fra forbudet mot import ved forsendelse fra tredjeland når særlige grunner knyttet til menneskers eller dyrs liv eller helse taler for det.
+
+Egne bestemmelser gjelder for import av narkotika og legemidler som omfattes av [forskrift 30. april 1993 nr. 318](forskrift/1993-04-30-318) om hva som skal anses som dopingmidler.
 
 ### § 3-2a. Tilbakehold, beslagleggelse og destruksjon av legemidler ved personlig import ved forsendelse
 
@@ -444,7 +515,13 @@ Importører av utprøvingspreparater skal påse at legemidlene er tilvirket av p
 
 Ethvert produksjonsparti importert fra tredjeland skal, uavhengig av om det er tilvirket i EØS-området eller et tredjeland, underlegges en fullstendig kvalitativ analyse, en kvantitativ analyse av minst alle virkestoffer, samt andre kontroller som er nødvendig for å sikre at kvaliteten på legemidler er i henhold til de krav som er stilt i tillatelsen for det enkelte legemiddel som importeres.
 
-Plikten til å foreta en analytisk kontroll i importlandet etter fjerde ledd omfatter ikkeutprøvingspreparater,legemidler som er unntatt fra kravet om markedsføringstillatelse i henhold til § 2-5 til § 2-7 i [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler,produksjonspartier som har vært undergitt de samme kontroller i en annen EØS-stat, forutsatt at det medfølger kontrollrapporter utferdiget av person kvalifisert for dette i angjeldende land,tilfeller der Norge gjennom gjensidig anerkjennelsesavtale med eksportlandet har truffet egnede tiltak for å sikre at tilvirkeren av legemidlet benytter standarder for god tilvirkningspraksis som minst er likeverdige med kravene i denne forskrift, og at hvert produksjonsparti (batch) har undergått nødvendige kontroller i eksportlandet,virksomme stoffer og hjelpestoffer for tilvirkning i samsvar med [§ 2-8](forskrift/2004-11-02-1441/§2-8).
+Plikten til å foreta en analytisk kontroll i importlandet etter fjerde ledd omfatter ikke
+
+1. utprøvingspreparater,
+2. legemidler som er unntatt fra kravet om markedsføringstillatelse i henhold til § 2-5 til § 2-7 i [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler,
+3. produksjonspartier som har vært undergitt de samme kontroller i en annen EØS-stat, forutsatt at det medfølger kontrollrapporter utferdiget av person kvalifisert for dette i angjeldende land,
+4. tilfeller der Norge gjennom gjensidig anerkjennelsesavtale med eksportlandet har truffet egnede tiltak for å sikre at tilvirkeren av legemidlet benytter standarder for god tilvirkningspraksis som minst er likeverdige med kravene i denne forskrift, og at hvert produksjonsparti (batch) har undergått nødvendige kontroller i eksportlandet,
+5. virksomme stoffer og hjelpestoffer for tilvirkning i samsvar med [§ 2-8](forskrift/2004-11-02-1441/§2-8).
 
 Importør av virksomme stoffer skal påse at det ved import fra tredjeland foreligger en skriftlig bekreftelse fra nasjonale legemiddelmyndigheter på at de virksomme stoffene er tilvirket i samsvar med god tilvirkningspraksis, som minst tilsvarer standarder fastsatt i EU/EØS-området, og at tilvirkers produksjonssted for det virksomme stoffet er underlagt tilsyn fra nasjonale legemiddelmyndigheter.
 

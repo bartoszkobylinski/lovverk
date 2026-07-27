@@ -24,7 +24,19 @@ eu_basis: []
 
 ## I
 
-Arbeids- og inkluderingsdepartementets myndighet til å avgjøre anmodninger om unntak fra lovvalgsbestemmelsene i Norges bilaterale trygdeavtaler med følgende land delegeres til Arbeids- og velferdsdirektoratet:Republikken ChileRepublikken IndiaIsraelMontenegroRepublikken SerbiaDet forente kongerike Storbritannia og Nord-IrlandDen tyrkiske republikkDet sveitsiske forbundAmerikas forente staterCanadaRepublikken Korea.
+Arbeids- og inkluderingsdepartementets myndighet til å avgjøre anmodninger om unntak fra lovvalgsbestemmelsene i Norges bilaterale trygdeavtaler med følgende land delegeres til Arbeids- og velferdsdirektoratet:
+
+1. Republikken Chile
+2. Republikken India
+3. Israel
+4. Montenegro
+5. Republikken Serbia
+6. Det forente kongerike Storbritannia og Nord-Irland
+7. Den tyrkiske republikk
+8. Det sveitsiske forbund
+9. Amerikas forente stater
+10. Canada
+11. Republikken Korea.
 
 Det samme gjelder myndigheten til å avtale unntak fra lovvalgsbestemmelsene i den særskilte trygdeavtalen med provinsen Quebec.
 

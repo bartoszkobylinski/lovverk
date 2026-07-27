@@ -28,13 +28,41 @@ Personar som har arbeidd i petroleumsverksemda offshore på norsk kontinentalsok
 
 ## § 2. Arbeidstakargrupper omfatta av kompensasjonsordninga
 
-Aktivitetsområda boring og brønn omfattar desse arbeidstakargruppene:dekksarbeidarboredekksarbeidartårnmannassisterande tårnmannriggmekanikarslamloggarsementerar.
+Aktivitetsområda boring og brønn omfattar desse arbeidstakargruppene:
 
-Aktivitetsområda produksjon og vedlikehald omfattar desse arbeidstakargruppene:prosessoperatørlaboratoriemekanikarmekanikarelektrikarautomatikarmaskinistteknisk cleaner.
+1. dekksarbeidar
+2. boredekksarbeidar
+3. tårnmann
+4. assisterande tårnmann
+5. riggmekanikar
+6. slamloggar
+7. sementerar.
+
+Aktivitetsområda produksjon og vedlikehald omfattar desse arbeidstakargruppene:
+
+1. prosessoperatør
+2. laboratoriemekanikar
+3. mekanikar
+4. elektrikar
+5. automatikar
+6. maskinist
+7. teknisk cleaner.
 
 ## § 3. Sjukdom og skade som kan gi rett til kompensasjon
 
-Følgande sjukdommar og skade kan gi rett til kompensasjon etter denne lova:akutt myelogen leukemimyelodysplastisk neoplasi (MDS)myelomatosenon-Hodgkin lymfomlungekreftlungehinnekreft (mesoteliom)bukhinnekreft (mesoteliom)eggstokkreftstrupekreftasbestoseløysemiddelskade på sentralnervesystemet.
+Følgande sjukdommar og skade kan gi rett til kompensasjon etter denne lova:
+
+1. akutt myelogen leukemi
+2. myelodysplastisk neoplasi (MDS)
+3. myelomatose
+4. non-Hodgkin lymfom
+5. lungekreft
+6. lungehinnekreft (mesoteliom)
+7. bukhinnekreft (mesoteliom)
+8. eggstokkreft
+9. strupekreft
+10. asbestose
+11. løysemiddelskade på sentralnervesystemet.
 
 > Endret ved lov [23 juni 2026 nr. 69](lov/2026-06-23-69).
 
@@ -64,9 +92,16 @@ Nemnda skal ha tre medlemmer, éin leiar og to ordinære medlemmer, som blir opp
 
 Søknad om kompensasjon skal fremmast for Oljepionernemnda innan to år etter at denne lova trer i kraft. Søknad skal fremmast på skjema fastsett av nemnda.
 
-Den som søker om kompensasjon etter [§ 1](lov/2025-12-22-116/§1), skal i søknaden legge fram følgande:dokumentasjon som viser at vedkommande har arbeidd i petroleumsverksemda offshore på norsk kontinentalsokkel i pionertida innanfor eitt av aktivitetsområda og ei av arbeidstakargruppene som er omfatta av [§ 2](lov/2025-12-22-116/§2), kva tid arbeidet blei utført og kor lenge det varte,dokumentasjon som viser at vedkommande har fått påvist ein sjukdom eller skade som er omfatta av [§ 3](lov/2025-12-22-116/§3), og om kva tid helsetilstanden blei påvist,informasjon om og i kva utstrekning vedkommande har fått ytingar som nemnde i [§ 5 andre ledd](lov/2025-12-22-116/§5/ledd/2).
+Den som søker om kompensasjon etter [§ 1](lov/2025-12-22-116/§1), skal i søknaden legge fram følgande:
 
-Etterlatne som søker om kompensasjon etter [§ 4](lov/2025-12-22-116/§4), skal legge fram følgande:dokumentasjon og informasjon som nemnd i andre ledd om den avdøde personen,dokumentasjon som viser at den etterlatne har rett til kompensasjon gjennom relasjonen sin til den avdøde.
+1. dokumentasjon som viser at vedkommande har arbeidd i petroleumsverksemda offshore på norsk kontinentalsokkel i pionertida innanfor eitt av aktivitetsområda og ei av arbeidstakargruppene som er omfatta av [§ 2](lov/2025-12-22-116/§2), kva tid arbeidet blei utført og kor lenge det varte,
+2. dokumentasjon som viser at vedkommande har fått påvist ein sjukdom eller skade som er omfatta av [§ 3](lov/2025-12-22-116/§3), og om kva tid helsetilstanden blei påvist,
+3. informasjon om og i kva utstrekning vedkommande har fått ytingar som nemnde i [§ 5 andre ledd](lov/2025-12-22-116/§5/ledd/2).
+
+Etterlatne som søker om kompensasjon etter [§ 4](lov/2025-12-22-116/§4), skal legge fram følgande:
+
+1. dokumentasjon og informasjon som nemnd i andre ledd om den avdøde personen,
+2. dokumentasjon som viser at den etterlatne har rett til kompensasjon gjennom relasjonen sin til den avdøde.
 
 Nemnda kan under behandlinga av saka be om fleire opplysningar dersom nemnda meiner det er nødvendig for å behandle søknaden.
 
@@ -78,7 +113,11 @@ Med mindre det må reknast som unødvendig, tilviser nemnda til forenkla arbeids
 
 Nemnda skal behandle saker på grunnlag av dei skriftlege framstillingane søkaren har gitt, og dei dokumentbevisa som ligg føre. Nemnda skal som hovudregel gjere vedtak i møte. Dersom det er openbert at vilkåra for å få kompensasjon ikkje er oppfylte, eller søkaren ikkje legg fram dokumentasjon som nemnd i [§ 7 andre ledd](lov/2025-12-22-116/§7/ledd/2), kan leiaren av nemnda aleine avslå søknaden.
 
-Leiaren av nemnda kan avgjere at eit vedtak skal gjerast skriftleg ved sirkulasjon blant medlemmene dersom:saka er kurant på bakgrunn av fast praksis i nemnda,saka er diskutert i møte og det berre er behov for mindre avklaringar, suppleringar eller endringar før avgjerda blir gjord, elleravgjerda kunne vore gjord av leiaren i nemnda aleine etter første ledd.
+Leiaren av nemnda kan avgjere at eit vedtak skal gjerast skriftleg ved sirkulasjon blant medlemmene dersom:
+
+1. saka er kurant på bakgrunn av fast praksis i nemnda,
+2. saka er diskutert i møte og det berre er behov for mindre avklaringar, suppleringar eller endringar før avgjerda blir gjord, eller
+3. avgjerda kunne vore gjord av leiaren i nemnda aleine etter første ledd.
 
 Nemnda kan gjere vedtak når alle medlemmene deltar i behandlinga og stemmer. Vedtaket skal gjerast ved alminneleg fleirtal og skal opplyse om eventuell dissens. Det skal førast protokoll med opplysningar om kva tid vedtaket er gjort, kva vedtaket gjeld, og kva medlemmene i nemnda har stemt.
 

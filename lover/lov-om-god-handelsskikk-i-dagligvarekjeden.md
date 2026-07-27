@@ -15,7 +15,7 @@ xml_hash: "56864a3b21ac219d308da64e2e6ef1ec1cb74e08b702862f212475435a4839e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Loven skal bidra til effektiv bruk av samfunnets ressurser og ivareta forbrukern
 
 ### § 2. Virkeområde
 
-Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarersom er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, ellerfor salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.
+Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarer
+
+1. som er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, eller
+2. for salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.
 
 Loven gjelder ikke salg til forbrukere. Loven gjelder heller ikke forhandlinger og avtaler mellom primærprodusenter og industriaktører.
 
@@ -156,7 +159,15 @@ Søksmål om Konkurransetilsynets eller Konkurranseklagenemndas vedtak etter lov
 
 ### § 20. Forskrifter
 
-Kongen kan gi forskrifter omlovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,avgrensning av virkeområdet og presisering av adferdsnormene i [§§ 4](lov/2020-04-17-29/§4) til 9,dagligvaremyndighetenes organisering og saksbehandling,nærmere regler om opplysningsplikt og gransking,nærmere regler om ileggelse av tvangsmulkt,utmåling av overtredelsesgebyr, oginnføring av EØS-regelverk om forretningspraksis for dagligvarebransjen.
+Kongen kan gi forskrifter om
+
+1. lovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,
+2. avgrensning av virkeområdet og presisering av adferdsnormene i [§§ 4](lov/2020-04-17-29/§4) til 9,
+3. dagligvaremyndighetenes organisering og saksbehandling,
+4. nærmere regler om opplysningsplikt og gransking,
+5. nærmere regler om ileggelse av tvangsmulkt,
+6. utmåling av overtredelsesgebyr, og
+7. innføring av EØS-regelverk om forretningspraksis for dagligvarebransjen.
 
 ### § 21. Ikrafttredelse og overgangsregler
 

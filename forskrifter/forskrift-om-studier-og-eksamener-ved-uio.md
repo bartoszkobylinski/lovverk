@@ -58,7 +58,10 @@ Fastsatt med hjemmel i [§ 3-8](lov/2024-03-08-9/§3-8) i [uh-loven av 8. mars 2
 
 (1) Når graden bachelor tildeles på grunnlag av et treårig studieprogram, skal tilleggsbetegnelsen for graden være «Bachelor i (programnavn)» / «Bachelor in (programnavn på engelsk)».
 
-(2) Når graden bachelor tildeles på grunnlag av tre års studier (fritt sammensatt bachelorgrad), skal tilleggsbetegnelsen for graden være en av følgende, avhengig av studienes faglige tyngdepunkt:«Bachelor i kultur og samfunnsfag»«Bachelor i realfag og teknologi».
+(2) Når graden bachelor tildeles på grunnlag av tre års studier (fritt sammensatt bachelorgrad), skal tilleggsbetegnelsen for graden være en av følgende, avhengig av studienes faglige tyngdepunkt:
+
+- «Bachelor i kultur og samfunnsfag»
+- «Bachelor i realfag og teknologi».
 
 > Endret ved [forskrifter 3 juli 2008 nr. 782](forskrift/2008-07-03-782) (i kraft 11 aug 2008), [24 juni 2009 nr. 962](forskrift/2009-06-24-962), [22 juni 2011 nr. 701](forskrift/2011-06-22-701), [27 jan 2015 nr. 400](forskrift/2015-01-27-400) (i kraft 1 sep 2015), [11 mars 2026 nr. 508](forskrift/2026-03-11-508).
 
@@ -66,23 +69,69 @@ Fastsatt med hjemmel i [§ 3-8](lov/2024-03-08-9/§3-8) i [uh-loven av 8. mars 2
 
 (1) Tilleggsbetegnelsen for graden master skal være «Master i (programnavn)» / «Master in (programnavn på engelsk)».
 
-(2) Tilleggsbetegnelsen for graden master på grunnlag av Lektorprogrammet skal være en av følgende, avhengig av studienes faglige tyngdepunkt:«Master med lektorkompetanse i humaniora og samfunnsfag»«Master med lektorkompetanse i realfag».
+(2) Tilleggsbetegnelsen for graden master på grunnlag av Lektorprogrammet skal være en av følgende, avhengig av studienes faglige tyngdepunkt:
+
+- «Master med lektorkompetanse i humaniora og samfunnsfag»
+- «Master med lektorkompetanse i realfag».
 
 > Endret ved [forskrifter 3 juli 2008 nr. 782](forskrift/2008-07-03-782) (i kraft 11 aug 2008), [5 des 2008 nr. 1283](forskrift/2008-12-05-1283), [24 juni 2009 nr. 962](forskrift/2009-06-24-962), [22 juni 2011 nr. 701](forskrift/2011-06-22-701), [27 jan 2015 nr. 400](forskrift/2015-01-27-400) (i kraft 1 sep 2015), [10 juli 2019 nr. 998](forskrift/2019-07-10-998), [11 mars 2026 nr. 508](forskrift/2026-03-11-508).
 
 ### § 2-4. Krav til sammensetning av graden bachelor
 
-(1) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram, tilsvarende 180 studiepoeng, inklusive:examen philosophicum (10 studiepoeng)examen facultatum (10 studiepoeng)programdefinerte emner (minst 120 studiepoeng)eventuelt emner (inntil 40 studiepoeng) som kan velges frittnår studieprogrammet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det medisinske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
+(1) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram, tilsvarende 180 studiepoeng, inklusive:
 
-(2) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusiveexamen philosophicum (10 studiepoeng)programdefinerte emner (minst 120 studiepoeng)eventuelt emner (inntil 50 studiepoeng) som kan velges frittnår studieprogrammet har sin faglige tyngde innen fagområder ved Det medisinske fakultet, Det matematisk-naturvitenskapelige fakultet eller Det odontologiske fakultet.
+- examen philosophicum (10 studiepoeng)
+- examen facultatum (10 studiepoeng)
+- programdefinerte emner (minst 120 studiepoeng)
+- eventuelt emner (inntil 40 studiepoeng) som kan velges fritt
 
-(3) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusive:examen philosophicum (10 studiepoeng eller mer)examen facultatum (10 studiepoeng eller mer)en emnegruppe (minst 80 studiepoeng)en emnegruppe (minst 40 studiepoeng)øvrige emner (inntil 40 studiepoeng) som kan velges frittnår studieprogrammet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
+når studieprogrammet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det medisinske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
 
-(4) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusive:examen philosophicum (10 studiepoeng eller mer)en emnegruppe (minst 80 studiepoeng)en emnegruppe (minst 40 studiepoeng)øvrige emner (inntil 50 studiepoeng) som kan velges frittnår studieprogrammet har sin faglige tyngde innen fagområder ved Det matematisk-naturvitenskapelige fakultet.
+(2) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusive
 
-(5) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av tre års studier tilsvarende 180 studiepoeng, inklusive:examen philosophicum (10 studiepoeng eller mer)examen facultatum (10 studiepoeng eller mer)en emnegruppe (minst 80 studiepoeng)en emnegruppe (minst 40 studiepoeng)øvrige emner (inntil 40 studiepoeng) som kan velges frittnår studiet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det medisinske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
+- examen philosophicum (10 studiepoeng)
+- programdefinerte emner (minst 120 studiepoeng)
+- eventuelt emner (inntil 50 studiepoeng) som kan velges fritt
 
-(6) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av tre års studier tilsvarende 180 studiepoeng, inklusive:examen philosophicum (10 studiepoeng eller mer)en emnegruppe (minst 80 studiepoeng)en emnegruppe (minst 40 studiepoeng)øvrige emner (inntil 50 studiepoeng) som kan velges fritt.når studiet har sin faglige tyngde innen fagområder ved Det matematisk-naturvitenskapelige fakultet, Det medisinske fakultet eller Det odontologiske fakultet.
+når studieprogrammet har sin faglige tyngde innen fagområder ved Det medisinske fakultet, Det matematisk-naturvitenskapelige fakultet eller Det odontologiske fakultet.
+
+(3) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusive:
+
+- examen philosophicum (10 studiepoeng eller mer)
+- examen facultatum (10 studiepoeng eller mer)
+- en emnegruppe (minst 80 studiepoeng)
+- en emnegruppe (minst 40 studiepoeng)
+- øvrige emner (inntil 40 studiepoeng) som kan velges fritt
+
+når studieprogrammet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
+
+(4) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av et treårig studieprogram tilsvarende 180 studiepoeng, inklusive:
+
+- examen philosophicum (10 studiepoeng eller mer)
+- en emnegruppe (minst 80 studiepoeng)
+- en emnegruppe (minst 40 studiepoeng)
+- øvrige emner (inntil 50 studiepoeng) som kan velges fritt
+
+når studieprogrammet har sin faglige tyngde innen fagområder ved Det matematisk-naturvitenskapelige fakultet.
+
+(5) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av tre års studier tilsvarende 180 studiepoeng, inklusive:
+
+- examen philosophicum (10 studiepoeng eller mer)
+- examen facultatum (10 studiepoeng eller mer)
+- en emnegruppe (minst 80 studiepoeng)
+- en emnegruppe (minst 40 studiepoeng)
+- øvrige emner (inntil 40 studiepoeng) som kan velges fritt
+
+når studiet har sin faglige tyngde innen fagområder ved Det teologiske fakultet, Det juridiske fakultet, Det medisinske fakultet, Det humanistiske fakultet, Det samfunnsvitenskapelige fakultet eller Det utdanningsvitenskapelige fakultet.
+
+(6) Ved Universitetet i Oslo kan graden bachelor oppnås på bakgrunn av tre års studier tilsvarende 180 studiepoeng, inklusive:
+
+- examen philosophicum (10 studiepoeng eller mer)
+- en emnegruppe (minst 80 studiepoeng)
+- en emnegruppe (minst 40 studiepoeng)
+- øvrige emner (inntil 50 studiepoeng) som kan velges fritt.
+
+når studiet har sin faglige tyngde innen fagområder ved Det matematisk-naturvitenskapelige fakultet, Det medisinske fakultet eller Det odontologiske fakultet.
 
 (7) Universitetsstyret kan fastsette at enkelte studieprogram til graden bachelor kan ha egne studieenheter som innholdsmessig dekker examen philosophicum (10 studiepoeng) eller examen facultatum (10 studiepoeng).
 
@@ -164,13 +213,24 @@ Fastsatt med hjemmel i [§ 3-4](lov/2024-03-08-9/§3-4), [§§ 9-1](lov/2024-03-
 
 (4) Studieprogram til de fem- eller seksårige gradene kan bruke andre begreper for sine emnegrupper og emner, men de skal likevel være omfattet av forskriftens bestemmelser om emnegrupper og emner.
 
-(5) Ved Universitetet i Oslo skal studieplanen for studiene fremgå av:en programbeskrivelse for studieprogrammeteventuelt en studieretningsbeskrivelse for studieretningen innenfor studieprogrammeten emnebeskrivelse for emnet.
+(5) Ved Universitetet i Oslo skal studieplanen for studiene fremgå av:
+
+- en programbeskrivelse for studieprogrammet
+- eventuelt en studieretningsbeskrivelse for studieretningen innenfor studieprogrammet
+- en emnebeskrivelse for emnet.
 
 > Endret ved [forskrifter 24 juni 2009 nr. 962](forskrift/2009-06-24-962), [8 mars 2022 nr. 953](forskrift/2022-03-08-953).
 
 ### § 3-2. Etablering, endring og nedlegging av studieprogram og studieenheter
 
-(1) Ved Universitetet i Oslo skal saker om etablering og nedlegging av studietilbud behandles slik:Saker om studieprogram på 60 studiepoeng eller mer behandles av universitetsstyret.Saker om studieprogram på mindre enn 60 studiepoeng behandles av fakultetet selv.Saker om studieretninger behandles av fakultetet selv.Saker om emnegrupper behandles av fakultetet.Saker om emner behandles av fakultetet.Saker om etterutdanningstilbud behandles av fakultetet.
+(1) Ved Universitetet i Oslo skal saker om etablering og nedlegging av studietilbud behandles slik:
+
+- Saker om studieprogram på 60 studiepoeng eller mer behandles av universitetsstyret.
+- Saker om studieprogram på mindre enn 60 studiepoeng behandles av fakultetet selv.
+- Saker om studieretninger behandles av fakultetet selv.
+- Saker om emnegrupper behandles av fakultetet.
+- Saker om emner behandles av fakultetet.
+- Saker om etterutdanningstilbud behandles av fakultetet.
 
 (2) Fakultetet kan endre studieprogram, studieretninger, emnegrupper, emner og etterutdanningstilbud. Rektor skal likevel behandle endringer av Examen philosophicum.
 
@@ -252,7 +312,12 @@ Fastsatt med hjemmel i [§ 2-4](lov/2024-03-08-9/§2-4), [§ 8-3](lov/2024-03-08
 
 ### § 4-1. Semestrenes varighet
 
-(1) Ved Universitetet i Oslo har semestrene følgende varighet:Høstsemesteret, 19 uker: ca. 13. august-ca. 21. desemberVårsemesteret, 21 uker: ca. 7. januar-ca. 15. juni.Innen disse tidsrom skal undervisning og ordinær eksamen avholdes. Om årlig fastsettelse av nøyaktig start- og sluttdato for semesterets varighet, se [§ 10-1](forskrift/2005-12-20-1798/§10-1).
+(1) Ved Universitetet i Oslo har semestrene følgende varighet:
+
+- Høstsemesteret, 19 uker: ca. 13. august-ca. 21. desember
+- Vårsemesteret, 21 uker: ca. 7. januar-ca. 15. juni.
+
+Innen disse tidsrom skal undervisning og ordinær eksamen avholdes. Om årlig fastsettelse av nøyaktig start- og sluttdato for semesterets varighet, se [§ 10-1](forskrift/2005-12-20-1798/§10-1).
 
 (2) Studieprogrammene i farmasi, klinisk ernæring, medisin, odontologi og psykologi (cand.psychol.) kan ha annen start- og sluttdato for semesteret. Denne må kunngjøres før studie- eller semesterstart for de aktuelle studentene, jf. [§ 10-1](forskrift/2005-12-20-1798/§10-1).
 
@@ -262,7 +327,13 @@ Fastsatt med hjemmel i [§ 2-4](lov/2024-03-08-9/§2-4), [§ 8-3](lov/2024-03-08
 
 (5) Før starten av høst- og vårsemesteret kan ulike typer kurs og prøver som er nødvendige for å begynne på undervisningen avholdes.
 
-(6) For tidsrommet mellom vårsemesteret og høstsemesteret gjelder følgende:Ulike typer feltkurs som inngår i studieprogram, emne eller studieenhet, kan av faglige årsaker avholdes om sommeren.Praksisopphold kan avvikles om sommeren.Den internasjonale sommerskolen ved Universitetet i Oslo har studietilbud som i hovedsak gis om sommeren.Ulike studietilbud kan gis som videreutdanning om sommeren eller i deler av denne.I et 1-1½-årig studieprogram til gradene Master of Arts og Master of Laws kan masteroppgaven med tilhørende emner eller pensum gjennomføres om sommeren.
+(6) For tidsrommet mellom vårsemesteret og høstsemesteret gjelder følgende:
+
+- Ulike typer feltkurs som inngår i studieprogram, emne eller studieenhet, kan av faglige årsaker avholdes om sommeren.
+- Praksisopphold kan avvikles om sommeren.
+- Den internasjonale sommerskolen ved Universitetet i Oslo har studietilbud som i hovedsak gis om sommeren.
+- Ulike studietilbud kan gis som videreutdanning om sommeren eller i deler av denne.
+- I et 1-1½-årig studieprogram til gradene Master of Arts og Master of Laws kan masteroppgaven med tilhørende emner eller pensum gjennomføres om sommeren.
 
 (7) Tidsrommet mellom høst- og vårsemesteret kan ved behov i vitnemål eller på karakterutskrift angis som henholdsvis vintertermin og sommertermin.
 
@@ -314,7 +385,24 @@ Fastsatt med hjemmel i [§ 11-6](lov/2024-03-08-9/§11-6) og [§ 11-7](lov/2024-
 
 ### § 5-1. Eksamensformer og forkunnskapskrav
 
-(1) Ved Universitetet i Oslo kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet:hjemmeeksamenklinisk prøvemappeeksamenmasteroppgavemuntlig presentasjon, individuellmuntlig presentasjon i gruppemuntlig prøve, individuellmuntlig prøve i gruppepraksispraktisk prøverapportskriftlig oppgave, individuellskriftlig oppgave i gruppeskriftlig prøve, individuelldeltagelse (bare for obligatoriske aktiviteter)øving (bare for obligatoriske aktiviteter).
+(1) Ved Universitetet i Oslo kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet:
+
+- hjemmeeksamen
+- klinisk prøve
+- mappeeksamen
+- masteroppgave
+- muntlig presentasjon, individuell
+- muntlig presentasjon i gruppe
+- muntlig prøve, individuell
+- muntlig prøve i gruppe
+- praksis
+- praktisk prøve
+- rapport
+- skriftlig oppgave, individuell
+- skriftlig oppgave i gruppe
+- skriftlig prøve, individuell
+- deltagelse (bare for obligatoriske aktiviteter)
+- øving (bare for obligatoriske aktiviteter).
 
 (2) Fakultetet kan i program- eller emnebeskrivelsen fastsette at visse obligatoriske aktiviteter skal være godkjent eller at visse eksamener skal være bestått før oppmelding til eller gjennomføring av den enkelte eksamen.
 
@@ -527,11 +615,27 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 ### § 7-3. Krav til en programstudent mht. tap av studierett og ny studierett
 
-(1) En programstudent mister studieretten til studieprogrammet dersom programstudenten:ikke fyller kravene til studierett og studieprogresjon angitt i [§ 7-1](forskrift/2005-12-20-1798/§7-1) og [§ 7-2](forskrift/2005-12-20-1798/§7-2).har benyttet maksimalt antall forsøk uten å ha fått godkjent obligatorisk aktivitet eller bestått eksamen i et emne som er obligatorisk for studieprogrammet, jf. [§ 4-4](forskrift/2005-12-20-1798/§4-4) og [§ 5-6](forskrift/2005-12-20-1798/§5-6).har oppnådd grad eller slutteksamen, og fakultetet har ikke gitt forlengelse av studieretten.
+(1) En programstudent mister studieretten til studieprogrammet dersom programstudenten:
 
-(2) En programstudent kan beholde studieretten til studieprogrammet ved forsinkelser i studieløpet dersom programstudenten har bestått emner med minst:30 studiepoeng etter 1 år i et ett- eller flerårig studieprogram60 studiepoeng etter 2 år i et ett- eller flerårig studieprogram90 studiepoeng etter 3 år i et flerårig studieprogram120 studiepoeng etter 4 år i et flerårig studieprogram150 studiepoeng etter 5 år i et flerårig studieprogram180 studiepoeng etter 6 år i et flerårig studieprogram.For fem- og seksårige studieprogram og for studieprogram som inneholder emner større enn 30 studiepoeng gjelder bestemmelsen tilsvarende. Innvilgede permisjoner og andre godkjente forlengelser av studietiden skal tas hensyn til ved beregning av forsinkelse, jf. [§ 7-2](forskrift/2005-12-20-1798/§7-2).
+1. ikke fyller kravene til studierett og studieprogresjon angitt i [§ 7-1](forskrift/2005-12-20-1798/§7-1) og [§ 7-2](forskrift/2005-12-20-1798/§7-2).
+2. har benyttet maksimalt antall forsøk uten å ha fått godkjent obligatorisk aktivitet eller bestått eksamen i et emne som er obligatorisk for studieprogrammet, jf. [§ 4-4](forskrift/2005-12-20-1798/§4-4) og [§ 5-6](forskrift/2005-12-20-1798/§5-6).
+3. har oppnådd grad eller slutteksamen, og fakultetet har ikke gitt forlengelse av studieretten.
 
-(3) For medisinstudiet gjelder følgende bestemmelse i stedet for bestemmelsene i andre ledd:En programstudent tatt opp til medisinutdanning med to årlige opptak som blir mer enn fire semester forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.En programstudent tatt opp til medisinutdanning med ett årlig opptak som blir mer enn fire år forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.
+(2) En programstudent kan beholde studieretten til studieprogrammet ved forsinkelser i studieløpet dersom programstudenten har bestått emner med minst:
+
+- 30 studiepoeng etter 1 år i et ett- eller flerårig studieprogram
+- 60 studiepoeng etter 2 år i et ett- eller flerårig studieprogram
+- 90 studiepoeng etter 3 år i et flerårig studieprogram
+- 120 studiepoeng etter 4 år i et flerårig studieprogram
+- 150 studiepoeng etter 5 år i et flerårig studieprogram
+- 180 studiepoeng etter 6 år i et flerårig studieprogram.
+
+For fem- og seksårige studieprogram og for studieprogram som inneholder emner større enn 30 studiepoeng gjelder bestemmelsen tilsvarende. Innvilgede permisjoner og andre godkjente forlengelser av studietiden skal tas hensyn til ved beregning av forsinkelse, jf. [§ 7-2](forskrift/2005-12-20-1798/§7-2).
+
+(3) For medisinstudiet gjelder følgende bestemmelse i stedet for bestemmelsene i andre ledd:
+
+- En programstudent tatt opp til medisinutdanning med to årlige opptak som blir mer enn fire semester forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.
+- En programstudent tatt opp til medisinutdanning med ett årlig opptak som blir mer enn fire år forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.
 
 (4) En programstudent som mister studieretten til studieprogrammet og ønsker ny studierett til det samme eller et annet studieprogram, må søke på ny på fastsatt måte.
 
@@ -541,7 +645,13 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 ### § 7-4. Krav til en enkeltemnestudent
 
-(1) En person som ønsker undervisningsopptak til et emne uten å ha gyldig studierett til et studieprogram hvor emnet kan inngå, må:ha studiekompetanse for emnet.fylle eventuelle spesielle opptakskrav og andre forkunnskapskrav for emnet.på fastsatt måte og innen fastsatt frist søke om undervisningsopptak til emnet for det aktuelle semesteret.Forutsatt at søkeren får undervisningsopptak til emnet, blir søkeren enkeltemnestudent i emnet for semesteret.
+(1) En person som ønsker undervisningsopptak til et emne uten å ha gyldig studierett til et studieprogram hvor emnet kan inngå, må:
+
+- ha studiekompetanse for emnet.
+- fylle eventuelle spesielle opptakskrav og andre forkunnskapskrav for emnet.
+- på fastsatt måte og innen fastsatt frist søke om undervisningsopptak til emnet for det aktuelle semesteret.
+
+Forutsatt at søkeren får undervisningsopptak til emnet, blir søkeren enkeltemnestudent i emnet for semesteret.
 
 (2) En enkeltemnestudent må på fastsatt måte og innen fastsatt frist betale semesteravgift og eventuell annen fastsatt avgift for semesteret, jf. lov og forskrift om studentsamskipnader og forskrift om egenbetaling ved universiteter og høyskoler.
 
@@ -555,7 +665,13 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 ### § 7-5. Krav til en privatist
 
-(1) En person som ønsker å avlegge eksamen i et emne uten undervisningsopptak til emnet og uten å ha gyldig studierett til et studieprogram hvor emnet kan inngå, må:ha studiekompetanse for emnet.fylle eventuelle spesielle opptakskrav og forkunnskapskrav for emnet.på fastsatt måte og innen fastsatt frist melde fra om ønsket om å avlegge eksamen i emnet.Forutsatt at det er mulig å avlegge eksamen i emnet uten undervisningsopptak til emnet, blir personen privatist i emnet for semesteret.
+(1) En person som ønsker å avlegge eksamen i et emne uten undervisningsopptak til emnet og uten å ha gyldig studierett til et studieprogram hvor emnet kan inngå, må:
+
+- ha studiekompetanse for emnet.
+- fylle eventuelle spesielle opptakskrav og forkunnskapskrav for emnet.
+- på fastsatt måte og innen fastsatt frist melde fra om ønsket om å avlegge eksamen i emnet.
+
+Forutsatt at det er mulig å avlegge eksamen i emnet uten undervisningsopptak til emnet, blir personen privatist i emnet for semesteret.
 
 (2) En privatist må på fastsatt måte og innen fastsatt frist betale semesteravgift for semesteret, jf. lov og forskrift om studentsamskipnader.
 
@@ -569,7 +685,13 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 ### § 7-6. Krav til en eksamenskandidat mht. trekk, tilrettelegging og forfall til eksamen
 
-(1) En eksamenskandidat har anledning til å trekke seg fra eksamen på fastsatt måte. Dersom kandidatens eksamensmelding ikke skal bli registrert som et eksamensforsøk, må trekk fra eksamen skje senest 2 uker før følgende tidspunkt for start av eksamen:den aktuelle eksamensdatoførste eksamensdag ved flere eksamensdagerfristen for innlevering av semesteroppgave eller tilsvarendedato for utlevering av hjemmeeksamensoppgavefristen for siste innlevering ved mappelevering eller annen form for eksamen eller vurdering gjennom undervisningsperioden.
+(1) En eksamenskandidat har anledning til å trekke seg fra eksamen på fastsatt måte. Dersom kandidatens eksamensmelding ikke skal bli registrert som et eksamensforsøk, må trekk fra eksamen skje senest 2 uker før følgende tidspunkt for start av eksamen:
+
+- den aktuelle eksamensdato
+- første eksamensdag ved flere eksamensdager
+- fristen for innlevering av semesteroppgave eller tilsvarende
+- dato for utlevering av hjemmeeksamensoppgave
+- fristen for siste innlevering ved mappelevering eller annen form for eksamen eller vurdering gjennom undervisningsperioden.
 
 (2) En eksamenskandidat som har behov for tilrettelagt eksamen, må på fastsatt måte og innen fastsatt frist søke fakultetet om tilrettelegging. En eksamenskandidat som får behov for tilrettelagt eksamen etter fristen og kan dokumentere at behovet oppsto etter fristen, må sende søknad snarest mulig etter at behovet oppsto.
 
@@ -581,7 +703,20 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 (6) En eksamenskandidat som har levert besvarelse til eksamen, kan ikke unndra seg sensur.
 
-(7) En eksamenskandidat må gjøre seg kjent med hvilke hjelpemidler som kan benyttes til den enkelte eksamen, den ordningen for kontroll av hjelpemidler som gjelder for den enkelte eksamen og hva som anses som fusk/forsøk på fusk i tilknytning til bruk av hjelpemidler eller kilder for den enkelte eksamen.En eksamenskandidat kan mistenkes for fusk/forsøk på fusk hvis kandidaten utfører handlinger som bryter med reglene om gjennomføring av den enkelte eksamen og med de akademiske forventningene som stilles til kandidaten. Handlingen skal være egnet til å gi kandidaten en urettmessig fordel på eksamenen, men det er ikke krav om at kandidaten har brukt fordelen.Mistanke om fusk/forsøk på fusk kan oppstå hvis kandidaten for eksempel:lar være å gi opplysninger om kilder eller oppgir fiktive kildergir inntrykk av at besvarelsen er mer selvstendig enn den faktisk erhar tilgang til eller bruker hjelpemidler som ikke er tillattsamarbeider med andre på måter som ikke er tillattgjenbruker eget arbeid på måter som ikke er tillatthar urettmessig tilgang til eksamensmaterialet utenom eksamenI vurderingen av om en handling skal regnes som fusk/forsøk på fusk, skal universitetet ta hensyn til kandidatens studieerfaring og eksamenens studienivå samt til den informasjonen og opplæringen om kildebruk og akademisk redelighet kandidaten har hatt tilgang til.
+(7) En eksamenskandidat må gjøre seg kjent med hvilke hjelpemidler som kan benyttes til den enkelte eksamen, den ordningen for kontroll av hjelpemidler som gjelder for den enkelte eksamen og hva som anses som fusk/forsøk på fusk i tilknytning til bruk av hjelpemidler eller kilder for den enkelte eksamen.
+
+En eksamenskandidat kan mistenkes for fusk/forsøk på fusk hvis kandidaten utfører handlinger som bryter med reglene om gjennomføring av den enkelte eksamen og med de akademiske forventningene som stilles til kandidaten. Handlingen skal være egnet til å gi kandidaten en urettmessig fordel på eksamenen, men det er ikke krav om at kandidaten har brukt fordelen.
+
+Mistanke om fusk/forsøk på fusk kan oppstå hvis kandidaten for eksempel:
+
+- lar være å gi opplysninger om kilder eller oppgir fiktive kilder
+- gir inntrykk av at besvarelsen er mer selvstendig enn den faktisk er
+- har tilgang til eller bruker hjelpemidler som ikke er tillatt
+- samarbeider med andre på måter som ikke er tillatt
+- gjenbruker eget arbeid på måter som ikke er tillatt
+- har urettmessig tilgang til eksamensmaterialet utenom eksamen
+
+I vurderingen av om en handling skal regnes som fusk/forsøk på fusk, skal universitetet ta hensyn til kandidatens studieerfaring og eksamenens studienivå samt til den informasjonen og opplæringen om kildebruk og akademisk redelighet kandidaten har hatt tilgang til.
 
 (8) For studieprogrammene i klinisk ernæring, medisin og odontologi er det ingen frist for å trekke seg fra eksamen. Manglende frammøte til eksamen uten gyldig forfall regnes ikke som et eksamensforsøk og utløser ikke rett til utsatt eller ny eksamen.
 
@@ -661,7 +796,28 @@ Fastsatt med hjemmel i [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-
 
 (3) Fakultetet selv kan fremme sak for nemnda for studentsaker om politiattester med merknad, jf. [uh-loven av 8. mars 2024 § 12-2](lov/2024-03-08-9/§12-2).
 
-(4) For utdanninger hvor det etter [uh-loven av 8. mars 2024 § 12-3](lov/2024-03-08-9/§12-3) skal foregå skikkethetsvurdering, skal fakultetet selv oppnevne en eller flere skikkethetsansvarlige for aktuelle utdanninger ved fakultetet. Rektor oppnevner medlemmer til skikkethetsnemnda ved Universitetet i Oslo.Ved Universitetet i Oslo skal det foregå skikkethetsvurdering i følgende utdanninger:Farmasi (femårig masterprogram)Klinisk ernæring (femårig masterprogram)Klinisk farmasi (erfaringsbasert masterprogram)Lektorprogrammet (femårig masterprogram)Lærevansker og særskilte behov i et system- og individperspektiv – påbygningsenhet (årsenhet)Medisin (seksårig profesjonsprogram)Odontologi (femårig masterprogram)Pedagogikk, studieretning pedagogisk-psykologisk rådgivning (toårig masterprogram)Praktisk-pedagogisk utdanning, alle varianter (ettårig videreutdanning)Praktisk-teologisk utdanning (ettårig videreutdanning)Profesjonsrettet master med integrert praktisk-pedagogisk utdanning (PPU) (toårig masterprogram)Psykologi (profesjon) (seksårig profesjonsprogram)Spesialistutdanning i odontologi, alle varianter (tre- eller femårig videreutdanning)Spesialpedagogikk (bachelorprogram)Spesialpedagogikk (masterprogram)Tannpleie (bachelorprogram)Teologi (profesjon) (seksårig profesjonsprogram)Teologi og pastoral praksis (toårig masterprogram).
+(4) For utdanninger hvor det etter [uh-loven av 8. mars 2024 § 12-3](lov/2024-03-08-9/§12-3) skal foregå skikkethetsvurdering, skal fakultetet selv oppnevne en eller flere skikkethetsansvarlige for aktuelle utdanninger ved fakultetet. Rektor oppnevner medlemmer til skikkethetsnemnda ved Universitetet i Oslo.
+
+Ved Universitetet i Oslo skal det foregå skikkethetsvurdering i følgende utdanninger:
+
+- Farmasi (femårig masterprogram)
+- Klinisk ernæring (femårig masterprogram)
+- Klinisk farmasi (erfaringsbasert masterprogram)
+- Lektorprogrammet (femårig masterprogram)
+- Lærevansker og særskilte behov i et system- og individperspektiv – påbygningsenhet (årsenhet)
+- Medisin (seksårig profesjonsprogram)
+- Odontologi (femårig masterprogram)
+- Pedagogikk, studieretning pedagogisk-psykologisk rådgivning (toårig masterprogram)
+- Praktisk-pedagogisk utdanning, alle varianter (ettårig videreutdanning)
+- Praktisk-teologisk utdanning (ettårig videreutdanning)
+- Profesjonsrettet master med integrert praktisk-pedagogisk utdanning (PPU) (toårig masterprogram)
+- Psykologi (profesjon) (seksårig profesjonsprogram)
+- Spesialistutdanning i odontologi, alle varianter (tre- eller femårig videreutdanning)
+- Spesialpedagogikk (bachelorprogram)
+- Spesialpedagogikk (masterprogram)
+- Tannpleie (bachelorprogram)
+- Teologi (profesjon) (seksårig profesjonsprogram)
+- Teologi og pastoral praksis (toårig masterprogram).
 
 (5) Fakultetet selv kan fremme sak for nemnda for studentsaker om uredelig opptreden og fusk, jf. [uh-loven av 8. mars 2024 § 12-4](lov/2024-03-08-9/§12-4).
 
@@ -685,7 +841,11 @@ Fastsatt med hjemmel i [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-
 
 ### § 10-1. Datoer og frister
 
-(1) Universitetsdirektøren fastsetter årlig før 1. februar følgende i nærmere regler til [§ 10-1](forskrift/2005-12-20-1798/§10-1):Nøyaktig dato for start og avslutning av kommende studieårs høst- og vårsemester, jf. [§ 4-1](forskrift/2005-12-20-1798/§4-1).Eksamensdato for examen philosophicum for kommende studieårs høst- og vårsemester, jf. [§ 5-2](forskrift/2005-12-20-1798/§5-2).Søknads-, betalings- og meldefristene som skal gjelde for kommende studieårs høst- og vårsemester, jf. [§ 7-1](forskrift/2005-12-20-1798/§7-1), [§ 7-4](forskrift/2005-12-20-1798/§7-4), [§ 7-5](forskrift/2005-12-20-1798/§7-5) og [§ 7-6](forskrift/2005-12-20-1798/§7-6).
+(1) Universitetsdirektøren fastsetter årlig før 1. februar følgende i nærmere regler til [§ 10-1](forskrift/2005-12-20-1798/§10-1):
+
+- Nøyaktig dato for start og avslutning av kommende studieårs høst- og vårsemester, jf. [§ 4-1](forskrift/2005-12-20-1798/§4-1).
+- Eksamensdato for examen philosophicum for kommende studieårs høst- og vårsemester, jf. [§ 5-2](forskrift/2005-12-20-1798/§5-2).
+- Søknads-, betalings- og meldefristene som skal gjelde for kommende studieårs høst- og vårsemester, jf. [§ 7-1](forskrift/2005-12-20-1798/§7-1), [§ 7-4](forskrift/2005-12-20-1798/§7-4), [§ 7-5](forskrift/2005-12-20-1798/§7-5) og [§ 7-6](forskrift/2005-12-20-1798/§7-6).
 
 (2) Universitetsdirektøren kan etter søknad dispensere fra fristene for betaling av semesteravgift (for programstudenter, enkeltemnestudenter og privatister) og for bekreftelse av utdanningsplan (for programstudenter). Fakultetet kan etter søknad dispensere fra øvrige frister i [§ 7](forskrift/2005-12-20-1798/§7).
 
@@ -713,7 +873,11 @@ Fastsatt med hjemmel i [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-
 
 ### § 10-3. Overgangsregler
 
-(1) For studier som er påbegynt før vårsemesteret 2006, kan fakultetet etter nærmere vurdering gi overgangstid dersom enkeltbestemmelser i forskriften her får en utilsiktet virkning for en student i forhold til bestemmelser i følgende tidligere forskrifter:[Forskrift 6. mai 2003 nr. 1077](forskrift/2003-05-06-1077) om studier og eksamener ved Universitetet i OsloForskrift for studiene ved Universitetet i Oslo, fastsatt første gang [11. mars 1997 nr. 243](forskrift/1997-03-11-243) og på ny [20. desember 2006 nr. 1643](forskrift/2006-12-20-1643).Forskrift om avleggelse og gjennomføring av eksamener og prøver ved Universitetet i Oslo, fastsatt første gang [11. februar 1997 nr. 232](forskrift/1997-02-11-232) og på ny [20. desember 2006 nr. 1644](forskrift/2006-12-20-1644).
+(1) For studier som er påbegynt før vårsemesteret 2006, kan fakultetet etter nærmere vurdering gi overgangstid dersom enkeltbestemmelser i forskriften her får en utilsiktet virkning for en student i forhold til bestemmelser i følgende tidligere forskrifter:
+
+- [Forskrift 6. mai 2003 nr. 1077](forskrift/2003-05-06-1077) om studier og eksamener ved Universitetet i Oslo
+- Forskrift for studiene ved Universitetet i Oslo, fastsatt første gang [11. mars 1997 nr. 243](forskrift/1997-03-11-243) og på ny [20. desember 2006 nr. 1643](forskrift/2006-12-20-1643).
+- Forskrift om avleggelse og gjennomføring av eksamener og prøver ved Universitetet i Oslo, fastsatt første gang [11. februar 1997 nr. 232](forskrift/1997-02-11-232) og på ny [20. desember 2006 nr. 1644](forskrift/2006-12-20-1644).
 
 (2) Det juridiske fakultet selv fastsetter forskrift om overgang i jusstudiet fra studieordningen av 1996 m.m. til masterstudiet.
 

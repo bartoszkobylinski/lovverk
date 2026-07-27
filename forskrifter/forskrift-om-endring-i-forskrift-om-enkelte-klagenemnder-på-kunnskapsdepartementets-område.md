@@ -15,7 +15,7 @@ xml_hash: "bf0a9564ec7839526f96464d70feb5ec1fdfcc270bd096a60abf75876fe9c38e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ I [forskrift 2. juli 2025 nr. 1462 om enkelte klagenemnder på Kunnskapsdepartem
 
 [§ 1 første ledd](forskrift/2025-07-02-1462/§1/ledd/1) skal lyde:
 
-Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:NOKUTs klagenemndKlagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenningLånekassens klagenemnd.
+Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:
+
+1. NOKUTs klagenemnd
+2. Klagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning
+3. Lånekassens klagenemnd.
 
 [§ 6](forskrift/2025-07-02-1462/§6) nytt andre ledd skal lyde:
 

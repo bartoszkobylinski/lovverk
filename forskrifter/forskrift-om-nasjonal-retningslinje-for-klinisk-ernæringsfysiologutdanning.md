@@ -48,7 +48,14 @@ Utdanningen gir kompetanse til arbeid i spesialist- og primærhelsetjenesten. Vi
 
 ### § 3. Kompetanseområder
 
-Klinisk ernæringsfysiologutdanning skal gi læringsutbytte i tråd med kravene i kapittel 2–7 under følgende kompetanseområder:Basalmedisinsk kunnskap og ernæringsfysiologiKlinisk ernæring og prosess for ernæringsbehandlingKunnskapsbasert ernæringsarbeidSelvstendighet, ansvarlighet og kvalitetsbevissthetKommunikasjon og samhandlingProfesjonalitet.
+Klinisk ernæringsfysiologutdanning skal gi læringsutbytte i tråd med kravene i kapittel 2–7 under følgende kompetanseområder:
+
+- Basalmedisinsk kunnskap og ernæringsfysiologi
+- Klinisk ernæring og prosess for ernæringsbehandling
+- Kunnskapsbasert ernæringsarbeid
+- Selvstendighet, ansvarlighet og kvalitetsbevissthet
+- Kommunikasjon og samhandling
+- Profesjonalitet.
 
 Læringsutbyttebeskrivelsene i [§ 13](forskrift/2025-07-04-1473/§13) a, b, c og d, [§ 14](forskrift/2025-07-04-1473/§14) b og d, [§ 15](forskrift/2025-07-04-1473/§15) a og d, [§ 17](forskrift/2025-07-04-1473/§17) c og d, [§ 18](forskrift/2025-07-04-1473/§18) a og b, [§ 19](forskrift/2025-07-04-1473/§19) c og [§ 21](forskrift/2025-07-04-1473/§21) c er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -58,85 +65,186 @@ Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjø
 
 ### § 4. Basalmedisinsk kunnskap og ernæringsfysiologi – Kunnskap
 
-Kandidatenhar avansert kunnskap om menneskekroppen fra molekyler, celler og organer til hele organismen, dens oppbygging, funksjoner og prosesserhar avansert kunnskap innenfor grunnleggende biologiske mekanismer og hvordan menneskets funksjoner reguleres, med spesiell vekt på det som har betydning for utvikling av sykdom eller skadehar avansert kunnskap om makro- og mikronæringsstoffers oppbygning, omsetning og virkning på kroppens funksjonerhar avansert kunnskap om energiomsetningen og betydningen av fysisk aktivitet ved ernæringsrelaterte tilstander og sykdommerhar avansert kunnskap innenfor appetittregulering og hvordan fysiologiske, psykologiske og sosiale faktorer og ytre stimuli påvirker sult, metthet og matinntakhar avansert kunnskap om matvarers oppbygning, egenskaper, bruksområder og innhold av næringsstoffer og deres betydning i kostholdethar avansert kunnskap om kostholdet og de vanligste religiøse og kulturelle kosthensynhar avansert kunnskap om årsak, forekomst, konsekvenser og behandling av feilernæring og de viktigste mangeltilstandene i Norgehar avansert kunnskap om årsak, forekomst, konsekvenser og behandling av ernæringsrelaterte sykdommer og tilstander til personer i alle aldre og livsfaserhar avansert kunnskap innenfor forebygging av de vanligste ikke-smittsomme sykdommer, og deres betydning for samfunnet, og variasjon i prevalens over tidhar inngående kunnskap om matvare- og næringsstoffanbefalinger og om grunnlaget for utarbeidelsen av kostråd til friske mennesker i livets ulike faserhar inngående kunnskap om standardkost, spesialkost og konsistenstilpasset kost på helseinstitusjoner og i helse- og omsorgstjenesten gis i hjemmetkan analysere kostholdet på individ-, gruppe- og befolkningsnivå opp mot anbefalinger og retningslinjer relevante i ernæringsarbeidetkan analysere sentrale ernæringsutfordringer globalt, og kjenner til de vanligste ernæringsrettede tiltak og strategierkan anvende kunnskap om human genetikk og vite hvordan genetiske sykdommer påvirker metabolismen.
+Kandidaten
+
+1. har avansert kunnskap om menneskekroppen fra molekyler, celler og organer til hele organismen, dens oppbygging, funksjoner og prosesser
+2. har avansert kunnskap innenfor grunnleggende biologiske mekanismer og hvordan menneskets funksjoner reguleres, med spesiell vekt på det som har betydning for utvikling av sykdom eller skade
+3. har avansert kunnskap om makro- og mikronæringsstoffers oppbygning, omsetning og virkning på kroppens funksjoner
+4. har avansert kunnskap om energiomsetningen og betydningen av fysisk aktivitet ved ernæringsrelaterte tilstander og sykdommer
+5. har avansert kunnskap innenfor appetittregulering og hvordan fysiologiske, psykologiske og sosiale faktorer og ytre stimuli påvirker sult, metthet og matinntak
+6. har avansert kunnskap om matvarers oppbygning, egenskaper, bruksområder og innhold av næringsstoffer og deres betydning i kostholdet
+7. har avansert kunnskap om kostholdet og de vanligste religiøse og kulturelle kosthensyn
+8. har avansert kunnskap om årsak, forekomst, konsekvenser og behandling av feilernæring og de viktigste mangeltilstandene i Norge
+9. har avansert kunnskap om årsak, forekomst, konsekvenser og behandling av ernæringsrelaterte sykdommer og tilstander til personer i alle aldre og livsfaser
+10. har avansert kunnskap innenfor forebygging av de vanligste ikke-smittsomme sykdommer, og deres betydning for samfunnet, og variasjon i prevalens over tid
+11. har inngående kunnskap om matvare- og næringsstoffanbefalinger og om grunnlaget for utarbeidelsen av kostråd til friske mennesker i livets ulike faser
+12. har inngående kunnskap om standardkost, spesialkost og konsistenstilpasset kost på helseinstitusjoner og i helse- og omsorgstjenesten gis i hjemmet
+13. kan analysere kostholdet på individ-, gruppe- og befolkningsnivå opp mot anbefalinger og retningslinjer relevante i ernæringsarbeidet
+14. kan analysere sentrale ernæringsutfordringer globalt, og kjenner til de vanligste ernæringsrettede tiltak og strategier
+15. kan anvende kunnskap om human genetikk og vite hvordan genetiske sykdommer påvirker metabolismen.
 
 ### § 5. Basalmedisinsk kunnskap og ernæringsfysiologi – Ferdigheter
 
-Kandidatenkan bruke kunnskap om immunforsvaret for å gi ernæringsbehandling ved infeksjonssykdommer, autoimmune sykdommer, allergier og intoleranserkan bruke kunnskap om matkulturer og mattradisjoner fra urbefolkning og de største innvandrergruppene i Norge og kan kommunisere og gi kulturtilpasset kostveiledning til dissekan bruke kunnskap om farmakologi til å forklare funksjoner, interaksjoner, bivirkninger og kontraindikasjoner av legemidler som er relevante innen ernæringkan bruke kunnskap om mikroorganismer og deres innflytelse på helse og sykdomkan bruke kunnskap innen psykologi for å gjenkjenne normal og forstyrret spiseatferd, samt kunne bidra i tverrfaglig behandling innen rus og psykisk helsekan analysere og forholde seg kritisk til kostholdet på individ-, gruppe- og befolkningsnivå i lys av bærekraft og miljøhensynkan analysere og forholde seg kritisk til hvordan det helsefremmende og forebyggende ernæringsarbeidet og -politikken er utviklet og organisert nasjonalt og internasjonalt.
+Kandidaten
+
+1. kan bruke kunnskap om immunforsvaret for å gi ernæringsbehandling ved infeksjonssykdommer, autoimmune sykdommer, allergier og intoleranser
+2. kan bruke kunnskap om matkulturer og mattradisjoner fra urbefolkning og de største innvandrergruppene i Norge og kan kommunisere og gi kulturtilpasset kostveiledning til disse
+3. kan bruke kunnskap om farmakologi til å forklare funksjoner, interaksjoner, bivirkninger og kontraindikasjoner av legemidler som er relevante innen ernæring
+4. kan bruke kunnskap om mikroorganismer og deres innflytelse på helse og sykdom
+5. kan bruke kunnskap innen psykologi for å gjenkjenne normal og forstyrret spiseatferd, samt kunne bidra i tverrfaglig behandling innen rus og psykisk helse
+6. kan analysere og forholde seg kritisk til kostholdet på individ-, gruppe- og befolkningsnivå i lys av bærekraft og miljøhensyn
+7. kan analysere og forholde seg kritisk til hvordan det helsefremmende og forebyggende ernæringsarbeidet og -politikken er utviklet og organisert nasjonalt og internasjonalt.
 
 ### § 6. Basalmedisinsk kunnskap og ernæringsfysiologi – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å gi kostråd til personer i ulike livsfaser og funksjonsnivåer, samt befolkningsgrupper med særskilte kostvaner.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å gi kostråd til personer i ulike livsfaser og funksjonsnivåer, samt befolkningsgrupper med særskilte kostvaner.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet klinisk ernæring og prosess for ernæringsbehandling
 
 ### § 7. Klinisk ernæring og prosess for ernæringsbehandling – Kunnskap
 
-Kandidatenhar avansert kunnskap innenfor stegene i ernæringsbehandlingsprosessen, herunder kartlegging, diagnose, intervensjon og oppfølging, den tilhørende modellen og terminologienhar avansert kunnskap innenfor diagnosespesifikk ernæringsbehandlinghar avansert kunnskap om medisinsk ernæringsbehandling ved komplekse ernæringsrelaterte problemstillinger og kritisk sykdomhar inngående kunnskap om metoder for dokumentasjon, krav til konfidensialitet i alle praksisfelt og juridiske og etiske aspekter ved journalføringkan anvende kunnskap om metoder for endring av kosthold på gruppe- og befolkningsnivå samt metoder for evaluering av folkehelseintervensjon.
+Kandidaten
+
+1. har avansert kunnskap innenfor stegene i ernæringsbehandlingsprosessen, herunder kartlegging, diagnose, intervensjon og oppfølging, den tilhørende modellen og terminologien
+2. har avansert kunnskap innenfor diagnosespesifikk ernæringsbehandling
+3. har avansert kunnskap om medisinsk ernæringsbehandling ved komplekse ernæringsrelaterte problemstillinger og kritisk sykdom
+4. har inngående kunnskap om metoder for dokumentasjon, krav til konfidensialitet i alle praksisfelt og juridiske og etiske aspekter ved journalføring
+5. kan anvende kunnskap om metoder for endring av kosthold på gruppe- og befolkningsnivå samt metoder for evaluering av folkehelseintervensjon.
 
 ### § 8. Klinisk ernæring og prosess for ernæringsbehandling – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til relevante verktøy for vurdering av risiko for underernæringkan analysere og forholde seg kritisk til metoder for ernæringskartlegging, inkludert kost og næringsinntak, antropometri, biokjemiske data og fysiske funnkan analysere eksisterende samfunnsmessige og individuelle faktorer som påvirker kostrelatert atferd og helse i ulike befolkningsgrupper, nasjonalt og internasjonaltkan analysere et sammensatt sykdomsbilde og gi tilpasset og målrettet medisinsk ernæringsbehandling, -oppfølging og monitoreringkan bruke innsamlet informasjon og sammenlikne med kriterier, anbefalinger og retningslinjer, og anvende dette til å stille en ernæringsdiagnosekan bruke kunnskap om ernæringskartlegging og diagnose til å gjennomføre en ernæringsintervensjonkan bruke relevante medisinske ernæringsprodukter, herunder valg og dosering av næringsdrikker, sondeernæring og intravenøs ernæringkan gjennomføre persontilpasset ernæringsbehandling ved genetiske sykdommerkan bruke relevante metoder for å følge opp og evaluere ernæringsstatus hos ulike brukere av helsetjenester og grupper av pasienterkan bruke kunnskap om måltidsproduksjon og måltidsservice på helseinstitusjoner og når helse- og omsorgstjenester gis i hjemmet.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til relevante verktøy for vurdering av risiko for underernæring
+2. kan analysere og forholde seg kritisk til metoder for ernæringskartlegging, inkludert kost og næringsinntak, antropometri, biokjemiske data og fysiske funn
+3. kan analysere eksisterende samfunnsmessige og individuelle faktorer som påvirker kostrelatert atferd og helse i ulike befolkningsgrupper, nasjonalt og internasjonalt
+4. kan analysere et sammensatt sykdomsbilde og gi tilpasset og målrettet medisinsk ernæringsbehandling, -oppfølging og monitorering
+5. kan bruke innsamlet informasjon og sammenlikne med kriterier, anbefalinger og retningslinjer, og anvende dette til å stille en ernæringsdiagnose
+6. kan bruke kunnskap om ernæringskartlegging og diagnose til å gjennomføre en ernæringsintervensjon
+7. kan bruke relevante medisinske ernæringsprodukter, herunder valg og dosering av næringsdrikker, sondeernæring og intravenøs ernæring
+8. kan gjennomføre persontilpasset ernæringsbehandling ved genetiske sykdommer
+9. kan bruke relevante metoder for å følge opp og evaluere ernæringsstatus hos ulike brukere av helsetjenester og grupper av pasienter
+10. kan bruke kunnskap om måltidsproduksjon og måltidsservice på helseinstitusjoner og når helse- og omsorgstjenester gis i hjemmet.
 
 ### § 9. Klinisk ernæring og prosess for ernæringsbehandling – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å gjennomføre ernæringsbehandling i alle aldre og livsfaser innen somatikk og psykisk helsekan anvende sine kunnskaper og ferdigheter til å planlegge, gjennomføre og evaluere helsefremmende og forebyggende ernæringstiltak i ulike befolkningsgrupper.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å gjennomføre ernæringsbehandling i alle aldre og livsfaser innen somatikk og psykisk helse
+2. kan anvende sine kunnskaper og ferdigheter til å planlegge, gjennomføre og evaluere helsefremmende og forebyggende ernæringstiltak i ulike befolkningsgrupper.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet kunnskapsbasert ernæringsarbeid
 
 ### § 10. Kunnskapsbasert ernæringsarbeid – Kunnskap
 
-Kandidatenhar inngående kunnskap om relevante forskningsmetoder innen basal-, klinisk-, og epidemiologisk kostholds- og ernæringsforskning, inkludert fortolkning av resultaterhar inngående kunnskap om prinsipper for systematisk kunnskapsoppsummering innen kostholds- og ernæringsforskning.
+Kandidaten
+
+1. har inngående kunnskap om relevante forskningsmetoder innen basal-, klinisk-, og epidemiologisk kostholds- og ernæringsforskning, inkludert fortolkning av resultater
+2. har inngående kunnskap om prinsipper for systematisk kunnskapsoppsummering innen kostholds- og ernæringsforskning.
 
 ### § 11. Kunnskapsbasert ernæringsarbeid – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til egen og andres kostholds- og ernæringsforskning og diskutere overførbarhet og relevans for egen praksiskan analysere og forholde seg kritisk til ernæringsfaglige problemstillinger og trender i media, og vurdere disse opp mot kunnskapsbasert ernæringsarbeidkan bruke relevante metoder for datainnsamling og statistisk analyse innen kostholds- og ernæringsforskning på en selvstendig måtekan bruke relevante metoder for å innhente pasient- og brukerinnsikt for å utvikle ernæringsfagetkan gjennomføre et selvstendig, avgrenset forsknings- eller utviklingsprosjekt under veiledning og i tråd med gjeldene forskningsetiske normer for å undersøke sammenhengen mellom kosthold, helse og sykdom.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til egen og andres kostholds- og ernæringsforskning og diskutere overførbarhet og relevans for egen praksis
+2. kan analysere og forholde seg kritisk til ernæringsfaglige problemstillinger og trender i media, og vurdere disse opp mot kunnskapsbasert ernæringsarbeid
+3. kan bruke relevante metoder for datainnsamling og statistisk analyse innen kostholds- og ernæringsforskning på en selvstendig måte
+4. kan bruke relevante metoder for å innhente pasient- og brukerinnsikt for å utvikle ernæringsfaget
+5. kan gjennomføre et selvstendig, avgrenset forsknings- eller utviklingsprosjekt under veiledning og i tråd med gjeldene forskningsetiske normer for å undersøke sammenhengen mellom kosthold, helse og sykdom.
 
 ### § 12. Kunnskapsbasert ernæringsarbeid – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å drive kunnskapsbasert ernæringspraksiskan anvende sine kunnskaper og ferdigheter til å utarbeide og oppdatere prosedyrer og rutiner ved ernæringsrelaterte tilstander og sykdommerkan bidra til fag- og kunnskapsutvikling innen ernæringsfaget, og bistå i forskningsprosjekter om sammenhengen mellom kosthold, helse og sykdom.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å drive kunnskapsbasert ernæringspraksis
+2. kan anvende sine kunnskaper og ferdigheter til å utarbeide og oppdatere prosedyrer og rutiner ved ernæringsrelaterte tilstander og sykdommer
+3. kan bidra til fag- og kunnskapsutvikling innen ernæringsfaget, og bistå i forskningsprosjekter om sammenhengen mellom kosthold, helse og sykdom.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet selvstendighet, ansvarlighet og kvalitetsbevissthet
 
 ### § 13. Selvstendighet, ansvarlighet og kvalitetsbevissthet – Kunnskap
 
-Kandidatenhar kunnskap om barn og unge og er en utøver som ivaretar deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter, deriblant samiske barns rett til å bruke eget språk og kulturhar kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten skal kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov.har kunnskap om samers rettigheter, og forståelse for samenes status som urfolk og deres matvaner og tradisjonerhar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder og bidra til å sikre likeverdige tjenester innen klinisk ernæring for alle grupper i samfunnet.
+Kandidaten
+
+1. har kunnskap om barn og unge og er en utøver som ivaretar deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter, deriblant samiske barns rett til å bruke eget språk og kultur
+2. har kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten skal kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov.
+3. har kunnskap om samers rettigheter, og forståelse for samenes status som urfolk og deres matvaner og tradisjoner
+4. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder og bidra til å sikre likeverdige tjenester innen klinisk ernæring for alle grupper i samfunnet.
 
 ### § 14. Selvstendighet, ansvarlighet og kvalitetsbevissthet – Ferdigheter
 
-Kandidatenkan bruke relevante metoder innen organisering og ledelse i eget arbeid og til å jobbe med enkeltindivider, grupper og samfunnkan bruke relevante metoder for å oppdage risiko for uønskede hendelser og systematisk følge opp dissekan bruke relevante metoder innen teknologi til ansvarlig innsamling og bruk av data til ernæringsfaglig oppdatering, rapportering og kvalitetsforbedringsarbeidkan bruke relevante metoder innen digital kompetanse innenfor e-helse og bistå i utviklingen og bruk av egnet teknologi både på individ-, gruppe og systemnivå, herunder ivareta digital sikkerhet.
+Kandidaten
+
+1. kan bruke relevante metoder innen organisering og ledelse i eget arbeid og til å jobbe med enkeltindivider, grupper og samfunn
+2. kan bruke relevante metoder for å oppdage risiko for uønskede hendelser og systematisk følge opp disse
+3. kan bruke relevante metoder innen teknologi til ansvarlig innsamling og bruk av data til ernæringsfaglig oppdatering, rapportering og kvalitetsforbedringsarbeid
+4. kan bruke relevante metoder innen digital kompetanse innenfor e-helse og bistå i utviklingen og bruk av egnet teknologi både på individ-, gruppe og systemnivå, herunder ivareta digital sikkerhet.
 
 ### § 15. Selvstendighet, ansvarlighet og kvalitetsbevissthet – Generell kompetanse
 
-Kandidatenkan tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis. Kandidaten skal også kunne dokumentere og formidle sin faglige kunnskapkan anvende sine kunnskaper og ferdigheter i selvstendig fagutøvelse og prioritering av sine arbeidsoppgaver som klinisk ernæringsfysiologkan anvende sine kunnskaper og ferdigheter til å oppdage og henvise videre barn og unge utsatt for eller som står i fare for å bli utsatt for omsorgssvikt, vold og/eller overgrepkan bidra til nytenkning og innovasjonsprosesser innen klinisk ernæring og bidra til tjenesteutvikling, innovasjon, og systematiske arbeidsprosesser og kontinuerlig kvalitetsforbedring.
+Kandidaten
+
+1. kan tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis. Kandidaten skal også kunne dokumentere og formidle sin faglige kunnskap
+2. kan anvende sine kunnskaper og ferdigheter i selvstendig fagutøvelse og prioritering av sine arbeidsoppgaver som klinisk ernæringsfysiolog
+3. kan anvende sine kunnskaper og ferdigheter til å oppdage og henvise videre barn og unge utsatt for eller som står i fare for å bli utsatt for omsorgssvikt, vold og/eller overgrep
+4. kan bidra til nytenkning og innovasjonsprosesser innen klinisk ernæring og bidra til tjenesteutvikling, innovasjon, og systematiske arbeidsprosesser og kontinuerlig kvalitetsforbedring.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet kommunikasjon og samhandling
 
 ### § 16. Kommunikasjon og samhandling – Kunnskap
 
-Kandidatenhar avansert kunnskap innenfor kommunikasjon, samhandling og samarbeid for å etablere tillit og ivareta en god relasjon og fremme motivasjon med brukere, pasienter og pårørende, og om hvordan språk og kultur påvirker dettehar inngående kunnskap om pasientforløp, og hvordan pasienter og brukere veksler mellom primær- og spesialisthelsetjenesten i løpet av en sykdomsperiodehar inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorghar kunnskap om kompetanse, arbeidsoppgaver og ansvarsområde hos samarbeidende profesjoner.
+Kandidaten
+
+1. har avansert kunnskap innenfor kommunikasjon, samhandling og samarbeid for å etablere tillit og ivareta en god relasjon og fremme motivasjon med brukere, pasienter og pårørende, og om hvordan språk og kultur påvirker dette
+2. har inngående kunnskap om pasientforløp, og hvordan pasienter og brukere veksler mellom primær- og spesialisthelsetjenesten i løpet av en sykdomsperiode
+3. har inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg
+4. har kunnskap om kompetanse, arbeidsoppgaver og ansvarsområde hos samarbeidende profesjoner.
 
 ### § 17. Kommunikasjon og samhandling – Ferdigheter
 
-Kandidatenkan bruke relevante metoder for tilpasset kommunikasjon inkludert digitale plattformer avhengig av mottakerens funksjonsevner og forhåndskunnskaper innen kosthold og ernæringkan bruke relevante metoder i helsepedagogikk i undervisning og veiledning av brukere, pasienter, pårørende og andre helsepersonellkan gjennomføre kostveiledning, blant annet med bruk av relevante metoder innen pasientsentrerte konsultasjonsteknikker, av brukere, pasienter og pårørende i lærings-, mestrings- og endringsprosesserkan gjennomføre samhandling tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, samt initiere til slik samhandlingkan gjennomføre kostveiledning tilpasset mottakerens helsekompetanse, sosioøkonomiske status og kulturelle bakgrunn.
+Kandidaten
+
+1. kan bruke relevante metoder for tilpasset kommunikasjon inkludert digitale plattformer avhengig av mottakerens funksjonsevner og forhåndskunnskaper innen kosthold og ernæring
+2. kan bruke relevante metoder i helsepedagogikk i undervisning og veiledning av brukere, pasienter, pårørende og andre helsepersonell
+3. kan gjennomføre kostveiledning, blant annet med bruk av relevante metoder innen pasientsentrerte konsultasjonsteknikker, av brukere, pasienter og pårørende i lærings-, mestrings- og endringsprosesser
+4. kan gjennomføre samhandling tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, samt initiere til slik samhandling
+5. kan gjennomføre kostveiledning tilpasset mottakerens helsekompetanse, sosioøkonomiske status og kulturelle bakgrunn.
 
 ### § 18. Kommunikasjon og samhandling – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter i relasjons-, kommunikasjons- og veiledningskompetanse til å forstå og samhandle med brukere, pasienter og pårørendekan anvende sine kunnskaper og ferdigheter til å forstå sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkluderingkan formidle kunnskapsbasert praksis om kosthold og ernæring til pasienter, brukere, pårørende og andre helseprofesjoner på en vitenskapelig men lettforståelig måtekan kommunisere kostråd til hele befolkningen eller til grupper av befolkningen som en del av helsefremmende og forebyggende ernæringsarbeid.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter i relasjons-, kommunikasjons- og veiledningskompetanse til å forstå og samhandle med brukere, pasienter og pårørende
+2. kan anvende sine kunnskaper og ferdigheter til å forstå sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
+3. kan formidle kunnskapsbasert praksis om kosthold og ernæring til pasienter, brukere, pårørende og andre helseprofesjoner på en vitenskapelig men lettforståelig måte
+4. kan kommunisere kostråd til hele befolkningen eller til grupper av befolkningen som en del av helsefremmende og forebyggende ernæringsarbeid.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet profesjonalitet
 
 ### § 19. Profesjonalitet – Kunnskaper
 
-Kandidatenhar inngående kunnskap om kliniske ernæringsfysiologers viktigste ansvarsområder og arbeidsmetoder i primær- og spesialisthelsetjenestenhar inngående kunnskap om ernæringsarbeid sin plass og organisering i helse- og omsorgssektorenkan anvende kunnskap om helse- og velferdssystemet, lover, regelverk og ernæringsrelevante veiledere i sin tjenesteutøvelse og forholder seg til helse- og sosialpolitikk.
+Kandidaten
+
+1. har inngående kunnskap om kliniske ernæringsfysiologers viktigste ansvarsområder og arbeidsmetoder i primær- og spesialisthelsetjenesten
+2. har inngående kunnskap om ernæringsarbeid sin plass og organisering i helse- og omsorgssektoren
+3. kan anvende kunnskap om helse- og velferdssystemet, lover, regelverk og ernæringsrelevante veiledere i sin tjenesteutøvelse og forholder seg til helse- og sosialpolitikk.
 
 ### § 20. Profesjonalitet – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til ulike informasjonskilder og teknologier og reflektere over effekten av disse på ernæring og helsekan analysere eksisterende overordnede ernæringsfaglige problemstillinger og bidra i strategisk arbeid på ulike nivåer innen helse- og omsorgssektoren og samfunnet for øvrig.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til ulike informasjonskilder og teknologier og reflektere over effekten av disse på ernæring og helse
+2. kan analysere eksisterende overordnede ernæringsfaglige problemstillinger og bidra i strategisk arbeid på ulike nivåer innen helse- og omsorgssektoren og samfunnet for øvrig.
 
 ### § 21. Profesjonalitet – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å jobbe som klinisk ernæringsfysiolog i samsvar med akademisk standard og utvikle sin kompetanse innen klinisk ernæringkan anvende sine kunnskaper og ferdigheter til å reflektere over egen rolle og praksis som klinisk ernæringsfysiolog, også i tverrfaglige teamkan analysere, reflektere over og håndtere etiske problemstillinger i sitt arbeid som klinisk ernæringsfysiolog i tråd med yrkesetiske retningslinjer.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å jobbe som klinisk ernæringsfysiolog i samsvar med akademisk standard og utvikle sin kompetanse innen klinisk ernæring
+2. kan anvende sine kunnskaper og ferdigheter til å reflektere over egen rolle og praksis som klinisk ernæringsfysiolog, også i tverrfaglige team
+3. kan analysere, reflektere over og håndtere etiske problemstillinger i sitt arbeid som klinisk ernæringsfysiolog i tråd med yrkesetiske retningslinjer.
 
 ## Kapittel 8. Studiets oppbygning og praksisstudier
 

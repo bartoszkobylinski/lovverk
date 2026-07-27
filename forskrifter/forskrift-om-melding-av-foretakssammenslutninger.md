@@ -40,9 +40,28 @@ Melder plikter å gi korrekte og fullstendige opplysninger. En melder som forset
 
 ## § 3. Forenklet melding
 
-Følgende foretakssammenslutninger kan inngi en forenklet melding:Fellesforetak, når fellesforetaket ikke eller kun i ubetydelig omfang, driver eller forventes å ville drive virksomhet i Norge. Dette er tilfelle nårfellesforetakets omsetning og/eller omsetningen til virksomhetsområder overført til fellesforetaket er mindre enn 100 millioner kroner i Norge, ogaktiva som overføres til fellesforetaket har en samlet verdi på under 100 millioner kroner i Norge.Foretakssammenslutninger hvor en part overtar enekontroll over et foretak som den før foretakssammenslutningen kontrollerte sammen med en eller flere andre parter.Foretakssammenslutninger hvor et eller flere foretak fusjonerer, eller et eller flere foretak eller personer erverver ene- eller felleskontroll over et annet foretak, og hvoringen av partene er aktive på det samme produktmarked og det samme geografiske marked (ingen horisontale overlapp) eller på et produktmarked i et forutgående eller etterfølgende ledd til et produktmarked, hvor en annen part opererer (ingen vertikale overlapp), ellerto eller flere av partene er aktive på det samme produktmarked og geografiske marked (horisontalt overlapp), men hvor partenes samlede markedsandel ikke overstiger 20 prosent,eller en eller flere av partene opererer på et produktmarked i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer (vertikalt overlapp), men hvor partene verken enkeltvis eller samlet har en markedsandel som overstiger 30 prosent.
+Følgende foretakssammenslutninger kan inngi en forenklet melding:
 
-Forenklet melding til Konkurransetilsynet skal inneholdenavn og adresse på partene i fusjonen eller den eller de som overtar kontroll,opplysninger om foretakssammenslutningens art,beskrivelse av de involverte foretak og foretak i samme konsern, herunder foretakenes virksomhetsområder,navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretak og foretak i samme konsern er aktive på det samme produktmarked og det samme geografiske marked (horisontalt overlapp),årsberetning og årsregnskap for de involverte foretakene og foretak i samme konsern, dersom disse ikke er offentlig tilgjengelige,en redegjørelse for at vilkårene for inngivelse av forenklet melding etter første ledd er oppfylt, ogfor foretakssammenslutninger som nevnt i første ledd nr. 1, skal det opplyses om morselskapene fortsatt er virksomme på det samme markedet som fellesforetaket eller på et tidligere eller senere ledd i omsetningskjeden eller på et tilgrensende marked.
+1. Fellesforetak, når fellesforetaket ikke eller kun i ubetydelig omfang, driver eller forventes å ville drive virksomhet i Norge. Dette er tilfelle når
+
+   1. fellesforetakets omsetning og/eller omsetningen til virksomhetsområder overført til fellesforetaket er mindre enn 100 millioner kroner i Norge, og
+   2. aktiva som overføres til fellesforetaket har en samlet verdi på under 100 millioner kroner i Norge.
+2. Foretakssammenslutninger hvor en part overtar enekontroll over et foretak som den før foretakssammenslutningen kontrollerte sammen med en eller flere andre parter.
+3. Foretakssammenslutninger hvor et eller flere foretak fusjonerer, eller et eller flere foretak eller personer erverver ene- eller felleskontroll over et annet foretak, og hvor
+
+   1. ingen av partene er aktive på det samme produktmarked og det samme geografiske marked (ingen horisontale overlapp) eller på et produktmarked i et forutgående eller etterfølgende ledd til et produktmarked, hvor en annen part opererer (ingen vertikale overlapp), eller
+   2. to eller flere av partene er aktive på det samme produktmarked og geografiske marked (horisontalt overlapp), men hvor partenes samlede markedsandel ikke overstiger 20 prosent,
+   3. eller en eller flere av partene opererer på et produktmarked i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer (vertikalt overlapp), men hvor partene verken enkeltvis eller samlet har en markedsandel som overstiger 30 prosent.
+
+Forenklet melding til Konkurransetilsynet skal inneholde
+
+1. navn og adresse på partene i fusjonen eller den eller de som overtar kontroll,
+2. opplysninger om foretakssammenslutningens art,
+3. beskrivelse av de involverte foretak og foretak i samme konsern, herunder foretakenes virksomhetsområder,
+4. navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretak og foretak i samme konsern er aktive på det samme produktmarked og det samme geografiske marked (horisontalt overlapp),
+5. årsberetning og årsregnskap for de involverte foretakene og foretak i samme konsern, dersom disse ikke er offentlig tilgjengelige,
+6. en redegjørelse for at vilkårene for inngivelse av forenklet melding etter første ledd er oppfylt, og
+7. for foretakssammenslutninger som nevnt i første ledd nr. 1, skal det opplyses om morselskapene fortsatt er virksomme på det samme markedet som fellesforetaket eller på et tidligere eller senere ledd i omsetningskjeden eller på et tilgrensende marked.
 
 Konkurransetilsynet kan i den enkelte sak lempe på kravene til forenklet melding som følger av annet ledd.
 
@@ -64,11 +83,25 @@ Ved et erverv av kontroll er de involverte foretak det eller de foretak, eller d
 
 Begrepet omsetning i [konkurranseloven § 18](lov/2004-03-05-12/§18) annet ledd tilsvarer uttrykket salgsinntekt i [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap mv. (regnskapsloven). Forskrifter som utfyller eller fraviker bestemmelsene i regnskapsloven gis tilsvarende anvendelse. For foretak som er unntatt fra reglene i [regnskapsloven kapittel 6](lov/1998-07-17-56/kap6), skal årlig omsetning som hovedregel tilsvare summen av de varer og tjenester som er solgt som ledd i foretakets alminnelige virksomhet i løpet av året.
 
-Et involvert foretaks omsetning etter [konkurranseloven § 18](lov/2004-03-05-12/§18) annet ledd skal beregnes som summen av omsetningen idet involverte foretak,foretak hvor det involverte foretak direkte eller indirekteeier mer enn halvparten av kapitalen eller driftskapitalen,kan utøve mer enn halvparten av stemmerettighetene,kan utnevne mer enn halvparten av medlemmene i foretakets kontrollorgan eller administrasjonsorgan eller i de organer som rettslig representerer foretaket, ellerhar rett til å lede foretakets forretninger,foretak som har rettigheter eller innflytelse som nevnt i bokstav b i et involvert foretak,foretak hvor foretak som nevnt i bokstav c har rettigheter eller innflytelse som nevnt i bokstav b, ogforetak hvor to eller flere foretak som nevnt i bokstav a til d i fellesskap har rettigheter eller innflytelse som nevnt i bokstav b.
+Et involvert foretaks omsetning etter [konkurranseloven § 18](lov/2004-03-05-12/§18) annet ledd skal beregnes som summen av omsetningen i
+
+1. det involverte foretak,
+2. foretak hvor det involverte foretak direkte eller indirekte
+
+   1. eier mer enn halvparten av kapitalen eller driftskapitalen,
+   2. kan utøve mer enn halvparten av stemmerettighetene,
+   3. kan utnevne mer enn halvparten av medlemmene i foretakets kontrollorgan eller administrasjonsorgan eller i de organer som rettslig representerer foretaket, eller
+   4. har rett til å lede foretakets forretninger,
+3. foretak som har rettigheter eller innflytelse som nevnt i bokstav b i et involvert foretak,
+4. foretak hvor foretak som nevnt i bokstav c har rettigheter eller innflytelse som nevnt i bokstav b, og
+5. foretak hvor to eller flere foretak som nevnt i bokstav a til d i fellesskap har rettigheter eller innflytelse som nevnt i bokstav b.
 
 Det skal ikke tas hensyn til omsetning mellom foretakene nevnt i annet ledd.
 
-Dersom de involverte foretak i fellesskap har rettigheter eller innflytelse som nevnt i annet ledd bokstav b, skal det ved beregningen av de involverte foretaks samlede omsetningikke tas hensyn til omsetning mellom fellesforetaket og hvert av de involverte foretak, eller ethvert annet foretak med en tilknytning til et involvert foretak som nevnt første ledd bokstav b til e,tas hensyn til omsetning mellom fellesforetaket og et tredje foretak. Denne omsetningen skal fordeles likt mellom de involverte foretak.
+Dersom de involverte foretak i fellesskap har rettigheter eller innflytelse som nevnt i annet ledd bokstav b, skal det ved beregningen av de involverte foretaks samlede omsetning
+
+1. ikke tas hensyn til omsetning mellom fellesforetaket og hvert av de involverte foretak, eller ethvert annet foretak med en tilknytning til et involvert foretak som nevnt første ledd bokstav b til e,
+2. tas hensyn til omsetning mellom fellesforetaket og et tredje foretak. Denne omsetningen skal fordeles likt mellom de involverte foretak.
 
 ## § 6. Kunngjøring
 

@@ -42,13 +42,24 @@ Arbeidstilsynet er tilskuddsforvalter og behandler søknader om tilskudd etter [
 
 ## § 5. Krav til årsrapportering
 
-Tilskuddsmottaker skal hvert år innen 1. april rapportere til Arbeidstilsynet for foregående år. Årsrapporteringen skal inneholdestatus og redegjørelse for gjennomførte tiltak i programplanenbegrunnelse for valg av tiltakbeskrivelse av tiltakenes omfang og nedslagsfeltstatus for mål i programplanenvurdering av måloppnåelse ut fra bransjeprogrammets formålrevisorattestert regnskap som er oppstilt og sammenlignet med budsjett.
+Tilskuddsmottaker skal hvert år innen 1. april rapportere til Arbeidstilsynet for foregående år. Årsrapporteringen skal inneholde
+
+1. status og redegjørelse for gjennomførte tiltak i programplanen
+2. begrunnelse for valg av tiltak
+3. beskrivelse av tiltakenes omfang og nedslagsfelt
+4. status for mål i programplanen
+5. vurdering av måloppnåelse ut fra bransjeprogrammets formål
+6. revisorattestert regnskap som er oppstilt og sammenlignet med budsjett.
 
 > Endret ved forskrift [14 nov 2025 nr. 2268](forskrift/2025-11-14-2268).
 
 ## § 6. Krav til halvårsrapportering
 
-Tilskuddsmottaker skal, hvert år innen 15. august rapportere til Arbeidstilsynet for første halvår. Halvårsrapporteringen skal inneholderedegjørelse for fremdrift for tiltakregnskap for 1. juli og prognoser for bruk av midler resten av året, herunder om ev. økt eller redusert behov for midler inneværende åroppdatert samlet programplan for det videre arbeidet og prognoser for bruk av midler kommende år.
+Tilskuddsmottaker skal, hvert år innen 15. august rapportere til Arbeidstilsynet for første halvår. Halvårsrapporteringen skal inneholde
+
+1. redegjørelse for fremdrift for tiltak
+2. regnskap for 1. juli og prognoser for bruk av midler resten av året, herunder om ev. økt eller redusert behov for midler inneværende år
+3. oppdatert samlet programplan for det videre arbeidet og prognoser for bruk av midler kommende år.
 
 > Endret ved forskrift [14 nov 2025 nr. 2268](forskrift/2025-11-14-2268).
 
@@ -90,7 +101,10 @@ Arbeidstilsynet kan kreve fremlagt nødvendige opplysninger for å kontrollere a
 
 ## § 12. Stans i utbetaling og tilbakebetaling
 
-Arbeidstilsynet kan stanse utbetalingen av tilskudd og kreve tilskudd tilbakebetalt dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkertilskuddet er brukt i strid med kravene i forskriften og tilskuddsvedtaket.
+Arbeidstilsynet kan stanse utbetalingen av tilskudd og kreve tilskudd tilbakebetalt dersom
+
+1. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søker
+2. tilskuddet er brukt i strid med kravene i forskriften og tilskuddsvedtaket.
 
 ## § 13. Ikrafttredelse
 

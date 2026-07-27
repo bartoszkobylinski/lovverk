@@ -34,7 +34,22 @@ Forskriften gjelder for drift av privat sidespor og godsbane.
 
 ### § 3. Definisjoner
 
-I forskriften her forstås med:*alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,*godsbane:* jernbanevirksomhet på privateid infrastruktur som brukes bare av eierne til egen godstransport,*infrastruktur:* trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,*jernbanehendelse:* enhver annen hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,*jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,*jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,*kjøretøy:* et kjøretøy som kjører på egne hjul på jernbane med eller uten egen trekkraft,*sidespor:* spor som ikke brukes til kjøring av tog, men til hensetting, opp- og avlasting av vogner m.m., herunder terminalspor og havnespor,*sikkerhetsstyring:* systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,*sikkerhetsstyringssystem:* organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,*skift:* kjøretøy som flyttes under skifting,*skifting:* flytting av kjøretøy som ikke er tog,*tog:* trekkraftkjøretøy med eller uten vogner som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,*trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togframføringen.
+I forskriften her forstås med:
+
+1. *alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,
+2. *godsbane:* jernbanevirksomhet på privateid infrastruktur som brukes bare av eierne til egen godstransport,
+3. *infrastruktur:* trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,
+4. *jernbanehendelse:* enhver annen hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,
+5. *jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,
+6. *jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,
+7. *kjøretøy:* et kjøretøy som kjører på egne hjul på jernbane med eller uten egen trekkraft,
+8. *sidespor:* spor som ikke brukes til kjøring av tog, men til hensetting, opp- og avlasting av vogner m.m., herunder terminalspor og havnespor,
+9. *sikkerhetsstyring:* systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,
+10. *sikkerhetsstyringssystem:* organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,
+11. *skift:* kjøretøy som flyttes under skifting,
+12. *skifting:* flytting av kjøretøy som ikke er tog,
+13. *tog:* trekkraftkjøretøy med eller uten vogner som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,
+14. *trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togframføringen.
 
 ## Kapittel 2. Sikkerhetsstyringssystem
 
@@ -48,7 +63,16 @@ Sikkerhetsstyringssystemet skal være dokumentert, og tilstrekkelig kjent av all
 
 ### § 5. Krav til sikkerhetsstyringssystem
 
-Sikkerhetsstyringssystemet skal minst omfatte:bestemmelser om hvordan sikkerhetsmessig risiko forbundet med driften av virksomheten skal identifiseres og følges opp,bestemmelser om drift og vedlikehold som ivaretar tilfredsstillende sikkerhet,krav til kompetanse for personell som har oppgaver som kan påvirke sikkerheten,beskrivelse av hvordan ansvar og myndighet er fordelt i virksomhetens organisasjon, herunder instrukser for personell som har oppgaver som kan påvirke sikkerheten,beredskapsplan og beredskapsøvelser,rutiner for oppfølging av jernbaneulykke, alvorlig jernbanehendelse, jernbanehendelse og avvik fra jernbanelovgivningen og interne bestemmelser. Rutinene skal omfatte umiddelbare tiltak for å redusere virkningene av ulykken, hendelsen eller avviket, undersøkelse av årsak og fastsettelse av tiltak for å hindre gjentagelse ogårlig oppsummering av foregående års sikkerhetsarbeid,bestemmelser som sikrer at de medisinske, psykologiske og helsemessige kravene i [kapittel 7](forskrift/2014-12-10-1573/kap7) oppfylles.
+Sikkerhetsstyringssystemet skal minst omfatte:
+
+1. bestemmelser om hvordan sikkerhetsmessig risiko forbundet med driften av virksomheten skal identifiseres og følges opp,
+2. bestemmelser om drift og vedlikehold som ivaretar tilfredsstillende sikkerhet,
+3. krav til kompetanse for personell som har oppgaver som kan påvirke sikkerheten,
+4. beskrivelse av hvordan ansvar og myndighet er fordelt i virksomhetens organisasjon, herunder instrukser for personell som har oppgaver som kan påvirke sikkerheten,
+5. beredskapsplan og beredskapsøvelser,
+6. rutiner for oppfølging av jernbaneulykke, alvorlig jernbanehendelse, jernbanehendelse og avvik fra jernbanelovgivningen og interne bestemmelser. Rutinene skal omfatte umiddelbare tiltak for å redusere virkningene av ulykken, hendelsen eller avviket, undersøkelse av årsak og fastsettelse av tiltak for å hindre gjentagelse og
+7. årlig oppsummering av foregående års sikkerhetsarbeid,
+8. bestemmelser som sikrer at de medisinske, psykologiske og helsemessige kravene i [kapittel 7](forskrift/2014-12-10-1573/kap7) oppfylles.
 
 > Endret ved [forskrift 19 des 2016 nr. 1735](forskrift/2016-12-19-1735) (i kraft 1 jan 2017).
 
@@ -180,11 +204,25 @@ Før infrastruktur settes i drift skal Statens jernbanetilsyn gi tillatelse til 
 
 Det skal sendes melding til Statens jernbanetilsyn om ny eller endret infrastruktur så tidlig som mulig.
 
-Meldingen skal minst inneholde:navn på og kontaktopplysninger til kontaktperson,planlagt fremdrift i prosjektet,systembeskrivelse,sikkerhetsplan,oversikt over planlagt anvendte standarder ogrisikovurdering.
+Meldingen skal minst inneholde:
+
+1. navn på og kontaktopplysninger til kontaktperson,
+2. planlagt fremdrift i prosjektet,
+3. systembeskrivelse,
+4. sikkerhetsplan,
+5. oversikt over planlagt anvendte standarder og
+6. risikovurdering.
 
 ### § 30. Søknad om tillatelse til å ta infrastruktur i bruk
 
-Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:beskrivelse av ferdig infrastruktur,oversikt over verifikasjoner,sikkerhetsrapport,oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp ogsikkerhetsoppfølgingsplan (SOP).
+Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:
+
+1. beskrivelse av ferdig infrastruktur,
+2. oversikt over verifikasjoner,
+3. sikkerhetsrapport,
+4. oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,
+5. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og
+6. sikkerhetsoppfølgingsplan (SOP).
 
 Er assessor eller andre uavhengige parter benyttet, skal rapporter og oppfølging av disse vedlegges.
 
@@ -234,11 +272,25 @@ Før kjøretøy tas i bruk på infrastrukturen, skal Statens jernbanetilsyn gi t
 
 Det skal sendes melding til Statens jernbanetilsyn om nytt eller endret kjøretøy så tidlig som mulig.
 
-Meldingen skal minst inneholde:navn på og kontaktopplysninger til kontaktperson,planlagt fremdrift i prosjektet,systembeskrivelse,sikkerhetsplan,oversikt over planlagt anvendte standarder ogrisikovurdering.
+Meldingen skal minst inneholde:
+
+1. navn på og kontaktopplysninger til kontaktperson,
+2. planlagt fremdrift i prosjektet,
+3. systembeskrivelse,
+4. sikkerhetsplan,
+5. oversikt over planlagt anvendte standarder og
+6. risikovurdering.
 
 ### § 38. Søknad om tillatelse til å ta i bruk kjøretøy
 
-Søknad om tillatelse til å ta i bruk kjøretøy skal minst inneholde:oversiktstegninger og beskrivelser av kjøretøytypen,oversikt over verifikasjoner,sikkerhetsrapport,oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp ogsikkerhetsoppfølgingsplan (SOP).
+Søknad om tillatelse til å ta i bruk kjøretøy skal minst inneholde:
+
+1. oversiktstegninger og beskrivelser av kjøretøytypen,
+2. oversikt over verifikasjoner,
+3. sikkerhetsrapport,
+4. oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,
+5. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og
+6. sikkerhetsoppfølgingsplan (SOP).
 
 Er assessor eller andre uavhengige parter benyttet, skal rapporter vedlegges.
 
@@ -266,15 +318,27 @@ Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i 
 
 ### § 41. Første gangs helseundersøkelse
 
-Den som skal utføre eller opplæres til arbeidsoppgaver som nevnt i [§ 39](forskrift/2014-12-10-1573/§39) skal gjennomgå en helseundersøkelse som minst skal omfatte:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel, fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+Den som skal utføre eller opplæres til arbeidsoppgaver som nevnt i [§ 39](forskrift/2014-12-10-1573/§39) skal gjennomgå en helseundersøkelse som minst skal omfatte:
 
-Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:kognitive egenskaper,psykomotoriske egenskaper,atferdsmessige og personlige egenskaper.
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel, fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+
+Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:
+
+1. kognitive egenskaper,
+2. psykomotoriske egenskaper,
+3. atferdsmessige og personlige egenskaper.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1735](forskrift/2016-12-19-1735) (i kraft 1 jan 2017).
 
 ### § 42. Periodiske undersøkelser
 
-Det skal gjennomføres minst en helseundersøkelse:hvert femte år for personale opp til 40 år,hvert tredje år for personale mellom 41 og 62 år,hvert år for personale over 62 år.
+Det skal gjennomføres minst en helseundersøkelse:
+
+1. hvert femte år for personale opp til 40 år,
+2. hvert tredje år for personale mellom 41 og 62 år,
+3. hvert år for personale over 62 år.
 
 Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det.
 
@@ -282,7 +346,11 @@ Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til
 
 ### § 43. Minstekrav til den periodiske helseundersøkelsen
 
-Periodisk helseundersøkelse skal minst inneholde:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel og fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+Periodisk helseundersøkelse skal minst inneholde:
+
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel og fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1735](forskrift/2016-12-19-1735) (i kraft 1 jan 2017).
 
@@ -298,7 +366,13 @@ Jernbanevirksomhetene skal ha systemer for å sikre at slike supplerende unders�
 
 Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.
 
-Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:plutselig bevisstløshet,nedsatt oppmerksomhet eller konsentrasjon,plutselig arbeidsudyktighet,nedsatt balanse- eller koordineringsevne,betydelig begrenset bevegelsesevne.
+Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:
+
+1. plutselig bevisstløshet,
+2. nedsatt oppmerksomhet eller konsentrasjon,
+3. plutselig arbeidsudyktighet,
+4. nedsatt balanse- eller koordineringsevne,
+5. betydelig begrenset bevegelsesevne.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1735](forskrift/2016-12-19-1735) (i kraft 1 jan 2017).
 
@@ -306,7 +380,19 @@ Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre ti
 
 Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.
 
-Følgende krav gjelder:synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,største tillatte korreksjon: langsynthet +5/nærsynthet -8,syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,kontaktlinser er tillatt,normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),syn på begge øyne: effektivt,binokulært syn: effektivt,kontrastfølsomhet: god,ingen progressiv øyensykdom,øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
+Følgende krav gjelder:
+
+1. synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,
+2. største tillatte korreksjon: langsynthet +5/nærsynthet -8,
+3. syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,
+4. kontaktlinser er tillatt,
+5. normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,
+6. synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),
+7. syn på begge øyne: effektivt,
+8. binokulært syn: effektivt,
+9. kontrastfølsomhet: god,
+10. ingen progressiv øyensykdom,
+11. øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
 
 Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege.
 

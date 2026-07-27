@@ -28,7 +28,14 @@ Denne forskrift skal bidra til å sikre at fisk og fiskevarer som omsettes ikke 
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med*eksportør:* eksportør av fisk og fiskevarer som er registrert i henhold til bestemmelser gitt i eller i medhold av [lov 27. april 1990 nr. 9](lov/1990-04-27-9) om regulering av eksporten av fisk og fiskevarer.*salgslag:* salgslag som er godkjent i medhold av [lov 21. juni 2013 nr. 75](lov/2013-06-21-75) om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) [§ 4](lov/2013-06-21-75/§4).*norskfanget fisk:* fisk mv., inkludert deler, produkter og biprodukter av slik fisk, fanget av norsk fartøy, og omsatt gjennom salgslaget og omfattet av salgslagets omsetningsrett, jf. [forskrift 30. april 2010 nr. 641](forskrift/2010-04-30-641) om omsetning i første hand av viltlevande marine ressursar.*fangstsertifikat:* dokument som kobler opplysninger om landinger av fisk mv. til et vareparti.*lagererklæring:* erklæring av at fisk mv. fanget av fartøy som ikke er norsk, bare er lagret og ikke bearbeidet i Norge. Innfrysing regnes ikke som bearbeiding.*produsenterklæring:* erklæring fra produsent om produksjonen av fisk mv. uavhengig av om fisken er fanget av norsk eller utenlandsk fartøy.
+I denne forskrift menes med
+
+- *eksportør:* eksportør av fisk og fiskevarer som er registrert i henhold til bestemmelser gitt i eller i medhold av [lov 27. april 1990 nr. 9](lov/1990-04-27-9) om regulering av eksporten av fisk og fiskevarer.
+- *salgslag:* salgslag som er godkjent i medhold av [lov 21. juni 2013 nr. 75](lov/2013-06-21-75) om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) [§ 4](lov/2013-06-21-75/§4).
+- *norskfanget fisk:* fisk mv., inkludert deler, produkter og biprodukter av slik fisk, fanget av norsk fartøy, og omsatt gjennom salgslaget og omfattet av salgslagets omsetningsrett, jf. [forskrift 30. april 2010 nr. 641](forskrift/2010-04-30-641) om omsetning i første hand av viltlevande marine ressursar.
+- *fangstsertifikat:* dokument som kobler opplysninger om landinger av fisk mv. til et vareparti.
+- *lagererklæring:* erklæring av at fisk mv. fanget av fartøy som ikke er norsk, bare er lagret og ikke bearbeidet i Norge. Innfrysing regnes ikke som bearbeiding.
+- *produsenterklæring:* erklæring fra produsent om produksjonen av fisk mv. uavhengig av om fisken er fanget av norsk eller utenlandsk fartøy.
 
 > Endret ved [forskrifter 4 mai 2010 nr. 645](forskrift/2010-05-04-645) (i kraft 1 juli 2010), [20 des 2013 nr. 1665](forskrift/2013-12-20-1665) (i kraft 1 jan 2014), [16 des 2025 nr. 2612](forskrift/2025-12-16-2612) (i kraft 10 jan 2026).
 
@@ -54,11 +61,29 @@ Fangstsertifikat og lagererklæring kan utstedes og godkjennes elektronisk. Prod
 
 Eksportør som rekvirerer fangstsertifikat plikter å kunne dokumentere, for hvert enkelt vareparti som eksporteres, samtlige landinger fisk og fiskeproduktene stammer fra, med referanse til angjeldende sluttsedler.
 
-Eksportør som rekvirerer lagererklæring plikter å kunne dokumenteresamtlige fangstsertifikater som er knyttet til fisk og fiskeprodukter i det varepartiet som skal eksporteres,at fisk og fiskeprodukter som inngår i det varepartiet som skal eksporteres ikke er bearbeidet i Norge,når og hvor fisk og fiskeproduktene ble losset ved ankomst til Norge,hvilket transportmiddel som ble brukt ved ankomst til Norge,hvor fisk og fiskeproduktene har vært lagret,i hvilken tilstand fisk og fiskeproduktene ble lagret,når og hvor fisk og fiskeproduktene lastes opp for eksport, samthvilket transportmiddel som benyttes ved eksport.
+Eksportør som rekvirerer lagererklæring plikter å kunne dokumentere
 
-Produsenter som rekvirerer godkjenning av produsenterklæring plikter å kunne dokumenteresamtlige fangstsertifikater som er knyttet til fisk og fiskeprodukter i det varepartiet som skal eksporteres, samthvor mye råstoff fra hvert av disse fangstsertifikatene som er medgått i produksjonen av eksportpartiet.
+- samtlige fangstsertifikater som er knyttet til fisk og fiskeprodukter i det varepartiet som skal eksporteres,
+- at fisk og fiskeprodukter som inngår i det varepartiet som skal eksporteres ikke er bearbeidet i Norge,
+- når og hvor fisk og fiskeproduktene ble losset ved ankomst til Norge,
+- hvilket transportmiddel som ble brukt ved ankomst til Norge,
+- hvor fisk og fiskeproduktene har vært lagret,
+- i hvilken tilstand fisk og fiskeproduktene ble lagret,
+- når og hvor fisk og fiskeproduktene lastes opp for eksport, samt
+- hvilket transportmiddel som benyttes ved eksport.
 
-Eksportør plikter å kunne dokumentere opplysninger om vareparti som skal eksporteres. Dokumentasjon skal omfatte beskrivelse avprodukttypeproduktvektforsendelsesdatoimportørs navn og adresse, samtnavn på land der varen skal importeres.
+Produsenter som rekvirerer godkjenning av produsenterklæring plikter å kunne dokumentere
+
+- samtlige fangstsertifikater som er knyttet til fisk og fiskeprodukter i det varepartiet som skal eksporteres, samt
+- hvor mye råstoff fra hvert av disse fangstsertifikatene som er medgått i produksjonen av eksportpartiet.
+
+Eksportør plikter å kunne dokumentere opplysninger om vareparti som skal eksporteres. Dokumentasjon skal omfatte beskrivelse av
+
+- produkttype
+- produktvekt
+- forsendelsesdato
+- importørs navn og adresse, samt
+- navn på land der varen skal importeres.
 
 Eksportør skal besørge at nummer på fangstsertifikat samt nummer på eventuelle lagererklæringer og/eller produsenterklæringer oppgis på tolldeklarasjonen ved eksport (rubrikk 44).
 
@@ -72,7 +97,12 @@ Avgrensningen i tidsintervaller skal kunne dokumenteres. Reglene i [§ 3](forskr
 
 ## § 6. Direkte landing eller omlasting i utenlandsk havn
 
-Norske fartøy som trenger fangstsertifikat ved anløp eller landing i utenlandsk havn kan sende melding til det angjeldende salgslag. Meldingen må da inneholde opplysninger omfartøyets navn, fiskerimerke og kjenningssignalanløpshavntidspunkt for ankomstopplysninger om all fangst som skal landes eller omlastes, angitt med art, produkttilstand, produktvekt og fangstområde.
+Norske fartøy som trenger fangstsertifikat ved anløp eller landing i utenlandsk havn kan sende melding til det angjeldende salgslag. Meldingen må da inneholde opplysninger om
+
+- fartøyets navn, fiskerimerke og kjenningssignal
+- anløpshavn
+- tidspunkt for ankomst
+- opplysninger om all fangst som skal landes eller omlastes, angitt med art, produkttilstand, produktvekt og fangstområde.
 
 > Endret ved forskrift [27 okt 2022 nr. 1894](forskrift/2022-10-27-1894) (i kraft 1 nov 2022).
 

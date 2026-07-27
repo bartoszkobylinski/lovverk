@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Denne forskriften gjelder for saker der et medlem per 31. desember 2014får fri forpleining under langtidsopphold i helseinstitusjon o.l. under statlig eller fylkeskommunalt ansvar ellersitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalterog samtidig mottar ytelser etter kapittel 12, 16, 17, 18 og 19 i folketrygdloven.
+Denne forskriften gjelder for saker der et medlem per 31. desember 2014
+
+1. får fri forpleining under langtidsopphold i helseinstitusjon o.l. under statlig eller fylkeskommunalt ansvar eller
+2. sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter
+
+og samtidig mottar ytelser etter kapittel 12, 16, 17, 18 og 19 i folketrygdloven.
 
 ## § 2. Overgang til nye regler
 

@@ -36,13 +36,27 @@ For eier av produksjonsanlegg som ikke er konsesjonspliktig etter [energilovfors
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*Driftsforstyrrelse:* automatisk, påtvungen eller utilsiktet utkobling.*Døgnmarkedet:* marked hvor kontrakter for kjøp og salg av elektrisk energi handles, per tidsenhet, for fysisk levering neste døgn.*Budområde:* et geografisk avgrenset område, innad hvor markedsaktører kan handle energi uten allokering av handelskapasitet.*Flaskehals:* situasjon som oppstår når utvekslingsbehovet i nettet overstiger overføringsgrensen.*Overføringsgrense:* maksimalt tillatt overført aktiv effekt i overføringssnitt eller på en enkelt overføringslinje.*Momentan balanse:* likevekt mellom samlet forbruk og samlet produksjon av kraft, hensyntatt kraftutveksling med tilknyttede kraftsystemer.
+I denne forskrift menes med:
+
+1. *Driftsforstyrrelse:* automatisk, påtvungen eller utilsiktet utkobling.
+2. *Døgnmarkedet:* marked hvor kontrakter for kjøp og salg av elektrisk energi handles, per tidsenhet, for fysisk levering neste døgn.
+3. *Budområde:* et geografisk avgrenset område, innad hvor markedsaktører kan handle energi uten allokering av handelskapasitet.
+4. *Flaskehals:* situasjon som oppstår når utvekslingsbehovet i nettet overstiger overføringsgrensen.
+5. *Overføringsgrense:* maksimalt tillatt overført aktiv effekt i overføringssnitt eller på en enkelt overføringslinje.
+6. *Momentan balanse:* likevekt mellom samlet forbruk og samlet produksjon av kraft, hensyntatt kraftutveksling med tilknyttede kraftsystemer.
 
 > Endret ved [forskrifter 29 mai 2018 nr. 806](forskrift/2018-05-29-806) (i kraft 1 jan 2019, gjelder bokstav a), [29 mai 2018 nr. 806](forskrift/2018-05-29-806) (i kraft 1 juli 2019, gjelder bokstavene b til f).
 
 ## § 4. Prinsipper for utøvelsen av systemansvaret
 
-Systemansvarlig skal:sørge for frekvensreguleringen og sikre momentan balanse i kraftsystemet til enhver tid,opptre nøytralt og ikke-diskriminerende i forhold til alle som omfattes av denne forskrift,utvikle markedsløsninger som bidrar til å sikre en effektiv utvikling og utnyttelse av kraftsystemet,i størst mulig utstrekning gjøre bruk av virkemidler som er basert på markedsmessige prinsipper,samordne og følge opp konsesjonærer og sluttbrukere sine disposisjoner med sikte på å oppnå tilfredsstillende leveringskvalitet og en effektiv utnyttelse av kraftsystemet, ogutarbeide og distribuere informasjon om forhold i kraftsystemet som er av betydning for kraftmarkedet, samt om forhold som er av betydning for den generelle leveringskvaliteten.
+Systemansvarlig skal:
+
+1. sørge for frekvensreguleringen og sikre momentan balanse i kraftsystemet til enhver tid,
+2. opptre nøytralt og ikke-diskriminerende i forhold til alle som omfattes av denne forskrift,
+3. utvikle markedsløsninger som bidrar til å sikre en effektiv utvikling og utnyttelse av kraftsystemet,
+4. i størst mulig utstrekning gjøre bruk av virkemidler som er basert på markedsmessige prinsipper,
+5. samordne og følge opp konsesjonærer og sluttbrukere sine disposisjoner med sikte på å oppnå tilfredsstillende leveringskvalitet og en effektiv utnyttelse av kraftsystemet, og
+6. utarbeide og distribuere informasjon om forhold i kraftsystemet som er av betydning for kraftmarkedet, samt om forhold som er av betydning for den generelle leveringskvaliteten.
 
 > Endret ved [forskrift 30 nov 2004 nr. 1532](forskrift/2004-11-30-1532) (i kraft 1 jan 2005).
 

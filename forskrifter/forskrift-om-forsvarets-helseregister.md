@@ -15,7 +15,7 @@ xml_hash: "395c48fe4e013f6991e26d4c19d75994f9d4ef0241fb0fa82e6daafc96dbe524"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Forsvarets helseregister kan inneholde personidentifiserende person-, tjeneste- 
 
 ### § 1-4. Registerets formål
 
-Gjennom sammenstilling av tjenestedata, helsedata og miljødata er Forsvarets helseregisters formål å:føre tilsyn med helsen og helseutviklingen til personell i Forsvaret for å kartlegge helserisiko knyttet til ulike tjenester,fremme og gi grunnlag for forskning og statistikk som kan lede til kunnskap om helsen til forsvarets personell,bidra til forbedring og utvikling av den militære helsetjeneste,bidra til at yrkesrelaterte skader og plager avdekkes slik at rammede kan oppnå kompensasjon etter alminnelig erstatningsrettslige regler.
+Gjennom sammenstilling av tjenestedata, helsedata og miljødata er Forsvarets helseregisters formål å:
+
+1. føre tilsyn med helsen og helseutviklingen til personell i Forsvaret for å kartlegge helserisiko knyttet til ulike tjenester,
+2. fremme og gi grunnlag for forskning og statistikk som kan lede til kunnskap om helsen til forsvarets personell,
+3. bidra til forbedring og utvikling av den militære helsetjeneste,
+4. bidra til at yrkesrelaterte skader og plager avdekkes slik at rammede kan oppnå kompensasjon etter alminnelig erstatningsrettslige regler.
 
 ### § 1-5. Forbud mot bruk
 
@@ -64,7 +69,44 @@ Forsvarets sanitet er databehandler.
 
 ### § 1-8. Opplysninger i Forsvarets helseregister
 
-Forsvarets helseregister kan, uten samtykke fra den registrerte, inneholde følgende opplysninger om Forsvarets personell, i den utstrekning det er nødvendig for å nå formålet med registeret:*personopplysninger:*navn og fødselsnummer,adresse og bostedskommune,sivilstand,inntekt,utdanningsnivå,*administrative opplysninger:*tittel/grad,tid og sted for militær klassifisering,tjenestested, avdeling og tidsrom,tjenestens art,spesielle forhold knyttet til tjenesten,institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,institusjon hvor undersøkelsen er gjort,*helseopplysninger:*om årsak til at helsetjenesten i Forsvaret er oppsøkt, tidspunkt og tidsforløp for symptomer,resultat av relevante medisinske undersøkelser,medikamentforeskrivinger,hoveddiagnose og bidiagnose,behandling,vaksinasjonsstatus,blodtype,hørselsundersøkelser,skjermbildeundersøkelser,klassifiseringsdata/skikkethet ved sesjon, innrykk og dimisjon,årsak til at skade/sykdom oppsto,smitteforhold, smitteoppsporing og varsling,dødsårsak, obduksjon og dødsdato,*opplysninger om arbeidsplass:*eksponeringsfaktorer,miljøfaktorer.
+Forsvarets helseregister kan, uten samtykke fra den registrerte, inneholde følgende opplysninger om Forsvarets personell, i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+1. *personopplysninger:*
+
+   1. navn og fødselsnummer,
+   2. adresse og bostedskommune,
+   3. sivilstand,
+   4. inntekt,
+   5. utdanningsnivå,
+2. *administrative opplysninger:*
+
+   1. tittel/grad,
+   2. tid og sted for militær klassifisering,
+   3. tjenestested, avdeling og tidsrom,
+   4. tjenestens art,
+   5. spesielle forhold knyttet til tjenesten,
+   6. institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,
+   7. institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,
+   8. institusjon hvor undersøkelsen er gjort,
+3. *helseopplysninger:*
+
+   1. om årsak til at helsetjenesten i Forsvaret er oppsøkt, tidspunkt og tidsforløp for symptomer,
+   2. resultat av relevante medisinske undersøkelser,
+   3. medikamentforeskrivinger,
+   4. hoveddiagnose og bidiagnose,
+   5. behandling,
+   6. vaksinasjonsstatus,
+   7. blodtype,
+   8. hørselsundersøkelser,
+   9. skjermbildeundersøkelser,
+   10. klassifiseringsdata/skikkethet ved sesjon, innrykk og dimisjon,
+   11. årsak til at skade/sykdom oppsto,
+   12. smitteforhold, smitteoppsporing og varsling,
+   13. dødsårsak, obduksjon og dødsdato,
+4. *opplysninger om arbeidsplass:*
+
+   1. eksponeringsfaktorer,
+   2. miljøfaktorer.
 
 Etter samtykke fra den enkelte, jf. [helseregisterloven § 2](lov/2014-06-20-43/§2) bokstav e, kan opplysninger som vedkommende selv oppgir i spørreskjema eller ved intervju registreres i Forsvarets helseregister.
 

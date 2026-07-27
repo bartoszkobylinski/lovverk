@@ -36,7 +36,12 @@ Denne forskriften kommer til anvendelse for foretak som vil innføre landbruksva
 
 Fritak fra tollavgift etter [vareførselsloven § 4-8](lov/2022-03-11-9/§4-8) for landbruksvarer som innføres midlertidig til Norge for bearbeiding og deretter gjenutføres som en ferdigvare eller del av en ferdigvare, er betinget av at foretaket på forhånd har innhentet tillatelse etter denne forskrift.
 
-Tillatelse til innenlandsk bearbeiding av landbruksvarer kan gis dersom:foretaket er registrert i Foretaksregisteretutførsel av ferdigvaren foretas av det samme foretaket som stod for den midlertidige innførselen av landbruksvarene,de midlertidig innførte landbruksvarene inngår i ferdigvaren som utføres, ogbearbeidingen av de midlertidig innførte landbruksvarene etter næringspolitiske vurderinger ikke vil fortrenge avsetning og foredling av norske landbruksvarer.
+Tillatelse til innenlandsk bearbeiding av landbruksvarer kan gis dersom:
+
+1. foretaket er registrert i Foretaksregisteret
+2. utførsel av ferdigvaren foretas av det samme foretaket som stod for den midlertidige innførselen av landbruksvarene,
+3. de midlertidig innførte landbruksvarene inngår i ferdigvaren som utføres, og
+4. bearbeidingen av de midlertidig innførte landbruksvarene etter næringspolitiske vurderinger ikke vil fortrenge avsetning og foredling av norske landbruksvarer.
 
 Det må søkes om tillatelse for hver enkelt ferdigvare der foretaket ønsker å benytte ordningen for innenlandsk bearbeiding. Tillatelse kan gis for inntil tre år.
 

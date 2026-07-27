@@ -38,7 +38,10 @@ Transport av personer regnes som rutetransport når den foregår mellom visse st
 
 Den som skal drive slik transport som nevnt i [§ 1](forskrift/1991-05-28-343/§1) må ha løyve fra Longyearbyen lokalstyre.
 
-Krav til løyve gjelder likevel ikke:Transport med beltekjøretøyAmbulansetransport.
+Krav til løyve gjelder likevel ikke:
+
+- Transport med beltekjøretøy
+- Ambulansetransport.
 
 > Endret ved [forskrift 30 nov 2001 nr. 1314](forskrift/2001-11-30-1314) (i kraft 1 jan 2002).
 
@@ -50,7 +53,12 @@ Longyearbyen lokalstyre fastsetter antall løyver i Longyearbyen. Løyve tildele
 
 ## § 5.
 
-For tildeling av løyve stilles følgende krav:Søkeren må være fylt 20 årSøkeren må legge fram politiattestSøkeren må ha gyldig førerkort for vedkommende motorvognVed tildeling av løyve til selskap eller annen sammenslutning (juridisk person) må den daglige leder fylle kravene under a) og b).
+For tildeling av løyve stilles følgende krav:
+
+1. Søkeren må være fylt 20 år
+2. Søkeren må legge fram politiattest
+3. Søkeren må ha gyldig førerkort for vedkommende motorvogn
+4. Ved tildeling av løyve til selskap eller annen sammenslutning (juridisk person) må den daglige leder fylle kravene under a) og b).
 
 ## § 6.
 
@@ -107,7 +115,10 @@ Longyearbyen lokalstyre kan føre slik kontroll med den løyvepliktige virksomhe
 
 ## § 12.
 
-Departementet kan foreta endringer:I forskriftenI de vilkår som allerede er fastsatt i eksisterende løyver.
+Departementet kan foreta endringer:
+
+1. I forskriften
+2. I de vilkår som allerede er fastsatt i eksisterende løyver.
 
 Departementet kan i særlige tilfelle gjøre unntak fra denne forskriften.
 

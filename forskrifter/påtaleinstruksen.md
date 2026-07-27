@@ -15,7 +15,7 @@ xml_hash: "b1a38635093f2a4dc6e5885157ce1259ec17db5c10db385c510c9a789286a522"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -676,7 +676,13 @@ Det må bare brukes makt i det omfang og så lenge det er nødvendig for å gjen
 
 ### § 10-5. Hvem som kan foreta kroppslig undersøkelse
 
-Følgende undersøkelser må bare utføres av kvalifisert helsepersonell og fortrinnsvis, når det kan skje uten at formålet med undersøkelsen forspilles, av lege eller etter forordning av lege i det enkelte tilfelle:BlodprøvetakingUndersøkelse ved bruk av røntgenUndersøkelse av rektum eller vaginaUndersøkelse ved klyster eller tilføring av brekkmiddel eller avføringsmiddelAndre inngrep som krever medisinsk sakkunnskap.
+Følgende undersøkelser må bare utføres av kvalifisert helsepersonell og fortrinnsvis, når det kan skje uten at formålet med undersøkelsen forspilles, av lege eller etter forordning av lege i det enkelte tilfelle:
+
+1. Blodprøvetaking
+2. Undersøkelse ved bruk av røntgen
+3. Undersøkelse av rektum eller vagina
+4. Undersøkelse ved klyster eller tilføring av brekkmiddel eller avføringsmiddel
+5. Andre inngrep som krever medisinsk sakkunnskap.
 
 Undersøkelse ved klyster eller tilføring av brekkmiddel eller avføringsmiddel som ikke utføres av lege, må bare foretas under overoppsyn av lege. Undersøkelse med bruk av rektoskop må bare foretas av lege.
 
@@ -702,7 +708,12 @@ Dersom undersøkelsen blir foretatt av politiet, jf. [§ 10-5](forskrift/1985-06
 
 ### § 10-8. Rapport
 
-Det skal på stedet eller snarest mulig settes opp en rapport over kroppslig undersøkelse som blir foretatt etter reglene i [straffeprosessloven § 157](lov/1981-05-22-25/§157). Rapporten skal gi opplysning om:Mistenktes navn, fødselsdata og bopel og hva mistanken gjelderRettens kjennelse, eventuelt påtalemyndighetens ordre om undersøkelsenHvem som har foretatt undersøkelsen og når den fant stedHva slags undersøkelse som ble foretatt og resultatet av den, eventuelt ved en henvisning til den skriftlige erklæringen som utarbeides i samband med undersøkelsen.
+Det skal på stedet eller snarest mulig settes opp en rapport over kroppslig undersøkelse som blir foretatt etter reglene i [straffeprosessloven § 157](lov/1981-05-22-25/§157). Rapporten skal gi opplysning om:
+
+1. Mistenktes navn, fødselsdata og bopel og hva mistanken gjelder
+2. Rettens kjennelse, eventuelt påtalemyndighetens ordre om undersøkelsen
+3. Hvem som har foretatt undersøkelsen og når den fant sted
+4. Hva slags undersøkelse som ble foretatt og resultatet av den, eventuelt ved en henvisning til den skriftlige erklæringen som utarbeides i samband med undersøkelsen.
 
 Rapporten skal undertegnes av rapportskriveren og i tilfelle av vitnet.
 
@@ -782,7 +793,12 @@ Politiet skal påse at sakkyndig likundersøkelse foretas når det er grunn til 
 
 ### § 13-2. Sakkyndig likundersøkelse i andre tilfeller
 
-Politiet bør i alminnelighet sørge for at sakkyndig likundersøkelse foretas når dødsårsaken er uviss og antas å kunne skyldesselvmord eller selvvoldt skadeulykkestilfelleyrkesskade eller yrkessykdomfeil, forsømmelse eller uhell ved medisinsk undersøkelse eller behandling av sykdom eller skade.
+Politiet bør i alminnelighet sørge for at sakkyndig likundersøkelse foretas når dødsårsaken er uviss og antas å kunne skyldes
+
+1. selvmord eller selvvoldt skade
+2. ulykkestilfelle
+3. yrkesskade eller yrkessykdom
+4. feil, forsømmelse eller uhell ved medisinsk undersøkelse eller behandling av sykdom eller skade.
 
 Det samme gjelder når dødsårsaken er uviss og døden er inntrådt plutselig og uventet, særlig dersom vedkommende antas å ha vært alene i dødsøyeblikket.
 
@@ -934,7 +950,15 @@ Er det ikke grunnlag for å fortsette en påbegynt etterforsking, kan politiet b
 
 ### § 17-2. Underretning om innstilling av straffeforfølgning
 
-Innstilles en påbegynt strafforfølgning helt eller delvis, skal det straks gis skriftlig underretning om dette til:den som forfølgningen har vært rettet motfornærmede som har inngitt anmeldelse,etterlatte i lovbestemt rekkefølge,andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,vedkommende forvaltningsorgan når saken direkte gjelder dets saksområde,bistandsadvokat, ogforsvarer for den forfølgningen har vært rettet mot som enten er offentlig oppnevnt eller som har informert politiet om at man har påtatt seg forsvareroppdrag i saken.
+Innstilles en påbegynt strafforfølgning helt eller delvis, skal det straks gis skriftlig underretning om dette til:
+
+1. den som forfølgningen har vært rettet mot
+2. fornærmede som har inngitt anmeldelse,
+3. etterlatte i lovbestemt rekkefølge,
+4. andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,
+5. vedkommende forvaltningsorgan når saken direkte gjelder dets saksområde,
+6. bistandsadvokat, og
+7. forsvarer for den forfølgningen har vært rettet mot som enten er offentlig oppnevnt eller som har informert politiet om at man har påtatt seg forsvareroppdrag i saken.
 
 I underretningen opplyses om at det kan klages over vedtaket til nærmeste overordnete påtalemyndighet, at klagen settes frem for den påtalemyndighet som har truffet vedtaket, og at klagefristen er tre uker fra underretning om vedtaket kom frem til klageren.
 
@@ -1008,7 +1032,13 @@ Siktede bør også gis muntlig orientering om hva det betyr at det er gitt påta
 
 ### § 18-5. Underretning til klageberettigete om påtaleunntalelse etter straffeprosessloven § 69
 
-Når saken er avgjort ved påtaleunnlatelse skal det straks gis skriftlig underretning til:fornærmede som har inngitt anmeldelse,etterlatte i lovbestemt rekkefølge,andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,vedkommende forvaltningsorgan når saken direkte gjelder dets saksområde,bistandsadvokat.
+Når saken er avgjort ved påtaleunnlatelse skal det straks gis skriftlig underretning til:
+
+1. fornærmede som har inngitt anmeldelse,
+2. etterlatte i lovbestemt rekkefølge,
+3. andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,
+4. vedkommende forvaltningsorgan når saken direkte gjelder dets saksområde,
+5. bistandsadvokat.
 
 I underretningen opplyses om at det kan klages over vedtaket til nærmeste overordnete påtalemyndighet, at klagen skal settes frem for den påtalemyndighet som har truffet vedtaket, og at klagefristen er tre uker fra underretning om vedtaket kom frem til klageren. Er det som vilkår for påtaleunnlatelsen bestemt at siktede skal betale erstatning, skal det også gis opplysning om dette. Andre vilkår gis det opplysning om etter behov.
 
@@ -1074,7 +1104,13 @@ Finner påtalemyndigheten at en sak bør avgjøres med bot eller inndragning, el
 
 ### § 20-2. Foreleggets innhold
 
-Forelegget skal inneholde:siktedes navn og bopel, samt fødselsnummer,opplysning om hvilket straffebud som er anvendt, med angivelse av innholdet så langt det er av betydning i saken,en kort, men så vidt mulig nøyaktig beskrivelse av det forhold forelegget gjelder, med opplysning om tid og sted,fastsetting av den bot og i tilfelle den inndragning som kreves, og den fengselsstraff som inntrer om boten ikke blir betalt, og i militær straffesak av antallet arrestdager som ilegges,oppfordring til siktede om innen en fastsatt frist å erklære om han vedtar forelegget. Fristen fastsettes slik at han får en betenkningstid som i alminnelighet bør være fra 3 til 10 dager.
+Forelegget skal inneholde:
+
+1. siktedes navn og bopel, samt fødselsnummer,
+2. opplysning om hvilket straffebud som er anvendt, med angivelse av innholdet så langt det er av betydning i saken,
+3. en kort, men så vidt mulig nøyaktig beskrivelse av det forhold forelegget gjelder, med opplysning om tid og sted,
+4. fastsetting av den bot og i tilfelle den inndragning som kreves, og den fengselsstraff som inntrer om boten ikke blir betalt, og i militær straffesak av antallet arrestdager som ilegges,
+5. oppfordring til siktede om innen en fastsatt frist å erklære om han vedtar forelegget. Fristen fastsettes slik at han får en betenkningstid som i alminnelighet bør være fra 3 til 10 dager.
 
 Et forelegg kan også omfatte bestemmelse om at siktede skal betale til den berettigede pengekrav som går inn under [straffeprosessloven § 3](lov/1981-05-22-25/§3). Finner påtalemyndigheten at opplysningene i saken er utilstrekkelige til at størrelsen av kravet kan fastsettes, kan den ta med i forelegget den del av kravet som den finner godtgjort. Det må settes frist for oppfyllelse av kravet etter reglene i [tvistemålsloven §§ 146](lov/1915-08-13-6/§146) og [148](lov/1915-08-13-6/§148). Det bør i tilfelle opplyses om at den som mener å ha ytterligere krav enn det som er tatt med i forelegget, vil kunne reise sak om restkravet etter reglene i tvistemålsloven.
 
@@ -1116,7 +1152,13 @@ Siktedes og vergenes vedtakelse av forelegget gis ved påtegning på forelegget.
 
 ### § 20-7. Underretning om vedtatt forelegg
 
-Når saken er avgjort ved vedtatt forelegg, skal det straks gis skriftlig underretning til:fornærmede som har inngitt anmeldelse,etterlatte i lovbestemt rekkefølge,andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,vedkommende forvaltningsorgan når saken direkte gjelder dets sakområde,bistandsadvokat.
+Når saken er avgjort ved vedtatt forelegg, skal det straks gis skriftlig underretning til:
+
+1. fornærmede som har inngitt anmeldelse,
+2. etterlatte i lovbestemt rekkefølge,
+3. andre som har inngitt anmeldelse og som antas å ha rettslig klageinteresse,
+4. vedkommende forvaltningsorgan når saken direkte gjelder dets sakområde,
+5. bistandsadvokat.
 
 > Endret ved [forskrifter 26 mars 2004 nr. 569](forskrift/2004-03-26-569) (i kraft 1 april 2004), [25 sep 2009 nr. 1211](forskrift/2009-09-25-1211) (i kraft 1 nov 2009).
 
@@ -1180,7 +1222,12 @@ Fornærmede skal angi kravets størrelse, dets faktiske og rettslige grunnlag sa
 
 ### § 22-1. Tiltalebeslutningens innhold
 
-Tiltalebeslutningen skal være underskrevet og datert. Den skal inneholde:betegnelse av domstolen,tiltaltes navn og bopel, samt fødselsnummer,opplysning om hvilket straffebud som påstås anvendt, med gjengivelse av innholdet så langt det er av betydning i saken,en kort, men så vidt mulig nøyaktig beskrivelse av det forhold tiltalen gjelder, med opplysning om tid og sted.
+Tiltalebeslutningen skal være underskrevet og datert. Den skal inneholde:
+
+1. betegnelse av domstolen,
+2. tiltaltes navn og bopel, samt fødselsnummer,
+3. opplysning om hvilket straffebud som påstås anvendt, med gjengivelse av innholdet så langt det er av betydning i saken,
+4. en kort, men så vidt mulig nøyaktig beskrivelse av det forhold tiltalen gjelder, med opplysning om tid og sted.
 
 Dersom påtalen ikke er ubetinget offentlig, skal det av tiltalebeslutningen fremgå at andre vilkår for påtale er oppfylt.
 
@@ -1334,7 +1381,10 @@ Dersom tiltalte ikke har forsvarer, skal sakens dokumenter sendes retten når ti
 
 ### § 25-4. Forsvarerens rett til å få dokumentene i saken
 
-Samtidig med at tiltalebeslutningen sendes til forkynning for tiltalte, skal sakens dokumenter sendes til forsvareren med unntak for følgende dokumenter:dokumenter som bør holdes hemmelig av hensyn til rikets sikkerhet eller forhold til fremmed stat, jf. [straffeprosessloven § 264](lov/1981-05-22-25/§264) tredje ledd ogdokumenter som bare gjelder andre tiltaltes forhold, jf. [straffeprosessloven § 264](lov/1981-05-22-25/§264) fjerde ledd.
+Samtidig med at tiltalebeslutningen sendes til forkynning for tiltalte, skal sakens dokumenter sendes til forsvareren med unntak for følgende dokumenter:
+
+1. dokumenter som bør holdes hemmelig av hensyn til rikets sikkerhet eller forhold til fremmed stat, jf. [straffeprosessloven § 264](lov/1981-05-22-25/§264) tredje ledd og
+2. dokumenter som bare gjelder andre tiltaltes forhold, jf. [straffeprosessloven § 264](lov/1981-05-22-25/§264) fjerde ledd.
 
 Dokumenter som nevnt i første ledd nr. 1 sendes retten til avgjørelse om og i tilfelle hvordan de skal gjøres tilgjengelig for tiltalte og hans forsvarer.
 
@@ -1712,7 +1762,14 @@ Bestemmelsene i [§ 31-1](forskrift/1985-06-28-1679/§31-1) får tilsvarende anv
 
 ### § 32-1. Ulovlig håndtering av og handel med narkotika stoffer til sjøs
 
-I samsvar med [lov 13. juni 1997 nr. 47](lov/1997-06-13-47) om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika til sjøs kan påtalemyndigheten:samtykke til at utenlandsk myndighet border et norsk fartøy og i den forbindelse gjør bruk av tvangsmidler,anmode utenlandske myndigheter om tillatelse til å borde fartøy som fører dette landets flagg,anmode utenlandske myndigheter om å borde et norsk fartøy,etterkomme anmodning fra utenlandske myndigheter om bording av fartøy som fører dette landets flagg eller av statsløse fartøy,beslutte bording av statsløst fartøy eller anmode annet lands myndigheter om å foreta slik bording,avgjøre om Norge skal gjøre gjeldende primær jurisdiksjon etter europarådsavtalen art 14, jf art 17.
+I samsvar med [lov 13. juni 1997 nr. 47](lov/1997-06-13-47) om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika til sjøs kan påtalemyndigheten:
+
+1. samtykke til at utenlandsk myndighet border et norsk fartøy og i den forbindelse gjør bruk av tvangsmidler,
+2. anmode utenlandske myndigheter om tillatelse til å borde fartøy som fører dette landets flagg,
+3. anmode utenlandske myndigheter om å borde et norsk fartøy,
+4. etterkomme anmodning fra utenlandske myndigheter om bording av fartøy som fører dette landets flagg eller av statsløse fartøy,
+5. beslutte bording av statsløst fartøy eller anmode annet lands myndigheter om å foreta slik bording,
+6. avgjøre om Norge skal gjøre gjeldende primær jurisdiksjon etter europarådsavtalen art 14, jf art 17.
 
 Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet.
 
@@ -1720,7 +1777,12 @@ Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet.
 
 ### § 32-2. Bekjempelse av ulovlige handlinger mot sikkerheten ved skipsfart
 
-I samsvar med [straffeprosessloven § 4a](lov/1981-05-22-25/§4a) om bekjempelse av ulovlige handlinger mot sikkerheten ved skipsfart kan påtalemyndigheten:samtykke til at utenlandsk myndighet border et norsk fartøy og i den forbindelse gjør bruk av tvangsmidler,anmode utenlandske myndigheter om tillatelse til å borde fartøy som fører denne statens flagg,anmode utenlandske myndigheter om å borde et norsk fartøy,etterkomme anmodning fra utenlandske myndigheter om bording av fartøy som fører denne statens flagg eller av statsløse fartøy.
+I samsvar med [straffeprosessloven § 4a](lov/1981-05-22-25/§4a) om bekjempelse av ulovlige handlinger mot sikkerheten ved skipsfart kan påtalemyndigheten:
+
+1. samtykke til at utenlandsk myndighet border et norsk fartøy og i den forbindelse gjør bruk av tvangsmidler,
+2. anmode utenlandske myndigheter om tillatelse til å borde fartøy som fører denne statens flagg,
+3. anmode utenlandske myndigheter om å borde et norsk fartøy,
+4. etterkomme anmodning fra utenlandske myndigheter om bording av fartøy som fører denne statens flagg eller av statsløse fartøy.
 
 Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet. Utenriksdepartementet skal informeres om saken så snart som mulig.
 
@@ -1730,7 +1792,12 @@ Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet. Ute
 
 ### § 33-1. Straffbare handlinger med tilknytning til kontinentalsokkelvirksomhet
 
-Statsadvokatene i Rogaland har påtalemyndighet i saker som gjelder straffbar overtredelse av lovgivning om Norges kontinentalsokkel og om virksomhet på sokkelen, og i alle saker som gjelder straffbare handlinger foretatt:på enhver innretning og ethvert anlegg på den norske del av kontinentalsokkelen, som nyttes til undersøkelse etter, utnytting eller lagring av undersjøiske naturforekomster,på anlegg for transport av petroleumsforekomster tilknyttet innretning eller anlegg som er plassert på den norske del av kontinentalsokkelen,i sikkerhetssonen rundt slike anlegg og innretninger som nevnt under a) og b) foran ogpå norsk boreplattform eller liknende innretning i åpen sjø.
+Statsadvokatene i Rogaland har påtalemyndighet i saker som gjelder straffbar overtredelse av lovgivning om Norges kontinentalsokkel og om virksomhet på sokkelen, og i alle saker som gjelder straffbare handlinger foretatt:
+
+1. på enhver innretning og ethvert anlegg på den norske del av kontinentalsokkelen, som nyttes til undersøkelse etter, utnytting eller lagring av undersjøiske naturforekomster,
+2. på anlegg for transport av petroleumsforekomster tilknyttet innretning eller anlegg som er plassert på den norske del av kontinentalsokkelen,
+3. i sikkerhetssonen rundt slike anlegg og innretninger som nevnt under a) og b) foran og
+4. på norsk boreplattform eller liknende innretning i åpen sjø.
 
 ### § 33-2. Saker vedrørende overtredelse av lovgivningen om Norges økonomiske sone, herunder fiskevernsonen ved Svalbard og fiskerisonen rundt Jan Mayen.
 
@@ -1846,7 +1913,11 @@ Enheten er et sentralt politiorgan innen sitt saklige kompetanseområde, jf. [lo
 
 Enheten skal behandle særlig alvorlige overtredelser av [straffeloven § 321](lov/2005-05-20-28/§321) til [§ 326](lov/2005-05-20-28/§326), [§ 332](lov/2005-05-20-28/§332) til [§ 346](lov/2005-05-20-28/§346) og [kapittel 30](lov/2005-05-20-28/kap30) og [31](lov/2005-05-20-28/kap31), skatte- og avgiftslovgivningen, valutalovgivningen, prisloven, verdipapirhandelloven, forurensingsloven, arbeidsmiljøloven og andre lovovertredelser som naturlig faller inn under økonomisk kriminalitet og miljøkriminalitet.
 
-Avgjørelsen av om enheten skal behandle en sak treffes av leder eller nestleder. Ved avgjørelsen skal det særlig legges vekt på:etterforskingens omfang, sakens kompleksitet og dens økonomiske størrelse,hvorvidt saken har forgreninger til utlandet,sakens prinsipielle karakter.
+Avgjørelsen av om enheten skal behandle en sak treffes av leder eller nestleder. Ved avgjørelsen skal det særlig legges vekt på:
+
+1. etterforskingens omfang, sakens kompleksitet og dens økonomiske størrelse,
+2. hvorvidt saken har forgreninger til utlandet,
+3. sakens prinsipielle karakter.
 
 > Endret ved [forskrift 19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015).
 
@@ -2004,13 +2075,36 @@ Påtalekompetansen gjelder for hele landet i enhetens egne saker.
 
 ### § 37-3. Saklig kompetanse i egne saker
 
-Enheten kan etterforske saker om organisert og annen alvorlig kriminalitet. Ved avgjørelsen av om en slik sak skal etterforskes ved enheten skal det særlig legges vekt på om saken:er av prinsipiell karakter,omfatter personer eller miljøer hvor enheten har særlig erfaring eller kunnskap,strekker seg over flere politidistrikter,ikke naturlig hører under noe politidistrikt,av sikkerhetshensyn bør etterforskes utenfor det distrikt den hører under, ellervil kreve utstrakt internasjonalt samarbeid.
+Enheten kan etterforske saker om organisert og annen alvorlig kriminalitet. Ved avgjørelsen av om en slik sak skal etterforskes ved enheten skal det særlig legges vekt på om saken:
 
-Det hører under enheten å etterforske følgende lovbrudd begått i utlandet av personer som befinner seg i Norge, unntatt lovbrudd begått av norsk militær personell:Krigsforbrytelser, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol, samt andre krigsforbrytelser i henhold til konvensjoner som Norge har ratifisert.Folkemord, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol.Forbrytelser mot menneskeheten, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol.
+1. er av prinsipiell karakter,
+2. omfatter personer eller miljøer hvor enheten har særlig erfaring eller kunnskap,
+3. strekker seg over flere politidistrikter,
+4. ikke naturlig hører under noe politidistrikt,
+5. av sikkerhetshensyn bør etterforskes utenfor det distrikt den hører under, eller
+6. vil kreve utstrakt internasjonalt samarbeid.
 
-Enheten kan etterforske følgende lovbrudd begått i utlandet av personer som befinner seg i Norge:Handling straffbar etter [lov 17. juli 1998 nr. 54](lov/1998-07-17-54) angående konvensjon om antipersonellminer [§ 5](lov/1998-07-17-54/§5).Handlinger som er straffbare etter [lov 15. mai 2009 nr. 28](lov/2009-05-15-28) om gjennomføring av Konvensjonen om klaseammunisjon.Åpen etterforsking av terrorhandlinger, jf. [straffeloven § 131](lov/2005-05-20-28/§131), [§ 133](lov/2005-05-20-28/§133), [§ 134](lov/2005-05-20-28/§134) og [§ 135](lov/2005-05-20-28/§135).Tortur, jf. [straffeloven § 174](lov/2005-05-20-28/§174).Andre alvorlige lovbrudd, når de står i sammenheng med lovbrudd som er nevnt foran.Etter særskilt beslutning av overordnet påtalemyndighet andre alvorlige lovbrudd begått av utlending i utlandet dersom mistenkte befinner seg i Norge.
+Det hører under enheten å etterforske følgende lovbrudd begått i utlandet av personer som befinner seg i Norge, unntatt lovbrudd begått av norsk militær personell:
 
-Enheten kan etterforske alvorlig IKT-kriminalitet. Ved avgjørelse av om en slik sak skal etterforskes ved enheten skal det legges særlig vekt på om sakener av prinsipiell karakter,vil kreve utstrakt internasjonalt samarbeid,ikke naturlig hører under noe politidistrikt, ellerer særlig kompetanse- eller teknologikrevende.
+1. Krigsforbrytelser, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol, samt andre krigsforbrytelser i henhold til konvensjoner som Norge har ratifisert.
+2. Folkemord, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol.
+3. Forbrytelser mot menneskeheten, som definert i Roma-vedtektene av 1998 for Den internasjonale straffedomstol.
+
+Enheten kan etterforske følgende lovbrudd begått i utlandet av personer som befinner seg i Norge:
+
+1. Handling straffbar etter [lov 17. juli 1998 nr. 54](lov/1998-07-17-54) angående konvensjon om antipersonellminer [§ 5](lov/1998-07-17-54/§5).
+2. Handlinger som er straffbare etter [lov 15. mai 2009 nr. 28](lov/2009-05-15-28) om gjennomføring av Konvensjonen om klaseammunisjon.
+3. Åpen etterforsking av terrorhandlinger, jf. [straffeloven § 131](lov/2005-05-20-28/§131), [§ 133](lov/2005-05-20-28/§133), [§ 134](lov/2005-05-20-28/§134) og [§ 135](lov/2005-05-20-28/§135).
+4. Tortur, jf. [straffeloven § 174](lov/2005-05-20-28/§174).
+5. Andre alvorlige lovbrudd, når de står i sammenheng med lovbrudd som er nevnt foran.
+6. Etter særskilt beslutning av overordnet påtalemyndighet andre alvorlige lovbrudd begått av utlending i utlandet dersom mistenkte befinner seg i Norge.
+
+Enheten kan etterforske alvorlig IKT-kriminalitet. Ved avgjørelse av om en slik sak skal etterforskes ved enheten skal det legges særlig vekt på om saken
+
+1. er av prinsipiell karakter,
+2. vil kreve utstrakt internasjonalt samarbeid,
+3. ikke naturlig hører under noe politidistrikt, eller
+4. er særlig kompetanse- eller teknologikrevende.
 
 Avgjørelse av om enheten skal etterforske en sak som nevnt i første, annet og fjerde ledd treffes av sjef eller assisterende sjef. En statsadvokat ved Det nasjonale statsadvokatembetet treffer beslutning om inntak av saker som nevnt i tredje ledd etter samråd med sjef eller assisterende sjef ved enheten. Før statsadvokaten treffer beslutning om å ta inn en sak som nevnt i tredje ledd bokstav b) skal det innhentes uttalelse fra Sjefen for Politiets sikkerhetstjeneste. Avgjørelse av om enheten skal sette i verk etterforsking treffes skriftlig.
 
@@ -2065,5 +2159,11 @@ Riksadvokaten kan beslutte at statsadvokatembetet skal ha andre nasjonale påtal
 ## II.
 
 1. Reglene i del I trer i kraft 1 januar 1986.
-2. Fra samme tidspunkt oppheves følgende bestemmelser:Kronprinsreg.res. 14 desember 1934 om regler om ordning av påtalemyndigheten med senere endringer ... med unntak av reglenes kap. X og XII,Kgl.res. 3 desember 1904 om avdragsvis betaling av bøter og opptjening av samme i statens eller kommunens tjeneste,Kgl.res. 23 februar 1968 om fingeravtrykk og fotografi av person som er mistenkt eller dømt for straffbar handling,Kgl.res. 2 juni 1978 om sakkyndig likundersøkelse i medhold av [straffeprosessloven § 211](lov/1981-05-22-25/§211) ogKgl.res. 15 februar 1980 om instruks om gjennomføring av kroppslig undersøkelse av mistenkte etter straffeprosessloven § 211 a.
+2. Fra samme tidspunkt oppheves følgende bestemmelser:
+
+   1. Kronprinsreg.res. 14 desember 1934 om regler om ordning av påtalemyndigheten med senere endringer ... med unntak av reglenes kap. X og XII,
+   2. Kgl.res. 3 desember 1904 om avdragsvis betaling av bøter og opptjening av samme i statens eller kommunens tjeneste,
+   3. Kgl.res. 23 februar 1968 om fingeravtrykk og fotografi av person som er mistenkt eller dømt for straffbar handling,
+   4. Kgl.res. 2 juni 1978 om sakkyndig likundersøkelse i medhold av [straffeprosessloven § 211](lov/1981-05-22-25/§211) og
+   5. Kgl.res. 15 februar 1980 om instruks om gjennomføring av kroppslig undersøkelse av mistenkte etter straffeprosessloven § 211 a.
 3. De bestemmelser som er fastsatt ved [lov 14 juni 1985 nr. 71](lov/1985-06-14-71) om ikraftsetting og endring av den nye straffeprosessloven m.m. vedrørende anvendelse av den nye straffeprosessloven m.m. på saker som er under behandling 1 januar 1986, gjelder tilsvarende så langt de passer for reglene i del I.

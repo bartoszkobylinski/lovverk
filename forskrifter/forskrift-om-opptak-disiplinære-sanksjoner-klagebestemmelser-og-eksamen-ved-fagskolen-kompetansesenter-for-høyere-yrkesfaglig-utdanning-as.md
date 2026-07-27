@@ -56,7 +56,20 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 (6) Realkompetansen vurderes opp mot læringsutbytte på nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring.
 
-(7) Utforming av realkompetansesøknad gjøres ved å benytte søknadsskjema på skolens hjemmeside og dokumentasjon legges ved. All dokumentasjon skal være skriftlig. Realkompetansevurdering skjer etter følgende retningslinjer:Søkere må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og dokumentasjon for fellesfag som tilsvarer læreplanene i Vg1 og Vg2 i yrkesfaglige programområder.Dokumentasjon må være utformet slik at den kan vurderes mot kompetansemålene i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og fellesfagene på Vg1 og Vg2 i yrkesfaglige programområder.Realkompetansen kan være oppnådd både gjennom formell, ikke-formell eller uformell læring. Dvs. alle kunnskaper og ferdigheter en person har tilegnet seg gjennom utdanning, betalt eller ubetalt arbeid, etterutdanning, fritidsaktiviteter, organisasjonsarbeid og annet som kommer i tillegg til den kompetansen som er dokumentert gjennom grunnutdanningen. Yrkespraksis må være relevant til studieprogrammet det søkes på studieplanen, og søkeren må ha nødvendige faglige forutsetninger for å gjennomføre det aktuelle studiet. Realkompetansevurdering kan ikke foretas for opptak til utdanninger der det stilles opptakskrav om yrkesgodkjenning, autorisasjon eller sertifisering etter annen lovgivning.Innlevert dokumentasjon må oppfylle minimum ett av de følgende kravenerelevant yrkespraksis fra det fagområdet fagskolen omfatter i form av arbeidsattest eller arbeidsbekreftelse som angir start- og evt. sluttidspunkt for arbeidsforholdet, stillingsprosent og /eller arbeidstimer i sum eller per uke/månedutdanning og kurs i form av vitnemål, kursbevis, kompetansebevisrelevant erfaring fra blant annet organisasjonsliv, verv og fritidsinteresser. Dokumentasjon legges ved dersom dokumentbare forhold.Dersom søkeren mangler dokumentasjon på deler av sin kompetanse, kan fagskolen legge til rette for å synliggjøre eller demonstrere den, slik at den dokumenteres, enten av søkeren selv, eller av en som observerer.All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold som er detaljert beskrevet og som kan vurderes mot kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.Dersom det fremlegges dokumentasjon som ikke oppfyller disse kravene kan skolen se bort fra den kompetansen dokumentasjonen omhandler.Vedtak om tilkjenning av realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
+(7) Utforming av realkompetansesøknad gjøres ved å benytte søknadsskjema på skolens hjemmeside og dokumentasjon legges ved. All dokumentasjon skal være skriftlig. Realkompetansevurdering skjer etter følgende retningslinjer:
+
+1. Søkere må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og dokumentasjon for fellesfag som tilsvarer læreplanene i Vg1 og Vg2 i yrkesfaglige programområder.
+2. Dokumentasjon må være utformet slik at den kan vurderes mot kompetansemålene i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og fellesfagene på Vg1 og Vg2 i yrkesfaglige programområder.
+3. Realkompetansen kan være oppnådd både gjennom formell, ikke-formell eller uformell læring. Dvs. alle kunnskaper og ferdigheter en person har tilegnet seg gjennom utdanning, betalt eller ubetalt arbeid, etterutdanning, fritidsaktiviteter, organisasjonsarbeid og annet som kommer i tillegg til den kompetansen som er dokumentert gjennom grunnutdanningen. Yrkespraksis må være relevant til studieprogrammet det søkes på studieplanen, og søkeren må ha nødvendige faglige forutsetninger for å gjennomføre det aktuelle studiet. Realkompetansevurdering kan ikke foretas for opptak til utdanninger der det stilles opptakskrav om yrkesgodkjenning, autorisasjon eller sertifisering etter annen lovgivning.
+4. Innlevert dokumentasjon må oppfylle minimum ett av de følgende kravene
+
+   1. relevant yrkespraksis fra det fagområdet fagskolen omfatter i form av arbeidsattest eller arbeidsbekreftelse som angir start- og evt. sluttidspunkt for arbeidsforholdet, stillingsprosent og /eller arbeidstimer i sum eller per uke/måned
+   2. utdanning og kurs i form av vitnemål, kursbevis, kompetansebevis
+   3. relevant erfaring fra blant annet organisasjonsliv, verv og fritidsinteresser. Dokumentasjon legges ved dersom dokumentbare forhold.
+   4. Dersom søkeren mangler dokumentasjon på deler av sin kompetanse, kan fagskolen legge til rette for å synliggjøre eller demonstrere den, slik at den dokumenteres, enten av søkeren selv, eller av en som observerer.
+5. All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold som er detaljert beskrevet og som kan vurderes mot kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.
+6. Dersom det fremlegges dokumentasjon som ikke oppfyller disse kravene kan skolen se bort fra den kompetansen dokumentasjonen omhandler.
+7. Vedtak om tilkjenning av realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
 
 (8) Styret selv kan stille spesielle opptakskrav som er relevante for fagskoleutdanningen. Med spesielle opptakskrav menes krav om bestemte fag, fagbrev, svennebrev, karakterer, poeng, opptaksprøver, autorisasjoner, sertifiseringer eller andre yrkesgodkjenninger. Slike spesielle opptakskrav skal fremgå av studieplanen i henhold til styrets vedtak. Styret selv kan i tillegg stille opptakskrav om fullført og bestått fagskoleutdanning til fagskoleutdanninger. Annen fagskoleutdanning kan kun settes som opptakskrav i tilfeller der de enkelte fagskoleutdanningene er selvstendige enheter som bygger på hverandre, og det totale løpet for utdanningene som bygger på hverandre ikke overskrider to år. I særlige tilfeller kan det totale utdanningsløpet være opptil tre år Slike spesielle opptakskrav skal fremgå av studieplanen i henhold til styrets vedtak.
 
@@ -68,11 +81,20 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk på minimum nivå B1.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -120,7 +142,12 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 (4) Fritak skal bygge på en faglig vurdering fra den enkelte fagskole. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
 
-(5) Søknad om godskriving av beståtte emner eller eksamener fra andre tilsvarende utdanningsinstitusjoner samt søknad om fritak, behandles av opptakskomiteen. Studenten får begrunnelsen for vedtaket som fattes av rektor. Søknad skal inneholde en eller flere av følgende punkter:Vitnemål/karakterutskriftOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet, eller studieplanDokumentasjon om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, eventuelt annen utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, som samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
+(5) Søknad om godskriving av beståtte emner eller eksamener fra andre tilsvarende utdanningsinstitusjoner samt søknad om fritak, behandles av opptakskomiteen. Studenten får begrunnelsen for vedtaket som fattes av rektor. Søknad skal inneholde en eller flere av følgende punkter:
+
+1. Vitnemål/karakterutskrift
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet, eller studieplan
+4. Dokumentasjon om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, eventuelt annen utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, som samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
 
 (6) Fritak i et emne skal fremgå av vitnemålet fra fagskolen med angivelse av fritaksgrunnlaget. Antall studiepoeng skal også angis. Vitnemålet fra fagskolen er kun gyldig sammen med dokumentasjon som viser fritaksgrunnlaget.
 
@@ -162,7 +189,19 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 ### § 3-2. Tilrettelegging for studenter med funksjonsnedsettelse og studenter med særskilte behov
 
-(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for fagskolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:medisinske eller andre årsakerfunksjonsnedsettelselese- og skrivevansker.Skriftlig søknad må fremsette til Kompetansesenter for høyere yrkesfaglig utdanning AS v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.Egnet individuell tilrettelegging ved eksamen kan være:forlengelse av tid til å gjennomføre oppgaver og prosjekterspesielle hjelpemidler/hjelpetiltak.Skriftlig søknad må fremsette til Kompetansesenter for høyere yrkesfaglig utdanning AS v/rektor innen 1 (en) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for fagskolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
+
+1. Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:
+
+   - medisinske eller andre årsaker
+   - funksjonsnedsettelse
+   - lese- og skrivevansker.
+2. Skriftlig søknad må fremsette til Kompetansesenter for høyere yrkesfaglig utdanning AS v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+3. Egnet individuell tilrettelegging ved eksamen kan være:
+
+   - forlengelse av tid til å gjennomføre oppgaver og prosjekter
+   - spesielle hjelpemidler/hjelpetiltak.
+4. Skriftlig søknad må fremsette til Kompetansesenter for høyere yrkesfaglig utdanning AS v/rektor innen 1 (en) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
 
 (2) En student har klagerett på vedtak som er beskrevet i punkt 1. Klagen må være framsatt skriftlig og må være rektor ved Kompetansesenter for høyere yrkesfaglig utdanning AS i hende senest 3 (tre) uker etter at studenten er underrettet om vedtaket og om begrunnelsen for vedtaket. Klagen bør være begrunnet. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be studentrepresentanten om hjelp og støtte i forbindelse med klage. Blir vedtaket ikke omgjort av rektor oversendes klagen til Kompetansesenter for høyere yrkesfaglig utdanning AS’ klagenemnd som behandler klagen, tar en avgjørelse i saken og gir et begrunnet svar på klagen. Studenten har krav på et begrunnet svar innen 3 uker fra klagen ble mottatt. Avgjørelsen er endelig og kan ikke ankes.
 
@@ -186,17 +225,37 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 (2) Eksamens- og vurderingsformer som benyttes er muntlig og/eller skriftlig eksamen som beskrevet i studieplanen for fagskoleutdanningen.
 
-(3) Obligatoriske oppgaver og innleveringerAlle emner har oppgaver med karakter fra A til F (A er høyeste karakter og E er laveste karakter, F er ikke bestått) eller bestått/ikke bestått.Oppgavene er et verktøy i oppfølgingen av studentenes faglige progresjon. Til disse oppgavene mottar de en skriftlig tilbakemelding samt en bokstavkarakter eller bestått/ikke bestått.Ved ikke bestått og karakteren F, får studentene anledning til å levere en ny forbedret oppgave til vurdering. Studentene gis inntil to forsøk på å forbedre oppgaven. Resultatet gjøres kjent innen 3 uker etter at oppgaven ble mottatt. Studenten får skriftlig begrunnelse for karakter på alle oppgaver.
+(3) Obligatoriske oppgaver og innleveringer
+
+1. Alle emner har oppgaver med karakter fra A til F (A er høyeste karakter og E er laveste karakter, F er ikke bestått) eller bestått/ikke bestått.
+2. Oppgavene er et verktøy i oppfølgingen av studentenes faglige progresjon. Til disse oppgavene mottar de en skriftlig tilbakemelding samt en bokstavkarakter eller bestått/ikke bestått.
+3. Ved ikke bestått og karakteren F, får studentene anledning til å levere en ny forbedret oppgave til vurdering. Studentene gis inntil to forsøk på å forbedre oppgaven. Resultatet gjøres kjent innen 3 uker etter at oppgaven ble mottatt. Studenten får skriftlig begrunnelse for karakter på alle oppgaver.
 
 (4) Praksis vurderes til bestått/ikke bestått. Resultatet vil bli gjort kjent for den enkelte student innen 1 uke etter gjennomført praksis. Ved ikke bestått praksis gis studenten mulighet til ny praksis inntil 2 ganger. En student som ikke har gjennomført obligatorisk praksis som planlagt, har rett til å få tildelt praksis på nytt. Dette er i de tilfeller studenten dokumenterer gyldig fravær, for eksempel sykdom eller fødsel, eller hvis det er alvorlig sykdom i nærmeste familie som egne barn, ektefelle, samboer eller foreldre, eller dødsfall i nærmeste familie. Gyldig dokumentasjon er bekreftelse eller sykemelding fra lege. Gyldig dokumentasjon må være Kompetansesenter for høyere yrkesfaglig utdanning AS i hende senest 3 dager etter planlagt praksis.
 
-(5) Gjennomføring av avsluttende eksamen er beskrevet for hvert emne i studieplanen til fagskoleutdanningen.Det er læringsutbyttet for det enkelte emne som vurderes i avsluttende eksamen.Eksamensoppgaven som inngår i avsluttende eksamen blir evaluert med bokstavkarakterene: A, B, C, D, E, F hvor A er beste og F betyr ikke bestått og er dårligste karakter. Eksamensoppgaven gjenspeiler i størst mulig grad læringsutbyttet og de oppgaver som studentene møter i arbeidslivet.Karakterskala – kriterier for bokstavkarakterAFremragendeFremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet.BMeget godtMeget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+(5) Gjennomføring av avsluttende eksamen er beskrevet for hvert emne i studieplanen til fagskoleutdanningen.
+
+1. Det er læringsutbyttet for det enkelte emne som vurderes i avsluttende eksamen.
+2. Eksamensoppgaven som inngår i avsluttende eksamen blir evaluert med bokstavkarakterene: A, B, C, D, E, F hvor A er beste og F betyr ikke bestått og er dårligste karakter. Eksamensoppgaven gjenspeiler i størst mulig grad læringsutbyttet og de oppgaver som studentene møter i arbeidslivet.
+3. Karakterskala – kriterier for bokstavkarakter
+
+   |  |  |  |
+   | --- | --- | --- |
+   | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet. |
+   | B | Meget godt | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet. |
+   | C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+   | D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+   | E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+   | F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 ### § 4-3. Adgang til å avlegge avsluttende eksamen
 
 (1) En student har rett til å avlegge eksamen inntil 3 (tre) ganger.
 
-(2) Studentene har adgang til å avlegge eksamen dersom:de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamen.de har vært til stede minst 90 % i undervisningen.
+(2) Studentene har adgang til å avlegge eksamen dersom:
+
+1. de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamen.
+2. de har vært til stede minst 90 % i undervisningen.
 
 (3) Når det kan være fare for at en student ikke får ta eksamen skal studenten gis beskjed så snart skolen ser at dette kan skje og innen 14 dager før eksamen.
 
@@ -204,7 +263,10 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 ### § 4-4. Kandidaters rett til å fremstille seg til eksamen
 
-Kandidaters rett til å fremstille seg til eksamen avgrenses til 3 (tre) forsøk. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:har møtt til eksamen.er oppmeldt til eksamen men har uteblivelse uten gyldig forfall.
+Kandidaters rett til å fremstille seg til eksamen avgrenses til 3 (tre) forsøk. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:
+
+1. har møtt til eksamen.
+2. er oppmeldt til eksamen men har uteblivelse uten gyldig forfall.
 
 ### § 4-5. Spesiell tilrettelegging ved eksamen
 
@@ -230,13 +292,25 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) Eksamensavgiften for det enkelte fagskolestudie er oppgitt på hjemmesiden.
 
-(2) Ny prøve:Ny eksamen kan avlegges mot å betale eksamensavgiften.Forbedring av eksamen kan avlegges mot å betale eksamensavgiften.
+(2) Ny prøve:
+
+1. Ny eksamen kan avlegges mot å betale eksamensavgiften.
+2. Forbedring av eksamen kan avlegges mot å betale eksamensavgiften.
 
 ### § 4-9. Fusk
 
-(1) Følgende regnes som fusk:Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+(1) Følgende regnes som fusk:
 
-(2) Eksempler på fusk er:å levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.å levere en besvarelse som helt eller delvis er utarbeidet av en annen person.å levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.å innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av dette er gjengivelse/sitater.Plagiering.
+1. Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.
+2. Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+
+(2) Eksempler på fusk er:
+
+1. å levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.
+2. å levere en besvarelse som helt eller delvis er utarbeidet av en annen person.
+3. å levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.
+4. å innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av dette er gjengivelse/sitater.
+5. Plagiering.
 
 (3) Fusk eller forsøk på fusk vil medføre at eksamen annulleres.
 
@@ -258,11 +332,36 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (3) Ved bestilling av nytt vitnemål, utstedes duplikat som tildeles studenten mot fastsatt avgift.
 
-(4) På vitnemål føres:studentens navnstudentens personaliafagskoleutdanningens navn og omfangfagskoleutdanningens nivå i NKR og om kvalifikasjonen som oppnås er fagskole 1 eller fagskole 2gradsbetegnelse for fagskoleutdanningenfagskoleutdanningens overordnede læringsutbyttebeskrivelserprosjektoppgave, tittel og beskrivelse, vurderinger, merknaderinformasjon om vurderingsformerinformasjon om praksisfagskoleutdanningens emnerstudiepoeng for hvert emneeksamenskarakter som vurderes etter karakterskala fra A til Fom praksisområde/-innhold, hvor og lengden av praksisperiodenom det er skikkethetsvurderingfagskolens navndato og underskriftdersom utdanningen har krav om skikkethetsvurdering, skal det påføres vitnemålet.
+(4) På vitnemål føres:
+
+1. studentens navn
+2. studentens personalia
+3. fagskoleutdanningens navn og omfang
+4. fagskoleutdanningens nivå i NKR og om kvalifikasjonen som oppnås er fagskole 1 eller fagskole 2
+5. gradsbetegnelse for fagskoleutdanningen
+6. fagskoleutdanningens overordnede læringsutbyttebeskrivelser
+7. prosjektoppgave, tittel og beskrivelse, vurderinger, merknader
+8. informasjon om vurderingsformer
+9. informasjon om praksis
+10. fagskoleutdanningens emner
+11. studiepoeng for hvert emne
+12. eksamenskarakter som vurderes etter karakterskala fra A til F
+13. om praksisområde/-innhold, hvor og lengden av praksisperioden
+14. om det er skikkethetsvurdering
+15. fagskolens navn
+16. dato og underskrift
+17. dersom utdanningen har krav om skikkethetsvurdering, skal det påføres vitnemålet.
 
 (5) Studenter som består emneeksamen mottar bevis for dette.
 
-(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:studentens navnstudentens personaliafagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgittfagskolens navndato og underskriftstudiepoeng for emne/emner som er bestått.
+(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:
+
+1. studentens navn
+2. studentens personalia
+3. fagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgitt
+4. fagskolens navn
+5. dato og underskrift
+6. studiepoeng for emne/emner som er bestått.
 
 (7) I de tilfeller det er gitt godskriving eller fritak for et eller flere emner, vil dette stå oppført i vitnemålet.
 
@@ -270,7 +369,21 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) En student kan klage på karakter gitt på skriftlige eksamener.
 
-(2) For klager på karakter gitt på skriftlige eksamener gjelder:I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen 3 (tre) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen 2 (to) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.Klage på karakter skal skje skriftlig til Kompetansesenter for høyere yrkesfaglig utdanning AS.En klage må fremsettes innen 3 (tre) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.Klage på karakter fører til ny vurdering hos sensor.Når en klage på karakter eller sensur blir tatt til følge, oppnevner styret ny(e) sensor(er).De nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.Ved mistanke om plagiat ved første sensurering, skal skolen ikke gjøre sensorene oppmerksom på dette.Ny vurdering kan justere karakteren både opp og ned og til stryk.Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.Studenten kan ikke klage på vurderingen av muntlige eksamener.Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-13](forskrift/2021-08-01-4016/§4-13).
+(2) For klager på karakter gitt på skriftlige eksamener gjelder:
+
+1. I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen 3 (tre) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen 2 (to) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.
+2. Klage på karakter skal skje skriftlig til Kompetansesenter for høyere yrkesfaglig utdanning AS.
+3. En klage må fremsettes innen 3 (tre) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.
+4. Klage på karakter fører til ny vurdering hos sensor.
+5. Når en klage på karakter eller sensur blir tatt til følge, oppnevner styret ny(e) sensor(er).
+6. De nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.
+7. Ved mistanke om plagiat ved første sensurering, skal skolen ikke gjøre sensorene oppmerksom på dette.
+8. Ny vurdering kan justere karakteren både opp og ned og til stryk.
+9. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.
+10. Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.
+11. Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.
+12. Studenten kan ikke klage på vurderingen av muntlige eksamener.
+13. Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-13](forskrift/2021-08-01-4016/§4-13).
 
 (3) Studenten har krav på en kort begrunnelse for vurderingen av en muntlig eksamen. En slik begrunnelse må studenten be om umiddelbart etter at vedkommende er gjort kjent med resultatet av vurderingen.
 
@@ -278,7 +391,12 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) Studenter som har avlagt eksamen har rett til å klage over formelle feil ved oppgaver og over avviklingen av eksamen. Som formelle feil kan regnes feil som har hatt betydning for studentens prestasjon eller bedømmelsen av denne, eksempelvis feil ved oppgavegiving, avvikling eller gjennomføring av sensur.
 
-(2) Den skriftlige klagen skal inneholde:hvem som klager (navn og adresse)det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)hva klagen gjelderdato og underskrift.
+(2) Den skriftlige klagen skal inneholde:
+
+1. hvem som klager (navn og adresse)
+2. det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)
+3. hva klagen gjelder
+4. dato og underskrift.
 
 (3) Klage på formelle feil ved eksamen må fremsettes skriftlig til Kompetansesenter for høyere yrkesfaglig utdanning AS senest innen 3 (tre) uker etter at studenten er eller burde være kjent med det forholdet som begrunner klagen. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten. Rektor innhenter nødvendig opplysninger fra den ansvarlige for eksamen. Disse opplysningene oversendes Kompetansesenter for høyere yrkesfaglig utdanning AS’ styre som behandler saken og vurderer om det er blitt foretatt formelle feil.
 
@@ -322,7 +440,18 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 ### § 5-5. Fagskoleutdanninger med skikkethetsvurdering
 
-Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare, jf. [§ 5-4](forskrift/2021-08-01-4016/§5-4). Skikkethetsvurdering gjelder:Sosialpedagogikk for barne- og ungdomsarbeider i arbeid med barn og ungeFlerkulturelt arbeid for barne- og ungdomsarbeider barnehageFlerkulturelt arbeid for barne- og ungdomsarbeider i skoleArbeidsmetoder i barnehagen for barne- og ungdomsarbeider er underlagt skikkethetsvurderingGeriatrisk sykepleie for helsefagarbeidere i kommunehelsetjenestenSykdomslære og legemidler for helsefagarbeidere i arbeid med den eldre pasienten i kommunehelsetjenesten.Det vil framgå av den enkelte studieplan at utdanningen er omfattet av skikkethetsvurdering.Et vitnemål for fullført og bestått utdanning innebærer at kandidaten er vurdert som skikket for yrket.
+Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare, jf. [§ 5-4](forskrift/2021-08-01-4016/§5-4). Skikkethetsvurdering gjelder:
+
+- Sosialpedagogikk for barne- og ungdomsarbeider i arbeid med barn og unge
+- Flerkulturelt arbeid for barne- og ungdomsarbeider barnehage
+- Flerkulturelt arbeid for barne- og ungdomsarbeider i skole
+- Arbeidsmetoder i barnehagen for barne- og ungdomsarbeider er underlagt skikkethetsvurdering
+- Geriatrisk sykepleie for helsefagarbeidere i kommunehelsetjenesten
+- Sykdomslære og legemidler for helsefagarbeidere i arbeid med den eldre pasienten i kommunehelsetjenesten.
+
+Det vil framgå av den enkelte studieplan at utdanningen er omfattet av skikkethetsvurdering.
+
+Et vitnemål for fullført og bestått utdanning innebærer at kandidaten er vurdert som skikket for yrket.
 
 ### § 5-6. Løpende og særskilt skikkethetsvurdering
 
@@ -332,7 +461,12 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 ### § 5-7. Vurderingskriterier for skikkethet
 
-(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 (2) Departementet kan fastsette tilleggskriterier for enkeltutdanninger i særskilte tilfeller.
 
@@ -426,7 +560,13 @@ Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkomme
 
 ### § 7-3. Studentombud
 
-Fagskolestudentene ved Kompetansesenter for høyere yrkesfaglig utdanning AS vil ha tilgang til et studentombud.7a. Studentombudet skal gi fagskolestudentene råd og hjelp knyttet til deres studiesituasjon.Studentombudet kan ikke instrueres i sitt virke.Studentombudet har taushetsplikt, jf. [forvaltningsloven § 13](lov/1967-02-10/§13)–[§ 13e](lov/1967-02-10/§13e).Kontaktinformasjon til studentombudet blir opplyst på Kompetansesenter for høyere yrkesfaglig utdanning AS sin læringsplattform.
+Fagskolestudentene ved Kompetansesenter for høyere yrkesfaglig utdanning AS vil ha tilgang til et studentombud.
+
+7a. Studentombudet skal gi fagskolestudentene råd og hjelp knyttet til deres studiesituasjon.
+
+1. Studentombudet kan ikke instrueres i sitt virke.
+2. Studentombudet har taushetsplikt, jf. [forvaltningsloven § 13](lov/1967-02-10/§13)–[§ 13e](lov/1967-02-10/§13e).
+3. Kontaktinformasjon til studentombudet blir opplyst på Kompetansesenter for høyere yrkesfaglig utdanning AS sin læringsplattform.
 
 ### § 7-4. Studentenes læringsmiljø
 

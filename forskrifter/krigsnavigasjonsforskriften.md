@@ -64,4 +64,7 @@ Kystdirektøren utpeker forbindelsespersonell fra Kystverket til Forsvarets komm
 
 Forskriften trer i kraft straks.
 
-Fra samme tidspunkt oppheves:[Forskrift 25. juli 1986 nr. 1607 for lostjenesten ved beredskap/krig](forskrift/1986-07-25-1607)Direktiv for fyr- og merketjenesten ved beredskap og i krig fastsatt ved kgl.res. 6. oktober 1989.
+Fra samme tidspunkt oppheves:
+
+1. [Forskrift 25. juli 1986 nr. 1607 for lostjenesten ved beredskap/krig](forskrift/1986-07-25-1607)
+2. Direktiv for fyr- og merketjenesten ved beredskap og i krig fastsatt ved kgl.res. 6. oktober 1989.

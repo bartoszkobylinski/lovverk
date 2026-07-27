@@ -15,7 +15,7 @@ xml_hash: "43380aa48c92f00d143642e07c007dc8b37f4e35ddd431e7d391d755c40277ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,17 @@ Opptakskrav etter dette kapittelet må være oppfylt innen søknadsfristen 1. ma
 
 ### § 3-1. Spesielle opptakskrav i tillegg til generell studiekompetanse
 
-Søkere til bachelorutdanningen må i tillegg til de generelle opptakskravene tilfredsstille følgende krav:Norsk statsborgerskapPlettfri vandelHatt førerrett klasse B i minst ett år pr. 1. august i opptaksåret.Karakter 3 eller bedre i norsk hovedmål skriftlig (393 timer) fra norsk videregående skole, (gjennomsnitt av standpunkt og eksamenskarakter). For søkere som har samisk som første- eller andrespråk gjelder karakterkravet i norsk for gjennomsnittet av karakterene i norsk skriftlig (309 timer) og samisk skriftlig (309 timer). For søkere som har finsk som andrespråk, gjelder karakterkravet i norsk gjennomsnittet av karakterene i første- og andrespråk skriftlig.For øvrig gjelder regler fastsatt av Kunnskapsdepartementet om ekvivalente prøver og karakterer i norsk.Oppfylle de medisinske krav, jf. [§ 3-3](forskrift/2017-08-29-1592/§3-3).Bestå fysiske krav, herunder krav til svømmeferdigheter.Fremstå som egnet etter vurdering i opptaksnemnd.
+Søkere til bachelorutdanningen må i tillegg til de generelle opptakskravene tilfredsstille følgende krav:
+
+1. Norsk statsborgerskap
+2. Plettfri vandel
+3. Hatt førerrett klasse B i minst ett år pr. 1. august i opptaksåret.
+4. Karakter 3 eller bedre i norsk hovedmål skriftlig (393 timer) fra norsk videregående skole, (gjennomsnitt av standpunkt og eksamenskarakter). For søkere som har samisk som første- eller andrespråk gjelder karakterkravet i norsk for gjennomsnittet av karakterene i norsk skriftlig (309 timer) og samisk skriftlig (309 timer). For søkere som har finsk som andrespråk, gjelder karakterkravet i norsk gjennomsnittet av karakterene i første- og andrespråk skriftlig.
+
+   For øvrig gjelder regler fastsatt av Kunnskapsdepartementet om ekvivalente prøver og karakterer i norsk.
+5. Oppfylle de medisinske krav, jf. [§ 3-3](forskrift/2017-08-29-1592/§3-3).
+6. Bestå fysiske krav, herunder krav til svømmeferdigheter.
+7. Fremstå som egnet etter vurdering i opptaksnemnd.
 
 Opptakskrav etter bokstav a, c, d og e må dokumenteres innen søknadsfristen 1. mars.
 
@@ -62,7 +72,13 @@ Opptakskrav etter bokstav a, c, d og e må dokumenteres innen søknadsfristen 1.
 
 ### § 3-2. Medisinske krav
 
-Søker skal i henhold til de medisinske krav vurderes individuelt på bakgrunn av innsendt dokumentasjon. Søker må ikke ha:funksjonsnedsettelseaktivitetsbegrensning, ellerdeltakelsesbegrensningsom medfører at utdanningen ikke kan gjennomføres på en fullverdig måte.
+Søker skal i henhold til de medisinske krav vurderes individuelt på bakgrunn av innsendt dokumentasjon. Søker må ikke ha:
+
+- funksjonsnedsettelse
+- aktivitetsbegrensning, eller
+- deltakelsesbegrensning
+
+som medfører at utdanningen ikke kan gjennomføres på en fullverdig måte.
 
 ### § 3-3. Utarbeidelse av retningslinjer
 

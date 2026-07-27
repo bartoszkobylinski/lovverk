@@ -15,7 +15,7 @@ xml_hash: "2cd5dd9f68dba5a3fd9edf8daeaac67c3ef2f33d419c4dc5fda43c74fb6a326b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,11 +38,30 @@ Forsvarsdepartementet og forsvarssektoren er kun omfattet av instruksen pkt. III
 
 ## III. Grunnleggende prinsipper for arbeidet med samfunnssikkerhet
 
-Arbeidet med samfunnssikkerhet bygger på fire grunnleggende prinsipper:Ansvarsprinsippet som innebærer at den organisasjon som har ansvar for et fagområde i en normalsituasjon, også har ansvaret for nødvendige beredskapsforberedelser og for å håndtere ekstraordinære hendelser på området.Likhetsprinsippet som betyr at den organisasjon man opererer med under kriser i utgangspunktet skal være mest mulig lik den organisasjon man har til daglig.Nærhetsprinsippet som betyr at kriser organisatorisk skal håndteres på lavest mulige nivå.Samvirkeprinsippet som betyr at myndigheter, virksomheter eller etater har et selvstendig ansvar for å sikre et best mulig samvirke med relevante aktører og virksomheter i arbeidet med forebygging, beredskap og krisehåndtering.
+Arbeidet med samfunnssikkerhet bygger på fire grunnleggende prinsipper:
+
+1. Ansvarsprinsippet som innebærer at den organisasjon som har ansvar for et fagområde i en normalsituasjon, også har ansvaret for nødvendige beredskapsforberedelser og for å håndtere ekstraordinære hendelser på området.
+2. Likhetsprinsippet som betyr at den organisasjon man opererer med under kriser i utgangspunktet skal være mest mulig lik den organisasjon man har til daglig.
+3. Nærhetsprinsippet som betyr at kriser organisatorisk skal håndteres på lavest mulige nivå.
+4. Samvirkeprinsippet som betyr at myndigheter, virksomheter eller etater har et selvstendig ansvar for å sikre et best mulig samvirke med relevante aktører og virksomheter i arbeidet med forebygging, beredskap og krisehåndtering.
 
 ## IV. Krav til departementenes arbeid med samfunnssikkerhet
 
-Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. Det stilles derfor krav om at det enkelte departement skal kunne dokumentere at det:avklarer og beskriver sentrale roller og ansvarsområder innenfor samfunnssikkerhetsarbeidet i eget departement og i egen sektor.utarbeider og vedlikeholder systematiske risiko- og sårbarhetsanalyser1 med grunnlag i vurderinger av tilsiktede og utilsiktede hendelser som kan true departementets og sektorens funksjonsevne og sette liv, helse og materielle verdier i fare.iverksetter nødvendige kompenserende tiltak som reduserer sannsynligheten for – og konsekvensene av – uønskede hendelser i egen sektor.beskriver beredskapstiltakenes evne til å redusere sannsynligheten for – og håndtere konsekvensene av – uønskede hendelser i egen sektor.utarbeider mål for samfunnssikkerhetsarbeidet i egen sektor.2koordinerer eget arbeid med forebygging, beredskap og krisehåndtering med berørte departementer.ivaretar ansvaret for krisehåndtering innenfor egen sektor, også som eventuelt lederdepartement, og er i stand til å understøtte håndteringen i andre departementer, se for øvrig kap. VIII. Dette innbefatter bl.a. å:utvikle og vedlikeholde planverk for håndtering av uønskede hendelser. Planverket skal som et minimum inneholde rammer og vilkår for organisering, krisekommunikasjon, varslingsrutiner og koordinering med andre departementer. Kontinuitetsplaner og departementets egen underliggende plan til Sivilt beredskapssystem (SBS) skal også foreligge.øve målrettet i egen sektor og tverrdepartementalt. Departementet skal ha en øvingsplan med formål, tid og øvingsform for øvelsene. Departementets ledelse og andre i departementet med definerte oppgaver ved krisehåndtering, skal øves i sine roller.evaluerer hendelser og øvelser, og sørger for at funn og læringspunkter følges opp gjennom en ledelsesforankret vurdering og tiltaksplan. Oppfølgingen etter øvelser og hendelser skal ikke anses som avsluttet før alle punktene i tiltaksplanen er fulgt opp tilfredsstillende.forelegger relevante planer, regelverksendringer og eventuelle uenighetssaker for Justis- og beredskapsdepartementet jf. kap. VI, punkt 1d.fremmer kunnskapsbasert arbeid, forskning og utvikling innen sektoren.
+Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. Det stilles derfor krav om at det enkelte departement skal kunne dokumentere at det:
+
+1. avklarer og beskriver sentrale roller og ansvarsområder innenfor samfunnssikkerhetsarbeidet i eget departement og i egen sektor.
+2. utarbeider og vedlikeholder systematiske risiko- og sårbarhetsanalyser1 med grunnlag i vurderinger av tilsiktede og utilsiktede hendelser som kan true departementets og sektorens funksjonsevne og sette liv, helse og materielle verdier i fare.
+3. iverksetter nødvendige kompenserende tiltak som reduserer sannsynligheten for – og konsekvensene av – uønskede hendelser i egen sektor.
+4. beskriver beredskapstiltakenes evne til å redusere sannsynligheten for – og håndtere konsekvensene av – uønskede hendelser i egen sektor.
+5. utarbeider mål for samfunnssikkerhetsarbeidet i egen sektor.2
+6. koordinerer eget arbeid med forebygging, beredskap og krisehåndtering med berørte departementer.
+7. ivaretar ansvaret for krisehåndtering innenfor egen sektor, også som eventuelt lederdepartement, og er i stand til å understøtte håndteringen i andre departementer, se for øvrig kap. VIII. Dette innbefatter bl.a. å:
+
+   1. utvikle og vedlikeholde planverk for håndtering av uønskede hendelser. Planverket skal som et minimum inneholde rammer og vilkår for organisering, krisekommunikasjon, varslingsrutiner og koordinering med andre departementer. Kontinuitetsplaner og departementets egen underliggende plan til Sivilt beredskapssystem (SBS) skal også foreligge.
+   2. øve målrettet i egen sektor og tverrdepartementalt. Departementet skal ha en øvingsplan med formål, tid og øvingsform for øvelsene. Departementets ledelse og andre i departementet med definerte oppgaver ved krisehåndtering, skal øves i sine roller.
+8. evaluerer hendelser og øvelser, og sørger for at funn og læringspunkter følges opp gjennom en ledelsesforankret vurdering og tiltaksplan. Oppfølgingen etter øvelser og hendelser skal ikke anses som avsluttet før alle punktene i tiltaksplanen er fulgt opp tilfredsstillende.
+9. forelegger relevante planer, regelverksendringer og eventuelle uenighetssaker for Justis- og beredskapsdepartementet jf. kap. VI, punkt 1d.
+10. fremmer kunnskapsbasert arbeid, forskning og utvikling innen sektoren.
 
 1 Analysen skal ta utgangspunkt i overordnede nasjonale planleggingsgrunnlag som krisescenarier, oversikt over kritiske samfunnsfunksjoner og andre strategiske dokumenter om risiko, trusler og sårbarhet (eksempelvis vurderinger fra Politiets sikkerhetstjeneste, Etterretningstjenesten, Nasjonal sikkerhetsmyndighet og andre).
 
@@ -50,19 +69,49 @@ Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. 
 
 ## V. Krav til departementer med hovedansvar for kritiske samfunnsfunksjoner
 
-Det er utpekt hovedansvarlige departementer3 som har et særlig ansvar for nødvendig koordinering og samordning innenfor enkelte kritiske samfunnsfunksjoner. Disse departementene skal innenfor sitt hovedansvarsområde, i tillegg til oppgaver som beskrevet under kap. IV:sørge for at det utarbeides og vedlikeholdes risiko- og sårbarhetsanalyser for de kritiske samfunnsfunksjonene som departementet har et hovedansvar for.ha oversikt over tilstanden knyttet til sårbarheter for de områder som departementet har et hovedansvar for, og utarbeide status- og tilstandsvurderinger for disse som fremlegges for Stortinget i de årlige budsjettproposisjonene. Status- og tilstandsvurderingene utarbeides etter en tidsplan fastsatt av Justis- og beredskapsdepartementet.avklare ansvar mellom relevante aktører, herunder identifisere eventuelle gråsoner eller overlappende ansvarsområder. I saker der det er uenighet mellom departementene skal saken forelegges Justis- og beredskapsdepartementet, jf. kap. VI, punkt 1d.planlegge og gjennomføre felles øvelser, evaluere og følge opp læringspunkter.samarbeide med og forelegge forslag til beredskapstiltak, -planer, regelverk og andre viktige saker for berørte departementer.sørge for erfaringsutveksling og kompetanseheving for berørte aktører.bistå Justis- og beredskapsdepartementet med informasjonsinnhenting og rapportering.
+Det er utpekt hovedansvarlige departementer3 som har et særlig ansvar for nødvendig koordinering og samordning innenfor enkelte kritiske samfunnsfunksjoner. Disse departementene skal innenfor sitt hovedansvarsområde, i tillegg til oppgaver som beskrevet under kap. IV:
+
+1. sørge for at det utarbeides og vedlikeholdes risiko- og sårbarhetsanalyser for de kritiske samfunnsfunksjonene som departementet har et hovedansvar for.
+2. ha oversikt over tilstanden knyttet til sårbarheter for de områder som departementet har et hovedansvar for, og utarbeide status- og tilstandsvurderinger for disse som fremlegges for Stortinget i de årlige budsjettproposisjonene. Status- og tilstandsvurderingene utarbeides etter en tidsplan fastsatt av Justis- og beredskapsdepartementet.
+3. avklare ansvar mellom relevante aktører, herunder identifisere eventuelle gråsoner eller overlappende ansvarsområder. I saker der det er uenighet mellom departementene skal saken forelegges Justis- og beredskapsdepartementet, jf. kap. VI, punkt 1d.
+4. planlegge og gjennomføre felles øvelser, evaluere og følge opp læringspunkter.
+5. samarbeide med og forelegge forslag til beredskapstiltak, -planer, regelverk og andre viktige saker for berørte departementer.
+6. sørge for erfaringsutveksling og kompetanseheving for berørte aktører.
+7. bistå Justis- og beredskapsdepartementet med informasjonsinnhenting og rapportering.
 
 3 Det er departementer som er utpekt som hovedansvarlige for samfunnskritiske funksjoner og områder og som oppdateres årlig i tabell i JDs Prop.1 S.
 
 ## VI. Justis- og beredskapsdepartementets samordningsrolle for forebygging og beredskap på samfunnssikkerhetsområdet
 
-[Kgl.res. 10. mars 2017 nr. 312](forskrift/2017-03-10-312) gir Justis- og beredskapsdepartementet en generell samordningsrolle på samfunnssikkerhetsområdet, i tillegg til rollen som sektordepartement og hovedansvarlig departement. Direktoratet for samfunnssikkerhet og beredskap (DSB) understøtter departementet i samordningsrollen.Justis- og beredskapsdepartementet har ansvar for et helhetlig, systematisk og risikobasert arbeid med samfunnssikkerhet på nasjonalt nivå på tvers av alle sektorer. Dette innebærer at Justis- og beredskapsdepartementet skal:ha oversikt over tilstanden på samfunnssikkerhetsområdet, basert på blant annet departementenes status- og tilstandsvurderinger, tilsyn, FoU, øvelser og annen rapportering fra departementene. Justis- og beredskapsdepartementet koordinerer orienteringer til regjeringen og Stortinget om tilstanden på samfunnssikkerhetsområdet.utarbeide nasjonale strategier og overordnede nasjonale planleggingsgrunnlag, herunder proposisjoner og meldinger til Stortinget om samfunnssikkerhet.sørge for at problemstillinger på tvers av flere sektorer og kritiske samfunnsfunksjoner blir håndtert og bistå departementene med å avklare ansvarsforhold.om nødvendig og innen rimelig tid legge frem uenighetssaker for regjeringen eller ved behov for Kongen i statsråd.utvikle og vedlikeholde oversikt over hvilke funksjoner som i et tverrsektorielt perspektiv er kritiske for samfunnssikkerheten.sørge for et kunnskapsbasert samfunnssikkerhetsarbeid gjennom bl.a. forskning og utvikling.veilede departementene i deres arbeid på samfunnssikkerhetsområdet.koordinere norske bidrag til det sivile samfunnssikkerhetsarbeidet i internasjonale organer, herunder FN, NATO og EU.Justis- og beredskapsdepartementet har ansvaret for å koordinere sivile bidrag i samfunnssikkerhetsarbeidet og totalforsvaret i samarbeid med de øvrige departementene gjennom å:vedlikeholde og videreutvikle Sivilt beredskapssystem (SBS) og evt. annet tverrsektorielt nasjonalt sivilt beredskapsplanverk.med utgangspunkt i erfaring fra hendelser, øvelser og krisescenarioer planlegge, gjennomføre og evaluere nasjonale øvelser i sivil sektor.legge til rette for erfaringsutveksling og kompetanseheving knyttet til arbeidet med planverk og nasjonale øvelser i sivil sektor.føre årlig oversikt over nasjonal øvelsesvirksomhet i sivil sektor basert på rapportering fra departementene.Justis- og beredskapsdepartementet skal legge til rette for helhetlig og koordinert kommunikasjon om forebygging, beredskap og krisehåndtering mellom myndigheter og til befolkningen. Dette endrer ikke på de krav som stilles til det enkelte departement på området. Justis- og beredskapsdepartementet skal årlig oppdatere en felles plan for hvordan departementene skal samordne sin krisekommunikasjon.Justis- og beredskapsdepartementet skal påse at alvorlige hendelser følges opp i sektorene på en systematisk måte.
+[Kgl.res. 10. mars 2017 nr. 312](forskrift/2017-03-10-312) gir Justis- og beredskapsdepartementet en generell samordningsrolle på samfunnssikkerhetsområdet, i tillegg til rollen som sektordepartement og hovedansvarlig departement. Direktoratet for samfunnssikkerhet og beredskap (DSB) understøtter departementet i samordningsrollen.
+
+1. Justis- og beredskapsdepartementet har ansvar for et helhetlig, systematisk og risikobasert arbeid med samfunnssikkerhet på nasjonalt nivå på tvers av alle sektorer. Dette innebærer at Justis- og beredskapsdepartementet skal:
+
+   1. ha oversikt over tilstanden på samfunnssikkerhetsområdet, basert på blant annet departementenes status- og tilstandsvurderinger, tilsyn, FoU, øvelser og annen rapportering fra departementene. Justis- og beredskapsdepartementet koordinerer orienteringer til regjeringen og Stortinget om tilstanden på samfunnssikkerhetsområdet.
+   2. utarbeide nasjonale strategier og overordnede nasjonale planleggingsgrunnlag, herunder proposisjoner og meldinger til Stortinget om samfunnssikkerhet.
+   3. sørge for at problemstillinger på tvers av flere sektorer og kritiske samfunnsfunksjoner blir håndtert og bistå departementene med å avklare ansvarsforhold.
+   4. om nødvendig og innen rimelig tid legge frem uenighetssaker for regjeringen eller ved behov for Kongen i statsråd.
+   5. utvikle og vedlikeholde oversikt over hvilke funksjoner som i et tverrsektorielt perspektiv er kritiske for samfunnssikkerheten.
+   6. sørge for et kunnskapsbasert samfunnssikkerhetsarbeid gjennom bl.a. forskning og utvikling.
+   7. veilede departementene i deres arbeid på samfunnssikkerhetsområdet.
+   8. koordinere norske bidrag til det sivile samfunnssikkerhetsarbeidet i internasjonale organer, herunder FN, NATO og EU.
+2. Justis- og beredskapsdepartementet har ansvaret for å koordinere sivile bidrag i samfunnssikkerhetsarbeidet og totalforsvaret i samarbeid med de øvrige departementene gjennom å:
+
+   1. vedlikeholde og videreutvikle Sivilt beredskapssystem (SBS) og evt. annet tverrsektorielt nasjonalt sivilt beredskapsplanverk.
+   2. med utgangspunkt i erfaring fra hendelser, øvelser og krisescenarioer planlegge, gjennomføre og evaluere nasjonale øvelser i sivil sektor.
+   3. legge til rette for erfaringsutveksling og kompetanseheving knyttet til arbeidet med planverk og nasjonale øvelser i sivil sektor.
+   4. føre årlig oversikt over nasjonal øvelsesvirksomhet i sivil sektor basert på rapportering fra departementene.
+3. Justis- og beredskapsdepartementet skal legge til rette for helhetlig og koordinert kommunikasjon om forebygging, beredskap og krisehåndtering mellom myndigheter og til befolkningen. Dette endrer ikke på de krav som stilles til det enkelte departement på området. Justis- og beredskapsdepartementet skal årlig oppdatere en felles plan for hvordan departementene skal samordne sin krisekommunikasjon.
+4. Justis- og beredskapsdepartementet skal påse at alvorlige hendelser følges opp i sektorene på en systematisk måte.
 
 ## VII. Tilsyn med departementenes samfunnssikkerhetsarbeid
 
 [Kgl.res. 10. mars 2017 nr. 312](forskrift/2017-03-10-312) pålegger JD å føre tilsyn med departementenes arbeid med samfunnssikkerhet og beredskap.
 
-Formålet med tilsynet er å fremme:god kvalitet på departementenes samfunnssikkerhetsarbeid under de enkelte departementers ansvarsområder.et samordnet og helhetlig arbeid med samfunnssikkerhet på tvers av departements- og sektoransvar.
+Formålet med tilsynet er å fremme:
+
+- god kvalitet på departementenes samfunnssikkerhetsarbeid under de enkelte departementers ansvarsområder.
+- et samordnet og helhetlig arbeid med samfunnssikkerhet på tvers av departements- og sektoransvar.
 
 Direktoratet for samfunnssikkerhet og beredskap (DSB) kan utføre tilsynet på vegne av Justis- og beredskapsdepartementet.
 
@@ -108,7 +157,13 @@ Det øverste administrative koordineringsorganet på departementsnivå er Kriser
 
 Alle departementene kan ta initiativ til innkalling av Kriserådet. Møtene ledes av lederdepartementet. Dersom lederdepartement ikke er besluttet, ledes rådet av Justis- og beredskapsdepartementet.
 
-Kriserådet har som hovedfunksjon å bidra til sentral krisehåndtering ved å:sikre strategiske vurderingervurdere spørsmål om lederdepartementsikre koordinering av tiltak som iverksettes av ulike sektorersikre koordinert informasjon til publikum, media og andrepåse at spørsmål som krever politisk avklaring raskt legges frem for departementenes politiske ledelse eller regjeringen, herunder avklaring av fullmakter og budsjett.
+Kriserådet har som hovedfunksjon å bidra til sentral krisehåndtering ved å:
+
+1. sikre strategiske vurderinger
+2. vurdere spørsmål om lederdepartement
+3. sikre koordinering av tiltak som iverksettes av ulike sektorer
+4. sikre koordinert informasjon til publikum, media og andre
+5. påse at spørsmål som krever politisk avklaring raskt legges frem for departementenes politiske ledelse eller regjeringen, herunder avklaring av fullmakter og budsjett.
 
 Kriserådet er gitt fullmakt fra regjeringen til å beslutte hvem som skal være lederdepartement under håndtering av en hendelse. Ved tvil eller eventuell uenighet i Kriserådet besluttes valg av lederdepartement av statsministeren i samråd med berørte statsråder.
 
@@ -120,13 +175,30 @@ Justis- og beredskapsdepartementet er fast lederdepartement ved sivile nasjonale
 
 Lederdepartementet har ansvaret for å koordinere håndteringen av krisen på departementsnivå. Utpeking av et lederdepartement medfører ikke endringer i konstitusjonelle ansvarsforhold, og alle departementer beholder ansvar og beslutningsmyndighet for sine respektive saksområder.
 
-Blant de oppgaver et lederdepartement må kunne ivareta er å:sørge for varsling av andre departementer, Statsministerens kontor, egne underlagte virksomheter, og ved alvorlige kriser Stortinget og Kongehusetta initiativ til at Kriserådet innkalles og lede rådets møterutarbeide og distribuere overordnede situasjonsrapporter, blant annet på bakgrunn av innhentet informasjon fra andre departementer, underliggende etater og mediebildetutarbeide overordnede situasjonsanalyser, herunder vurdering av mulige hendelsesforløp og videre utvikling av krisenidentifisere og vurdere behov for tiltak på strategisk nivåkoordinere at operative aktører har nødvendige fullmaktersørge for nødvendig koordinering av tiltak innenfor eget ansvarsområde og med andre departementer og etatersørge for at oppdatert informasjon om situasjonen distribueres til regjeringens medlemmerved behov koordinere utarbeidelsen av beslutningsgrunnlag fra berørte departementer for Regjeringensørge for at det blir gitt koordinert informasjon til media og befolkningen og at det utformes en helhetlig informasjonsstrategikoordinere behov for internasjonal bistandvurdere etablering av liaisonordninger med andre berørte departementer og virksomhetersørge for evaluering av håndteringen av hendelsen i samråd med andre berørte aktører, og at identifiserte læringspunkter følges opp.
+Blant de oppgaver et lederdepartement må kunne ivareta er å:
+
+1. sørge for varsling av andre departementer, Statsministerens kontor, egne underlagte virksomheter, og ved alvorlige kriser Stortinget og Kongehuset
+2. ta initiativ til at Kriserådet innkalles og lede rådets møter
+3. utarbeide og distribuere overordnede situasjonsrapporter, blant annet på bakgrunn av innhentet informasjon fra andre departementer, underliggende etater og mediebildet
+4. utarbeide overordnede situasjonsanalyser, herunder vurdering av mulige hendelsesforløp og videre utvikling av krisen
+5. identifisere og vurdere behov for tiltak på strategisk nivå
+6. koordinere at operative aktører har nødvendige fullmakter
+7. sørge for nødvendig koordinering av tiltak innenfor eget ansvarsområde og med andre departementer og etater
+8. sørge for at oppdatert informasjon om situasjonen distribueres til regjeringens medlemmer
+9. ved behov koordinere utarbeidelsen av beslutningsgrunnlag fra berørte departementer for Regjeringen
+10. sørge for at det blir gitt koordinert informasjon til media og befolkningen og at det utformes en helhetlig informasjonsstrategi
+11. koordinere behov for internasjonal bistand
+12. vurdere etablering av liaisonordninger med andre berørte departementer og virksomheter
+13. sørge for evaluering av håndteringen av hendelsen i samråd med andre berørte aktører, og at identifiserte læringspunkter følges opp.
 
 *Krisestøtteenheten (KSE)*
 
 KSE skal ved behov kunne yte støtte til lederdepartementet og Kriserådet i deres krisehåndtering. KSE er sekretariat for Kriserådet. KSE understøtter også Justis- og beredskapsdepartementets samordningsrolle på samfunnssikkerhetsområdet og er fast kontaktpunkt for informasjon til og fra Justis- og beredskapsdepartementet ved ekstraordinære hendelser og kriser.
 
-Krisestøtteenheten har som hovedfunksjon å:bidra med kompetanse i form av rådgivning og faglig bistand til lederdepartementets arbeid med samordning og helhetlig sentral krisehåndtering. Dette omfatter støtte til analyser, utarbeidelse og formidling av overordnede situasjonsrapporter og etablering av felles situasjonsforståelse som grunnlag for strategiske beslutninger.støtte lederdepartementet og Kriserådet med kapasiteter i form av infrastruktur (herunder tekniske løsninger), lokaler og personell.
+Krisestøtteenheten har som hovedfunksjon å:
+
+1. bidra med kompetanse i form av rådgivning og faglig bistand til lederdepartementets arbeid med samordning og helhetlig sentral krisehåndtering. Dette omfatter støtte til analyser, utarbeidelse og formidling av overordnede situasjonsrapporter og etablering av felles situasjonsforståelse som grunnlag for strategiske beslutninger.
+2. støtte lederdepartementet og Kriserådet med kapasiteter i form av infrastruktur (herunder tekniske løsninger), lokaler og personell.
 
 ## IX. Ikrafttredelse
 

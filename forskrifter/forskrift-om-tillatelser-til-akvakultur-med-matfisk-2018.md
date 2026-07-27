@@ -15,7 +15,7 @@ xml_hash: "43843a9a85b9d20858eb084a03576243aad107476fac96f8d906965d2183fa1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,7 +85,11 @@ For å få utstedt endelig tillatelsesdokument må den fysiske personen enten ha
 
 ### § 9. Krav for å bli registrert som budgiver
 
-For å delta i auksjonen må personen eller foretaket:fylle ut fastsatt registreringsskjema, inkludert opplasting av firmaattest,laste opp fastsatt skjema om dokumentasjon på økonomisk evne til å betale vederlaget ogtilfredsstille krav til finansiell situasjon i henhold til [§ 11](forskrift/2018-08-30-1323/§11) og avgi egenerklæring om dette.
+For å delta i auksjonen må personen eller foretaket:
+
+1. fylle ut fastsatt registreringsskjema, inkludert opplasting av firmaattest,
+2. laste opp fastsatt skjema om dokumentasjon på økonomisk evne til å betale vederlaget og
+3. tilfredsstille krav til finansiell situasjon i henhold til [§ 11](forskrift/2018-08-30-1323/§11) og avgi egenerklæring om dette.
 
 Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Det er ikke mulig å registrere seg på annen måte. Frist for registrering er 17. september kl. 23:59.
 
@@ -95,7 +99,13 @@ Bud kan ikke innleveres etter at fristen i andre ledd har gått ut. Innleverte b
 
 ### § 10. Finansiell situasjon
 
-En budgiver kan ikkevære ute av stand til å oppfylle sine betalingsforpliktelser,ha åpnet gjeldsforhandlinger,være insolvent eller være underlagt begjæring om konkurs eller opphør,begjært frivillig opphør, ellervære gjenstand for konkursbehandling eller være konkurs.
+En budgiver kan ikke
+
+1. være ute av stand til å oppfylle sine betalingsforpliktelser,
+2. ha åpnet gjeldsforhandlinger,
+3. være insolvent eller være underlagt begjæring om konkurs eller opphør,
+4. begjært frivillig opphør, eller
+5. være gjenstand for konkursbehandling eller være konkurs.
 
 Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon.
 

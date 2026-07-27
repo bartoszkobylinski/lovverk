@@ -120,9 +120,31 @@ Trygden skal gjennom kommunene sørge for at det ved oppslag, kunngjøring i pre
 
 ## § 10. Gransking og taksering.
 
-I. Når den kommunale krigsskadenemnd har fått inn melding om krigsskade, skal den sørge for at det snarest mulig foretas gransking for å fastslå årsaken til skaden. Hvis skaden antas å gå inn under loven skal nemnda i alminnelighet (jfr. II) la avholde takst.Skader som antas ikke å overstige kr. 2.000, takseres ikke.Gransking og taksering foretas av to takstmenn oppnevnt av Krigsskadeskipnaden. Blir takstmennene ikke enige, tilkaller de en tredje takstmann oppnevnt av Krigsskadeskipnaden.Hvis takstmennene finner at det er hensiktsmessig å granske og taksere en skade som ikke er meldt, samtidig med takseringen av meldt skade, kan de bestemme at så skal skje, hvis det ikke påløper vesentlige omkostninger. Krigsskadenemnda kan la avholde takst over skade som ikke er meldt, når den anser det sannsynelig at skaden vil bli meldt senere og at meldingen vil bli godtatt.Vil taksten medføre særlige omkostninger, må nemnda innhente trygdens samtykke.Før takst holdes, må skadelidte gi en spesifisert oppgave over tapt og skadet løsøre på et av trygden utferdiget skjema.Skadeansettelsen skal skje på grunnlag av priser umiddelbart før krigsutbruddet eller på et annet i henhold til lovens § 11 fastsatt tidspunkt. Ansettelse foretas under hensyntagen til verdiforringelse ved bruk, elde og nedsatt anvendelighet.For skade som trygden finner er av liten økonomisk betydning for skadelidte, kan den bestemme en forenklet gransknings- og takseringsmåte, eller at gransking og taksering helt kan unnlates. Finner trygden det hensiktsmessig og forsvarlig, kan den unnlate å holde gransking og takst og i stedet treffe avtale med skadelidte om skadens størrelse.Nærmere takstdirektiver kan utferdiges av trygden.For utfallet av gransking og taksering redegjøres på skjema fastsatt av trygden. Utskrift av forretningen sendes snarest til skadelidte, trygden og vedkommende kommunale krigsskadenemnd(er). Skadelidte gis samtidig underretning om adgangen til å kreve overtakst og om fristen for å begjære denne.
+I. Når den kommunale krigsskadenemnd har fått inn melding om krigsskade, skal den sørge for at det snarest mulig foretas gransking for å fastslå årsaken til skaden. Hvis skaden antas å gå inn under loven skal nemnda i alminnelighet (jfr. II) la avholde takst.
 
-II. For taksering av innbo og personlig effekter – ikke driftsmidler – gjelder følgende regler:Trygden kontrollere skadelidtes melding på hensiktsmessigste måte, eventuelt ved utsendte representanter, og fastsetter skadens størrelse hvis den ikke krever takst. Har trygden uten å avholde takst fastsatt skaden til et lavere beløp enn angitt av skadelidte, kan denne innen en måned at han fikk meddelelse om ansettelsen kreve takst.Om taksten gjelder reglene i I.
+Skader som antas ikke å overstige kr. 2.000, takseres ikke.
+
+Gransking og taksering foretas av to takstmenn oppnevnt av Krigsskadeskipnaden. Blir takstmennene ikke enige, tilkaller de en tredje takstmann oppnevnt av Krigsskadeskipnaden.
+
+Hvis takstmennene finner at det er hensiktsmessig å granske og taksere en skade som ikke er meldt, samtidig med takseringen av meldt skade, kan de bestemme at så skal skje, hvis det ikke påløper vesentlige omkostninger. Krigsskadenemnda kan la avholde takst over skade som ikke er meldt, når den anser det sannsynelig at skaden vil bli meldt senere og at meldingen vil bli godtatt.
+
+Vil taksten medføre særlige omkostninger, må nemnda innhente trygdens samtykke.
+
+Før takst holdes, må skadelidte gi en spesifisert oppgave over tapt og skadet løsøre på et av trygden utferdiget skjema.
+
+Skadeansettelsen skal skje på grunnlag av priser umiddelbart før krigsutbruddet eller på et annet i henhold til lovens § 11 fastsatt tidspunkt. Ansettelse foretas under hensyntagen til verdiforringelse ved bruk, elde og nedsatt anvendelighet.
+
+For skade som trygden finner er av liten økonomisk betydning for skadelidte, kan den bestemme en forenklet gransknings- og takseringsmåte, eller at gransking og taksering helt kan unnlates. Finner trygden det hensiktsmessig og forsvarlig, kan den unnlate å holde gransking og takst og i stedet treffe avtale med skadelidte om skadens størrelse.
+
+Nærmere takstdirektiver kan utferdiges av trygden.
+
+For utfallet av gransking og taksering redegjøres på skjema fastsatt av trygden. Utskrift av forretningen sendes snarest til skadelidte, trygden og vedkommende kommunale krigsskadenemnd(er). Skadelidte gis samtidig underretning om adgangen til å kreve overtakst og om fristen for å begjære denne.
+
+II. For taksering av innbo og personlig effekter – ikke driftsmidler – gjelder følgende regler:
+
+Trygden kontrollere skadelidtes melding på hensiktsmessigste måte, eventuelt ved utsendte representanter, og fastsetter skadens størrelse hvis den ikke krever takst. Har trygden uten å avholde takst fastsatt skaden til et lavere beløp enn angitt av skadelidte, kan denne innen en måned at han fikk meddelelse om ansettelsen kreve takst.
+
+Om taksten gjelder reglene i I.
 
 ## § 11. Overtakst.
 

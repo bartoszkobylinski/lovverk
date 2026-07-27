@@ -38,7 +38,13 @@ Forskrifta gjeld ut til ei nautisk mil utanfor grunnlinjene.
 
 ### § 3. Definisjonar
 
-I denne forskrifta meiner ein med:*Akvakultur:* Produksjon av akvatiske organismar. Produksjon omfattar eit kvart tiltak for å påverke vekta, storleiken, talet, eigenskapane eller kvaliteten til akvatiske organismar.*Auka dødstal:* Dødstal som er signifikant høgare enn det ein vurderer som normalt for havbeitelokaliteten under rådande forhold. Kva ein vurderer som auka dødstal avgjeras i samarbeid mellom oppdrettar og Mattilsynet.*Havbeite:* Akvakultur av krepsdyr, blautdyr og pigghuder i form av botnkultur utan at dyra vert haldne i fangenskap.*Hausting:* Systematisk gjenfangst av eit utsett havbeitedyr. Fjerning av dyr i samband med prøveuttak, kontroll, røkting o.a. er ikkje å sjå på som hausting.*Lokalitet:* Eit geografisk avgrensa område nærare fastsett i løyvet, der innehavar av løyvet har eksklusiv rett til utsett og gjenfangst av den utsette arten.
+I denne forskrifta meiner ein med:
+
+1. *Akvakultur:* Produksjon av akvatiske organismar. Produksjon omfattar eit kvart tiltak for å påverke vekta, storleiken, talet, eigenskapane eller kvaliteten til akvatiske organismar.
+2. *Auka dødstal:* Dødstal som er signifikant høgare enn det ein vurderer som normalt for havbeitelokaliteten under rådande forhold. Kva ein vurderer som auka dødstal avgjeras i samarbeid mellom oppdrettar og Mattilsynet.
+3. *Havbeite:* Akvakultur av krepsdyr, blautdyr og pigghuder i form av botnkultur utan at dyra vert haldne i fangenskap.
+4. *Hausting:* Systematisk gjenfangst av eit utsett havbeitedyr. Fjerning av dyr i samband med prøveuttak, kontroll, røkting o.a. er ikkje å sjå på som hausting.
+5. *Lokalitet:* Eit geografisk avgrensa område nærare fastsett i løyvet, der innehavar av løyvet har eksklusiv rett til utsett og gjenfangst av den utsette arten.
 
 > Endra ved [forskrift 17 juni 2008 nr. 827](forskrift/2008-06-17-827) (i kraft 1 aug 2008).
 
@@ -66,13 +72,43 @@ Søknad skal fyllast ut på skjema fastsett av Fiskeridirektoratet. Søknad ette
 
 Søkjaren skal etter tilvisning frå kommunen syte for at beskriving av art og lokalisering av den omsøkte verksemda vert kunngjort i Norsk Lysingsblad og i to aviser som er fast lesne i området.
 
-Søknaden skal mellom anna innehalde:Kvittering for betalt sakshandsamingsgebyr, jf. [§ 34](forskrift/2003-08-28-1110/§34).Kartkoordinatar for dei omsøkte lokalitetane samt kart kor desse er teikna inn.Opplysningar om i kva for utstrekning søkjar ynskjer å gjennomføre tiltak før og i driftsfasen med tanke på å klargjere lokaliteten.Plan for opprydding ved avslutning av verksemda.Opplysningar om den planlagde drifta, her medrekna driftsplan, tilgang på havbeitedyr for utsett o.a.Miljøtilhøve, her medrekna dokumentasjon av opphavet til havbeitedyra og dokumentasjon av miljøtilstanden på omsøkte lokalitetar, jf. [§ 7](forskrift/2003-08-28-1110/§7) andre og tredje ledd.Opplysningar om lokaliteten, her medrekna planstatus for lokaliteten, avstand til vassdrag, verneområder, andre lokalitetar og anna akvakulturverksemd samt tilhøvet til allemannsretten o.a.Opplysningar om i kva grad omsøkt drift vil kunne komme i konflikt med andre brukarinteresser i området.
+Søknaden skal mellom anna innehalde:
+
+1. Kvittering for betalt sakshandsamingsgebyr, jf. [§ 34](forskrift/2003-08-28-1110/§34).
+2. Kartkoordinatar for dei omsøkte lokalitetane samt kart kor desse er teikna inn.
+3. Opplysningar om i kva for utstrekning søkjar ynskjer å gjennomføre tiltak før og i driftsfasen med tanke på å klargjere lokaliteten.
+4. Plan for opprydding ved avslutning av verksemda.
+5. Opplysningar om den planlagde drifta, her medrekna driftsplan, tilgang på havbeitedyr for utsett o.a.
+6. Miljøtilhøve, her medrekna dokumentasjon av opphavet til havbeitedyra og dokumentasjon av miljøtilstanden på omsøkte lokalitetar, jf. [§ 7](forskrift/2003-08-28-1110/§7) andre og tredje ledd.
+7. Opplysningar om lokaliteten, her medrekna planstatus for lokaliteten, avstand til vassdrag, verneområder, andre lokalitetar og anna akvakulturverksemd samt tilhøvet til allemannsretten o.a.
+8. Opplysningar om i kva grad omsøkt drift vil kunne komme i konflikt med andre brukarinteresser i området.
 
 > Endra ved [forskrift 18 des 2009 nr. 1707](forskrift/2009-12-18-1707) (i kraft 1 jan 2010).
 
 ### § 7. Ufråvikelege vilkår
 
-Havbeiteløyve kan berre gjevast dersomDet er miljømessig forsvarlegDet er gjort ei veging av arealinteresser, med særleg vekt påsøkars behov for areal til planlagt akvakulturverksemd,alternativ bruk av området til annan verksemd,annan bruk av området til annan akvakultur,verneinteresser som ikkje er omfatta av bokstav d, her medrekna vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet;det er gjeve dei løyve som vert kravd etter[lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv.,[lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,[lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70), og[lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann, ogdet ikkje er i strid medvedtekne arealplanar etter plan- og [bygningsloven 27. juni 2008 nr. 71](lov/2008-06-27-71),vedtekne vernetiltak etter [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold, ellervedtekne vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.Sjølv om løyve kan vere i strid med bokstav d) kan løyve gjevast dersom det ligg føre samtykke frå vedkommande plan- eller vernestyresmakt.
+Havbeiteløyve kan berre gjevast dersom
+
+1. Det er miljømessig forsvarleg
+2. Det er gjort ei veging av arealinteresser, med særleg vekt på
+
+   1. søkars behov for areal til planlagt akvakulturverksemd,
+   2. alternativ bruk av området til annan verksemd,
+   3. annan bruk av området til annan akvakultur,
+   4. verneinteresser som ikkje er omfatta av bokstav d, her medrekna vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet;
+3. det er gjeve dei løyve som vert kravd etter
+
+   1. [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv.,
+   2. [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,
+   3. [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70), og
+   4. [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann, og
+4. det ikkje er i strid med
+
+   1. vedtekne arealplanar etter plan- og [bygningsloven 27. juni 2008 nr. 71](lov/2008-06-27-71),
+   2. vedtekne vernetiltak etter [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold, eller
+   3. vedtekne vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.
+
+Sjølv om løyve kan vere i strid med bokstav d) kan løyve gjevast dersom det ligg føre samtykke frå vedkommande plan- eller vernestyresmakt.
 
 Fylkeskommunen skal konsultere Havforskningsinstituttet om råd etter fyrste ledd bokstav a). Havforskningsinstituttet skal som minimum gi råd om det er økologisk forsvarleg å drive havbeite på den omsøkte lokaliteten.
 
@@ -84,7 +120,11 @@ Løyve kan berre gjevast til utsett av havbeitedyr som er stadeigne.
 
 ### § 8. Andre vilkår for tildeling
 
-Ved tildeling skal ein leggje stor vekt på samfunnsmessige nytte- og skadeverknader av tiltaket, her medrekna:i kva grad den omsøkte verksemda vil vere med å realisere det potensialet som ligg i havbeitenæringa.planlagd økonomisk verksemd søkjaren har i regionen, medrekna integrasjon med anna næringsverksemd til dømes ved samarbeid med andre næringsdrivande.i kva grad den omsøkte verksemda vil avgrense utøving av allemannsretten i området, særleg med omsyn til tradisjonelt fiske, andre næringsinteresser og fritidsaktivitetar.
+Ved tildeling skal ein leggje stor vekt på samfunnsmessige nytte- og skadeverknader av tiltaket, her medrekna:
+
+1. i kva grad den omsøkte verksemda vil vere med å realisere det potensialet som ligg i havbeitenæringa.
+2. planlagd økonomisk verksemd søkjaren har i regionen, medrekna integrasjon med anna næringsverksemd til dømes ved samarbeid med andre næringsdrivande.
+3. i kva grad den omsøkte verksemda vil avgrense utøving av allemannsretten i området, særleg med omsyn til tradisjonelt fiske, andre næringsinteresser og fritidsaktivitetar.
 
 ### § 8a. Uttaler frå andre myndigheiter
 
@@ -136,7 +176,15 @@ Kvart år innan 1. oktober skal innehavar av løyve levere inn driftsplan til Fi
 
 Driftsplanen for det fyrste året skal godkjennast av Fiskeridirektoratet etter samråd med Mattilsynet.
 
-Av planen må minimum gå fram:opphav til dyr og kor mange dyr som skal setjast ut, tidspunkt for utsett, kva for ein lokalitet eller lokalitetar eller delar av lokalitet det skal setjast ut på,eventuelle nye delområde av den godkjende lokaliteten som skal takast i bruk det neste året,planlagt tidspunkt, metodar og omfang av gjenfangst av havbeitedyr,planlagde tiltak i samband med sjukdomsutbrot, til dømes brakklegging av lokaliteten,planlagt bruk av eventuelle anlegg og innretningar, og eventuelt vedlikehald av desse,planlagde tiltak i samband med predatorkontroll, ogeventuelle planar om fôring og andre tiltak etter særskilt søknad jf. [§ 10](forskrift/2003-08-28-1110/§10).
+Av planen må minimum gå fram:
+
+1. opphav til dyr og kor mange dyr som skal setjast ut, tidspunkt for utsett, kva for ein lokalitet eller lokalitetar eller delar av lokalitet det skal setjast ut på,
+2. eventuelle nye delområde av den godkjende lokaliteten som skal takast i bruk det neste året,
+3. planlagt tidspunkt, metodar og omfang av gjenfangst av havbeitedyr,
+4. planlagde tiltak i samband med sjukdomsutbrot, til dømes brakklegging av lokaliteten,
+5. planlagt bruk av eventuelle anlegg og innretningar, og eventuelt vedlikehald av desse,
+6. planlagde tiltak i samband med predatorkontroll, og
+7. eventuelle planar om fôring og andre tiltak etter særskilt søknad jf. [§ 10](forskrift/2003-08-28-1110/§10).
 
 Fiskeridirektoratet kan etter søknad godkjenne vesentlege endringar i planen.
 
@@ -162,7 +210,20 @@ Innehavar av løyve skal, ved heile tida å føre driftsjournal, kunne dokumente
 
 Journalen skal oppbevarast hos innehavar av løyve i minst 4 år, og kan krevjast framlagt av dei styresmaktene som er tillagt mynde etter denne forskrifta.
 
-Journalen skal innehalde:Ved kvart enkelt utsett: art, tal, opphav, alder og storleik på dei utsette dyra, tidspunkt for utsetjing, kor i lokaliteten dei vert utsett og gjennomsnittsvekt.Haustingstidspunkt, haustingskvantum og mottakar.Oppteke kvantum av sjuke og daude individ, handsaming og levering av daude individ, handsamingsmåte, kvantum levert, tidspunkt for levering og mottakar.Dersom det er gjeve løyve til fôring: fôrtype (tørrfôr og våtfôr/mjukfôr), forbruk av fôr, fôrmjøltype, fôrprodusent og fôrmerke.Resultat av gjennomførte helsekontrollar: tal på gjennomførte helsekontrollar, prøveuttak, føretatte undersøkingar, diagnosar og gjennomførte behandlingar.Eventuell bruk av legemiddel og kjemikaliar.Tiltak mot predatorar.Brakklegging som ein følgje av sjukdom.Resultat av ev. målingar etter [§ 19](forskrift/2003-08-28-1110/§19), medrekna tettleik, jf. [§ 23](forskrift/2003-08-28-1110/§23).Inspeksjonstidspunkt, frekvens og omfang.Miljødokumentasjon.Eventuelle andre journalføringspliktige tilhøve som går fram av løyvet.
+Journalen skal innehalde:
+
+1. Ved kvart enkelt utsett: art, tal, opphav, alder og storleik på dei utsette dyra, tidspunkt for utsetjing, kor i lokaliteten dei vert utsett og gjennomsnittsvekt.
+2. Haustingstidspunkt, haustingskvantum og mottakar.
+3. Oppteke kvantum av sjuke og daude individ, handsaming og levering av daude individ, handsamingsmåte, kvantum levert, tidspunkt for levering og mottakar.
+4. Dersom det er gjeve løyve til fôring: fôrtype (tørrfôr og våtfôr/mjukfôr), forbruk av fôr, fôrmjøltype, fôrprodusent og fôrmerke.
+5. Resultat av gjennomførte helsekontrollar: tal på gjennomførte helsekontrollar, prøveuttak, føretatte undersøkingar, diagnosar og gjennomførte behandlingar.
+6. Eventuell bruk av legemiddel og kjemikaliar.
+7. Tiltak mot predatorar.
+8. Brakklegging som ein følgje av sjukdom.
+9. Resultat av ev. målingar etter [§ 19](forskrift/2003-08-28-1110/§19), medrekna tettleik, jf. [§ 23](forskrift/2003-08-28-1110/§23).
+10. Inspeksjonstidspunkt, frekvens og omfang.
+11. Miljødokumentasjon.
+12. Eventuelle andre journalføringspliktige tilhøve som går fram av løyvet.
 
 Kvantumsopplysningane skal spesifiserast på tal individ og samla vekt i kg.
 

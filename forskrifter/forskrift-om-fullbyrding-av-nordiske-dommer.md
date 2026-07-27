@@ -32,7 +32,12 @@ I medhold av § 24 i lov av 15. november 1963 om fullbyrding av nordiske dommer 
 
 En bot som er fastsatt her i landet i sak om forseelse, kan av vedkommende politimester etter reglene nedenfor søkes fullbyrdet i annet nordisk land. Gjelder saken en forbrytelse, fremmes begjæringen av vedkommende statsadvokat.
 
-Begjæringen rettesoverfor Danmark, til SKAT (skattemyndigheden i Danmark). Er botlagtes oppholdssted ikke kjent, rettes begjæringen til Rigspolitichefen,overfor Finland, til Justitieministeriet,overfor Island, til Dòmsmálaráduneytid,overfor Sverige, til Kriminalvårdsstyrelsen.
+Begjæringen rettes
+
+1. overfor Danmark, til SKAT (skattemyndigheden i Danmark). Er botlagtes oppholdssted ikke kjent, rettes begjæringen til Rigspolitichefen,
+2. overfor Finland, til Justitieministeriet,
+3. overfor Island, til Dòmsmálaráduneytid,
+4. overfor Sverige, til Kriminalvårdsstyrelsen.
 
 > Endret ved [forskrift 3 mai 2018 nr. 677](forskrift/2018-05-03-677).
 
@@ -62,7 +67,12 @@ Reglene i §§ 1-3 gjelder tilsvarende ved begjæring om fullbyrding av avgjøre
 
 En bot som er ilagt i annet nordisk land, kan etter reglene nedenfor søkes fullbyrdet her i landet.
 
-Begjæring om dette kan settes frem avvedkommende politimester i Danmark,Justitieministeriet i Finland,Dòmsmálaráduneytid i Island,Kriminalvårdsstyrelsen i Sverige.
+Begjæring om dette kan settes frem av
+
+1. vedkommende politimester i Danmark,
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. Kriminalvårdsstyrelsen i Sverige.
 
 Med begjæringen skal følge dokumenter og opplysninger som nevnt i [§ 2](forskrift/1963-12-03-1/§2).
 
@@ -108,17 +118,35 @@ Straff av fengsel eller hefte fastsatt her i landet kan etter bestemmelse av Jus
 
 I Strafferegisteret gjøres det anmerkning om beslutning som omtalt i første ledd.
 
-Begjæringen rettesoverfor Danmark, til Justisministeriet (Direktoratet for Fængselsvæsenet),overfor Finland, til Justitieministeriet,overfor Island, til Dòmsmálaráduneytid,overfor Sverige, til Kriminalvårdsstyrelsen.
+Begjæringen rettes
+
+1. overfor Danmark, til Justisministeriet (Direktoratet for Fængselsvæsenet),
+2. overfor Finland, til Justitieministeriet,
+3. overfor Island, til Dòmsmálaráduneytid,
+4. overfor Sverige, til Kriminalvårdsstyrelsen.
 
 ### § 14
 
-Med begjæringen skal følgeen begrunnelse for begjæringen, jfr. [§§ 15](forskrift/1963-12-03-1/§15) og [16](forskrift/1963-12-03-1/§16),utskrift av dommen,erklæring om at dommen kan fullbyrdes, med opplysning om når adgangen til å fullbyrde straffen faller bort ved foreldelse, jfr. straffelovens §§ 72-74,opplysning om eventuelt fradrag i straffetiden,hvis fullbyrding er begynt, opplysning om tidspunktet for dette og om eventuelt avbrudd i tiden for fullbyrding,avskrift av eventuell personundersøkelse, psykiatrisk undersøkelse, mottakelsesrapport, behandlingsjournal e.l.,eventuelle opplysninger om domfeltes person og tilstand, om hans forhold i varetekts- eller fullbyrdingstiden eller under tidligere anstaltopphold. Slike opplysninger gis i den utstrekning de kan ha betydning for fullbyrdingsmyndighetene i det annet land,uttalelse fra domfelte i spørsmålet om å utholde straffen i det annet land, eller bevitnelse om at domfelte har hatt adgang til å uttale seg om dette spørsmål.
+Med begjæringen skal følge
+
+1. en begrunnelse for begjæringen, jfr. [§§ 15](forskrift/1963-12-03-1/§15) og [16](forskrift/1963-12-03-1/§16),
+2. utskrift av dommen,
+3. erklæring om at dommen kan fullbyrdes, med opplysning om når adgangen til å fullbyrde straffen faller bort ved foreldelse, jfr. straffelovens §§ 72-74,
+4. opplysning om eventuelt fradrag i straffetiden,
+5. hvis fullbyrding er begynt, opplysning om tidspunktet for dette og om eventuelt avbrudd i tiden for fullbyrding,
+6. avskrift av eventuell personundersøkelse, psykiatrisk undersøkelse, mottakelsesrapport, behandlingsjournal e.l.,
+7. eventuelle opplysninger om domfeltes person og tilstand, om hans forhold i varetekts- eller fullbyrdingstiden eller under tidligere anstaltopphold. Slike opplysninger gis i den utstrekning de kan ha betydning for fullbyrdingsmyndighetene i det annet land,
+8. uttalelse fra domfelte i spørsmålet om å utholde straffen i det annet land, eller bevitnelse om at domfelte har hatt adgang til å uttale seg om dette spørsmål.
 
 Hvis fullbyrdingen er begynt i tiden mellom fremsettingen av begjæringen og overføringen av domfelte til det annet land, skal opplysninger som er nevnt foran under nr. 4 og 5, gis i forbindelse med overføringen.
 
 ### § 15
 
-Har domfelte statsborgerrett i annet nordisk land, skal det som regel settes frem begjæring om fullbyrding av straffen i hans hjemland, såfremthan har opphold eller bopel i hjemlandet,han er besluttet utvist til hjemlandet,en må anta at han ved endt fullbyrding vil ta opphold i hjemlandet.
+Har domfelte statsborgerrett i annet nordisk land, skal det som regel settes frem begjæring om fullbyrding av straffen i hans hjemland, såfremt
+
+1. han har opphold eller bopel i hjemlandet,
+2. han er besluttet utvist til hjemlandet,
+3. en må anta at han ved endt fullbyrding vil ta opphold i hjemlandet.
 
 Er domfelte norsk statsborger, men har fast bopel i annet nordisk land, skal det som regel settes frem begjæring om fullbyrding av straffen i det annet land. Slik begjæring settes ikke frem hvis domfelte oppholder seg her i landet og ønsker å utholde straffen her, eller hvis det må antas at domfelte har en nærmere tilknytning til Norge enn til bopelslandet.
 
@@ -148,11 +176,21 @@ Er fullbyrdingen påbegynt her i landet, skal politiet etter nærmere avtale med
 
 ### § 19
 
-Overfor personer som har norsk statsborgerrett eller har fast bopel her i landet, kan følgende straffer fastsatt i annet nordisk land søkes fullbyrdet her:Fængsel og hæfte idømt i Danmark,tukthus og fängelse idømt i Finland,fangelsi og vardhald idømt i Island,straffarbete og n idømt i Sverige.
+Overfor personer som har norsk statsborgerrett eller har fast bopel her i landet, kan følgende straffer fastsatt i annet nordisk land søkes fullbyrdet her:
+
+- Fængsel og hæfte idømt i Danmark,
+- tukthus og fängelse idømt i Finland,
+- fangelsi og vardhald idømt i Island,
+- straffarbete og n idømt i Sverige.
 
 Straff som nevnt i første ledd kan også søkes fullbyrdet her, såfremt domfelte oppholder seg her i landet og det finnes mest hensiktsmessig å fullbyrde straffen her. Ved avgjørelsen av dette spørsmålet gjelder regelen i [§ 16](forskrift/1963-12-03-1/§16) tilsvarende.
 
-Begjæring om fullbyrding av straff som nevnt i første ledd, settes frem avvedkommende politimester i DanmarkJustitieministeriet i Finland,Dòmsmálaráduneytid i Island,Kriminalvårdsstyrelsen i Sverige,
+Begjæring om fullbyrding av straff som nevnt i første ledd, settes frem av
+
+1. vedkommende politimester i Danmark
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. Kriminalvårdsstyrelsen i Sverige,
 
 Med begjæringen skal følge dokumenter og opplysninger i samsvar med regelen i [§ 14](forskrift/1963-12-03-1/§14).
 
@@ -178,7 +216,12 @@ Fullbyrdingen skjer i samsvar med norsk rett. Benådning og prøveløslating kan
 
 En person som her i landet har fått betinget dom med tilsyn, kan av vedkommende statsadvokat søkes satt under tilsyn i annet nordisk land.
 
-Begjæringen rettesoverfor Danmark, til vedkommende politimester,overfor Finland, til Justitieministeriet,overfor Island, til Dòmsmálaráduneytid,overfor Sverige, til Kriminalvårdsstyrelsen.
+Begjæringen rettes
+
+1. overfor Danmark, til vedkommende politimester,
+2. overfor Finland, til Justitieministeriet,
+3. overfor Island, til Dòmsmálaráduneytid,
+4. overfor Sverige, til Kriminalvårdsstyrelsen.
 
 Slik begjæring fremmes ikke hvis det er grunn til å anta at domfeltes opphold i det annet land vil bli ganske kortvarig.
 
@@ -210,7 +253,12 @@ Blir en person som her i landet har fått betinget dom, i annet nordisk land dø
 
 ### § 26
 
-For personer som i annet nordisk land har fått betinget dom med tilsyn, kan det her i landet etableres tilsyn etter begjæring avvedkommende politimester i Danmark,Justitieministeriet i Finland,Dòmsmálaráduneytid i Island,vedkommende övervakningsdomstol i Sverige.
+For personer som i annet nordisk land har fått betinget dom med tilsyn, kan det her i landet etableres tilsyn etter begjæring av
+
+1. vedkommende politimester i Danmark,
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. vedkommende övervakningsdomstol i Sverige.
 
 Begjæringen rettes her i landet til vedkommende statsadvokat som prøver om begjæringen fyller lovens krav og om den bør etterkommes.
 
@@ -232,13 +280,23 @@ Avsier retten dom for fullbyrding av en betinget frihetsstraff, skal denne fullb
 
 Såfremt omstendighetene taler for det, kan statsadvokaten etter [lovens § 8](forskrift/1963-12-03-1/§8) fjerde ledd overlate til vedkommende myndighet i domslandet å treffe avgjørelse i saken. Slik bestemmelse treffes hvis det blir spørsmål om å få fastsatt straff for et forhold som det i annet nordisk land er gitt domsutsettelse for og som ikke er straffbart etter norsk rett. Omfatter den betingede dom flere forhold, og er bare ett eller noen av forholdene ikke straffbare etter norsk rett, kan sak reises her i landet, såfremt de sistnevnte forhold er av underordnet betydning i relasjon til de øvrige forhold i den betingede dom.
 
-Har statsadvokaten truffet bestemmelse etter tredje ledd eller har retten truffet en slik bestemmelse i medhold av [lovens § 8](forskrift/1963-12-03-1/§8) tredje ledd, skal statsadvokaten uten opphold gi melding om dette tilvedkommende politimester i Danmark,Justitieministeriet i Finland,Dòmsmálaráduneytid i Island,Kriminalvårdsstyrelsen i Sverige.
+Har statsadvokaten truffet bestemmelse etter tredje ledd eller har retten truffet en slik bestemmelse i medhold av [lovens § 8](forskrift/1963-12-03-1/§8) tredje ledd, skal statsadvokaten uten opphold gi melding om dette til
+
+1. vedkommende politimester i Danmark,
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. Kriminalvårdsstyrelsen i Sverige.
 
 ### § 29
 
 I medhold av [lovens § 9](forskrift/1963-12-03-1/§9) kan en norsk domstol fastsette en samlet ubetinget straff for en person som i annet nordisk land har fått betinget dom og som innen prøvetidens utløp her i landet har gjort seg skyldig i nytt straffbart forhold. Ubetinget fengselsstraff etter denne bestemmelse kan fastsettes i tilfelle hvor den betingede dom ikke har gitt hjemmel for bruk av tilsyn og i tilfelle hvor det her i landet ennå ikke er satt i verk tilsyn med vedkommende domfelte.
 
-Blir det spørsmål om å bruke bestemmelsen i [lovens § 9](forskrift/1963-12-03-1/§9), lar statsadvokaten innhente opplysninger fra domslandet om den betingede dom og om domfeltes forhold i prøvetiden. Politiets forespørsel rettes tilvedkommende politimester i Danmark,Justitieministeriet i Finland,Dòmsmálaráduneytid i Island,den domstol i Sverige som har avsagt den betingede dom.
+Blir det spørsmål om å bruke bestemmelsen i [lovens § 9](forskrift/1963-12-03-1/§9), lar statsadvokaten innhente opplysninger fra domslandet om den betingede dom og om domfeltes forhold i prøvetiden. Politiets forespørsel rettes til
+
+1. vedkommende politimester i Danmark,
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. den domstol i Sverige som har avsagt den betingede dom.
 
 Har retten unnlatt å fastsette en samlet ubetinget fengselsstraff og i stedet gitt særskilt dom for det nye forhold, underretter statsadvokaten vedkommende myndigheter i domslandet om forholdet. Slik underretning kan unnlates hvis det er grunn til å anta at den nye dom ikke vil føre til endring av den betingede dom. Statsadvokaten sender i alle tilfelle melding om dommen til Strafferegisteret.
 
@@ -250,7 +308,12 @@ Har retten unnlatt å fastsette en samlet ubetinget fengselsstraff og i stedet g
 
 En person som her i landet er løslatt på prøve fra fengselsstraff, kan av Fengselsstyret søkes satt under tilsyn i annet nordisk land.
 
-Begjæringen rettes tilDirektoratet for fængselsvæsenet i Danmark,Justitieministeriet i Finland,Dòmsmálaráduneytid i Island,Kriminalvårdsstyrelsen i Sverige.
+Begjæringen rettes til
+
+1. Direktoratet for fængselsvæsenet i Danmark,
+2. Justitieministeriet i Finland,
+3. Dòmsmálaráduneytid i Island,
+4. Kriminalvårdsstyrelsen i Sverige.
 
 Slik begjæring fremmes ikke hvis det er grunn til å anta at den løslattes opphold i det annet land vil bli ganske kortvarig.
 
@@ -318,7 +381,13 @@ Angår saken en politisk lovovertredelse, kan begjæring om fullbyrding m.v. bar
 
 ### § 41
 
-Begjæring fra myndighet i annet nordisk land om fullbyrding m.v. skal forelegges for Justisdepartementet, hvis saken angårbøter for å ha unnlatt å møte til rettsforhandling i annet land («vite»),en politisk lovovertredelse,forhold som vedkommende er dømt eller frifunnet for her i landet,forhold som vedkommende her har fått påtaleunnlatelse for,handlinger som ikke er straffbare etter norsk rett.
+Begjæring fra myndighet i annet nordisk land om fullbyrding m.v. skal forelegges for Justisdepartementet, hvis saken angår
+
+1. bøter for å ha unnlatt å møte til rettsforhandling i annet land («vite»),
+2. en politisk lovovertredelse,
+3. forhold som vedkommende er dømt eller frifunnet for her i landet,
+4. forhold som vedkommende her har fått påtaleunnlatelse for,
+5. handlinger som ikke er straffbare etter norsk rett.
 
 ### § 42
 

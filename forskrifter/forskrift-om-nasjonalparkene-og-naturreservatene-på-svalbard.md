@@ -15,7 +15,7 @@ xml_hash: "34e9951dc8cd90e1d900a06137d3f4ff9e4f5c528205b377e9b5c17fe1178753"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,11 +46,26 @@ Grensebeskrivelsene refererer til Norsk Polarinstitutts kartserie – Svalbard 1
 
 Formålet med fredningen er å bevare store, sammenhengende og i det vesentligste urørte naturområder på land og i sjøen med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap, kulturminner og kulturmiljøer. Områdene skal bevares som referanseområde for forskning og for opplevelse av Svalbards natur- og kulturarv.
 
-Sør-Spitsbergen nasjonalpark skal særlig sikreet område med storslagent landskap med karakteristiske spisse, alpine fjellformasjoner, kystsletter og isbreerflere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell, hekke- og overvintringsområder for ender, særlig ærfugl, og viktige leveområder for isbjørnviktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst, gruvedrift, turisme, forskning og annen verdenskrig.
+Sør-Spitsbergen nasjonalpark skal særlig sikre
 
-Forlandet nasjonalpark skal særlig sikreen øy med en karakteristisk fjellrekke med spisse, alpine fjell og en stor strandslettevelutvikla steinbreer og frostjordsformerflere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell og et kjerneområde for verdens nordligste steinkobbebestandviktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst og mineralleting.
+- et område med storslagent landskap med karakteristiske spisse, alpine fjellformasjoner, kystsletter og isbreer
+- flere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell, hekke- og overvintringsområder for ender, særlig ærfugl, og viktige leveområder for isbjørn
+- viktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst, gruvedrift, turisme, forskning og annen verdenskrig.
 
-Nordvest-Spitsbergen nasjonalpark skal særlig sikreet område med storslagent landskap med karakteristiske spisse, alpine fjellformasjoner, øyer og sund, den største strandflata på Svalbard kalt Reinsdyrflya og mange større og mindre isbreerområder med interessant geologi, spesielt området ved Bockfjorden med varme kilder med tilhørende kalkavsetninger og rester etter tidligere vulkaneren unik botanisk lokalitet i tilknytning til de varme kildene i Bockfjordenflere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell og hekkeområder for ender, gjess og vadefuglviktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst, polekspedisjoner og annen verdenskrig.
+Forlandet nasjonalpark skal særlig sikre
+
+- en øy med en karakteristisk fjellrekke med spisse, alpine fjell og en stor strandslette
+- velutvikla steinbreer og frostjordsformer
+- flere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell og et kjerneområde for verdens nordligste steinkobbebestand
+- viktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst og mineralleting.
+
+Nordvest-Spitsbergen nasjonalpark skal særlig sikre
+
+- et område med storslagent landskap med karakteristiske spisse, alpine fjellformasjoner, øyer og sund, den største strandflata på Svalbard kalt Reinsdyrflya og mange større og mindre isbreer
+- områder med interessant geologi, spesielt området ved Bockfjorden med varme kilder med tilhørende kalkavsetninger og rester etter tidligere vulkaner
+- en unik botanisk lokalitet i tilknytning til de varme kildene i Bockfjorden
+- flere større og mindre hekkelokaliteter for sjøfugl betegnet fuglefjell og hekkeområder for ender, gjess og vadefugl
+- viktige kulturminner og kulturmiljøer fra hvalfangsttida, overvintringsfangst, polekspedisjoner og annen verdenskrig.
 
 ### § 4. Forbud mot motorferdsel
 
@@ -68,7 +83,10 @@ Skip som anløper sjøområdene i nasjonalparkene kan ikke ha flere enn 200 pass
 
 Enhver som ferdes eller oppholder seg i nasjonalparkene skal forhindre nye varige spor og slitasje på terreng eller kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet.
 
-Det skal holdes tilstrekkelig avstand tildyrelivet for å unngå unødige forstyrrelser ogfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Det skal holdes tilstrekkelig avstand til
+
+1. dyrelivet for å unngå unødige forstyrrelser og
+2. fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 > Endret ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -76,7 +94,11 @@ Det skal holdes tilstrekkelig avstand tildyrelivet for å unngå unødige forsty
 
 Ilandstigning i turistvirksomhet og opphold på land i forbindelse med slik ilandstigning er forbudt i nasjonalparkene.
 
-Forbudet gjelder ikkepå snødekt og frossen mark fra 1. januar til 25. mai hvert år,i områder markert med grønn eller blå strek i kart i [vedlegg 6](forskrift/2014-04-04-377/vedlegg6) som viser tillatt ilandstigningsområde,i områder skravert med grønt eller blått i kart i [vedlegg 6](forskrift/2014-04-04-377/vedlegg6) som viser tillatt ilandstigningsområde og grenser for tillatt opphold på land i forbindelse med ilandstigning.
+Forbudet gjelder ikke
+
+1. på snødekt og frossen mark fra 1. januar til 25. mai hvert år,
+2. i områder markert med grønn eller blå strek i kart i [vedlegg 6](forskrift/2014-04-04-377/vedlegg6) som viser tillatt ilandstigningsområde,
+3. i områder skravert med grønt eller blått i kart i [vedlegg 6](forskrift/2014-04-04-377/vedlegg6) som viser tillatt ilandstigningsområde og grenser for tillatt opphold på land i forbindelse med ilandstigning.
 
 Ilandstigning og opphold på land etter denne bestemmelsen kan bare skje sammen med guide med kunnskap om natur- og kulturmiljøet.
 
@@ -142,7 +164,14 @@ I fredete områder er det ikke tillatt å søke etter mineraler og bergarter omf
 
 ### § 11. Dispensasjon
 
-Sysselmesteren kan gi tillatelse tilå oppføre, sette i stand og vedlikeholde hus som brukes ved tilsyn og til enkel beskyttelse av allmennhetenpersoner som er bosatt på Svalbard til å jakte på rype i samsvar med gjeldende reglerpersoner som er bosatt på Svalbard til å bruke terrenggående kjøretøyer i fastlagte traseerå utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med nasjonalparkenandre disposisjoner når særlige grunner foreligger, og disposisjonen ikke vil stride mot formålet med nasjonalparkenbruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 6a](forskrift/2014-04-04-377/§6a) for andre formål enn fritids- og hobbyformål.
+Sysselmesteren kan gi tillatelse til
+
+1. å oppføre, sette i stand og vedlikeholde hus som brukes ved tilsyn og til enkel beskyttelse av allmennheten
+2. personer som er bosatt på Svalbard til å jakte på rype i samsvar med gjeldende regler
+3. personer som er bosatt på Svalbard til å bruke terrenggående kjøretøyer i fastlagte traseer
+4. å utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med nasjonalparken
+5. andre disposisjoner når særlige grunner foreligger, og disposisjonen ikke vil stride mot formålet med nasjonalparken
+6. bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 6a](forskrift/2014-04-04-377/§6a) for andre formål enn fritids- og hobbyformål.
 
 > Endret ved forskrifter [3 des 2021 nr. 3395](forskrift/2021-12-03-3395), [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -166,9 +195,19 @@ Grensebeskrivelsen refererer til Norsk Polarinstitutts kartserie – Svalbard 1:
 
 Formålet med fredningen er å bevare store, sammenhengende og i det vesentligste urørte naturområder på land og i sjøen med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap, kulturminner og kulturmiljøer som referanseområde for forskning.
 
-Nordaust-Svalbard naturreservat skal særlig sikreet område med storslagent landskap, karakterisert av de største isbreene på Svalbard og en rekke større og mindre fjorder og halvøyerflere mindre hekkelokaliteter for sjøfugl betegnet fuglefjell, hekkeområder for ringgås, ligge- og kasteområder for hvalross og leveområder for isbjørnmange vann med svalbardrøye, og særlig stasjonær røyeviktige kulturminner fra hvalfangsttida, overvintringsfangst, polekspedisjoner, forskning og annen verdenskrig.
+Nordaust-Svalbard naturreservat skal særlig sikre
 
-Søraust Svalbard naturreservat skal særlig sikreto store øyer med karakteristisk platålandskap og småøyene Tusenøyanehekkelokaliteter for sjøfugl betegnet fuglefjell, hekkeområder for ringgås, ligge- og kasteområder for hvalross og leveområder for isbjørnleveområder for store bestander av svalbardreinviktige kulturminner og kulturmiljøer fra hvalfangsttida og overvintringsfangst.
+- et område med storslagent landskap, karakterisert av de største isbreene på Svalbard og en rekke større og mindre fjorder og halvøyer
+- flere mindre hekkelokaliteter for sjøfugl betegnet fuglefjell, hekkeområder for ringgås, ligge- og kasteområder for hvalross og leveområder for isbjørn
+- mange vann med svalbardrøye, og særlig stasjonær røye
+- viktige kulturminner fra hvalfangsttida, overvintringsfangst, polekspedisjoner, forskning og annen verdenskrig.
+
+Søraust Svalbard naturreservat skal særlig sikre
+
+- to store øyer med karakteristisk platålandskap og småøyene Tusenøyane
+- hekkelokaliteter for sjøfugl betegnet fuglefjell, hekkeområder for ringgås, ligge- og kasteområder for hvalross og leveområder for isbjørn
+- leveområder for store bestander av svalbardrein
+- viktige kulturminner og kulturmiljøer fra hvalfangsttida og overvintringsfangst.
 
 ### § 15. Forbud mot motorferdsel
 
@@ -184,7 +223,10 @@ Skip som anløper sjøområdene i naturreservatene kan ikke ha flere enn 200 pas
 
 Enhver som ferdes eller oppholder seg i naturreservatene skal forhindre nye varige spor og slitasje på terreng eller kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet.
 
-Det skal holdes tilstrekkelig avstand tildyrelivet for å unngå unødige forstyrrelser ogfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Det skal holdes tilstrekkelig avstand til
+
+1. dyrelivet for å unngå unødige forstyrrelser og
+2. fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 > Endrt ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -276,7 +318,13 @@ I fredete områder er det ikke tillatt å søke etter mineraler og bergarter omf
 
 ### § 28. Dispensasjon
 
-Sysselmesteren kan gi tillatelse tilå oppføre, sette i stand og vedlikeholde hus som er nødvendige som nødstasjoner og for å utføre tilsynpersoner som er bosatt på Svalbard til å bruke terrenggående kjøretøyer i fastlagte traseer på Ny Frieslandå utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med naturreservateneandre disposisjoner når særlige grunner foreligger og disposisjonen ikke vil stride mot formålet med naturreservatenebruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 22](forskrift/2014-04-04-377/§22) for andre formål enn fritids- og hobbyformål.
+Sysselmesteren kan gi tillatelse til
+
+1. å oppføre, sette i stand og vedlikeholde hus som er nødvendige som nødstasjoner og for å utføre tilsyn
+2. personer som er bosatt på Svalbard til å bruke terrenggående kjøretøyer i fastlagte traseer på Ny Friesland
+3. å utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med naturreservatene
+4. andre disposisjoner når særlige grunner foreligger og disposisjonen ikke vil stride mot formålet med naturreservatene
+5. bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 22](forskrift/2014-04-04-377/§22) for andre formål enn fritids- og hobbyformål.
 
 > Endret ved forskrifter [3 des 2021 nr. 3395](forskrift/2021-12-03-3395), [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -286,7 +334,24 @@ Sysselmesteren kan gi tillatelse tilå oppføre, sette i stand og vedlikeholde h
 
 ### § 29. Fuglereservater
 
-Svalbard har følgende naturreservater for fugl:Sørkapp naturreservat for fugl som omfatter Sørkappøya og øyene og skjærene sørøstover fra ØyrlandetDunøyane naturreservat for fugl som omfatter alle øyer og skjær vest for DunøysundetIsøyane naturreservat for fugl som omfatter nordre Isøya og IsøykalvenOlsholmen naturreservat for fugl som omfatter OlsholmenKapp Linné naturreservat for fugl som omfatter området vest for linjen fra Randvika til sørøstre ende av Fyrstesjøen unntatt Isfjord Radios stasjonsområdeBoheman naturreservat for fugl som omfatter småøyene sør for BohemanflyaGåsøyane naturreservat for fugl som omfatter GåsøyanePlankeholmane naturreservat for fugl som omfatter PlankeholmaneForlandsøyane naturreservat for fugl som omfatter ForlandsøyaneHermansenøya naturreservat for fugl som omfatter HermansenøyaKongsfjorden naturreservat for fugl som omfatter Mietheholmen, Prins Heinrichøya, Lovenøyane og EskjeretBlomstrandhamna naturreservat for fugl som omfatter ytre og indre BreøyaneGuissezholmen naturreservat for fugl som omfatter holmene ved Kapp GuissezSkorpa naturreservat for fugl som omfatter holmene ved HarpunoddenMoseøya naturreservat for fugl som omfatter MoseøyaLiefdefjorden naturreservat for fugl som omfatter Andøyane, Stasjonsøyane, Måkeøyane og Lernerøyane med omkringliggende holmer.
+Svalbard har følgende naturreservater for fugl:
+
+1. Sørkapp naturreservat for fugl som omfatter Sørkappøya og øyene og skjærene sørøstover fra Øyrlandet
+2. Dunøyane naturreservat for fugl som omfatter alle øyer og skjær vest for Dunøysundet
+3. Isøyane naturreservat for fugl som omfatter nordre Isøya og Isøykalven
+4. Olsholmen naturreservat for fugl som omfatter Olsholmen
+5. Kapp Linné naturreservat for fugl som omfatter området vest for linjen fra Randvika til sørøstre ende av Fyrstesjøen unntatt Isfjord Radios stasjonsområde
+6. Boheman naturreservat for fugl som omfatter småøyene sør for Bohemanflya
+7. Gåsøyane naturreservat for fugl som omfatter Gåsøyane
+8. Plankeholmane naturreservat for fugl som omfatter Plankeholmane
+9. Forlandsøyane naturreservat for fugl som omfatter Forlandsøyane
+10. Hermansenøya naturreservat for fugl som omfatter Hermansenøya
+11. Kongsfjorden naturreservat for fugl som omfatter Mietheholmen, Prins Heinrichøya, Lovenøyane og Eskjeret
+12. Blomstrandhamna naturreservat for fugl som omfatter ytre og indre Breøyane
+13. Guissezholmen naturreservat for fugl som omfatter holmene ved Kapp Guissez
+14. Skorpa naturreservat for fugl som omfatter holmene ved Harpunodden
+15. Moseøya naturreservat for fugl som omfatter Moseøya
+16. Liefdefjorden naturreservat for fugl som omfatter Andøyane, Stasjonsøyane, Måkeøyane og Lernerøyane med omkringliggende holmer.
 
 Naturreservatene for fugl, som vist på kart i vedlegg 1, omfatter sjøområdet ut til 300 meter fra land eller skjær ved laveste vannstand.
 
@@ -316,7 +381,10 @@ Innenfor Kapp Linné naturreservat for fugl kan det kjøres med beltekjøretøy 
 
 Enhver som ferdes eller oppholder seg i naturreservatene for fugl skal forhindre nye varige spor og slitasje på terreng eller kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet.
 
-Det skal holdes tilstrekkelig avstand tildyrelivet for å unngå unødige forstyrrelser ogfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Det skal holdes tilstrekkelig avstand til
+
+1. dyrelivet for å unngå unødige forstyrrelser og
+2. fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 > Tilføyd ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -372,7 +440,11 @@ I fredete områder er det ikke tillatt å søke etter mineraler og bergarter omf
 
 ### § 37. Dispensasjon
 
-Sysselmesteren kan gi tillatelse tilå utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med naturreservat for fugleneandre disposisjoner når særlige grunner foreligger og disposisjonen ikke vil stride mot formålet med naturreservat for fuglenebruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 33a](forskrift/2014-04-04-377/§33a) for andre formål enn fritids- og hobbyformål.
+Sysselmesteren kan gi tillatelse til
+
+1. å utføre vitenskapelige undersøkelser dersom det ikke vil stride mot formålet med naturreservat for fuglene
+2. andre disposisjoner når særlige grunner foreligger og disposisjonen ikke vil stride mot formålet med naturreservat for fuglene
+3. bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 33a](forskrift/2014-04-04-377/§33a) for andre formål enn fritids- og hobbyformål.
 
 > Endret ved forskrifter [3 des 2021 nr. 3395](forskrift/2021-12-03-3395), [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
@@ -386,7 +458,10 @@ Miljødirektoratet kan i forskrift regulere og forby ferdselen innenfor nærmere
 
 ### § 39. Tilsyn og brann-, politi- og redningstjenestens utrykning mv.
 
-Forskriften er ikke til hinder forbrann-, politi-, og redningstjenestens utrykning og tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 6a](forskrift/2014-04-04-377/§6a), [§ 22](forskrift/2014-04-04-377/§22) og [§ 33a](forskrift/2014-04-04-377/§33a) for samme formål som nevnt i strekpunktet over og for forvaltningsmyndighetens oppgaver.
+Forskriften er ikke til hinder for
+
+1. brann-, politi-, og redningstjenestens utrykning og tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)
+2. bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 6a](forskrift/2014-04-04-377/§6a), [§ 22](forskrift/2014-04-04-377/§22) og [§ 33a](forskrift/2014-04-04-377/§33a) for samme formål som nevnt i strekpunktet over og for forvaltningsmyndighetens oppgaver.
 
 > Endret ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 

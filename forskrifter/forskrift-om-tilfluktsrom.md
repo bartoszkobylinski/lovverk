@@ -82,7 +82,11 @@ Eier og bruker av tilfluktsrommet skal holde rommet vedlike og har ansvaret for 
 
 ### § 11
 
-Private tilfluktsrom skal bygges:ved oppførelse av bygg med mer enn 1000 m2 bruksareal,ved tilbygging, påbygging eller underbygging når bruksarealet øker med mer enn 1000 m2. Dersom tiltakshaver fremmer ny byggesøknad på en eiendom innen 3 år etter at forrige byggetillatelse på eiendommen ble gitt, skal arealene vurderes samlet i forhold til den pliktutløsende grense,i de tilfelle som går inn under de særlige regler som fastsettes av Næringslivets Hovedorganisasjon ved Industrivernet, iht [§ 6](forskrift/1995-03-15-254/§6), jfr [§ 5](forskrift/1995-03-15-254/§5).
+Private tilfluktsrom skal bygges:
+
+1. ved oppførelse av bygg med mer enn 1000 m2 bruksareal,
+2. ved tilbygging, påbygging eller underbygging når bruksarealet øker med mer enn 1000 m2. Dersom tiltakshaver fremmer ny byggesøknad på en eiendom innen 3 år etter at forrige byggetillatelse på eiendommen ble gitt, skal arealene vurderes samlet i forhold til den pliktutløsende grense,
+3. i de tilfelle som går inn under de særlige regler som fastsettes av Næringslivets Hovedorganisasjon ved Industrivernet, iht [§ 6](forskrift/1995-03-15-254/§6), jfr [§ 5](forskrift/1995-03-15-254/§5).
 
 ### § 12
 
@@ -180,25 +184,43 @@ Tilfluktsrom i bygg skal i regelen legges i kjeller eller underetasje. Det vern 
 
 ### § 27
 
-Tilfluktsrommene skal konstruktivt utformes slik at rommene gir det vern som er fastsatt foran, og slik at rommenes begrensningsflater fyller de nærmere bestemte krav som Direktoratet for sivilt beredskap i den forbindelse finner det nødvendig å stille tilminste tykkelse,styrke, ogtetthet.
+Tilfluktsrommene skal konstruktivt utformes slik at rommene gir det vern som er fastsatt foran, og slik at rommenes begrensningsflater fyller de nærmere bestemte krav som Direktoratet for sivilt beredskap i den forbindelse finner det nødvendig å stille til
+
+- minste tykkelse,
+- styrke, og
+- tetthet.
 
 ### Ventilasjonstekniske arbeider
 
 ### § 28
 
-Tilfluktsrom skal ha ventilasjonsanlegg som muliggjør kontinuerlig opphold i rommet i 6 timer under de fastsatte belastninger ved å:forsyne anlegget med frisk luftfjerne brukt luft og eventuelt varme- og fuktighetsoverskuddfjerne eventuelle radiologiske, biologiske og kjemiske stridsmidler fra den luft som tilføresskaffe overtrykk i anlegget med sikte på at stoffer nevnt under c) ikke skal trenge inn gjennom utettheter.
+Tilfluktsrom skal ha ventilasjonsanlegg som muliggjør kontinuerlig opphold i rommet i 6 timer under de fastsatte belastninger ved å:
+
+1. forsyne anlegget med frisk luft
+2. fjerne brukt luft og eventuelt varme- og fuktighetsoverskudd
+3. fjerne eventuelle radiologiske, biologiske og kjemiske stridsmidler fra den luft som tilføres
+4. skaffe overtrykk i anlegget med sikte på at stoffer nevnt under c) ikke skal trenge inn gjennom utettheter.
 
 ### Sanitærtekniske arbeider
 
 ### § 29
 
-Tilfluktsrom skal ha sanitærtekniske installasjoner som muliggjør kontinuerlig opphold i rommet i 6 timer under de fastsatte belastninger ved at det er:forsyning av rent vannnødvendig sanitærteknisk utstyravløp for kloakk.
+Tilfluktsrom skal ha sanitærtekniske installasjoner som muliggjør kontinuerlig opphold i rommet i 6 timer under de fastsatte belastninger ved at det er:
+
+1. forsyning av rent vann
+2. nødvendig sanitærteknisk utstyr
+3. avløp for kloakk.
 
 ### Elektrotekniske arbeider
 
 ### § 30
 
-Tilfluktsrom skal ha sterk- og svakstrømsinstallasjoner som muliggjør kontinuerlig opphold i rommet i 6 timer ved de fastsatte belastninger ved at det er:tilførsel av elektrisk kraft utenfranødstrømsforsyning i de tilfelle dette er nødvendignødvendig opplegg for lys, varme og drift av apparater og utstyr i rommetopplegg for nødvendig sambandsutstyr.
+Tilfluktsrom skal ha sterk- og svakstrømsinstallasjoner som muliggjør kontinuerlig opphold i rommet i 6 timer ved de fastsatte belastninger ved at det er:
+
+1. tilførsel av elektrisk kraft utenfra
+2. nødstrømsforsyning i de tilfelle dette er nødvendig
+3. nødvendig opplegg for lys, varme og drift av apparater og utstyr i rommet
+4. opplegg for nødvendig sambandsutstyr.
 
 ## Kapittel V: Utstyr, kontroll og vedlikehold
 
@@ -214,7 +236,11 @@ Kataloger, brosjyrer og annet reklame- og salgsmateriell om elementer og utstyr 
 
 ### § 33
 
-Ved planlegging og bygging av tilfluktsrom skal det kontrolleres at:planene er utformet i henhold til gjeldende forskrift og bestemmelserspesielle hensyn som kreves for tilfluktsrom ivaretas under byggingendet ferdige tilfluktsrom med utstyr funkjonerer tilfredsstillende og gir den beskyttelse som er forutsatt, og at utstyr og installasjoner er av godkjent type.
+Ved planlegging og bygging av tilfluktsrom skal det kontrolleres at:
+
+- planene er utformet i henhold til gjeldende forskrift og bestemmelser
+- spesielle hensyn som kreves for tilfluktsrom ivaretas under byggingen
+- det ferdige tilfluktsrom med utstyr funkjonerer tilfredsstillende og gir den beskyttelse som er forutsatt, og at utstyr og installasjoner er av godkjent type.
 
 ### § 34
 
@@ -230,13 +256,19 @@ Når det ved beredskap beordres klargjøring av tilfluktsrom, skal fullstendig v
 
 Ved planlegging og bygging av tilfluktsrom skal det legges vekt på at rommene kan gis en hensiktsmessig utnyttelse i fred.
 
-Tilfluktsrom kan i fred utnyttes til ethvert formål under forutsetning av at:rommets beskyttende evne ikke reduseresrommet kan klargjøres som tilfluktsrom i løpet av 72 timer.
+Tilfluktsrom kan i fred utnyttes til ethvert formål under forutsetning av at:
+
+- rommets beskyttende evne ikke reduseres
+- rommet kan klargjøres som tilfluktsrom i løpet av 72 timer.
 
 ## Kapittel VI: Dispensasjoner. Overgangsregler
 
 ### § 37
 
-Krav om bygging av privat tilfluktsrom kan frafalles:når kommunen har godkjent bygget som midlertidignår det foreligger begrenset brukstid eller andre særlige omstendigheter.
+Krav om bygging av privat tilfluktsrom kan frafalles:
+
+- når kommunen har godkjent bygget som midlertidig
+- når det foreligger begrenset brukstid eller andre særlige omstendigheter.
 
 Til dispensasjon fra krav om bygging av privat tilfluktsrom kan knyttes betingelse om at tiltakshaver deltar i bygging av felles privat tilfluktsrom eller etter satser som nevnt i [§ 13](forskrift/1995-03-15-254/§13) bidrar til bygging av offentlig tilfluktsrom med like mange plasser som det skulle vært i bygget. [§ 13](forskrift/1995-03-15-254/§13) siste ledd gjelder tilsvarende.
 

@@ -15,7 +15,7 @@ xml_hash: "ffc4db2753c9df5cb9aa5a4d26f40ade97c7a08ce32f68905d637bf2a40bb92a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,15 +30,53 @@ Formålet med forskriften er å sikre at fartøy avgir de opplysninger til norsk
 
 ### § 2. (definisjoner)
 
-I denne forskriften forstås med*Barents SRS:* felles norsk-russisk skipsrapporteringssystem som omtalt av FNs sjøfartsorganisasjon IMO i SN.1/Circ.318 av 4. desember 2012*bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i skipets målebrev og som er beregnet i henhold til skipsmålingskonvensjonen av 1969*bulkskip:* lasteskip med bruttotonnasje 500 eller mer som hovedsakelig frakter tørr last i bulk*farlig last:*last oppført i den internasjonale koden for transport av farlig gods til sjøs (IMDG-koden)radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden),last som nevnt i kapittel 17 i den internasjonale kjemikaliekoden for bygging og utrusting av skip som frakter skadelige kjemikalier i bulk (IBC-koden),last som nevnt i kapittel 19 i den internasjonale koden for bygging og utrusting av skip som frakter flytende gasser i bulk (IGC-koden),faste stoffer oppført i gruppe B i det internasjonale regelverket for sikker frakt til sjøs av fast bulklast (IMSBC-koden) oggods som ved transport omfattes av særlige forholdsregler i henhold til nr. 1.1.3 i IBC-koden eller nr. 1.1.6 i IGC-koden.*forurensende last:*oljer som definert i MARPOL Annex 1skadelige flytende stoffer i bulk som definert i MARPOL Annex 2skadelige, forurensende stoffer i pakket form som definert i MARPOL Annex 3.*godsmengde:* vekt av gods ombord i antall tonn, inklusiv innpakning og paller, men uten vekt av lastebærer*historiske fartøy:* Alle typer historiske fartøy og kopier av dem, herunder fartøy som er konstruert for å fremme tradisjonelle ferdigheter og sjømannskap, som også tjener som levende kulturminner og som drives i samsvar med tradisjonelle prinsipper for sjømannskap og teknikk*ISPS-koden:* Det internasjonale regelverket for sikring av skip og havneanlegg vedtatt av FNs sjøfartsorganisasjon (IMO) 12. desember 2002*lastemengde:* vekt av gods om bord i antall tonn inkludert vekt på lastebærer*MARPOL:* Den internasjonale konvensjonen om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 og med endringer til og med IMO Res. MEPC 186(59)*oljetankskip:* Skip som er bygget eller innrettet for å føre olje i bulk i lasterommene som definert i MARPOL vedlegg I regel 1(5)*operatør:* Fartøyets reder eller den som forestår fartøyets drift*rutefart:* en rekke seilaser mellom de samme to eller flere havner, enten i henhold til en offentliggjort tidtabell eller med en slik regelmessighet eller hyppighet at seilasene fremstår som en systematisk rekke med seilaser*SafeSeaNet Norway:* Norges Maritime Single Window.
+I denne forskriften forstås med
+
+1. *Barents SRS:* felles norsk-russisk skipsrapporteringssystem som omtalt av FNs sjøfartsorganisasjon IMO i SN.1/Circ.318 av 4. desember 2012
+2. *bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i skipets målebrev og som er beregnet i henhold til skipsmålingskonvensjonen av 1969
+3. *bulkskip:* lasteskip med bruttotonnasje 500 eller mer som hovedsakelig frakter tørr last i bulk
+4. *farlig last:*
+
+   1. last oppført i den internasjonale koden for transport av farlig gods til sjøs (IMDG-koden)
+   2. radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden),
+   3. last som nevnt i kapittel 17 i den internasjonale kjemikaliekoden for bygging og utrusting av skip som frakter skadelige kjemikalier i bulk (IBC-koden),
+   4. last som nevnt i kapittel 19 i den internasjonale koden for bygging og utrusting av skip som frakter flytende gasser i bulk (IGC-koden),
+   5. faste stoffer oppført i gruppe B i det internasjonale regelverket for sikker frakt til sjøs av fast bulklast (IMSBC-koden) og
+   6. gods som ved transport omfattes av særlige forholdsregler i henhold til nr. 1.1.3 i IBC-koden eller nr. 1.1.6 i IGC-koden.
+5. *forurensende last:*
+
+   1. oljer som definert i MARPOL Annex 1
+   2. skadelige flytende stoffer i bulk som definert i MARPOL Annex 2
+   3. skadelige, forurensende stoffer i pakket form som definert i MARPOL Annex 3.
+6. *godsmengde:* vekt av gods ombord i antall tonn, inklusiv innpakning og paller, men uten vekt av lastebærer
+7. *historiske fartøy:* Alle typer historiske fartøy og kopier av dem, herunder fartøy som er konstruert for å fremme tradisjonelle ferdigheter og sjømannskap, som også tjener som levende kulturminner og som drives i samsvar med tradisjonelle prinsipper for sjømannskap og teknikk
+8. *ISPS-koden:* Det internasjonale regelverket for sikring av skip og havneanlegg vedtatt av FNs sjøfartsorganisasjon (IMO) 12. desember 2002
+9. *lastemengde:* vekt av gods om bord i antall tonn inkludert vekt på lastebærer
+10. *MARPOL:* Den internasjonale konvensjonen om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 og med endringer til og med IMO Res. MEPC 186(59)
+11. *oljetankskip:* Skip som er bygget eller innrettet for å føre olje i bulk i lasterommene som definert i MARPOL vedlegg I regel 1(5)
+12. *operatør:* Fartøyets reder eller den som forestår fartøyets drift
+13. *rutefart:* en rekke seilaser mellom de samme to eller flere havner, enten i henhold til en offentliggjort tidtabell eller med en slik regelmessighet eller hyppighet at seilasene fremstår som en systematisk rekke med seilaser
+14. *SafeSeaNet Norway:* Norges Maritime Single Window.
 
 ### § 3. (meldetidspunkt)
 
-Dersom ikke annet fremgår av forskriften skal fartøyet gi meldingminst 24 timer før ankomst til bestemmelseshavnen,senest når fartøyet avgår fra den foregående havn, hvis reisen er på under 24 timer ellerså snart ankomsthavnen er kjent.
+Dersom ikke annet fremgår av forskriften skal fartøyet gi melding
+
+1. minst 24 timer før ankomst til bestemmelseshavnen,
+2. senest når fartøyet avgår fra den foregående havn, hvis reisen er på under 24 timer eller
+3. så snart ankomsthavnen er kjent.
 
 ### § 4. (generelt meldingsinnhold)
 
-Meldinger etter [kapitlene 2](forskrift/2015-12-21-1790/kap2) til [5](forskrift/2015-12-21-1790/kap5) skal inneholdeidentifikasjon av fartøyet (navn, kallesignal, IMO-identifikasjon eller MMSI-nummer)bestemmelseshavnsamlet antall personer om bordfartøyets bruttotonnasjefartøyets lengdegodsmengdelastemengde.
+Meldinger etter [kapitlene 2](forskrift/2015-12-21-1790/kap2) til [5](forskrift/2015-12-21-1790/kap5) skal inneholde
+
+1. identifikasjon av fartøyet (navn, kallesignal, IMO-identifikasjon eller MMSI-nummer)
+2. bestemmelseshavn
+3. samlet antall personer om bord
+4. fartøyets bruttotonnasje
+5. fartøyets lengde
+6. godsmengde
+7. lastemengde.
 
 ### § 5. (hvordan melding skal gis)
 
@@ -66,9 +104,18 @@ Fartøy med bruttotonnasje 300 eller mer som er på vei til en havn i Norge skal
 
 ### § 9. (unntak)
 
-Unntatt fra plikt til å melde erfartøy under militær kommando,offentlige fartøy som brukes til ikke-kommersielle formål, ogfartøy med lengde under 45 meter og som er fiskefartøy, fritidsfartøy eller historiske fartøy.
+Unntatt fra plikt til å melde er
 
-Fartøy i innenriks rutefart er unntatt fra meldeplikten etter [§§ 8](forskrift/2015-12-21-1790/§8) og [11](forskrift/2015-12-21-1790/§11) dersomoperatøren fører og ajourfører en liste over fartøy som er omfattet av bestemmelsene i SafeSeaNet Norway,de opplysninger som nevnt i denne forskriften [§ 8](forskrift/2015-12-21-1790/§8) og [§ 11](forskrift/2015-12-21-1790/§11), til enhver tid kan rapporteres i SafeSeaNet Norway på forespørsel. Den ansvarlige operatøren skal opprette et internt system som muliggjør at disse opplysningene kan sendes i et elektronisk format,ethvert avvik i forhold til forventet ankomsttidspunkt til bestemmelseshavnen på eller over tre timer meddeles havnen, ogdet er intensjon om å drive ruten i minst en måned og det er maksimalt 12 timer mellom hvert anløp på ruten.
+1. fartøy under militær kommando,
+2. offentlige fartøy som brukes til ikke-kommersielle formål, og
+3. fartøy med lengde under 45 meter og som er fiskefartøy, fritidsfartøy eller historiske fartøy.
+
+Fartøy i innenriks rutefart er unntatt fra meldeplikten etter [§§ 8](forskrift/2015-12-21-1790/§8) og [11](forskrift/2015-12-21-1790/§11) dersom
+
+1. operatøren fører og ajourfører en liste over fartøy som er omfattet av bestemmelsene i SafeSeaNet Norway,
+2. de opplysninger som nevnt i denne forskriften [§ 8](forskrift/2015-12-21-1790/§8) og [§ 11](forskrift/2015-12-21-1790/§11), til enhver tid kan rapporteres i SafeSeaNet Norway på forespørsel. Den ansvarlige operatøren skal opprette et internt system som muliggjør at disse opplysningene kan sendes i et elektronisk format,
+3. ethvert avvik i forhold til forventet ankomsttidspunkt til bestemmelseshavnen på eller over tre timer meddeles havnen, og
+4. det er intensjon om å drive ruten i minst en måned og det er maksimalt 12 timer mellom hvert anløp på ruten.
 
 På samme vilkår som nevnt i annet ledd kan Kystverket, etter samtykke fra involverte kyst- og havnestater, gi fartøy i internasjonal rutefart unntak fra bestemmelsene i [§ 8](forskrift/2015-12-21-1790/§8) og [§ 11](forskrift/2015-12-21-1790/§11).
 
@@ -84,7 +131,11 @@ Fartøy med farlig eller forurensende last som går fra kai, ankringsplass eller
 
 Fartøy med farlig eller forurensende last som skal anløpe en norsk havn eller norsk territorialfarvann, og som kommer fra en havn utenfor EØS-området, skal gi opplysninger om forventet tidspunkt for ankomst til bestemmelsesstedet.
 
-Alle meldinger om farlig eller forurensende last skal inneholde informasjon som angitt i [§ 4](forskrift/2015-12-21-1790/§4) ogkorrekt teknisk betegnelse på den farlige eller forurensende last, eventuelt UN-nummer, IMO-fareklasse fastsatt i samsvar med IMDG-koden, IBC- og IGC-regelverket samt, hvor det er relevant, fartøyets klasse som definert i INF-regelverket, mengde av slik last og dens plassering om bord og, så fremt lasten er plassert i transportable beholdere eller containere, disses identifikasjonsnummer,bekreftelse på at det om bord foreligger en lasteliste, et lastemanifest eller en egnet lasteplan som utførlig angir den farlige eller forurensende lasten og dens plassering,adresse der detaljerte opplysninger om lasten kan innhentes.
+Alle meldinger om farlig eller forurensende last skal inneholde informasjon som angitt i [§ 4](forskrift/2015-12-21-1790/§4) og
+
+1. korrekt teknisk betegnelse på den farlige eller forurensende last, eventuelt UN-nummer, IMO-fareklasse fastsatt i samsvar med IMDG-koden, IBC- og IGC-regelverket samt, hvor det er relevant, fartøyets klasse som definert i INF-regelverket, mengde av slik last og dens plassering om bord og, så fremt lasten er plassert i transportable beholdere eller containere, disses identifikasjonsnummer,
+2. bekreftelse på at det om bord foreligger en lasteliste, et lastemanifest eller en egnet lasteplan som utførlig angir den farlige eller forurensende lasten og dens plassering,
+3. adresse der detaljerte opplysninger om lasten kan innhentes.
 
 ### § 12. (unntak)
 
@@ -94,7 +145,11 @@ Alle meldinger om farlig eller forurensende last skal inneholde informasjon som 
 
 ### § 13. (melding om anløp av fartøy som omfattes av ISPS-koden)
 
-Følgende fartøy i internasjonal fart skal gi havneanlegget opplysninger som nevnt i forskriftens vedlegg 1:passasjerskip, herunder hurtiggående passasjerskip,lasteskip, herunder hurtiggående lasteskip, med bruttotonnasje 500 eller mer, ogflyttbare boreinnretninger som forflyttes ved hjelp av eget fremdriftsmaskineri.
+Følgende fartøy i internasjonal fart skal gi havneanlegget opplysninger som nevnt i forskriftens vedlegg 1:
+
+1. passasjerskip, herunder hurtiggående passasjerskip,
+2. lasteskip, herunder hurtiggående lasteskip, med bruttotonnasje 500 eller mer, og
+3. flyttbare boreinnretninger som forflyttes ved hjelp av eget fremdriftsmaskineri.
 
 Alle skip som har et internasjonalt sikringssertifikat (ISSC) regnes til enhver tid for å være i internasjonal fart.
 
@@ -104,11 +159,29 @@ Fartøy i rutefart som er innvilget unntak fra meldeplikt etter forordning [(EF)
 
 ### § 14. (melding om anløp av bulkskip)
 
-Bulkskip som anløper en havneterminal i Norge for lasting eller lossing av faste bulklaster skal, i tillegg til informasjonen i [§ 4](forskrift/2015-12-21-1790/§4), gi følgende opplysninger til havneterminalen:skipets beregnede ankomsttid,flaggstat og hjemsted,laste- eller losseplan, med angivelse av lastmengde, stuing etter luker, laste- eller losserekkefølge og hvilken mengde som skal lastes eller losses i hver tømmingsoperasjon,dypgående ved ankomst og planlagt dypgående ved avgang,nødvendig tid for ballastering eller deballastering,skipets bredde og lasteområdets lengde fra forre karm på forreste luke til aktre karm på akterste luke som last det skal lastes i eller losses fra,avstanden fra vannlinjen til luken der lasting eller lossing skal begynne og avstanden fra skipssiden til lukeåpningen,plasseringen av skipets fallrepstrapp,skipets høyde over vannet,opplysninger om skipets eventuelle laste- og losseutstyr og dets kapasitet,antall og type fortøyninger,særskilte anmodninger, f.eks. angående trimming av lasten eller kontinuerlig måling av lastens vanninnhold,opplysninger om eventuelle nødvendige reparasjoner som kan forsinke anløp eller igangsetting av lasting eller lossing, eller som kan forsinke skipets avreise når lasting eller lossing er fullført,eventuelle andre opplysninger angående skipet som havnen ber om.
+Bulkskip som anløper en havneterminal i Norge for lasting eller lossing av faste bulklaster skal, i tillegg til informasjonen i [§ 4](forskrift/2015-12-21-1790/§4), gi følgende opplysninger til havneterminalen:
+
+1. skipets beregnede ankomsttid,
+2. flaggstat og hjemsted,
+3. laste- eller losseplan, med angivelse av lastmengde, stuing etter luker, laste- eller losserekkefølge og hvilken mengde som skal lastes eller losses i hver tømmingsoperasjon,
+4. dypgående ved ankomst og planlagt dypgående ved avgang,
+5. nødvendig tid for ballastering eller deballastering,
+6. skipets bredde og lasteområdets lengde fra forre karm på forreste luke til aktre karm på akterste luke som last det skal lastes i eller losses fra,
+7. avstanden fra vannlinjen til luken der lasting eller lossing skal begynne og avstanden fra skipssiden til lukeåpningen,
+8. plasseringen av skipets fallrepstrapp,
+9. skipets høyde over vannet,
+10. opplysninger om skipets eventuelle laste- og losseutstyr og dets kapasitet,
+11. antall og type fortøyninger,
+12. særskilte anmodninger, f.eks. angående trimming av lasten eller kontinuerlig måling av lastens vanninnhold,
+13. opplysninger om eventuelle nødvendige reparasjoner som kan forsinke anløp eller igangsetting av lasting eller lossing, eller som kan forsinke skipets avreise når lasting eller lossing er fullført,
+14. eventuelle andre opplysninger angående skipet som havnen ber om.
 
 ### § 15. (unntak fra meldeplikten)
 
-I følgende tilfeller er bulkskip unntatt fra å rapportere som nevnt i [§ 14](forskrift/2015-12-21-1790/§14):der anlegget bare under uvanlige omstendigheter brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskiplasting eller lossingen utføres bare med utstyret om bord på det aktuelle bulkskipet.
+I følgende tilfeller er bulkskip unntatt fra å rapportere som nevnt i [§ 14](forskrift/2015-12-21-1790/§14):
+
+1. der anlegget bare under uvanlige omstendigheter brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskip
+2. lasting eller lossingen utføres bare med utstyret om bord på det aktuelle bulkskipet.
 
 ## Kapittel 6. Melding om STS-operasjoner i norsk økonomisk sone
 
@@ -122,11 +195,33 @@ Med en STS-operasjon menes en operasjon til sjøs som innebærer overføring av 
 
 ### § 17. (meldingsinnhold)
 
-Meldingen som kreves etter [§ 16](forskrift/2015-12-21-1790/§16) skal inneholde følgende informasjonde involverte oljetankskipenesnavn,nasjonalitet,kallesignal,IMO-nummer,den planlagte STS-operasjonenstidspunkt; dato og klokkeslett,varighet,geografisk posisjon oppgitt i grader og minutter, samt oljetankskipenes antatte tidspunkt for ankomst. Dersom det antatte ankomsttidspunktet fravikes med mer enn seks timer, skal det aktuelle oljetankskipets fører, eier eller agent gi melding om det nye antatte tidspunktet for ankomst,hvorvidt STS-operasjonen vil bli utført mens oljetankskipene ligger til ankers eller er underveis,oljetype og mengde som skal overføres,hvilket skip som skal losse og hvilket skip som skal laste,opplysninger om ansvarlig operatør eller om den personen som har det overordnede ansvaret for STS- operasjonen, ogbekreftelse på at oljetankskipene har en STS-operasjonsplan om bord som tilfredsstiller kravene i MARPOL vedlegg I regel 41.
+Meldingen som kreves etter [§ 16](forskrift/2015-12-21-1790/§16) skal inneholde følgende informasjon
+
+1. de involverte oljetankskipenes
+
+   1. navn,
+   2. nasjonalitet,
+   3. kallesignal,
+   4. IMO-nummer,
+2. den planlagte STS-operasjonens
+
+   1. tidspunkt; dato og klokkeslett,
+   2. varighet,
+   3. geografisk posisjon oppgitt i grader og minutter, samt oljetankskipenes antatte tidspunkt for ankomst. Dersom det antatte ankomsttidspunktet fravikes med mer enn seks timer, skal det aktuelle oljetankskipets fører, eier eller agent gi melding om det nye antatte tidspunktet for ankomst,
+3. hvorvidt STS-operasjonen vil bli utført mens oljetankskipene ligger til ankers eller er underveis,
+4. oljetype og mengde som skal overføres,
+5. hvilket skip som skal losse og hvilket skip som skal laste,
+6. opplysninger om ansvarlig operatør eller om den personen som har det overordnede ansvaret for STS- operasjonen, og
+7. bekreftelse på at oljetankskipene har en STS-operasjonsplan om bord som tilfredsstiller kravene i MARPOL vedlegg I regel 41.
 
 ### § 18. (unntak)
 
-Kapittelet gjelder ikke for:STS-operasjoner tilknyttet faste eller flytende plattformer inkludert borerigger, flytende produksjons-, lagrings- og lasteinnretninger (FPSOs) brukt for offshoreproduksjon og lagring av olje, eller flytende lagringsenheter (FSUs) brukt for offshorelagring av utvinnet olje.bunkringsoperasjoner hvor oljen som overføres er til skipets eget forbruk, herunder fremdrift, oppvarming og lignende.STS-operasjoner som er nødvendig for å sikre skipets sikkerhet eller for å redde liv, eller for å bekjempe eller minimere skaden av forurensning.STS-operasjoner hvor ett eller begge av skipene involvert er fartøy under militær kommando, eller annet offentlig fartøy som for tiden kun brukes i offentlig og ikke-kommersiell virksomhet.
+Kapittelet gjelder ikke for:
+
+1. STS-operasjoner tilknyttet faste eller flytende plattformer inkludert borerigger, flytende produksjons-, lagrings- og lasteinnretninger (FPSOs) brukt for offshoreproduksjon og lagring av olje, eller flytende lagringsenheter (FSUs) brukt for offshorelagring av utvinnet olje.
+2. bunkringsoperasjoner hvor oljen som overføres er til skipets eget forbruk, herunder fremdrift, oppvarming og lignende.
+3. STS-operasjoner som er nødvendig for å sikre skipets sikkerhet eller for å redde liv, eller for å bekjempe eller minimere skaden av forurensning.
+4. STS-operasjoner hvor ett eller begge av skipene involvert er fartøy under militær kommando, eller annet offentlig fartøy som for tiden kun brukes i offentlig og ikke-kommersiell virksomhet.
 
 For fartøy nevnt i bokstav d, skal melding likevel gis når dette ikke vanskelig- eller umuliggjør gjennomføringen av slike operasjoner.
 
@@ -138,7 +233,14 @@ Skipsrapporteringssystemet «Barents SRS» gjelder i norsk rapporteringspliktig 
 
 ### § 20. (rapporteringspliktige fartøy)
 
-Følgende kategorier av fartøy er rapporteringspliktige:tankskip,fartøy med farlig last som definert i [§ 2](forskrift/2015-12-21-1790/§2) bokstav d) punkt 1-4,fartøy med forurensende last,fartøy som har slep, og der avstanden fra det slepende fartøys akterende til akterenden av slepet er større enn 200 meter,fartøy som ikke er under kommando eller som har begrenset evne til å manøvrere,øvrige fartøy med bruttotonnasje 5000 eller mer.
+Følgende kategorier av fartøy er rapporteringspliktige:
+
+1. tankskip,
+2. fartøy med farlig last som definert i [§ 2](forskrift/2015-12-21-1790/§2) bokstav d) punkt 1-4,
+3. fartøy med forurensende last,
+4. fartøy som har slep, og der avstanden fra det slepende fartøys akterende til akterenden av slepet er større enn 200 meter,
+5. fartøy som ikke er under kommando eller som har begrenset evne til å manøvrere,
+6. øvrige fartøy med bruttotonnasje 5000 eller mer.
 
 Fartøy som nevnt i første ledd er ikke rapporteringspliktige etter denne forskriften når de går mellom norske havner.
 
@@ -146,7 +248,21 @@ Fartøy som ikke er rapporteringspliktige kan frivillig avgi rapport etter denne
 
 ### § 21. (norsk rapporteringspliktig område)
 
-Norsk rapporteringspliktig område er alt farvann innenfor følgende geografiske avgrensning, oppgitt i koordinater som definert i World Geodetic System 1984 (WGS 84):67° 10′ .0000 N Norskekysten67° 10′ .0000 N 008° 00′ .0000 E68° 15′ .0000 N 009° 30′ .0000 E71° 15′ .0000 N 019° 00′ .0000 E71° 50′ .0000 N 024° 00′ .0000 E71° 50′ .0000 N 028° 00′ .0000 E71° 02′ .7470 N 033° 02′ .7580 E70° 16′ .4825 N 032° 04′ .3833 E70° 11′ .8613 N 031° 46′ .5595 E70° 07′ .2533 N 031° 30′ .3238 E70° 05′ .9807 N 031° 26′ .6880 E69° 58′ .7582 N 031° 06′ .2597 E69° 47′ .6903 N 030° 49′ .0592 E.
+Norsk rapporteringspliktig område er alt farvann innenfor følgende geografiske avgrensning, oppgitt i koordinater som definert i World Geodetic System 1984 (WGS 84):
+
+1. 67° 10′ .0000 N Norskekysten
+2. 67° 10′ .0000 N 008° 00′ .0000 E
+3. 68° 15′ .0000 N 009° 30′ .0000 E
+4. 71° 15′ .0000 N 019° 00′ .0000 E
+5. 71° 50′ .0000 N 024° 00′ .0000 E
+6. 71° 50′ .0000 N 028° 00′ .0000 E
+7. 71° 02′ .7470 N 033° 02′ .7580 E
+8. 70° 16′ .4825 N 032° 04′ .3833 E
+9. 70° 11′ .8613 N 031° 46′ .5595 E
+10. 70° 07′ .2533 N 031° 30′ .3238 E
+11. 70° 05′ .9807 N 031° 26′ .6880 E
+12. 69° 58′ .7582 N 031° 06′ .2597 E
+13. 69° 47′ .6903 N 030° 49′ .0592 E.
 
 Norsk rapporteringspliktig område er nærmere fremstilt i kart i forskriftens vedlegg 2.
 
@@ -160,7 +276,21 @@ Fartøy som kommer fra russisk rapporteringspliktig område, og har rapportert t
 
 ### § 23. (rapportens innhold)
 
-Rapporten skal inneholde følgende informasjon:Informasjonskategori A – fartøyets identitetInformasjonskategori B – dato og tidspunkt for meldingenInformasjonskategori C – fartøyets nåværende posisjonInformasjonskategori E – fartøyets nåværende kursInformasjonskategori F – fartøyets nåværende fartInformasjonskategori H – dato, tidspunkt og sted for innseiling i norsk rapporteringspliktig områdeInformasjonskategori I – destinasjon og estimert ankomsttidInformasjonskategori O – største dyptgående i nåværende lastetilstandInformasjonskategori P – fartøyets lastInformasjonskategori Q – eventuelle defekter og begrensninger i manøvreringsevnenInformasjonskategori T – skipets eier og kontaktpersoner i forhold til lastInformasjonskategori W – antall personer om bordInformasjonskategori X – type og mengde bunkers om bord.
+Rapporten skal inneholde følgende informasjon:
+
+1. Informasjonskategori A – fartøyets identitet
+2. Informasjonskategori B – dato og tidspunkt for meldingen
+3. Informasjonskategori C – fartøyets nåværende posisjon
+4. Informasjonskategori E – fartøyets nåværende kurs
+5. Informasjonskategori F – fartøyets nåværende fart
+6. Informasjonskategori H – dato, tidspunkt og sted for innseiling i norsk rapporteringspliktig område
+7. Informasjonskategori I – destinasjon og estimert ankomsttid
+8. Informasjonskategori O – største dyptgående i nåværende lastetilstand
+9. Informasjonskategori P – fartøyets last
+10. Informasjonskategori Q – eventuelle defekter og begrensninger i manøvreringsevnen
+11. Informasjonskategori T – skipets eier og kontaktpersoner i forhold til last
+12. Informasjonskategori W – antall personer om bord
+13. Informasjonskategori X – type og mengde bunkers om bord.
 
 Ved eventuelle endringer i forhold til oppgitt informasjon om bokstav Q over, skal Vardø sjøtrafikksentral holdes oppdatert.
 
@@ -178,7 +308,11 @@ Fartøy som ikke rapporterer i henhold til forskriften vil bli pålagt å avgi r
 
 Forskriften trer i kraft 1. januar 2016.
 
-Fra samme tidspunkt oppheves:[Forskrift 20. desember 2010 nr. 1782](forskrift/2010-12-20-1782) om meldeplikt for oljetankere over 150 bruttotonn som skal foreta STS-operasjoner i Norges økonomiske sone.[Forskrift 17. desember 2009 nr. 1633](forskrift/2009-12-17-1633) om krav til melding for fartøy over 300 BT eller mer og fartøy som transporterer farlig eller forurensende last.[Forskrift 29. mai 2013 nr. 552](forskrift/2013-05-29-552) om påbudt skipsrapporteringssystem i norsk territorialfarvann og økonomisk sone.
+Fra samme tidspunkt oppheves:
+
+- [Forskrift 20. desember 2010 nr. 1782](forskrift/2010-12-20-1782) om meldeplikt for oljetankere over 150 bruttotonn som skal foreta STS-operasjoner i Norges økonomiske sone.
+- [Forskrift 17. desember 2009 nr. 1633](forskrift/2009-12-17-1633) om krav til melding for fartøy over 300 BT eller mer og fartøy som transporterer farlig eller forurensende last.
+- [Forskrift 29. mai 2013 nr. 552](forskrift/2013-05-29-552) om påbudt skipsrapporteringssystem i norsk territorialfarvann og økonomisk sone.
 
 ## Vedlegg 1
 Ship pre-arrival security information form
@@ -195,7 +329,10 @@ Rapporteringskrav og rapporteringsalternativer
 
 Rapporteringen ønskes primært utført elektronisk gjennom en kombinasjon av AIS og en forhåndsmelding gitt i SafeSeaNet Norway, faks eller e-post.
 
-Dersom et fartøy er forhindret fra å sende elektronisk, eller fremsende en forhåndsmelding innen tidskravet, kan hele rapporten eller deler av denne formidles på VHF eller telefon.Et fartøy kan imøtekomme rapporteringskravene for betegnelsene A, B, C, E, F, I, O og W gjennom at riktige og oppdaterte AIS-data kringkastes fra fartøyets AIS-system om bord.Et fartøy kan videre imøtekomme rapporteringskravene for betegnelsene A, H, P, Q, T og X gjennom at en elektronisk forhåndsmelding blir avgitt i SafeSeaNet Norway, faks eller e-post.
+Dersom et fartøy er forhindret fra å sende elektronisk, eller fremsende en forhåndsmelding innen tidskravet, kan hele rapporten eller deler av denne formidles på VHF eller telefon.
+
+- Et fartøy kan imøtekomme rapporteringskravene for betegnelsene A, B, C, E, F, I, O og W gjennom at riktige og oppdaterte AIS-data kringkastes fra fartøyets AIS-system om bord.
+- Et fartøy kan videre imøtekomme rapporteringskravene for betegnelsene A, H, P, Q, T og X gjennom at en elektronisk forhåndsmelding blir avgitt i SafeSeaNet Norway, faks eller e-post.
 
 Tabellen nedenfor beskriver en optimal bruk av rapporteringssystemet og mulighetene for å kombinere ulike kommunikasjonsmidler for å fremsende de pålagte data. I tillegg gir den utfyllende informasjon om hvilke data som fartøyet er pliktig til å fremsende under hver av bokstavbetegnelsene.
 

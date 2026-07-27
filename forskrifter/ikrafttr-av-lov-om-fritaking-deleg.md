@@ -15,7 +15,7 @@ xml_hash: "50f52ad7c3b4c713facbb3242e5581bfe09fc38a111a649feca1501a4a5b64c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,4 +28,8 @@ eu_basis: []
 
 3\. Det fastsettes regler om behandling av saker om fritaking for militærtjeneste av overbevisningsgrunner etter lov av 19. mars 1965, i samsvar med et fremlagt utkast.
 
-4\. Det fastsettes bestemmelser om tjenestetid for personer som er fritatt for militærtjeneste av overbevisningsgrunner etter lov av 19. mars 1965, i samsvar med et fremlagt utkast.Utkastet lyder:...
+4\. Det fastsettes bestemmelser om tjenestetid for personer som er fritatt for militærtjeneste av overbevisningsgrunner etter lov av 19. mars 1965, i samsvar med et fremlagt utkast.
+
+Utkastet lyder:
+
+...

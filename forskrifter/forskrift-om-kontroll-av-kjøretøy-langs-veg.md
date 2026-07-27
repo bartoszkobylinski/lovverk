@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1. Hva forskriften gjelder
 
-Denne forskriften gjelder for følgende nyttekjøretøy med en konstruksjonshastighet på over 25 km/t:motorvogner med 9 eller flere sitteplasser i tillegg til førersetet, som i hovedsak er konstruert og bygget for transport av personer og deres bagasje, kjøretøygruppene M2 og M3motorvogner med største tillatte totalvekt over 3 500 kg, som i hovedsak er innrettet og konstruert for godstransporttilhengere til bil med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe O3 og O4hjulgående traktor med konstruksjonshastighet over 40 km/t, som brukes på offentlig vei til kommersiell godstransporttilhenger til traktor med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe R3 og R4.
+Denne forskriften gjelder for følgende nyttekjøretøy med en konstruksjonshastighet på over 25 km/t:
+
+1. motorvogner med 9 eller flere sitteplasser i tillegg til førersetet, som i hovedsak er konstruert og bygget for transport av personer og deres bagasje, kjøretøygruppene M2 og M3
+2. motorvogner med største tillatte totalvekt over 3 500 kg, som i hovedsak er innrettet og konstruert for godstransport
+3. tilhengere til bil med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe O3 og O4
+4. hjulgående traktor med konstruksjonshastighet over 40 km/t, som brukes på offentlig vei til kommersiell godstransport
+5. tilhenger til traktor med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe R3 og R4.
 
 Denne forskriften hindrer ikke muligheten for kontroll av andre kjøretøy som ikke er nevnt i første ledd, bokstav a–e.
 
@@ -42,7 +48,16 @@ EØS-avtalen vedlegg XIII nr. 17hb gjelder som forskrift med de endringer som f�
 
 Definisjonene i vegtrafikkloven, [forskrift 25. januar 1990 nr. 91](forskrift/1990-01-25-91) om krav til kjøretøy, [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften), [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil og [forskrift 1. juni 2016 nr. 561](forskrift/2016-06-01-561) om godkjenning av traktor og tilhenger til traktor gjelder tilsvarende for denne forskrift.
 
-I denne forskriften legges dessuten følgende definisjoner til grunn:*nyttekjøretøy*: motorvogn og dens tilhenger eller semitrailer, som brukes til transport av gods eller passasjerer til kommersielle formål*foretak*: enhver fysisk eller juridisk person som driver vegtransport mot vederlag eller for egen regning*teknisk kontroll av kjøretøy langs veg*: en teknisk kontroll av trafikksikkerheten til et nyttekjøretøy*mobil kontrollenhet*: transportabelt system med kontrollutstyr som er nødvendig for å foreta detaljerte tekniske kontroller, bemannet med kontrollører som er kvalifisert til å utføre slike tekniske kontroller*kontrollstasjon*: fast område der innledende eller detaljerte tekniske kontroller foregår, som også kan utstyres med permanent installert kontrollutstyr*godkjent kontrollorgan*: organ godkjent etter forskrift om periodisk kjøretøykontroll [§ 3](forskrift/2017-10-13-1615/§3)*kontrollseddel*: dokument utstedt av godkjent kontrollorgan etter periodisk kontroll, jf. forskrift om periodisk kjøretøykontroll [§ 19](forskrift/2017-10-13-1615/§19)*kontrollrapport*: dokument som utstedes av kontrolløren ved avsluttet teknisk kontroll langs veg.
+I denne forskriften legges dessuten følgende definisjoner til grunn:
+
+1. *nyttekjøretøy*: motorvogn og dens tilhenger eller semitrailer, som brukes til transport av gods eller passasjerer til kommersielle formål
+2. *foretak*: enhver fysisk eller juridisk person som driver vegtransport mot vederlag eller for egen regning
+3. *teknisk kontroll av kjøretøy langs veg*: en teknisk kontroll av trafikksikkerheten til et nyttekjøretøy
+4. *mobil kontrollenhet*: transportabelt system med kontrollutstyr som er nødvendig for å foreta detaljerte tekniske kontroller, bemannet med kontrollører som er kvalifisert til å utføre slike tekniske kontroller
+5. *kontrollstasjon*: fast område der innledende eller detaljerte tekniske kontroller foregår, som også kan utstyres med permanent installert kontrollutstyr
+6. *godkjent kontrollorgan*: organ godkjent etter forskrift om periodisk kjøretøykontroll [§ 3](forskrift/2017-10-13-1615/§3)
+7. *kontrollseddel*: dokument utstedt av godkjent kontrollorgan etter periodisk kontroll, jf. forskrift om periodisk kjøretøykontroll [§ 19](forskrift/2017-10-13-1615/§19)
+8. *kontrollrapport*: dokument som utstedes av kontrolløren ved avsluttet teknisk kontroll langs veg.
 
 ## Kapittel 2. Generelle bestemmelser
 
@@ -80,11 +95,20 @@ Systemet for teknisk kontroll langs veg skal omfatte innledende kontroller som n
 
 ### § 8. Utvelgelse av kjøretøy til teknisk kontroll
 
-Kjøretøy kan velges ut for innledende kontroll basert på:foretakets risikoprofil som nevnt i [§ 6](forskrift/2017-10-13-1615/§6) om risikoklassifiseringssystemetmistanke om at kjøretøyet utgjør en risiko for trafikksikkerheten eller miljøettilfeldig utvelgelse ellerannen måte.
+Kjøretøy kan velges ut for innledende kontroll basert på:
+
+1. foretakets risikoprofil som nevnt i [§ 6](forskrift/2017-10-13-1615/§6) om risikoklassifiseringssystemet
+2. mistanke om at kjøretøyet utgjør en risiko for trafikksikkerheten eller miljøet
+3. tilfeldig utvelgelse eller
+4. annen måte.
 
 ### § 9. Innledende teknisk kontroll
 
-Ved hver innledende kontroll av et kjøretøy:skal kontrolløren kontrollere den siste kontrollseddelen og siste kontrollrapport dersom dette foreligger, jf. [§ 3](forskrift/2017-10-13-1615/§3) annet ledd, og så vidt mulig kontrollere om eventuelle mangler angitt i kontrollrapporten er rettetskal kontrolløren foreta en visuell vurdering av kjøretøyets tekniske standkan kontrolløren foreta tekniske kontroller med hensiktsmessige metoder.
+Ved hver innledende kontroll av et kjøretøy:
+
+1. skal kontrolløren kontrollere den siste kontrollseddelen og siste kontrollrapport dersom dette foreligger, jf. [§ 3](forskrift/2017-10-13-1615/§3) annet ledd, og så vidt mulig kontrollere om eventuelle mangler angitt i kontrollrapporten er rettet
+2. skal kontrolløren foreta en visuell vurdering av kjøretøyets tekniske stand
+3. kan kontrolløren foreta tekniske kontroller med hensiktsmessige metoder.
 
 På bakgrunn av dette, kan kontrollmyndigheten beslutte at det skal gjennomføres en detaljert teknisk kontroll, jf. [§ 10](forskrift/2017-10-13-1615/§10), eller gi pålegg om retting av eventuelle mangler, jf. [§ 14](forskrift/2017-10-13-1615/§14).
 
@@ -108,7 +132,11 @@ Framgangsmåtene for oppfølging nevnt i [§ 13](forskrift/2017-10-13-1615/§13)
 
 Vedlegg II inneholder en liste over mulige mangler og deres alvorlighetsgrad som skal benyttes ved gjennomføringen av detaljerte tekniske kontroller.
 
-Mangler kategoriseres i en av følgende grupper:mindre mangler: har ikke vesentlig innvirkning på kjøretøyets sikkerhet eller miljøet, samt andre mindre avvik fra kravenevesentlige mangler: kan sette kjøretøyets sikkerhet i fare, påvirke miljøet eller utsette andre trafikanter for fare, samt mer vesentlige avvik fra kravene ellerfarlige mangler: utgjør en direkte og umiddelbar fare for trafikksikkerheten eller miljøet.
+Mangler kategoriseres i en av følgende grupper:
+
+1. mindre mangler: har ikke vesentlig innvirkning på kjøretøyets sikkerhet eller miljøet, samt andre mindre avvik fra kravene
+2. vesentlige mangler: kan sette kjøretøyets sikkerhet i fare, påvirke miljøet eller utsette andre trafikanter for fare, samt mer vesentlige avvik fra kravene eller
+3. farlige mangler: utgjør en direkte og umiddelbar fare for trafikksikkerheten eller miljøet.
 
 Dersom et kjøretøy har mangler som hører inn under flere av gruppene i annet ledd, klassifiseres kjøretøyet i den gruppen som tilsvarer den alvorligste mangelen. Hvis den samlede virkningen av flere mindre mangler, jf. annet ledd bokstav a, medfører en risiko for trafikksikkerheten, kan dette klassifiseres som vesentlige mangler, jf. annet ledd bokstav b.
 

@@ -28,7 +28,13 @@ Krigsskadeskipnadens varelagertrygd (nedenfor kalt «Varelagertrygden») er oppr
 
 ## § 2. Begrepet varelager.
 
-Ved varelager forstås i disse vedtekter:Lager av ferdige varer og produkter, råstoffer, hjelpestoffer og halvfabrikata, samt varer i arbeid (herunder skip),Tegninger, arkiver, modeller, verktøy samt løst maskineri og løst inventar såfremt de nevnte gjenstander er brannforsikret sammen med varer som nevnt under punkt a i et felles beløp under oppdeling.Transportmidler på land tilhørende en bedrift som fremstiller, omsetter eller tar i forvaring slike varer som nevnt under pkt. a.Transportmidler som tilhører et transportselskap eller noen som driver tilsvarende virksomhet ansees ikke som varelager.
+Ved varelager forstås i disse vedtekter:
+
+1. Lager av ferdige varer og produkter, råstoffer, hjelpestoffer og halvfabrikata, samt varer i arbeid (herunder skip),
+2. Tegninger, arkiver, modeller, verktøy samt løst maskineri og løst inventar såfremt de nevnte gjenstander er brannforsikret sammen med varer som nevnt under punkt a i et felles beløp under oppdeling.
+3. Transportmidler på land tilhørende en bedrift som fremstiller, omsetter eller tar i forvaring slike varer som nevnt under pkt. a.
+
+   Transportmidler som tilhører et transportselskap eller noen som driver tilsvarende virksomhet ansees ikke som varelager.
 
 ## § 3. Omfang.
 
@@ -46,7 +52,10 @@ Gjenstand for trygding er i det enkelte tilfelle varelager som trygdetakeren eie
 
 Vare som for en kortere tid er borte fra det i forrige ledd nevnte sted, men som trygdetakeren bærer vågnaden for, omfattes av trygden med inntil 20 % av trygdesummen, hvis ikke annet er avtalt. Denne begrensning gjelder dog ikke transportmidler som er oppgitt særskilt ved brannpolisens tegning eller ved innmeldingen til frivillig trygd (3 5).
 
-Unntatt fra varelagertrygden er:Skip under bygging for så vidt det er eller kunne ha vært trygdet mot krigsskade i annen institusjon.Motorvogner som er trygdet i Krigsskadeskipnadens Motorvogntrygd.
+Unntatt fra varelagertrygden er:
+
+1. Skip under bygging for så vidt det er eller kunne ha vært trygdet mot krigsskade i annen institusjon.
+2. Motorvogner som er trygdet i Krigsskadeskipnadens Motorvogntrygd.
 
 ## § 4. Tvungen trygding.
 
@@ -122,7 +131,11 @@ Skaden granskes og takseres av sakkyndige oppnevnt av trygden med mindre trygden
 
 Verdien av de ting som er skadet settes til det beløp som det ville ha kostet å anskaffe tilsvarende ting beregnet etter prisene umiddelbart før skaden inntraff og med fradrag for verdiforringelse p.g.a. alder, bruk, nedsatt anvendelighet eller andre omstendigheter.
 
-For varer gjelder videre følgende omstendigheter:Varer som eieren ikke selv har fremstillet, verdsettes til innkjøpspris med tillegg av omkostninger, begge deler etter de priser som gjaldt ved ordinær levering umiddelbart før skadetilfellet.Varer under fremstilling verdsettes til innkjøpspris for råmaterialene med tillegg av omkostninger (herunder andel av generalomkostninger), begge deler etter de priser som gjaldt ved ordinær levering og fremstilling umiddelbart før skadetilfellet.Varer som eieren har fremstillet for salg, verdsettes etter partiprisen umiddelbart før skadetilfellet med fradrag for sparte omkostninger, renter, kontantrabatt m.v. for varer som beviselig var solgt og ferdig til levering før skadetilfellet, legges dog kontantprisen til grunn med fradrag for sparte omkostninger, renter, kontantrabatt m.v. og i øvrig med iakttagelse av alle de omstendigheter som fører til eller bør føre til avslag i kontraktpris. Det som er berget, skal først og fremst anses som solgt.
+For varer gjelder videre følgende omstendigheter:
+
+1. Varer som eieren ikke selv har fremstillet, verdsettes til innkjøpspris med tillegg av omkostninger, begge deler etter de priser som gjaldt ved ordinær levering umiddelbart før skadetilfellet.
+2. Varer under fremstilling verdsettes til innkjøpspris for råmaterialene med tillegg av omkostninger (herunder andel av generalomkostninger), begge deler etter de priser som gjaldt ved ordinær levering og fremstilling umiddelbart før skadetilfellet.
+3. Varer som eieren har fremstillet for salg, verdsettes etter partiprisen umiddelbart før skadetilfellet med fradrag for sparte omkostninger, renter, kontantrabatt m.v. for varer som beviselig var solgt og ferdig til levering før skadetilfellet, legges dog kontantprisen til grunn med fradrag for sparte omkostninger, renter, kontantrabatt m.v. og i øvrig med iakttagelse av alle de omstendigheter som fører til eller bør føre til avslag i kontraktpris. Det som er berget, skal først og fremst anses som solgt.
 
 Hvor annet bevis for et varelagers verdi ikke kan skaffes, kan de til ligningsmyndighetene gitte oppgaver legges til grunn ved fastsettelse av skaden.
 

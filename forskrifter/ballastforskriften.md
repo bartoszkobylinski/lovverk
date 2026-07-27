@@ -56,7 +56,11 @@ Rør- og operasjonssystemer som er tilknyttet ballastsystemet, skal plasseres ut
 
 ## § 5. Kontrollnivå
 
-(1) Kontroll av ballastsystemet skal deles inn i tre nivåer:høyeste nivå (automasjonssystem);sekundært nivå, som er uavhengig av programvarebaserte kontrollsystemer;laveste nivå, som er lokalt på pumpene og ventilene. Innretninger med skipsskrog eller sylinderformede skrog, med ballastsystem som ikke er kritisk for stabiliteten, er unntatt fra dette kravet.
+(1) Kontroll av ballastsystemet skal deles inn i tre nivåer:
+
+1. høyeste nivå (automasjonssystem);
+2. sekundært nivå, som er uavhengig av programvarebaserte kontrollsystemer;
+3. laveste nivå, som er lokalt på pumpene og ventilene. Innretninger med skipsskrog eller sylinderformede skrog, med ballastsystem som ikke er kritisk for stabiliteten, er unntatt fra dette kravet.
 
 (2) Lavere nivå skal kunne brukes uavhengig av høyere nivå.
 
@@ -68,7 +72,11 @@ Rør- og operasjonssystemer som er tilknyttet ballastsystemet, skal plasseres ut
 
 ## § 6. Plassering av høyeste og sekundært nivå
 
-(1) Høyeste og sekundært nivå skal plasseres på ulike lokasjonerutenfor skadeområder, jf. [§ 2](forskrift/2016-01-27-67/§2)over skadevannlinjer, jf. [stabilitetsforskriften § 21](forskrift/1991-12-20-878/§21)i lukket rom som er godt beskyttet mot miljøbelastninger.
+(1) Høyeste og sekundært nivå skal plasseres på ulike lokasjoner
+
+1. utenfor skadeområder, jf. [§ 2](forskrift/2016-01-27-67/§2)
+2. over skadevannlinjer, jf. [stabilitetsforskriften § 21](forskrift/1991-12-20-878/§21)
+3. i lukket rom som er godt beskyttet mot miljøbelastninger.
 
 (2) Det høyeste nivået skal i tillegg til kravet i første ledd plasseres over fribordsdekket og reserveoppdriftsvannlinjen, jf. [stabilitetsforskriften § 22](forskrift/1991-12-20-878/§22).
 
@@ -76,7 +84,15 @@ Rør- og operasjonssystemer som er tilknyttet ballastsystemet, skal plasseres ut
 
 (1) Ballastkontrollen på høyeste nivå skal plasseres i sentralt kontrollrom sammen med systemkontrollen for vanntette lukningsmidler.
 
-(2) Ballastkontrollen på høyeste nivå skal hakontroll- og indikeringssystem for ballastpumper og -ventilerindikatorsystem for krafttilførsel (hoved- og nødkraftkilde)indikatorsystem for hydraulisk eller pneumatisk trykk i ballastsystemetnødstopptankpeilesystemindikatorsystem for dypgåendeto uavhengige metoder for krenge- og trimindikering.
+(2) Ballastkontrollen på høyeste nivå skal ha
+
+1. kontroll- og indikeringssystem for ballastpumper og -ventiler
+2. indikatorsystem for krafttilførsel (hoved- og nødkraftkilde)
+3. indikatorsystem for hydraulisk eller pneumatisk trykk i ballastsystemet
+4. nødstopp
+5. tankpeilesystem
+6. indikatorsystem for dypgående
+7. to uavhengige metoder for krenge- og trimindikering.
 
 ## § 8. Kontroll- og indikeringssystemer
 
@@ -158,7 +174,11 @@ Styrekomponenter, pumper, ventiler, ballastrør og lufterør skal tydelig merkes
 
 ## § 19. Operasjonsprosedyre
 
-(1) Det skal finnes en operasjonsprosedyre for ballastsystemet som skal omfattenormal brukbruk av ballastsystemet etter at feil har oppstått, inkludert operasjon av ballastsystemet på høyeste, sekundært og laveste nivåbruk av nødstopp.
+(1) Det skal finnes en operasjonsprosedyre for ballastsystemet som skal omfatte
+
+1. normal bruk
+2. bruk av ballastsystemet etter at feil har oppstått, inkludert operasjon av ballastsystemet på høyeste, sekundært og laveste nivå
+3. bruk av nødstopp.
 
 (2) For halvt nedsenkbare innretninger skal operasjonsprosedyren i tillegg til kravet i første ledd omfatte ballastering fra forflytningstilstand og operasjonstilstand til sikkerhetstilstand.
 
@@ -166,7 +186,11 @@ Styrekomponenter, pumper, ventiler, ballastrør og lufterør skal tydelig merkes
 
 ## § 20. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 

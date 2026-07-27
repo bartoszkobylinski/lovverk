@@ -15,7 +15,7 @@ xml_hash: "768dee715acf8b736bd60ee656b41d28534bd9e5667d8b0679c1e620addfc9d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,11 @@ Overenskomsten skal gjelde som norsk lov.
 
 ## § 3. Definisjoner
 
-I denne lov menes med:*Overenskomsten* – Protokoll av 3. juni 1999 om endring av Overenskomst om internasjonal jernbanetrafikk (COTIF) av 9. mai 1980 (Protokoll 1999) med vedlegg som nevnt i [§ 2](lov/2004-12-10-82/§2), og protokoll om immunitet som nevnt i [§ 1](lov/2004-12-10-82/§1),*Passasjertransportør i CIV* – Den avtalefestede transportøren som den reisende har inngått transportavtale med i henhold til De enhetlige rettsregler (CIV), eller en etterfølgende transportør som er ansvarlig etter CIV,*Godstransportør i CIM* – Den avtalefestede transportøren som senderen har inngått fraktavtale med i henhold til De enhetlige rettsregler (CIM), eller en etterfølgende transportør som er ansvarlig etter CIM.
+I denne lov menes med:
+
+1. *Overenskomsten* – Protokoll av 3. juni 1999 om endring av Overenskomst om internasjonal jernbanetrafikk (COTIF) av 9. mai 1980 (Protokoll 1999) med vedlegg som nevnt i [§ 2](lov/2004-12-10-82/§2), og protokoll om immunitet som nevnt i [§ 1](lov/2004-12-10-82/§1),
+2. *Passasjertransportør i CIV* – Den avtalefestede transportøren som den reisende har inngått transportavtale med i henhold til De enhetlige rettsregler (CIV), eller en etterfølgende transportør som er ansvarlig etter CIV,
+3. *Godstransportør i CIM* – Den avtalefestede transportøren som senderen har inngått fraktavtale med i henhold til De enhetlige rettsregler (CIM), eller en etterfølgende transportør som er ansvarlig etter CIM.
 
 ## § 4. Anerkjennelse og fullbyrdelse av utenlandske dommer
 

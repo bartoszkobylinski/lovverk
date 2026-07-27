@@ -44,7 +44,13 @@ Forskriften gjelder for norske skip som er utstyrt med minst et bestemt rom om b
 
 ## § 4. Krav til journalføring
 
-(1) Det skal føres en individuell arrestrapport for alle som blir satt i skipsarrest. I arrestrapporten skal følgende alltid noteres:Arrestantens navn og fødselsdato.Tidspunkt for innbringelse og løslatelse.Bakgrunnen for innbringelsen.Registrering av fratatte gjenstander.Opplysninger som skal anmerkes i henhold til [§ 5](forskrift/2009-08-06-1032/§5).
+(1) Det skal føres en individuell arrestrapport for alle som blir satt i skipsarrest. I arrestrapporten skal følgende alltid noteres:
+
+1. Arrestantens navn og fødselsdato.
+2. Tidspunkt for innbringelse og løslatelse.
+3. Bakgrunnen for innbringelsen.
+4. Registrering av fratatte gjenstander.
+5. Opplysninger som skal anmerkes i henhold til [§ 5](forskrift/2009-08-06-1032/§5).
 
 (2) Den innsattes navn, fødselsdato og tidspunkt for innbringelse og løslatelse skal også noteres i dekksdagboken.
 

@@ -15,7 +15,7 @@ xml_hash: "2c7a935000fa64944000437464356bfd1fbb7723c10588686d22443bafc036f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,12 @@ eu_basis: []
 
 (2) Doktorgradsutdanningens viktigste komponent er et selvstendig arbeid innen forskning eller kombinert forsknings- og utviklingsarbeid som gjennomføres under individuell veiledning.
 
-(3) Den vitenskapelige doktorgraden tildeles på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent vitenskapelig avhandling, jf. [§ 12-1](forskrift/2024-09-17-3171/§12-1)godkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas).
+(3) Den vitenskapelige doktorgraden tildeles på grunnlag av:
+
+1. godkjent gjennomføring av opplæringsdelen
+2. godkjent vitenskapelig avhandling, jf. [§ 12-1](forskrift/2024-09-17-3171/§12-1)
+3. godkjent prøveforelesning over oppgitt emne
+4. godkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas).
 
 ### § 4. Ansvaret for doktorgradsutdanningen
 
@@ -86,7 +91,15 @@ Doktorgradsutdanningen omfattes av kvalitetssystem for utdanning ved Høgskolen 
 
 ### § 6-2. Søknad
 
-(1) Søknad om opptak skal sendes institusjonen på fastsatt søknadsskjema og innfri alle krav om dokumentasjon som beskrevet av høgskolen. Dette inkluderer blant annet:Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaketDokumentasjon for finansiering for hele stipendiatperiodenProsjektbeskrivelse som følger høgskolens veileder for ph.d.-prosjektbeskrivelserRedegjørelse for eventuelle rettslige og forskningsetiske problemstillingerInformasjon om spesielle behov for infrastruktur eller ressurser ut over det høgskolen ordinært tilbyr ph.d.-studenter.Ytterligere dokumentasjon kan etterspørres.
+(1) Søknad om opptak skal sendes institusjonen på fastsatt søknadsskjema og innfri alle krav om dokumentasjon som beskrevet av høgskolen. Dette inkluderer blant annet:
+
+- Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket
+- Dokumentasjon for finansiering for hele stipendiatperioden
+- Prosjektbeskrivelse som følger høgskolens veileder for ph.d.-prosjektbeskrivelser
+- Redegjørelse for eventuelle rettslige og forskningsetiske problemstillinger
+- Informasjon om spesielle behov for infrastruktur eller ressurser ut over det høgskolen ordinært tilbyr ph.d.-studenter.
+
+Ytterligere dokumentasjon kan etterspørres.
 
 (2) Institusjonen kan fastsette krav om residensplikt.
 
@@ -106,7 +119,12 @@ Doktorgradsutdanningen omfattes av kvalitetssystem for utdanning ved Høgskolen 
 
 (4) Det kan gis betinget opptak dersom enkelte vilkår for opptak på opptakstidspunktet ikke er oppfylt. Søker skal i slike tilfeller gis en tidsfrist som ikke er lenger enn tre (3) måneder for å oppfylle manglende vilkår.
 
-(5) Opptak skal normalt avslås dersom:finansiering ikke er sikret for hele periodenavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er urimeligesøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsutdanningen, jf. [§ 6-1](forskrift/2024-09-17-3171/§6-1).
+(5) Opptak skal normalt avslås dersom:
+
+- finansiering ikke er sikret for hele perioden
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått er urimelige
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsutdanningen, jf. [§ 6-1](forskrift/2024-09-17-3171/§6-1).
 
 ### § 6-5. Avtaleperiode
 
@@ -138,9 +156,16 @@ Doktorgradsutdanningen omfattes av kvalitetssystem for utdanning ved Høgskolen 
 
 ### § 8-2. Tvungen avslutning
 
-(1) Sentralt ph.d.-utvalg kan vedta tvungen avslutning av doktorgradsutdanningen før avtalt tid med hjemmel i [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2). Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 11-1](forskrift/2024-09-17-3171/§11-1).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom høgskolen og kandidat under gjennomføringen, inklusive straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
+(1) Sentralt ph.d.-utvalg kan vedta tvungen avslutning av doktorgradsutdanningen før avtalt tid med hjemmel i [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2). Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:
 
-(2) Nemnd for studentsaker kan vedta tvungen avslutning av doktorgradsutdanningen med hjemmel i [lov om universiteter og høyskoler § 13-2 første ledd](lov/2024-03-08-9/§13-2/ledd/1):Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk som rammes av reglene i [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 11-1](forskrift/2024-09-17-3171/§11-1).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.
+- Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom høgskolen og kandidat under gjennomføringen, inklusive straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
+
+(2) Nemnd for studentsaker kan vedta tvungen avslutning av doktorgradsutdanningen med hjemmel i [lov om universiteter og høyskoler § 13-2 første ledd](lov/2024-03-08-9/§13-2/ledd/1):
+
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk som rammes av reglene i [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
 
 (3) Kandidater kan sies opp fra sin stilling når det er saklig grunn i virksomhetens eller kandidatens forhold, jf. [lov om statens ansatte mv. (statsansatteloven) § 19](lov/2017-06-16-67/§19) og [§ 20](lov/2017-06-16-67/§20), eller avskjediges i henhold til [§ 26](lov/2017-06-16-67/§26).
 
@@ -280,7 +305,14 @@ Kandidater som har lovfestet permisjon fra doktorgradsutdanningen, kan likevel f
 
 (1) Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-(2) Som vedlegg til søknaden skal følge:Den vitenskapelige avhandlingen leveres i den form som fastsettes av vertsfakultetet.Dokumentasjon på at opplæringsdelen er fullført og godkjent.Dokumentasjon av nødvendige tillatelser.Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 12-2](forskrift/2024-09-17-3171/§12-2).Erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang.Erklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
+(2) Som vedlegg til søknaden skal følge:
+
+- Den vitenskapelige avhandlingen leveres i den form som fastsettes av vertsfakultetet.
+- Dokumentasjon på at opplæringsdelen er fullført og godkjent.
+- Dokumentasjon av nødvendige tillatelser.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 12-2](forskrift/2024-09-17-3171/§12-2).
+- Erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
 
 (3) Institusjonen skal legge til rette for at perioden fra innlevering til disputas er kortest mulig, normalt ikke lenger enn seks (6) måneder.
 
@@ -296,7 +328,16 @@ Kandidater som har lovfestet permisjon fra doktorgradsutdanningen, kan likevel f
 
 (2) Bedømmelseskomiteens sammensetning bør normalt være klarlagt ved innleveringstidspunkt.
 
-(3) Bedømmelseskomiteen skal normalt settes sammen slik at:ulike kjønn er representertminst to av medlemmene er uten tilknytning til Høgskolen i Østfoldminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonett av medlemmene er fast ansatt ved Høgskolen i Østfoldalle medlemmene har doktorgrad eller tilsvarende kompetanseleder skal normalt være ansatt ved Høgskolen i Østfold.Dersom kriteriene fravikes, skal dette begrunnes særskilt.
+(3) Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- ulike kjønn er representert
+- minst to av medlemmene er uten tilknytning til Høgskolen i Østfold
+- minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+- ett av medlemmene er fast ansatt ved Høgskolen i Østfold
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- leder skal normalt være ansatt ved Høgskolen i Østfold.
+
+Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
 (4) Programutvalget oppnevner bedømmelseskomité på anbefaling fra veilederne. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker doktorgradsarbeidets fagfelt.
 

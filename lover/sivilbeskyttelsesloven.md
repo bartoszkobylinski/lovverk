@@ -15,7 +15,7 @@ xml_hash: "55e440ccd017cf39f983a564c194fdb752edf75f9fb98852d61388a5b8f7dc45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32008L0114"
@@ -41,7 +41,15 @@ Med unntak av kapittel VII A gjelder ikke loven for virksomhet i sjøområder i 
 
 ### § 3. Definisjoner
 
-I denne lov menes med:*Uønskede hendelser:* hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur.*Sivilforsvarets myndigheter:* departementet og den som bemyndiges.*Egenbeskyttelsestiltak:* tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier.*Kritisk infrastruktur:* anlegg, systemer eller deler av disse som er nødvendige for å opprettholde sentrale samfunnsfunksjoner, menneskers helse, sikkerhet, trygghet og økonomiske eller sosiale velferd og hvor driftsforstyrrelse eller ødeleggelse av disse vil kunne få betydelige konsekvenser.*Europeisk kritisk infrastruktur:* kritisk infrastruktur hvis driftsforstyrrelse eller ødeleggelse vil kunne få betydelige konsekvenser for to eller flere EØS-stater. Betydningen av konsekvensene skal vurderes ut fra de sektorovergripende kriteriene i [§ 24a](lov/2010-06-25-45/§24a) fjerde ledd.*Tjeneste:* kurs, øvelser og innsatser.*Arbeids- og tjenesteforhold:* arbeids- eller tjenesteavtaler mot vederlag eller arbeidsforhold etablert gjennom pålegg om arbeidsplikt etter [§ 28 e](lov/2010-06-25-45/§28e) der arbeidstaker eller tjenesteyter er en fysisk person.
+I denne lov menes med:
+
+1. *Uønskede hendelser:* hendelser som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur.
+2. *Sivilforsvarets myndigheter:* departementet og den som bemyndiges.
+3. *Egenbeskyttelsestiltak:* tiltak som personer eller virksomheter iverksetter for sin eiendom eller virksomhet for beskyttelse av liv, helse, miljø og materielle verdier.
+4. *Kritisk infrastruktur:* anlegg, systemer eller deler av disse som er nødvendige for å opprettholde sentrale samfunnsfunksjoner, menneskers helse, sikkerhet, trygghet og økonomiske eller sosiale velferd og hvor driftsforstyrrelse eller ødeleggelse av disse vil kunne få betydelige konsekvenser.
+5. *Europeisk kritisk infrastruktur:* kritisk infrastruktur hvis driftsforstyrrelse eller ødeleggelse vil kunne få betydelige konsekvenser for to eller flere EØS-stater. Betydningen av konsekvensene skal vurderes ut fra de sektorovergripende kriteriene i [§ 24a](lov/2010-06-25-45/§24a) fjerde ledd.
+6. *Tjeneste:* kurs, øvelser og innsatser.
+7. *Arbeids- og tjenesteforhold:* arbeids- eller tjenesteavtaler mot vederlag eller arbeidsforhold etablert gjennom pålegg om arbeidsplikt etter [§ 28 e](lov/2010-06-25-45/§28e) der arbeidstaker eller tjenesteyter er en fysisk person.
 
 > Endret ved [lover 14 des 2012 nr. 90](lov/2012-12-14-90) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1271](forskrift/2012-12-14-1271)), [16 april 2021 nr. 20](lov/2021-04-16-20) (ikr. 1 mai 2021 iflg. [res. 16 april 2021 nr. 1174](forskrift/2021-04-16-1174)), [20 juni 2025 nr. 77](lov/2025-06-20-77) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1140](forskrift/2025-06-20-1140)).
 
@@ -49,7 +57,15 @@ I denne lov menes med:*Uønskede hendelser:* hendelser som avviker fra det norma
 
 ### § 4. Sivilforsvarets oppgaver og ansvar
 
-Sivilforsvarets oppgave er å planlegge og iverksette tiltak for beskyttelse av sivilbefolkningen, miljø og materielle verdier. Sivilforsvaret skal blant annet:etablere og drifte system for varsling av befolkningen, jf. [§ 16](lov/2010-06-25-45/§16),forestå oppgaver i forbindelse med evakuering av befolkningen, jf. [§ 17](lov/2010-06-25-45/§17),ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. [§ 22](lov/2010-06-25-45/§22) første ledd,bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. [§ 10](lov/2010-06-25-45/§10),utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. [§ 29](lov/2010-06-25-45/§29).
+Sivilforsvarets oppgave er å planlegge og iverksette tiltak for beskyttelse av sivilbefolkningen, miljø og materielle verdier. Sivilforsvaret skal blant annet:
+
+1. etablere og drifte system for varsling av befolkningen, jf. [§ 16](lov/2010-06-25-45/§16),
+2. forestå oppgaver i forbindelse med evakuering av befolkningen, jf. [§ 17](lov/2010-06-25-45/§17),
+3. ha ansvar for tilfluktsromtjeneste for offentlige tilfluktsrom, jf. [§ 22](lov/2010-06-25-45/§22) første ledd,
+4. bistå nød- og beredskapsetatene med personell og materiell i forbindelse med skadeforebyggende og skadebegrensende tiltak,
+5. lede redningsinnsats på skadestedet og ha ordensmyndighet når nødetater tillagt slik myndighet ikke er tilstede. Myndighet etter denne bestemmelse skal så vidt mulig utøves i samråd med politiet,
+6. etter godkjennelse fra departementet bistå ved internasjonale oppdrag i forbindelse med uønskede hendelser, jf. [§ 10](lov/2010-06-25-45/§10),
+7. utføre tilsynsoppgaver der Sivilforsvaret er utpekt som tilsynsmyndighet, jf. [§ 29](lov/2010-06-25-45/§29).
 
 Departementet kan gi forskrifter om Sivilforsvarets organisering, oppgaver og ansvar.
 
@@ -183,7 +199,15 @@ Departementet kan gi forskrifter om disiplinære forhold for tjenestepliktig per
 
 Kommunen skal bidra til gjennomføring av Sivilforsvarets oppgaver og tiltak.
 
-Videre skal kommunen blant annet:stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. [§ 13](lov/2010-06-25-45/§13),bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. [§§ 20](lov/2010-06-25-45/§20) flg.,ivareta de kommunale beredskapsplikter som fremgår av [§§ 14](lov/2010-06-25-45/§14) og [15](lov/2010-06-25-45/§15),planlegge og bistå ved gjennomføring av evakuering etter [§§ 15](lov/2010-06-25-45/§15), [17](lov/2010-06-25-45/§17) og [18](lov/2010-06-25-45/§18).
+Videre skal kommunen blant annet:
+
+1. stille rom og kommunal grunn til rådighet ved innsats eller til utdannings- og øvingsformål for Sivilforsvaret, og sørge for varme, lys og renhold i slike rom. Kommunen plikter å tillate forandringer av de rom som stilles til rådighet,
+2. stille kommunal grunn til rådighet for bygging av sivilforsvarsanlegg,
+3. sørge for innkvartering, bespisning og annen bistand til Sivilforsvaret når dette er nødvendig,
+4. ivareta oppgaver i forbindelse med lagring og vedlikehold av Sivilforsvarets materiell, jf. [§ 13](lov/2010-06-25-45/§13),
+5. bygge, utstyre, innrede og vedlikeholde offentlige tilfluktsrom, jf. [§§ 20](lov/2010-06-25-45/§20) flg.,
+6. ivareta de kommunale beredskapsplikter som fremgår av [§§ 14](lov/2010-06-25-45/§14) og [15](lov/2010-06-25-45/§15),
+7. planlegge og bistå ved gjennomføring av evakuering etter [§§ 15](lov/2010-06-25-45/§15), [17](lov/2010-06-25-45/§17) og [18](lov/2010-06-25-45/§18).
 
 Med mindre annet er særskilt bestemt i eller i medhold av loven, er kommunen ansvarlig for kostnader som påløper etter denne bestemmelsen.
 
@@ -345,7 +369,11 @@ Eier eller operatør av objektet plikter overfor departementet å foreslå hvilk
 
 Vurderingen skal skje på bakgrunn av sektorbaserte kriterier som tar hensyn til de særlige kjennetegn for de enkelte sektorer av europeisk kritisk infrastruktur.
 
-Videre skal vurderingen skje på bakgrunn av følgende kriterier:det potensielle antall omkomne eller sårede,størrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, ogkonsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester.
+Videre skal vurderingen skje på bakgrunn av følgende kriterier:
+
+1. det potensielle antall omkomne eller sårede,
+2. størrelsen på det økonomiske tapet og forringelse av varer og tjenester, herunder potensielle miljømessige konsekvenser, og
+3. konsekvensene med hensyn til befolkningens tillit, fysiske lidelser og forstyrrelser i hverdagen, herunder bortfall av vesentlige tjenester.
 
 For infrastrukturer som leverer viktige tjenester skal det tas hensyn til akseptabel tidsperiode for funksjonssvikt og mulighet til å gjenopprette funksjonaliteten.
 
@@ -359,7 +387,11 @@ Kongen kan gi forskrifter med nærmere bestemmelser om utpeking av europeisk kri
 
 Utpekt europeisk kritisk infrastruktur skal ha en operatørsikkerhetsplan. Operatørsikkerhetsplanen skal identifisere kritiske aktiva samt presisere hvilke sikkerhetsløsninger som er eller skal bli iverksatt med henblikk på å beskytte disse.
 
-Prosedyren ved utarbeidelse av operatørsikkerhetsplanen skal minst dekke følgende:identifisering av viktige aktiva,gjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,identifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak.
+Prosedyren ved utarbeidelse av operatørsikkerhetsplanen skal minst dekke følgende:
+
+1. identifisering av viktige aktiva,
+2. gjennomføring av en risikoanalyse med grunnlag i alvorlige trussel scenarioer, hver aktivas sårbarhet og potensielle konsekvenser,
+3. identifisering, utvelgelse og prioritering av mottiltak og prosedyrer med en vurdering mellom permanente og graderte sikkerhetstiltak.
 
 Operatørsikkerhetsplanen skal være iverksatt senest ett år etter at en infrastruktur er blitt utpekt som europeisk kritisk infrastruktur.
 
@@ -587,7 +619,11 @@ Tvangsmulkt kan også fastsettes som en engangsmulkt.
 
 ### § 36. Overtredelsesgebyr
 
-Sivilforsvarets myndigheter eller tilsynsmyndigheten kan ilegge overtredelsesgebyr til fysiske personer og foretak somovertrer [§§ 6](lov/2010-06-25-45/§6) første ledd, [7](lov/2010-06-25-45/§7) første, andre eller fjerde ledd, [8](lov/2010-06-25-45/§8) andre eller tredje ledd, [9](lov/2010-06-25-45/§9) andre ledd, [9 b](lov/2010-06-25-45/§9b) første ledd, [16](lov/2010-06-25-45/§16) andre ledd, [20](lov/2010-06-25-45/§20) andre ledd, [21](lov/2010-06-25-45/§21) første ledd, [24 b](lov/2010-06-25-45/§24), [24 c](lov/2010-06-25-45/§24c) første ledd, [24 d](lov/2010-06-25-45/§24d) tredje ledd eller [32](lov/2010-06-25-45/§32) første leddovertrer forskrift gitt i medhold av [§§ 7](lov/2010-06-25-45/§7), [8](lov/2010-06-25-45/§8), [9](lov/2010-06-25-45/§9), [9](lov/2010-06-25-45/§9) b, [16](lov/2010-06-25-45/§16), [20](lov/2010-06-25-45/§20), [21](lov/2010-06-25-45/§21) eller [25](lov/2010-06-25-45/§25) når det i forskriften er fastsatt at overtredelsen kan medføre overtredelsesgebyrikke retter seg etter vedtak gitt i medhold av [§§ 7](lov/2010-06-25-45/§7) tredje ledd, [9](lov/2010-06-25-45/§9) tredje ledd, [16](lov/2010-06-25-45/§16) tredje ledd, [20](lov/2010-06-25-45/§20) fjerde eller femte ledd, [25](lov/2010-06-25-45/§25) første eller fjerde ledd, [26](lov/2010-06-25-45/§26) første eller andre ledd eller [31](lov/2010-06-25-45/§31) første ledd.
+Sivilforsvarets myndigheter eller tilsynsmyndigheten kan ilegge overtredelsesgebyr til fysiske personer og foretak som
+
+1. overtrer [§§ 6](lov/2010-06-25-45/§6) første ledd, [7](lov/2010-06-25-45/§7) første, andre eller fjerde ledd, [8](lov/2010-06-25-45/§8) andre eller tredje ledd, [9](lov/2010-06-25-45/§9) andre ledd, [9 b](lov/2010-06-25-45/§9b) første ledd, [16](lov/2010-06-25-45/§16) andre ledd, [20](lov/2010-06-25-45/§20) andre ledd, [21](lov/2010-06-25-45/§21) første ledd, [24 b](lov/2010-06-25-45/§24), [24 c](lov/2010-06-25-45/§24c) første ledd, [24 d](lov/2010-06-25-45/§24d) tredje ledd eller [32](lov/2010-06-25-45/§32) første ledd
+2. overtrer forskrift gitt i medhold av [§§ 7](lov/2010-06-25-45/§7), [8](lov/2010-06-25-45/§8), [9](lov/2010-06-25-45/§9), [9](lov/2010-06-25-45/§9) b, [16](lov/2010-06-25-45/§16), [20](lov/2010-06-25-45/§20), [21](lov/2010-06-25-45/§21) eller [25](lov/2010-06-25-45/§25) når det i forskriften er fastsatt at overtredelsen kan medføre overtredelsesgebyr
+3. ikke retter seg etter vedtak gitt i medhold av [§§ 7](lov/2010-06-25-45/§7) tredje ledd, [9](lov/2010-06-25-45/§9) tredje ledd, [16](lov/2010-06-25-45/§16) tredje ledd, [20](lov/2010-06-25-45/§20) fjerde eller femte ledd, [25](lov/2010-06-25-45/§25) første eller fjerde ledd, [26](lov/2010-06-25-45/§26) første eller andre ledd eller [31](lov/2010-06-25-45/§31) første ledd.
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
 
@@ -601,15 +637,31 @@ Adgangen til å ilegge overtredelsesgebyr foreldes etter 2 år. Fristen regnes f
 
 ### § 37. Straff
 
-Med bot straffes den som forsettlig eller uaktsomtbryter opplysnings- eller meldeplikten etter [§ 7](lov/2010-06-25-45/§7)ikke møter til rekrutteringsmøte etter [§ 8](lov/2010-06-25-45/§8) andre leddikke møter til tjeneste eller forlater tjenesten uten tillatelse etter [§ 9](lov/2010-06-25-45/§9) andre ledd.
+Med bot straffes den som forsettlig eller uaktsomt
+
+1. bryter opplysnings- eller meldeplikten etter [§ 7](lov/2010-06-25-45/§7)
+2. ikke møter til rekrutteringsmøte etter [§ 8](lov/2010-06-25-45/§8) andre ledd
+3. ikke møter til tjeneste eller forlater tjenesten uten tillatelse etter [§ 9](lov/2010-06-25-45/§9) andre ledd.
 
 Med bot straffes den som forsettlig unndrar seg undersøkelser eller prøver etter [§ 8](lov/2010-06-25-45/§8) tredje ledd.
 
 Medvirkning straffes ikke etter første og andre ledd.
 
-Med bot eller fengsel inntil 3 måneder straffes den som forsettligbryter bistandsplikten etter [§ 5](lov/2010-06-25-45/§5) første leddikke etterkommer pålegg om å bistå myndighetene ved evakuering etter [§ 18](lov/2010-06-25-45/§18) første ledd første punktumikke bygger, utstyrer eller innreder private tilfluktsrom i samsvar med [§ 20](lov/2010-06-25-45/§20) andre leddikke ivaretar plikter om tilfluktsromtjeneste i private tilfluktsrom etter [§ 22](lov/1965-06-18-4/§22) andre leddikke etterkommer pålegg om rekvisisjon etter [§ 25](lov/2010-06-25-45/§25) første eller fjerde leddikke etterkommer pålegg om forberedende tiltak med sikte på rekvisisjon etter [§ 26](lov/2010-06-25-45/§26) første og andre ledd.
+Med bot eller fengsel inntil 3 måneder straffes den som forsettlig
 
-Med fengsel inntil 2 år straffes den som med hensikt unndrar seg tjenesten i Sivilforsvaret ved åbryte opplysnings- eller meldeplikten etter [§ 7](lov/2010-06-25-45/§7)ikke møte til rekrutteringsmøte etter [§ 8](lov/2010-06-25-45/§8) andre leddunndra seg undersøkelser eller prøver etter [§ 8](lov/2010-06-25-45/§8) tredje leddikke møte til tjeneste eller forlate tjenesten uten tillatelse etter [§ 9](lov/2010-06-25-45/§9) andre ledd.
+1. bryter bistandsplikten etter [§ 5](lov/2010-06-25-45/§5) første ledd
+2. ikke etterkommer pålegg om å bistå myndighetene ved evakuering etter [§ 18](lov/2010-06-25-45/§18) første ledd første punktum
+3. ikke bygger, utstyrer eller innreder private tilfluktsrom i samsvar med [§ 20](lov/2010-06-25-45/§20) andre ledd
+4. ikke ivaretar plikter om tilfluktsromtjeneste i private tilfluktsrom etter [§ 22](lov/1965-06-18-4/§22) andre ledd
+5. ikke etterkommer pålegg om rekvisisjon etter [§ 25](lov/2010-06-25-45/§25) første eller fjerde ledd
+6. ikke etterkommer pålegg om forberedende tiltak med sikte på rekvisisjon etter [§ 26](lov/2010-06-25-45/§26) første og andre ledd.
+
+Med fengsel inntil 2 år straffes den som med hensikt unndrar seg tjenesten i Sivilforsvaret ved å
+
+1. bryte opplysnings- eller meldeplikten etter [§ 7](lov/2010-06-25-45/§7)
+2. ikke møte til rekrutteringsmøte etter [§ 8](lov/2010-06-25-45/§8) andre ledd
+3. unndra seg undersøkelser eller prøver etter [§ 8](lov/2010-06-25-45/§8) tredje ledd
+4. ikke møte til tjeneste eller forlate tjenesten uten tillatelse etter [§ 9](lov/2010-06-25-45/§9) andre ledd.
 
 I forskrift gitt med hjemmel i §[§ 7](lov/2010-06-25-45/§7), [8](lov/2010-06-25-45/§8), [9](lov/2010-06-25-45/§9), [20](lov/2010-06-25-45/§20), [22](lov/1965-06-18-4/§22), [25](lov/2010-06-25-45/§25) og [26](lov/2010-06-25-45/§26) kan det fastsettes at brudd på angitte bestemmelser i forskriften kan straffes.
 

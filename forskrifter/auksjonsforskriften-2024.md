@@ -90,13 +90,20 @@ Et selskap må være registrert med organisasjonsnummer i Brønnøysundregistren
 
 ### § 10. Krav for å bli registrert som budgiver
 
-For å delta i auksjonen må foretaket:fylle ut fastsatt registreringsskjema, firmaattest, aksept av auksjonsreglementet, samt gi informasjon om konsernforhold og tilknyttede selskap jf. annet ledd,tilfredsstille krav til finansiell situasjon i henhold til [§ 11](forskrift/2024-06-05-924/§11) og avgi egenerklæring om dette, oglaste opp skjema om dokumentasjon på betalingsevne.
+For å delta i auksjonen må foretaket:
+
+1. fylle ut fastsatt registreringsskjema, firmaattest, aksept av auksjonsreglementet, samt gi informasjon om konsernforhold og tilknyttede selskap jf. annet ledd,
+2. tilfredsstille krav til finansiell situasjon i henhold til [§ 11](forskrift/2024-06-05-924/§11) og avgi egenerklæring om dette, og
+3. laste opp skjema om dokumentasjon på betalingsevne.
 
 Det kan ikke registreres flere selskap tilhørende samme konsern, jf. [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Foretak skal opplyse om tilknyttede selskap, jf. [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4).
 
 Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Frist for registrering er 14. juni 2024 kl. 23:59.
 
-Fiskeridirektoratet skal avvise registreringen dersom:den er levert for sent, ellerdersom den inneholder vesentlige feil og mangler.
+Fiskeridirektoratet skal avvise registreringen dersom:
+
+1. den er levert for sent, eller
+2. dersom den inneholder vesentlige feil og mangler.
 
 Dersom registreringsdokumentene har feil eller mangler vil budgiver bli gitt en kort frist til å rette disse.
 
@@ -104,7 +111,13 @@ Vedtak om avvist registrering kan påklages.
 
 ### § 11. Finansiell situasjon
 
-En budgiver kan ikke:være ute av stand til å oppfylle sine betalingsforpliktelser,ha åpnet gjeldsforhandlinger,være insolvent eller være underlagt begjæring om konkurs eller opphør,ha begjært frivillig opphør, ellervære gjenstand for konkursbehandling eller være konkurs.
+En budgiver kan ikke:
+
+1. være ute av stand til å oppfylle sine betalingsforpliktelser,
+2. ha åpnet gjeldsforhandlinger,
+3. være insolvent eller være underlagt begjæring om konkurs eller opphør,
+4. ha begjært frivillig opphør, eller
+5. være gjenstand for konkursbehandling eller være konkurs.
 
 Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon.
 
@@ -116,7 +129,12 @@ Bud skal gis elektronisk i Nærings- og fiskeridepartementets auksjonssystem og 
 
 ### § 13. Uforutsette hendelser mv.
 
-For det tilfelle det oppstår ekstraordinære hendelser under auksjonen, for eksempel problemer med auksjonssystemet, kan departementet:Endre tidspunkt for en budrunde som har blitt fastsatt, men som ikke har startet.Utsette tidspunktet for avslutningen av en budrunde som pågår eller utsette offentliggjøringen av resultatet fra runden.Kansellere en pågående budrunde og fastsette et nytt tidspunkt for gjennomføring av budrunden.Avvise alle bud som har innkommet under auksjonen og starte auksjonen på nytt.
+For det tilfelle det oppstår ekstraordinære hendelser under auksjonen, for eksempel problemer med auksjonssystemet, kan departementet:
+
+1. Endre tidspunkt for en budrunde som har blitt fastsatt, men som ikke har startet.
+2. Utsette tidspunktet for avslutningen av en budrunde som pågår eller utsette offentliggjøringen av resultatet fra runden.
+3. Kansellere en pågående budrunde og fastsette et nytt tidspunkt for gjennomføring av budrunden.
+4. Avvise alle bud som har innkommet under auksjonen og starte auksjonen på nytt.
 
 Departementet kan avslutte en budrunde og starte en ny budrunde med justerte priser, blant annet ved mistanke om en kunstig svekket konkurransesituasjon i ett eller flere produksjonsområder.
 
@@ -130,10 +148,12 @@ Vinnere kan dele opp eller fordele tildelt kapasitet på nye tillatelser i ønsk
 
 ### § 15. Innbetaling av vederlag
 
-Vinner av auksjonen plikter å betale vederlag innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, tilFiskeridirektoratet,
-Seksjon budsjett og virksomhetsstyring,
-Postboks 185 Sentrum,
-5804 Bergen.
+Vinner av auksjonen plikter å betale vederlag innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til
+
+- Fiskeridirektoratet,
+  Seksjon budsjett og virksomhetsstyring,
+  Postboks 185 Sentrum,
+  5804 Bergen.
 
 Beløpet betales til kontonummer 7694 05 09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.
 

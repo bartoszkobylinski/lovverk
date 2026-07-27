@@ -15,7 +15,7 @@ xml_hash: "d9f3eb38afee07075c05dba7a7e38cbe097b098490946082c400852ced36f50b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,10 @@ Formålet med denne avtale er å bedre de ansattes konsultasjons- og informasjon
 
 [§ 2](forskrift/2000-07-28-797/§2). *Anvendelsesområde*
 
-Avtalen gjelder for alle grupper ansatte i norske virksomheter som fyller følgende vilkår:norske foretak med minst 1000 ansatte innenfor EØS og med minst 150 ansatte i hvert av minst to EØS-land, heretter kalt fellesskapsforetak,konserner/grupper av foretak med kontrollerende selskap i Norge og med minst 1000 ansatte innenfor EØS, når konsernet omfatter minst to foretak i forskjellige EØS-land som hvert sysselsetter minst 150 arbeidstakere.
+Avtalen gjelder for alle grupper ansatte i norske virksomheter som fyller følgende vilkår:
+
+1. norske foretak med minst 1000 ansatte innenfor EØS og med minst 150 ansatte i hvert av minst to EØS-land, heretter kalt fellesskapsforetak,
+2. konserner/grupper av foretak med kontrollerende selskap i Norge og med minst 1000 ansatte innenfor EØS, når konsernet omfatter minst to foretak i forskjellige EØS-land som hvert sysselsetter minst 150 arbeidstakere.
 
 Avtalen får, med hensyn til valgordninger og ellers så langt den passer, også anvendelse på norsk virksomhet eller datterselskap som omfattes av del av fellesskapsrettslig virksomhet med utenlandsk hovedadministrasjon eller kontrollerende selskap, i den utstrekning norske virksomheter skal inngå i konsernets samarbeidsordninger. Blir det på grunn av konflikt mellom norsk og utenlandsk lovgivning eller ved beslutning i det utenlandske konsern/kontrollerende selskap aktuelt å utpeke et norsk datterselskap til å ivareta forpliktelsene etter denne avtale, gjelder avtalen fullt ut for datterselskapet. I tilfelle utenlandsk hovedadministrasjon/kontrollerende selskap ligger utenfor EØS og det ikke er utpekt en representant med ansvar for gjennomføringen av denne avtale, påligger dette ansvar norsk datterselskap dersom det er dette selskap som sysselsetter flest arbeidstakere blant virksomhetene innenfor EØS.
 
@@ -126,12 +129,40 @@ Der selskapsstrukturen gjør det naturlig å forankre samarbeidsordningene på a
 
 [§ 4](forskrift/2000-07-28-797/§4). *Fremgangsmåten ved ordningens etablering*
 
-Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.SFU skal ha minst tre og høyst 17 medlemmer. Utvalgets sammensetning skal sikre at hvert land der foretaket/konsernet driver en eller flere virksomheter, har minst en representant. I tillegg skal det sikres ytterligere representasjon i forhold til antall ansatte i de enkelte nasjonale enheter. Antall tilleggsrepresentanter og fordelingen på virksomhetene bestemmes, innenfor den fastsatte totalramme, av representanter for de ansatte i foretaket/konsernet etter drøftelser med de tillitsvalgte i de nasjonale enheter.Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.SFU underretter både den sentrale ledelse og ledelsen i de nasjonale enheter om utvalgets sammensetning.Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.Ledelsen i de nasjonale enheter skal underrettes om dette.SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.SFU kan med minst to tredeler av stemmene beslutte å ikke innlede forhandlinger eller å avbryte forhandlinger som allerede er påbegynt etter nærværende avtale.Ny anmodning om å innkalle SFU kan tidligst fremsettes to år etter nevnte beslutning, med mindre partene i foretaket/konsernet blir enige om en kortere frist.
+Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:
+
+1. Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.
+2. SFU skal ha minst tre og høyst 17 medlemmer. Utvalgets sammensetning skal sikre at hvert land der foretaket/konsernet driver en eller flere virksomheter, har minst en representant. I tillegg skal det sikres ytterligere representasjon i forhold til antall ansatte i de enkelte nasjonale enheter. Antall tilleggsrepresentanter og fordelingen på virksomhetene bestemmes, innenfor den fastsatte totalramme, av representanter for de ansatte i foretaket/konsernet etter drøftelser med de tillitsvalgte i de nasjonale enheter.
+3. Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:
+
+   - ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.
+
+     Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.
+   - ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.
+4. SFU underretter både den sentrale ledelse og ledelsen i de nasjonale enheter om utvalgets sammensetning.
+5. Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.
+
+   Ledelsen i de nasjonale enheter skal underrettes om dette.
+6. SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.
+7. Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.
+8. SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.
+
+   SFU kan med minst to tredeler av stemmene beslutte å ikke innlede forhandlinger eller å avbryte forhandlinger som allerede er påbegynt etter nærværende avtale.
+
+   Ny anmodning om å innkalle SFU kan tidligst fremsettes to år etter nevnte beslutning, med mindre partene i foretaket/konsernet blir enige om en kortere frist.
 
 [§ 5](forskrift/2000-07-28-797/§5). *Avtalens innhold*
 
-1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som angår konsernet eller fellesskapsforetaket som helhet og som er av grenseoverskridende natur, jfr. [§ 1](forskrift/2000-07-28-797/§1).De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
-2. Avtalen mellom partene skal være skriftlig, og i det minsteangi de land og selskapsenheter som omfattesfastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.inneholde budsjett for ESUs eller samarbeidsordningens virksomhetangi avtalens varighet og fremgangsmåten for reforhandlinger.
+1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som angår konsernet eller fellesskapsforetaket som helhet og som er av grenseoverskridende natur, jfr. [§ 1](forskrift/2000-07-28-797/§1).
+
+   De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
+2. Avtalen mellom partene skal være skriftlig, og i det minste
+
+   1. angi de land og selskapsenheter som omfattes
+   2. fastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.
+   3. fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.
+   4. inneholde budsjett for ESUs eller samarbeidsordningens virksomhet
+   5. angi avtalens varighet og fremgangsmåten for reforhandlinger.
 
 [§ 6](forskrift/2000-07-28-797/§6). *ESUs praktiske arbeid*
 
@@ -145,7 +176,31 @@ ESU har krav på å møte ledelsen minst en gang i året for å bli informert og
 
 Det er forøvrig partene som bestemmer området for ESUs virksomhet og de saker som skal behandles.
 
-Hvis ikke annet avtales gjelder følgende grunnregler for ESUs virksomhet:På møtene behandlesfellesskapsforetakets/konsernets strukturden økonomiske og finansielle situasjonforventet utvikling når det gjelder aktiviteter, produksjon og salgsysselsettingssituasjonen og dens antatte utviklinginvesteringervesentlige endringer i konsernets organisasjoninnføring av nye arbeidsmetoder eller produksjonsprosesserplaner om produksjonsoverføringer, fusjon, fisjon, reduksjoner, hel eller delvis nedlegging av virksomhetermasseoppsigelser.I spesielle situasjoner der de ansattes interesser i vesentlig grad blir berørt, særlig ved flytting eller nedleggelse av virksomheter eller masseoppsigelser, har ESUs arbeidsutvalg, eller der hvor slikt ikke er opprettet, hele ESU, rett til å kreve møte med konsernets ledelse eller annet passende ledelsesnivå med selvstendig myndighet til å avgjøre saken, jfr. [§ 3](forskrift/2000-07-28-797/§3), 4. ledd. Avholdes møtet med ESUs arbeidsutvalg, kan også de medlemmer av ESU som representerer de virksomheter som blir direkte berørt av de planlagte tiltak, være tilstede.Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5) b har de ansattes representanter rett til å samles uten at ledelsen er til stede.Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
+Hvis ikke annet avtales gjelder følgende grunnregler for ESUs virksomhet:
+
+1. På møtene behandles
+
+   - fellesskapsforetakets/konsernets struktur
+   - den økonomiske og finansielle situasjon
+   - forventet utvikling når det gjelder aktiviteter, produksjon og salg
+   - sysselsettingssituasjonen og dens antatte utvikling
+   - investeringer
+   - vesentlige endringer i konsernets organisasjon
+   - innføring av nye arbeidsmetoder eller produksjonsprosesser
+   - planer om produksjonsoverføringer, fusjon, fisjon, reduksjoner, hel eller delvis nedlegging av virksomheter
+   - masseoppsigelser.
+2. I spesielle situasjoner der de ansattes interesser i vesentlig grad blir berørt, særlig ved flytting eller nedleggelse av virksomheter eller masseoppsigelser, har ESUs arbeidsutvalg, eller der hvor slikt ikke er opprettet, hele ESU, rett til å kreve møte med konsernets ledelse eller annet passende ledelsesnivå med selvstendig myndighet til å avgjøre saken, jfr. [§ 3](forskrift/2000-07-28-797/§3), 4. ledd. Avholdes møtet med ESUs arbeidsutvalg, kan også de medlemmer av ESU som representerer de virksomheter som blir direkte berørt av de planlagte tiltak, være tilstede.
+
+   Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.
+3. Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5) b har de ansattes representanter rett til å samles uten at ledelsen er til stede.
+4. Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.
+5. ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.
+6. Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.
+
+   Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.
+
+   I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.
+7. Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
 
 [§ 7](forskrift/2000-07-28-797/§7). *Reforhandlinger*
 
@@ -235,7 +290,26 @@ Der selskapsstrukturen gjør det naturlig å forankre samarbeidsordningene på a
 
 [§ 4](forskrift/2000-07-28-797/§4). *Fremgangsmåten ved ordningens etablering*
 
-Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.Medlemmene av det særlige forhandlingsutvalget velges eller utpekes ut fra antallet arbeidstakere i hver EU-/EØS-stat. Hver stat tildeles en plass i det særlige forhandlingsutvalget per påbegynte tidel av det samlede antall arbeidstakere.Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.Det særlige forhandlingsutvalg skal underrette ledelsen om sammensetningen av utvalget.Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.Ledelsen i de nasjonale enheter og de aktuelle arbeidstaker- og arbeidsgiverorganisasjoner på europeisk nivå skal underrettes om sammensetningen av det særlige forhandlingsutvalget og at forhandlinger innledes.Før og etter hvert møte med ledelsen har det særlige forhandlingsutvalg rett til å møtes uten at representanter for ledelsen er til stede. I den sammenheng skal det ha tilgang på alle nødvendige kommunikasjonsmidler.SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.
+Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:
+
+1. Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.
+2. Medlemmene av det særlige forhandlingsutvalget velges eller utpekes ut fra antallet arbeidstakere i hver EU-/EØS-stat. Hver stat tildeles en plass i det særlige forhandlingsutvalget per påbegynte tidel av det samlede antall arbeidstakere.
+3. Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:
+
+   - ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.
+
+   Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.
+
+   - ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.
+4. Det særlige forhandlingsutvalg skal underrette ledelsen om sammensetningen av utvalget.
+5. Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.
+
+   Ledelsen i de nasjonale enheter og de aktuelle arbeidstaker- og arbeidsgiverorganisasjoner på europeisk nivå skal underrettes om sammensetningen av det særlige forhandlingsutvalget og at forhandlinger innledes.
+6. Før og etter hvert møte med ledelsen har det særlige forhandlingsutvalg rett til å møtes uten at representanter for ledelsen er til stede. I den sammenheng skal det ha tilgang på alle nødvendige kommunikasjonsmidler.
+
+   SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.
+7. Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.
+8. SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.
 
 SFU kan med minst to tredeler av stemmene beslutte å ikke innlede forhandlinger eller å avbryte forhandlinger som allerede er påbegynt etter nærværende avtale.
 
@@ -243,8 +317,20 @@ Ny anmodning om å innkalle SFU kan tidligst fremsettes to år etter nevnte besl
 
 [§ 5](forskrift/2000-07-28-797/§5). *Avtalens innhold*
 
-1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som er av grenseoverskridende natur.Informasjon og konsultasjon skal skje på et relevant ledelsesnivå ut fra hvilke emner som behandles.De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
-2. Avtalen mellom partene skal være skriftlig, og i det minsteangi de land og selskapsenheter som omfattes.fastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.inneholde budsjett for ESUs eller samarbeidsordningens virksomhet.angi utvalgets virkemåte og fremgangsmåte ved informasjon og konsultasjon, herunder koordinering av informasjon og konsultasjon på nasjonalt og internasjonalt nivå.sammensetning av, fremgangsmåte for oppnevning, virkemåte og saksbehandlingsregler for den særskilte komiteen som opprettes innen ESU, der slik oppnevnes.avtalens ikrafttredelse og varighet, retningslinjer for endring og oppsigelse av avtalen, vilkår for reforhandling, herunder, om nødvendig, ved endringer i strukturen i foretak med virksomhet i flere EØS-stater.
+1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som er av grenseoverskridende natur.
+
+   Informasjon og konsultasjon skal skje på et relevant ledelsesnivå ut fra hvilke emner som behandles.
+
+   De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
+2. Avtalen mellom partene skal være skriftlig, og i det minste
+
+   1. angi de land og selskapsenheter som omfattes.
+   2. fastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.
+   3. fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.
+   4. inneholde budsjett for ESUs eller samarbeidsordningens virksomhet.
+   5. angi utvalgets virkemåte og fremgangsmåte ved informasjon og konsultasjon, herunder koordinering av informasjon og konsultasjon på nasjonalt og internasjonalt nivå.
+   6. sammensetning av, fremgangsmåte for oppnevning, virkemåte og saksbehandlingsregler for den særskilte komiteen som opprettes innen ESU, der slik oppnevnes.
+   7. avtalens ikrafttredelse og varighet, retningslinjer for endring og oppsigelse av avtalen, vilkår for reforhandling, herunder, om nødvendig, ved endringer i strukturen i foretak med virksomhet i flere EØS-stater.
 
 [§ 6](forskrift/2000-07-28-797/§6). *ESUs praktiske arbeid*
 
@@ -258,11 +344,35 @@ ESU har krav på å møte ledelsen minst en gang i året for å bli informert og
 
 Det er for øvrig partene som bestemmer området for ESUs virksomhet og de saker som skal behandles.
 
-Hvis ikke annet avtales gjelder følgende grunnregler for ESUs virksomhet:På møtene behandlesfellesskapsforetakets/konsernets strukturden økonomiske og finansielle situasjonforventet utvikling når det gjelder aktiviteter, produksjon og salgsysselsettingssituasjonen og dens antatte utviklinginvesteringervesentlige endringer i konsernets organisasjoninnføring av nye arbeidsmetoder eller produksjonsprosesserplaner om produksjonsoverføringer, fusjon, fisjon, reduksjoner, hel eller delvis nedlegging av virksomhetermasseoppsigelser.I spesielle situasjoner der de ansattes interesser i vesentlig grad blir berørt, særlig ved flytting eller nedleggelse av virksomheter eller masseoppsigelser, har ESUs arbeidsutvalg, eller der hvor slikt ikke er opprettet, hele ESU, rett til å kreve møte med konsernets ledelse eller annet passende ledelsesnivå med selvstendig myndighet til å avgjøre saken.
+Hvis ikke annet avtales gjelder følgende grunnregler for ESUs virksomhet:
+
+1. På møtene behandles
+
+   - fellesskapsforetakets/konsernets struktur
+   - den økonomiske og finansielle situasjon
+   - forventet utvikling når det gjelder aktiviteter, produksjon og salgsysselsettingssituasjonen og dens antatte utvikling
+   - investeringer
+   - vesentlige endringer i konsernets organisasjon
+   - innføring av nye arbeidsmetoder eller produksjonsprosesser
+   - planer om produksjonsoverføringer, fusjon, fisjon, reduksjoner, hel eller delvis nedlegging av virksomheter
+   - masseoppsigelser.
+2. I spesielle situasjoner der de ansattes interesser i vesentlig grad blir berørt, særlig ved flytting eller nedleggelse av virksomheter eller masseoppsigelser, har ESUs arbeidsutvalg, eller der hvor slikt ikke er opprettet, hele ESU, rett til å kreve møte med konsernets ledelse eller annet passende ledelsesnivå med selvstendig myndighet til å avgjøre saken.
 
 Avholdes møtet med ESUs arbeidsutvalg, kan også de medlemmer av ESU som representerer de virksomheter som blir direkte berørt av de planlagte tiltak, være tilstede.
 
-Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5)b har de ansattes representanter rett til å samles uten at ledelsen er til stede.Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.I den grad det er nødvendig for at de skal kunne utføre sine oppgaver som representanter i et internasjonalt miljø, skal medlemmene av det særlige forhandlingsorgan og ESU gis opplæring uten tap av lønn.Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
+Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.
+
+1. Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5)b har de ansattes representanter rett til å samles uten at ledelsen er til stede.
+2. Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.
+3. ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.
+4. Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.
+
+   Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.
+
+   I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.
+
+   I den grad det er nødvendig for at de skal kunne utføre sine oppgaver som representanter i et internasjonalt miljø, skal medlemmene av det særlige forhandlingsorgan og ESU gis opplæring uten tap av lønn.
+5. Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
 
 [§ 7](forskrift/2000-07-28-797/§7). *Taushetsplikt*
 

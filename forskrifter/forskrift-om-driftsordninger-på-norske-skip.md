@@ -15,7 +15,7 @@ xml_hash: "ddcfd60df1738bd7d3428ed721418c154267fad2e44fbf9d4ecb017733041474"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Denne forskriften gjelder for norske passasjerskip uansett størrelse og andre norske skip med en bruttotonnasje på 50 og derover som skal praktisere:drift med periodevis ubemannet maskinrom.vakthold/tjeneste med en person alene i maskinrommet.brovaktrutiner1 som krever bruk av selvstyring og internt kommunikasjonsanlegg.
+(1) Denne forskriften gjelder for norske passasjerskip uansett størrelse og andre norske skip med en bruttotonnasje på 50 og derover som skal praktisere:
+
+1. drift med periodevis ubemannet maskinrom.
+2. vakthold/tjeneste med en person alene i maskinrommet.
+3. brovaktrutiner1 som krever bruk av selvstyring og internt kommunikasjonsanlegg.
 
 (2) Forskriften gjelder både nye og eksisterende skip.
 
@@ -42,7 +46,22 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskriften betyr:*Andre skip:* Alle skip unntatt passasjerskip.*Anerkjente klasseinstitusjoner:*Det norske Veritas.Lloyd's Register of Shipping.Bureau Veritas.Germanischer Lloyd.American Bureau of Shipping.*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Godkjent:* Godkjent av Sjøfartsdirektoratet.*Klassifisert skip:* Skip som har klasse i anerkjent klasseinstitusjon.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Vaktholdforskriften:* Den til enhver tid gjeldende forskrift om vakthold på passasjer- og lasteskip.*Vaktordning:* En arbeidsordning hvoretter arbeidstiden for skipets besetning helt eller delvis er delt opp i vakter og hvor hele besetningen normalt skal være om bord.
+I denne forskriften betyr:
+
+1. *Andre skip:* Alle skip unntatt passasjerskip.
+2. *Anerkjente klasseinstitusjoner:*
+
+   1. Det norske Veritas.
+   2. Lloyd's Register of Shipping.
+   3. Bureau Veritas.
+   4. Germanischer Lloyd.
+   5. American Bureau of Shipping.
+3. *Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.
+4. *Godkjent:* Godkjent av Sjøfartsdirektoratet.
+5. *Klassifisert skip:* Skip som har klasse i anerkjent klasseinstitusjon.
+6. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+7. *Vaktholdforskriften:* Den til enhver tid gjeldende forskrift om vakthold på passasjer- og lasteskip.
+8. *Vaktordning:* En arbeidsordning hvoretter arbeidstiden for skipets besetning helt eller delvis er delt opp i vakter og hvor hele besetningen normalt skal være om bord.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -78,9 +97,17 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
 
 ### § 8. Unntak – Drift med periodevis ubemannet maskinrom
 
-(1) Skip som skal godkjennes for drift med periodevis ubemannet maskinrom, jf. [§ 9](forskrift/1992-09-15-704/§9), må oppfylle følgende vilkår:Klassifiserte skip skal oppfylle vedkommende klasseinstitusjons regler for instrumentering og automatisering, og ha vedkommende institusjons klassetilføyelse for drift med periodevis ubemannet maskinrom.Skip som ikke er klassifisert, skal oppfylle de krav som fremgår av Det norske Veritas regler om drift med periodevis ubemannet maskinrom.
+(1) Skip som skal godkjennes for drift med periodevis ubemannet maskinrom, jf. [§ 9](forskrift/1992-09-15-704/§9), må oppfylle følgende vilkår:
 
-(2) Skip med fremdriftseffekt over 750 kW kan ikke praktisere drift med periodevis ubemannet maskinrom under følgende forhold:ved manøvrering inn og ut av havninnenfor sikkerhetssone omkring oljeinstallasjoner til havsnår farvannet må anses sterkt trafikkertnår siktbarheten er nedsatt.
+1. Klassifiserte skip skal oppfylle vedkommende klasseinstitusjons regler for instrumentering og automatisering, og ha vedkommende institusjons klassetilføyelse for drift med periodevis ubemannet maskinrom.
+2. Skip som ikke er klassifisert, skal oppfylle de krav som fremgår av Det norske Veritas regler om drift med periodevis ubemannet maskinrom.
+
+(2) Skip med fremdriftseffekt over 750 kW kan ikke praktisere drift med periodevis ubemannet maskinrom under følgende forhold:
+
+1. ved manøvrering inn og ut av havn
+2. innenfor sikkerhetssone omkring oljeinstallasjoner til havs
+3. når farvannet må anses sterkt trafikkert
+4. når siktbarheten er nedsatt.
 
 ### § 9. Ubemannet maskinrom – varighet
 
@@ -94,15 +121,59 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
 
 (1) På skip med en bruttotonnasje på 500 og derover er det ikke tillatt å være alene i maskinrommet med mindre det er montert automatisk personellalarm.1
 
-(2) Alarmsystemet skal oppfylle følgende krav:2Personellalarmen skal være slik innrettet at den gir alarm på bro, i offiserenes lugarer, messer og oppholdsrom dersom den ikke blir kvittert fra maskinrommet. Alarmen skal utløses automatisk etter en på forhånd innstilt tidsperiode som ikke skal overstige 30 minutter.Det skal være montert forvarselsignal i maskinrommet som trer i virksomhet 3 minutter før alarmen som kreves i bokstav a blir aktivisert.Alarmsystemet skal settes i funksjon på følgende måte:Automatisk når vakthavende maskinist eller maskinpasser må betjene maskinrommet på grunn av maskinromsalarmer.Manuelt av vakthavende maskinist eller maskinpasser når denne betjener maskinrommet for rutinekontroller.Alarmsystemet skal slås av av vakthavende maskinist/maskinpasser når vedkommende har forlatt maskinrommet. Når alarmsystemet er satt i funksjon automatisk i overensstemmelse med bokstav c nr. 1, skal det ikke være mulig å slå av systemet før maskinisten/maskinpasseren har kvittert alarmen i maskinrommet.Personellalarmen kan også sette i gang maskinistenes alarm.3
+(2) Alarmsystemet skal oppfylle følgende krav:2
+
+1. Personellalarmen skal være slik innrettet at den gir alarm på bro, i offiserenes lugarer, messer og oppholdsrom dersom den ikke blir kvittert fra maskinrommet. Alarmen skal utløses automatisk etter en på forhånd innstilt tidsperiode som ikke skal overstige 30 minutter.
+2. Det skal være montert forvarselsignal i maskinrommet som trer i virksomhet 3 minutter før alarmen som kreves i bokstav a blir aktivisert.
+3. Alarmsystemet skal settes i funksjon på følgende måte:
+
+   1. Automatisk når vakthavende maskinist eller maskinpasser må betjene maskinrommet på grunn av maskinromsalarmer.
+   2. Manuelt av vakthavende maskinist eller maskinpasser når denne betjener maskinrommet for rutinekontroller.
+4. Alarmsystemet skal slås av av vakthavende maskinist/maskinpasser når vedkommende har forlatt maskinrommet. Når alarmsystemet er satt i funksjon automatisk i overensstemmelse med bokstav c nr. 1, skal det ikke være mulig å slå av systemet før maskinisten/maskinpasseren har kvittert alarmen i maskinrommet.
+5. Personellalarmen kan også sette i gang maskinistenes alarm.3
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
-1 I samsvar med IMO Assembly Resolusjon A.481 (XII), vedlegg 2, del 7 «Engineering Watchkeeping», punkt 7.3.2 I samsvar med IMO Assembly Resolusjon A.686 (17), del 7.1. «Personnel Alarm».3 En alarm som betjenes fra maskinkontrollrommet eller manøvreringsplattform, dersom dette passer best, for å varsle personell i maskinistenes innredning om at hjelp trengs i maskinrommet, Jf. IMO Assembly Resolusjon A.686 (17) punkt 2.3.5.
+1 I samsvar med IMO Assembly Resolusjon A.481 (XII), vedlegg 2, del 7 «Engineering Watchkeeping», punkt 7.3.
+
+2 I samsvar med IMO Assembly Resolusjon A.686 (17), del 7.1. «Personnel Alarm».
+
+3 En alarm som betjenes fra maskinkontrollrommet eller manøvreringsplattform, dersom dette passer best, for å varsle personell i maskinistenes innredning om at hjelp trengs i maskinrommet, Jf. IMO Assembly Resolusjon A.686 (17) punkt 2.3.5.
 
 ### § 11. Selvstyreranlegg
 
-Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan praktiseres, må følgende krav være oppfylt:1*Generelt*Innenfor grensene for et skips manøvreringsevne skal selvstyreren, sammen med kilden til kursinformasjon, være i stand til å holde et skip på en forhånds satt kurs med minimal bruk av skipets styreanlegg.Selvstyreranlegget skal tilpasse seg skipets forskjellige styreegenskaper under ulike vær- og lasteforhold, og sikre pålitelig drift under de rådende miljø- og normale driftsforhold.*Skifte fra selvstyring til manuell styring og omvendt*Skifte fra selvstyring til manuell styring og omvendt skal være mulig ved enhver rorposisjon og kunne utføres i en eller høyst to manuelle operasjoner, innenfor et tidsrom på 3 sekunder.Skifte fra selvstyrer til manuell styring skal være mulig under alle forhold, innbefattet enhver svikt i det automatiske kontrollsystemet.Ved skifte fra manuell styring til selvstyring skal selvstyreren kunne bringe fartøyet inn på den forhåndssatte kursen.Kontrollinstrumentene for skifte skal være plassert like ved hverandre i umiddelbar nærhet av hovedplass for styring.Det skal finnes tydelig indikasjon på hvilken styringsmetode som er i bruk til enhver tid.*Alarm- og signalanlegg*Det skal finnes en kursmonitor som aktiverer et «ute av kurs» lydsignal etter et kursavvik på forhåndsinnstilt størrelse.Informasjonen som trengs for å sette i gang kursmonitoren skal komme fra en uavhengig kilde.Alarmsignaler, med både lyd og lys, skal finnes for å varsle om svikt eller reduksjon i krafttilførslen til selvstyrer eller monitor, når dette har innvirkning på en sikker drift av utstyret.Alarmsignalenes plassering skal være nær tilknyttet til hovedplass for styring.*Kontrollinstrumenter*Antall kontrollinstrumenter skal være så lavt som mulig og de skal være utformet på en måte som utelukker utilsiktet bruk.Med mindre muligheter for automatisk regulering er innebygget i installasjonen, skal selvstyreren være utstyrt med kontrollorganer for å justere for virkninger av vær og skipets bevegelser.Selvstyreren skal være utformet slik at den sikrer kursforandring til styrbord ved å dreie bryteren for kurssetting i urviserens retning. Normale kursforandringer bør være mulig ved å foreta bare en innstilling av bryteren for kurssetting.Med unntak av bryteren for kurssetting, skal aktivering av noe annet instrument ikke virke inn på skipets kurs i noen særlig grad.Øvrige kontrollinstrumenter for følgersystem skal rette seg etter de samme bestemmelsene i denne paragraf.*Rorvinkelbegrensning*I utstyret skal det være innebygget mulighet til å oppnå rorvinkelbegrensning under automatisk drift. Det skal også finnes mulighet til å indikere når begrensningsvinkelen er nådd.*Tillatt giring*Det skal være innebygget mulighet til å hindre unødvendig aktivering av roret på grunn av normal giringsbevegelse.
+Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan praktiseres, må følgende krav være oppfylt:1
+
+1. *Generelt*
+
+   1. Innenfor grensene for et skips manøvreringsevne skal selvstyreren, sammen med kilden til kursinformasjon, være i stand til å holde et skip på en forhånds satt kurs med minimal bruk av skipets styreanlegg.
+   2. Selvstyreranlegget skal tilpasse seg skipets forskjellige styreegenskaper under ulike vær- og lasteforhold, og sikre pålitelig drift under de rådende miljø- og normale driftsforhold.
+2. *Skifte fra selvstyring til manuell styring og omvendt*
+
+   1. Skifte fra selvstyring til manuell styring og omvendt skal være mulig ved enhver rorposisjon og kunne utføres i en eller høyst to manuelle operasjoner, innenfor et tidsrom på 3 sekunder.
+   2. Skifte fra selvstyrer til manuell styring skal være mulig under alle forhold, innbefattet enhver svikt i det automatiske kontrollsystemet.
+   3. Ved skifte fra manuell styring til selvstyring skal selvstyreren kunne bringe fartøyet inn på den forhåndssatte kursen.
+   4. Kontrollinstrumentene for skifte skal være plassert like ved hverandre i umiddelbar nærhet av hovedplass for styring.
+   5. Det skal finnes tydelig indikasjon på hvilken styringsmetode som er i bruk til enhver tid.
+3. *Alarm- og signalanlegg*
+
+   1. Det skal finnes en kursmonitor som aktiverer et «ute av kurs» lydsignal etter et kursavvik på forhåndsinnstilt størrelse.
+   2. Informasjonen som trengs for å sette i gang kursmonitoren skal komme fra en uavhengig kilde.
+   3. Alarmsignaler, med både lyd og lys, skal finnes for å varsle om svikt eller reduksjon i krafttilførslen til selvstyrer eller monitor, når dette har innvirkning på en sikker drift av utstyret.
+   4. Alarmsignalenes plassering skal være nær tilknyttet til hovedplass for styring.
+4. *Kontrollinstrumenter*
+
+   1. Antall kontrollinstrumenter skal være så lavt som mulig og de skal være utformet på en måte som utelukker utilsiktet bruk.
+   2. Med mindre muligheter for automatisk regulering er innebygget i installasjonen, skal selvstyreren være utstyrt med kontrollorganer for å justere for virkninger av vær og skipets bevegelser.
+   3. Selvstyreren skal være utformet slik at den sikrer kursforandring til styrbord ved å dreie bryteren for kurssetting i urviserens retning. Normale kursforandringer bør være mulig ved å foreta bare en innstilling av bryteren for kurssetting.
+   4. Med unntak av bryteren for kurssetting, skal aktivering av noe annet instrument ikke virke inn på skipets kurs i noen særlig grad.
+   5. Øvrige kontrollinstrumenter for følgersystem skal rette seg etter de samme bestemmelsene i denne paragraf.
+5. *Rorvinkelbegrensning*
+
+   I utstyret skal det være innebygget mulighet til å oppnå rorvinkelbegrensning under automatisk drift. Det skal også finnes mulighet til å indikere når begrensningsvinkelen er nådd.
+6. *Tillatt giring*
+
+   Det skal være innebygget mulighet til å hindre unødvendig aktivering av roret på grunn av normal giringsbevegelse.
 
 1 I samsvar med IMO Assembly Resolusjon A.342 (IX). «Recommendation on Performance Standard for Automatic Pilots», [punkt](forskrift/1992-09-15-704/kap1) 1 til 6, og IMO Assembly Resolusjon A.574 (14). «Recommendation on General Requirements for Electronic Navigational Aids».
 
@@ -110,7 +181,13 @@ Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan prakti
 
 (1) Før brovaktfunksjoner med vaktrutiner som krever bruk av internt kommunikasjonsanlegg kan praktiseres, skal følgende krav være oppfylt:1
 
-(2) Alle skip som praktiserer vaktordning skal være utstyrt med purre-/kalleanlegg med følgende funksjoner:Det skal være forbindelse fra bro til dekksoffiserenes lugarer, dekksmannskapenes lugarer, og lugarer til andre besetningsmedlemmer som kan gjøre tjeneste som dekksvakt og alle messer og dagrom.Det skal kunne gis kallesignal fra broen til hver enkelt lugar, messe og dagrom med påfølgende taleforbindelse begge veier.I soverom skal arrangementet være slik at liggende personer må stå opp for å svare på kallesignal og for å tale.Det skal være prioritet fra bro dersom anlegget er avhengig av, eller er del av andre talesamband om bord.Anlegget skal være tilkoblet lysnett og nødkraftkilde (ikke nødkraftkilde for radiostasjon). Det skal være automatisk omkobling dersom hovedkraftkilden svikter.
+(2) Alle skip som praktiserer vaktordning skal være utstyrt med purre-/kalleanlegg med følgende funksjoner:
+
+1. Det skal være forbindelse fra bro til dekksoffiserenes lugarer, dekksmannskapenes lugarer, og lugarer til andre besetningsmedlemmer som kan gjøre tjeneste som dekksvakt og alle messer og dagrom.
+2. Det skal kunne gis kallesignal fra broen til hver enkelt lugar, messe og dagrom med påfølgende taleforbindelse begge veier.
+3. I soverom skal arrangementet være slik at liggende personer må stå opp for å svare på kallesignal og for å tale.
+4. Det skal være prioritet fra bro dersom anlegget er avhengig av, eller er del av andre talesamband om bord.
+5. Anlegget skal være tilkoblet lysnett og nødkraftkilde (ikke nødkraftkilde for radiostasjon). Det skal være automatisk omkobling dersom hovedkraftkilden svikter.
 
 (3) Alle skip som praktiserer arbeidsordning der hele besetningen er i tjeneste samtidig, skal være utstyrt med internt kommunikasjonsutstyr som gjør det mulig for vakthavende offiser å tilkalle assistanse til broen ved behov.
 

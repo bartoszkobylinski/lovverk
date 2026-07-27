@@ -15,7 +15,7 @@ xml_hash: "cdc560412c06ba037496c9be187a6be3be6f371c02b0d9fabe867263e5dc7656"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,13 @@ Kravet om bestått språkprøve gjelder ikke hvis søkeren legger frem dokumenta
 
 ## § 7. Unntak fra retten til autorisasjon eller spesialistgodkjenning
 
-Søkeren har ikke rett til autorisasjon eller spesialistgodkjenning etter [§ 4](forskrift/2023-11-23-1895/§4) i følgende tilfeller:Søkeren har ikke bestått utlikningstiltak som er fastsatt etter [§ 5](forskrift/2023-11-23-1895/§5).Utlikningstiltak vil innebære at søkeren må gjennomføre en yrkesutdanning som tilsvarer den norske utdanningen for det aktuelle yrket.Søkeren oppfyller ikke språkkrav etter [§ 6](forskrift/2023-11-23-1895/§6).Søkeren er over 80 år eller er uegnet for yrket jf. [helsepersonelloven § 48a andre ledd](lov/1999-07-02-64/§48a/ledd/2).Det foreligger omstendigheter som ville gitt grunnlag for tilbakekall etter [helsepersonelloven § 57](lov/1999-07-02-64/§57).
+Søkeren har ikke rett til autorisasjon eller spesialistgodkjenning etter [§ 4](forskrift/2023-11-23-1895/§4) i følgende tilfeller:
+
+1. Søkeren har ikke bestått utlikningstiltak som er fastsatt etter [§ 5](forskrift/2023-11-23-1895/§5).
+2. Utlikningstiltak vil innebære at søkeren må gjennomføre en yrkesutdanning som tilsvarer den norske utdanningen for det aktuelle yrket.
+3. Søkeren oppfyller ikke språkkrav etter [§ 6](forskrift/2023-11-23-1895/§6).
+4. Søkeren er over 80 år eller er uegnet for yrket jf. [helsepersonelloven § 48a andre ledd](lov/1999-07-02-64/§48a/ledd/2).
+5. Det foreligger omstendigheter som ville gitt grunnlag for tilbakekall etter [helsepersonelloven § 57](lov/1999-07-02-64/§57).
 
 ## § 8. Saksbehandlingsregler
 

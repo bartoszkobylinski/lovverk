@@ -15,7 +15,7 @@ xml_hash: "69b40eb90a3b56a859d434ff68975a9d21f07b416ad157222db564e1a25d59d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,12 @@ Forskriften gjelder ikke produksjon, import, eksport, omsetning og bruk av stoff
 
 Det er forbudt å produsere, omsette og bruke stoff eller stoffblandinger som inneholder polyklorerte bifenyler (PCB), CAS-nr. 1336-36-3.
 
-Det er forbudt å omsette, ta i bruk og gjenbruke faste bearbeidede produkter som inneholder PCB. Det er også forbudt å ha følgende PCB-holdige produkter i bruk:transformatorer,kraftkondensatorer som kan inneholde mer enn 1 kg PCB eller PCB-holdig materiale,kondensatorer i innendørs og utendørs lysrørarmaturer produsert fra og med 1965 til og med 1979 og i innendørs og utendørs damplampearmaturer produsert fra og med 1960 til og med 1979, dersom det ikke kan dokumenteres at de likevel er PCB-frie. Forbudet gjelder fra 1. januar 2005 for kondensatorer i damplampearmaturer og innendørs lysrørarmaturer og fra 1. juli 2007 for kondensatorer i utendørs lysrørarmaturer,strømgjennomføringer som fører strøm ut og inn av transformatorer eller gjennom veggmateriale i kraftstasjoner og lignende anlegg. Forbudet gjelder fra 1. januar 2010.
+Det er forbudt å omsette, ta i bruk og gjenbruke faste bearbeidede produkter som inneholder PCB. Det er også forbudt å ha følgende PCB-holdige produkter i bruk:
+
+1. transformatorer,
+2. kraftkondensatorer som kan inneholde mer enn 1 kg PCB eller PCB-holdig materiale,
+3. kondensatorer i innendørs og utendørs lysrørarmaturer produsert fra og med 1965 til og med 1979 og i innendørs og utendørs damplampearmaturer produsert fra og med 1960 til og med 1979, dersom det ikke kan dokumenteres at de likevel er PCB-frie. Forbudet gjelder fra 1. januar 2005 for kondensatorer i damplampearmaturer og innendørs lysrørarmaturer og fra 1. juli 2007 for kondensatorer i utendørs lysrørarmaturer,
+4. strømgjennomføringer som fører strøm ut og inn av transformatorer eller gjennom veggmateriale i kraftstasjoner og lignende anlegg. Forbudet gjelder fra 1. januar 2010.
 
 Med å omsette menes i denne bestemmelsen å forsyne eller gjøre tilgjengelig for tredjemann mot betaling eller gratis, hvor import til Fellesskapets tollområde også betraktes som omsetning.
 
@@ -52,7 +57,12 @@ Kravet om merking gjelder ikke for kondensatorer i belysningsarmaturer, andre el
 
 PCB-holdige produkter skal være sikret mot lekkasje.
 
-Forbudet mot å ha i bruk PCB-holdige kondensatorer i lysarmaturer, jf. andre ledd bokstav c, utsettes til 1. januar 2008 for kondensatorer i damplampearmaturer og innendørs lysrørarmaturer og 1. juli 2008 for kondensatorer i utendørs lysrørarmaturer dersom følgende vilkår er oppfylt:Utfasingspliktige PCB-holdige kondensatorer er kartlagt.Det er utarbeidet en plan som sikrer at utfasingen av kondensatorer i damplampearmaturer og innendørs lysrørarmaturer blir gjennomført innen 1. januar 2008, og at utfasingen av kondensatorer i utendørs lysrørarmaturer blir gjennomført innen 1. juli 2008. Planen skal beskrive hva som skal skiftes hvert år og oppdateres dersom eiendomsmassen endres. Lysarmatur i eiendommer ervervet etter forbudenes ikrafttredelse, jf. andre ledd bokstav c), må innlemmes i planen. Planen skal legges fram på forespørsel fra Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger.Det er dokumentert budsjettdekning eller økonomisk garanti for gjennomføring av planen.Det er utarbeidet en avfallsplan hvor det gis informasjon om rutiner for avfallshåndteringen i alle ledd i forbindelse med utfasingen. Rutinene skal beskrive håndteringen av de PCB-holdige kondensatorene eller armaturene fra de demonteres, til de er levert godkjent mottak for farlig avfall eller for elektrisk elektronisk avfall.
+Forbudet mot å ha i bruk PCB-holdige kondensatorer i lysarmaturer, jf. andre ledd bokstav c, utsettes til 1. januar 2008 for kondensatorer i damplampearmaturer og innendørs lysrørarmaturer og 1. juli 2008 for kondensatorer i utendørs lysrørarmaturer dersom følgende vilkår er oppfylt:
+
+1. Utfasingspliktige PCB-holdige kondensatorer er kartlagt.
+2. Det er utarbeidet en plan som sikrer at utfasingen av kondensatorer i damplampearmaturer og innendørs lysrørarmaturer blir gjennomført innen 1. januar 2008, og at utfasingen av kondensatorer i utendørs lysrørarmaturer blir gjennomført innen 1. juli 2008. Planen skal beskrive hva som skal skiftes hvert år og oppdateres dersom eiendomsmassen endres. Lysarmatur i eiendommer ervervet etter forbudenes ikrafttredelse, jf. andre ledd bokstav c), må innlemmes i planen. Planen skal legges fram på forespørsel fra Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger.
+3. Det er dokumentert budsjettdekning eller økonomisk garanti for gjennomføring av planen.
+4. Det er utarbeidet en avfallsplan hvor det gis informasjon om rutiner for avfallshåndteringen i alle ledd i forbindelse med utfasingen. Rutinene skal beskrive håndteringen av de PCB-holdige kondensatorene eller armaturene fra de demonteres, til de er levert godkjent mottak for farlig avfall eller for elektrisk elektronisk avfall.
 
 Syvende ledd gjelder ikke for produkter som har lekkasje eller annen defekt som forsterker produktets helse- eller miljørisiko.
 
@@ -70,7 +80,21 @@ Det er forbudt å produsere, importere, eksportere, omsette og bruke stoff eller
 
 Det er forbudt å produsere, importere, eksportere og omsette faste bearbeidede produkter som inneholder kvikksølv eller kvikksølvforbindelser. Forbudet omfatter også produkter til analyse- og forskningsformål.
 
-Forbudene i første og annet ledd omfatter ikke:kvikksølv som forekommer naturlig i kull, malm og malmkonsentrat mv.,emballasje, batterier, komponenter i kjøretøy og elektriske og elektroniske produkter og utstyr som omfattes av denne forskrifts [kapittel 2a](forskrift/2004-06-01-922/kap2a),stoff, stoffblanding og faste bearbeidede produkter hvor innholdet av kvikksølv eller kvikksølvforbindelser er lavere enn 0,001 vektprosent,tiomersal som konserveringsmiddel i vaksiner.stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk som referansestandarder ved analyse av kvikksølv,bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk i analyse i henhold til internasjonale standardmetoder innen legemiddelindustrien,kvikksølvsulfat til bruk i analyse av kjemisk oksygenforbruk (KOF),bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk innen medisinsk diagnostikk,Nesslers reagens for bestemmelse av *Pseudomonas aeruginosa*,kvikksølv(II)tiocyanat for bestemmelse av klorid i vannprøver,kvikksølv(II)klorid for fiksering av vannprøver til laboratorieanalyser.Forbudet mot import, eksport og produksjon i annet ledd skal likevel gjelde for elektriske og elektroniske produkter og for komponenter i kjøretøy som er listet opp i vedlegg II til artikkel 5 i forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv.
+Forbudene i første og annet ledd omfatter ikke:
+
+1. kvikksølv som forekommer naturlig i kull, malm og malmkonsentrat mv.,
+2. emballasje, batterier, komponenter i kjøretøy og elektriske og elektroniske produkter og utstyr som omfattes av denne forskrifts [kapittel 2a](forskrift/2004-06-01-922/kap2a),
+3. stoff, stoffblanding og faste bearbeidede produkter hvor innholdet av kvikksølv eller kvikksølvforbindelser er lavere enn 0,001 vektprosent,
+4. tiomersal som konserveringsmiddel i vaksiner.
+5. stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk som referansestandarder ved analyse av kvikksølv,
+6. bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk i analyse i henhold til internasjonale standardmetoder innen legemiddelindustrien,
+7. kvikksølvsulfat til bruk i analyse av kjemisk oksygenforbruk (KOF),
+8. bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk innen medisinsk diagnostikk,
+9. Nesslers reagens for bestemmelse av *Pseudomonas aeruginosa*,
+10. kvikksølv(II)tiocyanat for bestemmelse av klorid i vannprøver,
+11. kvikksølv(II)klorid for fiksering av vannprøver til laboratorieanalyser.
+
+Forbudet mot import, eksport og produksjon i annet ledd skal likevel gjelde for elektriske og elektroniske produkter og for komponenter i kjøretøy som er listet opp i vedlegg II til artikkel 5 i forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv.
 
 Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvforbindelser og kvikksølv som reguleres i REACH-forordningen vedlegg XVII poster 18, 18a og 62, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften). Forbudet i annet ledd gjelder likevel for febertermometre og andre måleinstrumenter som reguleres av REACH-forordningen vedlegg XVII post 18a som er tatt i bruk før 3. april 2009.1
 
@@ -82,7 +106,11 @@ Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvf
 
 Forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv (kvikksølvforordningen), som inntatt i [EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a, gjelder som forskrift, med de tilpasninger som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20) kapittel IV, protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordningen gjelder med endringene som følger avforordning [(EU) 2022/2526](eu/32022r2526)forordning [(EU) 2023/2049](eu/32023r2049)forordning [(EU) 2024/1849](eu/32024r1849).
+Forordningen gjelder med endringene som følger av
+
+1. forordning [(EU) 2022/2526](eu/32022r2526)
+2. forordning [(EU) 2023/2049](eu/32023r2049)
+3. forordning [(EU) 2024/1849](eu/32024r1849).
 
 Første ledd gjelder ikke for Svalbard, Jan Mayen eller bilandene.
 
@@ -128,9 +156,24 @@ Det er forbudt å produsere, importere, eksportere og omsette tekstiler og lær 
 
 Det er forbudt å importere, eksportere og omsette trevirke og produkter av trevirke som er behandlet med forbindelser av krom.
 
-Forbudet gjelder ikke omsetning av trevirke behandlet med kromløsninger i industrianlegg til yrkesmessig og industriell bruk til følgende bruksområder:som konstruksjonstre i offentlige bygninger og kontor-, industri- og landbruksbygningeri broer og broverksom tømmerkonstruksjoner i ferskvannsområder og brakkvann, for eksempel anløpsbrygger og andre broersom støyvoller, til beskyttelse mot snøskred og til jordavstivningsom gjerdestolper av rundt, avbarket nåletre til inngjerding av buskaptil sikkerhetsrekkverk og autovern på veier, som sviller til undergrunnsbaner og til stolper til elektrisk kraftoverføring og telekommunikasjon,forutsatt at treets holdbarhet er nødvendig for menneskers eller dyrs sikkerhet, og at det er usannsynlig at allmennheten kommer i hudkontakt med trevirket i dets levetid.
+Forbudet gjelder ikke omsetning av trevirke behandlet med kromløsninger i industrianlegg til yrkesmessig og industriell bruk til følgende bruksområder:
 
-Trevirke behandlet med krom kan ikke brukesi bolighuspå steder hvor det er risiko for hyppig hudkontakti saltvanntil andre landbruksformål enn nevnt i andre ledd a) og e)på steder hvor behandlet trevirke kan komme i kontakt med halvfabrikata eller ferdigvarer beregnet til føde for mennesker eller dyr.
+1. som konstruksjonstre i offentlige bygninger og kontor-, industri- og landbruksbygninger
+2. i broer og broverk
+3. som tømmerkonstruksjoner i ferskvannsområder og brakkvann, for eksempel anløpsbrygger og andre broer
+4. som støyvoller, til beskyttelse mot snøskred og til jordavstivning
+5. som gjerdestolper av rundt, avbarket nåletre til inngjerding av buskap
+6. til sikkerhetsrekkverk og autovern på veier, som sviller til undergrunnsbaner og til stolper til elektrisk kraftoverføring og telekommunikasjon,
+
+forutsatt at treets holdbarhet er nødvendig for menneskers eller dyrs sikkerhet, og at det er usannsynlig at allmennheten kommer i hudkontakt med trevirket i dets levetid.
+
+Trevirke behandlet med krom kan ikke brukes
+
+1. i bolighus
+2. på steder hvor det er risiko for hyppig hudkontakt
+3. i saltvann
+4. til andre landbruksformål enn nevnt i andre ledd a) og e)
+5. på steder hvor behandlet trevirke kan komme i kontakt med halvfabrikata eller ferdigvarer beregnet til føde for mennesker eller dyr.
 
 Kromimpregnert trevirke som var i bruk før 30. september 2007, kan fortsatt brukes inntil dets levetid utløper. For omsetning av slikt trevirke gjelder de øvrige vilkårene i denne paragraf.
 
@@ -144,7 +187,14 @@ Trevirke behandlet med løsninger av krom skal også være stykkmerket med infor
 
 ### § 2-12. Vaskemidler – innhold av fosfor
 
-Det er forbudt å produsere, importere eller omsette for bruk i Norge vaskemidler med høyere innhold i vektprosent av fosfor enntøyvaskemidler: 0,2 %,maskinoppvaskmidler: 3,8 %,flytende rengjøringsmidler og oppvaskmidler: 0,2 %,rengjøringsmidler i pulverform: 2,5 %,spesialmidler for meierier og næringsmiddelindustri: 10,0 %,spesialmidler for melkeproduksjon og øvrig industri: 2,5 %.
+Det er forbudt å produsere, importere eller omsette for bruk i Norge vaskemidler med høyere innhold i vektprosent av fosfor enn
+
+1. tøyvaskemidler: 0,2 %,
+2. maskinoppvaskmidler: 3,8 %,
+3. flytende rengjøringsmidler og oppvaskmidler: 0,2 %,
+4. rengjøringsmidler i pulverform: 2,5 %,
+5. spesialmidler for meierier og næringsmiddelindustri: 10,0 %,
+6. spesialmidler for melkeproduksjon og øvrig industri: 2,5 %.
 
 For konsentrater til yrkesmessig bruk i lukkede systemer med automatisk dosering gjelder grenseverdiene i første ledd bokstav a) til f) etter fortynning.
 
@@ -170,7 +220,11 @@ I vedlegg VI til kapittel 2 i denne forskrift gjengis EØS-avtalens vedlegg II k
 
 Det er forbudt å produsere, importere, eksportere og omsette emballasje der det samlede innhold av bly, kadmium, kvikksølv og seksverdig krom overstiger 100 mg/kg.
 
-Forbudet gjelder ikke foremballasje som bare inneholder blykrystallglass som definert i tolltariffen nr. 70.13,emballasje av glass hvor gjenvunnet materiale av glass er benyttet i produksjonen,kasser og paller i plastmateriale hvor gjenvunnet materiale fra tilsvarende plastkasser og -paller er benyttet i produksjonen.
+Forbudet gjelder ikke for
+
+1. emballasje som bare inneholder blykrystallglass som definert i tolltariffen nr. 70.13,
+2. emballasje av glass hvor gjenvunnet materiale av glass er benyttet i produksjonen,
+3. kasser og paller i plastmateriale hvor gjenvunnet materiale fra tilsvarende plastkasser og -paller er benyttet i produksjonen.
 
 Med emballasje menes alle produkt som blir brukt til å inneholde, beskytte eller levere en vare fra produsent til bruker eller forbruker. Engangsartikler brukt til det samme formål anses også som emballasje.
 
@@ -182,19 +236,37 @@ Forbudet i første ledd gjelder ikke for containere for veg-, jernbane-, sjø- o
 
 § 2-16, [§ 2-17](forskrift/2004-06-01-922/§2-17), og [§ 2-18](forskrift/2004-06-01-922/§2-18) gjelder alle batterier, også innebygde, med unntak av batterier brukt i utstyr som er produsert spesifikt til militære formål eller til å bli sendt ut i rommet.
 
-I § 2-16, [§ 2-17](forskrift/2004-06-01-922/§2-17) og [§ 2-18](forskrift/2004-06-01-922/§2-18) og vedlegg I skal følgende definisjoner legges til grunn:*Batteri*: kilde for elektrisk energi, der energien produseres ved direkte omdanning av kjemisk energi, og som består av en eller flere primærbattericeller (ikke-oppladbare) eller en eller flere sekundærbattericeller (oppladbare også kalt akkumulatorer),*Bærbart batteri*: forseglet batteri som kan bæres og som verken er industribatteri eller blybatteri,*Industribatteri:* batteri spesielt laget for industriell eller yrkesmessig bruk eller til bruk til fremdrift i elektriske kjøretøyer,*Blybatteri*: batteri som inneholder bly, brukt til startmotor, tenning og lys i kjøretøy mv., som ikke er industribatteri,*Knappcellebatteri:* små runde batterier med diameter større enn høyden brukt i små bærbare apparater som høreapparater og ur og til backup-strøm,*Batteridrevet produkt:* produkter som helt eller delvis drives eller kan drives av batterier.
+I § 2-16, [§ 2-17](forskrift/2004-06-01-922/§2-17) og [§ 2-18](forskrift/2004-06-01-922/§2-18) og vedlegg I skal følgende definisjoner legges til grunn:
+
+1. *Batteri*: kilde for elektrisk energi, der energien produseres ved direkte omdanning av kjemisk energi, og som består av en eller flere primærbattericeller (ikke-oppladbare) eller en eller flere sekundærbattericeller (oppladbare også kalt akkumulatorer),
+2. *Bærbart batteri*: forseglet batteri som kan bæres og som verken er industribatteri eller blybatteri,
+3. *Industribatteri:* batteri spesielt laget for industriell eller yrkesmessig bruk eller til bruk til fremdrift i elektriske kjøretøyer,
+4. *Blybatteri*: batteri som inneholder bly, brukt til startmotor, tenning og lys i kjøretøy mv., som ikke er industribatteri,
+5. *Knappcellebatteri:* små runde batterier med diameter større enn høyden brukt i små bærbare apparater som høreapparater og ur og til backup-strøm,
+6. *Batteridrevet produkt:* produkter som helt eller delvis drives eller kan drives av batterier.
 
 > Endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), [24 okt 2012 nr. 988](forskrift/2012-10-24-988).
 
 ### § 2-17. Batterier – forbud
 
-Det er forbudt å produsere, importere, eksportere eller omsettebatterier som inneholder 5 ppm eller mer kvikksølv. For knappecellebatterier lovlig bragt i omsetning før 1. oktober 2015 gjelder en grense på 2 vektprosent kvikksølv,bærbare batterier som inneholder mer enn 20 ppm kadmium. Forbudet gjelder ikke batterier tilnødlys og alarmsystemer,medisinsk utstyr,bærbart elektroverktøy lovlig bragt i omsetning før 31. desember 2016.
+Det er forbudt å produsere, importere, eksportere eller omsette
+
+1. batterier som inneholder 5 ppm eller mer kvikksølv. For knappecellebatterier lovlig bragt i omsetning før 1. oktober 2015 gjelder en grense på 2 vektprosent kvikksølv,
+2. bærbare batterier som inneholder mer enn 20 ppm kadmium. Forbudet gjelder ikke batterier til
+
+   - nødlys og alarmsystemer,
+   - medisinsk utstyr,
+   - bærbart elektroverktøy lovlig bragt i omsetning før 31. desember 2016.
 
 > Endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), [24 okt 2012 nr. 988](forskrift/2012-10-24-988), [18 des 2012 nr. 1294](forskrift/2012-12-18-1294), [25 sep 2015 nr. 1124](forskrift/2015-09-25-1124) (i kraft 1 nov 2015).
 
 ### § 2-18. Batterier og batteridrevne produkter – merking, konstruksjon og informasjon
 
-Produsenter og importører plikter å sørge for at batterier er merket medsymbol med overkrysset avfallsbeholder som angitt i vedlegg I,de kjemiske symbolene Hg, Cd og Pb som angitt i vedlegg I; gjelder batterier og innebygde batterier som inneholder over henholdsvis 5 ppm kvikksølv, 20 ppm kadmium eller 40 ppm bly,kapasitet i henhold til [§ 2-18a](forskrift/2004-06-01-922/§2-18a).
+Produsenter og importører plikter å sørge for at batterier er merket med
+
+1. symbol med overkrysset avfallsbeholder som angitt i vedlegg I,
+2. de kjemiske symbolene Hg, Cd og Pb som angitt i vedlegg I; gjelder batterier og innebygde batterier som inneholder over henholdsvis 5 ppm kvikksølv, 20 ppm kadmium eller 40 ppm bly,
+3. kapasitet i henhold til [§ 2-18a](forskrift/2004-06-01-922/§2-18a).
 
 Merkingen skal være varig og lett synlig på batteriets overflate.
 
@@ -218,7 +290,11 @@ I vedlegg II til kapittel 2 i denne forskrift gjengis EØS-avtalen vedlegg II ka
 
 ### § 2-19. Kjøretøy – utfasing av komponenter, merking og informasjonsplikt
 
-Det er forbudt å produsere kjøretøy som inneholder bly, kvikksølv, seksverdig krom eller kadmium. Det er også forbudt å importere kjøretøy produsert etter 1. juli 2003 som inneholder bly, kvikksølv, seksverdig krom eller kadmium. Forbudene gjelder tilsvarende for komponenter og materialer til kjøretøy. Forbudene gjelder ikke dersominnholdet av bly, kvikksølv og seksverdig krom i homogene materialer ikke overstiger 0,1 vektprosent og innholdet av kadmium i homogene materialer ikke overstiger 0,01 vektprosentde ovennevnte stoffene finnes i komponenter og materialer som nevnt i vedlegg IIIde ovennevnte stoffene finnes i reservedeler til bruk i kjøretøy som er brakt i omsetning i EØS-området før 1. juli 2003, med unntak av avbalanseringslodd for hjul, kullbørster for elektriske motorer og bremsebelegg.
+Det er forbudt å produsere kjøretøy som inneholder bly, kvikksølv, seksverdig krom eller kadmium. Det er også forbudt å importere kjøretøy produsert etter 1. juli 2003 som inneholder bly, kvikksølv, seksverdig krom eller kadmium. Forbudene gjelder tilsvarende for komponenter og materialer til kjøretøy. Forbudene gjelder ikke dersom
+
+1. innholdet av bly, kvikksølv og seksverdig krom i homogene materialer ikke overstiger 0,1 vektprosent og innholdet av kadmium i homogene materialer ikke overstiger 0,01 vektprosent
+2. de ovennevnte stoffene finnes i komponenter og materialer som nevnt i vedlegg III
+3. de ovennevnte stoffene finnes i reservedeler til bruk i kjøretøy som er brakt i omsetning i EØS-området før 1. juli 2003, med unntak av avbalanseringslodd for hjul, kullbørster for elektriske motorer og bremsebelegg.
 
 Med kjøretøy menes i denne paragrafen kjøretøy i gruppe M1 og N1 samt trehjulsmotorvogn som ikke er trehjulet motorsykkel, jf. [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften).
 
@@ -270,7 +346,12 @@ Kravet i første ledd kan oppfylles av den enkelte omsetter eller av flere omset
 
 Med livssyklusutslipp av klimagasser menes her netto utslipp av CO2, CH4 og N2O som kan tilskrives drivstoffet eller annen tilført energi. Dette omfatter alle relevante stadier fra utvinning eller dyrkning, inkludert endringer i arealbruk, transport og distribusjon, bearbeiding og forbrenning, uansett hvor disse utslippene har oppstått.
 
-De ansvarlige etter første ledd skal innen 31. mars hvert år rapportere til Miljødirektoratetforrige kalenderårs omsatte volum av ulike typer drivstoff til motorvogner, ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøsforrige kalenderårs livssyklusutslipp av klimagasser per energienhet for omsatt volum drivstoff.Med omsatt volum menes her drivstoff som omsetter er eller hadde vært ansvarlig for å betale særavgifter for etter [særavgiftsforskriften § 2-1](forskrift/2001-12-11-1451/§2-1), også dersom drivstoffet er unntatt fra eller fritatt for særavgifter.
+De ansvarlige etter første ledd skal innen 31. mars hvert år rapportere til Miljødirektoratet
+
+1. forrige kalenderårs omsatte volum av ulike typer drivstoff til motorvogner, ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs
+2. forrige kalenderårs livssyklusutslipp av klimagasser per energienhet for omsatt volum drivstoff.
+
+Med omsatt volum menes her drivstoff som omsetter er eller hadde vært ansvarlig for å betale særavgifter for etter [særavgiftsforskriften § 2-1](forskrift/2001-12-11-1451/§2-1), også dersom drivstoffet er unntatt fra eller fritatt for særavgifter.
 
 Livssyklusutslipp av klimagasser fra biodrivstoff skal beregnes etter metode som er beskrevet i vedlegg I til IV i kapittel 3. Biodrivstoff som skal telle med i oppfyllelsen av kravet om reduserte klimagassutslipp, må oppfylle bærekraftskriteriene i [§ 3-5](forskrift/2004-06-01-922/§3-5) til [§ 3-9](forskrift/2004-06-01-922/§3-9). Rapporteringen på biodrivstoff skal være i tråd med reglene beskrevet i [§ 3-10](forskrift/2004-06-01-922/§3-10) og [§ 3-11](forskrift/2004-06-01-922/§3-11). Klimagassintensiteten for biodrivstoff som ikke oppfyller bærekraftskriteriene i [§ 3-5](forskrift/2004-06-01-922/§3-5) til [§ 3-9](forskrift/2004-06-01-922/§3-9), er lik klimagassintensiteten for det respektive fossile brenselet framstilt av konvensjonell råolje eller gass.
 
@@ -290,7 +371,14 @@ Livssyklusutslipp av klimagasser fra ikke-biologiske drivstoff skal beregnes ett
 
 Bestemmelsene i [§ 2-24](forskrift/2004-06-01-922/§2-24) til [§ 2-26](forskrift/2004-06-01-922/§2-26) gjelder for de maling- og lakkeringsprodukter som framgår av vedlegg VII til dette kapitlet avsnitt 1.
 
-I [§ 2-24](forskrift/2004-06-01-922/§2-24) til [§ 2-26](forskrift/2004-06-01-922/§2-26) og i vedlegg VII menes med:*Flyktig organisk forbindelse (VOC):* flyktig organisk forbindelse med et kokepunkt som er mindre eller lik 250 °C målt ved normaltrykk på 101,3 kPa.*VOC-innhold:* mengden av VOC uttrykt i gram/liter (g/l) i formuleringen av produktet i bruksklar tilstand. Mengden av VOC som under tørking reagerer kjemisk slik at det blir en del av overflaten, regnes ikke som en del av VOC-innholdet i produktet.*Organisk løsemiddel:* VOC som brukes alene eller sammen med andre stoffer til oppløsning eller fortynning, eller som brukes som rensemiddel, dispergeringsmiddel, viskositets- eller overflatespenningsjusteringsmiddel eller som bløtgjørings- eller konserveringsmiddel.*Belegg:* produkter som brukes for å oppnå en film med dekorative, beskyttende eller andre funksjonelle virkninger på en overflate og som inneholder organiske løsemidler som er nødvendige for at produktet kan påføres korrekt.*Film:* et sammenhengende belegg som kommer frem ved påføring av et eller flere lag på et underlag.*Lag:* strøk eller sjikt.
+I [§ 2-24](forskrift/2004-06-01-922/§2-24) til [§ 2-26](forskrift/2004-06-01-922/§2-26) og i vedlegg VII menes med:
+
+1. *Flyktig organisk forbindelse (VOC):* flyktig organisk forbindelse med et kokepunkt som er mindre eller lik 250 °C målt ved normaltrykk på 101,3 kPa.
+2. *VOC-innhold:* mengden av VOC uttrykt i gram/liter (g/l) i formuleringen av produktet i bruksklar tilstand. Mengden av VOC som under tørking reagerer kjemisk slik at det blir en del av overflaten, regnes ikke som en del av VOC-innholdet i produktet.
+3. *Organisk løsemiddel:* VOC som brukes alene eller sammen med andre stoffer til oppløsning eller fortynning, eller som brukes som rensemiddel, dispergeringsmiddel, viskositets- eller overflatespenningsjusteringsmiddel eller som bløtgjørings- eller konserveringsmiddel.
+4. *Belegg:* produkter som brukes for å oppnå en film med dekorative, beskyttende eller andre funksjonelle virkninger på en overflate og som inneholder organiske løsemidler som er nødvendige for at produktet kan påføres korrekt.
+5. *Film:* et sammenhengende belegg som kommer frem ved påføring av et eller flere lag på et underlag.
+6. *Lag:* strøk eller sjikt.
 
 > Tilføyd ved [forskrift 21 mars 2007 nr. 414](forskrift/2007-03-21-414), endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113).
 
@@ -302,7 +390,10 @@ Forbudet gjelder ikke for maling- og lakkeringsprodukter utelukkende til bruk i 
 
 Forbudet gjelder ikke for produksjon av maling- og lakkeringsprodukter beregnet på restaurering og vedlikehold av faste og løse kulturminner. Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger kan ved enkeltvedtak gi tillatelse til omsetning av begrensede mengder av slike maling- og lakkeringsprodukter til bruk på spesifisert kulturminne.
 
-For maling- og lakkeringsprodukter som nevnt i vedlegg VII avsnitt 1, skal emballasjen i tillegg til forskriftsmessig helse-, miljø-, brann- og eksplosjonsfaremerking være merket med lettleselig og varig påskrift på norsk som opplyser omproduktets underkategori og de relevante VOC-grenseverdiene i g/l jf. vedlegg VII avsnitt 2det maksimale VOC-innhold i g/l i produktet i bruksklar tilstand.
+For maling- og lakkeringsprodukter som nevnt i vedlegg VII avsnitt 1, skal emballasjen i tillegg til forskriftsmessig helse-, miljø-, brann- og eksplosjonsfaremerking være merket med lettleselig og varig påskrift på norsk som opplyser om
+
+1. produktets underkategori og de relevante VOC-grenseverdiene i g/l jf. vedlegg VII avsnitt 2
+2. det maksimale VOC-innhold i g/l i produktet i bruksklar tilstand.
 
 > Tilføyd ved [forskrift 16 april 2007 nr. 417](forskrift/2007-04-16-417), endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
 
@@ -318,7 +409,17 @@ Det er forbudt å produsere, importere og omsette marin dieselolje med mer enn 1
 
 Det er forbudt å produsere, importere og omsette marin gassolje med mer enn 0,10 vektprosent svovel, dersom denne er beregnet på forbrenning om bord i sjøfartøy.
 
-Den som omsetter marin dieselolje og marin gassolje til skip på 400 bruttotonn eller mer skal dokumentere svovelinnholdet i drivstoffet med en leveringsseddel for hver leveranse. Leveringsseddelen skal følges av en forseglet prøve av drivstoffet som er signert av omsetter og en representant fra mottakerskipet. En kopi av hver leveringsseddel skal oppbevares i minst tre år. Leveringsseddelen skal være på engelsk og minst inneholde:navn og identifikasjonsnummer (IMO-nummer) på mottakerskip,navn på havnen der drivstoffet er levert,dato for leveringen av drivstoffet,navn, adresse og telefonnummer til omsetteren av drivstoffet,produktets navn eller betegnelse,mengde drivstoff levert angitt i kubikkmeter,det leverte drivstoffets tetthet (egenvekt) ved 15 grader celsius målt i kilo per kubikkmeter, ogdet leverte drivstoffets svovelinnhold målt i vektprosent,en erklæring om at det leverte drivstoffet ikke er marin dieselolje med mer enn 1,50 vektprosent svovel eller marin gassolje med mer enn 0,10 vektprosent svovel.
+Den som omsetter marin dieselolje og marin gassolje til skip på 400 bruttotonn eller mer skal dokumentere svovelinnholdet i drivstoffet med en leveringsseddel for hver leveranse. Leveringsseddelen skal følges av en forseglet prøve av drivstoffet som er signert av omsetter og en representant fra mottakerskipet. En kopi av hver leveringsseddel skal oppbevares i minst tre år. Leveringsseddelen skal være på engelsk og minst inneholde:
+
+1. navn og identifikasjonsnummer (IMO-nummer) på mottakerskip,
+2. navn på havnen der drivstoffet er levert,
+3. dato for leveringen av drivstoffet,
+4. navn, adresse og telefonnummer til omsetteren av drivstoffet,
+5. produktets navn eller betegnelse,
+6. mengde drivstoff levert angitt i kubikkmeter,
+7. det leverte drivstoffets tetthet (egenvekt) ved 15 grader celsius målt i kilo per kubikkmeter, og
+8. det leverte drivstoffets svovelinnhold målt i vektprosent,
+9. en erklæring om at det leverte drivstoffet ikke er marin dieselolje med mer enn 1,50 vektprosent svovel eller marin gassolje med mer enn 0,10 vektprosent svovel.
 
 Denne bestemmelsen gjelder ikke produksjon, import og omsetning av marint drivstoff til eksport i lastetanker om bord i sjøfartøy.
 
@@ -397,7 +498,13 @@ Med eksport i denne bestemmelsen menes eksport fra Norge til land utenfor EØS-o
 
 ### § 2-31. Produkter som inneholder asbest – unntak fra forbudet i REACH-forordningen vedlegg XVII post 6
 
-Forbudet mot å bringe i omsetning produkter som inneholder asbestfibre i REACH-forordningen vedlegg XVII post 6 nr. 1, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften), gjelder ikke følgende produkter i sin helhet som var tatt i bruk før 1. januar 2005 forutsatt at asbestfibrene ikke kan bli frigjort til omgivelsene ved normal bruk:hus og andre bygninger,kjøretøy som er godkjent etter den til enhver tid gjeldende [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr,fartøy registrert i Luftfartøyregisteret etter [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart,fartøy registrert i skipsregisteret etter [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten eller Norsk internasjonalt skipsregister etter [lov 12. juni 1987 nr. 48](lov/1987-06-12-48) om norsk internasjonalt skipsregister ellerrullende materiell til bruk på jernbane, herunder sporvei, tunnelbane, forstadsbane og lignende sporbundet transportmiddel.
+Forbudet mot å bringe i omsetning produkter som inneholder asbestfibre i REACH-forordningen vedlegg XVII post 6 nr. 1, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften), gjelder ikke følgende produkter i sin helhet som var tatt i bruk før 1. januar 2005 forutsatt at asbestfibrene ikke kan bli frigjort til omgivelsene ved normal bruk:
+
+1. hus og andre bygninger,
+2. kjøretøy som er godkjent etter den til enhver tid gjeldende [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr,
+3. fartøy registrert i Luftfartøyregisteret etter [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart,
+4. fartøy registrert i skipsregisteret etter [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten eller Norsk internasjonalt skipsregister etter [lov 12. juni 1987 nr. 48](lov/1987-06-12-48) om norsk internasjonalt skipsregister eller
+5. rullende materiell til bruk på jernbane, herunder sporvei, tunnelbane, forstadsbane og lignende sporbundet transportmiddel.
 
 > Tilføyd ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113).
 
@@ -588,20 +695,142 @@ Den samlede intensiteten av en leverandørs livsyklusmiljøgassutslipp for alle 
 der:
 
 1. «x» er drivstoff- og energityper som omfattes. Disse er definert ut i fra tolltariffkoder.
-2. «MJx» er den samlede energien som leveres, og som omregnes fra de rapporterte mengdene av drivstoff «x», uttrykt i megajoule. Denne variabelen beregnes som følger:*Mengden av hvert drivstoff per drivstofftype*Utledes fra innrapportert mengde drivstoff og omregnes til energimengde ved deres respektive nedre brennverdi. For ikke-biologiske drivstoff benyttes nedre brennverdi som fastsatt i tillegg 1 til Joint Research Centre-EUCAR-CONCAWE (JEC) Well-to-Tank-rapport (4. utgave) av juli 2013, se tabell I og II nedenfor. For biodrivstoff benyttes nedre brennverdi som fastsatt i vedlegg II til direktiv [2009/98/EF](eu/32009l0098), se tabell III nedenfor.*Tabell I. Nedre brennverdier for gassformige ikke-biologiske drivstoff* *Drivstoff**MJ/kg**MJ/Nm3**kg/kWh**kWh/kg*Metan50,035,70,07213,89Naturgass
-(EU-mix)45,135,70,08012,53Naturgass
-(Russland)49,235,80,07313,67LPG46,00,07812,78Hydrogen120,110,70,0333,36*Tabell II. Nedre brennverdier for flytende ikke-biologiske drivstoff* *kg/m3**MJ/kg**GJ/m3**kg/kWh**kWh/kg*Bensin74543,232,20,08312,0Diesel83243,135,90,08411,97Nafta72043,731,50,08212,14Syn diesel78044,034,30,08212,22Syn nafta70044,531,20,08112,36Metanol79319,915,80,18112,36DME67028,419,00,1277,90MTBE74535,126,10,1039,75ETBE75036,327,20,09910,07*Tabell III. Nedre brennverdier for biodrivstoff* *Drivstoff**Energiinnhold per vektenhet (MJ/kg)**Energiinnhold per volumenhet (MJ/l)*Bioetanol2721Bio-ETBE (etyltertiærbutyleter)36 (herav 37 % fra fornybare energikilder)27 (herav 37 % fra fornybare energikilder)Biometanol2016Bio-MTBE (metyltertbutyleter)35 (herav 22 % fra fornybare energikilder)26 (herav 22 % fra fornybare energikilder)Bio-DME (dimetyleter)2819Bio-TAEE (tertiæramyletyleter)38 (herav 29 % fra fornybare energikilder)29 (herav 29 % fra fornybare energikilder)Biobutanol3327Biodiesel (metylester)3733Fischer-Tropsch-diesel4434Hydrogenbehandlet vegetabilske olje (HVO)4434Ren vegetabilsk olje3734Biogass50–*Sambehandling av fossile brensler og biodrivstoff*Behandling omfatter enhver endring i løpet av et levert drivstoffs eller en energis livssyklus som forårsaker en endring i produktets molekylstruktur. Tilsetting av denatureringsmiddel omfattes ikke av denne behandling. Mengden av biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, gjenspeiler biodrivstoffets tilstand etter behandlingen. Mengden av sambehandlet biodrivstoff bestemmes i henhold til energibalansen og effektiviteten av sambehandlingsprosessen i henhold til punkt C (17) i vedlegg II til kapittel 3 i denne forskrift.Dersom flere biodrivstoff blandes med fossile brensler, tas det hensyn til mengden og typen av hvert enkelt biodrivstoff ved beregningen og ved leverandørenes rapportering til medlemsstatene.E85 bensin-etanolblandinger skal beregnes som et separat drivstoff i henhold til artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 443/2009](eu/32009r0443).*Elektrisitetsforbruk*Dette er den mengden elektrisk kraft som benyttes i veigående kjøretøyer eller motorsykler, og som leverandøren rapporterer til Miljødirektoratet etter følgende formel:
-Årlig elektrisitetsforbruk = kjørt strekning (km) × elektrisitetsforbruk (MJ/km)
-3. Oppstrømsutslipp og oppstrøms utslippsreduksjon (upstream emission reduction (UER))Oppstrømsutslipp er alle klimagassutslipp som forekommer før råstoffet når fram til raffinerings- eller behandlingsanlegget der drivstoffet som omhandles i dette vedlegget, ble produsert.UER er den oppstrøms utslippsreduksjon av klimagasser som av leverandøren hevdes å foreligge, målt i gCO2eq dersom den er kvantifisert og rapportert i samsvar med følgende krav:*Berettigelse*UER-er får bare anvendelse på oppstrømsutslippsdelen av gjennomsnittlige standardverdier for bensin, diesel, CNG eller LPG.UER-er som oppstår i et hvilket som helst land kan medregnes som en reduksjon i klimagassutslipp i forhold til drivstoff fra enhver råstoffkilde som leveres av en hvilken som helst leverandør.UER-er skal bare medregnes dersom de er knyttet til prosjekter som har startet etter 1. januar 2011.Det er ikke nødvendig å bevise at UER-er ikke ville ha funnet sted uten rapporteringskravet angitt i [§ 2-21](forskrift/2004-06-01-922/§2-21) første ledd.*Beregning*UER-er skal anslås og valideres i samsvar med prinsippene og standardene som er angitt i internasjonale standarder, særlig i ISO 14064, ISO 14065 og ISO 14066.UER-er og referanseutslipp overvåkes, rapporteres og verifiseres i samsvar med ISO 14064 og gir resultater med tilsvarende pålitelighet som kommisjonsforordning [(EU) nr. 600/2012](eu/32012r0600) og kommisjonsforordning [(EU) nr. 601/2012](eu/32012r0601*). Verifiseringen av metoder for å anslå UER-er må gjøres i samsvar med ISO 14064-3, og organisasjonen som verifiserer dette skal være akkreditert i samsvar med ISO 14065.
-4. «GHGix» er klimagassintensiteten for drivstoff eller energi «x» uttrykt i gCO2eq/MJ. Omsettere skal beregne klimagassintensiteten for hvert drivstoff eller energi slik:Klimagassintensiteten for drivstoff som ikke er av biologisk opprinnelse er «den veide klimagassintensiteten» per drivstofftype oppført i siste kolonne i tabellen under punkt 2 i del II i dette vedlegg.Elektrisk kraft beregnes som beskrevet i punkt 3 i del II.*Klimagassintensitet for biodrivstoff*Klimagassintensiteten for biodrivstoff som oppfyller bærekraftskriteriene beregnes i samsvar med [§ 3-5](forskrift/2004-06-01-922/§3-5) til [§ 3-9](forskrift/2004-06-01-922/§3-9). Dersom data om livssyklusutslipp av klimagasser for biodrivstoff ble fremskaffet i samsvar med en avtale eller ordning som er gjenstand for en beslutning i henhold til artikkel 7c nr. 4 i direktiv [98/70/EF](eu/31998l0070) som omfatter artikkel 7b nr. 2 i nevnte direktiv, skal disse data også brukes til å bestemme klimagassintensiteten for biodrivstoff i henhold til samme direktivs artikkel 7b nr. 1.*Sambehandling av drivstoff som ikke er av biologisk opprinnelse og biodrivstoff*Klimagassintensiteten for biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, skal gjenspeile biodrivstoffets tilstand etter behandlingen.
-5. «AF» er justeringsfaktorene for framdriftssystemeffektiviteten:*Dominerende konverteringsteknologi**Effektivitetsfaktor*Forbrenningsmotor1Elektrisk framdriftssystem, batteri0,4Elektrisk framdriftssystem, hydrogenbrenselcelle0,4
+2. «MJx» er den samlede energien som leveres, og som omregnes fra de rapporterte mengdene av drivstoff «x», uttrykt i megajoule. Denne variabelen beregnes som følger:
+
+   1. *Mengden av hvert drivstoff per drivstofftype*
+
+      Utledes fra innrapportert mengde drivstoff og omregnes til energimengde ved deres respektive nedre brennverdi. For ikke-biologiske drivstoff benyttes nedre brennverdi som fastsatt i tillegg 1 til Joint Research Centre-EUCAR-CONCAWE (JEC) Well-to-Tank-rapport (4. utgave) av juli 2013, se tabell I og II nedenfor. For biodrivstoff benyttes nedre brennverdi som fastsatt i vedlegg II til direktiv [2009/98/EF](eu/32009l0098), se tabell III nedenfor.
+
+      *Tabell I. Nedre brennverdier for gassformige ikke-biologiske drivstoff*
+
+      | *Drivstoff* | *MJ/kg* | *MJ/Nm3* | *kg/kWh* | *kWh/kg* |
+      | --- | --- | --- | --- | --- |
+      | Metan | 50,0 | 35,7 | 0,072 | 13,89 |
+      | Naturgass<br>(EU-mix) | 45,1 | 35,7 | 0,080 | 12,53 |
+      | Naturgass<br>(Russland) | 49,2 | 35,8 | 0,073 | 13,67 |
+      | LPG | 46,0 |  | 0,078 | 12,78 |
+      | Hydrogen | 120,1 | 10,7 | 0,03 | 33,36 |
+
+      *Tabell II. Nedre brennverdier for flytende ikke-biologiske drivstoff*
+
+      |  | *kg/m3* | *MJ/kg* | *GJ/m3* | *kg/kWh* | *kWh/kg* |
+      | --- | --- | --- | --- | --- | --- |
+      | Bensin | 745 | 43,2 | 32,2 | 0,083 | 12,0 |
+      | Diesel | 832 | 43,1 | 35,9 | 0,084 | 11,97 |
+      | Nafta | 720 | 43,7 | 31,5 | 0,082 | 12,14 |
+      | Syn diesel | 780 | 44,0 | 34,3 | 0,082 | 12,22 |
+      | Syn nafta | 700 | 44,5 | 31,2 | 0,081 | 12,36 |
+      | Metanol | 793 | 19,9 | 15,8 | 0,181 | 12,36 |
+      | DME | 670 | 28,4 | 19,0 | 0,127 | 7,90 |
+      | MTBE | 745 | 35,1 | 26,1 | 0,103 | 9,75 |
+      | ETBE | 750 | 36,3 | 27,2 | 0,099 | 10,07 |
+
+      *Tabell III. Nedre brennverdier for biodrivstoff*
+
+      | *Drivstoff* | *Energiinnhold per vektenhet (MJ/kg)* | *Energiinnhold per volumenhet (MJ/l)* |
+      | --- | --- | --- |
+      | Bioetanol | 27 | 21 |
+      | Bio-ETBE (etyltertiærbutyleter) | 36 (herav 37 % fra fornybare energikilder) | 27 (herav 37 % fra fornybare energikilder) |
+      | Biometanol | 20 | 16 |
+      | Bio-MTBE (metyltertbutyleter) | 35 (herav 22 % fra fornybare energikilder) | 26 (herav 22 % fra fornybare energikilder) |
+      | Bio-DME (dimetyleter) | 28 | 19 |
+      | Bio-TAEE (tertiæramyletyleter) | 38 (herav 29 % fra fornybare energikilder) | 29 (herav 29 % fra fornybare energikilder) |
+      | Biobutanol | 33 | 27 |
+      | Biodiesel (metylester) | 37 | 33 |
+      | Fischer-Tropsch-diesel | 44 | 34 |
+      | Hydrogenbehandlet vegetabilske olje (HVO) | 44 | 34 |
+      | Ren vegetabilsk olje | 37 | 34 |
+      | Biogass | 50 | – |
+   2. *Sambehandling av fossile brensler og biodrivstoff*
+
+      Behandling omfatter enhver endring i løpet av et levert drivstoffs eller en energis livssyklus som forårsaker en endring i produktets molekylstruktur. Tilsetting av denatureringsmiddel omfattes ikke av denne behandling. Mengden av biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, gjenspeiler biodrivstoffets tilstand etter behandlingen. Mengden av sambehandlet biodrivstoff bestemmes i henhold til energibalansen og effektiviteten av sambehandlingsprosessen i henhold til punkt C (17) i vedlegg II til kapittel 3 i denne forskrift.
+
+      Dersom flere biodrivstoff blandes med fossile brensler, tas det hensyn til mengden og typen av hvert enkelt biodrivstoff ved beregningen og ved leverandørenes rapportering til medlemsstatene.
+
+      E85 bensin-etanolblandinger skal beregnes som et separat drivstoff i henhold til artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 443/2009](eu/32009r0443).
+   3. *Elektrisitetsforbruk*
+
+      Dette er den mengden elektrisk kraft som benyttes i veigående kjøretøyer eller motorsykler, og som leverandøren rapporterer til Miljødirektoratet etter følgende formel:
+      Årlig elektrisitetsforbruk = kjørt strekning (km) × elektrisitetsforbruk (MJ/km)
+3. Oppstrømsutslipp og oppstrøms utslippsreduksjon (upstream emission reduction (UER))
+
+   Oppstrømsutslipp er alle klimagassutslipp som forekommer før råstoffet når fram til raffinerings- eller behandlingsanlegget der drivstoffet som omhandles i dette vedlegget, ble produsert.
+
+   UER er den oppstrøms utslippsreduksjon av klimagasser som av leverandøren hevdes å foreligge, målt i gCO2eq dersom den er kvantifisert og rapportert i samsvar med følgende krav:
+
+   1. *Berettigelse*
+
+      UER-er får bare anvendelse på oppstrømsutslippsdelen av gjennomsnittlige standardverdier for bensin, diesel, CNG eller LPG.
+
+      UER-er som oppstår i et hvilket som helst land kan medregnes som en reduksjon i klimagassutslipp i forhold til drivstoff fra enhver råstoffkilde som leveres av en hvilken som helst leverandør.
+
+      UER-er skal bare medregnes dersom de er knyttet til prosjekter som har startet etter 1. januar 2011.
+
+      Det er ikke nødvendig å bevise at UER-er ikke ville ha funnet sted uten rapporteringskravet angitt i [§ 2-21](forskrift/2004-06-01-922/§2-21) første ledd.
+   2. *Beregning*
+
+      UER-er skal anslås og valideres i samsvar med prinsippene og standardene som er angitt i internasjonale standarder, særlig i ISO 14064, ISO 14065 og ISO 14066.
+
+      UER-er og referanseutslipp overvåkes, rapporteres og verifiseres i samsvar med ISO 14064 og gir resultater med tilsvarende pålitelighet som kommisjonsforordning [(EU) nr. 600/2012](eu/32012r0600) og kommisjonsforordning [(EU) nr. 601/2012](eu/32012r0601*). Verifiseringen av metoder for å anslå UER-er må gjøres i samsvar med ISO 14064-3, og organisasjonen som verifiserer dette skal være akkreditert i samsvar med ISO 14065.
+4. «GHGix» er klimagassintensiteten for drivstoff eller energi «x» uttrykt i gCO2eq/MJ. Omsettere skal beregne klimagassintensiteten for hvert drivstoff eller energi slik:
+
+   1. Klimagassintensiteten for drivstoff som ikke er av biologisk opprinnelse er «den veide klimagassintensiteten» per drivstofftype oppført i siste kolonne i tabellen under punkt 2 i del II i dette vedlegg.
+   2. Elektrisk kraft beregnes som beskrevet i punkt 3 i del II.
+   3. *Klimagassintensitet for biodrivstoff*
+
+      Klimagassintensiteten for biodrivstoff som oppfyller bærekraftskriteriene beregnes i samsvar med [§ 3-5](forskrift/2004-06-01-922/§3-5) til [§ 3-9](forskrift/2004-06-01-922/§3-9). Dersom data om livssyklusutslipp av klimagasser for biodrivstoff ble fremskaffet i samsvar med en avtale eller ordning som er gjenstand for en beslutning i henhold til artikkel 7c nr. 4 i direktiv [98/70/EF](eu/31998l0070) som omfatter artikkel 7b nr. 2 i nevnte direktiv, skal disse data også brukes til å bestemme klimagassintensiteten for biodrivstoff i henhold til samme direktivs artikkel 7b nr. 1.
+   4. *Sambehandling av drivstoff som ikke er av biologisk opprinnelse og biodrivstoff*
+
+      Klimagassintensiteten for biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, skal gjenspeile biodrivstoffets tilstand etter behandlingen.
+5. «AF» er justeringsfaktorene for framdriftssystemeffektiviteten:
+
+   | *Dominerende konverteringsteknologi* | *Effektivitetsfaktor* |
+   | --- | --- |
+   | Forbrenningsmotor | 1 |
+   | Elektrisk framdriftssystem, batteri | 0,4 |
+   | Elektrisk framdriftssystem, hydrogenbrenselcelle | 0,4 |
 
 ### Del II.
 Rapportering for omsettere av andre drivstoff enn biodrivstoff
 
-1. *UER-er for fossile brensler*For at UER-er skal være berettiget for rapporterings- og beregningsmetoden, skal omsettere rapportere følgende:Startdatoen for prosjektet, som må være senere enn 1. januar 2011,de årlige utslippsreduksjonene i gCO2eq,varigheten av den perioden da reduksjonene fant sted,prosjektsted nærmest kilden til utslippene, i bredde- og lengdegradskoordinater i grader med fire desimaler,de årlige referanseutslippene før installeringen av reduksjonstiltakene og de årlige utslippene etter at reduksjonstiltakene har blitt gjennomført, i gCO2eq/MJ av produsert utgangsmateriale,ikke-gjenbrukelig sertifikatnummer som entydig identifiserer ordningen og de påståtte klimagassreduksjonene,ikke-gjenbrukelig nummer som entydig identifiserer beregningsmetoden og den tilhørende ordningen, ogdersom prosjektet er tilknyttet oljeutvinning, rapporteres gjennomsnittlig årlig historisk og rapporteringsårets gass-til-olje-forhold (GOR) i løsning, reservoartrykk, dybde og brønnproduksjonsrate for råoljen.
-2. *Gjennomsnittlige normalverdier for klimagassintensitet under hele livssyklusen for andre drivstoff enn biodrivstoff og elektrisitet* *Råstoffkilde og prosess**Drivstoff brakt i omsetning**Vektet livssyklus-klimagassintensitet (gCO2eq/MJ)*Konvensjonell råoljeBensin93,3Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferKonvensjonell råoljeDiesel eller gassolje95,1Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferAlle fossile kilderFlytende petroleumsgass i en motor med gnisttenning73,6Naturgass, EU-blandingKomprimert naturgass i en motor med gnisttenning69,3Naturgass, EU-blandingFlytende naturgass i en motor med gnisttenning74,5Sabatier-reaksjon av hydrogen ved bruk av elektrolyse med ikke-biologisk fornybar energiKomprimert syntetisk metan i en gnisttenningsmotor3,3Naturgass gjennom dampreformeringKomprimert hydrogen i en brenselcelle104,3Elektrolyse som fullt ut drives av fornybar ikke-biologisk energiKomprimert hydrogen i en brenselcelle9,1KullKomprimert hydrogen i en brenselcelle234,4Kull med karbonfangst og lagring av prosessutslippKomprimert hydrogen i en brenselcelle52,7Plastavfall som utvinnes av fossile råstofferBensin, diesel eller gassolje86
-3. *Elektrisk kraft*For rapportering av klimagassintensitet for elektrisk kraft til veitransport skal det tas utgangspunkt i den nasjonale kraftproduksjonen.
+1. *UER-er for fossile brensler*
+
+   For at UER-er skal være berettiget for rapporterings- og beregningsmetoden, skal omsettere rapportere følgende:
+
+   1. Startdatoen for prosjektet, som må være senere enn 1. januar 2011,
+   2. de årlige utslippsreduksjonene i gCO2eq,
+   3. varigheten av den perioden da reduksjonene fant sted,
+   4. prosjektsted nærmest kilden til utslippene, i bredde- og lengdegradskoordinater i grader med fire desimaler,
+   5. de årlige referanseutslippene før installeringen av reduksjonstiltakene og de årlige utslippene etter at reduksjonstiltakene har blitt gjennomført, i gCO2eq/MJ av produsert utgangsmateriale,
+   6. ikke-gjenbrukelig sertifikatnummer som entydig identifiserer ordningen og de påståtte klimagassreduksjonene,
+   7. ikke-gjenbrukelig nummer som entydig identifiserer beregningsmetoden og den tilhørende ordningen, og
+   8. dersom prosjektet er tilknyttet oljeutvinning, rapporteres gjennomsnittlig årlig historisk og rapporteringsårets gass-til-olje-forhold (GOR) i løsning, reservoartrykk, dybde og brønnproduksjonsrate for råoljen.
+2. *Gjennomsnittlige normalverdier for klimagassintensitet under hele livssyklusen for andre drivstoff enn biodrivstoff og elektrisitet*
+
+   | *Råstoffkilde og prosess* | *Drivstoff brakt i omsetning* | *Vektet livssyklus-klimagassintensitet (gCO2eq/MJ)* |
+   | --- | --- | --- |
+   | Konvensjonell råolje | Bensin | 93,3 |
+   | Naturgass til flytende |  |  |
+   | Kull til flytende |  |  |
+   | Naturlig bitumen |  |  |
+   | Oljeskifer |  |  |
+   | Konvensjonell råolje | Diesel eller gassolje | 95,1 |
+   | Naturgass til flytende |  |  |
+   | Kull til flytende |  |  |
+   | Naturlig bitumen |  |  |
+   | Oljeskifer |  |  |
+   | Alle fossile kilder | Flytende petroleumsgass i en motor med gnisttenning | 73,6 |
+   | Naturgass, EU-blanding | Komprimert naturgass i en motor med gnisttenning | 69,3 |
+   | Naturgass, EU-blanding | Flytende naturgass i en motor med gnisttenning | 74,5 |
+   | Sabatier-reaksjon av hydrogen ved bruk av elektrolyse med ikke-biologisk fornybar energi | Komprimert syntetisk metan i en gnisttenningsmotor | 3,3 |
+   | Naturgass gjennom dampreformering | Komprimert hydrogen i en brenselcelle | 104,3 |
+   | Elektrolyse som fullt ut drives av fornybar ikke-biologisk energi | Komprimert hydrogen i en brenselcelle | 9,1 |
+   | Kull | Komprimert hydrogen i en brenselcelle | 234,4 |
+   | Kull med karbonfangst og lagring av prosessutslipp | Komprimert hydrogen i en brenselcelle | 52,7 |
+   | Plastavfall som utvinnes av fossile råstoffer | Bensin, diesel eller gassolje | 86 |
+3. *Elektrisk kraft*
+
+   For rapportering av klimagassintensitet for elektrisk kraft til veitransport skal det tas utgangspunkt i den nasjonale kraftproduksjonen.
 
 > Opphevet ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), tilføyd igjen ved [forskrift 21 des 2017 nr. 2398](forskrift/2017-12-21-2398).
 
@@ -625,7 +854,20 @@ Se her for å lese forordning [(EU) nr. 259/2012](eu/32012r0259): [(pdf)](static
 
 1.1.
 
-Underkategorier*Matt innendørs vegg- og takmaling:* maling med glansverdi < 25 60° beregnet til bruk på vegger og tak innendørs.*Blank innendørs vegg- og takmaling:* maling med glansverdi >25 60° beregnet til bruk på vegger og tak innendørs.*Utendørs maling for mineralske flater:* maling beregnet til bruk på yttervegger av mur, murstein eller puss.*Maling for treverk, metall og plast innendørs/utendørs:* maling beregnet til utsmykking og kledning, og som danner en dekkende film. Disse malingene er beregnet for enten tre-, metall- eller plastunderlag. Denne underkategorien omfatter også grunninger uten spesielle egenskaper og mellomstrøksmalinger.*Lakk, lasur og beis for innendørs/utendørs behandling av tre, metall og plast:* transparente eller halvtransparente malinger beregnet til dekorasjon og beskyttelse av tre, metall og plast. Denne underkategori omfatter også dekkbeis. Med dekkbeis menes beis som gir en dekkende film for dekorasjon og beskyttelse av tre mot værpåvirkning jf. definisjonen i EN 927-1 i kategorien halvstabil.*Tynnsjiktet lasur, olje eller beis:* produkter til tre som har en gjennomsnittlig filmtykkelse på under 5μm, når de testes etter ISO 2808: 1997, metode 5A jf. EN 927-1:1996.*Grunning:* grunning med forseglings- og/eller isoleringsegenskaper beregnet til bruk som grunnlag på tre, vegger og tak.*Heftgrunning:* produkt beregnet til å stabilisere løse underlag eller å gi vannavvisende egenskaper og/eller beskytte treverk mot blåved (soppangrep).*Enkomponent spesialmaling:* overflatebehandlingsprodukter basert på filmdannende materiale. De er beregnet til bruksområder som krever spesielle egenskaper, som f.eks. grunning og topplag til plast, grunning til jernunderlag, grunning til reaktive metaller som f.eks. sink og aluminium, korrosjonshindrende topplag, overflatebehandlingsprodukter til gulv, herunder tre- og sementgulv, produkter med graffitiavvisende og brannhemmende egenskaper, og produkter som skal overholde helsekrav i næringsmiddelindustrien eller i helsesektoren.*Tokomponent spesialmaling:* overflatebehandlingsprodukter med samme bruksområde som enkomponents spesialmaling, men hvor det tilsettes ennå en komponent (f.eks. tertiære aminer) før påføring.*Flerfargede malinger:* malinger beregnet å gi tofarget eller flerfarget effekt direkte ved første påføring.*Effektmaling:* maling beregnet å gi spesielle estetiske effekter på spesielt forberedte og allerede malte eller grunnede underlag, og som deretter behandles med forskjellig verktøy under tørkingen.
+Underkategorier
+
+1. *Matt innendørs vegg- og takmaling:* maling med glansverdi < 25 60° beregnet til bruk på vegger og tak innendørs.
+2. *Blank innendørs vegg- og takmaling:* maling med glansverdi >25 60° beregnet til bruk på vegger og tak innendørs.
+3. *Utendørs maling for mineralske flater:* maling beregnet til bruk på yttervegger av mur, murstein eller puss.
+4. *Maling for treverk, metall og plast innendørs/utendørs:* maling beregnet til utsmykking og kledning, og som danner en dekkende film. Disse malingene er beregnet for enten tre-, metall- eller plastunderlag. Denne underkategorien omfatter også grunninger uten spesielle egenskaper og mellomstrøksmalinger.
+5. *Lakk, lasur og beis for innendørs/utendørs behandling av tre, metall og plast:* transparente eller halvtransparente malinger beregnet til dekorasjon og beskyttelse av tre, metall og plast. Denne underkategori omfatter også dekkbeis. Med dekkbeis menes beis som gir en dekkende film for dekorasjon og beskyttelse av tre mot værpåvirkning jf. definisjonen i EN 927-1 i kategorien halvstabil.
+6. *Tynnsjiktet lasur, olje eller beis:* produkter til tre som har en gjennomsnittlig filmtykkelse på under 5μm, når de testes etter ISO 2808: 1997, metode 5A jf. EN 927-1:1996.
+7. *Grunning:* grunning med forseglings- og/eller isoleringsegenskaper beregnet til bruk som grunnlag på tre, vegger og tak.
+8. *Heftgrunning:* produkt beregnet til å stabilisere løse underlag eller å gi vannavvisende egenskaper og/eller beskytte treverk mot blåved (soppangrep).
+9. *Enkomponent spesialmaling:* overflatebehandlingsprodukter basert på filmdannende materiale. De er beregnet til bruksområder som krever spesielle egenskaper, som f.eks. grunning og topplag til plast, grunning til jernunderlag, grunning til reaktive metaller som f.eks. sink og aluminium, korrosjonshindrende topplag, overflatebehandlingsprodukter til gulv, herunder tre- og sementgulv, produkter med graffitiavvisende og brannhemmende egenskaper, og produkter som skal overholde helsekrav i næringsmiddelindustrien eller i helsesektoren.
+10. *Tokomponent spesialmaling:* overflatebehandlingsprodukter med samme bruksområde som enkomponents spesialmaling, men hvor det tilsettes ennå en komponent (f.eks. tertiære aminer) før påføring.
+11. *Flerfargede malinger:* malinger beregnet å gi tofarget eller flerfarget effekt direkte ved første påføring.
+12. *Effektmaling:* maling beregnet å gi spesielle estetiske effekter på spesielt forberedte og allerede malte eller grunnede underlag, og som deretter behandles med forskjellig verktøy under tørkingen.
 
 2\.
 
@@ -633,10 +875,20 @@ Underkategorier*Matt innendørs vegg- og takmaling:* maling med glansverdi < 25 
 
 2.1.*Underkategorier*
 
-1. *Forbehandlings- og rengjøringsprodukter:* produkter beregnet på fjerning av gamle lakklag og rust, mekanisk eller kjemisk eller for å gi feste for ny lakkoppbygging.*forbehandlingsprodukter:* vasketynnere (et produkt beregnet for rengjøring av sprøytepistol og annet utstyr), maling-/lakkfjerner, avfettingsmiddel (herunder antistatprodukter for plast) og silikonfjernere.*rengjøringsprodukter:* produkter for rengjøring av overflateforurensning ved klargjøring til og før påføring av dekklag.
+1. *Forbehandlings- og rengjøringsprodukter:* produkter beregnet på fjerning av gamle lakklag og rust, mekanisk eller kjemisk eller for å gi feste for ny lakkoppbygging.
+
+   1. *forbehandlingsprodukter:* vasketynnere (et produkt beregnet for rengjøring av sprøytepistol og annet utstyr), maling-/lakkfjerner, avfettingsmiddel (herunder antistatprodukter for plast) og silikonfjernere.
+   2. *rengjøringsprodukter:* produkter for rengjøring av overflateforurensning ved klargjøring til og før påføring av dekklag.
 2. *Sparkelmasse:* fyldige materialer beregnet for å påføres for å utfylle dype overflateskader før påføring av grunning.
-3. *Grunningsprodukt:* lakkprodukt beregnet for å påføres på ren metall eller eksisterende lakkflater for å gi korrosjonsbeskyttelse eller for å fylle mindre ujevnheter.*fyller:* lakkprodukt beregnet for å påføres før påføring av topplakk med henblikk på korrosjonsbestandighet, for å sikre feste for topplakk og for å fremme dannelsen av en jevn overflate ved å utfylle mindre uregelmessigheter i overflaten.*generell metallgrunning:* lakkprodukt beregnet til påføring som grunning, for f.eks. å fremme festeevne for eksempel sealer, grunnfyller, plastgrunning, vått-i-vått, «non-sanding» sparkel og sprøytesparkel.*etsgrunning, wash-primer:* lakkprodukt som inneholder minst 0,5 vektprosent fosforsyre, beregnet til påføring direkte på rent metall for å gi korrosjonsbestandighet og feste, samt grunning som brukes som sveisegrunning og etsende løsninger til galvaniserte overflater og sinkoverflater.
-4. *Topplakk:* pigmentert lakk beregnet for påføring enten i ett enkelt lag eller i flere lag, for å gi glans og holdbarhet. Det omfatter alle anvendte produkter som f.eks. baselakk og klarlakk.*baselakk:* pigmentert lakkprodukt beregnet på å gi farge og optiske virkninger, men ikke glans eller overflatebestandighet.*klarlakk:* transparent lakkprodukt beregnet på å sikre lakkoppbyggingen den endelige glans og bestandighet.
+3. *Grunningsprodukt:* lakkprodukt beregnet for å påføres på ren metall eller eksisterende lakkflater for å gi korrosjonsbeskyttelse eller for å fylle mindre ujevnheter.
+
+   1. *fyller:* lakkprodukt beregnet for å påføres før påføring av topplakk med henblikk på korrosjonsbestandighet, for å sikre feste for topplakk og for å fremme dannelsen av en jevn overflate ved å utfylle mindre uregelmessigheter i overflaten.
+   2. *generell metallgrunning:* lakkprodukt beregnet til påføring som grunning, for f.eks. å fremme festeevne for eksempel sealer, grunnfyller, plastgrunning, vått-i-vått, «non-sanding» sparkel og sprøytesparkel.
+   3. *etsgrunning, wash-primer:* lakkprodukt som inneholder minst 0,5 vektprosent fosforsyre, beregnet til påføring direkte på rent metall for å gi korrosjonsbestandighet og feste, samt grunning som brukes som sveisegrunning og etsende løsninger til galvaniserte overflater og sinkoverflater.
+4. *Topplakk:* pigmentert lakk beregnet for påføring enten i ett enkelt lag eller i flere lag, for å gi glans og holdbarhet. Det omfatter alle anvendte produkter som f.eks. baselakk og klarlakk.
+
+   1. *baselakk:* pigmentert lakkprodukt beregnet på å gi farge og optiske virkninger, men ikke glans eller overflatebestandighet.
+   2. *klarlakk:* transparent lakkprodukt beregnet på å sikre lakkoppbyggingen den endelige glans og bestandighet.
 5. *Spesiallakker:* topplakkprodukter med spesielle egenskaper, som f.eks. metallik- eller perlemorseffekt i et enkelt lag, dekkende og klare lakker (f.eks. ripefast og fluorholdig klarlakk), reflekterende baselakk, strukturlakk (f.eks. hammerlakk), sklisikker lakk, understellmasse, steinslagsbeskyttende lakk, interiørlakk og aerosoler.
 
 **Avsnitt 2: Grenseverdier for maksimalt VOC-innhold**
@@ -704,8 +956,12 @@ Tillatt analysemetode for VOC-innhold når reaktive fortynnere er til stede
 
 **I. Grunnregler for å bestemme utlekking av N-nitrosaminer og av N-nitrosamindannende stoffer**
 
-1. *Væske brukt i utlekkingstester (spyttestløsning)*Væsken som skal brukes i utlekkingstesten, fremstilles ved å løse opp 4,2 g natriumbikarbonat (NaHCO3), 0,5 g natriumklorid (NaCl), 0,2 g kaliumkarbonat (K2CO3) og 30 mg natriumnitritt (NaNO2) i 1 liter destillert vann eller vann av tilsvarende kvalitet. Løsningens pH-verdi skal være lik 9.
-2. *Prøvevilkår*Materialprøver fra et passende antall narresmokker senkes ned i spyttestløsningen i 24 timer ved en temperatur på 40° C (+/– 2° C).
+1. *Væske brukt i utlekkingstester (spyttestløsning)*
+
+   Væsken som skal brukes i utlekkingstesten, fremstilles ved å løse opp 4,2 g natriumbikarbonat (NaHCO3), 0,5 g natriumklorid (NaCl), 0,2 g kaliumkarbonat (K2CO3) og 30 mg natriumnitritt (NaNO2) i 1 liter destillert vann eller vann av tilsvarende kvalitet. Løsningens pH-verdi skal være lik 9.
+2. *Prøvevilkår*
+
+   Materialprøver fra et passende antall narresmokker senkes ned i spyttestløsningen i 24 timer ved en temperatur på 40° C (+/– 2° C).
 
 **II. Kriterier for metoden for å bestemme utlekking av N-nitrosaminer og N-nitrosamindannende stoffer**
 
@@ -719,7 +975,19 @@ Tillatt analysemetode for VOC-innhold når reaktive fortynnere er til stede
 
 ### § 2a-1. Virkeområde
 
-EE-produkter innenfor følgende produktkategorier er omfattet av virkeområdet for kapittel 2a:Store husholdningsapparaterSmå husholdningsapparaterIT- og telekommunikasjonsutstyrForbrukerutstyrBelysningsutstyrElektrisk og elektronisk verktøyLeketøy, fritids- og sportsutstyrMedisinsk utstyr som definert i [forskrift 15. desember 2005 nr. 1690](forskrift/2005-12-15-1690) om medisinsk utstyr, og som også er elektrisk og elektronisk utstyr.Overvåkings- og kontrollinstrumenter, herunder industrielle overvåkings- og kontrollinstrumenter konstruert utelukkende for industriell og yrkesmessig brukSalgsautomaterAnnet elektrisk og elektronisk utstyr som ikke omfattes av noen av de ovennevnte kategorier.
+EE-produkter innenfor følgende produktkategorier er omfattet av virkeområdet for kapittel 2a:
+
+1. Store husholdningsapparater
+2. Små husholdningsapparater
+3. IT- og telekommunikasjonsutstyr
+4. Forbrukerutstyr
+5. Belysningsutstyr
+6. Elektrisk og elektronisk verktøy
+7. Leketøy, fritids- og sportsutstyr
+8. Medisinsk utstyr som definert i [forskrift 15. desember 2005 nr. 1690](forskrift/2005-12-15-1690) om medisinsk utstyr, og som også er elektrisk og elektronisk utstyr.
+9. Overvåkings- og kontrollinstrumenter, herunder industrielle overvåkings- og kontrollinstrumenter konstruert utelukkende for industriell og yrkesmessig bruk
+10. Salgsautomater
+11. Annet elektrisk og elektronisk utstyr som ikke omfattes av noen av de ovennevnte kategorier.
 
 Kabler og reservedeler for reparasjon, ombruk, oppgradering av funksjoner eller forbedring av kapasitet er omfattet av produktkategoriene i første ledd.
 
@@ -727,13 +995,28 @@ Med *kabler* menes alle kabler med en merkespenning på mindre enn 250 volt, som
 
 Med *reservedel* menes en separat del av et EE-produkt som kan erstatte en del av produktet. Dette produktet kan ikke fungere etter hensikten uten den nevnte delen. EE-produktets funksjonsdyktighet gjenopprettes eller forbedres når delen erstattes av en reservedel.
 
-Bestemmelsene i kapittel 2a gjelder ikke for:utstyr som er nødvendig for å beskytte viktige sikkerhetsinteresser i statene i EØS-området, herunder våpen, ammunisjon og krigsmateriell for særlige militære formål,utstyr konstruert for å sendes ut i rommet,stasjonært industriverktøy i stor målestokk, definert som en stor samling av maskiner, utstyr, og/eller bestanddeler som virker sammen for en særskilt bruk, som permanent installeres og demonteres av fagfolk, og som brukes og vedlikeholdes av fagfolk i et produksjonsanlegg for industrien eller i et forsknings- og utviklingsanlegg,faste anlegg i stor målestokk, definert som et stort anlegg som består av en kombinasjon av flere typer apparater og eventuelt andre innretninger som sammenstilles og installeres av fagfolk, som er beregnet for permanent bruk på et forhåndsdefinert eller særskilt angitt sted, og som demonteres av fagfolk,transportmidler for personer eller gods, unntatt ikke typegodkjente elektriske kjøretøyer med to hjul,ikke-veigående mobile maskiner som bare gjøres tilgjengelig for yrkesmessig bruk, definert som maskiner med en egen kraftforsyning eller med et friksjonsdrev med en ekstern strømkilde, hvis drift krever enten mobilitet eller kontinuerlig eller halvkontinuerlig bevegelighet mellom en rekke faste arbeidssteder mens arbeidet pågår, og som utelukkende gjøres tilgjengelig for yrkesmessig bruk,aktivt implanterbart medisinsk utstyr, som definert i [forskrift 15. desember 2005 nr. 1690](forskrift/2005-12-15-1690) om medisinsk utstyr,solcellepaneler beregnet på bruk i et anlegg som konstrueres, monteres og installeres av fagfolk for permanent bruk på et fastsatt sted for å produsere energi fra sollys for offentlig, kommersiell og industriell bruk samt til boligformål,utstyr som er særskilt konstruert for forsknings- og utviklingsformål og som bare gjøres tilgjengelig for yrkesmessig bruk,utstyr som er særskilt konstruert for, og som skal installeres som en del av en annen type utstyr som er unntatt fra eller ikke omfattes av denne forskriftens virkeområde, som bare kan oppfylle sin funksjon dersom det er en del av det nevnte utstyret, og bare kan erstattes av utstyr som er særskilt konstruert på samme måte,pipeorgler.
+Bestemmelsene i kapittel 2a gjelder ikke for:
+
+1. utstyr som er nødvendig for å beskytte viktige sikkerhetsinteresser i statene i EØS-området, herunder våpen, ammunisjon og krigsmateriell for særlige militære formål,
+2. utstyr konstruert for å sendes ut i rommet,
+3. stasjonært industriverktøy i stor målestokk, definert som en stor samling av maskiner, utstyr, og/eller bestanddeler som virker sammen for en særskilt bruk, som permanent installeres og demonteres av fagfolk, og som brukes og vedlikeholdes av fagfolk i et produksjonsanlegg for industrien eller i et forsknings- og utviklingsanlegg,
+4. faste anlegg i stor målestokk, definert som et stort anlegg som består av en kombinasjon av flere typer apparater og eventuelt andre innretninger som sammenstilles og installeres av fagfolk, som er beregnet for permanent bruk på et forhåndsdefinert eller særskilt angitt sted, og som demonteres av fagfolk,
+5. transportmidler for personer eller gods, unntatt ikke typegodkjente elektriske kjøretøyer med to hjul,
+6. ikke-veigående mobile maskiner som bare gjøres tilgjengelig for yrkesmessig bruk, definert som maskiner med en egen kraftforsyning eller med et friksjonsdrev med en ekstern strømkilde, hvis drift krever enten mobilitet eller kontinuerlig eller halvkontinuerlig bevegelighet mellom en rekke faste arbeidssteder mens arbeidet pågår, og som utelukkende gjøres tilgjengelig for yrkesmessig bruk,
+7. aktivt implanterbart medisinsk utstyr, som definert i [forskrift 15. desember 2005 nr. 1690](forskrift/2005-12-15-1690) om medisinsk utstyr,
+8. solcellepaneler beregnet på bruk i et anlegg som konstrueres, monteres og installeres av fagfolk for permanent bruk på et fastsatt sted for å produsere energi fra sollys for offentlig, kommersiell og industriell bruk samt til boligformål,
+9. utstyr som er særskilt konstruert for forsknings- og utviklingsformål og som bare gjøres tilgjengelig for yrkesmessig bruk,
+10. utstyr som er særskilt konstruert for, og som skal installeres som en del av en annen type utstyr som er unntatt fra eller ikke omfattes av denne forskriftens virkeområde, som bare kan oppfylle sin funksjon dersom det er en del av det nevnte utstyret, og bare kan erstattes av utstyr som er særskilt konstruert på samme måte,
+11. pipeorgler.
 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrift 12 juni 2018 nr. 848](forskrift/2018-06-12-848).
 
 ### § 2a-2. Definisjoner
 
-Med *EE-produkter* i kapittel 2a meneselektrisk og elektronisk utstyr som er avhengig av elektrisk kraft eller elektromagnetiske felt for å fungere tilfredsstillendeutstyr for generering, overføring og måling av slik kraft og slike felt som er konstruert for bruk med en merkespenning på høyst 1000 volt for vekselstrøm og 1500 volt for likestrøm.
+Med *EE-produkter* i kapittel 2a menes
+
+1. elektrisk og elektronisk utstyr som er avhengig av elektrisk kraft eller elektromagnetiske felt for å fungere tilfredsstillende
+2. utstyr for generering, overføring og måling av slik kraft og slike felt som er konstruert for bruk med en merkespenning på høyst 1000 volt for vekselstrøm og 1500 volt for likestrøm.
 
 Med *avhengig* i første ledd menes behov for elektrisk kraft eller elektromagnetiske felt for å oppfylle minst en tilsiktet funksjon.
 
@@ -759,9 +1042,17 @@ Med *omsetning* menes enhver levering av et EE-produkt for distribusjon, forbruk
 
 Det er forbudt å bringe i omsetning og eksportere EE-produkter der innholdet av bly, kvikksølv, seksverdig krom, polybromerte bifenyler (PBB), polybromerte difenyletere (PBDE) di-(2etylheksyl)ftalat (DEHP), benzylbutylftalat (BBP), dibutylftalat (DBP) eller diisobutylftalat (DIBP) i homogene materialer er over 0,1 vektprosent, eller der innholdet av kadmium i homogene materialer er over 0,01 vektprosent. Eksportforbudet gjelder ikke for EE-produkter som er bragt lovlig i omsetning.
 
-Forbudet i første ledd mot innhold av bly, kvikksølv, seksverdig krom, polybromerte bifenyler (PBB), polybromerte difenyletere (PBDE) og kadmium gjelder for EE-produkter iproduktkategori 1–7 og 10: fra 3. januar 2013produktkategori 8: fra 22. juli 2014 og fra 22. juli 2016 dersom det er medisinsk utstyr til in vitro-diagnostikkproduktkategori 9: fra 22. juli 2014 og 22. juli 2017 dersom det er industrielle overvåkings- og kontrollinstrumenterproduktkategori 11: fra 22. juli 2019.
+Forbudet i første ledd mot innhold av bly, kvikksølv, seksverdig krom, polybromerte bifenyler (PBB), polybromerte difenyletere (PBDE) og kadmium gjelder for EE-produkter i
 
-Forbudet i første ledd mot innhold av di-(2etylheksyl)ftalat (DEHP), benzylbutylftalat (BBP), dibutylftalat (DBP) og diisobutylftalat (DIBP) gjelder for EE-produkter iproduktkategori 1–7 og 10–11: fra 22. juli 2019produktkategori 8 og 9: fra 22. juli 2021.
+1. produktkategori 1–7 og 10: fra 3. januar 2013
+2. produktkategori 8: fra 22. juli 2014 og fra 22. juli 2016 dersom det er medisinsk utstyr til in vitro-diagnostikk
+3. produktkategori 9: fra 22. juli 2014 og 22. juli 2017 dersom det er industrielle overvåkings- og kontrollinstrumenter
+4. produktkategori 11: fra 22. juli 2019.
+
+Forbudet i første ledd mot innhold av di-(2etylheksyl)ftalat (DEHP), benzylbutylftalat (BBP), dibutylftalat (DBP) og diisobutylftalat (DIBP) gjelder for EE-produkter i
+
+1. produktkategori 1–7 og 10–11: fra 22. juli 2019
+2. produktkategori 8 og 9: fra 22. juli 2021.
 
 Det er forbudt å gjøre tilgjengelig på markedet EE-produkter som distributøren vet eller burde vite at er brakt i omsetning i strid med første ledd. Importøren og distributøren skal underrette alle tidligere salgsledd og Miljødirektoratet dersom de mener eller har grunn til å tro at et EE-produkt ikke er i samsvar med kravet i første ledd.
 
@@ -773,11 +1064,28 @@ Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd gjelder ikke 
 
 Unntak hvor fristen er utløpt og som det er søkt om fornyelse for, er gyldige inntil ny søknad er vurdert. Dersom søknaden om fornyelse av et unntak avslås, eller unntaket tilbakekalles, skal unntaket slutte å gjelde tidligst 12 og senest 18 måneder etter tidspunktet da søknaden ble avslått.
 
-Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd gjelder ikke for reservedeler som er gjenvunnet fraEE-produkter som ble brakt i omsetning før 1. juli 2006 og brukt i EE-produkter som er brakt i omsetning før 1. juli 2016medisinsk utstyr eller overvåkings- og kontrollinstrumenter som er brakt i omsetning før 22. juli 2014 og som brukes i EE-produkter som bringes i omsetning før 22. juli 2024medisinsk utstyr til in vitro-diagnostikk som er brakt i omsetning før 22. juli 2016 og som brukes i EE-produkter som bringes i omsetning før 22. juli 2026industrielle overvåkings- og kontrollinstrumenter som er brakt i omsetning før 22. juli 2017 og som brukes i EE-produkter som er bringes i omsetning før 22. juli 2027alle andre EE-produkter som var utenfor anvendelsesområdet i direktiv [2002/95/EU](eu/32002l0095) (RoHS1) og bringes i omsetning før 22. juli 2019, og som brukes i EE-produkter som bringes i omsetning før 22. juli 2029 forutsatt at gjenvinningen gjennomføres i kontrollerbare, lukkede retursystemer mellom bedrifter, og forbrukeren informeres om at delene består av gjenvunnet materiale.
+Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd gjelder ikke for reservedeler som er gjenvunnet fra
 
-Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) mot innhold av bly, kvikksølv, seksverdig krom, polybromerte bifenyler (PBB), polybromerte difenyletere (PBDE) gjelder ikke for kabler eller reservedeler til reparasjoner, gjenbruk, eller forbedringer av funksjonene eller kapasiteten til følgende:EE-produkter brakt i omsetning før 1. juli 2006medisinsk utstyr brakt i omsetning før 22. juli 2014medisinsk utstyr til in-vitro diagnostikk brakt i omsetning før 22. juli 2016overvåkings- og kontrollinstrumenter brakt i omsetning før 22. juli 2014industrielle overvåkings- og kontrollinstrumenter brakt i omsetning før 22. juli 2017EE-produkter som var omfattet av unntak og som var brakt i omsetning før frist for unntaket gikk ut, i den grad det spesifikke unntaket berøresalle andre EE-produkter som var utenfor virkeområdet til direktiv [2002/95/EF](eu/32002l0095) og brakt i omsetning før 22. juli 2019.
+1. EE-produkter som ble brakt i omsetning før 1. juli 2006 og brukt i EE-produkter som er brakt i omsetning før 1. juli 2016
+2. medisinsk utstyr eller overvåkings- og kontrollinstrumenter som er brakt i omsetning før 22. juli 2014 og som brukes i EE-produkter som bringes i omsetning før 22. juli 2024
+3. medisinsk utstyr til in vitro-diagnostikk som er brakt i omsetning før 22. juli 2016 og som brukes i EE-produkter som bringes i omsetning før 22. juli 2026
+4. industrielle overvåkings- og kontrollinstrumenter som er brakt i omsetning før 22. juli 2017 og som brukes i EE-produkter som er bringes i omsetning før 22. juli 2027
+5. alle andre EE-produkter som var utenfor anvendelsesområdet i direktiv [2002/95/EU](eu/32002l0095) (RoHS1) og bringes i omsetning før 22. juli 2019, og som brukes i EE-produkter som bringes i omsetning før 22. juli 2029 forutsatt at gjenvinningen gjennomføres i kontrollerbare, lukkede retursystemer mellom bedrifter, og forbrukeren informeres om at delene består av gjenvunnet materiale.
 
-Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd mot innhold av DEHP, BBP, DBP og DIBP gjelder ikke for kabler eller reservedeler til reparasjoner, gjenbruk, eller forbedringer av funksjonene eller kapasiteten til EE-produkter iproduktkategori 1–7 og 10–11: brakt i omsetning før 22. juli 2019produktkategori 8 og 9: brakt i omsetning før 22. juli 2021.
+Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) mot innhold av bly, kvikksølv, seksverdig krom, polybromerte bifenyler (PBB), polybromerte difenyletere (PBDE) gjelder ikke for kabler eller reservedeler til reparasjoner, gjenbruk, eller forbedringer av funksjonene eller kapasiteten til følgende:
+
+1. EE-produkter brakt i omsetning før 1. juli 2006
+2. medisinsk utstyr brakt i omsetning før 22. juli 2014
+3. medisinsk utstyr til in-vitro diagnostikk brakt i omsetning før 22. juli 2016
+4. overvåkings- og kontrollinstrumenter brakt i omsetning før 22. juli 2014
+5. industrielle overvåkings- og kontrollinstrumenter brakt i omsetning før 22. juli 2017
+6. EE-produkter som var omfattet av unntak og som var brakt i omsetning før frist for unntaket gikk ut, i den grad det spesifikke unntaket berøres
+7. alle andre EE-produkter som var utenfor virkeområdet til direktiv [2002/95/EF](eu/32002l0095) og brakt i omsetning før 22. juli 2019.
+
+Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd mot innhold av DEHP, BBP, DBP og DIBP gjelder ikke for kabler eller reservedeler til reparasjoner, gjenbruk, eller forbedringer av funksjonene eller kapasiteten til EE-produkter i
+
+1. produktkategori 1–7 og 10–11: brakt i omsetning før 22. juli 2019
+2. produktkategori 8 og 9: brakt i omsetning før 22. juli 2021.
 
 Forbudet i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) første ledd mot EE-produkter som inneholder DEHP, BBP og DBP gjelder ikke leketøy som reguleres av REACH-forordningen (forordning [(EF) nr. 1907/2006](eu/32006r1907*)) vedlegg XVII post 51.
 
@@ -845,7 +1153,11 @@ Merkingen skal fremgå på produktet. Unntaksvis kan emballasjen, bruksanvisning
 
 Før 15. august 2018 gjelder merkekravene i denne bestemmelsen ikke for glødelamper eller lysarmaturer til husholdninger.
 
-Produsenter skal sørge for at det gis opplysninger om:hvilke materialer og komponenter produktet inneholder,innhold av farlige stoffer og stoffblandinger og hvor disse er plassert i produktet ogbehandling av produktet som avfall, inkludert hvordan produktet kan forberedes til ombruk.
+Produsenter skal sørge for at det gis opplysninger om:
+
+1. hvilke materialer og komponenter produktet inneholder,
+2. innhold av farlige stoffer og stoffblandinger og hvor disse er plassert i produktet og
+3. behandling av produktet som avfall, inkludert hvordan produktet kan forberedes til ombruk.
 
 Opplysningene skal gis for hver enkelt type nytt EE-produkt som er brakt i omsetning.
 
@@ -881,7 +1193,10 @@ Importør eller distributør anses som produsent og skal oppfylle produsentens f
 
 ### § 2a-15. Identifikasjon av markedsdeltakere
 
-Både produsent, produsentens representant, importør og distributør av EE-produkter skal på anmodning fra Miljødirektoratet, i en periode på ti år etter at EE-produktet er brakt i omsetning, identifisere:alle markedsdeltakere som har levert EE-produkt til dem, ogalle markedsdeltakere som de har levert EE-produkt til.
+Både produsent, produsentens representant, importør og distributør av EE-produkter skal på anmodning fra Miljødirektoratet, i en periode på ti år etter at EE-produktet er brakt i omsetning, identifisere:
+
+1. alle markedsdeltakere som har levert EE-produkt til dem, og
+2. alle markedsdeltakere som de har levert EE-produkt til.
 
 Med *markedsdeltakere* i denne bestemmelsen menes produsent, produsentens representant, importør og distributør.
 
@@ -1111,11 +1426,19 @@ Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for me
 ### Vedlegg 3
 Vilkår for å få unntak
 
-Det kan søkes om unntak forutsatt at dette ikke svekker helse og miljø og dersom ett eller flere av følgende vilkår er oppfylt:fjerning eller erstatning av materialene og bestanddelene gjennom konstruksjonsendringer eller gjennom materialer og bestanddeler som ikke krever noen av materialene eller stoffene nevnt i [§ 2a-3](forskrift/2004-06-01-922/§2a-3), er av vitenskapelige eller tekniske grunner ikke praktisk muligerstatningsstoffenes pålitelighet er ikke sikret, et erstatningsstoffs pålitelighet er definert som sannsynligheten for at et elektrisk og elektronisk utstyr som inneholder et erstatningsstoff vil oppfylle en nødvendig funksjon uten svikt under nærmere angitte betingelser og i en nærmere angitt tidsperiodede samlede negative virkningene av erstatningsstoffene på miljø, helse og forbrukersikkerhet vil høyst sannsynlig oppveie de samlede fordelene ved erstatningen
+Det kan søkes om unntak forutsatt at dette ikke svekker helse og miljø og dersom ett eller flere av følgende vilkår er oppfylt:
+
+- fjerning eller erstatning av materialene og bestanddelene gjennom konstruksjonsendringer eller gjennom materialer og bestanddeler som ikke krever noen av materialene eller stoffene nevnt i [§ 2a-3](forskrift/2004-06-01-922/§2a-3), er av vitenskapelige eller tekniske grunner ikke praktisk mulig
+- erstatningsstoffenes pålitelighet er ikke sikret, et erstatningsstoffs pålitelighet er definert som sannsynligheten for at et elektrisk og elektronisk utstyr som inneholder et erstatningsstoff vil oppfylle en nødvendig funksjon uten svikt under nærmere angitte betingelser og i en nærmere angitt tidsperiode
+- de samlede negative virkningene av erstatningsstoffene på miljø, helse og forbrukersikkerhet vil høyst sannsynlig oppveie de samlede fordelene ved erstatningen
 
 Det skal også tas hensyn til erstatningsstoffenes tilgjengelighet og sosioøkonomiske virkninger, og eventuelle mulige skadevirkninger på nyskaping. I tillegg bør livssyklusprinsippet benyttes med hensyn til unntakenes generelle virkninger der det er relevant. Tilgjengelighet av et erstatningsstoff er definert som dets evne til å bli produsert og levert innenfor en rimelig tidsperiode sammenlignet med tiden det tar å produsere og levere stoffene oppført i [§ 2a-3](forskrift/2004-06-01-922/§2a-3).
 
-Unntak gitt for spesifikke bruksområder:i produktkategori 1–7, 10 har en gyldighetsperiode på inntil fem år fra 21. juli 2011i produktkategori 11 har en gyldighetsperiode på inntil fem år fra 22. juli 2019i produktkategori 8 og 9 har en gyldighetsperiode på inntil 7 år fra datoene angitt i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) andre ledd b) og c).
+Unntak gitt for spesifikke bruksområder:
+
+1. i produktkategori 1–7, 10 har en gyldighetsperiode på inntil fem år fra 21. juli 2011
+2. i produktkategori 11 har en gyldighetsperiode på inntil fem år fra 22. juli 2019
+3. i produktkategori 8 og 9 har en gyldighetsperiode på inntil 7 år fra datoene angitt i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) andre ledd b) og c).
 
 Søknader om tildeling, fornyelse eller tilbakekalling av et unntak skal sendes til Kommisjonen. Kommisjonen skal gjøre søknadene offentlig tilgjengelig. Søknader om fornyelse av et unntak skal sendes inn senest 18 måneder før utløpet av unntaket.
 
@@ -1123,7 +1446,18 @@ Søknader om tildeling, fornyelse eller tilbakekalling av et unntak skal sendes 
 
 ### Krav til søknad
 
-Søknader om unntak, fornyelse eller tilsvarende tilbakekalling av et unntak, kan sendes inn av en produsent, en produsents representant eller en markedsdeltaker i forsyningskjeden og skal minst inneholde:søkerens navn og adresse og kontaktopplysninger,opplysninger om materialet eller komponenten og om de særlige bruksområdene for stoffet i materialet og komponenten som det søkes om unntak eller tilbakekalling av et unntak for, samt om stoffets spesifikke egenskaper,en kontrollérbar og dokumentert begrunnelse for et unntak eller dets tilbakekalling, i tråd med vilkårene som fremgår i avsnittet over,en livssyklusbasert analyse av mulige alternative stoffer, materialer eller utforminger, herunder opplysninger, i den grad de er tilgjengelige, om uavhengig forskning, fagfelleundersøkelser og utviklingsaktiviteter utført av søkeren, og en analyse av tilgjengeligheten av slike alternativer,opplysninger om mulige forberedelser med sikte på ombruk eller gjenvinning av avfallsmateriale fra elektrisk og elektronisk utstyr i forbindelse med hensiktsmessig behandling i henhold til [§ 2a-10](forskrift/2004-06-01-922/§2a-10),andre relevante opplysninger,søkerens foreslåtte tiltak for å utvikle, be om å få utviklet og/eller bruke mulige alternativer, herunder en tidsplan for slike tiltak,dersom det er aktuelt, en beskrivelse av hvilke opplysninger som bør anses som forretningshemmeligheter, ledsaget av en kontrollérbar begrunnelse,når det søkes om et unntak, forslag til en presis og klar ordlyd for unntaket,et sammendrag av søknaden.
+Søknader om unntak, fornyelse eller tilsvarende tilbakekalling av et unntak, kan sendes inn av en produsent, en produsents representant eller en markedsdeltaker i forsyningskjeden og skal minst inneholde:
+
+1. søkerens navn og adresse og kontaktopplysninger,
+2. opplysninger om materialet eller komponenten og om de særlige bruksområdene for stoffet i materialet og komponenten som det søkes om unntak eller tilbakekalling av et unntak for, samt om stoffets spesifikke egenskaper,
+3. en kontrollérbar og dokumentert begrunnelse for et unntak eller dets tilbakekalling, i tråd med vilkårene som fremgår i avsnittet over,
+4. en livssyklusbasert analyse av mulige alternative stoffer, materialer eller utforminger, herunder opplysninger, i den grad de er tilgjengelige, om uavhengig forskning, fagfelleundersøkelser og utviklingsaktiviteter utført av søkeren, og en analyse av tilgjengeligheten av slike alternativer,
+5. opplysninger om mulige forberedelser med sikte på ombruk eller gjenvinning av avfallsmateriale fra elektrisk og elektronisk utstyr i forbindelse med hensiktsmessig behandling i henhold til [§ 2a-10](forskrift/2004-06-01-922/§2a-10),
+6. andre relevante opplysninger,
+7. søkerens foreslåtte tiltak for å utvikle, be om å få utviklet og/eller bruke mulige alternativer, herunder en tidsplan for slike tiltak,
+8. dersom det er aktuelt, en beskrivelse av hvilke opplysninger som bør anses som forretningshemmeligheter, ledsaget av en kontrollérbar begrunnelse,
+9. når det søkes om et unntak, forslag til en presis og klar ordlyd for unntaket,
+10. et sammendrag av søknaden.
 
 > Tilføyd ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
@@ -1147,8 +1481,19 @@ Undertegnet for og på vegne av: ....................................... .......
 
 ### Vedlegg 5. Fremgangsmåter for samsvarsvurdering
 
-1. *Teknisk dokumentasjon*Den tekniske dokumentasjonen skal gjøre det mulig å vurdere produktets samsvar med [§ 2a-3](forskrift/2004-06-01-922/§2a-3) og skal omfatte en dekkende risikoanalyse og vurdering. Den tekniske dokumentasjonen skal angi kravene som får anvendelse og omfatte, så langt det er relevant for vurderingen, produktets utforming, framstilling og virkemåte. Den tekniske dokumentasjonen, skal der det er relevant, minst inneholde:en generell beskrivelse av produktetkonstruksjons- og produksjonstegninger, komponentlister. Lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister samt driften av produktet,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner hvis henvisninger er publisert i Den europeiske unions tidende, anvendt delvis eller i sin helhet, samt beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er delvis anvendt, skal den tekniske dokumentasjonen angi hvilke deler av standardene som er anvendt,resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samtprøvingsrapporter.
-2. *Produksjon*Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de fremstilte produktene er i samsvar med den tekniske dokumentasjonen i nr. 1 og med kravene i [§ 2a-3](forskrift/2004-06-01-922/§2a-3).
+1. *Teknisk dokumentasjon*
+
+   Den tekniske dokumentasjonen skal gjøre det mulig å vurdere produktets samsvar med [§ 2a-3](forskrift/2004-06-01-922/§2a-3) og skal omfatte en dekkende risikoanalyse og vurdering. Den tekniske dokumentasjonen skal angi kravene som får anvendelse og omfatte, så langt det er relevant for vurderingen, produktets utforming, framstilling og virkemåte. Den tekniske dokumentasjonen, skal der det er relevant, minst inneholde:
+
+   1. en generell beskrivelse av produktet
+   2. konstruksjons- og produksjonstegninger, komponentlister. Lister over delmontasjer, strømkretsskjemaer osv.,
+   3. beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister samt driften av produktet,
+   4. en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner hvis henvisninger er publisert i Den europeiske unions tidende, anvendt delvis eller i sin helhet, samt beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i [§ 2a-3](forskrift/2004-06-01-922/§2a-3) når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er delvis anvendt, skal den tekniske dokumentasjonen angi hvilke deler av standardene som er anvendt,
+   5. resultatene av konstruksjonsberegninger, utførte undersøkelser osv., samt
+   6. prøvingsrapporter.
+2. *Produksjon*
+
+   Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og kontrollen av denne sikrer at de fremstilte produktene er i samsvar med den tekniske dokumentasjonen i nr. 1 og med kravene i [§ 2a-3](forskrift/2004-06-01-922/§2a-3).
 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013).
 
@@ -1176,7 +1521,17 @@ Med *okso-nedbrytbar plast* menes plastmaterialer som inneholder tilsetningsstof
 
 ### § 2b-3. Forbud mot enkelte engangsprodukter av plast
 
-Det er forbudt å bringe i omsetning følgende produkter dersom de er laget helt eller delvis av plast og er beregnet for engangsbruk:BomullspinnerBestikk (gafler, kniver, skjeer og spisepinner)TallerkenerSugerørRørepinner til drikkevarerBallongpinner og festemekanismer til slike pinnerMatbeholdere av ekspandert polystyren (EPS), med eller uten lokk, til matvarer som uten ytterligere tilberedning er beregnet til å spises fra beholderen enten på salgsstedet eller som take awayDrikkevareemballasje av ekspandert polystyren (EPS) og korker og lokk til disseDrikkebegre av ekspandert polystyren (EPS) og lokk til disse.
+Det er forbudt å bringe i omsetning følgende produkter dersom de er laget helt eller delvis av plast og er beregnet for engangsbruk:
+
+1. Bomullspinner
+2. Bestikk (gafler, kniver, skjeer og spisepinner)
+3. Tallerkener
+4. Sugerør
+5. Rørepinner til drikkevarer
+6. Ballongpinner og festemekanismer til slike pinner
+7. Matbeholdere av ekspandert polystyren (EPS), med eller uten lokk, til matvarer som uten ytterligere tilberedning er beregnet til å spises fra beholderen enten på salgsstedet eller som take away
+8. Drikkevareemballasje av ekspandert polystyren (EPS) og korker og lokk til disse
+9. Drikkebegre av ekspandert polystyren (EPS) og lokk til disse.
 
 Forbudene i første ledd bokstav a og d gjelder ikke for bomullspinner og sugerør til bruk som medisinsk utstyr.
 
@@ -1192,7 +1547,12 @@ Det er forbudt å bringe i omsetning produkter laget av okso-nedbrytbar plast.
 
 ### § 2b-5. Krav til merking av enkelte engangsprodukter av plast.
 
-Den som bringer i omsetning følgende produkter, skal sørge for at produktene er merket i henhold til merkekravene som fremgår i denne bestemmelsens andre ledd dersom de er laget helt eller delvis av plast og er beregnet for engangsbruk:Sanitetsbind, tamponger og innføringshylstre for tampongerVåtservietter til personlig pleie og husholdningsbrukTobakksprodukter med filtre og filtre som markedsføres for bruk sammen med tobakksprodukterDrikkebegre.
+Den som bringer i omsetning følgende produkter, skal sørge for at produktene er merket i henhold til merkekravene som fremgår i denne bestemmelsens andre ledd dersom de er laget helt eller delvis av plast og er beregnet for engangsbruk:
+
+1. Sanitetsbind, tamponger og innføringshylstre for tamponger
+2. Våtservietter til personlig pleie og husholdningsbruk
+3. Tobakksprodukter med filtre og filtre som markedsføres for bruk sammen med tobakksprodukter
+4. Drikkebegre.
 
 Forordning [(EU) 2020/2151](eu/32020r2151) om harmoniserte merkekrav for engangsprodukter i plast, som inntatt i [EØS-avtalen vedlegg II kapittel XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 9dd, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -1202,7 +1562,10 @@ Forordning [(EU) 2020/2151](eu/32020r2151) om harmoniserte merkekrav for engangs
 
 En drikkevarebeholder til engangsbruk som er laget helt eller delvis av plast som rommer opp til tre liter væske og har kork eller lokk av plast, kan bare bringes i omsetning hvis korken eller lokket sitter fast i beholderen i hele perioden produktet er ment å brukes. Korkene og lokkenes feste må oppfylle Den europeiske standardiseringsorganisasjonens harmoniserte standarder for testmetoder og krav for å vise at korker og lokk blir sittende fast på drikkevarebeholdere (EN 17665:2022+A1:2023).
 
-Første ledd gjelder ikke for:drikkevarebeholdere av glass eller metall med korker eller lokk av plast,drikkevarebeholdere som er ment for og blir brukt til flytende næringsmidler til spesielle medisinske formål, som er definert i artikkel 2 bokstav g) i forordning [(EU) nr. 609/2013](eu/32013r0609), jf. [forskrift 10. januar 2014 nr. 21 om næringsmidler til særskilte grupper § 1](forskrift/2014-01-10-21/§1).
+Første ledd gjelder ikke for:
+
+1. drikkevarebeholdere av glass eller metall med korker eller lokk av plast,
+2. drikkevarebeholdere som er ment for og blir brukt til flytende næringsmidler til spesielle medisinske formål, som er definert i artikkel 2 bokstav g) i forordning [(EU) nr. 609/2013](eu/32013r0609), jf. [forskrift 10. januar 2014 nr. 21 om næringsmidler til særskilte grupper § 1](forskrift/2014-01-10-21/§1).
 
 Korker og lokk av metall med plastforsegling skal ikke anses for å være framstilt av plast.
 
@@ -1220,7 +1583,10 @@ Flaskens kork eller lokk regnes som del av flasken etter første og annet ledd.
 
 Kravene i første og annet ledd kan oppfylles enten ved at hver enkelt drikkeflaske, eller den samlede mengden drikkeflasker som bringes i omsetning i ett kalenderår, inneholder minst den angitte andelen materialgjenvunnet plast.
 
-Første og annet ledd gjelder ikke for:drikkeflasker av glass eller metall med korker eller lokk av plast,drikkeflasker som er ment for og blir brukt til flytende næringsmidler til spesielle medisinske formål som er definert i artikkel 2 bokstav g) i forordning [(EU) nr. 609/2013](eu/32013r0609), jf. [forskrift 10. januar 2014 nr. 21 om næringsmidler til særskilte grupper § 1](forskrift/2014-01-10-21/§1).
+Første og annet ledd gjelder ikke for:
+
+1. drikkeflasker av glass eller metall med korker eller lokk av plast,
+2. drikkeflasker som er ment for og blir brukt til flytende næringsmidler til spesielle medisinske formål som er definert i artikkel 2 bokstav g) i forordning [(EU) nr. 609/2013](eu/32013r0609), jf. [forskrift 10. januar 2014 nr. 21 om næringsmidler til særskilte grupper § 1](forskrift/2014-01-10-21/§1).
 
 Den som skal oppfylle krav etter første til fjerde ledd, må utarbeide en årlig rapport på oppfyllelse av kravene til sitt godkjente retursystem for drikkevareemballasje, jf. [avfallsforskriften kapittel 6](forskrift/2004-06-01-930/kap6), eller returselskap for emballasje, jf. [avfallsforskriften kapittel 7](forskrift/2004-06-01-930/kap7).
 
@@ -1246,7 +1612,28 @@ Formålet med kapittelet er å fremme omsetning av biodrivstoff og å fremme bæ
 
 ### § 3-2. Definisjoner
 
-I dette kapittelet menes med*biomasse:* den biologisk nedbrytbare delen av produkter, avfall og rester av biologisk opprinnelse fra jordbruk, skogbruk, fiske, akvakultur og tilhørende næringer, samt den biologisk nedbrytbare delen av industriavfall og kommunalt avfall, likevel ikke avfall av fossilt opphav.*biodrivstoff:* flytende eller gassformig brensel til transport som er produsert av biomasse.*flytende biobrensel:* flytende brensel til andre energiformål enn transport, herunder til elektrisitet og oppvarming og kjøling, produsert av biomasse. Biogass er ikke omfattet.*avfall:* ethvert stoff eller materiale som innehaveren kvitter seg med eller har til hensikt eller er forpliktet til å kvitte seg med. Råvarer som bevisst har blitt endret for å regnes som avfall, skal ikke anses som avfall.*rester:* restprodukter fra jordbruk, havbruk, fiskeri og skogbruk, samt prosesseringsrester. Et prosesseringsrestprodukt er et stoff som er fremstilt i en produksjonsprosess som primært tar sikte på å fremstille noe annet. Restproduktet må ikke være et direkte mål med produksjonsprosessen og prosessen må ikke ha vært endret bevisst for å produsere restproduktet*lignocellulosemateriale*: materiale som består av lignin, cellulose og hemicellulose, f.eks. biomasse fra skoger, trebaserte energivekster og rester og avfall fra skogindustri.*celluloseholdig materiale som ikke er næringsmiddel*: råstoffer som hovedsakelig består av cellulose og hemicellulose, og som har lavere lignininnhold enn lignocellulosemateriale; det omfatter rester av næringsmiddel- og fôrvekster (f.eks. halm, stilker, agner og skall), energivekster i form av gress med lavt stivelsesinnhold (f.eks. raigress, rishirse, elefantgress, kjemperør og dekkvekster før og etter hovedvekster), industrielle rester (herunder fra næringsmiddel- og fôrvekster etter at vegetabilske oljer, sukker, stivelse og protein er utvunnet) og materiale fra bioavfall.*omsetter:* den som omsetter drivstoff eller brensel og er registrert etter [særavgiftsforskriften §§ 5-1](forskrift/2001-12-11-1451/§5-1) eller [5-2](forskrift/2001-12-11-1451/§5-2).*støtteordning:* alle virkemidler som EØS-stater benytter for å fremme bruken av energi fra fornybare kilder ved å redusere kostnaden ved denne energien, øke prisen den kan selges for eller ved hjelp av en forpliktelse om fornybar energi eller på annen måte, øke kjøpsvolumet av slik energi.*forpliktelse om fornybar energi:* nasjonal støtteordning som krever at en gitt andel av energiprodusentenes produksjon utgjøres av energi fra fornybare kilder, at en gitt andel av energileverandørenes leveranser utgjøres av energi fra fornybare kilder, eller at en gitt andel av energiforbrukernes forbruk utgjøres av energi fra fornybare kilder.*arealbruksendring:* endring i bruken av et areal mellom de seks arealbrukskategoriene som benyttes av FNs klimapanel (skog, gressmark, dyrket mark, våtmark, bebyggelse og annet).*avansert biodrivstoff:* biodrivstoff fremstilt av råstoff på listen i vedlegg V, del A.*avansert flytende biobrensel:* flytende biobrensler fremstilt av råstoff på listen i vedlegg V, del A.*konvensjonelt biodrivstoff:* biodrivstoff som ikke er avansert biodrivstoffeller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B.*omsatt mengde:* det volum drivstoff eller brensel som en omsetter er eller hadde vært ansvarlig for å betale særavgifter for etter [særavgiftsforskriften § 2-1](forskrift/2001-12-11-1451/§2-1), også dersom drivstoffet eller brenselet er unntatt fra eller fritatt for særavgifter. Drivstoff eller brensler som utføres til Svalbard eller Jan Mayen omfattes ikke.*fartøy:* fiske- og fangstfartøy, fartøy i næring, spesialskip til oppdrag på kontinentalsokkelen og offentlige fartøy som ikke er i næring.*akvakulturanlegg:* anlegg eller installasjon i sjø, som har tilknytning til oppdrett av akvakulturdyr.*spesialskip til oppdrag på kontinentalsokkelen:* som definert i [særavgiftsforskriften § 4-4-3](forskrift/2001-12-11-1451/§4-4-3) (4).*offentlige fartøy som ikke er i næring:* fartøy som brukes i offentlig virksomhet, herunder militære fartøy.*videreforhandler:* den som videreselger drivstoff eller brensel fra omsetter og som håndterer drivstoffet eller brenselet fysisk.
+I dette kapittelet menes med
+
+1. *biomasse:* den biologisk nedbrytbare delen av produkter, avfall og rester av biologisk opprinnelse fra jordbruk, skogbruk, fiske, akvakultur og tilhørende næringer, samt den biologisk nedbrytbare delen av industriavfall og kommunalt avfall, likevel ikke avfall av fossilt opphav.
+2. *biodrivstoff:* flytende eller gassformig brensel til transport som er produsert av biomasse.
+3. *flytende biobrensel:* flytende brensel til andre energiformål enn transport, herunder til elektrisitet og oppvarming og kjøling, produsert av biomasse. Biogass er ikke omfattet.
+4. *avfall:* ethvert stoff eller materiale som innehaveren kvitter seg med eller har til hensikt eller er forpliktet til å kvitte seg med. Råvarer som bevisst har blitt endret for å regnes som avfall, skal ikke anses som avfall.
+5. *rester:* restprodukter fra jordbruk, havbruk, fiskeri og skogbruk, samt prosesseringsrester. Et prosesseringsrestprodukt er et stoff som er fremstilt i en produksjonsprosess som primært tar sikte på å fremstille noe annet. Restproduktet må ikke være et direkte mål med produksjonsprosessen og prosessen må ikke ha vært endret bevisst for å produsere restproduktet
+6. *lignocellulosemateriale*: materiale som består av lignin, cellulose og hemicellulose, f.eks. biomasse fra skoger, trebaserte energivekster og rester og avfall fra skogindustri.
+7. *celluloseholdig materiale som ikke er næringsmiddel*: råstoffer som hovedsakelig består av cellulose og hemicellulose, og som har lavere lignininnhold enn lignocellulosemateriale; det omfatter rester av næringsmiddel- og fôrvekster (f.eks. halm, stilker, agner og skall), energivekster i form av gress med lavt stivelsesinnhold (f.eks. raigress, rishirse, elefantgress, kjemperør og dekkvekster før og etter hovedvekster), industrielle rester (herunder fra næringsmiddel- og fôrvekster etter at vegetabilske oljer, sukker, stivelse og protein er utvunnet) og materiale fra bioavfall.
+8. *omsetter:* den som omsetter drivstoff eller brensel og er registrert etter [særavgiftsforskriften §§ 5-1](forskrift/2001-12-11-1451/§5-1) eller [5-2](forskrift/2001-12-11-1451/§5-2).
+9. *støtteordning:* alle virkemidler som EØS-stater benytter for å fremme bruken av energi fra fornybare kilder ved å redusere kostnaden ved denne energien, øke prisen den kan selges for eller ved hjelp av en forpliktelse om fornybar energi eller på annen måte, øke kjøpsvolumet av slik energi.
+10. *forpliktelse om fornybar energi:* nasjonal støtteordning som krever at en gitt andel av energiprodusentenes produksjon utgjøres av energi fra fornybare kilder, at en gitt andel av energileverandørenes leveranser utgjøres av energi fra fornybare kilder, eller at en gitt andel av energiforbrukernes forbruk utgjøres av energi fra fornybare kilder.
+11. *arealbruksendring:* endring i bruken av et areal mellom de seks arealbrukskategoriene som benyttes av FNs klimapanel (skog, gressmark, dyrket mark, våtmark, bebyggelse og annet).
+12. *avansert biodrivstoff:* biodrivstoff fremstilt av råstoff på listen i vedlegg V, del A.
+13. *avansert flytende biobrensel:* flytende biobrensler fremstilt av råstoff på listen i vedlegg V, del A.
+14. *konvensjonelt biodrivstoff:* biodrivstoff som ikke er avansert biodrivstoffeller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B.
+15. *omsatt mengde:* det volum drivstoff eller brensel som en omsetter er eller hadde vært ansvarlig for å betale særavgifter for etter [særavgiftsforskriften § 2-1](forskrift/2001-12-11-1451/§2-1), også dersom drivstoffet eller brenselet er unntatt fra eller fritatt for særavgifter. Drivstoff eller brensler som utføres til Svalbard eller Jan Mayen omfattes ikke.
+16. *fartøy:* fiske- og fangstfartøy, fartøy i næring, spesialskip til oppdrag på kontinentalsokkelen og offentlige fartøy som ikke er i næring.
+17. *akvakulturanlegg:* anlegg eller installasjon i sjø, som har tilknytning til oppdrett av akvakulturdyr.
+18. *spesialskip til oppdrag på kontinentalsokkelen:* som definert i [særavgiftsforskriften § 4-4-3](forskrift/2001-12-11-1451/§4-4-3) (4).
+19. *offentlige fartøy som ikke er i næring:* fartøy som brukes i offentlig virksomhet, herunder militære fartøy.
+20. *videreforhandler:* den som videreselger drivstoff eller brensel fra omsetter og som håndterer drivstoffet eller brenselet fysisk.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014), endret ved [forskrifter 21 nov 2018 nr. 1731](forskrift/2018-11-21-1731), [20 des 2022 nr. 2356](forskrift/2022-12-20-2356) (i kraft 1 jan 2023), [25 sep 2023 nr. 1516](forskrift/2023-09-25-1516) (i kraft 1 okt 2023), [16 des 2024 nr. 3392](forskrift/2024-12-16-3392) (i kraft 1 jan 2025), [11 des 2025 nr. 2608](forskrift/2025-12-11-2608) (i kraft 1 jan 2026).
 
@@ -1254,9 +1641,17 @@ I dette kapittelet menes med*biomasse:* den biologisk nedbrytbare delen av produ
 
 Omsetter av flytende drivstoff til veitrafikk skal sørge for at minst 20 volumprosent av total omsatt mengde flytende drivstoff per år består av biodrivstoff. Biogass skal holdes utenfor kravet.
 
-Ved oppfyllelsen av omsetningskravet i første ledd skal:minst 13,5 volumprosent bestå av avansert biodrivstoff eller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B,minst 1 volumprosent bestå av avansert biodrivstoff, ogomsetning av avansert biodrivstoff eller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B, utover kravene i bokstav a, telle dobbelt sammenlignet med konvensjonelt biodrivstoff.
+Ved oppfyllelsen av omsetningskravet i første ledd skal:
 
-Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:Omsetningskravet i første ledd er 21 volumprosent.Delkravet i andre ledd bokstav a er minst 14,5 volumprosent.Delkravet i andre ledd bokstav b er minst 2 volumprosent.
+1. minst 13,5 volumprosent bestå av avansert biodrivstoff eller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B,
+2. minst 1 volumprosent bestå av avansert biodrivstoff, og
+3. omsetning av avansert biodrivstoff eller biodrivstoff fremstilt av råstoff på listen i vedlegg V, del B, utover kravene i bokstav a, telle dobbelt sammenlignet med konvensjonelt biodrivstoff.
+
+Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:
+
+- Omsetningskravet i første ledd er 21 volumprosent.
+- Delkravet i andre ledd bokstav a er minst 14,5 volumprosent.
+- Delkravet i andre ledd bokstav b er minst 2 volumprosent.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014), endret ved [forskrifter 26 juni 2015 nr. 809](forskrift/2015-06-26-809) (i kraft 1 okt 2015), [27 okt 2016 nr. 1255](forskrift/2016-10-27-1255) (i kraft 1 jan 2017), [8 sep 2017 nr. 1372](forskrift/2017-09-08-1372) (i kraft 1 okt 2017), [21 nov 2018 nr. 1731](forskrift/2018-11-21-1731) (se denne for overgangsbestemmelser), [17 juni 2020 nr. 1221](forskrift/2020-06-17-1221) (i kraft 1 juli 2020), [24 sep 2020 nr. 1944](forskrift/2020-09-24-1944), [20 des 2022 nr. 2356](forskrift/2022-12-20-2356) (i kraft 1 jan 2023), [20 des 2023 nr. 2305](forskrift/2023-12-20-2305) (i kraft 1 jan 2024), [16 des 2024 nr. 3392](forskrift/2024-12-16-3392) (i kraft 1 jan 2025), [11 des 2025 nr. 2608](forskrift/2025-12-11-2608) (i kraft 1 jan 2026).
 
@@ -1272,7 +1667,10 @@ Omsetter av flytende drivstoff og flytende brensler til fartøy og akvakulturanl
 
 Ved oppfyllelsen av omsetningskravet i første ledd skal minst 1 volumprosent bestå av avansert biodrivstoff.
 
-Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:Omsetningskravet i første ledd er 8 volumprosent.Delkravet i andre ledd er minst 2 volumprosent.
+Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:
+
+- Omsetningskravet i første ledd er 8 volumprosent.
+- Delkravet i andre ledd er minst 2 volumprosent.
 
 Kravene i første og andre ledd gjelder ikke flytende drivstoff og flytende brensler som går til fartøy i utenriks fart, som definert i [særavgiftsforskriften § 4-4-1 (3)](forskrift/2001-12-11-1451/§4-4-1/ledd/3).
 
@@ -1284,11 +1682,18 @@ Omsetter av flytende drivstoff og flytende brensler skal, ved omsetning til andr
 
 Ved oppfyllelsen av omsetningskravet i første ledd skal minst 1 volumprosent bestå av avansert biodrivstoff.
 
-Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:Omsetningskravet i første ledd er 12 volumprosent.Delkravet i andre ledd er minst 2 volumprosent.
+Fra og med 1. januar 2027 skal følgende volumprosenter gjelde:
+
+- Omsetningskravet i første ledd er 12 volumprosent.
+- Delkravet i andre ledd er minst 2 volumprosent.
 
 Kravene i første og andre ledd gjelder ikke flytende drivstoff og flytende brensler som går til innretninger på kontinentalsokkelen, som definert i [særavgiftsforskriften § 4-4-3 (3)](forskrift/2001-12-11-1451/§4-4-3/ledd/3).
 
-Følgende typer flytende drivstoff og flytende brensler skal ikke medregnes i total omsatt mengde i første ledd:BensinTungdestillat (gassolje med tåkepunkt over 5 °C)Tungolje (mineralolje som inneholder destillasjonsrest).
+Følgende typer flytende drivstoff og flytende brensler skal ikke medregnes i total omsatt mengde i første ledd:
+
+1. Bensin
+2. Tungdestillat (gassolje med tåkepunkt over 5 °C)
+3. Tungolje (mineralolje som inneholder destillasjonsrest).
 
 > Tilføyd ved forskrift [20 des 2022 nr. 2356](forskrift/2022-12-20-2356) (i kraft 1 jan 2023), endret ved forskrifter [25 sep 2023 nr. 1516](forskrift/2023-09-25-1516) (i kraft 1 okt 2023, tidligere § 3-3b), [16 des 2024 nr. 3392](forskrift/2024-12-16-3392) (i kraft 1 jan 2025), [11 des 2025 nr. 2608](forskrift/2025-12-11-2608) (i kraft 1 jan 2026).
 
@@ -1324,7 +1729,10 @@ Ved omsetning av biodrivstoff utover omsetningskravet i [§ 3-3](forskrift/2004-
 
 ### § 3-5. Krav til oppfyllelse av bærekraftskriterier
 
-Biodrivstoff og flytende biobrensel somregnes med i oppfyllelsen av forpliktelser om fornybar energi, herunder [§§ 3-3](forskrift/2004-06-01-922/§3-3) til [3-4](forskrift/2004-06-01-922/§3-4) i denne forskrift, ellerer omfattet av økonomiske støtteordninger skal, uavhengig av råstoffets opprinnelsesland, oppfylle bærekraftskriteriene i [§ 3-6](forskrift/2004-06-01-922/§3-6) til [§ 3-9](forskrift/2004-06-01-922/§3-9).
+Biodrivstoff og flytende biobrensel som
+
+1. regnes med i oppfyllelsen av forpliktelser om fornybar energi, herunder [§§ 3-3](forskrift/2004-06-01-922/§3-3) til [3-4](forskrift/2004-06-01-922/§3-4) i denne forskrift, eller
+2. er omfattet av økonomiske støtteordninger skal, uavhengig av råstoffets opprinnelsesland, oppfylle bærekraftskriteriene i [§ 3-6](forskrift/2004-06-01-922/§3-6) til [§ 3-9](forskrift/2004-06-01-922/§3-9).
 
 Biodrivstoff og flytende biobrensel produsert av avfall og rester, med unntak av rester fra jordbruk, akvakultur, fiskeri og skogbruk, skal bare oppfylle kravet til reduksjon av klimagassutslipp i [§ 3-6](forskrift/2004-06-01-922/§3-6).
 
@@ -1338,7 +1746,17 @@ Bruk av biodrivstoff og flytende biobrensel som er omfattet av [§ 3-5](forskrif
 
 ### § 3-7. Arealkriterier for biodiversitet
 
-Biodrivstoff og flytende biobrensel som er omfattet av [§ 3-5](forskrift/2004-06-01-922/§3-5) skal ikke være fremstilt av råstoff fra arealer som etter 1. januar 2008 hadde en av følgende statuser, uansett om arealet fortsatt har slik status eller ikke:skog og annet tresatt areal med hjemmehørende arter der det ikke er noen synlige tegn på menneskelig aktivitet, og de økologiske prosessene ikke er betydelig forstyrret,arealer som er utpekt:ved lov eller av relevant myndighet for naturvernformål, ellerfor vern av sjeldne eller utryddelsestruede økosystemer eller arter anerkjent i internasjonale avtaler eller oppført på lister utarbeidet av mellomstatlige organisasjoner eller Den internasjonale naturvernorganisasjonen, og som er anerkjent i henhold til [EØS-avtalen](lov/1992-11-27-109/eøsl) med mindre det kan dokumenteres at produksjonen av råstoffet ikke kommer i strid med disse naturvernformålene,gressmark med stort biologisk mangfold som ernaturlige, det vil si gressmark som i fravær av inngrep fra mennesker fortsatt vil være gressmark og som opprettholder naturlig artssammensetning og økologiske særtrekk og prosesser, ellerikke-naturlige, det vil si gressmark som i fravær av inngrep fra mennesker vil opphøre å være gressmark og som er artsrik og ikke forringet, med mindre det kan dokumenteres at innhøsting av råstoffet er nødvendig for å opprettholde arealets status som gressmark.
+Biodrivstoff og flytende biobrensel som er omfattet av [§ 3-5](forskrift/2004-06-01-922/§3-5) skal ikke være fremstilt av råstoff fra arealer som etter 1. januar 2008 hadde en av følgende statuser, uansett om arealet fortsatt har slik status eller ikke:
+
+1. skog og annet tresatt areal med hjemmehørende arter der det ikke er noen synlige tegn på menneskelig aktivitet, og de økologiske prosessene ikke er betydelig forstyrret,
+2. arealer som er utpekt:
+
+   1. ved lov eller av relevant myndighet for naturvernformål, eller
+   2. for vern av sjeldne eller utryddelsestruede økosystemer eller arter anerkjent i internasjonale avtaler eller oppført på lister utarbeidet av mellomstatlige organisasjoner eller Den internasjonale naturvernorganisasjonen, og som er anerkjent i henhold til [EØS-avtalen](lov/1992-11-27-109/eøsl) med mindre det kan dokumenteres at produksjonen av råstoffet ikke kommer i strid med disse naturvernformålene,
+3. gressmark med stort biologisk mangfold som er
+
+   1. naturlige, det vil si gressmark som i fravær av inngrep fra mennesker fortsatt vil være gressmark og som opprettholder naturlig artssammensetning og økologiske særtrekk og prosesser, eller
+   2. ikke-naturlige, det vil si gressmark som i fravær av inngrep fra mennesker vil opphøre å være gressmark og som er artsrik og ikke forringet, med mindre det kan dokumenteres at innhøsting av råstoffet er nødvendig for å opprettholde arealets status som gressmark.
 
 Ved anvendelsen av første ledd bokstav c skal [EØS-avtalens vedlegg II kapittel XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 6d (forordning [(EU) nr. 1307/2014](eu/32014r1307)) gjelde som forskrift med de tilpasninger som følger av [vedlegg II kapittel XVII](avtale/avt-1992-05-02-1-v2/kapXVII), protokoll 1 til avtalen og avtalen for øvrig. Forordningens artikkel 2 skal ikke gjelde for gressmark som ligger innenfor EFTA-statenes territorium.
 
@@ -1346,7 +1764,11 @@ Ved anvendelsen av første ledd bokstav c skal [EØS-avtalens vedlegg II kapitte
 
 ### § 3-8. Arealkriterier for arealer med høyt karbonlager
 
-Biodrivstoff og flytende biobrensel som er omfattet av [§ 3-5](forskrift/2004-06-01-922/§3-5) skal ikke være produsert av råstoff fra arealer som i januar 2008 hadde følgende status, og som ikke lenger har slik status:våtmarksområder, det vil si arealer som er dekket eller mettet av vann i hele eller en stor del av året,sammenhengende skogkledde områder, det vil si arealer som omfatter mer enn én hektar med trær som er mer enn fem meter høye og har en trekronedekning på mer enn 30 %, eller trær som kan nå disse verdiene på stedet,arealer som omfatter mer enn én hektar med trær som er mer enn fem meter høye og har en trekronedekning på mellom 10 og 30 %, eller trær som kan nå disse verdiene på stedet, med mindre det kan dokumenteres at karbonlagrene i arealet før og etter omleggingen er slike at vilkårene i [§ 3-6](forskrift/2004-06-01-922/§3-6) fortsatt vil bli oppfylt når metoden i vedlegg II del C blir anvendt.
+Biodrivstoff og flytende biobrensel som er omfattet av [§ 3-5](forskrift/2004-06-01-922/§3-5) skal ikke være produsert av råstoff fra arealer som i januar 2008 hadde følgende status, og som ikke lenger har slik status:
+
+1. våtmarksområder, det vil si arealer som er dekket eller mettet av vann i hele eller en stor del av året,
+2. sammenhengende skogkledde områder, det vil si arealer som omfatter mer enn én hektar med trær som er mer enn fem meter høye og har en trekronedekning på mer enn 30 %, eller trær som kan nå disse verdiene på stedet,
+3. arealer som omfatter mer enn én hektar med trær som er mer enn fem meter høye og har en trekronedekning på mellom 10 og 30 %, eller trær som kan nå disse verdiene på stedet, med mindre det kan dokumenteres at karbonlagrene i arealet før og etter omleggingen er slike at vilkårene i [§ 3-6](forskrift/2004-06-01-922/§3-6) fortsatt vil bli oppfylt når metoden i vedlegg II del C blir anvendt.
 
 Bestemmelsene i denne paragrafen gjelder likevel ikke dersom arealet, på det tidspunktet råstoffet ble hentet ut, hadde samme status som i januar 2008.
 
@@ -1384,7 +1806,11 @@ Rapporteringsskjema utarbeidet av Miljødirektoratet skal benyttes ved rapporter
 
 ### § 3-10a. Krav om bruk av et massebalansesystem for rapportering på oppfyllelse av omsetningskrav og bærekraftskriterier
 
-For rapportering på oppfyllelse av bærekraftskriterier etter [§ 3-10](forskrift/2004-06-01-922/§3-10) skal det benyttes et massebalansesystem som:tillater at partier med råstoff eller biodrivstoff med ulike bærekraftsegenskaper kan blandes, innenfor en fysisk avgrenset lokalitet,krever at opplysninger om bærekraftsegenskaper og størrelsen på partiene i bokstav a forblir knyttet til blandingen, ogfastsetter at summen av alle partier som trekkes ut av blandingen skal beskrives som å ha de samme bærekraftsegenskapene i de samme mengdene som summen av alle partier som tilføres blandingen.
+For rapportering på oppfyllelse av bærekraftskriterier etter [§ 3-10](forskrift/2004-06-01-922/§3-10) skal det benyttes et massebalansesystem som:
+
+1. tillater at partier med råstoff eller biodrivstoff med ulike bærekraftsegenskaper kan blandes, innenfor en fysisk avgrenset lokalitet,
+2. krever at opplysninger om bærekraftsegenskaper og størrelsen på partiene i bokstav a forblir knyttet til blandingen, og
+3. fastsetter at summen av alle partier som trekkes ut av blandingen skal beskrives som å ha de samme bærekraftsegenskapene i de samme mengdene som summen av alle partier som tilføres blandingen.
 
 Massebalansen skal gjøres opp minst hver tredje måned, på hver lokalitet. Ved hvert oppgjør skal omsetter føre oversikt over mengdene fossilt drivstoff og flytende biodrivstoff eller flytende biobrensler, med tilhørende bærekraftsegenskaper, som var på lokaliteten, ble tatt inn og ut, og som gjenstår på lokaliteten i løpet av oppgjørsperioden.
 
@@ -1398,7 +1824,10 @@ Rapporteringen etter [§ 3-10](forskrift/2004-06-01-922/§3-10) og massebalanses
 
 Ved bruk av dokumentasjon som nevnt i [§ 3-10 sjuende ledd](forskrift/2004-06-01-922/§3-10/ledd/7), skal revisjonen dekke dokumentasjon fra alle ledd i forsyningskjeden.
 
-Revisjonen skal gjennomføres av en ekstern og uavhengig revisor som:har tilstrekkelig generelle ferdigheter og kompetanse: revisoren har god generell kompetanse innen gjennomføring av revisjoner, oghar relevante spesifikke ferdigheter og kompetanse: revisoren skal ha de nødvendige ferdigheter og kompetanse til å gjennomføre revisjonen av den spesifikke aktuelle produksjonskjeden og til å vurdere oppfyllelsen av de aktuelle bærekraftskriterier og relevant regelverk.
+Revisjonen skal gjennomføres av en ekstern og uavhengig revisor som:
+
+1. har tilstrekkelig generelle ferdigheter og kompetanse: revisoren har god generell kompetanse innen gjennomføring av revisjoner, og
+2. har relevante spesifikke ferdigheter og kompetanse: revisoren skal ha de nødvendige ferdigheter og kompetanse til å gjennomføre revisjonen av den spesifikke aktuelle produksjonskjeden og til å vurdere oppfyllelsen av de aktuelle bærekraftskriterier og relevant regelverk.
 
 Revisoren skal benytte anerkjent, relevant standard for slik revisjon.
 
@@ -1460,7 +1889,12 @@ Miljødirektoratet kan endre gebyrsatsene i [§§ 3-13](forskrift/2004-06-01-922
 
 ### § 3-17. Overtredelsesgebyr
 
-Miljødirektoratet kan ved overtredelse av følgende bestemmelser i dette kapitlet ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:[§ 3-3](forskrift/2004-06-01-922/§3-3). Krav til omsetning av biodrivstoff til veitrafikk[§ 3-3a](forskrift/2004-06-01-922/§3-3a). Krav til omsetning av avansert biodrivstoff til luftfart[§ 3-3b](forskrift/2004-06-01-922/§3-3b). Krav til omsetning av avansert biodrivstoff og biobrensel til sjøfart[§ 3-3c](forskrift/2004-06-01-922/§3-3c). Krav til omsetning av avansert biodrivstoff og biobrensel til andre formål
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser i dette kapitlet ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:
+
+1. [§ 3-3](forskrift/2004-06-01-922/§3-3). Krav til omsetning av biodrivstoff til veitrafikk
+2. [§ 3-3a](forskrift/2004-06-01-922/§3-3a). Krav til omsetning av avansert biodrivstoff til luftfart
+3. [§ 3-3b](forskrift/2004-06-01-922/§3-3b). Krav til omsetning av avansert biodrivstoff og biobrensel til sjøfart
+4. [§ 3-3c](forskrift/2004-06-01-922/§3-3c). Krav til omsetning av avansert biodrivstoff og biobrensel til andre formål
 
 For ileggelse av overtredelsesgebyr gjelder bestemmelsene i [kapittel 6b](forskrift/2004-06-01-922/kap6b).
 
@@ -1472,7 +1906,11 @@ For ileggelse av overtredelsesgebyr gjelder bestemmelsene i [kapittel 6b](forskr
 
 ### Vedlegg I. Beregning av livssyklus klimagassutslipp fra biodrivstoff og flytende biobrensel
 
-For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01-922/§3-6) skal klimagassutslipp fra biodrivstoff og flytende biobrensel beregnes på følgende måte:ved å bruke en standardverdi for hele produksjonsprosessen dersom en slik verdi er fastsatt i del A eller B i vedlegg II. Standardverdi for hele produksjonsprosessen kan bare benyttes dersom netto karbonutslipp som følge av arealbruksendring (verdien el) er lik eller mindre enn 0 som beregnet etter punkt 7 i del C av vedlegg II,ved å bruke en faktisk verdi beregnet etter metode fastsatt i del C av vedlegg II, ellerved å bruke en verdi beregnet som summen av faktorene i formelen i punkt 1 i del C av vedlegg II, der de disaggregerte standardverdiene i del D eller E i vedlegg II kan brukes til enkelte faktorer, og faktiske verdier beregnet etter metode fastsatt i del C av vedlegg II, for alle andre faktorer.
+For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01-922/§3-6) skal klimagassutslipp fra biodrivstoff og flytende biobrensel beregnes på følgende måte:
+
+1. ved å bruke en standardverdi for hele produksjonsprosessen dersom en slik verdi er fastsatt i del A eller B i vedlegg II. Standardverdi for hele produksjonsprosessen kan bare benyttes dersom netto karbonutslipp som følge av arealbruksendring (verdien el) er lik eller mindre enn 0 som beregnet etter punkt 7 i del C av vedlegg II,
+2. ved å bruke en faktisk verdi beregnet etter metode fastsatt i del C av vedlegg II, eller
+3. ved å bruke en verdi beregnet som summen av faktorene i formelen i punkt 1 i del C av vedlegg II, der de disaggregerte standardverdiene i del D eller E i vedlegg II kan brukes til enkelte faktorer, og faktiske verdier beregnet etter metode fastsatt i del C av vedlegg II, for alle andre faktorer.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014), endret ved [forskrift 21 nov 2018 nr. 1731](forskrift/2018-11-21-1731).
 
@@ -1532,43 +1970,90 @@ For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01
 
 ### C. Metode
 
-1. Klimagassutslipp fra produksjon og bruk av transportdrivstoff, biodrivstoff og flytende biobrensel skal beregnes slik:E = eec + el + ep + etd + eu – esca – eccs – eccr – eee,Der:
-E = samlet utslipp fra bruk av brenselet
-eec = utslipp fra utvinning eller dyrking av råstoff
-el = utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring
-ep = utslipp fra foredling
-etd = utslipp fra transport og distribusjon
-eu = utslipp fra bruk av brenselet
-esca = utslippsreduksjon fra akkumulering av karbon i jord gjennom forbedret landbruksforvaltning
-eccs = utslippsreduksjon fra fangst og geologisk lagring av karbon
-eccr = utslippsreduksjon fra fangst og erstatning av karbon
-eee = utslippsreduksjon fra overskuddselektrisitet fra kraftvarme.Utslipp fra produksjon av maskiner og utstyr skal ikke medregnes.
+1. Klimagassutslipp fra produksjon og bruk av transportdrivstoff, biodrivstoff og flytende biobrensel skal beregnes slik:
+
+   E = eec + el + ep + etd + eu – esca – eccs – eccr – eee,
+
+   Der:
+   E = samlet utslipp fra bruk av brenselet
+   eec = utslipp fra utvinning eller dyrking av råstoff
+   el = utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring
+   ep = utslipp fra foredling
+   etd = utslipp fra transport og distribusjon
+   eu = utslipp fra bruk av brenselet
+   esca = utslippsreduksjon fra akkumulering av karbon i jord gjennom forbedret landbruksforvaltning
+   eccs = utslippsreduksjon fra fangst og geologisk lagring av karbon
+   eccr = utslippsreduksjon fra fangst og erstatning av karbon
+   eee = utslippsreduksjon fra overskuddselektrisitet fra kraftvarme.
+
+   Utslipp fra produksjon av maskiner og utstyr skal ikke medregnes.
 2. Klimagassutslipp fra brensel, E, skal uttrykkes i gram CO2-ekvivalenter per MJ drivstoff, g CO2eq/MJ.
 3. Som unntak fra nr. 2 kan verdier som beregnes i form av g CO2eq/MJ for drivstoff, justeres for å ta hensyn til forskjellene mellom drivstoff når det gjelder utført nyttearbeid, uttrykt som km/MJ. Slike justeringer kan gjøres bare dersom forskjellen i utført nyttearbeid kan dokumenteres.
-4. Reduksjon av klimagassutslipp fra biodrivstoff og flytende biobrensel skal beregnes slik:REDUKSJON = (EF – EB )/ EF,Der:
-EB = samlet utslipp fra drivstoffet eller flytende biobrensel, og
-EF = samlet utslipp fra fossilt brensel som de sammenlignes med.
-5. De klimagassene som omfattes av nr. 1, er CO2, N2 O og CH4. For beregning av CO2-ekvivalens skal følgende verdier brukes for disse gassene.CO2 = 1
-N2O = 296
-CH4 = 23
+4. Reduksjon av klimagassutslipp fra biodrivstoff og flytende biobrensel skal beregnes slik:
+
+   REDUKSJON = (EF – EB )/ EF,
+
+   Der:
+   EB = samlet utslipp fra drivstoffet eller flytende biobrensel, og
+   EF = samlet utslipp fra fossilt brensel som de sammenlignes med.
+5. De klimagassene som omfattes av nr. 1, er CO2, N2 O og CH4. For beregning av CO2-ekvivalens skal følgende verdier brukes for disse gassene.
+
+   CO2 = 1
+   N2O = 296
+   CH4 = 23
 6. Utslipp fra utvinning eller dyrking av råstoff, eec, skal omfatte utslipp fra selve utvinnings- eller dyrkingsprosessen, fra innsamlingen av råstoff, fra svinn og lekkasjer, og fra produksjonen av kjemikalier eller produkter brukt ved utvinning eller dyrking. CO2-fangst ved dyrking av råstoff skal ikke regnes med. Sertifiserte reduksjoner av klimagassutslipp fra gassavbrenning ved oljeproduksjonsanlegg overalt i verden skal trekkes fra. Beregninger av utslipp fra dyrking kan utledes fra bruken av gjennomsnitt beregnet for mindre geografiske områder enn dem som er brukt ved beregningen av standardverdiene, som et alternativ til å bruke faktiske verdier.
-7. Utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring, el, skal beregnes ved å fordele samlede utslipp likt over 20 år. Til beregning av disse utslippene skal følgende regel gjelde:el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB \*,\* = Kvotienten som framkommer ved å dele molekylvekten av CO2 (44,010 g/mol) med molekylvekten av karbon (12,011 g/mol), er lik 3,664.Der:el = Klimagassutslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring (målt som masse CO2-ekvivalenter per enhet biodrivstoffenergi),
-CSR = Karbonlageret per arealenhet tilknyttet referansearealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). Referansearealbruken skal være arealbruken i januar 2008 eller 20 år før råstoffet ble hentet ut, avhengig av hva som er senest,
-CSA = Karbonlageret per arealenhet tilknyttet den faktiske arealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). I tilfeller der karbonlageret akkumuleres over mer enn ett år, skal verdien som tilskrives CSA, være det beregnede lageret per arealenhet etter 20 år, eller når avlingen er moden, avhengig av hva som er tidligst,
-P = Avlingens produktivitet (målt som biodrivstoffets eller det flytende biobrenselets energiinnhold per arealenhet per år), og
-eB = Bonus på 29 g CO2eq/MJ biodrivstoff eller flytende biobrensel dersom biomassen hentes ut fra utbedret forringet mark på de vilkårene som er fastsatt i nr. 8.
-8. Bonusen på 29 g CO2eq/MJ skal tildeles dersom det kan dokumenteres at arealet:Ikke ble brukt til landbruksformål eller noen annen virksomhet i januar 2008, oghører inn under én av følgende kategorier:kraftig forringet mark, herunder slik mark som tidligere ble brukt til landbruksformål,sterkt forurenset mark.Bonusen på 29 g CO2eq/MJ skal gjelde for et tidsrom på inntil 10 år fra den datoen da omleggingen av arealet til landbruksformål skjedde, forutsatt at det sikres en regelmessig økning av karbonlagrene og en betydelig reduksjon av erosjon for mark som hører inn under i), og at jordforurensingen for mark som hører inn under ii), blir redusert.
-9. Kategoriene nevnt i nr. 8 bokstav b), defineres slik:«Kraftig forringet mark» mark som i et betydelig tidsrom enten har hatt en betydelig saltopphopning eller har hatt et særlig lavt innhold av organisk materiale og har vært sterkt erodert,«Sterkt forurenset mark» mark som er uegnet til dyrking av næringsmidler og fôr på grunn av jordforurensing.Slik mark skal omfatte mark som har vært gjenstand for et kommisjonsvedtak i samsvar med artikkel 18 nr. 4 fjerde ledd.
+7. Utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring, el, skal beregnes ved å fordele samlede utslipp likt over 20 år. Til beregning av disse utslippene skal følgende regel gjelde:
+
+   el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB \*,
+
+   \* = Kvotienten som framkommer ved å dele molekylvekten av CO2 (44,010 g/mol) med molekylvekten av karbon (12,011 g/mol), er lik 3,664.
+
+   Der:
+
+   el = Klimagassutslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring (målt som masse CO2-ekvivalenter per enhet biodrivstoffenergi),
+   CSR = Karbonlageret per arealenhet tilknyttet referansearealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). Referansearealbruken skal være arealbruken i januar 2008 eller 20 år før råstoffet ble hentet ut, avhengig av hva som er senest,
+   CSA = Karbonlageret per arealenhet tilknyttet den faktiske arealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). I tilfeller der karbonlageret akkumuleres over mer enn ett år, skal verdien som tilskrives CSA, være det beregnede lageret per arealenhet etter 20 år, eller når avlingen er moden, avhengig av hva som er tidligst,
+   P = Avlingens produktivitet (målt som biodrivstoffets eller det flytende biobrenselets energiinnhold per arealenhet per år), og
+   eB = Bonus på 29 g CO2eq/MJ biodrivstoff eller flytende biobrensel dersom biomassen hentes ut fra utbedret forringet mark på de vilkårene som er fastsatt i nr. 8.
+8. Bonusen på 29 g CO2eq/MJ skal tildeles dersom det kan dokumenteres at arealet:
+
+   1. Ikke ble brukt til landbruksformål eller noen annen virksomhet i januar 2008, og
+   2. hører inn under én av følgende kategorier:
+
+      1. kraftig forringet mark, herunder slik mark som tidligere ble brukt til landbruksformål,
+      2. sterkt forurenset mark.
+
+   Bonusen på 29 g CO2eq/MJ skal gjelde for et tidsrom på inntil 10 år fra den datoen da omleggingen av arealet til landbruksformål skjedde, forutsatt at det sikres en regelmessig økning av karbonlagrene og en betydelig reduksjon av erosjon for mark som hører inn under i), og at jordforurensingen for mark som hører inn under ii), blir redusert.
+9. Kategoriene nevnt i nr. 8 bokstav b), defineres slik:
+
+   1. «Kraftig forringet mark» mark som i et betydelig tidsrom enten har hatt en betydelig saltopphopning eller har hatt et særlig lavt innhold av organisk materiale og har vært sterkt erodert,
+   2. «Sterkt forurenset mark» mark som er uegnet til dyrking av næringsmidler og fôr på grunn av jordforurensing.
+
+   Slik mark skal omfatte mark som har vært gjenstand for et kommisjonsvedtak i samsvar med artikkel 18 nr. 4 fjerde ledd.
 10. Som grunnlag for beregning av karbonlagre i jorden gjelder beregningsmetode i vedlegg IV.
-11. Utslipp fra foredling, ep, skal omfatte utslipp fra selve foredlingen, fra svinn og lekkasjer, og fra produksjonen av kjemikalier eller produkter brukt ved foredling.Ved innregning av forbruket av elektrisitet som ikke er produsert i brenselproduksjonsanlegget, forutsettes intensiteten i klimagassutslippet ved produksjon og distribusjon av denne elektrisiteten å være lik gjennomsnittlig utslippsintensitet ved produksjon og distribusjon av elektrisitet i en definert region. Som unntak fra denne regelen kan produsenter bruke en gjennomsnittsverdi for et enkelt elektrisitetsverks produksjon av elektrisitet, dersom dette verket ikke er koplet til elektrisitetsnettet.
+11. Utslipp fra foredling, ep, skal omfatte utslipp fra selve foredlingen, fra svinn og lekkasjer, og fra produksjonen av kjemikalier eller produkter brukt ved foredling.
+
+    Ved innregning av forbruket av elektrisitet som ikke er produsert i brenselproduksjonsanlegget, forutsettes intensiteten i klimagassutslippet ved produksjon og distribusjon av denne elektrisiteten å være lik gjennomsnittlig utslippsintensitet ved produksjon og distribusjon av elektrisitet i en definert region. Som unntak fra denne regelen kan produsenter bruke en gjennomsnittsverdi for et enkelt elektrisitetsverks produksjon av elektrisitet, dersom dette verket ikke er koplet til elektrisitetsnettet.
 12. Utslipp fra transport og distribusjon, etd, skal omfatte utslipp fra transport og lagring av råstoff og halvfabrikater, og fra lagring og distribusjon av ferdige varer. Utslipp fra transport og distribusjon som skal medregnes under nr. 6, skal ikke omfattes av dette nummer.
 13. Utslipp fra bruk av brenselet, eu, skal antas å være null for biodrivstoff og flytende biobrensel.
 14. Utslippsreduksjon fra fangst og geologisk lagring av karbon, eccs, som ikke allerede er medregnet i ep, skal begrenses til utslipp som er unngått gjennom fangst og lagring av CO2-utslipp som er direkte knyttet til utvinning, transport, foredling og distribusjon av brenselet.
 15. Utslippsreduksjon fra fangst og erstatning av karbon, eccr, skal begrenses til utslipp som unngås gjennom fangst av CO2 der karbonet kommer fra biomasse, og som brukes til å erstatte fossilt avledet CO2 som brukes i kommersielle produkter og tjenester.
 16. Utslippsreduksjon fra overskuddselektrisitet fra kraftvarme, eee, skal medregnes i forhold til den overskuddselektrisiteten som produseres ved brenselproduksjonsanlegg som bruker kraftvarme, unntatt når brenselet som brukes til kraftvarmen, er et annet biprodukt enn rester fra landbruksvekster. Ved innregning av denne overskuddselektrisiteten forutsettes størrelsen på kraftvarmeanlegget å være det minste som er nødvendig for at kraftvarmeanlegget skal kunne levere den varmen som kreves for å produsere brenselet. Reduksjonen av klimagassutslipp som er knyttet til denne overskuddselektrisiteten, skal antas å være lik mengden klimagassutslipp som ville blitt sluppet ut når en lik mengde elektrisitet ble produsert i et kraftanlegg med samme brensel som i kraftvarmeanlegget.
 17. Dersom en brenselproduksjonsprosess produserer en kombinasjon av det brenselet som utslippene beregnes for og ett eller flere produkter (biprodukter), skal klimagassutslippene deles mellom brenselet eller dets mellomprodukt og biproduktene sett i forhold til deres energiinnhold (bestemt ved den nedre brennverdien når det gjelder andre biprodukter enn elektrisitet).
-18. Når det gjelder beregningen nevnt i nr. 17, skal utslippene som skal deles, være eec + el + de fraksjonene av ep, etd og eee som skjer fram til og med prosesstrinnet der et biprodukt blir produsert. Dersom en fordeling av biprodukter har skjedd ved et tidligere prosesstrinn i livssyklusen, skal fraksjonen av disse utslippene som i det siste av disse prosesstrinnene er knyttet til produksjonen av mellomproduktet, brukes til dette formål i stedet for de samlede utslippene.Når det gjelder biodrivstoff og flytende biobrensel skal alle biprodukter, herunder elektrisitet som ikke hører inn under virkeområdet i nr. 16, medregnes med hensyn til den beregningen, unntatt for rester fra landbruksvekster, herunder halm, belger, maiskolber og nøtteskall. Biprodukter som har et negativt energiinnhold, skal anses å ha et energiinnhold på null når det gjelder beregningen.Avfall, rester fra landbruksvekster, herunder halm, bagasse, belger, maiskolber og nøtteskall, samt rester fra foredling, herunder råglyserin (glyserin som ikke er raffinert), skal anses å ha klimagassutslipp på null i de prosessene i deres livssyklus som skjer før innsamlingen av disse materialene.Når det gjelder brensel produsert i raffinerier, skal raffineriet brukes som den enheten som legges til grunn for beregningen nevnt i nr. 17.
-19. Med hensyn til beregningen nevnt i nr. 4, når det gjelder biodrivstoff, skal sammenligningsverdien for det fossile brenselet, EF, være det siste tilgjengelige faktiske gjennomsnittsutslippet fra den fossile delen av bensin og diesel som er brukt i EØS, som rapportert i henhold til direktiv [98/70/EF](eu/31998l0070). Dersom ingen slike data foreligger, skal verdien som brukes, være 83,8 g CO2eq/MJ.Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til elektrisitetsproduksjon, skal sammenligningsverdien for det fossile brenselet, EF, være 91 g CO2eq/MJ.Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til varmeproduksjon, skal sammenligningsverdien for det fossile brenselet, EF, være 77 g CO2eq/MJ.Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til kraftvarme, skal sammenligningsverdien for det fossile brenselet, EF, være 85 g CO2eq/MJ.
+18. Når det gjelder beregningen nevnt i nr. 17, skal utslippene som skal deles, være eec + el + de fraksjonene av ep, etd og eee som skjer fram til og med prosesstrinnet der et biprodukt blir produsert. Dersom en fordeling av biprodukter har skjedd ved et tidligere prosesstrinn i livssyklusen, skal fraksjonen av disse utslippene som i det siste av disse prosesstrinnene er knyttet til produksjonen av mellomproduktet, brukes til dette formål i stedet for de samlede utslippene.
+
+    Når det gjelder biodrivstoff og flytende biobrensel skal alle biprodukter, herunder elektrisitet som ikke hører inn under virkeområdet i nr. 16, medregnes med hensyn til den beregningen, unntatt for rester fra landbruksvekster, herunder halm, belger, maiskolber og nøtteskall. Biprodukter som har et negativt energiinnhold, skal anses å ha et energiinnhold på null når det gjelder beregningen.
+
+    Avfall, rester fra landbruksvekster, herunder halm, bagasse, belger, maiskolber og nøtteskall, samt rester fra foredling, herunder råglyserin (glyserin som ikke er raffinert), skal anses å ha klimagassutslipp på null i de prosessene i deres livssyklus som skjer før innsamlingen av disse materialene.
+
+    Når det gjelder brensel produsert i raffinerier, skal raffineriet brukes som den enheten som legges til grunn for beregningen nevnt i nr. 17.
+19. Med hensyn til beregningen nevnt i nr. 4, når det gjelder biodrivstoff, skal sammenligningsverdien for det fossile brenselet, EF, være det siste tilgjengelige faktiske gjennomsnittsutslippet fra den fossile delen av bensin og diesel som er brukt i EØS, som rapportert i henhold til direktiv [98/70/EF](eu/31998l0070). Dersom ingen slike data foreligger, skal verdien som brukes, være 83,8 g CO2eq/MJ.
+
+    Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til elektrisitetsproduksjon, skal sammenligningsverdien for det fossile brenselet, EF, være 91 g CO2eq/MJ.
+
+    Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til varmeproduksjon, skal sammenligningsverdien for det fossile brenselet, EF, være 77 g CO2eq/MJ.
+
+    Med hensyn til beregningen nevnt i nr. 4, når det gjelder flytende biobrensel som brukes til kraftvarme, skal sammenligningsverdien for det fossile brenselet, EF, være 85 g CO2eq/MJ.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1764,8 +2249,19 @@ eB = Bonus på 29 g CO2eq/MJ biodrivstoff eller flytende biobrensel dersom bioma
 - Tilgjengeligheten av næringsmidler til overkommelige priser, særlig for mennesker i utviklingsland
 - Andre generelle utviklingsspørsmål
 - Landrettigheter
-- Oppfølging av kravene i følgende konvensjoner fra Den internasjonale arbeidsorganisasjon (ILO):Konvensjonen om tvangsarbeid (nr. 29),Konvensjonen om foreningsfrihet og vern av organisasjonsretten (nr. 87),Konvensjonen om gjennomføring av prinsipper for organisasjonsretten og retten til å føre kollektive forhandlinger (nr. 98),Konvensjonen om lik lønn for mannlige og kvinnelige arbeidere for arbeid av likt verd (nr. 100),Konvensjonen om avskaffelse av tvangsarbeid (nr. 105),Konvensjonen om diskriminering i sysselsetting og yrke (nr. 111),Konvensjonen om minstealder for adgang til sysselsetting (nr. 138),Konvensjonen om forbud mot og umiddelbare tiltak for avskaffelse av de verste former for barnearbeid (nr. 182),
-og[Cartagena-protokollen](traktat/2000-01-29-1) om biosikkerhet,Konvensjonen om internasjonal handel med ville dyre- og plantearter som er truet av utryddelse ([CITES).](traktat/1973-03-03-1)
+- Oppfølging av kravene i følgende konvensjoner fra Den internasjonale arbeidsorganisasjon (ILO):
+
+  - Konvensjonen om tvangsarbeid (nr. 29),
+  - Konvensjonen om foreningsfrihet og vern av organisasjonsretten (nr. 87),
+  - Konvensjonen om gjennomføring av prinsipper for organisasjonsretten og retten til å føre kollektive forhandlinger (nr. 98),
+  - Konvensjonen om lik lønn for mannlige og kvinnelige arbeidere for arbeid av likt verd (nr. 100),
+  - Konvensjonen om avskaffelse av tvangsarbeid (nr. 105),
+  - Konvensjonen om diskriminering i sysselsetting og yrke (nr. 111),
+  - Konvensjonen om minstealder for adgang til sysselsetting (nr. 138),
+  - Konvensjonen om forbud mot og umiddelbare tiltak for avskaffelse av de verste former for barnearbeid (nr. 182),
+    og
+  - [Cartagena-protokollen](traktat/2000-01-29-1) om biosikkerhet,
+  - Konvensjonen om internasjonal handel med ville dyre- og plantearter som er truet av utryddelse ([CITES).](traktat/1973-03-03-1)
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1801,7 +2297,17 @@ Forklaring: 1 = Organisk jord, 2 = Sandjord, 3 = Våtmarksjord, 4 = Vulkansk jor
 
 ### 2. Ensartet representasjon av karbonlagre i jord
 
-Ved beregning av det karbonlageret per arealenhet som er tilknyttet *CSR*og *CSA*, skal følgende regler gjelde:Hele det arealet som karbonlagrene i jorden beregnes for, skal ha sammebiofysiske forhold med hensyn til klima og jordtype,forvaltningshistorie med hensyn til jordbearbeiding,historie med hensyn til tilførsel av karbon til jorden.Det karbonlageret som tilsvarer den faktiske arealbruken, *CSA*, skal forstås somi tilfelle tap av karbon: det beregnede stabiliserte karbonlageret i jorden med den nye bruken,i tilfelle akkumulering av karbon: det beregnede karbonlageret etter 20 år eller når avlingen er moden, avhengig av hva som inntreffer først.
+Ved beregning av det karbonlageret per arealenhet som er tilknyttet *CSR*og *CSA*, skal følgende regler gjelde:
+
+1. Hele det arealet som karbonlagrene i jorden beregnes for, skal ha samme
+
+   1. biofysiske forhold med hensyn til klima og jordtype,
+   2. forvaltningshistorie med hensyn til jordbearbeiding,
+   3. historie med hensyn til tilførsel av karbon til jorden.
+2. Det karbonlageret som tilsvarer den faktiske arealbruken, *CSA*, skal forstås som
+
+   - i tilfelle tap av karbon: det beregnede stabiliserte karbonlageret i jorden med den nye bruken,
+   - i tilfelle akkumulering av karbon: det beregnede karbonlageret etter 20 år eller når avlingen er moden, avhengig av hva som inntreffer først.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1886,15 +2392,24 @@ For *CFB*kan verdien 0,47 brukes.
 
 5.1.2.*Levende biomasse under jord*
 
-Ved beregning av *CBGB*brukes en av følgende to formler:*CBGB*= *BBGB*× *CFB*
-der:
-CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
-BBGB = vekten av levende biomasse under jorden (målt som masse tørrstoff per hektar),
-CFB = karbonandelen av tørrstoffet i levende biomasse (målt som masse karbon per masse tørrstoff).For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BBGB*være gjennomsnittsvekten av levende biomasse under jorden under produksjonssyklusen.For *CFB*kan verdien 0,47 brukes.*CBGB*= *CAGB*× *R*
-der:
-CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
-CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar),
-R = forholdet mellom karbonlageret i levende biomasse under jorden og karbonlageret i levende biomasse over jorden.For *R* kan det brukes egnede verdier fra nr. 8.
+Ved beregning av *CBGB*brukes en av følgende to formler:
+
+1. *CBGB*= *BBGB*× *CFB*
+   der:
+   CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
+   BBGB = vekten av levende biomasse under jorden (målt som masse tørrstoff per hektar),
+   CFB = karbonandelen av tørrstoffet i levende biomasse (målt som masse karbon per masse tørrstoff).
+
+   For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BBGB*være gjennomsnittsvekten av levende biomasse under jorden under produksjonssyklusen.
+
+   For *CFB*kan verdien 0,47 brukes.
+2. *CBGB*= *CAGB*× *R*
+   der:
+   CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
+   CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar),
+   R = forholdet mellom karbonlageret i levende biomasse under jorden og karbonlageret i levende biomasse over jorden.
+
+   For *R* kan det brukes egnede verdier fra nr. 8.
 
 5.2.*Dødt organisk materiale*
 
@@ -2555,7 +3070,10 @@ Interprosentilområdet angitt over gjenspeiler 90 % av resultatene ved bruk av 
 
 B. Biodrivstoff og flytende biobrensler der de beregnede utslippene som følge av indirekte arealbruksendringer anses for å være null
 
-Biodrivstoff og flytende biobrensler produsert av følgende råstoffkategorier anses for å ha beregnede utslipp som følge av indirekte arealbruksendringer på null:Råstoff som ikke er oppført i del A i dette vedlegg.Råstoff hvis produksjon har ført til direkte arealbruksendringer, dvs. en endring fra en av følgende IPCC-kategorier for arealdekke: skogsareal, gressmark, våtmarksområder, bebygde områder eller andre arealer til dyrket mark eller dyrket mark med flerårige vekster. Dersom dette er tilfellet, skal en verdi for utslipp som følge av direkte arealbruksendringer (el) ha vært beregnet i samsvar med del C nr. 7 i vedlegg II. Flerårige vekster defineres som vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omdriftstid og oljepalmer.
+Biodrivstoff og flytende biobrensler produsert av følgende råstoffkategorier anses for å ha beregnede utslipp som følge av indirekte arealbruksendringer på null:
+
+1. Råstoff som ikke er oppført i del A i dette vedlegg.
+2. Råstoff hvis produksjon har ført til direkte arealbruksendringer, dvs. en endring fra en av følgende IPCC-kategorier for arealdekke: skogsareal, gressmark, våtmarksområder, bebygde områder eller andre arealer til dyrket mark eller dyrket mark med flerårige vekster. Dersom dette er tilfellet, skal en verdi for utslipp som følge av direkte arealbruksendringer (el) ha vært beregnet i samsvar med del C nr. 7 i vedlegg II. Flerårige vekster defineres som vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omdriftstid og oljepalmer.
 
 > Tilføyd ved [forskrift 21 nov 2018 nr. 1731](forskrift/2018-11-21-1731)
 
@@ -2575,19 +3093,48 @@ Oversettelsen er uoffisiell.
 
 ### § 4-1. Gjennomføring av forordning (EU) 2019/1021 om persistente organiske forbindelser (POPs-forordningen)
 
-Forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser (POPs-forordningen), som inntatt i [EØS-avtalen vedlegg II kapittel XV](avtale/avt-1992-05-02-1-v2/kapXV) nr. 12w, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2020/784](eu/32020r0784)forordning [(EU) 2020/1203](eu/32020r1203)forordning [(EU) 2020/1204](eu/32020r1204)forordning [(EU) 2021/115](eu/32021r0115)forordning [(EU) 2021/277](eu/32021r0277)forordning [(EU) 2022/2291](eu/32022r2291)forordning [(EU) 2023/866](eu/32023r0866)forordning [(EU) 2022/2400](eu/32022r2400)forordning [(EU) 2023/1608](eu/32023r1608)forordning [(EU) 2024/2555](eu/32024r2555)forordning [(EU) 2024/2570](eu/32024r2570)forordning [(EU) 2025/1482](eu/32025r1482)forordning [(EU) 2025/718](eu/32025r0718)forordning [(EU) 2025/843](eu/32025r0843)forordning [(EU) 2025/1399](eu/32025r1399)forordning [(EU) 2025/1930](eu/32025r1930).
+Forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser (POPs-forordningen), som inntatt i [EØS-avtalen vedlegg II kapittel XV](avtale/avt-1992-05-02-1-v2/kapXV) nr. 12w, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2020/784](eu/32020r0784)
+- forordning [(EU) 2020/1203](eu/32020r1203)
+- forordning [(EU) 2020/1204](eu/32020r1204)
+- forordning [(EU) 2021/115](eu/32021r0115)
+- forordning [(EU) 2021/277](eu/32021r0277)
+- forordning [(EU) 2022/2291](eu/32022r2291)
+- forordning [(EU) 2023/866](eu/32023r0866)
+- forordning [(EU) 2022/2400](eu/32022r2400)
+- forordning [(EU) 2023/1608](eu/32023r1608)
+- forordning [(EU) 2024/2555](eu/32024r2555)
+- forordning [(EU) 2024/2570](eu/32024r2570)
+- forordning [(EU) 2025/1482](eu/32025r1482)
+- forordning [(EU) 2025/718](eu/32025r0718)
+- forordning [(EU) 2025/843](eu/32025r0843)
+- forordning [(EU) 2025/1399](eu/32025r1399)
+- forordning [(EU) 2025/1930](eu/32025r1930).
 
 > Endret ved [forskrifter 22 sep 2008 nr. 1039](forskrift/2008-09-22-1039), [1 aug 2012 nr. 844](forskrift/2012-08-01-844), [27 nov 2013 nr. 1370](forskrift/2013-11-27-1370), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [22 juli 2014 nr. 995](forskrift/2014-07-22-995), [7 mai 2015 nr. 486](forskrift/2015-05-07-486), [6 feb 2016 nr. 106](forskrift/2016-02-06-106), [9 juli 2016 nr. 911](forskrift/2016-07-09-911), [4 juni 2016 nr. 576](forskrift/2016-06-04-576) (i kraft 30 sep 2016), [4 okt 2016 nr. 1168](forskrift/2016-10-04-1168), [4 mai 2020 nr. 933](forskrift/2020-05-04-933), [26 april 2021 nr. 1295](forskrift/2021-04-26-1295), [17 des 2021 nr. 3716](forskrift/2021-12-17-3716), [28 april 2023 nr. 663](forskrift/2023-04-28-663), [22 sep 2023 nr. 1512](forskrift/2023-09-22-1512), [27 okt 2023 nr. 1750](forskrift/2023-10-27-1750), [27 okt 2023 nr. 1780](forskrift/2023-10-27-1780), [14 mars 2025 nr. 461](forskrift/2025-03-14-461), [10 feb 2026 nr. 181](forskrift/2026-02-10-181), [23 mars 2026 nr. 509](forskrift/2026-03-23-509).
 
 ### § 4-2. Forbud mot eksport av stoff, stoffblandinger og produkter som reguleres i POPs-forordningen vedlegg I
 
-Det er forbudt å eksportere følgende stoff, alene eller i stoffblandinger og produkter, til land utenfor EØS-området i den utstrekning stoffene er forbudt å omsette i henhold til [§ 4-1](forskrift/2004-06-01-922/§4-1):TetrabromdifenyleterPentabromdifenyleterHexabromdifenyleterHeptabromdifenyleterPFOS i brannskum, impregneringsmidler, tekstiler og andre belagte materialerKortkjedede klorparafinerHeksabromosyklododekan.Pentaklorfenol og dets salter og estereDekabromdifenyleter.
+Det er forbudt å eksportere følgende stoff, alene eller i stoffblandinger og produkter, til land utenfor EØS-området i den utstrekning stoffene er forbudt å omsette i henhold til [§ 4-1](forskrift/2004-06-01-922/§4-1):
+
+1. Tetrabromdifenyleter
+2. Pentabromdifenyleter
+3. Hexabromdifenyleter
+4. Heptabromdifenyleter
+5. PFOS i brannskum, impregneringsmidler, tekstiler og andre belagte materialer
+6. Kortkjedede klorparafiner
+7. Heksabromosyklododekan.
+8. Pentaklorfenol og dets salter og estere
+9. Dekabromdifenyleter.
 
 > Tilføyd ved [forskrift 27 nov 2013 nr. 1370](forskrift/2013-11-27-1370), endret ved [forskrifter 22 juli 2014 nr. 995](forskrift/2014-07-22-995), [9 juli 2016 nr. 911](forskrift/2016-07-09-911), [4 mai 2021 nr. 1442](forskrift/2021-05-04-1442).
 
 ### § 4-3. Overtredelsesgebyr
 
-Miljødirektoratet kan ved overtredelse av følgende bestemmelser i regelverket som er gjennomført i [§ 4-1](forskrift/2004-06-01-922/§4-1) ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:forordning [(EF) 2019/1021](eu/32019r1021) om persistente organiske forurensninger (POPs), artikkel 3 nr. 1 og nr. 2 om forbud mot og restriksjoner for produksjon, omsetning og bruk av nærmere angitte stoffer.
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser i regelverket som er gjennomført i [§ 4-1](forskrift/2004-06-01-922/§4-1) ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:
+
+1. forordning [(EF) 2019/1021](eu/32019r1021) om persistente organiske forurensninger (POPs), artikkel 3 nr. 1 og nr. 2 om forbud mot og restriksjoner for produksjon, omsetning og bruk av nærmere angitte stoffer.
 
 For ileggelse av overtredelsesgebyr gjelder bestemmelsene i kapittel 6b.
 
@@ -2603,7 +3150,9 @@ For ileggelse av overtredelsesgebyr gjelder bestemmelsene i kapittel 6b.
 
 ### Konsolidert versjon av forordning om persistente organiske forbindelser (POPs) på engelsk
 
-Nedenfor gjengis til informasjon forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser. Forordningen er konsolidert 17.oktober 2024 og inneholder bare bestemmelser som var gjeldende denne datoen.Konsolidert forordning [(EU) 2019/1021](eu/32019r1021): [pdf-fil](static/SF/32019r1021e-k-02.pdf).
+Nedenfor gjengis til informasjon forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser. Forordningen er konsolidert 17.oktober 2024 og inneholder bare bestemmelser som var gjeldende denne datoen.
+
+- Konsolidert forordning [(EU) 2019/1021](eu/32019r1021): [pdf-fil](static/SF/32019r1021e-k-02.pdf).
 
 Den konsoliderte forordningen er tilgjengelige på alle offisielle EU-språk på nettsidene [EUR-Lex](https://eur-lex.europa.eu/search.html?DTA=2019&SUBDOM_INIT=CONSLEG&DB_TYPE_OF_ACT=regulation&DTS_SUBDOM=CONSLEG&typeOfActStatus=REGULATION&DTS_DOM=EU_LAW&lang=en&type=advanced&qid=1639505278339&DTN=1021).
 
@@ -2611,7 +3160,30 @@ Den konsoliderte forordningen er tilgjengelige på alle offisielle EU-språk på
 
 ### POPs-forordningen på dansk
 
-Nedenfor gjengis til informasjon følgende endringsrettsakter til forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser (POPs).Forordning [(EU) 2020/784](eu/32020r0784) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) med senere korrigeringer (PFOA, dets salter og PFOA-relaterte forbindelser):[pdf-fil](static/SF/32020r0784d-01.pdf)[pdf-fil](static/SF/32020r0784d-r-01.pdf)Forordning [(EU) 2020/1203](eu/32020r1203) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOS): [pdf-fil](static/SF/32020r1203d-01.pdf)Forordning [(EU) 2020/1204](eu/32020r1204) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (dikofol): [pdf-fil](static/SF/32020r1204d-01.pdf)Forordning [(EU) 2021/115](eu/32021r0115) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32021r0115d-01.pdf)Forordning [(EU) 2021/277](eu/32021r0277) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PCP): [pdf-fil](static/SF/32021r0277d-01.pdf)Forordning [(EU) 2022/2291](eu/32022r2291) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (HCB): [pdf-fil](static/SF/32022r2291d-01.pdf)Forordning [(EU) 2023/866](eu/32023r0866) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32023r0866d-01.pdf)Forordning [(EU) 2022/2400](eu/32022r2400) om endring av vedlegg IV og V til forordning [(EU) 2019/1021](eu/32019r1021) med senere korrigeringer (POP-er i avfall):[pdf-fil](static/SF/32022r2400d-01.pdf)[pdf-fil](static/SF/32022r2400d-r-01.pdf)Forordning [(EU) 2023/1608](eu/32023r1608) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFHxS): [pdf-fil](static/SF/32023r1608d-01.pdf)Forordning [(EU) 2024/2555](eu/32024r2555) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (HBCDD): [pdf-fil](static/SF/32024r2555d-01.pdf)Forordning [(EU) 2024/2570](eu/32024r2570) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (metoksyklor): [pdf-fil](static/SF/32024r2570d-01.pdf)Forordning [(EU) 2025/1482](eu/32025r1482) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PBDE): [pdf-fil](static/SF/32025r1482d-01.pdf).Forordning [(EU) 2025/718](eu/32025r0718) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOS): [pdf-fil](static/SF/32025r0718d-01.pdf)Forordning [(EU) 2025/843](eu/32025r0843) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (UV-328): [pdf-fil](static/SF/32025r0843d-01.pdf)Forordning [(EU) 2025/1399](eu/32025r1399) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32025r1399d-01.pdf)Forordning [(EU) 2025/1930](eu/32025r1930) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (Dekloran plus): [pdf-fil](static/SF/32025r1930d-01.pdf)
+Nedenfor gjengis til informasjon følgende endringsrettsakter til forordning [(EU) 2019/1021](eu/32019r1021) om persistente organiske forbindelser (POPs).
+
+- Forordning [(EU) 2020/784](eu/32020r0784) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) med senere korrigeringer (PFOA, dets salter og PFOA-relaterte forbindelser):
+
+  - [pdf-fil](static/SF/32020r0784d-01.pdf)
+  - [pdf-fil](static/SF/32020r0784d-r-01.pdf)
+- Forordning [(EU) 2020/1203](eu/32020r1203) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOS): [pdf-fil](static/SF/32020r1203d-01.pdf)
+- Forordning [(EU) 2020/1204](eu/32020r1204) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (dikofol): [pdf-fil](static/SF/32020r1204d-01.pdf)
+- Forordning [(EU) 2021/115](eu/32021r0115) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32021r0115d-01.pdf)
+- Forordning [(EU) 2021/277](eu/32021r0277) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PCP): [pdf-fil](static/SF/32021r0277d-01.pdf)
+- Forordning [(EU) 2022/2291](eu/32022r2291) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (HCB): [pdf-fil](static/SF/32022r2291d-01.pdf)
+- Forordning [(EU) 2023/866](eu/32023r0866) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32023r0866d-01.pdf)
+- Forordning [(EU) 2022/2400](eu/32022r2400) om endring av vedlegg IV og V til forordning [(EU) 2019/1021](eu/32019r1021) med senere korrigeringer (POP-er i avfall):
+
+  - [pdf-fil](static/SF/32022r2400d-01.pdf)
+  - [pdf-fil](static/SF/32022r2400d-r-01.pdf)
+- Forordning [(EU) 2023/1608](eu/32023r1608) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFHxS): [pdf-fil](static/SF/32023r1608d-01.pdf)
+- Forordning [(EU) 2024/2555](eu/32024r2555) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (HBCDD): [pdf-fil](static/SF/32024r2555d-01.pdf)
+- Forordning [(EU) 2024/2570](eu/32024r2570) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (metoksyklor): [pdf-fil](static/SF/32024r2570d-01.pdf)
+- Forordning [(EU) 2025/1482](eu/32025r1482) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PBDE): [pdf-fil](static/SF/32025r1482d-01.pdf).
+- Forordning [(EU) 2025/718](eu/32025r0718) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOS): [pdf-fil](static/SF/32025r0718d-01.pdf)
+- Forordning [(EU) 2025/843](eu/32025r0843) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (UV-328): [pdf-fil](static/SF/32025r0843d-01.pdf)
+- Forordning [(EU) 2025/1399](eu/32025r1399) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (PFOA): [pdf-fil](static/SF/32025r1399d-01.pdf)
+- Forordning [(EU) 2025/1930](eu/32025r1930) om endring av vedlegg I til forordning [(EU) 2019/1021](eu/32019r1021) (Dekloran plus): [pdf-fil](static/SF/32025r1930d-01.pdf)
 
 > Tilføyd ved [forskrift 6 feb 2016 nr. 106](forskrift/2016-02-06-106), endret ved [forskrifter 9 juli 2016 nr. 911](forskrift/2016-07-09-911), [4 juni 2016 nr. 576](forskrift/2016-06-04-576) (i kraft 30 sep 2016), [4 okt 2016 nr. 1168](forskrift/2016-10-04-1168), [4 mai 2020 nr. 933](forskrift/2020-05-04-933), [26 april 2021 nr. 1295](forskrift/2021-04-26-1295), [17 des 2021 nr. 3716](forskrift/2021-12-17-3716), [28 april 2023 nr. 663](forskrift/2023-04-28-663), [22 sep 2023 nr. 1512](forskrift/2023-09-22-1512), [27 okt 2023 nr. 1750](forskrift/2023-10-27-1750), [27 okt 2023 nr. 1780](forskrift/2023-10-27-1780), [14 mars 2025 nr. 461](forskrift/2025-03-14-461), [10 feb 2026 nr. 181](forskrift/2026-02-10-181), [23 mars 2026 nr. 509](forskrift/2026-03-23-509).
 
@@ -2735,7 +3307,11 @@ Miljødirektoratet eller den direktoratet bemyndiger skal kreve inn gebyret.
 
 ### § 6a-6. Overtredelsesgebyr
 
-Miljødirektoratet kan ved overtredelse av følgende bestemmelser i regelverket som er gjennomført i [§ 6a-1](forskrift/2004-06-01-922/§6a-1) ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 3 om forebygging av utslipp av fluorholdige klimagasser,forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 11 nr. 4 om ulovlig kjøp og salg av fluorholdige klimagasser,forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 11 nr. 5 om salg av ikke-hermetisk lukket utstyr med fluorholdige klimagasser uten å kontrollere at installasjon gjøres av sertifisert virksomhet.
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser i regelverket som er gjennomført i [§ 6a-1](forskrift/2004-06-01-922/§6a-1) ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:
+
+1. forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 3 om forebygging av utslipp av fluorholdige klimagasser,
+2. forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 11 nr. 4 om ulovlig kjøp og salg av fluorholdige klimagasser,
+3. forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige klimagasser, artikkel 11 nr. 5 om salg av ikke-hermetisk lukket utstyr med fluorholdige klimagasser uten å kontrollere at installasjon gjøres av sertifisert virksomhet.
 
 For ileggelse av overtredelsesgebyr gjelder bestemmelsene i kapittel 6b.
 
@@ -2845,7 +3421,11 @@ Foretak kan ilegges overtredelsesgebyr dersom overtredelsen ble begått av noen 
 
 ### § 6b-2. Ileggelse og utmåling av overtredelsesgebyr
 
-Ved vurderingen av om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, skal det blant annet tas hensyn tillovbruddets grovhet, herunder om lovbruddet har medført risiko for helse eller miljøom den ansvarlige tidligere har begått liknende lovbruddmomentene som nevnt i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd for fysiske personer og [§ 46](lov/1967-02-10/§46) andre ledd for foretak.
+Ved vurderingen av om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, skal det blant annet tas hensyn til
+
+1. lovbruddets grovhet, herunder om lovbruddet har medført risiko for helse eller miljø
+2. om den ansvarlige tidligere har begått liknende lovbrudd
+3. momentene som nevnt i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd for fysiske personer og [§ 46](lov/1967-02-10/§46) andre ledd for foretak.
 
 Overtredelsesgebyr for foretak skal ikke overstige 15 ganger folketrygdens grunnbeløp. Overtredelsesgebyr for fysiske personer skal ikke overstige 2 ganger folketrygdens grunnbeløp. Grunnbeløpet på overtredelsestidspunktet legges til grunn ved beregningen av overtredelsesgebyrets størrelse.
 
@@ -2893,4 +3473,10 @@ I tillegg til det som fremgår av bestemmelsene i denne forskriften, er rette fo
 
 ### § 7-7. Ikrafttreden og oppheving av gjeldende forskrifter
 
-Forskriften trer i kraft 1. juli 2004. Fra samme tidspunkt oppheves:[forskrift 28. juli 1999 nr. 944](forskrift/1999-07-28-944) om forbud mot ftalater i leketøy og en del sped- og småbarnsprodukter til barn under 36 måneder,[forskrift 22. mars 2000 nr. 287](forskrift/2000-03-22-287) om kvaliteten på bensin og autodiesel til bruk i motorvogner,[forskrift 20. desember 2002 nr. 1818](forskrift/2002-12-20-1818) om ozonreduserende stoffer,[forskrift 20. desember 2002 nr. 1823](forskrift/2002-12-20-1823) om begrensninger i bruk m.m. av enkelte farlige kjemikalier,[forskrift 12. mars 2004 nr. 535](forskrift/2004-03-12-535) om endring i [forskrift 20. desember 2002 nr. 1823](forskrift/2002-12-20-1823) om begrensninger i bruk m.m. av enkelte farlige kjemikalier.
+Forskriften trer i kraft 1. juli 2004. Fra samme tidspunkt oppheves:
+
+- [forskrift 28. juli 1999 nr. 944](forskrift/1999-07-28-944) om forbud mot ftalater i leketøy og en del sped- og småbarnsprodukter til barn under 36 måneder,
+- [forskrift 22. mars 2000 nr. 287](forskrift/2000-03-22-287) om kvaliteten på bensin og autodiesel til bruk i motorvogner,
+- [forskrift 20. desember 2002 nr. 1818](forskrift/2002-12-20-1818) om ozonreduserende stoffer,
+- [forskrift 20. desember 2002 nr. 1823](forskrift/2002-12-20-1823) om begrensninger i bruk m.m. av enkelte farlige kjemikalier,
+- [forskrift 12. mars 2004 nr. 535](forskrift/2004-03-12-535) om endring i [forskrift 20. desember 2002 nr. 1823](forskrift/2002-12-20-1823) om begrensninger i bruk m.m. av enkelte farlige kjemikalier.

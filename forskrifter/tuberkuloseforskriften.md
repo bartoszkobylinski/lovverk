@@ -15,7 +15,7 @@ xml_hash: "8f61ebe72f23cf6374fe5176c741e253d1c3a4d11cba89122f8eff2f3924a6bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ For personer som oppholder seg utenfor Norge og som skal tiltre tjeneste på nor
 
 ### § 1-3. Definisjoner
 
-I forskriften menes med*tuberkulosekontroll:* Virksomhet som omfatter tuberkuloseundersøkelser, behandling, oppfølging, overvåking av tuberkulose, samt informasjon med sikte på å forebygge forekomsten og motvirke utbredelsen av tuberkulose.tuberkuloseundersøkelse: Medisinsk undersøkelse med faglig anerkjente metoder for å avgjøre om en person har latent tuberkulose eller tuberkuløs sykdom eller for å følge utviklingen av tuberkuløs sykdom hos denne. Undersøkelsen må minst ha til formål å avdekke smittsom tuberkulose, men kan i tillegg ha til formål å avdekke latent tuberkulose*direkte observert behandling:* Behandlingsopplegg som går ut på at helsepersonell observerer pasientens inntak av alle doser av tuberkulosemedikamenter.
+I forskriften menes med
+
+1. *tuberkulosekontroll:* Virksomhet som omfatter tuberkuloseundersøkelser, behandling, oppfølging, overvåking av tuberkulose, samt informasjon med sikte på å forebygge forekomsten og motvirke utbredelsen av tuberkulose.
+2. tuberkuloseundersøkelse: Medisinsk undersøkelse med faglig anerkjente metoder for å avgjøre om en person har latent tuberkulose eller tuberkuløs sykdom eller for å følge utviklingen av tuberkuløs sykdom hos denne. Undersøkelsen må minst ha til formål å avdekke smittsom tuberkulose, men kan i tillegg ha til formål å avdekke latent tuberkulose
+3. *direkte observert behandling:* Behandlingsopplegg som går ut på at helsepersonell observerer pasientens inntak av alle doser av tuberkulosemedikamenter.
 
 > Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
@@ -46,7 +50,11 @@ I forskriften menes med*tuberkulosekontroll:* Virksomhet som omfatter tuberkulos
 
 ### § 2-1. Plikt til å ha tuberkulosekontrollprogram og ansvar for gjennomføring
 
-Alle kommuner og regionale helseforetak skal ha et tuberkulosekontrollprogram som skalutgjøre en del av de smittevernplaner kommunen og det regionale helseforetaket er pålagt å ha etter [smittevernloven § 7-1](lov/1994-08-05-55/§7-1) og [§ 7-3](lov/1994-08-05-55/§7-3)tilpasses forholdene i kommunen og helseregionen med henblikk på personer som er aktuelle for tuberkuloseundersøkelse, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1)angi hvem som har det faglige og organisatoriske ansvar for de tiltak programmene omfatter.
+Alle kommuner og regionale helseforetak skal ha et tuberkulosekontrollprogram som skal
+
+1. utgjøre en del av de smittevernplaner kommunen og det regionale helseforetaket er pålagt å ha etter [smittevernloven § 7-1](lov/1994-08-05-55/§7-1) og [§ 7-3](lov/1994-08-05-55/§7-3)
+2. tilpasses forholdene i kommunen og helseregionen med henblikk på personer som er aktuelle for tuberkuloseundersøkelse, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1)
+3. angi hvem som har det faglige og organisatoriske ansvar for de tiltak programmene omfatter.
 
 Der det er hensiktsmessig og faglig forsvarlig, kan kommuner inngå et samarbeid om tuberkulosekontrollprogrammet.
 
@@ -56,13 +64,31 @@ Kommunen og det regionale helseforetaket og andre som er tillagt oppgaver i tube
 
 ### § 2-2. Tiltak i tuberkulosekontrollprogrammet
 
-Et tuberkulosekontrollprogram etter [§ 2-1](forskrift/2009-02-13-205/§2-1) skal inneholdetiltak overfor kjente risikogrupper for å oppdage personer som er smitteførende eller kan bli dettiltak som sikrer at personer med tuberkuløs sykdom kommer under kyndig behandling og oppfølgingtiltak for å beskytte usmittede i kjente risikogrupper mot tuberkuløs smittetilbud om forebyggende behandling for å hindre utvikling av tuberkuløs sykdom hos aktuelle smittede personer.
+Et tuberkulosekontrollprogram etter [§ 2-1](forskrift/2009-02-13-205/§2-1) skal inneholde
+
+1. tiltak overfor kjente risikogrupper for å oppdage personer som er smitteførende eller kan bli det
+2. tiltak som sikrer at personer med tuberkuløs sykdom kommer under kyndig behandling og oppfølging
+3. tiltak for å beskytte usmittede i kjente risikogrupper mot tuberkuløs smitte
+4. tilbud om forebyggende behandling for å hindre utvikling av tuberkuløs sykdom hos aktuelle smittede personer.
 
 Tiltakene gjennomføres blant annet ved testing og vaksinasjon etter gjeldende anbefalinger, klinisk undersøkelse, herunder supplerende undersøkelser som røntgen av lungene og blodprøver etter gjeldende anbefalinger, adekvat behandling og oppfølging etter gjeldende anbefalinger, herunder direkte observert behandling. Tiltakene gjennomføres i ulike kombinasjoner etter individuelle behov og indikasjoner.
 
 ### § 2-3. Nærmere om kommunens tuberkulosekontrollprogram
 
-Kommunens tuberkulosekontrollprogram skal inneholde rutiner fortiltak for å oppdage personer som nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1), samt rutiner for henvisning til spesialisthelsetjenesten av personer som det er mistanke om har latent tuberkulose og tuberkuløs sykdomdiagnostikk, herunder testing i primærhelsetjenesten i henhold til gjeldende anbefalingermelding i henhold til gjeldende meldingsforpliktelsersmitteoppsporinggjennomføring av vaksinasjon mot tuberkuloseinformasjon til enkeltpersoner som behandles utenfor sykehus med tuberkulosemedikamenter, herunder ved direkte observert behandlingopplæring av personelloversendelse av følgende opplysninger til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytterresultat av tuberkuloseundersøkelsen og journal, dersom det foreligger funn som gir grunn til videre oppfølgingopplysninger om at tuberkuloseundersøkelsen eventuelt ikke har blitt gjennomførtfor nyankomne asylsøkere som flytter fra transittmottak: resultat av ankomstundersøkelsen og journal.
+Kommunens tuberkulosekontrollprogram skal inneholde rutiner for
+
+1. tiltak for å oppdage personer som nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1), samt rutiner for henvisning til spesialisthelsetjenesten av personer som det er mistanke om har latent tuberkulose og tuberkuløs sykdom
+2. diagnostikk, herunder testing i primærhelsetjenesten i henhold til gjeldende anbefalinger
+3. melding i henhold til gjeldende meldingsforpliktelser
+4. smitteoppsporing
+5. gjennomføring av vaksinasjon mot tuberkulose
+6. informasjon til enkeltpersoner som behandles utenfor sykehus med tuberkulosemedikamenter, herunder ved direkte observert behandling
+7. opplæring av personell
+8. oversendelse av følgende opplysninger til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytter
+
+   1. resultat av tuberkuloseundersøkelsen og journal, dersom det foreligger funn som gir grunn til videre oppfølging
+   2. opplysninger om at tuberkuloseundersøkelsen eventuelt ikke har blitt gjennomført
+   3. for nyankomne asylsøkere som flytter fra transittmottak: resultat av ankomstundersøkelsen og journal.
 
 ### § 2-4. Nærmere om tuberkulosekontrollprogrammet til det regionale helseforetaket
 
@@ -72,7 +98,11 @@ Tuberkulosekontrollprogrammet til det regionale helseforetaket skal ivareta alle
 
 ### § 3-1. Plikt til å gjennomgå tuberkuloseundersøkelse
 
-Følgende personer har plikt til å gjennomgå tuberkuloseundersøkelse:Personer fra land med høy forekomst av tuberkulose, som skal oppholde seg mer enn tre måneder i riket med krav om oppholdstillatelse, registreringsbevis eller oppholdskort, samt flyktninger og asylsøkere.Personer som i løpet av de siste tre årene har oppholdt seg i minst tre måneder i land med høy forekomst av tuberkulose, og som skal tiltre eller gjeninntre i stilling i helse- og omsorgstjenesten, i lærerstillinger eller i andre stillinger knyttet til barneomsorg. Plikten gjelder også personer under opplæring eller hospitering i slike stillinger. Plikten gjelder også personer som skal være i Norge som ledd i kulturutveksling, frivillig arbeid eller lignende og skal ha nær kontakt med barn.Andre personer som det er medisinsk mistanke om er eller har vært i risiko for å bli smittet med tuberkulose.
+Følgende personer har plikt til å gjennomgå tuberkuloseundersøkelse:
+
+1. Personer fra land med høy forekomst av tuberkulose, som skal oppholde seg mer enn tre måneder i riket med krav om oppholdstillatelse, registreringsbevis eller oppholdskort, samt flyktninger og asylsøkere.
+2. Personer som i løpet av de siste tre årene har oppholdt seg i minst tre måneder i land med høy forekomst av tuberkulose, og som skal tiltre eller gjeninntre i stilling i helse- og omsorgstjenesten, i lærerstillinger eller i andre stillinger knyttet til barneomsorg. Plikten gjelder også personer under opplæring eller hospitering i slike stillinger. Plikten gjelder også personer som skal være i Norge som ledd i kulturutveksling, frivillig arbeid eller lignende og skal ha nær kontakt med barn.
+3. Andre personer som det er medisinsk mistanke om er eller har vært i risiko for å bli smittet med tuberkulose.
 
 Helsedirektoratet fastsetter hvilke land som skal ansees å ha høy forekomst av tuberkulose etter denne bestemmelsen.
 
@@ -116,7 +146,12 @@ Kommunen skal sørge for at tuberkulosekontrollprogrammet utformes, iverksettes 
 
 ### § 4-2. Kommunelegens oppgaver
 
-Kommunelegen har ansvaret forå utarbeide forslag til tuberkulosekontrollprogrammetgjennomføring av tuberkulosekontrollprogrammetå oversende opplysninger nevnt i [§ 2-3](forskrift/2009-02-13-205/§2-3) bokstav h) til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytterå holde tuberkulosekoordinatoren oppdatert om forekomsten av tuberkulose i kommunen.
+Kommunelegen har ansvaret for
+
+1. å utarbeide forslag til tuberkulosekontrollprogrammet
+2. gjennomføring av tuberkulosekontrollprogrammet
+3. å oversende opplysninger nevnt i [§ 2-3](forskrift/2009-02-13-205/§2-3) bokstav h) til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytter
+4. å holde tuberkulosekoordinatoren oppdatert om forekomsten av tuberkulose i kommunen.
 
 ### § 4-3. Det regionale helseforetakets oppgaver
 
@@ -128,11 +163,21 @@ Det regionale helseforetaket skal organisere og sørge for at det utpekes nødve
 
 ### § 4-4. Oppgavene til tuberkulosekoordinatorene
 
-Tuberkulosekoordinatorene skal utføre de oppgaver vedkommende er tillagt etter denne forskrift, herunderbidra til at tuberkulosekontrollen fungerer i alle ledd, herunder at meldinger sendes som pålagtetablere behandlingsplan for pasienten i samarbeid med behandlende spesialist, pasienten og kommunelegenkoordinere individuell oppfølging og behandling i samarbeid med behandlende spesialist og kommunehelsetjenestenovervåke forekomsten av tuberkulose i helseregionendelta i opplæring av personell.
+Tuberkulosekoordinatorene skal utføre de oppgaver vedkommende er tillagt etter denne forskrift, herunder
+
+1. bidra til at tuberkulosekontrollen fungerer i alle ledd, herunder at meldinger sendes som pålagt
+2. etablere behandlingsplan for pasienten i samarbeid med behandlende spesialist, pasienten og kommunelegen
+3. koordinere individuell oppfølging og behandling i samarbeid med behandlende spesialist og kommunehelsetjenesten
+4. overvåke forekomsten av tuberkulose i helseregionen
+5. delta i opplæring av personell.
 
 ### § 4-5. Folkehelseinstituttet
 
-Folkehelseinstituttet skalovervåke forekomsten av tuberkulose i Norgevære faglig støtte for tuberkulosekoordinatorene, og i tett samarbeid med disse gi råd og veiledning til institusjoner, leger og annet helsepersonell som utfører eller deltar i arbeidet med tuberkulosekontrollutføre nødvendige mikrobiologiske referansetjenester, herunder resistensundersøkelser, artsbestemmelse og genotyping
+Folkehelseinstituttet skal
+
+1. overvåke forekomsten av tuberkulose i Norge
+2. være faglig støtte for tuberkulosekoordinatorene, og i tett samarbeid med disse gi råd og veiledning til institusjoner, leger og annet helsepersonell som utfører eller deltar i arbeidet med tuberkulosekontroll
+3. utføre nødvendige mikrobiologiske referansetjenester, herunder resistensundersøkelser, artsbestemmelse og genotyping
 
 > Endret ved [forskrifter 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
@@ -170,7 +215,12 @@ Rederiene betaler for utgifter til eventuell tuberkuloseundersøkelse av arbeids
 
 Rettighetshaver/operatør betaler for utgifter til eventuell tuberkuloseundersøkelse av personer i petroleumsvirksomhet.
 
-Trygden dekker/refunderer utgifter til nærmere undersøkelse, behandling og senere kontroller ved mistanke om tuberkulose, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1) første ledd bokstav c), og når tuberkulose oppdages i forbindelse med tuberkuloseundersøkelse etter forskriften her, etter følgende forskrifter:[Forskrift 27. juni 2003 nr. 959](forskrift/2003-06-27-959) om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie- og røntgenvirksomheter § 3, jf. § 4 nr. 7[Forskrift 25. juni 2008 nr. 714](forskrift/2008-06-25-714) om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3 nr. 7[Forskrift 19. desember 2007 nr. 1761](forskrift/2007-12-19-1761) om godtgjørelse av utgifter til legehjelp som utføres poliklinisk ved statlige helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak § 3, jf. § 4 nr. 7[Forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv. [§ 4](forskrift/2007-06-28-814/§4).
+Trygden dekker/refunderer utgifter til nærmere undersøkelse, behandling og senere kontroller ved mistanke om tuberkulose, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1) første ledd bokstav c), og når tuberkulose oppdages i forbindelse med tuberkuloseundersøkelse etter forskriften her, etter følgende forskrifter:
+
+1. [Forskrift 27. juni 2003 nr. 959](forskrift/2003-06-27-959) om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie- og røntgenvirksomheter § 3, jf. § 4 nr. 7
+2. [Forskrift 25. juni 2008 nr. 714](forskrift/2008-06-25-714) om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3 nr. 7
+3. [Forskrift 19. desember 2007 nr. 1761](forskrift/2007-12-19-1761) om godtgjørelse av utgifter til legehjelp som utføres poliklinisk ved statlige helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak § 3, jf. § 4 nr. 7
+4. [Forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv. [§ 4](forskrift/2007-06-28-814/§4).
 
 > Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
@@ -238,13 +288,31 @@ Bestemmelsen beskriver de ulike rutiner kommunens tuberkulosekontrollprogram ska
 
 Kommunens tuberkulosekontrollprogram bør sikre at kommunelegen eller stedfortreder deltar på møte med tuberkulosekoordinator i helseforetaket i forbindelse med at pasienten blir diagnostisert, og at det inngås avtale om hvordan kommunehelsetjenesten skal gjennomføre direkte observert behandling etter utskrivelse. Det vises til merknadene til forskriften [§ 3-3](forskrift/2009-02-13-205/§3-3).
 
-Ifølge bestemmelsens siste ledd skal kommunenes tuberkulosekontrollprogram inneholde rutiner for oversendelse av følgende opplysninger til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytter:resultat av tuberkuloseundersøkelsen og journal, dersom det foreligger funn som gir grunn til videre oppfølging,opplysninger om at tuberkuloseundersøkelsen eventuelt ikke har blitt gjennomført,for nyankomne asylsøkere som flytter fra transittmottak: resultat av ankomstundersøkelsen og journal.Kommunelegen har ansvaret for oversendelsen av opplysningene, jf. forskriftens [§ 4-2](forskrift/2009-02-13-205/§4-2). Dette ansvaret gjelder frem til undersøkelsen er fullført eller oppfølging er avsluttet. Programmet skal også inneholde rutiner for oversendelse av opplysninger dersom undersøkelsen ikke har blitt gjennomført. For nyankomne asylsøkere som flytter fra transittmottak skal resultat av ankomstundersøkelse overføres til kommunelege i tilflytningskommune. Med resultat for denne gruppen menes også tilbakemelding på at det ikke er funnet tegn på tuberkulose, dette inkluderer resultat av røntgenundersøkelse.
+Ifølge bestemmelsens siste ledd skal kommunenes tuberkulosekontrollprogram inneholde rutiner for oversendelse av følgende opplysninger til kommunelegen i ny bopelskommune når personer nevnt i [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) flytter:
+
+- resultat av tuberkuloseundersøkelsen og journal, dersom det foreligger funn som gir grunn til videre oppfølging,
+- opplysninger om at tuberkuloseundersøkelsen eventuelt ikke har blitt gjennomført,
+- for nyankomne asylsøkere som flytter fra transittmottak: resultat av ankomstundersøkelsen og journal.
+
+Kommunelegen har ansvaret for oversendelsen av opplysningene, jf. forskriftens [§ 4-2](forskrift/2009-02-13-205/§4-2). Dette ansvaret gjelder frem til undersøkelsen er fullført eller oppfølging er avsluttet. Programmet skal også inneholde rutiner for oversendelse av opplysninger dersom undersøkelsen ikke har blitt gjennomført. For nyankomne asylsøkere som flytter fra transittmottak skal resultat av ankomstundersøkelse overføres til kommunelege i tilflytningskommune. Med resultat for denne gruppen menes også tilbakemelding på at det ikke er funnet tegn på tuberkulose, dette inkluderer resultat av røntgenundersøkelse.
 
 ### Til § 2-4 Nærmere om tuberkuloseprogrammet til det regionale helseforetaket
 
-Tuberkulosekontrollprogrammet til de regionale helseforetakene skal inneholde rutiner for håndtering av henvisninger fra primærhelsetjenesten for screening/diagnostikk og utredning av mistenkt tuberkulose. Programmet skal også ha rutiner for behandling av tuberkulose etter anerkjente regler for tuberkulosekontroll. Dette innebærer at det skal være rutiner for blant annet:behandling av pasienter, herunder poliklinisk kontroll av pasienter under behandling,isolasjonstiltak ved mistenkt eller påvist smitteførende tuberkulose,håndtering av multiresistente bakterier ogoverføring av ansvar for oppfølging av behandling til primærhelsetjenesten.
+Tuberkulosekontrollprogrammet til de regionale helseforetakene skal inneholde rutiner for håndtering av henvisninger fra primærhelsetjenesten for screening/diagnostikk og utredning av mistenkt tuberkulose. Programmet skal også ha rutiner for behandling av tuberkulose etter anerkjente regler for tuberkulosekontroll. Dette innebærer at det skal være rutiner for blant annet:
 
-Andre elementer i tuberkulosekontrollprogrammet til de regionale helseforetakene er rutiner for:rådgivning til helsepersonell i primær- og spesialisthelsetjenesten,informasjon til relevante pasienter i sykehus om tuberkulose og regelverket som gjelder for sykdommen,opplæring av personell,å sikre at nødvendig smitteoppsporing gjennomføres,overvåkning av tuberkulose i helseregionen, ogmelding i henhold til gjeldende meldingspliktforskrifter.
+- behandling av pasienter, herunder poliklinisk kontroll av pasienter under behandling,
+- isolasjonstiltak ved mistenkt eller påvist smitteførende tuberkulose,
+- håndtering av multiresistente bakterier og
+- overføring av ansvar for oppfølging av behandling til primærhelsetjenesten.
+
+Andre elementer i tuberkulosekontrollprogrammet til de regionale helseforetakene er rutiner for:
+
+- rådgivning til helsepersonell i primær- og spesialisthelsetjenesten,
+- informasjon til relevante pasienter i sykehus om tuberkulose og regelverket som gjelder for sykdommen,
+- opplæring av personell,
+- å sikre at nødvendig smitteoppsporing gjennomføres,
+- overvåkning av tuberkulose i helseregionen, og
+- melding i henhold til gjeldende meldingspliktforskrifter.
 
 Det vises til merknadene til forskriften [§ 2-1](forskrift/2009-02-13-205/§2-1) og [§ 2-2](forskrift/2009-02-13-205/§2-2).
 
@@ -348,7 +416,12 @@ Tuberkulosekoordinatorenes oppgave er å koordinere og medvirke til de oppgaver 
 
 Etter bestemmelsens første ledd skal tuberkuloseundersøkelser etter denne forskriften være uten utgifter for den som har plikt til å gjennomgå slik undersøkelse etter [§ 3-1](forskrift/2009-02-13-205/§3-1). Dette innebærer at det er kommunen eller det regionale helseforetaket som må dekke utgiftene, inkludert reiseutgifter. Det skal ikke være noen egenandel. Tapt arbeidsfortjeneste kan imidlertid ikke kreves dekket etter denne bestemmelsen. Bestemmelsens annet og tredje ledd omtaler hvilke utgifter kommunen skal dekke og hvilke utgifter det regionale helseforetaket skal dekke. Reglene om utgiftsfordeling er begrenset til de tuberkuloseundersøkelser som foregår med hjemmel i denne forskriften. Staten dekker utgifter til tuberkulosekontrollen av nyankomne asylsøkere.
 
-Folketrygden dekker/refunderer utgifter til nærmere undersøkelse, behandling og senere kontroller ved mistanke om tuberkulose, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1) første ledd bokstav c), og når tuberkulose oppdages i forbindelse med tuberkuloseundersøkelse etter forskriften her, i den grad utgiftene dekkes etter de forskriftene som er nevnt i bestemmelsen siste ledd:Forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie- og røntgenvirksomheter § 3, jf. § 4 nr. 7. Forskriften regulerer stønad fra Trygden til prøver og undersøkelser ved private medisinske laboratorier og radiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstitutter, jf. § 3. Trygden yter stønad etter honorarsatsene til undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, ved slike virksomheter, jf. § 4 nr. 7. Det er en forutsetning for stønad etter forskriften at undersøkelse er rekvirert på grunn av allmennfarlig smittsom sykdom eller mistanke om allmennfarlig smittsom sykdom eller det er behov for behandling eller kontroll for allmennfarlig smittsom sykdom (dvs. at det er mistanke om eller påvist tuberkulose), jf. § 4 nr. 7 bokstav a og b. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 4 siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 5 og § 6.Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3 nr. 7. Forskriften regulerer stønad fra Trygden når lege er oppsøkt for sykdom eller mistanke om sykdom, jf. § 1 og § 2. Trygden yter stønad etter honorartakstene til undersøkelse, behandling og kontroll hos lege for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, jf. § 3 nr. 7. Det er en forutsetning for stønad etter forskriften at pasienten har grunn til å anta seg smittet, at en lege under konsultasjon får mistanke om at pasienten er smittet, at legen har oppfordret pasienten til å møte til konsultasjon for undersøkelse som ledd i smitteoppsporing, eller at det er behov for behandling eller kontroll, jf. § 3 nr. 7 bokstav a, b, c og d. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 3 siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 5.Forskrift om godtgjørelse av utgifter til legehjelp som utføres poliklinisk ved statlige helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak § 3, jf. § 4 nr. 7. Forskriften regulerer stønad fra staten når man oppsøker legehjelp ved slike virksomheter, for sykdom eller mistanke om sykdom, jf. § 1. Staten yter stønad etter honorartakstene til undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, ved slike virksomheter, jf. § 4 nr. 7 bokstav d. Det er en forutsetning for stønad etter forskriften at pasienten har grunn til å anta seg smittet, at en lege under konsultasjon får begrunnet mistanke om at pasienten er smittet, at legen har oppfordret eller pålagt pasienten å møte til konsultasjon for undersøkelse som ledd i smitteoppsporing, eller at det er behov for behandling eller kontroll, jf. § 4 nr. 7 bokstav a, b, c og d. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 4 nest siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 3 nr. 2, § 5 og § 6.Forskrift om stønad til dekning av utgifter til viktige legemidler mv. § 4. Forskriften regulerer stønad fra trygden til legemidler ved smittsomme sykdommer, inkludert tuberkulose, til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i trygden, jf. § 4 nr. 1. Det ytes stønad til antiinfektive legemidler til behandling forebygging, og til BCG-vaksine, jf. § 4 nr. 2 og 3.
+Folketrygden dekker/refunderer utgifter til nærmere undersøkelse, behandling og senere kontroller ved mistanke om tuberkulose, jf. [§ 3-1](forskrift/2009-02-13-205/§3-1) første ledd bokstav c), og når tuberkulose oppdages i forbindelse med tuberkuloseundersøkelse etter forskriften her, i den grad utgiftene dekkes etter de forskriftene som er nevnt i bestemmelsen siste ledd:
+
+- Forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie- og røntgenvirksomheter § 3, jf. § 4 nr. 7. Forskriften regulerer stønad fra Trygden til prøver og undersøkelser ved private medisinske laboratorier og radiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstitutter, jf. § 3. Trygden yter stønad etter honorarsatsene til undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, ved slike virksomheter, jf. § 4 nr. 7. Det er en forutsetning for stønad etter forskriften at undersøkelse er rekvirert på grunn av allmennfarlig smittsom sykdom eller mistanke om allmennfarlig smittsom sykdom eller det er behov for behandling eller kontroll for allmennfarlig smittsom sykdom (dvs. at det er mistanke om eller påvist tuberkulose), jf. § 4 nr. 7 bokstav a og b. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 4 siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 5 og § 6.
+- Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3 nr. 7. Forskriften regulerer stønad fra Trygden når lege er oppsøkt for sykdom eller mistanke om sykdom, jf. § 1 og § 2. Trygden yter stønad etter honorartakstene til undersøkelse, behandling og kontroll hos lege for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, jf. § 3 nr. 7. Det er en forutsetning for stønad etter forskriften at pasienten har grunn til å anta seg smittet, at en lege under konsultasjon får mistanke om at pasienten er smittet, at legen har oppfordret pasienten til å møte til konsultasjon for undersøkelse som ledd i smitteoppsporing, eller at det er behov for behandling eller kontroll, jf. § 3 nr. 7 bokstav a, b, c og d. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 3 siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 5.
+- Forskrift om godtgjørelse av utgifter til legehjelp som utføres poliklinisk ved statlige helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak § 3, jf. § 4 nr. 7. Forskriften regulerer stønad fra staten når man oppsøker legehjelp ved slike virksomheter, for sykdom eller mistanke om sykdom, jf. § 1. Staten yter stønad etter honorartakstene til undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer, inkludert tuberkulose, ved slike virksomheter, jf. § 4 nr. 7 bokstav d. Det er en forutsetning for stønad etter forskriften at pasienten har grunn til å anta seg smittet, at en lege under konsultasjon får begrunnet mistanke om at pasienten er smittet, at legen har oppfordret eller pålagt pasienten å møte til konsultasjon for undersøkelse som ledd i smitteoppsporing, eller at det er behov for behandling eller kontroll, jf. § 4 nr. 7 bokstav a, b, c og d. Slik stønad ytes til alle som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden, jf. § 4 nest siste ledd. Hvordan oppgjør skal skje er regulert i forskriften § 3 nr. 2, § 5 og § 6.
+- Forskrift om stønad til dekning av utgifter til viktige legemidler mv. § 4. Forskriften regulerer stønad fra trygden til legemidler ved smittsomme sykdommer, inkludert tuberkulose, til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i trygden, jf. § 4 nr. 1. Det ytes stønad til antiinfektive legemidler til behandling forebygging, og til BCG-vaksine, jf. § 4 nr. 2 og 3.
 
 Reglene om utgiftsfordeling betyr i prinsippet at utgifter til tuberkuloseundersøkelse av presumptivt friske personer skal dekkes av kommunen og det regionale helseforetaket avhengig av på hvilket nivå undersøkelsen finner sted. Dette følger av bestemmelsens første til tredje ledd. Røntgen og IGRA-test er å regne som spesialisthelsetjenester og utgiftene skal dekkes av det regionale helseforetaket. Forsvaret dekker utgiftene til undersøkelse av militært personell, jf. fjerde ledd. Rederi/operatør dekker utgiftene til undersøkelse av arbeidstakere på skip og i petroleumsvirksomhet, jf. femte og sjette ledd. For undersøkelse, behandling og senere kontroller av personer med mistenkt eller påvist tuberkulose, som kan skje ambulant, skjer oppgjør med Folketrygden i den grad utgiftene kan kreves dekket innenfor rammene av de angitte forskrifter, jf. bestemmelsens siste ledd. Innlegges en person med tuberkulose i sykehus, dekkes utgiftene som for enhver annen sykdom. Det vises til lov om spesialisthelsetjenesten m.m. [§ 5-2](lov/1999-07-02-61/§5-2), som bestemmer at det regionale helseforetakets behandlings- og forpleiningsutgifter og reiseutgifter til behandling skal dekkes av det regionale helseforetaket i pasientens bostedsregion.
 

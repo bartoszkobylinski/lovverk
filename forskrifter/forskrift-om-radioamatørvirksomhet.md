@@ -15,7 +15,7 @@ xml_hash: "1a8698ee9be11c45416c84cf80df787897b7360b788d499d8fa4ea79fc06468c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,10 @@ Forskriften gjelder ikke frekvensområdet 2 GHz–32 GHz i det geografiske områ
 
 ## § 4. Radioamatørlisens og kallesignal
 
-Radioamatørlisens har to lisensklasserFull lisens (HAREC klasse A)Begrenset lisens (kun gyldig i Norge).
+Radioamatørlisens har to lisensklasser
+
+- Full lisens (HAREC klasse A)
+- Begrenset lisens (kun gyldig i Norge).
 
 Nkom tildeler radioamatørlisens og kallesignal etter bestått prøve. For tildeling av kallesignal gjelder [forskrift av 16. februar 2004 nr. 426 (nummerforskriften) § 35b](forskrift/2004-02-16-426/§35b). Det tildeles kallesignal som identifiserer lisensklasse fastsatt av Nkom.
 

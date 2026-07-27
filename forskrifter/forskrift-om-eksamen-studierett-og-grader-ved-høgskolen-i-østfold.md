@@ -46,7 +46,10 @@ Rektor kan fastsette utfyllende bestemmelser til forskriften. Formålet er å kl
 
 (2) *Diploma Supplement* er et internasjonalt vitnemålstillegg. Det gir utfyllende beskrivelse av kvalifikasjonene som kandidaten har oppnådd.
 
-(3) *Eksamen* er dokumentasjon av arbeid som gir grunnlag for fastsettelse av karakter.*Deleksamen* er eksamen i et emne der det gis egen karakter, men der karakter slås sammen med en karakter i øvrig deleksamen i det samme emnet. Emnet er ikke bestått før alle deleksamener er bestått. Resultat av deleksamen fremgår ikke på vitnemålet, kun sluttkarakteren i emnet.*Eksamen med flere komponenter*: eksamen som består av én skriftlig og én muntlig komponent. Skriftlig komponent må være vurdert til bestått før muntlig komponent kan gjennomføres. Muntlig komponent kan virke justerende på resultatet fastsatt for skriftlig komponent. Resultat av skriftlig eksamenskomponent fremgår ikke på karakterutskrift, kun sluttkarakteren i emnet. Resultatet fra skriftlig komponent og endelig justert karakter må være tilgjengelig i Studentweb senest etter at muntlig komponent er gjennomført.
+(3) *Eksamen* er dokumentasjon av arbeid som gir grunnlag for fastsettelse av karakter.
+
+1. *Deleksamen* er eksamen i et emne der det gis egen karakter, men der karakter slås sammen med en karakter i øvrig deleksamen i det samme emnet. Emnet er ikke bestått før alle deleksamener er bestått. Resultat av deleksamen fremgår ikke på vitnemålet, kun sluttkarakteren i emnet.
+2. *Eksamen med flere komponenter*: eksamen som består av én skriftlig og én muntlig komponent. Skriftlig komponent må være vurdert til bestått før muntlig komponent kan gjennomføres. Muntlig komponent kan virke justerende på resultatet fastsatt for skriftlig komponent. Resultat av skriftlig eksamenskomponent fremgår ikke på karakterutskrift, kun sluttkarakteren i emnet. Resultatet fra skriftlig komponent og endelig justert karakter må være tilgjengelig i Studentweb senest etter at muntlig komponent er gjennomført.
 
 (4) *Emne* er den minste studiepoenggivende enhet som kan inngå i et studieprogram. Normalt skal et emne ha et omfang på minst 10 studiepoeng. Emnets omfang og innhold fastsettes i emnebeskrivelsen.
 
@@ -92,11 +95,23 @@ Rektor kan fastsette utfyllende bestemmelser til forskriften. Formålet er å kl
 
 ### § 2-3. Opphør av studierett
 
-Studieretten opphører når:studenten selv bekrefter at vedkommende trekker seg fra studietstudiet er fullført og vitnemål/karakterutskrift er utstedt.
+Studieretten opphører når:
+
+1. studenten selv bekrefter at vedkommende trekker seg fra studiet
+2. studiet er fullført og vitnemål/karakterutskrift er utstedt.
 
 ### § 2-4. Tap av studierett
 
-Studenten taper normalt sin studierett dersom vedkommende:ikke har møtt til studiets oppstart når studiet har obligatorisk oppmøte som kravikke har semesterregistrert seg og bekreftet utdanningsplanen innen fastsatt fristikke har betalt semesteravgift innen fastsatt fristhar brukt opp alle forsøkene på å avlegge eksamen i et emne jf. [§ 6-3](forskrift/2024-09-17-2231/§6-3)har strøket to ganger i samme praksis, jf. [§ 4-2](forskrift/2024-09-17-2231/§4-2) og ikke er innvilget dispensasjon til et tredje forsøkikke har fullført studiet etter forlenget studietidikke har lagt frem originaldokumenter for verifisering av opptaksgrunnlaget innen fastsatt fristikke har oppnådd studiepoeng i et studieprogram i to semester på rad i heltidsstudier, og fire semester i deltidsstudier. I disse semestrene inngår ikke innvilgede permisjoner, opphold i progresjon som går frem av utdanningsplanen og midlertidig utestenging fra Høgskolen i Østfold etter vedtak i Høgskolen i Østfolds nemnd for studentsaker.
+Studenten taper normalt sin studierett dersom vedkommende:
+
+1. ikke har møtt til studiets oppstart når studiet har obligatorisk oppmøte som krav
+2. ikke har semesterregistrert seg og bekreftet utdanningsplanen innen fastsatt frist
+3. ikke har betalt semesteravgift innen fastsatt frist
+4. har brukt opp alle forsøkene på å avlegge eksamen i et emne jf. [§ 6-3](forskrift/2024-09-17-2231/§6-3)
+5. har strøket to ganger i samme praksis, jf. [§ 4-2](forskrift/2024-09-17-2231/§4-2) og ikke er innvilget dispensasjon til et tredje forsøk
+6. ikke har fullført studiet etter forlenget studietid
+7. ikke har lagt frem originaldokumenter for verifisering av opptaksgrunnlaget innen fastsatt frist
+8. ikke har oppnådd studiepoeng i et studieprogram i to semester på rad i heltidsstudier, og fire semester i deltidsstudier. I disse semestrene inngår ikke innvilgede permisjoner, opphold i progresjon som går frem av utdanningsplanen og midlertidig utestenging fra Høgskolen i Østfold etter vedtak i Høgskolen i Østfolds nemnd for studentsaker.
 
 ### § 2-5. Reaktivering av studierett
 
@@ -114,7 +129,12 @@ Studieretten kan reaktiveres innen tre uker etter at studenten har fått vedtak 
 
 (1) Studenten har rett til permisjon fra studiene ved svangerskap, adopsjon og omsorg for barn, jf. [universitets- og høyskoleloven § 10-6](lov/2024-03-08-9/§10-6).
 
-(2) Permisjon kan videre gis vedførstegangstjenestesykdomandre tungtveiende grunner utenfor studentens kontrollverv i studentpolitiske eller folkevalgte organer.
+(2) Permisjon kan videre gis ved
+
+1. førstegangstjeneste
+2. sykdom
+3. andre tungtveiende grunner utenfor studentens kontroll
+4. verv i studentpolitiske eller folkevalgte organer.
 
 (3) Studenter som har aktiv studierett og er semesterregistrert ved et studieprogram kan søke om permisjon.
 
@@ -154,7 +174,11 @@ Ved studier som krever politiattest må slik attest leveres innen de frister som
 
 ### § 3-3. Kriterier for studier i utlandet
 
-(1) Studenten må oppfylle følgende minimumskrav før utveksling:være tatt opp til et bachelor- eller masterprogram ved Høgskolen i Østfoldha bestått minst ett års utdanning tilsvarende 60 studiepoeng ved Høgskolen i Østfold, med mindre annet er angitt i studieplanen, eller fått innpasset utdanning fra en annen utdanningsinstitusjonbør ha normert studieprogresjon.
+(1) Studenten må oppfylle følgende minimumskrav før utveksling:
+
+1. være tatt opp til et bachelor- eller masterprogram ved Høgskolen i Østfold
+2. ha bestått minst ett års utdanning tilsvarende 60 studiepoeng ved Høgskolen i Østfold, med mindre annet er angitt i studieplanen, eller fått innpasset utdanning fra en annen utdanningsinstitusjon
+3. bør ha normert studieprogresjon.
 
 (2) Under studiet i utlandet har studenten fortsatt studierett, og skal betale semesteravgift etter fastsatt frist.
 
@@ -188,11 +212,23 @@ Ved studier som krever politiattest må slik attest leveres innen de frister som
 
 ### § 5-1. Vurderingsformer, omfang og karakterregel
 
-(1) Høgskolen i Østfold har følgende kategorier av vurderingsformer:hjemmeeksamenmappeeksamenmuntlig eksamenoppgave (for eksempel fagtekst, semesteroppgave, prosjektoppgave, FoU-oppgave, bacheloroppgave og masteroppgave)praktisk eksamenskriftlig eksamen med tilsynvurdering av praksis.
+(1) Høgskolen i Østfold har følgende kategorier av vurderingsformer:
+
+1. hjemmeeksamen
+2. mappeeksamen
+3. muntlig eksamen
+4. oppgave (for eksempel fagtekst, semesteroppgave, prosjektoppgave, FoU-oppgave, bacheloroppgave og masteroppgave)
+5. praktisk eksamen
+6. skriftlig eksamen med tilsyn
+7. vurdering av praksis.
 
 (2) Vurderingsformer som benyttes og bedømmelse av disse, fastsettes i studieplanen/emnebeskrivelsen.
 
-(3) Et emne kan ha deleksamener med fastlagt vekting.Samme deleksamen kan ikke inngå i vurderingsgrunnlaget for ulike emner.Det skal gis karakter på den enkelte deleksamen. Deleksamener inngår i samlet karakter for emnet, og gir uttelling i studiepoeng først når samtlige deleksamener i et emne er bestått. Sammenslåing av resultatene skjer i det studieadministrative systemet.Studenten kan klage på karakterfastsetting for deleksamener, jf. [§ 8-2](forskrift/2024-09-17-2231/§8-2).
+(3) Et emne kan ha deleksamener med fastlagt vekting.
+
+1. Samme deleksamen kan ikke inngå i vurderingsgrunnlaget for ulike emner.
+2. Det skal gis karakter på den enkelte deleksamen. Deleksamener inngår i samlet karakter for emnet, og gir uttelling i studiepoeng først når samtlige deleksamener i et emne er bestått. Sammenslåing av resultatene skjer i det studieadministrative systemet.
+3. Studenten kan klage på karakterfastsetting for deleksamener, jf. [§ 8-2](forskrift/2024-09-17-2231/§8-2).
 
 (4) Eksamen skal normalt skje i form av individuell prøving. Gruppeeksamen kan bare avholdes for mindre enn 50 % av et studieprogram regnet i studiepoeng og i samsvar med studieplan.
 
@@ -232,7 +268,15 @@ Ved studier som krever politiattest må slik attest leveres innen de frister som
 
 (5) Etter skriftlig, begrunnet og dokumentert søknad, kan det i særlige tilfeller gis dispensasjon for et tredje praksisforsøk, eller et fjerde eksamensforsøk dersom studenten etter tre eksamensforsøk ikke har oppnådd et bestått resultat i emnet.
 
-(6) Med tellende eksamensforsøk menes at studenten:har bestått eksamentrekker seg etter avmeldingsfristens utløpikke møter til eksamentrekker seg under eksamenikke leverer eksamensbesvarelse innen oppgitt fristfår karakteren F / ikke beståttfår sin eksamen annullert på grunn av fusk eller forsøk på fusk.
+(6) Med tellende eksamensforsøk menes at studenten:
+
+1. har bestått eksamen
+2. trekker seg etter avmeldingsfristens utløp
+3. ikke møter til eksamen
+4. trekker seg under eksamen
+5. ikke leverer eksamensbesvarelse innen oppgitt frist
+6. får karakteren F / ikke bestått
+7. får sin eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (7) En student som har fått resultat ikke bestått på bacheloroppgave, masteroppgave eller annet større selvstendig arbeid, kan levere omarbeidet versjon av oppgaven til sensur én gang.
 
@@ -354,7 +398,11 @@ Ved nytt opptak teller tidligere eksamensforsøk dersom det er mindre enn tre å
 
 (7) Det skal være to sensorer ved sensur av bacheloroppgaver, muntlige og praktiske eksamener som ikke er etterprøvbare, og eksamener som alene utgjør 15 studiepoeng eller mer, jf. [universitets- og høyskoleloven § 11-7 annet ledd](lov/2024-03-08-9/§11-7/ledd/2).
 
-(8) Ekstern sensor må kunne dokumentere nødvendige faglige kvalifikasjoner i det emnet det skal sensureres i, og ha minst én av følgende kvalifikasjoner:Være ansatt på høgskolelektor-/amanuensisnivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjonPå annen måte ha dokumentert vitenskapelig/kunstnerisk kompetanse på samme nivåGjennom yrkespraksis være særlig kvalifisert innen vedkommende emne.
+(8) Ekstern sensor må kunne dokumentere nødvendige faglige kvalifikasjoner i det emnet det skal sensureres i, og ha minst én av følgende kvalifikasjoner:
+
+1. Være ansatt på høgskolelektor-/amanuensisnivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon
+2. På annen måte ha dokumentert vitenskapelig/kunstnerisk kompetanse på samme nivå
+3. Gjennom yrkespraksis være særlig kvalifisert innen vedkommende emne.
 
 (9) Ekstern sensor kan ikke ha deltatt i noen form for faglig oppfølging og vurdering av det aktuelle eksamenskullet. Ekstern sensor kan ikke være ansatt i hovedstilling eller ha ekstraerverv ved det fakultetet som tilbyr undervisning i emnet eller som er ansvarlig for det studieprogrammet emnet er en del av.
 
@@ -418,7 +466,17 @@ Høgskolen i Østfold kan jf. [universitets- og høyskoleloven § 12-6](lov/2024
 
 (3) Oversikt over tillatte hjelpemidler ved eksamen skal fremgå av eksamensoppgaven og gjeldende studieplan. Bruk av andre hjelpemidler enn de som står oppført anses som fusk. Besittelse av ulovlige hjelpemidler etter at eksamen er påbegynt anses som forsøk på fusk. Eksamen regnes som påbegynt straks eksamensoppgaven er gjort tilgjengelig fra Høgskolen i Østfolds side jf. [§ 6-10](forskrift/2024-09-17-2231/§6-10).
 
-(4) Som eksempler på fusk eller forsøk på fusk ved eksamen eller arbeidskrav regnes:ulovlige hjelpemidler: å benytte eller ha tilgjengelig ulovlige hjelpemidler etter at eksamen eller prøve er påbegynt. Dette gjelder også å unnlate pålogging i eksamensverktøy når eksamen eller prøve er påbegynt.plagiat: å presentere andres arbeid som sitt eget, herunder:manglende kildehenvisning og/eller riktig markering av sitat,innlevering av besvarelse som helt eller delvis er utarbeidet av andre personer eller verktøy uten å opplyse om detteselvplagiat: å gjenbruke eget tidligere bestått arbeid som har gitt uttelling i studiepoeng, uten tilstrekkelig kildehenvisningforfalskning eller fabrikkering av data, herunder henvisning til fiktive kilderureglementert samarbeid mellom studenter eller grupperandre handlinger: å handle slik at det urettmessig kan gi fordeler i forbindelse med eksamen eller prøve
+(4) Som eksempler på fusk eller forsøk på fusk ved eksamen eller arbeidskrav regnes:
+
+1. ulovlige hjelpemidler: å benytte eller ha tilgjengelig ulovlige hjelpemidler etter at eksamen eller prøve er påbegynt. Dette gjelder også å unnlate pålogging i eksamensverktøy når eksamen eller prøve er påbegynt.
+2. plagiat: å presentere andres arbeid som sitt eget, herunder:
+
+   - manglende kildehenvisning og/eller riktig markering av sitat,
+   - innlevering av besvarelse som helt eller delvis er utarbeidet av andre personer eller verktøy uten å opplyse om dette
+3. selvplagiat: å gjenbruke eget tidligere bestått arbeid som har gitt uttelling i studiepoeng, uten tilstrekkelig kildehenvisning
+4. forfalskning eller fabrikkering av data, herunder henvisning til fiktive kilder
+5. ureglementert samarbeid mellom studenter eller grupper
+6. andre handlinger: å handle slik at det urettmessig kan gi fordeler i forbindelse med eksamen eller prøve
 
 (5) Dersom det oppstår mistanke om fusk, forsøk på eller medvirkning til fusk, skal studenten snarest mulig gjøres oppmerksom på mistanken.
 
@@ -448,9 +506,19 @@ Høgskolen i Østfold kan tildele grader og yrkesutdanninger i samsvar med [fors
 
 ### § 10-2. Krav til bachelorgradens omfang og sammensetning
 
-(1) Graden bachelor oppnås på grunnlag av eksamen i emner eller studieprogram av 180 studiepoengs omfang. Grunnlaget for graden skal være ett av følgende:Integrert yrkesrettet utdanning styrt av rammeplaner / nasjonale retningslinjer av 180 studiepoengs omfang.Treårige studieprogram (180 studiepoeng) som i henhold til vedtak i styret ved Høgskolen i Østfold gir bachelorgrad.
+(1) Graden bachelor oppnås på grunnlag av eksamen i emner eller studieprogram av 180 studiepoengs omfang. Grunnlaget for graden skal være ett av følgende:
 
-(2) En student kan, etter søknad, oppnå bachelorgrad på bakgrunn av selvvalgt utdanning av minst 180 studiepoengs omfang. Grunnlaget for graden skal omfatte følgende:En fordypningsenhet på minst 80 studiepoeng hvor minst 20 studiepoeng bygger på lavere nivå / grunnleggende emner, eller et fullført 2-årig integrert studieprogram. Studiepoeng fra profesjonsutdanninger som er underlagt skikkethetsvurdering, kan ikke inngå som fordypning.Emner innen samme eller et annet fagområde på minst 30 studiepoeng.Et selvstendig arbeid på minst 10 studiepoeng.Resterende studiepoeng, maksimalt 60, kan bestå av frittstående emner.Minst halvparten av emnene som inngår i selvvalgt bachelorgrad må ha vurderingsuttrykk A–E, jf. [§ 5-1 (6)](forskrift/2024-09-17-2231/§5-1/ledd/6).For at vitnemål skal utstedes må minst 60 av studiepoengene som skal inngå i graden, være avlagt ved Høgskolen i Østfold jf. [godkjenningsforskriftens § 3](forskrift/2018-12-21-2221/§3).
+1. Integrert yrkesrettet utdanning styrt av rammeplaner / nasjonale retningslinjer av 180 studiepoengs omfang.
+2. Treårige studieprogram (180 studiepoeng) som i henhold til vedtak i styret ved Høgskolen i Østfold gir bachelorgrad.
+
+(2) En student kan, etter søknad, oppnå bachelorgrad på bakgrunn av selvvalgt utdanning av minst 180 studiepoengs omfang. Grunnlaget for graden skal omfatte følgende:
+
+1. En fordypningsenhet på minst 80 studiepoeng hvor minst 20 studiepoeng bygger på lavere nivå / grunnleggende emner, eller et fullført 2-årig integrert studieprogram. Studiepoeng fra profesjonsutdanninger som er underlagt skikkethetsvurdering, kan ikke inngå som fordypning.
+2. Emner innen samme eller et annet fagområde på minst 30 studiepoeng.
+3. Et selvstendig arbeid på minst 10 studiepoeng.
+4. Resterende studiepoeng, maksimalt 60, kan bestå av frittstående emner.
+5. Minst halvparten av emnene som inngår i selvvalgt bachelorgrad må ha vurderingsuttrykk A–E, jf. [§ 5-1 (6)](forskrift/2024-09-17-2231/§5-1/ledd/6).
+6. For at vitnemål skal utstedes må minst 60 av studiepoengene som skal inngå i graden, være avlagt ved Høgskolen i Østfold jf. [godkjenningsforskriftens § 3](forskrift/2018-12-21-2221/§3).
 
 ### § 10-3. Krav til mastergradens omfang og sammensetning
 

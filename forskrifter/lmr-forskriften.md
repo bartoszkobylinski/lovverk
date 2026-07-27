@@ -15,7 +15,7 @@ xml_hash: "f556f0f0133cdfcddb9a2d2e01a501f6a07b923de28b94957ba6aca6fbf60822"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,13 @@ eu_basis: []
 
 Forskriften skal sikre at innsamling og annen behandling av helseopplysninger i Legemiddelregisteret foretas på en etisk forsvarlig måte, ivaretar den enkeltes personvern og er til individets og samfunnets beste.
 
-Formålet med Legemiddelregisteret er å samle inn og behandle opplysninger om legemiddelbruk for åkartlegge forbruket av legemidler og belyse endringer over tidfremme og gi grunnlag for forskning og utredning for å belyse positive og negative effekter av legemiddelbrukgi grunnlag for kvalitetssikring og kvalitetsforbedring av legemiddelbrukgi myndighetene grunnlag for overordnet tilsyn, styring, finansiering og planlegging av legemiddelbrukengi legemiddelrekvirenter et grunnlag for internkontroll og kvalitetsforbedring.
+Formålet med Legemiddelregisteret er å samle inn og behandle opplysninger om legemiddelbruk for å
+
+1. kartlegge forbruket av legemidler og belyse endringer over tid
+2. fremme og gi grunnlag for forskning og utredning for å belyse positive og negative effekter av legemiddelbruk
+3. gi grunnlag for kvalitetssikring og kvalitetsforbedring av legemiddelbruk
+4. gi myndighetene grunnlag for overordnet tilsyn, styring, finansiering og planlegging av legemiddelbruken
+5. gi legemiddelrekvirenter et grunnlag for internkontroll og kvalitetsforbedring.
 
 Opplysningene i registeret kan bare behandles for formålene nevnt i andre ledd.
 
@@ -40,13 +46,44 @@ Folkehelseinstituttet er dataansvarlig for Legemiddelregisteret.
 
 Legemiddelregisteret kan uten samtykke fra den registrerte inneholde opplysninger som nevnt i andre til sjette ledd, i den utstrekning det er relevant og nødvendig for å oppnå formålet med registeret.
 
-Registeret kan inneholde følgende pasientopplysninger:fødselsnummer eller andre personidentifikatorerkjønnfødselsdatodødsår og -månedbosted.
+Registeret kan inneholde følgende pasientopplysninger:
 
-Registeret kan inneholde følgende rekvirentopplysninger:helsepersonellnummer eller andre personidentifikatorerkjønnfødselsdatoprofesjonspesialitetarbeidsstedom en lege var fastlege på utleverings- eller rekvireringstidspunktet.
+1. fødselsnummer eller andre personidentifikatorer
+2. kjønn
+3. fødselsdato
+4. dødsår og -måned
+5. bosted.
 
-Registeret kan inneholde følgende opplysninger om legemidler, næringsmidler, medisinsk forbruksmateriell og legemiddelrelaterte helsetjenester:informasjon om preparatet, inkludert unik preparatidentifikator (f.eks. varenummer), preparatnavn, legemiddelform, styrke, varegruppe, utleveringsgruppe og pakningsstørrelseATC-kode og definert døgndose (DDD)batchnummerprismengdeom legemidlet er pakket i multidosebruksområde og diagnosekodedosering, inkludert administrasjonsmåterefusjonsordning, hjemmel for refusjon, refusjonskode og refundert beløplegemiddelrelaterte helsetjenester i apotek.
+Registeret kan inneholde følgende rekvirentopplysninger:
 
-Registeret kan inneholde følgende administrative og organisatoriske opplysninger:et apoteks konsesjonsnummer og navn og hvilken kommune apoteket ligger iopplysninger som identifiserer institusjonen, f.eks. et helseenhetsregisternummer, avdelingsnavn og navn på kommune eller bydeltidspunktet for rekvirering, ordinering, utlevering, utdeling og seponering av legemidlertidspunktet for ytelse av helsetjenesten i apotekhvem som har reservert seg mot generisk bytte av legemidler.
+1. helsepersonellnummer eller andre personidentifikatorer
+2. kjønn
+3. fødselsdato
+4. profesjon
+5. spesialitet
+6. arbeidssted
+7. om en lege var fastlege på utleverings- eller rekvireringstidspunktet.
+
+Registeret kan inneholde følgende opplysninger om legemidler, næringsmidler, medisinsk forbruksmateriell og legemiddelrelaterte helsetjenester:
+
+1. informasjon om preparatet, inkludert unik preparatidentifikator (f.eks. varenummer), preparatnavn, legemiddelform, styrke, varegruppe, utleveringsgruppe og pakningsstørrelse
+2. ATC-kode og definert døgndose (DDD)
+3. batchnummer
+4. pris
+5. mengde
+6. om legemidlet er pakket i multidose
+7. bruksområde og diagnosekode
+8. dosering, inkludert administrasjonsmåte
+9. refusjonsordning, hjemmel for refusjon, refusjonskode og refundert beløp
+10. legemiddelrelaterte helsetjenester i apotek.
+
+Registeret kan inneholde følgende administrative og organisatoriske opplysninger:
+
+1. et apoteks konsesjonsnummer og navn og hvilken kommune apoteket ligger i
+2. opplysninger som identifiserer institusjonen, f.eks. et helseenhetsregisternummer, avdelingsnavn og navn på kommune eller bydel
+3. tidspunktet for rekvirering, ordinering, utlevering, utdeling og seponering av legemidler
+4. tidspunktet for ytelse av helsetjenesten i apotek
+5. hvem som har reservert seg mot generisk bytte av legemidler.
 
 Registeret kan inneholde opplysninger om hvilken art et dyr tilhører.
 
@@ -64,7 +101,11 @@ Folkehelseinstituttet fastsetter hvilke systemer opplysningene skal tilgjengelig
 
 ### § 2-2. Apotekets plikt til å sende inn opplysninger, informasjonsplikt
 
-Et apotek plikter, uten hinder av taushetsplikten, å tilgjengeliggjøre for Legemiddelregisteret de opplysningene som er nevnt i § 1-3 omekspederte resepterekspederte rekvisisjoner, inkludert leveranser til institusjoner og skip eller andre fartøyerlegemiddelrelaterte helsetjenester i apotek.
+Et apotek plikter, uten hinder av taushetsplikten, å tilgjengeliggjøre for Legemiddelregisteret de opplysningene som er nevnt i § 1-3 om
+
+1. ekspederte resepter
+2. ekspederte rekvisisjoner, inkludert leveranser til institusjoner og skip eller andre fartøyer
+3. legemiddelrelaterte helsetjenester i apotek.
 
 Innsending av opplysninger skal følge de rutinene, tidsfristene og kravene til format som til enhver tid er fastsatt av Folkehelseinstituttet.
 

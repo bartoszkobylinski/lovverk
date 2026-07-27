@@ -15,7 +15,7 @@ xml_hash: "75207fefad5b55c527945d255229cb19cc404ddb61726914660c6924525aac8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,91 +48,186 @@ Utdanningen skal til enhver tid fylle gjeldende nasjonale og internasjonale krav
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med kravene i kapitel 2 til 7 under følgende kompetanseområder:Jordmorprofesjonens grunnlagstenkningJordmorfaglig ekspertiseSeksuell og reproduktiv helse og rettigheterKommunikasjon, brukermedvirkning og samhandlingFaglig ledelse, fagutvikling, nytenking og kvalitetForskning og formidling.
+Utdanningen skal gi læringsutbytte i tråd med kravene i kapitel 2 til 7 under følgende kompetanseområder:
+
+- Jordmorprofesjonens grunnlagstenkning
+- Jordmorfaglig ekspertise
+- Seksuell og reproduktiv helse og rettigheter
+- Kommunikasjon, brukermedvirkning og samhandling
+- Faglig ledelse, fagutvikling, nytenking og kvalitet
+- Forskning og formidling.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet jordmorprofesjonens grunnlagstenkning
 
 ### § 4. Jordmorprofesjonens grunnlagstenkning – kunnskap
 
-Kandidatenkan analysere faglige problemstillinger med utgangspunkt i jordmorprofesjonens historie, tradisjoner, verdier, yrkesetikk, egenart og plass i samfunnethar avansert kunnskap om jordmors funksjon og ansvarsområdehar avansert kunnskap om sentrale begreper og teorier som er relevante for jordmorfagethar avansert kunnskap om betydning av familiedannelse som en biologisk og psykologisk prosess, sosial begivenhet og kulturell og eksistensiell hendelse.har spesialisert innsikt i menneskerettigheter, inkludering, likestilling og ikke-diskriminering, uavhengig av kultur, språk, etnisitet, religion og livssyn, funksjonsnivå, kjønn, kjønnsidentitet, seksuell orientering, kjønnsuttrykk, alder og familieform, som er relevant for jordmorfaget.
+Kandidaten
+
+1. kan analysere faglige problemstillinger med utgangspunkt i jordmorprofesjonens historie, tradisjoner, verdier, yrkesetikk, egenart og plass i samfunnet
+2. har avansert kunnskap om jordmors funksjon og ansvarsområde
+3. har avansert kunnskap om sentrale begreper og teorier som er relevante for jordmorfaget
+4. har avansert kunnskap om betydning av familiedannelse som en biologisk og psykologisk prosess, sosial begivenhet og kulturell og eksistensiell hendelse.
+5. har spesialisert innsikt i menneskerettigheter, inkludering, likestilling og ikke-diskriminering, uavhengig av kultur, språk, etnisitet, religion og livssyn, funksjonsnivå, kjønn, kjønnsidentitet, seksuell orientering, kjønnsuttrykk, alder og familieform, som er relevant for jordmorfaget.
 
 ### § 5. Jordmorprofesjonens grunnlagstenkning – ferdigheter
 
-Kandidatenkan bruke kunnskap til å fremme, beskytte og støtte reproduktiv og seksuell helse og rettigheter, og respektere etnisk, religiøst, kulturelt, kjønns- og seksualitetsmangfold, uavhengig av alder, helsestatus, funksjonsnivå og juridisk- og sosioøkonomisk statuskan bruke jordmors profesjonskompetanse til å anerkjenne kvinnens autonomi og være i et likeverdig samspill med kvinnen, hennes partner, familie, andre profesjoner og aktuelle aktører.
+Kandidaten
+
+1. kan bruke kunnskap til å fremme, beskytte og støtte reproduktiv og seksuell helse og rettigheter, og respektere etnisk, religiøst, kulturelt, kjønns- og seksualitetsmangfold, uavhengig av alder, helsestatus, funksjonsnivå og juridisk- og sosioøkonomisk status
+2. kan bruke jordmors profesjonskompetanse til å anerkjenne kvinnens autonomi og være i et likeverdig samspill med kvinnen, hennes partner, familie, andre profesjoner og aktuelle aktører.
 
 ### § 6. Jordmorprofesjonens grunnlagstenkning – generell kompetanse
 
-Kandidatenkan analysere faglige problemstillinger i tråd med etiske prinsipper, rettferdighet og respekt for menneskeverdet og kan anvende dette i utøvelse av jordmorfaget.kan anvende kunnskap om urbefolkning, migranter og andre minoriteters særlige behov og eventuelle helseutfordringer i utøvelsen av jordmorfaget, herunder også kunnskap om hvordan språk og kultur påvirker kommunikasjon og samhandlingkan anvende kunnskaper og ferdigheter til å fremme helse og forebygge utvikling av uhelse på individ-, gruppe-, system- og samfunnsnivåkan anvende kunnskaper og ferdigheter til å veilede og utdanne jordmødre i tråd med yrkets autonomi, verdier og egenartkan anvende kunnskaper og ferdigheter for å tilrettelegge for en respektfull, forutsigbar og fleksibel omsorg som ivaretar behovene til kvinnen, barnet og partneren.
+Kandidaten
+
+1. kan analysere faglige problemstillinger i tråd med etiske prinsipper, rettferdighet og respekt for menneskeverdet og kan anvende dette i utøvelse av jordmorfaget.
+2. kan anvende kunnskap om urbefolkning, migranter og andre minoriteters særlige behov og eventuelle helseutfordringer i utøvelsen av jordmorfaget, herunder også kunnskap om hvordan språk og kultur påvirker kommunikasjon og samhandling
+3. kan anvende kunnskaper og ferdigheter til å fremme helse og forebygge utvikling av uhelse på individ-, gruppe-, system- og samfunnsnivå
+4. kan anvende kunnskaper og ferdigheter til å veilede og utdanne jordmødre i tråd med yrkets autonomi, verdier og egenart
+5. kan anvende kunnskaper og ferdigheter for å tilrettelegge for en respektfull, forutsigbar og fleksibel omsorg som ivaretar behovene til kvinnen, barnet og partneren.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet jordmorfaglig ekspertise
 
 ### § 7. Jordmorfaglig ekspertise – kunnskap
 
-Kandidatenhar avansert kunnskap om normalt svangerskap, fødsel og barseltid herunder anatomi, fysiologi, psykologi og farmakologi som er relevant for yrkesutøvelsenhar avansert kunnskap om det friske ufødte og nyfødte barnet herunder avansert kunnskap i anatomi og fysiologi samt grunnleggende kunnskap i genetikk og embryologihar avansert kunnskap om anatomi og fysiologi i forbindelse med amming, og faktorer som påvirker etablering og opprettholdelse av melkeproduksjon, samt ernæring av nyfødte dersom forelder ikke kan/skal amme og/eller at barnet ikke kan få morsmelkenhar avansert kunnskap om patologiske tilstander i svangerskap, fødsel, barseltid, ved amming/morsmelkproduksjon og hos det ufødte og det nyfødte barnethar inngående kunnskap om hvordan den gravides og partners nettverk, livssituasjon, levevaner, helsekompetanse, fysiske, psykiske og seksuelle helse påvirker svangerskap, fødsel og barseltid, familiedannelse, tilknytningsprosesser og det ufødte eller nyfødte barnets helsehar avansert kunnskap om sammenheng mellom de ulike levevaneområdene (fysisk aktivitet, kosthold, alkohol og andre rusmidler), mors og barns helse og risiko for fødselsutfall, og kan benytte denne kunnskapen til å veilede og støtte kvinnen i å ta gode valghar inngående kunnskap om kartleggingsverktøy, undersøkelser og behandling som tilbys i svangerskap, fødsel og barseltid herunder grunnleggende kunnskap om fosterdiagnostikk inkludert tidlig ultralyd og non invasiv prenatal test (NIPT).
+Kandidaten
+
+1. har avansert kunnskap om normalt svangerskap, fødsel og barseltid herunder anatomi, fysiologi, psykologi og farmakologi som er relevant for yrkesutøvelsen
+2. har avansert kunnskap om det friske ufødte og nyfødte barnet herunder avansert kunnskap i anatomi og fysiologi samt grunnleggende kunnskap i genetikk og embryologi
+3. har avansert kunnskap om anatomi og fysiologi i forbindelse med amming, og faktorer som påvirker etablering og opprettholdelse av melkeproduksjon, samt ernæring av nyfødte dersom forelder ikke kan/skal amme og/eller at barnet ikke kan få morsmelken
+4. har avansert kunnskap om patologiske tilstander i svangerskap, fødsel, barseltid, ved amming/morsmelkproduksjon og hos det ufødte og det nyfødte barnet
+5. har inngående kunnskap om hvordan den gravides og partners nettverk, livssituasjon, levevaner, helsekompetanse, fysiske, psykiske og seksuelle helse påvirker svangerskap, fødsel og barseltid, familiedannelse, tilknytningsprosesser og det ufødte eller nyfødte barnets helse
+6. har avansert kunnskap om sammenheng mellom de ulike levevaneområdene (fysisk aktivitet, kosthold, alkohol og andre rusmidler), mors og barns helse og risiko for fødselsutfall, og kan benytte denne kunnskapen til å veilede og støtte kvinnen i å ta gode valg
+7. har inngående kunnskap om kartleggingsverktøy, undersøkelser og behandling som tilbys i svangerskap, fødsel og barseltid herunder grunnleggende kunnskap om fosterdiagnostikk inkludert tidlig ultralyd og non invasiv prenatal test (NIPT).
 
 ### § 8. Jordmorfaglig ekspertise – ferdigheter
 
-Kandidatenkan analysere og bruke relevante metoder for å veilede og forberede den gravide og eventuell partner til fødsel og foreldrerollekan analysere og bruke aktuelle digitale og medisinsktekniske hjelpemidlerkan analysere og bruke relevante metoder for å observere, undersøke, faglig vurdere, faglig begrunne og selvstendig iverksette og dokumentere tiltak innen det jordmorfaglige ansvarsområdetkan analysere og bruke kliniske og teknologiske metoder for fosterovervåkning, og tilkalle og/eller involvere lege ved avvikende funnkan analysere og bruke relevante metoder for å veilede og administrere ikke-medikamentell og medikamentell smertelindring under fødselkan analysere og bruke relevante metoder for å forebygge, diagnostisere og suturere fødselsrifter samt utføre episiotomi på indikasjonkan analysere og bruke relevante metoder for å identifisere avvik i svangerskap, fødsel og barseltid, hos det nyfødte barnet, og ved amming/morsmelkproduksjon og ved behov sette i verk hensiktsmessige tiltak, tilkalle nødvendig faglig ekspertise og/eller henvise viderekan bruke relevante metoder for forløsning av barn i seteleiekan bruke relevante metoder for livreddende obstetriske nødtiltak dersom lege ikke er tilgjengelig, herunder vakuumforløsning og manuell uthenting av placenta for å stoppe alvorlig postpartumblødningkan bruke kunnskaper og relevante metoder til å identifisere, iverksette og behandle barn som har behov for gjenoppliving.
+Kandidaten
+
+1. kan analysere og bruke relevante metoder for å veilede og forberede den gravide og eventuell partner til fødsel og foreldrerolle
+2. kan analysere og bruke aktuelle digitale og medisinsktekniske hjelpemidler
+3. kan analysere og bruke relevante metoder for å observere, undersøke, faglig vurdere, faglig begrunne og selvstendig iverksette og dokumentere tiltak innen det jordmorfaglige ansvarsområdet
+4. kan analysere og bruke kliniske og teknologiske metoder for fosterovervåkning, og tilkalle og/eller involvere lege ved avvikende funn
+5. kan analysere og bruke relevante metoder for å veilede og administrere ikke-medikamentell og medikamentell smertelindring under fødsel
+6. kan analysere og bruke relevante metoder for å forebygge, diagnostisere og suturere fødselsrifter samt utføre episiotomi på indikasjon
+7. kan analysere og bruke relevante metoder for å identifisere avvik i svangerskap, fødsel og barseltid, hos det nyfødte barnet, og ved amming/morsmelkproduksjon og ved behov sette i verk hensiktsmessige tiltak, tilkalle nødvendig faglig ekspertise og/eller henvise videre
+8. kan bruke relevante metoder for forløsning av barn i seteleie
+9. kan bruke relevante metoder for livreddende obstetriske nødtiltak dersom lege ikke er tilgjengelig, herunder vakuumforløsning og manuell uthenting av placenta for å stoppe alvorlig postpartumblødning
+10. kan bruke kunnskaper og relevante metoder til å identifisere, iverksette og behandle barn som har behov for gjenoppliving.
 
 ### § 9. Jordmorfaglig ekspertise – generell kompetanse
 
-Kandidatenkan analysere og kritisk vurdere kunnskapsgrunnlag og foreta faglige vurderinger og handlinger i tråd med teoretisk og forskningsbasert kunnskap, erfaringsbasert kunnskap og pasientens behov og ønskerkan anvende kunnskaper og ferdigheter til å ta et selvstendig ansvar for oppfølging av normalt svangerskap, fødsel, barseltid og det friske nyfødte barnet herunder tilrettelegge for helhet og kontinuitet i tjenestenkan anvende kunnskaper og ferdigheter til å støtte de fysiologiske, sosiale og kulturelle prosesser i svangerskap, fødsel og barseltid, og bare intervenere når det er nødvendigkan anvende kunnskaper og ferdigheter for å fremme en god ammestart, ta et selvstendig ansvar for å støtte og veilede i amming, samt ivareta og støtte de som ikke kan, eller ikke ønsker å ammekan anvende kunnskaper og ferdigheter til praktisk, fysisk og psykisk ivaretakelse av familier i krise relatert til dødfødsel og alvorlig syke foster / nyfødte barn.
+Kandidaten
+
+1. kan analysere og kritisk vurdere kunnskapsgrunnlag og foreta faglige vurderinger og handlinger i tråd med teoretisk og forskningsbasert kunnskap, erfaringsbasert kunnskap og pasientens behov og ønsker
+2. kan anvende kunnskaper og ferdigheter til å ta et selvstendig ansvar for oppfølging av normalt svangerskap, fødsel, barseltid og det friske nyfødte barnet herunder tilrettelegge for helhet og kontinuitet i tjenesten
+3. kan anvende kunnskaper og ferdigheter til å støtte de fysiologiske, sosiale og kulturelle prosesser i svangerskap, fødsel og barseltid, og bare intervenere når det er nødvendig
+4. kan anvende kunnskaper og ferdigheter for å fremme en god ammestart, ta et selvstendig ansvar for å støtte og veilede i amming, samt ivareta og støtte de som ikke kan, eller ikke ønsker å amme
+5. kan anvende kunnskaper og ferdigheter til praktisk, fysisk og psykisk ivaretakelse av familier i krise relatert til dødfødsel og alvorlig syke foster / nyfødte barn.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet seksuell og reproduktiv helse og rettigheter
 
 ### § 10. Seksuell og reproduktiv helse og rettigheter – kunnskap
 
-Kandidatenhar avansert kunnskap om reproduktiv helse og rettigheter, familieplanlegging, prevensjon og aborthar inngående kunnskap om hvordan svangerskap, fødsel og barseltid kan påvirke seksuell helse, relasjon til partner og parforholdethar inngående kunnskap om ulike typer vold og overgrep, negativ sosial kontroll og kjønnslemlestelse inkludert juridiske rettigheter og plikter i samarbeid rundt voldsutsattehar inngående kunnskap om kjønn, seksualitetsmangfold, seksuelle rettigheter og seksuell helse og uhelse i ulike livsfaser og i et nasjonalt og internasjonalt perspektiv, herunder faktorer som påvirker oppfattelsen av seksuell og reproduktiv helsehar kunnskap om gynekologi som er relevant for jordmorfaget.
+Kandidaten
+
+1. har avansert kunnskap om reproduktiv helse og rettigheter, familieplanlegging, prevensjon og abort
+2. har inngående kunnskap om hvordan svangerskap, fødsel og barseltid kan påvirke seksuell helse, relasjon til partner og parforholdet
+3. har inngående kunnskap om ulike typer vold og overgrep, negativ sosial kontroll og kjønnslemlestelse inkludert juridiske rettigheter og plikter i samarbeid rundt voldsutsatte
+4. har inngående kunnskap om kjønn, seksualitetsmangfold, seksuelle rettigheter og seksuell helse og uhelse i ulike livsfaser og i et nasjonalt og internasjonalt perspektiv, herunder faktorer som påvirker oppfattelsen av seksuell og reproduktiv helse
+5. har kunnskap om gynekologi som er relevant for jordmorfaget.
 
 ### § 11. Seksuell og reproduktiv helse og rettigheter – ferdigheter
 
-Kandidatenkan bruke relevante metoder for å veilede, informere og undervise om seksualitet og seksuell og reproduktiv helse og rettigheter med åpenhet og respektkan bruke relevante metoder for prevensjonsveiledning, rekvirering og administrering av alle typer prevensjonsmidlerkan bruke relevante metoder for enkel gynekologisk undersøkelse herunder gjennomføre livmorhalsprøve.
+Kandidaten
+
+1. kan bruke relevante metoder for å veilede, informere og undervise om seksualitet og seksuell og reproduktiv helse og rettigheter med åpenhet og respekt
+2. kan bruke relevante metoder for prevensjonsveiledning, rekvirering og administrering av alle typer prevensjonsmidler
+3. kan bruke relevante metoder for enkel gynekologisk undersøkelse herunder gjennomføre livmorhalsprøve.
 
 ### § 12. Seksuell og reproduktiv helse og rettigheter – generell kompetanse
 
-Kandidatenkan analysere relevante faglige problemstillinger knyttet til seksuell og reproduktiv helse og rettigheter i utøvelse av jordmorfaget og henvise videre ved behovkan anvende kunnskaper om kultur og mangfold for å fremme seksuell og reproduktiv helse og rettigheter på individ og befolkningsnivåkan anvende kunnskaper og ferdigheter for å avdekke voldserfaringer og vold i nære relasjoner, samarbeide med andre profesjoner ved avdekking av vold og henvise videre ved behov.
+Kandidaten
+
+1. kan analysere relevante faglige problemstillinger knyttet til seksuell og reproduktiv helse og rettigheter i utøvelse av jordmorfaget og henvise videre ved behov
+2. kan anvende kunnskaper om kultur og mangfold for å fremme seksuell og reproduktiv helse og rettigheter på individ og befolkningsnivå
+3. kan anvende kunnskaper og ferdigheter for å avdekke voldserfaringer og vold i nære relasjoner, samarbeide med andre profesjoner ved avdekking av vold og henvise videre ved behov.
 
 ## Kapittel 5. Kommunikasjon, brukermedvirkning og samhandling
 
 ### § 13. Kommunikasjon, brukermedvirkning og samhandling – kunnskap
 
-Kandidatenhar avansert kunnskap om kommunikasjon og relasjonsbygging, samt inngående kunnskap om helsepedagogiske metoder relevant for jordmorfagethar inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers helseadferd, forståelse, håndtering og mestring av egenomsorg.
+Kandidaten
+
+1. har avansert kunnskap om kommunikasjon og relasjonsbygging, samt inngående kunnskap om helsepedagogiske metoder relevant for jordmorfaget
+2. har inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers helseadferd, forståelse, håndtering og mestring av egenomsorg.
 
 ### § 14. Kommunikasjon, brukermedvirkning og samhandling – ferdigheter
 
-Kandidatenkan bruke kunnskapsbaserte og helsepedagogiske metoder i helseopplysning, veiledning, endringsarbeid og rådgivning på et selvstendig grunnlagkan gi informasjon og veiledning tilpasset pasienters, brukeres og pårørendes helsekompetanse, herunder kunne kommunisere via profesjonell tolk.
+Kandidaten
+
+1. kan bruke kunnskapsbaserte og helsepedagogiske metoder i helseopplysning, veiledning, endringsarbeid og rådgivning på et selvstendig grunnlag
+2. kan gi informasjon og veiledning tilpasset pasienters, brukeres og pårørendes helsekompetanse, herunder kunne kommunisere via profesjonell tolk.
 
 ### § 15. Kommunikasjon, brukermedvirkning og samhandling – generell kompetanse
 
-Kandidatenkan analysere og anvende kunnskap om egen og andres rolle i ulike former for samarbeidkan anvende kunnskaper og ferdigheter slik at brukermedvirkning på individ-, gruppe- og systemnivå blir ivaretattkan anvende kunnskaper og ferdigheter til å skape en trygg og tillitsfull relasjon i møte med kvinnen, partner, familien, samarbeidspartnere og allmenhetenkan kommunisere og samhandle med brukere, pårørende, intraprofesjonelt, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivå, samt initiere slik samhandlingkan kommunisere med urfolk og minoriteter på en måte som tar hensyn til deres språklige og kulturelle bakgrunn.
+Kandidaten
+
+1. kan analysere og anvende kunnskap om egen og andres rolle i ulike former for samarbeid
+2. kan anvende kunnskaper og ferdigheter slik at brukermedvirkning på individ-, gruppe- og systemnivå blir ivaretatt
+3. kan anvende kunnskaper og ferdigheter til å skape en trygg og tillitsfull relasjon i møte med kvinnen, partner, familien, samarbeidspartnere og allmenheten
+4. kan kommunisere og samhandle med brukere, pårørende, intraprofesjonelt, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivå, samt initiere slik samhandling
+5. kan kommunisere med urfolk og minoriteter på en måte som tar hensyn til deres språklige og kulturelle bakgrunn.
 
 ## Kapittel 6. Faglig ledelse, fagutvikling, nytenking og kvalitet
 
 ### § 16. Faglig ledelse, fagutvikling, nytenking og kvalitet – kunnskap
 
-Kandidatenhar inngående kunnskap om aktuelle lover og forskrifter, samt politiske og faglige føringer for en sammenhengende svangerskap-, fødsel- og barselomsorghar avansert kunnskap om pasient- og brukersikkerhet herunder meldeplikt ved uønskede hendelser, kvalitets- og forbedringsmetodikk, og innovasjonsprosesser innenfor tjenesteområdethar inngående kunnskap om ledelse på ulike nivåer innen tjenesteområdet.
+Kandidaten
+
+1. har inngående kunnskap om aktuelle lover og forskrifter, samt politiske og faglige føringer for en sammenhengende svangerskap-, fødsel- og barselomsorg
+2. har avansert kunnskap om pasient- og brukersikkerhet herunder meldeplikt ved uønskede hendelser, kvalitets- og forbedringsmetodikk, og innovasjonsprosesser innenfor tjenesteområdet
+3. har inngående kunnskap om ledelse på ulike nivåer innen tjenesteområdet.
 
 ### § 17. Faglig ledelse, fagutvikling, nytenking og kvalitet – ferdigheter
 
-Kandidatenkan bruke relevant faglig kunnskap til å ta lederskap og håndtere en akuttmedisinsk situasjon, og til selv å bli ledet i relevante situasjonerkan bruke relevante metoder for systematisk kvalitetsforbedring og pasient- og brukersikkerhet, herunder analysere og forebygge uønskede hendelserkan bruke reglene for avvergeplikt, taushetsplikt, opplysningsplikt og opplysningsrett.
+Kandidaten
+
+1. kan bruke relevant faglig kunnskap til å ta lederskap og håndtere en akuttmedisinsk situasjon, og til selv å bli ledet i relevante situasjoner
+2. kan bruke relevante metoder for systematisk kvalitetsforbedring og pasient- og brukersikkerhet, herunder analysere og forebygge uønskede hendelser
+3. kan bruke reglene for avvergeplikt, taushetsplikt, opplysningsplikt og opplysningsrett.
 
 ### § 18. Faglig ledelse, fagutvikling, nytenking og kvalitet – generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter til å utvikle og lede eget arbeid og fagområdetkan anvende digitale løsninger og har kunnskap om og kan kritisk vurdere teknologiens muligheter, begrensninger og juridiske rammer i helsesektorenkan bidra til systematiske arbeidsprosesser, nytenking, innovasjonsprosesser og bærekraft i klinisk praksis herunder videreutvikle en kunnskapsbasert jordmortjenestekan anvende kunnskaper og ferdigheter til selvivaretakelse, ha evne til å søke veiledning samt bidra til medarbeiderskap og et godt arbeidsmiljø.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter til å utvikle og lede eget arbeid og fagområdet
+2. kan anvende digitale løsninger og har kunnskap om og kan kritisk vurdere teknologiens muligheter, begrensninger og juridiske rammer i helsesektoren
+3. kan bidra til systematiske arbeidsprosesser, nytenking, innovasjonsprosesser og bærekraft i klinisk praksis herunder videreutvikle en kunnskapsbasert jordmortjeneste
+4. kan anvende kunnskaper og ferdigheter til selvivaretakelse, ha evne til å søke veiledning samt bidra til medarbeiderskap og et godt arbeidsmiljø.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet forskning og formidling
 
 ### § 19. Forskning og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteori, forskningsmetoder og forskningsetikk som er relevant for jordmorfagethar avansert kunnskap om krav til vitenskapelighet i forskning, fagutvikling og profesjonsutøvelse.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteori, forskningsmetoder og forskningsetikk som er relevant for jordmorfaget
+2. har avansert kunnskap om krav til vitenskapelighet i forskning, fagutvikling og profesjonsutøvelse.
 
 ### § 20. Forskning og formidling – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til ulike informasjonskilder og anvende disse til å strukturere og formulere faglige resonnementerkan gjennomføre et selvstendig og avgrenset vitenskapelig arbeid, under veiledning, i tråd med forskningsetiske normer.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til ulike informasjonskilder og anvende disse til å strukturere og formulere faglige resonnementer
+2. kan gjennomføre et selvstendig og avgrenset vitenskapelig arbeid, under veiledning, i tråd med forskningsetiske normer.
 
 ### § 21. Forskning og formidling – generell kompetanse
 
-Kandidatenkan kommunisere om faglige problemstillinger, analyser og konklusjoner innenfor fagområdet, både med spesialister og til allmennhetenkan anvende kunnskaper og ferdigheter på nye områder for å gjennomføre avanserte arbeidsoppgaver og prosjekter.
+Kandidaten
+
+1. kan kommunisere om faglige problemstillinger, analyser og konklusjoner innenfor fagområdet, både med spesialister og til allmennheten
+2. kan anvende kunnskaper og ferdigheter på nye områder for å gjennomføre avanserte arbeidsoppgaver og prosjekter.
 
 ## Kapittel 8. Studiets oppbygging og praksisstudier
 

@@ -16,7 +16,7 @@ xml_hash: "76bf9665b9cd5a486be4ee7092b5ddc00a54b140ac3a7261b8b79ac53ed58f9c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,11 @@ Ved eventuell motstrid mellom forordningens bestemmelser og denne forskriften, g
 
 Enhver virksomhet som tilvirker, lagrer, transporterer eller bringer i omsetning medisinfôr eller mellomprodukter, plikter å ha godkjenning fra Matilsynet for hver enkelt enhet som virksomheten driver.
 
-Unntatt fra bestemmelsen i første ledd er:Virksomheter som utelukkende kjøper, lagrer eller transporterer medisinfôr, som kun skal brukes på egen driftsenhet,virksomheter som bare driver handel, uten å oppbevare medisinfôret eller mellomproduktene i sine lokaler ogvirksomheter som utelukkende transporterer eller lagrer medisinfôr eller mellomprodukter i forseglede pakninger eller beholdere.
+Unntatt fra bestemmelsen i første ledd er:
+
+- Virksomheter som utelukkende kjøper, lagrer eller transporterer medisinfôr, som kun skal brukes på egen driftsenhet,
+- virksomheter som bare driver handel, uten å oppbevare medisinfôret eller mellomproduktene i sine lokaler og
+- virksomheter som utelukkende transporterer eller lagrer medisinfôr eller mellomprodukter i forseglede pakninger eller beholdere.
 
 > Endret ved forskrift [16 des 2024 nr. 3481](forskrift/2024-12-16-3481) (tidligere § 3).
 
@@ -180,15 +184,37 @@ Ved denne forordningen fastsettes særlige bestemmelser om medisinfôr og mellom
 
 ### Artikkel 2. Virkeområde
 
-1\. Denne forordningen gjelder forframstilling, lagring og transport av medisinfôr og mellomprodukter.omsetning, herunder import fra tredjeland, og bruk av medisinfôr og mellomprodukter,eksport av medisinfôr og mellomprodukter til tredjeland. Imidlertid gjelder artikkel 9, 16, 17 og 18 ikke for medisinfôr og mellomprodukter der det på etiketten er angitt at de er beregnet på eksport til tredjeland.
+1\. Denne forordningen gjelder for
+
+1. framstilling, lagring og transport av medisinfôr og mellomprodukter.
+2. omsetning, herunder import fra tredjeland, og bruk av medisinfôr og mellomprodukter,
+3. eksport av medisinfôr og mellomprodukter til tredjeland. Imidlertid gjelder artikkel 9, 16, 17 og 18 ikke for medisinfôr og mellomprodukter der det på etiketten er angitt at de er beregnet på eksport til tredjeland.
 
 2\. Denne forordningen gjelder ikke for veterinærpreparater som definert i forordning [(EU) 2019/6](eu/32019r0006) med mindre de er innarbeidet i medisinfôr eller et mellomprodukt.
 
 ### Artikkel 3. Definisjoner
 
-1\. I denne forordningen gjelder følgende definisjoner:Definisjonene av «fôr», «fôrforetak» og «omsetning» fastsatt i henholdsvis artikkel 3 nr. 4, 5 og 8 i forordning (EF) nr. 178/2002.Definisjonene av «tilsetningsstoffer i fôrvarer» (heretter kalt «fôrtilsetninger») og «dagsrasjon» fastsatt i henholdsvis artikkel 2 nr. 2 bokstav a) og f) i forordning [(EF) nr. 1831/2003](eu/32003r1831).Definisjonene av «dyr bestemt til næringsmiddelproduksjon», «dyr som ikke er bestemt til næringsmiddelproduksjon», «pelsdyr», «fôrmidler», «fôrblanding», «fullfôr», «tilskuddsfôr», «mineralfôr», «holdbarhetsgrense», «parti», «merking» og «etikett» fastsatt i henholdsvis artikkel 3 nr. 2 bokstav c), d), e), g), h), i), j), k), q), r), s) og t) i forordning [(EF) nr. 767/2009](eu/32009r0767).Definisjonen av «virksomhet» fastsatt i artikkel 3 bokstav d) i forordning (EF) nr. 183/2005.Definisjonene av «offentlig kontroll» og «vedkommende myndigheter» fastsatt i henholdsvis artikkel 2 nr. 1 og artikkel 3 nr. 3 i forordning (EU) 2017/625.Definisjonene av «veterinærpreparat», «virksomt stoff», «immunologisk veterinærpreparat», «antimikrobielt stoff», «parasittmiddel», «antibiotikum», «metafylakse», «profylakse» og «tilbakeholdingstid» fastsatt i henholdsvis artikkel 4 nr. 1, 3, 5, 12, 13, 14, 15, 16 og 34 i forordning (EU) 2019/6, og «preparatomtale» som omhandlet i artikkel 35 i samme forordning.
+1\. I denne forordningen gjelder følgende definisjoner:
 
-2\. Videre menes med«medisinfôr» fôr som er klart til å gis direkte til dyrene uten videre bearbeiding, og som består av av ett eller flere veterinærpreparater eller mellomprodukter i en homogen blanding med fôrmidler eller fôrblandinger,«mellomprodukt» fôr som ikke er klart til å gis direkte til dyrene uten videre bearbeiding, som består av ett eller flere veterinærpreparater i en homogen blanding med fôrmidler eller fôrblandinger, og som utelukkende er beregnet på framstilling av medisinfôr,«fôr til dyr utenfor målgruppen» fôr, enten det er medisinfôr eller ikke, som ikke er beregnet på å inneholde et bestemt virksomt stoff,«krysskontaminering» kontaminering av fôr til dyr utenfor målgruppen med et virksomt stoff som stammer fra den tidligere bruken av anlegget eller utstyret,«driftsansvarlig for fôrforetak» enhver fysisk eller juridisk person som har ansvar for at kravene i denne forordningen overholdes i fôrforetaket som den personen har ansvar for,«mobil blander» en driftsansvarlig for et fôrforetak som består av et spesialutstyrt kjøretøy til framstilling av medisinfôr,«hjemmeblander» en driftsansvarlig for et fôrforetak som framstiller medisinfôr utelukkende til bruk på sin egen driftsenhet,«veterinærresept på medisinfôr» en resept på medisinfôr utstedt av en veterinær,«reklame» enhver form for presentasjon i forbindelse med medisinfôr og mellomprodukter for å fremme forskriving eller bruk av medisinfôr, også utlevering av prøver og sponsing,«dyreholder» enhver fysisk eller juridisk person som har ansvar for dyr, uansett om det er permanent eller midlertidig.
+1. Definisjonene av «fôr», «fôrforetak» og «omsetning» fastsatt i henholdsvis artikkel 3 nr. 4, 5 og 8 i forordning (EF) nr. 178/2002.
+2. Definisjonene av «tilsetningsstoffer i fôrvarer» (heretter kalt «fôrtilsetninger») og «dagsrasjon» fastsatt i henholdsvis artikkel 2 nr. 2 bokstav a) og f) i forordning [(EF) nr. 1831/2003](eu/32003r1831).
+3. Definisjonene av «dyr bestemt til næringsmiddelproduksjon», «dyr som ikke er bestemt til næringsmiddelproduksjon», «pelsdyr», «fôrmidler», «fôrblanding», «fullfôr», «tilskuddsfôr», «mineralfôr», «holdbarhetsgrense», «parti», «merking» og «etikett» fastsatt i henholdsvis artikkel 3 nr. 2 bokstav c), d), e), g), h), i), j), k), q), r), s) og t) i forordning [(EF) nr. 767/2009](eu/32009r0767).
+4. Definisjonen av «virksomhet» fastsatt i artikkel 3 bokstav d) i forordning (EF) nr. 183/2005.
+5. Definisjonene av «offentlig kontroll» og «vedkommende myndigheter» fastsatt i henholdsvis artikkel 2 nr. 1 og artikkel 3 nr. 3 i forordning (EU) 2017/625.
+6. Definisjonene av «veterinærpreparat», «virksomt stoff», «immunologisk veterinærpreparat», «antimikrobielt stoff», «parasittmiddel», «antibiotikum», «metafylakse», «profylakse» og «tilbakeholdingstid» fastsatt i henholdsvis artikkel 4 nr. 1, 3, 5, 12, 13, 14, 15, 16 og 34 i forordning (EU) 2019/6, og «preparatomtale» som omhandlet i artikkel 35 i samme forordning.
+
+2\. Videre menes med
+
+1. «medisinfôr» fôr som er klart til å gis direkte til dyrene uten videre bearbeiding, og som består av av ett eller flere veterinærpreparater eller mellomprodukter i en homogen blanding med fôrmidler eller fôrblandinger,
+2. «mellomprodukt» fôr som ikke er klart til å gis direkte til dyrene uten videre bearbeiding, som består av ett eller flere veterinærpreparater i en homogen blanding med fôrmidler eller fôrblandinger, og som utelukkende er beregnet på framstilling av medisinfôr,
+3. «fôr til dyr utenfor målgruppen» fôr, enten det er medisinfôr eller ikke, som ikke er beregnet på å inneholde et bestemt virksomt stoff,
+4. «krysskontaminering» kontaminering av fôr til dyr utenfor målgruppen med et virksomt stoff som stammer fra den tidligere bruken av anlegget eller utstyret,
+5. «driftsansvarlig for fôrforetak» enhver fysisk eller juridisk person som har ansvar for at kravene i denne forordningen overholdes i fôrforetaket som den personen har ansvar for,
+6. «mobil blander» en driftsansvarlig for et fôrforetak som består av et spesialutstyrt kjøretøy til framstilling av medisinfôr,
+7. «hjemmeblander» en driftsansvarlig for et fôrforetak som framstiller medisinfôr utelukkende til bruk på sin egen driftsenhet,
+8. «veterinærresept på medisinfôr» en resept på medisinfôr utstedt av en veterinær,
+9. «reklame» enhver form for presentasjon i forbindelse med medisinfôr og mellomprodukter for å fremme forskriving eller bruk av medisinfôr, også utlevering av prøver og sponsing,
+10. «dyreholder» enhver fysisk eller juridisk person som har ansvar for dyr, uansett om det er permanent eller midlertidig.
 
 ### KAPITTEL II
 FRAMSTILLING, LAGRING, TRANSPORT OG OMSETNING
@@ -197,7 +223,9 @@ FRAMSTILLING, LAGRING, TRANSPORT OG OMSETNING
 
 1\. Driftsansvarlige for fôrforetak skal framstille, lagre, transportere og bringe i omsetning medisinfôr og mellomprodukter i samsvar med vedlegg I.
 
-2\. Denne artikkelen gjelder ikke for gårdbrukere som bare kjøper, lagrer eller transporterer medisinfôr som utelukkende skal brukes på deres egen driftsenhet.Uten hensyn til første ledd gjelder vedlegg I avsnitt 5 for slike gårdbrukere.
+2\. Denne artikkelen gjelder ikke for gårdbrukere som bare kjøper, lagrer eller transporterer medisinfôr som utelukkende skal brukes på deres egen driftsenhet.
+
+Uten hensyn til første ledd gjelder vedlegg I avsnitt 5 for slike gårdbrukere.
 
 3\. Artikkel 101 nr. 2 og artikkel 105 nr. 9 i forordning [(EU) 2019/6](eu/32019r0006) gjelder tilsvarende med nødvendige endringer for utlevering av mellomprodukter.
 
@@ -207,7 +235,12 @@ FRAMSTILLING, LAGRING, TRANSPORT OG OMSETNING
 
 1\. Medisinfôr og mellomprodukter skal bare framstilles av veterinærpreparater, herunder veterinærpreparater beregnet på å brukes i samsvar med artikkel 112, 113 eller 114 i forordning (EU) 2019/6, som er godkjent for framstilling av medisinfôr i samsvar med vilkårene fastsatt i nevnte forordning.
 
-2\. Den driftsansvarlige for fôrforetaket som framstiller medisinfôret eller mellomproduktet, skal sikre atmedisinfôret eller mellomproduktet framstilles i samsvar med de relevante vilkårene fastsatt i veterinærresepten på medisinfôr eller, i tilfellene nevnt i artikkel 8 i denne forordningen, i preparatomtalen, med hensyn til de veterinærpreparatene som skal blandes i fôret; disse vilkårene skal omfatte særlige bestemmelser om kjente interaksjoner mellom veterinærpreparatene og fôret som kan svekke sikkerheten ved eller virkningen av medisinfôret eller mellomproduktet,en fôrtilsetning som er godkjent som et koksidiostatikum eller et histomonostatikum, og som det er fastsatt et høyeste tillatt innhold av i den respektive rettsakten om godkjenning, ikke blandes i medisinfôret eller mellomproduktet dersom det allerede er brukt som virksomt stoff i veterinærpreparatet,dersom det virksomme stoffet i veterinærpreparatet er det samme som et stoff i en fôrtilsetning som finnes i det aktuelle fôret, så overstiger ikke det samlede innholdet av det aktuelle virksomme stoffet i medisinfôret det høyeste tillatte innholdet angitt i veterinærresepten på medisinfôr eller, i tilfellene nevnt i artikkel 8, i preparatomtalen,veterinærpreparatene er blandet i fôret på en slik måte at medisinfôret utgjør en stabil blanding i hele sin holdbarhetstid, og at veterinærpreparatets utløpsdato som nevnt i artikkel 10 nr. 1 bokstav f) i forordning (EU) 2019/6 overholdes, forutsatt at medisinfôret eller mellomproduktet lagres og håndteres på riktig måte.
+2\. Den driftsansvarlige for fôrforetaket som framstiller medisinfôret eller mellomproduktet, skal sikre at
+
+1. medisinfôret eller mellomproduktet framstilles i samsvar med de relevante vilkårene fastsatt i veterinærresepten på medisinfôr eller, i tilfellene nevnt i artikkel 8 i denne forordningen, i preparatomtalen, med hensyn til de veterinærpreparatene som skal blandes i fôret; disse vilkårene skal omfatte særlige bestemmelser om kjente interaksjoner mellom veterinærpreparatene og fôret som kan svekke sikkerheten ved eller virkningen av medisinfôret eller mellomproduktet,
+2. en fôrtilsetning som er godkjent som et koksidiostatikum eller et histomonostatikum, og som det er fastsatt et høyeste tillatt innhold av i den respektive rettsakten om godkjenning, ikke blandes i medisinfôret eller mellomproduktet dersom det allerede er brukt som virksomt stoff i veterinærpreparatet,
+3. dersom det virksomme stoffet i veterinærpreparatet er det samme som et stoff i en fôrtilsetning som finnes i det aktuelle fôret, så overstiger ikke det samlede innholdet av det aktuelle virksomme stoffet i medisinfôret det høyeste tillatte innholdet angitt i veterinærresepten på medisinfôr eller, i tilfellene nevnt i artikkel 8, i preparatomtalen,
+4. veterinærpreparatene er blandet i fôret på en slik måte at medisinfôret utgjør en stabil blanding i hele sin holdbarhetstid, og at veterinærpreparatets utløpsdato som nevnt i artikkel 10 nr. 1 bokstav f) i forordning (EU) 2019/6 overholdes, forutsatt at medisinfôret eller mellomproduktet lagres og håndteres på riktig måte.
 
 3\. Driftsansvarlige for fôrforetak som utleverer medisinfôr til dyreholderen, skal sikre at medisinfôret er i samsvar med resepten nevnt i artikkel 16.
 
@@ -221,9 +254,13 @@ FRAMSTILLING, LAGRING, TRANSPORT OG OMSETNING
 
 1\. Driftsansvarlige for fôrforetak som framstiller, lagrer, transporterer eller bringer i omsetning medisinfôr eller mellomprodukter, skal treffe tiltak i samsvar med artikkel 4 for å unngå krysskontaminering.
 
-2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 20 for å utfylle denne forordningen ved å fastsette spesifikke øvre grenser for krysskontaminering for virksomme stoffer i fôr til dyr utenfor målgruppen, med mindre det allerede er fastsatt slike grenser i samsvar med direktiv [2002/32/EF](eu/32002l0032). I disse delegerte rettsaktene kan det også fastsettes analysemetoder for virksomme stoffer i fôr.Når det gjelder øvre grenser for krysskontaminering, skal de delegerte rettsaktene være basert på en vitenskapelig risikovurdering gjennomført av EFSA.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 20 for å utfylle denne forordningen ved å fastsette spesifikke øvre grenser for krysskontaminering for virksomme stoffer i fôr til dyr utenfor målgruppen, med mindre det allerede er fastsatt slike grenser i samsvar med direktiv [2002/32/EF](eu/32002l0032). I disse delegerte rettsaktene kan det også fastsettes analysemetoder for virksomme stoffer i fôr.
 
-3\. Kommisjonen skal innen 28. januar 2023 vedta delegerte rettsakter i samsvar med artikkel 20 for å utfylle denne forordningen ved å fastsette, når det gjelder de antimikrobielle virksomme stoffene oppført i vedlegg II, spesifikke øvre grenser for krysskontaminering for virksomme stoffer i fôr til dyr utenfor målgruppen og analysemetoder for virksomme stoffer i fôr.Når det gjelder øvre grenser for krysskontaminering, skal de delegerte rettsaktene være basert på en vitenskapelig risikovurdering gjennomført av EFSA.
+Når det gjelder øvre grenser for krysskontaminering, skal de delegerte rettsaktene være basert på en vitenskapelig risikovurdering gjennomført av EFSA.
+
+3\. Kommisjonen skal innen 28. januar 2023 vedta delegerte rettsakter i samsvar med artikkel 20 for å utfylle denne forordningen ved å fastsette, når det gjelder de antimikrobielle virksomme stoffene oppført i vedlegg II, spesifikke øvre grenser for krysskontaminering for virksomme stoffer i fôr til dyr utenfor målgruppen og analysemetoder for virksomme stoffer i fôr.
+
+Når det gjelder øvre grenser for krysskontaminering, skal de delegerte rettsaktene være basert på en vitenskapelig risikovurdering gjennomført av EFSA.
 
 4\. For virksomme stoffer i veterinærpreparatet som er de samme som et stoff i en fôrtilsetning, skal gjeldende øvre grense for krysskontaminering i fôr til dyr utenfor målgruppen være det høyeste tillatte innholdet av fôrtilsetningen i fullfôr som er fastsatt i den relevante unionsrettsakten.
 
@@ -233,11 +270,16 @@ FRAMSTILLING, LAGRING, TRANSPORT OG OMSETNING
 
 Medisinfôr og mellomprodukter kan framstilles og bringes i omsetning, bortsett fra når det gjelder utlevering til dyreholderen, før resepten nevnt i artikkel 16 er utstedt.
 
-Første ledd i denne artikkelen gjelder ikke forhjemmeblandere og mobile blandere,framstilling av medisinfôr eller mellomprodukter der det iblandes veterinærpreparater som er beregnet på å brukes i samsvar med artikkel 112 eller 113 i forordning (EU) 2019/6.
+Første ledd i denne artikkelen gjelder ikke for
+
+1. hjemmeblandere og mobile blandere,
+2. framstilling av medisinfôr eller mellomprodukter der det iblandes veterinærpreparater som er beregnet på å brukes i samsvar med artikkel 112 eller 113 i forordning (EU) 2019/6.
 
 ### Artikkel 9. Særlige krav til merking
 
-1\. Merkingen av medisinfôr og mellomprodukter skal være i samsvar med vedlegg III til denne forordningen.Dessuten får de særlige kravene til merking av fôrmidler og fôrblandinger fastsatt i forordning [(EF) nr. 767/2009](eu/32009r0767) anvendelse på medisinfôr og mellomprodukter som inneholder henholdsvis fôrmidler eller fôrblandinger.
+1\. Merkingen av medisinfôr og mellomprodukter skal være i samsvar med vedlegg III til denne forordningen.
+
+Dessuten får de særlige kravene til merking av fôrmidler og fôrblandinger fastsatt i forordning [(EF) nr. 767/2009](eu/32009r0767) anvendelse på medisinfôr og mellomprodukter som inneholder henholdsvis fôrmidler eller fôrblandinger.
 
 2\. Når det brukes beholdere i stedet for pakninger, skal de følges av et dokument som er i samsvar med nr. 1.
 
@@ -274,7 +316,11 @@ GODKJENNING AV VIRKSOMHETER
 
 1\. Driftsansvarlige for fôrforetak som framstiller, lagrer, transporterer eller bringer i omsetning medisinfôr eller mellomprodukter, skal sikre at virksomheter under deres kontroll er godkjent av vedkommende myndigheter.
 
-2\. Nr. 1 gjelder ikke for følgende driftsansvarlige for fôrforetak:De som bare kjøper, lagrer eller transporterer medisinfôr som utelukkende skal brukes på deres egen driftsenhet.De som utelukkende driver handel, uten at de oppbevarer medisinfôret eller mellomproduktene i sine lokaler.De som bare transporterer eller lagrer medisinfôr eller mellomprodukter i forseglede pakninger eller beholdere.
+2\. Nr. 1 gjelder ikke for følgende driftsansvarlige for fôrforetak:
+
+1. De som bare kjøper, lagrer eller transporterer medisinfôr som utelukkende skal brukes på deres egen driftsenhet.
+2. De som utelukkende driver handel, uten at de oppbevarer medisinfôret eller mellomproduktene i sine lokaler.
+3. De som bare transporterer eller lagrer medisinfôr eller mellomprodukter i forseglede pakninger eller beholdere.
 
 3\. Vedkommende myndighet skal bare godkjenne virksomheter når et besøk på stedet før den relevante virksomheten startet, har vist at systemet som er innført for framstilling, lagring, transport eller omsetning av medisinfôr eller mellomprodukter, oppfyller de særlige kravene i kapittel II.
 
@@ -297,7 +343,10 @@ FORSKRIVING OG BRUK
 
 ### Artikkel 16. Forskriving
 
-1\. Utlevering av medisinfôr til dyreholdere skal bare skjemot forevisning og, dersom det er framstilt av hjemmeblandere, ved besittelse av en veterinærresept på medisinfôr, ogi samsvar med vilkårene fastsatt i nr. 2–10.
+1\. Utlevering av medisinfôr til dyreholdere skal bare skje
+
+1. mot forevisning og, dersom det er framstilt av hjemmeblandere, ved besittelse av en veterinærresept på medisinfôr, og
+2. i samsvar med vilkårene fastsatt i nr. 2–10.
 
 2\. En veterinærresept på medisinfôr skal bare utstedes etter at en veterinær har foretatt en klinisk undersøkelse eller andre egnede vurderinger av helsetilstanden til dyret eller gruppen av dyr, og bare for en diagnostisert sykdom.
 
@@ -305,17 +354,34 @@ FORSKRIVING OG BRUK
 
 4\. Som unntak fra nr. 2 kan det, dersom det ikke er mulig å bekrefte forekomst av en diagnostisert sykdom, utstedes en veterinærresept på medisinfôr som inneholder parasittmidler uten antimikrobielle virkninger, basert på kunnskap om parasittangrepets omfang hos dyret eller gruppen av dyr.
 
-5\. Som unntak fra artikkel 3 nr. 2 bokstav h) og fra nr. 2 i denne artikkelen kan en medlemsstat tillate at en veterinærresept på medisinfôr utstedes av en fagperson som er kvalifisert til å gjøre det i samsvar med gjeldende nasjonal rett per 27. januar 2019.Slike resepter skal ikke omfatte forskriving av medisinfôr som inneholder antimikrobielle veterinærpreparater, eller andre veterinærpreparater der det er nødvendig at en veterinær stiller diagnose, og skal bare være gyldige i den aktuelle medlemsstaten.Fagpersonen nevnt i første ledd skal ved utstedelsen av en slik resept foreta alle nødvendige kontroller i samsvar med nasjonal rett.Nr. 6, 7, 8 og 10 i denne artikkelen gjelder tilsvarende med nødvendige endringer for slike resepter.
+5\. Som unntak fra artikkel 3 nr. 2 bokstav h) og fra nr. 2 i denne artikkelen kan en medlemsstat tillate at en veterinærresept på medisinfôr utstedes av en fagperson som er kvalifisert til å gjøre det i samsvar med gjeldende nasjonal rett per 27. januar 2019.
 
-6\. Veterinærresepten på medisinfôr skal inneholde opplysningene fastsatt i vedlegg V.Originalen av veterinærresepten på medisinfôr skal oppbevares av produsenten eller, dersom det er relevant, av den driftsansvarlige for fôrforetaket som utleverer medisinfôret til dyreholderen. Veterinæren, eller fagpersonen nevnt i nr. 5, som utsteder veterinærresepten på medisinfôr, og holderen av dyr bestemt til næringsmiddelproduksjon eller pelsdyr, skal oppbevare en kopi av resepten.Originalen og kopiene skal oppbevares i fem år fra utstedelsesdatoen.
+Slike resepter skal ikke omfatte forskriving av medisinfôr som inneholder antimikrobielle veterinærpreparater, eller andre veterinærpreparater der det er nødvendig at en veterinær stiller diagnose, og skal bare være gyldige i den aktuelle medlemsstaten.
 
-7\. Med unntak av medisinfôr til dyr som ikke er bestemt til næringsmiddelproduksjon, bortsett fra pelsdyr, skal én og samme veterinærresept på medisinfôr ikke brukes til mer enn én behandling.Varigheten av en behandling skal være i samsvar med preparatomtalen for veterinærpreparatet som er blandet i fôret, og dersom den ikke er angitt der, skal den være høyst én måned, eller høyst to uker for medisinfôr som inneholder veterinærpreparater som er antibiotika.
+Fagpersonen nevnt i første ledd skal ved utstedelsen av en slik resept foreta alle nødvendige kontroller i samsvar med nasjonal rett.
+
+Nr. 6, 7, 8 og 10 i denne artikkelen gjelder tilsvarende med nødvendige endringer for slike resepter.
+
+6\. Veterinærresepten på medisinfôr skal inneholde opplysningene fastsatt i vedlegg V.
+
+Originalen av veterinærresepten på medisinfôr skal oppbevares av produsenten eller, dersom det er relevant, av den driftsansvarlige for fôrforetaket som utleverer medisinfôret til dyreholderen. Veterinæren, eller fagpersonen nevnt i nr. 5, som utsteder veterinærresepten på medisinfôr, og holderen av dyr bestemt til næringsmiddelproduksjon eller pelsdyr, skal oppbevare en kopi av resepten.
+
+Originalen og kopiene skal oppbevares i fem år fra utstedelsesdatoen.
+
+7\. Med unntak av medisinfôr til dyr som ikke er bestemt til næringsmiddelproduksjon, bortsett fra pelsdyr, skal én og samme veterinærresept på medisinfôr ikke brukes til mer enn én behandling.
+
+Varigheten av en behandling skal være i samsvar med preparatomtalen for veterinærpreparatet som er blandet i fôret, og dersom den ikke er angitt der, skal den være høyst én måned, eller høyst to uker for medisinfôr som inneholder veterinærpreparater som er antibiotika.
 
 8\. Veterinærresepten på medisinfôr skal fra utstedelsesdatoen være gyldig i høyst seks måneder for dyr som ikke er bestemt til næringsmiddelproduksjon, bortsett fra pelsdyr, og i høyst tre uker for dyr bestemt til næringsmiddelproduksjon og pelsdyr. For medisinfôr som inneholder antimikrobielle veterinærpreparater, skal resepten være gyldig i høyst fem dager fra utstedelsesdatoen.
 
 9\. Veterinæren som utsteder veterinærresepten på medisinfôr, skal verifisere at det er veterinærmedisinsk velbegrunnet å gi det aktuelle veterinærpreparatet til måldyrene. Dessuten skal nevnte veterinær sikre at administreringen av det aktuelle veterinærpreparatet ikke er uforenlig med annen behandling eller bruk, og at det ikke er noen kontraindikasjoner eller interaksjon dersom det brukes flere preparater. Særlig skal veterinæren ikke foreskrive medisinfôr med mer enn ett veterinærpreparat som inneholder antimikrobielle stoffer.
 
-10\. Veterinærresepten på medisinfôr skalvære i samsvar med preparatomtalen for veterinærpreparatet, unntatt når det gjelder veterinærpreparater beregnet på å brukes i samsvar med artikkel 112, 113 eller 114 i forordning (EU) 2019/6,angi den daglige dosen av veterinærpreparatet som skal blandes i en mengde medisinfôr som sikrer at måldyret får i seg den daglige dosen, idet det tas hensyn til at fôropptaket hos syke dyr kan skille seg fra en normal dagsrasjon,sikre at medisinfôret som inneholder den daglige dosen av veterinærpreparatet, tilsvarer minst 50 % av den daglige fôrrasjonen beregnet som tørrstoff, og når det gjelder drøvtyggere, at den daglige dosen av veterinærpreparatet finnes i minst 50 % av tilskuddsfôret, unntatt når det dreier seg om mineralfôr,angi tilsatt mengde av de virksomme stoffene, beregnet på grunnlag av relevante parametrer.
+10\. Veterinærresepten på medisinfôr skal
+
+1. være i samsvar med preparatomtalen for veterinærpreparatet, unntatt når det gjelder veterinærpreparater beregnet på å brukes i samsvar med artikkel 112, 113 eller 114 i forordning (EU) 2019/6,
+2. angi den daglige dosen av veterinærpreparatet som skal blandes i en mengde medisinfôr som sikrer at måldyret får i seg den daglige dosen, idet det tas hensyn til at fôropptaket hos syke dyr kan skille seg fra en normal dagsrasjon,
+3. sikre at medisinfôret som inneholder den daglige dosen av veterinærpreparatet, tilsvarer minst 50 % av den daglige fôrrasjonen beregnet som tørrstoff, og når det gjelder drøvtyggere, at den daglige dosen av veterinærpreparatet finnes i minst 50 % av tilskuddsfôret, unntatt når det dreier seg om mineralfôr,
+4. angi tilsatt mengde av de virksomme stoffene, beregnet på grunnlag av relevante parametrer.
 
 11\. Veterinærresepter på medisinfôr som er utstedt i samsvar med nr. 2, 3 og 4, skal anerkjennes i hele Unionen.
 
@@ -452,7 +518,9 @@ Framstilling
 ### AVSNITT 4
 Kvalitetskontroll
 
-1\. En plan for kvalitetskontroll skal nedtegnes skriftlig og gjennomføres. Den skal særlig omfatte kontroll av kritiske punkter i framstillingsprosessen, prøvetakingsprosedyrer og -hyppighet, analysemetoder og -hyppighet, overholdelse av spesifikasjonene for medisinfôret og mellomproduktene samt tiltak som skal treffes i tilfelle av manglende overholdelse.Kvalitetskontrollplanen bør fastsette regler om rekkefølgen på eller uforenlighet mellom framstillingsprosesser og, dersom det er relevant, definere behovet for særskilte produksjonslinjer.
+1\. En plan for kvalitetskontroll skal nedtegnes skriftlig og gjennomføres. Den skal særlig omfatte kontroll av kritiske punkter i framstillingsprosessen, prøvetakingsprosedyrer og -hyppighet, analysemetoder og -hyppighet, overholdelse av spesifikasjonene for medisinfôret og mellomproduktene samt tiltak som skal treffes i tilfelle av manglende overholdelse.
+
+Kvalitetskontrollplanen bør fastsette regler om rekkefølgen på eller uforenlighet mellom framstillingsprosesser og, dersom det er relevant, definere behovet for særskilte produksjonslinjer.
 
 2\. Særlige regelmessige egenkontroller og stabilitetsprøvinger skal sikre overholdelse av homogenitetskriteriene fastsatt i samsvar med artikkel 6 nr. 2, de øvre grensene for krysskontaminering for fôr til dyr utenfor målgruppen som fastsatt i samsvar med artikkel 7 nr. 2, og holdbarhetsgrensen for medisinfôret og mellomproduktene.
 
@@ -461,7 +529,9 @@ Lagring og transport
 
 1\. Medisinfôr og mellomprodukter skal lagres i egnede atskilte og sikrede lokaler eller forsegles i hermetiske beholdere som er særskilt utformet for lagring av slike produkter. De skal lagres på steder som er utformet og tilpasset og blir vedlikeholdt for å sikre gode lagringsforhold.
 
-2\. Veterinærpreparater skal lagres i atskilte, trygge og sikre områder. Disse områdene skal ha tilstrekkelig kapasitet og være identifisert på korrekt måte for å muliggjøre velordnet lagring av de forskjellige veterinærpreparatene.Medisinfôr og mellomprodukter skal lagres og transporteres på en slik måte at de lett kan identifiseres. Medisinfôr og mellomprodukter skal transporteres med egnede transportmidler.
+2\. Veterinærpreparater skal lagres i atskilte, trygge og sikre områder. Disse områdene skal ha tilstrekkelig kapasitet og være identifisert på korrekt måte for å muliggjøre velordnet lagring av de forskjellige veterinærpreparatene.
+
+Medisinfôr og mellomprodukter skal lagres og transporteres på en slik måte at de lett kan identifiseres. Medisinfôr og mellomprodukter skal transporteres med egnede transportmidler.
 
 3\. Det skal utpekes særskilte anlegg for lagring av medisinfôr og mellomprodukter der holdbarhetsdatoen er utgått, eller som er trukket tilbake eller returnert.
 
@@ -472,19 +542,39 @@ Registerføring
 
 1\. Driftsansvarlige for fôrforetak som framstiller, lagrer, transporterer eller bringer i omsetning medisinfôr og mellomprodukter, skal føre et register over relevante data om innkjøp, produksjon, lagring, transport og omsetning, med henblikk på effektiv sporing fra mottak til levering, herunder eksport til det endelige bestemmelsesstedet.
 
-2\. Registeret nevnt i nr. 1 i dette avsnittet skal inneholdeHACCP-dokumentasjonen nevnt i artikkel 6 nr. 2 bokstav g) og artikkel 7 nr. 1 i forordning (EF) nr. 183/2005.kvalitetskontrollplanen omhandlet i avsnitt 4 i dette vedlegget og resultatene av de relevante kontrollene,spesifikasjoner og mengder for veterinærpreparater med partinummer, fôrmidler, fôrblandinger, fôrtilsetninger, mellomprodukter og medisinfôr som er innkjøpt,spesifikasjoner og mengder for de partiene av medisinfôr og mellomprodukter som er framstilt, herunder veterinærpreparater med partinummer, fôrmidler, fôrblandinger, fôrtilsetninger og mellomprodukter som er brukt,spesifikasjoner og mengder for de partiene av medisinfôr og mellomprodukter som er lagret eller transportert,spesifikasjoner og mengder for medisinfôr og mellomprodukter som er brakt i omsetning eller eksportert til tredjeland, herunder det unike nummeret på veterinærresepten på medisinfôr,opplysninger om produsentene eller leverandørene av medisinfôret og mellomproduktene eller av produktene som er brukt til framstilling av medisinfôret og mellomproduktene, herunder minst navn, adresse og, dersom det er relevant, godkjenningsnummer,opplysninger om mottakerne av medisinfôret og mellomproduktene, herunder minst navn, adresse og, dersom det er relevant, godkjenningsnummer, ogopplysninger om veterinæren, eller fagpersonen som nevnt i artikkel 16 nr. 5, som har utstedt veterinærresepten på medisinfôr, herunder minst navn og adresse.Dokumentene nevnt i dette nummeret skal oppbevares i registeret i minst fem år fra utstedelsesdatoen.
+2\. Registeret nevnt i nr. 1 i dette avsnittet skal inneholde
+
+1. HACCP-dokumentasjonen nevnt i artikkel 6 nr. 2 bokstav g) og artikkel 7 nr. 1 i forordning (EF) nr. 183/2005.
+2. kvalitetskontrollplanen omhandlet i avsnitt 4 i dette vedlegget og resultatene av de relevante kontrollene,
+3. spesifikasjoner og mengder for veterinærpreparater med partinummer, fôrmidler, fôrblandinger, fôrtilsetninger, mellomprodukter og medisinfôr som er innkjøpt,
+4. spesifikasjoner og mengder for de partiene av medisinfôr og mellomprodukter som er framstilt, herunder veterinærpreparater med partinummer, fôrmidler, fôrblandinger, fôrtilsetninger og mellomprodukter som er brukt,
+5. spesifikasjoner og mengder for de partiene av medisinfôr og mellomprodukter som er lagret eller transportert,
+6. spesifikasjoner og mengder for medisinfôr og mellomprodukter som er brakt i omsetning eller eksportert til tredjeland, herunder det unike nummeret på veterinærresepten på medisinfôr,
+7. opplysninger om produsentene eller leverandørene av medisinfôret og mellomproduktene eller av produktene som er brukt til framstilling av medisinfôret og mellomproduktene, herunder minst navn, adresse og, dersom det er relevant, godkjenningsnummer,
+8. opplysninger om mottakerne av medisinfôret og mellomproduktene, herunder minst navn, adresse og, dersom det er relevant, godkjenningsnummer, og
+9. opplysninger om veterinæren, eller fagpersonen som nevnt i artikkel 16 nr. 5, som har utstedt veterinærresepten på medisinfôr, herunder minst navn og adresse.
+
+Dokumentene nevnt i dette nummeret skal oppbevares i registeret i minst fem år fra utstedelsesdatoen.
 
 ### AVSNITT 7
 Klager og tilbakekalling av produkter
 
 1\. Driftsansvarlige for fôrforetak som bringer medisinfôr og mellomprodukter i omsetning, skal innføre et system for registrering og behandling av klager.
 
-2\. Driftsansvarlige for fôrforetak skal innføre et system for omgående tilbaketrekking fra markedet, og om nødvendig for tilbakekalling fra distribusjonsnettet, av medisinfôr eller mellomprodukter i tilfelle de ikke oppfyller kravene i denne forordningen.Driftsansvarlige for fôrforetak skal ved hjelp av skriftlige prosedyrer fastsette bestemmelsesstedet for eventuelle tilbakekalte produkter, og før slike produkter bringes tilbake i omsetning, skal de driftsansvarlige foreta en ny kvalitetskontroll for å sikre at Unionens krav til fôrtrygghet er overholdt.
+2\. Driftsansvarlige for fôrforetak skal innføre et system for omgående tilbaketrekking fra markedet, og om nødvendig for tilbakekalling fra distribusjonsnettet, av medisinfôr eller mellomprodukter i tilfelle de ikke oppfyller kravene i denne forordningen.
+
+Driftsansvarlige for fôrforetak skal ved hjelp av skriftlige prosedyrer fastsette bestemmelsesstedet for eventuelle tilbakekalte produkter, og før slike produkter bringes tilbake i omsetning, skal de driftsansvarlige foreta en ny kvalitetskontroll for å sikre at Unionens krav til fôrtrygghet er overholdt.
 
 ### AVSNITT 8
 Tilleggskrav til mobile blandere
 
-1\. Mobile blandere skal ha en kopi av følgende dokumenter tilgjengelig i kjøretøyet, på det offisielle språket i medlemsstaten der medisinfôret framstilles:Den utpekte mobile blanderens godkjenning til å framstille medisinfôr, utstedt av vedkommende myndighet i den medlemsstaten der den mobile blanderen er godkjent.HACCP-dokumentasjonen nevnt i artikkel 6 nr. 2 bokstav g) og artikkel 7 nr. 1 i forordning (EF) nr. 183/2005.Kvalitetskontrollplanen omhandlet i avsnitt 4 i dette vedlegget.Rengjøringsplanen nevnt i avsnitt 1 i dette vedlegget.Listen over personer med ansvar for framstillingen av medisinfôr nevnt i avsnitt 2 i dette vedlegget.
+1\. Mobile blandere skal ha en kopi av følgende dokumenter tilgjengelig i kjøretøyet, på det offisielle språket i medlemsstaten der medisinfôret framstilles:
+
+1. Den utpekte mobile blanderens godkjenning til å framstille medisinfôr, utstedt av vedkommende myndighet i den medlemsstaten der den mobile blanderen er godkjent.
+2. HACCP-dokumentasjonen nevnt i artikkel 6 nr. 2 bokstav g) og artikkel 7 nr. 1 i forordning (EF) nr. 183/2005.
+3. Kvalitetskontrollplanen omhandlet i avsnitt 4 i dette vedlegget.
+4. Rengjøringsplanen nevnt i avsnitt 1 i dette vedlegget.
+5. Listen over personer med ansvar for framstillingen av medisinfôr nevnt i avsnitt 2 i dette vedlegget.
 
 2\. Mobile blandere skal treffe alle nødvendige forebyggende tiltak for å hindre spredning av sykdommer. Kjøretøyer som brukes til framstilling av medisinfôr, skal rengjøres etter hver gang de er brukt til dette, for å unngå risiko for krysskontaminering.
 
@@ -523,7 +613,21 @@ LISTE OVER ANTIMIKROBIELLE VIRKSOMME STOFFER SOM NEVNT I ARTIKKEL 7 NR. 3
 ### VEDLEGG III
 SÆRLIGE KRAV TIL MERKING SOM NEVNT I ARTIKKEL 9 NR. 1
 
-Etiketten på medisinfôr og mellomprodukter skal inneholde følgende opplysninger, som skal angis på en måte som er enkel, tydelig og lett forståelig for sluttbrukerne:Betegnelsen «Medisinfôr» eller «Mellomprodukt til framstilling av medisinfôr», avhengig av hva som er relevant.Godkjenningsnummeret til den driftsansvarlige for fôrforetaket som er ansvarlig for merkingen. I tilfeller der produsenten ikke er den driftsansvarlige for fôrforetaket som er ansvarlig for merkingen, skal følgende angis:Produsentens navn eller firmanavn og adresse.Produsentens godkjenningsnummer.De virksomme stoffene med navn og tilsatt mengde (mg/kg) og veterinærpreparatene med markedsføringstillatelsens nummer og navnet på innehaveren, under overskriften «Legemiddel».Eventuelle kontraindikasjoner for veterinærpreparatet og uønskede hendelser, dersom disse opplysningene er nødvendige for bruken.Dersom det gjelder et medisinfôr eller mellomprodukt som er beregnet på dyr bestemt til næringsmiddelproduksjon, tilbakeholdingstiden eller angivelsen «ingen tilbakeholdingstid».Når det gjelder medisinfôr til dyr som ikke er bestemt til næringsmiddelproduksjon, med unntak av pelsdyr, en advarsel om at medisinfôret bare er beregnet på behandling av dyr, og en advarsel om at det må oppbevares utilgjengelig for barn.Et kostnadsfritt telefonnummer eller en annen egnet kommunikasjonsform som gjør det mulig for dyreholderen å få pakningsvedlegget til hvert veterinærpreparat, i tillegg til de obligatoriske opplysningene.Bruksanvisning i tråd med veterinærresepten for medisinfôr eller preparatomtalen.Holdbarhetsgrensen, som skal ta hensyn til veterinærpreparatenes holdbarhetsdato, og som skal uttrykkes som «Brukes før ...» etterfulgt av datoen, og eventuelle særlige forholdsregler for lagring.Opplysning om at regelstridig kassering av medisinfôr utgjør en alvorlig trussel mot miljøet og eventuelt kan medvirke til antimikrobiell resistens.
+Etiketten på medisinfôr og mellomprodukter skal inneholde følgende opplysninger, som skal angis på en måte som er enkel, tydelig og lett forståelig for sluttbrukerne:
+
+1. Betegnelsen «Medisinfôr» eller «Mellomprodukt til framstilling av medisinfôr», avhengig av hva som er relevant.
+2. Godkjenningsnummeret til den driftsansvarlige for fôrforetaket som er ansvarlig for merkingen. I tilfeller der produsenten ikke er den driftsansvarlige for fôrforetaket som er ansvarlig for merkingen, skal følgende angis:
+
+   1. Produsentens navn eller firmanavn og adresse.
+   2. Produsentens godkjenningsnummer.
+3. De virksomme stoffene med navn og tilsatt mengde (mg/kg) og veterinærpreparatene med markedsføringstillatelsens nummer og navnet på innehaveren, under overskriften «Legemiddel».
+4. Eventuelle kontraindikasjoner for veterinærpreparatet og uønskede hendelser, dersom disse opplysningene er nødvendige for bruken.
+5. Dersom det gjelder et medisinfôr eller mellomprodukt som er beregnet på dyr bestemt til næringsmiddelproduksjon, tilbakeholdingstiden eller angivelsen «ingen tilbakeholdingstid».
+6. Når det gjelder medisinfôr til dyr som ikke er bestemt til næringsmiddelproduksjon, med unntak av pelsdyr, en advarsel om at medisinfôret bare er beregnet på behandling av dyr, og en advarsel om at det må oppbevares utilgjengelig for barn.
+7. Et kostnadsfritt telefonnummer eller en annen egnet kommunikasjonsform som gjør det mulig for dyreholderen å få pakningsvedlegget til hvert veterinærpreparat, i tillegg til de obligatoriske opplysningene.
+8. Bruksanvisning i tråd med veterinærresepten for medisinfôr eller preparatomtalen.
+9. Holdbarhetsgrensen, som skal ta hensyn til veterinærpreparatenes holdbarhetsdato, og som skal uttrykkes som «Brukes før ...» etterfulgt av datoen, og eventuelle særlige forholdsregler for lagring.
+10. Opplysning om at regelstridig kassering av medisinfôr utgjør en alvorlig trussel mot miljøet og eventuelt kan medvirke til antimikrobiell resistens.
 
 Nr. 1–10 gjelder ikke for mobile blandere som utelukkende framstiller medisinfôr uten å levere noen bestanddeler.
 
@@ -560,7 +664,11 @@ VETERINÆRRESEPT PÅ MEDISINFÔR
 12. For dyr bestemt til næringsmiddelproduksjon: tilbakeholdingstid, selv om denne er null.
 13. Eventuelle advarsler som er nødvendige for å sikre riktig bruk, herunder for å sikre forsvarlig bruk av antimikrobielle stoffer dersom det er relevant.
 14. For dyr bestemt til næringsmiddelproduksjon og pelsdyr: angivelsen «Denne resepten skal ikke gjenbrukes».
-15. Følgende opplysninger, som leverandøren av medisinfôret eller hjemmeblanderen skal fylle ut, avhengig av hva som er relevant:Navn eller firmanavn og adresse.Leveringsdato eller dato for hjemmeblanding.Partinummer på medisinfôr levert i henhold til veterinærresepten, unntatt for hjemmeblandere.
+15. Følgende opplysninger, som leverandøren av medisinfôret eller hjemmeblanderen skal fylle ut, avhengig av hva som er relevant:
+
+    - Navn eller firmanavn og adresse.
+    - Leveringsdato eller dato for hjemmeblanding.
+    - Partinummer på medisinfôr levert i henhold til veterinærresepten, unntatt for hjemmeblandere.
 16. Underskrift fra dyreholderens leverandør eller fra hjemmeblanderen.
 
 ### VEDLEGG VI

@@ -15,7 +15,7 @@ xml_hash: "24b572ec7fa3df5f73e09c9ddf02216c66536c04e18e8eb5d9c3c8524b75d5aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,9 +98,13 @@ Fagskolen bekjentgjør søknadsfrister på skolens nettside. Fagskolen benytter 
 
 ### § 2-7. Søkere med utenlandsk utdanning
 
-1\) Søkere fra land i NordenSøkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
+1\) Søkere fra land i Norden
 
-2\) Søkere fra land utenfor NordenSøkere fra land utenfor Norden med bestått og fullført videregående opplæring må dokumentere kunnskaper i norsk.
+Søkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
+
+2\) Søkere fra land utenfor Norden
+
+Søkere fra land utenfor Norden med bestått og fullført videregående opplæring må dokumentere kunnskaper i norsk.
 
 ### § 2-8. Krav til norskkunnskaper
 
@@ -128,7 +132,11 @@ Vedtak om opptak er et enkeltvedtak og kan påklages, jf. kapittel 4 i denne for
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
-Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i reglement eller studieplanen.Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, ihht. studiekontrakt.Studenten ikke har mistet retten til å gå opp til eksamen.
+Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+1. Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i reglement eller studieplanen.
+2. Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, ihht. studiekontrakt.
+3. Studenten ikke har mistet retten til å gå opp til eksamen.
 
 ### § 3-3. Bortvisning fra eksamen/avsluttende vurdering og sensur
 

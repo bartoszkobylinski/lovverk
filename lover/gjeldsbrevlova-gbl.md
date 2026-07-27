@@ -96,7 +96,12 @@ Avhendaren svarar berre for at skyldnaren er vederheftig, når han tek det på s
 
 Reglane i dette kapitel gjeld berre omsetningsgjeldsbrev.
 
-Eit gjeldsbrev er omsetningsgjeldsbrev når det antenlyder på ihendehavaren eller ikkje seier kven gjelda skal betalast til (ihendehavargjeldsbrev), ellerlyder på namn med tillegget «eller order» eller eit anna slikt tillegg (ordergjeldsbrev), ellergjev pant i fast eigedom eller i skip eller anna innretning som er innført i skipsregisteret, jf [sjøloven §§ 11](lov/1994-06-24-39/§11), [33](lov/1994-06-24-39/§33) og [507](lov/1994-06-24-39/§507), eller i luftfartøy som er innført i luftfartøyregisteret, so nær som når det er tilset «ikkje til order» eller eit anna slikt atterhald, ellerlyder på namngjeven mann (namnegjeldsbrev) og endefram seier at det skal vera omsetningsgjeldsbrev.
+Eit gjeldsbrev er omsetningsgjeldsbrev når det anten
+
+1. lyder på ihendehavaren eller ikkje seier kven gjelda skal betalast til (ihendehavargjeldsbrev), eller
+2. lyder på namn med tillegget «eller order» eller eit anna slikt tillegg (ordergjeldsbrev), eller
+3. gjev pant i fast eigedom eller i skip eller anna innretning som er innført i skipsregisteret, jf [sjøloven §§ 11](lov/1994-06-24-39/§11), [33](lov/1994-06-24-39/§33) og [507](lov/1994-06-24-39/§507), eller i luftfartøy som er innført i luftfartøyregisteret, so nær som når det er tilset «ikkje til order» eller eit anna slikt atterhald, eller
+4. lyder på namngjeven mann (namnegjeldsbrev) og endefram seier at det skal vera omsetningsgjeldsbrev.
 
 > Endra med [lover 7 apr 1972 nr. 13](lov/1972-04-07-13), [27 mai 1983 nr. 30](lov/1983-05-27-30), [24 juni 1994 nr. 39](lov/1994-06-24-39) (ikr. 1 okt 1994).
 
@@ -114,7 +119,11 @@ Avhender legitimasjonshavaren (jfr. [§ 13](lov/1939-02-17-1/§13)) eit omsetnin
 
 ### § 15
 
-Avhender legitimasjonshavaren eit omsetningsgjeldsbrev til eige eller pant, og mottakaren får det i hende, kan utgjevaren ikkje gjera gjeldandeat kravet er ugildt etter reglane i §§ 29-33 eller 36 i avtalelova, eller § 2 i [pristiltakslova,](lov/1993-06-11-66/§2) eller at gjeldsbrevet er utgjeve utan hans vilje etter at han skreiv under det,at han ikkje har fått det vederlaget som var avtala, eller har andre motsegner frå det rettshøvet som var grunnlag for gjeldsbrevet,at kravet er betala før gjeldsbrevet vart avhendt eller at det er bortfalle eller brigda med avtale, motrekningsfråsegn eller oppseiing eller i dom.
+Avhender legitimasjonshavaren eit omsetningsgjeldsbrev til eige eller pant, og mottakaren får det i hende, kan utgjevaren ikkje gjera gjeldande
+
+- at kravet er ugildt etter reglane i §§ 29-33 eller 36 i avtalelova, eller § 2 i [pristiltakslova,](lov/1993-06-11-66/§2) eller at gjeldsbrevet er utgjeve utan hans vilje etter at han skreiv under det,
+- at han ikkje har fått det vederlaget som var avtala, eller har andre motsegner frå det rettshøvet som var grunnlag for gjeldsbrevet,
+- at kravet er betala før gjeldsbrevet vart avhendt eller at det er bortfalle eller brigda med avtale, motrekningsfråsegn eller oppseiing eller i dom.
 
 Men ei motsegn går ikkje tapt, i fall mottakaren kjenner det omstendet som ho blir bygd på, eller bør ha mistanke om det. Det same gjeld, om gjeldsbrevet har fått ei påskrift om det, som ikkje lett kunde takast bort, endå om dette sidan er gjort.
 

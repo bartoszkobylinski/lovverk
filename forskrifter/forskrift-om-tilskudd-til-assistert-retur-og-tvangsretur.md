@@ -28,7 +28,11 @@ Formålet med tilskudd til assistert retur og tvangsretur er at flest mulig utle
 
 ## § 2. Hvem som kan få tilskudd
 
-Tilskudd til assistert retur gis etter søknad til utlendinger somhar plikt til å forlate Norge eller har en søknad om beskyttelse til behandlinghar kjent oppholdssted eller kontaktinformasjonkan fly alene uten å utgjøre en fare for seg selv, medpassasjerer eller sikkerheten i flyet.
+Tilskudd til assistert retur gis etter søknad til utlendinger som
+
+1. har plikt til å forlate Norge eller har en søknad om beskyttelse til behandling
+2. har kjent oppholdssted eller kontaktinformasjon
+3. kan fly alene uten å utgjøre en fare for seg selv, medpassasjerer eller sikkerheten i flyet.
 
 Det gis tilskudd til en søker som skal returnere til et annet land enn hjemlandet, når søkeren har en gyldig og fornybar oppholdstillatelse i mottakerlandet.
 
@@ -40,7 +44,15 @@ Det gis tilskudd til tvangsretur til Afghanistan og Marokko etter [§ 16](forskr
 
 ## § 3. Søkere som likevel ikke kan få tilskudd
 
-Med mindre Utlendingsdirektoratet har grunn til å tro at tilskudd vil bidra til en retur, gis det ikke tilskudd til assistert retur til den somer statsborger i Albania, Armenia, Bosnia-Hercegovina, Botswana, Georgia, Ghana, India, Israel, Kosovo, Kroatia, Montenegro, Mongolia, Namibia, Nord-Makedonia, Romania, Serbia, Sør-Afrika, Tanzania eller Ukrainaer statsborger i et visumfritt landhar kommet til Norge med det formål å søke om tilskudd til assistert returtidligere har mottatt tilskudd til assistert retur, tilbakevending eller i forbindelse med tvangsreturønsker å returnere til et av landene i Dublinsamarbeidetpå et annet grunnlag enn beskyttelse har hatt en oppholdstillatelse som har utløpt og som ikke er fornyet eller tilbakekalthar fått avslag på en søknad om opphold i Norge fordi søkeren har oppholdstillatelse i eller visum til Sveits eller et EU-/EØS-land.
+Med mindre Utlendingsdirektoratet har grunn til å tro at tilskudd vil bidra til en retur, gis det ikke tilskudd til assistert retur til den som
+
+1. er statsborger i Albania, Armenia, Bosnia-Hercegovina, Botswana, Georgia, Ghana, India, Israel, Kosovo, Kroatia, Montenegro, Mongolia, Namibia, Nord-Makedonia, Romania, Serbia, Sør-Afrika, Tanzania eller Ukraina
+2. er statsborger i et visumfritt land
+3. har kommet til Norge med det formål å søke om tilskudd til assistert retur
+4. tidligere har mottatt tilskudd til assistert retur, tilbakevending eller i forbindelse med tvangsretur
+5. ønsker å returnere til et av landene i Dublinsamarbeidet
+6. på et annet grunnlag enn beskyttelse har hatt en oppholdstillatelse som har utløpt og som ikke er fornyet eller tilbakekalt
+7. har fått avslag på en søknad om opphold i Norge fordi søkeren har oppholdstillatelse i eller visum til Sveits eller et EU-/EØS-land.
 
 Tilskudd til assistert retur kan ikke gis til en utlending som er etterlyst, mistenkt, siktet eller tiltalt for et straffbart forhold, og det ikke er ønskelig at utlendingen forlater landet. Ansvarlig påtalemyndighet avgjør om en straffesak er til hinder for assistert retur.
 
@@ -54,7 +66,10 @@ Utgifter til reisen, til å kjøpe flybilletter og å skaffe reisedokumenter dek
 
 ## § 5. Reintegreringstilskudd
 
-I tillegg til reisetilskudd etter [§ 4](forskrift/2020-02-17-183/§4) kan det uansett alder også gis tilskudd til reintegrering etter ankomsten til hjemlandet. Tilskudd til reintegrering gis med inntil15 000 kroner til den som søker om assistert retur før utreisefristen i vedtaket5 000 kroner til den som søker om assistert retur etter utreisefristen i vedtaket.
+I tillegg til reisetilskudd etter [§ 4](forskrift/2020-02-17-183/§4) kan det uansett alder også gis tilskudd til reintegrering etter ankomsten til hjemlandet. Tilskudd til reintegrering gis med inntil
+
+1. 15 000 kroner til den som søker om assistert retur før utreisefristen i vedtaket
+2. 5 000 kroner til den som søker om assistert retur etter utreisefristen i vedtaket.
 
 Enslige mindreårige gis uansett 20 000 kroner i reintegreringstilskudd.
 
@@ -76,7 +91,13 @@ Reintegreringstilskuddet kan gis uavhengig av om vilkårene i [§ 2](forskrift/2
 
 ## § 7. Reintegreringstilskudd til særlige sårbare grupper
 
-I tillegg til tilskudd etter [§ 5](forskrift/2020-02-17-183/§5) kan det gis tilskudd med inntil 22 000 kroner etter returen. Tilskuddet kan gis i form av tjenester som skole, arbeidstrening, hjelp til næringsetablering eller liknende, og gis tilsøkere mellom 18 og 23 år som var enslige mindreårige da de kom til Norgeenslige eldre over 60 årmulige ofre for menneskehandelofre for vold, tvang eller utnyttingsøkere med særlige medisinske behov.
+I tillegg til tilskudd etter [§ 5](forskrift/2020-02-17-183/§5) kan det gis tilskudd med inntil 22 000 kroner etter returen. Tilskuddet kan gis i form av tjenester som skole, arbeidstrening, hjelp til næringsetablering eller liknende, og gis til
+
+1. søkere mellom 18 og 23 år som var enslige mindreårige da de kom til Norge
+2. enslige eldre over 60 år
+3. mulige ofre for menneskehandel
+4. ofre for vold, tvang eller utnytting
+5. søkere med særlige medisinske behov.
 
 Reintegreringstilskuddet kan gis uavhengig av om vilkårene i [§ 2](forskrift/2020-02-17-183/§2) og [§ 3](forskrift/2020-02-17-183/§3) er oppfylt.
 

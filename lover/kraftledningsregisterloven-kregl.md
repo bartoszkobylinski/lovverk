@@ -15,7 +15,7 @@ xml_hash: "0b6b868ba4739996da3ad140fe691361106b2cb4f041ec13aedc16b47514d228"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,11 @@ Kongen gir nærmere regler om vilkårene for og fremgangsmåten ved foreløpig r
 
 Er begjæringen i orden, blir ledningen å registrere og å gi eget folium i kraftledningsregistret, såfremt den som har begjært registreringen godtgjør å være eier av ledningen. Er han konsesjonshaver, anses hans adkomst for å være i orden såfremt han gir erklæring om at ledningen er bygget for hans regning og dette bekreftes av tilsynsmannen og den som har ansvaret for anlegget av ledningen.
 
-På ledningens folium anmerkes:hvem eier ledningen og hvilke dokumenter adkomsten støttes på;om det er godtgjort at ledningseieren har tinglyst adkomst til den av hensyn til ledningen fornødne benyttelse av grunnen; sådan anmerkning blir å utslette, hvis der innen utløpet av den i [§ 6](lov/1927-07-01-1/§6) nevnte frist ikke er registrert nogen erklæring som der nevnt;om der før registreringen er tinglyst pant eller annen heftelse eller rettighet som omfatter ledningen eller enkelte deler av eller tilbehør til denne. – – –. – – –. Anmerkning om slike heftelser blir å utslette hvis de ikke er begjært registrert innen den i [§ 10](lov/1927-07-01-1/§10) satte frist.
+På ledningens folium anmerkes:
+
+1. hvem eier ledningen og hvilke dokumenter adkomsten støttes på;
+2. om det er godtgjort at ledningseieren har tinglyst adkomst til den av hensyn til ledningen fornødne benyttelse av grunnen; sådan anmerkning blir å utslette, hvis der innen utløpet av den i [§ 6](lov/1927-07-01-1/§6) nevnte frist ikke er registrert nogen erklæring som der nevnt;
+3. om der før registreringen er tinglyst pant eller annen heftelse eller rettighet som omfatter ledningen eller enkelte deler av eller tilbehør til denne. – – –. – – –. Anmerkning om slike heftelser blir å utslette hvis de ikke er begjært registrert innen den i [§ 10](lov/1927-07-01-1/§10) satte frist.
 
 ## § 5.
 
@@ -130,7 +134,11 @@ Om heftelsers utslettelse av registret gjelder de samme regler som for avlysning
 
 ## § 12.
 
-En kraftledning som kan være gjenstand for registrering efter denne lov, og som er en sammenhengende utvidelse av en registrert ledning og tilhører samme eier, kan efter begjæring av eieren overføres til samme folium i kraftledningsregistret som hovedledningen. Er nogen av ledningene beheftet, kan dog sådan sammenføining i registret bare skje på følgende betingelser:Enhver rettighet må omfatte hele den registrerte ledning efter sammenføiningen.Enhver rettighetshaver må ha samtykket i sammenføiningen og gitt erklæring om rettighetens prioritet i forhold til de andre rettigheter.Det må efter rettighetshavernes erklæringer være klart, hvilken prioritet de forskjellige rettigheter har innbyrdes efter sammenføiningen.
+En kraftledning som kan være gjenstand for registrering efter denne lov, og som er en sammenhengende utvidelse av en registrert ledning og tilhører samme eier, kan efter begjæring av eieren overføres til samme folium i kraftledningsregistret som hovedledningen. Er nogen av ledningene beheftet, kan dog sådan sammenføining i registret bare skje på følgende betingelser:
+
+1. Enhver rettighet må omfatte hele den registrerte ledning efter sammenføiningen.
+2. Enhver rettighetshaver må ha samtykket i sammenføiningen og gitt erklæring om rettighetens prioritet i forhold til de andre rettigheter.
+3. Det må efter rettighetshavernes erklæringer være klart, hvilken prioritet de forskjellige rettigheter har innbyrdes efter sammenføiningen.
 
 Gjelder utvidelsen en ledning som ikke tidligere er registrert, får [§§ 3](lov/1927-07-01-1/§3), [5](lov/1927-07-01-1/§5) og [6](lov/1927-07-01-1/§6) tilsvarende anvendelse.
 

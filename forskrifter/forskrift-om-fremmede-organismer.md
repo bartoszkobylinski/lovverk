@@ -15,7 +15,7 @@ xml_hash: "994ff63427c17ed8be89a239ed1db1c028d15eaefe846c6bc6e18f21601570b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,18 @@ Forskriften gjelder på norsk landterritorium, herunder vassdrag, i Norges terri
 
 (1) Forskriften regulerer innførsel av organismer, omsetning og utsetting av fremmede organismer, samt utilsiktet spredning av fremmede organismer.
 
-(2) Forskriften gjelder ikke vedutsetting som reguleres av [forskrift 25. mai 2012 nr. 460](forskrift/2012-05-25-460) om utsetting av utenlandske treslag til skogbruksformål,utsetting av norske treslag, jf. [naturmangfoldloven § 31](lov/2009-06-19-100/§31),håndtering av ballastvann som reguleres av [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368),hold av vilt, jf. [viltloven § 7](lov/1981-05-29-38/§7), med unntak av hold som angitt i forskriften [§ 13](forskrift/2015-06-19-716/§13),gjenutsetting av viltlevende marine organismer som er unntatt fra ilandføringsplikten i forskrift gitt i medhold av [havressurslova § 15](lov/2008-06-06-37/§15),innførsel av viltlevende marine organismer når det skjer som ledd i en landing av fangst som er underlagt oppgaveplikt i medhold av [havressurslova § 39](lov/2008-06-06-37/§39),framstilling og bruk av genmodifiserte organismer som reguleres av [genteknologiloven](lov/1993-04-02-38),innførsel av sau (*Ovis aries*), geit (*Capra hircus*), storfe (*Bos primigenius taurus*), sebu (*Bos primigenius indicus*), hund (*Canis lupus familiaris*), esel (*Equus asinus*), hest (*Equus caballus*), muldyr, mulesel, huskatt (*Felis catus*), svin (*Sus domesticus*), tamhøns (*Gallus gallus domesticus*), kalkun (*Meleagris gallopavo*), struts (*Struthio camelus*), stokkand (*Anas platyrhynchos*), moskusand (*Cairina moschata*), grågås (*Anser anser*), svanegås (*Anser cygnoides*), tamdue (*Columba livia domestica*) og latterdue (*Streptopelia risoria*). Ved utsetting av disse artene gjelder kun kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19). For de av artene som forekommer både i viltlevende og domestiserte former, gjelder begrensningene i forskriftens virkeområde i første og andre punktum kun for de domestiserte formene. Begrensningene i forskriftens virkeområde gjelder ikke for hund, huskatt og svin som stammer fra innkrysninger med viltlevende arter.innførsel og utsetting av tamrein (*Rangifer tarandus tarandus*), dersom dette skjer i samsvar med [reindriftslovens](lov/2007-06-15-40) bestemmelser og kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19),innførsel og omsetning til – og utsetting av planter i – botaniske hager, dersom dette skjer i samsvar med kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19) og kravet til internkontroll i [§ 26](forskrift/2015-06-19-716/§26).
+(2) Forskriften gjelder ikke ved
+
+1. utsetting som reguleres av [forskrift 25. mai 2012 nr. 460](forskrift/2012-05-25-460) om utsetting av utenlandske treslag til skogbruksformål,
+2. utsetting av norske treslag, jf. [naturmangfoldloven § 31](lov/2009-06-19-100/§31),
+3. håndtering av ballastvann som reguleres av [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368),
+4. hold av vilt, jf. [viltloven § 7](lov/1981-05-29-38/§7), med unntak av hold som angitt i forskriften [§ 13](forskrift/2015-06-19-716/§13),
+5. gjenutsetting av viltlevende marine organismer som er unntatt fra ilandføringsplikten i forskrift gitt i medhold av [havressurslova § 15](lov/2008-06-06-37/§15),
+6. innførsel av viltlevende marine organismer når det skjer som ledd i en landing av fangst som er underlagt oppgaveplikt i medhold av [havressurslova § 39](lov/2008-06-06-37/§39),
+7. framstilling og bruk av genmodifiserte organismer som reguleres av [genteknologiloven](lov/1993-04-02-38),
+8. innførsel av sau (*Ovis aries*), geit (*Capra hircus*), storfe (*Bos primigenius taurus*), sebu (*Bos primigenius indicus*), hund (*Canis lupus familiaris*), esel (*Equus asinus*), hest (*Equus caballus*), muldyr, mulesel, huskatt (*Felis catus*), svin (*Sus domesticus*), tamhøns (*Gallus gallus domesticus*), kalkun (*Meleagris gallopavo*), struts (*Struthio camelus*), stokkand (*Anas platyrhynchos*), moskusand (*Cairina moschata*), grågås (*Anser anser*), svanegås (*Anser cygnoides*), tamdue (*Columba livia domestica*) og latterdue (*Streptopelia risoria*). Ved utsetting av disse artene gjelder kun kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19). For de av artene som forekommer både i viltlevende og domestiserte former, gjelder begrensningene i forskriftens virkeområde i første og andre punktum kun for de domestiserte formene. Begrensningene i forskriftens virkeområde gjelder ikke for hund, huskatt og svin som stammer fra innkrysninger med viltlevende arter.
+9. innførsel og utsetting av tamrein (*Rangifer tarandus tarandus*), dersom dette skjer i samsvar med [reindriftslovens](lov/2007-06-15-40) bestemmelser og kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19),
+10. innførsel og omsetning til – og utsetting av planter i – botaniske hager, dersom dette skjer i samsvar med kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19) og kravet til internkontroll i [§ 26](forskrift/2015-06-19-716/§26).
 
 (3) Vurderinger etter denne forskriften skal ikke omfatte hensyn til planters, dyrs og menneskers liv og helse som ivaretas av [smittevernloven](lov/1994-08-05-55) og [matloven](lov/2003-12-19-124).
 
@@ -46,7 +57,21 @@ Forskriften gjelder på norsk landterritorium, herunder vassdrag, i Norges terri
 
 ### § 4. Definisjoner
 
-I denne forskriften forstås med*bestand:* en gruppe individer av samme art som lever innenfor et avgrenset område til samme tid,*biologisk mangfold:* mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene,*fremmed organisme:* en organisme som ikke hører til noen art eller bestand som forekommer naturlig på stedet,*hagedam:* kunstig dam hvor organismer holdes utelukkende for prydformål, som er fysisk adskilt fra, og uten avløp til, andre vassdrag, og som er innrettet og plassert slik at vann og organismer ikke kan slippe ut i andre vassdrag,*innførsel:* kryssing av grense på land mot nabostat eller ilandføring fra områder utenfor forskriftens virkeområde,*mikroorganismer:* encellede organismer og virus,*naturmangfold:* biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning,*organisme:* enkeltindivid av planter, dyr, sopp og mikroorganismer, inkludert alle deler som er i stand til å formere seg eller overføre genetisk materiale,*organisme av stedegen stamme:* organisme som har sitt opphav fra den opprinnelige, lokale bestanden på stedet,*utsetting:* utsetting, bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming ikke er utelukket,*vassdrag:* innsjø, vann, tjern, elv, elvearm, bekk, kanal og kunstige dammer,*vektor:* organisme, gjenstand, transportmiddel, løsmasser mv. som kan bære med seg organismer til steder der de ikke forekommer naturlig,*vilt:* naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier.
+I denne forskriften forstås med
+
+1. *bestand:* en gruppe individer av samme art som lever innenfor et avgrenset område til samme tid,
+2. *biologisk mangfold:* mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene,
+3. *fremmed organisme:* en organisme som ikke hører til noen art eller bestand som forekommer naturlig på stedet,
+4. *hagedam:* kunstig dam hvor organismer holdes utelukkende for prydformål, som er fysisk adskilt fra, og uten avløp til, andre vassdrag, og som er innrettet og plassert slik at vann og organismer ikke kan slippe ut i andre vassdrag,
+5. *innførsel:* kryssing av grense på land mot nabostat eller ilandføring fra områder utenfor forskriftens virkeområde,
+6. *mikroorganismer:* encellede organismer og virus,
+7. *naturmangfold:* biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning,
+8. *organisme:* enkeltindivid av planter, dyr, sopp og mikroorganismer, inkludert alle deler som er i stand til å formere seg eller overføre genetisk materiale,
+9. *organisme av stedegen stamme:* organisme som har sitt opphav fra den opprinnelige, lokale bestanden på stedet,
+10. *utsetting:* utsetting, bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming ikke er utelukket,
+11. *vassdrag:* innsjø, vann, tjern, elv, elvearm, bekk, kanal og kunstige dammer,
+12. *vektor:* organisme, gjenstand, transportmiddel, løsmasser mv. som kan bære med seg organismer til steder der de ikke forekommer naturlig,
+13. *vilt:* naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier.
 
 ## Kapittel II. Innførsel av organismer
 
@@ -64,7 +89,15 @@ Det er forbudt å innføre organismer som er oppført i vedlegg I.
 
 ### § 7. Unntak fra krav om tillatelse ved innførsel
 
-(1) Det kreves ikke tillatelse ved innførsel avorganismer som er oppført i vedlegg II, såframt de vilkår som følger av vedlegget etterleves,landlevende planter,ferskvannsorganismer som kun kan leve ved temperaturer over 5 °C, og som utelukkende skal holdes for prydformål i innendørs akvarier som er innrettet slik at organismer ikke kan slippe ut, dersom melding gis i samsvar med [§ 8](forskrift/2015-06-19-716/§8),marine planter, marine virvelløse dyr og marine fisker, som utelukkende skal holdes i lukkede beholdere på land, herunder akvarier, som er innrettet slik at organismer ikke kan slippe ut, dersom melding gis i samsvar med [§ 8](forskrift/2015-06-19-716/§8),mikroorganismer,biologiske plantevernmidler som det er gitt tillatelse til innførsel av i eller i medhold av annet lovverk, ogsopp og alger til bruk som menneskemat.
+(1) Det kreves ikke tillatelse ved innførsel av
+
+1. organismer som er oppført i vedlegg II, såframt de vilkår som følger av vedlegget etterleves,
+2. landlevende planter,
+3. ferskvannsorganismer som kun kan leve ved temperaturer over 5 °C, og som utelukkende skal holdes for prydformål i innendørs akvarier som er innrettet slik at organismer ikke kan slippe ut, dersom melding gis i samsvar med [§ 8](forskrift/2015-06-19-716/§8),
+4. marine planter, marine virvelløse dyr og marine fisker, som utelukkende skal holdes i lukkede beholdere på land, herunder akvarier, som er innrettet slik at organismer ikke kan slippe ut, dersom melding gis i samsvar med [§ 8](forskrift/2015-06-19-716/§8),
+5. mikroorganismer,
+6. biologiske plantevernmidler som det er gitt tillatelse til innførsel av i eller i medhold av annet lovverk, og
+7. sopp og alger til bruk som menneskemat.
 
 (2) Det kreves likevel tillatelse ved innførsel av organismer som er oppført i vedlegg III.
 
@@ -84,7 +117,11 @@ Det er forbudt å sette ut og omsette organismer som er oppført i vedlegg I.
 
 ### § 10. Krav om tillatelse ved utsetting
 
-(1) Med mindre utsetting er forbudt etter [§ 9](forskrift/2015-06-19-716/§9), eller unntatt fra kravet om tillatelse etter [§ 11](forskrift/2015-06-19-716/§11), kreves det tillatelse for utsetting avvilt av arter, underarter eller bestander som ikke fra før finnes naturlig i distriktet,organismer, unntatt av stedegen stamme, i sjø og vassdrag, ogøvrige organismer som ikke hører til noen art, stamme eller bestand som forekommer naturlig på stedet.
+(1) Med mindre utsetting er forbudt etter [§ 9](forskrift/2015-06-19-716/§9), eller unntatt fra kravet om tillatelse etter [§ 11](forskrift/2015-06-19-716/§11), kreves det tillatelse for utsetting av
+
+1. vilt av arter, underarter eller bestander som ikke fra før finnes naturlig i distriktet,
+2. organismer, unntatt av stedegen stamme, i sjø og vassdrag, og
+3. øvrige organismer som ikke hører til noen art, stamme eller bestand som forekommer naturlig på stedet.
 
 (2) Ved vurderingen av søknaden, skal det særlig legges vekt på om den omsøkte organismen og eventuelle følgeorganismer kan medføre risiko for uheldige følger for det biologiske mangfold. Det kan ikke gis tillatelse hvis det er grunn til å anta at utsettingen vil medføre vesentlige uheldige følger for det biologiske mangfold.
 
@@ -94,7 +131,17 @@ Det er forbudt å sette ut og omsette organismer som er oppført i vedlegg I.
 
 ### § 11. Unntak fra krav om tillatelse ved utsetting
 
-(1) Det kreves ikke tillatelse ved utsetting avorganismer som er oppført i vedlegg IV, når utsettingen tilfredsstiller de vilkår som følger av vedlegget,landlevende planter i private hager, dersom utsettingen utføres av en privatperson,vitenskapelig risikovurderte landlevende planter i parkanlegg og andre dyrkete områder samt transport- og næringsutbyggingsområder, med mindre planten er oppført i vedlegg V,landlevende planter fra norske bestander som ikke er vitenskapelig risikovurderte i parkanlegg og andre dyrkete områder samt transport- og næringsutbyggingsområder,biologiske plantevernmidler som det er gitt tillatelse til utsetting av i eller i medhold av annet lovverk,mikroorganismer, med mindre mikroorganismen er oppført i vedlegg V,akvatiske organismer som det er gitt tillatelse til utsetting av i medhold av [akvakulturloven](lov/2005-06-17-79),rensefisk i akvakulturanlegg,organismer som det er gitt tillatelse til utsetting av i medhold av lakse- og [innlandsfiskloven § 7](lov/1992-05-15-47/§7) og [§ 10](lov/1992-05-15-47/§10).
+(1) Det kreves ikke tillatelse ved utsetting av
+
+1. organismer som er oppført i vedlegg IV, når utsettingen tilfredsstiller de vilkår som følger av vedlegget,
+2. landlevende planter i private hager, dersom utsettingen utføres av en privatperson,
+3. vitenskapelig risikovurderte landlevende planter i parkanlegg og andre dyrkete områder samt transport- og næringsutbyggingsområder, med mindre planten er oppført i vedlegg V,
+4. landlevende planter fra norske bestander som ikke er vitenskapelig risikovurderte i parkanlegg og andre dyrkete områder samt transport- og næringsutbyggingsområder,
+5. biologiske plantevernmidler som det er gitt tillatelse til utsetting av i eller i medhold av annet lovverk,
+6. mikroorganismer, med mindre mikroorganismen er oppført i vedlegg V,
+7. akvatiske organismer som det er gitt tillatelse til utsetting av i medhold av [akvakulturloven](lov/2005-06-17-79),
+8. rensefisk i akvakulturanlegg,
+9. organismer som det er gitt tillatelse til utsetting av i medhold av lakse- og [innlandsfiskloven § 7](lov/1992-05-15-47/§7) og [§ 10](lov/1992-05-15-47/§10).
 
 (2) Miljødirektoratet kan sette ut vilt som direktoratet av eget tiltak har iverksatt innfanging av i medhold av [forskrift 14. mars 2003 nr. 349](forskrift/2003-03-14-349) om innfanging og innsamling av vilt for vitenskapelige eller andre særlige formål.
 
@@ -106,7 +153,10 @@ Den som setter ut mørk jordhumle (*Bombus terrestris terrestris*) fra norske be
 
 ### § 13. Hold av fremmede organismer
 
-(1) Det kreves ikke tillatelse ved hold avmink (*Neovision vison*), sølvrev (*Vulpes vulpes*), blårev (*Vulpes lagopus*) og krysninger mellom revetypene, når holdet utøves i samsvar med pelsdyrholdforskriften,andre fremmede organismer som kan innføres i medhold av [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. vedlegg II, herunder kanin, innendørs eller i lukket bur eller rømningssikker innhegning.
+(1) Det kreves ikke tillatelse ved hold av
+
+1. mink (*Neovision vison*), sølvrev (*Vulpes vulpes*), blårev (*Vulpes lagopus*) og krysninger mellom revetypene, når holdet utøves i samsvar med pelsdyrholdforskriften,
+2. andre fremmede organismer som kan innføres i medhold av [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. vedlegg II, herunder kanin, innendørs eller i lukket bur eller rømningssikker innhegning.
 
 (2) Holdet må utøves i samsvar med kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19) og kravet til internkontroll i [§ 26](forskrift/2015-06-19-716/§26).
 
@@ -116,7 +166,16 @@ Den som setter ut mørk jordhumle (*Bombus terrestris terrestris*) fra norske be
 
 (1) Søknad om tillatelse til innførsel eller utsetting av organismer skal rettes til Miljødirektoratet på fastsatt skjema.
 
-(2) Søknaden skal inneholde følgende opplysninger:søkers kontaktinformasjon,organismens vitenskapelige og eventuelle norske eller engelske navn, naturlig utbredelsesområde samt informasjon om hvor organismen er hentet fra,formålet med innførselen eller utsettingen,antall eller annen angivelse av mengde organismer det søkes tillatelse til innførsel eller utsetting av,ved søknad om innførsel; planlagt tidspunkt eller tidsrom for innførselen, angivelse av endelig bestemmelsessted for organismen, samt eventuell eksportørs eller importørs kontaktinformasjon,ved søknad om utsetting; kartfesting eller annen angivelse av stedet der utsettingen er planlagt, grunneiers navn og adresse, planlagt tidsrom for utsettingen,en klargjøring av de virkninger innførselen eller utsettingen kan ha for det biologiske mangfold, ogen beskrivelse av planlagte tiltak for å forebygge eventuell risiko for uheldige følger for det biologiske mangfold.
+(2) Søknaden skal inneholde følgende opplysninger:
+
+1. søkers kontaktinformasjon,
+2. organismens vitenskapelige og eventuelle norske eller engelske navn, naturlig utbredelsesområde samt informasjon om hvor organismen er hentet fra,
+3. formålet med innførselen eller utsettingen,
+4. antall eller annen angivelse av mengde organismer det søkes tillatelse til innførsel eller utsetting av,
+5. ved søknad om innførsel; planlagt tidspunkt eller tidsrom for innførselen, angivelse av endelig bestemmelsessted for organismen, samt eventuell eksportørs eller importørs kontaktinformasjon,
+6. ved søknad om utsetting; kartfesting eller annen angivelse av stedet der utsettingen er planlagt, grunneiers navn og adresse, planlagt tidsrom for utsettingen,
+7. en klargjøring av de virkninger innførselen eller utsettingen kan ha for det biologiske mangfold, og
+8. en beskrivelse av planlagte tiltak for å forebygge eventuell risiko for uheldige følger for det biologiske mangfold.
 
 (3) Opplysningene som nevnt i andre ledd bokstav g skal, så langt det er rimelig, underbygges med dokumentasjon.
 
@@ -134,7 +193,12 @@ Den som setter ut mørk jordhumle (*Bombus terrestris terrestris*) fra norske be
 
 ### § 16. Krav til melding om innførsel og utsetting
 
-(1) Melding etter [§ 8](forskrift/2015-06-19-716/§8) og [§ 12](forskrift/2015-06-19-716/§12) skal gis til Miljødirektoratet på fastsatt skjema og skal inneholde følgende opplysninger:meldepliktiges kontaktinformasjon,organismens vitenskapelige og eventuelle norske eller engelske navn,formålet med innførselen eller utsettingen,ved utsetting, angivelse av hvor utsettingen skal finne sted.
+(1) Melding etter [§ 8](forskrift/2015-06-19-716/§8) og [§ 12](forskrift/2015-06-19-716/§12) skal gis til Miljødirektoratet på fastsatt skjema og skal inneholde følgende opplysninger:
+
+1. meldepliktiges kontaktinformasjon,
+2. organismens vitenskapelige og eventuelle norske eller engelske navn,
+3. formålet med innførselen eller utsettingen,
+4. ved utsetting, angivelse av hvor utsettingen skal finne sted.
 
 (2) Melding etter [§ 8](forskrift/2015-06-19-716/§8) og [§ 12](forskrift/2015-06-19-716/§12) skal gis før første gangs innførsel eller utsetting.
 
@@ -150,13 +214,20 @@ Miljødirektoratet kan, i samsvar med [naturmangfoldloven § 67](lov/2009-06-19-
 
 ### § 18. Alminnelige krav til aktsomhet
 
-(1) Den som er ansvarlig for innførsel, hold, utsetting eller omsetning av organismer, eller som iverksetter tiltak som kan medføre utilsiktet spredning av fremmede organismer i miljøet, skal opptre aktsomt for å hindre at aktiviteten medfører uheldige følger for det biologiske mangfold, herunderha kunnskap om den risiko for uheldige følger for det biologiske mangfold som aktiviteten og de aktuelle organismene kan medføre, og om hvilke tiltak som er påkrevd for å forebygge slike følger, ogtreffe forebyggende tiltak for å hindre at aktiviteten medfører uheldige følger for det biologiske mangfold, og for raskt å avdekke utilsiktet spredning av fremmede organismer.
+(1) Den som er ansvarlig for innførsel, hold, utsetting eller omsetning av organismer, eller som iverksetter tiltak som kan medføre utilsiktet spredning av fremmede organismer i miljøet, skal opptre aktsomt for å hindre at aktiviteten medfører uheldige følger for det biologiske mangfold, herunder
+
+1. ha kunnskap om den risiko for uheldige følger for det biologiske mangfold som aktiviteten og de aktuelle organismene kan medføre, og om hvilke tiltak som er påkrevd for å forebygge slike følger, og
+2. treffe forebyggende tiltak for å hindre at aktiviteten medfører uheldige følger for det biologiske mangfold, og for raskt å avdekke utilsiktet spredning av fremmede organismer.
 
 (2) Utføres en innførsel eller utsetting i henhold til en tillatelse gitt i medhold av denne forskriften eller annet regelverk, anses aktsomhetspliktene i første ledd og [§ 20](forskrift/2015-06-19-716/§20) til [§ 24](forskrift/2015-06-19-716/§24) som oppfylt dersom forutsetningene for tillatelsen fremdeles er til stede.
 
 ### § 19. Tiltaks- og varslingsplikt
 
-Dersom det oppstår skade eller fare for alvorlig skade på det biologiske mangfold som følge av innførsel, hold, utsetting eller utilsiktet spredning av fremmede organismer, skal den ansvarlige, med mindre tilsvarende tiltaks- og varslingsplikt følger av annet regelverk, umiddelbartiverksette egnede tiltak for å avverge eller begrense skade,varsle Miljødirektoratet om det inntrufne, også langt det er mulig, gjenopprette den tidligere tilstanden for det biologiske mangfold ved fjerning av de fremmede organismene eller andre egnede tiltak.
+Dersom det oppstår skade eller fare for alvorlig skade på det biologiske mangfold som følge av innførsel, hold, utsetting eller utilsiktet spredning av fremmede organismer, skal den ansvarlige, med mindre tilsvarende tiltaks- og varslingsplikt følger av annet regelverk, umiddelbart
+
+1. iverksette egnede tiltak for å avverge eller begrense skade,
+2. varsle Miljødirektoratet om det inntrufne, og
+3. så langt det er mulig, gjenopprette den tidligere tilstanden for det biologiske mangfold ved fjerning av de fremmede organismene eller andre egnede tiltak.
 
 ### § 20. Krav om å informere ansatte og mottakere av fremmede organismer
 
@@ -206,7 +277,12 @@ Før utsetting av fremmede landlevende planter som skjer i forbindelse med etabl
 
 (2) Internkontrollen skal sikre at virksomhetens ansatte har kunnskap om reglene i forskriften, herunder kravene i [kapittel V](forskrift/2015-06-19-716/kapv), om vilkårene for tillatelser til innførsel eller utsetting, og om rutinene for etterlevelse av reglene.
 
-(3) Internkontrollen skal som et minimum inneholde:rutiner for å sikre at kravene i eller i medhold av forskriften blir overholdt,rutiner virksomheten følger dersom avvik oppstår og for å hindre gjentakelse av avvik,rutiner for å sikre at ansatte, eller andre som er involvert i virksomheten, overholder vilkår gitt i tillatelser, ogopplysninger om hvem som er ansvarlig for at rutinene blir overholdt.
+(3) Internkontrollen skal som et minimum inneholde:
+
+1. rutiner for å sikre at kravene i eller i medhold av forskriften blir overholdt,
+2. rutiner virksomheten følger dersom avvik oppstår og for å hindre gjentakelse av avvik,
+3. rutiner for å sikre at ansatte, eller andre som er involvert i virksomheten, overholder vilkår gitt i tillatelser, og
+4. opplysninger om hvem som er ansvarlig for at rutinene blir overholdt.
 
 (4) Virksomheten skal gjøre dokumentasjon av internkontrollen tilgjengelig ved kontroll.
 
@@ -268,7 +344,10 @@ Hold i hagedam av vannlevende fremmede organismer som ikke er omfattet av unntak
 
 ### § 35. Oppheving av og endringer i andre forskrifter
 
-(1) Fra tidspunktet for ikrafttreden av denne forskriften oppheves følgende forskrifter:[Forskrift 17. februar 2009 nr. 212](forskrift/2009-02-17-212) om forbud mot import, utsetting, omsetning og hold av vasspest (*Elodea canadensis*) og smal vasspest (*Elodea nuttallii*).[Forskrift 18. desember 1992 nr. 1174](forskrift/1992-12-18-1174) om import av akvarieorganismer.
+(1) Fra tidspunktet for ikrafttreden av denne forskriften oppheves følgende forskrifter:
+
+1. [Forskrift 17. februar 2009 nr. 212](forskrift/2009-02-17-212) om forbud mot import, utsetting, omsetning og hold av vasspest (*Elodea canadensis*) og smal vasspest (*Elodea nuttallii*).
+2. [Forskrift 18. desember 1992 nr. 1174](forskrift/1992-12-18-1174) om import av akvarieorganismer.
 
 (2) Fra tidspunktet for ikrafttreden av denne forskriften gjøres følgende endringer i [forskrift 11. november 1993 nr. 1020](forskrift/1993-11-11-1020) om utsetting av fisk og andre ferskvannsorganismer: – – –
 

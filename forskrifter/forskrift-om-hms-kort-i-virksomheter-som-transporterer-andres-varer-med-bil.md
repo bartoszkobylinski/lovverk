@@ -38,19 +38,34 @@ Forskriftens formål er å ivareta sikkerhet, helse og arbeidsmiljø i virksomhe
 
 ### § 1-3. Unntak fra HMS-kortplikten ved transport av egne varer
 
-(1) Det er ikke krav til HMS-kort etter [§ 2-2](forskrift/2025-06-20-1152/§2-2) for transport av egne varer som ledd i annen næringsvirksomhet enn transportvirksomhet. For at unntaket for egne varer skal gjelde, må varetransportenvære en hjelpefunksjon i tilknytning til virksomhetens samlede aktivitetutføres av virksomhetens egne ansatte eller av eier av virksomhetenutføres med bil som virksomheten eier eller har bruksrett til etter leasing- eller leiekontrakt.
+(1) Det er ikke krav til HMS-kort etter [§ 2-2](forskrift/2025-06-20-1152/§2-2) for transport av egne varer som ledd i annen næringsvirksomhet enn transportvirksomhet. For at unntaket for egne varer skal gjelde, må varetransporten
+
+1. være en hjelpefunksjon i tilknytning til virksomhetens samlede aktivitet
+2. utføres av virksomhetens egne ansatte eller av eier av virksomheten
+3. utføres med bil som virksomheten eier eller har bruksrett til etter leasing- eller leiekontrakt.
 
 (2) Likt med egne varer regnes varer som virksomheten har eller får rådighet over i forbindelse med kjøp, salg, lån, leie, fremstilling, behandling og reparasjon.
 
 ### § 1-4. Definisjoner
 
-I denne forskriften betyr:*Bil:* Kjøretøy som faller inn under definisjonen av bil i [forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) § 2-2](forskrift/1994-10-04-918/§2-2).*Bestiller:* En fysisk eller juridisk person som driver næringsvirksomhet og som engasjerer en leverandør til å utføre et transportoppdrag. Som bestiller regnes også statlige, kommunale og fylkeskommunale myndigheter, og andre offentligrettslige organer.*Leverandør:* En fysisk eller juridisk person som driver næringsvirksomhet og som har påtatt seg et transportoppdrag for en bestiller*Underleverandør:* En fysisk eller juridisk person som driver næringsvirksomhet og som utfører hele eller en del av transportoppdraget som er avtalt mellom leverandøren og bestiller.
+I denne forskriften betyr:
+
+1. *Bil:* Kjøretøy som faller inn under definisjonen av bil i [forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) § 2-2](forskrift/1994-10-04-918/§2-2).
+2. *Bestiller:* En fysisk eller juridisk person som driver næringsvirksomhet og som engasjerer en leverandør til å utføre et transportoppdrag. Som bestiller regnes også statlige, kommunale og fylkeskommunale myndigheter, og andre offentligrettslige organer.
+3. *Leverandør:* En fysisk eller juridisk person som driver næringsvirksomhet og som har påtatt seg et transportoppdrag for en bestiller
+4. *Underleverandør:* En fysisk eller juridisk person som driver næringsvirksomhet og som utfører hele eller en del av transportoppdraget som er avtalt mellom leverandøren og bestiller.
 
 ## Kapittel 2. Bestemmelser om HMS-kort
 
 ### § 2-1. Vilkår for utstedelse av HMS-kort
 
-(1) Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:EnhetsregisteretForetaksregisteretDet sentrale folkeregister. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret på Svalbard, jf. [forskrift 4. februar 1994 nr. 111 om register over befolkningen på Svalbard](forskrift/1994-02-04-111)MerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteret.
+(1) Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:
+
+1. Enhetsregisteret
+2. Foretaksregisteret
+3. Det sentrale folkeregister. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret på Svalbard, jf. [forskrift 4. februar 1994 nr. 111 om register over befolkningen på Svalbard](forskrift/1994-02-04-111)
+4. Merverdiavgiftsregisteret
+5. Arbeidstaker- og arbeidsgiverregisteret.
 
 (2) For virksomhet med utenlandsk arbeidstaker fra land utenfor EØS skal det dokumenteres at arbeidstakeren har oppholdstillatelse i den grad det er påkrevet for det aktuelle arbeidsforholdet. Tilsvarende gjelder for innehaver av enkeltpersonforetak fra land utenfor EØS.
 
@@ -68,7 +83,12 @@ I denne forskriften betyr:*Bil:* Kjøretøy som faller inn under definisjonen av
 
 (4) HMS-kort kan bare bestilles av ansatte i, eller innehaver av, virksomheten som skal utføre arbeidet HMS-kortet er knyttet til.
 
-(5) Unntatt fra kravet om HMS-kort etter forskriften her er arbeidstakere, eller innehavere av enkeltpersonforetak uten ansatte, som er omfattet av[forskrift 8. mai 2012 nr. 408 om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester § 9](forskrift/2012-05-08-408/§9)[forskrift 11. februar 2022 nr. 206 om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester § 11](forskrift/2022-02-11-206/§11)[forskrift 30. mars 2007 nr. 366 om HMS-kort på bygge- og anleggsplasser § 4](forskrift/2007-03-30-366/§4)[forskrift 16. desember 2005 nr. 1566 om utsendte arbeidstakere § 1 andre ledd](forskrift/2005-12-16-1566/§1/ledd/2) og [§§ 14 c](forskrift/2005-12-16-1566/§14c), [14 d](forskrift/2005-12-16-1566/§14d) og [14 e](forskrift/2005-12-16-1566/§14e) samt medhjelpere som sendes ut sammen med sjåfører omfattet av denne forskriften for å utføre arbeid i bil.
+(5) Unntatt fra kravet om HMS-kort etter forskriften her er arbeidstakere, eller innehavere av enkeltpersonforetak uten ansatte, som er omfattet av
+
+1. [forskrift 8. mai 2012 nr. 408 om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester § 9](forskrift/2012-05-08-408/§9)
+2. [forskrift 11. februar 2022 nr. 206 om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester § 11](forskrift/2022-02-11-206/§11)
+3. [forskrift 30. mars 2007 nr. 366 om HMS-kort på bygge- og anleggsplasser § 4](forskrift/2007-03-30-366/§4)
+4. [forskrift 16. desember 2005 nr. 1566 om utsendte arbeidstakere § 1 andre ledd](forskrift/2005-12-16-1566/§1/ledd/2) og [§§ 14 c](forskrift/2005-12-16-1566/§14c), [14 d](forskrift/2005-12-16-1566/§14d) og [14 e](forskrift/2005-12-16-1566/§14e) samt medhjelpere som sendes ut sammen med sjåfører omfattet av denne forskriften for å utføre arbeid i bil.
 
 ### § 2-3. Kortinnehavers ansvar
 
@@ -76,17 +96,37 @@ I denne forskriften betyr:*Bil:* Kjøretøy som faller inn under definisjonen av
 
 (2) HMS-kortet skal bæres godt synlig.
 
-(3) HMS-kortet skal på oppfordring vises tilArbeidstilsynet, skattemyndighetene, politiet og Statens vegvesenbestillereleverandører som bruker underleverandørverneombud og tillitsvalgtehovedbedrifter med ansvar for samordning etter [arbeidsmiljøloven § 2-2](lov/2005-06-17-62/§2-2)byggherre, byggherres representant og koordinator etter [forskrift 3. august 2009 nr. 1028 om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser § 4](forskrift/2009-08-03-1028/§4).
+(3) HMS-kortet skal på oppfordring vises til
+
+1. Arbeidstilsynet, skattemyndighetene, politiet og Statens vegvesen
+2. bestillere
+3. leverandører som bruker underleverandør
+4. verneombud og tillitsvalgte
+5. hovedbedrifter med ansvar for samordning etter [arbeidsmiljøloven § 2-2](lov/2005-06-17-62/§2-2)
+6. byggherre, byggherres representant og koordinator etter [forskrift 3. august 2009 nr. 1028 om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser § 4](forskrift/2009-08-03-1028/§4).
 
 ### § 2-4. Kortutsteders plikter
 
-(1) Kortutsteder skalpåse at virksomheten oppfyller vilkårene i [§ 2-1](forskrift/2025-06-20-1152/§2-1), og foreta identitetskontroll av arbeidstaker før HMS-kort utstedesopprette og føre et register over godkjente HMS-kortbestillereopprette og føre et register over alle utstedte kort, med tilhørende data.
+(1) Kortutsteder skal
+
+1. påse at virksomheten oppfyller vilkårene i [§ 2-1](forskrift/2025-06-20-1152/§2-1), og foreta identitetskontroll av arbeidstaker før HMS-kort utstedes
+2. opprette og føre et register over godkjente HMS-kortbestillere
+3. opprette og føre et register over alle utstedte kort, med tilhørende data.
 
 (2) Arbeidstilsynet er behandlingsansvarlig i henhold til [personopplysningsloven](lov/2018-06-15-38). Ved utstedelsen av HMS-kort opptrer kortutsteder på vegne av Arbeidstilsynet.
 
 ### § 2-5. Krav til opplysninger på HMS-kortet
 
-HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:navn på arbeidsgiver eller enkeltpersonforetak uten ansatteorganisasjonsnummer for registreringspliktige virksomheternavn på kortinnehaverbilde av kortinnehaverenkortinnehaverens fødselsdatoutstedelsesdatokortnummernavn på utsteder av kortet.
+HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:
+
+1. navn på arbeidsgiver eller enkeltpersonforetak uten ansatte
+2. organisasjonsnummer for registreringspliktige virksomheter
+3. navn på kortinnehaver
+4. bilde av kortinnehaveren
+5. kortinnehaverens fødselsdato
+6. utstedelsesdato
+7. kortnummer
+8. navn på utsteder av kortet.
 
 ### § 2-6. Kortets gyldighet, kontroll og inndragning
 
@@ -98,7 +138,11 @@ HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:navn på a
 
 ### § 2-7. Virksomhetens plikt til å makulere HMS-kort
 
-Virksomheten skal straks sørge for at HMS-kortet blir makulert nårkortets gyldighetsperiode utløperarbeidsforholdet opphørervirksomheten opphører.
+Virksomheten skal straks sørge for at HMS-kortet blir makulert når
+
+1. kortets gyldighetsperiode utløper
+2. arbeidsforholdet opphører
+3. virksomheten opphører.
 
 ### § 2-8. Tap av HMS-kort
 
@@ -108,7 +152,10 @@ Virksomheten skal straks sørge for at HMS-kortet blir makulert nårkortets gyld
 
 (3) Dersom et tapt HMS-kort kommer til rette, skal det leveres til arbeidsgiver for makulering.
 
-(4) Innehaver av enkeltpersonforetak som ikke sysselsetter arbeidstakere skalmelde fra til kortutsteder om at kort er tapt eller stjåletmakulere tapt HMS-kort som kommer til rette.
+(4) Innehaver av enkeltpersonforetak som ikke sysselsetter arbeidstakere skal
+
+1. melde fra til kortutsteder om at kort er tapt eller stjålet
+2. makulere tapt HMS-kort som kommer til rette.
 
 ## Kapittel 3. Avsluttende bestemmelser
 

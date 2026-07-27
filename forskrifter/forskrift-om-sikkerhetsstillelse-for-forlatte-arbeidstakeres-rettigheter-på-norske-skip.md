@@ -30,9 +30,17 @@ Forskriften gjelder for norske lasteskip og passasjerskip i utenriksfart.
 
 Rederiet skal sørge for sikkerhetsstillelse i form av forsikring eller annen tilsvarende økonomisk sikkerhet for arbeidstakernes krav overfor rederiet eller arbeidsgiveren, hvis denne er en annen enn rederiet, i tilfelle arbeidstakeren blir forlatt.
 
-En arbeidstaker skal anses som forlatt når det er åpnet konkurs i rederiet, eller når rederiet i strid med norsk lov eller arbeidstakerens arbeidskontrakt:unnlater å dekke arbeidstakerens hjemreisekostnader,har etterlatt arbeidstakeren uten nødvendig underhold og økonomisk støtte, ellerpå annen måte ensidig og uberettiget har brutt forbindelsen med arbeidstakeren, herunder unnlatt å utbetale avtalt lønn i minst to måneder.
+En arbeidstaker skal anses som forlatt når det er åpnet konkurs i rederiet, eller når rederiet i strid med norsk lov eller arbeidstakerens arbeidskontrakt:
 
-Sikkerhetsstillelsen skal dekke:fire måneders utestående lønn og andre ytelser som arbeidstakeren har krav på som en følge av arbeidsforholdetpåregnelige kostnader som er pådratt av arbeidstakeren, herunder hjemreisekostnaderarbeidstakerens grunnleggende behov inntil arbeidstakeren er kommet hjem, herunder mat og drikkevann, klær, losji, drivstoff som er nødvendig for overlevelse om bord på skipet, medisin og legebehandling og andre rimelige kostnader som en følge av at arbeidstakeren er forlatt.
+1. unnlater å dekke arbeidstakerens hjemreisekostnader,
+2. har etterlatt arbeidstakeren uten nødvendig underhold og økonomisk støtte, eller
+3. på annen måte ensidig og uberettiget har brutt forbindelsen med arbeidstakeren, herunder unnlatt å utbetale avtalt lønn i minst to måneder.
+
+Sikkerhetsstillelsen skal dekke:
+
+1. fire måneders utestående lønn og andre ytelser som arbeidstakeren har krav på som en følge av arbeidsforholdet
+2. påregnelige kostnader som er pådratt av arbeidstakeren, herunder hjemreisekostnader
+3. arbeidstakerens grunnleggende behov inntil arbeidstakeren er kommet hjem, herunder mat og drikkevann, klær, losji, drivstoff som er nødvendig for overlevelse om bord på skipet, medisin og legebehandling og andre rimelige kostnader som en følge av at arbeidstakeren er forlatt.
 
 ## § 3. Krav til sikkerhetsstiller
 
@@ -60,7 +68,17 @@ Sikkerhetsstilleren har rett til regress overfor tredjepersoner så langt arbeid
 
 Som dokumentasjon på at plikten til å stille sikkerhet etter [§ 2](forskrift/2017-12-19-2293/§2) er oppfylt, skal det finnes sertifikat eller annet skriftlig bevis utstedt av sikkerhetsstilleren om bord. Dokumentasjonen skal være lett tilgjengelig for arbeidstakerne.
 
-Dokumentasjonen som kreves etter første ledd skal være på engelsk eller følges av en engelsk oversettelse og inneholdeskipets navnskipets hjemstedskipets kjenningssignalskipets IMO nummernavn og adresse på sikkerhetsstilleren/-enekontaktinformasjon til den person eller enhet hos sikkerhetsstilleren som er ansvarlig for å behandle de ansattes anmodninger om dekningnavn på rederiet eller på den registrerte eieren av skipet dersom dette er en annen enn rederietden økonomiske sikkerhetens gyldighetsperiodeen bekreftelse fra sikkerhetsstilleren om at den økonomiske sikkerheten oppfyller kravene i ILO-konvensjon nr. 186 om sjøfolks arbeids- og levevilkår (MLC) standard A2.5.2.
+Dokumentasjonen som kreves etter første ledd skal være på engelsk eller følges av en engelsk oversettelse og inneholde
+
+1. skipets navn
+2. skipets hjemsted
+3. skipets kjenningssignal
+4. skipets IMO nummer
+5. navn og adresse på sikkerhetsstilleren/-ene
+6. kontaktinformasjon til den person eller enhet hos sikkerhetsstilleren som er ansvarlig for å behandle de ansattes anmodninger om dekning
+7. navn på rederiet eller på den registrerte eieren av skipet dersom dette er en annen enn rederiet
+8. den økonomiske sikkerhetens gyldighetsperiode
+9. en bekreftelse fra sikkerhetsstilleren om at den økonomiske sikkerheten oppfyller kravene i ILO-konvensjon nr. 186 om sjøfolks arbeids- og levevilkår (MLC) standard A2.5.2.
 
 > Endret ved forskrift [19 des 2024 nr. 3288](forskrift/2024-12-19-3288) (i kraft 23 des 2024).
 

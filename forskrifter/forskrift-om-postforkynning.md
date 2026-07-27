@@ -15,7 +15,7 @@ xml_hash: "14cc51c077463cb22bdfead5b2dc105005f4df5b9ebdb38f2e6cc74e89c23b8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,9 @@ Stevnevitneforkynning skal ellers bare brukes dersom postforkynning ikke har nå
 
 Ved hver postforkynning skal det fylles ut og vedlegges et særskilt forkynningsskjema utarbeidet av Justisdepartementet. Den forkynnende myndighet kan i stedet nytte egne skjemaer dersom de inneholder tilsvarende opplysninger. Disse skjemaene skal i så fall godkjennes av Justisdepartementet før de benyttes.
 
-Forkynning som skjer i form av brev skal sendes i lukket konvolutt som påføres en oppfordring om at den straks skal returneres til avsender dersom adressaten ikke bor på den oppgitte adresse. Påskriftene skal ha følgende ordlyd:«Brevet må straks returneres dersom adressaten ikke bor på den oppgitte adresse.»
+Forkynning som skjer i form av brev skal sendes i lukket konvolutt som påføres en oppfordring om at den straks skal returneres til avsender dersom adressaten ikke bor på den oppgitte adresse. Påskriftene skal ha følgende ordlyd:
+
+«Brevet må straks returneres dersom adressaten ikke bor på den oppgitte adresse.»
 
 Ved forkynning av forliksrådsdokumenter i Norge etter hovedregelen i [§ 4](forskrift/1985-10-11-1810/§4) annet ledd skal forsendelsen i stedet for påskriften etter forrige ledd, merkes med strekkode eller annen unik identifikasjon som identifiserer avsender og forsendelsen, etter avtale med posttilbyder. Merkingen må skje på en slik måte at forsendelsens innhold ikke med enkelhet kan avdekkes. Dersom posttilbyderen har eller får kunnskap om at adressaten ikke bor på brevets oppgitte adresse, skal avsender straks gjøres oppmerksom på dette og forsendelsen stanses. En forsendelse som blir stanset skal returneres til avsender eller straks makuleres. Pålegg om tilsvar som forkynnes på denne måten, behøver ikke være undertegnet.
 

@@ -24,27 +24,64 @@ eu_basis: []
 
 ## § 1. Generelle opplysninger som skal inngå i den årlige åpenhetsrapporten
 
-Kollektive forvaltningsorganisasjoner skal etter [lov om kollektiv forvaltning av opphavsrett mv. § 36](lov/2021-05-28-49/§36) avgi en årlig åpenhetsrapport. Rapporten skal inneholde følgende opplysninger:årsregnskap med balanse og kontantstrømoppstillingen rapport om virksomheten i regnskapsåretopplysninger om avslag på lisenstildelinger, jf. loven [§ 27](lov/2021-05-28-49/§27)en redegjørelse for organisasjonens juridiske struktur og styringsstrukturopplysninger om alle enheter som organisasjonen eier eller kontrollerer direkte eller indirekte, helt eller delvisopplysninger om det samlede vederlaget som de personene som er nevnt i loven [§ 14](lov/2021-05-28-49/§14) tredje ledd og [§ 15](lov/2021-05-28-49/§15) første ledd har fått utbetalt det foregående året, og andre ytelser som de har fåttinformasjon som nevnt i § 2 til § 5en delrapport om bruken av beløpene som blir trukket fra for sosiale, kulturelle og utdanningsmessige ytelser, herunder beløp til kollektiv fordeling, og som inneholder de opplysninger som er nevnt i § 6.
+Kollektive forvaltningsorganisasjoner skal etter [lov om kollektiv forvaltning av opphavsrett mv. § 36](lov/2021-05-28-49/§36) avgi en årlig åpenhetsrapport. Rapporten skal inneholde følgende opplysninger:
+
+1. årsregnskap med balanse og kontantstrømoppstilling
+2. en rapport om virksomheten i regnskapsåret
+3. opplysninger om avslag på lisenstildelinger, jf. loven [§ 27](lov/2021-05-28-49/§27)
+4. en redegjørelse for organisasjonens juridiske struktur og styringsstruktur
+5. opplysninger om alle enheter som organisasjonen eier eller kontrollerer direkte eller indirekte, helt eller delvis
+6. opplysninger om det samlede vederlaget som de personene som er nevnt i loven [§ 14](lov/2021-05-28-49/§14) tredje ledd og [§ 15](lov/2021-05-28-49/§15) første ledd har fått utbetalt det foregående året, og andre ytelser som de har fått
+7. informasjon som nevnt i § 2 til § 5
+8. en delrapport om bruken av beløpene som blir trukket fra for sosiale, kulturelle og utdanningsmessige ytelser, herunder beløp til kollektiv fordeling, og som inneholder de opplysninger som er nevnt i § 6.
 
 ## § 2. Økonomisk informasjon som skal inngå i den årlige åpenhetsrapporten
 
-Åpenhetsrapporten som nevnt i § 1 skal inneholde følgende opplysninger om organisasjonens økonomiske forhold:informasjon om inntektene fra rettigheter for hver kategori av forvaltede rettigheter og for hver type bruk, for eksempel kringkasting, overføring på nettet og offentlig fremføring, inkludert opplysninger om inntekter fra investering av rettighetsvederlag, og bruken av slike inntekter, uavhengig av om de skal fordeles til rettighetshaverne eller andre kollektive forvaltningsorganisasjoner eller brukes på annen måteinformasjon om kostnadene i forbindelse med forvaltning av rettigheter og andre tjenester som organisasjonen yter rettighetshavereinformasjon om beløp som tilfaller rettighetshavereopplysninger om forholdet til andre kollektive forvaltningsorganisasjoner.
+Åpenhetsrapporten som nevnt i § 1 skal inneholde følgende opplysninger om organisasjonens økonomiske forhold:
+
+1. informasjon om inntektene fra rettigheter for hver kategori av forvaltede rettigheter og for hver type bruk, for eksempel kringkasting, overføring på nettet og offentlig fremføring, inkludert opplysninger om inntekter fra investering av rettighetsvederlag, og bruken av slike inntekter, uavhengig av om de skal fordeles til rettighetshaverne eller andre kollektive forvaltningsorganisasjoner eller brukes på annen måte
+2. informasjon om kostnadene i forbindelse med forvaltning av rettigheter og andre tjenester som organisasjonen yter rettighetshavere
+3. informasjon om beløp som tilfaller rettighetshavere
+4. opplysninger om forholdet til andre kollektive forvaltningsorganisasjoner.
 
 ## § 3. Nærmere krav til informasjon om kostnader i forbindelse med forvaltning
 
-Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav b, skal inneholde en redegjørelse som omfatter følgende:alle drifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheterdrifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for den metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter, bare med hensyn til forvaltningen av rettigheter, inkludert administrasjonskostnader som blir trukket fra eller motregnet mot inntekter fra rettigheter eller eventuelle inntekter fra investering av inntektene fra rettigheter, i samsvar med loven [§ 18](lov/2021-05-28-49/§18) og [§ 20](lov/2021-05-28-49/§20)drifts- og finanskostnader i forbindelse med andre tjenester enn forvaltningen av rettigheter, men medregnet sosiale, kulturelle og utdanningsmessige ytelser**,**herunder kollektiv fordelingmidler som brukes til å dekke kostnaderfradrag fra inntekter fra rettigheter, fordelt på kategorier av forvaltede rettigheter og type bruk, og formålet med fradraget, for eksempel kostnader knyttet til forvaltningen av rettigheter eller til sosiale, kulturelle eller utdanningsmessige ytelser, herunder kollektiv fordelingprosentandelene som kostnaden ved forvaltningen av rettighetene og andre tjenester som den kollektive forvaltningsorganisasjonen yter til rettighetshaverne utgjør, sammenlignet med inntektene fra rettigheter i det aktuelle regnskapsåret, for hver kategori av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter.
+Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav b, skal inneholde en redegjørelse som omfatter følgende:
+
+1. alle drifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter
+2. drifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for den metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter, bare med hensyn til forvaltningen av rettigheter, inkludert administrasjonskostnader som blir trukket fra eller motregnet mot inntekter fra rettigheter eller eventuelle inntekter fra investering av inntektene fra rettigheter, i samsvar med loven [§ 18](lov/2021-05-28-49/§18) og [§ 20](lov/2021-05-28-49/§20)
+3. drifts- og finanskostnader i forbindelse med andre tjenester enn forvaltningen av rettigheter, men medregnet sosiale, kulturelle og utdanningsmessige ytelser**,**herunder kollektiv fordeling
+4. midler som brukes til å dekke kostnader
+5. fradrag fra inntekter fra rettigheter, fordelt på kategorier av forvaltede rettigheter og type bruk, og formålet med fradraget, for eksempel kostnader knyttet til forvaltningen av rettigheter eller til sosiale, kulturelle eller utdanningsmessige ytelser, herunder kollektiv fordeling
+6. prosentandelene som kostnaden ved forvaltningen av rettighetene og andre tjenester som den kollektive forvaltningsorganisasjonen yter til rettighetshaverne utgjør, sammenlignet med inntektene fra rettigheter i det aktuelle regnskapsåret, for hver kategori av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter.
 
 ## § 4. Nærmere krav til informasjon om beløp som tilfaller rettighetshavere
 
-Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav c, skal inneholde en redegjørelse som omfatter følgende:det samlede beløpet som er tilordnet rettighetshavere, fordelt på kategori av forvaltede rettigheter og type brukdet samlede beløpet som er betalt til rettighetshavere, fordelt på kategori av forvaltede rettigheter og type brukhvor ofte det er blitt gjort utbetalinger, fordelt på kategori av forvaltede rettigheter og type brukdet samlede beløp som er krevd inn, men som ennå ikke er tilordnet rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk, og i hvilket regnskapsår beløpet ble krevd inndet samlede beløp som er tilordnet, men som ennå ikke er fordelt til rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk, og i hvilket regnskapsår beløpet ble krevd inndersom en kollektiv forvaltningsorganisasjon ikke har utført fordeling og utbetaling innen den fristen som er fastsatt i loven [§ 21](lov/2021-05-28-49/§21), skal det opplyses om årsakene til forsinkelsende samlede beløpene som ikke kan fordeles, sammen med en redegjørelse for bruken av disse beløpene.
+Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav c, skal inneholde en redegjørelse som omfatter følgende:
+
+1. det samlede beløpet som er tilordnet rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk
+2. det samlede beløpet som er betalt til rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk
+3. hvor ofte det er blitt gjort utbetalinger, fordelt på kategori av forvaltede rettigheter og type bruk
+4. det samlede beløp som er krevd inn, men som ennå ikke er tilordnet rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk, og i hvilket regnskapsår beløpet ble krevd inn
+5. det samlede beløp som er tilordnet, men som ennå ikke er fordelt til rettighetshavere, fordelt på kategori av forvaltede rettigheter og type bruk, og i hvilket regnskapsår beløpet ble krevd inn
+6. dersom en kollektiv forvaltningsorganisasjon ikke har utført fordeling og utbetaling innen den fristen som er fastsatt i loven [§ 21](lov/2021-05-28-49/§21), skal det opplyses om årsakene til forsinkelsen
+7. de samlede beløpene som ikke kan fordeles, sammen med en redegjørelse for bruken av disse beløpene.
 
 ## § 5. Nærmere krav til informasjon om forholdet til andre kollektive forvaltningsorganisasjoner
 
-Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav d, skal inneholde en redegjørelse som omfatter følgende informasjon:beløp som er mottatt fra andre kollektive forvaltningsorganisasjoner, og beløp som er betalt til andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter, type bruk og organisasjonadministrasjonskostnader og andre fradrag fra inntekter fra rettigheter, som tilkommer andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter, type bruk og organisasjonadministrasjonskostnader og andre fradrag fra de beløp som er utbetalt av andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter og organisasjonbeløp som er fordelt direkte til rettighetshaver, og som stammer fra andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter og organisasjon.
+Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav d, skal inneholde en redegjørelse som omfatter følgende informasjon:
+
+1. beløp som er mottatt fra andre kollektive forvaltningsorganisasjoner, og beløp som er betalt til andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter, type bruk og organisasjon
+2. administrasjonskostnader og andre fradrag fra inntekter fra rettigheter, som tilkommer andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter, type bruk og organisasjon
+3. administrasjonskostnader og andre fradrag fra de beløp som er utbetalt av andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter og organisasjon
+4. beløp som er fordelt direkte til rettighetshaver, og som stammer fra andre kollektive forvaltningsorganisasjoner, fordelt på kategori av rettigheter og organisasjon.
 
 ## § 6. Opplysninger som skal inngå i delrapport om bruken av beløp som blir trukket fra for sosiale, kulturelle og utdanningsmessige ytelser
 
-I delrapporten som skal gis i henhold til [lov om kollektiv forvaltning av opphavsrett mv. § 36](lov/2021-05-28-49/§36) andre ledd, skal følgende opplysninger inngå:beløp som er trukket fra for sosiale, kulturelle og utdanningsmessige ytelser, herunder kollektiv fordeling, i regnskapsåret, fordelt på type formål, og for hvert av disse formål en fordeling på kategori av forvaltede rettigheter type bruken redegjørelse for bruken av disse beløpene, fordelt på type formål, medregnet kostnader knyttet til forvaltning av de beløp som er trukket fra for å finansiere sosiale, kulturelle og utdanningsmessige ytelser, og de separate beløp som blir brukt til sosiale, kulturelle og utdanningsmessige ytelser.
+I delrapporten som skal gis i henhold til [lov om kollektiv forvaltning av opphavsrett mv. § 36](lov/2021-05-28-49/§36) andre ledd, skal følgende opplysninger inngå:
+
+1. beløp som er trukket fra for sosiale, kulturelle og utdanningsmessige ytelser, herunder kollektiv fordeling, i regnskapsåret, fordelt på type formål, og for hvert av disse formål en fordeling på kategori av forvaltede rettigheter type bruk
+2. en redegjørelse for bruken av disse beløpene, fordelt på type formål, medregnet kostnader knyttet til forvaltning av de beløp som er trukket fra for å finansiere sosiale, kulturelle og utdanningsmessige ytelser, og de separate beløp som blir brukt til sosiale, kulturelle og utdanningsmessige ytelser.
 
 ## § 7. Utmåling av overtredelsesgebyr
 

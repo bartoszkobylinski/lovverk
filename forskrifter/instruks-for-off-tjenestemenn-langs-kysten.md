@@ -46,17 +46,35 @@ Forhold og hendelser som nevnt i [§ 4](forskrift/1997-12-19-1545/§4) og [§ 5]
 
 ### § 4. Rapporteringspliktige forhold og hendelser i fredstid
 
-I fredstid skal det rapporteres omfremmede ikke-militære fartøyer av enhver kategori som observeres i norsk indre farvann uten å ha heist nasjonalflagg, seiler utenfor normal seilingsled, er stilleliggende, oppankret, setter ut båter, eller utfører annen unormal manøver eller virksomhet. Det skal videre rapporteres dersom det er åpenbart eller rimelig grunn til å anta at et fremmed ikke-militært fartøy har anløpt indre farvann uten at anløpsmelding er oversendt norske myndigheter, at fartøyet ikke har fått anløpstillatelse, eller at det foreligger andre brudd på anløpsforskriften;fremmede krigsfartøyer observert i norsk indre farvann og på norsk sjøterritorium;fremmede ikke-militære fartøyer som bryter enkeltvedtak eller forskrift om losplikt;mistanke om spionasje mot militære enheter, installasjoner eller anlegg;fremmede fartøyer som foretar ulovlige målinger;observasjoner av uidentifisert undervannsobjekter, ogobservasjon av mulig militære gjenstander, herunder sprenglegemer.
+I fredstid skal det rapporteres om
+
+1. fremmede ikke-militære fartøyer av enhver kategori som observeres i norsk indre farvann uten å ha heist nasjonalflagg, seiler utenfor normal seilingsled, er stilleliggende, oppankret, setter ut båter, eller utfører annen unormal manøver eller virksomhet. Det skal videre rapporteres dersom det er åpenbart eller rimelig grunn til å anta at et fremmed ikke-militært fartøy har anløpt indre farvann uten at anløpsmelding er oversendt norske myndigheter, at fartøyet ikke har fått anløpstillatelse, eller at det foreligger andre brudd på anløpsforskriften;
+2. fremmede krigsfartøyer observert i norsk indre farvann og på norsk sjøterritorium;
+3. fremmede ikke-militære fartøyer som bryter enkeltvedtak eller forskrift om losplikt;
+4. mistanke om spionasje mot militære enheter, installasjoner eller anlegg;
+5. fremmede fartøyer som foretar ulovlige målinger;
+6. observasjoner av uidentifisert undervannsobjekter, og
+7. observasjon av mulig militære gjenstander, herunder sprenglegemer.
 
 ### § 5. Rapporteringspliktige forhold og hendelser i krig og ved mulig krigsfare
 
-Ved krise og krig skal det spesielt rapporteres omfremmede krigsfartøyer, bevæpnede handelsfartøyer eller fremmede ikke-militære fartøyer av en hvilken som helst kategori som observeres underveis eller stilleliggende i norsk indre farvann og på norsk sjøterritorium;fremmede eller norske fartøyer som viser mistenkelig opptreden, for eksempel ved at fartøyet viser uforståelige signaler eller prøver å skjule sin kommunikasjon med andre fartøyer eller personer på land;observerte lagre av proviant, drivstoff mv., som virker mistenkelig på grunn av sin beliggenhet, størrelse, art eller lignende;fartøy, eller annet transportmiddel på sjøen som oppdages i ferd med, eller antas å ville forsøke eller medvirke til å transportere forbudte varer (kontrabande);mistanke om spionasje. Dette omfatter også at fremmed makt – direkte eller indirekte – blir gitt meddelelser om fartøyers bevegelser, inkludert ankomst og avgang, eller om fartøyets last.
+Ved krise og krig skal det spesielt rapporteres om
+
+1. fremmede krigsfartøyer, bevæpnede handelsfartøyer eller fremmede ikke-militære fartøyer av en hvilken som helst kategori som observeres underveis eller stilleliggende i norsk indre farvann og på norsk sjøterritorium;
+2. fremmede eller norske fartøyer som viser mistenkelig opptreden, for eksempel ved at fartøyet viser uforståelige signaler eller prøver å skjule sin kommunikasjon med andre fartøyer eller personer på land;
+3. observerte lagre av proviant, drivstoff mv., som virker mistenkelig på grunn av sin beliggenhet, størrelse, art eller lignende;
+4. fartøy, eller annet transportmiddel på sjøen som oppdages i ferd med, eller antas å ville forsøke eller medvirke til å transportere forbudte varer (kontrabande);
+5. mistanke om spionasje. Dette omfatter også at fremmed makt – direkte eller indirekte – blir gitt meddelelser om fartøyers bevegelser, inkludert ankomst og avgang, eller om fartøyets last.
 
 Videre skal observasjoner av andre aktuelle forhold og hendelser som antas å være av interesse for sjømilitære myndigheter rapporteres, herunder havari og ulykker til sjøs, drivende eller ilanddrevne miner, torpedoer eller andre gjenstander som er, eller mistenkes å være bestemt for krigsformål.
 
 ### § 6. Utfyllende bestemmelser om rapportens innhold
 
-Rapportene om fartøy skal om mulig alltid angifartøyets navn, kallesignal, type og nasjonalitetnøyaktig sted og tidsangivelsefartøyets kurs og fart, og ellers alle opplysninger som kan bidra til å identifisere vedkommende fartøy og dets aktivitet.
+Rapportene om fartøy skal om mulig alltid angi
+
+1. fartøyets navn, kallesignal, type og nasjonalitet
+2. nøyaktig sted og tidsangivelse
+3. fartøyets kurs og fart, og ellers alle opplysninger som kan bidra til å identifisere vedkommende fartøy og dets aktivitet.
 
 ## Kapittel III. Adressat og fremsendelsesmåte
 

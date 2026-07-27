@@ -15,7 +15,7 @@ xml_hash: "428a96f59123b5ca1d7901a8cd553e027db13a94f5b934b54ff38d39af3a8ec6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ eu_basis: []
 
 ## § 4.
 
-1\. Loven gjelder ikke forskip på 15 meters største lengde eller mer, eller annet skip eller innretning som er registrert i skipsregisteret,luftfartøy som kan registreres i luftfartøyregisteret,– – –
+1\. Loven gjelder ikke for
+
+1. skip på 15 meters største lengde eller mer, eller annet skip eller innretning som er registrert i skipsregisteret,
+2. luftfartøy som kan registreres i luftfartøyregisteret,
+3. – – –
 
 2\. Reglene i [§ 1](lov/1978-06-02-37/§1) gjelder ikke i forhold til den som har fått tinglyst salgspant eller utlegg i henhold til [panteloven § 3-17](lov/1980-02-08-2/§3-17) tredje ledd eller [§ 5-5](lov/1980-02-08-2/§5-5), i motorvogn som er registrert etter reglene i [vegtrafikkloven 18. juni 1965 nr. 4 § 15](lov/1965-06-18-4/§15), jfr. [§ 16](lov/1965-06-18-4/§16).
 

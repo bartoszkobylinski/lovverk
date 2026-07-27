@@ -15,7 +15,7 @@ xml_hash: "a14a34c6115837bf88401116b6b83dce3cc7150960f3ae395346d0279ee3e9aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -176,7 +176,18 @@ Høyskolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen. Det skal
 
 1\. Høyskolen skal sørge for at kandidatenes kunnskaper, ferdigheter og generelle kompetanse blir prøvet og vurdert på en upartisk og faglig betryggende måte. Vurderingen skal også sikre det faglige nivå ved vedkommende emne eller studium.
 
-2\. Følgende vurderingsformer kan benyttes hver for seg eller i kombinasjon:skriftlig skoleeksamenhjemmeeksamenflervalgseksamen (Multiple Choice Questions)muntlig eksamenprosjekteksameninnleveringsoppgaver (f.eks. gruppe-, semester- og bacheloroppgave)ferdighetstreningmuntlig presentasjon.Det skal fremgå av studieplanen hvilke vurderingsformer som er fastsatt for et emne.
+2\. Følgende vurderingsformer kan benyttes hver for seg eller i kombinasjon:
+
+1. skriftlig skoleeksamen
+2. hjemmeeksamen
+3. flervalgseksamen (Multiple Choice Questions)
+4. muntlig eksamen
+5. prosjekteksamen
+6. innleveringsoppgaver (f.eks. gruppe-, semester- og bacheloroppgave)
+7. ferdighetstrening
+8. muntlig presentasjon.
+
+Det skal fremgå av studieplanen hvilke vurderingsformer som er fastsatt for et emne.
 
 > Endret ved [forskrift 15 mars 2016 nr. 257](forskrift/2016-03-15-257).
 
@@ -184,7 +195,21 @@ Høyskolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen. Det skal
 
 1\. Det skal fremgå av studieplanen hvilke vurderingsuttrykk som benyttes til de ulike vurderingsformene.
 
-2\. Følgende vurderingsuttrykk skal benyttes ved eksamen:bestått/ikke beståtten gradert skala med fem trinn fra A til E for «bestått» og F for «ikke bestått».Bokstavkarakterene har følgende betegnelse og generell beskrivelse:AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+2\. Følgende vurderingsuttrykk skal benyttes ved eksamen:
+
+1. bestått/ikke bestått
+2. en gradert skala med fem trinn fra A til E for «bestått» og F for «ikke bestått».
+
+Bokstavkarakterene har følgende betegnelse og generell beskrivelse:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 3\. Bokstavkarakterene tilsvarer tallverdier slik: A = 5, B = 4, C = 3, D = 2, E = 1, F = 0. Tallverdiene brukes ved utregning når flere deleksamener skal inngå i samlet karakter. Regler for vekting av deleksamener i et emne skal framgå av studieplanen. Det benyttes vanlige avrundingsregler.
 
@@ -214,7 +239,13 @@ Høyskolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen. Det skal
 
 6\. Sensuren skal foreligge innen tre uker hvis ikke særlige grunner gjør det nødvendig å bruke lengre tid. Sensuren kunngjøres normalt på StudentWeb. Sensuren regnes som kunngjort når den er tilgjengelig i studentportalen.
 
-7\. Ekstern evaluering av vurderingsordningen kan gjennomføres for deler av et studium eller for ett eller flere studium samlet.Elementer i en ekstern evaluering av vurderingsordningen kan være:gjennomgang av vurderingsordninger som angitt i emne- og studieplaner.evaluering av eksamensoppgaver og vurderingskriterier i et utvalg av emner.stikkprøvekontroll av vurderinger gjennomført av intern(e) sensor(er) i et utvalg av emner.
+7\. Ekstern evaluering av vurderingsordningen kan gjennomføres for deler av et studium eller for ett eller flere studium samlet.
+
+Elementer i en ekstern evaluering av vurderingsordningen kan være:
+
+- gjennomgang av vurderingsordninger som angitt i emne- og studieplaner.
+- evaluering av eksamensoppgaver og vurderingskriterier i et utvalg av emner.
+- stikkprøvekontroll av vurderinger gjennomført av intern(e) sensor(er) i et utvalg av emner.
 
 > Endret ved [forskrift 15 mars 2016 nr. 257](forskrift/2016-03-15-257).
 

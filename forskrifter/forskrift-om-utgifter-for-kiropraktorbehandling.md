@@ -15,7 +15,7 @@ xml_hash: "e0683534cd2209e3d9c712e9180c986b547df78e9583c0edd64a3d744e67f56e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Det ytes stønad til dekning av utgifter til undersøkelse og behandling hos kir
 
 ## § 2.
 
-Stønad ytes bare dersom den som gir behandlingenhar autorisasjon som kiropraktor etter [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 48](lov/1999-07-02-64/§48),har godkjenning etter tidligere regelverk, jf. [helsepersonelloven § 76](lov/1999-07-02-64/§76) annet ledd,har turnuslisens som kiropraktor i henhold til [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell [kapittel 1](forskrift/2000-12-21-1382/kap1) og 6, ellerer kiropraktor fra et annet EØS-land og yter midlertidige tjenester i Norge, jf. [forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land.
+Stønad ytes bare dersom den som gir behandlingen
+
+1. har autorisasjon som kiropraktor etter [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 48](lov/1999-07-02-64/§48),
+2. har godkjenning etter tidligere regelverk, jf. [helsepersonelloven § 76](lov/1999-07-02-64/§76) annet ledd,
+3. har turnuslisens som kiropraktor i henhold til [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell [kapittel 1](forskrift/2000-12-21-1382/kap1) og 6, eller
+4. er kiropraktor fra et annet EØS-land og yter midlertidige tjenester i Norge, jf. [forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land.
 
 For å kunne henvise til legespesialist og fysioterapeut og for å kunne dokumentere arbeidsuførhet inntil 12 uker, er det et vilkår at kiropraktor eller den som har turnuslisens som kiropraktor har nødvendig kompetanse i trygdefaglige emner mv.
 

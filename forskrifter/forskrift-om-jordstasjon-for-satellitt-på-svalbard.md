@@ -34,7 +34,13 @@ Nasjonal kommunikasjonsmyndighet avgjør i tvilstilfeller om en jordstasjon regu
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*jordstasjon:* utstyr for overføring av data til eller mottak av data fra satellitt eller annet rombasert system, utstyr for elektronisk kommunikasjon ment for alminnelig kommersiell bruk er ikke en jordstasjon etter denne forskriften*satellitt:* ubemannet kunstig objekt som befinner seg minst 100 km over jordoverflaten*nyttelast:* passive og aktive instrumenter om bord i en satellitt; instrumentering knyttet til styring og kontroll av satellitten inngår ikke i definisjonen*oppskytingsfase:* fra og med oppskyting og frem til nyttelast tas i bruk*nødsituasjon:* situasjon hvor en satellitt har tekniske problemer og satellittoperatør har behov for å kommunisere gjennom jordstasjon på Svalbard; det foreligger ikke en nødsituasjon dersom det utelukkende foreligger tekniske problemer med nyttelast.
+I denne forskriften menes med:
+
+1. *jordstasjon:* utstyr for overføring av data til eller mottak av data fra satellitt eller annet rombasert system, utstyr for elektronisk kommunikasjon ment for alminnelig kommersiell bruk er ikke en jordstasjon etter denne forskriften
+2. *satellitt:* ubemannet kunstig objekt som befinner seg minst 100 km over jordoverflaten
+3. *nyttelast:* passive og aktive instrumenter om bord i en satellitt; instrumentering knyttet til styring og kontroll av satellitten inngår ikke i definisjonen
+4. *oppskytingsfase:* fra og med oppskyting og frem til nyttelast tas i bruk
+5. *nødsituasjon:* situasjon hvor en satellitt har tekniske problemer og satellittoperatør har behov for å kommunisere gjennom jordstasjon på Svalbard; det foreligger ikke en nødsituasjon dersom det utelukkende foreligger tekniske problemer med nyttelast.
 
 ## § 4. Krav om tillatelse
 
@@ -72,7 +78,12 @@ Brukes en jordstasjon til å assistere en satellitt som er i en nødsituasjon el
 
 ## § 8. Plikt til loggføring og lagring
 
-Innehaver av tillatelse til å etablere, drifte og bruke en jordstasjon med bevegelig antenne plikter fortløpende åloggføre alle satellittpasseringer der en jordstasjon sender data til eller leser ned data fra en satellitt oglagre alle relevante data om antennestyringsordrene på samme nivå som loggføringen foretas.Loggen og dataene skal lagres ved jordstasjonen i minimum to år.
+Innehaver av tillatelse til å etablere, drifte og bruke en jordstasjon med bevegelig antenne plikter fortløpende å
+
+1. loggføre alle satellittpasseringer der en jordstasjon sender data til eller leser ned data fra en satellitt og
+2. lagre alle relevante data om antennestyringsordrene på samme nivå som loggføringen foretas.
+
+Loggen og dataene skal lagres ved jordstasjonen i minimum to år.
 
 Nasjonal kommunikasjonsmyndighet kan gi pålegg om annen loggføring og lagring.
 

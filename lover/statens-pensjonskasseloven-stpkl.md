@@ -15,7 +15,7 @@ xml_hash: "8d53e843a3024d8cdd72c98af30fee658e24c34c22d2cc22f70cf7d2ed806886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Statens pensjonskasse er en statsgarantert kasse til dekning av de pensjoner som
 
 Formålet med pensjonsordningen i Statens pensjonskasse er å sikre medlemmene tjenestepensjon ved alderdom og uførhet. Ordningen skal også sikre pensjon til etterlatte.
 
-Når det er fastsatt ved lov eller bestemt av departementet, skal Pensjonskassen i tillegg administrere andre ordninger, herunderandre pensjonsordningerboliglånsordningen i statengruppelivsordningen i statenerstatningsordninger i staten.
+Når det er fastsatt ved lov eller bestemt av departementet, skal Pensjonskassen i tillegg administrere andre ordninger, herunder
+
+1. andre pensjonsordninger
+2. boliglånsordningen i staten
+3. gruppelivsordningen i staten
+4. erstatningsordninger i staten.
 
 > Endret ved lover [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [4 des 2020 nr. 132](lov/2020-12-04-132).
 
@@ -186,7 +191,15 @@ Er den samlede tjenestetid lengre enn det som kreves for full pensjon, skal det 
 
 ### § 20
 
-Som tjenestetid regnes også den tid medlemmet:midlertidig er avgitt til tjeneste hos fylke, kommune eller privat arbeidsgiver som utfører arbeid for staten,har ferie,har permisjon med lønn,har permisjon uten lønn eller på annen måte midlertidig har fratrådt tjenesten og hvor det ved tariffavtale mellom staten og hovedsammenslutningene er bestemt at tjenestetiden skal regnes med,har midlertidig uførepensjon eller uførepensjon, unntatt pensjon som ytes etter [§ 27](lov/1949-07-28-26/§27) femte ledd,har vært medlem av annen pensjonsordning som Pensjonskassen har avtale med om overføring av pensjonsrettigheter, eller i utenlandsk pensjonsordning hvor tiden etter internasjonal overenskomst skal regnes med,er ilagt karantene før overgang til ny stilling.
+Som tjenestetid regnes også den tid medlemmet:
+
+1. midlertidig er avgitt til tjeneste hos fylke, kommune eller privat arbeidsgiver som utfører arbeid for staten,
+2. har ferie,
+3. har permisjon med lønn,
+4. har permisjon uten lønn eller på annen måte midlertidig har fratrådt tjenesten og hvor det ved tariffavtale mellom staten og hovedsammenslutningene er bestemt at tjenestetiden skal regnes med,
+5. har midlertidig uførepensjon eller uførepensjon, unntatt pensjon som ytes etter [§ 27](lov/1949-07-28-26/§27) femte ledd,
+6. har vært medlem av annen pensjonsordning som Pensjonskassen har avtale med om overføring av pensjonsrettigheter, eller i utenlandsk pensjonsordning hvor tiden etter internasjonal overenskomst skal regnes med,
+7. er ilagt karantene før overgang til ny stilling.
 
 I forbindelse med omorganiseringer eller omstillinger kan departementet bestemme at arbeidstakere som fratrer sin stilling med straks løpende alderspensjon eller førtidspensjon, skal kunne få godskrevet hele eller deler av tiden fram til stillingens aldersgrense som pensjonsgivende. Departementet kan bestemme at den enkelte virksomhet skal belastes for kostnadene ved dette gjennom løpende innbetalinger eller ved innbetaling av et engangsbeløp.
 
@@ -226,7 +239,11 @@ Alderspensjon etter tredje og fjerde ledd kan ikke tas ut samtidig med alderspen
 
 ### § 21 A
 
-Statens pensjonskasse kan bevilge straks løpende alderspensjon til arbeidstaker som i løpet av de siste ti årene har gått over fra stilling med lavere aldersgrense til stilling med høyere aldersgrense, nårvedkommende hadde hatt lavere aldersgrense i minst 15 år,den lavere aldersgrensen er begrunnet i forhold som er omhandlet i lov om aldersgrenser for statsansatte m.fl. [§ 2](lov/1949-07-28-26/§2) første ledd alternativ a, ogvedkommende ville hatt rett til alderspensjon i den tidligere stillingen.
+Statens pensjonskasse kan bevilge straks løpende alderspensjon til arbeidstaker som i løpet av de siste ti årene har gått over fra stilling med lavere aldersgrense til stilling med høyere aldersgrense, når
+
+1. vedkommende hadde hatt lavere aldersgrense i minst 15 år,
+2. den lavere aldersgrensen er begrunnet i forhold som er omhandlet i lov om aldersgrenser for statsansatte m.fl. [§ 2](lov/1949-07-28-26/§2) første ledd alternativ a, og
+3. vedkommende ville hatt rett til alderspensjon i den tidligere stillingen.
 
 Departementet kan fastsette nødvendige overgangsregler.
 
@@ -236,7 +253,10 @@ Departementet kan fastsette nødvendige overgangsregler.
 
 Pensjonen beregnes av medlemmets pensjonsgrunnlag når vedkommende fratrer stillingen, jf. likevel [§ 15](lov/1949-07-28-26/§15).
 
-Den årlige alderspensjonen beregnes slik:Et medlem med 30 års tjenestetid eller mer får full alderspensjon. Denne skal utgjøre 66 prosent av pensjonsgrunnlaget.Et medlem med kortere tjenestetid enn 30 år skal ha en avkortet alderspensjon, som utgjør så mange trettideler av full pensjon som vedkommende har tjenesteår.
+Den årlige alderspensjonen beregnes slik:
+
+1. Et medlem med 30 års tjenestetid eller mer får full alderspensjon. Denne skal utgjøre 66 prosent av pensjonsgrunnlaget.
+2. Et medlem med kortere tjenestetid enn 30 år skal ha en avkortet alderspensjon, som utgjør så mange trettideler av full pensjon som vedkommende har tjenesteår.
 
 Alderspensjonen skal levealdersjusteres etter bestemmelsene i [§§ 24](lov/1949-07-28-26/§24) og [24 a](lov/1949-07-28-26/§24a).
 
@@ -258,7 +278,11 @@ Oppsatt alderspensjon skal levealdersjusteres etter bestemmelsene i [§§ 24](lo
 
 ### § 24
 
-Alderspensjonen skal levealdersjusteres, slik at den enkeltes pensjon justeres for endringer i befolkningens levealder. Levealdersjusteringen gjennomføres ved hjelp av justeringstall, som fastsettes slik:For årskull fra og med 1943-kullet til og med 1953-kullet tilsvarer justeringstallene de forholdstallene som fastsettes av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 19-6](lov/1997-02-28-19/§19-6) og [19-7](lov/1997-02-28-19/§19-7).For årskull fra og med 1963-kullet beregnes det justeringstall med utgangspunkt i delingstall fastsatt av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 20-12](lov/1997-02-28-19/§20-12) og [20-13](lov/1997-02-28-19/§20-13). Justeringstallene framkommer ved å dividere delingstallene med 13,42.For årskull fra og med 1954-kullet til og med 1962-kullet benyttes det justeringstall både etter bokstav a og bokstav b, se [§ 24 a](lov/1949-07-28-26/§24a).
+Alderspensjonen skal levealdersjusteres, slik at den enkeltes pensjon justeres for endringer i befolkningens levealder. Levealdersjusteringen gjennomføres ved hjelp av justeringstall, som fastsettes slik:
+
+1. For årskull fra og med 1943-kullet til og med 1953-kullet tilsvarer justeringstallene de forholdstallene som fastsettes av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 19-6](lov/1997-02-28-19/§19-6) og [19-7](lov/1997-02-28-19/§19-7).
+2. For årskull fra og med 1963-kullet beregnes det justeringstall med utgangspunkt i delingstall fastsatt av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 20-12](lov/1997-02-28-19/§20-12) og [20-13](lov/1997-02-28-19/§20-13). Justeringstallene framkommer ved å dividere delingstallene med 13,42.
+3. For årskull fra og med 1954-kullet til og med 1962-kullet benyttes det justeringstall både etter bokstav a og bokstav b, se [§ 24 a](lov/1949-07-28-26/§24a).
 
 Alderspensjonen skal levealdersjusteres tidligst fra fylte 67 år. Dette gjelder også dersom det er utbetalt alderspensjon fra et tidligere tidspunkt. Pensjonen divideres med justeringstallet som gjelder ved fylte 67 år.
 
@@ -272,7 +296,10 @@ Departementet gir forskrift om anvendelsen av justeringstall.
 
 ### § 24 a
 
-Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusteringen gjennomføres slik:Det skal foretas en beregning etter [§ 24](lov/1949-07-28-26/§24) med justeringstall fastsatt henholdsvis etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b.Personer som er født i 1954, får 9/10 av pensjonen levealdersjustert ved bruk av justeringstallet etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og 1/10 etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b. Andelen beregnet etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a reduseres med 1/10 for hvert senere årskull, slik at personer født i 1962 får 1/10 av pensjonen levealdersjustert etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og 9/10 levealdersjustert etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b.
+Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusteringen gjennomføres slik:
+
+1. Det skal foretas en beregning etter [§ 24](lov/1949-07-28-26/§24) med justeringstall fastsatt henholdsvis etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b.
+2. Personer som er født i 1954, får 9/10 av pensjonen levealdersjustert ved bruk av justeringstallet etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og 1/10 etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b. Andelen beregnet etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a reduseres med 1/10 for hvert senere årskull, slik at personer født i 1962 får 1/10 av pensjonen levealdersjustert etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav a og 9/10 levealdersjustert etter [§ 24](lov/1949-07-28-26/§24) første ledd bokstav b.
 
 > Tilføyd ved lov [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)).
 
@@ -280,9 +307,16 @@ Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusterin
 
 Medlemmer som er født i 1958 eller tidligere, skal ha et garantert pensjonsnivå etter reglene i paragrafen her.
 
-Garantien gjelder tidligst fra fylte 67 år og skal anvendes på summen avalderspensjon etter loven her, samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, ogalderspensjon fra folketrygden.
+Garantien gjelder tidligst fra fylte 67 år og skal anvendes på summen av
 
-Alderspensjon fra folketrygden som inngår i beregningen etter annet ledd bokstav b, fastsettes slik:Dersom pensjonene tas ut samtidig, anvendes alderspensjonen fra folketrygden.Dersom alderspensjonen fra folketrygden er tatt ut før pensjon etter loven her, benyttes det en alderspensjon fra folketrygden beregnet som om den var tatt ut på samme tidspunkt som tjenestepensjonen.For medlemmer som har fratrådt sin stilling med alderspensjon etter loven her før fylte 67 år, skal denne pensjonen anses å være tatt ut ved fylte 67 år ved anvendelse av bokstavene a og b.
+1. alderspensjon etter loven her, samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, og
+2. alderspensjon fra folketrygden.
+
+Alderspensjon fra folketrygden som inngår i beregningen etter annet ledd bokstav b, fastsettes slik:
+
+1. Dersom pensjonene tas ut samtidig, anvendes alderspensjonen fra folketrygden.
+2. Dersom alderspensjonen fra folketrygden er tatt ut før pensjon etter loven her, benyttes det en alderspensjon fra folketrygden beregnet som om den var tatt ut på samme tidspunkt som tjenestepensjonen.
+3. For medlemmer som har fratrådt sin stilling med alderspensjon etter loven her før fylte 67 år, skal denne pensjonen anses å være tatt ut ved fylte 67 år ved anvendelse av bokstavene a og b.
 
 For medlemmer som har 30 års tjenestetid eller mer, utgjør det garanterte pensjonsnivået 66 prosent av pensjonsgrunnlaget. For medlemmer som har mindre enn 30 års tjenestetid, jf. [§ 22](lov/1949-07-28-26/§22) andre ledd bokstav b, utgjør det garanterte pensjonsnivået et forholdsmessig beløp.
 
@@ -402,7 +436,10 @@ Medlemmer med tjenestetid før 2020 har rett til oppsatt alderspensjon dersom sa
 
 Pensjonen beregnes av medlemmets pensjonsgrunnlag 31. desember 2019. Har medlemmet 31. desember 2019 lenger tjenestetid enn 30 år, skal gjennomsnittlig stillingsandel beregnes med utgangspunkt i de 30 årene med høyest stillingsandel.
 
-Den årlige alderspensjonen beregnes slik:Har medlemmet 31. desember 2019 full tjenestetid, eller mer, får medlemmet full alderspensjon. Full tjenestetid er den tjenestetiden medlemmet ville hatt fra den dagen vedkommende ble medlem av Pensjonskassen og fram til det laveste av aldersgrensen eller 70 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Pensjonen skal utgjøre 66 prosent av pensjonsgrunnlaget.Har medlemmet 31. desember 2019 ikke full tjenestetid, skal medlemmet ha en avkortet alderspensjon som utgjør en så stor andel av full pensjon som tjenestetiden 31. desember 2019 utgjør av full tjenestetid.
+Den årlige alderspensjonen beregnes slik:
+
+1. Har medlemmet 31. desember 2019 full tjenestetid, eller mer, får medlemmet full alderspensjon. Full tjenestetid er den tjenestetiden medlemmet ville hatt fra den dagen vedkommende ble medlem av Pensjonskassen og fram til det laveste av aldersgrensen eller 70 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Pensjonen skal utgjøre 66 prosent av pensjonsgrunnlaget.
+2. Har medlemmet 31. desember 2019 ikke full tjenestetid, skal medlemmet ha en avkortet alderspensjon som utgjør en så stor andel av full pensjon som tjenestetiden 31. desember 2019 utgjør av full tjenestetid.
 
 Forsørger medlemmet barn under 18 år, skal det for hvert barn ytes et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full tjenestetid. Er pensjonen beregnet etter kortere enn full tjenestetid, skal det foretas en forholdsmessig avkorting. Barnetillegg betales ut den måneden barnet fyller 18 år eller i tilfelle måneden etter barnets død.
 
@@ -466,7 +503,11 @@ Kapittelet gjelder alderspensjon for personer født i 1963 eller senere og omfat
 
 ### § 26 n. Særskilt tidligpensjonsordning til personer i årskullene 1963 til 1969
 
-Personer født i 1963 og 1964 med særaldersgrense to år før alderen for ubetinget rett til alderspensjon fra folketrygden har rett til tidligpensjon når de fratrer stillingen ved eller etter fylte 65 år, se likevel fjerde ledd. Rett til tidligpensjon etter første punktum har også personer født i 1963 eller 1964 som i løpet av de siste 10 årene har gått over fra en stilling med lavere aldersgrense til en stilling med høyere aldersgrense nårvedkommende har hatt lavere aldersgrense i minst 15 år,den lavere aldersgrensen er begrunnet i forhold som er omhandlet i [lov om aldersgrenser for statsansatte m.fl. § 2 første ledd andre punktum bokstav a](lov/1956-12-21-1/§2/ledd/1/setning/2/bokstav/a), ogvedkommende ville hatt rett til alderspensjon i den tidligere stillingen.
+Personer født i 1963 og 1964 med særaldersgrense to år før alderen for ubetinget rett til alderspensjon fra folketrygden har rett til tidligpensjon når de fratrer stillingen ved eller etter fylte 65 år, se likevel fjerde ledd. Rett til tidligpensjon etter første punktum har også personer født i 1963 eller 1964 som i løpet av de siste 10 årene har gått over fra en stilling med lavere aldersgrense til en stilling med høyere aldersgrense når
+
+1. vedkommende har hatt lavere aldersgrense i minst 15 år,
+2. den lavere aldersgrensen er begrunnet i forhold som er omhandlet i [lov om aldersgrenser for statsansatte m.fl. § 2 første ledd andre punktum bokstav a](lov/1956-12-21-1/§2/ledd/1/setning/2/bokstav/a), og
+3. vedkommende ville hatt rett til alderspensjon i den tidligere stillingen.
 
 Personer født i perioden 1963 til 1966 med særaldersgrense fire år før alderen for ubetinget rett til alderspensjon fra folketrygden har rett til tidligpensjon når de fratrer stillingen ved eller etter fylte 63 år, se likevel fjerde ledd.
 
@@ -596,7 +637,11 @@ Rett til uførepensjon etter kapitlet her har også den som har minst tre års s
 
 ### § 28
 
-Ved beregning av midlertidig uførepensjon og uførepensjon tas det hensyn til hvor stor del av inntektsevnen som er tapt (uføregraden) og medlemmets tjenestetid. Har medlemmet tapt hele inntektsevnen, utgjør full pensjon summen av25 prosent av folketrygdens grunnbeløp, likevel ikke mer enn 6 prosent av pensjonsgrunnlaget,3 prosent av pensjonsgrunnlaget opp til 6 ganger grunnbeløpet og69 prosent av den delen av pensjonsgrunnlaget som er mellom 6 og 12 ganger grunnbeløpet.
+Ved beregning av midlertidig uførepensjon og uførepensjon tas det hensyn til hvor stor del av inntektsevnen som er tapt (uføregraden) og medlemmets tjenestetid. Har medlemmet tapt hele inntektsevnen, utgjør full pensjon summen av
+
+1. 25 prosent av folketrygdens grunnbeløp, likevel ikke mer enn 6 prosent av pensjonsgrunnlaget,
+2. 3 prosent av pensjonsgrunnlaget opp til 6 ganger grunnbeløpet og
+3. 69 prosent av den delen av pensjonsgrunnlaget som er mellom 6 og 12 ganger grunnbeløpet.
 
 Dersom inntektsevnen er nedsatt, men ikke i en slik grad at medlemmet har rett til arbeidsavklaringspenger eller uføretrygd fra folketrygden, beregnes pensjonen etter første ledd og tillegges 66 prosent av pensjonsgrunnlaget opp til 6 ganger folketrygdens grunnbeløp. Det samme gjelder når medlemmet får avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav a](lov/1957-07-06-26/§1/ledd/1/bokstav/a), og ikke lenger har rett til arbeidsavklaringspenger fra folketrygden. Dersom medlemmet får avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d) eller livsvarig avtalefestet pensjon, skal pensjonen likevel beregnes etter første ledd i paragrafen her, jf. tredje til sjuende ledd.
 
@@ -708,7 +753,11 @@ Departementet gir forskrift om fastsetting av enke- eller enkemannspensjon etter
 
 ### § 34
 
-Det ytes enke- og enkemannspensjon til gjenlevende ektefelle etter denne paragrafen når:medlemmet døde før 1. januar 2001,medlemmet døde mellom 1. januar 2001 og 1. februar 2010 og gjenlevende er enke eller enkemann etter medlem med medlemskap før 1. oktober 1976, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000, ellermedlemmet døde etter 31. januar 2010 og gjenlevende er født før 1. januar 1955 og avdøde ble medlem første gang før 1. oktober 1976 og ekteskapet ble inngått før 1. januar 2010, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000.
+Det ytes enke- og enkemannspensjon til gjenlevende ektefelle etter denne paragrafen når:
+
+1. medlemmet døde før 1. januar 2001,
+2. medlemmet døde mellom 1. januar 2001 og 1. februar 2010 og gjenlevende er enke eller enkemann etter medlem med medlemskap før 1. oktober 1976, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000, eller
+3. medlemmet døde etter 31. januar 2010 og gjenlevende er født før 1. januar 1955 og avdøde ble medlem første gang før 1. oktober 1976 og ekteskapet ble inngått før 1. januar 2010, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000.
 
 Full årlig enke- eller enkemannspensjon skal utgjøre 39,6 prosent av det pensjonsgrunnlaget som det avdøde medlemmet hadde (bruttopensjon). Bestemmelsene i [§ 33](lov/1949-07-28-26/§33) andre til femte ledd gjelder tilsvarende.
 
@@ -936,8 +985,12 @@ Statlige og kommunale instanser plikter, etter nærmere bestemmelser av Kongen e
 
 ### § 48
 
-1. Denne lov gjelder for dem som ved lovens ikrafttreden var blitt medlemmer av Statens pensjonskasse og som da ikke var blitt pensjonister – herunder også de som har rett til oppsatt alderspensjon. Dog skal bestemmelsen i lov om Statens pensjonskasse av 28. juli 1921 § 12, 1 b gjelde for dem som ved nærværende lovs ikrafttreden ikke har over ti år igjen til aldersgrensen.Den hittil gjeldende lovgivning om rettigheter og plikter overfor Statens pensjonskasse skal gjelde for dem som er blitt medlemmer før 23. april 1937 og som innen en frist som fastsettes av Statens pensjonskasse skriftlig erklærer at de ikke godtar nærværende lov.
-2. Denne lov gjelder også for dem som er blitt pensjonister mellom 1. juli 1946 og lovens ikrafttreden – herunder de som i dette tidsrom har fått oppsatt alderspensjon.Den hittil gjeldende lovgivning om rettigheter og plikter overfor Statens pensjonskasse skal gjelde for dem som er blitt pensjonister før 1. juli 1946. Dog gjelder nærværende lovs [§ 23](lov/1949-07-28-26/§23), 28 første punktum, 32, 35, 36 og 37 også for disse pensjonister.
+1. Denne lov gjelder for dem som ved lovens ikrafttreden var blitt medlemmer av Statens pensjonskasse og som da ikke var blitt pensjonister – herunder også de som har rett til oppsatt alderspensjon. Dog skal bestemmelsen i lov om Statens pensjonskasse av 28. juli 1921 § 12, 1 b gjelde for dem som ved nærværende lovs ikrafttreden ikke har over ti år igjen til aldersgrensen.
+
+   Den hittil gjeldende lovgivning om rettigheter og plikter overfor Statens pensjonskasse skal gjelde for dem som er blitt medlemmer før 23. april 1937 og som innen en frist som fastsettes av Statens pensjonskasse skriftlig erklærer at de ikke godtar nærværende lov.
+2. Denne lov gjelder også for dem som er blitt pensjonister mellom 1. juli 1946 og lovens ikrafttreden – herunder de som i dette tidsrom har fått oppsatt alderspensjon.
+
+   Den hittil gjeldende lovgivning om rettigheter og plikter overfor Statens pensjonskasse skal gjelde for dem som er blitt pensjonister før 1. juli 1946. Dog gjelder nærværende lovs [§ 23](lov/1949-07-28-26/§23), 28 første punktum, 32, 35, 36 og 37 også for disse pensjonister.
 3. De nærmere regler om gjennomføring av disse bestemmelser gis av departementet.
 
 > Endret ved lover 8 juni 1973 nr. 54, [21 mai 1982 nr. 27](lov/1982-05-21-27), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).

@@ -34,7 +34,12 @@ Bestemmelsene i [kapittel 1](forskrift/2000-06-23-589/kap1) gjelder steriliserin
 
 ### § 3. Statsforvalterens godkjenning
 
-Statsforvalteren kan godkjenne at sterilisering av kvinner foretas i kirurgiske poliklinikker eller i annen ambulant spesialistpraksis utenfor sykehus hvor det anses forsvarlig. For at godkjenning skal kunne gis, må følgende krav være oppfylt:inngrepene skal utføres av leger som er spesialister i kvinnesykdommer og fødselshjelp eller spesialister i generell kirurgi, med dokumentert trening innen laparaskopi.virksomheten skal ha rutiner som sikrer mulighet for blodtyping og for gjennomføring av blodtransfusjon ved akutt komplikasjon.spesialist i anestesiologi skal ha ansvaret for overvåkning av pasienten under og etter steriliseringsinngrepet.virksomheten må ha tilfredsstillende rutiner for kontakt med kirurgisk ekspertise for rask håndtering av akutte komplikasjoner.
+Statsforvalteren kan godkjenne at sterilisering av kvinner foretas i kirurgiske poliklinikker eller i annen ambulant spesialistpraksis utenfor sykehus hvor det anses forsvarlig. For at godkjenning skal kunne gis, må følgende krav være oppfylt:
+
+- inngrepene skal utføres av leger som er spesialister i kvinnesykdommer og fødselshjelp eller spesialister i generell kirurgi, med dokumentert trening innen laparaskopi.
+- virksomheten skal ha rutiner som sikrer mulighet for blodtyping og for gjennomføring av blodtransfusjon ved akutt komplikasjon.
+- spesialist i anestesiologi skal ha ansvaret for overvåkning av pasienten under og etter steriliseringsinngrepet.
+- virksomheten må ha tilfredsstillende rutiner for kontakt med kirurgisk ekspertise for rask håndtering av akutte komplikasjoner.
 
 Godkjenningen kan tilbakekalles dersom virksomheten ikke drives i henhold til lov og forskrift.
 
@@ -68,4 +73,7 @@ Steriliseringsnemndene skal sende innberetning om behandlede søknader i nemnda 
 
 Forskriften trer i kraft straks.
 
-Fra samme tidspunkt oppheves:[Forskrifter av 28. oktober 1977 nr. 3](forskrift/1977-10-28-3) om innberetning til departementet ang sterilisering.[Forskrift av 9. januar 1998 nr. 21](forskrift/1998-01-09-21) om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner.
+Fra samme tidspunkt oppheves:
+
+- [Forskrifter av 28. oktober 1977 nr. 3](forskrift/1977-10-28-3) om innberetning til departementet ang sterilisering.
+- [Forskrift av 9. januar 1998 nr. 21](forskrift/1998-01-09-21) om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner.

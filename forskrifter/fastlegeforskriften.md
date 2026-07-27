@@ -30,7 +30,14 @@ Formålet med fastlegeordningen er å sikre at alle får nødvendige allmennlege
 
 ### § 2. Definisjoner
 
-I forskriften her menes med:*Fastlege:* lege som inngår avtale med en kommune om deltakelse i fastlegeordningen, uavhengig av om legen er ansatt i kommunen eller er selvstendig næringsdrivende.*Fastlegeavtale:* en individuell avtale som inngås mellom kommune og den enkelte lege om å være fastlege for et bestemt antall listeinnbyggere.*Listeinnbygger:* en person som er tilknyttet en fastlegeliste*Kommunalt fastlegekontor:* Fastlegekontor drevet av kommunen, der kommunen har driftsansvaret og fastlegene er ansatt i kommunen.*Næringsdrivende fastlege:* Selvstendig næringsdrivende lege som har avtale med kommunen om å yte fastlegetjenester på vegne av kommunen.*Fellesliste:* Fastlegeliste der flere fastleger har felles, solidarisk ansvar for fastlegetilbudet til listeinnbyggerne på listen.
+I forskriften her menes med:
+
+1. *Fastlege:* lege som inngår avtale med en kommune om deltakelse i fastlegeordningen, uavhengig av om legen er ansatt i kommunen eller er selvstendig næringsdrivende.
+2. *Fastlegeavtale:* en individuell avtale som inngås mellom kommune og den enkelte lege om å være fastlege for et bestemt antall listeinnbyggere.
+3. *Listeinnbygger:* en person som er tilknyttet en fastlegeliste
+4. *Kommunalt fastlegekontor:* Fastlegekontor drevet av kommunen, der kommunen har driftsansvaret og fastlegene er ansatt i kommunen.
+5. *Næringsdrivende fastlege:* Selvstendig næringsdrivende lege som har avtale med kommunen om å yte fastlegetjenester på vegne av kommunen.
+6. *Fellesliste:* Fastlegeliste der flere fastleger har felles, solidarisk ansvar for fastlegetilbudet til listeinnbyggerne på listen.
 
 ## Kapittel 2. Kommunens ansvar
 
@@ -92,7 +99,10 @@ I tilfeller der ansettelsesforhold for kommunalt ansatt fastlege avsluttes, skal
 
 Kommunen skal sørge for at personene på listen blir gjort oppmerksomme på bytte av fastlege, og på retten til å skifte fastlege etter [§ 6](forskrift/2012-08-29-843/§6) i [forskrift om pasient- og brukerrettigheter i fastlegeordningen](forskrift/2012-08-29-843).
 
-Dersom det er påkrevet for å sikre driften i en ny fastlegepraksis, kan kommunen overføre følgende personer til den nye listen:nytilmeldte uten oppgitt legeønske.personer fra liste hvor det er foretatt reduksjon etter [§ 11](forskrift/2025-12-02-2405/§11), og som ikke har skiftet til annen fastlege.
+Dersom det er påkrevet for å sikre driften i en ny fastlegepraksis, kan kommunen overføre følgende personer til den nye listen:
+
+1. nytilmeldte uten oppgitt legeønske.
+2. personer fra liste hvor det er foretatt reduksjon etter [§ 11](forskrift/2025-12-02-2405/§11), og som ikke har skiftet til annen fastlege.
 
 ### § 10. Listetak
 
@@ -142,7 +152,13 @@ Tilsvarende ansvar for sin virksomhet har også hver enkelt næringsdrivende fas
 
 Kommunalt fastlegekontor og næringsdrivende fastlege skal kunne motta og vurdere alle typer henvendelser i sin åpningstid.
 
-Kommunalt fastlegekontor og næringsdrivende fastlege skal innrette sin praksis slik at:listeinnbyggere som må ha øyeblikkelig hjelp, kan mottas og vurderes i åpningstiden,systemet for mottak av telefonhenvendelser innrettes slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutter,timebestilling kan mottas både på telefon og gjennom digital løsning,innbyggerne tilbys digitale tjenester, herunder konsultasjoner via video, tekst og telefon, for henvendelser som er egnet for slik oppfølging,det sørges for fraværsdekning i forbindelse med ordinært fravær ved for eksempel ferie, kurs og etterutdanning.
+Kommunalt fastlegekontor og næringsdrivende fastlege skal innrette sin praksis slik at:
+
+1. listeinnbyggere som må ha øyeblikkelig hjelp, kan mottas og vurderes i åpningstiden,
+2. systemet for mottak av telefonhenvendelser innrettes slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutter,
+3. timebestilling kan mottas både på telefon og gjennom digital løsning,
+4. innbyggerne tilbys digitale tjenester, herunder konsultasjoner via video, tekst og telefon, for henvendelser som er egnet for slik oppfølging,
+5. det sørges for fraværsdekning i forbindelse med ordinært fravær ved for eksempel ferie, kurs og etterutdanning.
 
 ### § 17. Krav om å sørge for koordinering og samarbeid
 
@@ -210,7 +226,10 @@ Fastlegen skal, basert på en medisinsk vurdering av behov, tilby forebyggende t
 
 ### § 28. Hjemmebesøk
 
-Fastlegen skal gi tilbud om hjemmebesøk til egne listeinnbyggere:som på grunn av sin helsetilstand eller funksjonsevne ikke er i stand til å møte til konsultasjon på legekontoret ellernår dette anses nødvendig for å sikre pasienten forsvarlig helsehjelp.
+Fastlegen skal gi tilbud om hjemmebesøk til egne listeinnbyggere:
+
+1. som på grunn av sin helsetilstand eller funksjonsevne ikke er i stand til å møte til konsultasjon på legekontoret eller
+2. når dette anses nødvendig for å sikre pasienten forsvarlig helsehjelp.
 
 Fastlegen skal ut fra en medisinsk vurdering prioritere når hjemmebesøk skal foretas. I denne vurderingen kan legen ta hensyn til reiseavstand til pasienten, og om egen sikkerhet er tilstrekkelig ivaretatt.
 
@@ -250,13 +269,20 @@ Fastlegen og kommunen kan inngå avtale om andre oppgaver som skal inngå i de 7
 
 ### § 33. Fastlegens plikt til deltakelse i legevakt
 
-Fastlegen plikter å delta i:Kommunal eller interkommunal legevakt utenfor ordinær åpningstid.Kommunens organiserte øyeblikkelig hjelp-tjeneste i kontortid, herunder tilgjengelighet i helseradionettet/nødnettet og ivaretakelse av utrykningsplikten.
+Fastlegen plikter å delta i:
+
+1. Kommunal eller interkommunal legevakt utenfor ordinær åpningstid.
+2. Kommunens organiserte øyeblikkelig hjelp-tjeneste i kontortid, herunder tilgjengelighet i helseradionettet/nødnettet og ivaretakelse av utrykningsplikten.
 
 Deltakelse i kommunal legevakt eller interkommunal legevakt utenfor ordinær åpningstid kommer i tillegg til andre allmennlegeoppgaver kommunen kan pålegge fastlegen å utføre, jf. [§ 32](forskrift/2025-12-02-2405/§32).
 
 Kommunen kan frita fastlegen fra plikt til legevaktdeltakelse etter første ledd bokstav a, når legen av helsemessige eller vektige sosiale grunner ber om det. I denne vurderingen tas det særlig hensyn til lege over 55 år.
 
-Fastlegen har rett til fritak til legevaktdeltakelse etter første ledd bokstav a når legen:er over 60 årer gravid i de tre siste måneder av svangerskapet eller når graviditeten er til hinder for deltakelse ellerammer barn som er under ett år.
+Fastlegen har rett til fritak til legevaktdeltakelse etter første ledd bokstav a når legen:
+
+1. er over 60 år
+2. er gravid i de tre siste måneder av svangerskapet eller når graviditeten er til hinder for deltakelse eller
+3. ammer barn som er under ett år.
 
 ### § 34. Sykefraværsoppfølging
 

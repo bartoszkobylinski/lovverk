@@ -32,10 +32,24 @@ Fjellam frå Ryfylke SA.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1. *Produktbeskriving*Fjellam frå Ryfylke/Fjellam fra Ryfylke er kjøt av lam som i minimum 8 veker har beita på fjellbeite på over 500 m.o.h. i fjellområda i Ryfylke.Nemninga omfattar ferske og fryste skrottar, naturlege stykningsdelar og kjøtsorteringar. Lamma skal ha ei slaktevekt på minimum 16 kg og vera klassifiserte i slakteklasse O+ eller betre og ha maksimum 3+ i feittmengd.
-2. *Geografisk område*Fjellam frå Ryfylke/Fjellam fra Ryfylke skal gå på fjellbeite i Ryfylkeheiane. Dette geografiske området omfattar heiaområda i kommunane Hjelmeland, Sandnes, Sauda, Suldal, Stavanger og Strand i Rogaland, og også mindre fjellområde i kommunane Ullensvang i Vestland, Bykle og Sirdal i Agder og Gjesdal i Rogaland. Sjå vedlagte kart.
-3. *Produksjonsmetode*Lamma skal gå på fjellbeite i minimum 8 veker.Slaktemodne lam bør leverast til slakting så snart som mogleg etter sanking, og seinast 1. november. Eventuell sluttfôring bør bestå av godt håbeite. Tilleggsfôring med kraftfôr skal ikkje skje i lengre periode enn maksimum 3 veker.Alle forhold rundt beiting og fôring skal dokumenterast.
-4. *Merking av produktet*Fjellam frå Ryfylke/Fjellam fra Ryfylke kan merkast med teksten og figurmerket for Beskytta geografisk nemning.
+1. *Produktbeskriving*
+
+   Fjellam frå Ryfylke/Fjellam fra Ryfylke er kjøt av lam som i minimum 8 veker har beita på fjellbeite på over 500 m.o.h. i fjellområda i Ryfylke.
+
+   Nemninga omfattar ferske og fryste skrottar, naturlege stykningsdelar og kjøtsorteringar. Lamma skal ha ei slaktevekt på minimum 16 kg og vera klassifiserte i slakteklasse O+ eller betre og ha maksimum 3+ i feittmengd.
+2. *Geografisk område*
+
+   Fjellam frå Ryfylke/Fjellam fra Ryfylke skal gå på fjellbeite i Ryfylkeheiane. Dette geografiske området omfattar heiaområda i kommunane Hjelmeland, Sandnes, Sauda, Suldal, Stavanger og Strand i Rogaland, og også mindre fjellområde i kommunane Ullensvang i Vestland, Bykle og Sirdal i Agder og Gjesdal i Rogaland. Sjå vedlagte kart.
+3. *Produksjonsmetode*
+
+   Lamma skal gå på fjellbeite i minimum 8 veker.
+
+   Slaktemodne lam bør leverast til slakting så snart som mogleg etter sanking, og seinast 1. november. Eventuell sluttfôring bør bestå av godt håbeite. Tilleggsfôring med kraftfôr skal ikkje skje i lengre periode enn maksimum 3 veker.
+
+   Alle forhold rundt beiting og fôring skal dokumenterast.
+4. *Merking av produktet*
+
+   Fjellam frå Ryfylke/Fjellam fra Ryfylke kan merkast med teksten og figurmerket for Beskytta geografisk nemning.
 
 ## § 4. Iverksetjing
 

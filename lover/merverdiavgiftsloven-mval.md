@@ -15,7 +15,7 @@ xml_hash: "36cc14160838abc89e801cde6944f84be6e4b1432dd5e8b82e6c6b698380450d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,9 +38,29 @@ eu_basis: []
 
 ### § 1-3. Definisjoner
 
-(1) I denne loven menes medomsetning: levering av varer og tjenester mot vederlag,varer: fysiske gjenstander, herunder fast eiendom, og elektrisk kraft, vann fra vannverk, gass, varme og kulde,tjenester: det som kan omsettes og som ikke er varer etter bokstav b, herunder begrensede rettigheter til varer, og utnyttelse av immaterielle verdier,avgiftssubjekt: den som er eller skal være registrert i Merverdiavgiftsregisteret,utgående merverdiavgift: merverdiavgift som skal beregnes og betales ved omsetning og uttak,inngående merverdiavgift: merverdiavgift som er påløpt ved kjøp mv. eller ved innførsel,unntak fra loven: omsetning og uttak som ikke er omfattet av loven,fritak for merverdiavgift: omsetning og uttak som er omfattet av loven, men der det ikke skal beregnes utgående merverdiavgift,fjernleverbare tjenester: tjenester der utførelsen eller leveringen etter tjenestens art ikke eller vanskelig kan knyttes til et bestemt fysisk sted,elektroniske tjenester: fjernleverbare tjenester som leveres over internett eller annet elektronisk nett og som ikke kan anskaffes uten informasjonsteknologi, hvor leveringen av tjenestene hovedsakelig er automatisert,offentlig virksomhet: statlig, kommunal og fylkeskommunal virksomhet,spesialfartøy til bruk i petroleumsvirksomhet til havs: fartøy som er spesielt bygget eller ombygget til bruk i petroleumsvirksomheten og som har oppdrag i slik virksomhet
+(1) I denne loven menes med
 
-(2) Departementet kan gi forskrift om hva som menes medpersonkjøretøykunstverk, samleobjekter, antikviteter og brukte varerbagatellmessig verdifartøy og luftfartøy i utenriks fartelektroniske tjenestervare med lav verdi.
+1. omsetning: levering av varer og tjenester mot vederlag,
+2. varer: fysiske gjenstander, herunder fast eiendom, og elektrisk kraft, vann fra vannverk, gass, varme og kulde,
+3. tjenester: det som kan omsettes og som ikke er varer etter bokstav b, herunder begrensede rettigheter til varer, og utnyttelse av immaterielle verdier,
+4. avgiftssubjekt: den som er eller skal være registrert i Merverdiavgiftsregisteret,
+5. utgående merverdiavgift: merverdiavgift som skal beregnes og betales ved omsetning og uttak,
+6. inngående merverdiavgift: merverdiavgift som er påløpt ved kjøp mv. eller ved innførsel,
+7. unntak fra loven: omsetning og uttak som ikke er omfattet av loven,
+8. fritak for merverdiavgift: omsetning og uttak som er omfattet av loven, men der det ikke skal beregnes utgående merverdiavgift,
+9. fjernleverbare tjenester: tjenester der utførelsen eller leveringen etter tjenestens art ikke eller vanskelig kan knyttes til et bestemt fysisk sted,
+10. elektroniske tjenester: fjernleverbare tjenester som leveres over internett eller annet elektronisk nett og som ikke kan anskaffes uten informasjonsteknologi, hvor leveringen av tjenestene hovedsakelig er automatisert,
+11. offentlig virksomhet: statlig, kommunal og fylkeskommunal virksomhet,
+12. spesialfartøy til bruk i petroleumsvirksomhet til havs: fartøy som er spesielt bygget eller ombygget til bruk i petroleumsvirksomheten og som har oppdrag i slik virksomhet
+
+(2) Departementet kan gi forskrift om hva som menes med
+
+1. personkjøretøy
+2. kunstverk, samleobjekter, antikviteter og brukte varer
+3. bagatellmessig verdi
+4. fartøy og luftfartøy i utenriks fart
+5. elektroniske tjenester
+6. vare med lav verdi.
 
 > Endret ved lover [10 des 2010 nr. 71](lov/2010-12-10-71) (ikr. 1 juli 2011), [26 apr 2013 nr. 16](lov/2013-04-26-16) (ikr. 1 juli 2013 iflg. [res. 26 apr 2013 nr. 413](forskrift/2013-04-26-413)), [21 juni 2017 nr. 84](lov/2017-06-21-84), [20 des 2019 nr. 98](lov/2019-12-20-98) (ikr. 1 apr 2020 iflg. [res. 7 feb 2020 nr. 112](forskrift/2020-02-07-112)).
 
@@ -76,7 +96,13 @@ eu_basis: []
 
 ### § 2-3. Frivillig registrering
 
-(1) Næringsdrivende og offentlig virksomhet som leier ut bygg eller anlegg, kan frivillig registreres i Merverdiavgiftsregisteret dersom bygget eller anlegget brukesi virksomhet som er registrert etter denne loven,av offentlig virksomhet der øverste myndighet er kommunestyre, fylkesting eller annet styre eller råd etter [kommuneloven](lov/2018-06-22-83) eller kommunal særlovgivning,av interkommunale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller kommunal særlovgivning.Beløpsgrensene i [§ 2-1](lov/2009-06-19-58/§2-1) gjelder tilsvarende.
+(1) Næringsdrivende og offentlig virksomhet som leier ut bygg eller anlegg, kan frivillig registreres i Merverdiavgiftsregisteret dersom bygget eller anlegget brukes
+
+1. i virksomhet som er registrert etter denne loven,
+2. av offentlig virksomhet der øverste myndighet er kommunestyre, fylkesting eller annet styre eller råd etter [kommuneloven](lov/2018-06-22-83) eller kommunal særlovgivning,
+3. av interkommunale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller kommunal særlovgivning.
+
+Beløpsgrensene i [§ 2-1](lov/2009-06-19-58/§2-1) gjelder tilsvarende.
 
 (2) Bortforpaktere av landbrukseiendom på minst fem dekar og utleiere av jordbruksarealer uten bygninger, kan frivillig registreres.
 
@@ -94,7 +120,10 @@ eu_basis: []
 
 ### § 2-4. Forhåndsregistrering
 
-(1) Den som ikke har nådd beløpsgrensen for registrering, kan forhåndsregistreres i Merverdiavgiftsregisteret dersomvedkommende har foretatt betydelige anskaffelser som har direkte sammenheng med senere merverdiavgiftspliktig omsetning,merverdiavgiftspliktig omsetning hos vedkommende vil overstige beløpsgrensen senest innen tre uker fra det tidspunktet omsetningen igangsettes.
+(1) Den som ikke har nådd beløpsgrensen for registrering, kan forhåndsregistreres i Merverdiavgiftsregisteret dersom
+
+1. vedkommende har foretatt betydelige anskaffelser som har direkte sammenheng med senere merverdiavgiftspliktig omsetning,
+2. merverdiavgiftspliktig omsetning hos vedkommende vil overstige beløpsgrensen senest innen tre uker fra det tidspunktet omsetningen igangsettes.
 
 (2) Departementet kan gi forskrift om vilkår for forhåndsregistrering.
 
@@ -124,17 +153,30 @@ Ved lottfiske skal den reder, høvedsmann eller fisker som leverer fisken til kj
 
 ### § 3-2. Helsetjenester mv.
 
-(1) Omsetning og formidling av helsetjenester er unntatt fra loven, herunder tjenester somomfattes av [helse- og omsorgstjenesteloven](lov/2011-06-24-30) og [spesialisthelsetjenesteloven](lov/1999-07-02-61)omfattes av [tannhelsetjenesteloven](lov/1983-06-03-54), samt tanntekniske tjenesteromfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og [10](lov/1997-02-28-19/kap10)ytes av yrkesgrupper med autorisasjon eller lisens etter [helsepersonelloven](lov/1999-07-02-64)ytes av bedriftshelsetjenesten
+(1) Omsetning og formidling av helsetjenester er unntatt fra loven, herunder tjenester som
+
+1. omfattes av [helse- og omsorgstjenesteloven](lov/2011-06-24-30) og [spesialisthelsetjenesteloven](lov/1999-07-02-61)
+2. omfattes av [tannhelsetjenesteloven](lov/1983-06-03-54), samt tanntekniske tjenester
+3. omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og [10](lov/1997-02-28-19/kap10)
+4. ytes av yrkesgrupper med autorisasjon eller lisens etter [helsepersonelloven](lov/1999-07-02-64)
+5. ytes av bedriftshelsetjenesten
 
 (2) Omsetning og formidling av kosmetisk kirurgi er unntatt fra loven kun dersom inngrepet er medisinsk begrunnet og er finansiert helt eller delvis av det offentlige. Det samme gjelder kosmetisk behandling. Kosmetisk kirurgi eller kosmetisk behandling som omfattes av første ledd bokstav b, er unntatt fra loven kun dersom inngrepet eller behandlingen er medisinsk begrunnet.
 
-(3) Omsetning og formidling av alternativ behandling etter [lov om alternativ behandling av sykdom mv.](lov/2003-06-27-64), er unntatt fra loven kun dersom behandlingeninngår som en integrert og sammenhengende del av helsehjelp etter [helsepersonelloven](lov/1999-07-02-64) som finansieres helt eller delvis av det offentlige, ogytes av autorisert helsepersonell uten særskilt vederlag.
+(3) Omsetning og formidling av alternativ behandling etter [lov om alternativ behandling av sykdom mv.](lov/2003-06-27-64), er unntatt fra loven kun dersom behandlingen
+
+1. inngår som en integrert og sammenhengende del av helsehjelp etter [helsepersonelloven](lov/1999-07-02-64) som finansieres helt eller delvis av det offentlige, og
+2. ytes av autorisert helsepersonell uten særskilt vederlag.
 
 (4) Andre varer og tjenester som omsettes som et naturlig ledd i ytelsen av helsetjenester er omfattet av unntaket i første ledd dersom varen eller tjenesten leveres av den som yter helsetjenesten.
 
 (5) Formidling og utleie av arbeidskraft der arbeidstakeren skal utøve helsetjenester er unntatt fra loven.
 
-(6) Utleie av utstyr, tilgang til pasientportefølje og lignende til næringsdrivende som yter helsetjenester er unntatt fra loven dersomutleieren er en næringsdrivende som yter helsetjenester,utleieren er en virksomhet som er eiet av næringsdrivende som yter helsetjenester,utleieren er en offentlig virksomhet som yter helsetjenester.
+(6) Utleie av utstyr, tilgang til pasientportefølje og lignende til næringsdrivende som yter helsetjenester er unntatt fra loven dersom
+
+1. utleieren er en næringsdrivende som yter helsetjenester,
+2. utleieren er en virksomhet som er eiet av næringsdrivende som yter helsetjenester,
+3. utleieren er en offentlig virksomhet som yter helsetjenester.
 
 (7) Tannteknikeres omsetning av egenproduserte tanntekniske produkter er unntatt fra loven.
 
@@ -148,7 +190,11 @@ Ved lottfiske skal den reder, høvedsmann eller fisker som leverer fisken til kj
 
 ### § 3-4. Sosiale tjenester mv.
 
-(1) Omsetning og formidling av sosiale tjenester er unntatt fra loven, herunder sosiale tjenesteretter [helse- og omsorgstjenesteloven](lov/2011-06-24-30) og [barnevernsloven](lov/2021-06-18-97)som ytes i barne- og ungdomsinstitusjoner, fritidsklubber, feriekolonier og lignendesom gjelder pass av barn
+(1) Omsetning og formidling av sosiale tjenester er unntatt fra loven, herunder sosiale tjenester
+
+1. etter [helse- og omsorgstjenesteloven](lov/2011-06-24-30) og [barnevernsloven](lov/2021-06-18-97)
+2. som ytes i barne- og ungdomsinstitusjoner, fritidsklubber, feriekolonier og lignende
+3. som gjelder pass av barn
 
 (2) Andre varer og tjenester som omsettes som et naturlig ledd i ytelsen av sosiale tjenester er omfattet av unntaket i første ledd dersom varen eller tjenesten leveres av den som yter den sosiale tjenesten.
 
@@ -170,7 +216,15 @@ Ved lottfiske skal den reder, høvedsmann eller fisker som leverer fisken til kj
 
 ### § 3-6. Finansielle tjenester
 
-Omsetning og formidling av finansielle tjenester er unntatt fra loven, herunderomsetning av forsikringstjenesteromsetning av finansieringstjenester, likevel ikke finansiell leasingutføring av betalingsoppdragomsetning av gyldige betalingsmidleromsetning av finansielle instrumenter og lignendeforvaltning av verdipapirfondforvaltning av investeringsselskap
+Omsetning og formidling av finansielle tjenester er unntatt fra loven, herunder
+
+1. omsetning av forsikringstjenester
+2. omsetning av finansieringstjenester, likevel ikke finansiell leasing
+3. utføring av betalingsoppdrag
+4. omsetning av gyldige betalingsmidler
+5. omsetning av finansielle instrumenter og lignende
+6. forvaltning av verdipapirfond
+7. forvaltning av investeringsselskap
 
 ### § 3-7. Kunst og kultur mv.
 
@@ -212,7 +266,20 @@ Omsetning av tjenester fra en statlig enhet til en annen statlig enhet er unntat
 
 (1) Omsetning og utleie av fast eiendom og rettighet til fast eiendom er unntatt fra loven. Unntaket omfatter også omsetning av varer og tjenester som leveres som ledd i utleien.
 
-(2) Følgende omsetning er likevel omfattet av loven:utleie av rom mv. og lokaler som nevnt i [§ 5-5](lov/2009-06-19-58/§5-5) første og annet ledd, samt omsetning av varer og tjenester som nevnt i [§ 5-5](lov/2009-06-19-58/§5-5) tredje leddutleie av selskapslokaler i forbindelse med serveringutleie av parkeringsplasser i parkeringsvirksomhetomsetning av rett til å disponere plass for reklameutleie av oppbevaringsbokseromsetning av trær og avling på rot dersom omsetningen skjer uavhengig av grunnenomsetning av rett til å ta ut jord, stein og andre produkter av grunnenomsetning av rett til jakt og fiskeomsetning av rett til å disponere lufthavn for luftfartøy og jernbanenett til transportomsetning av rett til å disponere kommunal havn mot havneavgifter eller vederlag i samsvar med havne- og farvannslovenutleie av fast eiendom og omsetning av rettighet til fast eiendom som er omfattet av en frivillig registrering etter [§ 2-3](lov/2009-06-19-58/§2-3) første, annet, tredje, fjerde og sjette leddutleie av lokaler som nevnt i [§ 5-11](lov/2009-06-19-58/§5-11) annet ledd
+(2) Følgende omsetning er likevel omfattet av loven:
+
+1. utleie av rom mv. og lokaler som nevnt i [§ 5-5](lov/2009-06-19-58/§5-5) første og annet ledd, samt omsetning av varer og tjenester som nevnt i [§ 5-5](lov/2009-06-19-58/§5-5) tredje ledd
+2. utleie av selskapslokaler i forbindelse med servering
+3. utleie av parkeringsplasser i parkeringsvirksomhet
+4. omsetning av rett til å disponere plass for reklame
+5. utleie av oppbevaringsbokser
+6. omsetning av trær og avling på rot dersom omsetningen skjer uavhengig av grunnen
+7. omsetning av rett til å ta ut jord, stein og andre produkter av grunnen
+8. omsetning av rett til jakt og fiske
+9. omsetning av rett til å disponere lufthavn for luftfartøy og jernbanenett til transport
+10. omsetning av rett til å disponere kommunal havn mot havneavgifter eller vederlag i samsvar med havne- og farvannsloven
+11. utleie av fast eiendom og omsetning av rettighet til fast eiendom som er omfattet av en frivillig registrering etter [§ 2-3](lov/2009-06-19-58/§2-3) første, annet, tredje, fjerde og sjette ledd
+12. utleie av lokaler som nevnt i [§ 5-11](lov/2009-06-19-58/§5-11) annet ledd
 
 (3) Departementet kan gi forskrift om at omsetningen av rett til jakt og fiske likevel skal være unntatt fra loven, herunder fastsette vilkår for unntaket.
 
@@ -220,7 +287,13 @@ Omsetning av tjenester fra en statlig enhet til en annen statlig enhet er unntat
 
 ### § 3-12. Veldedige og allmennyttige institusjoner og organisasjoner
 
-(1) Omsetning fra veldedige og allmennyttige institusjoner og organisasjoner av følgende varer og tjenester er unntatt fra loven:varer av bagatellmessig verdivarer til betydelig overprisannonser i medlemsblader og lignendebrukte varer fra butikk dersom varene er mottatt vederlagsfritt og butikken benytter ulønnet arbeidskraftvarer fra enkeltstående og kortvarige salgsarrangementer
+(1) Omsetning fra veldedige og allmennyttige institusjoner og organisasjoner av følgende varer og tjenester er unntatt fra loven:
+
+1. varer av bagatellmessig verdi
+2. varer til betydelig overpris
+3. annonser i medlemsblader og lignende
+4. brukte varer fra butikk dersom varene er mottatt vederlagsfritt og butikken benytter ulønnet arbeidskraft
+5. varer fra enkeltstående og kortvarige salgsarrangementer
 
 (2) Unntaket i første ledd bokstav a og b omfatter også omsetning fra kommisjonær.
 
@@ -286,15 +359,28 @@ Omsetning av tjenester i form av sletting av klimakvoter er unntatt fra loven.
 
 ### § 3-23. Særlige formål
 
-Det skal beregnes merverdiavgift når varer og tjenester fra den registrerte eller registreringspliktige virksomheten brukes i virksomheten tilkost til eller naturalavlønning av virksomhetens innehaver, ledelse, ansatte og pensjonisteroppføring, vedlikehold, innleie og drift av fast eiendom som skal dekke bolig- eller velferdsbehov, herunder løsøre og utstyr til slike eiendommerrepresentasjongave og utdeling i reklameøyemed og dersom verdien ikke er bagatellmessig
+Det skal beregnes merverdiavgift når varer og tjenester fra den registrerte eller registreringspliktige virksomheten brukes i virksomheten til
+
+1. kost til eller naturalavlønning av virksomhetens innehaver, ledelse, ansatte og pensjonister
+2. oppføring, vedlikehold, innleie og drift av fast eiendom som skal dekke bolig- eller velferdsbehov, herunder løsøre og utstyr til slike eiendommer
+3. representasjon
+4. gave og utdeling i reklameøyemed og dersom verdien ikke er bagatellmessig
 
 ### § 3-24. Motorkjøretøy
 
-Det skal beregnes merverdiavgift når en bilforhandler registrerer et kjøretøy på eget navn i motorvognregisteret selv om kjøretøyet ikke tas i bruk. Dette gjelder likevel ikke dersom kjøretøyettas i bruk som utleiekjøretøy i yrkesmessig utleievirksomhettas i bruk som middel til å transportere personer mot vederlag i persontransportvirksomhetikke er et personkjøretøy og tas i bruk som driftsmiddel i virksomheten
+Det skal beregnes merverdiavgift når en bilforhandler registrerer et kjøretøy på eget navn i motorvognregisteret selv om kjøretøyet ikke tas i bruk. Dette gjelder likevel ikke dersom kjøretøyet
+
+1. tas i bruk som utleiekjøretøy i yrkesmessig utleievirksomhet
+2. tas i bruk som middel til å transportere personer mot vederlag i persontransportvirksomhet
+3. ikke er et personkjøretøy og tas i bruk som driftsmiddel i virksomheten
 
 ### § 3-25. Varer og tjenester til vedlikehold, bruk og drift av personkjøretøy
 
-Det skal beregnes merverdiavgift når varer og tjenester fra en registrert eller registreringspliktig virksomhet brukes til vedlikehold, bruk og drift av personkjøretøy. Første punktum gjelder ikke dersom kjøretøyet brukes somsalgsvareutleiekjøretøy i yrkesmessig utleievirksomhetmiddel til å transportere personer mot vederlag i persontransportvirksomhet
+Det skal beregnes merverdiavgift når varer og tjenester fra en registrert eller registreringspliktig virksomhet brukes til vedlikehold, bruk og drift av personkjøretøy. Første punktum gjelder ikke dersom kjøretøyet brukes som
+
+1. salgsvare
+2. utleiekjøretøy i yrkesmessig utleievirksomhet
+3. middel til å transportere personer mot vederlag i persontransportvirksomhet
 
 ### § 3-26. Oppføring av bygg eller anlegg for egen regning
 
@@ -360,13 +446,21 @@ Departementet kan treffe enkeltvedtak om unntak fra loven ved omsetning av varer
 
 (1) Ved omsetning av varer og tjenester er beregningsgrunnlaget for merverdiavgiften vederlaget, herunder tilskudd som utgjør en del av prisen på varen eller tjenesten. Selve merverdiavgiften regnes ikke med i beregningsgrunnlaget.
 
-(2) Som en del av vederlaget anses blant annet ikkegodtgjørelse for utlegg pådratt i kjøpers navn og for kjøpers regninglovbestemt inkasso- og purregebyrforsinkelsesrente etter [forsinkelsesrenteloven](lov/1976-12-17-100)
+(2) Som en del av vederlaget anses blant annet ikke
+
+1. godtgjørelse for utlegg pådratt i kjøpers navn og for kjøpers regning
+2. lovbestemt inkasso- og purregebyr
+3. forsinkelsesrente etter [forsinkelsesrenteloven](lov/1976-12-17-100)
 
 > Endret ved [lov 25 juni 2010 nr. 44](lov/2010-06-25-44).
 
 ### § 4-2. Hva inngår i beregningsgrunnlaget
 
-(1) I beregningsgrunnlaget inngår alle kostnader ved oppfyllelsen av avtalen, enten de inngår i vederlaget eller det kreves særskilt betaling, herundertollavgift og andre avgifter fastsatt med hjemmel i lov eller Stortingets plenarvedtak, unntatt engangsavgift på motorvogner mv.tilknytningsavgifter, gebyrer og andre beløp som påløper ved levering av varer eller tjenesterauksjonssalær, provisjoner og lignende
+(1) I beregningsgrunnlaget inngår alle kostnader ved oppfyllelsen av avtalen, enten de inngår i vederlaget eller det kreves særskilt betaling, herunder
+
+1. tollavgift og andre avgifter fastsatt med hjemmel i lov eller Stortingets plenarvedtak, unntatt engangsavgift på motorvogner mv.
+2. tilknytningsavgifter, gebyrer og andre beløp som påløper ved levering av varer eller tjenester
+3. auksjonssalær, provisjoner og lignende
 
 (2) Forhåndsavtalte, betingede rabatter gitt direkte i forbindelse med salget, kommer til fradrag i beregningsgrunnlaget i den utstrekning de er blitt effektive.
 
@@ -486,7 +580,11 @@ Det skal beregnes merverdiavgift med redusert sats ved omsetning og uttak av tje
 
 ### § 5-5. Romutleie i hotellvirksomhet mv.
 
-(1) Det skal beregnes merverdiavgift med redusert sats ved omsetning og uttak av tjenester som gjelder utleie avrom i hotellvirksomhet og lignende virksomhetfast eiendom til campinghytter, ferieleiligheter og annen fritidseiendom
+(1) Det skal beregnes merverdiavgift med redusert sats ved omsetning og uttak av tjenester som gjelder utleie av
+
+1. rom i hotellvirksomhet og lignende virksomhet
+2. fast eiendom til camping
+3. hytter, ferieleiligheter og annen fritidseiendom
 
 (2) Det skal beregnes merverdiavgift med redusert sats ved utleie av lokaler til konferanser og møter mv. fra virksomhet som nevnt i første ledd.
 
@@ -616,13 +714,28 @@ Det skal beregnes merverdiavgift med redusert sats ved omsetning, uttak og formi
 
 ### § 6-9. Fartøy mv.
 
-(1) Omsetning av følgende fartøy er fritatt for merverdiavgift:fartøy på minst 15 meter til bruk for persontransport mot vederlag, varetransport, sleping, isbryting eller fangstvirksomhetspesialfartøy til bruk i petroleumsvirksomhet til havsskolefartøyfartøy på minst ti meter som anskaffes til Forsvaretfartøy til bruk for forsking og værvarslingfartøy på minst seks meter til bruk for yrkesmessig fiskefartøy til bruk for berging eller redningFritaket omfatter også driftsutstyr som leveres sammen med slike fartøy.
+(1) Omsetning av følgende fartøy er fritatt for merverdiavgift:
+
+1. fartøy på minst 15 meter til bruk for persontransport mot vederlag, varetransport, sleping, isbryting eller fangstvirksomhet
+2. spesialfartøy til bruk i petroleumsvirksomhet til havs
+3. skolefartøy
+4. fartøy på minst ti meter som anskaffes til Forsvaret
+5. fartøy til bruk for forsking og værvarsling
+6. fartøy på minst seks meter til bruk for yrkesmessig fiske
+7. fartøy til bruk for berging eller redning
+
+Fritaket omfatter også driftsutstyr som leveres sammen med slike fartøy.
 
 (2) Omsetning av tjenester som står i direkte forbindelse med bygging, ombygging, reparasjon og vedlikehold av fartøy som nevnt i første ledd eller driftsutstyr for slike fartøy, er fritatt for merverdiavgift i siste omsetningsledd. Fritaket omfatter også varer som leveres i forbindelse med slike tjenester.
 
 (3) Omsetning av tjenester fra fartøy i form av berging av fartøy, er fritatt for merverdiavgift.
 
-(4) Utleie av følgende fartøy, er fritatt for merverdiavgift:fartøy på minst 15 meter til bruk i utenriks fartfartøy på minst 15 meter til bruk i innenriks fart dersom fartøyet er bestemt for persontransport mot vederlagspesialfartøy til bruk i petroleumsvirksomhet til havsfartøy på minst ti meter som anskaffes til Forsvaret
+(4) Utleie av følgende fartøy, er fritatt for merverdiavgift:
+
+1. fartøy på minst 15 meter til bruk i utenriks fart
+2. fartøy på minst 15 meter til bruk i innenriks fart dersom fartøyet er bestemt for persontransport mot vederlag
+3. spesialfartøy til bruk i petroleumsvirksomhet til havs
+4. fartøy på minst ti meter som anskaffes til Forsvaret
 
 (5) Departementet kan gi forskrift om hva som menes med fartøy til yrkesmessig fiske etter første ledd bokstav f.
 
@@ -768,7 +881,14 @@ Omsetning av varer til et registrert avgiftssubjekt, er fritatt for merverdiavgi
 
 (1) Formidling av persontransport er fritatt for merverdiavgift dersom transporten skjer utenfor merverdiavgiftsområdet eller direkte til eller fra steder utenfor merverdiavgiftsområdet.
 
-(2) Formidling av følgende tjenester er fritatt for merverdiavgift dersom tjenestene leveres utenfor merverdiavgiftsområdet:tjenester som nevnt i [§ 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav aserveringstjenesterutleie av transportmidleradgang til utstillinger i museer og gallerieradgang til fornøyelsesparker og opplevelsessentrerett til å overvære idrettsarrangementer
+(2) Formidling av følgende tjenester er fritatt for merverdiavgift dersom tjenestene leveres utenfor merverdiavgiftsområdet:
+
+1. tjenester som nevnt i [§ 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav a
+2. serveringstjenester
+3. utleie av transportmidler
+4. adgang til utstillinger i museer og gallerier
+5. adgang til fornøyelsesparker og opplevelsessentre
+6. rett til å overvære idrettsarrangementer
 
 (3) Omsetning av meglertjenester til norske redere eller oppdragsgivere knyttet til fartøy som umiddelbart skal brukes i utenriks fart eller i petroleumsvirksomhet til havs, er fritatt for merverdiavgift. Det samme gjelder slike tjenester knyttet til plattformer som nevnt i [§ 6-11](lov/2009-06-19-58/§6-11).
 
@@ -862,7 +982,12 @@ Departementet kan treffe enkeltvedtak om fritak fra merverdiavgift ved omsetning
 
 ### § 7-3. Varer til personlig bruk
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel avbrukt utstyr tilhørende personer bosatt i Norge som har avgått ved døden utenfor merverdiavgiftsområdetflyttegodspremie og gavearvegods
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av
+
+1. brukt utstyr tilhørende personer bosatt i Norge som har avgått ved døden utenfor merverdiavgiftsområdet
+2. flyttegods
+3. premie og gave
+4. arvegods
 
 (2) Fritak etter første ledd bokstav a til c er betinget av at varen bare benyttes til personlig formål, og at den ikke utnyttes kommersielt. Fritak etter første ledd bokstav d er betinget av at varen har vært benyttet til personlig formål av arvelater.
 
@@ -872,7 +997,13 @@ Departementet kan treffe enkeltvedtak om fritak fra merverdiavgift ved omsetning
 
 ### § 7-4. Vareprøver, varer til teknisk og vitenskapelig bruk mv.
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel avvareprøve, modell og mønster av ubetydelig verdireklamemateriell og reklamefilmopplysningsmateriell fra andre lands turistmyndigheterdokumenter og trykksak fra andre lands myndigheterutstyr til bruk for utenlandske vitenskapelige ekspedisjoner
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av
+
+1. vareprøve, modell og mønster av ubetydelig verdi
+2. reklamemateriell og reklamefilm
+3. opplysningsmateriell fra andre lands turistmyndigheter
+4. dokumenter og trykksak fra andre lands myndigheter
+5. utstyr til bruk for utenlandske vitenskapelige ekspedisjoner
 
 (2) Varer etter første ledd bokstav e kan bare benyttes av berettiget bruker og ikke overdras til andre.
 
@@ -882,7 +1013,13 @@ Departementet kan treffe enkeltvedtak om fritak fra merverdiavgift ved omsetning
 
 ### § 7-5. Diverse fritak
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel avproviant som medbringes om bord i fartøy under reise til og fra merverdiavgiftsområdet og under opphold der,varer til fremmede makters representasjoner og disses representanter, militære styrker og kommandoenheter, andre internasjonale organisasjoner og offentlig finansierte samarbeidsprosjekter med annen stat,vare fra fangst eller fiske på havet utenfor merverdiavgiftsområdet eller fra ubebodde strekninger i polaregnene, og som innføres direkte derfra,varer som innføres fra Svalbard eller Jan Mayen med tilhørende farvann, og som er fanget, utvunnet eller tilvirket der, ogføll av hoppe som er drektig ved utførsel fra merverdiavgiftsområdet, dersom føllet innføres sammen med hoppa etter følling.
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av
+
+1. proviant som medbringes om bord i fartøy under reise til og fra merverdiavgiftsområdet og under opphold der,
+2. varer til fremmede makters representasjoner og disses representanter, militære styrker og kommandoenheter, andre internasjonale organisasjoner og offentlig finansierte samarbeidsprosjekter med annen stat,
+3. vare fra fangst eller fiske på havet utenfor merverdiavgiftsområdet eller fra ubebodde strekninger i polaregnene, og som innføres direkte derfra,
+4. varer som innføres fra Svalbard eller Jan Mayen med tilhørende farvann, og som er fanget, utvunnet eller tilvirket der, og
+5. føll av hoppe som er drektig ved utførsel fra merverdiavgiftsområdet, dersom føllet innføres sammen med hoppa etter følling.
 
 (2) Varer etter første ledd bokstav b kan ikke overdras til andre.
 
@@ -924,7 +1061,15 @@ Et registrert avgiftssubjekt har rett til fradrag for inngående merverdiavgift 
 
 ### § 8-3. Andre begrensninger i fradragsretten
 
-(1) Fradragsretten omfatter ikke inngående merverdiavgift påserveringkostnader vedrørende leie av selskapslokaler i forbindelse med serveringkunst og antikviteter, med mindre kjøperen omsetter varer av samme slag i sin virksomhet eller varene er til bruk i virksomhet som nevnt i [§ 5-9](lov/2009-06-19-58/§5-9)kost til og naturalavlønning av virksomhetens innehaver, ledelse, ansatte og pensjonisterrepresentasjongaver og varer og tjenester til utdeling i reklameøyemed når verdien ikke er bagatellmessig, likevel slik at det er fradragsrett for varer dersom de utføres til bruk utenfor merverdiavgiftsområdetoppføring, vedlikehold, innleie og drift av fast eiendom som skal dekke bolig- eller velferdsbehov, herunder løsøre og utstyr til slike eiendommer. Det er likevel fradragsrett for inngående merverdiavgift på oppføring og vedlikehold av bedriftskantiner, herunder løst inventar til bedriftskantiner.
+(1) Fradragsretten omfatter ikke inngående merverdiavgift på
+
+1. servering
+2. kostnader vedrørende leie av selskapslokaler i forbindelse med servering
+3. kunst og antikviteter, med mindre kjøperen omsetter varer av samme slag i sin virksomhet eller varene er til bruk i virksomhet som nevnt i [§ 5-9](lov/2009-06-19-58/§5-9)
+4. kost til og naturalavlønning av virksomhetens innehaver, ledelse, ansatte og pensjonister
+5. representasjon
+6. gaver og varer og tjenester til utdeling i reklameøyemed når verdien ikke er bagatellmessig, likevel slik at det er fradragsrett for varer dersom de utføres til bruk utenfor merverdiavgiftsområdet
+7. oppføring, vedlikehold, innleie og drift av fast eiendom som skal dekke bolig- eller velferdsbehov, herunder løsøre og utstyr til slike eiendommer. Det er likevel fradragsrett for inngående merverdiavgift på oppføring og vedlikehold av bedriftskantiner, herunder løst inventar til bedriftskantiner.
 
 (2) Det er likevel fradragsrett for varer som nevnt i første ledd til bruk for luftfartøy i utenriks fart eller fartøy på minst 15 meter når det i utenriks fart frakter varer eller driver persontransport mot vederlag.
 
@@ -934,7 +1079,11 @@ Et registrert avgiftssubjekt har rett til fradrag for inngående merverdiavgift 
 
 ### § 8-4. Personkjøretøy
 
-(1) Fradragsretten omfatter ikke inngående merverdiavgift på anskaffelse, drift og vedlikehold av personkjøretøy. Det er likevel fradragsrett for inngående merverdiavgift på personkjøretøy til bruk somsalgsvareutleiekjøretøy i yrkesmessig utleievirksomhetmiddel til å transportere personer mot vederlag i persontransportvirksomhet
+(1) Fradragsretten omfatter ikke inngående merverdiavgift på anskaffelse, drift og vedlikehold av personkjøretøy. Det er likevel fradragsrett for inngående merverdiavgift på personkjøretøy til bruk som
+
+1. salgsvare
+2. utleiekjøretøy i yrkesmessig utleievirksomhet
+3. middel til å transportere personer mot vederlag i persontransportvirksomhet
 
 (2) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen.
 
@@ -984,7 +1133,10 @@ Selv om fradragsretten er begrenset etter [§§ 8-2](lov/2009-06-19-58/§8-2) ti
 
 (1) Inngående merverdiavgift på kapitalvarer som er anskaffet, framstilt eller fullført etter 31. desember 2007, skal ved endret bruk mv. justeres etter [§§ 9-2](lov/2009-06-19-58/§9-2) til [9-5](lov/2009-06-19-58/§9-5) eller tilbakeføres etter [§ 9-7](lov/2009-06-19-58/§9-7).
 
-(2) Med kapitalvarer menesmaskiner, inventar og andre driftsmidler der inngående merverdiavgift av kostpris utgjør minst 50 000 kroner, likevel ikke kjøretøyer som er fritatt for merverdiavgift etter [§ 6-7](lov/2009-06-19-58/§6-7) første leddfast eiendom som har vært gjenstand for ny-, på- eller ombygging der inngående merverdiavgift på kostnadene ved dette utgjør minst 100.000 kroner
+(2) Med kapitalvarer menes
+
+1. maskiner, inventar og andre driftsmidler der inngående merverdiavgift av kostpris utgjør minst 50 000 kroner, likevel ikke kjøretøyer som er fritatt for merverdiavgift etter [§ 6-7](lov/2009-06-19-58/§6-7) første ledd
+2. fast eiendom som har vært gjenstand for ny-, på- eller ombygging der inngående merverdiavgift på kostnadene ved dette utgjør minst 100.000 kroner
 
 (3) – – –.
 
@@ -1052,7 +1204,11 @@ Selv om fradragsretten er begrenset etter [§§ 8-2](lov/2009-06-19-58/§8-2) ti
 
 (3) For personkjøretøy som ble registrert på virksomheten i regnskapsår som utløp for mer enn fem år siden, kan tilbakeføringsbeløpet fastsettes ved å multiplisere anslått inngående merverdiavgift med personkjøretøyets verdi ved omdisponeringen og dividere med kjøretøyets anslåtte verdi inklusive avgifter da kjøretøyet ble registrert på virksomheten.
 
-(4) Inngående merverdiavgift skal ikke tilbakeføres dersom salget eller omdisponeringen skyldes atkjøretøyet blir kondemnerteierens bo tas under konkursbehandling eller offentlig gjeldsforhandlingeieren dør
+(4) Inngående merverdiavgift skal ikke tilbakeføres dersom salget eller omdisponeringen skyldes at
+
+1. kjøretøyet blir kondemnert
+2. eierens bo tas under konkursbehandling eller offentlig gjeldsforhandling
+3. eieren dør
 
 (5) Skattekontoret kan treffe enkeltvedtak om at tilbakeføring kan unnlates dersom salget eller omdisponeringen skyldes forhold avgiftssubjektet ikke har hatt kontroll over eller en tilbakeføring av andre grunner vil virke særlig urimelig. Et vedtak om unnlatt tilbakeføring gis virkning fra det tidspunktet personkjøretøyet selges eller på annen måte omdisponeres til bruk som ikke ville gitt fradragsrett.
 
@@ -1082,11 +1238,22 @@ Departementet kan gi forskrift om registrerings- og dokumentasjonsplikt mv. av r
 
 ### § 10-1. Næringsdrivende uten forretningssted eller hjemsted i merverdiavgiftsområdet
 
-(1) Næringsdrivende i utlandet som ikke har hatt avgiftspliktig omsetning i merverdiavgiftsområdet de siste tolv måneder, har rett til refusjon av inngående merverdiavgift dersommerverdiavgiften gjelder anskaffelse av varer eller tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet, og varene eller tjenestene er til bruk i virksomheten,omsetningen utenfor merverdiavgiftsområdet hadde medført registreringsplikt eller rett til frivillig registrering dersom omsetningen hadde skjedd i merverdiavgiftsområdet, ogmerverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert i merverdiavgiftsområdet.
+(1) Næringsdrivende i utlandet som ikke har hatt avgiftspliktig omsetning i merverdiavgiftsområdet de siste tolv måneder, har rett til refusjon av inngående merverdiavgift dersom
 
-(2) Næringsdrivende i utlandet som er registrert etter forenklet registreringsordning etter [§§ 14-4](lov/2009-06-19-58/§14-4) til [14-7](lov/2009-06-19-58/§14-7), har rett til refusjon av inngående merverdiavgift dersommerverdiavgiften gjelder anskaffelse av varer eller tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet, og varene eller tjenestene er til bruk i virksomheten, ogmerverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert avgiftssubjekt i merverdiavgiftsområdet.
+1. merverdiavgiften gjelder anskaffelse av varer eller tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet, og varene eller tjenestene er til bruk i virksomheten,
+2. omsetningen utenfor merverdiavgiftsområdet hadde medført registreringsplikt eller rett til frivillig registrering dersom omsetningen hadde skjedd i merverdiavgiftsområdet, og
+3. merverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert i merverdiavgiftsområdet.
 
-(3) Næringsdrivende i utlandet som kun omsetter tjenester som nevnt i [§ 6-28](lov/2009-06-19-58/§6-28), har rett til refusjon av inngående merverdiavgift dersomde i henhold til [§ 2-1](lov/2009-06-19-58/§2-1) syvende ledd ikke er registrert i Merverdiavgiftsregisteret,merverdiavgiften gjelder anskaffelse av varer og tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet og varene eller tjenestene er til bruk i virksomheten, ogmerverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert avgiftssubjekt i merverdiavgiftsområdet.
+(2) Næringsdrivende i utlandet som er registrert etter forenklet registreringsordning etter [§§ 14-4](lov/2009-06-19-58/§14-4) til [14-7](lov/2009-06-19-58/§14-7), har rett til refusjon av inngående merverdiavgift dersom
+
+1. merverdiavgiften gjelder anskaffelse av varer eller tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet, og varene eller tjenestene er til bruk i virksomheten, og
+2. merverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert avgiftssubjekt i merverdiavgiftsområdet.
+
+(3) Næringsdrivende i utlandet som kun omsetter tjenester som nevnt i [§ 6-28](lov/2009-06-19-58/§6-28), har rett til refusjon av inngående merverdiavgift dersom
+
+1. de i henhold til [§ 2-1](lov/2009-06-19-58/§2-1) syvende ledd ikke er registrert i Merverdiavgiftsregisteret,
+2. merverdiavgiften gjelder anskaffelse av varer og tjenester i merverdiavgiftsområdet eller innførsel av varer til merverdiavgiftsområdet og varene eller tjenestene er til bruk i virksomheten, og
+3. merverdiavgiften hadde vært fradragsberettiget dersom virksomheten var registrert avgiftssubjekt i merverdiavgiftsområdet.
 
 (4) Inngående merverdiavgift refunderes ikke for varer som anskaffes eller innføres til merverdiavgiftsområdet og deretter omsettes her. Det samme gjelder merverdiavgift for varer som innføres for å leveres til kjøper i merverdiavgiftsområdet.
 
@@ -1096,7 +1263,11 @@ Departementet kan gi forskrift om registrerings- og dokumentasjonsplikt mv. av r
 
 ### § 10-2. Fremmede lands ambassader og konsulater
 
-(1) Fremmede lands ambassader og konsulater med diplomatiske representanter har rett til refusjon av inngående merverdiavgift påløpt ved kjøp av nærmere bestemte varer og tjenester tilstatseide eiendommeroffisielt bruk for diplomatiske misjoner og fagkonsulaterdiplomatiske representanters og konsulære fagtjenestemenns personlige bruk
+(1) Fremmede lands ambassader og konsulater med diplomatiske representanter har rett til refusjon av inngående merverdiavgift påløpt ved kjøp av nærmere bestemte varer og tjenester til
+
+1. statseide eiendommer
+2. offisielt bruk for diplomatiske misjoner og fagkonsulater
+3. diplomatiske representanters og konsulære fagtjenestemenns personlige bruk
 
 (2) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder om hvilke varer og tjenester som omfattes av refusjonsordningen og om vilkår for refusjon.
 
@@ -1130,7 +1301,12 @@ Departementet kan på grunnlag av traktater og andre internasjonale avtaler gi f
 
 ### § 10-7. Varer som gjenutføres eller er feildeklarert
 
-(1) Den som ikke er avgiftssubjekt har rett til refusjon av merverdiavgift betalt ved innførsel dersomvaren gjenutføres i uforandret stand fordi varen er feilsendt, feilbestilt eller ikke levert som avtaltvaren gjenutføres etter [tollavgiftsloven § 7-2](lov/2022-03-11-8/§7-2) første og annet leddvaren gjenutføres og kunne vært deklarert for prosedyren midlertidig innførsel etter [vareførselsloven § 4-6](lov/2022-03-11-9/§4-6) ved innførselenvaren gjenutføres i andre tilfeller enn nevnt i bokstav a til c og det foreligger særlige grunner
+(1) Den som ikke er avgiftssubjekt har rett til refusjon av merverdiavgift betalt ved innførsel dersom
+
+1. varen gjenutføres i uforandret stand fordi varen er feilsendt, feilbestilt eller ikke levert som avtalt
+2. varen gjenutføres etter [tollavgiftsloven § 7-2](lov/2022-03-11-8/§7-2) første og annet ledd
+3. varen gjenutføres og kunne vært deklarert for prosedyren midlertidig innførsel etter [vareførselsloven § 4-6](lov/2022-03-11-9/§4-6) ved innførselen
+4. varen gjenutføres i andre tilfeller enn nevnt i bokstav a til c og det foreligger særlige grunner
 
 (2) For varer som gjenutføres, jf. første ledd bokstav a til d, er det et vilkår for refusjon at varen gjenutføres innen ett år etter innførselen. Fristen kan i særlige tilfeller forlenges. Kravet om gjenutførsel kan frafalles dersom varen blir tilintetgjort under kontroll av eller etter avtale med tollmyndighetene mot at den som var ansvarlig for merverdiavgiften etter [§ 11-1](lov/2009-06-19-58/§11-1) første ledd bærer kostnadene.
 
@@ -1138,7 +1314,10 @@ Departementet kan på grunnlag av traktater og andre internasjonale avtaler gi f
 
 ### § 10-8. Varer som innføres midlertidig – delvis refusjon
 
-(1) Etter at varen er gjenutført, har den som ikke er avgiftssubjekt rett til refusjon av merverdiavgift betalt ved innførsel avvarer som er leid eller lånt fra steder utenfor merverdiavgiftsområdetanleggsmaskiner og anleggs- og transportmateriell som næringsdrivende med forretningssted eller hjemsted utenfor merverdiavgiftsområdet tar med seg for utføring av oppdrag her
+(1) Etter at varen er gjenutført, har den som ikke er avgiftssubjekt rett til refusjon av merverdiavgift betalt ved innførsel av
+
+1. varer som er leid eller lånt fra steder utenfor merverdiavgiftsområdet
+2. anleggsmaskiner og anleggs- og transportmateriell som næringsdrivende med forretningssted eller hjemsted utenfor merverdiavgiftsområdet tar med seg for utføring av oppdrag her
 
 (2) I refusjonsbeløpet gjøres fradrag med fem prosent per måned eller del av måned regnet fra innførselen av varen.
 
@@ -1288,7 +1467,10 @@ Konkursbo registres på eget nummer med virkning fra åpningen av bobehandlingen
 
 ### § 14-4. Hvem ordningen gjelder for mv.
 
-(1) Avgiftssubjekt som ikke har forretningssted eller hjemsted i merverdiavgiftsområdet, kan velge forenklet registreringsordning dersom vedkommende bare skal beregne og betale merverdiavgift påvarer omfattet av [§ 3-1](lov/2009-06-19-58/§3-1) annet leddtjenester omfattet av [§ 3-30](lov/2009-06-19-58/§3-30) som er levert til andre mottakere enn næringsdrivende eller offentlig virksomhet hjemmehørende i merverdiavgiftsområdet.
+(1) Avgiftssubjekt som ikke har forretningssted eller hjemsted i merverdiavgiftsområdet, kan velge forenklet registreringsordning dersom vedkommende bare skal beregne og betale merverdiavgift på
+
+1. varer omfattet av [§ 3-1](lov/2009-06-19-58/§3-1) annet ledd
+2. tjenester omfattet av [§ 3-30](lov/2009-06-19-58/§3-30) som er levert til andre mottakere enn næringsdrivende eller offentlig virksomhet hjemmehørende i merverdiavgiftsområdet.
 
 (2) Forenklet registrering tillates uten at beløpsgrensen i [§ 2-1](lov/2009-06-19-58/§2-1) første ledd er oversteget.
 
@@ -1314,13 +1496,21 @@ Tilbyder i forenklet registreringsordning har ikke rett til fradrag for inngåen
 
 ### § 14-7. Sletting
 
-(1) Tilbyder skal slettes fra registeret nårvirksomheten er opphørt,vilkårene for å benytte forenklet registreringsordning ikke lenger er oppfylt, ellertilbyderen gjentatte ganger misligholder pliktene som følger av merverdiavgiftsloven.
+(1) Tilbyder skal slettes fra registeret når
+
+1. virksomheten er opphørt,
+2. vilkårene for å benytte forenklet registreringsordning ikke lenger er oppfylt, eller
+3. tilbyderen gjentatte ganger misligholder pliktene som følger av merverdiavgiftsloven.
 
 (2) Dersom merverdiavgiftspliktig innførsel er falt under den til enhver tid gjeldende beløpsgrensen i [§ 2-1](lov/2009-06-19-58/§2-1) tredje ledd uten at virksomheten er slettet i medhold av denne paragrafen, skal tilbyder forbli registrert i minst to hele kalenderår.
 
 (3) Tilbyder som blir slettet i medhold av første ledd bokstav c, og som fortsatt har avgiftspliktig virksomhet, skal registreres ved representant etter [§ 2-1](lov/2009-06-19-58/§2-1) sjette ledd.
 
-(4) Tilbyder som har blitt slettet i medhold av første ledd bokstav c, skal kunne registreres på nytt nårtilbyderen etter slettingsvedtaket har fulgt pliktene som følger av merverdiavgiftsloven,det må antas at tilbyderen ved ny registrering vil følge pliktene som følger av merverdiavgiftsloven, ogtilbyderen har oppfylt tidligere betalingsforpliktelser.
+(4) Tilbyder som har blitt slettet i medhold av første ledd bokstav c, skal kunne registreres på nytt når
+
+1. tilbyderen etter slettingsvedtaket har fulgt pliktene som følger av merverdiavgiftsloven,
+2. det må antas at tilbyderen ved ny registrering vil følge pliktene som følger av merverdiavgiftsloven, og
+3. tilbyderen har oppfylt tidligere betalingsforpliktelser.
 
 (5) Departementet kan i forskrift gi utfyllende regler om vilkårene for sletting og nyregistrering av tilbydere som har blitt slettet.
 

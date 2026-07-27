@@ -15,7 +15,7 @@ xml_hash: "693e0c7a7fe80a0f5d296fc7733b1e25433f8224601d89e1272f9a24297bd90f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Lovens formål
 
-Formålet med denne lov er:å tilpasse fiskeflåtens fangstkapasitet til ressursgrunnlaget for å sikre en rasjonell og bærekraftig utnyttelse av de marine ressurser,å øke lønnsomheten og verdiskapingen i næringen og gjennom dette trygge bosetting og arbeidsplasser i kystdistriktene, ogå legge til rette for at høstingen av de marine ressurser fortsatt skal komme kystbefolkningen til gode.
+Formålet med denne lov er:
+
+1. å tilpasse fiskeflåtens fangstkapasitet til ressursgrunnlaget for å sikre en rasjonell og bærekraftig utnyttelse av de marine ressurser,
+2. å øke lønnsomheten og verdiskapingen i næringen og gjennom dette trygge bosetting og arbeidsplasser i kystdistriktene, og
+3. å legge til rette for at høstingen av de marine ressurser fortsatt skal komme kystbefolkningen til gode.
 
 ### § 1 a. Forholdet til folkeretten
 
@@ -68,7 +72,11 @@ En ervervstillatelse gir bare rett til å utøve fiske eller fangst i samsvar me
 
 Ervervstillatelse kan bare gis til den som er norsk statsborger eller likestilt med norsk statsborger. Som likestilt med norsk statsborger regnes utlending bosatt i Norge. Utlending bosatt i Norge kan bare bli tildelt ervervstillatelse når fartøyets største lengde er mindre enn 15 meter.
 
-Følgende selskaper og sammenslutninger anses som likestilt med norsk statsborger:aksjeselskap, allmennaksjeselskap og annet selskap med begrenset ansvar når selskapets hovedkontor og styrets sete er i Norge, når styrets flertall, herunder styrelederen, består av norske statsborgere som er bosatt i Norge og har bodd her i de to siste år, og når norske statsborgere eier aksjer eller andeler svarende til minst 6/10 av selskapets kapital og kan utøve stemmerett i selskapet med minst 6/10 av stemmene.partrederi eller annet norsk selskap når medlemmene hefter ubegrenset for selskapets forpliktelser, og når norske statsborgere er medeiere for minst 6/10.kommandittselskap når norske statsborgere eier minst 6/10 av den ansvarlige kapital, og når norske statsborgere eier minst 6/10 av kommandittkapitalen.
+Følgende selskaper og sammenslutninger anses som likestilt med norsk statsborger:
+
+1. aksjeselskap, allmennaksjeselskap og annet selskap med begrenset ansvar når selskapets hovedkontor og styrets sete er i Norge, når styrets flertall, herunder styrelederen, består av norske statsborgere som er bosatt i Norge og har bodd her i de to siste år, og når norske statsborgere eier aksjer eller andeler svarende til minst 6/10 av selskapets kapital og kan utøve stemmerett i selskapet med minst 6/10 av stemmene.
+2. partrederi eller annet norsk selskap når medlemmene hefter ubegrenset for selskapets forpliktelser, og når norske statsborgere er medeiere for minst 6/10.
+3. kommandittselskap når norske statsborgere eier minst 6/10 av den ansvarlige kapital, og når norske statsborgere eier minst 6/10 av kommandittkapitalen.
 
 Ved anvendelsen av denne paragraf skal likt med det som eies av norske statsborgere, regnes det som eies av den norske stat, institusjon eller fond som styres av den norske stat og norske kommuner.
 
@@ -96,7 +104,11 @@ Når det er nødvendig til gjennomføring av overenskomst med fremmed stat, kan 
 
 ### § 7. Særlige bestemmelser om ervervstillatelse
 
-Søknad om ervervstillatelse kan avslås dersom:innvilgelse ikke er ønskelig ut fra hensynet til fiskeflåtens distriktsmessige fordeling, hensynet til ressursgrunnlaget eller lovens formål for øvrig. Kongen kan ved forskrift gi nærmere regler om når søknad om ervervstillatelse kan avslås.fartøyet tidligere er tatt ut av fisket i medhold av en kondemnerings- eller strukturkvoteordning eller liknende ordning.fartøyeieren eller andre som har drevet et fartøy på fartøyeierens vegne, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning.
+Søknad om ervervstillatelse kan avslås dersom:
+
+1. innvilgelse ikke er ønskelig ut fra hensynet til fiskeflåtens distriktsmessige fordeling, hensynet til ressursgrunnlaget eller lovens formål for øvrig. Kongen kan ved forskrift gi nærmere regler om når søknad om ervervstillatelse kan avslås.
+2. fartøyet tidligere er tatt ut av fisket i medhold av en kondemnerings- eller strukturkvoteordning eller liknende ordning.
+3. fartøyeieren eller andre som har drevet et fartøy på fartøyeierens vegne, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning.
 
 Når et fartøy skal overtas ved arv etter reglene i [arveloven kapittel 2](lov/2019-06-14-21/kap2), [3](lov/2019-06-14-21/kap3) eller [4](lov/2019-06-14-21/kap4), skal den nye eieren gis tidsbegrenset ervervstillatelse i inntil fem år inntil aktivitetskravet i § 6 første ledd er oppfylt. Slik tidsbegrenset ervervstillatelse kan også gis ved overføring av fartøyet som ledd i generasjonsskifte til fordel for personer som kan få arverett etter [arveloven kapittel 2](lov/2019-06-14-21/kap2). Gjenlevende ektefelle eller samboer i uskiftet bo, jf. [arveloven kapittel 5](lov/2019-06-14-21/kap5) og 6, kan gis en tidsubegrenset ervervstillatelse så lenge uskifteboet består dersom fartøyet inngår i formuen som overtas uskiftet.
 
@@ -124,9 +136,19 @@ En ervervstillatelse faller bort når eieren taper eiendomsretten til fartøyet,
 
 ### § 11. Tilbakekall av ervervstillatelse
 
-En ervervstillatelse skal tilbakekalles når fartøyeieren:ikke lenger oppfyller kravene i [§ 5](lov/1999-03-26-15/§5),ikke har drevet ervervsmessig fiske eller fangst i minst tre av de siste fem år på eller med norsk fartøy og heller ikke er knyttet til fiske- og fangstyrket.
+En ervervstillatelse skal tilbakekalles når fartøyeieren:
 
-En ervervstillatelse kan tilbakekalles når:fartøyet ikke har vært benyttet i ervervsmessig fiske eller fangst en nærmere bestemt tid fastsatt av departementet i forskrift eller i ervervstillatelsen,fartøyet eller fartøyeieren ikke lenger fyller vilkår som er fastsatt i eller i medhold av loven her,forutsetningene som tillatelsen bygger på er vesentlig endret,fartøyeieren mot bedre vitende har gitt uriktige opplysninger eller fortiet forhold av vesentlig betydning for vedtaket om å gi slik tillatelse,fartøyeieren eller andre som har drevet fartøyet, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning, elleradgang til tilbakekall følger av alminnelige forvaltningsrettslige regler.
+1. ikke lenger oppfyller kravene i [§ 5](lov/1999-03-26-15/§5),
+2. ikke har drevet ervervsmessig fiske eller fangst i minst tre av de siste fem år på eller med norsk fartøy og heller ikke er knyttet til fiske- og fangstyrket.
+
+En ervervstillatelse kan tilbakekalles når:
+
+1. fartøyet ikke har vært benyttet i ervervsmessig fiske eller fangst en nærmere bestemt tid fastsatt av departementet i forskrift eller i ervervstillatelsen,
+2. fartøyet eller fartøyeieren ikke lenger fyller vilkår som er fastsatt i eller i medhold av loven her,
+3. forutsetningene som tillatelsen bygger på er vesentlig endret,
+4. fartøyeieren mot bedre vitende har gitt uriktige opplysninger eller fortiet forhold av vesentlig betydning for vedtaket om å gi slik tillatelse,
+5. fartøyeieren eller andre som har drevet fartøyet, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning, eller
+6. adgang til tilbakekall følger av alminnelige forvaltningsrettslige regler.
 
 I mindre alvorlige tilfeller kan departementet bestemme at en ervervstillatelse skal tilbakekalles for et bestemt tidsrom.
 
@@ -178,7 +200,11 @@ Tildeling etter første ledd skal foretas etter en samlet vurdering av søkerne 
 
 ### § 17. Tildeling av spesiell tillatelse til erstatning for tilsvarende spesiell tillatelse
 
-Departementet kan i følgende tilfeller tildele spesiell tillatelse til fartøyeier for et bestemt fartøy til erstatning for tilsvarende spesiell tillatelse som oppgis:Fartøyeier skifter ut sitt gamle fartøy med et brukt fartøy eller nybygg.Fartøyeier kjøper eller overtar på annen måte fartøyet for fortsatt drift.Fartøyeier eller eier av et annet fartøy oppgir tilsvarende spesiell tillatelse.
+Departementet kan i følgende tilfeller tildele spesiell tillatelse til fartøyeier for et bestemt fartøy til erstatning for tilsvarende spesiell tillatelse som oppgis:
+
+1. Fartøyeier skifter ut sitt gamle fartøy med et brukt fartøy eller nybygg.
+2. Fartøyeier kjøper eller overtar på annen måte fartøyet for fortsatt drift.
+3. Fartøyeier eller eier av et annet fartøy oppgir tilsvarende spesiell tillatelse.
 
 Departementet kan gi tilsagn til fartøyeier om tildeling av ny spesiell tillatelse etter første ledd bokstav a for et ubestemt erstatningsfartøy dersom fartøyet er forlist i løpet av de siste seks månedene, eller fartøyet planlegges solgt uten at eieren har anskaffet nytt fartøy.
 
@@ -323,7 +349,12 @@ Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
 ### § 32. Ikrafttredelse m.v.
 
 1. Denne lov trer i kraft fra den tid1 Kongen bestemmer.
-2. Fra samme tid oppheves følgende lover:[Lov av 16. juni 1939 nr. 7](lov/1939-06-16-7) om fangst av hval.[Lov av 20. april 1951](lov/1951-04-20) om fiske med trål.[Lov av 14. desember 1951 nr. 1](lov/1951-12-14-1) om fangst av sel.[Lov av 16. juni 1972 nr. 57](lov/1972-06-16-57) om regulering av deltagelsen i fisket.
+2. Fra samme tid oppheves følgende lover:
+
+   - [Lov av 16. juni 1939 nr. 7](lov/1939-06-16-7) om fangst av hval.
+   - [Lov av 20. april 1951](lov/1951-04-20) om fiske med trål.
+   - [Lov av 14. desember 1951 nr. 1](lov/1951-12-14-1) om fangst av sel.
+   - [Lov av 16. juni 1972 nr. 57](lov/1972-06-16-57) om regulering av deltagelsen i fisket.
 3. Forskrifter og vedtak fastsatt i medhold av lover nevnt i nr. 2, gjelder inntil noe annet blir bestemt i medhold av loven her.
 4. Bestemmelser gitt i medhold av mellombels [lov av 29. juni 1956 nr. 8](lov/1956-06-29-8) om eigedomsretten til fiske- og fangstfarkoster, skal fortsatt gjelde inntil de oppheves eller avløses av bestemmelser gitt i medhold av denne lov.
 5. [Lov av 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer §§ 1 og 2 oppheves. [Lovens §§ 3](lov/1999-03-26-15/§3) flg. gjelder inntil de oppheves av Kongen.2
@@ -331,4 +362,6 @@ Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
 
 > Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 30).
 
-1 Fra 1 jan 2000 iflg. [res. 19 nov 1999 nr. 1178](forskrift/1999-11-19-1178).2 Fra 1 jan 2013 iflg. [forskr. 7 des 2012 nr. 1144](forskrift/2012-12-07-1144).
+1 Fra 1 jan 2000 iflg. [res. 19 nov 1999 nr. 1178](forskrift/1999-11-19-1178).
+
+2 Fra 1 jan 2013 iflg. [forskr. 7 des 2012 nr. 1144](forskrift/2012-12-07-1144).

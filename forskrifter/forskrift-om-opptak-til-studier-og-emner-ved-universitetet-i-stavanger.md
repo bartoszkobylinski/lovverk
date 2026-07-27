@@ -15,7 +15,7 @@ xml_hash: "8ceb3002a02a9a763a41ff494410b6dda3aec50aba5a5ae8368d9902bf5c74de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,11 @@ Opptakskrav og rangeringsregler for opptak til grunnutdanninger ved Universitete
 
 For enkelte studieprogram med spesiell tilrettelegging – Y-vei, kan det gis unntak fra kravet om generell studiekompetanse. Styret kan gi nærmere regler for hvilke studier dette gjelder. Utdanningsutvalget kan fastsette utfyllende regler for opptak.
 
-Søkere rangeres følgende:Søkere rangeres etter karaktersnitt på den utdanningen som kvalifiserer for opptak.Søkere med høy poengsum rangeres foran søkere med lav poengsum.Har søkerne fremdeles like mange poeng skal de rangeres etter alder hvor eldre søkere går foran yngre søkere.
+Søkere rangeres følgende:
+
+1. Søkere rangeres etter karaktersnitt på den utdanningen som kvalifiserer for opptak.
+2. Søkere med høy poengsum rangeres foran søkere med lav poengsum.
+3. Har søkerne fremdeles like mange poeng skal de rangeres etter alder hvor eldre søkere går foran yngre søkere.
 
 > Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -138,8 +142,32 @@ Til enkelte studier kan det gis opptak til 2.–5. studieår. Dekan kan gi nærm
 
 ### § 2-4. Opptak til 1-årig studieprogram i Norsk språk og kultur
 
-1. Minstekrav for opptak til 1-årig studieprogram i norsk språk og kultur er generell studiekompetanse med følgende unntak:Søkere må dokumentere A2 nivå (trinn 1) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 2 og 3.Søkere må dokumentere B1 nivå (trinn 2) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 3 og 4.Søkere med generell studiekompetanse der norskkravet er dekket, vil ikke få tilbud om studieplass på dette studieprogrammet.
-2. Søkerne rangeres følgende:Søkere til nivå 2 og 3 blir rangert etter følgende kriterier:Søkere bosatt i Norge uten høyere akademisk utdanningSøkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategorien 4)Søkere fra land der det ikke kreves visum og som ikke har høyere utdanningSøkere bosatt i Norge med utdanning tilsvarende mastergradSøkere fra land der det ikke kreves visum og som har høyere utdanningAndre søkere.Søkere til nivå 3 og 4 blir rangert etter følgende kriterier:Søkere bosatt i Norge med utdanning tilsvarende mastergradSøkere fra land der det ikke kreves visum og som har høyere utdanningSøkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategori 1)Søkere bosatt i Norge uten høyere akademisk utdanningSøkere fra land der det ikke kreves visum og som ikke har høyere utdanningAndre søkere.Ved lik rangering rangeres søkerne på bakgrunn av loddtrekning.
+1. Minstekrav for opptak til 1-årig studieprogram i norsk språk og kultur er generell studiekompetanse med følgende unntak:
+
+   1. Søkere må dokumentere A2 nivå (trinn 1) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 2 og 3.
+   2. Søkere må dokumentere B1 nivå (trinn 2) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 3 og 4.
+
+   Søkere med generell studiekompetanse der norskkravet er dekket, vil ikke få tilbud om studieplass på dette studieprogrammet.
+2. Søkerne rangeres følgende:
+
+   1. Søkere til nivå 2 og 3 blir rangert etter følgende kriterier:
+
+      1. Søkere bosatt i Norge uten høyere akademisk utdanning
+      2. Søkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategorien 4)
+      3. Søkere fra land der det ikke kreves visum og som ikke har høyere utdanning
+      4. Søkere bosatt i Norge med utdanning tilsvarende mastergrad
+      5. Søkere fra land der det ikke kreves visum og som har høyere utdanning
+      6. Andre søkere.
+   2. Søkere til nivå 3 og 4 blir rangert etter følgende kriterier:
+
+      1. Søkere bosatt i Norge med utdanning tilsvarende mastergrad
+      2. Søkere fra land der det ikke kreves visum og som har høyere utdanning
+      3. Søkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategori 1)
+      4. Søkere bosatt i Norge uten høyere akademisk utdanning
+      5. Søkere fra land der det ikke kreves visum og som ikke har høyere utdanning
+      6. Andre søkere.
+
+   Ved lik rangering rangeres søkerne på bakgrunn av loddtrekning.
 
 > Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -147,20 +175,38 @@ Til enkelte studier kan det gis opptak til 2.–5. studieår. Dekan kan gi nærm
 
 ### § 3-1. Opptakskrav
 
-1. For opptak til et mastergradsstudium på 120 studiepoeng eller et erfaringsbasert mastergradsstudium på 90 eller 120 studiepoeng, må studenten ha oppnådd:bachelorgrad, cand.mag.-grad, annen grad eller yrkesutdanning fra høyere utdanning på minimum 3 års omfang, eller utdanning som etter [universitets- og høyskoleloven § 9-4](lov/2024-03-08-9/§9-4) anses som jevngod med de nevnte utdanninger.eventuelle krav fastsatt i utfyllende regler for det enkelte mastergradsstudium, jf. [§ 1-5](forskrift/2024-06-28-1392/§1-5).
-2. For opptak til mastergradsstudier etter [universitets- og høyskoleforskriften § 2-6](forskrift/2024-06-28-1392/§2-6) på 120 studiepoeng gjelder i tillegg krav om:fordypning i fag, emne eller emnegruppe på minst 80 studiepoeng, eller integrert utdanning på minst 120 studiepoeng innenfor fagområdet for mastergradsstudiet.
+1. For opptak til et mastergradsstudium på 120 studiepoeng eller et erfaringsbasert mastergradsstudium på 90 eller 120 studiepoeng, må studenten ha oppnådd:
+
+   1. bachelorgrad, cand.mag.-grad, annen grad eller yrkesutdanning fra høyere utdanning på minimum 3 års omfang, eller utdanning som etter [universitets- og høyskoleloven § 9-4](lov/2024-03-08-9/§9-4) anses som jevngod med de nevnte utdanninger.
+   2. eventuelle krav fastsatt i utfyllende regler for det enkelte mastergradsstudium, jf. [§ 1-5](forskrift/2024-06-28-1392/§1-5).
+2. For opptak til mastergradsstudier etter [universitets- og høyskoleforskriften § 2-6](forskrift/2024-06-28-1392/§2-6) på 120 studiepoeng gjelder i tillegg krav om:
+
+   1. fordypning i fag, emne eller emnegruppe på minst 80 studiepoeng, eller integrert utdanning på minst 120 studiepoeng innenfor fagområdet for mastergradsstudiet.
 3. Dekan avgjør hva som anses som relevant yrkespraksis. Dekan kan og fastsette krav om lengre praksis erfaringsbasert mastergrad etter [universitets- og høyskoleforskriften § 2-7](forskrift/2024-06-28-1392/§2-7).
-4. Søkere må dokumentere at krav om norsk og engelsk er oppfylt, jf. [Forskrift om opptak til høgare utdanning §§ 2-1](forskrift/2017-01-06-13/§2-1) til [2-4](forskrift/2017-01-06-13/§2-4).Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til engelskspråklige masterstudier, og studenter som deltar i internasjonale utvekslingsprogram.
+4. Søkere må dokumentere at krav om norsk og engelsk er oppfylt, jf. [Forskrift om opptak til høgare utdanning §§ 2-1](forskrift/2017-01-06-13/§2-1) til [2-4](forskrift/2017-01-06-13/§2-4).
+
+   Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til engelskspråklige masterstudier, og studenter som deltar i internasjonale utvekslingsprogram.
 
 > Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 3-2. Engelskkrav for søkere med utenlandsk utdanningsbakgrunn
 
-For opptak til engelskspråklige masterstudier kreves det engelske språkkunnskaper i samsvar med krav om generell studiekompetanse eller GSU-listen, med tilleggskrav for følgende engelsktester:Test of English as a foreign Language (TOEFL): Internettbasert test med minst 4.5 poeng totalt og minst 4.5 poeng på skriftlig del. For tester tatt før 21. januar 2026 kreves 90 poeng totalt og minst 22 poeng på skriftlig del.International English Language Testing service (IELTS) Academic test med minst 6,5 poeng totalt og minst 6,0 poeng på skriftlig del.Pearson Test of English Academic (PET Academic) med minst 62 poeng totalt og minst 53 poeng på skriftlig del.fullført bachelorgrad eller bestått ett år på masternivå (60 studiepoeng) med undervisningsspråk engelsk i Norden (Danmark, Finland, Island, Norge eller Sverige) dekker engelskkravet.
+For opptak til engelskspråklige masterstudier kreves det engelske språkkunnskaper i samsvar med krav om generell studiekompetanse eller GSU-listen, med tilleggskrav for følgende engelsktester:
 
-Følgende test fra GSU-listen vil ikke dekke engelskkravetThe University of Cambridge English exam: First Certificate in English.
+- Test of English as a foreign Language (TOEFL): Internettbasert test med minst 4.5 poeng totalt og minst 4.5 poeng på skriftlig del. For tester tatt før 21. januar 2026 kreves 90 poeng totalt og minst 22 poeng på skriftlig del.
+- International English Language Testing service (IELTS) Academic test med minst 6,5 poeng totalt og minst 6,0 poeng på skriftlig del.
+- Pearson Test of English Academic (PET Academic) med minst 62 poeng totalt og minst 53 poeng på skriftlig del.
+- fullført bachelorgrad eller bestått ett år på masternivå (60 studiepoeng) med undervisningsspråk engelsk i Norden (Danmark, Finland, Island, Norge eller Sverige) dekker engelskkravet.
 
-Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:Bestått engelsk i norsk videregående skole (140 årstimer / 5 uketimer) med karakterer lavere enn 4.Fullført en mastergrad undervist på engelsk utenfor nordiske land.Fullført en universitetsgrad i engelsk språk og litteratur, der engelsk har et omfang på minst 60 ECTS eller tilsvarende.
+Følgende test fra GSU-listen vil ikke dekke engelskkravet
+
+- The University of Cambridge English exam: First Certificate in English.
+
+Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:
+
+- Bestått engelsk i norsk videregående skole (140 årstimer / 5 uketimer) med karakterer lavere enn 4.
+- Fullført en mastergrad undervist på engelsk utenfor nordiske land.
+- Fullført en universitetsgrad i engelsk språk og litteratur, der engelsk har et omfang på minst 60 ECTS eller tilsvarende.
 
 > Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [11 nov 2020 nr. 3255](forskrift/2020-11-11-3255), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026), [8 jan 2026 nr. 16](forskrift/2026-01-08-16) (i kraft 21 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -194,7 +240,15 @@ Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:Bestått engelsk 
 
 ### § 3-4. Rangering av søkere med utenlandsk utdanningsbakgrunn
 
-Universitetet foretar en skjønnsmessig rangering på bakgrunn av [§ 3-4](forskrift/2018-10-18-1671/§3-4) bokstav a. I tillegg kan bokstav b–g tas med i vurderingen for å rangere søkerne.Søkers akademiske prestasjoner av samtlige eksamensresultater som utgjør opptaksgrunnlaget som beskrevet i [§ 3-1](forskrift/2018-10-18-1671/§3-1) a og utfyllende regler jf. [§ 1-5](forskrift/2018-10-18-1671/§1-5).Balansert sammensetning av kandidatenes utdanningsbakgrunn på det enkelte mastergradsstudium.Kvalitet på utdanningsinstitusjonen hvor utdanningen for opptaksgrunnlaget ble fullført.Søkere som er rekruttert gjennom faglige eller institusjonelle avtaler.Søkere som tidligere har fullført eller fullfører mastergrad i Norge i opptaksåret nedprioriteres.Ved poenglikhet rangeres søkerne på bakgrunn av loddtrekning.Utdanningsutvalget kan fastsette egne omregningsskalaer fra andre karaktersystem til ECTS-skala. Utdanningsutvalget kan fastsette egne krav om karakternivå for avvikende karaktersystemer.
+Universitetet foretar en skjønnsmessig rangering på bakgrunn av [§ 3-4](forskrift/2018-10-18-1671/§3-4) bokstav a. I tillegg kan bokstav b–g tas med i vurderingen for å rangere søkerne.
+
+1. Søkers akademiske prestasjoner av samtlige eksamensresultater som utgjør opptaksgrunnlaget som beskrevet i [§ 3-1](forskrift/2018-10-18-1671/§3-1) a og utfyllende regler jf. [§ 1-5](forskrift/2018-10-18-1671/§1-5).
+2. Balansert sammensetning av kandidatenes utdanningsbakgrunn på det enkelte mastergradsstudium.
+3. Kvalitet på utdanningsinstitusjonen hvor utdanningen for opptaksgrunnlaget ble fullført.
+4. Søkere som er rekruttert gjennom faglige eller institusjonelle avtaler.
+5. Søkere som tidligere har fullført eller fullfører mastergrad i Norge i opptaksåret nedprioriteres.
+6. Ved poenglikhet rangeres søkerne på bakgrunn av loddtrekning.
+7. Utdanningsutvalget kan fastsette egne omregningsskalaer fra andre karaktersystem til ECTS-skala. Utdanningsutvalget kan fastsette egne krav om karakternivå for avvikende karaktersystemer.
 
 > Endret ved [forskrifter 11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [11 nov 2020 nr. 3255](forskrift/2020-11-11-3255).
 
@@ -224,13 +278,22 @@ I tillegg gjelder eventuelle krav fastsatt i utfyllende regler for opptak til pr
 
 ### § 4-2. Rangering for søkere til praktisk-pedagogisk utdanning i allmennfag
 
-Fullført grad fra universitet eller høgskoleHøyeste grad går foran.Søkere med tre undervisningsfag i utdanningen rangeres foran søkere med to. Søkere med to undervisningsfag rangeres foran søkere med ett.Totalt antall avlagte studiepoeng.Ved ellers lik rangering rangeres søkerne på bakgrunn av loddtrekning.
+Fullført grad fra universitet eller høgskole
+
+1. Høyeste grad går foran.
+2. Søkere med tre undervisningsfag i utdanningen rangeres foran søkere med to. Søkere med to undervisningsfag rangeres foran søkere med ett.
+3. Totalt antall avlagte studiepoeng.
+4. Ved ellers lik rangering rangeres søkerne på bakgrunn av loddtrekning.
 
 > Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [2 des 2021 nr. 3551](forskrift/2021-12-02-3551).
 
 ### § 4-3. Rangering for søkere til praktisk-pedagogisk utdanning i yrkesfag
 
-Søkere prioriteres etter ansiennitetYrkeserfaringen skal være relevant innenfor søkers fagbakgrunn.Yrkespraksis regnes fra etter fullført fagbrev/høyere utdanning.Ved lik ansiennitet avgjøres det ved loddtrekning.
+Søkere prioriteres etter ansiennitet
+
+- Yrkeserfaringen skal være relevant innenfor søkers fagbakgrunn.
+- Yrkespraksis regnes fra etter fullført fagbrev/høyere utdanning.
+- Ved lik ansiennitet avgjøres det ved loddtrekning.
 
 > **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -274,7 +337,10 @@ Søkere med vitnemål fra godkjent fagskole vurderes skjønnsmessig.
 
 ### § 6-3. Opptakskrav til 1-årig forkurs for ingeniørutdanning
 
-Minstekrav for opptak er en av følgende:Fullført og bestått alle fag ved GK/VG1 og VK1/VG2 (+ ev. VK2/VG3) i yrkesfaglige studieretninger i norsk eller nordisk videregående skole.Fagbrev eller svenneprøve fra norsk eller nordiske land.
+Minstekrav for opptak er en av følgende:
+
+- Fullført og bestått alle fag ved GK/VG1 og VK1/VG2 (+ ev. VK2/VG3) i yrkesfaglige studieretninger i norsk eller nordisk videregående skole.
+- Fagbrev eller svenneprøve fra norsk eller nordiske land.
 
 > Endret ved forskrift [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 

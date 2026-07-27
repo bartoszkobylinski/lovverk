@@ -32,7 +32,18 @@ Denne forskriften gjelder krav til innretning og føring av dagbøker for norskr
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.*Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.*Innenriks fart:* Se forskrift av [4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder [kapittel 2](forskrift/1981-11-04-3793/kap2).*Kjemikalietankskip:* Skip som er bygget eller innrettet for primært å føre last av skadelige, flytende stoffer i bulk, og omfatter oljetankskip som fører skadelige, flytende stoffer i bulk som last eller del av last.*[MARPOL:](forskrift/2012-05-30-488)* Den internasjonale konvensjon om hindring av forurensning fra skip, med senere endringer.*Oljetankskip:* Skip som er bygget eller innrettet for primært å føre olje i bulk i lasterommene, og omfatter kombinasjonsskip og ethvert kjemikalietankskip når det fører en last eller en del av en last av olje i bulk.*Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.*STCW-konvensjonen:* Den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk, 1978 med endringer 1995 og senere endringer.*Utenriks fart:* Se forskrift av [4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder [kapittel 3](forskrift/1981-11-04-3793/kap3).
+I denne forskrift betyr:
+
+1. *Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.
+2. *Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.
+3. *Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+4. *Innenriks fart:* Se forskrift av [4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder [kapittel 2](forskrift/1981-11-04-3793/kap2).
+5. *Kjemikalietankskip:* Skip som er bygget eller innrettet for primært å føre last av skadelige, flytende stoffer i bulk, og omfatter oljetankskip som fører skadelige, flytende stoffer i bulk som last eller del av last.
+6. *[MARPOL:](forskrift/2012-05-30-488)* Den internasjonale konvensjon om hindring av forurensning fra skip, med senere endringer.
+7. *Oljetankskip:* Skip som er bygget eller innrettet for primært å føre olje i bulk i lasterommene, og omfatter kombinasjonsskip og ethvert kjemikalietankskip når det fører en last eller en del av en last av olje i bulk.
+8. *Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.
+9. *STCW-konvensjonen:* Den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk, 1978 med endringer 1995 og senere endringer.
+10. *Utenriks fart:* Se forskrift av [4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder [kapittel 3](forskrift/1981-11-04-3793/kap3).
 
 > Endret ved [forskrifter 30 juni 2003 nr. 937](forskrift/2003-06-30-937) (i kraft 1 juli 2003), [12 jan 2007 nr. 45](forskrift/2007-01-12-45), [24 jan 2022 nr. 118](forskrift/2022-01-24-118).
 
@@ -106,7 +117,12 @@ Det som er bestemt om skipsbøker i første og annet ledd, gjelder også opptegn
 
 ### § 9. Dekksdagbok
 
-Dekksdagbok skal føres om bord på:Skip i utenriks fartskip med bruttotonnasje på 50 og derover i innenriksfartfiske- og fangstfartøy med bruttotonnasje på 50 og deroverflyttbare innretninger.
+Dekksdagbok skal føres om bord på:
+
+1. Skip i utenriks fart
+2. skip med bruttotonnasje på 50 og derover i innenriksfart
+3. fiske- og fangstfartøy med bruttotonnasje på 50 og derover
+4. flyttbare innretninger.
 
 Stor dekksdagbok skal føres av fartøy som skal føre maskindagbok i henhold til [§ 10](forskrift/1992-09-15-693/§10), med unntak av skip som kan føre liten dekksdagbok. Liten dekksdagbok kan føres av maskindrevet skip med bruttotonnasje på 50 og derover i innenriksfart, skip med bruttotonnasje på 300 og derover som går i stor kystfart, og fiske- og fangstfartøy med bruttotonnasje på 50 og derover men under bruttotonnasje på 500, dersom ikke stor dekksdagbok føres.
 
@@ -120,7 +136,12 @@ Dagbokfører attesterer ved sin underskrift at vakten er innført. Skipets føre
 
 ### § 10. Maskindagbok
 
-Maskindagbok skal føres om bord påmaskindrevet skip i utenriksfartmaskindrevet skip i innenriksfart med maskinist eller maskinpasser i bemanningsoppgavenfiske- og fangstfartøy med bruttotonnasje 500 eller merflyttbare innretninger.
+Maskindagbok skal føres om bord på
+
+1. maskindrevet skip i utenriksfart
+2. maskindrevet skip i innenriksfart med maskinist eller maskinpasser i bemanningsoppgaven
+3. fiske- og fangstfartøy med bruttotonnasje 500 eller mer
+4. flyttbare innretninger.
 
 Maskindagboken skal fortrinnsvis føres av vakthavende maskinist. På skip registrert i norsk internasjonalt skipsregister skal maskindagboken føres på engelsk.
 
@@ -154,7 +175,10 @@ Dagbokfører attesterer ved sin underskrift at vakten er innført. Maskinsjefen 
 
 ### § 15. Dekksdagboken
 
-Den trykte tekst øverst på dagboksidene angir hva som skal innføres. For skip i utenriksfart skal døgnets første innførsel foretas på linjen ut for kl. 0000. Linjen fylles ut i rubrikkene 6-22 med de forhold som hersket kl. 2400.Under seilas skal innføres viktige posisjoner og opplysninger om drift, strømsett og lignende. Kurser skal angis i grader fra 000-360. Posisjoner skal angis ved bredde og lengde eller ved rettvisende peiling og avstand til navngitt objekt. Ved bruk av elektroniske hjelpemidler skal det gjøres innførsel om dette i posisjonsangivelsen. Ved optiske peilinger skal anføres: opt., ved for eksempel radar: rdr., i tilknytning til stedlinjen og det peilte objekts navn.I havn, ved kai eller til ankers kan innførsel i dagboken gjøres tvers over begge sider.
+Den trykte tekst øverst på dagboksidene angir hva som skal innføres. For skip i utenriksfart skal døgnets første innførsel foretas på linjen ut for kl. 0000. Linjen fylles ut i rubrikkene 6-22 med de forhold som hersket kl. 2400.
+
+1. Under seilas skal innføres viktige posisjoner og opplysninger om drift, strømsett og lignende. Kurser skal angis i grader fra 000-360. Posisjoner skal angis ved bredde og lengde eller ved rettvisende peiling og avstand til navngitt objekt. Ved bruk av elektroniske hjelpemidler skal det gjøres innførsel om dette i posisjonsangivelsen. Ved optiske peilinger skal anføres: opt., ved for eksempel radar: rdr., i tilknytning til stedlinjen og det peilte objekts navn.
+2. I havn, ved kai eller til ankers kan innførsel i dagboken gjøres tvers over begge sider.
 
 Enhver inntruffet begivenhet og omstendigheter under reisen, hvor kunnskap kan være til nytte for myndigheter, redere, lasteeiere, forsikringsselskaper eller andre som har rettslig interesse i reisen skal nøyaktig opptegnes. Det skal anmerkes når besetningens tjeneste begynner og slutter, når noen blir syke, dør, rømmer eller gjør seg skyldig i straffbar handling eller disiplinærforseelse, og om det brukes fremmed arbeidshjelp.
 
@@ -164,7 +188,19 @@ Det skal anmerkes når proviant og vann tas om bord, når lasting og lossing beg
 
 Opplysning innføres om kompassenes korrigering, kalibrering og deviasjon, om tiden for skipets avgang fra, ankomst til og flytting i havn, vær, luft- og sjøtemperatur, barometerstand, strøm, kurs, fart, tilbakelagt distanse, lanterneføring, tåkesignaler, om lensing, hvor ofte den finner sted, samt om vannhøyden i rommene.
 
-Videre skal innføres:Bestikket for hver ettmål, samt beholdning av bunkers, smøreolje og drikkevann. Innførsel skal også gjøres når skipsføreren under reisen finner det nødvendig å redusere kosten.resultatene av de regelmessige bestemmelser av kronometerets stand. Dette skal føres på dekksdagbokens trykte skjema for slike observasjoner.de påbudte øvelser. Dette skal føres på dekksdagbokens trykte skjema for slike opplysninger og dagbokføreren og skipets fører skal begge undertegne det innførte.opplysninger om hendelsesforløp ved eventuelt inntruffet uhell eller skade på person, skip eller last til belysning av årsaksforholdet. En skade skal nøyaktig beskrives og det skal gis opplysninger om de tiltak som ble foretatt i anledning uhellet eller skaden.opplysninger om grunner, hvis skipet hadde mulighet for å assistere personer i nød, men av forskjellige årsaker ikke har sett det hensiktsmessig eller nødvendig. Det skal tas hensyn til IMOs anbefaling om å informere den relevante redningssentral om situasjonen.opplysning om skipets arbeidsspråk. Arbeidsspråket fastsettes av rederiet eller fører med mindre noe annet følger av andre bestemmelser. Hvis arbeidsspråket ikke er det språk, under hvis flagg skipet er registrert, skal alle planer og lister, som er oppslått, være oversatt til arbeidsspråket.alle alarmer som meldes på skip som går med ubemannet maskinrom og hva som ble gjort i den forbindelse.justering og kontroll av alarminstrumenter, samt overgang fra maskinromskontroll av maskineriet til brokontroll og omvendt.– – –begrunnelse for ikke å følge obligatorisk routing system.de opplysninger som er påbudt i forskrifter fastsatt av Sjøfartsdirektoratet.
+Videre skal innføres:
+
+1. Bestikket for hver ettmål, samt beholdning av bunkers, smøreolje og drikkevann. Innførsel skal også gjøres når skipsføreren under reisen finner det nødvendig å redusere kosten.
+2. resultatene av de regelmessige bestemmelser av kronometerets stand. Dette skal føres på dekksdagbokens trykte skjema for slike observasjoner.
+3. de påbudte øvelser. Dette skal føres på dekksdagbokens trykte skjema for slike opplysninger og dagbokføreren og skipets fører skal begge undertegne det innførte.
+4. opplysninger om hendelsesforløp ved eventuelt inntruffet uhell eller skade på person, skip eller last til belysning av årsaksforholdet. En skade skal nøyaktig beskrives og det skal gis opplysninger om de tiltak som ble foretatt i anledning uhellet eller skaden.
+5. opplysninger om grunner, hvis skipet hadde mulighet for å assistere personer i nød, men av forskjellige årsaker ikke har sett det hensiktsmessig eller nødvendig. Det skal tas hensyn til IMOs anbefaling om å informere den relevante redningssentral om situasjonen.
+6. opplysning om skipets arbeidsspråk. Arbeidsspråket fastsettes av rederiet eller fører med mindre noe annet følger av andre bestemmelser. Hvis arbeidsspråket ikke er det språk, under hvis flagg skipet er registrert, skal alle planer og lister, som er oppslått, være oversatt til arbeidsspråket.
+7. alle alarmer som meldes på skip som går med ubemannet maskinrom og hva som ble gjort i den forbindelse.
+8. justering og kontroll av alarminstrumenter, samt overgang fra maskinromskontroll av maskineriet til brokontroll og omvendt.
+9. – – –
+10. begrunnelse for ikke å følge obligatorisk routing system.
+11. de opplysninger som er påbudt i forskrifter fastsatt av Sjøfartsdirektoratet.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 937](forskrift/2003-06-30-937) (i kraft 1 juli 2003, tidligere § 14), [8 nov 2005 nr. 1415](forskrift/2005-11-08-1415), [12 jan 2007 nr. 45](forskrift/2007-01-12-45), [30 mai 2012 nr. 488](forskrift/2012-05-30-488) (i kraft 1 juli 2012).
 
@@ -172,7 +208,30 @@ Videre skal innføres:Bestikket for hver ettmål, samt beholdning av bunkers, sm
 
 Tittelbladet etter bokens skjema skal utfylles. Antall fremdriftsmotorer, motortype, to- eller firetakt og fabrikantens navn skal anføres. Videre skal anføres brennoljetankenes samlede rominnhold. Klokkeslett skal angis med et firesifret tall fra kl. 0000 til kl. 2400.
 
-I rubrikken for «Anmerkninger» skal det innføres:når klargjøring til gang påbegynnes og når hoved- og hjelpemaskineri settes i gang eller stoppesnår det påfylles og skiftes brennoljetanker, samt tidspunkt for bunkringnår ballasttanker fylles og tømmesalle mangler, feil og havarier ved hoved- og hjelpemaskineriet samt viktig tilbehør og det som er gjort for å rette på disse forholdalle viktige vedlikeholdsarbeider på hoved- og hjelpemaskiner, rengjøring av tanker mv. Videre skal maskinbesetningens arbeid med vedlikehold av dekksmaskineri noteresnår det foretas ettersyn av kjelene og for øvrig alt som kan tjene til opplysning om dem.alle unormale tilstander som registreres ved alarm e.l. for:smøreoljetrykk av temperaturkjølevanntrykk og -temperaturstartslufttrykklagertemperaturkjeletrykkfødevannstemperaturalle branntilløp i maskin- og kjølerom som f.eks brann i spyleluftbeltet, branntilløp i kjelens spilloljebrett o.l.svikt i den elektriske krafttilførselobservasjon av olje i observasjonstanker m.m.når nødkraftkilden prøves, når nødbrannpumpen kjøres, når brannøvelser avholdes, når brannslokningsutstyr kontrolleres eller utskiftes.alle alarmer på skip som meldes til maskinisten fra broen eller maskinrom på skip som går med ubemannet maskinrom og hva som ble gjort i denne forbindelse. Manøvreringer skal så vidt mulig innføres i egen manøverbok.justering og kontroll av alarmer samt overgang fra maskinromskontroll til brokontroll og omvendtmaskinbesetningen, herunder personell som inngår i maskinvakt, når de begynner og slutter, og om det er fremmed arbeidshjelp, samt forhold som ulykker i maskinrom og eventuelle andre uregelmessigheter vedrørende maskinbesetningen. (Sykdomsforhold vedrørende maskinbesetningen skal innføres i dekksdagboken.)de opplysninger som er påbudt i forskrifter fastsatt av Sjøfartsdirektoratet.
+I rubrikken for «Anmerkninger» skal det innføres:
+
+1. når klargjøring til gang påbegynnes og når hoved- og hjelpemaskineri settes i gang eller stoppes
+2. når det påfylles og skiftes brennoljetanker, samt tidspunkt for bunkring
+3. når ballasttanker fylles og tømmes
+4. alle mangler, feil og havarier ved hoved- og hjelpemaskineriet samt viktig tilbehør og det som er gjort for å rette på disse forhold
+5. alle viktige vedlikeholdsarbeider på hoved- og hjelpemaskiner, rengjøring av tanker mv. Videre skal maskinbesetningens arbeid med vedlikehold av dekksmaskineri noteres
+6. når det foretas ettersyn av kjelene og for øvrig alt som kan tjene til opplysning om dem.
+7. alle unormale tilstander som registreres ved alarm e.l. for:
+
+   1. smøreoljetrykk av temperatur
+   2. kjølevanntrykk og -temperatur
+   3. startslufttrykk
+   4. lagertemperatur
+   5. kjeletrykk
+   6. fødevannstemperatur
+8. alle branntilløp i maskin- og kjølerom som f.eks brann i spyleluftbeltet, branntilløp i kjelens spilloljebrett o.l.
+9. svikt i den elektriske krafttilførsel
+10. observasjon av olje i observasjonstanker m.m.
+11. når nødkraftkilden prøves, når nødbrannpumpen kjøres, når brannøvelser avholdes, når brannslokningsutstyr kontrolleres eller utskiftes.
+12. alle alarmer på skip som meldes til maskinisten fra broen eller maskinrom på skip som går med ubemannet maskinrom og hva som ble gjort i denne forbindelse. Manøvreringer skal så vidt mulig innføres i egen manøverbok.
+13. justering og kontroll av alarmer samt overgang fra maskinromskontroll til brokontroll og omvendt
+14. maskinbesetningen, herunder personell som inngår i maskinvakt, når de begynner og slutter, og om det er fremmed arbeidshjelp, samt forhold som ulykker i maskinrom og eventuelle andre uregelmessigheter vedrørende maskinbesetningen. (Sykdomsforhold vedrørende maskinbesetningen skal innføres i dekksdagboken.)
+15. de opplysninger som er påbudt i forskrifter fastsatt av Sjøfartsdirektoratet.
 
 > Endret ved [forskrift 30 juni 2003 nr. 937](forskrift/2003-06-30-937) (i kraft 1 juli 2003, tidligere § 15).
 

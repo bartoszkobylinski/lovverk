@@ -15,7 +15,7 @@ xml_hash: "2bcc5f688aa98010cc6f77abce1fad5c915c57b7d5d1030d054b0712c91b5927"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Avtale om å overlata ting som fyrst skal tilverkast, vert rekna for kjøpeavtal
 
 ## § 2.
 
-Lova gjeld ikkjespursmål om den rettslege handle-evna,spursmål om eller kor langt ei fullmakt gjev evne til å gjera bindande kjøp eller sal og om tilsvarande evne til å vera målsmann elles i bindande kjøp eller sal,spursmål om avtaleforma,spursmål om kva verknad kjøpet har for andre enn partane (kjøpar og seljar).
+Lova gjeld ikkje
+
+1. spursmål om den rettslege handle-evna,
+2. spursmål om eller kor langt ei fullmakt gjev evne til å gjera bindande kjøp eller sal og om tilsvarande evne til å vera målsmann elles i bindande kjøp eller sal,
+3. spursmål om avtaleforma,
+4. spursmål om kva verknad kjøpet har for andre enn partane (kjøpar og seljar).
 
 ## § 3.
 

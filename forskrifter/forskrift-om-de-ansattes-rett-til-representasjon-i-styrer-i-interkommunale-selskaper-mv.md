@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.*hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.*deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.*lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
+I denne forskriften menes med
+
+1. *ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.
+2. *hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.
+3. *deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.
+4. *lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
 
 ### § 2. De ansattes rett til å bli representert i styret
 

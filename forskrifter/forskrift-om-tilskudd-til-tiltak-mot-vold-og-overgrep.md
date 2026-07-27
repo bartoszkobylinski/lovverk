@@ -15,7 +15,7 @@ xml_hash: "5af4a25be37236770c49505ea9bfb8f99ea0445c549864100009fdcf2799f9a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,14 @@ Barn og voksne som er eller har vært utsatt for vold eller overgrep, eller som 
 
 Prosjekter og organisasjoner som får tilskudd skal støtte opp under målet med tilskuddsordningen.
 
-Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet nås:Kunnskapen og kompetansen om vold i nære relasjoner er økt.Barn og voksne som er eller har vært utsatt for vold eller seksuelle overgrep, og deres pårørende, har fått økt mestringsevne og livskvalitet.Flere personer som utøver eller står i fare for å utøve vold i nære relasjoner har fått nødvendig hjelp til å finne gode alternativer til vold.Voldsutsatte med særskilte behov har fått et bedre tilbud fra krisesentrene eller sentre mot incest og seksuelle overgrep.Flere utsatte for vold og overgrep og pårørende har fått kjennskap til hjelpetilbudene.Urfolk, som samer, samt nasjonale og andre minoriteter, har fått tilbud som er språklig og kulturelt tilrettelagt.
+Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet nås:
+
+1. Kunnskapen og kompetansen om vold i nære relasjoner er økt.
+2. Barn og voksne som er eller har vært utsatt for vold eller seksuelle overgrep, og deres pårørende, har fått økt mestringsevne og livskvalitet.
+3. Flere personer som utøver eller står i fare for å utøve vold i nære relasjoner har fått nødvendig hjelp til å finne gode alternativer til vold.
+4. Voldsutsatte med særskilte behov har fått et bedre tilbud fra krisesentrene eller sentre mot incest og seksuelle overgrep.
+5. Flere utsatte for vold og overgrep og pårørende har fått kjennskap til hjelpetilbudene.
+6. Urfolk, som samer, samt nasjonale og andre minoriteter, har fått tilbud som er språklig og kulturelt tilrettelagt.
 
 Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -60,7 +67,13 @@ Det kan søkes om tilskudd for inntil tre år. Midlene utbetales for ett år av 
 
 *Driftstilskudd*
 
-Driftstilskudd blir fastsatt på bakgrunn av størrelsen på bevilgningen, og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,arbeidsplan og budsjett for tilskuddsåret,organisasjonens mulighet til å oppnå målet med ordningen (se punkt 1),målgruppe og nedslagsfelt, ogorganisasjonens størrelse og utbredelse.
+Driftstilskudd blir fastsatt på bakgrunn av størrelsen på bevilgningen, og etter en helhetlig og skjønnsmessig vurdering av:
+
+1. de søknader som er innkommet for tilskuddsåret,
+2. arbeidsplan og budsjett for tilskuddsåret,
+3. organisasjonens mulighet til å oppnå målet med ordningen (se punkt 1),
+4. målgruppe og nedslagsfelt, og
+5. organisasjonens størrelse og utbredelse.
 
 *Prosjekttilskudd*
 
@@ -70,7 +83,15 @@ Det kan gis prosjekttilskudd til tidsavgrensede satsinger og tiltak med stor san
 
 Krisesentre kan søke om midler til å videreutvikle tilbudet til særlig utsatte grupper voldsutsatte, som voldsutsatte med problematikk knyttet til rus, alvorlige psykiske lidelser eller funksjonsnedsettelse og til utvikling/tilrettelegging av krisesentertilbudet til den samiske befolkningen. Det kan bli nærmere spesifisert i den årlig utlysningen hvilke grupper som prioriteres. Søknaden må være forankret i kommunen. Eventuelle søknader som gjelder andre tiltak på krisesentrene, som tiltak for beboere eller tidligere beboere, må settes frem av frivillig organisasjon.
 
-Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen, og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte prosjektet,prosjektets mulighet til å oppnå målet med ordningen, se punkt 1,målgruppe og nedslagsfelt,prosjektets størrelse og varighet, ogegenfinansiering. Som egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for prosjektet.
+Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen, og etter en helhetlig og skjønnsmessig vurdering av:
+
+1. de søknader som er innkommet for tilskuddsåret,
+2. prosjektbeskrivelse og budsjett,
+3. kvaliteten på det planlagte prosjektet,
+4. prosjektets mulighet til å oppnå målet med ordningen, se punkt 1,
+5. målgruppe og nedslagsfelt,
+6. prosjektets størrelse og varighet, og
+7. egenfinansiering. Som egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for prosjektet.
 
 ## § 6. Bruk av tilskuddet
 
@@ -126,7 +147,16 @@ Bufdir og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter for
 
 ## § 11. Sanksjoner ved brudd på regelverket
 
-Bufdir kan kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet,mottakeren ikke bruker opp hele tilskuddet,mottakeren ikke gjennomfører prosjektet,mottakeren ikke sender inn rapport og regnskap innen fristen,rapport og regnskap ikke blir godkjent av Bufdir, ellerBufdir ved en feil utbetaler for høyt tilskudd.
+Bufdir kan kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet dersom:
+
+- mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+- mottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet,
+- mottakeren ikke bruker opp hele tilskuddet,
+- mottakeren ikke gjennomfører prosjektet,
+- mottakeren ikke sender inn rapport og regnskap innen fristen,
+- rapport og regnskap ikke blir godkjent av Bufdir, eller
+- Bufdir ved en feil utbetaler for høyt tilskudd.
 
 Også den delen av tilskuddet som organisasjonen i utgangspunktet var berettiget til kan kreves tilbake. Hvis tilskuddet ennå ikke er utbetalt, kan det holdes helt eller delvis tilbake og/eller bortfalle.
 

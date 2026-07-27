@@ -70,13 +70,25 @@ Finansdepartementet plasserer Statens fond i Tromsø (SFT) som et kapitalinnskud
 
 ### § 2-1. Referanseindeks
 
-(1) Referanseindeksen har følgende sammensetning:VINX Small Cap utbyttejustert for Folketrygdfondets skatteposisjon.Selskaper som inngår i referanseindeksen til Statens pensjonsfond Norge (SPN) skal tas ut av indeksgrunnlaget nevnt i bokstav a.Bestemmelsen i bokstav b gjelder også for andre aksjeklasser utstedt av samme selskap.Verdipapirer Folketrygdfondet ikke kan investere i, jf. [§ 2-2 første ledd bokstav a](forskrift/2024-08-12-2096/§2-2/ledd/1/bokstav/a), inngår ikke i indeksgrunnlaget nevnt i bokstav a.
+(1) Referanseindeksen har følgende sammensetning:
+
+1. VINX Small Cap utbyttejustert for Folketrygdfondets skatteposisjon.
+2. Selskaper som inngår i referanseindeksen til Statens pensjonsfond Norge (SPN) skal tas ut av indeksgrunnlaget nevnt i bokstav a.
+3. Bestemmelsen i bokstav b gjelder også for andre aksjeklasser utstedt av samme selskap.
+4. Verdipapirer Folketrygdfondet ikke kan investere i, jf. [§ 2-2 første ledd bokstav a](forskrift/2024-08-12-2096/§2-2/ledd/1/bokstav/a), inngår ikke i indeksgrunnlaget nevnt i bokstav a.
 
 (2) Verdipapirer som er utelukket i henhold til [retningslinjer for observasjon og utelukkelse av selskaper fra Statens pensjonsfond utland](forskrift/2014-12-18-1793), skal ikke inngå i referanseindeksen, jf. [§ 2-3 femte ledd](forskrift/2024-08-12-2096/§2-3/ledd/5) og [§ 7-3](forskrift/2024-08-12-2096/§7-3). Departementet fastsetter datoer for utelukkelse fra og gjeninkludering i referanseindeksen for SFT av slike verdipapirer.
 
 ### § 2-2. Tillatte instrumenter
 
-(1) Folketrygdfondet kan plassere investeringsporteføljen i finansielle instrumenter og kontantinnskudd som er godkjent i henhold til [§ 3-9](forskrift/2024-08-12-2096/§3-9), men begrenset til:Aksjer og verdipapirer som kan sidestilles med noterte aksjer, samt depotbevis for slike aksjer som er notert på regulert markedsplass i Norge, Danmark, Finland, Island eller Sverige og hvor utsteder er klassifisert av indeksleverandøren FTSE med landtilhørighet i enten Norge, Sverige, Danmark, Island eller Finland og hvor utsteder i henhold til direktiv [2004/109/EF](eu/32004l0109) (Transparency Directive) har sin hjemstat i enten Norge, Danmark, Finland, Island eller Sverige.Verdipapirer som nevnt i bokstav a i unoterte selskaper hvor styret har uttrykt en intensjon om å søke om notering på regulert markedsplass i Norge, Danmark, Finland, Island eller Sverige.Omsettelige obligasjoner og andre omsettelige gjeldsinstrumenter, samt depotbevis for slike obligasjoner, utstedt av norske, danske, finske, islandske eller svenske utstedere, dog begrenset til reinvestering av mottatt kontantsikkerhet, jf. [§ 3-7](forskrift/2024-08-12-2096/§3-7).Pengemarkedsinstrumenter.Finansielle derivater, fondsandeler og valutainstrumenter som henger naturlig sammen med aksjer og valuta.Fondsmidlene skal ikke plasseres i selskaper som inngår i referanseindeksen til SPN.
+(1) Folketrygdfondet kan plassere investeringsporteføljen i finansielle instrumenter og kontantinnskudd som er godkjent i henhold til [§ 3-9](forskrift/2024-08-12-2096/§3-9), men begrenset til:
+
+1. Aksjer og verdipapirer som kan sidestilles med noterte aksjer, samt depotbevis for slike aksjer som er notert på regulert markedsplass i Norge, Danmark, Finland, Island eller Sverige og hvor utsteder er klassifisert av indeksleverandøren FTSE med landtilhørighet i enten Norge, Sverige, Danmark, Island eller Finland og hvor utsteder i henhold til direktiv [2004/109/EF](eu/32004l0109) (Transparency Directive) har sin hjemstat i enten Norge, Danmark, Finland, Island eller Sverige.
+2. Verdipapirer som nevnt i bokstav a i unoterte selskaper hvor styret har uttrykt en intensjon om å søke om notering på regulert markedsplass i Norge, Danmark, Finland, Island eller Sverige.
+3. Omsettelige obligasjoner og andre omsettelige gjeldsinstrumenter, samt depotbevis for slike obligasjoner, utstedt av norske, danske, finske, islandske eller svenske utstedere, dog begrenset til reinvestering av mottatt kontantsikkerhet, jf. [§ 3-7](forskrift/2024-08-12-2096/§3-7).
+4. Pengemarkedsinstrumenter.
+5. Finansielle derivater, fondsandeler og valutainstrumenter som henger naturlig sammen med aksjer og valuta.
+6. Fondsmidlene skal ikke plasseres i selskaper som inngår i referanseindeksen til SPN.
 
 (2) Dersom Folketrygdfondet blir eier av finansielle instrumenter som ikke er omfattet av første ledd bokstav a til e, skal Folketrygdfondet selge slike finansielle instrumenter omgående. Unntatt fra første punktum er unoterte instrumenter som tilfaller porteføljen som følge av at en planlagt notering ikke gjennomføres, jf. [§ 2-2 første ledd bokstav b](forskrift/2024-08-12-2096/§2-2/ledd/1/bokstav/b), eller på grunn av selskapshendelser, jf. [§ 3-11 annet ledd](forskrift/2024-08-12-2096/§3-11/ledd/2).
 
@@ -88,7 +100,14 @@ Finansdepartementet plasserer Statens fond i Tromsø (SFT) som et kapitalinnskud
 
 (1) Folketrygdfondet skal legge opp forvaltningen med sikte på at det annualiserte standardavviket til differanseavkastningen mellom investeringsporteføljen, jf. [§ 1-2 fjerde ledd](forskrift/2024-08-12-2096/§1-2/ledd/4), og referanseindeksen på ex ante basis (forventet relativ volatilitet) ikke overstiger 5 prosentenheter. Folketrygdfondet fastsetter en metode for beregning av forventet relativ volatilitet som må godkjennes av departementet.
 
-(2) Styret skal fastsette supplerende risikorammer for forvaltningen for å fange opp risiko som erfaringsmessig ikke fanges godt opp av forventet relativ volatilitet, jf. første ledd ovenfor, herunder:Rammer for minste sammenfall mellom investeringsporteføljen og referanseindeks.Rammer for likviditetsrisiko.Rammer for motpartseksponering. Rammene skal inkludere grenser for minimum kredittvurdering til motparter for usikrede innskudd, ikke-børsnoterte derivathandler og andre typer kontrakter som påfører Folketrygdfondet motpartsrisiko.Rammer for belåning, herunder rammer for bruttoeksponering. Belåning kan benyttes med sikte på gjennomføring av forvalteroppdraget på en effektiv måte, men ikke med sikte på å øke SFTs økonomiske eksponering mot risikable aktiva.Rammer for reinvestering av mottatt kontantsikkerhet. Reinvestering skal ikke gjøres med sikte på å øke SFTs økonomiske eksponering mot risikable aktiva.En ramme for store forventede negative avvik mellom avkastningen av investeringsporteføljen og den faktiske referanseindeksen (forventet ekstremavviksrisiko).
+(2) Styret skal fastsette supplerende risikorammer for forvaltningen for å fange opp risiko som erfaringsmessig ikke fanges godt opp av forventet relativ volatilitet, jf. første ledd ovenfor, herunder:
+
+1. Rammer for minste sammenfall mellom investeringsporteføljen og referanseindeks.
+2. Rammer for likviditetsrisiko.
+3. Rammer for motpartseksponering. Rammene skal inkludere grenser for minimum kredittvurdering til motparter for usikrede innskudd, ikke-børsnoterte derivathandler og andre typer kontrakter som påfører Folketrygdfondet motpartsrisiko.
+4. Rammer for belåning, herunder rammer for bruttoeksponering. Belåning kan benyttes med sikte på gjennomføring av forvalteroppdraget på en effektiv måte, men ikke med sikte på å øke SFTs økonomiske eksponering mot risikable aktiva.
+5. Rammer for reinvestering av mottatt kontantsikkerhet. Reinvestering skal ikke gjøres med sikte på å øke SFTs økonomiske eksponering mot risikable aktiva.
+6. En ramme for store forventede negative avvik mellom avkastningen av investeringsporteføljen og den faktiske referanseindeksen (forventet ekstremavviksrisiko).
 
 (3) Rammene nevnt i annet ledd skal legges frem for departementet minst tre uker før planlagt ikrafttredelse. Senere utvidelser av rammene skal legges frem for departementet minst tre uker før planlagt ikrafttredelse, med mindre særlige forhold tilsier kortere frist.
 
@@ -208,11 +227,28 @@ Folketrygdfondet skal fastsette retningslinjer for reinvestering av mottatt kont
 
 ### § 6-2. Rapporteringskrav
 
-(1) Folketrygdfondet skal regelmessig og minst hvert tredje år rapportere om valg av investeringsstrategier for forvaltningen fastsatt av styret (strategirapportering), jf. [§ 1-4](forskrift/2024-08-12-2096/§1-4). Det skal redegjøres særskilt for:Overordnede prinsipper for valg av strategier, avkastnings- og risikoegenskaper ved strategiene og hvordan strategiene tar sikte på å utnytte fondets særtrekk og Folketrygdfondets fortrinn i kapitalforvaltningen.Ulike investeringsstrategier innenfor forvaltningen som kan påvirke markedsrisiko og ekstremavviksrisiko i investeringsporteføljen.Rammeverk for styring og kontroll av risiko.Organiseringen av kapitalforvaltningen, herunder bruk av eksterne forvaltere.
+(1) Folketrygdfondet skal regelmessig og minst hvert tredje år rapportere om valg av investeringsstrategier for forvaltningen fastsatt av styret (strategirapportering), jf. [§ 1-4](forskrift/2024-08-12-2096/§1-4). Det skal redegjøres særskilt for:
 
-(2) Folketrygdfondet skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):Verdiutvikling, resultater og risiko i investeringsporteføljen og i tilhørende referanseindekser.Sammensetningen av differanseavkastningen for investeringsporteføljen.Utnyttelsen av rammene gitt i dette mandatet.Halvårsrapporteringen skal videre inneholde utdrag av de deler av Folketrygdfondets regnskap som vedrører forvaltningen av investeringsporteføljen, fastsatt i henhold til de til enhver tid gjeldende regnskapsbestemmelser for Folketrygdfondet.
+1. Overordnede prinsipper for valg av strategier, avkastnings- og risikoegenskaper ved strategiene og hvordan strategiene tar sikte på å utnytte fondets særtrekk og Folketrygdfondets fortrinn i kapitalforvaltningen.
+2. Ulike investeringsstrategier innenfor forvaltningen som kan påvirke markedsrisiko og ekstremavviksrisiko i investeringsporteføljen.
+3. Rammeverk for styring og kontroll av risiko.
+4. Organiseringen av kapitalforvaltningen, herunder bruk av eksterne forvaltere.
 
-(3) I tillegg til krav i [§ 6-2 annet ledd](forskrift/2024-08-12-2096/§6-2/ledd/2) skal Folketrygdfondet årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):Resultater av ulike investeringsstrategier innenfor forvaltningen, herunder andel av differanseavkastningen og utnyttelsen av rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. Med ulike investeringsstrategier menes investeringsstrategier som vektlegges i utnyttelsen av enkeltrammer, bl.a. rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader.Styrets vurderinger av resultatene.Forholdet mellom avkastning og risiko i investeringsporteføljen og i tilhørende referanseindeks. Folketrygdfondet skal benytte flere metoder og måltall for å rapportere risikojustert avkastning.Inntekter fra verdipapirutlån, interne og eksterne forvaltningskostnader og anslag på transaksjonskostnader for investeringsporteføljen uttrykt som andel av forvaltet kapital.Arbeidet med ansvarlig forvaltning, jf. [kapittel 4](forskrift/2024-08-12-2096/kap4), herunder bruken av virkemidler og virkningen av eierskapsarbeidet, samt hvordan prinsippene for ansvarlig forvaltning er integrert i forvaltningen.
+(2) Folketrygdfondet skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):
+
+1. Verdiutvikling, resultater og risiko i investeringsporteføljen og i tilhørende referanseindekser.
+2. Sammensetningen av differanseavkastningen for investeringsporteføljen.
+3. Utnyttelsen av rammene gitt i dette mandatet.
+
+Halvårsrapporteringen skal videre inneholde utdrag av de deler av Folketrygdfondets regnskap som vedrører forvaltningen av investeringsporteføljen, fastsatt i henhold til de til enhver tid gjeldende regnskapsbestemmelser for Folketrygdfondet.
+
+(3) I tillegg til krav i [§ 6-2 annet ledd](forskrift/2024-08-12-2096/§6-2/ledd/2) skal Folketrygdfondet årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):
+
+1. Resultater av ulike investeringsstrategier innenfor forvaltningen, herunder andel av differanseavkastningen og utnyttelsen av rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader. Med ulike investeringsstrategier menes investeringsstrategier som vektlegges i utnyttelsen av enkeltrammer, bl.a. rammen for forventet relativ volatilitet, ekstremavviksrisiko og forvaltningskostnader.
+2. Styrets vurderinger av resultatene.
+3. Forholdet mellom avkastning og risiko i investeringsporteføljen og i tilhørende referanseindeks. Folketrygdfondet skal benytte flere metoder og måltall for å rapportere risikojustert avkastning.
+4. Inntekter fra verdipapirutlån, interne og eksterne forvaltningskostnader og anslag på transaksjonskostnader for investeringsporteføljen uttrykt som andel av forvaltet kapital.
+5. Arbeidet med ansvarlig forvaltning, jf. [kapittel 4](forskrift/2024-08-12-2096/kap4), herunder bruken av virkemidler og virkningen av eierskapsarbeidet, samt hvordan prinsippene for ansvarlig forvaltning er integrert i forvaltningen.
 
 (4) I forbindelse med halvårs- og årsrapporteringen skal Folketrygdfondet gi en oversikt over utelukkelser og gjeninkluderinger, jf. [§ 2-1 annet ledd](forskrift/2024-08-12-2096/§2-1/ledd/2) og [§ 2-3 femte ledd](forskrift/2024-08-12-2096/§2-3/ledd/5).
 

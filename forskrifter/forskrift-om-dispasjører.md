@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Hvem som kan oppnevnes som dispasjør
 
-Som dispasjør etter [sjøloven § 467](lov/1994-06-24-39/§467), jf. [§ 462 annet](lov/1994-06-24-39/§462/ledd/2) og [tredje ledd](lov/1994-06-24-39/§462/ledd/3), kan oppnevnes den somhar eksamen som dokumenterer nødvendig kunnskap om norsk retthar eksamen som dokumenterer inngående kjennskap til de norske reglene om felleshavari og sjøforsikring og til de øvrige delene av norsk sjørett som er av betydning for havarioppgjør, og som dokumenterer kjennskap til hovedtrekkene i de tilsvarende delene av engelsk rettkan dokumentere tilfredsstillende kunnskaper i engelsk språkkan dokumentere to års praksis hos dispasjør.
+Som dispasjør etter [sjøloven § 467](lov/1994-06-24-39/§467), jf. [§ 462 annet](lov/1994-06-24-39/§462/ledd/2) og [tredje ledd](lov/1994-06-24-39/§462/ledd/3), kan oppnevnes den som
+
+1. har eksamen som dokumenterer nødvendig kunnskap om norsk rett
+2. har eksamen som dokumenterer inngående kjennskap til de norske reglene om felleshavari og sjøforsikring og til de øvrige delene av norsk sjørett som er av betydning for havarioppgjør, og som dokumenterer kjennskap til hovedtrekkene i de tilsvarende delene av engelsk rett
+3. kan dokumentere tilfredsstillende kunnskaper i engelsk språk
+4. kan dokumentere to års praksis hos dispasjør.
 
 Kravet om praksis etter første ledd bokstav d kan fravikes i særskilte tilfeller når søkeren på annen måte har godtgjort å ha nødvendig praktisk ferdighet i havarioppgjør.
 

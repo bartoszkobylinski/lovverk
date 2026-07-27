@@ -15,7 +15,7 @@ xml_hash: "2d13ebbaf2be5f534065760a016eac6e2bd2e6596e424d282f443f9be530c799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,9 +42,24 @@ eu_basis: []
 
 ### § 1-3. Hvem forskriften gjelder for
 
-(1) Forskriften gjelder for følgende oppdragsgivere:statlige myndigheterfylkeskommunale og kommunale myndigheteroffentligrettslige organersammenslutninger med en eller flere oppdragsgivere som nevnt i bokstav a til coffentlige foretak som definert i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) tredje leddandre virksomheter som utøver forsyningsaktivitet på grunnlag av en enerett eller særrett som definert i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) fjerde ledd.
+(1) Forskriften gjelder for følgende oppdragsgivere:
 
-(2) Et offentligrettslig organ er et organ somer opprettet for å tjene allmennhetens behov og ikke er av industriell eller forretningsmessig karakter,er et selvstendig rettssubjekt oghar tilknytning til det offentlige ved atorganet hovedsakelig er finansiert av offentlige myndigheter eller andre offentligrettslige organer,organets forvaltning er underlagt slike myndigheters eller organers ledelsesmessige kontroll ellerorganet har et administrasjons-, ledelses- eller kontrollorgan der over halvparten av medlemmene er oppnevnt av slike myndigheter eller organer.
+1. statlige myndigheter
+2. fylkeskommunale og kommunale myndigheter
+3. offentligrettslige organer
+4. sammenslutninger med en eller flere oppdragsgivere som nevnt i bokstav a til c
+5. offentlige foretak som definert i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) tredje ledd
+6. andre virksomheter som utøver forsyningsaktivitet på grunnlag av en enerett eller særrett som definert i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) fjerde ledd.
+
+(2) Et offentligrettslig organ er et organ som
+
+1. er opprettet for å tjene allmennhetens behov og ikke er av industriell eller forretningsmessig karakter,
+2. er et selvstendig rettssubjekt og
+3. har tilknytning til det offentlige ved at
+
+   1. organet hovedsakelig er finansiert av offentlige myndigheter eller andre offentligrettslige organer,
+   2. organets forvaltning er underlagt slike myndigheters eller organers ledelsesmessige kontroll eller
+   3. organet har et administrasjons-, ledelses- eller kontrollorgan der over halvparten av medlemmene er oppnevnt av slike myndigheter eller organer.
 
 ### Kapittel 2. Unntak
 
@@ -54,25 +69,61 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som oppdr
 
 ### § 2-2. Unntak for konsesjonskontrakter som er omfattet av internasjonale regler
 
-(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som oppdragsgiverener forpliktet til å inngå etter anskaffelsesreglenei en internasjonal avtale med offentlige myndigheter utenfor EØS-området, og som omfatter ytelser som er beregnet på et felles prosjekt som avtalepartene gjennomfører eller utnytter,i en internasjonal avtale i forbindelse med stasjonering av tropper ellersom er fastsatt av en internasjonal organisasjon, ellervelger å inngå etter anskaffelsesregler som er fastsatt av en internasjonal organisasjon eller finansieringsinstitusjon, forutsatt at organisasjonen eller institusjonen fullt ut finansierer anskaffelsen. Dersom en slik organisasjon eller institusjon finansierer hoveddelen av anskaffelsen, skal partene avtale hvilke regler som skal gjelde.
+(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som oppdragsgiveren
+
+1. er forpliktet til å inngå etter anskaffelsesreglene
+
+   1. i en internasjonal avtale med offentlige myndigheter utenfor EØS-området, og som omfatter ytelser som er beregnet på et felles prosjekt som avtalepartene gjennomfører eller utnytter,
+   2. i en internasjonal avtale i forbindelse med stasjonering av tropper eller
+   3. som er fastsatt av en internasjonal organisasjon, eller
+2. velger å inngå etter anskaffelsesregler som er fastsatt av en internasjonal organisasjon eller finansieringsinstitusjon, forutsatt at organisasjonen eller institusjonen fullt ut finansierer anskaffelsen. Dersom en slik organisasjon eller institusjon finansierer hoveddelen av anskaffelsen, skal partene avtale hvilke regler som skal gjelde.
 
 (2) Oppdragsgiveren skal underrette departementet om internasjonale avtaler som nevnt i første ledd bokstav a nr. 1.
 
-(3) Første ledd gjelder ikke for konsesjonskontrakter på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første ledd. Anskaffelsesloven og forskriften gjelder ikke for slike konsesjonskontrakter dersom de er omfattet av anskaffelsesreglenei en internasjonal avtale mellom en eller flere EØS-stater og en eller flere stater som ikke er part i EØS-avtalen,i en internasjonal avtale i forbindelse med stasjonering av tropper ellersom er fastsatt av en internasjonal organisasjon, og som oppdragsgiveren er forpliktet til følge, eller konsesjonskontrakter som organisasjonen selv inngår.
+(3) Første ledd gjelder ikke for konsesjonskontrakter på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første ledd. Anskaffelsesloven og forskriften gjelder ikke for slike konsesjonskontrakter dersom de er omfattet av anskaffelsesreglene
+
+1. i en internasjonal avtale mellom en eller flere EØS-stater og en eller flere stater som ikke er part i EØS-avtalen,
+2. i en internasjonal avtale i forbindelse med stasjonering av tropper eller
+3. som er fastsatt av en internasjonal organisasjon, og som oppdragsgiveren er forpliktet til følge, eller konsesjonskontrakter som organisasjonen selv inngår.
 
 ### § 2-3. Unntak for tjenestekonsesjonskontrakter som inngås på grunnlag av en enerett
 
-Anskaffelsesloven og forskriften gjelder ikke for tjenestekonsesjonskontrakter som oppdragsgiveren inngår meden oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d som har en enerett til å utføre tjenesten, ellerleverandører som har en enerett til å utføre tjenesten. Dette gjelder bare når eneretten er tildelt i samsvar med EØS-regler om adgang til å utøve forsyningsaktiviteter. Dersom reglene ikke fastsetter krav til gjennomsiktighet, skal oppdragsgiveren kunngjøre kontraktsinngåelsen etter [§ 9-4](forskrift/2016-08-12-976/§9-4).
+Anskaffelsesloven og forskriften gjelder ikke for tjenestekonsesjonskontrakter som oppdragsgiveren inngår med
+
+1. en oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d som har en enerett til å utføre tjenesten, eller
+2. leverandører som har en enerett til å utføre tjenesten. Dette gjelder bare når eneretten er tildelt i samsvar med EØS-regler om adgang til å utøve forsyningsaktiviteter. Dersom reglene ikke fastsetter krav til gjennomsiktighet, skal oppdragsgiveren kunngjøre kontraktsinngåelsen etter [§ 9-4](forskrift/2016-08-12-976/§9-4).
 
 ### § 2-4. Unntak for visse tjenestekonsesjonskontrakter
 
-Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter omerverv eller leie av jord, eksisterende bygninger eller annen fast eiendom, eller om rettigheter til slik eiendomanskaffelse, utvikling, produksjon eller samproduksjon av programmateriale som er beregnet på kringkasting eller audiovisuelle bestillingstjenester, og som en kringkaster eller tjenestetilbyder inngår, eller konsesjonskontrakter om sendetider eller programtilbud som oppdragsgiveren inngår med en kringkaster eller tjenestetilbydervoldgifts- og meklingstjenesterfølgende juridiske tjenester:representasjon ved advokat i tvistesaker for nasjonale eller internasjonale domstoler, nemnder, offentlige myndigheter eller institusjoner, eller ved nasjonal eller internasjonal voldgift eller meklingjuridisk rådgivning ved advokat til forberedelse av en sak som nevnt i nr. 1 eller der det er klar sannsynlighetsovervekt for at spørsmålene rådgivningen gjelder, vil bli gjenstand for en slik saknotarialforretningertjenester som blir utført av en formuesforvalter, verge eller annen person som er oppnevnt av en domstol eller nemnd eller ved lov til å utføre bestemte oppgaver under tilsyn fra en domstol eller nemndfølgende finansielle tjenester:låntjenester i forbindelse med emisjon, salg, kjøp eller annen overdragelse av verdipapirer eller andre finansielle instrumentersentralbanktjenesterprosjekter som oppdragsgiveren utfører sammen med European Financial Stability Facility eller European Stability Mechanismsivilforsvars-, beredskaps- eller forebyggingstjenester som oppdragsgiveren inngår med ideelle organisasjoner, og som er omfattet av CPV-kodene 75250000 (brannvesen og redningstjenester), 75251000 (tjenester utført av brannvesenet), 75251100 (brannbekjempelse), 75251110 (brannforebygging), 75251120 (bekjempelse av skogbranner), 75252000 (redningstjenester), 75222000 (sivilforsvarstjenester), 98113100 (kjernefysiske sikkerhetstjenester) eller 85143000 (ambulansetjenester) med unntak av pasienttransport med ambulanselotteritjenester som er omfattet av CPV-kode 92351100 (drift av lotteri), og som oppdragsgiveren inngår med en leverandør som har en enerett som er kunngjort i Den Europeiske Unions Tidendetjenester som innebærer utøvelse av offentlig myndighet som er unntatt EØS-avtalen etter [artikkel 39](lov/1992-11-27-109/eøsl/a39), jf. [artikkel 32](lov/1992-11-27-109/eøsl/a32).
+Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter om
+
+1. erverv eller leie av jord, eksisterende bygninger eller annen fast eiendom, eller om rettigheter til slik eiendom
+2. anskaffelse, utvikling, produksjon eller samproduksjon av programmateriale som er beregnet på kringkasting eller audiovisuelle bestillingstjenester, og som en kringkaster eller tjenestetilbyder inngår, eller konsesjonskontrakter om sendetider eller programtilbud som oppdragsgiveren inngår med en kringkaster eller tjenestetilbyder
+3. voldgifts- og meklingstjenester
+4. følgende juridiske tjenester:
+
+   1. representasjon ved advokat i tvistesaker for nasjonale eller internasjonale domstoler, nemnder, offentlige myndigheter eller institusjoner, eller ved nasjonal eller internasjonal voldgift eller mekling
+   2. juridisk rådgivning ved advokat til forberedelse av en sak som nevnt i nr. 1 eller der det er klar sannsynlighetsovervekt for at spørsmålene rådgivningen gjelder, vil bli gjenstand for en slik sak
+   3. notarialforretninger
+   4. tjenester som blir utført av en formuesforvalter, verge eller annen person som er oppnevnt av en domstol eller nemnd eller ved lov til å utføre bestemte oppgaver under tilsyn fra en domstol eller nemnd
+5. følgende finansielle tjenester:
+
+   1. lån
+   2. tjenester i forbindelse med emisjon, salg, kjøp eller annen overdragelse av verdipapirer eller andre finansielle instrumenter
+   3. sentralbanktjenester
+   4. prosjekter som oppdragsgiveren utfører sammen med European Financial Stability Facility eller European Stability Mechanism
+6. sivilforsvars-, beredskaps- eller forebyggingstjenester som oppdragsgiveren inngår med ideelle organisasjoner, og som er omfattet av CPV-kodene 75250000 (brannvesen og redningstjenester), 75251000 (tjenester utført av brannvesenet), 75251100 (brannbekjempelse), 75251110 (brannforebygging), 75251120 (bekjempelse av skogbranner), 75252000 (redningstjenester), 75222000 (sivilforsvarstjenester), 98113100 (kjernefysiske sikkerhetstjenester) eller 85143000 (ambulansetjenester) med unntak av pasienttransport med ambulanse
+7. lotteritjenester som er omfattet av CPV-kode 92351100 (drift av lotteri), og som oppdragsgiveren inngår med en leverandør som har en enerett som er kunngjort i Den Europeiske Unions Tidende
+8. tjenester som innebærer utøvelse av offentlig myndighet som er unntatt EØS-avtalen etter [artikkel 39](lov/1992-11-27-109/eøsl/a39), jf. [artikkel 32](lov/1992-11-27-109/eøsl/a32).
 
 ### § 2-5. Unntak for konsesjonskontrakter om forsknings- og utviklingstjenester
 
 (1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter om forsknings- og utviklingstjenester.
 
-(2) Anskaffelsesloven og forskriften gjelder likevel for konsesjonskontrakter som er omfattet av CPV-kodene 73000000 (forsknings- og utviklingsvirksomhet og tilhørende konsulenttjenester), 73100000 (forskning og eksperimentell utvikling), 73110000 (forskning), 73111000 (forskningslaboratorietjenester), 73112000 (havforskning), 73120000 (eksperimentell utvikling), 73300000 (planleggingsarbeid og utførelse av forskning og utvikling), 73420000 (tidlig gjennomførlighetsundersøkelse og teknologisk demonstrasjon) eller 73430000 (test og evaluering), nårutbyttet fullt ut tilfaller oppdragsgiveren til bruk i sin virksomhet, ogoppdragsgiveren fullt ut betaler for tjenesten.
+(2) Anskaffelsesloven og forskriften gjelder likevel for konsesjonskontrakter som er omfattet av CPV-kodene 73000000 (forsknings- og utviklingsvirksomhet og tilhørende konsulenttjenester), 73100000 (forskning og eksperimentell utvikling), 73110000 (forskning), 73111000 (forskningslaboratorietjenester), 73112000 (havforskning), 73120000 (eksperimentell utvikling), 73300000 (planleggingsarbeid og utførelse av forskning og utvikling), 73420000 (tidlig gjennomførlighetsundersøkelse og teknologisk demonstrasjon) eller 73430000 (test og evaluering), når
+
+1. utbyttet fullt ut tilfaller oppdragsgiveren til bruk i sin virksomhet, og
+2. oppdragsgiveren fullt ut betaler for tjenesten.
 
 ### § 2-6. Unntak for konsesjonskontrakter knyttet til utøvelsen av aktiviteter i tredjeland
 
@@ -86,7 +137,13 @@ Anskaffelsesloven og forskriften gjelder ikke dersom anvendelsen av disse vil fo
 
 ### § 2-8. Unntak for konsesjonskontrakter på forsvars- og sikkerhetsområdet
 
-Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første leddsom oppdragsgiveren kan unnta etter EØS-avtalen artikkel 123,som er erklært hemmelige eller bare kan utføres under særlige sikkerhetstiltak i henhold til lov, forskrift eller forvaltningsvedtak, og de aktuelle vesentlige interessene ikke kan sikres gjennom mindre inngripende tiltak,som oppdragsgiveren inngår som ledd i et samarbeidsprosjekt som nevnt i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) annet ledd bokstav c,som en stat inngår med en annen stat ellersom gjelder innkjøp til tropper som er stasjonert utenfor EØS-området, og som det er nødvendig for oppdragsgiveren å inngå med lokale leverandører på grunn av operasjonelle behov.
+Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første ledd
+
+1. som oppdragsgiveren kan unnta etter EØS-avtalen artikkel 123,
+2. som er erklært hemmelige eller bare kan utføres under særlige sikkerhetstiltak i henhold til lov, forskrift eller forvaltningsvedtak, og de aktuelle vesentlige interessene ikke kan sikres gjennom mindre inngripende tiltak,
+3. som oppdragsgiveren inngår som ledd i et samarbeidsprosjekt som nevnt i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) annet ledd bokstav c,
+4. som en stat inngår med en annen stat eller
+5. som gjelder innkjøp til tropper som er stasjonert utenfor EØS-området, og som det er nødvendig for oppdragsgiveren å inngå med lokale leverandører på grunn av operasjonelle behov.
 
 ### § 2-9. Unntak for konsesjonskontrakter om elektronisk kommunikasjon
 
@@ -100,7 +157,12 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som hoved
 
 ### § 2-11. Unntak for visse konsesjonskontrakter som tildeles av oppdragsgivere som leverer posttjenester
 
-Anskaffelsesloven og forskriften gjelder ikke når en oppdragsgiver som leverer posttjenester som definert i [forsyningsforskriften § 1-8](forskrift/2016-08-12-975/§1-8) annet ledd bokstav a, inngår konsesjonskontrakter knyttet til utøvelsen av følgende aktiviteter:tilleggstjenester som har forbindelse med og utelukkende utføres med elektroniske verktøy, inkludert sikker elektronisk overføring av kodede dokumenter, adresseforvaltningstjenester og overføring av rekommandert elektronisk postfinansielle tjenester som er omfattet av CPV-kodene 66100000 (formidlingstjenester i forbindelse med bankvesen og investeringer) til 66720000 (reforsikring av ulykkes- og sykeforsikringer) eller [§ 2-4](forskrift/2016-08-12-976/§2-4) bokstav e nr. 2 og 4, inkludert postanvisninger og postgirooverføringerfilatelitjenesterlogistikktjenester som kombinerer fysisk levering eller lagring med funksjoner som ikke omfatter posttjenester.
+Anskaffelsesloven og forskriften gjelder ikke når en oppdragsgiver som leverer posttjenester som definert i [forsyningsforskriften § 1-8](forskrift/2016-08-12-975/§1-8) annet ledd bokstav a, inngår konsesjonskontrakter knyttet til utøvelsen av følgende aktiviteter:
+
+1. tilleggstjenester som har forbindelse med og utelukkende utføres med elektroniske verktøy, inkludert sikker elektronisk overføring av kodede dokumenter, adresseforvaltningstjenester og overføring av rekommandert elektronisk post
+2. finansielle tjenester som er omfattet av CPV-kodene 66100000 (formidlingstjenester i forbindelse med bankvesen og investeringer) til 66720000 (reforsikring av ulykkes- og sykeforsikringer) eller [§ 2-4](forskrift/2016-08-12-976/§2-4) bokstav e nr. 2 og 4, inkludert postanvisninger og postgirooverføringer
+3. filatelitjenester
+4. logistikktjenester som kombinerer fysisk levering eller lagring med funksjoner som ikke omfatter posttjenester.
 
 ### § 2-12. Fritak for liberaliserte sektorer
 
@@ -110,21 +172,42 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter knyttet t
 
 ### § 3-1. Utvidet egenregi
 
-(1) Anskaffelsesloven og forskriften gjelder ikke ved utvidet egenregi, det vil si når en oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d inngår konsesjonskontrakter med et annet rettssubjektsom oppdragsgiveren utøver en kontroll over som svarer til den kontrollen han utøver over sin egen virksomhet,som utfører mer enn 80 prosent av sin aktivitet for oppdragsgiveren eller andre rettssubjekter som oppdragsgiveren kontrollerer, ogsom det ikke er direkte private eierandeler i.
+(1) Anskaffelsesloven og forskriften gjelder ikke ved utvidet egenregi, det vil si når en oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d inngår konsesjonskontrakter med et annet rettssubjekt
+
+1. som oppdragsgiveren utøver en kontroll over som svarer til den kontrollen han utøver over sin egen virksomhet,
+2. som utfører mer enn 80 prosent av sin aktivitet for oppdragsgiveren eller andre rettssubjekter som oppdragsgiveren kontrollerer, og
+3. som det ikke er direkte private eierandeler i.
 
 (2) Kravet til kontroll i første ledd bokstav a er oppfylt når oppdragsgiveren utøver bestemmende innflytelse over både strategiske mål og viktige beslutninger i det kontrollerte rettssubjektet. Slik kontroll kan også utøves gjennom andre rettssubjekter som oppdragsgiveren kontrollerer på samme måte.
 
-(3) Når vilkårene i første ledd er oppfylt, gjelder anskaffelsesloven og forskriften heller ikke når det kontrollerte rettssubjektet inngår konsesjonskontrakter meddet kontrollerende rettssubjektet, ellerandre rettssubjekter som det kontrollerende rettssubjektet kontrollerer.Dette gjelder bare når det ikke er direkte private eierandeler i rettssubjektene som angitt i bokstav a og b.
+(3) Når vilkårene i første ledd er oppfylt, gjelder anskaffelsesloven og forskriften heller ikke når det kontrollerte rettssubjektet inngår konsesjonskontrakter med
+
+1. det kontrollerende rettssubjektet, eller
+2. andre rettssubjekter som det kontrollerende rettssubjektet kontrollerer.
+
+Dette gjelder bare når det ikke er direkte private eierandeler i rettssubjektene som angitt i bokstav a og b.
 
 ### § 3-2. Felles kontroll
 
-(1) Selv om en oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d ikke alene oppfyller vilkårene i [§ 3-1](forskrift/2016-08-12-976/§3-1) første ledd, gjelder anskaffelsesloven og forskriften heller ikke når han inngår konsesjonskontrakter med et annet rettssubjektsom oppdragsgiveren og andre oppdragsgivere i fellesskap utøver en kontroll over som svarer til den kontrollen de utøver over sin egen virksomhet,som utfører mer enn 80 prosent av sin aktivitet for de kontrollerende oppdragsgiverne eller andre rettssubjekter som oppdragsgiverne kontrollerer ogsom det ikke er direkte private eierandeler i.
+(1) Selv om en oppdragsgiver som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d ikke alene oppfyller vilkårene i [§ 3-1](forskrift/2016-08-12-976/§3-1) første ledd, gjelder anskaffelsesloven og forskriften heller ikke når han inngår konsesjonskontrakter med et annet rettssubjekt
 
-(2) Kravet til felles kontroll i første ledd bokstav a er oppfylt nårdet kontrollerte rettssubjektets styrende organer er sammensatt av representanter for alle de kontrollerende oppdragsgiverne. En representant kan representere flere av eller alle oppdragsgiverne;de kontrollerende oppdragsgiverne i fellesskap utøver bestemmende innflytelse over både strategiske mål og viktige beslutninger i det kontrollerte rettssubjektet; ogdet kontrollerte rettssubjektet ikke forfølger interesser som er i strid med de kontrollerende oppdragsgivernes interesser.
+1. som oppdragsgiveren og andre oppdragsgivere i fellesskap utøver en kontroll over som svarer til den kontrollen de utøver over sin egen virksomhet,
+2. som utfører mer enn 80 prosent av sin aktivitet for de kontrollerende oppdragsgiverne eller andre rettssubjekter som oppdragsgiverne kontrollerer og
+3. som det ikke er direkte private eierandeler i.
+
+(2) Kravet til felles kontroll i første ledd bokstav a er oppfylt når
+
+1. det kontrollerte rettssubjektets styrende organer er sammensatt av representanter for alle de kontrollerende oppdragsgiverne. En representant kan representere flere av eller alle oppdragsgiverne;
+2. de kontrollerende oppdragsgiverne i fellesskap utøver bestemmende innflytelse over både strategiske mål og viktige beslutninger i det kontrollerte rettssubjektet; og
+3. det kontrollerte rettssubjektet ikke forfølger interesser som er i strid med de kontrollerende oppdragsgivernes interesser.
 
 ### § 3-3. Samarbeidsavtaler
 
-Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som inngås utelukkende mellom to eller flere oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d, og som etablerer eller gjennomfører et samarbeidsom har til formål å sikre at offentlige oppgaver blir utført for å oppnå et felles mål,som blir utført utelukkende av hensyn til offentlige interesser, ogder mindre enn 20 prosent av aktivitetene som samarbeidet omfatter, blir utført for andre enn oppdragsgiverne.
+Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som inngås utelukkende mellom to eller flere oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d, og som etablerer eller gjennomfører et samarbeid
+
+1. som har til formål å sikre at offentlige oppgaver blir utført for å oppnå et felles mål,
+2. som blir utført utelukkende av hensyn til offentlige interesser, og
+3. der mindre enn 20 prosent av aktivitetene som samarbeidet omfatter, blir utført for andre enn oppdragsgiverne.
 
 ### § 3-4. Beregning av aktivitet
 
@@ -134,9 +217,19 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som inng�
 
 ### § 3-5. Kontrakter med foretak i samme gruppe
 
-(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontraktersom en oppdragsgiver som utøver forsyningsaktiviteter, inngår med et foretak i samme gruppe, ellersom et fellesforetak som er sammensatt utelukkende av slike oppdragsgivere for å utøve forsyningsaktiviteter, inngår med et foretak i samme gruppe som en av disse oppdragsgiverne.
+(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter
 
-(2) Et foretak i samme gruppe er et foretaksom har årsregnskaper som er konsolidert med oppdragsgiverens årsregnskaper i samsvar med regnskapsloven,som oppdragsgiveren direkte eller indirekte kan utøve avgjørende innflytelse over,som kan utøve avgjørende innflytelse over oppdragsgiveren ellersom sammen med oppdragsgiveren er under avgjørende innflytelse fra et annet foretak i kraft av eierskap, annen økonomisk deltakelse eller reglene for virksomheten.Begrepet avgjørende innflytelse har samme betydning som i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) tredje ledd.
+1. som en oppdragsgiver som utøver forsyningsaktiviteter, inngår med et foretak i samme gruppe, eller
+2. som et fellesforetak som er sammensatt utelukkende av slike oppdragsgivere for å utøve forsyningsaktiviteter, inngår med et foretak i samme gruppe som en av disse oppdragsgiverne.
+
+(2) Et foretak i samme gruppe er et foretak
+
+1. som har årsregnskaper som er konsolidert med oppdragsgiverens årsregnskaper i samsvar med regnskapsloven,
+2. som oppdragsgiveren direkte eller indirekte kan utøve avgjørende innflytelse over,
+3. som kan utøve avgjørende innflytelse over oppdragsgiveren eller
+4. som sammen med oppdragsgiveren er under avgjørende innflytelse fra et annet foretak i kraft av eierskap, annen økonomisk deltakelse eller reglene for virksomheten.
+
+Begrepet avgjørende innflytelse har samme betydning som i [forsyningsforskriften § 1-2](forskrift/2016-08-12-975/§1-2) tredje ledd.
 
 (3) Første ledd gjelder bare når minst 80 prosent av foretakets gjennomsnittlige omsetning av enten tjenester eller bygge- og anleggsarbeider skriver seg fra henholdsvis tjeneste- eller bygge- og anleggskontrakter som er utført for oppdragsgiveren eller andre foretak i gruppen.
 
@@ -146,7 +239,10 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som inng�
 
 ### § 3-6. Kontrakter som tildeles av eller til et fellesforetak
 
-(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontraktersom et fellesforetak som utøver forsyningsaktivitet, inngår med en eller flere av oppdragsgiverne som fellesforetaket er satt sammen av, ellersom oppdragsgiveren inngår med et fellesforetak som utøver forsyningsaktivitet, og som han er en del av.
+(1) Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter
+
+1. som et fellesforetak som utøver forsyningsaktivitet, inngår med en eller flere av oppdragsgiverne som fellesforetaket er satt sammen av, eller
+2. som oppdragsgiveren inngår med et fellesforetak som utøver forsyningsaktivitet, og som han er en del av.
 
 (2) Første ledd gjelder bare fellesforetak som er etablert for å utøve forsyningsaktivitet i minst tre år, og der oppdragsgiverne har angitt i stiftelsesdokumentet at de vil være en del av fellesforetaket i minimum den samme perioden.
 
@@ -154,15 +250,38 @@ Anskaffelsesloven og forskriften gjelder ikke for konsesjonskontrakter som inng�
 
 ### § 4-1. Kontraktstyper
 
-I forskriften menes med*kontrakt:* gjensidig bebyrdende avtale som en eller flere oppdragsgivere inngår skriftlig med en eller flere leverandører;*tjenestekontrakt:* kontrakt om utførelsen av tjenester, unntatt kontrakter som nevnt i bokstav c;*bygge- og anleggskontrakt:* kontrakt omutførelsen eller både utførelsen og planleggingen av bygge- og anleggsarbeider i forbindelse med aktiviteter som angitt i vedlegg 1,utførelsen eller både utførelsen og planleggingen av et bygge- og anleggsarbeid ellerutførelsen på en hvilken som helst måte av et bygge- og anleggsarbeid som oppfyller krav som er satt av en oppdragsgiver som har avgjørende innflytelse på arbeidets art eller planlegging;*bygge- og anleggsarbeid:* resultatet av et sett av bygge- og anleggsaktiviteter som i sin helhet er tilstrekkelig til å oppfylle en økonomisk eller teknisk funksjon;*særlige tjenester:* tjenester som angitt i vedlegg 2;*helse- og sosialtjenester:* tjenester som angitt i vedlegg 3.
+I forskriften menes med
+
+1. *kontrakt:* gjensidig bebyrdende avtale som en eller flere oppdragsgivere inngår skriftlig med en eller flere leverandører;
+2. *tjenestekontrakt:* kontrakt om utførelsen av tjenester, unntatt kontrakter som nevnt i bokstav c;
+3. *bygge- og anleggskontrakt:* kontrakt om
+
+   1. utførelsen eller både utførelsen og planleggingen av bygge- og anleggsarbeider i forbindelse med aktiviteter som angitt i vedlegg 1,
+   2. utførelsen eller både utførelsen og planleggingen av et bygge- og anleggsarbeid eller
+   3. utførelsen på en hvilken som helst måte av et bygge- og anleggsarbeid som oppfyller krav som er satt av en oppdragsgiver som har avgjørende innflytelse på arbeidets art eller planlegging;
+4. *bygge- og anleggsarbeid:* resultatet av et sett av bygge- og anleggsaktiviteter som i sin helhet er tilstrekkelig til å oppfylle en økonomisk eller teknisk funksjon;
+5. *særlige tjenester:* tjenester som angitt i vedlegg 2;
+6. *helse- og sosialtjenester:* tjenester som angitt i vedlegg 3.
 
 ### § 4-2. Dokumenter
 
-I forskriften menes med*konkurransegrunnlag:* alle dokumenter, unntatt kunngjøringen, som oppdragsgiveren utformer eller henviser til for å beskrive eller fastlegge elementene i anskaffelsen eller konkurransen, inkludert dokumenter som beskriver hva som skal anskaffes, kontraktsvilkårene og hvordan oppdragsgiver skal gjennomføre konkurransen, kvalifikasjonsgrunnlag og eventuelle supplerende dokumenter og tilleggsopplysninger*anskaffelsesdokumentene:* fellesbetegnelse for kunngjøringen og konkurransegrunnlaget.
+I forskriften menes med
+
+1. *konkurransegrunnlag:* alle dokumenter, unntatt kunngjøringen, som oppdragsgiveren utformer eller henviser til for å beskrive eller fastlegge elementene i anskaffelsen eller konkurransen, inkludert dokumenter som beskriver hva som skal anskaffes, kontraktsvilkårene og hvordan oppdragsgiver skal gjennomføre konkurransen, kvalifikasjonsgrunnlag og eventuelle supplerende dokumenter og tilleggsopplysninger
+2. *anskaffelsesdokumentene:* fellesbetegnelse for kunngjøringen og konkurransegrunnlaget.
 
 ### § 4-3. Andre definisjoner
 
-I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjonens felles klassifikasjon for offentlige innkjøp*CPC-kode:* et referansenummer som viser til De forente nasjoners sentrale produktnomenklatur*Doffin:* den norske offisielle databasen for kunngjøringer*TED-databasen:* den europeiske offisielle databasen for kunngjøringer*forsyningsaktiviteter:* aktiviteter som definert i [forsyningsforskriften § 1-3](forskrift/2016-08-12-975/§1-3), [§ 1-4](forskrift/2016-08-12-975/§1-4) og [§ 1-6](forskrift/2016-08-12-975/§1-6) til [§ 1-9](forskrift/2016-08-12-975/§1-9)*berørte leverandører:* leverandørene som har levert en forespørsel om å delta i konkurransen og ikke har fått en meddelelse om at forespørselen er avvist eller forkastet, og alle leverandørene som har gitt tilbud*karensperiode:* tidsrommet mellom meddelelsen om valget av leverandør og det tidspunktet oppdragsgiveren tidligst kan inngå kontrakten*innovasjon:* innføring av en ny eller betydelig forbedret vare, tjeneste eller prosess, inkludert produksjons-, bygge- eller anleggsprosesser, en ny markedsføringsmetode eller en ny organisasjonsmetode innen forretningspraksis, arbeidsplassorganisering eller eksterne relasjoner.
+I forskriften menes med
+
+1. *CPV-kode:* et referansenummer som viser til EU-kommisjonens felles klassifikasjon for offentlige innkjøp
+2. *CPC-kode:* et referansenummer som viser til De forente nasjoners sentrale produktnomenklatur
+3. *Doffin:* den norske offisielle databasen for kunngjøringer
+4. *TED-databasen:* den europeiske offisielle databasen for kunngjøringer
+5. *forsyningsaktiviteter:* aktiviteter som definert i [forsyningsforskriften § 1-3](forskrift/2016-08-12-975/§1-3), [§ 1-4](forskrift/2016-08-12-975/§1-4) og [§ 1-6](forskrift/2016-08-12-975/§1-6) til [§ 1-9](forskrift/2016-08-12-975/§1-9)
+6. *berørte leverandører:* leverandørene som har levert en forespørsel om å delta i konkurransen og ikke har fått en meddelelse om at forespørselen er avvist eller forkastet, og alle leverandørene som har gitt tilbud
+7. *karensperiode:* tidsrommet mellom meddelelsen om valget av leverandør og det tidspunktet oppdragsgiveren tidligst kan inngå kontrakten
+8. *innovasjon:* innføring av en ny eller betydelig forbedret vare, tjeneste eller prosess, inkludert produksjons-, bygge- eller anleggsprosesser, en ny markedsføringsmetode eller en ny organisasjonsmetode innen forretningspraksis, arbeidsplassorganisering eller eksterne relasjoner.
 
 ### Kapittel 5. Anvendelsesområde for de ulike delene i forskriften og terskelverdier
 
@@ -182,7 +301,14 @@ I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjon
 
 (2) Beregningen skal være forsvarlig på tidspunktet for kunngjøringen av konkurransen. For anskaffelser som ikke krever kunngjøring, skal beregningen være forsvarlig på det tidspunktet oppdragsgiveren innleder anskaffelsesprosessen. Dersom anskaffelsens verdi på tidspunktet for tildelingen av konsesjonskontrakten er mer enn 20 prosent høyere enn den anslåtte verdien ved kunngjøringen, skal verdien på tildelingstidspunktet legges til grunn.
 
-(3) Metoden for beregningen av konsesjonskontraktens verdi skal beskrives i anskaffelsesdokumentene. Ved beregningen skal oppdragsgiveren, der dette er relevant, særlig inkludere:verdien av enhver form for opsjoninntekter fra betaling, gebyrer og bøter fra brukerne av tjenestene eller bygge- og anleggsarbeidene, ut over dem som kreves inn på vegne av oppdragsgiverenbetaling, tilskudd og andre finansielle fordeler i enhver form fra oppdragsgiveren, andre offentlige myndigheter eller tredjeparter for utførelsen av tjenestene eller bygge- og anleggsarbeideneinntekter fra salg av aktiva som er en del av tjenestene eller bygge- og anleggsarbeideneverdien av alle varer og tjenester som oppdragsgiveren stiller til leverandørens rådighet, og som er nødvendige for å utføre arbeidenebetaling eller premie til leverandørene
+(3) Metoden for beregningen av konsesjonskontraktens verdi skal beskrives i anskaffelsesdokumentene. Ved beregningen skal oppdragsgiveren, der dette er relevant, særlig inkludere:
+
+1. verdien av enhver form for opsjon
+2. inntekter fra betaling, gebyrer og bøter fra brukerne av tjenestene eller bygge- og anleggsarbeidene, ut over dem som kreves inn på vegne av oppdragsgiveren
+3. betaling, tilskudd og andre finansielle fordeler i enhver form fra oppdragsgiveren, andre offentlige myndigheter eller tredjeparter for utførelsen av tjenestene eller bygge- og anleggsarbeidene
+4. inntekter fra salg av aktiva som er en del av tjenestene eller bygge- og anleggsarbeidene
+5. verdien av alle varer og tjenester som oppdragsgiveren stiller til leverandørens rådighet, og som er nødvendige for å utføre arbeidene
+6. betaling eller premie til leverandørene
 
 (4) Oppdragsgiveren skal ikke velge beregningsmåte eller dele opp en konsesjonskontrakt med det formål å unnta kontrakten fra forskriften.
 
@@ -200,7 +326,10 @@ I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjon
 
 ### § 6-2. Blandede anskaffelser som bare delvis er omfattet av forskriften og delvis er unntatt anskaffelsesregelverket
 
-(1) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis er omfattet av forskriften og delvis er unntatt anskaffelsesregelverket, kan velge å inngåseparate kontrakter etter reglene som gjelder for den enkelte kontrakten, elleren blandet kontrakt etter forskriften.
+(1) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis er omfattet av forskriften og delvis er unntatt anskaffelsesregelverket, kan velge å inngå
+
+1. separate kontrakter etter reglene som gjelder for den enkelte kontrakten, eller
+2. en blandet kontrakt etter forskriften.
 
 (2) En oppdragsgiver som skal anskaffe ytelser som ikke kan skilles fra hverandre på en objektiv måte, og som delvis er omfattet av forskriften og delvis er unntatt fra anskaffelsesregelverket, skal inngå en blandet kontrakt etter reglene som gjelder for ytelsen som utgjør kontraktens hovedelement. Dersom en slik kontrakt inneholder elementer av både tjenestekonsesjon og vareleveranse, utgjør ytelsen som har den høyeste verdien, kontraktens hovedelement.
 
@@ -208,9 +337,15 @@ I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjon
 
 ### § 6-3. Blandede anskaffelser som delvis er omfattet av forskriften og delvis av anskaffelsesforskriften eller forsyningsforskriften
 
-(1) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av anskaffelsesforskriften, kan velge å inngåseparate kontrakter etter reglene som gjelder for den enkelte kontrakten, elleren blandet kontrakt etter reglene i anskaffelsesforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), gjelder likevel forskriften når ytelsen som er omfattet av anskaffelsesforskriften ikke overstiger EØS-terskelverdiene i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).
+(1) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av anskaffelsesforskriften, kan velge å inngå
 
-(2) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av forsyningsforskriften, kan velge å inngåseparate kontrakter etter reglene for den enkelte kontrakten, elleren blandet kontrakt etter reglene i forsyningsforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), gjelder likevel forskriften når ytelsen som er omfattet av forsyningsforskriften, ikke overstiger EØS-terskelverdiene i [forsyningsforskriften § 5-2](forskrift/2016-08-12-975/§5-2).
+1. separate kontrakter etter reglene som gjelder for den enkelte kontrakten, eller
+2. en blandet kontrakt etter reglene i anskaffelsesforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), gjelder likevel forskriften når ytelsen som er omfattet av anskaffelsesforskriften ikke overstiger EØS-terskelverdiene i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).
+
+(2) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av forsyningsforskriften, kan velge å inngå
+
+1. separate kontrakter etter reglene for den enkelte kontrakten, eller
+2. en blandet kontrakt etter reglene i forsyningsforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), gjelder likevel forskriften når ytelsen som er omfattet av forsyningsforskriften, ikke overstiger EØS-terskelverdiene i [forsyningsforskriften § 5-2](forskrift/2016-08-12-975/§5-2).
 
 (3) En oppdragsgiver som skal anskaffe ytelser som ikke kan skilles fra hverandre på en objektiv måte, men som delvis er omfattet av forskriften og delvis er omfattet av anskaffelsesforskriften eller forsyningsforskriften, skal inngå en blandet kontrakt etter reglene som gjelder for ytelsen som utgjør kontraktens hovedelement. Dersom en slik kontrakt inneholder elementer av både tjenestekonsesjon og vareleveranse, utgjør ytelsen som har den høyeste verdien, kontraktens hovedelement.
 
@@ -218,7 +353,10 @@ I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjon
 
 ### § 6-4. Blandede kontrakter som omfatter forsyningsaktiviteter og andre aktiviteter
 
-(1) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen flere aktiviteter, kan velge å inngå:separate kontrakter etter reglene som gjelder for den enkelte aktiviteten, elleren blandet kontrakt etter reglene som gjelder for den aktiviteten som anskaffelsen i hovedsak er beregnet for. Dette forutsetter at valget om å inngå en blandet kontrakt ikke tas med sikte på å unnta kontrakten fra forskriften, anskaffelsesforskriften eller forsyningsforskriften.
+(1) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen flere aktiviteter, kan velge å inngå:
+
+1. separate kontrakter etter reglene som gjelder for den enkelte aktiviteten, eller
+2. en blandet kontrakt etter reglene som gjelder for den aktiviteten som anskaffelsen i hovedsak er beregnet for. Dette forutsetter at valget om å inngå en blandet kontrakt ikke tas med sikte på å unnta kontrakten fra forskriften, anskaffelsesforskriften eller forsyningsforskriften.
 
 (2) Dersom det er objektivt umulig å avgjøre hvilken aktivitet som anskaffelsen i hovedsak er beregnet for, og konsesjonskontrakten delvis er knyttet til utøvelsen av forsyningsaktiviteter og delvis er knyttet til andre aktiviteter som er omfattet av forskriften, gjelder reglene i forskriften som gjelder for utøvelse av de andre aktivitetene.
 
@@ -230,7 +368,10 @@ I forskriften menes med*CPV-kode:* et referansenummer som viser til EU-kommisjon
 
 ### § 6-5. Blandede anskaffelser som delvis er omfattet av forskriften og delvis inneholder forsvars- eller sikkerhetselementer
 
-(1) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen av samme aktivitet som kan skilles fra hverandre på en objektiv måte og som delvis er omfattet av forskriften og delvis inneholder forsvars- eller sikkerhetselementer, kan velge å inngåseparate kontrakter etter reglene som gjelder for den enkelte kontrakt, elleren blandet kontrakt.
+(1) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen av samme aktivitet som kan skilles fra hverandre på en objektiv måte og som delvis er omfattet av forskriften og delvis inneholder forsvars- eller sikkerhetselementer, kan velge å inngå
+
+1. separate kontrakter etter reglene som gjelder for den enkelte kontrakt, eller
+2. en blandet kontrakt.
 
 (2) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen av flere aktiviteter der den ene aktiviteten er omfattet av forskriften og den andre aktiviteten vedrører forsvars- og sikkerhetselementer, kan inngå en blandet kontrakt.
 
@@ -298,7 +439,13 @@ Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverand�
 
 (1) Oppdragsgiveren skal utarbeide et konkurransegrunnlag, med mindre kunngjøringen inneholder opplysningene som er angitt i annet ledd.
 
-(2) Konkurransegrunnlaget skal inneholde følgende opplysninger med mindre de allerede er tilstrekkelig beskrevet i kunngjøringen:hva som skal anskaffeshvilke kontraktsvilkår som gjelder for oppdragethvordan oppdragsgiveren skal gjennomføre konkurransenhvilke krav som gjelder for innholdet i og utformingen av en forespørsel om å delta i konkurransenandre opplysninger som er av betydning for utarbeidelsen av en forespørsel om å delta i konkurransen.
+(2) Konkurransegrunnlaget skal inneholde følgende opplysninger med mindre de allerede er tilstrekkelig beskrevet i kunngjøringen:
+
+1. hva som skal anskaffes
+2. hvilke kontraktsvilkår som gjelder for oppdraget
+3. hvordan oppdragsgiveren skal gjennomføre konkurransen
+4. hvilke krav som gjelder for innholdet i og utformingen av en forespørsel om å delta i konkurransen
+5. andre opplysninger som er av betydning for utarbeidelsen av en forespørsel om å delta i konkurransen.
 
 (3) Oppdragsgiveren har risikoen for uklarheter i konkurransegrunnlaget.
 
@@ -318,7 +465,10 @@ Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverand�
 
 (2) Kravene skal ha tilknytning til leveransen og stå i forhold til anskaffelsens formål og verdi. De kan vise til alle sider av og trinn i livssyklusen til tjenestene eller bygge- og anleggsarbeidene.
 
-(3) Kravene kan ikke vise til bestemte fabrikater, prosesser, varemerker, patenter eller typer eller en bestemt opprinnelse eller produksjon som fører til at visse leverandører eller produkter favoriseres eller utelukkes. En slik henvisning er likevel tillatt dersomdet er nødvendig ut fra anskaffelsens formål, ellerdet ikke er mulig for oppdragsgiveren å beskrive anskaffelsen tilstrekkelig presist og forståelig på en annen måte. Henvisningen skal følges av uttrykket «eller tilsvarende».
+(3) Kravene kan ikke vise til bestemte fabrikater, prosesser, varemerker, patenter eller typer eller en bestemt opprinnelse eller produksjon som fører til at visse leverandører eller produkter favoriseres eller utelukkes. En slik henvisning er likevel tillatt dersom
+
+1. det er nødvendig ut fra anskaffelsens formål, eller
+2. det ikke er mulig for oppdragsgiveren å beskrive anskaffelsen tilstrekkelig presist og forståelig på en annen måte. Henvisningen skal følges av uttrykket «eller tilsvarende».
 
 (4) Oppdragsgiveren kan ikke avvise et tilbud med den begrunnelsen at de tilbudte tjenestene eller bygge- og anleggsarbeidene ikke oppfyller kravspesifikasjonene, dersom leverandøren på en egnet måte påviser i tilbudet at de foreslåtte løsningene oppfyller kravene.
 
@@ -430,7 +580,16 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (1) Oppdragsgiveren som skal inngå en konsesjonskontrakt, skal kunngjøre konkurransen.
 
-(2) Plikten til å kunngjøre konkurransen gjelder ikke dersomkonsesjonskontrakten gjelder en ytelse som bare en bestemt leverandør kan levere fordiformålet er å skape eller anskaffe et unikt kunstnerisk verk eller en unik kunstnerisk fremføring,konkurranse er umulig av tekniske årsaker ellerleverandøren har en enerett, inkludert immaterielle rettigheter.Nr. 2 og 3 gjelder bare når det ikke foreligger rimelige alternativer og den manglende konkurransen ikke skyldes at oppdragsgiveren har tilpasset anskaffelsesdokumentene til en bestemt leverandør; elleroppdragsgiveren i en forutgående konkurranse ikke mottok forespørsler om å delta i konkurransen eller tilbud. Det samme gjelder dersom oppdragsgiveren bare mottok forespørsler eller tilbud som skulle eller kunne avvises etter [§ 11-2](forskrift/2016-08-12-976/§11-2), eller bare mottok tilbud som åpenbart ikke oppfylte oppdragsgiverens behov eller krav som følge av vesentlige avvik fra anskaffelsesdokumentene. Oppdragsgiveren kan ikke foreta vesentlige endringer i kravene til ytelsen eller kontraktsvilkårene.
+(2) Plikten til å kunngjøre konkurransen gjelder ikke dersom
+
+1. konsesjonskontrakten gjelder en ytelse som bare en bestemt leverandør kan levere fordi
+
+   1. formålet er å skape eller anskaffe et unikt kunstnerisk verk eller en unik kunstnerisk fremføring,
+   2. konkurranse er umulig av tekniske årsaker eller
+   3. leverandøren har en enerett, inkludert immaterielle rettigheter.
+
+   Nr. 2 og 3 gjelder bare når det ikke foreligger rimelige alternativer og den manglende konkurransen ikke skyldes at oppdragsgiveren har tilpasset anskaffelsesdokumentene til en bestemt leverandør; eller
+2. oppdragsgiveren i en forutgående konkurranse ikke mottok forespørsler om å delta i konkurransen eller tilbud. Det samme gjelder dersom oppdragsgiveren bare mottok forespørsler eller tilbud som skulle eller kunne avvises etter [§ 11-2](forskrift/2016-08-12-976/§11-2), eller bare mottok tilbud som åpenbart ikke oppfylte oppdragsgiverens behov eller krav som følge av vesentlige avvik fra anskaffelsesdokumentene. Oppdragsgiveren kan ikke foreta vesentlige endringer i kravene til ytelsen eller kontraktsvilkårene.
 
 ### § 9-3. Intensjonskunngjøring
 
@@ -454,7 +613,11 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 (2) Spesifikasjoner og andre opplysninger som er nødvendige for å kunne levere forespørsler om å delta i konkurransen eller tilbud elektronisk, inkludert opplysninger om kryptering og tidsstempling, skal være tilgjengelige for alle leverandørene.
 
-(3) Oppdragsgiveren kan kreve bruk av bestemte verktøy og løsninger som ikke er alminnelig tilgjengelige, dersom de er nødvendige for å utveksle relevante dokumenter. Oppdragsgiveren skal i så fall tilby alternative tilgangsmuligheter eller oppfyllelsesmåter. Oppdragsgiveren anses å ha tilbudt tilfredsstillende alternative tilgangsmuligheter eller oppfyllelsesmåter dersom hangir gratis, direkte og ubegrenset elektronisk tilgang til de aktuelle verktøyene og løsningene fra kunngjøringstidspunktet eller den dagen han sender invitasjonen til å bekrefte interessen. Oppdragsgiveren skal angi internettadressen hvor verktøyene og løsningene er tilgjengelige, i kunngjøringen eller invitasjonen;gir leverandørene muligheten til å delta i konkurransen ved bruk av midlertidige passord eller andre midlertidige adgangstegn som han gratis stiller til disposisjon for leverandørene. Oppdragsgiveren er likevel ikke forpliktet til å gi en slik tilgang dersom leverandøren selv er skyld i at han ikke får tilgang; ellertilbyr en alternativ kanal eller oppfyllelsesmåte for å gi tilbud elektronisk.
+(3) Oppdragsgiveren kan kreve bruk av bestemte verktøy og løsninger som ikke er alminnelig tilgjengelige, dersom de er nødvendige for å utveksle relevante dokumenter. Oppdragsgiveren skal i så fall tilby alternative tilgangsmuligheter eller oppfyllelsesmåter. Oppdragsgiveren anses å ha tilbudt tilfredsstillende alternative tilgangsmuligheter eller oppfyllelsesmåter dersom han
+
+1. gir gratis, direkte og ubegrenset elektronisk tilgang til de aktuelle verktøyene og løsningene fra kunngjøringstidspunktet eller den dagen han sender invitasjonen til å bekrefte interessen. Oppdragsgiveren skal angi internettadressen hvor verktøyene og løsningene er tilgjengelige, i kunngjøringen eller invitasjonen;
+2. gir leverandørene muligheten til å delta i konkurransen ved bruk av midlertidige passord eller andre midlertidige adgangstegn som han gratis stiller til disposisjon for leverandørene. Oppdragsgiveren er likevel ikke forpliktet til å gi en slik tilgang dersom leverandøren selv er skyld i at han ikke får tilgang; eller
+3. tilbyr en alternativ kanal eller oppfyllelsesmåte for å gi tilbud elektronisk.
 
 ### § 10-3. Krav til mottak og oppbevaring av forespørsler om å delta i konkurransen og tilbud mv.
 
@@ -470,11 +633,18 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 10-4. Unntak fra kravet om bruk av elektronisk kommunikasjon
 
-(1) Oppdragsgiveren er ikke forpliktet til å kreve bruk av elektroniske kommunikasjonsmidler dersomanskaffelsens art innebærer at bruk av elektroniske kommunikasjonsmidler ville kreve særlige verktøy, løsninger eller filformater som ikke er alminnelig tilgjengelige eller ikke kan behandles av alminnelig tilgjengelig programvare, og oppdragsgiveren ikke kan tilby alternative tilgangsmuligheter eller oppfyllelsesmåter som nevnt i [§ 10-2](forskrift/2016-08-12-976/§10-2) tredje leddde filformatene som ville vært egnet for utformingen av tilbudene, ikke kan behandles av åpen eller alminnelig tilgjengelig programvare, eller er omfattet av en lisensordning og ikke kan lastes ned av oppdragsgiveren eller gjøres tilgjengelig over internett eller på en annen lett tilgjengelig måteopplysningene som skal utveksles, forventes å være av en slik art eller et slikt format at bruk av elektroniske kommunikasjonsmidler ville kreve særlig utstyr som ikke er alminnelig tilgjengelig for oppdragsgiveren.
+(1) Oppdragsgiveren er ikke forpliktet til å kreve bruk av elektroniske kommunikasjonsmidler dersom
+
+1. anskaffelsens art innebærer at bruk av elektroniske kommunikasjonsmidler ville kreve særlige verktøy, løsninger eller filformater som ikke er alminnelig tilgjengelige eller ikke kan behandles av alminnelig tilgjengelig programvare, og oppdragsgiveren ikke kan tilby alternative tilgangsmuligheter eller oppfyllelsesmåter som nevnt i [§ 10-2](forskrift/2016-08-12-976/§10-2) tredje ledd
+2. de filformatene som ville vært egnet for utformingen av tilbudene, ikke kan behandles av åpen eller alminnelig tilgjengelig programvare, eller er omfattet av en lisensordning og ikke kan lastes ned av oppdragsgiveren eller gjøres tilgjengelig over internett eller på en annen lett tilgjengelig måte
+3. opplysningene som skal utveksles, forventes å være av en slik art eller et slikt format at bruk av elektroniske kommunikasjonsmidler ville kreve særlig utstyr som ikke er alminnelig tilgjengelig for oppdragsgiveren.
 
 (2) Oppdragsgiveren er heller ikke forpliktet til å kreve bruk av elektroniske kommunikasjonsmidler til levering av fysiske modeller eller skalamodeller som ikke kan leveres ved hjelp av elektroniske kommunikasjonsmidler.
 
-(3) Oppdragsgiveren kan ikke tillate bruk av elektroniske kommunikasjonsmidler hvis det er nødvendig å bruke andre kommunikasjonsmidlersom følge av sikkerhetsbrudd i den elektroniske kommunikasjonsløsningen, ellerfordi sensitive opplysninger ikke kan beskyttes på tilfredsstillende måte ved bruk av elektroniske verktøy og løsninger som er alminnelig tilgjengelig for leverandørene, eller som kan gjøres tilgjengelig på en alternativ måte som nevnt i [§ 10-2](forskrift/2016-08-12-976/§10-2) tredje ledd.
+(3) Oppdragsgiveren kan ikke tillate bruk av elektroniske kommunikasjonsmidler hvis det er nødvendig å bruke andre kommunikasjonsmidler
+
+1. som følge av sikkerhetsbrudd i den elektroniske kommunikasjonsløsningen, eller
+2. fordi sensitive opplysninger ikke kan beskyttes på tilfredsstillende måte ved bruk av elektroniske verktøy og løsninger som er alminnelig tilgjengelig for leverandørene, eller som kan gjøres tilgjengelig på en alternativ måte som nevnt i [§ 10-2](forskrift/2016-08-12-976/§10-2) tredje ledd.
 
 (4) Dersom oppdragsgiveren ikke krever bruk av elektroniske kommunikasjonsmidler, skal det brukes ordinær postgang eller andre egnede forsendelsesmåter, eventuelt kombinert med elektroniske hjelpemidler.
 
@@ -482,7 +652,11 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 (1) Oppdragsgiveren kan ikke kreve at leverandørene skal bruke elektronisk signatur eller elektroniske identifikasjonsbevis for å få tilgang til konkurransegrunnlaget eller for å melde sin interesse.
 
-(2) Oppdragsgiveren kan kreve at leverandørene ved levering av forespørsler om å delta i konkurransen og tilbud bruker løsninger som gir tilfredsstillende sikkerhet for at han kan sannsynliggjøre hvilken leverandør som har levert den enkelte forespørselen og det enkelte tilbudet, og knytte avsenderen til innholdet. Oppdragsgiveren kan kreve bruk avelektronisk signaturelektronisk seglelektronisk identitetsbevis eller midlertidige adgangstegn dersom det brukes en tredjeparts innsendingsløsning som støtter dette og kan knytte avsenderen til innholdet i forespørselen eller tilbudet.
+(2) Oppdragsgiveren kan kreve at leverandørene ved levering av forespørsler om å delta i konkurransen og tilbud bruker løsninger som gir tilfredsstillende sikkerhet for at han kan sannsynliggjøre hvilken leverandør som har levert den enkelte forespørselen og det enkelte tilbudet, og knytte avsenderen til innholdet. Oppdragsgiveren kan kreve bruk av
+
+1. elektronisk signatur
+2. elektronisk segl
+3. elektronisk identitetsbevis eller midlertidige adgangstegn dersom det brukes en tredjeparts innsendingsløsning som støtter dette og kan knytte avsenderen til innholdet i forespørselen eller tilbudet.
 
 (3) Oppdragsgiveren skal i konkurransegrunnlaget angi kravene til sikkerhetsnivå for elektronisk signatur, elektronisk segl, elektronisk identitetsbevis og øvrige sikkerhetstiltak ved bruk av elektroniske kommunikasjonsmidler. Sikkerhetsnivået skal ikke være høyere enn det som er nødvendig av hensyn til relevante risikofaktorer.
 
@@ -498,21 +672,52 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 11-1. Avvisning på grunn av formalfeil
 
-(1) Oppdragsgiveren skal avvise en leverandør eller et tilbudnår tilbudet ikke er mottatt innen tilbudsfristennår forespørselen om å delta i konkurransen eller tilbudet er levert i strid med kravene til kommunikasjonsmiddel.
+(1) Oppdragsgiveren skal avvise en leverandør eller et tilbud
 
-(2) Oppdragsgiveren kan avvise en leverandør eller et tilbudnår forespørselen om å delta i konkurransen ikke er mottatt innen fristennår forespørselen om å delta i konkurransen eller tilbudet ikke oppfyller kravene til utforming som oppdragsgiver har fastsatt.
+1. når tilbudet ikke er mottatt innen tilbudsfristen
+2. når forespørselen om å delta i konkurransen eller tilbudet er levert i strid med kravene til kommunikasjonsmiddel.
+
+(2) Oppdragsgiveren kan avvise en leverandør eller et tilbud
+
+1. når forespørselen om å delta i konkurransen ikke er mottatt innen fristen
+2. når forespørselen om å delta i konkurransen eller tilbudet ikke oppfyller kravene til utforming som oppdragsgiver har fastsatt.
 
 ### Avvisning på grunn av forhold ved leverandøren
 
 ### § 11-2. Avvisning på grunn av forhold ved leverandøren
 
-(1) Oppdragsgiveren skal avvise en leverandørsom ikke oppfyller kvalifikasjonskravene;når det foreligger inhabilitet som oppdragsgiveren ikke kan avhjelpe med mindre inngripende tiltak, jf. [§ 7-3](forskrift/2016-08-12-976/§7-3);som har deltatt i forberedelsen av konkurransen og med dette oppnådd en urimelig konkurransefordel som ikke kan avhjelpes med mindre inngripende tiltak. Før leverandøren avvises, skal oppdragsgiveren gi ham en mulighet til å sannsynliggjøre at deltakelsen i forberedelsen ikke medfører konkurransevridning.
+(1) Oppdragsgiveren skal avvise en leverandør
 
-(2) Oppdragsgiveren kan avvise en leverandør når han er kjent med at leverandøren er rettskraftig dømt eller har vedtatt et forelegg for følgende straffbare forhold:deltakelse i en kriminell organisasjonkorrupsjonbedrageriterrorhandlinger eller straffbare handlinger med forbindelse til terroraktivitethvitvasking av penger eller finansiering av terrorismebarnearbeid og andre former for menneskehandel.
+1. som ikke oppfyller kvalifikasjonskravene;
+2. når det foreligger inhabilitet som oppdragsgiveren ikke kan avhjelpe med mindre inngripende tiltak, jf. [§ 7-3](forskrift/2016-08-12-976/§7-3);
+3. som har deltatt i forberedelsen av konkurransen og med dette oppnådd en urimelig konkurransefordel som ikke kan avhjelpes med mindre inngripende tiltak. Før leverandøren avvises, skal oppdragsgiveren gi ham en mulighet til å sannsynliggjøre at deltakelsen i forberedelsen ikke medfører konkurransevridning.
 
-(3) Oppdragsgiveren kan også avvise en leverandør, med mindre avvisningen vil være uforholdsmessig,når oppdragsgiveren er kjent med at leverandøren ikke har oppfylt sine forpliktelser til å betale skatter, avgifter og trygdeavgifter i den staten han er etablert, eller i Norge;som er konkurs, gjenstand for insolvensbehandling eller under avvikling, har fått tvungen gjeldsordning eller stanset forretningsførselen, har sine aktiva forvaltet av en konkursforvalter eller retten, eller er i en tilsvarende prosess;når oppdragsgiveren kan dokumentere at leverandøren har begått alvorlige eller gjentatte brudd på bestemmelser om miljø, arbeidsforhold og sosiale forhold som følger av nasjonale regler, EØS-regler, tariffavtaler eller internasjonale avtaler som angitt i vedlegg 4;når det foreligger en interessekonflikt mellom oppdragsgiveren og leverandøren som kan ha negativ innvirkning på kontraktoppfyllelsen;når oppdragsgiveren har klare holdepunkter for at leverandøren har inngått avtale med hensikt å vri konkurransen;som tidligere har begått et vesentlig kontraktsbrudd i forbindelse med oppfyllelsen av en kontrakt med en oppdragsgiver som er omfattet av anskaffelsesregelverket. Dette forutsetter at bruddet har ført til heving av kontrakten, erstatning eller lignende sanksjoner;som har gitt grovt uriktige eller misvisende opplysninger som kan få vesentlig innflytelse på oppdragsgiverens beslutninger om avvisning, utvelgelse eller tildeling, eller som har unnlatt å gi slike opplysninger;som har forsøkt å påvirke oppdragsgiverens beslutninger eller få tilgang til fortrolige opplysninger som kan gi leverandøren en urettmessig konkurransefordel;når oppdragsgiveren kan dokumentere at leverandøren for øvrig har begått alvorlige feil som medfører tvil om hans yrkesmessige integritet;når oppdragsgiveren skal inngå en konsesjonskontrakt på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første ledd og kan dokumentere at leverandøren representerer en sikkerhetsrisiko.
+(2) Oppdragsgiveren kan avvise en leverandør når han er kjent med at leverandøren er rettskraftig dømt eller har vedtatt et forelegg for følgende straffbare forhold:
 
-(4) Oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d skal avvise en leverandør forovertredelser som nevnt i annet ledd, ogovertredelser som nevnt i tredje ledd bokstav a som er slått fast ved rettskraftig dom eller endelig forvaltningsvedtak.
+1. deltakelse i en kriminell organisasjon
+2. korrupsjon
+3. bedrageri
+4. terrorhandlinger eller straffbare handlinger med forbindelse til terroraktivitet
+5. hvitvasking av penger eller finansiering av terrorisme
+6. barnearbeid og andre former for menneskehandel.
+
+(3) Oppdragsgiveren kan også avvise en leverandør, med mindre avvisningen vil være uforholdsmessig,
+
+1. når oppdragsgiveren er kjent med at leverandøren ikke har oppfylt sine forpliktelser til å betale skatter, avgifter og trygdeavgifter i den staten han er etablert, eller i Norge;
+2. som er konkurs, gjenstand for insolvensbehandling eller under avvikling, har fått tvungen gjeldsordning eller stanset forretningsførselen, har sine aktiva forvaltet av en konkursforvalter eller retten, eller er i en tilsvarende prosess;
+3. når oppdragsgiveren kan dokumentere at leverandøren har begått alvorlige eller gjentatte brudd på bestemmelser om miljø, arbeidsforhold og sosiale forhold som følger av nasjonale regler, EØS-regler, tariffavtaler eller internasjonale avtaler som angitt i vedlegg 4;
+4. når det foreligger en interessekonflikt mellom oppdragsgiveren og leverandøren som kan ha negativ innvirkning på kontraktoppfyllelsen;
+5. når oppdragsgiveren har klare holdepunkter for at leverandøren har inngått avtale med hensikt å vri konkurransen;
+6. som tidligere har begått et vesentlig kontraktsbrudd i forbindelse med oppfyllelsen av en kontrakt med en oppdragsgiver som er omfattet av anskaffelsesregelverket. Dette forutsetter at bruddet har ført til heving av kontrakten, erstatning eller lignende sanksjoner;
+7. som har gitt grovt uriktige eller misvisende opplysninger som kan få vesentlig innflytelse på oppdragsgiverens beslutninger om avvisning, utvelgelse eller tildeling, eller som har unnlatt å gi slike opplysninger;
+8. som har forsøkt å påvirke oppdragsgiverens beslutninger eller få tilgang til fortrolige opplysninger som kan gi leverandøren en urettmessig konkurransefordel;
+9. når oppdragsgiveren kan dokumentere at leverandøren for øvrig har begått alvorlige feil som medfører tvil om hans yrkesmessige integritet;
+10. når oppdragsgiveren skal inngå en konsesjonskontrakt på forsvars- og sikkerhetsområdet som definert i [forskrift om forsvars- og sikkerhetsanskaffelser § 1-3](forskrift/2013-10-04-1185/§1-3) første ledd og kan dokumentere at leverandøren representerer en sikkerhetsrisiko.
+
+(4) Oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d skal avvise en leverandør for
+
+1. overtredelser som nevnt i annet ledd, og
+2. overtredelser som nevnt i tredje ledd bokstav a som er slått fast ved rettskraftig dom eller endelig forvaltningsvedtak.
 
 (5) Oppdragsgiveren kan unnlate å avvise en leverandør etter første ledd bokstav b eller c eller fjerde ledd når allmenne hensyn gjør det nødvendig å inngå konsesjonskontrakten med leverandøren.
 
@@ -542,7 +747,11 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 11-5. Tiltak for å unngå avvisning etter § 11-2
 
-(1) Oppdragsgiveren kan ikke avvise en leverandør etter [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd eller tredje ledd bokstav c, e, f og i, dersom leverandøren kan dokumentere å ha gjennomført følgende tiltak som viser at han likevel har den nødvendige integriteten som kontraktspart:betalt erstatning som leverandøren er pålagt for eventuelle tap som følge av forholdet, eller gitt tilsagn om slik betaling,aktivt samarbeidet med ansvarlige myndigheter for å klargjøre fakta og omstendigheter ved forholdet ogtruffet egnede tekniske, organisatoriske og personalmessige tiltak for å forebygge gjentakelser.
+(1) Oppdragsgiveren kan ikke avvise en leverandør etter [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd eller tredje ledd bokstav c, e, f og i, dersom leverandøren kan dokumentere å ha gjennomført følgende tiltak som viser at han likevel har den nødvendige integriteten som kontraktspart:
+
+1. betalt erstatning som leverandøren er pålagt for eventuelle tap som følge av forholdet, eller gitt tilsagn om slik betaling,
+2. aktivt samarbeidet med ansvarlige myndigheter for å klargjøre fakta og omstendigheter ved forholdet og
+3. truffet egnede tekniske, organisatoriske og personalmessige tiltak for å forebygge gjentakelser.
 
 (2) Ved vurderingen av om tiltakene som nevnt i første ledd er tilstrekkelige, skal oppdragsgiveren legge vekt på grovheten av og de særlige omstendighetene ved feilen eller overtredelsen. Dersom oppdragsgiveren ikke vurderer tiltakene som tilstrekkelige, skal han gi leverandøren en begrunnelse.
 
@@ -556,7 +765,10 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 11-7. Dokumentasjon for fravær av avvisningsgrunner
 
-(1) Oppdragsgiveren skal godta følgende dokumentasjon som tilstrekkelig bevis for at det ikke foreligger avvisningsgrunner:vandelsattest eller et tilsvarende dokument utstedt av et kompetent organ i leverandørens hjemstat eller den staten hvor leverandøren er etablert, som viser at det ikke foreligger avvisningsgrunner som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) annet leddattest utstedt av en kompetent organ i leverandørens hjemstat eller den staten hvor leverandøren er etablert, som viser at det ikke foreligger avvisningsgrunner som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) tredje ledd bokstav a og b.
+(1) Oppdragsgiveren skal godta følgende dokumentasjon som tilstrekkelig bevis for at det ikke foreligger avvisningsgrunner:
+
+1. vandelsattest eller et tilsvarende dokument utstedt av et kompetent organ i leverandørens hjemstat eller den staten hvor leverandøren er etablert, som viser at det ikke foreligger avvisningsgrunner som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd
+2. attest utstedt av en kompetent organ i leverandørens hjemstat eller den staten hvor leverandøren er etablert, som viser at det ikke foreligger avvisningsgrunner som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) tredje ledd bokstav a og b.
 
 (2) Dersom det ikke utstedes dokumenter som nevnt i første ledd i leverandørens hjemstat eller den staten hvor han er etablert, eller dersom de ikke dekker alle avvisningsgrunnene som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd og tredje ledd bokstav a og b, kan oppdragsgiveren godta en egenerklæring som tilstrekkelig bevis. Oppdragsgiveren kan kreve at leverandøren i stedet skal fremlegge en erklæring avgitt under ed eller en forsikring avgitt for et kompetent organ i leverandørens hjemstat eller den stat hvor han er etablert, når dette er angitt i anskaffelsesdokumentene.
 
@@ -564,9 +776,17 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 11-8. Avvisning på grunn av forhold ved tilbudet
 
-(1) Oppdragsgiveren skal avvise et tilbud somikke kan anses bindendeinneholder vesentlige avvik fra anskaffelsesdokumentene.
+(1) Oppdragsgiveren skal avvise et tilbud som
 
-(2) Oppdragsgiveren kan avvise et tilbud sominneholder avvik fra anskaffelsesdokumentene eller uklarheter som ikke må anses ubetydeligeikke oppfyller bestemmelser om miljø, arbeidsforhold og sosiale forhold som følger av nasjonale regler, EØS-regler, tariffavtaler eller internasjonale avtaler som angitt i vedlegg 4overstiger oppdragsgiverens budsjett som dokumentert fastsatt før iverksettelse av konkurransenoppdragsgiveren for øvrig ikke kan akseptere fordi det foreligger lignende forhold som i bokstav a til c.
+1. ikke kan anses bindende
+2. inneholder vesentlige avvik fra anskaffelsesdokumentene.
+
+(2) Oppdragsgiveren kan avvise et tilbud som
+
+1. inneholder avvik fra anskaffelsesdokumentene eller uklarheter som ikke må anses ubetydelige
+2. ikke oppfyller bestemmelser om miljø, arbeidsforhold og sosiale forhold som følger av nasjonale regler, EØS-regler, tariffavtaler eller internasjonale avtaler som angitt i vedlegg 4
+3. overstiger oppdragsgiverens budsjett som dokumentert fastsatt før iverksettelse av konkurransen
+4. oppdragsgiveren for øvrig ikke kan akseptere fordi det foreligger lignende forhold som i bokstav a til c.
 
 ### Fremgangsmåten ved avvisning
 
@@ -584,7 +804,11 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 (2) Begrunnelsen skal inneholde navnet på den valgte leverandøren og en redegjørelse for det valgte tilbudets egenskaper og relative fordeler i samsvar med tildelingskriteriene.
 
-(3) Oppdragsgiveren kan unnta visse opplysninger fra begrunnelsen dersom utsendelse vilhindre håndhevelsen av regler eller på annen måte være i strid med offentlige interesser,vil skade bestemte offentlige eller private virksomheters legitime økonomiske interesser ellervil skade konkurransen mellom leverandørene.
+(3) Oppdragsgiveren kan unnta visse opplysninger fra begrunnelsen dersom utsendelse vil
+
+1. hindre håndhevelsen av regler eller på annen måte være i strid med offentlige interesser,
+2. vil skade bestemte offentlige eller private virksomheters legitime økonomiske interesser eller
+3. vil skade konkurransen mellom leverandørene.
 
 (4) Dersom oppdragsgiveren finner at beslutningen om valg av leverandør er i strid med forskriften, kan beslutningen omgjøres frem til konsesjonskontrakten er inngått.
 
@@ -598,7 +822,10 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 12-3. Suspensjon av oppdragsgivers adgang til å inngå konsesjonskontrakt
 
-(1) Ved begjæring om midlertidig forføyning etter oppdragsgiverens valg av leverandør, suspenderes oppdragsgiverens adgang til å inngå konsesjonskontraktennår oppdragsgiveren har fastsatt en karensperiode etter [§ 12-2](forskrift/2016-08-12-976/§12-2) første ledd og begjæringen er fremsatt innen utløpet av karensperioden, ellernår oppdragsgiveren har publisert en intensjonskunngjøring etter [§ 9-3](forskrift/2016-08-12-976/§9-3) og begjæringen er fremsatt innen ti dager regnet fra dagen etter datoen for kunngjøringen.
+(1) Ved begjæring om midlertidig forføyning etter oppdragsgiverens valg av leverandør, suspenderes oppdragsgiverens adgang til å inngå konsesjonskontrakten
+
+1. når oppdragsgiveren har fastsatt en karensperiode etter [§ 12-2](forskrift/2016-08-12-976/§12-2) første ledd og begjæringen er fremsatt innen utløpet av karensperioden, eller
+2. når oppdragsgiveren har publisert en intensjonskunngjøring etter [§ 9-3](forskrift/2016-08-12-976/§9-3) og begjæringen er fremsatt innen ti dager regnet fra dagen etter datoen for kunngjøringen.
 
 (2) Suspensjonen inntrer når begjæringen er forkynt for oppdragsgiveren. Oppdragsgiveren informeres om suspensjonsvirkningen ved forkynnelsen.
 
@@ -618,7 +845,28 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 13-1. Endringer som er tillatt
 
-(1) Oppdragsgiveren kan foreta følgende endringer i en konsesjonskontrakt uten å gjennomføre en ny konkurranse etter forskriften:endringer som foretas etter en endringsklausul som nevnt i [§ 8-11](forskrift/2016-08-12-976/§8-11) annet ledd;endringer som gir en prisøkning som er lavere ennterskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), og10 prosent av den opprinnelige kontraktsverdien.Dette gjelder bare når anskaffelsens overordnede karakter ikke blir endret. Dersom det foretas flere endringer etter hverandre, skal prisøkningen beregnes på grunnlag av den samlede prisøkningen som følge av alle endringene;endringer som gjelder nødvendige tilleggsleveranser som ikke inngikk i den opprinnelige konsesjonskontrakten.Dette gjelder bare når:skifte av leverandøren ikke kan skje av tekniske eller økonomiske grunner, for eksempel fordi tilleggsleveransene må kunne erstatte eller være kompatible med eksisterende utstyr, software, tjenester eller installasjoner som ble anskaffet ved den opprinnelige konsesjonskontrakten, ogskifte av leverandøren vil føre til betydelige vanskeligheter eller vesentlige ekstrakostnader for oppdragsgiveren;endringer som er nødvendige som følge av omstendigheter som en aktsom oppdragsgiver ikke kunne forutse. Dette gjelder bare når anskaffelsens overordnede karakter ikke blir endret;endringer som gjelder skifte av leverandøren ved at en ny leverandør helt eller delvis trer inn i den eksisterende leverandørens rettigheter og plikter som følge av en omstrukturering, for eksempel ved overtakelse, fusjon, oppkjøp eller konkurs. Dette gjelder bare nården nye leverandøren oppfyller de opprinnelige kvalifikasjonskravene,det ikke foretas andre vesentlige endringer i konsesjonskontrakten ogskiftet av leverandør ikke skjer for å omgå forskriften;endringer, uavhengig av verdi, som ikke er vesentlige, jf. [§ 13-2](forskrift/2016-08-12-976/§13-2).
+(1) Oppdragsgiveren kan foreta følgende endringer i en konsesjonskontrakt uten å gjennomføre en ny konkurranse etter forskriften:
+
+1. endringer som foretas etter en endringsklausul som nevnt i [§ 8-11](forskrift/2016-08-12-976/§8-11) annet ledd;
+2. endringer som gir en prisøkning som er lavere enn
+
+   1. terskelverdiene i [§ 5-1](forskrift/2016-08-12-976/§5-1), og
+   2. 10 prosent av den opprinnelige kontraktsverdien.
+
+   Dette gjelder bare når anskaffelsens overordnede karakter ikke blir endret. Dersom det foretas flere endringer etter hverandre, skal prisøkningen beregnes på grunnlag av den samlede prisøkningen som følge av alle endringene;
+3. endringer som gjelder nødvendige tilleggsleveranser som ikke inngikk i den opprinnelige konsesjonskontrakten.
+
+   Dette gjelder bare når:
+
+   1. skifte av leverandøren ikke kan skje av tekniske eller økonomiske grunner, for eksempel fordi tilleggsleveransene må kunne erstatte eller være kompatible med eksisterende utstyr, software, tjenester eller installasjoner som ble anskaffet ved den opprinnelige konsesjonskontrakten, og
+   2. skifte av leverandøren vil føre til betydelige vanskeligheter eller vesentlige ekstrakostnader for oppdragsgiveren;
+4. endringer som er nødvendige som følge av omstendigheter som en aktsom oppdragsgiver ikke kunne forutse. Dette gjelder bare når anskaffelsens overordnede karakter ikke blir endret;
+5. endringer som gjelder skifte av leverandøren ved at en ny leverandør helt eller delvis trer inn i den eksisterende leverandørens rettigheter og plikter som følge av en omstrukturering, for eksempel ved overtakelse, fusjon, oppkjøp eller konkurs. Dette gjelder bare når
+
+   1. den nye leverandøren oppfyller de opprinnelige kvalifikasjonskravene,
+   2. det ikke foretas andre vesentlige endringer i konsesjonskontrakten og
+   3. skiftet av leverandør ikke skjer for å omgå forskriften;
+6. endringer, uavhengig av verdi, som ikke er vesentlige, jf. [§ 13-2](forskrift/2016-08-12-976/§13-2).
 
 (2) Når oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav a til d inngår konsesjonskontrakter som ikke er knyttet til en forsyningsaktivitet, må prisøkningen ved endringer som nevnt i første ledd bokstav c og d ikke overstige 50 prosent av den opprinnelige kontraktsverdien. Dersom det foretas flere endringer etter hverandre, gjelder denne begrensningen for hver enkelt endring. Slike endringer må ikke foretas for å omgå forskriften.
 
@@ -628,11 +876,20 @@ Når oppdragsgiveren har inngått en konsesjonskontrakt, skal han kunngjøre kon
 
 ### § 13-2. Vesentlige endringer
 
-En endring er ikke tillatt etter [§ 13-1](forskrift/2016-08-12-976/§13-1) første ledd bokstav f dersom den fører til at innholdet i konsesjonskontrakten blir vesentlig forskjellig fra den opprinnelige konsesjonskontrakten. En endring er alltid vesentlig dersom dengjelder nye betingelser som, dersom de hadde vært en del av den opprinnelige konkurransen, ville ha ført til at andre leverandører potensielt kunne ha deltatt, eller at oppdragsgiveren kunne tildelt konsesjonskontrakten til en annen leverandør,endrer konsesjonskontraktens økonomiske balanse til fordel for leverandøren,utvider konsesjonskontraktens omfang betydelig ellergjelder skifte av leverandøren i andre tilfeller enn dem som er nevnt i [§ 13-1](forskrift/2016-08-12-976/§13-1) første ledd bokstav e.
+En endring er ikke tillatt etter [§ 13-1](forskrift/2016-08-12-976/§13-1) første ledd bokstav f dersom den fører til at innholdet i konsesjonskontrakten blir vesentlig forskjellig fra den opprinnelige konsesjonskontrakten. En endring er alltid vesentlig dersom den
+
+1. gjelder nye betingelser som, dersom de hadde vært en del av den opprinnelige konkurransen, ville ha ført til at andre leverandører potensielt kunne ha deltatt, eller at oppdragsgiveren kunne tildelt konsesjonskontrakten til en annen leverandør,
+2. endrer konsesjonskontraktens økonomiske balanse til fordel for leverandøren,
+3. utvider konsesjonskontraktens omfang betydelig eller
+4. gjelder skifte av leverandøren i andre tilfeller enn dem som er nevnt i [§ 13-1](forskrift/2016-08-12-976/§13-1) første ledd bokstav e.
 
 ### § 13-3. Oppsigelse i særlige tilfeller
 
-Oppdragsgiveren kan si opp en konsesjonskontrakt dersomdet er foretatt vesentlige endringer i konsesjonskontrakten som krever at oppdragsgiveren gjennomfører en ny konkurranse, jf. [§ 13-2](forskrift/2016-08-12-976/§13-2),leverandøren på tidspunktet for tildeling av konsesjonskontrakten var i en situasjon som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd ellerEFTA-domstolen har slått fast at oppdragsgiveren har begått et brudd på EØS-avtalen som innebærer at oppdragsgiveren ikke skulle ha inngått konsesjonskontrakten med den valgte leverandøren.
+Oppdragsgiveren kan si opp en konsesjonskontrakt dersom
+
+1. det er foretatt vesentlige endringer i konsesjonskontrakten som krever at oppdragsgiveren gjennomfører en ny konkurranse, jf. [§ 13-2](forskrift/2016-08-12-976/§13-2),
+2. leverandøren på tidspunktet for tildeling av konsesjonskontrakten var i en situasjon som nevnt i [§ 11-2](forskrift/2016-08-12-976/§11-2) annet ledd eller
+3. EFTA-domstolen har slått fast at oppdragsgiveren har begått et brudd på EØS-avtalen som innebærer at oppdragsgiveren ikke skulle ha inngått konsesjonskontrakten med den valgte leverandøren.
 
 ## Del III. Anskaffelser av særlige tjenester og helse- og sosialtjenester
 
@@ -684,7 +941,11 @@ Dersom oppdragsgiveren mener at han har hjemmel til å inngå en konsesjonskontr
 
 (2) Begrunnelsen skal inneholde navnet på den valgte leverandøren og en redegjørelse for det valgte tilbudets egenskaper og relative fordeler i samsvar med tildelingskriteriene.
 
-(3) Oppdragsgiveren kan unnta visse opplysninger fra begrunnelsen dersom utsendelse vilhindre håndhevelsen av regler eller på annen måte være i strid med offentlige interesser,skade bestemte offentlige eller private virksomheters legitime økonomiske interesser ellerskade konkurransen mellom leverandørene.
+(3) Oppdragsgiveren kan unnta visse opplysninger fra begrunnelsen dersom utsendelse vil
+
+1. hindre håndhevelsen av regler eller på annen måte være i strid med offentlige interesser,
+2. skade bestemte offentlige eller private virksomheters legitime økonomiske interesser eller
+3. skade konkurransen mellom leverandørene.
 
 (4) Dersom oppdragsgiveren finner at beslutningen om valg av leverandør er i strid med forskriften, kan beslutningen omgjøres frem til konsesjonskontrakten er inngått.
 
@@ -698,7 +959,10 @@ Dersom oppdragsgiveren mener at han har hjemmel til å inngå en konsesjonskontr
 
 ### § 14-7. Suspensjon av oppdragsgivers adgang til å inngå konsesjonskontrakt
 
-(1) Ved begjæring om midlertidig forføyning etter oppdragsgiverens valg av leverandør, suspenderes oppdragsgiverens adgang til å inngå konsesjonskontraktennår oppdragsgiveren har fastsatt en karensperiode etter [§ 14-6](forskrift/2016-08-12-976/§14-6) og begjæringen er fremsatt innen utløpet av karensperioden, ellernår oppdragsgiveren har publisert en intensjonskunngjøring etter [§ 14-4](forskrift/2016-08-12-976/§14-4) og begjæringen er fremsatt innen ti dager regnet fra dagen etter datoen for kunngjøringen.
+(1) Ved begjæring om midlertidig forføyning etter oppdragsgiverens valg av leverandør, suspenderes oppdragsgiverens adgang til å inngå konsesjonskontrakten
+
+1. når oppdragsgiveren har fastsatt en karensperiode etter [§ 14-6](forskrift/2016-08-12-976/§14-6) og begjæringen er fremsatt innen utløpet av karensperioden, eller
+2. når oppdragsgiveren har publisert en intensjonskunngjøring etter [§ 14-4](forskrift/2016-08-12-976/§14-4) og begjæringen er fremsatt innen ti dager regnet fra dagen etter datoen for kunngjøringen.
 
 (2) Suspensjonen inntrer når begjæringen er forkynt for saksøkte. Saksøkte informeres om suspensjonsvirkningen ved forkynnelsen.
 
@@ -722,9 +986,17 @@ Forskriften gjelder fra 1. januar 2017.
 
 (1) Forskriften gjelder anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort. En anskaffelse som ikke kunngjøres, er iverksatt når oppdragsgiveren har sendt ut en forespørsel til en eller flere leverandører om å melde sin interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse.
 
-(2) [§ 10-1](forskrift/2016-08-12-976/§10-1) første ledd om at kommunikasjon og informasjonsutveksling ved bruk av elektroniske kommunikasjonsmidler trer i kraft:1. april 2017 for innkjøpssentraler1. januar 2018 for statlige myndigheter1. juli 2018 for andre oppdragsgivere.
+(2) [§ 10-1](forskrift/2016-08-12-976/§10-1) første ledd om at kommunikasjon og informasjonsutveksling ved bruk av elektroniske kommunikasjonsmidler trer i kraft:
 
-(3) For kommunikasjon og informasjonsutveksling med leverandørene som foretas frem til tidspunktene angitt i annet ledd, kan følgende kommunikasjonsmidler brukes:elektroniske kommunikasjonsmidler i samsvar med [kapittel 10](forskrift/2016-08-12-976/kap10)ordinær postgang eller andre egnede forsendelsesmåteren kombinasjon av disse kommunikasjonsmidlene.
+1. 1\. april 2017 for innkjøpssentraler
+2. 1\. januar 2018 for statlige myndigheter
+3. 1\. juli 2018 for andre oppdragsgivere.
+
+(3) For kommunikasjon og informasjonsutveksling med leverandørene som foretas frem til tidspunktene angitt i annet ledd, kan følgende kommunikasjonsmidler brukes:
+
+1. elektroniske kommunikasjonsmidler i samsvar med [kapittel 10](forskrift/2016-08-12-976/kap10)
+2. ordinær postgang eller andre egnede forsendelsesmåter
+3. en kombinasjon av disse kommunikasjonsmidlene.
 
 (4) Frem til tidspunktene angitt i annet ledd skal karensperioden for anskaffelser etter del II og anskaffelser etter del III være minst 10 dager dersom meddelelsen om valg av leverandør sendes med elektroniske kommunikasjonsmidler, eller minst 15 dager dersom den sendes med andre kommunikasjonsmidler.
 

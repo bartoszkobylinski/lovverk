@@ -26,15 +26,45 @@ eu_basis: []
 
 ### § 1-1. Definisjonar
 
-I denne forskrifta vert følgjande omgrep nytta slik:*Magasin:* belte, boks, trommel eller liknande anordning som er laga for å mate patroner inn i skytevåpen.*Laust magasin:* magasin som er konstruert for å enkelt kunne fjernast frå skytevåpen.*Pipe:* gjenstand med eit gjennomgåande hol, som er kamra for å kunne skyte ammunisjon.*Låskasse:* den delen av eit skytevåpen som pipa er festa i. For pistolar, revolverar, rifler, haglevåpen og kombinasjonsvåpen som brekkast for lading og tømming reknast rammestykket som låskasse. For skytevåpen med dela låskasse reknast både over- og underdelen som låskasse.*Sluttstykke:* den delen av eit skytevåpen som fører patrona inn i kammeret. For pistolar reknast glidestykket som sluttstykke.*Låseblokk:* gjenstand som stenger skytevåpenet sitt kammer bak patrona.*Tønne:* revolverande magasin på eit skytevåpen.*Vital våpendel:* sluttstykke, låskasse, og pipe. For skytevåpen som spennast ved å brekke våpenet, reknast også framskjeftet som vital våpendel. For pistol reknast også rammestykket som vital våpendel. For revolver reknast også tønna som vital våpendel. For skytevåpen med utvending hane reknast også hane eller tennstift som vital våpendel. For skytevåpen med flintlås reknast også flinten som vital våpendel. For skytevåpen med perkusjonslås reknast også nippelen som vital våpendel. For skytevåpen med laus låseblokk eller avtrekkarmekanisme, reknast også låseblokka eller avtrekkarmekanismen som vital våpendel.*Heildempa skytevåpen:* skytevåpen der lyddemparen er framstilt som ein del av pipa og ikkje kan fjernast utan bruk av verktøy.*Ekspanderande ammunisjon:* prosjektil til skytevåpen som er konstruert for å utvidast ved anslag.*Panserbrytande ammunisjon:* prosjektil til skytevåpen med ein kjerne av hardmetall eller herda stål, og som er konstruert for å kunne trenge gjennom verneutstyr, pansring eller liknande.*Brannstiftande ammunisjon:* prosjektil til skytevåpen med ein lettenneleg substans som er laga for å ta fyr ved anslag.*Eksplosiv ammunisjon:* prosjektil til skytevåpen som inneheld sprengstoff eller annan eksplosiv substans.*Sporlysammunisjon:* prosjektil til skytevåpen med materiale som tennast ved skyting, og som gjer at prosjektilet lyser opp når det skytast ut av pipa.*FG-godkjent:* godkjent av standard som forvaltast av FG skadeteknikk.*Einhandsskytevåpen:* skytevåpen som er utforma for å skulle skytast med ei hand.*Tohandsskytevåpen:* skytevåpen som er utforma for å skulle skytast med to hender.*Våpenansvarleg:* person som er ansvarleg for utlevering, bruk og oppbevaring av skytevåpen, våpendelar eller ammunisjon etter [våpenlova § 17](lov/2018-04-20-7).
+I denne forskrifta vert følgjande omgrep nytta slik:
+
+1. *Magasin:* belte, boks, trommel eller liknande anordning som er laga for å mate patroner inn i skytevåpen.
+2. *Laust magasin:* magasin som er konstruert for å enkelt kunne fjernast frå skytevåpen.
+3. *Pipe:* gjenstand med eit gjennomgåande hol, som er kamra for å kunne skyte ammunisjon.
+4. *Låskasse:* den delen av eit skytevåpen som pipa er festa i. For pistolar, revolverar, rifler, haglevåpen og kombinasjonsvåpen som brekkast for lading og tømming reknast rammestykket som låskasse. For skytevåpen med dela låskasse reknast både over- og underdelen som låskasse.
+5. *Sluttstykke:* den delen av eit skytevåpen som fører patrona inn i kammeret. For pistolar reknast glidestykket som sluttstykke.
+6. *Låseblokk:* gjenstand som stenger skytevåpenet sitt kammer bak patrona.
+7. *Tønne:* revolverande magasin på eit skytevåpen.
+8. *Vital våpendel:* sluttstykke, låskasse, og pipe. For skytevåpen som spennast ved å brekke våpenet, reknast også framskjeftet som vital våpendel. For pistol reknast også rammestykket som vital våpendel. For revolver reknast også tønna som vital våpendel. For skytevåpen med utvending hane reknast også hane eller tennstift som vital våpendel. For skytevåpen med flintlås reknast også flinten som vital våpendel. For skytevåpen med perkusjonslås reknast også nippelen som vital våpendel. For skytevåpen med laus låseblokk eller avtrekkarmekanisme, reknast også låseblokka eller avtrekkarmekanismen som vital våpendel.
+9. *Heildempa skytevåpen:* skytevåpen der lyddemparen er framstilt som ein del av pipa og ikkje kan fjernast utan bruk av verktøy.
+10. *Ekspanderande ammunisjon:* prosjektil til skytevåpen som er konstruert for å utvidast ved anslag.
+11. *Panserbrytande ammunisjon:* prosjektil til skytevåpen med ein kjerne av hardmetall eller herda stål, og som er konstruert for å kunne trenge gjennom verneutstyr, pansring eller liknande.
+12. *Brannstiftande ammunisjon:* prosjektil til skytevåpen med ein lettenneleg substans som er laga for å ta fyr ved anslag.
+13. *Eksplosiv ammunisjon:* prosjektil til skytevåpen som inneheld sprengstoff eller annan eksplosiv substans.
+14. *Sporlysammunisjon:* prosjektil til skytevåpen med materiale som tennast ved skyting, og som gjer at prosjektilet lyser opp når det skytast ut av pipa.
+15. *FG-godkjent:* godkjent av standard som forvaltast av FG skadeteknikk.
+16. *Einhandsskytevåpen:* skytevåpen som er utforma for å skulle skytast med ei hand.
+17. *Tohandsskytevåpen:* skytevåpen som er utforma for å skulle skytast med to hender.
+18. *Våpenansvarleg:* person som er ansvarleg for utlevering, bruk og oppbevaring av skytevåpen, våpendelar eller ammunisjon etter [våpenlova § 17](lov/2018-04-20-7).
 
 ### § 1-2. Klassifisering av skytevåpen
 
-I denne forskrifta vert skytevåpen dela inn i følgjande kategoriar:*Rifle:* tohandsskytevåpen med rifla løp som er meint å skulle skytast med støtte mot skuldra.*Haglevåpen:* tohandsskytevåpen med glattbora eller rifla løp, som er meint å skulle skytast med støtte mot skuldra, og som brukar haglpatroner som ammunisjon.*Kombinasjonsvåpen:* tohandsskytevåpen som er meint å skulle skytast med støtte mot skuldra, og som har to eller fleire piper der minst eitt av dei er rifla eller glattbora.*Pistol:* einhandsskytevåpen som er laga for å kunne skytast utan støtte mot skuldra, og som ladast med å enten legge patroner direkte inn i skytevåpenet sitt kammer, eller ved å bruke magasin.*Revolver:* einhandsskytevåpen som er laga for å kunne skytast utan støtte mot skuldra, og som brukar ei revolverande tønne som magasin.
+I denne forskrifta vert skytevåpen dela inn i følgjande kategoriar:
+
+1. *Rifle:* tohandsskytevåpen med rifla løp som er meint å skulle skytast med støtte mot skuldra.
+2. *Haglevåpen:* tohandsskytevåpen med glattbora eller rifla løp, som er meint å skulle skytast med støtte mot skuldra, og som brukar haglpatroner som ammunisjon.
+3. *Kombinasjonsvåpen:* tohandsskytevåpen som er meint å skulle skytast med støtte mot skuldra, og som har to eller fleire piper der minst eitt av dei er rifla eller glattbora.
+4. *Pistol:* einhandsskytevåpen som er laga for å kunne skytast utan støtte mot skuldra, og som ladast med å enten legge patroner direkte inn i skytevåpenet sitt kammer, eller ved å bruke magasin.
+5. *Revolver:* einhandsskytevåpen som er laga for å kunne skytast utan støtte mot skuldra, og som brukar ei revolverande tønne som magasin.
 
 ### § 1-3. Skytevåpen sine funksjoneringsmåtar
 
-I denne forskrifta vert skytevåpen dela inn i følgjande funksjoneringsmåtar:*Enkeltskot:* skytevåpen utan magasin med eitt eller fleire løp som ladast ved at patron eller prosjektil leggast manuelt inn i våpenet sitt kammer.*Manuell omlading:* skytevåpen med magasin der patrona eller prosjektilet må førast manuelt inn i våpenet sitt kammer mellom kvar avfyring, og der våpenet sin avfyringsmekanisme må spennast med ekstern kraft for kvar omlading.*Halvautomatisk:* skytevåpen med magasin der skytevåpenet ladast og spennast automatisk etter kvar avfyring ved bruk av energi frå våpenet sin ammunisjon eller ei annan ekstern kraft, og der det kan skytast eitt skot ved kvart avtrekk.*Heilautomatisk:* skytevåpen med magasin der skytevåpenet ladast og spennast automatisk etter kvar avfyring ved bruk av energi frå våpenet sin ammunisjon eller ei annan ekstern kraft, og der det kan skytast meir enn eitt skot ved kvart avtrekk. Skytevåpen som er laga for både å kunne gje halvautomatisk og heilautomatisk eld reknast som heilautomatisk.
+I denne forskrifta vert skytevåpen dela inn i følgjande funksjoneringsmåtar:
+
+1. *Enkeltskot:* skytevåpen utan magasin med eitt eller fleire løp som ladast ved at patron eller prosjektil leggast manuelt inn i våpenet sitt kammer.
+2. *Manuell omlading:* skytevåpen med magasin der patrona eller prosjektilet må førast manuelt inn i våpenet sitt kammer mellom kvar avfyring, og der våpenet sin avfyringsmekanisme må spennast med ekstern kraft for kvar omlading.
+3. *Halvautomatisk:* skytevåpen med magasin der skytevåpenet ladast og spennast automatisk etter kvar avfyring ved bruk av energi frå våpenet sin ammunisjon eller ei annan ekstern kraft, og der det kan skytast eitt skot ved kvart avtrekk.
+4. *Heilautomatisk:* skytevåpen med magasin der skytevåpenet ladast og spennast automatisk etter kvar avfyring ved bruk av energi frå våpenet sin ammunisjon eller ei annan ekstern kraft, og der det kan skytast meir enn eitt skot ved kvart avtrekk. Skytevåpen som er laga for både å kunne gje halvautomatisk og heilautomatisk eld reknast som heilautomatisk.
 
 ### § 1-4. Måling av skytevåpenet sin totallengde og pipelengde
 
@@ -46,7 +76,18 @@ Ved måling av totallengde eller pipelengde skal lyddempar, rekyldempar eller an
 
 ### § 1-5. Skytevåpen, våpendelar og ammunisjon som er unnateke frå våpenlova sitt verkeområde
 
-Følgjande gjenstandar reknast ikkje som skytevåpen, våpendelar eller ammunisjon etter [våpenlova § 2](lov/2018-04-20-7), og er unnateke frå [våpenlova](lov/2018-04-20-7) sitt verkeområde:bogar,gjenstandar eller andre innretningar som berre kan sende ut lys eller andre former for stråling,boltpistol, spikarpistol, industrikanoner og andre gjenstandar eller innretningar som er laga til bruk i bygningsverksemd eller andre industrielle føremål,gjenstandar som er laga for å sende ut prosjektil eller andre gjenstandar, utan bruk av drivmiddel som, krut, gass, komprimert luft eller mekanisk innretning,våpendelar og ammunisjon som berre kan brukast i gjenstandar som nemnt i nummer 1 til 4,gjenstandar som er laga for å sende ut væske eller gass ved hjelp av mekanisk innretning eller drivgassar,ufarlege gjenstandar som er laga til bruk som leiketøy for born,lause hagl til haglevåpen,runde prosjektil til munnladarar eller perkusjonsrevolverar, ogtåregassboksar som er bestemt for eller som brukast av Kriminalomsorga.
+Følgjande gjenstandar reknast ikkje som skytevåpen, våpendelar eller ammunisjon etter [våpenlova § 2](lov/2018-04-20-7), og er unnateke frå [våpenlova](lov/2018-04-20-7) sitt verkeområde:
+
+1. bogar,
+2. gjenstandar eller andre innretningar som berre kan sende ut lys eller andre former for stråling,
+3. boltpistol, spikarpistol, industrikanoner og andre gjenstandar eller innretningar som er laga til bruk i bygningsverksemd eller andre industrielle føremål,
+4. gjenstandar som er laga for å sende ut prosjektil eller andre gjenstandar, utan bruk av drivmiddel som, krut, gass, komprimert luft eller mekanisk innretning,
+5. våpendelar og ammunisjon som berre kan brukast i gjenstandar som nemnt i nummer 1 til 4,
+6. gjenstandar som er laga for å sende ut væske eller gass ved hjelp av mekanisk innretning eller drivgassar,
+7. ufarlege gjenstandar som er laga til bruk som leiketøy for born,
+8. lause hagl til haglevåpen,
+9. runde prosjektil til munnladarar eller perkusjonsrevolverar, og
+10. tåregassboksar som er bestemt for eller som brukast av Kriminalomsorga.
 
 ### § 1-6. Tilhøvet til brann- og eksplosjonsvernlova
 
@@ -72,23 +113,53 @@ Den som vil erverve eller ha skytevåpen som omfattast av [våpenlova](lov/2018-
 
 ### § 2-2. Løyvepliktige endringar i skytevåpen
 
-Følgjande endringar i eit løyvepliktig skytevåpen kan berre gjerast etter særskilt løyve frå politiet:nedkorting av pipelengde til hagle- kombinasjons- eller riflevåpen til under 40 centimeter,nedkorting av totallengda til hagle- kombinasjons- eller riflevåpen til under 84 centimeter,omgjering av ein pistol eller revolver slik at den kan brukast som tohandsskytevåpen,omgjering av funksjoneringsmåten,omgjering av eit skytevåpen til å kunne bruke våpenmagasin med magasinkapasitet på meir enn fem patroner for haglevåpen, 10 patroner for rifle eller 20 patroner for pistol, ellerendringar som gjer at det kan skytast ammunisjon i andre kaliber enn det skytevåpenet er registrert for, med mindre det er gjort unnatak etter andre ledd.
+Følgjande endringar i eit løyvepliktig skytevåpen kan berre gjerast etter særskilt løyve frå politiet:
+
+1. nedkorting av pipelengde til hagle- kombinasjons- eller riflevåpen til under 40 centimeter,
+2. nedkorting av totallengda til hagle- kombinasjons- eller riflevåpen til under 84 centimeter,
+3. omgjering av ein pistol eller revolver slik at den kan brukast som tohandsskytevåpen,
+4. omgjering av funksjoneringsmåten,
+5. omgjering av eit skytevåpen til å kunne bruke våpenmagasin med magasinkapasitet på meir enn fem patroner for haglevåpen, 10 patroner for rifle eller 20 patroner for pistol, eller
+6. endringar som gjer at det kan skytast ammunisjon i andre kaliber enn det skytevåpenet er registrert for, med mindre det er gjort unnatak etter andre ledd.
 
 Næringsdrivande, som har løyve til å drive med reparasjon eller tilverking etter [våpenlova § 23](lov/2018-04-20-7/§23), kan utan særskilt løyve skifte pipe eller på annan måte modifisere eit skytevåpen slik at det kan skyte ammunisjon i eit anna kaliber enn det skytevåpenet er registrert for. Ein endring av kaliber utan løyve kan likevel berre gjerast når skytevåpenet lovleg kan brukast til det godkjente ervervsgrunnlaget. Ved endring av kaliber utan løyveplikt skal den næringsdrivande sende melding til politiet med opplysingar om endringa på fastsett skjema. Slik melding skal sendast innan ei veke etter at pipa er skifta.
 
 ### § 2-3. Skytevåpen som er fritekne frå løyveplikt
 
-Følgjande skytevåpen er fritekne frå løyveplikt:apparat til slakting som ikkje brukar fritt prosjektil,signalpistolar og andre innretningar for signalgjeving som ikkje kan skyte patron med prosjektil,rednings- og harpungevær som ikkje kan skyte patron med prosjektil,luft-, gass- eller fjørvåpen som er laga for å kunne skyte prosjektil med diameter på 4,5 millimeter eller mindre,paintballvåpen,airsoft våpen,skytevåpen som er konstruert for berre å kunne skyte ammunisjon utan prosjektil, og som oppfyller tekniske krav fastsett av Politidirektoratet,haglevåpen med enkeltskotlading som er lovlig erverva før 1. oktober 1990,svartkrutvåpen produsert før 1890,luft- og fjørvåpen produsert før 1900, ogarmbrøst produsert før 1900.
+Følgjande skytevåpen er fritekne frå løyveplikt:
+
+1. apparat til slakting som ikkje brukar fritt prosjektil,
+2. signalpistolar og andre innretningar for signalgjeving som ikkje kan skyte patron med prosjektil,
+3. rednings- og harpungevær som ikkje kan skyte patron med prosjektil,
+4. luft-, gass- eller fjørvåpen som er laga for å kunne skyte prosjektil med diameter på 4,5 millimeter eller mindre,
+5. paintballvåpen,
+6. airsoft våpen,
+7. skytevåpen som er konstruert for berre å kunne skyte ammunisjon utan prosjektil, og som oppfyller tekniske krav fastsett av Politidirektoratet,
+8. haglevåpen med enkeltskotlading som er lovlig erverva før 1. oktober 1990,
+9. svartkrutvåpen produsert før 1890,
+10. luft- og fjørvåpen produsert før 1900, og
+11. armbrøst produsert før 1900.
 
 Erverv og innehav av deaktiverte skytevåpen etter [§ 12-1](forskrift/2021-05-07-1452/§12-1) er ikkje løyvepliktig, men må meldast til politiet på fastsett skjema.
 
 ### § 2-4. Våpendelar som er underlagt løyve- eller meldeplikt
 
-Med dei unnatak som følgjer av andre og tredje ledd, er erverv og innehav av følgjande våpendelar løyvepliktige:pipe, medrekna innstikningspiper,låskasse,sluttstykke,laus låseblokk,glidestykke til heil- eller halvautomatiske pistolar, ogtønne til revolver.
+Med dei unnatak som følgjer av andre og tredje ledd, er erverv og innehav av følgjande våpendelar løyvepliktige:
+
+1. pipe, medrekna innstikningspiper,
+2. låskasse,
+3. sluttstykke,
+4. laus låseblokk,
+5. glidestykke til heil- eller halvautomatiske pistolar, og
+6. tønne til revolver.
 
 Kravet til løyve etter første ledd gjeld ikkje for våpendelar som berre kan brukast i skytevåpen som er fritekne frå løyveplikt etter [§ 1-5](forskrift/2021-05-07-1452/§1-5) og [§ 2-3](forskrift/2021-05-07-1452/§2-3) nr. 1 til 7, og 10 til 11. Erverv og innehav av våpendelar som er nemnde i første ledd til deaktiverte skytevåpen må likevel meldast til politiet på fastsett skjema. Slik melding skal sendast innan ei veke frå det tidspunkt innehavaren erverva gjenstanden.
 
-Kravet til løyve etter første ledd gjeld heller ikkje for erverv av pipe og sluttstykke til rifler, haglevåpen, pistol eller revolver, samt for tønne til revolver i følgjande tilfelle:når våpendelen passar i eit skytevåpen som ervervar har løyve til å ha,når våpendelen ervervast hos ein person som er godkjent for å kunne drive tilverking, handel eller reparasjon av skytevåpen etter [våpenlova § 23](lov/2018-04-20-7/§23), ogpipa som ervervast er i same kaliber som det løyvepliktige skytevåpenet er registrert for.
+Kravet til løyve etter første ledd gjeld heller ikkje for erverv av pipe og sluttstykke til rifler, haglevåpen, pistol eller revolver, samt for tønne til revolver i følgjande tilfelle:
+
+1. når våpendelen passar i eit skytevåpen som ervervar har løyve til å ha,
+2. når våpendelen ervervast hos ein person som er godkjent for å kunne drive tilverking, handel eller reparasjon av skytevåpen etter [våpenlova § 23](lov/2018-04-20-7/§23), og
+3. pipa som ervervast er i same kaliber som det løyvepliktige skytevåpenet er registrert for.
 
 Ved erverv etter tredje ledd skal den næringsdrivande sende melding til politiet med opplysingar om våpendelen, det skytevåpenet som våpendelen skal brukast i, samt opplysingar om den som skal erverve våpendelen og om vedkomande skal behalde den våpendelen som skiftast ut, på fastsett skjema. Slik melding skal sendast innan ei veke etter at våpendelen vart avhenda.
 
@@ -134,7 +205,12 @@ Første ledd gjeld ikkje for løyve som kan gjevast etter kapittel 4 og 5 i denn
 
 ### § 3-3. Hagle- eller kombinasjonsvåpen
 
-Politiet kan ikkje gje løyve for hagle- eller kombinasjonsvåpen med ein eller fleire av følgjande eigenskapar:hagle- eller kombinasjonsvåpen med kortare totallengde enn 84 centimeter,hagle- eller kombinasjonsvåpen med kortare pipelengde enn 40 centimeter,hagle- eller kombinasjonsvåpen med større magasinkapasitet enn fem patroner, ellerhagle- eller kombinasjonsvåpen med laust magasin, med unnatak for haglevåpen med boltmekanisme.
+Politiet kan ikkje gje løyve for hagle- eller kombinasjonsvåpen med ein eller fleire av følgjande eigenskapar:
+
+1. hagle- eller kombinasjonsvåpen med kortare totallengde enn 84 centimeter,
+2. hagle- eller kombinasjonsvåpen med kortare pipelengde enn 40 centimeter,
+3. hagle- eller kombinasjonsvåpen med større magasinkapasitet enn fem patroner, eller
+4. hagle- eller kombinasjonsvåpen med laust magasin, med unnatak for haglevåpen med boltmekanisme.
 
 Første ledd gjeld ikkje for løyve som kan gjevast etter kapittel 4 og 5 i denne forskrifta eller [våpenlova § 10](lov/2018-04-20-7/§10).
 
@@ -146,13 +222,32 @@ Første ledd gjeld ikkje for løyve som kan gjevast etter kapittel 4 og 5 i denn
 
 ### § 3-5. Våpendelar og ammunisjon
 
-Det er ikkje tillate å erverve, ha, tilverke, innføre eller omsette følgjande våpendelar eller ammunisjon:delar til låskasse eller sluttstykke som er produsert for å kunne gjere eit skytevåpen med manuell omlading om til halv- eller heilautomatisk funksjon,avtrekksmekanismar eller delar til avtrekksmekanismar som er produsert for å gjere eit halvautomatisk skytevåpen om til heilautomatisk funksjon,skjefte eller ramme som gjer ein halvautomatisk pistol om til eit tohandsskytevåpen,komplette patroner i kaliber 12,7X99, 5,7X28 eller 4,6X30,komplette patroner med sporlysprosjektil, ogkomplette patroner med prosjektil som har kjerne av hardmetall og som er konstruerte for å trenge gjennom verneutstyr.
+Det er ikkje tillate å erverve, ha, tilverke, innføre eller omsette følgjande våpendelar eller ammunisjon:
+
+1. delar til låskasse eller sluttstykke som er produsert for å kunne gjere eit skytevåpen med manuell omlading om til halv- eller heilautomatisk funksjon,
+2. avtrekksmekanismar eller delar til avtrekksmekanismar som er produsert for å gjere eit halvautomatisk skytevåpen om til heilautomatisk funksjon,
+3. skjefte eller ramme som gjer ein halvautomatisk pistol om til eit tohandsskytevåpen,
+4. komplette patroner i kaliber 12,7X99, 5,7X28 eller 4,6X30,
+5. komplette patroner med sporlysprosjektil, og
+6. komplette patroner med prosjektil som har kjerne av hardmetall og som er konstruerte for å trenge gjennom verneutstyr.
 
 Første ledd gjeld ikkje for løyve som kan gjevast etter kapittel 4 og 5 i denne forskrifta eller [våpenlova § 10](lov/2018-04-20-7/§10).
 
 ### § 3-6. Ikkje tillatne gjenstandar som ikkje reknast som skytevåpen
 
-Det er ikkje tillate å erverve, ha, tilverke, innføre eller omsette særskilt farlege gjenstandar som saknar eit lovleg bruksområde, og som står fram som eit valdsprodukt, som til dømes:elektrosjokkvåpen,peparspray, tåregasspray eller andre sjølvforsvarssprayar med tilsvarande verknad,springknivar,batangaknivar,stilettar,slåsthanskar,batongar,karatepinnar,kastestjerner,blåserør for å kunne skyte pilar eller andre gjenstandar, ogsprettertar.
+Det er ikkje tillate å erverve, ha, tilverke, innføre eller omsette særskilt farlege gjenstandar som saknar eit lovleg bruksområde, og som står fram som eit valdsprodukt, som til dømes:
+
+1. elektrosjokkvåpen,
+2. peparspray, tåregasspray eller andre sjølvforsvarssprayar med tilsvarande verknad,
+3. springknivar,
+4. batangaknivar,
+5. stilettar,
+6. slåsthanskar,
+7. batongar,
+8. karatepinnar,
+9. kastestjerner,
+10. blåserør for å kunne skyte pilar eller andre gjenstandar, og
+11. sprettertar.
 
 Det er heller ikkje tillate å erverve eller ha knivar med bladlengde frå 25 centimeter, medrekna machetar. Første punktum gjeld ikkje for den som ervervar eller har slik kniv i samband med arbeid, næringsverksemd, friluftsliv, hushaldet, sport, kulturelle aktivitetar eller andre aktverdige føremål, eller som har løyve etter [§ 5-6](forskrift/2021-05-07-1452/§5-6) eller [§ 5-10](forskrift/2021-05-07-1452/§5-10) i denne forskrifta eller [våpenlova § 10](lov/2018-04-20-7/§10).
 
@@ -166,7 +261,11 @@ Denne føresegna gjeld ikkje for peparspray eller batongar som er bestemt for el
 
 ### § 4-1. Halvautomatiske rifler til jakt
 
-Politiet kan gje løyve til erverv og innehav av halvautomatiske riflemodellar som opphavleg er konstruerte for jaktbruk, og som:frå fabrikk er produsert for bruk av våpenmagasin med patronkapasitet på inntil 10,ikkje er tilverka med skjefte eller annan innretning som heilt eller delvis dekker oversida av pipa, ogikkje er tilverka med pistolgrep som står att på våpenet når bakstokken takast av.
+Politiet kan gje løyve til erverv og innehav av halvautomatiske riflemodellar som opphavleg er konstruerte for jaktbruk, og som:
+
+1. frå fabrikk er produsert for bruk av våpenmagasin med patronkapasitet på inntil 10,
+2. ikkje er tilverka med skjefte eller annan innretning som heilt eller delvis dekker oversida av pipa, og
+3. ikkje er tilverka med pistolgrep som står att på våpenet når bakstokken takast av.
 
 Eit løyve etter første ledd kan likevel berre gjevast for våpentypar som oppfyller krava til lovleg våpentype etter [§ 3-1](forskrift/2021-05-07-1452/§3-1) og [§ 3-2](forskrift/2021-05-07-1452/§3-2) i denne forskrifta og [våpenlova § 5](lov/2018-04-20-7/§5) andre ledd.
 
@@ -188,11 +287,23 @@ Eit løyve etter første ledd kan berre gjevast for våpentypar som oppfyller kr
 
 Politiet kan gje løyve til erverv og innehav av halvautomatiske riflemodellar som er godkjent til jakt etter [§ 4-1](forskrift/2021-05-07-1452/§4-1) til sportsskyting.
 
-Politiet kan gje løyve til erverv og innehav av halvautomatiske rifler som nemnt i [våpenlova § 5 andre ledd nr. 3](lov/2018-04-20-7/§5/ledd/2/nummer/3), og våpenmagasin til slike rifler med større patronkapasitet enn 10, med dei avgrensingar som følgjer av [§ 3-1](forskrift/2021-05-07-1452/§3-1) og [§ 3-2](forskrift/2021-05-07-1452/§3-2), til personar som:har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,har i minst to år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for den omsøkte våpentypen, ogdei siste to åra har gjennomført minst 10 organiserte treningar og minst 10 opne stemner arrangert av skyttarorganisasjonen.
+Politiet kan gje løyve til erverv og innehav av halvautomatiske rifler som nemnt i [våpenlova § 5 andre ledd nr. 3](lov/2018-04-20-7/§5/ledd/2/nummer/3), og våpenmagasin til slike rifler med større patronkapasitet enn 10, med dei avgrensingar som følgjer av [§ 3-1](forskrift/2021-05-07-1452/§3-1) og [§ 3-2](forskrift/2021-05-07-1452/§3-2), til personar som:
 
-Politiet kan gje løyve til erverv og innehav av våpenmagasin til rifler med manuell omlading med større patronkapasitet enn 10, med dei avgrensingar som følgjer av [§ 3-1](forskrift/2021-05-07-1452/§3-1) og [§ 3-2](forskrift/2021-05-07-1452/§3-2), til personar som:har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,har i minst eitt år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for rifler med manuell omlading og våpenmagasin med større patronkapasitet enn 10, ogdet siste året har gjennomført minst 10 organiserte treningar og minst fem opne stemner arrangert av skyttarorganisasjonen.
+1. har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,
+2. har i minst to år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for den omsøkte våpentypen, og
+3. dei siste to åra har gjennomført minst 10 organiserte treningar og minst 10 opne stemner arrangert av skyttarorganisasjonen.
 
-Politiet kan gje løyve til erverv og innehav av våpenmagasin til pistol med større patronkapasitet enn 20 til personar som:har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,har i minst eitt år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for våpenmagasin med større patronkapasiteten enn 20, ogdet siste året har gjennomført 10 av skyttarorganisasjonen sine organiserte treningar eller konkurransar.
+Politiet kan gje løyve til erverv og innehav av våpenmagasin til rifler med manuell omlading med større patronkapasitet enn 10, med dei avgrensingar som følgjer av [§ 3-1](forskrift/2021-05-07-1452/§3-1) og [§ 3-2](forskrift/2021-05-07-1452/§3-2), til personar som:
+
+1. har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,
+2. har i minst eitt år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for rifler med manuell omlading og våpenmagasin med større patronkapasitet enn 10, og
+3. det siste året har gjennomført minst 10 organiserte treningar og minst fem opne stemner arrangert av skyttarorganisasjonen.
+
+Politiet kan gje løyve til erverv og innehav av våpenmagasin til pistol med større patronkapasitet enn 20 til personar som:
+
+1. har gjennomført tryggingsopplæring som vert arrangert av skyttarorganisasjonen,
+2. har i minst eitt år vore medlem i skyttarorganisasjon som har eit godkjent skyteprogram for våpenmagasin med større patronkapasiteten enn 20, og
+3. det siste året har gjennomført 10 av skyttarorganisasjonen sine organiserte treningar eller konkurransar.
 
 > Endra ved forskrift [27 mai 2026 nr. 911](forskrift/2026-05-27-911).
 
@@ -202,13 +313,21 @@ Politiet kan gje løyve til erverv og innehav av rifler med manuell eller enkelt
 
 ### § 4-6. Krav til medlemskap, aktivitet og opplæring for erverv av pistolar eller revolver til sportsskyting
 
-Politiet kan gje løyve til erverv og innehav av pistolar eller revolverar til sportsskyting til personar som:har gjennomført tryggingsopplæring arrangert av skyttarorganisasjonen,i minst seks månader har vore medlem i skyttarorganisasjon som har godkjent skyteprogram for den omsøkte våpentypen, ogsiste seks månader har gjennomført 10 av skyttarorganisasjonen sine organiserte treningar eller konkurransar.
+Politiet kan gje løyve til erverv og innehav av pistolar eller revolverar til sportsskyting til personar som:
+
+1. har gjennomført tryggingsopplæring arrangert av skyttarorganisasjonen,
+2. i minst seks månader har vore medlem i skyttarorganisasjon som har godkjent skyteprogram for den omsøkte våpentypen, og
+3. siste seks månader har gjennomført 10 av skyttarorganisasjonen sine organiserte treningar eller konkurransar.
 
 > Endra ved forskrift [18 mars 2025 nr. 469](forskrift/2025-03-18-469) (i kraft 1 mai 2025).
 
 ### § 4-7. Krav til medlemskap, aktivitet og opplæring for erverv av rifle eller haglevåpen til sportsskyting
 
-Politiet kan gje løyve til erverv og innehav av haglevåpen, halvautomatiske rifler som er godkjent til jakt etter [§ 4-1](forskrift/2021-05-07-1452/§4-1), samt rifler med enkeltskot eller manuell omlading til sportsskyting, til personar som:har gjennomført tryggingsopplæring arrangert av ein godkjent skyttarorganisasjonen,er medlem i skyttarorganisasjon som har godkjent skyttarprogram for den omsøkte våpentypen, oghar gjennomført minst seks organiserte treningar eller konkurransar arrangert av skyttarorganisasjonen.
+Politiet kan gje løyve til erverv og innehav av haglevåpen, halvautomatiske rifler som er godkjent til jakt etter [§ 4-1](forskrift/2021-05-07-1452/§4-1), samt rifler med enkeltskot eller manuell omlading til sportsskyting, til personar som:
+
+1. har gjennomført tryggingsopplæring arrangert av ein godkjent skyttarorganisasjonen,
+2. er medlem i skyttarorganisasjon som har godkjent skyttarprogram for den omsøkte våpentypen, og
+3. har gjennomført minst seks organiserte treningar eller konkurransar arrangert av skyttarorganisasjonen.
 
 > Endra ved forskrift [18 mars 2025 nr. 469](forskrift/2025-03-18-469) (i kraft 1 mai 2025).
 
@@ -216,7 +335,10 @@ Politiet kan gje løyve til erverv og innehav av haglevåpen, halvautomatiske ri
 
 Politiet kan gje løyve til erverv og innehav av eitt komplett skytevåpen, samt våpendelar til desse skytevåpena, for kvart godkjent skyteprogram.
 
-Politiet kan likevel gje løyve til erverv og innehav av inntil to komplette skytevåpen til eit godkjent skyteprogram (reservevåpen) til personar som det siste året:har gjennomført minst 10 konkurransar i det aktuelle skyteprogrammet, der fem av desse er opne skytestemner, ellerhar teke del i internasjonale meisterskap.
+Politiet kan likevel gje løyve til erverv og innehav av inntil to komplette skytevåpen til eit godkjent skyteprogram (reservevåpen) til personar som det siste året:
+
+1. har gjennomført minst 10 konkurransar i det aktuelle skyteprogrammet, der fem av desse er opne skytestemner, eller
+2. har teke del i internasjonale meisterskap.
 
 ### Erverv av skytevåpen, våpendelar og ammunisjon til samling
 
@@ -334,7 +456,10 @@ Politiet kan gje reiarar løyve til å mellombels ha skytevåpen, våpendelar og
 
 Politiet kan berre gje løyve etter første ledd for segling i, til eller frå eit område med beredskapsnivå 2, eller 3, jf. [sikkerhetsforskriften § 2](forskrift/2004-06-22-972/§2) og [§ 15](forskrift/2004-06-22-972/§15), og som seglar sør for 46 grader nordleg breidde.
 
-Politiet kan gje løyve etter første ledd for rifler, haglevåpen og pistolar som er godkjente til sportsskyting etter [§ 4-4](forskrift/2021-05-07-1452/§4-4) og [§ 4-5](forskrift/2021-05-07-1452/§4-5) i denne forskrifta og [våpenlova § 12](lov/2018-04-20-7/§12) andre ledd, samt for følgjande skytevåpen:heilautomatiske skytevåpen som brukar ammunisjon med prosjektildiameter inntil 9 millimeter, ogrifler med enkeltskotlading, manuell omlading eller halvautomatisk funksjon, som brukar ammunisjon i kaliber 12,7X99.
+Politiet kan gje løyve etter første ledd for rifler, haglevåpen og pistolar som er godkjente til sportsskyting etter [§ 4-4](forskrift/2021-05-07-1452/§4-4) og [§ 4-5](forskrift/2021-05-07-1452/§4-5) i denne forskrifta og [våpenlova § 12](lov/2018-04-20-7/§12) andre ledd, samt for følgjande skytevåpen:
+
+1. heilautomatiske skytevåpen som brukar ammunisjon med prosjektildiameter inntil 9 millimeter, og
+2. rifler med enkeltskotlading, manuell omlading eller halvautomatisk funksjon, som brukar ammunisjon i kaliber 12,7X99.
 
 Politiet kan gje løyve etter første til tredje ledd for inntil seks månader av gangen.
 
@@ -344,7 +469,11 @@ Politiet kan gje personar som har løyve etter [våpenlova § 23](lov/2018-04-20
 
 Politiet kan gje løyve etter første ledd for erverv og innehav av alle typar skytevåpen, våpendelar og ammunisjon som er naudsynt for næringsverksemda.
 
-Politiet kan berre gje løyve etter første ledd når den næringsdrivande kan dokumentere at:bruken av skytevåpen og ammunisjon skjer på skytefelt som er godkjent for den aktuelle våpentypen,at skytevåpen og ammunisjon brukast av personar som har opplæring i bruken av våpentypane, ogskytevåpen og ammunisjon oppbevarast i samsvar med krava som følgjer av [§ 6-5](forskrift/2021-05-07-1452/§6-5).
+Politiet kan berre gje løyve etter første ledd når den næringsdrivande kan dokumentere at:
+
+1. bruken av skytevåpen og ammunisjon skjer på skytefelt som er godkjent for den aktuelle våpentypen,
+2. at skytevåpen og ammunisjon brukast av personar som har opplæring i bruken av våpentypane, og
+3. skytevåpen og ammunisjon oppbevarast i samsvar med krava som følgjer av [§ 6-5](forskrift/2021-05-07-1452/§6-5).
 
 ### § 5-10. Erverv av våpen som ikkje reknast som skytevåpen
 
@@ -354,7 +483,11 @@ Politiet kan gje løyve etter første ledd til personar som enten skal innlemme 
 
 ### § 5-11. Erverv av skytevåpen og våpendelar for tilsette i politiet og Forsvaret
 
-Politiet kan utan behovsvurdering gje løyve til å erverve og ha skytevåpen til følgjande tenestepersonar i politiet og Forsvaret:offiserar, befal, grenaderar og konstablar som har inngått kontrakt om tilsetting i Forsvaret etter [forsvarslova § 3](lov/2016-08-12-77/§3) bokstav b,tilsette i politi- og lensmannsetaten med politimynde etter [politilova § 20](lov/1995-08-04-53/§20) første ledd, ogstudentar ved Politihøgskulen.
+Politiet kan utan behovsvurdering gje løyve til å erverve og ha skytevåpen til følgjande tenestepersonar i politiet og Forsvaret:
+
+1. offiserar, befal, grenaderar og konstablar som har inngått kontrakt om tilsetting i Forsvaret etter [forsvarslova § 3](lov/2016-08-12-77/§3) bokstav b,
+2. tilsette i politi- og lensmannsetaten med politimynde etter [politilova § 20](lov/1995-08-04-53/§20) første ledd, og
+3. studentar ved Politihøgskulen.
 
 Politiet kan gje løyve etter første ledd for pistol, revolver og rifle med enkeltskot eller manuell omlading med dei avgrensingar som følgjer av kapittel 3, samt for halvautomatiske rifler som er godkjente til jakt etter [våpenlova § 11](lov/2018-04-20-7/§11) andre ledd og kapittel 3 i denne forskrifta. Eit løyve etter første ledd kan gjevast for inntil tre komplette skytevåpen, samt våpendelar til desse skytevåpena.
 
@@ -380,7 +513,12 @@ Den som har fått overlate skytevåpen, våpendelar eller ammunisjon til oppbeva
 
 ### § 6-3. Krav til tryggleik for oppbevaring av ammunisjon hos privatpersonar
 
-I same husstand kan det oppbevarast:inntil 10 000 ferdigladde patroner til ein- eller tohandsskytevåpen, ellerinntil 15 000 ferdigladde patroner når minst 5000 av desse patronene enten er i kaliber .22 Long Rifle eller .22 Short.Inntil 5 kilo røyksvakt krut og inntil 10 000 tennhetter.Inntil 3 kilo svartkrut fordelt på boksar på inntil 1 kilo.
+I same husstand kan det oppbevarast:
+
+1. inntil 10 000 ferdigladde patroner til ein- eller tohandsskytevåpen, eller
+2. inntil 15 000 ferdigladde patroner når minst 5000 av desse patronene enten er i kaliber .22 Long Rifle eller .22 Short.
+3. Inntil 5 kilo røyksvakt krut og inntil 10 000 tennhetter.
+4. Inntil 3 kilo svartkrut fordelt på boksar på inntil 1 kilo.
 
 Det er ikkje tillate å oppbevare ammunisjon i ubebudd hytte, hus eller liknande. Løyvehavar sin bustad reknast som bebudd sjølv om vedkomande er fråverande i lengre tid. Første punktum gjeld likevel ikkje for prosjektil til luft- eller fjørvåpen, som er unnateke frå løyveplikt etter [§ 2-3](forskrift/2021-05-07-1452/§2-3).
 
@@ -444,7 +582,13 @@ Denne føresegna gjeld ikkje for Svalbard. Sysselmeisteren på Svalbard kan gje 
 
 ### § 6-9. Krav til utferding av fråsegn ved utlån av skytevåpen og våpendelar
 
-Den som lånar ut løyvepliktige skytevåpen eller våpendelar til andre, skal gje mottakar ein skriftleg fråsegn om utlånet med følgjande innhald:långjevar og låntakar sine namn og adresser,nummer og namn på utferdande mynde på långjevar og låntakar sitt våpenløyve,våpentype, kaliber, fabrikkmerke og nummer på dei skytevåpen eller våpendelar som lånast ut,kva skytevåpena eller våpendelane skal brukast til, ogtidsrommet skytevåpena eller våpendelane er låna ut.
+Den som lånar ut løyvepliktige skytevåpen eller våpendelar til andre, skal gje mottakar ein skriftleg fråsegn om utlånet med følgjande innhald:
+
+1. långjevar og låntakar sine namn og adresser,
+2. nummer og namn på utferdande mynde på långjevar og låntakar sitt våpenløyve,
+3. våpentype, kaliber, fabrikkmerke og nummer på dei skytevåpen eller våpendelar som lånast ut,
+4. kva skytevåpena eller våpendelane skal brukast til, og
+5. tidsrommet skytevåpena eller våpendelane er låna ut.
 
 Fråsegna om utlån saman med løyvet til å ha den aktuelle våpentypen gjeld som våpenkort.
 
@@ -454,7 +598,16 @@ Krava til fråsegn etter [våpenlova § 18](lov/2018-04-20-7/§18) gjeld ikkje f
 
 ### § 6-10. Krav til utferding av lister over lån for juridiske personar
 
-Bedrifter, godkjente skyttarorganisasjonar eller andre juridiske personar som låner ut løyvepliktige skytevåpen eller våpendelar til medlemer eller tilsette i organisasjonen skal føre ei liste over utlån med følgjande innhald:långjevar og låntakar sine namn og adresser,namn på den våpenansvarlege i organisasjonen,namn på utferdande mynde for långjevar og låntakar sitt våpenløyve,våpentype, kaliber, fabrikkmerke og nummer på dei skytevåpen ellervåpendelar som lånast ut,kva skytevåpena eller våpendelane skal brukast til,tidsrommet skytevåpena eller våpendelane er låna ut, ogdato for når skytevåpena eller våpendelane er innlevert.
+Bedrifter, godkjente skyttarorganisasjonar eller andre juridiske personar som låner ut løyvepliktige skytevåpen eller våpendelar til medlemer eller tilsette i organisasjonen skal føre ei liste over utlån med følgjande innhald:
+
+1. långjevar og låntakar sine namn og adresser,
+2. namn på den våpenansvarlege i organisasjonen,
+3. namn på utferdande mynde for långjevar og låntakar sitt våpenløyve,
+4. våpentype, kaliber, fabrikkmerke og nummer på dei skytevåpen eller
+5. våpendelar som lånast ut,
+6. kva skytevåpena eller våpendelane skal brukast til,
+7. tidsrommet skytevåpena eller våpendelane er låna ut, og
+8. dato for når skytevåpena eller våpendelane er innlevert.
 
 Bedrifter som leverer ut løyvepliktige skytevåpen eller våpendelar til sine tilsette, skal i tillegg føre ei liste over dei tilsette som er godkjent for å kunne få utlevert skytevåpen eller våpendelar.
 
@@ -478,7 +631,11 @@ Politiet kan berre gje fritak etter første ledd når skytevåpena og løyveplik
 
 ### § 7-2. Vilkår for fritak frå alderskravet på 21 år for erverv og innehav av pistol eller revolver.
 
-Politiet kan gje personar over 18 år fritak frå alderskravet på 21 år for erverv og innehav av pistol eller revolver, samt våpendelar til desse skytevåpena når vedkomande har:gjennomført tryggingsopplæring for den aktuelle våpentypen hos den godkjente skyttarorganisasjonen,i minst to år vore medlem i skyttarorganisasjon med godkjent skyttarprogram for den aktuelle våpentypen, ogdei siste to åra gjennomført minst 10 opne stemner med den aktuelle våpentypen hos den godkjente skyttarorganisasjonen.
+Politiet kan gje personar over 18 år fritak frå alderskravet på 21 år for erverv og innehav av pistol eller revolver, samt våpendelar til desse skytevåpena når vedkomande har:
+
+1. gjennomført tryggingsopplæring for den aktuelle våpentypen hos den godkjente skyttarorganisasjonen,
+2. i minst to år vore medlem i skyttarorganisasjon med godkjent skyttarprogram for den aktuelle våpentypen, og
+3. dei siste to åra gjennomført minst 10 opne stemner med den aktuelle våpentypen hos den godkjente skyttarorganisasjonen.
 
 ### § 7-3. Aldersgrense for erverv og innehav av nærare bestemte våpen som ikkje reknast som skytevåpen
 
@@ -500,13 +657,23 @@ Det krevst ikkje plettfri vandel for å kunne erverve og ha skytevåpen, våpend
 
 ### § 7-6. Utfyllande føresegner for skikkavurderinga
 
-Ved vurderinga av om ein person skal reknast som uskikka grunna tilknyting til kriminelle miljø eller andre forhold etter [våpenlova § 16](lov/2018-04-20-7/§16) første ledd, kan det leggast vekt på opplysingar som er registrert i medhald av [politiregisterforskrifta](forskrift/2013-09-20-1097). Det kan leggast vekt på opplysingar i følgjande register:kriminaletteretningsregisteret (kapittel 47),straffesaksregisteret (kapittel 48),etterlysingsregisteret (kapittel 51),politioperative register (kapittel 53), ogarrestjournal (kapittel 54).
+Ved vurderinga av om ein person skal reknast som uskikka grunna tilknyting til kriminelle miljø eller andre forhold etter [våpenlova § 16](lov/2018-04-20-7/§16) første ledd, kan det leggast vekt på opplysingar som er registrert i medhald av [politiregisterforskrifta](forskrift/2013-09-20-1097). Det kan leggast vekt på opplysingar i følgjande register:
+
+1. kriminaletteretningsregisteret (kapittel 47),
+2. straffesaksregisteret (kapittel 48),
+3. etterlysingsregisteret (kapittel 51),
+4. politioperative register (kapittel 53), og
+5. arrestjournal (kapittel 54).
 
 Det kan også leggjast vekt på opplysingar som politiet mottek frå Politiets tryggingsteneste.
 
 ### § 7-7. Krav til butid
 
-For utlendingar krevst det fem år butid i Noreg før politiet kan utferde løyve etter denne forskrifta eller [våpenlova](lov/2018-04-20-7). Kravet om butid gjeld likevel ikkje for:EØS-borgar som legg fram politiattest frå heimstaten sin,utlending frå land utanfor EØS som dei siste fem åra har opphalde seg lovleg i eit EØS-land, og som kan leggje fram politiattest og bevis på lovleg opphald frå EØS-landet, ogutlending frå land utanfor EØS med tidlegare opphald i Noreg, der fråværet frå Noreg er så kortvarig at det kan gjennomførast tilfredsstillande vandelskontroll.
+For utlendingar krevst det fem år butid i Noreg før politiet kan utferde løyve etter denne forskrifta eller [våpenlova](lov/2018-04-20-7). Kravet om butid gjeld likevel ikkje for:
+
+1. EØS-borgar som legg fram politiattest frå heimstaten sin,
+2. utlending frå land utanfor EØS som dei siste fem åra har opphalde seg lovleg i eit EØS-land, og som kan leggje fram politiattest og bevis på lovleg opphald frå EØS-landet, og
+3. utlending frå land utanfor EØS med tidlegare opphald i Noreg, der fråværet frå Noreg er så kortvarig at det kan gjennomførast tilfredsstillande vandelskontroll.
 
 For tredjelandsborgarar som ikkje har fått opphaldsløyve før innreise til Noreg, skal butida reknast frå den datoen søknaden om opphaldsløyve vert registrert hos utlendingsmynda. For EØS-borgar, og tredjelandsborgar som har fått opphaldsløyve før innreise til Noreg, vert butida rekna frå det tidspunktet som følgjer av [politiregisterforskrifta § 28-4](forskrift/2013-09-20-1097/§28-4).
 
@@ -552,7 +719,16 @@ Politiet kan sette særskilte vilkår for godkjenning av skytebaner om tryggings
 
 ### § 8-6. Utfyllande reglar for godkjenning av skyttarorganisasjon
 
-Når vilkåra etter [våpenlova § 28](lov/2018-04-20-7/§28) andre ledd er oppfylte kan politiet godkjenne skyttarorganisasjonar som:har eit eige styre,har ein stabil drift og økonomi,er registrert i Enhetsregisteret,er open for medlemskap for personar frå heile riket,er tilknytt ein internasjonal skyttarorganisasjon,har minst 10 lokallag,har terminliste med minst 10 opne stemner per år, oghar eit teknisk skyteprogram som skildrar organisasjonen sine skytedisiplinar og kva skytevåpen som kan brukast.
+Når vilkåra etter [våpenlova § 28](lov/2018-04-20-7/§28) andre ledd er oppfylte kan politiet godkjenne skyttarorganisasjonar som:
+
+1. har eit eige styre,
+2. har ein stabil drift og økonomi,
+3. er registrert i Enhetsregisteret,
+4. er open for medlemskap for personar frå heile riket,
+5. er tilknytt ein internasjonal skyttarorganisasjon,
+6. har minst 10 lokallag,
+7. har terminliste med minst 10 opne stemner per år, og
+8. har eit teknisk skyteprogram som skildrar organisasjonen sine skytedisiplinar og kva skytevåpen som kan brukast.
 
 Godkjente skyttarorganisasjonar skal ein gang i året sende politiet ein kopi av årsmøteprotokoll med årsmelding og rekneskap.
 
@@ -566,7 +742,11 @@ Politiet kan godkjenne skyteprogram for halvautomatiske rifler som er godkjent t
 
 ### § 8-8. Utfyllande reglar for godkjenning av våpensamlarorganisasjonar
 
-Politiet kan godkjenne våpensamlarorganisasjonar som oppfyller vilkåra etter [våpenlova § 28](lov/2018-04-20-7/§28) andre ledd og som har:eit eige styre,ein stabil drift og økonomi, oger registrert i Enhetsregisteret.
+Politiet kan godkjenne våpensamlarorganisasjonar som oppfyller vilkåra etter [våpenlova § 28](lov/2018-04-20-7/§28) andre ledd og som har:
+
+1. eit eige styre,
+2. ein stabil drift og økonomi, og
+3. er registrert i Enhetsregisteret.
 
 Godkjente våpensamlarorganisasjonar skal ein gang i året sende politiet ein kopi av årsmøteprotokoll med årsmelding og rekneskap.
 
@@ -588,7 +768,14 @@ Den som vil drive handel, mekling eller utleige av luft-, gass- eller fjørvåpe
 
 ### § 9-3. Vilkår for løyve til å drive handel, mekling eller utleige av skytevåpen med vidare
 
-Politiet kan gje løyve til å drive handel, mekling eller utleige av skytevåpen, våpendelar og ammunisjon til personar som oppfyller krava som er fastsett i [våpenlova § 23](lov/2018-04-20-7/§23), og som:har fylt 21 år,har enten bestått kurs godkjent av Politidirektoratet, arbeida i minst to år i våpenforretning- eller avdeling og som har tileigna seg tilstrekkeleg kjennskap til skytevåpen og våpenlovgjeving, eller som har løyve til å drive ervervsmessig reparasjon eller tilverking av skytevåpen,er registrert i Foretaksregisteret,har ein forretning som skal vere open i normal forretningstid når løyvet gjeld handel med skytevåpen, våpendelar eller ammunisjon frå ein fast forretningsstad,har forretningslokale som oppfyller krava etter [plan- og bygningslova](lov/2008-06-27-71), ogoppbevarer skytevåpen og ammunisjon i samsvar med krava etter [§ 6-5](forskrift/2021-05-07-1452/§6-5).
+Politiet kan gje løyve til å drive handel, mekling eller utleige av skytevåpen, våpendelar og ammunisjon til personar som oppfyller krava som er fastsett i [våpenlova § 23](lov/2018-04-20-7/§23), og som:
+
+1. har fylt 21 år,
+2. har enten bestått kurs godkjent av Politidirektoratet, arbeida i minst to år i våpenforretning- eller avdeling og som har tileigna seg tilstrekkeleg kjennskap til skytevåpen og våpenlovgjeving, eller som har løyve til å drive ervervsmessig reparasjon eller tilverking av skytevåpen,
+3. er registrert i Foretaksregisteret,
+4. har ein forretning som skal vere open i normal forretningstid når løyvet gjeld handel med skytevåpen, våpendelar eller ammunisjon frå ein fast forretningsstad,
+5. har forretningslokale som oppfyller krava etter [plan- og bygningslova](lov/2008-06-27-71), og
+6. oppbevarer skytevåpen og ammunisjon i samsvar med krava etter [§ 6-5](forskrift/2021-05-07-1452/§6-5).
 
 Er søkaren ein juridisk person der andre enn dagleg leiar har den direkte leiinga av handelen med skytevåpen, våpendelar og ammunisjon, er det tilstrekkeleg at den direkte ansvarlege for næringsverksemda oppfyller krava til fagleg dugleik etter første ledd nr. 2.
 
@@ -608,11 +795,19 @@ Eit løyve etter [§ 9-1](forskrift/2021-05-07-1452/§9-1) skal førast på fast
 
 Ved utlevering av løyvepliktige skytevåpen, våpendelar eller ammunisjon skal løyvehavar krevje førelagt dokumentasjon for mottakaren sin identitet saman med dokumentasjon for ervervsløyve.
 
-Når løyvehavar utleverer løyvepliktige skytevåpen, våpendelar eller ammunisjon til annan løyvehavar etter [§ 9-1](forskrift/2021-05-07-1452/§9-1) skal den som leverer ut gjenstandane gje følgjande opplysingar til politiet:dato for leveringa,namn og adresse på mottakaren, ogtal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar, samt det kvantum og art av ammunisjon som utleverast.
+Når løyvehavar utleverer løyvepliktige skytevåpen, våpendelar eller ammunisjon til annan løyvehavar etter [§ 9-1](forskrift/2021-05-07-1452/§9-1) skal den som leverer ut gjenstandane gje følgjande opplysingar til politiet:
+
+1. dato for leveringa,
+2. namn og adresse på mottakaren, og
+3. tal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar, samt det kvantum og art av ammunisjon som utleverast.
 
 ### § 9-6. Krav til dokumentasjon for omsetnad med skytevåpen eller våpendelar
 
-Løyvehavar skal laupande føre oppgåve over alle kjøp, sal, utlån eller andre former for utlevering eller erverv av løyve- eller meldepliktige skytevåpen eller våpendelar. Oppgåva skal opplyse om:dato for mottak eller levering,namn og adresse på seljar eller kjøpar, ogtal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar.
+Løyvehavar skal laupande føre oppgåve over alle kjøp, sal, utlån eller andre former for utlevering eller erverv av løyve- eller meldepliktige skytevåpen eller våpendelar. Oppgåva skal opplyse om:
+
+1. dato for mottak eller levering,
+2. namn og adresse på seljar eller kjøpar, og
+3. tal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar.
 
 Ved sal eller andre former for utlevering skal løyvehavar legge ved eit eksemplar av personen sitt ervervsløyve, eller salsmelding om det er sal til ein annan forhandlar. Ved kjøp eller anna erverv frå privatperson skal løyvehavar legge ved ei kjøpsmelding. Ved innførsel skal løyvehavar legge ved eit eksemplar av leverandøren sin faktura og fraktsetel. Løyvehavar skal innan ti dagar etter at ein transaksjon som nemnt i første ledd er gjennomført, sende slik oppgåve i elektronisk form til politiet der forhandlaren har sin forretningsstad.
 
@@ -622,13 +817,22 @@ Løyvehavar som får tilkomst til skytevåpen som ikkje er registrert i samsvar 
 
 ### § 9-7. Krav til dokumentasjon for omsetnad med våpenmagasin
 
-Løyvehavar skal laupande føre oppgåve over alle kjøp, sal, utlån eller annan avhending av lause våpenmagasin med patronkapasitet på meir enn fem for haglevåpen, 10 for rifler og 20 for pistol (våpenmagasinprotokoll). Oppgåva kan vere elektronisk eller papirbasert og skal opplyse om:dato for kjøp, sal, utlån eller annan avhending,namn på kjøper, ogkjøparen sitt løyve til å kunne erverve våpenmagasin som nemnt i første ledd, samt art og kvantum av lause våpenmagasin som mottakast eller leverast.
+Løyvehavar skal laupande føre oppgåve over alle kjøp, sal, utlån eller annan avhending av lause våpenmagasin med patronkapasitet på meir enn fem for haglevåpen, 10 for rifler og 20 for pistol (våpenmagasinprotokoll). Oppgåva kan vere elektronisk eller papirbasert og skal opplyse om:
+
+1. dato for kjøp, sal, utlån eller annan avhending,
+2. namn på kjøper, og
+3. kjøparen sitt løyve til å kunne erverve våpenmagasin som nemnt i første ledd, samt art og kvantum av lause våpenmagasin som mottakast eller leverast.
 
 Løyvehavar skal oppbevare våpenmagasinprotokollen i minst tre år etter at våpenmagasinet er kjøpt, seld, utlånt eller avhenda på anna måte.
 
 ### § 9-8. Krav til dokumentasjon for omsetnad med ammunisjon
 
-Løyvehavar skal føre ein laupande oppgåve over alt kjøp eller sal av ammunisjon (ammunisjonsprotokoll). Oppgåva kan vere elektronisk eller papirbasert og skal opplyse om:dato for kjøp eller sal,namn på kjøpar,kjøparen eller utlånaren sitt våpenkortnummer eller ervervsløyve, ogart og kvantum av ammunisjonen som mottakas eller leverast.
+Løyvehavar skal føre ein laupande oppgåve over alt kjøp eller sal av ammunisjon (ammunisjonsprotokoll). Oppgåva kan vere elektronisk eller papirbasert og skal opplyse om:
+
+1. dato for kjøp eller sal,
+2. namn på kjøpar,
+3. kjøparen eller utlånaren sitt våpenkortnummer eller ervervsløyve, og
+4. art og kvantum av ammunisjonen som mottakas eller leverast.
 
 Løyvehavar skal oppbevare ammunisjonsprotokollen i minst tre år etter at ammunisjonen er kjøpt eller seld.
 
@@ -652,7 +856,14 @@ Den som vil drive ervervsmessig tilverking av ammunisjon utan eksplosivar må ha
 
 ### § 9-12. Vilkår for løyve
 
-Politiet kan gje løyve etter [§ 9-10](forskrift/2021-05-07-1452/§9-10) og [§ 9-11](forskrift/2021-05-07-1452/§9-11) i denne forskrifta til personar som oppfyller krava som er fastsett i [våpenlova § 23](lov/2018-04-20-7/§23) og som:har fylt 18 år. Personar som skal drive ervervsmessig reparasjon, ombygging eller tilverking av pistol eller revolver eller delar til slike skytevåpen må likevel ha fylt 21 år,har norsk sveinebrev som børsemakar eller annan utdanning som gjev tilsvarande relevant fagkunnskap,er registrert i Foretaksregisteret,har forretningslokale som oppfyller krava etter [plan- og bygningslova](lov/2008-06-27-71),oppbevarer skytevåpen og ammunisjon i samsvar med krava etter [§ 6-5](forskrift/2021-05-07-1452/§6-5), og somoppbevarer skytevåpen og løyvepliktige våpendelar og ammunisjon som ikkje er ferdig tilverka i bemanna eller låst lokale.
+Politiet kan gje løyve etter [§ 9-10](forskrift/2021-05-07-1452/§9-10) og [§ 9-11](forskrift/2021-05-07-1452/§9-11) i denne forskrifta til personar som oppfyller krava som er fastsett i [våpenlova § 23](lov/2018-04-20-7/§23) og som:
+
+1. har fylt 18 år. Personar som skal drive ervervsmessig reparasjon, ombygging eller tilverking av pistol eller revolver eller delar til slike skytevåpen må likevel ha fylt 21 år,
+2. har norsk sveinebrev som børsemakar eller annan utdanning som gjev tilsvarande relevant fagkunnskap,
+3. er registrert i Foretaksregisteret,
+4. har forretningslokale som oppfyller krava etter [plan- og bygningslova](lov/2008-06-27-71),
+5. oppbevarer skytevåpen og ammunisjon i samsvar med krava etter [§ 6-5](forskrift/2021-05-07-1452/§6-5), og som
+6. oppbevarer skytevåpen og løyvepliktige våpendelar og ammunisjon som ikkje er ferdig tilverka i bemanna eller låst lokale.
 
 Er søkaren ein juridisk person der andre enn dagleg leiar har den direkte leiinga av næringsverksemda, er det tilstrekkeleg at den direkte ansvarlege for næringsverksemda oppfyller krava til fagleg dugleik etter første ledd nr. 2.
 
@@ -668,7 +879,11 @@ Eit løyve til å drive ervervsmessig reparasjon, ombygging eller tilverking ett
 
 ### § 9-14. Krav ved utlevering og til dokumentasjon
 
-Ved utlevering av løyvepliktige skytevåpen, våpendelar eller ammunisjon skal løyvehavar krevje førelagt dokumentasjon for mottakaren sin identitet saman med dokumentasjon for ervervsløyve. Løyvehavar skal laupande føre oppgåve over alle erverv, sal og tilverking av løyve- eller meldepliktige skytevåpen eller våpendelar etter [våpenlova § 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6). Oppgåva skal opplyse om:dato for mottak, levering eller tilverking,namn og adresse på seljar eller kjøpar, ogtal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar som kjøpast, seljast eller leverast.
+Ved utlevering av løyvepliktige skytevåpen, våpendelar eller ammunisjon skal løyvehavar krevje førelagt dokumentasjon for mottakaren sin identitet saman med dokumentasjon for ervervsløyve. Løyvehavar skal laupande føre oppgåve over alle erverv, sal og tilverking av løyve- eller meldepliktige skytevåpen eller våpendelar etter [våpenlova § 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6). Oppgåva skal opplyse om:
+
+1. dato for mottak, levering eller tilverking,
+2. namn og adresse på seljar eller kjøpar, og
+3. tal, type eller art, fabrikkmerke, modell, kaliber og nummer på skytevåpen eller våpendelar som kjøpast, seljast eller leverast.
 
 Ved sal, utlån eller anna utlevering skal løyvehavar legge ved eit eksemplar av personen sitt ervervsløyve eller salsmelding viss det er sal til ein annan forhandlar.
 
@@ -692,7 +907,13 @@ Den som tilverkar ammunisjon i medhald av løyve etter [våpenlova § 23](lov/20
 
 ### § 10-1. Kva skytevåpen som omfattast av kravet til løyve for inn- og utførsel av skytevåpen, våpendelar og ammunisjon
 
-Med skytevåpen, våpendelar og ammunisjon i dette kapitelet meinast skytevåpen, våpendelar og ammunisjon som er underlagt løyve- eller meldeplikt etter [våpenlova § 5](lov/2018-04-20-7/§5), [§ 6](lov/2018-04-20-7/§6) og [§ 7](lov/2018-04-20-7/§7). Føresegnene i dette kapitelet gjeld også for følgjande skytevåpen, våpendelar og ammunisjon, som er fritekne frå løyveplikt etter [§ 2-3](forskrift/2021-05-07-1452/§2-3):apparat til slakting som ikkje brukar fritt prosjektil,rednings- og harpungevær, som ikkje kan skyte patron med prosjektil,skytevåpen som er konstruert for berre å kunne skyte ammunisjon utan prosjektil, og som oppfyller tekniske krav fastsett av Politidirektoratet,svartkrutvåpen produsert før 1890, oglåskasser, piper eller ammunisjon til skytevåpen som nemnt i nummer 1 til 4.
+Med skytevåpen, våpendelar og ammunisjon i dette kapitelet meinast skytevåpen, våpendelar og ammunisjon som er underlagt løyve- eller meldeplikt etter [våpenlova § 5](lov/2018-04-20-7/§5), [§ 6](lov/2018-04-20-7/§6) og [§ 7](lov/2018-04-20-7/§7). Føresegnene i dette kapitelet gjeld også for følgjande skytevåpen, våpendelar og ammunisjon, som er fritekne frå løyveplikt etter [§ 2-3](forskrift/2021-05-07-1452/§2-3):
+
+1. apparat til slakting som ikkje brukar fritt prosjektil,
+2. rednings- og harpungevær, som ikkje kan skyte patron med prosjektil,
+3. skytevåpen som er konstruert for berre å kunne skyte ammunisjon utan prosjektil, og som oppfyller tekniske krav fastsett av Politidirektoratet,
+4. svartkrutvåpen produsert før 1890, og
+5. låskasser, piper eller ammunisjon til skytevåpen som nemnt i nummer 1 til 4.
 
 Føresegnene om inn og utførsel av ammunisjon etter dette kapitlet gjeld ikkje for inn- eller utførsel av ammunisjon som går inn under [lov 14. juni 1974 nr. 39 om eksplosive varer (gjeld berre for Svalbard)](lov/1974-06-14-39).
 
@@ -722,7 +943,13 @@ Politiet skal ta hand om skytevåpen, våpendelar og ammunisjon som ikkje hentas
 
 ### § 10-6. Krav til rapportering
 
-Om skytevåpen, våpendelar eller ammunisjon skal førast inn frå ein stat tilknytt Schengen-samarbeidet, skal politiet innan sju dagar etter at løyvet til innførsel vart utferda, sende følgjande opplysingar til sendarstaten:mottakar-, sendar- og eventuell transittstat,kopi av innførselløyvet,namn og adresse på mottakar av dei innførte gjenstandane,namn og adresse på avsendaren, ogutløpsdato for innførselløyvet.
+Om skytevåpen, våpendelar eller ammunisjon skal førast inn frå ein stat tilknytt Schengen-samarbeidet, skal politiet innan sju dagar etter at løyvet til innførsel vart utferda, sende følgjande opplysingar til sendarstaten:
+
+1. mottakar-, sendar- og eventuell transittstat,
+2. kopi av innførselløyvet,
+3. namn og adresse på mottakar av dei innførte gjenstandane,
+4. namn og adresse på avsendaren, og
+5. utløpsdato for innførselløyvet.
 
 ### Ikkje-ervervsmessig innførsel
 
@@ -768,13 +995,26 @@ Ved utførsel skal Tolletaten føre på løyvet kva varer som er utført og send
 
 ### § 10-13. Krav til rapportering
 
-Om skytevåpen, våpendelar eller ammunisjon skal utførast til ein stat tilknytt Schengen-samarbeidet, skal politiet innan varene førast ut av landet sende følgjande opplysingar til sendarstaten, samt eventuelle transittstatar:sendar-, mottakar- og eventuelt transittstaten,kopi av innførselløyvet,namn og adresse på mottakar av dei innførte gjenstandane,namn og adresse på avsendaren,mengda av skytevåpen, våpendelar og ammunisjon som utførast,opplysingar om merking og godkjenningar av ammunisjon,eventuelle opplysingar om tidspunkt for transitering og berekna tid for innkomst til mottakar, ogutløpsdato for utførselsløyvet.
+Om skytevåpen, våpendelar eller ammunisjon skal utførast til ein stat tilknytt Schengen-samarbeidet, skal politiet innan varene førast ut av landet sende følgjande opplysingar til sendarstaten, samt eventuelle transittstatar:
+
+1. sendar-, mottakar- og eventuelt transittstaten,
+2. kopi av innførselløyvet,
+3. namn og adresse på mottakar av dei innførte gjenstandane,
+4. namn og adresse på avsendaren,
+5. mengda av skytevåpen, våpendelar og ammunisjon som utførast,
+6. opplysingar om merking og godkjenningar av ammunisjon,
+7. eventuelle opplysingar om tidspunkt for transitering og berekna tid for innkomst til mottakar, og
+8. utløpsdato for utførselsløyvet.
 
 ### Mellombels inn- og utførsel av skytevåpen, våpendelar og ammunisjon, utferding av europeisk våpenpass
 
 ### § 10-14. Mellombels innførsel utan europeisk våpenpass
 
-Utanlandsk borgar som ikkje har europeisk våpenpass og som mellombels skal føre skytevåpen, våpendelar eller ammunisjon inn i norsk tollområde må ha løyve frå politiet. Politiet kan gje løyve til personar som:skal bruke skytevåpena til jakt, sportsskyting eller samlaraktivitet,oppfyller krava til minstealder etter [våpenlova § 15](lov/2018-04-20-7/§15) for den aktuelle våpentypen, oghar gyldig løyve frå heimlandet til å ha dei skytevåpen, våpendelar og ammunisjon som skal innførast.
+Utanlandsk borgar som ikkje har europeisk våpenpass og som mellombels skal føre skytevåpen, våpendelar eller ammunisjon inn i norsk tollområde må ha løyve frå politiet. Politiet kan gje løyve til personar som:
+
+1. skal bruke skytevåpena til jakt, sportsskyting eller samlaraktivitet,
+2. oppfyller krava til minstealder etter [våpenlova § 15](lov/2018-04-20-7/§15) for den aktuelle våpentypen, og
+3. har gyldig løyve frå heimlandet til å ha dei skytevåpen, våpendelar og ammunisjon som skal innførast.
 
 Ein søknad om mellombels innførsel av skytevåpen, våpendelar eller ammunisjon skal førast på fastsett skjema. Til søknaden skal det leggast ved dokumentasjon for søkar sin identitet og for at skytevåpenet skal brukast til jakt, sportsskyting eller samlaraktivitet. Slik dokumentasjon kan til dømes vere deltakarliste, innbyding til jakt eller invitasjon frå godkjent våpensamlar. Ein søknad om mellombels innførsel må sendast til det politidistrikt der vedkomande skal opphalde seg, seinast to månader før innreisa.
 
@@ -836,7 +1076,11 @@ Politiet skal seinast kvart femte år kontrollere at godkjente våpensamlarar op
 
 ### § 11-5. Kontroll av næringsverksemd med skytevåpen, våpendelar eller ammunisjon
 
-Politiet skal seinast kvart femte år kontrollere at personar som har løyve til å drive næringsverksemd etter [våpenlova § 23](lov/2018-04-20-7/§23) framleis oppfyller dei vilkår og føresetnader som gjeld for løyvet, medrekna at:krava til oppbevaring av skytevåpen, våpendelar eller ammunisjon etter [§ 6-5](forskrift/2021-05-07-1452/§6-5) er oppfylte,krava til dokumentasjon og rapportering av omsetnaden med skytevåpen og våpendelar etter [§ 9-6](forskrift/2021-05-07-1452/§9-6) og [§ 9-14](forskrift/2021-05-07-1452/§9-14) er oppfylte, ogkrava til dokumentasjon av omsetnaden med våpenmagasin og ammunisjon etter [§ 9-7](forskrift/2021-05-07-1452/§9-7) og [§ 9-8](forskrift/2021-05-07-1452/§9-8) er oppfylte.
+Politiet skal seinast kvart femte år kontrollere at personar som har løyve til å drive næringsverksemd etter [våpenlova § 23](lov/2018-04-20-7/§23) framleis oppfyller dei vilkår og føresetnader som gjeld for løyvet, medrekna at:
+
+1. krava til oppbevaring av skytevåpen, våpendelar eller ammunisjon etter [§ 6-5](forskrift/2021-05-07-1452/§6-5) er oppfylte,
+2. krava til dokumentasjon og rapportering av omsetnaden med skytevåpen og våpendelar etter [§ 9-6](forskrift/2021-05-07-1452/§9-6) og [§ 9-14](forskrift/2021-05-07-1452/§9-14) er oppfylte, og
+3. krava til dokumentasjon av omsetnaden med våpenmagasin og ammunisjon etter [§ 9-7](forskrift/2021-05-07-1452/§9-7) og [§ 9-8](forskrift/2021-05-07-1452/§9-8) er oppfylte.
 
 ### § 11-6. Kontroll med oppbevaring i privat bustad
 
@@ -918,13 +1162,37 @@ Kravet til etterkontroll etter andre ledd gjeld ikkje for skytevåpen som er dea
 
 ### § 12-2. Gebyr for søknad om løyve eller godkjenningar
 
-Det krevjast gebyr for søknad om følgjande løyver eller godkjenningar:1 495 kroner for søknad om løyve til å erverve og ha skytevåpen for personar som ikkje har våpenløyve frå før,745 kroner for søknad om løyve til å erverve og ha skytevåpen for personar som har våpenløyve frå før,374 kroner for søknad om løyve til å erverve og ha skytevåpen som ikkje krev behovsprøving,248 kroner for søknad om løyve til å erverve og ha våpen etter [§ 3-6](forskrift/2021-05-07-1452/§3-6),374 kroner for søknad om løyve til å erverve og ha våpendelar, medrekna våpenmagasin med stor patronkapasitet etter [§ 2-5](forskrift/2021-05-07-1452/§2-5),248 kroner for søknad om løyve til å låne skytevåpen,3 913 kroner for søknad om godkjenning som våpensamlar,7 425 kroner for søknad om godkjenning som skyttar- eller våpensamlarorganisasjon,1 536 kroner for søknad om godkjenning eller endring av teknisk skyteprogram for godkjent skyttarorganisasjon,1 000 kroner for ettergodkjenning av deaktiverte skytevåpen,17 580 kroner for søknad om løyve til å drive næringsverksemd med skytevåpen, våpendelar eller ammunisjon,520 kroner for søknad om løyve for ervervsmessig innførsel av skytevåpen, våpendelar eller ammunisjon,269 kroner for søknad om løyve for ikkje-ervervsmessig innførsel av skytevåpen, våpendelar eller ammunisjon,575 kroner for søknad om løyve for mellombels innførsel av skytevåpen, våpendelar og ammunisjon,269 kroner for søknad om løyve for ikkje-ervervsmessig utførsel av skytevåpen, våpendelar eller ammunisjon,6 556 kroner for godkjenning av sivil skytebane, og375 kroner for søknad om og forlenging av Europeisk våpenpass.
+Det krevjast gebyr for søknad om følgjande løyver eller godkjenningar:
+
+1. 1 495 kroner for søknad om løyve til å erverve og ha skytevåpen for personar som ikkje har våpenløyve frå før,
+2. 745 kroner for søknad om løyve til å erverve og ha skytevåpen for personar som har våpenløyve frå før,
+3. 374 kroner for søknad om løyve til å erverve og ha skytevåpen som ikkje krev behovsprøving,
+4. 248 kroner for søknad om løyve til å erverve og ha våpen etter [§ 3-6](forskrift/2021-05-07-1452/§3-6),
+5. 374 kroner for søknad om løyve til å erverve og ha våpendelar, medrekna våpenmagasin med stor patronkapasitet etter [§ 2-5](forskrift/2021-05-07-1452/§2-5),
+6. 248 kroner for søknad om løyve til å låne skytevåpen,
+7. 3 913 kroner for søknad om godkjenning som våpensamlar,
+8. 7 425 kroner for søknad om godkjenning som skyttar- eller våpensamlarorganisasjon,
+9. 1 536 kroner for søknad om godkjenning eller endring av teknisk skyteprogram for godkjent skyttarorganisasjon,
+10. 1 000 kroner for ettergodkjenning av deaktiverte skytevåpen,
+11. 17 580 kroner for søknad om løyve til å drive næringsverksemd med skytevåpen, våpendelar eller ammunisjon,
+12. 520 kroner for søknad om løyve for ervervsmessig innførsel av skytevåpen, våpendelar eller ammunisjon,
+13. 269 kroner for søknad om løyve for ikkje-ervervsmessig innførsel av skytevåpen, våpendelar eller ammunisjon,
+14. 575 kroner for søknad om løyve for mellombels innførsel av skytevåpen, våpendelar og ammunisjon,
+15. 269 kroner for søknad om løyve for ikkje-ervervsmessig utførsel av skytevåpen, våpendelar eller ammunisjon,
+16. 6 556 kroner for godkjenning av sivil skytebane, og
+17. 375 kroner for søknad om og forlenging av Europeisk våpenpass.
 
 > Endra ved forskrift [24 okt 2025 nr. 2081](forskrift/2025-10-24-2081) (i kraft 1 jan 2026).
 
 ### § 12-3. Fråfall av gebyr
 
-Det krevjast ikkje gebyr for søknad om følgjande løyver:erverv av skytevåpen eller våpendelar, når ervervet skjer ved arv, gåve eller sal mellom familiemedlemer i rett opp- eller nedstigande line,innehav av enkelt- eller dobbeltløpa haglevåpen som vart erverva av løyvehavar før 1. oktober 1990,gjeninnførsel av norske varer etter reparasjon, foredling, eller anna arbeid på varen,ervervsmessig innførsel av delar eller komponentar som skal foredlast eller omarbeidast i Noreg før sal til forhandlar eller forbrukar, ogved forlenging av løyve til ikkje-ervervsmessig inn- eller utførsel etter [§ 10-7](forskrift/2021-05-07-1452/§10-7) og [§ 10-11](forskrift/2021-05-07-1452/§10-11).
+Det krevjast ikkje gebyr for søknad om følgjande løyver:
+
+1. erverv av skytevåpen eller våpendelar, når ervervet skjer ved arv, gåve eller sal mellom familiemedlemer i rett opp- eller nedstigande line,
+2. innehav av enkelt- eller dobbeltløpa haglevåpen som vart erverva av løyvehavar før 1. oktober 1990,
+3. gjeninnførsel av norske varer etter reparasjon, foredling, eller anna arbeid på varen,
+4. ervervsmessig innførsel av delar eller komponentar som skal foredlast eller omarbeidast i Noreg før sal til forhandlar eller forbrukar, og
+5. ved forlenging av løyve til ikkje-ervervsmessig inn- eller utførsel etter [§ 10-7](forskrift/2021-05-07-1452/§10-7) og [§ 10-11](forskrift/2021-05-07-1452/§10-11).
 
 > Endra ved forskrift [24 okt 2025 nr. 2081](forskrift/2025-10-24-2081) (i kraft 1 jan 2026).
 
@@ -936,7 +1204,16 @@ Politidirektoratet er handsamingsansvarleg for våpenregisteret.
 
 ### § 13-2. Opplysningar som kan registrerast
 
-Det kan registrerast opplysingar som er naudsynte for å gjennomføre kontroll med at reglane i [våpenlova](lov/2018-04-20-7) og denne forskrifta vert følgde, samt å trygge ei forsvarleg våpenforvalting, medrekna opplysingar om:våpen, skytevåpen, våpendelar og ammunisjon,kven som søker om løyve eller godkjenning og om grunnlaget for løyvet eller godkjenninga,kven som får utferda løyve eller godkjenning og eventuelle vilkår eller føresetnader for desse,søkar oppfyller vilkåra for løyvet, medrekna krava til personlege eigenskapar etter [våpenlova § 16](lov/2018-04-20-7/§16), og om grunnlaget for eventuelt nekt av løyve,det er gjort unnatak frå kravet til butid etter [§ 7-7](forskrift/2021-05-07-1452/§7-7) tredje ledd,grunnlaget for tilbakekall av løyve,skytevåpen, våpendelar eller ammunisjon som er mellombels overlatne til politiet etter [våpenlova § 31](lov/2018-04-20-7/§31) og [§ 32](lov/2018-04-20-7/§32), ogpersonar som enten skal erverve eller avhende våpen med vidare ved inn- eller utførsel, etter [våpenlova § 21](lov/2018-04-20-7/§21) og [§ 22](lov/2018-04-20-7/§22).
+Det kan registrerast opplysingar som er naudsynte for å gjennomføre kontroll med at reglane i [våpenlova](lov/2018-04-20-7) og denne forskrifta vert følgde, samt å trygge ei forsvarleg våpenforvalting, medrekna opplysingar om:
+
+1. våpen, skytevåpen, våpendelar og ammunisjon,
+2. kven som søker om løyve eller godkjenning og om grunnlaget for løyvet eller godkjenninga,
+3. kven som får utferda løyve eller godkjenning og eventuelle vilkår eller føresetnader for desse,
+4. søkar oppfyller vilkåra for løyvet, medrekna krava til personlege eigenskapar etter [våpenlova § 16](lov/2018-04-20-7/§16), og om grunnlaget for eventuelt nekt av løyve,
+5. det er gjort unnatak frå kravet til butid etter [§ 7-7](forskrift/2021-05-07-1452/§7-7) tredje ledd,
+6. grunnlaget for tilbakekall av løyve,
+7. skytevåpen, våpendelar eller ammunisjon som er mellombels overlatne til politiet etter [våpenlova § 31](lov/2018-04-20-7/§31) og [§ 32](lov/2018-04-20-7/§32), og
+8. personar som enten skal erverve eller avhende våpen med vidare ved inn- eller utførsel, etter [våpenlova § 21](lov/2018-04-20-7/§21) og [§ 22](lov/2018-04-20-7/§22).
 
 ### § 13-3. Tilgang (åtgang til direkte søk)
 

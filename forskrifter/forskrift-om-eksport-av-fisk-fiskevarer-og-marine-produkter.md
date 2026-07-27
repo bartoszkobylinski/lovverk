@@ -40,7 +40,24 @@ Sjømatrådet sletter registrerte eksportører fra registeret dersom den årlige
 
 ## § 4. Årlig avgift og markedsavgift
 
-Til finansiering av de oppgaver som fremgår av [§ 6](forskrift/1991-03-22-157/§6) i denne forskrift skal det svares en årlig avgift og en markedsavgift.Registrerte eksportører skal svare en årlig avgift på kroner 15 000 til Sjømatrådet. Eksportører av ferskvannsfisk svarer en årlig avgift på 30 pst. av ordinær avgift. Ved første gangs registrering svares en avgift for to år på forskudd. Innbetalt avgift kan ikke kreves tilbakebetalt. Avgiftsnivået er upåvirket av når i året registreringen finner sted.Det skal svares markedsavgift beregnet av fob-verdien av eksportert fisk, fiskevarer og marine produkter.Markedsavgiften skal utgjøre 0,75 pst. av fob-verdien av eksportert fisk, krepsdyr, bløtdyr og makroalger som hører under tolltariffens posisjoner 03.01 til 03.08, 12.12, 16.05 og 20.08, med unntak av produkter nevnt i bokstav b, c og d.Markedsavgiften skal utgjøre 0,4 pst. av fob-verdien av eksportert saltfisk, klippfisk og tørrfisk som hører under tolltariffens posisjon 03.05.Markedsavgiften skal utgjøre 0,3 pst. av fob-verdien av eksportert laks og ørret som hører under tolltariffens posisjoner 03.01 til 03.05.Markedsavgiften skal utgjøre 0,3 pst. av fob-verdien av eksportert sild, vassild, makrell, lodde, kolmule, taggmakrell (hestemakrell), øyepål og brisling som hører under tolltariffens posisjoner 03.01 til 03.05.Det svares likevel ikke markedsavgift for følgende forsendelser:Varer som omfattes av tolltariffens posisjon 03.09, 15.04 og 16.04, underposisjon 0511.91 samt varenummer 12.12.2110, 12.12.2910, 12.12.2990, 15.16.1012, 15.16.1020, 16.03.0020, 23.01.2010 og 23.01.2090.Varer hvor markedsavgiften for en sending er mindre enn 100 kroner.Fisk, fiskevarer og marine produkter til Verdens matvareprogram.Fisk, fiskevarer og marine produkter kanalisert via hjelpeorganisasjoner.Varer som Mattilsynet ikke godkjenner for import og som derfor sendes ut av Norge.Utenlandskfanget fisk og utenlandske fiskevarer og marine produkter som i henhold til gjeldende regelverk ikke har vært tollbehandlet inn i Norge og som transporteres direkte til utlandet eller fra tollager til utlandet.Utenlandsfanget fisk og utenlandske fiskevarer og marine produkter som returneres som følge av reklamasjon.
+Til finansiering av de oppgaver som fremgår av [§ 6](forskrift/1991-03-22-157/§6) i denne forskrift skal det svares en årlig avgift og en markedsavgift.
+
+1. Registrerte eksportører skal svare en årlig avgift på kroner 15 000 til Sjømatrådet. Eksportører av ferskvannsfisk svarer en årlig avgift på 30 pst. av ordinær avgift. Ved første gangs registrering svares en avgift for to år på forskudd. Innbetalt avgift kan ikke kreves tilbakebetalt. Avgiftsnivået er upåvirket av når i året registreringen finner sted.
+2. Det skal svares markedsavgift beregnet av fob-verdien av eksportert fisk, fiskevarer og marine produkter.
+
+   1. Markedsavgiften skal utgjøre 0,75 pst. av fob-verdien av eksportert fisk, krepsdyr, bløtdyr og makroalger som hører under tolltariffens posisjoner 03.01 til 03.08, 12.12, 16.05 og 20.08, med unntak av produkter nevnt i bokstav b, c og d.
+   2. Markedsavgiften skal utgjøre 0,4 pst. av fob-verdien av eksportert saltfisk, klippfisk og tørrfisk som hører under tolltariffens posisjon 03.05.
+   3. Markedsavgiften skal utgjøre 0,3 pst. av fob-verdien av eksportert laks og ørret som hører under tolltariffens posisjoner 03.01 til 03.05.
+   4. Markedsavgiften skal utgjøre 0,3 pst. av fob-verdien av eksportert sild, vassild, makrell, lodde, kolmule, taggmakrell (hestemakrell), øyepål og brisling som hører under tolltariffens posisjoner 03.01 til 03.05.
+3. Det svares likevel ikke markedsavgift for følgende forsendelser:
+
+   1. Varer som omfattes av tolltariffens posisjon 03.09, 15.04 og 16.04, underposisjon 0511.91 samt varenummer 12.12.2110, 12.12.2910, 12.12.2990, 15.16.1012, 15.16.1020, 16.03.0020, 23.01.2010 og 23.01.2090.
+   2. Varer hvor markedsavgiften for en sending er mindre enn 100 kroner.
+   3. Fisk, fiskevarer og marine produkter til Verdens matvareprogram.
+   4. Fisk, fiskevarer og marine produkter kanalisert via hjelpeorganisasjoner.
+   5. Varer som Mattilsynet ikke godkjenner for import og som derfor sendes ut av Norge.
+   6. Utenlandskfanget fisk og utenlandske fiskevarer og marine produkter som i henhold til gjeldende regelverk ikke har vært tollbehandlet inn i Norge og som transporteres direkte til utlandet eller fra tollager til utlandet.
+   7. Utenlandsfanget fisk og utenlandske fiskevarer og marine produkter som returneres som følge av reklamasjon.
 
 Nærings- og fiskeridepartementet kan – når særlige grunner taler for det – ved forskrift endre avgiftssatsen i punkt 1 og punkt 2. Departementet kan også ved forskrift fastsette ulik markedsavgift etter bearbeidingsgraden på råstoffet eller råstoffets art.
 
@@ -108,6 +125,21 @@ Er overtredelsen gjort av noen som har handlet på vegne av et selskap eller ann
 
 Denne forskrift trer i kraft 1. juli 1991.
 
-Fra samme tid oppheves:Kgl.res. 2. juli 1948 om regulering av fiskevareeksporten, fastsatt med hjemmel i midlertidig lov 2. juli 1948 nr. 6.Kronprinsreg.res. 24. mai 1956 nr. 3 utførsel av fersk fisk og skalldyr, pigghå og buklapper av pigghå,Kronprinsreg.res. 31. mai 1956 nr. 5 med seinere endringer om utførsel av saltet og sukkersaltet rogn,Kronprinsreg.res. 31. august 1956 nr. 3 om forhåndskontroll ved eksport av fisk og fiskevarer,Kronprinsreg.res. 25. januar 1957 nr. 1 om utførsel av fiskemel,Kronprinsreg.res. 25. januar 1957 nr. 9043 om utførsel av sildemel og rå sildolje m.v.,Forskrift 10. mai 1957 nr. 2 om oppkreving av avgift i medhold av fiskeeksportloven § 11,Kgl.res. 14. juni 1968 avsnitt II om bestemmelser for nye tørrfiskmarkeder,Kgl.res. 4. september 1981 med forskrift om regulering av hermetikkeksporten,Midlertidig forskrift av 29. november 1983 til gjennomføring av utførselsreguleringen forsåvidt angår fisk og fiskevarer,[Kgl.res. 23. januar 1987 nr. 22](forskrift/1987-01-23-22) med forskrift om regulering av eksporten av fersk og frossen sild, samt produkter herav,[Kgl.res. 23. januar 1987 nr. 23](forskrift/1987-01-23-23) med forskrift om regulering av eksporten av saltet sild (herunder røkesild) og brisling,[Forskrift av 20. november 1987 nr. 919](forskrift/1987-11-20-919) om regulering av eksporten av klippfisk og saltfisk,[Forskrift av 8. juni 1990 nr. 442](forskrift/1990-06-08-442) om eksporten av frossen fisk og filet m.v., og om opphevelse av sentraliseringsbestemmelsene for eksport av tørrfisk og tran.
+Fra samme tid oppheves:
+
+1. Kgl.res. 2. juli 1948 om regulering av fiskevareeksporten, fastsatt med hjemmel i midlertidig lov 2. juli 1948 nr. 6.
+2. Kronprinsreg.res. 24. mai 1956 nr. 3 utførsel av fersk fisk og skalldyr, pigghå og buklapper av pigghå,
+3. Kronprinsreg.res. 31. mai 1956 nr. 5 med seinere endringer om utførsel av saltet og sukkersaltet rogn,
+4. Kronprinsreg.res. 31. august 1956 nr. 3 om forhåndskontroll ved eksport av fisk og fiskevarer,
+5. Kronprinsreg.res. 25. januar 1957 nr. 1 om utførsel av fiskemel,
+6. Kronprinsreg.res. 25. januar 1957 nr. 9043 om utførsel av sildemel og rå sildolje m.v.,
+7. Forskrift 10. mai 1957 nr. 2 om oppkreving av avgift i medhold av fiskeeksportloven § 11,
+8. Kgl.res. 14. juni 1968 avsnitt II om bestemmelser for nye tørrfiskmarkeder,
+9. Kgl.res. 4. september 1981 med forskrift om regulering av hermetikkeksporten,
+10. Midlertidig forskrift av 29. november 1983 til gjennomføring av utførselsreguleringen forsåvidt angår fisk og fiskevarer,
+11. [Kgl.res. 23. januar 1987 nr. 22](forskrift/1987-01-23-22) med forskrift om regulering av eksporten av fersk og frossen sild, samt produkter herav,
+12. [Kgl.res. 23. januar 1987 nr. 23](forskrift/1987-01-23-23) med forskrift om regulering av eksporten av saltet sild (herunder røkesild) og brisling,
+13. [Forskrift av 20. november 1987 nr. 919](forskrift/1987-11-20-919) om regulering av eksporten av klippfisk og saltfisk,
+14. [Forskrift av 8. juni 1990 nr. 442](forskrift/1990-06-08-442) om eksporten av frossen fisk og filet m.v., og om opphevelse av sentraliseringsbestemmelsene for eksport av tørrfisk og tran.
 
 > Endret ved [forskrift 27 juni 1997 nr. 648](forskrift/1997-06-27-648) (tidligere § 9).

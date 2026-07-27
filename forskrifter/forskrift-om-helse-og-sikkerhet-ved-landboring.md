@@ -30,7 +30,11 @@ Denne forskrift gjelder boringsrelatert utvinningsindustri for landbasert sektor
 
 ### § 2. Definisjoner
 
-Med boringsrelatert utvinningsindustri menes i denne forskrift all industri som driverutvinning i ordets snevre forstand av mineraler ved boring av borehull, og/ellerskjerping med sikte på slik utvinning, og/ellerbehandling av materiale som er utvunnet for salg, unntatt virksomhet med foredling av materialet.
+Med boringsrelatert utvinningsindustri menes i denne forskrift all industri som driver
+
+- utvinning i ordets snevre forstand av mineraler ved boring av borehull, og/eller
+- skjerping med sikte på slik utvinning, og/eller
+- behandling av materiale som er utvunnet for salg, unntatt virksomhet med foredling av materialet.
 
 ### § 3. Tilsynsmyndighet
 
@@ -40,7 +44,11 @@ Arbeidstilsynet og Direktoratet for samfunnssikkerhet og beredskap er tilsynsmyn
 
 ### § 4. Straffebestemmelse
 
-Overtredelse av denne forskrift straffes etter[arbeidsmiljøloven kapittel 19](lov/2005-06-17-62/kap19) og [straffeloven 2005 § 27](lov/2005-05-20-28/§27) og [§ 28](lov/2005-05-20-28/§28),[brannfarligvareloven § 44](lov/1971-05-21-47/§44), ellerbrann- og [eksplosjonsvernloven § 42](lov/2002-06-14-20/§42).
+Overtredelse av denne forskrift straffes etter
+
+- [arbeidsmiljøloven kapittel 19](lov/2005-06-17-62/kap19) og [straffeloven 2005 § 27](lov/2005-05-20-28/§27) og [§ 28](lov/2005-05-20-28/§28),
+- [brannfarligvareloven § 44](lov/1971-05-21-47/§44), eller
+- brann- og [eksplosjonsvernloven § 42](lov/2002-06-14-20/§42).
 
 > Endret ved [forskrift 8 des 2015 nr. 1892](forskrift/2015-12-08-1892).
 
@@ -66,7 +74,13 @@ Planen skal utarbeides før arbeidet starter og oppdateres regelmessig. Planen s
 
 Arbeidstakerne skal gis tilstrekkelig informasjon om risikoen for ulykker og helseskader som er forbundet med arbeidet.
 
-Arbeidstakerne skal gis opplæring i:hvordan arbeidet er organiserthensiktsmessig arbeidsteknikkvalg og bruk av hjelpemidler og personlig verneutstyrbruk av rømnings- og redningsutstyrbruk av førstehjelpsutstyr.
+Arbeidstakerne skal gis opplæring i:
+
+- hvordan arbeidet er organisert
+- hensiktsmessig arbeidsteknikk
+- valg og bruk av hjelpemidler og personlig verneutstyr
+- bruk av rømnings- og redningsutstyr
+- bruk av førstehjelpsutstyr.
 
 For hver arbeidsplass skal det utarbeides skriftlige instrukser som inneholder de regler som skal følges for å sikre arbeidstakers sikkerhet og helse og for å oppnå en sikker bruk av metoder og utstyr.
 
@@ -96,7 +110,10 @@ Slikt utstyr skal omfatte systemer for isolasjon og avblåsing av brønner, inst
 
 Det skal installeres alarmsystemer og andre kommunikasjonsmidler som er nødvendige for å iverksette øyeblikkelige hjelpe-, rømnings- eller redningsoperasjoner.
 
-Når det fremgår av planen for sikkerhet, helse og arbeidsmiljø skal alle arbeidsplasser være utstyrt med:et akustisk og optisk system som om nødvendig kan overføre et alarmsignal til alle steder hvor det pågår arbeid,et akustisk system som kan høres tydelig på alle steder på installasjonen der det ofte oppholder seg arbeidstakere.
+Når det fremgår av planen for sikkerhet, helse og arbeidsmiljø skal alle arbeidsplasser være utstyrt med:
+
+1. et akustisk og optisk system som om nødvendig kan overføre et alarmsignal til alle steder hvor det pågår arbeid,
+2. et akustisk system som kan høres tydelig på alle steder på installasjonen der det ofte oppholder seg arbeidstakere.
 
 Alarminnretninger skal være festet på hensiktsmessige steder.
 

@@ -15,7 +15,7 @@ xml_hash: "a88666ecc621b3142a4308a9707786c556e94ec8427ceed9e1a8147f2098ab43"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,13 +34,38 @@ Hardanger Fruktprodukt.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1\. *Produktbeskriving*Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger er pærer (*Pyrus*) dyrka i Hardanger. Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal ha dei spesielle eigenskapane som er karakteristiske for den enkelte sorten når det gjeld storleik, form, farge og smak, og tilfredsstille minimumskrava til storleik, og refraktometerverdi i tabell 1.Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal vera feilfrie og ha stilk.*Tabell 1: Produktkrav (minimumskrav) Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger**Pæresort**Diameter (mm)**Refraktometerverdi (%)*Celina50–9010,5–12Clara Frijs50–9010,5–12Ingeborg50–9510,5–12Andre sorter50–9510,5–12
+1\. *Produktbeskriving*
 
-2\. *Geografisk område*Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal dyrkast, sorterast og pakkast i Hardanger. Hardanger definerast som området rundt dei indre delane av Hardangerfjorden, rekna frå dei sørlegaste grensene til kommunane Kvam og Ullensvang og inkludert fjordarmane Granvinsfjorden, Osafjorden med Ulvikpollen, Eidfjorden med Simadalsfjorden og Sørfjorden.
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger er pærer (*Pyrus*) dyrka i Hardanger. Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal ha dei spesielle eigenskapane som er karakteristiske for den enkelte sorten når det gjeld storleik, form, farge og smak, og tilfredsstille minimumskrava til storleik, og refraktometerverdi i tabell 1.
 
-3\. *Produksjonsmetode*Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal dyrkast etter moderne produksjonsmetodar. Pæretrea skal plantast og formast på ein måte som sikrar gode lysforhold i alle delar av trea.Pæretrea skal plantast på jord som er veldrenert, porøs, kalka og grunngjødsla før utplanting. Trea skal ha støttesystem.Trea skal handtynnast ved behov, eventuelt i kombinasjon med bruk av kjemiske tynningsmiddel. Plantevern skal gjennomførast etter prinsippet om integrert plantevern. Det skal vatnast etter behov og kalkast og gjødslast planmessig.Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal tilfredsstilla produktkrava i tabell 1. Pærene skal leverast til kjølelager same dag som hausting, og raskt kjølast ned til rett temperatur og optimal luftråme.
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal vera feilfrie og ha stilk.
 
-4\. *Merking av produktet*Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger kan merkjast med figurmerket for beskytta geografisk nemning / beskyttet geografisk betegnelse.
+*Tabell 1: Produktkrav (minimumskrav) Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger*
+
+| *Pæresort* | *Diameter (mm)* | *Refraktometerverdi (%)* |
+| --- | --- | --- |
+| Celina | 50–90 | 10,5–12 |
+| Clara Frijs | 50–90 | 10,5–12 |
+| Ingeborg | 50–95 | 10,5–12 |
+| Andre sorter | 50–95 | 10,5–12 |
+
+2\. *Geografisk område*
+
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal dyrkast, sorterast og pakkast i Hardanger. Hardanger definerast som området rundt dei indre delane av Hardangerfjorden, rekna frå dei sørlegaste grensene til kommunane Kvam og Ullensvang og inkludert fjordarmane Granvinsfjorden, Osafjorden med Ulvikpollen, Eidfjorden med Simadalsfjorden og Sørfjorden.
+
+3\. *Produksjonsmetode*
+
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal dyrkast etter moderne produksjonsmetodar. Pæretrea skal plantast og formast på ein måte som sikrar gode lysforhold i alle delar av trea.
+
+Pæretrea skal plantast på jord som er veldrenert, porøs, kalka og grunngjødsla før utplanting. Trea skal ha støttesystem.
+
+Trea skal handtynnast ved behov, eventuelt i kombinasjon med bruk av kjemiske tynningsmiddel. Plantevern skal gjennomførast etter prinsippet om integrert plantevern. Det skal vatnast etter behov og kalkast og gjødslast planmessig.
+
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger skal tilfredsstilla produktkrava i tabell 1. Pærene skal leverast til kjølelager same dag som hausting, og raskt kjølast ned til rett temperatur og optimal luftråme.
+
+4\. *Merking av produktet*
+
+Hardangerpærer / Pærer frå Hardanger / Pærer fra Hardanger kan merkjast med figurmerket for beskytta geografisk nemning / beskyttet geografisk betegnelse.
 
 > Endra ved forskrift [25 juli 2023 nr. 1282](forskrift/2023-07-25-1282).
 

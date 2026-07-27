@@ -17,7 +17,7 @@ xml_hash: "e6d718c3e612ddf22d2aa2e540ed8834224c13fc4266032e552c958019fd1547"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -111,7 +111,9 @@ This Regulation lays down rules concerning the entry into the Union of consignme
 
 ### Article 2. Definition
 
-For the purpose of this Regulation, the following definition shall apply:‘Bivalve molluscs’ means bivalve molluscs as defined in point 2.1 of Annex I to [Regulation (EC) No 853/2004](eu/32004r0853).
+For the purpose of this Regulation, the following definition shall apply:
+
+‘Bivalve molluscs’ means bivalve molluscs as defined in point 2.1 of Annex I to [Regulation (EC) No 853/2004](eu/32004r0853).
 
 ### Article 3. Equivalence
 

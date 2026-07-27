@@ -15,7 +15,7 @@ xml_hash: "22eb8dbc136b5ebf16e2cab9e8ee1db81e2778d64166ac4481c1e86d041ed027"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,105 +50,227 @@ Utdanningen skal sikre kompetanse og holdninger som danner grunnlag for likeverd
 
 ### § 3. Kompetanseområder
 
-Anestesisykepleierutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-09-05-1833/kap2) til [8](forskrift/2025-09-05-1833/kap8) for utdanning på 120 studiepoeng og kapittel 2–7 for utdanning på 90 studiepoeng, under følgende kompetanseområder:Anestesisykepleie som fag og profesjonKlinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanseDigital kompetanse og medisinsk utstyrFaglig ledelse og samhandlingKvalitet og pasientsikkerhetVitenskapsteori, forskningsmetode og kunnskapsbasert praksisForskning, kvalitetsarbeid og formidling.
+Anestesisykepleierutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-09-05-1833/kap2) til [8](forskrift/2025-09-05-1833/kap8) for utdanning på 120 studiepoeng og kapittel 2–7 for utdanning på 90 studiepoeng, under følgende kompetanseområder:
+
+- Anestesisykepleie som fag og profesjon
+- Klinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanse
+- Digital kompetanse og medisinsk utstyr
+- Faglig ledelse og samhandling
+- Kvalitet og pasientsikkerhet
+- Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
+- Forskning, kvalitetsarbeid og formidling.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet anestesisykepleie som fag og profesjon
 
 ### § 4. Anestesisykepleie som fag og profesjon – kunnskap
 
-Kandidatenhar inngående kunnskap om anestesisykepleiens profesjonelle identitetsdannelse, egenart, fagområdets historie, tradisjon og plass i samfunnethar inngående kunnskap om anestesisykepleierens funksjons- og ansvarsområder i tråd med nasjonale og internasjonale anestesistandarderhar inngående kunnskap om helse- og omsorgstjenestens organisering, profesjonens etiske retningslinjer, relevante lover og forskrifter, inkludert krav til dokumentasjon av anestesi.
+Kandidaten
+
+1. har inngående kunnskap om anestesisykepleiens profesjonelle identitetsdannelse, egenart, fagområdets historie, tradisjon og plass i samfunnet
+2. har inngående kunnskap om anestesisykepleierens funksjons- og ansvarsområder i tråd med nasjonale og internasjonale anestesistandarder
+3. har inngående kunnskap om helse- og omsorgstjenestens organisering, profesjonens etiske retningslinjer, relevante lover og forskrifter, inkludert krav til dokumentasjon av anestesi.
 
 ### § 5. Anestesisykepleie som fag og profesjon – ferdigheter
 
-Kandidatenkan analysere anestesisykepleierens kompetanseområde og selvstendig anvende relevant kunnskap innenfor fagområdetkan kritisk analysere og anvende egen kompetanse og situasjonsforståelse for å yte omsorg, fremme helse og velvære for den enkelte pasient, i samsvar med lover, forskrifter, retningslinjer og rammer for yrkesutøvelsekan bruke relevante verktøy for å dokumentere anestesiforløp og anestesisykepleienkan selvstendig bruke anerkjente pedagogiske prinsipper til å veilede og undervise.
+Kandidaten
+
+1. kan analysere anestesisykepleierens kompetanseområde og selvstendig anvende relevant kunnskap innenfor fagområdet
+2. kan kritisk analysere og anvende egen kompetanse og situasjonsforståelse for å yte omsorg, fremme helse og velvære for den enkelte pasient, i samsvar med lover, forskrifter, retningslinjer og rammer for yrkesutøvelse
+3. kan bruke relevante verktøy for å dokumentere anestesiforløp og anestesisykepleien
+4. kan selvstendig bruke anerkjente pedagogiske prinsipper til å veilede og undervise.
 
 ### § 6. Anestesisykepleie som fag og profesjon – generell kompetanse
 
-Kandidatenkan analysere kliniske problemstillinger i lys av profesjonens etiske retningslinjerkan analysere og kritisk vurdere nasjonale og internasjonale retningslinjers betydning for faget, og sette det inn i en kontekst for anestesisykepleierens rolle i helsetjenestenkan analysere og ta selvstendig stilling i etiske dilemmaer og kommunisere disse ut i faglige diskusjonerkan analysere betydningen av økonomiske og organisatoriske rammer for å sikre forsvarlig pasientbehandlingkan kommunisere og fremme anestesisykepleierens rolle og funksjon i profesjonelle sammenhenger og i samfunnet for øvrigkan analysere og kritisk vurdere samspillet mellom fagets historiske tradisjoner, samfunnets behov og helsetjenestens utvikling.
+Kandidaten
+
+1. kan analysere kliniske problemstillinger i lys av profesjonens etiske retningslinjer
+2. kan analysere og kritisk vurdere nasjonale og internasjonale retningslinjers betydning for faget, og sette det inn i en kontekst for anestesisykepleierens rolle i helsetjenesten
+3. kan analysere og ta selvstendig stilling i etiske dilemmaer og kommunisere disse ut i faglige diskusjoner
+4. kan analysere betydningen av økonomiske og organisatoriske rammer for å sikre forsvarlig pasientbehandling
+5. kan kommunisere og fremme anestesisykepleierens rolle og funksjon i profesjonelle sammenhenger og i samfunnet for øvrig
+6. kan analysere og kritisk vurdere samspillet mellom fagets historiske tradisjoner, samfunnets behov og helsetjenestens utvikling.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet klinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanse
 
 ### § 7. Klinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanse – kunnskap
 
-Kandidatenhar avansert kunnskap om kommunikasjon, opplevelser, reaksjoner og mestringsstrategier hos pasienter og pårørendehar inngående kunnskap om helsekompetanse, hvilken betydning kultur- og språkbakgrunn har for sykdomsforståelse, pasientmedvirkning og pasienterfaringer innen anestesisykepleiehar avansert kunnskap om ulike pasientgrupper, fra det premature barnet til den komplekse pasienten med sammensatte lidelserhar avansert kunnskap om ikke-tekniske ferdigheterhar avansert kunnskap i fysiologi og patofysiologi som er relevant for yrkesutøvelsenhar avansert kunnskap i anestesiologihar spesialisert innsikt i farmakologi og legemidler som brukes ved anestesi, avansert smertebehandling og palliasjonhar spesialisert innsikt i vurdering og sikring av pasientens luftveier og ventilasjonhar spesialisert innsikt i vasoaktiv behandling, væskebehandling og transfusjonerhar spesialisert innsikt i intravaskulær og intraossøs tilganghar spesialisert innsikt i regionale og sentrale blokaderhar inngående kunnskap om akuttmedisinske og intensivmedisinske tilstanderhar inngående kunnskap om kirurgiske metoder og leiring av pasient under anestesihar inngående kunnskap om relevant mikrobiologi, infeksjonssykdommer, antibiotikabehandling og resistensutvikling nasjonalt og globalthar inngående kunnskap om smittevern og infeksjonsforebyggende tiltakhar inngående kunnskap om anestesisykepleierens rolle ved pandemier, beredskap- og krisehåndtering ved større ulykker, terror og i krigs- og katastrofeområder.
+Kandidaten
+
+1. har avansert kunnskap om kommunikasjon, opplevelser, reaksjoner og mestringsstrategier hos pasienter og pårørende
+2. har inngående kunnskap om helsekompetanse, hvilken betydning kultur- og språkbakgrunn har for sykdomsforståelse, pasientmedvirkning og pasienterfaringer innen anestesisykepleie
+3. har avansert kunnskap om ulike pasientgrupper, fra det premature barnet til den komplekse pasienten med sammensatte lidelser
+4. har avansert kunnskap om ikke-tekniske ferdigheter
+5. har avansert kunnskap i fysiologi og patofysiologi som er relevant for yrkesutøvelsen
+6. har avansert kunnskap i anestesiologi
+7. har spesialisert innsikt i farmakologi og legemidler som brukes ved anestesi, avansert smertebehandling og palliasjon
+8. har spesialisert innsikt i vurdering og sikring av pasientens luftveier og ventilasjon
+9. har spesialisert innsikt i vasoaktiv behandling, væskebehandling og transfusjoner
+10. har spesialisert innsikt i intravaskulær og intraossøs tilgang
+11. har spesialisert innsikt i regionale og sentrale blokader
+12. har inngående kunnskap om akuttmedisinske og intensivmedisinske tilstander
+13. har inngående kunnskap om kirurgiske metoder og leiring av pasient under anestesi
+14. har inngående kunnskap om relevant mikrobiologi, infeksjonssykdommer, antibiotikabehandling og resistensutvikling nasjonalt og globalt
+15. har inngående kunnskap om smittevern og infeksjonsforebyggende tiltak
+16. har inngående kunnskap om anestesisykepleierens rolle ved pandemier, beredskap- og krisehåndtering ved større ulykker, terror og i krigs- og katastrofeområder.
 
 ### § 8. Klinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanse – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskap om kommunikasjon og mestringsstrategi for å ivareta pasient og pårørendekan bruke relevante metoder ved preanestetisk vurdering, forberedelse og gjennomføring av generell anestesi, regional-, lokal anestesi og sedasjonkan bruke relevante metoder i gjennomføring av systematisk klinisk undersøkelse og selvstendig observere, monitorere og vurdere pasienten, samt utføre nødvendige tiltak i gjennomføring av anestesi og i situasjoner der anestesisykepleier er involvertkan bruke relevante metoder for å håndtere effekt og bivirkninger av anestesimedikamenter og relevante tilleggsmedikamenterkan analysere og vurdere pasientens situasjon for å forebygge, behandle og lindre smerte, ubehag og kvalmekan identifisere, analysere og vurdere risiko for komplikasjoner, forebygge og iverksette nødvendige tiltak under utøvelse av anestesikan analysere og selvstendig vurdere pasientens bevissthet og sikre adekvat ventilasjon og sirkulasjon ved gjennomføring av anestesihar avanserte tekniske ferdigheter i å opprettholde frie luftveier og ventilasjon ved bruk av maske/bag, supraglottiske hjelpemidler, og tracheal intubasjon hos barn og voksne, samt anvende hjelpemidler ved vanskelige luftveierkan bruke relevante metoder for å etablere intravaskulær og intraossøs tilgang, inklusiv ultralydveiledet tilgangkan analysere, vurdere og selvstendig ivareta pasienters vitale funksjoner i akutte situasjoner i og utenfor sykehuskan anvende relevante kunnskaper og aktuelle retningslinjer for å forebygge infeksjoner og smittekan bruke kunnskaper og ferdigheter for å håndtere akutt- og intensivmedisinske pasienter ved pandemier og andre beredskapssituasjoner ved katastrofer og større ulykker.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskap om kommunikasjon og mestringsstrategi for å ivareta pasient og pårørende
+2. kan bruke relevante metoder ved preanestetisk vurdering, forberedelse og gjennomføring av generell anestesi, regional-, lokal anestesi og sedasjon
+3. kan bruke relevante metoder i gjennomføring av systematisk klinisk undersøkelse og selvstendig observere, monitorere og vurdere pasienten, samt utføre nødvendige tiltak i gjennomføring av anestesi og i situasjoner der anestesisykepleier er involvert
+4. kan bruke relevante metoder for å håndtere effekt og bivirkninger av anestesimedikamenter og relevante tilleggsmedikamenter
+5. kan analysere og vurdere pasientens situasjon for å forebygge, behandle og lindre smerte, ubehag og kvalme
+6. kan identifisere, analysere og vurdere risiko for komplikasjoner, forebygge og iverksette nødvendige tiltak under utøvelse av anestesi
+7. kan analysere og selvstendig vurdere pasientens bevissthet og sikre adekvat ventilasjon og sirkulasjon ved gjennomføring av anestesi
+8. har avanserte tekniske ferdigheter i å opprettholde frie luftveier og ventilasjon ved bruk av maske/bag, supraglottiske hjelpemidler, og tracheal intubasjon hos barn og voksne, samt anvende hjelpemidler ved vanskelige luftveier
+9. kan bruke relevante metoder for å etablere intravaskulær og intraossøs tilgang, inklusiv ultralydveiledet tilgang
+10. kan analysere, vurdere og selvstendig ivareta pasienters vitale funksjoner i akutte situasjoner i og utenfor sykehus
+11. kan anvende relevante kunnskaper og aktuelle retningslinjer for å forebygge infeksjoner og smitte
+12. kan bruke kunnskaper og ferdigheter for å håndtere akutt- og intensivmedisinske pasienter ved pandemier og andre beredskapssituasjoner ved katastrofer og større ulykker.
 
 ### § 9. Klinisk anestesiutøvelse, observasjons-, vurderings-, beslutnings- og handlingskompetanse – generell kompetanse
 
-Kandidatenkan selvstendig gjennomføre generell anestesi på ellers funksjonsfriske pasienter, og i samarbeid med anestesilege gjennomføre anestesi til pasienter med mer komplekse sykdomstilstander og tilrettelegge for behandling og kirurgikan selvstendig gjennomføre administrering og vedlikehold av regional og lokal anestesi samt sedasjon, og tilrettelegge for behandling og kirurgi,kan anvende kunnskap og ferdigheter for å bistå i smertebehandling og palliasjonhar utviklet situasjonsbevissthet og evne til å kunne prioritere, og eventuelt omprioritere relevante tiltak for å være i forkant og forutse og forebygge komplikasjonerkan anvende kunnskap og ferdigheter for å prioritere hensiktsmessig i akuttsituasjoner og handle raskt og forsvarlig, slik at pasientens livsviktige funksjoner opprettholdes eller gjenoppretteskan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikkkan anvende relevante metoder for å ivareta god pasientbehandling samt tilpasse kommunikasjon og samhandling ut fra pasienters og pårørendes helsekompetanse og språklige bakgrunn.
+Kandidaten
+
+1. kan selvstendig gjennomføre generell anestesi på ellers funksjonsfriske pasienter, og i samarbeid med anestesilege gjennomføre anestesi til pasienter med mer komplekse sykdomstilstander og tilrettelegge for behandling og kirurgi
+2. kan selvstendig gjennomføre administrering og vedlikehold av regional og lokal anestesi samt sedasjon, og tilrettelegge for behandling og kirurgi,
+3. kan anvende kunnskap og ferdigheter for å bistå i smertebehandling og palliasjon
+4. har utviklet situasjonsbevissthet og evne til å kunne prioritere, og eventuelt omprioritere relevante tiltak for å være i forkant og forutse og forebygge komplikasjoner
+5. kan anvende kunnskap og ferdigheter for å prioritere hensiktsmessig i akuttsituasjoner og handle raskt og forsvarlig, slik at pasientens livsviktige funksjoner opprettholdes eller gjenopprettes
+6. kan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk
+7. kan anvende relevante metoder for å ivareta god pasientbehandling samt tilpasse kommunikasjon og samhandling ut fra pasienters og pårørendes helsekompetanse og språklige bakgrunn.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområde digital kompetanse og medisinsk utstyr
 
 ### § 10. Digital kompetanse og medisinsk utstyr – kunnskap
 
-Kandidatenhar avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsenhar spesialisert innsikt i funksjon, kontroll, anvendelse og vedlikehold av avansert medisinsk utstyr innenfor anestesi- og akuttmedisin for å kunne håndtere avvik og ivareta pasientsikkerhet.
+Kandidaten
+
+1. har avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen
+2. har spesialisert innsikt i funksjon, kontroll, anvendelse og vedlikehold av avansert medisinsk utstyr innenfor anestesi- og akuttmedisin for å kunne håndtere avvik og ivareta pasientsikkerhet.
 
 ### § 11. Digital kompetanse og medisinsk utstyr – ferdigheter
 
-Kandidatenkan bruke relevante metoder for å forberede, kontrollere og anvende anestesiapparatur, monitorer, relevant medisinsk utstyr og digitale verktøykan analysere, forstå og tolke digitale parameter opp mot kliniske funnkan bruke relevante metoder for å ivareta pasienters og pårørendes behov i et komplekst høyteknologisk miljøkan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
+Kandidaten
+
+1. kan bruke relevante metoder for å forberede, kontrollere og anvende anestesiapparatur, monitorer, relevant medisinsk utstyr og digitale verktøy
+2. kan analysere, forstå og tolke digitale parameter opp mot kliniske funn
+3. kan bruke relevante metoder for å ivareta pasienters og pårørendes behov i et komplekst høyteknologisk miljø
+4. kan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
 
 ### § 12. Digital kompetanse og medisinsk utstyr – generell kompetanse
 
-Kandidatenkan bidra til nytenkning og selvstendig vurdere behov for og anvendelse av medisinsk utstyr og digital teknologi til den enkelte pasient, samt forstå og forholde seg kritisk til muligheter og begrensningerkan bidra til nytenkning ved utvikling og bruk av ny teknologi ut fra ulike aspekter som tjenesteutvikling, innovasjon og informasjonssikkerhetkan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig.
+Kandidaten
+
+1. kan bidra til nytenkning og selvstendig vurdere behov for og anvendelse av medisinsk utstyr og digital teknologi til den enkelte pasient, samt forstå og forholde seg kritisk til muligheter og begrensninger
+2. kan bidra til nytenkning ved utvikling og bruk av ny teknologi ut fra ulike aspekter som tjenesteutvikling, innovasjon og informasjonssikkerhet
+3. kan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet faglig ledelse og samhandling
 
 ### § 13. Faglig ledelse og samhandling – kunnskap
 
-Kandidatenhar inngående kunnskap om ledelse av eget fagområdehar inngående kunnskap om samhandlings- og kommunikasjonsverktøyhar inngående kunnskap om betydningen av fagspesifikt og tverrfaglig samarbeid og kommunikasjon, på individ-, gruppe- og organisasjonsnivåhar inngående kunnskap om fysisk og psykososialt arbeidsmiljø, stressreaksjoner og mestringsstrategier, og hvordan arbeidsbelastninger kan forebygges og redusereshar avansert kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
+Kandidaten
+
+1. har inngående kunnskap om ledelse av eget fagområde
+2. har inngående kunnskap om samhandlings- og kommunikasjonsverktøy
+3. har inngående kunnskap om betydningen av fagspesifikt og tverrfaglig samarbeid og kommunikasjon, på individ-, gruppe- og organisasjonsnivå
+4. har inngående kunnskap om fysisk og psykososialt arbeidsmiljø, stressreaksjoner og mestringsstrategier, og hvordan arbeidsbelastninger kan forebygges og reduseres
+5. har avansert kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
 
 ### § 14. Faglig ledelse og samhandling – ferdigheter
 
-Kandidatenkan bruke samhandlings- og kommunikasjonsverktøy for å ivareta god pasientbehandling og pasientmedvirkningkan analysere og vurdere fagspesifikke og overlappende funksjoner for å fremme god samhandling mellom profesjonenekan bruke relevante metoder til å lede og organisere eget arbeidkan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
+Kandidaten
+
+1. kan bruke samhandlings- og kommunikasjonsverktøy for å ivareta god pasientbehandling og pasientmedvirkning
+2. kan analysere og vurdere fagspesifikke og overlappende funksjoner for å fremme god samhandling mellom profesjonene
+3. kan bruke relevante metoder til å lede og organisere eget arbeid
+4. kan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
 
 ### § 15. Faglig ledelse og samhandling – generell kompetanse
 
-Kandidatenkan analysere og vurdere eget kompetansenivå og konsultere relevant personell ved behovkan anerkjenne og respektere kompetansen til andre teammedlemmer og kollegaer, og delta aktivt med sin kompetanse i team i og utenfor sitt faste arbeidssted.
+Kandidaten
+
+1. kan analysere og vurdere eget kompetansenivå og konsultere relevant personell ved behov
+2. kan anerkjenne og respektere kompetansen til andre teammedlemmer og kollegaer, og delta aktivt med sin kompetanse i team i og utenfor sitt faste arbeidssted.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområde kvalitet og pasientsikkerhet
 
 ### § 16. Kvalitet og pasientsikkerhet – kunnskap
 
-Kandidatenhar inngående kunnskap om pasientsikkerhetsteori, kvalitets- og forbedringsmetodikk, og innovasjon innenfor anestesisykepleiehar inngående kunnskap om pasientsikkerhetskultur og arbeidsmiljøhar inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av anestesisykepleie.
+Kandidaten
+
+1. har inngående kunnskap om pasientsikkerhetsteori, kvalitets- og forbedringsmetodikk, og innovasjon innenfor anestesisykepleie
+2. har inngående kunnskap om pasientsikkerhetskultur og arbeidsmiljø
+3. har inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av anestesisykepleie.
 
 ### § 17. Kvalitet og pasientsikkerhet – ferdigheter
 
-Kandidatenkan bruke relevant pasientsikkerhetsteori og forbedringsmetoder i klinisk praksis for å opprettholde anestesisykepleie av høy kvalitetkan analysere og forholde seg kritisk til utvikling, nytenkning og innovasjonkan analysere uønskede hendelser og bidra til systematisk læring.
+Kandidaten
+
+1. kan bruke relevant pasientsikkerhetsteori og forbedringsmetoder i klinisk praksis for å opprettholde anestesisykepleie av høy kvalitet
+2. kan analysere og forholde seg kritisk til utvikling, nytenkning og innovasjon
+3. kan analysere uønskede hendelser og bidra til systematisk læring.
 
 ### § 18. Kvalitet og pasientsikkerhet – generell kompetanse
 
-Kandidatenkan bidra til kvalitetsarbeid, nytenkning og i innovasjonsprosesser i klinisk praksiskan bidra til god pasientsikkerhetskultur og et godt arbeidsmiljø for å ivareta pasient, pårørende og kollegaer ved uønskede hendelserkan anvende og formidle fagkunnskap, relevant bruk av pasientsikkerhetsteori og forbedringsmetodikk for å forebygge pasientskader faglig forsvarlig utøvelse av anestesisykepleie.
+Kandidaten
+
+1. kan bidra til kvalitetsarbeid, nytenkning og i innovasjonsprosesser i klinisk praksis
+2. kan bidra til god pasientsikkerhetskultur og et godt arbeidsmiljø for å ivareta pasient, pårørende og kollegaer ved uønskede hendelser
+3. kan anvende og formidle fagkunnskap, relevant bruk av pasientsikkerhetsteori og forbedringsmetodikk for å forebygge pasientskader faglig forsvarlig utøvelse av anestesisykepleie.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområde vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
 
 ### § 19. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – kunnskap
 
-Kandidatenhar inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for anestesisykepleiehar inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen anestesisykepleie.
+Kandidaten
+
+1. har inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for anestesisykepleie
+2. har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen anestesisykepleie.
 
 ### § 20. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen anestesisykepleiekan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normerkan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen anestesisykepleie
+2. kan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normer
+3. kan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
 
 ### § 21. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – generell kompetanse
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenestenkan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenesten
+2. kan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområde forskning, kvalitetsarbeid og formidling
 
 ### § 22. Forskning, kvalitetsarbeid og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for anestesisykepleiehar spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidethar avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av anestesisykepleie.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for anestesisykepleie
+2. har spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidet
+3. har avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av anestesisykepleie.
 
 ### § 23. Forskning, kvalitetsarbeid og formidling – ferdigheter
 
-Kandidatenkan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen anestesisykepleiekan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenestenkan gjennomføre et selvstendig avgrenset anestesisykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
+Kandidaten
+
+1. kan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen anestesisykepleie
+2. kan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenesten
+3. kan gjennomføre et selvstendig avgrenset anestesisykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
 
 ### § 24. Forskning, kvalitetsarbeid og formidling – generell kompetanse
 
-Kandidatenkan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av anestesisykepleiefaget og helsetjenestenkan analysere, konkludere og formidle faglige problemstillinger innenfor anestesisykepleiekan analysere relevante forskningsetiske problemstillinger innen anestesisykepleie.
+Kandidaten
+
+1. kan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av anestesisykepleiefaget og helsetjenesten
+2. kan analysere, konkludere og formidle faglige problemstillinger innenfor anestesisykepleie
+3. kan analysere relevante forskningsetiske problemstillinger innen anestesisykepleie.
 
 ## Kapittel 9. Studiets oppbygning og praksisstudier
 

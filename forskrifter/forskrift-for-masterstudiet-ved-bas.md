@@ -38,7 +38,15 @@ eu_basis: []
 
 (1) *Eksamen:* Eksamen er den formelle vurderinga av det faglege nivået. Eksamen på BAS har karakterane Bestått/Ikkje bestått. I 1. avdeling vert studentane formelt vurdert etter kvart år, som kvalifiserer for å studera vidare ved BAS. I 2. avdeling er kvart semesterkurs å rekne som ein eksamen, og vert vurdert med karakteren Bestått/Ikkje bestått. Det siste semesteret, diplomsemesteret vert avslutta med eksamen i sjølvformulert oppgåve. Bestått diplomeksamen gir tittelen master i arkitektur.
 
-(2) *Fagområde/emneområde:* BAS-studiet er organisert i fire hovudfagområde:APP – arkitektur, planlegging og prosjekteringTTA – teknologi, teknikk, økonomi og administrasjonDAV – «den andre verda» – utvikling av frie uttrykk, kunstnarlege fagKTF – kompletterande teorifag/universitetsfag.
+(2) *Fagområde/emneområde:* BAS-studiet er organisert i fire hovudfagområde:
+
+APP – arkitektur, planlegging og prosjektering
+
+TTA – teknologi, teknikk, økonomi og administrasjon
+
+DAV – «den andre verda» – utvikling av frie uttrykk, kunstnarlege fag
+
+KTF – kompletterande teorifag/universitetsfag.
 
 (3) *Gjennomgang og vurdering*: Alle kurs, uansett nivå og lengde, vert avslutta med felles gjennomgang der kvar student presenterer prosjektet/arbeidet sitt for klassen, hovudlærar, eventuelle gjestelærarar og konsulentar, for å drøfte – og få konstruktiv tilbakemelding på sitt arbeid i plenum. På lengre kurs vert det også halde mellomgjennomgang undervegs.
 
@@ -90,7 +98,10 @@ Alle studentar pliktar å sette seg inn i gjeldande forskrift for masterstudiet 
 
 (4) For opptak til mastergradsstudiet ved BAS vert det stilt krav at søkjar har generell studiekompetanse eller er kvalifisert på ein annan måte i høve til [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 3-1](forskrift/2017-01-06-13/§3-1) og [§ 4-4](forskrift/2017-01-06-13/§4-4) (2), samt har levert skriftleg søknad og at intervju er gjennomført etter nærare reglar fastsett av institusjonen. Søkjarar til første år med utdanning frå land utanfor Norden må i tillegg dokumentere at han/ho har tilfredsstillande kunnskap i norsk og engelsk.
 
-(5) Opptak skjer etter at søkjar har fulgt BAS sin prosedyre:søknad på eige skjema innan søknadsfrist ogintervju (for dei som vert invitert av skulen etter gjennomgang av innkomne søknader på eige skjema).
+(5) Opptak skjer etter at søkjar har fulgt BAS sin prosedyre:
+
+1. søknad på eige skjema innan søknadsfrist og
+2. intervju (for dei som vert invitert av skulen etter gjennomgang av innkomne søknader på eige skjema).
 
 (6) Rangering skjer etter regler fastsett av institusjonen, i høve til kriteria spesifisert i opptaksprosedyre og basert på skriftleg søknad og intervju, og jf. [forskrift 6. januar 2017 nr. 13 § 7-14](forskrift/2017-01-06-13/§7-14).
 
@@ -144,7 +155,14 @@ Det skal utarbeidast semesterplan til kvart semester. På 1. avdeling vert det l
 
 (1) Den som har akseptert studieplass gjennom signert studiekontrakt, betalt studieavgift til skulen og betalt semesteravgift til studentsamskipnaden får studierett ved Bergen Arkitekthøgskole. Studieretten gir rett til undervisning, rettleiing, tilgang til bibliotek, verkstad og studieadministrative tenester.
 
-(2) Studieretten tek slutt når:Studenten har fullført studiet ellerBAS får melding om at studenten seier frå seg studieplassen ellerstudenten i løpet av eit år ikkje har dokumentert aktivitet gjennom betalt studieavgift eller søkt permisjon ellerStudenten har brukt opp sine forsøk til eksamen jamfør [§ 4-3](forskrift/2019-03-04-179/§4-3) i denne forskrifta ellerStudenten ikkje betaler studieavgift ellernår ein aktiv student ikkje har produsert studiepoeng i løpet av dei to siste åra. Styret fattar vedtak om tap av studierett. Vedtak kan jf. [§ 5-1](forskrift/2019-03-04-179/§5-1) påklagast.
+(2) Studieretten tek slutt når:
+
+1. Studenten har fullført studiet eller
+2. BAS får melding om at studenten seier frå seg studieplassen eller
+3. studenten i løpet av eit år ikkje har dokumentert aktivitet gjennom betalt studieavgift eller søkt permisjon eller
+4. Studenten har brukt opp sine forsøk til eksamen jamfør [§ 4-3](forskrift/2019-03-04-179/§4-3) i denne forskrifta eller
+5. Studenten ikkje betaler studieavgift eller
+6. når ein aktiv student ikkje har produsert studiepoeng i løpet av dei to siste åra. Styret fattar vedtak om tap av studierett. Vedtak kan jf. [§ 5-1](forskrift/2019-03-04-179/§5-1) påklagast.
 
 ### § 3-5. Utdanningsplan
 
@@ -186,7 +204,11 @@ Ein student med særskilde behov kan søkje om tilrettelegging. Søknad, med utr
 
 (4) I 2. avdeling er kvart semesterkurs å rekne som en eksamen og vert vurdert til Bestått/Ikkje bestått. Det siste semesteret, diplomsemesteret, vert avslutta med eksamen i sjølvformulert oppgåve.
 
-(5) Eksamen er ei heilskapleg vurdering av haldning, innsats og resultat – underlagt dei følgjande 3 evalueringskriteria:Kunnskap – studenten sin viste kunnskapFerdigheiter – Studenten si tilnærming til oppgåvene og arbeidsmetodane gjennom sjølvstendig, systematisk og kritisk resonnement.Generell kompetanse – studenten si faglege haldning og innstilling til arkitektur og arkitekten sin praksis i samfunn.
+(5) Eksamen er ei heilskapleg vurdering av haldning, innsats og resultat – underlagt dei følgjande 3 evalueringskriteria:
+
+1. Kunnskap – studenten sin viste kunnskap
+2. Ferdigheiter – Studenten si tilnærming til oppgåvene og arbeidsmetodane gjennom sjølvstendig, systematisk og kritisk resonnement.
+3. Generell kompetanse – studenten si faglege haldning og innstilling til arkitektur og arkitekten sin praksis i samfunn.
 
 ### § 4-2. Vilkår for å gå opp til eksamen
 
@@ -218,13 +240,26 @@ Det er høve til å søkje om utsatt innlevering/eksamen på grunnlag av dokumen
 
 (1) Ein student som har fysiske eller psykiske problem med å gjennomføre eksamen på vanleg måte kan søke om særordningar ved eksamen. Særordninga skal ha som føremål å vege opp for dei ulemper som funksjonshemminga medfører, samstundes som det i størst muleg grad skal sikrast at studentane vert prøvd likt. Søknad sendast til BAS studieadministrasjonen.
 
-(2) Eksempel på særordningar kan være:Utvida eksamenstidHøve til lengre pausar, eventuelt høve til å kvileSkriftleg eksamen i staden for munnlegMunnleg eksamen i staden for skriftlegEige eksamenslokale med eigen eksamensvaktBruk av skrivemaskin, pc og andre tekniske hjelpemidlarSkrivehjelp, døvetolk og anna praktisk hjelpOverføring av oppgåvene til punktskrift eller forstørra skriftHøgtlesing av oppgåveteksten.
+(2) Eksempel på særordningar kan være:
+
+- Utvida eksamenstid
+- Høve til lengre pausar, eventuelt høve til å kvile
+- Skriftleg eksamen i staden for munnleg
+- Munnleg eksamen i staden for skriftleg
+- Eige eksamenslokale med eigen eksamensvakt
+- Bruk av skrivemaskin, pc og andre tekniske hjelpemidlar
+- Skrivehjelp, døvetolk og anna praktisk hjelp
+- Overføring av oppgåvene til punktskrift eller forstørra skrift
+- Høgtlesing av oppgåveteksten.
 
 (3) Frist for å søke særordningar er 8 veker før eksamen. Behovet for særordning må dokumenterast med legeattest eller attest frå annan sakkunnig person. Er funksjonshemminga oppstått etter fristens utløp, eller dersom andre særlege grunnar tilseier det kan skulen fråvike denne fristen. Studentar med dyskalkuli, dysleksi eller andre lese- og skrivevanskar må ha attest frå logoped eller annan spesialist som beskriver kva for særordningar det er behov for.
 
 ### § 4-8. Karaktersystem
 
-For kvar eksamen eller prøve vert følgjande karakterar gitt:Etter skalaen Bestått/Ikkje bestått.Etter skala frå A til F der A er beste karakter og F er stryk.
+For kvar eksamen eller prøve vert følgjande karakterar gitt:
+
+1. Etter skalaen Bestått/Ikkje bestått.
+2. Etter skala frå A til F der A er beste karakter og F er stryk.
 
 ### § 4-9. Fusk
 

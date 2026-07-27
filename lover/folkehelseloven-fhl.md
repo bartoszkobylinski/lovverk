@@ -15,7 +15,7 @@ xml_hash: "c4f89ffdc23999c47128de556f821d7a9f7e8f201a1e6c8ebd22c10d5983c2ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,10 @@ Loven gjelder for helsepersonell, offentlige tjenestepersoner og private der det
 
 ### § 3. Definisjoner
 
-I loven her menes medfolkehelse: befolkningens helsetilstand og livskvalitet og hvordan helse og livskvalitet fordeler seg i en befolkningfolkehelsearbeid: samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og livskvalitet, fremmer gode sosiale og miljømessige forhold, utjevner sosiale helseforskjeller, beskytter befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen, og forebygger psykisk og somatisk sykdom, skade og lidelse.
+I loven her menes med
+
+1. folkehelse: befolkningens helsetilstand og livskvalitet og hvordan helse og livskvalitet fordeler seg i en befolkning
+2. folkehelsearbeid: samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og livskvalitet, fremmer gode sosiale og miljømessige forhold, utjevner sosiale helseforskjeller, beskytter befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen, og forebygger psykisk og somatisk sykdom, skade og lidelse.
 
 > Endret ved lov [20 juni 2025 nr. 69](lov/2025-06-20-69) (i kraft 1 jan 2026 iflg. [res. 20. juni 2025 nr. 1141](forskrift/2025-06-20-1141)).
 
@@ -56,7 +59,13 @@ I loven her menes medfolkehelse: befolkningens helsetilstand og livskvalitet og 
 
 ### § 4. Kommunens ansvar
 
-Kommunen skalfremme befolkningens helse og livskvalitetfremme gode sosiale og miljømessige forholdbidra til å forebygge psykisk og somatisk sykdom, skade og lidelsebidra til utjevning av sosiale helseforskjellerbidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
+Kommunen skal
+
+1. fremme befolkningens helse og livskvalitet
+2. fremme gode sosiale og miljømessige forhold
+3. bidra til å forebygge psykisk og somatisk sykdom, skade og lidelse
+4. bidra til utjevning av sosiale helseforskjeller
+5. bidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
 
 Ansvaret etter første ledd skal ivaretas innenfor de oppgavene og med de virkemidlene kommunen er tillagt, herunder ved lokal utvikling og planlegging, forvaltning og tjenesteyting.
 
@@ -74,7 +83,11 @@ I kommuner med samisk befolkning skal kommunen være oppmerksom på særskilte f
 
 ### § 5. Oversikt over helsetilstand og påvirkningsfaktorer i kommunen
 
-Kommunen skal ha nødvendig oversikt over helsetilstanden i befolkningen og de positive og negative faktorer som kan virke inn på denne. Oversikten skal blant annet baseres på:opplysninger som statlige helsemyndigheter, de regionale helseforetakene og fylkeskommunen gjør tilgjengelig etter [§§ 20](lov/2011-06-24-29/§20), [24](lov/2011-06-24-29/§24), [25](lov/2011-06-24-29/§25) og [25 a](lov/2011-06-24-29/§25a),kunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og [omsorgstjenesteloven § 3-3](lov/2011-06-24-30/§3-3) ogkunnskap om positive og negative faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse, herunder risikoforhold.
+Kommunen skal ha nødvendig oversikt over helsetilstanden i befolkningen og de positive og negative faktorer som kan virke inn på denne. Oversikten skal blant annet baseres på:
+
+1. opplysninger som statlige helsemyndigheter, de regionale helseforetakene og fylkeskommunen gjør tilgjengelig etter [§§ 20](lov/2011-06-24-29/§20), [24](lov/2011-06-24-29/§24), [25](lov/2011-06-24-29/§25) og [25 a](lov/2011-06-24-29/§25a),
+2. kunnskap fra de kommunale helse- og omsorgstjenestene, jf. helse- og [omsorgstjenesteloven § 3-3](lov/2011-06-24-30/§3-3) og
+3. kunnskap om positive og negative faktorer og utviklingstrekk i miljø og lokalsamfunn som kan ha innvirkning på befolkningens helse, herunder risikoforhold.
 
 Oversikten skal være skriftlig og identifisere folkehelseutfordringene i kommunen, herunder vurdere konsekvenser og årsaksforhold. Den skal også inneholde en vurdering av hvordan kommunen kan møte utfordringene, herunder planbehov. Kommunen skal særlig være oppmerksom på trekk ved utviklingen som kan skape eller opprettholde sosiale eller helsemessige problemer eller sosiale helseforskjeller.
 
@@ -126,7 +139,10 @@ Departementet kan gi forskrift om kommunens beredskap innen miljø og helse.
 
 ### § 7 c. Samfunnsmedisinsk kompetanse
 
-Kommunen skal ha nødvendig samfunnsmedisinsk kompetanse for å ivareta oppgaver etter loven her. Det skal ansettes en eller flere kommuneoverleger som medisinskfaglig rådgiver for kommunen for å ivareta blant annet:samfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. [§§ 4](lov/2011-06-24-29/§4) til [7 d](lov/2011-06-24-29/§7d), herunder epidemiologiske analyser, helsemessig beredskap og vurdering av hvordan kommunen kan møte folkehelseutfordringer, oghastekompetanse på kommunens vegne i saker etter denne loven og [smittevernloven](lov/1994-08-05-55).
+Kommunen skal ha nødvendig samfunnsmedisinsk kompetanse for å ivareta oppgaver etter loven her. Det skal ansettes en eller flere kommuneoverleger som medisinskfaglig rådgiver for kommunen for å ivareta blant annet:
+
+1. samfunnsmedisinsk rådgivning i kommunens folkehelsearbeid, jf. [§§ 4](lov/2011-06-24-29/§4) til [7 d](lov/2011-06-24-29/§7d), herunder epidemiologiske analyser, helsemessig beredskap og vurdering av hvordan kommunen kan møte folkehelseutfordringer, og
+2. hastekompetanse på kommunens vegne i saker etter denne loven og [smittevernloven](lov/1994-08-05-55).
 
 Kommunen kan samarbeide med andre kommuner om ansettelse av kommuneoverlege.
 
@@ -250,7 +266,13 @@ Statsforvalteren avgjør klager over vedtak truffet av kommunen eller kommuneove
 
 ### § 20. Fylkeskommunens ansvar
 
-Fylkeskommunen skalfremme befolkningens helse og livskvalitetfremme gode sosiale og miljømessige forholdbidra til å forebygge psykisk og somatisk sykdom, skade og lidelsebidra til utjevning av sosiale helseforskjellerbidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
+Fylkeskommunen skal
+
+1. fremme befolkningens helse og livskvalitet
+2. fremme gode sosiale og miljømessige forhold
+3. bidra til å forebygge psykisk og somatisk sykdom, skade og lidelse
+4. bidra til utjevning av sosiale helseforskjeller
+5. bidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
 
 Ansvaret etter første ledd skal ivaretas innenfor de oppgavene og med de virkemidlene som fylkeskommunen er tillagt.
 
@@ -270,7 +292,10 @@ I fylker med samisk befolkning skal fylkeskommunen være oppmerksom på særskil
 
 ### § 21. Oversikt over helsetilstand og påvirkningsfaktorer i fylket
 
-Fylkeskommunen skal ha nødvendig oversikt over helsetilstanden i fylket og de positive og negative faktorer som kan virke inn på denne. Oversikten skal blant annet baseres på:opplysninger som statlige helsemyndigheter gjør tilgjengelig etter [§§ 24](lov/2011-06-24-29/§24), [25](lov/2011-06-24-29/§25) og [25 a](lov/2011-06-24-29/§25a),relevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen.
+Fylkeskommunen skal ha nødvendig oversikt over helsetilstanden i fylket og de positive og negative faktorer som kan virke inn på denne. Oversikten skal blant annet baseres på:
+
+1. opplysninger som statlige helsemyndigheter gjør tilgjengelig etter [§§ 24](lov/2011-06-24-29/§24), [25](lov/2011-06-24-29/§25) og [25 a](lov/2011-06-24-29/§25a),
+2. relevant kunnskap fra kommunene, tannhelsetjenesten og andre deler av fylkeskommunens virksomhet med betydning for folkehelsen.
 
 Oversikten skal være skriftlig og identifisere folkehelseutfordringene i fylket, herunder vurdere konsekvenser og årsaksforhold. Den skal inneholde en vurdering av hvordan fylkeskommunen kan møte utfordringene, herunder planbehov.
 
@@ -292,7 +317,13 @@ Fylkeskommunen skal i regionale planer etter [plan- og bygningsloven](lov/1985-0
 
 ### § 22. Statens ansvar
 
-Staten skalfremme befolkningens helse og livskvalitetfremme gode sosiale og miljømessige forholdbidra til å forebygge psykisk og somatisk sykdom, skade og lidelsebidra til utjevning av sosiale helseforskjellerbidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
+Staten skal
+
+1. fremme befolkningens helse og livskvalitet
+2. fremme gode sosiale og miljømessige forhold
+3. bidra til å forebygge psykisk og somatisk sykdom, skade og lidelse
+4. bidra til utjevning av sosiale helseforskjeller
+5. bidra til å beskytte befolkningen mot faktorer som direkte eller indirekte kan ha negativ innvirkning på helsen.
 
 Statlige myndigheter skal i sin virksomhet vurdere konsekvenser for befolkningens helse der det er relevant.
 

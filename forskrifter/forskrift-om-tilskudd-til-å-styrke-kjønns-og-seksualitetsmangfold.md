@@ -15,7 +15,7 @@ xml_hash: "de29e3956ea509318ce139e13690b0af448ac83b8cc9a0dcb5b993f47b97b6d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,15 @@ Personer som bryter med normer for seksuell orientering, kjønnsidentitet, kjøn
 
 ## § 3. Kriterier for måloppnåelse
 
-Tiltak som får tilskudd skal støtte opp under målet med tilskuddsordningen. Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet er nådd:Oppmerksomhet og debatt i offentligheten.Holdningsendringer, økt kunnskap og større åpenhet i samfunnet.At målgruppen opplever trygghet på flere og ulike sosiale arenaer.Økt deltakelse og styrket felleskap og identitet blant personer som bryter med normer for seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika.Økt arbeid mot diskriminering på grunnlag av seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika.Økt interessepolitisk arbeid og bedre service til medlemmene i organisasjoner som arbeider for målgruppen.Økt arbeid for å forebygge hat mot personer i målgruppen.
+Tiltak som får tilskudd skal støtte opp under målet med tilskuddsordningen. Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet er nådd:
+
+- Oppmerksomhet og debatt i offentligheten.
+- Holdningsendringer, økt kunnskap og større åpenhet i samfunnet.
+- At målgruppen opplever trygghet på flere og ulike sosiale arenaer.
+- Økt deltakelse og styrket felleskap og identitet blant personer som bryter med normer for seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika.
+- Økt arbeid mot diskriminering på grunnlag av seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika.
+- Økt interessepolitisk arbeid og bedre service til medlemmene i organisasjoner som arbeider for målgruppen.
+- Økt arbeid for å forebygge hat mot personer i målgruppen.
 
 Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -98,15 +106,34 @@ Bufdir avgjør om det skal gis tilskudd etter en skjønnsmessig vurdering av sø
 
 *Prosjekttilskudd*
 
-Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte tiltaket,tiltakets mulighet til å oppnå målet med ordningen, se [§§ 1](forskrift/2021-10-13-3048/§1) og [3](forskrift/2021-10-13-3048/§3),målgruppe og nedslagsfelt,tiltakets størrelse og varighet, ogegenfinansieringen. Med egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
+Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:
 
-Følgende prosjekter kan bli prioritert:prosjekter som gjennomføres av organisasjoner som er av og for målgruppen,prosjekter hvor flere aktører samarbeider om et tiltak,prosjekter som når personer over hele landet, ogprosjekter med egenfinansiering.
+1. de søknader som er innkommet for tilskuddsåret,
+2. prosjektbeskrivelse og budsjett,
+3. kvaliteten på det planlagte tiltaket,
+4. tiltakets mulighet til å oppnå målet med ordningen, se [§§ 1](forskrift/2021-10-13-3048/§1) og [3](forskrift/2021-10-13-3048/§3),
+5. målgruppe og nedslagsfelt,
+6. tiltakets størrelse og varighet, og
+7. egenfinansieringen. Med egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
+
+Følgende prosjekter kan bli prioritert:
+
+- prosjekter som gjennomføres av organisasjoner som er av og for målgruppen,
+- prosjekter hvor flere aktører samarbeider om et tiltak,
+- prosjekter som når personer over hele landet, og
+- prosjekter med egenfinansiering.
 
 Andre årlige prioriteringer vil fremgå av utlysningen av tilskuddsordningen.
 
 *Driftstilskudd*
 
-Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,arbeidsplan og budsjett,i hvilken grad organisasjonen er av og for personer som bryter med normer for seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika,organisasjonens størrelse og lokale utbredelse, ogorganisasjonens mulighet til å oppnå målet med ordningen, se §§ 1 og 3.
+Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:
+
+1. de søknader som er innkommet for tilskuddsåret,
+2. arbeidsplan og budsjett,
+3. i hvilken grad organisasjonen er av og for personer som bryter med normer for seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika,
+4. organisasjonens størrelse og lokale utbredelse, og
+5. organisasjonens mulighet til å oppnå målet med ordningen, se §§ 1 og 3.
 
 > Endret ved forskrift [12 des 2025 nr. 2556](forskrift/2025-12-12-2556) (tidligere § 5).
 
@@ -214,7 +241,11 @@ Tilskuddsmottaker skal legge fram opplysninger på forespørsel, og skal bidra t
 
 ## § 13. Sanksjoner ved brudd på regelverket
 
-Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden, ellermottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet.
+Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet dersom:
+
+- mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden, eller
+- mottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet.
 
 En tilskuddsmottaker som har brutt regelverket, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved denne vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
 

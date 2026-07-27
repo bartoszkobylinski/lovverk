@@ -96,4 +96,30 @@ I samband med framsetjing av krav om overføring skal departementet med omsyn ti
 
 ## Vedlegg
 
-Følgjande statar har pr. 1. oktober 1994 ratifisert den europeiske [konvensjon om overføring av domfelte :](lov/1991-07-20-67)BelgiaDanmarkFinlandFrankrikeHellasIrlandIslandItaliaKyprosLuxembourgMaltaNederlandPortugalSlovakiaSpaniaStorbritanniaSveitsSverigeTsjekkiaTyrkiaTysklandØsterrikeBahamasCanadaUSA
+Følgjande statar har pr. 1. oktober 1994 ratifisert den europeiske [konvensjon om overføring av domfelte :](lov/1991-07-20-67)
+
+- Belgia
+- Danmark
+- Finland
+- Frankrike
+- Hellas
+- Irland
+- Island
+- Italia
+- Kypros
+- Luxembourg
+- Malta
+- Nederland
+- Portugal
+- Slovakia
+- Spania
+- Storbritannia
+- Sveits
+- Sverige
+- Tsjekkia
+- Tyrkia
+- Tyskland
+- Østerrike
+- Bahamas
+- Canada
+- USA

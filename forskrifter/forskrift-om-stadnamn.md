@@ -30,7 +30,13 @@ For samiske og kvenske stadnamn skal det takast særleg omsyn til munnleg tradis
 
 Skal eit objekt som ikkje har hatt namn, namnsetjast, skal det takast omsyn til lokale, nedervde stadnamn og tradisjonelt ordtilfang på staden.
 
-I saker der ein etter [stadnamnlova § 4](lov/1990-05-18-11/§4) andre ledd vurderer å velje ein skrivemåte som har vore lenge i bruk, skal det takast med i vurderingaom skrivemåten kan medverke til at meiningsinnhaldet i namnet ikkje kjem tydeleg framom skrivemåten kan endre den nedervde lokale uttalen av namnetkor lang og dominerande tradisjon skrivemåten har på namneobjektetkor stor semje det er om skrivemåten lokaltom skrivemåten har tradisjon i det språket som namnesaka gjeld.
+I saker der ein etter [stadnamnlova § 4](lov/1990-05-18-11/§4) andre ledd vurderer å velje ein skrivemåte som har vore lenge i bruk, skal det takast med i vurderinga
+
+1. om skrivemåten kan medverke til at meiningsinnhaldet i namnet ikkje kjem tydeleg fram
+2. om skrivemåten kan endre den nedervde lokale uttalen av namnet
+3. kor lang og dominerande tradisjon skrivemåten har på namneobjektet
+4. kor stor semje det er om skrivemåten lokalt
+5. om skrivemåten har tradisjon i det språket som namnesaka gjeld.
 
 Skrivemåtar som kan medverke til at meiningsinnhaldet ikkje kjem tydeleg fram, eller til at den nedervde lokale uttalen blir endra, kan berre godtakast dersom dei har ein lang og dominerande tradisjon, og det er stor semje om dei lokalt. Ved fastsetjing av skrivemåten til samiske og kvenske stadnamn, skal ikkje eldre, fornorska skrivemåter godtakast.
 
@@ -120,7 +126,12 @@ Underinstansen, klageinstansen eller eit anna overordna organ kan fastsetje at e
 
 ## § 11. Bruk av stadnamn i tenesta
 
-Statsorgan, fylkeskommunar og kommunar og selskap som det offentlege eig fullt ut skal bruke den fastsette eller prioriterte skrivemåten av stadnamnet, jf. [stadnamnlova § 11](lov/1990-05-18-11/§11) og forskrifta § 14 femte ledd, i tekstproduksjon, skilting og på kart. Dette omfattar mellom annanamn på offisielle krinsar (delområde, grunnkrins, stemmekrins, skulekrins, kyrkjesokn, postnummerområde m.m.)namn på offentlege anlegg som idrettsanlegg, fyr, vegar, tunnelar, bruer haldeplassar, rasteplassar, ferjekaier m.m.namn på institusjonar som kyrkjer, sjukehus, barnehagar og skularnamn på verneområde som vidarefører eit nedervd stadnamn i bruk.
+Statsorgan, fylkeskommunar og kommunar og selskap som det offentlege eig fullt ut skal bruke den fastsette eller prioriterte skrivemåten av stadnamnet, jf. [stadnamnlova § 11](lov/1990-05-18-11/§11) og forskrifta § 14 femte ledd, i tekstproduksjon, skilting og på kart. Dette omfattar mellom anna
+
+1. namn på offisielle krinsar (delområde, grunnkrins, stemmekrins, skulekrins, kyrkjesokn, postnummerområde m.m.)
+2. namn på offentlege anlegg som idrettsanlegg, fyr, vegar, tunnelar, bruer haldeplassar, rasteplassar, ferjekaier m.m.
+3. namn på institusjonar som kyrkjer, sjukehus, barnehagar og skular
+4. namn på verneområde som vidarefører eit nedervd stadnamn i bruk.
 
 Namn som er nemnt i første punktum bokstav c skal finnast på både nynorsk og bokmål når dei er namn på statsorgan, jf. [språklova § 10](lov/2021-05-21-42/§10).
 
@@ -150,7 +161,18 @@ Eit avslag på ei oppmoding om å ta saka opp på nytt, kan klagast til klagenem
 
 Sentralt stadnamnregister skal innehalde opplysningar om alle stadnamn som har fått skrivemåten vedteken etter stadnamnlova. I tillegg skal registeret innehalde flest mogleg andre stadnamn som er godkjende etter tidlegare lov og forskrift og brukte i offentleg samanheng, og tilhøyrande opplysningar om desse namna.
 
-For alle namna skal registeret ha opplysningar om:korleis namnet blir skrivestatus for skrivemåten, som foreslått, vedteken, godkjend, avslått mv.språkobjekttype som grend, gard, bruk, veg, vatn, elv, nes osv.eventuelt fleire namn på same språk for same namneobjekt, og kva for namn som er mest vanleg å bruke, dersom ein har kunnskap om detflate, line eller punkt med koordinat referert i eit nasjonalt brukt koordinatsystemadministrativ tilhøyrsel (kommunenummer)vedtaksdato og kven som har gjort vedtaket dersom stadnamnet er vedtekeidentitetsnummeret i matrikkelen dersom stadnamnet er vedteke og skal brukast i matrikkelenkva for offentleg bruk stadnamnet er henta frå og om mogleg dato for dokumentasjonen dersom det gjeld eit godkjend stadnamn.
+For alle namna skal registeret ha opplysningar om:
+
+1. korleis namnet blir skrive
+2. status for skrivemåten, som foreslått, vedteken, godkjend, avslått mv.
+3. språk
+4. objekttype som grend, gard, bruk, veg, vatn, elv, nes osv.
+5. eventuelt fleire namn på same språk for same namneobjekt, og kva for namn som er mest vanleg å bruke, dersom ein har kunnskap om det
+6. flate, line eller punkt med koordinat referert i eit nasjonalt brukt koordinatsystem
+7. administrativ tilhøyrsel (kommunenummer)
+8. vedtaksdato og kven som har gjort vedtaket dersom stadnamnet er vedteke
+9. identitetsnummeret i matrikkelen dersom stadnamnet er vedteke og skal brukast i matrikkelen
+10. kva for offentleg bruk stadnamnet er henta frå og om mogleg dato for dokumentasjonen dersom det gjeld eit godkjend stadnamn.
 
 Kartverket fører registeret og skal syte for at opplysningane er allment tilgjengelege.
 

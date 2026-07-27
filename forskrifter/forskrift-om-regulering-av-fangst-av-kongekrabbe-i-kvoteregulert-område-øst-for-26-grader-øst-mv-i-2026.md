@@ -15,7 +15,7 @@ xml_hash: "ed23d22bf0a86e5da46e609b26227007c18f2f463ef1173b42ad137d163307a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,13 @@ Forskriften gjelder i kvoteregulert område, jf. [§ 2](forskrift/2025-12-19-280
 
 ## § 2. Generelt forbud
 
-Det er forbudt for fartøy å fange, oppbevare om bord og lande kongekrabbe innenfor kvoteregulert område i 2026. Med kvoteregulert område menes i denne forskriften følgende område:Magerøysundet. Sør og øst for en linje trukket mellom punktene:N 70° 55,96′ Ø 25° 32,81′N 70° 55,82′ Ø 25° 30,46′Sør og øst for rette linjer trukket fra posisjon N 71° 08,05′ Ø 26° til N 71° 30′ Ø 26°, inkludert hele Porsangerfjorden og Kamøyfjorden, og videre østover langs N 71° 30′ til grensen mot Russland. Deretter følger linjen yttergrensen for Norges økonomiske sone sørover til fastlandet.
+Det er forbudt for fartøy å fange, oppbevare om bord og lande kongekrabbe innenfor kvoteregulert område i 2026. Med kvoteregulert område menes i denne forskriften følgende område:
+
+1. Magerøysundet. Sør og øst for en linje trukket mellom punktene:
+
+   - N 70° 55,96′ Ø 25° 32,81′
+   - N 70° 55,82′ Ø 25° 30,46′
+2. Sør og øst for rette linjer trukket fra posisjon N 71° 08,05′ Ø 26° til N 71° 30′ Ø 26°, inkludert hele Porsangerfjorden og Kamøyfjorden, og videre østover langs N 71° 30′ til grensen mot Russland. Deretter følger linjen yttergrensen for Norges økonomiske sone sørover til fastlandet.
 
 ## § 3. Totalkvote og kvotefleksibilitet
 
@@ -168,7 +174,12 @@ Fiskeridirektoratets klageenhet er klageinstans.
 
 Det er forbudt å drive fangst av kongekrabbe og lagre kongekrabbeteiner i sjøen i det kvoteregulerte området fra 1. mars til og med 31. mai. Forbudet gjelder ikke for foretak med tillatelse til fangst av kongekrabbe i turistfisket. Slike foretak kan til sammen fange maksimalt 0,6 tonn hannkrabber i denne perioden.
 
-Det er forbudt å drive fangst av kongekrabbe med teiner i sjøen i følgende deler av kvoteregulert område og periode:i Porsangerfjorden, avgrenset i vest av en linje mellom 70° 55,96′ N og 25° 32,81′ Ø og 70° 55,82′ N 25° 30,46′ Ø (grensen for kvoteregulert område), i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i øst av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 26. september til og med 2. oktober.i Laksefjorden, avgrenset i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i vest av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 22. september til og med 26. september.i Tanafjorden, avgrenset i nord av en rett linje mellom fyrlykten på Omgangsneset og fyrlykten på Skarveneset ved Tanahorn, fra og med 19. september til og med 22. september.i Varanger, avgrenset i øst av grensen mot russisk sone og i nord av en øst-vest-gående linje langs 70° 23′ N, fra og med 14. september til og med 19. september.
+Det er forbudt å drive fangst av kongekrabbe med teiner i sjøen i følgende deler av kvoteregulert område og periode:
+
+1. i Porsangerfjorden, avgrenset i vest av en linje mellom 70° 55,96′ N og 25° 32,81′ Ø og 70° 55,82′ N 25° 30,46′ Ø (grensen for kvoteregulert område), i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i øst av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 26. september til og med 2. oktober.
+2. i Laksefjorden, avgrenset i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i vest av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 22. september til og med 26. september.
+3. i Tanafjorden, avgrenset i nord av en rett linje mellom fyrlykten på Omgangsneset og fyrlykten på Skarveneset ved Tanahorn, fra og med 19. september til og med 22. september.
+4. i Varanger, avgrenset i øst av grensen mot russisk sone og i nord av en øst-vest-gående linje langs 70° 23′ N, fra og med 14. september til og med 19. september.
 
 Det er forbudt å ha andre teiner i farvann dypere enn 100 meter ved stenging av deler av kvoteregulert område etter andre ledd.
 

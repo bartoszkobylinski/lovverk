@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Alder ved uttak av alderspensjon
 
-(1) Alderspensjon kan tas ut ved fylte 55 år for følgende yrker:Flypiloter.Dykkere.Redningspersonell som tjenestegjør på helikoptre på oljeinstallasjon til havs.
+(1) Alderspensjon kan tas ut ved fylte 55 år for følgende yrker:
+
+1. Flypiloter.
+2. Dykkere.
+3. Redningspersonell som tjenestegjør på helikoptre på oljeinstallasjon til havs.
 
 (2) Andre flybesetningsmedlemmer enn piloter kan ta ut alderspensjon ved fylte 60 år.
 
@@ -32,7 +36,11 @@ eu_basis: []
 
 (1) Pensjonsinnretningen kan benytte en teknisk rente i beregningen av alderspensjonsutbetalinger for å endre utbetalingsprofilen dersom utbetalingsprofilen ellers ville blitt uhensiktsmessig sterkt stigende for alderspensjonistene. Bruk av en teknisk rente innebærer ingen garanti fra pensjonsinnretningen.
 
-(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,alderspensjonen sikres i hele utbetalingsperioden ogat det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:
+
+1. alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,
+2. alderspensjonen sikres i hele utbetalingsperioden og
+3. at det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
 
 (3) Den tekniske renten kan ikke settes høyere enn den høyeste tillatte avkastningsgaranti etter [tjenestepensjonsloven § 5-7](lov/2013-12-13-106/§5-7) annet ledd annet punktum eller forskrift fastsatt av Finanstilsynet med hjemmel i [tjenestepensjonsloven § 5-7](lov/2013-12-13-106/§5-7) annet ledd tredje punktum.
 

@@ -15,7 +15,7 @@ xml_hash: "64d33dea458c60196104740dd4e00f112db1a919010cfcd5a42a63e45e33cfa9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,17 @@ Dyra skal vennes til mennesker fra tidlig alder for å redusere frykt for mennes
 
 ### § 7. Fjørfeanlegg
 
-Fjørfeanlegg skal være utformet slik at:dyra i størst mulig grad får ivaretatt fysiske og psykiske behov, herunder atferdsbehovdyra kan utføre normale bevegelsernetting og annet materiale i bur er av god utforming og kvalitetdet er liten risiko for skade på dyra, herunder ved innsett og uttakgulv, vagle og annet materiale ikke påfører dyra ubehagvaglen i minst mulig grad hindrer fremkommeligheten for dyradet er enkelt å foreta en grundig inspeksjon av samtlige dyrdet er mulig å gi dyra godt stell og behandlingdyra ikke kan rømme.
+Fjørfeanlegg skal være utformet slik at:
+
+- dyra i størst mulig grad får ivaretatt fysiske og psykiske behov, herunder atferdsbehov
+- dyra kan utføre normale bevegelser
+- netting og annet materiale i bur er av god utforming og kvalitet
+- det er liten risiko for skade på dyra, herunder ved innsett og uttak
+- gulv, vagle og annet materiale ikke påfører dyra ubehag
+- vaglen i minst mulig grad hindrer fremkommeligheten for dyra
+- det er enkelt å foreta en grundig inspeksjon av samtlige dyr
+- det er mulig å gi dyra godt stell og behandling
+- dyra ikke kan rømme.
 
 ### § 8. Melding om dyrehold og bygninger til oppstalling
 
@@ -190,7 +200,11 @@ Døde dyr skal fjernes daglig.
 
 ### § 21. Forbud mot fjerning av kroppsdeler
 
-Det er forbudt å fjerne kroppsdeler på fjørfe, herunder:fjerne deler av nebbet på fjørfe (nebbtrimming).fjerne kammen eller deler av kammen på fjørfe.kastrere fjørfe.
+Det er forbudt å fjerne kroppsdeler på fjørfe, herunder:
+
+1. fjerne deler av nebbet på fjørfe (nebbtrimming).
+2. fjerne kammen eller deler av kammen på fjørfe.
+3. kastrere fjørfe.
 
 Bestemmelsene i første ledd er ikke til hinder for at en veterinær gjør slike inngrep når det trengs av veterinærmedisinske grunner.
 
@@ -208,17 +222,35 @@ I avlsarbeidet skal det legges vekt på å få frem friske og robuste dyr. Det s
 
 ### § 25. Krav til løsdrisftssystemer
 
-Verpehøns i løsdrift skal ha:maksimum ni dyr pr. m2 bruksareal som er tilgjengelig for dyra. Bruksarealet skal ha en bredde på minst 30 cm og frihøyden skal være minst 45 cm. Gulvhellingen skal være mindre enn 14%,minst et enkeltrede for hver syvende verpehøne. Hvis det nyttes fellesreder, skal det være minst 1 m2 redeplass pr. 120 høner,vagle hvor det er beregnet minst 15 cm til hver høne. Alle hønene skal kunne vagle seg samtidig. Vaglen skal ikke være anbrakt over strøområdet, og den vannrette avstanden mellom vaglene skal være minst 30 cm og mellom sittepinnen og veggen minst 20 cm,et areal med strø på minst 1/3 av gulvarealet og minst 250 cm2 pr. høne,avlang fôrtro med minimum 10 cm troplass pr. høne eller rund fôrtro med minimum 4 cm troplass pr. høne,drikkerenner med minimum 2,5 cm troplass pr. høne eller rundt drikkekar med minimum 1 cm troplass pr. høne. Hvis det anvendes vannipler eller drikkekopper, skal det være minst en drikkekopp eller vannippel pr. tiende høne,underlag i bingene som er slik utformet at det gir tilstrekkelig støtte for alle de fremadrettede klørne på hver fot.
+Verpehøns i løsdrift skal ha:
+
+1. maksimum ni dyr pr. m2 bruksareal som er tilgjengelig for dyra. Bruksarealet skal ha en bredde på minst 30 cm og frihøyden skal være minst 45 cm. Gulvhellingen skal være mindre enn 14%,
+2. minst et enkeltrede for hver syvende verpehøne. Hvis det nyttes fellesreder, skal det være minst 1 m2 redeplass pr. 120 høner,
+3. vagle hvor det er beregnet minst 15 cm til hver høne. Alle hønene skal kunne vagle seg samtidig. Vaglen skal ikke være anbrakt over strøområdet, og den vannrette avstanden mellom vaglene skal være minst 30 cm og mellom sittepinnen og veggen minst 20 cm,
+4. et areal med strø på minst 1/3 av gulvarealet og minst 250 cm2 pr. høne,
+5. avlang fôrtro med minimum 10 cm troplass pr. høne eller rund fôrtro med minimum 4 cm troplass pr. høne,
+6. drikkerenner med minimum 2,5 cm troplass pr. høne eller rundt drikkekar med minimum 1 cm troplass pr. høne. Hvis det anvendes vannipler eller drikkekopper, skal det være minst en drikkekopp eller vannippel pr. tiende høne,
+7. underlag i bingene som er slik utformet at det gir tilstrekkelig støtte for alle de fremadrettede klørne på hver fot.
 
 1 Inkurie: Skal vel være løsdriftssystemer.
 
 ### § 26. Krav til aviarier
 
-I produksjonssystemer hvor verpehøns kan bevege seg fritt mellom etasjer (aviarier) skal i tillegg til [§ 25](forskrift/2001-12-12-1494/§25), følgende gjelde:det skal være maksimum fire etasjer over hverandre,frihøyden mellom etasjene skal være minst 45 cm,fôrings- og drikkeanleggene skal være fordelt slik at alle hønene har lik adgang,etasjene skal være innrettet slik at ekskrementer ikke faller gjennom til underliggende etasjer,det skal være mulig å føre forsvarlig tilsyn med alle dyra.
+I produksjonssystemer hvor verpehøns kan bevege seg fritt mellom etasjer (aviarier) skal i tillegg til [§ 25](forskrift/2001-12-12-1494/§25), følgende gjelde:
+
+1. det skal være maksimum fire etasjer over hverandre,
+2. frihøyden mellom etasjene skal være minst 45 cm,
+3. fôrings- og drikkeanleggene skal være fordelt slik at alle hønene har lik adgang,
+4. etasjene skal være innrettet slik at ekskrementer ikke faller gjennom til underliggende etasjer,
+5. det skal være mulig å føre forsvarlig tilsyn med alle dyra.
 
 ### § 27. Krav til utearealer
 
-Hvis verpehøns har adgang til uteareal skal:utearealene avpasses etter dyretetthet og jordsmonn for å forebygge smitteoverføring og sykdom,det være flere utgangsåpninger som er minst 35 cm høye og 40 cm brede som gir adgang til uteareal, og som utgjør minst 2 meter i bredden pr. 1.000 høns. Utgangsåpningene skal være fordelt over hele fjørferommets lengde,utearealene være forsynt med ly for vær og vind og være beskyttet mot rovdyr og skadedyr.
+Hvis verpehøns har adgang til uteareal skal:
+
+1. utearealene avpasses etter dyretetthet og jordsmonn for å forebygge smitteoverføring og sykdom,
+2. det være flere utgangsåpninger som er minst 35 cm høye og 40 cm brede som gir adgang til uteareal, og som utgjør minst 2 meter i bredden pr. 1.000 høns. Utgangsåpningene skal være fordelt over hele fjørferommets lengde,
+3. utearealene være forsynt med ly for vær og vind og være beskyttet mot rovdyr og skadedyr.
 
 ### § 28. Forbud mot tradisjonelle bur
 
@@ -228,7 +260,16 @@ Det er forbudt å holde verpehøns i tradisjonelle bur.
 
 ### § 29. Krav til innredede bur
 
-Verpehøner i innredede bur skal ha:minst 850 cm2 burareal pr. dyr, herav minst 675 cm2 bruksareal. Bruksarealet skal ha en bredde på minst 30 cm, en høyde på minst 45 cm og en helning på maks 14%. Utenfor bruksarealet skal høyden være minst 20 cm. Hvert bur skal ha et samlet areal på minst 2.000 cm2 ,tilgang på rede. Antall reder og størrelsen på redet skal tilpasses flokkstørrelsen,vagle hvor det er beregnet minst 15 cm til hver høne,tilgang på strøbad som stimulerer til å hakke, skrape og sandbade. Antall strøbad og størrelsen på strøbadet skal tilpasses flokkstørrelsen. Strøbadet skal være tilgjengelig i størst mulig del av lysdagen, og minimum 9 timer av lysdagen,fôrtro som kan nyttes uten hindringer. Lengden skal være minst 12 cm pr. høne,passende drikkesystem som svarer til gruppens størrelse,klosliper som er tilgjengelig for dyra og som skal skiftes ut når effekten er liten,Det skal ikke være flere enn 5,5 dyr pr. m3 romvolum.
+Verpehøner i innredede bur skal ha:
+
+1. minst 850 cm2 burareal pr. dyr, herav minst 675 cm2 bruksareal. Bruksarealet skal ha en bredde på minst 30 cm, en høyde på minst 45 cm og en helning på maks 14%. Utenfor bruksarealet skal høyden være minst 20 cm. Hvert bur skal ha et samlet areal på minst 2.000 cm2 ,
+2. tilgang på rede. Antall reder og størrelsen på redet skal tilpasses flokkstørrelsen,
+3. vagle hvor det er beregnet minst 15 cm til hver høne,
+4. tilgang på strøbad som stimulerer til å hakke, skrape og sandbade. Antall strøbad og størrelsen på strøbadet skal tilpasses flokkstørrelsen. Strøbadet skal være tilgjengelig i størst mulig del av lysdagen, og minimum 9 timer av lysdagen,
+5. fôrtro som kan nyttes uten hindringer. Lengden skal være minst 12 cm pr. høne,
+6. passende drikkesystem som svarer til gruppens størrelse,
+7. klosliper som er tilgjengelig for dyra og som skal skiftes ut når effekten er liten,
+8. Det skal ikke være flere enn 5,5 dyr pr. m3 romvolum.
 
 Haner skal ikke holdes i bur som er for lave til at dyra kan utføre parring uten risiko for skade.
 
@@ -310,9 +351,18 @@ Mattilsynet kan gi tillatelse til kortvarig overtredelse av maksimal dyretetthet
 
 ### § 35b. Dyrevelferdsprogram
 
-Dyrevelferdsprogram for slaktekylling skal som minimum inneholde følgende elementer:krav om veterinæravtale for helseovervåking i besetningen,krav om ekstern og intern KSL-revisjon,krav til avviksbehandling, inkludert utelukkelse av produsenter fra programmet,beskrivelse av fothelseprogram med tilhørende utregning av tråputepoeng.
+Dyrevelferdsprogram for slaktekylling skal som minimum inneholde følgende elementer:
 
-Fothelseprogrammet baserer seg på vurdering av slaktekyllingenes tråputer på slaktetidspunktet, med etterfølgende klassifisering i tre klasser:Klasse 0: Uten anmerkningerKlasse 1: Lett skade, små lesjonerKlasse 2: Grov skade, alvorlige lesjoner.
+1. krav om veterinæravtale for helseovervåking i besetningen,
+2. krav om ekstern og intern KSL-revisjon,
+3. krav til avviksbehandling, inkludert utelukkelse av produsenter fra programmet,
+4. beskrivelse av fothelseprogram med tilhørende utregning av tråputepoeng.
+
+Fothelseprogrammet baserer seg på vurdering av slaktekyllingenes tråputer på slaktetidspunktet, med etterfølgende klassifisering i tre klasser:
+
+- Klasse 0: Uten anmerkninger
+- Klasse 1: Lett skade, små lesjoner
+- Klasse 2: Grov skade, alvorlige lesjoner.
 
 Tråputepoeng beregnes på bakgrunn av klassifiseringen i annet ledd og inndeles i nivåene A, B og C.
 
@@ -332,7 +382,13 @@ Hvis forhold som ligger utenfor produsentens kontroll medfører høy klassifiser
 
 ### § 35c. Dokumentasjon
 
-Ved oppdrett av slaktekylling skal dyreholder ved hvert innsett fortløpende dokumentere skriftlig følgende opplysninger om kyllingflokken i hvert hus:antall dyr ved innsettetbruksarealhvilken rase eller hybrid som er satt innhvor mange dyr som ved hver kontroll er funnet døde eller er blitt avlivet, med angivelse av dødsårsak dersom det er mulig, eller avlivingsgrunnantall dyr som er igjen i flokken når dyr eventuelt er plukket ut for salg eller slakting.
+Ved oppdrett av slaktekylling skal dyreholder ved hvert innsett fortløpende dokumentere skriftlig følgende opplysninger om kyllingflokken i hvert hus:
+
+1. antall dyr ved innsettet
+2. bruksareal
+3. hvilken rase eller hybrid som er satt inn
+4. hvor mange dyr som ved hver kontroll er funnet døde eller er blitt avlivet, med angivelse av dødsårsak dersom det er mulig, eller avlivingsgrunn
+5. antall dyr som er igjen i flokken når dyr eventuelt er plukket ut for salg eller slakting.
 
 Ved tettheter av kylling over 33 kg/m2 kreves i tillegg dokumentasjon for de krav som er omtalt i vedlegg 2 og 3.
 
@@ -356,7 +412,12 @@ Det skal være kapasitet til minst 3,4 m3 luftskifte/kg levendevekt/time.
 
 Dyreholdere som holder kalkun for kjøttproduksjon, skal være tilknyttet et dyrevelferdsprogram anerkjent av Mattilsynet.
 
-Dyrevelferdsprogrammet skal som minimum inneholdekrav om veterinæravtale for helseovervåking i besetningenkrav om ekstern og intern KSL-revisjonkrav til avviksbehandling, inkludert utelukkelse av produsenter fra programmetfothelseprogram med tilhørende utregning av tråputepoeng, som anvendes på alle flokker som slaktes.
+Dyrevelferdsprogrammet skal som minimum inneholde
+
+1. krav om veterinæravtale for helseovervåking i besetningen
+2. krav om ekstern og intern KSL-revisjon
+3. krav til avviksbehandling, inkludert utelukkelse av produsenter fra programmet
+4. fothelseprogram med tilhørende utregning av tråputepoeng, som anvendes på alle flokker som slaktes.
 
 Resultatene fra dyrevelferdsprogrammet skal formidles til Mattilsynet.
 
@@ -410,15 +471,39 @@ Til og med 30. juni 2013 skal dyretettheten for slaktekylling ikke overstige 34 
 
 Dyreholder som har slaktekylling, skal ha gjennomgått kurs godkjent av Mattilsynet.
 
-Innholdet i kurset skal dekke kravene i denne forskriften og ha fokus på dyrevelferd med særlig vekt på:regelverket for hold av slaktekyllingfysiologi, herunder behovet for fôr og vann, dyrenes atferd og årsaker til stressdyrevelferdsmessig forsvarlig håndtering av fjørfe, plukking, lasting og transportkritiske situasjoner for dyrene, herunder avliving og nødslaktingforebyggende helsearbeid og smitteforebygging.
+Innholdet i kurset skal dekke kravene i denne forskriften og ha fokus på dyrevelferd med særlig vekt på:
+
+1. regelverket for hold av slaktekylling
+2. fysiologi, herunder behovet for fôr og vann, dyrenes atferd og årsaker til stress
+3. dyrevelferdsmessig forsvarlig håndtering av fjørfe, plukking, lasting og transport
+4. kritiske situasjoner for dyrene, herunder avliving og nødslakting
+5. forebyggende helsearbeid og smitteforebygging.
 
 > Vedlegg 1 tilføyd ved [forskrift 24 jan 2013 nr. 64](forskrift/2013-01-24-64).
 
 ## VEDLEGG 2. Krav til oppdrett av slaktekylling ved tetthet over 33 kg/m2
 
-1. Før tettheten kan økes ut over 33 kg/m2 , må den ansvarlige for dyreholdet melde fra til Mattilsynet og angi det nøyaktige tallet for høyeste tetthet senest 15 dager før dyrene settes inn.Meldingen skal vedlegges opplysninger som går fram av [punkt](forskrift/2001-12-12-1494/kap2) 2 nedenfor hvis Mattilsynet ber om det.
-2. Dyreholder skal ha for hånden en oppdatert dokumentasjon som beskriver produksjonssystemet i detalj. Spesielt skal dokumentasjonen inneholde tekniske detaljer om bygningen og utstyr, slik som:plan over huset med størrelsen på arealer som dyrene brukerventilasjon og eventuelle kjøle- eller varmesystemer, herunder hvor de er plassert i huset, ventilasjonsplan med tekniske opplysninger om luftstrømmer, lufthastighet og temperatur og andre luftkvalitetsparametrefôrings- og vanningssystemer og plassering av dissealarmsystemer og backup-systemer som varsler svikt i automatisk og mekanisk utstyr som er av betydning for dyrenes helse og velferdgulvsystem og type strø som normalt blir brukt.Teknisk inspeksjon av ventilasjons- og alarmanlegget skal dokumenteres.Dokumentasjonen skal holdes oppdatert og være tilgjengelig for Mattilsynet på forespørsel.Den ansvarlige for dyreholdet skal melde til Mattilsynet enhver forandring angående bygninger, utstyr eller prosedyrer som kan påvirke dyrenes helse eller velferd.
-3. Den ansvarlige for dyreholdet skal forsikre seg om at hvert hus er utstyrt med ventilasjonsanlegg, og varme- eller kjølesystem om nødvendig, som sikrer at:konsentrasjonen av ammoniakk (NH3 ) ikke overstiger 20 ppm og konsentrasjonene av karbondioksid (CO2 ) ikke overstiger 3000 ppm målt i høyde med kyllingenes hodetemperaturen i dyrerommet ikke overstiger ute temperaturen med mer enn 3 °C, når ute temperaturen målt i skyggen er mer enn 30 °Cgjennomsnittlig relativ fuktighet målt inne i husdyrrommet gjennom 48 timer ikke overstiger 70 % når ute temperaturen er under 10 °C.
+1. Før tettheten kan økes ut over 33 kg/m2 , må den ansvarlige for dyreholdet melde fra til Mattilsynet og angi det nøyaktige tallet for høyeste tetthet senest 15 dager før dyrene settes inn.
+
+   Meldingen skal vedlegges opplysninger som går fram av [punkt](forskrift/2001-12-12-1494/kap2) 2 nedenfor hvis Mattilsynet ber om det.
+2. Dyreholder skal ha for hånden en oppdatert dokumentasjon som beskriver produksjonssystemet i detalj. Spesielt skal dokumentasjonen inneholde tekniske detaljer om bygningen og utstyr, slik som:
+
+   1. plan over huset med størrelsen på arealer som dyrene bruker
+   2. ventilasjon og eventuelle kjøle- eller varmesystemer, herunder hvor de er plassert i huset, ventilasjonsplan med tekniske opplysninger om luftstrømmer, lufthastighet og temperatur og andre luftkvalitetsparametre
+   3. fôrings- og vanningssystemer og plassering av disse
+   4. alarmsystemer og backup-systemer som varsler svikt i automatisk og mekanisk utstyr som er av betydning for dyrenes helse og velferd
+   5. gulvsystem og type strø som normalt blir brukt.
+
+   Teknisk inspeksjon av ventilasjons- og alarmanlegget skal dokumenteres.
+
+   Dokumentasjonen skal holdes oppdatert og være tilgjengelig for Mattilsynet på forespørsel.
+
+   Den ansvarlige for dyreholdet skal melde til Mattilsynet enhver forandring angående bygninger, utstyr eller prosedyrer som kan påvirke dyrenes helse eller velferd.
+3. Den ansvarlige for dyreholdet skal forsikre seg om at hvert hus er utstyrt med ventilasjonsanlegg, og varme- eller kjølesystem om nødvendig, som sikrer at:
+
+   1. konsentrasjonen av ammoniakk (NH3 ) ikke overstiger 20 ppm og konsentrasjonene av karbondioksid (CO2 ) ikke overstiger 3000 ppm målt i høyde med kyllingenes hode
+   2. temperaturen i dyrerommet ikke overstiger ute temperaturen med mer enn 3 °C, når ute temperaturen målt i skyggen er mer enn 30 °C
+   3. gjennomsnittlig relativ fuktighet målt inne i husdyrrommet gjennom 48 timer ikke overstiger 70 % når ute temperaturen er under 10 °C.
 
 > Vedlegg 2 tilføyd ved [forskrift 24 jan 2013 nr. 64](forskrift/2013-01-24-64). Endret ved [forskrift 12 feb 2013 nr. 195](forskrift/2013-02-12-195).
 

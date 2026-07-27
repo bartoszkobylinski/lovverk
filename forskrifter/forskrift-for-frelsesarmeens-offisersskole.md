@@ -15,7 +15,7 @@ xml_hash: "e98d007161a8c4aa1e30560c442caadd9b1659c317a71734f39a34c89fb00b85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,29 @@ eu_basis: []
 
 ### § 2-1. Opptaksreglement
 
-(1) Frelsesarmeens offisersutdanning tar inn studenter på følgende vilkår:Søkeren må ha fullført treårig videregående opplæring eller dokumentere tilsvarende realkompetanse.Laveste alder i inntaksåret er 19 år.Søkere må være vurdert skikket til tjeneste som frelsesoffiserer av Frelsesarmeens ledelse. Retningslinjer for vurdering av skikkethet finnes på Offisersskolens hjemmeside.
+(1) Frelsesarmeens offisersutdanning tar inn studenter på følgende vilkår:
+
+- Søkeren må ha fullført treårig videregående opplæring eller dokumentere tilsvarende realkompetanse.
+- Laveste alder i inntaksåret er 19 år.
+- Søkere må være vurdert skikket til tjeneste som frelsesoffiserer av Frelsesarmeens ledelse. Retningslinjer for vurdering av skikkethet finnes på Offisersskolens hjemmeside.
 
 (2) Frelsesarmeens offisersutdanning tar fortrinnsvis opp studenter fra Norge, Færøyene og Island. Skolen er åpen for søkere fra andre land, under forutsetning av at de kan forstå og gjøre seg forstått på norsk.
 
-(3) Søkere fra utlandet:Søkere fra Sverige, Danmark og Færøyene som har fullført videregående skole behandles på lik linje med norske søkere. Søkere over 19 år som ikke har fullført videregående skole kan tas inn på grunnlag av realkompetanse på lik linje med norske søkere.Søkere fra Island kan tas inn så fremt de har fullført to år eller mer av «framhaldsskoli».Søkere fra andre land kan tas inn hvis de har fullført skole i sitt land tilsvarende norsk videregående skole, og har tilstrekkelige ferdigheter i norsk og engelsk til å kunne gjennomføre studiet.
+(3) Søkere fra utlandet:
 
-(4) Retningslinjer for vurdering av realkompetanse: Frelsesarmeens offisersutdanning kan, på grunnlag av en samlet vurdering av søkerens realkompetanse, ta inn søkere som har fylt 19 år og som ikke har gjennomført treårig videregående opplæring. Skolen legger følgende kriterier til grunn for vurdering av realkompetanse:Søker har tilstrekkelige ferdigheter i norsk og engelsk til å kunne gjennomføre studiet.Evne til muntlig refleksjon over etiske og livssynsmessige spørsmål. Dette vurderes etter en samtale.Relevant erfaring fra organisasjonsliv, arbeidsliv, folkehøgskole m.m.Opplysninger de gir i søknaden der de blir bedt om å gjøre rede for hvorfor han/hun søker studiet, og hvorfor han/hun mener å kunne gjennomføre studiet. Her kan søkerne gjøre rede for kvalifikasjoner som ikke kan dokumenteres gjennom vitnemål/attester/kursbevis og lignende.Referanser.All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.
+1. Søkere fra Sverige, Danmark og Færøyene som har fullført videregående skole behandles på lik linje med norske søkere. Søkere over 19 år som ikke har fullført videregående skole kan tas inn på grunnlag av realkompetanse på lik linje med norske søkere.
+2. Søkere fra Island kan tas inn så fremt de har fullført to år eller mer av «framhaldsskoli».
+3. Søkere fra andre land kan tas inn hvis de har fullført skole i sitt land tilsvarende norsk videregående skole, og har tilstrekkelige ferdigheter i norsk og engelsk til å kunne gjennomføre studiet.
+
+(4) Retningslinjer for vurdering av realkompetanse: Frelsesarmeens offisersutdanning kan, på grunnlag av en samlet vurdering av søkerens realkompetanse, ta inn søkere som har fylt 19 år og som ikke har gjennomført treårig videregående opplæring. Skolen legger følgende kriterier til grunn for vurdering av realkompetanse:
+
+- Søker har tilstrekkelige ferdigheter i norsk og engelsk til å kunne gjennomføre studiet.
+- Evne til muntlig refleksjon over etiske og livssynsmessige spørsmål. Dette vurderes etter en samtale.
+- Relevant erfaring fra organisasjonsliv, arbeidsliv, folkehøgskole m.m.
+- Opplysninger de gir i søknaden der de blir bedt om å gjøre rede for hvorfor han/hun søker studiet, og hvorfor han/hun mener å kunne gjennomføre studiet. Her kan søkerne gjøre rede for kvalifikasjoner som ikke kan dokumenteres gjennom vitnemål/attester/kursbevis og lignende.
+- Referanser.
+
+All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.
 
 (5) Frelsesarmeens offisersutdanning har løpende opptak.
 
@@ -86,7 +102,12 @@ eu_basis: []
 
 (1) Skolen har myndighet til å iverksette sanksjoner ved brudd på reglementet eller andre forpliktelser. Ved slikt brudd vil studenten bli innkalt til samtale med lærer og/eller rektor.
 
-(2) I tillegg kan følgende sanksjoner iverksettes:Skolen kan vise en student bort fra skole eller praksissted i inntil 5 dager.Skolen kan vise en student bort for resten av studieprogrammet.Vedtaket om bortvisning kan påklages til den lokale klagenemnda for Frelsesarmeens offisersskole. Klagen stiles til skolen innen tre uker etter at studenten er gjort kjent med vedtaket. Studenten har rett på svar innen en uke etter klagefrist. Reglene om klagerett ved enkeltvedtak gjelder, jf. [forvaltningsloven § 7](lov/1967-02-10/§7).
+(2) I tillegg kan følgende sanksjoner iverksettes:
+
+- Skolen kan vise en student bort fra skole eller praksissted i inntil 5 dager.
+- Skolen kan vise en student bort for resten av studieprogrammet.
+
+Vedtaket om bortvisning kan påklages til den lokale klagenemnda for Frelsesarmeens offisersskole. Klagen stiles til skolen innen tre uker etter at studenten er gjort kjent med vedtaket. Studenten har rett på svar innen en uke etter klagefrist. Reglene om klagerett ved enkeltvedtak gjelder, jf. [forvaltningsloven § 7](lov/1967-02-10/§7).
 
 ## Kapittel IV – Avleggelse og gjennomføring av eksamen
 
@@ -146,7 +167,10 @@ En eksamenskandidat som har behov for tilrettelagt eksamen, må søke skolen om 
 
 (1) Vurderingsform og kriterier for de enkelte fag og emner er beskrevet i læreplanen. Frelsesarmeens offisersskole benytter karakterskalaen bestått/ikke bestått med kommentar.
 
-(2) Det er fastsatt følgende generelle, kvalitative beskrivelser:Bestått: Som et minimum: Kandidaten tilfredsstiller de faglige minimumskravene og viser en viss grad av vurderingsevne og selvstendighet.Ikke bestått: Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(2) Det er fastsatt følgende generelle, kvalitative beskrivelser:
+
+- Bestått: Som et minimum: Kandidaten tilfredsstiller de faglige minimumskravene og viser en viss grad av vurderingsevne og selvstendighet.
+- Ikke bestått: Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
 
 ### § 4-10. Sensurering
 
@@ -160,11 +184,21 @@ En eksamenskandidat som har behov for tilrettelagt eksamen, må søke skolen om 
 
 ### § 4-11. Ikke godkjent praksisperiode
 
-Ved ikke godkjent praksis kan studenten søke omalternativ praksisgjennomføring,ny vurdering,levere ny rapport.
+Ved ikke godkjent praksis kan studenten søke om
+
+1. alternativ praksisgjennomføring,
+2. ny vurdering,
+3. levere ny rapport.
 
 ### § 4-12. Sluttvurdering og vitnemål
 
-Vitnemål for bestått offisersutdanning gis på grunnlag avgodkjent vurdering i henhold til læreplanens kravgodkjent praksis og deltakelse i programrelaterte aktivitetergodkjent evaluering fra praksisveiledergodkjent praksisrapportgodkjent frammøte.
+Vitnemål for bestått offisersutdanning gis på grunnlag av
+
+- godkjent vurdering i henhold til læreplanens krav
+- godkjent praksis og deltakelse i programrelaterte aktiviteter
+- godkjent evaluering fra praksisveileder
+- godkjent praksisrapport
+- godkjent frammøte.
 
 ## Kapittel V – Klagebehandling
 

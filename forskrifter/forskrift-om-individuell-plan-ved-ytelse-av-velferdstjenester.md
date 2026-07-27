@@ -16,7 +16,7 @@ xml_hash: "afa2b0d93cff9cd9b4b4658b8ee5a9314bbde2574e493c1d53755091c8798085"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,17 +25,35 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder individuell plan etter[sosialtjenesteloven § 28](lov/2009-12-18-131/§28) og [§ 33](lov/2009-12-18-131/§33)[NAV-loven § 15](lov/2006-06-16-20/§15)[helse- og omsorgstjenesteloven § 7-1](lov/2011-06-24-30/§7-1)[spesialisthelsetjenesteloven § 2-5](lov/1999-07-02-61/§2-5)[psykisk helsevernloven § 4-1](lov/1999-07-02-62/§4-1)[pasient- og brukerrettighetsloven § 2-5](lov/1999-07-02-63/§2-5)[barnevernsloven § 15-9](lov/2021-06-18-97/§15-9).
+Forskriften gjelder individuell plan etter
+
+1. [sosialtjenesteloven § 28](lov/2009-12-18-131/§28) og [§ 33](lov/2009-12-18-131/§33)
+2. [NAV-loven § 15](lov/2006-06-16-20/§15)
+3. [helse- og omsorgstjenesteloven § 7-1](lov/2011-06-24-30/§7-1)
+4. [spesialisthelsetjenesteloven § 2-5](lov/1999-07-02-61/§2-5)
+5. [psykisk helsevernloven § 4-1](lov/1999-07-02-62/§4-1)
+6. [pasient- og brukerrettighetsloven § 2-5](lov/1999-07-02-63/§2-5)
+7. [barnevernsloven § 15-9](lov/2021-06-18-97/§15-9).
 
 > Endret ved forskrift [25 nov 2022 nr. 2349](forskrift/2022-11-25-2349) (i kraft 1 jan 2023).
 
 ## § 2. Definisjoner
 
-I forskriften her menes med:*velferdstjenester:* tjenester, bistand eller tiltak som tilbys eller ytes med hjemmel i en lov som nevnt i [§ 1](forskrift/2022-06-22-1110/§1) eller forskrift gitt med hjemmel i en lov nevnt i [§ 1](forskrift/2022-06-22-1110/§1)*tjenesteyter:* statlige, fylkeskommunale eller kommunale organer eller institusjoner som tilbyr eller yter velferdstjenester, eller private tjenesteytere som etter avtale tilbyr eller yter velferdstjenester på vegne av statlige, fylkeskommunale eller kommunale organer eller institusjoner*tjenestemottaker:* en person som mottar eller oppfyller vilkårene for kunne motta velferdstjenester fra en tjenesteyter.
+I forskriften her menes med:
+
+1. *velferdstjenester:* tjenester, bistand eller tiltak som tilbys eller ytes med hjemmel i en lov som nevnt i [§ 1](forskrift/2022-06-22-1110/§1) eller forskrift gitt med hjemmel i en lov nevnt i [§ 1](forskrift/2022-06-22-1110/§1)
+2. *tjenesteyter:* statlige, fylkeskommunale eller kommunale organer eller institusjoner som tilbyr eller yter velferdstjenester, eller private tjenesteytere som etter avtale tilbyr eller yter velferdstjenester på vegne av statlige, fylkeskommunale eller kommunale organer eller institusjoner
+3. *tjenestemottaker:* en person som mottar eller oppfyller vilkårene for kunne motta velferdstjenester fra en tjenesteyter.
 
 ## § 3. Formål med individuell plan
 
-Formålet med utarbeidelse og bruk av en individuell plan erå bidra til at tjenestemottakeren får et helhetlig, koordinert og individuelt tilpasset tjenestetilbud, herunder å sikre at det til enhver tid er én tjenesteyter som har hovedansvaret for oppfølgingen av tjenestemottakerenå kartlegge tjenestemottakerens mål, ressurser og behov for ulike tjenester, samt å vurdere og koordinere tiltak som kan bidra til å dekke tjenestemottakerens tjeneste- og bistandsbehovå styrke samhandlingen mellom tjenesteyter og tjenestemottaker og eventuelt pårørendeå styrke samhandlingen mellom ulike tjenesteytereå bidra til at tjenestene tilbys tverrfaglig og planmessig.
+Formålet med utarbeidelse og bruk av en individuell plan er
+
+1. å bidra til at tjenestemottakeren får et helhetlig, koordinert og individuelt tilpasset tjenestetilbud, herunder å sikre at det til enhver tid er én tjenesteyter som har hovedansvaret for oppfølgingen av tjenestemottakeren
+2. å kartlegge tjenestemottakerens mål, ressurser og behov for ulike tjenester, samt å vurdere og koordinere tiltak som kan bidra til å dekke tjenestemottakerens tjeneste- og bistandsbehov
+3. å styrke samhandlingen mellom tjenesteyter og tjenestemottaker og eventuelt pårørende
+4. å styrke samhandlingen mellom ulike tjenesteytere
+5. å bidra til at tjenestene tilbys tverrfaglig og planmessig.
 
 ## § 4. Tjenestemottakerens rettigheter ved utarbeiding av individuell plan
 
@@ -77,7 +95,18 @@ Den individuelle planens innhold og omfang skal tilpasses behovene til den enkel
 
 Det skal kun utarbeides én individuell plan for hver enkelt tjenestemottaker. Planen skal holdes oppdatert.
 
-Planen skal blant annet inneholde følgende:en oversikt over tjenestemottakers mål, ressurser og behov for tjenester eller tiltaken oversikt over hvem som deltar i arbeidet med planenen angivelse av hvem som har ansvar for å utarbeide planen, og hvem som har ansvar for å sikre koordinering og fremdrift i arbeidet med planenen oversikt over hva tjenestemottakeren, tjenesteyterne og eventuelt pårørende vil bidra med i planarbeideten oversikt over aktuelle tjenester og tiltak, omfanget av dem, og hvem som skal ha ansvaret for demen beskrivelse av hvordan tjenestene eller tiltakene skal gjennomføresen angivelse av om tjenestemottakeren har fått tilbud om eller fått oppnevnt koordinator etter [helse- og omsorgstjenesteloven § 7-2](lov/2011-06-24-30/§7-2) eller [spesialisthelsetjenesteloven § 2-5a](lov/1999-07-02-61/§2-5a), barnekoordinator etter [helse- og omsorgstjenesteloven § 7-2a](lov/2011-06-24-30/§7-2a) eller kontaktlege etter [spesialisthelsetjenesteloven § 2-5c](lov/1999-07-02-61/§2-5c)en angivelse av planperioden og tidspunkt for eventuelle justeringer og revisjoner av planentjenestemottakerens samtykke til at planen utarbeides og eventuelt samtykke til at deltakere i planleggingen gis tilgang til taushetsbelagte opplysningeren oversikt over nødvendig eller ønskelig samarbeid med andre tjenesteytere.
+Planen skal blant annet inneholde følgende:
+
+1. en oversikt over tjenestemottakers mål, ressurser og behov for tjenester eller tiltak
+2. en oversikt over hvem som deltar i arbeidet med planen
+3. en angivelse av hvem som har ansvar for å utarbeide planen, og hvem som har ansvar for å sikre koordinering og fremdrift i arbeidet med planen
+4. en oversikt over hva tjenestemottakeren, tjenesteyterne og eventuelt pårørende vil bidra med i planarbeidet
+5. en oversikt over aktuelle tjenester og tiltak, omfanget av dem, og hvem som skal ha ansvaret for dem
+6. en beskrivelse av hvordan tjenestene eller tiltakene skal gjennomføres
+7. en angivelse av om tjenestemottakeren har fått tilbud om eller fått oppnevnt koordinator etter [helse- og omsorgstjenesteloven § 7-2](lov/2011-06-24-30/§7-2) eller [spesialisthelsetjenesteloven § 2-5a](lov/1999-07-02-61/§2-5a), barnekoordinator etter [helse- og omsorgstjenesteloven § 7-2a](lov/2011-06-24-30/§7-2a) eller kontaktlege etter [spesialisthelsetjenesteloven § 2-5c](lov/1999-07-02-61/§2-5c)
+8. en angivelse av planperioden og tidspunkt for eventuelle justeringer og revisjoner av planen
+9. tjenestemottakerens samtykke til at planen utarbeides og eventuelt samtykke til at deltakere i planleggingen gis tilgang til taushetsbelagte opplysninger
+10. en oversikt over nødvendig eller ønskelig samarbeid med andre tjenesteytere.
 
 Dersom tjenestemottakeren er et barn, skal det også gis en beskrivelse av hvordan barnets rett til medvirkning er ivaretatt i arbeidet med planen.
 

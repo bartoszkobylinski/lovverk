@@ -60,11 +60,38 @@ Enheter kan registrere elektronisk varslingsadresse for underenheter i Enhetsreg
 
 ### § 3-1. Registrering av opplysninger om enhetens status
 
-Det skal registreres følgende opplysninger om enhetens status i Enhetsregisteret hvis de finnes:om enheten er registrert i tilknyttede registre, jf. [enhetsregisterloven § 1-4 andre ledd](lov/2025-06-20-105/§1-4/ledd/2), og i så fall hvilke registre. Er enheten frivillig registrert i Merverdiavgiftsregisteret, skal dette registreres. Første punktum gjelder ikke Statistisk sentralbyrås Bedrifts- og foretaksregister og Skattedirektoratets register over upersonlige skattytere.om enheten er registrert i Frivillighetsregisteretom enheten er registrert i Partiregisteretdato for sist innsendte årsregnskap til Regnskapsregisteretom det er registrert i Konkursregisteret at enheten er under konkursbehandling og hva som er grunnlaget for konkursbehandlingen.om det er registrert i Foretaksregisteret at enheten er oppløstom det er sendt varsel som gjelder enheten fra Foretaksregisteret eller Regnskapsregisteret til tingretten etter bestemmelse i lov eller i medhold av lov og hva som er grunnlaget for varseletom Enhetsregisteret har mottatt opplysninger fra Statistisk sentralbyrå om sammenslåing eller deling av kommuner eller fylkeskommunerflytting over landegrenser for europeiske selskaper og europeiske samvirkeforetakstatus for norskregistrerte utenlandske foretak (NUF) – avvikling/konkurs/slettet i hjemstatenopplysninger om fusjon og fisjon (plan, beslutning, oppløst, overdragende, overtakende)om enheten inngår i konsernom en stiftelse er besluttet delt, sammenslått eller opphevet/under avviklingom enheten er et finansforetakom enheten er under rekonstruksjonsforhandling.
+Det skal registreres følgende opplysninger om enhetens status i Enhetsregisteret hvis de finnes:
+
+1. om enheten er registrert i tilknyttede registre, jf. [enhetsregisterloven § 1-4 andre ledd](lov/2025-06-20-105/§1-4/ledd/2), og i så fall hvilke registre. Er enheten frivillig registrert i Merverdiavgiftsregisteret, skal dette registreres. Første punktum gjelder ikke Statistisk sentralbyrås Bedrifts- og foretaksregister og Skattedirektoratets register over upersonlige skattytere.
+2. om enheten er registrert i Frivillighetsregisteret
+3. om enheten er registrert i Partiregisteret
+4. dato for sist innsendte årsregnskap til Regnskapsregisteret
+5. om det er registrert i Konkursregisteret at enheten er under konkursbehandling og hva som er grunnlaget for konkursbehandlingen.
+6. om det er registrert i Foretaksregisteret at enheten er oppløst
+7. om det er sendt varsel som gjelder enheten fra Foretaksregisteret eller Regnskapsregisteret til tingretten etter bestemmelse i lov eller i medhold av lov og hva som er grunnlaget for varselet
+8. om Enhetsregisteret har mottatt opplysninger fra Statistisk sentralbyrå om sammenslåing eller deling av kommuner eller fylkeskommuner
+9. flytting over landegrenser for europeiske selskaper og europeiske samvirkeforetak
+10. status for norskregistrerte utenlandske foretak (NUF) – avvikling/konkurs/slettet i hjemstaten
+11. opplysninger om fusjon og fisjon (plan, beslutning, oppløst, overdragende, overtakende)
+12. om enheten inngår i konsern
+13. om en stiftelse er besluttet delt, sammenslått eller opphevet/under avvikling
+14. om enheten er et finansforetak
+15. om enheten er under rekonstruksjonsforhandling.
 
 ### § 3-2. Registrering av administrative opplysninger om enheten
 
-Det skal registreres følgende opplysninger om enheter i Enhetsregisteret hvis de finnes:foretrukken målformdato for nyregistrering i Enhetsregisteretdato for registrering av endringer i Enhetsregisteretdato for registrering i Merverdiavgiftsregisteretdato for registrering i Foretaksregisteretdato for oppdatering av antall ansatte i enhetendato for registrering i Frivillighetsregisteretdato for registrering i Partiregisteretdato for registrering i Stiftelsesregisteretdato for sletting fra Enhetsregisteret.
+Det skal registreres følgende opplysninger om enheter i Enhetsregisteret hvis de finnes:
+
+1. foretrukken målform
+2. dato for nyregistrering i Enhetsregisteret
+3. dato for registrering av endringer i Enhetsregisteret
+4. dato for registrering i Merverdiavgiftsregisteret
+5. dato for registrering i Foretaksregisteret
+6. dato for oppdatering av antall ansatte i enheten
+7. dato for registrering i Frivillighetsregisteret
+8. dato for registrering i Partiregisteret
+9. dato for registrering i Stiftelsesregisteret
+10. dato for sletting fra Enhetsregisteret.
 
 ## Kapittel 4. Registrering av underenheter
 
@@ -74,23 +101,51 @@ Med underenhet menes opplysninger som skal registreres om visse enheter i Enhets
 
 ### § 4-2. Registrering av underenheter
 
-(1) Det skal registreres én underenhet for hver enkelt adskilt aktivitet som næringsdrivende enheter og offentlig forvaltning driver, jf. [enhetsregisterloven § 4-7 første ledd andre punktum](lov/2025-06-20-105/§4-7/ledd/1/setning/2). En aktivitet skal regnes for å være adskilt dersom:aktiviteten utøves på flere forskjellige geografiske steder (lokaliteter), med minst én ansatt hvert sted.aktiviteten utøves på samme geografiske sted (lokalitet), men innenfor ulike næringer og minst fem ansatte er tilknyttet hver enkelt næring eller minst ti ansatte er tilknyttet hver enkelt næring innen industrinæringer.
+(1) Det skal registreres én underenhet for hver enkelt adskilt aktivitet som næringsdrivende enheter og offentlig forvaltning driver, jf. [enhetsregisterloven § 4-7 første ledd andre punktum](lov/2025-06-20-105/§4-7/ledd/1/setning/2). En aktivitet skal regnes for å være adskilt dersom:
+
+1. aktiviteten utøves på flere forskjellige geografiske steder (lokaliteter), med minst én ansatt hvert sted.
+2. aktiviteten utøves på samme geografiske sted (lokalitet), men innenfor ulike næringer og minst fem ansatte er tilknyttet hver enkelt næring eller minst ti ansatte er tilknyttet hver enkelt næring innen industrinæringer.
 
 (2) Registerføreren kan i enkelttilfeller bestemme at det skal registreres underenheter i andre tilfeller enn som nevnt i [enhetsregisterloven § 4-7 første ledd](lov/2025-06-20-105/§4-7/ledd/1).
 
 ### § 4-3. Opplysninger om underenheter
 
-(1) Følgende opplysninger skal registreres om underenheter hvis de finnes:underenhetens organisasjonsnummerenhetens organisasjonsnummerunderenhetens navn/avdelingsbetegnelseunderenhetens adresse og kommuneeventuelt avvikende postadresse for underenhetenaktiviteten som underenheten skal drivenæringskodetype underenhetantall ansatte i underenhetendato for oppstart eller etablering av underenhetenom enheten har overdratt aktivitet (virksomhet), dato for overdragelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for ny eierom enheten har overtatt aktivitet (virksomhet), dato for overtakelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for tidligere eierdato for nedleggelse av aktivitet (virksomhet).
+(1) Følgende opplysninger skal registreres om underenheter hvis de finnes:
+
+1. underenhetens organisasjonsnummer
+2. enhetens organisasjonsnummer
+3. underenhetens navn/avdelingsbetegnelse
+4. underenhetens adresse og kommune
+5. eventuelt avvikende postadresse for underenheten
+6. aktiviteten som underenheten skal drive
+7. næringskode
+8. type underenhet
+9. antall ansatte i underenheten
+10. dato for oppstart eller etablering av underenheten
+11. om enheten har overdratt aktivitet (virksomhet), dato for overdragelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for ny eier
+12. om enheten har overtatt aktivitet (virksomhet), dato for overtakelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for tidligere eier
+13. dato for nedleggelse av aktivitet (virksomhet).
 
 (2) Det kan registreres opplysninger om underenhetens telefonnummer og andre elektroniske adresser.
 
 ### § 4-4. Opplysninger om underenhetens status
 
-Det skal registreres følgende opplysninger i Enhetsregisteret om underenhetens status:om underenheten er registrert i Merverdiavgiftsregisteretom underenheten er registrert i Arbeidsgiver- og arbeidstakerregisteretom underenheten er en ubemannet lokasjon (USYS).
+Det skal registreres følgende opplysninger i Enhetsregisteret om underenhetens status:
+
+1. om underenheten er registrert i Merverdiavgiftsregisteret
+2. om underenheten er registrert i Arbeidsgiver- og arbeidstakerregisteret
+3. om underenheten er en ubemannet lokasjon (USYS).
 
 ### § 4-5. Administrative opplysninger om underenheten
 
-Det skal registreres følgende administrative opplysninger om underenheter i Enhetsregisteret hvis de finnes:foretrukken målformdato for registrering i Enhetsregisteretdato for sletting fra Enhetsregisteretdato for eierskiftedato for oppstart av aktiviteten i underenhetendato for næringsendring i underenheten.
+Det skal registreres følgende administrative opplysninger om underenheter i Enhetsregisteret hvis de finnes:
+
+1. foretrukken målform
+2. dato for registrering i Enhetsregisteret
+3. dato for sletting fra Enhetsregisteret
+4. dato for eierskifte
+5. dato for oppstart av aktiviteten i underenheten
+6. dato for næringsendring i underenheten.
 
 ## Kapittel 5. Registrering av enkeltpersonforetak
 
@@ -124,7 +179,12 @@ Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjo
 
 ### § 6-5. Signering av melding
 
-(1) Melding til Enhetsregisteret etter [enhetsregisterloven § 5-1](lov/2025-06-20-105/§5-1) og [§ 5-2](lov/2025-06-20-105/§5-2) skal signeres av en fysisk eller juridisk person som har en av følgende roller i enheten:meldepliktig, jf. [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3)signaturberettigetbostyrer for konkursborepresentant for norskregistrert utenlandsk foretak, jf. [merverdiavgiftsloven § 2-1 sjette ledd](lov/2009-06-19-58/§2-1/ledd/6).
+(1) Melding til Enhetsregisteret etter [enhetsregisterloven § 5-1](lov/2025-06-20-105/§5-1) og [§ 5-2](lov/2025-06-20-105/§5-2) skal signeres av en fysisk eller juridisk person som har en av følgende roller i enheten:
+
+1. meldepliktig, jf. [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3)
+2. signaturberettiget
+3. bostyrer for konkursbo
+4. representant for norskregistrert utenlandsk foretak, jf. [merverdiavgiftsloven § 2-1 sjette ledd](lov/2009-06-19-58/§2-1/ledd/6).
 
 (2) Melding som nevnt i første ledd kan også signeres av en fysisk person som styreleder eller daglig leder i enheten, eller bostyrer for konkursbo, har delegert retten til å signere meldingen til. Hvis enheten ikke har styreleder, daglig leder eller bostyrer som nevnt i første punktum, kan meldingen signeres av en fysisk person som forretningsfører eller kontaktperson som nevnt i [enhetsregisterloven § 4-2 andre ledd](lov/2025-06-20-105/§4-2/ledd/2) har delegert retten til å signere meldingen til. For enkeltpersonforetak kan retten til å signere meldingen også delegeres av innehaver. Tildeling av rett til å signere meldingen som nevnt i første til tredje punktum skal skje ved bruk av løsning som er godkjent av registerføreren.
 
@@ -148,7 +208,9 @@ Dersom enheten sender inn en felles melding til Enhetsregisteret og minst ett ti
 
 ### § 8-1. Innhenting og registrering av opplysninger fra registre som ikke føres av offentlig myndighet
 
-Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister.
+Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:
+
+1. Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister.
 
 ## Kapittel 9. Utlevering av opplysninger
 
@@ -164,7 +226,11 @@ Kopier som utstedes fra Enhetsregisteret skal bekreftes å være «rett kopi», 
 
 ### § 10-1. Ileggelse av tvangsmulkt
 
-(1) Tvangsmulkt etter [enhetsregisterloven § 11-1](lov/2025-06-20-105/§11-1) kan ilegges enheten i inntil 26 uker etter følgende satser:kr 250 per uke de første åtte ukerkr 500 per uke de neste ti ukerkr 750 per uke de siste åtte uker.
+(1) Tvangsmulkt etter [enhetsregisterloven § 11-1](lov/2025-06-20-105/§11-1) kan ilegges enheten i inntil 26 uker etter følgende satser:
+
+1. kr 250 per uke de første åtte uker
+2. kr 500 per uke de neste ti uker
+3. kr 750 per uke de siste åtte uker.
 
 (2) Dersom særlige grunner tilsier det, kan tvangsmulkt etter første ledd ilegges den som er meldepliktig etter [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3).
 
@@ -182,7 +248,10 @@ Vedtak om tvangsmulkt kan påklages etter reglene i [forvaltningsloven](lov/1967
 
 ### § 10-4. Ettergivelse av ilagt tvangsmulkt
 
-(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersomdet blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor enhetens kontroll.særlige rimelighetsgrunner tilsier det.
+(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersom
+
+1. det blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor enhetens kontroll.
+2. særlige rimelighetsgrunner tilsier det.
 
 (2) Søknad om ettergivelse må fremsettes for Enhetsregisteret innen ett år etter at vedtaket om ileggelse av tvangsmulkt ble fattet.
 
@@ -192,4 +261,7 @@ Vedtak om tvangsmulkt kan påklages etter reglene i [forvaltningsloven](lov/1967
 
 ### § 11-1. Ikrafttredelse
 
-Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves:[forskrift 9. februar 1995 nr. 114 om registrering av juridiske personer m.m. i Enhetsregisteret](forskrift/1995-02-09-114)[forskrift 3. juli 2017 nr. 1107 om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven](forskrift/2017-07-03-1107).
+Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves:
+
+1. [forskrift 9. februar 1995 nr. 114 om registrering av juridiske personer m.m. i Enhetsregisteret](forskrift/1995-02-09-114)
+2. [forskrift 3. juli 2017 nr. 1107 om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven](forskrift/2017-07-03-1107).

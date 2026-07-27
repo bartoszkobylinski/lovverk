@@ -15,7 +15,7 @@ xml_hash: "4229d157c1d57bd66636224d158bae33c70b8a22e9ce12e9ab6ba7d65c175334"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-I forskriften her menes med:*jernbaneinfrastruktur:* trasé, over- og underbygning, banestrømforsyning, kontaktledningsanlegg, signalanlegg og telekommunikasjonsanlegg,*trafikkstyring:* togledelse og andre funksjoner som koordinerer og bidrar til å ivareta sikkerheten for kjøring av tog og skifting,*jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og/eller trafikkstyring.
+I forskriften her menes med:
+
+1. *jernbaneinfrastruktur:* trasé, over- og underbygning, banestrømforsyning, kontaktledningsanlegg, signalanlegg og telekommunikasjonsanlegg,
+2. *trafikkstyring:* togledelse og andre funksjoner som koordinerer og bidrar til å ivareta sikkerheten for kjøring av tog og skifting,
+3. *jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og/eller trafikkstyring.
 
 ## Kapittel 2. Krav til helse
 
@@ -52,19 +56,35 @@ Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i 
 
 ### § 2-3. Første gangs helseundersøkelse
 
-1\. Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 1-1](forskrift/2019-06-12-721/§1-1) nr. 2 skal gjennomgå en helseundersøkelse som minst skal omfatte:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel, fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+1\. Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 1-1](forskrift/2019-06-12-721/§1-1) nr. 2 skal gjennomgå en helseundersøkelse som minst skal omfatte:
 
-2\. Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:kognitive egenskaper,psykomotoriske egenskaper,atferdsmessige og personlige egenskaper.
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel, fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+
+2\. Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:
+
+1. kognitive egenskaper,
+2. psykomotoriske egenskaper,
+3. atferdsmessige og personlige egenskaper.
 
 ### § 2-4. Periodiske undersøkelser
 
-1\. Det skal gjennomføres minst en helseundersøkelse:hvert femte år for personale opp til 40 år,hvert tredje år for personale mellom 41 og 62 år,hvert år for personale over 62 år.
+1\. Det skal gjennomføres minst en helseundersøkelse:
+
+1. hvert femte år for personale opp til 40 år,
+2. hvert tredje år for personale mellom 41 og 62 år,
+3. hvert år for personale over 62 år.
 
 2\. Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det.
 
 ### § 2-5. Minstekrav til den periodiske helseundersøkelsen
 
-Periodisk helseundersøkelse skal minst inneholde:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel og fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+Periodisk helseundersøkelse skal minst inneholde:
+
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel og fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
 
 ### § 2-6. Supplerende helseundersøkelser og/eller psykologiske vurderinger
 
@@ -76,13 +96,31 @@ Periodisk helseundersøkelse skal minst inneholde:en generell undersøkelse,unde
 
 1\. Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.
 
-2\. Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:plutselig bevisstløshet,nedsatt oppmerksomhet eller konsentrasjon,plutselig arbeidsudyktighet,nedsatt balanse- eller koordineringsevne,betydelig begrenset bevegelsesevne.
+2\. Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:
+
+1. plutselig bevisstløshet,
+2. nedsatt oppmerksomhet eller konsentrasjon,
+3. plutselig arbeidsudyktighet,
+4. nedsatt balanse- eller koordineringsevne,
+5. betydelig begrenset bevegelsesevne.
 
 ### § 2-8. Synskrav
 
 1\. Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.
 
-2\. Følgende krav gjelder:synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,største tillatte korreksjon: langsynthet +5/nærsynthet -8,syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,kontaktlinser er tillatt,normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),syn på begge øyne: effektivt,binokulært syn: effektivt,kontrastfølsomhet: god,ingen progressiv øyensykdom,øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
+2\. Følgende krav gjelder:
+
+1. synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,
+2. største tillatte korreksjon: langsynthet +5/nærsynthet -8,
+3. syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,
+4. kontaktlinser er tillatt,
+5. normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,
+6. synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),
+7. syn på begge øyne: effektivt,
+8. binokulært syn: effektivt,
+9. kontrastfølsomhet: god,
+10. ingen progressiv øyensykdom,
+11. øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
 
 3\. Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege.
 

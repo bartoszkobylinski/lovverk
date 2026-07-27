@@ -78,15 +78,43 @@ Digitale ferdigheter i samfunnskunnskap innebærer å ha kjennskap til digital t
 
 ### Modul: Utdanning, kompetanse og arbeidsliv
 
-Mål for opplæringen er at deltakeren skal kunnegi eksempler på barn, unge og voksnes rettigheter, plikter og muligheter i det norske utdanningssystemet, og hvordan utdanning kan finansieresgi eksempler på rettigheter og plikter man har som arbeidstaker, knyttet til for eksempel fagorganisering, medbestemmelse og arbeidsmiljøgi eksempler på hva skattefinansiert velferd innebærerbruke kunnskap om personvern og opphavsrett, samt retten en selv og andre har til privatlivbruke kunnskap om arbeidslivet til å ta hensiktsmessige valg knyttet til opplæring, utdanning og arbeidsamtale om sentrale verdier som det norske skole- og utdanningssystemet bygger på, og hva som forventes av foreldre i samarbeidet mellom skole og hjemsamtale om betydningen av å bruke ulike arenaer for å lære norsksamtale om betydningen av kritisk tenkning og etisk bevissthet, blant annet knyttet til digital dømmekraft.
+Mål for opplæringen er at deltakeren skal kunne
+
+- gi eksempler på barn, unge og voksnes rettigheter, plikter og muligheter i det norske utdanningssystemet, og hvordan utdanning kan finansieres
+- gi eksempler på rettigheter og plikter man har som arbeidstaker, knyttet til for eksempel fagorganisering, medbestemmelse og arbeidsmiljø
+- gi eksempler på hva skattefinansiert velferd innebærer
+- bruke kunnskap om personvern og opphavsrett, samt retten en selv og andre har til privatliv
+- bruke kunnskap om arbeidslivet til å ta hensiktsmessige valg knyttet til opplæring, utdanning og arbeid
+- samtale om sentrale verdier som det norske skole- og utdanningssystemet bygger på, og hva som forventes av foreldre i samarbeidet mellom skole og hjem
+- samtale om betydningen av å bruke ulike arenaer for å lære norsk
+- samtale om betydningen av kritisk tenkning og etisk bevissthet, blant annet knyttet til digital dømmekraft.
 
 ### Modul: Familie, helse og hverdagsliv
 
-Mål for opplæringen er at deltakeren skal kunnegi eksempler på viktige lover, regler og verdier som omhandler barn og unges rettigheter og rettsverngi eksempler på hvordan offentlige etater, som for eksempel barnehage, skole og barnevern, kan støtte familiergi eksempler på hvordan fysisk og psykisk helse kan bli påvirket av livsstil og ulike hendelser, som for eksempel migrasjonbruke kunnskap om det norske helsevesenet til å få tilgang til ulike helsetjenesterbruke kunnskap om sentrale rettigheter, plikter og muligheter som nyankommen innvandrer i Norgebruke kunnskap om omgangsformer i det norske samfunnet og om hvordan man kan delta aktivt på sosiale, frivillige og politiske arenaersamtale om hvordan arbeid, inntekt og forbruk kan påvirke personlig økonomi, levestandard og livskvalitetsamtale om hva negativ sosial kontroll, vold i nære relasjoner, tvangsekteskap og kjønnslemlestelse er, om juridiske og personlige konsekvenser av dette, og om aktuelle hjelpetilbudsamtale om familieplanlegging, prevensjonsmidler og abort, forståelse og respekt knyttet til seksuell identitet og kjønnsuttrykk, samt grensesetting og lovverk knyttet til dette.
+Mål for opplæringen er at deltakeren skal kunne
+
+- gi eksempler på viktige lover, regler og verdier som omhandler barn og unges rettigheter og rettsvern
+- gi eksempler på hvordan offentlige etater, som for eksempel barnehage, skole og barnevern, kan støtte familier
+- gi eksempler på hvordan fysisk og psykisk helse kan bli påvirket av livsstil og ulike hendelser, som for eksempel migrasjon
+- bruke kunnskap om det norske helsevesenet til å få tilgang til ulike helsetjenester
+- bruke kunnskap om sentrale rettigheter, plikter og muligheter som nyankommen innvandrer i Norge
+- bruke kunnskap om omgangsformer i det norske samfunnet og om hvordan man kan delta aktivt på sosiale, frivillige og politiske arenaer
+- samtale om hvordan arbeid, inntekt og forbruk kan påvirke personlig økonomi, levestandard og livskvalitet
+- samtale om hva negativ sosial kontroll, vold i nære relasjoner, tvangsekteskap og kjønnslemlestelse er, om juridiske og personlige konsekvenser av dette, og om aktuelle hjelpetilbud
+- samtale om familieplanlegging, prevensjonsmidler og abort, forståelse og respekt knyttet til seksuell identitet og kjønnsuttrykk, samt grensesetting og lovverk knyttet til dette.
 
 ### Modul: Norge før og nå
 
-Mål for opplæringen er at deltakeren skal kunnegi eksempler på noen av de viktigste historiske hendelsene og prosessene som har dannet grunnlaget for framveksten av demokratiet i Norgegi eksempler på viktige merke- og helligdager, og hvordan disse markeresgi eksempler på hvordan demokratiet i Norge fungerer, knyttet til de tre statsmaktene og prinsippet om maktfordeling, politiske partier og valgordningengi eksempler på mangfold i Norge med vekt på ulike familieformer, levesett, boformer og folkegrupper, inkludert det samiske urfolketbruke kunnskap om hvilke konsekvenser bruk og misbruk av ressurser har for et bærekraftig miljø og samfunnsamtale om likestilling og kvinners deltakelse i arbeidslivet, utdanning og politikk, og betydningen det har for utviklingen av samfunnetsamtale om menneskerettigheter som ytringsfrihet og vern mot diskrimineringsamtale om ulike tradisjoner og syn på religion i det norske samfunnet og endringer på disse områdene over tid.
+Mål for opplæringen er at deltakeren skal kunne
+
+- gi eksempler på noen av de viktigste historiske hendelsene og prosessene som har dannet grunnlaget for framveksten av demokratiet i Norge
+- gi eksempler på viktige merke- og helligdager, og hvordan disse markeres
+- gi eksempler på hvordan demokratiet i Norge fungerer, knyttet til de tre statsmaktene og prinsippet om maktfordeling, politiske partier og valgordningen
+- gi eksempler på mangfold i Norge med vekt på ulike familieformer, levesett, boformer og folkegrupper, inkludert det samiske urfolket
+- bruke kunnskap om hvilke konsekvenser bruk og misbruk av ressurser har for et bærekraftig miljø og samfunn
+- samtale om likestilling og kvinners deltakelse i arbeidslivet, utdanning og politikk, og betydningen det har for utviklingen av samfunnet
+- samtale om menneskerettigheter som ytringsfrihet og vern mot diskriminering
+- samtale om ulike tradisjoner og syn på religion i det norske samfunnet og endringer på disse områdene over tid.
 
 ### Underveisvurdering
 

@@ -15,7 +15,7 @@ xml_hash: "ef4328b31047985678c607a33f1633623bdba1172acdca17532e3a8e8abc2d89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,17 @@ eu_basis: []
 
 ### § 1
 
-Denne lov trer i kraft den 1 juli 19271 tillike med følgende lover:[lov om domstolene av 13 august 1915](lov/1915-08-13-5),[lov om rettergangsmåten for tvistemål av 13 august 1915](lov/1915-08-13-6) ,[lov om tvangsfullbyrdelse av 13 august 1915](lov/1915-08-13-7) ,lov om skifte- og konkurssaker av 21 juli 1916,[lov om vidners og sakkyndiges godtgjørelse m.v. av 21 juli 1916](lov/1916-07-21-2),lov av 14 desember 1917 om forandringer i [lov om rettergangsmåten i straffesaker av 1 juli 1887](lov/1887-07-01-5),lov av 26 april 1918 om forandringer i lov om betaling for offentlige forretninger av 6 august 1897,[lov om utdrag av ankesaker i Høiesterett](lov/1918-08-14-2) ,[lov om offentlige auksjoner og licitasjoner](lov/1918-08-14-3).
+Denne lov trer i kraft den 1 juli 19271 tillike med følgende lover:
+
+1. [lov om domstolene av 13 august 1915](lov/1915-08-13-5),
+2. [lov om rettergangsmåten for tvistemål av 13 august 1915](lov/1915-08-13-6) ,
+3. [lov om tvangsfullbyrdelse av 13 august 1915](lov/1915-08-13-7) ,
+4. lov om skifte- og konkurssaker av 21 juli 1916,
+5. [lov om vidners og sakkyndiges godtgjørelse m.v. av 21 juli 1916](lov/1916-07-21-2),
+6. lov av 14 desember 1917 om forandringer i [lov om rettergangsmåten i straffesaker av 1 juli 1887](lov/1887-07-01-5),
+7. lov av 26 april 1918 om forandringer i lov om betaling for offentlige forretninger av 6 august 1897,
+8. [lov om utdrag av ankesaker i Høiesterett](lov/1918-08-14-2) ,
+9. [lov om offentlige auksjoner og licitasjoner](lov/1918-08-14-3).
 
 > Endret ved lover 19 mai 1922 nr. 2, 1 mai 1923 nr. 3, 14 mars 1924 nr. 1, [17 juli 1925 nr. 6](lov/1925-07-17-6), slutningsbestemmelsen og 9 juli 1926 nr. 1.
 
@@ -120,7 +130,9 @@ Bestemmelsene i domstolslovens2 § 219, annet ledd, gjelder ikke for dem, som ti
 
 > Endret ved lov 25 feb 1927.
 
-1 Se dl. § 219 annet ledd.2 Lov 13 aug 1915 nr. 5 (dl.).
+1 Se dl. § 219 annet ledd.
+
+2 Lov 13 aug 1915 nr. 5 (dl.).
 
 ### § 96. (Uten praktisk betydning)
 
@@ -134,7 +146,9 @@ Bestemmelsen i tvistemålslovens1 § 279, femte punktum, får ikke anvendelse p�
 
 > Første og annet ledd utelatt her som uten betydning. Tredje ledd tilføyd ved lov 25 feb 1927.
 
-1 Lov 13 aug 1915 nr. 6 (tvml.).2 Jfr. § 103 annet ledd.
+1 Lov 13 aug 1915 nr. 6 (tvml.).
+
+2 Jfr. § 103 annet ledd.
 
 ### § 98. (Uten praktisk betydning)
 
@@ -154,7 +168,9 @@ Denne bestemmelse kommer ikke til anvendelse på eldre voldgiftsdommer og gjelds
 
 > Endret ved lov 25 feb 1927.
 
-1 Lov 26 juni 1992 nr. 86 (tvangsl.).2 Jfr. § 97 tredje ledd.
+1 Lov 26 juni 1992 nr. 86 (tvangsl.).
+
+2 Jfr. § 97 tredje ledd.
 
 ### § 104. (Uten praktisk betydning)
 

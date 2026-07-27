@@ -48,7 +48,11 @@ Betalingstjenestetilbyderen er ansvarlig for at tjenesten i sin helhet (ende til
 
 ## § 5. Krav til sterk kundeautentisering
 
-En betalingstjenestetilbyder skal anvende sterk kundeautentisering når brukerenlogger seg inn på sin betalingskonto via nettet,initierer en elektronisk betalingstransaksjon, ellergjennomfører handling som kan innebære risiko for svindel eller annet misbruk.
+En betalingstjenestetilbyder skal anvende sterk kundeautentisering når brukeren
+
+1. logger seg inn på sin betalingskonto via nettet,
+2. initierer en elektronisk betalingstransaksjon, eller
+3. gjennomfører handling som kan innebære risiko for svindel eller annet misbruk.
 
 For transaksjoner som nevnt i første ledd bokstav b skal betalingstjenestetilbyderen ved elektroniske fjernbetalingstransaksjoner anvende sterk kundeautentisering som kobler transaksjonen til et spesifikt beløp og en spesifikk betalingsmottaker.
 
@@ -60,13 +64,30 @@ Kontotilbyder skal gi betalingstjenestetilbydere som tilbyr avtale om betalingsf
 
 ## § 6. Betalingsfullmakttjenester
 
-I forbindelse med betalingsfullmakttjenesten skal betalingsfullmektigenikke på noe tidspunkt ha rådighet over betalerens midlerikke endre betalingsmottaker, beløp eller noe annet kjennetegn ved transaksjonenlegitimere seg overfor brukerens kontotilbyder, når de iverksetter en betalingkommunisere på sikker måte med kontotilbyder, betaleren og betalingsmottakerensikre at betalingstjenestebrukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanalerikke benytte, ha tilgang til eller lagre opplysninger for andre formål enn utføring av betalingsfullmakttjenesten i samsvar med betalerens uttrykkelige anmodningikke lagre sensitive betalingsopplysninger om betalerenikke be betalingstjenestebrukeren om opplysninger som ikke er nødvendige for å utføre betalingsfullmakttjenestensikre at eventuelle andre opplysninger om betalingstjenestebrukeren som er innhentet om betaleren i forbindelse med betalingstjenesten, bare gis til betalingsmottakeren og bare med betalerens uttrykkelige samtykke.
+I forbindelse med betalingsfullmakttjenesten skal betalingsfullmektigen
+
+1. ikke på noe tidspunkt ha rådighet over betalerens midler
+2. ikke endre betalingsmottaker, beløp eller noe annet kjennetegn ved transaksjonen
+3. legitimere seg overfor brukerens kontotilbyder, når de iverksetter en betaling
+4. kommunisere på sikker måte med kontotilbyder, betaleren og betalingsmottakeren
+5. sikre at betalingstjenestebrukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanaler
+6. ikke benytte, ha tilgang til eller lagre opplysninger for andre formål enn utføring av betalingsfullmakttjenesten i samsvar med betalerens uttrykkelige anmodning
+7. ikke lagre sensitive betalingsopplysninger om betaleren
+8. ikke be betalingstjenestebrukeren om opplysninger som ikke er nødvendige for å utføre betalingsfullmakttjenesten
+9. sikre at eventuelle andre opplysninger om betalingstjenestebrukeren som er innhentet om betaleren i forbindelse med betalingstjenesten, bare gis til betalingsmottakeren og bare med betalerens uttrykkelige samtykke.
 
 Betalingsfullmektigen skal gjøre betalingstransaksjonens referanse tilgjengelig for kontotilbyderen ved iverksetting av en betalingsordre.
 
 ## § 7. Kontoinformasjonstjenester
 
-I forbindelse med kontoinformasjonstjenesten skal opplysningsfullmektigenlegitimere seg overfor brukerens kontotilbyder for hver kommunikasjonsøktkommunisere på sikker måte med kontotilbyder og brukerensikre at brukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanalerkun ha tilgang til opplysninger fra angitte betalingskontoer og tilknyttede betalingstransaksjonerikke be om sensitive betalingsopplysninger knyttet til betalingskontoenikke bruke, ha tilgang til eller lagre opplysninger for andre formål enn for å utføre kontoinformasjonstjenesten i samsvar med brukerens anmodning.
+I forbindelse med kontoinformasjonstjenesten skal opplysningsfullmektigen
+
+1. legitimere seg overfor brukerens kontotilbyder for hver kommunikasjonsøkt
+2. kommunisere på sikker måte med kontotilbyder og brukeren
+3. sikre at brukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanaler
+4. kun ha tilgang til opplysninger fra angitte betalingskontoer og tilknyttede betalingstransaksjoner
+5. ikke be om sensitive betalingsopplysninger knyttet til betalingskontoen
+6. ikke bruke, ha tilgang til eller lagre opplysninger for andre formål enn for å utføre kontoinformasjonstjenesten i samsvar med brukerens anmodning.
 
 ## § 8. Kontotilbyderens plikter
 

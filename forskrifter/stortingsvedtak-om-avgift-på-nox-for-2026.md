@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen med kr 26,94 per kg utslipp av nitrogenoksider (NOX) ved energiproduksjon fra følgende kilder:fremdriftsmaskineri med samlet installert motoreffekt på mer enn 750 kWmotorer, kjeler og turbiner med samlet installert innfyrt effekt på mer enn 10 MWfakler på innretninger på norsk kontinentalsokkel og anlegg på land.
+Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen med kr 26,94 per kg utslipp av nitrogenoksider (NOX) ved energiproduksjon fra følgende kilder:
+
+1. fremdriftsmaskineri med samlet installert motoreffekt på mer enn 750 kW
+2. motorer, kjeler og turbiner med samlet installert innfyrt effekt på mer enn 10 MW
+3. fakler på innretninger på norsk kontinentalsokkel og anlegg på land.
 
 Ved beregningen av effekt etter bokstav a og b skal effekten av elektromotorer og elektrokjeler ikke tas med.
 
@@ -32,7 +36,12 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten, og om grun
 
 ## § 2.
 
-Det gis fritak for avgift på utslipp av NOX frafartøy som går i fart mellom norsk og utenlandsk havnfartøy som brukes til fiske og fangst i fjerne farvannluftfartøy som går i fart mellom norsk og utenlandsk lufthavnenheter omfattet av miljøavtale med staten om reduksjon av NOX-utslipp.
+Det gis fritak for avgift på utslipp av NOX fra
+
+1. fartøy som går i fart mellom norsk og utenlandsk havn
+2. fartøy som brukes til fiske og fangst i fjerne farvann
+3. luftfartøy som går i fart mellom norsk og utenlandsk lufthavn
+4. enheter omfattet av miljøavtale med staten om reduksjon av NOX-utslipp.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

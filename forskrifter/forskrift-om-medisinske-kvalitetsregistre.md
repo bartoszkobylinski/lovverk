@@ -15,7 +15,7 @@ xml_hash: "20a6e59f839dc94c7f577e60e489a0cf23e6313d8e87e1cf4b298d5765cb5c16"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,11 +52,49 @@ Personopplysningsloven, personvernforordningen (jf. [personopplysningsloven § 1
 
 ### § 2-1. Opplysningstyper som kan registreres
 
-Når det er nødvendig for kvalitetsregisterets formål, kan følgende opplysninger registreres:direkte personidentifiserende kjennetegnfødselsnummer eller annen personidentifikatordemografiske og sosioøkonomiske opplysningerfødselsdatokjønnfødekommune/fødelanddødsdatobostedsivilstandandre relevante demografiske og sosioøkonomiske opplysningeradministrative opplysninger om tjenestenetjenesteyter/organisasjontidsangivelse for varighet og kontakt med tjenestensamhandling innad i tjenestenom utskriving og oppfølgning innad og mellom tjenestenivåhelse- og omsorgsfaglige opplysningerhelsetilstanddiagnoserutredningbehandlingsprosedyrer og behandlingstiltak, eksempelvisoperasjon som operasjonskode, -type, -dato, -klokkeslett og -varighetbruk av utstyrlegemiddelbrukrehabiliteringstiltak mv.risikofaktorer for sykdom og funksjonssvikthelseopplysninger framkommet ved analyser av humant biologisk materiale tilknyttet registeretbehandlingsresultater og eventuelle bivirkninger, seneffekter og komplikasjonerpasient- og pårørenderapporterte opplysningerdødsårsak, hendelsessted og situasjoner.
+Når det er nødvendig for kvalitetsregisterets formål, kan følgende opplysninger registreres:
+
+1. direkte personidentifiserende kjennetegn
+
+   - fødselsnummer eller annen personidentifikator
+2. demografiske og sosioøkonomiske opplysninger
+
+   - fødselsdato
+   - kjønn
+   - fødekommune/fødeland
+   - dødsdato
+   - bosted
+   - sivilstand
+   - andre relevante demografiske og sosioøkonomiske opplysninger
+3. administrative opplysninger om tjenestene
+
+   - tjenesteyter/organisasjon
+   - tidsangivelse for varighet og kontakt med tjenesten
+   - samhandling innad i tjenesten
+   - om utskriving og oppfølgning innad og mellom tjenestenivå
+4. helse- og omsorgsfaglige opplysninger
+
+   - helsetilstand
+   - diagnoser
+   - utredning
+   - behandlingsprosedyrer og behandlingstiltak, eksempelvis
+
+     - operasjon som operasjonskode, -type, -dato, -klokkeslett og -varighet
+     - bruk av utstyr
+     - legemiddelbruk
+     - rehabiliteringstiltak mv.
+   - risikofaktorer for sykdom og funksjonssvikt
+   - helseopplysninger framkommet ved analyser av humant biologisk materiale tilknyttet registeret
+   - behandlingsresultater og eventuelle bivirkninger, seneffekter og komplikasjoner
+   - pasient- og pårørenderapporterte opplysninger
+   - dødsårsak, hendelsessted og situasjoner.
 
 ### § 2-2. Bruk av standardiserte variabler og nasjonale fellesløsninger
 
-Den dataansvarlige skal legge til rette for bruk av standardiserte variabler, slik at sammenstilling med opplysninger fra andre registre er mulig. Dette skal gjøres ved åbruke Folkeregisterets standarder ved registrering av relevante opplysningerbenytte andre standardiserte variabler hvor det er relevant.
+Den dataansvarlige skal legge til rette for bruk av standardiserte variabler, slik at sammenstilling med opplysninger fra andre registre er mulig. Dette skal gjøres ved å
+
+1. bruke Folkeregisterets standarder ved registrering av relevante opplysninger
+2. benytte andre standardiserte variabler hvor det er relevant.
 
 Den dataansvarlige skal ta i bruk nasjonale fellesløsninger for utsendelse av informasjon, reservasjon og innsyn der dette finnes og er relevant.
 
@@ -78,7 +116,12 @@ Hvem som har samtykkekompetanse følger av [helseregisterloven § 15](lov/2014-0
 
 ### § 3-2. Vilkår for å behandle opplysninger uten den registrertes samtykke
 
-Helseopplysninger kan samles inn og behandles uten den registrertes samtykke dersom følgende vilkår er oppfylt:krav om samtykke medfører at pasientgruppen og helsehjelpen ikke blir godt nok representert til at kvalitetsregisteret kan oppnå sitt formål,den registrerte har rett til å motsette seg at opplysningene behandles,den dataansvarlige har rådført seg med personvernombudet, ogden dataansvarlige for kvalitetsregisteret er et regionalt helseforetak, helseforetak, kommune, fylkeskommune eller privat ideell virksomhet med driftsavtale med et regionalt helseforetak.
+Helseopplysninger kan samles inn og behandles uten den registrertes samtykke dersom følgende vilkår er oppfylt:
+
+1. krav om samtykke medfører at pasientgruppen og helsehjelpen ikke blir godt nok representert til at kvalitetsregisteret kan oppnå sitt formål,
+2. den registrerte har rett til å motsette seg at opplysningene behandles,
+3. den dataansvarlige har rådført seg med personvernombudet, og
+4. den dataansvarlige for kvalitetsregisteret er et regionalt helseforetak, helseforetak, kommune, fylkeskommune eller privat ideell virksomhet med driftsavtale med et regionalt helseforetak.
 
 Den dataansvarlige skal dokumentere at vilkårene i første ledd er oppfylte og på hvilken måte den registrerte sin rett til informasjon skal oppfylles, jf. [§ 3-5](forskrift/2019-06-21-789/§3-5). Dokumentasjonen skal være offentlig tilgjengelig.
 
@@ -90,13 +133,39 @@ Dersom den registrerte trekker samtykket tilbake eller motsetter seg behandling,
 
 ### § 3-4. Krav om dokumentasjon
 
-Før behandling av helseopplysninger tar til skal den dataansvarligefastsette ett eller flere formål for det medisinske kvalitetsregisteret, som skal være innenfor formålene i [§ 1-1](forskrift/2019-06-21-789/§1-1)fastsette kriterier for hvilke pasientgrupper og/eller behandlingsform som skal inkluderes i kvalitetsregisteretfastsette hvilke opplysninger, som vil bli samlet inn og behandlet, og at opplysningene er nødvendige for å oppnå kvalitetsregisterets formåldokumentere hvilke virksomheter som skal melde inn opplysningervurdere hvordan personvernkonsekvenser kan minimeresdokumentere opprettelsen av et fagråd hvor fagmiljøet og pasientgruppen er representerte, jf. [§ 3-6](forskrift/2019-06-21-789/§3-6)gi informasjon til de registrerte i samsvar med [§ 3-5](forskrift/2019-06-21-789/§3-5). Dersom opplysningene samles inn uten samtykke etter [§ 3-2](forskrift/2019-06-21-789/§3-2), skal informasjonen gis så snart som mulig.innhente samtykke fra de registrerte i samsvar med [§ 3-1](forskrift/2019-06-21-789/§3-1), med mindre opplysningene kan behandles uten samtykke etter [§ 3-2](forskrift/2019-06-21-789/§3-2)fastsette plan for hvordan andelen registrerte i kvalitetsregisteret skal bli høy nok til å representere pasientgruppenfastsette prosedyrer for tilgjengeliggjøring av helseopplysningerdokumentere at det ikke finnes overlappende registrefastsette hvordan kravene til taushetsplikt, informasjonssikkerhet, internkontroll, kvalitetskontroll mv. etter personvernforordningen, helseregisterloven og denne forskriften, skal ivaretas.
+Før behandling av helseopplysninger tar til skal den dataansvarlige
+
+1. fastsette ett eller flere formål for det medisinske kvalitetsregisteret, som skal være innenfor formålene i [§ 1-1](forskrift/2019-06-21-789/§1-1)
+2. fastsette kriterier for hvilke pasientgrupper og/eller behandlingsform som skal inkluderes i kvalitetsregisteret
+3. fastsette hvilke opplysninger, som vil bli samlet inn og behandlet, og at opplysningene er nødvendige for å oppnå kvalitetsregisterets formål
+4. dokumentere hvilke virksomheter som skal melde inn opplysninger
+5. vurdere hvordan personvernkonsekvenser kan minimeres
+6. dokumentere opprettelsen av et fagråd hvor fagmiljøet og pasientgruppen er representerte, jf. [§ 3-6](forskrift/2019-06-21-789/§3-6)
+7. gi informasjon til de registrerte i samsvar med [§ 3-5](forskrift/2019-06-21-789/§3-5). Dersom opplysningene samles inn uten samtykke etter [§ 3-2](forskrift/2019-06-21-789/§3-2), skal informasjonen gis så snart som mulig.
+8. innhente samtykke fra de registrerte i samsvar med [§ 3-1](forskrift/2019-06-21-789/§3-1), med mindre opplysningene kan behandles uten samtykke etter [§ 3-2](forskrift/2019-06-21-789/§3-2)
+9. fastsette plan for hvordan andelen registrerte i kvalitetsregisteret skal bli høy nok til å representere pasientgruppen
+10. fastsette prosedyrer for tilgjengeliggjøring av helseopplysninger
+11. dokumentere at det ikke finnes overlappende registre
+12. fastsette hvordan kravene til taushetsplikt, informasjonssikkerhet, internkontroll, kvalitetskontroll mv. etter personvernforordningen, helseregisterloven og denne forskriften, skal ivaretas.
 
 ### § 3-5. Informasjon til de registrerte
 
 Den dataansvarlige skal sørge for at de registrerte får den informasjonen som er nødvendig for at de skal få innsikt i hva samtykket og retten til å motsette seg innebærer. Informasjonen som gis skal være i samsvar med personvernforordningen artikkel 13 og 14.
 
-De registrerte skal minst få informasjon omhvilket kvalitetsregister innsamlingen av helseopplysningene gjelderkvalitetsregisterets formålhvor opplysningene hentes frahvem som er dataansvarlighvilke opplysninger som vil bli behandlethvor lenge helseopplysningene skal lagresom hvordan videre informasjon vil bli gittom helseopplysninger skal tilgjengeliggjøres, eventuelt hvilke vilkår dataansvarlig stiller for tilgjengeliggjøringenom opplysningene kan sammenstilles med andre registre og hvilke registre de kan sammenstilles medhvordan den registrerte kan motsette seg behandling av opplysningene eller trekke tilbake samtykkeden registrertes rett til innsyn, retting, sletting, sperring mv. etter [helseregisterloven §§ 24](lov/2014-06-20-43/§24) flg.,at den registrerte kan henvende seg til Datatilsynet eller Statens Helsetilsyn dersom helseopplysningene ikke behandles i samsvar med forskriften eller annet relevant regelverk.
+De registrerte skal minst få informasjon om
+
+1. hvilket kvalitetsregister innsamlingen av helseopplysningene gjelder
+2. kvalitetsregisterets formål
+3. hvor opplysningene hentes fra
+4. hvem som er dataansvarlig
+5. hvilke opplysninger som vil bli behandlet
+6. hvor lenge helseopplysningene skal lagres
+7. om hvordan videre informasjon vil bli gitt
+8. om helseopplysninger skal tilgjengeliggjøres, eventuelt hvilke vilkår dataansvarlig stiller for tilgjengeliggjøringen
+9. om opplysningene kan sammenstilles med andre registre og hvilke registre de kan sammenstilles med
+10. hvordan den registrerte kan motsette seg behandling av opplysningene eller trekke tilbake samtykke
+11. den registrertes rett til innsyn, retting, sletting, sperring mv. etter [helseregisterloven §§ 24](lov/2014-06-20-43/§24) flg.,
+12. at den registrerte kan henvende seg til Datatilsynet eller Statens Helsetilsyn dersom helseopplysningene ikke behandles i samsvar med forskriften eller annet relevant regelverk.
 
 Informasjonen skal gis før samtykke innhentes eller så snart som mulig for opplysninger som samles inn uten samtykke etter [§ 3-2](forskrift/2019-06-21-789/§3-2).
 

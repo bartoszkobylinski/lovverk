@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for:Opptak til 1 ½-2-årige masterprogram etter § 3, § 5 og § 7 i forskrift om krav til mastergrad.Opptak til praktisk-pedagogisk utdanning.Innpassingsopptak til høyere trinn i definerte studieprogram.Opptak til videreutdanning.
+Forskriften gjelder for:
+
+1. Opptak til 1 ½-2-årige masterprogram etter § 3, § 5 og § 7 i forskrift om krav til mastergrad.
+2. Opptak til praktisk-pedagogisk utdanning.
+3. Innpassingsopptak til høyere trinn i definerte studieprogram.
+4. Opptak til videreutdanning.
 
 ## § 2. Krav til generell studiekompetanse
 
@@ -34,7 +39,11 @@ Forskriften gjelder for:Opptak til 1 ½-2-årige masterprogram etter § 3, § 5 
 
 ## § 3. Språkkrav
 
-(1) For opptak til engelskspråklige program eller studieretninger gjelder ett av følgende krav til engelsk:Engelsk fra Vg1 i norsk videregående skole (140 årstimer) med karakteren 4 eller bedre, eventuelt engelsk tatt som programfag med minimum 140 timers omfang.Engelsk språktest fra testtilbydere som Universitetet i Oslo godkjenner.Annen godkjent dokumentasjon etter individuell vurdering.
+(1) For opptak til engelskspråklige program eller studieretninger gjelder ett av følgende krav til engelsk:
+
+1. Engelsk fra Vg1 i norsk videregående skole (140 årstimer) med karakteren 4 eller bedre, eventuelt engelsk tatt som programfag med minimum 140 timers omfang.
+2. Engelsk språktest fra testtilbydere som Universitetet i Oslo godkjenner.
+3. Annen godkjent dokumentasjon etter individuell vurdering.
 
 (2) Søkere til tospråklige program eller studieretninger kan behandles enten etter reglene som gjelder for norskspråklige program eller etter reglene som gjelder for engelskspråklige program.
 
@@ -100,7 +109,10 @@ Forskriften gjelder for:Opptak til 1 ½-2-årige masterprogram etter § 3, § 5 
 
 (3) For masterprogram hvor det er ønskelig med en bredere vurdering av søkernes bakgrunn, kan det ved rangering gis tilleggspoeng for annen høyere utdanning, relevant praksis, motivasjonssøknad, intervju og/eller egne arbeider. Bruk av tilleggspoeng skal fremgå av programbeskrivelsen.
 
-(4) Ved poenglikhet skal det først vurderes om det er mulig å ta opp alle med lik poengsum. Deretter rangeres søkerne etter ett av følgende kriterier:LoddtrekningUnderrepresentert kjønn.
+(4) Ved poenglikhet skal det først vurderes om det er mulig å ta opp alle med lik poengsum. Deretter rangeres søkerne etter ett av følgende kriterier:
+
+1. Loddtrekning
+2. Underrepresentert kjønn.
 
 > Endret ved [forskrift 25 feb 2019 nr. 148](forskrift/2019-02-25-148).
 
@@ -134,7 +146,10 @@ Opptakskrav til praktisk-pedagogisk utdanning ved Universitetet i Oslo skal vær
 
 ## § 9. Innpassingsopptak
 
-(1) Fakultetet kan bruke innpassingsopptak i følgende tilfeller:Høyere trinn i fem- og seksårige studieprogram.Høyere trinn i grunnutdanninger som ikke fyller rammen på opptakstidspunktet.
+(1) Fakultetet kan bruke innpassingsopptak i følgende tilfeller:
+
+1. Høyere trinn i fem- og seksårige studieprogram.
+2. Høyere trinn i grunnutdanninger som ikke fyller rammen på opptakstidspunktet.
 
 (2) Søkere til innpassingsopptak skal ordinært dekke eventuelle spesielle opptakskrav samt tilleggskrav som gjelder for utdanningen.
 
@@ -214,7 +229,10 @@ Opptakskrav til praktisk-pedagogisk utdanning ved Universitetet i Oslo skal vær
 
 ## § 17. Prøveordning
 
-(1) Som en prøveordning vil det for opptak til masterprogrammet i Economics, for søkere med utenlandsk utdanning utenfor Norden, være ett av følgende krav:GRE Revised General Test (GRE) med minst 152 poeng på Quantitative Reasoning section.Graduate Management Admission Test (GMAT) med minst 600 poeng.
+(1) Som en prøveordning vil det for opptak til masterprogrammet i Economics, for søkere med utenlandsk utdanning utenfor Norden, være ett av følgende krav:
+
+1. GRE Revised General Test (GRE) med minst 152 poeng på Quantitative Reasoning section.
+2. Graduate Management Admission Test (GMAT) med minst 600 poeng.
 
 (2) Prøveordningen trer i kraft fra opptak til studieåret 2017–18.
 

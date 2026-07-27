@@ -15,7 +15,7 @@ xml_hash: "b7950c5e53e3595b1ea88f393dbe1576c0c2dfea80870134b599d468d85ab7b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier og inkluderer en o
 
 Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d.-graden tildeles på grunnlag avgodkjent gjennomføring av opplæringsdelengodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent vitenskapelig avhandling
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvaret for ph.d-utdanningen
 
@@ -56,7 +61,12 @@ Ph.d.-utdanningen omfattes av AHOs kvalitetssystem.
 
 For å bli tatt opp på doktorgradsprogrammet må søkeren normalt ha mastergrad i arkitektur, design, landskapsarkitektur eller tilsvarende femårig utdanning som AHO har godkjent som grunnlag for gjennomføring av doktorgradsstudiet.
 
-Opptak skal normal ikke gis dersom:finansiering av doktorgradsarbeidet ikke er klarlagt,opphavsrettslige avtaler med ekstern tredjepart er til hinder for offentlig forsvar og publisering av avhandlingen,de immateriellrettslige avtaler som er inngått, er så urimelige at AHO ikke bør medvirke i prosjektet,det gjenstår mindre enn ett års fulltidsarbeid med doktorgradsprosjektet. Det gjøres unntak for doktorander som søker om å få levere inn ferdig – eller nesten ferdigstilt – avhandling etter opptaksperiodens utløp, jf. [§ 5-3](forskrift/2016-10-26-1442/§5-3) siste ledd.
+Opptak skal normal ikke gis dersom:
+
+- finansiering av doktorgradsarbeidet ikke er klarlagt,
+- opphavsrettslige avtaler med ekstern tredjepart er til hinder for offentlig forsvar og publisering av avhandlingen,
+- de immateriellrettslige avtaler som er inngått, er så urimelige at AHO ikke bør medvirke i prosjektet,
+- det gjenstår mindre enn ett års fulltidsarbeid med doktorgradsprosjektet. Det gjøres unntak for doktorander som søker om å få levere inn ferdig – eller nesten ferdigstilt – avhandling etter opptaksperiodens utløp, jf. [§ 5-3](forskrift/2016-10-26-1442/§5-3) siste ledd.
 
 En søker som allerede er funnet kvalifisert for opptak til doktorgradsutdanning ved et annet doktorgradsprogram med faglig relevans, skal normalt anses kvalifisert for opptak til doktorgradsprogrammet ved AHO.
 
@@ -66,9 +76,19 @@ AHO kan stille krav om at søkere gjennomgår særskilte kurs og/eller består s
 
 Dersom søkeren planlegger å bruke annet språk i avhandlingen enn det som er godkjent i henhold til forskriftens [§ 10](forskrift/2016-10-26-1442/§10), skal søknad om godkjenning av dette leveres sammen med søknaden.
 
-Søkere fra land utenfor Norden må kunne dokumentere engelskkunnskaper som følger:TOEFL – Test of English as a Foreign Language, med minst 550 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 80 poeng på Internet based test (TOEFL IBT), ellerIELTS – International English Language Testing Service, British Council, med minst 6.0 poeng (overall score), ellerCertificate in Advanced English eller Certificate of Proficiency in English fra University of Cambridge.
+Søkere fra land utenfor Norden må kunne dokumentere engelskkunnskaper som følger:
 
-Søkere med følgende dokumentasjon er unntatt fra engelskkravet:Statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USAEtt års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelskFullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studietBachelorgrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangenA-level i engelsk med minimum C eller bedre.
+- TOEFL – Test of English as a Foreign Language, med minst 550 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 80 poeng på Internet based test (TOEFL IBT), eller
+- IELTS – International English Language Testing Service, British Council, med minst 6.0 poeng (overall score), eller
+- Certificate in Advanced English eller Certificate of Proficiency in English fra University of Cambridge.
+
+Søkere med følgende dokumentasjon er unntatt fra engelskkravet:
+
+- Statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USA
+- Ett års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelsk
+- Fullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studiet
+- Bachelorgrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangen
+- A-level i engelsk med minimum C eller bedre.
 
 ### § 5-2. Infrastruktur
 
@@ -90,7 +110,13 @@ Kandidaten og AHO kan avtale at ph.d.-utdanningen avsluttes før avtalt tid. Ved
 
 ### § 5-5. Tvungen avslutning ved forsinkelse eller manglende fremdrift
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan AHO vedta tvungen avslutning av ph.d.-utdanningen:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2016-10-26-1442/§9).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.Vedtak etter paragrafen her fattes av det organet som styret bestemmer. Klager behandles av AHOs klagenemnd.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan AHO vedta tvungen avslutning av ph.d.-utdanningen:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2016-10-26-1442/§9).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
+- Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.
+- Vedtak etter paragrafen her fattes av det organet som styret bestemmer. Klager behandles av AHOs klagenemnd.
 
 ### § 5-6. Tvungen avslutning ved fusk på eksamen eller prøver underveis i ph.d.-utdanningen
 
@@ -216,7 +242,12 @@ For ph.d.-kandidater med ekstern arbeidsgiver skal tilsvarende meldeplikt nedfel
 
 ### § 12-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:godkjent vitenskapelig avhandlinggodkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetansegodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 12-2. Tidsbruk fra innlevering til disputas
 
@@ -228,7 +259,13 @@ AHO må bestrebe seg på at tiden fra innlevering til disputas er kortest mulig.
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til AHOs bestemmelser i den form og det antall eksemplarer AHO har bestemt.Dokumentasjon på at nødvendige tillatelser er innhentet, jf. [§ 5-1](forskrift/2016-10-26-1442/§5-1).Medforfattererklæringer hvor dette er påkrevd i henhold til § 11-1.Erklæring om hvorvidt doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format og i henhold til AHOs bestemmelser i den form og det antall eksemplarer AHO har bestemt.
+- Dokumentasjon på at nødvendige tillatelser er innhentet, jf. [§ 5-1](forskrift/2016-10-26-1442/§5-1).
+- Medforfattererklæringer hvor dette er påkrevd i henhold til § 11-1.
+- Erklæring om hvorvidt doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 AHO kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité. Avhandlingen skal være offentlig tilgjengelig senest to uker før disputas, jf. [§ 19-1](forskrift/2016-10-26-1442/§19-1).
 
@@ -240,7 +277,12 @@ AHO behandler søknad om å få avhandlingen bedømt. Søknad som ikke fyller kr
 
 Når AHO har godkjent søknad om å få avhandlingen bedømt, oppnevnes en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, prøveforelesningen og disputasen. Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer. Komiteens sammensetning bør normalt være klarlagt ved innleveringstidspunkt.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:begge kjønn er representertminst to av medlemmene er uten tilknytning til AHOminst ett av medlemmene er uten tilknytning til norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- minst to av medlemmene er uten tilknytning til AHO
+- minst ett av medlemmene er uten tilknytning til norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. AHO fastsetter prosedyre for oppnevning. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker avhandlingens fagfelt. AHO utpeker en koordinator blant komiteens medlemmer eller i tillegg til komiteens medlemmer. Oppnevnte veiledere og andre som har bidratt til avhandlingen, kan ikke være medlem av bedømmelseskomiteen eller administrere den. AHO kan, når det er påkrevd, oppnevne et settemedlem til bedømmelseskomiteen.
 

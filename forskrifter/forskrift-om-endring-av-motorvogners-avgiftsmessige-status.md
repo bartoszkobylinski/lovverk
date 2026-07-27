@@ -30,7 +30,24 @@ Med endring i en motorvogns avgiftsmessige status menes enhver endring av motorv
 
 ### § 2
 
-Selv om endringen ikke fører til kjøretøyteknisk omklassifisering, foreligger avgiftsmessig statusendring i følgende tilfeller:Fra varebil klasse 2 til personbil nårskillevegg mellom førerrom og godsrom er fjernet slik at setearrangement eller brønn er frigjort,fester for plate over brønn i godsrommet er brutt eller løsnet, og brønn eller setearrangement er frigjort, ellerdet i godsrommet er fast setearrangement egnet for persontransport. Setearrangementet regnes i avgiftsmessig forstand som fast når:det er direkte festet i kjøretøyets karosseri, gulv eller skillevegg, ellerdet er sikret mot forskyvning ved tilpassing eller ved hjelp av braketter, bøyler, beslag eller lignende festeanordninger.Som setearrangement regnes også barneseter.Fra kombinert til personbil når godsrommet er utstyrt med setearrangement som nevnt under nr. 1 bokstav c, med mindre bilen etter antall seter blir å klassifisere som buss.Fra kombinert bil med tillatt totalvekt på 3 500 kg eller mer til campingbil når bilen er utstyrt slik at den blir å klassifisere som campingbil.Fra buss til personbil når bilen ved uttak av seter får færre enn 10 sitteplasser medregnet førersetet.Fra campingbil til personbil når boinnredning, helt eller delvis er fjernet, med mindre bilen etter antall seter blir å klassifisere som buss.Fra lastebil til campingbil når bilen er utstyrt slik at den blir å klassifisere som campingbil.Fra lastebil til personbil når godsrommet er utstyrt med setearrangement som nevnt under nr. 1 bokstav c, med mindre bilen etter antall seter blir å klassifisere som buss.
+Selv om endringen ikke fører til kjøretøyteknisk omklassifisering, foreligger avgiftsmessig statusendring i følgende tilfeller:
+
+1. Fra varebil klasse 2 til personbil når
+
+   1. skillevegg mellom førerrom og godsrom er fjernet slik at setearrangement eller brønn er frigjort,
+   2. fester for plate over brønn i godsrommet er brutt eller løsnet, og brønn eller setearrangement er frigjort, eller
+   3. det i godsrommet er fast setearrangement egnet for persontransport. Setearrangementet regnes i avgiftsmessig forstand som fast når:
+
+      - det er direkte festet i kjøretøyets karosseri, gulv eller skillevegg, eller
+      - det er sikret mot forskyvning ved tilpassing eller ved hjelp av braketter, bøyler, beslag eller lignende festeanordninger.
+
+      Som setearrangement regnes også barneseter.
+2. Fra kombinert til personbil når godsrommet er utstyrt med setearrangement som nevnt under nr. 1 bokstav c, med mindre bilen etter antall seter blir å klassifisere som buss.
+3. Fra kombinert bil med tillatt totalvekt på 3 500 kg eller mer til campingbil når bilen er utstyrt slik at den blir å klassifisere som campingbil.
+4. Fra buss til personbil når bilen ved uttak av seter får færre enn 10 sitteplasser medregnet førersetet.
+5. Fra campingbil til personbil når boinnredning, helt eller delvis er fjernet, med mindre bilen etter antall seter blir å klassifisere som buss.
+6. Fra lastebil til campingbil når bilen er utstyrt slik at den blir å klassifisere som campingbil.
+7. Fra lastebil til personbil når godsrommet er utstyrt med setearrangement som nevnt under nr. 1 bokstav c, med mindre bilen etter antall seter blir å klassifisere som buss.
 
 ## II. Endring i avgiftsmessig status uten tilleggsavgift
 
@@ -40,7 +57,12 @@ I medhold av Finansdepartementets [forskrift 19. mars 2001 nr. 268](forskrift/20
 
 ### § 4
 
-Samtykke etter [§ 3](forskrift/2015-12-16-1685/§3) kan gis etter skriftlig søknad i tilfeller hvormotorvognens avgiftsmessige status må endres midlertidig i tilknytning til reparasjon. Med reparasjon menes utbedring av slitasje-, karosseri-, rustskader mv., herunder utskifting av deler og komponenter i forbindelse med vanlig vedlikehold,motorvognen skal endres til annen kjøretøygruppe, og kommer midlertidig i en avgiftsgruppe med høyere avgift enn den vognen er registrert i og skal endres til,motorvogn midlertidig må statusendres for å frakte personell på militærtaktisk kjøretøy registrert på forsvaret samt på kjøretøy under heimeverns- og sivilforsvarsøvelse, ellerdet foreligger særlige forhold. Ved vurderingen av om særlige forhold foreligger skal det bl.a. legges vekt på søkers avhengighet av motorvognen, spesielt i ervervsmessig sammenheng. Videre kan det tas hensyn til at søker ikke har et alternativ til den motorvognen søknaden angår.
+Samtykke etter [§ 3](forskrift/2015-12-16-1685/§3) kan gis etter skriftlig søknad i tilfeller hvor
+
+1. motorvognens avgiftsmessige status må endres midlertidig i tilknytning til reparasjon. Med reparasjon menes utbedring av slitasje-, karosseri-, rustskader mv., herunder utskifting av deler og komponenter i forbindelse med vanlig vedlikehold,
+2. motorvognen skal endres til annen kjøretøygruppe, og kommer midlertidig i en avgiftsgruppe med høyere avgift enn den vognen er registrert i og skal endres til,
+3. motorvogn midlertidig må statusendres for å frakte personell på militærtaktisk kjøretøy registrert på forsvaret samt på kjøretøy under heimeverns- og sivilforsvarsøvelse, eller
+4. det foreligger særlige forhold. Ved vurderingen av om særlige forhold foreligger skal det bl.a. legges vekt på søkers avhengighet av motorvognen, spesielt i ervervsmessig sammenheng. Videre kan det tas hensyn til at søker ikke har et alternativ til den motorvognen søknaden angår.
 
 Tillatelse til midlertidig bruk av motorvognen i uregistrert statusendret stand skal normalt gis for en uke eller med så kort frist som mulig.
 
@@ -48,7 +70,24 @@ I tillatelsen skal det gjøres oppmerksom på at tilleggsavgift vil bli oppkrevd
 
 ### § 5
 
-Samtykke til endring i avgiftsmessig status i forbindelse med transport av funksjonshemmede rullestolbrukere eller andre med en funksjonshemning som nødvendiggjør slik endring, kan gis etter skriftlig søknad på følgende vilkår:Søknaden må gjelde motorvogn som ut fra minstemål er registrert som buss med redusert avgift etter de regler som gjaldt ved første gangs registrering av motorvognen i Norge.Motorvognen må være registrert enten påinnehaver av utvidet drosjeløyve,innehaver av løyve for transport av funksjonshemmede, ellerinstitusjon eller organisasjon som har funksjonshemmede rullestolbrukere knyttet til seg eller som tilbyr transport for slike.Søknad fra løyveinnehavere skal sendes gjennom det samferdselskontor som har tildelt løyvet.Søknad fra institusjoner eller organisasjoner organisert etter [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. eller som har inngått avtale med slikt foretak skal sendes gjennom det helseforetak som virksomheten er organisert under eller har inngått avtale med.Søknad fra kommunale institusjoner eller organisasjoner skal sendes gjennom kommunens helse- og sosialkontor.Instanser som nevnt under nr. 3 skal avgi uttalelse om søkerens behov for transport av rullestolbrukere.Samtykket skal anmerkes i kjøretøyets vognkort og gjelder kun så lenge kjøretøyet er registrert i søkerens navn og behov for slik transport er til stede.Med institusjon menes i denne forskrift privat eller offentlig foretak som har syke- eller omsorgspleie som overordnet oppgave og som er godkjent av sosialmyndighetene. Med organisasjon menes i denne forskrift forening, stiftelse eller annen sammenslutning som har sosialt eller humanitært arbeid som del av sin virksomhet.
+Samtykke til endring i avgiftsmessig status i forbindelse med transport av funksjonshemmede rullestolbrukere eller andre med en funksjonshemning som nødvendiggjør slik endring, kan gis etter skriftlig søknad på følgende vilkår:
+
+1. Søknaden må gjelde motorvogn som ut fra minstemål er registrert som buss med redusert avgift etter de regler som gjaldt ved første gangs registrering av motorvognen i Norge.
+2. Motorvognen må være registrert enten på
+
+   1. innehaver av utvidet drosjeløyve,
+   2. innehaver av løyve for transport av funksjonshemmede, eller
+   3. institusjon eller organisasjon som har funksjonshemmede rullestolbrukere knyttet til seg eller som tilbyr transport for slike.
+3. Søknad fra løyveinnehavere skal sendes gjennom det samferdselskontor som har tildelt løyvet.
+
+   Søknad fra institusjoner eller organisasjoner organisert etter [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. eller som har inngått avtale med slikt foretak skal sendes gjennom det helseforetak som virksomheten er organisert under eller har inngått avtale med.
+
+   Søknad fra kommunale institusjoner eller organisasjoner skal sendes gjennom kommunens helse- og sosialkontor.
+4. Instanser som nevnt under nr. 3 skal avgi uttalelse om søkerens behov for transport av rullestolbrukere.
+
+   Samtykket skal anmerkes i kjøretøyets vognkort og gjelder kun så lenge kjøretøyet er registrert i søkerens navn og behov for slik transport er til stede.
+
+   Med institusjon menes i denne forskrift privat eller offentlig foretak som har syke- eller omsorgspleie som overordnet oppgave og som er godkjent av sosialmyndighetene. Med organisasjon menes i denne forskrift forening, stiftelse eller annen sammenslutning som har sosialt eller humanitært arbeid som del av sin virksomhet.
 
 ### § 6
 

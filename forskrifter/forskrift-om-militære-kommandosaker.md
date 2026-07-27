@@ -24,7 +24,12 @@ eu_basis: []
 
 ## I
 
-Egentlige militære kommandosaker (jfr. [Grunnlovens §§ 28](lov/1814-05-17/§28) og [31](lov/1814-05-17/§31)) omfatter:Mobiliseringsplaner,Sammendragnings- og oppmarsplaner (tilsvarende planer for Sjøforsvaret),Forsvarsplaner,Krigsoppsetningsplaner for Kystartilleriet.
+Egentlige militære kommandosaker (jfr. [Grunnlovens §§ 28](lov/1814-05-17/§28) og [31](lov/1814-05-17/§31)) omfatter:
+
+1. Mobiliseringsplaner,
+2. Sammendragnings- og oppmarsplaner (tilsvarende planer for Sjøforsvaret),
+3. Forsvarsplaner,
+4. Krigsoppsetningsplaner for Kystartilleriet.
 
 ## II
 

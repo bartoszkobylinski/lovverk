@@ -186,4 +186,10 @@ Helse- og omsorgsdepartementet delegerer følgende myndighet til Helsedirektorat
 
 Vedtaket trer i kraft straks.
 
-Fra samme tid oppheves:[Vedtak 21. desember 2001 nr. 1708](forskrift/2001-12-21-1708) om delegering av myndighet til Sosial- og helsedirektoratet[Vedtak 30. juni 2008 nr. 771](forskrift/2008-06-30-771) om delegering av myndighet til Helsedirektoratet etter lov om sterilisering § 6 første ledd[Vedtak 11. november 2008 nr. 1634](forskrift/2008-11-11-1634) om delegering til Helsedirektoratet av Helse- og omsorgsdepartementets myndighet etter [lov om etablering og gjennomføring av psykisk helsevern § 6-1](lov/1999-07-02-62/§6-1) tredje ledd til å oppnevne medlemmer av kontrollkommisjonen[Vedtak 27. mai 2009 nr. 561](forskrift/2009-05-27-561) om delegering av myndighet til å utøve statens partsstilling i sivile søksmål[Vedtak 14. august 2009 nr. 1074](forskrift/2009-08-14-1074) om delegering av myndighet til Helsedirektoratet etter [forvaltningsloven § 13d](lov/1967-02-10/§13d) første ledd.
+Fra samme tid oppheves:
+
+- [Vedtak 21. desember 2001 nr. 1708](forskrift/2001-12-21-1708) om delegering av myndighet til Sosial- og helsedirektoratet
+- [Vedtak 30. juni 2008 nr. 771](forskrift/2008-06-30-771) om delegering av myndighet til Helsedirektoratet etter lov om sterilisering § 6 første ledd
+- [Vedtak 11. november 2008 nr. 1634](forskrift/2008-11-11-1634) om delegering til Helsedirektoratet av Helse- og omsorgsdepartementets myndighet etter [lov om etablering og gjennomføring av psykisk helsevern § 6-1](lov/1999-07-02-62/§6-1) tredje ledd til å oppnevne medlemmer av kontrollkommisjonen
+- [Vedtak 27. mai 2009 nr. 561](forskrift/2009-05-27-561) om delegering av myndighet til å utøve statens partsstilling i sivile søksmål
+- [Vedtak 14. august 2009 nr. 1074](forskrift/2009-08-14-1074) om delegering av myndighet til Helsedirektoratet etter [forvaltningsloven § 13d](lov/1967-02-10/§13d) første ledd.

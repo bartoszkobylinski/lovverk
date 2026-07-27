@@ -15,7 +15,7 @@ xml_hash: "db34e8956dc6347f6ee49fce8e92c6f4552d971b961b6bf1123e16643112e0c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32012L0018"
@@ -51,9 +51,18 @@ Kongen kan bestemme i hvilket omfang denne loven skal gjelde på norske skip og 
 
 1. Med byggverk menes bygning, konstruksjoner og anlegg.
 2. Med farlig gods menes varer definert i de til enhver tid gjeldende rekommandasjoner fra De forente nasjoner om transport av farlig gods.
-3. Med farlig stoff menes i denne lov:brannfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann,eksplosjonsfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer,trykksatt stoff: annet fast, flytende eller gassformig stoff eller stoffblanding enn brann-, reaksjons- og eksplosjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp,reaksjonsfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke.
+3. Med farlig stoff menes i denne lov:
+
+   - brannfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann,
+   - eksplosjonsfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer,
+   - trykksatt stoff: annet fast, flytende eller gassformig stoff eller stoffblanding enn brann-, reaksjons- og eksplosjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp,
+   - reaksjonsfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke.
 4. Med håndtering menes enhver omgang med farlig stoff slik som tilvirkning, oppbevaring, behandling, transport, lasting, lossing, erverv, handel, innførsel, utførsel, overføring, bruk og tilintetgjøring.
-5. Med produkt menes:farlig stoff, eller ferdige varer hvor slikt stoff er en bestanddel og hvor de farlige egenskaper fortsatt er fremtredende,innretninger, utstyr, apparater, emballasje og annet som benyttes ved håndtering av de farlige stoffene eller i forbindelse med transport av farlig gods,innretninger, utstyr, apparater og annet som er beregnet på deteksjon, varsling eller bekjempelse av brann, eksplosjon eller annen skade.
+5. Med produkt menes:
+
+   - farlig stoff, eller ferdige varer hvor slikt stoff er en bestanddel og hvor de farlige egenskaper fortsatt er fremtredende,
+   - innretninger, utstyr, apparater, emballasje og annet som benyttes ved håndtering av de farlige stoffene eller i forbindelse med transport av farlig gods,
+   - innretninger, utstyr, apparater og annet som er beregnet på deteksjon, varsling eller bekjempelse av brann, eksplosjon eller annen skade.
 6. Med virksomhet menes ethvert offentlig og privat foretak uansett om foretaket er etablert med henblikk på forretningsmessig fortjeneste eller ikke.
 7. Med storulykke menes en hendelse som har en ukontrollert utvikling og som umiddelbart eller senere medfører alvorlig fare for mennesker, miljø eller materielle verdier.
 
@@ -125,7 +134,16 @@ Departementet kan gi forskrifter om dokumentasjons- og rapporteringsplikt.
 
 ### § 11. Brannvesenets oppgaver
 
-Brannvesenet skal:gjennomføre informasjons- og motivasjonstiltak i kommunen om fare for brann, farer ved brann, brannverntiltak og opptreden i tilfelle av brann og andre akutte ulykkergjennomføre brannforebyggende tilsyngjennomføre ulykkesforebyggende oppgaver i forbindelse med håndtering av farlig stoff og ved transport av farlig gods på veg og jernbaneutføre nærmere bestemte forebyggende og beredskapsmessige oppgaver i krigs- og krisesituasjonervære innsatsstyrke ved brannvære innsatsstyrke ved andre akutte ulykker der det er bestemt med grunnlag i kommunens risiko- og sårbarhetsanalyseetter anmodning yte innsats ved brann og ulykker i sjøområder innenfor eller utenfor den norske territorialgrensensørge for feiing og tilsyn med fyringsanlegg.
+Brannvesenet skal:
+
+1. gjennomføre informasjons- og motivasjonstiltak i kommunen om fare for brann, farer ved brann, brannverntiltak og opptreden i tilfelle av brann og andre akutte ulykker
+2. gjennomføre brannforebyggende tilsyn
+3. gjennomføre ulykkesforebyggende oppgaver i forbindelse med håndtering av farlig stoff og ved transport av farlig gods på veg og jernbane
+4. utføre nærmere bestemte forebyggende og beredskapsmessige oppgaver i krigs- og krisesituasjoner
+5. være innsatsstyrke ved brann
+6. være innsatsstyrke ved andre akutte ulykker der det er bestemt med grunnlag i kommunens risiko- og sårbarhetsanalyse
+7. etter anmodning yte innsats ved brann og ulykker i sjøområder innenfor eller utenfor den norske territorialgrensen
+8. sørge for feiing og tilsyn med fyringsanlegg.
 
 Kommunen kan legge andre oppgaver til brannvesenet så langt dette ikke svekker brannvesenets gjennomføring av oppgavene i første ledd.
 
@@ -133,7 +151,13 @@ Departementet kan gi forskrifter om brannvesenets oppgaver.
 
 ### § 12. Fullmakter ved brann og andre ulykkessituasjoner
 
-Leder av brannvesenethar ledelsen av brannbekjempelsen,har skadestedsledelsen ved andre ulykkessituasjoner inntil ledelsen overtas av politiet,har ordensmyndighet inntil politiet kommer til stedet,kan rekvirere eiendom, bygninger, materiell og personell innenfor rammen av [§ 5](lov/2002-06-14-20/§5) fjerde ledd,kan pålegge eier eller bruker av eiendom som har vært utsatt for brann, eksplosjon eller annen ulykke å sørge for vakthold og andre nødvendige sikringstiltak.
+Leder av brannvesenet
+
+1. har ledelsen av brannbekjempelsen,
+2. har skadestedsledelsen ved andre ulykkessituasjoner inntil ledelsen overtas av politiet,
+3. har ordensmyndighet inntil politiet kommer til stedet,
+4. kan rekvirere eiendom, bygninger, materiell og personell innenfor rammen av [§ 5](lov/2002-06-14-20/§5) fjerde ledd,
+5. kan pålegge eier eller bruker av eiendom som har vært utsatt for brann, eksplosjon eller annen ulykke å sørge for vakthold og andre nødvendige sikringstiltak.
 
 Fullmaktene i første ledd gjelder tilsvarende for den som i lederens sted har innsatsledelsen på brann- eller ulykkesstedet.
 
@@ -191,7 +215,10 @@ Ansatte i brann- og redningsvesenet og ved Brann- og redningsskolen skal ikke in
 
 Legemidler som er nødvendige på grunn av sykdom, regnes ikke som rusmidler etter første ledd. Ansatte som inntar legemidler som kan påvirke deres fysiske eller psykiske tilstand negativt, skal snarest orientere arbeidsgiveren om dette.
 
-Departementet kan i forskrift gi bestemmelser om:at ansatte skal kunne pålegges å avgi utåndingsprøve, blodprøve eller lignende prøve ved mistanke om overtredelse av første leddforbud mot inntak av rusmidler i et nærmere bestemt tidsrom før tjenestetiden eller undervisningen begynner.
+Departementet kan i forskrift gi bestemmelser om:
+
+1. at ansatte skal kunne pålegges å avgi utåndingsprøve, blodprøve eller lignende prøve ved mistanke om overtredelse av første ledd
+2. forbud mot inntak av rusmidler i et nærmere bestemt tidsrom før tjenestetiden eller undervisningen begynner.
 
 Overtredelse av første ledd andre punktum straffes etter [legemiddelloven § 31](lov/1992-12-04-132/§31) andre ledd. Overtredelser av paragrafen for øvrig straffes etter [§ 42](lov/2002-06-14-20/§42) i denne loven.
 
@@ -237,7 +264,13 @@ Kommunene skal sørge for at deltidspersonell i brann- og redningsvesenet har fu
 
 ### § 18 d. Opptak til fagskoleutdanningen ved Brann- og redningsskolen
 
-For å kvalifisere for opptak til fagskoleutdanningen må søkeretilfredsstille kravene i [fagskoleloven § 16](lov/2018-06-08-28/§16) første leddfremlegge uttømmende politiattest, jf. [politiregisterloven § 41](lov/2010-05-28-16/§41)ha god vandelgjennomføre helseundersøkelse og oppfylle de helsekravene som er nødvendige for å gjennomføre utdanningen og å utøve yrketoppfylle andre krav som er nødvendige for å gjennomføre utdanningen og å utøve yrket.
+For å kvalifisere for opptak til fagskoleutdanningen må søkere
+
+1. tilfredsstille kravene i [fagskoleloven § 16](lov/2018-06-08-28/§16) første ledd
+2. fremlegge uttømmende politiattest, jf. [politiregisterloven § 41](lov/2010-05-28-16/§41)
+3. ha god vandel
+4. gjennomføre helseundersøkelse og oppfylle de helsekravene som er nødvendige for å gjennomføre utdanningen og å utøve yrket
+5. oppfylle andre krav som er nødvendige for å gjennomføre utdanningen og å utøve yrket.
 
 Departementet kan gi forskrift om opptakskrav, utsilingskriterier og om gjennomføring av tester etter første ledd bokstav c, d og e. Departementets myndighet til å gi forskrift kan delegeres til styret ved Brann- og redningsskolen.
 
@@ -249,7 +282,10 @@ Studenter og kursdeltakere ved Brann- og redningsskolen skal ikke innta eller v�
 
 Legemidler som er nødvendige på grunn av sykdom, regnes ikke som rusmidler etter første ledd. Studenter og kursdeltakere som inntar legemidler som kan påvirke deres fysiske eller psykiske tilstand negativt, skal snarest orientere skolen om dette.
 
-Departementet kan i forskrift gi bestemmelser om:at studenter og kursdeltakere skal kunne pålegges å avgi utåndingsprøve, blodprøve eller lignende prøve ved mistanke om overtredelse av første leddforbud mot inntak av rusmidler i et nærmere bestemt tidsrom før undervisningen begynner.
+Departementet kan i forskrift gi bestemmelser om:
+
+1. at studenter og kursdeltakere skal kunne pålegges å avgi utåndingsprøve, blodprøve eller lignende prøve ved mistanke om overtredelse av første ledd
+2. forbud mot inntak av rusmidler i et nærmere bestemt tidsrom før undervisningen begynner.
 
 Overtredelse av første ledd andre punktum straffes etter [legemiddelloven § 31](lov/1992-12-04-132/§31) andre ledd. Overtredelser av paragrafen for øvrig straffes etter [§ 42](lov/2002-06-14-20/§42) i denne loven.
 
@@ -297,13 +333,24 @@ Virksomheter som håndterer utgangsstoffer for eksplosiver skal gjennom tekniske
 
 Departementet kan gi forskrifter om håndtering av utgangsstoffer for eksplosiver, herunder hvilke utgangsstoffer som skal forbys eller begrenses.
 
-Departementet kan videre gi forskrifter om:Forbud mot privatpersoners innføring, besittelse eller bruk av utgangsstoffer.Virksomheters tilgang til og tilgjengeliggjøring av utgangsstoffer, samt krav om melding og deklarering til særskilte registre.Virksomheters plikt til å rapportere om mistenkelige transaksjoner eller forsøk på dette, og til å etablere systemer for registrering av kjøp.Betalingsplikt for destruksjon av beslaglagte eller ulovlige importerte stoffer.
+Departementet kan videre gi forskrifter om:
+
+1. Forbud mot privatpersoners innføring, besittelse eller bruk av utgangsstoffer.
+2. Virksomheters tilgang til og tilgjengeliggjøring av utgangsstoffer, samt krav om melding og deklarering til særskilte registre.
+3. Virksomheters plikt til å rapportere om mistenkelige transaksjoner eller forsøk på dette, og til å etablere systemer for registrering av kjøp.
+4. Betalingsplikt for destruksjon av beslaglagte eller ulovlige importerte stoffer.
 
 > Tilføyd ved lov [29 mai 2015 nr. 36](lov/2015-05-29-36) (ikr. 29 mai 2015 iflg. [res. 29 mai 2015 nr. 553](forskrift/2015-05-29-553)).
 
 ### § 21. Beredskapsplikt
 
-Virksomheter somhåndterer farlig stoff,utgjør en særskilt brann- eller eksplosjonsrisiko, ellertransporterer farlig gods på veg eller jernbaneog som omfattes av særskilte kriterier fastsatt i forskrift, skal etablere en tilstrekkelig egenberedskap med tilhørende varslings- og innsatsplaner.
+Virksomheter som
+
+1. håndterer farlig stoff,
+2. utgjør en særskilt brann- eller eksplosjonsrisiko, eller
+3. transporterer farlig gods på veg eller jernbane
+
+og som omfattes av særskilte kriterier fastsatt i forskrift, skal etablere en tilstrekkelig egenberedskap med tilhørende varslings- og innsatsplaner.
 
 Utgjør virksomheten en risiko for en storulykke, kan sentral tilsynsmyndighet bestemme at beredskapen etter første ledd også skal omfatte områdene nær virksomheten.
 
@@ -371,7 +418,12 @@ Krav på avgift eller gebyr etter paragrafen her er tvangsgrunnlag for utlegg.
 
 ### § 29. Erstatning for deltakelse i brannvesenets rednings- og slokkearbeid
 
-Kommunen skal betaleerstatning for skade på personer som har blitt pålagt å delta i brannvesenets rednings- og slokkearbeid. [Lov av 16. juni 1989 nr. 65](lov/1989-06-16-65) om yrkesskadeforsikring gjelder tilsvarendeerstatning for tapt arbeidsfortjeneste for pålagt deltakelse i rednings- og slokkearbeideterstatning for skade på eiendom eller materielle verdier som følge av inngrep eller rekvisisjon etter lovenerstatning for rekvirert materiell.
+Kommunen skal betale
+
+1. erstatning for skade på personer som har blitt pålagt å delta i brannvesenets rednings- og slokkearbeid. [Lov av 16. juni 1989 nr. 65](lov/1989-06-16-65) om yrkesskadeforsikring gjelder tilsvarende
+2. erstatning for tapt arbeidsfortjeneste for pålagt deltakelse i rednings- og slokkearbeidet
+3. erstatning for skade på eiendom eller materielle verdier som følge av inngrep eller rekvisisjon etter loven
+4. erstatning for rekvirert materiell.
 
 Eier av objekter og eiendommer som rednings- og slokkeinnsatsen har rettet seg mot og andre som har særlig tilknytning til objektet kan ikke kreve erstatning som nevnt i første ledd.
 
@@ -499,7 +551,14 @@ Den som forsettlig eller uaktsomt overtrer denne loven, sentrale eller lokale fo
 
 ### § 43. Utfyllende forskrifter
 
-Departementet kan fastsette forskrifter omledelsens plikter i virksomhet, herunder tekniske og organisatoriske tiltak, samt dokumentasjon av slikekrav til håndtering av farlig stoff, herunder krav til innretninger, apparater og lignende, meldeplikt, kriterier for tillatelser og godkjenninger, krav til opplæring og krav om sertifikatervirksomheter som utgjør risiko for storulykketransport av farlig gods på land, herunder bestemmelser om lasting, lossing, meldeplikt, kontroll på veg, jernbane og i virksomhet, sikkerhetsrådgiver i virksomhet samt om utstyr og hvilke instanser som kan godkjenne og kontrollere slikt utstyr, og om krav til opplæring og opplæringsordninger.kommunestyrets fullmakter til å gi lokale forskrifter om bruk eller forbud mot bruk av fyrverkeri.saksbehandlingen til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for tillatelsesordninger i eller i medhold av loven her, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
+Departementet kan fastsette forskrifter om
+
+1. ledelsens plikter i virksomhet, herunder tekniske og organisatoriske tiltak, samt dokumentasjon av slike
+2. krav til håndtering av farlig stoff, herunder krav til innretninger, apparater og lignende, meldeplikt, kriterier for tillatelser og godkjenninger, krav til opplæring og krav om sertifikater
+3. virksomheter som utgjør risiko for storulykke
+4. transport av farlig gods på land, herunder bestemmelser om lasting, lossing, meldeplikt, kontroll på veg, jernbane og i virksomhet, sikkerhetsrådgiver i virksomhet samt om utstyr og hvilke instanser som kan godkjenne og kontrollere slikt utstyr, og om krav til opplæring og opplæringsordninger.
+5. kommunestyrets fullmakter til å gi lokale forskrifter om bruk eller forbud mot bruk av fyrverkeri.
+6. saksbehandlingen til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for tillatelsesordninger i eller i medhold av loven her, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
 
 > Endret ved lover [19 juni 2009 nr. 84](lov/2009-06-19-84), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)).
 
@@ -517,4 +576,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 
 ### § 46. Endring i andre lover
 
-Fra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover: – – –[Lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk](lov/1971-05-21-47) oppheves.[Lov 14. juni 1974 nr. 39 om eksplosive varer](lov/1974-06-14-39) oppheves.[Lov 5. juni 1987 nr. 26 om brannvern m.v](lov/1987-06-05-26). oppheves.
+Fra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+1. [Lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk](lov/1971-05-21-47) oppheves.
+2. [Lov 14. juni 1974 nr. 39 om eksplosive varer](lov/1974-06-14-39) oppheves.
+3. [Lov 5. juni 1987 nr. 26 om brannvern m.v](lov/1987-06-05-26). oppheves.

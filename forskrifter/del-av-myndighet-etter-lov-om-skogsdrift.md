@@ -30,7 +30,19 @@ Denne forskrift gir en samlet oversikt over myndighetsfordelingen mellom Landbru
 
 ## § 2. Delegert myndighet til Statsskog SF.
 
-Departementets myndighet etter følgende bestemmelser i statsallmenningsloven delegeres til Statsskog SF:§ 1-2 første ledd om allmenningsstyre.§ 1-4 annet og tredje ledd om allmenningsfond.§ 1-5 annet ledd om representasjon i årsmøter.§ 2-16 annet ledd om virkesrett i flere statsallmenninger.§ 2-18 om godkjennelse av bruksregler.§ 2-19 om forholdet mellom bruksregler og vedtekter etter [fjellovens § 14](lov/1975-06-06-31/§14).§ 2-21 om behandling av spørsmål om virkesrett.§ 3-1 om stemmerett.§ 4-1 fjerde og femte ledd om uenighet vedrørende begrensninger i utøvelse av bruksrettene.§ 4-2 fjerde ledd om jordskifte.§ 4-9 om straff og påtale.
+Departementets myndighet etter følgende bestemmelser i statsallmenningsloven delegeres til Statsskog SF:
+
+- § 1-2 første ledd om allmenningsstyre.
+- § 1-4 annet og tredje ledd om allmenningsfond.
+- § 1-5 annet ledd om representasjon i årsmøter.
+- § 2-16 annet ledd om virkesrett i flere statsallmenninger.
+- § 2-18 om godkjennelse av bruksregler.
+- § 2-19 om forholdet mellom bruksregler og vedtekter etter [fjellovens § 14](lov/1975-06-06-31/§14).
+- § 2-21 om behandling av spørsmål om virkesrett.
+- § 3-1 om stemmerett.
+- § 4-1 fjerde og femte ledd om uenighet vedrørende begrensninger i utøvelse av bruksrettene.
+- § 4-2 fjerde ledd om jordskifte.
+- § 4-9 om straff og påtale.
 
 Klage over avgjørelser truffet av Statskog SF i medhold av delegert myndighet etter første ledd kan påklages til Landbruksdirektoratet etter bestemmelsene i kap. VI i forvaltningsloven.
 
@@ -40,7 +52,14 @@ Statskog SF kan delegere sin myndighet videre til det enkelte distriktskontor. K
 
 ## § 3. Departementets myndighet.
 
-Departementet utøver myndighet etter følgende bestemmelser i statsallmenningsloven:§ 2-9 om endring av driftsform.§ 2-16 annet ledd om virkesrett i både statsallmenning og bygdeallmenning.§ 4-4 annet ledd om fordeling av inntekter etter fjellloven.§ 4-5 om overføring av statsallmenning til administrasjon som bygdeallmenning§ 4-7 om forskrifter.§ 4-11 om overgangsregler.
+Departementet utøver myndighet etter følgende bestemmelser i statsallmenningsloven:
+
+- § 2-9 om endring av driftsform.
+- § 2-16 annet ledd om virkesrett i både statsallmenning og bygdeallmenning.
+- § 4-4 annet ledd om fordeling av inntekter etter fjellloven.
+- § 4-5 om overføring av statsallmenning til administrasjon som bygdeallmenning
+- § 4-7 om forskrifter.
+- § 4-11 om overgangsregler.
 
 Departementets avgjørelser etter bestemmelsene nevnt i første ledd kan ikke påklages, jfr. [statsallmenningslovens § 4-8](lov/1992-06-19-60/§4-8).
 

@@ -15,7 +15,7 @@ xml_hash: "91f0f446af0800e005081b236093dd9178e98803e1e25d8211282049e5437293"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,12 @@ I saker der beslutningsmyndighet er lagt til universitetet, treffes avgjørelser
 
 (1) Graden bachelor tildeles på grunnlag av bestått treårig studieprogram eller selvvalgt bachelorløp på til sammen minst 180 studiepoeng.
 
-(2) Treårige studieprogram skal inneholde:Fordypningsenhet, jf. [§ 1](forskrift/2005-06-22-833/§1) bokstav r og breddeenhet, jf. [§ 1](forskrift/2005-06-22-833/§1) bokstav q. Dette kravet gjelder likevel ikke for integrerte studieprogram.Bacheloroppgave på minst 10 studiepoeng. For bachelorprogram med fordypningsenhet skal bacheloroppgaven være inkludert i fordypningsenheten.Examen philosophicum og examen facultatum. Krav om examen facultatum gjelder ikke studieprogram med fordypning i realfag. Krav om examen philosophicum og examen facultatum kan for integrerte studieprogram erstattes med vitenskapsteori, etikk og innsikt i fagets/profesjonens samfunnsmessige rolle i et omfang av minst 10 studiepoeng.Kravet om bacheloroppgave gjelder ikke bachelorprogram i rettsvitenskap.
+(2) Treårige studieprogram skal inneholde:
+
+1. Fordypningsenhet, jf. [§ 1](forskrift/2005-06-22-833/§1) bokstav r og breddeenhet, jf. [§ 1](forskrift/2005-06-22-833/§1) bokstav q. Dette kravet gjelder likevel ikke for integrerte studieprogram.
+2. Bacheloroppgave på minst 10 studiepoeng. For bachelorprogram med fordypningsenhet skal bacheloroppgaven være inkludert i fordypningsenheten.
+3. Examen philosophicum og examen facultatum. Krav om examen facultatum gjelder ikke studieprogram med fordypning i realfag. Krav om examen philosophicum og examen facultatum kan for integrerte studieprogram erstattes med vitenskapsteori, etikk og innsikt i fagets/profesjonens samfunnsmessige rolle i et omfang av minst 10 studiepoeng.
+4. Kravet om bacheloroppgave gjelder ikke bachelorprogram i rettsvitenskap.
 
 (3) For 3-årig integrerte studieprogram som bygger på rammeplan, stilles ingen krav utover de som framgår av rammeplanen.
 
@@ -283,7 +288,9 @@ For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1)
 
 (4) Fakultetsstyret fastsetter kriterier for tildeling av øvrige valgemner og valgfri praksis ved adgangsbegrensning og fordeler praksisplasser.
 
-(5) Studenter beholder sin studierett inntil to år utover normert studietid. Etter søknad kan universitetet i særlige tilfelle innvilge ytterligere tre års studierett for studenter som er tatt opp til et gradsgivende studieprogram. Permisjon i henhold til [§ 20](forskrift/2005-06-22-833/§20) medregnes ikke.Når studieretten har gått ut, kan studenten søke nytt ordinært opptak.
+(5) Studenter beholder sin studierett inntil to år utover normert studietid. Etter søknad kan universitetet i særlige tilfelle innvilge ytterligere tre års studierett for studenter som er tatt opp til et gradsgivende studieprogram. Permisjon i henhold til [§ 20](forskrift/2005-06-22-833/§20) medregnes ikke.
+
+Når studieretten har gått ut, kan studenten søke nytt ordinært opptak.
 
 (6) Studieretten opphører automatisk når studenten har fullført studieprogrammet. Etter søknad kan universitetet forlenge studieretten i ytterligere ett påfølgende år for studenter som ønsker å ta tilleggsemner eller forbedre karakter. Fakultetsstyret/styret for lærerutdanningene kan etter søknad gi studenter som har fullført et studieprogram mulighet til forbedring av karakter i emner som ikke tilbys som enkeltemne og under forutsetning av at det fortsatt tilbys eksamen i emnet.
 
@@ -295,7 +302,12 @@ For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1)
 
 ### § 18. Tap av studierett
 
-(1) En student kan miste sin studierett på et studieprogram vedkommende er tatt opp til i flg. tilfeller:Dersom studenten 2 år etter opptak eller senere i studieprogrammet over en periode på minst 2 år har bestått mindre enn 50% av antall studiepoeng i sin utdanningsplan. Dersom studenten ikke har utdanningsplan for det aktuelle tidsrom, legges normert studieplan til grunn.Dersom en student har strøket 3 ganger på samme emne og vedkommende ikke er innvilget dispensasjon til ytterligere eksamensforsøk (jf. [§ 22](forskrift/2005-06-22-833/§22)).Dersom en student har strøket 2 ganger på samme praksisperiode/kliniske studieprogram (jf. [§ 22](forskrift/2005-06-22-833/§22)) og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.Dersom en student etter forespørsel ikke framviser dokumenter som er grunnlag for opptak i originalversjon for kontroll.
+(1) En student kan miste sin studierett på et studieprogram vedkommende er tatt opp til i flg. tilfeller:
+
+1. Dersom studenten 2 år etter opptak eller senere i studieprogrammet over en periode på minst 2 år har bestått mindre enn 50% av antall studiepoeng i sin utdanningsplan. Dersom studenten ikke har utdanningsplan for det aktuelle tidsrom, legges normert studieplan til grunn.
+2. Dersom en student har strøket 3 ganger på samme emne og vedkommende ikke er innvilget dispensasjon til ytterligere eksamensforsøk (jf. [§ 22](forskrift/2005-06-22-833/§22)).
+3. Dersom en student har strøket 2 ganger på samme praksisperiode/kliniske studieprogram (jf. [§ 22](forskrift/2005-06-22-833/§22)) og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.
+4. Dersom en student etter forespørsel ikke framviser dokumenter som er grunnlag for opptak i originalversjon for kontroll.
 
 (2) Ved vurdering av om en student skal miste studieretten etter [punkt](forskrift/2005-06-22-833/kap1) 1 bokstav a, skal det legges vekt på hvilke grunner studenten har for ikke å ha avlagt eksamener i samsvar med utdanningsplanen eller studieplanen.
 
@@ -321,7 +333,11 @@ For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1)
 
 (7) Universitetet kan fastsette særskilt påmeldingsfrist for privatister og for påmelding til åpne studieprogram eller emner.
 
-(8) Universitetet kan dispensere fra fristene i følgende tilfelle:dersom det er gjort avgjørende feil fra universitetets sideved dokumentert sykdom hos studenten selv eller i nær familie eller ved andre uforutsette hindringer som har gjort det umulig å overholde fristeni andre særlige tilfelle.
+(8) Universitetet kan dispensere fra fristene i følgende tilfelle:
+
+- dersom det er gjort avgjørende feil fra universitetets side
+- ved dokumentert sykdom hos studenten selv eller i nær familie eller ved andre uforutsette hindringer som har gjort det umulig å overholde fristen
+- i andre særlige tilfelle.
 
 (9) Studenter og privatister som kun melder seg til ny eller utsatt eksamen i et semester, betaler ikke semesteravgift for dette semesteret.
 
@@ -355,7 +371,11 @@ For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1)
 
 (1) Det er ikke anledning til å fremstille seg til eksamen i samme emne mer enn 3 ganger ved Universitetet i Agder. Dette gjelder selv om studenten har fått nytt opptak. Emner med tilsvarende faglig innhold, regnes som samme emne. I særlige tilfelle kan universitetet etter søknad gi dispensasjon til et 4. eksamensforsøk. Bestemmelsen i dette ledd gjelder tilsvarende for obligatoriske aktiviteter som er vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1) f). For gjentak av masteroppgave gjelder [§ 26a](forskrift/2005-06-22-833/§26a). For gjentak av bacheloroppgaver og andre oppgaver, gjelder i tillegg [§ 26a](forskrift/2005-06-22-833/§26a).
 
-(2) Gjentakskvote for studieprogrammer i rettsvitenskapStudenter med studierett på treårig bachelorprogram i rettsvitenskap kan totalt gjenta inntil tre beståtte eksamener.Studenter med studierett på toårig masterprogram i rettsvitenskap kan gjenta en bestått eksamen, i emner som inngår i første studieår.For Examen philosophicum og spesialemner i tredje semester i masterprogrammene og masteroppgaven i rettsvitenskap gjelder reglene i første ledd.
+(2) Gjentakskvote for studieprogrammer i rettsvitenskap
+
+1. Studenter med studierett på treårig bachelorprogram i rettsvitenskap kan totalt gjenta inntil tre beståtte eksamener.
+2. Studenter med studierett på toårig masterprogram i rettsvitenskap kan gjenta en bestått eksamen, i emner som inngår i første studieår.
+3. For Examen philosophicum og spesialemner i tredje semester i masterprogrammene og masteroppgaven i rettsvitenskap gjelder reglene i første ledd.
 
 (3) I studieprogram hvor det inngår praksis, er det bare anledning til å gjennomføre hver praksisperiode 2 ganger. Avbrutt praksis teller som ett forsøk. For obligatorisk praksis kan fakultetsstyret eller styret for lærerutdanningene i særlige tilfelle etter søknad, gi dispensasjon til å gjennomføre en praksisperiode for 3. gang. Fakultetsstyret kan begrense adgang til å gjennomføre en valgfri praksisperiode til én gang. Slik begrensning skal framgå av emnebeskrivelsen.
 
@@ -401,15 +421,38 @@ Ordinær eksamen gjennomføres med den vurderingsform og i det semester som er a
 
 ### § 26. Ny, utsatt og ekstraordinær eksamen
 
-(1) *Ny og utsatt eksamen*Eksamenskandidater som ikke består ordinær eksamen, har krav på ny eksamen. Dokumentert trekk under eksamen, jf. [§ 23](forskrift/2005-06-22-833/§23), regnes som ikke bestått.Utsatt eksamen arrangeres for eksamenskandidater som har gyldig fravær ved ordinær eksamen. Som gyldig fravær regnes sykdom eller annen tvingende fraværsgrunn. Som gyldig fravær ved ordinær eksamen regnes også fravær som følge av gyldig fravær i praksis. Dette gjelder der praksis er et vilkår for å gå opp til eksamen i emnet og det ikke er mulig å fullføre påbegynt praksisperiode eller å gjennomføre ny praksisperiode før eksamen. Universitetet avgjør i hvert enkelt tilfelle hva som kan godkjennes som gyldig fravær. Annen fraværsgrunn enn sykdom godkjennes bare i særlige tilfelle. Fraværet skal være dokumentert med legeattest eller annen dokumentasjon som må være datert senest eksamensdagen. Dokumentasjonen skal være levert universitetet senest 7 dager etter at eksamen skulle vært avlagt / 7 dager etter frist for innlevering av skriftlig arbeid. Universitetet kan i særlige tilfelle dispensere fra disse fristene. Dersom en besvarelse er levert til sensurering, kan studenter i ettertid ikke påberope seg sykdom.Eksamenskandidater som bestod siste ordinære eksamen har adgang til ny eller utsatt eksamen dersom slik eksamen arrangeres. Studenter som ikke møtte ved siste ordinære eksamen, har ikke adgang til ny/utsatt eksamen.Eksamenskandidater har ikke krav på ny eller utsatt mappeeksamen. Det skal fremgå av emnebeskrivelse om, eller eventuelt hvordan det gjennomføres ny/utsatt eksamen ved mappeeksamen.Ny og utsatt eksamen arrangeres innen midten av påfølgende semester.Ny eller utsatt eksamen arrangeres ikke dersom emnet har ordinær eksamen i påfølgende semester.Studenter som pga. utvekslingsopphold i regi av Universitetet i Agder ikke har kunnet gå opp til ordinær eksamen, kan etter søknad få adgang til ny/utsatt eksamen dersom slik eksamen arrangeres og forutsatt at eventuelle vilkår for å gå opp til eksamen er oppfylt. Universitetet kan også i andre særlige tilfelle gi studenter som ikke møtte til siste ordinære eksamen, adgang til ny/utsatt eksamen.Eksamenskandidater som ikke består ny eller utsatt eksamen, har ikke krav på å gå opp på nytt før ved neste ordinære eksamen.Eksamenskandidater som er mistenkt for fusk gis ikke adgang til ordinær, ny eller utsatt eksamen i emnet før fuskesaken er behandlet. Eksamenskandidater som har fått eksamen eller obligatorisk aktivitet annullert pga. fusk eller forsøk på fusk, kan tidligst gå opp på nytt ved neste eksamen eller obligatoriske aktivitet etter eventuell periode for utestengelse.Studenter med gyldig fravær fra obligatorisk aktivitet har rett til ny gjennomføring før eksamen i emnet, dersom dette er praktisk mulig og ikke innebærer en uforholdsmessig byrde for fakultetet.Bestemmelsene i dette punkt bokstav e og j gjelder ikke for praksis.
+(1) *Ny og utsatt eksamen*
 
-(2) *Ny og utsatt praksis*Fakultetsstyret selv og styret for lærerutdanningene selv fastsetter i utfyllende regler tidspunkt for ny og utsatt praksis og bestemmelser for når studenter med gyldig fravær i praksis må ta hele praksisperioden om igjen og når de kan fullføre en påbegynt praksisperiode.De utfyllende reglene for praksis skal gjelde både i de tilfeller der bestått praksis er et vilkår for å gå opp til eksamen og der praksis utgjør hele eller deler av eksamen.
+1. Eksamenskandidater som ikke består ordinær eksamen, har krav på ny eksamen. Dokumentert trekk under eksamen, jf. [§ 23](forskrift/2005-06-22-833/§23), regnes som ikke bestått.
+2. Utsatt eksamen arrangeres for eksamenskandidater som har gyldig fravær ved ordinær eksamen. Som gyldig fravær regnes sykdom eller annen tvingende fraværsgrunn. Som gyldig fravær ved ordinær eksamen regnes også fravær som følge av gyldig fravær i praksis. Dette gjelder der praksis er et vilkår for å gå opp til eksamen i emnet og det ikke er mulig å fullføre påbegynt praksisperiode eller å gjennomføre ny praksisperiode før eksamen. Universitetet avgjør i hvert enkelt tilfelle hva som kan godkjennes som gyldig fravær. Annen fraværsgrunn enn sykdom godkjennes bare i særlige tilfelle. Fraværet skal være dokumentert med legeattest eller annen dokumentasjon som må være datert senest eksamensdagen. Dokumentasjonen skal være levert universitetet senest 7 dager etter at eksamen skulle vært avlagt / 7 dager etter frist for innlevering av skriftlig arbeid. Universitetet kan i særlige tilfelle dispensere fra disse fristene. Dersom en besvarelse er levert til sensurering, kan studenter i ettertid ikke påberope seg sykdom.
+3. Eksamenskandidater som bestod siste ordinære eksamen har adgang til ny eller utsatt eksamen dersom slik eksamen arrangeres. Studenter som ikke møtte ved siste ordinære eksamen, har ikke adgang til ny/utsatt eksamen.
+4. Eksamenskandidater har ikke krav på ny eller utsatt mappeeksamen. Det skal fremgå av emnebeskrivelse om, eller eventuelt hvordan det gjennomføres ny/utsatt eksamen ved mappeeksamen.
+5. Ny og utsatt eksamen arrangeres innen midten av påfølgende semester.
+6. Ny eller utsatt eksamen arrangeres ikke dersom emnet har ordinær eksamen i påfølgende semester.
+7. Studenter som pga. utvekslingsopphold i regi av Universitetet i Agder ikke har kunnet gå opp til ordinær eksamen, kan etter søknad få adgang til ny/utsatt eksamen dersom slik eksamen arrangeres og forutsatt at eventuelle vilkår for å gå opp til eksamen er oppfylt. Universitetet kan også i andre særlige tilfelle gi studenter som ikke møtte til siste ordinære eksamen, adgang til ny/utsatt eksamen.
+8. Eksamenskandidater som ikke består ny eller utsatt eksamen, har ikke krav på å gå opp på nytt før ved neste ordinære eksamen.
+9. Eksamenskandidater som er mistenkt for fusk gis ikke adgang til ordinær, ny eller utsatt eksamen i emnet før fuskesaken er behandlet. Eksamenskandidater som har fått eksamen eller obligatorisk aktivitet annullert pga. fusk eller forsøk på fusk, kan tidligst gå opp på nytt ved neste eksamen eller obligatoriske aktivitet etter eventuell periode for utestengelse.
+10. Studenter med gyldig fravær fra obligatorisk aktivitet har rett til ny gjennomføring før eksamen i emnet, dersom dette er praktisk mulig og ikke innebærer en uforholdsmessig byrde for fakultetet.
+11. Bestemmelsene i dette punkt bokstav e og j gjelder ikke for praksis.
 
-(3) *Ekstraordinær eksamen*Det arrangeres inntil to ekstraordinære eksamener når et emne opphører. Siste ekstraordinære eksamen arrangeres innen ett år etter siste ordinære eksamen. Eksamenskandidater som tidligere har vært oppmeldt til eksamen i emnet og oppfyller eventuelle vilkår for å gå opp til eksamen i henhold til sist vedtatte emnebeskrivelse, har adgang til ekstraordinær eksamen.Det arrangeres ikke ny eller utsatt eksamen etter ekstraordinær eksamen.Reglene om ekstraordinær eksamen gjelder vilkår for å gå opp til eksamen så langt det er praktisk mulig.
+(2) *Ny og utsatt praksis*
 
-(4) *Øvrige eksamener*Universitetet kan i andre særlige tilfelle vedta at det skal arrangeres ytterligere eksamener enn det som følger av [§ 25](forskrift/2005-06-22-833/§25) og [§ 26](forskrift/2005-06-22-833/§26). Avgjørelsen tas i samarbeid med berørte fakulteter. For adgang til slik eksamen gjelder tilsvarende bestemmelse som ved ordinær eksamen.
+1. Fakultetsstyret selv og styret for lærerutdanningene selv fastsetter i utfyllende regler tidspunkt for ny og utsatt praksis og bestemmelser for når studenter med gyldig fravær i praksis må ta hele praksisperioden om igjen og når de kan fullføre en påbegynt praksisperiode.
+2. De utfyllende reglene for praksis skal gjelde både i de tilfeller der bestått praksis er et vilkår for å gå opp til eksamen og der praksis utgjør hele eller deler av eksamen.
 
-(5) *Pensum. Vurderingsform*Eksamen etter denne paragrafen skal gjennomføres med samme pensum som ved siste ordinære eksamen. Så langt det er praktisk mulig, gjennomføres eksamen også med samme vurderingsform som ved siste ordinære eksamen. I særlige tilfeller kan fakultetsstyret vedta alternativ vurderingsform for ny, utsatt og ekstraordinær eksamen.
+(3) *Ekstraordinær eksamen*
+
+1. Det arrangeres inntil to ekstraordinære eksamener når et emne opphører. Siste ekstraordinære eksamen arrangeres innen ett år etter siste ordinære eksamen. Eksamenskandidater som tidligere har vært oppmeldt til eksamen i emnet og oppfyller eventuelle vilkår for å gå opp til eksamen i henhold til sist vedtatte emnebeskrivelse, har adgang til ekstraordinær eksamen.
+2. Det arrangeres ikke ny eller utsatt eksamen etter ekstraordinær eksamen.
+3. Reglene om ekstraordinær eksamen gjelder vilkår for å gå opp til eksamen så langt det er praktisk mulig.
+
+(4) *Øvrige eksamener*
+
+Universitetet kan i andre særlige tilfelle vedta at det skal arrangeres ytterligere eksamener enn det som følger av [§ 25](forskrift/2005-06-22-833/§25) og [§ 26](forskrift/2005-06-22-833/§26). Avgjørelsen tas i samarbeid med berørte fakulteter. For adgang til slik eksamen gjelder tilsvarende bestemmelse som ved ordinær eksamen.
+
+(5) *Pensum. Vurderingsform*
+
+Eksamen etter denne paragrafen skal gjennomføres med samme pensum som ved siste ordinære eksamen. Så langt det er praktisk mulig, gjennomføres eksamen også med samme vurderingsform som ved siste ordinære eksamen. I særlige tilfeller kan fakultetsstyret vedta alternativ vurderingsform for ny, utsatt og ekstraordinær eksamen.
 
 > Tilføyd ved [forskrift 14 sep 2005 nr. 1089](forskrift/2005-09-14-1089), endret ved [forskrifter 20 juni 2007 nr. 944](forskrift/2007-06-20-944) (fom studieåret 2007–2008), [13 sep 2007 nr. 1071](forskrift/2007-09-13-1071), [18 juni 2008 nr. 764](forskrift/2008-06-18-764), [24 juni 2009 nr. 948](forskrift/2009-06-24-948) (fom studieåret 2009–2010), [22 juni 2011 nr. 723](forskrift/2011-06-22-723) (fom studieåret 2011–2012), [18 juni 2014 nr. 939](forskrift/2014-06-18-939) (fom studieåret 2014–2015), [26 nov 2014 nr. 1708](forskrift/2014-11-26-1708) (i kraft 1 jan 2015), [10 mai 2017 nr. 601](forskrift/2017-05-10-601) (fom studieåret 2017–2018), [10 mars 2022 nr. 515](forskrift/2022-03-10-515) (i kraft 1 aug 2022 med virkning fra studieåret 2022–2023), [19 juni 2024 nr. 1305](forskrift/2024-06-19-1305) (i kraft 1 aug 2024), [11 sep 2024 nr. 2202](forskrift/2024-09-11-2202) (i kraft 1 okt 2024).
 
@@ -509,7 +552,17 @@ Universitetsstyret fastsetter funksjonsbeskrivelse for inspektører, emneansvarl
 
 (1) Konsekvenser av fusk eller forsøk på fusk eller medvirkning til dette reguleres av [lov om universiteter og høyskoler § 12-4.](lov/2024-03-08-9/§12-4)
 
-(2) Som fusk eller forsøk på fusk ved eksamen eller obligatoriske aktiviteter for å gå opp eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1) f), regnes bl.a.:å ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt egetå sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå oppgi fiktive kilderå legge frem et arbeid som er generert av samtaleroboter (tekstgenereringsfunksjoner basert på kunstig intelligens) som sitt eget verkå sitere eller på annen måte benytte egne tidligere beståtte obligatoriske aktiviteter eller eksamensarbeider uten tilstrekkelige kildehenvisningerå ha skaffet seg adgang til eksamen ved å ha fusket ved obligatoriske aktiviteter som er vilkår for å gå opp til eksamen, eller ved på uriktig grunnlag å ha fått godkjenning for deltakelse ved obligatorisk undervisningureglementert samarbeid mellom eksamenskandidater, grupper eller med andre personerå handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
+(2) Som fusk eller forsøk på fusk ved eksamen eller obligatoriske aktiviteter for å gå opp eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1) f), regnes bl.a.:
+
+- å ha ulovlige hjelpemidler tilgjengelig under eksamen
+- å presentere andres arbeid som sitt eget
+- å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+- å oppgi fiktive kilder
+- å legge frem et arbeid som er generert av samtaleroboter (tekstgenereringsfunksjoner basert på kunstig intelligens) som sitt eget verk
+- å sitere eller på annen måte benytte egne tidligere beståtte obligatoriske aktiviteter eller eksamensarbeider uten tilstrekkelige kildehenvisninger
+- å ha skaffet seg adgang til eksamen ved å ha fusket ved obligatoriske aktiviteter som er vilkår for å gå opp til eksamen, eller ved på uriktig grunnlag å ha fått godkjenning for deltakelse ved obligatorisk undervisning
+- ureglementert samarbeid mellom eksamenskandidater, grupper eller med andre personer
+- å handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
 
 (3) En student kan anses å ha fusket eller forsøkt å fuske fra det tidspunkt eksamen eller obligatorisk aktivitet er påbegynt. Eksamen eller obligatorisk aktivitet anses normalt å være påbegynt når oppgavetekst er gjort tilgjengelig eller problemformulering godkjent. Dersom det gjennomføres kontroll av tillatte hjelpemidler før oppgaveteksten er utlevert, anses eksamen påbegynt når eksamenskandidaten har levert inn sine hjelpemidler for kontroll. Ved mappeeksamen eller andre eksamensformer der en student får faglig veiledning på en foreløpig besvarelse, anses eksamen påbegynt når første utkast til besvarelse er levert for veiledning.
 
@@ -539,7 +592,16 @@ Universitetsstyret fastsetter funksjonsbeskrivelse for inspektører, emneansvarl
 
 (3) Søknad om tilrettelegging skal fremmes for og behandles av universitetet for hver ordinære eksamensperiode. For kandidater med permanent tilretteleggingsbehov kan universitetet gjøre unntak fra kravet om å fremme søknad hvert semester.
 
-(4) Følgende tilrettelegginger kan innvilges:Inntil 10 minutter pr. time, maksimalt en time, ved skriftlig eksamen under tilsyn. I særlige tilfelle kan det innvilges ytterligere tillegg i eksamenstiden.Ved hjemmeeksamen og andre større skriftlige oppgaver kan det innvilges utsatt innleveringsfrist på grunnlag av sykdom eller andre årsaker som universitetet godkjenner. Utsatt innleveringsfrist kan også innvilges etter at eksamen ble påbegynt, forutsatt at det dokumenteres at behovet har oppstått etter påbegynt eksamen. Det kan ikke innvilges tillegg i eksamenstiden etter at innleveringsfristen er gått ut.I samråd med det fakultet som har ansvar for emnet, kan eksamenskandidater med lese- og skrivevansker gis tillatelse til å bruke rettskrivingsordbøker.Eksamenskandidater med annet morsmål enn norsk, svensk eller dansk, gis utvidet eksamenstid de 2 første semestrene de er registrert som student ved universitetet eller har bekreftet utdanningsplan. Dette gjelder også eksamenskandidater med samisk som morsmål. Eksamenskandidater med norsk 3-årig videregående skole og eksamenskandidater med norsk statsborgerskap behandles som om de har norsk morsmål.Fremmedspråklige eksamenskandidater skal normalt gis adgang til å bruke 2-språklige ordbøker.Alternative vurderingsformer kan benyttes for eksamenskandidater som pga. tilretteleggingsbehov ikke kan gjennomføre eksamen med ordinær vurderingsform. Avgjørelsen treffes i samråd med det fakultet som har faglig ansvar for emnet.I de tilfeller hvor muntlig eksamen er besluttet som alternativ til skriftlig eksamen, skal den muntlige eksamenen dokumenteres med tanke på at studenten skal kunne klage på sensurvedtaket.I særlige tilfelle kan andre ordninger enn de som er nevnt i denne paragraf, innvilges så langt det er praktisk gjennomførlig og faglig forsvarlig.
+(4) Følgende tilrettelegginger kan innvilges:
+
+1. Inntil 10 minutter pr. time, maksimalt en time, ved skriftlig eksamen under tilsyn. I særlige tilfelle kan det innvilges ytterligere tillegg i eksamenstiden.
+2. Ved hjemmeeksamen og andre større skriftlige oppgaver kan det innvilges utsatt innleveringsfrist på grunnlag av sykdom eller andre årsaker som universitetet godkjenner. Utsatt innleveringsfrist kan også innvilges etter at eksamen ble påbegynt, forutsatt at det dokumenteres at behovet har oppstått etter påbegynt eksamen. Det kan ikke innvilges tillegg i eksamenstiden etter at innleveringsfristen er gått ut.
+3. I samråd med det fakultet som har ansvar for emnet, kan eksamenskandidater med lese- og skrivevansker gis tillatelse til å bruke rettskrivingsordbøker.
+4. Eksamenskandidater med annet morsmål enn norsk, svensk eller dansk, gis utvidet eksamenstid de 2 første semestrene de er registrert som student ved universitetet eller har bekreftet utdanningsplan. Dette gjelder også eksamenskandidater med samisk som morsmål. Eksamenskandidater med norsk 3-årig videregående skole og eksamenskandidater med norsk statsborgerskap behandles som om de har norsk morsmål.
+5. Fremmedspråklige eksamenskandidater skal normalt gis adgang til å bruke 2-språklige ordbøker.
+6. Alternative vurderingsformer kan benyttes for eksamenskandidater som pga. tilretteleggingsbehov ikke kan gjennomføre eksamen med ordinær vurderingsform. Avgjørelsen treffes i samråd med det fakultet som har faglig ansvar for emnet.
+7. I de tilfeller hvor muntlig eksamen er besluttet som alternativ til skriftlig eksamen, skal den muntlige eksamenen dokumenteres med tanke på at studenten skal kunne klage på sensurvedtaket.
+8. I særlige tilfelle kan andre ordninger enn de som er nevnt i denne paragraf, innvilges så langt det er praktisk gjennomførlig og faglig forsvarlig.
 
 (5) Tilrettelegging ved undervisning behandles etter [§ 12c](forskrift/2005-06-22-833/§12c).
 
@@ -573,23 +635,42 @@ Universitetsstyret fastsetter funksjonsbeskrivelse for inspektører, emneansvarl
 
 ### § 37. Sensur og begrunnelse for sensur
 
-(1) Alle emner på bachelor- og masternivå skal ha ekstern sensur i form av vurdering av studentarbeider minst hvert 3. år. I emner med multiple choice-eksamener eller sammenlignbare eksamensformer kan kravet om ekstern sensur dekkes ved at det medvirker en ekstern sensor ved utarbeidelse av eksamensoppgaven.Det skal normalt benyttes ekstern sensor i et omfang på minst 15 studiepoeng pr. studieår. Ekstern sensor skal medvirke ved bedømmelse av alle studentarbeider ved alle deleksamener som inngår i emnet. Fakultetsstyret fastsetter plan for bruk av ekstern sensor.
+(1) Alle emner på bachelor- og masternivå skal ha ekstern sensur i form av vurdering av studentarbeider minst hvert 3. år. I emner med multiple choice-eksamener eller sammenlignbare eksamensformer kan kravet om ekstern sensur dekkes ved at det medvirker en ekstern sensor ved utarbeidelse av eksamensoppgaven.
+
+Det skal normalt benyttes ekstern sensor i et omfang på minst 15 studiepoeng pr. studieår. Ekstern sensor skal medvirke ved bedømmelse av alle studentarbeider ved alle deleksamener som inngår i emnet. Fakultetsstyret fastsetter plan for bruk av ekstern sensor.
 
 (2) Det skal benyttes ekstern sensor ved sensur av masteroppgaver og ved klagesensur, jf. [lov om universiteter og høyskoler § 11-11](lov/2024-03-08-9/§11-11). Det skal også benyttes ekstern sensor ved sensur av bacheloroppgave. Dersom veileder deltar som sensor, skal det benyttes en tredje intern eller ekstern sensor.
 
 (3) Ved sensur av opplæringsdelen av ph.d.-program skal det normalt benyttes ekstern sensor ved hver gjennomføring, men minst hvert 3. år.
 
-(4) Det skal benyttes enten intern og ekstern sensor eller to interne sensorer til bedømmelse av eksamenskandidatenes prestasjoner i følgende omfang:eksamen som alene utgjør 15 studiepoeng eller merved muntlig eksamen eller annen eksamen der vurderingen ikke lar seg etterprøve.
+(4) Det skal benyttes enten intern og ekstern sensor eller to interne sensorer til bedømmelse av eksamenskandidatenes prestasjoner i følgende omfang:
 
-(5) Bestemmelsene i [punkt](forskrift/2005-06-22-833/kap1) 1) gjelder ikke ved vurdering av praksis. Slik vurdering skal for rammeplanstyrt praksis skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet i samsvar med forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.Ved eventuell vurdering av studentens prestasjon under ikke-rammeplanstyrt praksis, skal slik vurdering skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet.Ved uenighet om karakterfastsetting av praksis, fastsetter representanten fra universitetet karakter med mindre annet er fastsatt i forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.Det skal foreligge kriterier for vurdering av praksis.
+- eksamen som alene utgjør 15 studiepoeng eller mer
+- ved muntlig eksamen eller annen eksamen der vurderingen ikke lar seg etterprøve.
+
+(5) Bestemmelsene i [punkt](forskrift/2005-06-22-833/kap1) 1) gjelder ikke ved vurdering av praksis. Slik vurdering skal for rammeplanstyrt praksis skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet i samsvar med forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.
+
+Ved eventuell vurdering av studentens prestasjon under ikke-rammeplanstyrt praksis, skal slik vurdering skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet.
+
+Ved uenighet om karakterfastsetting av praksis, fastsetter representanten fra universitetet karakter med mindre annet er fastsatt i forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.
+
+Det skal foreligge kriterier for vurdering av praksis.
 
 (6) Det skal i alle emner benyttes enten intern og ekstern sensor eller to interne sensorer til utarbeidelse av eksamensoppgaver og sensorveiledninger. Det skal foreligge skriftlige sensorveiledninger til alle eksamener. Sensorveiledningene skal være tilgjengelig for sensor før vurderingen starter, og tilgjengelig for studentene når sensur foreligger.
 
 (7) Fakultetsstyret oppnevner interne og eventuelle eksterne sensorer. Oppnevning skal gjelde både ordinær og påfølgende ny/utsatt eksamen. En intern eller ekstern sensor skal normalt ikke sensurere sammenhengende samme emne ved universitetet i mer enn 6 år.
 
-(8) Sensor må ha følgende kvalifikasjoner:Bachelornivå (minst en av):være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivåha erfaring som sensor i vedkommende fag ved universitet/høgskolegjennom yrkespraksis være særlig kvalifisert innen vedkommende fag.Masterprogram og videreutdanning som bygger på bachelorgrad eller tilsvarende:
-være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.Doktorgradsprogram:
-faglig kompetanse på minst 1. amanuensisnivå.
+(8) Sensor må ha følgende kvalifikasjoner:
+
+1. Bachelornivå (minst en av):
+
+   - være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+   - ha erfaring som sensor i vedkommende fag ved universitet/høgskole
+   - gjennom yrkespraksis være særlig kvalifisert innen vedkommende fag.
+2. Masterprogram og videreutdanning som bygger på bachelorgrad eller tilsvarende:
+   være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.
+3. Doktorgradsprogram:
+   faglig kompetanse på minst 1. amanuensisnivå.
 
 (9) Ekstern sensor kan ikke være student ved Universitetet i Agder eller være ansatt i hovedstilling eller bistilling ved institusjonen eller ha hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet.
 
@@ -671,7 +752,12 @@ Studenter kan klage individuelt på karakter ved gruppeeksamen. Eventuell endrin
 
 (1) Forskriften trer i kraft f.o.m. studieåret 2005–2006.
 
-(2) Samtidig oppheves[Forskrift 8. mai 1996 nr. 814](forskrift/1996-05-08-814) om eksamen ved Høgskolen i Agder[Forskrift 26. mars 2003 nr. 589](forskrift/2003-03-26-589) om eksamen ved Høgskolen i Agder[Forskrift 19. juni 2002 nr. 1700](forskrift/2002-06-19-1700) for graden bachelor ved Høgskolen i Agder[Forskrift 13. desember 1995 nr. 1179](forskrift/1995-12-13-1179) om adgang til å gå opp til eksamen som privatist m.v. ved Høgskolen i Agder.
+(2) Samtidig oppheves
+
+- [Forskrift 8. mai 1996 nr. 814](forskrift/1996-05-08-814) om eksamen ved Høgskolen i Agder
+- [Forskrift 26. mars 2003 nr. 589](forskrift/2003-03-26-589) om eksamen ved Høgskolen i Agder
+- [Forskrift 19. juni 2002 nr. 1700](forskrift/2002-06-19-1700) for graden bachelor ved Høgskolen i Agder
+- [Forskrift 13. desember 1995 nr. 1179](forskrift/1995-12-13-1179) om adgang til å gå opp til eksamen som privatist m.v. ved Høgskolen i Agder.
 
 > Endret ved forskrift [19 juni 2024 nr. 1305](forskrift/2024-06-19-1305) (i kraft 1 aug 2024).
 

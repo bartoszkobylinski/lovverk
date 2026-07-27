@@ -15,7 +15,7 @@ xml_hash: "1cf024725c96ffba1e9bebd85c921acb3c5c85ff8103fe52fdcdc7bb4ab5e739"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,12 @@ For avgift som oppstår ved førstegangsregistrering her i landet er likevel den
 
 ## § 7.
 
-Kongen gir nærmere bestemmelser om plikt forvedkommende registreringsmyndighet til å gi oppgaver over registrerte motorkjøretøyer og båter i distriktetimportører og forhandlere og forsikringsselskaper til å gi oppgaver over eierforhold og type av båt og motor – spesifikasjoner av båt og motor – herunder pris på båt og motor, eventuelt forsikringssum – vedrørende samtlige båter og båtmotorer som er forhandlet eller forsikret,til vedkommende avgiftsmyndighet for etablering og vedlikehold av register og for utskrivning av avgiften.
+Kongen gir nærmere bestemmelser om plikt for
+
+1. vedkommende registreringsmyndighet til å gi oppgaver over registrerte motorkjøretøyer og båter i distriktet
+2. importører og forhandlere og forsikringsselskaper til å gi oppgaver over eierforhold og type av båt og motor – spesifikasjoner av båt og motor – herunder pris på båt og motor, eventuelt forsikringssum – vedrørende samtlige båter og båtmotorer som er forhandlet eller forsikret,
+
+til vedkommende avgiftsmyndighet for etablering og vedlikehold av register og for utskrivning av avgiften.
 
 > Endret ved lover 21 apr 1978 nr. 10, tidligere § 6, [24 apr 1981 nr. 9](lov/1981-04-24-9), [26 mars 1999 nr. 14](lov/1999-03-26-14) (ikr. 1 jan 2000), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 

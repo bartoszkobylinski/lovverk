@@ -32,11 +32,19 @@ Første ledd gjelder tilsvarende for Jan Mayen og Bouvetøya.
 
 [Lov om elektronisk kommunikasjon](lov/2024-12-13-76) gjelder for enhver som oppholder seg eller er ansvarlig for virksomhet i de norske bilandene i Antarktis.
 
-Loven gjelder videre i Antarktis definert til området syd for 60 grader sydlig bredde for:norske statsborgerenorske juridiske personerutlendinger bosatt i Norgeutlendinger som er medlem av eller ansvarlig for organisering av en ekspedisjon til Antarktis som er organisert i Norge eller fra Norge direkte til Antarktis.
+Loven gjelder videre i Antarktis definert til området syd for 60 grader sydlig bredde for:
+
+1. norske statsborgere
+2. norske juridiske personer
+3. utlendinger bosatt i Norge
+4. utlendinger som er medlem av eller ansvarlig for organisering av en ekspedisjon til Antarktis som er organisert i Norge eller fra Norge direkte til Antarktis.
 
 Loven gjelder likevel ikke for personer som oppholder seg i Antarktis som del av en ekspedisjon organisert av en annen stat som har tilsvarende bestemmelser.
 
-Rettsforfølgning for brudd på loven eller bestemmelser gitt i medhold av loven kan bare finne sted etter samtykke fra Utenriksdepartementet når:handlingen er begått av en person som verken er norsk statsborger eller bosatt i Norgehandlingen er begått i Antarktis utenfor Dronning Maud Land eller Peter I øy.
+Rettsforfølgning for brudd på loven eller bestemmelser gitt i medhold av loven kan bare finne sted etter samtykke fra Utenriksdepartementet når:
+
+1. handlingen er begått av en person som verken er norsk statsborger eller bosatt i Norge
+2. handlingen er begått i Antarktis utenfor Dronning Maud Land eller Peter I øy.
 
 ## § 3. Ikrafttredelse
 

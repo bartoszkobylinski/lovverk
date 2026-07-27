@@ -62,7 +62,19 @@ Ved gruppeeksamen skal alle deltakere i gruppen bidra til ett felles produkt. Fa
 
 [§ 9-1 første ledd](forskrift/2024-06-19-1221/§9-1/ledd/1) skal lyde:
 
-(1) Fusk, forsøk på fusk eller medvirkning til fusk foreligger når en student handler i strid med [§ 9-1 første ledd](forskrift/2024-06-19-1221/§9-1/ledd/1) i denne forskrift. Dette forutsetter at handlingen kan være egnet til å gi et uberettiget fortrinn eller resultat for studenten selv eller andre.I følgende tilfeller kan studenten mistenkes for fusk:studenten handler i strid med reglene for den enkelte eksamen eller obligatoriske aktivitetstudenten har ulovlige hjelpemidler tilgjengelig under eksamenstudenten bruker tillatte hjelpemidler på en ureglementert måtestudenten presenterer andres arbeid som sitt egetstudenten presenterer innhold som er frembrakt ved hjelp av kunstig intelligens eller annen teknologi som sitt eget arbeidstudenten gjengir innhold fra kilder uten tilstrekkelige kildehenvisningerstudenten oppgir fiktive kilder, informanter eller datastudenten gjenbruker innhold fra egne beståtte eksamensbesvarelser eller godkjente obligatoriske aktiviteter uten å opplyse om dettestudentene utformer besvarelser til individuell eksamen i fellesskap, eller på annen måte deltar i regelstridig samarbeid.
+(1) Fusk, forsøk på fusk eller medvirkning til fusk foreligger når en student handler i strid med [§ 9-1 første ledd](forskrift/2024-06-19-1221/§9-1/ledd/1) i denne forskrift. Dette forutsetter at handlingen kan være egnet til å gi et uberettiget fortrinn eller resultat for studenten selv eller andre.
+
+- I følgende tilfeller kan studenten mistenkes for fusk:
+
+  - studenten handler i strid med reglene for den enkelte eksamen eller obligatoriske aktivitet
+  - studenten har ulovlige hjelpemidler tilgjengelig under eksamen
+  - studenten bruker tillatte hjelpemidler på en ureglementert måte
+  - studenten presenterer andres arbeid som sitt eget
+  - studenten presenterer innhold som er frembrakt ved hjelp av kunstig intelligens eller annen teknologi som sitt eget arbeid
+  - studenten gjengir innhold fra kilder uten tilstrekkelige kildehenvisninger
+  - studenten oppgir fiktive kilder, informanter eller data
+  - studenten gjenbruker innhold fra egne beståtte eksamensbesvarelser eller godkjente obligatoriske aktiviteter uten å opplyse om dette
+  - studentene utformer besvarelser til individuell eksamen i fellesskap, eller på annen måte deltar i regelstridig samarbeid.
 
 [§ 9-2](forskrift/2024-06-19-1221/§9-2) skal lyde:
 

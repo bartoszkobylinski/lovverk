@@ -15,7 +15,7 @@ xml_hash: "948511147305118734f5a19ed184ddbe16e8c48899970e0d1cbe88de1220154e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ Har arbeidstakeren under pendleropphold fri kost eller får kost dekket etter re
 
 ## § 2. Godtgjørelse til kost og losji ved yrkes-/tjenestereiser eller arbeidsopphold med overnatting – innenlands og utenlands
 
-Når godtgjørelse for kost på yrkes-/tjenestereiser med overnatting eller arbeidsopphold utenfor hjemmet utbetales med inntil:kr 609 per døgn for skattepliktige som har bodd på hotell mv., og skattepliktig i tillegg selv betaler frokosten ellerkr 170 per døgn for skattepliktige som har bodd på pensjonat eller hybel/brakke uten kokemuligheter,kan det med de reservasjoner som følger nedenfor, legges til grunn at godtgjørelsen ikke gir noe trekk- og skattepliktig overskudd. Godtgjørelse etter disse satsene anses bare medgått fullt ut når skattepliktig kan legitimere å ha bodd på hotell, pensjonat eller hybel/brakke uten kokemuligheter.
+Når godtgjørelse for kost på yrkes-/tjenestereiser med overnatting eller arbeidsopphold utenfor hjemmet utbetales med inntil:
+
+- kr 609 per døgn for skattepliktige som har bodd på hotell mv., og skattepliktig i tillegg selv betaler frokosten eller
+- kr 170 per døgn for skattepliktige som har bodd på pensjonat eller hybel/brakke uten kokemuligheter,
+
+kan det med de reservasjoner som følger nedenfor, legges til grunn at godtgjørelsen ikke gir noe trekk- og skattepliktig overskudd. Godtgjørelse etter disse satsene anses bare medgått fullt ut når skattepliktig kan legitimere å ha bodd på hotell, pensjonat eller hybel/brakke uten kokemuligheter.
 
 Godtgjørelse for kost på yrkes-/tjenestereise med overnatting kan utbetales med kr 94 per døgn uten at dette gir trekk- og skattepliktig overskudd, når skattepliktige har bodd på hybel/brakke med kokemuligheter eller har overnattet privat.
 
@@ -46,7 +51,12 @@ Skattepliktige må på forespørsel kunne fremlegge kvitteringer/bilag for kostn
 
 ## § 3. Kost på yrkes-/tjenestereiser uten overnatting
 
-Godtgjørelse til dekning av merkostnader til kost på yrkes-/tjenestereiser på minst 15 km fra reisens utgangspunkt uten overnatting utbetalt med inntilkr 200 for reiser fra og med 6 timer og til og med 12 timerkr 400 for reiser over 12 timeranses ikke å gi trekk- og skattepliktig overskudd. Overstiger godtgjørelsen satsene, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon framlegges.
+Godtgjørelse til dekning av merkostnader til kost på yrkes-/tjenestereiser på minst 15 km fra reisens utgangspunkt uten overnatting utbetalt med inntil
+
+1. kr 200 for reiser fra og med 6 timer og til og med 12 timer
+2. kr 400 for reiser over 12 timer
+
+anses ikke å gi trekk- og skattepliktig overskudd. Overstiger godtgjørelsen satsene, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon framlegges.
 
 Får skattepliktig i tillegg dekket ett eller flere måltider, må den trekk- og skattefrie godtgjørelsen reduseres med 20 prosent for frokost, 30 prosent for lunsj og 50 prosent for middag (beløpene skal rundes av til nærmeste hele krone).
 

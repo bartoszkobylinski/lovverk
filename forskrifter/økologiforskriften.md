@@ -27,7 +27,15 @@ eu_basis: []
 
 Forskriften gjelder landbruks- og akvakulturprodukter dersom det i merking av eller reklame for produktene brukes opplysninger som viser til økologisk produksjon. Forskriften gjelder enhver fase av produksjon, bearbeiding, distribusjon, omsetning, og import fra land utenfor EØS-området av slike produkter.
 
-Forskriften gjelderlevende og ubearbeidede landbruks- og akvakulturprodukterbearbeidede produkter til næringsmidler eller fôrvegetativt formeringsmaterialefrø til dyrkinggjær til næringsmidler eller fôrsalt til næringsmidler eller fôrvisse produkter med nær tilknytning til landbruksprodukter, blant annet ubehandlet bomull og ull, rå hud, ubehandlet skinn og bivoks.
+Forskriften gjelder
+
+1. levende og ubearbeidede landbruks- og akvakulturprodukter
+2. bearbeidede produkter til næringsmidler eller fôr
+3. vegetativt formeringsmateriale
+4. frø til dyrking
+5. gjær til næringsmidler eller fôr
+6. salt til næringsmidler eller fôr
+7. visse produkter med nær tilknytning til landbruksprodukter, blant annet ubehandlet bomull og ull, rå hud, ubehandlet skinn og bivoks.
 
 Produkter som stammer fra jakt og fiske av viltlevende arter er ikke omfattet av forskriften. Forskriften gjelder heller ikke storkjøkkenvirksomhet.
 
@@ -41,7 +49,17 @@ Ved konflikt mellom denne forskriften og forordningene angitt i [§ 2](forskrift
 
 ## § 3. Forordninger om økologisk produksjon, merking og kontroll
 
-[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bd, be, bf, bi, bj, bk, bm, bq og br med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig(forordning [(EU) 2020/2146](eu/32020r2146)) om unntaksregler med begrunnelse i uforutsette særlige hendelser,(forordning [(EU) 2020/464](eu/32020r0464), som endret ved forordning [(EU) 2020/2042](eu/32020r2042)) om produksjonsregler for husdyr, akvakulturproduksjon, foredling av mat og fôr og krav til rapportering,(forordning [(EU) 2021/771](eu/32021r0771)) om offentlig dokumentkontroll i økologisk virksomheter og grupper av virksomheter,(forordning [(EU) 2021/1189](eu/32021r1189)) om produksjon og markedsføring av økologisk heterogent planteformeringsmateriale,(forordning [(EU) 2021/279](eu/32021r0279)) om kontroll av økologiske virksomheter, oppfølgning av avvik og funn av ikke-tillatte stoffer i økologiske produkter,forordning [(EU) 2021/1165](eu/32021r1165), som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229), forordning [(EU) 2025/973](eu/32025r0973)) og forordning [(EU) 2025/2501](eu/32025r2501) om lister over tillatte produkter og stoffer i økologisk produksjon,(forordning [(EU) 2021/2119](eu/32021r2119), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om krav til virksomheter om oppbevaring av dokumentasjon og krav til at økologisertifikat skal være elektronisk tilgjengelig i Traces.(forordning [(EU) 2023/1195](eu/32023r1195)), om utforming av et rapporteringsskjema for å dokumentere resultatene av undersøkelse av overtredelsessaker.(forordning [(EU) 2025/1470](eu/32025r1470)) om offentlig informasjon i økologisertifikater og krav til informasjonsutveksling.
+[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bd, be, bf, bi, bj, bk, bm, bq og br med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig
+
+1. (forordning [(EU) 2020/2146](eu/32020r2146)) om unntaksregler med begrunnelse i uforutsette særlige hendelser,
+2. (forordning [(EU) 2020/464](eu/32020r0464), som endret ved forordning [(EU) 2020/2042](eu/32020r2042)) om produksjonsregler for husdyr, akvakulturproduksjon, foredling av mat og fôr og krav til rapportering,
+3. (forordning [(EU) 2021/771](eu/32021r0771)) om offentlig dokumentkontroll i økologisk virksomheter og grupper av virksomheter,
+4. (forordning [(EU) 2021/1189](eu/32021r1189)) om produksjon og markedsføring av økologisk heterogent planteformeringsmateriale,
+5. (forordning [(EU) 2021/279](eu/32021r0279)) om kontroll av økologiske virksomheter, oppfølgning av avvik og funn av ikke-tillatte stoffer i økologiske produkter,
+6. forordning [(EU) 2021/1165](eu/32021r1165), som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229), forordning [(EU) 2025/973](eu/32025r0973)) og forordning [(EU) 2025/2501](eu/32025r2501) om lister over tillatte produkter og stoffer i økologisk produksjon,
+7. (forordning [(EU) 2021/2119](eu/32021r2119), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om krav til virksomheter om oppbevaring av dokumentasjon og krav til at økologisertifikat skal være elektronisk tilgjengelig i Traces.
+8. (forordning [(EU) 2023/1195](eu/32023r1195)), om utforming av et rapporteringsskjema for å dokumentere resultatene av undersøkelse av overtredelsessaker.
+9. (forordning [(EU) 2025/1470](eu/32025r1470)) om offentlig informasjon i økologisertifikater og krav til informasjonsutveksling.
 
 > Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310). [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [23 mars 2026 nr. 457](forskrift/2026-03-23-457), [4 mai 2026 nr. 714](forskrift/2026-05-04-714), [13 juli 2026 nr. 1576](forskrift/2026-07-13-1576).
 
@@ -53,7 +71,15 @@ Ved konflikt mellom denne forskriften og forordningene angitt i [§ 2](forskrift
 
 ## § 4. Forordninger om import av økologiske produkter fra tredjeland
 
-[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bb, bg, bh, bl, bn, bo og bp med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig:(forordning [(EU) 2021/2306](eu/32021r2306), som er endret ved forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975)) om kontroll og utstedelse av sertifikat for økologiske varepartier i tredjeland,(forordning [(EU) 2021/1342](eu/32021r1342), som er endret ved forordning [(EU) 2024/230](eu/32024r0230)) rapportering fra godkjente tredjeland og kontrollmyndigheter i tredjeland,(forordning [(EU) 2021/1378](eu/32021r1378), som er endret ved forordning [(EU) 2021/2119](eu/32021r2119), forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794), forordning [(EU) 2024/3121](eu/32024r3121), forordning [(EU) 2025/882](eu/32025r0882) og forordning [(EU) 2025/2138](eu/32025r2138)) om utstedelse av sertifikater og om lister over godkjente kontrollmyndigheter som kan utstede sertifikater i tredjeland,(forordning [(EU) 2021/1698](eu/32021r1698), som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095)) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,(forordning [(EU) 2021/2307](eu/32021r2307), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om importkontroll med økologiske varepartier,(forordning [(EU) 2021/2325](eu/32021r2325), som er endret ved forordning [(EU) 2022/2047](eu/32022r2047), forordning [(EU) 2022/2049](eu/32022r2049), forordning [(EU) 2022/2468](eu/32022r2468), forordning [(EU) 2023/186](eu/32023r0186), forordning [(EU) 2023/1202](eu/32023r1202), forordning [(EU) 2023/2785](eu/32023r2785) og forordning [(EU) 2025/883](eu/32025r0883)) om lister over godkjente tredjeland og kontrollmyndigheter,(forordning [(EU) 2022/1450](eu/32022r1450)), om bruk av ikke-økologiske protein fôrmidler til produksjon av økologiske husdyr i forbindelse med Russlands invasjon av Ukraina.
+[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bb, bg, bh, bl, bn, bo og bp med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig:
+
+1. (forordning [(EU) 2021/2306](eu/32021r2306), som er endret ved forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975)) om kontroll og utstedelse av sertifikat for økologiske varepartier i tredjeland,
+2. (forordning [(EU) 2021/1342](eu/32021r1342), som er endret ved forordning [(EU) 2024/230](eu/32024r0230)) rapportering fra godkjente tredjeland og kontrollmyndigheter i tredjeland,
+3. (forordning [(EU) 2021/1378](eu/32021r1378), som er endret ved forordning [(EU) 2021/2119](eu/32021r2119), forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794), forordning [(EU) 2024/3121](eu/32024r3121), forordning [(EU) 2025/882](eu/32025r0882) og forordning [(EU) 2025/2138](eu/32025r2138)) om utstedelse av sertifikater og om lister over godkjente kontrollmyndigheter som kan utstede sertifikater i tredjeland,
+4. (forordning [(EU) 2021/1698](eu/32021r1698), som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095)) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,
+5. (forordning [(EU) 2021/2307](eu/32021r2307), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om importkontroll med økologiske varepartier,
+6. (forordning [(EU) 2021/2325](eu/32021r2325), som er endret ved forordning [(EU) 2022/2047](eu/32022r2047), forordning [(EU) 2022/2049](eu/32022r2049), forordning [(EU) 2022/2468](eu/32022r2468), forordning [(EU) 2023/186](eu/32023r0186), forordning [(EU) 2023/1202](eu/32023r1202), forordning [(EU) 2023/2785](eu/32023r2785) og forordning [(EU) 2025/883](eu/32025r0883)) om lister over godkjente tredjeland og kontrollmyndigheter,
+7. (forordning [(EU) 2022/1450](eu/32022r1450)), om bruk av ikke-økologiske protein fôrmidler til produksjon av økologiske husdyr i forbindelse med Russlands invasjon av Ukraina.
 
 > Endret ved forskrifter [11 juli 2022 nr. 1336](forskrift/2022-07-11-1336), [26 sep 2022 nr. 1654](forskrift/2022-09-26-1654), [12 des 2022 nr. 2157](forskrift/2022-12-12-2157), [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [30 okt 2023 nr. 1742](forskrift/2023-10-30-1742), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [18 mars 2024 nr. 474](forskrift/2024-03-18-474), [8 juli 2024 nr. 1647](forskrift/2024-07-08-1647), [9 des 2024 nr. 2996](forskrift/2024-12-09-2996), [12 feb 2025 nr. 212](forskrift/2025-02-12-212), [17 mars 2025 nr. 473](forskrift/2025-03-17-473), [22 sep 2025 nr. 1943](forskrift/2025-09-22-1943), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [4 mai 2026 nr. 714](forskrift/2026-05-04-714).
 
@@ -71,17 +97,30 @@ Virksomheter som selger ferdigpakkede produkter direkte til endelige bruker elle
 
 Virksomheter som selger uemballerte produkter annet enn fôrvarer direkte til bruker eller forbruker, skal likevel melde aktiviteten til Mattilsynet, men er unntatt fra kravet om å inneha et økologisertifikat hvis vilkårene for mindre omsetning er oppfylt, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848 artikkel 35](eu/32018r0848/a35) (8).
 
-Unntakene etter første og andre ledd gjelder likevel ikke for virksomheter somproduserer eller bearbeider produkterlagrer produkter på et annet sted enn direkte på salgsstedetimporterer produkter fra land utenfor EØS-områdetsetter bort aktiviteter som nevnt i bokstavene a til c til tredjemenn.
+Unntakene etter første og andre ledd gjelder likevel ikke for virksomheter som
+
+1. produserer eller bearbeider produkter
+2. lagrer produkter på et annet sted enn direkte på salgsstedet
+3. importerer produkter fra land utenfor EØS-området
+4. setter bort aktiviteter som nevnt i bokstavene a til c til tredjemenn.
 
 ## § 7. Register for økologisk produksjon
 
 Mattilsynet skal føre et register over virksomheter og virksomhetsgrupper med økologisertifikat, som skal være offentlig tilgjengelig, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848 artikkel 34](eu/32018r0848/a34) (6).
 
-Registeret skal minst inneholde følgende opplysninger om den enkelte virksomhet eller virksomhetsgruppe:navn og adresse til virksomheten eller virksomhetsgruppendatoen for utstedelse av økologisertifikatet og gyldighetsperiodenbeskrivelse av aktivitetene som er omfattet av økologisertifikatetfor virksomhetsgrupper: opplysninger om alle virksomhetene som inngår.
+Registeret skal minst inneholde følgende opplysninger om den enkelte virksomhet eller virksomhetsgruppe:
+
+1. navn og adresse til virksomheten eller virksomhetsgruppen
+2. datoen for utstedelse av økologisertifikatet og gyldighetsperioden
+3. beskrivelse av aktivitetene som er omfattet av økologisertifikatet
+4. for virksomhetsgrupper: opplysninger om alle virksomhetene som inngår.
 
 ## § 8. Melding av endringer
 
-Driftsansvarlig ved virksomheter og virksomhetsgrupper med økologisertifikat skal melde fra til Mattilsynet vedendringer i driftsbeskrivelsen og omfanget av de økologiske aktivitetene, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) [artikkel 39](eu/32018r0848/a39) 1 d) i)opphør av godkjenningspliktig aktivitet etter [§ 5](forskrift/2022-06-11-1171/§5), jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) [artikkel 39](eu/32018r0848/a39) 1 d) iii).
+Driftsansvarlig ved virksomheter og virksomhetsgrupper med økologisertifikat skal melde fra til Mattilsynet ved
+
+1. endringer i driftsbeskrivelsen og omfanget av de økologiske aktivitetene, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) [artikkel 39](eu/32018r0848/a39) 1 d) i)
+2. opphør av godkjenningspliktig aktivitet etter [§ 5](forskrift/2022-06-11-1171/§5), jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) [artikkel 39](eu/32018r0848/a39) 1 d) iii).
 
 ## § 9. Register over planteformeringsmateriale og dyr
 
@@ -93,7 +132,10 @@ Driftsansvarlig ved virksomheter som omsetter økologiske dyr, fiskeyngel og pla
 
 ## § 10. Bruk av ikke-økologisk planteformeringsmateriale og dyr
 
-Driftsansvarlig ved virksomhetene kan søke Mattilsynet om bruk av følgende ikke-økologisk materialeTillatelse til å bruke ikke-økologisk planteformeringsmaterialeTillatelse til å sette inn ikke-økologiske dyr i en produksjonsenhet.
+Driftsansvarlig ved virksomhetene kan søke Mattilsynet om bruk av følgende ikke-økologisk materiale
+
+1. Tillatelse til å bruke ikke-økologisk planteformeringsmateriale
+2. Tillatelse til å sette inn ikke-økologiske dyr i en produksjonsenhet.
 
 Tillatelser til bruk av ikke-økologisk planteformeringsmateriale kan bare gis dersom kriteriene i forskriften [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848), som endret ved forordning [(EU) 2020/1794](eu/32020r1794), vedlegg II del I punkt 1.8.5.1 til 1.8.5.5 er oppfylt.
 
@@ -103,7 +145,13 @@ Det er ikke krav om særskilt tillatelse til å sette inn ikke-økologiske bevar
 
 ## § 11. Veksthusproduksjon
 
-Driftsansvarlig ved veksthusproduksjon etter denne forskriften skal sikre atalt organisk materiale fra produksjonen resirkuleresproduksjonen hovedsakelig baseres på naturlig lys, og at bruk av kunstig lys dokumenteres og kun benyttes alene i deler av dyrkingsperiodentilsatt CO2 i produksjonen kun er et biprodukt fra annen produksjon eller CO2 fra ikke-fossile kildermaksimum dybde på jorda ikke overstiger 10 cm dersom jorda behandles termiskbehovet for tilført gjødsel er dokumentert jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del I punkt 1.9.3.
+Driftsansvarlig ved veksthusproduksjon etter denne forskriften skal sikre at
+
+1. alt organisk materiale fra produksjonen resirkuleres
+2. produksjonen hovedsakelig baseres på naturlig lys, og at bruk av kunstig lys dokumenteres og kun benyttes alene i deler av dyrkingsperioden
+3. tilsatt CO2 i produksjonen kun er et biprodukt fra annen produksjon eller CO2 fra ikke-fossile kilder
+4. maksimum dybde på jorda ikke overstiger 10 cm dersom jorda behandles termisk
+5. behovet for tilført gjødsel er dokumentert jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del I punkt 1.9.3.
 
 Oppvarming er tillatt.
 
@@ -147,9 +195,20 @@ Utearealet for slaktekylling skal være ubenyttet minst en måned etter hvert in
 
 ## § 14. Saktevoksende fjørferaser
 
-Følgende slaktekyllingraser er å anse som saktevoksende raser jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.9.4.1.:Ross RowanRowan RangerHubbard JA57 Colour yieldSASSO SA31Ranger ClassicRanger Gold.
+Følgende slaktekyllingraser er å anse som saktevoksende raser jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.9.4.1.:
 
-Følgende kalkunraser er å anse som saktevoksende raser jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.9.4.1.:Black Roly PolyBronze 708Wrolsted Bronze.
+1. Ross Rowan
+2. Rowan Ranger
+3. Hubbard JA57 Colour yield
+4. SASSO SA31
+5. Ranger Classic
+6. Ranger Gold.
+
+Følgende kalkunraser er å anse som saktevoksende raser jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.9.4.1.:
+
+1. Black Roly Poly
+2. Bronze 708
+3. Wrolsted Bronze.
 
 Driftsansvarlige for virksomheter som ønsker at det skal tilføyes en ny rase, kan sende dokumentasjon til Mattilsynet som viser at rasen er saktevoksende.
 
@@ -257,7 +316,10 @@ Liste over tredjestater og relevante spesifikasjoner nevnt i § 19
 
 ### 2. Opprinnelse:
 
-Økologisk dyrkede ingredienser i produkter i kategori A og D, som er dyrket i Chile eller importert til Chile:enten fra Unioneneller fra en tredjestat der Unionen har godkjent som ekvivalent i henhold til i [artikkel 48 i forordningen (EU) 2018/848](eu/32018r0848/a48).
+Økologisk dyrkede ingredienser i produkter i kategori A og D, som er dyrket i Chile eller importert til Chile:
+
+- enten fra Unionen
+- eller fra en tredjestat der Unionen har godkjent som ekvivalent i henhold til i [artikkel 48 i forordningen (EU) 2018/848](eu/32018r0848/a48).
 
 ### 3. Produksjonsstandard:
 
@@ -298,7 +360,10 @@ ikke fastsatt
 
 ### 2. Opprinnelse:
 
-Produkter i kategori A og F som er dyrket i Sveits, og produkter i kategori D og E som er foredlet i Sveits med økologisk dyrkede ingredienser som er dyrket i Sveits eller er importert til Sveitsenten fra Unioneneller fra en tredjestat der Sveits har anerkjent at produktene er produsert og kontrollert i samsvar med regler som er likeverdige med dem som er fastsatt i sveitsisk lovgivning.
+Produkter i kategori A og F som er dyrket i Sveits, og produkter i kategori D og E som er foredlet i Sveits med økologisk dyrkede ingredienser som er dyrket i Sveits eller er importert til Sveits
+
+- enten fra Unionen
+- eller fra en tredjestat der Sveits har anerkjent at produktene er produsert og kontrollert i samsvar med regler som er likeverdige med dem som er fastsatt i sveitsisk lovgivning.
 
 ### 3. Produksjonsstandard:
 
@@ -344,7 +409,12 @@ De økologiske produktene skal være uforedlede landbruks- eller akvakulturprodu
 
 ### 3. Produksjonsstandard:
 
-Lovene og forskriftene som gjelder i Storbritannia angående produksjonsstandarder er følgende:beholdt EF-forordning 834/2007beholdt EF-forordning 889/2008beholdt EF-forordning 1235/2008the Organic Products Regulations 2009 (SI 2009/842)
+Lovene og forskriftene som gjelder i Storbritannia angående produksjonsstandarder er følgende:
+
+- beholdt EF-forordning 834/2007
+- beholdt EF-forordning 889/2008
+- beholdt EF-forordning 1235/2008
+- the Organic Products Regulations 2009 (SI 2009/842)
 
 Henvisninger i denne listen til beholdt unionslovgivning anses å være referanser til slik lovgivning som endret av Storbritannia for at lovgivningen skal gjelde for Storbritannia.
 

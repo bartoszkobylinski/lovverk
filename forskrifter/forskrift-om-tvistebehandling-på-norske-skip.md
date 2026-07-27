@@ -204,7 +204,12 @@ Finner den utenrikstjenesteansatte det påkrevd, kan vedkommende også etter at 
 
 Den utenrikstjenesteansatte treffer sin avgjørelse så snart vedkommende finner at saken er tilstrekkelig opplyst.
 
-Avgjørelsen skal inneholde:partenes stilling, navn og fødselsnummer eller fødselsdato,en kort fremstilling av hva saken gjelder med partenes påstander,avgjørelsesgrunner,konklusjon.
+Avgjørelsen skal inneholde:
+
+1. partenes stilling, navn og fødselsnummer eller fødselsdato,
+2. en kort fremstilling av hva saken gjelder med partenes påstander,
+3. avgjørelsesgrunner,
+4. konklusjon.
 
 Såfremt den utenrikstjenesteansatte anser saken for å være av mindre betydning, kan avgjørelsen innskrenkes til å inneholde det som er nevnt i tredje ledd bokstav a, b og d.
 
@@ -214,7 +219,13 @@ Angår saken avregningen bør det i avgjørelsen også gis uttrykk for størrels
 
 ### § 24. Protokollering
 
-Den utenrikstjenesteansatte skal føre bok over forhandlingene. Her innføres:utenriksstasjonen, tid og sted for forhandlingene, den utenrikstjenesteansattes navn, fartøyets navn og hjemsted og partenes stilling og navn,om partene har møtt personlig, og hvem som i tilfelle har møtt for dem, stilling og navn på de vitner og sakkyndige som har møtt, og de dokumenter og bevisgjenstander som er fremlagt,partenes samtlige påstander og innrømmelser,den utenrikstjenesteansattes avgjørelse,forlik som partene har inngått.
+Den utenrikstjenesteansatte skal føre bok over forhandlingene. Her innføres:
+
+1. utenriksstasjonen, tid og sted for forhandlingene, den utenrikstjenesteansattes navn, fartøyets navn og hjemsted og partenes stilling og navn,
+2. om partene har møtt personlig, og hvem som i tilfelle har møtt for dem, stilling og navn på de vitner og sakkyndige som har møtt, og de dokumenter og bevisgjenstander som er fremlagt,
+3. partenes samtlige påstander og innrømmelser,
+4. den utenrikstjenesteansattes avgjørelse,
+5. forlik som partene har inngått.
 
 Såfremt den utenrikstjenesteansatte anser saken for å være av mindre betydning, kan innføringen innskrenkes til det den utenrikstjenesteansatte finner nødvendig, likevel slik at en alltid skal innta det som er nevnt i første ledd bokstav a, d og e.
 
@@ -226,7 +237,11 @@ Nærmere bestemmelser om protokollens innretning kan gis av Sjøfartsdirektorate
 
 ### § 25. Meddelelse til partene
 
-Den utenrikstjenesteansatte leser opp protokollen med sin avgjørelse for partene når det er anledning til det. Samtidig meddeles det partene:at den utenrikstjenesteansattes avgjørelse har øyeblikkelig virkning, med mindre den selv bestemmer noe annet,at avgjørelsen bare kan prøves av norsk rett, og binder partene inntil den i tilfelle forandres ved rettskraftig dom av domstol i Norge,hvilke frister som gjelder etter [skipsarbeidsloven](lov/2013-06-21-102) hvis en part vil bringe saken inn for domstol i Norge, jf. [skipsarbeidsloven § 6-5 annet ledd](lov/2013-06-21-102/§6-5/ledd/2). Dessuten at partene har mulighet til å få oppfriskning etter [tvisteloven 17. juni 2005 nr. 90 § 16-12](lov/2005-06-17-90/§16-12) til [§ 16-14](lov/2005-06-17-90/§16-14).
+Den utenrikstjenesteansatte leser opp protokollen med sin avgjørelse for partene når det er anledning til det. Samtidig meddeles det partene:
+
+1. at den utenrikstjenesteansattes avgjørelse har øyeblikkelig virkning, med mindre den selv bestemmer noe annet,
+2. at avgjørelsen bare kan prøves av norsk rett, og binder partene inntil den i tilfelle forandres ved rettskraftig dom av domstol i Norge,
+3. hvilke frister som gjelder etter [skipsarbeidsloven](lov/2013-06-21-102) hvis en part vil bringe saken inn for domstol i Norge, jf. [skipsarbeidsloven § 6-5 annet ledd](lov/2013-06-21-102/§6-5/ledd/2). Dessuten at partene har mulighet til å få oppfriskning etter [tvisteloven 17. juni 2005 nr. 90 § 16-12](lov/2005-06-17-90/§16-12) til [§ 16-14](lov/2005-06-17-90/§16-14).
 
 Den utenrikstjenesteansatte skal overlevere partene, eller sørge for en forsvarlig forsendelse av en utskrift av protokollen med slik tilføyelse som nevnt under første ledd bokstav a, b og c.
 

@@ -29,7 +29,10 @@ Formålet med forskriften er å sikre at medisinsk utstyr til enhver tid er sikk
 
 ## § 2. Saklig virkeområde
 
-Forskriften gjelder for:håndtering av medisinsk utstyrsammenstilt medisinsk utstyr
+Forskriften gjelder for:
+
+1. håndtering av medisinsk utstyr
+2. sammenstilt medisinsk utstyr
 
 Medisinsk utstyr og tilbehør blir heretter betegnet som medisinsk utstyr
 
@@ -37,13 +40,31 @@ Medisinsk utstyr og tilbehør blir heretter betegnet som medisinsk utstyr
 
 ## § 3. Personelt virkeområde
 
-Forskriften gjelder:helse- og omsorgstjenestens håndtering av alt medisinsk utstyr,enhver offentlig og privat virksomhets håndtering av elektromedisinsk utstyr,dyrehelsetjenestens håndtering av elektromedisinsk utstyr, og elektrisk utstyr ment til bruk på dyr for diagnostiske eller terapeutiske formål,enhver virksomhet som stiller elektromedisinsk utstyr til disposisjon for privatpersoner,for helse- og omsorgstjenesten som stiller medisinsk utstyr til disposisjon for privatpersoner, oguten hensyn til hvordan det medisinske utstyret er skaffet til veie.
+Forskriften gjelder:
+
+1. helse- og omsorgstjenestens håndtering av alt medisinsk utstyr,
+2. enhver offentlig og privat virksomhets håndtering av elektromedisinsk utstyr,
+3. dyrehelsetjenestens håndtering av elektromedisinsk utstyr, og elektrisk utstyr ment til bruk på dyr for diagnostiske eller terapeutiske formål,
+4. enhver virksomhet som stiller elektromedisinsk utstyr til disposisjon for privatpersoner,
+5. for helse- og omsorgstjenesten som stiller medisinsk utstyr til disposisjon for privatpersoner, og
+6. uten hensyn til hvordan det medisinske utstyret er skaffet til veie.
 
 > Endret ved forskrift [16 juni 2023 nr. 932](forskrift/2023-06-16-932) (i kraft 1 juli 2023).
 
 ## § 4. Definisjoner
 
-I forskriften menes med:*medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr (MDR) artikkel 2 nr. 1.*elektromedisinsk utstyr:* ethvert medisinsk utstyr, inkludert systemløsninger, som er avhengig av en elektrisk energikilde for å fungere.*in vitro-diagnostisk medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr (IVDR) artikkel 2 nr. 2.*tilbehør:* gjenstand som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 2 nr. 2 og forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 2 nr. 4.*egentilvirket medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) (MDR) og forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 nr. 5.*sammenstilt medisinsk utstyr:*enhver kombinasjon av to eller flere medisinske utstyr,medisinsk utstyr som kombineres med annet utstyr som opprinnelig ikke er ment brukt som medisinsk utstyr, ellermedisinsk utstyr som av praktiske årsaker plasseres sammen i stativ eller kabinett (rack), på trillebord og lignende.
+I forskriften menes med:
+
+1. *medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr (MDR) artikkel 2 nr. 1.
+2. *elektromedisinsk utstyr:* ethvert medisinsk utstyr, inkludert systemløsninger, som er avhengig av en elektrisk energikilde for å fungere.
+3. *in vitro-diagnostisk medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr (IVDR) artikkel 2 nr. 2.
+4. *tilbehør:* gjenstand som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 2 nr. 2 og forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 2 nr. 4.
+5. *egentilvirket medisinsk utstyr:* ethvert utstyr som oppfyller definisjonen i forordning [(EU) 2017/745](eu/32017r0745) (MDR) og forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 nr. 5.
+6. *sammenstilt medisinsk utstyr:*
+
+   1. enhver kombinasjon av to eller flere medisinske utstyr,
+   2. medisinsk utstyr som kombineres med annet utstyr som opprinnelig ikke er ment brukt som medisinsk utstyr, eller
+   3. medisinsk utstyr som av praktiske årsaker plasseres sammen i stativ eller kabinett (rack), på trillebord og lignende.
 
 > Endret ved forskrifter [9 mai 2021 nr. 1502](forskrift/2021-05-09-1502) (i kraft 26 mai 2021), [23 mai 2022 nr. 896](forskrift/2022-05-23-896) (i kraft 26 mai 2022).
 

@@ -15,7 +15,7 @@ xml_hash: "691ce67dcdab0ec9cd8bc5cbf7cbfb9a7b26391637264aff46eef3f589e5acae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,10 @@ For fangsthytter kan Sysselmesteren fravike forskriften.
 
 ### § 1-6. Klage.
 
-Klageinstans for vedtak etter forskriften er:Direktoratet for samfunnssikkerhet og beredskap når avgjørelsen er truffet av Sysselmesteren eller representativt folkevalgt organ.Justis- og politidepartementet når avgjørelsen er truffet av Direktoratet for samfunnssikkerhet og beredskap.
+Klageinstans for vedtak etter forskriften er:
+
+1. Direktoratet for samfunnssikkerhet og beredskap når avgjørelsen er truffet av Sysselmesteren eller representativt folkevalgt organ.
+2. Justis- og politidepartementet når avgjørelsen er truffet av Direktoratet for samfunnssikkerhet og beredskap.
 
 > Endret ved [forskrifter 14 des 2001 nr. 1390](forskrift/2001-12-14-1390) (i kraft 1 jan 2002), [20 feb 2004 nr. 583](forskrift/2004-02-20-583), [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
@@ -88,7 +91,10 @@ Kravene i [§ 4-9](forskrift/1993-08-20-815/§4-9), [§ 4-16](forskrift/1993-08-
 
 ### § 1-10. Oppheving av/endring i andre forskrifter m.v.
 
-Når forskriften trer i kraft, oppheves:[Forskrifter av 7. januar 1931 nr. 3354](forskrift/1931-01-07-3354) om brannvesenet i bebyggelsen ved Adventfjorden på Svalbard.[Forskrift av 22. februar 1935 nr. 3346](forskrift/1935-02-22-3346) om branvesenet for det russiske statsselskap på Svalbard.
+Når forskriften trer i kraft, oppheves:
+
+- [Forskrifter av 7. januar 1931 nr. 3354](forskrift/1931-01-07-3354) om brannvesenet i bebyggelsen ved Adventfjorden på Svalbard.
+- [Forskrift av 22. februar 1935 nr. 3346](forskrift/1935-02-22-3346) om branvesenet for det russiske statsselskap på Svalbard.
 
 ## Kap. 2. Brannvernmyndigheter og oppgaver.
 
@@ -108,7 +114,11 @@ Direktoratet for samfunnssikkerhet og beredskap kan delegere sine gjøremål til
 
 ### § 2-2. Sysselmesteren.
 
-Sysselmesteren skal:Sørge for at det utarbeides brannordninger, jfr. [§ 2-4](forskrift/1993-08-20-815/§2-4).Sørge for at det hvert år utarbeides rapporter om brannvernet på Svalbard. Sysselmesteren forelegger rapportene for Direktoratet for samfunnssikkerhet og beredskap innen utgangen av februar.Utføre de gjøremål som er pålagt stillingen etter instruks gitt av Direktoratet for samfunnssikkerhet og beredskap, jfr. [§ 2-1](forskrift/1993-08-20-815/§2-1).
+Sysselmesteren skal:
+
+1. Sørge for at det utarbeides brannordninger, jfr. [§ 2-4](forskrift/1993-08-20-815/§2-4).
+2. Sørge for at det hvert år utarbeides rapporter om brannvernet på Svalbard. Sysselmesteren forelegger rapportene for Direktoratet for samfunnssikkerhet og beredskap innen utgangen av februar.
+3. Utføre de gjøremål som er pålagt stillingen etter instruks gitt av Direktoratet for samfunnssikkerhet og beredskap, jfr. [§ 2-1](forskrift/1993-08-20-815/§2-1).
 
 Direktoratet for samfunnssikkerhet og beredskap kan delegere Sysselmesterens kompetanse etter denne forskrift til representativt folkevalgt organ.
 
@@ -132,7 +142,13 @@ Direktoratet for samfunnssikkerhet og beredskap peker ut den virksomhet som skal
 
 ### § 2-5. Virksomhetens plikter.
 
-Virksomheten skal:Utarbeide brannordning.Prioritere, planlegge, gjennomføre og følge opp tiltak etter denne forskrift.Gjennomføre informasjonstiltak.Hvert år oversende til Sysselmesteren rapport om brannvernarbeidet for foregående år.Hvert år utarbeide en plan over aktuelle brannverntiltak, herunder gjennomføring av brannsynet det kommende år. Denne planen forelegges Sysselmesteren før årets begynnelse.
+Virksomheten skal:
+
+1. Utarbeide brannordning.
+2. Prioritere, planlegge, gjennomføre og følge opp tiltak etter denne forskrift.
+3. Gjennomføre informasjonstiltak.
+4. Hvert år oversende til Sysselmesteren rapport om brannvernarbeidet for foregående år.
+5. Hvert år utarbeide en plan over aktuelle brannverntiltak, herunder gjennomføring av brannsynet det kommende år. Denne planen forelegges Sysselmesteren før årets begynnelse.
 
 Forøvrig plikter virksomheten å oversende til Sysselmesteren den dokumentasjon som Sysselmesteren krever.
 
@@ -140,7 +156,12 @@ Forøvrig plikter virksomheten å oversende til Sysselmesteren den dokumentasjon
 
 ### § 2-6. Brannvernets oppgaver.
 
-Brannvernet skal:Gjennomføre oppgaver av brannforebyggende og kontrollerende art.Være innsatsstyrke i forbindelse med brann.Bistå med innsats ved andre akutte ulykker.Utføre andre oppgaver som legges til brannvernet.
+Brannvernet skal:
+
+1. Gjennomføre oppgaver av brannforebyggende og kontrollerende art.
+2. Være innsatsstyrke i forbindelse med brann.
+3. Bistå med innsats ved andre akutte ulykker.
+4. Utføre andre oppgaver som legges til brannvernet.
 
 Personell som deltar i brannvernet, plikter å gjøre tjeneste ved brann, delta i øvelser og vedlikeholdsarbeid, gjennomgå nødvendige kurs, og delta i vaktordninger knyttet til brannberedskapen.
 
@@ -238,7 +259,13 @@ Alle boliger skal ha hensiktsmessig manuelt slokkingsutstyr som kan benyttes i a
 
 ### § 4-9. Dokumentasjon av sikkerhet.
 
-Eier/bruker skal påse at dokumentasjon foreligger. Eier/bruker skal på oppfordring fremlegge følgende dokumentasjon for den som utfører brannsyn:Tegninger over det særskilte brannobjektet. Tegningene skal vise alle deler og installasjoner med brannforebyggende funksjon, samt rømningsveier.Oversikt over tekniske brannverntiltak.Oversikt over intern fordeling av oppgaver i forbindelse med brannsikkerhetsarbeid og eventuelle brannsituasjoner.Oversikt over antall og art av brannøvelser.Oversikt over kontroll og vedlikehold av tekniske anlegg som har betydning for brannsikkerheten.
+Eier/bruker skal påse at dokumentasjon foreligger. Eier/bruker skal på oppfordring fremlegge følgende dokumentasjon for den som utfører brannsyn:
+
+1. Tegninger over det særskilte brannobjektet. Tegningene skal vise alle deler og installasjoner med brannforebyggende funksjon, samt rømningsveier.
+2. Oversikt over tekniske brannverntiltak.
+3. Oversikt over intern fordeling av oppgaver i forbindelse med brannsikkerhetsarbeid og eventuelle brannsituasjoner.
+4. Oversikt over antall og art av brannøvelser.
+5. Oversikt over kontroll og vedlikehold av tekniske anlegg som har betydning for brannsikkerheten.
 
 Sysselmesteren kan i enkelttilfelle kreve ytterligere dokumentasjon.
 
@@ -246,7 +273,12 @@ Sysselmesteren kan i enkelttilfelle kreve ytterligere dokumentasjon.
 
 ### § 4-10. Ansvarlig leder.
 
-For ethvert særskilt brannobjekt skal det være en ansvarlig leder for brannsikkerhetsarbeidet utpekt av eier/bruker. Den ansvarlige leder skal ha tilstrekkelig kunnskap om:Gjeldende lover og forskrifter som omhandler brannvern.Tiltak som er gjennomført, eller som kan bli nødvendig å gjennomføre, for å opprettholde tilfredstillende brannsikkerhet.Brannvernets organisering og innsatsmuligheter.Varslingsprosedyrer, ansvarsfordeling og ledelse ved brann.
+For ethvert særskilt brannobjekt skal det være en ansvarlig leder for brannsikkerhetsarbeidet utpekt av eier/bruker. Den ansvarlige leder skal ha tilstrekkelig kunnskap om:
+
+1. Gjeldende lover og forskrifter som omhandler brannvern.
+2. Tiltak som er gjennomført, eller som kan bli nødvendig å gjennomføre, for å opprettholde tilfredstillende brannsikkerhet.
+3. Brannvernets organisering og innsatsmuligheter.
+4. Varslingsprosedyrer, ansvarsfordeling og ledelse ved brann.
 
 Ansvarlig leder har plikt til å delta under varslet brannsyn.
 
@@ -269,7 +301,14 @@ Nyansatte og vikarer ved særskilte brannobjekter av type a skal før de settes 
 
 Nyansatte og vikarer i de andre typer særskilte brannobjekter m.v. skal før de settes i arbeid gis tilstrekkelig informasjon om hvordan de skal opptre ved brann.
 
-Øvelsen skal:så langt det er praktisk mulig alltid omfatte alle ansatte. Ledere og personer i nøkkelposisjoner skal øves hver gang,gis en realistisk form og knyttes til den enkeltes oppgaver ved brann på eller nær den daglige arbeidsplass,omfatte alle deler av det særskilte brannobjektet. Det skal særlig øves innsats mot slike branntilløp/forløp som det er høy sannsynlighet for,vise hvordan alarmanlegg, stasjonære slokkeanlegg og andre tekniske innretninger inngår som en del av brannsikringen,inneholde en opplysende og motiverende del,avsluttes med en oppsummering, og normalt ved større øvelser av en skriftlig rapport som senere øvelser kan bygge videre på.
+Øvelsen skal:
+
+- så langt det er praktisk mulig alltid omfatte alle ansatte. Ledere og personer i nøkkelposisjoner skal øves hver gang,
+- gis en realistisk form og knyttes til den enkeltes oppgaver ved brann på eller nær den daglige arbeidsplass,
+- omfatte alle deler av det særskilte brannobjektet. Det skal særlig øves innsats mot slike branntilløp/forløp som det er høy sannsynlighet for,
+- vise hvordan alarmanlegg, stasjonære slokkeanlegg og andre tekniske innretninger inngår som en del av brannsikringen,
+- inneholde en opplysende og motiverende del,
+- avsluttes med en oppsummering, og normalt ved større øvelser av en skriftlig rapport som senere øvelser kan bygge videre på.
 
 ### § 4-13. Instrukser og planer m.v.
 
@@ -295,13 +334,42 @@ Direktoratet for samfunnssikkerhet og beredskap kan tillate at vaktordning ersta
 
 ### § 4-15. Rømningsveier.
 
-1. Generelle krav til rømningsveier.Rømningsveiene skal til enhver tid dekke behovet for forsvarlig rømning. Atkomst til rømningsvei skal kunne skje uten hindringer. Heis og rulletrapp regnes ikke som rømningsvei.Fra enhver branncelle for varig opphold skal det være minst to rømningsveier. For små brannceller med direkte utgang til det fri, er det tilstrekkelig med én rømningsvei. Vindu kan i enkelte tilfelle aksepteres som rømningsvei.I bygninger med flere etasjer skal rømningsveiene ha kapasitet for samtidig rømning fra to etasjer.Fra brannceller som omfatter flere etasjer skal hver etasje ha direkte utgang til minst en rømningsvei.Fri bredde i rømningsvei skal være minst 80 cm og ikke mindre enn 0,7 cm pr. person.
-2. Krav til dører i rømningsveier.Dør til og i rømningsvei skal slå ut i rømningsretningen eller ha utførelse som gir likeverdig funksjon under rømning. Krav om slagretning gjelder ikke dør til rømningsvei fra branncelle for et lite antall personer.Dør i rømningsvei skal normalt kunne åpnes fra innsiden uten bruk av nøkkel e.l.Dør i rømningsvei fra lokale med mer enn 150 personer skal kunne åpnes fra innsiden med et enkelt håndgrep uten bruk av nøkkel e.l.Dør i rømningsvei fra lukket anstalt o.l. skal normalt åpnes av betjeningen etter rutiner som skal være utarbeidet og øvet på forhånd.
-3. Merking av rømningsveier.Rømningsvei skal være tilstrekkelig merket og opplyst. Merkingen skal ha en slik utforming og størrelse at den umiddelbart forstås, og skal plasseres slik at den er lett synlig overalt i det lokalet som skal rømmes og på ethvert sted i rømningsveien.Det skal være markeringslys ved dører, samt ledelys eller tilsvarende innretninger i følgende bygninger:Overnattingssteder og sykehus.Salgslokaler og forsamlingslokaler med bruttoareal større enn 300 m2. I enkelttilfelle kan det allikevel stilles strengere krav, jfr. [§ 5-7](forskrift/1993-08-20-815/§5-7).
+1. Generelle krav til rømningsveier.
+
+   Rømningsveiene skal til enhver tid dekke behovet for forsvarlig rømning. Atkomst til rømningsvei skal kunne skje uten hindringer. Heis og rulletrapp regnes ikke som rømningsvei.
+
+   Fra enhver branncelle for varig opphold skal det være minst to rømningsveier. For små brannceller med direkte utgang til det fri, er det tilstrekkelig med én rømningsvei. Vindu kan i enkelte tilfelle aksepteres som rømningsvei.
+
+   I bygninger med flere etasjer skal rømningsveiene ha kapasitet for samtidig rømning fra to etasjer.
+
+   Fra brannceller som omfatter flere etasjer skal hver etasje ha direkte utgang til minst en rømningsvei.
+
+   Fri bredde i rømningsvei skal være minst 80 cm og ikke mindre enn 0,7 cm pr. person.
+2. Krav til dører i rømningsveier.
+
+   Dør til og i rømningsvei skal slå ut i rømningsretningen eller ha utførelse som gir likeverdig funksjon under rømning. Krav om slagretning gjelder ikke dør til rømningsvei fra branncelle for et lite antall personer.
+
+   Dør i rømningsvei skal normalt kunne åpnes fra innsiden uten bruk av nøkkel e.l.
+
+   Dør i rømningsvei fra lokale med mer enn 150 personer skal kunne åpnes fra innsiden med et enkelt håndgrep uten bruk av nøkkel e.l.
+
+   Dør i rømningsvei fra lukket anstalt o.l. skal normalt åpnes av betjeningen etter rutiner som skal være utarbeidet og øvet på forhånd.
+3. Merking av rømningsveier.
+
+   Rømningsvei skal være tilstrekkelig merket og opplyst. Merkingen skal ha en slik utforming og størrelse at den umiddelbart forstås, og skal plasseres slik at den er lett synlig overalt i det lokalet som skal rømmes og på ethvert sted i rømningsveien.
+
+   Det skal være markeringslys ved dører, samt ledelys eller tilsvarende innretninger i følgende bygninger:
+
+   1. Overnattingssteder og sykehus.
+   2. Salgslokaler og forsamlingslokaler med bruttoareal større enn 300 m2. I enkelttilfelle kan det allikevel stilles strengere krav, jfr. [§ 5-7](forskrift/1993-08-20-815/§5-7).
 
 ### § 4-16. Brannalarmanlegg.
 
-Det skal være brannalarmanlegg i følgende særskilte brannobjekter:Overnattingssteder og sykehus o.l. med 10 eller flere sengeplasser i samme bygning.Barnehager og fritidshjem som ikke har direkte utgang til terreng på samme nivå. I barnehager og fritidshjem med inntil 10 barn kan røykvarsler benyttes.Salgslokaler i én etasje hvor samlet bruttoareal overstiger 1.200 m2, og salgslokaler i flere etasjer, hvor samlet bruttoareal med åpen forbindelse overstiger 800 m2.
+Det skal være brannalarmanlegg i følgende særskilte brannobjekter:
+
+1. Overnattingssteder og sykehus o.l. med 10 eller flere sengeplasser i samme bygning.
+2. Barnehager og fritidshjem som ikke har direkte utgang til terreng på samme nivå. I barnehager og fritidshjem med inntil 10 barn kan røykvarsler benyttes.
+3. Salgslokaler i én etasje hvor samlet bruttoareal overstiger 1.200 m2, og salgslokaler i flere etasjer, hvor samlet bruttoareal med åpen forbindelse overstiger 800 m2.
 
 Kravet gjelder også alle rømningsveier, selv om lokalene bare omfatter deler av bygningen.
 
@@ -315,7 +383,12 @@ Det skal utplasseres hensiktsmessig og tilstrekkelig manuelt slokkingsutstyr som
 
 ### § 4-18. Stasjonære slokkingsanlegg.
 
-Sprinkleranlegg skal installeres i :Lokaler i overnattingssteder med åpen forbindelse over flere etasjer og bruttoareal større enn 200 m2. Slike lokaler mindre enn 800 m2 kan likevel utføres uten sprinkleranlegg dersom lokalene er skilt med bygningsdeler minst A 60 fra sengerommene og fra rømningsveiene fra disse.Sykehus o.l. i mer enn én etasje i trebygning eller annen bygning som medfører fare for totalbrann.Salgslokaler hvor bruttoareal uten oppdeling med brannvegg overstiger 1.800 m2 i én etasje, eller samlet 800 m2 over flere etasjer. Unntak kan gjøres for lokaler i én etasje med bruttoareal inntil 3.600 m2 dersom effektiv brannventilasjon allerede er etablert.Bygning for industri, håndverk og lager hvor bruttoareal uten oppdeling med brannvegg overstiger 1.800 m2 i én etasje, eller samlet 800 m2 over flere etasjer. Unntak kan gjøres for lokaler i én etasje med bruttoareal inntil 3.600 m2 dersom effektiv brannventilasjon allerede er etablert, samt for bygninger med spesifikk brannbelastning mindre enn 50 MJ/m2.
+Sprinkleranlegg skal installeres i :
+
+1. Lokaler i overnattingssteder med åpen forbindelse over flere etasjer og bruttoareal større enn 200 m2. Slike lokaler mindre enn 800 m2 kan likevel utføres uten sprinkleranlegg dersom lokalene er skilt med bygningsdeler minst A 60 fra sengerommene og fra rømningsveiene fra disse.
+2. Sykehus o.l. i mer enn én etasje i trebygning eller annen bygning som medfører fare for totalbrann.
+3. Salgslokaler hvor bruttoareal uten oppdeling med brannvegg overstiger 1.800 m2 i én etasje, eller samlet 800 m2 over flere etasjer. Unntak kan gjøres for lokaler i én etasje med bruttoareal inntil 3.600 m2 dersom effektiv brannventilasjon allerede er etablert.
+4. Bygning for industri, håndverk og lager hvor bruttoareal uten oppdeling med brannvegg overstiger 1.800 m2 i én etasje, eller samlet 800 m2 over flere etasjer. Unntak kan gjøres for lokaler i én etasje med bruttoareal inntil 3.600 m2 dersom effektiv brannventilasjon allerede er etablert, samt for bygninger med spesifikk brannbelastning mindre enn 50 MJ/m2.
 
 Der sprinkling er uegnet, kan det anvendes annet stasjonært slokkingsanlegg.
 

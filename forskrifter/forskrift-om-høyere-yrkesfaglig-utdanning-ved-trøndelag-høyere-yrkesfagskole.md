@@ -15,7 +15,7 @@ xml_hash: "62c1fba59d3ccefb34e00d63e8dcc4ca4a83a7e7b822e93d2790c9b6b61bea7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -154,7 +154,12 @@ Søkere i lokalt opptak vil poengberegnes og rangeres i henhold til regler for o
 
 (2) Det gis ikke godskriving eller fritak for praksis, emnet hovedprosjekt og underliggende temaer i emnene.
 
-(3) Søknad om godskriving og fritak kan først skje etter at søker har fått studierett. Søknad sendes til THYF via søknadsskjema på [THYFs nettsider](https://web.trondelagfylke.no/trondelag-hoyere-yrkesfagskole/) innen fastsatte frister. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/kompetansebevis/attesterOversikt over hvilke tema som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.
+(3) Søknad om godskriving og fritak kan først skje etter at søker har fått studierett. Søknad sendes til THYF via søknadsskjema på [THYFs nettsider](https://web.trondelagfylke.no/trondelag-hoyere-yrkesfagskole/) innen fastsatte frister. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:
+
+1. Vitnemål/karakterutskrift/kompetansebevis/attester
+2. Oversikt over hvilke tema som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 ## Kapittel 3. Skikkethet og krav om politiattest
 
@@ -162,7 +167,18 @@ Bestemmelser knyttet til skikkethet og politiattest er regulert i [fagskoleloven
 
 ### § 3-1. Utdanninger ved THYF med skikkethetsvurdering
 
-(1) Skikkethetsvurdering skal gjennomføres der hvor studenten kan utgjøre en fare, jf. [fagskoleforskriften](forskrift/2019-07-11-1005). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved THYF:Arbeid med de yngste barna i barnehagenBarn med særskilte behovBarsel- og barnepleieHelseadministrasjon og pasientrettede IKT-systemerPsykisk helsearbeid og rusarbeidPalliasjonRehabiliteringHelse, aldring og aktiv omsorg.Styret ved THYF kan bestemme at det skal foretas skikkethetsvurdering ved andre utdanninger som allerede er akkrediterte, jf. [fagskoleforskriften](forskrift/2019-07-11-1005).
+(1) Skikkethetsvurdering skal gjennomføres der hvor studenten kan utgjøre en fare, jf. [fagskoleforskriften](forskrift/2019-07-11-1005). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved THYF:
+
+1. Arbeid med de yngste barna i barnehagen
+2. Barn med særskilte behov
+3. Barsel- og barnepleie
+4. Helseadministrasjon og pasientrettede IKT-systemer
+5. Psykisk helsearbeid og rusarbeid
+6. Palliasjon
+7. Rehabilitering
+8. Helse, aldring og aktiv omsorg.
+
+Styret ved THYF kan bestemme at det skal foretas skikkethetsvurdering ved andre utdanninger som allerede er akkrediterte, jf. [fagskoleforskriften](forskrift/2019-07-11-1005).
 
 ### § 3-2. Skikkethetsnemnd
 
@@ -214,7 +230,11 @@ Bestemmelser knyttet til behandling i styret eller institusjonens klagenemnd og 
 
 (2) Studierett etableres ved at studenten aksepterer tilbud om studieplass og betaler eventuell studie- og semesteravgift innen fastsatt frist. Ubetalt studie- og semesteravgift vil føre til tap av studieretten. Informasjon om gjeldende studie- og semesteravgift finnes på [THYFs nettside](https://web.trondelagfylke.no/trondelag-hoyere-yrkesfagskole/).
 
-(3) Studieretten opphører når studentenskriftlig bekrefter å ha trukket seg fra studieteller når studiet er fullført og vitnemål eller karakterutskrift er utstedteller ved tap av studierett, jf. [§ 4-5](forskrift/2025-06-24-1643/§4-5).
+(3) Studieretten opphører når studenten
+
+1. skriftlig bekrefter å ha trukket seg fra studiet
+2. eller når studiet er fullført og vitnemål eller karakterutskrift er utstedt
+3. eller ved tap av studierett, jf. [§ 4-5](forskrift/2025-06-24-1643/§4-5).
 
 (4) En student som følger studiet på normert tid, har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres vesentlig. Mindre endringer må ikke medføre at studenten blir forsinket i sin progresjon.
 
@@ -286,7 +306,16 @@ Informasjon om ulike avgifter og studentens betalingsforpliktelser fremkommer p�
 
 ### § 4-5. Tap av studierett
 
-Studieretten opphører når:studenten etter tre eksamensforsøk ikke har bestått eksamen i samme emne og ikke er innvilget dispensasjon for ytterligere eksamensforsøkstudenten etter tre forsøk ikke har bestått samme emnet med unntak av [§ 4-5](forskrift/2025-06-24-1643/§4-5) c.studenten to ganger ikke har bestått det samme praksisemnet eller praksisperiode.studenten ikke har betalt studiekostnaden eller annen avgift som er oppgitt etter fastsatt friststudenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurtstudenten ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptakstudenten er utestengt etter forhold regulert i [fagskoleloven](lov/2018-06-08-28).studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [§ 2-3-3](forskrift/2025-06-24-1643/§2-3-3).
+Studieretten opphører når:
+
+1. studenten etter tre eksamensforsøk ikke har bestått eksamen i samme emne og ikke er innvilget dispensasjon for ytterligere eksamensforsøk
+2. studenten etter tre forsøk ikke har bestått samme emnet med unntak av [§ 4-5](forskrift/2025-06-24-1643/§4-5) c.
+3. studenten to ganger ikke har bestått det samme praksisemnet eller praksisperiode.
+4. studenten ikke har betalt studiekostnaden eller annen avgift som er oppgitt etter fastsatt frist
+5. studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt
+6. studenten ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptak
+7. studenten er utestengt etter forhold regulert i [fagskoleloven](lov/2018-06-08-28).
+8. studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [§ 2-3-3](forskrift/2025-06-24-1643/§2-3-3).
 
 ## Kapittel 5. Avsluttende vurdering, eksamen og sensur
 
@@ -359,7 +388,16 @@ Vurdering foretas på en slik måte at THYF på et best mulig sikkert grunnlag k
 
 (1) En student har rett til å fremstille seg tre ganger til eksamen i ett og samme emne. Dersom en student unnlater å møte til eksamen uten gyldig grunn, telles dette som ett eksamensforsøk.
 
-(2) Tellende eksamensforsøk er når studentenhar bestått eksamenfår karakteren F/ikke beståttTrekker seg etter avmeldingsfristens utløpikke møter til eksamenikke leverer eksamensbesvarelse innen fristhar møtt til eksamen, men velger å trekke seg under eksamenfår eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptredenikke har gyldig grunn etter [§ 5-5-3](forskrift/2025-06-24-1643/§5-5-3).
+(2) Tellende eksamensforsøk er når studenten
+
+1. har bestått eksamen
+2. får karakteren F/ikke bestått
+3. Trekker seg etter avmeldingsfristens utløp
+4. ikke møter til eksamen
+5. ikke leverer eksamensbesvarelse innen frist
+6. har møtt til eksamen, men velger å trekke seg under eksamen
+7. får eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden
+8. ikke har gyldig grunn etter [§ 5-5-3](forskrift/2025-06-24-1643/§5-5-3).
 
 ### § 5-5-3. Sykdom ved eksamen og trekk fra eksamen
 
@@ -439,7 +477,17 @@ Vurdering foretas på en slik måte at THYF på et best mulig sikkert grunnlag k
 
 (2) Vitnemål utstedes til studenter som har fullført og bestått hele den høyere yrkesfaglige utdanningen – minimum 30 studiepoeng (½ år) og maksimum 120 studiepoeng (2 år).
 
-(3) Vitnemålet skal inneholde både eiers (Trøndelag fylkeskommune) og fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Kandidatens navnDet overordnede læringsutbyttetEmner, eventuell praksis samt fagretning og tittel på hovedprosjektKvalifikasjonsnivået som oppnås (nivå 5 i NKR (Nasjonalt kvalifikasjonsrammeverk) og fagskole 1 eller fagskole 2)Vurderingssystemet som benyttes (A-F eller bestått/ikke bestått)Antall studiepoengKarakter/karakterer (A-F eller bestått/ikke bestått)Gradsbetegnelse: fagskolegrad (60-90 studiepoeng) eller høyere fagskolegrad (minimum 120 studiepoeng)Om utdanningen er underlagt skikkethetsvurdering.
+(3) Vitnemålet skal inneholde både eiers (Trøndelag fylkeskommune) og fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Kandidatens navn
+2. Det overordnede læringsutbyttet
+3. Emner, eventuell praksis samt fagretning og tittel på hovedprosjekt
+4. Kvalifikasjonsnivået som oppnås (nivå 5 i NKR (Nasjonalt kvalifikasjonsrammeverk) og fagskole 1 eller fagskole 2)
+5. Vurderingssystemet som benyttes (A-F eller bestått/ikke bestått)
+6. Antall studiepoeng
+7. Karakter/karakterer (A-F eller bestått/ikke bestått)
+8. Gradsbetegnelse: fagskolegrad (60-90 studiepoeng) eller høyere fagskolegrad (minimum 120 studiepoeng)
+9. Om utdanningen er underlagt skikkethetsvurdering.
 
 (4) Det utstedes normalt kun ett vitnemål pr. kandidat. I særlige tilfeller hvor det kan sannsynliggjøres/dokumenteres at vitnemål er tapt, kan det utstedes kopi av vitnemål. En avgift kan påløpe ved bestilling av kopi av vitnemål.
 
@@ -471,7 +519,15 @@ Bestemmelser knyttet til studiepoeng er regulert [fagskoleloven](lov/2018-06-08-
 
 (1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for alle vurderingssituasjoner og som på en urettmessig måte kan føre til at kandidaten blir vurdert bedre enn ellers i en vurderingssituasjon.
 
-(2) Fusk kan være å:bruke eller ha tilgjengelig ulovlige hjelpemidler i vurderingssituasjonerureglementert bruk av tillatte hjelpemidlerpresentere andres arbeid som sitt eget; plagiat, KI-generert tekst, herunder manglende kildehenvisning og/eller klar markering av sitatpresentere eget tidligere arbeid uten referanse; selvplagiatureglementert kommunikasjon og samarbeid mellom kandidater eller grupperurettmessig å ha skaffet seg adgang til vurderinghandle på andre måter slik at det urettmessig kan gi fordeler ved vurderingen eller i forbindelse med obligatoriske aktiviteter.
+(2) Fusk kan være å:
+
+1. bruke eller ha tilgjengelig ulovlige hjelpemidler i vurderingssituasjoner
+2. ureglementert bruk av tillatte hjelpemidler
+3. presentere andres arbeid som sitt eget; plagiat, KI-generert tekst, herunder manglende kildehenvisning og/eller klar markering av sitat
+4. presentere eget tidligere arbeid uten referanse; selvplagiat
+5. ureglementert kommunikasjon og samarbeid mellom kandidater eller grupper
+6. urettmessig å ha skaffet seg adgang til vurdering
+7. handle på andre måter slik at det urettmessig kan gi fordeler ved vurderingen eller i forbindelse med obligatoriske aktiviteter.
 
 (3) Dersom det oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at hen vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om hen vil fortsette eller avbryte vurderingssituasjonen.
 
@@ -577,9 +633,22 @@ Bestemmelser knyttet til klageområder, klageinstanser og klagebehandling er reg
 
 ### § 10-2. Klageorgan
 
-(1) Lokal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak fattet av fagskolen truffet med hjemmel i følgende paragrafer i denne forskrift:[§ 2-3-2](forskrift/2025-06-24-1643/§2-3-2). Opptak på bakgrunn av realkompetanse[§ 2-3-3](forskrift/2025-06-24-1643/§2-3-3). Opptak på visse vilkår (betinget opptak)[§ 2-9](forskrift/2025-06-24-1643/§2-9). Godskriving og fritak[§ 5-5-5](forskrift/2025-06-24-1643/§5-5-5). Eksamen under særlige vilkår[§ 10-4](forskrift/2025-06-24-1643/§10-4). Klage over formelle feil ved eksamen.
+(1) Lokal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak fattet av fagskolen truffet med hjemmel i følgende paragrafer i denne forskrift:
 
-(2) Den lokale klagenemnda oppnevnes av styret i THYF og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:leder med personlig varamedlemett medlem med fagskoleadministrativ kompetanse med personlig varamedlemett medlem som er fagskolelærer med personlig varamedlemto studenter med personlig varamedlem.Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved THYF. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer eller varamedlemmer er til stede, jf. [fagskoleloven](lov/2018-06-08-28).
+- [§ 2-3-2](forskrift/2025-06-24-1643/§2-3-2). Opptak på bakgrunn av realkompetanse
+- [§ 2-3-3](forskrift/2025-06-24-1643/§2-3-3). Opptak på visse vilkår (betinget opptak)
+- [§ 2-9](forskrift/2025-06-24-1643/§2-9). Godskriving og fritak
+- [§ 5-5-5](forskrift/2025-06-24-1643/§5-5-5). Eksamen under særlige vilkår
+- [§ 10-4](forskrift/2025-06-24-1643/§10-4). Klage over formelle feil ved eksamen.
+
+(2) Den lokale klagenemnda oppnevnes av styret i THYF og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:
+
+1. leder med personlig varamedlem
+2. ett medlem med fagskoleadministrativ kompetanse med personlig varamedlem
+3. ett medlem som er fagskolelærer med personlig varamedlem
+4. to studenter med personlig varamedlem.
+
+Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved THYF. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer eller varamedlemmer er til stede, jf. [fagskoleloven](lov/2018-06-08-28).
 
 (3) Klagenemndas vedtak i saker om THYFs enkeltvedtak kan ikke påklages, jf. [fagskoleloven](lov/2018-06-08-28).
 
@@ -607,7 +676,13 @@ Bestemmelser knyttet til klageområder, klageinstanser og klagebehandling er reg
 
 (6) Klage skal besvares senest innen en måned. Dersom klagebehandlingen tar lengre tid, skal den som klager, underrettes om dette skriftlig.
 
-(7) En klage må inneholde:klagers navn og adressehenvisning til vedtaket det klages overhva klagen gjelder og begrunnelse for denneangivelse av den endring som ønskes i det vedtak det klages overdato og underskrift(er).
+(7) En klage må inneholde:
+
+1. klagers navn og adresse
+2. henvisning til vedtaket det klages over
+3. hva klagen gjelder og begrunnelse for denne
+4. angivelse av den endring som ønskes i det vedtak det klages over
+5. dato og underskrift(er).
 
 ### § 10-5. Rett til begrunnelse og klage på karakter
 

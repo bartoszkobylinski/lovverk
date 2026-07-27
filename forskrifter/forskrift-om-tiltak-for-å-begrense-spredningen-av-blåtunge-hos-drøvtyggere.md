@@ -54,13 +54,21 @@ Vaksinasjonssone som beskrevet i [vedlegg 2](forskrift/2024-09-27-2374/vedlegg2)
 
 ## § 6A. Krav til dyr og avlsmaterialer som flyttes ut av anlegg med positiv test for blåtungevirus i vaksinasjonssonen
 
-Ved flytting av dyr og avlsmaterialer ut av anlegg i vaksinasjonssonen der dyr eller produkter har testet positivt for blåtungevirus på PCR-test:skal dyr holdes innendørs i minst 15 dager og teste negativt på PCR-test tatt tidligst på den femtende dagen etter at dyret ble satt innendørs før det flyttes ut av anlegget.gjelder bestemmelsene for flytting av avlsmateriale fra andre dyr enn storfe i [avlsmaterialeforskrift § 2](forskrift/2022-04-06-630/§2), jf. forordning [(EU) 2020/686](eu/32020r0686) artiklene 16, 22 og 38 med hensyn til blåtunge.
+Ved flytting av dyr og avlsmaterialer ut av anlegg i vaksinasjonssonen der dyr eller produkter har testet positivt for blåtungevirus på PCR-test:
+
+1. skal dyr holdes innendørs i minst 15 dager og teste negativt på PCR-test tatt tidligst på den femtende dagen etter at dyret ble satt innendørs før det flyttes ut av anlegget.
+2. gjelder bestemmelsene for flytting av avlsmateriale fra andre dyr enn storfe i [avlsmaterialeforskrift § 2](forskrift/2022-04-06-630/§2), jf. forordning [(EU) 2020/686](eu/32020r0686) artiklene 16, 22 og 38 med hensyn til blåtunge.
 
 Positiv PCR-test for blåtungevirus som utløser kravene over for dyr og avlsmaterialer, er prøvesvar som ikke er eldre enn tre måneder.
 
 Driftsansvarlig for opprinnelsesanlegget skal journalføre datoene for når dyret ble holdt innendørs før flytting og prøvesvar, i henhold til krav i første ledd.
 
-Kravene i denne bestemmelsen gjelder ikke når:dyr flyttes til fjellbeitedyr sendes til slaktdyr flyttes i tidsrommet 1. desember til 15. mars, foruten drektige storfe og drektige dyr av kamelfamilienavlsmaterialer innsamlet fra dyr i tidsrommet 1. desember til 15. mars.
+Kravene i denne bestemmelsen gjelder ikke når:
+
+1. dyr flyttes til fjellbeite
+2. dyr sendes til slakt
+3. dyr flyttes i tidsrommet 1. desember til 15. mars, foruten drektige storfe og drektige dyr av kamelfamilien
+4. avlsmaterialer innsamlet fra dyr i tidsrommet 1. desember til 15. mars.
 
 > Tilføyd ved forskrift [18 okt 2024 nr. 2505](forskrift/2024-10-18-2505), endret ved forskrift [25 april 2025 nr. 690](forskrift/2025-04-25-690) (i kraft 28 april 2025).
 

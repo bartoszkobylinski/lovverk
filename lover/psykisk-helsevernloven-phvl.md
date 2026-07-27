@@ -15,7 +15,7 @@ xml_hash: "5280d637bd0e8a70728309c1a117f99826a94f0a9b3f741570bda41e25391cff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -138,7 +138,15 @@ Kongen gir forskrifter om delegering av kommunelegens myndighet.
 
 ### § 3-2. Vilkår for vedtak om tvungen observasjon
 
-På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungen observasjon er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Det er overveiende sannsynlig at pasienten fyller vilkårene for tvungent psykisk helsevern etter [§ 3-3](lov/1999-07-02-62/§3-3) nr. 3.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungen observasjon bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
+På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungen observasjon er oppfylt:
+
+1. Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.
+2. Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).
+3. Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
+4. Det er overveiende sannsynlig at pasienten fyller vilkårene for tvungent psykisk helsevern etter [§ 3-3](lov/1999-07-02-62/§3-3) nr. 3.
+5. Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).
+6. Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).
+7. Selv om lovens vilkår ellers er oppfylt, kan tvungen observasjon bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
 
 Tvungen observasjon kan ikke vare ut over 10 dager fra undersøkelsens begynnelse uten pasientens samtykke. Dersom pasientens tilstand tilsier at det er strengt nødvendig, kan fristen forlenges inntil 10 dager etter samtykke fra kontrollkommisjonens leder. Overføring til tvungent psykisk helsevern kan skje før eller ved utløpet av denne fristen, dersom vilkårene for slikt vern er til stede.
 
@@ -146,7 +154,18 @@ Tvungen observasjon kan ikke vare ut over 10 dager fra undersøkelsens begynnels
 
 ### § 3-3. Vilkår for vedtak om tvungent psykisk helsevern
 
-På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1) og eventuell tvungen observasjon etter [§ 3-2](lov/1999-07-02-62/§3-2), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungent psykisk helsevern er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten har en alvorlig sinnslidelse og etablering av tvungent psykisk helsevern er nødvendig for å hindre at vedkommende på grunn av sinnslidelsen entenfår sin utsikt til helbredelse eller vesentlig bedring i betydelig grad redusert, eller det er stor sannsynlighet for at vedkommende i meget nær framtid får sin tilstand vesentlig forverret, ellerutgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungent psykisk helsevern bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
+På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1) og eventuell tvungen observasjon etter [§ 3-2](lov/1999-07-02-62/§3-2), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungent psykisk helsevern er oppfylt:
+
+1. Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.
+2. Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).
+3. Pasienten har en alvorlig sinnslidelse og etablering av tvungent psykisk helsevern er nødvendig for å hindre at vedkommende på grunn av sinnslidelsen enten
+
+   1. får sin utsikt til helbredelse eller vesentlig bedring i betydelig grad redusert, eller det er stor sannsynlighet for at vedkommende i meget nær framtid får sin tilstand vesentlig forverret, eller
+   2. utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.
+4. Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
+5. Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).
+6. Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).
+7. Selv om lovens vilkår ellers er oppfylt, kan tvungent psykisk helsevern bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
 
 > Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
@@ -156,7 +175,13 @@ Den faglig ansvarlige treffer vedtak etter [§§ 3-2](lov/1999-07-02-62/§3-2) o
 
 Vedtaket skal treffes snarest og senest innen 24 timer etter at pasienten er kommet til institusjonen. Vedtaket skal straks nedtegnes.
 
-I vedtaket skal det opplyses om:hvordan vilkårene for vedtaket, jf. [§§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3), er vurdert,vedtaket innebærer en overføring fra frivillig vern, jf. [§ 3-4](lov/1999-07-02-62/§3-4),hvordan fordelene og ulempene ved tvangsinngrepet, herunder forventet behandlingsmessig effekt og risiko for varig skade som følge av tvangsinngrepet, er vurdert,pasientens holdning til og erfaringer med bruk av tvang ogpasientens syn på frivillige tiltak.
+I vedtaket skal det opplyses om:
+
+1. hvordan vilkårene for vedtaket, jf. [§§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3), er vurdert,
+2. vedtaket innebærer en overføring fra frivillig vern, jf. [§ 3-4](lov/1999-07-02-62/§3-4),
+3. hvordan fordelene og ulempene ved tvangsinngrepet, herunder forventet behandlingsmessig effekt og risiko for varig skade som følge av tvangsinngrepet, er vurdert,
+4. pasientens holdning til og erfaringer med bruk av tvang og
+5. pasientens syn på frivillige tiltak.
 
 Dersom pasienten opptrer truende eller utøver vold, skal den faglig ansvarlige for vedtaket vurdere om pasienten utgjør en nærliggende og alvorlig fare for andres liv eller helse, jf. [§§ 3-2 første ledd nr. 3 andre punktum](lov/1999-07-02-62/§3-2/ledd/1/nummer/3/setning/2) og [3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b) og [nr. 4 andre punktum](lov/1999-07-02-62/§3-3/nummer/4/setning/2). Det samme gjelder dersom pasienten tidligere har opptrådt truende eller utøvd vold.
 
@@ -258,11 +283,24 @@ Restriksjoner og tvang skal innskrenkes til det strengt nødvendige, og det skal
 
 Før det treffes vedtak etter [lovens kapittel 4](lov/1999-07-02-62/kap4), skal pasienten gis anledning til å uttale seg der dette er mulig. Opplysningene skal nedtegnes og ligge til grunn for vedtaket. Det skal legges særlig vekt på pasientens uttalelser om tidligere erfaring med bruk av tvang.
 
-Bruk av følgende tiltak skal evalueres sammen med pasienten så snart som mulig etter at tiltaket er avsluttet:skjerming som pasienten motsetter seg, jf. [§ 4-3](lov/1999-07-02-62/§4-3),undersøkelse og behandling uten eget samtykke, jf. [§ 4-4](lov/1999-07-02-62/§4-4),undersøkelse av rom og eiendeler og kroppsvisitasjon etter [§ 4-6](lov/1999-07-02-62/§4-6) første ledd og undersøkelse etter [§ 4A-4](lov/1999-07-02-62/§4a-4) andre og [tredje ledd](lov/1999-07-02-62/§4A-4/ledd/3),rusmiddeltesting uten pasientens samtykke, jf. [§ 4-7a](lov/1999-07-02-62/§4-7a) andre ledd ogbruk av tvangsmidler, jf. [§ 4-8](lov/1999-07-02-62/§4-8).Pasienten skal tilbys minst én samtale om hvordan vedkommende har opplevd tvangsbruken. Pasientens syn på iverksatte tiltak skal journalføres.
+Bruk av følgende tiltak skal evalueres sammen med pasienten så snart som mulig etter at tiltaket er avsluttet:
+
+1. skjerming som pasienten motsetter seg, jf. [§ 4-3](lov/1999-07-02-62/§4-3),
+2. undersøkelse og behandling uten eget samtykke, jf. [§ 4-4](lov/1999-07-02-62/§4-4),
+3. undersøkelse av rom og eiendeler og kroppsvisitasjon etter [§ 4-6](lov/1999-07-02-62/§4-6) første ledd og undersøkelse etter [§ 4A-4](lov/1999-07-02-62/§4a-4) andre og [tredje ledd](lov/1999-07-02-62/§4A-4/ledd/3),
+4. rusmiddeltesting uten pasientens samtykke, jf. [§ 4-7a](lov/1999-07-02-62/§4-7a) andre ledd og
+5. bruk av tvangsmidler, jf. [§ 4-8](lov/1999-07-02-62/§4-8).
+
+Pasienten skal tilbys minst én samtale om hvordan vedkommende har opplevd tvangsbruken. Pasientens syn på iverksatte tiltak skal journalføres.
 
 Ved psykisk helsevern i institusjon skal oppholdet så langt det er forenlig med formålet og den enkeltes tilstand gjennomføres slik at pasientens mulighet til å bestemme over seg selv blir ivaretatt.
 
-Med de begrensninger som er nevnt, skal forholdene legges til rette for at pasientene får:delta i utformingen av institusjonens daglige liv og andre forhold som berører den enkelte pasient,anledning til å dyrke sine private interesser og hobbyer,tilgang til aktivitetstilbud innen rammen av husordensreglene,anledning til daglige uteaktiviteter.
+Med de begrensninger som er nevnt, skal forholdene legges til rette for at pasientene får:
+
+1. delta i utformingen av institusjonens daglige liv og andre forhold som berører den enkelte pasient,
+2. anledning til å dyrke sine private interesser og hobbyer,
+3. tilgang til aktivitetstilbud innen rammen av husordensreglene,
+4. anledning til daglige uteaktiviteter.
 
 Det skal også tas hensyn til den enkeltes livssyn og kulturelle bakgrunn.
 
@@ -292,7 +330,10 @@ Kongen kan gi nærmere forskrifter om vilkårene for skjerming og gjennomføring
 
 En pasient som er under tvungent psykisk helsevern, kan uten eget samtykke undergis slik undersøkelse og behandling som klart er i overensstemmelse med faglig anerkjent psykiatrisk metode og forsvarlig klinisk praksis. Det er et vilkår at pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Vilkår om manglende beslutningskompetanse gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
 
-Det kan ikke gjennomføres undersøkelse og behandling som innebærer et alvorlig inngrep, likevel med følgende unntak:Pasienten kan behandles med legemidler. Slik legemiddelbehandling kan bare gjennomføres med preparater som er registrert her i landet og med vanlig brukte doser. Legemiddelbehandling kan bare gjennomføres med legemidler som har en gunstig virkning som klart oppveier ulempene ved eventuelle bivirkninger.Som ledd i behandling av pasient med alvorlig spiseforstyrrelse, kan det gis ernæring såfremt dette fremstår som et strengt nødvendig behandlingsalternativ.
+Det kan ikke gjennomføres undersøkelse og behandling som innebærer et alvorlig inngrep, likevel med følgende unntak:
+
+1. Pasienten kan behandles med legemidler. Slik legemiddelbehandling kan bare gjennomføres med preparater som er registrert her i landet og med vanlig brukte doser. Legemiddelbehandling kan bare gjennomføres med legemidler som har en gunstig virkning som klart oppveier ulempene ved eventuelle bivirkninger.
+2. Som ledd i behandling av pasient med alvorlig spiseforstyrrelse, kan det gis ernæring såfremt dette fremstår som et strengt nødvendig behandlingsalternativ.
 
 Undersøkelse og behandling kan bare skje når det er forsøkt å oppnå samtykke til undersøkelsen eller behandlingen, eller det er åpenbart at samtykke ikke kan eller vil bli gitt. Dersom det ikke er åpenbart umulig, skal det også vurderes om det kan tilbys andre frivillige tiltak som alternativ til undersøkelse og behandling.
 
@@ -308,7 +349,19 @@ Kongen i statsråd gir forskrifter om undersøkelse og behandling uten eget samt
 
 Den faglig ansvarlige treffer vedtak om undersøkelse og behandling uten eget samtykke etter samråd med annet kvalifisert helsepersonell.
 
-Vedtaket skal straks nedtegnes. I vedtaket skal det opplyses om:hvordan vilkårene for vedtaket, jf. [§ 4-4](lov/1999-07-02-62/§4-4) første til fjerde ledd, er vurdert,hvilke virkemidler som skal kunne brukes for å gjennomføre behandlingen,vedtak om legemiddelbehandling uten eget samtykke er fattet før utløpet av den obligatoriske undersøkelsestiden på fem døgn, jf. [§ 4-4](lov/1999-07-02-62/§4-4) femte ledd, og hva som i så fall er begrunnelsen,hvilken type og dosering av legemidler eller ernæring som skal kunne brukes,hvilken behandlingsmessig effekt legemiddelet forventes å ha og når effekten forventes å inntre,forventede bivirkninger og eventuelt risiko for varig skade som følge av legemidlene,hvordan den samlede tvangsbruken forventes å påvirke pasienten og samarbeidet framover,forhåndserklæringer eller uttalelser om tidligere erfaring med bruk av tvang,pasientens syn på aktuelle frivillige tiltak,oppfatningen til annet kvalifisert helsepersonell oginstitusjonens opplegg for fortløpende evaluering av effekter og bivirkninger av behandlingstiltaket.
+Vedtaket skal straks nedtegnes. I vedtaket skal det opplyses om:
+
+1. hvordan vilkårene for vedtaket, jf. [§ 4-4](lov/1999-07-02-62/§4-4) første til fjerde ledd, er vurdert,
+2. hvilke virkemidler som skal kunne brukes for å gjennomføre behandlingen,
+3. vedtak om legemiddelbehandling uten eget samtykke er fattet før utløpet av den obligatoriske undersøkelsestiden på fem døgn, jf. [§ 4-4](lov/1999-07-02-62/§4-4) femte ledd, og hva som i så fall er begrunnelsen,
+4. hvilken type og dosering av legemidler eller ernæring som skal kunne brukes,
+5. hvilken behandlingsmessig effekt legemiddelet forventes å ha og når effekten forventes å inntre,
+6. forventede bivirkninger og eventuelt risiko for varig skade som følge av legemidlene,
+7. hvordan den samlede tvangsbruken forventes å påvirke pasienten og samarbeidet framover,
+8. forhåndserklæringer eller uttalelser om tidligere erfaring med bruk av tvang,
+9. pasientens syn på aktuelle frivillige tiltak,
+10. oppfatningen til annet kvalifisert helsepersonell og
+11. institusjonens opplegg for fortløpende evaluering av effekter og bivirkninger av behandlingstiltaket.
 
 Pasienten og hans eller hennes nærmeste pårørende kan påklage vedtak etter paragrafen her til statsforvalteren.
 
@@ -318,7 +371,10 @@ Kongen i statsråd gir forskrifter om vedtak og klage etter paragrafen her.
 
 ### § 4-4 b. Elektrokonvulsiv behandling uten eget samtykke
 
-Den faglig ansvarlige kan, etter samråd med annet kvalifisert helsepersonell, treffe vedtak om at en pasient som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), kan gis elektrokonvulsiv behandling dersom:unnlatelse av å gjennomføre behandlingen i løpet av få uker vil medføre alvorlig fare for pasientens liv, ogpasienten ikke motsetter seg slik behandling.
+Den faglig ansvarlige kan, etter samråd med annet kvalifisert helsepersonell, treffe vedtak om at en pasient som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), kan gis elektrokonvulsiv behandling dersom:
+
+1. unnlatelse av å gjennomføre behandlingen i løpet av få uker vil medføre alvorlig fare for pasientens liv, og
+2. pasienten ikke motsetter seg slik behandling.
 
 Vedtaket skal straks nedtegnes, og det skal opplyses der hvordan vilkårene etter første ledd er vurdert, og om oppfatningen til annet kvalifisert helsepersonell.
 
@@ -382,7 +438,12 @@ Kongen kan gi nærmere forskrifter om gjennomføring av rusmiddeltesting av biol
 
 Tvangsmidler skal bare brukes overfor pasienten når dette er uomgjengelig nødvendig for å hindre ham i å skade seg selv eller andre, eller for å avverge betydelig skade på bygninger, klær, inventar eller andre ting. Tvangsmidler skal bare brukes når lempeligere midler har vist seg å være åpenbart forgjeves eller utilstrekkelige.
 
-Som tvangsmiddel kan anvendes:mekaniske tvangsmidler som hindrer pasientens bevegelsesfrihet, herunder belter og remmer samt skadeforebyggende spesialklær.kortvarig anbringelse bak låst eller stengt dør uten personale til stede.enkeltstående bruk av korttidsvirkende legemidler i beroligende eller bedøvende hensikt.kortvarig fastholding.
+Som tvangsmiddel kan anvendes:
+
+1. mekaniske tvangsmidler som hindrer pasientens bevegelsesfrihet, herunder belter og remmer samt skadeforebyggende spesialklær.
+2. kortvarig anbringelse bak låst eller stengt dør uten personale til stede.
+3. enkeltstående bruk av korttidsvirkende legemidler i beroligende eller bedøvende hensikt.
+4. kortvarig fastholding.
 
 For pasienter under 16 år er det ikke adgang til å bruke tvangsmidler som nevnt i bokstavene a og b i foregående ledd.
 
@@ -494,7 +555,13 @@ Den faglig ansvarlige kan vedta innskrenkninger i pasientens forbindelse med omv
 
 Innskrenkningene må stå i rimelig forhold til hva som er nødvendig for å ivareta sikkerheten.
 
-Innskrenkninger kan gå ut på at:besøk må foregå med personell til stede eller med glassvegg som skiller pasient og besøkende,telefonsamtaler må forhåndsgodkjennes, kan avlyttes og avbrytes,bruk av elektroniske kommunikasjonsmidler må forhåndsgodkjennes, kan overvåkes og avbrytes,post åpnes, kontrolleres og helt eller delvis kan inndras,godkjent tolk oversetter kommunikasjon, dersom denne er på et annet språk enn det personellet behersker.
+Innskrenkninger kan gå ut på at:
+
+1. besøk må foregå med personell til stede eller med glassvegg som skiller pasient og besøkende,
+2. telefonsamtaler må forhåndsgodkjennes, kan avlyttes og avbrytes,
+3. bruk av elektroniske kommunikasjonsmidler må forhåndsgodkjennes, kan overvåkes og avbrytes,
+4. post åpnes, kontrolleres og helt eller delvis kan inndras,
+5. godkjent tolk oversetter kommunikasjon, dersom denne er på et annet språk enn det personellet behersker.
 
 Det kan i husordensreglementet fastsettes begrensninger med hensyn til hvilke tider og med hvilken varighet kommunikasjon kan finne sted.
 
@@ -608,7 +675,13 @@ Nektelse av kontrolltiltak, unndragelse eller forsøk på unndragelse fra kontro
 
 ### § 4A-13. Forbindelse med omverdenen
 
-Opphold i enhet for særlig høyt sikkerhetsnivå innebærer følgende innskrenkninger i pasientens forbindelse med omverdenen:besøk skal alltid foregå med personell til stede eller med glassvegg som skiller pasient og besøkendetelefonsamtaler skal forhåndsgodkjennes og kan avlyttes og avbrytesbruk av elektroniske kommunikasjonsmidler skal forhåndsgodkjennes, skal overvåkes og kan avbrytespost skal åpnes og kontrolleres og kan helt eller delvis inndrasgodkjent tolk oversetter kommunikasjon, dersom denne er på et annet språk enn det personellet behersker.
+Opphold i enhet for særlig høyt sikkerhetsnivå innebærer følgende innskrenkninger i pasientens forbindelse med omverdenen:
+
+1. besøk skal alltid foregå med personell til stede eller med glassvegg som skiller pasient og besøkende
+2. telefonsamtaler skal forhåndsgodkjennes og kan avlyttes og avbrytes
+3. bruk av elektroniske kommunikasjonsmidler skal forhåndsgodkjennes, skal overvåkes og kan avbrytes
+4. post skal åpnes og kontrolleres og kan helt eller delvis inndras
+5. godkjent tolk oversetter kommunikasjon, dersom denne er på et annet språk enn det personellet behersker.
 
 Innskrenkninger som nevnt i første ledd gjelder ikke retten til å kommunisere med offentlig myndighetsrepresentant, diplomatisk eller konsulær representant, pasientens advokat, den som opptrer på vegne av pasienten i klagesak og prest eller tilsvarende sjelesørger.
 
@@ -642,13 +715,21 @@ Det regionale helseforetaket har ansvaret for at det tvungne psykiske helseverne
 
 ### § 5-2a. Nasjonal koordineringsenhet
 
-Nasjonal koordineringsenhet for dom til tvungent psykisk helsevern skal:utarbeide og oppdatere retningslinjer for å sikre nødvendig samhandling og oppfølging mellom helse- og omsorgstjenesten og justissektoren,veilede helseforetakene ved valg av behandlingssted ogføre oversikt som beskrevet i [§ 5-2b](lov/1999-07-02-62/§5-2b).
+Nasjonal koordineringsenhet for dom til tvungent psykisk helsevern skal:
+
+1. utarbeide og oppdatere retningslinjer for å sikre nødvendig samhandling og oppfølging mellom helse- og omsorgstjenesten og justissektoren,
+2. veilede helseforetakene ved valg av behandlingssted og
+3. føre oversikt som beskrevet i [§ 5-2b](lov/1999-07-02-62/§5-2b).
 
 > Tilføyd ved [lov 22 juni 2012 nr. 48](lov/2012-06-22-48) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 575](forskrift/2012-06-22-575)).
 
 ### § 5-2b. Nasjonal administrativ oversikt over tiltalte og domfelte til tvungent psykisk helsevern
 
-Det skal etableres en nasjonal oversikt over tiltalte og domfelte til tvungent psykisk helsevern. Opplysningene kan registreres og på annen måte behandles uten samtykke fra den registrerte. Formålet med oversikten er å:gi helse- og omsorgstjenesten nødvendig informasjon for å kunne planlegge tjenestetilbudet til de domfelte,gi nødvendige opplysninger om de tiltalte og domfelte, slik at helse- og omsorgstjenesten og justissektoren kan ivareta sine lovpålagte plikter, herunder ansvaret for samfunnsvernet oggi koordineringsenheten nødvendig informasjon om tiltalte og domfelte for bedre å sikre nødvendig samhandling mellom helse- og omsorgstjenesten og justissektoren.
+Det skal etableres en nasjonal oversikt over tiltalte og domfelte til tvungent psykisk helsevern. Opplysningene kan registreres og på annen måte behandles uten samtykke fra den registrerte. Formålet med oversikten er å:
+
+1. gi helse- og omsorgstjenesten nødvendig informasjon for å kunne planlegge tjenestetilbudet til de domfelte,
+2. gi nødvendige opplysninger om de tiltalte og domfelte, slik at helse- og omsorgstjenesten og justissektoren kan ivareta sine lovpålagte plikter, herunder ansvaret for samfunnsvernet og
+3. gi koordineringsenheten nødvendig informasjon om tiltalte og domfelte for bedre å sikre nødvendig samhandling mellom helse- og omsorgstjenesten og justissektoren.
 
 Det skal bare registreres opplysninger som er nødvendige og relevante for å oppfylle formålet.
 

@@ -30,7 +30,11 @@ Vedtaket kan gjelda alle slike fristar eller berre sume og kan gjevast for heile
 
 ## § 2.
 
-Utan Kongen så fastset gjeld vedtaket ikkjefrist for å yta etter ein avtale,frist etter [lov 20. mai 1988 nr. 32](lov/1988-05-20-32) om militær disiplinærmyndighet ogserleg frist for krigstid etter lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker kapittel [33](lov/1981-05-22-25/kap33) til 36.
+Utan Kongen så fastset gjeld vedtaket ikkje
+
+1. frist for å yta etter ein avtale,
+2. frist etter [lov 20. mai 1988 nr. 32](lov/1988-05-20-32) om militær disiplinærmyndighet og
+3. serleg frist for krigstid etter lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker kapittel [33](lov/1981-05-22-25/kap33) til 36.
 
 > Endra med [lov 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
 

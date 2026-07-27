@@ -34,7 +34,11 @@ Forskriften gjelder ved jakt på reinsdyr som er eiet av virksomheter som driver
 
 Jakt på dyr omfattet av virkeområdet i [§ 2](forskrift/2020-01-31-100/§2), skal utøves på en dyrevelferdsmessig forsvarlig måte i tråd med [dyrevelferdslovens § 20](lov/2009-06-19-97/§20) første ledd.
 
-Jakt skal utøves på slik måte at dyr ikke utsettes for unødige lidelser. Herunder må følgende vilkår være oppfylt:Utøver av jakt må ha fylt 18 år, ha bestått jegerprøve og skyteprøve for storviltjakt i henhold til [forskrift om utøvelse av jakt, felling og fangst § 5](forskrift/2002-03-22-313/§5), [§ 8](forskrift/2002-03-22-313/§8) og [§ 18](forskrift/2002-03-22-313/§18),Dersom konsesjonshaver ønsker å tillate opplæringsjakt, må vilkårene i [§ 6](forskrift/2020-01-31-100/§6) i den samme forskriften oppfylles, ogBruk av våpen og ammunisjon må skje i henhold til [forskrift om utøvelse av jakt, felling og fangst § 15](forskrift/2002-03-22-313/§15) og [§ 16](forskrift/2002-03-22-313/§16).
+Jakt skal utøves på slik måte at dyr ikke utsettes for unødige lidelser. Herunder må følgende vilkår være oppfylt:
+
+1. Utøver av jakt må ha fylt 18 år, ha bestått jegerprøve og skyteprøve for storviltjakt i henhold til [forskrift om utøvelse av jakt, felling og fangst § 5](forskrift/2002-03-22-313/§5), [§ 8](forskrift/2002-03-22-313/§8) og [§ 18](forskrift/2002-03-22-313/§18),
+2. Dersom konsesjonshaver ønsker å tillate opplæringsjakt, må vilkårene i [§ 6](forskrift/2020-01-31-100/§6) i den samme forskriften oppfylles, og
+3. Bruk av våpen og ammunisjon må skje i henhold til [forskrift om utøvelse av jakt, felling og fangst § 15](forskrift/2002-03-22-313/§15) og [§ 16](forskrift/2002-03-22-313/§16).
 
 Under jakten skal følgende dokumentasjon medbringes: Gyldig våpenkort og dokumentasjon for bestått jegerprøve og skyteprøve for storvilt.
 

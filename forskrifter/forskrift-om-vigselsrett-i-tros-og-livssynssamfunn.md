@@ -26,11 +26,20 @@ eu_basis: []
 
 Registrerte tros- og livssynssamfunn med godkjent vigselsritual kan søke om vigselsrett for ett eller flere medlemmer. En søknad om vigselsrett skal sendes til statsforvalteren ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan tillate at søknader fremmes på annen måte.
 
-Medlemmetskal være mellom 23 og 75 årskal være bosatt i Norgekan ikke samtidig være vigsler i et annet tros- eller livssynssamfunnskal ha tilstrekkelig kjennskap til det norske samfunnet og tilstrekkelige kunnskaper i norsk til å kunne utføre vigslerens oppgaver fastsatt i [ekteskapsloven](lov/1991-07-04-47) eller med hjemmel i denskal avgi en erklæring på fastsatt skjema om at tjenesten som vigsler vil bli utført i samsvar med reglene fastsatt i [ekteskapsloven](lov/1991-07-04-47) eller med hjemmel i den.
+Medlemmet
+
+1. skal være mellom 23 og 75 år
+2. skal være bosatt i Norge
+3. kan ikke samtidig være vigsler i et annet tros- eller livssynssamfunn
+4. skal ha tilstrekkelig kjennskap til det norske samfunnet og tilstrekkelige kunnskaper i norsk til å kunne utføre vigslerens oppgaver fastsatt i [ekteskapsloven](lov/1991-07-04-47) eller med hjemmel i den
+5. skal avgi en erklæring på fastsatt skjema om at tjenesten som vigsler vil bli utført i samsvar med reglene fastsatt i [ekteskapsloven](lov/1991-07-04-47) eller med hjemmel i den.
 
 Statsforvalteren kan i særlige tilfeller gjøre unntak fra andre ledd bokstav a.
 
-Statsforvalteren kan nekte å godkjenne medlemmet som vigsler dersomdet vil virke åpenbart støtende eller det er i strid med offentlige interesser å tildele medlemmet vigselsretttros- eller livssynssamfunnet allerede har mange nok vigslere.
+Statsforvalteren kan nekte å godkjenne medlemmet som vigsler dersom
+
+1. det vil virke åpenbart støtende eller det er i strid med offentlige interesser å tildele medlemmet vigselsrett
+2. tros- eller livssynssamfunnet allerede har mange nok vigslere.
 
 ## § 2. Opphør og tilbaketrekning av vigselsrett
 
@@ -38,7 +47,11 @@ Vigselsretten opphører hvis tros- eller livssynssamfunnet oppløses eller taper
 
 Vigselsretten opphører når vigsleren fyller 75 år. Statsforvalteren kan etter søknad fra tros- eller livssynssamfunnet og en konkret vurdering dispensere fra alderskravet for inntil ett år om gangen. En søknad om dispensasjon fra alderskravet skal sendes statsforvalteren senest tre måneder før vigsleren fyller 75 år og deretter senest tre måneder før dispensasjonsperioden løper ut, ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan godta at søknader fremmes på annen måte.
 
-Tros- eller livssynssamfunnet skal gi melding til statsforvalteren når vigslerener uønsket som vigsler av tros- eller livssynssamfunnetselv ønsker å fratre som vigslerikke lenger er medlem i tros- eller livssynssamfunnet.
+Tros- eller livssynssamfunnet skal gi melding til statsforvalteren når vigsleren
+
+1. er uønsket som vigsler av tros- eller livssynssamfunnet
+2. selv ønsker å fratre som vigsler
+3. ikke lenger er medlem i tros- eller livssynssamfunnet.
 
 Meldingen etter tredje ledd skal gis ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan tillate at meldingen gis på annen måte. Statsforvalteren skal uten unødig opphold trekke tilbake vigselsretten.
 

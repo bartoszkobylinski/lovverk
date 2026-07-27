@@ -32,7 +32,10 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (2) Forskningsarbeidet og doktoravhandlingen er utført uten formell tilknytning til et av universitetets doktorgradsprogrammer.
 
-(3) Dr.philos.-graden tildeles på grunnlag av:vitenskapelig avhandlingdoktorgradsprøve.
+(3) Dr.philos.-graden tildeles på grunnlag av:
+
+1. vitenskapelig avhandling
+2. doktorgradsprøve.
 
 (4) Doktorgradsprøven består av to prøveforelesninger og et offentlig forsvar av den vitenskapelige avhandlingen, disputas. Den ene prøveforelesningen skal være over et tildelt emne, den andre etter et selvvalgt emne.
 
@@ -48,7 +51,11 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (1) Rett til å fremstille seg til prøven for dr.philos.-graden har den som er statsborger i et nordisk land, og har avlagt eksamen av høyere grad.
 
-(2) Søkere som ikke er nordiske statsborgere kan etter begrunnet og dokumentert søknad gis anledning til å fremstille seg for doktorgradsprøven dersom vedkommende har oppholdstillatelse, eller dersom avhandlingen tilfredsstiller ett eller flere av vilkårene nedenfor:behandler emner eller bygger på materiale som har direkte tilknytning til Norgehar sterk tilknytning til norsk forskning innen fagområdeter utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
+(2) Søkere som ikke er nordiske statsborgere kan etter begrunnet og dokumentert søknad gis anledning til å fremstille seg for doktorgradsprøven dersom vedkommende har oppholdstillatelse, eller dersom avhandlingen tilfredsstiller ett eller flere av vilkårene nedenfor:
+
+1. behandler emner eller bygger på materiale som har direkte tilknytning til Norge
+2. har sterk tilknytning til norsk forskning innen fagområdet
+3. er utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
 
 (3) Fakultetet kan i særlige tilfeller gi søkere som ikke har avlagt eksamen av høyere grad adgang til å fremstille seg til doktorgradsprøven dersom denne kan godtgjøre tilsvarende kvalifikasjoner.
 
@@ -62,7 +69,17 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (1) Søknad om bedømming av avhandlingen sendes til forskningsadministrasjonen ved Universitetet i Sørøst-Norge.
 
-(2) Søknaden skal inneholde:avhandlingen leveres i fem eksemplarerdokumentasjon på tidligere utdanning eller dokumentasjon på kvalifikasjoner tilsvarende høyere utdanningoversikt over tidligere vitenskapelige arbeiderdokumentasjon på at nødvendige tillatelser er innhentetmedforfattererklæringererklæring om at avhandlingen ikke er til vurdering ved en annen utdanningsinstitusjon, eller inngår i en tidligere godkjent graderklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første gang, eller om den leveres til bedømmelse i omarbeidet versjon jf. [§ 11](forskrift/2019-11-21-2304/§11)begrunnelse for søknad om å innlevere avhandlingen på annet språk enn norsk, svensk, dansk eller engelskdokumentasjon i henhold til [§ 6](forskrift/2019-11-21-2304/§6) sjette ledd.
+(2) Søknaden skal inneholde:
+
+1. avhandlingen leveres i fem eksemplarer
+2. dokumentasjon på tidligere utdanning eller dokumentasjon på kvalifikasjoner tilsvarende høyere utdanning
+3. oversikt over tidligere vitenskapelige arbeider
+4. dokumentasjon på at nødvendige tillatelser er innhentet
+5. medforfattererklæringer
+6. erklæring om at avhandlingen ikke er til vurdering ved en annen utdanningsinstitusjon, eller inngår i en tidligere godkjent grad
+7. erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første gang, eller om den leveres til bedømmelse i omarbeidet versjon jf. [§ 11](forskrift/2019-11-21-2304/§11)
+8. begrunnelse for søknad om å innlevere avhandlingen på annet språk enn norsk, svensk, dansk eller engelsk
+9. dokumentasjon i henhold til [§ 6](forskrift/2019-11-21-2304/§6) sjette ledd.
 
 (3) Fakultetet gis fullmakt til å beslutte om det skal innhentes supplerende dokumentasjon.
 
@@ -108,7 +125,14 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 ## § 8. Oppnevning av bedømmelseskomité
 
-(1) Fakultetet oppnevner en sakkyndig komité på minst tre medlemmer. Bedømmelseskomitéen skal som hovedregel settes sammen slik at:begge kjønn er representertminst to av medlemmene skal være uten tilknytning til Universitetet i Sørøst-Norgeminst ett av medlemmene bør komme fra en utenlandsk institusjonminst ett av medlemmene er fast ansatt ved Universitetet i Sørøst-Norgealle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomitéen er eksterne medlemmer.
+(1) Fakultetet oppnevner en sakkyndig komité på minst tre medlemmer. Bedømmelseskomitéen skal som hovedregel settes sammen slik at:
+
+1. begge kjønn er representert
+2. minst to av medlemmene skal være uten tilknytning til Universitetet i Sørøst-Norge
+3. minst ett av medlemmene bør komme fra en utenlandsk institusjon
+4. minst ett av medlemmene er fast ansatt ved Universitetet i Sørøst-Norge
+5. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+6. flertallet i bedømmelseskomitéen er eksterne medlemmer.
 
 (2) Fakultetet oppnevner komitéens leder.
 

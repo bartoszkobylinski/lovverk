@@ -40,7 +40,12 @@ Krav om etablering av internkontroll gjelder ikke dersom omsetningen er i en for
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås ved:*internkontroll:* systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i næringsmiddellovgivingen.*Næringsmiddellovgivningen:* regler som har til formål å sikre helsemessige trygge næringsmidler og fremme helse, kvalitet og forbrukerhensyn i næringsmiddelvirksomheter som produserer, pakker, lagrer, transporterer, omsetter eller importerer næringsmidler, herunder fisk og øvrige animalske næringsmidler.*rutine:* en alminnelig akseptert måte å utføre en aktivitet på.*avvik:* manglende oppfyllelse av krav fastsatt i lov og forskrift.
+I denne forskrift forstås ved:
+
+1. *internkontroll:* systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i næringsmiddellovgivingen.
+2. *Næringsmiddellovgivningen:* regler som har til formål å sikre helsemessige trygge næringsmidler og fremme helse, kvalitet og forbrukerhensyn i næringsmiddelvirksomheter som produserer, pakker, lagrer, transporterer, omsetter eller importerer næringsmidler, herunder fisk og øvrige animalske næringsmidler.
+3. *rutine:* en alminnelig akseptert måte å utføre en aktivitet på.
+4. *avvik:* manglende oppfyllelse av krav fastsatt i lov og forskrift.
 
 > Endret ved [forskrifter 12 nov 1997 nr. 1240](forskrift/1997-11-12-1240) (i kraft 1 jan 1998), [15 jan 2004 nr. 205](forskrift/2004-01-15-205).
 
@@ -62,7 +67,17 @@ Skriftlig dokumentasjon etter denne forskriften skal minst omfatte [§ 5](forskr
 
 ### § 5. Internkontrollens innhold
 
-Internkontrollen skal tilpasses virksomhetens art, aktivitet, risikoforhold og størrelse i det omfang som er nødvendig for å overholde krav i næringsmiddellovgivingen. Internkontrollen skal inneholde:oversikt over de krav i næringsmiddellovgivingen som gjelder for virksomheten,oversikt over hvordan virksomheten er organisert,rutiner virksomheten følger, for å sikre overholdelse av næringsmiddellovgivingens krav. Ansvar og myndighet for utførelse skal fastlegges,rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,registreringer virksomheten finner nødvendig å oppbevare og opplysning om hvor lenge de skal være tilgjengelig for tilsynsmyndigheten,rutine for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll, for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av næringsmiddellovgivingen,rutine for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen skal tilpasses virksomhetens art, aktivitet, risikoforhold og størrelse i det omfang som er nødvendig for å overholde krav i næringsmiddellovgivingen. Internkontrollen skal inneholde:
+
+1. oversikt over de krav i næringsmiddellovgivingen som gjelder for virksomheten,
+2. oversikt over hvordan virksomheten er organisert,
+3. rutiner virksomheten følger, for å sikre overholdelse av næringsmiddellovgivingens krav. Ansvar og myndighet for utførelse skal fastlegges,
+4. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,
+5. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+6. registreringer virksomheten finner nødvendig å oppbevare og opplysning om hvor lenge de skal være tilgjengelig for tilsynsmyndigheten,
+7. rutine for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll, for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av næringsmiddellovgivingen,
+8. rutine for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 > Endret ved [forskrifter 12 nov 1997 nr. 1240](forskrift/1997-11-12-1240) (i kraft 1 jan 1998), [22 des 2008 nr. 1635](forskrift/2008-12-22-1635) som endret ved [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010).
 

@@ -15,7 +15,7 @@ xml_hash: "83f18e7eac9baa4399fbdbc657aef0d80c7e0ae770158048e7da039482d6858f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,11 +68,26 @@ eu_basis: []
 
 ### § 5. Opptak og rangering til masterprogrammer og videreutdanninger på masternivå
 
-(1) Minstekravet for opptak (jf.) [uhl. § 8-1 sjette ledd](lov/2024-03-08-9/§8-1/ledd/6) til masterprogram er karakteren C. Det regnes et snitt av alle emner med bokstavkarakterer, med vekting ut fra emnenes omfang i studiepoeng. Snittet beregnes med en desimal etter ordinære avrundingsregler.Det kan gjøres unntak fra dette kravet for opptak på erfaringsbasert master. Dette skal i tilfelle beskrives i studieplanen.
+(1) Minstekravet for opptak (jf.) [uhl. § 8-1 sjette ledd](lov/2024-03-08-9/§8-1/ledd/6) til masterprogram er karakteren C. Det regnes et snitt av alle emner med bokstavkarakterer, med vekting ut fra emnenes omfang i studiepoeng. Snittet beregnes med en desimal etter ordinære avrundingsregler.
+
+Det kan gjøres unntak fra dette kravet for opptak på erfaringsbasert master. Dette skal i tilfelle beskrives i studieplanen.
 
 (2) Opptakskravet framgår av rammeplan eller studieplan for det aktuelle studiet.
 
-(3) Dersom det er flere søkere enn antall studieplasser, rangeres søkeren innbyrdes etter oppnådde konkurransepoeng. Konkurransepoeng er summen av:Poeng for minstekravsutdanning – karakterpoeng. For bokstavkarakterer benyttes følgende omregningsskala for utregning av vektet gjennomsnitt: A=5, B=4, C=3, D=2, E=1. Tallkarakterer etter gammel standard regnes om etter gjeldende omregningstabell.Eventuelle tilleggspoeng. Hvilke tilleggspoeng som kan oppnås fastsettes i studieplanen.Ved poenglikhet avgjøres rekkefølgen ved alder, med den eldste først, spesifisert etter fødselsdato.Dersom et studieprogram har mer enn en kvote vil beskrivelse av disse framgå av studieplanen.Individuell og skjønnsmessig vurdering legges til grunn når det ikke finne omregningstabell for en karakterskala, eller det ikke er angitt karakterer eller studiepoeng på vitnemål.Søkere med utenlandsk utdanning vurderes med grunnlag i vitnemål og dokumentasjon av utdanningsbakgrunn. Det foretas en individuell og skjønnsmessig vurdering når det ikke er mulig å rangere søkerne på grunnlag av karakterer.Rektor kan fastsette andre rangeringsregler for opptak.
+(3) Dersom det er flere søkere enn antall studieplasser, rangeres søkeren innbyrdes etter oppnådde konkurransepoeng. Konkurransepoeng er summen av:
+
+1. Poeng for minstekravsutdanning – karakterpoeng. For bokstavkarakterer benyttes følgende omregningsskala for utregning av vektet gjennomsnitt: A=5, B=4, C=3, D=2, E=1. Tallkarakterer etter gammel standard regnes om etter gjeldende omregningstabell.
+2. Eventuelle tilleggspoeng. Hvilke tilleggspoeng som kan oppnås fastsettes i studieplanen.
+
+Ved poenglikhet avgjøres rekkefølgen ved alder, med den eldste først, spesifisert etter fødselsdato.
+
+Dersom et studieprogram har mer enn en kvote vil beskrivelse av disse framgå av studieplanen.
+
+Individuell og skjønnsmessig vurdering legges til grunn når det ikke finne omregningstabell for en karakterskala, eller det ikke er angitt karakterer eller studiepoeng på vitnemål.
+
+Søkere med utenlandsk utdanning vurderes med grunnlag i vitnemål og dokumentasjon av utdanningsbakgrunn. Det foretas en individuell og skjønnsmessig vurdering når det ikke er mulig å rangere søkerne på grunnlag av karakterer.
+
+Rektor kan fastsette andre rangeringsregler for opptak.
 
 (4) Studieutvalget fastsetter retningslinjer for studentopptak etter [uhl. § 8-1 sjette ledd](lov/2024-03-08-9/§8-1/ledd/6). Dekan avgjør hvilke fag som kan godkjennes som grunnlag for opptak. Opptakskomiteen avgjør etter en samlet vurdering om søkeren er kvalifisert for opptak.
 
@@ -112,7 +127,11 @@ Høgskolen i Molde kan tildele grader og yrkesutdanninger under [forskrift 16. d
 
 (1) Graden bachelor gjelder for 3-årige utdanninger på 180 studiepoeng. Minst 60 av studiepoengene må være avlagt ved HiM.
 
-(2) Grunnlaget for graden skal omfatte ett av følgende:Studieprogram av minimum 180 studiepoengs omfang, som i henhold til nasjonal rammeplan eller vedtak i styret gir bachelorgrad.Yrkesrettet studieløp med omfang på minst 120 studiepoeng, samt studieprogram eller emnegruppe på til sammen 60 studiepoengs omfang.Selvkomponert, tverrfaglig studieløp med en integrert, yrkesrettet utdanning eller fordypning i emner eller emnegruppe av minst 80 studiepoengs omfang, kombinert med emner eller emnegruppe av minst 30 studiepoeng i ett annet fagområde. De resterende studiepoengene kan tas innen frittstående emner. Emner som skal inngå i grunnlaget for graden må ha et omfang på minimum 7,5 studiepoeng. Mindre enheter kan godkjennes av dekan dersom de samlet utgjør minimum 10 studiepoeng innenfor samme fag/fagområde.
+(2) Grunnlaget for graden skal omfatte ett av følgende:
+
+1. Studieprogram av minimum 180 studiepoengs omfang, som i henhold til nasjonal rammeplan eller vedtak i styret gir bachelorgrad.
+2. Yrkesrettet studieløp med omfang på minst 120 studiepoeng, samt studieprogram eller emnegruppe på til sammen 60 studiepoengs omfang.
+3. Selvkomponert, tverrfaglig studieløp med en integrert, yrkesrettet utdanning eller fordypning i emner eller emnegruppe av minst 80 studiepoengs omfang, kombinert med emner eller emnegruppe av minst 30 studiepoeng i ett annet fagområde. De resterende studiepoengene kan tas innen frittstående emner. Emner som skal inngå i grunnlaget for graden må ha et omfang på minimum 7,5 studiepoeng. Mindre enheter kan godkjennes av dekan dersom de samlet utgjør minimum 10 studiepoeng innenfor samme fag/fagområde.
 
 (3) Studenter som har fullført treårig utdanning av 180 studiepoengs omfang før 1. januar 2003 vil ikke få tildelt bachelorvitnemål.
 
@@ -150,7 +169,11 @@ Krav til graden ph.d. (inkludert opptak, gjennomføring, fullføring, fellesgrad
 
 ### § 14. Studierett og studieprogresjon
 
-(1) Den som har akseptert tilbud om studieplass, har studierett i henhold til normert studietid for det aktuelle studieprogrammet han eller hun er tatt opp til.Studieretten gir rett til deltakelse i all organisert undervisning og vurdering i tråd med studieplan og emnebeskrivelser i det studieprogrammet studenten er tatt opp til.Studieretten betinger at studenten registrerer seg og betaler pålagte avgifter innen fastsatt frist. Dersom studieprogrammet krever utdanningsplan, må studenten bekrefte utdanningsplanen hvert semester innen fastsatte frister, jf. [uhl. § 11-3](lov/2024-03-08-9/§11-3).
+(1) Den som har akseptert tilbud om studieplass, har studierett i henhold til normert studietid for det aktuelle studieprogrammet han eller hun er tatt opp til.
+
+Studieretten gir rett til deltakelse i all organisert undervisning og vurdering i tråd med studieplan og emnebeskrivelser i det studieprogrammet studenten er tatt opp til.
+
+Studieretten betinger at studenten registrerer seg og betaler pålagte avgifter innen fastsatt frist. Dersom studieprogrammet krever utdanningsplan, må studenten bekrefte utdanningsplanen hvert semester innen fastsatte frister, jf. [uhl. § 11-3](lov/2024-03-08-9/§11-3).
 
 (2) Retten til å fortsette et studium kan være regulert av særskilte krav for hvert enkelt studium. Dette skal være beskrevet i studieplanen.
 
@@ -168,13 +191,23 @@ Krav til graden ph.d. (inkludert opptak, gjennomføring, fullføring, fellesgrad
 
 ### § 16. Opphør av studierett
 
-(1) Studieretten opphører når studiet er fullført og bestått. Det samme gjelder dersom studentenselv trekker seg fra studietved forespørsel ikke fremlegger original dokumentasjon eller vitnemål brukt i opptaket innen gitte fristerikke oppfyller vilkårene i [§ 14](forskrift/2015-05-07-540/§14)i løpet av et år ikke har avlagt studiepoeng, og ikke er innvilget permisjon.
+(1) Studieretten opphører når studiet er fullført og bestått. Det samme gjelder dersom studenten
+
+- selv trekker seg fra studiet
+- ved forespørsel ikke fremlegger original dokumentasjon eller vitnemål brukt i opptaket innen gitte frister
+- ikke oppfyller vilkårene i [§ 14](forskrift/2015-05-07-540/§14)
+- i løpet av et år ikke har avlagt studiepoeng, og ikke er innvilget permisjon.
 
 > Endret ved forskrift [10 des 2024 nr. 3172](forskrift/2024-12-10-3172) (tidligere § 15).
 
 ### § 17. Tap av studierett
 
-(1) Studieretten kan tapes når en studentikke kan fullføre studieprogrammet i inntil to år i tillegg til normert studietid, eksklusive permisjoner. Det kan avtales individuell utdanningsplan som går utover dettehar brukt opp sine forsøk til eksamen i et emne som ifølge studieplanen skal være bestått for å kunne fortsette studiethar gjennomført samme obligatoriske praksis to ganger uten bestått resultat.studenten får opptak til et annet studieprogram ved Høgskolen, og det ikke er gode faglige grunner for at flere studieretter finnes parallelt.
+(1) Studieretten kan tapes når en student
+
+- ikke kan fullføre studieprogrammet i inntil to år i tillegg til normert studietid, eksklusive permisjoner. Det kan avtales individuell utdanningsplan som går utover dette
+- har brukt opp sine forsøk til eksamen i et emne som ifølge studieplanen skal være bestått for å kunne fortsette studiet
+- har gjennomført samme obligatoriske praksis to ganger uten bestått resultat.
+- studenten får opptak til et annet studieprogram ved Høgskolen, og det ikke er gode faglige grunner for at flere studieretter finnes parallelt.
 
 (2) Der det fattes vedtak om utestengelse gjelder egne bestemmelser jf. [universitets- og høyskoleloven kapittel 12](lov/2024-03-08-9/kap12).
 
@@ -186,7 +219,14 @@ Krav til graden ph.d. (inkludert opptak, gjennomføring, fullføring, fellesgrad
 
 (1) Studenter må sende skriftlig begrunnet søknad om permisjon fra studiet.
 
-(2) Studenter har rett til permisjon:I forbindelse med svangerskap, fødsel og omsorg for barn, jf. [uhl. § 10-6](lov/2024-03-08-9/§10-6)Ved sykdom som ikke gjør det mulig å fortsette studieneDersom samboer mv. eller barn er alvorlig sykeNår de er i tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17)Når de har verv i studentpolitiske eller folkevalgte organer, jf. [uhl. § 10-7](lov/2024-03-08-9/§10-7)Dersom det foreligger andre særlige grunner.
+(2) Studenter har rett til permisjon:
+
+- I forbindelse med svangerskap, fødsel og omsorg for barn, jf. [uhl. § 10-6](lov/2024-03-08-9/§10-6)
+- Ved sykdom som ikke gjør det mulig å fortsette studiene
+- Dersom samboer mv. eller barn er alvorlig syke
+- Når de er i tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17)
+- Når de har verv i studentpolitiske eller folkevalgte organer, jf. [uhl. § 10-7](lov/2024-03-08-9/§10-7)
+- Dersom det foreligger andre særlige grunner.
 
 (3) Permisjoner blir normalt innvilget for ett år. Studieretten blir forlenget i tilsvarende tid.
 
@@ -308,7 +348,9 @@ Høgskolestyret vedtar opprettelse og nedleggelse av studieprogram med omfang p�
 
 (3) Studenter som ønsker å forbedre eksamenskarakter som er bestått skal melde seg opp til ordinær eksamen, eller ny/utsatt eksamen dersom slik arrangeres.
 
-(4) Grunnlaget for å arrangere ny eksamen er at én eller flere studenter ikke har bestått eksamen og at en eller flere av disse melder seg opp til eksamen.Grunnlaget for å arrangere utsatt eksamen er at en eller flere studenter har gyldig fravær ved eksamen og at en eller flere av disse melder seg opp til eksamen.
+(4) Grunnlaget for å arrangere ny eksamen er at én eller flere studenter ikke har bestått eksamen og at en eller flere av disse melder seg opp til eksamen.
+
+Grunnlaget for å arrangere utsatt eksamen er at en eller flere studenter har gyldig fravær ved eksamen og at en eller flere av disse melder seg opp til eksamen.
 
 (5) Ny og utsatt eksamen kan ha en annen vurderingsform enn ordinær eksamen.
 
@@ -334,9 +376,18 @@ Høgskolestyret vedtar opprettelse og nedleggelse av studieprogram med omfang p�
 
 ### 31. Gyldig fravær på eksamen
 
-(1) Fravær som skyldes disse forholdene, er gyldig:egen sykdom og barn sin sykdomdødsfall i nær familie eller hos andre studenten har et nært forhold tilgravferd eller bisettelse, jf. forrige punktforhold utenfor studenten sin kontroll som gjør det sterkt urimelig å kreve at studenten gjennomfører eksamen
+(1) Fravær som skyldes disse forholdene, er gyldig:
 
-(2) Krav til dokumentasjon av gyldig fravær:Sykdom må dokumenteres med en attest fra lege, psykolog eller annen sakkyndig person. Attesten må opplyse om at den er utstedt i forbindelse med fravær fra eksamen arrangert av Høgskolen i Molde, og at fraværet gjelder en bestemt dag eller dager.Ved dødsfall, gravferd eller bisettelse må studenten oppgi hvem som har gått bort og hvilken relasjon studenten hadde til avdøde.Andre omstendigheter som blir regnet som gyldig fravær må dokumenteres.
+1. egen sykdom og barn sin sykdom
+2. dødsfall i nær familie eller hos andre studenten har et nært forhold til
+3. gravferd eller bisettelse, jf. forrige punkt
+4. forhold utenfor studenten sin kontroll som gjør det sterkt urimelig å kreve at studenten gjennomfører eksamen
+
+(2) Krav til dokumentasjon av gyldig fravær:
+
+1. Sykdom må dokumenteres med en attest fra lege, psykolog eller annen sakkyndig person. Attesten må opplyse om at den er utstedt i forbindelse med fravær fra eksamen arrangert av Høgskolen i Molde, og at fraværet gjelder en bestemt dag eller dager.
+2. Ved dødsfall, gravferd eller bisettelse må studenten oppgi hvem som har gått bort og hvilken relasjon studenten hadde til avdøde.
+3. Andre omstendigheter som blir regnet som gyldig fravær må dokumenteres.
 
 > Tilføyd ved forskrift [10 des 2024 nr. 3172](forskrift/2024-12-10-3172).
 
@@ -458,7 +509,10 @@ Kravet om oppmøte skal gå fram av studieplanen eller emnebeskrivelsen. Kravet 
 
 ### § 43. Ikke bestått praksis uten varsel på forhånd
 
-Studenten kan, uten å bli varslet på forhånd, få praksis vurdert til ikke bestått når studenten:klart ikke presterer og oppnår læringsutbyttet som er påkrevd for å bestå praksis, ogden manglende prestasjonen blir tydelig etter at halve i praksisperioden er gjennomført, eller etter tidspunktet varsel normalt blir gitt i den aktuelle praksisen på utdanningsprogrammet.
+Studenten kan, uten å bli varslet på forhånd, få praksis vurdert til ikke bestått når studenten:
+
+1. klart ikke presterer og oppnår læringsutbyttet som er påkrevd for å bestå praksis, og
+2. den manglende prestasjonen blir tydelig etter at halve i praksisperioden er gjennomført, eller etter tidspunktet varsel normalt blir gitt i den aktuelle praksisen på utdanningsprogrammet.
 
 > Tilføyd ved forskrift [6 juli 2022 nr. 1548](forskrift/2022-07-06-1548), endret ved forskrift [10 des 2024 nr. 3172](forskrift/2024-12-10-3172) (tidligere § 40).
 
@@ -484,9 +538,20 @@ Studenten kan, uten å bli varslet på forhånd, få praksis vurdert til ikke be
 
 ### § 46. Gyldig fravær fra praksis
 
-(1) Høgskolen avgjør i hvert enkelt tilfelle hva som er gyldig fravær. Gyldig fravær er:egen sykdom og barn sin sykdomdødsfall i nær familie eller hos andre studenten har et nært forhold tilgravferd eller bisettelse, jf. forrige punktpålegg fra offentlig myndighet om at studenten plikter å møte fram et annet sted.ivaretakelse av tillitsverv ved høgskolenforhold utenfor studenten sin kontroll som gjør det sterkt urimelig å kreve at studenten gjennomfører en eller flere dager av praksisperioden.
+(1) Høgskolen avgjør i hvert enkelt tilfelle hva som er gyldig fravær. Gyldig fravær er:
 
-(2) Krav til dokumentasjon av gyldig fravær:Sykdom utover fraværsgrensen oppført i emnebeskrivelsen eller studieplan, må dokumenteres med en attest fra lege, psykolog eller annen sakkyndig person. Attesten må opplyse om at den er utstedt i forbindelse med fravær fra praksis arrangert av Høgskolen i Molde, og at fraværet gjelder en bestemt dag eller dager. Når studenten sin praksisperiode har startet må attest fra lege, psykolog eller annen sakkyndig person leveres så snart som mulig og innen en uke fra første fraværsdag.Ved dødsfall, gravferd eller bisettelse må studenten oppgi hvem som har gått bort og hvilken relasjon studenten hadde til avdøde.Andre omstendigheter som blir regnet som gyldig fravær må dokumenteres.
+1. egen sykdom og barn sin sykdom
+2. dødsfall i nær familie eller hos andre studenten har et nært forhold til
+3. gravferd eller bisettelse, jf. forrige punkt
+4. pålegg fra offentlig myndighet om at studenten plikter å møte fram et annet sted.
+5. ivaretakelse av tillitsverv ved høgskolen
+6. forhold utenfor studenten sin kontroll som gjør det sterkt urimelig å kreve at studenten gjennomfører en eller flere dager av praksisperioden.
+
+(2) Krav til dokumentasjon av gyldig fravær:
+
+1. Sykdom utover fraværsgrensen oppført i emnebeskrivelsen eller studieplan, må dokumenteres med en attest fra lege, psykolog eller annen sakkyndig person. Attesten må opplyse om at den er utstedt i forbindelse med fravær fra praksis arrangert av Høgskolen i Molde, og at fraværet gjelder en bestemt dag eller dager. Når studenten sin praksisperiode har startet må attest fra lege, psykolog eller annen sakkyndig person leveres så snart som mulig og innen en uke fra første fraværsdag.
+2. Ved dødsfall, gravferd eller bisettelse må studenten oppgi hvem som har gått bort og hvilken relasjon studenten hadde til avdøde.
+3. Andre omstendigheter som blir regnet som gyldig fravær må dokumenteres.
 
 > Tilføyd ved forskrift [6 juli 2022 nr. 1548](forskrift/2022-07-06-1548), endret ved forskrift [10 des 2024 nr. 3172](forskrift/2024-12-10-3172) (tidligere § 43).
 
@@ -528,9 +593,21 @@ Klage over formelle feil ved eksamen eller sensur behandles etter [uhl. § 11-9]
 
 ### § 50. Fusk og forsøk på fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:Å handle i strid med gjeldende regler for den spesifikke eksamenÅ bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere besvarelse som er utarbeidet av andre enn studenten(e) selvUreglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
 
-(2) Fusk og forsøk på fusk behandles etter [uhl. § 12-4](lov/2024-03-08-9/§12-4). Følgende reaksjoner kan gjøres gjeldende for studenter som fusker eller forsøker å fuske:annullering av eksamen eller prøver jf. [uhl. § 12-4 andre ledd](lov/2024-03-08-9/§12-4/ledd/2).utestenging fra høgskolen og fratakelse av retten til å gå opp til eksamen ved alle universiteter og høgskoler i inntil to år jf. [uhl. § 12-4 tredje ledd](lov/2024-03-08-9/§12-4/ledd/3).
+- Å handle i strid med gjeldende regler for den spesifikke eksamen
+- Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+- Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+- Å levere besvarelse som er utarbeidet av andre enn studenten(e) selv
+- Ureglementert samarbeid mellom studenter eller grupper
+- Fabrikkering eller forfalskning av data
+- Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+- Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+
+(2) Fusk og forsøk på fusk behandles etter [uhl. § 12-4](lov/2024-03-08-9/§12-4). Følgende reaksjoner kan gjøres gjeldende for studenter som fusker eller forsøker å fuske:
+
+- annullering av eksamen eller prøver jf. [uhl. § 12-4 andre ledd](lov/2024-03-08-9/§12-4/ledd/2).
+- utestenging fra høgskolen og fratakelse av retten til å gå opp til eksamen ved alle universiteter og høgskoler i inntil to år jf. [uhl. § 12-4 tredje ledd](lov/2024-03-08-9/§12-4/ledd/3).
 
 (3) Forsettlig medvirkning til fusk behandles etter [uhl. § 12-4 fjerde ledd](lov/2024-03-08-9/§12-4/ledd/4).
 
@@ -582,6 +659,11 @@ Innenfor rammene av denne forskrift kan studieutvalget fastsette utfyllende best
 
 ### § 54. Ikrafttredelse
 
-Denne forskrift trer i kraft 1. august 2015. Følgende forskrifter opphører samtidig:[Forskrift 1. mars 2006 nr. 4883](forskrift/2006-03-01-4883) om eksamen ved HiMolde[Forskrift 1. mars 2006 nr. 4896](forskrift/2006-03-01-4896) om bachelorgrad ved HiMolde[Forskrift 25. mai 2011 nr. 551](forskrift/2011-05-25-551) om opptak til masterprogrammer ved HiMolde[Forskrift 13. juni 2005 nr. 589](forskrift/2005-06-13-589) om opptak til mastergrad, HiMolde.
+Denne forskrift trer i kraft 1. august 2015. Følgende forskrifter opphører samtidig:
+
+- [Forskrift 1. mars 2006 nr. 4883](forskrift/2006-03-01-4883) om eksamen ved HiMolde
+- [Forskrift 1. mars 2006 nr. 4896](forskrift/2006-03-01-4896) om bachelorgrad ved HiMolde
+- [Forskrift 25. mai 2011 nr. 551](forskrift/2011-05-25-551) om opptak til masterprogrammer ved HiMolde
+- [Forskrift 13. juni 2005 nr. 589](forskrift/2005-06-13-589) om opptak til mastergrad, HiMolde.
 
 > Endret ved forskrifter [12 des 2019 nr. 2229](forskrift/2019-12-12-2229) (i kraft 10 feb 2020, tidligere § 39), [6 juli 2022 nr. 1548](forskrift/2022-07-06-1548) (tidligere § 40), [10 des 2024 nr. 3172](forskrift/2024-12-10-3172) (tidligere § 51).

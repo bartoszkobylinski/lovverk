@@ -15,7 +15,7 @@ xml_hash: "c71dff5ccab621b6bd8898abe363b51e6c0560854776dba73889d741540d7362"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,11 +24,19 @@ eu_basis: []
 
 ## § 1. Lovens virkeområde, definisjoner mv
 
-(1) (Arbeidstaker)Med arbeidstaker menes i denne lov enhver som utfører arbeid i annens tjeneste.
+(1) (Arbeidstaker)
 
-(2) (Permittering)Med permittering menes i denne lov at arbeidstaker midlertidig fritas for arbeidsplikt i forbindelse med driftsinnskrenkning eller driftsstans, enten dette bestemmes ensidig av arbeidsgiver eller ved avtale i det enkelte tilfelle.Som permittering etter første ledd regnes både fritak for arbeidsplikt i en sammenhengende periode (hel permittering) og innføring av redusert arbeidstid (delvis permittering).
+Med arbeidstaker menes i denne lov enhver som utfører arbeid i annens tjeneste.
 
-(3) (Arbeidstakere som er unntatt fra loven)Unntatt fra bestemmelsene i denne lov er arbeidstakere i fiskeforedlingsbedrifter.
+(2) (Permittering)
+
+Med permittering menes i denne lov at arbeidstaker midlertidig fritas for arbeidsplikt i forbindelse med driftsinnskrenkning eller driftsstans, enten dette bestemmes ensidig av arbeidsgiver eller ved avtale i det enkelte tilfelle.
+
+Som permittering etter første ledd regnes både fritak for arbeidsplikt i en sammenhengende periode (hel permittering) og innføring av redusert arbeidstid (delvis permittering).
+
+(3) (Arbeidstakere som er unntatt fra loven)
+
+Unntatt fra bestemmelsene i denne lov er arbeidstakere i fiskeforedlingsbedrifter.
 
 > Endret ved [lov 15 juni 1990 nr. 31](lov/1990-06-15-31).
 
@@ -66,13 +74,25 @@ Før permittering skal arbeidsgiver gi melding til offentlig myndighet (Arbeids-
 
 ## § 4. Beregning av permitteringslønn
 
-(1) (Beregningsgrunnlag)Beregningsgrunnlaget for permitteringslønn er det samme som beregningsgrunnlaget for sykepenger etter [folketrygdloven §§ 8-28](lov/1997-02-28-19/§8-28) til [8-30](lov/1997-02-28-19/§8-30).
+(1) (Beregningsgrunnlag)
 
-(2) (Hel permittering)Ved hel permittering skal utbetalingen pr. arbeidsdag etter [§ 3](lov/1988-05-06-22/§3) første og femte ledd utgjøre den gjennomsnittlige lønn for en arbeidsdag. Dette gjelder uansett hvor mange arbeidstimer arbeidstakeren skulle hatt den enkelte dag.Utbetalingen etter [§ 3](lov/1988-05-06-22/§3) tredje ledd skal ved hel permittering utgjøre en gjennomsnittlig ukelønn pr. uke. Dette gjelder uansett hvor mange arbeidsdager arbeidstakeren skulle hatt den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+Beregningsgrunnlaget for permitteringslønn er det samme som beregningsgrunnlaget for sykepenger etter [folketrygdloven §§ 8-28](lov/1997-02-28-19/§8-28) til [8-30](lov/1997-02-28-19/§8-30).
 
-(3) (Delvis permittering)Ved delvis permittering skal utbetalingen etter [§ 3](lov/1988-05-06-22/§3) utgjøre en prosentvis andel av en gjennomsnittlig ukelønn pr uke. Den prosentvise andel av lønnen skal tilsvare den prosentvise reduksjon av arbeidstiden den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+(2) (Hel permittering)
 
-(4) (Fravikelighet)Reglene om beregning av permitteringslønn etter denne paragraf kan fravikes ved tariffavtale.Arbeidsgiver som er bundet av tariffavtalebestemmelser om beregning av permitteringslønn, kan anvende dem overfor alle arbeidstakere som utfører arbeid av den art avtalen omfatter, såfremt et flertall av arbeidstakerne er bundet av avtalen.
+Ved hel permittering skal utbetalingen pr. arbeidsdag etter [§ 3](lov/1988-05-06-22/§3) første og femte ledd utgjøre den gjennomsnittlige lønn for en arbeidsdag. Dette gjelder uansett hvor mange arbeidstimer arbeidstakeren skulle hatt den enkelte dag.
+
+Utbetalingen etter [§ 3](lov/1988-05-06-22/§3) tredje ledd skal ved hel permittering utgjøre en gjennomsnittlig ukelønn pr. uke. Dette gjelder uansett hvor mange arbeidsdager arbeidstakeren skulle hatt den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(3) (Delvis permittering)
+
+Ved delvis permittering skal utbetalingen etter [§ 3](lov/1988-05-06-22/§3) utgjøre en prosentvis andel av en gjennomsnittlig ukelønn pr uke. Den prosentvise andel av lønnen skal tilsvare den prosentvise reduksjon av arbeidstiden den enkelte uke. Ved permittering som omfatter del av en uke, reduseres beløpet tilsvarende.
+
+(4) (Fravikelighet)
+
+Reglene om beregning av permitteringslønn etter denne paragraf kan fravikes ved tariffavtale.
+
+Arbeidsgiver som er bundet av tariffavtalebestemmelser om beregning av permitteringslønn, kan anvende dem overfor alle arbeidstakere som utfører arbeid av den art avtalen omfatter, såfremt et flertall av arbeidstakerne er bundet av avtalen.
 
 > Endret ved [lover 15 juni 1990 nr. 31](lov/1990-06-15-31), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [17 juni 2016 nr. 26](lov/2016-06-17-26) (ikr. 1 juli 2016).
 

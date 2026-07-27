@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Følgende rettsakter inntatt i [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) gjelder som forskrift, med de endringene og tilleggene som følger av [vedlegg IV](avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig:forordning [(EU) 2020/2155](eu/32020r2155) om utfylling av europaparlaments- og rådsdirektiv [2010/31/EU](eu/32010l0031) ved opprettelse av en frivillig felles ordning i Den europeiske union for smartklarvurdering av bygninger, jf. [vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 17b,forordning [(EU) 2020/2156](eu/32020r2156) om nærmere opplysninger om de tekniske vilkårene for effektiv gjennomføring av en frivillig felles unionsordning for smartklarvurdering av bygninger, jf. [vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 17c.
+Følgende rettsakter inntatt i [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) gjelder som forskrift, med de endringene og tilleggene som følger av [vedlegg IV](avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig:
+
+1. forordning [(EU) 2020/2155](eu/32020r2155) om utfylling av europaparlaments- og rådsdirektiv [2010/31/EU](eu/32010l0031) ved opprettelse av en frivillig felles ordning i Den europeiske union for smartklarvurdering av bygninger, jf. [vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 17b,
+2. forordning [(EU) 2020/2156](eu/32020r2156) om nærmere opplysninger om de tekniske vilkårene for effektiv gjennomføring av en frivillig felles unionsordning for smartklarvurdering av bygninger, jf. [vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 17c.
 
 ## § 2.
 

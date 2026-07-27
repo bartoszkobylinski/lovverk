@@ -15,7 +15,7 @@ xml_hash: "8c2f10742d672d00b2438fafd538855bedf42dfc46b709fe624a0d0a499ec776"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1-1. Forskriftens virkeområde
 
-Forskriften gjelderverdipapirforetak, jf. [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel [§ 2-3](lov/2007-06-29-75/§2-3) første ledd, som ikke er kredittinstitusjonforvaltningsselskap for verdipapirfond, jf. [lov 25. november 2011 nr. 44](lov/2011-11-25-44) om verdipapirfond [§ 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 2forvaltere av alternative investeringsfond, jf. [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 1-2](lov/2014-06-20-28/§1-2) første ledd bokstav b, som har tillatelse etter [samme lov § 2-2](forskrift/1999-08-23-957/§2-2)norske filialer av utenlandske verdipapirforetakmorselskap til foretak nevnt i nr. 1-3, jf. [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel [§ 9-21](lov/2007-06-29-75/§9-21) første ledd nr. 3.
+Forskriften gjelder
+
+1. verdipapirforetak, jf. [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel [§ 2-3](lov/2007-06-29-75/§2-3) første ledd, som ikke er kredittinstitusjon
+2. forvaltningsselskap for verdipapirfond, jf. [lov 25. november 2011 nr. 44](lov/2011-11-25-44) om verdipapirfond [§ 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 2
+3. forvaltere av alternative investeringsfond, jf. [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 1-2](lov/2014-06-20-28/§1-2) første ledd bokstav b, som har tillatelse etter [samme lov § 2-2](forskrift/1999-08-23-957/§2-2)
+4. norske filialer av utenlandske verdipapirforetak
+5. morselskap til foretak nevnt i nr. 1-3, jf. [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel [§ 9-21](lov/2007-06-29-75/§9-21) første ledd nr. 3.
 
 Regnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd.
 
@@ -58,7 +64,9 @@ Hvis anvendelsen av en bestemmelse i [kapittel 3](forskrift/1999-08-23-957/kap3)
 
 ### § 2-2. Årsberetningens innhold
 
-I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):Dersom foretakets kapitaldekning er under gjeldende minimumskrav skal det gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre foretakets drift.
+I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):
+
+1. Dersom foretakets kapitaldekning er under gjeldende minimumskrav skal det gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre foretakets drift.
 
 > Endret ved [forskrifter 23 feb 2004 nr. 432](forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [20 des 2005 nr. 1600](forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere, tidligere § 2-1), [13 des 2016 nr. 1574](forskrift/2016-12-13-1574) (i kraft 1 jan 2017), [1 nov 2024 nr. 2613](forskrift/2024-11-01-2613).
 
@@ -86,7 +94,11 @@ For årsregnskap utarbeidet i samsvar med [regnskapsloven § 3-9](lov/1998-07-17
 
 ### § 3-1. Markedsbaserte finansielle omløpsmidler
 
-Finansielle instrumenter og varederivater som nevnt i [regnskapsloven § 5-8](lov/1998-07-17-56/§5-8) første ledd, skal vurderes til virkelig verdi dersom instrumenteneer klassifisert som omløpsmiddel,inngår i en handelsportefølje med henblikk på videresalg, ogomsettes i et aktivt og likvid marked.
+Finansielle instrumenter og varederivater som nevnt i [regnskapsloven § 5-8](lov/1998-07-17-56/§5-8) første ledd, skal vurderes til virkelig verdi dersom instrumentene
+
+1. er klassifisert som omløpsmiddel,
+2. inngår i en handelsportefølje med henblikk på videresalg, og
+3. omsettes i et aktivt og likvid marked.
 
 > Endret ved [forskrifter 23 feb 2004 nr. 432](forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [21 feb 2006 nr. 245](forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2005 eller senere).
 
@@ -98,19 +110,41 @@ Denne forskrift [§ 3-1](forskrift/1999-08-23-957/§3-1) gjelder tilsvarende for
 
 ### § 4-1. Resultatregnskap
 
-Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) første ledd, skal for post 9 annen driftskostnad, oppdeles i følgende poster:Tap på fordringerAnnen driftskostnad.
+Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) første ledd, skal for post 9 annen driftskostnad, oppdeles i følgende poster:
 
-Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1a](lov/1998-07-17-56/§6-1a) første ledd post 2 omfatter kostnad solgte tjenester og skal inndeles i følgende poster:tap på fordringerkostnad solgte tjenester.
+1. Tap på fordringer
+2. Annen driftskostnad.
+
+Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1a](lov/1998-07-17-56/§6-1a) første ledd post 2 omfatter kostnad solgte tjenester og skal inndeles i følgende poster:
+
+1. tap på fordringer
+2. kostnad solgte tjenester.
 
 > Endret ved [forskrift 21 feb 2006 nr. 245](forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere).
 
 ### § 4-2. Balanse
 
-Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) første ledd, skal for post B II fordringer, oppdeles i følgende poster:KundefordringerFordringer på verdipapirforetakAndre fordringerKrav på innbetaling av selskapskapital.
+Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) første ledd, skal for post B II fordringer, oppdeles i følgende poster:
+
+1. Kundefordringer
+2. Fordringer på verdipapirforetak
+3. Andre fordringer
+4. Krav på innbetaling av selskapskapital.
 
 [Regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) annet ledd gjelder ikke. Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital.
 
-Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) første ledd, skal for post D III kortsiktig gjeld, oppdeles i følgende poster:Konvertible lånSertifikatlånGjeld til kredittinstitusjonerGjeld til verdipapirforetakGjeld til kunderLeverandørgjeldBetalbar skattSkyldige offentlige avgifterUtbytteAnnen kortsiktig gjeld.
+Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) første ledd, skal for post D III kortsiktig gjeld, oppdeles i følgende poster:
+
+1. Konvertible lån
+2. Sertifikatlån
+3. Gjeld til kredittinstitusjoner
+4. Gjeld til verdipapirforetak
+5. Gjeld til kunder
+6. Leverandørgjeld
+7. Betalbar skatt
+8. Skyldige offentlige avgifter
+9. Utbytte
+10. Annen kortsiktig gjeld.
 
 > Endret ved [forskrift 21 feb 2006 nr. 245](forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere).
 
@@ -146,7 +180,14 @@ Ethvert fravik som nevnt i [§ 2-1](forskrift/1999-08-23-957/§2-1) i denne fors
 
 ### § 5-2. Regnskapsprinsipper
 
-Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1998-07-17-56/§7-2) skal minst omfatte følgende opplysninger:Prinsippene for beregning av virkelig verdi, herunder om beregningen bygger på observerbare markedsverdier eller om virkelig verdi er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.Prinsippene for regnskapsmessig behandling av sikringsvurdering og eventuell porteføljevurdering og kriteriene som er lagt til grunn for slik vurdering. Bruk av sikringsvurdering og porteføljevurdering skal begrunnes.Prinsippene for regnskapsmessig behandling av finansielle derivater, herunder kriteriene for klassifikasjon.Prinsippene for klassifikasjon av finansielle instrumenter som markedsbaserte finansielle omløpsmidler jf. [§ 3-1](forskrift/1999-08-23-957/§3-1), herunder kriteriene for klassifikasjon av finansielle instrumenter i handelsportefølje.Prinsippene for regnskapsmessig behandling av gjeld.Prinsippene for omregning av utenlandsk valuta.
+Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1998-07-17-56/§7-2) skal minst omfatte følgende opplysninger:
+
+1. Prinsippene for beregning av virkelig verdi, herunder om beregningen bygger på observerbare markedsverdier eller om virkelig verdi er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.
+2. Prinsippene for regnskapsmessig behandling av sikringsvurdering og eventuell porteføljevurdering og kriteriene som er lagt til grunn for slik vurdering. Bruk av sikringsvurdering og porteføljevurdering skal begrunnes.
+3. Prinsippene for regnskapsmessig behandling av finansielle derivater, herunder kriteriene for klassifikasjon.
+4. Prinsippene for klassifikasjon av finansielle instrumenter som markedsbaserte finansielle omløpsmidler jf. [§ 3-1](forskrift/1999-08-23-957/§3-1), herunder kriteriene for klassifikasjon av finansielle instrumenter i handelsportefølje.
+5. Prinsippene for regnskapsmessig behandling av gjeld.
+6. Prinsippene for omregning av utenlandsk valuta.
 
 ### § 5-3. Endringer i egenkapitalen
 
@@ -156,7 +197,11 @@ Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1
 
 ### § 5-4. Finansiell markedsrisiko
 
-Opplysninger om finansiell markedsrisiko som nevnt i [regnskapsloven § 7-5](lov/1998-07-17-56/§7-5) annet ledd skal minst omfatte:Opplysninger om hvordan virkelig verdi av finansielle instrumenter som er rentebærende eller har annen rentetilknytning påvirkes av endringer i rentenivået. Som et minimum skal det gis opplysninger om tidsrommet fram til avtalt tidspunkt for endring av rentebetingelser. Renteendringstidspunktene skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år, poster uten løpetid og totalt for alle intervaller inklusive poster uten løpetid.Opplysninger om hvordan virkelig verdi av finansielle instrumenter påvirkes av valutakursendringer. Som minimum skal det gis opplysninger om valutaposisjoner for de viktigste valutaene. Nettoposisjonen per valuta omregnet til norske kroner skal spesifiseres på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater.En redegjørelse for risikoprofilen i aksjeporteføljen.
+Opplysninger om finansiell markedsrisiko som nevnt i [regnskapsloven § 7-5](lov/1998-07-17-56/§7-5) annet ledd skal minst omfatte:
+
+1. Opplysninger om hvordan virkelig verdi av finansielle instrumenter som er rentebærende eller har annen rentetilknytning påvirkes av endringer i rentenivået. Som et minimum skal det gis opplysninger om tidsrommet fram til avtalt tidspunkt for endring av rentebetingelser. Renteendringstidspunktene skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år, poster uten løpetid og totalt for alle intervaller inklusive poster uten løpetid.
+2. Opplysninger om hvordan virkelig verdi av finansielle instrumenter påvirkes av valutakursendringer. Som minimum skal det gis opplysninger om valutaposisjoner for de viktigste valutaene. Nettoposisjonen per valuta omregnet til norske kroner skal spesifiseres på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater.
+3. En redegjørelse for risikoprofilen i aksjeporteføljen.
 
 Dersom risikoprofilen på balansedagen avviker vesentlig fra situasjonen gjennom året eller etter regnskapsårets utgang, skal det gis ytterligere opplysning om dette.
 

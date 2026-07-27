@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Gjennomføring av kommisjonsforordning (EU) 2015/340
 
-Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/893](eu/32023r0893)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2025/2143](eu/32025r2143)forordning [(EU) 2025/2293](eu/32025r2293).
+Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2023/893](eu/32023r0893)
+- forordning [(EU) 2023/203](eu/32023r0203)
+- forordning [(EU) 2025/2143](eu/32025r2143)
+- forordning [(EU) 2025/2293](eu/32025r2293).
 
 > Endret ved forskrifter [10 sep 2024 nr. 2113](forskrift/2024-09-10-2113), [4 feb 2025 nr. 159](forskrift/2025-02-04-159), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [25 mars 2026 nr. 475](forskrift/2026-03-25-475), [1 juli 2026 nr. 1487](forskrift/2026-07-01-1487).
 
@@ -44,7 +49,10 @@ Luftfartstilsynet kan foreta endringer i forskriften med unntak av [§ 3](forskr
 
 Flygeledere og flygelederelever som utfører tårnkontrolltjeneste, skal ha bestått norsk CEFR-språktest med minimum nivå B2 i henhold til Det felles europeiske rammeverket for språk eller dokumentert norskkunnskaper fra videregående skole med minimum karakter 3.
 
-Underveis- og innflygingskontrolltjenesteenheter som benytter personell som ikke har bestått norsk CEFR-språktest eller dokumentert norskkunnskaper fra videregående skole med minimum karakter 3, skallegge til rette for at kommunikasjon med luftfartøy kan foregå på norsk ved behov, ogha SMS, avtaler, og andre styrende dokumenter som benyttes av flygeledere tilgjengelig på engelsk.
+Underveis- og innflygingskontrolltjenesteenheter som benytter personell som ikke har bestått norsk CEFR-språktest eller dokumentert norskkunnskaper fra videregående skole med minimum karakter 3, skal
+
+1. legge til rette for at kommunikasjon med luftfartøy kan foregå på norsk ved behov, og
+2. ha SMS, avtaler, og andre styrende dokumenter som benyttes av flygeledere tilgjengelig på engelsk.
 
 > Endret ved forskrift [28 feb 2018 nr. 287](forskrift/2018-02-28-287).
 

@@ -24,13 +24,26 @@ eu_basis: []
 
 ## § 1. Forbrukertilsynets saksområde
 
-Forbrukertilsynet skal etter klage fra forbruker eller næringsdrivende mekle i klagesakersom kan bringes inn for Forbrukerklageutvalget, jf. § 2om vare- og tjenestekontrakter mellom næringsdrivende og forbruker som ikke er omfattet av annet innmeldt klageorgans saksområde, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25)om vare- og tjenestekontrakter mellom næringsdrivende og forbruker som er omfattet av annet innmeldt klageorgans saksområde, men som klageorganet ikke behandler fordi den næringsdrivende ikke er tilsluttet klageorganet.
+Forbrukertilsynet skal etter klage fra forbruker eller næringsdrivende mekle i klagesaker
 
-Forbrukertilsynet skal ikke mekle i klagesaker omhelsetjenester som ytes av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3)offentlig tilbud om videregående eller høyere utdanningikke-økonomiske tjenester av allmenn interessekrav som klagerens motpart har erkjent.
+1. som kan bringes inn for Forbrukerklageutvalget, jf. § 2
+2. om vare- og tjenestekontrakter mellom næringsdrivende og forbruker som ikke er omfattet av annet innmeldt klageorgans saksområde, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25)
+3. om vare- og tjenestekontrakter mellom næringsdrivende og forbruker som er omfattet av annet innmeldt klageorgans saksområde, men som klageorganet ikke behandler fordi den næringsdrivende ikke er tilsluttet klageorganet.
+
+Forbrukertilsynet skal ikke mekle i klagesaker om
+
+1. helsetjenester som ytes av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3)
+2. offentlig tilbud om videregående eller høyere utdanning
+3. ikke-økonomiske tjenester av allmenn interesse
+4. krav som klagerens motpart har erkjent.
 
 ## § 2. Forbrukerklageutvalgets saksområde
 
-Forbrukerklageutvalget skal behandle klagesaker som har vært behandlet i Forbrukertilsynet omkjøp av ting til forbruker og om ytelser som selgeren eller andre har påtatt seg overfor kjøperen i tilknytning til kjøpet, mellom forbruker og næringsdrivende og mellom forbrukerehåndverkertjenester etter [håndverkertjenesteloven](lov/1989-06-16-63)avtaler etter [angrerettloven](lov/2014-06-20-27).
+Forbrukerklageutvalget skal behandle klagesaker som har vært behandlet i Forbrukertilsynet om
+
+1. kjøp av ting til forbruker og om ytelser som selgeren eller andre har påtatt seg overfor kjøperen i tilknytning til kjøpet, mellom forbruker og næringsdrivende og mellom forbrukere
+2. håndverkertjenester etter [håndverkertjenesteloven](lov/1989-06-16-63)
+3. avtaler etter [angrerettloven](lov/2014-06-20-27).
 
 Forbrukerklageutvalget kan også behandle klagesaker av prinsipiell karakter mellom forbruker og næringsdrivende som omhandlet i § 1 første ledd bokstav b og c. Ved vurderingen av om en sak er prinsipiell, skal det tas hensyn til om den reiser spørsmål som gjelder mange forbrukere eller spørsmål der det er særlig behov for rettslig avklaring.
 
@@ -38,7 +51,10 @@ Forbrukerklageutvalget skal ikke behandle klagesaker om kjøp av elektrisk energ
 
 ## § 2a. Saksbehandlingsgebyr
 
-Det skal betales gebyr med0,2 rettsgebyr for behandlingen i Forbrukertilsynet, se [rettsgebyrforskriften § 2-1](forskrift/1983-02-15-86/§2-1)1,0 rettsgebyr for behandlingen i Forbrukerklageutvalget.
+Det skal betales gebyr med
+
+1. 0,2 rettsgebyr for behandlingen i Forbrukertilsynet, se [rettsgebyrforskriften § 2-1](forskrift/1983-02-15-86/§2-1)
+2. 1,0 rettsgebyr for behandlingen i Forbrukerklageutvalget.
 
 En klage kan først fremmes når gebyret er betalt. Gebyret betales ikke tilbake selv om klagen avvises eller av andre grunner ikke tas til behandling.
 
@@ -68,11 +84,33 @@ Vedtak om avvisning, oppfriskning, retting og avslag på begjæring om gjenåpni
 
 Forbrukertilsynet skal føre protokoll over Forbrukerklageutvalgets møter. Protokollen underskrives av medlemmene i utvalget. Elektronisk signatur likestilles med håndskrevet signatur.
 
-Protokollen skal inneholde opplysninger omtid og sted for møtethvem som deltok i avgjørelsenehvilke klagesaker som ble behandletkonklusjonen i den enkelte klagesak.
+Protokollen skal inneholde opplysninger om
+
+1. tid og sted for møtet
+2. hvem som deltok i avgjørelsene
+3. hvilke klagesaker som ble behandlet
+4. konklusjonen i den enkelte klagesak.
 
 ## § 7. Informasjon på nettside
 
-Følgende opplysninger skal på en klar og lett forståelig måte fremgå av Forbrukertilsynets nettside, jf. [forbrukerklageloven § 25](lov/2020-06-23-98/§25):Forbrukertilsynets kontaktopplysninger, herunder post- og e-postadressehvilke fysiske personer som har ansvar for klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget, med opplysninger om hvilke ledere, nestledere, nemndsmedlemmer og saksbehandlere som behandler klagene, hvordan de er oppnevnt eller ansatt og for hvor lang tidformell kompetanse, relevant erfaring og opplysninger om upartiskhet og uavhengighet hos de fysiske personene som har ansvar for klagebehandlingen i Forbrukertilsynet og ForbrukerklageutvalgetForbrukertilsynets og Forbrukerklageutvalgets eventuelle deltakelse i nettverk av klageorganer som legger til rette for behandling av klagesaker over landegrenseneForbrukertilsynets og Forbrukerklageutvalgets saksområde, herunder om det foreligger verdigrenser for klagebehandlingenForbrukertilsynets og Forbrukerklageutvalgets klagebehandlingsprosess med retningslinjer for saksbehandlingen og adgangen til å avvise en klagepå hvilke språk klagen og saksdokumentene kan sendes, og på hvilke språk klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget foregårhvilke regler Forbrukertilsynet og Forbrukerklageutvalget kan anvende som grunnlag for klagebehandlingenpartenes plikter før en klagesak tas opp til behandling i Forbrukertilsynet og Forbrukerklageutvalgetom en part ensidig har rett til å trekke klagen fra behandling i Forbrukertilsynet og Forbrukerklageutvalgeteventuelle sakskostnader partene må dekke, og regler for fordeling av dissegjennomsnittlig saksbehandlingstid i Forbrukertilsynet og Forbrukerklageutvalgethvilken rettsvirkning og rettskraft resultatet av klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget haroversikt over Forbrukerklageutvalgets praksis og vedtakForbrukertilsynets årsrapport, jf. [§ 8](lov/2020-06-23-98/§8)EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv [2013/11/EU](eu/32013l0011) om alternativ tvisteløsning i forbrukersaker, med særlig informasjon om at Forbrukertilsynet er oppført på denne listen, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25).
+Følgende opplysninger skal på en klar og lett forståelig måte fremgå av Forbrukertilsynets nettside, jf. [forbrukerklageloven § 25](lov/2020-06-23-98/§25):
+
+1. Forbrukertilsynets kontaktopplysninger, herunder post- og e-postadresse
+2. hvilke fysiske personer som har ansvar for klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget, med opplysninger om hvilke ledere, nestledere, nemndsmedlemmer og saksbehandlere som behandler klagene, hvordan de er oppnevnt eller ansatt og for hvor lang tid
+3. formell kompetanse, relevant erfaring og opplysninger om upartiskhet og uavhengighet hos de fysiske personene som har ansvar for klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget
+4. Forbrukertilsynets og Forbrukerklageutvalgets eventuelle deltakelse i nettverk av klageorganer som legger til rette for behandling av klagesaker over landegrensene
+5. Forbrukertilsynets og Forbrukerklageutvalgets saksområde, herunder om det foreligger verdigrenser for klagebehandlingen
+6. Forbrukertilsynets og Forbrukerklageutvalgets klagebehandlingsprosess med retningslinjer for saksbehandlingen og adgangen til å avvise en klage
+7. på hvilke språk klagen og saksdokumentene kan sendes, og på hvilke språk klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget foregår
+8. hvilke regler Forbrukertilsynet og Forbrukerklageutvalget kan anvende som grunnlag for klagebehandlingen
+9. partenes plikter før en klagesak tas opp til behandling i Forbrukertilsynet og Forbrukerklageutvalget
+10. om en part ensidig har rett til å trekke klagen fra behandling i Forbrukertilsynet og Forbrukerklageutvalget
+11. eventuelle sakskostnader partene må dekke, og regler for fordeling av disse
+12. gjennomsnittlig saksbehandlingstid i Forbrukertilsynet og Forbrukerklageutvalget
+13. hvilken rettsvirkning og rettskraft resultatet av klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget har
+14. oversikt over Forbrukerklageutvalgets praksis og vedtak
+15. Forbrukertilsynets årsrapport, jf. [§ 8](lov/2020-06-23-98/§8)
+16. EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv [2013/11/EU](eu/32013l0011) om alternativ tvisteløsning i forbrukersaker, med særlig informasjon om at Forbrukertilsynet er oppført på denne listen, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25).
 
 EU-kommisjonens liste over klageorganer, jf. første ledd bokstav p, skal også gjøres tilgjengelig på et varig medium i Forbrukertilsynets lokaler.
 
@@ -80,7 +118,18 @@ EU-kommisjonens liste over klageorganer, jf. første ledd bokstav p, skal også 
 
 Forbrukertilsynet skal utarbeide en årsrapport som skal inneholde opplysninger om Forbrukertilsynets mekling og Forbrukerklageutvalgets klagebehandling, jf. [forbrukerklageloven § 25](lov/2020-06-23-98/§25).
 
-Årsrapporten skal inneholde følgende opplysninger om Forbrukertilsynets mekling og Forbrukerklageutvalgets klagebehandling:antall mottatte klager og hva de gjaldteventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til klagesaker mellom forbrukere og næringsdrivende, inkludert eventuelle anbefalinger om hvordan slike problemer kan unngås eller løses i framtidenantall avviste klager, og hvordan de avviste klagene prosentvis fordeler seg på de ulike avvisningsgrunneneprosentandel avbrutte klagebehandlinger, og årsaken til det, hvis slik informasjon foreliggerprosentandel av klagebehandlingsresultater til fordel for henholdsvis forbruker og næringsdrivende, samt klagesaker som har endt med en minnelig løsninggjennomsnittlig saksbehandlingstidi hvilket omfang resultatet av klagebehandlingen har blitt etterlevd, dersom det er kjenteventuell deltagelse i nettverk av klageorganer som legger til rette for behandling av klagesaker over landegrenseneeventuelle opplærings- og kompetansetiltaken evaluering av klagebehandlingens effektivitet, samt forslag til forbedringstiltak.
+Årsrapporten skal inneholde følgende opplysninger om Forbrukertilsynets mekling og Forbrukerklageutvalgets klagebehandling:
+
+1. antall mottatte klager og hva de gjaldt
+2. eventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til klagesaker mellom forbrukere og næringsdrivende, inkludert eventuelle anbefalinger om hvordan slike problemer kan unngås eller løses i framtiden
+3. antall avviste klager, og hvordan de avviste klagene prosentvis fordeler seg på de ulike avvisningsgrunnene
+4. prosentandel avbrutte klagebehandlinger, og årsaken til det, hvis slik informasjon foreligger
+5. prosentandel av klagebehandlingsresultater til fordel for henholdsvis forbruker og næringsdrivende, samt klagesaker som har endt med en minnelig løsning
+6. gjennomsnittlig saksbehandlingstid
+7. i hvilket omfang resultatet av klagebehandlingen har blitt etterlevd, dersom det er kjent
+8. eventuell deltagelse i nettverk av klageorganer som legger til rette for behandling av klagesaker over landegrensene
+9. eventuelle opplærings- og kompetansetiltak
+10. en evaluering av klagebehandlingens effektivitet, samt forslag til forbedringstiltak.
 
 I tillegg skal årsrapporten om Forbrukertilsynets mekling inneholde opplysninger om antall klagesaker som behandles innen lovens saksbehandlingsfrist på 90 dager, antall klagesaker som ikke behandles innen lovens saksbehandlingsfrist på 90 dager og andelen av disse som har fått forlenget saksbehandlingsfrist.
 

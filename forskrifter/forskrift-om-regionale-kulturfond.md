@@ -54,7 +54,13 @@ Tildelinger skal gis innenfor rammene av formålet med ordningen, jf. [§ 1](for
 
 Fylkeskommunen kan gi tilskudd til tiltak og aktiviteter i hele Norge, også utenfor eget geografiske område.
 
-Det kan ikke gis tilskudd tilinvestering i eller vedlikehold av bygg eller anlegg,aktiviteter eller tiltak som hovedsakelig innebærer idrett eller friluftsliv,kausjon eller annen økonomisk garanti,investeringer i tilskuddsmottakers egenkapital,renter og avdrag på lån og refinansiering av gjennomførte prosjekter.
+Det kan ikke gis tilskudd til
+
+1. investering i eller vedlikehold av bygg eller anlegg,
+2. aktiviteter eller tiltak som hovedsakelig innebærer idrett eller friluftsliv,
+3. kausjon eller annen økonomisk garanti,
+4. investeringer i tilskuddsmottakers egenkapital,
+5. renter og avdrag på lån og refinansiering av gjennomførte prosjekter.
 
 Fylkeskommunen kan fastsette ytterligere tildelingskriterier.
 

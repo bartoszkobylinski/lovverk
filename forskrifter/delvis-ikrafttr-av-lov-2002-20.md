@@ -23,4 +23,7 @@ eu_basis: []
 
 # Delvis ikrafttredelse av lov av 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven).
 
-[Lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) gjelder fra 1. juli 2002 med følgende unntak:For Svalbard gjelder ikke lovens § 46 nr. 2 og 3,Lovens § 46 nr. 1 annet ledd, opphevelse av vegtrafikklov [av 18. juni 1965 nr. 4 § 18](lov/1965-06-18-4/§18), trer i kraft fra 1. januar 2003.
+[Lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) gjelder fra 1. juli 2002 med følgende unntak:
+
+- For Svalbard gjelder ikke lovens § 46 nr. 2 og 3,
+- Lovens § 46 nr. 1 annet ledd, opphevelse av vegtrafikklov [av 18. juni 1965 nr. 4 § 18](lov/1965-06-18-4/§18), trer i kraft fra 1. januar 2003.

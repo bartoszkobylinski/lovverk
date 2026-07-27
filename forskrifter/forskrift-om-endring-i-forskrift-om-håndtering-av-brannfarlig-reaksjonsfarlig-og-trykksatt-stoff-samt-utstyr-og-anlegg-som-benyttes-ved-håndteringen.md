@@ -15,7 +15,7 @@ xml_hash: "02ad49ebb4b73e113711cea3c959bac27ef74a4392dcc82e8efafe21bb6afc7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,11 +42,18 @@ Forskriften regulerer lasting, lossing og stasjonær oppbevaring av farlig stoff
 
 [§ 4](forskrift/2009-06-08-602/§4) de to første strekpunktene av Farlig stoff skal lyde:
 
-- *Farlig stoff:*Brannfarlig stoff: Stoffgruppene som står oppført som brannfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).Reaksjonsfarlig stoff: Stoffgruppene som står oppført som reaksjonsfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).
+- *Farlig stoff:*
+
+  - Brannfarlig stoff: Stoffgruppene som står oppført som brannfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).
+  - Reaksjonsfarlig stoff: Stoffgruppene som står oppført som reaksjonsfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).
 
 [§ 5 fjerde ledd](forskrift/2009-06-08-602/§5/ledd/4) skal lyde:
 
-Brannfarlig gass kategori 1A, 1B og 2 skal ikke håndteres i kjeller eller annet rom under terreng eller på loft. Første punktum gjelder ikke for følgende installasjoner:rørføringer,kulde- og varmepumpeanlegg,gassfyrte kjelanlegg og gassfyrte peiser, koblet til utvendig tank, flaskeskap eller tilsvarende, som var installert før 1. januar 2027.
+Brannfarlig gass kategori 1A, 1B og 2 skal ikke håndteres i kjeller eller annet rom under terreng eller på loft. Første punktum gjelder ikke for følgende installasjoner:
+
+1. rørføringer,
+2. kulde- og varmepumpeanlegg,
+3. gassfyrte kjelanlegg og gassfyrte peiser, koblet til utvendig tank, flaskeskap eller tilsvarende, som var installert før 1. januar 2027.
 
 [§ 5 femte ledd](forskrift/2009-06-08-602/§5/ledd/5) skal lyde:
 
@@ -70,7 +77,14 @@ I lokaler som er tilgjengelig for tredjeperson, som serveringssteder, overnattin
 
 [§ 6](forskrift/2009-06-08-602/§6) nytt fjerde ledd skal lyde:
 
-Håndtering etter første, annet og tredje ledd er kun tillatt dersom:gassbeholdere oppbevares stående og sikres mot å velte,ventil på gassbeholder er beskyttet slik at ventilen ikke kan skades,gasstilførsel er stengt når utstyret ikke er i bruk,gassbeholdere, unntatt mindre engangsbeholdere, er utstyrt med sikkerhetsventil,det ved bytte av gassbeholder påses at utstyr og anlegg er fritt for lekkasjer, ogdet gassforbrukende utstyret er beregnet for innendørs bruk.
+Håndtering etter første, annet og tredje ledd er kun tillatt dersom:
+
+1. gassbeholdere oppbevares stående og sikres mot å velte,
+2. ventil på gassbeholder er beskyttet slik at ventilen ikke kan skades,
+3. gasstilførsel er stengt når utstyret ikke er i bruk,
+4. gassbeholdere, unntatt mindre engangsbeholdere, er utstyrt med sikkerhetsventil,
+5. det ved bytte av gassbeholder påses at utstyr og anlegg er fritt for lekkasjer, og
+6. det gassforbrukende utstyret er beregnet for innendørs bruk.
 
 [§ 6](forskrift/2009-06-08-602/§6) nytt femte ledd skal lyde:
 
@@ -86,7 +100,18 @@ Ved konstruksjon, produksjon, installasjon, endring og reparasjon av utstyr og a
 
 [§ 9](forskrift/2009-06-08-602/§9) nytt annet ledd skal lyde:
 
-Kontroll ved installasjon av følgende utstyr og anlegg skal utføres av akkreditert inspeksjonsorgan før det settes i drift:kjeler som er beregnet for produksjon av damp eller hetvann med temperatur over 110 °C, og hvor produktet av trykk i bar og volum i liter er større enn 3000 og hvor trykket er større enn 0,5 bar overtrykk og volumet er større enn 100 literforbruksanlegg som inneholder mer enn 400 liter giftig gass kategori 1, 2 eller 3, og forbruksanlegg for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet tank, rørledning for distribusjon eller flaskebatteri. Anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet frittliggende ene- og fritidsboliger er likevel unntatt fra krav om bruk av akkreditert inspeksjonsorgan. Unntak gjelder også for anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 som i en begrenset periode befinner seg på stedet i forbindelse med bygg- og anleggsvirksomhet, landbruksvirksomhet, arrangementer eller lignende aktiviteterkuldeanlegg og varmepumpeanlegg med 400 liter eller mer av brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3fylleanlegg for brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3drivstoffanlegg for brannfarlig gass kategori 1A, 1B eller 2tankanlegg for brannfarlig gass kategori 1A, 1B eller 2, eller giftig gass kategori 1, 2 eller 3deler av biogassanlegg hvor biogassen oppgraderes, komprimeres eller flytendegjøresrørledninger for transport av brannfarlig eller reaksjonsfarlig stoff med driftstrykk høyere enn 16 barprosessanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17)tankanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17).
+Kontroll ved installasjon av følgende utstyr og anlegg skal utføres av akkreditert inspeksjonsorgan før det settes i drift:
+
+1. kjeler som er beregnet for produksjon av damp eller hetvann med temperatur over 110 °C, og hvor produktet av trykk i bar og volum i liter er større enn 3000 og hvor trykket er større enn 0,5 bar overtrykk og volumet er større enn 100 liter
+2. forbruksanlegg som inneholder mer enn 400 liter giftig gass kategori 1, 2 eller 3, og forbruksanlegg for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet tank, rørledning for distribusjon eller flaskebatteri. Anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet frittliggende ene- og fritidsboliger er likevel unntatt fra krav om bruk av akkreditert inspeksjonsorgan. Unntak gjelder også for anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 som i en begrenset periode befinner seg på stedet i forbindelse med bygg- og anleggsvirksomhet, landbruksvirksomhet, arrangementer eller lignende aktiviteter
+3. kuldeanlegg og varmepumpeanlegg med 400 liter eller mer av brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3
+4. fylleanlegg for brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3
+5. drivstoffanlegg for brannfarlig gass kategori 1A, 1B eller 2
+6. tankanlegg for brannfarlig gass kategori 1A, 1B eller 2, eller giftig gass kategori 1, 2 eller 3
+7. deler av biogassanlegg hvor biogassen oppgraderes, komprimeres eller flytendegjøres
+8. rørledninger for transport av brannfarlig eller reaksjonsfarlig stoff med driftstrykk høyere enn 16 bar
+9. prosessanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17)
+10. tankanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17).
 
 [§ 9](forskrift/2009-06-08-602/§9) nytt tredje ledd skal lyde:
 
@@ -220,7 +245,15 @@ Virksomheter skal som et minimum iverksette følgende forebyggende tiltak for r�
 
 [§ 17 første ledd](forskrift/2009-06-08-602/§17/ledd/1) skal lyde:
 
-Virksomheter somhåndterer farlig stoff i mengder større eller lik det som fremkommer av [vedlegg 1](forskrift/2009-06-08-602/vedlegg1), del 1 kolonne 2 og del 2 kolonne 2 i [forskrift 3. juni 2016 nr. 569 om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)](forskrift/2016-06-03-569),omlaster farlig stoff fra skip til skip,bunkrer eller på annen måte omtapper brannfarlig gass kategori 1A, 1B eller 2 til skip for bruk om bord på det mottakende skip,transporterer brann- eller reaksjonsfarlig stoff i rørledninger med driftstrykk høyere enn 16 bar, ellerhar ansvar for fyllestasjoner for hydrogen til bruk som drivstoff på kjøretøy,skal innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap i rimelig tid før håndtering av farlig stoff påbegynnes.
+Virksomheter som
+
+1. håndterer farlig stoff i mengder større eller lik det som fremkommer av [vedlegg 1](forskrift/2009-06-08-602/vedlegg1), del 1 kolonne 2 og del 2 kolonne 2 i [forskrift 3. juni 2016 nr. 569 om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)](forskrift/2016-06-03-569),
+2. omlaster farlig stoff fra skip til skip,
+3. bunkrer eller på annen måte omtapper brannfarlig gass kategori 1A, 1B eller 2 til skip for bruk om bord på det mottakende skip,
+4. transporterer brann- eller reaksjonsfarlig stoff i rørledninger med driftstrykk høyere enn 16 bar, eller
+5. har ansvar for fyllestasjoner for hydrogen til bruk som drivstoff på kjøretøy,
+
+skal innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap i rimelig tid før håndtering av farlig stoff påbegynnes.
 
 [§ 17](forskrift/2009-06-08-602/§17) nytt annet ledd skal lyde:
 
@@ -250,7 +283,10 @@ Uhell og ulykker i forbindelse med håndtering av farlig stoff skal snarest muli
 
 [§ 23 første ledd](forskrift/2009-06-08-602/§23/ledd/1) skal lyde:
 
-Kommunen fører tilsyn med at bestemmelsene i denne forskriften blir overholdt. Kommunen kan likevel ikke føre tilsyn etter denne forskrift medvirksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17), ogmilitære virksomheter, herunder anlegg og lagre.
+Kommunen fører tilsyn med at bestemmelsene i denne forskriften blir overholdt. Kommunen kan likevel ikke føre tilsyn etter denne forskrift med
+
+1. virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17), og
+2. militære virksomheter, herunder anlegg og lagre.
 
 [§ 23 annet ledd](forskrift/2009-06-08-602/§23/ledd/2) skal lyde:
 
@@ -258,7 +294,10 @@ Direktoratet for samfunnssikkerhet og beredskap fører tilsyn med at bestemmelse
 
 [§ 23](forskrift/2009-06-08-602/§23) nytt tredje ledd skal lyde:
 
-Direktoratet kan i tillegg til kommunen føre tilsyn med at personer og andre virksomheter enn de som er samtykkepliktige etter [§ 17](forskrift/2009-06-08-602/§17) overholder bestemmelsene i denne forskriften nårdirektoratet anser at dette er nødvendig for å følge opp hendelser eller bekymringsmeldinger, ellerdirektoratet anser at dette er nødvendig for å ha oversikt over risiko knyttet til håndtering av farlig stoff.
+Direktoratet kan i tillegg til kommunen føre tilsyn med at personer og andre virksomheter enn de som er samtykkepliktige etter [§ 17](forskrift/2009-06-08-602/§17) overholder bestemmelsene i denne forskriften når
+
+1. direktoratet anser at dette er nødvendig for å følge opp hendelser eller bekymringsmeldinger, eller
+2. direktoratet anser at dette er nødvendig for å ha oversikt over risiko knyttet til håndtering av farlig stoff.
 
 [§ 23 tredje ledd](forskrift/2009-06-08-602/§23/ledd/3) blir fjerde ledd.
 

@@ -15,7 +15,7 @@ xml_hash: "fc4d853d3ba0c832e367450cee7e0a00c8e4574a3210d41d2ba06c068646bbf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,11 @@ Kongen kan fastsette nærmere sikkerhetsbestemmelser som en godkjent kampaktivit
 
 ## § 2.
 
-Med bøter eller fengsel i inntil tre måneder straffes den som uten å ha innhentet godkjenning:arrangerer, deltar, gir økonomisk støtte til eller stiller lokaler til rådighet for kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd,inngår avtale om kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd, ellergjør tjeneste som dommer eller sekundant ved kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd.
+Med bøter eller fengsel i inntil tre måneder straffes den som uten å ha innhentet godkjenning:
+
+1. arrangerer, deltar, gir økonomisk støtte til eller stiller lokaler til rådighet for kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd,
+2. inngår avtale om kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd, eller
+3. gjør tjeneste som dommer eller sekundant ved kampaktivitet som nevnt i [§ 1](lov/2001-06-15-73/§1) første ledd.
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 

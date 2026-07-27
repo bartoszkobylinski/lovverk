@@ -15,7 +15,7 @@ xml_hash: "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019R2033"
@@ -55,7 +55,16 @@ Nåværende [femte ledd](lov/2007-06-29-75/§9-16/ledd/5) blir fjerde ledd.
 
 [§ 9-36](lov/2007-06-29-75/§9-36) nytt sjette ledd skal lyde:
 
-(6) Filial av tredjestatsforetak skal årlig rapportere om følgende til Finanstilsynet:størrelsen og omfanget av de tjenester som ytes, og den virksomhet som drives, av filialen her i riket,for tredjestatsforetak som driver virksomhet som nevnt i [§ 2-1 første ledd nr. 3](lov/2007-06-29-75/§2-1/ledd/1/nummer/3), deres månedlige minimums-, gjennomsnitts- og maksimumseksponering overfor motparter i EØS-området,for tredjestatsforetak som yter tjenester som nevnt i [§ 2-1 første ledd nr. 6](lov/2007-06-29-75/§2-1/ledd/1/nummer/6), den samlede verdien av finansielle instrumenter med opprinnelse hos motparter i EØS som det er gitt fulltegningsgaranti for, eller som er plassert med fulltegningsgaranti de siste tolv månedene,omsetningen og den samlede verdien av midler som knytter seg til tjenester som ytes, og virksomhet som drives, her i riket,en detaljert beskrivelse av investorbeskyttelsesordningene som er tilgjengelige for filialens kunder, herunder kundenes rettigheter etter erstatningsordningen som nevnt i annet ledd nr. 7,risikostyringspolitikken og -ordningene som filialen anvender ved tjenesteyting og virksomhet her i riket,styringsordningene, herunder personer med nøkkelfunksjoner i filialens virksomhet,annen informasjon som Finanstilsynet finner nødvendig for å muliggjøre en allsidig overvåkning av filialens virksomhet.
+(6) Filial av tredjestatsforetak skal årlig rapportere om følgende til Finanstilsynet:
+
+1. størrelsen og omfanget av de tjenester som ytes, og den virksomhet som drives, av filialen her i riket,
+2. for tredjestatsforetak som driver virksomhet som nevnt i [§ 2-1 første ledd nr. 3](lov/2007-06-29-75/§2-1/ledd/1/nummer/3), deres månedlige minimums-, gjennomsnitts- og maksimumseksponering overfor motparter i EØS-området,
+3. for tredjestatsforetak som yter tjenester som nevnt i [§ 2-1 første ledd nr. 6](lov/2007-06-29-75/§2-1/ledd/1/nummer/6), den samlede verdien av finansielle instrumenter med opprinnelse hos motparter i EØS som det er gitt fulltegningsgaranti for, eller som er plassert med fulltegningsgaranti de siste tolv månedene,
+4. omsetningen og den samlede verdien av midler som knytter seg til tjenester som ytes, og virksomhet som drives, her i riket,
+5. en detaljert beskrivelse av investorbeskyttelsesordningene som er tilgjengelige for filialens kunder, herunder kundenes rettigheter etter erstatningsordningen som nevnt i annet ledd nr. 7,
+6. risikostyringspolitikken og -ordningene som filialen anvender ved tjenesteyting og virksomhet her i riket,
+7. styringsordningene, herunder personer med nøkkelfunksjoner i filialens virksomhet,
+8. annen informasjon som Finanstilsynet finner nødvendig for å muliggjøre en allsidig overvåkning av filialens virksomhet.
 
 Nåværende [sjette](lov/2007-06-29-75/§9-36/ledd/6) og [syvende ledd](lov/2007-06-29-75/§9-36/ledd/7) blir syvende og nytt åttende ledd.
 
@@ -119,7 +128,9 @@ Ny [§ 2-8 a](lov/2015-04-10-17/§2-8a) skal lyde:
 
 [§ 3-7 første ledd bokstav f](lov/2015-04-10-17/§3-7/ledd/1/bokstav/f) og ny bokstav g skal lyde:
 
-foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,foretaket driver bare virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a) og har i fem sammenhengende år hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
+foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,
+
+foretaket driver bare virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a) og har i fem sammenhengende år hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
 
 [§ 10-6 første ledd annet punktum](lov/2015-04-10-17/§10-6/ledd/1/setning/2) oppheves.
 

@@ -36,7 +36,19 @@ Forskriften gjelder for flyværtjenester med de tilpasninger som følger av [for
 
 ### § 1-3. Gjennomføring av forordning (EU) 2017/373
 
-Forordning [(EU) 2017/373](eu/32017r0373) om fastsettelse av felles krav til ytere av lufttrafikkstyrings- og flysikringstjenester og andre nettverksfunksjoner for lufttrafikkstyring samt tilsyn med disse, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66xg, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2020/469](eu/32020r0469)forordning [(EU) 2020/1177](eu/32020r1177)forordning [(EU) 2021/665](eu/32021r0665)forordning [(EU) 2021/1338](eu/32021r1338)forordning [(EU) 2022/938](eu/32022r0938)forordning [(EU) 2024/403](eu/32024r0403)forordning [(EU) 2024/1111](eu/32024r1111)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2023/1771](eu/32023r1771)forordning [(EU) 2025/343](eu/32025r0343)forordning [(EU) 2025/2293](eu/32025r2293).
+Forordning [(EU) 2017/373](eu/32017r0373) om fastsettelse av felles krav til ytere av lufttrafikkstyrings- og flysikringstjenester og andre nettverksfunksjoner for lufttrafikkstyring samt tilsyn med disse, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66xg, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2020/469](eu/32020r0469)
+- forordning [(EU) 2020/1177](eu/32020r1177)
+- forordning [(EU) 2021/665](eu/32021r0665)
+- forordning [(EU) 2021/1338](eu/32021r1338)
+- forordning [(EU) 2022/938](eu/32022r0938)
+- forordning [(EU) 2024/403](eu/32024r0403)
+- forordning [(EU) 2024/1111](eu/32024r1111)
+- forordning [(EU) 2023/203](eu/32023r0203)
+- forordning [(EU) 2023/1771](eu/32023r1771)
+- forordning [(EU) 2025/343](eu/32025r0343)
+- forordning [(EU) 2025/2293](eu/32025r2293).
 
 > Endret ved forskrifter [2 sep 2024 nr. 2063](forskrift/2024-09-02-2063), [2 nov 2024 nr. 2655](forskrift/2024-11-02-2655), [8 nov 2024 nr. 2713](forskrift/2024-11-08-2713), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [20 juni 2025 nr. 1185](forskrift/2025-06-20-1185), [18 sep 2025 nr. 1872](forskrift/2025-09-18-1872), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [4 des 2025 nr. 2417](forskrift/2025-12-04-2417), [14 mai 2026 nr. 814](forskrift/2026-05-14-814), [1 juli 2026 nr. 1488](forskrift/2026-07-01-1488).
 
@@ -46,7 +58,14 @@ Forordning [(EU) 2017/373](eu/32017r0373) om fastsettelse av felles krav til yte
 
 ### § 1-4. Definisjoner
 
-I denne forskriften menes med*flyplass (aerodrome):* en landingsplass, jf. [forskrift 11. januar 2007 nr. 40 om konsesjon for landingsplasser § 2](forskrift/2007-01-11-40/§2) bokstav b, som er et definert område på land eller vann på en fast konstruksjon, en fast konstruksjon offshore eller en flytende konstruksjon, med bygninger, anlegg og utstyr, som helt eller delvis skal brukes til luftfartøyers ankomst, avgang og manøvrering på bakken*flyplassoperatør:* den som innehar konsesjon for landingsplassen, eller den ansvarlige operatøren for landingsplassen etter gjeldende konsesjonsvedtak, eller den som er innehaver av landingsplassen dersom den ikke har konsesjon*flysikringstjenester (ANS):* lufttrafikktjenester, kommunikasjons-, navigasjons- og overvåkingstjenester, flyværtjenester og luftfartsinformasjonstjenester*lufttrafikktjenesten:* det foretaket som yter lufttrafikktjeneste i det aktuelle luftrommet*lufttrafikktjenester (ATS):* de forskjellige flygeinformasjonstjenester, alarmtjenester, rådgivningstjenester for lufttrafikk samt flygekontrolltjenester (områdekontrolltjenester, innflygingskontrolltjenester og tårnkontrolltjenester)*lufttrafikkstyring (ATM):* den samling av luft- og bakkebaserte funksjoner (lufttrafikktjenester, styring av luftrommet og trafikkflytstyring) som kreves for å sikre at luftfartøyer beveger seg sikkert og effektivt i alle driftsfaser.
+I denne forskriften menes med
+
+1. *flyplass (aerodrome):* en landingsplass, jf. [forskrift 11. januar 2007 nr. 40 om konsesjon for landingsplasser § 2](forskrift/2007-01-11-40/§2) bokstav b, som er et definert område på land eller vann på en fast konstruksjon, en fast konstruksjon offshore eller en flytende konstruksjon, med bygninger, anlegg og utstyr, som helt eller delvis skal brukes til luftfartøyers ankomst, avgang og manøvrering på bakken
+2. *flyplassoperatør:* den som innehar konsesjon for landingsplassen, eller den ansvarlige operatøren for landingsplassen etter gjeldende konsesjonsvedtak, eller den som er innehaver av landingsplassen dersom den ikke har konsesjon
+3. *flysikringstjenester (ANS):* lufttrafikktjenester, kommunikasjons-, navigasjons- og overvåkingstjenester, flyværtjenester og luftfartsinformasjonstjenester
+4. *lufttrafikktjenesten:* det foretaket som yter lufttrafikktjeneste i det aktuelle luftrommet
+5. *lufttrafikktjenester (ATS):* de forskjellige flygeinformasjonstjenester, alarmtjenester, rådgivningstjenester for lufttrafikk samt flygekontrolltjenester (områdekontrolltjenester, innflygingskontrolltjenester og tårnkontrolltjenester)
+6. *lufttrafikkstyring (ATM):* den samling av luft- og bakkebaserte funksjoner (lufttrafikktjenester, styring av luftrommet og trafikkflytstyring) som kreves for å sikre at luftfartøyer beveger seg sikkert og effektivt i alle driftsfaser.
 
 ### § 1-5. Delegering av myndighet
 
@@ -86,15 +105,35 @@ Luftfartstilsynet kan, for å ivareta flysikkerheten, fastsette særskilte krav 
 
 ### § 3-4. Særskilte regler for tjenesteytere med begrenset sertifikat
 
-Tjenesteytere som benytter muligheten til å søke om et begrenset sertifikat skal, i tillegg til de minimumskrav som følger av ATM/ANS.OR.A.010 i kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373), overholde kravene i følgende bestemmelser:ATM/ANS.OR.A.035 Påvisning av samsvar (Demonstration of compliance)ATM/ANS.OR.A.050 Tilrettelegging og samarbeid (Facilitation and cooperation)ATM/ANS.OR.A.055 Avvik og korrigerende tiltak (Findings and corrective actions)ATM/ANS.OR.A.060 Umiddelbar reaksjon på et sikkerhetsproblem (Immediate reaction to a safety problem)ATM/ANS.OR.B.025 Krav til anlegg (Facilities requirements).
+Tjenesteytere som benytter muligheten til å søke om et begrenset sertifikat skal, i tillegg til de minimumskrav som følger av ATM/ANS.OR.A.010 i kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373), overholde kravene i følgende bestemmelser:
 
-I tillegg til kravene som følger av første ledd, kan Luftfartstilsynet, etter en konkret vurdering, bestemme at også kravene i følgende bestemmelser skal overholdes:ATM/ANS.OR.A.070 Beredskapsplaner (Contingency plans)ATM/ANS.OR.B.035 Driftshåndbøker (Operations manuals)ATM/ANS.OR.D.010 Sikkerhetsstyring (Security management)ATM/ANS.OR.D.020 Erstatningsansvar og forsikringsdekning (Liability and insurance cover).
+1. ATM/ANS.OR.A.035 Påvisning av samsvar (Demonstration of compliance)
+2. ATM/ANS.OR.A.050 Tilrettelegging og samarbeid (Facilitation and cooperation)
+3. ATM/ANS.OR.A.055 Avvik og korrigerende tiltak (Findings and corrective actions)
+4. ATM/ANS.OR.A.060 Umiddelbar reaksjon på et sikkerhetsproblem (Immediate reaction to a safety problem)
+5. ATM/ANS.OR.B.025 Krav til anlegg (Facilities requirements).
+
+I tillegg til kravene som følger av første ledd, kan Luftfartstilsynet, etter en konkret vurdering, bestemme at også kravene i følgende bestemmelser skal overholdes:
+
+1. ATM/ANS.OR.A.070 Beredskapsplaner (Contingency plans)
+2. ATM/ANS.OR.B.035 Driftshåndbøker (Operations manuals)
+3. ATM/ANS.OR.D.010 Sikkerhetsstyring (Security management)
+4. ATM/ANS.OR.D.020 Erstatningsansvar og forsikringsdekning (Liability and insurance cover).
 
 ### § 3-5. Tjenesteytere med begrenset sertifikat som sysselsetter ATSEP
 
 Kravene i vedlegg XIII til kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373) gjelder også for tjenesteytere med begrenset sertifikat som sysselsetter ATSEP (Air Traffic Safety Electronics Personnel).
 
-Luftfartstilsynet kan likevel, etter en konkret vurdering, bestemme at tjenesteytere med begrenset sertifikat som sysselsetter ATSEP, kun behøver å overholde kravene i følgende bestemmelser:ATSEP.OR.105 Program for opplæring og kompetansevurdering (Training and competence assessment programme)ATSEP.OR.110 Oppbevaring av dokumentasjon (Record-keeping)ATSEP.OR.215 Rettighetsopplæring for system og utstyr (System and equipment rating training)ATSEP.OR.220 Etter- og videreutdanning (Continuation training)ATSEP.OR.300 Kompetansevurdering – Generelt (Competence assessment – General), bestemmelsens bokstav a)ATSEP.OR.305 Vurdering av grunnkompetanse og aktuell kompetanse (Assessment of initial and ongoing competence)ATSEP.OR.400 Instruktører for ATSEP (ATSEP training instructors)ATSEP.OR.405 Bedømmere av tekniske ferdigheter (Technical skills assessors).
+Luftfartstilsynet kan likevel, etter en konkret vurdering, bestemme at tjenesteytere med begrenset sertifikat som sysselsetter ATSEP, kun behøver å overholde kravene i følgende bestemmelser:
+
+1. ATSEP.OR.105 Program for opplæring og kompetansevurdering (Training and competence assessment programme)
+2. ATSEP.OR.110 Oppbevaring av dokumentasjon (Record-keeping)
+3. ATSEP.OR.215 Rettighetsopplæring for system og utstyr (System and equipment rating training)
+4. ATSEP.OR.220 Etter- og videreutdanning (Continuation training)
+5. ATSEP.OR.300 Kompetansevurdering – Generelt (Competence assessment – General), bestemmelsens bokstav a)
+6. ATSEP.OR.305 Vurdering av grunnkompetanse og aktuell kompetanse (Assessment of initial and ongoing competence)
+7. ATSEP.OR.400 Instruktører for ATSEP (ATSEP training instructors)
+8. ATSEP.OR.405 Bedømmere av tekniske ferdigheter (Technical skills assessors).
 
 ## Kapittel 4 – Særskilte nasjonale bestemmelser – ytere av lufttrafikktjenester
 
@@ -138,7 +177,10 @@ Flygekontrolltjenestens ansvar for å holde kjøretøyer på manøvreringsområd
 
 Flygekontrolltjenesten skal ha systemer eller metoder som gir en påminnelse om at rullebanen er opptatt, når personell, inkludert fører av kjøretøy, har fått tillatelse til å oppholde seg på eller i nærheten av rullebane i bruk.
 
-Med mindre det ved flyplassen er etablert et godkjent system for samtidig og uavhengig bruk av kryssende rullebaner, skal flygekontrolltjenesten ved samtidig bruk av kryssende rullebaner ikke utstede landingsklarering til et etterfølgende luftfartøy før det forangående landende luftfartøy entenhar passert og er klar av kryssende rullebane, elleretter landing har stoppet utrullingen og har bekreftet at instruksjoner som sikrer at luftfartøyet ikke vil befinne seg nærmere kryssende rullebane enn den avstand som kreves for etablering av holdeposisjoner, er mottatt.
+Med mindre det ved flyplassen er etablert et godkjent system for samtidig og uavhengig bruk av kryssende rullebaner, skal flygekontrolltjenesten ved samtidig bruk av kryssende rullebaner ikke utstede landingsklarering til et etterfølgende luftfartøy før det forangående landende luftfartøy enten
+
+1. har passert og er klar av kryssende rullebane, eller
+2. etter landing har stoppet utrullingen og har bekreftet at instruksjoner som sikrer at luftfartøyet ikke vil befinne seg nærmere kryssende rullebane enn den avstand som kreves for etablering av holdeposisjoner, er mottatt.
 
 Når en rullebane brukes av et luftfartøy for taksing eller venting, og et annet luftfartøy blir klarert for overflyging av samme rullebane i høyder lavere enn 1000 fot over flyplassens nivå, skal flygekontrolltjenesten gi trafikkinformasjon til begge luftfartøyer. Overflyging skal i slike tilfeller ikke tillates utført i høyder lavere enn 500 fot over flyplassens nivå.
 
@@ -156,7 +198,12 @@ Når flygekontrolltjenesten benytter et ATS-overvåkingssystem under utøvelse a
 
 Bruken av ATS-overvåkingssystem under utøvelse av kombinert tårn- og innflygingskontrolltjeneste forutsetter at antall samtidige flybevegelser innenfor tjenesteenhetens ansvarsområde ikke overstiger en grense fastsatt av tjenesteyteren. Tjenesteenheten skal også ha vurdert fastsatt ytterligere begrensninger, med hensyn til faktorer som at flygeleder er alene på vakt, brøyting av manøvreringsområdet, redusert sikt, glatte baner, vanskelige vindforhold, operasjoner utenom dagslysperioden eller andre forhold som krever spesiell oppmerksomhet.
 
-ATS-overvåkingssystem kan under utøvelse av kombinert tårn- og innflygingskontrolltjeneste kun benyttes for vektorering av luftfartøyer under følgende forutsetninger:Vektorering skal ikke benyttes for mer enn ett luftfartøy av gangen.Vektorering skal ikke benyttes samtidig som andre luftfartøy befinner seg i avgangsfasen, landingsfasen eller i landingsrunden.Vektorering skal ikke benyttes dersom det samtidig er trafikk på manøvreringsområdet, med mindre flygekontrolltjenesten har fastsatt noe annet i sine håndbøker.Vektorering skal ikke benyttes når andre forhold, som definert lokalt, krever spesiell oppmerksomhet.
+ATS-overvåkingssystem kan under utøvelse av kombinert tårn- og innflygingskontrolltjeneste kun benyttes for vektorering av luftfartøyer under følgende forutsetninger:
+
+1. Vektorering skal ikke benyttes for mer enn ett luftfartøy av gangen.
+2. Vektorering skal ikke benyttes samtidig som andre luftfartøy befinner seg i avgangsfasen, landingsfasen eller i landingsrunden.
+3. Vektorering skal ikke benyttes dersom det samtidig er trafikk på manøvreringsområdet, med mindre flygekontrolltjenesten har fastsatt noe annet i sine håndbøker.
+4. Vektorering skal ikke benyttes når andre forhold, som definert lokalt, krever spesiell oppmerksomhet.
 
 Med «avgangsfasen» menes perioden fra luftfartøyet påbegynner sin avgang og frem til fartøyet er i luften og har passert enden av rullebanen. Med «landingsfasen» menes perioden fra luftfartøyet er nærmere enn 4 NM fra terskelen til rullebanen som skal benyttes til landingen og frem til luftfartøyet har landet.
 
@@ -172,7 +219,10 @@ Når en lufttrafikktjenesteenhet som har tilgang til peiler mottar et nødpeiles
 
 ### § 4-10. Håndtering av lufttrafikktjenestemeldinger
 
-I tillegg til å etterleve de krav som følger av forordning [(EF) nr. 1033/2006](eu/32006r1033), som gjennomført i [forskrift 14. mai 2007 nr. 513 om samvirkingsevnen i Det europeiske nett for lufttrafikkstyring](forskrift/2007-05-14-513), skal lufttrafikktjenesten håndtere lufttrafikktjenestemeldinger i samsvar med «Eurocontrol Network Managers ATFCM Users Manual», utgave 27.0, datert 25. april 2023. Følgende tilpasninger skal likevel gjelde:Når en lufttrafikktjenesteenhet mottar en innlevert reiseplanmelding for en IFR-flyging med avgangsplass utenfor IFPS-sonen, eller for en VFR-flyging med annen avgangsplass enn der reiseplanen er innlevert, skal reiseplanmeldingen sendes til meldekontoret for avgangsplassen. Meldekontoret for avgangsplassen skal behandle reiseplanmeldingen som om den var innlevert lokalt.En lufttrafikktjenesteenhet skal sende DEP-melding (avgangsmelding) for alle VFR-flyginger, også der bare deler av flygingen foregår VFR.
+I tillegg til å etterleve de krav som følger av forordning [(EF) nr. 1033/2006](eu/32006r1033), som gjennomført i [forskrift 14. mai 2007 nr. 513 om samvirkingsevnen i Det europeiske nett for lufttrafikkstyring](forskrift/2007-05-14-513), skal lufttrafikktjenesten håndtere lufttrafikktjenestemeldinger i samsvar med «Eurocontrol Network Managers ATFCM Users Manual», utgave 27.0, datert 25. april 2023. Følgende tilpasninger skal likevel gjelde:
+
+1. Når en lufttrafikktjenesteenhet mottar en innlevert reiseplanmelding for en IFR-flyging med avgangsplass utenfor IFPS-sonen, eller for en VFR-flyging med annen avgangsplass enn der reiseplanen er innlevert, skal reiseplanmeldingen sendes til meldekontoret for avgangsplassen. Meldekontoret for avgangsplassen skal behandle reiseplanmeldingen som om den var innlevert lokalt.
+2. En lufttrafikktjenesteenhet skal sende DEP-melding (avgangsmelding) for alle VFR-flyginger, også der bare deler av flygingen foregår VFR.
 
 > Tilføyd ved forskrift [26 okt 2022 nr. 1812](forskrift/2022-10-26-1812) (i kraft 1 nov 2022), endret ved forskrift [16 nov 2023 nr. 1868](forskrift/2023-11-16-1868) (i kraft 1 jan 2024).
 
@@ -242,7 +292,16 @@ Luftfartstilsynet og ytere av luftfartsinformasjonstjenester skal samarbeide for
 
 ### § 7-1. Kritiske og sensitive områder rundt kommunikasjons-, navigasjons- og overvåkingsinstallasjoner
 
-En yter av kommunikasjons-, navigasjons- og overvåkingstjenester skal fastsette kritiske og sensitive områder i samsvar med retningslinjene i Konvensjonen om internasjonal luftfart (Chicago-konvensjonen), Vedlegg 10, Volum I, sjuende utgave, rundt følgende installasjoner som tjenesteyteren har ansvar for driften avretningsfyr (LOC)glidebane (GP)merkefyr (MRK)avstandsmåler (DME)peiler (VDF/UDF)rundtstrålende radiofyr (NDB)VHF-retningsbestemmende radiofyr (VOR)SCAT-I.
+En yter av kommunikasjons-, navigasjons- og overvåkingstjenester skal fastsette kritiske og sensitive områder i samsvar med retningslinjene i Konvensjonen om internasjonal luftfart (Chicago-konvensjonen), Vedlegg 10, Volum I, sjuende utgave, rundt følgende installasjoner som tjenesteyteren har ansvar for driften av
+
+1. retningsfyr (LOC)
+2. glidebane (GP)
+3. merkefyr (MRK)
+4. avstandsmåler (DME)
+5. peiler (VDF/UDF)
+6. rundtstrålende radiofyr (NDB)
+7. VHF-retningsbestemmende radiofyr (VOR)
+8. SCAT-I.
 
 Formålet med de kritiske og sensitive områdene er å beskytte installasjonene som nevnt i første ledd mot påvirkning fra objekter som kan svekke funksjonsytelsen til installasjonene. Yteren av kommunikasjons-, navigasjons- og overvåkingstjenester skal gjøre de kritiske og sensitive områdene kjent for flyplassoperatøren og lufttrafikktjenestene slik at de kan hensynta formålet med områdene i utøvelsen av deres respektive oppgaver.
 
@@ -258,7 +317,11 @@ Byggerestriksjonsområdene etter første ledd skal utarbeides i samsvar med ICAO
 
 ### § 7-3. Radioteknisk vurdering for kommunikasjons-, navigasjons- og overvåkingsinstallasjoner
 
-En yter av kommunikasjons-, navigasjons- og overvåkingstjenester har ansvar for at det blir utarbeidet en radioteknisk vurdering når det er tvil om bygninger som ønskes etablert i byggerestriksjonsområdene rundt installasjonene, jf. § 7-2, vil påvirke det utstrålte signalet til installasjonene negativt. Med bygninger menes byggverk, installasjoner, anlegg eller lignende. Den radiotekniske vurderingen skal dokumentere at det utstrålte signalet til installasjonene ikke påvirkes negativt av bygningene som ønskes etablert, og skal som et minimum omfatte vurderinger avfysisk påvirkning i form av refleksjoner eller skyggingelektronisk påvirkning i form av innslag i monitorer, fjernkontroll, fjernovervåkning eller andre funksjonerelektronisk påvirkning i form av frekvensbruk og elektromagnetisk støy.
+En yter av kommunikasjons-, navigasjons- og overvåkingstjenester har ansvar for at det blir utarbeidet en radioteknisk vurdering når det er tvil om bygninger som ønskes etablert i byggerestriksjonsområdene rundt installasjonene, jf. § 7-2, vil påvirke det utstrålte signalet til installasjonene negativt. Med bygninger menes byggverk, installasjoner, anlegg eller lignende. Den radiotekniske vurderingen skal dokumentere at det utstrålte signalet til installasjonene ikke påvirkes negativt av bygningene som ønskes etablert, og skal som et minimum omfatte vurderinger av
+
+1. fysisk påvirkning i form av refleksjoner eller skygging
+2. elektronisk påvirkning i form av innslag i monitorer, fjernkontroll, fjernovervåkning eller andre funksjoner
+3. elektronisk påvirkning i form av frekvensbruk og elektromagnetisk støy.
 
 Yteren av kommunikasjons-, navigasjons- og overvåkingstjenester skal sørge for at den radiotekniske vurderingen etter første ledd utføres av personell med tilstrekkelig kompetanse på fagområdet.
 
@@ -288,7 +351,10 @@ Luftfartstilsynet kan ilegge overtredelsesgebyr etter [luftfartsloven § 13a-5](
 
 ### § 10-1. Ikrafttredelse og oppheving
 
-Forskriften trer i kraft 1. september 2022. Fra samme tid oppheves[forskrift 11. november 2003 nr. 1345 om etablering, organisering og drift av lufttrafikktjeneste § 4](forskrift/2003-11-11-1345/§4) til [§ 17](forskrift/2003-11-11-1345/§17), [§ 20](forskrift/2003-11-11-1345/§20) til [§ 26](forskrift/2003-11-11-1345/§26), [§ 30](forskrift/2003-11-11-1345/§30), [§ 32](forskrift/2003-11-11-1345/§32) og vedleggene 5 og 7[forskrift 24. september 2018 nr. 1407 om krav til ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) og nettverksfunksjoner for lufttrafikkstyring (ATM-nettverksfunksjoner)](forskrift/2018-09-24-1407).
+Forskriften trer i kraft 1. september 2022. Fra samme tid oppheves
+
+1. [forskrift 11. november 2003 nr. 1345 om etablering, organisering og drift av lufttrafikktjeneste § 4](forskrift/2003-11-11-1345/§4) til [§ 17](forskrift/2003-11-11-1345/§17), [§ 20](forskrift/2003-11-11-1345/§20) til [§ 26](forskrift/2003-11-11-1345/§26), [§ 30](forskrift/2003-11-11-1345/§30), [§ 32](forskrift/2003-11-11-1345/§32) og vedleggene 5 og 7
+2. [forskrift 24. september 2018 nr. 1407 om krav til ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) og nettverksfunksjoner for lufttrafikkstyring (ATM-nettverksfunksjoner)](forskrift/2018-09-24-1407).
 
 ### § 10-2. Endring av forskrift
 

@@ -15,7 +15,7 @@ xml_hash: "1b3841e9d116b533f450ec42af464f3626b8708803022d386ee9324eb735e63b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -186,9 +186,17 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 
 ### § 3-4. Studentdemokrati og studentvelferd
 
-(1) Fagskolen skal bidra til at studentene:har et fungerende studentdemokrati hvor studenter medvirker i fagskolens utøvende og styrende organer.får tilgang på nødvendig informasjon som angår deres studieløp og studentdemokratiet.
+(1) Fagskolen skal bidra til at studentene:
 
-(2) Studentene skal være representert i:fagskolestyret,lokal klagenemnd,læringsmiljøutvalg.og velge et eget studentstyre.
+1. har et fungerende studentdemokrati hvor studenter medvirker i fagskolens utøvende og styrende organer.
+2. får tilgang på nødvendig informasjon som angår deres studieløp og studentdemokratiet.
+
+(2) Studentene skal være representert i:
+
+1. fagskolestyret,
+2. lokal klagenemnd,
+3. læringsmiljøutvalg.
+4. og velge et eget studentstyre.
 
 (3) Studentstyret velges for ett år av gangen og er taleorganet til studentene.
 
@@ -208,7 +216,12 @@ Fastsatt med hjemmel i [fagskoleloven § 21](lov/2018-06-08-28/§21).
 
 (3) Karakteren for emnet skal vise i hvilken grad studenten har oppnådd læringsutbyttet etter å ha fullført emnet. Emnet kan bare lede fram til én karakter eller vurderingsuttrykket bestått / ikke bestått.
 
-(4) Ved fagskolen kan følgende vurderingsformer benyttes:presentasjonsmappepresentasjonsmappe med sluttprøveskriftlig oppgave (eksamen) – enten hjemme eller på studiestedet innen en gitt tidsperiode, som er oppgitt i studieplanenskriftlig oppgave med muntlig høring.
+(4) Ved fagskolen kan følgende vurderingsformer benyttes:
+
+1. presentasjonsmappe
+2. presentasjonsmappe med sluttprøve
+3. skriftlig oppgave (eksamen) – enten hjemme eller på studiestedet innen en gitt tidsperiode, som er oppgitt i studieplanen
+4. skriftlig oppgave med muntlig høring.
 
 (5) Studenten har selv ansvar for å lagre arbeidskrav som skal inngå i presentasjonsmappen.
 
@@ -229,7 +242,10 @@ Fastsatt med hjemmel i [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§4
 | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
 | F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
-(3) Den todelte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:Bestått: Besvarelsen/presentasjonen viser at studenten har bred faglig kunnskap innen hele emnet, og god kunnskap innen de mest sentrale områdene. Kravet om bred kunnskap i emnet betyr at det ikke kan være store kunnskapshull i deler av emnet. Oppgaver kan vektes ulikt under vurderingen, avhengig av hvor sentrale de er for emnet.Ikke bestått: Besvarelsen/presentasjonen viser at studenten har mangelfull kunnskap innen sentrale områder som inngår i emnet. Studenten har ikke tilstrekkelig faglig kunnskap, ferdigheter eller generell kompetanse til å kunne anvende det forventede læringsutbyttet fra emnet på en selvstendig måte.
+(3) Den todelte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:
+
+- Bestått: Besvarelsen/presentasjonen viser at studenten har bred faglig kunnskap innen hele emnet, og god kunnskap innen de mest sentrale områdene. Kravet om bred kunnskap i emnet betyr at det ikke kan være store kunnskapshull i deler av emnet. Oppgaver kan vektes ulikt under vurderingen, avhengig av hvor sentrale de er for emnet.
+- Ikke bestått: Besvarelsen/presentasjonen viser at studenten har mangelfull kunnskap innen sentrale områder som inngår i emnet. Studenten har ikke tilstrekkelig faglig kunnskap, ferdigheter eller generell kompetanse til å kunne anvende det forventede læringsutbyttet fra emnet på en selvstendig måte.
 
 ### § 4-3. Sluttvurdering og eksamen
 
@@ -237,7 +253,11 @@ Fastsatt med hjemmel i [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§4
 
 (2) Studenten har plikt til å sette seg inn i studieplanen for å gjøre seg kjent med gjeldene vilkår for sluttvurdering og eksamen.
 
-(3) Vilkår for sluttvurdering er ett eller flere av følgende:Alle arbeidskrav, eller et angitt minimum av antall arbeidskrav, er gjennomført/innlevert og godkjent i henhold til studieplanen.Veiledningsplikt er oppfylt.Oppmøteplikt er oppfylt.
+(3) Vilkår for sluttvurdering er ett eller flere av følgende:
+
+1. Alle arbeidskrav, eller et angitt minimum av antall arbeidskrav, er gjennomført/innlevert og godkjent i henhold til studieplanen.
+2. Veiledningsplikt er oppfylt.
+3. Oppmøteplikt er oppfylt.
 
 (4) Dersom en student står i fare for å ikke oppfylle vilkårene for sluttvurdering, skal det gis forhåndsvarsel. Hvis vilkårene ikke oppfylles, mister studenten retten til sluttvurdering og må ta emnet på nytt. Det skal da fattes et enkeltvedtak med klageadgang etter [forvaltningsloven § 29](lov/1967-02-10/§29). Klagefristen er tre uker fra mottak av vedtaksbrevet.
 
@@ -293,7 +313,16 @@ Det vises til [fagskoleloven § 24](lov/2018-06-08-28/§24) Annullering av eksam
 
 (1) Klagenemnden ved Fagskolen Vestfold og Telemark kan annullere resultatet av en sluttvurdering/eksamen, eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i.
 
-(2) Den lokale klagenemnden kan også annullere resultatet av en sluttvurdering/eksamen eller lignende, samt godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med sluttvurderingen/eksamenen, eller lignende eller under gjennomføringen av emnet. Som fusk regnes eksempelvis:Bruk av andre hjelpemidler enn de som er tillatt i emneoppgave, sluttprøve, obligatoriske arbeider og/eller eksamensoppgaven for et emne. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av sluttvurderingen/eksamen, selv om det ikke kan påvises at hjelpemiddel har vært i brukSamarbeid eller utveksling av informasjon med andre studenter eller eksterne fagpersoner i vurderinger som krever selvstendig, individuelt arbeid.Medvirkning til fusk (hjelpe en annen student med å jukse)Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider og bruk av eget og/eller andres arbeid uten kildehenvisningTidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv eller av andre, som benyttes uten kildehenvisningBesvarelsen er svært lik annen besvarelse eller åpenbart delvis eller helt er utarbeidet av andreBruk av kunstig intelligens (KI) der det ikke er oppgitt som tillatt. Det skal tydelig fremgå av oppgavebeskrivelsen for hvert arbeidskrav og hver sluttvurdering hvorvidt KI-verktøy er tillatt eller ikke, samt i hvilken form KI kan benyttes.På uriktig grunnlag ha fått godkjenning for obligatorisk arbeid eller andre obligatoriske aktiviteter uten å ha deltatt aktivt selv (gruppearbeid, praksis).
+(2) Den lokale klagenemnden kan også annullere resultatet av en sluttvurdering/eksamen eller lignende, samt godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med sluttvurderingen/eksamenen, eller lignende eller under gjennomføringen av emnet. Som fusk regnes eksempelvis:
+
+1. Bruk av andre hjelpemidler enn de som er tillatt i emneoppgave, sluttprøve, obligatoriske arbeider og/eller eksamensoppgaven for et emne. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av sluttvurderingen/eksamen, selv om det ikke kan påvises at hjelpemiddel har vært i bruk
+2. Samarbeid eller utveksling av informasjon med andre studenter eller eksterne fagpersoner i vurderinger som krever selvstendig, individuelt arbeid.
+3. Medvirkning til fusk (hjelpe en annen student med å jukse)
+4. Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider og bruk av eget og/eller andres arbeid uten kildehenvisning
+5. Tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv eller av andre, som benyttes uten kildehenvisning
+6. Besvarelsen er svært lik annen besvarelse eller åpenbart delvis eller helt er utarbeidet av andre
+7. Bruk av kunstig intelligens (KI) der det ikke er oppgitt som tillatt. Det skal tydelig fremgå av oppgavebeskrivelsen for hvert arbeidskrav og hver sluttvurdering hvorvidt KI-verktøy er tillatt eller ikke, samt i hvilken form KI kan benyttes.
+8. På uriktig grunnlag ha fått godkjenning for obligatorisk arbeid eller andre obligatoriske aktiviteter uten å ha deltatt aktivt selv (gruppearbeid, praksis).
 
 (3) Vedtak om annullering etter første og annet ledd kan påklages av studenten.
 
@@ -311,7 +340,17 @@ Fastsatt med hjemmel i [fagskoleloven § 19](lov/2018-06-08-28/§19), [fagskolef
 
 (2) For at fagskolen skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må studenten avlegge minimum 10 studiepoeng ved skolen i minst ett emne. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
 
-(3) Vitnemålet skal omfatte de emner som inngår i utdanningen og det skal påføres emnenes omfang som studiepoeng og de karakterene som er oppnådd. Vitnemålet skal vise:utdanningens navn og gradsbetegnelse (gjennomført fagskoleutdanning ved 30 studiepoeng, fagskolegrad ved 60–90 og høyere fagskolegrad ved minimum 120 studiepoeng)kandidatens navn og fødselsnummeren beskrivelse av karaktersystemetkandidatens karaktererskolens navndet overordnede læringsutbyttet for utdanningenutdanningens emner og antall studiepoengnivå i Nasjonalt kvalifikasjonsrammeverk for livslang læringdatoen og sted for når vitnemålet er utstedt.
+(3) Vitnemålet skal omfatte de emner som inngår i utdanningen og det skal påføres emnenes omfang som studiepoeng og de karakterene som er oppnådd. Vitnemålet skal vise:
+
+1. utdanningens navn og gradsbetegnelse (gjennomført fagskoleutdanning ved 30 studiepoeng, fagskolegrad ved 60–90 og høyere fagskolegrad ved minimum 120 studiepoeng)
+2. kandidatens navn og fødselsnummer
+3. en beskrivelse av karaktersystemet
+4. kandidatens karakterer
+5. skolens navn
+6. det overordnede læringsutbyttet for utdanningen
+7. utdanningens emner og antall studiepoeng
+8. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring
+9. datoen og sted for når vitnemålet er utstedt.
 
 (4) På vitnemålet skal eventuell fordypning og tittel/problemstilling på hovedprosjekt, prosjekt- eller fordypningsoppgave fremgå. For utdanninger innen helsefag der praksis inngår, skal også type praksis oppgis på vitnemålet, samt problemstilling ved eventuelt utviklingsarbeid.
 
@@ -357,7 +396,15 @@ Fastsatt med hjemmel i [fagskoleloven § 25](lov/2018-06-08-28/§25) Bortvisning
 
 (1) En klage sendes fagskolen ved rektor i riktig utfylt stand vist i [§ 7-1 (2)](forskrift/2025-06-26-1539/§7-1/ledd/2).
 
-(2) Klage framsatt av én student eller én studentgruppe skal behandles som enkeltvedtak etter [fagskoleloven](lov/2018-06-08-28) og etter denne forskrift. Den som klager skal fylle ut:hvem som klager (navn, adresse og klasse)navn på faglærer eller ansvarlig for vedtaketdet vedtak det klages overhva klagen gjelder og begrunnelse på klagedato og underskrift.Klagen sendes fagskolens postmottak: fagskolen@telemarkfylke.no eller Fagskolen Vestfold og Telemark, postboks 2844, 3702 Skien.
+(2) Klage framsatt av én student eller én studentgruppe skal behandles som enkeltvedtak etter [fagskoleloven](lov/2018-06-08-28) og etter denne forskrift. Den som klager skal fylle ut:
+
+1. hvem som klager (navn, adresse og klasse)
+2. navn på faglærer eller ansvarlig for vedtaket
+3. det vedtak det klages over
+4. hva klagen gjelder og begrunnelse på klage
+5. dato og underskrift.
+
+Klagen sendes fagskolens postmottak: fagskolen@telemarkfylke.no eller Fagskolen Vestfold og Telemark, postboks 2844, 3702 Skien.
 
 ### § 7-2. Rett til begrunnelse og klage på sluttvurdering/eksamen
 
@@ -397,7 +444,11 @@ Fastsatt med hjemmel i [fagskoleloven § 22](lov/2018-06-08-28/§22)
 
 ### § 7-5. Lokal klagenemnd
 
-(1) Klagenemnden oppnevnes av styret og har fem medlemmer med personlige varamedlemmer. Nemnden består av:Lederen og varamedlemmet for lederen fyller de lovbestemte kravene for lagdommere.To studentrepresentanter med personlige vararepresentanter fra fagskolen.To representanter hvor den ene er ansatt ved ekstern fagskole og den andre er ansatt ved Fagskolen Vestfold og Telemark. De to representantene skal ha personlige vararepresentanter hvor én er intern og den andre er ekstern.
+(1) Klagenemnden oppnevnes av styret og har fem medlemmer med personlige varamedlemmer. Nemnden består av:
+
+1. Lederen og varamedlemmet for lederen fyller de lovbestemte kravene for lagdommere.
+2. To studentrepresentanter med personlige vararepresentanter fra fagskolen.
+3. To representanter hvor den ene er ansatt ved ekstern fagskole og den andre er ansatt ved Fagskolen Vestfold og Telemark. De to representantene skal ha personlige vararepresentanter hvor én er intern og den andre er ekstern.
 
 (2) Klagenemndas medlemmer utenom studentrådsrepresentantene med vara velges for fire år av gangen. Studentrådsrepresentantene med vara velges for ett år av gangen. Medlemmene honoreres etter fylkeskommunens møtesatser for politikere.
 
@@ -423,7 +474,15 @@ Nasjonal klagenemnd behandler saker som er behandlet i lokal klagenemnd, dersom 
 
 ### § 8-3. Fagskoleutdanninger med skikkethetsvurdering
 
-(1) Det skal foretas løpende skikkethetsvurdering av studenter ved alle utdanninger ved fagskolen innenfor fagområdet helse. Dette gjelder for samtlige eksisterende og nye utdanningstilbud, og etter- og videreutdanninger. Følgende utdanninger er omfattet av skikkethetsvurdering:EldrehelseHabilitering og atferdsstøtteObservasjons- og vurderingskompetansePalliasjonPsykisk helse og rusarbeidVeiledning i helsetjenestenAlle nye helseutdanninger som utvikles.
+(1) Det skal foretas løpende skikkethetsvurdering av studenter ved alle utdanninger ved fagskolen innenfor fagområdet helse. Dette gjelder for samtlige eksisterende og nye utdanningstilbud, og etter- og videreutdanninger. Følgende utdanninger er omfattet av skikkethetsvurdering:
+
+1. Eldrehelse
+2. Habilitering og atferdsstøtte
+3. Observasjons- og vurderingskompetanse
+4. Palliasjon
+5. Psykisk helse og rusarbeid
+6. Veiledning i helsetjenesten
+7. Alle nye helseutdanninger som utvikles.
 
 (2) Skikkethetsvurderingen skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket. Dersom det er begrunnet tvil om en student er skikket skal det i tillegg foretas en særskilt skikkethetsvurdering.
 
@@ -433,13 +492,24 @@ Fagskolen har plikt til å gi tilstrekkelig og relevant informasjon om fagskoleu
 
 ### § 8-5. Vurderingskriterier
 
-En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 8-6. Skikkethetsnemnd
 
 (1) Styret selv skal oppnevne en skikkethetsnemnd.
 
-(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder eller tilsvarende funksjon er nemndas leder og har dobbeltstemme.
 

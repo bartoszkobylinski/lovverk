@@ -15,7 +15,7 @@ xml_hash: "bfd68a77f9f826b1e1b6facb62d545687a0a298a994f96d650ad430dc74b88b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,12 @@ Kontantstøtte ytes med de beløp som fastsettes av Stortinget.
 
 Det ytes full kontantstøtte dersom barnet ikke gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for.
 
-Dersom barnet gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for og det er skriftlig avtalt redusert oppholdstid, ytes delvis kontantstøtte som følger:med 80 prosent av full kontantstøtte når det er avtalt oppholdstid til og med 8 timer per ukemed 60 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 9 til og med 16 timer per ukemed 40 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 17 til og med 24 timer per ukemed 20 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 25 til og med 32 timer per uke.
+Dersom barnet gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for og det er skriftlig avtalt redusert oppholdstid, ytes delvis kontantstøtte som følger:
+
+1. med 80 prosent av full kontantstøtte når det er avtalt oppholdstid til og med 8 timer per uke
+2. med 60 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 9 til og med 16 timer per uke
+3. med 40 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 17 til og med 24 timer per uke
+4. med 20 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 25 til og med 32 timer per uke.
 
 Det ytes ikke kontantstøtte hvis det er avtalt oppholdstid på 33 timer eller mer per uke.
 
@@ -140,7 +145,10 @@ Støttemottaker skal straks, og senest innen 14 dager, sende melding om flytting
 
 ### § 13. Avslag på søknad. Stans i utbetalingen
 
-En søknad om kontantstøtte kan avslås og en løpende kontantstøtte kan stanses dersom:det ikke blir gitt opplysninger som blir krevd, eller det blir gitt uriktige opplysninger eller fortiet opplysninger av betydning,mottaker ikke retter seg etter pålegg som er hjemlet i denne loven.
+En søknad om kontantstøtte kan avslås og en løpende kontantstøtte kan stanses dersom:
+
+1. det ikke blir gitt opplysninger som blir krevd, eller det blir gitt uriktige opplysninger eller fortiet opplysninger av betydning,
+2. mottaker ikke retter seg etter pålegg som er hjemlet i denne loven.
 
 > Endret ved lov [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 

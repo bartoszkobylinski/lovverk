@@ -15,7 +15,7 @@ xml_hash: "c2519b38ec7370c0f3069164c8ccd72b4c93e31b35fc79dc3e24a714e07c1329"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -174,7 +174,13 @@ Ved sal av ny eigarbustad eller fritidsbustad som vert seld innan seks månader 
 
 (1) Så langt ikkje anna følgjer av avtale, skal eigedomen for ikkje å ha ein mangel, ha slike ting og rettar som tilhøyrsle som er nemnt i andre ledd og [§§ 3-5](lov/1992-07-03-93/§3-5) og [3-6](lov/1992-07-03-93/§3-6). Når det er tvil om noko er tilhøyrsle, skal det leggjast vekt på om det gjeld noko som er uhøveleg å flytte, som er nødvendig til bruk på eigedomen, eller som best kan nyttast der.
 
-(2) Som tilhøyrsle vert mellom anna rekna:Ting som er på eigedomen og som etter lov, forskrift eller anna offentleg vedtak skal vere der.Ting som er kosta med offentlege tilskot særskilt til bruk på eigedomen.Faste tilstellingar som er kosta med midlar som det offentlege har bunde til bruk på eigedomen.Sameigepart, bruksrett, part i sams driftsting og driftstiltak, og medlemskap i samvirkeføretak, når dette ligg til eigedomen.Ikkje-forfalne festeavgifter og andre ikkje-forfalne krav knytt til eigedomen.
+(2) Som tilhøyrsle vert mellom anna rekna:
+
+1. Ting som er på eigedomen og som etter lov, forskrift eller anna offentleg vedtak skal vere der.
+2. Ting som er kosta med offentlege tilskot særskilt til bruk på eigedomen.
+3. Faste tilstellingar som er kosta med midlar som det offentlege har bunde til bruk på eigedomen.
+4. Sameigepart, bruksrett, part i sams driftsting og driftstiltak, og medlemskap i samvirkeføretak, når dette ligg til eigedomen.
+5. Ikkje-forfalne festeavgifter og andre ikkje-forfalne krav knytt til eigedomen.
 
 > Endra med lover [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [7 juni 2019 nr. 20](lov/2019-06-07-20) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1864](forskrift/2021-06-11-1864)).
 
@@ -230,7 +236,12 @@ Eigedomen har ein mangel dersom kjøparen ikkje har fått opplysning om omstende
 
 ### § 4-1. Innleiande føresegn
 
-(1) Gir ikkje seljaren frå seg skøyte eller bruken av eigedomen til rett tid, utan at dette står på kjøparen eller omstende kjøparen har vågnaden for, kan kjøparenkrevje oppfylling etter [§ 4-2](lov/1992-07-03-93/§4-2),heve etter [§ 4-3](lov/1992-07-03-93/§4-3),krevje skadebot etter [§ 4-5](lov/1992-07-03-93/§4-5),halde tilbake kjøpesummen etter [§ 4-6](lov/1992-07-03-93/§4-6).
+(1) Gir ikkje seljaren frå seg skøyte eller bruken av eigedomen til rett tid, utan at dette står på kjøparen eller omstende kjøparen har vågnaden for, kan kjøparen
+
+1. krevje oppfylling etter [§ 4-2](lov/1992-07-03-93/§4-2),
+2. heve etter [§ 4-3](lov/1992-07-03-93/§4-3),
+3. krevje skadebot etter [§ 4-5](lov/1992-07-03-93/§4-5),
+4. halde tilbake kjøpesummen etter [§ 4-6](lov/1992-07-03-93/§4-6).
 
 (2) Med unntak av [§ 4-3](lov/1992-07-03-93/§4-3) andre ledd gjeld føresegnene om forseinking tilsvarande så langt dei høver der seljaren ikkje i tide oppfyller andre skyldnader etter avtala.
 
@@ -276,7 +287,13 @@ Dersom seljaren vert hindra i å oppfylle avtala til rett tid, skal seljaren gi 
 
 ### § 4-8. Innleiande føresegn
 
-(1) Ligg det føre ein mangel ved eigedomen, utan at dette står på kjøparen eller omstende kjøparen har vågnaden for, kan kjøparenkrevje retting etter [§ 4-10](lov/1992-07-03-93/§4-10),krevje prisavslag etter [§ 4-12](lov/1992-07-03-93/§4-12),heve etter [§ 4-13](lov/1992-07-03-93/§4-13),krevje skadebot etter [§ 4-14](lov/1992-07-03-93/§4-14),halde tilbake kjøpesummen etter [§ 4-15](lov/1992-07-03-93/§4-15).
+(1) Ligg det føre ein mangel ved eigedomen, utan at dette står på kjøparen eller omstende kjøparen har vågnaden for, kan kjøparen
+
+1. krevje retting etter [§ 4-10](lov/1992-07-03-93/§4-10),
+2. krevje prisavslag etter [§ 4-12](lov/1992-07-03-93/§4-12),
+3. heve etter [§ 4-13](lov/1992-07-03-93/§4-13),
+4. krevje skadebot etter [§ 4-14](lov/1992-07-03-93/§4-14),
+5. halde tilbake kjøpesummen etter [§ 4-15](lov/1992-07-03-93/§4-15).
 
 (2) Føresegnene om manglar gjeld tilsvarande så langt dei høver for andre feil ved seljarens oppfylling.
 
@@ -374,7 +391,13 @@ Hefter det offentlegrettslege rådvaldsband eller offentlegrettslege tyngsler p�
 
 ### § 5-1. Innleiande føresegn
 
-(1) Dersom kjøparen ikkje betaler eller oppfyller andre skyldnader etter avtala, utan at dette står på seljaren eller omstende seljaren har vågnaden for, kan seljarenkrevje oppfylling etter [§ 5-2](lov/1992-07-03-93/§5-2),heve etter [§ 5-3](lov/1992-07-03-93/§5-3),krevje skadebot etter [§ 5-4](lov/1992-07-03-93/§5-4),halde tilbake ytinga etter [§ 5-5](lov/1992-07-03-93/§5-5),krevje renter etter [§ 7-3](lov/1992-07-03-93/§7-3).
+(1) Dersom kjøparen ikkje betaler eller oppfyller andre skyldnader etter avtala, utan at dette står på seljaren eller omstende seljaren har vågnaden for, kan seljaren
+
+1. krevje oppfylling etter [§ 5-2](lov/1992-07-03-93/§5-2),
+2. heve etter [§ 5-3](lov/1992-07-03-93/§5-3),
+3. krevje skadebot etter [§ 5-4](lov/1992-07-03-93/§5-4),
+4. halde tilbake ytinga etter [§ 5-5](lov/1992-07-03-93/§5-5),
+5. krevje renter etter [§ 7-3](lov/1992-07-03-93/§7-3).
 
 (2) Dersom kjøparen ikkje tek over eigedomen i samsvar med lova eller avtala, og utan at dette står på seljaren eller omstende denne har vågnaden for, gjeld føresegnene i [§§ 5-3](lov/1992-07-03-93/§5-3) andre, tredje og fjerde ledd og [5-4](lov/1992-07-03-93/§5-4) andre ledd.
 
@@ -400,7 +423,10 @@ Hefter det offentlegrettslege rådvaldsband eller offentlegrettslege tyngsler p�
 
 (1) Seljaren kan krevje skadebot for tap på grunn av forseinka betaling. Dette gjeld likevel ikkje så langt kjøparen godtgjer at forseinkinga oppstod på grunn av stans i betalinga eller ei hindring utanfor kjøparens kontroll, og det ikkje er rimeleg å vente at kjøparen kunne ha rekna med hindringa på avtaletida, eller at kjøparen kunne ha overvunne eller unngått følgjene av hindringa. [§ 4-5](lov/1992-07-03-93/§4-5) andre og tredje ledd gjeld tilsvarande. For krav på rente og skadebot for rentetap gjeld [§ 7-3](lov/1992-07-03-93/§7-3).
 
-(2) Seljaren kan krevje skadebot etter føresegnene i [§ 4-5](lov/1992-07-03-93/§4-5) for det tap seljaren lid som følgje av atkjøparen ikkje oppfyller ein annan skyldnad enn betaling av kjøpesummen, ellerkjøparen ikkje i rett tid tek over eigedomen i tilfelle der seljaren har ei særleg interesse i å verte kvitt eigedomen.
+(2) Seljaren kan krevje skadebot etter føresegnene i [§ 4-5](lov/1992-07-03-93/§4-5) for det tap seljaren lid som følgje av at
+
+1. kjøparen ikkje oppfyller ein annan skyldnad enn betaling av kjøpesummen, eller
+2. kjøparen ikkje i rett tid tek over eigedomen i tilfelle der seljaren har ei særleg interesse i å verte kvitt eigedomen.
 
 ### § 5-5. Tilbakehaldsrett
 
@@ -412,7 +438,10 @@ Dersom kjøparen vert hindra i å oppfylle avtala til rett tid, skal kjøparen g
 
 ### § 5-7. Frist for å heve og krevje skadebot
 
-(1) Når kjøpesummen er betalt, kan seljaren ikkje heve avtala med mindre seljaren gir kjøparen melding om detved forseinking; før seljaren fekk vite om oppfyllinga frå kjøparens side, ellerved anna avtalebrot; innan rimeleg tid etter at seljaren vart eller burde vorte kjent med avtalebrotet, eller etter at ein rimeleg tilleggsfrist etter [§ 5-3](lov/1992-07-03-93/§5-3) tredje ledd er gått ut.
+(1) Når kjøpesummen er betalt, kan seljaren ikkje heve avtala med mindre seljaren gir kjøparen melding om det
+
+1. ved forseinking; før seljaren fekk vite om oppfyllinga frå kjøparens side, eller
+2. ved anna avtalebrot; innan rimeleg tid etter at seljaren vart eller burde vorte kjent med avtalebrotet, eller etter at ein rimeleg tilleggsfrist etter [§ 5-3](lov/1992-07-03-93/§5-3) tredje ledd er gått ut.
 
 (2) Seljaren må gi kjøparen melding innan rimeleg tid for å kunne gjere eit krav om skadebot gjeldande.
 
@@ -440,9 +469,17 @@ Vert ein av partane teken under insolvensførehaving, gjeld føresegnene i [dekn
 
 (1) Når ein part kan krevje skadebot, skal skadebota svare til det økonomiske tapet parten har hatt som følgje av avtalebrotet. Dette gjeld likevel berre tap som den ansvarlege med rimeleg grunn kunne ha rekna med som ei mogeleg følgje av avtalebrotet.
 
-(2) Der lova skil mellom direkte og indirekte tap, vert som indirekte tap rekna:Tap som følgje av nedsett eller bortfallen produksjon eller omsetnad.Tap som følgje av at eigedomen ikkje kan nyttast i samsvar med føresetnadene.Tapt forteneste som følgje av at ein kontrakt med ein tredjeperson fell bort eller ikkje vert rett oppfylt.Tap som følgje av skade på anna enn eigedomen sjølv, eller anna enn noko som har nær og direkte samanheng med det eigedomen etter føresetnadene skal brukast til.
+(2) Der lova skil mellom direkte og indirekte tap, vert som indirekte tap rekna:
 
-(3) Føresegna i andre ledd om kva som skal reknast som indirekte tap gjeld ikkje kostnader vedvanlege tiltak som kompenserer at eigedomen har ein mangel eller at seljaren ikkje gir frå seg skøyte eller overlet bruken av eigedomen til rett tid, ellertiltak som avgrensar anna tap enn det som er nemnt i andre ledd.
+1. Tap som følgje av nedsett eller bortfallen produksjon eller omsetnad.
+2. Tap som følgje av at eigedomen ikkje kan nyttast i samsvar med føresetnadene.
+3. Tapt forteneste som følgje av at ein kontrakt med ein tredjeperson fell bort eller ikkje vert rett oppfylt.
+4. Tap som følgje av skade på anna enn eigedomen sjølv, eller anna enn noko som har nær og direkte samanheng med det eigedomen etter føresetnadene skal brukast til.
+
+(3) Føresegna i andre ledd om kva som skal reknast som indirekte tap gjeld ikkje kostnader ved
+
+1. vanlege tiltak som kompenserer at eigedomen har ein mangel eller at seljaren ikkje gir frå seg skøyte eller overlet bruken av eigedomen til rett tid, eller
+2. tiltak som avgrensar anna tap enn det som er nemnt i andre ledd.
 
 > Endra med lov [7 juni 2019 nr. 20](lov/2019-06-07-20) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1864](forskrift/2021-06-11-1864)).
 

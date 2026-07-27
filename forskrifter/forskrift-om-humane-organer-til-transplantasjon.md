@@ -47,7 +47,11 @@ Forskriften omfatter ikke humane organer som kun benyttes i forskning.
 11. *Preservering:* aktiviteter som iverksettes med sikte på å forhindre eller forsinke den biologiske eller fysiske forringelsen av organer fra uttaking til transplantasjon.
 12. *Transplantasjon:* prosess som har til hensikt å gjenopprette spesifikke funksjoner i menneskekroppen ved å overføre et organ fra en donor til en mottaker.
 13. *Transplantasjonsvirksomhet:* en virksomhet godkjent for uttak, preservering, transport og transplantasjon.
-14. *Sporbarhet:* evne til å lokalisere og identifisere et organ for transplantasjon på et hvert trinn i kjeden fra donasjon til transplantasjon eller kassasjon, blant annetidentifisere donor og donorsykehuset,identifisere mottaker(e) ved transplantasjonsvirksomhet(ene),lokalisere og identifisere all relevant ikke personlig informasjon om produkter og materialer som kommer i kontakt med organet.
+14. *Sporbarhet:* evne til å lokalisere og identifisere et organ for transplantasjon på et hvert trinn i kjeden fra donasjon til transplantasjon eller kassasjon, blant annet
+
+    1. identifisere donor og donorsykehuset,
+    2. identifisere mottaker(e) ved transplantasjonsvirksomhet(ene),
+    3. lokalisere og identifisere all relevant ikke personlig informasjon om produkter og materialer som kommer i kontakt med organet.
 15. *Uttak:* prosess der humane organer tas ut av donor og gjøres tilgjengelig for transplantasjon.
 16. *Nasjonal behandlingstjeneste for organtransplantasjon:* nasjonal behandlingstjeneste godkjent av departementet etter [forskrift 17. desember 2010 nr. 1706](forskrift/2010-12-17-1706) om godkjenning av sykehus, bruk av betegnelsen universitetssykehus og nasjonale tjenester i spesialisthelsetjenesten § 4-1.
 
@@ -75,7 +79,20 @@ Virksomheten skal ha egnete opplæringsprogrammer for personell som skal delta i
 
 ## § 7. Internkontroll mv.
 
-Virksomheten skal følge [forskrift 28. oktober 2016 nr. 1250](forskrift/2016-10-28-1250) om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Virksomheten skal blant annet utarbeide:Prosedyrer for;verifisering av donors identitetverifisering av donors eller pårørendes samtykke mv., jf. [§ 9](forskrift/2015-12-07-1401/§9)verifisering av donor- og organkarakterisering, jf. [§ 11](forskrift/2015-12-07-1401/§11)uttaking, preservering, pakking og merking, jf. [§ 13](forskrift/2015-12-07-1401/§13) og [§ 14](forskrift/2015-12-07-1401/§14) andre leddtransport av organer, jf. [§ 14](forskrift/2015-12-07-1401/§14) første leddsikring av sporbarhet, jf. [§ 16](forskrift/2015-12-07-1401/§16). Prosedyrene skal klart angi oppgave- og ansvarsforholdet mellom donorsykehus, transplantasjonsvirksomheten og en eventuell europeisk organutvekslingsorganisasjon.sikring av at nødvendig informasjon knyttet til donor- og organkarakterisering kommer frem til transplantasjonsvirksomheten i tide.Kvalifikasjonskrav til personalet på ethvert trinn i kjeden fra utvelgelse av donor til transplantasjon eller kassasjon.Instruks og rutiner for melding om alvorlige uønskede hendelser og alvorlige bivirkninger, jf. [§ 18](forskrift/2015-12-07-1401/§18) og [§ 19](forskrift/2015-12-07-1401/§19).Prosedyrer ved avvik fra de kvalitets- og sikkerhetsstandarder som følger av denne forskriften.
+Virksomheten skal følge [forskrift 28. oktober 2016 nr. 1250](forskrift/2016-10-28-1250) om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Virksomheten skal blant annet utarbeide:
+
+1. Prosedyrer for;
+
+   - verifisering av donors identitet
+   - verifisering av donors eller pårørendes samtykke mv., jf. [§ 9](forskrift/2015-12-07-1401/§9)
+   - verifisering av donor- og organkarakterisering, jf. [§ 11](forskrift/2015-12-07-1401/§11)
+   - uttaking, preservering, pakking og merking, jf. [§ 13](forskrift/2015-12-07-1401/§13) og [§ 14](forskrift/2015-12-07-1401/§14) andre ledd
+   - transport av organer, jf. [§ 14](forskrift/2015-12-07-1401/§14) første ledd
+   - sikring av sporbarhet, jf. [§ 16](forskrift/2015-12-07-1401/§16). Prosedyrene skal klart angi oppgave- og ansvarsforholdet mellom donorsykehus, transplantasjonsvirksomheten og en eventuell europeisk organutvekslingsorganisasjon.
+   - sikring av at nødvendig informasjon knyttet til donor- og organkarakterisering kommer frem til transplantasjonsvirksomheten i tide.
+2. Kvalifikasjonskrav til personalet på ethvert trinn i kjeden fra utvelgelse av donor til transplantasjon eller kassasjon.
+3. Instruks og rutiner for melding om alvorlige uønskede hendelser og alvorlige bivirkninger, jf. [§ 18](forskrift/2015-12-07-1401/§18) og [§ 19](forskrift/2015-12-07-1401/§19).
+4. Prosedyrer ved avvik fra de kvalitets- og sikkerhetsstandarder som følger av denne forskriften.
 
 Når avvik fra forskriftens kvalitets- og sikkerhetsstandarder oppdages, skal det iverksettes dokumenterte undersøkelser som blant annet omfatter beslutning om eventuelle korrigerende og forebyggende tiltak. Korrigerende tiltak skal dokumenteres, iverksettes og gjennomføres effektivt og i rett tid. Etter at forebyggende og korrigerende tiltak er gjennomført, skal effekten evalueres.
 
@@ -115,9 +132,27 @@ Helsepersonellet som deltar i donorkarakterisering av levende donor skal sørge 
 
 Ved karakterisering av avdød donor skal helsepersonellet søke å fremskaffe nødvendige opplysninger om donor og uttatte organer fra donors pårørende eller andre.
 
-Ved hver donasjon skal følgende minimumsopplysninger innhentes:Personentydig og unik kode for donor og det enkelte organ, jf. [§ 16](forskrift/2015-12-07-1401/§16) andre leddVirksomheten der uttak finner stedDonortypeBlodtypeKjønnDødsårsakFødselsår eller antatt alderVektHøydeDonors tidligere eller eksisterende intravenøse narkotikamisbrukDonors tidligere eller eksisterende ondartete neoplasiDonors status over smittsomme sykdommerUtførte tester for HIV, HCV og HBVGrunnleggende informasjon for å evaluere organets funksjon.
+Ved hver donasjon skal følgende minimumsopplysninger innhentes:
 
-I tillegg skal det etter en særskilt medisinsk vurdering og etter at det er tatt hensyn til tilgjengeligheten av slike opplysninger og det aktuelle tilfellet, innhentes følgende tilleggsopplysninger:Den kontaktinformasjon fra uttaksstedet som er nødvendig for koordinering, allokering og sporbarhet fra donor til mottaker og omvendt.Nødvendige medisinske opplysninger for å sikre riktig tilpasning mellom donor/organ og mottaker.
+1. Personentydig og unik kode for donor og det enkelte organ, jf. [§ 16](forskrift/2015-12-07-1401/§16) andre ledd
+2. Virksomheten der uttak finner sted
+3. Donortype
+4. Blodtype
+5. Kjønn
+6. Dødsårsak
+7. Fødselsår eller antatt alder
+8. Vekt
+9. Høyde
+10. Donors tidligere eller eksisterende intravenøse narkotikamisbruk
+11. Donors tidligere eller eksisterende ondartete neoplasi
+12. Donors status over smittsomme sykdommer
+13. Utførte tester for HIV, HCV og HBV
+14. Grunnleggende informasjon for å evaluere organets funksjon.
+
+I tillegg skal det etter en særskilt medisinsk vurdering og etter at det er tatt hensyn til tilgjengeligheten av slike opplysninger og det aktuelle tilfellet, innhentes følgende tilleggsopplysninger:
+
+1. Den kontaktinformasjon fra uttaksstedet som er nødvendig for koordinering, allokering og sporbarhet fra donor til mottaker og omvendt.
+2. Nødvendige medisinske opplysninger for å sikre riktig tilpasning mellom donor/organ og mottaker.
 
 Transplantasjonsvirksomhet kan gjøre unntak fra kravene til opplysninger i femte ledd dersom det etter en risikoanalyse av det aktuelle tilfelle, herunder livstruende nødssituasjoner, vurderes at de forventede fordeler for mottaker oppveier den usikkerhet som følger av ufullstendig informasjon. I slike tilfeller kan et organ vurderes for transplantasjon også når ikke alle minimumsopplysninger nevnt i femte ledd er tilgjengelig.
 
@@ -147,7 +182,12 @@ Tester som er nødvendige for karakterisering av organer og donorer, jf. forskri
 
 Virksomhet som er godkjent for transport av organer skal sørge for at organisasjoner eller virksomheter som involveres i transporten har egnete arbeidsprosedyrer for å opprettholde kvaliteten til organene under transporten, og at transporttiden er tilfredsstillende.
 
-Transportbeholderen skal være merket med følgende informasjon:navn, adresse og telefonnummer til virksomheten der organet er uttattnavn, adresse og telefonnummer til virksomheten der organet skal transplanteresteksten «Humane organer», spesifikasjon av organet og «Forsiktig»anbefalte transport-, temperatur- og posisjonsbetingelser.
+Transportbeholderen skal være merket med følgende informasjon:
+
+- navn, adresse og telefonnummer til virksomheten der organet er uttatt
+- navn, adresse og telefonnummer til virksomheten der organet skal transplanteres
+- teksten «Humane organer», spesifikasjon av organet og «Forsiktig»
+- anbefalte transport-, temperatur- og posisjonsbetingelser.
 
 Rapport med donor- og organkarakterisering skal sendes med organet.
 

@@ -15,7 +15,7 @@ xml_hash: "838e507fff4bad710dcaedecd1bb6c0784aa5dd05e8cbca6d4ad1bcf485b3515"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,19 @@ Utgiftene til råd, utvalg og nemnder skal dekkes over Heimevernets budsjett.
 
 2.1*Landsrådets sammensetning*
 
-Følgende organisasjoner gis mulighet til å være representert med hvert sitt medlem i Landsrådet:Det frivillige SkyttervesenKommunesektorens organisasjon (KS)Norsk TotalforsvarsForumLandsorganisasjonen i NorgeLandsrådet for Norske barne- og ungdomsorganisasjonerNorges BondelagNorges FiskarlagNorges IdrettsforbundNorsk studentorganisasjonNorske Kvinners SanitetsforeningNæringslivets Hovedorganisasjon.
+Følgende organisasjoner gis mulighet til å være representert med hvert sitt medlem i Landsrådet:
+
+- Det frivillige Skyttervesen
+- Kommunesektorens organisasjon (KS)
+- Norsk TotalforsvarsForum
+- Landsorganisasjonen i Norge
+- Landsrådet for Norske barne- og ungdomsorganisasjoner
+- Norges Bondelag
+- Norges Fiskarlag
+- Norges Idrettsforbund
+- Norsk studentorganisasjon
+- Norske Kvinners Sanitetsforening
+- Næringslivets Hovedorganisasjon.
 
 Hvis noen av de ovennevnte ikke ønsker å være representert, kan Landsrådet invitere andre relevante organisasjoner som erstatning for disse. Landsrådet kan invitere andre organisasjoner som observatører om det anses relevant og hensiktsmessig. Organisasjonene som inviteres skal være relevante i samsvar med [heimevernsforskriften § 2](forskrift/2017-06-16-780/§2) andre ledd.
 
@@ -102,13 +114,25 @@ Videre skal det være et militært medlem fra henholdsvis styrkestrukturen og fr
 
 2.2*Landsrådets oppgaver*
 
-Landsrådets oppgaver er å:arbeide for å fremme samarbeid mellom Heimevernet og sivilbefolkningengi uttalelser og råd i spørsmål som angår Heimevernetvelge ett medlem som sammen med leder og nestleder danner et arbeidsutvalg og varamedlem for medlemmet.
+Landsrådets oppgaver er å:
 
-Arbeidsutvalgets oppgaver, i tillegg til det som fremkommer i pkt. 1.5, er å:uttale seg ved tilsetting av generalsekretær for Landsrådetuttale seg om kandidatenes kompetanse om det sivil-militære samarbeidet ved tilsetting av Sjef Heimevernet.
+- arbeide for å fremme samarbeid mellom Heimevernet og sivilbefolkningen
+- gi uttalelser og råd i spørsmål som angår Heimevernet
+- velge ett medlem som sammen med leder og nestleder danner et arbeidsutvalg og varamedlem for medlemmet.
+
+Arbeidsutvalgets oppgaver, i tillegg til det som fremkommer i pkt. 1.5, er å:
+
+- uttale seg ved tilsetting av generalsekretær for Landsrådet
+- uttale seg om kandidatenes kompetanse om det sivil-militære samarbeidet ved tilsetting av Sjef Heimevernet.
 
 2.3*Sjef Heimevernet – ansvar*
 
-Sjef Heimevernet:skal minst en gang årlig rapportere skriftlig til Landsrådet om virksomheten i Heimevernet. Sjef Heimevernet skal holde Landsrådet orientert om viktige saker av betydning for Heimevernet.har møteplikt og talerett uten stemmerett på møtene i Landsrådet og dets arbeidsutvalg.skal bistå rådet hvis det er nødvendig for at Landsrådet skal løse sine oppgaver på en tilfredsstillende måte.skal legge til rette for utvelgelse av en representant fra lederne av områdeutvalgene og innsatsstyrkeutvalgene som skal representere henholdsvis område- og innsatsstyrkestrukturen i Landsrådet, jf. pkt. 2.1 sjette avsnitt.
+Sjef Heimevernet:
+
+- skal minst en gang årlig rapportere skriftlig til Landsrådet om virksomheten i Heimevernet. Sjef Heimevernet skal holde Landsrådet orientert om viktige saker av betydning for Heimevernet.
+- har møteplikt og talerett uten stemmerett på møtene i Landsrådet og dets arbeidsutvalg.
+- skal bistå rådet hvis det er nødvendig for at Landsrådet skal løse sine oppgaver på en tilfredsstillende måte.
+- skal legge til rette for utvelgelse av en representant fra lederne av områdeutvalgene og innsatsstyrkeutvalgene som skal representere henholdsvis område- og innsatsstyrkestrukturen i Landsrådet, jf. pkt. 2.1 sjette avsnitt.
 
 ## Kapittel 3. Distriktsråd
 
@@ -130,7 +154,11 @@ Distriktsrådet konstituerer seg selv så snart som mulig etter oppnevning.
 
 3.2*Distriktsrådenes oppgaver*
 
-Distriktsrådene skal:arbeide spesielt for å fremme samarbeid mellom Heimevernet og sivilbefolkningen innenfor Heimevernsdistriktetgi uttalelser og råd i spørsmål som angår Heimevernet innenfor heimevernsdistriktetoversende saker av prinsipiell betydning til Landsrådet dersom de vedrører flere heimevernsdistrikter eller hele Heimevernet.
+Distriktsrådene skal:
+
+- arbeide spesielt for å fremme samarbeid mellom Heimevernet og sivilbefolkningen innenfor Heimevernsdistriktet
+- gi uttalelser og råd i spørsmål som angår Heimevernet innenfor heimevernsdistriktet
+- oversende saker av prinsipiell betydning til Landsrådet dersom de vedrører flere heimevernsdistrikter eller hele Heimevernet.
 
 Arbeidsutvalgets oppgaver, i tillegg til det som fremkommer i pkt. 1.5, er å uttale seg om kandidatenes kompetanse om det sivil-militære samarbeidet ved tilsetting av distriktssjef.
 
@@ -162,11 +190,23 @@ Område- og innsatsstyrkeutvalget skal bistå med uttalelser og råd i områdets
 
 Område- og innsatsstyrkeutvalg konstituerer seg selv og velger leder, nestleder og sekretær som sammen utgjør et arbeidsutvalg.
 
-Arbeidsutvalgets oppgaver, i tillegg til det som fremkommer under pkt. 1.5, er å:gå gjennom søknader om fritak fra årets trening og gi anbefaling til områdesjefen/innsatsstyrkesjefeni samråd med områdesjefen/innsatsstyrkesjefen gi begrunnet uttalelse til heimevernsdistriktet om personer som ikke anses skikket til tjeneste i området/innsatsstyrkenarbeide for at området eller innsatsstyrken har nok kvalifiserte befal og spesialisteruttale seg om disponeringer eller beskikkelser innen området eller innsatsstyrken.
+Arbeidsutvalgets oppgaver, i tillegg til det som fremkommer under pkt. 1.5, er å:
+
+- gå gjennom søknader om fritak fra årets trening og gi anbefaling til områdesjefen/innsatsstyrkesjefen
+- i samråd med områdesjefen/innsatsstyrkesjefen gi begrunnet uttalelse til heimevernsdistriktet om personer som ikke anses skikket til tjeneste i området/innsatsstyrken
+- arbeide for at området eller innsatsstyrken har nok kvalifiserte befal og spesialister
+- uttale seg om disponeringer eller beskikkelser innen området eller innsatsstyrken.
 
 4.3*Område- og innsatsstyrkesjefenes ansvar*
 
-Område- og innsatsstyrkesjefene skalsamle de som er med i område- og innsatsstyrken når de er inne til tjeneste, for at de skal velge medlemmer til utvalgetså snart det er valgt kalle inn område- og innsatsstyrken til et konstituerende møte for å orientere om deres oppgaversnarest gi distriktssjefen melding om hvem som er valgtholde område- og innsatsstyrkeutvalget eller dets leder skriftlig eller muntlig orientert om saker av betydning for område- og innsatsstyrkenbistå område- og innsatsstyrkeutvalget og dets arbeidsutvalg hvis det er nødvendig for at de skal få løst sine arbeidsoppgaver på en tilfredsstillende måtedelta i område- og innsatsstyrkeutvalgets og arbeidsutvalgets møter
+Område- og innsatsstyrkesjefene skal
+
+- samle de som er med i område- og innsatsstyrken når de er inne til tjeneste, for at de skal velge medlemmer til utvalget
+- så snart det er valgt kalle inn område- og innsatsstyrken til et konstituerende møte for å orientere om deres oppgaver
+- snarest gi distriktssjefen melding om hvem som er valgt
+- holde område- og innsatsstyrkeutvalget eller dets leder skriftlig eller muntlig orientert om saker av betydning for område- og innsatsstyrken
+- bistå område- og innsatsstyrkeutvalget og dets arbeidsutvalg hvis det er nødvendig for at de skal få løst sine arbeidsoppgaver på en tilfredsstillende måte
+- delta i område- og innsatsstyrkeutvalgets og arbeidsutvalgets møter
 
 Område- og innsatsstyrkesjefene kan, om nødvendig, delta i heimevernsnemndas møter når disse behandler saker fra eget område eller egen innsatsstyrke.
 
@@ -176,7 +216,11 @@ Område- og innsatsstyrkesjefene kan, om nødvendig, delta i heimevernsnemndas m
 
 I hvert heimevernsdistrikt opprettes det minimum en heimevernsnemnd med en representant fra distriktsstaben og en representant fra politiet. I tillegg skal kommunen gis mulighet til å stille med inntil to representanter.
 
-De kommunale representantene skal:være valgte representanter til kommunestyretha plettfri vandelha undertegnet en taushetserklæring.
+De kommunale representantene skal:
+
+- være valgte representanter til kommunestyret
+- ha plettfri vandel
+- ha undertegnet en taushetserklæring.
 
 Ved behandling av saker i heimevernsnemndene kan område- og innsatsstyrkesjef delta for å opplyse saken, jf. pkt. 4.3 andre avsnitt.
 

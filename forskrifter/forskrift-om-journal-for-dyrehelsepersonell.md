@@ -28,7 +28,13 @@ Forskriften skal bidra til at dyrehelsepersonell som yter dyrehelsehjelp, dokume
 
 ## § 2. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:*Journal:* Samling eller sammenstilling av nedtegnede, registrerte opplysninger om dyrehelsehjelp. Alle skriftlige og visuelle dokumenter som inneholder slike opplysninger, inngår i journalen.*Dyrehelsehjelp:* Dyrehelsefaglig undersøkelse, vurdering og behandling av dyr, herunder rådgivning for å få undersøkt, vurdert og behandlet dyr. Begrepet omfatter både offentlig og privat virksomhet.*Dyrehelsepersonell:* Veterinærer, fiskehelsebiologer og dyrepleiere.*Pasient:* Et dyr som får eller har fått dyrehelsehjelp.*Pasientbesetning:* Flokk eller annen avgrenset gruppe med dyr hvor ett eller flere dyr er pasienter.
+I denne forskriften gjelder følgende definisjoner:
+
+1. *Journal:* Samling eller sammenstilling av nedtegnede, registrerte opplysninger om dyrehelsehjelp. Alle skriftlige og visuelle dokumenter som inneholder slike opplysninger, inngår i journalen.
+2. *Dyrehelsehjelp:* Dyrehelsefaglig undersøkelse, vurdering og behandling av dyr, herunder rådgivning for å få undersøkt, vurdert og behandlet dyr. Begrepet omfatter både offentlig og privat virksomhet.
+3. *Dyrehelsepersonell:* Veterinærer, fiskehelsebiologer og dyrepleiere.
+4. *Pasient:* Et dyr som får eller har fått dyrehelsehjelp.
+5. *Pasientbesetning:* Flokk eller annen avgrenset gruppe med dyr hvor ett eller flere dyr er pasienter.
 
 ## § 3. Journalplikten
 
@@ -38,7 +44,22 @@ Dyrehelsepersonell som utfører dyrehelsehjelp i forbindelse med utøvelse av of
 
 ## § 4. Journalens innhold
 
-Journalen skal inneholde opplysninger om:Pasientenes art, antall og identitet, eventuelt tilhørighet til identifiserbar pasientbesetning dersom dyret ikke kan identifiseres på annen måte.Navnet på og adressen til pasientens eier eller innehaver, samt nødvendig opplysninger om andre som eventuelt har rekvirert dyrehelsehjelpen eller har representert eier eller innehaver i forbindelse med dyrehelsehjelpen.Hvilket dyrehelsepersonell som har hatt ansvaret for dyrehelsehjelpen og hvilket annet dyrehelsepersonell som har deltatt i dyrehelsehjelpen.Tidspunktene for henvendelser om dyrehelsehjelp, dyrehelsehjelpen og journalføringen.Henvendelser om dyrehelsehjelp og dyrehelsepersonellets svar på slike henvendelser.Anamnese, undersøkelser, kliniske funn, diagnoser og behandling.Rekvirering og bruk av legemidler, herunder legemidlets navn og varenummer, dosering og varigheten av legemiddelbruken.Pleie og annen oppfølging som ledd i dyrehelsehjelpen, herunder planer og instruksjoner om videre behandling.Tilbakeholdelsestider for kjøtt, melk, egg og fisk som dyrehelsepersonellet har fastsatt ved bruk av legemidler.Om pasientens eier eller innehaver har nektet dyrehelsehjelp.Om pasientens eier eller innehaver har krevd innsyn eller retting og om kravene har blitt innfridd. Manglende innfrielse av kravene skal begrunnes.Forhold som svekker velferden til pasienten eller andre dyr.At dyrehelsepersonellet har gitt politiet, Mattilsynet eller dyrevernnemnda opplysninger fra journalen.Opplysninger om dyr og dyrehelsehjelp som dyrehelsepersonellet er forpliktet til å dokumentere eller rapportere til offentlig myndighet.
+Journalen skal inneholde opplysninger om:
+
+1. Pasientenes art, antall og identitet, eventuelt tilhørighet til identifiserbar pasientbesetning dersom dyret ikke kan identifiseres på annen måte.
+2. Navnet på og adressen til pasientens eier eller innehaver, samt nødvendig opplysninger om andre som eventuelt har rekvirert dyrehelsehjelpen eller har representert eier eller innehaver i forbindelse med dyrehelsehjelpen.
+3. Hvilket dyrehelsepersonell som har hatt ansvaret for dyrehelsehjelpen og hvilket annet dyrehelsepersonell som har deltatt i dyrehelsehjelpen.
+4. Tidspunktene for henvendelser om dyrehelsehjelp, dyrehelsehjelpen og journalføringen.
+5. Henvendelser om dyrehelsehjelp og dyrehelsepersonellets svar på slike henvendelser.
+6. Anamnese, undersøkelser, kliniske funn, diagnoser og behandling.
+7. Rekvirering og bruk av legemidler, herunder legemidlets navn og varenummer, dosering og varigheten av legemiddelbruken.
+8. Pleie og annen oppfølging som ledd i dyrehelsehjelpen, herunder planer og instruksjoner om videre behandling.
+9. Tilbakeholdelsestider for kjøtt, melk, egg og fisk som dyrehelsepersonellet har fastsatt ved bruk av legemidler.
+10. Om pasientens eier eller innehaver har nektet dyrehelsehjelp.
+11. Om pasientens eier eller innehaver har krevd innsyn eller retting og om kravene har blitt innfridd. Manglende innfrielse av kravene skal begrunnes.
+12. Forhold som svekker velferden til pasienten eller andre dyr.
+13. At dyrehelsepersonellet har gitt politiet, Mattilsynet eller dyrevernnemnda opplysninger fra journalen.
+14. Opplysninger om dyr og dyrehelsehjelp som dyrehelsepersonellet er forpliktet til å dokumentere eller rapportere til offentlig myndighet.
 
 ## § 5. Journalens form, språk og autentisitet
 
@@ -68,7 +89,11 @@ Etter krav fra pasientens eier, eller av eget tiltak, skal dyrehelsepersonellet 
 
 ## § 9. Pålegg om sletting
 
-Dersom det er ubetenkelig ut fra allmenne hensyn og ikke er i strid med regelverket om arkiv, kan Mattilsynet pålegge dyrehelsepersonellet å slette utsagn og opplysninger somkan slettes i samsvar med regelverket om arkiv og uten at det er betenkelig ut fra allmenne hensyn, oger feilaktige eller misvisende og føles belastende for den de gjelder, elleråpenbart ikke er nødvendige for å yte dyrehelsehjelp.
+Dersom det er ubetenkelig ut fra allmenne hensyn og ikke er i strid med regelverket om arkiv, kan Mattilsynet pålegge dyrehelsepersonellet å slette utsagn og opplysninger som
+
+1. kan slettes i samsvar med regelverket om arkiv og uten at det er betenkelig ut fra allmenne hensyn, og
+2. er feilaktige eller misvisende og føles belastende for den de gjelder, eller
+3. åpenbart ikke er nødvendige for å yte dyrehelsehjelp.
 
 Det skal framgå av journalen at sletting har skjedd.
 

@@ -26,13 +26,26 @@ eu_basis: []
 
 ### § 1-1. Virkeområde
 
-Forskriften gjelder forkommuner og fylkeskommunerkommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18)kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)lånefond etter [kommuneloven § 14-14 tredje ledd](lov/2018-06-22-83/§14-14/ledd/3)interkommunale selskaper etter [IKS-loven](lov/1999-01-29-6).
+Forskriften gjelder for
+
+1. kommuner og fylkeskommuner
+2. kommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)
+3. interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18)
+4. kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)
+5. lånefond etter [kommuneloven § 14-14 tredje ledd](lov/2018-06-22-83/§14-14/ledd/3)
+6. interkommunale selskaper etter [IKS-loven](lov/1999-01-29-6).
 
 ## Kapittel 2. Dekning av minimumsavdrag på lån i årsbudsjettet og årsregnskapet
 
 ### § 2-1. Budsjettmessig dekning og utgiftsføring av minimumsavdraget
 
-Følgende budsjett- og regnskapsenheter skal ha et driftsbudsjett som minst dekker enhetens minimumsavdrag beregnet etter forskriften [kapittel 3](forskrift/2024-09-27-2348/kap3):kommunekassen og fylkeskommunekassenkommunale og fylkeskommunale foretakinterkommunale politiske rådkommunale oppgavefellesskapinterkommunale selskaper.
+Følgende budsjett- og regnskapsenheter skal ha et driftsbudsjett som minst dekker enhetens minimumsavdrag beregnet etter forskriften [kapittel 3](forskrift/2024-09-27-2348/kap3):
+
+1. kommunekassen og fylkeskommunekassen
+2. kommunale og fylkeskommunale foretak
+3. interkommunale politiske råd
+4. kommunale oppgavefellesskap
+5. interkommunale selskaper.
 
 Første punktum gjelder også for det enkelte år i enhetens økonomiplan. I driftsregnskapet til enheten skal det utgiftsføres avdrag minst lik minimumsavdraget i tråd med [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 2-5 første ledd andre punktum](forskrift/2019-06-07-714/§2-5/ledd/1/setning/2).
 
@@ -66,7 +79,16 @@ Avskrivninger omfatter kun avskrivninger av varige driftsmidler med begrenset le
 
 ### § 3-4. Lånegjeld
 
-Lånegjeld omfatter lån tilegne investeringer i varige driftsmidler etter i [kommuneloven § 14-15 første ledd](lov/2018-06-22-83/§14-15/ledd/1) eller [IKS-loven § 22 andre ledd](lov/1999-01-29-6/§22/ledd/2)kjøp av aksjene i eiendomsselskap etter [kommuneloven § 14-15 andre ledd](lov/2018-06-22-83/§14-15/ledd/2) eller [IKS-loven § 22 tredje ledd](lov/1999-01-29-6/§22/ledd/3)tilskudd til andres investeringer i varige driftsmidler etter [kommuneloven § 14-16 første](lov/2018-06-22-83/§14-16/ledd/1) og [andre ledd](lov/2018-06-22-83/§14-16/ledd/2)innfrielse av kausjonsansvar etter [kommuneloven § 14-16 tredje ledd](lov/2018-06-22-83/§14-16/ledd/3)tilskudd til investeringer i kirkebygg og tilhørende varige driftsmidler etter [trossamfunnsloven § 14 fjerde ledd](lov/2020-04-24-31/§14/ledd/4)tilskudd til investeringer i gravplasser og tilhørende varige driftsmidler etter [gravplassloven § 3 tredje ledd](lov/1996-06-07-32/§3/ledd/3)refinansiering av lån til formål som nevnt foran etter [kommuneloven § 14-14 første ledd andre punktum](lov/2018-06-22-83/§14-14/ledd/1/setning/2) eller [IKS-loven § 22 femte ledd](lov/1999-01-29-6/§22/ledd/5)andre formål tatt opp med hjemmel i annen lov enn [kommuneloven](lov/2018-06-22-83) eller [IKS-loven](lov/1999-01-29-6).
+Lånegjeld omfatter lån til
+
+1. egne investeringer i varige driftsmidler etter i [kommuneloven § 14-15 første ledd](lov/2018-06-22-83/§14-15/ledd/1) eller [IKS-loven § 22 andre ledd](lov/1999-01-29-6/§22/ledd/2)
+2. kjøp av aksjene i eiendomsselskap etter [kommuneloven § 14-15 andre ledd](lov/2018-06-22-83/§14-15/ledd/2) eller [IKS-loven § 22 tredje ledd](lov/1999-01-29-6/§22/ledd/3)
+3. tilskudd til andres investeringer i varige driftsmidler etter [kommuneloven § 14-16 første](lov/2018-06-22-83/§14-16/ledd/1) og [andre ledd](lov/2018-06-22-83/§14-16/ledd/2)
+4. innfrielse av kausjonsansvar etter [kommuneloven § 14-16 tredje ledd](lov/2018-06-22-83/§14-16/ledd/3)
+5. tilskudd til investeringer i kirkebygg og tilhørende varige driftsmidler etter [trossamfunnsloven § 14 fjerde ledd](lov/2020-04-24-31/§14/ledd/4)
+6. tilskudd til investeringer i gravplasser og tilhørende varige driftsmidler etter [gravplassloven § 3 tredje ledd](lov/1996-06-07-32/§3/ledd/3)
+7. refinansiering av lån til formål som nevnt foran etter [kommuneloven § 14-14 første ledd andre punktum](lov/2018-06-22-83/§14-14/ledd/1/setning/2) eller [IKS-loven § 22 femte ledd](lov/1999-01-29-6/§22/ledd/5)
+8. andre formål tatt opp med hjemmel i annen lov enn [kommuneloven](lov/2018-06-22-83) eller [IKS-loven](lov/1999-01-29-6).
 
 For en budsjett- og regnskapsenhet i en kommune eller fylkeskommune, omfatter lånegjeld også interne innlån til formål som nevnt i første ledd. For en budsjett- og regnskapsenhet i en kommune eller fylkeskommune, skal interne utlån til formål som nevnt i første ledd redusere lånegjelden med tilsvarende beløp.
 

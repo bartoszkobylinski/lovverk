@@ -15,7 +15,7 @@ xml_hash: "a611651772f2fa371463d68c8ff2e5f2e5c79793f279724d5845031eaca92f0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Følgende deler av [EØS-avtalen](lov/1992-11-27-109/eøsl) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig:Vedlegg XIII nr. 37dc (vedtak [2009/965/EF](eu/32009d0965) vedrørende referansedokument referert til i artikkel 27 nr. 4 i europaparlaments- og rådsdirektiv [2008/57/EF](eu/32008l0057) om samtrafikkevnen i Fellesskapets jernbanesystem som endret ved Kommisjonens gjennomføringsbeslutning [(EU) 2015/2299](eu/32015d2299)).Vedlegg XIII nr. 37de (vedtak [2011/155/EU](eu/32011d0155) om offentliggjøring og forvaltning av referansedokumentet nevnt i artikkel 27 nr. 4 i europaparlaments- og rådsdirektiv [2008/57/EF](eu/32008l0057) om samtrafikkevnen i Fellesskapets jernbanesystem).
+Følgende deler av [EØS-avtalen](lov/1992-11-27-109/eøsl) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig:
+
+1. Vedlegg XIII nr. 37dc (vedtak [2009/965/EF](eu/32009d0965) vedrørende referansedokument referert til i artikkel 27 nr. 4 i europaparlaments- og rådsdirektiv [2008/57/EF](eu/32008l0057) om samtrafikkevnen i Fellesskapets jernbanesystem som endret ved Kommisjonens gjennomføringsbeslutning [(EU) 2015/2299](eu/32015d2299)).
+2. Vedlegg XIII nr. 37de (vedtak [2011/155/EU](eu/32011d0155) om offentliggjøring og forvaltning av referansedokumentet nevnt i artikkel 27 nr. 4 i europaparlaments- og rådsdirektiv [2008/57/EF](eu/32008l0057) om samtrafikkevnen i Fellesskapets jernbanesystem).
 
 > Endret ved [forskrift 7 juni 2016 nr. 589](forskrift/2016-06-07-589).
 

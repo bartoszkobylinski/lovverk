@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Omfang
 
-Denne forskriften gjelderberegning av uførepensjon når uførheten på grunn av en yrkesskade er gradert, oggodskriving av pensjonspoeng for en person som mottar uførepensjon som helt eller delvis skyldes yrkesskade.
+Denne forskriften gjelder
+
+1. beregning av uførepensjon når uførheten på grunn av en yrkesskade er gradert, og
+2. godskriving av pensjonspoeng for en person som mottar uførepensjon som helt eller delvis skyldes yrkesskade.
 
 > Endret ved [forskrift 21 des 2001 nr. 1555](forskrift/2001-12-21-1555) (i kraft 1 jan 2002).
 
@@ -40,13 +43,20 @@ Den delen som skyldes yrkesskade beregnes etter forholdene på uføretidspunktet
 
 Når et medlem som har rett til uførepensjon får sin inntektsevne ytterligere nedsatt på grunn av en yrkesskade, oppjusteres antatt årlig arbeidsinntekt på skadetidspunktet. Dette gjøres ved at denne inntekten divideres med en så stor brøkdel som restarbeidsevnen utgjorde av hel arbeidsevne.
 
-Dersom den opprinnelige uførheten skyldes en yrkesskade, skal det når tilleggspensjonen blir beregnet legges til grunn det av de to følgende alternativene som gir høyest poengtall:Det poengtallet som ble lagt til grunn da tilleggspensjonen for den første yrkesskaden ble beregnet.Det poengtallet som etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c, legges til grunn når antatt inntekt er oppjustert etter første ledd i paragrafen her.
+Dersom den opprinnelige uførheten skyldes en yrkesskade, skal det når tilleggspensjonen blir beregnet legges til grunn det av de to følgende alternativene som gir høyest poengtall:
+
+1. Det poengtallet som ble lagt til grunn da tilleggspensjonen for den første yrkesskaden ble beregnet.
+2. Det poengtallet som etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c, legges til grunn når antatt inntekt er oppjustert etter første ledd i paragrafen her.
 
 > Endret ved [forskrift 21 des 2001 nr. 1555](forskrift/2001-12-21-1555) (i kraft 1 jan 2002).
 
 ## § 4. Godskriving av pensjonspoeng når uførheten helt eller delvis skyldes yrkesskade
 
-Den som mottar uførepensjon som helt eller delvis skyldes yrkesskade, får godskrevet pensjonspoeng for hvert år han eller hun har mottatt slik pensjon etter et av de følgende alternativene:Dersom pensjonisten mottar hel uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene for hvert år svare til det poengtallet som etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c legges til grunn for beregningen av tilleggspensjonen.Dersom pensjonisten mottar gradert uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene svare til en så stor del av det nevnte poengtallet som den graderte pensjonen utgjør av hel pensjon.Dersom bare en del av uførepensjonen gis på grunnlag av en yrkesskade, skal de godskrevne pensjonspoengene svare til summen av det framtidig poengtallet som godskrives etter [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19), og det poengtallet som godskrives etter bokstav b i paragrafen her.
+Den som mottar uførepensjon som helt eller delvis skyldes yrkesskade, får godskrevet pensjonspoeng for hvert år han eller hun har mottatt slik pensjon etter et av de følgende alternativene:
+
+1. Dersom pensjonisten mottar hel uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene for hvert år svare til det poengtallet som etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c legges til grunn for beregningen av tilleggspensjonen.
+2. Dersom pensjonisten mottar gradert uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene svare til en så stor del av det nevnte poengtallet som den graderte pensjonen utgjør av hel pensjon.
+3. Dersom bare en del av uførepensjonen gis på grunnlag av en yrkesskade, skal de godskrevne pensjonspoengene svare til summen av det framtidig poengtallet som godskrives etter [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19), og det poengtallet som godskrives etter bokstav b i paragrafen her.
 
 ## § 5. Ikrafttredelse
 

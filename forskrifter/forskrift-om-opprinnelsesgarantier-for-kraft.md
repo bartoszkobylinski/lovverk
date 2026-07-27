@@ -15,7 +15,7 @@ xml_hash: "86f3a6017797d1d4f7f33d87166b90d3d74a3053b16b7483016c69bc04f895d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Forskriften gjelder godkjenning og kategorisering av produksjonsanlegg til ordni
 
 1. *Bioenergi:* Energi av biologisk opprinnelse herunder bl.a. trevirke, bark og halm, samt avfallsfraksjoner av biologisk opprinnelse fra industri og kommunalt avfall, herunder bl.a. sortert rivingsvirke og biprodukter fra treforedlingsindustri, sagbruk og lignende virksomheter.
 2. *Fornybar energi:* Energi fra fornybare energikilder; herunder bl.a. vind, sol, geotermisk, hav, vann, gass fra avfallsfyllinger, gass fra kloakkbehandlingsanlegg og biomasse.
-3. *Høyeffektiv kraftvarme:* Kraftvarme som gir brenselsbesparelse på minst ti prosent sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier (Høyeffektiv kogenerering). Kraftvarme fra kogenereringsanlegg med installert effekt mindre enn en megawatt elektrisk effekt (1 MWe) kan også regnes som høyeffektiv dersom den gir brenselsbesparelse sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier.Andelen elektrisk energi som er produsert ved kogenerering skal beregnes etter bestemmelsene i bilag II til direktiv [2004/8/EF](eu/32004l0008), supplert med de detaljerte retningslinjene fattet ved kommisjonsvedtak [2008/952/EF](eu/32008d0952).Brenselsbesparelsen skal beregnes ut fra fastsatte referanseverdier i samsvar med kommisjonsbeslutning [2011/877/EU](eu/32011d0877) og etter formlene i vedlegg III til direktiv [2004/8/EF](eu/32004l0008).
+3. *Høyeffektiv kraftvarme:* Kraftvarme som gir brenselsbesparelse på minst ti prosent sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier (Høyeffektiv kogenerering). Kraftvarme fra kogenereringsanlegg med installert effekt mindre enn en megawatt elektrisk effekt (1 MWe) kan også regnes som høyeffektiv dersom den gir brenselsbesparelse sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier.
+
+   Andelen elektrisk energi som er produsert ved kogenerering skal beregnes etter bestemmelsene i bilag II til direktiv [2004/8/EF](eu/32004l0008), supplert med de detaljerte retningslinjene fattet ved kommisjonsvedtak [2008/952/EF](eu/32008d0952).
+
+   Brenselsbesparelsen skal beregnes ut fra fastsatte referanseverdier i samsvar med kommisjonsbeslutning [2011/877/EU](eu/32011d0877) og etter formlene i vedlegg III til direktiv [2004/8/EF](eu/32004l0008).
 4. *Opprinnelsesgaranti:* Bekreftelse på at 1 megawattime (MWh) elektrisk energi er produsert fra en spesifisert energikilde på spesifisert tid og sted.
 5. *Innløsning av opprinnelsesgaranti:* Når en innehaver innleverer bekreftelse til registeret som dokumenterer at den ikke lenger kan omsettes.
 6. *Kraftvarme:* Termisk energi og elektrisk energi som er produsert samtidig i en prosess (kogenerering).
@@ -47,23 +51,54 @@ Forskriften gjelder godkjenning og kategorisering av produksjonsanlegg til ordni
 
 ## § 4. Kategorier av opprinnelsesgarantier
 
-Produksjonsanlegg for elektrisk energi skal deles i følgende kategorier for tildeling av opprinnelsesgarantier:Produksjon fra fornybare energikilderProduksjon ved høyeffektiv kraftvarmeAnnen produksjon.
+Produksjonsanlegg for elektrisk energi skal deles i følgende kategorier for tildeling av opprinnelsesgarantier:
+
+1. Produksjon fra fornybare energikilder
+2. Produksjon ved høyeffektiv kraftvarme
+3. Annen produksjon.
 
 ## § 5. Innhold i opprinnelsesgarantier for elektrisk energi fra fornybare energikilder
 
-Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra fornybare energikilder:Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),Produksjonsteknologi og energikilde,Tidsperiode for produksjonen,Navn, beliggenhet og installert effekt for anlegget der energien er produsert, samt midlere årsproduksjon for vannkraft og vindkraft,Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,Datoen for anleggets idriftsettelse,Utstedelsesdato, -land og entydig identifikasjonsnummer.
+Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra fornybare energikilder:
+
+1. Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),
+2. Produksjonsteknologi og energikilde,
+3. Tidsperiode for produksjonen,
+4. Navn, beliggenhet og installert effekt for anlegget der energien er produsert, samt midlere årsproduksjon for vannkraft og vindkraft,
+5. Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,
+6. Datoen for anleggets idriftsettelse,
+7. Utstedelsesdato, -land og entydig identifikasjonsnummer.
 
 > Endret ved [forskrift 21 des 2011 nr. 1470](forskrift/2011-12-21-1470) (i kraft 1 jan 2012, se endringsforskriften for overgangsbestemmelser).
 
 ## § 6. Innhold i opprinnelsesgarantier for elektrisk energi fra høyeffektiv kraftvarme
 
-Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra høyeffektiv kraftvarme:Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),Produksjonsteknologi og energikilde,Tidsperiode for produksjonen,Navn, beliggenhet, og installert effekt for anlegget der energien er produsert,Type brensel og dets nedre brennverdi,Anvendelsen av varmen fra kraftvarmeprosessen (kogenereringsprosessen),Brenselsbesparelsen som er oppnådd gjennom bruk av høyeffektiv kraftvarme sammenlignet med separat produksjon av elektrisk energi og varme,Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,Datoen for anleggets idriftsettelse,Utstedelsesdato, -land og entydig identifikasjonsnummer.
+Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra høyeffektiv kraftvarme:
+
+1. Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),
+2. Produksjonsteknologi og energikilde,
+3. Tidsperiode for produksjonen,
+4. Navn, beliggenhet, og installert effekt for anlegget der energien er produsert,
+5. Type brensel og dets nedre brennverdi,
+6. Anvendelsen av varmen fra kraftvarmeprosessen (kogenereringsprosessen),
+7. Brenselsbesparelsen som er oppnådd gjennom bruk av høyeffektiv kraftvarme sammenlignet med separat produksjon av elektrisk energi og varme,
+8. Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,
+9. Datoen for anleggets idriftsettelse,
+10. Utstedelsesdato, -land og entydig identifikasjonsnummer.
 
 > Endret ved [forskrifter 9 mars 2010 nr. 383](forskrift/2010-03-09-383), [21 des 2011 nr. 1470](forskrift/2011-12-21-1470) (i kraft 1 jan 2012, se endringsforskriften for overgangsbestemmelser).
 
 ## § 7. Innhold i opprinnelsesgarantier for elektrisk energi fra andre energikilder
 
-Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra andre energikilder:Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),Produksjonsteknologi og energikilde,Tidsperiode for produksjonen,Navn, beliggenhet, og installert effekt for anlegget der energien er produsert,Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,Datoen for anleggets idriftsettelse,Utstedelsesdato, -land og entydig identifikasjonsnummer.
+Følgende opplysninger skal foreligge for en opprinnelsesgaranti for elektrisk energi fra andre energikilder:
+
+1. Kategori, jf. [§ 4](forskrift/2007-12-14-1652/§4),
+2. Produksjonsteknologi og energikilde,
+3. Tidsperiode for produksjonen,
+4. Navn, beliggenhet, og installert effekt for anlegget der energien er produsert,
+5. Om, og i hvilket omfang, anlegget har mottatt investeringsstøtte, og om, og i hvilket omfang, energienheten på annen måte har nytt godt av en nasjonal støtteordning, samt støtteordningens art,
+6. Datoen for anleggets idriftsettelse,
+7. Utstedelsesdato, -land og entydig identifikasjonsnummer.
 
 > Endret ved [forskrift 21 des 2011 nr. 1470](forskrift/2011-12-21-1470) (i kraft 1 jan 2012, se endringsforskriften for overgangsbestemmelser).
 
@@ -193,13 +228,24 @@ Forskrift om opprinnelsesgarantier [§ 3](forskrift/2007-12-14-1652/§3) bokstav
 
 ### Til § 4 – Kategorier av opprinnelsesgarantier
 
-Forskriften har følgende kategorier for inndeling av produksjonsanlegg:*Fornybar produksjon:* Elektrisk energi som produseres fra en fornybar energikilde*Høyeffektiv kraftvarme:* All produksjon som går inn under begrepet høyeffektiv kraftvarme (kogenerering)*Annen produksjon:* Produksjon som ikke omfattes av a eller b.
+Forskriften har følgende kategorier for inndeling av produksjonsanlegg:
+
+1. *Fornybar produksjon:* Elektrisk energi som produseres fra en fornybar energikilde
+2. *Høyeffektiv kraftvarme:* All produksjon som går inn under begrepet høyeffektiv kraftvarme (kogenerering)
+3. *Annen produksjon:* Produksjon som ikke omfattes av a eller b.
 
 Bokstav a oppfyller fornybardirektivet artikkel 15 og bokstav b oppfyller CHP-direktivet artikkel 5. Bokstav c omfatter all annen produksjon, slik at ordningen med opprinnelsesgarantier dekker all produksjon av elektrisk energi i Norge.
 
 ### Til § 5 – Innhold i opprinnelsesgarantier for elektrisk energi fra fornybare energikilder
 
-Bestemmelsen oppfyller de krav som følger av fornybardirektivet artikkel 15 for fornybare kilder. Vilkårene er kumulative.De tre ulike kategoriene for opprinnelsesgarantier skal skilles klart fra hverandre, og det skal klart fremgå av garantien om den elektriske energien stammer fra fornybar produksjon, høyeffektiv kraftvarme eller annen produksjon.Kravet til angivelse av energikilde følger av fornybardirektiv II artikkel 15 nr. 6 (a).Tidsperiode, se [§ 3](forskrift/2007-12-14-1652/§3) bokstav j.Navn, beliggenhet og installert effekt, samt midlere årsproduksjon for vannkraft og vindkraft: Disse kravene til innholdet i en opprinnelsesgaranti følger av fornybardirektiv II artikkel 15 nr. 6 (c). Registeret skal kunne spore opprinnelsesgarantier tilbake til de aktuelle kraftverkene. Direktiv [2001/77/EF](eu/32001l0077) stilte kun krav om at kapasiteten skulle oppgis for vannkraftverk. Fornybardirektivet (direktiv [2009/28/EF](eu/32009l0028)) artikkel 15 nr. 6 (c) stiller et generelt krav om at kapasiteten til det relevante produksjonsanlegget skal oppgis i en opprinnelsesgaranti. I forskriften legges det opp til at installert effekt oppgis for alle produksjonsteknologier. For vindkraft og vannkraft skal også midlere årsproduksjon oppgis. For produksjon fra andre energikilder kan dette være vanskelig tilgjengelige størrelser, og det stilles derfor ikke krav om dette.Eventuell mottatt statlig støtte: Brukerne av opprinnelsesgarantier skal få opplysninger om det aktuelle anlegget har mottatt statlig støtte og omfang av støtten. Type støtte som er mottatt skal angis, for eksempel investeringsstøtte. Krav om at slik opplysning fremgår av opprinnelsesgarantien følger av fornybardirektiv II artikkel 15 nr. 6 (d).Datoen for anleggets idriftsettelse: Med dato for anleggets idriftsettelse menes tidspunktet når anlegget første gang leverer kraft til nettet. Krav om slik opplysning i opprinnelsesgarantien følger av fornybardirektivet artikkel 15 nr. 6 (e). Dersom det oppstår større forsinkelser under prøvedriften av anlegget, kan en senere dato legges til grunn når anlegget anses å være i stabil drift.
+Bestemmelsen oppfyller de krav som følger av fornybardirektivet artikkel 15 for fornybare kilder. Vilkårene er kumulative.
+
+1. De tre ulike kategoriene for opprinnelsesgarantier skal skilles klart fra hverandre, og det skal klart fremgå av garantien om den elektriske energien stammer fra fornybar produksjon, høyeffektiv kraftvarme eller annen produksjon.
+2. Kravet til angivelse av energikilde følger av fornybardirektiv II artikkel 15 nr. 6 (a).
+3. Tidsperiode, se [§ 3](forskrift/2007-12-14-1652/§3) bokstav j.
+4. Navn, beliggenhet og installert effekt, samt midlere årsproduksjon for vannkraft og vindkraft: Disse kravene til innholdet i en opprinnelsesgaranti følger av fornybardirektiv II artikkel 15 nr. 6 (c). Registeret skal kunne spore opprinnelsesgarantier tilbake til de aktuelle kraftverkene. Direktiv [2001/77/EF](eu/32001l0077) stilte kun krav om at kapasiteten skulle oppgis for vannkraftverk. Fornybardirektivet (direktiv [2009/28/EF](eu/32009l0028)) artikkel 15 nr. 6 (c) stiller et generelt krav om at kapasiteten til det relevante produksjonsanlegget skal oppgis i en opprinnelsesgaranti. I forskriften legges det opp til at installert effekt oppgis for alle produksjonsteknologier. For vindkraft og vannkraft skal også midlere årsproduksjon oppgis. For produksjon fra andre energikilder kan dette være vanskelig tilgjengelige størrelser, og det stilles derfor ikke krav om dette.
+5. Eventuell mottatt statlig støtte: Brukerne av opprinnelsesgarantier skal få opplysninger om det aktuelle anlegget har mottatt statlig støtte og omfang av støtten. Type støtte som er mottatt skal angis, for eksempel investeringsstøtte. Krav om at slik opplysning fremgår av opprinnelsesgarantien følger av fornybardirektiv II artikkel 15 nr. 6 (d).
+6. Datoen for anleggets idriftsettelse: Med dato for anleggets idriftsettelse menes tidspunktet når anlegget første gang leverer kraft til nettet. Krav om slik opplysning i opprinnelsesgarantien følger av fornybardirektivet artikkel 15 nr. 6 (e). Dersom det oppstår større forsinkelser under prøvedriften av anlegget, kan en senere dato legges til grunn når anlegget anses å være i stabil drift.
 
 Frem til 1. januar 2012 regulerte [§ 5](forskrift/2007-12-14-1652/§5) innholdet i opprinnelsesgarantier for elektrisk energi fra fornybare energikilder basert på direktiv [2001/77/EF](eu/32001l0077). Ordlyden i [§ 5](forskrift/2007-12-14-1652/§5) ble med virkning fra 1. januar 2012 endret slik at bestemmelsen fullt ut reflekterer de krav fornybardirektivet (direktiv [2009/28/EF](eu/32009l0028)) stiller til innholdet i slike opprinnelsesgarantier. Endringene gjelder hovedsakelig formaliteter knyttet til innholdet i opprinnelsesgarantiene.
 
@@ -207,7 +253,20 @@ Frem til 1. januar 2012 regulerte [§ 5](forskrift/2007-12-14-1652/§5) innholde
 
 Bestemmelsen oppfyller de krav som settes i CHP-direktivet artikkel 5. Vilkårene i bokstav a til bokstav j er kumulative.
 
-Bokstav a til og med bokstav d går noe lenger enn det som kreves av CHP-direktivet artikkel 5. Det er imidlertid en fordel at alle opprinnelsesgarantier er sammenlignbare ved at de inneholder samme type informasjon.Type brensel og dets nedre brennverdi.Bestemmelsen oppfyller første del av kravene i CHP-direktivet artikkel 5 (5) første strekpunkt. Brukeren skal få opplyst hvilken type brensel som benyttes i produksjonen.Anvendelsen av varmen fra kraftvarmeprosessen.Dette punktet oppfyller annen del av kravene i CHP-direktivet artikkel 5 (5) første strekpunkt. Det legges opp til at det skilles mellom bruk av varme til for eksempel industri, fjernvarme eller i landbruk.Brenselsbesparelse.Dette punktet oppfyller CHP-direktivet 5 (5) tredje strekpunkt som krever at brenselsbesparelsen ved høyeffektiv kraftvarmeproduksjon skal oppgis. Angivelse av brenselsbesparelsen dokumenterer fordelen ved bruk av CHP-teknologi, som i første rekke er knyttet til redusert bruk av brensel. Brenselsbesparelsen skal beregnes etter vedlegg III til CHP-direktivet og kommisjonsvedtak [2007/74/EF](eu/32007d0074), jf. [§ 3](forskrift/2007-12-14-1652/§3) bokstav c annet og tredje ledd.Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav e.Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav f.Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav g.
+Bokstav a til og med bokstav d går noe lenger enn det som kreves av CHP-direktivet artikkel 5. Det er imidlertid en fordel at alle opprinnelsesgarantier er sammenlignbare ved at de inneholder samme type informasjon.
+
+1. Type brensel og dets nedre brennverdi.
+
+   Bestemmelsen oppfyller første del av kravene i CHP-direktivet artikkel 5 (5) første strekpunkt. Brukeren skal få opplyst hvilken type brensel som benyttes i produksjonen.
+2. Anvendelsen av varmen fra kraftvarmeprosessen.
+
+   Dette punktet oppfyller annen del av kravene i CHP-direktivet artikkel 5 (5) første strekpunkt. Det legges opp til at det skilles mellom bruk av varme til for eksempel industri, fjernvarme eller i landbruk.
+3. Brenselsbesparelse.
+
+   Dette punktet oppfyller CHP-direktivet 5 (5) tredje strekpunkt som krever at brenselsbesparelsen ved høyeffektiv kraftvarmeproduksjon skal oppgis. Angivelse av brenselsbesparelsen dokumenterer fordelen ved bruk av CHP-teknologi, som i første rekke er knyttet til redusert bruk av brensel. Brenselsbesparelsen skal beregnes etter vedlegg III til CHP-direktivet og kommisjonsvedtak [2007/74/EF](eu/32007d0074), jf. [§ 3](forskrift/2007-12-14-1652/§3) bokstav c annet og tredje ledd.
+4. Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav e.
+5. Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav f.
+6. Tilsvarer [§ 5](forskrift/2007-12-14-1652/§5) bokstav g.
 
 Ordlyden ble 1. januar 2012 endret tilsvarende som for endringene i [§ 5](forskrift/2007-12-14-1652/§5), hva gjelder innholdet i opprinnelsesgarantiene. Endringene gjelder hovedsakelig formaliteter knyttet til innholdet i opprinnelsesgarantiene. Endringene bidrar til å gjøre de ulike kategoriene opprinnelsesgarantier sammenlignbare.
 
@@ -225,7 +284,9 @@ NVE vil godkjenne anlegg som er i drift eller er klare for idriftssettelse etter
 
 Følgende rutine for godkjennelse anlegg gjelder:
 
-1. Søker logger seg inn på NVEs nettsider for opprinnelsesgarantier. Søknadsskjema fylles ut elektronisk. Data om anlegget i NVEs registre oppdateres og kvalitetssikres etter behov i samarbeid med eier/driftsansvarlig av kraftverket. Det er mulig å lagre søknadsskjema underveis. Når all nødvendig informasjon er fylt inn sendes søknaden til NVE.Det forutsettes at all endring som påvirker størrelse, produksjon eller driftsmåte innrapporteres til NVE selv om endringen i seg selv ikke krever konsesjon. Se for øvrig merknadene til varighet av en anleggsgodkjennelse nedenfor.
+1. Søker logger seg inn på NVEs nettsider for opprinnelsesgarantier. Søknadsskjema fylles ut elektronisk. Data om anlegget i NVEs registre oppdateres og kvalitetssikres etter behov i samarbeid med eier/driftsansvarlig av kraftverket. Det er mulig å lagre søknadsskjema underveis. Når all nødvendig informasjon er fylt inn sendes søknaden til NVE.
+
+   Det forutsettes at all endring som påvirker størrelse, produksjon eller driftsmåte innrapporteres til NVE selv om endringen i seg selv ikke krever konsesjon. Se for øvrig merknadene til varighet av en anleggsgodkjennelse nedenfor.
 2. For å få utstedt opprinnelsesgarantier må det opprettes et kundeforhold til registeransvarlig (Statnett SF). Det opprettes konto i registeret for opprinnelsesgarantier.
 3. Når anlegget er godkjent av NVE sendes en godkjennelse til søker og en bekreftelse til registeransvarlig som kan starte utstedelse av opprinnelsesgarantier for produksjon etter at denne godkjenningen er registrert.
 4. Når anlegget har fått utstedt opprinnelsesgarantier kan eier/driftsansvarlig til enhver tid sjekke antall opprinnelsesgarantier utstedt og disponere disse etter eget ønske i opprinnelsesgarantiregisteret.

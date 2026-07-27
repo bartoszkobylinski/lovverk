@@ -48,13 +48,20 @@ Kapittelet gjelder for interkommunale selskaper som utarbeider årsregnskap og �
 
 Årsregnskapet skal inneholde en resultatoppstilling som nevnt i [regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) eller [§ 6-1a](lov/1998-07-17-56/§6-1a) og også en oppstilling av investeringsutgiftene og finansieringen av disse. Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet.
 
-Årsregnskapet skal også inneholde noteopplysninger om:Størrelsen på minimumsavdraget beregnet etter [IKS-loven § 22](lov/1999-01-29-6/§22) sjette ledd, og størrelsen på selskapets betalte avdrag på lån. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen av minimumsavdraget.Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
+Årsregnskapet skal også inneholde noteopplysninger om:
+
+1. Størrelsen på minimumsavdraget beregnet etter [IKS-loven § 22](lov/1999-01-29-6/§22) sjette ledd, og størrelsen på selskapets betalte avdrag på lån. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen av minimumsavdraget.
+2. Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.
+3. Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
 
 ### § 2-4. Innholdet i årsberetningen
 
 Årsberetningen skal utarbeides i samsvar med [regnskapsloven](lov/1998-07-17-56).
 
-Årsberetningen skal også redegjøre for:Vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet og vesentlige avvik fra representantskapets premisser for bruken av de økonomiske rammene.Selskapets måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for deltakerne eller innbyggerne.
+Årsberetningen skal også redegjøre for:
+
+1. Vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet og vesentlige avvik fra representantskapets premisser for bruken av de økonomiske rammene.
+2. Selskapets måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for deltakerne eller innbyggerne.
 
 Plikten til å utarbeide årsberetning gjelder ikke for selskap som regnes som små foretak etter [regnskapsloven § 1-6](lov/1998-07-17-56/§1-6).
 
@@ -76,7 +83,10 @@ Kapittelet gjelder for interkommunale selskaper som utarbeider årsregnskap og �
 
 Årsregnskapet skal inneholde oppstillinger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-5](forskrift/2019-06-07-714/§5-5) første ledd, [§ 5-6](forskrift/2019-06-07-714/§5-6) og [§ 5-8](forskrift/2019-06-07-714/§5-8). Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene av driftsregnskapet og investeringsregnskapet skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet. Oppstillingen av balanseregnskapet skal vise beløp for regnskapsåret og det forrige årsregnskapet.
 
-Årsregnskapet skal inneholde noteopplysninger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15). Årsregnskapet skal også inneholde noteopplysninger om:Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
+Årsregnskapet skal inneholde noteopplysninger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15). Årsregnskapet skal også inneholde noteopplysninger om:
+
+1. Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.
+2. Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
 
 ### § 3-4. Innholdet i årsberetningen
 

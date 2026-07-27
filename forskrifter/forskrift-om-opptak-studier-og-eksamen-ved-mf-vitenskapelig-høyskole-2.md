@@ -15,7 +15,7 @@ xml_hash: "f25572a00dd3cfc1f93060ccdeeba605c389751b08ad3837d6d1332d5620a0f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,10 @@ Styret fastsetter årlig opptaksramme for studietilbudet.
 
 ### § 2-4. Krav for opptak til praktisk-teologisk utdanning (PRATEOL)
 
-For opptak til praktisk-teologisk utdanning kreves det ett av grunnlagene nedenfor:Eldre cand.theol.-grad uten praktikumKravene som stilles av Den norske kirke i [Tjenesteordning med kvalifikasjonskrav for menighetsprester](https://www.kirken.no/globalassets/kirken.no/om-kirken/slik-styres-kirken/lover-og-regler/tjenesteordning%20med%20kvalifikasjonskrav%20for%20menighetsprester%202022.pdf).
+For opptak til praktisk-teologisk utdanning kreves det ett av grunnlagene nedenfor:
+
+1. Eldre cand.theol.-grad uten praktikum
+2. Kravene som stilles av Den norske kirke i [Tjenesteordning med kvalifikasjonskrav for menighetsprester](https://www.kirken.no/globalassets/kirken.no/om-kirken/slik-styres-kirken/lover-og-regler/tjenesteordning%20med%20kvalifikasjonskrav%20for%20menighetsprester%202022.pdf).
 
 ### § 2-5. Krav for opptak til praktisk-pedagogisk utdanning (PPU)
 
@@ -198,7 +201,10 @@ Studenten kan pålegges å legge fram originalversjonen av dokumentene som er la
 
 ### § 3-2. Bachelorgrad
 
-(1) Graden bachelor tildeles for treårige utdanninger med et omfang på 180 studiepoeng, i ett av følgende studieløp:Studieprogram med et omfang på 180 studiepoeng, med fordypning på minst 80 studiepoeng innenfor et fagområde, som i henhold til studieplanen gir bachelorgradFritt sammensatt bachelorgrad med et omfang på 180 studiepoeng, med fordypningsenhet på minst 80 studiepoeng innenfor ett av MFs fagområder.
+(1) Graden bachelor tildeles for treårige utdanninger med et omfang på 180 studiepoeng, i ett av følgende studieløp:
+
+1. Studieprogram med et omfang på 180 studiepoeng, med fordypning på minst 80 studiepoeng innenfor et fagområde, som i henhold til studieplanen gir bachelorgrad
+2. Fritt sammensatt bachelorgrad med et omfang på 180 studiepoeng, med fordypningsenhet på minst 80 studiepoeng innenfor ett av MFs fagområder.
 
 (2) Bachelorgraden må inneholde emnene examen philosophicum (10 studiepoeng) og examen facultatum (10 studiepoeng). Det kan i den enkelte studieplanen gjøres unntak fra kravet til examen facultatum. Det kan ikke gjøres unntak fra kravet til examen facultatum for den fritt sammensatte bachelorgraden.
 
@@ -212,7 +218,11 @@ Studenten kan pålegges å legge fram originalversjonen av dokumentene som er la
 
 ### § 3-3. Mastergrad
 
-(1) Graden master tildeles formastergrad med et omfang på 120 studiepoengerfaringsbasert mastergrad med et omfang på 90 eller 120 studiepoengintegrert mastergrad med et omfang på 300 studiepoeng.
+(1) Graden master tildeles for
+
+1. mastergrad med et omfang på 120 studiepoeng
+2. erfaringsbasert mastergrad med et omfang på 90 eller 120 studiepoeng
+3. integrert mastergrad med et omfang på 300 studiepoeng.
 
 (2) Den enkelte studieplanen inneholder nærmere krav til sammensetningen av og innholdet i mastergraden.
 
@@ -266,7 +276,12 @@ For akkreditering og kvalitetssikring av studietilbudet gjelder System for utdan
 
 (1) Studenten kan søke om å få gjennomføre deler av utdanningen i utlandet ved MFs samarbeidsinstitusjoner som del av sin bachelor- eller mastergrad.
 
-(2) Studenten må oppfylle følgende minstekrav for delstudier i utlandet:Student på bachelornivå må normalt ha bestått minst 60 studiepoeng ved MF. Student på masternivå må normalt ha bestått minst 30 studiepoeng ved MF.Studenten må oppfylle opptakskravene ved mottakerinstitusjonen.Studenten må oppfylle eventuelle andre vilkår for utveksling fastsatt i studentens studieplan ved MF.Studenten må ikke være under særskilt skikkethetsvurdering.
+(2) Studenten må oppfylle følgende minstekrav for delstudier i utlandet:
+
+1. Student på bachelornivå må normalt ha bestått minst 60 studiepoeng ved MF. Student på masternivå må normalt ha bestått minst 30 studiepoeng ved MF.
+2. Studenten må oppfylle opptakskravene ved mottakerinstitusjonen.
+3. Studenten må oppfylle eventuelle andre vilkår for utveksling fastsatt i studentens studieplan ved MF.
+4. Studenten må ikke være under særskilt skikkethetsvurdering.
 
 (3) Rektor kan fastsette ytterligere vilkår for nominasjon samt kriterier for rangering når antall søkere overstiger antall plasser.
 
@@ -316,7 +331,10 @@ Studieåret starter normalt i høstsemesteret og har undervisningsterminer i hø
 
 (2) Studenter som får barn under studiene, har rett til permisjon etter [universitets- og høyskoleloven § 10-6 andre ledd](lov/2024-03-08-9/§10-6/ledd/2).
 
-(3) Studenter kan i tillegg søke om permisjon fra studiene uten dokumentert grunn i inntil ett år. Studenten bør dadet siste studieåret ha avlagt minimum 30 studiepoengha avlagt minimum 60 studiepoeng siden forrige permisjon.
+(3) Studenter kan i tillegg søke om permisjon fra studiene uten dokumentert grunn i inntil ett år. Studenten bør da
+
+- det siste studieåret ha avlagt minimum 30 studiepoeng
+- ha avlagt minimum 60 studiepoeng siden forrige permisjon.
 
 (4) Retten til permisjon etter tredje ledd gjelder ikke for studenter som skriver bachelor eller masteroppgave, og som mottar veiledning.
 
@@ -342,7 +360,15 @@ Studieretten opphører når studenten skriftlig bekrefter å ha trukket seg fra 
 
 ### § 5-8. Tap av studierett
 
-(1) MF kan fatte vedtak om tap av studierett til studiet når studentenikke har semesterregistrert seg innen fastsatt frist,ikke har betalt studieavgift innen fastsatt frist,unnlater å levere originaldokumentasjon som er lagt til grunn for opptaket, hvis dette blir etterspurt av MF,ikke oppfyller vilkårene for betinget opptak,har brukt opp sine praksisforsøk i henhold til [§ 7-2](forskrift/2026-06-09-1387/§7-2),ikke oppfyller kravene til studieprogresjon i henhold til [§ 5-3](forskrift/2026-06-09-1387/§5-3) ellerhar brukt opp perioden for studierett i henhold til [§ 5-4](forskrift/2026-06-09-1387/§5-4).
+(1) MF kan fatte vedtak om tap av studierett til studiet når studenten
+
+1. ikke har semesterregistrert seg innen fastsatt frist,
+2. ikke har betalt studieavgift innen fastsatt frist,
+3. unnlater å levere originaldokumentasjon som er lagt til grunn for opptaket, hvis dette blir etterspurt av MF,
+4. ikke oppfyller vilkårene for betinget opptak,
+5. har brukt opp sine praksisforsøk i henhold til [§ 7-2](forskrift/2026-06-09-1387/§7-2),
+6. ikke oppfyller kravene til studieprogresjon i henhold til [§ 5-3](forskrift/2026-06-09-1387/§5-3) eller
+7. har brukt opp perioden for studierett i henhold til [§ 5-4](forskrift/2026-06-09-1387/§5-4).
 
 (2) Studenten skal varsles og gis anledning til å uttale seg innen fastsatt frist før det fattes vedtak om tap av studierett.
 
@@ -547,7 +573,11 @@ For avbrudd under eksamen gjelder [Utfyllende reglement for eksamen ved MF viten
 
 ### § 10-1. Krav til sensorer og sensorordninger
 
-(1) Sensor må ha minst en av følgende kvalifikasjoner:være ansatt som lektor eller på høyere nivå ved høyskole, universitet eller annen forskningsinstitusjonha dokumentert vitenskapelig kompetanse innenfor aktuelt fagområde som kvalifiserer for ansettelse som lektor, eller på høyere nivå ved høyskole, universitet eller annen forskningsinstitusjoni særlig tilfelle være kvalifisert innenfor emnet gjennom relevant yrkespraksis.
+(1) Sensor må ha minst en av følgende kvalifikasjoner:
+
+1. være ansatt som lektor eller på høyere nivå ved høyskole, universitet eller annen forskningsinstitusjon
+2. ha dokumentert vitenskapelig kompetanse innenfor aktuelt fagområde som kvalifiserer for ansettelse som lektor, eller på høyere nivå ved høyskole, universitet eller annen forskningsinstitusjon
+3. i særlig tilfelle være kvalifisert innenfor emnet gjennom relevant yrkespraksis.
 
 (2) Krav til sensorordninger ved eksamen fremgår av [universitets- og høyskoleloven §§ 11-6 første ledd](lov/2024-03-08-9/§11-6/ledd/1) og [11-7 første](lov/2024-03-08-9/§11-7/ledd/1) og [andre ledd](lov/2024-03-08-9/§11-7/ledd/2).
 
@@ -583,7 +613,17 @@ For rett til begrunnelse for sensur samt klage på formelle feil og karakterer v
 
 ### § 10-7. Fusk eller forsøk på fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:å handle i strid med gjeldende regler for den spesifikke eksamenå bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid eller arbeid generert av kunstig intelligens, som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatå levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvå levere besvarelse som er utarbeidet av andre enn studenten(e) selvureglementert samarbeid mellom studenter eller grupperå fabrikkere eller forfalske dataurettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterå gjenbruke eget tidligere innlevert arbeid som har gitt uttelling i form av studiepoeng, uten å ha opplyst om dette.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
+
+1. å handle i strid med gjeldende regler for den spesifikke eksamen
+2. å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+3. å presentere andres arbeid eller arbeid generert av kunstig intelligens, som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+5. å levere besvarelse som er utarbeidet av andre enn studenten(e) selv
+6. ureglementert samarbeid mellom studenter eller grupper
+7. å fabrikkere eller forfalske data
+8. urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+9. å gjenbruke eget tidligere innlevert arbeid som har gitt uttelling i form av studiepoeng, uten å ha opplyst om dette.
 
 (2) Ved urettmessig gjenbruk av eget tidligere arbeid etter bokstav (i) er reaksjonen kun annullering.
 

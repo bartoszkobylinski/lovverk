@@ -40,7 +40,12 @@ Forskriften gjelder tilsvarende for omsorgssentre for enslige mindreårige asyls
 
 Barn og unge kan bare gis opphold i en institusjon som er godkjent, jf. [barnevernsloven § 10-17](lov/2021-06-18-97/§10-17) første ledd.
 
-Institusjonen kan bare godkjennes dersom den viloppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven,gi barn forsvarlig omsorg og behandling,tilfredsstille vilkår stilt i eller med hjemmel i annen lovgivning ogellers vil bli drevet på en forsvarlig måte.
+Institusjonen kan bare godkjennes dersom den vil
+
+1. oppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven,
+2. gi barn forsvarlig omsorg og behandling,
+3. tilfredsstille vilkår stilt i eller med hjemmel i annen lovgivning og
+4. ellers vil bli drevet på en forsvarlig måte.
 
 Tett geografisk konsentrasjon av institusjoner kan inngå som et moment i vurderingen av om institusjonen kan gi barn forsvarlig omsorg og behandling.
 
@@ -92,7 +97,14 @@ Institusjonen må oppfylle de kravene som følger av [barnevernsloven § 10-17](
 
 Institusjonen må kunne følge opp barnas behov for skole-, helse- og omsorgstjenester, andre velferdstilbud, samt fritidsmuligheter og offentlig kommunikasjon. Når institusjonen består av flere institusjonsavdelinger med egen godkjenning, skal avdelingene være lokalisert på en måte som hindrer negativ læring mellom målgrupper.
 
-Institusjonen skal hatilstrekkelige og oversiktlige fellesarealer,lokaler som er egnet til fritidsaktiviteter,lokaler som er egnet til samvær med familie,egnede utearealer,tilstrekkelig fritidsmateriell, ogtilfredsstillende vedlikehold og hygienisk standard.
+Institusjonen skal ha
+
+1. tilstrekkelige og oversiktlige fellesarealer,
+2. lokaler som er egnet til fritidsaktiviteter,
+3. lokaler som er egnet til samvær med familie,
+4. egnede utearealer,
+5. tilstrekkelig fritidsmateriell, og
+6. tilfredsstillende vedlikehold og hygienisk standard.
 
 Alle barn og ungdom skal gis tilbud om enkeltrom med mindre institusjonens målgruppe er små barn.
 
@@ -110,7 +122,13 @@ Institusjonen skal ha en leder og en stedfortreder for lederen. Leder eller sted
 
 ### § 10. Krav til rutiner
 
-Institusjonen skal ha rutiner som sikrer beboerne forsvarlig omsorg og behandling, herunder rutiner somsikrer barnas rett til deltakelse og innflytelse i saker som gjelder institusjonens daglige rutiner og gjøremål, felles fritidsaktiviteter og lignende,ivaretar barnas behov for oppbevaring av private eiendeler, penger mv. på en forsvarlig måte,legger til rette for at barnas rett til medisinsk tilsyn og behandling ivaretas,legger til rette for at barna får opplæring etter [opplæringsloven](lov/1998-07-17-61),som ivaretar krav til oppbevaring og behandling av personopplysninger.
+Institusjonen skal ha rutiner som sikrer beboerne forsvarlig omsorg og behandling, herunder rutiner som
+
+1. sikrer barnas rett til deltakelse og innflytelse i saker som gjelder institusjonens daglige rutiner og gjøremål, felles fritidsaktiviteter og lignende,
+2. ivaretar barnas behov for oppbevaring av private eiendeler, penger mv. på en forsvarlig måte,
+3. legger til rette for at barnas rett til medisinsk tilsyn og behandling ivaretas,
+4. legger til rette for at barna får opplæring etter [opplæringsloven](lov/1998-07-17-61),
+5. som ivaretar krav til oppbevaring og behandling av personopplysninger.
 
 ### § 11. Regnskapsplikt og revisjon
 
@@ -128,7 +146,16 @@ Med internkontroll menes systematiske tiltak som skal sikre at institusjonens ak
 
 Internkontrollen skal tilpasses institusjonens størrelse, målgruppe, målene for institusjonens virksomhet og risikoforhold og ha det omfang som er nødvendig for å oppfylle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven.
 
-Som et ledd i internkontrollen skal institusjonen blant annet beskrive hvordan institusjonener organisert, samt institusjonens hovedoppgaver og mål, herunder mål for forbedringsarbeidet,utvikler, iverksetter, kontrollerer, evaluerer og forbedrer nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av barnevernslovgivningen,skaffer oversikt over områder i institusjonen hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav,foretar systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i institusjonen,sørger for at arbeidstakerne har tilgang til og kunnskap om aktuelle lover og forskrifter som gjelder for institusjonen,sørger for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagområdet, samt om institusjonens internkontroll,sørger for at arbeidstakerne, oppdragstakerne og samarbeidspartnerne medvirker slik at samlet kunnskap og erfaring utnyttes, oggjør bruk av erfaringer fra barn og foreldre til forbedring av institusjonen, samt gjøre bruk av erfaringer fra barnevernstjenestene.
+Som et ledd i internkontrollen skal institusjonen blant annet beskrive hvordan institusjonen
+
+1. er organisert, samt institusjonens hovedoppgaver og mål, herunder mål for forbedringsarbeidet,
+2. utvikler, iverksetter, kontrollerer, evaluerer og forbedrer nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av barnevernslovgivningen,
+3. skaffer oversikt over områder i institusjonen hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav,
+4. foretar systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i institusjonen,
+5. sørger for at arbeidstakerne har tilgang til og kunnskap om aktuelle lover og forskrifter som gjelder for institusjonen,
+6. sørger for at arbeidstakerne har tilstrekkelig kunnskap og ferdigheter innenfor fagområdet, samt om institusjonens internkontroll,
+7. sørger for at arbeidstakerne, oppdragstakerne og samarbeidspartnerne medvirker slik at samlet kunnskap og erfaring utnyttes, og
+8. gjør bruk av erfaringer fra barn og foreldre til forbedring av institusjonen, samt gjøre bruk av erfaringer fra barnevernstjenestene.
 
 ### § 14. Dokumentasjon
 

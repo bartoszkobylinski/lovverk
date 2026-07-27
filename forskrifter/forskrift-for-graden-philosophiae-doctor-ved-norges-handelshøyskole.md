@@ -36,7 +36,12 @@ Ph.d.-utdanningen skal kvalifisere for forskning av internasjonal standard og an
 
 Ph.d.-utdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse i tråd med det nasjonale kvalifikasjonsrammeverket. Ph.d.-utdanningen er normert til tre års fulltidsstudier og inkluderer en opplæringsdel av minimum 45 studiepoengs omfang. Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under veiledning.
 
-Ph.d.-graden tildeles på grunnlag avgodkjent gjennomføring av opplæringsdelengodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt temagodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av
+
+1. godkjent gjennomføring av opplæringsdelen
+2. godkjent vitenskapelig avhandling
+3. godkjent prøveforelesning over oppgitt tema
+4. godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 1-3. Ansvar for ph.d.-utdanningen
 
@@ -62,7 +67,15 @@ Prorektor for forskning kan stille ytterligere krav til kvalifikasjoner i tråd 
 
 Søknad om opptak skal gi et best mulig grunnlag for vurdering av søkers kompetanse og mulighet til å gjennomføre ph.d.-utdanningen.
 
-Søknaden skal normalt inneholdedokumentasjon av utdanningtentativ prosjektbeskrivelse som skal gjøre rede for forskningstema og problemstillingerfinansieringsplanopplysninger om eventuelle immateriellrettslige restriksjonerdokumentasjon av eventuelle spesielle behov for faglige og materielle ressurserredegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer, andre myndigheter eller fra privateeventuell søknad om tillatelse til å benytte et annet språk enn engelsk i avhandling, prøveforelesning og disputas.
+Søknaden skal normalt inneholde
+
+1. dokumentasjon av utdanning
+2. tentativ prosjektbeskrivelse som skal gjøre rede for forskningstema og problemstillinger
+3. finansieringsplan
+4. opplysninger om eventuelle immateriellrettslige restriksjoner
+5. dokumentasjon av eventuelle spesielle behov for faglige og materielle ressurser
+6. redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer, andre myndigheter eller fra private
+7. eventuell søknad om tillatelse til å benytte et annet språk enn engelsk i avhandling, prøveforelesning og disputas.
 
 Prorektor for forskning fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon i søknaden.
 
@@ -70,11 +83,20 @@ Prorektor for forskning fastsetter søknadsskjema og kan fastsette krav til ytte
 
 Prorektor for forsking fatter vedtak om opptak basert på en samlet vurdering av søknaden, herunder finansiering, opptakskapasitet, veiledningskapasitet, tilleggsutdanning og immaterialrettslige avtaler.
 
-Opptaksvedtaket skal inneholde følgendespesifisering av avtaleperioden, jf. [§ 2-4](forskrift/2025-01-29-126/§2-4)eventuelle betingelser for opptaktilknytning til instituttkrav om signering av arbeidsavtale/finanseringsavtale innen oppstartsdatokrav om signering av ph.d.-avtale innen tre måneder etter oppstartsdato.
+Opptaksvedtaket skal inneholde følgende
+
+1. spesifisering av avtaleperioden, jf. [§ 2-4](forskrift/2025-01-29-126/§2-4)
+2. eventuelle betingelser for opptak
+3. tilknytning til institutt
+4. krav om signering av arbeidsavtale/finanseringsavtale innen oppstartsdato
+5. krav om signering av ph.d.-avtale innen tre måneder etter oppstartsdato.
 
 For kandidater med finansiering fra, tilsetting hos, eller andre bidrag fra en ekstern part, skal det, i tråd med fastsatte retningslinjer, inngås egen avtale mellom kandidaten, NHH og den eksterne part.
 
-Opptak skal nektes dersomavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at NHH ikke bør medvirke i prosjektet.
+Opptak skal nektes dersom
+
+1. avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+2. de immaterialrettslige avtaler som er inngått er så urimelige at NHH ikke bør medvirke i prosjektet.
 
 ### § 2-4. Avtaleperioden
 
@@ -102,7 +124,16 @@ Opptak i ph.d.-programmet formaliseres gjennom skriftlig avtale som underskrives
 
 Ph.d.-avtalen regulerer partenes rettigheter og plikter i avtaleperioden og skal sikre at kandidaten deltar regelmessig i et aktivt forskningsmiljø samt tilrettelegge for at ph.d.-utdanningen skal kunne gjennomføres til avtalt tid.
 
-Ph.d.-avtalen skal regulereavtaleperioden, jf. [§ 2-4](forskrift/2025-01-29-126/§2-4)tema for avhandlingenopplæringsdel, herunder karakterkravveiledningsforhold og oppnevning av veileder(e)progresjons- og rapporteringskrav, jf. [§ 3-2](forskrift/2025-01-29-126/§3-2) og [§ 3-3](forskrift/2025-01-29-126/§3-3)arbeidssted og krav til residensplikteventuell planlagt tilknytning til utenlandske institusjoner, i samsvar med NHHs retningslinjer for slikt samarbeid, og med egen avtale knyttet til samarbeidetforhold knyttet til samarbeid med eventuell ekstern part.
+Ph.d.-avtalen skal regulere
+
+1. avtaleperioden, jf. [§ 2-4](forskrift/2025-01-29-126/§2-4)
+2. tema for avhandlingen
+3. opplæringsdel, herunder karakterkrav
+4. veiledningsforhold og oppnevning av veileder(e)
+5. progresjons- og rapporteringskrav, jf. [§ 3-2](forskrift/2025-01-29-126/§3-2) og [§ 3-3](forskrift/2025-01-29-126/§3-3)
+6. arbeidssted og krav til residensplikt
+7. eventuell planlagt tilknytning til utenlandske institusjoner, i samsvar med NHHs retningslinjer for slikt samarbeid, og med egen avtale knyttet til samarbeidet
+8. forhold knyttet til samarbeid med eventuell ekstern part.
 
 Prorektor for forskning kan sette ytterligere krav i ph.d.-avtalen.
 
@@ -114,7 +145,10 @@ Kandidat og veileder har et likeverdig ansvar for rapportering. Manglende eller 
 
 ### § 3-3. Progresjonskrav
 
-Progresjonskrav i ph.d.-utdanningen nedfelles i kandidatens ph.d.-avtale. Kravene skal minimum innebære atopplæringsdelen skal normalt være fullført innen 4. semester, ogen midtveisevaluering av ph.d.-arbeidet bør normalt finne sted senest 4. semester.
+Progresjonskrav i ph.d.-utdanningen nedfelles i kandidatens ph.d.-avtale. Kravene skal minimum innebære at
+
+1. opplæringsdelen skal normalt være fullført innen 4. semester, og
+2. en midtveisevaluering av ph.d.-arbeidet bør normalt finne sted senest 4. semester.
 
 Prorektor for forskning kan fastsette ytterligere progresjonskrav.
 
@@ -134,7 +168,12 @@ Kandidaten og prorektor for forskning kan avtale at ph.d.-utdanningen avsluttes 
 
 ### § 4-2. Tvungen avslutning ved forsinkelser og unnlatelse
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan prorektor for forskning vedta tvungen avslutning av ph.d.-utdanningen, jf. [universitets- og høyskoleloven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2)vesentlig brudd på progresjonskrav, jf. [§ 3-3](forskrift/2025-01-29-126/§3-3).gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. [§ 3-1](forskrift/2025-01-29-126/§3-1) og [§ 3-2](forskrift/2025-01-29-126/§3-2)forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid, jf. [§ 3-1](forskrift/2025-01-29-126/§3-1) og [§ 3-3](forskrift/2025-01-29-126/§3-3)andre brudd på pliktene i ph.d.-avtalen.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan prorektor for forskning vedta tvungen avslutning av ph.d.-utdanningen, jf. [universitets- og høyskoleloven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2)
+
+1. vesentlig brudd på progresjonskrav, jf. [§ 3-3](forskrift/2025-01-29-126/§3-3).
+2. gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. [§ 3-1](forskrift/2025-01-29-126/§3-1) og [§ 3-2](forskrift/2025-01-29-126/§3-2)
+3. forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid, jf. [§ 3-1](forskrift/2025-01-29-126/§3-1) og [§ 3-3](forskrift/2025-01-29-126/§3-3)
+4. andre brudd på pliktene i ph.d.-avtalen.
 
 Tvungen avslutning etter denne bestemmelsen kan bare vedtas dersom det skyldes forhold som kandidaten selv rår over.
 
@@ -172,7 +211,11 @@ Etter forslag fra instituttet, kan prorektor for forskning fatte vedtak om at ve
 
 Etter forslag fra instituttet, oppnevner prorektor for forskning en veiledningskomité med minst to medlemmer, hvorav det ene medlemmet er kandidatens hovedveileder. Hovedveileder skal normalt ha sin hovedstilling ved NHH og skal lede veiledningskomitéen.
 
-Veiledningskomitéen skal normalt settes sammen slik atminst ett av medlemmene i veiledningskomitéen har sin hovedstilling ved NHHalle veiledere skal ha doktorgrad eller tilsvarende kompetanse innenfor fagfeltet og være aktive forskereminst én av de oppnevnte veilederne bør ha tidligere erfaring og/eller opplæring som veileder av ph.d.-kandidater.
+Veiledningskomitéen skal normalt settes sammen slik at
+
+1. minst ett av medlemmene i veiledningskomitéen har sin hovedstilling ved NHH
+2. alle veiledere skal ha doktorgrad eller tilsvarende kompetanse innenfor fagfeltet og være aktive forskere
+3. minst én av de oppnevnte veilederne bør ha tidligere erfaring og/eller opplæring som veileder av ph.d.-kandidater.
 
 Habilitetsreglene i [lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 6](lov/1967-02-10/§6) flg. gjelder for veilederne.
 
@@ -184,7 +227,14 @@ Kandidat og hovedveileder kan hver for seg be om å få oppnevnt ny hovedveilede
 
 Kandidat og veiledere skal ha jevnlig kontakt. Arbeidet med avhandlingen skal foregå under individuell veiledning. Instituttet og veilederne skal sammen sikre at kandidaten deltar i et aktivt forskningsmiljø.
 
-Veilederne skal diskutere og gi råd omformulering og avgrensning av tema og problemstillingerfaglitteratur og datagrunnlaghypoteser og metoderresultater og tolkningen av disseopplegg og gjennomføring av fremstillingen, herunder disposisjon, språklig form, dokumentasjon mv.forskningsetiske spørsmål knyttet til avhandlingen.
+Veilederne skal diskutere og gi råd om
+
+1. formulering og avgrensning av tema og problemstillinger
+2. faglitteratur og datagrunnlag
+3. hypoteser og metoder
+4. resultater og tolkningen av disse
+5. opplegg og gjennomføring av fremstillingen, herunder disposisjon, språklig form, dokumentasjon mv.
+6. forskningsetiske spørsmål knyttet til avhandlingen.
 
 Veilederne har ansvar for å bidra til samt følge opp kandidatens faglige utvikling.
 
@@ -250,7 +300,13 @@ Det er hovedveileders ansvar å gjøre instituttet og prorektor for forskning op
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent og progresjonskravene er oppfylt.
 
-Søknaden skal ha følgende vedleggavhandlingen i godkjent format i henhold til NHHs bestemmelser og i den form NHH har bestemtdokumentasjon av nødvendige tillatelser der det er påkrevd, jf. [§ 2-2](forskrift/2025-01-29-126/§2-2)medforfattererklæringer hvor dette er påkrevd, jf. [§ 7-1](forskrift/2025-01-29-126/§7-1)erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gangerklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
+Søknaden skal ha følgende vedlegg
+
+1. avhandlingen i godkjent format i henhold til NHHs bestemmelser og i den form NHH har bestemt
+2. dokumentasjon av nødvendige tillatelser der det er påkrevd, jf. [§ 2-2](forskrift/2025-01-29-126/§2-2)
+3. medforfattererklæringer hvor dette er påkrevd, jf. [§ 7-1](forskrift/2025-01-29-126/§7-1)
+4. erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang
+5. erklæring om at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
 
 ### § 8-2. Behandling av søknaden om bedømming
 
@@ -270,7 +326,14 @@ Kandidaten kan etter innlevering søke om tillatelse til å rette formelle feil 
 
 ### § 8-4. Bedømmelseskomitéens sammensetning
 
-Bedømmelseskomitéen skal normalt settes sammen slik atbedømmelseskomitéen består av minst tre medlemmerbegge kjønn er representertminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomitéen er eksterne medlemmer uten tilknytning til NHHveiledere og andre som har bidratt vesentlig til avhandlingen, ikke kan være medlem av bedømmelseskomitéen eller administrere den.
+Bedømmelseskomitéen skal normalt settes sammen slik at
+
+1. bedømmelseskomitéen består av minst tre medlemmer
+2. begge kjønn er representert
+3. minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+4. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. flertallet i bedømmelseskomitéen er eksterne medlemmer uten tilknytning til NHH
+6. veiledere og andre som har bidratt vesentlig til avhandlingen, ikke kan være medlem av bedømmelseskomitéen eller administrere den.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -312,7 +375,10 @@ Bedømmelseskomitéens innstilling skal normalt foreligge innen tre måneder ett
 
 Dersom bedømmelseskomitéen har bedt om en mindre omarbeiding etter [§ 9-2](forskrift/2025-01-29-126/§9-2), skal innstillingen normalt foreligge innen tre måneder etter at bedømmelseskomitéen mottar den omarbeidede avhandlingen, med mindre prorektor for forskning har bestemt noe annet.
 
-Bedømmelseskomitéen kan innstille på ett av følgende alternativerkomitéen finner avhandlingen verdig for forsvarkomitéen finner avhandlingen ikke verdig for forsvar.
+Bedømmelseskomitéen kan innstille på ett av følgende alternativer
+
+1. komitéen finner avhandlingen verdig for forsvar
+2. komitéen finner avhandlingen ikke verdig for forsvar.
 
 Dersom bedømmelseskomitéen finner at dyptgripende endringer vedrørende problemformuleringer, begrepsmessig presisering, dokumentasjon og fremstillingsform, eller metodisk og forskningsetisk grunnlag er nødvendig for at arbeidet skal kunne finnes verdig for forsvar, skal bedømmelseskomitéen anbefale at avhandlingen ikke er verdig for forsvar.
 

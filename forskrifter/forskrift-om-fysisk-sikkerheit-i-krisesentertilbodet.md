@@ -15,7 +15,7 @@ xml_hash: "88ab7fe877495a221735125dfc3b8bdf4d4a10698554acfa8005f811ef6acc27"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,15 +32,31 @@ Kommunen har ansvar for den fysiske tryggleiken i krisesentertilbodet. Kommunen 
 
 ## § 3. Krav til fysisk sikring av lokala og uteområda i krisesentertilbodet
 
-Følgjande tiltak skal ligge føre:Porttelefon og overvakingskamera ved dørSikre dører med sikkerheitslåsSikra vindauge som berre kan opnast og låsast innanfråInnbrotsalarmSkjerma innsyn til krisesenteret frå gateplan og nærområde.
+Følgjande tiltak skal ligge føre:
 
-Kommunen må gjere risikovurderingar og vurdere om følgjande tiltak bør ligge føre:Utvida inngangsparti eller sluse ved inngang til krisesenteretOversiktleg og skjerma åtkomst med lys og rørslesensorar tilpassa bygningstype og lokaliseringOversiktleg, opplyst og skjerma uteområde. Uteområde tilrettelagt for brukarar bør vere utforma slik at uynskt inntrenging ikkje er moglegHærverkshemmande eller innbrotssikre sikkerheitsglas.
+1. Porttelefon og overvakingskamera ved dør
+2. Sikre dører med sikkerheitslås
+3. Sikra vindauge som berre kan opnast og låsast innanfrå
+4. Innbrotsalarm
+5. Skjerma innsyn til krisesenteret frå gateplan og nærområde.
+
+Kommunen må gjere risikovurderingar og vurdere om følgjande tiltak bør ligge føre:
+
+1. Utvida inngangsparti eller sluse ved inngang til krisesenteret
+2. Oversiktleg og skjerma åtkomst med lys og rørslesensorar tilpassa bygningstype og lokalisering
+3. Oversiktleg, opplyst og skjerma uteområde. Uteområde tilrettelagt for brukarar bør vere utforma slik at uynskt inntrenging ikkje er mogleg
+4. Hærverkshemmande eller innbrotssikre sikkerheitsglas.
 
 ## § 4. Individuelle sikkerheitstiltak
 
 Individuelle sikkerheitstiltak er tiltak som er tilpassa den enkelte brukar og tilsette sitt behov for fysisk sikring ved opphald på krisesenteret.
 
-Følgjande tiltak skal gjennomførast:Tilsette skal kartleggje brukaren sitt trusselbilete. Dette gjeld både brukarar som er vaksne og barn.Tilsette må, saman med brukaren, vurdere kva sikkerheitstiltak som er naudsynte ved opphald på krisesenteret, og gjere brukar medviten om desse. Dersom tilsette, saman med brukar, finn at det er behov for særskilde sikkerheitstiltak, skal politiet kontaktast.I dei høve kor politiet, saman med krisesenteret, finn at den fysiske sikringa ved krisesenteret ikkje godt nok beskyttar brukaren, påleggjast kommunen i samarbeid med lokalt politi å flytte brukar til eit anna sikkert krisesentertilbod. Krisesenteret må gjere ei vurdering av kva anna krisesentertilbod som kan vere aktuelt å flytte brukar til, basert på brukaren sitt sikkerheitsbehov.Kommunen skal jamleg sørge risikovurderingar av dei tilsette sitt behov for fysisk sikring.
+Følgjande tiltak skal gjennomførast:
+
+1. Tilsette skal kartleggje brukaren sitt trusselbilete. Dette gjeld både brukarar som er vaksne og barn.
+2. Tilsette må, saman med brukaren, vurdere kva sikkerheitstiltak som er naudsynte ved opphald på krisesenteret, og gjere brukar medviten om desse. Dersom tilsette, saman med brukar, finn at det er behov for særskilde sikkerheitstiltak, skal politiet kontaktast.
+3. I dei høve kor politiet, saman med krisesenteret, finn at den fysiske sikringa ved krisesenteret ikkje godt nok beskyttar brukaren, påleggjast kommunen i samarbeid med lokalt politi å flytte brukar til eit anna sikkert krisesentertilbod. Krisesenteret må gjere ei vurdering av kva anna krisesentertilbod som kan vere aktuelt å flytte brukar til, basert på brukaren sitt sikkerheitsbehov.
+4. Kommunen skal jamleg sørge risikovurderingar av dei tilsette sitt behov for fysisk sikring.
 
 Kommunen bør sjå til at krisesenteret utarbeidar ein plan for den fysiske sikkerheita og gjennomføringa av dei individuelle sikkerheitstiltaka ved krisesenteret etter denne forskrifta. I tillegg bør kommunen sørge for at det ligg føre prosedyre for kartlegging av beskyttelsesbehovet for brukarane.
 

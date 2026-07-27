@@ -34,7 +34,14 @@ Forskrifta gjeld krav til søkjar om satellittinnmelding, innhald i søknad om s
 
 ### § 3. Definisjonar og forkortingar
 
-I forskrifta tydar:*satellitt:* ubemanna kunstig objekt som er plassert i bane rundt jorda.*satellittsystem:* system for radiokommunikasjon mellom ein eller fleire satellittar og tilhøyrande jordstasjonar.*satellittinnmelding:* ei elektronisk fil på det formatet som er fastsett i medhald av forskrifta og med det tekniske innhaldet som ITU (Den Internasjonale Teleunionen) krev i samband med koordinering og notifisering av satellittsystem i medhald av ITU-RR (Den Internasjonale Teleunionens Radioreglement).*satellittoperatør:* den som skal operere og drifte satellittsystemet, og koordinere og bruke satellittinnmeldinga.*ITU:* Den Internasjonale Teleunionen*ITU-RR:* Den Internasjonale Teleunionens Radioreglement.
+I forskrifta tydar:
+
+1. *satellitt:* ubemanna kunstig objekt som er plassert i bane rundt jorda.
+2. *satellittsystem:* system for radiokommunikasjon mellom ein eller fleire satellittar og tilhøyrande jordstasjonar.
+3. *satellittinnmelding:* ei elektronisk fil på det formatet som er fastsett i medhald av forskrifta og med det tekniske innhaldet som ITU (Den Internasjonale Teleunionen) krev i samband med koordinering og notifisering av satellittsystem i medhald av ITU-RR (Den Internasjonale Teleunionens Radioreglement).
+4. *satellittoperatør:* den som skal operere og drifte satellittsystemet, og koordinere og bruke satellittinnmeldinga.
+5. *ITU:* Den Internasjonale Teleunionen
+6. *ITU-RR:* Den Internasjonale Teleunionens Radioreglement.
 
 Elles gjeld definisjonane i [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon](lov/2024-12-13-76).
 
@@ -64,7 +71,10 @@ Ved innmelding til ITU fattar Nasjonal kommunikasjonsmyndigheit vedtak om nasjon
 
 Ein satellittoperatør som vil bruke satellittinnmeldinga må sende søknad om bruksløyve til Nasjonal kommunikasjonsmyndigheit.
 
-Søknaden må innehalde:dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem,ei liste over status for koordineringsprosessen med satellittsystem som er identifisert av ITU.
+Søknaden må innehalde:
+
+1. dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem,
+2. ei liste over status for koordineringsprosessen med satellittsystem som er identifisert av ITU.
 
 Satellittoperatøren plikter å sørgje for at bruk av satellittinnmeldinga ikkje skapar skadeleg interferens.
 
@@ -74,7 +84,9 @@ Ein satellittoperatør kan søke Nasjonal kommunikasjonsmyndigheit om notifiseri
 
 Søknaden må vere på det formatet og innehalde den informasjonen som krevjast i medhald av ITU-RR.
 
-Søknaden må òg innehalde:dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem.
+Søknaden må òg innehalde:
+
+1. dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem.
 
 Nasjonal kommunikasjonsmyndigheit kan sende satellittinnmeldinga vidare til ITU for notifisering og endeleg registrering i Master International Frequency Register (MIFR).
 

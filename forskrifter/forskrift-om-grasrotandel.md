@@ -42,7 +42,20 @@ En enhet kan delta i grasrotandelen dersom enheten er registrert i Frivillighets
 
 Gratis arbeidsinnsats, medlemskontingent og gaver likestilles når det gjelder kravet til frivillig innsats. Gratis styreinnsats tilfredsstiller ikke kravet til frivillig innsats alene. Det må ikke være for tett knytning mellom kontingent, gaver eller gratis arbeidsinnsats og gjenytelser.
 
-Følgende enheter kan ikke delta:enheter som er organisert av det offentlige, herunder forvaltningsvirksomhet som er delegert til frivillige organisasjoner, og virksomhet som er organisert privatrettslig, men som det offentlige står bakenheter som ikke er allmennyttige eller enheter der virksomheten kommer en lukket krets til godeenheter som er registrert innenfor følgende kategorier som det primære aktivitets- og virksomhetsområde i Frivillighetsregisteret:Utdanning og forskningHelse, der enheten driver sykehus, psykiatriske institusjoner, pleiehjem eller noen former for private helseklinikkerBolig- og lokalmiljø. Velforeninger der virksomheten ikke kommer privatøkonomiske interesser til gode kan likevel deltaPolitiske og interesseorganisasjoner som er politiske partier. Politiske partiers ungdomsorganisasjoner kan likevel deltaYrkes-, bransje- og fagforeninger. Elev- og studentorganisasjoner kan likevel delta.enheter som har mistet retten til å motta grasrotmidler i medhold av [§ 7](forskrift/2022-12-05-2124/§7)enheter som ikke har registrert gyldig bankkontonummer i Frivillighetsregisteretenheter som har aktivitet utover det lokale eller regionale.
+Følgende enheter kan ikke delta:
+
+1. enheter som er organisert av det offentlige, herunder forvaltningsvirksomhet som er delegert til frivillige organisasjoner, og virksomhet som er organisert privatrettslig, men som det offentlige står bak
+2. enheter som ikke er allmennyttige eller enheter der virksomheten kommer en lukket krets til gode
+3. enheter som er registrert innenfor følgende kategorier som det primære aktivitets- og virksomhetsområde i Frivillighetsregisteret:
+
+   1. Utdanning og forskning
+   2. Helse, der enheten driver sykehus, psykiatriske institusjoner, pleiehjem eller noen former for private helseklinikker
+   3. Bolig- og lokalmiljø. Velforeninger der virksomheten ikke kommer privatøkonomiske interesser til gode kan likevel delta
+   4. Politiske og interesseorganisasjoner som er politiske partier. Politiske partiers ungdomsorganisasjoner kan likevel delta
+   5. Yrkes-, bransje- og fagforeninger. Elev- og studentorganisasjoner kan likevel delta.
+4. enheter som har mistet retten til å motta grasrotmidler i medhold av [§ 7](forskrift/2022-12-05-2124/§7)
+5. enheter som ikke har registrert gyldig bankkontonummer i Frivillighetsregisteret
+6. enheter som har aktivitet utover det lokale eller regionale.
 
 Dersom registerfører er i tvil, avgjør Lotteritilsynet om en enhet oppfyller vilkår for deltakelse i grasrotandelen. Dersom Brønnøysundregistrene eller Lotteritilsynet mottar opplysninger som godtgjør at en enhet ikke skulle kvalifisert til deltakelse i grasrotandelen, men allikevel er registrert som grasrotmottaker skal gjeldende enhet slettes som grasrotmottaker i Frivillighetsregisteret.
 
@@ -74,7 +87,11 @@ Norsk Tipping skal hvert år offentliggjøre oversikt over hvilke enheter i Friv
 
 ## § 7. Vedtak om utestenging fra grasrotandelen
 
-Lotteritilsynet kan vedta at en enhet skal miste retten til å delta i grasrotandelen i inntil fem år dersom tilsynet finner at:enheten ikke kan godtgjøre at vilkårene i denne forskriften er oppfyltenheten har drevet med kommersiell reklamekampanje med formål å fremme tilslutning om egen enhet i grasrotandelen gjentatte ganger, ellerenheten på andre måter har misbrukt grasrotandelen.
+Lotteritilsynet kan vedta at en enhet skal miste retten til å delta i grasrotandelen i inntil fem år dersom tilsynet finner at:
+
+1. enheten ikke kan godtgjøre at vilkårene i denne forskriften er oppfylt
+2. enheten har drevet med kommersiell reklamekampanje med formål å fremme tilslutning om egen enhet i grasrotandelen gjentatte ganger, eller
+3. enheten på andre måter har misbrukt grasrotandelen.
 
 Grasrotandel som er vedtatt tilbakebetalt etter [pengespilloven § 35](lov/2022-03-18-12/§35) andre ledd, skal inngå i Norsk Tippings overskudd. Dersom en utestengt enhet har opptjent grasrotandel i perioden siden forrige utbetaling, skal grasrotandelen inngå i Norsk Tippings overskudd.
 

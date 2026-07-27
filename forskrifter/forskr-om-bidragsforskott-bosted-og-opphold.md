@@ -15,7 +15,7 @@ xml_hash: "a956d09b4797cf9a7143e6c789b3d19c5d5f34c9184fe4296b4009cb4e0a202c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ Med riket menes i forskotteringsloven og i forskriften her Norge, unntatt Svalba
 
 ## § 2.
 
-Vilkåret i [forskotteringslovens § 2](lov/1989-02-17-2/§2) første ledd bokstav a om bosted og opphold i riket anses oppfylt nårbarnet skal oppholde seg i riket i mer enn 12 måneder, ellerbarnet fødes i riket og moren har oppholdt seg eller skal oppholde seg her i mer enn 12 måneder.
+Vilkåret i [forskotteringslovens § 2](lov/1989-02-17-2/§2) første ledd bokstav a om bosted og opphold i riket anses oppfylt når
+
+1. barnet skal oppholde seg i riket i mer enn 12 måneder, eller
+2. barnet fødes i riket og moren har oppholdt seg eller skal oppholde seg her i mer enn 12 måneder.
 
 Likt med opphold i riket regnes tidsrom på Svalbard, Jan Mayen eller norske biland, forutsatt at vedkommende er fullt medlem av folketrygden i de aktuelle periodene. En person regnes som fullt medlem av folketrygden når medlemskapet omfatter pensjonsdekning.
 
@@ -36,9 +39,15 @@ Barn som har søkt om asyl i Norge, eller som er barn av personer som har søkt 
 
 ## § 3.
 
-Vilkåret om bosted og opphold i riket skal ikke gjelde dersom barnet er fullt medlem av folketrygden (medlemskap som omfatter pensjonsdekning) ogoppholdet i utlandet ikke er ment å vare mer enn 6 måneder, regnet fra utreisedagen, eller 1barnets utenlandsopphold skyldes arbeid for norsk arbeidsgiver, eller 2barnet oppholder seg i utlandet sammen med forsørgeren og forsørgerens utenlandsopphold har årsaker som nevnt i bokstav b.
+Vilkåret om bosted og opphold i riket skal ikke gjelde dersom barnet er fullt medlem av folketrygden (medlemskap som omfatter pensjonsdekning) og
 
-1 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav a gjelder for tilfelle der utenlandsoppholdet tar til tidligst 1. januar 1994.2 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav b gjelder ikke for tilfelle der søknad om ytelser for tidsrom etter 31. desember 1993 er satt fram før 1. januar 1994. Med søknad om ytelser menes også søknad om fortsatte ytelser under utenlandsopphold som har tatt til før 1. januar 1994.
+1. oppholdet i utlandet ikke er ment å vare mer enn 6 måneder, regnet fra utreisedagen, eller 1
+2. barnets utenlandsopphold skyldes arbeid for norsk arbeidsgiver, eller 2
+3. barnet oppholder seg i utlandet sammen med forsørgeren og forsørgerens utenlandsopphold har årsaker som nevnt i bokstav b.
+
+1 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav a gjelder for tilfelle der utenlandsoppholdet tar til tidligst 1. januar 1994.
+
+2 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav b gjelder ikke for tilfelle der søknad om ytelser for tidsrom etter 31. desember 1993 er satt fram før 1. januar 1994. Med søknad om ytelser menes også søknad om fortsatte ytelser under utenlandsopphold som har tatt til før 1. januar 1994.
 
 Opphevelsen av [§ 3](forskrift/1989-06-21-518/§3) annet ledd gjelder ikke for tilfelle der søknad om dispensasjon er satt fram før 1. januar 1994. Som søknad om dispensasjon regnes i denne forbindelse også søknad om fortsatte ytelser under utenlandsopphold som har tatt til før 1. januar 1994.
 

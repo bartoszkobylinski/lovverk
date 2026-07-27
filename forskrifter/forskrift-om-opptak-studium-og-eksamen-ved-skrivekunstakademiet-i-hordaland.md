@@ -15,7 +15,7 @@ xml_hash: "74dad1be09c253b82085253e0a5d55b990f0d609bdea4fdeaacc75ab14430805"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,10 @@ Ein student kan på grunn av sjukdom, funksjonshemming eller andre særlege forh
 ### § 3-1. Generelle opptakskrav grunnutdanning
 
 1. For opptak til årsstudium i skapande skriving ved Skrivekunstakademiet i Hordaland krevst ordinært generell studiekompetanse i henhald til krav fastsett i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning.
-2. For opptak til fordjupningsstudium i skapande skriving ved Skrivekunstakademiet i Hordaland krevst det at søkjar:Har fullført studiets grunndel eller kan dokumentere tilsvarande kompetanseOppfyller øvrige opptakskrav fastsett i studieplanen.
+2. For opptak til fordjupningsstudium i skapande skriving ved Skrivekunstakademiet i Hordaland krevst det at søkjar:
+
+   - Har fullført studiets grunndel eller kan dokumentere tilsvarande kompetanse
+   - Oppfyller øvrige opptakskrav fastsett i studieplanen.
 
 ### § 3-2. Språkkrav
 
@@ -260,7 +263,11 @@ Tillatte hjelpemidlar ved eksamen under tilsyn skal framgå av emnebeskrivinga. 
 ### § 5-8. Fusk ved eksamen
 
 1. Å presentere andres arbeid som sitt eige vil betraktast som fusk eller forsøk på fusk ved alle eksamensformer.
-2. Følgjende forhold vert betrakta som fusk eller forsøk på fusk ved eksamen som finn stad under tilsyn:å motta hjelp under eksamenå besitte eller bruke hjelpemiddel som ikkje er tillatt etter at oppgaven er delt utå henvende seg munnleg eller skriftleg til andre eksaminander etter at oppgaven er delt ut.
+2. Følgjende forhold vert betrakta som fusk eller forsøk på fusk ved eksamen som finn stad under tilsyn:
+
+   - å motta hjelp under eksamen
+   - å besitte eller bruke hjelpemiddel som ikkje er tillatt etter at oppgaven er delt ut
+   - å henvende seg munnleg eller skriftleg til andre eksaminander etter at oppgaven er delt ut.
 3. Ved heimeeeksamen og andre skriftlege arbeid vil kopiering, plagiering eller avskrift av emnelitteratur og eigne og andres arbeid utan kildehenvising, bli vurdert som fusk eller forsøk på fusk. Sjå også utfyllande bestemmingar om eksamen ved Skrivekunstakademiet i Hordaland.
 4. Ved eksamensformer som opplesing, forestillinger og liknande, vil plagiering av andres idear og konsept vere å ansjå som fusk.
 5. Dersom det oppstår mistanke om fusk eller forsøk på fusk ved eksamen under tilsyn, skal kandidaten straks gjerast oppmerksom på at forholdet vil bli rapportert. Kandidaten vel sjølv om han/ho vil fullføre eller avbryte eksamen.
@@ -283,8 +290,16 @@ Tillatte hjelpemidlar ved eksamen under tilsyn skal framgå av emnebeskrivinga. 
 
 1. Det skal nyttast ekstern sensor avsluttande eksamen og ved klagesensur.
 2. Ekstern evaluering av vurderingsordninga, jf. lov om universiteter og høgskoler § 3-9, kan verte gjennomført for for eitt eller fleire årsstudium samla.
-3. Som element i ei ekstern evaluering av vurderingsordninga kan inngå:gjennomgang av vurderingsordninger nedfelt i emnebeskrivinger og studieplanarevaluering av eksamensoppgåver og vurderingskriterium som inngår i dei aktuelle årsstudiastikkprøvekontroll av vurderingar gjennomført av intern sensor.
-4. Ekstern sensor:er oppnemnd av dagleg leiar etter delegasjon frå styretkan ikkje vere tilsett ved høgskulen, eller ha hatt ansvar for undervisning ved høgskulen i same studieår som eksamen finn stadmå vere tilsett på nivå som minst høgskulelektor- eller førstestilling ved universitet, høgskule eller annan forskningsinstitusjon, på annen måte ha dokumentert relevant fagleg kompetanse på tilsvarende nivå innan aktuelt fagområde, eller gjennom yrkespraksis vere særleg kvalifisert innan aktuelt fagområde.
+3. Som element i ei ekstern evaluering av vurderingsordninga kan inngå:
+
+   - gjennomgang av vurderingsordninger nedfelt i emnebeskrivinger og studieplanar
+   - evaluering av eksamensoppgåver og vurderingskriterium som inngår i dei aktuelle årsstudia
+   - stikkprøvekontroll av vurderingar gjennomført av intern sensor.
+4. Ekstern sensor:
+
+   1. er oppnemnd av dagleg leiar etter delegasjon frå styret
+   2. kan ikkje vere tilsett ved høgskulen, eller ha hatt ansvar for undervisning ved høgskulen i same studieår som eksamen finn stad
+   3. må vere tilsett på nivå som minst høgskulelektor- eller førstestilling ved universitet, høgskule eller annan forskningsinstitusjon, på annen måte ha dokumentert relevant fagleg kompetanse på tilsvarende nivå innan aktuelt fagområde, eller gjennom yrkespraksis vere særleg kvalifisert innan aktuelt fagområde.
 5. Den som påtek seg eit sensoroppdrag, har plikt til å overhalde lovens hovedregel om tre vekers sensurfrist. Med tre veker forstås 15 arbeidsdagar. Ved ny sensur som følgje av klage, eller bytte av sensor som følgje av uforutsett forfall, reknast sensurfristen frå det tidspunkt ny sensor er oppnemnd.
 6. Dersom to interne sensorar i fellesskap skal fastsette karakter, og det ikkje er mogleg å oppnå semje om eit felles sensurvedtak, vert karakteren avgjort av ein tredje, ekstern sensor. Denne skal gjerast kjent med dei første sensoranes karakterframlegg med grunngjeving. Ved bruk av ekstern sensor vil vedkommandes vurdering vere avgjerande ved eventuell usemje om karakter.
 7. Sensur vert kunngjort på den måten høgskulen sjølv bestemmer. Offentleggjering av sensur skal ikkje innehalde kandidatens navn.
@@ -308,7 +323,10 @@ Tillatte hjelpemidlar ved eksamen under tilsyn skal framgå av emnebeskrivinga. 
 
 ### § 6-1. Godskriving og faglig godkjenning
 
-1. Studentar kan, i henhald til reglane i UH-lovens [§ 3-5](forskrift/2017-03-14-324/§3-5), søke om innpassing av/fritak for emner, fag, eksamenar eller arbeidskrav ut fråbeståtte emner og eksamenar frå annen akkreditert utdanningtidligere ikkje-akkreditert utdanning og erfaring (realkompetanse).
+1. Studentar kan, i henhald til reglane i UH-lovens [§ 3-5](forskrift/2017-03-14-324/§3-5), søke om innpassing av/fritak for emner, fag, eksamenar eller arbeidskrav ut frå
+
+   1. beståtte emner og eksamenar frå annen akkreditert utdanning
+   2. tidligere ikkje-akkreditert utdanning og erfaring (realkompetanse).
 2. Opptaksutvalet avgjer søknadar om godskriving eller fagleg godkjenning etter UH-lovens [§ 3-5](forskrift/2017-03-14-324/§3-5).
 3. Innpassa utdanning og fritak for enkeltemner skal fremgå av karakterutskrift og vitnemålsgrunnlag i tråd med gjeldende mal.
 

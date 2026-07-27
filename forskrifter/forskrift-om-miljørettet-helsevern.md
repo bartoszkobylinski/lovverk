@@ -15,7 +15,7 @@ xml_hash: "213714692b107da55f31abb9d6e3f9e907ebbbc93f4b326e8a531616f82b8dcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Formål
 
-Forskriftens formål er:å fremme folkehelse og bidra til gode miljømessige forhold,å sikre befolkningen mot faktorer i miljøet, blant annet biologiske, kjemiske, fysiske og sosiale, som kan ha negativ innvirkning på helsen.
+Forskriftens formål er:
+
+1. å fremme folkehelse og bidra til gode miljømessige forhold,
+2. å sikre befolkningen mot faktorer i miljøet, blant annet biologiske, kjemiske, fysiske og sosiale, som kan ha negativ innvirkning på helsen.
 
 ### § 2. Virkeområde
 
@@ -90,11 +93,24 @@ Ved valg av beliggenhet for nye virksomheter og ved vesentlige endringer og utvi
 
 ### § 9. Helsemessige ulemper som virksomhet eller eiendom påfører omgivelsene
 
-Virksomheter og eiendommer skal planlegges, drives og avvikles, slik at følgende krav til miljøfaktorer overholdes når det gjelder den belastning omgivelsene påføres:Ved etablering og bruk av støykilder skal det tilstrebes lavest mulig støynivå. Støy og vibrasjoner skal ikke medføre helsemessig ulempe eller overskride helsemessig forsvarlig nivå.Forurensning i form av utslipp til luft, grunn eller vann skal ikke medføre fare for helseskade eller helsemessig ulempe.Virksomheter skal planlegges, drives og avvikles slik at ulykker og skader forebygges.Virksomheter skal håndtere og oppbevare avfall på en helsemessig forsvarlig måte.Virksomheter skal drives slik at luktplager som er til helsemessig ulempe for omgivelsene unngås.
+Virksomheter og eiendommer skal planlegges, drives og avvikles, slik at følgende krav til miljøfaktorer overholdes når det gjelder den belastning omgivelsene påføres:
+
+1. Ved etablering og bruk av støykilder skal det tilstrebes lavest mulig støynivå. Støy og vibrasjoner skal ikke medføre helsemessig ulempe eller overskride helsemessig forsvarlig nivå.
+2. Forurensning i form av utslipp til luft, grunn eller vann skal ikke medføre fare for helseskade eller helsemessig ulempe.
+3. Virksomheter skal planlegges, drives og avvikles slik at ulykker og skader forebygges.
+4. Virksomheter skal håndtere og oppbevare avfall på en helsemessig forsvarlig måte.
+5. Virksomheter skal drives slik at luktplager som er til helsemessig ulempe for omgivelsene unngås.
 
 ### § 10. Helsemessige forhold i virksomheter og eiendommer
 
-Virksomheter og eiendommer der allmennheten har adgang, eller som benyttes av mange mennesker, eller hvor mennesker oppholder seg over lengre perioder, skal i tillegg til bestemmelsene i [§ 7](forskrift/2003-04-25-486/§7) til [§ 9](forskrift/2003-04-25-486/§9) oppfylle følgende krav:Virksomheten skal ha tilfredsstillende inneklima. Lydforhold og belysning skal ikke medføre helsemessig ulempe og skal være tilfredsstillende i forhold til det virksomheten brukes til.Det skal etableres et forsvarlig renhold med hygienisk tilfredsstillende metoder.De sanitære anleggene i virksomheten skal ha en helsemessig forsvarlig utforming, kapasitet og standard.Institusjoner og virksomheter som driver læring, pleie og omsorg mv., skal sikre et godt sosialt miljø.Virksomheten skal planlegges, drives og avvikles slik at ulykker og skader forebygges.Virksomheten skal planlegges, drives og avvikles slik at smittsomme sykdommer forebygges.
+Virksomheter og eiendommer der allmennheten har adgang, eller som benyttes av mange mennesker, eller hvor mennesker oppholder seg over lengre perioder, skal i tillegg til bestemmelsene i [§ 7](forskrift/2003-04-25-486/§7) til [§ 9](forskrift/2003-04-25-486/§9) oppfylle følgende krav:
+
+1. Virksomheten skal ha tilfredsstillende inneklima. Lydforhold og belysning skal ikke medføre helsemessig ulempe og skal være tilfredsstillende i forhold til det virksomheten brukes til.
+2. Det skal etableres et forsvarlig renhold med hygienisk tilfredsstillende metoder.
+3. De sanitære anleggene i virksomheten skal ha en helsemessig forsvarlig utforming, kapasitet og standard.
+4. Institusjoner og virksomheter som driver læring, pleie og omsorg mv., skal sikre et godt sosialt miljø.
+5. Virksomheten skal planlegges, drives og avvikles slik at ulykker og skader forebygges.
+6. Virksomheten skal planlegges, drives og avvikles slik at smittsomme sykdommer forebygges.
 
 ### § 11. Utfyllende bestemmelser
 
@@ -128,7 +144,10 @@ For kjøletårn, luftskrubbere, befuktningsanlegg og innendørs fontener, skal d
 
 ### § 11c. Meldeplikt til kommunen og inspeksjonsordning
 
-Virksomheter med kjøletårn og luftskrubbere skal melde til kommunenved første gangs oppstart, vesentlige utvidelser eller endringer ognår det er grunn til å tro at det foreligger alvorlig feil ved kjøletårn eller luftskrubber som kan medføre spredning av legionellasmitte.
+Virksomheter med kjøletårn og luftskrubbere skal melde til kommunen
+
+1. ved første gangs oppstart, vesentlige utvidelser eller endringer og
+2. når det er grunn til å tro at det foreligger alvorlig feil ved kjøletårn eller luftskrubber som kan medføre spredning av legionellasmitte.
 
 Virksomheter skal i forbindelse med melding etter første ledd bokstav a, og deretter hvert femte år, legge frem for kommunen en vurdering av innretningen fra et akkreditert inspeksjonsorgan.
 
@@ -176,7 +195,13 @@ Den ansvarlige for en virksomhet eller eiendom skal av eget tiltak gi kommunen o
 
 ### § 14. Meldepliktige virksomheter
 
-Følgende virksomheter, eiendommer og tiltak skal melde til kommunen før oppstart og ved vesentlige utvidelser eller endringer:AsylmottakHospitserCampingplasser og andre lignende virksomheter hvor allmennheten har adgang eller som benyttes av mange menneskerLokaler for undervisning og andre forsamlingslokaler hvor allmennheten har adgang eller som benyttes av mange menneskerVirksomheter som foretar utslipp av avløpsvann.
+Følgende virksomheter, eiendommer og tiltak skal melde til kommunen før oppstart og ved vesentlige utvidelser eller endringer:
+
+- Asylmottak
+- Hospitser
+- Campingplasser og andre lignende virksomheter hvor allmennheten har adgang eller som benyttes av mange mennesker
+- Lokaler for undervisning og andre forsamlingslokaler hvor allmennheten har adgang eller som benyttes av mange mennesker
+- Virksomheter som foretar utslipp av avløpsvann.
 
 Avdekker meldingen forhold som gjør at forskriftens krav om helsemessig forsvarlig drift ikke etterleves, kan kommunen kreve retting etter [folkehelseloven § 14](lov/2011-06-24-29/§14) før oppstart og utvidelse eller endring av virksomheten.
 
@@ -214,7 +239,16 @@ Overtredelse av denne forskriften eller av vedtak truffet med hjemmel i forskrif
 
 Denne forskriften trer i kraft 1. juli 2003.
 
-Fra samme dato oppheves følgende sentralt fastsatte forskrifter:helseforskrifter av 14. august 1953 nr. 2 for fiskevær[forskrift av 6. juni 1958 nr. 4208](forskrift/1958-06-06-4208) om orden, utstyr og hygiene m.v. i hoteller, andre herberger og serveringssteder[forskrifter av 19. juni 1959 nr. 4](forskrift/1959-06-19-4) for leir- og campingplasser[forskrift av 23. november 1962 nr. 3](forskrift/1962-11-23-3) om forsamlingslokaler[forskrifter av 5. januar 1968 nr. 1](forskrift/1968-01-05-1) om hygieniske forhold ved kirker[forskrifter av 10. september 1970 nr. 1](forskrift/1970-09-10-1) om oppbevaring av avfall og om renovasjon[forskrifter av 10. september 1970 nr. 9366](forskrift/1970-09-10-9366) om hygieniske forhold i hytteområder og lignende[forskrift av 22. februar 1980 nr. 22](forskrift/1980-02-22-22) om utslipp av avløpsvann.
+Fra samme dato oppheves følgende sentralt fastsatte forskrifter:
+
+- helseforskrifter av 14. august 1953 nr. 2 for fiskevær
+- [forskrift av 6. juni 1958 nr. 4208](forskrift/1958-06-06-4208) om orden, utstyr og hygiene m.v. i hoteller, andre herberger og serveringssteder
+- [forskrifter av 19. juni 1959 nr. 4](forskrift/1959-06-19-4) for leir- og campingplasser
+- [forskrift av 23. november 1962 nr. 3](forskrift/1962-11-23-3) om forsamlingslokaler
+- [forskrifter av 5. januar 1968 nr. 1](forskrift/1968-01-05-1) om hygieniske forhold ved kirker
+- [forskrifter av 10. september 1970 nr. 1](forskrift/1970-09-10-1) om oppbevaring av avfall og om renovasjon
+- [forskrifter av 10. september 1970 nr. 9366](forskrift/1970-09-10-9366) om hygieniske forhold i hytteområder og lignende
+- [forskrift av 22. februar 1980 nr. 22](forskrift/1980-02-22-22) om utslipp av avløpsvann.
 
 Fra samme dato oppheves de lokale helseforskrifter som er hjemlet i [kommunehelsetjenesteloven § 7-9](lov/1982-11-19-66/§7-9). Dette gjelder ikke [forskrift av 9. oktober 1974 nr. 2](forskrift/1974-10-09-2) om begrensning av støy – tillegg til helseforskriftene, Oslo kommune, Oslo.
 
@@ -250,13 +284,40 @@ Forskriften har to målgrupper; [kapittel 2](forskrift/2003-04-25-486/kap2) rett
 
 Det følger av første ledd første punktum at forskriften gjelder for privat og offentlig virksomhet og eiendom hvis forhold direkte eller indirekte kan ha innvirkning på helsen. Bestemmelsen er vidt formulert og omfatter virksomhet av ulik karakter. Forhold som innebærer en helserisiko kan være forårsaket av eiendom og virksomhet i vid forstand (for eksempel aktivitet eller fysisk utforming).
 
-Nedenfor gis en liste over eksempler på virksomheter og eiendommer som omfattes av forskriften. Listen er ikke uttømmende.anlegg for avfall og gjenvinning,avløpsanlegg,bygge- og anleggsplasser,ekspedisjonslokaler, for eksempel butikker,enkelttiltak/enkeltarrangementer som etter sin art åpenbart kan medføre helsemessig ulempe eller helseskade for omgivelsene,forsamlingslokaler hvor allmennheten har adgang eller som benyttes av mange mennesker, for eksempel kino, diskotek, kirke,hoteller, pensjonater og lignende lokaler som mot godtgjørelse tilbyr overnatting,idretts-, fritids- og underholdningsanlegg, for eksempel treningsstudio,institusjoner, internater og lignende, for eksempel sykehus, sykehjem, boform for heldøgns omsorg og pleie, aldershjem, annen bolig med heldøgns omsorgstjenester, asylmottak, skoleinternat, barnevernsinstitusjon, fengsel,kontorer, offentlige og private,leir- og campingplasser, hytteområder og badeplasser,lokaler for fysikalsk eller annen helsemessig behandling, for eksempel kontorer for helsepersonell og alternative behandlere,lokaler hvor det tilbys undervisning, for eksempel universiteter, høgskoler, kjøreskoler,produksjonsbedrifter, for eksempel fabrikker,renovasjonsvirksomheter,serveringssteder,servicebedrifter, for eksempel bensinstasjoner og verksteder,skytebaner,husdyrhold i tettbygd strøk,transportmidler, veier og transportanlegg, for eksempel T-baner, flyplasser, havner, laste- og transportterminaler, parkeringsplasser,utslipp fra hytter, boliger, fritidsbebyggelse, campingvogner og lignendevirksomheter som har kjøletårn eller lignende innretning.
+Nedenfor gis en liste over eksempler på virksomheter og eiendommer som omfattes av forskriften. Listen er ikke uttømmende.
+
+- anlegg for avfall og gjenvinning,
+- avløpsanlegg,
+- bygge- og anleggsplasser,
+- ekspedisjonslokaler, for eksempel butikker,
+- enkelttiltak/enkeltarrangementer som etter sin art åpenbart kan medføre helsemessig ulempe eller helseskade for omgivelsene,
+- forsamlingslokaler hvor allmennheten har adgang eller som benyttes av mange mennesker, for eksempel kino, diskotek, kirke,
+- hoteller, pensjonater og lignende lokaler som mot godtgjørelse tilbyr overnatting,
+- idretts-, fritids- og underholdningsanlegg, for eksempel treningsstudio,
+- institusjoner, internater og lignende, for eksempel sykehus, sykehjem, boform for heldøgns omsorg og pleie, aldershjem, annen bolig med heldøgns omsorgstjenester, asylmottak, skoleinternat, barnevernsinstitusjon, fengsel,
+- kontorer, offentlige og private,
+- leir- og campingplasser, hytteområder og badeplasser,
+- lokaler for fysikalsk eller annen helsemessig behandling, for eksempel kontorer for helsepersonell og alternative behandlere,
+- lokaler hvor det tilbys undervisning, for eksempel universiteter, høgskoler, kjøreskoler,
+- produksjonsbedrifter, for eksempel fabrikker,
+- renovasjonsvirksomheter,
+- serveringssteder,
+- servicebedrifter, for eksempel bensinstasjoner og verksteder,
+- skytebaner,
+- husdyrhold i tettbygd strøk,
+- transportmidler, veier og transportanlegg, for eksempel T-baner, flyplasser, havner, laste- og transportterminaler, parkeringsplasser,
+- utslipp fra hytter, boliger, fritidsbebyggelse, campingvogner og lignende
+- virksomheter som har kjøletårn eller lignende innretning.
 
 Etter første ledd annet punktum skal forskriften ikke omfatte miljømessige forhold i boliger, leiligheter og fritidseiendommer, med mindre det foreligger forhold som virker inn på omgivelsene utenfor boligen, leiligheten eller fritidseiendommen. Miljømessige forhold som oppstår i boligen og som kun har innvirkning på beboerene, skal altså ikke omfattes av forskriften. Dette innebærer at forskriften [§ 10](forskrift/2003-04-25-486/§10) i utgangspunktet ikke gjelder boliger og beboelsesleiligheter, og det uten hensyn til om boligen er selveiet eller om det er en utleiebolig (husleieforhold). Hvordan en vil innrette seg i egen bolig/eget hjem, vil i stor grad være et privat spørsmål som bør være opp til den enkelte. For eksempel vil spørsmål om blant annet røyking, lufting og sosiale miljøfaktorer i egen bolig ikke være forhold denne forskriften skal regulere. Man kan altså si at forskriften «stopper ved dørterskelen».
 
 Formuleringen i [§ 2](forskrift/2003-04-25-486/§2) første ledd annet punktum ikke er til hinder for at kommunen kan føre tilsyn med forhold ved utleieboliger som sådan. Helsemessige forhold i boliger er en del av miljørettet helsevern, og har vært en del av virkeområdet for miljørettet helsevern etter sunnhetsloven, kommunehelsetjenesteloven og nå [folkehelseloven § 8](lov/2011-06-24-29/§8). Forskrift om miljørettet helsevern regulerer nærmere lovens bestemmelser, men kan ikke innskrenke loven.
 
-Helserisiko og hygienisk ulempe i en utleiebolig kan skyldes for eksempel:bygningsmessige forhold, eventuelt i kombinasjon med utleieboligens beliggenhet og grunnforhold (for eksempel fukt- eller radonproblemer)utleiers handlinger eller unnlatelser (for eksempel manglende utbedring eller vedlikehold)måten leietaker innretter seg på i utleieboligen.
+Helserisiko og hygienisk ulempe i en utleiebolig kan skyldes for eksempel:
+
+1. bygningsmessige forhold, eventuelt i kombinasjon med utleieboligens beliggenhet og grunnforhold (for eksempel fukt- eller radonproblemer)
+2. utleiers handlinger eller unnlatelser (for eksempel manglende utbedring eller vedlikehold)
+3. måten leietaker innretter seg på i utleieboligen.
 
 Det faller i all hovedsak innenfor den enkeltes personlige handlefrihet å velge hvordan man vil innrette seg i eget hjem, med hensyn til blant annet inneklima, teppegulv, renhold, sosiale miljøfaktorer mv. Her bør kommunen være tilbakeholden med å føre tilsyn. Når det gjelder forhold ved boligen som leietaker i liten grad kan påvirke, kan og bør kommunen føre tilsyn på vanlig måte. Unntaksbestemmelsen i [§ 2](forskrift/2003-04-25-486/§2) vil således ikke gjelde for eksemplene (a) og (b) over.
 
@@ -298,7 +359,12 @@ Bestemmelsen fastslår kommunens ansvar for å fremme folkehelse og bidra til å
 
 Kommunen skal føre tilsyn med virksomhet og eiendom som omfattes av denne forskriften og deres etterlevelse av regelverket. Kommunen skal påse at virksomhet som skal føre internkontroll, fører denne kontrollen med sin egen virksomhet på en slik måte at regelverket etterleves. Det presiseres at kommunens tilsynsoppgave også omfatter kommunale virksomheter. Kravet om at kommunen skal prioritere sin tilsynsvirksomhet etter en vurdering av helserisiko innebærer at kommunens gjennomføring av tilsyn må ses helhetlig og baseres på helhetlige ROS-analyser.
 
-Kommunens tilsynsplikt innebærer blant annet at kommunen skal:ha oversikt over hvilke virksomheter dette dreier seg om,påse at virksomhetene er orientert om hvilke krav som er rettet mot dem,gjennomføre tilsyn med virksomheter etter fastsatt plan, ogfølge opp at virksomheten lukker sine avvik etter en fastsatt tid.
+Kommunens tilsynsplikt innebærer blant annet at kommunen skal:
+
+- ha oversikt over hvilke virksomheter dette dreier seg om,
+- påse at virksomhetene er orientert om hvilke krav som er rettet mot dem,
+- gjennomføre tilsyn med virksomheter etter fastsatt plan, og
+- følge opp at virksomheten lukker sine avvik etter en fastsatt tid.
 
 Det følger av [folkehelseloven § 30](lov/2011-06-24-29/§30) at kommunen skal føre internkontroll for å sikre at de krav som er lagt til kommunen etter folkehelseloven med forskrifter overholdes. Etter [folkehelseloven § 30](lov/2011-06-24-29/§30) annet ledd skal kommunen dokumentere særskilt hvordan tilsynsoppgaven ivaretas. Kommunen fører innen miljørettet helsevern blant annet tilsyn med virksomheter som er kommunale. Det forsterkede dokumentasjonskravet innebærer at kommunen skal dokumentere blant annet hvem som skal ivareta oppgavene innen miljørettet helsevern, og at disse er gitt nødvendige forutsetninger for å kunne utføre oppgavene, herunder myndighet, kapasitet og kompetanse. Det er her særlig viktig å sikre at det kommunale tilsynsorganet er tilstrekkelig uavhengig i forhold til de kommunale virksomhetene som det føres tilsyn med.
 
@@ -340,7 +406,29 @@ Bestemmelsen i [§ 5](forskrift/2003-04-25-486/§5) andre ledd andre punktum gir
 
 Ved eksponering for helseskadelige miljøfaktorer skal Folkehelseinstituttet bistå andre aktører for å sikre beskyttelse av befolkningens helse. [Folkehelseloven § 25](lov/2011-06-24-29/§25) fastsetter at Folkehelseinstituttets ansvar omfatter å overvåke utvikling av folkehelsen, utarbeide oversikt over befolkningens helsetilstand og faktorer som påvirker denne, samt utføre helseanalyser og drive forskning, og at Folkehelseinstituttet i forbindelse med eksponering for helseskadelige miljøfaktorer skal bistå kommuner, fylkeskommuner, fylkesmenn og andre statlige institusjoner, helsepersonell og befolkningen for å sikre beskyttelse av befolkningens helse. Folkehelseinstituttets bistandsplikt innebærer rådgivning og veiledning innenfor alle typer helsetrusler, men det er kommunene som har ansvaret for håndteringen av en eventuell hendelse. Folkehelseinstituttet kan bistå med prøvetaking av biologiske agens og har spesialkompetanser innen analyser av miljøgifter i humant biologisk materiale (blod, urin, hår etc). Folkehelseinstituttet har ikke kompetanse til prøvetaking av miljøprøver. Påvisning av ukjente stoffer og kjemikalier krever spesialkompetanse, egnede måleinstrumenter, prosedyrer og trening, og identifisering ved hendelser med ukjente stoffer vil i de fleste tilfeller måtte foretas av andre kompetansemiljøer enn Folkehelseinstituttet, for eksempel Forsvarets forskningsinstitutt eller større kommuners brann- og redningsvesen. Folkehelseinstituttet kan gi råd om hvilke prøver som bør tas, hvor de kan sendes, og hvordan miljøprøver skal tas for være mest mulig relevante til vurdering av helserisiko. Der det er kjent hvilket stoff det er tale om vil Folkehelseinstituttet kunne bidra med risikovurderinger og råd og veiledning for kartlegging og håndtering.
 
-Hva som er relevant kompetansemiljø vil variere med typen hendelse som oppstår. I sin beredskapsplanlegging bør kommunene vurdere hvilke miljøer som kan være relevante avhengig av hvilke mulige helsetrusler kommunen står overfor og hvilke regionale miljøer som er. Relevante miljøer kan eksempelvis være (ikke uttømmende liste):CBRNE-senteretDe arbeids- og miljømedisinske avdelingene ved de regionale helseforetakeneDe regionale arbeids- og miljømedisinske sykehusavdelingerDirektoratet for samfunnssikkerhet og beredskap (DSB)FolkehelseinstituttetForsvaretForsvaret sanitetForsvarets forskningsinstitutt (FFI)Giftinformasjonen ved FolkehelseinstituttetHelsedirektoratetHelseforetakeneKystverketMattilsynetMeteorologisk instituttMiljødirektoratetSjøfartsdirektoratetStatens arbeidsmiljøinstitutt (STAMI)Direktoratet for strålevern og atomsikkerhetSykehusenes medisinske fysikereØvrige fagmiljøer ved høgskoler, universiteter og forskningsinstitutterØvrige kommuner eller interkommunale samarbeid.
+Hva som er relevant kompetansemiljø vil variere med typen hendelse som oppstår. I sin beredskapsplanlegging bør kommunene vurdere hvilke miljøer som kan være relevante avhengig av hvilke mulige helsetrusler kommunen står overfor og hvilke regionale miljøer som er. Relevante miljøer kan eksempelvis være (ikke uttømmende liste):
+
+- CBRNE-senteret
+- De arbeids- og miljømedisinske avdelingene ved de regionale helseforetakene
+- De regionale arbeids- og miljømedisinske sykehusavdelinger
+- Direktoratet for samfunnssikkerhet og beredskap (DSB)
+- Folkehelseinstituttet
+- Forsvaret
+- Forsvaret sanitet
+- Forsvarets forskningsinstitutt (FFI)
+- Giftinformasjonen ved Folkehelseinstituttet
+- Helsedirektoratet
+- Helseforetakene
+- Kystverket
+- Mattilsynet
+- Meteorologisk institutt
+- Miljødirektoratet
+- Sjøfartsdirektoratet
+- Statens arbeidsmiljøinstitutt (STAMI)
+- Direktoratet for strålevern og atomsikkerhet
+- Sykehusenes medisinske fysikere
+- Øvrige fagmiljøer ved høgskoler, universiteter og forskningsinstitutter
+- Øvrige kommuner eller interkommunale samarbeid.
 
 > Endret ved [forskrifter 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [21 april 2017 nr. 482](forskrift/2017-04-21-482), [15 sep 2017 nr. 1396](forskrift/2017-09-15-1396), [20 des 2018 nr. 2193](forskrift/2018-12-20-2193) (i kraft 1 jan 2019).
 
@@ -538,7 +626,11 @@ Femte strekpunkt bestemmer av utslipp av avløpsvann skal meldes til kommunen. B
 
 I tillegg til meldepliktene som følger av forskriften [§ 14](forskrift/2003-04-25-486/§14) er det meldeplikt for virksomheter med kjøletårn og luftskrubbere som følger av denne forskriften [§ 11c](forskrift/2003-04-25-486/§11c). For slike innretninger er meldeplikten supplert med krav om å innhente vurdering fra akkreditert inspeksjonsorgan for legionellautsatte installasjoner. Også andre forskrifter innen miljørettet helsevern gir melde- eller godkjenningsplikter.
 
-Det fremgår ikke av ordlyden i forskriftsbestemmelsen hva meldingen skal inneholde. Departementet legger til grunn at en melding til kommunen skal inneholde en kortfattet oversikt over positive og negative miljøforhold ved virksomheten som direkte eller indirekte kan ha innvirkning på helsen, og i nødvendig utstrekning omfatte:aktuelle miljøfaktorer og årsakene til deres opptreden,vurdering av miljøfaktorenes helseeffekter, herunder risiko for negativ helsepåvirkning, jf. også føre-var-prinsippet, ogvurdering av mulige forebyggende og avbøtende tiltak.
+Det fremgår ikke av ordlyden i forskriftsbestemmelsen hva meldingen skal inneholde. Departementet legger til grunn at en melding til kommunen skal inneholde en kortfattet oversikt over positive og negative miljøforhold ved virksomheten som direkte eller indirekte kan ha innvirkning på helsen, og i nødvendig utstrekning omfatte:
+
+- aktuelle miljøfaktorer og årsakene til deres opptreden,
+- vurdering av miljøfaktorenes helseeffekter, herunder risiko for negativ helsepåvirkning, jf. også føre-var-prinsippet, og
+- vurdering av mulige forebyggende og avbøtende tiltak.
 
 Kommunen bør underrette den som sender meldingen om at den er mottatt. Selv om hensikten med en slik melding først og fremst vil være å gi kommunen den ønskede oversikt over et forhold, kan den også gi grunnlag for å kreve en nærmere vurdering og krav om retting/endring før oppstart av virksomheten, jf. nedenfor.
 

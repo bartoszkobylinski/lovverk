@@ -15,7 +15,7 @@ xml_hash: "059565adbc4be6cf95a41c069f687759ee65e8629bea4bb7d0958d1d7a4f7730"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0073"
@@ -41,7 +41,22 @@ Loven skal sikre at naturgassvirksomhet foregår på en samfunnsmessig rasjonell
 
 ## § 3. Definisjoner
 
-I denne loven forstås mednaturgassforetak: enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner som omfattes av [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 23 (direktiv [2009/73/EF](eu/32009l0073)): produksjon, transmisjon, distribusjon, forsyning, innkjøp eller lagring av naturgass, også nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige eller tekniske oppgavene eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder.transmisjon: transport av naturgass gjennom et høytrykksrørledningsnett med sikte på levering til kunder. Transport gjennom et oppstrøms gassrørledningsnett eller et høytrykksrørledningsnett som hovedsakelig anvendes i forbindelse med lokal distribusjon av naturgass, omfattes ikke.distribusjon: transport av naturgass gjennom lokale eller regionale gassrørledningsnett med sikte på levering til kunder.forsyning: levering eller salg av naturgass, også LNG, til kunder.kunder: naturgassforetak som kjøper naturgass, grossister eller sluttkunder av naturgass.system: ethvert transmisjons- eller distribusjonsnett, LNG-anlegg eller lageranlegg som eies eller drives av et naturgassforetak, lagring i rørledning og foretakets anlegg som yter tilknyttede tjenester, samt tilknyttede foretaks anlegg som er nødvendige for å gi adgang til transmisjon, distribusjon og LNG.LNG-anlegg: en terminal som brukes til omdanning av naturgass til væske eller import, lossing og regassifisering av LNG og som omfattes av [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 23 (direktiv [2009/73/EF](eu/32009l0073)), også tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringen og den påfølgende leveringen til transmisjonsnettet. De delene av et LNG-anlegg som brukes til lagring, omfattes ikke.lageranlegg: et anlegg som brukes til lagring av naturgass, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)) og eies eller drives av et naturgassforetak. De delene av et LNG-anlegg som brukes til lagring, omfattes også.vertikalt integrert foretak: et foretak eller en gruppe av foretak som driver produksjon eller forsyning av naturgass i tillegg til virksomhet knyttet til transmisjon, distribusjon, LNG-anlegg eller lageranlegg for naturgass. En gruppe av foretak omfattes dersom en fysisk eller juridisk person kan utøve direkte eller indirekte kontroll med foretakene i gruppen.kontroll i [§§ 7](lov/2002-06-28-61/§7), [8](lov/2002-06-28-61/§8) og 9: rettigheter, avtaler eller andre midler som enkeltvis eller sammen gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av demrettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.rettigheter: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
+I denne loven forstås med
+
+1. naturgassforetak: enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner som omfattes av [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 23 (direktiv [2009/73/EF](eu/32009l0073)): produksjon, transmisjon, distribusjon, forsyning, innkjøp eller lagring av naturgass, også nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige eller tekniske oppgavene eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder.
+2. transmisjon: transport av naturgass gjennom et høytrykksrørledningsnett med sikte på levering til kunder. Transport gjennom et oppstrøms gassrørledningsnett eller et høytrykksrørledningsnett som hovedsakelig anvendes i forbindelse med lokal distribusjon av naturgass, omfattes ikke.
+3. distribusjon: transport av naturgass gjennom lokale eller regionale gassrørledningsnett med sikte på levering til kunder.
+4. forsyning: levering eller salg av naturgass, også LNG, til kunder.
+5. kunder: naturgassforetak som kjøper naturgass, grossister eller sluttkunder av naturgass.
+6. system: ethvert transmisjons- eller distribusjonsnett, LNG-anlegg eller lageranlegg som eies eller drives av et naturgassforetak, lagring i rørledning og foretakets anlegg som yter tilknyttede tjenester, samt tilknyttede foretaks anlegg som er nødvendige for å gi adgang til transmisjon, distribusjon og LNG.
+7. LNG-anlegg: en terminal som brukes til omdanning av naturgass til væske eller import, lossing og regassifisering av LNG og som omfattes av [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 23 (direktiv [2009/73/EF](eu/32009l0073)), også tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringen og den påfølgende leveringen til transmisjonsnettet. De delene av et LNG-anlegg som brukes til lagring, omfattes ikke.
+8. lageranlegg: et anlegg som brukes til lagring av naturgass, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](eu/32009l0073)) og eies eller drives av et naturgassforetak. De delene av et LNG-anlegg som brukes til lagring, omfattes også.
+9. vertikalt integrert foretak: et foretak eller en gruppe av foretak som driver produksjon eller forsyning av naturgass i tillegg til virksomhet knyttet til transmisjon, distribusjon, LNG-anlegg eller lageranlegg for naturgass. En gruppe av foretak omfattes dersom en fysisk eller juridisk person kan utøve direkte eller indirekte kontroll med foretakene i gruppen.
+10. kontroll i [§§ 7](lov/2002-06-28-61/§7), [8](lov/2002-06-28-61/§8) og 9: rettigheter, avtaler eller andre midler som enkeltvis eller sammen gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:
+
+    1. eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem
+    2. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+11. rettigheter: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
 
 > Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 2.
 
@@ -67,11 +82,17 @@ Departementet kan i enkeltvedtak utpeke transmisjons-, distribusjons-, lager- og
 
 Departementet kan gi forskrift om adgang for naturgassforetak og kunder til systemer for naturgass på objektive og ikke-diskriminerende vilkår. Departementet kan gi forskrift om plikt for systemoperatører til å søke reguleringsmyndigheten om forhåndsgodkjenning av forhold som nevnt i annet og fjerde ledd.
 
-Reguleringsmyndigheten skal i enkeltvedtakfastsette eller godkjenne tariffer og øvrige vilkår for adgang etter første ledd til distribusjonsnett, transmisjonsnett og LNG-anlegg, ellerfastsette eller godkjenne metoder for å fastsette tariffer og øvrige vilkår for adgang etter første ledd til distribusjonsnett, transmisjonsnett og LNG-anlegg.
+Reguleringsmyndigheten skal i enkeltvedtak
+
+1. fastsette eller godkjenne tariffer og øvrige vilkår for adgang etter første ledd til distribusjonsnett, transmisjonsnett og LNG-anlegg, eller
+2. fastsette eller godkjenne metoder for å fastsette tariffer og øvrige vilkår for adgang etter første ledd til distribusjonsnett, transmisjonsnett og LNG-anlegg.
 
 Departementet kan gi forskrift om reguleringsmyndighetens kontroll av vilkårene for adgang til lageranlegg og lagring i rørledning.
 
-Når en distribusjons- eller transmisjonssystemoperatør tilbyr balansetjenester, skal disse være basert på objektive vilkår og utføres på en ikke-diskriminerende måte mellom systembrukere. Reguleringsmyndigheten skal i enkeltvedtakfastsette eller godkjenne vilkår for balansetjenester, ellerfastsette eller godkjenne metoder for å fastsette vilkår for balansetjenester.
+Når en distribusjons- eller transmisjonssystemoperatør tilbyr balansetjenester, skal disse være basert på objektive vilkår og utføres på en ikke-diskriminerende måte mellom systembrukere. Reguleringsmyndigheten skal i enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for balansetjenester, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår for balansetjenester.
 
 > Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 3.
 

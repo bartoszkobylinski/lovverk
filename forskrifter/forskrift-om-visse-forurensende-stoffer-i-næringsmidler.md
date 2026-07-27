@@ -15,7 +15,7 @@ xml_hash: "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,17 @@ EØS-avtalen vedlegg II kap. XII nr. 54f (forordning [(EØF) nr. 315/93](eu/3199
 
 ## § 3. Gjennomføring av forordningen om grenseverdier for visse forurensende stoffer i næringsmidler
 
-Forordning [(EU) 2023/915](eu/32023r0915) om grenseverdier for visse forurensende stoffer i næringsmidler, som inntatt i [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/1510](eu/32023r1510)forordning [(EU) 2024/1002](eu/32024r1002)forordning [(EU) 2024/1003](eu/32024r1003)forordning [(EU) 2024/1022](eu/32024r1022)forordning [(EU) 2024/1038](eu/32024r1038)forordning [(EU) 2024/1756](eu/32024r1756)forordning [(EU) 2024/1808](eu/32024r1808)forordning [(EU) 2024/1987](eu/32024r1987)forordning [(EU) 2025/1891](eu/32025r1891).
+Forordning [(EU) 2023/915](eu/32023r0915) om grenseverdier for visse forurensende stoffer i næringsmidler, som inntatt i [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2023/1510](eu/32023r1510)
+- forordning [(EU) 2024/1002](eu/32024r1002)
+- forordning [(EU) 2024/1003](eu/32024r1003)
+- forordning [(EU) 2024/1022](eu/32024r1022)
+- forordning [(EU) 2024/1038](eu/32024r1038)
+- forordning [(EU) 2024/1756](eu/32024r1756)
+- forordning [(EU) 2024/1808](eu/32024r1808)
+- forordning [(EU) 2024/1987](eu/32024r1987)
+- forordning [(EU) 2025/1891](eu/32025r1891).
 
 > Endret ved forskrifter [2 mai 2016 nr. 469](forskrift/2016-05-02-469), [6 juni 2016 nr. 602](forskrift/2016-06-06-602), [11 juli 2016 nr. 912](forskrift/2016-07-11-912), [5 des 2016 nr. 1447](forskrift/2016-12-05-1447), [6 feb 2017 nr. 132](forskrift/2017-02-06-132), [10 juli 2017 nr. 1177](forskrift/2017-07-10-1177), [25 sep 2017 nr. 1525](forskrift/2017-09-25-1525), [9 juli 2018 nr. 1164](forskrift/2018-07-09-1164), [4 mai 2020 nr. 917](forskrift/2020-05-04-917), [4 mai 2020 nr. 918](forskrift/2020-05-04-918), [14 des 2020 nr. 2783](forskrift/2020-12-14-2783), [22 mars 2021 nr. 943](forskrift/2021-03-22-943), [22 mars 2021 nr. 942](forskrift/2021-03-22-942), [13 des 2021 nr. 3651](forskrift/2021-12-13-3651), [21 mars 2022 nr. 477](forskrift/2022-03-21-477), [2 mai 2022 nr. 823](forskrift/2022-05-02-823), [26 sep 2022 nr. 1645](forskrift/2022-09-26-1645), [28 april 2023 nr. 651](forskrift/2023-04-28-651), [25 sep 2023 nr. 1499](forskrift/2023-09-25-1499), [13 feb 2026 nr. 258](forskrift/2026-02-13-258).
 
@@ -76,7 +86,10 @@ Overtredelse av bestemmelser gitt i denne forskriften, eller av enkeltvedtak som
 
 Denne forskriften trer i kraft straks.
 
-Samtidig oppheves:[forskrift 27. september 2002 nr. 1028](forskrift/2002-09-27-1028) om visse forurensende stoffer i næringsmidler[forskrift 26. mai 2000 nr. 550](forskrift/2000-05-26-550) om omsetningsforbud for sopp med høyt innhold av radioaktivt cesium.
+Samtidig oppheves:
+
+1. [forskrift 27. september 2002 nr. 1028](forskrift/2002-09-27-1028) om visse forurensende stoffer i næringsmidler
+2. [forskrift 26. mai 2000 nr. 550](forskrift/2000-05-26-550) om omsetningsforbud for sopp med høyt innhold av radioaktivt cesium.
 
 Samtidig gjøres følgende endringer i [forskrift 22. desember 2008 nr. 1622](forskrift/2008-12-22-1622) om særlige regler for gjennomføring av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum (animaliekontrollforskriften): ---
 
@@ -152,9 +165,19 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Definisjoner
 
-I denne forordningen menes med«næringsmidler» næringsmidler som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)6,«driftsansvarlig for næringsmiddelforetak» en driftsansvarlig for et næringsmiddelforetak som definert i artikkel 3 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178),«bringe i omsetning» omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),«sluttforbruker» en sluttforbruker som definert i artikkel 3 nr. 18 i forordning [(EF) nr. 178/2002](eu/32002r0178),«foredling» foredling som definert i artikkel 2 nr. 1 bokstav m) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)7,«uforedlede produkter» uforedlede produkter som definert i artikkel 2 nr. 1 bokstav n) i forordning [(EF) nr. 852/2004](eu/32004r0852) og«foredlede produkter» foredlede produkter som definert i artikkel 2 nr. 1 bokstav o) i forordning [(EF) nr. 852/2004](eu/32004r0852),
+I denne forordningen menes med
 
-6 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).7 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
+1. «næringsmidler» næringsmidler som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)6,
+2. «driftsansvarlig for næringsmiddelforetak» en driftsansvarlig for et næringsmiddelforetak som definert i artikkel 3 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+3. «bringe i omsetning» omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+4. «sluttforbruker» en sluttforbruker som definert i artikkel 3 nr. 18 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+5. «foredling» foredling som definert i artikkel 2 nr. 1 bokstav m) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)7,
+6. «uforedlede produkter» uforedlede produkter som definert i artikkel 2 nr. 1 bokstav n) i forordning [(EF) nr. 852/2004](eu/32004r0852) og
+7. «foredlede produkter» foredlede produkter som definert i artikkel 2 nr. 1 bokstav o) i forordning [(EF) nr. 852/2004](eu/32004r0852),
+
+6 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
 
 ### Artikkel 2. Alminnelige bestemmelser
 
@@ -174,9 +197,16 @@ I denne forordningen menes med«næringsmidler» næringsmidler som definert i a
 
 ### Artikkel 3. Tørkede, fortynnede, foredlede og sammensatte næringsmidler
 
-1\. Dersom det i vedlegg I ikke er fastsatt spesifikke grenseverdier på unionsplan for tørkede, fortynnede eller foredlede næringsmidler eller for sammensatte næringsmidler (det vil si som består av mer enn én ingrediens), skal det tas hensyn til det følgende når grenseverdiene fastsatt i vedlegg I brukes på slike næringsmidler:Endringer i konsentrasjonen av det forurensende stoffet på grunn av tørking eller fortynning.Endringer i konsentrasjonen av det forurensende stoffet på grunn av foredling.De forholdsmessige andelene av ingrediensene i produktet.Analysemetodens mengdebestemmelsesgrense.
+1\. Dersom det i vedlegg I ikke er fastsatt spesifikke grenseverdier på unionsplan for tørkede, fortynnede eller foredlede næringsmidler eller for sammensatte næringsmidler (det vil si som består av mer enn én ingrediens), skal det tas hensyn til det følgende når grenseverdiene fastsatt i vedlegg I brukes på slike næringsmidler:
 
-2\. Dersom vedkommende myndighet utfører offentlig kontroll, skal den driftsansvarlige for næringsmiddelforetaket framlegge opplysninger om og begrunne de spesifikke konsentrasjons-, fortynnings- og foredlingsfaktorene for den aktuelle tørkingen, fortynningen eller foredlingen eller de spesifikke konsentrasjons-, fortynnings- eller foredlingsfaktorene for det aktuelle tørkede, fortynnede, foredlede eller sammensatte næringsmiddelet samt andelen av ingredienser for de aktuelle blandingsprosessene.Dersom den driftsansvarlige for næringsmiddelforetaket ikke framlegger nødvendige opplysninger om konsentrasjons-, fortynnings- eller foredlingsfaktoren, eller dersom vedkommende myndighet på bakgrunn av den gitte begrunnelsen anser faktoren som uhensiktsmessig, skal myndigheten selv definere faktoren på grunnlag av tilgjengelige opplysninger og med det mål å sikre best mulig vern av menneskers helse.
+1. Endringer i konsentrasjonen av det forurensende stoffet på grunn av tørking eller fortynning.
+2. Endringer i konsentrasjonen av det forurensende stoffet på grunn av foredling.
+3. De forholdsmessige andelene av ingrediensene i produktet.
+4. Analysemetodens mengdebestemmelsesgrense.
+
+2\. Dersom vedkommende myndighet utfører offentlig kontroll, skal den driftsansvarlige for næringsmiddelforetaket framlegge opplysninger om og begrunne de spesifikke konsentrasjons-, fortynnings- og foredlingsfaktorene for den aktuelle tørkingen, fortynningen eller foredlingen eller de spesifikke konsentrasjons-, fortynnings- eller foredlingsfaktorene for det aktuelle tørkede, fortynnede, foredlede eller sammensatte næringsmiddelet samt andelen av ingredienser for de aktuelle blandingsprosessene.
+
+Dersom den driftsansvarlige for næringsmiddelforetaket ikke framlegger nødvendige opplysninger om konsentrasjons-, fortynnings- eller foredlingsfaktoren, eller dersom vedkommende myndighet på bakgrunn av den gitte begrunnelsen anser faktoren som uhensiktsmessig, skal myndigheten selv definere faktoren på grunnlag av tilgjengelige opplysninger og med det mål å sikre best mulig vern av menneskers helse.
 
 3\. Dersom det ikke er fastsatt spesifikke grenseverdier på unionsplan for næringsmidler til spedbarn og småbarn i vedlegg I, kan medlemsstatene fastsette strengere grenseverdier for slike næringsmidler.
 
@@ -186,9 +216,15 @@ Næringsmidler som inneholder forurensende stoffer oppført i vedlegg I, skal ik
 
 ### Artikkel 5. Næringsmidler som skal gjennomgå sortering eller annen fysisk behandling før de bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens
 
-1\. Dersom det i vedlegg I er fastsatt en grenseverdi for et forurensende stoff som spesifikt gjelder næringsmidler som skal gjennomgå sortering eller annen fysisk behandling før de bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, kan et slikt næringsmiddel bringes i omsetning, forutsatt atdet ikke bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens,det overholder grenseverdien fastsatt i vedlegg I for det aktuelle forurensende stoffet i det aktuelle næringsmiddelet som skal gjennomgå sortering eller annen fysisk behandling før det bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, ogdet er merket i samsvar med nr. 2.
+1\. Dersom det i vedlegg I er fastsatt en grenseverdi for et forurensende stoff som spesifikt gjelder næringsmidler som skal gjennomgå sortering eller annen fysisk behandling før de bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, kan et slikt næringsmiddel bringes i omsetning, forutsatt at
 
-2\. Merkingen på hver enkelt pakning og det opprinnelige følgedokumentet for næringsmiddelet nevnt i nr. 1 bokstav c) skal tydelig angi næringsmiddelets bruk og inneholde følgende angivelse: «Produktet skal gjennomgå sortering eller annen fysisk behandling for å redusere innholdet av [navn på forurensende stoff/stoffer] før det bringes i omsetning til sluttforbrukeren eller til bruk som næringsmiddelingrediens.»Det opprinnelige følgedokumentet og hver enkelt pakning i forsendelsen skal være merket med forsendelsens/partiets identifikasjonskode, og denne merkingen skal ikke kunne slettes.
+1. det ikke bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens,
+2. det overholder grenseverdien fastsatt i vedlegg I for det aktuelle forurensende stoffet i det aktuelle næringsmiddelet som skal gjennomgå sortering eller annen fysisk behandling før det bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, og
+3. det er merket i samsvar med nr. 2.
+
+2\. Merkingen på hver enkelt pakning og det opprinnelige følgedokumentet for næringsmiddelet nevnt i nr. 1 bokstav c) skal tydelig angi næringsmiddelets bruk og inneholde følgende angivelse: «Produktet skal gjennomgå sortering eller annen fysisk behandling for å redusere innholdet av [navn på forurensende stoff/stoffer] før det bringes i omsetning til sluttforbrukeren eller til bruk som næringsmiddelingrediens.»
+
+Det opprinnelige følgedokumentet og hver enkelt pakning i forsendelsen skal være merket med forsendelsens/partiets identifikasjonskode, og denne merkingen skal ikke kunne slettes.
 
 3\. Næringsmidler som skal gjennomgå sortering eller annen fysisk behandling for å redusere innholdet av forurensende stoffer, skal før dette ikke blandes med næringsmidler som bringes i omsetning til sluttforbrukere, eller med næringsmidler som er beregnet på bruk som næringsmiddelingrediens.
 
@@ -196,19 +232,39 @@ Næringsmidler som inneholder forurensende stoffer oppført i vedlegg I, skal ik
 
 ### Artikkel 6. Bestemmelser om merking for jordnøtter, andre oljeholdige frø, avledede produkter av dette og korn
 
-1\. Merkingen på hver enkelt pakning og det opprinnelige følgedokumentet for jordnøtter (peanøtter), andre oljeholdige frø, avledede produkter av dette og korn skal tydelig angi den tiltenkte bruken.Det opprinnelige følgedokumentet og hver enkelt pakning i forsendelsen skal være merket med forsendelsens/partiets identifikasjonskode, og denne merkingen skal ikke kunne slettes. Forretningsvirksomheten til mottakeren av forsendelsen som oppgis i følgedokumentet, skal være forenlig med den tiltenkte bruken.
+1\. Merkingen på hver enkelt pakning og det opprinnelige følgedokumentet for jordnøtter (peanøtter), andre oljeholdige frø, avledede produkter av dette og korn skal tydelig angi den tiltenkte bruken.
+
+Det opprinnelige følgedokumentet og hver enkelt pakning i forsendelsen skal være merket med forsendelsens/partiets identifikasjonskode, og denne merkingen skal ikke kunne slettes. Forretningsvirksomheten til mottakeren av forsendelsen som oppgis i følgedokumentet, skal være forenlig med den tiltenkte bruken.
 
 2\. Dersom det ikke er tydelig angitt at tiltenkt bruk ikke er å bli brakt i omsetning som næringsmiddel, gjelder grenseverdiene i vedlegg I for alle jordnøtter (peanøtter), andre oljeholdige frø og avledede produkter av dette og korn som bringes i omsetning.
 
-3\. Unntaket for jordnøtter (peanøtter) og andre oljeholdige frø som skal knuses, fra anvendelsen av grenseverdiene i vedlegg I gjelder bare for forsendelser somer tydelig merket, slik at den tiltenkte bruken framgår,i merkingen av hver enkelt pakning og i det opprinnelige følgedokumentet inneholder en angivelse om at produktet skal knuses med sikte på framstilling av raffinert vegetabilsk olje, oghar et knusingsanlegg som endelig bestemmelsessted.
+3\. Unntaket for jordnøtter (peanøtter) og andre oljeholdige frø som skal knuses, fra anvendelsen av grenseverdiene i vedlegg I gjelder bare for forsendelser som
+
+1. er tydelig merket, slik at den tiltenkte bruken framgår,
+2. i merkingen av hver enkelt pakning og i det opprinnelige følgedokumentet inneholder en angivelse om at produktet skal knuses med sikte på framstilling av raffinert vegetabilsk olje, og
+3. har et knusingsanlegg som endelig bestemmelsessted.
 
 ### Artikkel 7. Unntak fra artikkel 2
 
-1\. Som unntak fra artikkel 2 kan Latvia, Finland og Sverige, innenfor sin årlige kvote som fastsatt i europaparlaments- og rådsforordning [(EU) nr. 1380/2013](eu/32013r1380)8, tillate at villfanget laks (*Salmo salar*) og produkter av dette med opprinnelse i Baltikum med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning til sluttforbrukere på de respektive markedene, forutsatt atdet for å unngå potensielle helserisikoer er innført en ordning for å sikre at sluttforbrukerne er fullt ut informert om de nasjonale kostanbefalingene som gjelder begrensningene for spesifikke sårbare befolkningsgruppers inntak av villfanget laks fra Baltikum og produkter av dette,Latvia, Finland og Sverige fortsetter å anvende de tiltakene som er nødvendige for å sikre at villfanget laks og produkter av dette som ikke oppfyller kravene i nr. 4.1.5 i vedlegg I, ikke markedsføres i andre medlemsstater,Latvia, Finland og Sverige rapporterer årlig til Kommisjonen om tiltakene de har truffet for effektivt å informere sluttforbrukerne om kostanbefalingene, og for å sikre at villfanget laks og produkter av dette som ikke overholder grenseverdiene, ikke markedsføres i andre medlemsstater, samt dokumenterer hvor effektive disse tiltakene er.
+1\. Som unntak fra artikkel 2 kan Latvia, Finland og Sverige, innenfor sin årlige kvote som fastsatt i europaparlaments- og rådsforordning [(EU) nr. 1380/2013](eu/32013r1380)8, tillate at villfanget laks (*Salmo salar*) og produkter av dette med opprinnelse i Baltikum med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning til sluttforbrukere på de respektive markedene, forutsatt at
 
-2\. Som unntak fra artikkel 2 kan Finland og Sverige, innenfor sin årlige kvote som fastsatt i forordning [(EU) nr. 1380/2013](eu/32013r1380), tillate at villfanget østersjøsild større enn 17 cm (*Clupea harengus membras*), villfanget røyefisk (*Salvelinus* spp.), villfanget elveniøye (*Lampetra fluviatilis*) og villfanget ørret (*Salmo trutta*) og produkter av dette med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning på de respektive markedene, forutsatt atdet for å unngå potensielle helserisikoer er innført en ordning for å sikre at sluttforbrukerne er fullt ut informert om kostanbefalingene med hensyn til begrensningene som gjelder for spesifikke sårbare befolkningsgruppers inntak av villfanget østersjøsild større enn 17 cm, villfanget røyefisk, villfanget elveniøye og villfanget ørret fra Baltikum og produkter av dette,Finland og Sverige fortsetter å anvende tiltakene som er nødvendige for å sikre at villfanget østersjøsild større enn 17 cm, villfanget røyefisk, villfanget elveniøye og villfanget ørret og produkter av dette som ikke oppfyller kravene i nr. 4.1.5 i vedlegg I, ikke markedsføres i andre medlemsstater,Finland og Sverige rapporterer årlig til Kommisjonen om tiltakene de har truffet for effektivt å informere de spesifikke sårbare befolkningsgruppene om kostanbefalingene og sikre at fisk og produkter av fisk som ikke overholder grenseverdiene, ikke markedsføres i andre medlemsstater, samt dokumenterer hvor effektive disse tiltakene er.
+1. det for å unngå potensielle helserisikoer er innført en ordning for å sikre at sluttforbrukerne er fullt ut informert om de nasjonale kostanbefalingene som gjelder begrensningene for spesifikke sårbare befolkningsgruppers inntak av villfanget laks fra Baltikum og produkter av dette,
+2. Latvia, Finland og Sverige fortsetter å anvende de tiltakene som er nødvendige for å sikre at villfanget laks og produkter av dette som ikke oppfyller kravene i nr. 4.1.5 i vedlegg I, ikke markedsføres i andre medlemsstater,
+3. Latvia, Finland og Sverige rapporterer årlig til Kommisjonen om tiltakene de har truffet for effektivt å informere sluttforbrukerne om kostanbefalingene, og for å sikre at villfanget laks og produkter av dette som ikke overholder grenseverdiene, ikke markedsføres i andre medlemsstater, samt dokumenterer hvor effektive disse tiltakene er.
 
-3\. Som unntak fra artikkel 2 kan følgende medlemsstater tillate at følgende typer tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter som er røykt på deres territorium, og som har et innhold av PAH som er høyere enn det som er fastsatt i nr. 5.1.6 i vedlegg I, bringes i omsetning på deres territorium, forutsatt at disse produktene ikke inneholder mer enn 5,0 μg/kg for benzo(a)pyren og 30,0 μg/kg for summen av benzo(a)pyren, benz(a)antracen, benzo(b)fluoranten og krysen:Irland, Kroatia, Kypros, Spania, Polen og Portugal: tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter.Latvia: tradisjonelt røykt svinekjøtt, varmrøykt kyllingkjøtt, varmrøykte pølser og varmrøykt viltkjøtt.Slovakia: saltet tradisjonelt røykt kjøtt, tradisjonelt røykt bacon, tradisjonelt røykt pølse (klobása), der «tradisjonelt røykt» innebærer at røyken frambringes ved brenning av tre (ved, sagspon, treflis) i et røykehus.Finland: tradisjonelt varmrøykt kjøtt og tradisjonelt varmrøykte kjøttprodukter.Sverige: kjøtt og kjøttprodukter som er røykt over glødende tre eller andre plantematerialer.
+2\. Som unntak fra artikkel 2 kan Finland og Sverige, innenfor sin årlige kvote som fastsatt i forordning [(EU) nr. 1380/2013](eu/32013r1380), tillate at villfanget østersjøsild større enn 17 cm (*Clupea harengus membras*), villfanget røyefisk (*Salvelinus* spp.), villfanget elveniøye (*Lampetra fluviatilis*) og villfanget ørret (*Salmo trutta*) og produkter av dette med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning på de respektive markedene, forutsatt at
+
+1. det for å unngå potensielle helserisikoer er innført en ordning for å sikre at sluttforbrukerne er fullt ut informert om kostanbefalingene med hensyn til begrensningene som gjelder for spesifikke sårbare befolkningsgruppers inntak av villfanget østersjøsild større enn 17 cm, villfanget røyefisk, villfanget elveniøye og villfanget ørret fra Baltikum og produkter av dette,
+2. Finland og Sverige fortsetter å anvende tiltakene som er nødvendige for å sikre at villfanget østersjøsild større enn 17 cm, villfanget røyefisk, villfanget elveniøye og villfanget ørret og produkter av dette som ikke oppfyller kravene i nr. 4.1.5 i vedlegg I, ikke markedsføres i andre medlemsstater,
+3. Finland og Sverige rapporterer årlig til Kommisjonen om tiltakene de har truffet for effektivt å informere de spesifikke sårbare befolkningsgruppene om kostanbefalingene og sikre at fisk og produkter av fisk som ikke overholder grenseverdiene, ikke markedsføres i andre medlemsstater, samt dokumenterer hvor effektive disse tiltakene er.
+
+3\. Som unntak fra artikkel 2 kan følgende medlemsstater tillate at følgende typer tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter som er røykt på deres territorium, og som har et innhold av PAH som er høyere enn det som er fastsatt i nr. 5.1.6 i vedlegg I, bringes i omsetning på deres territorium, forutsatt at disse produktene ikke inneholder mer enn 5,0 μg/kg for benzo(a)pyren og 30,0 μg/kg for summen av benzo(a)pyren, benz(a)antracen, benzo(b)fluoranten og krysen:
+
+1. Irland, Kroatia, Kypros, Spania, Polen og Portugal: tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter.
+2. Latvia: tradisjonelt røykt svinekjøtt, varmrøykt kyllingkjøtt, varmrøykte pølser og varmrøykt viltkjøtt.
+3. Slovakia: saltet tradisjonelt røykt kjøtt, tradisjonelt røykt bacon, tradisjonelt røykt pølse (klobása), der «tradisjonelt røykt» innebærer at røyken frambringes ved brenning av tre (ved, sagspon, treflis) i et røykehus.
+4. Finland: tradisjonelt varmrøykt kjøtt og tradisjonelt varmrøykte kjøttprodukter.
+5. Sverige: kjøtt og kjøttprodukter som er røykt over glødende tre eller andre plantematerialer.
 
 ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz**
 
@@ -219,7 +275,11 @@ Næringsmidler som inneholder forurensende stoffer oppført i vedlegg I, skal ik
 
 Disse medlemsstatene og berørte driftsansvarlige for næringsmiddelforetak skal fortsette å overvåke forekomsten av PAH i tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter som nevnt i første ledd og sikre at det brukes god røykepraksis der det er mulig, uten at produktene mister sine typiske organoleptiske egenskaper.
 
-4\. Som unntak fra artikkel 2 kan følgende medlemsstater tillate at følgende typer tradisjonelt røykt fisk og tradisjonelt røykte fiskerivarer som er røykt på deres territorium, og som har et innhold av PAH som er høyere enn det som er fastsatt i nr. 5.1.7 i vedlegg I, bringes i omsetning på deres territorium, forutsatt at disse røykte produktene ikke inneholder mer enn 5,0 μg/kg for benzo(a)pyren og 30,0 μg/kg for summen av benzo(a)pyren, benz(a)antracen, benzo(b)fluoranten og krysen:Latvia: tradisjonelt varmrøykt fisk.Finland: tradisjonelt varmrøykt småfisk og fiskerivarer framstilt av småfisk.Sverige: fisk og fiskerivarer som er røykt over glødende tre eller andre plantematerialer.
+4\. Som unntak fra artikkel 2 kan følgende medlemsstater tillate at følgende typer tradisjonelt røykt fisk og tradisjonelt røykte fiskerivarer som er røykt på deres territorium, og som har et innhold av PAH som er høyere enn det som er fastsatt i nr. 5.1.7 i vedlegg I, bringes i omsetning på deres territorium, forutsatt at disse røykte produktene ikke inneholder mer enn 5,0 μg/kg for benzo(a)pyren og 30,0 μg/kg for summen av benzo(a)pyren, benz(a)antracen, benzo(b)fluoranten og krysen:
+
+1. Latvia: tradisjonelt varmrøykt fisk.
+2. Finland: tradisjonelt varmrøykt småfisk og fiskerivarer framstilt av småfisk.
+3. Sverige: fisk og fiskerivarer som er røykt over glødende tre eller andre plantematerialer.
 
 ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XII nr. 54zzzz**
 
@@ -233,7 +293,9 @@ Disse medlemsstatene og berørte driftsansvarlige for næringsmiddelforetak skal
 
 ### Artikkel 8. Overvåking og rapportering
 
-1\. Medlemsstatene og berørte parter skal innen 1. juli 2023 underrette Kommisjonen om resultatene av undersøkelser som er utført og framskritt som er gjort med hensyn til anvendelsen av forebyggende tiltak for å unngå forurensning med meldrøyesklerotier og meldrøyealkaloider i rug og mølleprodukter av rug, og forurensning med meldrøyealkaloider i mølleprodukter av korn fra bygg, hvete, spelt og havre.Medlemsstatene og berørte parter skal hvert år oversende data om forekomst av meldrøyesklerotier og meldrøyealkaloider i rug og mølleprodukter av rug og av meldrøyealkaloider i mølleprodukter av korn fra bygg, hvete, spelt og havre til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).
+1\. Medlemsstatene og berørte parter skal innen 1. juli 2023 underrette Kommisjonen om resultatene av undersøkelser som er utført og framskritt som er gjort med hensyn til anvendelsen av forebyggende tiltak for å unngå forurensning med meldrøyesklerotier og meldrøyealkaloider i rug og mølleprodukter av rug, og forurensning med meldrøyealkaloider i mølleprodukter av korn fra bygg, hvete, spelt og havre.
+
+Medlemsstatene og berørte parter skal hvert år oversende data om forekomst av meldrøyesklerotier og meldrøyealkaloider i rug og mølleprodukter av rug og av meldrøyealkaloider i mølleprodukter av korn fra bygg, hvete, spelt og havre til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).
 
 2\. På anmodning skal medlemsstatene underrette Kommisjonen om hvilke undersøkelser som er gjennomført, og hvilke relevante kilder som er identifisert i samsvar med Kommisjonens anbefalinger om overvåking av forekomsten av forurensende stoffer i næringsmidler, og om hvilke framskritt som er gjort når det gjelder anvendelsen av forebyggende tiltak for å unngå forurensning.
 
@@ -243,7 +305,9 @@ Disse medlemsstatene og berørte driftsansvarlige for næringsmiddelforetak skal
 
 ►**M5**
 
-5\. Medlemsstatene og berørte parter skal innen 1. januar 2028 underrette Kommisjonen om resultatene av undersøkelser som er utført og framskritt som er gjort med hensyn til anvendelsen av forebyggende tiltak for å redusere forurensning fra T-2- og HT-2-toksiner i havre og havreprodukter.Medlemsstatene og berørte parter skal regelmessig rapportere forekomstdata for T-2- og HT-2-toksiner i havre og havreprodukter til myndigheten. ◄**M5**
+5\. Medlemsstatene og berørte parter skal innen 1. januar 2028 underrette Kommisjonen om resultatene av undersøkelser som er utført og framskritt som er gjort med hensyn til anvendelsen av forebyggende tiltak for å redusere forurensning fra T-2- og HT-2-toksiner i havre og havreprodukter.
+
+Medlemsstatene og berørte parter skal regelmessig rapportere forekomstdata for T-2- og HT-2-toksiner i havre og havreprodukter til myndigheten. ◄**M5**
 
 ### Artikkel 9. Oppheving
 
@@ -253,7 +317,19 @@ Henvisninger til den opphevede forordningen skal forstås som henvisninger til d
 
 ### Artikkel 10. Overgangsbestemmelser
 
-1\. ►**M10** Næringsmidler som lovlig er brakt i omsetning før datoene angitt i bokstav a)–q), kan fortsatt omsettes fram til datoen for minste holdbarhet eller siste forbruksdato: ◄**M10**19. september 2021 når det gjelder grenseverdiene for tropanalkaloider i barnemat og foredlede kornbaserte næringsmidler for spedbarn og småbarn som inneholder mais eller avledede produkter av mais fastsatt i nr. 2.2.1 i vedlegg I.1. januar 2022 når det gjelder grenseverdiene for meldrøyesklerotier og meldrøyealkaloider fastsatt i nr. 1.8 i vedlegg I.3. mai 2022 når det gjelder grenseverdiene for kvikksølv fastsatt i nr. 3.3 i vedlegg I.1. juli 2022 når det gjelder grenseverdiene for opiumalkaloider fastsatt i nr. 2.5 i vedlegg I.1. september 2022 når det de gjelder grenseverdiene for tropanalkaloider fastsatt i nr. 2.2.2–2.2.9 i vedlegg I.1. januar 2023 når det gjelder grenseverdiene for okratoksin A fastsatt i nr. 1.2 i vedlegg I.1. januar 2023 når det gjelder grenseverdiene for hydrogencyanid fastsatt i nr. 2.3 i vedlegg I.1. januar 2023 når det gjelder grenseverdiene for summen av Δ9-THC og Δ9-THCA fastsatt i nr. 2.6 i vedlegg I.1. januar 2023 når det gjelder grenseverdiene for summen av dioksiner og for summen av dioksiner og DL-PCB fastsatt i nr. 4.1.1, 4.1.2, 4.1.11 og 4.1.12 i vedlegg I.1. januar 2023 når det gjelder grenseverdiene for summen av perfluoralkylstoffer fastsatt i nr. 4.2 i vedlegg I.26. mars 2023 når det gjelder grenseverdiene for arsen fastsatt i nr. 3.4 i vedlegg I.
+1\. ►**M10** Næringsmidler som lovlig er brakt i omsetning før datoene angitt i bokstav a)–q), kan fortsatt omsettes fram til datoen for minste holdbarhet eller siste forbruksdato: ◄**M10**
+
+1. 19\. september 2021 når det gjelder grenseverdiene for tropanalkaloider i barnemat og foredlede kornbaserte næringsmidler for spedbarn og småbarn som inneholder mais eller avledede produkter av mais fastsatt i nr. 2.2.1 i vedlegg I.
+2. 1\. januar 2022 når det gjelder grenseverdiene for meldrøyesklerotier og meldrøyealkaloider fastsatt i nr. 1.8 i vedlegg I.
+3. 3\. mai 2022 når det gjelder grenseverdiene for kvikksølv fastsatt i nr. 3.3 i vedlegg I.
+4. 1\. juli 2022 når det gjelder grenseverdiene for opiumalkaloider fastsatt i nr. 2.5 i vedlegg I.
+5. 1\. september 2022 når det de gjelder grenseverdiene for tropanalkaloider fastsatt i nr. 2.2.2–2.2.9 i vedlegg I.
+6. 1\. januar 2023 når det gjelder grenseverdiene for okratoksin A fastsatt i nr. 1.2 i vedlegg I.
+7. 1\. januar 2023 når det gjelder grenseverdiene for hydrogencyanid fastsatt i nr. 2.3 i vedlegg I.
+8. 1\. januar 2023 når det gjelder grenseverdiene for summen av Δ9-THC og Δ9-THCA fastsatt i nr. 2.6 i vedlegg I.
+9. 1\. januar 2023 når det gjelder grenseverdiene for summen av dioksiner og for summen av dioksiner og DL-PCB fastsatt i nr. 4.1.1, 4.1.2, 4.1.11 og 4.1.12 i vedlegg I.
+10. 1\. januar 2023 når det gjelder grenseverdiene for summen av perfluoralkylstoffer fastsatt i nr. 4.2 i vedlegg I.
+11. 26\. mars 2023 når det gjelder grenseverdiene for arsen fastsatt i nr. 3.4 i vedlegg I.
 
 ►**M8**
 
@@ -288,7 +364,11 @@ Punkt 3.2.3.1 skal, når det gjelder Norge, tre i kraft den 1. juli 2026.
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 25. april 2023.*For Kommisjonen*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 25. april 2023.
+
+*For Kommisjonen*
 Ursula von der Leyen
 *President*
 

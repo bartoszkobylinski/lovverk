@@ -15,7 +15,7 @@ xml_hash: "7c9f30a164e26098a896935930983a75fb837da0b30734dbadf01d2487425674"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Skip over 100 br.reg.tonn og varer under transport omfattes bare av loven for s�
 
 Kongen kan bestemme at loven ikke skal omfatte eiendom som for en del eies av stat eller statsinstitusjon eller som helt eller delvis eies av selskap eller sammenslutning hvor staten har framtredende økonomisk interesse eller av stiftelse som er dannet ved overføring av statsmidler. Kongen kan likeledes bestemme at visse arter av løsøre og eiendom under en viss verdi eller eiendom som tilhører kommuner eller institusjoner, skal falle utenfor loven.
 
-Kongen kan bestemme at loven skal omfatteeiendom her i riket som helt eller delvis har utenlandsk eier;eiendom utenfor riket som helt eller delvis har norsk eier;varer under transport til og fra Norge som ikke går inn under første til tredje ledd.
+Kongen kan bestemme at loven skal omfatte
+
+1. eiendom her i riket som helt eller delvis har utenlandsk eier;
+2. eiendom utenfor riket som helt eller delvis har norsk eier;
+3. varer under transport til og fra Norge som ikke går inn under første til tredje ledd.
 
 Kongen kan bestemme at loven i den utstrekning han fastsetter, også skal omfatte rettigheter og andre interesser.
 
@@ -68,9 +72,35 @@ Krigsskadeskipnaden skal ha sitt sete på det sted Kongen bestemmer.
 
 ### § 5. Administrasjon.
 
-1\. Krigsskadeskipnaden ledes av et styre som oppnevnes av Kongen når han finner at forholdene krever det.Styret skal ha så mange medlemmer og varamenn som Kongen til enhver tid bestemmer. Kongen avgjør hvem som skal være formann og varaformann i styret, og kan treffe bestemmelse om fordeling av forretningene mellom styrets medlemmer.Medlemmenes funksjonstid og godtgjøring fastsettes av Kongen.Kongen kan bestemme at styret midlertidig skal tre ut av funksjon hvis han finner at forholdene ikke lenger krever at det er i virksomhet.Styret holder møter så ofte formannen finner det nødvendig. Møte skal også holdes når det kreves av minst to av medlemmene. Styret er vedtaksført når minst halvdelen av medlemmene er til stede. Vedtak fattes ved stemmeflertall. Ved stemmelikhet gjør formannens stemme utslaget.Over møtene føres protokoll som underskrives av samtlige møtende.Krigsskadeskipnaden forpliktes ved underskrift av styrets fungerende formann. Styret kan meddele prokura.Kongen ansetter den administrerende direktør for Krigsskadeskipnaden etter innstilling fra styret.Andre tjenestemenn ansettes av styret.Lønns- og tjenestevilkår for direktøren og tjenestemennene fastsettes av styret med godkjenning av vedkommende departement.Styret bør i den utstrekning det er mulig, rådføre seg med Krigsskaderådet når det gjelder avgjørelser av prinsipiell betydning.Styret skal hvert år innen tre måneder etter regnskapsårets utløp sende departementet årsregnskap og beretning om Krigsskadeskipnadens virksomhet. Regnskapet og beretningen skal av departementet meddeles Stortinget.Med departementets samtykke kan styret oppnevne særstyrer for en eller flere av de trygder som opprettes i medhold av [§ 23](lov/1953-07-17-2/§23). Særstyrenes myndighetsområde bestemmes i instruks som er godkjent av departementet.
+1\. Krigsskadeskipnaden ledes av et styre som oppnevnes av Kongen når han finner at forholdene krever det.
 
-2\. Så lenge det ikke er oppnevnt styre for Krigsskadeskipnaden, treffer arbeidsutvalget i Norges Krigsskaderåd de bestemmelser som tilligger styret og som anses nødvendige for å forberede Krigsskadeskipnadens virksomhet. Når arbeidsutvalget finner grunn til det, kan det forelegge en sak for rådet til avgjørelse. Reglene i [punkt](lov/1953-07-17-2/kap1) 1 femte til syvende samt ellevte og tolvte ledd gjelder tilsvarende.Reglene i første ledd gjelder tilsvarende hvis styret midlertidig er satt ut av funksjon etter bestemmelsen i [punkt](lov/1953-07-17-2/kap1) 1 fjerde ledd.
+Styret skal ha så mange medlemmer og varamenn som Kongen til enhver tid bestemmer. Kongen avgjør hvem som skal være formann og varaformann i styret, og kan treffe bestemmelse om fordeling av forretningene mellom styrets medlemmer.
+
+Medlemmenes funksjonstid og godtgjøring fastsettes av Kongen.
+
+Kongen kan bestemme at styret midlertidig skal tre ut av funksjon hvis han finner at forholdene ikke lenger krever at det er i virksomhet.
+
+Styret holder møter så ofte formannen finner det nødvendig. Møte skal også holdes når det kreves av minst to av medlemmene. Styret er vedtaksført når minst halvdelen av medlemmene er til stede. Vedtak fattes ved stemmeflertall. Ved stemmelikhet gjør formannens stemme utslaget.
+
+Over møtene føres protokoll som underskrives av samtlige møtende.
+
+Krigsskadeskipnaden forpliktes ved underskrift av styrets fungerende formann. Styret kan meddele prokura.
+
+Kongen ansetter den administrerende direktør for Krigsskadeskipnaden etter innstilling fra styret.
+
+Andre tjenestemenn ansettes av styret.
+
+Lønns- og tjenestevilkår for direktøren og tjenestemennene fastsettes av styret med godkjenning av vedkommende departement.
+
+Styret bør i den utstrekning det er mulig, rådføre seg med Krigsskaderådet når det gjelder avgjørelser av prinsipiell betydning.
+
+Styret skal hvert år innen tre måneder etter regnskapsårets utløp sende departementet årsregnskap og beretning om Krigsskadeskipnadens virksomhet. Regnskapet og beretningen skal av departementet meddeles Stortinget.
+
+Med departementets samtykke kan styret oppnevne særstyrer for en eller flere av de trygder som opprettes i medhold av [§ 23](lov/1953-07-17-2/§23). Særstyrenes myndighetsområde bestemmes i instruks som er godkjent av departementet.
+
+2\. Så lenge det ikke er oppnevnt styre for Krigsskadeskipnaden, treffer arbeidsutvalget i Norges Krigsskaderåd de bestemmelser som tilligger styret og som anses nødvendige for å forberede Krigsskadeskipnadens virksomhet. Når arbeidsutvalget finner grunn til det, kan det forelegge en sak for rådet til avgjørelse. Reglene i [punkt](lov/1953-07-17-2/kap1) 1 femte til syvende samt ellevte og tolvte ledd gjelder tilsvarende.
+
+Reglene i første ledd gjelder tilsvarende hvis styret midlertidig er satt ut av funksjon etter bestemmelsen i [punkt](lov/1953-07-17-2/kap1) 1 fjerde ledd.
 
 > Endret ved lov 30 juni 1955 nr. 7.
 
@@ -182,9 +212,18 @@ Før dette tidspunkt kan Krigsskadeskipnaden utbetale hel eller delvis erstatnin
 
 ### § 16. Alminnelige regler.
 
-1\. I trygdene (jfr. [§§ 23](lov/1953-07-17-2/§23) flg.) dekkes de erstatningsmessige skader av trygdens midler. Om det skal betales renter og i tilfelle fra hvilken tid og etter hvilken rentesats, avgjøres av Krigsskadeskipnaden med godkjenning av departementet. På samme måte kan fastsettes at det skal betales tillegg til eller gjøres fradrag i erstatningen på grunn av endring i prisnivået.Er en trygds midler ikke tilstrekkelige til betaling etter foregående ledd, nedsettes alle ikke betalte erstatninger forholdsmessig. Er midlene mer enn tilstrekkelige, bestemmer Stortinget hvorledes det overskytende skal anvendes.
+1\. I trygdene (jfr. [§§ 23](lov/1953-07-17-2/§23) flg.) dekkes de erstatningsmessige skader av trygdens midler. Om det skal betales renter og i tilfelle fra hvilken tid og etter hvilken rentesats, avgjøres av Krigsskadeskipnaden med godkjenning av departementet. På samme måte kan fastsettes at det skal betales tillegg til eller gjøres fradrag i erstatningen på grunn av endring i prisnivået.
 
-2\. Krigsskadeskipnaden fordeler de midler Stortinget stiller til rådighet.I samsvar med retningslinjer som Stortinget måtte fastsette, avgjør Krigsskadeskipnaden på grunnlag av billighetshensyn som særlig skal tilgodese samfunnsøkonomiske og sosiale interesserom og i tilfelle med hvilket beløp det skal ytes erstatning for skade som ikke er gjenstand for trygding;om og i tilfelle med hvilket beløp det skal ytes erstatning for skade som en trygd ikke har midler til å dekke.Kongen gir med Stortingets godkjenning regler om prioritetsforholdet mellom de forskjellige skader, om oppgjøret og om fremgangsmåten ved fastsettingen av erstatningen. I reglene kan bestemmes at Krigsskadeskipnadens avgjørelse i visse tilfelle kan påklages til høyere myndighet.
+Er en trygds midler ikke tilstrekkelige til betaling etter foregående ledd, nedsettes alle ikke betalte erstatninger forholdsmessig. Er midlene mer enn tilstrekkelige, bestemmer Stortinget hvorledes det overskytende skal anvendes.
+
+2\. Krigsskadeskipnaden fordeler de midler Stortinget stiller til rådighet.
+
+I samsvar med retningslinjer som Stortinget måtte fastsette, avgjør Krigsskadeskipnaden på grunnlag av billighetshensyn som særlig skal tilgodese samfunnsøkonomiske og sosiale interesser
+
+1. om og i tilfelle med hvilket beløp det skal ytes erstatning for skade som ikke er gjenstand for trygding;
+2. om og i tilfelle med hvilket beløp det skal ytes erstatning for skade som en trygd ikke har midler til å dekke.
+
+Kongen gir med Stortingets godkjenning regler om prioritetsforholdet mellom de forskjellige skader, om oppgjøret og om fremgangsmåten ved fastsettingen av erstatningen. I reglene kan bestemmes at Krigsskadeskipnadens avgjørelse i visse tilfelle kan påklages til høyere myndighet.
 
 ### § 17. Oppgjør under særlige forhold.
 

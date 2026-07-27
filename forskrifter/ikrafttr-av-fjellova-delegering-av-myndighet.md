@@ -28,4 +28,14 @@ Lova skal gjelde frå og med 1. januar 1976, likevel slik at føresegnene om jak
 
 ## 2
 
-Landbruksdepartementet og Miljøverndepartementet vert tillagt og delegert makt etter lova i samsvar med følgjande:Landbruksdepartementet skal ha den makt som er tillagt departementet i lova med unntak for kap. XI og XII.Miljøverndepartementet skal ha den makt som er tillagt departementet i kap. XI og XII. Miljøverndepartementet skal dessutan vera klageinstans etter § 10 andre leden når det gjeld fjellstyrevedtak med heimel i kap. XI og XII.Den makt som er tillagt Kongen i §§ 3, 4, 5, 6, 10, 11, 14, 23 og 28 blir delegert til Landbruksdepartementet.Den makt som i § 38 er tillagt Kongen til å fastsetje overgangsføresegner i samband med iverksetjing av lova blir delegert til Landbruksdepartementet med unntak for iverksetjing av kap. XI og XII som Miljøverndepartementet får fullmakt til å gje overgangsføresegner om.Den makt som er tillagt Kongen §§ 25, 26 og 29 blir delegert til Miljøverndepartementet.Landbruksdepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for statens skoger.Miljøverndepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for statens skoger.Miljøverndepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for vilt og ferskvannsfisk.Vedtekter utferda med heimel i § 7 i den gamle fjellova skal gjelde til dei blir oppheva eller endra med heimel i § 14 i den nye fjelllova.
+Landbruksdepartementet og Miljøverndepartementet vert tillagt og delegert makt etter lova i samsvar med følgjande:
+
+1. Landbruksdepartementet skal ha den makt som er tillagt departementet i lova med unntak for kap. XI og XII.
+2. Miljøverndepartementet skal ha den makt som er tillagt departementet i kap. XI og XII. Miljøverndepartementet skal dessutan vera klageinstans etter § 10 andre leden når det gjeld fjellstyrevedtak med heimel i kap. XI og XII.
+3. Den makt som er tillagt Kongen i §§ 3, 4, 5, 6, 10, 11, 14, 23 og 28 blir delegert til Landbruksdepartementet.
+4. Den makt som i § 38 er tillagt Kongen til å fastsetje overgangsføresegner i samband med iverksetjing av lova blir delegert til Landbruksdepartementet med unntak for iverksetjing av kap. XI og XII som Miljøverndepartementet får fullmakt til å gje overgangsføresegner om.
+5. Den makt som er tillagt Kongen §§ 25, 26 og 29 blir delegert til Miljøverndepartementet.
+6. Landbruksdepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for statens skoger.
+7. Miljøverndepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for statens skoger.
+8. Miljøverndepartementet kan delegere den makt departementet etter dette har med heimel i fjellova av 1975 til Direktoratet for vilt og ferskvannsfisk.
+9. Vedtekter utferda med heimel i § 7 i den gamle fjellova skal gjelde til dei blir oppheva eller endra med heimel i § 14 i den nye fjelllova.

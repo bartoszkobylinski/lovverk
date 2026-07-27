@@ -40,7 +40,18 @@ Nasjonal enhet for rettspsykiatrisk sakkyndighet skal føre en nasjonal oversikt
 
 ## § 4. Den sakkyndiges egenerklæring
 
-Før en oppnevning skal den sakkyndige fremlegge en skriftlig egenerklæring for retten. I egenerklæringen skal den sakkyndige opplyse omkontaktdetaljer og autorisasjonskode som helsepersonellutdannelse, erfaring og nåværende stillingrelevant klinisk arbeid nå, og eventuelt hvor stor del av vanlig arbeidstid det utgjørrelevant vitenskapelig stilling nå, og eventuelt hvor stor del av vanlig arbeidstid den utgjørB-kurs og C-kurs er gjennomførtden sakkyndige er oppført i oversikten til Nasjonal enhet for rettspsykiatrisk sakkyndighethvor mange foreløpige og fullstendige rettspsykiatriske undersøkelser den sakkyndige har gjennomført de siste fem årenetilknytning til partene eller andre sakkyndige i sakentidligere sakkyndigoppdrag de siste fem årene med andre sakkyndige som oppnevningen kan bli sammen medandre forhold som den sakkyndige selv anser er av betydning for oppdraget.
+Før en oppnevning skal den sakkyndige fremlegge en skriftlig egenerklæring for retten. I egenerklæringen skal den sakkyndige opplyse om
+
+1. kontaktdetaljer og autorisasjonskode som helsepersonell
+2. utdannelse, erfaring og nåværende stilling
+3. relevant klinisk arbeid nå, og eventuelt hvor stor del av vanlig arbeidstid det utgjør
+4. relevant vitenskapelig stilling nå, og eventuelt hvor stor del av vanlig arbeidstid den utgjør
+5. B-kurs og C-kurs er gjennomført
+6. den sakkyndige er oppført i oversikten til Nasjonal enhet for rettspsykiatrisk sakkyndighet
+7. hvor mange foreløpige og fullstendige rettspsykiatriske undersøkelser den sakkyndige har gjennomført de siste fem årene
+8. tilknytning til partene eller andre sakkyndige i saken
+9. tidligere sakkyndigoppdrag de siste fem årene med andre sakkyndige som oppnevningen kan bli sammen med
+10. andre forhold som den sakkyndige selv anser er av betydning for oppdraget.
 
 Hvis den sakkyndige må oppnevnes umiddelbart fordi det ellers kan gå ut over etterforskingen, kan egenerklæringen gis rekvirenten muntlig. Egenerklæringen skal legges frem skriftlig for retten så snart som mulig.
 
@@ -48,13 +59,28 @@ Sakkyndige som formidles av Nasjonal enhet for rettspsykiatrisk sakkyndighet, op
 
 ## § 5. Mandatet for de sakkyndiges arbeid
 
-Mandatet for de sakkyndiges arbeid skal være skriftlig ogangi presist hva de sakkyndige skal vurdereopplyse om at erklæringen skal være en medisinskfaglig uttalelse og at de sakkyndige ikke skal vurdere eller besvare rettslige spørsmålangi kravene i [§ 6](forskrift/2020-09-30-1921/§6)angi om det er behov for en risiko- og prognosevurderingangi om det er behov for at de sakkyndige vurderer om overføring til tvungent psykisk helsevern eller overføring til tvungen omsorg antas å være best egnet, hvis retten skulle komme til at den arbeidet gjelder er utilregnelig og vilkårene for særreaksjon er oppfylt.
+Mandatet for de sakkyndiges arbeid skal være skriftlig og
+
+1. angi presist hva de sakkyndige skal vurdere
+2. opplyse om at erklæringen skal være en medisinskfaglig uttalelse og at de sakkyndige ikke skal vurdere eller besvare rettslige spørsmål
+3. angi kravene i [§ 6](forskrift/2020-09-30-1921/§6)
+4. angi om det er behov for en risiko- og prognosevurdering
+5. angi om det er behov for at de sakkyndige vurderer om overføring til tvungent psykisk helsevern eller overføring til tvungen omsorg antas å være best egnet, hvis retten skulle komme til at den arbeidet gjelder er utilregnelig og vilkårene for særreaksjon er oppfylt.
 
 Rekvirenten kan benytte de standardmandatene som er tilgjengelige på Den rettsmedisinske kommisjons nettsider, jf. [forskrift 13. februar 2018 nr. 240](forskrift/2018-02-13-240) om Den rettsmedisinske kommisjon [§ 3](forskrift/2018-02-13-240/§3) andre ledd bokstav b.
 
 ## § 6. Krav til den rettspsykiatriske erklæringen
 
-Den eller de sakkyndiges skriftlige erklæring skalskille klart mellom premisser, vurderinger og konklusjonredegjøre for historikken og sykdomshistorien (anamnesen) til den som vurderesvurdere helsen og funksjonen til den som vurderes, både på handlingstidspunktet og i dag (status presens)gi en konsentrert fremstilling av det mandatet spør omvære informativ, sannferdig, relevant og klarbelyse usikkerhetsmomenter og eventuelle feilkilderbare inneholde fagterminologi så langt det er nødvendig og forklare fagterminologi som benyttesinneholde en kortfattet redegjørelse for hvordan utredningen er utført, herunder hvilke metoder som er benyttet.
+Den eller de sakkyndiges skriftlige erklæring skal
+
+1. skille klart mellom premisser, vurderinger og konklusjon
+2. redegjøre for historikken og sykdomshistorien (anamnesen) til den som vurderes
+3. vurdere helsen og funksjonen til den som vurderes, både på handlingstidspunktet og i dag (status presens)
+4. gi en konsentrert fremstilling av det mandatet spør om
+5. være informativ, sannferdig, relevant og klar
+6. belyse usikkerhetsmomenter og eventuelle feilkilder
+7. bare inneholde fagterminologi så langt det er nødvendig og forklare fagterminologi som benyttes
+8. inneholde en kortfattet redegjørelse for hvordan utredningen er utført, herunder hvilke metoder som er benyttet.
 
 ## § 7. Ikrafttredelse
 

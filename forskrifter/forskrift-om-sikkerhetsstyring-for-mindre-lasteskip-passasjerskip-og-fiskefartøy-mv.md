@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for norskelasteskip med bruttotonnasje under 500fiskefartøy med bruttotonnasje under 500passasjerskip i utenriksfart sertifisert for 12 eller færre passasjererroro-passasjerskip sertifisert for 12 eller færre passasjererpassasjerskip i innenriksfart sertifisert for 100 eller færre passasjererfartøy over 24 meter som brukes utenfor næringsvirksomhet.
+Forskriften gjelder for norske
+
+1. lasteskip med bruttotonnasje under 500
+2. fiskefartøy med bruttotonnasje under 500
+3. passasjerskip i utenriksfart sertifisert for 12 eller færre passasjerer
+4. roro-passasjerskip sertifisert for 12 eller færre passasjerer
+5. passasjerskip i innenriksfart sertifisert for 100 eller færre passasjerer
+6. fartøy over 24 meter som brukes utenfor næringsvirksomhet.
 
 Forskriften gjelder tilsvarende for utenlandske skip som opererer i norsk territorialfarvann.
 

@@ -34,7 +34,14 @@ Forskriften gjelder ikke for oppskyting av fyrverkeriraketter og leker.
 
 ### § 2. Definisjoner
 
-I forskriften menes med:*Oppskytingsaktivitet:* Aktiviteter knyttet til oppskyting av rakett.*Modellrakett:* Rakett med CE-merket motor klasse A–D, med total impuls til og med 20,0 Ns.*Avansert rakett:* Andre raketter enn modellraketter, inkludert rakettdrevet fartøy med vertikal take-off og landingskapasitet.*Rakett:* Rakett etter bokstav b) og c).*Operatør:* Person eller organisasjon som driver oppskytingsaktivitet.*Ikke-kontrollert lufthavn:* Lufthavn med etablert flygeinformasjonstjeneste (AFIS-tjeneste).
+I forskriften menes med:
+
+1. *Oppskytingsaktivitet:* Aktiviteter knyttet til oppskyting av rakett.
+2. *Modellrakett:* Rakett med CE-merket motor klasse A–D, med total impuls til og med 20,0 Ns.
+3. *Avansert rakett:* Andre raketter enn modellraketter, inkludert rakettdrevet fartøy med vertikal take-off og landingskapasitet.
+4. *Rakett:* Rakett etter bokstav b) og c).
+5. *Operatør:* Person eller organisasjon som driver oppskytingsaktivitet.
+6. *Ikke-kontrollert lufthavn:* Lufthavn med etablert flygeinformasjonstjeneste (AFIS-tjeneste).
 
 ## Kapittel 2. Passering gjennom norsk luftrom
 
@@ -44,7 +51,15 @@ I forskriften menes med:*Oppskytingsaktivitet:* Aktiviteter knyttet til oppskyti
 
 ### § 4. Tillatelse etter luftfartsloven § 2-2 første ledd nr. 4
 
-Søknad om tillatelse skal sendes til Luftfartstilsynet og må minst inneholde:informasjon om den planlagte oppskytingen, inkludert spesifikasjoner for raketten og drivstoff,informasjon om eventuell nyttelast ombord, inkludert innhold av farlige og radioaktive materialer,informasjon om planlagt oppskytingsbane,informasjon om område som kan berøres av planlagt eller ikke-planlagt nedfall,en risikoanalyse med beskrivelse av metodologi for norske land- og sjøområder som oppfyller kravene i [lov 22. desember 2025 nr. 128 om aktiviteter i verdensrommet](lov/2025-12-22-128),redegjørelse for planlagte risikoreduserende tiltak, ogdokumentasjon for forsikring som dekker ansvar for skade på tredjeperson så langt det gjelder norske land- og sjøområder.
+Søknad om tillatelse skal sendes til Luftfartstilsynet og må minst inneholde:
+
+1. informasjon om den planlagte oppskytingen, inkludert spesifikasjoner for raketten og drivstoff,
+2. informasjon om eventuell nyttelast ombord, inkludert innhold av farlige og radioaktive materialer,
+3. informasjon om planlagt oppskytingsbane,
+4. informasjon om område som kan berøres av planlagt eller ikke-planlagt nedfall,
+5. en risikoanalyse med beskrivelse av metodologi for norske land- og sjøområder som oppfyller kravene i [lov 22. desember 2025 nr. 128 om aktiviteter i verdensrommet](lov/2025-12-22-128),
+6. redegjørelse for planlagte risikoreduserende tiltak, og
+7. dokumentasjon for forsikring som dekker ansvar for skade på tredjeperson så langt det gjelder norske land- og sjøområder.
 
 Luftfartstilsynet kan kreve ytterligere informasjon fra søker.
 
@@ -88,7 +103,15 @@ Oppskyting av avansert rakett skal kun drives av juridiske personer, eller fysis
 
 Oppskyting av avansert rakett kan kun finne sted etter tillatelse fra Luftfartstilsynet.
 
-Søknad om tillatelse skal minst inneholde:opplysninger om den planlagte oppskytingen, herunder spesifikasjoner for raketten og drivstoff,opplysninger om eventuell nyttelast, herunder innhold av farlige materialer,opplysninger om planlagt oppskytingsbane,opplysninger om området som kan bli berørt av planlagt eller ikke-planlagt nedfall,en sikkerhetsvurdering i samsvar med [§ 11](forskrift/2026-06-24-1327/§11),opplysninger om miljøvurdering etter [§ 17](forskrift/2026-06-24-1327/§17),dokumentasjon på forsikring eller annen sikkerhet som dekker ansvar etter [§ 18](forskrift/2026-06-24-1327/§18).
+Søknad om tillatelse skal minst inneholde:
+
+1. opplysninger om den planlagte oppskytingen, herunder spesifikasjoner for raketten og drivstoff,
+2. opplysninger om eventuell nyttelast, herunder innhold av farlige materialer,
+3. opplysninger om planlagt oppskytingsbane,
+4. opplysninger om området som kan bli berørt av planlagt eller ikke-planlagt nedfall,
+5. en sikkerhetsvurdering i samsvar med [§ 11](forskrift/2026-06-24-1327/§11),
+6. opplysninger om miljøvurdering etter [§ 17](forskrift/2026-06-24-1327/§17),
+7. dokumentasjon på forsikring eller annen sikkerhet som dekker ansvar etter [§ 18](forskrift/2026-06-24-1327/§18).
 
 Før søknaden sendes, bør søker kontakte Luftfartstilsynet for forhåndskonferanse.
 
@@ -106,7 +129,14 @@ Operatøren skal utarbeide en sikkerhetsvurdering for hver oppskyting av avanser
 
 ### § 12. Krav til prosedyrer
 
-Operatøren skal ha prosedyrer tilpasset aktiviteten, og minst ha prosedyrer for:klargjøring av rakett og systemer,opprettelse og kontroll av oppskytings- og nedfallsområdet,nedtelling,avbrutt oppskyting,beredskap,opplæring og trening av personell.
+Operatøren skal ha prosedyrer tilpasset aktiviteten, og minst ha prosedyrer for:
+
+1. klargjøring av rakett og systemer,
+2. opprettelse og kontroll av oppskytings- og nedfallsområdet,
+3. nedtelling,
+4. avbrutt oppskyting,
+5. beredskap,
+6. opplæring og trening av personell.
 
 ### § 13. Områder hvor det er forbudt å skyte opp avansert rakett
 

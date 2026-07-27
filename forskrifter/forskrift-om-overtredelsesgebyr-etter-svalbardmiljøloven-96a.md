@@ -28,7 +28,14 @@ Forskriften gjelder overtredelsesgebyr etter [svalbardmiljøloven § 96a](lov/20
 
 ## § 2. Overtredelsesgebyr mot fysiske personer
 
-Ved vurderingen av om det skal ilegges administrativ sanksjon ved et lovbrudd, og ved utmålingen av overtredelsesgebyr mot fysiske personer, kan det blant annet legges vekt påovertredelsens omfangfaren for virkninger på kulturminner eller miljø, herunder villmark, landskap, flora og faunagraden av utvist skyldom det foreligger gjentakelsefordeler som er eller kunne vært oppnådd ved overtredelsenallmennpreventive hensyn.
+Ved vurderingen av om det skal ilegges administrativ sanksjon ved et lovbrudd, og ved utmålingen av overtredelsesgebyr mot fysiske personer, kan det blant annet legges vekt på
+
+1. overtredelsens omfang
+2. faren for virkninger på kulturminner eller miljø, herunder villmark, landskap, flora og fauna
+3. graden av utvist skyld
+4. om det foreligger gjentakelse
+5. fordeler som er eller kunne vært oppnådd ved overtredelsen
+6. allmennpreventive hensyn.
 
 Ved utmålingen skal det også legges vekt på vedkommendes økonomiske evne. Overtredelsesgebyret skal ikke overstige fire ganger folketrygdens grunnbeløp (G). Rammene gjelder også der flere overtredelser er begått i samme handling.
 

@@ -34,7 +34,11 @@ Forskriften gjelder for landbaserte militære landingsplasser i Norge. Forskrift
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Militær landingsplass:* en felles betegnelse på militær flyplass eller militær helikopterplass. Militær landingsplass er et permanent land- eller sjøområde (med anlegg, bygninger, installasjoner og utstyr) med det primære formål å understøtte militære operasjoner. Omfanget av militære landingsplasser samt militære helikopterplasser er likevel begrenset til å gjelde områder på landingsplassen som benyttes til avgang, landing, manøvrering samt oppstilling av luftfartøy. En militær landingsplass kan være tilknyttet en sivil flyplass eller helikopterplass hvor det er avtale om felles bruk av manøvreringsområde og tjenester tilknyttet flyplassen. Militære landingsplasser omfatter også militære luftfartsanlegg i tilknytning til landingsplassen, med mindre annet er spesifisert.*Feltlandingsplass:* en permanent feltmessig tilpasset landingsplass uten fast tilstedeværelse eller stasjonering av luftfartøy og med kun begrenset infrastruktur for å understøtte avgang og landing med militære luftfartøy. Feltlandingsplasser er normalt etablert for å understøtte militære operasjonskonsepter eller planer.*Militær landingsplassoperatør:* en organisasjon som tilbyr, eller stiller til rådighet, en militær landingsplass til bruk for luftfartøy.
+I denne forskriften menes med:
+
+1. *Militær landingsplass:* en felles betegnelse på militær flyplass eller militær helikopterplass. Militær landingsplass er et permanent land- eller sjøområde (med anlegg, bygninger, installasjoner og utstyr) med det primære formål å understøtte militære operasjoner. Omfanget av militære landingsplasser samt militære helikopterplasser er likevel begrenset til å gjelde områder på landingsplassen som benyttes til avgang, landing, manøvrering samt oppstilling av luftfartøy. En militær landingsplass kan være tilknyttet en sivil flyplass eller helikopterplass hvor det er avtale om felles bruk av manøvreringsområde og tjenester tilknyttet flyplassen. Militære landingsplasser omfatter også militære luftfartsanlegg i tilknytning til landingsplassen, med mindre annet er spesifisert.
+2. *Feltlandingsplass:* en permanent feltmessig tilpasset landingsplass uten fast tilstedeværelse eller stasjonering av luftfartøy og med kun begrenset infrastruktur for å understøtte avgang og landing med militære luftfartøy. Feltlandingsplasser er normalt etablert for å understøtte militære operasjonskonsepter eller planer.
+3. *Militær landingsplassoperatør:* en organisasjon som tilbyr, eller stiller til rådighet, en militær landingsplass til bruk for luftfartøy.
 
 ## Kapittel 2. Felles krav til militære landingsplasser
 
@@ -60,7 +64,13 @@ Landingsplassoperatøren skal utpeke en person med et særlig ansvar for styring
 
 ### § 7. Krav til styringssystem og landingsplassmanual
 
-Landingsplassoperatøren skal forvalte, ivareta og vedlikeholde et styringssystem som inneholder nødvendige dokumenter for å tilfredsstille krav til landingsplassens:utforming,utstyr,anlegg,aktiviteter og tjenester, oglandingsplassoperatøren og relevante brukeres egne krav, manualer og rutiner.
+Landingsplassoperatøren skal forvalte, ivareta og vedlikeholde et styringssystem som inneholder nødvendige dokumenter for å tilfredsstille krav til landingsplassens:
+
+1. utforming,
+2. utstyr,
+3. anlegg,
+4. aktiviteter og tjenester, og
+5. landingsplassoperatøren og relevante brukeres egne krav, manualer og rutiner.
 
 Dokumentasjon for å tilfredsstille krav til landingsplassen som beskrevet i bokstav a til e skal gjøres tilgjengelig for aktuelle brukere i et elektronisk verktøy.
 

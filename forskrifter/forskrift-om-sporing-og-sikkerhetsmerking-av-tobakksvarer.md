@@ -62,7 +62,13 @@ Ved deaktivering skal Helsedirektoratet underrette markedsdeltaker eller aktøre
 
 Sikkerhetsmerket skal utstedes av produsenter eller importører av tobakksvarer som skal plasseres på det norske markedet.
 
-Sikkerhetsmerket skal være et samlet merke og bestå av følgende autentifiseringselementer i kombinasjon:Guilloche,Optisk varierbar trykkfarge,Mikrotrykk,Anti-Stokes trykkfarge ogIkke-fluorescerende papir, sammen med fluorescerende trykkfarge.
+Sikkerhetsmerket skal være et samlet merke og bestå av følgende autentifiseringselementer i kombinasjon:
+
+1. Guilloche,
+2. Optisk varierbar trykkfarge,
+3. Mikrotrykk,
+4. Anti-Stokes trykkfarge og
+5. Ikke-fluorescerende papir, sammen med fluorescerende trykkfarge.
 
 Minst ett av autentifiseringselementene skal leveres av en uavhengig tredjepartsleverandør, jf. beslutning [(EU) 2018/576](eu/32018d0576) artikkel 3 nr. 2 jf. artikkel 8.
 
@@ -74,9 +80,16 @@ Berørte importører, produsenter og leverandører av sikkerhetsmerket skal unde
 
 ### § 3-3. Påføring av sikkerhetsmerker på enkeltpakninger
 
-Sikkerhetsmerket skal påføres på enkeltpakninger med tobakksvarer ved at defestes,trykkes ellerbåde festes og trykkes på enkeltpakningene.
+Sikkerhetsmerket skal påføres på enkeltpakninger med tobakksvarer ved at de
 
-Enkeltpakningene med tobakksvarer skal påføres sikkerhetselementer på en slik måte atdet er mulig å identifisere og kontrollere ektheten til en enkeltpakning med en tobakksvare i hele tiden tobakksvaren omsettes, ogde beskyttes mot å bli byttet ut, gjenbrukt eller endret på noen som helst måte.
+1. festes,
+2. trykkes eller
+3. både festes og trykkes på enkeltpakningene.
+
+Enkeltpakningene med tobakksvarer skal påføres sikkerhetselementer på en slik måte at
+
+1. det er mulig å identifisere og kontrollere ektheten til en enkeltpakning med en tobakksvare i hele tiden tobakksvaren omsettes, og
+2. de beskyttes mot å bli byttet ut, gjenbrukt eller endret på noen som helst måte.
 
 ## Kapittel 4. Ikrafttredelse og overgangsbestemmelser
 

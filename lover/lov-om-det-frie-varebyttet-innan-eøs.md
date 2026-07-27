@@ -15,7 +15,7 @@ xml_hash: "b20fb7dacbafe23277a573c61315d2fcb6f9c031f1532aed69534c07b3926c69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31998R2679"
@@ -82,7 +82,14 @@ vedtatt denne forordning:]5
 
 ### Art 1
 
-I denne forordning menes med:«hindring», en hindring av det frie varebytte mellom *EØS-statene* som skyldes en *EØS-stats* inngripen eller manglende inngripen og kan krenke traktatens artikkel 30-36, og som:fører til alvorlig forstyrrelse av det frie varebytte gjennom fysisk eller på annen måte å hindre, forsinke eller omdirigere import til, eksport fra eller transitt gjennom en *EØS-stat*,medfører alvorlig skade for de privatpersoner som rammes, ognødvendiggjør øyeblikkelige tiltak for å unngå at forstyrrelsen eller skaden vedvarer, brer seg eller forverres,«manglende inngripen», det at vedkommende myndigheter i en *EØS-stat* når privatpersoner forårsaker en hindring unnlater å treffe alle nødvendige og hensiktsmessige tiltak som de har myndighet til å treffe for å fjerne hindringen og sikre det frie varebytte på denne *EØS-statens* territorium.
+I denne forordning menes med:
+
+1. «hindring», en hindring av det frie varebytte mellom *EØS-statene* som skyldes en *EØS-stats* inngripen eller manglende inngripen og kan krenke traktatens artikkel 30-36, og som:
+
+   1. fører til alvorlig forstyrrelse av det frie varebytte gjennom fysisk eller på annen måte å hindre, forsinke eller omdirigere import til, eksport fra eller transitt gjennom en *EØS-stat*,
+   2. medfører alvorlig skade for de privatpersoner som rammes, og
+   3. nødvendiggjør øyeblikkelige tiltak for å unngå at forstyrrelsen eller skaden vedvarer, brer seg eller forverres,
+2. «manglende inngripen», det at vedkommende myndigheter i en *EØS-stat* når privatpersoner forårsaker en hindring unnlater å treffe alle nødvendige og hensiktsmessige tiltak som de har myndighet til å treffe for å fjerne hindringen og sikre det frie varebytte på denne *EØS-statens* territorium.
 
 ### Art 2
 
@@ -90,12 +97,18 @@ Denne forordning kan ikke tolkes slik at den på noen måte berører utøvelsen 
 
 ### Art 3
 
-1. Når det oppstår eller er fare for at det skal oppstå en hindring, skal:enhver *EØS-stat* (uansett om den selv er berørt) som har relevante opplysninger, umiddelbart oversende disse til Kommisjonen *eller EFTAs overvåkningsorgan*, ogKommisjonen *og EFTAs overvåkningsorgan* umiddelbart oversende *EØS-statene* disse opplysningene samt enhver opplysning, uansett kilde, som den anser som relevant.
+1. Når det oppstår eller er fare for at det skal oppstå en hindring, skal:
+
+   1. enhver *EØS-stat* (uansett om den selv er berørt) som har relevante opplysninger, umiddelbart oversende disse til Kommisjonen *eller EFTAs overvåkningsorgan*, og
+   2. Kommisjonen *og EFTAs overvåkningsorgan* umiddelbart oversende *EØS-statene* disse opplysningene samt enhver opplysning, uansett kilde, som den anser som relevant.
 2. Den berørte *EØS-stat* skal snarest mulig besvare Kommisjonens, *EFTAs overvåkningsorgans* og de øvrige *EØS-statenes* anmodninger om opplysninger vedrørende den eksisterende eller mulige hindringens art og de tiltak den har truffet eller vil treffe. Opplysninger som *EØS-statene* oversender hverandre, skal også oversendes Kommisjonen *eller EFTAs overvåkningsorgan*.
 
 ### Art 4
 
-1. Med forbehold for artikkel 2 skal den berørte *EØS-stat* når det oppstår en hindring:treffe alle nødvendige og hensiktsmessige tiltak for å sikre det frie varebytte på sitt territorium i samsvar med traktaten, ogunderrette Kommisjonen *eller EFTAs overvåkningsorgan* om de tiltak vedkommende myndigheter i *EØS-staten* har truffet eller vil treffe.
+1. Med forbehold for artikkel 2 skal den berørte *EØS-stat* når det oppstår en hindring:
+
+   1. treffe alle nødvendige og hensiktsmessige tiltak for å sikre det frie varebytte på sitt territorium i samsvar med traktaten, og
+   2. underrette Kommisjonen *eller EFTAs overvåkningsorgan* om de tiltak vedkommende myndigheter i *EØS-staten* har truffet eller vil treffe.
 2. Kommisjonen *og EFTAs overvåkningsorgan* skal umiddelbart oversende de øvrige *EØS-statene* opplysningene *de* har mottatt i henhold til nr. 1 bokstav b).
 
 ### Art 5
@@ -103,7 +116,10 @@ Denne forordning kan ikke tolkes slik at den på noen måte berører utøvelsen 
 1. Når Kommisjonen *eller EFTAs overvåkningsorgan* anser at det foreligger en hindring i en *EØS-stat*, skal *de* underrette den berørte *EØS-staten* om grunnen til at den har trukket denne konklusjonen, og anmode *EØS-staten* om å treffe alle nødvendige og hensiktsmessige tiltak for å fjerne hindringen innen en frist den fastsetter etter hvor mye saken haster.
 2. Kommisjonen *og EFTAs overvåkningsorgan* skal ta hensyn til artikkel 2 når *de* trekker sin konklusjon.
 3. Kommisjonen *eller EFTAs overvåkningsorgan* kan offentliggjøre teksten i underretningen den har oversendt den berørte *EØS-staten* i *De Europeiske Fellesskaps Tidende*, *eller EØS-tillegget til denne,* og skal umiddelbart oversende teksten til enhver part som ber om det.
-4. Den berørte *EØS-stat* skal, innen en frist på fem virkedager etter at den har mottatt teksten:underrette Kommisjonen *eller EFTAs overvåkningsorgan* om de tiltak den har truffet eller vil treffe for å gjennomføre nr. 1, elleroversende en begrunnet redegjørelse for hvorfor den mener det ikke foreligger en hindring som krenker *EØS-avtalen artikkel 11 til 13*.
+4. Den berørte *EØS-stat* skal, innen en frist på fem virkedager etter at den har mottatt teksten:
+
+   - underrette Kommisjonen *eller EFTAs overvåkningsorgan* om de tiltak den har truffet eller vil treffe for å gjennomføre nr. 1, eller
+   - oversende en begrunnet redegjørelse for hvorfor den mener det ikke foreligger en hindring som krenker *EØS-avtalen artikkel 11 til 13*.
 5. Kommisjonen *eller EFTAs overvåkningsorgan* kan unntaksvis forlenge fristen nevnt i nr. 4 dersom *EØS-staten* framlegger en begrunnet anmodning om dette og begrunnelsen virker akseptabel.
 
 [Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.]

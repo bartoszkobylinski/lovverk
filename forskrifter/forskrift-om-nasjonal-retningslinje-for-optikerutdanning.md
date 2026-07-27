@@ -44,7 +44,12 @@ Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for li
 
 ### § 3. Kompetanseområder
 
-Optikerutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1470/kap2) til [6](forskrift/2025-07-04-1470/kap6) under følgende kompetanseområder:Optikk og optometri – klinisk undersøkelse, håndtering og behandlingBiomedisinsk vitenskapKommunikasjon og samhandling, juridiske rammer og etikkInnovasjon, kunnskapsbasert praksis og digital kompetanse.
+Optikerutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1470/kap2) til [6](forskrift/2025-07-04-1470/kap6) under følgende kompetanseområder:
+
+- Optikk og optometri – klinisk undersøkelse, håndtering og behandling
+- Biomedisinsk vitenskap
+- Kommunikasjon og samhandling, juridiske rammer og etikk
+- Innovasjon, kunnskapsbasert praksis og digital kompetanse.
 
 Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1470/§4) e, [§ 6](forskrift/2025-07-04-1470/§6) e, [§ 10](forskrift/2025-07-04-1470/§10) b–g, [§ 11](forskrift/2025-07-04-1470/§11) c og d, [§ 12](forskrift/2025-07-04-1470/§12) a–d, [§ 14](forskrift/2025-07-04-1470/§14) b og [§ 15](forskrift/2025-07-04-1470/§15) a, d og e er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -52,57 +57,133 @@ Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1470/§4) e, [§ 6](f
 
 ### § 4. Optikk og optometri – klinisk undersøkelse, håndtering og behandling – Kunnskap
 
-Kandidatenhar bred kunnskap om visuell optikk, synsanomalier og synshjelpemidlerhar bred kunnskap om anamneseopptak, optometriske og andre relevante kliniske undersøkelserhar bred kunnskap om behandlingsmetoder og prosedyrer for tilpassing av synshjelpemidler som briller, kontaktlinser, luper, kikkerter etc.har bred kunnskap om synsfunksjonens utvikling og aldersendringerhar kunnskap om barn og unge, og hvordan deres behov for undersøkelse og behandling skal ivaretashar kunnskap om visuell persepsjonhar kunnskap om optiske systemer, geometrisk og fysikalsk optikk og instrumentoptikkhar kunnskap om optoteknikk; tilvirkning, verifisering, justering, utlevering og reparasjon av synshjelpemiddelhar kunnskap om synskrav for yrkesliv og førerkort, og kjenner til sammenhenger mellom synsarbeid og helsekjenner til metoder og prosedyrer for tilpassing av synshjelpemidler til mennesker med synshemming eller andre funksjonsnedsettelser.
+Kandidaten
+
+1. har bred kunnskap om visuell optikk, synsanomalier og synshjelpemidler
+2. har bred kunnskap om anamneseopptak, optometriske og andre relevante kliniske undersøkelser
+3. har bred kunnskap om behandlingsmetoder og prosedyrer for tilpassing av synshjelpemidler som briller, kontaktlinser, luper, kikkerter etc.
+4. har bred kunnskap om synsfunksjonens utvikling og aldersendringer
+5. har kunnskap om barn og unge, og hvordan deres behov for undersøkelse og behandling skal ivaretas
+6. har kunnskap om visuell persepsjon
+7. har kunnskap om optiske systemer, geometrisk og fysikalsk optikk og instrumentoptikk
+8. har kunnskap om optoteknikk; tilvirkning, verifisering, justering, utlevering og reparasjon av synshjelpemiddel
+9. har kunnskap om synskrav for yrkesliv og førerkort, og kjenner til sammenhenger mellom synsarbeid og helse
+10. kjenner til metoder og prosedyrer for tilpassing av synshjelpemidler til mennesker med synshemming eller andre funksjonsnedsettelser.
 
 ### § 5. Optikk og optometri – klinisk undersøkelse, håndtering og behandling – Ferdigheter
 
-Kandidatenkan beherske anamneseopptak og hensiktsmessige prosedyrer for undersøkelse av pasientkan vurdere resultater fra diagnostiske instrumenter, inkludert avbildninger av øyets ulike vevslagkan anvende faglig kunnskap for å foreskrive og sikre pasienten individuelt tilpassede synshjelpemidlerkan anvende faglig kunnskap til å diagnostisere, samt identifisere behovet for om pasienten bør henvises videre til spesialist eller andre i primær- eller spesialisthelsetjenestenkan beherske fullstendig pasientjournalføring etter gjeldende retningslinjer og lovverkkan anvende faglig kunnskap om optiske systemer og instrumenter og relatere denne til klinisk praksis.
+Kandidaten
+
+1. kan beherske anamneseopptak og hensiktsmessige prosedyrer for undersøkelse av pasient
+2. kan vurdere resultater fra diagnostiske instrumenter, inkludert avbildninger av øyets ulike vevslag
+3. kan anvende faglig kunnskap for å foreskrive og sikre pasienten individuelt tilpassede synshjelpemidler
+4. kan anvende faglig kunnskap til å diagnostisere, samt identifisere behovet for om pasienten bør henvises videre til spesialist eller andre i primær- eller spesialisthelsetjenesten
+5. kan beherske fullstendig pasientjournalføring etter gjeldende retningslinjer og lovverk
+6. kan anvende faglig kunnskap om optiske systemer og instrumenter og relatere denne til klinisk praksis.
 
 ### § 6. Optikk og optometri – klinisk undersøkelse, håndtering og behandling – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre relevante undersøkelser, formidle resultatene og iverksette en hensiktsmessig plan for forebygging, behandling og oppfølgingkan formidle kunnskap om generell helse og dens innvirkning på syn og øyehelse, samt gi råd om syn, øyehelse og behandlingkan planlegge og gjennomføre verifisering, justering og utlevering av synshjelpemidlerkan formidle kunnskap om synets og øyehelsens innvirkning på helse- og livskvalitet, individuelt og på samfunnsnivåkan formidle kunnskap om forebyggende og helsefremmende tiltak og sammenhengene mellom helse, utdanning, arbeid og levekår, samt kan anvende dette i sin tjenesteutøvelse, også for å bidra til god folkehelse og arbeidsinkludering.
+Kandidaten
+
+1. kan planlegge og gjennomføre relevante undersøkelser, formidle resultatene og iverksette en hensiktsmessig plan for forebygging, behandling og oppfølging
+2. kan formidle kunnskap om generell helse og dens innvirkning på syn og øyehelse, samt gi råd om syn, øyehelse og behandling
+3. kan planlegge og gjennomføre verifisering, justering og utlevering av synshjelpemidler
+4. kan formidle kunnskap om synets og øyehelsens innvirkning på helse- og livskvalitet, individuelt og på samfunnsnivå
+5. kan formidle kunnskap om forebyggende og helsefremmende tiltak og sammenhengene mellom helse, utdanning, arbeid og levekår, samt kan anvende dette i sin tjenesteutøvelse, også for å bidra til god folkehelse og arbeidsinkludering.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet biomedisinsk vitenskap
 
 ### § 7. Biomedisinsk vitenskap – Kunnskap
 
-Kandidatenhar bred kunnskap om øyets anatomi og fysiologihar bred kunnskap om tilstander som påvirker syn og øyehelsehar bred kunnskap om okulære diagnostiske medikamenterhar kunnskap om generell anatomi, histologi, fysiologi, nevrologi og biokjemihar kunnskap om generell farmakologikjenner til generell mikrobiologi, immunologikjenner til hygieniske prinsipper og kan gjennomføre tiltak for å forhindre smittespredning.
+Kandidaten
+
+1. har bred kunnskap om øyets anatomi og fysiologi
+2. har bred kunnskap om tilstander som påvirker syn og øyehelse
+3. har bred kunnskap om okulære diagnostiske medikamenter
+4. har kunnskap om generell anatomi, histologi, fysiologi, nevrologi og biokjemi
+5. har kunnskap om generell farmakologi
+6. kjenner til generell mikrobiologi, immunologi
+7. kjenner til hygieniske prinsipper og kan gjennomføre tiltak for å forhindre smittespredning.
 
 ### § 8. Biomedisinsk vitenskap – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap og egnet teknologi for å oppdage tilstander relatert til syn og øyehelse, og stille relevante diagnoserkan anvende relevante farmakologiske medikamenter i yrkesutøvelsenkan reflektere over de vanligste former for okulær patologi og iverksette relevante tiltakkan reflektere over sammenhenger mellom medisinske tilstander og øye- og synsfunksjonkan beherske prosedyrer for livreddende og okulær førstehjelp.
+Kandidaten
+
+1. kan anvende faglig kunnskap og egnet teknologi for å oppdage tilstander relatert til syn og øyehelse, og stille relevante diagnoser
+2. kan anvende relevante farmakologiske medikamenter i yrkesutøvelsen
+3. kan reflektere over de vanligste former for okulær patologi og iverksette relevante tiltak
+4. kan reflektere over sammenhenger mellom medisinske tilstander og øye- og synsfunksjon
+5. kan beherske prosedyrer for livreddende og okulær førstehjelp.
 
 ### § 9. Biomedisinsk vitenskap – Generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre arbeidsoppgaver for å utrede, forebygge og håndtere synsanomalier og okulær patologikan formidle kunnskap om relevante medikamenters bruk, bivirkninger og risikofaktorer.
+Kandidaten
+
+1. kan planlegge og gjennomføre arbeidsoppgaver for å utrede, forebygge og håndtere synsanomalier og okulær patologi
+2. kan formidle kunnskap om relevante medikamenters bruk, bivirkninger og risikofaktorer.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet kommunikasjon og samhandling, juridiske rammer og etikk
 
 ### § 10. Kommunikasjon og samhandling, juridiske rammer og etikk – Kunnskap
 
-Kandidatenhar kunnskap om profesjonens formål, historie, egenart og plass i samfunnet både i privat og offentlig virksomhethar kunnskap om hvordan helse- og omsorgstjenester i Norge er organisert og finansiert, samt hvordan egen og andres profesjoners kompetanse kan brukes i tverrprofesjonelt samarbeidhar kunnskap om hvordan barn og unges medvirkning og rettigheter kan ivaretashar kunnskap om og forholder seg til gjeldende helse- og sosialpolitikkhar kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer ved å sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behovhar kunnskap om prinsipper for inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, og slik bidra til å sikre likeverdige syns- og øyehelsetjenester for alle grupper i samfunnetkjenner til samers rettigheter, og har kunnskap om og forståelse for samenes status som urfolk, særlig innenfor helse- og sosialfeltet.
+Kandidaten
+
+1. har kunnskap om profesjonens formål, historie, egenart og plass i samfunnet både i privat og offentlig virksomhet
+2. har kunnskap om hvordan helse- og omsorgstjenester i Norge er organisert og finansiert, samt hvordan egen og andres profesjoners kompetanse kan brukes i tverrprofesjonelt samarbeid
+3. har kunnskap om hvordan barn og unges medvirkning og rettigheter kan ivaretas
+4. har kunnskap om og forholder seg til gjeldende helse- og sosialpolitikk
+5. har kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer ved å sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov
+6. har kunnskap om prinsipper for inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, og slik bidra til å sikre likeverdige syns- og øyehelsetjenester for alle grupper i samfunnet
+7. kjenner til samers rettigheter, og har kunnskap om og forståelse for samenes status som urfolk, særlig innenfor helse- og sosialfeltet.
 
 ### § 11. Kommunikasjon og samhandling, juridiske rammer og etikk – Ferdigheter
 
-Kandidatenkan reflektere over egen kommunikasjon, anvende personorientert kommunikasjon og legge til rette for pasientmedvirkninghar kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorgkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelsekan vurdere risiko for uønskede hendelser for pasient, pårørende og ansatte, samt kjenner til metoder for å følge opp dette systematisk.
+Kandidaten
+
+1. kan reflektere over egen kommunikasjon, anvende personorientert kommunikasjon og legge til rette for pasientmedvirkning
+2. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg
+3. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse
+4. kan vurdere risiko for uønskede hendelser for pasient, pårørende og ansatte, samt kjenner til metoder for å følge opp dette systematisk.
 
 ### § 12. Kommunikasjon og samhandling, juridiske rammer og etikk – Generell kompetanse
 
-Kandidatenhar relasjons-, kommunikasjons- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende på tvers av faglige og kulturelle grenserkan formidle sentralt fagstoff og veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesserhar innsikt i og kan samhandle tverrfaglig, tverrprofesjonelt og tverrsektorielt på tvers av virksomheter og nivåer, og kan initiere slik samhandlingkan identifisere, reflektere over og håndtere etiske problemstillinger i sin tjenesteutøvelse i tråd med gjeldende lovverk og yrkesetiske retningslinjer.
+Kandidaten
+
+1. har relasjons-, kommunikasjons- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende på tvers av faglige og kulturelle grenser
+2. kan formidle sentralt fagstoff og veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser
+3. har innsikt i og kan samhandle tverrfaglig, tverrprofesjonelt og tverrsektorielt på tvers av virksomheter og nivåer, og kan initiere slik samhandling
+4. kan identifisere, reflektere over og håndtere etiske problemstillinger i sin tjenesteutøvelse i tråd med gjeldende lovverk og yrkesetiske retningslinjer.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet innovasjon, kunnskapsbasert praksis og digital kompetanse
 
 ### § 13. Innovasjon, kunnskapsbasert praksis og digital kompetanse – Kunnskap
 
-Kandidatenhar kunnskap om biostatistikk og epidemiologi; utbredelse, fordeling, årsak og utvikling av synsfeil og okulær patologi over tid i befolkningen, nasjonalt og globalthar kunnskap om oftalmiske bilde- og informasjonssystemer, sikker informasjonsoverføring og lagringkjenner til forsknings- og utviklingsarbeid innenfor eget og tilstøtende fagområderkjenner til digitalisering og automatisering av arbeidsoppgaver innen fagområdetkjenner til hvordan e-helsesystemer kan bidra til helsetjenester i egen praksis, lokalt og nasjonalt.
+Kandidaten
+
+1. har kunnskap om biostatistikk og epidemiologi; utbredelse, fordeling, årsak og utvikling av synsfeil og okulær patologi over tid i befolkningen, nasjonalt og globalt
+2. har kunnskap om oftalmiske bilde- og informasjonssystemer, sikker informasjonsoverføring og lagring
+3. kjenner til forsknings- og utviklingsarbeid innenfor eget og tilstøtende fagområder
+4. kjenner til digitalisering og automatisering av arbeidsoppgaver innen fagområdet
+5. kjenner til hvordan e-helsesystemer kan bidra til helsetjenester i egen praksis, lokalt og nasjonalt.
 
 ### § 14. Innovasjon, kunnskapsbasert praksis og digital kompetanse – Ferdigheter
 
-Kandidatenkan anvende kunnskapsbasert praksis som forutsetning for systematisk forbedringsarbeidkan reflektere over eget kompetansenivå, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksiskan finne, kritisk vurdere og henvise til informasjon og fagstoff fra forsknings- og utviklingsarbeid, og fremstille dette slik at det belyser en problemstillingkan beherske kommunikasjon over digital plattform, samt ivareta personvern og informasjonssikkerhet.
+Kandidaten
+
+1. kan anvende kunnskapsbasert praksis som forutsetning for systematisk forbedringsarbeid
+2. kan reflektere over eget kompetansenivå, tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis
+3. kan finne, kritisk vurdere og henvise til informasjon og fagstoff fra forsknings- og utviklingsarbeid, og fremstille dette slik at det belyser en problemstilling
+4. kan beherske kommunikasjon over digital plattform, samt ivareta personvern og informasjonssikkerhet.
 
 ### § 15. Innovasjon, kunnskapsbasert praksis og digital kompetanse – Generell kompetanse
 
-Kandidatenkan planlegge, dokumentere og formidle faglige synspunkter til pasienter og annet helsepersonell i tråd med kunnskapsbasert praksiskan planlegge og gjennomføre enkle prosjekter alene og sammen med andrehar innsikt i krav om konfidensialitet til prosessering, behandling og arkivering av pasientdatahar digital kompetanse og innsikt i digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivåkjenner til nytenkning og innovasjonsprosesser, og kan bidra til bærekraftig tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser.
+Kandidaten
+
+1. kan planlegge, dokumentere og formidle faglige synspunkter til pasienter og annet helsepersonell i tråd med kunnskapsbasert praksis
+2. kan planlegge og gjennomføre enkle prosjekter alene og sammen med andre
+3. har innsikt i krav om konfidensialitet til prosessering, behandling og arkivering av pasientdata
+4. har digital kompetanse og innsikt i digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå
+5. kjenner til nytenkning og innovasjonsprosesser, og kan bidra til bærekraftig tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser.
 
 ## Kapittel 6. Studiets oppbygning og praksisstudier
 

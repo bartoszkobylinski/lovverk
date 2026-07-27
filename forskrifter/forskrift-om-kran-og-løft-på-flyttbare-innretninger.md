@@ -15,7 +15,7 @@ xml_hash: "ceed2c0582e57efad7e26a605370aa2e875f1e27ff465d3913b671c88b3ec785"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,15 +30,33 @@ eu_basis: []
 
 ## § 2. Definisjoner
 
-I denne forskriften betyr«offshorekraner»: kraner som brukes til eksterne og interne løft på innretningen«dekkskraner»: kraner som kun brukes til interne løft på innretningen«anerkjent klasseselskap»: klasseselskap som departementet har inngått avtale med, jf. [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41) andre ledd«MOU-klasseselskap»: anerkjent klasseselskap som det er inngått tilleggsavtale med om å føre tilsyn med flyttbare innretninger. Disse klasseselskapene er:American Bureau of Shipping (ABS)DNVLloyd's Register of Shipping (LR).
+I denne forskriften betyr
+
+1. «offshorekraner»: kraner som brukes til eksterne og interne løft på innretningen
+2. «dekkskraner»: kraner som kun brukes til interne løft på innretningen
+3. «anerkjent klasseselskap»: klasseselskap som departementet har inngått avtale med, jf. [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41) andre ledd
+4. «MOU-klasseselskap»: anerkjent klasseselskap som det er inngått tilleggsavtale med om å føre tilsyn med flyttbare innretninger. Disse klasseselskapene er:
+
+   1. American Bureau of Shipping (ABS)
+   2. DNV
+   3. Lloyd's Register of Shipping (LR).
 
 > Endret ved forskrift [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
 ## § 3. Sakkyndig virksomhet type A-1 og sakkyndig person type B-1
 
-(1) Sakkyndig virksomhet type A-1 skal hatilstrekkelig kompetanse om kran, som omfatter hydraulikk, styrke og struktur, automasjon og elektronikkstyringssystemtilgang til relevant programvare for styrke- og strukturberegning, ogoppdaterte sjekklister og prosedyrer for kontroll av kraner.
+(1) Sakkyndig virksomhet type A-1 skal ha
 
-(2) Sakkyndig person type B-1 skal harelevant fagutdanningrelevant erfaring, ogoppdaterte sjekklister og prosedyrer for kontroll av kraner.
+1. tilstrekkelig kompetanse om kran, som omfatter hydraulikk, styrke og struktur, automasjon og elektronikk
+2. styringssystem
+3. tilgang til relevant programvare for styrke- og strukturberegning, og
+4. oppdaterte sjekklister og prosedyrer for kontroll av kraner.
+
+(2) Sakkyndig person type B-1 skal ha
+
+1. relevant fagutdanning
+2. relevant erfaring, og
+3. oppdaterte sjekklister og prosedyrer for kontroll av kraner.
 
 (3) Søknad om godkjenning etter første og andre ledd sendes til Sjøfartsdirektoratet.
 
@@ -60,11 +78,37 @@ I denne forskriften betyr«offshorekraner»: kraner som brukes til eksterne og i
 
 (4) Dokumentasjonen, inkludert historikk, i det elektroniske systemet skal være beskyttet mot overskriving, sletting og endringer.
 
-(5) Det elektroniske systemet skalha elektronisk signaturklart identifisere den som har utført kontroll og dokumentdatoha dataene lagret i en sikret database, ogha funksjon for gjenoppretting.
+(5) Det elektroniske systemet skal
+
+1. ha elektronisk signatur
+2. klart identifisere den som har utført kontroll og dokumentdato
+3. ha dataene lagret i en sikret database, og
+4. ha funksjon for gjenoppretting.
 
 ## § 6. Kranmanual
 
-Kraner skal ha en manual som gir informasjon omklargjøring for driftoppstartvedlikeholdreparasjonmodifikasjon og demontering av utstyr og systemerbegrensninger under normal drift og nødoperasjoner, slik somtillatt arbeidsbelastning (SWL)tillatt arbeidsmoment under statiske og dynamiske belastningermaksimal vindstyrkemaksimal krengningberegningstemperatur, ogbremsersikkerhetssystemerdiagrammer for elektrisk, hydraulisk og pneumatisk utstyrdelene som er utsatt for størst belastningsporbarhet på materialsveiseutførelseNDT-omfang, ogsertifisering.
+Kraner skal ha en manual som gir informasjon om
+
+1. klargjøring for drift
+2. oppstart
+3. vedlikehold
+4. reparasjon
+5. modifikasjon og demontering av utstyr og systemer
+6. begrensninger under normal drift og nødoperasjoner, slik som
+
+   1. tillatt arbeidsbelastning (SWL)
+   2. tillatt arbeidsmoment under statiske og dynamiske belastninger
+   3. maksimal vindstyrke
+   4. maksimal krengning
+   5. beregningstemperatur, og
+   6. bremser
+7. sikkerhetssystemer
+8. diagrammer for elektrisk, hydraulisk og pneumatisk utstyr
+9. delene som er utsatt for størst belastning
+10. sporbarhet på material
+11. sveiseutførelse
+12. NDT-omfang, og
+13. sertifisering.
 
 ## § 7. Sertifikater for kran og løst løfteutstyr
 
@@ -78,13 +122,19 @@ Kraner skal ha en manual som gir informasjon omklargjøring for driftoppstartved
 
 ## § 8. Konstruksjon av kraner
 
-(1) Offshorekraner skal konstrueres med et sikkerhetsnivå som samsvarer medEN 13852-1:2013 «Del 1: Offshorekraner til generell bruk» ellerDNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances». Alternativt kan en standard med tilsvarende sikkerhetsnivå fra et annet MOU-klasseselskap brukes.
+(1) Offshorekraner skal konstrueres med et sikkerhetsnivå som samsvarer med
+
+1. EN 13852-1:2013 «Del 1: Offshorekraner til generell bruk» eller
+2. DNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances». Alternativt kan en standard med tilsvarende sikkerhetsnivå fra et annet MOU-klasseselskap brukes.
 
 (2) Offshorekraner som er godkjent for personell-løft, skal ha nødkjøringsfunksjon som er tilgjengelig innen ett minutt.
 
 (3) Offshorekraner som det er inngått leveringsavtale for før 1. januar 2018, er unntatt kravet i andre ledd, men rederiet skal kunne dokumentere at personellsikkerheten likevel er ivaretatt.
 
-(4) Dekkskraner skal konstrueres etter en anerkjent standard utgitt avet MOU-klasseselskap, ellerNS/EN/BS/API/DIN/NFPA/ISO/CEN/IEC. Alternativt kan en standard utgitt av et tilsvarende standardiseringsorgan brukes.
+(4) Dekkskraner skal konstrueres etter en anerkjent standard utgitt av
+
+1. et MOU-klasseselskap, eller
+2. NS/EN/BS/API/DIN/NFPA/ISO/CEN/IEC. Alternativt kan en standard utgitt av et tilsvarende standardiseringsorgan brukes.
 
 (5) Trapper, leidere, rekkverk, adkomståpninger og ristverk på offshore- og dekkskraner skal være i samsvar med kravene i [forskrift 4. september 1987 nr. 856](forskrift/1987-09-04-856) om bygging av flyttbare innretninger [§ 14](forskrift/1987-09-04-856/§14).
 
@@ -96,7 +146,10 @@ Kraner skal ha en manual som gir informasjon omklargjøring for driftoppstartved
 
 ## § 10. Fibertau
 
-Fibertau som brukes i offshore- eller dekkskraner eller som løst løfteutstyr, skal samsvare medDNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances» kapittel 5.2.6, eller en standard med samme omfang og sikkerhetsnivå, ogkranleverandørens anbefaling og spesifikasjon.
+Fibertau som brukes i offshore- eller dekkskraner eller som løst løfteutstyr, skal samsvare med
+
+1. DNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances» kapittel 5.2.6, eller en standard med samme omfang og sikkerhetsnivå, og
+2. kranleverandørens anbefaling og spesifikasjon.
 
 ## § 11. Heiser
 
@@ -134,9 +187,15 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 ## § 16. Gjennomføring av førstegangskontroll av kraner
 
-(1) Offshorekraner skal førstegangskontrolleres aven sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, ellerdet MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+(1) Offshorekraner skal førstegangskontrolleres av
 
-(2) Dekkskraner skal førstegangskontrolleres aven sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, ellerdet MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.
+1. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, eller
+2. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+
+(2) Dekkskraner skal førstegangskontrolleres av
+
+1. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, eller
+2. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.
 
 (3) Sakkyndig virksomhet type A-1 som utfører førstegangskontroll etter første og andre ledd bokstav a, kan ikke være samme foretak som har produsert kranen.
 
@@ -148,7 +207,10 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 ## § 17. Omfanget av årlig kontroll av kraner
 
-Årlig kontroll av offshore- og dekkskraner skalutføres i samsvar med kranleverandørens retningslinjerminst omfatte funksjonsprøve av kranen og visuell kontroll med hensyn til strekk, slitasje, tæring og brudd- og sprekkdannelse.
+Årlig kontroll av offshore- og dekkskraner skal
+
+1. utføres i samsvar med kranleverandørens retningslinjer
+2. minst omfatte funksjonsprøve av kranen og visuell kontroll med hensyn til strekk, slitasje, tæring og brudd- og sprekkdannelse.
 
 ## § 18. Omfanget av femårlig kontroll av kraner
 
@@ -158,9 +220,15 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 ## § 19. Gjennomføring av årlig og femårlig kontroll av kraner
 
-(1) Årlig og femårlig kontroll av offshorekraner skal utføres aven sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, ellerdet MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+(1) Årlig og femårlig kontroll av offshorekraner skal utføres av
 
-(2) Årlig og femårlig kontroll av dekkskraner skal utføres aven sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, ellerdet MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.
+1. en sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, eller
+2. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+
+(2) Årlig og femårlig kontroll av dekkskraner skal utføres av
+
+1. en sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, eller
+2. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.
 
 (3) Rederiet skal forsikre seg om at den sakkyndige virksomheten type A-1 eller den sakkyndige personen type B-1 som utfører kontrollen etter første ledd bokstav a og andre ledd bokstav a, står oppført på Sjøfartsdirektoratet sin oversikt over godkjente sakkyndige virksomheter og personer.
 
@@ -170,9 +238,15 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 (1) Etter overbelastning av eller skade på offshore- og dekkskraner skal kranleverandøren sine retningslinjer for kontroll etter overbelastning eller skade følges. Med overbelastning menes overskridelse av SWL (relatert til R0 ) som definert i EN 13852-1: 2013 kapittel 3.29.
 
-(2) Offshorekraner skal etter overbelastning eller skade kontrolleres aven sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, ellerdet MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+(2) Offshorekraner skal etter overbelastning eller skade kontrolleres av
 
-(3) Dekkskraner skal etter overbelastning eller skade kontrolleres aven sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) tredje ledd bokstav b, ellerdet MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) tredje ledd bokstav a.
+1. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav a, eller
+2. det MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) første ledd bokstav b.
+
+(3) Dekkskraner skal etter overbelastning eller skade kontrolleres av
+
+1. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) tredje ledd bokstav b, eller
+2. det MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med [§ 8](forskrift/2017-12-21-2381/§8) tredje ledd bokstav a.
 
 (4) Rederiet skal forsikre seg om at den sakkyndige virksomheten type A-1 som utfører kontrollen etter andre ledd bokstav a og tredje ledd bokstav a, står oppført på Sjøfartsdirektoratet sin oversikt over godkjente sakkyndige virksomheter.
 
@@ -232,9 +306,15 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 (3) Løfteører skal kontrolleres før de brukes første gang og ved mistanke om svekket struktur eller innfestning på løfteørene.
 
-(4) Løfteører med SWL lik eller mindre enn tre tonn skal kontrolleres vedå vurdere dimensjoneringen på løfteøret, ogvisuell inspeksjon av løfteøret, struktur og innfestning. Stikkprøvebasert NDT skal utføres når dette vurderes som nødvendig.
+(4) Løfteører med SWL lik eller mindre enn tre tonn skal kontrolleres ved
 
-(5) Løfteører med SWL over tre tonn skal kontrolleres ved å gjennomførelasttester av alle løfteører og stikkprøvebasert NDT, ellerNDT av alle løfteører og stikkprøvebaserte lasttester.
+1. å vurdere dimensjoneringen på løfteøret, og
+2. visuell inspeksjon av løfteøret, struktur og innfestning. Stikkprøvebasert NDT skal utføres når dette vurderes som nødvendig.
+
+(5) Løfteører med SWL over tre tonn skal kontrolleres ved å gjennomføre
+
+1. lasttester av alle løfteører og stikkprøvebasert NDT, eller
+2. NDT av alle løfteører og stikkprøvebaserte lasttester.
 
 (6) Når lasttest av løfteører skal utføres, skal tabell 3 brukes.
 
@@ -266,11 +346,19 @@ Materialhåndtering til og fra innretningen og intern forflytning av last på in
 
 (2) Personell-løft skal kun utføres med kraner og løfteinnretninger sertifisert for personell-løft.
 
-(3) Personell-løft skal utføres etter NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 5 eller NORSOK R-003, revisjon 2, juli 2004, «Sikker bruk av løfteutstyr», kapittel 5. For overføring av personell til og fra innretningen gjelder i tillegg følgende:Overføringen skal bare skje når spesielle grunner gjør det nødvendig.Plattformsjefen skal i samråd med vernetjenesten godkjenne overføringen.Overføringen skal utføres innenfor værbegrensningene som følger av løfteutstyrets sertifikater. Når værbegrensninger ikke fremgår av sertifikat, skal NS-EN 13852-1:2013 punkt 7.2.5 følges.
+(3) Personell-løft skal utføres etter NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 5 eller NORSOK R-003, revisjon 2, juli 2004, «Sikker bruk av løfteutstyr», kapittel 5. For overføring av personell til og fra innretningen gjelder i tillegg følgende:
+
+1. Overføringen skal bare skje når spesielle grunner gjør det nødvendig.
+2. Plattformsjefen skal i samråd med vernetjenesten godkjenne overføringen.
+3. Overføringen skal utføres innenfor værbegrensningene som følger av løfteutstyrets sertifikater. Når værbegrensninger ikke fremgår av sertifikat, skal NS-EN 13852-1:2013 punkt 7.2.5 følges.
 
 ## § 26. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Rederiet godtgjør at kravet ikke er vesentlig og at unntaket er sikkerhetsmessig forsvarlig.Rederiet godtgjør at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Rederiet godtgjør at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:
+
+1. Rederiet godtgjør at kravet ikke er vesentlig og at unntaket er sikkerhetsmessig forsvarlig.
+2. Rederiet godtgjør at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Rederiet godtgjør at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Uttalelse fra vernetjenesten skal legges ved dispensasjonssøknaden.
 

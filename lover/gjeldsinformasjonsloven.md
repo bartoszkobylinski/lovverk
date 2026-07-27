@@ -15,7 +15,7 @@ xml_hash: "0ff9203c99e6cff52fbebd94364043e4ceef747e805b51905359ece571f752db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Lovens formål er å legge til rette for sikker, ordnet og effektiv registrering
 
 ### § 2. Definisjoner
 
-I denne lov menes med:gjeldsinformasjonsforetak: foretak med tillatelse etter loven her til å motta, innhente, registrere og utlevere gjeldsopplysninger,finansforetak: foretak som nevnt i [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3). Dette gjelder også utenlandske finansforetak som driver virksomhet gjennom filial i Norge, eller ved grensekryssende virksomhet, jf. [finansforetaksloven § 1-2](lov/2015-04-10-17/§1-2) annet ledd,kredittopplysningsforetak: foretak som driver kredittopplysningsvirksomhet i samsvar med [kredittopplysningsloven](lov/2019-12-20-109),gjeldsopplysning: opplysning om en enkeltpersons gjeld eller ubenyttet kredittramme, som ikke er sikret ved registrert panterett i formuesgode som tilhører vedkommende. Departementet kan i forskrift bestemme at gjeldsopplysning også skal omfatte pantesikret gjeld,kredittopplysning: meddelelse som belyser kredittverdighet eller økonomisk vederheftighet,kredittscore: en matematisk beregnet poengsum eller kode som beskriver en enkeltpersons risikoprofil som kredittkunde, og som brukes av kredittopplysningsforetak og finansforetak til å bedømme kredittverdighet.
+I denne lov menes med:
+
+1. gjeldsinformasjonsforetak: foretak med tillatelse etter loven her til å motta, innhente, registrere og utlevere gjeldsopplysninger,
+2. finansforetak: foretak som nevnt i [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3). Dette gjelder også utenlandske finansforetak som driver virksomhet gjennom filial i Norge, eller ved grensekryssende virksomhet, jf. [finansforetaksloven § 1-2](lov/2015-04-10-17/§1-2) annet ledd,
+3. kredittopplysningsforetak: foretak som driver kredittopplysningsvirksomhet i samsvar med [kredittopplysningsloven](lov/2019-12-20-109),
+4. gjeldsopplysning: opplysning om en enkeltpersons gjeld eller ubenyttet kredittramme, som ikke er sikret ved registrert panterett i formuesgode som tilhører vedkommende. Departementet kan i forskrift bestemme at gjeldsopplysning også skal omfatte pantesikret gjeld,
+5. kredittopplysning: meddelelse som belyser kredittverdighet eller økonomisk vederheftighet,
+6. kredittscore: en matematisk beregnet poengsum eller kode som beskriver en enkeltpersons risikoprofil som kredittkunde, og som brukes av kredittopplysningsforetak og finansforetak til å bedømme kredittverdighet.
 
 > Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [20 des 2019 nr. 109](lov/2019-12-20-109) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 872](forskrift/2022-05-20-872)).
 
@@ -40,7 +47,13 @@ I denne lov menes med:gjeldsinformasjonsforetak: foretak med tillatelse etter lo
 
 Virksomhet som gjeldsinformasjonsforetak kan bare drives av foretak med tillatelse fra departementet.
 
-Tillatelse kan bare gis dersom:foretakets eiere er egnet til å sikre en god, effektiv og forsvarlig forvaltning av foretaket,foretaket kan dokumentere evne til sikker, ordnet og effektiv utlevering og eventuell registrering av gjeldsopplysninger, ogforetaket er organisert som aksjeselskap eller allmennaksjeselskap og oppfyller de krav som stilles i [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven](lov/1997-06-13-45), i tillegg til kravene som følger av eller er gitt i medhold av loven her.Ved vurderingen av om foretakets eiere er egnet etter annet ledd bokstav a, skal det særlig legges vekt på eiernes alminnelige omdømme, faglige kompetanse, tidligere handlemåte, tilgjengelige økonomiske ressurser, hensynet til forsvarlig virksomhet samt muligheten til å utøve et effektivt tilsyn.
+Tillatelse kan bare gis dersom:
+
+1. foretakets eiere er egnet til å sikre en god, effektiv og forsvarlig forvaltning av foretaket,
+2. foretaket kan dokumentere evne til sikker, ordnet og effektiv utlevering og eventuell registrering av gjeldsopplysninger, og
+3. foretaket er organisert som aksjeselskap eller allmennaksjeselskap og oppfyller de krav som stilles i [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven](lov/1997-06-13-45), i tillegg til kravene som følger av eller er gitt i medhold av loven her.
+
+Ved vurderingen av om foretakets eiere er egnet etter annet ledd bokstav a, skal det særlig legges vekt på eiernes alminnelige omdømme, faglige kompetanse, tidligere handlemåte, tilgjengelige økonomiske ressurser, hensynet til forsvarlig virksomhet samt muligheten til å utøve et effektivt tilsyn.
 
 Det kan settes vilkår for tillatelsen.
 
@@ -52,7 +65,12 @@ Vedtak om tillatelse skal meddeles søkeren snarest mulig og senest innen seks m
 
 ### § 5. Endring og tilbakekall av tillatelse
 
-Departementet kan endre, sette nye vilkår for eller tilbakekalle tillatelsen til å drive virksomhet som gjeldsinformasjonsforetak dersom gjeldsinformasjonsforetaket:ikke gjør bruk av tillatelsen innen tolv måneder etter at tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen, eller har opphørt å drive virksomhet som gjeldsinformasjonsforetak i mer enn seks måneder,har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, ellerikke etterkommer pålegg gitt av Finanstilsynet.
+Departementet kan endre, sette nye vilkår for eller tilbakekalle tillatelsen til å drive virksomhet som gjeldsinformasjonsforetak dersom gjeldsinformasjonsforetaket:
+
+1. ikke gjør bruk av tillatelsen innen tolv måneder etter at tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen, eller har opphørt å drive virksomhet som gjeldsinformasjonsforetak i mer enn seks måneder,
+2. har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,
+3. foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, eller
+4. ikke etterkommer pålegg gitt av Finanstilsynet.
 
 ### § 6. Styre og ledelse
 
@@ -106,7 +124,12 @@ Departementet kan i forskrift gi nærmere regler om tilretteleggings- og registr
 
 ### § 12. Utlevering av gjeldsopplysninger fra gjeldsinformasjonsforetak
 
-Gjeldsinformasjonsforetak kan utlevere gjeldsopplysninger til:finansforetak, Husbanken og Statens pensjonskasse, når disse skal foreta kredittvurdering i forbindelse med en konkret kredittsøknad eller søknad om endring av vilkår på en løpende kreditt,kommune, i forbindelse med behandling av søknad om startlån eller søknad om endring av vilkår for innvilget startlån,kredittopplysningsforetak, når disse etter forespørsel fra kredittytere som nevnt i bokstav a og b skal foreta kredittvurdering, eller når disse skal utarbeide kredittscore etter forespørsel fra noen som har saklig behov for å innhente kredittopplysninger, ogden opplysningen gjelder.
+Gjeldsinformasjonsforetak kan utlevere gjeldsopplysninger til:
+
+1. finansforetak, Husbanken og Statens pensjonskasse, når disse skal foreta kredittvurdering i forbindelse med en konkret kredittsøknad eller søknad om endring av vilkår på en løpende kreditt,
+2. kommune, i forbindelse med behandling av søknad om startlån eller søknad om endring av vilkår for innvilget startlån,
+3. kredittopplysningsforetak, når disse etter forespørsel fra kredittytere som nevnt i bokstav a og b skal foreta kredittvurdering, eller når disse skal utarbeide kredittscore etter forespørsel fra noen som har saklig behov for å innhente kredittopplysninger, og
+4. den opplysningen gjelder.
 
 Gjeldsopplysninger som er nødvendige for utarbeidelse av kredittscoremodeller, kan utleveres til finansforetak og kredittopplysningsforetak.
 

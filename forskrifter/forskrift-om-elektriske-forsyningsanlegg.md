@@ -15,7 +15,7 @@ xml_hash: "b6689d8bf001a5e8a937c863b265c995019ce7c5f5b9004694d5a2ceae868ce7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,15 @@ Elektriske anlegg skal prosjekteres, utføres, driftes og vedlikeholdes slik at 
 
 Forskriften gjelder for prosjektering, utførelse, drift og vedlikehold av elektriske forsyningsanlegg. Dette omfatter elektriske anlegg med tilhørende bygninger for produksjon, omforming, overføring og fordeling av elektrisk energi, samt høyspenningsinstallasjoner i industribedrifter og lignende.
 
-Forskriften gjelder ikke for:elektriske lavspenningsinstallasjoner i andre bygg og annen industrielektrisk utstyr som tilbys eller omsettes til bruk i elektriske anleggelektriske anlegg om bord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende (maritime installasjoner)elektriske anlegg på innretninger for utnyttelse av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk jurisdiksjonelektriske anlegg på land for petroleumprosessanlegg som er omfattet av Havindustritilsynets forskrifterelektriske anlegg i luftfartøyerteleanlegg.
+Forskriften gjelder ikke for:
+
+- elektriske lavspenningsinstallasjoner i andre bygg og annen industri
+- elektrisk utstyr som tilbys eller omsettes til bruk i elektriske anlegg
+- elektriske anlegg om bord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende (maritime installasjoner)
+- elektriske anlegg på innretninger for utnyttelse av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk jurisdiksjon
+- elektriske anlegg på land for petroleumprosessanlegg som er omfattet av Havindustritilsynets forskrifter
+- elektriske anlegg i luftfartøyer
+- teleanlegg.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -60,7 +68,11 @@ Tilsynsmyndigheten kan ved særlige forhold gi dispensasjon fra denne forskrifte
 
 *Jordfeilstrøm:* strøm som går fra faseleder til jord eller jordede deler på feilstedet.
 
-For enpolet jordfeil er dette:i system med isolert nøytralpunkt den kapasitive jordfeilstrømmen *IC*i spolejorede system den resterende jordfeilstrømmen *IRes*i system med lavimpedansjording kortslutningstrømmen, fase til jord *I″kl*
+For enpolet jordfeil er dette:
+
+- i system med isolert nøytralpunkt den kapasitive jordfeilstrømmen *IC*
+- i spolejorede system den resterende jordfeilstrømmen *IRes*
+- i system med lavimpedansjording kortslutningstrømmen, fase til jord *I″kl*
 
 *Jording:* alle metoder og tiltak som gir en god ledende forbindelse til jord.
 
@@ -182,7 +194,12 @@ Eier/driver av anlegg skal til enhver tid oppbevare erklæring om samsvar og opp
 
 Før utførelse og endring av elektriske anlegg som er dekket av denne forskriften skal eier/driver melde disse til tilsynsmyndigheten.
 
-Følgende anlegg er unntatt fra meldeplikt:anlegg med områdekonsesjonflyttbare generatoranleggfaste generatoranlegg med ytelse under 30 kVAanlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning så fremt de ikke er plassert i eksplosjonsfarlige områder.
+Følgende anlegg er unntatt fra meldeplikt:
+
+- anlegg med områdekonsesjon
+- flyttbare generatoranlegg
+- faste generatoranlegg med ytelse under 30 kVA
+- anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning så fremt de ikke er plassert i eksplosjonsfarlige områder.
 
 ### § 3-4. Melding av ulykker/uhell
 
@@ -196,9 +213,13 @@ Eier/driver av et elektrisk anlegg skal snarest mulig melde til tilsynsmyndighet
 
 Bestemmelsene i dette kapittel gjelder for utførelse av høyspenningsinstallasjoner med nominell spenning over 1000 V vekselspenning og 1500 V likespenning.
 
-Unntatt fra bestemmelsene i dette kapittel er:luftlinjer.
+Unntatt fra bestemmelsene i dette kapittel er:
 
-Unntatt fra bestemmelsene i [§ 4-2](forskrift/2005-12-20-1626/§4-2), [§ 4-3](forskrift/2005-12-20-1626/§4-3), [§ 4-6](forskrift/2005-12-20-1626/§4-6) og [§ 4-11](forskrift/2005-12-20-1626/§4-11) er:jernbane.
+- luftlinjer.
+
+Unntatt fra bestemmelsene i [§ 4-2](forskrift/2005-12-20-1626/§4-2), [§ 4-3](forskrift/2005-12-20-1626/§4-3), [§ 4-6](forskrift/2005-12-20-1626/§4-6) og [§ 4-11](forskrift/2005-12-20-1626/§4-11) er:
+
+- jernbane.
 
 ### § 4-2. Isolasjon
 
@@ -294,9 +315,14 @@ Jordingssystem skal være dimensjonert og utført slik at det ved feilsituasjone
 
 Bestemmelsene i dette kapittel gjelder for utførelse av høyspenningsluftlinjer med nominell spenning over 1000 V vekselspenning og 1500 V likespenning.
 
-Unntatt fra bestemmelsene i dette kapittel er:elektriske installasjoner herunder transformatorer i master og luftlinjeinstallasjoner innenfor inngjerdet stasjonsområdebevegelige avspente ledninger i kontaktledningsanlegg for jernbane (lodd-, hydraulisk-, gass- eller fjæravspente ledninger).
+Unntatt fra bestemmelsene i dette kapittel er:
 
-Unntatt fra bestemmelsene i [§ 6-3](forskrift/2005-12-20-1626/§6-3) og [§ 6-7](forskrift/2005-12-20-1626/§6-7) er:fast avspente ledninger i anlegg for jernbane (mate-, forbigang-, forsterkning- og AT-ledninger).
+- elektriske installasjoner herunder transformatorer i master og luftlinjeinstallasjoner innenfor inngjerdet stasjonsområde
+- bevegelige avspente ledninger i kontaktledningsanlegg for jernbane (lodd-, hydraulisk-, gass- eller fjæravspente ledninger).
+
+Unntatt fra bestemmelsene i [§ 6-3](forskrift/2005-12-20-1626/§6-3) og [§ 6-7](forskrift/2005-12-20-1626/§6-7) er:
+
+- fast avspente ledninger i anlegg for jernbane (mate-, forbigang-, forsterkning- og AT-ledninger).
 
 ### § 6-2. Mekanisk dimensjonering
 
@@ -322,7 +348,13 @@ Master skal kunne identifiseres. Master skal være slik at de er vanskelig å kl
 
 ### § 6-7. Jordingssystem
 
-Jordingssystemet unntatt arbeidsjordinger skal konstrueres slik at:det gir personsikkerhet mot farlige berøringsspenninger, også ved høyeste jordfeilstrømskade på eiendom og utrustning forhindresdet dimensjoneres for å tåle termisk påkjenning fra feilstrømmerdet dimensjoneres for å tåle korrosjon og mekaniske påkjenninger i hele det elektriske anleggets levetiddet gir nødvendig driftspålitelighet av linjen.
+Jordingssystemet unntatt arbeidsjordinger skal konstrueres slik at:
+
+- det gir personsikkerhet mot farlige berøringsspenninger, også ved høyeste jordfeilstrøm
+- skade på eiendom og utrustning forhindres
+- det dimensjoneres for å tåle termisk påkjenning fra feilstrømmer
+- det dimensjoneres for å tåle korrosjon og mekaniske påkjenninger i hele det elektriske anleggets levetid
+- det gir nødvendig driftspålitelighet av linjen.
 
 ### § 6-8. Linjebefaring
 
@@ -334,7 +366,10 @@ Luftlinjer skal befares i nødvendig utstrekning for å kontrollere at de er i f
 
 Bestemmelsene i dette kapittel gjelder for mekanisk dimensjonering, isolasjon og avstander ved utførelse av lavspenningsluftlinjer med nominell spenning opp til og med 1000 V vekselspenning og 1500 V likespenning. For øvrig henvises til kapittel om elektriske installasjoner.
 
-Unntatt fra bestemmelsene i dette kapittel er:kjørestrømskinne- og kontaktledningsanlegg for sporvei og t-bane og lignendetransformatorinstallasjoner og bryterinstallasjoner.
+Unntatt fra bestemmelsene i dette kapittel er:
+
+- kjørestrømskinne- og kontaktledningsanlegg for sporvei og t-bane og lignende
+- transformatorinstallasjoner og bryterinstallasjoner.
 
 ### § 7-2. Mekanisk dimensjonering
 
@@ -406,7 +441,11 @@ Togvarmepost skal ha jordleder eller utjevningsforbindelse til det sporet den fo
 
 Bestemmelsene i dette kapittel gjelder for utførelse av faste tekniske installasjoner i tilknytning til elektriske sporveis-, t-baneanlegg og lignende med nominell spenning opp til og med 1000 V AC og 1500 V DC.
 
-Unntatt fra bestemmelsene i dette kapittel er:omformerstasjonertransformatorstasjonerlikeretterstasjoner.
+Unntatt fra bestemmelsene i dette kapittel er:
+
+- omformerstasjoner
+- transformatorstasjoner
+- likeretterstasjoner.
 
 ### § 9-2. Mekanisk dimensjonering
 

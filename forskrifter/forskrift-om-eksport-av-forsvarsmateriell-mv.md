@@ -84,15 +84,35 @@ Handel, formidling eller annen bistand ved salg av varer og teknologi som omfatt
 
 ### § 7. Lisensplikt for øvrige varer, teknologi og tjenester
 
-I tillegg til vedlegg til denne forskrift er eksport av følgende varer, teknologi og tjenester lisenspliktige:enhver vare, teknologi og tjenesteytelse der eksportøren er kjent med eller har grunn til å forstå at varen, teknologien eller tjenesten er eller kan være ment, helt eller delvis, for bruk i forbindelse med utvikling, produksjon, håndtering, drift, vedlikehold, lagring, deteksjon, identifikasjon eller spredning av kjemiske, biologiske eller kjernefysiske våpen eller andre kjernefysiske sprengelementer. Tilsvarende regler gjelder for eksport av enhver vare, teknologi eller tjeneste som kan benyttes til utvikling, produksjon, vedlikehold eller lagring av missiler som kan levere slike våpen,enhver vare, teknologi eller tjeneste til militær bruk til områder som er underlagt våpenembargo vedtatt av FNs sikkerhetsråd med hjemmel i [FN-paktens kapittel VII](traktat/1945-06-26-1/kapVII) eller andre tiltaksregimer Norge har sluttet seg til,enhver vare, teknologi og tjeneste til militær bruk til områder hvor det er krig, krig truer eller til land hvor det er borgerkrig.enhver vare, teknologi og tjeneste som direkte kan tjene til å utvikle en stats militære evne på en måte som ikke er forenlig med vesentlige norske sikkerhets- og forsvarsinteresser.
+I tillegg til vedlegg til denne forskrift er eksport av følgende varer, teknologi og tjenester lisenspliktige:
+
+1. enhver vare, teknologi og tjenesteytelse der eksportøren er kjent med eller har grunn til å forstå at varen, teknologien eller tjenesten er eller kan være ment, helt eller delvis, for bruk i forbindelse med utvikling, produksjon, håndtering, drift, vedlikehold, lagring, deteksjon, identifikasjon eller spredning av kjemiske, biologiske eller kjernefysiske våpen eller andre kjernefysiske sprengelementer. Tilsvarende regler gjelder for eksport av enhver vare, teknologi eller tjeneste som kan benyttes til utvikling, produksjon, vedlikehold eller lagring av missiler som kan levere slike våpen,
+2. enhver vare, teknologi eller tjeneste til militær bruk til områder som er underlagt våpenembargo vedtatt av FNs sikkerhetsråd med hjemmel i [FN-paktens kapittel VII](traktat/1945-06-26-1/kapVII) eller andre tiltaksregimer Norge har sluttet seg til,
+3. enhver vare, teknologi og tjeneste til militær bruk til områder hvor det er krig, krig truer eller til land hvor det er borgerkrig.
+4. enhver vare, teknologi og tjeneste som direkte kan tjene til å utvikle en stats militære evne på en måte som ikke er forenlig med vesentlige norske sikkerhets- og forsvarsinteresser.
 
 > Endret ved forskrift [2 okt 2024 nr. 2386](forskrift/2024-10-02-2386) (i kraft 1 nov 2024).
 
 ### § 8. Unntak fra lisensplikt
 
-Lisensplikten i [§ 3](forskrift/2013-06-19-718/§3), jf. [§ 4](forskrift/2013-06-19-718/§4)–[§ 7](forskrift/2013-06-19-718/§7), gjelder ikke for:varer oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og III i utenlandsk eie og som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med utstilling og demonstrasjon, eller som returneres til utlandet etter å ha vært midlertidig innført til Svalbard eller Jan Mayen i forbindelse med sivil forskningsaktivitet,redningsutstyr og oljevernutstyr som utføres i forbindelse med hjelpeaksjoner,skytevåpen, våpendeler og ammunisjon som utføres i henhold til [våpenloven](lov/2018-04-20-7), jf. [forskrift 7. mai 2021 nr. 1452 om våpen, skytevåpen, våpendelar og ammunisjon, kapittel 10](forskrift/2021-05-07-1452/kap10),varer som utføres til den europeiske romorganisasjonen ESA, eller en representant for denne, og som er strengt nødvendig for organisasjonens offisielle virksomhet. Unntaket gjelder bare for leveranser til ESAs medlemsland,varer oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og III som utelukkende er i transitt gjennom Norge, når avsender og mottaker befinner seg utenfor Norge. Det samme gjelder varer oppført på [vedlegg I](forskrift/2013-06-19-718/vedleggI) dersom både avsender og mottaker befinner seg innenfor EØS,varer, teknologi og tjenester til bruk på norsk kontinentalsokkel,varer, teknologi og tjenester til bruk om bord på norskeide skip under norsk flagg og norskeide luftfartøyer, i utenriksfart,forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av norsk forsvars- eller politimyndighet når varene skal benyttes av norske styrker i utlandet. Unntaket gjelder også for slike varer når de inngår i flernasjonal logistikkstøtte som nevnte myndigheter har inngått avtale om, eller som sendes ut for reparasjon, vedlikehold, oppdatering eller lignende, med retur til Norge. Forsvars- og politimyndighetene skal hvert år, innen 15. februar, sende rapport til Direktoratet for eksportkontroll og sanksjoner om all utførsel av forsvarsrelaterte varer som nevnt ovenfor i det foregående kalenderår,forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av et NATO-lands eller en EØS-stats forsvars- eller politimyndighet som er lagret i Norge eller som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med oppdrag, øvelse eller trening.offentlig tilgjengelig informasjon,det minimum av informasjon som er nødvendig for å søke om patent.
+Lisensplikten i [§ 3](forskrift/2013-06-19-718/§3), jf. [§ 4](forskrift/2013-06-19-718/§4)–[§ 7](forskrift/2013-06-19-718/§7), gjelder ikke for:
 
-Lisensplikten i [§§ 4](forskrift/2013-06-19-718/§4) til [6](forskrift/2013-06-19-718/§6) gjelder ikke forGrunnforskning.Universiteter, høyskoler, helseforetak, offentlige forskningsinstitutter og forskningsinstitutter som mottar statlig grunnbevilgning ved eksport av teknologi oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og [III](forskrift/2013-06-19-718/vedleggIII) som ytes her i landet til statsborgere av EØS- eller NATO-land.
+1. varer oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og III i utenlandsk eie og som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med utstilling og demonstrasjon, eller som returneres til utlandet etter å ha vært midlertidig innført til Svalbard eller Jan Mayen i forbindelse med sivil forskningsaktivitet,
+2. redningsutstyr og oljevernutstyr som utføres i forbindelse med hjelpeaksjoner,
+3. skytevåpen, våpendeler og ammunisjon som utføres i henhold til [våpenloven](lov/2018-04-20-7), jf. [forskrift 7. mai 2021 nr. 1452 om våpen, skytevåpen, våpendelar og ammunisjon, kapittel 10](forskrift/2021-05-07-1452/kap10),
+4. varer som utføres til den europeiske romorganisasjonen ESA, eller en representant for denne, og som er strengt nødvendig for organisasjonens offisielle virksomhet. Unntaket gjelder bare for leveranser til ESAs medlemsland,
+5. varer oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og III som utelukkende er i transitt gjennom Norge, når avsender og mottaker befinner seg utenfor Norge. Det samme gjelder varer oppført på [vedlegg I](forskrift/2013-06-19-718/vedleggI) dersom både avsender og mottaker befinner seg innenfor EØS,
+6. varer, teknologi og tjenester til bruk på norsk kontinentalsokkel,
+7. varer, teknologi og tjenester til bruk om bord på norskeide skip under norsk flagg og norskeide luftfartøyer, i utenriksfart,
+8. forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av norsk forsvars- eller politimyndighet når varene skal benyttes av norske styrker i utlandet. Unntaket gjelder også for slike varer når de inngår i flernasjonal logistikkstøtte som nevnte myndigheter har inngått avtale om, eller som sendes ut for reparasjon, vedlikehold, oppdatering eller lignende, med retur til Norge. Forsvars- og politimyndighetene skal hvert år, innen 15. februar, sende rapport til Direktoratet for eksportkontroll og sanksjoner om all utførsel av forsvarsrelaterte varer som nevnt ovenfor i det foregående kalenderår,
+9. forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av et NATO-lands eller en EØS-stats forsvars- eller politimyndighet som er lagret i Norge eller som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med oppdrag, øvelse eller trening.
+10. offentlig tilgjengelig informasjon,
+11. det minimum av informasjon som er nødvendig for å søke om patent.
+
+Lisensplikten i [§§ 4](forskrift/2013-06-19-718/§4) til [6](forskrift/2013-06-19-718/§6) gjelder ikke for
+
+1. Grunnforskning.
+2. Universiteter, høyskoler, helseforetak, offentlige forskningsinstitutter og forskningsinstitutter som mottar statlig grunnbevilgning ved eksport av teknologi oppført på [vedlegg II](forskrift/2013-06-19-718/vedleggII) og [III](forskrift/2013-06-19-718/vedleggIII) som ytes her i landet til statsborgere av EØS- eller NATO-land.
 
 > Endret ved forskrifter [30 juni 2014 nr. 898](forskrift/2014-06-30-898), [11 mai 2020 nr. 994](forskrift/2020-05-11-994), [6 mai 2021 nr. 1501](forskrift/2021-05-06-1501), [27 aug 2021 nr. 2674](forskrift/2021-08-27-2674), [2 okt 2024 nr. 2386](forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [20 aug 2025 nr. 1674](forskrift/2025-08-20-1674), [29 aug 2025 nr. 1757](forskrift/2025-08-29-1757).
 
@@ -108,7 +128,12 @@ Overføring av forsvarsrelaterte varer til mottakere i EØS kan kun skje på gru
 
 Generelle overføringslisenser for forsvarsrelaterte varer kunngjøres av Direktoratet for eksportkontroll og sanksjoner. Lisensene kan benyttes av leverandører i Norge etter forutgående registrering hos Direktoratet for eksportkontroll og sanksjoner. Generelle overføringslisenser gjelder bestemte varekategorier, til en kategori eller kategorier av mottakere i EØS og det kan settes særlige vilkår for lisensene.
 
-Generelle overføringslisenser kan benyttes dersom:mottakeren inngår i en EØS-stats væpnede styrker eller en offentlig oppdragsgiver på forsvarsområdet som foretar innkjøp som utelukkende skal brukes av en EØS-stats væpnede styrker eller,mottakeren er et foretak som er sertifisert i samsvar med [§ 13](forskrift/2013-06-19-718/§13) eller,overføringen gjøres med sikte på demonstrasjon, evaluering eller utstilling eller,overføringen gjøres med sikte på vedlikehold eller reparasjon, dersom mottakeren er den opprinnelige leverandøren av de forsvarsrelaterte varene.
+Generelle overføringslisenser kan benyttes dersom:
+
+1. mottakeren inngår i en EØS-stats væpnede styrker eller en offentlig oppdragsgiver på forsvarsområdet som foretar innkjøp som utelukkende skal brukes av en EØS-stats væpnede styrker eller,
+2. mottakeren er et foretak som er sertifisert i samsvar med [§ 13](forskrift/2013-06-19-718/§13) eller,
+3. overføringen gjøres med sikte på demonstrasjon, evaluering eller utstilling eller,
+4. overføringen gjøres med sikte på vedlikehold eller reparasjon, dersom mottakeren er den opprinnelige leverandøren av de forsvarsrelaterte varene.
 
 Slike lisenser kan for tilfellene c) og d) også benyttes ved retur fra Norge av forsvarsrelaterte varer mottatt ved tilsvarende lisens fra en annen EØS-stat.
 
@@ -124,7 +149,12 @@ Ved overføring av forsvarsrelaterte varer som ikke omfattes av en generell over
 
 Ved overføring av forsvarsrelaterte varer som ikke omfattes av en generell overføringslisens og en global overføringslisens ikke kan innvilges, kan Direktoratet for eksportkontroll og sanksjoner, etter skriftlig søknad fra leverandør i Norge, utferdige en individuell overføringslisens. Lisensen gjelder en spesifisert mengde forsvarsrelaterte varer til en mottaker i en EØS-stat i en eller flere sendinger.
 
-En individuell overføringslisens skal benyttes dersom:søknaden om overføringslisens er begrenset til en overføring,det er nødvendig for å beskytte Norges grunnleggende sikkerhetsinteresser, eller av hensyn til den offentlige orden,det er nødvendig for å overholde Norges internasjonale forpliktelser, ellerdet er tungtveiende grunner til å tro at leverandøren ikke vil være i stand til å oppfylle vilkårene for å få en global overføringslisens.
+En individuell overføringslisens skal benyttes dersom:
+
+1. søknaden om overføringslisens er begrenset til en overføring,
+2. det er nødvendig for å beskytte Norges grunnleggende sikkerhetsinteresser, eller av hensyn til den offentlige orden,
+3. det er nødvendig for å overholde Norges internasjonale forpliktelser, eller
+4. det er tungtveiende grunner til å tro at leverandøren ikke vil være i stand til å oppfylle vilkårene for å få en global overføringslisens.
 
 > Endret ved forskrift [22 nov 2024 nr. 2872](forskrift/2024-11-22-2872) (i kraft 1 jan 2025).
 
@@ -134,7 +164,14 @@ En individuell overføringslisens skal benyttes dersom:søknaden om overførings
 
 Direktoratet for eksportkontroll og sanksjoner kan, etter skriftlig søknad, sertifisere foretak etablert i Norge for mottak av forsvarsrelaterte varer under generelle overføringslisenser kunngjort av andre EØS-stater.
 
-Direktoratet for eksportkontroll og sanksjoner skal gjennom sertifiseringen vurdere det mottakende foretaks pålitelighet, særlig med hensyn til foretakets evne til å overholde eksportbegrensningene for forsvarsrelaterte produkter mottatt i henhold til en generell overføringslisens fra en annen EØS-stat. Ved vurderingen vil det særlig legges vekt på følgende kriterier:dokumentert erfaring fra forsvarsvirksomhet, der det særlig tas hensyn til foretakets historikk med hensyn til overholdelse av eksportrestriksjoner, eventuelle rettsavgjørelser i denne forbindelse, eventuelle tillatelser til å produsere eller markedsføre forsvarsrelaterte varer, og hvorvidt foretaket har erfarent lederpersonale,relevant industriell virksomhet i forbindelse med forsvarsrelaterte varer i EØS, særlig evne til system-/delsystemintegrasjon,særskilt utpeking av en overordnet leder som skal være personlig ansvarlig for overføringer og eksport,en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at foretaket vil iverksette alle nødvendige tiltak for å overholde og håndheve alle særlige vilkår knyttet til sluttbruk og eksport av hver bestanddel eller hver vare det har mottatt,en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at det med behørig aktsomhet, som svar på anmodninger og forespørsler fra Direktoratet for eksportkontroll og sanksjoner, vil fremskaffe detaljerte opplysninger om sluttbrukere eller sluttbruk av alle eksporterte varer som er overført eller mottatt i henhold til en overføringslisens fra en annen EØS-stat,en beskrivelse, kontrasignert av den overordnede lederen nevnt i bokstav c., av det interne programmet for sikring av samsvar med kravene eller av foretakets ledelsessystem for overføring eller eksport. I den nevnte beskrivelsen skal det gis nærmere opplysninger om de organisasjonsmessige, menneskelige og tekniske ressursene ledelsen rår over i forbindelse med overføringer og eksport, ansvarskjeden i foretaket, internkontrollrutiner, holdningsskapende tiltak og opplæring av personalet, fysiske og tekniske sikkerhetsordninger, journalføring og sporbarhet av overføringer og eksport.
+Direktoratet for eksportkontroll og sanksjoner skal gjennom sertifiseringen vurdere det mottakende foretaks pålitelighet, særlig med hensyn til foretakets evne til å overholde eksportbegrensningene for forsvarsrelaterte produkter mottatt i henhold til en generell overføringslisens fra en annen EØS-stat. Ved vurderingen vil det særlig legges vekt på følgende kriterier:
+
+1. dokumentert erfaring fra forsvarsvirksomhet, der det særlig tas hensyn til foretakets historikk med hensyn til overholdelse av eksportrestriksjoner, eventuelle rettsavgjørelser i denne forbindelse, eventuelle tillatelser til å produsere eller markedsføre forsvarsrelaterte varer, og hvorvidt foretaket har erfarent lederpersonale,
+2. relevant industriell virksomhet i forbindelse med forsvarsrelaterte varer i EØS, særlig evne til system-/delsystemintegrasjon,
+3. særskilt utpeking av en overordnet leder som skal være personlig ansvarlig for overføringer og eksport,
+4. en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at foretaket vil iverksette alle nødvendige tiltak for å overholde og håndheve alle særlige vilkår knyttet til sluttbruk og eksport av hver bestanddel eller hver vare det har mottatt,
+5. en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at det med behørig aktsomhet, som svar på anmodninger og forespørsler fra Direktoratet for eksportkontroll og sanksjoner, vil fremskaffe detaljerte opplysninger om sluttbrukere eller sluttbruk av alle eksporterte varer som er overført eller mottatt i henhold til en overføringslisens fra en annen EØS-stat,
+6. en beskrivelse, kontrasignert av den overordnede lederen nevnt i bokstav c., av det interne programmet for sikring av samsvar med kravene eller av foretakets ledelsessystem for overføring eller eksport. I den nevnte beskrivelsen skal det gis nærmere opplysninger om de organisasjonsmessige, menneskelige og tekniske ressursene ledelsen rår over i forbindelse med overføringer og eksport, ansvarskjeden i foretaket, internkontrollrutiner, holdningsskapende tiltak og opplæring av personalet, fysiske og tekniske sikkerhetsordninger, journalføring og sporbarhet av overføringer og eksport.
 
 > Endret ved forskrifter [30 juni 2014 nr. 898](forskrift/2014-06-30-898), [22 nov 2024 nr. 2872](forskrift/2024-11-22-2872) (i kraft 1 jan 2025).
 
@@ -158,7 +195,15 @@ Direktoratet for eksportkontroll og sanksjoner vil minst hvert tredje år kontro
 
 ### § 16. Registrering
 
-Leverandøren skal føre et detaljert og fullstendig register over eksport av forsvarsrelaterte varer oppført på liste I som utgjør vedlegg til denne forskrift. Registeret skal inneholde dokumenter med følgende opplysninger:en beskrivelse av varen og dens referanse til liste I,mengde og verdi,overføringsdatoer,leverandørens og mottakerens navn og adresse,dersom det er kjent eller påkrevet etter [§ 24](forskrift/2013-06-19-718/§24), sluttbruken og sluttbrukeren av varen,dokumentasjon på at opplysninger vedrørende eksportbegrensninger er oversendt mottakeren,tolldeklarasjon med ekspedisjons- og løpenummer.
+Leverandøren skal føre et detaljert og fullstendig register over eksport av forsvarsrelaterte varer oppført på liste I som utgjør vedlegg til denne forskrift. Registeret skal inneholde dokumenter med følgende opplysninger:
+
+1. en beskrivelse av varen og dens referanse til liste I,
+2. mengde og verdi,
+3. overføringsdatoer,
+4. leverandørens og mottakerens navn og adresse,
+5. dersom det er kjent eller påkrevet etter [§ 24](forskrift/2013-06-19-718/§24), sluttbruken og sluttbrukeren av varen,
+6. dokumentasjon på at opplysninger vedrørende eksportbegrensninger er oversendt mottakeren,
+7. tolldeklarasjon med ekspedisjons- og løpenummer.
 
 ### § 17. Rapportering
 

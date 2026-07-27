@@ -15,7 +15,7 @@ xml_hash: "21ab026ad8f6e3c5d2e18faaed9996f6c7052e7770b30f0e58da7df443c96d45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Forskriften gjelder innredning, rekreasjonstilbud, kost og forpleining for de som har sitt arbeid på norskepassasjerskiplasteskiplektere som på grunn av sin operasjon har personell om bord som utfører oppgaver utover operasjoner knyttet til fortøyning eller klargjøring til slep.
+(1) Forskriften gjelder innredning, rekreasjonstilbud, kost og forpleining for de som har sitt arbeid på norske
+
+1. passasjerskip
+2. lasteskip
+3. lektere som på grunn av sin operasjon har personell om bord som utfører oppgaver utover operasjoner knyttet til fortøyning eller klargjøring til slep.
 
 (2) Forskriften gjelder ikke for skip som er omfattet av [forskrift 17. juni 2014 nr. 768](forskrift/2014-06-17-768) om særlige regler for skip som er vernet eller fredet og fører flere enn 12 passasjerer eller [forskrift 23. januar 2020 nr. 69](forskrift/2020-01-23-69) om åpne treskip som fører flere enn 12 passasjerer.
 
@@ -34,19 +38,33 @@ eu_basis: []
 
 ### § 2. Nye krav til skip bygget før 1. november 1992
 
-(1) Skip med bruttotonnasje mellom 50 og 500, hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 1. november 1992, kan pålegges å oppfylle bestemmelsene i forskriften her vedombyggingstørre reparasjon der innredningen berøresutilstrekkelig innredning.
+(1) Skip med bruttotonnasje mellom 50 og 500, hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 1. november 1992, kan pålegges å oppfylle bestemmelsene i forskriften her ved
+
+1. ombygging
+2. større reparasjon der innredningen berøres
+3. utilstrekkelig innredning.
 
 (2) Et vedtak om pålegg etter første ledd kan bare treffes etter en konkret vurdering av sikkerheten om bord, ut fra skipets generelle byggetekniske utførelse, utstyr, arrangement og tilstand.
 
 ### § 3. Definisjoner
 
-I forskriften betyr:«drikkevann»: vann til drikke, matlaging og personlig hygiene«hvilerom»: pauserom som bare er til bruk for de som har sitt arbeid om bord«innredning»: oppholdsrom, soverom, kontorer, radiorom, korridorer, sanitærrom, sykerom, bysse, proviant-, kjøle- og fryserom, hvilerom mv.«offiser»: andre offiserer enn skipsføreren, som er offiserer etter den til enhver tid gjeldende forskrift om kvalifikasjonskrav og sertifikater for sjøfolk, og som har denne stillingsbetegnelsen om bord«oppholdsrom»: saler, spiserom, salonger, dagrom og lignende permanent innelukkede rom«spesialskip»: lasteskip som er sertifisert etter IMO Code of Safety for Special Purpose Ships.
+I forskriften betyr:
+
+1. «drikkevann»: vann til drikke, matlaging og personlig hygiene
+2. «hvilerom»: pauserom som bare er til bruk for de som har sitt arbeid om bord
+3. «innredning»: oppholdsrom, soverom, kontorer, radiorom, korridorer, sanitærrom, sykerom, bysse, proviant-, kjøle- og fryserom, hvilerom mv.
+4. «offiser»: andre offiserer enn skipsføreren, som er offiserer etter den til enhver tid gjeldende forskrift om kvalifikasjonskrav og sertifikater for sjøfolk, og som har denne stillingsbetegnelsen om bord
+5. «oppholdsrom»: saler, spiserom, salonger, dagrom og lignende permanent innelukkede rom
+6. «spesialskip»: lasteskip som er sertifisert etter IMO Code of Safety for Special Purpose Ships.
 
 ## Kapittel 2. Felles bestemmelser om dokumentasjon og innredningen
 
 ### § 4. Virkeområde for kapittel 2
 
-Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller seneremed bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 20. august 2013.
+Paragrafene 5 til 16 gjelder for skip
+
+1. hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere
+2. med bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 20. august 2013.
 
 ### § 5. Adressat og tidsfrister for dokumentasjon
 
@@ -60,7 +78,11 @@ Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et 
 
 ### § 6. Krav til dokumentasjon
 
-(1) For å dokumentere at kravene i forskriften her er oppfylt, skal rederiet sende inn følgende dokumentasjon for nybygg:generalarrangementstegning i plan og profilskalerte innredningstegninger som klart viser plasseringen av innredningen, arealet av soverom, oppholdsrom og områder på åpent dekk med adgang for de som har sitt arbeid om bord, og størrelsen på køyer og skap i soveromtegning av ventilasjonsarrangementet i innredningen med tilhørende beskrivelse av anleggets tekniske hoveddata. Oppvarmings- og kjølekapasitet skal være angitt for klimaanlegg.
+(1) For å dokumentere at kravene i forskriften her er oppfylt, skal rederiet sende inn følgende dokumentasjon for nybygg:
+
+1. generalarrangementstegning i plan og profil
+2. skalerte innredningstegninger som klart viser plasseringen av innredningen, arealet av soverom, oppholdsrom og områder på åpent dekk med adgang for de som har sitt arbeid om bord, og størrelsen på køyer og skap i soverom
+3. tegning av ventilasjonsarrangementet i innredningen med tilhørende beskrivelse av anleggets tekniske hoveddata. Oppvarmings- og kjølekapasitet skal være angitt for klimaanlegg.
 
 (2) Ved større forandringer i innredningen skal tegninger over planlagte forandringer sendes inn i samsvar med første ledd. Ved mindre ominnredninger er det tilstrekkelig å sende inn generalarrangementstegning og tegninger av forandringene som skal gjøres.
 
@@ -90,7 +112,10 @@ Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et 
 
 (5) For passasjerskip med bruttotonnasje 50 eller mer kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate at innredningen plasseres slik at dørken i innredningen ligger inntil 1 meter under sommerlastemerket i liten kystfart og større fartsområder, og inntil 1,20 meter under sommerlastemerket i mindre fartsområder enn liten kystfart.
 
-(6) På lasteskip med bruttotonnasje under 500 i fartsområde liten kystfart eller mindre, tillater Sjøfartsdirektoratet at dørken i innredningen plasseres inntil 2 meter under sommerlastemerket når innredningen harto rømningsveier som til enhver tid er tilgjengeligeet tilstrekkelig antall lensealarmer med lydstyrke til å vekke sovende personell ved eventuell vanninntrenging.
+(6) På lasteskip med bruttotonnasje under 500 i fartsområde liten kystfart eller mindre, tillater Sjøfartsdirektoratet at dørken i innredningen plasseres inntil 2 meter under sommerlastemerket når innredningen har
+
+1. to rømningsveier som til enhver tid er tilgjengelige
+2. et tilstrekkelig antall lensealarmer med lydstyrke til å vekke sovende personell ved eventuell vanninntrenging.
 
 (7) På spesialskip kan innredningen plasseres under lastelinjen hvis det er tilfredsstillende lys og ventilasjon, men ikke i noe tilfelle rett under områder med mye støy.
 
@@ -120,7 +145,11 @@ Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et 
 
 (8) Skip skal ha reservemateriell til ventilasjonsanlegg om bord, som skal være i samsvar med anbefaling fra ventilasjonsanleggets produsent eller leverandør.
 
-(9) På skip som har sertifikat for europeisk fart, eller som har sertifikat for uinnskrenket fartsområde og seiler mellom 40° N og 40° S, skal soverom og oppholdsrom utstyres med klimaanlegg dimensjonert etter følgende krav:Det skal kunne oppnås en innetemperatur på 27 °C med ca. 50 % relativ fuktighet ved en utetemperatur på 35 °C med ca. 70 % relativ fuktighet. Det skal ikke benyttes mer enn 50 % returluft.Anleggets kjølemaskineri og luftkjølere skal være tilpasset slik at en innetemperatur på 24 °C med ca. 50 % fuktighet skal kunne oppnås ved en utetemperatur på 28 °C med ca. 80 % relativ fuktighet.Kravene i bokstav a og b skal kunne oppnås basert på den friskluftmengde som er angitt i femte ledd.
+(9) På skip som har sertifikat for europeisk fart, eller som har sertifikat for uinnskrenket fartsområde og seiler mellom 40° N og 40° S, skal soverom og oppholdsrom utstyres med klimaanlegg dimensjonert etter følgende krav:
+
+1. Det skal kunne oppnås en innetemperatur på 27 °C med ca. 50 % relativ fuktighet ved en utetemperatur på 35 °C med ca. 70 % relativ fuktighet. Det skal ikke benyttes mer enn 50 % returluft.
+2. Anleggets kjølemaskineri og luftkjølere skal være tilpasset slik at en innetemperatur på 24 °C med ca. 50 % fuktighet skal kunne oppnås ved en utetemperatur på 28 °C med ca. 80 % relativ fuktighet.
+3. Kravene i bokstav a og b skal kunne oppnås basert på den friskluftmengde som er angitt i femte ledd.
 
 (10) Skip som har sertifikat for fartsområder der det ikke kreves klimaanlegg, skal ha mekanisk ventilasjon.
 
@@ -148,7 +177,10 @@ Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et 
 
 (4) Når det er mer enn ett toalett i rommet, skal hvert toalett skjermes og utstyres med dør. Det samme gjelder for toaletter i vaske- og tørkerom og felles sanitærrom. Toalettskålene skal ha sete og et effektivt spylesystem.
 
-(5) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antall toaletter som kreves, påpassasjerskip som normalt brukes til reiser som varer mindre enn fire timerskip bygget før 20. august 2013 når det er flere enn 100 personer som har sitt arbeid om bord.
+(5) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antall toaletter som kreves, på
+
+1. passasjerskip som normalt brukes til reiser som varer mindre enn fire timer
+2. skip bygget før 20. august 2013 når det er flere enn 100 personer som har sitt arbeid om bord.
 
 ### § 12. Sykerom
 
@@ -182,11 +214,27 @@ Paragrafene 5 til 16 gjelder for skiphvis kjøl er strukket eller som er på et 
 
 (8) Det skal være separate kontorer eller ett felles skipskontor til bruk for dekks- og maskinavdelingene på skip med bruttotonnasje 3000 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 20. august 2013, og på alle skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere. På skip med bruttotonnasje under 3000 hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate unntak fra kravet etter konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner. Spesielle grunner må gjøre unntaket nødvendig, og det må være sikkerhetsmessig forsvarlig.
 
-(9) På skip med bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn fra og med 1. november 1992 frem til 20. august 2013, skal det være dagrom. Dagrom skal ligge bekvemt til og være utstyrt slik at de er egnet for rekreasjon. Minst ett dagrom skal som et minstemål ha bokhylle, lesestoff, skriveutstyr, og eventuelt spill. På skip med bruttotonnasje 8000 eller mer, skal det i tillegg være et hobby- og spillerom og et rom eller bibliotek der det kan vises film eller tv, og anskaffelse av svømmebasseng skal vurderes. Rederiet skal også:iverksette tiltak for å sikre at videresending av post skjer så raskt og pålitelig som muligvurdere tiltak som sikrer at de som har sitt arbeid om bord, raskt kan få tillatelse til å få sin partner, slektninger og venner på besøk om bord når skipet ligger i havnvurdere om de som har sitt arbeid om bord, iblant kan få ha sin partner med på sjøreiser.
+(9) På skip med bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn fra og med 1. november 1992 frem til 20. august 2013, skal det være dagrom. Dagrom skal ligge bekvemt til og være utstyrt slik at de er egnet for rekreasjon. Minst ett dagrom skal som et minstemål ha bokhylle, lesestoff, skriveutstyr, og eventuelt spill. På skip med bruttotonnasje 8000 eller mer, skal det i tillegg være et hobby- og spillerom og et rom eller bibliotek der det kan vises film eller tv, og anskaffelse av svømmebasseng skal vurderes. Rederiet skal også:
 
-(10) På skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere, skal rederietsørge for at rekreasjonstilbudene om bord oppfyller kravene i niende leddforeta løpende vurderinger av rekreasjonstilbud som er listet opp i paragrafen her, for å sikre at de er i samsvar med tekniske, driftsmessige og andre endringer i skipsfartsnæringen som kan medføre endret behov for de som har sitt arbeid om bordha skriftlig dokumentasjon på vurderingen av rekreasjonstilbud etter bokstav b, som skal være tilgjengelig for kontroll om bord.
+1. iverksette tiltak for å sikre at videresending av post skjer så raskt og pålitelig som mulig
+2. vurdere tiltak som sikrer at de som har sitt arbeid om bord, raskt kan få tillatelse til å få sin partner, slektninger og venner på besøk om bord når skipet ligger i havn
+3. vurdere om de som har sitt arbeid om bord, iblant kan få ha sin partner med på sjøreiser.
 
-(11) På skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere, skal følgende gratis rekreasjonstilbud vurderes der det lar seg gjøre:tv-visning og mottak av radiosendingeridrettsutstyr, herunder trimutstyr, bordspill og dekksspillsvømmebassenget bibliotek med fagrelaterte og andre bøker, med tilstrekkelig beholdning for hele reisens varighet, og med utskiftning med rimelige mellomromutstyr for håndverksaktiviteter til rekreasjonsformålelektronisk utstyr, slik som radio, tv, videoopptakere, DVD-/CD-spiller og personlig datamaskin med programvarerimelig adgang til telekommunikasjon mellom skip og land, samt e-post og internettilkobling der det er tilgjengelig, eventuelt med brukeravgifter på et rimelig nivå.
+(10) På skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere, skal rederiet
+
+1. sørge for at rekreasjonstilbudene om bord oppfyller kravene i niende ledd
+2. foreta løpende vurderinger av rekreasjonstilbud som er listet opp i paragrafen her, for å sikre at de er i samsvar med tekniske, driftsmessige og andre endringer i skipsfartsnæringen som kan medføre endret behov for de som har sitt arbeid om bord
+3. ha skriftlig dokumentasjon på vurderingen av rekreasjonstilbud etter bokstav b, som skal være tilgjengelig for kontroll om bord.
+
+(11) På skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere, skal følgende gratis rekreasjonstilbud vurderes der det lar seg gjøre:
+
+1. tv-visning og mottak av radiosendinger
+2. idrettsutstyr, herunder trimutstyr, bordspill og dekksspill
+3. svømmebasseng
+4. et bibliotek med fagrelaterte og andre bøker, med tilstrekkelig beholdning for hele reisens varighet, og med utskiftning med rimelige mellomrom
+5. utstyr for håndverksaktiviteter til rekreasjonsformål
+6. elektronisk utstyr, slik som radio, tv, videoopptakere, DVD-/CD-spiller og personlig datamaskin med programvare
+7. rimelig adgang til telekommunikasjon mellom skip og land, samt e-post og internettilkobling der det er tilgjengelig, eventuelt med brukeravgifter på et rimelig nivå.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -262,7 +310,11 @@ Paragrafene 18 til 25 gjelder for skip hvis kjøl er strukket eller som er på e
 
 (4) Kravet til naturlig lys er tilfredsstilt når hvert rom har én eller flere lysventiler med en samlet glassflate på minst 0,14 m2 .
 
-(5) Kunstig belysning skal tilfredsstille følgende krav:Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.Ved måling av gjennomsnittlig belysning i et rom skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt naturlig lys være avskjermet. Det skal tas målinger midt i rommet og i hvert hjørne. Målingene skal foretas 1 meter over dørken.Når innredningen er plassert slik at det ikke er naturlig lys, skal det være tilstrekkelig kunstig lys.
+(5) Kunstig belysning skal tilfredsstille følgende krav:
+
+1. Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.
+2. Ved måling av gjennomsnittlig belysning i et rom skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt naturlig lys være avskjermet. Det skal tas målinger midt i rommet og i hvert hjørne. Målingene skal foretas 1 meter over dørken.
+3. Når innredningen er plassert slik at det ikke er naturlig lys, skal det være tilstrekkelig kunstig lys.
 
 (6) På skip som har en generator som bare er tilknyttet hovedmotor, skal innredningen, korridorer og trappeoppganger i tillegg utstyres med tilstrekkelig lys ved strøm fra batterier (nødlys). Det elektriske lysanlegget skal kunne settes i drift når de som har sitt arbeid om bord, bor eller arbeider på skipet. Når skipet ligger i havn med personer om bord, eller det kan forventes ferdsel til og fra skipet, skal kunstig belysning opprettholdes ved hjelp av skipets kraftkilde eller landtilkobling.
 
@@ -272,13 +324,28 @@ Paragrafene 18 til 25 gjelder for skip hvis kjøl er strukket eller som er på e
 
 (2) På skip med bruttotonnasje 100 eller mer, skal skipsføreren, maskinsjefen og dekkssjefen ha hvert sitt soverom med vaskeservant med kaldt og varmt drikkevann.
 
-(3) På passasjerskip kan inntil fire personer dele soverom hvis følgende vilkår er oppfylt:I soverom for to personer går personene motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene. I soverom for tre eller fire personer er det lagt til rette for at maksimalt to personer sover samtidig.Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
+(3) På passasjerskip kan inntil fire personer dele soverom hvis følgende vilkår er oppfylt:
 
-(4) På lasteskip med lengde (L) under 24 meter er det tillatt atdet ikke monteres vaskeservant i soverom som har en umiddelbar nærhet til baderom eller toalett som bare er til bruk for de som har sitt arbeid om bordto personer deler soverom hvis følgende vilkår er oppfylt:Personene går motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene.Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
+1. I soverom for to personer går personene motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene. I soverom for tre eller fire personer er det lagt til rette for at maksimalt to personer sover samtidig.
+2. Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.
+3. Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
+
+(4) På lasteskip med lengde (L) under 24 meter er det tillatt at
+
+1. det ikke monteres vaskeservant i soverom som har en umiddelbar nærhet til baderom eller toalett som bare er til bruk for de som har sitt arbeid om bord
+2. to personer deler soverom hvis følgende vilkår er oppfylt:
+
+   1. Personene går motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene.
+   2. Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.
+   3. Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
 
 (5) På lasteskip med bruttotonnasje under 3000 kan Sjøfartsdirektoratet etter søknad fra rederiet, og etter å ha gjennomført konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner, tillate at to personer deler soverom. Spesielle grunner må gjøre unntaket nødvendig, og det må være sikkerhetsmessig forsvarlig.
 
-(6) På spesialskip kan to personer dele soverom hvis rederiet sender inn dokumentasjon til Sjøfartsdirektoratet som viser at følgende vilkår er oppfylt:Personene går motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene.Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
+(6) På spesialskip kan to personer dele soverom hvis rederiet sender inn dokumentasjon til Sjøfartsdirektoratet som viser at følgende vilkår er oppfylt:
+
+1. Personene går motsatte vakter, slik at den som ikke er på vakt kan ha soverommet alene.
+2. Personen som er på vakt, har tilgang til privat dagrom eller tilsvarende ekstraareal med komfortabel sitteplass.
+3. Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt, har enerom.
 
 (7) På spesialskip kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate at inntil fire personer deler soverom etter konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner. Spesielle grunner må gjøre unntaket nødvendig, og det må være sikkerhetsmessig forsvarlig.
 
@@ -354,7 +421,11 @@ Paragrafene 18 til 25 gjelder for skip hvis kjøl er strukket eller som er på e
 
 (1) Det skal være minst én vaskeservant og én dusj eller ett badekar for hver sjette person eller færre som ikke har privat baderom i samsvar med annet ledd.
 
-(2) Kravene i bokstav a til c gjelder i tillegg til kravet i første ledd:På skip med bruttotonnasje 5000 eller mer, men under 15 000, skal enerommene til minst fem offiserer ha privat baderom. Vaskeservanten kan være i soverommet. På skip med bruttotonnasje 10 000 eller mer, men under 15 000, skal det være private baderom tilknyttet alle soverom for offiserer eller felles baderom for to offiserer, som ligger mellom offiserenes soverom.På skip med bruttotonnasje 15 000 eller mer, skal enerommene til offiserene ha privat baderom.Skip med bruttotonnasje 25 000 eller mer, unntatt passasjerskip, skal ha ett baderom for hver annen person av de som har sitt arbeid om bord, ikke medregnet skipsføreren og andre offiserer. Baderommet skal ligge mellom to soverom eller overfor inngangen til soverommene.
+(2) Kravene i bokstav a til c gjelder i tillegg til kravet i første ledd:
+
+1. På skip med bruttotonnasje 5000 eller mer, men under 15 000, skal enerommene til minst fem offiserer ha privat baderom. Vaskeservanten kan være i soverommet. På skip med bruttotonnasje 10 000 eller mer, men under 15 000, skal det være private baderom tilknyttet alle soverom for offiserer eller felles baderom for to offiserer, som ligger mellom offiserenes soverom.
+2. På skip med bruttotonnasje 15 000 eller mer, skal enerommene til offiserene ha privat baderom.
+3. Skip med bruttotonnasje 25 000 eller mer, unntatt passasjerskip, skal ha ett baderom for hver annen person av de som har sitt arbeid om bord, ikke medregnet skipsføreren og andre offiserer. Baderommet skal ligge mellom to soverom eller overfor inngangen til soverommene.
 
 (3) Baderom skal ha vaskeservant og dusj eller badekar. Alle baderom skal ha kaldt og varmt drikkevann. I private baderom skal det også være toalett.
 
@@ -364,7 +435,10 @@ Paragrafene 18 til 25 gjelder for skip hvis kjøl er strukket eller som er på e
 
 (6) Skip skal ha atskilte baderom for kvinner og menn. Skip i innenriksfart med inntil seks personer som har sitt arbeid om bord, kan ha ett felles baderom for kvinner og menn.
 
-(7) Skip med bruttotonnasje 1600 eller mer, som ikke har private soverom og private baderom for hele maskinrompersonalet, skal ha et omkledningsrom som skalvære plassert utenfor maskinrommet, men med lett tilgang ditha dusj eller badekar, og vaskeservanter med kaldt og varmt drikkevann.
+(7) Skip med bruttotonnasje 1600 eller mer, som ikke har private soverom og private baderom for hele maskinrompersonalet, skal ha et omkledningsrom som skal
+
+1. være plassert utenfor maskinrommet, men med lett tilgang dit
+2. ha dusj eller badekar, og vaskeservanter med kaldt og varmt drikkevann.
 
 (8) På passasjerskip som normalt brukes til reiser som varer mindre enn fire timer, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antallet av de innretninger som kreves etter paragrafen her.
 
@@ -420,7 +494,12 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (4) Kravet til naturlig lys er tilfredsstilt når hvert rom har én eller flere lysventiler med en samlet glassflate på minst 0,14 m2 .
 
-(5) Kunstig belysning skal tilfredsstille følgende krav:Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.Det skal være tilstrekkelig belysning til at nødvendige gjøremål kan utføres.Ved måling av gjennomsnittlig belysning i et rom, skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt naturlig lys være avskjermet. Det skal tas målinger midt i rommet og i hvert hjørne. Målingene skal foretas 1 meter over dørken.Når innredningen er plassert slik at det ikke er naturlig lys, skal det være tilstrekkelig kunstig lys.
+(5) Kunstig belysning skal tilfredsstille følgende krav:
+
+1. Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.
+2. Det skal være tilstrekkelig belysning til at nødvendige gjøremål kan utføres.
+3. Ved måling av gjennomsnittlig belysning i et rom, skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt naturlig lys være avskjermet. Det skal tas målinger midt i rommet og i hvert hjørne. Målingene skal foretas 1 meter over dørken.
+4. Når innredningen er plassert slik at det ikke er naturlig lys, skal det være tilstrekkelig kunstig lys.
 
 (6) På skip som har en generator som bare er tilknyttet hovedmotor, skal innredningen, korridorer og trappeoppganger i tillegg utstyres med tilstrekkelig lys ved strøm fra batterier (nødlys). Det elektriske lysanlegget skal kunne settes i drift når de som har sitt arbeid om bord, bor eller arbeider på skipet. Når skipet ligger i havn med personer om bord, eller det kan forventes ferdsel til og fra skipet, skal kunstig belysning opprettholdes ved hjelp av skipets kraftkilde eller landtilkobling.
 
@@ -434,7 +513,11 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (4) På skip med bruttotonnasje 5000 eller mer, unntatt passasjerskip, skal alle soverom ha vaskeservant med kaldt og varmt drikkevann, unntatt når det er vaskeservant i baderom i samsvar med [§ 33](forskrift/2017-04-21-515/§33) annet ledd bokstav a til c.
 
-(5) Antall personer per soverom skal ikke overstige følgende:Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt: En person per rom.Andre offiserer enn de som er nevnt i bokstav a: En person per rom når det er mulig, og ellers inntil to personer per rom.Andre som har sitt arbeid om bord: Inntil to personer per rom.
+(5) Antall personer per soverom skal ikke overstige følgende:
+
+1. Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt: En person per rom.
+2. Andre offiserer enn de som er nevnt i bokstav a: En person per rom når det er mulig, og ellers inntil to personer per rom.
+3. Andre som har sitt arbeid om bord: Inntil to personer per rom.
 
 (6) På passasjerskip er soverom for inntil fire personer tillatt.
 
@@ -470,7 +553,9 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (2) De indre målene på en køye skal være minst 1980 mm i lengde og 800 mm i bredde.
 
-(3) Køyene skal ikke plasseres ved siden av hverandre på en slik måte at man må gå over den ene køya for å komme til den andre.(4) Køyene skal ikke være i mer enn to høyder. Det skal ikke være mer enn én køye i høyden når køya er plassert under en lysventil.
+(3) Køyene skal ikke plasseres ved siden av hverandre på en slik måte at man må gå over den ene køya for å komme til den andre.
+
+(4) Køyene skal ikke være i mer enn to høyder. Det skal ikke være mer enn én køye i høyden når køya er plassert under en lysventil.
 
 (5) Den nedre køya i en dobbelt rad skal være minst 300 mm over dørken, og den øvre køya skal plasseres omtrent midtveis mellom bunnen av underkøya og undersiden av takbjelkene.
 
@@ -500,7 +585,11 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (1) Det skal være minst én vaskeservant og én dusj eller ett badekar for hver sjette person eller færre som ikke har privat baderom i samsvar med annet ledd.
 
-(2) Kravene i bokstav a til c gjelder i tillegg til kravet etter første ledd:På skip med bruttotonnasje 5000 eller mer, men under 15 000, skal enerommene til minst fem offiserer ha privat baderom. På skip med bruttotonnasje 10 000 eller mer, men under 15 000, skal det være private baderom tilknyttet alle soverom for offiserer eller felles baderom for to offiserer, som ligger mellom offiserenes soverom.På skip med bruttotonnasje 15 000 eller mer, skal enerommene til offiserene ha privat baderom. Vaskeservanten kan være i soverommet.Skip med bruttotonnasje 25 000 eller mer, unntatt passasjerskip, skal ha ett baderom for hver annen person av de som har sitt arbeid om bord, ikke medregnet skipsføreren og andre offiserer. Baderommet skal ligge mellom to soverom eller overfor inngangen til soverommene.
+(2) Kravene i bokstav a til c gjelder i tillegg til kravet etter første ledd:
+
+1. På skip med bruttotonnasje 5000 eller mer, men under 15 000, skal enerommene til minst fem offiserer ha privat baderom. På skip med bruttotonnasje 10 000 eller mer, men under 15 000, skal det være private baderom tilknyttet alle soverom for offiserer eller felles baderom for to offiserer, som ligger mellom offiserenes soverom.
+2. På skip med bruttotonnasje 15 000 eller mer, skal enerommene til offiserene ha privat baderom. Vaskeservanten kan være i soverommet.
+3. Skip med bruttotonnasje 25 000 eller mer, unntatt passasjerskip, skal ha ett baderom for hver annen person av de som har sitt arbeid om bord, ikke medregnet skipsføreren og andre offiserer. Baderommet skal ligge mellom to soverom eller overfor inngangen til soverommene.
 
 (3) Baderom skal ha vaskeservant og dusj eller badekar. Alle baderom skal ha kaldt og varmt drikkevann. I private baderom skal det også være toalett.
 
@@ -510,9 +599,15 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (6) Skip skal ha atskilte baderom for kvinner og menn. Skip i innenriksfart med inntil seks personer som har sitt arbeid om bord, kan ha ett felles baderom for kvinner og menn.
 
-(7) Skip med bruttotonnasje 1600 eller mer, som ikke har private soverom og private baderom for hele maskinrompersonalet, skal ha et omkledningsrom som skalvære plassert utenfor maskinrommet, men med lett tilgang ditha dusj eller badekar og vaskeservanter med kaldt og varmt drikkevann.
+(7) Skip med bruttotonnasje 1600 eller mer, som ikke har private soverom og private baderom for hele maskinrompersonalet, skal ha et omkledningsrom som skal
 
-(8) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antallet av de innretninger som kreves etter paragrafen her, påskip der flere enn hundre personer har sitt arbeid om bordpassasjerskip som normalt brukes til reiser som varer mindre enn fire timer.
+1. være plassert utenfor maskinrommet, men med lett tilgang dit
+2. ha dusj eller badekar og vaskeservanter med kaldt og varmt drikkevann.
+
+(8) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antallet av de innretninger som kreves etter paragrafen her, på
+
+1. skip der flere enn hundre personer har sitt arbeid om bord
+2. passasjerskip som normalt brukes til reiser som varer mindre enn fire timer.
 
 (9) Hvis det er badstue om bord, skal døren slå utover og kunne åpnes fra begge sider. Dør og dørkarm skal skrås for at de ikke skal sette seg fast. Badstuen skal ha alarm tilkoblet alarmklokke i korridor utenfor soverom og på broen.
 
@@ -554,7 +649,10 @@ Paragrafene 36 til 43 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (4) Kravet til naturlig lys er tilfredsstilt når hvert rom har én eller flere lysventiler med en samlet glassflate på minst 0,14 m2 .
 
-(5) Kunstig belysning skal tilfredsstille følgende krav:Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.Det skal være tilstrekkelig belysning til at nødvendige gjøremål kan utføres.
+(5) Kunstig belysning skal tilfredsstille følgende krav:
+
+1. Den gjennomsnittlige kunstige belysning i innredningen skal være minst 150 lux.
+2. Det skal være tilstrekkelig belysning til at nødvendige gjøremål kan utføres.
 
 (6) På skip som har en generator som bare er tilknyttet hovedmotor, skal innredningen, korridorer og trappeoppganger i tillegg utstyres med tilstrekkelig lys ved strøm fra batterier (nødlys). Det elektriske lysanlegget skal kunne settes i drift når de som har sitt arbeid om bord, bor eller arbeider på skipet.
 
@@ -562,7 +660,11 @@ Paragrafene 36 til 43 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (1) På skip med bruttotonnasje 100 eller mer skal skipsføreren, maskinsjefen og dekkssjefen ha hvert sitt soverom med vaskeservant med kaldt og varmt drikkevann.
 
-(2) Antall personer per soverom skal ikke overstige følgende:Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt: En person per rom.Andre offiserer enn de som er nevnt i bokstav a: En person per rom når det er mulig, og ellers inntil to personer per rom.Andre som har sitt arbeid om bord: Inntil to personer per rom.
+(2) Antall personer per soverom skal ikke overstige følgende:
+
+1. Offiserer som leder en avdeling, samt dekksoffiserer og maskinister som leder en vakt: En person per rom.
+2. Andre offiserer enn de som er nevnt i bokstav a: En person per rom når det er mulig, og ellers inntil to personer per rom.
+3. Andre som har sitt arbeid om bord: Inntil to personer per rom.
 
 (3) På passasjerskip er soverom for inntil fire personer tillatt.
 
@@ -638,7 +740,10 @@ Paragrafene 36 til 43 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 (5) Skip skal ha atskilte baderom for kvinner og menn. Skip i innenriksfart med inntil seks personer som har sitt arbeid om bord, kan ha ett felles baderom for kvinner og menn.
 
-(6) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antallet av de innretninger som kreves etter paragrafen her, påskip der flere enn hundre personer har sitt arbeid om bordpassasjerskip som normalt brukes til reiser som varer mindre enn fire timer.
+(6) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet tillate spesielle arrangementer eller en reduksjon av antallet av de innretninger som kreves etter paragrafen her, på
+
+1. skip der flere enn hundre personer har sitt arbeid om bord
+2. passasjerskip som normalt brukes til reiser som varer mindre enn fire timer.
 
 (7) Hvis det er badstue om bord, skal døren slå utover og kunne åpnes fra begge sider. Dør og dørkarm skal skrås for at de ikke skal sette seg fast. Badstuen skal ha alarm tilkoblet alarmklokke i korridor utenfor soverom og på broen.
 
@@ -656,7 +761,10 @@ Paragrafene 36 til 43 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 ### § 44. Virkeområde for kapittel 6
 
-Paragrafene 45 til 50 gjelder for skiphvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller seneremed bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 20. august 2013.
+Paragrafene 45 til 50 gjelder for skip
+
+1. hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 20. august 2013 eller senere
+2. med bruttotonnasje 50 eller mer hvis kjøl er strukket eller som var på et tilsvarende byggetrinn før 20. august 2013.
 
 ### § 45. Kosthold og hygiene
 
@@ -664,7 +772,10 @@ Paragrafene 45 til 50 gjelder for skiphvis kjøl er strukket eller som er på et
 
 (2) Mat og drikke skal oppbevares, tilberedes og serveres forsvarlig og hygienisk.
 
-(3) Forsyningene av mat og drikke skal være av egnet omfang og stå i forhold tilantall personer som har sitt arbeid om bord, og deres religiøse behov og kulturelle skikker med hensyn til matsjøreisens art og varighet.
+(3) Forsyningene av mat og drikke skal være av egnet omfang og stå i forhold til
+
+1. antall personer som har sitt arbeid om bord, og deres religiøse behov og kulturelle skikker med hensyn til mat
+2. sjøreisens art og varighet.
 
 (4) Det skal foretas løpende inspeksjoner av forsyning og håndtering av mat og drikke til bruk for de som har sitt arbeid om bord. Resultatet av inspeksjonene skal dokumenteres og være tilgjengelig for kontroll om bord.
 
@@ -686,7 +797,12 @@ Håndbøker, brosjyrer, plansjer mv. med informasjon om ernæring, innkjøp, opp
 
 (2) Prøver av mat og drikkevann som kan være årsak til sykdom, skal oppbevares i kjøleskap eller fryses ned i rene beholdere som er forsvarlig lukket. Prøvene skal snarest mulig sendes til et faglig kompetent laboratorium for nærmere undersøkelse.
 
-(3) Skriftlig rapport om forhold i første ledd skal sendes til Sjøfartsdirektoratet. Rapporten skal inneholde følgende opplysninger:sykdomstilfeller som er anført i dekksdagbokenopplysninger om antatt årsak til sykdomtiltak som er iverksatt for å hindre utbredelse av sykdombehandling og pleie av syke personer.
+(3) Skriftlig rapport om forhold i første ledd skal sendes til Sjøfartsdirektoratet. Rapporten skal inneholde følgende opplysninger:
+
+1. sykdomstilfeller som er anført i dekksdagboken
+2. opplysninger om antatt årsak til sykdom
+3. tiltak som er iverksatt for å hindre utbredelse av sykdom
+4. behandling og pleie av syke personer.
 
 ### § 49. Renhold og hygiene i bysse
 
@@ -722,11 +838,17 @@ Håndbøker, brosjyrer, plansjer mv. med informasjon om ernæring, innkjøp, opp
 
 (1) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet godkjenne andre løsninger enn de som kreves etter forskriften her, hvis rederiet dokumenterer at løsningene er likeverdige med forskriftens krav.
 
-(2) Sjøfartsdirektoratet kan unnta skip fra ett eller flere av kravene i forskriften her, hvis rederiet søker skriftlig om unntak. For skip som opererer i fartsområde 3/klasse D eller større fartsområder, må unntaket ikke være i strid med den internasjonale konvensjon om arbeids- og levevilkår (Maritime Labour Convention – MLC). Rederiet må godtgjøre at ett av følgende vilkår er oppfylt:Kravet er ikke vesentlig og unntaket vurderes som sikkerhetsmessig forsvarlig.Kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(2) Sjøfartsdirektoratet kan unnta skip fra ett eller flere av kravene i forskriften her, hvis rederiet søker skriftlig om unntak. For skip som opererer i fartsområde 3/klasse D eller større fartsområder, må unntaket ikke være i strid med den internasjonale konvensjon om arbeids- og levevilkår (Maritime Labour Convention – MLC). Rederiet må godtgjøre at ett av følgende vilkår er oppfylt:
+
+1. Kravet er ikke vesentlig og unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (3) Dispensasjon fra [§ 7](forskrift/2017-04-21-515/§7) etter paragrafen her kan bare innvilges etter at Sjøfartsdirektoratet har gjennomført konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner.
 
-(4) På skip der det er nødvendig å ta hensyn til interesser knyttet til ulike religiøse og sosiale skikker, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate unntak fra forskriften her som ikke medfører at innredningen samlet sett blir mindre gunstig enn forskriftens krav. Unntak kan bare innvilges etter konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner, og forutsatt at målene for dørkarealet i soverommene er minst1,67 m2 per person på skip med bruttotonnasje til og med 30001,85 m2 per person på skip med bruttotonnasje mer enn 3000.
+(4) På skip der det er nødvendig å ta hensyn til interesser knyttet til ulike religiøse og sosiale skikker, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet tillate unntak fra forskriften her som ikke medfører at innredningen samlet sett blir mindre gunstig enn forskriftens krav. Unntak kan bare innvilges etter konsultasjon med norske arbeidsgiver- og arbeidstakerorganisasjoner, og forutsatt at målene for dørkarealet i soverommene er minst
+
+1. 1,67 m2 per person på skip med bruttotonnasje til og med 3000
+2. 1,85 m2 per person på skip med bruttotonnasje mer enn 3000.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 

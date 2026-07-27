@@ -29,7 +29,9 @@ Forskriften gjelder utforming og standard ved planlegging og bygging av offentli
 ## § 2. Dimensjonerende trafikkmengder og kjøretøy
 
 1. Ved planlegging og utbygging av vegnettet skal arealbruk og vegfunksjoner vurderes i et 20 års perspektiv etter vegåpning. Forventet trafikkutvikling skal kartlegges for alle trafikantgrupper.
-2. Veger som dimensjoneres for tung trafikk skal bygges slik at de normalt kan trafikkeres av kjøretøy med inntil 10 tonns aksellast, inntil 11,5 tonn på drivaksel, inntil 19 tonns boggilast, inntil 4,5 meters høyde og inntil 2,6 meters bredde. Det dimensjoneres for sporingsegenskaper tilsvarende vogntog med ytre venderadius 12,5 meter og kjøresporbredde 7,8 meter ved sving 180°.Veger der det ikke er vesentlig behov for trafikk med store kjøretøy skal minimum bygges slik at de normalt kan trafikkeres av kjøretøy med inntil 6 tonns aksellast, inntil 10 tonns boggilast, inntil 3,75 meters fri høyde og inntil 2,55 meters bredde. Det dimensjoneres for sporingsegenskaper tilsvarende lastebil med ytre venderadius 12 meter og kjøresporbredde 4,8 meter ved sving 180°.
+2. Veger som dimensjoneres for tung trafikk skal bygges slik at de normalt kan trafikkeres av kjøretøy med inntil 10 tonns aksellast, inntil 11,5 tonn på drivaksel, inntil 19 tonns boggilast, inntil 4,5 meters høyde og inntil 2,6 meters bredde. Det dimensjoneres for sporingsegenskaper tilsvarende vogntog med ytre venderadius 12,5 meter og kjøresporbredde 7,8 meter ved sving 180°.
+
+   Veger der det ikke er vesentlig behov for trafikk med store kjøretøy skal minimum bygges slik at de normalt kan trafikkeres av kjøretøy med inntil 6 tonns aksellast, inntil 10 tonns boggilast, inntil 3,75 meters fri høyde og inntil 2,55 meters bredde. Det dimensjoneres for sporingsegenskaper tilsvarende lastebil med ytre venderadius 12 meter og kjøresporbredde 4,8 meter ved sving 180°.
 3. Forskrift for trafikklaster for vegbruer, gang- og sykkelvegbruer, ferjekaier og andre konstruksjoner i det offentlige vegnett fastsettes av Vegdirektoratet. Lasteforskrifter for vegbruer gjøres gjeldende som minimumsforskrifter for hele det offentlige vegnett.
 
 ## § 3. Vegnormaler

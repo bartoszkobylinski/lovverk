@@ -15,7 +15,7 @@ xml_hash: "d06e845d9a6dfaefde8229def1e3b0c12d1c59e920ed88dfee959ba9111f1ef2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,11 @@ Statsforvalteren kan, av eget tiltak, iverksette uttak av rømt oppdrettsfisk av
 
 Lokal forvaltning skal gjennomføre midtsesongevaluering av laksefisket der dette framgår av vedlegg I. Statsforvalteren og lokal forvaltning i disse vassdragene skal inngå avtale om tiltak som lokal forvaltning skal iverksette inneværende sesong dersom midtsesongevalueringen viser at det er sannsynlig at gytebestandsmålet i vassdraget ikke nås det året.
 
-De forhåndsavtalte tiltakene skal medføre at beskatningen blir justert slik at gytebestandsmålet kan nås, eller at negativt avvik blir minst mulig, og skal være innenfor rammen av følgende handlingsalternativer:Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 90 % og 130 % av gytebestandsmålet er det ikke nødvendig at lokal forvaltning iverksetter tiltak.Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 50 % og 90 % av gytebestandsmålet skal beskatningen reduseres resten av fiskesesongen.Dersom evalueringen viser at gytebestanden sannsynligvis blir mindre enn 50 % av gytebestandsmålet skal beskatningen opphøre umiddelbart.
+De forhåndsavtalte tiltakene skal medføre at beskatningen blir justert slik at gytebestandsmålet kan nås, eller at negativt avvik blir minst mulig, og skal være innenfor rammen av følgende handlingsalternativer:
+
+1. Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 90 % og 130 % av gytebestandsmålet er det ikke nødvendig at lokal forvaltning iverksetter tiltak.
+2. Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 50 % og 90 % av gytebestandsmålet skal beskatningen reduseres resten av fiskesesongen.
+3. Dersom evalueringen viser at gytebestanden sannsynligvis blir mindre enn 50 % av gytebestandsmålet skal beskatningen opphøre umiddelbart.
 
 Avtalen kan også inneholde tiltak som kan iverksettes dersom midtsesongevalueringen viser at det er sannsynlig at gytebestanden blir høyere enn 130 % av gytebestandsmålet for laksebestander med flere enn 500 oppvandrende voksne individer, og høyere enn 150 % for mindre bestander. I slike tilfeller kan lokal forvaltning øke fisketrykket, men likevel ikke slik at fisketida utvides utover 31. august inneværende år.
 

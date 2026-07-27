@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Vilkår for registrering.
 
-På begjæring kan maskindrevne passasjerskip, lasteskip og luftputefartøy samt boreplattformer og andre flyttbare innretninger, registreres i norsk internasjonalt skipsregister når de ikke er innført i et annet lands register, og:eieren tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov/1994-06-24-39/§1); ellereieren, dersom denne ikke tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov/1994-06-24-39/§1),er aksjeselskap, allmennaksjeselskap eller kommandittselskap med hovedkontor i Norge; ellerer partrederi, med bestyrende reder som tilfredsstiller bestemmelsene om bestyrende reder i sjøloven kapittel 5.Eieren, dersom denne ikke tilfredsstiller vilkårene i pkt 1 eller 2, har oppnevnt en representant som har fullmakt til å ta imot søksmål på vegne av eieren. Representanten må fylle de nasjonalitetskrav som stilles til bestyrende reder i [sjøloven § 103](lov/1994-06-24-39/§103).
+På begjæring kan maskindrevne passasjerskip, lasteskip og luftputefartøy samt boreplattformer og andre flyttbare innretninger, registreres i norsk internasjonalt skipsregister når de ikke er innført i et annet lands register, og:
+
+1. eieren tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov/1994-06-24-39/§1); eller
+2. eieren, dersom denne ikke tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov/1994-06-24-39/§1),
+
+   1. er aksjeselskap, allmennaksjeselskap eller kommandittselskap med hovedkontor i Norge; eller
+   2. er partrederi, med bestyrende reder som tilfredsstiller bestemmelsene om bestyrende reder i sjøloven kapittel 5.
+3. Eieren, dersom denne ikke tilfredsstiller vilkårene i pkt 1 eller 2, har oppnevnt en representant som har fullmakt til å ta imot søksmål på vegne av eieren. Representanten må fylle de nasjonalitetskrav som stilles til bestyrende reder i [sjøloven § 103](lov/1994-06-24-39/§103).
 
 Driften av skip som er registrert i medhold av pkt. 2 eller 3 ovenfor, skal forestås av norsk rederi med hovedkontor i Norge.
 
@@ -130,7 +137,12 @@ Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det sæ
 
 Dersom et skip er blitt registrert på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning for registreringsadgangen eller det ikke til enhver tid tilfredsstiller vilkårene i [§ 1](lov/1987-06-12-48/§1) første ledd, kan registerføreren slette skipet av registeret. Skip som etter [§ 16](lov/1987-06-12-48/§16) er gitt tillatelse til midlertidig registrering i annet lands skipsregister, skal ikke slettes fra skipsregisteret.
 
-Departementet kan bestemme at et skip skal slettes i registeret dersom:[§ 1](lov/1987-06-12-48/§1) annet ledd, [§ 4](lov/1987-06-12-48/§4) eller [§ 5](lov/1987-06-12-48/§5) er overtrådt; eller[§ 6](lov/1987-06-12-48/§6) tredje og fjerde ledd er overtrådt; ellerplikten til å fremlegge dokumentasjon som nevnt i [§ 9](lov/1987-06-12-48/§9) annet ledd er overtrådt; ellerplikten til å stille garanti eller tegne slik forsikring som nevnt i § 4-7 i [skipsarbeidsloven](lov/2013-06-21-102/§4-7) er overtrådt.
+Departementet kan bestemme at et skip skal slettes i registeret dersom:
+
+1. [§ 1](lov/1987-06-12-48/§1) annet ledd, [§ 4](lov/1987-06-12-48/§4) eller [§ 5](lov/1987-06-12-48/§5) er overtrådt; eller
+2. [§ 6](lov/1987-06-12-48/§6) tredje og fjerde ledd er overtrådt; eller
+3. plikten til å fremlegge dokumentasjon som nevnt i [§ 9](lov/1987-06-12-48/§9) annet ledd er overtrådt; eller
+4. plikten til å stille garanti eller tegne slik forsikring som nevnt i § 4-7 i [skipsarbeidsloven](lov/2013-06-21-102/§4-7) er overtrådt.
 
 Er det registrert heftelse i skipet, skal skipet ikke slettes etter første eller annet ledd uten rettighetshaverens skriftlige samtykke, men det skal gjøres anmerkning på skipets blad i registeret om det forhold som skulle ha medført slettelse. Heftelsen beholder i så fall sin prioritet, men nye rettsstiftelser kan ikke registreres.
 
@@ -152,7 +164,12 @@ Departementet kan i forskrift gi utfyllende regler om ilegging og utmåling av o
 
 Skip som nevnt i [§ 1](lov/1987-06-12-48/§1) som er registrert i et annet lands skipsregister og bareboat-befraktes av noen som oppfyller vilkårene i [§ 1](lov/1987-06-12-48/§1), kan bareboatregistreres i skipsregisteret for en periode på inntil ti år etter skriftlig anmodning fra bareboat-befrakteren. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Hvis samtykket etter annet ledd nr. 3 er tidsbegrenset, skal tillatelse etter første punktum gjelde for den samme perioden, men ikke overstige ti år. Skipsregisteret kan forlenge perioden for inntil fem år om gangen etter ny skriftlig anmodning fra bareboat-befrakteren.
 
-Før skipet kan registreres etter første ledd må bareboat-befrakteren fremlegge følgende dokumentasjon:kopi av bareboat-certepartiet,utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, ogdokumentasjon fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistreres i Norsk internasjonalt skipsregister og seile under norsk flagg.
+Før skipet kan registreres etter første ledd må bareboat-befrakteren fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,
+3. skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, og
+4. dokumentasjon fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistreres i Norsk internasjonalt skipsregister og seile under norsk flagg.
 
 Skip registrert etter denne bestemmelsen er underlagt norsk jurisdiksjon og skal føre norsk flagg.
 
@@ -164,7 +181,14 @@ Departementet kan i forskrift gi nærmere regler om bareboatregistrering, herund
 
 ### § 15. Sletting av bareboatregistrerte skip
 
-Skip som er registrert etter [§ 14](lov/1987-06-12-48/§14) skal slettes i registeret når:bareboat-certepartiet opphører,betingelsene for registrering etter [§ 14](lov/1987-06-12-48/§14) første ledd ikke lenger er til stede,registerføreren får melding fra bareboat-befrakteren eller skipets eier om at skipet skal slettes fra registeret,skipet etter primærregisterstatens rett ikke lenger har rett til midlertidig å seile under norsk flagg,registerføreren får melding etter [sjøloven § 13](lov/1994-06-24-39/§13) annet ledd om at et skip er gått tapt eller er hugget opp, ellermelding om at et skip er gått tapt eller er hugget opp, ikke er gitt innen fristen etter [sjøloven § 13](lov/1994-06-24-39/§13) annet ledd, men registerføreren på annen måte får kjennskap til forholdet. Før skipet slettes skal eieren i så fall gis adgang til å uttale seg.
+Skip som er registrert etter [§ 14](lov/1987-06-12-48/§14) skal slettes i registeret når:
+
+1. bareboat-certepartiet opphører,
+2. betingelsene for registrering etter [§ 14](lov/1987-06-12-48/§14) første ledd ikke lenger er til stede,
+3. registerføreren får melding fra bareboat-befrakteren eller skipets eier om at skipet skal slettes fra registeret,
+4. skipet etter primærregisterstatens rett ikke lenger har rett til midlertidig å seile under norsk flagg,
+5. registerføreren får melding etter [sjøloven § 13](lov/1994-06-24-39/§13) annet ledd om at et skip er gått tapt eller er hugget opp, eller
+6. melding om at et skip er gått tapt eller er hugget opp, ikke er gitt innen fristen etter [sjøloven § 13](lov/1994-06-24-39/§13) annet ledd, men registerføreren på annen måte får kjennskap til forholdet. Før skipet slettes skal eieren i så fall gis adgang til å uttale seg.
 
 > Tilføyd ved [lov 17 april 2020 nr. 28](lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](forskrift/2020-04-17-818)).
 
@@ -172,7 +196,11 @@ Skip som er registrert etter [§ 14](lov/1987-06-12-48/§14) skal slettes i regi
 
 På begjæring fra skipets eier kan skip som er leid ut på bareboat-certeparti og er registrert i norsk internasjonalt skipsregister, gis tillatelse til bareboatregistrering i et utenlandsk skipsregister for en periode på inntil ti år. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Skipsregisteret kan etter skriftlig anmodning fra skipets eier forlenge perioden inntil fem år om gangen.
 
-For at tillatelse eller forlengelse kan gis, må skipets eier fremlegge følgende dokumentasjon:kopi av bareboat-certepartiet,skriftlig samtykke til bareboatregistrering i det utenlandske skipsregisteret fra skipets eier og samtlige rettighetshavere i skipet, ogdokumentasjon fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+For at tillatelse eller forlengelse kan gis, må skipets eier fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. skriftlig samtykke til bareboatregistrering i det utenlandske skipsregisteret fra skipets eier og samtlige rettighetshavere i skipet, og
+3. dokumentasjon fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
 
 Et skip som er bareboatregistrert etter første ledd har rett til midlertidig å føre et annet lands flagg, og skal i denne perioden ikke anses å være norsk i henhold til [§ 1](lov/1987-06-12-48/§1) i denne loven. Det har ikke rett til å føre norsk flagg og skal ikke være forsynt med norsk nasjonalitetsbevis.
 

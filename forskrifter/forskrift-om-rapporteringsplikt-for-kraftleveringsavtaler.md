@@ -42,7 +42,11 @@ Forskriften gjelder for omsetningskonsesjonærer som selger elektrisk energi til
 
 Informasjon om enhver kraftleveringsavtale som tilbys til eller er inngått med forbruker er rapporteringspliktig.
 
-Avtaler som tilbys til eller er inngått med flere forbrukere, kan rapporteres som én kraftleveringsavtale dersom:alle på forhånd ukjente priselementer som inngår i avtalen beregnes likt for alle forbrukere i samme prisområde, ogalle på forhånd kjente priselementer som inngår i avtalen ikke varierer med mer enn ti prosent, ogøvrige avtalevilkår er identiske.
+Avtaler som tilbys til eller er inngått med flere forbrukere, kan rapporteres som én kraftleveringsavtale dersom:
+
+1. alle på forhånd ukjente priselementer som inngår i avtalen beregnes likt for alle forbrukere i samme prisområde, og
+2. alle på forhånd kjente priselementer som inngår i avtalen ikke varierer med mer enn ti prosent, og
+3. øvrige avtalevilkår er identiske.
 
 ## § 5. Rapporteringens innhold, rapporteringsform og rapporteringsfrist
 

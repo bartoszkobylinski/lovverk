@@ -15,7 +15,7 @@ xml_hash: "374e6abf92f84a69781c02c826bccb6217c80f0422af4bd70336151debd34911"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014L0026"
@@ -51,7 +51,21 @@ Loven gjelder også for Svalbard og Jan Mayen.
 
 ### § 3. Definisjoner
 
-I denne loven menes med:kollektiv forvaltningsorganisasjon: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og som har dette som eneste eller viktigste formål, og som er eiet eller kontrollert av sine medlemmer, eller som er organisert uten økonomisk vinning som formål.uavhengig forvaltningsenhet: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og har dette som eneste eller viktigste formål, og som verken er eiet eller kontrollert, direkte eller indirekte, helt eller delvis, av rettighetshaverne, og som er organisert med økonomisk vinning som formål.rettighetshaver: enhver person eller enhet, med unntak av kollektive forvaltningsorganisasjoner, som er innehaver av opphavsrett eller nærstående rettigheter, eller som etter avtale om bruk av rettigheter eller som ved lov har rett til en andel av inntektene fra slike rettigheter.medlem: en rettighetshaver eller en organisasjon som representerer en rettighetshaver, medregnet kollektive forvaltningsorganisasjoner og sammenslutninger av rettighetshavere, som oppfyller kravene for medlemskap i en kollektiv forvaltningsorganisasjon og som er medlem av denne.vedtekter: vedtektene, reglene eller dokumentene om opprettelsen av en kollektiv forvaltningsorganisasjon.årsmøtet: det organet i en kollektiv forvaltningsorganisasjon hvor medlemmene deltar og utøver sin stemmerett, uavhengig av organisasjonens rettslige form.rettighetsvederlag: vederlag som kreves inn av en kollektiv forvaltningsorganisasjon på vegne av rettighetshaverne, uavhengig av om inntektene er et resultat av en enerett, rett til vederlag eller rett til kompensasjon.administrasjonskostnader: de beløpene som en kollektiv forvaltningsorganisasjon debiterer, trekker fra eller motregner mot rettighetsvederlag eller andre inntekter fra investering av rettighetsvederlag, for å dekke kostnadene ved forvaltning av opphavsrett eller nærstående rettigheter.representasjonsavtale: enhver avtale mellom kollektive forvaltningsorganisasjoner der en kollektiv forvaltningsorganisasjon gir en annen kollektiv forvaltningsorganisasjon fullmakt til å forvalte rettigheter den representerer, herunder avtaler gjort i medhold av [§§ 44](lov/2021-05-28-49/§44) til [46](lov/2021-05-28-49/§46).bruker: enhver person eller enhet som utfører handlinger som krever rettighetshavernes samtykke, vederlag til rettighetshaverne eller betaling av kompensasjon til rettighetshaverne, og som ikke handler i egenskap av å være forbruker.repertoar: verk i henhold til [åndsverkloven § 2](lov/2018-06-15-40/§2) og nærstående rettigheter i henhold til [åndsverkloven kapittel 2](lov/2018-06-15-40/kap2), som en kollektiv forvaltningsorganisasjon forvalter rettighetene til.grensekryssende lisens: tillatelser til bruk, som omfatter flere enn én EØS-stat.nettrettigheter til musikkverk: rettigheter i henhold til [åndsverkloven § 3](lov/2018-06-15-40/§3) som kreves for å kunne tilby en nettbasert tjeneste.
+I denne loven menes med:
+
+1. kollektiv forvaltningsorganisasjon: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og som har dette som eneste eller viktigste formål, og som er eiet eller kontrollert av sine medlemmer, eller som er organisert uten økonomisk vinning som formål.
+2. uavhengig forvaltningsenhet: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og har dette som eneste eller viktigste formål, og som verken er eiet eller kontrollert, direkte eller indirekte, helt eller delvis, av rettighetshaverne, og som er organisert med økonomisk vinning som formål.
+3. rettighetshaver: enhver person eller enhet, med unntak av kollektive forvaltningsorganisasjoner, som er innehaver av opphavsrett eller nærstående rettigheter, eller som etter avtale om bruk av rettigheter eller som ved lov har rett til en andel av inntektene fra slike rettigheter.
+4. medlem: en rettighetshaver eller en organisasjon som representerer en rettighetshaver, medregnet kollektive forvaltningsorganisasjoner og sammenslutninger av rettighetshavere, som oppfyller kravene for medlemskap i en kollektiv forvaltningsorganisasjon og som er medlem av denne.
+5. vedtekter: vedtektene, reglene eller dokumentene om opprettelsen av en kollektiv forvaltningsorganisasjon.
+6. årsmøtet: det organet i en kollektiv forvaltningsorganisasjon hvor medlemmene deltar og utøver sin stemmerett, uavhengig av organisasjonens rettslige form.
+7. rettighetsvederlag: vederlag som kreves inn av en kollektiv forvaltningsorganisasjon på vegne av rettighetshaverne, uavhengig av om inntektene er et resultat av en enerett, rett til vederlag eller rett til kompensasjon.
+8. administrasjonskostnader: de beløpene som en kollektiv forvaltningsorganisasjon debiterer, trekker fra eller motregner mot rettighetsvederlag eller andre inntekter fra investering av rettighetsvederlag, for å dekke kostnadene ved forvaltning av opphavsrett eller nærstående rettigheter.
+9. representasjonsavtale: enhver avtale mellom kollektive forvaltningsorganisasjoner der en kollektiv forvaltningsorganisasjon gir en annen kollektiv forvaltningsorganisasjon fullmakt til å forvalte rettigheter den representerer, herunder avtaler gjort i medhold av [§§ 44](lov/2021-05-28-49/§44) til [46](lov/2021-05-28-49/§46).
+10. bruker: enhver person eller enhet som utfører handlinger som krever rettighetshavernes samtykke, vederlag til rettighetshaverne eller betaling av kompensasjon til rettighetshaverne, og som ikke handler i egenskap av å være forbruker.
+11. repertoar: verk i henhold til [åndsverkloven § 2](lov/2018-06-15-40/§2) og nærstående rettigheter i henhold til [åndsverkloven kapittel 2](lov/2018-06-15-40/kap2), som en kollektiv forvaltningsorganisasjon forvalter rettighetene til.
+12. grensekryssende lisens: tillatelser til bruk, som omfatter flere enn én EØS-stat.
+13. nettrettigheter til musikkverk: rettigheter i henhold til [åndsverkloven § 3](lov/2018-06-15-40/§3) som kreves for å kunne tilby en nettbasert tjeneste.
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 3).
 
@@ -125,7 +139,19 @@ Kollektive forvaltningsorganisasjoner skal minst én gang i året innkalle til o
 
 Årsmøtet skal foreta valg av eller avsette styremedlemmer, vurdere deres generelle innsats og godkjenne deres lønn, godtgjørelse eller andre fordeler. I en kollektiv forvaltningsorganisasjon med et styre og et kontrollorgan kan årsmøtet delegere disse oppgavene til kontrollorganet.
 
-I samsvar med bestemmelsene i dette kapitlet skal årsmøtet minst treffe beslutning om følgende:generelle prinsipper for fordeling av vederlag til rettighetshaveregenerelle prinsipper for bruk av beløp som ikke kan fordelesden generelle investeringsstrategien for inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektenegenerelle prinsipper for fradrag fra inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektene, herunder fradrag for bruk av midler til kollektiv fordelingbruken av beløp som ikke kan fordelesrisikohåndteringsstrategiengodkjenning av kjøp, salg eller pantsettelse av fast eiendomgodkjenning av fusjoner og allianser, oppretting av datterselskap og kjøp av andre enheter eller aksjer eller rettigheter i andre enhetergodkjenning av låneopptak, utlån eller lånegarantivalg av revisorgodkjenning av en årlig åpenhetsrapport.
+I samsvar med bestemmelsene i dette kapitlet skal årsmøtet minst treffe beslutning om følgende:
+
+1. generelle prinsipper for fordeling av vederlag til rettighetshavere
+2. generelle prinsipper for bruk av beløp som ikke kan fordeles
+3. den generelle investeringsstrategien for inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektene
+4. generelle prinsipper for fradrag fra inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektene, herunder fradrag for bruk av midler til kollektiv fordeling
+5. bruken av beløp som ikke kan fordeles
+6. risikohåndteringsstrategien
+7. godkjenning av kjøp, salg eller pantsettelse av fast eiendom
+8. godkjenning av fusjoner og allianser, oppretting av datterselskap og kjøp av andre enheter eller aksjer eller rettigheter i andre enheter
+9. godkjenning av låneopptak, utlån eller lånegaranti
+10. valg av revisor
+11. godkjenning av en årlig åpenhetsrapport.
 
 Årsmøtet kan ved beslutning eller ved bestemmelser i vedtektene delegere oppgavene i fjerde ledd bokstav f til i til det organet som etter [§ 14](lov/2021-05-28-49/§14) skal utøve den interne kontrollfunksjonen.
 
@@ -133,7 +159,10 @@ I samsvar med bestemmelsene i dette kapitlet skal årsmøtet minst treffe beslut
 
 ### § 13. Medlemmenes stemmerett
 
-Alle medlemmer av den kollektive forvaltningsorganisasjonen skal ha rett til å ta del i og stemme på årsmøtet. En kollektiv forvaltningsorganisasjon kan likevel fastsette begrensninger i medlemmenes rett til å delta og utøve stemmeretten på grunnlag av ett eller begge av følgende kriterier, forutsatt at disse er fastsatt og praktisert på en rimelig og forholdsmessig måte:medlemskapets varighetstørrelsen på de beløpene som mottas eller tilfaller et medlem.
+Alle medlemmer av den kollektive forvaltningsorganisasjonen skal ha rett til å ta del i og stemme på årsmøtet. En kollektiv forvaltningsorganisasjon kan likevel fastsette begrensninger i medlemmenes rett til å delta og utøve stemmeretten på grunnlag av ett eller begge av følgende kriterier, forutsatt at disse er fastsatt og praktisert på en rimelig og forholdsmessig måte:
+
+1. medlemskapets varighet
+2. størrelsen på de beløpene som mottas eller tilfaller et medlem.
 
 Kriteriene som er fastsatt etter første ledd bokstav a og b, skal fremgå av den kollektive forvaltningsorganisasjonens vedtekter eller medlemsvilkår og skal offentliggjøres i samsvar med [§§ 33](lov/2021-05-28-49/§33) og [35](lov/2021-05-28-49/§35).
 
@@ -171,7 +200,12 @@ En kollektiv forvaltningsorganisasjon skal ta alle nødvendige forholdsregler fo
 
 Kollektive forvaltningsorganisasjoner skal ha rutiner for å unngå interessekonflikter. Kan slike konflikter ikke unngås, skal den kollektive forvaltningsorganisasjonen ha rutiner for å identifisere, håndtere, overvåke og opplyse om eksisterende eller potensielle interessekonflikter for å hindre at konfliktene skader de kollektive interessene for rettighetshavere som organisasjonen representerer.
 
-Fremgangsmåtene som nevnt i andre ledd skal omfatte en individuell årlig erklæring til årsmøtet fra hver av personene omfattet av første ledd. Erklæringen skal inneholde opplysninger om:alle interesser i den kollektive forvaltningsorganisasjonenalle godtgjørelser mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåret, inkludert lønn, pensjonsytelser og naturalytelseralle rettighetsvederlag mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåreteksisterende eller potensielle konflikter mellom personlige interesser og interessene til den kollektive forvaltningsorganisasjonen eller mellom forpliktelser overfor den kollektive forvaltningsorganisasjonen og eventuelle forpliktelser overfor andre personer eller enheter.
+Fremgangsmåtene som nevnt i andre ledd skal omfatte en individuell årlig erklæring til årsmøtet fra hver av personene omfattet av første ledd. Erklæringen skal inneholde opplysninger om:
+
+1. alle interesser i den kollektive forvaltningsorganisasjonen
+2. alle godtgjørelser mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåret, inkludert lønn, pensjonsytelser og naturalytelser
+3. alle rettighetsvederlag mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåret
+4. eksisterende eller potensielle konflikter mellom personlige interesser og interessene til den kollektive forvaltningsorganisasjonen eller mellom forpliktelser overfor den kollektive forvaltningsorganisasjonen og eventuelle forpliktelser overfor andre personer eller enheter.
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 10).
 
@@ -189,7 +223,9 @@ En kollektiv forvaltningsorganisasjon skal i sine regnskaper holde vederlagsmidl
 
 Kan vederlagsmidlene som tilfaller rettighetshaverne ikke fordeles innen fristen i [§ 21](lov/2021-05-28-49/§21) andre ledd, skal disse beløpene regnskapsføres adskilt.2
 
-1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 3).2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 13 nr. 2).
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 3).
+
+2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 13 nr. 2).
 
 ### § 18. Bruk av vederlagsmidler
 
@@ -305,7 +341,15 @@ Når rettigheter er lisensiert fra en kollektiv forvaltningsorganisasjon, plikte
 
 ### § 32. Opplysninger til rettighetshavere om forvaltning av deres rettigheter
 
-En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgende opplysninger tilgjengelig for rettighetshavere som den i perioden har tilordnet eller utbetalt rettighetsvederlag til:kontaktopplysninger som rettighetshaveren har gitt den kollektive forvaltningsorganisasjonen fullmakt til å bruke for å kunne identifisere og lokalisere rettighetshaverenrettighetsvederlag som er tilordnet rettighetshaverenbeløp den kollektive forvaltningsorganisasjonen har utbetalt til rettighetshaveren for rettigheter som er forvaltet, fordelt på hver kategori av rettigheter og type brukdet tidsrommet bruken fant sted og som rettighetshaveren har fått tilordnet rettighetsvederlag og fått utbetaling for, med mindre det er saklig grunn knyttet til rapportering fra brukerne som hindrer den kollektive forvaltningsorganisasjonen i å opplyse om dettefradrag for administrasjonskostnaderfradrag som er gjort for andre formål enn administrasjonskostnaderrettighetsvederlag som er tilordnet rettighetshaveren for en viss periode, men ikke utbetalt.
+En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgende opplysninger tilgjengelig for rettighetshavere som den i perioden har tilordnet eller utbetalt rettighetsvederlag til:
+
+1. kontaktopplysninger som rettighetshaveren har gitt den kollektive forvaltningsorganisasjonen fullmakt til å bruke for å kunne identifisere og lokalisere rettighetshaveren
+2. rettighetsvederlag som er tilordnet rettighetshaveren
+3. beløp den kollektive forvaltningsorganisasjonen har utbetalt til rettighetshaveren for rettigheter som er forvaltet, fordelt på hver kategori av rettigheter og type bruk
+4. det tidsrommet bruken fant sted og som rettighetshaveren har fått tilordnet rettighetsvederlag og fått utbetaling for, med mindre det er saklig grunn knyttet til rapportering fra brukerne som hindrer den kollektive forvaltningsorganisasjonen i å opplyse om dette
+5. fradrag for administrasjonskostnader
+6. fradrag som er gjort for andre formål enn administrasjonskostnader
+7. rettighetsvederlag som er tilordnet rettighetshaveren for en viss periode, men ikke utbetalt.
 
 Dersom en medlemsorganisasjon har ansvar for å fordele og utbetale rettighetsvederlag til rettighetshaverne, skal den kollektive forvaltningsorganisasjonen sørge for at medlemsorganisasjonen har de nødvendige opplysningene til å oppfylle plikten.
 
@@ -313,7 +357,15 @@ Dersom en medlemsorganisasjon har ansvar for å fordele og utbetale rettighetsve
 
 ### § 33. Opplysninger til andre kollektive forvaltningsorganisasjoner
 
-En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgende opplysninger elektronisk tilgjengelig for andre kollektive forvaltningsorganisasjoner som den gjennom en representasjonsavtale i perioden har forvaltet rettigheter for:rettighetsvederlag som er tilordnet den andre organisasjonenbeløp den kollektive forvaltningsorganisasjonen har utbetalt til den andre organisasjonen for rettigheter som er forvaltet gjennom representasjonsavtalen, fordelt på hver kategori av rettigheter og type brukrettighetsvederlag som er tilordnet den andre organisasjonen for en viss periode, men ikke utbetaltfradrag som er gjort for administrasjonskostnaderfradrag som er gjort for andre formål enn administrasjonskostnader i samsvar med [§ 24](lov/2021-05-28-49/§24)lisenser som er gitt, samt lisenser som har blitt nektetårsmøtevedtak som er relevante for forvaltningen av rettighetene omfattet av representasjonsavtalen.
+En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgende opplysninger elektronisk tilgjengelig for andre kollektive forvaltningsorganisasjoner som den gjennom en representasjonsavtale i perioden har forvaltet rettigheter for:
+
+1. rettighetsvederlag som er tilordnet den andre organisasjonen
+2. beløp den kollektive forvaltningsorganisasjonen har utbetalt til den andre organisasjonen for rettigheter som er forvaltet gjennom representasjonsavtalen, fordelt på hver kategori av rettigheter og type bruk
+3. rettighetsvederlag som er tilordnet den andre organisasjonen for en viss periode, men ikke utbetalt
+4. fradrag som er gjort for administrasjonskostnader
+5. fradrag som er gjort for andre formål enn administrasjonskostnader i samsvar med [§ 24](lov/2021-05-28-49/§24)
+6. lisenser som er gitt, samt lisenser som har blitt nektet
+7. årsmøtevedtak som er relevante for forvaltningen av rettighetene omfattet av representasjonsavtalen.
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 19).
 
@@ -329,7 +381,18 @@ En kollektiv forvaltningsorganisasjon kan kreve betaling for å behandle en fore
 
 ### § 35. Offentliggjøring av opplysninger på organisasjonens nettsted
 
-En kollektiv forvaltningsorganisasjon skal på sitt nettsted offentliggjøre og oppdatere følgende informasjon om organisasjonen:vedtektenemedlemsvilkårenestandardlisensavtaler og gjeldende standardtariffer, inkludert rabatterliste over personer som utgjør den daglige ledelsengenerelle prinsipper for fordeling av vederlag til rettighetshaveregenerelle prinsipper for administrasjonskostnadergenerelle prinsipper for andre fradrag fra rettighetsvederlag enn administrasjonskostnaderoversikt over de representasjonsavtalene som organisasjonen har inngått, med navnene på de kollektive forvaltningsorganisasjonene som avtalene er inngått medgenerelle prinsipper for bruk av beløp som ikke kan fordelesrutiner for klagehåndtering i samsvar med [§ 48](lov/2021-05-28-49/§48) og fremgangsmåter for tvisteløsning.
+En kollektiv forvaltningsorganisasjon skal på sitt nettsted offentliggjøre og oppdatere følgende informasjon om organisasjonen:
+
+1. vedtektene
+2. medlemsvilkårene
+3. standardlisensavtaler og gjeldende standardtariffer, inkludert rabatter
+4. liste over personer som utgjør den daglige ledelsen
+5. generelle prinsipper for fordeling av vederlag til rettighetshavere
+6. generelle prinsipper for administrasjonskostnader
+7. generelle prinsipper for andre fradrag fra rettighetsvederlag enn administrasjonskostnader
+8. oversikt over de representasjonsavtalene som organisasjonen har inngått, med navnene på de kollektive forvaltningsorganisasjonene som avtalene er inngått med
+9. generelle prinsipper for bruk av beløp som ikke kan fordeles
+10. rutiner for klagehåndtering i samsvar med [§ 48](lov/2021-05-28-49/§48) og fremgangsmåter for tvisteløsning.
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 21).
 
@@ -351,11 +414,18 @@ Departementet kan i forskrift fastsette krav til hvilke opplysninger som skal gi
 
 ### § 37. Kapitlets virkeområde
 
-Bestemmelsene i dette kapitlet gjelder for kollektive forvaltningsorganisasjoner og andre organisasjoner og enheter etter [§ 2](lov/2021-05-28-49/§2) andre ledd som tilbyr grensekryssende lisenser for nettrettigheter til musikkverk.1 Bestemmelsene gjelder likevel ikke ved grensekryssende lisensiering avnettrettigheter til musikkverk i form av noternettrettigheter til musikkverk som et kringkastingsforetak må ha for å gjøre sine radio- eller fjernsynsprogram tilgjengelig for allmennheten samtidig med eller etter den opprinnelige sendingen.2
+Bestemmelsene i dette kapitlet gjelder for kollektive forvaltningsorganisasjoner og andre organisasjoner og enheter etter [§ 2](lov/2021-05-28-49/§2) andre ledd som tilbyr grensekryssende lisenser for nettrettigheter til musikkverk.1 Bestemmelsene gjelder likevel ikke ved grensekryssende lisensiering av
+
+1. nettrettigheter til musikkverk i form av noter
+2. nettrettigheter til musikkverk som et kringkastingsforetak må ha for å gjøre sine radio- eller fjernsynsprogram tilgjengelig for allmennheten samtidig med eller etter den opprinnelige sendingen.2
 
 Første ledd bokstav b omfatter også ethvert annet nettmateriale som er produsert av eller for kringkastingsforetaket, og som er tilknyttet den opprinnelige sendingen av radio- eller fjernsynsprogrammet, uavhengig av når materialet gjøres tilgjengelig for allmennheten.3
 
-1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 2 nr. 2 og art. 23).2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).3 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 2 nr. 2 og art. 23).
+
+2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).
+
+3 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).
 
 ### § 38. Krav til organisasjonens behandlingskapasitet
 
@@ -407,7 +477,11 @@ Faktureringen skal være nøyaktig og skje uten opphold etter at faktisk bruk er
 
 En kollektiv forvaltningsorganisasjon skal uten opphold etter å ha mottatt opplysninger som nevnt i [§ 41](lov/2021-05-28-49/§41) andre ledd, utbetale vederlag til rettighetshaveren, med mindre dette ikke er mulig på grunn av forhold som skyldes tilbyderen av den nettbaserte tjenesten.
 
-I forbindelse med hver enkelt utbetaling skal organisasjonen oppgi følgende opplysninger til rettighetshaveren:perioden hvor bruken av rettighetene fant sted, og EØS-statene bruken er knyttet tilrettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettrettighet til musikkverk som rettighetshaveren har gitt organisasjonen fullmakt til å representererettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettbasert tjeneste organisasjonen har inngått lisensavtale med.
+I forbindelse med hver enkelt utbetaling skal organisasjonen oppgi følgende opplysninger til rettighetshaveren:
+
+1. perioden hvor bruken av rettighetene fant sted, og EØS-statene bruken er knyttet til
+2. rettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettrettighet til musikkverk som rettighetshaveren har gitt organisasjonen fullmakt til å representere
+3. rettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettbasert tjeneste organisasjonen har inngått lisensavtale med.
 
 I tilfeller hvor en kollektiv forvaltningsorganisasjon har gitt en annen kollektiv forvaltningsorganisasjon fullmakt til å representere nettrettigheter til musikkverk som den forvalter, skal organisasjonen som er gitt fullmakten, uten opphold fordele vederlaget og gi de opplysningene som er nevnt i andre ledd, til den andre organisasjonen. Den kollektive forvaltningsorganisasjonen som har gitt fullmakten, har ansvaret for at beløpet blir utbetalt til rettighetshaverne sammen med opplysningene som nevnt i andre ledd, om ikke annet er avtalt organisasjonene imellom.
 

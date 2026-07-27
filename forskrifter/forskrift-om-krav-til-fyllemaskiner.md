@@ -15,7 +15,7 @@ xml_hash: "a108fc45aa91bd5cb34f2fe48568ac4483726eed4dc3bc19a0f0e5e64888c2ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Automatisk gravimetrisk fyllemaskin:* En automatisk vekt som fyller pakninger fra bulk med en forhåndsbestemt og tilnærmet konstant masse*Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør måleredskapets normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor måleredskapets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket*Klimatiske miljøer:* De omgivelser der måleredskap kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med:
+
+1. *Automatisk gravimetrisk fyllemaskin:* En automatisk vekt som fyller pakninger fra bulk med en forhåndsbestemt og tilnærmet konstant masse
+2. *Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet
+3. *Målestørrelsen:* Den bestemte størrelsen som skal måles
+4. *Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+5. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør måleredskapets normale driftsbetingelser
+6. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor måleredskapets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+7. *Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket
+8. *Klimatiske miljøer:* De omgivelser der måleredskap kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 ### § 3. Krav til automatiske gravimetriske fyllemaskiner
 
@@ -109,11 +118,23 @@ Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskreve
 | E2 | Denne klassen omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter måleredskap som får strøm fra batteriet i et kjøretøy. Slike måleredskap skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
+
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
 
 ### § 12. Andre påvirkende størrelser
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke automatiske gravimetriske fyllemaskinens nøyaktighet i vesentlig grad.
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke automatiske gravimetriske fyllemaskinens nøyaktighet i vesentlig grad.
 
 ### § 13. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -149,7 +170,12 @@ En automatisk gravimetrisk fyllemaskin skal konstrueres slik at virkningen av en
 
 ### § 20. Egnethet
 
-En automatisk gravimetrisk fyllemaskin skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at fyllemaskinen er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av fyllemaskinen. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom fyllemaskinen er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En automatisk gravimetrisk fyllemaskin skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Konstruert slik at målefunksjonen skal kunne kontrolleres etter at fyllemaskinen er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av fyllemaskinen. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom fyllemaskinen er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En automatisk gravimetrisk fyllemaskin skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -167,9 +193,23 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 22. Opplysninger som skal påføres eller følge den automatiske gravimetriske fyllemaskinen
 
-En automatisk gravimetrisk fyllemaskin skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres den automatiske gravimetriske fyllemaskinen:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+En automatisk gravimetrisk fyllemaskin skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres den automatiske gravimetriske fyllemaskinen:
 
-Opplysninger om betjening skal følge den automatiske gravimetriske fyllemaskinen med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge den automatiske gravimetriske fyllemaskinen med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
 
@@ -201,7 +241,18 @@ En automatisk gravimetrisk fyllemaskin skal være konstruert slik at det lett ka
 
 ### § 27. Angitte driftsbetingelser
 
-Produsenten skal angi nominelle bruksforhold for automatiske gravimetriske fyllemaskiner som følger:For målestørrelsen: Måleområdet i form av største og minste lastFor påvirkende størrelser fra elektrisitetsforsyning:For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenningFor likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenningFor mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For fyllemaskiner som brukes under spesiell mekanisk belastning, f.eks. fyllemaskiner som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdeneFor andre påvirkende størrelser (om relevant):Arbeidshastighet(er)Egenskaper ved produkt(er) til veiing.
+Produsenten skal angi nominelle bruksforhold for automatiske gravimetriske fyllemaskiner som følger:
+
+1. For målestørrelsen: Måleområdet i form av største og minste last
+2. For påvirkende størrelser fra elektrisitetsforsyning:
+
+   1. For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenning
+   2. For likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenning
+3. For mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For fyllemaskiner som brukes under spesiell mekanisk belastning, f.eks. fyllemaskiner som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdene
+4. For andre påvirkende størrelser (om relevant):
+
+   1. Arbeidshastighet(er)
+   2. Egenskaper ved produkt(er) til veiing.
 
 ### § 28. Egnethet
 

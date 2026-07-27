@@ -52,7 +52,34 @@ Annen norsk rett enn forskriften her, herunder bestemmelser om tillatelse, godkj
 
 ### § 1-6. Definisjoner
 
-I denne forskrift forstås med:*CO2 -strømmer*, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,*CO2 -utbredelse*, fordeling av CO2 -volumene i et undersjøisk reservoar,*Departementet*, Det kongelige energidepartement,*Etterdrift*, perioden etter nedstengning av en lagringslokalitet, herunder perioden etter overføring av ansvaret for denne til Energidepartementet,*Geologisk formasjon*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller litostratigrafiske underinndelinger,*Geologisk lagring av CO2*, injeksjon etterfulgt av lagring av CO2 i undersjøiske geologiske reservoarer,*Hydraulisk enhet*, et hydraulisk forbundet porevolum hvor trykkommunikasjon kan måles teknisk, og som er omgitt av strømningsbarrierer (forkastninger eller litologiske grenser). En hydraulisk enhet kan være ett undersjøisk reservoar eller bestå av flere undersjøiske reservoarer og den omgivende bergarten.*Injeksjon*, injeksjon av CO2 i undersjøiske reservoarer, herunder boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon,*Innretning*, installasjon, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2 , likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt,*Kontinentalsokkelen*, havbunnen og undergrunnen i de undersjøiske områder som strekker seg utover norsk sjøterritorium gjennom hele den naturlige forlengelse av landterritoriet til ytterkanten av kontinentalmarginen, men ikke kortere enn 200 nautiske mil fra grunnlinjene som sjøterritoriets bredde er målt fra, likevel ikke utover midtlinjen i forhold til annen stat med mindre annet følger av folkerettens regler for kontinentalsokkel utenfor 200 nautiske mil fra grunnlinjene eller overenskomst med vedkommende stat,*Lagringskompleks*, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,*Lagringslokalitet*, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 , og tilhørende overflate- og injeksjonsinnretninger,*Lekkasje*; frigjøring av CO2 fra lagringskomplekset,*Leteboring*, boring av undersøkelses- og avgrensningsbrønner med sikte på vurdering av potensialet for utnyttelse av undersjøisk reservoar til lagring av CO2 , samt drift og bruk av innretning i den utstrekning den anvendes til leteboring,*Leting*, geologiske, geofysiske, geokjemiske og geotekniske aktiviteter, leteboring, overvåkning og injeksjonstesting for å karakterisere lagringslokaliteten med sikte på vurdering av potensialet for utnyttelse av den til lagring av CO2 , samt drift og bruk av innretning i den utstrekning den anvendes til leting,*Nedstengning av en lagringslokalitet*, endelig opphør av CO2 -injeksjon i denne lagringslokaliteten,*Migrasjon*, bevegelse av CO2 i lagringskomplekset,*Operatør*, den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2 ,*Undersjøisk reservoar*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar,*Utnyttelse*, all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2 , seismisk datainnsamling for overvåkning, avslutning og permanent lagring av CO2 samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip,*Rettighetshaver*, juridisk person, eller flere slike personer, som etter forskriften her innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøisk reservoar til lagring av CO2 , eller til anlegg og drift av innretninger for transport av CO2 . Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker,*Transport*, skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport,*Utbedrende tiltak*, tiltak som iverksettes for å korrigere vesentlig uregelmessighet med sikte på å hindre eller stoppe lekkasje av CO2 fra lagringskomplekset,*Vannsøyle*, den kontinuerlige vertikale vannmengde fra overflaten til bunnsedimentene i en vannmasse,*Vesentlig risiko*, en risiko for skade på miljøet eller menneskers helse som ikke kan overses uten at formålet om miljøsikker geologisk lagring av CO2 kommer i fare. I vurderingen av om det foreligger en vesentlig risiko er det nødvendig å ta hensyn til både sannsynligheten for at skade inntreffer og det omfanget skaden vil få dersom den inntreffer,*Vesentlig uregelmessighet*, en uregelmessighet i injeksjons- eller lagringsoperasjonen eller i selve lagringskompleksets tilstand som innebærer en fare for lekkasje eller en risiko for miljøet eller menneskers helse.
+I denne forskrift forstås med:
+
+1. *CO2 -strømmer*, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,
+2. *CO2 -utbredelse*, fordeling av CO2 -volumene i et undersjøisk reservoar,
+3. *Departementet*, Det kongelige energidepartement,
+4. *Etterdrift*, perioden etter nedstengning av en lagringslokalitet, herunder perioden etter overføring av ansvaret for denne til Energidepartementet,
+5. *Geologisk formasjon*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller litostratigrafiske underinndelinger,
+6. *Geologisk lagring av CO2*, injeksjon etterfulgt av lagring av CO2 i undersjøiske geologiske reservoarer,
+7. *Hydraulisk enhet*, et hydraulisk forbundet porevolum hvor trykkommunikasjon kan måles teknisk, og som er omgitt av strømningsbarrierer (forkastninger eller litologiske grenser). En hydraulisk enhet kan være ett undersjøisk reservoar eller bestå av flere undersjøiske reservoarer og den omgivende bergarten.
+8. *Injeksjon*, injeksjon av CO2 i undersjøiske reservoarer, herunder boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon,
+9. *Innretning*, installasjon, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2 , likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt,
+10. *Kontinentalsokkelen*, havbunnen og undergrunnen i de undersjøiske områder som strekker seg utover norsk sjøterritorium gjennom hele den naturlige forlengelse av landterritoriet til ytterkanten av kontinentalmarginen, men ikke kortere enn 200 nautiske mil fra grunnlinjene som sjøterritoriets bredde er målt fra, likevel ikke utover midtlinjen i forhold til annen stat med mindre annet følger av folkerettens regler for kontinentalsokkel utenfor 200 nautiske mil fra grunnlinjene eller overenskomst med vedkommende stat,
+11. *Lagringskompleks*, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,
+12. *Lagringslokalitet*, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 , og tilhørende overflate- og injeksjonsinnretninger,
+13. *Lekkasje*; frigjøring av CO2 fra lagringskomplekset,
+14. *Leteboring*, boring av undersøkelses- og avgrensningsbrønner med sikte på vurdering av potensialet for utnyttelse av undersjøisk reservoar til lagring av CO2 , samt drift og bruk av innretning i den utstrekning den anvendes til leteboring,
+15. *Leting*, geologiske, geofysiske, geokjemiske og geotekniske aktiviteter, leteboring, overvåkning og injeksjonstesting for å karakterisere lagringslokaliteten med sikte på vurdering av potensialet for utnyttelse av den til lagring av CO2 , samt drift og bruk av innretning i den utstrekning den anvendes til leting,
+16. *Nedstengning av en lagringslokalitet*, endelig opphør av CO2 -injeksjon i denne lagringslokaliteten,
+17. *Migrasjon*, bevegelse av CO2 i lagringskomplekset,
+18. *Operatør*, den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2 ,
+19. *Undersjøisk reservoar*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar,
+20. *Utnyttelse*, all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2 , seismisk datainnsamling for overvåkning, avslutning og permanent lagring av CO2 samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip,
+21. *Rettighetshaver*, juridisk person, eller flere slike personer, som etter forskriften her innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøisk reservoar til lagring av CO2 , eller til anlegg og drift av innretninger for transport av CO2 . Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker,
+22. *Transport*, skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport,
+23. *Utbedrende tiltak*, tiltak som iverksettes for å korrigere vesentlig uregelmessighet med sikte på å hindre eller stoppe lekkasje av CO2 fra lagringskomplekset,
+24. *Vannsøyle*, den kontinuerlige vertikale vannmengde fra overflaten til bunnsedimentene i en vannmasse,
+25. *Vesentlig risiko*, en risiko for skade på miljøet eller menneskers helse som ikke kan overses uten at formålet om miljøsikker geologisk lagring av CO2 kommer i fare. I vurderingen av om det foreligger en vesentlig risiko er det nødvendig å ta hensyn til både sannsynligheten for at skade inntreffer og det omfanget skaden vil få dersom den inntreffer,
+26. *Vesentlig uregelmessighet*, en uregelmessighet i injeksjons- eller lagringsoperasjonen eller i selve lagringskompleksets tilstand som innebærer en fare for lekkasje eller en risiko for miljøet eller menneskers helse.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -82,7 +109,13 @@ Et undersjøisk reservoar skal bare velges som lagringslokalitet dersom det unde
 
 ### § 1-11. Traséundersøkelser og andre grunnundersøkelser
 
-Rettighetshaver skal senest fem uker før traséundersøkelser og andre grunnundersøkelser påbegynnes sende følgende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvarsdepartementet:Formålet med undersøkelsene,Tid, varighet og sted for undersøkelsene,Undersøkelsesmetoder,Hvilket fartøy som skal benyttes,Hvor dypt det eventuelt skal bores.
+Rettighetshaver skal senest fem uker før traséundersøkelser og andre grunnundersøkelser påbegynnes sende følgende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvarsdepartementet:
+
+1. Formålet med undersøkelsene,
+2. Tid, varighet og sted for undersøkelsene,
+3. Undersøkelsesmetoder,
+4. Hvilket fartøy som skal benyttes,
+5. Hvor dypt det eventuelt skal bores.
 
 Fartøy som foretar trasé- og andre grunnundersøkelser skal ha fiskerikyndig person om bord når det er nødvendig av hensyn til fiskerivirksomheten i området. I tvilstilfeller har Sokkeldirektoratet i samråd med Fiskeridirektoratet avgjørende myndighet. Navn på fiskerikyndig person skal meddeles de nevnte myndigheter snarest, og senest fem dager før aktiviteten påbegynnes.
 
@@ -116,7 +149,12 @@ Undersøkelsestillatelsen skal angi det området den omfatter og kan omfatte en 
 
 ### § 2-3. Søknad om undersøkelsestillatelse
 
-Søknad om undersøkelsestillatelse sendes departementet eller den det bemyndiger og skal inneholde opplysninger om:Søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgis,Hvem i Norge som skal være representant overfor myndighetene,Hvilket område søknaden omfatter,Formålet med og arten av undersøkelsen.
+Søknad om undersøkelsestillatelse sendes departementet eller den det bemyndiger og skal inneholde opplysninger om:
+
+1. Søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgis,
+2. Hvem i Norge som skal være representant overfor myndighetene,
+3. Hvilket område søknaden omfatter,
+4. Formålet med og arten av undersøkelsen.
 
 Departementet eller den det bemyndiger kan kreve tilleggsopplysninger.
 
@@ -148,7 +186,12 @@ Departementet kan endre gebyr i denne bestemmelsen i samsvar med endringer i pen
 
 ### § 2-6. Meddelelse av opplysninger i forbindelse med undersøkelser
 
-Rettighetshaver skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvarsdepartementet om:Tid, varighet og nøyaktige opplysninger om området for undersøkelsen med posisjonslinjer,Undersøkelsesmetoder som skal anvendes,Hvilket fartøy som skal benyttes,I hvilken form resultatene fra undersøkelsen vil foreligge.
+Rettighetshaver skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvarsdepartementet om:
+
+1. Tid, varighet og nøyaktige opplysninger om området for undersøkelsen med posisjonslinjer,
+2. Undersøkelsesmetoder som skal anvendes,
+3. Hvilket fartøy som skal benyttes,
+4. I hvilken form resultatene fra undersøkelsen vil foreligge.
 
 Navn på fiskerikyndig person skal meddeles de nevnte myndigheter snarest, og senest fem dager før aktiviteten påbegynnes.
 
@@ -238,7 +281,18 @@ Kongen kan sette som vilkår for tildeling av utnyttelsestillatelse at rettighet
 
 ### § 4-2. Søknad om tillatelse til utnyttelse av undersjøisk reservoar til injeksjon og lagring av CO2
 
-Søknad om tillatelse til utnyttelse av et undersjøisk reservoar til injeksjon og lagring av CO2 sendes departementet med kopi til Sokkeldirektoratet og Havindustritilsynet. Søknaden skal inneholde:Søkerens navn og adresse,Angivelse av hvem i Norge som skal være representant overfor myndighetene,Angivelse av det eller de områder det søkes om utnyttelsestillatelse for,Angivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områder,Opplysninger om søkerens virksomhet, herunder finansiell kapasitet,En geologisk evaluering av det eller de områder det søkes om utnyttelsestillatelse for, og hvordan en effektiv lagringsaktivitet planlegges der,En økonomisk evaluering av det eller de områder det søkes om utnyttelsestillatelse for,Opplysninger om erfaring og teknisk kompetanse av betydning for det eller de områder det søkes om utnyttelsestillatelse for,Beskrivelse av den organisasjon og kompetanse søkeren vil ha til rådighet i Norge og andre steder for aktivitet i forbindelse med det eller de områder det søkes om utnyttelsestillatelse for,Kvittering for innbetalt behandlingsgebyr.
+Søknad om tillatelse til utnyttelse av et undersjøisk reservoar til injeksjon og lagring av CO2 sendes departementet med kopi til Sokkeldirektoratet og Havindustritilsynet. Søknaden skal inneholde:
+
+1. Søkerens navn og adresse,
+2. Angivelse av hvem i Norge som skal være representant overfor myndighetene,
+3. Angivelse av det eller de områder det søkes om utnyttelsestillatelse for,
+4. Angivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områder,
+5. Opplysninger om søkerens virksomhet, herunder finansiell kapasitet,
+6. En geologisk evaluering av det eller de områder det søkes om utnyttelsestillatelse for, og hvordan en effektiv lagringsaktivitet planlegges der,
+7. En økonomisk evaluering av det eller de områder det søkes om utnyttelsestillatelse for,
+8. Opplysninger om erfaring og teknisk kompetanse av betydning for det eller de områder det søkes om utnyttelsestillatelse for,
+9. Beskrivelse av den organisasjon og kompetanse søkeren vil ha til rådighet i Norge og andre steder for aktivitet i forbindelse med det eller de områder det søkes om utnyttelsestillatelse for,
+10. Kvittering for innbetalt behandlingsgebyr.
 
 Departementet kan fravike kravet til innhold i søknaden etter første ledd, herunder kreve ytterligere opplysninger.
 
@@ -292,7 +346,26 @@ Departementet skal underrettes om og godkjenne vesentlig avvik eller endring av 
 
 Beskrivelsen av utbyggingen med tilhørende dokumentasjon skal tilpasses utbyggingens omfang. Beskrivelsen skal redegjøre for økonomiske, ressursmessige, tekniske og sikkerhets- og miljømessige forhold ved utbyggingen.
 
-Beskrivelsen av utbyggingen skal i nødvendig utstrekning inneholde:En karakterisering av lagringslokaliteten og lagringskomplekset og en vurdering av forventet sikkerhet for lagring, jf. [§ 1-10](forskrift/2014-12-05-1517/§1-10);Beskrivelse av injeksjonsstrategi og utbyggingsløsning for lagringslokaliteten, samt kriterier for de valg som er gjort,Beskrivelse av geofaglige og reservoartekniske forhold, samt det totale volum CO2 som skal injiseres og lagres, angivelse av forventede CO2 -kilder og transportmetoder, injeksjonshastighet og trykkforhold, samt en beskrivelse av hvor injeksjonsinnretningene skal plasseres,Sammensetning av CO2 -strømmen,Beskrivelse av tekniske løsninger med forventet energiforbruk og -tilgang, herunder tiltak for å forebygge vesentlig uregelmessighet,Opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen av lagringslokaliteten,Opplysninger om drift og vedlikehold,Opplysninger om økonomiske forhold,Opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,Opplysninger om innretninger for transport som omfattes av [§ 6-1](forskrift/2014-12-05-1517/§6-1),Beskrivelse av tekniske tiltak for beredskap, jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringerOpplysninger om andre forhold som er av betydning for injeksjon og lagring av CO2 ,Andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten med endringer og på enkelte landanlegg,Forslag til overvåkningsplan, jf. vedlegg II til denne forskriftForslag til plan for utbedrende tiltak ved vesentlige uregelmessigheter, jf. [§ 5-6](forskrift/2014-12-05-1517/§5-6) første ledd b),Forslag til foreløpig plan for etterdrift, jf. [§ 5-7](forskrift/2014-12-05-1517/§5-7) og vedlegg II til denne forskrift,Dokumentasjon som viser at den finansielle sikkerhetsstillelse eller annen tilsvarende ytelse som kreves etter [§ 5-9](forskrift/2014-12-05-1517/§5-9) er gyldig og trådt i kraft før lagring av CO2 starter,Opplysninger om hvordan lagringsinnretningene vil kunne disponeres ved nedlukking av lagringslokaliteten.
+Beskrivelsen av utbyggingen skal i nødvendig utstrekning inneholde:
+
+1. En karakterisering av lagringslokaliteten og lagringskomplekset og en vurdering av forventet sikkerhet for lagring, jf. [§ 1-10](forskrift/2014-12-05-1517/§1-10);
+2. Beskrivelse av injeksjonsstrategi og utbyggingsløsning for lagringslokaliteten, samt kriterier for de valg som er gjort,
+3. Beskrivelse av geofaglige og reservoartekniske forhold, samt det totale volum CO2 som skal injiseres og lagres, angivelse av forventede CO2 -kilder og transportmetoder, injeksjonshastighet og trykkforhold, samt en beskrivelse av hvor injeksjonsinnretningene skal plasseres,
+4. Sammensetning av CO2 -strømmen,
+5. Beskrivelse av tekniske løsninger med forventet energiforbruk og -tilgang, herunder tiltak for å forebygge vesentlig uregelmessighet,
+6. Opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen av lagringslokaliteten,
+7. Opplysninger om drift og vedlikehold,
+8. Opplysninger om økonomiske forhold,
+9. Opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,
+10. Opplysninger om innretninger for transport som omfattes av [§ 6-1](forskrift/2014-12-05-1517/§6-1),
+11. Beskrivelse av tekniske tiltak for beredskap, jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringer
+12. Opplysninger om andre forhold som er av betydning for injeksjon og lagring av CO2 ,
+13. Andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten med endringer og på enkelte landanlegg,
+14. Forslag til overvåkningsplan, jf. vedlegg II til denne forskrift
+15. Forslag til plan for utbedrende tiltak ved vesentlige uregelmessigheter, jf. [§ 5-6](forskrift/2014-12-05-1517/§5-6) første ledd b),
+16. Forslag til foreløpig plan for etterdrift, jf. [§ 5-7](forskrift/2014-12-05-1517/§5-7) og vedlegg II til denne forskrift,
+17. Dokumentasjon som viser at den finansielle sikkerhetsstillelse eller annen tilsvarende ytelse som kreves etter [§ 5-9](forskrift/2014-12-05-1517/§5-9) er gyldig og trådt i kraft før lagring av CO2 starter,
+18. Opplysninger om hvordan lagringsinnretningene vil kunne disponeres ved nedlukking av lagringslokaliteten.
 
 ### § 4-7. Utredningsprogram for konsekvensutredning i plan for utbygging og drift av undersjøisk reservoar til injeksjon og lagring av CO2
 
@@ -304,7 +377,22 @@ Rettighetshaver sender forslaget til utredningsprogram til uttalelse til berørt
 
 ### § 4-8. Konsekvensutredning i plan for utbygging og drift av undersjøisk reservoar til injeksjon og lagring av CO2
 
-En konsekvensutredning i en plan for utbygging og lagring av CO2 i undersjøisk reservoar skal redegjøre for virkningene utbyggingen kan ha for næringsmessige forhold og miljømessige forhold, herunder forebyggende og avbøtende tiltak. Konsekvensutredningen skal blant annet:Beskrive alternative utbyggingsløsninger som rettighetshaver har undersøkt og begrunne valg av utbyggingsløsning og injeksjonsstrategi, redegjøre for kriteriene for det valg som er gjort, samt beskrive eventuelle påfølgende utbyggingstrinn, tilknytning til andre undersjøiske reservoarer for lagring av CO2 [og landanlegg] og eventuell samordning av lagring,Beskrive det miljø som i vesentlig grad kan bli berørt, og vurdere og avveie miljøkonsekvenser av utbyggingen og lagringen, herunder:beskrive utslipp til sjø og luft,beskrive eventuelle materielle verdier og kulturminner som kan bli berørt som følge av utbyggingen,vurdere konsekvensene av de tekniske løsninger som er valgt,klargjøre hvordan miljøkriterier og -konsekvenser har vært lagt til grunn for de tekniske løsninger som er valgt,beskrive mulige og planlagte tiltak for å hindre, redusere og om mulig oppveie betydelige negative miljøvirkninger,Vurdere hvilke tillatelser, godkjennelser eller samtykker det skal søkes om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet, sjøgrunn undergitt privat eiendomsrett, indre farvann eller sjøterritoriet,Vurdere hvordan innretningene vil kunne disponeres ved avslutning av lagringen,Vurdere innretninger for transport eller utnyttelse som omfattes av forskriften [§ 6-1](forskrift/2014-12-05-1517/§6-1),Vurdere tekniske tiltak for beredskap,Vurdere hvordan miljøovervåkning i området kan gjennomføres,Ha et sammendrag av ovennevnte punkter.
+En konsekvensutredning i en plan for utbygging og lagring av CO2 i undersjøisk reservoar skal redegjøre for virkningene utbyggingen kan ha for næringsmessige forhold og miljømessige forhold, herunder forebyggende og avbøtende tiltak. Konsekvensutredningen skal blant annet:
+
+1. Beskrive alternative utbyggingsløsninger som rettighetshaver har undersøkt og begrunne valg av utbyggingsløsning og injeksjonsstrategi, redegjøre for kriteriene for det valg som er gjort, samt beskrive eventuelle påfølgende utbyggingstrinn, tilknytning til andre undersjøiske reservoarer for lagring av CO2 [og landanlegg] og eventuell samordning av lagring,
+2. Beskrive det miljø som i vesentlig grad kan bli berørt, og vurdere og avveie miljøkonsekvenser av utbyggingen og lagringen, herunder:
+
+   - beskrive utslipp til sjø og luft,
+   - beskrive eventuelle materielle verdier og kulturminner som kan bli berørt som følge av utbyggingen,
+   - vurdere konsekvensene av de tekniske løsninger som er valgt,
+   - klargjøre hvordan miljøkriterier og -konsekvenser har vært lagt til grunn for de tekniske løsninger som er valgt,
+   - beskrive mulige og planlagte tiltak for å hindre, redusere og om mulig oppveie betydelige negative miljøvirkninger,
+3. Vurdere hvilke tillatelser, godkjennelser eller samtykker det skal søkes om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet, sjøgrunn undergitt privat eiendomsrett, indre farvann eller sjøterritoriet,
+4. Vurdere hvordan innretningene vil kunne disponeres ved avslutning av lagringen,
+5. Vurdere innretninger for transport eller utnyttelse som omfattes av forskriften [§ 6-1](forskrift/2014-12-05-1517/§6-1),
+6. Vurdere tekniske tiltak for beredskap,
+7. Vurdere hvordan miljøovervåkning i området kan gjennomføres,
+8. Ha et sammendrag av ovennevnte punkter.
 
 Konsekvensutredningen skal utarbeides på grunnlag av utredningsprogrammet som er fastsatt i medhold av [§ 4-7](forskrift/2014-12-05-1517/§4-7) og tilpasses utbyggingens omfang og i hvilken grad utbyggingen anses omfattet av en konsekvensutredning for et større samlet område. Konsekvensutredningen skal sendes departementet senest samtidig med en beskrivelse av utbyggingen. I områder der flere undersjøiske reservoarer for lagring av CO2 skal bygges ut, vil rettighetshaver kunne utarbeide en konsekvensutredning for et større samlet område. For utbygginger som også skal konsekvensutredes etter annen lovgivning, kan det utarbeides en felles konsekvensutredning.
 
@@ -380,7 +468,15 @@ Før oppstart av injeksjon og lagring av CO2 i undersjøisk reservoar, må retti
 
 Samtykket til injeksjon og lagring av CO2 skal være kompatibelt med lagringstillatelse gitt av forurensningsmyndigheten i medhold av [forskrift 1. juni 2004 nr. 931](forskrift/2004-06-01-931) til forurensningsloven ([forurensningsforskriften) kapittel 35](forskrift/2004-06-01-931/kap35). Det samme gjelder enhver senere endring av, unntak fra eller tillegg til slikt samtykke.
 
-Søknad om samtykke til injeksjon og lagring av CO2 skal inneholde:Lagringslokalitetens og lagringskompleksets område og avgrensning, samt informasjon om det undersjøiske geologiske reservoar, herunder den hydrauliske enhet som samtykket til injeksjon og lagring skal gjelde for,Injeksjonsoperasjonen, den mengde CO2 som kan injiseres, grenseverdier for reservoartrykket og grenseverdier for injeksjonsrater og -trykk,Volumer og grenseverdier for trykkoppbygging,Operatørens overvåkningsplan jf. vedlegg II til denne forskrift,Måling av CO2 -injeksjonsrater,Planer for eventuelle korrigerende tiltak,Plan for nedstenging og etterdrift.
+Søknad om samtykke til injeksjon og lagring av CO2 skal inneholde:
+
+- Lagringslokalitetens og lagringskompleksets område og avgrensning, samt informasjon om det undersjøiske geologiske reservoar, herunder den hydrauliske enhet som samtykket til injeksjon og lagring skal gjelde for,
+- Injeksjonsoperasjonen, den mengde CO2 som kan injiseres, grenseverdier for reservoartrykket og grenseverdier for injeksjonsrater og -trykk,
+- Volumer og grenseverdier for trykkoppbygging,
+- Operatørens overvåkningsplan jf. vedlegg II til denne forskrift,
+- Måling av CO2 -injeksjonsrater,
+- Planer for eventuelle korrigerende tiltak,
+- Plan for nedstenging og etterdrift.
 
 Departementet eller den det bemyndiger skal underrettes ved lekkasje eller vesentlige uregelmessigheter.
 
@@ -388,11 +484,21 @@ Departementet eller den det bemyndiger skal underrettes ved lekkasje eller vesen
 
 ### § 5-3. Vilkår for samtykke til injeksjon og lagring av CO2
 
-Et samtykke til injeksjon og lagring av CO2 er betinget av at følgende vilkår er oppfylt:Alle relevante krav i denne forskrift er oppfylt,Rettighetshaver har den finansielle styrke, tekniske kompetanse og pålitelighet som anses påkrevet for å operere og kontrollere lagringslokaliteten, og alle kvalitetskrav til rettighetshaver og hans organisasjon er oppfylt,Potensielle gjensidige trykkpåvirkninger mellom lagringslokaliteter i samme hydrauliske enhet er av en slik karakter at denne forskriftens krav kan oppfylles for begge lokaliteter samtidig.
+Et samtykke til injeksjon og lagring av CO2 er betinget av at følgende vilkår er oppfylt:
+
+1. Alle relevante krav i denne forskrift er oppfylt,
+2. Rettighetshaver har den finansielle styrke, tekniske kompetanse og pålitelighet som anses påkrevet for å operere og kontrollere lagringslokaliteten, og alle kvalitetskrav til rettighetshaver og hans organisasjon er oppfylt,
+3. Potensielle gjensidige trykkpåvirkninger mellom lagringslokaliteter i samme hydrauliske enhet er av en slik karakter at denne forskriftens krav kan oppfylles for begge lokaliteter samtidig.
 
 ### § 5-4. Overvåkning
 
-Operatøren skal overvåke injeksjonsanleggene og lagringskomplekset, inklusive CO2 -utbredelsen for å:Sammenligne den faktiske og modellerte oppførselen til CO2 og formasjonsvannet i lagringslokaliteten,Identifisere vesentlige uregelmessigheter,Følge migrasjon av CO2 ,Oppdage lekkasje av CO2 fra lagringskomplekset,Oppdatere vurderingen av lagringskompleksets sikkerhet og integritet på kort og lang sikt, herunder om den lagrede CO2 vil forblir sikkert lagret.
+Operatøren skal overvåke injeksjonsanleggene og lagringskomplekset, inklusive CO2 -utbredelsen for å:
+
+1. Sammenligne den faktiske og modellerte oppførselen til CO2 og formasjonsvannet i lagringslokaliteten,
+2. Identifisere vesentlige uregelmessigheter,
+3. Følge migrasjon av CO2 ,
+4. Oppdage lekkasje av CO2 fra lagringskomplekset,
+5. Oppdatere vurderingen av lagringskompleksets sikkerhet og integritet på kort og lang sikt, herunder om den lagrede CO2 vil forblir sikkert lagret.
 
 Overvåkningen skal foretas på grunnlag av en overvåkningsplan utarbeidet av operatøren i samsvar med kravene i vedlegg II til denne forskrift, og som departementet har samtykket til i medhold av [§ 5-2](forskrift/2014-12-05-1517/§5-2).
 
@@ -416,7 +522,10 @@ Hvis operatøren ikke iverksetter de nødvendige utbedrende tiltak, skal departe
 
 ### § 5-7. Nedstengning og etterdrift
 
-En lagringslokalitet skal nedstenges dersom:Betingelsene som oppstilles for nedstengning i lagringstillatelsen gitt av forurensningsmyndigheten i medhold av forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning (forurensningsforskriften) [kapittel 35](forskrift/2004-06-01-931/kap35) og i samtykket til injeksjon og lagring er oppfylt,Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren.
+En lagringslokalitet skal nedstenges dersom:
+
+1. Betingelsene som oppstilles for nedstengning i lagringstillatelsen gitt av forurensningsmyndigheten i medhold av forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning (forurensningsforskriften) [kapittel 35](forskrift/2004-06-01-931/kap35) og i samtykket til injeksjon og lagring er oppfylt,
+2. Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren.
 
 Etter nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) eller b) og frem til ansvaret for lagringslokaliteten overdras til staten v/departementet i medhold av [§ 5-8](forskrift/2014-12-05-1517/§5-8) første og sjette ledd, er operatøren fortsatt ansvarlig for overvåkning, rapportering og iverksettelse av utbedrende tiltak i samsvar med bestemmelsene i denne forskrift. Operatøren er også ansvarlig for å forsegle lagringslokaliteten og fjerne injeksjonsanleggene.
 
@@ -428,9 +537,18 @@ Før nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) o
 
 ### § 5-8. Ansvarsoverføring
 
-Etter nedstengning av en lagringslokalitet i medhold av [§ 5-7](forskrift/2014-12-05-1517/§5-7) første ledd bokstav a) eller b), skal alle forpliktelser vedrørende overvåkning og utbedrende tiltak i medhold av denne forskrift overføres til staten v/departementet eller den det bemyndiger, enten på eget initiativ eller etter søknad fra operatøren, såfremt følgende vilkår er oppfylt:Alle tilgjengelige opplysninger peker i retning av at den lagrede CO2 vil forbli fullstendig og permanent innesluttet. Operatøren må blant annet kunne dokumentere at den faktiske oppførsel av injisert CO2 stemmer overens med den modellerte oppførsel, at det ikke kan påvises lekkasje og at lagringslokaliteten utvikler seg mot en tilstand av varig stabilitet,En minimumsperiode fastsatt av departementet eller den det bemyndiger er utløpt. Denne minimumsperioden skal ikke være kortere enn 20 år, med mindre departementet eller den det bemyndiger etter søknad fra operatøren før eller på dette tidspunkt er overbevist om at kravet i bokstav a) er oppfylt før utløpet av denne perioden,De finansielle krav nevnt i [§ 5-10](forskrift/2014-12-05-1517/§5-10) er oppfylt,Lagringslokaliteten er forsvarlig forlatt og injeksjonsanleggene fjernet.
+Etter nedstengning av en lagringslokalitet i medhold av [§ 5-7](forskrift/2014-12-05-1517/§5-7) første ledd bokstav a) eller b), skal alle forpliktelser vedrørende overvåkning og utbedrende tiltak i medhold av denne forskrift overføres til staten v/departementet eller den det bemyndiger, enten på eget initiativ eller etter søknad fra operatøren, såfremt følgende vilkår er oppfylt:
 
-Operatøren skal utarbeide en rapport som dokumenterer at vilkåret i første ledd bokstav a) er oppfylt og fremlegge denne for departementet eller den det bemyndiger. Rapporten skal minst viseat den injiserte CO2 faktisk oppfører seg i samsvar med den modellerte oppførselen,at ingen lekkasje kan påvises,at lagringsstedet utvikles i retning av en tilstand av langsiktig stabilitet.
+1. Alle tilgjengelige opplysninger peker i retning av at den lagrede CO2 vil forbli fullstendig og permanent innesluttet. Operatøren må blant annet kunne dokumentere at den faktiske oppførsel av injisert CO2 stemmer overens med den modellerte oppførsel, at det ikke kan påvises lekkasje og at lagringslokaliteten utvikler seg mot en tilstand av varig stabilitet,
+2. En minimumsperiode fastsatt av departementet eller den det bemyndiger er utløpt. Denne minimumsperioden skal ikke være kortere enn 20 år, med mindre departementet eller den det bemyndiger etter søknad fra operatøren før eller på dette tidspunkt er overbevist om at kravet i bokstav a) er oppfylt før utløpet av denne perioden,
+3. De finansielle krav nevnt i [§ 5-10](forskrift/2014-12-05-1517/§5-10) er oppfylt,
+4. Lagringslokaliteten er forsvarlig forlatt og injeksjonsanleggene fjernet.
+
+Operatøren skal utarbeide en rapport som dokumenterer at vilkåret i første ledd bokstav a) er oppfylt og fremlegge denne for departementet eller den det bemyndiger. Rapporten skal minst vise
+
+1. at den injiserte CO2 faktisk oppfører seg i samsvar med den modellerte oppførselen,
+2. at ingen lekkasje kan påvises,
+3. at lagringsstedet utvikles i retning av en tilstand av langsiktig stabilitet.
 
 Senest en måned etter at operatørens rapport er mottatt, skal departementet eller den det bemyndiger sende rapporten til EFTAs overvåkningsorgan.
 
@@ -508,7 +626,19 @@ Bestemmelsene i [§ 4-5](forskrift/2014-12-05-1517/§4-5), unntatt første ledd 
 
 Søknad om tillatelse til anlegg og drift av innretninger som nevnt i [§ 6-1](forskrift/2014-12-05-1517/§6-1) første ledd skal redegjøre for økonomiske, ressursmessige, tekniske og miljø- og sikkerhetsmessige forhold ved prosjektet. Dokumentasjon skal tilpasses prosjektets omfang.
 
-Plan for anlegg og drift av innretninger som nevnt i [§ 6-1](forskrift/2014-12-05-1517/§6-1) første ledd skal i nødvendig utstrekning inneholde:Opplysninger om rørledningens bestemmelsessted, trasé, dimensjon og transportkapasitet, samt kriterier for de valg som er gjort,Opplysninger om eierforholdet til innretningen,Beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,Opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,Opplysninger om drift og vedlikehold,Opplysninger om økonomiske forhold,Opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom en innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,Opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av lagring av CO2 ,Beskrivelse av tekniske tiltak for beredskap jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringer,Opplysninger om andre forhold som er av betydning for ressursforvaltningen,Andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringer.
+Plan for anlegg og drift av innretninger som nevnt i [§ 6-1](forskrift/2014-12-05-1517/§6-1) første ledd skal i nødvendig utstrekning inneholde:
+
+1. Opplysninger om rørledningens bestemmelsessted, trasé, dimensjon og transportkapasitet, samt kriterier for de valg som er gjort,
+2. Opplysninger om eierforholdet til innretningen,
+3. Beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,
+4. Opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,
+5. Opplysninger om drift og vedlikehold,
+6. Opplysninger om økonomiske forhold,
+7. Opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom en innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,
+8. Opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av lagring av CO2 ,
+9. Beskrivelse av tekniske tiltak for beredskap jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringer,
+10. Opplysninger om andre forhold som er av betydning for ressursforvaltningen,
+11. Andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter jf. [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg, med endringer.
 
 Departementet kan fravike kravet til dokumentasjon etter første ledd, herunder kreve alternative løsninger utredet.
 
@@ -518,9 +648,17 @@ Beskrivelsen skal også samordnes med krav i [forskrift 12. februar 2010 nr. 158
 
 ### § 6-3. Vilkår mv.
 
-For tillatelse til anlegg og drift av innretninger kan departementet sette vilkår, bl.a. vedrørende:Eierforholdet til innretningen,Rørledningens bestemmelsessted,Rørledningens trasé, dimensjon og transportkapasitet.
+For tillatelse til anlegg og drift av innretninger kan departementet sette vilkår, bl.a. vedrørende:
 
-Departementet kan ved tildeling av tillatelse til anlegg og drift av innretninger som nevnt i denne bestemmelse og senere:Fastsette tariffer for bruk av innretningen for eierens egen og for annen CO2 ,Gi pålegg om at innretningen skal tilknyttes andre innretninger, at kapasiteten skal økes og at innretningen skal ombygges for å kunne benyttes for annen CO2 enn den opprinnelig er bygget for. Pålegg som nevnt må ikke fordyre eller i urimelig grad vanskeliggjøre bruk av innretningen som er sikret etter godkjennelse av departementet. Kostnadene ved gjennomføring av pålegg som nevnt, skal etter departementets nærmere bestemmelse dekkes av den eller de som pålegg er gitt til fordel for eller tas i betraktning ved fastsettelse av tariff,Bestemme hvilken CO2 som skal transporteres i rørledning, dog kan det ikke bestemmes at CO2 skal transporteres til fortrengsel for CO2 som er sikret transport i rørledning etter godkjennelse av departementet.
+1. Eierforholdet til innretningen,
+2. Rørledningens bestemmelsessted,
+3. Rørledningens trasé, dimensjon og transportkapasitet.
+
+Departementet kan ved tildeling av tillatelse til anlegg og drift av innretninger som nevnt i denne bestemmelse og senere:
+
+1. Fastsette tariffer for bruk av innretningen for eierens egen og for annen CO2 ,
+2. Gi pålegg om at innretningen skal tilknyttes andre innretninger, at kapasiteten skal økes og at innretningen skal ombygges for å kunne benyttes for annen CO2 enn den opprinnelig er bygget for. Pålegg som nevnt må ikke fordyre eller i urimelig grad vanskeliggjøre bruk av innretningen som er sikret etter godkjennelse av departementet. Kostnadene ved gjennomføring av pålegg som nevnt, skal etter departementets nærmere bestemmelse dekkes av den eller de som pålegg er gitt til fordel for eller tas i betraktning ved fastsettelse av tariff,
+3. Bestemme hvilken CO2 som skal transporteres i rørledning, dog kan det ikke bestemmes at CO2 skal transporteres til fortrengsel for CO2 som er sikret transport i rørledning etter godkjennelse av departementet.
 
 ## Kapittel 7. Avslutning av injeksjon og lagring av CO2
 
@@ -614,7 +752,12 @@ Ved forurensningsskade fra innretning på område utenfor norsk kontinentalsokke
 
 Erstatningsansvar mot rettighetshaver for forurensningsskade gjøres gjeldende etter reglene i denne forskrift.
 
-Ansvar for forurensningsskade kan ikke gjøres gjeldende mot:Den som ifølge avtale med rettighetshaver eller dennes medkontrahent har utført oppdrag eller arbeid i forbindelse med transport eller lagring av CO2 i et undersjøisk reservoar,Den som har tilvirket eller levert utstyr til bruk under transport eller lagring av CO2 i et undersjøisk reservoar,Den som iverksetter tiltak for å avverge eller begrense forurensningsskade, eller for å redde liv eller berge verdier som er kommet i fare i forbindelse med transport eller lagring av CO2 i et undersjøisk reservoar, med mindre tiltaket utføres i strid med forbud nedlagt av offentlig myndighet eller utføres av annen enn offentlig myndighet til tross for uttrykkelig forbud av operatør eller eier av de truede verdier,Den som er ansatt hos rettighetshaver eller hos noen som nevnt under a, b eller c.
+Ansvar for forurensningsskade kan ikke gjøres gjeldende mot:
+
+1. Den som ifølge avtale med rettighetshaver eller dennes medkontrahent har utført oppdrag eller arbeid i forbindelse med transport eller lagring av CO2 i et undersjøisk reservoar,
+2. Den som har tilvirket eller levert utstyr til bruk under transport eller lagring av CO2 i et undersjøisk reservoar,
+3. Den som iverksetter tiltak for å avverge eller begrense forurensningsskade, eller for å redde liv eller berge verdier som er kommet i fare i forbindelse med transport eller lagring av CO2 i et undersjøisk reservoar, med mindre tiltaket utføres i strid med forbud nedlagt av offentlig myndighet eller utføres av annen enn offentlig myndighet til tross for uttrykkelig forbud av operatør eller eier av de truede verdier,
+4. Den som er ansatt hos rettighetshaver eller hos noen som nevnt under a, b eller c.
 
 Dersom rettighetshaver er idømt erstatningsansvar for forurensningsskade, men ikke betaler innen den tid dommen fastsetter, kan skadelidte gå på skadevolder i samme utstrekning som rettighetshaver kan gå på skadevolder i regressomgangen, jf. [§ 8-5](forskrift/2014-12-05-1517/§8-5).
 
@@ -648,7 +791,12 @@ Med departementets samtykke kan eventuelle fordringshavere innkalles ved proklam
 
 Søksmål om erstatning for forurensningsskade skal reises i den rettskrets der utstrømming eller utslipp av CO2 har funnet sted eller hvor skade er voldt.
 
-Departementet bestemmer hvor søksmål skal reises dersom:Utstrømmingen eller utslippet har funnet sted eller skade er voldt utenfor området for noen rettskrets.Det ikke kan påvises innen hvilken rettskrets utstrømmingen eller utslippet har funnet sted eller skade er voldt.Utstrømmingen eller utslippet har funnet sted i en rettskrets og skade er voldt i en annen rettskrets.Skade er voldt i mer enn en rettskrets.
+Departementet bestemmer hvor søksmål skal reises dersom:
+
+1. Utstrømmingen eller utslippet har funnet sted eller skade er voldt utenfor området for noen rettskrets.
+2. Det ikke kan påvises innen hvilken rettskrets utstrømmingen eller utslippet har funnet sted eller skade er voldt.
+3. Utstrømmingen eller utslippet har funnet sted i en rettskrets og skade er voldt i en annen rettskrets.
+4. Skade er voldt i mer enn en rettskrets.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -794,7 +942,10 @@ Utgifter vedrørende tilsynet kan kreves dekket av rettighetshaver eller den som
 
 ### § 11-4. Register over lagringslokaliteter
 
-Departementet eller den det bemyndiger skal sørge for at det opprettes og føres:Et register over tildelte tillatelser til lagring av CO2 , ogEt permanent register over alle lukkede lagringslokaliteter og omgivende lagringskomplekser, herunder kart som viser anleggenes romlige utstrekning, samt de tilgjengelige opplysninger som er relevante for å vurdere om den lagrede CO2 vil forbli fullstendig og permanent innesluttet.
+Departementet eller den det bemyndiger skal sørge for at det opprettes og føres:
+
+1. Et register over tildelte tillatelser til lagring av CO2 , og
+2. Et permanent register over alle lukkede lagringslokaliteter og omgivende lagringskomplekser, herunder kart som viser anleggenes romlige utstrekning, samt de tilgjengelige opplysninger som er relevante for å vurdere om den lagrede CO2 vil forbli fullstendig og permanent innesluttet.
 
 Det skal tas hensyn til registeret i relevante planleggingsprosedyrer og i forbindelse med godkjennelse av aktiviteter som vil kunne påvirke eller påvirkes av den geologiske lagring av CO2 i de registrerte lagringslokaliteter.
 
@@ -862,7 +1013,12 @@ Departementet kan i særlige tilfeller bestemme at det skal betales avgift for o
 
 ### § 11-14. Forsikring
 
-Den virksomhet rettighetshaver driver etter denne forskrift skal til enhver tid være forsikret. I det minste må forsikringen omfatte:Skade på innretninger,Forurensningsskade og annet ansvar overfor tredjemann,Fjerning av vrak og opprydning som følge av uhell,Forsikring av egne arbeidstakere som er engasjert i virksomheten.
+Den virksomhet rettighetshaver driver etter denne forskrift skal til enhver tid være forsikret. I det minste må forsikringen omfatte:
+
+1. Skade på innretninger,
+2. Forurensningsskade og annet ansvar overfor tredjemann,
+3. Fjerning av vrak og opprydning som følge av uhell,
+4. Forsikring av egne arbeidstakere som er engasjert i virksomheten.
 
 Rettighetshaver skal påse at entreprenører og underentreprenører engasjert i virksomheten forsikrer sine arbeidstakere i samme utstrekning som operatøren forsikrer sine arbeidstakere.
 
@@ -904,7 +1060,11 @@ Reglene i [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltn
 
 Opplysninger av enhver art som meddeles myndighetene i forbindelse med søknad om letetillatelse, tillatelse til lagring av CO2 eller tillatelse til transport av CO2 , skal være underlagt taushetsplikt inntil letetillatelse, tillatelse til lagring av CO2 eller tillatelse til transport av CO2 til de aktuelle områder er tildelt. Deretter skal opplysningene være underlagt taushetsplikt i den utstrekning dette følger av forvaltningsloven i et tidsrom av 20 år, jf. [forvaltningsloven § 13 c](lov/1967-02-10/§13c)) tredje ledd.
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske, reservoartekniske og injeksjonstekniske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:2 år for data som ikke er omsettelige og som er felles eie for rettighetshaverne i en tillatelse omfattet av denne forskrift og som stammer fra vedkommende tillatelse,10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren,5 år for øvrige data.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske, reservoartekniske og injeksjonstekniske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:
+
+1. 2 år for data som ikke er omsettelige og som er felles eie for rettighetshaverne i en tillatelse omfattet av denne forskrift og som stammer fra vedkommende tillatelse,
+2. 10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren,
+3. 5 år for øvrige data.
 
 For data som nevnt i tredje ledd gjelder følgende: For data som er felles eie for rettighetshaverne i en tillatelse etter denne forskrift og som stammer fra vedkommende tillatelse, faller taushetsplikten bort fra det tidspunkt tillatelsen oppgis eller området hvor dataene stammer fra tilbakeleveres. Opplysning om hvorvidt data skal være omsettelige meddeles Sokkeldirektoratet etter [§ 2-6](forskrift/2014-12-05-1517/§2-6) åttende ledd. Sokkeldirektoratet kan fastsette hva som anses som omsettelige data. For tolkede data skal taushetsplikten ha en varighet på 20 år. Sokkeldirektoratet kan etter søknad forkorte taushetsplikten for tolkede data og forlenge eller forkorte taushetsplikten for data som angitt i tredje ledd.
 
@@ -962,15 +1122,35 @@ Beskrivelse og vurdering av den aktuelle lagringslokaliteten og omkringliggende 
 
 Tilstrekkelige data skal samles inn for å etablere en volumetrisk og tredimensjonal statisk (3 D) geologisk modell av lagringslokaliteten og lagringskomplekset, inkludert takbergarter og de omkringliggende områder – også hydraulisk tilknyttede områder.
 
-Disse data skal omfatte minst følgende iboende karakteristikker av lagringskomplekset:Geologiske og geofysiske data,Reservoarberegninger (herunder volumetriske beregninger av porevolum for CO2 -injeksjon og maksimal lagringskapasitet),Geokjemiske data (oppløsningshastighet, mineraliseringshastighet),Geomekaniske data (permeabilitet, oppsprekkingstrykk),Jordskjelvhyppighet,Nærvær og tilstand av naturlige og menneskeskapte strømningsveier for CO2 , herunder brønner og borehull som kan danne lekkasjeveier.
+Disse data skal omfatte minst følgende iboende karakteristikker av lagringskomplekset:
 
-Følgende karakteristikker av lagringskompleksets omgivelser skal være dokumentert:Områder som omgir lagringskomplekset og som kan bli påvirket av lagringen av CO2 – på lagringslokaliteten,Nærhet til verdifulle naturressurser,Aktiviteter rundt lagringskomplekset og mulige interaksjoner med disse aktivitetene (for eksempel undersøkelse etter, produksjon og lagring av hydrokarboner, geotermisk bruk av akviferer og bruk av undergrunnsvannreservoarer),Nærhet til den potensielle CO2 -kilden eller CO2 -kildene (herunder estimater av den totale mengde CO2 som er økonomisk tilgjengelig for lagring) samt egnede transportmuligheter,
+- Geologiske og geofysiske data,
+- Reservoarberegninger (herunder volumetriske beregninger av porevolum for CO2 -injeksjon og maksimal lagringskapasitet),
+- Geokjemiske data (oppløsningshastighet, mineraliseringshastighet),
+- Geomekaniske data (permeabilitet, oppsprekkingstrykk),
+- Jordskjelvhyppighet,
+- Nærvær og tilstand av naturlige og menneskeskapte strømningsveier for CO2 , herunder brønner og borehull som kan danne lekkasjeveier.
+
+Følgende karakteristikker av lagringskompleksets omgivelser skal være dokumentert:
+
+- Områder som omgir lagringskomplekset og som kan bli påvirket av lagringen av CO2 – på lagringslokaliteten,
+- Nærhet til verdifulle naturressurser,
+- Aktiviteter rundt lagringskomplekset og mulige interaksjoner med disse aktivitetene (for eksempel undersøkelse etter, produksjon og lagring av hydrokarboner, geotermisk bruk av akviferer og bruk av undergrunnsvannreservoarer),
+- Nærhet til den potensielle CO2 -kilden eller CO2 -kildene (herunder estimater av den totale mengde CO2 som er økonomisk tilgjengelig for lagring) samt egnede transportmuligheter,
 
 ### Trinn 2: Etablering av tredimensjonal geologisk modell (for injeksjon)
 
 - Ved å bruke dataene samlet inn i trinn 1 skal det ved hjelp av reservoarsimuleringsverktøy etableres en tredimensjonal geologisk modell, eller et sett av slike modeller av det foreslåtte lagringskomplekset, herunder takbergarter og hydraulisk tilknyttede områder og væsker.
 
-Den statiske geologiske modellen eller modellene skal karakterisere komplekset med hensyn til:Geologisk struktur av den fysiske fellen,Geomekaniske, geokjemiske og strømningsegenskaper av reservoarets overliggende lag (takbergarter, forseglinger, porøse og permeable lag) og omliggende formasjoner,Karakterisering av sprekker og forkastninger og nærvær av naturlige og menneskeskapte strømningsveier,Lagringskompleksets areal og vertikale utstrekning,Porevolum (herunder fordeling av porøsitet),Opprinnelig væskefordeling,Andre relevante karakteristikker.
+Den statiske geologiske modellen eller modellene skal karakterisere komplekset med hensyn til:
+
+- Geologisk struktur av den fysiske fellen,
+- Geomekaniske, geokjemiske og strømningsegenskaper av reservoarets overliggende lag (takbergarter, forseglinger, porøse og permeable lag) og omliggende formasjoner,
+- Karakterisering av sprekker og forkastninger og nærvær av naturlige og menneskeskapte strømningsveier,
+- Lagringskompleksets areal og vertikale utstrekning,
+- Porevolum (herunder fordeling av porøsitet),
+- Opprinnelig væskefordeling,
+- Andre relevante karakteristikker.
 
 Usikkerheten forbundet med hver av parametrene som er brukt til å bygge modellen skal være vurdert ved å utvikle en rekke scenarier for hver parameter og beregne tilhørende konfidensgrenser. Enhver usikkerhet forbundet med modellen i seg selv skal også vurderes.
 
@@ -980,9 +1160,30 @@ Karakteriseringene og vurderingene skal være basert på dynamiske modeller som 
 
 ### Trinn 3.1: Karakterisering av dynamiske forhold i lagringslokaliteten
 
-Som et minimum skal følgende faktorer vurderes:Mulige injeksjonsrater og CO2 -strømmens egenskaper,Effekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen),Reaktive prosesser (dvs hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen),Reservoarsimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevet for å validere visse funn),Kort- og langtidssimuleringer (for å etablere hva som skjer med den injiserte CO2 og utvikling over årtier og årtusener, herunder oppløsningshastighet av CO2 i vann),
+Som et minimum skal følgende faktorer vurderes:
 
-Den dynamiske modelleringen skal gi innsikt i:Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tid,Areal og vertikal utbredelse av CO2 over tid,CO2 -strømmen i reservoaret, herunder fasene den opptrer i,CO2 -felle mekanismer og hastigheter (herunder overfyllingspunktet) og laterale og vertikale forseglinger,Sekundære innesluttingssystemer for hele lagringskomplekset,Lagringskapasitet og trykkgradienter for lagringslokaliteten,Risiko for sprekkdannelser i lagringsformasjonene og takbergartene,Risiko for CO2 -inntrengning i takbergartene,Risiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner),Migrasjonshastighet (i ikke-innelukkede reservoarer),Sprekkforseglingshastighet,Forandringer i formasjonenes væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og anvendelse av modellering av reaksjoner for å vurdere konsekvensene,Erstatning av formasjonsvæsker,Økt seismisitet og overflateheving.
+1. Mulige injeksjonsrater og CO2 -strømmens egenskaper,
+2. Effekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen),
+3. Reaktive prosesser (dvs hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen),
+4. Reservoarsimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevet for å validere visse funn),
+5. Kort- og langtidssimuleringer (for å etablere hva som skjer med den injiserte CO2 og utvikling over årtier og årtusener, herunder oppløsningshastighet av CO2 i vann),
+
+Den dynamiske modelleringen skal gi innsikt i:
+
+1. Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tid,
+2. Areal og vertikal utbredelse av CO2 over tid,
+3. CO2 -strømmen i reservoaret, herunder fasene den opptrer i,
+4. CO2 -felle mekanismer og hastigheter (herunder overfyllingspunktet) og laterale og vertikale forseglinger,
+5. Sekundære innesluttingssystemer for hele lagringskomplekset,
+6. Lagringskapasitet og trykkgradienter for lagringslokaliteten,
+7. Risiko for sprekkdannelser i lagringsformasjonene og takbergartene,
+8. Risiko for CO2 -inntrengning i takbergartene,
+9. Risiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner),
+10. Migrasjonshastighet (i ikke-innelukkede reservoarer),
+11. Sprekkforseglingshastighet,
+12. Forandringer i formasjonenes væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og anvendelse av modellering av reaksjoner for å vurdere konsekvensene,
+13. Erstatning av formasjonsvæsker,
+14. Økt seismisitet og overflateheving.
 
 ### Trinn 3.2: Følsomhetskarakteristikk
 
@@ -994,7 +1195,13 @@ Risikovurderingen skal blant annet omfatte følgende:
 
 ### 3.3.1. Farekarakteristikk
 
-Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal omfatte betraktninger som blant annet:Potensielle lekkasjeveier,Potensiell størrelse på lekkasje fra identifiserte lekkasjeveier (flukshastigheter),Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antakelser i den eller de geologiske modellene etc.),Sekundæreffekter av lagringen, herunder fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2 ,Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet).
+Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal omfatte betraktninger som blant annet:
+
+1. Potensielle lekkasjeveier,
+2. Potensiell størrelse på lekkasje fra identifiserte lekkasjeveier (flukshastigheter),
+3. Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antakelser i den eller de geologiske modellene etc.),
+4. Sekundæreffekter av lagringen, herunder fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2 ,
+5. Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet).
 
 Farekarakteristikken skal omfatte hele spekteret av potensielle operasjonsbetingelser for å teste lagringskompleksets sikkerhet.
 
@@ -1024,11 +1231,26 @@ Overvåkingsplanen nevnt i [§ 5-4](forskrift/2014-12-05-1517/§5-4) annet ledd 
 
 Overvåkingsplanen skal inneholde detaljer om overvåkingsprogrammet som vil bli gjennomført på alle hovedtrinn i prosjektet, herunder grunnlagsdata, operasjonell fase og i etterdriftsfasen.
 
-Følgende skal spesifiseres for hver fase:De parametre som skal overvåkes,De overvåkingsteknikker som skal anvendes og begrunnelse for valg av overvåkningsteknikker,Overvåkingslokasjoner og begrunnelse for valgte prøvetakingssteder,Prøvetakingsfrekvens og begrunnelse for denne,
+Følgende skal spesifiseres for hver fase:
 
-De parametre som skal overvåkes skal være utvalgt slik at de kan oppfylle formålet med overvåkingen. Planen skal likevel i ethvert tilfelle omfatte kontinuerlig eller periodisk overvåking av følgende forhold:Diffuse utslipp av CO2 -utslipp ved injeksjonsinnretningen,CO2 -volumstrøm ved injeksjonsbrønnhodene,CO2 -trykk og -temperatur ved injeksjonsbrønnhodene (for å bestemme massestrøm),Kjemisk analyse av injeksjonsstrømmen,Reservoartemperatur og -trykk (for å bestemme CO2 -fasenes oppførsel og tilstand),
+1. De parametre som skal overvåkes,
+2. De overvåkingsteknikker som skal anvendes og begrunnelse for valg av overvåkningsteknikker,
+3. Overvåkingslokasjoner og begrunnelse for valgte prøvetakingssteder,
+4. Prøvetakingsfrekvens og begrunnelse for denne,
 
-Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. Følgende alternativer skal vurderes og anvendes om mulig:Teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflaten,Teknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2 -skyen (plumen) for å forbedre numeriske 3D-simuleringer relatert til 3D geologiske modeller av lagringsformasjonen etablert i henhold til denne forskriftens [§ 1-10](forskrift/2014-12-05-1517/§1-10) og vedlegg I,Teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
+De parametre som skal overvåkes skal være utvalgt slik at de kan oppfylle formålet med overvåkingen. Planen skal likevel i ethvert tilfelle omfatte kontinuerlig eller periodisk overvåking av følgende forhold:
+
+1. Diffuse utslipp av CO2 -utslipp ved injeksjonsinnretningen,
+2. CO2 -volumstrøm ved injeksjonsbrønnhodene,
+3. CO2 -trykk og -temperatur ved injeksjonsbrønnhodene (for å bestemme massestrøm),
+4. Kjemisk analyse av injeksjonsstrømmen,
+5. Reservoartemperatur og -trykk (for å bestemme CO2 -fasenes oppførsel og tilstand),
+
+Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. Følgende alternativer skal vurderes og anvendes om mulig:
+
+1. Teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflaten,
+2. Teknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2 -skyen (plumen) for å forbedre numeriske 3D-simuleringer relatert til 3D geologiske modeller av lagringsformasjonen etablert i henhold til denne forskriftens [§ 1-10](forskrift/2014-12-05-1517/§1-10) og vedlegg I,
+3. Teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
 
 ### 1.2. Oppdatering av planen
 

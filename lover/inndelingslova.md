@@ -15,7 +15,7 @@ xml_hash: "b48ebca990c0586cfa17087e027774192759ebd9c239937371b62849b4871073"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Denne lova gjeld for kommunar og fylke. Lova omfattar både endring av grenser o
 
 Samanslåing inneber at to eller fleire kommunar eller fylke blir slutta saman til éi ny eining.
 
-Deling inneberat ein kommune eller eit fylke blir delt i to eller fleire nye einingar, ellerat ein kommune eller eit fylke blir delt, og dei einskilde delane blir lagde til andre kommunar eller fylke.
+Deling inneber
+
+1. at ein kommune eller eit fylke blir delt i to eller fleire nye einingar, eller
+2. at ein kommune eller eit fylke blir delt, og dei einskilde delane blir lagde til andre kommunar eller fylke.
 
 Grensejustering inneber at eit område blir flytta over frå ein kommune til ein annan, eller frå eit fylke til eit anna. På same måten blir det rekna når ein heil kommune blir flytta over til eit anna fylke. Departementet kan fastsetje at endring av grensene til eit område skal behandlast som ei grensejustering, dersom området har ein mindre del av innbyggjarane i ein kommune eller eit fylke som skal leggjast til andre kommunar eller fylke etter andre ledd bokstav b.
 
@@ -164,7 +167,13 @@ Når aksjar skiftar eigar frå ein kommune til ein annan kommune eller frå ein 
 
 Kongen kan gi nærmare reglar for å sikre gjennomføring av vedtak om grenseendring etter denne lova.
 
-Når det blir rekna som nødvendig for å gjennomføre vedtak om grenseendring, kan Kongen dessutan gjere unntak frå gjeldande reglar i lov eller forskrift. Unntak frå lov må knyttast til følgjande forhold:reglar om lovpålagde organ i stat, fylkeskommune eller kommune. Dette inkluderer oppretting av slike organ når dei som har mynda etter lova, unnlèt å gjere dette.reglar om lovfesta fristar, saksbehandlingsreglar o.a.reglar om forhold og vilkår for arbeidstakarar i stat, fylkeskommune eller kommunereglar om fristar og vilkår for å krevje inn eigedomsskattreglar om den inneverande kommunestyreperioden og om samansetjing av kommunestyret, slik at kommunane kan velje kommunestyret i den nye kommunen av og blant kommunestyra sjølve og korte ned kommunestyreperioden for dei som ikkje blir valde. Dei same unntaka kan gjerast for fylkestinga.
+Når det blir rekna som nødvendig for å gjennomføre vedtak om grenseendring, kan Kongen dessutan gjere unntak frå gjeldande reglar i lov eller forskrift. Unntak frå lov må knyttast til følgjande forhold:
+
+1. reglar om lovpålagde organ i stat, fylkeskommune eller kommune. Dette inkluderer oppretting av slike organ når dei som har mynda etter lova, unnlèt å gjere dette.
+2. reglar om lovfesta fristar, saksbehandlingsreglar o.a.
+3. reglar om forhold og vilkår for arbeidstakarar i stat, fylkeskommune eller kommune
+4. reglar om fristar og vilkår for å krevje inn eigedomsskatt
+5. reglar om den inneverande kommunestyreperioden og om samansetjing av kommunestyret, slik at kommunane kan velje kommunestyret i den nye kommunen av og blant kommunestyra sjølve og korte ned kommunestyreperioden for dei som ikkje blir valde. Dei same unntaka kan gjerast for fylkestinga.
 
 > Endra ved [lover 21 juni 2013 nr. 94](lov/2013-06-21-94) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 735](forskrift/2013-06-21-735)), [17 juni 2016 nr. 60](lov/2016-06-17-60) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 681](forskrift/2016-06-17-681)), [1 mars 2019 nr. 4](lov/2019-03-01-4).
 
@@ -192,7 +201,12 @@ Dersom det ikkje blir teke særskilt avgjerd, skal rettar og plikter som ikkje e
 
 Blir ein kommune eller eit fylke delt, jf. [§ 3](lov/2001-06-15-70/§3) andre ledd, skal [§ 19](lov/2001-06-15-70/§19) første ledd tilsvarande gjelde forvaltningseigedom som fullt ut eller i svært stor grad tener eitt bestemt område.
 
-Annan eigedom og andre plikter blir å fordele mellom dei kommunar eller fylkeskommunar områda blir lagde til. Fordelinga blir gjort på grunnlag av eit forholdstal som blir rekna ut etter skatteinntektene i dei siste fem åra i kvart av områda, med mindre skjønnsnemnda av særlege grunnar fastset noko anna. Så framt det er mogleg, skal oppgjeret gjennomførast slik:Fast eigedom blir lagt til den kommunen eller fylkeskommunen som må reknast som mest rettkomen til den ut frå folketalet og innbyggjarane sine behov og plasseringa av eigedommen – også i høve til andre anlegg.Gjeld blir fordelt i forhold til dei omsetjelege verdiane som blir overtekne.Andre tilgodehavande og plikter blir overtekne av den kommunen eller fylkeskommunen som etter forholda blir rekna som nærmast til å overta dei.Anlegg med rettar og plikter som det etter delinga ikkje er rimeleg at nokon enkelt kommune eller fylkeskommune tek over, kan påbydast nytta i fellesskap av to eller fleire av kommunane eller fylkeskommunane.
+Annan eigedom og andre plikter blir å fordele mellom dei kommunar eller fylkeskommunar områda blir lagde til. Fordelinga blir gjort på grunnlag av eit forholdstal som blir rekna ut etter skatteinntektene i dei siste fem åra i kvart av områda, med mindre skjønnsnemnda av særlege grunnar fastset noko anna. Så framt det er mogleg, skal oppgjeret gjennomførast slik:
+
+1. Fast eigedom blir lagt til den kommunen eller fylkeskommunen som må reknast som mest rettkomen til den ut frå folketalet og innbyggjarane sine behov og plasseringa av eigedommen – også i høve til andre anlegg.
+2. Gjeld blir fordelt i forhold til dei omsetjelege verdiane som blir overtekne.
+3. Andre tilgodehavande og plikter blir overtekne av den kommunen eller fylkeskommunen som etter forholda blir rekna som nærmast til å overta dei.
+4. Anlegg med rettar og plikter som det etter delinga ikkje er rimeleg at nokon enkelt kommune eller fylkeskommune tek over, kan påbydast nytta i fellesskap av to eller fleire av kommunane eller fylkeskommunane.
 
 Har nokon kommune eller fylkeskommune ved fordelinga av rettar og plikter teke over meir eller mindre enn det som følgjer av forholdstalet, skal det jamnast ut i pengar.
 
@@ -232,7 +246,13 @@ Skjønnsnemnda og overskjønnsnemnda fastset spørsmålet om dekning av kostnade
 
 ### § 25. Felles kommunestyre- eller fylkestingsmøte
 
-Når det er gjort vedtak om samanslåing av to eller fleire kommunar eller deling av kommunar som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, skal statsforvaltaren snarast mogleg kalle saman til eit felles møte med dei aktuelle kommunestyra. Ved samanslåing eller deling av kommunar som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, kallar departementet saman kommunestyra dersom kommunane ligg i ulike fylke. Ved samanslåing eller deling av fylke som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, kallar departementet saman fylkestinga. Departementet kan gjere unntak frå kravet om slikt felles møte. På slike fellesmøte skal følgjande saker drøftast:forslag til namn på den nye kommunen eller det nye fylkettalet på medlemmer i det nye kommunestyret eller fylkestingetkriterium for samansetjing av og funksjonar til fellesnemnd etter [§ 26](lov/2001-06-15-70/§26) i denne lovaval av revisor for verksemda i fellesnemndaoppretting av eventuelle andre fellesorgan for å sikre gjennomføringa av samanslåinga.
+Når det er gjort vedtak om samanslåing av to eller fleire kommunar eller deling av kommunar som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, skal statsforvaltaren snarast mogleg kalle saman til eit felles møte med dei aktuelle kommunestyra. Ved samanslåing eller deling av kommunar som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, kallar departementet saman kommunestyra dersom kommunane ligg i ulike fylke. Ved samanslåing eller deling av fylke som nemnt i [§ 3](lov/2001-06-15-70/§3) andre ledd bokstav b, kallar departementet saman fylkestinga. Departementet kan gjere unntak frå kravet om slikt felles møte. På slike fellesmøte skal følgjande saker drøftast:
+
+1. forslag til namn på den nye kommunen eller det nye fylket
+2. talet på medlemmer i det nye kommunestyret eller fylkestinget
+3. kriterium for samansetjing av og funksjonar til fellesnemnd etter [§ 26](lov/2001-06-15-70/§26) i denne lova
+4. val av revisor for verksemda i fellesnemnda
+5. oppretting av eventuelle andre fellesorgan for å sikre gjennomføringa av samanslåinga.
 
 > Endra ved [lover 21 juni 2013 nr. 94](lov/2013-06-21-94) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 735](forskrift/2013-06-21-735)), [17 juni 2016 nr. 60](lov/2016-06-17-60) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 681](forskrift/2016-06-17-681)), lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -276,7 +296,23 @@ Departementet kan føre kontroll med lovlegheita av budsjettvedtaka i kommunar o
 
 ### § 29. Fylkesinndeling og fylkesnamn
 
-Rikets fylke skal ha desse namna:ØstfoldOsloAkershusInnlandet eller SisdajveBuskerudVestfoldTelemarkAgderRogalandVestlandMøre og RomsdalTrøndelag eller TrööndelageNordland eller Nordlánnda eller Nordlánda eller Nordlaante.Troms eller Romsa eller TromssaFinnmark eller Finnmárku eller Finmarkku
+Rikets fylke skal ha desse namna:
+
+1. Østfold
+2. Oslo
+3. Akershus
+4. Innlandet eller Sisdajve
+5. Buskerud
+6. Vestfold
+7. Telemark
+8. Agder
+9. Rogaland
+10. Vestland
+11. Møre og Romsdal
+12. Trøndelag eller Trööndelage
+13. Nordland eller Nordlánnda eller Nordlánda eller Nordlaante.
+14. Troms eller Romsa eller Tromssa
+15. Finnmark eller Finnmárku eller Finmarkku
 
 > Tilføyd ved [lov 22 juni 2018 nr. 84](lov/2018-06-22-84) (ikr. 1 jan 2020 iflg. [res. 22 juni 2018 nr. 947](forskrift/2018-06-22-947)), endra ved lover [7 mai 2021 nr. 35](lov/2021-05-07-35) (ikr. 7 mai 2021 iflg. [res. 7 mai 2021 nr. 1410](forskrift/2021-05-07-1410)), [22 juni 2022 nr. 82](lov/2022-06-22-82) (i kraft 1 jan 2024), [20 juni 2025 nr. 92](lov/2025-06-20-92) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1096](forskrift/2025-06-20-1096)).
 

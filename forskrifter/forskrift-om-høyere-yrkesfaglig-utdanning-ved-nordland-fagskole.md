@@ -15,7 +15,7 @@ xml_hash: "c955dca085ec378302c18e94dd3f3e3f2ecb0fce30e68eb6b04dd6c5811adca4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,7 +91,11 @@ Søkere med utenlandsk utdanning kan søke om opptak ved Nordland fagskole. Søk
 
 (1) Nordland fagskole gjennomfører realkompetansevurderinga i tråd med [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7). Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevante programområder. Informasjon om hva som er relevant yrkesutdanning, er nedfelt i studieplanene. Opptak gjort på bakgrunn av realkompetanse vil kun gjelde for den utdanninga det blir realkompetansevurdert til.
 
-(2) Søkere som søker studieplass på bakgrunn av realkompetanse, kan være:Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravetSøkere som ikke har fullført videregående opplæringSøkere med utenlandsk utdanning.
+(2) Søkere som søker studieplass på bakgrunn av realkompetanse, kan være:
+
+1. Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet
+2. Søkere som ikke har fullført videregående opplæring
+3. Søkere med utenlandsk utdanning.
 
 (3) Søkere må dokumentere kompetanse i felles allmenne fag som tilsvarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR) og ha fylt 23 år i søkeåret.
 
@@ -123,7 +127,15 @@ Opptak til fagskolen er et enkeltvedtak etter [forvaltningsloven § 2 første le
 
 (7) Ved overgang eller opptak til ny utdannelse ved fagskolen vil som hovedregel den eksisterende studieretten oppheves.
 
-(8) Følgende forhold kan føre til tap av studieretten:Dersom studenten ikke oppfyller vilkår for obligatorisk arbeidskravDersom studenten ikke betaler studieavgift til fastsatt tid der dette er påkrevdDersom studenten overskrider normert studietid for studieprogrammetDersom studenten overskrider avtalt, utvidet studierett utover normert studietid for studieprogrammetDersom studenten opplyser fagskolen at han eller hun avbryter utdanningenDersom studenten utestenges etter [lov om høyere yrkesfaglig utdanning § 25](lov/2018-06-08-28/§25), [forskrift om høyere yrkesfaglig utdanning § 35](forskrift/2019-07-11-1005/§35) og denne forskriftens § 3-1, § 3-2 eller § 7-1.Dersom studenten ikke består obligatorisk praksis etter denne forskriftens § 4-3 (5).
+(8) Følgende forhold kan føre til tap av studieretten:
+
+1. Dersom studenten ikke oppfyller vilkår for obligatorisk arbeidskrav
+2. Dersom studenten ikke betaler studieavgift til fastsatt tid der dette er påkrevd
+3. Dersom studenten overskrider normert studietid for studieprogrammet
+4. Dersom studenten overskrider avtalt, utvidet studierett utover normert studietid for studieprogrammet
+5. Dersom studenten opplyser fagskolen at han eller hun avbryter utdanningen
+6. Dersom studenten utestenges etter [lov om høyere yrkesfaglig utdanning § 25](lov/2018-06-08-28/§25), [forskrift om høyere yrkesfaglig utdanning § 35](forskrift/2019-07-11-1005/§35) og denne forskriftens § 3-1, § 3-2 eller § 7-1.
+7. Dersom studenten ikke består obligatorisk praksis etter denne forskriftens § 4-3 (5).
 
 ### § 2-12. Godskriving og fritak
 
@@ -191,7 +203,18 @@ Opptak til fagskolen er et enkeltvedtak etter [forvaltningsloven § 2 første le
 
 (1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått / ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått, jf. [forskrift om høyere yrkesfaglig utdanning § 40](forskrift/2019-07-11-1005/§40).
 
-(2) Ved Nordland fagskole kan følgende sluttvurderingsformer benyttes hver for seg eller sammen for det enkelte emnet, slik det er beskrevet i den enkelte studieplan:skriftlig eksamen under tilsynmuntlig eksamenmappeeksamenskriftlig hjemmeoppgavePPD (planlegging, produksjon og dokumentasjon)ferdighetsprøverlaboratorieøvelserprosjektarbeidpraksismuntlige presentasjoner.
+(2) Ved Nordland fagskole kan følgende sluttvurderingsformer benyttes hver for seg eller sammen for det enkelte emnet, slik det er beskrevet i den enkelte studieplan:
+
+- skriftlig eksamen under tilsyn
+- muntlig eksamen
+- mappeeksamen
+- skriftlig hjemmeoppgave
+- PPD (planlegging, produksjon og dokumentasjon)
+- ferdighetsprøver
+- laboratorieøvelser
+- prosjektarbeid
+- praksis
+- muntlige presentasjoner.
 
 ### § 4-3. Sluttvurdering i emner uten eksamen eller annen sluttprøve
 
@@ -282,7 +305,15 @@ De enkelte studieplaner regulerer eventuelle krav om bestått obligatoriske arbe
 
 (5) Skolen utsteder kun ett vitnemål pr. studium. En avgift kan påløpe ved bestilling av nytt vitnemål (duplikat).
 
-(6) Vitnemålet skal inneholde eiers og fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (A–F eller bestått / ikke bestått)Antall studiepoengKarakter/karaktererGradsbetegnelse.
+(6) Vitnemålet skal inneholde eiers og fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Det overordnede læringsutbyttet
+2. Emner og eventuell praksis
+3. Kvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)
+4. Karaktersystemet som benyttes (A–F eller bestått / ikke bestått)
+5. Antall studiepoeng
+6. Karakter/karakterer
+7. Gradsbetegnelse.
 
 (7) Med bakgrunn i overgangen fra fagskolepoeng til studiepoeng skal fagskolen skrive ut nye vitnemål til tidligere studenter som ønsker dette. Fagskolen kan kreve at studenten dekker utgiftene til utstedelse av det nye vitnemålet.
 
@@ -344,11 +375,23 @@ Dersom ikke noe annet er bestemt, gjelder [forvaltningsloven kapittel III](lov/1
 
 (1) Lokal klagenemnd for fagskoleutdanning, jf. [lov om høyere yrkesfaglig utdanning § 20](lov/2018-06-08-28/§20), behandler klager over enkeltvedtak fattet av fagskolen.
 
-(2) Den lokale klagenemnda oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:leder med personlig varamedlemett medlem med fagskoleadministrativ kompetanse med personlig varamedlemett medlem som er fagskolelærer med personlig varamedlemto studenter med personlig varamedlem.Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer, inkludert en studentrepresentant, er til stede.
+(2) Den lokale klagenemnda oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:
+
+1. leder med personlig varamedlem
+2. ett medlem med fagskoleadministrativ kompetanse med personlig varamedlem
+3. ett medlem som er fagskolelærer med personlig varamedlem
+4. to studenter med personlig varamedlem.
+
+Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer, inkludert en studentrepresentant, er til stede.
 
 (3) Klagenemndas vedtak i saker om fagskolens enkeltvedtak kan ikke påklages, jf. [lov om høyere yrkesfaglig utdanning § 20](lov/2018-06-08-28/§20).
 
-(4) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning § 43](forskrift/2019-07-11-1005/§43) er klageinstans for klager på enkeltvedtak truffet med hjemmel i følgende paragrafer i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28):[§ 24](lov/2018-06-08-28/§24) Anering av eksamen eller prøve[§ 25](lov/2018-06-08-28/§25) Bortvisning og utestenging[§ 26](lov/2018-06-08-28/§26) Vurdering av skikkethet[§ 27](lov/2018-06-08-28/§27) Krav om politiattest.
+(4) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning § 43](forskrift/2019-07-11-1005/§43) er klageinstans for klager på enkeltvedtak truffet med hjemmel i følgende paragrafer i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28):
+
+- [§ 24](lov/2018-06-08-28/§24) Anering av eksamen eller prøve
+- [§ 25](lov/2018-06-08-28/§25) Bortvisning og utestenging
+- [§ 26](lov/2018-06-08-28/§26) Vurdering av skikkethet
+- [§ 27](lov/2018-06-08-28/§27) Krav om politiattest.
 
 (5) Den nasjonale klagenemndas vedtak kan ikke påklages, jf. [forskrift om høyere yrkesfaglig utdanning § 45 fjerde ledd](forskrift/2019-07-11-1005/§45/ledd/4).
 
@@ -372,7 +415,13 @@ Dersom ikke noe annet er bestemt, gjelder [forvaltningsloven kapittel III](lov/1
 
 (6) Klage skal besvares senest innen en måned. Dersom klagebehandlingen tar lengre tid, skal den som klager, underrettes om dette skriftlig.
 
-(7) En klage må inneholde:klagers navn og adressehenvisning til vedtaket det klages overhva klagen gjelder og begrunnelse for denneangivelse av den endring som ønskes i det vedtak det klages overdato og underskrift(er).
+(7) En klage må inneholde:
+
+1. klagers navn og adresse
+2. henvisning til vedtaket det klages over
+3. hva klagen gjelder og begrunnelse for denne
+4. angivelse av den endring som ønskes i det vedtak det klages over
+5. dato og underskrift(er).
 
 ### § 8-5. Klage på karakterfastsetting
 

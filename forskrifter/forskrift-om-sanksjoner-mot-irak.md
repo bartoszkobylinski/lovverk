@@ -15,7 +15,7 @@ xml_hash: "742a5723a420166aff424afad256f5a4643e9d547bb22a22eb65d83d68c435b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,11 +48,42 @@ Direktoratet for eksportkontroll og sanksjoner skal underrettes om tiltak iverks
 
 > Endret ved [forskrifter 19 des 2003 nr. 1752](forskrift/2003-12-19-1752), [6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [11 okt 2016 nr. 1199](forskrift/2016-10-11-1199), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
-1 Lister med personer og enheter omtalt i denne paragrafen finnes på [FNs hjemmeside](https://www.un.org/securitycouncil/sanctions/1518/materials/summaries).2 Resolusjon 1730 (2006)Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006.Fremgangsmåte ved avlistingSikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.Kontaktpunktet skal ha følgende oppgaver:Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.Informere søker omat Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, ellerat komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
+1 Lister med personer og enheter omtalt i denne paragrafen finnes på [FNs hjemmeside](https://www.un.org/securitycouncil/sanctions/1518/materials/summaries).
+
+2 Resolusjon 1730 (2006)
+
+Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006.
+
+Fremgangsmåte ved avlisting
+
+Sikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.
+
+Kontaktpunktet skal ha følgende oppgaver:
+
+1. Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).
+2. Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.
+3. Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.
+4. Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.
+5. Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.
+6. 1. Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.
+   2. Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.
+   3. Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.
+7. Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.
+8. Informere søker om
+
+   1. at Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, eller
+   2. at komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
 
 ## § 3.
 
-Bestemmelsene i [§ 2 første](forskrift/1990-08-09-635/§2/ledd/1) og [annet ledd](forskrift/1990-08-09-635/§2/ledd/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen.
+Bestemmelsene i [§ 2 første](forskrift/1990-08-09-635/§2/ledd/1) og [annet ledd](forskrift/1990-08-09-635/§2/ledd/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller
+6. andre relevante aktører som fastsatt av Sanksjonskomiteen.
 
 > Tilføyd ved forskrift [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 

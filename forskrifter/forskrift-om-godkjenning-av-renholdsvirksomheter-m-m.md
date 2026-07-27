@@ -50,11 +50,23 @@ Godkjent virksomhet skal innføres i et eget register, jf. [§ 6](forskrift/2012
 
 ### § 5. Vilkår for godkjenning
 
-(1) Virksomheten skal legge frem dokumentasjon som viser at virksomheten:oppfyller plikten til å ha godkjent bedriftshelsetjeneste i henhold til [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),oppfyller kravet om vernetjeneste i henhold til [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og 7,har skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,oppfyller vilkårene i til enhver tid gjeldende forskrift om allmenngjøring av tariffavtale for renholdsvirksomheter og,har en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
+(1) Virksomheten skal legge frem dokumentasjon som viser at virksomheten:
+
+1. oppfyller plikten til å ha godkjent bedriftshelsetjeneste i henhold til [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),
+2. oppfyller kravet om vernetjeneste i henhold til [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og 7,
+3. har skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,
+4. oppfyller vilkårene i til enhver tid gjeldende forskrift om allmenngjøring av tariffavtale for renholdsvirksomheter og,
+5. har en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
 
 (2) For virksomhet med utenlandsk arbeidstaker fra land utenfor EØS-området skal det dokumenteres at arbeidstakeren har oppholdstillatelse i den grad det er påkrevet for det aktuelle arbeidsforholdet. Tilsvarende gjelder for innehaver av enkeltmannsforetak fra land utenfor EØS-området.
 
-(3) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:EnhetsregisteretForetaksregisteretDet sentrale folkeregisteret. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret over befolkningen på Svalbard, jf. [forskrift 4. februar 1994 nr. 111](forskrift/1994-02-04-111)MerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteret.
+(3) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:
+
+1. Enhetsregisteret
+2. Foretaksregisteret
+3. Det sentrale folkeregisteret. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret over befolkningen på Svalbard, jf. [forskrift 4. februar 1994 nr. 111](forskrift/1994-02-04-111)
+4. Merverdiavgiftsregisteret
+5. Arbeidstaker- og arbeidsgiverregisteret.
 
 (4) Virksomheten må oppfylle pålagt opplysningsplikt til Sentralskattekontoret for utenlandssaker i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
 
@@ -64,7 +76,13 @@ Godkjent virksomhet skal innføres i et eget register, jf. [§ 6](forskrift/2012
 
 ### § 6. Register over renholdsvirksomheter
 
-(1) Arbeidstilsynet skal føre et register over renholdsvirksomheter som er godkjent etter [§ 5](forskrift/2012-05-08-408/§5), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Renholdsvirksomheter som inngår i registeret, skal stå oppført med en av følgende statuser:godkjent med ansattegodkjent uten ansattesøknad under behandlingHMS-kortbestilling under behandlingikke godkjent.
+(1) Arbeidstilsynet skal føre et register over renholdsvirksomheter som er godkjent etter [§ 5](forskrift/2012-05-08-408/§5), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Renholdsvirksomheter som inngår i registeret, skal stå oppført med en av følgende statuser:
+
+1. godkjent med ansatte
+2. godkjent uten ansatte
+3. søknad under behandling
+4. HMS-kortbestilling under behandling
+5. ikke godkjent.
 
 (2) Registeret skal være offentlig tilgjengelig.
 
@@ -134,7 +152,15 @@ Ved tilbakekall av godkjenning etter [§ 7](forskrift/2012-05-08-408/§7) andre 
 
 ### § 12. Krav til opplysninger på HMS-kortet
 
-HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:organisasjonsnummer og navn på arbeidsgiver eller enkeltpersonforetaknavn på kortinnehaverenbilde av kortinnehaverenkortinnehaverens fødselsdatoutstedelsesdatokortnummernavn på utsteder av kortet.
+HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:
+
+1. organisasjonsnummer og navn på arbeidsgiver eller enkeltpersonforetak
+2. navn på kortinnehaveren
+3. bilde av kortinnehaveren
+4. kortinnehaverens fødselsdato
+5. utstedelsesdato
+6. kortnummer
+7. navn på utsteder av kortet.
 
 > Endret ved [forskrifter 1 juli 2015 nr. 851](forskrift/2015-07-01-851), [20 des 2019 nr. 2084](forskrift/2019-12-20-2084) (i kraft 1 jan 2020).
 

@@ -15,7 +15,7 @@ xml_hash: "05ed0b094887cc9c515ee3021469035830220a27759873fe86de4ca8df03b798"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,22 @@ Attest, erklæring o.l. skal være korrekt og bare inneholde opplysninger som er
 
 Attest, erklæring o.l. skal være så utfyllende og tydelige at formålet med attesten eller erklæringen oppfylles. Dersom helsepersonellet er i tvil om attesten eller erklæringens formål, eller hvilke opplysninger eller vurderinger attesten eller erklæringen skal inneholde, skal dette avklares.
 
-Attest, erklæring o.l. skal blant annet inneholde følgende opplysninger dersom de er relevante og nødvendige for formålet:Bakgrunn for attesten eller erklæringen, herunder formål og eventuelt mandatOpplysninger om oppdragsgiver for eller mottaker av attesten eller erklæringenOpplysninger om helsepersonellets relasjon til pasientenBakgrunnsopplysninger om pasienten, herunder identitet, bosted og nasjonalitetBeskrivelse av rammene for eventuelle undersøkelser, herunder tid og sted for undersøkelser, bruk av tolk eller ledsagereBeskrivelse av den dokumentasjon som ligger til grunn for attesten eller erklæringen, herunder redegjørelse for om dokumentasjonen har fremkommet fra helsepersonellets egne undersøkelser, fra pasientjournal, fra annet helsepersonell eller helseinstitusjon, om dokumentasjonen er innhentet fra eller fremlagt av pasienten eller andreBeskrivelse av relevant helsetilstand og sykehistorie, herunder traumer, tidspunkt for debut, varighet, omfang, fysiske eller psykiske og sosiale følger hittil, tidligere uførhet, undersøkelser og behandling hittil, helseforhold før aktuell tilstand og medikamentbrukStatus presens, herunder funn ved samtale og klinisk undersøkelseSupplerende undersøkelser som er gjennomført, herunder tester, prøver, strukturerte intervjuer o.l.Vurderinger, herunder diagnoseangivelse i henhold anerkjent diagnosekodesystemKonklusjon eller anbefaling, relatert til mandatet og med henvisning til relevante funnKonsekvenser av vurderinger og konklusjon, herunder mulige eller anbefalte tiltak i form av behandling, oppfølging eller ytterligere utredning og undersøkelseSignatur og nødvendig kontaktinformasjon, herunder sted og tid for utferdigelsen av attesten eller erklæringen, helsepersonellets navn og stilling, underskrift eller elektronisk signaturVedlegg og annen dokumentasjon, herunder tidligere utredninger, epikriser, laboratoriefunn osv.
+Attest, erklæring o.l. skal blant annet inneholde følgende opplysninger dersom de er relevante og nødvendige for formålet:
+
+1. Bakgrunn for attesten eller erklæringen, herunder formål og eventuelt mandat
+2. Opplysninger om oppdragsgiver for eller mottaker av attesten eller erklæringen
+3. Opplysninger om helsepersonellets relasjon til pasienten
+4. Bakgrunnsopplysninger om pasienten, herunder identitet, bosted og nasjonalitet
+5. Beskrivelse av rammene for eventuelle undersøkelser, herunder tid og sted for undersøkelser, bruk av tolk eller ledsagere
+6. Beskrivelse av den dokumentasjon som ligger til grunn for attesten eller erklæringen, herunder redegjørelse for om dokumentasjonen har fremkommet fra helsepersonellets egne undersøkelser, fra pasientjournal, fra annet helsepersonell eller helseinstitusjon, om dokumentasjonen er innhentet fra eller fremlagt av pasienten eller andre
+7. Beskrivelse av relevant helsetilstand og sykehistorie, herunder traumer, tidspunkt for debut, varighet, omfang, fysiske eller psykiske og sosiale følger hittil, tidligere uførhet, undersøkelser og behandling hittil, helseforhold før aktuell tilstand og medikamentbruk
+8. Status presens, herunder funn ved samtale og klinisk undersøkelse
+9. Supplerende undersøkelser som er gjennomført, herunder tester, prøver, strukturerte intervjuer o.l.
+10. Vurderinger, herunder diagnoseangivelse i henhold anerkjent diagnosekodesystem
+11. Konklusjon eller anbefaling, relatert til mandatet og med henvisning til relevante funn
+12. Konsekvenser av vurderinger og konklusjon, herunder mulige eller anbefalte tiltak i form av behandling, oppfølging eller ytterligere utredning og undersøkelse
+13. Signatur og nødvendig kontaktinformasjon, herunder sted og tid for utferdigelsen av attesten eller erklæringen, helsepersonellets navn og stilling, underskrift eller elektronisk signatur
+14. Vedlegg og annen dokumentasjon, herunder tidligere utredninger, epikriser, laboratoriefunn osv.
 
 Attest, erklæring o.l. skal utformes på en slik måte at det er samsvar mellom attesten eller erklæringens beskrivende del og de vurderinger som er foretatt, samt samsvar mellom vurderinger og konklusjon eller anbefaling.
 

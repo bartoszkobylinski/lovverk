@@ -15,7 +15,7 @@ xml_hash: "56534e2d08a4172b10dd2e24bb6a4fd9cd03db5b3089ef8ba8df4d7a90477f05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,12 @@ Lova gjeld ikkje førstehandsomsetning av viltlevande marine ressursar som er ha
 
 Departementet kan godkjenne eit samvirkeforetak, jf. [samvirkelova](lov/2007-06-29-81), som fiskesalslag. Berre fiskarar eller organisasjonar av fiskarar kan vere medlemmer i eit fiskesalslag.
 
-Vedtektene til fiskesalslaget skal ha føresegner om følgjande:at fiskesalslaget skal ha ein kontrollkomité,at verksemd som fiskesalslaget driv, og som ikkje direkte er organisering av førstehandsomsetninga, skal skje gjennom eigne selskap,at føresegner som vert fastsette om bruk av formuen ved oppløysing av fiskesalslaget skal godkjennast av departementet,at tvistar mellom fiskesalslaget og medlemmene skal løysast på nærare fastsett måte.
+Vedtektene til fiskesalslaget skal ha føresegner om følgjande:
+
+1. at fiskesalslaget skal ha ein kontrollkomité,
+2. at verksemd som fiskesalslaget driv, og som ikkje direkte er organisering av førstehandsomsetninga, skal skje gjennom eigne selskap,
+3. at føresegner som vert fastsette om bruk av formuen ved oppløysing av fiskesalslaget skal godkjennast av departementet,
+4. at tvistar mellom fiskesalslaget og medlemmene skal løysast på nærare fastsett måte.
 
 Departementet kan i forskrift gje nærare føresegner om ansvarsområda til fiskesalslaga, medrekna geografiske område og kva for viltlevande marine ressursar det enkelte fiskesalslaget skal ha einerett til å omsetje.
 
@@ -66,7 +71,12 @@ Kontrolløren skal ha uhindra tilgang til og innsyn i alle bøker og protokollar
 
 ### § 6. Tilbakekalling av godkjenning
 
-Departementet kan kalle tilbake godkjenninga permanent eller mellombels dersomfiskesalslaget ikkje oppfyller dei krava som er fastsette i eller etter [samvirkelova](lov/2007-06-29-81),statens kontrollør har vorte hindra i arbeidet sitt,fiskesalslaget grovt eller gjenteke har brote føresegner som er fastsette i eller etter lova her, ellerorganiseringa og strukturen til fiskesalslaga ikkje er tenleg ut frå formålet med lova.
+Departementet kan kalle tilbake godkjenninga permanent eller mellombels dersom
+
+1. fiskesalslaget ikkje oppfyller dei krava som er fastsette i eller etter [samvirkelova](lov/2007-06-29-81),
+2. statens kontrollør har vorte hindra i arbeidet sitt,
+3. fiskesalslaget grovt eller gjenteke har brote føresegner som er fastsette i eller etter lova her, eller
+4. organiseringa og strukturen til fiskesalslaga ikkje er tenleg ut frå formålet med lova.
 
 Ved tilbakekalling av godkjenning kan departementet fastsetje at eit anna fiskesalslag skal overta ansvarsområdet til det fiskesalslaget som fekk godkjenninga si kalla tilbake.
 

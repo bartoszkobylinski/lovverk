@@ -48,7 +48,10 @@ Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den 
 
 ### § 5. Sletting av opphørte enheter fra Enhetsregisteret
 
-Inntil [lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 8-3 første ledd tredje](lov/2025-06-20-105/§8-3/ledd/1/setning/3) og [fjerde punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/4) trer i kraft, kan registerføreren slette en opphørt enhet fra Enhetsregisteret dersom følgende vilkår er oppfylt:registerføreren har sendt varsel om sletting som nevnt i [enhetsregisterloven § 8-3 første ledd første](lov/2025-06-20-105/§8-3/ledd/1/setning/1) og [andre punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/2) til enheten og de som har meldeplikt etter [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3), ogdet er ikke gitt opplysninger til registerføreren som sannsynliggjør at enheten fortsatt består innen fristen i varselet.
+Inntil [lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 8-3 første ledd tredje](lov/2025-06-20-105/§8-3/ledd/1/setning/3) og [fjerde punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/4) trer i kraft, kan registerføreren slette en opphørt enhet fra Enhetsregisteret dersom følgende vilkår er oppfylt:
+
+1. registerføreren har sendt varsel om sletting som nevnt i [enhetsregisterloven § 8-3 første ledd første](lov/2025-06-20-105/§8-3/ledd/1/setning/1) og [andre punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/2) til enheten og de som har meldeplikt etter [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3), og
+2. det er ikke gitt opplysninger til registerføreren som sannsynliggjør at enheten fortsatt består innen fristen i varselet.
 
 ## Kapittel 3. Ikrafttredelse
 

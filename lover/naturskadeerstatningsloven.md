@@ -15,7 +15,7 @@ xml_hash: "ed8201c01078d90a2923c85bc14e3900642ea1abefb1b4207d9cf260a729b496"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,12 @@ Utgifter til sikringstiltak erstattes ikke med mindre annet følger av denne lov
 
 ### § 6. Avkorting
 
-Erstatningen etter [§ 5](lov/2014-08-15-59/§5) kan nedsettes eller etter omstendighetene helt nektes når:skaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,skadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,den skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,gjenopprettingen medfører en verdistigning på skadeobjektet.
+Erstatningen etter [§ 5](lov/2014-08-15-59/§5) kan nedsettes eller etter omstendighetene helt nektes når:
+
+1. skaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,
+2. skadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,
+3. den skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,
+4. gjenopprettingen medfører en verdistigning på skadeobjektet.
 
 Ved avgjørelse etter første ledd bokstav b og c skal det legges vekt på den skadelidtes forutsetninger for å innse hvilke krav som må stilles, skadelidtes mulighet for utbedring av mangelen og forholdene ellers. Avkorting skal ikke skje hvis den skadelidte bare er lite å legge til last.
 

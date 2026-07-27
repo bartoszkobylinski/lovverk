@@ -15,7 +15,7 @@ xml_hash: "cd329dfac94023505f5973c6049d531891215d65cf0fc3368ef12206c9107dbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ Forskriften retter seg også mot enhver som har eller skal ha godkjenning etter 
 
 ### § 3. Etablering og flytting av akvakulturanlegg m.m.
 
-Det er ikke tillatt å etablerere nye akvakulturanlegg for:produksjon av matfisk og stamfisk av anadrom fisk, med unntak av kultiveringsanlegg eller genbank for vill anadrom laksefiskvirksomhet med forsøks-, forsknings- og undervisningsformål, ellerproduksjon av ål i sjø.
+Det er ikke tillatt å etablerere nye akvakulturanlegg for:
+
+1. produksjon av matfisk og stamfisk av anadrom fisk, med unntak av kultiveringsanlegg eller genbank for vill anadrom laksefisk
+2. virksomhet med forsøks-, forsknings- og undervisningsformål, eller
+3. produksjon av ål i sjø.
 
 Eksisterende virksomheter nevnt i første ledd 1. og 2. kan gis tillatelser til etablering av nye akvakulturanlegg dersom dette er nødvendig for å gjennomføre fullstendig årsklasseskille eller brakklegging. Slike akvakulturanlegg må etableres minst 30 km fra nasjonale laksevassdrag.
 
@@ -60,7 +64,22 @@ Mattilsynet kan fastsette tak for maksimalt tillatt slaktevolum for eksisterende
 
 ### § 5. Nasjonale laksefjorder – flytteplikt fra særskilte områder m.m.
 
-Etablerte akvakulturanlegg for produksjon av matfisk og stamfisk av anadrom fisk, samt ål, skal innen 1. august 2011 flytte ut av følgende nasjonale laksefjorder:*Svennerbassenget:* Sandøy-Strømtangen*Kysten Jæren-Dalane:* Tungenes fyr-Åna-Sira*Sognefjorden:* Ortmark-Nessane*Nordfjord:* Stårheim-Hamnes, Finnvika-Åseneset*Sunndalsfjorden:* Fjøseid-Merraberget*Romsdalsfjorden:* Hamneneset-Okseneset*Halsafjorden:* Aksnes-Flesa*Trondheimsfjorden:* Agdenes Fyr – Brekstad*Namsfjorden:* Kårbringeskjær-Knappholman, Husvika-Kaldklauv og Fosnes-Namsos kommuner*Neidenfjorden/Bøkfjorden:* Skoalaidvakki rundt Kjøøya til Geresgåppi og Bøkfjord fyr-Raigebakti*Kvænangen:* smalt sund vest for Balderselva*Altafjorden:* Altnesset-Isnestoften*Porsanger:* Ytre Veidnes-Kjerringsvikneset*Tanafjorden:* Russevik-Skarveneset.
+Etablerte akvakulturanlegg for produksjon av matfisk og stamfisk av anadrom fisk, samt ål, skal innen 1. august 2011 flytte ut av følgende nasjonale laksefjorder:
+
+- *Svennerbassenget:* Sandøy-Strømtangen
+- *Kysten Jæren-Dalane:* Tungenes fyr-Åna-Sira
+- *Sognefjorden:* Ortmark-Nessane
+- *Nordfjord:* Stårheim-Hamnes, Finnvika-Åseneset
+- *Sunndalsfjorden:* Fjøseid-Merraberget
+- *Romsdalsfjorden:* Hamneneset-Okseneset
+- *Halsafjorden:* Aksnes-Flesa
+- *Trondheimsfjorden:* Agdenes Fyr – Brekstad
+- *Namsfjorden:* Kårbringeskjær-Knappholman, Husvika-Kaldklauv og Fosnes-Namsos kommuner
+- *Neidenfjorden/Bøkfjorden:* Skoalaidvakki rundt Kjøøya til Geresgåppi og Bøkfjord fyr-Raigebakti
+- *Kvænangen:* smalt sund vest for Balderselva
+- *Altafjorden:* Altnesset-Isnestoften
+- *Porsanger:* Ytre Veidnes-Kjerringsvikneset
+- *Tanafjorden:* Russevik-Skarveneset.
 
 Plan for flytting skal være fremlagt for Fiskeridirektoratet innen 1. august 2010.
 
@@ -90,7 +109,14 @@ Ved rengjøring og desinfeksjon av nøter fra akvakulturanlegg med mistanke om, 
 
 ### § 8. Avløp
 
-Mattilsynet kan for å forhindre spredning av smittsomme sykdommer fastsette krav til behandling av avløp fra:landbaserte matfisk og stamfiskanlegg for anadrom fisk, herunder kultiveringsanlegg eller genbank for vill anadrom laksefisklandbaserte matfiskanlegg for marin fiskklekkerier og settefiskanlegg for anadrom og marin fiskanlegg med forsøks-, forsknings- og undervisningsformålslakteri, tilvirkingsanlegg og notvaskerier, samtanlegg for produksjon av ål.
+Mattilsynet kan for å forhindre spredning av smittsomme sykdommer fastsette krav til behandling av avløp fra:
+
+1. landbaserte matfisk og stamfiskanlegg for anadrom fisk, herunder kultiveringsanlegg eller genbank for vill anadrom laksefisk
+2. landbaserte matfiskanlegg for marin fisk
+3. klekkerier og settefiskanlegg for anadrom og marin fisk
+4. anlegg med forsøks-, forsknings- og undervisningsformål
+5. slakteri, tilvirkingsanlegg og notvaskerier, samt
+6. anlegg for produksjon av ål.
 
 Dersom eksisterende klekkerier og settefiskanlegg for laksefisk, samt landbaserte matfisk- og settefiskanlegg for marine arter ikke kan oppfylle Mattilsynets krav, skal avløpet plasseres med utslippspunkt minst 5 km fra nasjonalt laksevassdrag.
 
@@ -132,7 +158,14 @@ Akvakulturanlegg med stamfisk, matfisk, settefisk eller kultiveringsfisk, skal h
 
 ### § 15. Særskilte tiltak mot lakselus
 
-Mattilsynet kan i nasjonale laksefjorder gjennomføre særskilte tiltak mot lakselus, herunder:avlusing ved lavere tiltaksgrenser enn de som er nevnt i [forskrift av 9. juli 2008 nr. 797](forskrift/2008-07-09-797) om bekjempelse av lus i akvakulturanlegg [§ 5](forskrift/2008-07-09-797/§5), første leddsamordnet avlusning i et nærmere angitt tidsromsamordnet utsett og brakklegging som en del av tiltakene mot lakselussette spesifikke krav hvilket middel mot lakselus som skal brukessette krav til avlusningsmetodikk, herunder bruk av presenning eller brønnbåtandre påbud, forbud og tiltak i tråd med forskriftens formål.
+Mattilsynet kan i nasjonale laksefjorder gjennomføre særskilte tiltak mot lakselus, herunder:
+
+1. avlusing ved lavere tiltaksgrenser enn de som er nevnt i [forskrift av 9. juli 2008 nr. 797](forskrift/2008-07-09-797) om bekjempelse av lus i akvakulturanlegg [§ 5](forskrift/2008-07-09-797/§5), første ledd
+2. samordnet avlusning i et nærmere angitt tidsrom
+3. samordnet utsett og brakklegging som en del av tiltakene mot lakselus
+4. sette spesifikke krav hvilket middel mot lakselus som skal brukes
+5. sette krav til avlusningsmetodikk, herunder bruk av presenning eller brønnbåt
+6. andre påbud, forbud og tiltak i tråd med forskriftens formål.
 
 ## Kapittel 3. Avsluttende bestemmelser.
 
@@ -162,7 +195,11 @@ Det er en forutsetning for dispensasjon etter denne bestemmelse at tiltak som ti
 
 Det organ som er gitt myndighet etter [§ 16](forskrift/2009-06-22-961/§16) kan fatte vedtak for å gjennomføre bestemmelsene gitt i eller i medhold av denne forskriften.
 
-Det kan fattes vedtak etter:[lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. [§ 23](lov/2003-12-19-124/§23) om tilsyn og vedtak, [§ 24](lov/2003-12-19-124/§24) – § 26 om særskilt smittesanering, stenging og virksomhetskarantene og tvangsmulkt[lov 17. juni 2005 nr. 79](lov/2005-06-17-79) om akvakultur [§ 9](lov/2005-06-17-79/§9) om endring og tilbaketrekking av tillatelse, [§ 27](lov/2005-06-17-79/§27) om pålegg om tiltak, [§ 28](lov/2005-06-17-79/§28) om tvangsmulkt, [§ 29](lov/2005-06-17-79/§29) om iverksetting av tiltak for den ansvarliges regning og [§ 30](lov/2005-06-17-79/§30) om overtredelsesgebyr[forskrift 29. mars 2007 nr. 361](forskrift/2007-03-29-361) om reaksjoner ved overtredelse av akvakulturloven.
+Det kan fattes vedtak etter:
+
+1. [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. [§ 23](lov/2003-12-19-124/§23) om tilsyn og vedtak, [§ 24](lov/2003-12-19-124/§24) – § 26 om særskilt smittesanering, stenging og virksomhetskarantene og tvangsmulkt
+2. [lov 17. juni 2005 nr. 79](lov/2005-06-17-79) om akvakultur [§ 9](lov/2005-06-17-79/§9) om endring og tilbaketrekking av tillatelse, [§ 27](lov/2005-06-17-79/§27) om pålegg om tiltak, [§ 28](lov/2005-06-17-79/§28) om tvangsmulkt, [§ 29](lov/2005-06-17-79/§29) om iverksetting av tiltak for den ansvarliges regning og [§ 30](lov/2005-06-17-79/§30) om overtredelsesgebyr
+3. [forskrift 29. mars 2007 nr. 361](forskrift/2007-03-29-361) om reaksjoner ved overtredelse av akvakulturloven.
 
 ### § 19. Straff
 

@@ -15,7 +15,7 @@ xml_hash: "c23a64a42b42a11e45eec359e7c43264c96a83ef6fe5316c79013f2b84323bcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,7 +112,11 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-I denne forordningenfastsettes nærmere regler som er nødvendige for gjennomføring av inspeksjonene fastsatt i artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),angis innholdet i beredskapsplanene omhandlet i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) når disse gjelder dyretransportfartøyer,angis minstekravene til utførselssteder når disse er havner.
+I denne forordningen
+
+1. fastsettes nærmere regler som er nødvendige for gjennomføring av inspeksjonene fastsatt i artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),
+2. angis innholdet i beredskapsplanene omhandlet i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) når disse gjelder dyretransportfartøyer,
+3. angis minstekravene til utførselssteder når disse er havner.
 
 ### Artikkel 2. Definisjoner
 
@@ -122,7 +126,11 @@ I denne forordningen menes med «havnestatskontrollinspeksjon» en inspeksjon so
 
 1\. Kommisjonen skal utvikle og sikre drift, vedlikehold, støtte og enhver nødvendig oppdatering eller videreutvikling av en elektronisk database.
 
-2\. Den elektroniske databasen skal inneholde de opplysningene som er nødvendige for de inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), herundergodkjenningsopplysningene i godkjenningsbevisene for dyretransportfartøyer på en måte som gjør det mulig for medlemsstatenes vedkommende myndigheter raskt å identifisere dyretransportfartøyene,registreringer av tidligere inspeksjoner utført av medlemsstatenes vedkommende myndigheter på dyretransportfartøyer i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),offentlig tilgjengelige opplysninger om resultatet av havnestatskontrollinspeksjoner.
+2\. Den elektroniske databasen skal inneholde de opplysningene som er nødvendige for de inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), herunder
+
+1. godkjenningsopplysningene i godkjenningsbevisene for dyretransportfartøyer på en måte som gjør det mulig for medlemsstatenes vedkommende myndigheter raskt å identifisere dyretransportfartøyene,
+2. registreringer av tidligere inspeksjoner utført av medlemsstatenes vedkommende myndigheter på dyretransportfartøyer i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),
+3. offentlig tilgjengelige opplysninger om resultatet av havnestatskontrollinspeksjoner.
 
 3\. Kommisjonen skal gi medlemsstatenes vedkommende myndigheter tilgang til den elektroniske databasen med henblikk på artikkel 4, 5 og 6.
 
@@ -146,7 +154,10 @@ I denne forordningen menes med «havnestatskontrollinspeksjon» en inspeksjon so
 
 1\. Kommisjonen skal sikre at den elektroniske databasen nevnt i artikkel 3 i denne forordningen gjør det mulig å hente ut alle relevante data som medlemsstatenes vedkommende myndigheter har registrert med henblikk på å overvåke gjennomføringen av artikkel 19 og 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
 
-2\. Medlemsstatenes vedkommende myndigheter skal ha tilgang til alle opplysninger som er registrert i den elektroniske databasen, og som er nødvendige for åkontrollere at dyretransportfartøyer har et gyldig godkjenningsbevis,treffe velinformerte beslutninger ved inspeksjon av dyretransportfartøyer under lasting i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+2\. Medlemsstatenes vedkommende myndigheter skal ha tilgang til alle opplysninger som er registrert i den elektroniske databasen, og som er nødvendige for å
+
+1. kontrollere at dyretransportfartøyer har et gyldig godkjenningsbevis,
+2. treffe velinformerte beslutninger ved inspeksjon av dyretransportfartøyer under lasting i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
 
 ### Artikkel 7. Beredskapsplaner for nødssituasjoner for dyretransportfartøyer
 
@@ -160,15 +171,25 @@ Søkeren skal sende søknaden om godkjenningsbevis for et dyretransportfartøy t
 
 1\. Vedkommende myndigheter skal sikre at inspeksjoner med henblikk på å utstede godkjenningsbevis, fastsatt i artikkel 19 i forordning [(EF) nr. 1/2005](eu/32005r0001), utføres av en gruppe inspektører.
 
-2\. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+2\. En gruppe av inspektører skal minst omfatte
 
-3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), og som ikke er begrenset med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er godkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
+1. en offentlig veterinær og
+2. en sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+
+3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:
+
+1. Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), og som ikke er begrenset med hensyn til arbeidsområde, framdriftskraft eller tonnasje.
+2. Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er godkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.
+3. Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
 
 ### Artikkel 10. Offentlig kontroll utført av en offentlig veterinær om bord på dyretransportfartøyer
 
 1\. En offentlig veterinær skal utføre offentlig kontroll om bord på et dyretransportfartøy under hele den første turen til fartøyet med forsendelser av dyr etter godkjenning av dyretransportfartøyet i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) og før fornyelse av en slik godkjenning.
 
-2\. Godkjenningen av dyretransportfartøyet suspenderes med mindrekontrollene nevnt i nr. 1 viser at dyretransportfartøyets konstruksjon og utstyr ikke er til skade for dyrenes velferd om bord, ogtransportøren treffer effektive korrigerende tiltak dersom resultatene av kontrollene nevnt i nr. 1 påviser andre mangler.
+2\. Godkjenningen av dyretransportfartøyet suspenderes med mindre
+
+1. kontrollene nevnt i nr. 1 viser at dyretransportfartøyets konstruksjon og utstyr ikke er til skade for dyrenes velferd om bord, og
+2. transportøren treffer effektive korrigerende tiltak dersom resultatene av kontrollene nevnt i nr. 1 påviser andre mangler.
 
 3\. For utførelsen av kontrollene nevnt i nr. 1 skal den offentlige veterinæren fylle ut en rapport om kontrollen om bord under reisen i samsvar med modellen i vedlegget.
 
@@ -182,7 +203,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Artikkel 10 og 11 får anvendelse fra 1. januar 2024.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. februar 2023.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. februar 2023.
 
 |  |  |
 | --- | --- |
@@ -290,19 +313,35 @@ For å gjennomføre velinformerte beslutninger ved inspeksjon av dyretransportfa
 
 1\. Vedkommende myndigheter skal sikre at inspeksjoner av lasting av dyretransportfartøyer, som fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), og offentlig kontroll ved utførselssteder i havner, som fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625), utføres av en gruppe inspektører.
 
-2\. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+2\. En gruppe av inspektører skal minst omfatte
 
-3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), uten begrensning med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er anerkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
+1. en offentlig veterinær og
+2. en sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+
+3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:
+
+1. Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), uten begrensning med hensyn til arbeidsområde, framdriftskraft eller tonnasje.
+2. Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er anerkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.
+3. Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
 
 ### Artikkel 6. Inspeksjon av dyretransportfartøyer ved lasting og lossing ved utførselssteder i havner
 
-1\. Dersom dyr presenteres for lasting eller lossing på dyretransportfartøyer ved utførselssteder, skal organisatoren gi vedkommende myndighet ved utførselsstedene følgende dokumenter minst fem virkedager før datoen for inspeksjon av dyretransportfartøyene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), eller datoen for offentlig kontroll fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625):En kopi av transportørgodkjenningen for sjødelen av transporten som fastsatt i artikkel 10 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).For lange reiser, en kopi av transportørgodkjenningen og beredskapsplanene for sjødelen av transporten i tilfelle nødssituasjoner som fastsatt i artikkel 11 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+1\. Dersom dyr presenteres for lasting eller lossing på dyretransportfartøyer ved utførselssteder, skal organisatoren gi vedkommende myndighet ved utførselsstedene følgende dokumenter minst fem virkedager før datoen for inspeksjon av dyretransportfartøyene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), eller datoen for offentlig kontroll fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625):
 
-2\. Vedkommende myndigheter på utførselsstedet i sjøhavner skalverifisere at beredskapsplanene for nødssituasjoner som fastsatt i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) oppfyller kravene fastsatt i artikkel 7 i gjennomføringsforordning [(EU) 2023/372](eu/32023r0372), oggjennom en fysisk inspeksjon verifisere at fordelingen av dyrene i innhegningene oppfyller kravene til plassforhold fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
+1. En kopi av transportørgodkjenningen for sjødelen av transporten som fastsatt i artikkel 10 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+2. For lange reiser, en kopi av transportørgodkjenningen og beredskapsplanene for sjødelen av transporten i tilfelle nødssituasjoner som fastsatt i artikkel 11 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+
+2\. Vedkommende myndigheter på utførselsstedet i sjøhavner skal
+
+1. verifisere at beredskapsplanene for nødssituasjoner som fastsatt i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) oppfyller kravene fastsatt i artikkel 7 i gjennomføringsforordning [(EU) 2023/372](eu/32023r0372), og
+2. gjennom en fysisk inspeksjon verifisere at fordelingen av dyrene i innhegningene oppfyller kravene til plassforhold fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
 
 ### Artikkel 7. Visuell dokumentasjon på inspeksjoner og offentlig kontroll
 
-1\. Ved gjennomføring av inspeksjoner og offentlig kontroll i samsvar med artikkel 5 nr. 1 i denne forordningen skal vedkommende myndigheter i medlemsstaten der dyrene losses og lastes i samsvar med artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), ta bilder eller videoer av følgende:Konstruksjonselementer eller utstyr fastsatt i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001) som ikke er i samsvar med nevnte avsnitt.Ethvert annet element som framviser mangler, som ikke er i samsvar med de relevante bestemmelsene, eller som kan påvirke dyrenes velferd negativt.
+1\. Ved gjennomføring av inspeksjoner og offentlig kontroll i samsvar med artikkel 5 nr. 1 i denne forordningen skal vedkommende myndigheter i medlemsstaten der dyrene losses og lastes i samsvar med artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), ta bilder eller videoer av følgende:
+
+1. Konstruksjonselementer eller utstyr fastsatt i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001) som ikke er i samsvar med nevnte avsnitt.
+2. Ethvert annet element som framviser mangler, som ikke er i samsvar med de relevante bestemmelsene, eller som kan påvirke dyrenes velferd negativt.
 
 2\. Fotografiene eller videoene som tas under inspeksjonene og den offentlige kontrollen som er fastsatt i nr. 1, skal vedlegges inspeksjonsdokumentene og oppbevares av vedkommende myndigheter så lenge godkjenningsbeviset for dyretransportfartøyet er gyldig.
 
@@ -310,7 +349,9 @@ For å gjennomføre velinformerte beslutninger ved inspeksjon av dyretransportfa
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. februar 2023.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. februar 2023.
 
 |  |  |
 | --- | --- |

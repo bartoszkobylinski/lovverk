@@ -82,7 +82,14 @@ Lege kan søke om viktige legemidler på vegne av pasienten. Takst H1 brukes ved
 
 > Kapittel endret ved forskrift [29 juni 2026 nr. 1442](forskrift/2026-06-29-1442) (i kraft 1 juli 2026).
 
-Takstene i forsøksordningen er inndelt etter hvilken digital form konsultasjonen har, om det benyttes video, telefon eller tekstkonsultasjon. De takstene som gjelder for dagtid benyttes for konsultasjoner som startes i tidsrommet mellom kl. 08 og 16 på hverdager. Takstene som gjelder for kveldstid benyttes for konsultasjoner som startes i tidsrommet mellom kl. 16 og 22 på hverdager og mellom kl. 08 og 22 i helger og på helligdager.Enkle pasientkontakterKonsultasjoner og sykebesøkAlminnelige prosedyrerNevrologiske og psykiske lidelserLaboratorieundersøkelser og prøverRadiologi.
+Takstene i forsøksordningen er inndelt etter hvilken digital form konsultasjonen har, om det benyttes video, telefon eller tekstkonsultasjon. De takstene som gjelder for dagtid benyttes for konsultasjoner som startes i tidsrommet mellom kl. 08 og 16 på hverdager. Takstene som gjelder for kveldstid benyttes for konsultasjoner som startes i tidsrommet mellom kl. 16 og 22 på hverdager og mellom kl. 08 og 22 i helger og på helligdager.
+
+1. Enkle pasientkontakter
+2. Konsultasjoner og sykebesøk
+3. Alminnelige prosedyrer
+4. Nevrologiske og psykiske lidelser
+5. Laboratorieundersøkelser og prøver
+6. Radiologi.
 
 ### A. Enkle pasientkontakter
 
@@ -194,7 +201,10 @@ Takstene i forsøksordningen er inndelt etter hvilken digital form konsultasjone
 
 En konsultasjon innebærer direktekontakt mellom lege og pasient på egnet behandlingssted. Konsultasjonen skal inneholde en medisinsk vurdering/samtale. Taksten kan ikke kreves refundert med grunnlag i arbeid utført av hjelpepersonell alene.
 
-Inkludert i taksten erskriving av resepthenvisninger og rekvisisjoner.
+Inkludert i taksten er
+
+- skriving av resept
+- henvisninger og rekvisisjoner.
 
 *Merknad 2*
 
@@ -208,7 +218,12 @@ Den digitale konsultasjon kan ikke benyttes ved sykemelding, med mindre alle vil
 
 *Merknad 4*
 
-Taksten kan ikke benyttes:ved telefonhenvendelser om timeavtale eller sykebesøk uten samtidig rådgivningved enkle beskjeder eller spørsmål om prøveresultat uten samtidig rådgivningved telefonsamtale med kollegerved innringing av resept til apotek.
+Taksten kan ikke benyttes:
+
+- ved telefonhenvendelser om timeavtale eller sykebesøk uten samtidig rådgivning
+- ved enkle beskjeder eller spørsmål om prøveresultat uten samtidig rådgivning
+- ved telefonsamtale med kolleger
+- ved innringing av resept til apotek.
 
 *Merknad 5*
 

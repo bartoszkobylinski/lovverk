@@ -32,13 +32,21 @@ Kabelbane anses ikke som jernbane etter jernbaneundersøkelsesloven.
 
 ### § 2. Myndighetene
 
-Følgende instanser er tillagt myndighet/oppgaver i henhold til denne forskriften:Statens havarikommisjon er undersøkelsesmyndighet.Statens jernbanetilsyn er tilsynsmyndigheten.Samferdselsdepartementet er departementet.
+Følgende instanser er tillagt myndighet/oppgaver i henhold til denne forskriften:
+
+1. Statens havarikommisjon er undersøkelsesmyndighet.
+2. Statens jernbanetilsyn er tilsynsmyndigheten.
+3. Samferdselsdepartementet er departementet.
 
 > Endret ved [forskrift 26 feb 2020 nr. 188](forskrift/2020-02-26-188) (i kraft 1 juli 2020).
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Undersøkelse:* Framgangsmåte etter en jernbaneulykke eller alvorlig jernbanehendelse med henblikk på å forebygge slike ulykker eller hendelser, og som omfatter innsamling og analyse av opplysninger, utarbeidelse av konklusjoner, herunder bestemmelse av årsaker, samt formulering av eventuelle sikkerhetstilrådinger.*Årsaker:* Handlinger, unnlatelser, hendelser eller omstendigheter, eller en kombinasjon av disse, som fører til jernbaneulykken eller jernbanehendelsen.*Byrået:* Den europeiske unions jernbanebyrå.
+I denne forskriften menes med:
+
+1. *Undersøkelse:* Framgangsmåte etter en jernbaneulykke eller alvorlig jernbanehendelse med henblikk på å forebygge slike ulykker eller hendelser, og som omfatter innsamling og analyse av opplysninger, utarbeidelse av konklusjoner, herunder bestemmelse av årsaker, samt formulering av eventuelle sikkerhetstilrådinger.
+2. *Årsaker:* Handlinger, unnlatelser, hendelser eller omstendigheter, eller en kombinasjon av disse, som fører til jernbaneulykken eller jernbanehendelsen.
+3. *Byrået:* Den europeiske unions jernbanebyrå.
 
 > Endret ved forskrift [3 sep 2021 nr. 2675](forskrift/2021-09-03-2675) (i kraft 1 juni 2022, jf. meddelelse [5 mai 2022 nr. 766](forskrift/2022-05-05-766)).
 
@@ -58,7 +66,12 @@ Undersøkelsesmyndigheten skal undersøke jernbaneulykker og alvorlige jernbaneh
 
 Undersøkelsesmyndigheten fastsetter selv omfanget av undersøkelsene og framgangsmåten som skal følges ved gjennomføringen av slike undersøkelser. Ved vurderingen skal det bl.a. tas hensyn til prinsippene og målene som er gitt i jernbaneundersøkelsesloven og i denne forskrift, og hvilken lærdom undersøkelsen forventes å gi med tanke på å forbedre sikkerheten.
 
-I beslutningen om det skal gjennomføres en fullstendig undersøkelse skal undersøkelsesmyndigheten bl.a. ta hensyn til:hvor alvorlig jernbaneulykken eller jernbanehendelsen er,om jernbaneulykken eller jernbanehendelsen inngår i en serie av ulykker eller hendelser av betydning for jernbanesystemet som helhet,jernbaneulykkens eller jernbanehendelsens innvirkning på jernbanesikkerheten i EØS-området,anmodninger fra infrastrukturforvaltninger, jernbaneforetak, øvrige jernbanevirksomheter, samt tilsyns- og sikkerhetsmyndigheter eller EØS-stater.
+I beslutningen om det skal gjennomføres en fullstendig undersøkelse skal undersøkelsesmyndigheten bl.a. ta hensyn til:
+
+1. hvor alvorlig jernbaneulykken eller jernbanehendelsen er,
+2. om jernbaneulykken eller jernbanehendelsen inngår i en serie av ulykker eller hendelser av betydning for jernbanesystemet som helhet,
+3. jernbaneulykkens eller jernbanehendelsens innvirkning på jernbanesikkerheten i EØS-området,
+4. anmodninger fra infrastrukturforvaltninger, jernbaneforetak, øvrige jernbanevirksomheter, samt tilsyns- og sikkerhetsmyndigheter eller EØS-stater.
 
 ## Kapittel II. Varsling og igangsetting av undersøkelse av jernbaneulykker og alvorlige jernbanehendelser
 
@@ -188,9 +201,83 @@ Denne forskriften trer i kraft 30. april 2006. Fra samme tidspunkt oppheves [for
 
 > Opphevet ved forskrift [3 sep 2021 nr. 2675](forskrift/2021-09-03-2675) (i kraft 1 juni 2022, jf. meddelelse [5 mai 2022 nr. 766](forskrift/2022-05-05-766), se endringsforskriften for overgangsregel).
 
-1. *Oppsummering*Oppsummeringen skal inneholde en kort beskrivelse av ulykken eller hendelsen, tid og sted og konsekvensene av denne. Det skal opplyses om direkte årsaker og om medvirkende faktorer og underliggende årsaker som er fastslått gjennom undersøkelsen. Hovedtilrådingene skal gjentas, og det skal opplyses om hvem disse er rettet til.
-2. *Direkte fakta om ulykken eller hendelsen*Ulykken eller hendelsen:dato, nøyaktig tid og sted for ulykken eller hendelsen,beskrivelse av omstendighetene og ulykkesstedet, herunder arbeidet til redningstjenester og beredskapstjenester,beslutningen om å innlede en undersøkelse, sammensetning av undersøkelsesgruppen og gjennomføring av undersøkelsen.Bakgrunnen for ulykken eller hendelsen:involvert personale og involverte entreprenører samt andre parter og vitner,togene og deres sammensetning, herunder registreringsnummer på deler av rullende materiell som er involvert,beskrivelse av infrastrukturen og systemet for signalgiving – sportyper, sporskiftere, tilkoplere, signaler, driftssikring,kommunikasjonsmidler,arbeider utført på eller i nærheten av ulykkesstedet,den utløsende faktor for jernbaneberedskapsplanen og planens hendelsesforløp,den utløsende faktor for de offentlige redningstjenesters, politiets og helsevesenets beredskapsplaner og planenes hendelsesforløp.Drepte, skadede og materielle skader:passasjerer og tredjemenn, personale, herunder entreprenører,cargo, reisegods og annen eiendom,rullende materiell, infrastruktur og miljøet.Eksterne omstendigheter:værforhold og geografiske opplysninger.
-3. *Referater fra undersøkelser og avhør*Oppsummering av vitneutsagn (med beskyttelse av personenes identitet):jernbanepersonale, herunder entreprenører,andre vitner.Sikkerhetsstyringssystemet:rammeorganisasjonen og hvordan ordre gis og utføres,krav til personalet og hvordan oppfyllelsen av disse sikres,rutiner for internkontroll og internrevisjon og resultatene av disse,grensesnitt mellom forskjellige aktører i infrastrukturen.Regler og forskrifter:gjeldende regler og forskrifter i EØS og på nasjonalt plan,andre regler, f.eks. driftsregler, lokale instrukser, personalkrav, vedlikeholdskrav og gjeldende standarder.Virkemåten til rullende materiell og tekniske anlegg:systemet for signalgiving og styring, herunder registreringer fra ferdskrivere,infrastruktur,kommunikasjonsutstyr,rullende materiell, herunder registreringer fra ferdskrivere.Dokumentasjon for driftssystemet:tiltak truffet av personalet med hensyn til trafikkstyring og signalgiving,utveksling av talemeldinger i forbindelse med ulykken eller hendelsen, herunder dokumentasjon fra opptak,tiltak truffet for å beskytte og verne ulykkesstedet.Grensesnittet mellom menneske, maskin og organisasjon:faktisk arbeidstid hos involvert personale,medisinske og personlige forhold av betydning for ulykken eller hendelsen, herunder fysisk eller psykisk stress,utformingen av utstyr av betydning for grensesnittet mellom menneske og maskin.Tidligere ulykker og hendelser av tilsvarende art.
-4. *Analyser og konklusjoner*Avsluttende redegjørelse for hendelsesforløpet:utarbeidelse av konklusjoner om ulykken eller hendelsen på grunnlag av de fakta som er fastslått i punkt 3.Drøftelse:analyse av de fakta som er fastslått i punkt 3, med henblikk på å trekke konklusjoner om årsakene til ulykken eller hendelsen og redningstjenestens innsats.Konklusjoner:direkte og umiddelbare årsaker til ulykken eller hendelsen, herunder medvirkende faktorer som har sammenheng med tiltak truffet av involverte personer eller tilstanden til rullende materiell eller tekniske anlegg,underliggende årsaker som har sammenheng med kvalifikasjoner, framgangsmåter og vedlikehold,grunnleggende årsaker som har sammenheng med vilkår i rammeregler og gjennomføringen av sikkerhetsstyringssystemet.Tilleggsmerknader:feil og mangler som er avdekket under undersøkelsen, men som ikke har relevans for konklusjonene eller årsakene.
-5. *Tiltak som er truffet:*oppsummering av tiltak som allerede er truffet eller vedtatt som følge av ulykken eller hendelsen.
+1. *Oppsummering*
+
+   Oppsummeringen skal inneholde en kort beskrivelse av ulykken eller hendelsen, tid og sted og konsekvensene av denne. Det skal opplyses om direkte årsaker og om medvirkende faktorer og underliggende årsaker som er fastslått gjennom undersøkelsen. Hovedtilrådingene skal gjentas, og det skal opplyses om hvem disse er rettet til.
+2. *Direkte fakta om ulykken eller hendelsen*
+
+   1. Ulykken eller hendelsen:
+
+      - dato, nøyaktig tid og sted for ulykken eller hendelsen,
+      - beskrivelse av omstendighetene og ulykkesstedet, herunder arbeidet til redningstjenester og beredskapstjenester,
+      - beslutningen om å innlede en undersøkelse, sammensetning av undersøkelsesgruppen og gjennomføring av undersøkelsen.
+   2. Bakgrunnen for ulykken eller hendelsen:
+
+      - involvert personale og involverte entreprenører samt andre parter og vitner,
+      - togene og deres sammensetning, herunder registreringsnummer på deler av rullende materiell som er involvert,
+      - beskrivelse av infrastrukturen og systemet for signalgiving – sportyper, sporskiftere, tilkoplere, signaler, driftssikring,
+      - kommunikasjonsmidler,
+      - arbeider utført på eller i nærheten av ulykkesstedet,
+      - den utløsende faktor for jernbaneberedskapsplanen og planens hendelsesforløp,
+      - den utløsende faktor for de offentlige redningstjenesters, politiets og helsevesenets beredskapsplaner og planenes hendelsesforløp.
+   3. Drepte, skadede og materielle skader:
+
+      - passasjerer og tredjemenn, personale, herunder entreprenører,
+      - cargo, reisegods og annen eiendom,
+      - rullende materiell, infrastruktur og miljøet.
+   4. Eksterne omstendigheter:
+
+      - værforhold og geografiske opplysninger.
+3. *Referater fra undersøkelser og avhør*
+
+   1. Oppsummering av vitneutsagn (med beskyttelse av personenes identitet):
+
+      - jernbanepersonale, herunder entreprenører,
+      - andre vitner.
+   2. Sikkerhetsstyringssystemet:
+
+      - rammeorganisasjonen og hvordan ordre gis og utføres,
+      - krav til personalet og hvordan oppfyllelsen av disse sikres,
+      - rutiner for internkontroll og internrevisjon og resultatene av disse,
+      - grensesnitt mellom forskjellige aktører i infrastrukturen.
+   3. Regler og forskrifter:
+
+      - gjeldende regler og forskrifter i EØS og på nasjonalt plan,
+      - andre regler, f.eks. driftsregler, lokale instrukser, personalkrav, vedlikeholdskrav og gjeldende standarder.
+   4. Virkemåten til rullende materiell og tekniske anlegg:
+
+      - systemet for signalgiving og styring, herunder registreringer fra ferdskrivere,
+      - infrastruktur,
+      - kommunikasjonsutstyr,
+      - rullende materiell, herunder registreringer fra ferdskrivere.
+   5. Dokumentasjon for driftssystemet:
+
+      - tiltak truffet av personalet med hensyn til trafikkstyring og signalgiving,
+      - utveksling av talemeldinger i forbindelse med ulykken eller hendelsen, herunder dokumentasjon fra opptak,
+      - tiltak truffet for å beskytte og verne ulykkesstedet.
+   6. Grensesnittet mellom menneske, maskin og organisasjon:
+
+      - faktisk arbeidstid hos involvert personale,
+      - medisinske og personlige forhold av betydning for ulykken eller hendelsen, herunder fysisk eller psykisk stress,
+      - utformingen av utstyr av betydning for grensesnittet mellom menneske og maskin.
+   7. Tidligere ulykker og hendelser av tilsvarende art.
+4. *Analyser og konklusjoner*
+
+   1. Avsluttende redegjørelse for hendelsesforløpet:
+
+      - utarbeidelse av konklusjoner om ulykken eller hendelsen på grunnlag av de fakta som er fastslått i punkt 3.
+   2. Drøftelse:
+
+      - analyse av de fakta som er fastslått i punkt 3, med henblikk på å trekke konklusjoner om årsakene til ulykken eller hendelsen og redningstjenestens innsats.
+   3. Konklusjoner:
+
+      - direkte og umiddelbare årsaker til ulykken eller hendelsen, herunder medvirkende faktorer som har sammenheng med tiltak truffet av involverte personer eller tilstanden til rullende materiell eller tekniske anlegg,
+      - underliggende årsaker som har sammenheng med kvalifikasjoner, framgangsmåter og vedlikehold,
+      - grunnleggende årsaker som har sammenheng med vilkår i rammeregler og gjennomføringen av sikkerhetsstyringssystemet.
+   4. Tilleggsmerknader:
+
+      - feil og mangler som er avdekket under undersøkelsen, men som ikke har relevans for konklusjonene eller årsakene.
+5. *Tiltak som er truffet:*
+
+   - oppsummering av tiltak som allerede er truffet eller vedtatt som følge av ulykken eller hendelsen.
 6. *Tilrådinger*

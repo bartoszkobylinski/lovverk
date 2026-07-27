@@ -50,7 +50,12 @@ Bestemmelsene i første ledd gjelder med mindre annet følger av forskrifter git
 
 ## § 4.
 
-Kongen kan gi forskrifter om fiske og fangst og annen utnyttelse av viltlevende marine ressurser i den økonomiske sone, herunder omstørste tillatte fangstmengde og fangstinnsats, samlet og for bestemte fiskeslag og bestemte områder,adgang for fiskere fra andre stater til å fiske andeler av tillatte fangstkvanta, og om vilkårene for slikt fiske,tiltak for å sikre en rasjonell og forsvarlig utøving av fisket, herunder bestemmelser om antall fartøyer, fartøystørrelse, redskapsbruk, redskapsbegrensninger, fredningstider, samt trålfrie soner og andre områdebegrensninger,andre tiltak til vern og fremme av bestander av fisk, skalldyr og de levende ressurser for øvrig.
+Kongen kan gi forskrifter om fiske og fangst og annen utnyttelse av viltlevende marine ressurser i den økonomiske sone, herunder om
+
+1. største tillatte fangstmengde og fangstinnsats, samlet og for bestemte fiskeslag og bestemte områder,
+2. adgang for fiskere fra andre stater til å fiske andeler av tillatte fangstkvanta, og om vilkårene for slikt fiske,
+3. tiltak for å sikre en rasjonell og forsvarlig utøving av fisket, herunder bestemmelser om antall fartøyer, fartøystørrelse, redskapsbruk, redskapsbegrensninger, fredningstider, samt trålfrie soner og andre områdebegrensninger,
+4. andre tiltak til vern og fremme av bestander av fisk, skalldyr og de levende ressurser for øvrig.
 
 > Endret ved [lov 6 juni 2008 nr. 37](lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355)).
 
@@ -66,7 +71,13 @@ Kongen kan gjøre unntak fra bestemmelsene i [§§ 3](lov/1976-12-17-91/§3), [4
 
 ## § 7.
 
-Kongen kan innen folkerettens grenser fastsette nærmere bestemmelser for sonen, herunder ommiljøvern,vitenskapelige undersøkelser,faste eller midlertidige kunstige øyer, installasjoner, herunder kunstige havneanlegg, og andre konstruksjoner,kabler og rørledninger,utforskning og utnytting av sonen for andre økonomiske formål, herunder produksjon av energi.
+Kongen kan innen folkerettens grenser fastsette nærmere bestemmelser for sonen, herunder om
+
+1. miljøvern,
+2. vitenskapelige undersøkelser,
+3. faste eller midlertidige kunstige øyer, installasjoner, herunder kunstige havneanlegg, og andre konstruksjoner,
+4. kabler og rørledninger,
+5. utforskning og utnytting av sonen for andre økonomiske formål, herunder produksjon av energi.
 
 ## § 7 a.
 

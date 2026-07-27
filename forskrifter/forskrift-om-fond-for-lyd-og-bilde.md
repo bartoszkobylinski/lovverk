@@ -36,7 +36,16 @@ Virksomheter med betydelig offentlig grunnfinansiering kan ikke motta tilskudd f
 
 ## § 3. Hva det kan søkes om støtte til
 
-Det kan søkes om støtte tilproduksjon og formidling av lydopptakkonsertvirksomhetkomponeringproduksjon og formidling av scenekunstforestillingermanusutarbeidelse og andre former for tekstproduksjonproduksjon og formidling av kortfilm og dokumentarfilmproduksjon og formidling av foto og billedkunstsammensatte prosjekter (a–g).
+Det kan søkes om støtte til
+
+1. produksjon og formidling av lydopptak
+2. konsertvirksomhet
+3. komponering
+4. produksjon og formidling av scenekunstforestillinger
+5. manusutarbeidelse og andre former for tekstproduksjon
+6. produksjon og formidling av kortfilm og dokumentarfilm
+7. produksjon og formidling av foto og billedkunst
+8. sammensatte prosjekter (a–g).
 
 ## § 4. Søknadsfrister og krav til søknaden
 
@@ -54,7 +63,13 @@ Styret kan gi instruks om fagutvalgenes arbeid.
 
 ## § 6. Tildelingskriterier
 
-Tildelingene bygger på en helhetsvurdering av de innkomne søknadene. Kvalitetsmessige kriterier skal legges til grunn for vedtaket. Det skal blant annet legges vekt på følgende momenter:Vurderingene skal være basert på kunstnerisk skjønnMidlene skal komme særlig de grupper til gode som er utsatt for kopiering til privat brukStøtten skal være prosjektorientertStøtten skal fremme ny produksjon og fremføringDet skal søkes oppnådd en geografisk og genremessig spredning av støtten.
+Tildelingene bygger på en helhetsvurdering av de innkomne søknadene. Kvalitetsmessige kriterier skal legges til grunn for vedtaket. Det skal blant annet legges vekt på følgende momenter:
+
+1. Vurderingene skal være basert på kunstnerisk skjønn
+2. Midlene skal komme særlig de grupper til gode som er utsatt for kopiering til privat bruk
+3. Støtten skal være prosjektorientert
+4. Støtten skal fremme ny produksjon og fremføring
+5. Det skal søkes oppnådd en geografisk og genremessig spredning av støtten.
 
 ## § 7. Utbetaling
 

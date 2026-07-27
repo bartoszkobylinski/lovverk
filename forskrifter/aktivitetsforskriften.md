@@ -17,7 +17,7 @@ xml_hash: "3ea468a01bafbe13c7b40a2252a2e058b15845a406f1b9f8f5acd3170d973cce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,15 @@ For lagerskip med maritim besetning gis det åpning for å organisere helsetjene
 
 ### § 9. Helsetjenestens oppgaver
 
-Helsetjenesten skalfremme helse og bidra til forebygging av sykdom og skade ved åinnhente og videreformidle informasjon om forhold ved virksomheten som kan virke inn på helsetilstanden,påse at de hygieniske forholdene er forsvarlig ivaretatt,sette i verk forebyggende tiltak innenfor sitt ansvarsområde,utføre diagnostikk og behandling i forbindelse med sykdom og skader, deriblant organisere førstehjelp ved ulykker,bidra til å etablere den helsemessige beredskapen som en del av virksomhetens totale beredskap, deriblant transport av syke og skadde.
+Helsetjenesten skal
+
+1. fremme helse og bidra til forebygging av sykdom og skade ved å
+
+   1. innhente og videreformidle informasjon om forhold ved virksomheten som kan virke inn på helsetilstanden,
+   2. påse at de hygieniske forholdene er forsvarlig ivaretatt,
+   3. sette i verk forebyggende tiltak innenfor sitt ansvarsområde,
+2. utføre diagnostikk og behandling i forbindelse med sykdom og skader, deriblant organisere førstehjelp ved ulykker,
+3. bidra til å etablere den helsemessige beredskapen som en del av virksomhetens totale beredskap, deriblant transport av syke og skadde.
 
 ### § 10. Vaktlegeordning
 
@@ -164,7 +172,11 @@ Ut fra sikkerhetsmessige hensyn kan Havindustritilsynet ved enkeltvedtak bestemm
 
 Lugardeling er ikke tillatt, med mindre vilkårene i annet ledd foreligger. Med lugardeling menes at to personer over 24 timer disponerer samme enkeltlugar, men slik at begge sover alene.
 
-Etter drøfting av behovet for lugardeling med arbeidstakernes tillitsvalgte kan lugardeling benyttes i følgende tilfeller:gjenopprettelse av fysiske barrierer og annen akutt situasjonrevisjonsstansoppkobling og oppstart.
+Etter drøfting av behovet for lugardeling med arbeidstakernes tillitsvalgte kan lugardeling benyttes i følgende tilfeller:
+
+1. gjenopprettelse av fysiske barrierer og annen akutt situasjon
+2. revisjonsstans
+3. oppkobling og oppstart.
 
 Ved lugardeling etter annet ledd bokstav b og c skal det tas hensyn til den enkeltes totale belastning og om nødvendig fordele bruken av lugardeling på alle arbeidstakere som innkvarteres på innretningen i det aktuelle tidsrommet. Bruk av lugardeling skal kompenseres.
 
@@ -178,7 +190,13 @@ Ved beslutning om varighet og omfang av slik innkvartering, jf. også [styringsf
 
 Før innretninger og deler av disse startes opp første gang eller etter tekniske modifikasjoner skal ferdigstillingen som nevnt i [§ 16](forskrift/2010-04-29-613/§16), være gjennomført.
 
-Ved oppstart som nevnt i første ledd, og under drift, skal i tilleggstyringssystemet med tilhørende prosesser, ressurser og driftsorganisasjon være etablert,styrende dokumenter, deriblant tekniske driftsdokumenter, foreligge i oppdatert versjon og være kjent av driftspersonellet,systemer for arbeidstakermedvirkning være etablert, jf. [rammeforskriften § 13](forskrift/2010-02-12-158/§13),helsetjenesten være i samsvar med [§ 8](forskrift/2010-04-29-613/§8) ogbedriftshelsetjenesten være i samsvar med [§ 5](forskrift/2010-04-29-613/§5).
+Ved oppstart som nevnt i første ledd, og under drift, skal i tillegg
+
+1. styringssystemet med tilhørende prosesser, ressurser og driftsorganisasjon være etablert,
+2. styrende dokumenter, deriblant tekniske driftsdokumenter, foreligge i oppdatert versjon og være kjent av driftspersonellet,
+3. systemer for arbeidstakermedvirkning være etablert, jf. [rammeforskriften § 13](forskrift/2010-02-12-158/§13),
+4. helsetjenesten være i samsvar med [§ 8](forskrift/2010-04-29-613/§8) og
+5. bedriftshelsetjenesten være i samsvar med [§ 5](forskrift/2010-04-29-613/§5).
 
 ### § 21. Kompetanse
 
@@ -454,7 +472,11 @@ Miljødirektoratet og Direktoratet for strålevern og atomsikkerhet kan i særli
 
 ### § 53. Grunnlagsundersøkelser
 
-For å kartlegge miljøstatus skal operatøren utføre grunnlagsundersøkelserfør leteboring i nye og tidligere ikke undersøkte leteområder,før leteboring i områder der det er påvist sårbare miljøverdier (arter og habitater), eller der det er sannsynlig at slike forekommer,før produksjonsboring.
+For å kartlegge miljøstatus skal operatøren utføre grunnlagsundersøkelser
+
+1. før leteboring i nye og tidligere ikke undersøkte leteområder,
+2. før leteboring i områder der det er påvist sårbare miljøverdier (arter og habitater), eller der det er sannsynlig at slike forekommer,
+3. før produksjonsboring.
 
 Grunnlagsundersøkelser av sedimentene og aktuelle faunaelementer på havbunnen skal utføres og rapporteres i henhold til Retningslinjer for miljøovervåking av petroleumsvirksomheten til havs (M-300). En grunnlagsundersøkelse gjelder i seks år, med mindre Miljødirektoratet fastsetter en annen varighet.
 
@@ -606,13 +628,40 @@ Kjemikalier skal testes for de enkelte organiske stoffenes bionedbrytbarhet i he
 
 Kjemikalier skal testes for de enkelte organiske stoffenes potensial for bioakkumulering, i henhold til OECDs retningslinjer for testing av kjemikalier, test nummer 117 eller test nummer 107. Dette gjelder kun for stoff med molekylvekt lavere enn 700 g/mol. For stoff som ikke lar seg teste etter standardiserte metoder, skal bioakkumuleringspotensialet beregnes basert på modelleringer eller faglige vurderinger, som skal dokumenteres og beskrives i HOCNF, jf. femte ledd.
 
-Kjemikalier skal testes for de enkelte organiske og uorganiske stoffenes akutte giftighet med følgende tester:Veksthemming på *Skeletonema costatum* eller *Phaeodactylum tricornutum* i henhold til ISO 10253:2006,akutt dødelighet på *Acartia tonsa* eller *Tisbe battaglia* i henhold til ISO 14669:1999,akutt giftighet på yngel av *Scophtalmus maximus* eller yngel av *Cyprinodon variegatus* i henhold til Part B i OSPARs protokoller for testing av kjemikalier brukt av petroleumsindustrien til havs. Dette gjelder ikke dersom stoffet er uorganisk og har en giftighet på de øvrige testorganismene på EC50 eller LC50 mindre enn eller lik 1 mg/l, eller er organisk og har en giftighet på de øvrige testorganismene på EC50 eller LC50 mindre enn eller lik 10 mg/l,giftighetstest på *Corophium* sp. i henhold til OSPARs protokoller for testing av kjemikalier brukt av petroleumsindustrien til havs, dersom stoffet synker, har Koc > 1000, har log (Pow) > 4, på noen annen måte er kjent å adsorberes til partikler eller ende opp i sedimentene, eller inneholder surfaktanter.Giftighetstester utført på ferskvannsorganismer kan aksepteres dersom resultater fra marine tester ikke er tilgjengelige, og dersom de er utført etter standardiserte metoder.
+Kjemikalier skal testes for de enkelte organiske og uorganiske stoffenes akutte giftighet med følgende tester:
+
+1. Veksthemming på *Skeletonema costatum* eller *Phaeodactylum tricornutum* i henhold til ISO 10253:2006,
+2. akutt dødelighet på *Acartia tonsa* eller *Tisbe battaglia* i henhold til ISO 14669:1999,
+3. akutt giftighet på yngel av *Scophtalmus maximus* eller yngel av *Cyprinodon variegatus* i henhold til Part B i OSPARs protokoller for testing av kjemikalier brukt av petroleumsindustrien til havs. Dette gjelder ikke dersom stoffet er uorganisk og har en giftighet på de øvrige testorganismene på EC50 eller LC50 mindre enn eller lik 1 mg/l, eller er organisk og har en giftighet på de øvrige testorganismene på EC50 eller LC50 mindre enn eller lik 10 mg/l,
+4. giftighetstest på *Corophium* sp. i henhold til OSPARs protokoller for testing av kjemikalier brukt av petroleumsindustrien til havs, dersom stoffet synker, har Koc > 1000, har log (Pow) > 4, på noen annen måte er kjent å adsorberes til partikler eller ende opp i sedimentene, eller inneholder surfaktanter.
+
+Giftighetstester utført på ferskvannsorganismer kan aksepteres dersom resultater fra marine tester ikke er tilgjengelige, og dersom de er utført etter standardiserte metoder.
 
 OSPAR Harmonised Offshore Chemical Notification Format (HOCNF) skal foreligge for alle kjemikalier som brukes eller slippes ut. Resultatene fra den økotoksikologiske testingen skal inngå i HOCNF del 2.
 
-Kravene om økotoksikologisk testing og dokumentasjon gjelder ikke:smøremidler som ikke går til utslipp til sjø, inkludert slike som leveres i spraybokser,kjemikalier i lukkede systemer med forbruk under 3000 kg per innretning per år,laboratoriekjemikalier,dispergeringsmidler og strandrensemidler til bekjempelse av akutt forurensning,nye kjemikalier som skal felttestes, jf. [§ 66](forskrift/2010-04-29-613/§66),drivstoff,maling og andre overflatebehandlingsmidler, inkludert slike som leveres i spraybokser,gassporstoff,hypokloritt produsert på innretningen.
+Kravene om økotoksikologisk testing og dokumentasjon gjelder ikke:
 
-Kravene om testing og økotoksikologisk dokumentasjon i form av HOCNF del 2, gjelder ikkekjemikalier i grønn kategori, jf. [§ 63](forskrift/2010-04-29-613/§63),additivpakkene i kjemikalier i lukkede *system med* forbruk over 3000 kg,additivpakkene i tetningsoljer for sjøvannspumper som går til utslipp til sjø,urenheter,kaliumhydroksid, natriumhydroksid, saltsyre, svovelsyre, salpetersyre og fosforsyre,polymerer som oppfyller kriteriene som er nedfelt i OSPAR Guidelines for Completing the Harmonised Offshore Chemical Notification Format (HOCNF) (Reference number: 2012/05),avgiftsfri diesel tilsatt fargestoff, til bruk som kjemikalium.Miljødirektoratet kan kreve testing og økotoksikologisk dokumentasjon i form av HOCNF del 2 for polymerer som nevnt i bokstav f når dette er nødvendig for å vurdere stoffets egenskaper.
+1. smøremidler som ikke går til utslipp til sjø, inkludert slike som leveres i spraybokser,
+2. kjemikalier i lukkede systemer med forbruk under 3000 kg per innretning per år,
+3. laboratoriekjemikalier,
+4. dispergeringsmidler og strandrensemidler til bekjempelse av akutt forurensning,
+5. nye kjemikalier som skal felttestes, jf. [§ 66](forskrift/2010-04-29-613/§66),
+6. drivstoff,
+7. maling og andre overflatebehandlingsmidler, inkludert slike som leveres i spraybokser,
+8. gassporstoff,
+9. hypokloritt produsert på innretningen.
+
+Kravene om testing og økotoksikologisk dokumentasjon i form av HOCNF del 2, gjelder ikke
+
+1. kjemikalier i grønn kategori, jf. [§ 63](forskrift/2010-04-29-613/§63),
+2. additivpakkene i kjemikalier i lukkede *system med* forbruk over 3000 kg,
+3. additivpakkene i tetningsoljer for sjøvannspumper som går til utslipp til sjø,
+4. urenheter,
+5. kaliumhydroksid, natriumhydroksid, saltsyre, svovelsyre, salpetersyre og fosforsyre,
+6. polymerer som oppfyller kriteriene som er nedfelt i OSPAR Guidelines for Completing the Harmonised Offshore Chemical Notification Format (HOCNF) (Reference number: 2012/05),
+7. avgiftsfri diesel tilsatt fargestoff, til bruk som kjemikalium.
+
+Miljødirektoratet kan kreve testing og økotoksikologisk dokumentasjon i form av HOCNF del 2 for polymerer som nevnt i bokstav f når dette er nødvendig for å vurdere stoffets egenskaper.
 
 > Endret ved [forskrifter 20 des 2012 nr. 1356](forskrift/2012-12-20-1356) (i kraft 1 jan 2013), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [16 des 2014 nr. 1755](forskrift/2014-12-16-1755) (i kraft 1 jan 2015), [18 des 2015 nr. 1849](forskrift/2015-12-18-1849) (i kraft 1 jan 2016), [15 des 2016 nr. 1900](forskrift/2016-12-15-1900) (i kraft 1 jan 2017), [18 des 2017 nr. 2375](forskrift/2017-12-18-2375) (i kraft 1 jan 2018), [25 jan 2019 nr. 47](forskrift/2019-01-25-47) (i kraft 1 feb 2019), [18 des 2019 nr. 2109](forskrift/2019-12-18-2109) (i kraft 1 jan 2020), [16 des 2021 nr. 3739](forskrift/2021-12-16-3739) (i kraft 1 jan 2022).
 
@@ -620,21 +669,66 @@ Kravene om testing og økotoksikologisk dokumentasjon i form av HOCNF del 2, gje
 
 Operatøren skal kategorisere stoff og kjemikalier som er omfattet av krav til dokumentasjon i henhold til [§ 62](forskrift/2010-04-29-613/§62) femte ledd. Kravet gjelder ikke urenheter i kjemikalier.
 
-Svart stoff omfatter følgende:stoff på Prioritetslisten,stoff på OSPARs prioritetsliste,stoff som er oppført på kandidatlisten i REACH på grunn av miljøfarlige egenskaper,stoff som har både BOD28 mindre enn 20 prosent og bioakkumuleringspotensial Log Pow større enn eller lik 4,5, jf. [§ 62](forskrift/2010-04-29-613/§62),stoff som har både BOD28 mindre enn 20 prosent og giftighet LC50 eller EC50 mindre enn eller lik 10 mg/l, jf. [§ 62](forskrift/2010-04-29-613/§62),additivpakker som er unntatt krav om testing i henhold til [§ 62](forskrift/2010-04-29-613/§62) sjette ledd, og ikke er testet.
+Svart stoff omfatter følgende:
 
-Rød kategori omfatter stoff som ikke omfattes av svart kategori, men møter ett eller flere av følgende kriterier:uorganiske stoff med akutt giftighet, EC50 eller LC50, mindre enn eller lik 1 mg/l, jf. [§ 62](forskrift/2010-04-29-613/§62),organiske stoff med BOD28 mindre enn 20 prosent, jf. [§ 62](forskrift/2010-04-29-613/§62),organiske stoff som møter to av tre av de følgende kriterier, jf. [§ 62](forskrift/2010-04-29-613/§62):BOD28 mindre enn 60 prosentLog Pow, større enn eller lik 3 og molekylvekt mindre enn 700Akutt giftighet, LC50 eller EC50, mindre enn eller lik 10 mg/l.Rød kategori omfatter ogsåhypokloritt produsert på innretningen,polymerer som ikke har gjennomgått økotoksikologiske tester, jf. [§ 62](forskrift/2010-04-29-613/§62),stoffene EDTA (CAS nr. 60-00-4 og 64-02-8), DTPA (CAS nr. 67-43-6 og 140-01-2), benzotriazol (CAS nr. 95-14-7) og N-metyldietanolamin (CAS nr. 105-59-9).
+1. stoff på Prioritetslisten,
+2. stoff på OSPARs prioritetsliste,
+3. stoff som er oppført på kandidatlisten i REACH på grunn av miljøfarlige egenskaper,
+4. stoff som har både BOD28 mindre enn 20 prosent og bioakkumuleringspotensial Log Pow større enn eller lik 4,5, jf. [§ 62](forskrift/2010-04-29-613/§62),
+5. stoff som har både BOD28 mindre enn 20 prosent og giftighet LC50 eller EC50 mindre enn eller lik 10 mg/l, jf. [§ 62](forskrift/2010-04-29-613/§62),
+6. additivpakker som er unntatt krav om testing i henhold til [§ 62](forskrift/2010-04-29-613/§62) sjette ledd, og ikke er testet.
 
-Gul kategori omfatter stoffer som ikke omfattes av svart, rød eller grønn kategori. Sterke syrer og baser og avgiftsfri diesel tilsatt fargestoff som er fritatt for krav om økotoksikologisk testing, jf. [§ 62](forskrift/2010-04-29-613/§62) sjuende ledd, er omfattet av gul kategori. Stoff i gul kategori med BOD28 større enn eller lik 20 prosent og mindre enn 60 prosent, jf. [§ 62](forskrift/2010-04-29-613/§62), skal vurderes og kategoriseres i følgende underkategorier:underkategori 1 dersom stoffet forventes å bionedbrytes fullstendig eller bionedbrytes til nedbrytningsprodukter som ville falle i gul kategori, jf. første punktum, eller grønn kategori, jf. femte ledd, dersom de var omfattet av kategoriseringskrav,underkategori 2 dersom stoffet forventes å bionedbrytes til nedbrytningsprodukter som ville falle i rød kategori dersom de var omfattet av kategoriseringskrav, jf. tredje ledd,underkategori 3 dersom stoffet forventes å bionedbrytes til nedbrytningsprodukter som ville falle i svart kategori dersom de var omfattet av krav til kategorisering, jf. andre ledd.Vurderingen og underkategoriseringen som nevnt i tredje punktum, skal dokumenteres skriftlig.
+Rød kategori omfatter stoff som ikke omfattes av svart kategori, men møter ett eller flere av følgende kriterier:
 
-Grønn kategori omfatterstoff på OSPARs PLONOR-liste,stoff på listen i REACH vedlegg IV,enkelte stoff som faller inn under REACH vedlegg V.
+1. uorganiske stoff med akutt giftighet, EC50 eller LC50, mindre enn eller lik 1 mg/l, jf. [§ 62](forskrift/2010-04-29-613/§62),
+2. organiske stoff med BOD28 mindre enn 20 prosent, jf. [§ 62](forskrift/2010-04-29-613/§62),
+3. organiske stoff som møter to av tre av de følgende kriterier, jf. [§ 62](forskrift/2010-04-29-613/§62):
 
-Kjemikalier skal kategoriseres ut i fra innholdsstoffene på følgende måte:Svart kategori dersom kjemikaliet inneholder stoff i svart kategori, jf. andre ledd,Rød kategori dersom kjemikaliet inneholder stoff i rød kategori, jf. tredje ledd, men ikke svart kategori,Gul kategori dersom kjemikaliet inneholder stoff i gul kategori, jf. fjerde ledd, men ikke svart eller rød kategori. Om relevant skal de videre kategoriseres i underkategorier, jf. fjerde ledd bokstavene a til c:Underkategori 1 dersomkjemikaliet kun inneholder stoff i underkategori 1,Underkategori 2 dersom kjemikaliet inneholder stoff i underkategori 2, men ikke underkategori 3,Underkategori 3 dersom kjemikaliet inneholder stoff i underkategori 3,Grønn kategori dersom kjemikaliet kun inneholder stoff i grønn kategori, jf. femte ledd
+   - BOD28 mindre enn 60 prosent
+   - Log Pow, større enn eller lik 3 og molekylvekt mindre enn 700
+   - Akutt giftighet, LC50 eller EC50, mindre enn eller lik 10 mg/l.
+
+Rød kategori omfatter også
+
+1. hypokloritt produsert på innretningen,
+2. polymerer som ikke har gjennomgått økotoksikologiske tester, jf. [§ 62](forskrift/2010-04-29-613/§62),
+3. stoffene EDTA (CAS nr. 60-00-4 og 64-02-8), DTPA (CAS nr. 67-43-6 og 140-01-2), benzotriazol (CAS nr. 95-14-7) og N-metyldietanolamin (CAS nr. 105-59-9).
+
+Gul kategori omfatter stoffer som ikke omfattes av svart, rød eller grønn kategori. Sterke syrer og baser og avgiftsfri diesel tilsatt fargestoff som er fritatt for krav om økotoksikologisk testing, jf. [§ 62](forskrift/2010-04-29-613/§62) sjuende ledd, er omfattet av gul kategori. Stoff i gul kategori med BOD28 større enn eller lik 20 prosent og mindre enn 60 prosent, jf. [§ 62](forskrift/2010-04-29-613/§62), skal vurderes og kategoriseres i følgende underkategorier:
+
+1. underkategori 1 dersom stoffet forventes å bionedbrytes fullstendig eller bionedbrytes til nedbrytningsprodukter som ville falle i gul kategori, jf. første punktum, eller grønn kategori, jf. femte ledd, dersom de var omfattet av kategoriseringskrav,
+2. underkategori 2 dersom stoffet forventes å bionedbrytes til nedbrytningsprodukter som ville falle i rød kategori dersom de var omfattet av kategoriseringskrav, jf. tredje ledd,
+3. underkategori 3 dersom stoffet forventes å bionedbrytes til nedbrytningsprodukter som ville falle i svart kategori dersom de var omfattet av krav til kategorisering, jf. andre ledd.
+
+Vurderingen og underkategoriseringen som nevnt i tredje punktum, skal dokumenteres skriftlig.
+
+Grønn kategori omfatter
+
+1. stoff på OSPARs PLONOR-liste,
+2. stoff på listen i REACH vedlegg IV,
+3. enkelte stoff som faller inn under REACH vedlegg V.
+
+Kjemikalier skal kategoriseres ut i fra innholdsstoffene på følgende måte:
+
+1. Svart kategori dersom kjemikaliet inneholder stoff i svart kategori, jf. andre ledd,
+2. Rød kategori dersom kjemikaliet inneholder stoff i rød kategori, jf. tredje ledd, men ikke svart kategori,
+3. Gul kategori dersom kjemikaliet inneholder stoff i gul kategori, jf. fjerde ledd, men ikke svart eller rød kategori. Om relevant skal de videre kategoriseres i underkategorier, jf. fjerde ledd bokstavene a til c:
+
+   1. Underkategori 1 dersomkjemikaliet kun inneholder stoff i underkategori 1,
+   2. Underkategori 2 dersom kjemikaliet inneholder stoff i underkategori 2, men ikke underkategori 3,
+   3. Underkategori 3 dersom kjemikaliet inneholder stoff i underkategori 3,
+4. Grønn kategori dersom kjemikaliet kun inneholder stoff i grønn kategori, jf. femte ledd
 
 > Endret ved [forskrifter 16 des 2014 nr. 1755](forskrift/2014-12-16-1755) (i kraft 1 jan 2015), [18 des 2015 nr. 1849](forskrift/2015-12-18-1849) (i kraft 1 jan 2016), [15 des 2016 nr. 1900](forskrift/2016-12-15-1900) (i kraft 1 jan 2017), [18 des 2017 nr. 2375](forskrift/2017-12-18-2375) (i kraft 1 jan 2018), [25 jan 2019 nr. 47](forskrift/2019-01-25-47) (i kraft 1 feb 2019), [18 des 2019 nr. 2109](forskrift/2019-12-18-2109) (i kraft 1 jan 2020), [16 des 2021 nr. 3739](forskrift/2021-12-16-3739) (i kraft 1 jan 2022), [19 des 2022 nr. 2443](forskrift/2022-12-19-2443) (i kraft 1 jan 2023), [18 des 2024 nr. 3263](forskrift/2024-12-18-3263) (i kraft 1 jan 2025).
 
 ### § 64. Miljøvurderinger av kjemikalier
 
-Operatøren skal gjennomføre helhetlige vurderinger av kjemikalienes potensial for miljøskade, basert på kjemikalienes iboende egenskaper, mengder, tid og sted for utslipp, samt andre forhold av betydning. Kravet til miljøvurderinger gjelder ikke for kjemikalier som nevnt i [§ 62 sjette ledd bokstav a](forskrift/2010-04-29-613/§62/ledd/6/bokstav/a) til h. Vurderingene skal gjennomføresfør nye kjemikalier tas i brukved inngåelse av kjemikaliekontrakterminimum hvert tredje år for kjemikalier i grønn og gul kategoriminimum årlig for kjemikalier i rød og svart kategori og gul underkategori 2 og 3.
+Operatøren skal gjennomføre helhetlige vurderinger av kjemikalienes potensial for miljøskade, basert på kjemikalienes iboende egenskaper, mengder, tid og sted for utslipp, samt andre forhold av betydning. Kravet til miljøvurderinger gjelder ikke for kjemikalier som nevnt i [§ 62 sjette ledd bokstav a](forskrift/2010-04-29-613/§62/ledd/6/bokstav/a) til h. Vurderingene skal gjennomføres
+
+1. før nye kjemikalier tas i bruk
+2. ved inngåelse av kjemikaliekontrakter
+3. minimum hvert tredje år for kjemikalier i grønn og gul kategori
+4. minimum årlig for kjemikalier i rød og svart kategori og gul underkategori 2 og 3.
 
 Miljøvurderingene skal dokumenteres.
 
@@ -662,11 +756,21 @@ Kjemikalier skal lagres forsvarlig.
 
 Bruk og utslipp av kjemikalier skal reduseres så langt det er mulig.
 
-Følgende er tillatt når bruken av kjemikaliene er i henhold til kravene i denne forskriften § 62 til § 65, [innretningsforskriften § 15](forskrift/2010-04-29-634/§15) og krav gitt i og i medhold av [produktkontrolloven](lov/1976-06-11-79):nødvendig utslipp av kjemikalier brukt i brannvannsystemerutslipp av vannsporstoffutslipp av kjemikalier brukt ved brønnkontrollhendelser for å gjenvinne brønnkontroll, jf. [aktivitetsforskriften § 67](forskrift/2010-04-29-613/§67).utslipp av emulsjonsbryter brukt for å skille ut vann fra oppsamlet oljeemulsjon på tank under en aksjon mot akutt forurensning
+Følgende er tillatt når bruken av kjemikaliene er i henhold til kravene i denne forskriften § 62 til § 65, [innretningsforskriften § 15](forskrift/2010-04-29-634/§15) og krav gitt i og i medhold av [produktkontrolloven](lov/1976-06-11-79):
+
+1. nødvendig utslipp av kjemikalier brukt i brannvannsystemer
+2. utslipp av vannsporstoff
+3. utslipp av kjemikalier brukt ved brønnkontrollhendelser for å gjenvinne brønnkontroll, jf. [aktivitetsforskriften § 67](forskrift/2010-04-29-613/§67).
+4. utslipp av emulsjonsbryter brukt for å skille ut vann fra oppsamlet oljeemulsjon på tank under en aksjon mot akutt forurensning
 
 Det er ikke tillatt med utslipp av kjemikalier som brukes for å hindre tapt sirkulasjon og som består av eller inneholder plast.
 
-Felttesting av kjemikalier som alternativer til kjemikalier inkludert i tillatelsen etter [forurensningsloven](lov/1981-03-13-6), eller felttesting av kjemikalier innenfor nye bruksområder, er tillatt dersom:antall dager med forbruk ikke overskrider 14 dager,felttestingen ikke omfatter sporstoff,felttestingen ikke omfatter kjemikalier i svart kategori eller antatt svart kategori, gul underkategori 3 eller antatt gul underkategori 3, jf. [§ 63](lov/1981-03-13-6/§63),totalt utslipp av stoff i rød kategori eller antatt rød kategori, gul underkategori 2 eller antatt gul underkategori 2, jf. [§ 63](lov/1981-03-13-6/§63), ikke overstiger 25 kg.
+Felttesting av kjemikalier som alternativer til kjemikalier inkludert i tillatelsen etter [forurensningsloven](lov/1981-03-13-6), eller felttesting av kjemikalier innenfor nye bruksområder, er tillatt dersom:
+
+1. antall dager med forbruk ikke overskrider 14 dager,
+2. felttestingen ikke omfatter sporstoff,
+3. felttestingen ikke omfatter kjemikalier i svart kategori eller antatt svart kategori, gul underkategori 3 eller antatt gul underkategori 3, jf. [§ 63](lov/1981-03-13-6/§63),
+4. totalt utslipp av stoff i rød kategori eller antatt rød kategori, gul underkategori 2 eller antatt gul underkategori 2, jf. [§ 63](lov/1981-03-13-6/§63), ikke overstiger 25 kg.
 
 > Endret ved [forskrifter 18 des 2015 nr. 1849](forskrift/2015-12-18-1849) (i kraft 1 jan 2016), [15 des 2016 nr. 1900](forskrift/2016-12-15-1900) (i kraft 1 jan 2017), [25 jan 2019 nr. 47](forskrift/2019-01-25-47) (i kraft 1 feb 2019), [18 des 2019 nr. 2109](forskrift/2019-12-18-2109) (i kraft 1 jan 2020), [10 jan 2020 nr. 39](forskrift/2020-01-10-39), [16 des 2020 nr. 2947](forskrift/2020-12-16-2947) (i kraft 1 jan 2021), [16 des 2021 nr. 3739](forskrift/2021-12-16-3739) (i kraft 1 jan 2022), [18 des 2023 nr. 2175](forskrift/2023-12-18-2175) (i kraft 1 jan 2024, se endringsforskriften for overgangsregel), [17 des 2025 nr. 2644](forskrift/2025-12-17-2644) (i kraft 1 jan 2026).
 
@@ -700,7 +804,11 @@ Kjemikalier som følger kaks, sand eller andre faste partikler til sjø, må væ
 
 ### § 68a. Steinlegging
 
-Steinlegging som er nødvendig for å gjennomføre petroleumsvirksomhet til havs kan finne sted uten særskilt tillatelse dersom:aktiviteten gjennomføres i et område hvor det ikke er risiko for at sårbare miljøverdier kan bli negativt påvirket,aktiviteten ikke berører forurensede sedimenter,det benyttes rene steinmasser.
+Steinlegging som er nødvendig for å gjennomføre petroleumsvirksomhet til havs kan finne sted uten særskilt tillatelse dersom:
+
+1. aktiviteten gjennomføres i et område hvor det ikke er risiko for at sårbare miljøverdier kan bli negativt påvirket,
+2. aktiviteten ikke berører forurensede sedimenter,
+3. det benyttes rene steinmasser.
 
 All plassering av steinmasser skal gjennomføres slik at påvirkning på områdene rundt minimeres.
 
@@ -710,7 +818,10 @@ Operatøren skal dokumentere type og mengde steinmasser som er benyttet og hvord
 
 ### § 68b. Forflytning av masser
 
-Forsettlig forflytning av masser fra bunnen som er nødvendig for å gjennomføre petroleumsvirksomhet til havs kan finne sted uten særskilt tillatelse dersom:aktiviteten gjennomføres i et område hvor det ikke er risiko for at sårbare miljøverdier kan bli negativt påvirket,aktiviteten ikke berører forurensede sedimenter.
+Forsettlig forflytning av masser fra bunnen som er nødvendig for å gjennomføre petroleumsvirksomhet til havs kan finne sted uten særskilt tillatelse dersom:
+
+1. aktiviteten gjennomføres i et område hvor det ikke er risiko for at sårbare miljøverdier kan bli negativt påvirket,
+2. aktiviteten ikke berører forurensede sedimenter.
 
 Forflytning av masser skal gjennomføres slik at påvirkning på områdene rundt minimeres.
 
@@ -738,7 +849,10 @@ Operatøren må ha tillatelse etter [forurensningsloven kapittel 3](lov/1981-03-
 
 Operatøren skal måle eller beregne utslipp til luft og sjø, forbruk av kjemikalier og injisert volum. I produsert vann som slippes til sjø, skal mengden vann og innhold av olje og andre naturlig forekommende stoffer i produsert vann, måles. Måling og beregning av NOx-utslipp fra energianlegg skal gjøres i henhold til [§ 70b](forskrift/2010-04-29-613/§70b). Måling av CO-utslipp fra gassturbiner skal gjennomføres iht. [§ 70c](forskrift/2010-04-29-613/§70c).
 
-Målingene og beregningene skal utføres slik at de blir representative og usikkerheten blir så lav som mulig, og skal som et minimum omfattekomponenter som er regulert gjennom grenseverdier i tillatelsen etter [forurensningsloven](lov/1981-03-13-6) eller denne forskriften,andre rapporteringspliktige komponenter etter [styringsforskriften § 34](forskrift/2010-04-29-611/§34) første ledd bokstav c.
+Målingene og beregningene skal utføres slik at de blir representative og usikkerheten blir så lav som mulig, og skal som et minimum omfatte
+
+1. komponenter som er regulert gjennom grenseverdier i tillatelsen etter [forurensningsloven](lov/1981-03-13-6) eller denne forskriften,
+2. andre rapporteringspliktige komponenter etter [styringsforskriften § 34](forskrift/2010-04-29-611/§34) første ledd bokstav c.
 
 Oljeinnhold i produsert vann skal analyseres etter OSPARs referansemetode for bestemmelse av dispergert olje i vann (OSPAR Agreement 2005-15) eller analysemetoder som er kalibrert mot denne. For øvrig skal prøvetaking og analyse utføres etter Norsk Standard der slik finnes.
 
@@ -798,7 +912,13 @@ Kravene til måling og bestemmelse av CO-utslipp i denne paragrafen skal være o
 
 Operatøren må ha tillatelse etter [forurensningsloven kapittel 3](lov/1981-03-13-6/kap3) til injeksjon av produsert vann og annet fast eller flytende materiale, herunder drenasjevann og annet oljeholdig vann, borekaks med vedheng av borevæsker og formasjonsolje og brønnstrømmer fra brønnopprenskninger og brønnoppstarter, til undersjøiske geologiske formasjoner for endelig deponering.
 
-For injeksjon som nevnt i første ledd, gjelder følgende:Operatøren skal sikre at injisert materiale blir værende permanent i formasjonen.Før valg av lagringsformasjon skal operatøren kartlegge geologien i formasjonen og sikre at lagringsformasjonen er egnet for injeksjon av det aktuelle materialet.Operatøren skal ha oversikt over hva som injiseres og i hvilke mengder.Operatøren skal overvåke injeksjonen slik at avvik i injeksjonsforløpet som medfører risiko for lekkasje til sjøbunn oppdages så raskt som mulig, jf. [aktivitetsforskriften § 57](forskrift/2010-04-29-613/§57), slik at nødvendige tiltak kan iverksettes.Det er ikke tillatt å blande annet avfall eller materiale inn i volumene som injiseres enn det som følger av tillatelsen.
+For injeksjon som nevnt i første ledd, gjelder følgende:
+
+1. Operatøren skal sikre at injisert materiale blir værende permanent i formasjonen.
+2. Før valg av lagringsformasjon skal operatøren kartlegge geologien i formasjonen og sikre at lagringsformasjonen er egnet for injeksjon av det aktuelle materialet.
+3. Operatøren skal ha oversikt over hva som injiseres og i hvilke mengder.
+4. Operatøren skal overvåke injeksjonen slik at avvik i injeksjonsforløpet som medfører risiko for lekkasje til sjøbunn oppdages så raskt som mulig, jf. [aktivitetsforskriften § 57](forskrift/2010-04-29-613/§57), slik at nødvendige tiltak kan iverksettes.
+5. Det er ikke tillatt å blande annet avfall eller materiale inn i volumene som injiseres enn det som følger av tillatelsen.
 
 > Endret ved forskrifter [16 des 2020 nr. 2947](forskrift/2020-12-16-2947) (i kraft 1 jan 2021), [18 des 2023 nr. 2175](forskrift/2023-12-18-2175) (i kraft 1 jan 2024).
 
@@ -874,7 +994,13 @@ Planer for beredskap mot akutt forurensning skal dokumentere hvilke beredskapsre
 
 ### § 77. Håndtering av fare- og ulykkessituasjoner
 
-Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik atrett varsel blir gitt umiddelbart,faresituasjoner ikke utvikler seg til ulykkessituasjoner. Ved ulykkessituasjoner skal det settes i verk bekjempelsestiltak. Bekjempelsestiltak for å begrense akutt forurensning skal iverksettes så nær utslippskilden som mulig,personell kan reddes i ulykkessituasjoner,personellet på innretningen kan evakueres raskt og effektivt til enhver tid,tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset, blant annet ved å overvåke og sanere forurensningen og restaurere miljøet, og dermed gjenopprette tilstanden slik den var før fare- og ulykkessituasjonen. Det skal settes kriterier for normalisering av det ytre miljøet.
+Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik at
+
+1. rett varsel blir gitt umiddelbart,
+2. faresituasjoner ikke utvikler seg til ulykkessituasjoner. Ved ulykkessituasjoner skal det settes i verk bekjempelsestiltak. Bekjempelsestiltak for å begrense akutt forurensning skal iverksettes så nær utslippskilden som mulig,
+3. personell kan reddes i ulykkessituasjoner,
+4. personellet på innretningen kan evakueres raskt og effektivt til enhver tid,
+5. tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset, blant annet ved å overvåke og sanere forurensningen og restaurere miljøet, og dermed gjenopprette tilstanden slik den var før fare- og ulykkessituasjonen. Det skal settes kriterier for normalisering av det ytre miljøet.
 
 > Endret ved [forskrifter 18 des 2015 nr. 1849](forskrift/2015-12-18-1849) (i kraft 1 jan 2016), [18 des 2017 nr. 2375](forskrift/2017-12-18-2375) (i kraft 1 jan 2018).
 
@@ -1040,7 +1166,38 @@ Dykking dypere enn 50 meter kan bare foretas som metningsdykking.
 
 ### § 94. Tidsbestemmelser
 
-Følgende tidsbestemmelser skal gjelde ved utføring av bemannede undervannsoperasjoner:opphold på arbeidsdyp:ved dykking ned til 180 meter skal oppholdet på arbeidsdyp ikke overstige 14 døgn. Ved dypere dykking skal opphold på arbeidsdyp ikke overstige 10 døgn,tiden mellom metningsperioder:tiden mellom metningsperioder skal minst være lik varigheten av foregående metningsperiode. Ved dykking dypere enn 180 meter skal tiden mellom metningsperioder være minst to ganger siste metningsperiode,klokkeløp:ved dykking ned til 180 meter skal klokkeløpet ikke overskride 8 timer. Ved dypere dykking skal klokkeløpet ikke overskride 6 timer. Dersom dykkerne oppholder seg tørt i undervannskammer, kan klokkeløpet utvides til 8 timer. Tidtakingen av et klokkeløp starter når klammeret mellom klokke og kammer løsnes første gang og stopper når klammeret er påkoblet igjen, og klart til trykkutjevning og endelig overføring av dykkerne tilbake til kammerkomplekset,opphold i vann ned til 180 meter:ved dykking ned til 180 meter skal dykkeren ikke oppholde seg i vannet mer enn 4 timer i løpet av en tolvtimers periode. For tremanns klokkeløp kan tiden i vann utvides til totalt 6 timer under forutsetning av atdykkeren returnerer til dykkerklokken i løpet av tredje eller fjerde arbeidstime i vann for minst 30 minutters pause med hjelmen av. Pausen i klokken skal loggføres, men beregnes som del av totalt tillatt vanntid på seks timer, ogdykkeren har en «tørr dag» som reservedykker i klokken minst hver tredje dag.opphold i vann dypere enn 180 meter:ved dykking dypere enn 180 meter skal dykkeren ikke oppholde seg i vannet mer enn 3 timer i løpet av en tolvtimers periode. Dykkeren skal ha en «tørr dag» som reservedykker i klokken minst hver tredje dag,bruk av pustemaske:etter maksimalt 4 timer skal dykkere som bruker pustemaske i undervannskammeret, ha en pause i en atmosfære der det ikke er nødvendig å bruke pustemaske,rekompresjon etter undervannsoperasjoner:etter avsluttet metningsperiode skal dykkerne ha umiddelbar tilgang til terapeutisk rekompresjon i minst 24 timer etter endt dekompresjon. Ved overflateorientert dykking skal dykkerne ha umiddelbar tilgang til terapeutisk rekompresjon i minst 12 timer etter endt dekompresjon,arbeidsfri ved arbeid under forhøyet trykk:dykkere som har sitt arbeid i vann, eller som arbeider under forhøyet omgivende trykk, skal i en tjuefiretimersperiode ha en sammenhengende arbeidsfri periode på minst 12 timer. Arbeids- og hvileperioder skal spesifiseres i en skiftplan og legges til faste tider på døgnet,overflatepersonell med direkte kommunikasjon med dykkere i vann:overflatepersonellet som har den direkte kommunikasjonen med dykkere i vann, skal ikke ha denne funksjonen i mer enn 4 timer sammenhengende uten pause. Total tid for denne funksjonen skal være begrenset oppad til 8 timer i en tolvtimersperiode.
+Følgende tidsbestemmelser skal gjelde ved utføring av bemannede undervannsoperasjoner:
+
+1. opphold på arbeidsdyp:
+
+   ved dykking ned til 180 meter skal oppholdet på arbeidsdyp ikke overstige 14 døgn. Ved dypere dykking skal opphold på arbeidsdyp ikke overstige 10 døgn,
+2. tiden mellom metningsperioder:
+
+   tiden mellom metningsperioder skal minst være lik varigheten av foregående metningsperiode. Ved dykking dypere enn 180 meter skal tiden mellom metningsperioder være minst to ganger siste metningsperiode,
+3. klokkeløp:
+
+   ved dykking ned til 180 meter skal klokkeløpet ikke overskride 8 timer. Ved dypere dykking skal klokkeløpet ikke overskride 6 timer. Dersom dykkerne oppholder seg tørt i undervannskammer, kan klokkeløpet utvides til 8 timer. Tidtakingen av et klokkeløp starter når klammeret mellom klokke og kammer løsnes første gang og stopper når klammeret er påkoblet igjen, og klart til trykkutjevning og endelig overføring av dykkerne tilbake til kammerkomplekset,
+4. opphold i vann ned til 180 meter:
+
+   ved dykking ned til 180 meter skal dykkeren ikke oppholde seg i vannet mer enn 4 timer i løpet av en tolvtimers periode. For tremanns klokkeløp kan tiden i vann utvides til totalt 6 timer under forutsetning av at
+
+   1. dykkeren returnerer til dykkerklokken i løpet av tredje eller fjerde arbeidstime i vann for minst 30 minutters pause med hjelmen av. Pausen i klokken skal loggføres, men beregnes som del av totalt tillatt vanntid på seks timer, og
+   2. dykkeren har en «tørr dag» som reservedykker i klokken minst hver tredje dag.
+5. opphold i vann dypere enn 180 meter:
+
+   ved dykking dypere enn 180 meter skal dykkeren ikke oppholde seg i vannet mer enn 3 timer i løpet av en tolvtimers periode. Dykkeren skal ha en «tørr dag» som reservedykker i klokken minst hver tredje dag,
+6. bruk av pustemaske:
+
+   etter maksimalt 4 timer skal dykkere som bruker pustemaske i undervannskammeret, ha en pause i en atmosfære der det ikke er nødvendig å bruke pustemaske,
+7. rekompresjon etter undervannsoperasjoner:
+
+   etter avsluttet metningsperiode skal dykkerne ha umiddelbar tilgang til terapeutisk rekompresjon i minst 24 timer etter endt dekompresjon. Ved overflateorientert dykking skal dykkerne ha umiddelbar tilgang til terapeutisk rekompresjon i minst 12 timer etter endt dekompresjon,
+8. arbeidsfri ved arbeid under forhøyet trykk:
+
+   dykkere som har sitt arbeid i vann, eller som arbeider under forhøyet omgivende trykk, skal i en tjuefiretimersperiode ha en sammenhengende arbeidsfri periode på minst 12 timer. Arbeids- og hvileperioder skal spesifiseres i en skiftplan og legges til faste tider på døgnet,
+9. overflatepersonell med direkte kommunikasjon med dykkere i vann:
+
+   overflatepersonellet som har den direkte kommunikasjonen med dykkere i vann, skal ikke ha denne funksjonen i mer enn 4 timer sammenhengende uten pause. Total tid for denne funksjonen skal være begrenset oppad til 8 timer i en tolvtimersperiode.
 
 > Endret ved forskrifter [23 des 2013 nr. 1693](forskrift/2013-12-23-1693) (i kraft 1 jan 2014), [18 des 2024 nr. 3263](forskrift/2024-12-18-3263) (i kraft 1 jan 2025).
 

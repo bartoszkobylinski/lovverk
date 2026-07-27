@@ -34,7 +34,14 @@ Forskriften gjelder for vedlikeholdspersonell og organisasjoner som skal utføre
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med*N-ARC:* nasjonal ARC (Airworthiness Review Certificate).*N-Part-145:* Part-145 som har avgitt selverklæring etter denne forskrift, nasjonal Part-145.*N-CAMO:* CAMO (Continuing Airworthiness Management Organisation) som har avgitt selverklæring etter denne forskrift, nasjonal CAMO.*N-CAO:* CAO (Combined Airworthiness Organisation) som har avgitt selverklæring etter denne forskrift, nasjonal CAO.*vedlikeholdsordning:* et sikkerhetssystem for styring og utførelse av vedlikehold for luftfartøy.*vedlikeholdsforordningen:* Kommisjonens gjennomføringsforordning [(EU) nr. 1321/2014](eu/32014r1321) som gjennomført i [forskrift 7. mai 2015 nr. 488 om kontinuerlig luftdyktighet](forskrift/2015-05-07-488).
+I denne forskrift forstås med
+
+1. *N-ARC:* nasjonal ARC (Airworthiness Review Certificate).
+2. *N-Part-145:* Part-145 som har avgitt selverklæring etter denne forskrift, nasjonal Part-145.
+3. *N-CAMO:* CAMO (Continuing Airworthiness Management Organisation) som har avgitt selverklæring etter denne forskrift, nasjonal CAMO.
+4. *N-CAO:* CAO (Combined Airworthiness Organisation) som har avgitt selverklæring etter denne forskrift, nasjonal CAO.
+5. *vedlikeholdsordning:* et sikkerhetssystem for styring og utførelse av vedlikehold for luftfartøy.
+6. *vedlikeholdsforordningen:* Kommisjonens gjennomføringsforordning [(EU) nr. 1321/2014](eu/32014r1321) som gjennomført i [forskrift 7. mai 2015 nr. 488 om kontinuerlig luftdyktighet](forskrift/2015-05-07-488).
 
 ## Kapittel 2. Nasjonale krav og godkjenninger mv.
 
@@ -44,7 +51,12 @@ Kommisjonens gjennomføringsforordning [(EU) nr. 1321/2014](eu/32014r1321) Annek
 
 Der vedlikeholdsforordningen fastsetter at EASA skal gi en godkjenning skal dette forstås som Luftfartstilsynet, med unntak av for ML.A.401(b) nr. 1 og ML.A.902(b) nr. 2.
 
-Der vedlikeholdsforordningen bruker begrepetARC, skal dette forstås som N-ARCPart-145, skal dette forstås som N-Part-145CAMO, skal dette forstås som N-CAMOCAO, skal dette forstås som N-CAO.
+Der vedlikeholdsforordningen bruker begrepet
+
+1. ARC, skal dette forstås som N-ARC
+2. Part-145, skal dette forstås som N-Part-145
+3. CAMO, skal dette forstås som N-CAMO
+4. CAO, skal dette forstås som N-CAO.
 
 ### § 4. Enkle luftfartøy
 
@@ -112,7 +124,12 @@ Søknad om godkjenning av typetrening må ha vedlagt dokumentasjon for pensum, t
 
 ### § 15. Vedlikehold av amatørbygde luftfartøy
 
-Luftfartstilsynet kan godkjenne at eier av amatørbygd luftfartøy utfører og attesterer for 100 timer/årlig vedlikehold. Slik godkjenning kan bare gis dersom alle vilkår under er oppfylt:Søker var byggeleder for hoveddelen av byggeprosjektet.Søker er registrert som eier av luftfartøyet i Norges luftfartøyregister.Det er gjennomført relevant vedlikeholdskurs og praktisk trening.Det foreligger prosedyrer som beskriver vedlikeholdet.
+Luftfartstilsynet kan godkjenne at eier av amatørbygd luftfartøy utfører og attesterer for 100 timer/årlig vedlikehold. Slik godkjenning kan bare gis dersom alle vilkår under er oppfylt:
+
+1. Søker var byggeleder for hoveddelen av byggeprosjektet.
+2. Søker er registrert som eier av luftfartøyet i Norges luftfartøyregister.
+3. Det er gjennomført relevant vedlikeholdskurs og praktisk trening.
+4. Det foreligger prosedyrer som beskriver vedlikeholdet.
 
 For å få rettighet som luftdyktighetsgransker i forbindelse med årlig vedlikehold etter denne forskriften må eier i tillegg til det som følger av første ledd, oppfylle kravene i vedlikeholdsforordningen Part-ML.A.904(d).
 
@@ -128,7 +145,13 @@ Eier av amatørbygd luftfartøy med godkjenning som inkluderer rettighet som luf
 
 ### § 18. Utstedelse av vedlikeholdsrapport og N-ARC
 
-Organisasjon eller person med rettighet til å utføre vedlikehold og gransking, kan i forbindelse med årlig vedlikehold utstede vedlikeholdsrapport og N-ARC. Dette kan være:N-Part-145 som har granskingsrettighet etter vedlikeholdsforordningen Part-145.A.75N-CAO som har vedlikeholdsprivilegier og granskingsrettighet etter vedlikeholdsforordningen Part-CAO.A.095Vedlikeholdsordning som har luftdyktighetsgransker, jf. [§ 17](forskrift/2021-06-25-2247/§17), og Part-66 flytekniker eller person med nasjonal rettighet etter [§ 13](forskrift/2021-06-25-2247/§13), dersom flyteknikeren eller personen har vært ansvarlig for vedlikeholdetPart-66 flytekniker som har vært ansvarlig for vedlikeholdet og som har rettighet som luftdyktighetsgransker, jf. [§ 17](forskrift/2021-06-25-2247/§17)Eier av amatørbygd luftfartøy med godkjenning til utføre og attestere for 100 timer/årlig vedlikehold for eget luftfartøy, som har rettighet som luftdyktighetsgransker, jf. [§ 15](forskrift/2021-06-25-2247/§15) andre ledd.
+Organisasjon eller person med rettighet til å utføre vedlikehold og gransking, kan i forbindelse med årlig vedlikehold utstede vedlikeholdsrapport og N-ARC. Dette kan være:
+
+1. N-Part-145 som har granskingsrettighet etter vedlikeholdsforordningen Part-145.A.75
+2. N-CAO som har vedlikeholdsprivilegier og granskingsrettighet etter vedlikeholdsforordningen Part-CAO.A.095
+3. Vedlikeholdsordning som har luftdyktighetsgransker, jf. [§ 17](forskrift/2021-06-25-2247/§17), og Part-66 flytekniker eller person med nasjonal rettighet etter [§ 13](forskrift/2021-06-25-2247/§13), dersom flyteknikeren eller personen har vært ansvarlig for vedlikeholdet
+4. Part-66 flytekniker som har vært ansvarlig for vedlikeholdet og som har rettighet som luftdyktighetsgransker, jf. [§ 17](forskrift/2021-06-25-2247/§17)
+5. Eier av amatørbygd luftfartøy med godkjenning til utføre og attestere for 100 timer/årlig vedlikehold for eget luftfartøy, som har rettighet som luftdyktighetsgransker, jf. [§ 15](forskrift/2021-06-25-2247/§15) andre ledd.
 
 Vedlikeholdsrapport og N-ARC skal utstedes på det skjema Luftfartstilsynet har publisert. Kopi av vedlikeholdsrapporten og N-ARC skal sendes til Luftfartstilsynet innen 10 dager fra utstedelse.
 
@@ -136,7 +159,13 @@ Et luftfartøy må ha N-ARC i tillegg til luftdyktighetsbevis for å kunne bruke
 
 ### § 19. Utstedelse av vedlikeholdsrapport – Luftfartstilsynet utsteder N-ARC
 
-Organisasjon eller person med rettighet til å utføre vedlikehold, kan i forbindelse med årlig vedlikehold utstede vedlikeholdsrapport. Dette kan være:N-Part-145N-CAO som har vedlikeholdsprivilegier etter vedlikeholdsforordningenVedlikeholdsordning som har Part-66 flytekniker eller person med nasjonal rettighet etter [§ 13](forskrift/2021-06-25-2247/§13), dersom flyteknikeren eller personen har vært ansvarlig for vedlikeholdetPart-66 flytekniker som har vært ansvarlig for vedlikeholdetEier av amatørbygd luftfartøy med godkjenning til å utføre og attestere for 100 timer/årlig vedlikehold.
+Organisasjon eller person med rettighet til å utføre vedlikehold, kan i forbindelse med årlig vedlikehold utstede vedlikeholdsrapport. Dette kan være:
+
+1. N-Part-145
+2. N-CAO som har vedlikeholdsprivilegier etter vedlikeholdsforordningen
+3. Vedlikeholdsordning som har Part-66 flytekniker eller person med nasjonal rettighet etter [§ 13](forskrift/2021-06-25-2247/§13), dersom flyteknikeren eller personen har vært ansvarlig for vedlikeholdet
+4. Part-66 flytekniker som har vært ansvarlig for vedlikeholdet
+5. Eier av amatørbygd luftfartøy med godkjenning til å utføre og attestere for 100 timer/årlig vedlikehold.
 
 Vedlikeholdsrapport skal utstedes på det skjema Luftfartstilsynet har publisert.
 
@@ -164,7 +193,12 @@ Mindre modifikasjoner og reparasjoner kan gjennomføres uten godkjenning. For mi
 
 ### § 23. Større modifikasjoner og reparasjoner
 
-Større modifikasjoner og reparasjoner kan ikke påbegynnes før dokumentasjonen er godkjent av Luftfartstilsynet. Søknad om godkjenning må inneholdeteknisk spesifikasjon av konstruksjonenstatus for luftfartøyet og det arbeidet som skal utføressamsvarsmatrise som spesifiserer standardene som ligger til grunn for konstruksjonen og hvordan disse er oppfyltinformasjon om ansvarlig konstruktør.
+Større modifikasjoner og reparasjoner kan ikke påbegynnes før dokumentasjonen er godkjent av Luftfartstilsynet. Søknad om godkjenning må inneholde
+
+1. teknisk spesifikasjon av konstruksjonen
+2. status for luftfartøyet og det arbeidet som skal utføres
+3. samsvarsmatrise som spesifiserer standardene som ligger til grunn for konstruksjonen og hvordan disse er oppfylt
+4. informasjon om ansvarlig konstruktør.
 
 Luftfartstilsynet kan kreve ytterligere dokumentasjon. Luftfartstilsynet kan kreve at det gjennomføres prøveflyging. Luftfartstilsynet kan sette vilkår for godkjenningen.
 
@@ -212,7 +246,11 @@ Luftfartstilsynet kan dispensere fra bestemmelsene i [kapittel 2](forskrift/2021
 
 ### § 33. Tilbakekall av nasjonale rettigheter
 
-Luftfartstilsynet kan endre og om nødvendig tilbakekalle nasjonale rettigheter gitt etter denne forskriften dersominnehaver av tillatelsen overtrer bestemmelsene i denne forskrift eller de vilkår som er satt for tillatelsen,innehaver av tillatelsen gir uriktige opplysninger eller tilbakeholder opplysninger til Luftfartstilsynet,det ellers følger av regler om omgjøring.
+Luftfartstilsynet kan endre og om nødvendig tilbakekalle nasjonale rettigheter gitt etter denne forskriften dersom
+
+1. innehaver av tillatelsen overtrer bestemmelsene i denne forskrift eller de vilkår som er satt for tillatelsen,
+2. innehaver av tillatelsen gir uriktige opplysninger eller tilbakeholder opplysninger til Luftfartstilsynet,
+3. det ellers følger av regler om omgjøring.
 
 ### § 34. Overtredelsesgebyr
 
@@ -222,7 +260,12 @@ Luftfartstilsynet kan gi pålegg om overtredelsesgebyr etter [luftfartsloven § 
 
 ### § 35. Ikrafttredelse og oppheving av forskrifter
 
-Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves[forskrift 24. februar 2004 nr. 433 om kontinuerlig luftdyktighet (BSL B 1-2)](forskrift/2004-02-24-433)[forskrift 24. februar 2004 nr. 458 om vedlikehold av flymateriell for ikke-ervervsmessig luftfart (BSL B 2-3)](forskrift/2004-02-24-458)[forskrift 24. februar 2004 nr. 469 om autoriserte verksteder (BSL B 2-4)](forskrift/2004-02-24-469)[forskrift 19. juni 2008 nr. 614 om krav for utstedelse, utvidelse og fornyelse av nasjonal rettighet for vedlikehold av luftfartøy (BSL C 7-1)](forskrift/2008-06-19-614).
+Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves
+
+1. [forskrift 24. februar 2004 nr. 433 om kontinuerlig luftdyktighet (BSL B 1-2)](forskrift/2004-02-24-433)
+2. [forskrift 24. februar 2004 nr. 458 om vedlikehold av flymateriell for ikke-ervervsmessig luftfart (BSL B 2-3)](forskrift/2004-02-24-458)
+3. [forskrift 24. februar 2004 nr. 469 om autoriserte verksteder (BSL B 2-4)](forskrift/2004-02-24-469)
+4. [forskrift 19. juni 2008 nr. 614 om krav for utstedelse, utvidelse og fornyelse av nasjonal rettighet for vedlikehold av luftfartøy (BSL C 7-1)](forskrift/2008-06-19-614).
 
 ### § 36. Endring i andre forskrifter
 

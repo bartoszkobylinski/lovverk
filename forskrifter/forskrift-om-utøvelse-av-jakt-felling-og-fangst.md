@@ -29,7 +29,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskrift er å bidra til atjakt- og fangsttradisjonene føres videre gjennom høsting av viltproduksjonen til gode for landbruksnæringen og friluftslivet,jakt-, fellings- og fangstutøvelsen ikke påfører viltet unødige lidelser, ogjakt-, fellings- og fangstutøvelsen ikke volder fare for mennesker, husdyr eller eiendom.
+Formålet med denne forskrift er å bidra til at
+
+1. jakt- og fangsttradisjonene føres videre gjennom høsting av viltproduksjonen til gode for landbruksnæringen og friluftslivet,
+2. jakt-, fellings- og fangstutøvelsen ikke påfører viltet unødige lidelser, og
+3. jakt-, fellings- og fangstutøvelsen ikke volder fare for mennesker, husdyr eller eiendom.
 
 > Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [16 mai 2012 nr. 433](forskrift/2012-05-16-433).
 
@@ -69,7 +73,10 @@ Den som utøver jakt på småvilt må være fylt 16 år, og den som utøver jakt
 
 ### § 6. Opplæring i jakt og fangst
 
-Den som i løpet av kalenderåret fyller 14 år og fram til fylte 16 år kan likevel delta i småviltjakt med våpen og delta i fangst av villmink, mår, rype og kråkefugl i opplæringsøyemed når vedkommende:har samtykke fra foreldre eller foresatte, oger under forsvarlig tilsyn av person som har fylt 20 år. Tilsynspersonen må ha utøvd jakt og betalt jegeravgift i minst tre år. Tilsynspersonen skal også ha tillatelse fra rettighetshaver. Den som har tilsynet skal ha mulighet til å kontrollere og instruere vedkommende.
+Den som i løpet av kalenderåret fyller 14 år og fram til fylte 16 år kan likevel delta i småviltjakt med våpen og delta i fangst av villmink, mår, rype og kråkefugl i opplæringsøyemed når vedkommende:
+
+1. har samtykke fra foreldre eller foresatte, og
+2. er under forsvarlig tilsyn av person som har fylt 20 år. Tilsynspersonen må ha utøvd jakt og betalt jegeravgift i minst tre år. Tilsynspersonen skal også ha tillatelse fra rettighetshaver. Den som har tilsynet skal ha mulighet til å kontrollere og instruere vedkommende.
 
 Den som i løpet av kalenderåret fyller 16 år og fram til fylte 18 år kan delta i storviltjakt, unntatt lisensfelling, med våpen i opplæringsøyemed når vilkårene i første ledd bokstav a og b er oppfylt, jf. [lov 20. april 2018 nr. 7 om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova) § 18](lov/2018-04-20-7/§18). Det stilles i tillegg krav om bestått jegerprøve og skyteprøve for storviltjegere.
 
@@ -103,7 +110,25 @@ Personer som er fast bosatt i utlandet trenger ikke avlegge jegerprøve dersom d
 
 Studieorganisasjoner og andre kan etter avtale med Landbruksdirektoratet arrangere det obligatoriske kurset i samsvar med [lov 19. juni 2009 nr. 95](lov/2009-06-19-95) om voksenopplæring.
 
-Kurset skal være på 30 timer. Den obligatoriske undervisningen skal gjennomføres ved ett av tre alternativer:Over to helger (fredag–søndag)*Fredag (3 t)**Lørdag (6 t)**Søndag (6 t)**Fredag (3 t)**Lørdag (6 t)**Søndag (6 t)*Samling 1Samling 2+3Samling 4Samling 5Samling 6 + 7Samling 8 + 9Over fem hele sammenhengende dager, der den obligatoriske undervisningen hver dag skal gjennomføres innenfor tidsrommet fra 08.00 til 18.00.*Dag 1 (6 t)**Dag 2 (6 t)**Dag 3 (6 t)**Dag 4 (6 t)**Dag 5 (6 t)*Samling 1+5Samling 2+3Samling 4Samling 6+7Samling 8+9Over ni dager*Dag 1 (3 t)**Dag 2 (3 t)**Dag 3 (3 t)**Dag 4 (6 t)**Dag 5 (3 t)**Dag 6 (3 t)**Dag 7 (3 t)**Dag 8 (3 t)**Dag 9 (3 t)*Samling 1Samling 2Samling 3Samling 4Samling 5Samling 6Samling 7Samling 8Samling 9Rekkefølgen på dagene i de tre alternativene kan endres dersom lokale forhold tilsier det. Kombinasjoner mellom ulike alternativ er ikke tillatt ved gjennomføring.
+Kurset skal være på 30 timer. Den obligatoriske undervisningen skal gjennomføres ved ett av tre alternativer:
+
+1. Over to helger (fredag–søndag)
+
+   | *Fredag (3 t)* | *Lørdag (6 t)* | *Søndag (6 t)* | *Fredag (3 t)* | *Lørdag (6 t)* | *Søndag (6 t)* |
+   | --- | --- | --- | --- | --- | --- |
+   | Samling 1 | Samling 2+3 | Samling 4 | Samling 5 | Samling 6 + 7 | Samling 8 + 9 |
+2. Over fem hele sammenhengende dager, der den obligatoriske undervisningen hver dag skal gjennomføres innenfor tidsrommet fra 08.00 til 18.00.
+
+   | *Dag 1 (6 t)* | *Dag 2 (6 t)* | *Dag 3 (6 t)* | *Dag 4 (6 t)* | *Dag 5 (6 t)* |
+   | --- | --- | --- | --- | --- |
+   | Samling 1+5 | Samling 2+3 | Samling 4 | Samling 6+7 | Samling 8+9 |
+3. Over ni dager
+
+   | *Dag 1 (3 t)* | *Dag 2 (3 t)* | *Dag 3 (3 t)* | *Dag 4 (6 t)* | *Dag 5 (3 t)* | *Dag 6 (3 t)* | *Dag 7 (3 t)* | *Dag 8 (3 t)* | *Dag 9 (3 t)* |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | Samling 1 | Samling 2 | Samling 3 | Samling 4 | Samling 5 | Samling 6 | Samling 7 | Samling 8 | Samling 9 |
+
+Rekkefølgen på dagene i de tre alternativene kan endres dersom lokale forhold tilsier det. Kombinasjoner mellom ulike alternativ er ikke tillatt ved gjennomføring.
 
 Kurset skal ledes av en instruktør som er utdannet etter Studieplan for utdanning av jegerprøveinstruktører fastsatt av Landbruksdirektoratet.
 
@@ -147,7 +172,10 @@ Landbruksdirektoratet kan trekke tilbake autorisasjonen dersom jegerprøveinstru
 
 Lisensfelling kan bare utøves av registrert lisensjeger. Som lisensjeger regnes også deltakelse som hundefører. Registreringen skjer i Jegerregisteret for hver enkelt rovviltart det enkelte jaktår.
 
-For å kunne registrere seg som lisensjeger må en jeger habetalt jegeravgift for vedkommende jaktåroverholdt rapporteringsplikten i henhold til [forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt [§ 16](forskrift/2005-03-18-242/§16).
+For å kunne registrere seg som lisensjeger må en jeger ha
+
+1. betalt jegeravgift for vedkommende jaktår
+2. overholdt rapporteringsplikten i henhold til [forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt [§ 16](forskrift/2005-03-18-242/§16).
 
 Alle som deltar i lisensfelling plikter å holde seg oppdatert om kvotens størrelse, gjenværende kvote og eventuelle andre begrensninger for fellingsutøvelsen. Kvittering fra registrering som lisensjeger i Jegerregisteret skal medbringes under felling/fellingsforsøk.
 
@@ -183,7 +211,11 @@ Til jakt og felling er bruk av hagle for mer enn to skudd forbudt.
 
 ### § 16. Krav til rifleammunisjon
 
-Under jakt på elg, hjort, dåhjort, villrein, villsvin eller muflon, og ved felling av ulv og bjørn skal det brukes ammunisjon med ekspanderende prosjektil. I tillegg skal følgende krav være oppfylt:Minste tillatte kaliber er 6,5 (.264″/6,71 mm).Minste tillatte kulevekt er 9 gram (138,9 grain) for kuler med mantel og blykjerne og 7,8 gram (120 grain) for blyfrie kuler.Minste tillatte anslagsenergi på 100 meter (E100) er 2200 joule.
+Under jakt på elg, hjort, dåhjort, villrein, villsvin eller muflon, og ved felling av ulv og bjørn skal det brukes ammunisjon med ekspanderende prosjektil. I tillegg skal følgende krav være oppfylt:
+
+1. Minste tillatte kaliber er 6,5 (.264″/6,71 mm).
+2. Minste tillatte kulevekt er 9 gram (138,9 grain) for kuler med mantel og blykjerne og 7,8 gram (120 grain) for blyfrie kuler.
+3. Minste tillatte anslagsenergi på 100 meter (E100) er 2200 joule.
 
 Under jakt med rifle på rådyr, bever og gaupe eller felling av jerv og gaupe skal det brukes ammunisjon med ekspanderende prosjektil og anslagsenergien skal være minst 980 joule (100 kgm) målt på 100 meters avstand, E100.
 
@@ -483,7 +515,12 @@ Overtredelse av bestemmelser gitt i eller i medhold av denne forskrift, straffes
 
 Forskriften trer i kraft 2. april 2002.
 
-Fra samme tidspunkt oppheves:[Forskrift av 28. oktober 1986 nr. 2050](forskrift/1986-10-28-2050) om aldersgrense for å utøve jakt.[Forskrift av 2. juli 1990 nr. 600](forskrift/1990-07-02-600) om bruk av fangstredskaper.[Forskrift av 24. januar 1991 nr. 61](forskrift/1991-01-24-61) om prøving og godkjenning av ettersøkshund til jakt på elg, hjort og rådyr.[Forskrift av 21. mars 1997 nr. 257](forskrift/1997-03-21-257) om våpen og ammunisjon til storvilt- og småviltjakt, og skyteprøve for storviltjegere.
+Fra samme tidspunkt oppheves:
+
+- [Forskrift av 28. oktober 1986 nr. 2050](forskrift/1986-10-28-2050) om aldersgrense for å utøve jakt.
+- [Forskrift av 2. juli 1990 nr. 600](forskrift/1990-07-02-600) om bruk av fangstredskaper.
+- [Forskrift av 24. januar 1991 nr. 61](forskrift/1991-01-24-61) om prøving og godkjenning av ettersøkshund til jakt på elg, hjort og rådyr.
+- [Forskrift av 21. mars 1997 nr. 257](forskrift/1997-03-21-257) om våpen og ammunisjon til storvilt- og småviltjakt, og skyteprøve for storviltjegere.
 
 > Endret ved forskrift [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024, tidligere § 41).
 
@@ -491,7 +528,10 @@ Fra samme tidspunkt oppheves:[Forskrift av 28. oktober 1986 nr. 2050](forskrift/
 
 ### Kommentar til § 29a
 
-[Bernkonvensjonen](traktat/1971-07-24-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. [Bernkonvensjonen artikkel 8](traktat/1971-07-24-1/a8) og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til [Bernkonvensjonen](traktat/1971-07-24-1) skal felling av jerv ved bruk av fast montert synlig lys for å belyse åte i forbindelse med lisensfelling av jerv etter § 29a første ledd rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:Antall individer av jerv som er felt i lisensfelling der fast montert synlig lys er benyttetTid og sted for fellingen.
+[Bernkonvensjonen](traktat/1971-07-24-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. [Bernkonvensjonen artikkel 8](traktat/1971-07-24-1/a8) og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til [Bernkonvensjonen](traktat/1971-07-24-1) skal felling av jerv ved bruk av fast montert synlig lys for å belyse åte i forbindelse med lisensfelling av jerv etter § 29a første ledd rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:
+
+- Antall individer av jerv som er felt i lisensfelling der fast montert synlig lys er benyttet
+- Tid og sted for fellingen.
 
 > Tilføyd ved [forskrift 14 juli 2015 nr. 897](forskrift/2015-07-14-897), endret ved [forskrifter 8 sep 2020 nr. 1736](forskrift/2020-09-08-1736), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
@@ -755,7 +795,10 @@ Til fangst av jerv kan statsforvalteren kun godkjenne Jervbås som er bygd i hen
 
 Ved bruk av Jervbås skal det benyttes bås med toppluke som faller ned. Det skal ikke benyttes bås med fall-lem i enden da denne type bås er mer utsatt for rømming.
 
-Materialet i båsen skal være av bjørk, gran eller furu. Båsen skal enten laftes, eller det kan benyttes gjengestål for å skru stokkene sammen. Det er forbudt å bruke metalldeler inne i båsen. Jervbås kan lages enten i rundstokk eller med plank:Ved bruk av rundstokk skal dimensjonen på trestokkene være minst 15 cm i diameter ved bruk av bjørk, mens den ved bruk av gran eller furu skal være minst 20 cm i diameter. For å hindre rømming skal veggene inne i fella være dekket med et heldekkende og solid materiale, for eksempel plater eller planker.Ved bruk av plank skal dimensjonen være minst 7,5 x 20 cm (3′ x 8′). Materialet skal være renskåret slik at veggene blir tilnærmet glatte og det blir minimalt med lysgjennomstrømming mellom stokkene. Det er ikke krav om heldekkende og solid materiale inne i båsen. Kravet om 20 cm bredde på planken er for å minimere antallet horisontale skjøter inne i båsen.
+Materialet i båsen skal være av bjørk, gran eller furu. Båsen skal enten laftes, eller det kan benyttes gjengestål for å skru stokkene sammen. Det er forbudt å bruke metalldeler inne i båsen. Jervbås kan lages enten i rundstokk eller med plank:
+
+1. Ved bruk av rundstokk skal dimensjonen på trestokkene være minst 15 cm i diameter ved bruk av bjørk, mens den ved bruk av gran eller furu skal være minst 20 cm i diameter. For å hindre rømming skal veggene inne i fella være dekket med et heldekkende og solid materiale, for eksempel plater eller planker.
+2. Ved bruk av plank skal dimensjonen være minst 7,5 x 20 cm (3′ x 8′). Materialet skal være renskåret slik at veggene blir tilnærmet glatte og det blir minimalt med lysgjennomstrømming mellom stokkene. Det er ikke krav om heldekkende og solid materiale inne i båsen. Kravet om 20 cm bredde på planken er for å minimere antallet horisontale skjøter inne i båsen.
 
 De innvendige målene på Jervbåsen skal være minst 150 cm i lengde, minst 75 cm i bredde og minst 80–90 cm i høyde.
 
@@ -790,4 +833,10 @@ Statsforvalteren kan ved behov stille krav om at bruker av felle skal rapportere
 
 > Vedlegg tilføyd ved forskrift [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024).
 
-Følgende regler gjelder for alt elektronisk tilsyn av feller som fanger viltet levende:Det må benyttes kamera som enten sender bilde til jegeren minimum to ganger daglig, morgen og kveld, eller som filmer fellen kontinuerlig. Dato og tidspunkt skal framgå av bilder eller film.Kameraet må stilles slik at man ser om fellen er åpen eller lukket, og kan identifisere hvilke dyr som går inn i fellen.For kamera som ikke filmer kontinuerlig, skal det også kunne sendes bestilling til kameraet slik at det tar bilde av fellen og sender det til fangstpersonen.Ved teknisk svikt med kamera, eller med fellealarm ved fangst av villsvin, gaupe og jerv, skal det umiddelbart gjøres fysisk tilsyn med fellen.Alle bilder skal arkiveres sikkert i en logg. Dersom bilde(r) mangler skal det gå klart fram av loggen hva som er årsak og hvilke tiltak som er iverksatt. Loggen skal løpende kunne framvises på forespørsel fra naturoppsynet.
+Følgende regler gjelder for alt elektronisk tilsyn av feller som fanger viltet levende:
+
+- Det må benyttes kamera som enten sender bilde til jegeren minimum to ganger daglig, morgen og kveld, eller som filmer fellen kontinuerlig. Dato og tidspunkt skal framgå av bilder eller film.
+- Kameraet må stilles slik at man ser om fellen er åpen eller lukket, og kan identifisere hvilke dyr som går inn i fellen.
+- For kamera som ikke filmer kontinuerlig, skal det også kunne sendes bestilling til kameraet slik at det tar bilde av fellen og sender det til fangstpersonen.
+- Ved teknisk svikt med kamera, eller med fellealarm ved fangst av villsvin, gaupe og jerv, skal det umiddelbart gjøres fysisk tilsyn med fellen.
+- Alle bilder skal arkiveres sikkert i en logg. Dersom bilde(r) mangler skal det gå klart fram av loggen hva som er årsak og hvilke tiltak som er iverksatt. Loggen skal løpende kunne framvises på forespørsel fra naturoppsynet.

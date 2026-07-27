@@ -15,7 +15,7 @@ xml_hash: "1b2f1ed8e75fb244c21882a8a412f082a21beedfacc5a55810236b3c62cfc9e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ På varer som ikke har de kjennetegn som nevnes i vedlegg 1 er det forbudt å be
 
 Dersom en vare som omfattes av denne forskrift, bærer en av betegnelsene gjengitt i vedlegg 1, kan den også bære identifikasjonssymbolet vist og definert i vedlegg 1.
 
-Dersom et varemerke, foretaksnavn eller annen påskrift inneholder enten som hovedledd eller som adjektiv etter rotord, en av de betegnelser fastsatt i vedlegg 1 eller de kan føre til forveksling med disse betegnelser, skal det med tydelig skrift være påført umiddelbart før merket eller foretaksnavnet eller påskriften:betegnelsen på varen når denne har egenskaper som er angitt i vedlegg 1,opplysning om varens materiale, når dette ikke har de egenskaper som er angitt i vedlegg 1.
+Dersom et varemerke, foretaksnavn eller annen påskrift inneholder enten som hovedledd eller som adjektiv etter rotord, en av de betegnelser fastsatt i vedlegg 1 eller de kan føre til forveksling med disse betegnelser, skal det med tydelig skrift være påført umiddelbart før merket eller foretaksnavnet eller påskriften:
+
+1. betegnelsen på varen når denne har egenskaper som er angitt i vedlegg 1,
+2. opplysning om varens materiale, når dette ikke har de egenskaper som er angitt i vedlegg 1.
 
 ## § 4. Analysemetoder
 

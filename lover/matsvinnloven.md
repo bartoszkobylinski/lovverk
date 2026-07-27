@@ -38,11 +38,19 @@ Loven gjelder på Svalbard. Kongen kan gi forskrift om særlige regler av hensyn
 
 ## § 3. Definisjoner
 
-I denne loven forstås medvirksomhet: ethvert privat eller offentlig foretak som foretar en hvilken som helst aktivitet som nevnt i [§ 2](lov/2025-06-20-103/§2). Dette omfatter statlige organer, kommuner og fylkeskommuner og andre rettssubjekter.næringsmidler: ethvert bearbeidet eller ubearbeidet stoff eller produkt som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker, også drikke, tyggegummi og ethvert stoff som bevisst tilsettes næringsmiddelet når det framstilles, tilberedes eller behandles. Første punktum omfatter ikke fôr, levende dyr, med mindre de er klargjort for omsetning til konsum, planter før innhøsting, legemidler, kosmetikk, tobakk og tobakksvarer, narkotika eller psykotrope stoffer og reststoffer og forurensende stoffer.omsetning: besittelse med sikte på salg, utbud for salg eller distribusjon, samt salg og enhver annen form for overdragelse mot eller uten vederlag.
+I denne loven forstås med
+
+1. virksomhet: ethvert privat eller offentlig foretak som foretar en hvilken som helst aktivitet som nevnt i [§ 2](lov/2025-06-20-103/§2). Dette omfatter statlige organer, kommuner og fylkeskommuner og andre rettssubjekter.
+2. næringsmidler: ethvert bearbeidet eller ubearbeidet stoff eller produkt som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker, også drikke, tyggegummi og ethvert stoff som bevisst tilsettes næringsmiddelet når det framstilles, tilberedes eller behandles. Første punktum omfatter ikke fôr, levende dyr, med mindre de er klargjort for omsetning til konsum, planter før innhøsting, legemidler, kosmetikk, tobakk og tobakksvarer, narkotika eller psykotrope stoffer og reststoffer og forurensende stoffer.
+3. omsetning: besittelse med sikte på salg, utbud for salg eller distribusjon, samt salg og enhver annen form for overdragelse mot eller uten vederlag.
 
 ## § 4. Plikt til å gjennomføre og redegjøre for tiltak for å forebygge og redusere matsvinn
 
-Alle virksomheter som produserer, omsetter eller serverer næringsmidler, skal gjennomføre følgende tiltak i egen virksomhet for å forebygge og redusere matsvinn:kartlegge, vurdere og forebygge risikoen for matsvinn i egen virksomhet,utarbeide en tiltaksplan for å forebygge og redusere matsvinnet basert på kartlegginger og vurderinger etter bokstav a,iverksette egnede tiltak i henhold til tiltaksplan etter bokstav b.
+Alle virksomheter som produserer, omsetter eller serverer næringsmidler, skal gjennomføre følgende tiltak i egen virksomhet for å forebygge og redusere matsvinn:
+
+1. kartlegge, vurdere og forebygge risikoen for matsvinn i egen virksomhet,
+2. utarbeide en tiltaksplan for å forebygge og redusere matsvinnet basert på kartlegginger og vurderinger etter bokstav a,
+3. iverksette egnede tiltak i henhold til tiltaksplan etter bokstav b.
 
 Tiltakene i første ledd skal utføres regelmessig og stå i forhold til virksomhetens størrelse og art, konteksten virksomheten skjer innenfor, og risikoen for at matsvinn ikke forebygges eller reduseres under de betingelsene virksomheten opererer innenfor. Første ledd gjelder ikke for små virksomheter. For kommuner og fylkeskommuner gjelder plikten etter første ledd på overordnet nivå, og ikke for den enkelte virksomhet.
 

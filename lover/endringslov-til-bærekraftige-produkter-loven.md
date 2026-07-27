@@ -15,7 +15,7 @@ xml_hash: "2571ee68667cedf8dbab909f305d1bd3a6d0318517179e1aba231fd2162c334d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Ny [§ 4 a](lov/2024-06-25-69/§4a) skal lyde:
 
 [§ 14 første ledd](lov/2024-06-25-69/§14/ledd/1) skal lyde:
 
-Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrerbestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
+Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer
+
+1. bestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)
+2. plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)
+3. plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
 
 [§ 15](lov/2024-06-25-69/§15) skal lyde:
 

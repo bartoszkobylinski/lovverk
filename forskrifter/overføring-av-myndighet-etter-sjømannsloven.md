@@ -30,9 +30,35 @@ Kgl.res. av 26. mai 1962 om instruksjonsrett overfor utenriksstasjonene i sjøma
 
 Kronprinsreg.res. av 5. mai 1967 om endring i lov om sjøfarten av 20. juli 1893 om visse andre lover som trer i kraft 1. juli 1967.
 
-Kgl.res. av 8. august 1975 for så vidt gjelder delegering etter sjømannslov [av 30. mai 1975 nr. 18](lov/1975-05-30-18)§ 22 tredje ledd§ 26 tredje og fjerde ledd§ 27 syvende ledd§ 28 nr. 5§ 42 tredje ledd§ 47 første og annet ledd§ 49 tredje ledd§ 50 fjerde ledd§ 51§ 54 første ledd
+Kgl.res. av 8. august 1975 for så vidt gjelder delegering etter sjømannslov [av 30. mai 1975 nr. 18](lov/1975-05-30-18)
 
-Kgl.res. av 31. januar 1986 litra II for så vidt gjelder delegering etter sjømannslov av 31. mai 1975 nr. 18§ 3 nr. 1 første og tredje ledd§ 4 annet, tredje og fjerde ledd§ 8 sjette, syvende, åttende og niende ledd§ 13 nr. 3§ 18 nr. 3§ 20 nr. 3§ 21 åttende ledd§ 26 femte og sjette ledd§ 28 nr. 6§ 30 fjerde ledd§ 40 nr. 1, tredje ledd§ 40 nr. 2 og nr. 4§ 46 tredje ledd§ 50 femte og sjette ledd
+- § 22 tredje ledd
+- § 26 tredje og fjerde ledd
+- § 27 syvende ledd
+- § 28 nr. 5
+- § 42 tredje ledd
+- § 47 første og annet ledd
+- § 49 tredje ledd
+- § 50 fjerde ledd
+- § 51
+- § 54 første ledd
+
+Kgl.res. av 31. januar 1986 litra II for så vidt gjelder delegering etter sjømannslov av 31. mai 1975 nr. 18
+
+- § 3 nr. 1 første og tredje ledd
+- § 4 annet, tredje og fjerde ledd
+- § 8 sjette, syvende, åttende og niende ledd
+- § 13 nr. 3
+- § 18 nr. 3
+- § 20 nr. 3
+- § 21 åttende ledd
+- § 26 femte og sjette ledd
+- § 28 nr. 6
+- § 30 fjerde ledd
+- § 40 nr. 1, tredje ledd
+- § 40 nr. 2 og nr. 4
+- § 46 tredje ledd
+- § 50 femte og sjette ledd
 
 Myndighet til å bemyndige lokale kontorer i arbeids- og velferdsforvaltningen og norske utenriksstasjoner til å treffe beslutninger etter de ovenfor nevnte bestemmelser.
 

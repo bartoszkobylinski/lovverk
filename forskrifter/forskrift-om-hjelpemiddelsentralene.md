@@ -24,10 +24,16 @@ eu_basis: []
 
 ## § 1. Formål og ansvar
 
-1. Hjelpemiddelsentralene har et overordnet og koordinerende ansvar for formidling av hjelpemidler til funksjonshemmede. De skal bidra til likeverdig og helhetlig problemløsning for funksjonshemmede gjennom tekniske og ergonomiske tiltak og være et ressurs- og kompetansesenter for offentlige instanser og andre som har ansvar for å løse funksjonshemmedes problemer og hvor tekniske og ergonomiske løsninger kan være aktuelt.Hjelpemiddelsentralene har en rådgivnings- og veiledningsfunksjon overfor helse- og omsorgstjenesten i kommunene og fylkeskommunen på hjelpemiddelområdet.
-2. Hjelpemiddelsentralen har forvaltningsansvar for hjelpemidler som er folketrygdens eiendom og skal påse at folketrygdens midler blir utnyttet mest mulig effektivt og i samsvar med bestemmelsene i folketrygdloven. Hjelpemiddelsentralen skal herunder sørge for at de funksjonelle behov avhjelpes på beste måte for brukeren og på lavest mulige effektive kostnadsnivå.Arbeids- og velferdsdirektoratet kan med departementets samtykke bestemme at kommunen/fylkeskommunen gjennom hjelpemiddelsentralen skal kunne få leie nødvendige hjelpemidler som omfattes av kommunens/fylkeskommunens ansvarsområde. Den avtalte leie må dekke de faktiske kostnader.
+1. Hjelpemiddelsentralene har et overordnet og koordinerende ansvar for formidling av hjelpemidler til funksjonshemmede. De skal bidra til likeverdig og helhetlig problemløsning for funksjonshemmede gjennom tekniske og ergonomiske tiltak og være et ressurs- og kompetansesenter for offentlige instanser og andre som har ansvar for å løse funksjonshemmedes problemer og hvor tekniske og ergonomiske løsninger kan være aktuelt.
+
+   Hjelpemiddelsentralene har en rådgivnings- og veiledningsfunksjon overfor helse- og omsorgstjenesten i kommunene og fylkeskommunen på hjelpemiddelområdet.
+2. Hjelpemiddelsentralen har forvaltningsansvar for hjelpemidler som er folketrygdens eiendom og skal påse at folketrygdens midler blir utnyttet mest mulig effektivt og i samsvar med bestemmelsene i folketrygdloven. Hjelpemiddelsentralen skal herunder sørge for at de funksjonelle behov avhjelpes på beste måte for brukeren og på lavest mulige effektive kostnadsnivå.
+
+   Arbeids- og velferdsdirektoratet kan med departementets samtykke bestemme at kommunen/fylkeskommunen gjennom hjelpemiddelsentralen skal kunne få leie nødvendige hjelpemidler som omfattes av kommunens/fylkeskommunens ansvarsområde. Den avtalte leie må dekke de faktiske kostnader.
 3. Hjelpemiddelsentralene har ansvar for rådgivning og resirkulering av trygdefinansierte biler og utstyr.
-4. Hjelpemiddelsentralene kan med Arbeids- og velferdsdirektoratets samtykke påta seg administrative og andre oppgaver for andre institusjoner.Det vederlag som hjelpemiddelsentralen og institusjonen avtaler, jf første ledd må godkjennes av Arbeids- og velferdsdirektoratet eller den Arbeids- og velferdsdirektoratet bemyndiger.
+4. Hjelpemiddelsentralene kan med Arbeids- og velferdsdirektoratets samtykke påta seg administrative og andre oppgaver for andre institusjoner.
+
+   Det vederlag som hjelpemiddelsentralen og institusjonen avtaler, jf første ledd må godkjennes av Arbeids- og velferdsdirektoratet eller den Arbeids- og velferdsdirektoratet bemyndiger.
 5. Arbeids- og velferdsdirektoratet kan helt eller delvis overlate vedtaksmyndighet om varig utlån av eller tilskott til hjelpemidler til hjelpemiddelsentralen.
 
 > Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [10 mars 2014 nr. 259](forskrift/2014-03-10-259).
@@ -69,7 +75,11 @@ Dersom søknad om utlån av et hjelpemiddel blir avslått, kan hjelpemiddelet be
 ## § 7. Utgifter i tilknytning til formidlingen
 
 1. Utgifter i forbindelse med utredning, utprøving og opplæring i bruk av hjelpemidler dekkes ikke av folketrygden. Utgifter til nødvendig opplæring i hjelpemidlers funksjon kan likevel dekkes av folketrygden dersom den må gis av personell med spesialkompetanse som det ikke kan forventes at kommunen, fylkeskommunen eller de statlige kompetansesentra har, jf § 2 sjuende ledd i forskrifter om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen.
-2. Utgifter til transport fra leverandør til hjelpemiddelsentral eller bruker dekkes av folketrygden når annet ikke er avtalt.Utgifter til transport fra hjelpemiddelsentralen til og fra fast mottakssted i kommunen dekkes av folketrygden. Folketrygden kan også dekke utgiftene til transport fra hjelpemiddelsentralen til brukeren dersom dette ikke medfører vesentlige merutgifter og kommunen forplikter seg til å følge opp leveringen gjennom hjemmebesøk som en del av sitt formidlingsansvar.Kommunen plikter å dekke utgiftene til transport fra mottaksstedet og til brukeren. Det samme gjelder utgifter ved tilbakelevering av hjelpemiddel som ikke lenger brukes fra brukeren og til det faste mottaksstedet. I den kommune/bydel hvor hjelpemiddelsentralen ligger anses sentralen som fast mottakssted i forhold til transportutgiftene.
+2. Utgifter til transport fra leverandør til hjelpemiddelsentral eller bruker dekkes av folketrygden når annet ikke er avtalt.
+
+   Utgifter til transport fra hjelpemiddelsentralen til og fra fast mottakssted i kommunen dekkes av folketrygden. Folketrygden kan også dekke utgiftene til transport fra hjelpemiddelsentralen til brukeren dersom dette ikke medfører vesentlige merutgifter og kommunen forplikter seg til å følge opp leveringen gjennom hjemmebesøk som en del av sitt formidlingsansvar.
+
+   Kommunen plikter å dekke utgiftene til transport fra mottaksstedet og til brukeren. Det samme gjelder utgifter ved tilbakelevering av hjelpemiddel som ikke lenger brukes fra brukeren og til det faste mottaksstedet. I den kommune/bydel hvor hjelpemiddelsentralen ligger anses sentralen som fast mottakssted i forhold til transportutgiftene.
 3. Utgifter til installasjon, montering, demontering, reparasjon og vedlikehold kan dekkes av folketrygden når arbeidet krever spesialkompetanse eller kapasitet som hjelpemiddelsentralen ikke har.
 
 ## § 8. Pris- og leveringsavtaler

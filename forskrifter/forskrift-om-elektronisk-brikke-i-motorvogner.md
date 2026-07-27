@@ -54,7 +54,10 @@ Brikken skal være montert godt synlig i frontruten på motorvognen og være pla
 
 ## § 5. Overtredelsesgebyr
 
-Politiet, Tolletaten og Statens vegvesen kan ilegge overtredelsesgebyr på kr 8 000 for følgende overtredelser:unnlatt bruk av lesbar elektronisk brikke med en tilhørende gyldig avtale tilknyttet motorvognenbruk av brikke med avtale tilknyttet feil takstgruppe.
+Politiet, Tolletaten og Statens vegvesen kan ilegge overtredelsesgebyr på kr 8 000 for følgende overtredelser:
+
+1. unnlatt bruk av lesbar elektronisk brikke med en tilhørende gyldig avtale tilknyttet motorvognen
+2. bruk av brikke med avtale tilknyttet feil takstgruppe.
 
 Overtredelsesgebyret kan ilegges eieren, føreren eller leasingtaker etter ansvaret i [§ 3](forskrift/2014-10-10-1276/§3).
 

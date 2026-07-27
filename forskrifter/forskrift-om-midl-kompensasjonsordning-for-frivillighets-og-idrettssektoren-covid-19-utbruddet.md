@@ -44,7 +44,10 @@ Organisasjoner som er under konkursbehandling kan ikke søke om eller motta komp
 
 ### § 2-1. Hva kan det søkes om kompensasjon for
 
-Det kan søkes om kompensasjon for inntektsbortfall som følge av:tapte inntekter fra arrangement, med avgrensninger som følger av [§ 2-3](forskrift/2020-07-16-1581/§2-3)tapte billettinntekter og utleieinntekter fra annen spesifisert aktivitet.
+Det kan søkes om kompensasjon for inntektsbortfall som følge av:
+
+1. tapte inntekter fra arrangement, med avgrensninger som følger av [§ 2-3](forskrift/2020-07-16-1581/§2-3)
+2. tapte billettinntekter og utleieinntekter fra annen spesifisert aktivitet.
 
 Med arrangement forstås tidsavgrensede aktiviteter som er åpne for alle medlemmene, besøkende, publikum og andre deltakere i målgruppen.
 
@@ -60,7 +63,10 @@ Inntektsbortfallet skal så langt det er mulig kunne dokumenteres ved å vise ti
 
 ### § 2-3. Avgrensninger
 
-Ordningen omfatter alle typer inntekter fra arrangement med unntak av:sponsor- og reklameinntekterpengegaver.
+Ordningen omfatter alle typer inntekter fra arrangement med unntak av:
+
+- sponsor- og reklameinntekter
+- pengegaver.
 
 Det gis ikke kompensasjon for bortfall av medlemsinntekter, ordinær treningsavgift som ikke er knyttet til enkeltstående arrangement slik dette er definert i [§ 2-1](forskrift/2020-07-16-1581/§2-1), eller pengeinnsamlinger som helt eller delvis kunne latt seg gjennomføre på annen måte.
 
@@ -80,7 +86,12 @@ Organisasjoner som oppfyller ordningens vilkår som nevnt i Kapittel 1, kan få 
 
 Søknad om kompensasjon skal leveres elektronisk via Lotteri- og stiftelsestilsynets nettsider. Det legges opp til løpende utbetalinger med siste søknadsfrist 15. september 2020.
 
-Følgende opplysninger skal bekreftes i søknadsskjemaet:at inntektsbortfallet det søkes om kompensasjon for er en konsekvens av pålegg eller råd gitt av statlige myndigheter i forbindelse med covid-19-utbruddetat inntektsbortfall ikke er dekket eller kunne blitt dekket på annen måte, gjennom for eksempel inngåtte forsikringsordninger, avtaler mv.at organisasjonen ikke mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019at organisasjonen ikke er under konkursbehandling.
+Følgende opplysninger skal bekreftes i søknadsskjemaet:
+
+1. at inntektsbortfallet det søkes om kompensasjon for er en konsekvens av pålegg eller råd gitt av statlige myndigheter i forbindelse med covid-19-utbruddet
+2. at inntektsbortfall ikke er dekket eller kunne blitt dekket på annen måte, gjennom for eksempel inngåtte forsikringsordninger, avtaler mv.
+3. at organisasjonen ikke mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019
+4. at organisasjonen ikke er under konkursbehandling.
 
 Lotteri- og stiftelsestilsynet kan be om ytterligere opplysninger som er nødvendige for behandling av søknader etter denne forskriften.
 

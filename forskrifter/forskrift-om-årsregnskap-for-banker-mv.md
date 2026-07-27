@@ -15,7 +15,7 @@ xml_hash: "90442ae0bb98686661c3f17f54bc149f7ae44fa288ebfda50071d70299838bce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1-1. Forskriftens virkeområde
 
-Forskriften gjelderbanker, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-7](lov/2015-04-10-17/§2-7),kredittforetak, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-8](lov/2015-04-10-17/§2-8),finansieringsforetak, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-9](lov/2015-04-10-17/§2-9),morselskap som nevnt i [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 17-6](lov/2015-04-10-17/§17-6) annet ledd bokstav a og b som eier foretak som nevnt i punkt 1, 2 eller 3,finansstiftelser som har bestemmende innflytelse i institusjoner som nevnt i [punkt 1](forskrift/1998-12-16-1240/kap1), [2](forskrift/1998-12-16-1240/kap2) eller 3, ogfilialer av utenlandske kredittinstitusjoner og finansieringsforetak, med unntak av [kapittel 8](forskrift/1998-12-16-1240/kap8) om delårsregnskap.
+Forskriften gjelder
+
+1. banker, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-7](lov/2015-04-10-17/§2-7),
+2. kredittforetak, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-8](lov/2015-04-10-17/§2-8),
+3. finansieringsforetak, jf. [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern [§ 2-9](lov/2015-04-10-17/§2-9),
+4. morselskap som nevnt i [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 17-6](lov/2015-04-10-17/§17-6) annet ledd bokstav a og b som eier foretak som nevnt i punkt 1, 2 eller 3,
+5. finansstiftelser som har bestemmende innflytelse i institusjoner som nevnt i [punkt 1](forskrift/1998-12-16-1240/kap1), [2](forskrift/1998-12-16-1240/kap2) eller 3, og
+6. filialer av utenlandske kredittinstitusjoner og finansieringsforetak, med unntak av [kapittel 8](forskrift/1998-12-16-1240/kap8) om delårsregnskap.
 
 Regnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd. [Regnskapsloven § 3-1 fjerde ledd](lov/1998-07-17-56/§3-1/ledd/4) om unntak fra bestemmelser i regnskapsloven, gjelder for alle institusjoner underlagt denne forskrift
 
@@ -38,7 +45,11 @@ Salgsinntekter i [regnskapsloven § 1-5](lov/1998-07-17-56/§1-5) skal, for inst
 
 Som institusjon regnes i denne forskrift foretak som nevnt i [§ 1-1](forskrift/1998-12-16-1240/§1-1) første ledd.
 
-Som kredittinstitusjon regnes i denne forskriftbanker og kredittforetak,foretak med hovedsete i annen EØS-stat som er gitt tillatelse til å drive virksomhet som kredittinstitusjon og er underlagt myndighetstilsyn i slik stat, ogsentralbanker og offisielle nasjonale og internasjonale institusjoner av bankmessig karakter.
+Som kredittinstitusjon regnes i denne forskrift
+
+1. banker og kredittforetak,
+2. foretak med hovedsete i annen EØS-stat som er gitt tillatelse til å drive virksomhet som kredittinstitusjon og er underlagt myndighetstilsyn i slik stat, og
+3. sentralbanker og offisielle nasjonale og internasjonale institusjoner av bankmessig karakter.
 
 Som noterte institusjoner regnes i denne forskrift institusjoner som har utstedt verdipapirer på regulert marked i en EØS-stat.
 
@@ -50,7 +61,10 @@ Med IAS og IFRS i denne forskrift menes internasjonale regnskapsstandarder innta
 
 Noterte institusjoner som har konsernregnskapsplikt, skal utarbeide konsernregnskap i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) første ledd.
 
-Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) tredje ledd første punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift. Bestemmelsene i kapittel 4 i denne forskrift gjelder ikke.
+Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:
+
+1. i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) tredje ledd første punktum, eller
+2. i samsvar med IFRS med mindre annet følger av denne forskrift. Bestemmelsene i kapittel 4 i denne forskrift gjelder ikke.
 
 Noterte institusjoner som ikke har konsernregnskapsplikt, skal utarbeide selskapsregnskap i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) tredje ledd annet punktum.
 
@@ -58,9 +72,15 @@ Noterte institusjoner som ikke har konsernregnskapsplikt, skal utarbeide selskap
 
 ### § 1-4. Regnskapsmodell øvrige institusjoner
 
-Institusjoner som ikke er noterte institusjoner skal utarbeide konsernregnskap:i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) fjerde ledd første punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift.
+Institusjoner som ikke er noterte institusjoner skal utarbeide konsernregnskap:
 
-Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) fjerde ledd annet punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift.
+1. i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) fjerde ledd første punktum, eller
+2. i samsvar med IFRS med mindre annet følger av denne forskrift.
+
+Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:
+
+1. i samsvar med IFRS, jf. [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) fjerde ledd annet punktum, eller
+2. i samsvar med IFRS med mindre annet følger av denne forskrift.
 
 > Tilføyd ved [forskrift 30 jan 2009 nr. 89](forskrift/2009-01-30-89) (fom regnskapsår 2009), endret ved [forskrifter 17 jan 2013 nr. 44](forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 1-3a), [20 des 2018 nr. 2206](forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).
 
@@ -780,7 +800,11 @@ Egne aksjer/egenkapitalbevis føres på egenkapitalpost 23.1.3 til pålydende ve
 
 ### § 7-2. Noteopplysninger i samsvar med IFRS
 
-Det skal gis opplysninger i noter i samsvar med krav i IFRS. Følgende krav etter IFRS om opplysninger i noter til årsregnskapet kan likevel fravikes:IFRS 13 under forutsetning av det gis opplysninger om virkelig verdi i samsvar med [§ 7-3](forskrift/1998-12-16-1240/§7-3)IFRS 15.113–128IAS 19.135 litra c og IAS 19.145–147.
+Det skal gis opplysninger i noter i samsvar med krav i IFRS. Følgende krav etter IFRS om opplysninger i noter til årsregnskapet kan likevel fravikes:
+
+1. IFRS 13 under forutsetning av det gis opplysninger om virkelig verdi i samsvar med [§ 7-3](forskrift/1998-12-16-1240/§7-3)
+2. IFRS 15.113–128
+3. IAS 19.135 litra c og IAS 19.145–147.
 
 Dersom adgangen i første ledd om å fravike enkelte notekrav i IFRS benyttes, skal det gis opplysninger om hvilke IFRS-krav som fravikes.
 
@@ -788,7 +812,11 @@ Dersom adgangen i første ledd om å fravike enkelte notekrav i IFRS benyttes, s
 
 ### § 7-3. Opplysninger om virkelig verdi
 
-For eiendeler og forpliktelser som måles til virkelig verdi skal det opplyses om:De verdsettingsmetodene og inndata som ble benyttet,Det nivået innenfor hierarkiet for virkelig verdi der målingen av virkelig verdi i sin helhet er kategorisert,Der målingen av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som er benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
+For eiendeler og forpliktelser som måles til virkelig verdi skal det opplyses om:
+
+1. De verdsettingsmetodene og inndata som ble benyttet,
+2. Det nivået innenfor hierarkiet for virkelig verdi der målingen av virkelig verdi i sin helhet er kategorisert,
+3. Der målingen av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som er benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
 
 > Tilføyd ved [forskrift 20 des 2018 nr. 2206](forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).
 

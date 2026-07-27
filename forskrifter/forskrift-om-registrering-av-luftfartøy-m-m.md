@@ -60,13 +60,34 @@ Forskriften kommer til anvendelse for sivile luftfartøyer. Forskriften gjelder 
 
 ### § 7. Vilkår for registrering når eier oppfyller kravene etter luftfartsloven § 3-2 første ledd, jf. § 16-1
 
-Når eier oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3-2) første ledd, jf. [§ 16-1](lov/1993-06-11-101/§16-1), er det et vilkår for registrering at følgende dokumentasjon fremlegges:Skjøte eller annet hjemmelsdokument som viser eierens adkomst til luftfartøyet. Hjemmelsdokumentet skal gi uttrykk for en ubetinget eiendomsoverdragelse eller eiendomsrett og inneholde:identifikasjon av luftfartøyet (registreringsmerke og/eller type og serienummer)kjøpers navn, adresse og fødsels- eller organisasjonsnummer.selgers navn, fødsels- eller organisasjonsnummer og underskrift. Er selger utenlandsk kreves ikke fødsels- eller organisasjonsnummer, men isteden opplysninger som nevnt i [§ 17](forskrift/2004-02-05-393/§17) annet ledd. Selgers underskrift skal bekreftes i henhold til [§ 20](forskrift/2004-02-05-393/§20).Identifikasjon av kjøper og selger.Er kjøper eller selger norsk privatperson, skal kopi av offentlig godkjent legitimasjon vedlegges, jf. [§ 17](forskrift/2004-02-05-393/§17) tredje ledd. Er kjøper utenlandsk, skal kopi av pass vedlegges og kopiens ekthet bekreftes i samsvar med [§ 20](forskrift/2004-02-05-393/§20) med unntak av bokstav a.Er kjøper eller selger en juridisk person, skal det vedlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd.Når kjøper er en juridisk person som ikke er tildelt norsk organisasjonsnummer, fremlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd. I tillegg vedlegges erklæring om at den juridiske personen er effektivt kontrollert av EØS-borgere. Erklæringen skal gis av den/de som tegner overfor tredjemann i slike saker og skal bekreftes i henhold til [§ 20](forskrift/2004-02-05-393/§20) med unntak av bokstav a.Er selger og/eller kjøper en offentlig etat, skal dokumentasjon på hvem som tegner etaten i slike saker vedlegges. Som eier anmerkes staten ved det organ eller den etat som forvalter eller disponerer luftfartøyet som hjemmelshaver.Er selger og/eller kjøper en flyklubb, skal klubblover og utskrift fra siste generalforsamling vedlegges. Er klubben tildelt norsk organisasjonsnummer, skal det i stedet fremlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd.Registreringsmyndigheten kan fravike reglene i nr. 2 og 5 når dette fremtrer som ubetenkelig.Attest fra forrige registreringsland. For luftfartøy som overføres fra et annet land, skal det vedlegges attest fra vedkommende lands luftfartøyregister som bekrefter at fartøyet er slettet eller ikke har vært innført. Attest om at fartøyet er slettet må inneholde opplysninger om slettelsesdato, om luftfartøyet er fritt for heftelser på slettelsestidspunktet og opplysninger om hvem som var sist registrerte eier.Inneholder vedkommende luftfartøyregister ikke slike opplysninger kan registreringsmyndigheten istedenfor godta en erklæring som gir status mht. de ovennevnte forhold. Erklæringen utstedes av advokat og skal i tillegg redegjøre for gjeldende rett i vedkommende land vedrørende disse rettsforhold. Denne erklæringen skal være bekreftet i henhold til [§ 20](forskrift/2004-02-05-393/§20). Attest eller erklæring vedrørende heftelser gjelder alle land som har tiltrådt og ratifisert Genève-konvensjonen av 19. juni 1948 nr. 1 (Convention on the International recognition of Rights in Aircraft).Luft- og miljødyktighetsbevis utstedt eller godkjent av Luftfartstilsynet.
+Når eier oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3-2) første ledd, jf. [§ 16-1](lov/1993-06-11-101/§16-1), er det et vilkår for registrering at følgende dokumentasjon fremlegges:
+
+1. Skjøte eller annet hjemmelsdokument som viser eierens adkomst til luftfartøyet. Hjemmelsdokumentet skal gi uttrykk for en ubetinget eiendomsoverdragelse eller eiendomsrett og inneholde:
+
+   1. identifikasjon av luftfartøyet (registreringsmerke og/eller type og serienummer)
+   2. kjøpers navn, adresse og fødsels- eller organisasjonsnummer.
+   3. selgers navn, fødsels- eller organisasjonsnummer og underskrift. Er selger utenlandsk kreves ikke fødsels- eller organisasjonsnummer, men isteden opplysninger som nevnt i [§ 17](forskrift/2004-02-05-393/§17) annet ledd. Selgers underskrift skal bekreftes i henhold til [§ 20](forskrift/2004-02-05-393/§20).
+2. Identifikasjon av kjøper og selger.
+
+   1. Er kjøper eller selger norsk privatperson, skal kopi av offentlig godkjent legitimasjon vedlegges, jf. [§ 17](forskrift/2004-02-05-393/§17) tredje ledd. Er kjøper utenlandsk, skal kopi av pass vedlegges og kopiens ekthet bekreftes i samsvar med [§ 20](forskrift/2004-02-05-393/§20) med unntak av bokstav a.
+   2. Er kjøper eller selger en juridisk person, skal det vedlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd.
+   3. Når kjøper er en juridisk person som ikke er tildelt norsk organisasjonsnummer, fremlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd. I tillegg vedlegges erklæring om at den juridiske personen er effektivt kontrollert av EØS-borgere. Erklæringen skal gis av den/de som tegner overfor tredjemann i slike saker og skal bekreftes i henhold til [§ 20](forskrift/2004-02-05-393/§20) med unntak av bokstav a.
+   4. Er selger og/eller kjøper en offentlig etat, skal dokumentasjon på hvem som tegner etaten i slike saker vedlegges. Som eier anmerkes staten ved det organ eller den etat som forvalter eller disponerer luftfartøyet som hjemmelshaver.
+   5. Er selger og/eller kjøper en flyklubb, skal klubblover og utskrift fra siste generalforsamling vedlegges. Er klubben tildelt norsk organisasjonsnummer, skal det i stedet fremlegges dokumentasjon i samsvar med [§ 17](forskrift/2004-02-05-393/§17) tredje ledd.
+   6. Registreringsmyndigheten kan fravike reglene i nr. 2 og 5 når dette fremtrer som ubetenkelig.
+3. Attest fra forrige registreringsland. For luftfartøy som overføres fra et annet land, skal det vedlegges attest fra vedkommende lands luftfartøyregister som bekrefter at fartøyet er slettet eller ikke har vært innført. Attest om at fartøyet er slettet må inneholde opplysninger om slettelsesdato, om luftfartøyet er fritt for heftelser på slettelsestidspunktet og opplysninger om hvem som var sist registrerte eier.
+
+   Inneholder vedkommende luftfartøyregister ikke slike opplysninger kan registreringsmyndigheten istedenfor godta en erklæring som gir status mht. de ovennevnte forhold. Erklæringen utstedes av advokat og skal i tillegg redegjøre for gjeldende rett i vedkommende land vedrørende disse rettsforhold. Denne erklæringen skal være bekreftet i henhold til [§ 20](forskrift/2004-02-05-393/§20). Attest eller erklæring vedrørende heftelser gjelder alle land som har tiltrådt og ratifisert Genève-konvensjonen av 19. juni 1948 nr. 1 (Convention on the International recognition of Rights in Aircraft).
+4. Luft- og miljødyktighetsbevis utstedt eller godkjent av Luftfartstilsynet.
 
 ### § 8. Vilkår for registrering når eier ikke oppfyller kravene etter luftfartsloven § 3-2 første ledd
 
 (1) Når eier ikke oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3-2) første ledd, skal det i tillegg til dokumentasjon som nevnt i § 7, med unntak av bokstav b nr. 3, fremlegges dokumentasjon på tilhørighet til Norge.
 
-(2) Eier anses blant annet å ha tilhørighet til Norge dersom:Eier er fysisk person bosatt i Norge, ellerFartøyet skal opereres av norsk lisensiert selskap i henhold til innleieavtale godkjent av Luftfartstilsynet.
+(2) Eier anses blant annet å ha tilhørighet til Norge dersom:
+
+1. Eier er fysisk person bosatt i Norge, eller
+2. Fartøyet skal opereres av norsk lisensiert selskap i henhold til innleieavtale godkjent av Luftfartstilsynet.
 
 (3) Dispensasjon fra [luftfartslovens § 3-2](lov/1993-06-11-101/§3-2) annet ledd må være gitt av Norges luftfartøyregister.
 
@@ -74,7 +95,13 @@ Når eier oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3
 
 (1) Norges luftfartøyregister utsteder nasjonalitets- og registreringsbevis for norskregistrerte luftfartøy, jf. [luftfartsloven § 3-12](lov/1993-06-11-101/§3-12).
 
-(2) Beviset skal inneholde følgende opplysninger:fartøyets nasjonalitets- og registreringsmerkefabrikant, type og serienummereiers navn og adressedato for innføring i Norges luftfartøyregisterutstedelsesdato og underskrift fra registreringsmyndigheten.
+(2) Beviset skal inneholde følgende opplysninger:
+
+1. fartøyets nasjonalitets- og registreringsmerke
+2. fabrikant, type og serienummer
+3. eiers navn og adresse
+4. dato for innføring i Norges luftfartøyregister
+5. utstedelsesdato og underskrift fra registreringsmyndigheten.
 
 (3) Originalt nasjonalitets- og registreringsbevis skal være om bord under flyging med mindre særskilt dispensasjon er gitt av Norges luftfartøyregister.
 
@@ -82,9 +109,17 @@ Når eier oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3
 
 (1) Foreløpig registrering etter [luftfartslovens § 3-9](lov/1993-06-11-101/§3-9) skjer etter søknad til Norges luftfartøyregister og foretas av norsk utenriksstasjon. Søknaden må være mottatt av Norges luftfartøyregister minimum 10 arbeidsdager før beregnet foreløpig registrering.
 
-(2) Søknaden skal inneholde:fabrikant, type og serienummer,ved hvilken utenriksstasjon og på hvilket tidspunkt foreløpig registrering skal skje,oversikt over de dokumenter rekvirenten vil fremlegge ved utenriksstasjonen og/eller direkte for registreringsmyndigheten, jf. tredje ledd.
+(2) Søknaden skal inneholde:
 
-(3) Nødvendig dokumentasjon etter annet ledd bokstav c er:skjøte eller annet hjemmelsdokument, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav a,slettelsesattest, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav c,luft- og miljødyktighetsbevis utstedt eller godkjent av Luftfartstilsynet.
+1. fabrikant, type og serienummer,
+2. ved hvilken utenriksstasjon og på hvilket tidspunkt foreløpig registrering skal skje,
+3. oversikt over de dokumenter rekvirenten vil fremlegge ved utenriksstasjonen og/eller direkte for registreringsmyndigheten, jf. tredje ledd.
+
+(3) Nødvendig dokumentasjon etter annet ledd bokstav c er:
+
+1. skjøte eller annet hjemmelsdokument, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav a,
+2. slettelsesattest, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav c,
+3. luft- og miljødyktighetsbevis utstedt eller godkjent av Luftfartstilsynet.
 
 (4) Dersom dispensasjon fra [luftfartslovens § 3-2](lov/1993-06-11-101/§3-2) annet ledd er påkrevet, må søknad om dette være mottatt av Norges luftfartøyregister senest sammen med søknaden om foreløpig registering.
 
@@ -94,15 +129,28 @@ Når eier oppfyller kravene etter [luftfartsloven § 3-2](lov/1993-06-11-101/§3
 
 (2) Midlertidig nasjonalitets- og registreringsbevis utstedes av norsk utenriksstasjon etter bemyndigelse fra Utenriksdepartementet i henhold til anmodning fra Norges luftfartøyregister.
 
-(3) Beviset skal inneholde følgende opplysninger:nasjonalitets- og registreringsmerke,fabrikant, type og serienummer,eiers navn og adresse,at det kun er gyldig for hjemflyging til en spesifisert destinasjon,utstedelsesdato og underskrift fra utstedende myndighet.
+(3) Beviset skal inneholde følgende opplysninger:
+
+1. nasjonalitets- og registreringsmerke,
+2. fabrikant, type og serienummer,
+3. eiers navn og adresse,
+4. at det kun er gyldig for hjemflyging til en spesifisert destinasjon,
+5. utstedelsesdato og underskrift fra utstedende myndighet.
 
 (4) Originalt midlertidig nasjonalitets- og registreringsbevis skal være om bord under flyging.
 
 ### § 12. Foreløpig registrering av luftfartøy under bygging
 
-(1) Søknad om foreløpig registrering av luftfartøy etter [luftfartslovens § 3-10](lov/1993-06-11-101/§3-10) skal inneholde:fabrikant, type og serienummer,eiers navn, adresse og fødsels- eller organisasjonsnummer.
+(1) Søknad om foreløpig registrering av luftfartøy etter [luftfartslovens § 3-10](lov/1993-06-11-101/§3-10) skal inneholde:
 
-(2) Nødvendig dokumentasjon som skal følge søknaden er:skjøte eller annet hjemmelsdokument, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav a,identifikasjon av eier, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav b,særskilt flygetillatelse utstedt av norsk luftfartsmyndighet.
+1. fabrikant, type og serienummer,
+2. eiers navn, adresse og fødsels- eller organisasjonsnummer.
+
+(2) Nødvendig dokumentasjon som skal følge søknaden er:
+
+1. skjøte eller annet hjemmelsdokument, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav a,
+2. identifikasjon av eier, jf. [§ 7](forskrift/2004-02-05-393/§7) bokstav b,
+3. særskilt flygetillatelse utstedt av norsk luftfartsmyndighet.
 
 ### § 13. Utstedelse av midlertidig nasjonalitets- og registreringsbevis for luftfartøy under bygging
 
@@ -110,13 +158,29 @@ For luftfartøy foreløpig registrert etter [§ 12](forskrift/2004-02-05-393/§1
 
 ### § 14. Tildeling av registreringsmerke
 
-Registreringsmerke tildeles av Norges luftfartøyregister etter følgende regler:Registreringsmerke er en kombinasjon av tre bokstaver som settes etter nasjonalitetsmerket LN-. Bokstavene Æ, Ø og Å kan ikke benyttes.Registreringsmerke tildeles i alfabetisk rekkefølge. Når rekvirenten kan dokumentere at flere fartøy skal registreres kan Norges luftfartøyregister gjøre unntak fra denne bestemmelsen. Når rekvirenten selv reserverer registreringsmerke, kan kombinasjon velges fritt.Glidere skal tildeles registreringsmerke der første bokstav er G.Helikoptre skal tildeles registreringsmerke der første bokstav er O.Ballonger skal tildeles registreringsmerke der første bokstav er C.Registreringsmerke reserveres for ett år av gangen.Registreringsmerke som blir ledig når et fartøy slettes, skal ikke benyttes på minst 3 år.Registreringsmerket følger luftfartøyet til det blir slettet i Norges luftfartøyregister. Ved eventuell gjeninnføring i luftfartøyregisteret skal fartøyet, uavhengig av det som er bestemt ovenfor, tildeles det gamle registreringsmerket hvis det er ledig.
+Registreringsmerke tildeles av Norges luftfartøyregister etter følgende regler:
+
+1. Registreringsmerke er en kombinasjon av tre bokstaver som settes etter nasjonalitetsmerket LN-. Bokstavene Æ, Ø og Å kan ikke benyttes.
+2. Registreringsmerke tildeles i alfabetisk rekkefølge. Når rekvirenten kan dokumentere at flere fartøy skal registreres kan Norges luftfartøyregister gjøre unntak fra denne bestemmelsen. Når rekvirenten selv reserverer registreringsmerke, kan kombinasjon velges fritt.
+3. Glidere skal tildeles registreringsmerke der første bokstav er G.
+4. Helikoptre skal tildeles registreringsmerke der første bokstav er O.
+5. Ballonger skal tildeles registreringsmerke der første bokstav er C.
+6. Registreringsmerke reserveres for ett år av gangen.
+7. Registreringsmerke som blir ledig når et fartøy slettes, skal ikke benyttes på minst 3 år.
+8. Registreringsmerket følger luftfartøyet til det blir slettet i Norges luftfartøyregister. Ved eventuell gjeninnføring i luftfartøyregisteret skal fartøyet, uavhengig av det som er bestemt ovenfor, tildeles det gamle registreringsmerket hvis det er ledig.
 
 ### § 15. Innføring i dagbok
 
 (1) Dokumenter som dagbokføres etter [luftfartsloven § 3-17](lov/1993-06-11-101/§3-17) annet ledd, skal påføres dagbokdato og dagboknummer. Dagbokdato er den datoen dokumentet kommer inn til registreringsmyndigheten. Kommer dokumentet inn etter ekspedisjonstiden, jf. [§ 5](forskrift/2004-02-05-393/§5), settes dagbokdatoen til neste virkedag. Dagboknummer tildeles løpende for kalenderåret.
 
-(2) I dagboken innføres ett kort utdrag av det dagbokførte dokumentet. Utdraget skal angi:fartøyets nasjonalitets- og registreringsmerke,dagbokdato,dagboknummer,de rettsstiftelser dokumentet inneholder,hva det stiftes rett i, ogtilstrekkelige opplysninger for Riksrevisjonens gebyrberegning.
+(2) I dagboken innføres ett kort utdrag av det dagbokførte dokumentet. Utdraget skal angi:
+
+1. fartøyets nasjonalitets- og registreringsmerke,
+2. dagbokdato,
+3. dagboknummer,
+4. de rettsstiftelser dokumentet inneholder,
+5. hva det stiftes rett i, og
+6. tilstrekkelige opplysninger for Riksrevisjonens gebyrberegning.
 
 (3) Gjenpart av dagbokførte dokumenter skal påføres samme dagbokdato og dagboknummer som originaldokumentet.
 
@@ -144,9 +208,21 @@ Når vilkårene for registrering foreligger føres det dagbokførte dokument på
 
 (1) Ved registrering av eiendomsdokumenter i Norges luftfartøyregister, bør det benyttes standardisert oppsett fastsatt eller godkjent av Luftfartstilsynet. Dokumentet skal inneholde opplysninger i samsvar med [§ 7](forskrift/2004-02-05-393/§7).
 
-(2) Pantedokumenter skal inneholde:identifikasjon av fartøyet (registreringsmerke og/eller type og serienummer),pantsetters navn, fødselsnummer eller organisasjonsnummer,panthavers navn,beløp og valuta,underskrift av pantsetter.
+(2) Pantedokumenter skal inneholde:
 
-(3) Leieavtaler skal inneholde:identifikasjon av fartøyet (registreringsmerke og/eller type og serienummer),leietakers navn,utleiers navn,leieperiode dersom den ønskes registrert,underskrift av registrert eier. Hvis registrert eier er utenlandsk, skal underskriften bekreftes i samsvar med [§ 20](forskrift/2004-02-05-393/§20).
+1. identifikasjon av fartøyet (registreringsmerke og/eller type og serienummer),
+2. pantsetters navn, fødselsnummer eller organisasjonsnummer,
+3. panthavers navn,
+4. beløp og valuta,
+5. underskrift av pantsetter.
+
+(3) Leieavtaler skal inneholde:
+
+1. identifikasjon av fartøyet (registreringsmerke og/eller type og serienummer),
+2. leietakers navn,
+3. utleiers navn,
+4. leieperiode dersom den ønskes registrert,
+5. underskrift av registrert eier. Hvis registrert eier er utenlandsk, skal underskriften bekreftes i samsvar med [§ 20](forskrift/2004-02-05-393/§20).
 
 ### § 19. Dokumenter på fremmed språk
 
@@ -156,7 +232,13 @@ Når vilkårene for registrering foreligger føres det dagbokførte dokument på
 
 ### § 20. Bekreftelse av underskrift
 
-(1) Når underskrift skal være bekreftet etter [luftfartsloven § 3-18](lov/1993-06-11-101/§3-18) annet ledd, kan bekreftelse gis av:to myndige vitner bosatt i Norge,norsk dommer eller dommerfullmektig,norsk advokat eller autorisert advokatfullmektig,norsk Notarius Publicus. Norsk Notarius Publicus omfatter også norsk utenrikstjenestemann i utlandet, for så vidt han er kompetent til å utføre notarialforretninger, jf. [lov av 3. mai 2002 nr. 13](lov/2002-05-03-13) om utenrikstjenesten [§ 16](lov/2002-05-03-13/§16) første ledd, ellerutenlandsk Notarius Publicus. For utenlandsk Notarius Publicus beror det på vedkommende lands lovgivning hvilke stedlige myndigheter som er tillagt notarialfunksjoner.
+(1) Når underskrift skal være bekreftet etter [luftfartsloven § 3-18](lov/1993-06-11-101/§3-18) annet ledd, kan bekreftelse gis av:
+
+1. to myndige vitner bosatt i Norge,
+2. norsk dommer eller dommerfullmektig,
+3. norsk advokat eller autorisert advokatfullmektig,
+4. norsk Notarius Publicus. Norsk Notarius Publicus omfatter også norsk utenrikstjenestemann i utlandet, for så vidt han er kompetent til å utføre notarialforretninger, jf. [lov av 3. mai 2002 nr. 13](lov/2002-05-03-13) om utenrikstjenesten [§ 16](lov/2002-05-03-13/§16) første ledd, eller
+5. utenlandsk Notarius Publicus. For utenlandsk Notarius Publicus beror det på vedkommende lands lovgivning hvilke stedlige myndigheter som er tillagt notarialfunksjoner.
 
 (2) Når et dokument signeres på vegne av utenlandsk juridisk person, skal det også bekreftes at den eller de som signerer har myndighet til å forplikte vedkommende juridiske person i slike saker. Bekreftelsen skal gis av personer som nevnt i første ledd bokstav b til e.
 

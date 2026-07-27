@@ -15,7 +15,7 @@ xml_hash: "cdf8b16c05ebda36145d424de8acea946bf9d7b3fa7d6cacef25e0b5b28da156"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ Skattekontoret er registermyndighet i første instans. Skattedirektoratet er sen
 
 ### § 2-1. Hvem som skal registreres
 
-I Folkeregisteret registreres alle personer som:er eller har vært bosatt i Norge,er født i Norge ellerhar fått tildelt fødselsnummer eller d-nummer.
+I Folkeregisteret registreres alle personer som:
+
+1. er eller har vært bosatt i Norge,
+2. er født i Norge eller
+3. har fått tildelt fødselsnummer eller d-nummer.
 
 ### § 2-2. Identifikasjonsnummer
 
@@ -62,7 +66,32 @@ Departementet kan gi forskrift om oppbygging av individ- og kontrollsiffer, hvem
 
 ### § 3-1. Hvilke opplysninger som kan registreres
 
-Til hvert enkelt fødselsnummer eller d-nummer kan følgende opplysninger registreres:navnfødselsdatokjønnadresserelektronisk kontaktinformasjonkontaktopplysninger for dødsbofødestedstatsborgerskapforeldreektefelle eller registrert partnersivilstandbarnforeldreansvaradopsjonfamilienummertilknytning til Sametingets valgmanntallsamiske språkvergemålstadfestet fremtidsfullmaktoppholdsstatusutenlandsk identifikasjonsnummerutlendingsmyndighetenes identifikasjonsnummerregistreringsstatusdødsdato
+Til hvert enkelt fødselsnummer eller d-nummer kan følgende opplysninger registreres:
+
+1. navn
+2. fødselsdato
+3. kjønn
+4. adresser
+5. elektronisk kontaktinformasjon
+6. kontaktopplysninger for dødsbo
+7. fødested
+8. statsborgerskap
+9. foreldre
+10. ektefelle eller registrert partner
+11. sivilstand
+12. barn
+13. foreldreansvar
+14. adopsjon
+15. familienummer
+16. tilknytning til Sametingets valgmanntall
+17. samiske språk
+18. vergemål
+19. stadfestet fremtidsfullmakt
+20. oppholdsstatus
+21. utenlandsk identifikasjonsnummer
+22. utlendingsmyndighetenes identifikasjonsnummer
+23. registreringsstatus
+24. dødsdato
 
 I tilknytning til den enkelte opplysning kan det registreres merknader. Historiske opplysninger kan bevares i registeret.
 
@@ -106,7 +135,13 @@ En person som trenger oppholdstillatelse, kan ikke registreres som bosatt før d
 
 ### § 4-3. Utflytting
 
-En person som flytter til et land utenfor Norden for å bosette seg der, registreres som utflyttet. Forhold som skal vektlegges for å anse en person som utflyttet, er blant annet om vedkommende:har egen selvstendig bolig i innflyttingslandetikke lenger disponerer fast bolig i norsk kommuneikke lenger har arbeidsmessig tilknytning til en norsk kommuneikke har ektefelle eller barn i en norsk kommuneikke har annet enn sporadiske opphold i en norsk kommune i løpet av året.
+En person som flytter til et land utenfor Norden for å bosette seg der, registreres som utflyttet. Forhold som skal vektlegges for å anse en person som utflyttet, er blant annet om vedkommende:
+
+1. har egen selvstendig bolig i innflyttingslandet
+2. ikke lenger disponerer fast bolig i norsk kommune
+3. ikke lenger har arbeidsmessig tilknytning til en norsk kommune
+4. ikke har ektefelle eller barn i en norsk kommune
+5. ikke har annet enn sporadiske opphold i en norsk kommune i løpet av året.
 
 Utenlandsk statsborger som ikke lenger har lovlig opphold i en norsk kommune, registreres som utflyttet i henhold til melding fra utlendingsmyndighetene.
 
@@ -314,7 +349,13 @@ Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf
 
 ### § 10-7. Attester
 
-Registermyndigheten kan utstede:bostedsattest til en person som er registrert som bosatt i Norgefødselsattest til en person som er født eller adoptert i Norgeprøvingsattest, jf. [ekteskapsloven § 10](lov/1991-07-04-47/§10)attest til bruk for ekteskapsinngåelse etter utenlandsk rettvigselsattest.
+Registermyndigheten kan utstede:
+
+1. bostedsattest til en person som er registrert som bosatt i Norge
+2. fødselsattest til en person som er født eller adoptert i Norge
+3. prøvingsattest, jf. [ekteskapsloven § 10](lov/1991-07-04-47/§10)
+4. attest til bruk for ekteskapsinngåelse etter utenlandsk rett
+5. vigselsattest.
 
 Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, og fastsette unntak.
 
@@ -330,7 +371,11 @@ Registermyndigheten kan om nødvendig kreve politiets bistand til å innhente op
 
 ### § 11-2. Kontroll av bostedsadresse
 
-Dersom registermyndigheten har mistanke om at en registrert bostedsadresse er feil, eller at et oppgitt bosted i flyttemelding er feil, kan denbe om en nærmere redegjørelse fra vedkommende selv om dennes bostedsforholdinnhente opplysninger fra en huseier eller utleier om hvem som bor eller oppholder seg på eiendommeninnhente opplysninger fra posttilbyder, ekomtilbyder, nettselskap og strømleverandør om vedkommendes kundeforhold.
+Dersom registermyndigheten har mistanke om at en registrert bostedsadresse er feil, eller at et oppgitt bosted i flyttemelding er feil, kan den
+
+1. be om en nærmere redegjørelse fra vedkommende selv om dennes bostedsforhold
+2. innhente opplysninger fra en huseier eller utleier om hvem som bor eller oppholder seg på eiendommen
+3. innhente opplysninger fra posttilbyder, ekomtilbyder, nettselskap og strømleverandør om vedkommendes kundeforhold.
 
 For å avdekke feil i bostedsregistreringen, kan registermyndigheten innhente opplysninger fra posttilbyder om et antall registrerte personer for elektronisk sammenligning med opplysninger i registeret. Opplysninger innhentet ved slik masseinnhenting skal slettes så snart kontrollen er gjennomført.
 
@@ -338,7 +383,11 @@ For å avdekke feil i bostedsregistreringen, kan registermyndigheten innhente op
 
 ### § 12-1. Overtredelsesgebyr
 
-Registermyndigheten kan ilegge overtredelsesgebyr overfor:den som ikke oppfyller sin opplysningsplikt etter [§ 11-1](lov/2016-12-09-88/§11-1),den som ikke oppfyller sin opplysningsplikt etter [§ 11-2](lov/2016-12-09-88/§11-2) bokstav b og c ogden som bryter vilkår for utlevering av opplysninger etter [kapittel 10](lov/2016-12-09-88/kap10).
+Registermyndigheten kan ilegge overtredelsesgebyr overfor:
+
+1. den som ikke oppfyller sin opplysningsplikt etter [§ 11-1](lov/2016-12-09-88/§11-1),
+2. den som ikke oppfyller sin opplysningsplikt etter [§ 11-2](lov/2016-12-09-88/§11-2) bokstav b og c og
+3. den som bryter vilkår for utlevering av opplysninger etter [kapittel 10](lov/2016-12-09-88/kap10).
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
 

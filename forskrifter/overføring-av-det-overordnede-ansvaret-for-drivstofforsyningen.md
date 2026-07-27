@@ -28,4 +28,12 @@ Det overordnede ansvaret for drivstofforsyningen overføres fra Olje- og energid
 
 Det overordnede ansvaret for drivstofforsyningen overføres fra Olje- og energidepartementet til Nærings- og fiskeridepartementet 1. januar 2017 i samsvar med punkt 1 i denne kongelige resolusjonen.
 
-Følgende lover og forskrifter overføres til NFD 1. januar 2017:[Lov 18. august 2006 nr. 61](lov/2006-08-18-61) om beredskapslagring av petroleumsprodukt[Forskrift 1. september 2006 nr. 1019](forskrift/2006-09-01-1019) om beredskapslagring av petroleumsprodukt[Lov 31. mars 1949 nr. 3](lov/1949-03-31-3) om bygging og sikring av drivstoffanlegg[Forskrift 28. april 1992 nr. 4070](forskrift/1992-04-28-4070) om adgang til sikrede drivstoffanlegg[Forskrift 10. desember 1982 nr. 4071](forskrift/1982-12-10-4071) om sammenslåing av Drivstofforsyningsrådet og det Rådgivende utvalg for oljeforsyningskriser i fredstid til Oljeberedskapsrådet.
+Følgende lover og forskrifter overføres til NFD 1. januar 2017:
+
+1. [Lov 18. august 2006 nr. 61](lov/2006-08-18-61) om beredskapslagring av petroleumsprodukt
+
+   - [Forskrift 1. september 2006 nr. 1019](forskrift/2006-09-01-1019) om beredskapslagring av petroleumsprodukt
+2. [Lov 31. mars 1949 nr. 3](lov/1949-03-31-3) om bygging og sikring av drivstoffanlegg
+
+   - [Forskrift 28. april 1992 nr. 4070](forskrift/1992-04-28-4070) om adgang til sikrede drivstoffanlegg
+   - [Forskrift 10. desember 1982 nr. 4071](forskrift/1982-12-10-4071) om sammenslåing av Drivstofforsyningsrådet og det Rådgivende utvalg for oljeforsyningskriser i fredstid til Oljeberedskapsrådet.

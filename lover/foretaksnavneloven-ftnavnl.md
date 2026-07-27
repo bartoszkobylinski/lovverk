@@ -15,7 +15,7 @@ xml_hash: "d277547a17423b45ce02841adf330cc88b4cb3ce816861480e678a3324ad9d98"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,15 @@ Et foretaksnavn må ikke stride mot lov, offentlig orden eller moral.
 
 ### § 2-6
 
-Såfremt det ikke foreligger samtykke fra vedkommende rettighetshaver, må et foretaksnavn ikke:inneholde noe som er egnet til å oppfattes som annens navn, kunstnernavn eller lignende, med mindre det åpenbart siktes til en forlengst avdød person;inneholde noe som er egnet til å oppfattes som alminnelig kjent navn på en stiftelse, ideell forening eller lignende sammenslutning;inneholde noe som er egnet til å oppfattes som den særpregede tittel på en annens vernede åndsverk, eller som særskilt laget navn i slikt verk, hvis navnet er blitt alminnelig kjent;krenke en annens rett her i riket til et varemerke, foretaksnavn eller sekundært forretningskjennetegn;inneholde særegent navn på annens faste eiendom, eller noe som kan forveksles med det.Et foretaksnavn må ikke søkes registrert i ond tro.
+Såfremt det ikke foreligger samtykke fra vedkommende rettighetshaver, må et foretaksnavn ikke:
+
+1. inneholde noe som er egnet til å oppfattes som annens navn, kunstnernavn eller lignende, med mindre det åpenbart siktes til en forlengst avdød person;
+2. inneholde noe som er egnet til å oppfattes som alminnelig kjent navn på en stiftelse, ideell forening eller lignende sammenslutning;
+3. inneholde noe som er egnet til å oppfattes som den særpregede tittel på en annens vernede åndsverk, eller som særskilt laget navn i slikt verk, hvis navnet er blitt alminnelig kjent;
+4. krenke en annens rett her i riket til et varemerke, foretaksnavn eller sekundært forretningskjennetegn;
+5. inneholde særegent navn på annens faste eiendom, eller noe som kan forveksles med det.
+
+Et foretaksnavn må ikke søkes registrert i ond tro.
 
 > Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
@@ -148,7 +156,11 @@ For et foretaksnavn som er velkjent her i riket, innebærer eneretten etter før
 
 Rett til et foretaksnavn etter [§ 3-2](lov/1985-06-21-79/§3-2) gir ikke selvstendig beskyttelse for deler av navnet som ikke oppfyller de krav til særpreg som gjelder etter [varemerkeloven § 14](lov/2010-03-26-8/§14).
 
-Retten er ikke til hinder for at noen i samsvar med god forretningsskikk bruker:sitt navn eller sin adresse,angivelser om virksomhetens art eller angivelser som gjelder en i virksomheten utbudt vare eller tjenestes art, beskaffenhet, mengde, formål, verdi, geografiske opprinnelse eller andre egenskaper eller tidspunkt for når varen er fremstilt eller tjenesten utført,et allment benyttet stedsnavn.
+Retten er ikke til hinder for at noen i samsvar med god forretningsskikk bruker:
+
+1. sitt navn eller sin adresse,
+2. angivelser om virksomhetens art eller angivelser som gjelder en i virksomheten utbudt vare eller tjenestes art, beskaffenhet, mengde, formål, verdi, geografiske opprinnelse eller andre egenskaper eller tidspunkt for når varen er fremstilt eller tjenesten utført,
+3. et allment benyttet stedsnavn.
 
 > Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
@@ -170,7 +182,12 @@ For å unngå forvekslingsfare i tilfelle som nevnt i første ledd, kan retten b
 
 Enhver med rettslig interesse som mener at et registrert foretaksnavn strider mot [§§ 2-3](lov/1985-06-21-79/§2-3), [2-5](lov/1985-06-21-79/§2-5) eller [2-6](lov/1985-06-21-79/§2-6), kan kreve at registreringen oppheves ved administrativ overprøving. Kravet må fremmes innen 3 år etter at registreringsvedtaket er fattet.
 
-Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret og inneholdenavn og adresse på den som fremsetter kravet,foretaksnavnet som kreves overprøvd (med organisasjonsnummer),hvilke grunner kravet bygger på,nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret og inneholde
+
+1. navn og adresse på den som fremsetter kravet,
+2. foretaksnavnet som kreves overprøvd (med organisasjonsnummer),
+3. hvilke grunner kravet bygger på,
+4. nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
 
 Det skal betales fastsatt gebyr, ellers anses kravet om administrativ overprøving som ikke innkommet.
 
@@ -204,7 +221,12 @@ Hvis et eldre varemerke eller foretaksnavn bare har vært i reell bruk for deler
 
 ### § 3-7
 
-Vedtak etter [§ 3-6](lov/1985-06-21-79/§3-6), herunder i sak om innsyn etter [§ 3-6](lov/1985-06-21-79/§3-6) åttende ledd, kan påklages til Klagenemnden for industrielle rettigheter (Klagenemnden) av den som vedtaket har gått imot. En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal inneholdeklagerens navn og adresse,avgjørelsen som det klages over,hvilken endring som ønskes i avgjørelsen,hvilke grunner klager bygger på.
+Vedtak etter [§ 3-6](lov/1985-06-21-79/§3-6), herunder i sak om innsyn etter [§ 3-6](lov/1985-06-21-79/§3-6) åttende ledd, kan påklages til Klagenemnden for industrielle rettigheter (Klagenemnden) av den som vedtaket har gått imot. En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal inneholde
+
+1. klagerens navn og adresse,
+2. avgjørelsen som det klages over,
+3. hvilken endring som ønskes i avgjørelsen,
+4. hvilke grunner klager bygger på.
 
 Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
 

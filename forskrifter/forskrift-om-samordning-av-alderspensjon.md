@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder samordning av alderspensjon fra offentlig tjenestepensjonsordning som gis før fylte 67 år med uføretrygd fra folketrygden. Forskriften omfatter tilfeller der:alderspensjonen ved aldersgrensen avløser en uførepensjon fra offentlig tjenestepensjonsordning,uførepensjonen var innvilget med virkningstidspunkt før 1. januar 2015, oguførepensjonen per 31. desember 2014 var samordnet med uførepensjon fra folketrygden.
+Forskriften gjelder samordning av alderspensjon fra offentlig tjenestepensjonsordning som gis før fylte 67 år med uføretrygd fra folketrygden. Forskriften omfatter tilfeller der:
+
+1. alderspensjonen ved aldersgrensen avløser en uførepensjon fra offentlig tjenestepensjonsordning,
+2. uførepensjonen var innvilget med virkningstidspunkt før 1. januar 2015, og
+3. uførepensjonen per 31. desember 2014 var samordnet med uførepensjon fra folketrygden.
 
 Forskriften gjelder også samordning av bruttoberegnet enke- og enkemannspensjon som omfattes av [samordningsloven § 3 andre ledd](lov/1957-07-06-26/§3/ledd/2) når slik pensjon ytes i tillegg til ytelsene som nevnt i første ledd og var innvilget med virkningstidspunkt før 1. januar 2015.
 
@@ -36,7 +40,10 @@ Forskriften gjelder for personer som når aldersgrensen for stillingen før år 
 
 Samordningsfradraget i alderspensjon som nevnt i [§ 1](forskrift/2015-12-01-1374/§1) fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.
 
-Til grunn for samordningen skal leggespensjonsgrunnlag, tjenestetid, pensjonsgrad og deltidsprosent som alderspensjonen er beregnet etter oguførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014.
+Til grunn for samordningen skal legges
+
+1. pensjonsgrunnlag, tjenestetid, pensjonsgrad og deltidsprosent som alderspensjonen er beregnet etter og
+2. uførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014.
 
 Samordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.
 
@@ -48,7 +55,10 @@ Dersom enke- og enkemannspensjonen reguleres etter [lov om Statens pensjonskasse
 
 Samordningsfradraget i enke- og enkemannspensjonen som nevnt i første og andre ledd fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.
 
-Til grunn for samordningen skal leggesuførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014 ogsamordningsfradraget i alderspensjonen etter [§ 2](forskrift/2015-12-01-1374/§2).
+Til grunn for samordningen skal legges
+
+1. uførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014 og
+2. samordningsfradraget i alderspensjonen etter [§ 2](forskrift/2015-12-01-1374/§2).
 
 Samordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.
 

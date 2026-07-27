@@ -24,7 +24,9 @@ eu_basis: []
 
 ## I
 
-Energidepartementet delegeres myndighet etter følgende bestemmelse i [lov 4. juni 2010 nr. 21](lov/2010-06-04-21) om fornybar energiproduksjon til havs:§ 1-2 sjette ledd (myndighet til i det enkelte tilfelle å avgrense bruken av hele eller deler av loven når det det gjelder innretninger, formål eller virksomhet til havs som er omfattet av annen lov).
+Energidepartementet delegeres myndighet etter følgende bestemmelse i [lov 4. juni 2010 nr. 21](lov/2010-06-04-21) om fornybar energiproduksjon til havs:
+
+- § 1-2 sjette ledd (myndighet til i det enkelte tilfelle å avgrense bruken av hele eller deler av loven når det det gjelder innretninger, formål eller virksomhet til havs som er omfattet av annen lov).
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 

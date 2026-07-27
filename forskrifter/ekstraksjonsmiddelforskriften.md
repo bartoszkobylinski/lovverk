@@ -15,7 +15,7 @@ xml_hash: "931dc0d974a09916538177bbbb00b7701e40885ccbae68ebcbbf6bc6b7895fc9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Forskriften innskrenker ikke mer detaljerte eller omfattende bestemmelser om far
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås vedoppløsningsmiddel: ethvert stoff som kan løse opp næringsmidler eller enhver bestanddel som inngår i et næringsmiddel, herunder ethvert forurensende stoff som finnes i eller på det aktuelle næringsmiddel.ekstraksjonsmiddel: et oppløsningsmiddel som brukes i en ekstraksjonsprosess under bearbeiding av råstoffer, næringsmidler eller bestanddeler og ingredienser av slike, og som fjernes, men som kan resultere i utilsiktede, men teknisk uungåelige rester av stoffene eller deres derivater i næringsmiddelet eller næringsmiddelingrediensen.
+I denne forskrift forstås ved
+
+1. oppløsningsmiddel: ethvert stoff som kan løse opp næringsmidler eller enhver bestanddel som inngår i et næringsmiddel, herunder ethvert forurensende stoff som finnes i eller på det aktuelle næringsmiddel.
+2. ekstraksjonsmiddel: et oppløsningsmiddel som brukes i en ekstraksjonsprosess under bearbeiding av råstoffer, næringsmidler eller bestanddeler og ingredienser av slike, og som fjernes, men som kan resultere i utilsiktede, men teknisk uungåelige rester av stoffene eller deres derivater i næringsmiddelet eller næringsmiddelingrediensen.
 
 > Endret ved [forskrift 2 mai 2011 nr. 434](forskrift/2011-05-02-434).
 
@@ -56,7 +59,13 @@ Ekstraksjonsmidler skal oppfylle identitetskrav angitt i vedlegg I-III.
 
 ## § 5. Merking
 
-Ved omsetning av ekstraksjonsmidler skal emballasjen være merket med følgende opplysninger på en lett synlig, lett leselig og uutslettelig måte:Varebetegnelse i samsvar med vedlegg I-III, og en klar opplysning om at produktet er av en slik kvalitet at det er egnet som ekstraksjonsmiddel ved fremstilling av næringsmidler og næringsmiddelingredienser.Nettovolum.Spesielle vilkår for oppbevaring og bruk, om nødvendig.Navn eller firmanavn, og adresse til enten produsent, pakkevirksomhet eller en forhandler som er etablert innen EØS.Angivelse som gjør det mulig å identifisere varepartiet.
+Ved omsetning av ekstraksjonsmidler skal emballasjen være merket med følgende opplysninger på en lett synlig, lett leselig og uutslettelig måte:
+
+1. Varebetegnelse i samsvar med vedlegg I-III, og en klar opplysning om at produktet er av en slik kvalitet at det er egnet som ekstraksjonsmiddel ved fremstilling av næringsmidler og næringsmiddelingredienser.
+2. Nettovolum.
+3. Spesielle vilkår for oppbevaring og bruk, om nødvendig.
+4. Navn eller firmanavn, og adresse til enten produsent, pakkevirksomhet eller en forhandler som er etablert innen EØS.
+5. Angivelse som gjør det mulig å identifisere varepartiet.
 
 Det er tilstrekkelig at opplysningene i første ledd nr. 2, 3, 4 og 5 gis i handelsdokumentene dersom disse er kjøper i hende senest samtidig med vareleveransen.
 

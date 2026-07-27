@@ -22,8 +22,17 @@ eu_basis: []
 
 # Delegering av forskriftskompetanse til Miljødirektoratet etter produktkontrolloven og forurensningsloven
 
-Klima- og miljødepartementets myndighet etter produktkontrolloven og forurensningsloven til å endre følgende forskrifter delegeres til Miljødirektoratet:[forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikaler (REACH-forskriften)[forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)[forskrift 18. november 2013 nr. 1403](forskrift/2013-11-18-1403) om sikkerhet ved leketøy (lektøyforskriften)[forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider.
+Klima- og miljødepartementets myndighet etter produktkontrolloven og forurensningsloven til å endre følgende forskrifter delegeres til Miljødirektoratet:
 
-Miljødirektoratet delegeres også myndighet etter produktkontrolloven tilå fastsette, endre eller oppheve bestemmelser i forskrift 1. juni 2004 nr. 922 om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter ([produktforskriften) kapittel 2](forskrift/2004-06-01-922/kap2) for å gjennomføre EU-rettsakter i norsk rett som endrer eller utfyller eksisterende EU-rettsakter som allerede er gjennomført i norsk rett i de ovennevnte kapitelene i forskriftenå endre [produktforskriften § 2-30](forskrift/2004-06-01-922/§2-30)å fastsette, endre eller oppheve bestemmelser i [produktforskriften kapittel 2a](forskrift/2004-06-01-922/kap2a) og 4.
+1. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikaler (REACH-forskriften)
+2. [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)
+3. [forskrift 18. november 2013 nr. 1403](forskrift/2013-11-18-1403) om sikkerhet ved leketøy (lektøyforskriften)
+4. [forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider.
+
+Miljødirektoratet delegeres også myndighet etter produktkontrolloven til
+
+1. å fastsette, endre eller oppheve bestemmelser i forskrift 1. juni 2004 nr. 922 om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter ([produktforskriften) kapittel 2](forskrift/2004-06-01-922/kap2) for å gjennomføre EU-rettsakter i norsk rett som endrer eller utfyller eksisterende EU-rettsakter som allerede er gjennomført i norsk rett i de ovennevnte kapitelene i forskriften
+2. å endre [produktforskriften § 2-30](forskrift/2004-06-01-922/§2-30)
+3. å fastsette, endre eller oppheve bestemmelser i [produktforskriften kapittel 2a](forskrift/2004-06-01-922/kap2a) og 4.
 
 > Endret ved vedtak [1 juli 2021 nr. 2334](forskrift/2021-07-01-2334).

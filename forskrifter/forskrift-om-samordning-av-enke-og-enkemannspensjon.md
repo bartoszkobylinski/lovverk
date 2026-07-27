@@ -32,7 +32,10 @@ Forskriften gir regler om begrensning av samordningsfradrag etter [samordningslo
 
 Når uførepensjonen eller alderspensjonen er beregnet etter full tjenestetid begrenses samordningsfradraget for folketrygden i enke- eller enkemannspensjonen til gjenlevendetillegget etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) første ledd.
 
-Når uførepensjonen eller alderspensjonen er beregnet etter mindre enn full tjenestetid, skal samordningsfradraget fastsettes med utgangspunkt i gjenlevendetillegget etter [folketrygdloven § 12-18 første ledd](lov/1997-02-28-19/§12-18/ledd/1), 50 prosent av avdødes uføretrygd og den høyeste tjenestetidsbrøken i uføre- eller alderspensjonen. Fradraget skal begrenses til summen avgjenlevendetillegget etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) første ledd multiplisert med tjenestetiden i uførepensjonen eller alderspensjonen og dividert med full tjenestetid og50 prosent av avdødes uføretrygd multiplisert med en faktor hvor telleren utgjør differansen mellom full tjenestetid og tjenestetiden i uførepensjonen eller alderspensjon og nevneren utgjør full tjenestetid.
+Når uførepensjonen eller alderspensjonen er beregnet etter mindre enn full tjenestetid, skal samordningsfradraget fastsettes med utgangspunkt i gjenlevendetillegget etter [folketrygdloven § 12-18 første ledd](lov/1997-02-28-19/§12-18/ledd/1), 50 prosent av avdødes uføretrygd og den høyeste tjenestetidsbrøken i uføre- eller alderspensjonen. Fradraget skal begrenses til summen av
+
+1. gjenlevendetillegget etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) første ledd multiplisert med tjenestetiden i uførepensjonen eller alderspensjonen og dividert med full tjenestetid og
+2. 50 prosent av avdødes uføretrygd multiplisert med en faktor hvor telleren utgjør differansen mellom full tjenestetid og tjenestetiden i uførepensjonen eller alderspensjon og nevneren utgjør full tjenestetid.
 
 Fradraget etter første og andre ledd skal settes ned forholdsmessig dersom enke- eller enkemannspensjonen ikke er beregnet for full pensjonsgivende tjenestetid. Er uføretrygden fra folketrygden gradert, skal fradraget settes ned forholdsmessig. Det samme gjelder hvis enke- eller enkemannspensjonen er redusert for inntekt. Er begge ytelsene gradert eller redusert for inntekt, benyttes den laveste graden.
 

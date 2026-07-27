@@ -24,7 +24,10 @@ eu_basis: []
 
 ## I
 
-Det er ved kgl.res. av 10. desember 1999 truffet følgende vedtak:Delegering av myndighet til Samferdselsdepartementet til å foreta de endringer i forskrifter, delegeringsvedtak og lignende som nødvendig følger av omorganiseringen av Luftfartsverket/Luftfartstilsynet.Opphevelse av delegering til Samferdselsdepartementet av Kongens myndighet etter kgl.res. 10. august 1973 vedrørende luftfartsloven.
+Det er ved kgl.res. av 10. desember 1999 truffet følgende vedtak:
+
+1. Delegering av myndighet til Samferdselsdepartementet til å foreta de endringer i forskrifter, delegeringsvedtak og lignende som nødvendig følger av omorganiseringen av Luftfartsverket/Luftfartstilsynet.
+2. Opphevelse av delegering til Samferdselsdepartementet av Kongens myndighet etter kgl.res. 10. august 1973 vedrørende luftfartsloven.
 
 ## II
 

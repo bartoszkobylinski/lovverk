@@ -28,7 +28,12 @@ Formålet med tilskuddet er å bidra til bevaring og bærekraftig bruk av husdyr
 
 ## § 2. Hva tilskudd kan tildeles til
 
-Landbruksdirektoratet gir tilskudd til tiltak som bidrar til ett eller flere av følgende målsettinger:bevaring av bevaringsverdige husdyrraser, kulturplanter og skogstre i Norge, herunder sikker drift, utvidelse og etablering av genbanker, klonarkiv, in-situ-bevaring, bevaringsbesetninger og andre bevaringsenheter etter inngåtte faglige samarbeidsavtaler med Norsk genressurssenterbærekraftig bruk av genetiske ressurser, herunder klimatilpasning og næringsutvikling basert på genetiske ressurserkartlegging, dokumentasjon, overvåking og karakterisering av genetiske ressurserformidling og kunnskapsutvikling om genetiske ressurser.
+Landbruksdirektoratet gir tilskudd til tiltak som bidrar til ett eller flere av følgende målsettinger:
+
+- bevaring av bevaringsverdige husdyrraser, kulturplanter og skogstre i Norge, herunder sikker drift, utvidelse og etablering av genbanker, klonarkiv, in-situ-bevaring, bevaringsbesetninger og andre bevaringsenheter etter inngåtte faglige samarbeidsavtaler med Norsk genressurssenter
+- bærekraftig bruk av genetiske ressurser, herunder klimatilpasning og næringsutvikling basert på genetiske ressurser
+- kartlegging, dokumentasjon, overvåking og karakterisering av genetiske ressurser
+- formidling og kunnskapsutvikling om genetiske ressurser.
 
 Tilskudd kan gis til tidsbegrensede tiltak (prosjekter) og til drift av tiltak som er tidsubegrenset (driftstilskudd). For prosjekter kan det gis tilskudd for inntil tre år og tilskuddet kan dekke inntil 80 prosent av prosjektkostnadene. Driftstilskudd kan normalt bare gis til søker som har inngått faglig samarbeidsavtale med Norsk genressurssenter.
 
@@ -36,7 +41,12 @@ Tilskudd kan gis til tidsbegrensede tiltak (prosjekter) og til drift av tiltak s
 
 Søknad om tilskudd skal sendes på søknadsskjema fastsatt av Landbruksdirektoratet.
 
-Søknaden skal:angi søkerens navn, adresse, organisasjonsnummer og kontonummerbeskrive innhold i og forventede resultater av tiltaket som skal gjennomføresangi beløpet det søkes om og om tilskuddet skal brukes til tidsbegrenset prosjekt eller driftopplyse om andre finansieringskilder eller inntekter og egeninnsats.
+Søknaden skal:
+
+- angi søkerens navn, adresse, organisasjonsnummer og kontonummer
+- beskrive innhold i og forventede resultater av tiltaket som skal gjennomføres
+- angi beløpet det søkes om og om tilskuddet skal brukes til tidsbegrenset prosjekt eller drift
+- opplyse om andre finansieringskilder eller inntekter og egeninnsats.
 
 Budsjett, finansieringsplan og fremdriftsplan skal legges ved.
 
@@ -50,7 +60,12 @@ Søker er ansvarlig for at fullstendig søknad med relevante vedlegg kommer inn 
 
 Det skal ved tildeling prioriteres tiltak som bidrar til å nå nasjonale mål og ivareta internasjonale forpliktelser. Prioriteringer og satsingsområder i de til enhver tid gjeldende handlingsplaner for bevaringsverdige husdyrraser, plantegenetiske ressurser og skogtregenetiske ressurser skal tillegges vekt.
 
-Landbruksdirektoratet vil for øvrig prioritere tiltak som:er i samsvar med faglig samarbeidsavtale mellom søker og Norsk genressurssenterhar kostnader som står i et rimelig forhold til tiltakets mål og antatte effektinngår i målrettet og langsiktig arbeidnår ut til flere grupper av aktører.
+Landbruksdirektoratet vil for øvrig prioritere tiltak som:
+
+- er i samsvar med faglig samarbeidsavtale mellom søker og Norsk genressurssenter
+- har kostnader som står i et rimelig forhold til tiltakets mål og antatte effekt
+- inngår i målrettet og langsiktig arbeid
+- når ut til flere grupper av aktører.
 
 Også andre tiltak enn de som er nevnt i første og andre ledd kan prioriteres dersom de er i samsvar med Landbruks- og matdepartementets føringer jfr. tildelingsbrevet til Landbruksdirektoratet.
 

@@ -58,7 +58,13 @@ Universitetet fastsetter frister for studier og emner med lokalt opptak. I særl
 
 (4) For opptak til de praktisk-pedagogiske utdanningene gjelder opptakskrav fastsatt i [forskrift om rammeplan for praktisk-pedagogisk utdanning og forskrift om rammeplan for praktisk-pedagogisk utdanning](forskrift/2015-12-21-1771) for yrkesfag. Krav til faglig innhold i opptaksgrunnlaget fastsettes i studieplan. Søkere til praktisk-pedagogisk utdanning i allmenne fag må ha minst ett fag med omfang på minst 60 studiepoeng som gir kompetanse til å undervise og som UiA tilbyr fagdidaktikk i.
 
-(5) For opptak til masterprogram gjelder:Minstekrav for opptak til masterprogram framgår av [forskrift om krav til mastergrad](forskrift/2005-12-01-1392).Krav til faglig innhold i opptaksgrunnlaget fastsettes i studieplan.Det kan i studieplan fastsettes faglige minstekrav (karakterkrav) for det enkelte masterprogram. For søkere med bokstavkarakterer er kravet da vektet gjennomsnittskarakter beregnet i henhold til [§ 15](forskrift/2021-11-24-3370/§15) på minst C. Ved beregning av gjennomsnittskarakteren benyttes vanlige forhøyningsregler ved at karakteren avrundes til nærmeste hele tall.For opptak til masterprogram kan det i studieplan etter godkjenning av universitetsstyret, fastsettes krav om bestått opptaksprøve, godkjent faglig essay/motivasjonsbrev, deltakelse på intervju eller en kombinasjon av disse. Fakultetsstyret selv fastsetter innholdet i og kriterier for å bestå opptaksprøve og for å få godkjent faglig essay/motivasjonsbrev.For opptak til erfaringsbaserte masterprogram etter [forskrift om krav til mastergrad § 5](forskrift/2005-12-01-1392/§5), kreves i tillegg minst 2 år fulltid relevant yrkespraksis. Det kan fastsettes krav om mer enn 2 års yrkespraksis. Krav til innhold og omfang av relevant yrkespraksis fastsettes i studieplan. Yrkespraksis skal være avlagt etter fullført bachelorgrad. I særlige tilfelle kan praksis før fullført bachelorgrad godkjennes.
+(5) For opptak til masterprogram gjelder:
+
+1. Minstekrav for opptak til masterprogram framgår av [forskrift om krav til mastergrad](forskrift/2005-12-01-1392).
+2. Krav til faglig innhold i opptaksgrunnlaget fastsettes i studieplan.
+3. Det kan i studieplan fastsettes faglige minstekrav (karakterkrav) for det enkelte masterprogram. For søkere med bokstavkarakterer er kravet da vektet gjennomsnittskarakter beregnet i henhold til [§ 15](forskrift/2021-11-24-3370/§15) på minst C. Ved beregning av gjennomsnittskarakteren benyttes vanlige forhøyningsregler ved at karakteren avrundes til nærmeste hele tall.
+4. For opptak til masterprogram kan det i studieplan etter godkjenning av universitetsstyret, fastsettes krav om bestått opptaksprøve, godkjent faglig essay/motivasjonsbrev, deltakelse på intervju eller en kombinasjon av disse. Fakultetsstyret selv fastsetter innholdet i og kriterier for å bestå opptaksprøve og for å få godkjent faglig essay/motivasjonsbrev.
+5. For opptak til erfaringsbaserte masterprogram etter [forskrift om krav til mastergrad § 5](forskrift/2005-12-01-1392/§5), kreves i tillegg minst 2 år fulltid relevant yrkespraksis. Det kan fastsettes krav om mer enn 2 års yrkespraksis. Krav til innhold og omfang av relevant yrkespraksis fastsettes i studieplan. Yrkespraksis skal være avlagt etter fullført bachelorgrad. I særlige tilfelle kan praksis før fullført bachelorgrad godkjennes.
 
 (6) For opptak til enkeltemner gjelder de generelle krav for opptak til det programmet emnet tilhører. For emner som ikke tilhører et studieprogram må det fastsettes egne krav i emnebeskrivelse.
 
@@ -72,7 +78,14 @@ Universitetet fastsetter frister for studier og emner med lokalt opptak. I særl
 
 (2) Søkere til engelskspråklige studieprogram og emner på bachelornivå må dokumentere engelskkunnskaper tilsvarende generell studiekompetanse.
 
-(3) Søkere til engelskspråklige masterprogram med utdanning fra land utenfor Norden må oppfylle ett av følgende krav:140 årstimer i engelsk fra norsk videregående skole med karakteren 4 eller bedreTest of English as a Foreign Language (TOEFL) med minst 550 poeng for Paper-based test, 213 poeng for Computer-based test og 80 poeng for Internet-based testInternational English Language Testing Service (IELTS) med minst 6,0 poengPTE Academic Pearson Test of English (PTE), med minst 62 poeng.Cambridge English: Advanced (CAE), Proficiency (CPE) eller First (FCE) med bestått karakter A.Annen godkjent dokumentasjon av engelskkunnskaper på tilsvarende nivå kan godkjennes etter individuell vurdering.
+(3) Søkere til engelskspråklige masterprogram med utdanning fra land utenfor Norden må oppfylle ett av følgende krav:
+
+1. 140 årstimer i engelsk fra norsk videregående skole med karakteren 4 eller bedre
+2. Test of English as a Foreign Language (TOEFL) med minst 550 poeng for Paper-based test, 213 poeng for Computer-based test og 80 poeng for Internet-based test
+3. International English Language Testing Service (IELTS) med minst 6,0 poeng
+4. PTE Academic Pearson Test of English (PTE), med minst 62 poeng.
+5. Cambridge English: Advanced (CAE), Proficiency (CPE) eller First (FCE) med bestått karakter A.
+6. Annen godkjent dokumentasjon av engelskkunnskaper på tilsvarende nivå kan godkjennes etter individuell vurdering.
 
 (4) Det er ikke krav til norskkunnskaper for søkere til engelskspråklige studieprogam og emner og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -96,7 +109,10 @@ Universitetet fastsetter frister for studier og emner med lokalt opptak. I særl
 
 (1) Søkere til studier der opptaket er organisert gjennom Samordna opptak kan gis tidlig opptak etter bestemmelser fastsatt av Samordna opptak.
 
-(2) Søkere til studier med lokalt opptak til høstsemesteret kan gis tidlig opptak dersom de oppfyller følgende vilkår:på søknadstidspunktet fyller opptakskravene og med god margin ville ha kommet inn ved foregående opptak.har et dokumentert behov for tidligere svar på søknaden om studieplass.
+(2) Søkere til studier med lokalt opptak til høstsemesteret kan gis tidlig opptak dersom de oppfyller følgende vilkår:
+
+1. på søknadstidspunktet fyller opptakskravene og med god margin ville ha kommet inn ved foregående opptak.
+2. har et dokumentert behov for tidligere svar på søknaden om studieplass.
 
 ### § 11. Betinget tilbud
 
@@ -122,7 +138,10 @@ Universitetet fastsetter frister for studier og emner med lokalt opptak. I særl
 
 ### § 13. Innpassingsopptak
 
-(1) Innpassingsopptak kan benyttes i følgende tilfeller:Fra og med 2. studieår i grunnutdanninger med ledig kapasitet.For søkere til 2. studieår i 2-årige masterprogram med ledig kapasitet.
+(1) Innpassingsopptak kan benyttes i følgende tilfeller:
+
+1. Fra og med 2. studieår i grunnutdanninger med ledig kapasitet.
+2. For søkere til 2. studieår i 2-årige masterprogram med ledig kapasitet.
 
 (2) Fakultetsstyret/Styret for lærerutdanningene avgjør for hvert studieår om det skal åpnes for søkning og hvor mange ledige studieplasser det eventuelt skal tas opp til på hvert årstrinn.
 
@@ -162,11 +181,34 @@ Elever i videregående skole kan i særlige tilfelle tas opp til enkeltemner. Un
 
 ### § 18. Rangering av søkere til praktisk-pedagogisk utdanning i allmenne fag
 
-Kvalifiserte søkere rangeres innen hver fagkvote etter følgende kriterier i prioritert rekkefølge:Søkere til praktiske og estetiske fag:Fullført grad etter følgende prioriterte kategorier:Ph.d.-grad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i fagetMastergrad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i fagetBachelorgrad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i fagetMastergrad og mellom 60 og 119 studiepoeng i faget, rangert etter antall studiepoeng i faget.Bachelorgrad mellom 60 og 119 studiepoeng i faget, rangert etter antall studiepoeng i faget.Vektet gjennomsnitt av karakterer i opptaksgrunnlaget.Totalt antall studiepoeng ved søknadsfrist.Søkere til øvrige fag:Fullført grad fra universitet eller høgskole hvor ph.d.-grad går foran mastergrad.Vektet gjennomsnitt av karakterer i 60 studiepoeng i faget/fagene som gir kompetanse til å undervise.Søkere med 2 fag på 60 studiepoeng eller mer, der UiA tilbyr fagdidaktikk og fagkravene er oppfylt, rangeres foran søkere med ett fag.Totalt antall studiepoeng ved søknadsfrist.
+Kvalifiserte søkere rangeres innen hver fagkvote etter følgende kriterier i prioritert rekkefølge:
+
+1. Søkere til praktiske og estetiske fag:
+
+   1. Fullført grad etter følgende prioriterte kategorier:
+
+      1. Ph.d.-grad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i faget
+      2. Mastergrad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i faget
+      3. Bachelorgrad og minimum 120 studiepoeng i faget, rangert etter antall studiepoeng i faget
+      4. Mastergrad og mellom 60 og 119 studiepoeng i faget, rangert etter antall studiepoeng i faget.
+      5. Bachelorgrad mellom 60 og 119 studiepoeng i faget, rangert etter antall studiepoeng i faget.
+   2. Vektet gjennomsnitt av karakterer i opptaksgrunnlaget.
+   3. Totalt antall studiepoeng ved søknadsfrist.
+2. Søkere til øvrige fag:
+
+   1. Fullført grad fra universitet eller høgskole hvor ph.d.-grad går foran mastergrad.
+   2. Vektet gjennomsnitt av karakterer i 60 studiepoeng i faget/fagene som gir kompetanse til å undervise.
+   3. Søkere med 2 fag på 60 studiepoeng eller mer, der UiA tilbyr fagdidaktikk og fagkravene er oppfylt, rangeres foran søkere med ett fag.
+   4. Totalt antall studiepoeng ved søknadsfrist.
 
 ### § 19. Rangering av søkere til praktisk-pedagogisk utdanning i yrkesfag
 
-Kvalifiserte søkere rangeres etter følgende kriterier i prioritert rekkefølge:Søkere med dokumentert tilsetting på vilkår i videregående skole i henhold til bestemmelser i [lov om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)Antall måneder yrkespraksis ut over opptakskravetAntall studiepoeng ut over de som eventuelt inngår i søkerens opptaksgrunnlagVed fortsatt poenglikhet rangeres søkerne etter loddtrekning.
+Kvalifiserte søkere rangeres etter følgende kriterier i prioritert rekkefølge:
+
+1. Søkere med dokumentert tilsetting på vilkår i videregående skole i henhold til bestemmelser i [lov om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+2. Antall måneder yrkespraksis ut over opptakskravet
+3. Antall studiepoeng ut over de som eventuelt inngår i søkerens opptaksgrunnlag
+4. Ved fortsatt poenglikhet rangeres søkerne etter loddtrekning.
 
 ### § 20. Rangering av søkere til eksternt finansiert utdanning
 
@@ -186,7 +228,11 @@ Dersom det er flere søkere enn studieplasser, rangeres søkerne etter søknadst
 
 ### § 22. Opptakskrav
 
-(1) Søkere til forkurs må oppfylle ett av følgende krav:Vg1 og Vg2 fra andre studieretninger i videregående skole enn studiespesialisering eller godkjent fagbrev/svenneprøveFullført videregående skole med generell studiekompetanseGrunnskole og minst 5 års fulltids praksis eller en kombinasjon av videregående skole og praksis.
+(1) Søkere til forkurs må oppfylle ett av følgende krav:
+
+1. Vg1 og Vg2 fra andre studieretninger i videregående skole enn studiespesialisering eller godkjent fagbrev/svenneprøve
+2. Fullført videregående skole med generell studiekompetanse
+3. Grunnskole og minst 5 års fulltids praksis eller en kombinasjon av videregående skole og praksis.
 
 (2) Søkere med utdanning fra land utenfor Norden må dokumentere kunnskaper i norsk med minimum norskprøve med B1 på alle fire delprøver.
 
@@ -194,7 +240,11 @@ Dersom det er flere søkere enn studieplasser, rangeres søkerne etter søknadst
 
 ### § 23. Rangering av søkere til forkurs
 
-(1) Søkere rangeres etter summen av karakterpoeng, praksispoeng og tilleggspoeng. Ved poenglikhet prioriteres det underrepresenterte kjønn.Karakterpoeng: Snittet av alle karakterer fra vitnemål eller kompetansebevis multipliseres med 10.Praksispoeng: Det kan gis 0,3 poeng pr. måned for praksis utover minstekravet for opptak, maksimalt for 3 år (10,8 poeng).Tilleggspoeng: Det gis 3 poeng for bestått fag- eller svenneprøve.
+(1) Søkere rangeres etter summen av karakterpoeng, praksispoeng og tilleggspoeng. Ved poenglikhet prioriteres det underrepresenterte kjønn.
+
+- Karakterpoeng: Snittet av alle karakterer fra vitnemål eller kompetansebevis multipliseres med 10.
+- Praksispoeng: Det kan gis 0,3 poeng pr. måned for praksis utover minstekravet for opptak, maksimalt for 3 år (10,8 poeng).
+- Tilleggspoeng: Det gis 3 poeng for bestått fag- eller svenneprøve.
 
 (2) Søkere som ikke kan poengberegnes, rangeres etter en skjønnsmessig vurdering.
 

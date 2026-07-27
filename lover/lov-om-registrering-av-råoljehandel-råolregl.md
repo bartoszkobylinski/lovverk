@@ -15,7 +15,7 @@ xml_hash: "04531a94e740ff389d9511d9514cdd4bdba9adacfc58ce1e9fa6659e5358784a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31995R2964"
@@ -101,7 +101,12 @@ Denne forutsetningen skal ikke være til hinder for offentliggjøring av generel
 
 ### Art 5
 
-I forhold til artikkel 1 skal karakteristika for hvert parti råolje som importeres eller leveres til en *kontraherende part* omfattebetegnelsen på råoljen, inklusive API-tetthet,volum angitt i fat,prisen cif pr. fat,svovelinnholdet i prosent.
+I forhold til artikkel 1 skal karakteristika for hvert parti råolje som importeres eller leveres til en *kontraherende part* omfatte
+
+- betegnelsen på råoljen, inklusive API-tetthet,
+- volum angitt i fat,
+- prisen cif pr. fat,
+- svovelinnholdet i prosent.
 
 ### Art 6
 
@@ -109,7 +114,13 @@ De opplysningene som nevnes i artikkel 4 og 5 skal sendes til de *kontraherende 
 
 ### Art 7
 
-De opplysningene *EFTA-landene* skal gi til *EFTAs overvåkningsorgan* i medhold av artikkel 2, skal sendes senest en måned etter utløpet av hver måned som nevnt i artikkel 6. Disse opplysningene skal, for hver type råolje, inneholde en sammenfatning av de opplysninger som *EFTA-landene* innhenter fra personer og foretak. For hver type råolje skal det opplyses om:betegnelsen på råoljen, inklusive gjennomsnittlig API-tetthet,volum angitt i fat,den gjennomsnittlige prisen cif pr. fat,antall selskaper som rapporterer,svovelinnholdet i prosent.
+De opplysningene *EFTA-landene* skal gi til *EFTAs overvåkningsorgan* i medhold av artikkel 2, skal sendes senest en måned etter utløpet av hver måned som nevnt i artikkel 6. Disse opplysningene skal, for hver type råolje, inneholde en sammenfatning av de opplysninger som *EFTA-landene* innhenter fra personer og foretak. For hver type råolje skal det opplyses om:
+
+- betegnelsen på råoljen, inklusive gjennomsnittlig API-tetthet,
+- volum angitt i fat,
+- den gjennomsnittlige prisen cif pr. fat,
+- antall selskaper som rapporterer,
+- svovelinnholdet i prosent.
 
 5\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
@@ -117,7 +128,9 @@ De opplysningene *EFTA-landene* skal gi til *EFTAs overvåkningsorgan* i medhold
 
 1\. *EFTAs overvåkningsorgan* skal analysere de opplysningene som er innsendt i medhold av artikkel 7 og videreformidle dem til *EFTA-landene* hver måned.
 
-2\. *EFTA-landene* og *EFTAs overvåkningsorgan* skal konsultere hverandre med jevne mellomrom, enten på anmodning fra et *EFTA-land* eller på initiativ fra *EFTAs overvåkningsorgan.* Slike konsultasjoner skal særlig gjelde de meldinger fra *EFTAs overvåkningsorgan* som er nevnt i nr. 1.Det kan avholdes konsultasjoner med internasjonale organisasjoner og tredjestater som har etablert lignende rapporteringssystemer.
+2\. *EFTA-landene* og *EFTAs overvåkningsorgan* skal konsultere hverandre med jevne mellomrom, enten på anmodning fra et *EFTA-land* eller på initiativ fra *EFTAs overvåkningsorgan.* Slike konsultasjoner skal særlig gjelde de meldinger fra *EFTAs overvåkningsorgan* som er nevnt i nr. 1.
+
+Det kan avholdes konsultasjoner med internasjonale organisasjoner og tredjestater som har etablert lignende rapporteringssystemer.
 
 6\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 

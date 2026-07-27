@@ -34,7 +34,13 @@ Det kommunale rapporteringsregisteret forvaltes av Brønnøysundregistrene.
 
 Det kommunale rapporteringsregisteret skal gi en oversikt over og inneholde informasjon om rapporteringspliktene som staten ved lov eller vedtak har pålagt kommuner og fylkeskommuner.
 
-Registeret skal inneholde opplysninger omhvilket departement eller organ som forvalter rapporteringspliktenhjemmelen for rapporteringspliktenformålet med rapporteringspliktenskjemaet eller registeret som skal benyttes ved rapporteringenanslått samlet tidsbruk til forarbeid, utfylling og innsending av rapporteringen.
+Registeret skal inneholde opplysninger om
+
+1. hvilket departement eller organ som forvalter rapporteringsplikten
+2. hjemmelen for rapporteringsplikten
+3. formålet med rapporteringsplikten
+4. skjemaet eller registeret som skal benyttes ved rapporteringen
+5. anslått samlet tidsbruk til forarbeid, utfylling og innsending av rapporteringen.
 
 ## § 4. Melding til Brønnøysundregistrene og oppdatering av det kommunale rapporteringsregisteret
 

@@ -36,7 +36,10 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet etter denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft straks. Fra samme dato oppheves følgende andre forskrifter:[Forskrift 11. april 2012 nr. 356](forskrift/2012-04-11-356) om gjennomføring av kommisjonsvedtak [2011/275/EU](eu/32011d0275) om den tekniske spesifikasjonen for samtrafikkevnen for delsystemet infrastruktur for konvensjonell jernbane[Forskrift 5. desember 2008 nr. 1311](forskrift/2008-12-05-1311) om gjennomføring av vedtak [2008/217/EF](eu/32008d0217) av 20. desember 2007 om en teknisk spesifikasjon for samtrafikkevne med hensyn til delsystemet «infrastruktur» i det transeuropeiske jernbanesystem for høyhastighetstog (TSI-infrastruktur-høyhastighet).
+Forskriften trer i kraft straks. Fra samme dato oppheves følgende andre forskrifter:
+
+1. [Forskrift 11. april 2012 nr. 356](forskrift/2012-04-11-356) om gjennomføring av kommisjonsvedtak [2011/275/EU](eu/32011d0275) om den tekniske spesifikasjonen for samtrafikkevnen for delsystemet infrastruktur for konvensjonell jernbane
+2. [Forskrift 5. desember 2008 nr. 1311](forskrift/2008-12-05-1311) om gjennomføring av vedtak [2008/217/EF](eu/32008d0217) av 20. desember 2007 om en teknisk spesifikasjon for samtrafikkevne med hensyn til delsystemet «infrastruktur» i det transeuropeiske jernbanesystem for høyhastighetstog (TSI-infrastruktur-høyhastighet).
 
 > Endret ved forskrift [14 mars 2025 nr. 465](forskrift/2025-03-14-465) (i kraft 15 mars 2025, tidligere § 4).
 
@@ -58,6 +61,9 @@ Etter nr. 7.7.19.11 i vedlegget tilføyes følgende:
 
 P-tilfeller
 
-Som fastsatt i punkt 4.2.9.3 nr. 1 skal avstanden mellom spormidten og plattformkanten parallelt med kjøreflaten (bq), som definert i avsnitt 13 i EN 15273-3:2013, beregnes med følgende verdier for tillatt ekstra overheng (Skin):på innsiden av kurven: Skin = 40,5/R,på utsiden av kurven: Skin = 31,5/R.
+Som fastsatt i punkt 4.2.9.3 nr. 1 skal avstanden mellom spormidten og plattformkanten parallelt med kjøreflaten (bq), som definert i avsnitt 13 i EN 15273-3:2013, beregnes med følgende verdier for tillatt ekstra overheng (Skin):
+
+1. på innsiden av kurven: Skin = 40,5/R,
+2. på utsiden av kurven: Skin = 31,5/R.
 
 > Endret ved forskrifter [8 sep 2021 nr. 2709](forskrift/2021-09-08-2709) (i kraft 1 juni 2022, jf. meddelelse [6 mai 2022 nr. 774](forskrift/2022-05-06-774)), [14 mars 2025 nr. 465](forskrift/2025-03-14-465) (i kraft 15 mars 2025).

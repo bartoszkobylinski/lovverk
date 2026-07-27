@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1-1. Forskriftens virkeområde
 
-Forskriften gjelder for verdipapirfond, jf. [lov 25. november 2011 nr. 44](lov/2011-11-25-44) om verdipapirfond [§ 1-2](lov/2011-11-25-44/§1-2) første ledd. For spesialfond som nevnt i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 6 gjelder i tillegg til de øvrige bestemmelsene i forskriften her, følgende bestemmelser:Det skal gis opplysninger i noter om de lån som er opptatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike lån.Det skal gis opplysninger i noter om de salg av finansielle instrumenter fondet ikke eier som er foretatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike salg.
+Forskriften gjelder for verdipapirfond, jf. [lov 25. november 2011 nr. 44](lov/2011-11-25-44) om verdipapirfond [§ 1-2](lov/2011-11-25-44/§1-2) første ledd. For spesialfond som nevnt i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 6 gjelder i tillegg til de øvrige bestemmelsene i forskriften her, følgende bestemmelser:
+
+1. Det skal gis opplysninger i noter om de lån som er opptatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike lån.
+2. Det skal gis opplysninger i noter om de salg av finansielle instrumenter fondet ikke eier som er foretatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike salg.
 
 Regnskapslovens bestemmelser om små foretak gjelder ikke for verdipapirfond.
 
@@ -48,7 +51,12 @@ Hvis anvendelsen av en bestemmelse i [kapittel 3](forskrift/1999-05-28-654/kap3)
 
 ### § 2-2. Årsberetningens innhold
 
-I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):Det skal opplyses om hvilket forvaltningsselskap som er forretningsfører og hvem som er depotmottaker for verdipapirfondet.Det skal redegjøres for den finansielle risikoen som har vært knyttet til virksomheten i regnskapsåret. Det skal redegjøres for verdipapirfondets risikostyring og organisering av denne.Det skal gis informasjon om verdiutviklingen for en andel i perioden. Det skal kommenteres særskilt om verdiutviklingen står i forhold til verdipapirfondets risikoprofil. Dersom verdipapirfondet har andelsklasser skal det redegjøres for verdiutviklingen for en andel i hver av andelsklassene.Det skal redegjøres for om det har vært ekstraordinært store innløsninger i perioden og håndteringen av disse. Dersom ekstraordinært store innløsninger har hatt innvirkning på andelenes verdiutvikling skal dette kommenteres.
+I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):
+
+1. Det skal opplyses om hvilket forvaltningsselskap som er forretningsfører og hvem som er depotmottaker for verdipapirfondet.
+2. Det skal redegjøres for den finansielle risikoen som har vært knyttet til virksomheten i regnskapsåret. Det skal redegjøres for verdipapirfondets risikostyring og organisering av denne.
+3. Det skal gis informasjon om verdiutviklingen for en andel i perioden. Det skal kommenteres særskilt om verdiutviklingen står i forhold til verdipapirfondets risikoprofil. Dersom verdipapirfondet har andelsklasser skal det redegjøres for verdiutviklingen for en andel i hver av andelsklassene.
+4. Det skal redegjøres for om det har vært ekstraordinært store innløsninger i perioden og håndteringen av disse. Dersom ekstraordinært store innløsninger har hatt innvirkning på andelenes verdiutvikling skal dette kommenteres.
 
 Opplysninger om forutsetningen om fortsatt drift etter [regnskapsloven § 2-2 åttende ledd](lov/1998-07-17-56/§2-2/ledd/8) nr. 2–4, skal også gis om forvaltningsselskapet for verdipapirfondet.
 
@@ -64,13 +72,61 @@ Opplysninger om forutsetningen om fortsatt drift etter [regnskapsloven § 2-2 å
 
 ### § 4-1. Resultatregnskap
 
-[Regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) gjelder ikke. Resultatregnskapet skal ha følgende oppstillingsplan:Porteføljeinntekter og porteføljekostnaderRenteinntekterUtbytteGevinst/tap ved realisasjonNetto endring urealiserte kursgevinster/kurstapAndre porteføljeinntekterI. PorteføljeresultatForvaltningsinntekter og forvaltningskostnader mvProvisjonsinntekter fra salg og innløsning av andelerKostnader ved salg og innløsning av andelerForvaltningshonorarAndre inntekterAndre kostnaderII. ForvaltningsresultatIII. Resultat før skattekostnadSkattekostnadÅrsresultat
+[Regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) gjelder ikke. Resultatregnskapet skal ha følgende oppstillingsplan:
 
-I tilknytning til resultatregnskapet skal det gis følgende opplysninger om anvendelse av årsresultatet/dekning av tap:Netto utdelt til andelseiere i åretAvsatt til utdeling til andelseiereOverført til/fra opptjent egenkapital
+1. Porteføljeinntekter og porteføljekostnader
+
+   1. Renteinntekter
+   2. Utbytte
+   3. Gevinst/tap ved realisasjon
+   4. Netto endring urealiserte kursgevinster/kurstap
+   5. Andre porteføljeinntekter
+
+   I. Porteføljeresultat
+2. Forvaltningsinntekter og forvaltningskostnader mv
+
+   1. Provisjonsinntekter fra salg og innløsning av andeler
+   2. Kostnader ved salg og innløsning av andeler
+   3. Forvaltningshonorar
+   4. Andre inntekter
+   5. Andre kostnader
+
+   II. Forvaltningsresultat
+
+   III. Resultat før skattekostnad
+
+   1. Skattekostnad
+3. Årsresultat
+
+I tilknytning til resultatregnskapet skal det gis følgende opplysninger om anvendelse av årsresultatet/dekning av tap:
+
+1. Netto utdelt til andelseiere i året
+2. Avsatt til utdeling til andelseiere
+3. Overført til/fra opptjent egenkapital
 
 ### § 4-2. Balanse
 
-[Regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) gjelder ikke. Balansen skal ha følgende oppstillingsplan:EIENDELERFondets verdipapirporteføljeFordringerOpptjente, ikke mottatte inntekterAndre fordringerBankinnskuddEGENKAPITALInnskutt egenkapitalAndelskapital til pålydendeOverkurs/underkursOpptjent egenkapitalGJELDAvsatt til utdeling til andelseiereAnnen gjeld
+[Regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) gjelder ikke. Balansen skal ha følgende oppstillingsplan:
+
+1. EIENDELER
+
+   1. Fondets verdipapirportefølje
+   2. Fordringer
+
+      1. Opptjente, ikke mottatte inntekter
+      2. Andre fordringer
+   3. Bankinnskudd
+2. EGENKAPITAL
+
+   1. Innskutt egenkapital
+
+      1. Andelskapital til pålydende
+      2. Overkurs/underkurs
+   2. Opptjent egenkapital
+3. GJELD
+
+   1. Avsatt til utdeling til andelseiere
+   2. Annen gjeld
 
 Verdipapirporteføljen skal spesifiseres på de ulike kategorier finansielle instrumenter.
 
@@ -100,7 +156,12 @@ Ethvert fravik som nevnt i [§ 2-1a](forskrift/1999-05-28-654/§2-1a) i denne fo
 
 ### § 5-2. Regnskapsprinsipper
 
-Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1998-07-17-56/§7-2) skal minst omfatte følgende opplysninger:Prinsippene for regnskapsmessig behandling av finansielle instrumenter, herunder spesielt regnskapsmessig behandling av finansielle derivater.Prinsippene for fastsettelse av virkelig verdi, herunder om beregning av virkelig verdi bygger på observerbare markedsverdier eller om den er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.Prinsippene for regnskapsmessig behandling av transaksjonskostnader.Prinsippene for regnskapsmessig behandling av utdelinger til andelseierne.
+Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1998-07-17-56/§7-2) skal minst omfatte følgende opplysninger:
+
+1. Prinsippene for regnskapsmessig behandling av finansielle instrumenter, herunder spesielt regnskapsmessig behandling av finansielle derivater.
+2. Prinsippene for fastsettelse av virkelig verdi, herunder om beregning av virkelig verdi bygger på observerbare markedsverdier eller om den er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.
+3. Prinsippene for regnskapsmessig behandling av transaksjonskostnader.
+4. Prinsippene for regnskapsmessig behandling av utdelinger til andelseierne.
 
 ### § 5-3. Virkningen av feil i tidligere årsregnskap
 
@@ -112,7 +173,18 @@ Verdipapirfond skal gi opplysninger som nevnt i [regnskapsloven § 7-5](lov/1998
 
 ### § 5-5. Aksjer, andeler og rentebærende verdipapirer
 
-[Regnskapsloven §§ 7-17](lov/1998-07-17-56/§7-17), [7-18](lov/1998-07-17-56/§7-18) og [7-20](lov/1998-07-17-56/§7-20) gjelder ikke. Aksjer, andeler og rentebærende verdipapirer skal spesifiseres fordelt på de børser eller markeder verdipapiret omsettes på. Spesifikasjonen skal vise:selskap/utstederpålydende/antall aksjervalutaanskaffelseskostvirkelig verdiurealisert gevinst/taptegningsrettigheterverdipapirets prosentvise andel av verdipapirfondets totale forvaltningskapitalfor aksjer og andeler: næring og eierandel i selskapetfor rentebærende papirer: risikoklasse
+[Regnskapsloven §§ 7-17](lov/1998-07-17-56/§7-17), [7-18](lov/1998-07-17-56/§7-18) og [7-20](lov/1998-07-17-56/§7-20) gjelder ikke. Aksjer, andeler og rentebærende verdipapirer skal spesifiseres fordelt på de børser eller markeder verdipapiret omsettes på. Spesifikasjonen skal vise:
+
+- selskap/utsteder
+- pålydende/antall aksjer
+- valuta
+- anskaffelseskost
+- virkelig verdi
+- urealisert gevinst/tap
+- tegningsrettigheter
+- verdipapirets prosentvise andel av verdipapirfondets totale forvaltningskapital
+- for aksjer og andeler: næring og eierandel i selskapet
+- for rentebærende papirer: risikoklasse
 
 For rentebærende verdipapirer skal det opplyses om rentereguleringstidspunkter og gjennomsnittlig effektiv rente, samt hvordan denne er beregnet.
 

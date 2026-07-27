@@ -15,7 +15,7 @@ xml_hash: "ff80c8848f7aa0041ee2d67bdfc5ea23e843d9fc241615110f19e111a1d3955a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,13 @@ eu_basis: []
 
 ### § 2-5. Prosedyre for opptak
 
-(1) Nortrain fagskole har rullerende opptak gjennom året.Søknad om opptak sendes til skolens administrasjon via nettsider eller [post@nortrain.no](mailto:post@nortrain.no).All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Søkere som søker om opptak på formelt grunnlag skal legge ved kopi av vitnemål fra videregående opplæring. Attester for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må være datert for å komme i betraktning.Søknader blir behandlet fortløpende. Dersom det er flere søknader enn plasser, vil kvalifiserte søkere plasseres på venteliste i den rekkefølgen søknadene er mottatt.Søkere som får tilbud om studieplass aksepterer tilbudet ved å returnere undertegnet kontrakt. Studenten kan miste studieplassen hvis skolen ikke har mottatt signert studiekontrakt.Søkere kan søke om studieplass før de har avlagt alle eksamener i fag som kreves for opptak. Standpunktkarakterer fra siste terminoppgjør legges ved søknaden. I slike tilfeller vil søkeren eventuelt få betinget opptak i påvente av eksamensresultatene. Søkeren må sende vitnemål/bekreftelse på bestått utdanning til skolen innen studiestart. Hvis ikke bortfaller tilbudet om studieplass.
+(1) Nortrain fagskole har rullerende opptak gjennom året.
+
+1. Søknad om opptak sendes til skolens administrasjon via nettsider eller [post@nortrain.no](mailto:post@nortrain.no).
+2. All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Søkere som søker om opptak på formelt grunnlag skal legge ved kopi av vitnemål fra videregående opplæring. Attester for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må være datert for å komme i betraktning.
+3. Søknader blir behandlet fortløpende. Dersom det er flere søknader enn plasser, vil kvalifiserte søkere plasseres på venteliste i den rekkefølgen søknadene er mottatt.
+4. Søkere som får tilbud om studieplass aksepterer tilbudet ved å returnere undertegnet kontrakt. Studenten kan miste studieplassen hvis skolen ikke har mottatt signert studiekontrakt.
+5. Søkere kan søke om studieplass før de har avlagt alle eksamener i fag som kreves for opptak. Standpunktkarakterer fra siste terminoppgjør legges ved søknaden. I slike tilfeller vil søkeren eventuelt få betinget opptak i påvente av eksamensresultatene. Søkeren må sende vitnemål/bekreftelse på bestått utdanning til skolen innen studiestart. Hvis ikke bortfaller tilbudet om studieplass.
 
 ### § 2-6. Klage ved avslag på søknad om opptak
 
@@ -115,7 +121,12 @@ eu_basis: []
 
 ### § 4-1. Eksamens- og vurderingsformer
 
-(1) Ved fagskolens utdanninger benyttes følgende eksamens- og vurderingsordninger:Skriftlig skoleeksamenPraktisk prøve på slamlaboratoriumProsjektoppgaveSkriftlige standpunktprøver.
+(1) Ved fagskolens utdanninger benyttes følgende eksamens- og vurderingsordninger:
+
+1. Skriftlig skoleeksamen
+2. Praktisk prøve på slamlaboratorium
+3. Prosjektoppgave
+4. Skriftlige standpunktprøver.
 
 (2) Det fremgår av studieplanen hvilke eksamens- og vurderingsformer som benyttes i hver enkelt utdanning. Se ellers skolens retningslinjer for eksamen og standpunktprøver på skolens nettsider eller Fronter, for nærmere informasjon. Retningslinjene blir i tillegg delt ut på eksamen.
 
@@ -140,7 +151,16 @@ eu_basis: []
 
 (5) Fagskolen utsteder kun vitnemål til studenter som har avlagt minst 30 av fagskolepoengene som utdanningen består av ved fagskolen.
 
-(6) Vitnemålet inneholder informasjon om:det overordnede læringsutbyttetemnerkvalifikasjonsnivået som oppnås (Nivå 5.1 Fagskole 1/Nivå 5.2 Fagskole 2)karaktersystemet som benyttes (A–F)antall fagskolepoengNUS-kode og lovreferansekaraktererhovedprosjektet.
+(6) Vitnemålet inneholder informasjon om:
+
+1. det overordnede læringsutbyttet
+2. emner
+3. kvalifikasjonsnivået som oppnås (Nivå 5.1 Fagskole 1/Nivå 5.2 Fagskole 2)
+4. karaktersystemet som benyttes (A–F)
+5. antall fagskolepoeng
+6. NUS-kode og lovreferanse
+7. karakterer
+8. hovedprosjektet.
 
 (7) Karakterutskrift utstedes til studenter som har fullført deler av utdanningen uten omkostninger.
 
@@ -148,7 +168,10 @@ eu_basis: []
 
 ### § 4-3. Vilkår for å avlegge eksamen
 
-(1) Studenten har rett til å avlegge avsluttende eksamen når han/hun har:signert studiekontrakten og betalt forfalt semesteravgift.bestått alle obligatoriske arbeidskrav og tilstrekkelig faglig progresjon som beskrevet i studieplanen.
+(1) Studenten har rett til å avlegge avsluttende eksamen når han/hun har:
+
+1. signert studiekontrakten og betalt forfalt semesteravgift.
+2. bestått alle obligatoriske arbeidskrav og tilstrekkelig faglig progresjon som beskrevet i studieplanen.
 
 ### § 4-4. Informasjon om eksamen og oppmelding til eksamen
 
@@ -162,7 +185,12 @@ eu_basis: []
 
 (1) En student som har behov for spesiell tilrettelegging av eksamen, må sende skriftlig søknad til skolens administrasjon innen en måned før eksamen. Ved akutt skade/sykdom må søknad sendes så fort studenten er kjent med skaden/sykdommen. Søknaden må inneholde bekreftelse fra sakkyndig, f.eks. legeattest, uttalelse fra psykolog, logoped e.l.
 
-(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:utvidet tid (en ekstra time) til eksamenbruk av ordbokbruk av PC eller andre hjelpemidleralternativ eksamensform (muntlig/skriftlig).
+(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:
+
+1. utvidet tid (en ekstra time) til eksamen
+2. bruk av ordbok
+3. bruk av PC eller andre hjelpemidler
+4. alternativ eksamensform (muntlig/skriftlig).
 
 (3) Det gis ikke utvidet tid ved prosjektoppgave.
 
@@ -184,9 +212,14 @@ eu_basis: []
 
 ### § 4-8. Klage på karakterfastsetting
 
-(1) Studenten har rett til å få begrunnelse for karakterfastsettingen av sine prestasjoner. Studenten må fremsette krav om begrunnelse innen 3 (tre) uker fra karakteren ble kunngjort dersom begrunnelse ikke er gitt sammen med karakteren. Krav om begrunnelse for karakter skal sendes til rektor. Ved muntlig eksamen må studenten be om begrunnelse umiddelbart etter at karakteren er meddelt.Sensor skal normalt gi begrunnelsen innen 2 (to) uker etter at studenten har bedt om den. I begrunnelsen skal sensor gjøre rede for de generelle prinsippene som er lagt til grunn for bedømmelsen samt den konkrete bedømmelsen av studentens prestasjon. Sensor kan velge om begrunnelsen gis skriftlig eller muntlig.
+(1) Studenten har rett til å få begrunnelse for karakterfastsettingen av sine prestasjoner. Studenten må fremsette krav om begrunnelse innen 3 (tre) uker fra karakteren ble kunngjort dersom begrunnelse ikke er gitt sammen med karakteren. Krav om begrunnelse for karakter skal sendes til rektor. Ved muntlig eksamen må studenten be om begrunnelse umiddelbart etter at karakteren er meddelt.
 
-(2) Studenten har rett til å klage på karakterfastsettingen. Klage på karakterer skal sendes til rektor innen 3 (tre) uker etter at karakteren er gjort kjent for studenten, eller 3 (tre) uker etter at studenten har mottatt begrunnelse for karakteren. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for klagen.Studenten kan ikke klage på bedømmelse av muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel laboratorieforsøk) ikke lar seg etterprøve.Hvis karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og bedømmelsen av den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsetting av endelig karakter.
+1. Sensor skal normalt gi begrunnelsen innen 2 (to) uker etter at studenten har bedt om den. I begrunnelsen skal sensor gjøre rede for de generelle prinsippene som er lagt til grunn for bedømmelsen samt den konkrete bedømmelsen av studentens prestasjon. Sensor kan velge om begrunnelsen gis skriftlig eller muntlig.
+
+(2) Studenten har rett til å klage på karakterfastsettingen. Klage på karakterer skal sendes til rektor innen 3 (tre) uker etter at karakteren er gjort kjent for studenten, eller 3 (tre) uker etter at studenten har mottatt begrunnelse for karakteren. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for klagen.
+
+1. Studenten kan ikke klage på bedømmelse av muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel laboratorieforsøk) ikke lar seg etterprøve.
+2. Hvis karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og bedømmelsen av den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsetting av endelig karakter.
 
 (3) Ved klage på karakter oppnevner styret ny(e) sensor(er).
 
@@ -196,7 +229,10 @@ eu_basis: []
 
 ### § 4-9. Klage på formelle feil ved eksamen
 
-(1) Studenten kan klage til skolens klagenemnd på formelle feil som har hatt betydning for gjennomføringen av eksamen og sensur. Formelle feil kan være feil ved eksamensoppgaven, eksamensavviklingen eller gjennomføringen av sensur.Fristen for å klage er 3 (tre) uker etter at studenten er, eller burde være, kjent med det forholdet som begrunner klagen. Dersom studenten har bedt om begrunnelse eller klaget på karakterfastsettingen, løper klagefristen fra det tidspunkt studenten mottok begrunnelse eller avgjørelse av klage.Klagen må være datert, underskrevet og bør inneholde en begrunnelse for hvorfor studenten klager. Klagen sendes til skolens klagenemnd. Se for øvrig kapittel 7 for informasjon om klagebehandling.
+(1) Studenten kan klage til skolens klagenemnd på formelle feil som har hatt betydning for gjennomføringen av eksamen og sensur. Formelle feil kan være feil ved eksamensoppgaven, eksamensavviklingen eller gjennomføringen av sensur.
+
+1. Fristen for å klage er 3 (tre) uker etter at studenten er, eller burde være, kjent med det forholdet som begrunner klagen. Dersom studenten har bedt om begrunnelse eller klaget på karakterfastsettingen, løper klagefristen fra det tidspunkt studenten mottok begrunnelse eller avgjørelse av klage.
+2. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for hvorfor studenten klager. Klagen sendes til skolens klagenemnd. Se for øvrig kapittel 7 for informasjon om klagebehandling.
 
 (2) Dersom klagebehandlingen avdekker at det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensuren oppheves og det skal foretas ny sensurering eller avholdes ny eksamen. I de tilfeller feilen antas å ha hatt betydning for flere studenters prestasjon, kan skolens klagenemnd vedta at det skal foretas ny sensurering eller ny eksamen for samtlige studenter.
 
@@ -208,7 +244,17 @@ eu_basis: []
 
 ### § 5-1. Fusk eller forsøk på fusk
 
-(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved prøver/eksamen eller i forbindelse med opptak regnes som fusk.Eksempler på fusk er:å ha ulovlige hjelpemidler tilgjengelig under eksamen og prøveå levere en besvarelse som er hentet ut fra Internett og helt eller delvis utgitt som egen besvarelse (plagiat)å levere en besvarelse som helt eller delvis er utarbeidet av en annen personå levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøveå gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra Internett osv. som er framstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitaterå benytte falsk vitnemål eller andre falske dokumenter i forbindelse med opptak, fritak- eller innpassingsvurderinglisten er ikke uttømmende.
+(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved prøver/eksamen eller i forbindelse med opptak regnes som fusk.
+
+Eksempler på fusk er:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under eksamen og prøve
+2. å levere en besvarelse som er hentet ut fra Internett og helt eller delvis utgitt som egen besvarelse (plagiat)
+3. å levere en besvarelse som helt eller delvis er utarbeidet av en annen person
+4. å levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøve
+5. å gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra Internett osv. som er framstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater
+6. å benytte falsk vitnemål eller andre falske dokumenter i forbindelse med opptak, fritak- eller innpassingsvurdering
+7. listen er ikke uttømmende.
 
 (2) Dersom studenten har fusket, eller forsøkt å fuske, kan eksamen annulleres. Styret fatter enkeltvedtak om annullering. Studenten har rett til å forklare seg før vedtaket fattes.
 
@@ -234,7 +280,16 @@ eu_basis: []
 
 ### § 6-1. Bortvisning og utestenging
 
-(1) En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av styret bortvises fra fagskolen inntil ett -1- år.Eksempler på handlinger og adferd som kan virke grovt forstyrrende på medstudenter og virksomheten på skolen – som kan medføre vedtak om bortvisning:Besittelse og bruk av rusmidler på skolens områdeStøyende oppførsel i klasserom som vedvarer, på tross av gjentagende korreksjoner fra faglærer.Handlinger som ikke er i tråd med norsk lovgivningFusk på standpunktprøver og eksamenBruk av skolens internettforbindelse til surfing på nettsider som er ulovlig i henhold til norsk lovgivning.Listen er ikke uttømmende.
+(1) En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av styret bortvises fra fagskolen inntil ett -1- år.
+
+Eksempler på handlinger og adferd som kan virke grovt forstyrrende på medstudenter og virksomheten på skolen – som kan medføre vedtak om bortvisning:
+
+1. Besittelse og bruk av rusmidler på skolens område
+2. Støyende oppførsel i klasserom som vedvarer, på tross av gjentagende korreksjoner fra faglærer.
+3. Handlinger som ikke er i tråd med norsk lovgivning
+4. Fusk på standpunktprøver og eksamen
+5. Bruk av skolens internettforbindelse til surfing på nettsider som er ulovlig i henhold til norsk lovgivning.
+6. Listen er ikke uttømmende.
 
 (2) Hvis en student på tross av skriftlig advarsel fra skolen ikke etterkommer et vedtak om bortvisning, kan styret vedta å utestenge studenten fra utdanningen i inntil ett -1 – år.
 

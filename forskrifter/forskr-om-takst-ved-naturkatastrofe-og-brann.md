@@ -46,7 +46,11 @@ Fra takstbeløpet gjøres fradrag for verdiforringelse på grunn av elde, bruk, 
 
 ## § 5.
 
-I taksten skal ikke medregnes omkostninger som gjelder:Gjenanskaffelse eller utbedring av maskiner og maskinelt eller elektrisk utstyr, særskilte innredninger og installasjoner m.v.Arbeider som utføres utenfor byggets grunnmur, med mindre arbeidene gjelder utbedring av skade på anlegg etter naturkatastrofe.Meromkostninger som følge av murtvang eller andre offentlige vilkår for gjenreising.
+I taksten skal ikke medregnes omkostninger som gjelder:
+
+1. Gjenanskaffelse eller utbedring av maskiner og maskinelt eller elektrisk utstyr, særskilte innredninger og installasjoner m.v.
+2. Arbeider som utføres utenfor byggets grunnmur, med mindre arbeidene gjelder utbedring av skade på anlegg etter naturkatastrofe.
+3. Meromkostninger som følge av murtvang eller andre offentlige vilkår for gjenreising.
 
 ## § 6.
 

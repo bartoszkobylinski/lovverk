@@ -15,7 +15,7 @@ xml_hash: "1479b6010d35f12ab755b08050b0b07c4323f713764e75cf909e04587c49a107"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,12 @@ Når rettergangsskritt er foretatt med henstand, skal retten sette en frist for 
 
 ### § 5 a
 
-Avgjørelser etter denne lov eller etter bestemmelser gitt i medhold av denne lov kan ankes eller påklages på følgende måte:Avgjørelser som gjelder forretninger som nevnt i [kapittel 2](lov/1982-12-17-86/kap2), 3, 4 og 5 hos en domstol kan ankes til overordnet domstol etter de regler som gjelder for anke i forbindelse med forretningen. Avgjørelser truffet av Arbeidsretten kan ikke ankes.– – –Avgjørelser som gjelder forretninger som nevnt i [kapittel 4](lov/1982-12-17-86/kap4) og [§ 25](lov/1982-12-17-86/§25) hos namsfogden eller hos en særskilt namsmyndighet, kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.Avgjørelser etter [§ 27 a](lov/1982-12-17-86/§27a) kan ankes etter de regler som gjelder for anke mot avgjørelser under vedkommende forretning.
+Avgjørelser etter denne lov eller etter bestemmelser gitt i medhold av denne lov kan ankes eller påklages på følgende måte:
+
+1. Avgjørelser som gjelder forretninger som nevnt i [kapittel 2](lov/1982-12-17-86/kap2), 3, 4 og 5 hos en domstol kan ankes til overordnet domstol etter de regler som gjelder for anke i forbindelse med forretningen. Avgjørelser truffet av Arbeidsretten kan ikke ankes.
+2. – – –
+3. Avgjørelser som gjelder forretninger som nevnt i [kapittel 4](lov/1982-12-17-86/kap4) og [§ 25](lov/1982-12-17-86/§25) hos namsfogden eller hos en særskilt namsmyndighet, kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.
+4. Avgjørelser etter [§ 27 a](lov/1982-12-17-86/§27a) kan ankes etter de regler som gjelder for anke mot avgjørelser under vedkommende forretning.
 
 > Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 8 jan 1993 nr. 20](lov/1993-01-08-20), [19 des 1997 nr. 97](lov/1997-12-19-97) (ikr. 1 jan 1998), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2002 nr. 104](lov/2002-12-20-104) (ikr. 1 jan 2003), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for endringen i nr. 3, ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for opphevingen av nr. 2), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
@@ -158,7 +163,25 @@ For behandling av mortifikasjonssak betales 0,8 ganger rettsgebyret. Nødvendige
 
 ### § 10
 
-For behandling av følgende saker betales ikke gebyr eller for meddommere i de tilfelle hvor retten må settes med meddommere:sak om farskap,sak om opphevelse av adoptivforhold,sak om separasjon eller skilsmisse eller et ekteskaps omstøtelse,sak om barnefordeling, samværsrett eller foreldremyndighet,sak om bidrag til barn eller til ektefelle eller tidligere ektefelle,sak mellom ektefolk, fraskilte, samboere eller tidligere samboere om opphevelse av formuesfellesskap, formuens fordeling, pensjon, bruksrett til løsøre og fast eiendom og om lignende økonomiske forhold,sak om fratakelse av den rettslige handleevnen etter vergemålsloven,– – –sak som reises av en trygdet mot Arbeids- og velferdsdirektoratet eller ellers i henhold til pensjons- eller trygdelovgivningen,sak mot arbeidsgiver, når saken gjelder tjeneste- eller arbeidsforhold og reises av arbeidstaker,sak som etter lov om arbeidstvister behandles av tingretten,sak etter [tvisteloven kapittel 36](lov/2005-06-17-90/kap36) om administrative tvangsvedtak i helse- og sosialsektoren, jfr. også [lov om fri rettshjelp § 16](lov/1980-06-13-35/§16) første ledd nr. 2.rettsanmodning fra utenlandsk myndighet,sak om leie av bolig etter reglene i husleieloven og rettigheter til andel i borettslag,sak som behandles etter [forsvarsloven § 42](lov/2016-08-12-77/§42),sak etter [utlendingsloven § 129](lov/2008-05-15-35/§129) annet ledd, jf. også [lov om fri rettshjelp § 16](lov/1980-06-13-35/§16) første ledd nr. 4.sak etter [statsborgerloven § 27](lov/2005-06-10-51/§27) tredje ledd annet og tredje punktum, jf. også [lov 13. juni 1980 nr. 35](lov/1980-06-13-35) om fri rettshjelp [§ 16](lov/1980-06-13-35/§16) første ledd nr. 4.
+For behandling av følgende saker betales ikke gebyr eller for meddommere i de tilfelle hvor retten må settes med meddommere:
+
+1. sak om farskap,
+2. sak om opphevelse av adoptivforhold,
+3. sak om separasjon eller skilsmisse eller et ekteskaps omstøtelse,
+4. sak om barnefordeling, samværsrett eller foreldremyndighet,
+5. sak om bidrag til barn eller til ektefelle eller tidligere ektefelle,
+6. sak mellom ektefolk, fraskilte, samboere eller tidligere samboere om opphevelse av formuesfellesskap, formuens fordeling, pensjon, bruksrett til løsøre og fast eiendom og om lignende økonomiske forhold,
+7. sak om fratakelse av den rettslige handleevnen etter vergemålsloven,
+8. – – –
+9. sak som reises av en trygdet mot Arbeids- og velferdsdirektoratet eller ellers i henhold til pensjons- eller trygdelovgivningen,
+10. sak mot arbeidsgiver, når saken gjelder tjeneste- eller arbeidsforhold og reises av arbeidstaker,
+11. sak som etter lov om arbeidstvister behandles av tingretten,
+12. sak etter [tvisteloven kapittel 36](lov/2005-06-17-90/kap36) om administrative tvangsvedtak i helse- og sosialsektoren, jfr. også [lov om fri rettshjelp § 16](lov/1980-06-13-35/§16) første ledd nr. 2.
+13. rettsanmodning fra utenlandsk myndighet,
+14. sak om leie av bolig etter reglene i husleieloven og rettigheter til andel i borettslag,
+15. sak som behandles etter [forsvarsloven § 42](lov/2016-08-12-77/§42),
+16. sak etter [utlendingsloven § 129](lov/2008-05-15-35/§129) annet ledd, jf. også [lov om fri rettshjelp § 16](lov/1980-06-13-35/§16) første ledd nr. 4.
+17. sak etter [statsborgerloven § 27](lov/2005-06-10-51/§27) tredje ledd annet og tredje punktum, jf. også [lov 13. juni 1980 nr. 35](lov/1980-06-13-35) om fri rettshjelp [§ 16](lov/1980-06-13-35/§16) første ledd nr. 4.
 
 Retten bør gi fritak for rettsgebyr for den som har bistandsadvokat etter [straffeprosessloven § 107 e](lov/1981-05-22-25/§107e) og forsvarer etter [§ 100](lov/1981-05-22-25/§100) tredje ledd i saker som behandles etter [straffeprosessloven § 434](lov/1981-05-22-25/§434) syvende ledd og [§ 435](lov/1981-05-22-25/§435).
 
@@ -212,7 +235,10 @@ For begjæring om annen tvangsfullbyrdelse enn nevnt i første til syvende ledd 
 
 Gebyret etter første til åttende ledd skal betales selv om begjæringen senere blir trukket tilbake eller avvist.
 
-Gebyret omfatter også sideutgifter. Dette gjelder likevel ikke:utgifter til flytting og oppbevaring av løsøre ved fravikelse av fast eiendom.sideutgifter ved tvangsdekning etter [tvangsfullbyrdelsesloven §§ 10-13](lov/1992-06-26-86/§10-13) og [10-14](lov/1992-06-26-86/§10-14).
+Gebyret omfatter også sideutgifter. Dette gjelder likevel ikke:
+
+1. utgifter til flytting og oppbevaring av løsøre ved fravikelse av fast eiendom.
+2. sideutgifter ved tvangsdekning etter [tvangsfullbyrdelsesloven §§ 10-13](lov/1992-06-26-86/§10-13) og [10-14](lov/1992-06-26-86/§10-14).
 
 Gebyr etter denne paragraf innkreves etterskuddsvis. Der tvangssalg gjennomføres, sørger namsmyndigheten eller medhjelperen for betaling av gebyret. Ved begjæring om utlegg etter [tvangsfullbyrdelsesloven § 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan namsfogden i særlige tilfeller kreve at gebyret etter første ledd første punktum betales forskuddsvis.
 
@@ -224,7 +250,10 @@ For klage til tingretten betales rettsgebyret. Gebyrplikten inntrer tidligst nå
 
 For begjæring til tingretten om midlertidig sikring betales 2,5 ganger rettsgebyret. Gebyret omfatter også iverksettelsen.
 
-Det betales ikke gebyr for:Midlertidig avgjørelse etter [ekteskapsloven § 92](lov/1991-07-04-47/§92) om rett til bidrag.Sak som behandles av tingretten etter [lov 8 juli 1988 nr 72](lov/1988-07-08-72) om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m.v. og om tilbakelevering av barn.
+Det betales ikke gebyr for:
+
+1. Midlertidig avgjørelse etter [ekteskapsloven § 92](lov/1991-07-04-47/§92) om rett til bidrag.
+2. Sak som behandles av tingretten etter [lov 8 juli 1988 nr 72](lov/1988-07-08-72) om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m.v. og om tilbakelevering av barn.
 
 > Endret ved [lover 20 des 1991 nr. 85](lov/1991-12-20-85), [26 juni 1992 nr. 86](lov/1992-06-26-86), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
@@ -232,7 +261,12 @@ Det betales ikke gebyr for:Midlertidig avgjørelse etter [ekteskapsloven § 92](
 
 ### § 16
 
-For bobehandling ved tingretten betales gebyr etter følgende satser:For konkursbo som åpnes av tingretten betales 4,35 ganger rettsgebyret. For dødsbo som åpnes av tingretten betales 18 ganger rettsgebyret, eventuelt gebyr etter [§ 18](lov/1982-12-17-86/§18) tredje ledd. For åpning av offentlig skifte etter [ekteskapsloven kapittel 18](lov/1991-07-04-47/kap18) eller [husstandsfellesskapsloven § 3 a](lov/1991-07-04-45/§3a) betales 10,5 ganger rettsgebyret, eventuelt gebyr etter [§ 18](lov/1991-07-04-47/§18) tredje ledd. For tvangsavvikling etter [aksjeloven § 16-14](lov/1997-06-13-44/§16-14), jf. [§ 16-18](lov/1997-06-13-44/§16-18), [allmennaksjeloven § 16-14](lov/1997-06-13-45/§16-14), jf. [§ 16-18](lov/1997-06-13-45/§16-18) og [samvirkelova § 140](lov/2007-06-29-81/§140), jf. [§ 144](lov/2007-06-29-81/§144) som åpnes av tingretten betales 3,2 ganger rettsgebyret.For gjeldsforhandlingsbo betales 5 ganger rettsgebyret. Tas skyldnerens bo under konkursbehandling i forbindelse med innstilling av gjeldsforhandlingen, betales i stedet gebyr etter nr. 1.For forberedende rettsmøte etter [arveloven](lov/2019-06-14-21), [ekteskapsloven](lov/1991-07-04-47) eller [husstandsfellesskapsloven](lov/1991-07-04-45) betales 2 ganger rettsgebyret. Åpner tingretten bobehandling betales i stedet gebyr etter nr 1.For summarisk skifte etter reglene i [arveloven § 141](lov/2019-06-14-21/§141) annet ledd betales ikke gebyr.
+For bobehandling ved tingretten betales gebyr etter følgende satser:
+
+1. For konkursbo som åpnes av tingretten betales 4,35 ganger rettsgebyret. For dødsbo som åpnes av tingretten betales 18 ganger rettsgebyret, eventuelt gebyr etter [§ 18](lov/1982-12-17-86/§18) tredje ledd. For åpning av offentlig skifte etter [ekteskapsloven kapittel 18](lov/1991-07-04-47/kap18) eller [husstandsfellesskapsloven § 3 a](lov/1991-07-04-45/§3a) betales 10,5 ganger rettsgebyret, eventuelt gebyr etter [§ 18](lov/1991-07-04-47/§18) tredje ledd. For tvangsavvikling etter [aksjeloven § 16-14](lov/1997-06-13-44/§16-14), jf. [§ 16-18](lov/1997-06-13-44/§16-18), [allmennaksjeloven § 16-14](lov/1997-06-13-45/§16-14), jf. [§ 16-18](lov/1997-06-13-45/§16-18) og [samvirkelova § 140](lov/2007-06-29-81/§140), jf. [§ 144](lov/2007-06-29-81/§144) som åpnes av tingretten betales 3,2 ganger rettsgebyret.
+2. For gjeldsforhandlingsbo betales 5 ganger rettsgebyret. Tas skyldnerens bo under konkursbehandling i forbindelse med innstilling av gjeldsforhandlingen, betales i stedet gebyr etter nr. 1.
+3. For forberedende rettsmøte etter [arveloven](lov/2019-06-14-21), [ekteskapsloven](lov/1991-07-04-47) eller [husstandsfellesskapsloven](lov/1991-07-04-45) betales 2 ganger rettsgebyret. Åpner tingretten bobehandling betales i stedet gebyr etter nr 1.
+4. For summarisk skifte etter reglene i [arveloven § 141](lov/2019-06-14-21/§141) annet ledd betales ikke gebyr.
 
 > Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [23 des 1994 nr. 76](lov/1994-12-23-76) (ikr. 1 jan 1995), [22 des 1995 nr. 81](lov/1995-12-22-81) (ikr. 1 jan 1996), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -332,7 +366,10 @@ Avskrifter, utskrifter og kopier av dokument i rettsforretninger skal gis gebyrf
 
 ### § 27 a
 
-For følgende særlige anker betales 6 ganger rettsgebyret:anke etter [rettshjelploven § 27](lov/1980-06-13-35/§27) eller etter bestemmelser som viser til [rettshjelploven § 27](lov/1980-06-13-35/§27).anke mot avgjørelser under notarialforretninger.
+For følgende særlige anker betales 6 ganger rettsgebyret:
+
+1. anke etter [rettshjelploven § 27](lov/1980-06-13-35/§27) eller etter bestemmelser som viser til [rettshjelploven § 27](lov/1980-06-13-35/§27).
+2. anke mot avgjørelser under notarialforretninger.
 
 > Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
 

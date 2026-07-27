@@ -16,7 +16,7 @@ xml_hash: "f99f014b2ef3f9f67bab583f245cdca70c536fcc48d6299028594f9250ed5eb1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,23 @@ All håndtering av dyr og annen aktivitet som skjer i medhold av denne forskrift
 
 ### § 1-4. Definisjoner
 
-I denne forskriften forstås med*dyrepark:* alle former for stasjonære og varige anlegg der dyr holdes for å framvises for publikum, inklusive dyrehager, kommersielle akvarier, besøksgårder og liknende*fallvilt:* dødt vilt som ikke er felt under lovlig jakt, fangst eller lisensfelling. Døde individer av vilt i oppdrett eller dyrepark anses ikke som fallvilt*Fallviltbasen:* et nasjonalt søknadssystem for dødt vilt av arter som er registrerings- og merkepliktige*innfanging:* når viltlevende individ av viltarter fanges inn eller tas hånd om og viltet skal være i live etter innfangingen. Immobilisering av viltlevende individ av viltarter anses også som innfanging*merkepliktig vilt:* døde individer av viltarter som fremgår av vedlegg 1 og egg fra alle viltarter. Dette omfatter vilt, deler av vilt, preparater og skinn av vilt*merking av levende vilt:* påføring eller festing av merker, ringer, fargestoffer, målere, loggere, microchip, sendere, kamera, opptakere, implantat eller andre gjenstander på eller i viltlevende dyr*midlertidig fremvisning:* når dyr framvises for publikum i en avgrenset periode utenfor sine vante omgivelser, med eller uten oppstalling på stedet over natten*oppdrett av vilt:* hold av vilt i fangenskap for næringsmessig produksjon eller produksjon av livdyr*preparering:* all bearbeiding av dødt vilt med sikte på varig konservering. Koking og bleking av skaller fra arter som ikke er registreringspliktige, og buntmaker- og garvevirksomhet, omfattes ikke av begrepet*registreringspliktig vilt:* døde individer av viltarter som fremgår av vedlegg 1 og egg fra alle viltarter. Dette omfatter vilt, deler av vilt, preparater og skinn av vilt*ringmerking:* merking av viltlevende fugler eller flaggermus, når merkingen kun består i å feste enkel metallring på individets fot*sirkus:* alle former for omreisende forestillinger der dyr framvises for publikum*utsetting:* når vilt slippes fritt ut i naturen*uttak:* enhver form for avliving eller fjerning av vilt fra naturen. Som uttak regnes også fjerning, flytting og skade på egg fra viltarter, uavhengig av om egget er med foster, ubefruktet eller dødt (råteegg)*vilt:* naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norge.
+I denne forskriften forstås med
+
+1. *dyrepark:* alle former for stasjonære og varige anlegg der dyr holdes for å framvises for publikum, inklusive dyrehager, kommersielle akvarier, besøksgårder og liknende
+2. *fallvilt:* dødt vilt som ikke er felt under lovlig jakt, fangst eller lisensfelling. Døde individer av vilt i oppdrett eller dyrepark anses ikke som fallvilt
+3. *Fallviltbasen:* et nasjonalt søknadssystem for dødt vilt av arter som er registrerings- og merkepliktige
+4. *innfanging:* når viltlevende individ av viltarter fanges inn eller tas hånd om og viltet skal være i live etter innfangingen. Immobilisering av viltlevende individ av viltarter anses også som innfanging
+5. *merkepliktig vilt:* døde individer av viltarter som fremgår av vedlegg 1 og egg fra alle viltarter. Dette omfatter vilt, deler av vilt, preparater og skinn av vilt
+6. *merking av levende vilt:* påføring eller festing av merker, ringer, fargestoffer, målere, loggere, microchip, sendere, kamera, opptakere, implantat eller andre gjenstander på eller i viltlevende dyr
+7. *midlertidig fremvisning:* når dyr framvises for publikum i en avgrenset periode utenfor sine vante omgivelser, med eller uten oppstalling på stedet over natten
+8. *oppdrett av vilt:* hold av vilt i fangenskap for næringsmessig produksjon eller produksjon av livdyr
+9. *preparering:* all bearbeiding av dødt vilt med sikte på varig konservering. Koking og bleking av skaller fra arter som ikke er registreringspliktige, og buntmaker- og garvevirksomhet, omfattes ikke av begrepet
+10. *registreringspliktig vilt:* døde individer av viltarter som fremgår av vedlegg 1 og egg fra alle viltarter. Dette omfatter vilt, deler av vilt, preparater og skinn av vilt
+11. *ringmerking:* merking av viltlevende fugler eller flaggermus, når merkingen kun består i å feste enkel metallring på individets fot
+12. *sirkus:* alle former for omreisende forestillinger der dyr framvises for publikum
+13. *utsetting:* når vilt slippes fritt ut i naturen
+14. *uttak:* enhver form for avliving eller fjerning av vilt fra naturen. Som uttak regnes også fjerning, flytting og skade på egg fra viltarter, uavhengig av om egget er med foster, ubefruktet eller dødt (råteegg)
+15. *vilt:* naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norge.
 
 > Endret ved forskrifter [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
@@ -147,11 +163,21 @@ Skadefelling og annet uttak av vilt skal følge av lov eller vedtak med hjemmel 
 
 ### § 3-2. Virkeområde for bestemmelsene om skadefelling
 
-Bestemmelsene i [§ 3-3](forskrift/2020-04-01-565/§3-3) til [§ 3-10](forskrift/2020-04-01-565/§3-10) og [§ 3-13](forskrift/2020-04-01-565/§3-13) til [§ 3-14](forskrift/2020-04-01-565/§3-14) gjelder for alle viltarter unntattsmågnagere og krypdyr som gjør skade på person eller eiendom, jf. [naturmangfoldloven § 17](lov/2009-06-19-100/§17) første leddhjortevilt og bever som gjør skade på avling, skog, vann eller annen eiendom, jf. [naturmangfoldloven § 18](lov/2009-06-19-100/§18) fjerde leddgaupe, jerv, bjørn, ulv og kongeørn, jf. [forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt.
+Bestemmelsene i [§ 3-3](forskrift/2020-04-01-565/§3-3) til [§ 3-10](forskrift/2020-04-01-565/§3-10) og [§ 3-13](forskrift/2020-04-01-565/§3-13) til [§ 3-14](forskrift/2020-04-01-565/§3-14) gjelder for alle viltarter unntatt
+
+1. smågnagere og krypdyr som gjør skade på person eller eiendom, jf. [naturmangfoldloven § 17](lov/2009-06-19-100/§17) første ledd
+2. hjortevilt og bever som gjør skade på avling, skog, vann eller annen eiendom, jf. [naturmangfoldloven § 18](lov/2009-06-19-100/§18) fjerde ledd
+3. gaupe, jerv, bjørn, ulv og kongeørn, jf. [forskrift 18. mars 2005 nr. 242](forskrift/2005-03-18-242) om forvaltning av rovvilt.
 
 ### § 3-3. Vilkår for skadefelling
 
-Den som har beslutningsmyndighet etter [§ 3-4](forskrift/2020-04-01-565/§3-4) til [§ 3-6](forskrift/2020-04-01-565/§3-6) kan etter søknad gi tillatelse til uttak for å stanse eller avverge skade hvis følgende vilkår er oppfylt:Skaden er eller kan bli av vesentlig økonomisk betydning.Skadeforebyggende tiltak er i rimelig utstrekning forsøkt, vurdert ut fra hvilke verdier som skal beskyttes og kostnadene ved alternative tiltak.Uttaket rettes mot skadegjørende individ.Uttaket er egnet til å stanse eller vesentlig begrense skadesituasjonen.Uttaket ikke truer bestandens overlevelse.
+Den som har beslutningsmyndighet etter [§ 3-4](forskrift/2020-04-01-565/§3-4) til [§ 3-6](forskrift/2020-04-01-565/§3-6) kan etter søknad gi tillatelse til uttak for å stanse eller avverge skade hvis følgende vilkår er oppfylt:
+
+1. Skaden er eller kan bli av vesentlig økonomisk betydning.
+2. Skadeforebyggende tiltak er i rimelig utstrekning forsøkt, vurdert ut fra hvilke verdier som skal beskyttes og kostnadene ved alternative tiltak.
+3. Uttaket rettes mot skadegjørende individ.
+4. Uttaket er egnet til å stanse eller vesentlig begrense skadesituasjonen.
+5. Uttaket ikke truer bestandens overlevelse.
 
 Dersom mordyr avlives i yngletiden skal avkommet om mulig også avlives.
 
@@ -167,7 +193,11 @@ Den skadelidte skal uten ugrunnet opphold rapportere om uttaket til kommunen, me
 
 ### § 3-5. Skadefelling etter beslutning fra kommunen
 
-Dersom vilkårene i [§ 3-3](forskrift/2020-04-01-565/§3-3) er oppfylt, og det er nødvendig for å stanse eller avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom, kan kommunen etter søknad gi tillatelse til uttak av bestemte individ av følgende arter:knoppsvane, gråmåke, svartbak, stokkand, siland, laksand, storskarv, toppskarv, gråhegre, grønnspett, svartspett, flaggspett, kaie, kornkråke, stær, dompap, gulspurv, ekorn og haregrågås unntatt i de kommuner som frem til 1. januar 2020 tilhørte Finnmark fylkehvitkinngås i fylkene Østfold, Buskerud, Akershus, Innlandet, Vestfold, Telemark og Agder.
+Dersom vilkårene i [§ 3-3](forskrift/2020-04-01-565/§3-3) er oppfylt, og det er nødvendig for å stanse eller avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom, kan kommunen etter søknad gi tillatelse til uttak av bestemte individ av følgende arter:
+
+1. knoppsvane, gråmåke, svartbak, stokkand, siland, laksand, storskarv, toppskarv, gråhegre, grønnspett, svartspett, flaggspett, kaie, kornkråke, stær, dompap, gulspurv, ekorn og hare
+2. grågås unntatt i de kommuner som frem til 1. januar 2020 tilhørte Finnmark fylke
+3. hvitkinngås i fylkene Østfold, Buskerud, Akershus, Innlandet, Vestfold, Telemark og Agder.
 
 Kommunen kan av eget tiltak iverksette uttak av bestemte individ av alle hjorteviltartene og villsvin når de oppholder seg på trafikkerte eller tettbygde områder, og de utgjør en fare for skade på person eller skaper trafikkfarlige situasjoner.
 
@@ -177,7 +207,11 @@ Kommunen kan av eget tiltak iverksette uttak av knoppsvane og kanadagås når de
 
 ### § 3-6. Skadefelling etter beslutning fra statsforvalteren
 
-Dersom vilkårene i [§ 3-3](forskrift/2020-04-01-565/§3-3) er oppfylt, og det er nødvendig for å stanse eller avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom, kan statsforvalteren etter søknad gi tillatelse til uttak av bestemte individ av følgende arter:de artene som ikke er nevnt i [§ 3-4](forskrift/2020-04-01-565/§3-4) eller [§ 3-5](forskrift/2020-04-01-565/§3-5)grågås i de kommuner som frem til 1. januar 2020 tilhørte Finnmark fylkehvitkinngås i de fylker som ikke omfattes av [§ 3-5](forskrift/2020-04-01-565/§3-5) første ledd bokstav c.
+Dersom vilkårene i [§ 3-3](forskrift/2020-04-01-565/§3-3) er oppfylt, og det er nødvendig for å stanse eller avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom, kan statsforvalteren etter søknad gi tillatelse til uttak av bestemte individ av følgende arter:
+
+1. de artene som ikke er nevnt i [§ 3-4](forskrift/2020-04-01-565/§3-4) eller [§ 3-5](forskrift/2020-04-01-565/§3-5)
+2. grågås i de kommuner som frem til 1. januar 2020 tilhørte Finnmark fylke
+3. hvitkinngås i de fylker som ikke omfattes av [§ 3-5](forskrift/2020-04-01-565/§3-5) første ledd bokstav c.
 
 Statsforvalteren kan etter søknad gi tillatelse til uttak av vilt for å beskytte naturlige forekommende planter, dyr og økosystemer.
 
@@ -285,7 +319,11 @@ Dersom driften av et viltoppdrett opphører, plikter eieren å gi melding om det
 
 ### § 4-7. Anskaffelse av dyr til oppdrett
 
-Til oppdrett kan det kun benyttes vilt eller avkom fra vilt som erinnfanget med tillatelse etter [§ 2-8](forskrift/2020-04-01-565/§2-8)ervervet fra annet lovlig viltoppdrett i Norge, ellerinnført fra utlandet for oppdrett i samsvar med forskrift om fremmede organismer.
+Til oppdrett kan det kun benyttes vilt eller avkom fra vilt som er
+
+1. innfanget med tillatelse etter [§ 2-8](forskrift/2020-04-01-565/§2-8)
+2. ervervet fra annet lovlig viltoppdrett i Norge, eller
+3. innført fra utlandet for oppdrett i samsvar med forskrift om fremmede organismer.
 
 ### Hold for fremvisning, rehabilitering, i dyrepark eller for andre formål
 
@@ -293,7 +331,10 @@ Til oppdrett kan det kun benyttes vilt eller avkom fra vilt som erinnfanget med 
 
 Miljødirektoratet eller Landbruksdirektoratet kan etter søknad gi tillatelse til hold av vilt i dyrepark eller for midlertidig fremvisning.
 
-Unntatt fra kravet om tillatelse til hold etter første ledd ervilt som er innfanget med tillatelse etter [§ 2-9](forskrift/2020-04-01-565/§2-9)hare, elg, hjort, rådyr, rein, rødrev, grevling, oter og grågås, som er ervervet fra dyrepark i Norge.
+Unntatt fra kravet om tillatelse til hold etter første ledd er
+
+1. vilt som er innfanget med tillatelse etter [§ 2-9](forskrift/2020-04-01-565/§2-9)
+2. hare, elg, hjort, rådyr, rein, rødrev, grevling, oter og grågås, som er ervervet fra dyrepark i Norge.
 
 Rovfugler og ugler skal ikke holdes i dyrepark eller benyttes til fremvisning.
 
@@ -439,7 +480,14 @@ Registrerte preparater av arter som ikke er merkepliktige skal påføres synlig 
 
 Autorisert preparant som får hånd om merkepliktig vilt plikter å merke viltet etter retningslinjer fastsatt av Miljødirektoratet.
 
-Dersom ikke annet er bestemt gjelder følgende:Merking skal senest skje når viltet er ferdig preparert og før preparatet skal utleveres fra preparant.Merkene skal være permanent festet til viltet.Merket skal festes i nakken på preparater av pattedyr.Merket skal festes på ryggen mellom vingene på fugler.Preparater merket med microchip skal påføres synlig microchipnummer.Påsatt merke skal ikke fjernes fra preparatet.
+Dersom ikke annet er bestemt gjelder følgende:
+
+1. Merking skal senest skje når viltet er ferdig preparert og før preparatet skal utleveres fra preparant.
+2. Merkene skal være permanent festet til viltet.
+3. Merket skal festes i nakken på preparater av pattedyr.
+4. Merket skal festes på ryggen mellom vingene på fugler.
+5. Preparater merket med microchip skal påføres synlig microchipnummer.
+6. Påsatt merke skal ikke fjernes fra preparatet.
 
 ### § 7-9. Oppbevaring av deler av vilt i preparantverksted
 
@@ -521,7 +569,12 @@ Overtredelser av bestemmelser gitt i denne forskriften straffes etter [viltressu
 
 Forskriften trer i kraft straks.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[Forskrift 1. september 1997 nr. 1000](forskrift/1997-09-01-1000) om felling av viltarter som gjør skade eller som vesentlig reduserer andre viltarters reproduksjon.[Forskrift 15. februar 1999 nr. 357](forskrift/1999-02-15-357) om hold av vilt i fangenskap og om oppdrett av vilt i innhegnet område.[Forskrift 14. mars 2003 nr. 349](forskrift/2003-03-14-349) om innfanging og innsamling av vilt for vitenskapelige eller andre særlige formål.[Forskrift 18. juni 2004 nr. 913](forskrift/2004-06-18-913) om ivaretakelse av dødt vilt.
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [Forskrift 1. september 1997 nr. 1000](forskrift/1997-09-01-1000) om felling av viltarter som gjør skade eller som vesentlig reduserer andre viltarters reproduksjon.
+2. [Forskrift 15. februar 1999 nr. 357](forskrift/1999-02-15-357) om hold av vilt i fangenskap og om oppdrett av vilt i innhegnet område.
+3. [Forskrift 14. mars 2003 nr. 349](forskrift/2003-03-14-349) om innfanging og innsamling av vilt for vitenskapelige eller andre særlige formål.
+4. [Forskrift 18. juni 2004 nr. 913](forskrift/2004-06-18-913) om ivaretakelse av dødt vilt.
 
 ### § 8-5. Overgangsbestemmelse
 

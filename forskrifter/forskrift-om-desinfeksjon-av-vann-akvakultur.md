@@ -15,7 +15,7 @@ xml_hash: "3a0ec7a9c098ab2474fa1fb9f2279b2918c410f96b8cd442e4c270303efcad18"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,31 @@ Formålet med denne forskriften er å forebygge og begrense spredning av smittso
 
 ### § 2. Virkeområde
 
-Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett1virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk2virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum3transportenheter for akvatiske organismer fra oppdrett4virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser
+Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;
 
-1 Jfr. slakteriforskriften.2 Jfr. sjukdomsforskrifter for akvatiske organismer.3 Jfr. forskrift om innførsel og utførsel av akvatiske organismer, produkter og smitteførende gjenstander.4 Jfr. forskrift om transport av akvatiske organismer.
+- virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett1
+- virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk2
+- virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum3
+- transportenheter for akvatiske organismer fra oppdrett4
+- virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser
+
+1 Jfr. slakteriforskriften.
+
+2 Jfr. sjukdomsforskrifter for akvatiske organismer.
+
+3 Jfr. forskrift om innførsel og utførsel av akvatiske organismer, produkter og smitteførende gjenstander.
+
+4 Jfr. forskrift om transport av akvatiske organismer.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Akvatiske organismer:* alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.*Akvakultur:* virksomhet der en driver oppdrett1 eller på annen måte holder akvatiske organismer i fangenskap.*Eksotisk smittestoff:* et kjent smittestoff som ikke er dokumentert tilstede i Norge.*Eksotiske arter av akvatiske organismer:* akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.*Prosedyre:* dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.
+I denne forskriften menes med:
+
+- *Akvatiske organismer:* alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.
+- *Akvakultur:* virksomhet der en driver oppdrett1 eller på annen måte holder akvatiske organismer i fangenskap.
+- *Eksotisk smittestoff:* et kjent smittestoff som ikke er dokumentert tilstede i Norge.
+- *Eksotiske arter av akvatiske organismer:* akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.
+- *Prosedyre:* dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.
 
 1 Jfr. [oppdrettslovens § 2](lov/1985-06-14-68/§2).
 
@@ -118,7 +136,11 @@ Avløpsvann fra slakterier/tilvirkningsanlegg skal filtreres gjennom silanordnin
 
 ### § 11. Krav til teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann
 
-Godkjent teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal som et minimum ha følgende sikkerhetsfunksjoner:det skal være montert sikringsanordning som sørger for at kravene til desinfeksjonsmidlets/metodens «konsentrasjon» (mg/l, mJ/cm2, °C m.v.) og virketid overholdesdet skal være montert sikring mot driftsstans og/eller annen funksjonsfeildet skal være montert registreringsenhet som skal lagre informasjon som gjør det mulig å kontrollere at desinfeksjonsmidlets/metodens «konsentrasjon» og virketid har vært i samsvar med kravene, samt registrere driftsstans/funksjonsfeil.
+Godkjent teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal som et minimum ha følgende sikkerhetsfunksjoner:
+
+- det skal være montert sikringsanordning som sørger for at kravene til desinfeksjonsmidlets/metodens «konsentrasjon» (mg/l, mJ/cm2, °C m.v.) og virketid overholdes
+- det skal være montert sikring mot driftsstans og/eller annen funksjonsfeil
+- det skal være montert registreringsenhet som skal lagre informasjon som gjør det mulig å kontrollere at desinfeksjonsmidlets/metodens «konsentrasjon» og virketid har vært i samsvar med kravene, samt registrere driftsstans/funksjonsfeil.
 
 ## Kapittel IV Godkjenningsprosedyre og tilsynsordning
 
@@ -144,9 +166,20 @@ Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene git
 
 ### § 14. Krav til registreringer og dokumentasjon
 
-Virksomheter som har teknisk utstyr godkjent etter denne forskrift skal ha utarbeidet prosedyrer som beskriver rutiner for:oppstart.avstengning.tiltak ved alarm.uttak og analyser av prøver for dokumentasjon av desinfeksjonseffekt.periodisk vedlikehold.
+Virksomheter som har teknisk utstyr godkjent etter denne forskrift skal ha utarbeidet prosedyrer som beskriver rutiner for:
 
-Registreringer og annen dokumentasjon skal minimum inneholde:godkjenningspapirer for vanndesinfeksjonsanlegget.utskrift eller data fra registreringsenhet, jfr. [§ 11](forskrift/1997-02-20-192/§11), siste setning.resultater fra analyser av prøver for dokumentasjon av desinfeksjonseffekt.journaler/rapporter fra virksomhetens prosedyrer for egenkontroll.
+- oppstart.
+- avstengning.
+- tiltak ved alarm.
+- uttak og analyser av prøver for dokumentasjon av desinfeksjonseffekt.
+- periodisk vedlikehold.
+
+Registreringer og annen dokumentasjon skal minimum inneholde:
+
+- godkjenningspapirer for vanndesinfeksjonsanlegget.
+- utskrift eller data fra registreringsenhet, jfr. [§ 11](forskrift/1997-02-20-192/§11), siste setning.
+- resultater fra analyser av prøver for dokumentasjon av desinfeksjonseffekt.
+- journaler/rapporter fra virksomhetens prosedyrer for egenkontroll.
 
 Dokumentasjon og registreringer skal oppbevares ved virksomheten i minimum 5 år, og være tilgjengelig for tilsynsmyndighet.
 

@@ -22,4 +22,7 @@ eu_basis: []
 
 # Vedtak om bemyndigelse for Sjøfartsdirektoratet til å gi forskrifter i.h.t. §§ 36 – 38 i lov om statskontroll med skips sjødyktighet.
 
-Sjøfartsdirektoratet bemyndiges til i medhold av § 41 i lov om Statskontrol med Skibes Sjødygtighed m.v. av [9. juni 1903 nr. 7](lov/1903-06-09-7)å utferdige nærmere forskrifter angående den i §§ 36 – 38 i samme lov anordnede besiktelse og angående de fordringer som derunder skal stilles til fartøyet og dets enkelte deler, og tilå foreta endringer i forskrifter som tidligere er utferdiget i medhold av § 41 i nevnte lov.
+Sjøfartsdirektoratet bemyndiges til i medhold av § 41 i lov om Statskontrol med Skibes Sjødygtighed m.v. av [9. juni 1903 nr. 7](lov/1903-06-09-7)
+
+1. å utferdige nærmere forskrifter angående den i §§ 36 – 38 i samme lov anordnede besiktelse og angående de fordringer som derunder skal stilles til fartøyet og dets enkelte deler, og til
+2. å foreta endringer i forskrifter som tidligere er utferdiget i medhold av § 41 i nevnte lov.

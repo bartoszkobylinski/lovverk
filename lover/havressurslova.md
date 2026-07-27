@@ -15,7 +15,7 @@ xml_hash: "7a70ac7502350e34fa4be84798f56ef80cc8b734ff9c1cb86c6349ceb2ac7875"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,15 @@ Lova gjeld med dei avgrensingane som følgjer av internasjonale avtalar og folke
 
 Departementet skal vurdere kva slags forvaltningstiltak som er nødvendige for å sikre ei berekraftig forvaltning av dei viltlevande marine ressursane.
 
-Ved forvaltninga av dei viltlevande marine ressursane og det tilhøyrande genetiske materialet skal det leggjast vekt påei føre-var-tilnærming i tråd med internasjonale avtalar og retningslinjerei økosystembasert tilnærming som tek omsyn til leveområde og biologisk mangfaldein effektiv kontroll med hausting og anna utnytting av ressursaneei formålstenleg fordeling av ressursane, som mellom anna kan medverke til å sikre sysselsetjing og busetjing i kystsamfunnaei optimal utnytting av ressursane som er tilpassa marin verdiskaping, marknad og industriat haustingsmetodar og reiskapsbruk tek omsyn til behovet for å redusere moglege negative verknader på levande marine ressursarat forvaltningstiltak er med og sikrar det materielle grunnlaget for samisk kultur.
+Ved forvaltninga av dei viltlevande marine ressursane og det tilhøyrande genetiske materialet skal det leggjast vekt på
+
+1. ei føre-var-tilnærming i tråd med internasjonale avtalar og retningslinjer
+2. ei økosystembasert tilnærming som tek omsyn til leveområde og biologisk mangfald
+3. ein effektiv kontroll med hausting og anna utnytting av ressursane
+4. ei formålstenleg fordeling av ressursane, som mellom anna kan medverke til å sikre sysselsetjing og busetjing i kystsamfunna
+5. ei optimal utnytting av ressursane som er tilpassa marin verdiskaping, marknad og industri
+6. at haustingsmetodar og reiskapsbruk tek omsyn til behovet for å redusere moglege negative verknader på levande marine ressursar
+7. at forvaltningstiltak er med og sikrar det materielle grunnlaget for samisk kultur.
 
 > Endra ved lover [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 feb 2011 iflg. [res. 7 jan 2011 nr. 10](forskrift/2011-01-07-10)), [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
 
@@ -134,7 +142,12 @@ Når verksemda ikkje fell inn under [deltakerloven](lov/1999-03-26-15), kan kvot
 
 ### § 13. Kvotar til forsking, overvaking, undervisning og praktiske reiskapsforsøk
 
-Det kan tildelast kvotar tilforskingsinstitusjonarden som får løyve til praktiske forsøk til utvikling av reiskapar, fangstmetodar og liknande etter [§ 66](lov/2008-06-06-37/§66)overvaking av fiskefeltoffentleg godkjende undervisningsinstitusjonar.
+Det kan tildelast kvotar til
+
+1. forskingsinstitusjonar
+2. den som får løyve til praktiske forsøk til utvikling av reiskapar, fangstmetodar og liknande etter [§ 66](lov/2008-06-06-37/§66)
+3. overvaking av fiskefelt
+4. offentleg godkjende undervisningsinstitusjonar.
 
 Ved hausting av kvotar som er nemnde i første ledd, kan det nyttast eigne fartøy eller leigde fartøy som det er gjeve ervervsløyve for, når verksemda elles ville kome inn under [deltakerloven](lov/1999-03-26-15).
 
@@ -158,7 +171,15 @@ Departementet kan i forskrift fastsetje plikt til ilandføring av bifangst av an
 
 All hausting og anna utnytting av viltlevande marine ressursar skal skje så skånsamt som mogleg.
 
-Departementet kan fastsetje forskrifter om gjennomføring av hausting, mellom anna omtidsrom for hausting og tidspunkt for utseglingkor mange fartøy frå ulike grupper som kan hauste samtidig i eit områdeforbod mot hausting i visse område, av visse artar eller med visse reiskaparutforming, merking, bruk og røkting av reiskapar og andre innretningar som vert nytta i samband med haustingstørste eller minste tillatne storleik på individ og at det berre eller for ein del skal haustast hann- eller hoindividtillaten bifangstutforming og bruk av haustingsreiskapar for å redusere skadeverknader på andre artar enn målartane.
+Departementet kan fastsetje forskrifter om gjennomføring av hausting, mellom anna om
+
+1. tidsrom for hausting og tidspunkt for utsegling
+2. kor mange fartøy frå ulike grupper som kan hauste samtidig i eit område
+3. forbod mot hausting i visse område, av visse artar eller med visse reiskapar
+4. utforming, merking, bruk og røkting av reiskapar og andre innretningar som vert nytta i samband med hausting
+5. største eller minste tillatne storleik på individ og at det berre eller for ein del skal haustast hann- eller hoindivid
+6. tillaten bifangst
+7. utforming og bruk av haustingsreiskapar for å redusere skadeverknader på andre artar enn målartane.
 
 ### § 17. Tap av reiskapar
 
@@ -194,7 +215,15 @@ Departementet kan forby eller avgrense hausting i område og av artar som kan ve
 
 ### § 22. Sports- og rekreasjonsfiske
 
-Når det vert hausta med fartøy som ikkje er merkeregistrerte eller fiska frå land, kan det ikkje nyttast andre reiskapar ennhandsnøre, fiskestong og liknande handreiskaparéi maskindriven jukse eller dorggarn med samla lengd på inntil 210 meterliner med inntil 300 onglarinntil 20 teiner eller ruser.Desse reiskapsavgrensingane gjeld også når same person eller dei same personane nyttar fleire fartøy.
+Når det vert hausta med fartøy som ikkje er merkeregistrerte eller fiska frå land, kan det ikkje nyttast andre reiskapar enn
+
+1. handsnøre, fiskestong og liknande handreiskapar
+2. éi maskindriven jukse eller dorg
+3. garn med samla lengd på inntil 210 meter
+4. liner med inntil 300 onglar
+5. inntil 20 teiner eller ruser.
+
+Desse reiskapsavgrensingane gjeld også når same person eller dei same personane nyttar fleire fartøy.
 
 Departementet kan i forskrift gjere unntak frå føresegnene i første ledd for bruk av landnot. Departementet kan også gjere unntak frå føresegnene i første ledd i særskilte tilfelle der det er nødvendig for å fremme kystkulturformål.
 
@@ -334,7 +363,12 @@ Panterett i fangst fell bort når fangsten er omsett. Den som utan samtykke frå
 
 ### § 32. Lokale reguleringar og utval
 
-Departementet kan opprette utvalsområde der Fiskeridirektoratet eller utval som er oppnemnde av Fiskeridirektoratet, kan fastsetje lokale forskrifter omhavdeling og trygg avstand mellom ulike reiskapsgrupperutplassering og merking av reiskapartidspunkt for utsegling og liknandemelde- og oppgåveplikt til Fiskeridirektoratet for å delta i hausting i slike område.
+Departementet kan opprette utvalsområde der Fiskeridirektoratet eller utval som er oppnemnde av Fiskeridirektoratet, kan fastsetje lokale forskrifter om
+
+1. havdeling og trygg avstand mellom ulike reiskapsgrupper
+2. utplassering og merking av reiskapar
+3. tidspunkt for utsegling og liknande
+4. melde- og oppgåveplikt til Fiskeridirektoratet for å delta i hausting i slike område.
 
 Fiskeridirektoratet kan fastsetje lokale forskrifter også utanfor slike område.
 
@@ -348,7 +382,16 @@ I utvalsområde kan Fiskeridirektoratet nemne ut tilsynspersonar som ved rettlei
 
 ### § 34. Plikt til å leggje til rette for kontroll om bord i fartøy
 
-For å leggje til rette for kontroll med føresegner som er fastsette i eller i medhald av lova eller anna havressurslovgjeving, kan departementet i forskrift forby eller gje pålegg omå ha om bord eller bruke reiskaparkorleis reiskapar som ikkje er i bruk, skal oppbevarastå ha om bord eller bruke utstyr som kan nyttast til sortering, oppmaling, dumping, utkast o.a. av fangstå ha om bord og bruke utstyr som overvaker og rapporterer aktiviteten til fartøyet, som til dømes satellittsporingsutstyr og ferdskrivarå ha om bord godkjende teikningar av oppbevaringsstader og av fartøyet elleskorleis fangst skal merkjast og stuast, og å ha om bord oversikt over korleis fangsten er stuaå ha om bord og bruke utstyr og dokumentasjon som sikrar kontroll med det kvantum som vert haustautstyr og innretningar for å sikre trygg tilkomst ved kontroll av fartøy.
+For å leggje til rette for kontroll med føresegner som er fastsette i eller i medhald av lova eller anna havressurslovgjeving, kan departementet i forskrift forby eller gje pålegg om
+
+1. å ha om bord eller bruke reiskapar
+2. korleis reiskapar som ikkje er i bruk, skal oppbevarast
+3. å ha om bord eller bruke utstyr som kan nyttast til sortering, oppmaling, dumping, utkast o.a. av fangst
+4. å ha om bord og bruke utstyr som overvaker og rapporterer aktiviteten til fartøyet, som til dømes satellittsporingsutstyr og ferdskrivar
+5. å ha om bord godkjende teikningar av oppbevaringsstader og av fartøyet elles
+6. korleis fangst skal merkjast og stuast, og å ha om bord oversikt over korleis fangsten er stua
+7. å ha om bord og bruke utstyr og dokumentasjon som sikrar kontroll med det kvantum som vert hausta
+8. utstyr og innretningar for å sikre trygg tilkomst ved kontroll av fartøy.
 
 > Endra ved lover [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. 1 jan 2022 iflg. [res. 17 des 2021 nr. 3629](forskrift/2021-12-17-3629)).
 
@@ -432,7 +475,12 @@ Politiet skal yte Fiskeridirektoratet nødvendig hjelp og vern ved gjennomførin
 
 Inspektørar og observatørar kan plasserast om bord i haustingsfartøy. Dei skal ha nødvendig kost og losji for fartøyet si rekning, og dei skal utan vederlag kunne bruke kommunikasjonsutstyr.
 
-Departementet kan fastsetje forskrift omoppgåvene til observatørenkva fartøygrupper og kor mange fartøy som skal ha inspektør eller observatør om bord, og korleis fartøya skal veljast utat kostnadene ved inspektør- og observatørordningar, mellom anna løns- og transportkostnadene, skal fordelast på alle deltakande fartøy i ei nærare definert fartøygruppe eller i særlege tilfelle heilt eller delvis berast av enkeltfartøyat fartøy som ikkje har betalt pålagde inspektør- eller observatørkostnader kan nektast å delta i vedkomande haustingsverksemd.
+Departementet kan fastsetje forskrift om
+
+1. oppgåvene til observatøren
+2. kva fartøygrupper og kor mange fartøy som skal ha inspektør eller observatør om bord, og korleis fartøya skal veljast ut
+3. at kostnadene ved inspektør- og observatørordningar, mellom anna løns- og transportkostnadene, skal fordelast på alle deltakande fartøy i ei nærare definert fartøygruppe eller i særlege tilfelle heilt eller delvis berast av enkeltfartøy
+4. at fartøy som ikkje har betalt pålagde inspektør- eller observatørkostnader kan nektast å delta i vedkomande haustingsverksemd.
 
 Krav etter vedtak etter andre ledd bokstav c er tvangsgrunnlag for utlegg.
 
@@ -470,11 +518,22 @@ Når det er nødvendig for å gjennomføre avtale med framand stat, kan Kongen i
 
 ### § 50. Forbod mot ilandføring av fangst
 
-Departementet kan forby ilandføring av viltlevande marine ressursar som er fanga med fartøy som ikkje er norsk, eller med fartøy som ikkje er disponert av norsk statsborgar eller nokon som er likestilt med norsk statsborgar, nårfangsten er frå ein fiskebestand av felles interesse med andre statar, som ikkje er forvalta fellesfangsten er teken i strid med eit ønskjeleg beskatnings- eller fiskemønster, fører til overfiske av forsvarlege totalkvotar eller er i strid med internasjonale avtalarflaggstaten etter oppmoding ikkje kan stadfeste at fangsten er teken i fiskeriaktivitet i samsvar med eit ønskjeleg beskatnings- eller fiskemønster, eller er i strid med reglar om fiskeriaktivitet som er avtalte med ein framand stat.
+Departementet kan forby ilandføring av viltlevande marine ressursar som er fanga med fartøy som ikkje er norsk, eller med fartøy som ikkje er disponert av norsk statsborgar eller nokon som er likestilt med norsk statsborgar, når
+
+1. fangsten er frå ein fiskebestand av felles interesse med andre statar, som ikkje er forvalta felles
+2. fangsten er teken i strid med eit ønskjeleg beskatnings- eller fiskemønster, fører til overfiske av forsvarlege totalkvotar eller er i strid med internasjonale avtalar
+3. flaggstaten etter oppmoding ikkje kan stadfeste at fangsten er teken i fiskeriaktivitet i samsvar med eit ønskjeleg beskatnings- eller fiskemønster, eller er i strid med reglar om fiskeriaktivitet som er avtalte med ein framand stat.
 
 ### § 51. Tiltak mot dei som driv eller medverkar til ulovleg, urapportert og uregulert fiske
 
-Departementet kan fastsetje forskrift omforbod mot ilandføring, omlasting og tilverking av fangst i norsk hamn med fartøy som ikkje er norsk, når fartøyet har teke del i fiske som klårt strir mot eit ønskjeleg beskatnings- eller fiskemønster, eller klårt strir mot reglar om fiske som er avtalte med ein framand statforbod mot ilandføring, omlasting og tilverking av fangst i norsk hamn med fartøy som ikkje er norsk, når den som eig eller driv fartøyet er eit rettssubjekt som med eit anna fartøy har teke del i fiske som klårt strir mot eit ønskjeleg beskatnings- eller fiskemønster, eller klårt strir mot reglar om fiske som er avtalte med ein framand statforbod mot lasting og lossing og mot hamne-, forsynings- og støttetenester i norsk hamn til og frå fartøy som har eller får forbod etter bokstav a eller bforbod i territorialfarvatnet mot forsynings- og støttetenester og omlasting til og frå fartøy som har eller får forbod etter bokstav a eller bforbod mot forsynings- og støttetenester til og frå anna fartøy med norsk fartøy eller på annan måte, når det førstnemnde fartøyet har eller får forbod etter bokstav a til dforbod etter bokstav a til e for fartøy som er oppførte på lister i regionale fiskeriforvaltningsorganisasjonar over fartøy som driv ulovleg, urapportert eller uregulert fiske.
+Departementet kan fastsetje forskrift om
+
+1. forbod mot ilandføring, omlasting og tilverking av fangst i norsk hamn med fartøy som ikkje er norsk, når fartøyet har teke del i fiske som klårt strir mot eit ønskjeleg beskatnings- eller fiskemønster, eller klårt strir mot reglar om fiske som er avtalte med ein framand stat
+2. forbod mot ilandføring, omlasting og tilverking av fangst i norsk hamn med fartøy som ikkje er norsk, når den som eig eller driv fartøyet er eit rettssubjekt som med eit anna fartøy har teke del i fiske som klårt strir mot eit ønskjeleg beskatnings- eller fiskemønster, eller klårt strir mot reglar om fiske som er avtalte med ein framand stat
+3. forbod mot lasting og lossing og mot hamne-, forsynings- og støttetenester i norsk hamn til og frå fartøy som har eller får forbod etter bokstav a eller b
+4. forbod i territorialfarvatnet mot forsynings- og støttetenester og omlasting til og frå fartøy som har eller får forbod etter bokstav a eller b
+5. forbod mot forsynings- og støttetenester til og frå anna fartøy med norsk fartøy eller på annan måte, når det førstnemnde fartøyet har eller får forbod etter bokstav a til d
+6. forbod etter bokstav a til e for fartøy som er oppførte på lister i regionale fiskeriforvaltningsorganisasjonar over fartøy som driv ulovleg, urapportert eller uregulert fiske.
 
 Kongen kan fastsetje forskrift som forbyr fartøy som ikkje er norsk, jf. [deltakerloven § 5](lov/1999-03-26-15/§5), tilgang til norske indre farvatn, dersom vilkåra for å forby ilandføring av fangsten etter [§ 50](lov/2008-06-06-37/§50) eller etter paragrafen her første ledd bokstav a, b eller f, er oppfylte.
 
@@ -496,7 +555,14 @@ Det er likevel lov å ta imot eller omsetje slik fangst når det er gjort vedtak
 
 Fangst eller verdien av fangst som er hausta eller levert i strid med føresegner som er fastsette i eller i medhald av lova her, eller [deltakerloven](lov/1999-03-26-15), tilfell vedkomande salslag, eller staten dersom fangsten ikkje fell inn under omsetningsretten til salslaget. Dette gjeld utan omsyn til om tilhøvet medfører straffansvar.
 
-Departementet kan gje forskrift omhandsaminga av saker etter første leddkva for føresegner som er omfatta av første leddkorleis verdien av fangst etter første ledd skal fastsetjastom det kan gjevast vederlag for kostnader ved ilandføring av fangst etter første leddkva salslaga kan bruke midlar som nemnt i første ledd tilat brot på enkelte føresegner etter første ledd likevel ikkje skal medføre inndraging av fangst.
+Departementet kan gje forskrift om
+
+1. handsaminga av saker etter første ledd
+2. kva for føresegner som er omfatta av første ledd
+3. korleis verdien av fangst etter første ledd skal fastsetjast
+4. om det kan gjevast vederlag for kostnader ved ilandføring av fangst etter første ledd
+5. kva salslaga kan bruke midlar som nemnt i første ledd til
+6. at brot på enkelte føresegner etter første ledd likevel ikkje skal medføre inndraging av fangst.
 
 Endeleg vedtak er tvangsgrunnlag for utlegg, og verdien av fangsten kan krevjast inn ved motrekning i fangstoppgjer. Departementet kan gje forskrift om mellombels tilbakehald av fangstverdi.
 
@@ -608,7 +674,11 @@ Departementet kan fastsetje kva som skal reknast som havforsking og praktiske fo
 
 ### § 67. Forskrifter
 
-Departementet kan gje forskrifter til gjennomføring av lova. Forskrifter som er gjevne i medhald av lova, kan fastsetjast ulikt forfartøy- og reiskapsgrupperområde, artar eller tider på årettypar verksemd.
+Departementet kan gje forskrifter til gjennomføring av lova. Forskrifter som er gjevne i medhald av lova, kan fastsetjast ulikt for
+
+1. fartøy- og reiskapsgrupper
+2. område, artar eller tider på året
+3. typar verksemd.
 
 ### § 68. Forskrifter etter saltvassfiskelova o.a.
 

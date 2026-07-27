@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med forskriften er åsikre et fullt forsvarlig arbeidsmiljø for den som har sitt arbeid om bord og som er involvert i arbeid ved økt omgivende trykk under vann eller i trykkammer hvor dykkeren tilføres pustegass.sørge for at all yrkesdykking er underlagt et hensiktsmessig regelverk ved å harmonisere regelverket for yrkesdykking innen sjøfart med tilsvarende regler etter arbeidsmiljøloven.
+Formålet med forskriften er å
+
+1. sikre et fullt forsvarlig arbeidsmiljø for den som har sitt arbeid om bord og som er involvert i arbeid ved økt omgivende trykk under vann eller i trykkammer hvor dykkeren tilføres pustegass.
+2. sørge for at all yrkesdykking er underlagt et hensiktsmessig regelverk ved å harmonisere regelverket for yrkesdykking innen sjøfart med tilsvarende regler etter arbeidsmiljøloven.
 
 ## § 2. Saklig virkeområde
 
@@ -34,7 +37,10 @@ Forskriften gjelder ikke fritidsdykking.
 
 ## § 3. Geografisk virkeområde
 
-Forskriften gjelder fornorske skip uansett hvor de befinner segutenlandske skip i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen.
+Forskriften gjelder for
+
+1. norske skip uansett hvor de befinner seg
+2. utenlandske skip i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen.
 
 ## § 4. Om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk
 

@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Hvilke domstoler forskrift om opptak i retten § 6 gjelder for
 
-[Forskrift 28. september 2018 nr. 1471 om opptak i retten § 6](forskrift/2018-09-28-1471/§6) gjelder ankeforhandlinger vedHålogaland lagmannsrett for avspilling av opptak vedNord-Troms og Senja tingrett.Gulating lagmannsrett for avspilling av opptak vedSør-Rogaland tingrett.
+[Forskrift 28. september 2018 nr. 1471 om opptak i retten § 6](forskrift/2018-09-28-1471/§6) gjelder ankeforhandlinger ved
+
+1. Hålogaland lagmannsrett for avspilling av opptak ved
+
+   1. Nord-Troms og Senja tingrett.
+2. Gulating lagmannsrett for avspilling av opptak ved
+
+   1. Sør-Rogaland tingrett.
 
 > Endret ved [forskrifter 4 juni 2019 nr. 704](forskrift/2019-06-04-704), [28 juni 2021 nr. 2262](forskrift/2021-06-28-2262).
 

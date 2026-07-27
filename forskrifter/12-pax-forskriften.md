@@ -28,13 +28,26 @@ eu_basis: []
 
 (1) Denne forskriften gjelder for norske og utenlandske fartøy med største lengde under 24 meter som fører 12 eller færre passasjerer i Norges territorialfarvann og på elver og innsjøer. Forskriften gjelder også i territorialfarvannet ved Svalbard.
 
-(2) Forskriften gjelder ikke for:fartøy som brukes til lege- og ambulansetjeneste eller organisert skoleskyss og som skal ha passasjersertifikatfartøy som er en del av et skips utrustning og som transporterer passasjerer mellom skipet og land.fartøy hvor personer om bord skal overføres mellom fartøyet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs. Med fornybar energiproduksjon menes produksjon av elektrisk energi ved utnytting av fornybare energiressurser, for eksempel vind, bølger og tidevann.
+(2) Forskriften gjelder ikke for:
+
+1. fartøy som brukes til lege- og ambulansetjeneste eller organisert skoleskyss og som skal ha passasjersertifikat
+2. fartøy som er en del av et skips utrustning og som transporterer passasjerer mellom skipet og land.
+3. fartøy hvor personer om bord skal overføres mellom fartøyet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs. Med fornybar energiproduksjon menes produksjon av elektrisk energi ved utnytting av fornybare energiressurser, for eksempel vind, bølger og tidevann.
 
 > Endret ved forskrift [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
 
 ### § 2. Særlige regler for fartøy som brukes til sjøvettaktiviteter, fartøy som brukes av lag eller foreninger, og fartøy med største lengde 10 m eller mindre
 
-(1) Bestemmelsene i [§ 3](forskrift/2020-01-14-63/§3) til [§ 18](forskrift/2020-01-14-63/§18) gjelder ikke for:fartøy som brukes av skoler, leirskoler eller barnehager til sjøvettaktiviteterfartøy som brukes av medlemmer i lag eller foreninger til fritidsaktiviteterfartøy i territorialfarvannet ved Fastlands-Norge med største lengde 10 meter eller mindre, der fremdriftsmaskineriets maksimale størrelse i forhold til fartøyets største lengde fremgår av tabellen:Største lengde ≤4 m6 m8 m10 mMaks hk/kW15/1225/1940/3060/45
+(1) Bestemmelsene i [§ 3](forskrift/2020-01-14-63/§3) til [§ 18](forskrift/2020-01-14-63/§18) gjelder ikke for:
+
+1. fartøy som brukes av skoler, leirskoler eller barnehager til sjøvettaktiviteter
+2. fartøy som brukes av medlemmer i lag eller foreninger til fritidsaktiviteter
+3. fartøy i territorialfarvannet ved Fastlands-Norge med største lengde 10 meter eller mindre, der fremdriftsmaskineriets maksimale størrelse i forhold til fartøyets største lengde fremgår av tabellen:
+
+   |  |  |  |  |  |
+   | --- | --- | --- | --- | --- |
+   | Største lengde ≤ | 4 m | 6 m | 8 m | 10 m |
+   | Maks hk/kW | 15/12 | 25/19 | 40/30 | 60/45 |
 
 (2) Fartøy nevnt i første ledd, og førere av slike fartøy, skal følge konstruksjons-, utstyrs- og kvalifikasjonskrav som gjelder for fritidsfartøy.
 
@@ -46,7 +59,15 @@ Rederiet skal registrere opplysninger om virksomheten hos Sjøfartsdirektoratet 
 
 ### § 4. Sikkerhetsstyringssystem
 
-(1) Rederiet skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:beskrivelse av virksomheten og operasjonsområdet med eventuelle beskyttede områder der fartøy kan søke ly (nødhavner).beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner, operasjonelle begrensninger som følge av fartøyets konstruksjon og utrustning, og antall personer fartøyet er konstruert for.rutiner for seilasplanlegging.rutiner ved bruk av følgefartøy, herunder kommunikasjon mellom fartøyene.beskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis eller ved bruk av redskaper eller utstyr om bord, og tiltak for å unngå uønskede hendelser.rutiner for vedlikehold av fartøy og utstyr.beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
+(1) Rederiet skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:
+
+1. beskrivelse av virksomheten og operasjonsområdet med eventuelle beskyttede områder der fartøy kan søke ly (nødhavner).
+2. beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner, operasjonelle begrensninger som følge av fartøyets konstruksjon og utrustning, og antall personer fartøyet er konstruert for.
+3. rutiner for seilasplanlegging.
+4. rutiner ved bruk av følgefartøy, herunder kommunikasjon mellom fartøyene.
+5. beskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis eller ved bruk av redskaper eller utstyr om bord, og tiltak for å unngå uønskede hendelser.
+6. rutiner for vedlikehold av fartøy og utstyr.
+7. beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
 
 (2) Rederiet skal ha en årlig, verifiserbar gjennomgang av sikkerhetsstyringssystemet for å vurdere om sikkerhetsstyringssystemet fungerer i tråd med formålet og om det er behov for forbedringer.
 
@@ -68,13 +89,20 @@ Passasjerene skal umiddelbart før avgang motta en sikkerhetsorientering tilpass
 
 ### § 7. Operasjonsbegrensninger i territorialfarvannet ved Fastlands-Norge
 
-For fartøy uten overbygning som gir beskyttelse mot været for alle passasjerer gjelder:Høyeste tillatte hastighet i fartsområde 4 og større i perioden 1. oktober–31. mars er 20 knop.Når fartøyet opererer i over 20 knop i fartsområde 3, eller i fartsområde 4 og større i perioden 1. april–30. september, skal avstanden til nødhavn, eller følgefartøy med plass til alle personer som befinner seg om bord i begge fartøy, ikke overstige 5 nautiske mil.
+For fartøy uten overbygning som gir beskyttelse mot været for alle passasjerer gjelder:
+
+1. Høyeste tillatte hastighet i fartsområde 4 og større i perioden 1. oktober–31. mars er 20 knop.
+2. Når fartøyet opererer i over 20 knop i fartsområde 3, eller i fartsområde 4 og større i perioden 1. april–30. september, skal avstanden til nødhavn, eller følgefartøy med plass til alle personer som befinner seg om bord i begge fartøy, ikke overstige 5 nautiske mil.
 
 ### § 8. Operasjonsbegrensninger i territorialfarvannet ved Svalbard
 
 (1) Seilas i territorialfarvannet ved Svalbard er bare tillatt i perioden 1. mai–31. oktober.
 
-(2) Fartøy uten overbygning som gir beskyttelse mot været for alle passasjerer kan bare seile i følgende områder:*Isfjorden*, avgrenset vestover av en rett linje mellom Daudmannsodden (78° 12′ 10″ N 12° 59′ 00″ Ø) og Revleodden (78° 03′ 00″ N 13° 34′ 40″ Ø).*Kongsfjorden, Krossfjorden, Lilliehöökfjorden, Möllerfjorden og den nordlige del av Forlandsundet*. Området avgrenses vestover av en rett linje mellom Kapp Mitra (79° 06′ 52″ N 11° 10′ 17″ Ø) og Fuglehuken (78° 53′ 46″ N 10° 28′ 10″ Ø), og sørover av en rett linje mellom Murraypynten (78° 43′ 40″ N 11° 11′ 15″ Ø) og Sarstangen (78° 43′ 39″ N 11° 28′ 16″ Ø).*Bellsund, Van Keulenfjorden og Van Mijenfjorden*. Området avgrenses vestover av en rett linje mellom Kapp Martin (77° 43′ 11″ N 13° 56′ 36″ Ø) og Kapp Lyell (77° 34′ 35″ N 14° 14′ 01″ Ø).
+(2) Fartøy uten overbygning som gir beskyttelse mot været for alle passasjerer kan bare seile i følgende områder:
+
+1. *Isfjorden*, avgrenset vestover av en rett linje mellom Daudmannsodden (78° 12′ 10″ N 12° 59′ 00″ Ø) og Revleodden (78° 03′ 00″ N 13° 34′ 40″ Ø).
+2. *Kongsfjorden, Krossfjorden, Lilliehöökfjorden, Möllerfjorden og den nordlige del av Forlandsundet*. Området avgrenses vestover av en rett linje mellom Kapp Mitra (79° 06′ 52″ N 11° 10′ 17″ Ø) og Fuglehuken (78° 53′ 46″ N 10° 28′ 10″ Ø), og sørover av en rett linje mellom Murraypynten (78° 43′ 40″ N 11° 11′ 15″ Ø) og Sarstangen (78° 43′ 39″ N 11° 28′ 16″ Ø).
+3. *Bellsund, Van Keulenfjorden og Van Mijenfjorden*. Området avgrenses vestover av en rett linje mellom Kapp Martin (77° 43′ 11″ N 13° 56′ 36″ Ø) og Kapp Lyell (77° 34′ 35″ N 14° 14′ 01″ Ø).
 
 (3) I områdene nevnt i annet ledd bokstav b og c skal avstanden til nødhavn, eller følgefartøy med plass til alle personer som befinner seg om bord i begge fartøy, ikke overstige 5 nautiske mil.
 
@@ -84,7 +112,11 @@ For fartøy uten overbygning som gir beskyttelse mot været for alle passasjerer
 
 ### § 9. Konstruksjonskrav
 
-(1) Rederiet skal kunne dokumentere at fartøyet er:CE-merket som fritidsfartøy, jf. [forskrift 15. januar 2016 nr. 35](forskrift/2016-01-15-35) om produksjon og omsetning av fritidsfartøy og vannscootere mv.konstruert etter en standard som tilsvarer regelverket for CE-merking av fritidsfartøy, ellervernet eller fredet av Riksantikvaren og minst oppfyller de byggekrav som gjaldt da fartøyet ble bygget.
+(1) Rederiet skal kunne dokumentere at fartøyet er:
+
+1. CE-merket som fritidsfartøy, jf. [forskrift 15. januar 2016 nr. 35](forskrift/2016-01-15-35) om produksjon og omsetning av fritidsfartøy og vannscootere mv.
+2. konstruert etter en standard som tilsvarer regelverket for CE-merking av fritidsfartøy, eller
+3. vernet eller fredet av Riksantikvaren og minst oppfyller de byggekrav som gjaldt da fartøyet ble bygget.
 
 (2) Det skal være faste sitte- eller ståplasser med mulighet for å holde seg fast til alle om bord. Sitteplasser, håndtak og eventuelle ryggstøtter skal være forsvarlig innfestet i fartøyet.
 
@@ -144,9 +176,19 @@ Fartøy i fartsområde 4 eller større og i territorialfarvannet på Svalbard sk
 
 ### § 16. Redningsmidler
 
-(1) Fartøyet skal ha om bord:Redningsflåte eller redningsflåter som oppfyller ISO 9650-1 med kapasitet til alle om bord.Flyteutstyr med minst 100 N oppdrift til alle om bord.En livbøye med lys.En flytende kastering festet til minst 30 meter flytende redningsline.Tre fallskjermlys og tre håndbluss.En innretning som gjør det mulig å plukke opp en person fra vannet.
+(1) Fartøyet skal ha om bord:
 
-(2) Det er ikke nødvendig å føre redningsflåte eller redningsflåter, flyteutstyr eller livbøye nevnt i første ledd bokstav a til c når alle om bord er iførtheldekkende flytedrakt eller dykkerdrakt som alene, eller i kombinasjon med annet flyteutstyr, gir en oppdrift på 150 N, ellerflyteutstyr med 100 N oppdrift og seilasen foregår i fartsområde 2 eller mindre i perioden 1. april–30. september.
+1. Redningsflåte eller redningsflåter som oppfyller ISO 9650-1 med kapasitet til alle om bord.
+2. Flyteutstyr med minst 100 N oppdrift til alle om bord.
+3. En livbøye med lys.
+4. En flytende kastering festet til minst 30 meter flytende redningsline.
+5. Tre fallskjermlys og tre håndbluss.
+6. En innretning som gjør det mulig å plukke opp en person fra vannet.
+
+(2) Det er ikke nødvendig å føre redningsflåte eller redningsflåter, flyteutstyr eller livbøye nevnt i første ledd bokstav a til c når alle om bord er iført
+
+1. heldekkende flytedrakt eller dykkerdrakt som alene, eller i kombinasjon med annet flyteutstyr, gir en oppdrift på 150 N, eller
+2. flyteutstyr med 100 N oppdrift og seilasen foregår i fartsområde 2 eller mindre i perioden 1. april–30. september.
 
 (3) Barn skal ha tilgang på egnet flyteutstyr tilpasset barnets størrelse.
 

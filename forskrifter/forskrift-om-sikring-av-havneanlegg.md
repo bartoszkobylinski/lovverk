@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Forskriften gjelder for havneanlegg som betjener følgende skip i internasjonal fart:Passasjerskip, herunder hurtiggående passasjerskip,lasteskip, herunder hurtiggående lasteskip, med bruttotonnasje 500 eller mer, ogflyttbare boreinnretninger som forflyttes ved hjelp av eget fremdriftsmaskineri.
+(1) Forskriften gjelder for havneanlegg som betjener følgende skip i internasjonal fart:
+
+1. Passasjerskip, herunder hurtiggående passasjerskip,
+2. lasteskip, herunder hurtiggående lasteskip, med bruttotonnasje 500 eller mer, og
+3. flyttbare boreinnretninger som forflyttes ved hjelp av eget fremdriftsmaskineri.
 
 (2) Alle skip som har et internasjonalt sikringssertifikat (ISSC) regnes til enhver tid for å være i internasjonal fart.
 
@@ -42,7 +46,12 @@ eu_basis: []
 
 ### § 3. Definisjoner
 
-I denne forskriften betyr:*Havneanlegg:* Det området hvor det forekommer kontakt mellom skip og havn. Dette omfatter områder som ankerplasser, venteplasser og ankomst fra sjøsiden, når det er relevant.*ISPS-koden:* Det internasjonale regelverket for sikring av skip og havneanlegg vedtatt av FNs sjøfartsorganisasjon (IMO) 12. desember 2002 (ISPS code – International Ship and Port Facility Security Code).*Kontakt mellom skip og havn:* Den samhandlingen som oppstår når et skip direkte og umiddelbart påvirkes av handlinger som omfatter forflytning av personer eller varer eller ytelser av havnetjenester til eller fra skipet.*Sikringshendelse:* En mistenkelig handling eller omstendighet som utgjør en trussel mot et skip, et havneanlegg eller en havn.
+I denne forskriften betyr:
+
+1. *Havneanlegg:* Det området hvor det forekommer kontakt mellom skip og havn. Dette omfatter områder som ankerplasser, venteplasser og ankomst fra sjøsiden, når det er relevant.
+2. *ISPS-koden:* Det internasjonale regelverket for sikring av skip og havneanlegg vedtatt av FNs sjøfartsorganisasjon (IMO) 12. desember 2002 (ISPS code – International Ship and Port Facility Security Code).
+3. *Kontakt mellom skip og havn:* Den samhandlingen som oppstår når et skip direkte og umiddelbart påvirkes av handlinger som omfatter forflytning av personer eller varer eller ytelser av havnetjenester til eller fra skipet.
+4. *Sikringshendelse:* En mistenkelig handling eller omstendighet som utgjør en trussel mot et skip, et havneanlegg eller en havn.
 
 ## Kapittel 2 – Generelle bestemmelser
 
@@ -50,7 +59,11 @@ I denne forskriften betyr:*Havneanlegg:* Det området hvor det forekommer kontak
 
 (1) Med maritimt sikringsnivå menes en angivelse av graden av risiko for at en sikringshendelse vil bli forsøkt utført eller vil inntreffe. Kystverket fastsetter det maritime sikringsnivå som havneanlegg skal operere på.
 
-(2) Følgende maritime sikringsnivåer gjelder for havneanlegg:Sikringsnivå 1: Det nivået hvor et minimum av relevante sikringstiltak skal opprettholdes til enhver tid.Sikringsnivå 2: Det nivået hvor relevante tilleggstiltak for sikring skal opprettholdes for en viss tidsperiode på grunn av en midlertidig økt risiko for hendelser som kan true sikkerheten.Sikringsnivå 3: Det nivået hvor ytterligere spesifikke sikringstiltak skal opprettholdes for en begrenset tidsperiode når en hendelse som kan true sikkerheten er umiddelbart forestående eller sannsynlig.
+(2) Følgende maritime sikringsnivåer gjelder for havneanlegg:
+
+1. Sikringsnivå 1: Det nivået hvor et minimum av relevante sikringstiltak skal opprettholdes til enhver tid.
+2. Sikringsnivå 2: Det nivået hvor relevante tilleggstiltak for sikring skal opprettholdes for en viss tidsperiode på grunn av en midlertidig økt risiko for hendelser som kan true sikkerheten.
+3. Sikringsnivå 3: Det nivået hvor ytterligere spesifikke sikringstiltak skal opprettholdes for en begrenset tidsperiode når en hendelse som kan true sikkerheten er umiddelbart forestående eller sannsynlig.
 
 (3) Havneanleggets sikringsleder skal umiddelbart etter å ha mottatt melding om endring i det maritime sikringsnivå, iverksette tiltakene i havneanleggets sikringsplan for det gjeldende sikringsnivået.
 
@@ -130,7 +143,11 @@ Sårbarhetsvurderinger, sikringsplaner og annen sensitiv sikringsinformasjon ska
 
 (1) En sikringsavtale er en avtale inngått mellom et skip og et havneanlegg som angir de sikringstiltak begge parter skal gjennomføre.
 
-(2) Sikringsavtale skal inngås i følgende tilfeller:skipet opererer på et høyere sikringsnivå enn havneanlegget.det har vært en trussel mot sikringen eller en sikringshendelse som har betydning for sikringen av skipet eller havneanlegget.skipet befinner seg i et havneanlegg som har fått unntak fra kravet om å utarbeide en sikringsplan for havneanlegg, jf. [§ 11](forskrift/2013-05-29-538/§11).
+(2) Sikringsavtale skal inngås i følgende tilfeller:
+
+1. skipet opererer på et høyere sikringsnivå enn havneanlegget.
+2. det har vært en trussel mot sikringen eller en sikringshendelse som har betydning for sikringen av skipet eller havneanlegget.
+3. skipet befinner seg i et havneanlegg som har fått unntak fra kravet om å utarbeide en sikringsplan for havneanlegg, jf. [§ 11](forskrift/2013-05-29-538/§11).
 
 (3) En sikringsavtale kan inngås i andre tilfeller der det angis i havneanleggets sikringsplan.
 

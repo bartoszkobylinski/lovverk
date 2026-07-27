@@ -48,7 +48,10 @@ Fastleger tilknyttet Helsetjenesten ved Universitetet i Oslo kan bare velges av 
 
 ## § 4. Tilgang til lukkede lister
 
-Selv om listen er lukket har likevel følgende rett til å bli tatt inn på listen:Barn under 16 år av allerede tilmeldteTidligere tilmeldt som flytter tilbake til kommunen etter midlertidig flytting til en annen kommune i en periode som ikke overstiger tre år.
+Selv om listen er lukket har likevel følgende rett til å bli tatt inn på listen:
+
+1. Barn under 16 år av allerede tilmeldte
+2. Tidligere tilmeldt som flytter tilbake til kommunen etter midlertidig flytting til en annen kommune i en periode som ikke overstiger tre år.
 
 ## § 5. Valg av fastlege for barn
 

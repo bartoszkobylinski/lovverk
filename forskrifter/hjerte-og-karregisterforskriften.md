@@ -15,7 +15,7 @@ xml_hash: "bc3c7eb1d70cb28349516ce78756fb3b23bf234c05a6e6162f3538fed793db6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1-1. Nasjonalt register over hjerte- og karlidelser
 
-Forskriften gjelder Nasjonalt register over hjerte- og karlidelser, innsamling og annen behandling av helseopplysninger i registeret. Hjerte- og karregisteret består av et basisregister og tilknyttede medisinske kvalitetsregistre og kan inneholde opplysninger omalle personer som har eller har hatt hjerte- eller karlidelsepasienter som mottar helsehjelp for slik sykdom i Norge eller i utlandet etter henvisning fra spesialisthelsetjenesten i Norge.
+Forskriften gjelder Nasjonalt register over hjerte- og karlidelser, innsamling og annen behandling av helseopplysninger i registeret. Hjerte- og karregisteret består av et basisregister og tilknyttede medisinske kvalitetsregistre og kan inneholde opplysninger om
+
+1. alle personer som har eller har hatt hjerte- eller karlidelse
+2. pasienter som mottar helsehjelp for slik sykdom i Norge eller i utlandet etter henvisning fra spesialisthelsetjenesten i Norge.
 
 Opplysningene i Hjerte- og karregisteret kan ikke anvendes til formål som er uforenlig med [§ 1-2](forskrift/2011-12-16-1250/§1-2).
 
@@ -48,7 +51,40 @@ Den dataansvarlige skal opprette fagråd hvor de regionale helseforetakene er re
 
 ### § 1-4. Opplysninger som kan registreres
 
-Basisregisteret kan, når det er relevant og nødvendig for å fremme registerets formål, uten samtykke fra den registrerte, inneholde opplysninger fra Folkeregisteret, Norsk pasientregister og Dødsårsaksregisteret, om:Identifikasjonsopplysninger:fødselsnummer eller annet entydig identifikasjonsnummerbostedskommunefødestedsivilstand.Administrative opplysninger:om henvisningom behandlende institusjonom konsultasjon og innleggelseom pasientrettigheterom dødstidspunkt og dødssted.Medisinske opplysninger:fagområdediagnose og diagnosekoderbehandling og prosedyrekodertidspunkt for oppstart og avslutning av helsehjelpdødsårsak, obduksjonsresultat og mistanke om unaturlig død.Når det er relevant og nødvendig for å fremme registerets formål kan kvalitetsregistrene inneholde flere og mer detaljerte opplysninger om sykdommen og helsehjelpen. Dette gjelder:kjente risikofaktorer for hjerte- og karsykdomtidligere sykehistorie og behandling, herunder komplikasjoneraktuell sykdomaktuell helsehjelp (medisinske detaljer)resultatene av helsehjelpenvidere behandling som,hvilke legemidler pasienten skal brukeandre sekundærforebyggende tiltak.
+Basisregisteret kan, når det er relevant og nødvendig for å fremme registerets formål, uten samtykke fra den registrerte, inneholde opplysninger fra Folkeregisteret, Norsk pasientregister og Dødsårsaksregisteret, om:
+
+1. Identifikasjonsopplysninger:
+
+   1. fødselsnummer eller annet entydig identifikasjonsnummer
+   2. bostedskommune
+   3. fødested
+   4. sivilstand.
+2. Administrative opplysninger:
+
+   1. om henvisning
+   2. om behandlende institusjon
+   3. om konsultasjon og innleggelse
+   4. om pasientrettigheter
+   5. om dødstidspunkt og dødssted.
+3. Medisinske opplysninger:
+
+   1. fagområde
+   2. diagnose og diagnosekoder
+   3. behandling og prosedyrekoder
+   4. tidspunkt for oppstart og avslutning av helsehjelp
+   5. dødsårsak, obduksjonsresultat og mistanke om unaturlig død.
+
+   Når det er relevant og nødvendig for å fremme registerets formål kan kvalitetsregistrene inneholde flere og mer detaljerte opplysninger om sykdommen og helsehjelpen. Dette gjelder:
+
+   1. kjente risikofaktorer for hjerte- og karsykdom
+   2. tidligere sykehistorie og behandling, herunder komplikasjoner
+   3. aktuell sykdom
+   4. aktuell helsehjelp (medisinske detaljer)
+   5. resultatene av helsehjelpen
+   6. videre behandling som,
+
+      1. hvilke legemidler pasienten skal bruke
+      2. andre sekundærforebyggende tiltak.
 
 Opplysningene skal følge den klassifikasjonen som Folkehelseinstituttet bestemmer.
 
@@ -126,7 +162,22 @@ Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha til
 
 Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sike og påvise at behandlingen av opplysningene utføres i samsvar med personvernforordningen, personopplysningloven og helseregisterloven, jf. [helseregisterloven § 22](lov/2014-06-20-43/§22). Databehandlere som behandler helseopplysninger på vegne av Folkehelseinstituttet, skal behandle opplysninger i samsvar med rutiner fastsatt av Folkehelseinstituttet.
 
-Det skal foreligge tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner som minst inneholder:en oversikt over hvordan virksomheten er organisert,en oversikt over ansvars- og myndighetsforhold,en oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å oppfylle kravene, herunder rutiner forat personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikten, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. [§ 2-1](forskrift/2011-12-16-1250/§2-1) og [§ 2-2](forskrift/2011-12-16-1250/§2-2),å behandle krav om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2011-12-16-1250/§5-1),tilgjengeliggjøring og sammenstilling av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2011-12-16-1250/§3-1),rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem samsvarer med det systemet virksomheten har fastlagt, og oppfyller kravene i personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Det skal foreligge tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner som minst inneholder:
+
+1. en oversikt over hvordan virksomheten er organisert,
+2. en oversikt over ansvars- og myndighetsforhold,
+3. en oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å oppfylle kravene, herunder rutiner for
+
+   1. at personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikten, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   2. dokumentasjon og kvalitetskontroll av helseopplysningene, jf. [§ 2-1](forskrift/2011-12-16-1250/§2-1) og [§ 2-2](forskrift/2011-12-16-1250/§2-2),
+   3. å behandle krav om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2011-12-16-1250/§5-1),
+   4. tilgjengeliggjøring og sammenstilling av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2011-12-16-1250/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem samsvarer med det systemet virksomheten har fastlagt, og oppfyller kravene i personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Dokumentasjonen skal være tilgjengelig for dem det måtte angå. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevd.
 

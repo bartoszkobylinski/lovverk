@@ -42,26 +42,66 @@ eu_basis: []
 
 ### § 1-3. Definisjoner
 
-- *Student*Med student menes en som er tatt opp til studier ved Høyskolen Kristiania og har aktiv studierett.
-- *Studier*Med studier menes enhver form for opplæringstilbud i Kristianias portefølje som gir studiepoeng.
-- *Studierett*Med studierett menes rett til deltagelse i undervisning, veiledning og vurdering ved det studiet man er tatt opp til.
-- *Studieprogram*Med studieprogram menes et studium med 60 studiepoeng eller mer bestemt av en studieplan, som fører frem til vitnemål.
-- *Emne*Med emne menes den minste studiepoenggivende enheten som kan inngå i et studieprogram.
-- *Emnebeskrivelse*Med emnebeskrivelse menes omfang, krav til forkunnskaper, faginnhold, læringsutbytte, undervisnings- og arbeidsformer, læremidler, vurderingsformer og eventuell obligatorisk aktivitet i tråd med gjeldende kvalitetssystem for høyskolen.
-- *Pensum*Med pensum menes litteratur, nettsteder, filmer, forestillinger, forelesninger eller lignende som studentene benytter i læringssituasjonen, som har eksplisitt relevans for læringsutbyttet i emnet. Anbefalt litteratur, tilleggslitteratur og andre anbefalte læremidler faller ikke inn under betegnelsen pensum.
-- *Obligatorisk aktivitet*Med obligatorisk aktivitet menes aktivitet som må være godkjent for at man skal kunne gå opp til eksamen. Eksempler på obligatorisk aktivitet er obligatorisk undervisning, obligatorisk arbeid, obligatoriske kurs, obligatorisk praksis og arbeidskrav.
-- *Undervisning*Med undervisning menes enhver planlagt og/eller timeplanfestet læringsaktivitet i regi av høyskolen.
-- *Eksamen*Med eksamen menes en avsluttende oppgave innen et emne. Resultatet av arbeidet (vurderingsgrunnlaget) sensureres, og resultatet av sensuren skal fremgå av vitnemål eller karakterutskrift.
-- *Ordinær eksamen*Med ordinær eksamen menes den første eksamenen en student kan fremstille seg til i et emne eller en del av et emne.
-- *Utsatt eksamen*Med utsatt eksamen menes en eksamen en student går opp til når studenten hadde dokumentert gyldig fravær ved ordinær eksamen.
-- *Ny eksamen*Med ny eksamen menes en eksamen som avholdes dersom det foreligger formelle feil ved ordinær eller utsatt eksamen.
-- *Kontinuasjonseksamen*Med kontinuasjonseksamen menes en eksamen en student går opp til når studenten ikke har bestått eller gjennomført en tidligere eksamen, eller når studenten ønsker å forbedre karakteren.
-- *Ekstraordinær eksamen*Med ekstraordinær eksamen menes en eksamen som arrangeres i emner som er tatt ut av emneporteføljen.
-- *Deleksamen*Med deleksamen menes en av flere vurderinger i et emne som hver gir en selvstendig karakter som skal inngå i beregningen av endelig karakter i emnet. Hver deleksamen resulterer i en vektet karakter, og vekten av hver deleksamen skal være angitt i emnebeskrivelsen. Kandidatens rettigheter til begrunnelse, klage mv. etter denne forskriften gjelder ved hver enkelt deleksamen.
-- *Løpende opptak*Med løpende opptak menes en prosess der kvalifiserte søkere tas opp i den rekkefølgen søknadene deres blir registrert.
-- *Felles opptak*Med felles opptak menes opptak der alle søkerne vurderes samtidig etter at søknadsfristen har utløpt.
-- *Fullføringsfrist*Med fullføringsfrist menes fristen for å fullføre et studium.
-- *Studieprogresjon*Med studieprogresjon menes progresjon i forhold til normert studietid, målt i antall avlagte studiepoeng. Full studieprogresjon tilsvarer 60 studiepoeng i løpet av studieåret, jf. [universitets- og høyskoleloven § 11-2](lov/2024-03-08-9/§11-2).
+- *Student*
+
+  Med student menes en som er tatt opp til studier ved Høyskolen Kristiania og har aktiv studierett.
+- *Studier*
+
+  Med studier menes enhver form for opplæringstilbud i Kristianias portefølje som gir studiepoeng.
+- *Studierett*
+
+  Med studierett menes rett til deltagelse i undervisning, veiledning og vurdering ved det studiet man er tatt opp til.
+- *Studieprogram*
+
+  Med studieprogram menes et studium med 60 studiepoeng eller mer bestemt av en studieplan, som fører frem til vitnemål.
+- *Emne*
+
+  Med emne menes den minste studiepoenggivende enheten som kan inngå i et studieprogram.
+- *Emnebeskrivelse*
+
+  Med emnebeskrivelse menes omfang, krav til forkunnskaper, faginnhold, læringsutbytte, undervisnings- og arbeidsformer, læremidler, vurderingsformer og eventuell obligatorisk aktivitet i tråd med gjeldende kvalitetssystem for høyskolen.
+- *Pensum*
+
+  Med pensum menes litteratur, nettsteder, filmer, forestillinger, forelesninger eller lignende som studentene benytter i læringssituasjonen, som har eksplisitt relevans for læringsutbyttet i emnet. Anbefalt litteratur, tilleggslitteratur og andre anbefalte læremidler faller ikke inn under betegnelsen pensum.
+- *Obligatorisk aktivitet*
+
+  Med obligatorisk aktivitet menes aktivitet som må være godkjent for at man skal kunne gå opp til eksamen. Eksempler på obligatorisk aktivitet er obligatorisk undervisning, obligatorisk arbeid, obligatoriske kurs, obligatorisk praksis og arbeidskrav.
+- *Undervisning*
+
+  Med undervisning menes enhver planlagt og/eller timeplanfestet læringsaktivitet i regi av høyskolen.
+- *Eksamen*
+
+  Med eksamen menes en avsluttende oppgave innen et emne. Resultatet av arbeidet (vurderingsgrunnlaget) sensureres, og resultatet av sensuren skal fremgå av vitnemål eller karakterutskrift.
+- *Ordinær eksamen*
+
+  Med ordinær eksamen menes den første eksamenen en student kan fremstille seg til i et emne eller en del av et emne.
+- *Utsatt eksamen*
+
+  Med utsatt eksamen menes en eksamen en student går opp til når studenten hadde dokumentert gyldig fravær ved ordinær eksamen.
+- *Ny eksamen*
+
+  Med ny eksamen menes en eksamen som avholdes dersom det foreligger formelle feil ved ordinær eller utsatt eksamen.
+- *Kontinuasjonseksamen*
+
+  Med kontinuasjonseksamen menes en eksamen en student går opp til når studenten ikke har bestått eller gjennomført en tidligere eksamen, eller når studenten ønsker å forbedre karakteren.
+- *Ekstraordinær eksamen*
+
+  Med ekstraordinær eksamen menes en eksamen som arrangeres i emner som er tatt ut av emneporteføljen.
+- *Deleksamen*
+
+  Med deleksamen menes en av flere vurderinger i et emne som hver gir en selvstendig karakter som skal inngå i beregningen av endelig karakter i emnet. Hver deleksamen resulterer i en vektet karakter, og vekten av hver deleksamen skal være angitt i emnebeskrivelsen. Kandidatens rettigheter til begrunnelse, klage mv. etter denne forskriften gjelder ved hver enkelt deleksamen.
+- *Løpende opptak*
+
+  Med løpende opptak menes en prosess der kvalifiserte søkere tas opp i den rekkefølgen søknadene deres blir registrert.
+- *Felles opptak*
+
+  Med felles opptak menes opptak der alle søkerne vurderes samtidig etter at søknadsfristen har utløpt.
+- *Fullføringsfrist*
+
+  Med fullføringsfrist menes fristen for å fullføre et studium.
+- *Studieprogresjon*
+
+  Med studieprogresjon menes progresjon i forhold til normert studietid, målt i antall avlagte studiepoeng. Full studieprogresjon tilsvarer 60 studiepoeng i løpet av studieåret, jf. [universitets- og høyskoleloven § 11-2](lov/2024-03-08-9/§11-2).
 
 ### § 1-4. Delegering
 
@@ -103,7 +143,10 @@ eu_basis: []
 
 (1) Opptakskrav til masterstudier er regulert av [forskrift om krav til mastergrad](forskrift/2005-12-01-1392).
 
-(2) For opptak til masterstudier av 120 studiepoengs omfang, skal følgende alternative krav til opptak fremkomme i programbeskrivelsen:hvilken fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang innenfor fagområdet som kreves.hvilken integrert yrkesrettet utdanning av minimum 120 studiepoengs omfang innenfor fagområdet som kreves.
+(2) For opptak til masterstudier av 120 studiepoengs omfang, skal følgende alternative krav til opptak fremkomme i programbeskrivelsen:
+
+1. hvilken fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang innenfor fagområdet som kreves.
+2. hvilken integrert yrkesrettet utdanning av minimum 120 studiepoengs omfang innenfor fagområdet som kreves.
 
 (3) Fagkrav, eventuelle karakterkrav, krav om opptaksprøver, samt rangeringskriterier for det enkelte masterstudium fastsettes i programbeskrivelsen.
 
@@ -169,7 +212,10 @@ Opptak til utdanninger ved Høyskolen Kristiania anses som enkeltvedtak og kan p
 
 (1) En student som er tilknyttet et studieprogram ved Høyskolen Kristiania, skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og Høyskolen Kristiania.
 
-(2) Utdanningsplanen skal være todelt og bestå aven innledende felles del, som skal angi partenes viktigste rettigheter og plikter.en semestervis del, som beskriver konkrete emner i kommende semester.
+(2) Utdanningsplanen skal være todelt og bestå av
+
+1. en innledende felles del, som skal angi partenes viktigste rettigheter og plikter.
+2. en semestervis del, som beskriver konkrete emner i kommende semester.
 
 (3) Dersom utdanningsplanen skal ha vesentlige avvik fra studieplanen, skal den som har det faglige ansvaret for studiet, uttale seg før planen blir ferdigstilt.
 
@@ -209,9 +255,18 @@ Opptak til utdanninger ved Høyskolen Kristiania anses som enkeltvedtak og kan p
 
 (1) Den som har akseptert et tilbud om studieplass etter betingelser i studiebetingelser eller studiekontrakten, har studierett i henhold til normert studietid for det aktuelle studiet vedkommende er tatt opp til.
 
-(2) Ellers opphører studieretten i disse tilfellene:Studenten har overskredet studierettsperioden på studiet, som oppgitt i emnebeskrivelse eller studieprogrambeskrivelse.Høyskolen Kristiania mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført.Studenten har oppnådd grad eller fullført årsenhet.
+(2) Ellers opphører studieretten i disse tilfellene:
 
-(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet vedkommende er tatt opp til i disse tilfellene:Studenten oppfyller ikke forpliktelsene som fremgår av studiebetingelsene eller studiekontrakten.Studieprogresjonen tilfredsstiller ikke kravene på 75 %, se retningslinjer til [kapittel 3](forskrift/2024-12-12-3309/kap3).Studenten har brukt opp sine forsøk til eksamen.Studenten har brutt bestemmelser om utestengning og bortvisning i [universitets- og høyskoleloven kapittel 12](lov/2024-03-08-9/kap12).
+1. Studenten har overskredet studierettsperioden på studiet, som oppgitt i emnebeskrivelse eller studieprogrambeskrivelse.
+2. Høyskolen Kristiania mottar melding fra studenten om at vedkommende trekker seg fra studiet før det er fullført.
+3. Studenten har oppnådd grad eller fullført årsenhet.
+
+(3) Studenten kan permanent eller midlertidig miste studieretten på studieprogrammet vedkommende er tatt opp til i disse tilfellene:
+
+1. Studenten oppfyller ikke forpliktelsene som fremgår av studiebetingelsene eller studiekontrakten.
+2. Studieprogresjonen tilfredsstiller ikke kravene på 75 %, se retningslinjer til [kapittel 3](forskrift/2024-12-12-3309/kap3).
+3. Studenten har brukt opp sine forsøk til eksamen.
+4. Studenten har brutt bestemmelser om utestengning og bortvisning i [universitets- og høyskoleloven kapittel 12](lov/2024-03-08-9/kap12).
 
 (4) Studenter som ikke har opprettholdt sin studentstatus eller har mistet studieretten, må søke om nytt opptak, med mindre det er gjort annen avtale med Høyskolen Kristiania.
 
@@ -327,7 +382,17 @@ Studenter ved Høyskolen Kristiania plikter å sette seg inn i hvilke hjelpemidl
 
 ### § 4-9. Fusk ved eksamen og obligatorisk aktivitet
 
-(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn, regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en faglig betryggende måte. Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:Å handle i strid med gjeldende regler for den spesifikke eksamen.Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen.Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat.Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv.Å levere besvarelse som ikke er utarbeidet av studenten(e) selv.Ureglementert samarbeid mellom studenter eller grupper.Fabrikkering eller forfalskning av data.Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter.Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn, regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en faglig betryggende måte. Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
+
+1. Å handle i strid med gjeldende regler for den spesifikke eksamen.
+2. Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen.
+3. Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat.
+4. Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv.
+5. Å levere besvarelse som ikke er utarbeidet av studenten(e) selv.
+6. Ureglementert samarbeid mellom studenter eller grupper.
+7. Fabrikkering eller forfalskning av data.
+8. Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter.
+9. Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
 
 (2) Dersom en student forsettlig har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket i forbindelse med gjennomføringen av eksamen eller obligatoriske aktiviteter eller forut for endelig sensur, kan eksamenen eller aktiviteten annulleres, og studenten kan utestenges fra institusjonen, jf. [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
 
@@ -351,7 +416,14 @@ Studenter ved Høyskolen Kristiania plikter å sette seg inn i hvilke hjelpemidl
 
 ### § 4-11. Vurdering og vurderingsuttrykk
 
-(1) Ved eksamen kan det gis gradert vurderingsuttrykk med karakterskala. Bokstavkarakterene gis uten tillegg av pluss eller minus. Karaktertrinnene gis følgende betegnelse og generelle, kvalitative beskrivelse:*A Fremragende:* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.*B Meget god:* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.*C God:* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.*D Nokså god:* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.*E Tilstrekkelig:* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.*F Ikke bestått:* Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(1) Ved eksamen kan det gis gradert vurderingsuttrykk med karakterskala. Bokstavkarakterene gis uten tillegg av pluss eller minus. Karaktertrinnene gis følgende betegnelse og generelle, kvalitative beskrivelse:
+
+- *A Fremragende:* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.
+- *B Meget god:* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.
+- *C God:* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.
+- *D Nokså god:* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.
+- *E Tilstrekkelig:* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.
+- *F Ikke bestått:* Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
 
 (2) Vurderingsuttrykket kan også være «bestått» / «ikke bestått» (ugradert vurderingsuttrykk). Dette er en separat vurderingsskala og skal ikke kobles til et trinn i vurderingsuttrykket A–F. For å oppnå «bestått» skal kandidaten ha oppnådd kravene til læringsutbytte og vise nødvendig kunnskap, ferdighet og kompetanse. Mer detaljerte vurderingskriterier skal fremgå av sensorveiledningen.
 

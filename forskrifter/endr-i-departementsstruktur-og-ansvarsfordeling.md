@@ -15,7 +15,7 @@ xml_hash: "26cb367f30afeaba01e3d319dc853b33a8182bc733ab558e2122e5ee5cac2a9b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,14 +23,22 @@ eu_basis: []
 # Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 
 1. Opprettelse av Nærings- og fiskeridepartementet (NFD).
-2. Styringen av Nærings- og fiskeridepartementet overtas av to konstitusjonelt ansvarlige statsråder:Statsråd Monica Mæland overtar styret av saker om statens eierskapspolitikk og forvaltning av statlig eierskap i selskaper der departementet forvalter statens eierskapsinteresser, den næringsrelevante forsknings- og innovasjonspolitikken, handelspolitikk herunder handelsavtaler, konkurransepolitikk, politikk for maritime næringer, utvikling av enkeltnæringer, forenkling, reiseliv mv. og selskapslovgivningen. Statsråd Mæland overtar også det administrative ansvaret for Nærings- og fiskeridepartementet.Statsråd Elisabeth Aspaker overtar styret av saker om fiskeri- og havbrukspolitikken, sjømatpolitikken og den marine forsknings- og innovasjonspolitikken.
+2. Styringen av Nærings- og fiskeridepartementet overtas av to konstitusjonelt ansvarlige statsråder:
+
+   Statsråd Monica Mæland overtar styret av saker om statens eierskapspolitikk og forvaltning av statlig eierskap i selskaper der departementet forvalter statens eierskapsinteresser, den næringsrelevante forsknings- og innovasjonspolitikken, handelspolitikk herunder handelsavtaler, konkurransepolitikk, politikk for maritime næringer, utvikling av enkeltnæringer, forenkling, reiseliv mv. og selskapslovgivningen. Statsråd Mæland overtar også det administrative ansvaret for Nærings- og fiskeridepartementet.
+
+   Statsråd Elisabeth Aspaker overtar styret av saker om fiskeri- og havbrukspolitikken, sjømatpolitikken og den marine forsknings- og innovasjonspolitikken.
 3. [...]
 4. Nedleggelse av Fiskeri- og kystdepartementet, Nærings- og handelsdepartementet og Fornyings-, administrasjons- og kirkedepartementet.
 5. Kulturdepartementet overtar ansvaret for Kirkeavdelingen fra Fornyings-, administrasjons- og kirkedepartementet.
 6. Samferdselsdepartementet overtar ansvaret for Fornyings-, administrasjons- og kirkedepartementets oppgaver knyttet til bredbånd samt ansvaret for kyst- og miljøsaker fra Fiskeri- og kystdepartementet.
-7. Kommunal- og regionaldepartementel skifter navn til Kommunal- og moderniseringsdepartementet (KMD).Departementet overtar ansvaret for Arbeidsgiverpolitisk avdeling, Avdeling for bygg, sikkerhet og tjenester, Statsforvaltningsavdelingen, Avdeling for IKT og fornying (med unntak av oppgaver knyttet til koordinering av bredbåndspolitikken), Same- og minoritetspolitisk avdeling fra Fornyings-, administrasjons- og kirkedepartementet. Det overtar dessuten ansvaret for Planavdelingen, unntatt deler som gjelder ansvaret for forvaltning av regelverk om konsekvensutredninger i kapittel 14 i plan- og bygningsloven og deler som gjelder ansvaret for oppfølgning av klima- og miljøpolitikk i byene, fra Miljøverndepartementet.
+7. Kommunal- og regionaldepartementel skifter navn til Kommunal- og moderniseringsdepartementet (KMD).
+
+   Departementet overtar ansvaret for Arbeidsgiverpolitisk avdeling, Avdeling for bygg, sikkerhet og tjenester, Statsforvaltningsavdelingen, Avdeling for IKT og fornying (med unntak av oppgaver knyttet til koordinering av bredbåndspolitikken), Same- og minoritetspolitisk avdeling fra Fornyings-, administrasjons- og kirkedepartementet. Det overtar dessuten ansvaret for Planavdelingen, unntatt deler som gjelder ansvaret for forvaltning av regelverk om konsekvensutredninger i kapittel 14 i plan- og bygningsloven og deler som gjelder ansvaret for oppfølgning av klima- og miljøpolitikk i byene, fra Miljøverndepartementet.
 8. Ansvaret for Grafisk designprogram for departementene, fastsatt ved kgl.res. 9. oktober 1996, overføres fra Kulturdepartementet til Kommunal- og moderniseringsdepartementet.
-9. Miljøverndepartementet skifter navn til Klima- og miljødepartementet (KLD).Departementet overtar ansvaret for klima- og skogsatsingen fra Utenriksdepartementet og ansvaret for statens kjøp av klimakvoter fra Finansdepartementet.
+9. Miljøverndepartementet skifter navn til Klima- og miljødepartementet (KLD).
+
+   Departementet overtar ansvaret for klima- og skogsatsingen fra Utenriksdepartementet og ansvaret for statens kjøp av klimakvoter fra Finansdepartementet.
 10. Arbeidsdepartementet endrer navn til Arbeids- og sosialdepartementet (ASD).
 11. Departementene skal ha ansvar for lover i samsvar med et vedlagt forslag.
 12. Delegering til departementene til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som er en nødvendig følge av omorganiseringen.
@@ -81,7 +89,11 @@ eu_basis: []
 - [Lov 14. juni 1912 nr. 1](lov/1912-06-14-1) om anlæg av taugbaner og løipestrenger mv.
 - [Lov 21. juni 1963 nr. 23](lov/1963-06-21-23) om vegar (veglova)
 - [Lov 18. juni 1965 nr. 4](lov/1965-06-18-4) om vegtrafikk (vegtrafikkloven)
-- [Lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om forurensninger og om avfall (Forurensningsloven)§ 7 fjerde ledd, § 48 til og med § 51, § 73, § 74 første, andre, tredje og femte ledd, og § 75 til og med § 78, i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38), eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kap. 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.§ 37 andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til § 79 for så vidt gjelder skip.§ 39 tredje ledd
+- [Lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om forurensninger og om avfall (Forurensningsloven)
+
+  - § 7 fjerde ledd, § 48 til og med § 51, § 73, § 74 første, andre, tredje og femte ledd, og § 75 til og med § 78, i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38), eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kap. 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.
+  - § 37 andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til § 79 for så vidt gjelder skip.
+  - § 39 tredje ledd
 - [Lov 16. juni 1989 nr. 59](lov/1989-06-16-59) om lostjenesten m.v.
 - [Lov 11. juni 1993 nr. 100](lov/1993-06-11-100) om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven).
 - [Lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart (luftfartsloven).
@@ -135,7 +147,12 @@ eu_basis: []
 - [Lov 11. juni 1993 nr. 66](lov/1993-06-11-66) om pristiltak
 - [Lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregisteret (enhetsregisterloven)
 - [Lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgave å gjennomføre samsvarsvurderinger
-- [Lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) for så vidt gjelder:Kapittel 1 Alminnelige bestemmelserKapittel 2 Registrering av skipKapittel 18 avsnitt II Undersøkelser av sjøulykkerKapittel 21 Flyttbare plattformer mv.
+- [Lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) for så vidt gjelder:
+
+  - Kapittel 1 Alminnelige bestemmelser
+  - Kapittel 2 Registrering av skip
+  - Kapittel 18 avsnitt II Undersøkelser av sjøulykker
+  - Kapittel 21 Flyttbare plattformer mv.
 - [Lov 22. desember 1995 nr. 85](lov/1995-12-22-85) om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning [(EØF) nr. 2137/85](eu/31985r2137)) (EØFG-loven)
 - [Lov 6. juni 1997 nr. 35](lov/1997-06-06-35) om Oppgaveregisteret (oppgaveregisterloven)
 - [Lov 13. juni 1997 nr. 44](lov/1997-06-13-44) om aksjeselskaper (aksjeloven)

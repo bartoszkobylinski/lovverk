@@ -52,7 +52,15 @@ Når både prioriterte krav, jf. [§ 2 første ledd](forskrift/2025-07-09-1508/�
 
 ## § 5. Undersøkelsesplikt og tjenlig utlegg
 
-Namsmyndigheten kan legge til grunn at skyldner ikke har noe som det kan tas utlegg i, når skyldner etter søk i tilgjengelige kilder ikke er funnet registrert med følgende utleggsgjenstander:lønnskrav mvinnestående på konto i norsk kredittinstitusjoninnestående på en VPS-konto i foretak med konsesjon etter reglene i [finansforetaksloven](lov/2015-04-10-17)aksjerfast eiendomkjøretøyskip.
+Namsmyndigheten kan legge til grunn at skyldner ikke har noe som det kan tas utlegg i, når skyldner etter søk i tilgjengelige kilder ikke er funnet registrert med følgende utleggsgjenstander:
+
+1. lønnskrav mv
+2. innestående på konto i norsk kredittinstitusjon
+3. innestående på en VPS-konto i foretak med konsesjon etter reglene i [finansforetaksloven](lov/2015-04-10-17)
+4. aksjer
+5. fast eiendom
+6. kjøretøy
+7. skip.
 
 Når namsmyndigheten har grunn til å tro at skyldner har gjenstander som det kan tas utlegg i, men som ikke er avdekket etter undersøkelsene nevnt i første ledd, skal det foretas en konkret vurdering i saken.
 

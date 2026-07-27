@@ -40,7 +40,9 @@ Departementet kan i særlige tilfelle bestemme at norske statsborgere som er på
 
 ### § 2. Skade eller sykdom ved krigsulykke.
 
-1. Skade eller sykdom anses påført ved krigsulykke som nevnt i [§ 1](lov/1954-11-26-3/§1) B, hvis den er inntruffet når riket er i krig og er en følge av ildgivning, flyangrep, bombe- eller granateksplosjon, torpedering, minesprengning eller annen lignende krigshending eller hvis skaden eller sykdommen er en følge av deltakelse i patriotisk arbeid eller av patriotisk holdning.Når det finnes rimelig kan det også for skade eller sykdom som er påført ved annen hending som skyldes krigen, ytes hel eller delvis stønad etter denne lov.
+1. Skade eller sykdom anses påført ved krigsulykke som nevnt i [§ 1](lov/1954-11-26-3/§1) B, hvis den er inntruffet når riket er i krig og er en følge av ildgivning, flyangrep, bombe- eller granateksplosjon, torpedering, minesprengning eller annen lignende krigshending eller hvis skaden eller sykdommen er en følge av deltakelse i patriotisk arbeid eller av patriotisk holdning.
+
+   Når det finnes rimelig kan det også for skade eller sykdom som er påført ved annen hending som skyldes krigen, ytes hel eller delvis stønad etter denne lov.
 2. Når krig er brutt ut kan Kongen bestemme at skade eller sykdom påført ved sådan begivenhet som nevnt i 1. punkt forut for krigsutbruddet, skal anses som påført ved krigsulykke.
 
 ### § 3. Finansiering.
@@ -49,7 +51,22 @@ Staten bærer de utgifter som denne lov fører med seg. Dog kan Kongen bestemme 
 
 ### § 4. Inndeling i grupper.
 
-De personer som kommer inn under denne lov deles inn i disse grupper:Gruppe 1.Militærpersoner.Sivilpersoner som tar aktiv del i patriotisk arbeid eller som er i tjeneste hos norsk eller alliert militærmakt.Personer som er pålagt tjenesteplikt etter [lov om tjenesteplikt i politiet](lov/1952-11-21-3) av 21. november 1952.Sivilforsvarets utrykningsavdelinger og sanitetspersonell i godkjent hjelpeforenings tjeneste, når de under tjenesten er særlig utsatt for krigsulykke.Sjømenn, kystloser, statsloser, losgutter og postfunksjonærer på skip, og etter nærmere bestemmelse av departementet andre personer i tjeneste på skip.Departementet kan bestemme at også andre skadelidte enn de foran nevnte skal gå inn under gruppe 1 når de pådrar seg skade under omstendigheter som kan sidestilles med de i foregående litra nevnte.Gruppe 2.Fiskere og andre sivilpersoner i yrke eller bedrift som Arbeids- og velferdsetaten anser særlig utsatt for krigsulykke, med mindre de da ulykken inntraff arbeidet i fiendens interesse.Gruppe 3.Sivilpersoner som hører til gruppene 1 og 2 når skaden er uten sammenheng med de nevnte tjeneste- eller arbeidsforhold, og sivilpersoner som ikke hører til disse grupper.
+De personer som kommer inn under denne lov deles inn i disse grupper:
+
+- Gruppe 1.
+
+  1. Militærpersoner.
+  2. Sivilpersoner som tar aktiv del i patriotisk arbeid eller som er i tjeneste hos norsk eller alliert militærmakt.
+  3. Personer som er pålagt tjenesteplikt etter [lov om tjenesteplikt i politiet](lov/1952-11-21-3) av 21. november 1952.
+  4. Sivilforsvarets utrykningsavdelinger og sanitetspersonell i godkjent hjelpeforenings tjeneste, når de under tjenesten er særlig utsatt for krigsulykke.
+  5. Sjømenn, kystloser, statsloser, losgutter og postfunksjonærer på skip, og etter nærmere bestemmelse av departementet andre personer i tjeneste på skip.
+  6. Departementet kan bestemme at også andre skadelidte enn de foran nevnte skal gå inn under gruppe 1 når de pådrar seg skade under omstendigheter som kan sidestilles med de i foregående litra nevnte.
+- Gruppe 2.
+
+  Fiskere og andre sivilpersoner i yrke eller bedrift som Arbeids- og velferdsetaten anser særlig utsatt for krigsulykke, med mindre de da ulykken inntraff arbeidet i fiendens interesse.
+- Gruppe 3.
+
+  Sivilpersoner som hører til gruppene 1 og 2 når skaden er uten sammenheng med de nevnte tjeneste- eller arbeidsforhold, og sivilpersoner som ikke hører til disse grupper.
 
 > Endret ved [lov 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
@@ -83,8 +100,12 @@ For kur og pleie på militær sykestue o.l. eller for behandling som militær le
 
 ### § 9. Sykepenger.
 
-1. Fører skaden eller sykdommen med seg tap av ervervsevne, ytes så lenge sykebehandlingen varer sykepenger i form av dagpenger svarende til pensjon med mulig forsørgingstillegg etter reglene [§§ 11](lov/1954-11-26-3/§11) og [12](lov/1954-11-26-3/§12).Sykepenger betales dog ikke for de seks første dager regnet fra og med den dag ervervsuførheten inntrer. Til militærpersoner ytes sykepenger tidligst fra og med dagen etter dimitteringen.
-2. Ytes fri kur og pleie på sykehus eller annen kuranstalt, skal det til den som har hustru eller barn å forsørge for den tid oppholdet varer istedenfor stønad etter [punkt](lov/1954-11-26-3/kap1) 1 betales sykepenger svarende til pensjon etter reglene i [§§ 19](lov/1954-11-26-3/§19) og [22](lov/1954-11-26-3/§22).Til den som ikke har hustru eller barn å forsørge, ytes under oppholdet halvparten av sykepenger etter [punkt](lov/1954-11-26-3/kap1) 1.
+1. Fører skaden eller sykdommen med seg tap av ervervsevne, ytes så lenge sykebehandlingen varer sykepenger i form av dagpenger svarende til pensjon med mulig forsørgingstillegg etter reglene [§§ 11](lov/1954-11-26-3/§11) og [12](lov/1954-11-26-3/§12).
+
+   Sykepenger betales dog ikke for de seks første dager regnet fra og med den dag ervervsuførheten inntrer. Til militærpersoner ytes sykepenger tidligst fra og med dagen etter dimitteringen.
+2. Ytes fri kur og pleie på sykehus eller annen kuranstalt, skal det til den som har hustru eller barn å forsørge for den tid oppholdet varer istedenfor stønad etter [punkt](lov/1954-11-26-3/kap1) 1 betales sykepenger svarende til pensjon etter reglene i [§§ 19](lov/1954-11-26-3/§19) og [22](lov/1954-11-26-3/§22).
+
+   Til den som ikke har hustru eller barn å forsørge, ytes under oppholdet halvparten av sykepenger etter [punkt](lov/1954-11-26-3/kap1) 1.
 
 ## 4. kapitel. Stønad under ervervsuførhet.
 
@@ -96,20 +117,32 @@ Ved avgjørelse av i hvilken grad ervervsevnen er tapt, skal tas omsyn til skade
 
 ### § 11. Pensjon til ervervsufør.
 
-1. Ved fullstendig tap av ervervsevnen har den som har fylt 18 år rett til full pensjon. For person i gruppe 1 utgjør pensjonen 75 pst. av den arbeidsinntekt som det må antas at han ville ha hatt om han ikke var blitt rammet av skaden eller sykdommen, dog slik at den likevel ikke skal være lavere eller høyere enn bestemte beløp som fastsettes av Stortinget.For ungdom som på grunn av ufullendt utdannelse eller manglende praksis har liten eller ingen arbeidsinntekt på skadetiden kan det fastsettes stigende pensjon eller på annen måte tas omsyn til arbeidsinntekt som det må antas at han ville ha oppnådd i framtiden.For personer i gruppe 2 og 3 utgjør fullpensjonen bestemte beløp som fastsettes av Stortinget.
+1. Ved fullstendig tap av ervervsevnen har den som har fylt 18 år rett til full pensjon. For person i gruppe 1 utgjør pensjonen 75 pst. av den arbeidsinntekt som det må antas at han ville ha hatt om han ikke var blitt rammet av skaden eller sykdommen, dog slik at den likevel ikke skal være lavere eller høyere enn bestemte beløp som fastsettes av Stortinget.
+
+   For ungdom som på grunn av ufullendt utdannelse eller manglende praksis har liten eller ingen arbeidsinntekt på skadetiden kan det fastsettes stigende pensjon eller på annen måte tas omsyn til arbeidsinntekt som det må antas at han ville ha oppnådd i framtiden.
+
+   For personer i gruppe 2 og 3 utgjør fullpensjonen bestemte beløp som fastsettes av Stortinget.
 2. Er ervervsevnen bare delvis tapt, nedsettes pensjonen i forhold til tapet av ervervsevne.
 3. Når det finnes rimelig, kan det også tilstås pensjon til den som ennå ikke har fylt 18 år. Pensjonen fastsettes skjønnsmessig under omsyn til alle foreliggende omstendigheter og må ikke overstige det for gruppe 3 fastsatte beløp.
-4. Pensjon for ervervsuførhet fastsettes i alminnelighet når sykebehandlingen er slutt. Pensjonen kan fastsettes foreløpig for bestemte tidsrom.Skjer det en vesentlig endring i de forhold som har vært avgjørende ved fastsettelsen av pensjonen, kan den prøves på nytt og endres. Forhøyelse av pensjonen kan bare kreves for tiden etter at krav om det er framsatt.
+4. Pensjon for ervervsuførhet fastsettes i alminnelighet når sykebehandlingen er slutt. Pensjonen kan fastsettes foreløpig for bestemte tidsrom.
+
+   Skjer det en vesentlig endring i de forhold som har vært avgjørende ved fastsettelsen av pensjonen, kan den prøves på nytt og endres. Forhøyelse av pensjonen kan bare kreves for tiden etter at krav om det er framsatt.
 5. Pensjon med mulige tillegg løper fra og med den dag sykebehandlingen er slutt og til og med månedsdagen etter den berettigedes død.
 
 > Endret ved [lov 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
 ### § 12. Forsørgingstillegg og tillegg for hjelp i huset.
 
-1. Den som har hustru eller barn under 18 år å forsørge, har rett til forsørgingstillegg for dem, hvis han har tapt minst 25 pst. av ervervsevnen.Som barn anses eget barn som er født i ekteskap eller som er født utenfor ekteskap når barnet er avlet før skaden eller sykdommen inntraff og farskapet er fastslått etter [lov 8. april 1981 nr. 7](lov/1981-04-08-7) om barn og foreldre, samt adoptivbarn og pleiebarn som uten vederlag er overtatt til oppfostring før det nevnte tidspunkt. For adoptivbarn og pleiebarn ytes ikke barnetillegg til de virkelige foreldre.
+1. Den som har hustru eller barn under 18 år å forsørge, har rett til forsørgingstillegg for dem, hvis han har tapt minst 25 pst. av ervervsevnen.
+
+   Som barn anses eget barn som er født i ekteskap eller som er født utenfor ekteskap når barnet er avlet før skaden eller sykdommen inntraff og farskapet er fastslått etter [lov 8. april 1981 nr. 7](lov/1981-04-08-7) om barn og foreldre, samt adoptivbarn og pleiebarn som uten vederlag er overtatt til oppfostring før det nevnte tidspunkt. For adoptivbarn og pleiebarn ytes ikke barnetillegg til de virkelige foreldre.
 2. Det kan i særlige tilfelle tilstås forsørgingstillegg helt eller delvis også for barn over 18 år når det er varig arbeidsufør.
 3. Er invalidens hustru varig arbeidsufør, eller har han ingen hustru, men har omsorgen for barn, kan det foruten forsørgingstillegg etter [punkt](lov/1954-11-26-3/kap1) 1 ytes tillegg for hjelp i huset.
-4. Forsørgingstillegg ytes med beløp som fastsettes av Stortinget.Er ervervsevnen bare delvis tapt, nedsettes forsørgingstillegget i forhold til tapet av ervervsevne.Tillegg etter [punkt](lov/1954-11-26-3/kap3) 3 fastsettes skjønnsmessig under omsyn til alle foreliggende omstendigheter, men det må ikke overstige det forsørgingstillegg som betales for den første forsørgede.
+4. Forsørgingstillegg ytes med beløp som fastsettes av Stortinget.
+
+   Er ervervsevnen bare delvis tapt, nedsettes forsørgingstillegget i forhold til tapet av ervervsevne.
+
+   Tillegg etter [punkt](lov/1954-11-26-3/kap3) 3 fastsettes skjønnsmessig under omsyn til alle foreliggende omstendigheter, men det må ikke overstige det forsørgingstillegg som betales for den første forsørgede.
 5. Er det en kvinne som har pensjon, får reglene foran tilsvarende anvendelse hvis hun forsørger barn eller mann som på grunn av alder eller helbred ikke med rimelighet kan ventes å forsørge seg selv.
 
 > Endret ved [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
@@ -158,7 +191,11 @@ Gravferdshjelp kan også ytes til flytting av grav.
 
 1. Enke har rett til enkepensjon fra mannens død hvis hun har omsorgen for barn som er nevnt i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap1) 1. Det samme gjelder hvis hun ikke har omsorgen for barn, men ved manns død har fylt 55 år. Er hun yngre, inntrer pensjonsretten når hun fyller 55 år. Enkepensjonen utgjør 60 pst. av den pensjon med forsørgingstillegg for ektefelle som avdøde ved fullstendig tap av ervervsevnen ville hatt krav på.
 2. Enke som ikke får pensjon ved mannens død har rett til en overgangsstønad som svarer til to års pensjon, forholdsmessig avkortet hvis hun er eldre enn 53 år.
-3. Det kan bevilges hel eller delvis enkepensjon til:enke som ikke har rett til pensjon etter [punkt](lov/1954-11-26-3/kap1) 1 hvis hun er varig arbeidsufør, eller har omsorg for barn som er nevnt i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap2) 2,kvinne som ikke var gift med avdøde, når hun har omsorgen for avdødes barn og var underholdt av ham,hustru når ekteskapet er oppløst ved dom fordi mannen er forsvunnet.
+3. Det kan bevilges hel eller delvis enkepensjon til:
+
+   1. enke som ikke har rett til pensjon etter [punkt](lov/1954-11-26-3/kap1) 1 hvis hun er varig arbeidsufør, eller har omsorg for barn som er nevnt i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap2) 2,
+   2. kvinne som ikke var gift med avdøde, når hun har omsorgen for avdødes barn og var underholdt av ham,
+   3. hustru når ekteskapet er oppløst ved dom fordi mannen er forsvunnet.
 4. Rett til pensjon inntrer ikke hvis ekteskapet er inngått etter at avdøde ble påført skade eller sykdom som i [§ 1](lov/1954-11-26-3/§1) nevnt. Når særlige grunner taler for det, kan det likevel tilstås hel eller delvis pensjon i slikt tilfelle.
 5. Pensjon etter [punkt](lov/1954-11-26-3/kap1) 1 løper fra og med den dag mannen dør eller fra og med den dag enken fyller 55 år til og med månedsdagen etter hennes død, jfr. dog [§ 20](lov/1954-11-26-3/§20).
 6. Enkemannspensjon kan tilstås helt eller delvis etter reglene i [pkt](lov/1954-11-26-3/kap1). 1 hvis mannen er varig arbeidsufør og ble forsørget av hustruen,
@@ -183,7 +220,9 @@ Departementet fastsetter grunnlaget for beregningen av kontantverdien.
 
 ### § 22. Pensjon til barn.
 
-1. Barn som er nevnt i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap1) 1, har rett til barnepensjon. For barn over 18 år får reglene i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap2) 2, tilsvarende anvendelse.Barnepensjon ytes med beløp som fastsettes av Stortinget. Dersom enkepensjon ikke ytes, skal dog pensjonen for første barn svare til det beløp som enkepensjonen ville ha utgjort. Det gjelder likevel ikke dersom pensjonen til enken er falt bort etter [§ 20](lov/1954-11-26-3/§20) eller utløst etter [§ 21](lov/1954-11-26-3/§21).
+1. Barn som er nevnt i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap1) 1, har rett til barnepensjon. For barn over 18 år får reglene i [§ 12](lov/1954-11-26-3/§12), [punkt](lov/1954-11-26-3/kap2) 2, tilsvarende anvendelse.
+
+   Barnepensjon ytes med beløp som fastsettes av Stortinget. Dersom enkepensjon ikke ytes, skal dog pensjonen for første barn svare til det beløp som enkepensjonen ville ha utgjort. Det gjelder likevel ikke dersom pensjonen til enken er falt bort etter [§ 20](lov/1954-11-26-3/§20) eller utløst etter [§ 21](lov/1954-11-26-3/§21).
 2. Etterlater avdøde seg flere barnekull som ved dødsfallet oppdras hver for seg, beregnes pensjonen særskilt for hvert barnekull. For barnekull som ikke har noen av foreldrene i live, regnes pensjonen etter [punkt](lov/1954-11-26-3/kap1) 1, annet ledd. Pensjon til to eller flere barn anses ytt med like stort beløp til hvert barn i det enkelte kull.
 3. Gjenlevende ektefelle anses ved beregningen av barnepensjon som mor eller far i forhold til stebarn, adoptivbarn og pleiebarn, som vedblir å være under hennes (hans) omsorg. Er noen av dem ikke under vedkommendes omsorg og begge deres virkelige foreldre er døde, beregnes pensjonen for disse barn til deres forholdsmessige del av pensjonen etter [punkt](lov/1954-11-26-3/kap1) 1 annet ledd, jfr. [punkt](lov/1954-11-26-3/kap2) 2.
 4. Til samme barn kan bare ytes pensjon etter en av foreldrene og i tilfelle etter den av dem som betinger det høyeste beløp.
@@ -199,7 +238,9 @@ Det kan bestemmes at barnepensjon skal løpe ut over barnets 18. år, hvis det f
 
 ### § 24. Pensjon til fjernere slektninger.
 
-1. Etterlater avdøde seg slektninger i rett oppstigende linje eller søsken, kan det tilstås dem pensjon hvis de ikke kan forsørge seg selv og avdøde bidro vesentlig til deres underhold. Like med slektninger i rett oppstigende linje regnes adoptiv- og pleieforeldre.Pensjonene fastsettes under omsyn til alle foreliggende omstendigheter, dog således at de i alt ikke må overstige pensjonen for enke i den gruppe avdøde tilhørte.
+1. Etterlater avdøde seg slektninger i rett oppstigende linje eller søsken, kan det tilstås dem pensjon hvis de ikke kan forsørge seg selv og avdøde bidro vesentlig til deres underhold. Like med slektninger i rett oppstigende linje regnes adoptiv- og pleieforeldre.
+
+   Pensjonene fastsettes under omsyn til alle foreliggende omstendigheter, dog således at de i alt ikke må overstige pensjonen for enke i den gruppe avdøde tilhørte.
 2. Pensjonen løper til og med månedsdagen etter at den som har rett til den dør.
 
 ## 6. kapitel. Nedsettelse av stønad.
@@ -210,7 +251,9 @@ Erstatning fra fremmed stat i anledning av skaden eller sykdommen kommer til fra
 
 ### § 26. Stønad til begge ektefeller.
 
-1. Har mann og hustru som lever sammen begge rett til sykepenger eller uførepensjon, settes sykepengene eller pensjonen ned med 50 pst. for den av ektefellene som får det laveste beløp.Forsørgingstillegg for ektefelle ytes ikke hvis ektefellen har rett til høyere sykepenger eller pensjon. Er sykepengene eller pensjonen lavere, ytes bare forsørgingstillegg.
+1. Har mann og hustru som lever sammen begge rett til sykepenger eller uførepensjon, settes sykepengene eller pensjonen ned med 50 pst. for den av ektefellene som får det laveste beløp.
+
+   Forsørgingstillegg for ektefelle ytes ikke hvis ektefellen har rett til høyere sykepenger eller pensjon. Er sykepengene eller pensjonen lavere, ytes bare forsørgingstillegg.
 2. Har begge foreldre rett til sykepenger eller uførepensjon, ytes forsørgingstillegg for barn bare til den av foreldrene som har krav på det høyeste tillegg.
 
 ### § 27. Rett til flere arter stønad.
@@ -229,7 +272,11 @@ Ved nedsettelse av pensjon etter første ledd skal forsørgingstillegg settes ne
 
 ### § 29. Landssvik m.v.
 
-1. Den som har gjort seg skyldig i forhold som rammes av straffebestemmelsene for landssvik, eller av bestemmelsene i [straffeloven kapittel 17](lov/2005-05-20-28/kap17) eller [§ 184](lov/2005-05-20-28/§184) eller av krigsartiklene i den [militære straffelov,](lov/1902-05-22-13) har ikke rett til stønad. Er skyldspørsmålet ikke strafferettslig avgjort gjelder det samme når departementet antar at vedkommende har gjort seg skyldig i slike forhold som nevnt.Departementet kan likevel tilstå stønad helt eller delvis i de tilfelle som er nevnt i første ledd hvis særlige grunner foreligger.Bestemmelsene i første ledd gjelder også den skyldiges etterlatte hvis ikke departementet bestemmer noe annet.
+1. Den som har gjort seg skyldig i forhold som rammes av straffebestemmelsene for landssvik, eller av bestemmelsene i [straffeloven kapittel 17](lov/2005-05-20-28/kap17) eller [§ 184](lov/2005-05-20-28/§184) eller av krigsartiklene i den [militære straffelov,](lov/1902-05-22-13) har ikke rett til stønad. Er skyldspørsmålet ikke strafferettslig avgjort gjelder det samme når departementet antar at vedkommende har gjort seg skyldig i slike forhold som nevnt.
+
+   Departementet kan likevel tilstå stønad helt eller delvis i de tilfelle som er nevnt i første ledd hvis særlige grunner foreligger.
+
+   Bestemmelsene i første ledd gjelder også den skyldiges etterlatte hvis ikke departementet bestemmer noe annet.
 2. Dersom noen ellers antas å ha gjort seg skyldig i grovt uverdig forhold, kan departementet bestemme at han og hans etterlatte ikke skal ha rett til stønad etter loven.
 3. Reglene i denne paragraf gjelder tilsvarende for ektefelle og forsørget.
 
@@ -275,7 +322,13 @@ Så snart Arbeids- og velferdsetaten har fått de nødvendige opplysninger skal 
 
 ### § 35. Betaling av stønad
 
-1. Pensjoner med forsørgingstillegg betales forskuddsvis for hver måned, eller for hvert kvartal når Arbeids- og velferdsetaten finner at dette høver best.Faller pensjonen bort i løpet av måneden eller kvartalet, plikter ikke den som har fått for meget utbetalt, å tilbakebetale dette.Overgangsstønad etter [§ 19](lov/1954-11-26-3/§19), [punkt](lov/1954-11-26-3/kap2) 2, betales i slike terminer og på den måten som Arbeids- og velferdsetaten bestemmer.Sykepenger betales etterskuddsvis ukentlig eller hver fjortende dag. Gravferdshjelp betales så snart råd er etter dødsfallet.
+1. Pensjoner med forsørgingstillegg betales forskuddsvis for hver måned, eller for hvert kvartal når Arbeids- og velferdsetaten finner at dette høver best.
+
+   Faller pensjonen bort i løpet av måneden eller kvartalet, plikter ikke den som har fått for meget utbetalt, å tilbakebetale dette.
+
+   Overgangsstønad etter [§ 19](lov/1954-11-26-3/§19), [punkt](lov/1954-11-26-3/kap2) 2, betales i slike terminer og på den måten som Arbeids- og velferdsetaten bestemmer.
+
+   Sykepenger betales etterskuddsvis ukentlig eller hver fjortende dag. Gravferdshjelp betales så snart råd er etter dødsfallet.
 2. Arbeids- og velferdsetaten kan bestemme at barnepensjon og forsørgingstillegg for barn skal betales til dem som har omsorgen for barnet uten omsyn til om dette er den berettigede. Også ellers kan det, når særlige grunner foreligger, bestemmes at stønad betales til en annen enn den berettigede.
 
 > Endret ved [lov 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
@@ -286,7 +339,9 @@ Så snart Arbeids- og velferdsetaten har fått de nødvendige opplysninger skal 
 
 ### § 37. Bistand fra myndigheter
 
-1. Kommunale og andre offentlige myndigheter plikter å bistå Arbeids- og velferdsetaten.Taushetsplikt kan ikke påberopes med mindre det gjelder omsyn til rikets sikkerhet.
+1. Kommunale og andre offentlige myndigheter plikter å bistå Arbeids- og velferdsetaten.
+
+   Taushetsplikt kan ikke påberopes med mindre det gjelder omsyn til rikets sikkerhet.
 2. Finner Arbeids- og velferdsetaten det påkrevd, kan bevis opptas i samsvar med [tvisteloven](lov/2005-06-17-90).
 
 > Endret ved [lover 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127).

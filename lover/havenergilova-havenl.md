@@ -15,7 +15,7 @@ xml_hash: "525a7aae567786cc237c035e195368c6349144615b9e68c0abf229a02a6639fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,11 +118,27 @@ Konsekvensutgreiingar skal leggjast ved søknader om konsesjon til nettanlegg me
 
 ### § 3-3. (Søknad og handsaming av konsesjonssøknad og detaljplan)
 
-Konsesjonssøknad og detaljplan etter [§§ 3-1](lov/2010-06-04-21/§3-1) og [3-2](lov/2010-06-04-21/§3-2) skal sendast til departementet. Departementet kan gje forskrifter om konsesjonssøknad og detaljplan, mellom anna om:rett til å søke om og få konsesjon, inklusive prekvalifiseringsføresegner,kva slag opplysningar ein søknad skal innehalde,kva slag opplysningar ein detaljplan skal innehalde,kva slag undersøkingar søkjaren må syte for ogkrav til kunngjering, offentleg ettersyn, høyring og medverknad frå relevante styresmaktar og interesser.
+Konsesjonssøknad og detaljplan etter [§§ 3-1](lov/2010-06-04-21/§3-1) og [3-2](lov/2010-06-04-21/§3-2) skal sendast til departementet. Departementet kan gje forskrifter om konsesjonssøknad og detaljplan, mellom anna om:
+
+1. rett til å søke om og få konsesjon, inklusive prekvalifiseringsføresegner,
+2. kva slag opplysningar ein søknad skal innehalde,
+3. kva slag opplysningar ein detaljplan skal innehalde,
+4. kva slag undersøkingar søkjaren må syte for og
+5. krav til kunngjering, offentleg ettersyn, høyring og medverknad frå relevante styresmaktar og interesser.
 
 ### § 3-4. (Vilkår)
 
-For konsesjonar eller godkjenning av detaljplan etter [§§ 3-1](lov/2010-06-04-21/§3-1) og [3-2](lov/2010-06-04-21/§3-2) kan departementet gje forskrifter og fastsetje vilkår:om påbyrjing, bygging, utføring, vedlikehald, drift og nedlegging av energianlegg,om tidsfristar for utarbeiding av detaljplan ved tildelt konsesjon, for oppstart av anleggsarbeid og for å setje i drift anlegget eller delar av dette,om beredskap og tryggleik,om tilrettelegging for eller tilkopling til andre anlegg eller system,om tiltak for å unngå eller avgrense skade eller ulempe for miljø, mangfaldet i naturen, kulturminne og annan arealbruk,om for- og etterundersøkingar,av omsyn til ei rasjonell energiforsyning,av omsyn til andre næringsinteresser ogom bruk av eksterne oppdragstakarar og konsesjonærens ansvar for desse.
+For konsesjonar eller godkjenning av detaljplan etter [§§ 3-1](lov/2010-06-04-21/§3-1) og [3-2](lov/2010-06-04-21/§3-2) kan departementet gje forskrifter og fastsetje vilkår:
+
+1. om påbyrjing, bygging, utføring, vedlikehald, drift og nedlegging av energianlegg,
+2. om tidsfristar for utarbeiding av detaljplan ved tildelt konsesjon, for oppstart av anleggsarbeid og for å setje i drift anlegget eller delar av dette,
+3. om beredskap og tryggleik,
+4. om tilrettelegging for eller tilkopling til andre anlegg eller system,
+5. om tiltak for å unngå eller avgrense skade eller ulempe for miljø, mangfaldet i naturen, kulturminne og annan arealbruk,
+6. om for- og etterundersøkingar,
+7. av omsyn til ei rasjonell energiforsyning,
+8. av omsyn til andre næringsinteresser og
+9. om bruk av eksterne oppdragstakarar og konsesjonærens ansvar for desse.
 
 Departementet kan i samband med den einskilde konsesjon fastsetje ytterlegare vilkår dersom omsyn til allmenne eller private interesser krev det.
 
@@ -300,7 +316,12 @@ Endringar i vilkåra kan òg gjerast etter søknad frå konsesjonæren. Føreseg
 
 ### § 10-9. (Lovbrotsgebyr)
 
-Departementet kan påleggje gebyr etter [forvaltningsloven § 44](lov/1967-02-10/§44) for den som forsettleg eller aktlaust bryt[§ 3-1](lov/2010-06-04-21/§3-1), [§ 3-2](lov/2010-06-04-21/§3-2), [§ 5-1](lov/2010-06-04-21/§5-1), [§ 6-1](lov/2010-06-04-21/§6-1), [§ 8-1](lov/2010-06-04-21/§8-1) fyrste ledd eller [§ 10-4](lov/2010-06-04-21/§10-4)pålegg etter [§ 10-5](lov/2010-06-04-21/§10-5)brot på konsesjon eller vedtak gjevne i medhald av [§ 3-4](lov/2010-06-04-21/§3-4), [§ 7-1](lov/2010-06-04-21/§7-1), [§ 8-1](lov/2010-06-04-21/§8-1) andre ledd, [§ 10-2](lov/2010-06-04-21/§10-2) eller [§ 10-3](lov/2010-06-04-21/§10-3)forskrift, når det i forskrifta er særskilt bestemt at brot kan føre til lovbrotsgebyr.
+Departementet kan påleggje gebyr etter [forvaltningsloven § 44](lov/1967-02-10/§44) for den som forsettleg eller aktlaust bryt
+
+1. [§ 3-1](lov/2010-06-04-21/§3-1), [§ 3-2](lov/2010-06-04-21/§3-2), [§ 5-1](lov/2010-06-04-21/§5-1), [§ 6-1](lov/2010-06-04-21/§6-1), [§ 8-1](lov/2010-06-04-21/§8-1) fyrste ledd eller [§ 10-4](lov/2010-06-04-21/§10-4)
+2. pålegg etter [§ 10-5](lov/2010-06-04-21/§10-5)
+3. brot på konsesjon eller vedtak gjevne i medhald av [§ 3-4](lov/2010-06-04-21/§3-4), [§ 7-1](lov/2010-06-04-21/§7-1), [§ 8-1](lov/2010-06-04-21/§8-1) andre ledd, [§ 10-2](lov/2010-06-04-21/§10-2) eller [§ 10-3](lov/2010-06-04-21/§10-3)
+4. forskrift, når det i forskrifta er særskilt bestemt at brot kan føre til lovbrotsgebyr.
 
 Ved avgjerd av om gebyr skal påleggjast og ved individuell utmåling av gebyret skal det særleg leggjast vekt på momenta nemnde i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd og om det er gjentaking. Det skal òg takast omsyn til om det er gjort vedtak om inndraging av utbyte frå det same lovbrotet.
 

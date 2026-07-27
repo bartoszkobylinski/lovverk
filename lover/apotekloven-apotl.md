@@ -15,7 +15,7 @@ xml_hash: "043cfd7141b349e011812db5f4b9cae727297767aeb389715b6cd1d401629457"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,19 @@ Kongen gir forskrift om lovens anvendelse på Svalbard og kan fastsette særlige
 
 ### § 1-3. Definisjoner
 
-I denne lov menes med:apotek: salgssted for legemidler til sluttbruker hvor det gis legemiddelfaglig veiledning, som er fysisk tilgjengelig for publikum;hovedapotek: det apotek hvor apotekeren har den stedlige ledelsen når driftskonsesjonen også omfatter filialapotek;filialapotek: apotek under samme apotekkonsesjon og driftskonsesjon som et hovedapotek;sykehusapotek: apotek i samlokalisering med offentlig sykehus eller privat sykehus som inngår i offentlige helseplaner, som har legemiddelforsyning til sykehuset som sin primæroppgave;medisinutsalg: separat utleveringssted for legemidler som er underlagt et bestemt apotek;apoteker: person med driftskonsesjon til apotek etter [§ 3-2](lov/2000-06-02-39/§3-2);legemiddel: stoffer, droger eller preparater som nevnt i [legemiddelloven § 2](lov/1992-12-04-132/§2) første ledd jf. forskrift gitt i medhold av [legemiddelloven § 2](lov/1992-12-04-132/§2) annet ledd;tilvirkning: fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler samt de nødvendige kontroller i forbindelse med disse aktivitetene;resept: rekvirering av legemidler til bruk for bestemte personer eller dyr fra person med rekvireringsrett;rekvisisjon: rekvirering av legemidler fra person med rekvireringsrett på annen måte enn ved resept;ekspedisjon: farmasøytisk kontroll og istandgjøring av legemiddel i henhold til resept eller rekvisisjon.
+I denne lov menes med:
+
+1. apotek: salgssted for legemidler til sluttbruker hvor det gis legemiddelfaglig veiledning, som er fysisk tilgjengelig for publikum;
+2. hovedapotek: det apotek hvor apotekeren har den stedlige ledelsen når driftskonsesjonen også omfatter filialapotek;
+3. filialapotek: apotek under samme apotekkonsesjon og driftskonsesjon som et hovedapotek;
+4. sykehusapotek: apotek i samlokalisering med offentlig sykehus eller privat sykehus som inngår i offentlige helseplaner, som har legemiddelforsyning til sykehuset som sin primæroppgave;
+5. medisinutsalg: separat utleveringssted for legemidler som er underlagt et bestemt apotek;
+6. apoteker: person med driftskonsesjon til apotek etter [§ 3-2](lov/2000-06-02-39/§3-2);
+7. legemiddel: stoffer, droger eller preparater som nevnt i [legemiddelloven § 2](lov/1992-12-04-132/§2) første ledd jf. forskrift gitt i medhold av [legemiddelloven § 2](lov/1992-12-04-132/§2) annet ledd;
+8. tilvirkning: fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler samt de nødvendige kontroller i forbindelse med disse aktivitetene;
+9. resept: rekvirering av legemidler til bruk for bestemte personer eller dyr fra person med rekvireringsrett;
+10. rekvisisjon: rekvirering av legemidler fra person med rekvireringsrett på annen måte enn ved resept;
+11. ekspedisjon: farmasøytisk kontroll og istandgjøring av legemiddel i henhold til resept eller rekvisisjon.
 
 > Endret ved [lov 19 juni 2009 nr. 71](lov/2009-06-19-71) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 689](forskrift/2009-06-19-689)).
 
@@ -76,7 +88,10 @@ Konsesjon til eierskap til apotek (apotekkonsesjon) gis av departementet.
 
 ### § 2-2. Apotekkonsesjon
 
-Med de begrensninger som følger av [§ 2-3](lov/2000-06-02-39/§2-3), har en søker rett til apotekkonsesjon hvis følgende krav er oppfylt:Søker må dokumentere økonomisk evne til å drive faglig forsvarlig, i samsvar med krav til apotekvirksomhet fastsatt i lov og forskrift, herunder økonomisk evne til å tilby nødvendige ikkelønnsomme farmasøytiske tjenester.Søker må dokumentere sannsynlighet for at apotekets faglige virksomhet får et omfang som er stort nok til at apotekets kompetanse som faghandel og tilvirker av legemidler sikres og holdes ved like. Kravet kan dokumenteres i fellesskap med annet eller andre nærliggende apotek med samme eier, eller i forpliktende samarbeid.
+Med de begrensninger som følger av [§ 2-3](lov/2000-06-02-39/§2-3), har en søker rett til apotekkonsesjon hvis følgende krav er oppfylt:
+
+1. Søker må dokumentere økonomisk evne til å drive faglig forsvarlig, i samsvar med krav til apotekvirksomhet fastsatt i lov og forskrift, herunder økonomisk evne til å tilby nødvendige ikkelønnsomme farmasøytiske tjenester.
+2. Søker må dokumentere sannsynlighet for at apotekets faglige virksomhet får et omfang som er stort nok til at apotekets kompetanse som faghandel og tilvirker av legemidler sikres og holdes ved like. Kravet kan dokumenteres i fellesskap med annet eller andre nærliggende apotek med samme eier, eller i forpliktende samarbeid.
 
 Departementet kan i forskrift fastsette regler som begrenser retten til konsesjon etter denne paragraf dersom konkurransepolitiske hensyn tilsier det.
 
@@ -86,7 +101,13 @@ Departementet kan i forskrift fastsette regler som begrenser retten til konsesjo
 
 ### § 2-3. Søkere som ikke kan gis apotekkonsesjon
 
-Apotekkonsesjon etter [§ 2-2](lov/2000-06-02-39/§2-2) kan ikke gis dersom:Søkeren har rekvireringsrett for legemidler, er industriell tilvirker av legemidler eller er tilknyttet slik tilvirker eller foretak som tar syke i behandling. Det samme gjelder dersom søkeren har slike nærstående, med mindre departementet gjør unntak i det enkelte tilfellet.Søker er et foretak som tar syke i behandling eller et industriforetak som tilvirker legemidler. Det samme gjelder dersom søkeren er et foretak som ledes av person med rekvireringsrett for legemidler. Med mindre departementet gjør unntak i det enkelte tilfellet, gjelder kravet foretakets daglige leder, medlemmene av styret og deres nærstående, samt alle selskapsdeltakerne og deres nærstående hvis foretaket er et ansvarlig selskap.Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett.Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere.Søker har kontroll over et foretak som tar syke i behandling.
+Apotekkonsesjon etter [§ 2-2](lov/2000-06-02-39/§2-2) kan ikke gis dersom:
+
+1. Søkeren har rekvireringsrett for legemidler, er industriell tilvirker av legemidler eller er tilknyttet slik tilvirker eller foretak som tar syke i behandling. Det samme gjelder dersom søkeren har slike nærstående, med mindre departementet gjør unntak i det enkelte tilfellet.
+2. Søker er et foretak som tar syke i behandling eller et industriforetak som tilvirker legemidler. Det samme gjelder dersom søkeren er et foretak som ledes av person med rekvireringsrett for legemidler. Med mindre departementet gjør unntak i det enkelte tilfellet, gjelder kravet foretakets daglige leder, medlemmene av styret og deres nærstående, samt alle selskapsdeltakerne og deres nærstående hvis foretaket er et ansvarlig selskap.
+3. Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett.
+4. Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere.
+5. Søker har kontroll over et foretak som tar syke i behandling.
 
 Et foretak har kontroll over et annet foretak når det tar plass før dette i en ubrutt rekke av foretak som har bestemmende innflytelse over en blokkerende minoritetsandel eller en tredjedel eller mer av stemmene eller aksjekapitalen i det neste foretaket i rekken.
 
@@ -114,13 +135,24 @@ Søkere må oppfylle kravene i [§ 2-2](lov/2000-06-02-39/§2-2) jf. [§ 2-3](lo
 
 En apotekkonsesjon omfatter et bestemt apotek i et bestemt geografisk område.
 
-Apotekkonsesjonen kan ellers inneholde:Tillatelse til etablering av medisinutsalg i områder uten apotek. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet.Tilvirkertillatelse etter [§ 7-1](lov/2000-06-02-39/§7-1) og tillatelse etter [§ 7-3](lov/2000-06-02-39/§7-3) tredje ledd til salg til apotek og grossist av legemidler som er tilvirket til lager.
+Apotekkonsesjonen kan ellers inneholde:
+
+1. Tillatelse til etablering av medisinutsalg i områder uten apotek. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet.
+2. Tilvirkertillatelse etter [§ 7-1](lov/2000-06-02-39/§7-1) og tillatelse etter [§ 7-3](lov/2000-06-02-39/§7-3) tredje ledd til salg til apotek og grossist av legemidler som er tilvirket til lager.
 
 > Endret ved [lover 15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [19 juni 2009 nr. 71](lov/2009-06-19-71) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 689](forskrift/2009-06-19-689)).
 
 ### § 2-8. Vilkår for apotekkonsesjon
 
-Det kan settes vilkår for apotekkonsesjonen når det finnes påkrevd av hensyn til de mål loven skal fremme, herunder vilkår om:samarbeid med den lokale helse- og omsorgstjenestenutføring av farmasøytisk kvalitetskontroll i den lokale helse- og omsorgstjenestenutføring av helsetjenester som står i nær sammenheng med utlevering og bruk av legemidlersikring av tilgjengeligheten til legemidler gjennom særlige åpningstider eller funksjon som vaktapoteksikring av legemiddelforsyningen gjennom opprettelse og drift av apotek eller medisinutsalg i område uten apotektilbud, eller gjennom overtakelse av apotek eller medisinutsalg i område som står i fare for å miste apotektilbudetmedvirkning til forsvarlig legemiddelberedskaptilvirkning og leveringsplikt av viktige legemidler av hensyn til den nasjonale legemiddelforsyningen.
+Det kan settes vilkår for apotekkonsesjonen når det finnes påkrevd av hensyn til de mål loven skal fremme, herunder vilkår om:
+
+1. samarbeid med den lokale helse- og omsorgstjenesten
+2. utføring av farmasøytisk kvalitetskontroll i den lokale helse- og omsorgstjenesten
+3. utføring av helsetjenester som står i nær sammenheng med utlevering og bruk av legemidler
+4. sikring av tilgjengeligheten til legemidler gjennom særlige åpningstider eller funksjon som vaktapotek
+5. sikring av legemiddelforsyningen gjennom opprettelse og drift av apotek eller medisinutsalg i område uten apotektilbud, eller gjennom overtakelse av apotek eller medisinutsalg i område som står i fare for å miste apotektilbudet
+6. medvirkning til forsvarlig legemiddelberedskap
+7. tilvirkning og leveringsplikt av viktige legemidler av hensyn til den nasjonale legemiddelforsyningen.
 
 I stedet for naturaloppfyllelse av vilkår som er pålagt etter første ledd, kan departementet godkjenne at vilkåret blir oppfylt gjennom tilbud om økonomisk kompensasjon til andre apotek i området som er pålagt det samme vilkåret.
 
@@ -156,7 +188,14 @@ Departementet kan forlenge rettsvirkningene etter konsesjonen eller tillatelsene
 
 Departementet kan kalle tilbake apotekkonsesjonen hvis vilkårene etter [§ 2-2](lov/2000-06-02-39/§2-2) jf. [§ 2-3](lov/2000-06-02-39/§2-3) ikke lenger foreligger.
 
-Apotekkonsesjonen kan også kalles tilbake:ved mislighold av vilkår som er satt etter [§ 2-8](lov/2000-06-02-39/§2-8)ved mislighold av innrapporteringsplikter som tilligger apotekkonsesjonæren ifølge lov, forskrift eller vedtakved mangelfull medvirkning under tilsyn, jf. [§ 8-2](lov/2000-06-02-39/§8-2)ved stenging av apoteket etter [§ 8-5](lov/2000-06-02-39/§8-5) eller ved annet driftsopphør som eieren svarer forved avkall på driftskonsesjonen, hvis avkallet er begrunnet i uforsvarlige rammevilkår for driftenved mangelfull oppfyllelse i apoteket av krav til kvalitet og sikkerhet som følger av lov, forskrift eller vedtak eller av god apotek- eller tilvirkningspraksis.
+Apotekkonsesjonen kan også kalles tilbake:
+
+1. ved mislighold av vilkår som er satt etter [§ 2-8](lov/2000-06-02-39/§2-8)
+2. ved mislighold av innrapporteringsplikter som tilligger apotekkonsesjonæren ifølge lov, forskrift eller vedtak
+3. ved mangelfull medvirkning under tilsyn, jf. [§ 8-2](lov/2000-06-02-39/§8-2)
+4. ved stenging av apoteket etter [§ 8-5](lov/2000-06-02-39/§8-5) eller ved annet driftsopphør som eieren svarer for
+5. ved avkall på driftskonsesjonen, hvis avkallet er begrunnet i uforsvarlige rammevilkår for driften
+6. ved mangelfull oppfyllelse i apoteket av krav til kvalitet og sikkerhet som følger av lov, forskrift eller vedtak eller av god apotek- eller tilvirkningspraksis.
 
 Hvis tilbakekallsgrunnen i første og annet ledd bare gjelder medisinutsalg eller apotekets tilvirkning av legemidler, kan tilbakekallet begrenses til å gjelde denne delen av apotekkonsesjonen.
 
@@ -174,7 +213,13 @@ Konsesjon til drift av apotek (driftskonsesjon) gis av departementet.
 
 ### § 3-2. Rett til driftskonsesjon
 
-Søker har rett til driftskonsesjon til et bestemt apotek hvis følgende krav er oppfylt:Søker har autorisasjon som provisorfarmasøyt.Søker har minst 2 års farmasøytisk praksis etter eksamen, hvorav minst 12 måneder ved apotek fra EØS-området eller Sveits. Apotekpraksis fra land utenfor EØS-området og Sveits kan legges til grunn dersom den vurderes som relevant for norske forhold.Søker har hederlig vandel i henhold til politiattest.Søker skal være daglig leder for apoteket.Søker ikke er uskikket til å drive apotek.
+Søker har rett til driftskonsesjon til et bestemt apotek hvis følgende krav er oppfylt:
+
+1. Søker har autorisasjon som provisorfarmasøyt.
+2. Søker har minst 2 års farmasøytisk praksis etter eksamen, hvorav minst 12 måneder ved apotek fra EØS-området eller Sveits. Apotekpraksis fra land utenfor EØS-området og Sveits kan legges til grunn dersom den vurderes som relevant for norske forhold.
+3. Søker har hederlig vandel i henhold til politiattest.
+4. Søker skal være daglig leder for apoteket.
+5. Søker ikke er uskikket til å drive apotek.
 
 Samme person kan ikke ha mer enn én driftskonsesjon på samme tid. I særlige tilfeller kan det tillates at samme person kan opprettholde en driftskonsesjon i inntil 6 måneder etter at personen har begynt å fungere som apoteker på grunnlag av ny driftskonsesjon.
 
@@ -188,7 +233,10 @@ Før driftskonsesjonen gis må apotekkonsesjonæren godtgjøre at apoteket fylle
 
 ### § 3-4. Filialapotek
 
-I tillegg til hovedapoteket kan det gis tillatelse til drift av inntil tre filialapotek, som hver skal være under stedlig ledelse av en person med autorisasjon som provisorfarmasøyt eller reseptarfarmasøyt, hvis apotekkonsesjonæren godtgjør at:Person med kvalifikasjoner som nevnt i [§ 3-2](lov/2000-06-02-39/§3-2) første ledd ikke lar seg ansette som apoteker av årsaker som ikke kan lastes apotekkonsesjonæren.Apoteket tilbyr apotektjenester som stedets befolkning ikke kan skaffe seg på annen måte uten urimelig kostnad eller ulempe. I særlige tilfeller kan dette kravet fravikes.
+I tillegg til hovedapoteket kan det gis tillatelse til drift av inntil tre filialapotek, som hver skal være under stedlig ledelse av en person med autorisasjon som provisorfarmasøyt eller reseptarfarmasøyt, hvis apotekkonsesjonæren godtgjør at:
+
+1. Person med kvalifikasjoner som nevnt i [§ 3-2](lov/2000-06-02-39/§3-2) første ledd ikke lar seg ansette som apoteker av årsaker som ikke kan lastes apotekkonsesjonæren.
+2. Apoteket tilbyr apotektjenester som stedets befolkning ikke kan skaffe seg på annen måte uten urimelig kostnad eller ulempe. I særlige tilfeller kan dette kravet fravikes.
 
 Kravene i første ledd bokstav a og b gjelder ikke hvis apoteket på søknadstidspunktet er i drift som filialapotek. I dette tilfellet bør tillatelsen tidsbegrenses til varigheten av arbeidsforholdet til filialapotekets stedlige leder.
 
@@ -226,7 +274,12 @@ Konsesjonen faller bort når apotekers arbeidsforhold avsluttes. Rettighetene og
 
 Departementet kan endelig eller midlertidig kalle tilbake driftskonsesjonen hvis kravene for å ha den etter [§ 3-2](lov/2000-06-02-39/§3-2) første ledd ikke lenger foreligger.
 
-Det samme gjelder:ved mislighold av vilkår som er satt etter [§ 3-5](lov/2000-06-02-39/§3-5)ved mislighold av innrapporteringsplikter som tilligger apotekeren ifølge lov, forskrift eller vedtakved mangelfull medvirkning under tilsyn, jf. [§ 8-2](lov/2000-06-02-39/§8-2)ved uforsvarlig personlig utøvelse av rettigheter og plikter som apoteker.
+Det samme gjelder:
+
+1. ved mislighold av vilkår som er satt etter [§ 3-5](lov/2000-06-02-39/§3-5)
+2. ved mislighold av innrapporteringsplikter som tilligger apotekeren ifølge lov, forskrift eller vedtak
+3. ved mangelfull medvirkning under tilsyn, jf. [§ 8-2](lov/2000-06-02-39/§8-2)
+4. ved uforsvarlig personlig utøvelse av rettigheter og plikter som apoteker.
 
 Hvis tilbakekallsgrunnen bare gjelder filialapotek eller medisinutsalg, kan tilbakekallet begrenses til å gjelde denne delen av driftskonsesjonen.
 
@@ -298,7 +351,10 @@ Departementet kan ved forskrift bestemme minste åpningstider for apotek, og kan
 
 ### § 5-3. Forhandlingsplikt
 
-Apoteket har plikt til å forhandle:alle legemidler som er tillatt solgt her i landetvanlig medisinsk utstyr som benyttes av forbrukere.
+Apoteket har plikt til å forhandle:
+
+1. alle legemidler som er tillatt solgt her i landet
+2. vanlig medisinsk utstyr som benyttes av forbrukere.
 
 Departementet kan gi forskrift som fastsetter nærmere hvilke artikler eller varegrupper som omfattes av første ledd. Departementet kan også gi bestemmelser som innskrenker og utvider forhandlingsplikten.
 
@@ -364,7 +420,11 @@ Departementet kan ved forskrift og i det enkelte tilfellet helt eller delvis unn
 
 Apotek skal så snart som mulig levere varer og yte tjenester som etterspørres og som omfattes eller følger av forhandlingsplikten.
 
-Apotek har ikke adgang til å levere når utlevering innebærer brudd på gjeldende utleveringsbestemmelser og det ikke er adgang til å gjøre unntak. Det samme gjelder når:reseptpliktig legemiddel kreves utlevert på grunnlag av mangelfull resept og vilkårene for nødekspedisjon etter gjeldende utleveringsbestemmelser ikke foreliggerlegemidlet etterspørres av person som i henhold til melding fra myndighetene ikke skal utleveres bestemte legemidler ellerapoteket har grunn til å tro at legemidlet kan misbrukes eller utgjøre en fare hvis det utleveres.
+Apotek har ikke adgang til å levere når utlevering innebærer brudd på gjeldende utleveringsbestemmelser og det ikke er adgang til å gjøre unntak. Det samme gjelder når:
+
+1. reseptpliktig legemiddel kreves utlevert på grunnlag av mangelfull resept og vilkårene for nødekspedisjon etter gjeldende utleveringsbestemmelser ikke foreligger
+2. legemidlet etterspørres av person som i henhold til melding fra myndighetene ikke skal utleveres bestemte legemidler eller
+3. apoteket har grunn til å tro at legemidlet kan misbrukes eller utgjøre en fare hvis det utleveres.
 
 Leveringsplikten gjelder selv om betaling ikke medfølger og sikkerhet ikke stilles, hvis apoteket på resepten eller på annen måte er underrettet av behandlende lege eller tannlege om at legemidlet behøves straks.
 
@@ -394,7 +454,11 @@ Ved utlevering mot resept skal apoteket bidra til at kunden får tilstrekkelig i
 
 ### § 6-7. Utlevering av legemidler uten resept
 
-Ved salg til publikum av legemidler som kan utleveres uten resept, skal apoteket bidra til at kunden får nødvendig informasjon om legemidlet, herunder kontrollere at:legemidlet er forsynt med tilstrekkelige opplysninger om bruk, oppbevaring og holdbarhetkunden har tilstrekkelige opplysninger om legemidlet til at det kan brukes riktig ogkunden er opplyst om mulige skadelige effekter.
+Ved salg til publikum av legemidler som kan utleveres uten resept, skal apoteket bidra til at kunden får nødvendig informasjon om legemidlet, herunder kontrollere at:
+
+1. legemidlet er forsynt med tilstrekkelige opplysninger om bruk, oppbevaring og holdbarhet
+2. kunden har tilstrekkelige opplysninger om legemidlet til at det kan brukes riktig og
+3. kunden er opplyst om mulige skadelige effekter.
 
 ### § 6-8. Utleveringsbestemmelser
 
@@ -402,7 +466,10 @@ Departementet gir forskrift med nærmere bestemmelser om utlevering av legemidle
 
 ### § 6-9. Reklamasjoner og varslingsplikt ved feil og kvalitetsmangler
 
-Apoteket skal føre oversikt over alle reklamasjoner på legemidler som apoteket har utlevert. Reklamasjonen skal straks undersøkes, og nødvendige skritt skal foretas:Ved feil og kvalitetsmangler på videresolgte preparater skal melding gis til legemidlets tilvirker eller importør.Hvis det kan antas at bruken av et apotektilvirket legemiddel kan føre eller har ført til helseskade, skal tilsynsmyndigheten straks varsles, og nødvendige skritt for å avverge eller begrense skaden skal tas.
+Apoteket skal føre oversikt over alle reklamasjoner på legemidler som apoteket har utlevert. Reklamasjonen skal straks undersøkes, og nødvendige skritt skal foretas:
+
+1. Ved feil og kvalitetsmangler på videresolgte preparater skal melding gis til legemidlets tilvirker eller importør.
+2. Hvis det kan antas at bruken av et apotektilvirket legemiddel kan føre eller har ført til helseskade, skal tilsynsmyndigheten straks varsles, og nødvendige skritt for å avverge eller begrense skaden skal tas.
 
 Første ledd gjelder tilsvarende dersom feil eller kvalitetsmangler på legemidler avdekkes i apoteket før utlevering.
 

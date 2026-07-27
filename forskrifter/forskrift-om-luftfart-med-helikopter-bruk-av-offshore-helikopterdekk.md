@@ -30,9 +30,21 @@ Denne forskriften gjelder for helikopteroperatører som har særskilt tillatelse
 
 ### § 2. Definisjoner og forkortelser
 
-I forskriften menes med*innretning*: Fellesbetegnelse for fast og flyttbar innretning som benyttes til petroleumsvirksomhet eller annen virksomhet på kontinentalsokkelen.*helikopterdekk*: En landingsplattform, på innretning eller skip, spesielt bygd og beregnet for start og landing med helikopter.*periferisirkel*: Den største tenkte sirkel, med sentrum i helikopterdekkets midtpunkt, som kan trekkes innenfor helikopterdekkets ytterkant.*bevegelig helikopterdekk:* Et helikopterdekk montert på innretning eller skip som har en bevegelseskarakteristikk som er slik at bevegelsene langskips (pitch) og tverrskips (roll) overstiger 1 grad i forhold til horisontalplanet eller er slik at den vertikale bevegelsen overstiger 2 m.*helikopterdekkoperatør*: Driftsselskap for innretning eller skip med helikopterdekk.*helikopteroperatør*: Foretak som har særskilt tillatelse for offshoreoperasjoner, jf. [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner [§ 4a](forskrift/2013-08-07-956/§4a).*natt*: Timene mellom slutten av alminnelig tussmørke om kvelden og begynnelsen av alminnelig tussmørke om morgenen. Alminnelig tussmørke slutter om kvelden når midten av solskiven står 6 grader under horisonten, og begynner om morgenen når midten av solskiven står 6 grader under horisonten.
+I forskriften menes med
 
-I forskriften menes med*D*: Den største dimensjonen av et helikopter inklusive rotorplanene.*DH* : Helikopterdekkets diameter målt innenfor periferisirkelen når alle krav i forskriften er ivaretatt.*HLO (Helicopter Landing Officer)*: Person som har det daglige ansvaret for arbeidet på helikopterdekk (helikopterdekkleder).
+1. *innretning*: Fellesbetegnelse for fast og flyttbar innretning som benyttes til petroleumsvirksomhet eller annen virksomhet på kontinentalsokkelen.
+2. *helikopterdekk*: En landingsplattform, på innretning eller skip, spesielt bygd og beregnet for start og landing med helikopter.
+3. *periferisirkel*: Den største tenkte sirkel, med sentrum i helikopterdekkets midtpunkt, som kan trekkes innenfor helikopterdekkets ytterkant.
+4. *bevegelig helikopterdekk:* Et helikopterdekk montert på innretning eller skip som har en bevegelseskarakteristikk som er slik at bevegelsene langskips (pitch) og tverrskips (roll) overstiger 1 grad i forhold til horisontalplanet eller er slik at den vertikale bevegelsen overstiger 2 m.
+5. *helikopterdekkoperatør*: Driftsselskap for innretning eller skip med helikopterdekk.
+6. *helikopteroperatør*: Foretak som har særskilt tillatelse for offshoreoperasjoner, jf. [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner [§ 4a](forskrift/2013-08-07-956/§4a).
+7. *natt*: Timene mellom slutten av alminnelig tussmørke om kvelden og begynnelsen av alminnelig tussmørke om morgenen. Alminnelig tussmørke slutter om kvelden når midten av solskiven står 6 grader under horisonten, og begynner om morgenen når midten av solskiven står 6 grader under horisonten.
+
+I forskriften menes med
+
+1. *D*: Den største dimensjonen av et helikopter inklusive rotorplanene.
+2. *DH* : Helikopterdekkets diameter målt innenfor periferisirkelen når alle krav i forskriften er ivaretatt.
+3. *HLO (Helicopter Landing Officer)*: Person som har det daglige ansvaret for arbeidet på helikopterdekk (helikopterdekkleder).
 
 ## Kapittel II. Ansvar
 
@@ -54,7 +66,14 @@ Hvis bruk av et helikopterdekk kan medføre fare for skade, skal flygevirksomhet
 
 Flyging til og fra et helikopterdekk forutsetter at det finnes et ledelsessystem som sikrer at driften av helikopterdekket, og tilhørende håndtering av passasjerer, bagasje og frakt, er i samsvar med gjeldende krav, og at driften har et tilfredsstillende risikonivå. Ledelsessystemet må sikre at driften er basert på dokumenterte risikovurderinger og tilpasset det konkrete helikopterdekket.
 
-Dokumentasjon av ledelsessystemet må minst omfatte:prosedyrer for normal drift, unormale situasjoner, nødsituasjoner og havarier,program for opplæring av helikopterdekkbemanning, personell som håndterer passasjerer, bagasje og frakt, og annet personell som er involvert i helikopteranløp,prosedyrer for opplæring og periodisk trening og øvelser i normal drift, unormale situasjoner, nødsituasjoner og havarier,et vedlikeholds- og reservedelssystem for helikopterdekket,værtjenesten, ogprosedyrer for å sikre at helikopterdekk som midlertidig eller varig ikke skal benyttes til normal trafikk, merkes som stengt på en slik måte at det ikke utgjør en fare hvis det skjer en nødlanding.
+Dokumentasjon av ledelsessystemet må minst omfatte:
+
+1. prosedyrer for normal drift, unormale situasjoner, nødsituasjoner og havarier,
+2. program for opplæring av helikopterdekkbemanning, personell som håndterer passasjerer, bagasje og frakt, og annet personell som er involvert i helikopteranløp,
+3. prosedyrer for opplæring og periodisk trening og øvelser i normal drift, unormale situasjoner, nødsituasjoner og havarier,
+4. et vedlikeholds- og reservedelssystem for helikopterdekket,
+5. værtjenesten, og
+6. prosedyrer for å sikre at helikopterdekk som midlertidig eller varig ikke skal benyttes til normal trafikk, merkes som stengt på en slik måte at det ikke utgjør en fare hvis det skjer en nødlanding.
 
 En helikopteroperatør som skal bruke et helikopterdekk må ha dokumentasjonen for ledelsessystemet tilgjengelig.
 
@@ -138,7 +157,11 @@ En helikopteroperatør kan kun benytte et helikopterdekk hvor helikopterdekkoper
 
 En helikopteroperatør kan kun benytte et helikopterdekk hvor helikopterdekket er utstyrt med landingsnett på landingsområdet.
 
-Landingsnettets størrelse bestemmes av de helikoptertypene som skal benyttes. Minste størrelse må være for*lite nett*: 9 × 9 m eventuelt 9 m diameter.*middels nett*: 12 × 12 m eventuelt 12 m diameter.*stort nett*: 15 × 15 m eventuelt 15 m diameter.
+Landingsnettets størrelse bestemmes av de helikoptertypene som skal benyttes. Minste størrelse må være for
+
+1. *lite nett*: 9 × 9 m eventuelt 9 m diameter.
+2. *middels nett*: 12 × 12 m eventuelt 12 m diameter.
+3. *stort nett*: 15 × 15 m eventuelt 15 m diameter.
 
 Maskene i landingsnettet må være slik dimensjonert at nettet ikke hekter seg fast i helikopteret. Landingsnettet må være festet for hver 1,5 m. For å sikre at landingsnettet holdes tilstrekkelig stramt, må minst halvparten av fastgjøringene være utstyrt med strammingsmekanismer.
 
@@ -212,7 +235,12 @@ Sektorens horisontale utstrekning beregnes ut fra ytelsen til den mest kritiske 
 
 ### § 27. Hinder i 210° hinderfri inn- og utflygingssektor
 
-En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 210° inn- og utflygingssektor ikke er hinder som rager over helikopterdekkets nivå. På helikopterdekket godtas likevel:sikringskant, jf. [§ 19](forskrift/2019-05-14-604/§19),sikkerhetsnettets ytterkant, jf. [§ 21](forskrift/2019-05-14-604/§21) tredje ledd,skummonitorer, skilt som nevnt i [§ 35](forskrift/2019-05-14-604/§35) andre ledd, kantlys, flomlys, statuslys og repeaterlys inntil 25 cm over helikopterdekkets nivå,alternativ belysning inntil 25 mm over helikopterdekkets nivå, jf. [§ 36](forskrift/2019-05-14-604/§36) tredje ledd.
+En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 210° inn- og utflygingssektor ikke er hinder som rager over helikopterdekkets nivå. På helikopterdekket godtas likevel:
+
+1. sikringskant, jf. [§ 19](forskrift/2019-05-14-604/§19),
+2. sikkerhetsnettets ytterkant, jf. [§ 21](forskrift/2019-05-14-604/§21) tredje ledd,
+3. skummonitorer, skilt som nevnt i [§ 35](forskrift/2019-05-14-604/§35) andre ledd, kantlys, flomlys, statuslys og repeaterlys inntil 25 cm over helikopterdekkets nivå,
+4. alternativ belysning inntil 25 mm over helikopterdekkets nivå, jf. [§ 36](forskrift/2019-05-14-604/§36) tredje ledd.
 
 > Endret ved forskrifter [18 des 2020 nr. 3094](forskrift/2020-12-18-3094) (i kraft 31 des 2020), [8 des 2021 nr. 3436](forskrift/2021-12-08-3436).
 
@@ -234,7 +262,11 @@ Det må alltid finnes ekstra vindpølse i reserve. Den ekstra vindpølsen må v�
 
 ### § 30. Merking av helikopterdekk og landingsområde
 
-En helikopteroperatør kan kun benytte et helikopterdekk som er grønt eller grått og har følgende merking:Ytre begrensning er merket med en hvit 0,3 m bred kant.En gul 1 m bred referansesirkel for rettledning under landing. Referansesirkelens indre diameter må tilsvare halvparten av helikopterdekkets DH-verdi. Når særlige flyoperative forhold krever det, kan referansesirkelens sentrum være forskjøvet inntil 0,1 DHfra helikopterdekkets sentrum, langs 210°-vinkelens midtlinje, mot helikopterdekkets ytterkant.Identifikasjonsmerking i form av bokstaven H i hvit farge i sentrum av referansesirkelen. Retningen på bokstaven H må være slik orientert at bokstavens midtstykke er parallell med 210°-sektorens midtlinje. Bokstavens størrelse må være 3 × 4 m.
+En helikopteroperatør kan kun benytte et helikopterdekk som er grønt eller grått og har følgende merking:
+
+1. Ytre begrensning er merket med en hvit 0,3 m bred kant.
+2. En gul 1 m bred referansesirkel for rettledning under landing. Referansesirkelens indre diameter må tilsvare halvparten av helikopterdekkets DH-verdi. Når særlige flyoperative forhold krever det, kan referansesirkelens sentrum være forskjøvet inntil 0,1 DHfra helikopterdekkets sentrum, langs 210°-vinkelens midtlinje, mot helikopterdekkets ytterkant.
+3. Identifikasjonsmerking i form av bokstaven H i hvit farge i sentrum av referansesirkelen. Retningen på bokstaven H må være slik orientert at bokstavens midtstykke er parallell med 210°-sektorens midtlinje. Bokstavens størrelse må være 3 × 4 m.
 
 ### § 31. Navnemerking
 
@@ -274,7 +306,10 @@ Nedganger fra helikopterdekket må ha godt synlig merking, fortrinnsvis i form a
 
 ### § 36. Helikopterdekkbelysning
 
-Helikopterdekk som skal benyttes for flyging om natten eller under forhold med redusert sikt må ha:Et flomlysarrangement skjermet slik at helikopterbesetningen ikke blir blendet under innflyging, start og landing. Gjennomsnittlig belysningsstyrke må være minst 10 lux målt 0,1 m over dekknivå. Belysningen av helikopterdekket må ha en jevnhet som ikke er dårligere enn forholdet 8 til 1, beregnet av gjennomsnittlig belysningsstyrke dividert på minimum belysningsstyrke i en sirkel som har diameter 8 m større enn diameteren på referansesirkelens innerkant.Kantlys langs helikopterdekkets ytterkant, plassert med jevne mellomrom som ikke overstiger 3 m. Kantlysene må være rundtstrålende og gi fast grønt lys, med en lysstyrke på minst 30 candela. Kantbelysningen må ikke være synlig under helikopterdekkets nivå.
+Helikopterdekk som skal benyttes for flyging om natten eller under forhold med redusert sikt må ha:
+
+1. Et flomlysarrangement skjermet slik at helikopterbesetningen ikke blir blendet under innflyging, start og landing. Gjennomsnittlig belysningsstyrke må være minst 10 lux målt 0,1 m over dekknivå. Belysningen av helikopterdekket må ha en jevnhet som ikke er dårligere enn forholdet 8 til 1, beregnet av gjennomsnittlig belysningsstyrke dividert på minimum belysningsstyrke i en sirkel som har diameter 8 m større enn diameteren på referansesirkelens innerkant.
+2. Kantlys langs helikopterdekkets ytterkant, plassert med jevne mellomrom som ikke overstiger 3 m. Kantlysene må være rundtstrålende og gi fast grønt lys, med en lysstyrke på minst 30 candela. Kantbelysningen må ikke være synlig under helikopterdekkets nivå.
 
 Det må være mulig å slå av flombelysning og kantbelysning, jf. første ledd bokstav a og b.
 
@@ -288,7 +323,11 @@ Flombelysning og kantbelysning må være tilknyttet avbruddsfri kraftforsyning.
 
 ### § 36a. Visuelt varslingssystem
 
-En helikopteroperatør kan kun benytte et helikopterdekk hvor det er installert et visuelt varslingssystem (statuslys) som varsler dersom det oppstår en situasjon på helikopterdekket som kan være farlig for helikopteret eller personer ombord. Varslingssystemet må kunne betjenes manuelt av HLO. Varslingssystemet må være tilknyttet avbruddsfri kraftforsyning ogvære synlig for helikopterbesetningen fra alle innflygingsretninger og når helikopteret står på helikopterdekketkunne dimmes slik at det ikke blender helikopterbesetningenvære koblet opp mot installasjonens system for registrering av gassutslipp, slik at det aktiveres automatisk dersom gassnivået når farlig nivå.
+En helikopteroperatør kan kun benytte et helikopterdekk hvor det er installert et visuelt varslingssystem (statuslys) som varsler dersom det oppstår en situasjon på helikopterdekket som kan være farlig for helikopteret eller personer ombord. Varslingssystemet må kunne betjenes manuelt av HLO. Varslingssystemet må være tilknyttet avbruddsfri kraftforsyning og
+
+1. være synlig for helikopterbesetningen fra alle innflygingsretninger og når helikopteret står på helikopterdekket
+2. kunne dimmes slik at det ikke blender helikopterbesetningen
+3. være koblet opp mot installasjonens system for registrering av gassutslipp, slik at det aktiveres automatisk dersom gassnivået når farlig nivå.
 
 På en innretning med fast bemanning kan helikopterdekket benyttes også dersom det er etablert en annen varslingsordning enn det som følger av første ledd. Varslingsordningen må være slik at helikopterbesetningen informeres om status på helikopterdekket, inkludert varsel dersom det oppstår en situasjon som utgjør en uakseptabel risiko for helikopteroperasjonen.
 
@@ -310,7 +349,12 @@ På en innretning med fast bemanning kan helikopterdekket benyttes også dersom 
 
 ### § 39. Registrering av helikopterdekkets bevegelser
 
-En helikopteroperatør kan kun benytte et bevegelig helikopterdekk hvor det på eller i tilknytning til helikopterdekket er instrumenter for kontinuerlig registrering av bevegelserlangskips (pitch)tverrskips (roll)maksimal inklinasjon (inclination)vertikalt (heave rate).
+En helikopteroperatør kan kun benytte et bevegelig helikopterdekk hvor det på eller i tilknytning til helikopterdekket er instrumenter for kontinuerlig registrering av bevegelser
+
+1. langskips (pitch)
+2. tverrskips (roll)
+3. maksimal inklinasjon (inclination)
+4. vertikalt (heave rate).
 
 Systemet for registrering av bevegelser på helikopterdekket må være koblet opp mot et repeaterlys (lyssystem), som aktiveres når bevegelsene overstiger begrensningene. Repeaterlyset må være synlig for helikopterbesetningen fra alle innflygingsretninger og når helikopteret står på helikopterdekket, og må kunne dimmes slik at det ikke blender helikopterbesetingen.
 
@@ -340,7 +384,12 @@ Dersom innretningen eller fartøyet er utstyrt med tankingsanlegg for drivstoff 
 
 ### § 43. Annet utstyr
 
-En helikopteroperatør kan kun benytte et helikopterdekk som til enhver tid har alt utstyr nødvendig for driften blant annethjulklosser eller sandsekkerutstyr for fortøyning av parkert helikoptervekt for veiing av bagasje og passasjererutstyr for fjerning av snø og is.
+En helikopteroperatør kan kun benytte et helikopterdekk som til enhver tid har alt utstyr nødvendig for driften blant annet
+
+1. hjulklosser eller sandsekker
+2. utstyr for fortøyning av parkert helikopter
+3. vekt for veiing av bagasje og passasjerer
+4. utstyr for fjerning av snø og is.
 
 ### § 44. Navigasjon
 
@@ -352,7 +401,11 @@ Alle alternative navigasjonshjelpemidler som er etablert når denne forskriften 
 
 ### § 45. Brann- og redningsberedskap
 
-En helikopteroperatør kan kun benytte et helikopterdekk hvor enten:for flyttbare innretninger, bestemmelsene om brann- og redningsberedskap i [forskrift 18. mars 2021 nr. 815 om helikopterdekk på flyttbare innretninger kapittel 8](forskrift/2021-03-18-815/kap8) er oppfylt, ellerfor skip, helikopterdekket har brannslukkings- og redningsutstyr i samsvar med sjøfartdirektoratets forskrifter og utstyret er i funksjonsdyktig stand, ellerfor faste innretninger, kravene til utstyr for brannbekjempelse på helikopterdekk i [forskrift 29. april 2010 nr. 634 om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften) i § 70](forskrift/2010-04-29-634/§70) a er oppfylt.
+En helikopteroperatør kan kun benytte et helikopterdekk hvor enten:
+
+1. for flyttbare innretninger, bestemmelsene om brann- og redningsberedskap i [forskrift 18. mars 2021 nr. 815 om helikopterdekk på flyttbare innretninger kapittel 8](forskrift/2021-03-18-815/kap8) er oppfylt, eller
+2. for skip, helikopterdekket har brannslukkings- og redningsutstyr i samsvar med sjøfartdirektoratets forskrifter og utstyret er i funksjonsdyktig stand, eller
+3. for faste innretninger, kravene til utstyr for brannbekjempelse på helikopterdekk i [forskrift 29. april 2010 nr. 634 om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften) i § 70](forskrift/2010-04-29-634/§70) a er oppfylt.
 
 [Forskrift 18. mars 2021 nr. 815 om helikopterdekk på flyttbare innretninger § 41 tredje ledd bokstav a](forskrift/2021-03-18-815/§41/ledd/3/bokstav/a) trenger ikke være oppfylt der helikoptertypen som benyttes gjør at slikt utstyr er unødvendig.
 
@@ -378,7 +431,10 @@ I situasjoner hvor det er grunn til å tro at en faresituasjon kan oppstå under
 
 ### § 49. Hinderfrie sektorer
 
-For helikopterdekk på skip og innretninger med skipsskrog kan en helikopteroperatør også benytte helikopterdekk etablert midtskips, hvor følgende alternative krav til hinderfrie sektorer er oppfylt:Inn- og utflygingsektorer er vinkelrett på senterlinjen.De hinderfrie sektorene må begrenses av en forut og en akterut sektor på 150°. Området mellom sektorene må være en hinderfri flate over helikopterdekkets nivå. Innbyrdes avstand mellom sektorene, helikopterdekkets DH-verdi, må være i samsvar med [§ 14](forskrift/2019-05-14-604/§14). 150°-sektorene må ha en stigning fra dekknivå på 1:5 i en utstrekning (bredde) på DHder området over sektoren skal være hinderfritt.
+For helikopterdekk på skip og innretninger med skipsskrog kan en helikopteroperatør også benytte helikopterdekk etablert midtskips, hvor følgende alternative krav til hinderfrie sektorer er oppfylt:
+
+1. Inn- og utflygingsektorer er vinkelrett på senterlinjen.
+2. De hinderfrie sektorene må begrenses av en forut og en akterut sektor på 150°. Området mellom sektorene må være en hinderfri flate over helikopterdekkets nivå. Innbyrdes avstand mellom sektorene, helikopterdekkets DH-verdi, må være i samsvar med [§ 14](forskrift/2019-05-14-604/§14). 150°-sektorene må ha en stigning fra dekknivå på 1:5 i en utstrekning (bredde) på DHder området over sektoren skal være hinderfritt.
 
 Merking av hinderfrie sektorer og merking av helikopterdekkets størrelse må være utført etter bestemmelsene i [§ 32](forskrift/2019-05-14-604/§32) og [§ 33](forskrift/2019-05-14-604/§33).
 
@@ -396,7 +452,15 @@ Nødvendig flyging til og fra innretninger uten fast bemanning, som dermed ikke 
 
 Helikopterdekkoperatør og helikopteroperatør må ha samordnet sine prosedyrer før flyging starter.
 
-Risikovurderingen skal minst dekke, og prosedyrene minst ta hensyn til, følgende forhold:nødvendigheten av flygingen,antall passasjerer,tilgjengelighet av informasjon om helikopterdekkets status,tilgjengelighet av værinformasjon og informasjon om helikopterdekkets bevegelse, der dette er aktuelt,kommunikasjon og overvåkning,brann- og havarisikkerhet, ogtrening og briefing av helikopterdekk- og helikopterbesetning.
+Risikovurderingen skal minst dekke, og prosedyrene minst ta hensyn til, følgende forhold:
+
+1. nødvendigheten av flygingen,
+2. antall passasjerer,
+3. tilgjengelighet av informasjon om helikopterdekkets status,
+4. tilgjengelighet av værinformasjon og informasjon om helikopterdekkets bevegelse, der dette er aktuelt,
+5. kommunikasjon og overvåkning,
+6. brann- og havarisikkerhet, og
+7. trening og briefing av helikopterdekk- og helikopterbesetning.
 
 Komplett helikopterdekkbesetning må alltid være med på første tur og om mulig forbli på helikopterdekket til siste start dersom det skal gjennomføres en serie flyginger. Dersom risikovurderingen tilsier at flyging kan gjennomføres med redusert helikopterdekkbemanning, kan flyging gjennomføres med en helikopterdekkbemanning som består av to personer.
 
@@ -440,7 +504,11 @@ Luftfartstilsynet kan når det anses særlig samfunnsnyttig dispensere fra beste
 
 Denne forskrift trer i kraft 1. juli 2019.
 
-Fra samme tidspunktoppheves [forskrift 26. oktober 2007 nr. 1181](forskrift/2007-10-26-1181) om kontinentalsokkelflyging – ervervsmessig luftfart til og fra helikopterdekk på innretninger og fartøy til havs.endres [forskrift 28. januar 2008 nr. 81](forskrift/2008-01-28-81) om flyværtjeneste: – – –endres [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner: – – –
+Fra samme tidspunkt
+
+1. oppheves [forskrift 26. oktober 2007 nr. 1181](forskrift/2007-10-26-1181) om kontinentalsokkelflyging – ervervsmessig luftfart til og fra helikopterdekk på innretninger og fartøy til havs.
+2. endres [forskrift 28. januar 2008 nr. 81](forskrift/2008-01-28-81) om flyværtjeneste: – – –
+3. endres [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner: – – –
 
 > Endret ved [forskrift 14 juni 2019 nr. 725](forskrift/2019-06-14-725).
 

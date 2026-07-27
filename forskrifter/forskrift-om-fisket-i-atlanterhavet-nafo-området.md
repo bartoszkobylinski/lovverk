@@ -15,7 +15,7 @@ xml_hash: "452305ff086fc3d6dfbff980ed268e71f06e517060e8e8d0b330eac58984bc8d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -140,7 +140,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Etter hva som er relevant.2 Påkrevd for fartøy som avgir fangst.
+1 Etter hva som er relevant.
+
+2 Påkrevd for fartøy som avgir fangst.
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
 

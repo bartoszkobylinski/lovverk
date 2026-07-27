@@ -26,7 +26,12 @@ eu_basis: []
 
 Departementet utnevner leder og dennes varamedlem.
 
-Departementet utnevner medlemmer og deres varamedlemmer, således:Ett medlem etter innstilling fra Legeforeningen.Ett medlem etter innstilling fra Arbeidstilsynet.Fire medlemmer etter innstilling fra Akademikerne, Landsorganisasjonen i Norge, Unio og Yrkesorganisasjonenes Sentralforbund.Fire medlemmer etter innstilling fra Arbeidsgiverforeningen Spekter, Hovedorganisasjonen Virke, Kommunesektorens organisasjon KS, og Næringslivets Hovedorganisasjon.
+Departementet utnevner medlemmer og deres varamedlemmer, således:
+
+1. Ett medlem etter innstilling fra Legeforeningen.
+2. Ett medlem etter innstilling fra Arbeidstilsynet.
+3. Fire medlemmer etter innstilling fra Akademikerne, Landsorganisasjonen i Norge, Unio og Yrkesorganisasjonenes Sentralforbund.
+4. Fire medlemmer etter innstilling fra Arbeidsgiverforeningen Spekter, Hovedorganisasjonen Virke, Kommunesektorens organisasjon KS, og Næringslivets Hovedorganisasjon.
 
 Leder, medlemmer og deres varamedlemmer utnevnes for tre år. Gjenutnevnelse kan skje.
 

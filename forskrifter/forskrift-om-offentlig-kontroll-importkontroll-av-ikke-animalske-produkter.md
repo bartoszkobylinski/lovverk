@@ -17,7 +17,7 @@ xml_hash: "afed05b5293634bf7b9fbfc4a5e6f0109424129991a1210949639d39be9fdf9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,12 @@ Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forsk
 
 Forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.
 
-Samtidig oppheves følgende forskrifter:[forskrift 2. september 2014 nr. 1140](forskrift/2014-09-02-1140) om særskilte beskyttelsestiltak ved import av visse fôrvarer og næringsmidler fra tredjestater på grunn av aflatoksinrisiko,[forskrift 2. september 2014 nr. 1141](forskrift/2014-09-02-1141) om særskilte beskyttelsestiltak ved import av visse næringsmidler fra tredjestater på grunn av risiko for plantevernmidler,[forskrift 20. februar 2017 nr. 203](forskrift/2017-02-20-203) om særskilte beskyttelsestiltak ved import av visse næringsmidler fra tredjestater på grunn av mikrobiologisk forurensning,[forskrift 25. februar 2015 nr. 161](forskrift/2015-02-25-161) om særskilte beskyttelsestiltak ved import av guarkjernemel fra India.
+Samtidig oppheves følgende forskrifter:
+
+- [forskrift 2. september 2014 nr. 1140](forskrift/2014-09-02-1140) om særskilte beskyttelsestiltak ved import av visse fôrvarer og næringsmidler fra tredjestater på grunn av aflatoksinrisiko,
+- [forskrift 2. september 2014 nr. 1141](forskrift/2014-09-02-1141) om særskilte beskyttelsestiltak ved import av visse næringsmidler fra tredjestater på grunn av risiko for plantevernmidler,
+- [forskrift 20. februar 2017 nr. 203](forskrift/2017-02-20-203) om særskilte beskyttelsestiltak ved import av visse næringsmidler fra tredjestater på grunn av mikrobiologisk forurensning,
+- [forskrift 25. februar 2015 nr. 161](forskrift/2015-02-25-161) om særskilte beskyttelsestiltak ved import av guarkjernemel fra India.
 
 ## Forordninger
 
@@ -184,35 +189,96 @@ FELLES BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. I denne forordning fastsetteslisten over næringsmidler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll ved innførsel til Unionen, fastsatt i vedlegg I, som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg, i samsvar med artikkel 47 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),►**M11**►**M14**særlige vilkår for innførsel til Unionen av følgende kategorier av forsendelser med næringsmidler og fôr på grunn av risikoen for forurensning med mykotoksiner, herunder aflatoksiner, rester av plantevernmidler, mikrobiologisk forurensning, cereulide-giftstoffer, sudan-fargestoffer og plantetoksiner, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178):◄**M14**Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse fra tredjestater eller deler av disse tredjestatene, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 1 i vedlegg II, og som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg.Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse som er sendt til Unionen fra en tredjestat som er en annen enn opprinnelsesstaten, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 2 i vedlegg II.◄**M11**► **M1**forbud mot innførsel til Unionen av næringsmidler og fôr oppført i vedlegg IIa,◄ **M1**regler for hyppigheten av identitetskontroll og fysisk kontroll av forsendelser med næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer,regler for metodene som skal brukes ved prøvetaking og laboratorieanalyser av forsendelsene av næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer, i samsvar med artikkel 34 nr. 6 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*),regler for malen for det offisielle sertifikatet som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, samt kravene til slike offisielle sertifikater, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178),regler for utstedelse av offisielle erstatningssertifikater som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, i samsvar med artikkel 90 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*).
+1\. I denne forordning fastsettes
+
+1. listen over næringsmidler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll ved innførsel til Unionen, fastsatt i vedlegg I, som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg, i samsvar med artikkel 47 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),
+
+   ►**M11**
+
+   ►**M14**
+2. særlige vilkår for innførsel til Unionen av følgende kategorier av forsendelser med næringsmidler og fôr på grunn av risikoen for forurensning med mykotoksiner, herunder aflatoksiner, rester av plantevernmidler, mikrobiologisk forurensning, cereulide-giftstoffer, sudan-fargestoffer og plantetoksiner, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178):
+
+   ◄**M14**
+
+   1. Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse fra tredjestater eller deler av disse tredjestatene, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 1 i vedlegg II, og som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg.
+   2. Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse som er sendt til Unionen fra en tredjestat som er en annen enn opprinnelsesstaten, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 2 i vedlegg II.
+
+   ◄**M11**
+
+   ► **M1**
+3. forbud mot innførsel til Unionen av næringsmidler og fôr oppført i vedlegg IIa,
+
+   ◄ **M1**
+4. regler for hyppigheten av identitetskontroll og fysisk kontroll av forsendelser med næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer,
+5. regler for metodene som skal brukes ved prøvetaking og laboratorieanalyser av forsendelsene av næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer, i samsvar med artikkel 34 nr. 6 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*),
+6. regler for malen for det offisielle sertifikatet som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, samt kravene til slike offisielle sertifikater, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178),
+7. regler for utstedelse av offisielle erstatningssertifikater som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, i samsvar med artikkel 90 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*).
 
 2\. Denne forordning får anvendelse på forsendelser med næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) som er beregnet på å bringes i omsetning i Unionen.
 
 ►**M6**
 
-3\. Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 5 kg for ferske produkter eller 2 kg for andre produkter:Forsendelser som inngår i passasjerenes personlige bagasje og er beregnet på eget forbruk eller bruk.Ikke-kommersielle forsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning.Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 50 kg for ferske produkter eller 10 kg for andre produkter:Forsendelser som sendes som vareprøver, laboratorieprøver eller utstillingsgjenstander, og som ikke er beregnet på å bringes i omsetning.Forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål.
+3\. Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 5 kg for ferske produkter eller 2 kg for andre produkter:
+
+1. Forsendelser som inngår i passasjerenes personlige bagasje og er beregnet på eget forbruk eller bruk.
+2. Ikke-kommersielle forsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning.
+
+Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 50 kg for ferske produkter eller 10 kg for andre produkter:
+
+1. Forsendelser som sendes som vareprøver, laboratorieprøver eller utstillingsgjenstander, og som ikke er beregnet på å bringes i omsetning.
+2. Forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål.
 
 4\. Denne forordning får ikke anvendelse på næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) om bord på transportmidler i internasjonal trafikk, som ikke losses, og som er beregnet på forpleining av besetning og passasjerer.
 
 5\. Dersom det er tvil om den tiltenkte bruken av næringsmidlene og fôret nevnt i nr. 3 første avsnitt, ligger bevisbyrden henholdsvis hos eieren av den personlige bagasjen og hos mottakeren av forsendelsen.
 
-6\. Vedkommende myndighet på grensekontrollstasjonen kan i overenstemmelse med denne forordningen frita forsendelser med næringsmidler og fôr nevnt i første ledd, som sendes som vareprøver, laboratorieprøver, utstillingsgjenstander og forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål, og som overstiger vektgrensene nevnt i nr. 3 andre avsnitt, og som ikke er beregnet på å bringes i omsetning, for fysisk kontroll, herunder prøvetaking og laboratorieanalyser, forutsatt at:forsendelsene følges av en tillatelse til innførsel til Unionen, som er utstedt på forhånd av vedkommende myndighet i bestemmelsesstaten, og som inneholder:formålet med innførsel til Unionen,bestemmelsesstedet,garantier for at forsendelsen ikke markedsføres som næringsmidler eller fôr,den driftsansvarlig fremviser forsendelsene på grensekontrollstasjonen der forsendelsen først ankommer EU,vedkommende myndighet på grensekontrollstasjonen der forsendelsen først ankommer EU skal underrette via IMSOC vedkommende myndighet i bestemmelsesstaten om innførselen av forsendelsene.
+6\. Vedkommende myndighet på grensekontrollstasjonen kan i overenstemmelse med denne forordningen frita forsendelser med næringsmidler og fôr nevnt i første ledd, som sendes som vareprøver, laboratorieprøver, utstillingsgjenstander og forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål, og som overstiger vektgrensene nevnt i nr. 3 andre avsnitt, og som ikke er beregnet på å bringes i omsetning, for fysisk kontroll, herunder prøvetaking og laboratorieanalyser, forutsatt at:
+
+1. forsendelsene følges av en tillatelse til innførsel til Unionen, som er utstedt på forhånd av vedkommende myndighet i bestemmelsesstaten, og som inneholder:
+
+   1. formålet med innførsel til Unionen,
+   2. bestemmelsesstedet,
+   3. garantier for at forsendelsen ikke markedsføres som næringsmidler eller fôr,
+2. den driftsansvarlig fremviser forsendelsene på grensekontrollstasjonen der forsendelsen først ankommer EU,
+3. vedkommende myndighet på grensekontrollstasjonen der forsendelsen først ankommer EU skal underrette via IMSOC vedkommende myndighet i bestemmelsesstaten om innførselen av forsendelsene.
 
 ◄**M6**
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordning menes med«forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*),«bringe i omsetning» bringe i omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178).
-► **M3**«opprinnelsesstat»den staten der produktene har sin opprinnelse, er dyrket, høstet eller produsert, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av mulig forurensning med mykotoksiner, inkludert aflatoksiner, eller ved plantetoksiner, eller på grunn av mulig manglende overholdelse med maksimumsgrensene for plantevernmidler,den staten der varene var produsert, fremstilt eller pakket, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av forekomsten av salmonella, eller andre farer enn de nevnt i punkt (i).◄ **M3**
+1\. I denne forordning menes med
+
+1. «forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*),
+2. «bringe i omsetning» bringe i omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+   ► **M3**
+3. «opprinnelsesstat»
+
+   1. den staten der produktene har sin opprinnelse, er dyrket, høstet eller produsert, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av mulig forurensning med mykotoksiner, inkludert aflatoksiner, eller ved plantetoksiner, eller på grunn av mulig manglende overholdelse med maksimumsgrensene for plantevernmidler,
+   2. den staten der varene var produsert, fremstilt eller pakket, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av forekomsten av salmonella, eller andre farer enn de nevnt i punkt (i).
+
+   ◄ **M3**
 
 ►**M6**
 
-2\. – – –◄**M6**
+2\. – – –
+
+◄**M6**
 
 ### Artikkel 3. Prøvetaking og analyse
 
 Prøvetakingen og analysene som skal utføres av vedkommende myndigheter på grensekontrollstasjoner eller kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) som en del av den fysiske kontrollen av forsendelser med næringsmidler og fôr nevnt i artikkel 1 nr. 1 bokstav a) og b), eller i tredjestater med henblikk på resultatene av analysene som skal ledsage forsendelsene av næringsmidler og fôr nevnt i artikkel 1 nr. 1 bokstav b) som fastsatt i denne forordning, skal utføres i samsvar med følgende krav:
-►**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EU) 2023/2782](eu/32023r2782)\*.◄**M12**Når det gjelder fôr oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EF) nr. 152/2009](eu/32009r0152).Når det gjelder næringsmidler og fôr oppført i vedlegg I og II på grunn av mulig manglende samsvar med de øvre grenseverdiene for rester av plantevernmidler, skal prøvetakingen foretas i samsvar med direktiv [2002/63/EF](eu/32002l0063).►**M12** (opphevet) ◄**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av risikoen for forekomst av Salmonella, skal prøvetakingen og analysene for kontroll av Salmonella foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i vedlegg III.►**M12**Prøvetakings- og analysemetodene nevnt i fotnotene til vedlegg I og II skal anvendes i forbindelse med annen fare enn de nevnt i bokstav a), b), c) og e).
+►**M12**
+
+1. Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EU) 2023/2782](eu/32023r2782)\*.
+
+   ◄**M12**
+2. Når det gjelder fôr oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EF) nr. 152/2009](eu/32009r0152).
+3. Når det gjelder næringsmidler og fôr oppført i vedlegg I og II på grunn av mulig manglende samsvar med de øvre grenseverdiene for rester av plantevernmidler, skal prøvetakingen foretas i samsvar med direktiv [2002/63/EF](eu/32002l0063).
+4. ►**M12** (opphevet) ◄**M12**
+5. Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av risikoen for forekomst av Salmonella, skal prøvetakingen og analysene for kontroll av Salmonella foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i vedlegg III.
+
+   ►**M12**
+6. Prøvetakings- og analysemetodene nevnt i fotnotene til vedlegg I og II skal anvendes i forbindelse med annen fare enn de nevnt i bokstav a), b), c) og e).
 
 \* Kommisjonens gjennomføringsforordning [(EU) 2023/2782](eu/32023r2782) av 14. desember 2023 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i mat og erstatter forordning [(EF) nr. 401/2006](eu/32006r0401) (OJ L, 2023/2782, 15.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2782/oj)
 
@@ -271,7 +337,14 @@ SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN
 1\. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av resultatene av prøvetaking og analyser som vedkommende myndigheter i opprinnelsestredjestaten eller i den staten som forsendelsen er sendt fra, har foretatt av den aktuelle forsendelsen, dersom nevnte stat er en annen enn opprinnelsesstaten.
 
 2\. På grunnlag av resultatene nevnt i nr. 1 skal vedkommende myndigheter undersøke
-►**M12**samsvar med forordning [(EU) 2023/915](eu/32023r0915)\* og direktiv [2002/32/EF](eu/32002l0032) med hensyn til øvre grenseverdier for relevante mykotoksiner, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med mykotoksiner og plantetoksiner,◄**M12**samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396) med hensyn til øvre grenseverdier for rester av plantevernmidler, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med rester av plantevernmidler,►**M12** (opphevet) ◄**M12**fravær av Salmonella i 25 g når det gjelder forsendelser med næringsmidler som er oppført i vedlegg II på grunn av risikoen for mikrobiologisk forurensning med Salmonella.
+►**M12**
+
+1. samsvar med forordning [(EU) 2023/915](eu/32023r0915)\* og direktiv [2002/32/EF](eu/32002l0032) med hensyn til øvre grenseverdier for relevante mykotoksiner, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med mykotoksiner og plantetoksiner,
+
+   ◄**M12**
+2. samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396) med hensyn til øvre grenseverdier for rester av plantevernmidler, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med rester av plantevernmidler,
+3. ►**M12** (opphevet) ◄**M12**
+4. fravær av Salmonella i 25 g når det gjelder forsendelser med næringsmidler som er oppført i vedlegg II på grunn av risikoen for mikrobiologisk forurensning med Salmonella.
 
 3\. ►**M12** (opphevet) ◄**M12**
 
@@ -291,7 +364,22 @@ SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN
 
 1\. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av et offisielt sertifikat i samsvar med malen angitt i vedlegg IV («offisielt sertifikat»).
 
-2\. Det offisielle sertifikatet skal oppfylle følgende kravdet offisielle sertifikatet skal utstedes av vedkommende myndighet i opprinnelsestredjestaten eller i den tredjestaten som forsendelsen er sendt fra, dersom nevnte stat er en annen enn opprinnelsesstaten,det offisielle sertifikatet skal være påført identifikasjonskoden til forsendelsen som den er tilknyttet nevnt i artikkel 9 nr. 1,det offisielle sertifikatet skal være påført underskriften til sertifikatutstederen og det offisielle stempelet,dersom det offisielle sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet,det offisielle sertifikatet skal bestå av ett av følgende alternativerett enkelt ark ellerflere ark som utgjør et integrert hele og ikke kan deles opp, ellerflere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge,dersom det offisielle sertifikatet består av flere sammenhengende sider, som nevnt i bokstav e) (iii) i dette leddet, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i [forordning (EU) 2017/625](eu/32017r0625) og være påført underskriften til sertifikatutstederen og det offisielle stempelet,det offisielle sertifikatet skal fremlegges for vedkommende myndighet ved grensekontrollstasjonen der forsendelsen er gjenstand for offentlig kontroll,det offisielle sertifikatet skal utstedes før forsendelsen det gjelder, forlater vedkommende myndigheters kontroll i tredjestaten som utsteder sertifikatet,det offisielle sertifikatet skal utarbeides på det offisielle språket, eller ett av de offisielle språkene, i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger,det offisielle sertifikatet skal være gyldig i høyst fire måneder fra utstedelsesdatoen, men uansett ikke lenger enn seks måneder fra datoen for resultatene av laboratorieanalysene nevnt i artikkel 10 nr. 1,
+2\. Det offisielle sertifikatet skal oppfylle følgende krav
+
+1. det offisielle sertifikatet skal utstedes av vedkommende myndighet i opprinnelsestredjestaten eller i den tredjestaten som forsendelsen er sendt fra, dersom nevnte stat er en annen enn opprinnelsesstaten,
+2. det offisielle sertifikatet skal være påført identifikasjonskoden til forsendelsen som den er tilknyttet nevnt i artikkel 9 nr. 1,
+3. det offisielle sertifikatet skal være påført underskriften til sertifikatutstederen og det offisielle stempelet,
+4. dersom det offisielle sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet,
+5. det offisielle sertifikatet skal bestå av ett av følgende alternativer
+
+   1. ett enkelt ark eller
+   2. flere ark som utgjør et integrert hele og ikke kan deles opp, eller
+   3. flere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge,
+6. dersom det offisielle sertifikatet består av flere sammenhengende sider, som nevnt i bokstav e) (iii) i dette leddet, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i [forordning (EU) 2017/625](eu/32017r0625) og være påført underskriften til sertifikatutstederen og det offisielle stempelet,
+7. det offisielle sertifikatet skal fremlegges for vedkommende myndighet ved grensekontrollstasjonen der forsendelsen er gjenstand for offentlig kontroll,
+8. det offisielle sertifikatet skal utstedes før forsendelsen det gjelder, forlater vedkommende myndigheters kontroll i tredjestaten som utsteder sertifikatet,
+9. det offisielle sertifikatet skal utarbeides på det offisielle språket, eller ett av de offisielle språkene, i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger,
+10. det offisielle sertifikatet skal være gyldig i høyst fire måneder fra utstedelsesdatoen, men uansett ikke lenger enn seks måneder fra datoen for resultatene av laboratorieanalysene nevnt i artikkel 10 nr. 1,
 
 3\. Som unntak fra bokstav i) i annet ledd, kan en medlemsstat samtykke at offisielle sertifikater kan utarbeides på ett annet offisielt EU-språk, og hvis nødvendig følges av en bekreftet oversettelse.
 
@@ -305,7 +393,9 @@ SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN
 
 8\. Det offisielle sertifikatet skal fylles ut på grunnlag av merknadene angitt i vedlegg IV.
 
-\* Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om regler om funksjonen av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter (IMSOC-forordningen) (EUT L 261 av 14.10.2019, s. 37). Gjennomført i norsk rett i [forskrift 9. mars 2020 nr. 715 om offentlig kontroll – IMSOC – forordning (EU) 2019/1715](forskrift/2020-03-09-715).\*\* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til modellsertifikater for dyrehelse, offentlige sertifikater og kombinerte dyrehelse/offentlige sertifikater, til bruk ved innførsel til Unionen og transport innen Unionen av forsendelser av visse kategorier av dyr og produkter, samt offentlig sertifisering med hensyn til slike sertifikater, og oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068), samt beslutning [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
+\* Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om regler om funksjonen av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter (IMSOC-forordningen) (EUT L 261 av 14.10.2019, s. 37). Gjennomført i norsk rett i [forskrift 9. mars 2020 nr. 715 om offentlig kontroll – IMSOC – forordning (EU) 2019/1715](forskrift/2020-03-09-715).
+
+\*\* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til modellsertifikater for dyrehelse, offentlige sertifikater og kombinerte dyrehelse/offentlige sertifikater, til bruk ved innførsel til Unionen og transport innen Unionen av forsendelser av visse kategorier av dyr og produkter, samt offentlig sertifisering med hensyn til slike sertifikater, og oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068), samt beslutning [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
 
 ◄ **M2**
 
@@ -315,7 +405,9 @@ SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN
 
 1\. Medlemsstatene skal forby innførsel av næringsmidler og fôr nevnt i vedlegg IIa til unionen.
 
-2\. Første ledd skal omfatte næringsmidler og fôr som er beregnet på å bringes i omsetning, og næringsmidler og fôr beregnet på eget forbruk eller bruk innenfor Unionens tollområde.◄ **M1**
+2\. Første ledd skal omfatte næringsmidler og fôr som er beregnet på å bringes i omsetning, og næringsmidler og fôr beregnet på eget forbruk eller bruk innenfor Unionens tollområde.
+
+◄ **M1**
 
 ### AVSNITT 4
 SLUTTBESTEMMELSER
@@ -672,13 +764,20 @@ Næringsmidler og fôr fra visse stater utenfor EØS-området som skal underkast
 
 ### **1) Prøvetakingsmetoder og referansemetoder for analyse nevnt i artikkel 3 bokstav e)**
 
-1. **Prøvetakingsmetoder og referansemetoder for analyse for kontroll av forekomst av Salmonella i næringsmidler**Dersom det i vedlegg I eller II til denne forordning fastsettes anvendelse av prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav a) i vedlegg III til denne forordning, får følgende regler anvendelse:**Referansemetode for analyse1****Forsendelsens vekt****Antall prøveenheter (n)****Prøvetakingsmetoder****Analyseresultat som kreves for hver prøveenhet i samme forsendelse**EN ISO 6579-1Under 20 tonn
+1. **Prøvetakingsmetoder og referansemetoder for analyse for kontroll av forekomst av Salmonella i næringsmidler**
 
-Minst 20 tonn5
+   1. Dersom det i vedlegg I eller II til denne forordning fastsettes anvendelse av prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav a) i vedlegg III til denne forordning, får følgende regler anvendelse:
 
-10n prøveenheter på minst 100 gram hver samles inn. Dersom det identifiseres partier i CHED-dokumentet, skal prøveenhetene samles inn fra forskjellige, tilfeldig utvalgte partier i forsendelsen. Dersom det ikke kan identifiseres partier, samles prøveenhetene inn tilfeldig fra forsendelsen. Pooling av prøveenheter er ikke tillatt. Hver prøveenhet skal undersøkes separat.Ikke påvist
-Salmonella i 25 g1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.Dersom det i vedlegg I eller II til denne forordning fastsettes anvendelse av prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav b) i vedlegg III til denne forordning, får følgende regler anvendelse:**Referansemetode for analyse1****Forsendelsens vekt****Antall prøveenheter (n)****Prøvetakingsmetoder****Analyseresultat som kreves for hver prøveenhet i samme forsendelse**EN ISO 6579-1Hvilken som helst vekt5n prøveenheter på minst 100 gram hver samles inn. Dersom det identifiseres partier i CHED-dokumentet, skal prøveenhetene samles inn fra forskjellige, tilfeldig utvalgte partier i forsendelsen. Dersom det ikke kan identifiseres partier, samles prøveenhetene inn tilfeldig fra forsendelsen. Pooling av prøveenheter er ikke tillatt. Hver prøveenhet skal undersøkes separat.Ikke påvist
-Salmonella i 25 g
+      | **Referansemetode for analyse1** | **Forsendelsens vekt** | **Antall prøveenheter (n)** | **Prøvetakingsmetoder** | **Analyseresultat som kreves for hver prøveenhet i samme forsendelse** |
+      | --- | --- | --- | --- | --- |
+      | EN ISO 6579-1 | Under 20 tonn<br><br>Minst 20 tonn | 5<br><br>10 | n prøveenheter på minst 100 gram hver samles inn. Dersom det identifiseres partier i CHED-dokumentet, skal prøveenhetene samles inn fra forskjellige, tilfeldig utvalgte partier i forsendelsen. Dersom det ikke kan identifiseres partier, samles prøveenhetene inn tilfeldig fra forsendelsen. Pooling av prøveenheter er ikke tillatt. Hver prøveenhet skal undersøkes separat. | Ikke påvist<br>Salmonella i 25 g |
+
+      1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.
+   2. Dersom det i vedlegg I eller II til denne forordning fastsettes anvendelse av prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav b) i vedlegg III til denne forordning, får følgende regler anvendelse:
+
+      | **Referansemetode for analyse1** | **Forsendelsens vekt** | **Antall prøveenheter (n)** | **Prøvetakingsmetoder** | **Analyseresultat som kreves for hver prøveenhet i samme forsendelse** |
+      | --- | --- | --- | --- | --- |
+      | EN ISO 6579-1 | Hvilken som helst vekt | 5 | n prøveenheter på minst 100 gram hver samles inn. Dersom det identifiseres partier i CHED-dokumentet, skal prøveenhetene samles inn fra forskjellige, tilfeldig utvalgte partier i forsendelsen. Dersom det ikke kan identifiseres partier, samles prøveenhetene inn tilfeldig fra forsendelsen. Pooling av prøveenheter er ikke tillatt. Hver prøveenhet skal undersøkes separat. | Ikke påvist<br>Salmonella i 25 g |
 
 1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.
 

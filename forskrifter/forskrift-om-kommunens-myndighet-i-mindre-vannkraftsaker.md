@@ -24,7 +24,15 @@ eu_basis: []
 
 ## § 1. Unntak fra kommunens myndighet etter [vannressursloven § 64](lov/2000-11-24-82/§64) annet ledd
 
-Kommunens myndighet til å treffe vedtak om konsesjon etter [vannressursloven § 64](lov/2000-11-24-82/§64) annet ledd omfatter ikke følgende vannkraftverk:vannkraftverk i vernede vassdragvannkraftverk i nasjonale laksevassdragvannkraftverk som berører flere kommunervannkraftverk i vassdrag der det er søkt om flere vannkraftverk som til sammen overstiger 1 MW installert effektvannkraftverk som er planlagt i kombinasjon med annen konsesjonspliktig utnyttelsevannkraftverk i vassdrag der det er flere planlagte vassdragstiltak som konkurrerer om samme vannressursvannkraftverk som bør vurderes sammen med andre prosjekter av hensyn til sumvirkninger.
+Kommunens myndighet til å treffe vedtak om konsesjon etter [vannressursloven § 64](lov/2000-11-24-82/§64) annet ledd omfatter ikke følgende vannkraftverk:
+
+1. vannkraftverk i vernede vassdrag
+2. vannkraftverk i nasjonale laksevassdrag
+3. vannkraftverk som berører flere kommuner
+4. vannkraftverk i vassdrag der det er søkt om flere vannkraftverk som til sammen overstiger 1 MW installert effekt
+5. vannkraftverk som er planlagt i kombinasjon med annen konsesjonspliktig utnyttelse
+6. vannkraftverk i vassdrag der det er flere planlagte vassdragstiltak som konkurrerer om samme vannressurs
+7. vannkraftverk som bør vurderes sammen med andre prosjekter av hensyn til sumvirkninger.
 
 Norges vassdrags- og energidirektorat treffer vedtak for vannkraftverk som omfattes av unntakene i første ledd.
 

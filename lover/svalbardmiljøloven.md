@@ -15,7 +15,7 @@ xml_hash: "c2031e1ec3029ec3cc14e3e239a4ade2f951c93656aa43ad3e913bc0b8fe5a69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,34 @@ Med de begrensninger som følger av folkeretten gjelder loven for Svalbards land
 
 ### § 3. (definisjoner)
 
-I denne lov forstås medforurensning: tilførsel av fast stoff, væske eller gass til luft, vann eller i grunnen, støy og rystelser, samt lys og annen stråling når det blir bestemt av miljøvernmyndigheten, dersom dette kan være til skade eller ulempe for miljøet;avfall: løsøregjenstander eller stoffer som noen har kassert, har til hensikt å kassere, eller er forpliktet til å kassere. Som avfall regnes ikke avløpsvann og avgasser. Bestemmelsene om skillet mellom avfall og biprodukter, og om når avfall opphører å være avfall, i [forurensningsloven § 27](lov/1981-03-13-6/§27) annet og tredje ledd gjelder tilsvarendehøsting: jakt, fangst og fiske;flora: fotosyntetiserende encellede organismer, alger, lav, sopp, moser, bregner og karplanter som er naturlig viltlevende på Svalbard;fauna: encellede dyr, virvelløse dyr og virveldyr som er naturlig viltlevende på Svalbard;kulturminne: alle spor etter menneskelig virksomhet i det fysiske miljø, herunder lokaliteter som det knytter seg historiske hendelser til. Med kulturmiljøområder menes områder hvor kulturminner inngår som del av en større helhet eller sammenheng.fast kulturminne: kulturminne som er fysisk knyttet til grunnen eller til den bestemte lokaliteten;løst kulturminne: kulturminne som ikke er fast kulturminne;fastboende: person som er gyldig innført i befolkningsregisteret for Svalbard;tilreisende: andre personer enn fastboende;motorkjøretøy: fremkomstmiddel til bruk i terreng eller på vei med motor som drivkraft;motorisert fartøy: luftfartøy, luftputefartøy, skip, båt og annen farkost med motor som drivkraft;motorferdsel: ferdsel med motorkjøretøy eller motorisert fartøy;virksomhet: enkeltstående, gjentatte eller vedvarende tiltak i eller utenfor næring;tiltakshaver: den som bestemmer over en virksomhet, eller i hvis regning eller interesse den drives.
+I denne lov forstås med
+
+1. forurensning: tilførsel av fast stoff, væske eller gass til luft, vann eller i grunnen, støy og rystelser, samt lys og annen stråling når det blir bestemt av miljøvernmyndigheten, dersom dette kan være til skade eller ulempe for miljøet;
+2. avfall: løsøregjenstander eller stoffer som noen har kassert, har til hensikt å kassere, eller er forpliktet til å kassere. Som avfall regnes ikke avløpsvann og avgasser. Bestemmelsene om skillet mellom avfall og biprodukter, og om når avfall opphører å være avfall, i [forurensningsloven § 27](lov/1981-03-13-6/§27) annet og tredje ledd gjelder tilsvarende
+3. høsting: jakt, fangst og fiske;
+4. flora: fotosyntetiserende encellede organismer, alger, lav, sopp, moser, bregner og karplanter som er naturlig viltlevende på Svalbard;
+5. fauna: encellede dyr, virvelløse dyr og virveldyr som er naturlig viltlevende på Svalbard;
+6. kulturminne: alle spor etter menneskelig virksomhet i det fysiske miljø, herunder lokaliteter som det knytter seg historiske hendelser til. Med kulturmiljøområder menes områder hvor kulturminner inngår som del av en større helhet eller sammenheng.
+7. fast kulturminne: kulturminne som er fysisk knyttet til grunnen eller til den bestemte lokaliteten;
+8. løst kulturminne: kulturminne som ikke er fast kulturminne;
+9. fastboende: person som er gyldig innført i befolkningsregisteret for Svalbard;
+10. tilreisende: andre personer enn fastboende;
+11. motorkjøretøy: fremkomstmiddel til bruk i terreng eller på vei med motor som drivkraft;
+12. motorisert fartøy: luftfartøy, luftputefartøy, skip, båt og annen farkost med motor som drivkraft;
+13. motorferdsel: ferdsel med motorkjøretøy eller motorisert fartøy;
+14. virksomhet: enkeltstående, gjentatte eller vedvarende tiltak i eller utenfor næring;
+15. tiltakshaver: den som bestemmer over en virksomhet, eller i hvis regning eller interesse den drives.
 
 > Endret ved lover [20 apr 2012 nr. 20](lov/2012-04-20-20) (ikr. 1 juli 2012 iflg. [res. 20 apr 2012 nr. 332](forskrift/2012-04-20-332)), [9 des 2016 nr. 89](lov/2016-12-09-89).
 
 ### § 4. (miljøvernmyndighetene for Svalbard)
 
-Miljøvernmyndighetene for Svalbard erKongen,departementet,direktoratet etter departementets nærmere bestemmelse,Sysselmesteren.
+Miljøvernmyndighetene for Svalbard er
+
+1. Kongen,
+2. departementet,
+3. direktoratet etter departementets nærmere bestemmelse,
+4. Sysselmesteren.
 
 Myndighet som i loven er lagt til et underordnet organ, kan utøves av en overordnet miljøvernmyndighet når det anses påkrevd.
 
@@ -84,7 +105,12 @@ I virksomhet på Svalbard skal kjemiske og bioteknologiske produkter som kan vol
 
 ### § 11. (overordnet prinsipp)
 
-Det skal være verneområder på Svalbard somomfatter variasjonsbredden av naturtyper og landskapsformer,bidrar til å sikre områder med særskilte naturhistoriske eller kulturhistoriske verdier,beskytter økosystemene på land og i havet,bidrar til å opprettholde villmark og uberørt natur.
+Det skal være verneområder på Svalbard som
+
+1. omfatter variasjonsbredden av naturtyper og landskapsformer,
+2. bidrar til å sikre områder med særskilte naturhistoriske eller kulturhistoriske verdier,
+3. beskytter økosystemene på land og i havet,
+4. bidrar til å opprettholde villmark og uberørt natur.
 
 ### § 12. (forskrifter om verneområder)
 
@@ -118,7 +144,12 @@ I nasjonalparker skal ingen varig påvirkning av naturmiljø eller kulturminner 
 
 ### § 17. (naturreservater)
 
-Som naturreservat kan fredes områder som er uberørt eller tilnærmet uberørt, ogsom inneholder særegne eller sårbare økosystemer,som utgjør en spesiell naturtype eller spesielle geologiske forekomster,som for øvrig har særlig betydning for flora eller fauna, ellersom har særskilt naturvitenskapelig verdi.
+Som naturreservat kan fredes områder som er uberørt eller tilnærmet uberørt, og
+
+1. som inneholder særegne eller sårbare økosystemer,
+2. som utgjør en spesiell naturtype eller spesielle geologiske forekomster,
+3. som for øvrig har særlig betydning for flora eller fauna, eller
+4. som har særskilt naturvitenskapelig verdi.
 
 Et naturreservat kan totalfredes. I forskriften kan det gis bestemmelser om vern av kulturminner i reservatet.
 
@@ -184,7 +215,11 @@ For å gjennomføre konvensjonen av 3. mars 1973 om internasjonal handel med tru
 
 ### § 27. (utsetting og flytting av organismer mv.)
 
-Uten tillatelse fra miljøvernmyndigheten må ingensette ut flora eller fauna som ikke finnes naturlig på Svalbard fra før,flytte stedegne arter av flora eller fauna, ellersette i verk kultiveringstiltak for flora eller fauna, herunder sette ut flora eller fauna på land eller i vassdrag, fjorder og sjøområder.
+Uten tillatelse fra miljøvernmyndigheten må ingen
+
+1. sette ut flora eller fauna som ikke finnes naturlig på Svalbard fra før,
+2. flytte stedegne arter av flora eller fauna, eller
+3. sette i verk kultiveringstiltak for flora eller fauna, herunder sette ut flora eller fauna på land eller i vassdrag, fjorder og sjøområder.
 
 > Endret ved lov [20 apr 2012 nr. 20](lov/2012-04-20-20) (ikr. 1 juli 2012 iflg. [res. 20 apr 2012 nr. 332](forskrift/2012-04-20-332)).
 
@@ -292,7 +327,10 @@ Svalbards kulturminner skal vernes og ivaretas som en del av Svalbards kulturarv
 
 ### § 39. (fredete kulturminner)
 
-Automatisk fredet er:faste kulturminner fra tiden før 1946;løse kulturminner fra tiden før 1946, når de kommer for dagen tilfeldig, ved undersøkelse, utgraving eller på annen måte.
+Automatisk fredet er:
+
+1. faste kulturminner fra tiden før 1946;
+2. løse kulturminner fra tiden før 1946, når de kommer for dagen tilfeldig, ved undersøkelse, utgraving eller på annen måte.
 
 Spor etter menneskegraver av alle slag, herunder kors og andre gravmarkeringer, samt bein og beinrester i og på markoverflaten er faste kulturminner som er automatisk fredet uavhengig av alder. Det samme gjelder skjelettrester på slakteplasser for hvalross og hval, og i forbindelse med selvskudd for isbjørn.
 
@@ -386,13 +424,26 @@ Hvert planområde skal ha en arealplan med utfyllende bestemmelser som viser eks
 
 Arealplanen, eller deler av den, tas opp til revisjon ettersom forholdene gjør det påkrevd. Den planansvarlige bør minst hvert fjerde år vurdere om revisjon bør foretas.
 
-Planen skal i nødvendig utstrekning kartfeste:Byggeområder, om nødvendig med nærmere angivelse av hva slags bebyggelseHytteområderKulturminne-, natur- og friluftsområder, hver for seg eller i kombinasjonOmråder for råstoffutvinningForskningsområderVeier, flyplasser, havner, taubaner, høyspentledninger og andre viktige ledd i kommunikasjonssystemetSpesialområder, herunder fareområderOmråder for særskilt bruk eller vern av sjø og vassdrag, herunder ferdsel-, fiske-, natur- og friluftsområder, hver for seg eller i kombinasjonOmråder som er vernet i medhold av [lovens kapittel III](lov/2001-06-15-79/kapiii).
+Planen skal i nødvendig utstrekning kartfeste:
+
+1. Byggeområder, om nødvendig med nærmere angivelse av hva slags bebyggelse
+2. Hytteområder
+3. Kulturminne-, natur- og friluftsområder, hver for seg eller i kombinasjon
+4. Områder for råstoffutvinning
+5. Forskningsområder
+6. Veier, flyplasser, havner, taubaner, høyspentledninger og andre viktige ledd i kommunikasjonssystemet
+7. Spesialområder, herunder fareområder
+8. Områder for særskilt bruk eller vern av sjø og vassdrag, herunder ferdsel-, fiske-, natur- og friluftsområder, hver for seg eller i kombinasjon
+9. Områder som er vernet i medhold av [lovens kapittel III](lov/2001-06-15-79/kapiii).
 
 Det kan fastsettes flere formål innenfor samme område.
 
 Planen skal inneholde en planbeskrivelse som redegjør for hvordan hensynet til miljø (herunder naturmiljø, kulturminner og estetikk) og lokalsamfunn (herunder sikkerhet og barns behov) blir ivaretatt. Dersom planen kan få virkninger for miljøet utenfor planområdet, skal redegjørelsen også omfatte dette.
 
-Til planen kan det gisutfyllende bestemmelser, som setter rettslig bindende vilkår for bruk og ferdsel og for utforming av arealer og bebyggelse for å sikre formålet med planen;utfyllende retningslinjer, som angir føringer for praktiseringen av planen, og som det skal tas hensyn til ved vedtak etter dette kapittel og [§§ 57](lov/2001-06-15-79/§57)-[58](lov/2001-06-15-79/§58).
+Til planen kan det gis
+
+1. utfyllende bestemmelser, som setter rettslig bindende vilkår for bruk og ferdsel og for utforming av arealer og bebyggelse for å sikre formålet med planen;
+2. utfyllende retningslinjer, som angir føringer for praktiseringen av planen, og som det skal tas hensyn til ved vedtak etter dette kapittel og [§§ 57](lov/2001-06-15-79/§57)-[58](lov/2001-06-15-79/§58).
 
 ### § 50. (utarbeiding av arealplanen)
 
@@ -456,7 +507,15 @@ Bosetting og næringsvirksomhet skal som hovedregel lokaliseres til planområden
 
 ### § 57. (krav om tillatelse utenfor planområder og i planområder uten godkjent plan)
 
-Det trengs tillatelse fra miljøvernmyndigheten for Svalbard til følgende tiltak utenfor planområder og i planområder uten godkjent plan:terrenginngrep;virksomhet som kan volde forurensning;hoteller, pensjonater og andre overnattingssteder for allmennheten;virksomhet som kan virke inn på et automatisk fredet kulturminne i strid med [§ 42](lov/2001-06-15-79/§42), jf. [§ 44](lov/2001-06-15-79/§44);annen virksomhet som kan belaste miljøet på Svalbard når departementet har gitt forskrift om det;endringer i eksisterende anlegg eller bruken av det dersom den forandrer anleggets karakter eller virkninger for naturmiljøet;innretninger eller anlegg som ikke er fast forbundet med grunnen og som kan virke inn på landskapet.
+Det trengs tillatelse fra miljøvernmyndigheten for Svalbard til følgende tiltak utenfor planområder og i planområder uten godkjent plan:
+
+1. terrenginngrep;
+2. virksomhet som kan volde forurensning;
+3. hoteller, pensjonater og andre overnattingssteder for allmennheten;
+4. virksomhet som kan virke inn på et automatisk fredet kulturminne i strid med [§ 42](lov/2001-06-15-79/§42), jf. [§ 44](lov/2001-06-15-79/§44);
+5. annen virksomhet som kan belaste miljøet på Svalbard når departementet har gitt forskrift om det;
+6. endringer i eksisterende anlegg eller bruken av det dersom den forandrer anleggets karakter eller virkninger for naturmiljøet;
+7. innretninger eller anlegg som ikke er fast forbundet med grunnen og som kan virke inn på landskapet.
 
 Tillatelse etter denne paragraf må foreligge før virksomheten påbegynnes. Søknaden skal redegjøre for hvilken betydning virksomheten kan få for miljøet. Departementet kan gi forskrift om at søknader skal sendes på høring eller legges ut til offentlig ettersyn.
 
@@ -468,9 +527,18 @@ Den som legger frem nærmere opplysninger om en planlagt virksomhet, kan kreve a
 
 Før det settes i gang virksomhet eller fradeling i planområder med godkjent plan, skal tiltakshaveren gi melding til den planansvarlige og Sysselmesteren eller den departementet bestemmer. Meldingen skal gi tilstrekkelige opplysninger til å vise om virksomheten eller fradelingen er i samsvar med planen.
 
-Igangsetting kan skje tre uker etter at meldingen er mottatt, hvis ikkevirksomheten er i strid med planen,Sysselmesteren har fastsatt midlertidig forbud etter [§ 54](lov/2001-06-15-79/§54), ellerdet kreves tillatelse etter tredje ledd.
+Igangsetting kan skje tre uker etter at meldingen er mottatt, hvis ikke
 
-Før igangsetting kreves det likevel tillatelse av Sysselmesteren, selv om virksomheten er i samsvar med godkjent arealplan, hvisplanen ikke har utfyllende bestemmelser om størrelse eller utførelse som virksomheten holder seg innenfor,virksomheten kan virke skjemmende eller volde forurensning ut over planens utfyllende bestemmelser om forurensning fra bolig, fritidshus eller forretning,virksomheten kan få virkning for fredete kulturminner eller naturmiljøet utenom planområdet, jf. [§ 44](lov/2001-06-15-79/§44), ellervirksomheten kan ha betydelig og langvarig virkning for miljøet.
+1. virksomheten er i strid med planen,
+2. Sysselmesteren har fastsatt midlertidig forbud etter [§ 54](lov/2001-06-15-79/§54), eller
+3. det kreves tillatelse etter tredje ledd.
+
+Før igangsetting kreves det likevel tillatelse av Sysselmesteren, selv om virksomheten er i samsvar med godkjent arealplan, hvis
+
+1. planen ikke har utfyllende bestemmelser om størrelse eller utførelse som virksomheten holder seg innenfor,
+2. virksomheten kan virke skjemmende eller volde forurensning ut over planens utfyllende bestemmelser om forurensning fra bolig, fritidshus eller forretning,
+3. virksomheten kan få virkning for fredete kulturminner eller naturmiljøet utenom planområdet, jf. [§ 44](lov/2001-06-15-79/§44), eller
+4. virksomheten kan ha betydelig og langvarig virkning for miljøet.
 
 Er virksomheten i strid med planen, kan den ikke igangsettes uten at planen blir endret. Sysselmesteren kan likevel gi tillatelse til virksomhet som er i strid med utfyllende bestemmelser til planen.
 
@@ -478,7 +546,10 @@ Er virksomheten i strid med planen, kan den ikke igangsettes uten at planen blir
 
 ### § 59. (særskilt konsekvensutredning)
 
-Tiltakshaveren skal få utarbeidet konsekvensutredning for virksomhet som trenger tillatelse etter loven her og somkan få mer enn ubetydelig virkning for naturmiljøet utenfor planområdene, ellerkan få betydelig og langvarig virkning for miljø og samfunn i et planområde.
+Tiltakshaveren skal få utarbeidet konsekvensutredning for virksomhet som trenger tillatelse etter loven her og som
+
+1. kan få mer enn ubetydelig virkning for naturmiljøet utenfor planområdene, eller
+2. kan få betydelig og langvarig virkning for miljø og samfunn i et planområde.
 
 Konsekvensutredningen skal belyse tiltakets virkninger på miljøet som grunnlag for vurdering og avgjørelse av søknaden. Sysselmesteren kan bestemme at konsekvensutredningen også skal omfatte virkningene for lokal bosetting og for annen lovlig virksomhet. Konsekvensutredningen skal utarbeides på grunnlag av et utredningsprogram godkjent av Sysselmesteren.
 
@@ -506,7 +577,10 @@ Det gis underretning etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§
 
 ### § 62. (overvåking og tiltak mot uforutsette virkninger)
 
-Tiltakshaveren skal i samsvar med vilkår i tillatelsen gjennomføre en regelmessig og effektiv overvåking av miljøet for åvurdere virkninger av pågående virksomhet, herunder verifisering av forutsette virkninger, oglegge forholdene til rette for at uforutsette virkninger kan bli oppdaget på et tidlig tidspunkt.
+Tiltakshaveren skal i samsvar med vilkår i tillatelsen gjennomføre en regelmessig og effektiv overvåking av miljøet for å
+
+1. vurdere virkninger av pågående virksomhet, herunder verifisering av forutsette virkninger, og
+2. legge forholdene til rette for at uforutsette virkninger kan bli oppdaget på et tidlig tidspunkt.
 
 Dersom det under virksomheten avdekkes uforutsette virkninger, skal Sysselmesteren varsles uten opphold.
 
@@ -514,7 +588,15 @@ Dersom det under virksomheten avdekkes uforutsette virkninger, skal Sysselmester
 
 ### § 63. (endring, omgjøring og bortfall av tillatelse)
 
-Sysselmesteren kan endre eller trekke tilbake en tillatelse etter denne lov eller vilkårene for den, dersomdet er nødvendig for å hindre uforutsette skadevirkninger for miljøet;de skadevirkninger som virksomheten har for miljøet, kan minskes uten uforholdsmessig kostnad for tiltakshaveren;det er nødvendig for å oppfylle internasjonale forpliktelser som Norge har påtatt seg med hensyn til Svalbard;ny teknologi gjør det mulig å redusere miljøulempene vesentlig;tiltakshaveren overtrer bestemmelser gitt i eller i medhold av denne lov, og overtredelsen er betydelig, gjentar seg eller vedvarer;tjenestemenn med tilsynsmyndighet blir nektet adgang til virksomhetsområdet;det ikke blir stilt sikkerhet for opprydding når det er krevd etter [§§ 61](lov/2001-06-15-79/§61) eller [64](lov/2001-06-15-79/§64).
+Sysselmesteren kan endre eller trekke tilbake en tillatelse etter denne lov eller vilkårene for den, dersom
+
+1. det er nødvendig for å hindre uforutsette skadevirkninger for miljøet;
+2. de skadevirkninger som virksomheten har for miljøet, kan minskes uten uforholdsmessig kostnad for tiltakshaveren;
+3. det er nødvendig for å oppfylle internasjonale forpliktelser som Norge har påtatt seg med hensyn til Svalbard;
+4. ny teknologi gjør det mulig å redusere miljøulempene vesentlig;
+5. tiltakshaveren overtrer bestemmelser gitt i eller i medhold av denne lov, og overtredelsen er betydelig, gjentar seg eller vedvarer;
+6. tjenestemenn med tilsynsmyndighet blir nektet adgang til virksomhetsområdet;
+7. det ikke blir stilt sikkerhet for opprydding når det er krevd etter [§§ 61](lov/2001-06-15-79/§61) eller [64](lov/2001-06-15-79/§64).
 
 Omgjøring kan i alle tilfelle skje når det er gått ti år siden vedtaket. Sysselmesteren kan lempe på begrensninger og vilkår i en tillatelse dersom erfaring viser at det kan skje uten skadevirkninger av noen betydning for miljøet.
 
@@ -528,7 +610,11 @@ Hvis en virksomhet blir nedlagt eller stanser, skal tiltakshaveren gjøre det so
 
 Når en virksomhet eller deler av den opphører, skal tiltakshaveren på egen kostnad fjerne fra området alle installasjoner på overflaten, alt avfall og andre etterlatenskaper som ikke er fredete kulturminner etter [kapittel V](lov/2001-06-15-79/kapV). Området skal så vidt praktisk mulig føres tilbake til sitt opprinnelige utseende.
 
-Sysselmesteren kangi pålegg om hvilke tiltak som skal utføres etter annet ledd, herunder om behandling av forurenset grunn, og om at det skal utarbeides en plan for oppfyllelse av pliktene etter annet leddkreve at det stilles sikkerhet for kostnadene ved opprydding og tilbakeføring etter annet leddgi fritak fra oppryddings- og tilbakeføringsplikten etter annet ledd.
+Sysselmesteren kan
+
+1. gi pålegg om hvilke tiltak som skal utføres etter annet ledd, herunder om behandling av forurenset grunn, og om at det skal utarbeides en plan for oppfyllelse av pliktene etter annet ledd
+2. kreve at det stilles sikkerhet for kostnadene ved opprydding og tilbakeføring etter annet ledd
+3. gi fritak fra oppryddings- og tilbakeføringsplikten etter annet ledd.
 
 Når et lokalsamfunn i et planområde skal avvikles eller fraflyttes i det vesentlige, skal den planansvarlige gi Sysselmesteren melding så tidlig som mulig. Den planansvarlige, eller den Sysselmesteren bestemmer, skal utarbeide plan som nevnt i første ledd tredje punktum og tredje ledd bokstav a.
 
@@ -592,7 +678,12 @@ Ingen må etterlate avfall utenfor planområdene. Sysselmesteren kan i særlige 
 
 Ingen må innføre avfall til Svalbard.
 
-Departementet eller den departementet bemyndiger kan gi forskrift omtiltak for å redusere avfallsmengden,innlevering, innsamling, mottak, transport, sortering og behandling av avfall,at visse slag avfall skal gjenvinnes eller fraktes bort med sikte på gjenvinning,at avfall skal fraktes bort for behandling andre steder.
+Departementet eller den departementet bemyndiger kan gi forskrift om
+
+1. tiltak for å redusere avfallsmengden,
+2. innlevering, innsamling, mottak, transport, sortering og behandling av avfall,
+3. at visse slag avfall skal gjenvinnes eller fraktes bort med sikte på gjenvinning,
+4. at avfall skal fraktes bort for behandling andre steder.
 
 Kostnadene ved tiltak etter tredje ledd skal bæres av den som eier eller har gitt opphav til avfallet.
 
@@ -656,13 +747,20 @@ Motorferdsel utenom opparbeidet vei eller plass er forbudt om ikke annet er fast
 
 ### § 80. (motorferdsel i terrenget på barmark)
 
-Motorferdsel i terrenget på bar eller tint mark kan bare finne stedi særskilte traseer eller til bestemte formål fastsatt av departementet i forskrift;når særlige hensyn foreligger og Sysselmesteren har gitt tillatelse.
+Motorferdsel i terrenget på bar eller tint mark kan bare finne sted
+
+1. i særskilte traseer eller til bestemte formål fastsatt av departementet i forskrift;
+2. når særlige hensyn foreligger og Sysselmesteren har gitt tillatelse.
 
 > Endret ved lover [20 apr 2012 nr. 20](lov/2012-04-20-20) (ikr. 1 juli 2012 iflg. [res. 20 apr 2012 nr. 332](forskrift/2012-04-20-332)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
 
 ### § 81. (motorferdsel i terrenget på snødekt og frossen mark)
 
-Motorferdsel i terrenget på snødekt og frossen mark samt på islagte vassdrag og sjøområder kan tillatesi områder og traseer fastsatt av departementet i forskrift;for bestemte formål fastsatt av departementet i forskrift;når særlige grunner foreligger og Sysselmesteren etter søknad har gitt tillatelse.
+Motorferdsel i terrenget på snødekt og frossen mark samt på islagte vassdrag og sjøområder kan tillates
+
+1. i områder og traseer fastsatt av departementet i forskrift;
+2. for bestemte formål fastsatt av departementet i forskrift;
+3. når særlige grunner foreligger og Sysselmesteren etter søknad har gitt tillatelse.
 
 Det skal fastsettes forskrift etter første ledd bokstav a der fastboende sikres en mer omfattende adgang til motorferdsel enn tilreisende. Begrensninger i fastboendes motorferdsel må være begrunnet i miljøvernbehov knyttet til Svalbard, eller i behovet for å skille motorisert og ikke-motorisert ferdsel.
 
@@ -710,7 +808,10 @@ Tillatelsen skal begrenses i tid og sted og kan begrenses til å gjelde bestemte
 
 ### § 85. (rett til å eie eller leie hytter)
 
-Fritidshytter kan bare eies eller leies avden som er eller har vært fastboende på Svalbard,sammenslutninger som har sitt hovedsete på Svalbard, og som har ansatte eller medlemmer som i hovedsak er fastboende.
+Fritidshytter kan bare eies eller leies av
+
+1. den som er eller har vært fastboende på Svalbard,
+2. sammenslutninger som har sitt hovedsete på Svalbard, og som har ansatte eller medlemmer som i hovedsak er fastboende.
 
 Ingen kan eie eller leie mer enn to fritidshytter.
 
@@ -732,7 +833,10 @@ Miljøvernmyndighetene eller den departementet bemyndiger fører tilsyn med milj
 
 ### § 88. (internkontroll mv.)
 
-For å sikre at krav fastsatt i eller i medhold av loven her blir overholdt, eller for å fremme en høyere miljøstandard ellers, kan departementet gi forskrift ominternkontroll og internkontrollsystemer,deltakelse i internasjonale ordninger for sertifisering, miljøstyring og miljørevisjon.
+For å sikre at krav fastsatt i eller i medhold av loven her blir overholdt, eller for å fremme en høyere miljøstandard ellers, kan departementet gi forskrift om
+
+1. internkontroll og internkontrollsystemer,
+2. deltakelse i internasjonale ordninger for sertifisering, miljøstyring og miljørevisjon.
 
 ### § 89. (opplysningsplikt)
 
@@ -750,7 +854,11 @@ Ved inspeksjon av virksomhet skal Sysselmesteren eller den departementet bemyndi
 
 ### § 91. (pålegg om undersøkelse)
 
-Sysselmesteren eller den departementet bemyndiger kan ved enkeltvedtak pålegge en tiltakshaver som påvirker eller som det er grunn til å tro kan påvirke miljøet, å sørge for eller bekoste undersøkelser eller andre tiltak for åfastslå om og i hvilken grad virksomheten har påvirket eller kan påvirke miljøet,klarlegge årsaken til eller virkningene av inntrådte miljøendringer som virksomheten har forårsaket,klarlegge hvordan gjenoppretting av miljøet kan skje.
+Sysselmesteren eller den departementet bemyndiger kan ved enkeltvedtak pålegge en tiltakshaver som påvirker eller som det er grunn til å tro kan påvirke miljøet, å sørge for eller bekoste undersøkelser eller andre tiltak for å
+
+1. fastslå om og i hvilken grad virksomheten har påvirket eller kan påvirke miljøet,
+2. klarlegge årsaken til eller virkningene av inntrådte miljøendringer som virksomheten har forårsaket,
+3. klarlegge hvordan gjenoppretting av miljøet kan skje.
 
 > Endret ved lover [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), [7 juni 2024 nr. 30](lov/2024-06-07-30) (i kraft 1 jan 2025 iflg. [res. 7 juni 2024 nr. 941](forskrift/2024-06-07-941)).
 
@@ -784,7 +892,11 @@ Sysselmesteren avgjør hvordan slik flora og fauna skal disponeres. Verdien av f
 
 Den som volder miljøskade ved å overtre bestemmelser gitt i eller i medhold av denne lov, plikter å betale erstatning uten hensyn til skyld for økonomisk tap som følge av miljøskaden. Den som indirekte har medvirket til miljøskade (ved å levere varer eller tjenester, foreta kontroll eller tilsyn eller på annen måte), er likevel bare ansvarlig så langt det er utvist forsett eller uaktsomhet.
 
-Ansvaret etter første ledd omfatter ogsåøkonomisk tap fordi miljøskaden hindrer eller vanskeliggjør utøving av allemannsrett i næring,kostnader til eller tap ved rimelige tiltak for å hindre eller avbøte miljøskade eller gjenopprette miljøtilstanden,kostnader som noen har hatt ved å rydde opp avfall som ble etterlatt i strid med [§ 71](lov/2001-06-15-79/§71).
+Ansvaret etter første ledd omfatter også
+
+1. økonomisk tap fordi miljøskaden hindrer eller vanskeliggjør utøving av allemannsrett i næring,
+2. kostnader til eller tap ved rimelige tiltak for å hindre eller avbøte miljøskade eller gjenopprette miljøtilstanden,
+3. kostnader som noen har hatt ved å rydde opp avfall som ble etterlatt i strid med [§ 71](lov/2001-06-15-79/§71).
 
 Sysselmesteren kan pålegge den som ved å overtre bestemmelser gitt i eller i medhold av denne lov har voldt ikke ubetydelig miljøskade, å betale miljøerstatning til Svalbards miljøvernfond. Miljøerstatningens størrelse fastsettes ut fra de påvirkede miljøverdiers betydning, miljøskadens omfang og varighet, overtrederens skyld, øvrige sanksjoner pålagt overtrederen og omstendighetene for øvrig.
 
@@ -806,7 +918,10 @@ Er overtredelsen skjedd på vegne av et selskap eller annen sammenslutning, en s
 
 ### § 96 a. (overtredelsesgebyr)
 
-Sysselmesteren eller den departementet bemyndiger kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrerbestemmelsene i [§§ 16 annet ledd](lov/2001-06-15-79/§16/ledd/2), [18 annet ledd](lov/2001-06-15-79/§18/ledd/2), [19 andre punktum](lov/2001-06-15-79/§19/setning/2), [26 første ledd](lov/2001-06-15-79/§26/ledd/1), [27](lov/2001-06-15-79/§27), [28 første ledd](lov/2001-06-15-79/§28/ledd/1), [29](lov/2001-06-15-79/§29), [30](lov/2001-06-15-79/§30), [30 a første](lov/2001-06-15-79/§30a/ledd/1) og [annet ledd](lov/2001-06-15-79/§30a/ledd/2), [31 første](lov/2001-06-15-79/§31/ledd/1) til [tredje ledd](lov/2001-06-15-79/§31/ledd/3), [32 annet ledd](lov/2001-06-15-79/§32/ledd/2), [33](lov/2001-06-15-79/§33), [35](lov/2001-06-15-79/§35), [42 første](lov/2001-06-15-79/§42/ledd/1) og [annet ledd](lov/2001-06-15-79/§42/ledd/2), [44 første](lov/2001-06-15-79/§44/ledd/1) og [tredje ledd](lov/2001-06-15-79/§44/ledd/3), [46 første ledd](lov/2001-06-15-79/§46/ledd/1), [53 første ledd](lov/2001-06-15-79/§53/ledd/1), [57 første](lov/2001-06-15-79/§57/ledd/1) og [annet ledd](lov/2001-06-15-79/§57/ledd/2), [58 første ledd](lov/2001-06-15-79/§58/ledd/1), [62](lov/2001-06-15-79/§62), [64 første](lov/2001-06-15-79/§64/ledd/1), [annet](lov/2001-06-15-79/§64/ledd/2) og [fjerde ledd](lov/2001-06-15-79/§64/ledd/4), [65](lov/2001-06-15-79/§65), [66 første ledd](lov/2001-06-15-79/§66/ledd/1), [67](lov/2001-06-15-79/§67), [68](lov/2001-06-15-79/§68), [70 første](lov/2001-06-15-79/§70/ledd/1) til [tredje ledd](lov/2001-06-15-79/§70/ledd/3), [71 første](lov/2001-06-15-79/§71/ledd/1) og [annet ledd](lov/2001-06-15-79/§71/ledd/2), [73 annet ledd](lov/2001-06-15-79/§73/ledd/2), [79 annet ledd](lov/2001-06-15-79/§79/ledd/2), [80](lov/2001-06-15-79/§80), [81](lov/2001-06-15-79/§81), [82 første](lov/2001-06-15-79/§82/ledd/1) og [tredje ledd](lov/2001-06-15-79/§82/ledd/3), [82 a](lov/2001-06-15-79/§82a), [83 annet](lov/2001-06-15-79/§83/ledd/2) og [tredje ledd](lov/2001-06-15-79/§83/ledd/3), [85 første](lov/2001-06-15-79/§85/ledd/1) og [annet ledd](lov/2001-06-15-79/§85/ledd/2), [86](lov/2001-06-15-79/§86), [93 første ledd](lov/2001-06-15-79/§93/ledd/1) og [94](lov/2001-06-15-79/§94).vilkår eller plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 22 første ledd](lov/2001-06-15-79/§22/ledd/1), [26 første ledd](lov/2001-06-15-79/§26/ledd/1), [27](lov/2001-06-15-79/§27), [30 femte](lov/2001-06-15-79/§30/ledd/5) og [sjette ledd](lov/2001-06-15-79/§30/ledd/6), [31 annet ledd annet punktum](lov/2001-06-15-79/§31/ledd/2/setning/2), [32](lov/2001-06-15-79/§32) tredje til femte ledd, [34](lov/2001-06-15-79/§34), [37](lov/2001-06-15-79/§37), [44 annet ledd](lov/2001-06-15-79/§44/ledd/2), [45 første](lov/2001-06-15-79/§45/ledd/1) og [fjerde ledd](lov/2001-06-15-79/§45/ledd/4), [46 tredje ledd](lov/2001-06-15-79/§46/ledd/3), [54](lov/2001-06-15-79/§54), [57 første ledd](lov/2001-06-15-79/§57/ledd/1), [58 tredje](lov/2001-06-15-79/§58/ledd/3) og [fjerde ledd](lov/2001-06-15-79/§58/ledd/4), [66 tredje ledd](lov/2001-06-15-79/§66/ledd/3), [69](lov/2001-06-15-79/§69), [71 første](lov/2001-06-15-79/§71/ledd/1) og [femte ledd](lov/2001-06-15-79/§71/ledd/5), [80 første ledd bokstav b](lov/2001-06-15-79/§80/ledd/1/bokstav/b), [81 første ledd bokstav c](lov/2001-06-15-79/§81/ledd/1/bokstav/c), [82 første ledd](lov/2001-06-15-79/§82/ledd/1), [83 annet ledd](lov/2001-06-15-79/§83/ledd/2), [85 tredje ledd](lov/2001-06-15-79/§85/ledd/3) og [93 tredje ledd](lov/2001-06-15-79/§93/ledd/3).
+Sysselmesteren eller den departementet bemyndiger kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer
+
+1. bestemmelsene i [§§ 16 annet ledd](lov/2001-06-15-79/§16/ledd/2), [18 annet ledd](lov/2001-06-15-79/§18/ledd/2), [19 andre punktum](lov/2001-06-15-79/§19/setning/2), [26 første ledd](lov/2001-06-15-79/§26/ledd/1), [27](lov/2001-06-15-79/§27), [28 første ledd](lov/2001-06-15-79/§28/ledd/1), [29](lov/2001-06-15-79/§29), [30](lov/2001-06-15-79/§30), [30 a første](lov/2001-06-15-79/§30a/ledd/1) og [annet ledd](lov/2001-06-15-79/§30a/ledd/2), [31 første](lov/2001-06-15-79/§31/ledd/1) til [tredje ledd](lov/2001-06-15-79/§31/ledd/3), [32 annet ledd](lov/2001-06-15-79/§32/ledd/2), [33](lov/2001-06-15-79/§33), [35](lov/2001-06-15-79/§35), [42 første](lov/2001-06-15-79/§42/ledd/1) og [annet ledd](lov/2001-06-15-79/§42/ledd/2), [44 første](lov/2001-06-15-79/§44/ledd/1) og [tredje ledd](lov/2001-06-15-79/§44/ledd/3), [46 første ledd](lov/2001-06-15-79/§46/ledd/1), [53 første ledd](lov/2001-06-15-79/§53/ledd/1), [57 første](lov/2001-06-15-79/§57/ledd/1) og [annet ledd](lov/2001-06-15-79/§57/ledd/2), [58 første ledd](lov/2001-06-15-79/§58/ledd/1), [62](lov/2001-06-15-79/§62), [64 første](lov/2001-06-15-79/§64/ledd/1), [annet](lov/2001-06-15-79/§64/ledd/2) og [fjerde ledd](lov/2001-06-15-79/§64/ledd/4), [65](lov/2001-06-15-79/§65), [66 første ledd](lov/2001-06-15-79/§66/ledd/1), [67](lov/2001-06-15-79/§67), [68](lov/2001-06-15-79/§68), [70 første](lov/2001-06-15-79/§70/ledd/1) til [tredje ledd](lov/2001-06-15-79/§70/ledd/3), [71 første](lov/2001-06-15-79/§71/ledd/1) og [annet ledd](lov/2001-06-15-79/§71/ledd/2), [73 annet ledd](lov/2001-06-15-79/§73/ledd/2), [79 annet ledd](lov/2001-06-15-79/§79/ledd/2), [80](lov/2001-06-15-79/§80), [81](lov/2001-06-15-79/§81), [82 første](lov/2001-06-15-79/§82/ledd/1) og [tredje ledd](lov/2001-06-15-79/§82/ledd/3), [82 a](lov/2001-06-15-79/§82a), [83 annet](lov/2001-06-15-79/§83/ledd/2) og [tredje ledd](lov/2001-06-15-79/§83/ledd/3), [85 første](lov/2001-06-15-79/§85/ledd/1) og [annet ledd](lov/2001-06-15-79/§85/ledd/2), [86](lov/2001-06-15-79/§86), [93 første ledd](lov/2001-06-15-79/§93/ledd/1) og [94](lov/2001-06-15-79/§94).
+2. vilkår eller plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 22 første ledd](lov/2001-06-15-79/§22/ledd/1), [26 første ledd](lov/2001-06-15-79/§26/ledd/1), [27](lov/2001-06-15-79/§27), [30 femte](lov/2001-06-15-79/§30/ledd/5) og [sjette ledd](lov/2001-06-15-79/§30/ledd/6), [31 annet ledd annet punktum](lov/2001-06-15-79/§31/ledd/2/setning/2), [32](lov/2001-06-15-79/§32) tredje til femte ledd, [34](lov/2001-06-15-79/§34), [37](lov/2001-06-15-79/§37), [44 annet ledd](lov/2001-06-15-79/§44/ledd/2), [45 første](lov/2001-06-15-79/§45/ledd/1) og [fjerde ledd](lov/2001-06-15-79/§45/ledd/4), [46 tredje ledd](lov/2001-06-15-79/§46/ledd/3), [54](lov/2001-06-15-79/§54), [57 første ledd](lov/2001-06-15-79/§57/ledd/1), [58 tredje](lov/2001-06-15-79/§58/ledd/3) og [fjerde ledd](lov/2001-06-15-79/§58/ledd/4), [66 tredje ledd](lov/2001-06-15-79/§66/ledd/3), [69](lov/2001-06-15-79/§69), [71 første](lov/2001-06-15-79/§71/ledd/1) og [femte ledd](lov/2001-06-15-79/§71/ledd/5), [80 første ledd bokstav b](lov/2001-06-15-79/§80/ledd/1/bokstav/b), [81 første ledd bokstav c](lov/2001-06-15-79/§81/ledd/1/bokstav/c), [82 første ledd](lov/2001-06-15-79/§82/ledd/1), [83 annet ledd](lov/2001-06-15-79/§83/ledd/2), [85 tredje ledd](lov/2001-06-15-79/§85/ledd/3) og [93 tredje ledd](lov/2001-06-15-79/§93/ledd/3).
 
 I forskrift som gis i medhold av loven her, kan departementet fastsette at den som overtrer forskriften eller vilkår eller plikter som følger av enkeltvedtak gitt med hjemmel i forskriften, kan ilegges overtredelsesgebyr.
 
@@ -834,7 +949,12 @@ Utgifter til tiltak etter første ledd kan kreves dekket av den ansvarlige. Krav
 
 Svalbards miljøvernfond består av midler innkrevd i medhold av [§§ 32](lov/2001-06-15-79/§32) annet ledd, [78](lov/2001-06-15-79/§78), [94](lov/2001-06-15-79/§94), [95](lov/2001-06-15-79/§95) tredje ledd, [96](lov/2001-06-15-79/§96) og [96 a](lov/2001-06-15-79/§96a).
 
-Fondets midler kan bare brukes til tiltak på Svalbard som har til formål å beskytte miljøet. Det kan brukes tilundersøkelser og tiltak for å kartlegge og overvåke miljøtilstanden, årsaker til miljøpåvirkning og miljøvirkninger av virksomhet,gjenoppretting av miljøtilstanden,tilskudd til skjøtsel, vedlikehold og granskning av kulturminner så langt dette ikke kan ventes dekket av den ansvarlige,informasjons-, opplærings- og tilretteleggingstiltak.
+Fondets midler kan bare brukes til tiltak på Svalbard som har til formål å beskytte miljøet. Det kan brukes til
+
+1. undersøkelser og tiltak for å kartlegge og overvåke miljøtilstanden, årsaker til miljøpåvirkning og miljøvirkninger av virksomhet,
+2. gjenoppretting av miljøtilstanden,
+3. tilskudd til skjøtsel, vedlikehold og granskning av kulturminner så langt dette ikke kan ventes dekket av den ansvarlige,
+4. informasjons-, opplærings- og tilretteleggingstiltak.
 
 Departementet oppnevner styre for fondet og kan gi regler om hvordan det skal disponeres. Avgjørelser om tildeling fra fondet regnes ikke som enkeltvedtak etter forvaltningsloven.
 

@@ -15,7 +15,7 @@ xml_hash: "880b187478c9d41e0cdb81845931be4752f56286be00aeb059aa877d29fc0923"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,11 @@ I tilfelle av tvil om hvordan enkelte punkter i disse retningslinjer skal forst�
 
 ## 2. Retningslinjenes virkeområde.
 
-I samsvar med Avtalen er disse retningslinjers virkeområde begrenset tilkontrakter på mer enn 150.000 SDR (Det internasjonale Valutafondets spesielle trekkrettigheter),etater som er ført opp i vedlegg 1 til Avtalen, ogland som har tiltrådt avtalen.
+I samsvar med Avtalen er disse retningslinjers virkeområde begrenset til
+
+1. kontrakter på mer enn 150.000 SDR (Det internasjonale Valutafondets spesielle trekkrettigheter),
+2. etater som er ført opp i vedlegg 1 til Avtalen, og
+3. land som har tiltrådt avtalen.
 
 Avtalen gjelder varekjøp. Tjenester skal bare tas med i den utstrekning de er knyttet til vareleveranser og deres verdi ikke overskrider verdien av varene. Forsknings- og utviklingskontrakter faller således utenfor Avtalens virkeområde. For kjøp av varer som resultat av en forsknings- og utviklingskontrakt gjelder særlige regler, jfr. [punkt](forskrift/1981-11-19-8761/kap4) 4 nedenfor.
 
@@ -46,7 +50,27 @@ Ved ikrafttredelsen 1 januar 1981 var følgende land medlemmer: Østerrike, Cana
 
 Kjøp av våpen, ammunisjon, krigsmateriell eller materiell som er uunnværlig for nasjonal sikkerhet eller nasjonalt forsvar er, i henhold til Avtalen artikkel VIII, unntatt fra Avtalen. Det samme er tilfelle for tiltak som er nødvendige for å beskytte offentlig moral, orden eller sikkerhet, menneskers, dyrs eller planters liv eller helse, immaterielle rettigheter eller tiltak som gjelder varer produsert av funksjonshemmede personer, veldedige institusjoner eller innsatte i fengsel. Forutsetningen er imidlertid at slike tiltak ikke blir brukt på en måte som kan innebære en vilkårlig eller utilbørlig diskriminering mellom land der samme betingelser rår.
 
-De etater som er oppført i vedlegg 1 til Avtalen og som den skal gjelde for, er følgende:Statens vegvesen.Statens innkjøpssentral.Statens postselskap.Rikshospitalet.Universitetet i Oslo.Politiet.Norsk Rikskringkasting.Universitetet i Trondheim.Universitetet i Bergen.Kystdirektoratet.Universitetet i Tromsø.Miljødirektoratet.Luftfartsverket.Forsvarsdepartementet. \*Forsvarets Sanitet. \*Luftforsvarets Forsyningskommando. \*Hærens Forsyningskommando. \*Sjøforsvarets Forsyningskommando. \*Forsvarets Felles Materielltjeneste. \*
+De etater som er oppført i vedlegg 1 til Avtalen og som den skal gjelde for, er følgende:
+
+1. Statens vegvesen.
+2. Statens innkjøpssentral.
+3. Statens postselskap.
+4. Rikshospitalet.
+5. Universitetet i Oslo.
+6. Politiet.
+7. Norsk Rikskringkasting.
+8. Universitetet i Trondheim.
+9. Universitetet i Bergen.
+10. Kystdirektoratet.
+11. Universitetet i Tromsø.
+12. Miljødirektoratet.
+13. Luftfartsverket.
+14. Forsvarsdepartementet. \*
+15. Forsvarets Sanitet. \*
+16. Luftforsvarets Forsyningskommando. \*
+17. Hærens Forsyningskommando. \*
+18. Sjøforsvarets Forsyningskommando. \*
+19. Forsvarets Felles Materielltjeneste. \*
 
 Regionale og lokale avdelinger for disse etater er også underlagt bestemmelsene i Avtalen.
 
@@ -115,9 +139,17 @@ Utover Kjøpsforskriftene inneholder imidlertid Avtalen endel supplerende regler
 
 *Forskriftenes § 2.*
 
-Etter Kjøpsforskriftene skal kjøp av varer og tjenester skje entenetter anbudskonkurranseetter forhandling, ellersom direkte kjøp.
+Etter Kjøpsforskriftene skal kjøp av varer og tjenester skje enten
 
-Etter GATT-avtalens artikkel V § 1 kan kjøp foretas etter følgende prosedyrer:Åpen anbudsinnbydelse,selektiv anbudsinnbydelse ellerenkel anbudsinnbydelse.
+1. etter anbudskonkurranse
+2. etter forhandling, eller
+3. som direkte kjøp.
+
+Etter GATT-avtalens artikkel V § 1 kan kjøp foretas etter følgende prosedyrer:
+
+- Åpen anbudsinnbydelse,
+- selektiv anbudsinnbydelse eller
+- enkel anbudsinnbydelse.
 
 Det er ingen motstrid mellom Kjøpsforskriftenes og Avtalens regler når det gjelder innkjøpsmåter. Kjøp skal foretas slik det er bestemt i Kjøpsforskriftenes § 2 også når de faller inn under Avtalen.
 
@@ -157,7 +189,11 @@ Man gjør oppmerksom på den adgang som Avtalen i artikkel V § 15 åpner for di
 
 Stort sett er det overensstemmelse mellom Kjøpsforskriftenes § 9 og Avtalens artikkel V, § 12 når det gjelder de opplysninger som skal inngå i anbudsgrunnlaget.
 
-Ifølge Avtalen skal imidlertid anbudsgrunnlaget inneholde følgende opplysninger i tillegg til det som fremgår av Kjøpsforskriftenes § 9:Språket eller språkene som anbud og anbudsdokumenter må være avfattet på,de personer som har adgang til å være til stede ved anbudsåpningen,kriteriene for tildeling av kontrakt, herunder andre faktorer enn pris, som vil bli tatt i betraktning ved av anbudene, samt kostnadselementene som vil bli tatt med i vurderingen av anbudsprisen, slik som transport, forsikring og inspeksjonskostnader og i tilfelle av utenlandske varer, toll og andre importavgifter, skatter og betalingsvaluta.
+Ifølge Avtalen skal imidlertid anbudsgrunnlaget inneholde følgende opplysninger i tillegg til det som fremgår av Kjøpsforskriftenes § 9:
+
+1. Språket eller språkene som anbud og anbudsdokumenter må være avfattet på,
+2. de personer som har adgang til å være til stede ved anbudsåpningen,
+3. kriteriene for tildeling av kontrakt, herunder andre faktorer enn pris, som vil bli tatt i betraktning ved av anbudene, samt kostnadselementene som vil bli tatt med i vurderingen av anbudsprisen, slik som transport, forsikring og inspeksjonskostnader og i tilfelle av utenlandske varer, toll og andre importavgifter, skatter og betalingsvaluta.
 
 *Forskriftenes § 10.*
 
@@ -211,7 +247,11 @@ Forsknings- og utviklingskontrakter faller utenfor Avtalen, da Avtalen ikke omfa
 
 Artikkel VI i Avtalen inneholder bestemmelser om plikt til å gi opplysninger slik at det såvidt mulig skal kunne kontrolleres at påbudet om ikke-diskriminering overholdes. Spesielt fremheves bestemmelsene om oppretting av et kontaktpunkt hvor tilbydere som ikke kommer i betrakting kan henvende seg for drøfting av saken, og bestemmelsene om utarbeiding av statistikk.
 
-Etatene skal føre statistikk over sine innkjøp. Innen den 1. mai hvert år skal etatene sende statistikk for det foregående år til den myndighet som Industridepartementet bestemmer. Statistikken skal omfatteverdien av tildelte kontrakter over og under terskelverdien,antall og total verdi av tildelte kontrakter over terskelverdien, fordelt på 26 varekategorier og varens opprinnelsesland.1det totale antall og verdien av de kontrakter som er tildelt under hvert av tilfellene i avtalens artikkel V § 15 (gjelder bruk av anbudsinnbydelse til en enkelt leverandør).
+Etatene skal føre statistikk over sine innkjøp. Innen den 1. mai hvert år skal etatene sende statistikk for det foregående år til den myndighet som Industridepartementet bestemmer. Statistikken skal omfatte
+
+1. verdien av tildelte kontrakter over og under terskelverdien,
+2. antall og total verdi av tildelte kontrakter over terskelverdien, fordelt på 26 varekategorier og varens opprinnelsesland.1
+3. det totale antall og verdien av de kontrakter som er tildelt under hvert av tilfellene i avtalens artikkel V § 15 (gjelder bruk av anbudsinnbydelse til en enkelt leverandør).
 
 Det vil bli utarbeidet et skjema som etatene skal bruke ved rapporteringen.
 

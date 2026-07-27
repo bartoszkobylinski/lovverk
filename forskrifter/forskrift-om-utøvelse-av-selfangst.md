@@ -34,7 +34,13 @@ Forskriften gjelder ikke jakt på sel i indre farvann utenfor Fastlands-Norge.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Selunge:* sel av årets kull. Dyr som er født året før eller tidligere betegnes som voksne.*Enkeltdyr:* sel som ligger spredt på isen.*Plukkfangst:* fangst av enkeltdyr mens fartøyet beveger seg fremover i isen eller langs iskanten.*Kasteleger:* området hvor selen føder unger.*Langtrøe:* en lang stang med krok i enden.
+I denne forskriften menes med:
+
+1. *Selunge:* sel av årets kull. Dyr som er født året før eller tidligere betegnes som voksne.
+2. *Enkeltdyr:* sel som ligger spredt på isen.
+3. *Plukkfangst:* fangst av enkeltdyr mens fartøyet beveger seg fremover i isen eller langs iskanten.
+4. *Kasteleger:* området hvor selen føder unger.
+5. *Langtrøe:* en lang stang med krok i enden.
 
 ## § 4. Hovedregel
 
@@ -52,7 +58,14 @@ Fiskeridirektoratet kan fastsette nærmere bestemmelser om kurs, kursprøve og p
 
 ## § 6. Forbud
 
-Det er forbudt å:fangste hunner av sel i kastelegrefangste voksne hanner av sel i kastelegreskyte sel som oppholder seg i sjøenskyte sel under slike forhold at den ikke etterpå kan slås og blodtappes på isendra sel på isen før den er slått og blodtappetløfte sel som ikke er slått og blodtappet, om bord i fartøyet.
+Det er forbudt å:
+
+1. fangste hunner av sel i kastelegre
+2. fangste voksne hanner av sel i kastelegre
+3. skyte sel som oppholder seg i sjøen
+4. skyte sel under slike forhold at den ikke etterpå kan slås og blodtappes på isen
+5. dra sel på isen før den er slått og blodtappet
+6. løfte sel som ikke er slått og blodtappet, om bord i fartøyet.
 
 Unntak gjelder for første ledd bokstav d og f dersom vilkårene i [§ 11](forskrift/2022-04-28-763/§11) er oppfylt.
 
@@ -60,13 +73,20 @@ Unntak gjelder for første ledd bokstav d og f dersom vilkårene i [§ 11](forsk
 
 Avliving skal skje på en dyrevelferdsmessig forsvarlig måte.
 
-Voksen sel skal avlives på følgende måte:Selen skal skytes i hjernen. Skytteren skal forsikre seg om at det enkelte dyret er dødt før vedkommendes oppmerksomhet rettes mot noe annet.Skutte dyr skal så snart som mulig slås i hodeskallen med hakapikens butte ende, umiddelbart etterfulgt av slag med hakapikens pigg. Denne skal drives dypt ned i hjernen. Dersom den skutte selen ligger stille, er det tilstrekkelig å slå med hakapikens pigg.Selen skal deretter umiddelbart blodtappes på isen. Blodtapping skal utføres ved at det legges et snitt fra underkjeven til enden av brystbenet. Deretter skal blodårene til begge forsveivene skjæres over.
+Voksen sel skal avlives på følgende måte:
+
+1. Selen skal skytes i hjernen. Skytteren skal forsikre seg om at det enkelte dyret er dødt før vedkommendes oppmerksomhet rettes mot noe annet.
+2. Skutte dyr skal så snart som mulig slås i hodeskallen med hakapikens butte ende, umiddelbart etterfulgt av slag med hakapikens pigg. Denne skal drives dypt ned i hjernen. Dersom den skutte selen ligger stille, er det tilstrekkelig å slå med hakapikens pigg.
+3. Selen skal deretter umiddelbart blodtappes på isen. Blodtapping skal utføres ved at det legges et snitt fra underkjeven til enden av brystbenet. Deretter skal blodårene til begge forsveivene skjæres over.
 
 Selunge skal avlives ved skyting eller slag med hakapik eller slagkrok.
 
 Avliving av selunge ved skyting skal følge samme tre-trinns prosedyre som beskrevet ovenfor, jf. andre ledd. I disse tilfellene kan trinn to også utføres ved bruk av slagkrok.
 
-Avliving av selunge ved bruk av hakapik eller slagkrok skal skje på følgende måte:Dyret skal slås i hodeskallen med hakapikens eller slagkrokens butte ende slik at skalletaket knuses, umiddelbart etterfulgt av slag med hakapikens eller slagkrokens pigg, som skal drives dypt ned i hjernen.Etter at hakapik eller slagkrok er anvendt skal selen umiddelbart blodtappes. Blodtapping skal utføres ved at det legges et snitt fra underkjeven til enden av brystbenet. Deretter skal blodårene til begge forsveivene skjæres over.
+Avliving av selunge ved bruk av hakapik eller slagkrok skal skje på følgende måte:
+
+1. Dyret skal slås i hodeskallen med hakapikens eller slagkrokens butte ende slik at skalletaket knuses, umiddelbart etterfulgt av slag med hakapikens eller slagkrokens pigg, som skal drives dypt ned i hjernen.
+2. Etter at hakapik eller slagkrok er anvendt skal selen umiddelbart blodtappes. Blodtapping skal utføres ved at det legges et snitt fra underkjeven til enden av brystbenet. Deretter skal blodårene til begge forsveivene skjæres over.
 
 Skadde dyr skal uten opphold søkes avlivet så langt det er mulig i hvert enkelt tilfelle.
 

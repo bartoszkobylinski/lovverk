@@ -15,7 +15,7 @@ xml_hash: "6c0d6347c6df27a477aa1cfca360398f75abb5953f5ce0a0739cc8e28a8309c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,14 @@ Personer som fullfører fagskoleutdanningen, vil ikke kunne oppnå autorisasjon 
 
 ### § 3-2. Praksis
 
-Praksisopplæring er en del av studiet, der dette er bestemt av studieplanen for hver enkelt studie, utarbeidet av fagskolen og skal gjennomføres i henhold til denne. Ved praksisopplæring, gjelder følgende:Det er obligatorisk å gjennomføre praksisperiodene. Der dette er relevant i henhold til studieplan, registreres fravær. Fravær inntil 20 % av praksistiden aksepteres. Studenten må ha oppmøte på minst 80 % for å få godkjent praksisemnene. Studenten har selv ansvar for å melde fra til praksisveileder ved fagskolen ved fravær fra praksis.Ved fravær som overstiger grensen i første ledd, må studenten normalt ta igjen den manglende praksisen, etter nærmere avtale med praksisveileder.Dersom det på et tidspunkt oppstår tvil om praksisstudiet kan godkjennes, skal studenten snarest og senest tre uker før praksisstudiets avslutning, motta en skriftlig melding, kalt tvilsmelding. Dersom studenten i slutten av praksisperioden utfører handlinger eller har en atferd som åpenbart ikke gir grunnlag for å bestå praksis, kan studenten likevel få ikke godkjent praksisstudium, selv om forutgående tvilsmelding ikke er gitt.Dersom studenten ikke oppnår godkjent for praksisopplæringen, gis studenten en mulighet til å ta hele praksisopplæringen èn gang til.Manglende oppfyllelse av studentens plikter etter første og annet ledd kan medføre tap av studieplass, jf. § 3-4, med mindre studenten har fått innvilget søknad etter § 3-3.Kravene til det obligatoriske arbeidet fremgår av studieplanen, som finnes på fagskolens læringsplattform og hjemmeside.
+Praksisopplæring er en del av studiet, der dette er bestemt av studieplanen for hver enkelt studie, utarbeidet av fagskolen og skal gjennomføres i henhold til denne. Ved praksisopplæring, gjelder følgende:
+
+1. Det er obligatorisk å gjennomføre praksisperiodene. Der dette er relevant i henhold til studieplan, registreres fravær. Fravær inntil 20 % av praksistiden aksepteres. Studenten må ha oppmøte på minst 80 % for å få godkjent praksisemnene. Studenten har selv ansvar for å melde fra til praksisveileder ved fagskolen ved fravær fra praksis.
+2. Ved fravær som overstiger grensen i første ledd, må studenten normalt ta igjen den manglende praksisen, etter nærmere avtale med praksisveileder.
+3. Dersom det på et tidspunkt oppstår tvil om praksisstudiet kan godkjennes, skal studenten snarest og senest tre uker før praksisstudiets avslutning, motta en skriftlig melding, kalt tvilsmelding. Dersom studenten i slutten av praksisperioden utfører handlinger eller har en atferd som åpenbart ikke gir grunnlag for å bestå praksis, kan studenten likevel få ikke godkjent praksisstudium, selv om forutgående tvilsmelding ikke er gitt.
+4. Dersom studenten ikke oppnår godkjent for praksisopplæringen, gis studenten en mulighet til å ta hele praksisopplæringen èn gang til.
+5. Manglende oppfyllelse av studentens plikter etter første og annet ledd kan medføre tap av studieplass, jf. § 3-4, med mindre studenten har fått innvilget søknad etter § 3-3.
+6. Kravene til det obligatoriske arbeidet fremgår av studieplanen, som finnes på fagskolens læringsplattform og hjemmeside.
 
 > Endret ved forskrifter [13 sep 2024 nr. 3469](forskrift/2024-09-13-3469), [18 des 2025 nr. 3001](forskrift/2025-12-18-3001).
 
@@ -158,7 +165,15 @@ Praksisopplæring er en del av studiet, der dette er bestemt av studieplanen for
 
 (1) Eksamen og andre vurderinger skal gjennomføres slik at studentenes kunnskaper, ferdigheter og generelle kompetanse prøves og vurderes på en upartisk og faglig betryggende måte. Vurderingen skal sikre det faglige nivået i utdanningen. Vurdering skal gjøres ut fra testing i fag- eller praksisopphold.
 
-(2) Eksempler på vurderingsformer er:Skriftlig skoleeksamenSkriftlig hjemmeeksamen i kombinasjon med muntlig prøvingMuntlig framstilling og prestasjonProsjekt-/fordypningsoppgaveProsjekt-/fordypningsoppgave med muntlig prøvingMuntlig eksamenMappeeksamen med akkumulert arbeid gjennom et semester i kombinasjon med en avsluttende prøving i henhold til bokstavene a–f.
+(2) Eksempler på vurderingsformer er:
+
+1. Skriftlig skoleeksamen
+2. Skriftlig hjemmeeksamen i kombinasjon med muntlig prøving
+3. Muntlig framstilling og prestasjon
+4. Prosjekt-/fordypningsoppgave
+5. Prosjekt-/fordypningsoppgave med muntlig prøving
+6. Muntlig eksamen
+7. Mappeeksamen med akkumulert arbeid gjennom et semester i kombinasjon med en avsluttende prøving i henhold til bokstavene a–f.
 
 (3) Fagskolen fastsetter i studieplan for den enkelte fagskoleutdanning, hvilke vurderingsformer som skal benyttes for de enkelte emner, og kan fastsette nærmere bestemmelser om hvordan de enkelte vurderingene gjennomføres.
 
@@ -174,7 +189,11 @@ Praksisopplæring er en del av studiet, der dette er bestemt av studieplanen for
 
 (1) Det kan fastsettes i studieplanen at emner og vurderinger skal gjennomføres og bestås i en bestemt rekkefølge, og at krav til aktivitet skal være oppfylt før studenten har rett til å avlegge eksamen eller annen avsluttende vurdering for emner ved fagskolen.
 
-(2) Som student er man automatisk oppmeldt til eksamen i hvert emne, og har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har oppfylt de kravene til forkunnskaper, progresjon og/eller andre vilkår som er fastsatt i studieplanen.Studenten kan fremvise gyldig identifikasjon i eksamenslokalet.Studenten ikke har mistet retten til å fremstille seg til eksamen som følge av at antall eksamens- eller praksisforsøk er brukt opp.
+(2) Som student er man automatisk oppmeldt til eksamen i hvert emne, og har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+- Studenten har oppfylt de kravene til forkunnskaper, progresjon og/eller andre vilkår som er fastsatt i studieplanen.
+- Studenten kan fremvise gyldig identifikasjon i eksamenslokalet.
+- Studenten ikke har mistet retten til å fremstille seg til eksamen som følge av at antall eksamens- eller praksisforsøk er brukt opp.
 
 (3) Studenter i permisjon skal etter [§ 3-3](forskrift/2022-04-08-2655/§3-3) andre ledd ha gitt fagskolen bekreftelse vedrørende første ønskede vurdering etter avsluttet permisjon. Det samme gjelder studenter som har vært midlertidig bortvist eller utestengt eller har fått annullert sin eksamen etter bestemmelser i denne forskrifts [kapittel 5](forskrift/2022-04-08-2655/kap5).
 
@@ -277,7 +296,15 @@ Sensor oppnevnes av rektor når resultatet av vurderingen skal inngå på vitnem
 
 (1) Den lokale klagenemnden kan annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i.
 
-(2) Klagenemnden kan også annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med prestasjonen eller under gjennomføringen av emnet. Bestemmelsene om fusk omfatter både arbeidskrav og ved gjennomføring av eksamen. Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Det gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Som fusk eller forsøk på fusk regnes blant annet:Bruk av kunstig intelligens som overskrider 20 % av teksten i besvarelsen.Ulovlig samarbeid med medstudenter der hvor det skal foretas individuell innlevering.Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider av eget eller andres arbeid uten tilstrekkelig kildehenvisning og korrekt angivelse av sitater m.m.Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre uten tilstrekkelig kildehenvisning.Dersom besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller at den åpenbart er utarbeidet av andre.Medvirkning til fusk.Å skaffe seg adgang til eksamen ved å ha fusket ved arbeidskrav eller øvrige vilkår for å avlegge eksamen, eller på uriktig grunnlag har fått godkjent deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter. Listen er ikke uttømmende.
+(2) Klagenemnden kan også annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med prestasjonen eller under gjennomføringen av emnet. Bestemmelsene om fusk omfatter både arbeidskrav og ved gjennomføring av eksamen. Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Det gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Som fusk eller forsøk på fusk regnes blant annet:
+
+- Bruk av kunstig intelligens som overskrider 20 % av teksten i besvarelsen.
+- Ulovlig samarbeid med medstudenter der hvor det skal foretas individuell innlevering.
+- Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider av eget eller andres arbeid uten tilstrekkelig kildehenvisning og korrekt angivelse av sitater m.m.
+- Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre uten tilstrekkelig kildehenvisning.
+- Dersom besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller at den åpenbart er utarbeidet av andre.
+- Medvirkning til fusk.
+- Å skaffe seg adgang til eksamen ved å ha fusket ved arbeidskrav eller øvrige vilkår for å avlegge eksamen, eller på uriktig grunnlag har fått godkjent deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter. Listen er ikke uttømmende.
 
 (3) Den lokale klagenemnden kan annullere fritak for eller innpassing av utdanning og kompetanse som en student har fått ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden.
 
@@ -307,7 +334,13 @@ Selv om yrket som studiet kvalifiserer for ikke spesifikt er oppført på listen
 
 (1) Styret selv skal oppnevne en skikkethetsnemnd jf. [fagskoleforskriften § 31](forskrift/2019-07-11-1005/§31).
 
-(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år.
 

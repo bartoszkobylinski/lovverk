@@ -26,7 +26,17 @@ eu_basis: []
 
 ### § 1. Krav til søknad om voldserstatning
 
-Søknad om voldserstatning etter [voldserstatningsloven § 7](lov/2022-06-17-57/§7), [§ 8](lov/2022-06-17-57/§8) og [§ 15](lov/2022-06-17-57/§15) skal inneholde relevante opplysninger om og eventuell dokumentasjon påden voldsutsattes eller dennes etterlattes personalia og kontaktinformasjonpolitidistriktet som etterforsket saken eller anmeldelsesnummer dersom det er kjentden påståtte skadevolderens personalia og kontaktinformasjon dersom det er kjentvoldshandlingenskader den voldsutsatte er påført som følge av voldshandlingenhva det kreves erstatning forerstatning som den voldsutsatte tidligere har fått utbetalt som følge av voldshandlingenandre ytelser som den voldsutsatte har fått eller kommer til å få som følge av voldshandlingen, og som er relevante med hensyn til fradragsregelen i [skadeerstatningsloven § 3-1](lov/1969-06-13-26/§3-1) tredje leddkontonummer og kontoinnehaver til kontoen erstatningen skal utbetales til.
+Søknad om voldserstatning etter [voldserstatningsloven § 7](lov/2022-06-17-57/§7), [§ 8](lov/2022-06-17-57/§8) og [§ 15](lov/2022-06-17-57/§15) skal inneholde relevante opplysninger om og eventuell dokumentasjon på
+
+1. den voldsutsattes eller dennes etterlattes personalia og kontaktinformasjon
+2. politidistriktet som etterforsket saken eller anmeldelsesnummer dersom det er kjent
+3. den påståtte skadevolderens personalia og kontaktinformasjon dersom det er kjent
+4. voldshandlingen
+5. skader den voldsutsatte er påført som følge av voldshandlingen
+6. hva det kreves erstatning for
+7. erstatning som den voldsutsatte tidligere har fått utbetalt som følge av voldshandlingen
+8. andre ytelser som den voldsutsatte har fått eller kommer til å få som følge av voldshandlingen, og som er relevante med hensyn til fradragsregelen i [skadeerstatningsloven § 3-1](lov/1969-06-13-26/§3-1) tredje ledd
+9. kontonummer og kontoinnehaver til kontoen erstatningen skal utbetales til.
 
 ### § 2. Orientering ved partsinnsyn
 
@@ -46,13 +56,25 @@ En sakkyndig som oppnevnes etter [voldserstatningsloven § 10](lov/2022-06-17-57
 
 ### § 5. Krav til den sakkyndiges mandat
 
-Kontoret for voldsoffererstatning skal utforme et skriftlig mandat til den sakkyndige, og i mandatetangi presist hva den sakkyndige skal vurdereangi kravene i [§ 6](forskrift/2023-12-14-2088/§6)opplyse om at erklæringen skal være en helsefaglig uttalelse, og at den sakkyndige ikke skal vurdere eller svare på rettslige spørsmålopplyse om oppdragets omfang og fristen for avslutning av arbeidet.
+Kontoret for voldsoffererstatning skal utforme et skriftlig mandat til den sakkyndige, og i mandatet
+
+1. angi presist hva den sakkyndige skal vurdere
+2. angi kravene i [§ 6](forskrift/2023-12-14-2088/§6)
+3. opplyse om at erklæringen skal være en helsefaglig uttalelse, og at den sakkyndige ikke skal vurdere eller svare på rettslige spørsmål
+4. opplyse om oppdragets omfang og fristen for avslutning av arbeidet.
 
 > Endret ved forskrift [21 mars 2024 nr. 514](forskrift/2024-03-21-514).
 
 ### § 6. Krav til spesialisterklæringen
 
-Den sakkyndige skal i den skriftlige erklæringenvurdere sin habilitetskille klart mellom premisser, vurderinger og konklusjonpresisere de faktiske forholdene og redegjøre for relevant medisinsk dokumentasjon som erklæringen bygger påbesvare problemstillingene i mandatet, basert på allment anerkjent metode og klinisk praksisbelyse usikkerhetsmomenter og eventuelle feilkilderangi metoden som er benyttet, og vise til relevante kilder og studier.
+Den sakkyndige skal i den skriftlige erklæringen
+
+1. vurdere sin habilitet
+2. skille klart mellom premisser, vurderinger og konklusjon
+3. presisere de faktiske forholdene og redegjøre for relevant medisinsk dokumentasjon som erklæringen bygger på
+4. besvare problemstillingene i mandatet, basert på allment anerkjent metode og klinisk praksis
+5. belyse usikkerhetsmomenter og eventuelle feilkilder
+6. angi metoden som er benyttet, og vise til relevante kilder og studier.
 
 ### § 7. Dekning av utgifter til advokat
 
@@ -72,7 +94,11 @@ Forsinkelsesrenter som løper på statens regresskrav etter [voldserstatningslov
 
 Søknad om ettergivelse av forsinkelsesrenter skal fremsettes av skadevolderen overfor Kontoret for voldsoffererstatning innen ett år etter straffegjennomføringens siste dag.
 
-Søknaden skal inneholde følgende opplysninger og dokumentasjon:søkerens personalia og kontaktinformasjonsoningsattest fra kriminalomsorgen som dokumenterer hele perioden det søkes om ettergivelse for, medregnet mulig varetektsoppholddokumentasjon på eventuelle nedbetalinger foretatt før eller under straffegjennomføringen, inkludert dato og beløp.
+Søknaden skal inneholde følgende opplysninger og dokumentasjon:
+
+1. søkerens personalia og kontaktinformasjon
+2. soningsattest fra kriminalomsorgen som dokumenterer hele perioden det søkes om ettergivelse for, medregnet mulig varetektsopphold
+3. dokumentasjon på eventuelle nedbetalinger foretatt før eller under straffegjennomføringen, inkludert dato og beløp.
 
 Kriminalomsorgen skal utstede soningsattest på forespørsel fra skadevolderen. Dokumentasjon som nevnt i bokstav b og c kan ettersendes dersom søknad fremsettes før straffegjennomføringen er fullført.
 
@@ -96,7 +122,12 @@ Voldserstatningsmyndighetene beslutter tilbakebetaling i vedtaket om ettergivels
 
 Barn som har opplevd vold mot en nærstående, har rett til erstatning fra staten dersom handlingen som den nærstående ble utsatt for, omfattes av [voldserstatningsloven § 1](lov/2022-06-17-57/§1) og [§ 3](lov/2022-06-17-57/§3).
 
-Med en nærstående menesbarnets slektninger i rett oppstigende linjesøskenpersoner i barnets husstand ellerpersoner som barnet er i omsorg hos.
+Med en nærstående menes
+
+1. barnets slektninger i rett oppstigende linje
+2. søsken
+3. personer i barnets husstand eller
+4. personer som barnet er i omsorg hos.
 
 Erstatning etter første ledd kan bare tilkjennes dersom voldshandlingen mot den nærstående er anmeldt, og straffesaken er avsluttet. Kravet om at straffesaken må være avsluttet gjelder ikke dersom det vil være uforholdsmessig tyngende for barnet å vente med å få erstatningskravet behandlet til straffesaken er avsluttet, jf. [voldserstatningsloven § 7](lov/2022-06-17-57/§7) første ledd bokstav d.
 

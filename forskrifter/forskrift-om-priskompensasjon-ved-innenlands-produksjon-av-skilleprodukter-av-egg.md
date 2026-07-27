@@ -34,7 +34,10 @@ Forskriften får ikke anvendelse på produkter omfattet av protokoll 3 til EØS-
 
 ## § 3. Definisjoner
 
-I denne forskriften legges følgende definisjoner til grunn:*Egg:* Skallegg.*Skilleprodukt:* Eggehvite og eggeplomme.
+I denne forskriften legges følgende definisjoner til grunn:
+
+- *Egg:* Skallegg.
+- *Skilleprodukt:* Eggehvite og eggeplomme.
 
 ## § 4. Grunnvilkår
 
@@ -66,11 +69,20 @@ For å motta priskompensasjon ved innenlands produksjon av skilleprodukter komme
 
 For å kunne søke om priskompensasjon må skilleproduktprodusenten være godkjent av Omsetningsrådet.
 
-Søknad om å bli godkjent skilleproduktprodusent sendes Omsetningsrådet 4 uker før oppstart av produksjon. Søknaden skal inneholdeen beskrivende plan for organisering av skillevirksomheten,dokumentasjon på at virksomheten er godkjent av Mattilsynet,resepter for skilleproduktene ogprognoser for salg av skilleprodukter innenlands og utenlands.
+Søknad om å bli godkjent skilleproduktprodusent sendes Omsetningsrådet 4 uker før oppstart av produksjon. Søknaden skal inneholde
+
+- en beskrivende plan for organisering av skillevirksomheten,
+- dokumentasjon på at virksomheten er godkjent av Mattilsynet,
+- resepter for skilleproduktene og
+- prognoser for salg av skilleprodukter innenlands og utenlands.
 
 ## § 8. Søknad om priskompensasjon
 
-Søknad om priskompensasjon sendes til Omsetningsrådet etterskuddsvis hver andre måned og senest innen den 15. påfølgende måned. Søknad om utbetaling skal inneholdesolgt kvantum av de enkelte skilleproduktene for tilhørende periode,priskompensasjon utregnet for de ferdigproduktene det søkes priskompensasjon for, ogakkumulert regnskap for kvantumet skilleprodukter det har blitt søkt om kompensasjon for hittil i halvåret.
+Søknad om priskompensasjon sendes til Omsetningsrådet etterskuddsvis hver andre måned og senest innen den 15. påfølgende måned. Søknad om utbetaling skal inneholde
+
+- solgt kvantum av de enkelte skilleproduktene for tilhørende periode,
+- priskompensasjon utregnet for de ferdigproduktene det søkes priskompensasjon for, og
+- akkumulert regnskap for kvantumet skilleprodukter det har blitt søkt om kompensasjon for hittil i halvåret.
 
 For søknad som omfatter månedene mai/juni og november/desember må det legges ved revisorattest som gjelder siste halvår.
 

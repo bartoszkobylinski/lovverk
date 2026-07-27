@@ -15,7 +15,7 @@ xml_hash: "213ddc25c101335c543bd5db471b807017a9fb6ba1624390cfdf45e95b6a4c75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,16 @@ eu_basis: []
 
 ### § 2-2. Formell kompetanse
 
-1\) For å bli tatt opp til studier ved Imageakademiet må søkeren ha bestått treårig videregående opplæring i ett av utdanningsprogrammene under:Kunst, design og arkitekturMedier og kommunikasjonMusikk, dans og drama (med drama fra og med VG2)Frisør, blomster, interiør og eksponeringsdesignHåndverk, design og produktutviklingInformasjonsteknologi og medieproduksjon (med medieprod. fra og med VG2).Eller eventuelt tidligere eller nye utdanningsløp som overlapper med disse.
+1\) For å bli tatt opp til studier ved Imageakademiet må søkeren ha bestått treårig videregående opplæring i ett av utdanningsprogrammene under:
+
+1. Kunst, design og arkitektur
+2. Medier og kommunikasjon
+3. Musikk, dans og drama (med drama fra og med VG2)
+4. Frisør, blomster, interiør og eksponeringsdesign
+5. Håndverk, design og produktutvikling
+6. Informasjonsteknologi og medieproduksjon (med medieprod. fra og med VG2).
+
+Eller eventuelt tidligere eller nye utdanningsløp som overlapper med disse.
 
 2\) Søkere som ikke er ferdige med videregående skole eller yrkesopplæringen, men som kan dokumentere at de skal gjennomføre sine respektive utdanninger i løpet av det påfølgende semesteret, kan tildeles plass på det vilkår at utdanningen blir bestått, jf. § 10 og § 11 i fagskoleforskriften. Dersom utdanningen ikke blir bestått, mister studenten studieretten med mindre det kan søkes på et annet opptaksgrunnlag. Ved tap av skoleplassen vil søkeren ikke få betalt tilbake studieavgiften for inneværende semester.
 
@@ -162,7 +171,11 @@ Studenten har rett til å klage på bortvisning eller utestengning. For prosedyr
 
 ### § 4-2. Rett til å gå opp til eksamen
 
-1\) Studenten har rett til å gå opp til eksamen når følgende vilkår er oppfylt:Har et ugyldig fraværet på mindre enn 15 prosent i emnet det skal tas eksamen i.Har gjennomført færre enn tre eksamensforsøk i den aktuelle enkelteksamen.Har betalt forfalt studieavgift.
+1\) Studenten har rett til å gå opp til eksamen når følgende vilkår er oppfylt:
+
+1. Har et ugyldig fraværet på mindre enn 15 prosent i emnet det skal tas eksamen i.
+2. Har gjennomført færre enn tre eksamensforsøk i den aktuelle enkelteksamen.
+3. Har betalt forfalt studieavgift.
 
 2\) Vedtak om å nekte en student å gå opp til eksamen kan påklages. Hvis klagen ikke tas til følge vil den automatisk bli sendt til den lokale klagenemnda. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for studenten.
 

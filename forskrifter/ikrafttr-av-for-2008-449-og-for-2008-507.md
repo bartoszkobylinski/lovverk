@@ -26,4 +26,7 @@ Danmark, som siste stat, har tiltrådt endringsoverenskomst 26. januar 2006 nr. 
 
 Endringsoverenskomsten vil derved tre i kraft mellom partene 1. desember 2008.
 
-Dette innebærer at også følgende forskrifter gitt med hjemmel i [lov 19. desember 1969 nr. 75](lov/1969-12-19-75) om gjennomføring av nordiske konvensjoner om visse internasjonal-privatrettslige forhold trer i kraft samme dato:[forskrift 9. mai 2008 nr. 449](forskrift/2008-05-09-449) om opphevelse av forskrifter om nordisk konvensjon 6. februar 1931 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål.[forskrift 26. mai 2008 nr. 507](forskrift/2008-05-26-507) om gjennomføring i norsk rett av nordisk konvensjon 6. februar 1931 nr. 1 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål.
+Dette innebærer at også følgende forskrifter gitt med hjemmel i [lov 19. desember 1969 nr. 75](lov/1969-12-19-75) om gjennomføring av nordiske konvensjoner om visse internasjonal-privatrettslige forhold trer i kraft samme dato:
+
+- [forskrift 9. mai 2008 nr. 449](forskrift/2008-05-09-449) om opphevelse av forskrifter om nordisk konvensjon 6. februar 1931 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål.
+- [forskrift 26. mai 2008 nr. 507](forskrift/2008-05-26-507) om gjennomføring i norsk rett av nordisk konvensjon 6. februar 1931 nr. 1 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål.

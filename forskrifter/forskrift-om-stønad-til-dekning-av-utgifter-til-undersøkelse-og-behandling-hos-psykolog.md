@@ -15,7 +15,7 @@ xml_hash: "cb89b7a130efa46ed73556099fa1948aced971577495c039c9f874405ab5da83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 ### § 1
 
-1. Det ytes stønad til dekning av utgifter til undersøkelse og behandling hos psykolog når undersøkelsen og behandlingen skjer i forbindelse med sykdom som trygden ellers er stønadspliktig for.Stønaden ytes etter takstene i [kapittel II](forskrift/2020-06-18-1262/kapII). Det ytes stønad etter honorartakstene ved behandling av pasienter til og med det kalenderår pasientene fyller 26 år og ved behandling av pasienter med HIV-infeksjon.
+1. Det ytes stønad til dekning av utgifter til undersøkelse og behandling hos psykolog når undersøkelsen og behandlingen skjer i forbindelse med sykdom som trygden ellers er stønadspliktig for.
+
+   Stønaden ytes etter takstene i [kapittel II](forskrift/2020-06-18-1262/kapII). Det ytes stønad etter honorartakstene ved behandling av pasienter til og med det kalenderår pasientene fyller 26 år og ved behandling av pasienter med HIV-infeksjon.
 2. Denne forskriften gjelder ikke når en psykolog foretar undersøkelse eller behandling i en helseinstitusjon hvor vedkommende er ansatt.
 
 > Endret ved forskrift [19 des 2024 nr. 3293](forskrift/2024-12-19-3293) (i kraft 1 jan 2025).

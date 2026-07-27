@@ -38,7 +38,16 @@ Forskriften gjelder i fred, krise og krig.
 
 ### § 3. Definisjoner
 
-I forskriften menes med:*Anløp:* innseiling til norsk indre farvann.*Fartøy:* enhver flytende innretning som er laget for å bevege seg gjennom vannet.*Fremmed fartøy:* fartøy som har en annen stat enn Norge som flaggstat, eller norsk fartøy med utenlandsk skipsfører.*Indre farvann:* alt farvann som ligger innenfor grunnlinjene som fastsatt i og i medhold av [lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone § 3](lov/2003-06-27-57/§3).*Norske myndigheter:* Forsvarsdepartementet eller den departementet bemyndiger.*Territorialfarvann:* sjøterritoriet og indre farvann som fastsatt i og i medhold av [lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone §§ 2](lov/2003-06-27-57/§2) og [3](lov/2017-06-21-88/§3).*SafeSeaNet Norway:* felles meldingssystem for sjøfarten.*Skipsfører:* Den med øverste myndighet om bord i fartøyet, ansvarlig for navigasjon, sikkerhet og fartøy. For autonome, ubemannede og tilsvarende fartøy er skipsfører den som er ansvarlig for navigasjon av det aktuelle fartøyet.
+I forskriften menes med:
+
+1. *Anløp:* innseiling til norsk indre farvann.
+2. *Fartøy:* enhver flytende innretning som er laget for å bevege seg gjennom vannet.
+3. *Fremmed fartøy:* fartøy som har en annen stat enn Norge som flaggstat, eller norsk fartøy med utenlandsk skipsfører.
+4. *Indre farvann:* alt farvann som ligger innenfor grunnlinjene som fastsatt i og i medhold av [lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone § 3](lov/2003-06-27-57/§3).
+5. *Norske myndigheter:* Forsvarsdepartementet eller den departementet bemyndiger.
+6. *Territorialfarvann:* sjøterritoriet og indre farvann som fastsatt i og i medhold av [lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone §§ 2](lov/2003-06-27-57/§2) og [3](lov/2017-06-21-88/§3).
+7. *SafeSeaNet Norway:* felles meldingssystem for sjøfarten.
+8. *Skipsfører:* Den med øverste myndighet om bord i fartøyet, ansvarlig for navigasjon, sikkerhet og fartøy. For autonome, ubemannede og tilsvarende fartøy er skipsfører den som er ansvarlig for navigasjon av det aktuelle fartøyet.
 
 ### § 4. Hvilke fartøyer forskriften omfatter
 
@@ -78,7 +87,16 @@ Person- og bilferger som går i regelmessig fart til og fra norske havner, og ha
 
 ### § 8. Anløpsmeldingen
 
-Anløpsmelding skal inneholde informasjon om:fartøyets eventuelle IMO-identifiseringsnummerfartøyets flaggstat, navn, internasjonale radiokallesignal (kjenningsbokstaver) og eventuelle mobil- og satellittelefonnumrefartøyets type, last, dypgående og størrelse oppgitt i bruttotonnpersoner om bord (mannskap og passasjerer)hensikten med og opplysninger om anløpetposisjonen i bredde- og lengdegrader der fartøyet planlegger å krysse norsk grunnlinje og når det ankommer og forlater farvannetopplysninger om hvilke havner som ønskes anløpt, med angivelse av ankomsts- og avgangstidspunktnorsk kontaktpunkt i form av agent, operatør, reder eller lignende.
+Anløpsmelding skal inneholde informasjon om:
+
+1. fartøyets eventuelle IMO-identifiseringsnummer
+2. fartøyets flaggstat, navn, internasjonale radiokallesignal (kjenningsbokstaver) og eventuelle mobil- og satellittelefonnumre
+3. fartøyets type, last, dypgående og størrelse oppgitt i bruttotonn
+4. personer om bord (mannskap og passasjerer)
+5. hensikten med og opplysninger om anløpet
+6. posisjonen i bredde- og lengdegrader der fartøyet planlegger å krysse norsk grunnlinje og når det ankommer og forlater farvannet
+7. opplysninger om hvilke havner som ønskes anløpt, med angivelse av ankomsts- og avgangstidspunkt
+8. norsk kontaktpunkt i form av agent, operatør, reder eller lignende.
 
 Anløpsmeldingen registreres i SafeSeaNet Norway, på norsk, dansk, svensk eller engelsk. Fartøy uten tilgang til SafeSeaNet Norway sender anløpsmeldingen direkte til Forsvarets operative hovedkvarter etter de samme krav.
 
@@ -88,7 +106,15 @@ Forsvarets operative hovedkvarter skal straks underrettes om avvik fra anløpsme
 
 ### § 9. Særskilt søknadsplikt for visse typer fartøy
 
-Følgende fremmede fartøy har bare adgang til norsk indre farvann etter skriftlig tillatelse i henhold til den særskilte søknadsplikten i [§ 10 andre ledd](forskrift/2024-11-01-2627/§10/ledd/2) uansett størrelse:forskningsfartøyseismikkfartøyer og andre fartøyer med utstyr som benyttes til oppmåling og kartlegging av havbunnenfabrikkfartøyer, verkstedsfartøyer og ekspedisjonsfartøyerspesialfartøyer, flyttbar(e) innretning(er), slepebåter, mudderprammer, isbrytere og flytekraner, med mindre anløpet er et nødvendig ledd i forpliktende avtale med norsk firma i forbindelse med oppdrag i norsk havnsivile statsfartøyer benyttet i kommersielle formål og hjelpe- og støttefartøyer til marineenheterfartøy som medbringer luft- eller undervannsfartøyfartøyer som krever tillatelse etter [lov 12. mai 1972 nr. 28 om atomenergivirksomhet § 4](lov/1972-05-12-28/§4) og [§ 5](lov/1972-05-12-28/§5).
+Følgende fremmede fartøy har bare adgang til norsk indre farvann etter skriftlig tillatelse i henhold til den særskilte søknadsplikten i [§ 10 andre ledd](forskrift/2024-11-01-2627/§10/ledd/2) uansett størrelse:
+
+1. forskningsfartøy
+2. seismikkfartøyer og andre fartøyer med utstyr som benyttes til oppmåling og kartlegging av havbunnen
+3. fabrikkfartøyer, verkstedsfartøyer og ekspedisjonsfartøyer
+4. spesialfartøyer, flyttbar(e) innretning(er), slepebåter, mudderprammer, isbrytere og flytekraner, med mindre anløpet er et nødvendig ledd i forpliktende avtale med norsk firma i forbindelse med oppdrag i norsk havn
+5. sivile statsfartøyer benyttet i kommersielle formål og hjelpe- og støttefartøyer til marineenheter
+6. fartøy som medbringer luft- eller undervannsfartøy
+7. fartøyer som krever tillatelse etter [lov 12. mai 1972 nr. 28 om atomenergivirksomhet § 4](lov/1972-05-12-28/§4) og [§ 5](lov/1972-05-12-28/§5).
 
 I tvilstilfelle avgjør norske myndigheter hvorvidt fartøyet er søknadspliktig etter denne bestemmelsen.
 
@@ -128,7 +154,11 @@ Fremmede undervannsfarkoster skal i norsk territorialfarvann alltid være fullt 
 
 ### § 16. Forbud mot å lage kart, kartskisser, fotografi, video, beskrivelser og gjennomføre registreringer eller målinger
 
-Uten særlig tillatelse er det forbudt for alle om bord på fremmede fartøy åoppta kart eller kartskisse over norske havner, farvann, flyplasser og sjøflyhavner.oppta kart, kartskisse, fotografi, video eller beskrivelse av militære områder og militær aktivitet.gjøre opptak av eller på annen måte bruke informasjon om bunnforhold som er omfattet av [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 4](lov/2017-06-21-88/§4) eller forskrifter fastsatt med hjemmel i loven.
+Uten særlig tillatelse er det forbudt for alle om bord på fremmede fartøy å
+
+1. oppta kart eller kartskisse over norske havner, farvann, flyplasser og sjøflyhavner.
+2. oppta kart, kartskisse, fotografi, video eller beskrivelse av militære områder og militær aktivitet.
+3. gjøre opptak av eller på annen måte bruke informasjon om bunnforhold som er omfattet av [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 4](lov/2017-06-21-88/§4) eller forskrifter fastsatt med hjemmel i loven.
 
 ### § 17. Plikt til å la seg visitere
 

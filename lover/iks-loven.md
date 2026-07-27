@@ -15,7 +15,7 @@ xml_hash: "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,17 @@ For interkommunalt selskap skal det opprettes en skriftlig selskapsavtale. For d
 
 Endringer i selskapsavtalen som gjelder forhold som omtalt i tredje ledd, skal skje på samme måte. Andre endringer vedtas av representantskapet med tilslutning fra minst to tredeler av de avgitte stemmer med mindre det er avtalt at også slike endringer skal vedtas i samsvar med regelen i første punktum.
 
-Selskapsavtalen skal i det minste angi følgende:selskapets foretaksnavnangivelse av deltakerneselskapets formålden kommunen der selskapet har sitt hovedkontorantallet eller laveste og høyeste antall styremedlemmerdeltakernes innskuddsplikt og plikt til å foreta andre ytelser overfor selskapetden enkelte deltakers eierandel i selskapet og den enkelte deltakers ansvarsandel i selskapet dersom denne avviker fra eierandelenantall medlemmer av representantskapet og hvor mange medlemmer den enkelte deltaker oppnevnerannet som etter lov skal fastsettes i selskapsavtalen.
+Selskapsavtalen skal i det minste angi følgende:
+
+1. selskapets foretaksnavn
+2. angivelse av deltakerne
+3. selskapets formål
+4. den kommunen der selskapet har sitt hovedkontor
+5. antallet eller laveste og høyeste antall styremedlemmer
+6. deltakernes innskuddsplikt og plikt til å foreta andre ytelser overfor selskapet
+7. den enkelte deltakers eierandel i selskapet og den enkelte deltakers ansvarsandel i selskapet dersom denne avviker fra eierandelen
+8. antall medlemmer av representantskapet og hvor mange medlemmer den enkelte deltaker oppnevner
+9. annet som etter lov skal fastsettes i selskapsavtalen.
 
 > Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [2 juni 2023 nr. 22](lov/2023-06-02-22) (i kraft 1 jan 2024 iflg. [res. 2 juni 2023 nr. 769](forskrift/2023-06-02-769)).
 
@@ -170,7 +180,12 @@ Det skal føres protokoll fra møtet. Protokollen skal underskrives av samtlige 
 
 ## § 13. Styrets myndighet
 
-Forvaltningen av selskapet hører under styret. Styret skalsørge for en forsvarlig organisering av selskapets virksomhetse til at virksomheten drives i samsvar med selskapets formål, selskapsavtalen, selskapets økonomiplan og årsbudsjett og andre vedtak og retningslinjer fastsatt av representantskapetholde seg orientert om selskapets økonomiske stillingse til at selskapets virksomhet, regnskap og formuesforvaltning er gjenstand for betryggende kontroll.
+Forvaltningen av selskapet hører under styret. Styret skal
+
+1. sørge for en forsvarlig organisering av selskapets virksomhet
+2. se til at virksomheten drives i samsvar med selskapets formål, selskapsavtalen, selskapets økonomiplan og årsbudsjett og andre vedtak og retningslinjer fastsatt av representantskapet
+3. holde seg orientert om selskapets økonomiske stilling
+4. se til at selskapets virksomhet, regnskap og formuesforvaltning er gjenstand for betryggende kontroll.
 
 Styret skal føre tilsyn med daglig leders ledelse av virksomheten.
 
@@ -232,11 +247,19 @@ Hvis utviklingen tilsier at inntektene eller kostnadene vil avvike vesentlig sam
 
 Økonomiplanen skal vise hvordan selskapets formål og strategier for selskapet skal følges opp.
 
-Økonomiplanen og årsbudsjettet skal viseselskapets prioriteringer og økonomiske rammer for virksomhetenmålene og premissene som økonomiplanen og årsbudsjettet bygger påutviklingen i selskapets økonomi og utviklingen i gjeld og andre vesentlige langsiktige forpliktelser.
+Økonomiplanen og årsbudsjettet skal vise
+
+1. selskapets prioriteringer og økonomiske rammer for virksomheten
+2. målene og premissene som økonomiplanen og årsbudsjettet bygger på
+3. utviklingen i selskapets økonomi og utviklingen i gjeld og andre vesentlige langsiktige forpliktelser.
 
 Vedtaket om årsbudsjett skal angi hvor mye lån som skal tas opp i budsjettåret.
 
-Økonomiplanen og årsbudsjettet skalvære realistiske, fullstendige og oversiktligesettes opp i balanse slik at all bruk av midler i budsjettåret har dekning i årets tilgang på midlerdekke inn negativ egenkapital i årsregnskapet etter [§ 27](lov/1999-01-29-6/§27) femte ledd tredje punktum.
+Økonomiplanen og årsbudsjettet skal
+
+1. være realistiske, fullstendige og oversiktlige
+2. settes opp i balanse slik at all bruk av midler i budsjettåret har dekning i årets tilgang på midler
+3. dekke inn negativ egenkapital i årsregnskapet etter [§ 27](lov/1999-01-29-6/§27) femte ledd tredje punktum.
 
 Økonomiplanen, årsbudsjettet og årsregnskapet skal stilles opp på samme måte.
 
@@ -256,7 +279,11 @@ Selskapet kan bare ta opp lån dersom dette er fastsatt i selskapsavtalen. Derso
 
 Selskapet kan ta opp lån for å finansiere investeringer i varige driftsmidler som skal eies av selskapet selv. Det kan ikke tas opp lån for den delen av anskaffelseskost som blir kompensert etter [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108).
 
-Selskapet kan ta opp lån for å finansiere kjøp av alle aksjene i et eiendomsselskap som skal eies av selskapet selv, hvis eiendomsselskapet ikke harannen virksomhet enn å eie fast eiendom og å drifte dennevesentlige forpliktelser som gjelder annet enn eiendommenandre ansatte enn daglig leder.
+Selskapet kan ta opp lån for å finansiere kjøp av alle aksjene i et eiendomsselskap som skal eies av selskapet selv, hvis eiendomsselskapet ikke har
+
+1. annen virksomhet enn å eie fast eiendom og å drifte denne
+2. vesentlige forpliktelser som gjelder annet enn eiendommen
+3. andre ansatte enn daglig leder.
 
 Selskapet kan inngå avtale om driftskreditt eller ta opp likviditetslån.
 
@@ -294,7 +321,12 @@ I de første seks måneder etter at melding etter første ledd er sendt til repr
 
 ## § 25. Salg av selskapets faste eiendommer m.v.
 
-Vedtak omå avhende eller pantsette fast eiendom eller andre større kapitalgjenstander ellerå foreta investeringer som er av vesentlig betydning for selskapet eller en eller flere av deltakerne,må treffes av representantskapet etter forslag fra styret.
+Vedtak om
+
+1. å avhende eller pantsette fast eiendom eller andre større kapitalgjenstander eller
+2. å foreta investeringer som er av vesentlig betydning for selskapet eller en eller flere av deltakerne,
+
+må treffes av representantskapet etter forslag fra styret.
 
 ## § 26. Eierskifte
 
@@ -308,7 +340,10 @@ Overdrageren kan skriftlig anmode selskapets kreditorer om å bli fritatt for an
 
 ## § 27. Selskapets regnskap
 
-Selskapet har regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56). Årsberetningen skal også redegjøre forvesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet og vesentlige avvik fra representantskapets premisser for bruken av de økonomiske rammeneselskapets måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for deltakerne eller innbyggerne.
+Selskapet har regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56). Årsberetningen skal også redegjøre for
+
+1. vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet og vesentlige avvik fra representantskapets premisser for bruken av de økonomiske rammene
+2. selskapets måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for deltakerne eller innbyggerne.
 
 Det kan bestemmes i selskapsavtalen at selskapet i stedet skal utarbeide årsregnskap og årsberetning etter [kommuneloven § 14-6](lov/2018-06-22-83/§14-6) andre til fjerde ledd og [§ 14-7](lov/2018-06-22-83/§14-7) andre ledd.
 

@@ -38,7 +38,12 @@ Forskningsarbeidet og avhandlingen skal være et selvstendig arbeid uten formell
 
 En dr.philos.-grad kvalifiserer for forskningsvirksomhet og annet arbeid i samfunnet hvor det stilles høye krav til vitenskapelig innsikt, arbeidsmåte og analytisk tenkning i samsvar med god vitenskapelig skikk og forskningsetiske standarder.
 
-Dr.philos.-graden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt temagodkjent prøveforelesning over selvvalgt temagodkjent offentlig forsvar av avhandlingen (disputas).
+Dr.philos.-graden tildeles på grunnlag av
+
+1. godkjent vitenskapelig avhandling
+2. godkjent prøveforelesning over oppgitt tema
+3. godkjent prøveforelesning over selvvalgt tema
+4. godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvar for graden dr.philos.
 
@@ -54,7 +59,10 @@ På fullmakt fra rektor fatter prorektor for forskning vedtak om søkeren skal g
 
 Søkeren skal ha en femårig mastergrad innen økonomi og administrasjon. NHH kan gi søkere som på annen måte har godtgjort tilsvarende utdanning eller kvalifikasjoner adgang til å fremstille seg til doktorgradsprøven. Det er søkerens ansvar å dokumentere kvalifikasjonene. Prorektor for forskning kan stille krav om at søkeren gjennomfører særskilte kurs og/eller består særskilt prøve(r), før det gis adgang til bedømmelse av doktorgradsarbeidet.
 
-Søkeren skal være statsborger i Norge eller ha folkeregistrert bostedsadresse i Norge. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkåreneavhandlingen behandler tema eller bygger på materiale som har direkte tilknytning til Norgeavhandlingens tema har sterk tilknytning til norsk forskning innen det aktuelle fagområdet.
+Søkeren skal være statsborger i Norge eller ha folkeregistrert bostedsadresse i Norge. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkårene
+
+1. avhandlingen behandler tema eller bygger på materiale som har direkte tilknytning til Norge
+2. avhandlingens tema har sterk tilknytning til norsk forskning innen det aktuelle fagområdet.
 
 ### § 4-2. Krav til avhandlingen
 
@@ -76,7 +84,17 @@ Avhandlingen skal offentliggjøres før disputas finner sted.
 
 Søknad om å få avhandlingen bedømt rettes til prorektor for forskning.
 
-Følgende dokumentasjon skal være vedlagt søknadenavhandlingen i digitalt format, samt en kortfattet oppsummering av avhandlingen på norsk og engelskvitnemål og karakterutskrift fra mastergrad eller dokumentasjon på tilsvarende kvalifikasjonerdokumentasjon på norsk statsborgerskap eller folkeregistrert adresse i Norge, eller en redegjørelse for avhandlingens tilknytning til Norge, jf. [§ 4-1](forskrift/2024-03-05-415/§4-1)dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet hvor dette er påkrevden kort redegjørelse og begrunnelse for at avhandlingen har et tema som hører inn under NHHs fagporteføljeerklæring om at avhandlingen er et selvstendig arbeid uten formell veiledning eller tilknytning til et organisert doktorgradsprogrammedforfattererklæring hvor dette er påkrevd etter [§ 4-2](forskrift/2024-03-05-415/§4-2)erklæring om at søknad om å få avhandlingen eller deler av denne bedømt, kun er sendt til én institusjonerklæring om at avhandlingen eller deler av denne ikke er bedømt ved annen norsk eller utenlandsk institusjon, jf. [§ 5](forskrift/2024-03-05-415/§5).
+Følgende dokumentasjon skal være vedlagt søknaden
+
+1. avhandlingen i digitalt format, samt en kortfattet oppsummering av avhandlingen på norsk og engelsk
+2. vitnemål og karakterutskrift fra mastergrad eller dokumentasjon på tilsvarende kvalifikasjoner
+3. dokumentasjon på norsk statsborgerskap eller folkeregistrert adresse i Norge, eller en redegjørelse for avhandlingens tilknytning til Norge, jf. [§ 4-1](forskrift/2024-03-05-415/§4-1)
+4. dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet hvor dette er påkrevd
+5. en kort redegjørelse og begrunnelse for at avhandlingen har et tema som hører inn under NHHs fagportefølje
+6. erklæring om at avhandlingen er et selvstendig arbeid uten formell veiledning eller tilknytning til et organisert doktorgradsprogram
+7. medforfattererklæring hvor dette er påkrevd etter [§ 4-2](forskrift/2024-03-05-415/§4-2)
+8. erklæring om at søknad om å få avhandlingen eller deler av denne bedømt, kun er sendt til én institusjon
+9. erklæring om at avhandlingen eller deler av denne ikke er bedømt ved annen norsk eller utenlandsk institusjon, jf. [§ 5](forskrift/2024-03-05-415/§5).
 
 ### § 5. Arbeider som ikke godtas til innlevering
 
@@ -112,7 +130,15 @@ Kandidaten kan etter innlevering søke om tillatelse til å rette formelle feil 
 
 Etter at prorektor for forskning har fattet vedtak om at avhandlingen godtas til bedømmelse, oppnevner prorektor for forskning en bedømmelseskomité og en komitéleder. Det bør normalt ikke gå mer enn seks uker fra vedtak om at avhandlingen godtas til bedømmelse til at komitéen er oppnevnt.
 
-Bedømmelseskomitéen skal normalt settes sammen slik atkomitéen består av minst tre medlemmerbegge kjønn er representertminst ett av medlemmene er uten formell tilknytning til NHHminst ett av medlemmene har hovedstilling ved en utenlandsk institusjon, og er internasjonalt anerkjent innen det aktuelle fagområdetalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomitéen er eksterne medlemmerhabilitetsreglene i [lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 6](lov/1967-02-10/§6) gjelder for komitéens medlemmer.
+Bedømmelseskomitéen skal normalt settes sammen slik at
+
+1. komitéen består av minst tre medlemmer
+2. begge kjønn er representert
+3. minst ett av medlemmene er uten formell tilknytning til NHH
+4. minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon, og er internasjonalt anerkjent innen det aktuelle fagområdet
+5. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+6. flertallet i bedømmelseskomitéen er eksterne medlemmer
+7. habilitetsreglene i [lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 6](lov/1967-02-10/§6) gjelder for komitéens medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -142,7 +168,10 @@ Bedømmelseskomitéen avgir en innstilling om hvorvidt avhandlingen er verdig ti
 
 Bedømmelseskomitéens innstilling skal foreligge innen tre måneder etter at komitéen har mottatt avhandlingen, med mindre prorektor for forskning har bestemt noe annet. Dersom komitéen har bedt om en mindre omarbeiding, skal innstillingen foreligge innen tre måneder etter at komitéen mottar den omarbeidede avhandlingen, med mindre prorektor for forskning har bestemt noe annet.
 
-Bedømmelseskomitéen kan innstille på ett av følgende alternativerkomitéen finner avhandlingen verdig for forsvarkomitéen finner avhandlingen ikke verdig for forsvar.
+Bedømmelseskomitéen kan innstille på ett av følgende alternativer
+
+1. komitéen finner avhandlingen verdig for forsvar
+2. komitéen finner avhandlingen ikke verdig for forsvar.
 
 Dersom komitéen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendig for at arbeidet skal kunne finnes verdig for forsvar, skal komitéen underkjenne avhandlingen.
 

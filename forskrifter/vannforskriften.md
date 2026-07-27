@@ -16,7 +16,7 @@ xml_hash: "2823ae86588fb39b4c50ef871c84cf8ab61abaa8bff368ef820ae9a316a409bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,7 +41,35 @@ Vedleggene til forskriften gjelder som en del av forskriften.
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med*Vannforekomst:* En avgrenset og betydelig mengde av overflatevann, som for eksempel innsjø, magasin, elv, bekk, kanal, fjord eller kyststrekning, eller deler av disse, eller en avgrenset mengde grunnvann innenfor en eller flere akviferer.*Overflatevann:* Kystvann, brakkvann og ferskvann, unntatt grunnvann.*Grunnvann:* Vann under jordens overflate i den mettede sonen i grunnen.*Akvifer:* En eller flere geologiske formasjoner med tilstrekkelig porøsitet og permeabilitet til at en betydelig mengde grunnvann kan strømme gjennom eller utvinnes.*Brakkvann:* Vann i nærheten av elvemunninger der ferskvann og saltholdig sjøvann blandes slik at vannet blir noe saltholdig, men for øvrig bærer vesentlig preg av ferskvannstilførselen.*Kystvann:* Saltvann fra en nautisk mil utenfor grunnlinjen og inntil land eller ytre grense for brakkvann, samt ut til den ytre grensen for territorialfarvannet med hensyn til kjemisk tilstand.*Sterkt modifisert vannforekomst*: En forekomst av overflatevann som på grunn av fysiske endringer som følge av menneskelig virksomhet i vesentlig grad har endret karakter, og som er utpekt som sterkt modifisert i medhold av [§ 5](forskrift/2006-12-15-1446/§5).*Kunstig vannforekomst:* En forekomst av overflatevann som er skapt ved menneskelig virksomhet.*Drikkevann:* Vann som er definert som drikkevann i forskrift om vannforsyning og drikkevann (drikkevannsforskriften).*Økologisk tilstand:* Uttrykk for tilstanden når det gjelder sammensetning og virkemåte for økosystemet i en forekomst av overflatevann, basert på klassifiseringen i vedlegg V.*Økologisk potensial:* Uttrykk for mulig økologisk tilstand i en sterkt modifisert eller kunstig forekomst av overflatevann, basert på klassifiseringen i vedlegg V.*Kjemisk tilstand:* Uttrykk for den kjemiske tilstanden i en forekomst av overflatevann eller grunnvann, i samsvar med klassifiseringen i vedlegg V og med miljøkvalitetsstandardene i vedlegg VIII A og B.*Kvantitativ tilstand:* Uttrykk for i hvilken grad en forekomst av grunnvann er påvirket av direkte eller indirekte uttak.*Prioriterte stoffer:* Miljøgifter som er identifisert som prioriterte av EU på listen i vedlegg VIII A.*Prioriterte farlige stoffer:* Miljøgifter som er identifisert som prioriterte farlige av EU på listen i vedlegg VIII A.*Nedbørfelt:* Landareal med avrenning til ett bestemt utløpspunkt i elv, innsjø, fjord eller i hav.*Vannregion*: Ett eller flere tilstøtende nedbørfelt med tilhørende grunnvann og kystvann som til sammen utgjør en hensiktsmessig forvaltningsenhet slik det framgår av [§ 20](forskrift/2006-12-15-1446/§20).*Vannområde*: Avgrenset del av en vannregion som består av ett enkelt, deler av eller flere nedbørfelt med tilhørende grunnvann og eventuelt kystvann, jf. [§ 23](forskrift/2006-12-15-1446/§23).*Beskyttet område*: Områder som er angitt som beskyttet i samsvar med [§ 16](forskrift/2006-12-15-1446/§16) og vedlegg IV og som inngår i registeret opprettet i henhold til [§ 16](forskrift/2006-12-15-1446/§16).*Hydromorfologiske egenskaper:* Vannmengde og variasjon i vannføring og vannstand, samt bunnforhold og vannforekomstens fysiske beskaffenhet.*Vannregionmyndighet:* Koordinerende myndighet utpekt som ansvarlig for en eller flere vannregioner slik det fremgår av [§ 20](forskrift/2006-12-15-1446/§20).*Terskelverdi:* En på forhånd fastsatt verdi for konsentrasjon i grunnvannsforekomster av stoffer angitt i vedlegg IX som ved målt overskridelse innebærer at grunnvannsforekomsten ikke har god kjemisk tilstand, jf. vedlegg V 2.3.2.*Vendepunktverdi:* En på forhånd fastsatt verdi for konsentrasjon i grunnvannsforekomster av stoffer angitt i vedlegg IX som ved målt overskridelse innebærer at det skal vurderes om grunnvannsforekomsten står i fare for å miste god kjemisk tilstand, jf. vedlegg V 2.4.4.*Matriks:* Ferskvann, kystvann, sediment eller organismer.*Planperiode:* Periode på seks år som vannforvaltningsplan gjelder for. Første planperiode er 1. januar 2016–31. desember 2021, andre planperiode er 1. januar 2022–31. desember 2027, tredje planperiode er 1. januar 2028–31. desember 2033. Planperiodene fortsetter deretter på samme vis hvert sjette år.*Vann-Nett:* Database som inneholder informasjon om vannforekomstene.*Vannregionspesifikke stoffer:* stoffer, utover de prioriterte stoffer, som er påvist tilført vannforekomstene i betydelige mengder.
+I denne forskrift menes med
+
+1. *Vannforekomst:* En avgrenset og betydelig mengde av overflatevann, som for eksempel innsjø, magasin, elv, bekk, kanal, fjord eller kyststrekning, eller deler av disse, eller en avgrenset mengde grunnvann innenfor en eller flere akviferer.
+2. *Overflatevann:* Kystvann, brakkvann og ferskvann, unntatt grunnvann.
+3. *Grunnvann:* Vann under jordens overflate i den mettede sonen i grunnen.
+4. *Akvifer:* En eller flere geologiske formasjoner med tilstrekkelig porøsitet og permeabilitet til at en betydelig mengde grunnvann kan strømme gjennom eller utvinnes.
+5. *Brakkvann:* Vann i nærheten av elvemunninger der ferskvann og saltholdig sjøvann blandes slik at vannet blir noe saltholdig, men for øvrig bærer vesentlig preg av ferskvannstilførselen.
+6. *Kystvann:* Saltvann fra en nautisk mil utenfor grunnlinjen og inntil land eller ytre grense for brakkvann, samt ut til den ytre grensen for territorialfarvannet med hensyn til kjemisk tilstand.
+7. *Sterkt modifisert vannforekomst*: En forekomst av overflatevann som på grunn av fysiske endringer som følge av menneskelig virksomhet i vesentlig grad har endret karakter, og som er utpekt som sterkt modifisert i medhold av [§ 5](forskrift/2006-12-15-1446/§5).
+8. *Kunstig vannforekomst:* En forekomst av overflatevann som er skapt ved menneskelig virksomhet.
+9. *Drikkevann:* Vann som er definert som drikkevann i forskrift om vannforsyning og drikkevann (drikkevannsforskriften).
+10. *Økologisk tilstand:* Uttrykk for tilstanden når det gjelder sammensetning og virkemåte for økosystemet i en forekomst av overflatevann, basert på klassifiseringen i vedlegg V.
+11. *Økologisk potensial:* Uttrykk for mulig økologisk tilstand i en sterkt modifisert eller kunstig forekomst av overflatevann, basert på klassifiseringen i vedlegg V.
+12. *Kjemisk tilstand:* Uttrykk for den kjemiske tilstanden i en forekomst av overflatevann eller grunnvann, i samsvar med klassifiseringen i vedlegg V og med miljøkvalitetsstandardene i vedlegg VIII A og B.
+13. *Kvantitativ tilstand:* Uttrykk for i hvilken grad en forekomst av grunnvann er påvirket av direkte eller indirekte uttak.
+14. *Prioriterte stoffer:* Miljøgifter som er identifisert som prioriterte av EU på listen i vedlegg VIII A.
+15. *Prioriterte farlige stoffer:* Miljøgifter som er identifisert som prioriterte farlige av EU på listen i vedlegg VIII A.
+16. *Nedbørfelt:* Landareal med avrenning til ett bestemt utløpspunkt i elv, innsjø, fjord eller i hav.
+17. *Vannregion*: Ett eller flere tilstøtende nedbørfelt med tilhørende grunnvann og kystvann som til sammen utgjør en hensiktsmessig forvaltningsenhet slik det framgår av [§ 20](forskrift/2006-12-15-1446/§20).
+18. *Vannområde*: Avgrenset del av en vannregion som består av ett enkelt, deler av eller flere nedbørfelt med tilhørende grunnvann og eventuelt kystvann, jf. [§ 23](forskrift/2006-12-15-1446/§23).
+19. *Beskyttet område*: Områder som er angitt som beskyttet i samsvar med [§ 16](forskrift/2006-12-15-1446/§16) og vedlegg IV og som inngår i registeret opprettet i henhold til [§ 16](forskrift/2006-12-15-1446/§16).
+20. *Hydromorfologiske egenskaper:* Vannmengde og variasjon i vannføring og vannstand, samt bunnforhold og vannforekomstens fysiske beskaffenhet.
+21. *Vannregionmyndighet:* Koordinerende myndighet utpekt som ansvarlig for en eller flere vannregioner slik det fremgår av [§ 20](forskrift/2006-12-15-1446/§20).
+22. *Terskelverdi:* En på forhånd fastsatt verdi for konsentrasjon i grunnvannsforekomster av stoffer angitt i vedlegg IX som ved målt overskridelse innebærer at grunnvannsforekomsten ikke har god kjemisk tilstand, jf. vedlegg V 2.3.2.
+23. *Vendepunktverdi:* En på forhånd fastsatt verdi for konsentrasjon i grunnvannsforekomster av stoffer angitt i vedlegg IX som ved målt overskridelse innebærer at det skal vurderes om grunnvannsforekomsten står i fare for å miste god kjemisk tilstand, jf. vedlegg V 2.4.4.
+24. *Matriks:* Ferskvann, kystvann, sediment eller organismer.
+25. *Planperiode:* Periode på seks år som vannforvaltningsplan gjelder for. Første planperiode er 1. januar 2016–31. desember 2021, andre planperiode er 1. januar 2022–31. desember 2027, tredje planperiode er 1. januar 2028–31. desember 2033. Planperiodene fortsetter deretter på samme vis hvert sjette år.
+26. *Vann-Nett:* Database som inneholder informasjon om vannforekomstene.
+27. *Vannregionspesifikke stoffer:* stoffer, utover de prioriterte stoffer, som er påvist tilført vannforekomstene i betydelige mengder.
 
 > Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [31 aug 2010 nr. 1220](forskrift/2010-08-31-1220), [27 mars 2012 nr. 321](forskrift/2012-03-27-321), [25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -63,7 +91,14 @@ Tilstanden i kunstige og sterkt modifiserte vannforekomster skal beskyttes mot f
 
 Miljøkvalitetsstandardene i vedlegg VIII gjelder ikke dersom det kan dokumenteres at overskridelser av miljøkvalitetsstandardene skyldes langtransporterte forurensninger.
 
-En forekomst av overflatevann kan utpekes som kunstig eller sterkt modifisert dersom de endringer i vannforekomstens hydromorfologiske egenskaper som er nødvendige for å oppnå god økologisk tilstand, ville ha vesentlige negative innvirkninger påmiljøet generelt,skipsfart, havneanlegg eller rekreasjon,aktiviteter som krever magasinering, overføring og fraføring av vann, for eksempel drikkevannsforsyning, elektrisitetsproduksjon eller vanning,flomvern, drenering, ellerannen tilsvarende viktig bærekraftig virksomhet, ogsamfunnsnyttige formålene den kunstige eller sterkt modifiserte vannforekomsten tjener, på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet kan oppnås med andre midler som miljømessig er vesentlig bedre.
+En forekomst av overflatevann kan utpekes som kunstig eller sterkt modifisert dersom de endringer i vannforekomstens hydromorfologiske egenskaper som er nødvendige for å oppnå god økologisk tilstand, ville ha vesentlige negative innvirkninger på
+
+1. miljøet generelt,
+2. skipsfart, havneanlegg eller rekreasjon,
+3. aktiviteter som krever magasinering, overføring og fraføring av vann, for eksempel drikkevannsforsyning, elektrisitetsproduksjon eller vanning,
+4. flomvern, drenering, eller
+5. annen tilsvarende viktig bærekraftig virksomhet, og
+6. samfunnsnyttige formålene den kunstige eller sterkt modifiserte vannforekomsten tjener, på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet kan oppnås med andre midler som miljømessig er vesentlig bedre.
 
 En slik utpeking, og begrunnelsen for den, skal fremgå av vannforvaltningsplanen, og revurderes hvert sjette år.
 
@@ -93,7 +128,11 @@ God kjemisk tilstand for stoff nr. 2, 5, 15, 20, 22, 23 og 28 i vedlegg VIII del
 
 ### § 9. Utsatte frister for å nå miljømålene
 
-Fristene i [§ 8](forskrift/2006-12-15-1446/§8) første og annet ledd kan forlenges med inntil 6 år for å sikre en gradvis måloppnåelse, forutsatt at det ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten og minst ett av følgende forhold gjør seg gjeldende:forbedringene kan av tekniske årsaker ikke gjennomføres innen fristen,det ville være uforholdsmessig kostnadskrevende å gjennomføre forbedringen innen fristen, ellerdet foreligger slike naturforhold at en forbedring av vannforekomsten innen fristen ikke lar seg gjennomføre.
+Fristene i [§ 8](forskrift/2006-12-15-1446/§8) første og annet ledd kan forlenges med inntil 6 år for å sikre en gradvis måloppnåelse, forutsatt at det ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten og minst ett av følgende forhold gjør seg gjeldende:
+
+1. forbedringene kan av tekniske årsaker ikke gjennomføres innen fristen,
+2. det ville være uforholdsmessig kostnadskrevende å gjennomføre forbedringen innen fristen, eller
+3. det foreligger slike naturforhold at en forbedring av vannforekomsten innen fristen ikke lar seg gjennomføre.
 
 Ytterligere fristforlengelse ut over det som følger av første ledd, kan bare gis dersom det foreligger slike naturforhold at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 ikke kan oppfylles innenfor denne perioden.
 
@@ -103,7 +142,11 @@ Fastsettelsen av utsatte frister og begrunnelsen for det, samt et sammendrag av 
 
 ### § 10. Mindre strenge miljømål
 
-Når en vannforekomst er så påvirket av menneskelig virksomhet at det er umulig eller uforholdsmessig kostnadskrevende å nå målene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, kan det fastsettes mindre strenge miljømål dersom følgende vilkår er oppfylt:de miljømessige og samfunnsøkonomiske behov som denne menneskelige virksomheten tjener, ikke uten uforholdsmessige kostnader kan oppfylles på andre måter som er miljømessig vesentlig gunstigere,det sikres en best mulig økologisk og kjemisk tilstand for overflatevann og minst mulig avvik fra god kvantitativ tilstand for grunnvann gitt påvirkningene som er til stede, og som ikke med rimelighet kan unngås sett hen til typen av menneskelig virksomhet eller forurensning, ogdet ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten.
+Når en vannforekomst er så påvirket av menneskelig virksomhet at det er umulig eller uforholdsmessig kostnadskrevende å nå målene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, kan det fastsettes mindre strenge miljømål dersom følgende vilkår er oppfylt:
+
+1. de miljømessige og samfunnsøkonomiske behov som denne menneskelige virksomheten tjener, ikke uten uforholdsmessige kostnader kan oppfylles på andre måter som er miljømessig vesentlig gunstigere,
+2. det sikres en best mulig økologisk og kjemisk tilstand for overflatevann og minst mulig avvik fra god kvantitativ tilstand for grunnvann gitt påvirkningene som er til stede, og som ikke med rimelighet kan unngås sett hen til typen av menneskelig virksomhet eller forurensning, og
+3. det ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten.
 
 Fastsettelsen av mindre strenge miljømål og begrunnelsen for den skal fremgå av vannforvaltningsplanen, og skal revurderes hvert sjette år.
 
@@ -111,7 +154,12 @@ Fastsettelsen av mindre strenge miljømål og begrunnelsen for den skal fremgå 
 
 ### § 11. Midlertidig forringelse som følge av uforutsette omstendigheter
 
-Midlertidig forringelse av tilstanden i en vannforekomst er ikke i strid med miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, dersom forringelsen skyldes ekstraordinære eller uforutsette naturlige omstendigheter, slik som ekstrem flom og langvarig tørke, eller ulykke som ikke med rimelighet kunne forutses, forutsatt at følgende vilkår er oppfylt:alle praktisk gjennomførbare tiltak treffes for å forhindre ytterligere forringelse av tilstanden og for å unngå forringelse av tilstanden i andre vannforekomster enn de som er berørt,vannforvaltningsplanen må redegjøre for de forhold som gjør at omstendighetene er ekstraordinære eller at de ikke med rimelighet kunne forutses,tiltakene som skal treffes i slike tilfeller skal inngå i tiltaksprogrammet, og skal ikke begrense mulighetene for å gjenopprette tilstanden så snart den uforutsette situasjonen er over, ogtilstanden i vannforekomsten vurderes årlig med sikte på å vurdere alle praktisk gjennomførbare tiltak for å gjenopprette tilstanden i vannforekomsten så raskt som mulig.
+Midlertidig forringelse av tilstanden i en vannforekomst er ikke i strid med miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, dersom forringelsen skyldes ekstraordinære eller uforutsette naturlige omstendigheter, slik som ekstrem flom og langvarig tørke, eller ulykke som ikke med rimelighet kunne forutses, forutsatt at følgende vilkår er oppfylt:
+
+1. alle praktisk gjennomførbare tiltak treffes for å forhindre ytterligere forringelse av tilstanden og for å unngå forringelse av tilstanden i andre vannforekomster enn de som er berørt,
+2. vannforvaltningsplanen må redegjøre for de forhold som gjør at omstendighetene er ekstraordinære eller at de ikke med rimelighet kunne forutses,
+3. tiltakene som skal treffes i slike tilfeller skal inngå i tiltaksprogrammet, og skal ikke begrense mulighetene for å gjenopprette tilstanden så snart den uforutsette situasjonen er over, og
+4. tilstanden i vannforekomsten vurderes årlig med sikte på å vurdere alle praktisk gjennomførbare tiltak for å gjenopprette tilstanden i vannforekomsten så raskt som mulig.
 
 Ved oppdatering av vannforvaltningsplanen skal det tas inn en beskrivelse av virkningene av de uforutsette omstendighetene på vannforekomsten og de tiltak som er gjennomført eller planlagt gjennomført.
 
@@ -119,9 +167,16 @@ Ved oppdatering av vannforvaltningsplanen skal det tas inn en beskrivelse av vir
 
 ### § 12. Ny aktivitet eller nye inngrep
 
-Ny aktivitet eller nye inngrep i en vannforekomst kan gjennomføres selv om dette medfører at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 ikke nås eller at tilstanden forringes, dersom dette skyldes:nye endringer i de fysiske egenskapene til en overflatevannforekomst eller endret nivå i en grunnvannsforekomst, ellerny bærekraftig aktivitet som medfører forringelse i miljøtilstanden i en vannforekomst fra svært god tilstand til god tilstand.
+Ny aktivitet eller nye inngrep i en vannforekomst kan gjennomføres selv om dette medfører at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 ikke nås eller at tilstanden forringes, dersom dette skyldes:
 
-I tillegg må følgende vilkår være oppfylt:alle praktisk gjennomførbare tiltak settes inn for å begrense negativ utvikling i vannforekomstens tilstand,samfunnsnytten av de nye inngrepene eller aktivitetene skal være større enn tapet av miljøkvalitet, oghensikten med de nye inngrepene eller aktivitetene kan på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet oppnås med andre midler som miljømessig er vesentlig bedre.
+1. nye endringer i de fysiske egenskapene til en overflatevannforekomst eller endret nivå i en grunnvannsforekomst, eller
+2. ny bærekraftig aktivitet som medfører forringelse i miljøtilstanden i en vannforekomst fra svært god tilstand til god tilstand.
+
+I tillegg må følgende vilkår være oppfylt:
+
+1. alle praktisk gjennomførbare tiltak settes inn for å begrense negativ utvikling i vannforekomstens tilstand,
+2. samfunnsnytten av de nye inngrepene eller aktivitetene skal være større enn tapet av miljøkvalitet, og
+3. hensikten med de nye inngrepene eller aktivitetene kan på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet oppnås med andre midler som miljømessig er vesentlig bedre.
 
 Der ny aktivitet eller nye inngrep er gjennomført i planperioden, skal begrunnelsen for dette gjengis i oppdatert vannforvaltningsplan. Dersom det er gitt tillatelse til nye aktiviteter eller nye inngrep, skal dette også fremgå av vannforvaltningsplanen.
 
@@ -145,7 +200,11 @@ Miljømålene i gjeldende plan, i tillegg til andre relevante data om vannforeko
 
 ### § 15. Karakterisering, vurdering av miljøpåvirkning og økonomisk analyse
 
-Følgende analyse og vurdering skal revurderes og om nødvendig oppdateres hvert sjette år, og foreligge senest to år før påfølgende planperiode:vannforekomstenes egenskaper skal være beskrevet i samsvar med vedlegg II,miljøeffekten av menneskeskapt påvirkning for vannforekomstene skal være vurdert, ogen økonomisk analyse av vannbruk skal være utarbeidet i samsvar med vedlegg III.
+Følgende analyse og vurdering skal revurderes og om nødvendig oppdateres hvert sjette år, og foreligge senest to år før påfølgende planperiode:
+
+1. vannforekomstenes egenskaper skal være beskrevet i samsvar med vedlegg II,
+2. miljøeffekten av menneskeskapt påvirkning for vannforekomstene skal være vurdert, og
+3. en økonomisk analyse av vannbruk skal være utarbeidet i samsvar med vedlegg III.
 
 Statsforvalteren som miljøfaglig ansvarlig og rådgiver har ansvaret for å oppdatere kunnskapsgrunnlaget i Vann-Nett, i samråd med berørte sektormyndigheter, fylkeskommuner og kommuner.
 
@@ -171,7 +230,11 @@ Vannforekomster identifisert som drikkevannskilder etter denne bestemmelsen skal
 
 ### § 18. Overvåkningsprogram
 
-Det skal være etablert tilstrekkelige regionale programmer for å sikre en helhetlig overvåkning av tilstanden i vannregionene. Disse skal revurderes og om nødvendig oppdateres hvert sjette år, i samsvar med kravene i vedlegg V. Overvåkningsprogrammene skal:For overflatevann omfatte økologisk og kjemisk tilstand og økologisk potensial, og i tillegg vannføring og/eller vannstand, i den grad det er relevant for økologisk og kjemisk tilstand og økologisk potensial.For grunnvann omfatte kjemisk og kvantitativ tilstand.For beskyttede områder suppleres med krav fra regelverket som hvert enkelt område er opprettet i henhold til.
+Det skal være etablert tilstrekkelige regionale programmer for å sikre en helhetlig overvåkning av tilstanden i vannregionene. Disse skal revurderes og om nødvendig oppdateres hvert sjette år, i samsvar med kravene i vedlegg V. Overvåkningsprogrammene skal:
+
+1. For overflatevann omfatte økologisk og kjemisk tilstand og økologisk potensial, og i tillegg vannføring og/eller vannstand, i den grad det er relevant for økologisk og kjemisk tilstand og økologisk potensial.
+2. For grunnvann omfatte kjemisk og kvantitativ tilstand.
+3. For beskyttede områder suppleres med krav fra regelverket som hvert enkelt område er opprettet i henhold til.
 
 Statsforvalteren som miljøfaglig ansvarlig og rådgiver har ansvaret for å koordinere overvåkning og for registrering av overvåkingsdata i Vann-Nett, i samråd med berørte sektormyndigheter, fylkeskommuner og kommuner.
 
@@ -241,7 +304,16 @@ Tiltaksprogrammet skal oppsummere alle relevante tiltak for å oppfylle miljøm�
 
 Tiltaksprogrammet skal dessuten omfatte alle relevante typer av tiltak som i tillegg foreslås for å oppfylle miljømålene, herunder virkemidler angitt i vedlegg VI del B om supplerende tiltak.
 
-Tiltaksprogrammet skal blant annet omfatte:tiltak til beskyttelse og forbedring av tilstanden i vannforekomstene,tiltak som skal bidra til en effektiv og bærekraftig vannforvaltning, der det tas hensyn til analysen som er gjennomført i samsvar med [§ 15](forskrift/2006-12-15-1446/§15),tiltak for å ivareta behov for og krav til drikkevann og annen vannforsyning, beskytte drikkevannskilder og redusere behovet for vannbehandling til drikkevannsformål,tiltak for å sikre gradvis reduksjon og om relevant opphør av utslipp og annen tilførsel av prioriterte stoffer,kontroll med uttak av ferskvann og grunnvann og magasinering av overflatevann,kontroll med, forebygging av, og om relevant, forbud mot utslipp fra punktkilder og diffuse kilder som kan forårsake forurensning i vann,tiltak for å sikre at de hydromorfologiske forholdene oppfyller miljømålene,tiltak for å sikre at terskelverdier for grunnvannsforekomster ikke er overskredet, samt forebyggende tiltak for å snu vesentlige og vedvarende økende trender ved en eventuell overskredet vendepunktverdi, jf. vedlegg V 2.4.4. Naturlig forekommende høye konsentrasjoner eller midlertidige endringer i konsentrasjoner medfører ikke krav til særskilte tiltak.
+Tiltaksprogrammet skal blant annet omfatte:
+
+1. tiltak til beskyttelse og forbedring av tilstanden i vannforekomstene,
+2. tiltak som skal bidra til en effektiv og bærekraftig vannforvaltning, der det tas hensyn til analysen som er gjennomført i samsvar med [§ 15](forskrift/2006-12-15-1446/§15),
+3. tiltak for å ivareta behov for og krav til drikkevann og annen vannforsyning, beskytte drikkevannskilder og redusere behovet for vannbehandling til drikkevannsformål,
+4. tiltak for å sikre gradvis reduksjon og om relevant opphør av utslipp og annen tilførsel av prioriterte stoffer,
+5. kontroll med uttak av ferskvann og grunnvann og magasinering av overflatevann,
+6. kontroll med, forebygging av, og om relevant, forbud mot utslipp fra punktkilder og diffuse kilder som kan forårsake forurensning i vann,
+7. tiltak for å sikre at de hydromorfologiske forholdene oppfyller miljømålene,
+8. tiltak for å sikre at terskelverdier for grunnvannsforekomster ikke er overskredet, samt forebyggende tiltak for å snu vesentlige og vedvarende økende trender ved en eventuell overskredet vendepunktverdi, jf. vedlegg V 2.4.4. Naturlig forekommende høye konsentrasjoner eller midlertidige endringer i konsentrasjoner medfører ikke krav til særskilte tiltak.
 
 Det skal foreligge overslag over kostnadene ved og angivelse av det rettslige grunnlaget for å gjennomføre de tiltak som inngår i tiltaksprogrammet.
 
@@ -257,7 +329,14 @@ Tiltakene skal være operative senest tre år etter at tiltaksprogrammet er fast
 
 Vannregionmyndigheten skal i samarbeid med vannregionutvalget utarbeide utkast til oppdatert vannforvaltningsplan for den enkelte vannregion.
 
-Vannforvaltningsplanen skal revurderes og om nødvendig oppdateres hvert sjette år i samsvar med vedlegg VII og skal blant annet:angi miljømål for vannforekomstene,sammenfatte karakteristika i vannregionen,gi en analyse av menneskeskapte påvirkninger i vannregionen,gi en oversikt over beskyttede områder,gjøre rede for overvåkning og resultatene av denne,sammenfatte tiltaksprogrammet.
+Vannforvaltningsplanen skal revurderes og om nødvendig oppdateres hvert sjette år i samsvar med vedlegg VII og skal blant annet:
+
+1. angi miljømål for vannforekomstene,
+2. sammenfatte karakteristika i vannregionen,
+3. gi en analyse av menneskeskapte påvirkninger i vannregionen,
+4. gi en oversikt over beskyttede områder,
+5. gjøre rede for overvåkning og resultatene av denne,
+6. sammenfatte tiltaksprogrammet.
 
 Vannforvaltningsplanen kan suppleres med mer detaljerte planer utarbeidet for deler av vannregionen, sektorer, påvirkningstyper, vanntyper eller vannforekomster.
 
@@ -275,7 +354,10 @@ Vannregionmyndigheten skal i samarbeid med vannregionutvalget tilrettelegge for 
 
 ### § 28. Høring
 
-Vannregionmyndigheten skal sørge for at:planprogram for utarbeidelse av vannforvaltningsplan og foreløpig oversikt over hovedutfordringer i vannregionen sendes på offentlig høring senest tre år før ny planperiode begynner.utkast til oppdatert vannforvaltningsplan med tilhørende tiltaksprogram sendes på offentlig høring senest 18 måneder før ny planperiode begynner.
+Vannregionmyndigheten skal sørge for at:
+
+1. planprogram for utarbeidelse av vannforvaltningsplan og foreløpig oversikt over hovedutfordringer i vannregionen sendes på offentlig høring senest tre år før ny planperiode begynner.
+2. utkast til oppdatert vannforvaltningsplan med tilhørende tiltaksprogram sendes på offentlig høring senest 18 måneder før ny planperiode begynner.
 
 Høringsperiodene skal være minst seks måneder.
 
@@ -384,7 +466,13 @@ Figur 2
 
 ### 1.1 Karakterisering av typer av forekomster av overflatevann
 
-Beliggenheten og grensene til forekomster av overflatevann skal identifiseres og det skal foretas en første karakterisering av alle slike forekomster i samsvar med metodikken nedenfor. Forekomster av overflatevann kan grupperes sammen med henblikk på denne første karakteriseringen.Forekomster av overflatevann innen vannregionen skal plasseres i en av følgende kategorier av overflatevann: Elv, innsjøer, brakkvann eller kystvann, eller som kunstige vannforekomster eller sterkt modifiserte vannforekomster.For hver kategori av overflatevann skal de relevante forekomster av overflatevann innen vannregionen inndeles etter type.Overflatevannforekomstene innen hver vannregion inndeles i typer ved hjelp av verdiene for de obligatoriske faktorene og for de valgfrie faktorer, eller kombinasjoner av faktorer, som kreves for å sikre at typespesifikke biologiske referanseforhold kan utledes med pålitelighet.For kunstige og sterkt modifiserte forekomster av overflatevann skal inndelingen foretas i samsvar med faktorene til den kategorien av overflatevann som ligner mest på den aktuelle sterkt modifiserte eller kunstige vannforekomsten.Økoregioner og den geografiske fordelingen til vanntypene skal foreligge i Vann-Nett som kart (i et GIS-format).
+Beliggenheten og grensene til forekomster av overflatevann skal identifiseres og det skal foretas en første karakterisering av alle slike forekomster i samsvar med metodikken nedenfor. Forekomster av overflatevann kan grupperes sammen med henblikk på denne første karakteriseringen.
+
+1. Forekomster av overflatevann innen vannregionen skal plasseres i en av følgende kategorier av overflatevann: Elv, innsjøer, brakkvann eller kystvann, eller som kunstige vannforekomster eller sterkt modifiserte vannforekomster.
+2. For hver kategori av overflatevann skal de relevante forekomster av overflatevann innen vannregionen inndeles etter type.
+3. Overflatevannforekomstene innen hver vannregion inndeles i typer ved hjelp av verdiene for de obligatoriske faktorene og for de valgfrie faktorer, eller kombinasjoner av faktorer, som kreves for å sikre at typespesifikke biologiske referanseforhold kan utledes med pålitelighet.
+4. For kunstige og sterkt modifiserte forekomster av overflatevann skal inndelingen foretas i samsvar med faktorene til den kategorien av overflatevann som ligner mest på den aktuelle sterkt modifiserte eller kunstige vannforekomsten.
+5. Økoregioner og den geografiske fordelingen til vanntypene skal foreligge i Vann-Nett som kart (i et GIS-format).
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -488,9 +576,17 @@ Beliggenheten og grensene til forekomster av overflatevann skal identifiseres og
 
 Opplysninger om type og omfang av vesentlige menneskeskapte belastninger som forekomster av overflatevann i hver vannregion kan bli utsatt for skal samles inn og registreres og oppbevares i Vann-Nett. Dette gjelder særlig følgende opplysninger:
 
-Vurdering og identifikasjon av betydelige punktkildeforurensning fra tettbebyggelse-, industri- og landbruksanlegg og andre anlegg og virksomheter, basert bl.a. på opplysninger innsamlet i henhold tilforskrift om begrensning av forurensning kapittel 15 B om rensing av avløpsvatn, vedleggets artikkel 15 og 17,[forskrift om begrensning av forurensning § 36-9](forskrift/2004-06-01-931/§36-9) og [§ 36-13](forskrift/2004-06-01-931/§36-13).
+Vurdering og identifikasjon av betydelige punktkildeforurensning fra tettbebyggelse-, industri- og landbruksanlegg og andre anlegg og virksomheter, basert bl.a. på opplysninger innsamlet i henhold til
 
-Vurdering og identifikasjon av vesentlig forurensning fra diffuse kilder fra tettbebyggelse-, industri- og landbruksanlegg og andre anlegg og virksomheter, basert bl.a. på opplysninger innsamlet i henhold tilforskrift om gjødselvarer mv. av organisk opphav del III,forskrift om gjødselplanlegging,forskrift om plantevernmidler,forskrift om godkjenning av biocider og biocidprodukter.
+1. forskrift om begrensning av forurensning kapittel 15 B om rensing av avløpsvatn, vedleggets artikkel 15 og 17,
+2. [forskrift om begrensning av forurensning § 36-9](forskrift/2004-06-01-931/§36-9) og [§ 36-13](forskrift/2004-06-01-931/§36-13).
+
+Vurdering og identifikasjon av vesentlig forurensning fra diffuse kilder fra tettbebyggelse-, industri- og landbruksanlegg og andre anlegg og virksomheter, basert bl.a. på opplysninger innsamlet i henhold til
+
+1. forskrift om gjødselvarer mv. av organisk opphav del III,
+2. forskrift om gjødselplanlegging,
+3. forskrift om plantevernmidler,
+4. forskrift om godkjenning av biocider og biocidprodukter.
 
 Vurdering og identifikasjon av betydelige uttak av vann til tettbebyggelse-, industri- og landbruksformål og andre formål, herunder årstidsvariasjoner og samlet årlig etterspørsel, og tap av vann i distribusjonssystemer.
 
@@ -518,19 +614,53 @@ Vannforekomster som vurderes til ikke å kunne nå miljømålene, skal eventuelt
 
 ### 2.1 Første karakterisering
 
-Det skal foretas en første karakterisering av alle grunnvannsforekomster for å vurdere bruken og i hvilken grad de er i risikosonen for ikke å kunne nå miljømålene for hver grunnvannsforekomst. Grunnvannsforekomster kan grupperes sammen med henblikk på den første karakteriseringen. I denne analysen kan det benyttes eksisterende hydrologiske, geologiske og pedologiske data samt data om arealbruk, utslipp, uttak m.m., men følgende skal identifiseres:grunnvannsforekomsten(e)s beliggenhet og grenser,belastningen som grunnvannsforekomsten(e) kan bli utsatt for, herunderdiffuse forurensningskilder,punktkilder for forurensning,uttak,kunstig infiltrasjon,karakteristikk av de overliggende lagene i nedbørfeltet som grunnvannet får vann fra,grunnvannsforekomster som økosystemer i overflatevann, eller terrestriske økosystemer, er direkte avhengig av.
+Det skal foretas en første karakterisering av alle grunnvannsforekomster for å vurdere bruken og i hvilken grad de er i risikosonen for ikke å kunne nå miljømålene for hver grunnvannsforekomst. Grunnvannsforekomster kan grupperes sammen med henblikk på den første karakteriseringen. I denne analysen kan det benyttes eksisterende hydrologiske, geologiske og pedologiske data samt data om arealbruk, utslipp, uttak m.m., men følgende skal identifiseres:
+
+- grunnvannsforekomsten(e)s beliggenhet og grenser,
+- belastningen som grunnvannsforekomsten(e) kan bli utsatt for, herunder
+
+  - diffuse forurensningskilder,
+  - punktkilder for forurensning,
+  - uttak,
+  - kunstig infiltrasjon,
+- karakteristikk av de overliggende lagene i nedbørfeltet som grunnvannet får vann fra,
+- grunnvannsforekomster som økosystemer i overflatevann, eller terrestriske økosystemer, er direkte avhengig av.
 
 ### 2.2 Ytterligere karakterisering
 
-Etter denne første karakteriseringen skal det foretas en ytterligere karakterisering av grunnvannsforekomster eller grupper av grunnvannsforekomster som anses å være utsatt, slik at det kan foretas en mer presis vurdering av risikoens betydning og bestemmes hvilke tiltak som må tas med i tiltaksprogrammet. Denne beskrivelsen skal dermed omfatte relevante opplysninger om virkningen av menneskelig virksomhet og eventuelt opplysninger omgrunnvannsforekomstens geologiske egenskaper, herunder utbredelsen og typen av geologiske enheter,grunnvannsforekomstens hydrogeologiske egenskaper, herunder hydraulisk ledningsevne, porøsitet og type av grunnvannsforekomst,karakteristikk av overliggende avsetninger og jordsmonn i nedbørfeltet som grunnvannsforekomsten mates fra, herunder tykkelse, porøsitet, hydraulisk ledningsevne og absorberende egenskaper ved avsetninger og jordsmonn,stratigrafisk karakteristikk (lagdelingsegenskaper) av grunnvannet i grunnvannsforekomsten,en oversikt over tilknyttede overflatesystemer, herunder terrestriske økosystemer og forekomster av overflatevann som grunnvannsforekomsten er dynamisk forbundet med,overslag over retninger og mengden av vannutveksling mellom grunnvannsforekomsten og tilknyttede overflatesystemer,tilstrekkelige data til å beregne langsiktige gjennomsnittlig årlig nydannelse av grunnvann,beskrivelse av grunnvannets kjemiske sammensetning, herunder angivelse av bidrag fra menneskelig virksomhet. Det kan brukes typologi for grunnvannskarakterisering når naturlig bakgrunnsnivå for disse grunnvannsforekomstene bestemmes.
+Etter denne første karakteriseringen skal det foretas en ytterligere karakterisering av grunnvannsforekomster eller grupper av grunnvannsforekomster som anses å være utsatt, slik at det kan foretas en mer presis vurdering av risikoens betydning og bestemmes hvilke tiltak som må tas med i tiltaksprogrammet. Denne beskrivelsen skal dermed omfatte relevante opplysninger om virkningen av menneskelig virksomhet og eventuelt opplysninger om
+
+- grunnvannsforekomstens geologiske egenskaper, herunder utbredelsen og typen av geologiske enheter,
+- grunnvannsforekomstens hydrogeologiske egenskaper, herunder hydraulisk ledningsevne, porøsitet og type av grunnvannsforekomst,
+- karakteristikk av overliggende avsetninger og jordsmonn i nedbørfeltet som grunnvannsforekomsten mates fra, herunder tykkelse, porøsitet, hydraulisk ledningsevne og absorberende egenskaper ved avsetninger og jordsmonn,
+- stratigrafisk karakteristikk (lagdelingsegenskaper) av grunnvannet i grunnvannsforekomsten,
+- en oversikt over tilknyttede overflatesystemer, herunder terrestriske økosystemer og forekomster av overflatevann som grunnvannsforekomsten er dynamisk forbundet med,
+- overslag over retninger og mengden av vannutveksling mellom grunnvannsforekomsten og tilknyttede overflatesystemer,
+- tilstrekkelige data til å beregne langsiktige gjennomsnittlig årlig nydannelse av grunnvann,
+- beskrivelse av grunnvannets kjemiske sammensetning, herunder angivelse av bidrag fra menneskelig virksomhet. Det kan brukes typologi for grunnvannskarakterisering når naturlig bakgrunnsnivå for disse grunnvannsforekomstene bestemmes.
 
 ### 2.3 Vurdering av virkningene av menneskelig virksomhet på grunnvannet
 
-For grunnvannsforekomster som krysser grensen mellom to eller flere land, eller som på grunnlag av den første karakteriseringen i henhold til nr. 2.1 anses for å stå i fare for ikke å kunne nå miljømålene fastsatt for hver vannforekomst skal følgende opplysninger, der det er relevant, innsamles og oppbevares for hver grunnvannsforekomst:beliggenheten til de steder i grunnvannsforekomsten som brukes til uttak av vann, unntattsteder for uttak av vann som gir under 10 m3 i gjennomsnitt per dag,steder for uttak av drikkevann som gir under 10 m3 i gjennomsnitt per dag eller forsyner færre enn 50 personer,gjennomsnittlig uttak per år fra slike steder,den kjemiske sammensetningen av vann som tas ut av grunnvannsforekomsten,lokalisering av steder i grunnvannsforekomsten hvor det slippes ut vann,utslippsmengden ved disse stedene,den kjemiske sammensetningen i utslipp til grunnvannsforekomsten, ogarealbruk i nedbørfeltet eller -feltene som grunnvannsforekomsten mates fra, herunder forurensende stoffer og menneskeskapte endringer i selvmatingsegenskapene, slik som endring i tilførslene av regnvann og avrenning som følge av tette dekker, kunstig infiltrasjon, oppdemming eller drenering.
+For grunnvannsforekomster som krysser grensen mellom to eller flere land, eller som på grunnlag av den første karakteriseringen i henhold til nr. 2.1 anses for å stå i fare for ikke å kunne nå miljømålene fastsatt for hver vannforekomst skal følgende opplysninger, der det er relevant, innsamles og oppbevares for hver grunnvannsforekomst:
+
+1. beliggenheten til de steder i grunnvannsforekomsten som brukes til uttak av vann, unntatt
+
+   - steder for uttak av vann som gir under 10 m3 i gjennomsnitt per dag,
+   - steder for uttak av drikkevann som gir under 10 m3 i gjennomsnitt per dag eller forsyner færre enn 50 personer,
+2. gjennomsnittlig uttak per år fra slike steder,
+3. den kjemiske sammensetningen av vann som tas ut av grunnvannsforekomsten,
+4. lokalisering av steder i grunnvannsforekomsten hvor det slippes ut vann,
+5. utslippsmengden ved disse stedene,
+6. den kjemiske sammensetningen i utslipp til grunnvannsforekomsten, og
+7. arealbruk i nedbørfeltet eller -feltene som grunnvannsforekomsten mates fra, herunder forurensende stoffer og menneskeskapte endringer i selvmatingsegenskapene, slik som endring i tilførslene av regnvann og avrenning som følge av tette dekker, kunstig infiltrasjon, oppdemming eller drenering.
 
 ### 2.4 Vurdering av virkningene av endringer i grunnvannsstand
 
-Det kan fastsettes lavere miljømål for enkelte grunnvannsforekomster ut fra en vurdering av vannforekomstens innvirkning påoverflatevann og tilhørende terrestriske økosystemer,vannregulering, flomvern og drenering,menneskeskapt utvikling.
+Det kan fastsettes lavere miljømål for enkelte grunnvannsforekomster ut fra en vurdering av vannforekomstens innvirkning på
+
+1. overflatevann og tilhørende terrestriske økosystemer,
+2. vannregulering, flomvern og drenering,
+3. menneskeskapt utvikling.
 
 ### 2.5 Vurdering av virkningene av forurensning på grunnvannskvaliteten
 
@@ -540,13 +670,25 @@ Det kan for grunnvannsforekomster fastsettes mindre strenge miljømål, jf. [§ 
 
 ## Vedlegg III. Økonomisk analyse
 
-Den økonomiske analysen skal bygge på solid dokumentasjon med nødvendige opplysninger. Hensyn skal tas til kostnadene forbundet med innsamling av relevante data slik at det kan foretas:relevante beregninger som er nødvendige for å ta hensyn til prinsippet om kostnadsdekning for vanntjenester, idet det tas hensyn til langsiktige prognoser for tilbud og etterspørsel etter vann i vannregionen og, om nødvendigoverslag over mengde, pris og kostnader forbundet med vanntjenester, ogoverslag over relevante investeringer fremover,vurdering av den mest kostnadseffektive kombinasjonen av tiltak med hensyn til vannbruk som skal inngå i tiltaksprogrammet på grunnlag av overslag over potensielle kostnader ved slike tiltak.
+Den økonomiske analysen skal bygge på solid dokumentasjon med nødvendige opplysninger. Hensyn skal tas til kostnadene forbundet med innsamling av relevante data slik at det kan foretas:
+
+1. relevante beregninger som er nødvendige for å ta hensyn til prinsippet om kostnadsdekning for vanntjenester, idet det tas hensyn til langsiktige prognoser for tilbud og etterspørsel etter vann i vannregionen og, om nødvendig
+
+   - overslag over mengde, pris og kostnader forbundet med vanntjenester, og
+   - overslag over relevante investeringer fremover,
+2. vurdering av den mest kostnadseffektive kombinasjonen av tiltak med hensyn til vannbruk som skal inngå i tiltaksprogrammet på grunnlag av overslag over potensielle kostnader ved slike tiltak.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ## Vedlegg IV. Beskyttede områder
 
-1\. Registeret over beskyttede områder som kreves i henhold til [§ 16](forskrift/2006-12-15-1446/§16), skal omfatte følgende typer områder som har status som beskyttet etter sektorlovverk:områder utpekt eller tiltenkt for uttak av drikkevann i samsvar med [§ 17](forskrift/2006-12-15-1446/§17),områder utpekt til beskyttelse av økonomisk betydelige akvatiske arter,vannforekomster utpekt til rekreasjonsformål,områder følsomme for næringsstoffer, herunder områder utpekt som sårbare soner i henhold til [forskrift om gjødselvarer mv. av organisk opphav § 24](forskrift/2003-07-04-951/§24) og områder utpekt som følsomme områder i henhold til [forskrift om begrensning av forurensning kapittel 11](forskrift/2004-06-01-931/kap11) om generelle bestemmelser om avløp, ogområder utpekt til beskyttelse av naturtyper som består av eller er i vann eller arter som lever i vann, der opprettholdelse eller forbedring av vannets tilstand er viktig for å beskytte habitatet eller arten.
+1\. Registeret over beskyttede områder som kreves i henhold til [§ 16](forskrift/2006-12-15-1446/§16), skal omfatte følgende typer områder som har status som beskyttet etter sektorlovverk:
+
+1. områder utpekt eller tiltenkt for uttak av drikkevann i samsvar med [§ 17](forskrift/2006-12-15-1446/§17),
+2. områder utpekt til beskyttelse av økonomisk betydelige akvatiske arter,
+3. vannforekomster utpekt til rekreasjonsformål,
+4. områder følsomme for næringsstoffer, herunder områder utpekt som sårbare soner i henhold til [forskrift om gjødselvarer mv. av organisk opphav § 24](forskrift/2003-07-04-951/§24) og områder utpekt som følsomme områder i henhold til [forskrift om begrensning av forurensning kapittel 11](forskrift/2004-06-01-931/kap11) om generelle bestemmelser om avløp, og
+5. områder utpekt til beskyttelse av naturtyper som består av eller er i vann eller arter som lever i vann, der opprettholdelse eller forbedring av vannets tilstand er viktig for å beskytte habitatet eller arten.
 
 2\. Sammendraget av registeret, som kreves som en del av vannforvaltningsplanen for vannregionen, skal omfatte kart som viser beliggenheten til hvert beskyttet område og en beskrivelse av de bestemmelser eller vedtak som ligger til grunn for beskyttelsen av området.
 
@@ -736,7 +878,11 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 
 Miljøkvalitetsstandarder for miljøgifter som omfattes av vedlegg VIII skal beskytte akvatisk biologisk materiale. Det kan fastsettes standarder for vann, sedimenter og/eller biologisk materiale.
 
-Om mulig skal både akutte og kroniske data innhentes for de taksa nevnt nedenfor som er relevante for den aktuelle typen vannforekomst, og for eventuelle andre akvatiske taksa som det finnes data for. «Grunnsettet» av taksa omfatteralger og/eller makrofytter,dafnier eller representative organismer for saltvann,fisk.
+Om mulig skal både akutte og kroniske data innhentes for de taksa nevnt nedenfor som er relevante for den aktuelle typen vannforekomst, og for eventuelle andre akvatiske taksa som det finnes data for. «Grunnsettet» av taksa omfatter
+
+- alger og/eller makrofytter,
+- dafnier eller representative organismer for saltvann,
+- fisk.
 
 > Endret ved [forskrift 27 mars 2012 nr. 321](forskrift/2012-03-27-321).
 
@@ -754,33 +900,63 @@ Parametere som er betegnende for tilstanden for hvert relevant kvalitetselement 
 
 *Mål*
 
-Det skal utarbeides basisovervåkingsprogrammer som skal gi opplysninger for åsupplere og validere framgangsmåten for vurderinger av miljøvirkninger beskrevet i vedlegg II,effektivt og virkningsfullt utforme framtidige overvåkningsprogrammer,vurdere langsiktige endringer i de naturlige forholdene,vurdere langsiktige endringer som følge av omfattende menneskelig virksomhet
+Det skal utarbeides basisovervåkingsprogrammer som skal gi opplysninger for å
+
+- supplere og validere framgangsmåten for vurderinger av miljøvirkninger beskrevet i vedlegg II,
+- effektivt og virkningsfullt utforme framtidige overvåkningsprogrammer,
+- vurdere langsiktige endringer i de naturlige forholdene,
+- vurdere langsiktige endringer som følge av omfattende menneskelig virksomhet
 
 Resultatene av denne overvåkningen skal sammen med vurdering av påvirkninger som beskrevet i vedlegg II, brukes til å fastsette krav til overvåkningsprogrammene i eksisterende og framtidige vannforvaltningsplaner for vannregionen.
 
 *Valg av overvåkningslokaliteter*
 
-Basisovervåkingen skal utføres på et tilstrekkelig antall forekomster av overflatevann til at det kan foretas en vurdering av overflatevannets samlede tilstand i hver vannregion. Ved valg av disse vannforekomstene skal det, om hensiktsmessig, sørges for at overvåkningen utføres på stederder vannføringen er betydelig innen vannregionen som helhet, herunder punkter på store elver der vannregionen er over 2.500 km2 ,der vannvolumet er betydelig innen vannregionen, herunder store innsjøer og magasiner,der betydelige vannforekomster krysser et lands grense, ogpå andre steder der det er nødvendig for å vurdere belastningen fra forurensende stoffer som overføres over landenes grenser, og som overføres til det marine miljø.
+Basisovervåkingen skal utføres på et tilstrekkelig antall forekomster av overflatevann til at det kan foretas en vurdering av overflatevannets samlede tilstand i hver vannregion. Ved valg av disse vannforekomstene skal det, om hensiktsmessig, sørges for at overvåkningen utføres på steder
+
+- der vannføringen er betydelig innen vannregionen som helhet, herunder punkter på store elver der vannregionen er over 2.500 km2 ,
+- der vannvolumet er betydelig innen vannregionen, herunder store innsjøer og magasiner,
+- der betydelige vannforekomster krysser et lands grense, og
+
+på andre steder der det er nødvendig for å vurdere belastningen fra forurensende stoffer som overføres over landenes grenser, og som overføres til det marine miljø.
 
 *Valg av kvalitetselementer*
 
-Basisovervåkingen skal utføres for hver overvåkningslokalitet i et tidsrom på ett år i løpet av vannforvaltningsplanens gyldighetsperiode for vannregionen forparametere som er indikatorer for alle biologiske kvalitetselementer,parametere som er indikatorer for alle hydromorfologiske kvalitetselementer,parametere som er indikatorer for alle fysisk-kjemiske kvalitetselementer,forurensende stoffer på listen over prioriterte stoffer som slippes ut i vannregionen eller vannområdet, ogandre forurensende stoffer som slippes ut i betydelige mengder i vannregionen eller vannområdet,med mindre den tidligere basisovervåkingen har vist at den berørte vannforekomsten har nådd god tilstand, og undersøkelsen av virkninger av menneskelig virksomhet i henhold til vedlegg II ikke viser tegn på at vannforekomsten er endret. I slike tilfeller skal basisovervåkingen utføres én gang for hver tredje forvaltningsplan for vannregionen.
+Basisovervåkingen skal utføres for hver overvåkningslokalitet i et tidsrom på ett år i løpet av vannforvaltningsplanens gyldighetsperiode for vannregionen for
+
+- parametere som er indikatorer for alle biologiske kvalitetselementer,
+- parametere som er indikatorer for alle hydromorfologiske kvalitetselementer,
+- parametere som er indikatorer for alle fysisk-kjemiske kvalitetselementer,
+- forurensende stoffer på listen over prioriterte stoffer som slippes ut i vannregionen eller vannområdet, og
+- andre forurensende stoffer som slippes ut i betydelige mengder i vannregionen eller vannområdet,
+
+med mindre den tidligere basisovervåkingen har vist at den berørte vannforekomsten har nådd god tilstand, og undersøkelsen av virkninger av menneskelig virksomhet i henhold til vedlegg II ikke viser tegn på at vannforekomsten er endret. I slike tilfeller skal basisovervåkingen utføres én gang for hver tredje forvaltningsplan for vannregionen.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.3.2 Utforming av tiltaksorientert overvåking
 
-Tiltaksorientert overvåking skal utføres med sikte på åfastslå tilstanden til vannforekomster som anses å stå i fare for ikke å nå miljømålene, ogvurdere eventuelle endringer i tilstanden til slike vannforekomster som følge av tiltaksprogrammer.
+Tiltaksorientert overvåking skal utføres med sikte på å
+
+- fastslå tilstanden til vannforekomster som anses å stå i fare for ikke å nå miljømålene, og
+- vurdere eventuelle endringer i tilstanden til slike vannforekomster som følge av tiltaksprogrammer.
 
 Programmet kan endres i løpet av gyldighetstiden for en vannforvaltningsplan for vannregionen på grunnlag av opplysninger innsamlet i henhold til kravene i vedlegg II eller dette vedlegg, særlig for å muliggjøre en reduksjon i frekvensen dersom virkningen ikke er vesentlig eller den relevante belastningen er fjernet.
 
 *Valg av overvåkningslokaliteter*
 
-Tiltaksorientert overvåking skal utføres på alle vannforekomster som på grunnlag av virkningsvurderingen i henhold til vedlegg II eller basisovervåkingen anses å stå i fare for ikke å nå miljømålene, og for vannforekomster som det slippes ut prioriterte stoffer i. Det skal velges overvåkningslokaliteter som angitt i regelverket som fastsetter den relevante miljøkvalitetsnorm. I alle andre tilfeller, herunder i forbindelse med prioriterte stoffer når det ikke er gitt spesifikk veiledning i regelverket, skal overvåkningslokalitetene velges som følger:for vannforekomster som er i fare som følge av betydelige punktkildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen hver vannforekomst til at omfang og konsekvenser av punktkildebelastningene kan vurderes. Dersom en vannforekomst er utsatt for en rekke punktkildebelastninger, kan overvåkningspunktene velges slik at omfang og konsekvenser av belastningene kan vurderes i sin helhet,for vannforekomster som er i fare som følge av betydelige diffuse kildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de diffuse kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er representative for de relative risikoene for forekomster av diffuse kildebelastninger, og for de relative risikoene for at god tilstand ikke oppnås for overflatevann,for vannforekomster som er i fare som følge av betydelige hydromorfologiske belastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de hydromorfologiske kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er karakteristiske for den samlede virkningen av hydromorfologiske belastninger som alle vannforekomstene er utsatt for.
+Tiltaksorientert overvåking skal utføres på alle vannforekomster som på grunnlag av virkningsvurderingen i henhold til vedlegg II eller basisovervåkingen anses å stå i fare for ikke å nå miljømålene, og for vannforekomster som det slippes ut prioriterte stoffer i. Det skal velges overvåkningslokaliteter som angitt i regelverket som fastsetter den relevante miljøkvalitetsnorm. I alle andre tilfeller, herunder i forbindelse med prioriterte stoffer når det ikke er gitt spesifikk veiledning i regelverket, skal overvåkningslokalitetene velges som følger:
+
+- for vannforekomster som er i fare som følge av betydelige punktkildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen hver vannforekomst til at omfang og konsekvenser av punktkildebelastningene kan vurderes. Dersom en vannforekomst er utsatt for en rekke punktkildebelastninger, kan overvåkningspunktene velges slik at omfang og konsekvenser av belastningene kan vurderes i sin helhet,
+- for vannforekomster som er i fare som følge av betydelige diffuse kildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de diffuse kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er representative for de relative risikoene for forekomster av diffuse kildebelastninger, og for de relative risikoene for at god tilstand ikke oppnås for overflatevann,
+- for vannforekomster som er i fare som følge av betydelige hydromorfologiske belastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de hydromorfologiske kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er karakteristiske for den samlede virkningen av hydromorfologiske belastninger som alle vannforekomstene er utsatt for.
 
 *Valg av kvalitetselementer*
 
-For å vurdere omfanget av belastningen som vannforekomstene er utsatt for, skal man overvåke kvalitetselementer som er karakteristiske for belastningene som vannforekomsten(e) er utsatt for. For å vurdere virkningene skal man etter relevans overvåkeparametere som er karakteristiske for det eller de biologiske kvalitetselementene som er mest følsomme for de belastningene vannforekomstene er utsatt for,alle prioriterte stoffer som slippes ut, og alle andre forurensende stoffer som slippes ut i betydelige mengder,parametere som er karakteristiske for det hydromorfologiske kvalitetselementet som er mest følsomt for den identifiserte belastningen.
+For å vurdere omfanget av belastningen som vannforekomstene er utsatt for, skal man overvåke kvalitetselementer som er karakteristiske for belastningene som vannforekomsten(e) er utsatt for. For å vurdere virkningene skal man etter relevans overvåke
+
+- parametere som er karakteristiske for det eller de biologiske kvalitetselementene som er mest følsomme for de belastningene vannforekomstene er utsatt for,
+- alle prioriterte stoffer som slippes ut, og alle andre forurensende stoffer som slippes ut i betydelige mengder,
+- parametere som er karakteristiske for det hydromorfologiske kvalitetselementet som er mest følsomt for den identifiserte belastningen.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -788,7 +964,13 @@ For å vurdere omfanget av belastningen som vannforekomstene er utsatt for, skal
 
 *Mål*
 
-Problemkartleggingen skal utføresdersom årsaken til eventuelle overskridelser er ukjent,dersom basisovervåkingen tyder på at miljømålene som er fastsatt for en vannforekomst ikke vil bli oppfylt, og tiltaksorientert overvåking ikke allerede er etablert med sikte på å finne årsakene til at vannforekomsten(e) ikke oppfyller miljømålene, ellerfor å fastslå omfanget og konsekvensene av forurensningsuhell,og skal danne grunnlag for å utarbeide et tiltaksprogram med sikte på å nå miljømålene og for de spesifikke tiltak som er nødvendige for å avhjelpe virkningene av et forurensningsuhell.
+Problemkartleggingen skal utføres
+
+- dersom årsaken til eventuelle overskridelser er ukjent,
+- dersom basisovervåkingen tyder på at miljømålene som er fastsatt for en vannforekomst ikke vil bli oppfylt, og tiltaksorientert overvåking ikke allerede er etablert med sikte på å finne årsakene til at vannforekomsten(e) ikke oppfyller miljømålene, eller
+- for å fastslå omfanget og konsekvensene av forurensningsuhell,
+
+og skal danne grunnlag for å utarbeide et tiltaksprogram med sikte på å nå miljømålene og for de spesifikke tiltak som er nødvendige for å avhjelpe virkningene av et forurensningsuhell.
 
 ### 1.3.4 Overvåkningsfrekvens
 
@@ -866,8 +1048,24 @@ Ved prøvetaking av fysisk-kjemisk, hydromorfologiske biologiske kvalitetselemen
 
 ### 1.4.2 Presentasjon av overvåkingsresultater og klassifisering av økologisk tilstand og økologisk potensial
 
-1. Vurderingen av tilstanden til en overflatevannforekomst bestemmes ved den laveste verdien, for biologiske og fysisk-kjemiske overvåkingsresultater for relevante kvalitetselementer klassifisert i samsvar med første kolonne i tabellen gjengitt nedenfor. Det skal utarbeides et kart for hver vannregion som illustrerer klassifiseringen av økologisk tilstand for hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for å vise vannforekomstens klassifisering for økologiske tilstand.*Klassifisering av økologisk tilstand**Fargekode*Svært godBlåGodGrønnModeratGulDårligOransjeSvært dårligRød
-2. Vurderingen av tilstanden til sterkt modifiserte eller kunstige vannforekomster bestemmes ved den laveste verdien, for de biologiske og fysisk-kjemiske overvåkingsresultatene for relevante kvalitetselementer klassifisert i samsvar med første kolonne i tabellen nedenfor. Det skal utarbeides et kart for hver vannregion som illustrerer klassifiseringen av økologisk potensial for hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for kunstige vannforekomster og med tredje kolonne for sterkt modifiserte vannforekomster.*Klassifisering av økologisk potensial**Fargekode**Kunstige vannforekomster**Sterkt modifiserte vannforekomster*Godt eller høyereLike brede grønne og lysegrå striperLike brede grønne og mørkegrå striperModeratLike brede gule og lysegrå striperLike brede gule og mørkegrå striperDårligLike brede oransje og lysegrå striperLike brede oransje og mørkegrå striperSvært dårligLike brede røde og lysegrå striperLike brede røde og mørkegrå striper
+1. Vurderingen av tilstanden til en overflatevannforekomst bestemmes ved den laveste verdien, for biologiske og fysisk-kjemiske overvåkingsresultater for relevante kvalitetselementer klassifisert i samsvar med første kolonne i tabellen gjengitt nedenfor. Det skal utarbeides et kart for hver vannregion som illustrerer klassifiseringen av økologisk tilstand for hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for å vise vannforekomstens klassifisering for økologiske tilstand.
+
+   | *Klassifisering av økologisk tilstand* | *Fargekode* |
+   | --- | --- |
+   | Svært god | Blå |
+   | God | Grønn |
+   | Moderat | Gul |
+   | Dårlig | Oransje |
+   | Svært dårlig | Rød |
+2. Vurderingen av tilstanden til sterkt modifiserte eller kunstige vannforekomster bestemmes ved den laveste verdien, for de biologiske og fysisk-kjemiske overvåkingsresultatene for relevante kvalitetselementer klassifisert i samsvar med første kolonne i tabellen nedenfor. Det skal utarbeides et kart for hver vannregion som illustrerer klassifiseringen av økologisk potensial for hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for kunstige vannforekomster og med tredje kolonne for sterkt modifiserte vannforekomster.
+
+   | *Klassifisering av økologisk potensial* | *Fargekode* |  |
+   | --- | --- | --- |
+   |  | *Kunstige vannforekomster* | *Sterkt modifiserte vannforekomster* |
+   | Godt eller høyere | Like brede grønne og lysegrå striper | Like brede grønne og mørkegrå striper |
+   | Moderat | Like brede gule og lysegrå striper | Like brede gule og mørkegrå striper |
+   | Dårlig | Like brede oransje og lysegrå striper | Like brede oransje og mørkegrå striper |
+   | Svært dårlig | Like brede røde og lysegrå striper | Like brede røde og mørkegrå striper |
 3. Det skal dessuten angis med en svart prikk på kartet vannforekomster hvis manglende oppnåelse av god tilstand eller godt økologisk potensial skyldes manglende overholdelse av en eller flere miljøkvalitetsstandarder som er fastsatt for vannforekomsten med hensyn til spesifikke syntetiske eller ikke-syntetiske forurensende stoffer etter nasjonalt klassifiseringssystem.
 
 > Tilføyd ved [forskrift 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
@@ -909,13 +1107,19 @@ Et overvåkingsnettverk for grunnvann skal opprettes i samsvar med kravene i [§
 
 ### 2.2.2. Overvåkningslokalitetenes tetthet
 
-Nettverket skal omfatte tilstrekkelig representative overvåkningslokaliteter til at grunnvannsstanden kan vurderes i hver grunnvannsforekomst eller gruppe av grunnvannsforekomster, idet det tas hensyn til kortsiktige og langsiktige variasjoner i nydannelse av grunnvann; det skal særlig sikresfor grunnvannsforekomster som anses å stå i fare for ikke å nå miljømålene, at overvåkningslokalitetene ligger tilstrekkelig tett til at virkningene av uttak og utslipp på grunnvannsstanden kan vurderes,for grunnvannsforekomster der grunnvann strømmer over en lands grenser, at det er tilstrekkelig mange overvåkningslokaliteter til at grunnvannets strømningsretning og vannføring over landets grense kan vurderes.
+Nettverket skal omfatte tilstrekkelig representative overvåkningslokaliteter til at grunnvannsstanden kan vurderes i hver grunnvannsforekomst eller gruppe av grunnvannsforekomster, idet det tas hensyn til kortsiktige og langsiktige variasjoner i nydannelse av grunnvann; det skal særlig sikres
+
+- for grunnvannsforekomster som anses å stå i fare for ikke å nå miljømålene, at overvåkningslokalitetene ligger tilstrekkelig tett til at virkningene av uttak og utslipp på grunnvannsstanden kan vurderes,
+- for grunnvannsforekomster der grunnvann strømmer over en lands grenser, at det er tilstrekkelig mange overvåkningslokaliteter til at grunnvannets strømningsretning og vannføring over landets grense kan vurderes.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 2.2.3 Overvåkningsfrekvens
 
-Observasjonsfrekvensen skal være tilstrekkelig høy til å muliggjøre vurdering av hver grunnvannsforekomsts eller gruppe av grunnvannsforekomsters kvantitative tilstand, idet det tas hensyn til kortsiktige og langsiktige variasjoner i gjenoppbygging. Det skal særlig sikresfor grunnvannsforekomster som anses å stå i fare for ikke å nå miljømålene, at det måles tilstrekkelig ofte til at virkningene av uttak og utslipp på grunnvannsstanden kan vurderes,for grunnvannsforekomster der grunnvann strømmer over et lands grenser, at det måles tilstrekkelig ofte til at grunnvannets strømningsretning og vannføring over landets grense kan vurderes.
+Observasjonsfrekvensen skal være tilstrekkelig høy til å muliggjøre vurdering av hver grunnvannsforekomsts eller gruppe av grunnvannsforekomsters kvantitative tilstand, idet det tas hensyn til kortsiktige og langsiktige variasjoner i gjenoppbygging. Det skal særlig sikres
+
+- for grunnvannsforekomster som anses å stå i fare for ikke å nå miljømålene, at det måles tilstrekkelig ofte til at virkningene av uttak og utslipp på grunnvannsstanden kan vurderes,
+- for grunnvannsforekomster der grunnvann strømmer over et lands grenser, at det måles tilstrekkelig ofte til at grunnvannets strømningsretning og vannføring over landets grense kan vurderes.
 
 ### 2.2.4 Tolkning og presentasjon av grunnvannets kvantitative tilstand
 
@@ -963,15 +1167,26 @@ Det skal angis prognoser over påliteligheten og presisjonen til resultatene av 
 
 *Mål*
 
-Basisovervåkingen skal utføres for åsupplere og validere fremgangsmåten for vurderinger av miljøvirkningergi informasjon til bruk i vurderingen av langsiktige trender som følge av endringer i naturlige forhold eller menneskelig virksomhet.
+Basisovervåkingen skal utføres for å
+
+- supplere og validere fremgangsmåten for vurderinger av miljøvirkninger
+- gi informasjon til bruk i vurderingen av langsiktige trender som følge av endringer i naturlige forhold eller menneskelig virksomhet.
 
 *Valg av overvåkningslokaliteter*
 
-Det skal velges tilstrekkelig mange overvåkningslokaliteter for hver av følgende:grunnvannsforekomster som på grunnlag av karakteriseringen foretatt i henhold til vedlegg II anses å være truet,grunnvannsforekomster som krysser en EØS-stats grenser.
+Det skal velges tilstrekkelig mange overvåkningslokaliteter for hver av følgende:
+
+- grunnvannsforekomster som på grunnlag av karakteriseringen foretatt i henhold til vedlegg II anses å være truet,
+- grunnvannsforekomster som krysser en EØS-stats grenser.
 
 *Valg av parametere*
 
-Følgende grunnleggende parametere skal overvåkes i alle valgte grunnvannsforekomster:oksygeninnhold,pH-verdi,ledningsevne,relevante parametere fra vedlegg IX.
+Følgende grunnleggende parametere skal overvåkes i alle valgte grunnvannsforekomster:
+
+- oksygeninnhold,
+- pH-verdi,
+- ledningsevne,
+- relevante parametere fra vedlegg IX.
 
 Grunnvannsforekomster som i henhold til vedlegg II anses å stå i fare for ikke å oppnå god tilstand, skal også overvåkes for de parametrene som viser tegn på de aktuelle belastningene.
 
@@ -983,7 +1198,10 @@ Grunnvannsforekomster som krysser grenser, skal også overvåkes for parametere 
 
 *Mål*
 
-Tiltaksovervåking skal utføres i periodene mellom basisovervåkingsprogrammene for å fastslåden kjemiske tilstanden til alle grunnvannsforekomster eller grupper av grunnvannsforekomster som anses for å være truet,tilstedeværelsen av en eventuell vesentlig og vedvarende økende trend i konsentrasjonen av et forurensende stoff.
+Tiltaksovervåking skal utføres i periodene mellom basisovervåkingsprogrammene for å fastslå
+
+- den kjemiske tilstanden til alle grunnvannsforekomster eller grupper av grunnvannsforekomster som anses for å være truet,
+- tilstedeværelsen av en eventuell vesentlig og vedvarende økende trend i konsentrasjonen av et forurensende stoff.
 
 *Valg av overvåkningslokaliteter*
 
@@ -1003,7 +1221,10 @@ Ved overskridelse av en eller flere vendepunktverdier gitt i vedlegg IX skal det
 
 ### 2.4.5 Tolkning og presentasjon av grunnvannets kjemiske tilstand
 
-Ved vurderingen av tilstand samles resultater fra individuelle overvåkningslokaliteter innen en grunnvannsforekomst for grunnvannsforekomsten som helhet. God tilstand for en grunnvannsforekomst forutsetter følgende for kjemiske parametere som det er fastsatt miljøkvalitetsnormer for:gjennomsnittsverdien av overvåkningsresultatene ved hvert punkt i grunnvannsforekomsten eller gruppen av grunnvannsforekomster skal beregnes, ogdisse gjennomsnittsverdiene skal brukes til å påvise samsvar med god kjemisk tilstand for grunnvann.
+Ved vurderingen av tilstand samles resultater fra individuelle overvåkningslokaliteter innen en grunnvannsforekomst for grunnvannsforekomsten som helhet. God tilstand for en grunnvannsforekomst forutsetter følgende for kjemiske parametere som det er fastsatt miljøkvalitetsnormer for:
+
+- gjennomsnittsverdien av overvåkningsresultatene ved hvert punkt i grunnvannsforekomsten eller gruppen av grunnvannsforekomster skal beregnes, og
+- disse gjennomsnittsverdiene skal brukes til å påvise samsvar med god kjemisk tilstand for grunnvann.
 
 Det skal utarbeides et kart som viser grunnvannets kjemiske tilstand med følgende fargekoder:
 
@@ -1054,11 +1275,13 @@ Følgende resultater gjelder for alle elvetyper beskrevet ovenfor:
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Type**Interkalibrert nasjonalt klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*Alle elvetyper ovenforPeriphytonindeks for trofisk tilstand (PIT)0,99
-(Ca ≤ 1 mg/L)
-0,95
-(Ca >1 mg/L)0,83R106,
-R206 (R-N3, R-N9)Trophic index Tic0,8890,610
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Type* | *Interkalibrert nasjonalt klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- | --- |
+  |  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | Alle elvetyper ovenfor | Periphytonindeks for trofisk tilstand (PIT) | 0,99<br>(Ca ≤ 1 mg/L)<br>0,95<br>(Ca >1 mg/L) | 0,83 |
+  | R106,<br>R206 (R-N3, R-N9) | Trophic index Tic | 0,889 | 0,610 |
 
 ### 2. Vannkategori innsjø
 
@@ -1078,8 +1301,12 @@ Beskrivelse av innsjøtyper som er interkalibrert:
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som konsentrasjon av klorofyll a og som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert nasjonalt*
-*klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*Fytoplanktonbasert metode for klassifisering av økologiske tilstand innsjøer0,800,60
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som konsentrasjon av klorofyll a og som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Interkalibrert nasjonalt*<br>*klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- |
+  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | Fytoplanktonbasert metode for klassifisering av økologiske tilstand innsjøer | 0,80 | 0,60 |
 
 ### 2.2 Biologisk kvalitetselement: Vannplanter
 
@@ -1118,7 +1345,12 @@ Beskrivelse av innsjøtyper som er interkalibrert:
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*MultiClear: Multimetric Invertebrate Index for Clear Lakes0,950,74
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Interkalibrert norsk klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- |
+  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | MultiClear: Multimetric Invertebrate Index for Clear Lakes | 0,95 | 0,74 |
 
 ### 2.4 Biologisk kvalitetselement: Fisk
 
@@ -1131,7 +1363,13 @@ Beskrivelse av innsjøtyper som er interkalibrert:
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert nasjonalt klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*EindexW30,750,56AindexW50,740,55
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Interkalibrert nasjonalt klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- |
+  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | EindexW3 | 0,75 | 0,56 |
+  | AindexW5 | 0,74 | 0,55 |
 
 ### 3. Vannkategori store elver
 
@@ -1146,15 +1384,23 @@ Beskrivelse av store elvetyper som er interkalibrert:
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*ASPT-indeks – Average Score per Taxon (metode følsom for organisk belastning og generell degradering for alle elvetyper)R104, R105, R106,
-R107, R108
-(R-L1, R-L2)0,990,87
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Interkalibrert norsk klassifiseringssystem* | *Type* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- | --- |
+  |  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | ASPT-indeks – Average Score per Taxon (metode følsom for organisk belastning og generell degradering for alle elvetyper) | R104, R105, R106,<br>R107, R108<br>(R-L1, R-L2) | 0,99 | 0,87 |
 
 ### 3.2. Biologisk kvalitetselement: Fisk
 
 Resultater:
 
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*European Fish Index (EFI)R104, R105, R106, R104, R105, R106, R107, R108, (R-L1, R-L2)0,9960,755
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Interkalibrert norsk klassifiseringssystem* | *Type* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- | --- |
+  |  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | European Fish Index (EFI) | R104, R105, R106, R104, R105, R106, R107, R108, (R-L1, R-L2) | 0,996 | 0,755 |
 
 ### 4. Vannkategori kystvann
 
@@ -1178,21 +1424,44 @@ Beskrivelse av kystvannstyper som er interkalibrert:
 Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
-- Resultatene gjelder for bløtbunnshabitater (mudder-/sandhabitater under tidevannssonen).*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*NQINEA8a//9/100,820,63NQINEA1/26
-NEA70,720,63
+- Resultatene gjelder for bløtbunnshabitater (mudder-/sandhabitater under tidevannssonen).
+
+  | *Interkalibrert norsk klassifiseringssystem* | *Type* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- | --- |
+  |  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | NQI | NEA8a//9/10 | 0,82 | 0,63 |
+  | NQI | NEA1/26<br>NEA7 | 0,72 | 0,63 |
 
 ### 4.2 Biologisk kvalitetselement: Planteplankton
 
 Resultater:
 
-- Parameterverdiene uttrykkes i μg/l som 90-percentilverdien beregnet over den definerte vekstsesongen i en seksårsperiode. Resultatene relaterer seg til geografiske områder innenfor kystvanntypene som beskrevet i den tekniske rapporten.*Type**Klorofyll a (μg/l,90-persentil)**Økologisk kvalitetskvotient**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*NEA1/26a2,505,000,670,33NEA93,926,900,760,43NEA103,535,260,730,49NEA 8a3,955,530,790,57
+- Parameterverdiene uttrykkes i μg/l som 90-percentilverdien beregnet over den definerte vekstsesongen i en seksårsperiode. Resultatene relaterer seg til geografiske områder innenfor kystvanntypene som beskrevet i den tekniske rapporten.
+
+  | *Type* | *Klorofyll a (μg/l,90-persentil)* |  | *Økologisk kvalitetskvotient* |  |
+  | --- | --- | --- | --- | --- |
+  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | NEA1/26a | 2,50 | 5,00 | 0,67 | 0,33 |
+  | NEA9 | 3,92 | 6,90 | 0,76 | 0,43 |
+  | NEA10 | 3,53 | 5,26 | 0,73 | 0,49 |
+  | NEA 8a | 3,95 | 5,53 | 0,79 | 0,57 |
 
 ### 4.3 Biologisk kvalitetselement: Fastsittende alger (makroalger)
 
 Resultater:
 
 - Økologiske kvalitetsratioer for interkalibrerte parametre som indikerer artssammensetning på hardbunn.
-- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, er angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Metode**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand**Type NEA1//26 B21 intertidal macroalgea*RSLA – Rocky Shore Reduced Species List0,800,60*Type NEA7 intertidal makroalgea*RSLA – Rocky Shore Reduced Species List with Abundance0,800,60*Type NEA8a/9/10 subtidal makroalgea*MSMDI – Multi Species Maximum Depth Index0,800,60
+- Grenseverdi mellom svært god og god og mellom god og moderat tilstand, er angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
+
+  | *Metode* | *Økologisk kvalitetskvotient (EQR)* |  |
+  | --- | --- | --- |
+  |  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+  | *Type NEA1//26 B21 intertidal macroalgea* |  |  |
+  | RSLA – Rocky Shore Reduced Species List | 0,80 | 0,60 |
+  | *Type NEA7 intertidal makroalgea* |  |  |
+  | RSLA – Rocky Shore Reduced Species List with Abundance | 0,80 | 0,60 |
+  | *Type NEA8a/9/10 subtidal makroalgea* |  |  |
+  | MSMDI – Multi Species Maximum Depth Index | 0,80 | 0,60 |
 
 ## Vedlegg VI. Liste over tiltak som skal tas med i tiltaksprogrammene
 
@@ -1200,13 +1469,40 @@ Resultater:
 
 ### A. Grunnleggende tiltak
 
-Tiltak hjemlet i følgende gjennomføring av relevant EØS-regelverk i norsk rett skal inngå i tiltaksprogrammene i henhold til [§ 25](forskrift/2006-12-15-1446/§25) andre ledd:Forskrift om vannforsyning og drikkevann,forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer,forskrift om konsekvensutredninger,forskrift om gjødselvarer mv. av organisk opphav, herunder del III,[forskrift om begrensning av forurensning del 4, kapittel 11](forskrift/2004-06-01-931/kap11)–14,forskrift om plantevernmidler,forskrift om gjødslingsplanlegging,[forskrift om begrensning av forurensning kapittel 36](forskrift/2004-06-01-931/kap36),
+Tiltak hjemlet i følgende gjennomføring av relevant EØS-regelverk i norsk rett skal inngå i tiltaksprogrammene i henhold til [§ 25](forskrift/2006-12-15-1446/§25) andre ledd:
+
+1. Forskrift om vannforsyning og drikkevann,
+2. forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer,
+3. forskrift om konsekvensutredninger,
+4. forskrift om gjødselvarer mv. av organisk opphav, herunder del III,
+5. [forskrift om begrensning av forurensning del 4, kapittel 11](forskrift/2004-06-01-931/kap11)–14,
+6. forskrift om plantevernmidler,
+7. forskrift om gjødslingsplanlegging,
+8. [forskrift om begrensning av forurensning kapittel 36](forskrift/2004-06-01-931/kap36),
 
 Tiltaksprogrammet skal videre omfatte alle relevante tiltak som er fastsatt i eller i medhold av gjeldende norske lover eller forskrifter.
 
 ### B. Supplerende tiltak
 
-Tiltak som i henhold til [§ 25](forskrift/2006-12-15-1446/§25) tredje ledd skal inngå i tiltaksprogrammet dersom det er nødvendig for å nå miljømålene;juridiske virkemidler,administrative virkemidler,økonomiske virkemidler og skatte- og avgiftsregler,fremforhandlede miljøavtaler,regulering av utslipp,retningslinjer for god praksis,gjenoppretting og restaurering av våtmarksområder,regulering av vannuttak,tiltak for å styre etterspørselen, herunder å fremme landbruksproduksjon basert på vekster med lavt vannbehov i områder rammet av tørke,tiltak for effektiv vannbruk og gjenbruk, blant annet å fremme teknologi for effektiv vannbruk i industri og vannbesparende teknikker for jordbruksvanning,bygge- og anleggsprosjekter,avsaltingsanlegg,restaureringsprosjekter,kunstig infiltrasjon for å fylle opp grunnvannsmagasiner,utdanningsprosjekter,forsknings-, utviklings- og demonstrasjonsprosjekter, ogandre relevante tiltak.
+Tiltak som i henhold til [§ 25](forskrift/2006-12-15-1446/§25) tredje ledd skal inngå i tiltaksprogrammet dersom det er nødvendig for å nå miljømålene;
+
+1. juridiske virkemidler,
+2. administrative virkemidler,
+3. økonomiske virkemidler og skatte- og avgiftsregler,
+4. fremforhandlede miljøavtaler,
+5. regulering av utslipp,
+6. retningslinjer for god praksis,
+7. gjenoppretting og restaurering av våtmarksområder,
+8. regulering av vannuttak,
+9. tiltak for å styre etterspørselen, herunder å fremme landbruksproduksjon basert på vekster med lavt vannbehov i områder rammet av tørke,
+10. tiltak for effektiv vannbruk og gjenbruk, blant annet å fremme teknologi for effektiv vannbruk i industri og vannbesparende teknikker for jordbruksvanning,
+11. bygge- og anleggsprosjekter,
+12. avsaltingsanlegg,
+13. restaureringsprosjekter,
+14. kunstig infiltrasjon for å fylle opp grunnvannsmagasiner,
+15. utdanningsprosjekter,
+16. forsknings-, utviklings- og demonstrasjonsprosjekter, og
+17. andre relevante tiltak.
 
 ## Vedlegg VII. Krav til vannforvaltningsplaner
 
@@ -1220,15 +1516,26 @@ En generell karakterisering av egenskapene til vannregionen som påkrevd i henho
 
 1.1
 
-for overflatevann:kartlegging av vannforekomstenes beliggenhet og grenser,kartlegging av økoregioner og typer forekomster av overflatevann innen vannregionen,identifikasjon av referanseforhold for de ulike vanntypene for overflatevann
+for overflatevann:
+
+- kartlegging av vannforekomstenes beliggenhet og grenser,
+- kartlegging av økoregioner og typer forekomster av overflatevann innen vannregionen,
+- identifikasjon av referanseforhold for de ulike vanntypene for overflatevann
 
 1.2
 
-for grunnvann:kartlegging av grunnvannsforekomstenes beliggenhet og grenser,
+for grunnvann:
+
+- kartlegging av grunnvannsforekomstenes beliggenhet og grenser,
 
 2\.
 
-et sammendrag av vesentlige belastninger og virkninger av menneskelig virksomhet på tilstand i overflatevann og grunnvann, herundervurdering av punktkildeforurensning,vurdering av forurensning fra diffuse kilder, herunder et sammendrag av arealbruken,vurdering av belastninger på vannets kvantitative tilstand, herunder uttak,analyse av andre virkninger av menneskelig virksomhet på vannets tilstand,
+et sammendrag av vesentlige belastninger og virkninger av menneskelig virksomhet på tilstand i overflatevann og grunnvann, herunder
+
+- vurdering av punktkildeforurensning,
+- vurdering av forurensning fra diffuse kilder, herunder et sammendrag av arealbruken,
+- vurdering av belastninger på vannets kvantitative tilstand, herunder uttak,
+- analyse av andre virkninger av menneskelig virksomhet på vannets tilstand,
 
 3\.
 
@@ -1573,11 +1880,16 @@ A Prioritert farlige stoffer.
 
 ### E. Bruk av miljøkvalitetsstandarder
 
-1\. Kolonne 4 og 5 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av årlige gjennomsnittlige miljøkvalitetsstandarder, at det aritmetiske gjennomsnitt av konsentrasjoner, som er målt på forskjellige tidspunkter av året, ved hvert representativt målepunkt innenfor en vannforekomst, ikke overstiger miljøkvalitetsstandarden.Bruk av miljøkvalitetsstandarder, beregning av aritmetisk gjennomsnitt og benyttede analytiske metoder, må være i samsvar med direktiv [2000/60/EF](eu/32000l0060).
+1\. Kolonne 4 og 5 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av årlige gjennomsnittlige miljøkvalitetsstandarder, at det aritmetiske gjennomsnitt av konsentrasjoner, som er målt på forskjellige tidspunkter av året, ved hvert representativt målepunkt innenfor en vannforekomst, ikke overstiger miljøkvalitetsstandarden.
+
+Bruk av miljøkvalitetsstandarder, beregning av aritmetisk gjennomsnitt og benyttede analytiske metoder, må være i samsvar med direktiv [2000/60/EF](eu/32000l0060).
 
 2\. Kolonne 6 og 7 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av maksimal miljøkvalitetsstandard, at konsentrasjonen, som er målt ved hvert representativt målepunkt innenfor vannforekomsten, ikke er høyere enn miljøkvalitetsstandarden. I overensstemmelse med punkt 1.2.4 i vedlegg V i denne forskriften, kan medlemsstatene innføre statistiske metoder, som f.eks. percentil beregning, for å oppnå et akseptabelt konfidensnivå og en akseptabel presisjon. Hensikten med dette er å fastslå om maksimal miljøkvalitetsstandard er overholdt. Statistiske metoder skal være i samsvar med direktiv [2008/105/EF](eu/32008l0105) artikkel 9 (2).
 
-3\. Miljøkvalitetsstandardene i vedlegg VIII er med unntak av kadmium, bly, kvikksølv og nikkel (herfra kalt metaller) uttrykt som samlet konsentrasjon i hele vannprøven. For metallers vedkommende gjelder miljøkvalitetsstandardene for konsentrasjonen i oppløsning, dvs. den oppløste fase av en vannprøve, som er filtrert gjennom et 0,45 μm filter eller behandlet på tilsvarende måte, eller hvor dette er angitt spesielt, den biotilgjengelige konsentrasjonen. Medlemslandene kan, når de vurderer overvåkningsresultatene i forhold til miljøkvalitetsstandardene, ta hensyn til:de naturlige bakgrunnskonsentrasjoner av metaller og metallforbindelser, hvis de gjør det umulig å overholde miljøkvalitetsstandarden, ogvannets hardhet, pH, løst organisk karbon eller andre kvalitetsparametere, som påvirker metallers biotilgjengelighet. Den biotilgjengelige konsentrasjonen bestemmes ut fra egnede modeller for biotilgjengelighet.
+3\. Miljøkvalitetsstandardene i vedlegg VIII er med unntak av kadmium, bly, kvikksølv og nikkel (herfra kalt metaller) uttrykt som samlet konsentrasjon i hele vannprøven. For metallers vedkommende gjelder miljøkvalitetsstandardene for konsentrasjonen i oppløsning, dvs. den oppløste fase av en vannprøve, som er filtrert gjennom et 0,45 μm filter eller behandlet på tilsvarende måte, eller hvor dette er angitt spesielt, den biotilgjengelige konsentrasjonen. Medlemslandene kan, når de vurderer overvåkningsresultatene i forhold til miljøkvalitetsstandardene, ta hensyn til:
+
+1. de naturlige bakgrunnskonsentrasjoner av metaller og metallforbindelser, hvis de gjør det umulig å overholde miljøkvalitetsstandarden, og
+2. vannets hardhet, pH, løst organisk karbon eller andre kvalitetsparametere, som påvirker metallers biotilgjengelighet. Den biotilgjengelige konsentrasjonen bestemmes ut fra egnede modeller for biotilgjengelighet.
 
 4\. Valg av matriks som skal overvåkes skal være hensiktsmessig, og følge til enhver tid gjeldende veiledningsmateriell.
 

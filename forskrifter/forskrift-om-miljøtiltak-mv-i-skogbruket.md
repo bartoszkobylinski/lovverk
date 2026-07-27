@@ -76,7 +76,11 @@ Tilsatte knyttet til offentlige landbruks- og miljøvernmyndigheter har, når de
 
 I områder der det drives skogbruk kan det gis tilskudd til å ivareta og videreutvikle miljøverdier knyttet til biologisk mangfold, landskap, friluftsliv og kulturminner.
 
-Tilskudd kan gis til følgende tiltak:Dekning av merkostnader eller tap ved å gjennomføre skjøtselstiltak for å ivareta og utvikle miljøverdier.Delvis dekning av økonomiske tap knyttet til langsiktig bevaring av spesielle miljøverdier, der hensyn til disse krever at skogeieren avstår fra hogst eller legger om skogsdriften.Dekning av merkostnader ved skogsdrift for å unngå veibygging som vil redusere «villmarkspregede områder».
+Tilskudd kan gis til følgende tiltak:
+
+1. Dekning av merkostnader eller tap ved å gjennomføre skjøtselstiltak for å ivareta og utvikle miljøverdier.
+2. Delvis dekning av økonomiske tap knyttet til langsiktig bevaring av spesielle miljøverdier, der hensyn til disse krever at skogeieren avstår fra hogst eller legger om skogsdriften.
+3. Dekning av merkostnader ved skogsdrift for å unngå veibygging som vil redusere «villmarkspregede områder».
 
 Det er et vilkår for utbetaling av tilskudd at miljøverdiene kan påvises og dokumenteres og at merkostnader eller tap er tilstrekkelig dokumentert. Normalt skal tilskudd til en enkelt skogeier ikke overstige kr 75.000.
 
@@ -142,4 +146,12 @@ Vedtak om innvilget tilskudd kan omgjøres og utbetalt tilskudd kan kreves tilba
 
 Denne forskrift trer i kraft straks.
 
-Fra samme dato oppheves følgende forskrifter:[Forskrift 1. juni 1979 nr. 9507](forskrift/1979-06-01-9507) om behandling av søknader og utbetaling av statstilskudd m.v. til skogsveier.[Forskrift 2. mai 1989 nr. 815](forskrift/1989-05-02-815) for tilskudd til praktikanter i skogbruket.[Forskrift 22. desember 1993 nr. 1334](forskrift/1993-12-22-1334) om tilskott til førstegongstynning.[Forskrift 28. april 1994 nr. 335](forskrift/1994-04-28-335) om tilskudd til drift i vanskelig terreng.[Forskrift 16. mai 1994 nr. 366](forskrift/1994-05-16-366) om tilskott til skogkultur.[Forskrift 28. juni 1994 nr. 699](forskrift/1994-06-28-699) om tilskudd til bygging av skogsveier.[Forskrift 24. oktober 2001 nr. 1247](forskrift/2001-10-24-1247) om tilskudd til miljøtiltak i skogbruket.
+Fra samme dato oppheves følgende forskrifter:
+
+1. [Forskrift 1. juni 1979 nr. 9507](forskrift/1979-06-01-9507) om behandling av søknader og utbetaling av statstilskudd m.v. til skogsveier.
+2. [Forskrift 2. mai 1989 nr. 815](forskrift/1989-05-02-815) for tilskudd til praktikanter i skogbruket.
+3. [Forskrift 22. desember 1993 nr. 1334](forskrift/1993-12-22-1334) om tilskott til førstegongstynning.
+4. [Forskrift 28. april 1994 nr. 335](forskrift/1994-04-28-335) om tilskudd til drift i vanskelig terreng.
+5. [Forskrift 16. mai 1994 nr. 366](forskrift/1994-05-16-366) om tilskott til skogkultur.
+6. [Forskrift 28. juni 1994 nr. 699](forskrift/1994-06-28-699) om tilskudd til bygging av skogsveier.
+7. [Forskrift 24. oktober 2001 nr. 1247](forskrift/2001-10-24-1247) om tilskudd til miljøtiltak i skogbruket.

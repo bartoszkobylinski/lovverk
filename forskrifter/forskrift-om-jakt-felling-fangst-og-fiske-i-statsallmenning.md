@@ -53,15 +53,34 @@ Mindre statsallmenninger som ikke egner seg for fritt salg av jakt- eller fiskek
 
 ### § 5. Korttyper for fiske
 
-Følgende korttyper skal være tilgjengelige for fiske:døgnkort som er gyldig i 24 timer. Dersom fjellstyret selger et fritt antall døgnkort skal kortet være gyldig fra det tidspunktet fisker selv bestemmer.ukekort som er gyldig i 7 døgn. Dersom fjellstyret selger et fritt antall ukekort skal kortet være gyldig fra det tidspunktet fisker selv bestemmer.årskort.
+Følgende korttyper skal være tilgjengelige for fiske:
 
-Fjellstyret kan i tillegg tilby:familiekort for ektepar, samboerpar og enslige, med barn under 20 år2- og 3-døgnskortsærskilte kort for ungdom mellom 16 og 20 år og for personer over 67 årsærskilte kort for skoleklasser, studenter, flyktninger eller andre grupper, når hensikten er opplæring eller rekruttering eller fiske ikke er det primære formålet.
+1. døgnkort som er gyldig i 24 timer. Dersom fjellstyret selger et fritt antall døgnkort skal kortet være gyldig fra det tidspunktet fisker selv bestemmer.
+2. ukekort som er gyldig i 7 døgn. Dersom fjellstyret selger et fritt antall ukekort skal kortet være gyldig fra det tidspunktet fisker selv bestemmer.
+3. årskort.
+
+Fjellstyret kan i tillegg tilby:
+
+1. familiekort for ektepar, samboerpar og enslige, med barn under 20 år
+2. 2- og 3-døgnskort
+3. særskilte kort for ungdom mellom 16 og 20 år og for personer over 67 år
+4. særskilte kort for skoleklasser, studenter, flyktninger eller andre grupper, når hensikten er opplæring eller rekruttering eller fiske ikke er det primære formålet.
 
 ### § 6. Korttyper for småviltjakt og fangst
 
-Følgende korttyper skal være tilgjengelige for småviltjakt og fangst:dagskort, unntatt i begrenset periode i starten av jakten der jakt og fangst tilbys ved forhåndssalg eller etter søknad5-dagerskort, ukekort for 7 dager eller begge delersesongkort.
+Følgende korttyper skal være tilgjengelige for småviltjakt og fangst:
 
-Fjellstyret kan i tillegg tilby:2-dagerskort, 3-dagerskort eller begge delersærskilte kort for ungdom mellom 16 og 20 år og for personer over 67 årsærskilte kort for skoleklasser, studenter, flyktninger eller andre grupper, når hensikten er opplæring eller rekruttering, eller jakt eller fangst ikke er det primære formåletgratis jakt for personer under opplæring som etter [forskrift 22. mars 2002 nr. 313 om utøvelse av jakt, felling og fangst § 6](forskrift/2002-03-22-313/§6) helt eller delvis skal slippe å betale for jaktkortjaktkort på smårovvilt. Ved salg av jaktkort på smårovvilt gjelder ikke kravet om salg av dagskort, 5-dagerskort og ukekort.
+1. dagskort, unntatt i begrenset periode i starten av jakten der jakt og fangst tilbys ved forhåndssalg eller etter søknad
+2. 5-dagerskort, ukekort for 7 dager eller begge deler
+3. sesongkort.
+
+Fjellstyret kan i tillegg tilby:
+
+1. 2-dagerskort, 3-dagerskort eller begge deler
+2. særskilte kort for ungdom mellom 16 og 20 år og for personer over 67 år
+3. særskilte kort for skoleklasser, studenter, flyktninger eller andre grupper, når hensikten er opplæring eller rekruttering, eller jakt eller fangst ikke er det primære formålet
+4. gratis jakt for personer under opplæring som etter [forskrift 22. mars 2002 nr. 313 om utøvelse av jakt, felling og fangst § 6](forskrift/2002-03-22-313/§6) helt eller delvis skal slippe å betale for jaktkort
+5. jaktkort på smårovvilt. Ved salg av jaktkort på smårovvilt gjelder ikke kravet om salg av dagskort, 5-dagerskort og ukekort.
 
 ### § 7. Kort for jakt på og fangst av bever
 
@@ -111,7 +130,14 @@ Fjellstyrets vedtak om prisfastsettelse skal sendes Landbruksdirektoratet eller 
 
 ### § 14. Prisrammer for fiske
 
-For fiske gjelder følgende øvre prisramme for utenbygdsboende:døgnkort kr 150ukekort kr 540sesongkort kr 1 090døgnkort familie kr 260ukekort familie kr 770sesongkort familie kr 1 500.
+For fiske gjelder følgende øvre prisramme for utenbygdsboende:
+
+1. døgnkort kr 150
+2. ukekort kr 540
+3. sesongkort kr 1 090
+4. døgnkort familie kr 260
+5. ukekort familie kr 770
+6. sesongkort familie kr 1 500.
 
 Prisen for fiske med garn og oter, og fiskekort for personer som ikke er bosatt i Norge, kan utgjøre inntil tre ganger prisrammen.
 
@@ -121,7 +147,12 @@ Prisen for fiske i vassdrag med anadrom laksefisk kan utgjøre inntil fem ganger
 
 ### § 15. Prisrammer for småviltjakt og fangst
 
-For småviltjakt og fangst gjelder følgende øvre prisrammer for utenbygdsboende:dagskort kr 3905-dagerskort kr 1 560ukekort (7 dager) kr 2 180sesongkort kr 3 560.
+For småviltjakt og fangst gjelder følgende øvre prisrammer for utenbygdsboende:
+
+1. dagskort kr 390
+2. 5-dagerskort kr 1 560
+3. ukekort (7 dager) kr 2 180
+4. sesongkort kr 3 560.
 
 Prisen på 2- og 3-dagerskort for småviltjakt og fangst skal ikke overstige prisrammen pr. dag ganger antallet dager kortet gjelder for.
 
@@ -131,7 +162,12 @@ Prisen på småviltjakt og fangst for innenbygdsboende kan ikke settes lavere en
 
 ### § 16. Prisrammer for villreinjakt
 
-For villreinjakt gjelder følgende øvre prisramme for utenbygdsboende:fritt dyr kr 10 060liten bukk kr 7 905simle og ungdyr kr 5 270kalv kr 2 485.
+For villreinjakt gjelder følgende øvre prisramme for utenbygdsboende:
+
+1. fritt dyr kr 10 060
+2. liten bukk kr 7 905
+3. simle og ungdyr kr 5 270
+4. kalv kr 2 485.
 
 Prisrammen for villrein gjelder også når prisen fastsettes pr. kg.
 

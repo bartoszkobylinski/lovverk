@@ -32,7 +32,15 @@ Jernbane omfattar også kabelbane i forskrifta her.
 
 ## § 2. Personell ved jernbane som er omfatta av promillegrense og fråhaldsplikt mv. i jernbanelova
 
-Personell som utfører følgjande oppgåver ved jernbane er omfatta av krava i [jernbanelova § 3a](lov/1993-06-11-100/§3a) og [§ 3b](lov/1993-06-11-100/§3b):utfører trafikkstyringutfører funksjonar knytte til drift av kabelbanerfører rullande materiellutfører eller leier skiftingutfører trafikktryggingsoppgåver om bord i tog, medrekna beredskapsoppgåverhar ansvaret for tryggleiken ved arbeid og aktivitetar i og ved sporvurderer tilstanden til rullande materiell i operativ drift og dei tekniske funksjonane til køyrevegen med omsyn til trafikktryggleiken.
+Personell som utfører følgjande oppgåver ved jernbane er omfatta av krava i [jernbanelova § 3a](lov/1993-06-11-100/§3a) og [§ 3b](lov/1993-06-11-100/§3b):
+
+1. utfører trafikkstyring
+2. utfører funksjonar knytte til drift av kabelbaner
+3. fører rullande materiell
+4. utfører eller leier skifting
+5. utfører trafikktryggingsoppgåver om bord i tog, medrekna beredskapsoppgåver
+6. har ansvaret for tryggleiken ved arbeid og aktivitetar i og ved spor
+7. vurderer tilstanden til rullande materiell i operativ drift og dei tekniske funksjonane til køyrevegen med omsyn til trafikktryggleiken.
 
 ## § 3. Plikter for den som driv jernbaneverksemd
 

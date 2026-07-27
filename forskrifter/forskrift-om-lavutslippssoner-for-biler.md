@@ -28,7 +28,12 @@ Formålet med denne forskrift er å gi rammeverket for å innføre, administrere
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*Lavutslippssone:* Et geografisk avgrenset område på offentlig veg, som er utsatt for lokal luftforurensning fra bil, og der kommunen har fått samtykke til å innføre gebyr for å få kjøre.*Gebyr:* Det vederlag en eier eller fører av en bil må betale for å kunne kjøre innenfor en lavutslippssone.*Euroklasse:* Den avgasstandard som bilen er godkjent med etter [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil vedlegg 1 eller forskrift [4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr [kapittel 25](forskrift/1994-10-04-918/kap25).*Nullutslippsbiler:* Biler som bare bruker elektrisitet eller brenselsceller (hydrogen) til framdrift.
+I denne forskriften menes med
+
+1. *Lavutslippssone:* Et geografisk avgrenset område på offentlig veg, som er utsatt for lokal luftforurensning fra bil, og der kommunen har fått samtykke til å innføre gebyr for å få kjøre.
+2. *Gebyr:* Det vederlag en eier eller fører av en bil må betale for å kunne kjøre innenfor en lavutslippssone.
+3. *Euroklasse:* Den avgasstandard som bilen er godkjent med etter [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil vedlegg 1 eller forskrift [4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr [kapittel 25](forskrift/1994-10-04-918/kap25).
+4. *Nullutslippsbiler:* Biler som bare bruker elektrisitet eller brenselsceller (hydrogen) til framdrift.
 
 Definisjonene i [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil og [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr gjelder for øvrig tilsvarende for denne forskriften.
 
@@ -36,13 +41,27 @@ Definisjonene i [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om go
 
 Plikten til å betale gebyr i en lavutslippssone kan omfatte alle biler. Kommunen kan i lokal forskrift fastsette nærmere bestemmelser om hvilke biler som har plikt til å betale gebyr og som skal registreres i kommunens system for betaling og kontroll. Kommuner som har etablert en felles lavutslippssone må innføre felles bestemmelser for dette.
 
-Plikten til å betale gebyr gjelder ikke:nullutslippsbiler,biler godkjent som utrykningskjøretøy og andre biler i politiets eller forsvarets tjeneste,biler spesialinnredet for egentransport av funksjonshemmet og biler der fører eller passasjer medbringer parkeringsbevis for forflytningshemmede i henhold til [forskrift 15. mars 1994 nr. 222](forskrift/1994-03-15-222) om parkering for forflytningshemmede. Ved parkering skal parkeringsbeviset alltid være plassert godt synlig bak frontruten,bil med kjennemerke med gule tegn på blå bunn.
+Plikten til å betale gebyr gjelder ikke:
+
+1. nullutslippsbiler,
+2. biler godkjent som utrykningskjøretøy og andre biler i politiets eller forsvarets tjeneste,
+3. biler spesialinnredet for egentransport av funksjonshemmet og biler der fører eller passasjer medbringer parkeringsbevis for forflytningshemmede i henhold til [forskrift 15. mars 1994 nr. 222](forskrift/1994-03-15-222) om parkering for forflytningshemmede. Ved parkering skal parkeringsbeviset alltid være plassert godt synlig bak frontruten,
+4. bil med kjennemerke med gule tegn på blå bunn.
 
 ## § 4. Innføring av lavutslippssone
 
 En kommunal lavutslippssone krever samtykke fra Statens vegvesen før den kan innføres. Samtykke fra Statens vegvesen kan gis med varighet opp til 6 år.
 
-Før samtykke kan gis skal kommunen legge fram:dokumentasjon på omfang og utbredelse av lokal luftforurensning fra biler innenfor den planlagte lavutslippssone, jf. forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning [kapittel 7](forskrift/2004-06-01-931/kap7) om Lokal luftkvalitet, samt informasjon om hvilke tiltak som kommunen allerede har iverksatt for å redusere omfanget og utbredelsen av de lokale miljøproblemene fra biler,informasjon om planlagt sonestørrelse og skilting,informasjon om planlagte gebyrsatser og hvordan disse er beregnet,dokumentasjon på at lavutslippssonen og innretningen av denne faktisk vil begrense lokal luftforurensning fra vegtrafikken,dokumentasjon på et forsvarlig system for registrering, betaling av gebyr, informasjon overfor bilistene, kontroll, inkludert eventuelt planlagt oppsetting og plassering av faste kontrollpunkter, og håndheving,en vurdering av konsekvensene som den foreslåtte lavutslippssonen vil ha for personvernet, inkludert nytte av faste kontrollpunkter og automatisk sletting av opplysninger om kjøretøy som ikke skal ilegges overtredelsesgebyr.informasjon om kommunen har søkt Vegdirektoratet om å bli tildelt myndighet til å ilegge overtredelsesgebyr, jf. forskriften [§ 10](forskrift/2016-12-20-1681/§10) og [vegtrafikkloven § 31a](lov/1965-06-18-4/§31a), herunder informasjon om uttalelsen fra vedkommende politimester,informasjon om hvordan nettoinntekten fra lavutslippssonen skal brukes på kollektivtransport-, trafikksikkerhets og miljøtiltak.
+Før samtykke kan gis skal kommunen legge fram:
+
+1. dokumentasjon på omfang og utbredelse av lokal luftforurensning fra biler innenfor den planlagte lavutslippssone, jf. forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning [kapittel 7](forskrift/2004-06-01-931/kap7) om Lokal luftkvalitet, samt informasjon om hvilke tiltak som kommunen allerede har iverksatt for å redusere omfanget og utbredelsen av de lokale miljøproblemene fra biler,
+2. informasjon om planlagt sonestørrelse og skilting,
+3. informasjon om planlagte gebyrsatser og hvordan disse er beregnet,
+4. dokumentasjon på at lavutslippssonen og innretningen av denne faktisk vil begrense lokal luftforurensning fra vegtrafikken,
+5. dokumentasjon på et forsvarlig system for registrering, betaling av gebyr, informasjon overfor bilistene, kontroll, inkludert eventuelt planlagt oppsetting og plassering av faste kontrollpunkter, og håndheving,
+6. en vurdering av konsekvensene som den foreslåtte lavutslippssonen vil ha for personvernet, inkludert nytte av faste kontrollpunkter og automatisk sletting av opplysninger om kjøretøy som ikke skal ilegges overtredelsesgebyr.
+7. informasjon om kommunen har søkt Vegdirektoratet om å bli tildelt myndighet til å ilegge overtredelsesgebyr, jf. forskriften [§ 10](forskrift/2016-12-20-1681/§10) og [vegtrafikkloven § 31a](lov/1965-06-18-4/§31a), herunder informasjon om uttalelsen fra vedkommende politimester,
+8. informasjon om hvordan nettoinntekten fra lavutslippssonen skal brukes på kollektivtransport-, trafikksikkerhets og miljøtiltak.
 
 > Endret ved [forskrift 20 des 2019 nr. 1917](forskrift/2019-12-20-1917) (i kraft 1 jan 2020).
 

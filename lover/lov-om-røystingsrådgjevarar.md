@@ -15,7 +15,7 @@ xml_hash: "b9c9d8aee13c0af27ebd9b9e78922bdf2ded21f63c0e2f90a8404edf1bb2893a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32017L0828"
@@ -35,7 +35,10 @@ eu_basis:
 
 (1) Lova gjeld verksemd som er driven av røystingsrådgjevarar med forretningskontor i Noreg.
 
-(2) Lova gjeld òg verksemd som er driven av røystingsrådgjevarar frå andre land om:røystingsrådgjevaren har hovudkontor i Noreg, men ikkje forretningskontor innanfor EØS, ellerrøystingsrådgjevaren driv verksemd i Noreg utan at røystingsrådgjevaren har forretningskontor eller hovudkontor innanfor EØS.
+(2) Lova gjeld òg verksemd som er driven av røystingsrådgjevarar frå andre land om:
+
+1. røystingsrådgjevaren har hovudkontor i Noreg, men ikkje forretningskontor innanfor EØS, eller
+2. røystingsrådgjevaren driv verksemd i Noreg utan at røystingsrådgjevaren har forretningskontor eller hovudkontor innanfor EØS.
 
 (3) Kongen kan gje forskrift om bruken av lova på Svalbard og fastsetje særlege reglar ut frå tilhøva på staden.
 
@@ -51,7 +54,15 @@ eu_basis:
 
 ## § 4. Særlege opplysningar
 
-(1) Ein røystingsrådgjevar skal kvart år offentleggjere følgjande opplysningar om korleis rådgjevaren førebur undersøkingar, råd og røystingstilrådingar:hovuddraga i dei metodane og modellane som er nyttadei viktigaste informasjonskjeldene som er nyttaframgangsmåtane som er innførte for å sikre kvaliteten på undersøkingane, rådgjevinga og røystingstilrådingane og kvalifikasjonane til dei tilsette som deltekom og eventuelt korleis dei tek omsyn til tilhøve i dei nasjonale marknadene og til juridiske, regulatoriske og selskapsspesifikke tilhøvehovuddraga i retningslinene for stemmegjeving som dei nyttar for den einskilde marknadenom dei har dialog med selskapa som undersøkingane, rådgjevinga eller røystingstilrådingane gjeld, og med interessentar i desse selskapa, og i så fall omfanget og karakteren til dialogenretningslinene for førebygging og handtering av potensielle interessekonfliktar.
+(1) Ein røystingsrådgjevar skal kvart år offentleggjere følgjande opplysningar om korleis rådgjevaren førebur undersøkingar, råd og røystingstilrådingar:
+
+1. hovuddraga i dei metodane og modellane som er nytta
+2. dei viktigaste informasjonskjeldene som er nytta
+3. framgangsmåtane som er innførte for å sikre kvaliteten på undersøkingane, rådgjevinga og røystingstilrådingane og kvalifikasjonane til dei tilsette som deltek
+4. om og eventuelt korleis dei tek omsyn til tilhøve i dei nasjonale marknadene og til juridiske, regulatoriske og selskapsspesifikke tilhøve
+5. hovuddraga i retningslinene for stemmegjeving som dei nyttar for den einskilde marknaden
+6. om dei har dialog med selskapa som undersøkingane, rådgjevinga eller røystingstilrådingane gjeld, og med interessentar i desse selskapa, og i så fall omfanget og karakteren til dialogen
+7. retningslinene for førebygging og handtering av potensielle interessekonfliktar.
 
 (2) Opplysningane som er nemnde i bokstav a til g skal vere offentleg og kostnadsfritt tilgjengelege på nettstaden til røystingsrådgjevaren i minst tre år etter datoen for offentleggjeringa. Dette gjeld ikkje opplysningar som allereie er offentleggjorde etter § 3. § 3 fjerde leddet gjeld på tilsvarande måte.
 

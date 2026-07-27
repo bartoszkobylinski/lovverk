@@ -15,7 +15,7 @@ xml_hash: "5bf9e756dcde62172d9636d383e31c98d9df4797f0c8395111e4aa0db84ca540"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,10 @@ Ved søknader der kravene til dokumentasjon ikke er tilfredsstilt, vil søker gi
 
 (1) Når det foreligger saklige grunner, kan fagskolen nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak.
 
-(2) Som saklig grunn regnes blant annet:Søkeren er bortvist eller utestengt fra fagskolen eller andre lærestederSøkeren tidligere har misligholdt betalingsforpliktelser overfor fagskolen. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
+(2) Som saklig grunn regnes blant annet:
+
+1. Søkeren er bortvist eller utestengt fra fagskolen eller andre læresteder
+2. Søkeren tidligere har misligholdt betalingsforpliktelser overfor fagskolen. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
 
 ### § 2-13. Klagerett på avslag om opptak
 
@@ -214,7 +217,11 @@ Studenter som ikke kan delta i obligatorisk praksisopplæring får ikke vitnemå
 
 ### § 6-1. Eksamensrett
 
-(1) Studenten har adgang til å avlegge en eksamen når følgende betingelser er oppfylt:Oppfyller faglige eller andre krav som gjelder deltakelse i den aktuelle enkelteksamen, herunder arbeidskravEr registrert som eksamensoppmeldt ved fristens utløpEr innenfor antall eksamensforsøk for den aktuelle enkelteksamen, jf. [§ 6-12](forskrift/2021-11-24-3371/§6-12) (1).
+(1) Studenten har adgang til å avlegge en eksamen når følgende betingelser er oppfylt:
+
+1. Oppfyller faglige eller andre krav som gjelder deltakelse i den aktuelle enkelteksamen, herunder arbeidskrav
+2. Er registrert som eksamensoppmeldt ved fristens utløp
+3. Er innenfor antall eksamensforsøk for den aktuelle enkelteksamen, jf. [§ 6-12](forskrift/2021-11-24-3371/§6-12) (1).
 
 (2) Vedtak om å nekte en student å gå opp til eksamen kan påklages til den enhet som har fattet vedtaket. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for studenten. Hvis klagen ikke tas til følge, skal klagen oversendes lokal klagenemnd ved fagskolen.
 
@@ -222,7 +229,11 @@ Studenter som ikke kan delta i obligatorisk praksisopplæring får ikke vitnemå
 
 (1) Skolen skal sikre at studentenes kunnskaper, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte. Eksamens- og vurderingsordningene skal være egnet til å vurdere om læringsutbyttene er oppnådd, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21) første ledd. Det skal gjennomføres eksterne evalueringer av vurderinger og vurderingsordninger.
 
-(2) Fagskolen benytter følgende vurderingsordninger:Skriftlig hjemmeeksamenMuntlig hjemmeeksamenObligatorisk innlevering slik som fordypningsoppgave eller mappeinnlevering.
+(2) Fagskolen benytter følgende vurderingsordninger:
+
+1. Skriftlig hjemmeeksamen
+2. Muntlig hjemmeeksamen
+3. Obligatorisk innlevering slik som fordypningsoppgave eller mappeinnlevering.
 
 (3) Obligatoriske innleveringer må leveres innen gitt frist (dato og klokkeslett).
 
@@ -242,7 +253,11 @@ Enkelte utdanninger og emner har obligatoriske arbeidskrav som må være levert 
 
 (3) Studenter med langvarige lidelser behøver kun å søke om tilrettelagt eksamen en gang. Søknaden kan vurderes for hele utdanningsløpet.
 
-(4) Formålet med tilrettelegging av eksamen er å kompensere for de ulempene studenters spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:Utvidet tid til eksamenBruk av spesielle hjelpemidlerAlternativ eksamensform.
+(4) Formålet med tilrettelegging av eksamen er å kompensere for de ulempene studenters spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:
+
+1. Utvidet tid til eksamen
+2. Bruk av spesielle hjelpemidler
+3. Alternativ eksamensform.
 
 (5) Administrasjonen fatter vedtak om tilrettelegging av eksamen. Avslag om tilrettelegging av eksamen skal begrunnes. Vedtaket kan påklages. Klagebehandling skal sluttføres i god tid før eksamensdato.
 
@@ -318,9 +333,18 @@ Enkelte utdanninger og emner har obligatoriske arbeidskrav som må være levert 
 
 ### § 6-13. Fusk
 
-(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk eller forsøk på fusk. Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), for eksempel at:studentens kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måtestudenten har fått kjennskap til eksamensoppgaver før eksamen starterstudenten har manipulert eksamensbesvarelsen etter at den er levert.
+(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk eller forsøk på fusk. Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), for eksempel at:
 
-(2) Hovedområder som betraktes som fusk eller forsøk på fusk:Bruk av, eller uberettiget tilgang til, ulovlige hjelpemidlerUlovlig samarbeid mellom enkeltpersoner eller grupperPlagiatManglende eller feilaktig kildebruk slik at teksten fremstår som studentens egen.
+1. studentens kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte
+2. studenten har fått kjennskap til eksamensoppgaver før eksamen starter
+3. studenten har manipulert eksamensbesvarelsen etter at den er levert.
+
+(2) Hovedområder som betraktes som fusk eller forsøk på fusk:
+
+1. Bruk av, eller uberettiget tilgang til, ulovlige hjelpemidler
+2. Ulovlig samarbeid mellom enkeltpersoner eller grupper
+3. Plagiat
+4. Manglende eller feilaktig kildebruk slik at teksten fremstår som studentens egen.
 
 (3) For at en eksamen skal kunne annulleres på grunn av fusk, må handlingen være grovt uaktsom eller forsettlig. Imidlertid har studenten meget streng aktsomhetsplikt knyttet til å være kjent med eksamensreglementet, hvilke hjelpemidler som er tillatt brukt under selve eksamen og et særlig ansvar for å forsikre seg om at det bare er lovlige hjelpemidler tilgjengelig.
 
@@ -355,13 +379,24 @@ Enkelte utdanninger og emner har obligatoriske arbeidskrav som må være levert 
 
 (1) Fagskolen dokumenterer fullført og bestått fagskoleutdanning med vitnemål. Fagskolen utsteder kun ett vitnemål per utdanning. En avgift påløper ved bestilling av duplikat.
 
-(2) Vitnemålet inneholder informasjon om:Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnåsAngivelse av karaktersystemetAntall studiepoeng og eventuell betegnelse for fagskolegradKarakter/karaktererSkikkethetsvurdering.
+(2) Vitnemålet inneholder informasjon om:
+
+1. Det overordnede læringsutbyttet
+2. Emner og eventuell praksis
+3. Kvalifikasjonsnivået som oppnås
+4. Angivelse av karaktersystemet
+5. Antall studiepoeng og eventuell betegnelse for fagskolegrad
+6. Karakter/karakterer
+7. Skikkethetsvurdering.
 
 (3) Karakterutskrift kan utstedes til studenter som har fullført deler av utdanningen.
 
 ### § 6-16. Forutsetning for utstedelse av vitnemål
 
-Utstedelse av vitnemål forutsetter at:Alle arbeidskrav og eksamener som beskrevet i studieplanen er beståttEventuell praksis er gjennomført og bestått og fraværet ikke overstiger 15 %.
+Utstedelse av vitnemål forutsetter at:
+
+1. Alle arbeidskrav og eksamener som beskrevet i studieplanen er bestått
+2. Eventuell praksis er gjennomført og bestått og fraværet ikke overstiger 15 %.
 
 ### § 6-17. Gradsbetegnelse for fagskoleutdanning
 
@@ -375,7 +410,12 @@ Fullført fagskoleutdanning av ett års varighet (60 studiepoeng) gir gradsbeteg
 
 (2) Lokal klagenemnd kan som førsteinstans, med minst 2/3 flertall, fatte enkeltvedtak om utestengelse fra all utdanning ved fagskolen og fratas retten til å gå opp til eksamen i inntil ett år dersom studenten har gjort ett eller flere grove tillitsbrudd mot fagskolen. Det kan også fattes vedtak om å avslutte studentens studiekontrakt.
 
-(3) Som grove tillitsbrudd regnes blant annet:Fusk eller forsøk på fuskTrakassering av og/eller trusler mot medstudenter eller ansatteTyveri fra fagskolen, ansatte eller medstudenterBenyttet falskt vitnemål eller andre falske dokumenter.
+(3) Som grove tillitsbrudd regnes blant annet:
+
+1. Fusk eller forsøk på fusk
+2. Trakassering av og/eller trusler mot medstudenter eller ansatte
+3. Tyveri fra fagskolen, ansatte eller medstudenter
+4. Benyttet falskt vitnemål eller andre falske dokumenter.
 
 (4) Lokal klagenemnd kan som førsteinstans, med minst 2/3 flertall, fatte enkeltvedtak om å utestenge studenten fra utdanningen i inntil ett år.
 

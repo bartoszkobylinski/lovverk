@@ -28,7 +28,14 @@ Denne forskriften omhandler krav til personer som skal virke som førerprøvesen
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med:*Førerprøvesensor:* person som organiserer og gjennomfører teoretisk og/eller praktisk prøve der det inngår å vurdere teoretiske og praktiske prestasjoner som blir fremvist.*Praktisk førerprøve:* prøve der kandidaten viser trafikal kompetanse ved å kjøre et kjøretøy, i hovedsak i samspill med andre i reell trafikk.*Tilrettelagt teoretisk førerprøve:* teoretisk prøve for de kandidatene som ikke behersker skriftlig norsk i tilstrekkelig grad til å kunne besvare spørsmålene, har lese- og skrivevansker eller tilsvarende. Om nødvendig kan prøven gjennomføres med tolk.*Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse. Omfatter også førerprøver etter pålegg fra politiet, jf. [lov 18. juni 1965 nr. 4](lov/1965-06-18-4) om vegtrafikk [§ 34](lov/1965-06-18-4/§34).*Tunge kjøretøy:* kjøretøy som krever førerett i klasse C1, C1E, D1, D1E, C, CE, D eller DE etter [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m.*Observasjon:* godkjent person er til stede og registrerer, vurderer og gir tilbakemelding på utført arbeid.
+I denne forskriften forstås med:
+
+1. *Førerprøvesensor:* person som organiserer og gjennomfører teoretisk og/eller praktisk prøve der det inngår å vurdere teoretiske og praktiske prestasjoner som blir fremvist.
+2. *Praktisk førerprøve:* prøve der kandidaten viser trafikal kompetanse ved å kjøre et kjøretøy, i hovedsak i samspill med andre i reell trafikk.
+3. *Tilrettelagt teoretisk førerprøve:* teoretisk prøve for de kandidatene som ikke behersker skriftlig norsk i tilstrekkelig grad til å kunne besvare spørsmålene, har lese- og skrivevansker eller tilsvarende. Om nødvendig kan prøven gjennomføres med tolk.
+4. *Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse. Omfatter også førerprøver etter pålegg fra politiet, jf. [lov 18. juni 1965 nr. 4](lov/1965-06-18-4) om vegtrafikk [§ 34](lov/1965-06-18-4/§34).
+5. *Tunge kjøretøy:* kjøretøy som krever førerett i klasse C1, C1E, D1, D1E, C, CE, D eller DE etter [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m.
+6. *Observasjon:* godkjent person er til stede og registrerer, vurderer og gir tilbakemelding på utført arbeid.
 
 Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemmelsene i [forskrift 1. oktober 2004 nr. 1339](forskrift/2004-10-01-1339) om trafikkopplæring og førerprøve m.m.
 
@@ -38,7 +45,15 @@ Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemm
 
 Før en førerprøvesensor kan gjennomføre førerprøver må vedkommende godkjennes.
 
-For å ha godkjenning som førerprøvesensor må vedkommendevære ansatt i Statens vegvesen,ha førerett i klasse B og ha hatt slik førerett sammenhengende de siste 5 år,ha fylt 25 år,ha gjennomført utdanning på minimum videregående skoles nivå,oppfylle krav til grunnutdanning i [§ 4](forskrift/2011-03-09-261/§4), tilleggsutdanning for vedkommende klasse i [§ 6](forskrift/2011-03-09-261/§6) til [§ 9](forskrift/2011-03-09-261/§9) og etterutdanning i [§ 14](forskrift/2011-03-09-261/§14),ikke samtidig være helt eller delvis aktiv i, eller ha permisjon fra, stilling som innebærer arbeid i tilknytning til førerkortrettet opplæring, være kursarrangør eller ha eierskap til trafikkskole,oppfylle de helsekrav som er fastsatt for å kunne få førerett i klasse D, jf. [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m. vedlegg 1.
+For å ha godkjenning som førerprøvesensor må vedkommende
+
+1. være ansatt i Statens vegvesen,
+2. ha førerett i klasse B og ha hatt slik førerett sammenhengende de siste 5 år,
+3. ha fylt 25 år,
+4. ha gjennomført utdanning på minimum videregående skoles nivå,
+5. oppfylle krav til grunnutdanning i [§ 4](forskrift/2011-03-09-261/§4), tilleggsutdanning for vedkommende klasse i [§ 6](forskrift/2011-03-09-261/§6) til [§ 9](forskrift/2011-03-09-261/§9) og etterutdanning i [§ 14](forskrift/2011-03-09-261/§14),
+6. ikke samtidig være helt eller delvis aktiv i, eller ha permisjon fra, stilling som innebærer arbeid i tilknytning til førerkortrettet opplæring, være kursarrangør eller ha eierskap til trafikkskole,
+7. oppfylle de helsekrav som er fastsatt for å kunne få førerett i klasse D, jf. [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m. vedlegg 1.
 
 > Endret ved [forskrift 14 des 2012 nr. 1244](forskrift/2012-12-14-1244) (i kraft 19 jan 2013).
 

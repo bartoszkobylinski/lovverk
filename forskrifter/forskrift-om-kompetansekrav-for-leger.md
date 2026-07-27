@@ -34,9 +34,17 @@ Forskriften gjelder for lege med oppgave om å yte helsehjelp etter [helse- og o
 
 ## § 3. Krav om spesialisering
 
-Kommunen skal sikre at leger med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) utenfor fastlegeordningenhar relevant spesialistgodkjenning, ellerer under relevant spesialisering i spesialistutdanningens andre eller tredje del, ellerhar godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).
+Kommunen skal sikre at leger med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) utenfor fastlegeordningen
 
-Kommunen skal sikre at lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) innenfor fastlegeordningenhar spesialistgodkjenning i allmennmedisin, ellerer under spesialisering i allmennmedisin, ellerhar godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).
+1. har relevant spesialistgodkjenning, eller
+2. er under relevant spesialisering i spesialistutdanningens andre eller tredje del, eller
+3. har godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).
+
+Kommunen skal sikre at lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) innenfor fastlegeordningen
+
+1. har spesialistgodkjenning i allmennmedisin, eller
+2. er under spesialisering i allmennmedisin, eller
+3. har godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).
 
 Lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) på kommunalt organisert legevakt skal i tillegg ha gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.
 
@@ -44,7 +52,11 @@ Lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven
 
 ## § 3a. Kompetansekrav for lege som skal ha legevakt uten bakvakt
 
-En lege kan ha legevakt uten bakvakt i følgende tilfeller:Legen oppfyller kompetansekravene i [§ 3 første](forskrift/2017-02-17-192/§3/ledd/1) og [tredje ledd](forskrift/2017-02-17-192/§3/ledd/3), ellerLegen har oppnådd læringsmålene i spesialistutdanningens første del (LIS1) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering ellerLegen har godkjent turnus etter [forskrift 15. juli 1998 nr. 732 forskrift om praktisk tjeneste (turnustjeneste) for å få autorisasjon som lege](forskrift/1998-07-15-732) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.
+En lege kan ha legevakt uten bakvakt i følgende tilfeller:
+
+1. Legen oppfyller kompetansekravene i [§ 3 første](forskrift/2017-02-17-192/§3/ledd/1) og [tredje ledd](forskrift/2017-02-17-192/§3/ledd/3), eller
+2. Legen har oppnådd læringsmålene i spesialistutdanningens første del (LIS1) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering eller
+3. Legen har godkjent turnus etter [forskrift 15. juli 1998 nr. 732 forskrift om praktisk tjeneste (turnustjeneste) for å få autorisasjon som lege](forskrift/1998-07-15-732) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.
 
 Kommunen plikter å etablere bakvaktordninger for lege i vakt som ikke oppfyller kravene i [§ 3a](forskrift/2017-02-17-192/§3a), bokstavene a–c.
 
@@ -66,7 +78,13 @@ Kommune som benytter seg av unntak etter denne bestemmelsen må innen 31. mars h
 
 ## § 5. Overgangsordninger
 
-Kravet i [§ 3](forskrift/2017-02-17-192/§3) gjelder ikke for leger som per 1. mars 2017har en fastlegehjemmelhar en stilling ved kommunal legevakt eller annen stilling med oppgave om å yte helsehjelp etter helse- og omsorgstjenestelovener i permisjon fra stilling som nevnt i bokstav a eller bkvalifiserer for godkjenning som allmennlege etter [§ 8](forskrift/2005-12-19-1653/§8) i [forskrift 19. desember 2005 nr. 1653](forskrift/2005-12-19-1653) om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon ellerhar inngått veiledningsavtale med kommunen etter [§ 6](forskrift/2005-12-19-1653/§6) i [forskrift om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653). Veiledet tjeneste i medhold av avtalen må senest være påbegynt innen 1. mars 2018.
+Kravet i [§ 3](forskrift/2017-02-17-192/§3) gjelder ikke for leger som per 1. mars 2017
+
+1. har en fastlegehjemmel
+2. har en stilling ved kommunal legevakt eller annen stilling med oppgave om å yte helsehjelp etter helse- og omsorgstjenesteloven
+3. er i permisjon fra stilling som nevnt i bokstav a eller b
+4. kvalifiserer for godkjenning som allmennlege etter [§ 8](forskrift/2005-12-19-1653/§8) i [forskrift 19. desember 2005 nr. 1653](forskrift/2005-12-19-1653) om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon eller
+5. har inngått veiledningsavtale med kommunen etter [§ 6](forskrift/2005-12-19-1653/§6) i [forskrift om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653). Veiledet tjeneste i medhold av avtalen må senest være påbegynt innen 1. mars 2018.
 
 > Endret ved [forskrift 20 des 2019 nr. 1926](forskrift/2019-12-20-1926) (i kraft 1 jan 2020).
 

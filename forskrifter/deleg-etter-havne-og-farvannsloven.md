@@ -15,7 +15,7 @@ xml_hash: "6aefc19a89beb2d983afb9cb0f209dbc42e43aaa2a79cd04a26a14132c4a74b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Ovennevnte delegeringsbeslutninger i romertall I og II trer i kraft 9. januar 20
 
 *IV. Opphevede delegeringsbeslutninger*
 
-Med virkning fra 9. januar 2003 oppheves følgende delegeringsbeslutninger:[Vedtak av 14. desember 1990 nr. 1129](forskrift/1990-12-14-1129) om bemyndigelse for Statens teleforvaltning til å samtykke til oppsetting av anlegg og innretninger som skal gi navigasjonsveiledning.Del II i [forskrift av 13. desember 1988 nr. 1011](forskrift/1988-12-13-1011) i medhold av lov om havner og farvann. Delegering av myndighet til kommunene.
+Med virkning fra 9. januar 2003 oppheves følgende delegeringsbeslutninger:
+
+- [Vedtak av 14. desember 1990 nr. 1129](forskrift/1990-12-14-1129) om bemyndigelse for Statens teleforvaltning til å samtykke til oppsetting av anlegg og innretninger som skal gi navigasjonsveiledning.
+- Del II i [forskrift av 13. desember 1988 nr. 1011](forskrift/1988-12-13-1011) i medhold av lov om havner og farvann. Delegering av myndighet til kommunene.
 
 Forskriftens tittel skal lyde etter dette:
 

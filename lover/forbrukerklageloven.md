@@ -15,7 +15,7 @@ xml_hash: "321dfa04c4aa929dcb42050c5dd781a881d68f0abe3cc0926ee73edcdd83347a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,15 @@ Departementet kan i forskrift fastsette frist for å bringe en sak inn for Forbr
 
 ### § 9. Forbrukertilsynets avvisning
 
-Forbrukertilsynet kan avvise en klage fra mekling dersomklageren ikke har forsøkt å løse saken direkte med motparten,klagen er useriøs eller grunnløs,klagen er under behandling eller har blitt behandlet av et innmeldt klageorgan, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25), av Forbrukerklageutvalget eller av en domstol,verdien av kravet er under eller over grense fastsatt i forskrift, jf. [§ 1](lov/2020-06-23-98/§1) annet ledd,fristen for å klage er oversittet, jf. [§ 8](lov/2020-06-23-98/§8) fjerde ledd,klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukertilsynets effektivitet,klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov/2005-06-17-90/§1-3) annet ledd.
+Forbrukertilsynet kan avvise en klage fra mekling dersom
+
+1. klageren ikke har forsøkt å løse saken direkte med motparten,
+2. klagen er useriøs eller grunnløs,
+3. klagen er under behandling eller har blitt behandlet av et innmeldt klageorgan, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25), av Forbrukerklageutvalget eller av en domstol,
+4. verdien av kravet er under eller over grense fastsatt i forskrift, jf. [§ 1](lov/2020-06-23-98/§1) annet ledd,
+5. fristen for å klage er oversittet, jf. [§ 8](lov/2020-06-23-98/§8) fjerde ledd,
+6. klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukertilsynets effektivitet,
+7. klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov/2005-06-17-90/§1-3) annet ledd.
 
 Forbrukertilsynet skal avvise en klage fra mekling dersom gebyr fastsatt i forskrift etter [§ 7](lov/2020-06-23-98/§7) ikke er innbetalt.
 
@@ -106,7 +114,12 @@ Forbrukertilsynet skal informere partene om de prinsippene som saksbehandlingen 
 
 Forbrukertilsynet skal gjennom skriftlig eller muntlig veiledning og rådgivning søke å finne frem til løsninger som partene kan godta.
 
-Forbrukertilsynet kan på ethvert trinn av saksbehandlingen fremme forslag til løsning av saken. Dersom det blir fremsatt et forslag til løsning, skal partene gis en rimelig betenkningstid for å vurdere resultatet. Før partene godtar en foreslått løsning skal partene informeres omat muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av Forbrukertilsynets meklingstilbud,at den foreslåtte løsningen kan avvike fra en domstolsavgjørelse,at de kan velge om de vil følge forslaget,rettsvirkningen av å akseptere eller følge forslaget.
+Forbrukertilsynet kan på ethvert trinn av saksbehandlingen fremme forslag til løsning av saken. Dersom det blir fremsatt et forslag til løsning, skal partene gis en rimelig betenkningstid for å vurdere resultatet. Før partene godtar en foreslått løsning skal partene informeres om
+
+1. at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av Forbrukertilsynets meklingstilbud,
+2. at den foreslåtte løsningen kan avvike fra en domstolsavgjørelse,
+3. at de kan velge om de vil følge forslaget,
+4. rettsvirkningen av å akseptere eller følge forslaget.
 
 Dersom partene ikke kommer til enighet under meklingen, skal Forbrukertilsynet informere partene skriftlig om at saken avsluttes, og om adgangen til og fristen for å få klagen behandlet av Forbrukerklageutvalget, jf. [§ 13](lov/2020-06-23-98/§13).
 
@@ -130,9 +143,25 @@ Departementet kan i forskrift gi bestemmelser om krav til klagen.
 
 ### § 14. Forbrukerklageutvalgets avvisning
 
-Forbrukerklageutvalget kan avvise en klage dersomklageren ikke har forsøkt å løse saken direkte med motparten,klagen er avgjort eller er under behandling ved en domstol, ved Forbrukerklageutvalget eller ved et annet innmeldt klageorgan enn Forbrukertilsynet, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd,klageren åpenbart ikke kan gis medhold på bakgrunn av Forbrukerklageutvalgets tidligere praksis,verdien av kravet er under eller over en grense fastsatt i forskrift, jf. [§ 1](lov/2020-06-23-98/§1) annet ledd,klagen er grunnløs eller useriøs,klagen reiser bevisspørsmål som ikke egner seg for skriftlig behandling,klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukerklageutvalgets effektivitet,fristen for å klage er oversittet, jf. [§ 13](lov/2020-06-23-98/§13) første ledd annet punktum.
+Forbrukerklageutvalget kan avvise en klage dersom
 
-Forbrukerklageutvalget skal avvise en klage dersomden ikke hører under Forbrukerklageutvalgets virkeområde etter [§ 1](lov/2020-06-23-98/§1),klagen ikke har vært behandlet av Forbrukertilsynet,eventuelt saksbehandlingsgebyr fastsatt i forskrift ikke er innbetalt, jf. [§ 7](lov/2020-06-23-98/§7),klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov/2005-06-17-90/§1-3) annet ledd,en av partene ikke er prosessdyktig og ikke har lovlig stedfortreder, jf. [tvisteloven kapittel 2](lov/2005-06-17-90/kap2),motparten ikke kan saksøkes ved norske domstoler.
+1. klageren ikke har forsøkt å løse saken direkte med motparten,
+2. klagen er avgjort eller er under behandling ved en domstol, ved Forbrukerklageutvalget eller ved et annet innmeldt klageorgan enn Forbrukertilsynet, jf. [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd,
+3. klageren åpenbart ikke kan gis medhold på bakgrunn av Forbrukerklageutvalgets tidligere praksis,
+4. verdien av kravet er under eller over en grense fastsatt i forskrift, jf. [§ 1](lov/2020-06-23-98/§1) annet ledd,
+5. klagen er grunnløs eller useriøs,
+6. klagen reiser bevisspørsmål som ikke egner seg for skriftlig behandling,
+7. klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukerklageutvalgets effektivitet,
+8. fristen for å klage er oversittet, jf. [§ 13](lov/2020-06-23-98/§13) første ledd annet punktum.
+
+Forbrukerklageutvalget skal avvise en klage dersom
+
+1. den ikke hører under Forbrukerklageutvalgets virkeområde etter [§ 1](lov/2020-06-23-98/§1),
+2. klagen ikke har vært behandlet av Forbrukertilsynet,
+3. eventuelt saksbehandlingsgebyr fastsatt i forskrift ikke er innbetalt, jf. [§ 7](lov/2020-06-23-98/§7),
+4. klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov/2005-06-17-90/§1-3) annet ledd,
+5. en av partene ikke er prosessdyktig og ikke har lovlig stedfortreder, jf. [tvisteloven kapittel 2](lov/2005-06-17-90/kap2),
+6. motparten ikke kan saksøkes ved norske domstoler.
 
 Vedtak om avvisning skal treffes senest tre uker fra klagen og øvrige saksdokumenter fra klageren ble mottatt av Forbrukertilsynet.
 
@@ -176,9 +205,17 @@ Hvis noen av partene har nedlagt påstand eller på annen måte fremsatt krav so
 
 ### § 20. Gjenåpning
 
-Forbrukerklageutvalgets rettskraftige vedtak kan gjenåpnes etter begjæring fra en part. Begjæringen skal sendes til Forbrukertilsynet. Gjenåpning kan begjæres dersomdet foreligger brudd på habilitetskrav, jf. [forvaltningsloven § 6](lov/1967-02-10/§6),det foreligger andre saksbehandlingsfeil, og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold,opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet.
+Forbrukerklageutvalgets rettskraftige vedtak kan gjenåpnes etter begjæring fra en part. Begjæringen skal sendes til Forbrukertilsynet. Gjenåpning kan begjæres dersom
 
-Gjenåpning kan ikke begjæresav en grunn som ble forkastet ved sakens behandling,av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning,dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
+1. det foreligger brudd på habilitetskrav, jf. [forvaltningsloven § 6](lov/1967-02-10/§6),
+2. det foreligger andre saksbehandlingsfeil, og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold,
+3. opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet.
+
+Gjenåpning kan ikke begjæres
+
+1. av en grunn som ble forkastet ved sakens behandling,
+2. av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning,
+3. dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
 
 Avslag på begjæring om gjenåpning kan bringes inn for tingretten. For øvrig gjelder bestemmelsene om gjenåpning i [tvisteloven §§ 31-6](lov/2005-06-17-90/§31-6) til [31-9](lov/2005-06-17-90/§31-9) så langt de passer.
 

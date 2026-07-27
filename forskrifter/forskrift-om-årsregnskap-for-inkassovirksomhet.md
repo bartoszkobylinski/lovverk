@@ -46,7 +46,10 @@ For konsernregnskap eller selskapsregnskap utarbeidet i samsvar med [regnskapslo
 
 Inntekter fra inkassosaker skal resultatføres ved løpende avregning (i takt med fremdriften). Dersom utfallet av inkassosaken ikke kan fastslås med rimelig grad av sikkerhet, skal inntektsføringen være løpende avregning uten fortjeneste.
 
-Opptjent fortjeneste tas til inntekt når det foreligger:Pålitelig estimat for de totale inntektene fra inkassosaken.Pålitelig estimat for de kostnader som gjenstår for å fullføre inkassosaken og fullføringsgraden som er oppnådd på balansedagen.
+Opptjent fortjeneste tas til inntekt når det foreligger:
+
+1. Pålitelig estimat for de totale inntektene fra inkassosaken.
+2. Pålitelig estimat for de kostnader som gjenstår for å fullføre inkassosaken og fullføringsgraden som er oppnådd på balansedagen.
 
 Vurdering av inntekter fra inkassosaker kan foretas på gruppebasis for grupper av ensartede saker.
 

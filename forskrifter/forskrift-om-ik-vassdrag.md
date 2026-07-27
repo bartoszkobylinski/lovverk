@@ -15,7 +15,7 @@ xml_hash: "0f82581c0712456816cc2db6b6a757e0dc313778b2dc03371d690cba91a7635a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,13 +28,23 @@ Forskriften skal sikre at det etableres internkontroll og fremme kontinuerlig fo
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med:*internkontroll:* interne systemer og rutiner som sikrer at anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) oppfyller krav fastsatt i eller i medhold av vassdragslovgivningen.*den ansvarlige:* den som er ansvarlig for å oppfylle denne forskriften. For anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) bokstav a og bokstav d er den ansvarlige konsesjonæren. For anlegg som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) bokstav b og bokstav c er det eieren, dersom NVE ikke har godkjent en annen, jf. [damsikkerhetsforskriften § 2-9](forskrift/2009-12-18-1600/§2-9).*vassdragslovgivningen:* [lov 14. desember 1917 nr. 16](lov/1917-12-14-16) om konsesjon for rettigheter til vannfall (vannfallrettighetsloven), [lov 14. desember 1917 nr. 17](lov/1917-12-14-17) om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven), [lov 15. mars 1940 nr. 3](lov/1940-03-15-3) om vassdragene, jf. [vannressursloven § 66](lov/2000-11-24-82/§66) annet ledd, [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann (vannressursloven) og [damsikkerhetsforskriften](forskrift/2009-12-18-1600).*avvik:* brudd på krav fastsatt i eller i medhold av vassdragslovgivningen.
+I denne forskriften forstås med:
+
+1. *internkontroll:* interne systemer og rutiner som sikrer at anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) oppfyller krav fastsatt i eller i medhold av vassdragslovgivningen.
+2. *den ansvarlige:* den som er ansvarlig for å oppfylle denne forskriften. For anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) bokstav a og bokstav d er den ansvarlige konsesjonæren. For anlegg som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) bokstav b og bokstav c er det eieren, dersom NVE ikke har godkjent en annen, jf. [damsikkerhetsforskriften § 2-9](forskrift/2009-12-18-1600/§2-9).
+3. *vassdragslovgivningen:* [lov 14. desember 1917 nr. 16](lov/1917-12-14-16) om konsesjon for rettigheter til vannfall (vannfallrettighetsloven), [lov 14. desember 1917 nr. 17](lov/1917-12-14-17) om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven), [lov 15. mars 1940 nr. 3](lov/1940-03-15-3) om vassdragene, jf. [vannressursloven § 66](lov/2000-11-24-82/§66) annet ledd, [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann (vannressursloven) og [damsikkerhetsforskriften](forskrift/2009-12-18-1600).
+4. *avvik:* brudd på krav fastsatt i eller i medhold av vassdragslovgivningen.
 
 > Endret ved [forskrift 15 des 2017 nr. 2036](forskrift/2017-12-15-2036) (i kraft 1 jan 2018).
 
 ## § 3. Virkeområde
 
-Forskriften gjelder for:vassdragsanlegg som har konsesjon etter vassdragslovgivningen, jf. [§ 2](forskrift/2011-10-28-1058/§2) bokstav c,kraftverk som har tillatelse til å utnytte konsesjonsgitte reguleringer og fall,vassdragsanlegg omfattet av [damsikkerhetsforskriften](forskrift/2009-12-18-1600) oggrunnvannstiltak som har konsesjon etter [vannressursloven](lov/2000-11-24-82).
+Forskriften gjelder for:
+
+1. vassdragsanlegg som har konsesjon etter vassdragslovgivningen, jf. [§ 2](forskrift/2011-10-28-1058/§2) bokstav c,
+2. kraftverk som har tillatelse til å utnytte konsesjonsgitte reguleringer og fall,
+3. vassdragsanlegg omfattet av [damsikkerhetsforskriften](forskrift/2009-12-18-1600) og
+4. grunnvannstiltak som har konsesjon etter [vannressursloven](lov/2000-11-24-82).
 
 Forskriften gjelder også hjelpeanlegg som tilhører vassdragsanlegg og grunnvannstiltak som nevnt i første ledd.
 
@@ -48,7 +58,17 @@ Norges vassdrags- og energidirektorat skal ha melding dersom den praktiske gjenn
 
 ## § 5. Innholdet i internkontrollen
 
-Den ansvarlige skal utarbeide og gjennomføre rutiner og prosedyrer som sikrer at krav fastsatt i eller i medhold av vassdragslovgivningen knyttet til miljø og sikkerhet er oppfylt. Internkontroll innebærer at den ansvarlige skal:sørge for at relevante lover, forskrifter og vedtak som gjelder egne anlegg og tiltak er tilgjengelig og ha kunnskap om de plikter som følger av disse,ha oversikt over anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3), herunder kart, tegninger og annen nødvendig dokumentasjon,sørge for at personellet har de kunnskaper og ferdigheter som er nødvendige for å sikre at anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) og driften av slike, oppfyller krav fastsatt i eller i medhold av vassdragslovgivningen, herunder ha en plan for hvordan faglig kompetanse skal etableres, opprettholdes og utvikles,beskrive organisasjonen, herunder hvordan det kvalifiserte personell er organisert med ansvar, oppgaver og myndighet,foreta og protokollere de målinger og registreringer som er nødvendige eller pålagt for å sikre at anlegg og tiltak drives i samsvar med krav fastsatt i eller i medhold av vassdragslovgivningen,kartlegge farer og problemer med hensyn til miljø og sikkerhet og på denne bakgrunnen vurdere risiko, samt utarbeide tilhørende planer og gjennomføre tiltak for å redusere risikoforholdene,konkretisere hvordan vilkår og betingelser satt i konsesjoner, godkjenninger og lignende skal oppfylles,utarbeide og gjennomføre rutiner for å avdekke, rette opp og forebygge avvik,foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt, f.eks. gjennom interne revisjoner.
+Den ansvarlige skal utarbeide og gjennomføre rutiner og prosedyrer som sikrer at krav fastsatt i eller i medhold av vassdragslovgivningen knyttet til miljø og sikkerhet er oppfylt. Internkontroll innebærer at den ansvarlige skal:
+
+1. sørge for at relevante lover, forskrifter og vedtak som gjelder egne anlegg og tiltak er tilgjengelig og ha kunnskap om de plikter som følger av disse,
+2. ha oversikt over anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3), herunder kart, tegninger og annen nødvendig dokumentasjon,
+3. sørge for at personellet har de kunnskaper og ferdigheter som er nødvendige for å sikre at anlegg og tiltak som omfattes av [§ 3](forskrift/2011-10-28-1058/§3) og driften av slike, oppfyller krav fastsatt i eller i medhold av vassdragslovgivningen, herunder ha en plan for hvordan faglig kompetanse skal etableres, opprettholdes og utvikles,
+4. beskrive organisasjonen, herunder hvordan det kvalifiserte personell er organisert med ansvar, oppgaver og myndighet,
+5. foreta og protokollere de målinger og registreringer som er nødvendige eller pålagt for å sikre at anlegg og tiltak drives i samsvar med krav fastsatt i eller i medhold av vassdragslovgivningen,
+6. kartlegge farer og problemer med hensyn til miljø og sikkerhet og på denne bakgrunnen vurdere risiko, samt utarbeide tilhørende planer og gjennomføre tiltak for å redusere risikoforholdene,
+7. konkretisere hvordan vilkår og betingelser satt i konsesjoner, godkjenninger og lignende skal oppfylles,
+8. utarbeide og gjennomføre rutiner for å avdekke, rette opp og forebygge avvik,
+9. foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt, f.eks. gjennom interne revisjoner.
 
 Der det er stilt spesifikke krav i eller i medhold av vassdragslovgivningen som angår disse punktene, skal internkontrollen som et minimum dekke de spesifikke kravene.
 
@@ -64,7 +84,16 @@ Den som har konsesjon til vassdragsregulering eller overføring etter [vassdrags
 
 ## § 5b. Innholdet i strategi for å bidra til forsyningssikkerhet
 
-Strategi for å bidra til forsyningssikkerhet etter [vassdragsreguleringsloven § 29a](lov/1917-12-14-17/§29a) skal inneholde:rutiner for utarbeiding av prognoser som skal legges til grunn for vanndisponeringenrutiner for hvordan foretaket skal vurdere forsyningssikkerhetenrutiner for hvordan foretaket skal følge med på kraftsituasjonenvirkemidler for å bidra til forsyningssikkerhethvilket nivå i foretakets organisasjon som skal være involvert og ta beslutningerrutiner for dokumentasjon om iverksettelse av strategienrutiner for behandling av avvikrutiner for behandling av endringer og oppdatering av strategien.
+Strategi for å bidra til forsyningssikkerhet etter [vassdragsreguleringsloven § 29a](lov/1917-12-14-17/§29a) skal inneholde:
+
+1. rutiner for utarbeiding av prognoser som skal legges til grunn for vanndisponeringen
+2. rutiner for hvordan foretaket skal vurdere forsyningssikkerheten
+3. rutiner for hvordan foretaket skal følge med på kraftsituasjonen
+4. virkemidler for å bidra til forsyningssikkerhet
+5. hvilket nivå i foretakets organisasjon som skal være involvert og ta beslutninger
+6. rutiner for dokumentasjon om iverksettelse av strategien
+7. rutiner for behandling av avvik
+8. rutiner for behandling av endringer og oppdatering av strategien.
 
 > Tilføyd ved forskrift [8 mai 2024 nr. 752](forskrift/2024-05-08-752) (i kraft 1 juli 2024).
 

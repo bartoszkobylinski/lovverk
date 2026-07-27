@@ -32,7 +32,13 @@ Tilskuddene kan bare utbetales til kommunene.
 
 ## § 3. Hva det kan gis tilskudd til
 
-Tilskudd kan gis i forbindelse med oppføring, kjøp og utbedring/ombygging av sykehjemsplasser og omsorgsboliger, tilSykehjemsplasser eller boform for heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd nr. 5.Omsorgsboliger med eller uten tilknyttede servicelokaler/fellesareal, og som er tilrettelagt slik at det er mulig å gi heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd og [lov 13. desember 1991 nr. 81](lov/1991-12-13-81) om sosiale tjenester [§ 4-2](lov/1991-12-13-81/§4-2).Sykehjemsplasser eller boform for heldøgns pleie og omsorg i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).Omsorgsboliger i utlandet med eller uten tilknyttede servicelokaler/fellesareal i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).Kompensasjon for utgifter til renter og avdrag på lån til omsorgsboliger eller sykehjemsplasser. Tilskuddet omfatter renter og avdrag som påløper f.o.m. 1. januar 1998. Dette gjelder bare for prosjekter som har fått tilsagn om tilskudd til omsorgsboliger og sykehjem etter 1. januar 1997.
+Tilskudd kan gis i forbindelse med oppføring, kjøp og utbedring/ombygging av sykehjemsplasser og omsorgsboliger, til
+
+1. 1. Sykehjemsplasser eller boform for heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd nr. 5.
+   2. Omsorgsboliger med eller uten tilknyttede servicelokaler/fellesareal, og som er tilrettelagt slik at det er mulig å gi heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd og [lov 13. desember 1991 nr. 81](lov/1991-12-13-81) om sosiale tjenester [§ 4-2](lov/1991-12-13-81/§4-2).
+   3. Sykehjemsplasser eller boform for heldøgns pleie og omsorg i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).
+   4. Omsorgsboliger i utlandet med eller uten tilknyttede servicelokaler/fellesareal i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).
+2. Kompensasjon for utgifter til renter og avdrag på lån til omsorgsboliger eller sykehjemsplasser. Tilskuddet omfatter renter og avdrag som påløper f.o.m. 1. januar 1998. Dette gjelder bare for prosjekter som har fått tilsagn om tilskudd til omsorgsboliger og sykehjem etter 1. januar 1997.
 
 For at omsorgsboliger og sykehjemsplasser som nevnt i første ledd punkt 1 skal få tilskudd, må kommunen dokumentere at det er opprettet heldøgns pleie- og omsorgstjeneste i kommunen.
 
@@ -46,7 +52,9 @@ Departementet fastsetter størrelsen på tilskuddene.
 
 ## § 5. Søknad og saksgang
 
-1. Tilskudd som nevnt i [§ 3](forskrift/2005-12-21-1667/§3) punkt 1 utbetales av Husbanken når kommunen kan dokumentere at omsorgsboliger og sykehjemsplasser er ferdigstilt innen utløpet av 2007. Der særskilte forhold gjør det nødvendig kan det søkes om utbetaling i 2007 til tross for manglende ferdigstillelse. Det kan gis inntil 6 måneders utsettelse av ferdigstillingen.Søknader om tilskudd til omsorgsboliger og sykehjemsplasser skal sendes statsforvalteren til uttalelse.
+1. Tilskudd som nevnt i [§ 3](forskrift/2005-12-21-1667/§3) punkt 1 utbetales av Husbanken når kommunen kan dokumentere at omsorgsboliger og sykehjemsplasser er ferdigstilt innen utløpet av 2007. Der særskilte forhold gjør det nødvendig kan det søkes om utbetaling i 2007 til tross for manglende ferdigstillelse. Det kan gis inntil 6 måneders utsettelse av ferdigstillingen.
+
+   Søknader om tilskudd til omsorgsboliger og sykehjemsplasser skal sendes statsforvalteren til uttalelse.
 2. Tilskudd som nevnt under [§ 3](forskrift/2005-12-21-1667/§3) punkt 2 utbetales etterskuddsvis og beregnes på grunnlag av finansieringskostnader etter Husbankens ordinære rente- og avdragsvilkår. Når prosjektet finansieres på annen måte enn i Husbanken utbetales tilskuddet etter en sjablon tilsvarende husbankvilkår.
 
 > Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).

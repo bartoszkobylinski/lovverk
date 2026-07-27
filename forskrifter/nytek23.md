@@ -44,7 +44,36 @@ Forskriften gjelder ikke for anlegg for oppbevaring av villfanget fisk i restitu
 
 ### § 4. Definisjoner
 
-I denne forskrift menes med:*akvakulturanlegg:* installasjon for akvakultur av fisk,*avvik:* manglende oppfyllelse av et krav, som krever korrigerende tiltak,*vesentlig avvik:* avvik som utgjør en alvorlig risiko for rømming av fisk, og som krever umiddelbare korrigerende tiltak,*duk:* tettvevd tekstilmateriale eller kombinasjon av tekstil og annet materiale i en innhegning,*dukpanel:* duk i ramme som er en del av innhegning,*dukpose:* poseformet duk som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,*dynamisk posisjoneringssystem:* et system der kraftforsyning, trustersystem og kontrollsystem er bygget sammen og kan opereres slik at en automatisk opprettholder en fast posisjon,*ekstrautstyr:* utstyr som ikke er hovedkomponent, hvor påkjenninger fra utstyret, eller svikt eller mangler ved utstyret vil føre til økt risiko for rømming av fisk,*flyter:* konstruksjon med hovedfunksjon å gi oppdrift og/eller stivhet til innhegning,*flåte:* konstruksjon over 50 tonn totalvekt, frittliggende eller integrert, med teknisk utstyr for å utføre funksjoner knyttet til akvakultur,*forankringssystem:* system med liner og bunnfester med hovedfunksjon å holde akvakulturanlegg eller flåte i posisjon,*hovedkomponent:* del i akvakulturanlegget som innehar én eller flere av anleggets lastbærende hovedfunksjoner. Eksempelvis innhegning, flyter, forankringssystem, flåte eller integrert hovedkomponent,*innehaver:* enhver som har eller plikter å ha akvakulturtillatelse etter [lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79) for akvakultur av fisk,*innhegning:* notpose eller annet system av lastbærende deler med hovedfunksjon å utgjøre barrieren mellom oppdrettsvolumet i en produksjonsenhet og omkringliggende vannvolum,*integrert hovedkomponent:* hovedkomponent som kombinerer ulike lastbærende hovedfunksjoner i én integrert enhet,*komponent:* hovedkomponent, konstruksjonsdel til forankring og ekstrautstyr,*konfigurasjon:* et akvakulturanleggs sammensetning av hovedkomponenter og ekstrautstyr,*konstruksjonsdel til forankringssystem:* kjetting, sjakkel, kause, tau, bøye, koblingselement, bunnfeste med mer i forankringssystem,*leverandør:* enhver som selger, leier ut eller på annen måte leverer komponenter eller tjenester til akvakulturnæringen,*midlertidig ekstrautstyr:* ekstrautstyr som er i bruk på akvakulturanlegget over en begrenset periode eller ved begrensede bruksforhold,*notpanel:* nett i en ramme som er en del av innhegning,*notpose:* poseformet nett som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,*permanent ekstrautstyr:* ekstrautstyr som er påmontert en hovedkomponent eller akvakulturanlegget uten begrensninger knyttet til bruksperiode eller bruksforhold,*posisjoneringssystem:* system for å holde akvakulturanlegg i posisjon,*produsent:* enhver som produserer komponenter eller tjenester til akvakulturnæringen,*prosjektering:* dokumentere grunnlag, utforming, analyser, dimensjonering, tegning og beskrivelse av utførelse av akvakulturanlegg og dets komponenter,*sporbarhet:* mulighet til å spore historien, anvendelsen eller lokaliseringen av et produkt. Sporbarhet vedrører eksempelvis opprinnelsen til materialer og deler, bearbeidingshistorikk, distribusjonen og lokaliseringen av produktet etter leveranse,*verifikasjon:* undersøkelse med formål å bekrefte samsvar med regelverkskrav.
+I denne forskrift menes med:
+
+1. *akvakulturanlegg:* installasjon for akvakultur av fisk,
+2. *avvik:* manglende oppfyllelse av et krav, som krever korrigerende tiltak,
+3. *vesentlig avvik:* avvik som utgjør en alvorlig risiko for rømming av fisk, og som krever umiddelbare korrigerende tiltak,
+4. *duk:* tettvevd tekstilmateriale eller kombinasjon av tekstil og annet materiale i en innhegning,
+5. *dukpanel:* duk i ramme som er en del av innhegning,
+6. *dukpose:* poseformet duk som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,
+7. *dynamisk posisjoneringssystem:* et system der kraftforsyning, trustersystem og kontrollsystem er bygget sammen og kan opereres slik at en automatisk opprettholder en fast posisjon,
+8. *ekstrautstyr:* utstyr som ikke er hovedkomponent, hvor påkjenninger fra utstyret, eller svikt eller mangler ved utstyret vil føre til økt risiko for rømming av fisk,
+9. *flyter:* konstruksjon med hovedfunksjon å gi oppdrift og/eller stivhet til innhegning,
+10. *flåte:* konstruksjon over 50 tonn totalvekt, frittliggende eller integrert, med teknisk utstyr for å utføre funksjoner knyttet til akvakultur,
+11. *forankringssystem:* system med liner og bunnfester med hovedfunksjon å holde akvakulturanlegg eller flåte i posisjon,
+12. *hovedkomponent:* del i akvakulturanlegget som innehar én eller flere av anleggets lastbærende hovedfunksjoner. Eksempelvis innhegning, flyter, forankringssystem, flåte eller integrert hovedkomponent,
+13. *innehaver:* enhver som har eller plikter å ha akvakulturtillatelse etter [lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79) for akvakultur av fisk,
+14. *innhegning:* notpose eller annet system av lastbærende deler med hovedfunksjon å utgjøre barrieren mellom oppdrettsvolumet i en produksjonsenhet og omkringliggende vannvolum,
+15. *integrert hovedkomponent:* hovedkomponent som kombinerer ulike lastbærende hovedfunksjoner i én integrert enhet,
+16. *komponent:* hovedkomponent, konstruksjonsdel til forankring og ekstrautstyr,
+17. *konfigurasjon:* et akvakulturanleggs sammensetning av hovedkomponenter og ekstrautstyr,
+18. *konstruksjonsdel til forankringssystem:* kjetting, sjakkel, kause, tau, bøye, koblingselement, bunnfeste med mer i forankringssystem,
+19. *leverandør:* enhver som selger, leier ut eller på annen måte leverer komponenter eller tjenester til akvakulturnæringen,
+20. *midlertidig ekstrautstyr:* ekstrautstyr som er i bruk på akvakulturanlegget over en begrenset periode eller ved begrensede bruksforhold,
+21. *notpanel:* nett i en ramme som er en del av innhegning,
+22. *notpose:* poseformet nett som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,
+23. *permanent ekstrautstyr:* ekstrautstyr som er påmontert en hovedkomponent eller akvakulturanlegget uten begrensninger knyttet til bruksperiode eller bruksforhold,
+24. *posisjoneringssystem:* system for å holde akvakulturanlegg i posisjon,
+25. *produsent:* enhver som produserer komponenter eller tjenester til akvakulturnæringen,
+26. *prosjektering:* dokumentere grunnlag, utforming, analyser, dimensjonering, tegning og beskrivelse av utførelse av akvakulturanlegg og dets komponenter,
+27. *sporbarhet:* mulighet til å spore historien, anvendelsen eller lokaliseringen av et produkt. Sporbarhet vedrører eksempelvis opprinnelsen til materialer og deler, bearbeidingshistorikk, distribusjonen og lokaliseringen av produktet etter leveranse,
+28. *verifikasjon:* undersøkelse med formål å bekrefte samsvar med regelverkskrav.
 
 ## Kapittel 2. Generelle bestemmelser
 
@@ -78,7 +107,16 @@ Bruk og vedlikehold skal sikre at relevante i krav i [kapittel 4](forskrift/2022
 
 ### § 9. Krav til lokalitetsundersøkelse
 
-For akvakulturanlegg skal det foretas en lokalitetsundersøkelse som minimum omfatter kartlegging og kvantifisering av følgende forhold:fysiske forhold på lokaliteten, herunder bunntopografi og bunnforhold, ogmiljøforhold på lokaliteten for følgende parametere:tidevannsnivåer og høy- og lavvannstand,strøm,vind,bølger ogis- og snøforhold, herunder nedising, drivis og innfrysing.
+For akvakulturanlegg skal det foretas en lokalitetsundersøkelse som minimum omfatter kartlegging og kvantifisering av følgende forhold:
+
+1. fysiske forhold på lokaliteten, herunder bunntopografi og bunnforhold, og
+2. miljøforhold på lokaliteten for følgende parametere:
+
+   1. tidevannsnivåer og høy- og lavvannstand,
+   2. strøm,
+   3. vind,
+   4. bølger og
+   5. is- og snøforhold, herunder nedising, drivis og innfrysing.
 
 Lokalitetsundersøkelsen skal foretas og dokumenteres i samsvar med til enhver tid beste praksis og beste kunnskap om aktuelle fremgangsmåter og miljøforhold, herunder måle- og beregningsmetoder.
 
@@ -86,7 +124,11 @@ Lokalitetsundersøkelsen skal dokumenteres i en lokalitetsrapport. Lokalitetsrap
 
 Fremgangsmåter og innsamling, behandling og bearbeiding av data og målinger skal dokumenteres i lokalitetsrapporten.
 
-Lokalitetsrapporten skal inneholde topografisk kart over lokaliteten som minimum skal angi følgende:målepunkt for strøm,rapporteringspunkt for bølgeforhold ogområdet på lokaliteten hvor akvakulturanlegget kan ligge.
+Lokalitetsrapporten skal inneholde topografisk kart over lokaliteten som minimum skal angi følgende:
+
+1. målepunkt for strøm,
+2. rapporteringspunkt for bølgeforhold og
+3. området på lokaliteten hvor akvakulturanlegget kan ligge.
 
 Lokalitetsundersøkelsen og lokalitetsrapporten skal til enhver tid være representativ for hele området på lokaliteten der akvakulturanlegget kan ligge.
 
@@ -102,7 +144,12 @@ Akkreditert inspeksjonsorgan kan bruke underleverandører til å foreta enkelte 
 
 ### § 11. Krav til utforming, laster og kapasitet
 
-Akvakulturanlegg skal være utformet slik at det er tilpasset sitt bruk og slik at:et rømmingssikkert samvirke mellom komponenter er ivaretatt,det ikke forekommer utilsiktet kontakt mellom komponenter,det har tilstrekkelig sikkerhet mot rømming av fisk som følge av overskylling og nedtrekk, ogdet er lagt til rette for ettersyn og vedlikehold.
+Akvakulturanlegg skal være utformet slik at det er tilpasset sitt bruk og slik at:
+
+1. et rømmingssikkert samvirke mellom komponenter er ivaretatt,
+2. det ikke forekommer utilsiktet kontakt mellom komponenter,
+3. det har tilstrekkelig sikkerhet mot rømming av fisk som følge av overskylling og nedtrekk, og
+4. det er lagt til rette for ettersyn og vedlikehold.
 
 Laster som kan virke på akvakulturanlegg og dets komponenter, inkludert ved ulykkessituasjoner, skal fastsettes. Der flere laster kan opptre samtidig, skal den mest ugunstige lastkombinasjonen legges til grunn. Miljølaster som benyttes i dimensjonering mot konstruksjonssvikt skal ha en returperiode på minst 50 år.
 
@@ -114,7 +161,12 @@ Akvakulturanlegg og dets komponenter skal til enhver tid ha tilstrekkelig kapasi
 
 Den som foretar prosjektering eller utførelse av ekstrautstyr i pålitelighetsklasse 2 eller hovedkomponenter i pålitelighetsklasse 2 eller pålitelighetsklasse 3, skal foreta egenkontroll og sidemannskontroll av slike aktiviteter. Eksternt foretak skal foreta utvidet kontroll av prosjektering og utførelse av hovedkomponenter i pålitelighetsklasse 3.
 
-Kravene til pålitelighetsklasse 3 gjelder for kontroll av prosjektering og utførelse av:innhegning og flyter dersom antall fisk i en innhegning overstiger 200 000 individer,flyter dersom antall fisk i felles flyter overstiger 200 000 individer,posisjoneringssystem dersom antall fisk i felles posisjoneringssystem overstiger 1 500 000 individer oghovedkomponenter i akvakulturanlegg plassert på en lokalitet hvor signifikant bølgehøyde kan overstige 5 meter i en sjøtilstand med returperiode på 50 år eller mer, jf. [§ 9](forskrift/2022-08-22-1484/§9).
+Kravene til pålitelighetsklasse 3 gjelder for kontroll av prosjektering og utførelse av:
+
+1. innhegning og flyter dersom antall fisk i en innhegning overstiger 200 000 individer,
+2. flyter dersom antall fisk i felles flyter overstiger 200 000 individer,
+3. posisjoneringssystem dersom antall fisk i felles posisjoneringssystem overstiger 1 500 000 individer og
+4. hovedkomponenter i akvakulturanlegg plassert på en lokalitet hvor signifikant bølgehøyde kan overstige 5 meter i en sjøtilstand med returperiode på 50 år eller mer, jf. [§ 9](forskrift/2022-08-22-1484/§9).
 
 Kontroll av prosjektering og utførelse av hovedkomponenter og ekstrautstyr skal ellers oppfylle kravene til pålitelighetsklasse 2.
 
@@ -124,7 +176,11 @@ Ulike hovedkomponenter kan ha ulik pålitelighetsklasse. Deler av en hovedkompon
 
 Materialer som skal brukes i eller på akvakulturanlegg skal ha egenskaper som gir akvakulturanlegget og dets komponenter tilfredsstillende kapasitet og bestandighet gjennom hele den dimensjonerende brukstiden.
 
-Materialer skal velges med hensyn til:kravene til laster, jf. [§ 11](forskrift/2022-08-22-1484/§11),bruks- og driftsforhold som kan oppstå i løpet av den dimensjonerende brukstiden ogplaner for inspeksjon, vedlikehold, reparasjon og utskifting.
+Materialer skal velges med hensyn til:
+
+1. kravene til laster, jf. [§ 11](forskrift/2022-08-22-1484/§11),
+2. bruks- og driftsforhold som kan oppstå i løpet av den dimensjonerende brukstiden og
+3. planer for inspeksjon, vedlikehold, reparasjon og utskifting.
 
 ### § 14. Krav til sporbarhet
 
@@ -140,7 +196,17 @@ Merking etter første og andre ledd skal være leselig, permanent, bestandig og 
 
 ### § 16. Krav til brukerhåndbok
 
-Produsent og leverandør av sertifiserte produkter etter [kapittel 7](forskrift/2022-08-22-1484/kap7) og av ekstrautstyr, skal sammen med produktet levere brukerhåndbok med klare anvisninger for transport, lagring, montering, bruk og vedlikehold av produktet. Brukerhåndboken skal minimum inneholde:opplysninger om produsent og produktidentifikasjon,beskrivelse av komponenten og dens bestanddeler,beskrivelse av grensesnitt mot andre hovedkomponenter og ekstrautstyr,krav til montering,krav til bruk,krav til ettersyn og vedlikehold,krav til transport og lagring,versjonshistorikk for endringer i brukerhåndboken ogbrukerhåndbokens versjonsnummer.
+Produsent og leverandør av sertifiserte produkter etter [kapittel 7](forskrift/2022-08-22-1484/kap7) og av ekstrautstyr, skal sammen med produktet levere brukerhåndbok med klare anvisninger for transport, lagring, montering, bruk og vedlikehold av produktet. Brukerhåndboken skal minimum inneholde:
+
+1. opplysninger om produsent og produktidentifikasjon,
+2. beskrivelse av komponenten og dens bestanddeler,
+3. beskrivelse av grensesnitt mot andre hovedkomponenter og ekstrautstyr,
+4. krav til montering,
+5. krav til bruk,
+6. krav til ettersyn og vedlikehold,
+7. krav til transport og lagring,
+8. versjonshistorikk for endringer i brukerhåndboken og
+9. brukerhåndbokens versjonsnummer.
 
 Brukerhåndboken skal angi hvilke versjoner av produktet brukerhåndboken gjelder for.
 
@@ -178,9 +244,21 @@ Dynamiske posisjoneringssystemer skal utformes slik at posisjonen kan oppretthol
 
 For akvakulturanlegg med forankringssystem skal det foretas en forankringsanalyse.
 
-Forankringsanalysen skal:dokumentere at forankringssystemet gir sikker forankring på lokalitet,være basert på lokalitetsundersøkelsen jf. [§ 9](forskrift/2022-08-22-1484/§9) ogvære representativ for akvakulturanlegget på lokalitet.
+Forankringsanalysen skal:
 
-Dokumentasjon av forankringsanalysen skal minimum inneholde følgende opplysninger:hvilken lokalitet analysen gjelder,hvilke forutsetninger, beregningsmetoder og laster som er benyttet i forankringsanalysen,resultater fra beregningene,beskrivelse av analysert anleggskonfigurasjon og hvilke anleggskonfigurasjoner analysen er representativ for,en skisse eller et kart av hele forankringssystemet hvor alle hovedkomponenter i anlegget er tegnet inn,pålitelighetsklasse ogerklæring av samsvar mellom utlagt og analysert forankringssystem.
+1. dokumentere at forankringssystemet gir sikker forankring på lokalitet,
+2. være basert på lokalitetsundersøkelsen jf. [§ 9](forskrift/2022-08-22-1484/§9) og
+3. være representativ for akvakulturanlegget på lokalitet.
+
+Dokumentasjon av forankringsanalysen skal minimum inneholde følgende opplysninger:
+
+1. hvilken lokalitet analysen gjelder,
+2. hvilke forutsetninger, beregningsmetoder og laster som er benyttet i forankringsanalysen,
+3. resultater fra beregningene,
+4. beskrivelse av analysert anleggskonfigurasjon og hvilke anleggskonfigurasjoner analysen er representativ for,
+5. en skisse eller et kart av hele forankringssystemet hvor alle hovedkomponenter i anlegget er tegnet inn,
+6. pålitelighetsklasse og
+7. erklæring av samsvar mellom utlagt og analysert forankringssystem.
 
 Dokumentasjon av forankringsanalysen skal være tilgjengelig på akvakulturanlegget analysen gjelder for, eller på anleggets tilhørende landbase.
 
@@ -248,7 +326,20 @@ Produktsertifiseringsbevis skal utstedes til produsent eller leverandør.
 
 ### § 30. Krav til produktsertifiseringsbeviset
 
-Produktsertifiseringsbeviset skal inneholde følgende opplysninger:sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,produktnavn, produkttype og en entydig beskrivelse av produktet,et unikt nummer som identifiserer produktsertifiseringsbeviset,dato for utstedelse av produktsertifiseringsbeviset,dato og gyldighetsperiode for produktsertifiseringen,omfanget av produktsertifiseringen,hvilke normative dokumenter produktet er sertifisert i henhold til,pålitelighetsklasse og kriterier for gyldighet av produktsertifiseringen,navn og adresse til innehaveren av produktsertifiseringsbeviset,navn og adresse til produsenten,navn og adresse til leverandøren ogakkrediteringsmerke til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan.
+Produktsertifiseringsbeviset skal inneholde følgende opplysninger:
+
+1. sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,
+2. produktnavn, produkttype og en entydig beskrivelse av produktet,
+3. et unikt nummer som identifiserer produktsertifiseringsbeviset,
+4. dato for utstedelse av produktsertifiseringsbeviset,
+5. dato og gyldighetsperiode for produktsertifiseringen,
+6. omfanget av produktsertifiseringen,
+7. hvilke normative dokumenter produktet er sertifisert i henhold til,
+8. pålitelighetsklasse og kriterier for gyldighet av produktsertifiseringen,
+9. navn og adresse til innehaveren av produktsertifiseringsbeviset,
+10. navn og adresse til produsenten,
+11. navn og adresse til leverandøren og
+12. akkrediteringsmerke til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan.
 
 En liste over underlagsdokumentasjon som ligger til grunn for produktsertifiseringen skal vedlegges produktsertifiseringsbeviset.
 
@@ -258,7 +349,19 @@ Produktsertifikat skal utstedes for produkter som er produktsertifisert, jf. [§
 
 ### § 32. Krav til produktsertifikatet
 
-Produktsertifikatet skal inneholde følgende opplysninger:produsentens navn, logo, adresse og underskrift,navn og adresse til innehaveren av produktsertifiseringsbeviset,produktsertifiseringsbevisets unike nummer,hvilket sertifiseringsorgan som har utstedt produktsertifiseringsbeviset,produktnavn, produkttype og en entydig beskrivelse av produktet,dato for utstedelse av produktsertifikatet,kriterier for gyldighet, herunder dimensjonerende brukstid og produksjonsdato,unikt produktnummer eller serienummer til produktet,hvilke laster produktet skal ha kapasitet til å motstå i løpet av den dimensjonerende brukstiden,pålitelighetsklasse, jf. [§ 12](forskrift/2022-08-22-1484/§12) oghvilke normative dokumenter produktet er sertifisert i henhold til.
+Produktsertifikatet skal inneholde følgende opplysninger:
+
+1. produsentens navn, logo, adresse og underskrift,
+2. navn og adresse til innehaveren av produktsertifiseringsbeviset,
+3. produktsertifiseringsbevisets unike nummer,
+4. hvilket sertifiseringsorgan som har utstedt produktsertifiseringsbeviset,
+5. produktnavn, produkttype og en entydig beskrivelse av produktet,
+6. dato for utstedelse av produktsertifikatet,
+7. kriterier for gyldighet, herunder dimensjonerende brukstid og produksjonsdato,
+8. unikt produktnummer eller serienummer til produktet,
+9. hvilke laster produktet skal ha kapasitet til å motstå i løpet av den dimensjonerende brukstiden,
+10. pålitelighetsklasse, jf. [§ 12](forskrift/2022-08-22-1484/§12) og
+11. hvilke normative dokumenter produktet er sertifisert i henhold til.
 
 Produktsertifikatet skal være tilgjengelig på akvakulturanlegget produktet er i bruk på eller anleggets tilhørende landbase.
 
@@ -266,7 +369,13 @@ Produktsertifikatet skal være tilgjengelig på akvakulturanlegget produktet er 
 
 Produsent av produkt som er omfattet av krav om produktsertifisering, skal kunne framlegge dokumentasjon av sitt kvalitetssystem. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert systematisk i form av skriftlige tiltak, rutiner og instruksjoner. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Dokumentasjonen skal særlig omfatte en beskrivelse av;kvalitetsmål og organisasjonsstruktur, samt ledelsens ansvar og myndighet hva produktkvalitet angår,produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,undersøkelsene og prøvingen som vil bli foretatt før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje, og med angivelse av toleransegrenser og kriterier for hva som er et godkjent produkt,kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt.
+Dokumentasjonen skal særlig omfatte en beskrivelse av;
+
+1. kvalitetsmål og organisasjonsstruktur, samt ledelsens ansvar og myndighet hva produktkvalitet angår,
+2. produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,
+3. undersøkelsene og prøvingen som vil bli foretatt før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje, og med angivelse av toleransegrenser og kriterier for hva som er et godkjent produkt,
+4. kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,
+5. mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt.
 
 ### § 34. Levetidsforlengelse
 
@@ -274,15 +383,31 @@ Hovedkomponenter og konstruksjonsdeler i forankringssystem skal ha en levetidsfo
 
 Notpose, notpanel, dukpose og dukpanel er unntatt fra krav i denne bestemmelsen.
 
-Bevis for levetidsforlengelse kan kun utstedes av akkreditert inspeksjonsorgan og skal bekrefte at vilkårene i [§ 35](forskrift/2022-08-22-1484/§35) er oppfylt. Bevis for levetidsforlengelse skal i tillegg inneholde følgende opplysninger:produktnavn, produkttype og en entydig beskrivelse av produktet,inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,levetidsforlengelsens unike nummer, med referanse til nummer på alle tidligere produktsertifikat, hovedkomponentbevis og levetidsforlengelse,hvilke laster produktet skal ha kapasitet til å motstå i løpet av den forlengede levetiden,dato for verifikasjon av levetidsforlengelse og utløpsdato for forlenget levetid,pålitelighetsklasse, jf. [§ 12](forskrift/2022-08-22-1484/§12) oghvilke normative dokumenter produktet er verifisert i henhold til.
+Bevis for levetidsforlengelse kan kun utstedes av akkreditert inspeksjonsorgan og skal bekrefte at vilkårene i [§ 35](forskrift/2022-08-22-1484/§35) er oppfylt. Bevis for levetidsforlengelse skal i tillegg inneholde følgende opplysninger:
+
+1. produktnavn, produkttype og en entydig beskrivelse av produktet,
+2. inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,
+3. levetidsforlengelsens unike nummer, med referanse til nummer på alle tidligere produktsertifikat, hovedkomponentbevis og levetidsforlengelse,
+4. hvilke laster produktet skal ha kapasitet til å motstå i løpet av den forlengede levetiden,
+5. dato for verifikasjon av levetidsforlengelse og utløpsdato for forlenget levetid,
+6. pålitelighetsklasse, jf. [§ 12](forskrift/2022-08-22-1484/§12) og
+7. hvilke normative dokumenter produktet er verifisert i henhold til.
 
 Bevis for levetidsforlengelse skal være tilgjengelig på det akvakulturanlegget produktet er i bruk på eller på anleggets tilhørende landbase.
 
 ### § 35. Vilkår for levetidsforlengelse
 
-Før utstedelse av bevis for levetidsforlengelse skal det:foretas nødvendige undersøkelser av hovedkomponenten eller representative konstruksjonsdeler i forankringssystemet,fastsettes hovedkomponentens eller konstruksjonsdelens tilstand på tidspunkt for verifikasjon med tilstrekkelig hensyn til usikkerhet ogfastsettes forventet svekkelse av hovedkomponentens eller konstruksjonsdelens kapasitet og bestandighet med tilstrekkelig hensyn til usikkerhet.
+Før utstedelse av bevis for levetidsforlengelse skal det:
 
-Akkreditert inspeksjonsorgan kan bare utstede bevis for levetidsforlengelse for en gitt periode dersom det er verifisert at:hovedkomponenten eller konstruksjonsdelen oppfyller krav i [§ 11](forskrift/2022-08-22-1484/§11), [§ 13](forskrift/2022-08-22-1484/§13) og [kapittel 5](forskrift/2022-08-22-1484/kap5) i den gitte perioden for levetidsforlengelse,hovedkomponenten eller konstruksjonsdelen oppfyller krav i [§ 15](forskrift/2022-08-22-1484/§15) ogdet foreligger brukerhåndbok med oppdaterte krav til vedlikehold og kassering.
+1. foretas nødvendige undersøkelser av hovedkomponenten eller representative konstruksjonsdeler i forankringssystemet,
+2. fastsettes hovedkomponentens eller konstruksjonsdelens tilstand på tidspunkt for verifikasjon med tilstrekkelig hensyn til usikkerhet og
+3. fastsettes forventet svekkelse av hovedkomponentens eller konstruksjonsdelens kapasitet og bestandighet med tilstrekkelig hensyn til usikkerhet.
+
+Akkreditert inspeksjonsorgan kan bare utstede bevis for levetidsforlengelse for en gitt periode dersom det er verifisert at:
+
+1. hovedkomponenten eller konstruksjonsdelen oppfyller krav i [§ 11](forskrift/2022-08-22-1484/§11), [§ 13](forskrift/2022-08-22-1484/§13) og [kapittel 5](forskrift/2022-08-22-1484/kap5) i den gitte perioden for levetidsforlengelse,
+2. hovedkomponenten eller konstruksjonsdelen oppfyller krav i [§ 15](forskrift/2022-08-22-1484/§15) og
+3. det foreligger brukerhåndbok med oppdaterte krav til vedlikehold og kassering.
 
 Dersom det ikke er akkreditert inspeksjonsorgan som foretar aktivitetene etter første og andre ledd, skal inspeksjonsorganet verifisere at det foretatte arbeidet oppfyller kravene i første og andre ledd.
 
@@ -298,9 +423,24 @@ Akvakulturanlegg som ikke har anleggssertifikat kan ikke brukes til akvakultur.
 
 ### § 37. Vilkår for utstedelse av anleggssertifikatet
 
-Vilkår for utstedelse av anleggssertifikatet er at akkreditert inspeksjonsorgan har verifisert at:akvakulturanlegget oppfyller kravene i [§ 11](forskrift/2022-08-22-1484/§11),akvakulturanleggets komponenter oppfyller kravene i [§ 12](forskrift/2022-08-22-1484/§12),forankrings- og posisjoneringssystemet oppfyller kravene i [§ 21](forskrift/2022-08-22-1484/§21),forankringsanalysen oppfyller kravene i [§ 22](forskrift/2022-08-22-1484/§22),utleggsrapporten og rapport etter forankringsinspeksjon oppfyller kravene i [§ 23](forskrift/2022-08-22-1484/§23),nødvendige produktsertifikat jf. [§ 31](forskrift/2022-08-22-1484/§31), levetidforlengelser jf. [§ 34](forskrift/2022-08-22-1484/§34) og hovedkomponentbevis foreligger,lokalitetsrapport foreligger jf. [§ 9](forskrift/2022-08-22-1484/§9),akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok.
+Vilkår for utstedelse av anleggssertifikatet er at akkreditert inspeksjonsorgan har verifisert at:
 
-Dersom akvakulturanlegget ikke brukes til akvakultur på tidspunktet for utstedelse av anleggssertifikat, kan vilkåret i første ledd bokstav h fravikes. Da gjelder i stedet følgende krav:innehaver skal fremlegge prosedyrer til akkreditert inspeksjonsorgan som viser hvordan det skal sikres at akvakulturanleggets komponenter er i teknisk forsvarlig stand og blir montert i henhold til brukerhåndbok før bruk,akkreditert inspeksjonsorgan skal i rimelig utstrekning verifisere at fremlagte prosedyrer er tilstrekkelige for å ivareta sine formål før utstedelse av anleggssertifikat,innehaver skal senest samme dag som utsett av første fisk varsle akkreditert inspeksjonsorgan om tidspunkt for utsett,senest 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan ha foretatt en verifikasjon av at akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok, ogdersom verifikasjon i henhold til nummer 4 ikke er foretatt innen 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer.
+1. akvakulturanlegget oppfyller kravene i [§ 11](forskrift/2022-08-22-1484/§11),
+2. akvakulturanleggets komponenter oppfyller kravene i [§ 12](forskrift/2022-08-22-1484/§12),
+3. forankrings- og posisjoneringssystemet oppfyller kravene i [§ 21](forskrift/2022-08-22-1484/§21),
+4. forankringsanalysen oppfyller kravene i [§ 22](forskrift/2022-08-22-1484/§22),
+5. utleggsrapporten og rapport etter forankringsinspeksjon oppfyller kravene i [§ 23](forskrift/2022-08-22-1484/§23),
+6. nødvendige produktsertifikat jf. [§ 31](forskrift/2022-08-22-1484/§31), levetidforlengelser jf. [§ 34](forskrift/2022-08-22-1484/§34) og hovedkomponentbevis foreligger,
+7. lokalitetsrapport foreligger jf. [§ 9](forskrift/2022-08-22-1484/§9),
+8. akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok.
+
+Dersom akvakulturanlegget ikke brukes til akvakultur på tidspunktet for utstedelse av anleggssertifikat, kan vilkåret i første ledd bokstav h fravikes. Da gjelder i stedet følgende krav:
+
+1. innehaver skal fremlegge prosedyrer til akkreditert inspeksjonsorgan som viser hvordan det skal sikres at akvakulturanleggets komponenter er i teknisk forsvarlig stand og blir montert i henhold til brukerhåndbok før bruk,
+2. akkreditert inspeksjonsorgan skal i rimelig utstrekning verifisere at fremlagte prosedyrer er tilstrekkelige for å ivareta sine formål før utstedelse av anleggssertifikat,
+3. innehaver skal senest samme dag som utsett av første fisk varsle akkreditert inspeksjonsorgan om tidspunkt for utsett,
+4. senest 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan ha foretatt en verifikasjon av at akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok, og
+5. dersom verifikasjon i henhold til nummer 4 ikke er foretatt innen 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer.
 
 Dersom akkreditert inspeksjonsorgan avdekker avvik gjennom verifikasjon i henhold til første ledd bokstav h eller andre ledd, skal disse lukkes innen en rimelig frist satt av akkreditert inspeksjonsorgan. Denne type avvik er ikke til hinder for utstedelse av anleggssertifikat. Dersom påpekte avvik ikke lukkes før fastsatte frister, skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer.
 
@@ -308,13 +448,28 @@ Dersom akkreditert inspeksjonsorgan avdekker vesentlige avvik gjennom verifikasj
 
 ### § 38. Krav til anleggssertifikatet
 
-Anleggssertifikatet skal dokumentere at vilkårene i [§ 37](forskrift/2022-08-22-1484/§37) er oppfylt. Følgende skal også framgå av anleggssertifikatet:inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,akkrediteringsmerket til Norsk Akkreditering eller tilsvarende anerkjent akkrediteringsorgan,dato for utstedelse av sertifikatet og utløpsdato,unikt lokalitetsnummer for lokaliteten som akvakulturanlegget er utplassert på,dimensjonerende miljøforhold,eventuelle avvik som foreligger etter [§ 37](forskrift/2022-08-22-1484/§37/ledd/3) tredje ledd og frist for lukking,revisjonslogg.
+Anleggssertifikatet skal dokumentere at vilkårene i [§ 37](forskrift/2022-08-22-1484/§37) er oppfylt. Følgende skal også framgå av anleggssertifikatet:
+
+1. inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,
+2. akkrediteringsmerket til Norsk Akkreditering eller tilsvarende anerkjent akkrediteringsorgan,
+3. dato for utstedelse av sertifikatet og utløpsdato,
+4. unikt lokalitetsnummer for lokaliteten som akvakulturanlegget er utplassert på,
+5. dimensjonerende miljøforhold,
+6. eventuelle avvik som foreligger etter [§ 37](forskrift/2022-08-22-1484/§37/ledd/3) tredje ledd og frist for lukking,
+7. revisjonslogg.
 
 ### § 39. Dokumentasjon av anleggskonfigurasjon
 
 Anleggssertifikatet skal beskrive akvakulturanleggets konfigurasjon på tidspunktet for verifikasjon etter [§ 37](forskrift/2022-08-22-1484/§37/bokstav/h) bokstav h eller [§ 37](forskrift/2022-08-22-1484/§37/ledd/2) andre ledd punkt 4. Anleggssertifikatet skal også beskrive mulig fremtidig konfigurasjon. Det kan ikke foretas endringer av anleggets konfigurasjon utover det som er beskrevet i anleggssertifikatet uten at det innhentes nytt eller oppdatert anleggssertifikat.
 
-Anleggets konfigurasjon skal beskrives i henhold til kravene i bokstav a–f:for innhegning; utforming, dimensjoner, materiale, soliditet, utspilingssystem, antall innhegninger og plassering,for flyter; utforming, dimensjoner, materiale, antall flytere og plassering,for flåte; utforming, dimensjoner, materiale, plassering og om flåte har separat forankringssystem eller er forankret sammen med det øvrige anlegget,for forankringssystem; opplysninger om hele forankringssystemet og en skisse eller kart hvor alle hovedkomponenter i anlegget er tegnet inn,for integrert hovedkomponent; utforming, dimensjoner, materiale, antall og plassering av hovedkomponentene i anlegget,for permanent ekstrautstyr; opplysninger om bruk og plassering.
+Anleggets konfigurasjon skal beskrives i henhold til kravene i bokstav a–f:
+
+1. for innhegning; utforming, dimensjoner, materiale, soliditet, utspilingssystem, antall innhegninger og plassering,
+2. for flyter; utforming, dimensjoner, materiale, antall flytere og plassering,
+3. for flåte; utforming, dimensjoner, materiale, plassering og om flåte har separat forankringssystem eller er forankret sammen med det øvrige anlegget,
+4. for forankringssystem; opplysninger om hele forankringssystemet og en skisse eller kart hvor alle hovedkomponenter i anlegget er tegnet inn,
+5. for integrert hovedkomponent; utforming, dimensjoner, materiale, antall og plassering av hovedkomponentene i anlegget,
+6. for permanent ekstrautstyr; opplysninger om bruk og plassering.
 
 Innehaver av akvakulturtillatelse plikter å føre journal over samtlige hovedkomponenter og konstruksjonsdeler i forankringssystem som byttes inn og ut på lokaliteten.
 
@@ -324,7 +479,10 @@ Anleggssertifikat og journal over hovedkomponenter og konstruksjonsdeler i foran
 
 Akkreditert inspeksjonsorgan kan oppdatere eksisterende anleggssertifikat. Ved avdekking og lukking av avvik etter [§ 37](forskrift/2022-08-22-1484/§37/ledd/3) tredje ledd skal akkreditert inspeksjonsorgan oppdatere eksisterende anleggssertifikat.
 
-Akkreditert inspeksjonsorgan skal ved oppdateringer:gjennomføre en delrevisjon hvor det verifiseres at krav gitt i [§ 37](forskrift/2022-08-22-1484/§37) er oppfylt for de deler av anlegget som er påvirket av oppdateringen, ogtilføre delrevisjonen i anleggssertifikatets revisjonslogg med revisjonsnummer, dato for oppdatering og beskrivelse av oppdateringens innhold.
+Akkreditert inspeksjonsorgan skal ved oppdateringer:
+
+1. gjennomføre en delrevisjon hvor det verifiseres at krav gitt i [§ 37](forskrift/2022-08-22-1484/§37) er oppfylt for de deler av anlegget som er påvirket av oppdateringen, og
+2. tilføre delrevisjonen i anleggssertifikatets revisjonslogg med revisjonsnummer, dato for oppdatering og beskrivelse av oppdateringens innhold.
 
 ### § 41. Anleggssertifikatets gyldighet
 
@@ -340,7 +498,10 @@ Inspeksjonsorgan som utsteder anleggssertifikat i henhold til dette kapittelet, 
 
 ### § 43. Montering, tilpasning, bruk og vedlikehold
 
-Akvakulturanlegget skal til enhver tid være i forsvarlig teknisk stand. Komponenter som inngår i akvakulturanlegget skal:til enhver tid være montert riktig sammen og tilpasset hverandre i samsvar med anleggssertifikatet, samt krav i denne forskriften og brukerhåndbøker, ogbrukes og vedlikeholdes i samsvar med krav oppstilt i brukerhåndbok, jf. [§ 16](forskrift/2022-08-22-1484/§16).
+Akvakulturanlegget skal til enhver tid være i forsvarlig teknisk stand. Komponenter som inngår i akvakulturanlegget skal:
+
+1. til enhver tid være montert riktig sammen og tilpasset hverandre i samsvar med anleggssertifikatet, samt krav i denne forskriften og brukerhåndbøker, og
+2. brukes og vedlikeholdes i samsvar med krav oppstilt i brukerhåndbok, jf. [§ 16](forskrift/2022-08-22-1484/§16).
 
 Ved nødvendige og midlertidige operasjoner på akvakulturanlegg kan det i kort tid, under tett overvåkning og kontrollerte forhold, avvikes fra kravet i første ledd bokstav a.
 
@@ -356,15 +517,33 @@ Varsling om avvik etter første og andre ledd skal sendes til Fiskeridirektorate
 
 Tjenesteprodusent som skal foreta kontroll og reparasjon av notpose, notpanel, dukpose og dukpanel skal ha sertifiseringsdokument utstedt av akkreditert sertifiseringsorgan, jf. [§ 26](forskrift/2022-08-22-1484/§26).
 
-Sertifiseringsdokumentet skal som minimum inneholde følgende opplysninger:tjenesteprodusentens navn, adresse og organisasjonsnummer;sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift;et unikt nummer for sertifiseringsdokumentet;dato for utstedelse av sertifikatet;hvilke normative dokument virksomheten er sertifisert i henhold til oghvilke tjenester virksomheten er sertifisert for.
+Sertifiseringsdokumentet skal som minimum inneholde følgende opplysninger:
+
+1. tjenesteprodusentens navn, adresse og organisasjonsnummer;
+2. sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift;
+3. et unikt nummer for sertifiseringsdokumentet;
+4. dato for utstedelse av sertifikatet;
+5. hvilke normative dokument virksomheten er sertifisert i henhold til og
+6. hvilke tjenester virksomheten er sertifisert for.
 
 ### § 46. Krav til kontroll og reparasjon av notpose, notpanel, dukpose og dukpanel
 
 Notpose, notpanel, dukpose og dukpanel skal ha servicekort utstedt av sertifisert tjenesteprodusent, jf. [§ 45](forskrift/2022-08-22-1484/§45), senest 24 måneder etter oppstart av bruk og ved bruk utover den levetiden som er lagt til grunn i produktsertifikat.
 
-Vilkår for å utstede servicekort er at sertifisert virksomhet har:foretatt kontroll og nødvendig reparasjon av hele notposen, notpanelet, dukposen eller dukpanelet oggodtgjort at notposen, notpanelet, dukposen eller dukpanelet oppfyller kravene i [§ 11](forskrift/2022-08-22-1484/§11) og [§ 18](forskrift/2022-08-22-1484/§18) og krav i brukerhåndbok, jf. [§ 16](forskrift/2022-08-22-1484/§16).
+Vilkår for å utstede servicekort er at sertifisert virksomhet har:
 
-Servicekortet skal inneholde følgende opplysninger:den sertifiserte tjenesteprodusentens navn, adresse og underskrift,sertifiseringsdokumentets identifikasjon for den sertifiserte virksomheten,identifikasjon av notposen, notpanelet, dukposen eller dukpanelet,akseptkriterier og resultater fra kontroll,beskrivelse av skaders plassering og omfang,beskrivelse av reparasjoner,gyldighetsperiode for servicekort.
+1. foretatt kontroll og nødvendig reparasjon av hele notposen, notpanelet, dukposen eller dukpanelet og
+2. godtgjort at notposen, notpanelet, dukposen eller dukpanelet oppfyller kravene i [§ 11](forskrift/2022-08-22-1484/§11) og [§ 18](forskrift/2022-08-22-1484/§18) og krav i brukerhåndbok, jf. [§ 16](forskrift/2022-08-22-1484/§16).
+
+Servicekortet skal inneholde følgende opplysninger:
+
+1. den sertifiserte tjenesteprodusentens navn, adresse og underskrift,
+2. sertifiseringsdokumentets identifikasjon for den sertifiserte virksomheten,
+3. identifikasjon av notposen, notpanelet, dukposen eller dukpanelet,
+4. akseptkriterier og resultater fra kontroll,
+5. beskrivelse av skaders plassering og omfang,
+6. beskrivelse av reparasjoner,
+7. gyldighetsperiode for servicekort.
 
 Sertifisert tjenesteprodusent fastsetter gyldighetsperioden for servicekortet. Gyldighetsperioden for servicekortet kan være inntil 24 måneder.
 

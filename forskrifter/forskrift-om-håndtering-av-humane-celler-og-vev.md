@@ -15,7 +15,7 @@ xml_hash: "488b542e87038e3f32a8b8f5c69702fbaa45efca42bd597aeb2de727d5919f49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,17 +32,63 @@ Forskriftens formål er å fastsette kvalitets- og sikkerhetsstandarder ved hån
 
 Forskriften gjelder for anskaffelse, donasjon, uttak, testing, konservering, oppbevaring, koding, merking, prosessering og distribusjon av humane celler og vev til anvendelse på mennesker.
 
-Forskriften gjelder også for:Humane celler og vev som er importert fra land utenfor EU/EØS.Fremstilte produkter basert på humane celler og vev beregnet til bruk på mennesker. Dersom fremstilte produkter basert på humane celler og vev er regulert av annet regelverk, gjelder denne forskriften kun for donasjon, uttak og testing.Håndtering av egg, sæd og embryo beregnet for assistert befruktning.
+Forskriften gjelder også for:
 
-Forskriften gjelder ikke for:Celler og vev som anvendes som autologt transplant under samme kirurgiske inngrep.Blod og blodkomponenter, jf. [forskrift 4. februar 2005 nr. 80](forskrift/2005-02-04-80) om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre.Organer eller deler av organer som er beregnet til bruk til samme formål som hele organet i menneskekroppen, jf. [forskrift 7. desember 2015 nr. 1401](forskrift/2015-12-07-1401) om kvalitet og sikkerhet for humane organer beregnet for transplantasjon.
+1. Humane celler og vev som er importert fra land utenfor EU/EØS.
+2. Fremstilte produkter basert på humane celler og vev beregnet til bruk på mennesker. Dersom fremstilte produkter basert på humane celler og vev er regulert av annet regelverk, gjelder denne forskriften kun for donasjon, uttak og testing.
+3. Håndtering av egg, sæd og embryo beregnet for assistert befruktning.
+
+Forskriften gjelder ikke for:
+
+1. Celler og vev som anvendes som autologt transplant under samme kirurgiske inngrep.
+2. Blod og blodkomponenter, jf. [forskrift 4. februar 2005 nr. 80](forskrift/2005-02-04-80) om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre.
+3. Organer eller deler av organer som er beregnet til bruk til samme formål som hele organet i menneskekroppen, jf. [forskrift 7. desember 2015 nr. 1401](forskrift/2015-12-07-1401) om kvalitet og sikkerhet for humane organer beregnet for transplantasjon.
 
 > Endret ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
 ### § 3. Definisjoner
 
-I denne forskriften forstås med:*allogen bruk:* celler og vev som uttas fra en person og brukes på en annen.*alvorlig uønsket hendelse:* en utilsiktet eller uheldig hendelse knyttet til uttak, testing, behandling, oppbevaring og distribusjon av celler og vev som kan medføre overføring av smittsomme sykdommer, død eller en livstruende eller invalidiserende tilstand eller uførhet hos pasient eller donor, eller som kan medføre eller forlenge sykehusopphold eller sykdom.*alvorlig bivirkning:* en utilsiktet reaksjon, herunder en smittsom sykdom, i forbindelse med uttak eller anvendelse av celler og vev på mennesker, som er dødelig, livstruende, invalidiserende eller medfører uførhet eller som medfører eller forlenger sykehusopphold eller sykdom hos donor eller mottaker.*anskaffelse:* prosess der celler og vev gjøres tilgjengelig ved innførsel eller kjøp fra en annen virksomhet.*anvendelse på mennesker:* anvendelse av celler eller vev på eller i menneskekroppen, samt anvendelse utenfor kroppen.*autolog bruk:* celler og vev som uttas fra og brukes på samme person.*celler:* individuelle humane celler eller en samling humane celler som ikke holdes sammen av noe form for bindevev.*direkte bruk:* en prosedyre der celler eller vev doneres og brukes uten mellomliggende lagring.*distribusjon:* transport og levering av celler og vev til anvendelse på mennesker.*donasjon:* avgivelse av humane celler og vev.*donor:* enhver menneskelig kilde til celler og vev, både levende og død.*donasjonsprøve:* blodprøve fra donor som tas for analyse av biologiske markører i forbindelse med donasjon av celler og vev.*frigivelse:* arbeidsoperasjon som skal sikre at bare celler og vev som oppfyller kravene til kvalitet og sikkerhet, frigis fra karantene.*karantene:* status for celler og vev som er oppbevart fysisk adskilt eller isolert på annen effektiv måte i påvente av at kravene for frigivelse er oppfylt.*kjønnsceller:* celler og vev som brukes ved assistert befruktning.*konservering:* bruk av kjemiske stoffer, endringer i miljøet omkring, eller annet som iverksettes under håndteringen med sikte på å forhindre eller forsinke den biologiske eller fysiske forringelsen av celler eller vev.*kritisk:* brukes om et forhold eller et objekt som har betydning for cellers og vevs kvalitet eller sikkerhet, eller om et objekt som kommer i kontakt med celler og vev.*organ:* en differensiert og vital del av menneskekroppen, bestående av forskjellig vev som opprettholder dets struktur, blodforsyning og evne til å utvikle fysiologiske funksjoner med en betydelig grad av autonomi.*partnerdonasjon:* sæddonasjon fra en mann til en kvinne som han er gift eller samboende med i ekteskapsliknende forhold.*prosessering:* alle aktiviteter i forbindelse med å bearbeide, håndtere, konservere og emballere celler og vev.*tredjepart:* ekstern part som tilhører en annen juridisk enhet enn den godkjente virksomheten.*uttak:* prosess hvorved celler eller vev gjøres tilgjengelig.*vev:* enhver del av menneskekroppen som består av celler og intercellulærsubstans.*virksomhet:* den juridiske personen som håndterer celler og vev, eksempelvis helseforetak.
+I denne forskriften forstås med:
 
-Følgende begreper benyttes i tilknytning til felles europeisk kode (SEC):*donasjonsidentifikasjonssekvens:* første del av felles europeisk kode (SEC) som består av EU-vevssenterkode og det entydige donasjonsnummeret.*engangsimport:* import av en særlig type celler eller vev som skal anvendes på en eller flere tiltenkte mottakere som det importerende vevssenter har kjennskap til før importen finner sted. Import fra den samme tredjelandsleverandør som finner sted regelmessig eller gjentatte ganger anses ikke som engangsimport.*EU-vevssenterkode:* den unike identifikasjonen for virksomhetene som er godkjent, utpekt eller har fått lisens i EU//EØS. Koden består av en ISO-landkode og det virksomhetsnummeret som er oppført i EU-vevssenterkompendiet.*EU-vevssenterkompendium:* register over alle virksomheter som er godkjent, utpekt eller har fått lisens av kompetent myndighet i EU/EØS.*felles europeisk kode (SEC):* unik identifikator som anvendes på celler og vev som distribueres i EU. Koden består av en donasjonsidentifikasjonssekvens og en produktidentifikasjonssekvens, jf. vedlegg 3.*nødstilfelle:* en uforutsigbar situasjon hvor det i praksis ikke finnes noen annen mulighet enn straks å importere celler og vev fra et land utenfor EU/EØS for omgående bruk på en eller flere mottakere som vil få alvorlig helseskade uten en slik import.*produktidentifikasjonssekvens:* andre del av felles europeisk kode (SEC) bestående av produktkode, sublotnummer og holdbarhetsdato.*produktkode:* identifikatoren for den aktuelle typen celle eller vev. Produktkoden består av produktkodesystemidentifikatoren som viser hvilket kodingssystem virksomheten benytter («E» for EUTC, «A» for ISBT 128, «B» for Eurocode), og det celle- og vevsnummer som er fastsatt i det respektive kodingssystemet for produkttypen.*sublotnummer:* nummer som kjennetegner og unikt identifiserer celler og vev med samme unike donasjonsnummer, samme produktkode og samme vevssenterkode.*tredjelandsleverandør:* vevssenter eller annen enhet etablert i et land utenfor EU/EØS som er ansvarlig for en aktivitet etter denne forskriften eller som eksporterer celler og vev til en virksomhet som importerer celler og vev.*unikt donasjonsnummer:* det unike nummeret som er tildelt en spesifikk donasjon av celler og vev i overensstemmelse med de enkelte medlemsstaters system for tildeling av slike numre.*virksomhet som importerer celler og vev:* virksomhet som importerer celler og vev beregnet til bruk på mennesker fra et land utenfor EU/EØS etter en kontraktsmessig avtale.
+1. *allogen bruk:* celler og vev som uttas fra en person og brukes på en annen.
+2. *alvorlig uønsket hendelse:* en utilsiktet eller uheldig hendelse knyttet til uttak, testing, behandling, oppbevaring og distribusjon av celler og vev som kan medføre overføring av smittsomme sykdommer, død eller en livstruende eller invalidiserende tilstand eller uførhet hos pasient eller donor, eller som kan medføre eller forlenge sykehusopphold eller sykdom.
+3. *alvorlig bivirkning:* en utilsiktet reaksjon, herunder en smittsom sykdom, i forbindelse med uttak eller anvendelse av celler og vev på mennesker, som er dødelig, livstruende, invalidiserende eller medfører uførhet eller som medfører eller forlenger sykehusopphold eller sykdom hos donor eller mottaker.
+4. *anskaffelse:* prosess der celler og vev gjøres tilgjengelig ved innførsel eller kjøp fra en annen virksomhet.
+5. *anvendelse på mennesker:* anvendelse av celler eller vev på eller i menneskekroppen, samt anvendelse utenfor kroppen.
+6. *autolog bruk:* celler og vev som uttas fra og brukes på samme person.
+7. *celler:* individuelle humane celler eller en samling humane celler som ikke holdes sammen av noe form for bindevev.
+8. *direkte bruk:* en prosedyre der celler eller vev doneres og brukes uten mellomliggende lagring.
+9. *distribusjon:* transport og levering av celler og vev til anvendelse på mennesker.
+10. *donasjon:* avgivelse av humane celler og vev.
+11. *donor:* enhver menneskelig kilde til celler og vev, både levende og død.
+12. *donasjonsprøve:* blodprøve fra donor som tas for analyse av biologiske markører i forbindelse med donasjon av celler og vev.
+13. *frigivelse:* arbeidsoperasjon som skal sikre at bare celler og vev som oppfyller kravene til kvalitet og sikkerhet, frigis fra karantene.
+14. *karantene:* status for celler og vev som er oppbevart fysisk adskilt eller isolert på annen effektiv måte i påvente av at kravene for frigivelse er oppfylt.
+15. *kjønnsceller:* celler og vev som brukes ved assistert befruktning.
+16. *konservering:* bruk av kjemiske stoffer, endringer i miljøet omkring, eller annet som iverksettes under håndteringen med sikte på å forhindre eller forsinke den biologiske eller fysiske forringelsen av celler eller vev.
+17. *kritisk:* brukes om et forhold eller et objekt som har betydning for cellers og vevs kvalitet eller sikkerhet, eller om et objekt som kommer i kontakt med celler og vev.
+18. *organ:* en differensiert og vital del av menneskekroppen, bestående av forskjellig vev som opprettholder dets struktur, blodforsyning og evne til å utvikle fysiologiske funksjoner med en betydelig grad av autonomi.
+19. *partnerdonasjon:* sæddonasjon fra en mann til en kvinne som han er gift eller samboende med i ekteskapsliknende forhold.
+20. *prosessering:* alle aktiviteter i forbindelse med å bearbeide, håndtere, konservere og emballere celler og vev.
+21. *tredjepart:* ekstern part som tilhører en annen juridisk enhet enn den godkjente virksomheten.
+22. *uttak:* prosess hvorved celler eller vev gjøres tilgjengelig.
+23. *vev:* enhver del av menneskekroppen som består av celler og intercellulærsubstans.
+24. *virksomhet:* den juridiske personen som håndterer celler og vev, eksempelvis helseforetak.
+
+Følgende begreper benyttes i tilknytning til felles europeisk kode (SEC):
+
+1. *donasjonsidentifikasjonssekvens:* første del av felles europeisk kode (SEC) som består av EU-vevssenterkode og det entydige donasjonsnummeret.
+2. *engangsimport:* import av en særlig type celler eller vev som skal anvendes på en eller flere tiltenkte mottakere som det importerende vevssenter har kjennskap til før importen finner sted. Import fra den samme tredjelandsleverandør som finner sted regelmessig eller gjentatte ganger anses ikke som engangsimport.
+3. *EU-vevssenterkode:* den unike identifikasjonen for virksomhetene som er godkjent, utpekt eller har fått lisens i EU//EØS. Koden består av en ISO-landkode og det virksomhetsnummeret som er oppført i EU-vevssenterkompendiet.
+4. *EU-vevssenterkompendium:* register over alle virksomheter som er godkjent, utpekt eller har fått lisens av kompetent myndighet i EU/EØS.
+5. *felles europeisk kode (SEC):* unik identifikator som anvendes på celler og vev som distribueres i EU. Koden består av en donasjonsidentifikasjonssekvens og en produktidentifikasjonssekvens, jf. vedlegg 3.
+6. *nødstilfelle:* en uforutsigbar situasjon hvor det i praksis ikke finnes noen annen mulighet enn straks å importere celler og vev fra et land utenfor EU/EØS for omgående bruk på en eller flere mottakere som vil få alvorlig helseskade uten en slik import.
+7. *produktidentifikasjonssekvens:* andre del av felles europeisk kode (SEC) bestående av produktkode, sublotnummer og holdbarhetsdato.
+8. *produktkode:* identifikatoren for den aktuelle typen celle eller vev. Produktkoden består av produktkodesystemidentifikatoren som viser hvilket kodingssystem virksomheten benytter («E» for EUTC, «A» for ISBT 128, «B» for Eurocode), og det celle- og vevsnummer som er fastsatt i det respektive kodingssystemet for produkttypen.
+9. *sublotnummer:* nummer som kjennetegner og unikt identifiserer celler og vev med samme unike donasjonsnummer, samme produktkode og samme vevssenterkode.
+10. *tredjelandsleverandør:* vevssenter eller annen enhet etablert i et land utenfor EU/EØS som er ansvarlig for en aktivitet etter denne forskriften eller som eksporterer celler og vev til en virksomhet som importerer celler og vev.
+11. *unikt donasjonsnummer:* det unike nummeret som er tildelt en spesifikk donasjon av celler og vev i overensstemmelse med de enkelte medlemsstaters system for tildeling av slike numre.
+12. *virksomhet som importerer celler og vev:* virksomhet som importerer celler og vev beregnet til bruk på mennesker fra et land utenfor EU/EØS etter en kontraktsmessig avtale.
 
 > Endret ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
@@ -106,7 +152,12 @@ Virksomheten skal ha tilgang til en autorisert lege som er utpekt til å gi råd
 
 ### § 8. Internkontroll mv.
 
-Virksomhetene skal følge [forskrift 28. oktober 2016 nr. 1250](forskrift/2016-10-28-1250) om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Virksomhetene skal blant annet utarbeide:Standardprosedyrer for alle prosesser som har innvirkning på kvaliteten og sikkerheten ved håndteringen av humane celler og vev. Prosedyrene skal beskrive fasene i en bestemt prosess, materialer og metoder som skal brukes og det forventede sluttproduktet.Retningslinjer og rutiner som sikrer effektiv, pålitelig og korrekt journalføring, donorregistrering, koding og uttaks- og mottaksrapportering.Prosedyrer for å håndtere avvik fra kvalitets- og sikkerhetsstandardene som følger av denne forskriften.Prosedyrer for identifisering, registrering og håndtering av celler og vev som ikke oppfyller kravene til kvalitet og sikkerhet som er fastsatt i denne forskriften.
+Virksomhetene skal følge [forskrift 28. oktober 2016 nr. 1250](forskrift/2016-10-28-1250) om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten. Virksomhetene skal blant annet utarbeide:
+
+1. Standardprosedyrer for alle prosesser som har innvirkning på kvaliteten og sikkerheten ved håndteringen av humane celler og vev. Prosedyrene skal beskrive fasene i en bestemt prosess, materialer og metoder som skal brukes og det forventede sluttproduktet.
+2. Retningslinjer og rutiner som sikrer effektiv, pålitelig og korrekt journalføring, donorregistrering, koding og uttaks- og mottaksrapportering.
+3. Prosedyrer for å håndtere avvik fra kvalitets- og sikkerhetsstandardene som følger av denne forskriften.
+4. Prosedyrer for identifisering, registrering og håndtering av celler og vev som ikke oppfyller kravene til kvalitet og sikkerhet som er fastsatt i denne forskriften.
 
 Når avvik oppdages, skal det iverksettes undersøkelser og besluttes om korrigerende og forebyggende tiltak bør iverksettes.
 
@@ -138,9 +189,19 @@ Avtalen skal sikre at prosedyrer og krav som gjelder for prosessene tredjeparten
 
 Virksomheten skal inngå skriftlige avtaler med tredjelandsleverandører før import av celler og vev. Overføring av celler og vev fra land utenfor EU/EØS kan bare finne sted etter godkjenning fra Direktoratet for medisinske produkter jf. [§ 4](forskrift/2015-12-07-1430/§4) og [§ 44](forskrift/2015-12-07-1430/§44).
 
-Avtalen mellom virksomheten og tredjelandsleverandøren skal sikre at:kravene etter forskriften oppfylles, herunder smittetesting av donor og innhenting av skriftlig samtykke til donasjon,tredjelandsleverandøren legger fram dokumentasjonen som kreves etter [§ 9b](forskrift/2015-12-07-1430/§9b),tredjelandsleverandøren straks varsler om mistanker eller kunnskap om alvorlige uønskede hendelser eller bivirkninger, som kan påvirke kvaliteten og sikkerheten til aktuelle celler og vev,tredjelandsleverandøren informerer om alle vesentlige endringer, herunder endringer i aktivitet, enhver tilbakekallelse av leverandørens godkjenning til å eksportere celler og vev, informasjon om andre lignende avgjørelser om avvik som kan ha innflytelse på kvaliteten og sikkerheten til celler og vev som er påpekt av kompetent myndighet i land utenfor EU/EØS,tredjelandsleverandøren og/eller dennes underleverandør(er) oppbevarer helseopplysninger om celler og vev i overensstemmelse med [§ 51](forskrift/2015-12-07-1430/§51), og at det er sørget for at de fortsatt oppbevares dersom celler og vev eksporteres og dersom tredjelandsleverandøren slutter med aktivitetene ogden skriftlige avtalen regelmessig gjennomgås og eventuelt revideres.
+Avtalen mellom virksomheten og tredjelandsleverandøren skal sikre at:
 
-Avtalen skal også inneholde:en liste over tredjelandsleverandørens standard operasjonsprosedyrer jf. [§ 8](forskrift/2015-12-07-1430/§8) andre ledd bokstav b, som angår importerte cellers og vevs kvalitet og sikkerhet og et samtykke til å legge disse prosedyrene fram etter anmodning ogbetingelsene for transport av celler og vev mellom tredjelandsleverandøren og den virksomheten som importerer celler og vev.
+1. kravene etter forskriften oppfylles, herunder smittetesting av donor og innhenting av skriftlig samtykke til donasjon,
+2. tredjelandsleverandøren legger fram dokumentasjonen som kreves etter [§ 9b](forskrift/2015-12-07-1430/§9b),
+3. tredjelandsleverandøren straks varsler om mistanker eller kunnskap om alvorlige uønskede hendelser eller bivirkninger, som kan påvirke kvaliteten og sikkerheten til aktuelle celler og vev,
+4. tredjelandsleverandøren informerer om alle vesentlige endringer, herunder endringer i aktivitet, enhver tilbakekallelse av leverandørens godkjenning til å eksportere celler og vev, informasjon om andre lignende avgjørelser om avvik som kan ha innflytelse på kvaliteten og sikkerheten til celler og vev som er påpekt av kompetent myndighet i land utenfor EU/EØS,
+5. tredjelandsleverandøren og/eller dennes underleverandør(er) oppbevarer helseopplysninger om celler og vev i overensstemmelse med [§ 51](forskrift/2015-12-07-1430/§51), og at det er sørget for at de fortsatt oppbevares dersom celler og vev eksporteres og dersom tredjelandsleverandøren slutter med aktivitetene og
+6. den skriftlige avtalen regelmessig gjennomgås og eventuelt revideres.
+
+Avtalen skal også inneholde:
+
+1. en liste over tredjelandsleverandørens standard operasjonsprosedyrer jf. [§ 8](forskrift/2015-12-07-1430/§8) andre ledd bokstav b, som angår importerte cellers og vevs kvalitet og sikkerhet og et samtykke til å legge disse prosedyrene fram etter anmodning og
+2. betingelsene for transport av celler og vev mellom tredjelandsleverandøren og den virksomheten som importerer celler og vev.
 
 Det skal gå fram av avtalen at Direktoratet for medisinske produkter og tilsynsmyndigheten etter [§ 56](forskrift/2015-12-07-1430/§56) har rett til å føre tilsyn med tredjelandsleverandørens aktivitet og lokaler, herunder inspeksjon på stedet, i avtalens løpetid og i en periode på to år etter avtalens utløp.
 
@@ -152,7 +213,17 @@ Kravene i denne paragrafen gjelder ikke ved engangsimport jf. [§ 3](forskrift/2
 
 ### § 9b. Dokumentasjon om tredjelandsleverandører
 
-Virksomheter som planlegger å importere celler og vev fra land utenfor EU/EØS skal kunne fremlegge følgende dokumentasjon om tredjelandsleverandøren:En detaljert beskrivelse av kriteriene for identifikasjon, utvelgelse og evaluering av donor, opplysninger som er lagt fram for donor eller donors familie samt opplysninger om hvordan man har oppnådd samtykke fra donor eller donors familie, og om donasjonen var frivillig og vederlagsfri.Detaljerte opplysninger om testsentre tredjelandsleverandørene anvender, og om testene sentrene utfører.Detaljerte opplysninger om metoder som anvendes ved behandlingen av cellene og vevet, herunder opplysninger om valideringen i forbindelse med den kritiske behandlingsprosedyren.En detaljert beskrivelse av lokalene, kritisk utstyr, materialer og kriterier som anvendes ved kvalitetskontroll og kontroll av miljøet i forbindelse med aktivitetene tredjelandsleverandøren utfører.Detaljerte opplysninger om betingelsene for tredjelandsleverandørers frigivelse av celler og vev.Opplysninger om underleverandører som brukes av tredjelandsleverandørene, herunder navn, adresse og aktiviteter disse utfører.Et sammendrag av rapporten fra det siste tilsynet kompetent myndighet i land utenfor EU/EØS har utført hos tredjelandsleverandøren, herunder dato for tilsynet, temaet for tilsynet og oppsummering av funn og eventuelle avvik.Et sammendrag av det siste tilsynet hos tredjelandsleverandøren som er utført av, eller på vegne av, virksomheten som importerer celler og vev.Relevant nasjonal eller internasjonal godkjenning.
+Virksomheter som planlegger å importere celler og vev fra land utenfor EU/EØS skal kunne fremlegge følgende dokumentasjon om tredjelandsleverandøren:
+
+1. En detaljert beskrivelse av kriteriene for identifikasjon, utvelgelse og evaluering av donor, opplysninger som er lagt fram for donor eller donors familie samt opplysninger om hvordan man har oppnådd samtykke fra donor eller donors familie, og om donasjonen var frivillig og vederlagsfri.
+2. Detaljerte opplysninger om testsentre tredjelandsleverandørene anvender, og om testene sentrene utfører.
+3. Detaljerte opplysninger om metoder som anvendes ved behandlingen av cellene og vevet, herunder opplysninger om valideringen i forbindelse med den kritiske behandlingsprosedyren.
+4. En detaljert beskrivelse av lokalene, kritisk utstyr, materialer og kriterier som anvendes ved kvalitetskontroll og kontroll av miljøet i forbindelse med aktivitetene tredjelandsleverandøren utfører.
+5. Detaljerte opplysninger om betingelsene for tredjelandsleverandørers frigivelse av celler og vev.
+6. Opplysninger om underleverandører som brukes av tredjelandsleverandørene, herunder navn, adresse og aktiviteter disse utfører.
+7. Et sammendrag av rapporten fra det siste tilsynet kompetent myndighet i land utenfor EU/EØS har utført hos tredjelandsleverandøren, herunder dato for tilsynet, temaet for tilsynet og oppsummering av funn og eventuelle avvik.
+8. Et sammendrag av det siste tilsynet hos tredjelandsleverandøren som er utført av, eller på vegne av, virksomheten som importerer celler og vev.
+9. Relevant nasjonal eller internasjonal godkjenning.
 
 > Tilføyd ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
@@ -188,7 +259,12 @@ Håndtering av celler og vev som eksponeres for omgivelsene, skal skje i omgivel
 
 Når annet ikke følger av fjerde ledd, skal luftkvaliteten når celler og vev eksponeres for omgivelsene under behandling ha maksimumstall for partikler og mikroorganismer som tilsvarer verdiene for GMP klasse A. Bakgrunnsmiljøet skal minst tilsvare GMP klasse D.
 
-Mindre strenge krav til luftkvalitet kan godtas dersom detanvendes en validert prosess for mikrobiell inaktivering eller endelig steriliseringpåvises at eksponering i klasse A-miljø er skadelig for egenskapene til de berørte celler og vevpåvises at den tilførselsmåte eller tilførselsvei som benyttes (på mottakeren) medfører en vesentlig lavere risiko for bakterie- eller soppinfeksjon (hos mottaker) enn transplantasjon, ellerikke er teknisk mulig å gjennomføre håndteringen i klasse A-miljø.
+Mindre strenge krav til luftkvalitet kan godtas dersom det
+
+1. anvendes en validert prosess for mikrobiell inaktivering eller endelig sterilisering
+2. påvises at eksponering i klasse A-miljø er skadelig for egenskapene til de berørte celler og vev
+3. påvises at den tilførselsmåte eller tilførselsvei som benyttes (på mottakeren) medfører en vesentlig lavere risiko for bakterie- eller soppinfeksjon (hos mottaker) enn transplantasjon, eller
+4. ikke er teknisk mulig å gjennomføre håndteringen i klasse A-miljø.
 
 Dersom virksomheten benytter mindre strenge krav til luftkvaliteten etter fjerde ledd, skal luftkvaliteten spesifiseres. Det skal påvises og dokumenteres at omgivelsene tilfredsstiller kravene til kvalitet og sikkerhet. Prosedyrer for hygiene og påkledning skal være tilgjengelig.
 
@@ -216,7 +292,20 @@ Virksomheter som importerer celler og vev skal gjennom avtale og følgedokumente
 
 ### § 15. Eksklusjonskriterier
 
-En person skal utelukkes som donor dersomdonor har hatt en sykdom med ukjent årsak,donor har eller har hatt en ondartet sykdom, med unntak av primær basalcellekarcinom, karcinom in situ i livmorhalsen og visse primærsvulster i sentralnervesystemet. Unntak skal vurderes på et vitenskapelig grunnlag. Donorer med en ondartet sykdom kan vurderes for hornhinnedonasjon. Dette gjelder imidlertid ikke donorer med retinoblastoma, hematologiske kreftformer eller ondartede svulster som kan angripe fremre del av øyetdonasjon medfører risiko for overføring av sykdommer forårsaket av prionerdonor har en systemisk infeksjon eller en betydelig lokal infeksjon i de celler eller vev som skal doneres, og som ikke er under kontroll på tidspunktet for donasjonen. Donorer med bakteriell septikemi kan vurderes for øyedonasjon, men bare dersom hornhinnen oppbevares i organkultur slik at en eventuell bakteriell kontaminering av vevet kan påvisesdet er påvist at donor har hatt eller har risiko for smitte med HIV, akutt eller kronisk hepatitt B (unntatt personer med dokumentert immunstatus), hepatitt C eller HTLV I/II. Det samme gjelder dersom det foreligger konstaterte risikofaktorer eller paraklinisk evidens for risiko for smitte med disse infeksjonenedonor har hatt en kronisk systemisk autoimmun sykdom som kan ha skadet kvaliteten på materialet som skal uttasindikasjoner på at testresultater av donorblod kan være ugyldig grunnet blodfortynning eller behandling med immunsuppressiva, og det ikke er tilgjengelig prøve fra ubehandlet donordet konstateres andre risikofaktorer for smittsomme sykdommer hos donordet er fysiske tegn som kan tyde på overførbar sykdomdonor har inntatt eller har vært eksponert for et stoff som kan overføres til mottakeren i en mengde som kan være helseskadeligdonor nylig er vaksinert med levende svekket virus og risiko for overføring ikke kan utelukkesdonor har mottatt xenotransplantater.
+En person skal utelukkes som donor dersom
+
+1. donor har hatt en sykdom med ukjent årsak,
+2. donor har eller har hatt en ondartet sykdom, med unntak av primær basalcellekarcinom, karcinom in situ i livmorhalsen og visse primærsvulster i sentralnervesystemet. Unntak skal vurderes på et vitenskapelig grunnlag. Donorer med en ondartet sykdom kan vurderes for hornhinnedonasjon. Dette gjelder imidlertid ikke donorer med retinoblastoma, hematologiske kreftformer eller ondartede svulster som kan angripe fremre del av øyet
+3. donasjon medfører risiko for overføring av sykdommer forårsaket av prioner
+4. donor har en systemisk infeksjon eller en betydelig lokal infeksjon i de celler eller vev som skal doneres, og som ikke er under kontroll på tidspunktet for donasjonen. Donorer med bakteriell septikemi kan vurderes for øyedonasjon, men bare dersom hornhinnen oppbevares i organkultur slik at en eventuell bakteriell kontaminering av vevet kan påvises
+5. det er påvist at donor har hatt eller har risiko for smitte med HIV, akutt eller kronisk hepatitt B (unntatt personer med dokumentert immunstatus), hepatitt C eller HTLV I/II. Det samme gjelder dersom det foreligger konstaterte risikofaktorer eller paraklinisk evidens for risiko for smitte med disse infeksjonene
+6. donor har hatt en kronisk systemisk autoimmun sykdom som kan ha skadet kvaliteten på materialet som skal uttas
+7. indikasjoner på at testresultater av donorblod kan være ugyldig grunnet blodfortynning eller behandling med immunsuppressiva, og det ikke er tilgjengelig prøve fra ubehandlet donor
+8. det konstateres andre risikofaktorer for smittsomme sykdommer hos donor
+9. det er fysiske tegn som kan tyde på overførbar sykdom
+10. donor har inntatt eller har vært eksponert for et stoff som kan overføres til mottakeren i en mengde som kan være helseskadelig
+11. donor nylig er vaksinert med levende svekket virus og risiko for overføring ikke kan utelukkes
+12. donor har mottatt xenotransplantater.
 
 Et barn som er født av en mor med HIV-infeksjon eller som fyller noen av utelukkelseskriteriene i første ledd, skal utelukkes som donor til risikoen kan avskrives endelig. Barn under 18 måneder som er født av en mor med HIV-, hepatitt B- eller C- eller HTLV-infeksjon eller risiko for slik infeksjon og som er blitt ammet i løpet av de 12 foregående måneder, skal utelukkes som donor uavhengig av testresultater. Barn i samme situasjon som ikke er blitt ammet i løpet av de foregående 12 måneder kan godtas som donorer dersom tester, legeundersøkelser eller legejournaler ikke viser tegn på smitte med overnevnte virus.
 
@@ -236,7 +325,12 @@ Bestemmelsene i første og andre ledd er ikke obligatoriske ved partnerdonasjon 
 
 ### § 17. Obligatoriske laboratorieundersøkelser for donorer
 
-Alle smittetester av donorer skal utføres ved et laboratorium som er godkjent av Direktoratet for medisinske produkter for dette formålet. Minstekravet til testing er:HIV 1 og 2 (Anti-HIV 1, 2)Hepatitt B (HBsAg og Anti-HBc)Hepatitt C (Anti-HCV)Syfilis (Treponema pallidum. Validert prøvingsalgoritme, se fjerde ledd).
+Alle smittetester av donorer skal utføres ved et laboratorium som er godkjent av Direktoratet for medisinske produkter for dette formålet. Minstekravet til testing er:
+
+1. HIV 1 og 2 (Anti-HIV 1, 2)
+2. Hepatitt B (HBsAg og Anti-HBc)
+3. Hepatitt C (Anti-HCV)
+4. Syfilis (Treponema pallidum. Validert prøvingsalgoritme, se fjerde ledd).
 
 Donorer som kommer fra høyrisikoområder for HTLV I/II, eller som har partnere eller foreldre med bakgrunn fra slike områder, skal undersøkes for antistoffer mot HTLV-I og HTLV-II.
 
@@ -258,7 +352,10 @@ Validerte tester som benyttes ved laboratorieundersøkelser, skal utføres av et
 
 Laboratorieundersøkelsene skal utføres på donorens serum eller plasma, og ikke på andre væsker eller sekreter med mindre dette er klinisk berettiget. I slike tilfeller skal undersøkelsen være validert for den aktuelle væsken.
 
-Det skal brukes en algoritme for å vurdere graden av blodfortynning når deter tilført blod, blodbestanddeler eller kolloider i løpet av 48 timer før blodprøvetakingen eller donors død, ellernår det er tilført krystalloider i løpet av den siste timen før blodprøvetakingen eller donors død.
+Det skal brukes en algoritme for å vurdere graden av blodfortynning når det
+
+1. er tilført blod, blodbestanddeler eller kolloider i løpet av 48 timer før blodprøvetakingen eller donors død, eller
+2. når det er tilført krystalloider i løpet av den siste timen før blodprøvetakingen eller donors død.
 
 Når undersøkelsen viser en blodfortynning på over 50 prosent, kan virksomheten bare akseptere celler og vev hvis de anvendte testprosedyrer er validert til slik plasma, eller om det foreligger en prøve som er tatt før tilførselen.
 
@@ -292,7 +389,11 @@ Testing for HTLV-1 antistoffer skal gjennomføres dersom donor bor i eller komme
 
 Virksomheten kan foreta ytterligere tester dersom dette er berettiget ut fra donors bakgrunn eller eksponering for sykdom eller på grunn av særlige omstendigheter ved donasjonen for øvrig.
 
-Materialet skal oppbevares isolert dersomresultatene av tester for HIV 1 og 2, hepatitt B eller hepatitt C er positiveresultatene av testene ikke foreligger, ellerdet er kjent at donor utgjør en mulig kilde til infeksjon.
+Materialet skal oppbevares isolert dersom
+
+1. resultatene av tester for HIV 1 og 2, hepatitt B eller hepatitt C er positive
+2. resultatene av testene ikke foreligger, eller
+3. det er kjent at donor utgjør en mulig kilde til infeksjon.
 
 Ved partnerdonasjon av sædceller skal ansvarlig lege begrunne og dokumentere at donasjonen er berettiget og sikker både for mottaker og eventuelle barn født etter assistert befruktning med donorsæd. Vurderingen skal gjøres på grunnlag av pasientens tidligere sykdomsforhold og de tester som er foretatt.
 
@@ -352,7 +453,14 @@ Donors identitet skal ikke gjøres kjent for mottaker eller dennes familie og om
 
 ### § 29. Opplysninger i pasientjournal
 
-Virksomhet som evaluerer donor etter forskriften [kapittel 4](forskrift/2015-12-07-1430/kap4) og 5, som uttar celler og vev eller som mottar celler og vev skal føre pasientjournal etter [forskrift om pasientjournal, og](forskrift/2019-03-01-168/§5) sørge for at følgende opplysninger om donor journalføres:fornavn, etternavn og fødselsnummer (donoridentifikasjon) samt opplysninger om, hvordan og av hvem donor er identifisert. Hvis donasjonen gjelder mor og barn skal begges personalia oppgis, såfremt barnets fødselsdato og navn er kjent. Ved partnerdonasjon av sædceller skal også partneren identifiseresalder og kjønn, samt tilstrekkelig informasjon om medisinsk og atferdsmessig historie til at utelukkelseskriteriene om nødvendig kan anvendeskliniske data, herunder laboratorietestresultater, resultat av fysisk legeundersøkelse og andre gjennomførte testerblodfortynningsalgoritmenresultatene av obduksjon. Hvis det dreier seg om celler og vev som ikke kan oppbevares, skal det være registrert en foreløpig muntlig obduksjonsrapportalle nødvendige opplysninger om uttak og donors sykdomsforhold.
+Virksomhet som evaluerer donor etter forskriften [kapittel 4](forskrift/2015-12-07-1430/kap4) og 5, som uttar celler og vev eller som mottar celler og vev skal føre pasientjournal etter [forskrift om pasientjournal, og](forskrift/2019-03-01-168/§5) sørge for at følgende opplysninger om donor journalføres:
+
+1. fornavn, etternavn og fødselsnummer (donoridentifikasjon) samt opplysninger om, hvordan og av hvem donor er identifisert. Hvis donasjonen gjelder mor og barn skal begges personalia oppgis, såfremt barnets fødselsdato og navn er kjent. Ved partnerdonasjon av sædceller skal også partneren identifiseres
+2. alder og kjønn, samt tilstrekkelig informasjon om medisinsk og atferdsmessig historie til at utelukkelseskriteriene om nødvendig kan anvendes
+3. kliniske data, herunder laboratorietestresultater, resultat av fysisk legeundersøkelse og andre gjennomførte tester
+4. blodfortynningsalgoritmen
+5. resultatene av obduksjon. Hvis det dreier seg om celler og vev som ikke kan oppbevares, skal det være registrert en foreløpig muntlig obduksjonsrapport
+6. alle nødvendige opplysninger om uttak og donors sykdomsforhold.
 
 En person utpekt av virksomheten skal bekrefte og registrere hvordan og av hvem donor er sikkert identifisert samt at donor har bekreftet at de opplysninger han har avgitt er korrekte.
 
@@ -376,7 +484,14 @@ Utseendet til den avdøde skal gjenopprettes så godt det lar seg gjøre.
 
 ### § 32. Uttaksrapport
 
-Virksomhet som foretar uttak av celler og vev skal utarbeide en uttaksrapport som sendes til virksomheten som skal motta materialet. Rapporten skal som et minimum inneholde:navn og adresse på virksomheten som skal motta cellene eller vevetdonoridentifikasjonsdata, jf. [§ 29](forskrift/2015-12-07-1430/§29) første ledd, bokstav a)beskrivelse og identifikasjon av uttatte celler og vev, herunder prøver til testingidentifikasjon av den person som er ansvarlig for uttaket, herunder vedkommendes underskriftdato og klokkeslett (eller start- og sluttidspunkt for uttaket), uttakssted, benyttet fremgangsmåte, opplysninger om uønskede hendelser som er inntruffet og, ved behov, opplysninger om forholdene på uttaksstedetidentifikasjonsnummer eller partinummer for reagenser, samt oppløsninger som er brukt under transporten.
+Virksomhet som foretar uttak av celler og vev skal utarbeide en uttaksrapport som sendes til virksomheten som skal motta materialet. Rapporten skal som et minimum inneholde:
+
+1. navn og adresse på virksomheten som skal motta cellene eller vevet
+2. donoridentifikasjonsdata, jf. [§ 29](forskrift/2015-12-07-1430/§29) første ledd, bokstav a)
+3. beskrivelse og identifikasjon av uttatte celler og vev, herunder prøver til testing
+4. identifikasjon av den person som er ansvarlig for uttaket, herunder vedkommendes underskrift
+5. dato og klokkeslett (eller start- og sluttidspunkt for uttaket), uttakssted, benyttet fremgangsmåte, opplysninger om uønskede hendelser som er inntruffet og, ved behov, opplysninger om forholdene på uttaksstedet
+6. identifikasjonsnummer eller partinummer for reagenser, samt oppløsninger som er brukt under transporten.
 
 Ved uttak fra døde donorer skal rapporten også dokumentere de forhold kroppen oppbevares under, herunder om den er nedkjølt eller ikke, samt start- og sluttidspunkt for nedkjølingen. Rapporten skal også om mulig inneholde opplysninger om dødstidspunktet, med dato og klokkeslett.
 
@@ -386,11 +501,26 @@ Det skal fremgå av uttaksrapporten dersom sæd til bruk i partnerdonasjon ejaku
 
 ### § 33. Prosedyrer ved prosessering
 
-Virksomhet som prosesserer celler og vev skal ha prosedyrer som oppfyller følgende kriterierkritiske prosedyrer skal valideresdet skal påvises at virksomheten kan gjennomføre den validerte prosess konsekvent og effektivtprosedyrer skal dokumenteres i samsvar med [§ 8](forskrift/2015-12-07-1430/§8) tredje ledd nr. 2all prosessering skal gjennomføres i samsvar med godkjente standardiserte operasjonsprosedyrerprosedyrer for mikrobiell inaktivering skal spesifiseres, dokumenteres og valideresprosedyrer for kassering av celler og vev skal følge reglene for behandling av smittefarlig materiale og skal hindre kontaminering av annet donert materiale, andre produkter, utstyr, omgivelsene og personaletvesentlig endring i prosedyrer skal valideres og dokumenteres før de gjennomføresprosedyrer skal evalueres jevnlig.
+Virksomhet som prosesserer celler og vev skal ha prosedyrer som oppfyller følgende kriterier
+
+1. kritiske prosedyrer skal valideres
+2. det skal påvises at virksomheten kan gjennomføre den validerte prosess konsekvent og effektivt
+3. prosedyrer skal dokumenteres i samsvar med [§ 8](forskrift/2015-12-07-1430/§8) tredje ledd nr. 2
+4. all prosessering skal gjennomføres i samsvar med godkjente standardiserte operasjonsprosedyrer
+5. prosedyrer for mikrobiell inaktivering skal spesifiseres, dokumenteres og valideres
+6. prosedyrer for kassering av celler og vev skal følge reglene for behandling av smittefarlig materiale og skal hindre kontaminering av annet donert materiale, andre produkter, utstyr, omgivelsene og personalet
+7. vesentlig endring i prosedyrer skal valideres og dokumenteres før de gjennomføres
+8. prosedyrer skal evalueres jevnlig.
 
 ### § 34. Oppbevaring og frigivelse av produkter
 
-Virksomhet som oppbevarer og frigir celler og vev fra karantene, skal ha prosedyrer som oppfyller følgende kriterier:maksimal oppbevaringstid skal angis for hver enkelt oppbevaringsmåte.virksomheten skal ha et system som sikrer at celler og vev ikke kan frigis før alle krav fastsatt i denne forskrift er oppfylt. Det skal finnes en standard operasjonsprosedyre som spesifiserer forholdene, ansvarsområdene og prosedyrene knyttet til frigivelse av celler og vev.systemet for identifisering av celler og vev på hvert trinn av håndteringen skal klart skille mellom frigitte, ikke frigitte (karantene) og kasserte produkter.det skal dokumenteres at cellene og vevene før frigivelsen oppfylte alle relevante spesifikasjoner. Dokumentasjonen skal vise at alle gjeldende erklæringer, relevante helsejournaler, håndteringsopplysninger og testresultater er kontrollert etter en skriftlig prosedyre av en person som ansvarlig person har autorisert for oppgaven.dersom det gjøres endringer i prosedyrene som bedrer kvaliteten eller sikkerheten ved utvelgelse av donorer, testing eller håndtering, skal det gjennomføres en dokumentert risikovurdering autorisert av ansvarlig person for å fastslå hva som skal skje med celler og vev som er lagret før endringen fant sted.
+Virksomhet som oppbevarer og frigir celler og vev fra karantene, skal ha prosedyrer som oppfyller følgende kriterier:
+
+1. maksimal oppbevaringstid skal angis for hver enkelt oppbevaringsmåte.
+2. virksomheten skal ha et system som sikrer at celler og vev ikke kan frigis før alle krav fastsatt i denne forskrift er oppfylt. Det skal finnes en standard operasjonsprosedyre som spesifiserer forholdene, ansvarsområdene og prosedyrene knyttet til frigivelse av celler og vev.
+3. systemet for identifisering av celler og vev på hvert trinn av håndteringen skal klart skille mellom frigitte, ikke frigitte (karantene) og kasserte produkter.
+4. det skal dokumenteres at cellene og vevene før frigivelsen oppfylte alle relevante spesifikasjoner. Dokumentasjonen skal vise at alle gjeldende erklæringer, relevante helsejournaler, håndteringsopplysninger og testresultater er kontrollert etter en skriftlig prosedyre av en person som ansvarlig person har autorisert for oppgaven.
+5. dersom det gjøres endringer i prosedyrene som bedrer kvaliteten eller sikkerheten ved utvelgelse av donorer, testing eller håndtering, skal det gjennomføres en dokumentert risikovurdering autorisert av ansvarlig person for å fastslå hva som skal skje med celler og vev som er lagret før endringen fant sted.
 
 Celler og vev som er omfattet av kravet til bruk av felles europeisk kode (SEC), skal være merket med slik kode før frigivelse.
 
@@ -400,7 +530,12 @@ Importerte celler og vev skal holdes i karantene til mottaker har kontrollert at
 
 ### § 35. Distribusjon
 
-Virksomhet som distribuerer vev og celler, skal ha prosedyrer som oppfyller følgende kriterierkrav til kritiske transportforhold, som temperatur og maksimal distribusjonstid, skal fastsettes slik at vevets og cellenes nødvendige egenskaper bevaresbeholderen og pakningen skal sikre at vevet og cellene bevares under de angitte forhold. Alle beholdere og pakninger skal valideres for formåletdersom distribusjonen utføres av en innleid tredjepart, skal det foreligge en skriftlig avtale som sikrer riktige transportforholdvirksomheten skal ha prosedyrer for håndtering av forespørsler om vev og celler. Reglene for tildeling av vev og celler til bestemte pasienter eller helseinstitusjoner skal dokumenteres og gjøres tilgjengelig for partene på anmodning.
+Virksomhet som distribuerer vev og celler, skal ha prosedyrer som oppfyller følgende kriterier
+
+1. krav til kritiske transportforhold, som temperatur og maksimal distribusjonstid, skal fastsettes slik at vevets og cellenes nødvendige egenskaper bevares
+2. beholderen og pakningen skal sikre at vevet og cellene bevares under de angitte forhold. Alle beholdere og pakninger skal valideres for formålet
+3. dersom distribusjonen utføres av en innleid tredjepart, skal det foreligge en skriftlig avtale som sikrer riktige transportforhold
+4. virksomheten skal ha prosedyrer for håndtering av forespørsler om vev og celler. Reglene for tildeling av vev og celler til bestemte pasienter eller helseinstitusjoner skal dokumenteres og gjøres tilgjengelig for partene på anmodning.
 
 Virksomheten har ansvar for kvaliteten på cellene og vevet under transporten og den øvrige distribusjonen.
 
@@ -438,9 +573,33 @@ Alle ledsagende vevs- eller blodprøver som skal testes, skal være merket på k
 
 ### § 38. Merking
 
-All emballasje som inneholder celler eller vev skal merkes på tidspunktet for uttak. Cellene eller vevet skal være merket fram til anvendelsen. Primærbeholderen skal som et minimum merkes meddonoridentifikasjonsdatatypen celler eller vev, deres identifikasjonsnummer eller identifikasjonskode, og parti eller partinummer hvis dette benyttesnavn, adresse, telefonnummer og kontaktperson for den virksomheten forsendelsen kommer fraholdbarhetsdatofelles europeiske kode (SEC) der dette er påkrevd. Felles europeisk kode (SEC) erstatter merking og opplysningene i bokstavene a–ddersom det er kjent at celler og vev har testet positivt for en relevant laboratorieundersøkelse for infeksjonssykdom, skal de merkes med teksten «smittefarlig materiale».
+All emballasje som inneholder celler eller vev skal merkes på tidspunktet for uttak. Cellene eller vevet skal være merket fram til anvendelsen. Primærbeholderen skal som et minimum merkes med
 
-Følgende opplysninger skal framgå av primærbeholderen, så langt plassen tillater dettedato og hvis mulig klokkeslett for donasjonendato for distribusjonenadvarsleropplysninger om eventuelle tilsetningsstofferved autolog donasjon, teksten «Kun til autolog bruk»opplysninger om hvem donasjonen er bestemt for ved mottakerbestemt donasjonbeskrivelse av og eventuelt størrelsen på celle- eller vevsproduktetmorfologi og funksjonsdata ved behovhvilke laboratorieundersøkelser som er utført på donor og resultatene av demoppbevaringsbetingelseranvisninger om åpning av emballasjen og om nødvendig, om håndtering eller rekonstruksjonholdbarhetsdatoer etter åpning eller rekonstruksjonanvisninger om rapportering av alvorlige bivirkninger og uønskede hendelser som fastsatt i denne forskriftforekomst av potensielt skadelige resterfelles europeisk kode (SEC) der dette er påkrevduttakingsland og eksporterende land (dersom dette ikke er uttakingslandet).
+1. donoridentifikasjonsdata
+2. typen celler eller vev, deres identifikasjonsnummer eller identifikasjonskode, og parti eller partinummer hvis dette benyttes
+3. navn, adresse, telefonnummer og kontaktperson for den virksomheten forsendelsen kommer fra
+4. holdbarhetsdato
+5. felles europeiske kode (SEC) der dette er påkrevd. Felles europeisk kode (SEC) erstatter merking og opplysningene i bokstavene a–d
+6. dersom det er kjent at celler og vev har testet positivt for en relevant laboratorieundersøkelse for infeksjonssykdom, skal de merkes med teksten «smittefarlig materiale».
+
+Følgende opplysninger skal framgå av primærbeholderen, så langt plassen tillater dette
+
+1. dato og hvis mulig klokkeslett for donasjonen
+2. dato for distribusjonen
+3. advarsler
+4. opplysninger om eventuelle tilsetningsstoffer
+5. ved autolog donasjon, teksten «Kun til autolog bruk»
+6. opplysninger om hvem donasjonen er bestemt for ved mottakerbestemt donasjon
+7. beskrivelse av og eventuelt størrelsen på celle- eller vevsproduktet
+8. morfologi og funksjonsdata ved behov
+9. hvilke laboratorieundersøkelser som er utført på donor og resultatene av dem
+10. oppbevaringsbetingelser
+11. anvisninger om åpning av emballasjen og om nødvendig, om håndtering eller rekonstruksjon
+12. holdbarhetsdatoer etter åpning eller rekonstruksjon
+13. anvisninger om rapportering av alvorlige bivirkninger og uønskede hendelser som fastsatt i denne forskrift
+14. forekomst av potensielt skadelige rester
+15. felles europeisk kode (SEC) der dette er påkrevd
+16. uttakingsland og eksporterende land (dersom dette ikke er uttakingslandet).
 
 De opplysningene det ikke er plass til på primærbeholderens etikett skal framgå av en følgeseddel. Følgeseddelen skal emballeres sammen med primærbeholderen på en måte som sikrer at de ikke blir atskilt.
 
@@ -448,7 +607,18 @@ De opplysningene det ikke er plass til på primærbeholderens etikett skal framg
 
 ### § 39. Ytre merking av transportbeholderen
 
-Ved transport skal primærbeholderen plasseres i en transportbeholder som minst er merket med følgende opplysninger:navn, adresse og telefonnummer til virksomheten som forsendelsen kommer fra,navn, adresse og telefonnummer til virksomheten der materialet skal anvendes på mennesker,navn, adresse, telefonnummer og eventuell kontaktperson på eventuelle mellomledd,teksten «Humane celler og vev» og «Forsiktig»,teksten «Må ikke bestråles»,dato og klokkeslett for anvendelsen,anbefalte transport- og oppbevaringsbetingelser,sikkerhetsanvisninger og kjølemetode hvis relevant,ved autolog anvendelse teksten «Kun til autolog bruk»,dersom det er kjent at cellene eller vevet har testet positivt for infeksjonssykdom, skal de merkes med teksten «Smittefarlig materiale».
+Ved transport skal primærbeholderen plasseres i en transportbeholder som minst er merket med følgende opplysninger:
+
+1. navn, adresse og telefonnummer til virksomheten som forsendelsen kommer fra,
+2. navn, adresse og telefonnummer til virksomheten der materialet skal anvendes på mennesker,
+3. navn, adresse, telefonnummer og eventuell kontaktperson på eventuelle mellomledd,
+4. teksten «Humane celler og vev» og «Forsiktig»,
+5. teksten «Må ikke bestråles»,
+6. dato og klokkeslett for anvendelsen,
+7. anbefalte transport- og oppbevaringsbetingelser,
+8. sikkerhetsanvisninger og kjølemetode hvis relevant,
+9. ved autolog anvendelse teksten «Kun til autolog bruk»,
+10. dersom det er kjent at cellene eller vevet har testet positivt for infeksjonssykdom, skal de merkes med teksten «Smittefarlig materiale».
 
 ## Kapittel 8. Sporbarhet, tilbakekall, kvalitet og sikkerhet
 
@@ -456,7 +626,13 @@ Ved transport skal primærbeholderen plasseres i en transportbeholder som minst 
 
 Virksomheten skal sikre at celler og vev skal kunne spores på alle trinn i håndteringsprosessen fra donor til mottaker og omvendt. Sporbarheten skal, der dette er relevant, ivaretas ved bruk av felles europeisk kode (SEC). Dette gjelder også der celler og vev er merket med sublotnummer.
 
-Kravet etter første ledd omfatter:anskaffelse, donasjon, uttak, testing, konservering, oppbevaring, koding, merking, prosessering og distribusjon av humane celler og vev til anvendelse på mennesker.identifisering av donor,mottak, prosessering eller oppbevaring av cellene eller vevet,identifisering av den medisinske institusjon som anvender cellene eller vevet på en pasient ogidentifisering av den aktuelle pasienten.
+Kravet etter første ledd omfatter:
+
+1. anskaffelse, donasjon, uttak, testing, konservering, oppbevaring, koding, merking, prosessering og distribusjon av humane celler og vev til anvendelse på mennesker.
+2. identifisering av donor,
+3. mottak, prosessering eller oppbevaring av cellene eller vevet,
+4. identifisering av den medisinske institusjon som anvender cellene eller vevet på en pasient og
+5. identifisering av den aktuelle pasienten.
 
 I tillegg skal alle relevante opplysninger om produkter og materialer som kommer i kontakt med celler eller vev, kunne spores og identifiseres.
 
@@ -484,7 +660,13 @@ Bestemmelsene i denne paragrafen gjelder ikke ved partnerdonasjon av kjønnscell
 
 Virksomheten skal på en rask, presis og verifiserbar måte, trekke tilbake alle produkter som kan ha forbindelse med en uønsket hendelse eller bivirkning.
 
-Virksomhet som distribuerer vev og celler, skal ha prosedyrer som oppfyller følgende kriteriervirksomheten skal utpeke personell som kan vurdere behov for tilbakekalling samt iverksette og samordne nødvendige tiltaken tilbakekallingsprosedyre skal beskrive ansvarsforholdene, fremgangsmåte og hvordan melding gis til myndighetene jf. [§ 53](forskrift/2015-12-07-1430/§53), [§ 54](forskrift/2015-12-07-1430/§54) og [§ 55](forskrift/2015-12-07-1430/§55)virksomheten skal angi et tidsrom for når tiltak for å gjennomføre tilbakekalling skal være utført, herunder sporing av alle relevante celler og vev, og eventuell tilbakesporingvirksomheten skal ha et dokumentert system for håndtering av tilbakesendte produkter, herunder eventuelle kriterier for videre lagringvirksomheten skal ha prosedyrer for håndtering av forespørsler om vev og celler. Reglene for tildeling av vev og celler til bestemte pasienter eller helseinstitusjoner skal være dokumenterte og etter anmodning stilles til rådighet.
+Virksomhet som distribuerer vev og celler, skal ha prosedyrer som oppfyller følgende kriterier
+
+1. virksomheten skal utpeke personell som kan vurdere behov for tilbakekalling samt iverksette og samordne nødvendige tiltak
+2. en tilbakekallingsprosedyre skal beskrive ansvarsforholdene, fremgangsmåte og hvordan melding gis til myndighetene jf. [§ 53](forskrift/2015-12-07-1430/§53), [§ 54](forskrift/2015-12-07-1430/§54) og [§ 55](forskrift/2015-12-07-1430/§55)
+3. virksomheten skal angi et tidsrom for når tiltak for å gjennomføre tilbakekalling skal være utført, herunder sporing av alle relevante celler og vev, og eventuell tilbakesporing
+4. virksomheten skal ha et dokumentert system for håndtering av tilbakesendte produkter, herunder eventuelle kriterier for videre lagring
+5. virksomheten skal ha prosedyrer for håndtering av forespørsler om vev og celler. Reglene for tildeling av vev og celler til bestemte pasienter eller helseinstitusjoner skal være dokumenterte og etter anmodning stilles til rådighet.
 
 ### § 43. Rapportering av relevante opplysninger
 
@@ -524,15 +706,55 @@ Helseforetaket er dataansvarlig for de enkelte donasjonsregistre som er tilknytt
 
 ### § 47. Mottakers registrering av opplysninger i donasjonsregistre
 
-Virksomheter som mottar celler og vev for prosessering, oppbevaring eller bruk skal med donorens samtykke registrere følgende opplysninger i donasjonsregister:hvilken bruk av cellene og vevet som donor har samtykket til, og eventuelle instrukser om hva som skal skje med cellene og vevet hvis disse ikke blir brukt (samtykkeerklæring)donordokumentasjon, jf. [§ 29](forskrift/2015-12-07-1430/§29)uttaksrapport, jf. [§ 32](forskrift/2015-12-07-1430/§32)sporbarhetsopplysninger, jf. [§ 48](forskrift/2015-12-07-1430/§48)dokumentasjon for donors egnethet til å donere materiale til mottakeren dersom hematopoietiske stamceller doneres. Dersom donor ikke er i slekt med mottaker, og virksomheten som er ansvarlig for uttaket kun har begrenset adgang til mottakers data, skal den enhet som foretar transplantasjonen motta de opplysninger om donoren som er påkrevd for å bekrefte dennes egnethetved allogen donasjon dokumenteres en vurdering av om den samlede donorevalueringen oppfyller utvelgelseskriteriene. Vurderingen skal gjøres av en person som er utdannet til dette formålved cellekulturer beregnet på autolog anvendelse, dokumenteres sannsynligheten for allergi mot medisiner hos mottakeren.
+Virksomheter som mottar celler og vev for prosessering, oppbevaring eller bruk skal med donorens samtykke registrere følgende opplysninger i donasjonsregister:
 
-Ved partnerdonasjon av kjønnsceller skal mottaker registrere følgende opplysninger:hva donor har samtykket til, og eventuelle instrukser om hva som skal skje med cellene og vevet hvis disse ikke blir bruktdonoridentifikasjon og donorkjennetegn: donorkategori, alder, kjønn og fødselsnummerrisikofaktorerpartneridentifikasjonuttakssteduttatte celler og vev samt relevante kjennetegn.
+1. hvilken bruk av cellene og vevet som donor har samtykket til, og eventuelle instrukser om hva som skal skje med cellene og vevet hvis disse ikke blir brukt (samtykkeerklæring)
+2. donordokumentasjon, jf. [§ 29](forskrift/2015-12-07-1430/§29)
+3. uttaksrapport, jf. [§ 32](forskrift/2015-12-07-1430/§32)
+4. sporbarhetsopplysninger, jf. [§ 48](forskrift/2015-12-07-1430/§48)
+5. dokumentasjon for donors egnethet til å donere materiale til mottakeren dersom hematopoietiske stamceller doneres. Dersom donor ikke er i slekt med mottaker, og virksomheten som er ansvarlig for uttaket kun har begrenset adgang til mottakers data, skal den enhet som foretar transplantasjonen motta de opplysninger om donoren som er påkrevd for å bekrefte dennes egnethet
+6. ved allogen donasjon dokumenteres en vurdering av om den samlede donorevalueringen oppfyller utvelgelseskriteriene. Vurderingen skal gjøres av en person som er utdannet til dette formål
+7. ved cellekulturer beregnet på autolog anvendelse, dokumenteres sannsynligheten for allergi mot medisiner hos mottakeren.
+
+Ved partnerdonasjon av kjønnsceller skal mottaker registrere følgende opplysninger:
+
+1. hva donor har samtykket til, og eventuelle instrukser om hva som skal skje med cellene og vevet hvis disse ikke blir brukt
+2. donoridentifikasjon og donorkjennetegn: donorkategori, alder, kjønn og fødselsnummer
+3. risikofaktorer
+4. partneridentifikasjon
+5. uttakssted
+6. uttatte celler og vev samt relevante kjennetegn.
 
 ### § 48. Registrering av sporbarhetsopplysninger i donasjonsregistre
 
-Virksomheter som evaluerer donor eller anskaffer, uttar, koder, konserverer, oppbevarer, merker, prosesserer eller distribuerer celler og vev skal med donorens samtykke minst registrere følgende opplysninger om donor, produkt og bruk på mennesker i et donasjonsregister for å oppfylle kravet til sporbarhet i [§ 40](forskrift/2015-12-07-1430/§40):identifikasjon av virksomhet som har valgt donor og virksomhet som har tatt ut materialetentydig donoridentifikasjondato for uttaksted for uttaktype donasjonidentifikasjon (inkludert kontaktopplysninger) av de (n) virksomheten (e) der materialet er håndterttype celler og vevbatchnummer dersom dette brukessublotnummer dersom dette brukesholdbarhetsdatostatus for cellene eller vevetbeskrivelse og opprinnelse for produktet, anvendte prosesseringstrinn, materiale og tilsetningsstoffer som har vært i kontakt med produktet og som kan innvirke på deres kvalitet eller sikkerhetidentifikasjon av den enheten som foretar sluttmerkingdato for distribusjon eller kasseringidentifikasjon av sluttbrukerfelles europeisk kode (SEC) der dette er relevant.
+Virksomheter som evaluerer donor eller anskaffer, uttar, koder, konserverer, oppbevarer, merker, prosesserer eller distribuerer celler og vev skal med donorens samtykke minst registrere følgende opplysninger om donor, produkt og bruk på mennesker i et donasjonsregister for å oppfylle kravet til sporbarhet i [§ 40](forskrift/2015-12-07-1430/§40):
 
-Medisinsk institusjon som kun anvender celler og vev i pasientbehandling skal minst registrere følgende opplysninger for å oppfylle kravet til sporbarhet i [§ 40](forskrift/2015-12-07-1430/§40):identifikasjon av den virksomhet som har skaffet materialet til veieidentifikasjon av sluttbrukertype celler og vevproduktidentifikasjonidentifikasjon av mottakerdato for bruk av materialet i behandlingfelles europeisk kode (SEC) der dette er relevant.
+1. identifikasjon av virksomhet som har valgt donor og virksomhet som har tatt ut materialet
+2. entydig donoridentifikasjon
+3. dato for uttak
+4. sted for uttak
+5. type donasjon
+6. identifikasjon (inkludert kontaktopplysninger) av de (n) virksomheten (e) der materialet er håndtert
+7. type celler og vev
+8. batchnummer dersom dette brukes
+9. sublotnummer dersom dette brukes
+10. holdbarhetsdato
+11. status for cellene eller vevet
+12. beskrivelse og opprinnelse for produktet, anvendte prosesseringstrinn, materiale og tilsetningsstoffer som har vært i kontakt med produktet og som kan innvirke på deres kvalitet eller sikkerhet
+13. identifikasjon av den enheten som foretar sluttmerking
+14. dato for distribusjon eller kassering
+15. identifikasjon av sluttbruker
+16. felles europeisk kode (SEC) der dette er relevant.
+
+Medisinsk institusjon som kun anvender celler og vev i pasientbehandling skal minst registrere følgende opplysninger for å oppfylle kravet til sporbarhet i [§ 40](forskrift/2015-12-07-1430/§40):
+
+1. identifikasjon av den virksomhet som har skaffet materialet til veie
+2. identifikasjon av sluttbruker
+3. type celler og vev
+4. produktidentifikasjon
+5. identifikasjon av mottaker
+6. dato for bruk av materialet i behandling
+7. felles europeisk kode (SEC) der dette er relevant.
 
 > Endret ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
@@ -566,7 +788,14 @@ Direktoratet for medisinske produkter skal etablere et nasjonalt register (meldi
 
 Registerets formål er å samle inn og behandle data fra virksomheter som håndterer celler og vev som skal anvendes på mennesker for å fremme sporbarhet og kvalitets- og sikkerhetskontroller.
 
-Registeret kan på forskriftens område benyttes til åunderstøtte virksomhetenes plikt til å spore og trekke tilbake celler og vev som kan forbindes med alvorlig uønskede hendelserunderstøtte virksomhetenes plikt til å undersøke og evaluere alvorlige uønskede hendelser og alvorlige bivirkninger for å identifisere årsaker som kan forhindresgi grunnlag for overvåkning av kvalitet og sikkerhet på nasjonalt nivågi grunnlag for nasjonalt arbeid med pasientsikkerhet og kvalitet i helse- og omsorgstjenestengi grunnlag for formidling av relevante opplysninger om alvorlige uønskede hendelser og alvorlige bivirkninger til andre myndigheterDirektoratet for medisinske produkter er dataansvarlig for registeret og kan inngå skriftlig avtale med en databehandler om behandling av helseopplysninger i registeret.
+Registeret kan på forskriftens område benyttes til å
+
+1. understøtte virksomhetenes plikt til å spore og trekke tilbake celler og vev som kan forbindes med alvorlig uønskede hendelser
+2. understøtte virksomhetenes plikt til å undersøke og evaluere alvorlige uønskede hendelser og alvorlige bivirkninger for å identifisere årsaker som kan forhindres
+3. gi grunnlag for overvåkning av kvalitet og sikkerhet på nasjonalt nivå
+4. gi grunnlag for nasjonalt arbeid med pasientsikkerhet og kvalitet i helse- og omsorgstjenesten
+5. gi grunnlag for formidling av relevante opplysninger om alvorlige uønskede hendelser og alvorlige bivirkninger til andre myndigheter
+6. Direktoratet for medisinske produkter er dataansvarlig for registeret og kan inngå skriftlig avtale med en databehandler om behandling av helseopplysninger i registeret.
 
 Registrerte opplysninger skal oppbevares i minst 30 år etter at de innkom til helsemyndigheten.
 
@@ -584,7 +813,10 @@ Virksomheten skal evaluere hendelsen for å identifisere årsaker i prosessen so
 
 ### § 54. Melding om alvorlige bivirkninger
 
-Virksomhetene skal i henhold til etablerte rutiner registrere og straks gi melding til Direktoratet for medisinske produkter omalvorlige bivirkninger hos donor som oppstår under eller i forbindelse med uttak og som kan påvirke kvaliteten og sikkerheten til celler og vev som uttasalvorlige bivirkninger hos pasient som oppstår under eller i forbindelse med anvendelse av celler og vev og som kan ha sammenheng med kvaliteten og sikkerheten til celler og vev.
+Virksomhetene skal i henhold til etablerte rutiner registrere og straks gi melding til Direktoratet for medisinske produkter om
+
+1. alvorlige bivirkninger hos donor som oppstår under eller i forbindelse med uttak og som kan påvirke kvaliteten og sikkerheten til celler og vev som uttas
+2. alvorlige bivirkninger hos pasient som oppstår under eller i forbindelse med anvendelse av celler og vev og som kan ha sammenheng med kvaliteten og sikkerheten til celler og vev.
 
 Den ansvarlige personen i virksomheten skal sørge for at meldingen minst inneholder de opplysningene som følger av skjema A i forskriftens vedlegg 2.
 

@@ -36,7 +36,14 @@ Forskriften gjelder ikke for leder/ledere av siidaandel som har mottatt omstilli
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med*referanseperiode:* fem sammenhengende år der siste år er to år før søknadsåret,*referanseinntekt;* summen av: næringsinntekt fra reindrift og utbetalte sykepenger som er opptjent gjennom reindrift i referanseperioden, dividert på fem,*annen inntekt:* lønnsinntekt, næringsinntekt og sykepenger som ikke er opptjent gjennom reindrift, utbetalte dagpenger, uføretrygd og arbeidsavklaringspenger i referanseperioden dividert på fem,*samlet inntekt;* summen av referanseinntekt og annen inntekt,*enbrukerpensjon;* tidligpensjon som ytes leder av siidaandel,*tobrukerpensjon;* tidligpensjon som ytes leder av siidaandel og dennes ektefelle/samboer, uavhengig av om siidaandelen er registrert på en eller begge ektefellene/samboerne.
+I denne forskrift menes med
+
+1. *referanseperiode:* fem sammenhengende år der siste år er to år før søknadsåret,
+2. *referanseinntekt;* summen av: næringsinntekt fra reindrift og utbetalte sykepenger som er opptjent gjennom reindrift i referanseperioden, dividert på fem,
+3. *annen inntekt:* lønnsinntekt, næringsinntekt og sykepenger som ikke er opptjent gjennom reindrift, utbetalte dagpenger, uføretrygd og arbeidsavklaringspenger i referanseperioden dividert på fem,
+4. *samlet inntekt;* summen av referanseinntekt og annen inntekt,
+5. *enbrukerpensjon;* tidligpensjon som ytes leder av siidaandel,
+6. *tobrukerpensjon;* tidligpensjon som ytes leder av siidaandel og dennes ektefelle/samboer, uavhengig av om siidaandelen er registrert på en eller begge ektefellene/samboerne.
 
 > Endret ved forskrifter [26 juni 2018 nr. 1029](forskrift/2018-06-26-1029) (i kraft 1 juli 2018), [20 juni 2022 nr. 1098](forskrift/2022-06-20-1098) (i kraft 1 juli 2022).
 

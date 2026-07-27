@@ -32,7 +32,15 @@ Under den enslige mindreåriges opphold i asylmottak skal hensynet til barnets b
 
 Asylmottaket skal ha en skriftlig plan for omsorgsarbeidet og sikre at de ansatte i asylmottaket gir forsvarlig omsorg i samsvar med planen. Planen skal beskrive hvordan asylmottaket ivaretar omsorgen med den bemanningen asylmottaket har.
 
-Asylmottakets tilbud om forsvarlig omsorg skal blant annet omfatte åsikre struktur i hverdagen til den enslige mindreårige, både gjennom faste rutiner og ved å tilrettelegge for en normal døgnrytmebygge relasjoner med den enslige mindreårige og bidra til et godt miljø i asylmottaketfølge opp den enslige mindreåriges skolegang og annen opplæringgi opplæring og veiledning om hvordan den enslige mindreårige kan ha et sunt kosthold og ivareta egen psykisk og fysisk helselegge til rette for individuelt tilpassede fritidsaktiviteter for den enslige mindreårige, både i og utenfor asylmottaketforebygge at den enslige mindreårige forlater asylmottaket uten å oppgi nytt oppholdsstedlegge til rette for at den enslige mindreårige kan gjenoppta eller opprettholde kontakten med familie og andre nære relasjoner, dersom kontaktinformasjon er tilgjengelig og kontakten er til barnets beste.
+Asylmottakets tilbud om forsvarlig omsorg skal blant annet omfatte å
+
+1. sikre struktur i hverdagen til den enslige mindreårige, både gjennom faste rutiner og ved å tilrettelegge for en normal døgnrytme
+2. bygge relasjoner med den enslige mindreårige og bidra til et godt miljø i asylmottaket
+3. følge opp den enslige mindreåriges skolegang og annen opplæring
+4. gi opplæring og veiledning om hvordan den enslige mindreårige kan ha et sunt kosthold og ivareta egen psykisk og fysisk helse
+5. legge til rette for individuelt tilpassede fritidsaktiviteter for den enslige mindreårige, både i og utenfor asylmottaket
+6. forebygge at den enslige mindreårige forlater asylmottaket uten å oppgi nytt oppholdssted
+7. legge til rette for at den enslige mindreårige kan gjenoppta eller opprettholde kontakten med familie og andre nære relasjoner, dersom kontaktinformasjon er tilgjengelig og kontakten er til barnets beste.
 
 ## § 3. Vern om integritet
 
@@ -42,7 +50,11 @@ Asylmottaket skal behandle den enslige mindreårige hensynsfullt og med respekt 
 
 Asylmottaket skal gi informasjon til den enslige mindreårige om dennes rettigheter og plikter, tilpasset den enslige mindreåriges individuelle behov, alder og modenhet. Asylmottaket skal gi informasjon til den enslige mindreårige på et språk den enslige mindreårige behersker.
 
-Asylmottaket skal gi den enslige mindreårige informasjon somsetter den enslige mindreårige i stand til å medvirke i den daglige omsorgen under oppholdet i asylmottakgir den enslige mindreårige økt forståelse for egen livssituasjon og økt grad av selvstendighetforbereder den enslige mindreårige til bosetting eller retur.
+Asylmottaket skal gi den enslige mindreårige informasjon som
+
+1. setter den enslige mindreårige i stand til å medvirke i den daglige omsorgen under oppholdet i asylmottak
+2. gir den enslige mindreårige økt forståelse for egen livssituasjon og økt grad av selvstendighet
+3. forbereder den enslige mindreårige til bosetting eller retur.
 
 ## § 5. Rett til medvirkning
 
@@ -68,7 +80,14 @@ Asylmottaket skal sørge for at hver enslige mindreårige har en egen særkontak
 
 ## § 8. Utforming av asylmottaket
 
-Asylmottaket skal være utformet og utstyrt medegnede soveromlåsbare skap til private eiendelernødvendig utstyr til skolearbeid, herunder PC eller nettbretttilstrekkelige fellesarealerlokaler som er egnet til fritidsaktiviteter og leksehjelptilstrekkelig fritidsmateriell tilpasset lokale forhold og de enslige mindreåriges alder.
+Asylmottaket skal være utformet og utstyrt med
+
+1. egnede soverom
+2. låsbare skap til private eiendeler
+3. nødvendig utstyr til skolearbeid, herunder PC eller nettbrett
+4. tilstrekkelige fellesarealer
+5. lokaler som er egnet til fritidsaktiviteter og leksehjelp
+6. tilstrekkelig fritidsmateriell tilpasset lokale forhold og de enslige mindreåriges alder.
 
 Asylmottaket skal skjerme, eller på andre måter tilrettelegge for, en enslig mindreårig som har spesielle behov, herunder på bakgrunn av sitt kjønn eller sin etnisitet.
 

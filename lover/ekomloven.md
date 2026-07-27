@@ -15,7 +15,7 @@ xml_hash: "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32002D0676"
@@ -55,7 +55,55 @@ Departementet kan gi forskrift om at Nasjonal kommunikasjonsmyndighet, andre off
 
 ### § 1-5. Definisjoner
 
-I denne lov menes med:elektronisk kommunikasjon: kommunikasjon ved bruk av et elektronisk kommunikasjonsnett.elektronisk kommunikasjonsnett: system for signaltransport, uavhengig av om dette er basert på permanent infrastruktur eller sentralisert styring, som muliggjør overføring av lyd, tekst, bilder eller andre data ved hjelp av elektromagnetiske signaler i fritt rom eller kabel, der radioutstyr, svitsjer, annet koblings- og rutingsutstyr, tilhørende utstyr eller funksjoner inngår, herunder nettverkselementer som ikke er aktive.nett med svært høy kapasitet: elektronisk kommunikasjonsnett som enten utelukkende består av fiberoptiske elementer frem til forgreningspunktet på leveringsstedet, eller som under normale forhold med stor trafikk i nettet kan levere lignende ytelse.elektronisk kommunikasjonstjeneste: en tjeneste som normalt ytes mot vederlag i et elektronisk kommunikasjonsnett, og som er eninternettilgangstjeneste,person-til-person-kommunikasjonstjeneste, ellertjeneste som helt eller i det vesentlige omfatter overføring av signaler, for eksempel overføringstjenester som brukes til maskin-til-maskin-kommunikasjon og kringkasting.Tjenester som tilbyr innhold eller utøver redaksjonsansvar over slikt innhold, og som overføres ved hjelp av elektronisk kommunikasjonsnett eller -tjeneste, omfattes ikke.person-til-person-kommunikasjonstjeneste: tjeneste som normalt ytes mot vederlag, og som muliggjør direkte og interaktiv utveksling av informasjon mellom et avgrenset antall personer via et elektronisk kommunikasjonsnett, der personene som innleder eller deltar i kommunikasjonen, bestemmer hvem som skal være mottakere av kommunikasjonen, med unntak av tjenester som muliggjør interaktiv kommunikasjon mellom personer kun som en tilleggsfunksjon av mindre betydning knyttet til en annen tjeneste.nummerbasert person-til-person-kommunikasjonstjeneste: person-til-person-kommunikasjonstjeneste som etablerer forbindelse til ett eller flere nummer i nasjonale eller internasjonale nummerplaner, eller som muliggjør kommunikasjon med ett eller flere nummer i nasjonale eller internasjonale nummerplaner.nummeruavhengig person-til-person-kommunikasjonstjeneste: person-til-person-kommunikasjonstjeneste som verken etablerer forbindelse til ett eller flere nummer i nasjonale eller internasjonale nummerplaner, eller muliggjør kommunikasjon med ett eller flere nummer i nasjonale eller internasjonale nummerplaner.internettilgangstjeneste: offentlig elektronisk kommunikasjonstjeneste som gir tilgang til internett, uavhengig av hvilken nettverksteknologi og hvilket terminalutstyr som brukes.offentlig elektronisk kommunikasjonstjeneste: elektronisk kommunikasjonstjeneste som er tilgjengelig for allmennheten eller beregnet til bruk for allmennheten.offentlig elektronisk kommunikasjonsnett: elektronisk kommunikasjonsnett som helt eller i det vesentlige brukes til å tilby offentlig elektronisk kommunikasjonstjeneste som støtter overføring av informasjon mellom nettermineringspunkter.tilbyder: fysisk eller juridisk person som tilbyr andre tilgang til elektronisk kommunikasjonsnett eller -tjeneste.nettermineringspunkt: fysisk tilkoblingspunkt der sluttbruker får tilgang til offentlig elektronisk kommunikasjonsnett.tilhørende fasilitet: fysisk infrastruktur og annen innretning eller element i tilknytning til et elektronisk kommunikasjonsnett eller en elektronisk kommunikasjonstjeneste, som muliggjør, støtter eller kan støtte tilbud av elektronisk kommunikasjonstjeneste via slikt nett eller tjeneste.tilhørende tjeneste: tjeneste i tilknytning til elektronisk kommunikasjonsnett eller -tjeneste, som muliggjør eller støtter tilbud av tjenester via slikt nett eller tjeneste eller har potensial til å gjøre det.radioutstyr: et elektrisk eller elektronisk produkt som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse.terminalutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon, og som er beregnet for direkte eller indirekte tilknytning til nettermineringspunkt i elektronisk kommunikasjonsnett.skadelig interferens: interferens som setter radionavigasjonstjeneste eller annen nød- eller sikkerhetstjeneste i fare, eller som alvorlig reduserer kvaliteten på, hindrer eller gjentatte ganger avbryter radio­kommunikasjon som drives i samsvar med fastsatte krav.samlokalisering: felles bruk av infrastruktur eller av tilhørende fasiliteter som brukes eller kan bli brukt til plassering av utstyr for elektronisk kommunikasjon.samtrafikk: funksjon som tilrettelegger for formidling av trafikk mellom tilbydere slik at sluttbrukere kan kommunisere med hverandre og ha tilgang til offentlig elektronisk kommunikasjonstjeneste uavhengig av tilbydertilknytning.talekommunikasjonstjeneste: offentlig elektronisk kommunikasjonstjeneste som direkte eller indirekte kan opprette og motta nasjonale eller nasjonale og internasjonale anrop ved hjelp av ett eller flere nummer i en nasjonal eller internasjonal nummerplan.sikkerhetshendelse: enhver hendelse som har medført eller kan medføre brudd på sikkerheten i elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste.sikkerhetsbrudd: en hendelse som fører til uautorisert tilgang til eller tap av data, applikasjoner, nettverk eller enheter.trafikkdata: data som er nødvendige for å overføre kommunikasjon i et elektronisk kommunikasjonsnett eller for fakturering av slik overføring.lokaliseringsdata: data fra et elektronisk kommunikasjonsnett som angir geografisk lokalisering av terminalutstyr til en sluttbruker av elektronisk kommunikasjonstjeneste.bruker: fysisk eller juridisk person som benytter, eller som ber om tilgang til, offentlig elektronisk kommunikasjonsnett eller offentlig elektronisk kommunikasjonstjeneste til eget bruk eller som innsatsfaktor for produksjon av andre tjenester.sluttbruker: bruker som inngår avtale om, men som ikke tilbyr andre, tilgang til offentlige elektroniske kommunikasjonsnett eller offentlige elektroniske kommunikasjonstjenester.forbruker: enhver fysisk person som benytter eller ber om tilgang til en offentlig elektronisk kommunikasjonstjeneste, og som ikke hovedsakelig handler som ledd i næringsvirksomhet.små foretak: foretak med færre enn 50 ansatte og der årlig omsetning eller årlig balanse ikke overstiger 100 millioner kroner.mikroforetak: foretak med færre enn ti ansatte og der årlig omsetning eller årlig balanse ikke overstiger 20 millioner kroner.fellesfakturert tjeneste: forhåndsbetalt og etterskuddsbetalt kjøp av varer og tjenester som faktureres sammen med elektronisk kommunikasjonstjeneste.identitetsfanging: mottak og sending av radiosignaler i elektronisk kommunikasjonsnett til bruk for offentlig mobilkommunikasjon i den hensikt å avdekke elektronisk identitet til terminalutstyr.småcellebasestasjon: små trådløse aksesspunkt for kompakt trådløst utstyr med lav utgangseffekt og begrenset dekningsområde, som kan være utrustet med én eller flere antenner som har lav visuell påvirkning, og som bruker radiofrekvenser for å gi brukerne tilgang til elektronisk kommunikasjonsnett, uavhengig av om den underliggende nettverks­topologien er mobil- eller fastnettbasert.domenenavn: et navn som gjør det mulig å identifisere tjenester og ressurser på internett, og som inngår i det globale domenenavnsystemet (DNS). Domenenavnsystemet er et hierarkisk oppbygget navnesystem som brukes til å knytte domenenavn til IP-adresser og til å formidle teknisk informasjon som trengs for å adressere nettsider, e-post og andre tjenester over internett.toppdomene: et domenenavn registrert på øverste nivå i det globale domenenavnsystemet. Dette omfatter både landkodetoppdomenene og de generiske toppdomenene.registerenhet: et foretak som har fått delegert ansvaret for å administrere og drifte et toppdomene. Dette inkluderer tildeling og registrering av bruksrett til domenenavn under toppdomenet, tilhørende drift av navnetjenesten, vedlikehold av databaser, distribusjon av sonefiler m.m.datasenter: et anlegg, del av anlegg eller gruppe av anlegg som brukes for å innplassere, tilkoble og drifte IT- og nettverksutstyr for datalagring, dataprosessering eller dataoverføring, og relaterte aktiviteter.datasentertjeneste: en tjeneste som legger til rette for innplassering, tilkobling og drift av IT- og nettverksutstyr for datalagring, dataprosessering og dataoverføring. Tjenesten omfatter i tillegg fysisk sikkerhet, strøm og kjøling og kan inkludere andre relaterte tjenester.datasenteroperatør: fysisk eller juridisk person somtilbyr andre tilgang til datasentertjeneste mot vederlag, ellerdriver datasenter med en abonnert elektrisk effekt over en terskelverdi som fastsettes av departementet i forskrift. Dette inkluderer virksomhetsinterne datasentre, med unntak av forsvarssektoren, politiet og Politiets sikkerhetstjeneste.
+I denne lov menes med:
+
+1. elektronisk kommunikasjon: kommunikasjon ved bruk av et elektronisk kommunikasjonsnett.
+2. elektronisk kommunikasjonsnett: system for signaltransport, uavhengig av om dette er basert på permanent infrastruktur eller sentralisert styring, som muliggjør overføring av lyd, tekst, bilder eller andre data ved hjelp av elektromagnetiske signaler i fritt rom eller kabel, der radioutstyr, svitsjer, annet koblings- og rutingsutstyr, tilhørende utstyr eller funksjoner inngår, herunder nettverkselementer som ikke er aktive.
+3. nett med svært høy kapasitet: elektronisk kommunikasjonsnett som enten utelukkende består av fiberoptiske elementer frem til forgreningspunktet på leveringsstedet, eller som under normale forhold med stor trafikk i nettet kan levere lignende ytelse.
+4. elektronisk kommunikasjonstjeneste: en tjeneste som normalt ytes mot vederlag i et elektronisk kommunikasjonsnett, og som er en
+
+   1. internettilgangstjeneste,
+   2. person-til-person-kommunikasjonstjeneste, eller
+   3. tjeneste som helt eller i det vesentlige omfatter overføring av signaler, for eksempel overføringstjenester som brukes til maskin-til-maskin-kommunikasjon og kringkasting.
+
+      Tjenester som tilbyr innhold eller utøver redaksjonsansvar over slikt innhold, og som overføres ved hjelp av elektronisk kommunikasjonsnett eller -tjeneste, omfattes ikke.
+5. person-til-person-kommunikasjonstjeneste: tjeneste som normalt ytes mot vederlag, og som muliggjør direkte og interaktiv utveksling av informasjon mellom et avgrenset antall personer via et elektronisk kommunikasjonsnett, der personene som innleder eller deltar i kommunikasjonen, bestemmer hvem som skal være mottakere av kommunikasjonen, med unntak av tjenester som muliggjør interaktiv kommunikasjon mellom personer kun som en tilleggsfunksjon av mindre betydning knyttet til en annen tjeneste.
+6. nummerbasert person-til-person-kommunikasjonstjeneste: person-til-person-kommunikasjonstjeneste som etablerer forbindelse til ett eller flere nummer i nasjonale eller internasjonale nummerplaner, eller som muliggjør kommunikasjon med ett eller flere nummer i nasjonale eller internasjonale nummerplaner.
+7. nummeruavhengig person-til-person-kommunikasjonstjeneste: person-til-person-kommunikasjonstjeneste som verken etablerer forbindelse til ett eller flere nummer i nasjonale eller internasjonale nummerplaner, eller muliggjør kommunikasjon med ett eller flere nummer i nasjonale eller internasjonale nummerplaner.
+8. internettilgangstjeneste: offentlig elektronisk kommunikasjonstjeneste som gir tilgang til internett, uavhengig av hvilken nettverksteknologi og hvilket terminalutstyr som brukes.
+9. offentlig elektronisk kommunikasjonstjeneste: elektronisk kommunikasjonstjeneste som er tilgjengelig for allmennheten eller beregnet til bruk for allmennheten.
+10. offentlig elektronisk kommunikasjonsnett: elektronisk kommunikasjonsnett som helt eller i det vesentlige brukes til å tilby offentlig elektronisk kommunikasjonstjeneste som støtter overføring av informasjon mellom nettermineringspunkter.
+11. tilbyder: fysisk eller juridisk person som tilbyr andre tilgang til elektronisk kommunikasjonsnett eller -tjeneste.
+12. nettermineringspunkt: fysisk tilkoblingspunkt der sluttbruker får tilgang til offentlig elektronisk kommunikasjonsnett.
+13. tilhørende fasilitet: fysisk infrastruktur og annen innretning eller element i tilknytning til et elektronisk kommunikasjonsnett eller en elektronisk kommunikasjonstjeneste, som muliggjør, støtter eller kan støtte tilbud av elektronisk kommunikasjonstjeneste via slikt nett eller tjeneste.
+14. tilhørende tjeneste: tjeneste i tilknytning til elektronisk kommunikasjonsnett eller -tjeneste, som muliggjør eller støtter tilbud av tjenester via slikt nett eller tjeneste eller har potensial til å gjøre det.
+15. radioutstyr: et elektrisk eller elektronisk produkt som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse.
+16. terminalutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon, og som er beregnet for direkte eller indirekte tilknytning til nettermineringspunkt i elektronisk kommunikasjonsnett.
+17. skadelig interferens: interferens som setter radionavigasjonstjeneste eller annen nød- eller sikkerhetstjeneste i fare, eller som alvorlig reduserer kvaliteten på, hindrer eller gjentatte ganger avbryter radio­kommunikasjon som drives i samsvar med fastsatte krav.
+18. samlokalisering: felles bruk av infrastruktur eller av tilhørende fasiliteter som brukes eller kan bli brukt til plassering av utstyr for elektronisk kommunikasjon.
+19. samtrafikk: funksjon som tilrettelegger for formidling av trafikk mellom tilbydere slik at sluttbrukere kan kommunisere med hverandre og ha tilgang til offentlig elektronisk kommunikasjonstjeneste uavhengig av tilbydertilknytning.
+20. talekommunikasjonstjeneste: offentlig elektronisk kommunikasjonstjeneste som direkte eller indirekte kan opprette og motta nasjonale eller nasjonale og internasjonale anrop ved hjelp av ett eller flere nummer i en nasjonal eller internasjonal nummerplan.
+21. sikkerhetshendelse: enhver hendelse som har medført eller kan medføre brudd på sikkerheten i elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste.
+22. sikkerhetsbrudd: en hendelse som fører til uautorisert tilgang til eller tap av data, applikasjoner, nettverk eller enheter.
+23. trafikkdata: data som er nødvendige for å overføre kommunikasjon i et elektronisk kommunikasjonsnett eller for fakturering av slik overføring.
+24. lokaliseringsdata: data fra et elektronisk kommunikasjonsnett som angir geografisk lokalisering av terminalutstyr til en sluttbruker av elektronisk kommunikasjonstjeneste.
+25. bruker: fysisk eller juridisk person som benytter, eller som ber om tilgang til, offentlig elektronisk kommunikasjonsnett eller offentlig elektronisk kommunikasjonstjeneste til eget bruk eller som innsatsfaktor for produksjon av andre tjenester.
+26. sluttbruker: bruker som inngår avtale om, men som ikke tilbyr andre, tilgang til offentlige elektroniske kommunikasjonsnett eller offentlige elektroniske kommunikasjonstjenester.
+27. forbruker: enhver fysisk person som benytter eller ber om tilgang til en offentlig elektronisk kommunikasjonstjeneste, og som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+28. små foretak: foretak med færre enn 50 ansatte og der årlig omsetning eller årlig balanse ikke overstiger 100 millioner kroner.
+29. mikroforetak: foretak med færre enn ti ansatte og der årlig omsetning eller årlig balanse ikke overstiger 20 millioner kroner.
+30. fellesfakturert tjeneste: forhåndsbetalt og etterskuddsbetalt kjøp av varer og tjenester som faktureres sammen med elektronisk kommunikasjonstjeneste.
+31. identitetsfanging: mottak og sending av radiosignaler i elektronisk kommunikasjonsnett til bruk for offentlig mobilkommunikasjon i den hensikt å avdekke elektronisk identitet til terminalutstyr.
+32. småcellebasestasjon: små trådløse aksesspunkt for kompakt trådløst utstyr med lav utgangseffekt og begrenset dekningsområde, som kan være utrustet med én eller flere antenner som har lav visuell påvirkning, og som bruker radiofrekvenser for å gi brukerne tilgang til elektronisk kommunikasjonsnett, uavhengig av om den underliggende nettverks­topologien er mobil- eller fastnettbasert.
+33. domenenavn: et navn som gjør det mulig å identifisere tjenester og ressurser på internett, og som inngår i det globale domenenavnsystemet (DNS). Domenenavnsystemet er et hierarkisk oppbygget navnesystem som brukes til å knytte domenenavn til IP-adresser og til å formidle teknisk informasjon som trengs for å adressere nettsider, e-post og andre tjenester over internett.
+34. toppdomene: et domenenavn registrert på øverste nivå i det globale domenenavnsystemet. Dette omfatter både landkodetoppdomenene og de generiske toppdomenene.
+35. registerenhet: et foretak som har fått delegert ansvaret for å administrere og drifte et toppdomene. Dette inkluderer tildeling og registrering av bruksrett til domenenavn under toppdomenet, tilhørende drift av navnetjenesten, vedlikehold av databaser, distribusjon av sonefiler m.m.
+36. datasenter: et anlegg, del av anlegg eller gruppe av anlegg som brukes for å innplassere, tilkoble og drifte IT- og nettverksutstyr for datalagring, dataprosessering eller dataoverføring, og relaterte aktiviteter.
+37. datasentertjeneste: en tjeneste som legger til rette for innplassering, tilkobling og drift av IT- og nettverksutstyr for datalagring, dataprosessering og dataoverføring. Tjenesten omfatter i tillegg fysisk sikkerhet, strøm og kjøling og kan inkludere andre relaterte tjenester.
+38. datasenteroperatør: fysisk eller juridisk person som
+
+    1. tilbyr andre tilgang til datasentertjeneste mot vederlag, eller
+    2. driver datasenter med en abonnert elektrisk effekt over en terskelverdi som fastsettes av departementet i forskrift. Dette inkluderer virksomhetsinterne datasentre, med unntak av forsvarssektoren, politiet og Politiets sikkerhetstjeneste.
 
 ## Kapittel 2. Krav til tilbyder av elektroniske kommunikasjonsnett og -tjenester
 
@@ -63,7 +111,16 @@ I denne lov menes med:elektronisk kommunikasjon: kommunikasjon ved bruk av et el
 
 Tilbyder av offentlig elektronisk kommunikasjonsnett og offentlig elektronisk kommunikasjonstjeneste skal registrere seg hos departementet før virksomheten starter opp. Virksomheten kan starte når registreringen er sendt. Registreringsplikten gjelder ikke tilbyder av nummeruavhengig person-til-person-kommunikasjons­tjeneste.
 
-Registreringen skal inneholde opplysninger omtilbyders navnnorsk organisasjonsnummer eller tilbyderens rettslige status, form og registreringsnummer dersom tilbyderen er registrert i et handelsregister eller et lignende offentlig register i EØSnorsk adresse eller adressen til tilbyderens eventuelle hovedforetak i EØS, og eventuelt en sekundær filialtilbyderens nettadressekontaktperson og dennes kontaktinformasjoneventuelle samarbeidspartnere ved utbygging og levering av elektroniske kommunikasjonstjenesterbeskrivelse av nettene eller tjenestene, herunder om det tilbys tilgang til fastnett eller mobilnett, samt nettets geografiske utstrekning og plassering, inkludert forbindelser til utlandet og spesifikasjoner for de tekniske grensesnitt til elektronisk kommunikasjonsnett, ogforventet oppstart av virksomheten.
+Registreringen skal inneholde opplysninger om
+
+1. tilbyders navn
+2. norsk organisasjonsnummer eller tilbyderens rettslige status, form og registreringsnummer dersom tilbyderen er registrert i et handelsregister eller et lignende offentlig register i EØS
+3. norsk adresse eller adressen til tilbyderens eventuelle hovedforetak i EØS, og eventuelt en sekundær filial
+4. tilbyderens nettadresse
+5. kontaktperson og dennes kontaktinformasjon
+6. eventuelle samarbeidspartnere ved utbygging og levering av elektroniske kommunikasjonstjenester
+7. beskrivelse av nettene eller tjenestene, herunder om det tilbys tilgang til fastnett eller mobilnett, samt nettets geografiske utstrekning og plassering, inkludert forbindelser til utlandet og spesifikasjoner for de tekniske grensesnitt til elektronisk kommunikasjonsnett, og
+8. forventet oppstart av virksomheten.
 
 Departementet kan fastsette standardskjema som skal brukes ved registreringen etter andre ledd.
 
@@ -173,7 +230,11 @@ Departementet kan fatte enkeltvedtak om innholdet i planene etter første ledd, 
 
 ### § 3-1. Sikkerhet i elektroniske kommunikasjonsnett og -tjenester
 
-Tilbyder skaltilby elektroniske kommunikasjonsnett og -tjenester med forsvarlig sikkerhet for brukerne i fred, krise og krigopprettholde forsvarlig beredskap i elektroniske kommunikasjonsnett og -tjenester og prioritere viktige samfunnsaktører ved behov, ogsikre forsvarlig vern av kommunikasjon og data i elektroniske kommunikasjonsnett og -tjenester.
+Tilbyder skal
+
+1. tilby elektroniske kommunikasjonsnett og -tjenester med forsvarlig sikkerhet for brukerne i fred, krise og krig
+2. opprettholde forsvarlig beredskap i elektroniske kommunikasjonsnett og -tjenester og prioritere viktige samfunnsaktører ved behov, og
+3. sikre forsvarlig vern av kommunikasjon og data i elektroniske kommunikasjonsnett og -tjenester.
 
 Ved vurderingen av om sikkerheten er forsvarlig, vektlegges evnen til å motstå hendelser som medfører eller kan medføre brudd på tilgjengelighet, autentisitet, integritet eller konfidensialitet i elektroniske kommunikasjonsnett eller -tjenester til lagrede, overførte eller behandlede data, eller til relaterte tjenester som tilbys gjennom, eller er tilgjengelige via, slike elektroniske kommunikasjonsnett eller -tjenester. Det skal tas hensyn til blant annet beste tilgjengelige tekniske løsning, tiltakenes kostnad og nytteverdi, nettets eller tjenestens betydning og anerkjente standarder.
 
@@ -183,7 +244,12 @@ Tilbyder skal systematisk følge opp sikkerhet og beredskap i elektroniske kommu
 
 Departementet kan fatte enkeltvedtak for å sikre at tilbyder gjennomfører tiltak som gir forsvarlig sikkerhet, beredskap og vern av kommunikasjon og data. Tilbyder skal dekke kostnadene ved slike tiltak.
 
-Departementet kan fatte enkeltvedtak eller inngå avtale om gjennomføring av tiltak for å sikre oppfyllelse av nasjonale behov for sikkerhet, beredskap og funksjonalitet i elektroniske kommunikasjonsnett og -tjenester utover det som følger av første ledd. Vedtak kan fattes overfor, eller avtale kan inngås med, virksomhet somtilbyr elektronisk kommunikasjonsnett eller -tjeneste, ellertilbyr tilhørende fasilitet og tilhørende tjeneste, herunder virksomhet som har ansvar for passiv infrastruktur.Merkostnader ved levering av slike tiltak skal kompenseres av staten med basis i fyllestgjørende dokumentasjon som fremlegges av virksomheten. Dersom virksomheten ikke har valgt en løsning som er økonomisk fordelaktig for staten, kan departementet fatte enkeltvedtak om at virksomheten skal refundere dokumenterte utgifter som er unødvendige.
+Departementet kan fatte enkeltvedtak eller inngå avtale om gjennomføring av tiltak for å sikre oppfyllelse av nasjonale behov for sikkerhet, beredskap og funksjonalitet i elektroniske kommunikasjonsnett og -tjenester utover det som følger av første ledd. Vedtak kan fattes overfor, eller avtale kan inngås med, virksomhet som
+
+1. tilbyr elektronisk kommunikasjonsnett eller -tjeneste, eller
+2. tilbyr tilhørende fasilitet og tilhørende tjeneste, herunder virksomhet som har ansvar for passiv infrastruktur.
+
+Merkostnader ved levering av slike tiltak skal kompenseres av staten med basis i fyllestgjørende dokumentasjon som fremlegges av virksomheten. Dersom virksomheten ikke har valgt en løsning som er økonomisk fordelaktig for staten, kan departementet fatte enkeltvedtak om at virksomheten skal refundere dokumenterte utgifter som er unødvendige.
 
 Departementet kan gi forskrift om oppfyllelsen av sikkerhets- og beredskapstiltak, vern av kommunikasjon og data og øvrige plikter som følger av bestemmelsen, herunder om nasjonal autonomi. Departementet kan gi forskrift om sikkerhetsrevisjon, tidsfrister, rapporteringsplikt, bruk av flere føringsveier nasjonalt og ut av landet, redundans, herunder logisk redundans og utstyrsredundans, og om finansiering. Departementet kan gi forskrift eller fatte enkeltvedtak om at bestemmelsen skal gjelde andre enn tilbydere, og kan også gjøre unntak fra bestemmelsen for tilbydere, virksomheter eller tjenester.
 
@@ -201,7 +267,13 @@ Departementet kan gi forskrift og fatte enkeltvedtak om varsling av sikkerhetsbr
 
 Tilbyder skal umiddelbart varsle departementet om sikkerhetshendelser som har medført vesentlig brudd på tilgjengeligheten i elektroniske kommunikasjonsnett eller -tjenester. Tilbyder skal uten ugrunnet opphold varsle departementet om sikkerhetshendelser som har medført vesentlig brudd på autentisitet, integritet eller konfidensialitet i elektroniske kommunikasjonsnett eller -tjenester.
 
-Ved vurderingen av om en sikkerhetshendelse etter første ledd er vesentlig, skal det legges vekt påantall brukere som er berørtvarighetgeografisk omfanghvilke funksjoner i elektroniske kommunikasjonsnett og -tjenester som er berørt, ogøkonomisk og samfunnsmessig betydning.
+Ved vurderingen av om en sikkerhetshendelse etter første ledd er vesentlig, skal det legges vekt på
+
+1. antall brukere som er berørt
+2. varighet
+3. geografisk omfang
+4. hvilke funksjoner i elektroniske kommunikasjonsnett og -tjenester som er berørt, og
+5. økonomisk og samfunnsmessig betydning.
 
 Departementet kan pålegge tilbyder å informere offentligheten om sikkerhetshendelser etter første ledd når det er i allmennhetens interesse.
 
@@ -285,7 +357,10 @@ Departementet kan gi forskrift om taushetsplikt, utvidelse av taushetsplikten ti
 
 ### § 3-11. Sletting av data
 
-Trafikkdata, lokaliseringsdata og data nødvendige for å identifisere abonnenten eller brukeren skal slettes eller anonymiseres så snart de ikke lenger er nødvendig for:kommunikasjons- eller faktureringsformål, ellerå oppfylle andre krav fastsatt i [§ 3-13](lov/2024-12-13-76/§3-13), eller i medhold av annen lov, jf. [§ 3-12](lov/2024-12-13-76/§3-12).
+Trafikkdata, lokaliseringsdata og data nødvendige for å identifisere abonnenten eller brukeren skal slettes eller anonymiseres så snart de ikke lenger er nødvendig for:
+
+1. kommunikasjons- eller faktureringsformål, eller
+2. å oppfylle andre krav fastsatt i [§ 3-13](lov/2024-12-13-76/§3-13), eller i medhold av annen lov, jf. [§ 3-12](lov/2024-12-13-76/§3-12).
 
 Annen behandling av slike data krever samtykke fra bruker. Samtykke skal oppfylle kravene til samtykke i [personvernforordningen](lov/2018-06-15-38/gdpr).
 
@@ -303,7 +378,10 @@ Bestemmelser om tilrettelegging for innhenting av elektronisk kommunikasjon som 
 
 ### § 3-13. Plikt til lagring av offentlige IP-adresser
 
-Tilbyder av elektroniske kommunikasjonsnett som anvendes til offentlig elektronisk kommunikasjonstjeneste, og tilbyder av slik tjeneste, skal til bruk for etterforsking av alvorlig kriminalitet lagre de opplysninger som er nødvendige for å identifisere abonnentene med utgangspunkt ioffentlig IP-adresse og et tidspunkt for kommunikasjon, elleroffentlig IP-adresse, et tidspunkt for kommunikasjon og portnummer benyttet ved kommunikasjonen, dersom samme offentlige IP-adresse er tildelt flere abonnenter samtidig.
+Tilbyder av elektroniske kommunikasjonsnett som anvendes til offentlig elektronisk kommunikasjonstjeneste, og tilbyder av slik tjeneste, skal til bruk for etterforsking av alvorlig kriminalitet lagre de opplysninger som er nødvendige for å identifisere abonnentene med utgangspunkt i
+
+1. offentlig IP-adresse og et tidspunkt for kommunikasjon, eller
+2. offentlig IP-adresse, et tidspunkt for kommunikasjon og portnummer benyttet ved kommunikasjonen, dersom samme offentlige IP-adresse er tildelt flere abonnenter samtidig.
 
 Destinasjonsinformasjon skal ikke lagres.
 
@@ -329,7 +407,10 @@ Departementet kan gi forskrift om utlevering av data etter denne bestemmelsen og
 
 Det er ikke tillatt å lagre eller å skaffe seg tilgang til opplysninger i sluttbrukers eller brukers kommunikasjonsutstyr uten at den aktuelle sluttbrukeren eller brukeren er informert om blant annet hvilke opplysninger som behandles, formålet med behandlingen og hvem som behandler opplysningene, og uten at den aktuelle sluttbrukeren eller brukeren har gitt samtykke. Samtykke skal oppfylle kravene til samtykke i [personvernforordningen](lov/2018-06-15-38/gdpr).
 
-Første ledd gjelder ikke for teknisk lagring av eller adgang til opplysningerutelukkende for det formål å overføre kommunikasjon i et elektronisk kommunikasjonsnett, ellersom er strengt nødvendig for å levere en informasjonssamfunnstjeneste etter den aktuelle sluttbrukerens eller brukerens uttrykkelige forespørsel.
+Første ledd gjelder ikke for teknisk lagring av eller adgang til opplysninger
+
+1. utelukkende for det formål å overføre kommunikasjon i et elektronisk kommunikasjonsnett, eller
+2. som er strengt nødvendig for å levere en informasjonssamfunnstjeneste etter den aktuelle sluttbrukerens eller brukerens uttrykkelige forespørsel.
 
 Departementet kan gi forskrift om plikten etter første ledd, herunder om bruken av informasjonskapsler. Departementet kan gi forskrift om unntak etter andre ledd.
 
@@ -397,7 +478,11 @@ Departementet kan gi forskrift om forbrukskontroll og forbruksgrensen etter andr
 
 ### § 4-9. Kontroll av kostnader
 
-Tilbyder av internettilgangstjenester og nummerbaserte person-til-person-kommunikasjonstjenester skal tilby tjenester som gjør det mulig for sluttbruker å kontrollere kostnadene ved tjenestene. Dette omfatterspesifisert fakturasperring av anrop og nummer, ogsperring mot bruk av fellesfakturerte tjenester, med unntak av nummeropplysningstjenester.
+Tilbyder av internettilgangstjenester og nummerbaserte person-til-person-kommunikasjonstjenester skal tilby tjenester som gjør det mulig for sluttbruker å kontrollere kostnadene ved tjenestene. Dette omfatter
+
+1. spesifisert faktura
+2. sperring av anrop og nummer, og
+3. sperring mot bruk av fellesfakturerte tjenester, med unntak av nummeropplysningstjenester.
 
 Tilbyder av internettilgangstjenester og offentlig tilgjengelige nummerbaserte person-til-person kommunikasjonstjenester skal tilby forbruker mulighet for avdragsbetaling av tilknytningskostnader.
 
@@ -507,7 +592,10 @@ Departementet kan gi forskrift om finansiering av leveringspliktige tjenester, h
 
 ### § 5-3. Spesielle samfunnspålagte oppgaver
 
-Departementet kan inngå avtale med eller utpeke en eller flere tilbydere av elektroniske kommunikasjonsnett og -tjenester for å sikre tilbud av følgende spesielle samfunnspålagte oppgaver:ytelser til nød- og sikkerhetstjenesten (kystradioen) til dekning av de oppgaver innen kystradioens dekningsområde som Norge har påtatt seg gjennom internasjonale overenskomsterytelser vedrørende Svalbard.
+Departementet kan inngå avtale med eller utpeke en eller flere tilbydere av elektroniske kommunikasjonsnett og -tjenester for å sikre tilbud av følgende spesielle samfunnspålagte oppgaver:
+
+1. ytelser til nød- og sikkerhetstjenesten (kystradioen) til dekning av de oppgaver innen kystradioens dekningsområde som Norge har påtatt seg gjennom internasjonale overenskomster
+2. ytelser vedrørende Svalbard.
 
 Merkostnader ved avtaler eller pålegg etter første ledd skal dekkes av staten.
 
@@ -545,7 +633,11 @@ Nasjonal kommunikasjonsmyndighet kan definere markeder som avviker fra anbefalin
 
 Nasjonal kommunikasjonsmyndighet skal gjennomføre markedsanalyser som skal være grunnlag for å utpeke, opprettholde eller trekke tilbake utpekning av tilbyder med sterk markedsstilling. Markedsanalysene skal gjennomføres i henhold til retningslinjer for markedsanalyse som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-Når et marked ikke fremgår av anbefalingen om relevante produkt- og tjenestemarkeder som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl), skal markedsanalysen inneholde en vurdering av om følgende tre kriterier er oppfylt:Det foreligger høye og varige strukturelle, rettslige eller regulatoriske etableringshinder.Markedsstrukturen tenderer ikke mot bærekraftig konkurranse.Konkurranseretten alene er ikke tilstrekkelig til å bøte på de identifiserte konkurranseproblemene.
+Når et marked ikke fremgår av anbefalingen om relevante produkt- og tjenestemarkeder som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl), skal markedsanalysen inneholde en vurdering av om følgende tre kriterier er oppfylt:
+
+1. Det foreligger høye og varige strukturelle, rettslige eller regulatoriske etableringshinder.
+2. Markedsstrukturen tenderer ikke mot bærekraftig konkurranse.
+3. Konkurranseretten alene er ikke tilstrekkelig til å bøte på de identifiserte konkurranseproblemene.
 
 Tre-kriterietest skal også gjennomføres før Nasjonal kommunikasjonsmyndighet vedtar at et marked som følger av anbefalingen om relevante produkt- og tjenestemarkeder, ikke skal reguleres etter [§ 6-1](lov/2024-12-13-76/§6-1), jf. [§ 6-4](lov/2024-12-13-76/§6-4).
 
@@ -595,7 +687,17 @@ Departementet kan gi forskrift om tilgang til anleggsinfrastruktur.
 
 Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling å imøtekomme enhver rimelig anmodning om å inngå avtale om tilgang til elektroniske kommunikasjonsnett og -tjenester og tilhørende fasiliteter når tilgang etter [§ 7-1](lov/2024-12-13-76/§7-1) ikke anses tilstrekkelig til å fremme bærekraftig konkurranse.
 
-Nasjonal kommunikasjonsmyndighet kan blant annet pålegge følgende tilgang etter første ledd:bruk av spesifiserte fysiske nettelementer og tilhørende ressurser, herunder hel eller delt tilgang til aksessnettetbruk av spesifiserte aktive eller virtuelle nettelementer og tjenesterspesifiserte tjenester for videresalgtekniske grensesnitt, protokoller eller annen nøkkelteknologi som er nødvendig for å sikre at elek­troniske kommunikasjonstjenester kan samvirkespesifiserte tjenester som er nødvendig for å sikre samtrafikk mellom tjenester helt frem til sluttbrukeren eller for å sikre gjesting i mobilnettsamtrafikkforpliktelser mellom nett og tilhørende fasilitetersamlokaliseringnødvendige informasjons- og støttesystemer, herunder programvaresystemertilhørende tjenester som angir identitet, lokasjon og tilstedeværelse.
+Nasjonal kommunikasjonsmyndighet kan blant annet pålegge følgende tilgang etter første ledd:
+
+1. bruk av spesifiserte fysiske nettelementer og tilhørende ressurser, herunder hel eller delt tilgang til aksessnettet
+2. bruk av spesifiserte aktive eller virtuelle nettelementer og tjenester
+3. spesifiserte tjenester for videresalg
+4. tekniske grensesnitt, protokoller eller annen nøkkelteknologi som er nødvendig for å sikre at elek­troniske kommunikasjonstjenester kan samvirke
+5. spesifiserte tjenester som er nødvendig for å sikre samtrafikk mellom tjenester helt frem til sluttbrukeren eller for å sikre gjesting i mobilnett
+6. samtrafikkforpliktelser mellom nett og tilhørende fasiliteter
+7. samlokalisering
+8. nødvendige informasjons- og støttesystemer, herunder programvaresystemer
+9. tilhørende tjenester som angir identitet, lokasjon og tilstedeværelse.
 
 Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling å imøtekomme enhver rimelig anmodning om å endre avtale om tilgang etter første ledd. Nasjonal kommunikasjonsmyndighet kan også kreve endring i tilbudte eller inngåtte avtaler for å oppfylle pålegg etter andre ledd eller pålegg etter [§ 15-5](lov/2024-12-13-76/§15-5).
 
@@ -607,13 +709,27 @@ Departementet kan gi forskrift om tilgang, herunder om fast forvalg og forvalg v
 
 ### § 7-3. Krav til rimelig anmodning
 
-Ved vurderingen av om en anmodning er rimelig skal tilbyderens interesse i å disponere egen infrastruktur blant annet avveies mot behovet for å gi andre tilgang som er nødvendig for å kunne tilby konkurrerende tjenester. Ved vurderingen av hva som er nødvendig etter første punktum, skal det tas hensyn til om det i lys av markedsutviklingen er teknisk og bedriftsøkonomisk mulig å anlegge eller bruke annen infrastruktur. Ved vurderingen av om en anmodning er rimelig skal det i tillegg tas hensyn tiltilgjengelig kapasitettilbyders investeringer og investeringsrisiko, særlig når det gjelder høyhastighetsnett og nyinvesteringer, og eventuelle offentlige støtte- og tilskuddsordningerom det er nødvendig å gi andre tilgang for å sikre fremveksten av et marked med bærekraftig konkurranse på sluttbrukernivå og er i sluttbrukernes interessebehov for å ivareta nettets integritetimmaterielle rettigheteretablering av felleseuropeiske tjenester, ogivaretakelse av teknologisk utvikling.
+Ved vurderingen av om en anmodning er rimelig skal tilbyderens interesse i å disponere egen infrastruktur blant annet avveies mot behovet for å gi andre tilgang som er nødvendig for å kunne tilby konkurrerende tjenester. Ved vurderingen av hva som er nødvendig etter første punktum, skal det tas hensyn til om det i lys av markedsutviklingen er teknisk og bedriftsøkonomisk mulig å anlegge eller bruke annen infrastruktur. Ved vurderingen av om en anmodning er rimelig skal det i tillegg tas hensyn til
+
+1. tilgjengelig kapasitet
+2. tilbyders investeringer og investeringsrisiko, særlig når det gjelder høyhastighetsnett og nyinvesteringer, og eventuelle offentlige støtte- og tilskuddsordninger
+3. om det er nødvendig å gi andre tilgang for å sikre fremveksten av et marked med bærekraftig konkurranse på sluttbrukernivå og er i sluttbrukernes interesse
+4. behov for å ivareta nettets integritet
+5. immaterielle rettigheter
+6. etablering av felleseuropeiske tjenester, og
+7. ivaretakelse av teknologisk utvikling.
 
 Tilbyder med sterk markedsstilling skal dokumentere og begrunne avslag på anmodning om tilgang.
 
 ### § 7-4. Offentliggjøring og standardtilbud
 
-Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling å offentliggjøre spesifisert informasjon eller utarbeide og offentliggjøre standardtilbud for tilgang til elektroniske kommunikasjonsnett og -tjenester. Plikten til å offentliggjøre spesifisert informasjon kan blant annet omfatteregnskapsinformasjontekniske spesifikasjoner, herunder grensesnitt som brukes ved nettermineringspunktene, samt hvilke standarder som er bruktnettverksegenskaper, herunder forventet utviklingpriser, ogandre vilkår og betingelser for levering og bruk, herunder vilkår som endrer tilgang til eller bruk av tjenester eller applikasjoner særlig ved migrering til ny infrastruktur, jf. [§ 7-12](lov/2024-12-13-76/§7-12).
+Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling å offentliggjøre spesifisert informasjon eller utarbeide og offentliggjøre standardtilbud for tilgang til elektroniske kommunikasjonsnett og -tjenester. Plikten til å offentliggjøre spesifisert informasjon kan blant annet omfatte
+
+1. regnskapsinformasjon
+2. tekniske spesifikasjoner, herunder grensesnitt som brukes ved nettermineringspunktene, samt hvilke standarder som er brukt
+3. nettverksegenskaper, herunder forventet utvikling
+4. priser, og
+5. andre vilkår og betingelser for levering og bruk, herunder vilkår som endrer tilgang til eller bruk av tjenester eller applikasjoner særlig ved migrering til ny infrastruktur, jf. [§ 7-12](lov/2024-12-13-76/§7-12).
 
 Nasjonal kommunikasjonsmyndighet kan kreve at tilbud etter første ledd er tilstrekkelig oppdelt i enkelt­elementer med tilhørende vilkår basert på behov i markedet slik at bruker ikke må akseptere eller betale for tjenester, funksjoner eller ytelser som det ikke er anmodet om.
 
@@ -629,7 +745,10 @@ Departementet kan gi forskrift om offentliggjøring og standardtilbud.
 
 Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling å tilby tilgang på ikke-diskriminerende vilkår.
 
-Krav til ikke-diskriminering etter første ledd kan omfatte at tilgang skal tilbystil eksterne tilbydere på samme eller likeverdige vilkår og med samme kvalitet som for tilbyders egne tjenester, datterselskap eller partnervirksomheter, ogpå samme eller likeverdige vilkår til eksterne tilbydere i samme eller likeverdige tilfeller.
+Krav til ikke-diskriminering etter første ledd kan omfatte at tilgang skal tilbys
+
+1. til eksterne tilbydere på samme eller likeverdige vilkår og med samme kvalitet som for tilbyders egne tjenester, datterselskap eller partnervirksomheter, og
+2. på samme eller likeverdige vilkår til eksterne tilbydere i samme eller likeverdige tilfeller.
 
 Nasjonal kommunikasjonsmyndighet kan kreve at tilbyder med sterk markedsstilling skal tilby tilgangsprodukter og -tjenester til alle tilbydere, herunder egen virksomhet, innenfor samme tid og frister, på samme eller likeverdige vilkår og betingelser, herunder pris og servicenivå, og ved hjelp av samme eller likeverdige system og prosesser som gjelder for egen virksomhet.
 
@@ -653,7 +772,10 @@ Departementet kan gi forskrift om prinsipper for regnskapsmessig skille.
 
 Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling prisforpliktelser for tilgang når tilbyder kan utnytte sin markedsstilling til skade for sluttbrukerne i markedet ved å opprettholde et uforholdsmessig høyt prisnivå eller ved å etablere prisklemmer for konkurrerende tilbyder.
 
-Ved vurdering av om prisregulering skal pålegges, skal Nasjonal kommunikasjonsmyndighet ta hensyn tilbehovet for å fremme konkurransen, ogsluttbrukeres langsiktige interesser i at nett med svært høy kapasitet bygges ut og tas i bruk.
+Ved vurdering av om prisregulering skal pålegges, skal Nasjonal kommunikasjonsmyndighet ta hensyn til
+
+1. behovet for å fremme konkurransen, og
+2. sluttbrukeres langsiktige interesser i at nett med svært høy kapasitet bygges ut og tas i bruk.
 
 Prisforpliktelser etter første ledd skal gi tilbyder med sterk markedsstilling en rimelig avkastning på anvendt kapital.
 
@@ -673,7 +795,10 @@ Departementet kan gi forskrift for å gjennomføre vedtak om felles maksimalpris
 
 ### § 7-9. Strukturelt og regnskapsmessig skille for ene- og særrettsvirksomheter
 
-Tilbydere av elektroniske kommunikasjonsnett eller -tjenester som har ene- eller særrettsvirksomhet innen andre områder i Norge eller i andre stater i EØS, skalha regnskapsmessig skille for den delen av virksomheten som knytter seg til tilbud om elektronisk kommunikasjonsnett eller -tjenester, ogskille ut den delen av virksomheten som knytter seg til tilbud om elektronisk kommunikasjonsnett eller -tjenester, i en egen forretningsenhet eller i en egen juridisk enhet.
+Tilbydere av elektroniske kommunikasjonsnett eller -tjenester som har ene- eller særrettsvirksomhet innen andre områder i Norge eller i andre stater i EØS, skal
+
+1. ha regnskapsmessig skille for den delen av virksomheten som knytter seg til tilbud om elektronisk kommunikasjonsnett eller -tjenester, og
+2. skille ut den delen av virksomheten som knytter seg til tilbud om elektronisk kommunikasjonsnett eller -tjenester, i en egen forretningsenhet eller i en egen juridisk enhet.
 
 Første ledd gjelder ikke dersom virksomhetens samlede årlige omsetning for aktiviteter i forbindelse med elektroniske kommunikasjonsnett eller -tjenester i Norge er lavere enn 100 millioner kroner.
 
@@ -683,7 +808,10 @@ Departementet kan gi forskrift om strukturelt og regnskapsmessig skille, herunde
 
 En tilbyder som har sterk markedsstilling i ett eller flere grossistmarkeder, og som ikke er aktiv i noe sluttbrukermarked eller har eierinteresser eller andre særlige interesser i virksomheter som er aktive i sluttbrukermarkedet, kan pålegges tilgangsplikt etter [§ 7-2](lov/2024-12-13-76/§7-2), plikt til ikke-diskriminering etter [§ 7-5](lov/2024-12-13-76/§7-5) og plikt til rimelig og rettferdig prissetting.
 
-I vurdering av om tilbyderen faller inn under første ledd skal Nasjonal kommunikasjonsmyndighet ta stilling til om tilbyderen oppfyller følgende vilkår:At alle selskaper og forretningsenheter i tilbyders virksomhet, alle selskaper som kontrolleres, men ikke nødvendigvis er heleid av samme overordnede eier, og enhver aksjeeier som er i stand til å utøve kontroll over virksomheten, utelukkende driver eller planlegger å drive virksomhet i grossistmarkeder for elektroniske kommunikasjonstjenester.At tilbyderen ikke har forpliktet seg gjennom en eksklusivitetsavtale, eller avtale som i praksis vil være en eksklusivitetsavtale, til å handle med en annen selvstendig tilbyder som driver virksomhet i senere ledd i verdikjeden, eller som er aktiv i et sluttbrukermarked for elektroniske kommunikasjonstjenester.
+I vurdering av om tilbyderen faller inn under første ledd skal Nasjonal kommunikasjonsmyndighet ta stilling til om tilbyderen oppfyller følgende vilkår:
+
+1. At alle selskaper og forretningsenheter i tilbyders virksomhet, alle selskaper som kontrolleres, men ikke nødvendigvis er heleid av samme overordnede eier, og enhver aksjeeier som er i stand til å utøve kontroll over virksomheten, utelukkende driver eller planlegger å drive virksomhet i grossistmarkeder for elektroniske kommunikasjonstjenester.
+2. At tilbyderen ikke har forpliktet seg gjennom en eksklusivitetsavtale, eller avtale som i praksis vil være en eksklusivitetsavtale, til å handle med en annen selvstendig tilbyder som driver virksomhet i senere ledd i verdikjeden, eller som er aktiv i et sluttbrukermarked for elektroniske kommunikasjonstjenester.
 
 Tilbyder etter første ledd kan pålegges ytterligere plikter etter [§§ 7-1](lov/2024-12-13-76/§7-1), [7-4](lov/2024-12-13-76/§7-4), [7-6](lov/2024-12-13-76/§7-6) og [7-7](lov/2024-12-13-76/§7-7) dersom vilkårene tilbyderen benytter, likevel har ført til, eller vil føre til, konkurranseproblemer til skade for sluttbrukerne.
 
@@ -697,7 +825,10 @@ Når plikter etter [§§ 7-1](lov/2024-12-13-76/§7-1) til [7-7](lov/2024-12-13-
 
 Tilbyder med sterk markedsstilling skal varsle Nasjonal kommunikasjonsmyndighet om planer for å avvikle eller skifte ut hele eller deler av infrastruktur som er underlagt særskilte forpliktelser etter dette kapittelet. Slikt varsel skal gis på forhånd og i god tid før avviklingen eller utskiftingen etter planen skal begynne.
 
-Når det er nødvendig for å sikre konkurransen og sluttbrukernes rettigheter, kan Nasjonal kommunikasjonsmyndighet pålegge tilbyder etter første ledd følgende:Plikt til å utarbeide en detaljert plan for avviklingen eller utskiftingen. Planen skal omfatte egnede vilkår for overgangen, herunder tidsskjema for implementering, krav til tilstrekkelig forhåndsvarsling, overgangsvilkår og en oversikt over nødvendige alternative tilgangsprodukter som minst har sammenlignbar kvalitet som det eksisterende tilgangsproduktet.Plikt til å sikre at det tilbys tilgang til alternative tilgangsprodukter av minst sammenlignbar kvalitet som i den eksisterende infrastrukturen, og som gjør det mulig for tilgangssøkerne å nå de samme sluttbrukerne.
+Når det er nødvendig for å sikre konkurransen og sluttbrukernes rettigheter, kan Nasjonal kommunikasjonsmyndighet pålegge tilbyder etter første ledd følgende:
+
+1. Plikt til å utarbeide en detaljert plan for avviklingen eller utskiftingen. Planen skal omfatte egnede vilkår for overgangen, herunder tidsskjema for implementering, krav til tilstrekkelig forhåndsvarsling, overgangsvilkår og en oversikt over nødvendige alternative tilgangsprodukter som minst har sammenlignbar kvalitet som det eksisterende tilgangsproduktet.
+2. Plikt til å sikre at det tilbys tilgang til alternative tilgangsprodukter av minst sammenlignbar kvalitet som i den eksisterende infrastrukturen, og som gjør det mulig for tilgangssøkerne å nå de samme sluttbrukerne.
 
 Nasjonal kommunikasjonsmyndighet kan oppheve tilgangsplikt til infrastruktur som skal legges ned eller erstattes med ny infrastruktur, når egnede vilkår for migrering etter andre ledd er innført.
 
@@ -709,7 +840,12 @@ Departementet kan gi forskrift om overgang fra eldre infrastruktur.
 
 ### § 7-13. Funksjonelt skille
 
-Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller og etter godkjenning fra EFTAs overvåkningsorgan pålegge vertikalt integrert tilbyder med sterk markedsstilling å innføre funksjonelt skille nårdet foreligger vesentlige og vedvarende konkurranseproblemer eller markedssvikt ved grossistsalg i markeder for tilgangsprodukterpålagte plikter etter [§§ 7-1](lov/2024-12-13-76/§7-1), [7-2](lov/2024-12-13-76/§7-2) eller [7-4](lov/2024-12-13-76/§7-4) til [7-7](lov/2024-12-13-76/§7-7) ikke har ført til bærekraftig konkurransedet er ingen eller liten mulighet for at bærekraftig infrastrukturbasert konkurranse vil oppnås innenfor en rimelig tidshorisont, og nårfunksjonelt skille vil være det mest effektive virkemiddelet for å avhjelpe aktuelle konkurranseproblemer eller markedssvikt.
+Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller og etter godkjenning fra EFTAs overvåkningsorgan pålegge vertikalt integrert tilbyder med sterk markedsstilling å innføre funksjonelt skille når
+
+1. det foreligger vesentlige og vedvarende konkurranseproblemer eller markedssvikt ved grossistsalg i markeder for tilgangsprodukter
+2. pålagte plikter etter [§§ 7-1](lov/2024-12-13-76/§7-1), [7-2](lov/2024-12-13-76/§7-2) eller [7-4](lov/2024-12-13-76/§7-4) til [7-7](lov/2024-12-13-76/§7-7) ikke har ført til bærekraftig konkurranse
+3. det er ingen eller liten mulighet for at bærekraftig infrastrukturbasert konkurranse vil oppnås innenfor en rimelig tidshorisont, og når
+4. funksjonelt skille vil være det mest effektive virkemiddelet for å avhjelpe aktuelle konkurranseproblemer eller markedssvikt.
 
 Med funksjonelt skille menes i denne loven at aktiviteter knyttet til relevante tilgangsprodukter og tjenester skilles ut i en driftsmessig uavhengig forretningsenhet atskilt fra tilbyders øvrige virksomhetsområder. Den atskilte forretningsenheten skal tilby tilgangsprodukter og -tjenester til alle tilbydere, inkludert den vertikalt integrerte tilbyders øvrige forretningsenheter, på samme vilkår, til samme tidsfrister og ved bruk av samme systemer og prosesser.
 
@@ -757,7 +893,15 @@ Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder med sterk markedsstilling
 
 ### § 9-2. Krav til tilbud om saminvestering
 
-Saminvesteringstilbudet, jf. [§ 9-1](lov/2024-12-13-76/§9-1), skal oppfylle følgende vilkår:Tilbudet skal være åpent for alle tilbydere i nettets levetid.Tilbudet skal tilrettelegge for at medinvestorene skal kunne konkurrere effektivt på lang sikt i underliggende sluttbrukermarkeder hvor tilbyder med sterk markedsstilling er til stede.Medinvestorene skal gis tilgang til hele kapasiteten i nettet som saminvesteringen gjelder, på rimelige, rettferdige og ikke-diskriminerende vilkår.Medinvestorene skal ha fleksibilitet om tidspunkt for saminvestering og saminvesteringsandel.Medinvestorene skal ha gjensidig rett til tilgang til nettet på rimelige, rettferdige og transparente vilkår etter at nettet er tatt i bruk.Rettigheter og plikter som følger av saminvesteringsavtalen, skal kunne overdras til andre medinvestorer eller tredjeparter.Tilbyder som ikke deltar i saminvesteringen, skal gis tilgang til nett med tilsvarende kvalitet, hastighet og mulighet til å nå sluttbruker som før utbyggingen. Tilbudet skal på sikt gi tilgang til nett med svært høy kapasitet tilpasset utviklingen i sluttbrukermarkedene og på vilkår som opprettholder insentivene til å saminvestere. Nasjonal kommunikasjonsmyndighet skal varsles om slike etterfølgende tilpasninger av tilgang til nett, og kan sette vilkår for tilpasningen.
+Saminvesteringstilbudet, jf. [§ 9-1](lov/2024-12-13-76/§9-1), skal oppfylle følgende vilkår:
+
+1. Tilbudet skal være åpent for alle tilbydere i nettets levetid.
+2. Tilbudet skal tilrettelegge for at medinvestorene skal kunne konkurrere effektivt på lang sikt i underliggende sluttbrukermarkeder hvor tilbyder med sterk markedsstilling er til stede.
+3. Medinvestorene skal gis tilgang til hele kapasiteten i nettet som saminvesteringen gjelder, på rimelige, rettferdige og ikke-diskriminerende vilkår.
+4. Medinvestorene skal ha fleksibilitet om tidspunkt for saminvestering og saminvesteringsandel.
+5. Medinvestorene skal ha gjensidig rett til tilgang til nettet på rimelige, rettferdige og transparente vilkår etter at nettet er tatt i bruk.
+6. Rettigheter og plikter som følger av saminvesteringsavtalen, skal kunne overdras til andre medinvestorer eller tredjeparter.
+7. Tilbyder som ikke deltar i saminvesteringen, skal gis tilgang til nett med tilsvarende kvalitet, hastighet og mulighet til å nå sluttbruker som før utbyggingen. Tilbudet skal på sikt gi tilgang til nett med svært høy kapasitet tilpasset utviklingen i sluttbrukermarkedene og på vilkår som opprettholder insentivene til å saminvestere. Nasjonal kommunikasjonsmyndighet skal varsles om slike etterfølgende tilpasninger av tilgang til nett, og kan sette vilkår for tilpasningen.
 
 Tilbyder med sterk markedsstilling kan i tilbudet inkludere rimelige krav til medinvestorers økonomiske evne til å delta.
 
@@ -767,11 +911,21 @@ Nasjonal kommunikasjonsmyndighet kan fatte enkeltvedtak om, og departementet kan
 
 ### § 9-3. Prosedyre for å gjøre tilbud om tilgang eller saminvestering bindende
 
-Tilbyder med sterk markedsstilling kan tilby Nasjonal kommunikasjonsmyndighet å påta seg forpliktelser ominngåelse av samarbeidsavtaler som gjør særlige plikter etter [§ 6-4](lov/2024-12-13-76/§6-4) overflødigeinngåelse av saminvesteringsavtale om nett med svært høy kapasitet, jf. [§§ 9-1](lov/2024-12-13-76/§9-1) og [9-2](lov/2024-12-13-76/§9-2), ellerfrivillig utskillelse av aksessnett etter [§ 7-14](lov/2024-12-13-76/§7-14).
+Tilbyder med sterk markedsstilling kan tilby Nasjonal kommunikasjonsmyndighet å påta seg forpliktelser om
+
+1. inngåelse av samarbeidsavtaler som gjør særlige plikter etter [§ 6-4](lov/2024-12-13-76/§6-4) overflødige
+2. inngåelse av saminvesteringsavtale om nett med svært høy kapasitet, jf. [§§ 9-1](lov/2024-12-13-76/§9-1) og [9-2](lov/2024-12-13-76/§9-2), eller
+3. frivillig utskillelse av aksessnett etter [§ 7-14](lov/2024-12-13-76/§7-14).
 
 Tilbudet etter første ledd skal være tilstrekkelig detaljert, og skal inneholde tidsplan, rammer for gjennomføring og forpliktelsens varighet.
 
-Nasjonal kommunikasjonsmyndighet skal ved vurderingen av tilbudet etter første ledd gjennomføre en markedstest som omfatter høring etter [§ 14-2](lov/2024-12-13-76/§14-2) av de foreslåtte forpliktelsene. Markedstesten er ikke nødvendig dersom forpliktelsene etter første ledd er klart utilstrekkelige. Ved vurdering av tilbudet skal Nasjonal kommunikasjonsmyndighet i tillegg til momentene i [§ 6-4 fjerde ledd](lov/2024-12-13-76/§6-4/ledd/4) særlig legge vekt pådokumentasjon om at forpliktelsene er rimelige og rettferdigeom tilbudet er åpent for alle markedsaktørerom tilbudet legger til rette for rettidig tilgang på rettferdige, rimelige og ikke-diskriminerende vilkår forut for lansering av tilhørende sluttbrukertjenesterom tilbudet er egnet til å legge til rette for bærekraftig konkurranse i sluttbrukermarkeder, ogom det er egnet til å fremme samarbeid om etablering av nett med svært høy kapasitet, jf. [§§ 9-1](lov/2024-12-13-76/§9-1) og [9-2](lov/2024-12-13-76/§9-2).
+Nasjonal kommunikasjonsmyndighet skal ved vurderingen av tilbudet etter første ledd gjennomføre en markedstest som omfatter høring etter [§ 14-2](lov/2024-12-13-76/§14-2) av de foreslåtte forpliktelsene. Markedstesten er ikke nødvendig dersom forpliktelsene etter første ledd er klart utilstrekkelige. Ved vurdering av tilbudet skal Nasjonal kommunikasjonsmyndighet i tillegg til momentene i [§ 6-4 fjerde ledd](lov/2024-12-13-76/§6-4/ledd/4) særlig legge vekt på
+
+1. dokumentasjon om at forpliktelsene er rimelige og rettferdige
+2. om tilbudet er åpent for alle markedsaktører
+3. om tilbudet legger til rette for rettidig tilgang på rettferdige, rimelige og ikke-diskriminerende vilkår forut for lansering av tilhørende sluttbrukertjenester
+4. om tilbudet er egnet til å legge til rette for bærekraftig konkurranse i sluttbrukermarkeder, og
+5. om det er egnet til å fremme samarbeid om etablering av nett med svært høy kapasitet, jf. [§§ 9-1](lov/2024-12-13-76/§9-1) og [9-2](lov/2024-12-13-76/§9-2).
 
 Nasjonal kommunikasjonsmyndighet skal informere tilbyder med sterk markedsstilling om foreløpige konklusjoner og om tilbudet etter første ledd oppfyller mål, kriterier og prosedyrer etter denne bestemmelsen, og etter [§§ 6-4](lov/2024-12-13-76/§6-4), [7-14](lov/2024-12-13-76/§7-14), [9-1](lov/2024-12-13-76/§9-1) og [9-2](lov/2024-12-13-76/§9-2) der det er relevant. Nasjonal kommunikasjonsmyndighet skal også informere om på hvilke vilkår Nasjonal kommunikasjonsmyndighet kan vurdere å gjøre forpliktelsene bindende.
 
@@ -813,11 +967,22 @@ Departementet kan gi forskrift om samlokalisering for tilbydere, herunder om å 
 
 Når duplisering av infrastruktur ikke er fysisk gjennomførbart eller vil være ulønnsomt, kan Nasjonal kommunikasjonsmyndighet pålegge tilbydere av elek­troniske kommunikasjonsnett, eiere av slike nett eller andre som har disposisjonsrett til slike nett, plikt til å imøtekomme rimelig anmodning om å inngå eller endre avtale om tilgang til kabler og tilhørende fasiliteter i bygning eller frem til første tilkoblingspunkt hvor dette er plassert utenfor bygning.
 
-Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller utvide tilgangsplikten etter første ledd til et punkt som ligger etter det første tilkoblingspunktet, og som sikrer tilgangssøkeren et tilstrekkelig antall sluttbrukerforbindelser til at det kan bli kommersielt lønnsomt å tilby tjenesten. Ved vurderingen av om det foreligger et særlig tilfelle skal Nasjonal kommunikasjonsmyndighet blant annet vurdere omde økonomiske eller fysiske hindringene forbundet med å duplisere infrastruktur er omfattende og vedvarende, oghindringene motvirker bærekraftig konkurranse og gir betydelig dårligere tjenester eller tjenestetilbud, eller betydelig høyere priser for sluttbrukerne.
+Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller utvide tilgangsplikten etter første ledd til et punkt som ligger etter det første tilkoblingspunktet, og som sikrer tilgangssøkeren et tilstrekkelig antall sluttbrukerforbindelser til at det kan bli kommersielt lønnsomt å tilby tjenesten. Ved vurderingen av om det foreligger et særlig tilfelle skal Nasjonal kommunikasjonsmyndighet blant annet vurdere om
 
-Nasjonal kommunikasjonsmyndighet kan fastsette vilkår for tilgang etter første og andre ledd, herunder omfysisk og virtuell tilgang til nettelementer og tilhørende fasiliteteroffentliggjøring og standardtilbudikke-diskriminering, ogpris og fordeling av kostnader, inklusiv en rimelig fortjeneste, som kan ta høyde for risiko.
+1. de økonomiske eller fysiske hindringene forbundet med å duplisere infrastruktur er omfattende og vedvarende, og
+2. hindringene motvirker bærekraftig konkurranse og gir betydelig dårligere tjenester eller tjenestetilbud, eller betydelig høyere priser for sluttbrukerne.
 
-Nasjonal kommunikasjonsmyndighet skal ikke pålegge tilbyder plikter etter andre ledd dersom minst ett av følgende vilkår er oppfylt:Tilbyder er kun aktiv i grossistmarkedet og tilbyr andre tilbydere en likeverdig alternativ mulighet til å nå sluttbrukere ved å gi tilgang til nett med svært høy kapasitet på rettferdige, rimelige og ikke-diskriminerende vilkår. Dette gjelder likevel ikke dersom nettet er finansiert med offentlig tilskudd.Utvidelse av tilgangsplikten kan være til skade for utbyggingen av nye nett, særlig der slik utbygging skjer gjennom små, lokale prosjekter.
+Nasjonal kommunikasjonsmyndighet kan fastsette vilkår for tilgang etter første og andre ledd, herunder om
+
+1. fysisk og virtuell tilgang til nettelementer og tilhørende fasiliteter
+2. offentliggjøring og standardtilbud
+3. ikke-diskriminering, og
+4. pris og fordeling av kostnader, inklusiv en rimelig fortjeneste, som kan ta høyde for risiko.
+
+Nasjonal kommunikasjonsmyndighet skal ikke pålegge tilbyder plikter etter andre ledd dersom minst ett av følgende vilkår er oppfylt:
+
+1. Tilbyder er kun aktiv i grossistmarkedet og tilbyr andre tilbydere en likeverdig alternativ mulighet til å nå sluttbrukere ved å gi tilgang til nett med svært høy kapasitet på rettferdige, rimelige og ikke-diskriminerende vilkår. Dette gjelder likevel ikke dersom nettet er finansiert med offentlig tilskudd.
+2. Utvidelse av tilgangsplikten kan være til skade for utbyggingen av nye nett, særlig der slik utbygging skjer gjennom små, lokale prosjekter.
 
 Nasjonal kommunikasjonsmyndighet kan utvide unntaket etter fjerde ledd bokstav a til å omfatte tilbydere som tilbyr tilgang til nett med svært høy kapasitet på rettferdige, rimelige og ikke-diskriminerende vilkår.
 
@@ -827,7 +992,14 @@ Departementet kan gi forskrift om tilgangsplikt for eier og tilbyder av elektron
 
 Statlige myndigheter, fylkeskommuner og kommuner skal imøtekomme anmodning fra tilbyder av elek­tronisk kommunikasjonsnett om tilgang til bygninger, anlegg og andre fysiske innretninger som er egnet til etablering av småcellebasestasjoner eller som er nødvendig for å koble slike småcellebasestasjoner til transportnettet.
 
-Anmodningen skal være skriftlig og angi tidsramme for etablering av småcellebasestasjoner eller tilkobling til transportnett i de delene som er relevante for tilgangen. Svar på anmodningen skal gis skriftlig innen to måneder fra en fullstendig anmodning er mottatt. Avslag på anmodningen skal begrunnes og være basert på objektive, transparente og forholdsmessige kriterier, slik somnasjonal sikkerhetoffentlig sikkerhetnettsikkerhet og integritetrisiko for vesentlig forstyrrelse av andre tjenester som leveres over samme fysiske infrastrukturplassbegrensninger, ellerhensynet til å sikre verneverdier i bygninger, andre kulturminner og kulturmiljøer, herunder fasader og tak på kirker og andre viktige kulturbygg.
+Anmodningen skal være skriftlig og angi tidsramme for etablering av småcellebasestasjoner eller tilkobling til transportnett i de delene som er relevante for tilgangen. Svar på anmodningen skal gis skriftlig innen to måneder fra en fullstendig anmodning er mottatt. Avslag på anmodningen skal begrunnes og være basert på objektive, transparente og forholdsmessige kriterier, slik som
+
+1. nasjonal sikkerhet
+2. offentlig sikkerhet
+3. nettsikkerhet og integritet
+4. risiko for vesentlig forstyrrelse av andre tjenester som leveres over samme fysiske infrastruktur
+5. plassbegrensninger, eller
+6. hensynet til å sikre verneverdier i bygninger, andre kulturminner og kulturmiljøer, herunder fasader og tak på kirker og andre viktige kulturbygg.
 
 Tilgang etter første ledd skal gis på ikke-diskriminerende, transparente, rettferdige og rimelige vilkår, herunder prisvilkår.
 
@@ -837,7 +1009,11 @@ Departementet kan gi forskrift om tilgang til fysisk infrastruktur for etablerin
 
 Når det er nødvendig for å sikre det lokale tilbudet av tjenester som bruker frekvenser, kan departementet pålegge tilbyder av elektroniske kommunikasjonsnett plikt til felles utnyttelse av passiv infrastruktur eller plikt til å inngå avtale om lokale nettgjestingstjenester.
 
-Plikt etter første ledd skal bare pålegges dersomdet ikke er bærekraftige alternative tilgangsmuligheter tilgjengelige på rettferdige og rimelige vilkårtillatelsen til bruk av frekvenser fastsetter at det kan være aktuelt å pålegge slike plikter, ogdet er uoverkommelige økonomiske eller fysiske hindringer knyttet til markedsbasert utbygging av infrastruktur basert på radiofrekvenser, og sluttbrukernes tilgang til nett eller tjenester derfor er sterkt begrenset eller fraværende.
+Plikt etter første ledd skal bare pålegges dersom
+
+1. det ikke er bærekraftige alternative tilgangsmuligheter tilgjengelige på rettferdige og rimelige vilkår
+2. tillatelsen til bruk av frekvenser fastsetter at det kan være aktuelt å pålegge slike plikter, og
+3. det er uoverkommelige økonomiske eller fysiske hindringer knyttet til markedsbasert utbygging av infrastruktur basert på radiofrekvenser, og sluttbrukernes tilgang til nett eller tjenester derfor er sterkt begrenset eller fraværende.
 
 Dersom pålegg etter første ledd ikke er tilstrekkelig for å bøte på sterke begrensninger i sluttbrukernes tilgang til nett eller tjenester og vilkårene etter andre ledd er oppfylt, kan departementet pålegge plikt til felles utnyttelse av aktiv infrastruktur.
 
@@ -877,7 +1053,13 @@ Ved tildeling av frekvenser skal det tas hensyn til effektiv bruk av samfunnets 
 
 Departementet kan tillate annen bruk av frekvenser enn det frekvensene er harmonisert for etter [EØS-avtalen](lov/1992-11-27-109/eøsl), dersom det i offentlig høring etter [§ 14-2](lov/2024-12-13-76/§14-2) ikke er etterspørsel etter å bruke frekvensene på harmoniserte vilkår og annen bruk ikke forstyrrer bruk av frekvensene på harmoniserte vilkår i andre EØS-stater.
 
-Departementet kan avslå en søknad om tillatelse til bruk av frekvenser i følgende tilfeller eller med følgende begrunnelse:Dersom det er nødvendig av hensyn angitt i tredje ledd.For å ivareta nasjonale sikkerhetsinteresser.Dersom det er sannsynlig at søkeren ikke vil oppfylle vilkårene som vil gjelde for tillatelsen.Ved manglende betaling av gebyr eller avgift etter [§§ 17-1](lov/2024-12-13-76/§17-1) og [17-2](lov/2024-12-13-76/§17-2), og ved manglende betaling av overtredelsesgebyr etter [§ 15-12](lov/2024-12-13-76/§15-12) eller tvangsmulkt etter [§ 15-11](lov/2024-12-13-76/§15-11).Dersom det ikke utstedes relevant konsesjon etter [kringkastingsloven](lov/1992-12-04-127).
+Departementet kan avslå en søknad om tillatelse til bruk av frekvenser i følgende tilfeller eller med følgende begrunnelse:
+
+1. Dersom det er nødvendig av hensyn angitt i tredje ledd.
+2. For å ivareta nasjonale sikkerhetsinteresser.
+3. Dersom det er sannsynlig at søkeren ikke vil oppfylle vilkårene som vil gjelde for tillatelsen.
+4. Ved manglende betaling av gebyr eller avgift etter [§§ 17-1](lov/2024-12-13-76/§17-1) og [17-2](lov/2024-12-13-76/§17-2), og ved manglende betaling av overtredelsesgebyr etter [§ 15-12](lov/2024-12-13-76/§15-12) eller tvangsmulkt etter [§ 15-11](lov/2024-12-13-76/§15-11).
+5. Dersom det ikke utstedes relevant konsesjon etter [kringkastingsloven](lov/1992-12-04-127).
 
 Departementet kan gi forskrift om tildeling og bruk av frekvenser.
 
@@ -901,9 +1083,25 @@ Departementet kan gi forskrift om tildeling av frekvenstillatelser til særlige 
 
 ### § 11-5. Vilkår for frekvenstillatelser
 
-Ved tildeling av frekvenstillatelser kan departementet sette vilkår tiltjeneste og teknologi frekvensene skal brukes tilsikkerhet og funksjonalitet for å ivareta nasjonale sikkerhetshensynfaktisk og effektiv bruk av frekvensene, blant annet til delt bruk av frekvenser og klima- og miljøtiltakdekning og tjenestekvalitettekniske og operasjonelle forhold for å unngå skadelig interferens og begrense risikoen ved elektromagnetisk strålingtillatelsens varighetrett til å selge, leie ut eller på annen måte overføre frekvensressurser omfattet av tillatelsenvederlagindividuelle forpliktelser i samsvar med tilbudforpliktelser i henhold til internasjonale overenskomster, ogforpliktelser knyttet til prøvedrift, forskning og annen eksperimentell bruk av frekvenser.
+Ved tildeling av frekvenstillatelser kan departementet sette vilkår til
 
-Vilkår etter første ledd, særlig med sikte på å sikre faktisk og effektiv bruk av frekvenser eller for å fremme dekning, kan blant annet gjeldefelles bruk av passiv eller aktiv infrastruktur som er avhengig av frekvenser, eller felles bruk av frekvenserkommersielle avtaler om tilgang til gjesting i nett, ogfelles utbygging av infrastruktur for levering av nett eller tjenester som er avhengige av bruken av frekvenser.
+1. tjeneste og teknologi frekvensene skal brukes til
+2. sikkerhet og funksjonalitet for å ivareta nasjonale sikkerhetshensyn
+3. faktisk og effektiv bruk av frekvensene, blant annet til delt bruk av frekvenser og klima- og miljøtiltak
+4. dekning og tjenestekvalitet
+5. tekniske og operasjonelle forhold for å unngå skadelig interferens og begrense risikoen ved elektromagnetisk stråling
+6. tillatelsens varighet
+7. rett til å selge, leie ut eller på annen måte overføre frekvensressurser omfattet av tillatelsen
+8. vederlag
+9. individuelle forpliktelser i samsvar med tilbud
+10. forpliktelser i henhold til internasjonale overenskomster, og
+11. forpliktelser knyttet til prøvedrift, forskning og annen eksperimentell bruk av frekvenser.
+
+Vilkår etter første ledd, særlig med sikte på å sikre faktisk og effektiv bruk av frekvenser eller for å fremme dekning, kan blant annet gjelde
+
+1. felles bruk av passiv eller aktiv infrastruktur som er avhengig av frekvenser, eller felles bruk av frekvenser
+2. kommersielle avtaler om tilgang til gjesting i nett, og
+3. felles utbygging av infrastruktur for levering av nett eller tjenester som er avhengige av bruken av frekvenser.
 
 ### § 11-6. Krav til teknologi og tjeneste
 
@@ -911,7 +1109,12 @@ Departementet kan sette forholdsmessige og ikke-diskriminerende krav til valg av
 
 Departementet kan sette forholdsmessige og ikke-diskriminerende krav til hva slags elektronisk kommunikasjonstjeneste som kan tilbys på basis av frekvensressursene som gjøres tilgjengelige.
 
-Departementet kan, når det er forholdsmessig, stille ikke-diskriminerende krav om at en elektronisk kommunikasjonstjeneste tilbys i nærmere avgrensede frekvensbånd, blant annet for å sikreliv og helsesamfunnsviktige kringkastingsformåleffektiv bruk av frekvenser, ellersosial samhørighet.
+Departementet kan, når det er forholdsmessig, stille ikke-diskriminerende krav om at en elektronisk kommunikasjonstjeneste tilbys i nærmere avgrensede frekvensbånd, blant annet for å sikre
+
+1. liv og helse
+2. samfunnsviktige kringkastingsformål
+3. effektiv bruk av frekvenser, eller
+4. sosial samhørighet.
 
 Departementet kan nekte bruk av annet enn én bestemt elektronisk kommunikasjonstjeneste i et særskilt frekvensbånd for å beskytte nød- og sikkerhetstjenester eller når det er nødvendig for å sikre andre allmenne hensyn.
 
@@ -921,7 +1124,13 @@ Departementet kan gi forskrift om krav til teknologi og tjenester.
 
 ### § 11-7. Varighet for frekvenstillatelser
 
-Ved fastsettelse av varighet for frekvenstillatelse etter [§ 11-5 første ledd bokstav f](lov/2024-12-13-76/§11-5/ledd/1/bokstav/f) skal departementet ta særlig hensyn tilfaktisk og effektiv brukinnovasjon, næringsutvikling og effektive investeringerforbedret dekningå sikre nødvendig tjenestekvalitet, ogå sikre bærekraftig konkurranse.
+Ved fastsettelse av varighet for frekvenstillatelse etter [§ 11-5 første ledd bokstav f](lov/2024-12-13-76/§11-5/ledd/1/bokstav/f) skal departementet ta særlig hensyn til
+
+1. faktisk og effektiv bruk
+2. innovasjon, næringsutvikling og effektive investeringer
+3. forbedret dekning
+4. å sikre nødvendig tjenestekvalitet, og
+5. å sikre bærekraftig konkurranse.
 
 Ved vurderingen kan departementet også ta hensyn til å sikre likt utløpstidspunkt for tillatelser i ett eller flere frekvensbånd.
 
@@ -933,7 +1142,13 @@ Tillatelser til bruk av frekvenser som er harmonisert innenfor EØS til trådlø
 
 Ved vurderingen av om tillatelsen skal forlenges skal det særlig legges vekt på kriteriene i [§ 11-7](lov/2024-12-13-76/§11-7) og behovet for å oppfylle mål av allmenn interesse, herunder å sikre liv og helse, offentlig orden, offentlig sikkerhet eller forsvarsformål. Departementet kan nekte å forlenge tillatelser dersom innehaver ikke har overholdt krav fastsatt i eller i medhold av denne loven, herunder vilkår i tillatelsen.
 
-Departementet kan gjøre unntak fra første ledd nårdet er nødvendig for å imøtekomme harmoniseringsforpliktelser som omfatter avgrensede geografiske områder der tilgangen til høyhastighetsnett er alvorlig mangelfull eller fraværendeet prosjekt er av særlig kort varighettillatelsen er til prøvedrift, forskning eller annen eksperimentell bruktillatelsen er til bruk som kan sameksistere med trådløse bredbåndstjenester, ellertillatelsen er til annen bruk som ikke faller inn under den harmoniserte bruken innenfor EØS.
+Departementet kan gjøre unntak fra første ledd når
+
+1. det er nødvendig for å imøtekomme harmoniseringsforpliktelser som omfatter avgrensede geografiske områder der tilgangen til høyhastighetsnett er alvorlig mangelfull eller fraværende
+2. et prosjekt er av særlig kort varighet
+3. tillatelsen er til prøvedrift, forskning eller annen eksperimentell bruk
+4. tillatelsen er til bruk som kan sameksistere med trådløse bredbåndstjenester, eller
+5. tillatelsen er til annen bruk som ikke faller inn under den harmoniserte bruken innenfor EØS.
 
 Uten hensyn til første ledd, kan departementet fastsette samme utløpstidspunkt for tillatelser i ett eller flere bånd for å sikre likt utløpstidspunkt på tillatelser.
 
@@ -941,7 +1156,15 @@ Uten hensyn til første ledd, kan departementet fastsette samme utløpstidspunkt
 
 Departementet skal innen rimelig tid før utløpet av individuelle tillatelser til frekvenser som er harmonisert innenfor EØS, vurdere om en tillatelse skal fornyes. Dette gjelder ikke når adgangen til fornyelse er utelukket i tillatelsen.
 
-Vurderingen etter første ledd skal være åpen, transparent og ikke-diskriminerende, og departementet skal særlig legge vekt på følgende momenteroppfyllelse av lovens formåloppnåelse av vedtatte politiske målsettinger, både nasjonale og europeiskeharmoniseringsforpliktelser på europeisk nivåhvordan vilkår i den aktuelle tillatelsen er oppfyltbehovet for å fremme konkurranse eller hindre mulig konkurransevridningbehovet for å gjøre bruken av frekvenser mer effektiv på grunn av den teknologiske utviklingen eller markedsutviklingen, ogbehovet for å unngå alvorlige driftsforstyrrelser.
+Vurderingen etter første ledd skal være åpen, transparent og ikke-diskriminerende, og departementet skal særlig legge vekt på følgende momenter
+
+1. oppfyllelse av lovens formål
+2. oppnåelse av vedtatte politiske målsettinger, både nasjonale og europeiske
+3. harmoniseringsforpliktelser på europeisk nivå
+4. hvordan vilkår i den aktuelle tillatelsen er oppfylt
+5. behovet for å fremme konkurranse eller hindre mulig konkurransevridning
+6. behovet for å gjøre bruken av frekvenser mer effektiv på grunn av den teknologiske utviklingen eller markedsutviklingen, og
+7. behovet for å unngå alvorlige driftsforstyrrelser.
 
 Dersom departementet vurderer å fornye frekvenstillatelser som er tildelt etter [§ 11-3](lov/2024-12-13-76/§11-3), skal det skje etter åpne, transparente og ikke-diskriminerende prosedyrer, og vurderingen skal legges frem for offentlig høring etter [§ 14-2](lov/2024-12-13-76/§14-2).
 
@@ -969,7 +1192,11 @@ Innehaver av tillatelse til bruk av frekvenser skal utnytte tildelte frekvensres
 
 Departementet kan pålegge salg eller utleie av frekvenstillatelser når det er nødvendig for å fremme bærekraftig konkurranse eller hindre konkurranseskadelig virkning.
 
-Når det er nødvendig for å fremme bærekraftig konkurranse eller hindre konkurranseskadelig virkning, kan departementet ved tildeling, endring eller fornyelse av frekvenstillatelser blant annet beslutte åbegrense mengden frekvenser ett eller flere foretak kan få tildeltreservere frekvenser til én eller flere aktører, ellerpålegge forpliktelser om tilgang til elektronisk kommunikasjonsnett og -tjeneste.
+Når det er nødvendig for å fremme bærekraftig konkurranse eller hindre konkurranseskadelig virkning, kan departementet ved tildeling, endring eller fornyelse av frekvenstillatelser blant annet beslutte å
+
+1. begrense mengden frekvenser ett eller flere foretak kan få tildelt
+2. reservere frekvenser til én eller flere aktører, eller
+3. pålegge forpliktelser om tilgang til elektronisk kommunikasjonsnett og -tjeneste.
 
 Tiltak etter andre og tredje ledd skal høres etter [§ 14-2](lov/2024-12-13-76/§14-2).
 
@@ -977,7 +1204,14 @@ Departementet kan gi forskrift om tiltak som gjelder tildeling, endring eller fo
 
 ### § 11-12. Tilbakekall og endring av frekvenstillatelse
 
-Departementet kan kalle tilbake eller endre en frekvenstillatelse dersom det er nødvendigfor å sikre faktisk og effektiv bruk av frekvensenefor å overholde harmoniseringsforpliktelser som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl) eller andre folkerettslige forpliktelserfor å ivareta nasjonale sikkerhetshensyn og andre viktige samfunnshensynfor å fremme bærekraftig konkurransefor å hindre konkurranseskadelig virkning som følge av salg, utleie eller annen overføring av tillatelse eller som følge av endringer i eiersammensetning eller eierstruktur, ellerpå grunn av endret nasjonal lovgivning.
+Departementet kan kalle tilbake eller endre en frekvenstillatelse dersom det er nødvendig
+
+1. for å sikre faktisk og effektiv bruk av frekvensene
+2. for å overholde harmoniseringsforpliktelser som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl) eller andre folkerettslige forpliktelser
+3. for å ivareta nasjonale sikkerhetshensyn og andre viktige samfunnshensyn
+4. for å fremme bærekraftig konkurranse
+5. for å hindre konkurranseskadelig virkning som følge av salg, utleie eller annen overføring av tillatelse eller som følge av endringer i eiersammensetning eller eierstruktur, eller
+6. på grunn av endret nasjonal lovgivning.
 
 Vedtak etter første ledd skal høres etter [§ 14-2](lov/2024-12-13-76/§14-2), og fattes av departementet.
 
@@ -985,7 +1219,10 @@ Departementet kan kalle tilbake en frekvenstillatelse dersom det er nødvendig f
 
 ### § 11-13. Rett til bruk av frekvenser tildelt andre
 
-Politiet kan uten tillatelse etter [§ 11-2](lov/2024-12-13-76/§11-2) ta i brukfrekvenser som er tildelt andre, ogradioutstyr og annet utstyr som er beregnet på å forstyrre eller hindre lovlig elektronisk kommunikasjon og som ikke oppfyller kravene i forskrift gitt med hjemmel i [§ 13-1 femte ledd](lov/2024-12-13-76/§13-1/ledd/5), dersom vilkårene for identifisering av kommunikasjonsanlegg etter [straffeprosessloven § 216 a tredje ledd andre punktum](lov/1981-05-22-25/§216a/ledd/3/setning/2), identifisering eller lokalisering av kommunikasjonsanlegg etter [straffeprosessloven § 216 b andre ledd bokstav c](lov/1981-05-22-25/§216b/ledd/2/bokstav/c) eller bruk av tvangsmidler for å avverge alvorlig kriminalitet etter [straffeprosessloven § 222 d](lov/1981-05-22-25/§222d) er oppfylt, eller vilkårene for bruk av tvangsmidler i forebyggende øyemed etter politi­loven § 17 d foreligger.
+Politiet kan uten tillatelse etter [§ 11-2](lov/2024-12-13-76/§11-2) ta i bruk
+
+1. frekvenser som er tildelt andre, og
+2. radioutstyr og annet utstyr som er beregnet på å forstyrre eller hindre lovlig elektronisk kommunikasjon og som ikke oppfyller kravene i forskrift gitt med hjemmel i [§ 13-1 femte ledd](lov/2024-12-13-76/§13-1/ledd/5), dersom vilkårene for identifisering av kommunikasjonsanlegg etter [straffeprosessloven § 216 a tredje ledd andre punktum](lov/1981-05-22-25/§216a/ledd/3/setning/2), identifisering eller lokalisering av kommunikasjonsanlegg etter [straffeprosessloven § 216 b andre ledd bokstav c](lov/1981-05-22-25/§216b/ledd/2/bokstav/c) eller bruk av tvangsmidler for å avverge alvorlig kriminalitet etter [straffeprosessloven § 222 d](lov/1981-05-22-25/§222d) er oppfylt, eller vilkårene for bruk av tvangsmidler i forebyggende øyemed etter politi­loven § 17 d foreligger.
 
 Politiet og Forsvaret kan uten tillatelse etter [§ 11-2](lov/2024-12-13-76/§11-2) ta i bruk frekvenser etter første ledd bokstav a og utstyr etter første ledd bokstav b for å uskadeliggjøre droner og andre gjenstander dersom det er fare for liv, helse eller sikkerhet.
 
@@ -1069,7 +1306,12 @@ Departementet kan gi nærmere forskrift om pålegg etter første ledd.
 
 ### § 12-4. Formidlingsplikt til nummer og prefiks
 
-Tilbyder av offentlig elektronisk kommunikasjonsnett og tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste skal sikre at sluttbruker kan få forbindelse med alle nummer inasjonal nummerplanandre EØS-staters nummerplanernummerserien +800 (Universal International Free­phone Number (UIFN) (internasjonale gratisnummer)), ogutenlandske nett og tjenester med landskode tildelt av ITU ved bruk av internasjonalt prefiks 00.
+Tilbyder av offentlig elektronisk kommunikasjonsnett og tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste skal sikre at sluttbruker kan få forbindelse med alle nummer i
+
+1. nasjonal nummerplan
+2. andre EØS-staters nummerplaner
+3. nummerserien +800 (Universal International Free­phone Number (UIFN) (internasjonale gratisnummer)), og
+4. utenlandske nett og tjenester med landskode tildelt av ITU ved bruk av internasjonalt prefiks 00.
 
 Formidlingsplikten gjelder ikke i tilfeller hvor B-abonnent har valgt å begrense tilgang fra A-abonnenter lokalisert i særskilte geografiske områder.
 
@@ -1319,7 +1561,13 @@ Departementet kan gi [forskrift om tvangsmulkt](forskrift/2004-12-21-1744).
 
 ### § 15-12. Overtredelsesgebyr
 
-Departementet kan ilegge fysiske personer og foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer [§ 2-1](lov/2024-12-13-76/§2-1) første til tredje ledd (registreringsplikt), [§ 2-2 første ledd](lov/2024-12-13-76/§2-2/ledd/1) (krav til registrering ved maritim oppgjørsvirksomhet), [§ 2-3 første ledd](lov/2024-12-13-76/§2-3/ledd/1) (alle-til-alle-kommunikasjon og samvirke mellom tjenester), [§ 2-5](lov/2024-12-13-76/§2-5) (taushetsplikt ved tilgang og samtrafikk), [§ 2-7](lov/2024-12-13-76/§2-7) første eller andre ledd (prosjektering, installasjon, vedlikehold og sammenkobling av elektroniske kommunikasjonsnett), [§ 2-8 første ledd](lov/2024-12-13-76/§2-8/ledd/1) (entydig identifisering av sluttbruker), [§ 2-9 første ledd](lov/2024-12-13-76/§2-9/ledd/1) (register over sluttbrukere), [§ 2-10](lov/2024-12-13-76/§2-10) første til fjerde ledd (anrop til nødmeldetjeneste og geografisk lokalisering av nødanrop), [§ 2-11 første ledd](lov/2024-12-13-76/§2-11/ledd/1) (eCall), [§ 3-1](lov/2024-12-13-76/§3-1) første, tredje eller fjerde ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-2](lov/2024-12-13-76/§3-2) første eller andre ledd (varsling til abonnent og bruker ved sikkerhetshendelser), [§ 3-3 første ledd](lov/2024-12-13-76/§3-3/ledd/1) (varsling ved sikkerhetshendelser), [§ 3-6 første ledd](lov/2024-12-13-76/§3-6/ledd/1) (formidling av viktig melding), [§ 3-7](lov/2024-12-13-76/§3-7) første til tredje ledd (datasenter), [§ 3-8](lov/2024-12-13-76/§3-8) andre, tredje eller femte til åttende ledd (tillatte bruksbegrensninger), [§ 3-10](lov/2024-12-13-76/§3-10) første, andre eller fjerde ledd (taushetsplikt), [§ 3-11 første ledd](lov/2024-12-13-76/§3-11/ledd/1) (sletting av data), [§ 3-12 første ledd](lov/2024-12-13-76/§3-12/ledd/1) (tilrettelegging for lovbestemt tilgang til informasjon), [§ 3-13](lov/2024-12-13-76/§3-13) første eller andre ledd (plikt til lagring av IP-adresser), [§ 3-14](lov/2024-12-13-76/§3-14) første eller fjerde ledd (utlevering av IP-adresser), [§ 3-15 første ledd](lov/2024-12-13-76/§3-15/ledd/1) (bruk av informasjonskapsler mv.), [§ 4-1](lov/2024-12-13-76/§4-1) (likebehandling), [§ 4-3 første ledd](lov/2024-12-13-76/§4-3/ledd/1) (leveringsvilkår og offentliggjøring), [§ 4-4](lov/2024-12-13-76/§4-4) første eller andre ledd (opplysningsplikt før avtaletilbud), [§ 4-5](lov/2024-12-13-76/§4-5) første eller andre ledd (avtalesammendrag og avtalevilkår), [§ 4-6](lov/2024-12-13-76/§4-6) første, fjerde eller femte ledd (bindingstid, varslingsplikt og oppsigelse), [§ 4-8](lov/2024-12-13-76/§4-8) første eller andre ledd (kontroll av forbruk), [§ 4-9](lov/2024-12-13-76/§4-9) første eller andre ledd (kontroll av kostnader), [§ 4-11](lov/2024-12-13-76/§4-11) første til fjerde ledd (tiltak ved uteblitt betaling), [§ 4-12](lov/2024-12-13-76/§4-12) (koblingssalg), [§ 4-13](lov/2024-12-13-76/§4-13) (tilgang til e-post etter oppsigelse av avtale), [§ 4-14](lov/2024-12-13-76/§4-14) første til femte ledd (bytte av internettilgangstjeneste), [§ 4-17](lov/2024-12-13-76/§4-17) første til fjerde ledd (nummerportabilitet), [§ 4-18 første ledd](lov/2024-12-13-76/§4-18/ledd/1) (hemmelig nummer), [§ 4-19](lov/2024-12-13-76/§4-19) (unntak fra mikroforetak som tilbyder), [§ 5-4](lov/2024-12-13-76/§5-4) (avhendelse av aksessnettet), [§ 7-3 andre ledd](lov/2024-12-13-76/§7-3/ledd/2) (krav til rimelig anmodning), [§ 7-6 fjerde ledd](lov/2024-12-13-76/§7-6/ledd/4) (regnskapsmessig skille), [§ 7-9 første ledd](lov/2024-12-13-76/§7-9/ledd/1) (strukturelt og regnskapsmessig skille for ene- og særrettsvirksomheter), [§ 7-10 fjerde ledd](lov/2024-12-13-76/§7-10/ledd/4) (tilbyder som kun er aktiv i grossistmarkedet), [§ 7-13 andre ledd](lov/2024-12-13-76/§7-13/ledd/2) (funksjonelt skille), [§ 7-14 første ledd](lov/2024-12-13-76/§7-14/ledd/1) (frivillig utskillelse av aksessnett), [§ 8-1](lov/2024-12-13-76/§8-1) første eller tredje ledd (tilgang til adgangskontrolltjenester for radio og fjernsyn), [§ 9-2](lov/2024-12-13-76/§9-2) første eller tredje ledd (krav til tilbud om saminvestering), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1) (tillatelse til bruk av frekvenser), [§ 11-10](lov/2024-12-13-76/§11-10) første eller tredje til femte ledd (salg, utleie og annen overføring av tillatelse til bruk av frekvenser), [§ 11-11 første ledd](lov/2024-12-13-76/§11-11/ledd/1) (tiltak for å fremme konkurranse), [§ 12-2 første ledd](lov/2024-12-13-76/§12-2/ledd/1) (tillatelse til bruk av nummer, navn og adresser), [§ 12-4 første ledd](lov/2024-12-13-76/§12-4/ledd/1) (formidlingsplikt til nummer og prefiks), [§ 12-5](lov/2024-12-13-76/§12-5) første eller andre ledd (informasjon til nummeropplysningstjenester), [§ 13-1](lov/2024-12-13-76/§13-1) første til tredje ledd (omsetning av utstyr), [§ 13-2](lov/2024-12-13-76/§13-2) (utstyr som er beregnet på å forstyrre elektronisk kommunikasjon) eller [§ 15-3](lov/2024-12-13-76/§15-3) (medvirkning ved tilsyn)overtrer forskrift gitt med hjemmel i loven, når det er fastsatt i forskriften at overtredelsen kan medføre slik sanksjonovertrer enkeltvedtak fastsatt med hjemmel i [§ 2-3](lov/2024-12-13-76/§2-3) andre eller tredje ledd (alle-til-alle-kommunikasjon og samvirke mellom tjenester), [§ 2-4 andre ledd](lov/2024-12-13-76/§2-4/ledd/2) (krav til nett, tjeneste, tilhørende utstyr og fasiliteter), [§ 2-6](lov/2024-12-13-76/§2-6) første til tredje ledd (måling og informasjon om kvalitet), [§ 2-11 andre ledd](lov/2024-12-13-76/§2-11/ledd/2) (eCall), [§ 2-12 fjerde ledd](lov/2024-12-13-76/§2-12/ledd/4) (sikring og fortsatt levering ved konkurs hos tilbyder mv.), [§ 3-1](lov/2024-12-13-76/§3-1) femte til syvende ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-5 første ledd](lov/2024-12-13-76/§3-5/ledd/1) (begrensninger i markedsadgang), [§ 3-6 andre ledd](lov/2024-12-13-76/§3-6/ledd/2) (formidling av viktig melding), [§ 3-7](lov/2024-12-13-76/§3-7) andre, fjerde eller femte ledd (datasenter), [§ 3-8 første ledd](lov/2024-12-13-76/§3-8/ledd/1) (tillatte bruksbegrensninger), [§ 4-3 andre ledd](lov/2024-12-13-76/§4-3/ledd/2) (leveringsvilkår og offentliggjøring), [§ 5-1](lov/2024-12-13-76/§5-1) første eller femte ledd (leveringspliktige tjenester), [§ 5-2 andre ledd](lov/2024-12-13-76/§5-2/ledd/2) (finansiering av leveringspliktige tjenester), [§ 5-3 første ledd](lov/2024-12-13-76/§5-3/ledd/1) (spesielle samfunnspålagte oppgaver), [§ 6-4](lov/2024-12-13-76/§6-4) tredje, femte eller sjette ledd (plikter for tilbyder med sterk markedsstilling), [§ 6-6 første ledd](lov/2024-12-13-76/§6-6/ledd/1) (transnasjonale markeder), [§ 7-1](lov/2024-12-13-76/§7-1) første eller andre ledd (tilgang til anleggsinfrastruktur), [§ 7-2](lov/2024-12-13-76/§7-2) første til femte ledd (tilgang til elektroniske kommunikasjonsnett og -tjenester), [§ 7-4](lov/2024-12-13-76/§7-4) første til fjerde ledd (offentliggjøring og standardtilbud), [§ 7-5](lov/2024-12-13-76/§7-5) første, tredje eller fjerde ledd (ikke-diskriminering), [§ 7-6](lov/2024-12-13-76/§7-6) første eller fjerde ledd (regnskapsmessig skille), [§ 7-7](lov/2024-12-13-76/§7-7) første eller fjerde til sjette ledd (pris- og regnskapsregulering), [§ 7-10](lov/2024-12-13-76/§7-10) første eller tredje ledd (tilbyder som kun er aktiv i grossistmarkedet), [§ 7-11 første ledd](lov/2024-12-13-76/§7-11/ledd/1) (prisregulering mv. av sluttbrukertjenester), [§ 7-12](lov/2024-12-13-76/§7-12) andre, fjerde eller femte ledd (overgang fra eldre infrastruktur), [§ 7-13](lov/2024-12-13-76/§7-13) første eller tredje ledd (funksjonelt skille), [§ 7-14](lov/2024-12-13-76/§7-14) fjerde eller femte ledd (frivillig utskillelse av aksessnett), [§ 8-1 første ledd](lov/2024-12-13-76/§8-1/ledd/1) (tilgang til adgangskontrolltjenester for radio og fjernsyn), [§ 9-1](lov/2024-12-13-76/§9-1) andre til fjerde ledd (saminvestering i nye nett med svært høy kapasitet), [§ 9-2 fjerde ledd](lov/2024-12-13-76/§9-2/ledd/4) (krav til tilbud om saminvestering), [§ 9-3 sjette ledd](lov/2024-12-13-76/§9-3/ledd/6) (prosedyre for å gjøre tilbud om tilgang og saminvestering bindende), [§ 10-2 første ledd](lov/2024-12-13-76/§10-2/ledd/1) (plikt til samlokalisering for tilbydere), [§ 10-3](lov/2024-12-13-76/§10-3) første til tredje ledd (tilgang til nett og tilhørende fasiliteter i og utenfor bygninger), [§ 10-5](lov/2024-12-13-76/§10-5) første eller tredje ledd (tilgang til infrastruktur for tjenester som bruker frekvenser), [§ 10-6 tredje ledd](lov/2024-12-13-76/§10-6/ledd/3) (kartlegging av bredbåndsdekning), [§ 11-10 sjette ledd](lov/2024-12-13-76/§11-10/ledd/6) (salg, utleie og annen overføring av tillatelse til bruk av frekvenser), [§ 11-11](lov/2024-12-13-76/§11-11) andre eller tredje ledd (tiltak for å fremme konkurranse), [§ 12-2 femte ledd](lov/2024-12-13-76/§12-2/ledd/5) (tillatelse til bruk av nummer, navn og adresser), [§ 12-3 første ledd](lov/2024-12-13-76/§12-3/ledd/1) (pålegg om bruk av nummer, navn og adresser), [§ 12-4 tredje ledd](lov/2024-12-13-76/§12-4/ledd/3) (formidlingsplikt til nummer og prefiks), [§ 12-6](lov/2024-12-13-76/§12-6) første eller andre ledd (database), [§ 13-1 fjerde ledd](lov/2024-12-13-76/§13-1/ledd/4) (omsetning av utstyr), [§ 15-4 første ledd](lov/2024-12-13-76/§15-4/ledd/1) (internkontroll), [§ 15-5](lov/2024-12-13-76/§15-5) (pålegg om retting og opphør av ulovlige forhold) eller [§ 15-8](lov/2024-12-13-76/§15-8) (pålegg om stans i omsetning og tilbakekall av radioutstyr, terminalutstyr og annet utstyr)overtrer pålegg fastsatt med hjemmel i [§ 15-2](lov/2024-12-13-76/§15-2) (opplysnings- og utleveringsplikt), ellergir uriktige eller ufullstendige opplysninger til departementet eller Nasjonal kommunikasjonsmyndighet, eller medvirker til overtredelser etter bokstav a til d.
+Departementet kan ilegge fysiske personer og foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt
+
+1. overtrer [§ 2-1](lov/2024-12-13-76/§2-1) første til tredje ledd (registreringsplikt), [§ 2-2 første ledd](lov/2024-12-13-76/§2-2/ledd/1) (krav til registrering ved maritim oppgjørsvirksomhet), [§ 2-3 første ledd](lov/2024-12-13-76/§2-3/ledd/1) (alle-til-alle-kommunikasjon og samvirke mellom tjenester), [§ 2-5](lov/2024-12-13-76/§2-5) (taushetsplikt ved tilgang og samtrafikk), [§ 2-7](lov/2024-12-13-76/§2-7) første eller andre ledd (prosjektering, installasjon, vedlikehold og sammenkobling av elektroniske kommunikasjonsnett), [§ 2-8 første ledd](lov/2024-12-13-76/§2-8/ledd/1) (entydig identifisering av sluttbruker), [§ 2-9 første ledd](lov/2024-12-13-76/§2-9/ledd/1) (register over sluttbrukere), [§ 2-10](lov/2024-12-13-76/§2-10) første til fjerde ledd (anrop til nødmeldetjeneste og geografisk lokalisering av nødanrop), [§ 2-11 første ledd](lov/2024-12-13-76/§2-11/ledd/1) (eCall), [§ 3-1](lov/2024-12-13-76/§3-1) første, tredje eller fjerde ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-2](lov/2024-12-13-76/§3-2) første eller andre ledd (varsling til abonnent og bruker ved sikkerhetshendelser), [§ 3-3 første ledd](lov/2024-12-13-76/§3-3/ledd/1) (varsling ved sikkerhetshendelser), [§ 3-6 første ledd](lov/2024-12-13-76/§3-6/ledd/1) (formidling av viktig melding), [§ 3-7](lov/2024-12-13-76/§3-7) første til tredje ledd (datasenter), [§ 3-8](lov/2024-12-13-76/§3-8) andre, tredje eller femte til åttende ledd (tillatte bruksbegrensninger), [§ 3-10](lov/2024-12-13-76/§3-10) første, andre eller fjerde ledd (taushetsplikt), [§ 3-11 første ledd](lov/2024-12-13-76/§3-11/ledd/1) (sletting av data), [§ 3-12 første ledd](lov/2024-12-13-76/§3-12/ledd/1) (tilrettelegging for lovbestemt tilgang til informasjon), [§ 3-13](lov/2024-12-13-76/§3-13) første eller andre ledd (plikt til lagring av IP-adresser), [§ 3-14](lov/2024-12-13-76/§3-14) første eller fjerde ledd (utlevering av IP-adresser), [§ 3-15 første ledd](lov/2024-12-13-76/§3-15/ledd/1) (bruk av informasjonskapsler mv.), [§ 4-1](lov/2024-12-13-76/§4-1) (likebehandling), [§ 4-3 første ledd](lov/2024-12-13-76/§4-3/ledd/1) (leveringsvilkår og offentliggjøring), [§ 4-4](lov/2024-12-13-76/§4-4) første eller andre ledd (opplysningsplikt før avtaletilbud), [§ 4-5](lov/2024-12-13-76/§4-5) første eller andre ledd (avtalesammendrag og avtalevilkår), [§ 4-6](lov/2024-12-13-76/§4-6) første, fjerde eller femte ledd (bindingstid, varslingsplikt og oppsigelse), [§ 4-8](lov/2024-12-13-76/§4-8) første eller andre ledd (kontroll av forbruk), [§ 4-9](lov/2024-12-13-76/§4-9) første eller andre ledd (kontroll av kostnader), [§ 4-11](lov/2024-12-13-76/§4-11) første til fjerde ledd (tiltak ved uteblitt betaling), [§ 4-12](lov/2024-12-13-76/§4-12) (koblingssalg), [§ 4-13](lov/2024-12-13-76/§4-13) (tilgang til e-post etter oppsigelse av avtale), [§ 4-14](lov/2024-12-13-76/§4-14) første til femte ledd (bytte av internettilgangstjeneste), [§ 4-17](lov/2024-12-13-76/§4-17) første til fjerde ledd (nummerportabilitet), [§ 4-18 første ledd](lov/2024-12-13-76/§4-18/ledd/1) (hemmelig nummer), [§ 4-19](lov/2024-12-13-76/§4-19) (unntak fra mikroforetak som tilbyder), [§ 5-4](lov/2024-12-13-76/§5-4) (avhendelse av aksessnettet), [§ 7-3 andre ledd](lov/2024-12-13-76/§7-3/ledd/2) (krav til rimelig anmodning), [§ 7-6 fjerde ledd](lov/2024-12-13-76/§7-6/ledd/4) (regnskapsmessig skille), [§ 7-9 første ledd](lov/2024-12-13-76/§7-9/ledd/1) (strukturelt og regnskapsmessig skille for ene- og særrettsvirksomheter), [§ 7-10 fjerde ledd](lov/2024-12-13-76/§7-10/ledd/4) (tilbyder som kun er aktiv i grossistmarkedet), [§ 7-13 andre ledd](lov/2024-12-13-76/§7-13/ledd/2) (funksjonelt skille), [§ 7-14 første ledd](lov/2024-12-13-76/§7-14/ledd/1) (frivillig utskillelse av aksessnett), [§ 8-1](lov/2024-12-13-76/§8-1) første eller tredje ledd (tilgang til adgangskontrolltjenester for radio og fjernsyn), [§ 9-2](lov/2024-12-13-76/§9-2) første eller tredje ledd (krav til tilbud om saminvestering), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1) (tillatelse til bruk av frekvenser), [§ 11-10](lov/2024-12-13-76/§11-10) første eller tredje til femte ledd (salg, utleie og annen overføring av tillatelse til bruk av frekvenser), [§ 11-11 første ledd](lov/2024-12-13-76/§11-11/ledd/1) (tiltak for å fremme konkurranse), [§ 12-2 første ledd](lov/2024-12-13-76/§12-2/ledd/1) (tillatelse til bruk av nummer, navn og adresser), [§ 12-4 første ledd](lov/2024-12-13-76/§12-4/ledd/1) (formidlingsplikt til nummer og prefiks), [§ 12-5](lov/2024-12-13-76/§12-5) første eller andre ledd (informasjon til nummeropplysningstjenester), [§ 13-1](lov/2024-12-13-76/§13-1) første til tredje ledd (omsetning av utstyr), [§ 13-2](lov/2024-12-13-76/§13-2) (utstyr som er beregnet på å forstyrre elektronisk kommunikasjon) eller [§ 15-3](lov/2024-12-13-76/§15-3) (medvirkning ved tilsyn)
+2. overtrer forskrift gitt med hjemmel i loven, når det er fastsatt i forskriften at overtredelsen kan medføre slik sanksjon
+3. overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-3](lov/2024-12-13-76/§2-3) andre eller tredje ledd (alle-til-alle-kommunikasjon og samvirke mellom tjenester), [§ 2-4 andre ledd](lov/2024-12-13-76/§2-4/ledd/2) (krav til nett, tjeneste, tilhørende utstyr og fasiliteter), [§ 2-6](lov/2024-12-13-76/§2-6) første til tredje ledd (måling og informasjon om kvalitet), [§ 2-11 andre ledd](lov/2024-12-13-76/§2-11/ledd/2) (eCall), [§ 2-12 fjerde ledd](lov/2024-12-13-76/§2-12/ledd/4) (sikring og fortsatt levering ved konkurs hos tilbyder mv.), [§ 3-1](lov/2024-12-13-76/§3-1) femte til syvende ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-5 første ledd](lov/2024-12-13-76/§3-5/ledd/1) (begrensninger i markedsadgang), [§ 3-6 andre ledd](lov/2024-12-13-76/§3-6/ledd/2) (formidling av viktig melding), [§ 3-7](lov/2024-12-13-76/§3-7) andre, fjerde eller femte ledd (datasenter), [§ 3-8 første ledd](lov/2024-12-13-76/§3-8/ledd/1) (tillatte bruksbegrensninger), [§ 4-3 andre ledd](lov/2024-12-13-76/§4-3/ledd/2) (leveringsvilkår og offentliggjøring), [§ 5-1](lov/2024-12-13-76/§5-1) første eller femte ledd (leveringspliktige tjenester), [§ 5-2 andre ledd](lov/2024-12-13-76/§5-2/ledd/2) (finansiering av leveringspliktige tjenester), [§ 5-3 første ledd](lov/2024-12-13-76/§5-3/ledd/1) (spesielle samfunnspålagte oppgaver), [§ 6-4](lov/2024-12-13-76/§6-4) tredje, femte eller sjette ledd (plikter for tilbyder med sterk markedsstilling), [§ 6-6 første ledd](lov/2024-12-13-76/§6-6/ledd/1) (transnasjonale markeder), [§ 7-1](lov/2024-12-13-76/§7-1) første eller andre ledd (tilgang til anleggsinfrastruktur), [§ 7-2](lov/2024-12-13-76/§7-2) første til femte ledd (tilgang til elektroniske kommunikasjonsnett og -tjenester), [§ 7-4](lov/2024-12-13-76/§7-4) første til fjerde ledd (offentliggjøring og standardtilbud), [§ 7-5](lov/2024-12-13-76/§7-5) første, tredje eller fjerde ledd (ikke-diskriminering), [§ 7-6](lov/2024-12-13-76/§7-6) første eller fjerde ledd (regnskapsmessig skille), [§ 7-7](lov/2024-12-13-76/§7-7) første eller fjerde til sjette ledd (pris- og regnskapsregulering), [§ 7-10](lov/2024-12-13-76/§7-10) første eller tredje ledd (tilbyder som kun er aktiv i grossistmarkedet), [§ 7-11 første ledd](lov/2024-12-13-76/§7-11/ledd/1) (prisregulering mv. av sluttbrukertjenester), [§ 7-12](lov/2024-12-13-76/§7-12) andre, fjerde eller femte ledd (overgang fra eldre infrastruktur), [§ 7-13](lov/2024-12-13-76/§7-13) første eller tredje ledd (funksjonelt skille), [§ 7-14](lov/2024-12-13-76/§7-14) fjerde eller femte ledd (frivillig utskillelse av aksessnett), [§ 8-1 første ledd](lov/2024-12-13-76/§8-1/ledd/1) (tilgang til adgangskontrolltjenester for radio og fjernsyn), [§ 9-1](lov/2024-12-13-76/§9-1) andre til fjerde ledd (saminvestering i nye nett med svært høy kapasitet), [§ 9-2 fjerde ledd](lov/2024-12-13-76/§9-2/ledd/4) (krav til tilbud om saminvestering), [§ 9-3 sjette ledd](lov/2024-12-13-76/§9-3/ledd/6) (prosedyre for å gjøre tilbud om tilgang og saminvestering bindende), [§ 10-2 første ledd](lov/2024-12-13-76/§10-2/ledd/1) (plikt til samlokalisering for tilbydere), [§ 10-3](lov/2024-12-13-76/§10-3) første til tredje ledd (tilgang til nett og tilhørende fasiliteter i og utenfor bygninger), [§ 10-5](lov/2024-12-13-76/§10-5) første eller tredje ledd (tilgang til infrastruktur for tjenester som bruker frekvenser), [§ 10-6 tredje ledd](lov/2024-12-13-76/§10-6/ledd/3) (kartlegging av bredbåndsdekning), [§ 11-10 sjette ledd](lov/2024-12-13-76/§11-10/ledd/6) (salg, utleie og annen overføring av tillatelse til bruk av frekvenser), [§ 11-11](lov/2024-12-13-76/§11-11) andre eller tredje ledd (tiltak for å fremme konkurranse), [§ 12-2 femte ledd](lov/2024-12-13-76/§12-2/ledd/5) (tillatelse til bruk av nummer, navn og adresser), [§ 12-3 første ledd](lov/2024-12-13-76/§12-3/ledd/1) (pålegg om bruk av nummer, navn og adresser), [§ 12-4 tredje ledd](lov/2024-12-13-76/§12-4/ledd/3) (formidlingsplikt til nummer og prefiks), [§ 12-6](lov/2024-12-13-76/§12-6) første eller andre ledd (database), [§ 13-1 fjerde ledd](lov/2024-12-13-76/§13-1/ledd/4) (omsetning av utstyr), [§ 15-4 første ledd](lov/2024-12-13-76/§15-4/ledd/1) (internkontroll), [§ 15-5](lov/2024-12-13-76/§15-5) (pålegg om retting og opphør av ulovlige forhold) eller [§ 15-8](lov/2024-12-13-76/§15-8) (pålegg om stans i omsetning og tilbakekall av radioutstyr, terminalutstyr og annet utstyr)
+4. overtrer pålegg fastsatt med hjemmel i [§ 15-2](lov/2024-12-13-76/§15-2) (opplysnings- og utleveringsplikt), eller
+5. gir uriktige eller ufullstendige opplysninger til departementet eller Nasjonal kommunikasjonsmyndighet, eller medvirker til overtredelser etter bokstav a til d.
 
 Departementet kan gi forskrift om hvilke forskriftsbestemmelser som kan medføre overtredelsesgebyr, jf. første ledd bokstav b.
 
@@ -1335,7 +1583,11 @@ Departementet kan gi forskrift om fastsettelse og gjennomføring, inkludert utm�
 
 ### § 15-14. Straff
 
-Med bot eller fengsel inntil ett år straffes den som forsettlig eller uaktsomtovertrer [§ 2-10](lov/2024-12-13-76/§2-10) første til fjerde ledd (anrop til nødmeldetjeneste og geografisk lokalisering av nødanrop), [§ 2-11 første ledd](lov/2024-12-13-76/§2-11/ledd/1) (eCall), [§ 3-3 første ledd](lov/2024-12-13-76/§3-3/ledd/1) (varsling ved sikkerhetshendelser), [§ 3-6 første ledd](lov/2024-12-13-76/§3-6/ledd/1) (formidling av viktig melding), [§ 3-8 andre ledd](lov/2024-12-13-76/§3-8/ledd/2) (tillatte bruksbegrensninger), [§ 3-10](lov/2024-12-13-76/§3-10) første eller andre ledd (taushetsplikt), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1) (tillatelse til bruk av frekvenser), [§ 12-2 første ledd](lov/2024-12-13-76/§12-2/ledd/1) (tillatelse til bruk av nummer, navn og adresser), [§ 13-1](lov/2024-12-13-76/§13-1) første til tredje ledd (omsetning av utstyr) eller [§ 13-2](lov/2024-12-13-76/§13-2) (utstyr som er beregnet på å forstyrre elektronisk kommunikasjon)overtrer forskrift gitt med hjemmel i loven når det er fastsatt i forskriften at overtredelse er straffbart, ellerovertrer enkeltvedtak fastsatt med hjemmel i [§ 2-4 andre ledd](lov/2024-12-13-76/§2-4/ledd/2) (krav til nett, tjeneste, tilhørende utstyr og fasiliteter), [§ 3-1](lov/2024-12-13-76/§3-1) femte, sjette eller syvende ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-7 andre ledd](lov/2024-12-13-76/§3-7/ledd/2) (datasenter), [§ 3-8 første ledd](lov/2024-12-13-76/§3-8/ledd/1) (tillatte bruksbegrensninger), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1), (tillatelse til bruk av frekvenser), [§ 12-2](lov/2024-12-13-76/§12-2) første eller femte ledd (tillatelse til bruk av nummer, navn og adresser), [§ 12-3 første ledd](lov/2024-12-13-76/§12-3/ledd/1) (pålegg om bruk av nummer, navn og adresser), [§ 13-1](lov/2024-12-13-76/§13-1) andre, tredje eller fjerde ledd (omsetning av utstyr) eller [§ 15-7](lov/2024-12-13-76/§15-7) første, andre eller tredje ledd (stengning).
+Med bot eller fengsel inntil ett år straffes den som forsettlig eller uaktsomt
+
+1. overtrer [§ 2-10](lov/2024-12-13-76/§2-10) første til fjerde ledd (anrop til nødmeldetjeneste og geografisk lokalisering av nødanrop), [§ 2-11 første ledd](lov/2024-12-13-76/§2-11/ledd/1) (eCall), [§ 3-3 første ledd](lov/2024-12-13-76/§3-3/ledd/1) (varsling ved sikkerhetshendelser), [§ 3-6 første ledd](lov/2024-12-13-76/§3-6/ledd/1) (formidling av viktig melding), [§ 3-8 andre ledd](lov/2024-12-13-76/§3-8/ledd/2) (tillatte bruksbegrensninger), [§ 3-10](lov/2024-12-13-76/§3-10) første eller andre ledd (taushetsplikt), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1) (tillatelse til bruk av frekvenser), [§ 12-2 første ledd](lov/2024-12-13-76/§12-2/ledd/1) (tillatelse til bruk av nummer, navn og adresser), [§ 13-1](lov/2024-12-13-76/§13-1) første til tredje ledd (omsetning av utstyr) eller [§ 13-2](lov/2024-12-13-76/§13-2) (utstyr som er beregnet på å forstyrre elektronisk kommunikasjon)
+2. overtrer forskrift gitt med hjemmel i loven når det er fastsatt i forskriften at overtredelse er straffbart, eller
+3. overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-4 andre ledd](lov/2024-12-13-76/§2-4/ledd/2) (krav til nett, tjeneste, tilhørende utstyr og fasiliteter), [§ 3-1](lov/2024-12-13-76/§3-1) femte, sjette eller syvende ledd (sikkerhet i elektroniske kommunikasjonsnett og -tjenester), [§ 3-7 andre ledd](lov/2024-12-13-76/§3-7/ledd/2) (datasenter), [§ 3-8 første ledd](lov/2024-12-13-76/§3-8/ledd/1) (tillatte bruksbegrensninger), [§ 11-2 første ledd](lov/2024-12-13-76/§11-2/ledd/1), (tillatelse til bruk av frekvenser), [§ 12-2](lov/2024-12-13-76/§12-2) første eller femte ledd (tillatelse til bruk av nummer, navn og adresser), [§ 12-3 første ledd](lov/2024-12-13-76/§12-3/ledd/1) (pålegg om bruk av nummer, navn og adresser), [§ 13-1](lov/2024-12-13-76/§13-1) andre, tredje eller fjerde ledd (omsetning av utstyr) eller [§ 15-7](lov/2024-12-13-76/§15-7) første, andre eller tredje ledd (stengning).
 
 Grovt brudd på [§ 3-10](lov/2024-12-13-76/§3-10) (taushetsplikt) straffes med fengsel inntil tre år. Ved avgjørelsen av om taushetsbruddet er grovt, skal det særlig legges vekt på om gjerningspersonen har hatt forsett om uberettiget vinning og om handlingen har ført til tap eller fare for tap for noen.
 

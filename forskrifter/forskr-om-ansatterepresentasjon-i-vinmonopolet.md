@@ -15,7 +15,7 @@ xml_hash: "c3122b6f858e66a8bb1e2380f028ac3ea5ca705c2bb13f34aaa1aa73301a7a8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskrift menes med:*ansatt*, person som arbeider i selskapet i hovedstilling eller som deltidsansatt.*hovedstilling*, arbeidsforhold (herunder ikke ferievikariat og heimearbeid) hvor det skal arbeides gjennomsnittlig minst 40 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.*deltidsansatt*, person som arbeider gjennomsnittlig mindre enn 40 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.Når det i denne forskriften kreves et bestemt antall ansatte, telles hver deltidsansatt som en halv.*lokal fagforening*, fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller med arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
+I denne forskrift menes med:
+
+1. *ansatt*, person som arbeider i selskapet i hovedstilling eller som deltidsansatt.
+2. *hovedstilling*, arbeidsforhold (herunder ikke ferievikariat og heimearbeid) hvor det skal arbeides gjennomsnittlig minst 40 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.
+3. *deltidsansatt*, person som arbeider gjennomsnittlig mindre enn 40 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.
+
+   Når det i denne forskriften kreves et bestemt antall ansatte, telles hver deltidsansatt som en halv.
+4. *lokal fagforening*, fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller med arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
 
 ## Kapittel II. Valg av de ansattes representanter til styret
 

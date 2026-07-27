@@ -15,7 +15,7 @@ xml_hash: "bcb829bbd01a67e673dae5d3a565993a57b2ed94caebfaa0dfa2efe0356e769d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,9 +34,23 @@ Hardanger Fruktprodukt.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1\. *Produktbeskriving*Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger er morellar (*Prunus avium*) dyrka i Hardanger.Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal ha dei spesielle eigenskapane som er karakteristiske for den enkelte morellsorten når det gjeld storleik, form, farge og smak, og tilfredsstille minimumskrava til storleik, og refraktometerverdi i tabell 1.Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal vera feilfrie og ha stilk.*Tabell 1: Produktkrav (minimumskrav) Hardangermorellar**Morellsort**Diameter (mm)**Farge (Cerice-skala)**Refraktometerverdi (%)*Alle sortar> 243–714,0
+1\. *Produktbeskriving*
 
-2\. *Geografisk område*Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal dyrkast, sorterast og pakkast i Hardanger. Hardanger definerast som området rundt dei indre delane av Hardangerfjorden, rekna frå dei sørlegaste grensene til kommunane Kvam og Ullensvang og inkludert fjordarmane Granvinsfjorden, Osafjorden med Ulvikpollen, Eidfjorden med Simadalsfjorden og Sørfjorden.
+Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger er morellar (*Prunus avium*) dyrka i Hardanger.
+
+Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal ha dei spesielle eigenskapane som er karakteristiske for den enkelte morellsorten når det gjeld storleik, form, farge og smak, og tilfredsstille minimumskrava til storleik, og refraktometerverdi i tabell 1.
+
+Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal vera feilfrie og ha stilk.
+
+*Tabell 1: Produktkrav (minimumskrav) Hardangermorellar*
+
+| *Morellsort* | *Diameter (mm)* | *Farge (Cerice-skala)* | *Refraktometerverdi (%)* |
+| --- | --- | --- | --- |
+| Alle sortar | > 24 | 3–7 | 14,0 |
+
+2\. *Geografisk område*
+
+Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal dyrkast, sorterast og pakkast i Hardanger. Hardanger definerast som området rundt dei indre delane av Hardangerfjorden, rekna frå dei sørlegaste grensene til kommunane Kvam og Ullensvang og inkludert fjordarmane Granvinsfjorden, Osafjorden med Ulvikpollen, Eidfjorden med Simadalsfjorden og Sørfjorden.
 
 3\. *Produksjonsmetode*
 
@@ -66,7 +80,9 @@ Ved pakking/distribusjon skal det takast stikkprøver frå minst 5 vareparti av 
 
 Hardangermorellar / Morellar frå Hardanger / Hardangermoreller / Moreller fra Hardanger skal tilfredsstilla produktkrava i tabell 1. Morellane skal leverast til kjølelager same dag som hausting, og raskt kjølast ned til rett temperatur.
 
-4\. *Merking av produktet*Hardangermoreller / Moreller frå Hardanger / Moreller fra Hardanger kan merkjast med figurmerket forbeskytta geografisk nemning / beskyttet geografisk betegnelse.
+4\. *Merking av produktet*
+
+Hardangermoreller / Moreller frå Hardanger / Moreller fra Hardanger kan merkjast med figurmerket forbeskytta geografisk nemning / beskyttet geografisk betegnelse.
 
 > Endra ved [forskrift 25 juli 2023 nr. 1284](forskrift/2023-07-25-1284).
 

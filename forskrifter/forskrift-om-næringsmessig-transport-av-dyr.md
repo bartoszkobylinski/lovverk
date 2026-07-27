@@ -16,7 +16,7 @@ xml_hash: "594ee6119e390a11093346f3ee120fe634bedeed1ce4d7d113ce8333faa62235"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,7 +37,12 @@ Kapitlene III og IV gjelder ikke transport av akvatiske dyr.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Beitetransport:* Transport til og fra beite og mellom beiteområder som nevnt i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 1 nummer 2 bokstav a.*Egentransport:* Transport av egne dyr under 50 km som nevnt i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 1 nummer 2 bokstav b.*Fjørfe:* Høns (gallus gallus), kalkuner, ender og gjess.*Hest:* Registrert hest, esel, mulesel og muldyr.
+I denne forskriften menes med:
+
+1. *Beitetransport:* Transport til og fra beite og mellom beiteområder som nevnt i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 1 nummer 2 bokstav a.
+2. *Egentransport:* Transport av egne dyr under 50 km som nevnt i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 1 nummer 2 bokstav b.
+3. *Fjørfe:* Høns (gallus gallus), kalkuner, ender og gjess.
+4. *Hest:* Registrert hest, esel, mulesel og muldyr.
 
 ## Kapittel II. Gjennomføring av transportforordningen
 
@@ -71,7 +76,13 @@ Alle godkjente transportmidler i henhold til annet og tredje ledd skal fremstill
 
 ### § 7. Krav til transportdokumenter
 
-I tillegg til det som kreves i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 4, skal transportdokumentene inneholdetransportørens og sjåførens navn og adresse, samt type transportmiddeldyrenes art, antall og kjønnankomstdato og -klokkesletttidspunkt for gjennomført observasjon av dyrenemerknader om avvik og korrigerende tiltak som angår dyrevelferden.
+I tillegg til det som kreves i forordning [(EF) nr. 1/2005](eu/32005r0001*) artikkel 4, skal transportdokumentene inneholde
+
+1. transportørens og sjåførens navn og adresse, samt type transportmiddel
+2. dyrenes art, antall og kjønn
+3. ankomstdato og -klokkeslett
+4. tidspunkt for gjennomført observasjon av dyrene
+5. merknader om avvik og korrigerende tiltak som angår dyrevelferden.
 
 Første ledd gjelder ikke egentransport og beitetransport.
 
@@ -101,7 +112,12 @@ Annet ledd gjelder ikke i områder i Nordland, Troms og Finnmark, dersom reisen 
 
 Det er forbudt å bruke utstyr som gir elektrisk støt på dyr ved transport og tilknyttede aktiviteter.
 
-De følgende kravene gjelder også ved beitetransport over 50 km:kravene om håndtering av dyr i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel III punkt 1.8kravene om atskillelse av dyr i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel III punktene 1.12 og 1.13kravene om vannings- og fôringshyppighet, transporttider og hvileperioder i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel V punkt 1.4kravet om stell etter reisen i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel V punkt 1.5.
+De følgende kravene gjelder også ved beitetransport over 50 km:
+
+1. kravene om håndtering av dyr i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel III punkt 1.8
+2. kravene om atskillelse av dyr i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel III punktene 1.12 og 1.13
+3. kravene om vannings- og fôringshyppighet, transporttider og hvileperioder i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel V punkt 1.4
+4. kravet om stell etter reisen i forordning [(EF) nr. 1/2005](eu/32005r0001*) vedlegg I kapittel V punkt 1.5.
 
 ### § 11. Bruk av strø
 
@@ -135,7 +151,11 @@ Veigående transportmidler for tamrein skal ha tak. Takhøyden skal være minst 
 
 Veigående transportmiddel for tamrein skal ha tett vegg i front ved transport vinterstid.
 
-Transportrom for tamrein skal ha en lengde på minst 1,5 m. I tillegg gjelder følgende arealkrav:En fullvoksen bukk eller ei simle med gevir skal ha minst 0,6 m2 på reiser inntil 4 timer og 0,9 m2 på reiser over 4 timer.Ei simle uten gevir skal ha minst 0,4 m2 på reiser inntil 4 timer og 0,6 m2 på reiser over 4 timer.En års- eller fjorårsgammel kalv skal ha minst 0,3 m2 på reiser inntil 4 timer og 0,45 m2 på reiser over 4 timer.
+Transportrom for tamrein skal ha en lengde på minst 1,5 m. I tillegg gjelder følgende arealkrav:
+
+1. En fullvoksen bukk eller ei simle med gevir skal ha minst 0,6 m2 på reiser inntil 4 timer og 0,9 m2 på reiser over 4 timer.
+2. Ei simle uten gevir skal ha minst 0,4 m2 på reiser inntil 4 timer og 0,6 m2 på reiser over 4 timer.
+3. En års- eller fjorårsgammel kalv skal ha minst 0,3 m2 på reiser inntil 4 timer og 0,45 m2 på reiser over 4 timer.
 
 Tamrein med store gevir skal transporteres atskilt fra andre dyr.
 
@@ -205,7 +225,44 @@ under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité
 
 etter å ha rådspurt Regionkomiteen, og
 
-ut fra følgende betraktninger:I henhold til protokollen om dyrevern og dyrs velferd som er vedlagt traktaten, skal Fellesskapet og medlemsstatene ved fastsettelse og gjennomføring av Fellesskapets landbruks- og transportpolitikk fullt ut ta hensyn til kravene til dyrs velferd.Ved rådsdirektiv [91/628/EØF](eu/31991l0628) av 19. november 1991 om vern av dyr under transport3 vedtok Rådet regler på området transport av dyr for å fjerne tekniske hindringer for handelen med levende dyr og å legge grunnlaget for at markedsordningene på området skal fungere tilfredsstillende og samtidig sikre tilfredsstillende vern for dyrene det gjelder.I sin rapport til Europaparlamentet og Rådet om de erfaringene medlemsstatene har gjort siden gjennomføringen av rådsdirektiv [95/29/EF](eu/31995l0029*) av 29. juni 1995 om endring av direktiv [91/628/EØF](eu/31991l0628) om vern av dyr under transport,4 som ble utarbeidet i samsvar med direktiv [91/628/EØF](eu/31991l0628), anbefalte Kommisjonen at gjeldende fellesskapslovgivning på dette området endres.De fleste medlemsstatene har ratifisert Den europeiske konvensjon om beskyttelse av dyr under internasjonal transport, og Rådet har gitt Kommisjonen mandat til å forhandle på vegne av Fellesskapet om en revidert europeisk konvensjon om beskyttelse av dyr under internasjonal transport.Transport av dyr, også slaktedyr, over lange avstander bør reduseres så mye som mulig av hensyn til dyrenes velferd.Rådet oppfordret 19. juni 20015 Kommisjonen til å framlegge forslag med henblikk på å sikre effektiv gjennomføring av og streng kontroll med eksisterende fellesskapslovgivning, å bedre dyrevernet og dyrs velferd, å forebygge at smittsomme dyresykdommer oppstår og spres, samt å innføre strengere vilkår slik at dyrenes velferd og helse sikres under og etter transport, og slik at de unngår smerte og lidelse.Europaparlamentet anmodet 13. november 2001 Kommisjonen om å framlegge forslag til endring av eksisterende fellesskapslovgivning om transport av levende dyr, særlig å:rådspørre vedkommende vitenskapskomité om varigheten av dyretransporter,foreslå en harmonisert modell for et europeisk sertifikat for transportører og harmonisere ruteplaner for fjerntransport,sikre at enhver person som håndterer dyr under transport, har gjennomgått en utdanning som er anerkjent av vedkommende myndigheter, ogsikre at det ved veterinærkontroller på Fellesskapets grensekontrollstasjoner foretas grundig kontroll av de forholdene dyrene transporteres under.Vitenskapskomiteen for dyrs helse og velferd vedtok 11. mars 2002 en uttalelse om dyrs velferd under transport. Fellesskapets regelverk bør derfor endres for å ta hensyn til nye vitenskapelige opplysninger samtidig som det prioriteres å garantere riktig gjennomføring av regelverket i nærmeste framtid.Det vil bli framsatt forslag om særlige bestemmelser for fjørfe, katter og hunder når de relevante uttalelsene fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA) foreligger.I lys av erfaringene med harmonisering av Fellesskapets regelverk om transport av dyr innenfor rammen av direktiv [91/628/EØF](eu/31991l0628) og de vanskelighetene som er oppstått på grunn av forskjellig gjennomføring av nevnte direktiv på nasjonalt plan, er det mer hensiktsmessig å fastsette fellesskapsregler på dette området i en forordning. Inntil det er vedtatt nærmere bestemmelser om visse arter som har særlige behov, og som utgjør en svært begrenset del av Fellesskapets husdyrbestand, er det hensiktsmessig å gi medlemsstatene mulighet til å innføre eller opprettholde ytterligere nasjonale regler for transport av slike dyrearter.For å sikre en ensartet og effektiv anvendelse av denne forordning i hele Fellesskapet i lys av det grunnleggende prinsippet at dyr ikke skal transporteres under slike forhold at de kan skades eller påføres unødig lidelse, bør det fastsettes nærmere bestemmelser om de særlige behovene som oppstår i forbindelse med forskjellige former for transport. Slike nærmere bestemmelser bør tolkes og anvendes i samsvar med ovennevnte prinsipp og bør ajourføres i tide, særlig når de i lys av nye vitenskapelige uttalelser ikke lenger synes å sikre at ovennevnte prinsipp overholdes for bestemte dyrearter eller former for transport.Transport i kommersielt øyemed er ikke begrenset til transport som innebærer umiddelbar utveksling av penger, varer eller tjenester. Transport i kommersielt øyemed omfatter blant annet transport som direkte eller indirekte innebærer eller har til formål å oppnå økonomisk gevinst.Avlessing og påfølgende omlasting av dyr kan også være en kilde til stress for dyrene, og kontakt på kontrollstasjoner, tidligere kalt stoppesteder, kan under visse forhold føre til spredning av smittsomme sykdommer. Det bør derfor fastsettes særlige tiltak som sikrer dyrs helse og velferd under hvile på kontrollstasjoner. Det er derfor nødvendig å endre bestemmelsene i rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for stoppesteder og om endring av reiseplanen fastsatt i vedlegget til direktiv [91/628/EØF](eu/31991l0628).6Dårlig velferd skyldes ofte manglende utdanning. Følgelig bør alle som håndterer dyr under transport, på forhånd ha fått opplæring, som bare bør gis av organisasjoner godkjent av vedkommende myndighet.Velferdsforholdene for dyr under transport avhenger hovedsakelig av transportørens daglige praksis. Vedkommende myndigheter kan bli hindret i å utføre sine kontroller fordi transportørene fritt kan utøve sin virksomhet i forskjellige medlemsstater. Transportørene bør derfor i større grad holdes ansvarlig, og det bør skapes større gjennomsiktighet når det gjelder deres status og virksomhet. Særlig bør de kunne dokumentere at de er autorisert, rapportere systematisk eventuelle problemer og føre nøyaktige bøker over sine aktiviteter og resultater.Det er ikke bare transportører, men også andre aktører som gårdbrukere, forretningsdrivende, oppsamlingssentraler og slakterier som er engasjert i transport av dyr. Følgelig bør en rekke krav som gjelder dyrs velferd, utvides til å omfatte alle aktører som beskjeftiger seg med transport av dyr.Oppsamlingssentralene spiller en vesentlig rolle i forbindelse med transport av visse arter av levende dyr. Oppsamlingssentralene bør derfor sørge for at Fellesskapets regelverk om vern av dyr under transport er kjent for og overholdes av alle ansatte og besøkende.Risikoen for negativ påvirkning av dyrenes velferd er større på lange enn korte reiser. Følgelig bør det fastsettes særlige framgangsmåter for å sikre at standardene overholdes i større grad, særlig ved å gjøre det lettere å spore slik transport.Ved rådsforordning [(EØF) nr. 3820/85](eu/31985r3820*) av 20. desember 1985 om harmonisering av visse bestemmelser på det sosiale område innen veitransport7 fastsettes lengste kjøretid og minste varighet av hviletider for sjåfører. Reisetiden for dyr bør reguleres tilsvarende. I henhold til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985 om bruk av fartsskriver innen veitransport8 skal fartsskriver installeres og brukes for å sikre en effektiv kontroll med overholdelse av bestemmelsene på det sosiale området innen veitransport. Det er nødvendig at de registrerte opplysningene gjøres tilgjengelige og kontrolleres slik at reglene for lengste transporttid kan håndheves i samsvar med reglene om dyrs velferd.Utilstrekkelig utveksling av opplysninger mellom vedkommende myndigheter fører til mangelfull håndheving av Fellesskapets regelverk om vern av dyr under transport. Det bør derfor fastsettes fleksible framgangsmåter for å bedre samarbeidet mellom vedkommende myndigheter i de forskjellige medlemsstatene.Registrerte dyr av hestefamilien, som definert i artikkel 2 bokstav c) i direktiv [90/426/EØF](eu/31990l0426*),9 blir ofte transportert i ikke-kommersielt øyemed, og slik transport bør utføres i samsvar med de generelle målene for denne forordning. Av hensyn til den karakter slik forflytning har, bør det innrømmes unntak fra visse bestemmelser når registrerte dyr av hestefamilien transporteres til konkurranser, til veddeløp, til kulturelle arrangementer eller for avlsformål. Slike unntak bør imidlertid ikke innrømmes for dyr av hestefamilien som enten direkte eller etter transitt føres via et marked eller en godkjent samleplass til et slakteri for å slaktes, og som i henhold til artikkel 2 bokstav d) og artikkel 8 nr. 1 annet strekpunkt i direktiv [90/426/EØF](eu/31990l0426*) anses som «slaktedyr av hestefamilien».Utilstrekkelig oppfølging av overtredelser av regelverket for dyrs velferd vil føre til at regelverket ikke overholdes, og dermed til konkurransevridning. Det bør derfor etableres ensartede framgangsmåter i hele Fellesskapet for å øke kontrollen og å iverksette sanksjoner ved overtredelse av regelverket om dyrs velferd. Medlemsstatene bør fastsette regler om sanksjoner for overtredelse av bestemmelsene i denne forordning og sikre at de håndheves. Sanksjonene må være effektive, stå i et rimelig forhold til overtredelsen og være avskrekkende.Et betydelig antall dyr transporters med fartøy for levende dyr på svært lange reiser fra og innenfor Fellesskapet, og sjøtransport kan kontrolleres på avreisestedet. Det er derfor viktig å fastsette særlige tiltak og standarder for denne formen for transport.Med henblikk på å sikre et ensartet regelverk i Fellesskapet bør rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet10 endres og tilpasses denne forordning når det gjelder godkjenning av oppsamlingssentraler og krav til transportører.Rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving11 bør også endres og tilpasses denne forordning når det gjelder bruk av elektrisk piggstav.De bestemmelser og ordninger for oversendelse av opplysninger som er fastsatt ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene,12 bør anvendes på dyrs velferd under transport for å sikre at denne forordning overholdes.Ved kommisjonsvedtak [98/139/EF](eu/31998d0139)13 fastsettes det visse nærmere regler for veterinærkontroll på stedet foretatt i medlemsstatene av Kommisjonens sakkyndige, og disse reglene bør bidra til å sikre en ensartet gjennomføring av denne forordning.Denne forordning inneholder bestemmelser om ventilasjon i veigående kjøretøyer som benyttes til transport av levende dyr på lange reiser. Følgelig bør rådsforordning [(EF) nr. 411/98](eu/31998r0411) av 16. februar 1998 om tilleggsstandarder for vern av dyr under transport i veigående kjøretøyer når reisetiden overstiger åtte timer,14 oppheves.Det bør fastsettes en enkel framgangsmåte som Rådet skal følge ved ajourføring av visse viktige tekniske elementer i denne forordning, særlig i lys av en vurdering av forordningens innvirkning på transporten av levende dyr innenfor et utvidet Fellesskap, og ved fastsettelse av spesifikasjonene for det navigasjonssystemet som skal brukes for alle veigående transportmidler, på bakgrunn av den framtidige teknologiske utviklingen på dette området, for eksempel at Gelileo-systemet blir tatt i bruk.Det bør kunne innrømmes unntak for å ta hensyn til den lange avstanden fra visse regioner til fastlandsdelen av Fellesskapet, særlig for de mest avsidesliggende områdene nevnt i traktatens artikkel 299.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen15 –
+ut fra følgende betraktninger:
+
+1. I henhold til protokollen om dyrevern og dyrs velferd som er vedlagt traktaten, skal Fellesskapet og medlemsstatene ved fastsettelse og gjennomføring av Fellesskapets landbruks- og transportpolitikk fullt ut ta hensyn til kravene til dyrs velferd.
+2. Ved rådsdirektiv [91/628/EØF](eu/31991l0628) av 19. november 1991 om vern av dyr under transport3 vedtok Rådet regler på området transport av dyr for å fjerne tekniske hindringer for handelen med levende dyr og å legge grunnlaget for at markedsordningene på området skal fungere tilfredsstillende og samtidig sikre tilfredsstillende vern for dyrene det gjelder.
+3. I sin rapport til Europaparlamentet og Rådet om de erfaringene medlemsstatene har gjort siden gjennomføringen av rådsdirektiv [95/29/EF](eu/31995l0029*) av 29. juni 1995 om endring av direktiv [91/628/EØF](eu/31991l0628) om vern av dyr under transport,4 som ble utarbeidet i samsvar med direktiv [91/628/EØF](eu/31991l0628), anbefalte Kommisjonen at gjeldende fellesskapslovgivning på dette området endres.
+4. De fleste medlemsstatene har ratifisert Den europeiske konvensjon om beskyttelse av dyr under internasjonal transport, og Rådet har gitt Kommisjonen mandat til å forhandle på vegne av Fellesskapet om en revidert europeisk konvensjon om beskyttelse av dyr under internasjonal transport.
+5. Transport av dyr, også slaktedyr, over lange avstander bør reduseres så mye som mulig av hensyn til dyrenes velferd.
+6. Rådet oppfordret 19. juni 20015 Kommisjonen til å framlegge forslag med henblikk på å sikre effektiv gjennomføring av og streng kontroll med eksisterende fellesskapslovgivning, å bedre dyrevernet og dyrs velferd, å forebygge at smittsomme dyresykdommer oppstår og spres, samt å innføre strengere vilkår slik at dyrenes velferd og helse sikres under og etter transport, og slik at de unngår smerte og lidelse.
+7. Europaparlamentet anmodet 13. november 2001 Kommisjonen om å framlegge forslag til endring av eksisterende fellesskapslovgivning om transport av levende dyr, særlig å:
+
+   - rådspørre vedkommende vitenskapskomité om varigheten av dyretransporter,
+   - foreslå en harmonisert modell for et europeisk sertifikat for transportører og harmonisere ruteplaner for fjerntransport,
+   - sikre at enhver person som håndterer dyr under transport, har gjennomgått en utdanning som er anerkjent av vedkommende myndigheter, og
+   - sikre at det ved veterinærkontroller på Fellesskapets grensekontrollstasjoner foretas grundig kontroll av de forholdene dyrene transporteres under.
+8. Vitenskapskomiteen for dyrs helse og velferd vedtok 11. mars 2002 en uttalelse om dyrs velferd under transport. Fellesskapets regelverk bør derfor endres for å ta hensyn til nye vitenskapelige opplysninger samtidig som det prioriteres å garantere riktig gjennomføring av regelverket i nærmeste framtid.
+9. Det vil bli framsatt forslag om særlige bestemmelser for fjørfe, katter og hunder når de relevante uttalelsene fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA) foreligger.
+10. I lys av erfaringene med harmonisering av Fellesskapets regelverk om transport av dyr innenfor rammen av direktiv [91/628/EØF](eu/31991l0628) og de vanskelighetene som er oppstått på grunn av forskjellig gjennomføring av nevnte direktiv på nasjonalt plan, er det mer hensiktsmessig å fastsette fellesskapsregler på dette området i en forordning. Inntil det er vedtatt nærmere bestemmelser om visse arter som har særlige behov, og som utgjør en svært begrenset del av Fellesskapets husdyrbestand, er det hensiktsmessig å gi medlemsstatene mulighet til å innføre eller opprettholde ytterligere nasjonale regler for transport av slike dyrearter.
+11. For å sikre en ensartet og effektiv anvendelse av denne forordning i hele Fellesskapet i lys av det grunnleggende prinsippet at dyr ikke skal transporteres under slike forhold at de kan skades eller påføres unødig lidelse, bør det fastsettes nærmere bestemmelser om de særlige behovene som oppstår i forbindelse med forskjellige former for transport. Slike nærmere bestemmelser bør tolkes og anvendes i samsvar med ovennevnte prinsipp og bør ajourføres i tide, særlig når de i lys av nye vitenskapelige uttalelser ikke lenger synes å sikre at ovennevnte prinsipp overholdes for bestemte dyrearter eller former for transport.
+12. Transport i kommersielt øyemed er ikke begrenset til transport som innebærer umiddelbar utveksling av penger, varer eller tjenester. Transport i kommersielt øyemed omfatter blant annet transport som direkte eller indirekte innebærer eller har til formål å oppnå økonomisk gevinst.
+13. Avlessing og påfølgende omlasting av dyr kan også være en kilde til stress for dyrene, og kontakt på kontrollstasjoner, tidligere kalt stoppesteder, kan under visse forhold føre til spredning av smittsomme sykdommer. Det bør derfor fastsettes særlige tiltak som sikrer dyrs helse og velferd under hvile på kontrollstasjoner. Det er derfor nødvendig å endre bestemmelsene i rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for stoppesteder og om endring av reiseplanen fastsatt i vedlegget til direktiv [91/628/EØF](eu/31991l0628).6
+14. Dårlig velferd skyldes ofte manglende utdanning. Følgelig bør alle som håndterer dyr under transport, på forhånd ha fått opplæring, som bare bør gis av organisasjoner godkjent av vedkommende myndighet.
+15. Velferdsforholdene for dyr under transport avhenger hovedsakelig av transportørens daglige praksis. Vedkommende myndigheter kan bli hindret i å utføre sine kontroller fordi transportørene fritt kan utøve sin virksomhet i forskjellige medlemsstater. Transportørene bør derfor i større grad holdes ansvarlig, og det bør skapes større gjennomsiktighet når det gjelder deres status og virksomhet. Særlig bør de kunne dokumentere at de er autorisert, rapportere systematisk eventuelle problemer og føre nøyaktige bøker over sine aktiviteter og resultater.
+16. Det er ikke bare transportører, men også andre aktører som gårdbrukere, forretningsdrivende, oppsamlingssentraler og slakterier som er engasjert i transport av dyr. Følgelig bør en rekke krav som gjelder dyrs velferd, utvides til å omfatte alle aktører som beskjeftiger seg med transport av dyr.
+17. Oppsamlingssentralene spiller en vesentlig rolle i forbindelse med transport av visse arter av levende dyr. Oppsamlingssentralene bør derfor sørge for at Fellesskapets regelverk om vern av dyr under transport er kjent for og overholdes av alle ansatte og besøkende.
+18. Risikoen for negativ påvirkning av dyrenes velferd er større på lange enn korte reiser. Følgelig bør det fastsettes særlige framgangsmåter for å sikre at standardene overholdes i større grad, særlig ved å gjøre det lettere å spore slik transport.
+19. Ved rådsforordning [(EØF) nr. 3820/85](eu/31985r3820*) av 20. desember 1985 om harmonisering av visse bestemmelser på det sosiale område innen veitransport7 fastsettes lengste kjøretid og minste varighet av hviletider for sjåfører. Reisetiden for dyr bør reguleres tilsvarende. I henhold til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985 om bruk av fartsskriver innen veitransport8 skal fartsskriver installeres og brukes for å sikre en effektiv kontroll med overholdelse av bestemmelsene på det sosiale området innen veitransport. Det er nødvendig at de registrerte opplysningene gjøres tilgjengelige og kontrolleres slik at reglene for lengste transporttid kan håndheves i samsvar med reglene om dyrs velferd.
+20. Utilstrekkelig utveksling av opplysninger mellom vedkommende myndigheter fører til mangelfull håndheving av Fellesskapets regelverk om vern av dyr under transport. Det bør derfor fastsettes fleksible framgangsmåter for å bedre samarbeidet mellom vedkommende myndigheter i de forskjellige medlemsstatene.
+21. Registrerte dyr av hestefamilien, som definert i artikkel 2 bokstav c) i direktiv [90/426/EØF](eu/31990l0426*),9 blir ofte transportert i ikke-kommersielt øyemed, og slik transport bør utføres i samsvar med de generelle målene for denne forordning. Av hensyn til den karakter slik forflytning har, bør det innrømmes unntak fra visse bestemmelser når registrerte dyr av hestefamilien transporteres til konkurranser, til veddeløp, til kulturelle arrangementer eller for avlsformål. Slike unntak bør imidlertid ikke innrømmes for dyr av hestefamilien som enten direkte eller etter transitt føres via et marked eller en godkjent samleplass til et slakteri for å slaktes, og som i henhold til artikkel 2 bokstav d) og artikkel 8 nr. 1 annet strekpunkt i direktiv [90/426/EØF](eu/31990l0426*) anses som «slaktedyr av hestefamilien».
+22. Utilstrekkelig oppfølging av overtredelser av regelverket for dyrs velferd vil føre til at regelverket ikke overholdes, og dermed til konkurransevridning. Det bør derfor etableres ensartede framgangsmåter i hele Fellesskapet for å øke kontrollen og å iverksette sanksjoner ved overtredelse av regelverket om dyrs velferd. Medlemsstatene bør fastsette regler om sanksjoner for overtredelse av bestemmelsene i denne forordning og sikre at de håndheves. Sanksjonene må være effektive, stå i et rimelig forhold til overtredelsen og være avskrekkende.
+23. Et betydelig antall dyr transporters med fartøy for levende dyr på svært lange reiser fra og innenfor Fellesskapet, og sjøtransport kan kontrolleres på avreisestedet. Det er derfor viktig å fastsette særlige tiltak og standarder for denne formen for transport.
+24. Med henblikk på å sikre et ensartet regelverk i Fellesskapet bør rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet10 endres og tilpasses denne forordning når det gjelder godkjenning av oppsamlingssentraler og krav til transportører.
+25. Rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving11 bør også endres og tilpasses denne forordning når det gjelder bruk av elektrisk piggstav.
+26. De bestemmelser og ordninger for oversendelse av opplysninger som er fastsatt ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene,12 bør anvendes på dyrs velferd under transport for å sikre at denne forordning overholdes.
+27. Ved kommisjonsvedtak [98/139/EF](eu/31998d0139)13 fastsettes det visse nærmere regler for veterinærkontroll på stedet foretatt i medlemsstatene av Kommisjonens sakkyndige, og disse reglene bør bidra til å sikre en ensartet gjennomføring av denne forordning.
+28. Denne forordning inneholder bestemmelser om ventilasjon i veigående kjøretøyer som benyttes til transport av levende dyr på lange reiser. Følgelig bør rådsforordning [(EF) nr. 411/98](eu/31998r0411) av 16. februar 1998 om tilleggsstandarder for vern av dyr under transport i veigående kjøretøyer når reisetiden overstiger åtte timer,14 oppheves.
+29. Det bør fastsettes en enkel framgangsmåte som Rådet skal følge ved ajourføring av visse viktige tekniske elementer i denne forordning, særlig i lys av en vurdering av forordningens innvirkning på transporten av levende dyr innenfor et utvidet Fellesskap, og ved fastsettelse av spesifikasjonene for det navigasjonssystemet som skal brukes for alle veigående transportmidler, på bakgrunn av den framtidige teknologiske utviklingen på dette området, for eksempel at Gelileo-systemet blir tatt i bruk.
+30. Det bør kunne innrømmes unntak for å ta hensyn til den lange avstanden fra visse regioner til fastlandsdelen av Fellesskapet, særlig for de mest avsidesliggende områdene nevnt i traktatens artikkel 299.
+31. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen15 –
 
 1 Uttalelse avgitt 30.3.2004 (ennå ikke offentliggjort i EUT).
 
@@ -246,17 +303,26 @@ VIRKEOMRÅDE, DEFINISJONER OG ALMINNELIGE VILKÅR FOR TRANSPORT AV DYR
 
 1\. Denne forordning får anvendelse for transport av levende virveldyr som finner sted innenfor Fellesskapet, herunder de særlige formene for kontroll som tjenestemenn skal foreta av forsendelser som kommer til eller forlater Fellesskapets tollområde.
 
-2\. Bare artikkel 3 og 27 får anvendelse for:transport av dyr utført av gårdbrukere i landbrukskjøretøyer eller egne transportmidler når de geografiske forholdene tilsier sesongmessig beiteskifte for visse dyrearter,transport av egne dyr utført av gårdbrukere i egne transportmidler over en avstand på mindre enn 50 km fra driftsenheten.
+2\. Bare artikkel 3 og 27 får anvendelse for:
+
+1. transport av dyr utført av gårdbrukere i landbrukskjøretøyer eller egne transportmidler når de geografiske forholdene tilsier sesongmessig beiteskifte for visse dyrearter,
+2. transport av egne dyr utført av gårdbrukere i egne transportmidler over en avstand på mindre enn 50 km fra driftsenheten.
 
 3\. Denne forordning skal ikke være til hinder for strengere nasjonale tiltak for å bedre dyrs velferd under transport som fullt ut foregår innenfor en medlemsstats territorium, eller i forbindelse med sjøtransport som innledes på en medlemsstats område.
 
 4\. Denne forordning får anvendelse med forbehold for Fellesskapets veterinærregler.
 
-5\. Denne forordning får ikke anvendelse for transport av dyr som ikke foregår i forbindelse med økonomiske virksomhet, eller for transport av dyr direkte til eller fra veterinærpraksis eller -klinikk etter råd fra en veterinær.*Transport som ikke omfattes av forordningen, reguleres i forskrift om ikke-næringsmessig transport av dyr og transport av sirkusdyr.*
+5\. Denne forordning får ikke anvendelse for transport av dyr som ikke foregår i forbindelse med økonomiske virksomhet, eller for transport av dyr direkte til eller fra veterinærpraksis eller -klinikk etter råd fra en veterinær.
+
+*Transport som ikke omfattes av forordningen, reguleres i forskrift om ikke-næringsmessig transport av dyr og transport av sirkusdyr.*
 
 ### Artikkel 2. Definisjoner
 
-I denne forordning menes med:*«dyr»:* levende virveldyr,*«oppsamlingssentraler»:* steder som driftsenheter, innsamlingssentraler og markeder hvor enhovede husdyr og husdyr av artene storfe, sau, geit og svin som kommer fra forskjellige driftsenheter, samles slik at de danner partier av dyr,*«ledsager»:* en person som direkte eller indirekte har ansvaret for dyrenes velferd, og som følger dem under transporten,
+I denne forordning menes med:
+
+1. *«dyr»:* levende virveldyr,
+2. *«oppsamlingssentraler»:* steder som driftsenheter, innsamlingssentraler og markeder hvor enhovede husdyr og husdyr av artene storfe, sau, geit og svin som kommer fra forskjellige driftsenheter, samles slik at de danner partier av dyr,
+3. *«ledsager»:* en person som direkte eller indirekte har ansvaret for dyrenes velferd, og som følger dem under transporten,
 
 ►**M1**
 
@@ -294,9 +360,21 @@ I denne forordning menes med:*«dyr»:* levende virveldyr,*«oppsamlingssentrale
 
 ◄**M1**
 
-1. *«organisator»:*en transportør som har inngått underleverandøravtale om en del av en reise med minst en annen transportør, elleren fysisk eller juridisk person som har inngått avtale om en reise med mer enn én transportør, elleren person som har undertegnet avsnitt 1 i loggboken i henhold til vedlegg II,
-2. *«avgangssted»:* det første stedet der dyret lastes på et transportmiddel, forutsatt at dyret har vært innkvartert på stedet i minst 48 timer før avgangstidspunktet.Oppsamlingssentraler godkjent i samsvar med Fellesskapets veterinærregler, kan imidlertid betraktes som avgangssteder når:avstanden mellom det første sted dyrene lastes, og oppsamlingssentralen er mindre enn 100 km, ellerdyrene er blitt innkvartert med tilstrekkelig strø, om mulig uten å være tjoret, og er blitt vannet i minst seks timer før tidspunktet for avgang fra oppsamlingssentralen,
-3. *«bestemmelsessted»:* det stedet der dyrene lesses av et transportmiddel oginnkvarteres i minst 48 timer før tidspunktet for avgang, ellerslaktes,
+1. *«organisator»:*
+
+   1. en transportør som har inngått underleverandøravtale om en del av en reise med minst en annen transportør, eller
+   2. en fysisk eller juridisk person som har inngått avtale om en reise med mer enn én transportør, eller
+   3. en person som har undertegnet avsnitt 1 i loggboken i henhold til vedlegg II,
+2. *«avgangssted»:* det første stedet der dyret lastes på et transportmiddel, forutsatt at dyret har vært innkvartert på stedet i minst 48 timer før avgangstidspunktet.
+
+   Oppsamlingssentraler godkjent i samsvar med Fellesskapets veterinærregler, kan imidlertid betraktes som avgangssteder når:
+
+   1. avstanden mellom det første sted dyrene lastes, og oppsamlingssentralen er mindre enn 100 km, eller
+   2. dyrene er blitt innkvartert med tilstrekkelig strø, om mulig uten å være tjoret, og er blitt vannet i minst seks timer før tidspunktet for avgang fra oppsamlingssentralen,
+3. *«bestemmelsessted»:* det stedet der dyrene lesses av et transportmiddel og
+
+   1. innkvarteres i minst 48 timer før tidspunktet for avgang, eller
+   2. slaktes,
 4. *«hvile- eller omlastingssted»:* enhver stopp under reisen, bortsett fra bestemmelsesstedet, herunder et sted der dyrene har skiftet transportmiddel, uansett om de er blitt lesset av eller ikke,
 5. *«registrert dyr av hestefamilien»:* registrert dyr av hestefamilien som definert i direktiv [90/426/EØF](eu/31990l0426*),3
 6. *«rorofartøy»:* sjøgående fartøy som er innrettet slik at vei- eller skinnegående kjøretøyer kan kjøres direkte om bord og fra borde,
@@ -311,22 +389,43 @@ I denne forordning menes med:*«dyr»:* levende virveldyr,*«oppsamlingssentrale
 
 ◄**M1**
 
-1 EFT L 268 av 24.9.1991, s. 56. Direktivet sist endret ved tiltredelsesakten av 2003.2 EFT L 224 av 18.8.1990, s. 29. Direktivet sist endret ved europaparlaments- og rådsdirektivt [2002/33/EF](eu/32002l0033) (EFT L 315 av 19.11.2002, s. 14).3 EFT L 224, av 18.8.1990, s. 42. Direktivet sist endret ved direktiv [2004/68/EF](eu/32004l0068*) (EUT L 139, 30.4.2004, s. 320).
+1 EFT L 268 av 24.9.1991, s. 56. Direktivet sist endret ved tiltredelsesakten av 2003.
+
+2 EFT L 224 av 18.8.1990, s. 29. Direktivet sist endret ved europaparlaments- og rådsdirektivt [2002/33/EF](eu/32002l0033) (EFT L 315 av 19.11.2002, s. 14).
+
+3 EFT L 224, av 18.8.1990, s. 42. Direktivet sist endret ved direktiv [2004/68/EF](eu/32004l0068*) (EUT L 139, 30.4.2004, s. 320).
 
 ### Artikkel 3. Alminnelige vilkår for transport av dyr
 
 Ingen skal transportere dyr eller la dem bli transportert under slike forhold at de kan komme til skade eller bli påført unødig lidelse.
 
-Dessuten skal følgende vilkår være oppfylt:alle nødvendige tiltak skal være truffet på forhånd for å gjøre reisen så kort som mulig og for å ivareta dyrenes behov under reisen,dyrene skal være skikket til å foreta den planlagte reisen,transportmidlene skal være utformet og innrettet, vedlikeholdt og anvendt på en slik måte at dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet ivaretas,innretningene for lasting og lossing skal være utformet og innrettet, vedlikeholdt og anvendt på en slik måte at dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet ivaretas,de personene som håndterer dyrene, skal ha nødvendig utdanning eller kompetanse til dette og skal utføre sine oppgaver uten å bruke vold eller andre metoder som kan påføre dyrene unødig frykt, skade eller lidelse,transporten skal gjennomføres til bestemmelsesstedet uten forsinkelser, og dyrenes velferd skal kontrolleres regelmessig og ivaretas på en egnet måte,dyrene skal ha gulvareal og ståhøyde som er passende i forhold til deres størrelse og den planlagte reisen,dyrene skal tilbys vann, fôr og hvile med passende mellomrom og i mengder som er passende i forhold til dyrenes art og størrelse.
+Dessuten skal følgende vilkår være oppfylt:
+
+1. alle nødvendige tiltak skal være truffet på forhånd for å gjøre reisen så kort som mulig og for å ivareta dyrenes behov under reisen,
+2. dyrene skal være skikket til å foreta den planlagte reisen,
+3. transportmidlene skal være utformet og innrettet, vedlikeholdt og anvendt på en slik måte at dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet ivaretas,
+4. innretningene for lasting og lossing skal være utformet og innrettet, vedlikeholdt og anvendt på en slik måte at dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet ivaretas,
+5. de personene som håndterer dyrene, skal ha nødvendig utdanning eller kompetanse til dette og skal utføre sine oppgaver uten å bruke vold eller andre metoder som kan påføre dyrene unødig frykt, skade eller lidelse,
+6. transporten skal gjennomføres til bestemmelsesstedet uten forsinkelser, og dyrenes velferd skal kontrolleres regelmessig og ivaretas på en egnet måte,
+7. dyrene skal ha gulvareal og ståhøyde som er passende i forhold til deres størrelse og den planlagte reisen,
+8. dyrene skal tilbys vann, fôr og hvile med passende mellomrom og i mengder som er passende i forhold til dyrenes art og størrelse.
 
 ### KAPITTEL II
 ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 ### Artikkel 4. Transportdokumenter
 
-1\. Transport av dyr kan bare foretas av personer som medbringer i transportmiddelet dokumenter som angir:dyrenes opprinnelse og eier,avgangssted,avgangsdato- og klokkeslett,planlagt bestemmelsessted,forventet varighet av den planlagte reisen.
+1\. Transport av dyr kan bare foretas av personer som medbringer i transportmiddelet dokumenter som angir:
 
-2\. Transportøren skal på anmodning framlegge dokumentene nevnt i nr. 1, for vedkommende myndighet.*Tilleggsbestemmelser om transportdokumenter for reiser som utelukkende foregår innenlands er fastsatt i [§ 7](forskrift/2012-02-08-139/§7).*
+1. dyrenes opprinnelse og eier,
+2. avgangssted,
+3. avgangsdato- og klokkeslett,
+4. planlagt bestemmelsessted,
+5. forventet varighet av den planlagte reisen.
+
+2\. Transportøren skal på anmodning framlegge dokumentene nevnt i nr. 1, for vedkommende myndighet.
+
+*Tilleggsbestemmelser om transportdokumenter for reiser som utelukkende foregår innenlands er fastsatt i [§ 7](forskrift/2012-02-08-139/§7).*
 
 ### Artikkel 5. Krav til planlegging av dyretransporter
 
@@ -334,7 +433,10 @@ ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 2\. Transportørene skal utpeke en fysisk person som skal være ansvarlig for transporten, og som skal sikre at opplysningene om planleggingen, gjennomføringen og fullføringen av den delen av reisen som de har ansvaret for, er tilgjengelige til enhver tid.
 
-3\. Organisatorene skal for hver reise sikre at:dyrenes velferd ikke bringes i fare som følge av utilstrekkelig samordning av reisens forskjellige deler, og at det tas hensyn til værforholdene, ogen fysisk person er ansvarlig for å stille opplysninger om planleggingen, gjennomføringen og fullføringen av reisen til rådighet for vedkommende myndighet til enhver tid.
+3\. Organisatorene skal for hver reise sikre at:
+
+1. dyrenes velferd ikke bringes i fare som følge av utilstrekkelig samordning av reisens forskjellige deler, og at det tas hensyn til værforholdene, og
+2. en fysisk person er ansvarlig for å stille opplysninger om planleggingen, gjennomføringen og fullføringen av reisen til rådighet for vedkommende myndighet til enhver tid.
 
 4\. I forbindelse med lange reiser mellom medlemsstater og til og fra tredjestater for enhovede husdyr, bortsett fra registrerte dyr av hestefamilien, og husdyr av artene storfe, sau, geit og svin skal transportører og organisatorer overholde bestemmelsene i vedlegg II om loggbok.
 
@@ -350,9 +452,14 @@ ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 5\. Bare personer som har et kompetansebevis i henhold til artikkel 17 nr. 2, kan føre eller opptre som ledsager på et veigående kjøretøy som transporterer enhovede husdyr eller husdyr av artene storfe, sau, geit og svin eller fjørfe. Kompetansebeviset skal kunne forevises vedkommende myndighet under transporten av dyrene.
 
-6\. Transportørene skal sørge for at en ledsager følger forsendelser av dyr, unntatt når:dyrene transporteres i containere som er sikret, tilstrekkelige ventilert og om nødvendig inneholder nok fôr og vann i automatkar som ikke kan veltes, til en reise som varer dobbelt så lenge som antatt,sjåføren utfører ledsagerens oppgaver.
+6\. Transportørene skal sørge for at en ledsager følger forsendelser av dyr, unntatt når:
 
-7\. Nr. 1, 2, 4 og 5 får ikke anvendelse for personer som transporterer dyr over en avstand på høyst 65 km regnet fra avgangsstedet til bestemmelsesstedet.*Tilleggsbestemmelse om avstand på høyst 50 km for reiser som utelukkende foregår innenlands, er fastsatt i [§ 5](forskrift/2012-02-08-139/§5).*
+1. dyrene transporteres i containere som er sikret, tilstrekkelige ventilert og om nødvendig inneholder nok fôr og vann i automatkar som ikke kan veltes, til en reise som varer dobbelt så lenge som antatt,
+2. sjåføren utfører ledsagerens oppgaver.
+
+7\. Nr. 1, 2, 4 og 5 får ikke anvendelse for personer som transporterer dyr over en avstand på høyst 65 km regnet fra avgangsstedet til bestemmelsesstedet.
+
+*Tilleggsbestemmelse om avstand på høyst 50 km for reiser som utelukkende foregår innenlands, er fastsatt i [§ 5](forskrift/2012-02-08-139/§5).*
 
 8\. Transportørene skal kunne framlegge godkjenningsbeviset fastsatt i artikkel 18 nr. 2 og artikkel 19 nr. 2, for vedkommende myndighet i den staten dyrene transporteres til.
 
@@ -364,7 +471,9 @@ ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 2\. Sjøtransport over mer enn 10 nautiske mil av enhovede husdyr og husdyr av artene storfe, sau, geit og svin fra en havn i Fellesskapet kan bare finne sted når fartøyet transport av levende dyr er blitt kontrollert og godkjent i henhold til artikkel 19 nr. 1.
 
-3\. Bestemmelsene i nr. 1 og 2 får anvendelse for containere som brukes til transport av enhovede husdyr og husdyr av artene storfe, sau, geit og svin på lange reiser på vei eller til sjøs.*Tilleggsbestemmelser om godkjenning av transportmidler til hest for reiser som utelukkende foregår innenlands, er fastsatt i [§ 6](forskrift/2012-02-08-139/§6).*
+3\. Bestemmelsene i nr. 1 og 2 får anvendelse for containere som brukes til transport av enhovede husdyr og husdyr av artene storfe, sau, geit og svin på lange reiser på vei eller til sjøs.
+
+*Tilleggsbestemmelser om godkjenning av transportmidler til hest for reiser som utelukkende foregår innenlands, er fastsatt i [§ 6](forskrift/2012-02-08-139/§6).*
 
 ### Artikkel 8. Røktere
 
@@ -376,22 +485,43 @@ ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 1\. De driftsansvarlige for oppsamlingssentraler skal sikre at dyrene behandles i samsvar med de tekniske bestemmelsene i kapittel I og II avsnitt 1 i vedlegg I.
 
-2\. De ansvarlige for oppsamlingssentraler som er godkjent i samsvar med Fellesskapets veterinærregler, skal dessuten:overlate håndteringen av dyr utelukkende til personale som har gjennomgått opplæringskurs i de relevante tekniske bestemmelsene i vedlegg I,regelmessig opplyse personer som har fått adgang til oppsamlingssentralen, om deres oppgaver og forpliktelser i henhold til denne forordning og om sanksjoner ved overtredelse,sørge for at personer som har adgang til oppsamlingssentralen, alltid har tilgang til opplysninger om vedkommende myndighet som eventuelle overtredelser av bestemmelsene i denne forordning skal meldes til,treffe nødvendige tiltak for å avhjelpe overtredelser som er konstatert, og hindre nye overtredelser dersom en person som er til stede på oppsamlingssentraler, ikke overholder denne forordning, uten at dette berører eventuelle tiltak fra vedkommende myndighets side,vedta, overvåke og iverksette nødvendige interne regler for å sikre at bokstav a)–d) overholdes.
+2\. De ansvarlige for oppsamlingssentraler som er godkjent i samsvar med Fellesskapets veterinærregler, skal dessuten:
+
+1. overlate håndteringen av dyr utelukkende til personale som har gjennomgått opplæringskurs i de relevante tekniske bestemmelsene i vedlegg I,
+2. regelmessig opplyse personer som har fått adgang til oppsamlingssentralen, om deres oppgaver og forpliktelser i henhold til denne forordning og om sanksjoner ved overtredelse,
+3. sørge for at personer som har adgang til oppsamlingssentralen, alltid har tilgang til opplysninger om vedkommende myndighet som eventuelle overtredelser av bestemmelsene i denne forordning skal meldes til,
+4. treffe nødvendige tiltak for å avhjelpe overtredelser som er konstatert, og hindre nye overtredelser dersom en person som er til stede på oppsamlingssentraler, ikke overholder denne forordning, uten at dette berører eventuelle tiltak fra vedkommende myndighets side,
+5. vedta, overvåke og iverksette nødvendige interne regler for å sikre at bokstav a)–d) overholdes.
 
 ### KAPITTEL III
 VEDKOMMENDE MYNDIGHETS OPPGAVER OG FORPLIKTELSER
 
 ### Artikkel 10. Krav til godkjenning av transportør
 
-1\. Vedkommende myndighet skal utstede godkjenning til transportører forutsatt at:søkerne er etablert, eller når det gjelder søkere etablert i en tredjestat, er representert i den medlemsstaten der de søker om godkjenning,søkerne har vist at de har tilstrekkelig og egnet personale, utstyr og driftsmetoder til å kunne overholde denne forordning, herunder eventuelt retningslinjer for god praksis,søkerne eller deres representanter ikke har gjort seg skyldige i alvorlige overtredelser av Fellesskapets regelverk og/eller nasjonal lovgivning om vern av dyr i de tre årene forut for søknadsdatoen. Denne bestemmelsen får ikke anvendelse når søkeren godtgjør overfor vedkommende myndighet at vedkommende har truffet alle nødvendige tiltak for å unngå ytterligere overtredelser.
+1\. Vedkommende myndighet skal utstede godkjenning til transportører forutsatt at:
+
+1. søkerne er etablert, eller når det gjelder søkere etablert i en tredjestat, er representert i den medlemsstaten der de søker om godkjenning,
+2. søkerne har vist at de har tilstrekkelig og egnet personale, utstyr og driftsmetoder til å kunne overholde denne forordning, herunder eventuelt retningslinjer for god praksis,
+3. søkerne eller deres representanter ikke har gjort seg skyldige i alvorlige overtredelser av Fellesskapets regelverk og/eller nasjonal lovgivning om vern av dyr i de tre årene forut for søknadsdatoen. Denne bestemmelsen får ikke anvendelse når søkeren godtgjør overfor vedkommende myndighet at vedkommende har truffet alle nødvendige tiltak for å unngå ytterligere overtredelser.
 
 2\. Vedkommende myndighet skal utstede godkjenning som fastsatt i nr. 1, i samsvar med modellen i kapittel I i vedlegg III. Slike godkjenninger skal være gyldige i høyst fem år fra utstedelsesdatoen, og skal ikke gjelde for lange reiser.
 
 ### Artikkel 11. Krav til godkjenning av transportører som gjennomfører lange reiser
 
-1\. Vedkommende myndighet skal utstede godkjenning til transportører som gjennomfører lange reiser, forutsatt at:de oppfyller bestemmelsene i artikkel 10 nr. 1,søkerne har framlagt følgende dokumenter:gyldig kompetansebevis for sjåfører og ledsagere som fastsatt i artikkel 17 nr. 2, for alle sjåfører og ledsagere som gjennomfører lange reiser,gyldig godkjenningsbevis som fastsatt i artikkel 18 nr. 2, for alle veigående transportmidler som brukes til lange reiser,opplysninger om framgangsmåtene som gjør det mulig for transportører å spore og registrere bevegelsene til de veigående kjøretøyene som de har ansvaret for, og til enhver tid å kontakte de aktuelle sjåførene på lange reiser,beredskapsplaner til bruk i nødsituasjoner.
+1\. Vedkommende myndighet skal utstede godkjenning til transportører som gjennomfører lange reiser, forutsatt at:
 
-2\. Innenfor rammen av nr. 1 bokstav b) iii) skal transportører som gjennomfører lange reiser med enhovede husdyr, bortsett fra registrerte dyr av hestefamilien, og husdyr av artene storfe, sau, geit og svin, dokumentere at de bruker navigasjonssystemet nevnt i artikkel 6 nr. 9 for:veigående transportmidler som er tatt i bruk for første gang, fra 1. januar 2007,for alle veigående transportmidler fra 1. januar 2009.
+1. de oppfyller bestemmelsene i artikkel 10 nr. 1,
+2. søkerne har framlagt følgende dokumenter:
+
+   1. gyldig kompetansebevis for sjåfører og ledsagere som fastsatt i artikkel 17 nr. 2, for alle sjåfører og ledsagere som gjennomfører lange reiser,
+   2. gyldig godkjenningsbevis som fastsatt i artikkel 18 nr. 2, for alle veigående transportmidler som brukes til lange reiser,
+   3. opplysninger om framgangsmåtene som gjør det mulig for transportører å spore og registrere bevegelsene til de veigående kjøretøyene som de har ansvaret for, og til enhver tid å kontakte de aktuelle sjåførene på lange reiser,
+   4. beredskapsplaner til bruk i nødsituasjoner.
+
+2\. Innenfor rammen av nr. 1 bokstav b) iii) skal transportører som gjennomfører lange reiser med enhovede husdyr, bortsett fra registrerte dyr av hestefamilien, og husdyr av artene storfe, sau, geit og svin, dokumentere at de bruker navigasjonssystemet nevnt i artikkel 6 nr. 9 for:
+
+1. veigående transportmidler som er tatt i bruk for første gang, fra 1. januar 2007,
+2. for alle veigående transportmidler fra 1. januar 2009.
 
 3\. Vedkommende myndighet skal utstede godkjenning i samsvar med modellen i kapittel II i vedlegg III. Slike godkjenninger skal være gyldige i høyst fem år fra utstedelsesdatoen, og skal gjelde for alle reiser, herunder lange reiser.
 
@@ -423,17 +553,26 @@ Transportører skal søke om godkjenning i henhold til artikkel 10 eller 11 bare
 
 ### Artikkel 18. Godkjenningsbevis for veigående transportmidler
 
-1\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal etter søknad utstede godkjenningsbevis for veigående transportmidler som brukes på lange reiser, forutsatt at transportmidlet:ikke er gjenstand for en søknad til eller er godkjent av en annen vedkommende myndighet i den samme eller en annen medlemsstat,er blitt kontrollert av vedkommende myndighet eller organ som er utpekt av medlemsstaten, og er funnet å være i samsvar med kravene i kapittel II og VI i vedlegg I med hensyn til utforming, konstruksjon og vedlikehold av veigående transportmidler som brukes til lange reiser.
+1\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal etter søknad utstede godkjenningsbevis for veigående transportmidler som brukes på lange reiser, forutsatt at transportmidlet:
+
+1. ikke er gjenstand for en søknad til eller er godkjent av en annen vedkommende myndighet i den samme eller en annen medlemsstat,
+2. er blitt kontrollert av vedkommende myndighet eller organ som er utpekt av medlemsstaten, og er funnet å være i samsvar med kravene i kapittel II og VI i vedlegg I med hensyn til utforming, konstruksjon og vedlikehold av veigående transportmidler som brukes til lange reiser.
 
 2\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal utstede hvert enkelt bevis med et nummer som er unikt i medlemsstaten og i samsvar med modellen oppført i kapittel IV i vedlegg III. Beviset skal utferdiges på det offisielle språket i den medlemsstaten som utsteder det, og på engelsk. Bevisene skal være gyldige i høyst fem år fra utstedelsesdatoen og blir utgyldige så snart transportmiddelet endres eller får montert nytt utstyr som påvirker dyrenes velferd.
 
 3\. Vedkommende myndighet skal registrere godkjenningsbevisene for veigående transportmidler som brukes til lange reiser, i en elektronisk database på en slik måte at vedkommende myndighet i alle medlemsstater raskt kan identifisere dem, særlig ved manglende overholdelse av kravene i denne forordning.
 
-4\. Medlemsstatene kan innrømme unntak fra bestemmelsene i denne artikkel og bestemmelsene i kapittel V punkt 1 nr. 4 bokstav b) og kapittel VI i vedlegg I for veigående transportmidler som brukes når reisetiden ikke overstiger tolv timer for å nå fram til bestemmelsesstedet.*Tilleggsbestemmelser om hest for reiser som utelukkende foregår innenlands er fastsatt i [§ 6](forskrift/2012-02-08-139/§6).*
+4\. Medlemsstatene kan innrømme unntak fra bestemmelsene i denne artikkel og bestemmelsene i kapittel V punkt 1 nr. 4 bokstav b) og kapittel VI i vedlegg I for veigående transportmidler som brukes når reisetiden ikke overstiger tolv timer for å nå fram til bestemmelsesstedet.
+
+*Tilleggsbestemmelser om hest for reiser som utelukkende foregår innenlands er fastsatt i [§ 6](forskrift/2012-02-08-139/§6).*
 
 ### Artikkel 19. Godkjenningsbevis for fartøyer til transport av levende dyr
 
-1\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal etter søknad utstede godkjenningsbevis for fartøy til transport av levende dyr, forutsatt at fartøyet:drives fra den medlemsstaten der søknaden er inngitt,ikke er gjenstand for en søknad til eller er godkjent av en annen vedkommende myndighet i den samme eller en annen medlemsstat,er blitt kontrollert av vedkommende myndighet eller organ som er utpekt av medlemsstaten, og er funnet å være i samsvar med kravene i kapittel IV avsnitt 1 i vedlegg I med hensyn til konstruksjon og utstyr for fartøy til transport av levende dyr.
+1\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal etter søknad utstede godkjenningsbevis for fartøy til transport av levende dyr, forutsatt at fartøyet:
+
+1. drives fra den medlemsstaten der søknaden er inngitt,
+2. ikke er gjenstand for en søknad til eller er godkjent av en annen vedkommende myndighet i den samme eller en annen medlemsstat,
+3. er blitt kontrollert av vedkommende myndighet eller organ som er utpekt av medlemsstaten, og er funnet å være i samsvar med kravene i kapittel IV avsnitt 1 i vedlegg I med hensyn til konstruksjon og utstyr for fartøy til transport av levende dyr.
 
 2\. Vedkommende myndighet eller organ som er utpekt av en medlemsstat, skal utstede hvert enkelt bevis med et nummer som er unikt i medlemsstaten. Beviset skal utferdiges på minst ett av de offisielle språkene i den medlemsstaten som utsteder det, og på engelsk. Bevisene skal være gyldige i høyst fem år fra utstedelsesdatoen og blir utgyldige så snart transportmiddelet endres eller får montert nytt utstyr som påvirker dyrenes velferd.
 
@@ -443,9 +582,17 @@ Transportører skal søke om godkjenning i henhold til artikkel 10 eller 11 bare
 
 ### Artikkel 20. Kontroll av fartøyer til transport av levende dyr ved lasting og lossing
 
-1\. Vedkommende myndighet skal kontrollere fartøyer til transport av levende dyr før innlasting av dyrene, først og fremst for å kontrollere at:det aktuelle fartøyet til transport av levende dyr er bygd og utstyrt for det antallet og den typen dyr som skal transporteres,rommene der dyrene skal innkvarteres, er i god stand,utstyret nevnt i kapittel IV i vedlegg I, er i orden.
+1\. Vedkommende myndighet skal kontrollere fartøyer til transport av levende dyr før innlasting av dyrene, først og fremst for å kontrollere at:
 
-2\. Vedkommende myndighet skal kontrollere følgende før og under lasting/lossing av fartøyer til transport av levende dyr for å sikre at:dyrene er skikket til å fortsette reisen,lastingen/lossingen utføres i samsvar med kapittel III i vedlegg I,fôr- og vanningsanlegg er i samsvar med kapittel IV avsnitt 2 i vedlegg I.
+1. det aktuelle fartøyet til transport av levende dyr er bygd og utstyrt for det antallet og den typen dyr som skal transporteres,
+2. rommene der dyrene skal innkvarteres, er i god stand,
+3. utstyret nevnt i kapittel IV i vedlegg I, er i orden.
+
+2\. Vedkommende myndighet skal kontrollere følgende før og under lasting/lossing av fartøyer til transport av levende dyr for å sikre at:
+
+1. dyrene er skikket til å fortsette reisen,
+2. lastingen/lossingen utføres i samsvar med kapittel III i vedlegg I,
+3. fôr- og vanningsanlegg er i samsvar med kapittel IV avsnitt 2 i vedlegg I.
 
 ►**M1**
 
@@ -531,7 +678,9 @@ GJENNOMFØRINGSMYNDIGHET OG KOMITÉFRAMGANGSMÅTE
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).1
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 3\. Komiteen fastsetter sin forretningsorden.
 
@@ -552,13 +701,50 @@ Direktiv [91/628/EEC](eu/31991l0628) og forordning [(EF) nr. 411/98](eu/31998r04
 
 I direktiv [64/432/EØF](eu/31964l0432*) gjøres følgende endringer:
 
-1\) I artikkel 11 gjøres følgende endringer:i nr. 1 skal ny bokstav lyde:overholde bestemmelsene i direktiv [98/58/EF](eu/31998l0058) og forordning [(EF) nr. 1/2005](eu/32005r0001*),\* som får anvendelse for dem.\* EUT L 3 av 5. januar 2005.»nr. 4 skal lyde:«4. Vedkommende myndighet kan oppheve midlertidig eller tilbakekalle en godkjenning ved eventuelle brudd på denne artikkel eller på andre aktuelle bestemmelser i dette direktiv eller i forordning [(EF) nr. 1/2005](eu/32005r0001*) eller av Fellesskapets veterinærregler oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425).\* Godkjenningen kan tre i kraft igjen når vedkommende myndighet har fått visshet om at oppsamlingssentralen igjen driver i fullt samsvar med alle de relevante bestemmelsene i dette nummer.
+1\) I artikkel 11 gjøres følgende endringer:
+
+1. i nr. 1 skal ny bokstav lyde:
+
+   1. overholde bestemmelsene i direktiv [98/58/EF](eu/31998l0058) og forordning [(EF) nr. 1/2005](eu/32005r0001*),\* som får anvendelse for dem.
+
+      \* EUT L 3 av 5. januar 2005.»
+2. nr. 4 skal lyde:
+
+   «4. Vedkommende myndighet kan oppheve midlertidig eller tilbakekalle en godkjenning ved eventuelle brudd på denne artikkel eller på andre aktuelle bestemmelser i dette direktiv eller i forordning [(EF) nr. 1/2005](eu/32005r0001*) eller av Fellesskapets veterinærregler oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425).\* Godkjenningen kan tre i kraft igjen når vedkommende myndighet har fått visshet om at oppsamlingssentralen igjen driver i fullt samsvar med alle de relevante bestemmelsene i dette nummer.
 
 \* EFT L 224 av 18.8.1990, s. 29.»
 
 2\) Artikkel 12 skal lyde:
 
-«Artikkel 121. Medlemsstatene skal påse at transportørene oppfyller følgende tilleggsvilkår:til transport av dyr skal det anvendes transportmidler som er:innrettet slik at dyrenes avføring, strø eller fõr ikke kan renne eller falle ut av kjøretøyet, ogrengjort og desinfisert med et desinfeksjonsmiddel godkjent av vedkommende myndighet umiddelbart etter hver transport av dyr eller av produkter som vil kunne påvirke dyrehelsen, og om nødvendig før hver ny innlasting av dyr,de skal enten:ha egnede rengjørings- og desinfiseringsanlegg som er godkjent av vedkommende myndighet, herunder anlegg for oppbevaring av strø og husdyrgjødsel, ellerkunne dokumentere at disse funksjonene utføres av en tredjemann som er godkjent av vedkommende myndighet.2. Transportøren skal påse at det for hvert kjøretøy som benyttes til transport av dyr, føres et register som skal oppbevares i minst tre år, og som minst skal inneholde følgende opplysninger:sted, dato og klokkeslett samt navn eller firma og adresse til den driftsenheten eller oppsamlingssentralen der dyrene hentes,sted, dato og klokkeslett for levering, og navn eller forretningsnavn og adresse for mottakeren/mottakerne,de transporterte dyrenes art og antall,dato og sted for desinfisering,opplysninger fra de ledsagende dokumentene (serienummer o.l.),den enkelte reises antatte varighet.3. Transportørene skal påse at forsendelsen eller dyrene ikke på noe tidspunkt fra de forlater opprinnelsesenheten eller opprinnelsesoppsamlingssentralen til de ankommer bestemmelsesstedet, kommer i kontakt med dyr som har lavere helsestatus.4. Medlemsstatene skal påse at transportørene overholder bestemmelsene i denne artikkel vedrørende de dokumentene som skal ledsage dyrene.5. Denne artikkel får ikke anvendelse for personer som transporterer dyr over en avstand på høyst 65 km regnet fra avgangsstedet til bestemmelsesstedet.6. Ved manglende overholdelse av denne artikkel skal bestemmelsene om overtredelser og underretning om overtredelser fastsatt i artikkel 26 i forordning (EF) nr. 1/ 2005 få tilsvarende anvendelse når det gjelder dyrs helse.
+«Artikkel 12
+
+1\. Medlemsstatene skal påse at transportørene oppfyller følgende tilleggsvilkår:
+
+1. til transport av dyr skal det anvendes transportmidler som er:
+
+   1. innrettet slik at dyrenes avføring, strø eller fõr ikke kan renne eller falle ut av kjøretøyet, og
+   2. rengjort og desinfisert med et desinfeksjonsmiddel godkjent av vedkommende myndighet umiddelbart etter hver transport av dyr eller av produkter som vil kunne påvirke dyrehelsen, og om nødvendig før hver ny innlasting av dyr,
+2. de skal enten:
+
+   1. ha egnede rengjørings- og desinfiseringsanlegg som er godkjent av vedkommende myndighet, herunder anlegg for oppbevaring av strø og husdyrgjødsel, eller
+   2. kunne dokumentere at disse funksjonene utføres av en tredjemann som er godkjent av vedkommende myndighet.
+
+2\. Transportøren skal påse at det for hvert kjøretøy som benyttes til transport av dyr, føres et register som skal oppbevares i minst tre år, og som minst skal inneholde følgende opplysninger:
+
+1. sted, dato og klokkeslett samt navn eller firma og adresse til den driftsenheten eller oppsamlingssentralen der dyrene hentes,
+2. sted, dato og klokkeslett for levering, og navn eller forretningsnavn og adresse for mottakeren/mottakerne,
+3. de transporterte dyrenes art og antall,
+4. dato og sted for desinfisering,
+5. opplysninger fra de ledsagende dokumentene (serienummer o.l.),
+6. den enkelte reises antatte varighet.
+
+3\. Transportørene skal påse at forsendelsen eller dyrene ikke på noe tidspunkt fra de forlater opprinnelsesenheten eller opprinnelsesoppsamlingssentralen til de ankommer bestemmelsesstedet, kommer i kontakt med dyr som har lavere helsestatus.
+
+4\. Medlemsstatene skal påse at transportørene overholder bestemmelsene i denne artikkel vedrørende de dokumentene som skal ledsage dyrene.
+
+5\. Denne artikkel får ikke anvendelse for personer som transporterer dyr over en avstand på høyst 65 km regnet fra avgangsstedet til bestemmelsesstedet.
+
+6\. Ved manglende overholdelse av denne artikkel skal bestemmelsene om overtredelser og underretning om overtredelser fastsatt i artikkel 26 i forordning (EF) nr. 1/ 2005 få tilsvarende anvendelse når det gjelder dyrs helse.
 
 ### Artikkel 35. Endringer av direktiv 93/119/EF
 
@@ -571,14 +757,77 @@ Del II punkt 3 i vedlegg A til direktiv [93/119/EF](eu/31993l0119) skal lyde.
 I forordning [(EF) nr. 1255/97](eu/31997r1255) gjøres følgende endringer:
 
 1. Ordet «stoppesteder» skal erstattes med ordet «kontrollstasjoner» overalt i forordningen.
-2. Artikkel 1 nr. 1 skal lyde:«1. Kontrollstasjoner er steder hvor dyrene får hvile i minst 12 timer eller mer i henhold til punkt 1 nr. 5 eller punkt 1 nr. 7 bokstav b) i kapittel V i vedlegg I til forordning [(EF) 1/2005](eu/32005r0001*).\* \* EFT L 5 av 5. januar 2005.»
-3. Artikkel 3 skal lyde:«Artikkel 31. Vedkommende myndighet skal godkjenne og utstede et godkjenningsnummer til hver kontrollstasjon. Denne godkjenningen kan være begrenset til en bestemt dyreart eller til visse dyrekategorier og til helsetilstand. Medlemsstatene skal underrette Kommisjonen om listen over godkjente kontrollstasjoner og eventuelle ajourføringer.Medlemsstatene skal også underrette Kommisjonen om de nærmere regler for anvendelse av bestemmelsene i artikkel 4 nr. 2, særlig tidsrommet kontrollstasjonene har vært i bruk, og det doble formålet med de godkjente lokalene.2. Kommisjonen skal oppføre kontrollstasjonene på en liste etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*), etter forslag fra vedkommende myndighet i den berørte medlemsstaten.3. Medlemsstatene kan først foreslå kontrollstasjoner når vedkommende myndighet har kontrollert at de oppfyller de relevante kravene, og har godkjent dem. Med sikte på slik godkjenning skal vedkommende myndighet som definert i artikkel 2 nr. 6 i direktiv [90/425/EØF](eu/31990l0425), sørge for at kontrollstasjonene oppfyller alle kravene i vedlegg I til denne forordning, og dessuten skal kontrollstasjonene:ligge i et område som ikke er underkastet forbud eller restriksjoner i samsvar med relevante fellesskapsregler,være underlagt kontroll av en offentlig veterinær som blant annet skal sørge for at bestemmelsene i denne forordning overholdes,drive i samsvar med alle relevante fellesskapsbestemmelser for dyrehelse, forflytning av dyr og vern av dyr ved slakting,være gjenstand for regelmessig kontroll minst to ganger i året for å sikre at godkjenningskravene fortsatt oppfylles.4. I alvorlige tilfeller, særlig med hensyn til dyrs helse eller velferd, skal en medlemsstat oppheve bruken av kontrollsteder som ligger på sitt territorium. Den skal underrette Kommisjonen og de andre medlemsstatene om en slik oppheving og begrunnelsen for den. Opphevelsen av bruken av kontrollsteder kan først heves når Kommisjonen og de øvrige medlemsstatene er blitt underrettet om grunnen til dette.5. Kommisjonen kan etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*), midlertidig oppheve bruken av en kontrollstasjon eller slette den fra listen dersom den kontroll Kommisjonens sakkyndige har foretatt på stedet i henhold til artikkel 28 i nevnte forordning, viser at de relevante fellesskapsreglene ikke overholdes.»
-4. I artikkel 4 skal nytt nummer lyde:«4. Vedkommende myndighet på avgangsstedet skal opplyse om forflytning av dyr som passerer kontrollstasjoner, gjennom systemet for utveksling av opplysninger fastsatt i artikkel 20 i direktiv [90/425/EØF](eu/31990l0425).»
-5. Artikkel 6 skal lyde:«Artikkel 61. Før dyrene forlater kontrollstasjonen, skal den offentlige veterinæren eller en veterinær som vedkommende myndighet har utpekt til dette formål, bekrefte i loggboken som nevnt i vedlegg II til forordning [(EF) nr. 1/2005](eu/32005r0001*), at dyrene er skikket til å fortsette reisen. Medlemsstatene kan fastsette at omkostningene ved veterinærkontroll skal dekkes av den berørte næringsdrivende.2. Reglene for utveksling av opplysninger mellom myndighetene for å oppfylle kravene i denne forordning, skal fastsettes etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*).»
-6. Artikkel 6a skal lyde:«Artikkel 6aDenne forordning skal endres av Rådet, som treffer sin beslutning med kvalifisert flertall etter forslag fra Kommisjonen, særlig med henblikk på tilpasning til den teknologiske og vitenskapelige utvikling, bortsett fra at eventuelle endringer av vedlegget som måtte være nødvendige av hensyn til dyrehelsesituasjonen, kan vedtas etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*).
-7. I artikkel 6b skal første punktum lyde:«Artikkel 6bMedlemsstatene skal anvende bestemmelsene i artikkel 26 i rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) for å straffe enhver overtredelse av bestemmelsene i denne forordning og skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene gjennomføres.»
-8. I vedlegg I gjøres følgende endringer:Overskriften skal lyde:*«VEDLEGG*
-FELLESSKAPSKRITERIER FOR KONTROLLSTASJONER»Avsnitt A skal lyde:«A. HELSE- OG HYGIENETILTAKKontrollstasjonene skalligge i et område og være utformet, innrettet og drevet slik at tilstrekkelig biosikkerhet kan garanteres for å forebygge spredning av alvorlige smittsomme sykdommer til andre driftsenheter og mellom forsendelser av dyr som passerer gjennom de samme lokalene etter hverandre,være utformet, utstyrt og drevet slik at framgangsmåtene for rengjøring og desinfisering kan følges. De skal ha et sted spesielt innrettet til vask av lastebiler. Disse anleggene skal kunne benyttes under alle værforhold,rengjøres og desinfiseres før og etter hver bruk i samsvar med instruks fra offentlig veterinær.Personale og utstyr som kommer i kontakt med de innkvarterte dyrene, skal utelukkende være forbeholdt de aktuelle lokalene med mindre de er blitt rengjort og desinfisert etter at de har vært i kontakt med dyrene eller dyrenes avføring eller urin. Den som har ansvaret for kontrollstasjonen, skal særlig sørge for rent utstyr og vernetøy som utelukkende skal brukes av personer som kommer inn på kontrollstasjonen, og skal stille til disposisjon egnet utstyr til rengjøring og desinfisering av dette.Strøet skal fjernes når en dyreforsendelse flyttes fra en innhegning, og skal etter rengjøring og desinfisering som fastsatt i nr. 1 bokstav c) erstattes av nytt strø.Dyrenes strø, avføring og urin skal ikke fjernes fra lokalene med mindre de har gjennomgått en egnet behandling for å unngå spredning av dyresykdommer.Det skal være passende sanitærpauser mellom to dyreforsendelser som kommer etter hverandre, og pausene skal om nødvendig avpasses etter om dyrene kommer fra en lignende region eller sone eller et lignende rom. Særlig skal kontrollstasjonene være helt tømt for dyr i minst 24 timer etter høyst seks dagers bruk og etter rengjøring og desinfisering, og før ny forsendelse ankommer.Før kontrollstasjonene mottar dyr, skal de:ha begynt rengjøringen og desinfiseringen innen 24 timer etter at alle de dyrene som tidligere oppholdt seg der, er reist, i samsvar med bestemmelsene i artikkel 4 nr. 3 i denne forordning,ha vært uten dyr inntil rengjøringen og desinfiseringen er avsluttet til den offentlige veterinærens tilfredshet.Avsnitt B nr. 1 skal lyde:«1. I tillegg til bestemmelsene i kapittel II og III i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001*), som gjelder for transportmidler i forbindelse med lasting og lossing av dyr, skal hver kontrollstasjon ha egnet utstyr og anlegg tilgjengelig for lasting og lossing av dyr fra transportmidlene. Utstyret og anleggene skal særlig ha sklisikkert gulvbelegg og om nødvendig ha sidevern. Broer, ramper og landganger skal ha side, rekkverk eller annen beskyttelse for å hindre at dyrene faller ned. Laste- og losserampene skal ha minst mulig helling. Gangveier skal ha gulvbelegg som gir minst mulig risiko for at dyrene sklir, og skal være slik konstruert at risikoen for at dyrene skades, blir minst mulig. Det må særlig sørges for at det ikke er åpning eller trinn av betydning mellom gulvet i kjøretøyet og rampen, eller mellom rampen og gulvet i losseområdet slik at dyrene tvinges til å hoppe, eller at de glir eller snubler.»
+2. Artikkel 1 nr. 1 skal lyde:
+
+   «1. Kontrollstasjoner er steder hvor dyrene får hvile i minst 12 timer eller mer i henhold til punkt 1 nr. 5 eller punkt 1 nr. 7 bokstav b) i kapittel V i vedlegg I til forordning [(EF) 1/2005](eu/32005r0001*).\*
+
+   \* EFT L 5 av 5. januar 2005.»
+3. Artikkel 3 skal lyde:
+
+   «Artikkel 3
+
+   1\. Vedkommende myndighet skal godkjenne og utstede et godkjenningsnummer til hver kontrollstasjon. Denne godkjenningen kan være begrenset til en bestemt dyreart eller til visse dyrekategorier og til helsetilstand. Medlemsstatene skal underrette Kommisjonen om listen over godkjente kontrollstasjoner og eventuelle ajourføringer.
+
+   Medlemsstatene skal også underrette Kommisjonen om de nærmere regler for anvendelse av bestemmelsene i artikkel 4 nr. 2, særlig tidsrommet kontrollstasjonene har vært i bruk, og det doble formålet med de godkjente lokalene.
+
+   2\. Kommisjonen skal oppføre kontrollstasjonene på en liste etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*), etter forslag fra vedkommende myndighet i den berørte medlemsstaten.
+
+   3\. Medlemsstatene kan først foreslå kontrollstasjoner når vedkommende myndighet har kontrollert at de oppfyller de relevante kravene, og har godkjent dem. Med sikte på slik godkjenning skal vedkommende myndighet som definert i artikkel 2 nr. 6 i direktiv [90/425/EØF](eu/31990l0425), sørge for at kontrollstasjonene oppfyller alle kravene i vedlegg I til denne forordning, og dessuten skal kontrollstasjonene:
+
+   1. ligge i et område som ikke er underkastet forbud eller restriksjoner i samsvar med relevante fellesskapsregler,
+   2. være underlagt kontroll av en offentlig veterinær som blant annet skal sørge for at bestemmelsene i denne forordning overholdes,
+   3. drive i samsvar med alle relevante fellesskapsbestemmelser for dyrehelse, forflytning av dyr og vern av dyr ved slakting,
+   4. være gjenstand for regelmessig kontroll minst to ganger i året for å sikre at godkjenningskravene fortsatt oppfylles.
+
+   4\. I alvorlige tilfeller, særlig med hensyn til dyrs helse eller velferd, skal en medlemsstat oppheve bruken av kontrollsteder som ligger på sitt territorium. Den skal underrette Kommisjonen og de andre medlemsstatene om en slik oppheving og begrunnelsen for den. Opphevelsen av bruken av kontrollsteder kan først heves når Kommisjonen og de øvrige medlemsstatene er blitt underrettet om grunnen til dette.
+
+   5\. Kommisjonen kan etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*), midlertidig oppheve bruken av en kontrollstasjon eller slette den fra listen dersom den kontroll Kommisjonens sakkyndige har foretatt på stedet i henhold til artikkel 28 i nevnte forordning, viser at de relevante fellesskapsreglene ikke overholdes.»
+4. I artikkel 4 skal nytt nummer lyde:
+
+   «4. Vedkommende myndighet på avgangsstedet skal opplyse om forflytning av dyr som passerer kontrollstasjoner, gjennom systemet for utveksling av opplysninger fastsatt i artikkel 20 i direktiv [90/425/EØF](eu/31990l0425).»
+5. Artikkel 6 skal lyde:
+
+   «Artikkel 6
+
+   1\. Før dyrene forlater kontrollstasjonen, skal den offentlige veterinæren eller en veterinær som vedkommende myndighet har utpekt til dette formål, bekrefte i loggboken som nevnt i vedlegg II til forordning [(EF) nr. 1/2005](eu/32005r0001*), at dyrene er skikket til å fortsette reisen. Medlemsstatene kan fastsette at omkostningene ved veterinærkontroll skal dekkes av den berørte næringsdrivende.
+
+   2\. Reglene for utveksling av opplysninger mellom myndighetene for å oppfylle kravene i denne forordning, skal fastsettes etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*).»
+6. Artikkel 6a skal lyde:
+
+   «Artikkel 6a
+
+   Denne forordning skal endres av Rådet, som treffer sin beslutning med kvalifisert flertall etter forslag fra Kommisjonen, særlig med henblikk på tilpasning til den teknologiske og vitenskapelige utvikling, bortsett fra at eventuelle endringer av vedlegget som måtte være nødvendige av hensyn til dyrehelsesituasjonen, kan vedtas etter framgangsmåten fastsatt i artikkel 31 nr. 2 i forordning [(EF) nr. 1/2005](eu/32005r0001*).
+7. I artikkel 6b skal første punktum lyde:
+
+   «Artikkel 6b
+
+   Medlemsstatene skal anvende bestemmelsene i artikkel 26 i rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) for å straffe enhver overtredelse av bestemmelsene i denne forordning og skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene gjennomføres.»
+8. I vedlegg I gjøres følgende endringer:
+
+   1. Overskriften skal lyde:
+
+      *«VEDLEGG*
+      FELLESSKAPSKRITERIER FOR KONTROLLSTASJONER»
+   2. Avsnitt A skal lyde:
+
+      «A. HELSE- OG HYGIENETILTAK
+
+      1. Kontrollstasjonene skal
+
+         1. ligge i et område og være utformet, innrettet og drevet slik at tilstrekkelig biosikkerhet kan garanteres for å forebygge spredning av alvorlige smittsomme sykdommer til andre driftsenheter og mellom forsendelser av dyr som passerer gjennom de samme lokalene etter hverandre,
+         2. være utformet, utstyrt og drevet slik at framgangsmåtene for rengjøring og desinfisering kan følges. De skal ha et sted spesielt innrettet til vask av lastebiler. Disse anleggene skal kunne benyttes under alle værforhold,
+         3. rengjøres og desinfiseres før og etter hver bruk i samsvar med instruks fra offentlig veterinær.
+      2. Personale og utstyr som kommer i kontakt med de innkvarterte dyrene, skal utelukkende være forbeholdt de aktuelle lokalene med mindre de er blitt rengjort og desinfisert etter at de har vært i kontakt med dyrene eller dyrenes avføring eller urin. Den som har ansvaret for kontrollstasjonen, skal særlig sørge for rent utstyr og vernetøy som utelukkende skal brukes av personer som kommer inn på kontrollstasjonen, og skal stille til disposisjon egnet utstyr til rengjøring og desinfisering av dette.
+      3. Strøet skal fjernes når en dyreforsendelse flyttes fra en innhegning, og skal etter rengjøring og desinfisering som fastsatt i nr. 1 bokstav c) erstattes av nytt strø.
+      4. Dyrenes strø, avføring og urin skal ikke fjernes fra lokalene med mindre de har gjennomgått en egnet behandling for å unngå spredning av dyresykdommer.
+      5. Det skal være passende sanitærpauser mellom to dyreforsendelser som kommer etter hverandre, og pausene skal om nødvendig avpasses etter om dyrene kommer fra en lignende region eller sone eller et lignende rom. Særlig skal kontrollstasjonene være helt tømt for dyr i minst 24 timer etter høyst seks dagers bruk og etter rengjøring og desinfisering, og før ny forsendelse ankommer.
+      6. Før kontrollstasjonene mottar dyr, skal de:
+
+         1. ha begynt rengjøringen og desinfiseringen innen 24 timer etter at alle de dyrene som tidligere oppholdt seg der, er reist, i samsvar med bestemmelsene i artikkel 4 nr. 3 i denne forordning,
+         2. ha vært uten dyr inntil rengjøringen og desinfiseringen er avsluttet til den offentlige veterinærens tilfredshet.
+   3. Avsnitt B nr. 1 skal lyde:
+
+      «1. I tillegg til bestemmelsene i kapittel II og III i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001*), som gjelder for transportmidler i forbindelse med lasting og lossing av dyr, skal hver kontrollstasjon ha egnet utstyr og anlegg tilgjengelig for lasting og lossing av dyr fra transportmidlene. Utstyret og anleggene skal særlig ha sklisikkert gulvbelegg og om nødvendig ha sidevern. Broer, ramper og landganger skal ha side, rekkverk eller annen beskyttelse for å hindre at dyrene faller ned. Laste- og losserampene skal ha minst mulig helling. Gangveier skal ha gulvbelegg som gir minst mulig risiko for at dyrene sklir, og skal være slik konstruert at risikoen for at dyrene skades, blir minst mulig. Det må særlig sørges for at det ikke er åpning eller trinn av betydning mellom gulvet i kjøretøyet og rampen, eller mellom rampen og gulvet i losseområdet slik at dyrene tvinges til å hoppe, eller at de glir eller snubler.»
 9. Vedlegg II oppheves.
 
 ### Artikkel 37. Ikrafttredelse og anvendelsesdato
@@ -609,8 +858,21 @@ TEKNISKE BESTEMMELSER
 SKIKKETHET TIL TRANSPORT
 
 1. Ingen dyr skal transporteres med mindre de er skikket til å tåle den påtenkte reisen, og alle dyr skal transporteres under slike forhold at de ikke kommer til skade eller påføres unødig lidelse.
-2. Dyr som er skadet eller syke, eller har fysiologiske skavanker eller viser patologiske forandringer, skal ikke anses for å være skikket til transport, særlig:dyr som ikke kan forflytte seg uten smerter eller gå uten hjelp,dyr som har alvorlig åpent sår eller prolaps,drektige dyr som er minst 90 % inne i drektighetsperioden, eller dyr som har født i løpet av forutgående uke,nyfødte pattedyr med navle som ikke er fullstendig leget,svin på under tre uker, lam på under én uke og kalver på under ti dager, med mindre de skal transporteres over en avstand på under 100 km,hunder og katter på under åtte uker, med mindre de er ledsaget av sin mor,hjortedyr i det tidsrommet takkene vokser ut.
-3. Syke eller skadde dyr kan imidlertid anses for å være skikket til transport dersom de:er lettere skadet eller syke og ikke vil bli påført ytterligere lidelser som følge av transporten; i tvilstilfelle skal det søkes råd fra veterinær,transporteres innenfor rammen av rådsdirektiv [86/609/EØF](eu/31986l0609*)1 dersom sykdommen eller skaden er ledd i et forskningsprogram,transporteres under tilsyn av veterinær med sikte på eller etter veterinærbehandling eller -diagnose; slik transport kan imidlertid bare tillates dersom de aktuelle dyrene ikke påføres unødig lidelse eller utsettes for mishandling,har gjennomgått et veterinærinngrep som ledd i driftsmetoder, slik som avhorning eller kastrering, forutsatt at sårene er fullstendig leget.
+2. Dyr som er skadet eller syke, eller har fysiologiske skavanker eller viser patologiske forandringer, skal ikke anses for å være skikket til transport, særlig:
+
+   1. dyr som ikke kan forflytte seg uten smerter eller gå uten hjelp,
+   2. dyr som har alvorlig åpent sår eller prolaps,
+   3. drektige dyr som er minst 90 % inne i drektighetsperioden, eller dyr som har født i løpet av forutgående uke,
+   4. nyfødte pattedyr med navle som ikke er fullstendig leget,
+   5. svin på under tre uker, lam på under én uke og kalver på under ti dager, med mindre de skal transporteres over en avstand på under 100 km,
+   6. hunder og katter på under åtte uker, med mindre de er ledsaget av sin mor,
+   7. hjortedyr i det tidsrommet takkene vokser ut.
+3. Syke eller skadde dyr kan imidlertid anses for å være skikket til transport dersom de:
+
+   1. er lettere skadet eller syke og ikke vil bli påført ytterligere lidelser som følge av transporten; i tvilstilfelle skal det søkes råd fra veterinær,
+   2. transporteres innenfor rammen av rådsdirektiv [86/609/EØF](eu/31986l0609*)1 dersom sykdommen eller skaden er ledd i et forskningsprogram,
+   3. transporteres under tilsyn av veterinær med sikte på eller etter veterinærbehandling eller -diagnose; slik transport kan imidlertid bare tillates dersom de aktuelle dyrene ikke påføres unødig lidelse eller utsettes for mishandling,
+   4. har gjennomgått et veterinærinngrep som ledd i driftsmetoder, slik som avhorning eller kastrering, forutsatt at sårene er fullstendig leget.
 4. Dyr som blir syke eller kommer til skade under transport, skal holdes atskilt fra andre dyr og gis førstehjelp så raskt som mulig. De skal gis egnet veterinærbehandling og om nødvendig nødslaktes eller avlives på en måte som sparer dem for unødig lidelse.
 5. Det skal ikke brukes sedativer på dyr som skal transporters, med mindre det er strengt tatt nødvendig for å sikre dyrenes velferd, og skal da bare brukes under tilsyn av veterinær.
 6. Dyr i laktasjon av artene storfe, sau og geit som ikke er sammen med sitt avkom, skal melkes med høyst 12 timers mellomrom.
@@ -623,7 +885,33 @@ TRANSPORTMIDLER
 
 ### 1. Bestemmelser for alle transportmidler
 
-*Tilleggsbestemmelser om beitetransport som utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*Transportmidler og containere samt utstyr skal være utformet og innrettet og skal vedlikeholdes og brukes på en slik måte at:dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet tilgodeses,dyrene beskyttes mot ugunstig vær, ekstreme temperaturer og ugunstige endringer i klimatiske forhold,*Tilleggsbestemmelser om tamrein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14).*de kan rengjøres og desinfiseres,dyrene hindres i å rømme eller falle ut og kan motstå bevegelsesrelaterte belastninger,dyrene er sikret en luftkvalitet og en -mengde som er passende for den art som transporteres,det er tilgang til dyrene slik at de kan kontrolleres og stelles,*Tilleggsbestemmelse om nødadgang når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8)*.gulvene er sklisikre,gulvets overflate begrenser utslipp av urin og avføring til et minimum,det er tilstrekkelig belysning til at dyrene kan kontrolleres og stelles under transporten.Det skal være tilstrekkelig plass i det rommet hvor dyrene oppholder seg, og på alle nivåer, til at det kan sikres tilstrekkelig ventilasjon over dyrene når de står i naturlig oppreist stilling uten at deres naturlige bevegelser hindres.For ville dyr og for andre arter enn enhovede husdyr eller husdyr av artene storfe, sau, geit og svin skal følgende dokumenter ledsage dyrene:en meddelelse om at dyrene er ville, sky eller farlige,skriftlig instruks om fôring og vanning og eventuelle særlige behov for stell.Skillevegger skal være sterke nok til å tåle dyrenes vekt. Utstyr skal være utformet slik at det kan betjenes raskt og enkelt.*Tilleggsbestemmelser om hest når reisen utelukkende foregår innenlands er fastsatt i [§ 12](forskrift/2012-02-08-139/§12)*.Smågris på under 10 kg, lam på under 20 kg, kalver på under seks måneder og føll på under fire måneder skal ha passende strø eller tilsvarende materiale som gir dem den trivsel som er passende for deres art, det antall dyr som transporteres, reisetid og værforhold. Dette materialet skal sikre passende absorpsjon av urin og avføring.Uten at det berører fellesskapsreglene eller nasjonale regler om sikkerhet for besetning og passasjerer, skal det ved transport med fartøy, luftfartøy eller jernbanevogn, som skal vare i over tre timer, finnes utstyr som er egnet for avliving av den aktuelle arten, tilgjengelig for ledsageren eller en person om bord som har de nødvendige ferdigheter til å utføre denne oppgaven humant og effektivt.
+*Tilleggsbestemmelser om beitetransport som utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
+
+- Transportmidler og containere samt utstyr skal være utformet og innrettet og skal vedlikeholdes og brukes på en slik måte at:
+
+  1. dyrene ikke kommer til skade eller påføres lidelse, og slik at dyrenes sikkerhet tilgodeses,
+  2. dyrene beskyttes mot ugunstig vær, ekstreme temperaturer og ugunstige endringer i klimatiske forhold,
+
+     *Tilleggsbestemmelser om tamrein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14).*
+  3. de kan rengjøres og desinfiseres,
+  4. dyrene hindres i å rømme eller falle ut og kan motstå bevegelsesrelaterte belastninger,
+  5. dyrene er sikret en luftkvalitet og en -mengde som er passende for den art som transporteres,
+  6. det er tilgang til dyrene slik at de kan kontrolleres og stelles,
+
+     *Tilleggsbestemmelse om nødadgang når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8)*.
+  7. gulvene er sklisikre,
+  8. gulvets overflate begrenser utslipp av urin og avføring til et minimum,
+  9. det er tilstrekkelig belysning til at dyrene kan kontrolleres og stelles under transporten.
+- Det skal være tilstrekkelig plass i det rommet hvor dyrene oppholder seg, og på alle nivåer, til at det kan sikres tilstrekkelig ventilasjon over dyrene når de står i naturlig oppreist stilling uten at deres naturlige bevegelser hindres.
+- For ville dyr og for andre arter enn enhovede husdyr eller husdyr av artene storfe, sau, geit og svin skal følgende dokumenter ledsage dyrene:
+
+  1. en meddelelse om at dyrene er ville, sky eller farlige,
+  2. skriftlig instruks om fôring og vanning og eventuelle særlige behov for stell.
+- Skillevegger skal være sterke nok til å tåle dyrenes vekt. Utstyr skal være utformet slik at det kan betjenes raskt og enkelt.
+
+  *Tilleggsbestemmelser om hest når reisen utelukkende foregår innenlands er fastsatt i [§ 12](forskrift/2012-02-08-139/§12)*.
+- Smågris på under 10 kg, lam på under 20 kg, kalver på under seks måneder og føll på under fire måneder skal ha passende strø eller tilsvarende materiale som gir dem den trivsel som er passende for deres art, det antall dyr som transporteres, reisetid og værforhold. Dette materialet skal sikre passende absorpsjon av urin og avføring.
+- Uten at det berører fellesskapsreglene eller nasjonale regler om sikkerhet for besetning og passasjerer, skal det ved transport med fartøy, luftfartøy eller jernbanevogn, som skal vare i over tre timer, finnes utstyr som er egnet for avliving av den aktuelle arten, tilgjengelig for ledsageren eller en person om bord som har de nødvendige ferdigheter til å utføre denne oppgaven humant og effektivt.
 
 ### 2. Tilleggsbestemmelser for vei- eller jernbanetransport
 
@@ -635,7 +923,10 @@ TRANSPORTMIDLER
 
 ### 3. Tilleggsbestemmelser for rorofartøy
 
-- Før lasting på et fartøy skal skipsføreren kontrollere at fartøyet når kjøretøyet lastes på:lukkede dekk, har egnet ventilasjonsanlegg og er utstyrt med et alarmsystem og en passende nødstrømsforsyning i tilfelle strømbrudd,åpne dekk, gir tilstrekkelig vern mot sjøvann.
+- Før lasting på et fartøy skal skipsføreren kontrollere at fartøyet når kjøretøyet lastes på:
+
+  1. lukkede dekk, har egnet ventilasjonsanlegg og er utstyrt med et alarmsystem og en passende nødstrømsforsyning i tilfelle strømbrudd,
+  2. åpne dekk, gir tilstrekkelig vern mot sjøvann.
 - Veigående kjøretøyer og jernbanevogner skal være utstyrt med et tilstrekkelig antall festepunkter som er utformet og plassert, og som vedlikeholdes på en slik måte, at de kan festes forsvarlig til fartøyet. Veigående kjøretøyer og jernbanevogner skal være festet til fartøyet før sjøreisen begynner for å hindre at de flytter seg når fartøyet beveger seg.
 
 ### 4. Tilleggsbestemmelser for lufttransport
@@ -655,18 +946,66 @@ TRANSPORTPRAKSIS
 ### 1. Lasting, lossing og håndtering
 
 - Det skal tas behørig hensyn til det behovet visse dyrearter, som for eksempel ville dyr, har for å venne seg til transportmiddelet før den planlagte reisen.
-- Dersom lasting eller lossing varer i over fire timer, skal, med unntak for fjørfe:egnet utstyr være tilgjengelige for å anbringe, fôre og vanne dyrene utenfor transportmiddelet uten at dyrene tjores,arbeidet overvåkes av en godkjent veterinær, og det skal treffes særlige tiltak for å sikre at dyrenes velferd er behørig ivaretatt under dette arbeidet.*Anlegg og framgangsmåter*
-- Utstyret til lasting og lossing av dyrene, herunder gulvet, skal være utformet og innrettet samt vedlikeholdes og brukes på en slik måte at:dyrene ikke kommer til skade eller utsettes for lidelse, at dyrenes opphisselse og engstelse begrenses mest mulig, og at deres sikkerhet ivaretas. Særlig skal overflatene ikke være glatte, og det skal være montert sidevegger slik at dyrene ikke kan rømme.de kan rengjøres og desinfiseres,
-- Ramper skal ikke ha et større fall enn en vinkel på 20 grader, det vil si 36,4 % horisontalt for svin, kalver og hester, og en vinkel på 26 grader 34 minutter, det vil si 50 % horisontalt for sau og storfe, bortsett fra kalver. Dersom fallet er brattere enn 10 grader, det vil si 17,6 % horisontalt, skal rampene være utstyrt med et system, for eksempel fotlister, som sikrer at dyrene klatrer eller går ned uten risiko eller vanskeligheter,løftelem og etasjedekk skal ha sikkerhetsbarrierer for å hindre at dyrene faller eller rømmer under lasting og lossing.*Tilleggsbestemmelser om lastelem når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
+- Dersom lasting eller lossing varer i over fire timer, skal, med unntak for fjørfe:
+
+  1. egnet utstyr være tilgjengelige for å anbringe, fôre og vanne dyrene utenfor transportmiddelet uten at dyrene tjores,
+  2. arbeidet overvåkes av en godkjent veterinær, og det skal treffes særlige tiltak for å sikre at dyrenes velferd er behørig ivaretatt under dette arbeidet.
+
+  *Anlegg og framgangsmåter*
+- Utstyret til lasting og lossing av dyrene, herunder gulvet, skal være utformet og innrettet samt vedlikeholdes og brukes på en slik måte at:
+
+  1. dyrene ikke kommer til skade eller utsettes for lidelse, at dyrenes opphisselse og engstelse begrenses mest mulig, og at deres sikkerhet ivaretas. Særlig skal overflatene ikke være glatte, og det skal være montert sidevegger slik at dyrene ikke kan rømme.
+  2. de kan rengjøres og desinfiseres,
+- 1. Ramper skal ikke ha et større fall enn en vinkel på 20 grader, det vil si 36,4 % horisontalt for svin, kalver og hester, og en vinkel på 26 grader 34 minutter, det vil si 50 % horisontalt for sau og storfe, bortsett fra kalver. Dersom fallet er brattere enn 10 grader, det vil si 17,6 % horisontalt, skal rampene være utstyrt med et system, for eksempel fotlister, som sikrer at dyrene klatrer eller går ned uten risiko eller vanskeligheter,
+  2. løftelem og etasjedekk skal ha sikkerhetsbarrierer for å hindre at dyrene faller eller rømmer under lasting og lossing.
+
+     *Tilleggsbestemmelser om lastelem når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
 - Varer som transporters i samme transportmiddel som dyr, skal være plassert slik at de ikke påfører dyrene skade, lidelse eller engstelse.
 - Det skal sørges for passende belysning under lasting og lossing.
-- Dersom containere med dyr er plassert oppå hverandre på transportmiddelet, skal det treffes nødvendig tiltak for å:unngå, eller når det gjelder fjørfe, kaniner og pelsdyr, begrense muligheten for at urin og avføring treffer dyrene som er plassert under,sikre at containerne står støtt,sikre at ventilasjonen ikke hindres.*Håndtering*
-- Det skal være forbudt å:slå eller sparke dyr,utsette særlige følsomme deler av dyrenes kropp for press på en slik måte at de påføres unødig smerte eller lidelse,holde dyrene løftet ved hjelp av mekaniske midler,løfte eller dra dyrene etter hode, ører, horn, bein, hale eller pels eller håndtere dem på en slik måte at de påføres unødig smerte eller lidelse,bruke piggstav eller andre spisse gjenstander,med vilje og vitende sperre veien for dyr som blir drevet eller ledet gjennom et område der dyr blir håndtert.*Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10)*.
+- Dersom containere med dyr er plassert oppå hverandre på transportmiddelet, skal det treffes nødvendig tiltak for å:
+
+  1. unngå, eller når det gjelder fjørfe, kaniner og pelsdyr, begrense muligheten for at urin og avføring treffer dyrene som er plassert under,
+  2. sikre at containerne står støtt,
+  3. sikre at ventilasjonen ikke hindres.
+
+  *Håndtering*
+- Det skal være forbudt å:
+
+  1. slå eller sparke dyr,
+  2. utsette særlige følsomme deler av dyrenes kropp for press på en slik måte at de påføres unødig smerte eller lidelse,
+  3. holde dyrene løftet ved hjelp av mekaniske midler,
+  4. løfte eller dra dyrene etter hode, ører, horn, bein, hale eller pels eller håndtere dem på en slik måte at de påføres unødig smerte eller lidelse,
+  5. bruke piggstav eller andre spisse gjenstander,
+  6. med vilje og vitende sperre veien for dyr som blir drevet eller ledet gjennom et område der dyr blir håndtert.
+
+     *Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10)*.
 - Bruk av utstyr som gir elektrisk støt, skal så vidt mulig unngås. Slike instrumenter skal under enhver omstendighet bare brukes for fullvoksne storfe og svin som ikke vil flytte seg, og bare når de har plass til å flytte seg framover. Støtene må høyst vare i ett sekund, det skal være passende mellomrom mellom dem, og de må bare påføres bakpartiets muskulatur. Det må ikke brukes støt gjentatte ganger dersom dyret ikke reagerer.
 - Markeder og oppsamlingssentraler skal ha utstyr til å tjore dyrene om nødvendig. Dyr som ikke er vant til å være bundet, skal være ubundet. Dyr skal ha tilgang til vann.
-- Dyr skal ikke bindes fast ved horn, gevir eller nesering, og beina skal ikke bindes sammen. Kalver skal ikke ha munnkurv. Enhovede husdyr på over åtte måneder, unntatt føll som ikke er dressert, skal ha grime under transport.Når dyr må bindes, skal tau eller andre festanordninger være:så sterke at de ikke slites under normale transportforhold,slik at dyrene om nødvendig kan legge seg ned, ete og drikke,slik konstruert at det ikke oppstår fare for kvelning eller skade, og slik at dyrene raskt kan frigjøres.*Atskillelse*
-- Dyr skal håndteres og transporteres atskilt når det gjelder:dyr av forskjellig arter,dyr av betydelig forskjellig størrelse eller alder,voksne avlsråner eller -hingster,kjønnsmodne hanndyr og hunndyr,*Tilleggsbestemmelser om strutsefugler når reisen utelukkende foregår innenlands er fastsatt i [§ 16](forskrift/2012-02-08-139/§16).*dyr med horn eller gevir og dyr uten horn eller gevir,*Tilleggsbestemmelser om rein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14)*.dyr som er fiendtlig innstilt mot hverandre,dyr som er bundet og dyr som ikke er bundet.
-- Punkt 1 nr. 12 bokstav a), b), c) og e) får ikke anvendelse dersom dyrene er alt opp i forenlige grupper, dersom de er vant til hverandre, dersom de vil lide ved å være atskilt, eller dersom hunndyr blir ledsaget av avhengig avkom.*Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*
+- Dyr skal ikke bindes fast ved horn, gevir eller nesering, og beina skal ikke bindes sammen. Kalver skal ikke ha munnkurv. Enhovede husdyr på over åtte måneder, unntatt føll som ikke er dressert, skal ha grime under transport.
+
+  Når dyr må bindes, skal tau eller andre festanordninger være:
+
+  1. så sterke at de ikke slites under normale transportforhold,
+  2. slik at dyrene om nødvendig kan legge seg ned, ete og drikke,
+  3. slik konstruert at det ikke oppstår fare for kvelning eller skade, og slik at dyrene raskt kan frigjøres.
+
+  *Atskillelse*
+- Dyr skal håndteres og transporteres atskilt når det gjelder:
+
+  1. dyr av forskjellig arter,
+  2. dyr av betydelig forskjellig størrelse eller alder,
+  3. voksne avlsråner eller -hingster,
+  4. kjønnsmodne hanndyr og hunndyr,
+
+     *Tilleggsbestemmelser om strutsefugler når reisen utelukkende foregår innenlands er fastsatt i [§ 16](forskrift/2012-02-08-139/§16).*
+  5. dyr med horn eller gevir og dyr uten horn eller gevir,
+
+     *Tilleggsbestemmelser om rein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14)*.
+  6. dyr som er fiendtlig innstilt mot hverandre,
+  7. dyr som er bundet og dyr som ikke er bundet.
+- Punkt 1 nr. 12 bokstav a), b), c) og e) får ikke anvendelse dersom dyrene er alt opp i forenlige grupper, dersom de er vant til hverandre, dersom de vil lide ved å være atskilt, eller dersom hunndyr blir ledsaget av avhengig avkom.
+
+  *Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*
 
 ### 2. Under transport
 
@@ -676,7 +1015,9 @@ TRANSPORTPRAKSIS
 - Dyr av hestefamilien som ikke er dressert, skal ikke transporteres i grupper på mer enn fire dyr.
 - Punkt 1 nr. 10–13 får etter nødvendige forandringer, tilsvarende anvendelse for transportmiddelet.
 - Det skal sørges for tilstrekkelig ventilasjon som fullt ut oppfyller dyrenes behov, og som er tilpasset det antall dyr og den dyreart som transporteres, samt de værforhold som forventes under reisen. Containere skal plasseres slik at ventilasjon ikke hindres.
-- Under transport skal dyrene med passende mellomrom og særlig i henhold til kapittel V, tilbys vann, fôr og hvile tilpasset deres art og alder. Med mindre annet er fastsatt, skal pattedyr og fugler fôres minst hver 24. time og vannes minst hver 12. time. Vann og fôr skal være av høy kvalitet og gis dyrene på en måte som begrenser risikoen for kontaminering mest mulig. Det skal tas hensyn til dyrenes behov for å vennes til fôrings- og vanningsmåten.*Tilleggsbestemmelser om hest når reisen utelukkende foregår innenlands er fastsatt i [§ 12](forskrift/2012-02-08-139/§12).*
+- Under transport skal dyrene med passende mellomrom og særlig i henhold til kapittel V, tilbys vann, fôr og hvile tilpasset deres art og alder. Med mindre annet er fastsatt, skal pattedyr og fugler fôres minst hver 24. time og vannes minst hver 12. time. Vann og fôr skal være av høy kvalitet og gis dyrene på en måte som begrenser risikoen for kontaminering mest mulig. Det skal tas hensyn til dyrenes behov for å vennes til fôrings- og vanningsmåten.
+
+  *Tilleggsbestemmelser om hest når reisen utelukkende foregår innenlands er fastsatt i [§ 12](forskrift/2012-02-08-139/§12).*
 
 ### KAPITTEL IV
 TILLEGGSBESTEMMELSER FOR FARTØYER TIL TRANSPORT AV LEVENDE DYR ELLER FARTØYER TIL TRANSPORT AV CONTAINERE
@@ -685,13 +1026,22 @@ TILLEGGSBESTEMMELSER FOR FARTØYER TIL TRANSPORT AV LEVENDE DYR ELLER FARTØYER 
 Krav til konstruksjon av og utstyr på fartøyer til transport av levende dyr
 
 1. Rekkverket i innhegninger og på lastedekk skal ha tilstrekkelig styrke i forhold til de dyrene som transporteres. Et klassifiseringsselskap godkjent av vedkommende myndighet, skal kontrollere styrkeberegningen i forbindelse med bygging eller ombygging av fartøyet til transport av levende dyr.
-2. Rommene som dyrene skal transporteres i, skal være utstyr med ventilasjonsanlegg med tilstrekkelig kapasitet til å skifte ut all luft på følgende måte:40 ganger i timen dersom rommet er fullstendig lukket og har en fri høyde på 2,30 meter eller under,30 ganger i timen dersom rommet er fullstendig lukket og har en fri høyde på over 2,30 meter,75 % av ovennevnte relevante kapasitet dersom rommet er delvis lukket.
+2. Rommene som dyrene skal transporteres i, skal være utstyr med ventilasjonsanlegg med tilstrekkelig kapasitet til å skifte ut all luft på følgende måte:
+
+   1. 40 ganger i timen dersom rommet er fullstendig lukket og har en fri høyde på 2,30 meter eller under,
+   2. 30 ganger i timen dersom rommet er fullstendig lukket og har en fri høyde på over 2,30 meter,
+   3. 75 % av ovennevnte relevante kapasitet dersom rommet er delvis lukket.
 3. Kapasiteten til lagring eller framstilling av ferskvann skal være passende for å oppfylle kravene om vann fastsatt i kapittel VI, tatt i betraktning det høyeste antallet og den typen dyr som skal transporteres samt lengste varighet av den planlagte reisen.
 4. Ferskvannssystemet skal kunne kontinuerlig forsyne alle områder der det er levende dyr, med ferskvann, og det skal være et tilstrekkelig antall beholdere tilgjengelig for å sikre at alle dyrene har lett adgang til ferskvann hele tiden. Alternativt pumpeutstyr skal være tilgjengelig for å sikre vannforsyning dersom hovedpumpesystemet skulle svikte.
 5. Avløpssystemet skal ha tilstrekkelig kapasitet til å lede bort væske fra innhegninger og lastedekk under alle forhold. Væskene skal via avløpsrør og kanaler samles opp i brønner eller tanker som kan tømmes for avløpsvann ved hjelp av pumper eller ejektorer. Alternativt pumpeutstyr skal være tilgjengelig for å sikre avløp dersom hovedpumpesystemet svikter.
 6. Områder der det er dyr, gangveier og ramper som fører til disse områdene, skal ha tilstrekkelig belysning. Det skal være nødbelysning tilgjengelig dersom hovedstrømforsyningen skulle svikte. Det skal finnes tilstrekkelig bærbar belysning til at ledsageren kan foreta passende kontroll og stell av dyrene.
 7. Det skal være et brannslokkingssystem passende installert i alle områder der det er dyr, og brannslokkingsutstyret innenfor disse områdene skal være i samsvar med de seneste standarder i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs (](traktat/1974-11-01-1)SOLAS-konvensjonen) hva gjelder brannvern, brannvarsling og brannslokking.
-8. I styrehuset skal det være et overvåkings-, kontroll- og alarmsystem for følgende systemer for dyrene:ventilasjon,ferskvannsforsyning og avløp,belysning,framstilling av ferskvann, om nødvendig.
+8. I styrehuset skal det være et overvåkings-, kontroll- og alarmsystem for følgende systemer for dyrene:
+
+   1. ventilasjon,
+   2. ferskvannsforsyning og avløp,
+   3. belysning,
+   4. framstilling av ferskvann, om nødvendig.
 9. Hovedstrømforsyningen skal være tilstrekkelig til å forsyne systemene nevnt i punkt 2, 4, 5 og 6, med strøm hele tiden under normale driftsforhold på fartøyer til transport av levende dyr. Nødstrømforsyningen skal være tilstrekkelig til å erstatte hovedstrømforsyningen kontinuerlig i tre dager.
 
 ### AVSNITT 2
@@ -721,19 +1071,45 @@ VANNINGS- OG FÔRINGSHYPPIGHET, REISE- OG HVILETIDER
 
 - Kravene fastsatt i dette avsnitt får anvendelse for flytting av enhovede husdyr, unntatt registrerte dyr av hestefamilien samt husdyr av artene storfe, sau, geit og svin, unntatt ved lufttransport.
 - Reisetiden for dyr av artene nevnt i punkt 1 nr. 1, skal ikke overstige åtte timer.
-- Den lengste reisetiden i punkt 1 nr. 2 kan utvides dersom tilleggskravene i kapittel VI er oppfylt.*Tilleggsbestemmelser om reisetider når reisen utelukkende foregår innenlands er fastsatt i [§ 9](forskrift/2012-02-08-139/§9).*
-- Når det benyttes veigående kjøretøyer som oppfyller kravene i punkt 1 nr. 3, gjelder følgende vannings- og fôringshyppighet, reise- og hviletider:*Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*Kalver, lam, kje og føll som ikke er avvent, og som fremdeles får melk, samt smågris som ikke er avvent, må etter ni timers reise gis hviletid på minst én time hvor de vannes og om nødvendig fôres. Etter denne hviletiden kan de transporteres i ytterligere ni timer.Svin kan transporteres i høyst 24 timer. Under reisen må de ha kontinuerlig tilgang til vann.*Tilleggsbestemmelser om vanntilgang når reisen utelukkende foregår innenlands er fastsatt i [§ 9](forskrift/2012-02-08-139/§9)*.Enhovede husdyr kan transporteres i høyst 24 timer. Under reisen må de vannes og om nødvendig fôres hver åttende time.Alle andre dyr av artene nevnt i punkt 1 nr. 1, må etter 14 timers reise gis en hviletid på minst én time hvor de vannes og om nødvendig fôres. Etter denne hviletiden kan de transporteres i ytterligere 14 timer.
-- Etter den fastsatte reisetiden, må dyrene losses, fôres og vannes samt få hvile i minst 24 timer.*Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*
+- Den lengste reisetiden i punkt 1 nr. 2 kan utvides dersom tilleggskravene i kapittel VI er oppfylt.
+
+  *Tilleggsbestemmelser om reisetider når reisen utelukkende foregår innenlands er fastsatt i [§ 9](forskrift/2012-02-08-139/§9).*
+- Når det benyttes veigående kjøretøyer som oppfyller kravene i punkt 1 nr. 3, gjelder følgende vannings- og fôringshyppighet, reise- og hviletider:
+
+  *Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*
+
+  1. Kalver, lam, kje og føll som ikke er avvent, og som fremdeles får melk, samt smågris som ikke er avvent, må etter ni timers reise gis hviletid på minst én time hvor de vannes og om nødvendig fôres. Etter denne hviletiden kan de transporteres i ytterligere ni timer.
+  2. Svin kan transporteres i høyst 24 timer. Under reisen må de ha kontinuerlig tilgang til vann.
+
+  *Tilleggsbestemmelser om vanntilgang når reisen utelukkende foregår innenlands er fastsatt i [§ 9](forskrift/2012-02-08-139/§9)*.
+
+  1. Enhovede husdyr kan transporteres i høyst 24 timer. Under reisen må de vannes og om nødvendig fôres hver åttende time.
+  2. Alle andre dyr av artene nevnt i punkt 1 nr. 1, må etter 14 timers reise gis en hviletid på minst én time hvor de vannes og om nødvendig fôres. Etter denne hviletiden kan de transporteres i ytterligere 14 timer.
+- Etter den fastsatte reisetiden, må dyrene losses, fôres og vannes samt få hvile i minst 24 timer.
+
+  *Tilleggsbestemmelser om beitetransport når reisen utelukkende foregår innenlands er fastsatt i [§ 10](forskrift/2012-02-08-139/§10).*
 - Dyr må ikke transporteres med tog dersom lengste reisetid overstiger den tiden som er fastsatt i punkt 1 nr. 2. Reisetiden fastsatt i punkt 1 nr. 4, skal imidlertid få anvendelse når vilkårene fastsatt i punkt 1 nr. 3 4, med unntak av hviletidene, er oppfylt.
-- Dyr må ikke transporteres til sjøs dersom lengste reisetid overstiger den tiden som er fastsatt i punkt 1 nr. 2, med mindre vilkårene fastsatt i punkt 1 nr. 3 og 4, med unntak av reise- og hviletid, er oppfylt.Ved transport til sjøs med regelmessig og direkte forbindelse mellom to geografiske steder i Fellesskapet ved hjelp av kjøretøyer som er lastet om bord på fartøyer uten at dyrene er lesset av, skal dyrene få hvile i minst 12 timer etter avlessing i bestemmelseshavnen eller i umiddelbar nærhet av denne, med mindre reisetiden til sjøs er slik at reisen kan omfattes av den generelle ordningen i punkt 1 nr. 2–4.
+- 1. Dyr må ikke transporteres til sjøs dersom lengste reisetid overstiger den tiden som er fastsatt i punkt 1 nr. 2, med mindre vilkårene fastsatt i punkt 1 nr. 3 og 4, med unntak av reise- og hviletid, er oppfylt.
+  2. Ved transport til sjøs med regelmessig og direkte forbindelse mellom to geografiske steder i Fellesskapet ved hjelp av kjøretøyer som er lastet om bord på fartøyer uten at dyrene er lesset av, skal dyrene få hvile i minst 12 timer etter avlessing i bestemmelseshavnen eller i umiddelbar nærhet av denne, med mindre reisetiden til sjøs er slik at reisen kan omfattes av den generelle ordningen i punkt 1 nr. 2–4.
 - Reisetidene i punkt 1 nr. 3, 4 og 7 bokstav b) kan av hensyn til dyrene utvides med to timer, særlig dersom bestemmelsesstedet ikke er langt unna.
-- Uten at det berører bestemmelsene i punkt 1 nr. 3–8, kan medlemsstatene fastsette en lengste reisetid, som ikke kan utvides, på åtte timer for transport av dyr beregnet på slakting, når transporten foretas utelukkende fra et avgangssted til et bestemmelsessted som begge ligger på medlemsstatens eget territorium.*Tilleggsbestemmelser om lengste reisetid når reisen utelukkende foregår internasjonal er fastsatt i [§ 9](forskrift/2012-02-08-139/§9).*
+- Uten at det berører bestemmelsene i punkt 1 nr. 3–8, kan medlemsstatene fastsette en lengste reisetid, som ikke kan utvides, på åtte timer for transport av dyr beregnet på slakting, når transporten foretas utelukkende fra et avgangssted til et bestemmelsessted som begge ligger på medlemsstatens eget territorium.
+
+  *Tilleggsbestemmelser om lengste reisetid når reisen utelukkende foregår internasjonal er fastsatt i [§ 9](forskrift/2012-02-08-139/§9).*
 
 ### 2. Andre arter
 
-- Fjørfe samt andre fugler og kaniner som holdes som husdyr, skal ha tilgang til fôr og vann i tilstrekkelige mengder, unntatt ved reiser av kortere varighet enn:tolv timer eksklusive lastings- og lossingstiden, eller24 timer for kyllinger av alle arter, forutsatt at reisen er avsluttet innen 72 timer etter klekking.*Tilleggsbestemmelser om fjørfe når reisen utelukkende foregår innenlands er fastsatt i [§ 13](forskrift/2012-02-08-139/§13).*
-- Hunder og katter skal under transport fôres med høyst 24 timers mellomrom og vannes med høyst åtte timers mellomrom. Det skal finnes tydelige, skrevne instrukser om fôring og vanning.*Tilleggsbestemmelser om hunder og katter når reisen utelukkende foregår innenlands er fastsatt i [§ 15](forskrift/2012-02-08-139/§15).*
-- Andre arter enn de som er nevnt i punkt 2 nr. 1 eller 2, skal transporteres i samsvar med de skriftlige instruksene om fôring og vanning, idet det tas hensyn til eventuelle særlige behov for stell.*Tilleggsbestemmelser om kanin, gnagere og pelsdyr når reisen utelukkende foregår innenlands er fastsatt i [§ 15](forskrift/2012-02-08-139/§15).*
+- Fjørfe samt andre fugler og kaniner som holdes som husdyr, skal ha tilgang til fôr og vann i tilstrekkelige mengder, unntatt ved reiser av kortere varighet enn:
+
+  1. tolv timer eksklusive lastings- og lossingstiden, eller
+  2. 24 timer for kyllinger av alle arter, forutsatt at reisen er avsluttet innen 72 timer etter klekking.
+
+     *Tilleggsbestemmelser om fjørfe når reisen utelukkende foregår innenlands er fastsatt i [§ 13](forskrift/2012-02-08-139/§13).*
+- Hunder og katter skal under transport fôres med høyst 24 timers mellomrom og vannes med høyst åtte timers mellomrom. Det skal finnes tydelige, skrevne instrukser om fôring og vanning.
+
+  *Tilleggsbestemmelser om hunder og katter når reisen utelukkende foregår innenlands er fastsatt i [§ 15](forskrift/2012-02-08-139/§15).*
+- Andre arter enn de som er nevnt i punkt 2 nr. 1 eller 2, skal transporteres i samsvar med de skriftlige instruksene om fôring og vanning, idet det tas hensyn til eventuelle særlige behov for stell.
+
+  *Tilleggsbestemmelser om kanin, gnagere og pelsdyr når reisen utelukkende foregår innenlands er fastsatt i [§ 15](forskrift/2012-02-08-139/§15).*
 
 ### KAPITTEL VI
 TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE STORFE, SAU, GEIT OG SVIN
@@ -742,11 +1118,15 @@ TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE ST
 
 *Tak*
 
-- Transportmiddelet skal være utstyrt med tak i en lys farge og være forsvarlig isolert.*Tilleggsbestemmelser om tamrein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14).*
+- Transportmiddelet skal være utstyrt med tak i en lys farge og være forsvarlig isolert.
+
+  *Tilleggsbestemmelser om tamrein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14).*
 
 *Gulv og strø*
 
-- Dyrene skal forsynes med passende strø eller tilsvarende materiale som sikrer deres trivsel tatt i betraktning arten og antallet av de dyr som transporteres, reisetiden og værforholdene. Dette materialet skal sikre tilstrekkelig absorpsjon av urin og avføring.*Tilleggsbestemmelser om strø når reisen utelukkende foregår innenlands er fastsatt i [§ 11](forskrift/2012-02-08-139/§11).*
+- Dyrene skal forsynes med passende strø eller tilsvarende materiale som sikrer deres trivsel tatt i betraktning arten og antallet av de dyr som transporteres, reisetiden og værforholdene. Dette materialet skal sikre tilstrekkelig absorpsjon av urin og avføring.
+
+  *Tilleggsbestemmelser om strø når reisen utelukkende foregår innenlands er fastsatt i [§ 11](forskrift/2012-02-08-139/§11).*
 
 *Fôr*
 
@@ -758,11 +1138,19 @@ TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE ST
 
 - Enhovede dyr skal transporteres i egne spilt, unntatt hopper som transporteres sammen med sine føll.
 - Transportmiddelet skal ha skillevegger slik at det kan lages separate rom samtidig som alle dyrene har fri tilgang til vann.
-- Skilleveggene skal være konstruert slik at de kan plasseres på forskjellige måter, og slik at størrelsen på rommene kan tilpasses særlige krav, og dyrenes art, størrelse og antall.*Tilleggsbestemmelser om transportmidler når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
+- Skilleveggene skal være konstruert slik at de kan plasseres på forskjellige måter, og slik at størrelsen på rommene kan tilpasses særlige krav, og dyrenes art, størrelse og antall.
+
+  *Tilleggsbestemmelser om transportmidler når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
 
 *Minstekriterier for visse arter*
 
-- For enhovede husdyr samt husdyr av artene storfe og svin, unntatt når dyrene er ledsaget av sin mor, er lange reiser tillatt bare på følgende vilkår:enhovede husdyr skal være over fire måneder, unntatt registrerte dyr av hestefamilien,kalver skal være eldre enn fjorten dager,svin skal veie over 10 kg.Hester som ikke er dressert, skal ikke transporteres over lange avstander.
+- For enhovede husdyr samt husdyr av artene storfe og svin, unntatt når dyrene er ledsaget av sin mor, er lange reiser tillatt bare på følgende vilkår:
+
+  1. enhovede husdyr skal være over fire måneder, unntatt registrerte dyr av hestefamilien,
+  2. kalver skal være eldre enn fjorten dager,
+  3. svin skal veie over 10 kg.
+
+  Hester som ikke er dressert, skal ikke transporteres over lange avstander.
 
 ### 2. Vannforsyning ved vei- og jernbanetransport eller i sjøcontainere
 
@@ -773,10 +1161,18 @@ TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE ST
 
 ### 3. Ventilasjon av veigående transportmidler og temperaturovervåking
 
-- Ventilasjonssystemene i veigående kjøretøyer skal være utformet og innrettet og skal vedlikeholdes på en slik måte at de til enhver tid på reisen, uansett om transportmiddelet står stille eller beveger seg, kan holde en temperatur på mellom 5 °C og 30 °C inne i transportmiddelet for alle dyr, med en toleranse på +/–5 °C avhengig av utetemperaturen.*Tilleggsbestemmelser om ventilasjon og temperatur når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8), og spesielt for tamrein i [§ 14](forskrift/2012-02-08-139/§14).*
-- Ventilasjonssystemet må kunne sikre en jevnt fordelt luftsirkulasjon i hele rommet med en nominell kapasitet på 60 m3 /h/KN nyttelast. Det skal kunne være i drift i minst fire timer, uavhengig av kjøretøyets motor.*Tilleggsbestemmelser om ventilasjonssystemet når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
-- Veigående transportmidler skal være utstyrt med et system til overvåking av temperatur samt en anordning for å registrere disse opplysningene. Det skal være følere i de delene av lastebilen hvor det, avhengig av lastebilens utforming, er størst sannsynlighet for at de verste klimatiske forholdene kan oppstå. De temperaturene som registreres på denne måten, skal dateres og på anmodning stilles til rådighet for vedkommende myndighet.*Tilleggsbestemmelser om overvåking av temperatur når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8), og spesielt for fjørfe i [§ 13](forskrift/2012-02-08-139/§13).*
-- Veigående transportmidler skal være utstyrt med et varslingssystem som varsler sjåføren når temperaturen i de rommene der dyrene er plassert, når høyeste eller laveste grense.*Tilleggsbestemmelser om overvåking av temperatur når transporten utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
+- Ventilasjonssystemene i veigående kjøretøyer skal være utformet og innrettet og skal vedlikeholdes på en slik måte at de til enhver tid på reisen, uansett om transportmiddelet står stille eller beveger seg, kan holde en temperatur på mellom 5 °C og 30 °C inne i transportmiddelet for alle dyr, med en toleranse på +/–5 °C avhengig av utetemperaturen.
+
+  *Tilleggsbestemmelser om ventilasjon og temperatur når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8), og spesielt for tamrein i [§ 14](forskrift/2012-02-08-139/§14).*
+- Ventilasjonssystemet må kunne sikre en jevnt fordelt luftsirkulasjon i hele rommet med en nominell kapasitet på 60 m3 /h/KN nyttelast. Det skal kunne være i drift i minst fire timer, uavhengig av kjøretøyets motor.
+
+  *Tilleggsbestemmelser om ventilasjonssystemet når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
+- Veigående transportmidler skal være utstyrt med et system til overvåking av temperatur samt en anordning for å registrere disse opplysningene. Det skal være følere i de delene av lastebilen hvor det, avhengig av lastebilens utforming, er størst sannsynlighet for at de verste klimatiske forholdene kan oppstå. De temperaturene som registreres på denne måten, skal dateres og på anmodning stilles til rådighet for vedkommende myndighet.
+
+  *Tilleggsbestemmelser om overvåking av temperatur når reisen utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8), og spesielt for fjørfe i [§ 13](forskrift/2012-02-08-139/§13).*
+- Veigående transportmidler skal være utstyrt med et varslingssystem som varsler sjåføren når temperaturen i de rommene der dyrene er plassert, når høyeste eller laveste grense.
+
+  *Tilleggsbestemmelser om overvåking av temperatur når transporten utelukkende foregår innenlands er fastsatt i [§ 8](forskrift/2012-02-08-139/§8).*
 - Kommisjonen skal før 31. juli 2005 utarbeide en rapport på grunnlag av en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet, ledsaget av relevante forslag, med henblikk på å fastsette høyeste og laveste temperatur for transporterte dyr, som skal vedtas etter framgangsmåten fastsatt i artikkel 31 nr. 2, idet det tas hensyn til at det i Fellesskapet er visse regioner med særlige klimatiske forhold.
 
 ### 4. Navigasjonssystemer
@@ -968,13 +1364,40 @@ LOGGBOK
 (som nevnt i artikkel 5 nr. 4, artikkel 8 nr. 2, artikkel 14 bokstav a) og c) og artikkel 21 nr. 2)
 
 1. En person som planlegger en lang reise, skal utarbeide, stemple og undertegne alle sidene i loggboken i samsvar med bestemmelsene i dette vedlegget.
-2. Loggboken skal bestå av følgende avsnitt:Avsnitt 1 – PlanleggingAvsnitt 2 – AvsenderstedAvsnitt 3 – BestemmelsesstedAvsnitt 4 – Erklæring fra transportørAvsnitt 5 – Modell for rapport om avvikSidene i loggboken skal være festet sammen.Modeller til hvert avsnitt er oppført i tillegget til dette vedlegg.
-3. Den som organiserer reisen skal:gi hver enkelt loggbok et identifikasjonsnummer,sørge for at vedkommende myndighet på avgangsstedet senest to virkedager før avgangstidspunktet mottar på den måten myndigheten har fastsatt, en undertegnet kopi av avsnitt 1 i loggboken, behørig utfylt unntatt med hensyn til veterinærattestnummer,følge eventuelle instrukser fra vedkommende myndighet i henhold til artikkel 14 nr. 1 bokstav a),sørge for at loggboken er stemplet som fastsatt i artikkel 14 nr. 1,sørge for at loggboken ledsager dyrene under hele reisen fram til bestemmelsesstedet, eller ved eksport til en tredjestat, minst til utførselsstedet.
+2. Loggboken skal bestå av følgende avsnitt:
+
+   - Avsnitt 1 – Planlegging
+   - Avsnitt 2 – Avsendersted
+   - Avsnitt 3 – Bestemmelsessted
+   - Avsnitt 4 – Erklæring fra transportør
+   - Avsnitt 5 – Modell for rapport om avvik
+
+   Sidene i loggboken skal være festet sammen.
+
+   Modeller til hvert avsnitt er oppført i tillegget til dette vedlegg.
+3. Den som organiserer reisen skal:
+
+   1. gi hver enkelt loggbok et identifikasjonsnummer,
+   2. sørge for at vedkommende myndighet på avgangsstedet senest to virkedager før avgangstidspunktet mottar på den måten myndigheten har fastsatt, en undertegnet kopi av avsnitt 1 i loggboken, behørig utfylt unntatt med hensyn til veterinærattestnummer,
+   3. følge eventuelle instrukser fra vedkommende myndighet i henhold til artikkel 14 nr. 1 bokstav a),
+   4. sørge for at loggboken er stemplet som fastsatt i artikkel 14 nr. 1,
+   5. sørge for at loggboken ledsager dyrene under hele reisen fram til bestemmelsesstedet, eller ved eksport til en tredjestat, minst til utførselsstedet.
 4. Røktere på avgangsstedet, og når bestemmelsesstedet ligger på Fellesskapets territorium, røktere på bestemmelsesstedet, skal fylle ut og undertegne de relevante avsnittene i loggboken. De skal så raskt som mulig ved hjelp av modellen i avsnitt 5 underrette vedkommende myndighet om eventuelle forbehold når det gjelder overholdelse av bestemmelsene i denne forordning.
-5. Dersom bestemmelsesstedet ligger på Fellesskapets territorium, skal røktere på bestemmelsesstedet oppbevare loggboken, unntatt avsnitt 4, i minst tre år fra ankomsten til bestemmelsesstedet.Loggboken skal på anmodning framvises for vedkommende myndighet.
+5. Dersom bestemmelsesstedet ligger på Fellesskapets territorium, skal røktere på bestemmelsesstedet oppbevare loggboken, unntatt avsnitt 4, i minst tre år fra ankomsten til bestemmelsesstedet.
+
+   Loggboken skal på anmodning framvises for vedkommende myndighet.
 6. Dersom reisen avsluttes på Fellesskapets territorium, skal transportøren fylle ut og undertegne avsnitt 4 i loggboken.
-7. Ved eksport av dyr til en tredjestat skal transportøren gi loggboken til den offentlige veterinæren på utførselsstedet.Ved eksport av levende storfe som gir grunnlag for tilbakebetalinger, er det ikke nødvendig å fylle ut avsnitt 3 i loggboken dersom det i henhold til landbrukslovgivningen skal sendes inn en rapport.
-8. Transportøren nevnt i avsnitt 3 i loggboken, skal oppbevare:en kopi av den utfylte loggboken,de relevante diagramskivene eller utskriftene som nevnt i vedlegg I eller vedlegg IB til forordning [(EF) nr. 3821/85](eu/31985r3821) dersom kjøretøyet er omfattet av nevnte forordning.Dokumentene nevnt i bokstav a) og b) skal framlegges for vedkommende myndighet som utstedte transportørens godkjenning, og på anmodning for vedkommende myndighet på avgangsstedet, innen en måned etter at den ble utfylt, og skal oppbevares av transportøren i minst tre år fra kontrolldatoen.Dokumentene nevnt i bokstav a), skal leveres tilbake til vedkommende myndighet på avgangsstedet innen én måned etter at reisen er avsluttet, med mindre systemene nevnt i artikkel 6 nr. 9, er brukt. Det skal utarbeides en forenklet versjon av loggboken og retningslinjer for framlegging av opplysningene nevnt i artikkel 6 nr. 9, etter framgangsmåten fastsatt i artikkel 31 nr. 2, når kjøretøyet er utstyrt med systemene nevnt i artikkel 6 nr. 9.
+7. Ved eksport av dyr til en tredjestat skal transportøren gi loggboken til den offentlige veterinæren på utførselsstedet.
+
+   Ved eksport av levende storfe som gir grunnlag for tilbakebetalinger, er det ikke nødvendig å fylle ut avsnitt 3 i loggboken dersom det i henhold til landbrukslovgivningen skal sendes inn en rapport.
+8. Transportøren nevnt i avsnitt 3 i loggboken, skal oppbevare:
+
+   1. en kopi av den utfylte loggboken,
+   2. de relevante diagramskivene eller utskriftene som nevnt i vedlegg I eller vedlegg IB til forordning [(EF) nr. 3821/85](eu/31985r3821) dersom kjøretøyet er omfattet av nevnte forordning.
+
+   Dokumentene nevnt i bokstav a) og b) skal framlegges for vedkommende myndighet som utstedte transportørens godkjenning, og på anmodning for vedkommende myndighet på avgangsstedet, innen en måned etter at den ble utfylt, og skal oppbevares av transportøren i minst tre år fra kontrolldatoen.
+
+   Dokumentene nevnt i bokstav a), skal leveres tilbake til vedkommende myndighet på avgangsstedet innen én måned etter at reisen er avsluttet, med mindre systemene nevnt i artikkel 6 nr. 9, er brukt. Det skal utarbeides en forenklet versjon av loggboken og retningslinjer for framlegging av opplysningene nevnt i artikkel 6 nr. 9, etter framgangsmåten fastsatt i artikkel 31 nr. 2, når kjøretøyet er utstyrt med systemene nevnt i artikkel 6 nr. 9.
 
 ### Tillegg
 
@@ -1031,7 +1454,14 @@ For å lese kapittel IV se her: [(pdf)](static/SF/sf-20120208-0139-09-01.pdf)
 UTDANNING
 
 1. Sjåfører og ledsagere i veigående kjøretøyer nevnt i artikkel 6 nr. 5 og artikkel 17 nr. 1, skal ha gjennomgått og fullført utdanningen fastsatt i nr. 2, og skal ha bestått eksamen som er godkjent av vedkommende myndighet, som skal sikre at eksaminatorene er uavhengige.
-2. Utdanningskursene nevnt i nr. 1, skal omfatte minst de tekniske og administrative aspektene av Fellesskapets lovgivning om vern av dyr under transport, og særlig:artikkel 3 og 4 og vedlegg I og II,dyrefysiologi og særlig behov for fôr og vann, dyrs atferd og årsak til stresspåvirkninger,praktiske hensyn ved håndtering av dyr,betydningen av sjåførens atferd for de transporterte dyrenes velferd og for kjøttets kvalitet,nødhjelp til dyr,sikkerhetsmessige hensyn for personell som håndterer dyr.
+2. Utdanningskursene nevnt i nr. 1, skal omfatte minst de tekniske og administrative aspektene av Fellesskapets lovgivning om vern av dyr under transport, og særlig:
+
+   1. artikkel 3 og 4 og vedlegg I og II,
+   2. dyrefysiologi og særlig behov for fôr og vann, dyrs atferd og årsak til stresspåvirkninger,
+   3. praktiske hensyn ved håndtering av dyr,
+   4. betydningen av sjåførens atferd for de transporterte dyrenes velferd og for kjøttets kvalitet,
+   5. nødhjelp til dyr,
+   6. sikkerhetsmessige hensyn for personell som håndterer dyr.
 
 ### VEDLEGG V
 INTERNASJONALE AVTALER

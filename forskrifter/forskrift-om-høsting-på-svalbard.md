@@ -15,7 +15,7 @@ xml_hash: "af7509960d5e8a26b459ae05e9d7560a37e952d2bae50726d533e7acbd8bce45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ Med de begrensninger som følger av folkeretten gjelder forskriften for Svalbard
 
 ### § 3. (definisjoner)
 
-I denne forskrift forstås med*fastboende:* person som på tidspunkt for søknad om tillatelse og under utøvelse av høsting er gyldig innført i befolkningsregisteret for Svalbard;*høsting:* jakt, fangst og fiske;*fauna:* encellede dyr, virvelløse dyr og virveldyr som er naturlig viltlevende på Svalbard;*sjøpattedyr:* alle arter av sel og hval som er stedegne på Svalbard;*vassdrag:* innsjø, vann, tjern, elv, elvearm, bekk eller kanal. Ferskvannslaguner og strengsjøer regnes også som vassdrag.*anadrom laksefisk:* laksefisk som vandrer mellom sjø og ferskvann og som er avhengig av ferskvann for å reprodusere seg, samt rogn og unger av slik fisk. Rømt eller utsatt oppdrettet laksefisk som kan vandre fra sjø til ferskvann regnes som anadrom laksefisk når de lever fritt i sjø eller vassdrag.
+I denne forskrift forstås med
+
+1. *fastboende:* person som på tidspunkt for søknad om tillatelse og under utøvelse av høsting er gyldig innført i befolkningsregisteret for Svalbard;
+2. *høsting:* jakt, fangst og fiske;
+3. *fauna:* encellede dyr, virvelløse dyr og virveldyr som er naturlig viltlevende på Svalbard;
+4. *sjøpattedyr:* alle arter av sel og hval som er stedegne på Svalbard;
+5. *vassdrag:* innsjø, vann, tjern, elv, elvearm, bekk eller kanal. Ferskvannslaguner og strengsjøer regnes også som vassdrag.
+6. *anadrom laksefisk:* laksefisk som vandrer mellom sjø og ferskvann og som er avhengig av ferskvann for å reprodusere seg, samt rogn og unger av slik fisk. Rømt eller utsatt oppdrettet laksefisk som kan vandre fra sjø til ferskvann regnes som anadrom laksefisk når de lever fritt i sjø eller vassdrag.
 
 > Endret ved [forskrifter 28 juli 2008 nr. 922](forskrift/2008-07-28-922) (i kraft 1 aug 2008), [20 des 2013 nr. 1687](forskrift/2013-12-20-1687) (i kraft 1 jan 2014).
 
@@ -140,7 +147,10 @@ Rapportering i henhold til denne bestemmelsen settes som vilkår for tildeling a
 
 Den som utøver jakt og fangst må være fylt 16 år. For jakt på svalbardrein og sjøpattedyr er aldersgrensen 18 år.
 
-Den som i løpet av kalenderåret fyller 14 år kan delta i jakt på fjellrev og fuglevilt og fangst i opplæringsøyemed fram til fylte 16 år når vedkommende:har samtykke fra foreldre eller foresatte oger under forsvarlig tilsyn av jeger som har fylt 20 år. Tilsynspersonen må ha utøvd jakt og fangst i minst 3 sesonger.
+Den som i løpet av kalenderåret fyller 14 år kan delta i jakt på fjellrev og fuglevilt og fangst i opplæringsøyemed fram til fylte 16 år når vedkommende:
+
+1. har samtykke fra foreldre eller foresatte og
+2. er under forsvarlig tilsyn av jeger som har fylt 20 år. Tilsynspersonen må ha utøvd jakt og fangst i minst 3 sesonger.
 
 Den som i løpet av kalenderåret fyller 16 år kan delta i jakt på svalbardrein og sjøpattedyr i opplæringsøyemed fram til fylte 18 år når vilkårene i annet ledd bokstavene a og b er oppfylt. Det stilles i tillegg krav om bestått jegerprøve og skyteprøve for storviltjegere.
 
@@ -234,13 +244,19 @@ For å fremme en forvaltning av røye på Svalbard slik at naturlig produktivite
 
 ### § 24. (forbud mot kunstig lys)
 
-Det er forbudt i jaktøyemed å bruke:kunstig lys,utstyr som elektronisk forsterker lyset.
+Det er forbudt i jaktøyemed å bruke:
+
+1. kunstig lys,
+2. utstyr som elektronisk forsterker lyset.
 
 > Endret ved [forskrift 28 juli 2008 nr. 922](forskrift/2008-07-28-922) (i kraft 1 aug 2008).
 
 ### § 25. (forbud mot bruk av motorkjøretøy og luftfartøy)
 
-Det er forbudt under jakt:å bruke luftfartøy eller motorkjøretøy til lokalisering eller forfølgning av fauna eller til avledning av dyrets oppmerksomhet fra jegeren,å løsne skudd fra luftfartøy eller motorkjøretøy.
+Det er forbudt under jakt:
+
+1. å bruke luftfartøy eller motorkjøretøy til lokalisering eller forfølgning av fauna eller til avledning av dyrets oppmerksomhet fra jegeren,
+2. å løsne skudd fra luftfartøy eller motorkjøretøy.
 
 ### § 26. (regulering av bruk av motorbåt)
 

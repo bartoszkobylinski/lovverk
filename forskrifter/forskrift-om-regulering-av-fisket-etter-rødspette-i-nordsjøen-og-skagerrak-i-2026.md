@@ -24,11 +24,17 @@ eu_basis: []
 
 ## § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande rødspette i følgende områder i 2026:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES’ statistikkområde 4.I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande rødspette i følgende områder i 2026:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES’ statistikkområde 4.
+2. I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
 
 ## § 2. Totalkvoter
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2731/§1) kan norske fartøy fiske og lande inntil:10 112 tonn rødspette i Nordsjøen. Av totalkvoten kan inntil 100 tonn fiskes i britisk sone. Av totalkvoten kan inntil 8 423 tonn fiskes i EU-sonen.387 tonn rødspette i Skagerrak.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2731/§1) kan norske fartøy fiske og lande inntil:
+
+1. 10 112 tonn rødspette i Nordsjøen. Av totalkvoten kan inntil 100 tonn fiskes i britisk sone. Av totalkvoten kan inntil 8 423 tonn fiskes i EU-sonen.
+2. 387 tonn rødspette i Skagerrak.
 
 Alle kvanta i forskriften angis i rund vekt.
 

@@ -24,7 +24,12 @@ eu_basis: []
 
 Justis- og beredskapsdepartementet har besluttet å delegere departementets avgjørelsesmyndighet i enkeltsakene etter lov om overføring av domfelte til Kriminalomsorgsdirektoratet.
 
-Myndigheten etter [lov om overføring av domfelte § 9](lov/1991-07-20-67/§9), jf. gyldighetskonvensjonen artikkel 15 omfatterå fremsette anmodninger om fullbyrding av sanksjoner overfor andre staterå motta anmodninger fra andre stater og foreta en administrativ prøvelse av om vilkårene i gyldighetskonvensjonen artikkel 4 nr. 1, 5, 6 og 7 er oppfylt.å avslå anmodninger dersom vilkårene i bokstav b ikke er oppfyltå avslå anmodninger etter gyldighetskonvensjonen artikkel 61 nr. 3 når den anmodende stat har tatt forbehold etter konvensjonens vedlegg 1.
+Myndigheten etter [lov om overføring av domfelte § 9](lov/1991-07-20-67/§9), jf. gyldighetskonvensjonen artikkel 15 omfatter
+
+1. å fremsette anmodninger om fullbyrding av sanksjoner overfor andre stater
+2. å motta anmodninger fra andre stater og foreta en administrativ prøvelse av om vilkårene i gyldighetskonvensjonen artikkel 4 nr. 1, 5, 6 og 7 er oppfylt.
+3. å avslå anmodninger dersom vilkårene i bokstav b ikke er oppfylt
+4. å avslå anmodninger etter gyldighetskonvensjonen artikkel 61 nr. 3 når den anmodende stat har tatt forbehold etter konvensjonens vedlegg 1.
 
 Delegeringen gjelder ikke saker som faller inn under [lov om overføring av domfelte § 13](lov/1991-07-20-67/§13).
 

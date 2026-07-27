@@ -32,7 +32,14 @@ Det er forbudt å drive fiske og fangst med fartøy som fører flagg fra medlems
 
 ### § 2. Kvoter nord for 62° N
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:9 196 tonn torsk500 tonn hyse400 tonn sei1 500 tonn uer (*Sebastes mentella*)165 tonn blåkveite som bifangst200 tonn andre arter som bifangst.
+Uten hinder av forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:
+
+1. 9 196 tonn torsk
+2. 500 tonn hyse
+3. 400 tonn sei
+4. 1 500 tonn uer (*Sebastes mentella*)
+5. 165 tonn blåkveite som bifangst
+6. 200 tonn andre arter som bifangst.
 
 ### § 3. Soneadgang ved fiske etter norsk vårgytende sild
 
@@ -60,19 +67,89 @@ Det er forbudt å fiske uer med trål i tidsrommet fra og med 1. mars til og med
 
 ### § 7. Områder for bunntrål i fisket etter uer
 
-Med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer i tiden før 1. mars bare tillatt innenfor følgende område:I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 017° 30,00′, og videre tilN 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 67° 10,00′ Ø 008° 35,00′N 67° 00,00′ Ø 008° 18,00′N 66° 50,00′ Ø 008° 09,00′N 66° 30,00′ Ø 006° 59,00′N 66° 21,00′ Ø 006° 44,00′N 65° 43,00′ Ø 006° 00,00′N 65° 20,00′ Ø 006° 00,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+Med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer i tiden før 1. mars bare tillatt innenfor følgende område:
 
-Med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer i tiden fra og med 10. mai bare tillatt innenfor følgende område:I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 024° 00,00′, og videre tilN 73° 00,00′ Ø 023° 00,00′N 73° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 67° 10,00′ Ø 008° 35,00′N 67° 00,00′ Ø 008° 18,00′N 66° 50,00′ Ø 008° 09,00′N 66° 30,00′ Ø 006° 59,00′N 66° 21,00′ Ø 006° 44,00′N 65° 43,00′ Ø 006° 00,00′N 65° 20,00′ Ø 006° 00,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+- I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:
 
-Uavhengig av annet ledd, og med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer tillatt fra og med 1. juli innenfor følgende område avgrenset av rette linjer mellom følgende posisjoner:N 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 70° 40,00′ Ø 017° 30,00′N 72° 00,00′ Ø 017° 30,00′.
+  1. Fra yttergrensen av Norges økonomiske sone på Ø 017° 30,00′, og videre til
+  2. N 72° 00,00′ Ø 017° 30,00′
+  3. N 72° 00,00′ Ø 014° 40,00′
+  4. N 71° 45,00′ Ø 014° 45,00′
+  5. N 71° 00,00′ Ø 016° 48,00′
+  6. N 70° 27,81′ Ø 016° 53,00′
+  7. N 68° 00,00′ Ø 009° 24,00′
+  8. N 67° 10,00′ Ø 008° 35,00′
+  9. N 67° 00,00′ Ø 008° 18,00′
+  10. N 66° 50,00′ Ø 008° 09,00′
+  11. N 66° 30,00′ Ø 006° 59,00′
+  12. N 66° 21,00′ Ø 006° 44,00′
+  13. N 65° 43,00′ Ø 006° 00,00′
+  14. N 65° 20,00′ Ø 006° 00,00′
+  15. Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+
+Med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer i tiden fra og med 10. mai bare tillatt innenfor følgende område:
+
+- I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:
+
+  1. Fra yttergrensen av Norges økonomiske sone på Ø 024° 00,00′, og videre til
+  2. N 73° 00,00′ Ø 023° 00,00′
+  3. N 73° 00,00′ Ø 017° 30,00′
+  4. N 72° 00,00′ Ø 017° 30,00′
+  5. N 72° 00,00′ Ø 014° 40,00′
+  6. N 71° 45,00′ Ø 014° 45,00′
+  7. N 71° 00,00′ Ø 016° 48,00′
+  8. N 70° 27,81′ Ø 016° 53,00′
+  9. N 68° 00,00′ Ø 009° 24,00′
+  10. N 67° 10,00′ Ø 008° 35,00′
+  11. N 67° 00,00′ Ø 008° 18,00′
+  12. N 66° 50,00′ Ø 008° 09,00′
+  13. N 66° 30,00′ Ø 006° 59,00′
+  14. N 66° 21,00′ Ø 006° 44,00′
+  15. N 65° 43,00′ Ø 006° 00,00′
+  16. N 65° 20,00′ Ø 006° 00,00′
+  17. Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+
+Uavhengig av annet ledd, og med de begrensninger som følger av [forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer](forskrift/2011-07-01-755), er fiske med bunntrål etter uer tillatt fra og med 1. juli innenfor følgende område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. N 72° 00,00′ Ø 017° 30,00′
+2. N 72° 00,00′ Ø 014° 40,00′
+3. N 71° 45,00′ Ø 014° 45,00′
+4. N 71° 00,00′ Ø 016° 48,00′
+5. N 70° 27,81′ Ø 016° 53,00′
+6. N 70° 40,00′ Ø 017° 30,00′
+7. N 72° 00,00′ Ø 017° 30,00′.
 
 > Endret ved forskrift [27 feb 2026 nr. 317](forskrift/2026-02-27-317) (tidligere § 6).
 
 ### § 8. Områder for flytetrål i fisket etter uer
 
-Før 1. mars er det bare tillatt å fiske uer med flytetrål innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 017° 30′, og videre tilN 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 66° 11,00′ Ø 004° 56,00′N 65° 20,00′ Ø 004° 25,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+Før 1. mars er det bare tillatt å fiske uer med flytetrål innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:
 
-Fra og med 10. mai er det bare tillatt å fiske innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 024° 00′, og videre tilN 73° 00,00′ Ø 023° 00,00′N 73° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 66° 11,00′ Ø 004° 56,00′N 65° 20,00′ Ø 004° 25,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+1. Fra yttergrensen av Norges økonomiske sone på Ø 017° 30′, og videre til
+2. N 72° 00,00′ Ø 017° 30,00′
+3. N 72° 00,00′ Ø 014° 40,00
+4. N 71° 45,00′ Ø 014° 45,00′
+5. N 71° 00,00′ Ø 016° 48,00′
+6. N 70° 27,81′ Ø 016° 53,00′
+7. N 68° 00,00′ Ø 009° 24,00′
+8. N 66° 11,00′ Ø 004° 56,00′
+9. N 65° 20,00′ Ø 004° 25,00′
+10. Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+
+Fra og med 10. mai er det bare tillatt å fiske innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:
+
+1. Fra yttergrensen av Norges økonomiske sone på Ø 024° 00′, og videre til
+2. N 73° 00,00′ Ø 023° 00,00′
+3. N 73° 00,00′ Ø 017° 30,00′
+4. N 72° 00,00′ Ø 017° 30,00′
+5. N 72° 00,00′ Ø 014° 40,00′
+6. N 71° 45,00′ Ø 014° 45,00′
+7. N 71° 00,00′ Ø 016° 48,00′
+8. N 70° 27,81′ Ø 016° 53,00′
+9. N 68° 00,00′ Ø 009° 24,00′
+10. N 66° 11,00′ Ø 004° 56,00′
+11. N 65° 20,00′ Ø 004° 25,00′
+12. Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
 
 Det er ikke tillatt å benytte flytetrål med bunnkontakt under fiske utenfor områder som er åpnet for direkte fiske med flytetrål.
 
@@ -82,7 +159,21 @@ Det er ikke tillatt å benytte flytetrål med bunnkontakt under fiske utenfor om
 
 ### § 9. Kvoter og soneadganger sør for 62° N
 
-Uten hensyn til forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene, utenom Skagerrak:2 883 tonn torsk6 970 tonn hyse15 980 tonn sei21 407 tonn hvitting32 865 tonn rødspette2 700 tonn sild25 tonn reker990 tonn breiflabb200 tonn sjøkreps1 385 tonn lysing25 tonn brosme465 tonn lange1 390 tonn andre arter.
+Uten hensyn til forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene, utenom Skagerrak:
+
+1. 2 883 tonn torsk
+2. 6 970 tonn hyse
+3. 15 980 tonn sei
+4. 21 407 tonn hvitting
+5. 32 865 tonn rødspette
+6. 2 700 tonn sild
+7. 25 tonn reker
+8. 990 tonn breiflabb
+9. 200 tonn sjøkreps
+10. 1 385 tonn lysing
+11. 25 tonn brosme
+12. 465 tonn lange
+13. 1 390 tonn andre arter.
 
 Kvoten av sei nevnt i første ledd bokstav c kan fiskes i Skagerrak utenfor 12 nautiske mil fra grunnlinjene.
 
@@ -92,7 +183,14 @@ Kvoten av sild nevnt i første ledd bokstav f kan fiskes i Skagerrak utenfor 12 
 
 ### § 10. Soneadganger i Skagerrak
 
-Uten hensyn til forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene i Skagerrak:1 544 tonn torsk5 437 tonn hyse. I tillegg kan inntil 697 tonn av kvoten nevnt i [§ 8 første ledd bokstav b](forskrift/2026-01-12-28/§8/ledd/1/bokstav/b) fiskes i Skagerrak.447 tonn hvitting18 959 tonn rødspette1 499 tonn reker39 968 tonn brisling.
+Uten hensyn til forbudet i [§ 1](forskrift/2026-01-12-28/§1) har fartøy som fører flagg fra medlemsstater i EU adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene i Skagerrak:
+
+1. 1 544 tonn torsk
+2. 5 437 tonn hyse. I tillegg kan inntil 697 tonn av kvoten nevnt i [§ 8 første ledd bokstav b](forskrift/2026-01-12-28/§8/ledd/1/bokstav/b) fiskes i Skagerrak.
+3. 447 tonn hvitting
+4. 18 959 tonn rødspette
+5. 1 499 tonn reker
+6. 39 968 tonn brisling.
 
 Fartøy som fører dansk eller svensk flagg har i Skagerrak adgang til å fiske inntil 4 nautiske mil fra de norske grunnlinjene.
 
@@ -120,7 +218,11 @@ Kvantaene som fartøy fra medlemsstater i EU har adgang til å fiske i medhold a
 
 Fartøy omfattet av forskriften skal ved fiske i Norges økonomiske sone sør for 62° N skifte fiskefelt dersom det ikke foreligger dokumentert kvotegrunnlag for den enkelte fangst og forventet fangst på samme fiskefelt. Feltskifte er ikke påkrevd ved mindre kvanta uunngåelig bifangst.
 
-Kravet om dokumentert kvotegrunnlag anses oppfylt dersom følgende opplysninger fremgår:Fartøyets navn, radiokallesignal og annet identitetsmerke;Dokumentutsteders navn, organisasjonsnummer og annen kontaktinformasjon;Angivelse av fartøyets gjenværende kvoter fordelt etter art og område.
+Kravet om dokumentert kvotegrunnlag anses oppfylt dersom følgende opplysninger fremgår:
+
+1. Fartøyets navn, radiokallesignal og annet identitetsmerke;
+2. Dokumentutsteders navn, organisasjonsnummer og annen kontaktinformasjon;
+3. Angivelse av fartøyets gjenværende kvoter fordelt etter art og område.
 
 > Endret ved forskrift [27 feb 2026 nr. 317](forskrift/2026-02-27-317) (tidligere § 12).
 

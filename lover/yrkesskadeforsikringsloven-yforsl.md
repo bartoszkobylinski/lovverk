@@ -15,7 +15,7 @@ xml_hash: "84175159d344969937a5f35757bf91ddf68886283bfc814979cce74ae1eec1cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,18 @@ eu_basis: []
 
 Loven gjelder ved personskade påført arbeidstakere hos arbeidsgivere i riket.
 
-Kongen kan gi nærmere regler om virkeområdet, herunder om lovens anvendelse pånorske arbeidsgivere i utlandet,utenlandske arbeidsgivere i Norge,arbeidstakere på skip, boreplattformer o.l.
+Kongen kan gi nærmere regler om virkeområdet, herunder om lovens anvendelse på
+
+1. norske arbeidsgivere i utlandet,
+2. utenlandske arbeidsgivere i Norge,
+3. arbeidstakere på skip, boreplattformer o.l.
 
 ### § 2. Definisjoner.
 
-I loven menes medarbeidsgiver: det offentlige og enhver annen som i eller utenfor ervervsvirksomhet har noen i sin tjeneste,arbeidstaker: enhver som gjør arbeid eller utfører verv i arbeidsgiverens tjeneste, også ombud i offentlig virksomhet, tjenestepliktige i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.
+I loven menes med
+
+1. arbeidsgiver: det offentlige og enhver annen som i eller utenfor ervervsvirksomhet har noen i sin tjeneste,
+2. arbeidstaker: enhver som gjør arbeid eller utfører verv i arbeidsgiverens tjeneste, også ombud i offentlig virksomhet, tjenestepliktige i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.
 
 > Endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
@@ -64,7 +71,11 @@ Forsikringsgivere som tilbyr forsikring etter loven, må være tilsluttet en for
 
 Yrkesskadeforsikringen gjelder direkte til fordel for skadelidte.
 
-Forsikringsgiveren til den arbeidsgiver som skadelidte har når skaden eller sykdommen blir konstatert, er ansvarlig for å utbetale erstatning etter loven. Dette gjelder selv om skaden må anses forårsaket mens arbeidstakeren var i tjeneste hos en annen arbeidsgiver. En skade anses konstatert på det første tidspunkt da skadelidte entendøde av skaden eller sykdommen uten å ha søkt legehjelp,første gang søkte legehjelp for skaden eller sykdommen, ellerførste gang meldte krav til forsikringsgiveren på grunn av skaden eller sykdommen.
+Forsikringsgiveren til den arbeidsgiver som skadelidte har når skaden eller sykdommen blir konstatert, er ansvarlig for å utbetale erstatning etter loven. Dette gjelder selv om skaden må anses forårsaket mens arbeidstakeren var i tjeneste hos en annen arbeidsgiver. En skade anses konstatert på det første tidspunkt da skadelidte enten
+
+1. døde av skaden eller sykdommen uten å ha søkt legehjelp,
+2. første gang søkte legehjelp for skaden eller sykdommen, eller
+3. første gang meldte krav til forsikringsgiveren på grunn av skaden eller sykdommen.
 
 Dersom arbeidstakeren ikke lenger er i arbeid, svarer forsikringsgiveren til arbeidstakerens siste arbeidsgiver.
 
@@ -104,7 +115,11 @@ Yrkesskadeforsikringen skal, med de unntak som følger av [§ 11](lov/1989-06-16
 
 ### § 11. Skader og sykdommer som skal dekkes av forsikringen.
 
-Yrkesskadeforsikringen skal dekkeskade og sykdom forårsaket av arbeidsulykke (yrkesskade),Skade og sykdom som i medhold av [folketrygdloven § 13-4](lov/1997-02-28-19/§13-4) er likestilt med yrkesskade.annen skade og sykdom, dersom denne skyldes påvirkning fra skadelige stoffer eller arbeidsprosesser.
+Yrkesskadeforsikringen skal dekke
+
+1. skade og sykdom forårsaket av arbeidsulykke (yrkesskade),
+2. Skade og sykdom som i medhold av [folketrygdloven § 13-4](lov/1997-02-28-19/§13-4) er likestilt med yrkesskade.
+3. annen skade og sykdom, dersom denne skyldes påvirkning fra skadelige stoffer eller arbeidsprosesser.
 
 Skade og sykdom som nevnt i første ledd bokstav b skal anses forårsaket i arbeid på arbeidsstedet i arbeidstiden, hvis ikke forsikringsgiveren kan bevise at dette åpenbart ikke er tilfellet.
 

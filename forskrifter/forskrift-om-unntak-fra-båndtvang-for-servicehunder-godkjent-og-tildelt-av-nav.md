@@ -28,7 +28,10 @@ Formålet med denne forskriften er å gi unntak fra båndtvang for servicehunder
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*servicehund:* Hunder som er godkjent og tildelt av Arbeids- og velferdsetaten (NAV) som servicehund eller som er under prøving eller trening for slik godkjenning.*aktiv tjeneste:* Perioden hvor servicehunden utfører oppgaver som den er trent til, under ledelse av sin bruker eller en autorisert trener.
+I denne forskriften menes med
+
+1. *servicehund:* Hunder som er godkjent og tildelt av Arbeids- og velferdsetaten (NAV) som servicehund eller som er under prøving eller trening for slik godkjenning.
+2. *aktiv tjeneste:* Perioden hvor servicehunden utfører oppgaver som den er trent til, under ledelse av sin bruker eller en autorisert trener.
 
 ## § 3. Unntak fra båndtvang
 
@@ -42,7 +45,11 @@ Hundeholder skal kunne fremlegge dokumentasjon for at hunden er godkjent service
 
 ## § 4. Krav til tilsyn og kontroll med hunden
 
-Servicehunder som er unntatt fra båndtvang skal:være under kontinuerlig tilsyn av hundeholder.kun være løs når det er nødvendig for å utføre oppgavene de er trent til.ikke utgjøre en fare for mennesker, husdyr, tamrein, vilt eller eiendom.
+Servicehunder som er unntatt fra båndtvang skal:
+
+1. være under kontinuerlig tilsyn av hundeholder.
+2. kun være løs når det er nødvendig for å utføre oppgavene de er trent til.
+3. ikke utgjøre en fare for mennesker, husdyr, tamrein, vilt eller eiendom.
 
 ## § 5. Ansvar
 

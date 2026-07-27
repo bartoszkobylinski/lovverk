@@ -26,8 +26,11 @@ eu_basis: []
 
 ### § 1
 
-Arbeids- og velferdsetaten kan forlenge fristen som nevnt i arbeidsmiljøloven § 56 A nr. 6 på oppfordring av en av partene eller på eget initiativ dersomdet ikke er ført drøftinger mellom arbeidsgiveren og de tillitsvalgte i løpet av den opprinnelige 30 dagers fristen
-ellerdet er helt klare indikasjoner på at partene vil komme frem til en avtale i løpet av de neste 30 dager.
+Arbeids- og velferdsetaten kan forlenge fristen som nevnt i arbeidsmiljøloven § 56 A nr. 6 på oppfordring av en av partene eller på eget initiativ dersom
+
+1. det ikke er ført drøftinger mellom arbeidsgiveren og de tillitsvalgte i løpet av den opprinnelige 30 dagers fristen
+   eller
+2. det er helt klare indikasjoner på at partene vil komme frem til en avtale i løpet av de neste 30 dager.
 
 > Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
 

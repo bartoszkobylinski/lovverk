@@ -46,13 +46,30 @@ Elevene har rett til å bli behandlet med høflighet, respekt og omtanke. Skolen
 
 ### § 2-2. Orden
 
-Elevene skal møte presis, vise gode arbeidsvaner og god arbeidsinnsats. Det er god orden å:melde fra til skolen ved fraværdokumentere fravær innen de frister som er satt, i tråd med gjeldende fraværsrutinerholde orden på, og ha med nødvendige læremidler og utstyrfølge verne- og sikkerhetsregler og bruke arbeidstøy og verneutstyr som kreves i læreplan eller som er påbudtbehandle skolens eiendom og utstyr forsiktig og rydde opp etter seg ved bruk av skolens arealer og kantine.
+Elevene skal møte presis, vise gode arbeidsvaner og god arbeidsinnsats. Det er god orden å:
+
+1. melde fra til skolen ved fravær
+2. dokumentere fravær innen de frister som er satt, i tråd med gjeldende fraværsrutiner
+3. holde orden på, og ha med nødvendige læremidler og utstyr
+4. følge verne- og sikkerhetsregler og bruke arbeidstøy og verneutstyr som kreves i læreplan eller som er påbudt
+5. behandle skolens eiendom og utstyr forsiktig og rydde opp etter seg ved bruk av skolens arealer og kantine.
 
 ### § 2-3. Oppførsel
 
 Elevene skal bidra til å skape et godt skolemiljø ved å opptre hensynsfullt og høflig overfor hverandre, og vise alminnelig god folkeskikk. Det er god oppførsel å bidra til arbeidsro i timene, følge læreren undervisning og øvrige ansattes anvisninger og behandle skolens og andres eiendeler på en forsvarlig måte.
 
-Det er ikke tillatt å:bruke grovt språk, mobbe eller krenke andre fysisk, verbalt eller digitalt, være voldelig eller komme med truslerbruke mobiltelefoner under opplæringen med mindre dette er avtalt med lærerenta eller bruke bilder, film eller lydopptak av medelever, lærere, ansatte eller andre uten deres samtykkelaste ned pornografisk, rasistisk eller annet krenkende eller ulovlig materiale, eller å spre dette fysisk eller elektroniskdrive med pengespilloppbevare, bruke, selge eller kjøpe tobakk, snus, e-sigaretter, alkohol, narkotika, andre rusmidler eller dopingmidlerha med farlige gjenstander eller våpen, med mindre det er en nødvendig del av opplæringenfuske eller forsøke å fuske på prøver eller innleveringer ved å motta hjelp fra andre, gi hjelp til andre eller benytte hjelpemidler som ikke er tillattbruke andres oppgaveløsninger som sitt eget, herunder tekster og løsninger lastet ned fra internett eller materiell generert av kunstig intelligensikke anerkjenne andres arbeid, for eksempel ved å ikke bruke kildehenvisninger.
+Det er ikke tillatt å:
+
+1. bruke grovt språk, mobbe eller krenke andre fysisk, verbalt eller digitalt, være voldelig eller komme med trusler
+2. bruke mobiltelefoner under opplæringen med mindre dette er avtalt med læreren
+3. ta eller bruke bilder, film eller lydopptak av medelever, lærere, ansatte eller andre uten deres samtykke
+4. laste ned pornografisk, rasistisk eller annet krenkende eller ulovlig materiale, eller å spre dette fysisk eller elektronisk
+5. drive med pengespill
+6. oppbevare, bruke, selge eller kjøpe tobakk, snus, e-sigaretter, alkohol, narkotika, andre rusmidler eller dopingmidler
+7. ha med farlige gjenstander eller våpen, med mindre det er en nødvendig del av opplæringen
+8. fuske eller forsøke å fuske på prøver eller innleveringer ved å motta hjelp fra andre, gi hjelp til andre eller benytte hjelpemidler som ikke er tillatt
+9. bruke andres oppgaveløsninger som sitt eget, herunder tekster og løsninger lastet ned fra internett eller materiell generert av kunstig intelligens
+10. ikke anerkjenne andres arbeid, for eksempel ved å ikke bruke kildehenvisninger.
 
 ### § 2-4. Vurdering i orden og oppførsel
 
@@ -80,7 +97,10 @@ Skolen skal legge til rette for at elevene skal ytre seg fritt, og oppfordre til
 
 Skolen skal oppmuntre elevene til å ha engasjement for skolen og samfunnet, gi nødvendig opplæring og sørge for at deltakere i skolens organer får gode arbeidsforhold.
 
-Skolen skal ha følgende organer:elevråd som er valgt av elevene på skolenskoleutvalg.
+Skolen skal ha følgende organer:
+
+1. elevråd som er valgt av elevene på skolen
+2. skoleutvalg.
 
 Skolen kan velge å ha flere organer for brukermedvirkning, som skolemiljøutvalg. Elevene kan velge en annen organisering enn elevråd. Utdanningsdirektoratet gir skolene myndighet til å fastsette utfyllende regler om organer for brukermedvirkning.
 
@@ -106,11 +126,23 @@ Eleven plikter å følge de tiltakene som skolen har vedtatt. Ved manglende over
 
 ### § 4-2. Tiltak ved brudd på skolereglene
 
-Tiltak som kan settes inn ved brudd på skolereglene er:skriftlig anmerkninginndra mobiltelefon i timenfrata eleven ulovlige gjenstander eller rusmidlerutføring av pålagte oppgaver, begrenset adgang til utstyr, verksted, spesialrom med spesifisering av tidsromutbedring av skader eleven har utført med hensiktbortvisning fra klasse/gruppe for resten av en opplæringsøkt, avgrenset til to klokketimer, etter lærers avgjørelsenedsatt karakter i orden eller oppførsel, jf. [§ 2-4](forskrift/2025-06-20-1156/§2-4).
+Tiltak som kan settes inn ved brudd på skolereglene er:
+
+1. skriftlig anmerkning
+2. inndra mobiltelefon i timen
+3. frata eleven ulovlige gjenstander eller rusmidler
+4. utføring av pålagte oppgaver, begrenset adgang til utstyr, verksted, spesialrom med spesifisering av tidsrom
+5. utbedring av skader eleven har utført med hensikt
+6. bortvisning fra klasse/gruppe for resten av en opplæringsøkt, avgrenset til to klokketimer, etter lærers avgjørelse
+7. nedsatt karakter i orden eller oppførsel, jf. [§ 2-4](forskrift/2025-06-20-1156/§2-4).
 
 ### § 4-3. Særlige tiltak og saksbehandling
 
-Følgende tiltak for brudd på skolereglene, regnes som særlige tiltak:bortvisning fra skolen for resten av skoledagen etter vedtak av rektorbortvisning fra og med en hel skoledag og inntil fem skoledager etter vedtak av rektorbortvisning for resten av skoleåret etter vedtak av Utdanningsdirektoratet hvis regelbruddet eller regelbruddene er særlig alvorlig.
+Følgende tiltak for brudd på skolereglene, regnes som særlige tiltak:
+
+1. bortvisning fra skolen for resten av skoledagen etter vedtak av rektor
+2. bortvisning fra og med en hel skoledag og inntil fem skoledager etter vedtak av rektor
+3. bortvisning for resten av skoleåret etter vedtak av Utdanningsdirektoratet hvis regelbruddet eller regelbruddene er særlig alvorlig.
 
 Ved særlige tiltak skal det fattes et enkeltvedtak etter reglene [forvaltningsloven](lov/1967-02-10). Vedtak om tiltak skal være skriftlig, begrunnet og opplyse om elevens rett til å klage. Før særlige tiltak blir vurdert og besluttet, skal eleven få mulighet til å forklare seg muntlig. Rektor bør tilby eleven å ha med seg en person til denne samtalen. Foresatte til elever under 18 år skal uansett varsles.
 

@@ -15,7 +15,7 @@ xml_hash: "0e886e0dfbeed526fea3824d1785196ffec41c1a1fe21fd8548f8908d4e60b56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32015L2302"
@@ -33,7 +33,11 @@ Kongen kan i forskrift bestemme i hvilken grad loven skal gjelde for Svalbard og
 
 ### § 2. Unntak fra lovens virkeområde
 
-Loven gjelder ikke pakkereiser og sammensatte reisearrangementer somvarer kortere enn 24 timer og ikke omfatter innkvartering over nattentilbys eller formidles leilighetsvis på et ideelt grunnlag og kun til en begrenset gruppe reisende, ellerkjøpes på grunnlag av en generell avtale mellom næringsdrivende om kjøp av forretningsreiser.
+Loven gjelder ikke pakkereiser og sammensatte reisearrangementer som
+
+1. varer kortere enn 24 timer og ikke omfatter innkvartering over natten
+2. tilbys eller formidles leilighetsvis på et ideelt grunnlag og kun til en begrenset gruppe reisende, eller
+3. kjøpes på grunnlag av en generell avtale mellom næringsdrivende om kjøp av forretningsreiser.
 
 ### § 3. Ufravikelighet
 
@@ -45,29 +49,78 @@ Loven begrenser ikke opplysningsplikten eller krav til avtalen som følger av an
 
 ### § 5. Reisetjeneste
 
-Med reisetjeneste forstås i denne loven:persontransportinnkvartering som ikke er en integrert del av persontransport, og som ikke skjer med tanke på bosettingutleie av biler, andre motorvogner som definert i artikkel 3 nr. 11 i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046), eller motorsykler som krever førerkort etter artikkel 4 nr. 3 bokstav c i europaparlaments- og rådsdirektiv [2006/126/EF](eu/32006l0126)enhver annen turisttjeneste som ikke er en integrert del av en reisetjeneste som definert i bokstav a, b eller c.
+Med reisetjeneste forstås i denne loven:
+
+1. persontransport
+2. innkvartering som ikke er en integrert del av persontransport, og som ikke skjer med tanke på bosetting
+3. utleie av biler, andre motorvogner som definert i artikkel 3 nr. 11 i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046), eller motorsykler som krever førerkort etter artikkel 4 nr. 3 bokstav c i europaparlaments- og rådsdirektiv [2006/126/EF](eu/32006l0126)
+4. enhver annen turisttjeneste som ikke er en integrert del av en reisetjeneste som definert i bokstav a, b eller c.
 
 ### § 6. Pakkereise
 
-Med pakkereise forstås i denne loven en kombinasjon av minst to forskjellige typer reisetjenester som gjelder samme reise eller ferie dersomreisetjenestene settes sammen av én næringsdrivende, herunder på anmodning fra den reisende eller etter den reisendes valg, før det inngås én avtale om alle reisetjenestene, ellerreisetjenestene, uavhengig av om det inngås separate avtaler med flere ytere av reisetjenesterkjøpes fra ett utsalgssted og alle reisetjenestene velges før den reisende samtykker i å betaletilbys, selges eller faktureres til en inklusiv- eller totalprisannonseres eller selges under betegnelsen «pakkereise» eller lignende betegnelsekombineres etter inngåelse av en avtale, der en næringsdrivende gir den reisende rett til å velge blant et utvalg av forskjellige typer reisetjenester, ellerkjøpes fra flere næringsdrivende gjennom lenkede bestillingsprosesser på internett, der den reisendes navn, betalingsopplysninger og e-postadresse overføres fra den næringsdrivende som den første avtalen inngås med, til en eller flere andre næringsdrivende, og en avtale med en av de sistnevnte næringsdrivende inngås senest 24 timer etter at bestillingen av den første reisetjenesten er bekreftet.
+Med pakkereise forstås i denne loven en kombinasjon av minst to forskjellige typer reisetjenester som gjelder samme reise eller ferie dersom
 
-En kombinasjon av reisetjenester der én type reisetjeneste som definert i [§ 5](lov/2018-06-15-32/§5) bokstav a, b eller c, kombineres med en eller flere turisttjenester som definert i [§ 5](lov/2018-06-15-32/§5) bokstav d, er bare en pakkereise dersom turisttjenesteneutgjør en vesentlig andel av kombinasjonens verdi eller annonseres som, eller på annen måte utgjør et vesentlig element i kombinasjonen, ellervelges eller kjøpes før leveringen av en reisetjeneste som definert i [§ 5](lov/2018-06-15-32/§5) bokstav a, b eller c, har begynt.
+1. reisetjenestene settes sammen av én næringsdrivende, herunder på anmodning fra den reisende eller etter den reisendes valg, før det inngås én avtale om alle reisetjenestene, eller
+2. reisetjenestene, uavhengig av om det inngås separate avtaler med flere ytere av reisetjenester
+
+   1. kjøpes fra ett utsalgssted og alle reisetjenestene velges før den reisende samtykker i å betale
+   2. tilbys, selges eller faktureres til en inklusiv- eller totalpris
+   3. annonseres eller selges under betegnelsen «pakkereise» eller lignende betegnelse
+   4. kombineres etter inngåelse av en avtale, der en næringsdrivende gir den reisende rett til å velge blant et utvalg av forskjellige typer reisetjenester, eller
+   5. kjøpes fra flere næringsdrivende gjennom lenkede bestillingsprosesser på internett, der den reisendes navn, betalingsopplysninger og e-postadresse overføres fra den næringsdrivende som den første avtalen inngås med, til en eller flere andre næringsdrivende, og en avtale med en av de sistnevnte næringsdrivende inngås senest 24 timer etter at bestillingen av den første reisetjenesten er bekreftet.
+
+En kombinasjon av reisetjenester der én type reisetjeneste som definert i [§ 5](lov/2018-06-15-32/§5) bokstav a, b eller c, kombineres med en eller flere turisttjenester som definert i [§ 5](lov/2018-06-15-32/§5) bokstav d, er bare en pakkereise dersom turisttjenestene
+
+1. utgjør en vesentlig andel av kombinasjonens verdi eller annonseres som, eller på annen måte utgjør et vesentlig element i kombinasjonen, eller
+2. velges eller kjøpes før leveringen av en reisetjeneste som definert i [§ 5](lov/2018-06-15-32/§5) bokstav a, b eller c, har begynt.
 
 ### § 7. Sammensatt reisearrangement
 
-Med sammensatt reisearrangement forstås i denne loven minst to forskjellige typer reisetjenester som kjøpes for samme reise eller ferie, som ikke utgjør en pakkereise, og som fører til at det inngås separate avtaler med hver enkelt yter av reisetjenester, dersom den næringsdrivendeformidler den reisendes separate valg og separate betaling for hver reisetjeneste i løpet av ett besøk hos eller én henvendelse til den næringsdrivendes utsalgssted, ellerpå en målrettet måte formidler kjøp av minst én ytterligere reisetjeneste fra en annen næringsdrivende, når en avtale med den andre næringsdrivende inngås senest 24 timer etter at bestillingen av den første reisetjenesten er bekreftet.
+Med sammensatt reisearrangement forstås i denne loven minst to forskjellige typer reisetjenester som kjøpes for samme reise eller ferie, som ikke utgjør en pakkereise, og som fører til at det inngås separate avtaler med hver enkelt yter av reisetjenester, dersom den næringsdrivende
+
+1. formidler den reisendes separate valg og separate betaling for hver reisetjeneste i løpet av ett besøk hos eller én henvendelse til den næringsdrivendes utsalgssted, eller
+2. på en målrettet måte formidler kjøp av minst én ytterligere reisetjeneste fra en annen næringsdrivende, når en avtale med den andre næringsdrivende inngås senest 24 timer etter at bestillingen av den første reisetjenesten er bekreftet.
 
 En kombinasjon av reisetjenester der høyst én type reisetjeneste som definert i [§ 5](lov/2018-06-15-32/§5) bokstav a, b eller c, kombineres med en eller flere turisttjenester som definert i [§ 5](lov/2018-06-15-32/§5) bokstav d, er bare et sammensatt reisearrangement dersom turisttjenestene utgjør en vesentlig andel av kombinasjonens verdi, eller annonseres som, eller på annen måte utgjør et vesentlig element i kombinasjonen.
 
 ### § 8. Øvrige definisjoner
 
-Følgende begreper forstås i denne loven slik:arrangør: en næringsdrivende som kombinerer og tilbyr for salg eller selger pakkereiser, enten direkte eller gjennom eller sammen med en annen næringsdrivende, eller en næringsdrivende som overfører den reisendes opplysninger til en annen næringsdrivende etter [§ 6](lov/2018-06-15-32/§6) første ledd bokstav b nr. 5formidler: en annen næringsdrivende enn arrangøren som tilbyr for salg eller selger pakkereiser, som er kombinert av en arrangørhjemtransport: den reisendes retur til avgangsstedet eller til et annet sted som partene er enige ommangel: manglende eller mangelfull levering av reisetjenestene som inngår i en pakkereisenæringsdrivende: en fysisk eller juridisk person som i forbindelse med avtaler som omfattes av denne loven, handler for formål som faller innenfor vedkommendes nærings- eller yrkesvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegnepakkereiseavtale: en avtale om en pakkereise som helhet eller, dersom pakkereisen består av separate avtaler, alle avtalene om reisetjenestene som inngår i pakkereisenreisende: en person som har til hensikt å inngå en pakkereiseavtale, eller som har rett til å reise på grunnlag av en avtale som omfattes av denne lovenutsalgssted: et forretningslokale for detaljhandel, mobilt eller fast, eller et detaljhandelsnettsted eller lignende nettstrukturer, herunder nettsteder for detaljhandel eller nettsalgssteder som presenteres for reisende som ett salgssted, herunder en telefontjenesteuunngåelige og ekstraordinære omstendigheter: en situasjon som den part som påberoper seg en slik situasjon ikke har kontroll over, og der konsekvensene ikke hadde kunnet avverges, selv om alle rimelige tiltak var blitt truffetvarig medium: en innretning som gjør den reisende eller den næringsdrivende i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelige i uendret form.
+Følgende begreper forstås i denne loven slik:
+
+1. arrangør: en næringsdrivende som kombinerer og tilbyr for salg eller selger pakkereiser, enten direkte eller gjennom eller sammen med en annen næringsdrivende, eller en næringsdrivende som overfører den reisendes opplysninger til en annen næringsdrivende etter [§ 6](lov/2018-06-15-32/§6) første ledd bokstav b nr. 5
+2. formidler: en annen næringsdrivende enn arrangøren som tilbyr for salg eller selger pakkereiser, som er kombinert av en arrangør
+3. hjemtransport: den reisendes retur til avgangsstedet eller til et annet sted som partene er enige om
+4. mangel: manglende eller mangelfull levering av reisetjenestene som inngår i en pakkereise
+5. næringsdrivende: en fysisk eller juridisk person som i forbindelse med avtaler som omfattes av denne loven, handler for formål som faller innenfor vedkommendes nærings- eller yrkesvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne
+6. pakkereiseavtale: en avtale om en pakkereise som helhet eller, dersom pakkereisen består av separate avtaler, alle avtalene om reisetjenestene som inngår i pakkereisen
+7. reisende: en person som har til hensikt å inngå en pakkereiseavtale, eller som har rett til å reise på grunnlag av en avtale som omfattes av denne loven
+8. utsalgssted: et forretningslokale for detaljhandel, mobilt eller fast, eller et detaljhandelsnettsted eller lignende nettstrukturer, herunder nettsteder for detaljhandel eller nettsalgssteder som presenteres for reisende som ett salgssted, herunder en telefontjeneste
+9. uunngåelige og ekstraordinære omstendigheter: en situasjon som den part som påberoper seg en slik situasjon ikke har kontroll over, og der konsekvensene ikke hadde kunnet avverges, selv om alle rimelige tiltak var blitt truffet
+10. varig medium: en innretning som gjør den reisende eller den næringsdrivende i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelige i uendret form.
 
 ## Kapittel 2. Opplysningsplikt og innhold i pakkereiseavtalen
 
 ### § 9. Opplysninger som skal gis før det inngås avtale om pakkereise
 
-Før det inngås en avtale om en pakkereise skal arrangøren eller formidleren gi den reisende følgende opplysninger, dersom det er relevant for pakkereisen:reisetjenestenes vesentligste kjennetegn. Dette omfatter:reisemål, reiserute og oppholdets varighet, med angivelse av datoer og antall netter som inngår ved innkvarteringtransportmidler, type transport og transportkategorier, steder, datoer og tidspunkter for avreise og retur, steder hvor det gjøres opphold underveis og varigheten av disse oppholdene, samt transportforbindelser. Hvis det nøyaktige tidspunktet ennå ikke er fastsatt, skal den næringsdrivende opplyse den reisende om det omtrentlige tidspunktet for avreise og returinnkvarteringsstedets beliggenhet, hovedkjennetegn og, dersom det er relevant, kategori etter bestemmelseslandets reglermåltider som inngårbesøk, utflukter eller andre ytelser som inngår i den samlede prisen som er avtalt for pakkereisendersom det ikke fremgår av sammenhengen, hvorvidt noen av reisetjenestene ytes den reisende som del av en gruppe, og i så fall den omtrentlige størrelsen på gruppen, hvis det kan angisdersom den reisendes utbytte av andre turisttjenester avhenger av en effektiv muntlig kommunikasjon, språket som disse tjenestene vil foregå på, oghvorvidt reisen eller ferien generelt er egnet for personer med funksjonsnedsettelser og, på anmodning fra den reisende, nøyaktige opplysninger om hvorvidt reisen eller ferien er egnet for den reisendearrangørens, eventuelt formidlerens, foretaksnavn, fysiske adresse, telefonnummer og e-postadressepakkereisens samlede pris, inkludert skatter og eventuelle tilleggsavgifter, gebyrer og andre kostnader. Dersom kostnadene ikke med rimelighet kan beregnes før avtalen inngås, skal det angis hvilke typer tilleggskostnader den reisende eventuelt må betalebetalingsvilkår, blant annet beløp eller prosentandel av prisen som skal betales på forskudd, og tidsplanen for betaling av restbeløpet, eller økonomiske garantier som skal betales eller stilles av den reisendedet minste antallet personer som kreves for at pakkereisen skal gjennomføres, og fristen for å avlyse reisen dersom dette antallet ikke nåsgenerelle opplysninger om pass- og visumkrav, herunder omtrent hvor lang tid det tar å få visum. Det skal også gis opplysninger om helsekrav i bestemmelseslandetat den reisende til enhver tid før pakkereisen begynner kan avbestille reisen mot betaling av et rimelig gebyr eller, dersom det er relevant, arrangørens standardiserte gebyrerom valgfri eller obligatorisk forsikring.
+Før det inngås en avtale om en pakkereise skal arrangøren eller formidleren gi den reisende følgende opplysninger, dersom det er relevant for pakkereisen:
+
+1. reisetjenestenes vesentligste kjennetegn. Dette omfatter:
+
+   1. reisemål, reiserute og oppholdets varighet, med angivelse av datoer og antall netter som inngår ved innkvartering
+   2. transportmidler, type transport og transportkategorier, steder, datoer og tidspunkter for avreise og retur, steder hvor det gjøres opphold underveis og varigheten av disse oppholdene, samt transportforbindelser. Hvis det nøyaktige tidspunktet ennå ikke er fastsatt, skal den næringsdrivende opplyse den reisende om det omtrentlige tidspunktet for avreise og retur
+   3. innkvarteringsstedets beliggenhet, hovedkjennetegn og, dersom det er relevant, kategori etter bestemmelseslandets regler
+   4. måltider som inngår
+   5. besøk, utflukter eller andre ytelser som inngår i den samlede prisen som er avtalt for pakkereisen
+   6. dersom det ikke fremgår av sammenhengen, hvorvidt noen av reisetjenestene ytes den reisende som del av en gruppe, og i så fall den omtrentlige størrelsen på gruppen, hvis det kan angis
+   7. dersom den reisendes utbytte av andre turisttjenester avhenger av en effektiv muntlig kommunikasjon, språket som disse tjenestene vil foregå på, og
+   8. hvorvidt reisen eller ferien generelt er egnet for personer med funksjonsnedsettelser og, på anmodning fra den reisende, nøyaktige opplysninger om hvorvidt reisen eller ferien er egnet for den reisende
+2. arrangørens, eventuelt formidlerens, foretaksnavn, fysiske adresse, telefonnummer og e-postadresse
+3. pakkereisens samlede pris, inkludert skatter og eventuelle tilleggsavgifter, gebyrer og andre kostnader. Dersom kostnadene ikke med rimelighet kan beregnes før avtalen inngås, skal det angis hvilke typer tilleggskostnader den reisende eventuelt må betale
+4. betalingsvilkår, blant annet beløp eller prosentandel av prisen som skal betales på forskudd, og tidsplanen for betaling av restbeløpet, eller økonomiske garantier som skal betales eller stilles av den reisende
+5. det minste antallet personer som kreves for at pakkereisen skal gjennomføres, og fristen for å avlyse reisen dersom dette antallet ikke nås
+6. generelle opplysninger om pass- og visumkrav, herunder omtrent hvor lang tid det tar å få visum. Det skal også gis opplysninger om helsekrav i bestemmelseslandet
+7. at den reisende til enhver tid før pakkereisen begynner kan avbestille reisen mot betaling av et rimelig gebyr eller, dersom det er relevant, arrangørens standardiserte gebyrer
+8. om valgfri eller obligatorisk forsikring.
 
 Arrangøren eller formidleren skal også gi standardopplysninger. Disse skal gis ved bruk av relevant standardisert skjema.
 
@@ -85,7 +138,16 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvordan opplysningspli
 
 ### § 11. Opplysninger som skal gis i pakkereiseavtalen eller i bekreftelsen
 
-Pakkereiseavtalen eller bekreftelsen på avtalen skal inneholde opplysningene i [§ 9](lov/2018-06-15-32/§9). I tillegg skal avtalen eller bekreftelsen inneholde følgende:en angivelse av den reisendes særlige krav som arrangøren har godtattopplysninger om at arrangøren er ansvarlig for at alle reisetjenestene som inngår i avtalen leveres på en tilfredsstillende måte etter bestemmelsene i [kapittel 5](lov/2018-06-15-32/kap5), og at arrangøren er forpliktet til å yte bistand til reisende i vanskeligheter etter [§ 36](lov/2018-06-15-32/§36)Reisegarantifondets kontaktopplysningernavnet, adressen, telefonnummeret, e-postadressen og, dersom det er relevant, faksnummeret til arrangørens lokale representant, til et kontaktpunkt eller til en annen tjeneste som gjør det mulig for den reisende å kontakte arrangøren raskt og kommunisere effektivt med vedkommende, anmode om bistand dersom den reisende er i vanskeligheter, eller klage over en mangel som konstateres under gjennomføringen av pakkereisenopplysning om at den reisende har plikt til, uten ugrunnet opphold, å informere om enhver mangel som konstateres under gjennomføringen av pakkereisenopplysninger som muliggjør direkte kontakt med en mindreårig eller med en person som er ansvarlig for denne, når den mindreårige reiser uten foreldre eller en annen godkjent person, og pakkereiseavtalen omfatter innkvarteringopplysninger om intern klagebehandling, om prosedyrer for utenrettslig klagebehandling, om klageorganer som den næringsdrivende omfattes av og om den nettbaserte klageportalen for klagebehandling om landegrenser, jf. [godkjenningsloven § 12](lov/2016-06-17-29/§12) annet ledd.opplysninger om den reisendes rett til å overdra avtalen til en annen reisende etter [§ 18](lov/2018-06-15-32/§18).
+Pakkereiseavtalen eller bekreftelsen på avtalen skal inneholde opplysningene i [§ 9](lov/2018-06-15-32/§9). I tillegg skal avtalen eller bekreftelsen inneholde følgende:
+
+1. en angivelse av den reisendes særlige krav som arrangøren har godtatt
+2. opplysninger om at arrangøren er ansvarlig for at alle reisetjenestene som inngår i avtalen leveres på en tilfredsstillende måte etter bestemmelsene i [kapittel 5](lov/2018-06-15-32/kap5), og at arrangøren er forpliktet til å yte bistand til reisende i vanskeligheter etter [§ 36](lov/2018-06-15-32/§36)
+3. Reisegarantifondets kontaktopplysninger
+4. navnet, adressen, telefonnummeret, e-postadressen og, dersom det er relevant, faksnummeret til arrangørens lokale representant, til et kontaktpunkt eller til en annen tjeneste som gjør det mulig for den reisende å kontakte arrangøren raskt og kommunisere effektivt med vedkommende, anmode om bistand dersom den reisende er i vanskeligheter, eller klage over en mangel som konstateres under gjennomføringen av pakkereisen
+5. opplysning om at den reisende har plikt til, uten ugrunnet opphold, å informere om enhver mangel som konstateres under gjennomføringen av pakkereisen
+6. opplysninger som muliggjør direkte kontakt med en mindreårig eller med en person som er ansvarlig for denne, når den mindreårige reiser uten foreldre eller en annen godkjent person, og pakkereiseavtalen omfatter innkvartering
+7. opplysninger om intern klagebehandling, om prosedyrer for utenrettslig klagebehandling, om klageorganer som den næringsdrivende omfattes av og om den nettbaserte klageportalen for klagebehandling om landegrenser, jf. [godkjenningsloven § 12](lov/2016-06-17-29/§12) annet ledd.
+8. opplysninger om den reisendes rett til å overdra avtalen til en annen reisende etter [§ 18](lov/2018-06-15-32/§18).
 
 Opplysninger som er gitt i informasjonsmateriell som arrangøren har utarbeidet eller viser til, regnes som del av avtalen. Dette gjelder ikke dersom opplysningene må antas å ha vært uten betydning for den reisendes beslutning om å inngå avtale om pakkereise.
 
@@ -137,9 +199,17 @@ Arrangøren skal opplyse overdrageren om kostnadene forbundet med overdragelsen.
 
 ### § 19. Prisendringer
 
-Etter at pakkereiseavtalen er inngått kan prisen på pakkereisen bare økes hvis følgende er inntatt i avtalen:et uttrykkelig forbehold om at prisen kan økesen angivelse av hvordan prisøkningen skal beregnesen rett for den reisende til tilsvarende prisreduksjon dersom kostnader som nevnt i annet ledd endres etter avtaleinngåelsen, men før reisen begynner.
+Etter at pakkereiseavtalen er inngått kan prisen på pakkereisen bare økes hvis følgende er inntatt i avtalen:
 
-Prisen på pakkereisen kan bare økes som en direkte følge av endringer iprisen på persontransport som følge av prisen på drivstoff eller andre energikilderskatte- eller avgiftsnivået for reisetjenestene som inngår i avtalen, ellervalutakurser av betydning for pakkereisen.
+1. et uttrykkelig forbehold om at prisen kan økes
+2. en angivelse av hvordan prisøkningen skal beregnes
+3. en rett for den reisende til tilsvarende prisreduksjon dersom kostnader som nevnt i annet ledd endres etter avtaleinngåelsen, men før reisen begynner.
+
+Prisen på pakkereisen kan bare økes som en direkte følge av endringer i
+
+1. prisen på persontransport som følge av prisen på drivstoff eller andre energikilder
+2. skatte- eller avgiftsnivået for reisetjenestene som inngår i avtalen, eller
+3. valutakurser av betydning for pakkereisen.
 
 Dersom prisen skal økes, må arrangøren underrette den reisende om dette på et varig medium senest 20 dager før pakkereisen begynner. Den reisende skal underrettes på en tydelig og forståelig måte, og det skal gis en begrunnelse for og en beregning av prisøkningen.
 
@@ -177,7 +247,11 @@ Den reisende har rett til å avbestille pakkereisen før den begynner, uten å b
 
 ### § 23. Avlysning av pakkereisen
 
-Arrangøren kan avlyse pakkereisen dersom antall personer påmeldt til pakkereisen er lavere enn minsteantallet angitt i avtalen, og arrangøren underretter den reisende om avlysningen innen fristen fastsatt i avtalen, men senest:20 dager før pakkereisen begynner ved reiser som varer i mer enn 6 dager7 dager før pakkereisen begynner ved reiser som varer mellom 2 og 6 dager48 timer før pakkereisen begynner ved reiser som varer i mindre enn 2 dager.
+Arrangøren kan avlyse pakkereisen dersom antall personer påmeldt til pakkereisen er lavere enn minsteantallet angitt i avtalen, og arrangøren underretter den reisende om avlysningen innen fristen fastsatt i avtalen, men senest:
+
+1. 20 dager før pakkereisen begynner ved reiser som varer i mer enn 6 dager
+2. 7 dager før pakkereisen begynner ved reiser som varer mellom 2 og 6 dager
+3. 48 timer før pakkereisen begynner ved reiser som varer i mindre enn 2 dager.
 
 Arrangøren kan også avlyse pakkereisen dersom pakkereisen ikke kan gjennomføres på grunn av uunngåelige og ekstraordinære omstendigheter og den reisende underrettes om avlysningen uten ugrunnet opphold.
 
@@ -259,7 +333,10 @@ Begrensningen til tre netter i første ledd gjelder ikke for bevegelseshemmede p
 
 ### § 36. Bistandsplikt
 
-Arrangøren skal uten ugrunnet opphold yte passende bistand til reisende i vanskeligheter. Bistanden skal særlig gå ut påå gi passende opplysninger om helsetjenester, lokale myndigheter og konsulær bistand, ogå bistå den reisende med å opprette fjernkommunikasjon og med å finne alternative reisetjenester.
+Arrangøren skal uten ugrunnet opphold yte passende bistand til reisende i vanskeligheter. Bistanden skal særlig gå ut på
+
+1. å gi passende opplysninger om helsetjenester, lokale myndigheter og konsulær bistand, og
+2. å bistå den reisende med å opprette fjernkommunikasjon og med å finne alternative reisetjenester.
 
 Arrangøren kan kreve et rimelig gebyr for bistanden dersom vanskelighetene er forårsaket forsettlig eller uaktsomt av den reisende. Gebyret kan ikke være høyere enn arrangørens faktiske kostnader.
 
@@ -277,7 +354,11 @@ Er pakkereisen kjøpt gjennom en formidler, kan den reisende rette henvendelser 
 
 ### § 39. Opplysningskrav
 
-Før det inngås en avtale som kan føre til at det opprettes et sammensatt reisearrangement, skal den næringsdrivende som formidler det sammensatte reisearrangementet, gi den reisende tydelige og forståelige opplysninger i fremhevet form omat den reisende ikke er beskyttet av de rettighetene som utelukkende gjelder for pakkereiserat hver tjenesteyter bare er ansvarlig for korrekt levering av egen reisetjenesteat den reisende er omfattet av reisegarantien etter [§ 42](lov/2018-06-15-32/§42) første ledd annet punktum.
+Før det inngås en avtale som kan føre til at det opprettes et sammensatt reisearrangement, skal den næringsdrivende som formidler det sammensatte reisearrangementet, gi den reisende tydelige og forståelige opplysninger i fremhevet form om
+
+1. at den reisende ikke er beskyttet av de rettighetene som utelukkende gjelder for pakkereiser
+2. at hver tjenesteyter bare er ansvarlig for korrekt levering av egen reisetjeneste
+3. at den reisende er omfattet av reisegarantien etter [§ 42](lov/2018-06-15-32/§42) første ledd annet punktum.
 
 Opplysningene i første ledd skal gis ved bruk av relevant standardisert opplysningsskjema. Dersom det ikke finnes et relevant skjema, skal opplysningene gis på annen måte. Departementet kan i forskrift gi nærmere bestemmelser om standardiserte opplysningsskjemaer.
 

@@ -15,7 +15,7 @@ xml_hash: "02b7fde152a33283eee921052376f257e77b394e191ac02529d95edea1c5a2f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019L0770"
@@ -41,7 +41,13 @@ Loven gjelder for levering av digitale ytelser som er utviklet etter forbrukeren
 
 Med unntak av bestemmelsene om levering og forbrukerens krav ved forsinket levering i [§§ 4](lov/2022-06-17-56/§4), [5](lov/2022-06-17-56/§5) og [15](lov/2022-06-17-56/§15) gjelder loven også for fysiske medier som utelukkende brukes som bærere av digitalt innhold. For levering og forbrukerens krav ved forsinket levering av slike fysiske medier gjelder [forbrukerkjøpsloven](lov/2002-06-21-34).
 
-Loven gjelder ikke forhelsetjenester som foreskrives eller utføres av helsepersonellpengespilltjenesteroffentlig fremvisning av digitalt innhold som ledd i en forestilling eller et arrangementelektroniske kommunikasjonstjenester med unntak av nummeruavhengige person-til-person-kommunikasjonstjenesterfinansielle tjenester som nevnt i [finansavtaleloven § 1-3](lov/2020-12-18-146/§1-3) annet ledd og forsikringstjenester.
+Loven gjelder ikke for
+
+1. helsetjenester som foreskrives eller utføres av helsepersonell
+2. pengespilltjenester
+3. offentlig fremvisning av digitalt innhold som ledd i en forestilling eller et arrangement
+4. elektroniske kommunikasjonstjenester med unntak av nummeruavhengige person-til-person-kommunikasjonstjenester
+5. finansielle tjenester som nevnt i [finansavtaleloven § 1-3](lov/2020-12-18-146/§1-3) annet ledd og forsikringstjenester.
 
 [Forbrukerkjøpsloven](lov/2002-06-21-34) gjelder for digitale ytelser som etter kjøpsavtalen skal leveres sammen med en ting, og som er sammenknyttet med tingen på en slik måte at ytelsene er nødvendige for tingens funksjoner. Dette gjelder uavhengig av om de digitale ytelsene skal leveres av selgeren eller en tredjeperson. Er det tvil om hvorvidt levering av de digitale ytelsene omfattes av kjøpsavtalen, legges det til grunn at ytelsene er omfattet av avtalen. For andre avtaler som omfatter både levering av digitale ytelser og levering av ting eller andre tjenester enn digitale ytelser (kombinerte avtaler), anvendes loven på den delen av avtalen som gjelder digitale ytelser, med unntak for tilfeller som nevnt i § 43 og der noe annet er fastsatt i eller i medhold av lov.
 
@@ -67,7 +73,11 @@ Det påhviler leverandøren å bevise at den digitale ytelsen er levert i samsva
 
 ### § 7. Avtalte krav til ytelsen
 
-Den digitale ytelsen skal samsvare med det som er avtalt om blant annetart, mengde, kvalitet, kompatibilitet og andre egenskapertilbehør, veiledninger og kundeserviceoppdateringer.
+Den digitale ytelsen skal samsvare med det som er avtalt om blant annet
+
+1. art, mengde, kvalitet, kompatibilitet og andre egenskaper
+2. tilbehør, veiledninger og kundeservice
+3. oppdateringer.
 
 Den digitale ytelsen skal også passe for et bestemt formål som forbrukeren har gjort leverandøren kjent med, og som leverandøren har akseptert.
 
@@ -77,7 +87,14 @@ Hvis ikke noe annet følger av avtalen, skal den digitale ytelsen leveres i den 
 
 Den digitale ytelsen skal ellers samsvare med kravene i tredje ledd så langt forbrukeren ikke på avtaletidspunktet ble gjort særskilt oppmerksom på bestemte avvik fra kravene og aksepterte disse avvikene særskilt og uttrykkelig.
 
-Ytelsen skal dessutenpasse for de formålene som tilsvarende ytelser vanligvis brukes tilsvare til det som forbrukeren har grunn til å forvente når det gjelder funksjonalitet og andre egenskaper, under hensyn til ytelsens art og opplysninger om ytelsen fra leverandørens side, jf. fjerde leddleveres med tilbehør, innpakning, installasjonsveiledning og lignende som forbrukeren med rimelighet kan forvente å fåsvare til en eventuell prøveversjon eller forhåndsvisning fra leverandørenvære i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlige vedtak i medhold av lov på avtaletidspunktet, hvis ikke forbrukeren har til hensikt å anvende ytelsen på en slik måte at kravet er uten betydningvære upåvirket av tredjepersoners rettigheter i ytelsen, for eksempel eiendomsrett, panterett eller immaterialrettigheter.
+Ytelsen skal dessuten
+
+1. passe for de formålene som tilsvarende ytelser vanligvis brukes til
+2. svare til det som forbrukeren har grunn til å forvente når det gjelder funksjonalitet og andre egenskaper, under hensyn til ytelsens art og opplysninger om ytelsen fra leverandørens side, jf. fjerde ledd
+3. leveres med tilbehør, innpakning, installasjonsveiledning og lignende som forbrukeren med rimelighet kan forvente å få
+4. svare til en eventuell prøveversjon eller forhåndsvisning fra leverandøren
+5. være i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlige vedtak i medhold av lov på avtaletidspunktet, hvis ikke forbrukeren har til hensikt å anvende ytelsen på en slik måte at kravet er uten betydning
+6. være upåvirket av tredjepersoners rettigheter i ytelsen, for eksempel eiendomsrett, panterett eller immaterialrettigheter.
 
 Med opplysninger fra leverandørens side etter tredje ledd nr. 2 menes opplysninger i markedsføring, merking eller annet fra leverandøren selv, fra noen som handler på vegne av leverandøren, eller fra noen i et tidligere ledd i avtalekjeden. Det skal ses bort fra opplysninger fra leverandørens side hvis leverandøren beviser at han eller hun ikke kjente eller burde kjenne til at opplysningene var gitt, at opplysningene før avtaletidspunktet er rettet på samme eller tilsvarende måte som de ble fremsatt, eller at opplysningene ikke kan ha innvirket på avtalen.
 
@@ -109,7 +126,12 @@ Forbrukeren skal samarbeide i rimelig utstrekning hvis leverandøren vil unders�
 
 ### § 12. Forbrukerens krav ved forsinkelse
 
-Hvis den digitale ytelsen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukerenholde vederlaget tilbake etter [§ 13](lov/2022-06-17-56/§13)kreve oppfyllelse etter [§ 14](lov/2022-06-17-56/§14)kreve heving etter [§ 15](lov/2022-06-17-56/§15)kreve erstatning etter [§ 16](lov/2022-06-17-56/§16).
+Hvis den digitale ytelsen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukeren
+
+1. holde vederlaget tilbake etter [§ 13](lov/2022-06-17-56/§13)
+2. kreve oppfyllelse etter [§ 14](lov/2022-06-17-56/§14)
+3. kreve heving etter [§ 15](lov/2022-06-17-56/§15)
+4. kreve erstatning etter [§ 16](lov/2022-06-17-56/§16).
 
 Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -153,7 +175,13 @@ Forbrukeren må gi leverandøren melding om krav som følge av forsinkelse. Krav
 
 ### § 19. Forbrukerens krav ved mangler
 
-Hvis det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukerenholde vederlaget tilbake etter [§ 20](lov/2022-06-17-56/§20)kreve retting eller omlevering etter [§§ 21](lov/2022-06-17-56/§21) og [22](lov/2022-06-17-56/§22)kreve prisavslag etter [§ 23](lov/2022-06-17-56/§23)kreve heving etter [§ 24](lov/2022-06-17-56/§24)kreve erstatning etter [§ 25](lov/2022-06-17-56/§25).
+Hvis det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukeren
+
+1. holde vederlaget tilbake etter [§ 20](lov/2022-06-17-56/§20)
+2. kreve retting eller omlevering etter [§§ 21](lov/2022-06-17-56/§21) og [22](lov/2022-06-17-56/§22)
+3. kreve prisavslag etter [§ 23](lov/2022-06-17-56/§23)
+4. kreve heving etter [§ 24](lov/2022-06-17-56/§24)
+5. kreve erstatning etter [§ 25](lov/2022-06-17-56/§25).
 
 Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -239,7 +267,11 @@ Hvis det ikke er avtalt avbestillingsgebyr, utmåles erstatningen etter reglene 
 
 Etter at digitalt innhold er levert, blir forbrukeren ikke fritatt fra å yte vederlaget selv om innholdet og en eventuell fysisk bærer leveres tilbake til leverandøren.
 
-Betalingsplikten bortfaller likevelved hevinghvis vilkårene for angrerett etter [angrerettloven](lov/2014-06-20-27) er oppfylthvis en rett til tilbakelevering følger av avtalen, for eksempel ved at innholdet er kjøpt på prøve.
+Betalingsplikten bortfaller likevel
+
+1. ved heving
+2. hvis vilkårene for angrerett etter [angrerettloven](lov/2014-06-20-27) er oppfylt
+3. hvis en rett til tilbakelevering følger av avtalen, for eksempel ved at innholdet er kjøpt på prøve.
 
 ### § 33. Oppsigelse fra forbrukeren i løpende avtaleforhold
 
@@ -257,7 +289,12 @@ Er det avtalt periodevis betaling for løpende levering av digitale ytelser og f
 
 ### § 34. Leverandørens krav
 
-Hvis forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven og dette ikke skyldes leverandøren eller forhold på leverandørens side, kan leverandørenholde ytelsen tilbake etter [§ 35](lov/2022-06-17-56/§35)kreve oppfyllelse etter [§ 36](lov/2022-06-17-56/§36)kreve heving etter [§ 37](lov/2022-06-17-56/§37)kreve erstatning og rente etter [§ 38](lov/2022-06-17-56/§38).
+Hvis forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven og dette ikke skyldes leverandøren eller forhold på leverandørens side, kan leverandøren
+
+1. holde ytelsen tilbake etter [§ 35](lov/2022-06-17-56/§35)
+2. kreve oppfyllelse etter [§ 36](lov/2022-06-17-56/§36)
+3. kreve heving etter [§ 37](lov/2022-06-17-56/§37)
+4. kreve erstatning og rente etter [§ 38](lov/2022-06-17-56/§38).
 
 Leverandørens rett til erstatning og rente faller ikke bort ved at leverandøren gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -331,7 +368,12 @@ Hevingen har ingen betydning for avtalevilkår om forretningshemmeligheter, om l
 
 Når avtalen er hevet, skal leverandøren betale tilbake mottatt vederlag til forbrukeren. Gjelder avtalen løpende levering over en periode, betaler leverandøren likevel ikke tilbake vederlag for perioder forut for hevingserklæringen der ytelsen var mangelfri.
 
-Leverandøren skal avstå fra å anvende innhold som forbrukeren har avgitt eller frembrakt ved bruk av den digitale ytelsen, med unntak av personopplysninger, jf. femte ledd. Dette gjelder likevel ikke hvis innholdetbare kan anvendes innenfor rammene av den digitale ytelsenbare gjelder forbrukerens aktivitet ved bruk av den digitale ytelsenhar blitt forbundet med andre data fra leverandøren på en slik måte at det vil være umulig eller uforholdsmessig krevende å utskille innholdet, ellerer frembrakt av forbrukeren og andre i fellesskap og andre forbrukere fortsatt kan gjøre bruk av innholdet.
+Leverandøren skal avstå fra å anvende innhold som forbrukeren har avgitt eller frembrakt ved bruk av den digitale ytelsen, med unntak av personopplysninger, jf. femte ledd. Dette gjelder likevel ikke hvis innholdet
+
+1. bare kan anvendes innenfor rammene av den digitale ytelsen
+2. bare gjelder forbrukerens aktivitet ved bruk av den digitale ytelsen
+3. har blitt forbundet med andre data fra leverandøren på en slik måte at det vil være umulig eller uforholdsmessig krevende å utskille innholdet, eller
+4. er frembrakt av forbrukeren og andre i fellesskap og andre forbrukere fortsatt kan gjøre bruk av innholdet.
 
 Hvis forbrukeren ber om det, skal leverandøren stille til rådighet for forbrukeren innhold etter annet ledd, bortsett fra i tilfeller som nevnt i annet ledd nr. 1, 2 og 3. Forbrukeren har rett til å laste ned slikt innhold kostnadsfritt innen rimelig tid og i et vanlig og maskinleselig format.
 
@@ -359,7 +401,10 @@ Erstatning for kontraktsbrudd fra den ene partens side skal svare til tapet, her
 
 Som tap etter første ledd regnes også at forbrukeren påføres en konkret og ikke ubetydelig ulempe ved kontraktsbruddet. Partene kan avtale normalerstatning for slike tap så langt normalerstatningen er rimelig under hensyn til de mulige tapenes art og omfang.
 
-Erstatningen omfatter ikketap som følge av personskadetap i forbrukerens næringsvirksomhet.
+Erstatningen omfatter ikke
+
+1. tap som følge av personskade
+2. tap i forbrukerens næringsvirksomhet.
 
 ### § 49. Beregning av prisforskjell ved heving
 

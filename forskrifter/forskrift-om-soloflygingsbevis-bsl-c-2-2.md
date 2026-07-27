@@ -15,7 +15,7 @@ xml_hash: "622ac268f071d85db561a90666ce78b98f0e9767e95357e7263310ecc8117165"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,17 +46,43 @@ Før utstedelse skal flyeleven ha gjennomgått godkjent teoriutdanning til PPL-A
 
 1.3.1
 
-Følgende minimumskrav skal være oppfylt:10 timer flyelevtid med en flygeinstruktør, og30 avganger og 30 landinger med eller uten motorinnlegg. Avbrutte innflyginger skal være inkludert, og for fly skal minst 10 av landingene være sidevindslandinger.
+Følgende minimumskrav skal være oppfylt:
+
+1. 10 timer flyelevtid med en flygeinstruktør, og
+2. 30 avganger og 30 landinger med eller uten motorinnlegg. Avbrutte innflyginger skal være inkludert, og for fly skal minst 10 av landingene være sidevindslandinger.
 
 1.4*Instruksjon i flyging*
 
 1.4.1
 
-Flyeleven skal av en flygeinstruktør ha fått instruksjon i fly/helikopter av den angjeldende type/modell, på et godkjent kurs som kvalifiserer flyeleven for soloflyging. Flyet/helikopteret skal av Luftfartsverket være godkjent for skoleflyging. Instruktøren skal i hvert enkelt tilfelle forvisse seg om at flyeleven har operasjonell erfaring på de følgende områder:tiltak før og etter flyging, inspeksjon av flyet/helikopteret og daglig ettersyn,flyplass- og landingsrundeoperasjoner, forholdsregler og prosedyrer for å unngå kollisjoner,føring av flyet/helikopteret ved eksterne visuelle referanser,nødoperasjoner, inkludert simulerte svikt i flyet/helikopteret eller dets utrustning,radiotelefoniprosedyrer på den lokale flyplassen,I tillegg for fly:flyging ved kritisk lave hastigheter, oppdagelse av og uttak fra begynnende og fulle steilinger,oppdagelse av, og uttak fra spiralstup,normale og sidevinds avganger og landinger,I tillegg for helikopter:uttak i den innledende fase ved vertikal gjennomsynkning med motor (settling with power). Uttaksteknikk fra lavt rotorturtall innenfor det normale område for motor-turtall,bakkemanøvrering og oppkjøringer, hovring, avganger og landinger – normale, ut av vind og i skråning.
+Flyeleven skal av en flygeinstruktør ha fått instruksjon i fly/helikopter av den angjeldende type/modell, på et godkjent kurs som kvalifiserer flyeleven for soloflyging. Flyet/helikopteret skal av Luftfartsverket være godkjent for skoleflyging. Instruktøren skal i hvert enkelt tilfelle forvisse seg om at flyeleven har operasjonell erfaring på de følgende områder:
+
+1. tiltak før og etter flyging, inspeksjon av flyet/helikopteret og daglig ettersyn,
+2. flyplass- og landingsrundeoperasjoner, forholdsregler og prosedyrer for å unngå kollisjoner,
+3. føring av flyet/helikopteret ved eksterne visuelle referanser,
+4. nødoperasjoner, inkludert simulerte svikt i flyet/helikopteret eller dets utrustning,
+5. radiotelefoniprosedyrer på den lokale flyplassen,
+
+I tillegg for fly:
+
+1. flyging ved kritisk lave hastigheter, oppdagelse av og uttak fra begynnende og fulle steilinger,
+2. oppdagelse av, og uttak fra spiralstup,
+3. normale og sidevinds avganger og landinger,
+
+I tillegg for helikopter:
+
+1. uttak i den innledende fase ved vertikal gjennomsynkning med motor (settling with power). Uttaksteknikk fra lavt rotorturtall innenfor det normale område for motor-turtall,
+2. bakkemanøvrering og oppkjøringer, hovring, avganger og landinger – normale, ut av vind og i skråning.
 
 1.5*Ferdigheter*
 
-Flyeleven skal ha demonstrert å kunne utføre, som soloflyger av flyet/helikopteret, de prosedyrer og manøvre som er beskrevet i punkt 1.4 med en dyktighet i samsvar med de rettigheter som et solo- flygingsbevis gir, og:operere flyet/helikopteret vel innenfor dets begrensninger,fullføre alle manøvre sikkert,utvise god dømmekraft og godt flygerskjønn,anvende teorikunnskaper, ogtil enhver tid ha kontroll over flyet/helikopteret slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
+Flyeleven skal ha demonstrert å kunne utføre, som soloflyger av flyet/helikopteret, de prosedyrer og manøvre som er beskrevet i punkt 1.4 med en dyktighet i samsvar med de rettigheter som et solo- flygingsbevis gir, og:
+
+1. operere flyet/helikopteret vel innenfor dets begrensninger,
+2. fullføre alle manøvre sikkert,
+3. utvise god dømmekraft og godt flygerskjønn,
+4. anvende teorikunnskaper, og
+5. til enhver tid ha kontroll over flyet/helikopteret slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
 
 1.6*Medisinsk skikkethet*
 

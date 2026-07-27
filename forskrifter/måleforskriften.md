@@ -15,7 +15,7 @@ xml_hash: "c9506b1b45873c3fa3a8328ed49d46341a0cafcc32ef45d9c16244c08fb76811"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,62 @@ eu_basis: []
 
 ### § 3. Definisjoner
 
-(1) I denne forskriften forstås med:*allokering*, en matematisk prosess for å bestemme hvilken mengde produsert petroleum av en total produksjon fra hele produksjonssystemet som skal tilordnes et individuelt felt eller en utvinningstillatelse,*allokeringsmåling*, en måling der måleresultatet inngår i en allokering. Dette omfatter ikke leveringsmålinger og CO2-avgiftsmålinger,*arbeidsområde,* et område definert ved to verdier av en størrelse som, under spesifiserte forhold, kan måles med et gitt måleinstrument eller målesystem med en spesifisert instrumentell måleusikkerhet. Et måleinstrument eller målesystem kan ha flere arbeidsområder,*automatisk prøvetaker*, et system som er i stand til å ta representative prøver fra fluider som strømmer i et rør. Systemet består minst av en prøvetakingssonde, en tilknyttet kontrollenhet og en prøvebeholder,*avlesning,* en verdi av en størrelse fremskaffet av et måleinstrument eller et målesystem,*CO2-avgiftsmåling,* en måling der måleresultatet danner grunnlag for beregning av CO2-avgift,*direkte måling*, en målemetode der verdien av en størrelse fremskaffes direkte ved hjelp av et måleinstrument eller målesystem, uten behov for supplerende beregninger. Målemetoden forblir direkte, selv om det er nødvendig å foreta målinger av påvirkende størrelser for å gjøre korreksjoner,*driftsforhold*, de verdier av målestørrelsen og påvirkende størrelser som måleinstrumenter og målesystemer virker under,*forstyrrelse,* en påvirkende størrelse som har en verdi som er utenfor angitte nominelle driftsbetingelser for et måleinstrument eller målesystem,*grenseverdi*, en maksimumsverdi for en målefeil eller en måleusikkerhet,*indirekte måling*, en målemetode hvor verdien av en størrelse bestemmes ut fra direkte målinger av andre størrelser som er knyttet til målestørrelsen gjennom et kjent forhold,*installasjonseffekt*, enhver forskjell i ytelse til et måleinstrument eller et målesystem som oppstår mellom kalibreringen under ideelle forhold (laboratorieforhold) og de faktiske driftsforholdene,*instrumentell måleusikkerhet,* den del av måleusikkerheten som kommer fra et måleinstrument eller et målesystem i bruk,*justering*, et sett med operasjoner utført på et måleinstrument eller et målesystem slik at avlesningen tilsvarer gitte verdier av størrelsen som skal måles. En kalibrering er en forutsetning for en justering,*kalibrering*, et sett av operasjoner for å bestemme, under spesifiserte betingelser, forholdet mellom en avlesning til instrumentet som kalibreres og verdien til en sporbar målestandard med dokumentert usikkerhet,*kalibreringsfaktor*, et benevnt eller ubenevnt tall som angir forholdet mellom en avlesning og en referanseverdi. Uttrykket dekker både det som internasjonalt kalles «meter factor» og «*K*-factor»,*kalibreringskurve,* en kurve eller graf som beskriver forholdet mellom avlesninger og tilsvarende verdier målt med en målestandard,*korreksjon*, en størrelse i en målemodell som kompenserer for en anslått systematisk feil,*leveringsmåling,* en måling for å fremskaffe mengde- og kvalitetsinformasjon til bruk som fysisk og økonomisk dokumentasjon ved endring i eierskap og/eller ved transport av petroleum med skip, tankbil eller i rørledning til terminal på land,*linearitet*, et måleinstruments evne til å respondere proporsjonalt på verdien til en størrelse,*mastermåler*, en måler som er kalibrert og som brukes til å prove andre målere,*mastermålerprover*, et system med en eller flere mastermålere og tilknyttet utstyr til bruk for å prove andre målere,*målefeil,* et benevnt eller ubenevnt tall som angir differansen mellom en målt verdi og en referanseverdi. Begrepet brukes i denne forskrift om absolutte målefeil (målt verdi minus referanseverdi), relative målefeil (absolutt målefeil dividert med referanseverdi) og midlere relativ målefeil (middelverdi av relative målefeil over flere målinger),*målemetode*, en generisk beskrivelse av operasjoner som er involvert i en måling,*målemodell*, en matematisk sammenheng mellom alle størrelser som er kjent for å være involvert i en måling,*måleperiode*, et tidsintervall mellom første og siste måling i en serie eller tidsintervall for én måling,*måler eller strømningsmåler,* et instrument for å måle volum- og massestrømmen av et fluid gjennom et rør,*måleresultat,* et sett av verdier som tilskrives en målestørrelse sammen med annen relevant informasjon, inklusive måleusikkerheter,*målerør*, en rørseksjon med en eller flere målere og eventuelt seksjoner for strømningskondisjonering oppstrøms og nedstrøms av målere,*målestørrelse,* størrelsen som skal måles,*målesystem,* et sett med ett eller flere måleinstrumenter og eventuelt andre komponenter, som er satt sammen og tilpasset for å gi informasjon som brukes til å fremskaffe målte verdier innenfor spesifiserte intervaller for størrelser av bestemte typer,*måleteknisk sporbarhet,* en egenskap ved et måleresultat hvor resultatet kan spores til en referanse gjennom en dokumentert og uavbrutt rekke kalibreringer som hver bidrar til måleusikkerheten,*måleusikkerhet eller usikkerhet,* en parameter som karakteriserer spredning av verdier som tilegnes en målestørrelse. Måleusikkerhet forstås som ekspandert eller relativ ekspandert måleusikkerhet med et konfidensnivå på 95,45 %,*måling,* en prosess for å eksperimentelt fremskaffe en eller flere verdier som med rimelighet kan tilskrives en størrelse. Prosessen kan inkludere bruk av modeller og beregninger basert på teoretiske betraktninger,*nominelle driftsbetingelse*, de driftsforholdene som må være oppfylt under en måling for at et måleinstrument eller målesystem skal yte som planlagt,*produsert petroleum*, petroleum som er produsert og solgt, og petroleum som er produsert for salg fra felt i produksjon og felt som er nedstengt. Petroleum som er levert vederlagsfritt eller som en kompensasjon til en annen part regnes ikke som solgt,*prover,* et system for å prove strømningsmålere i et målesystem for kontinuerlig og dynamisk måling av olje,*proving eller prove,* en in situ kalibrering for å bestemme en målers kalibreringsfaktorer,*prøvetaking,* alle trinn som utføres for å fremskaffe en prøve som er representativ for innholdet i et rør, tank eller en annen beholder der innholdet skal analyseres,*påvirkende størrelse,* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet. Påvirkende størrelser kan for eksempel være knyttet til værmessige, elektriske og mekaniske omgivelsesforhold,*referanseverdi*, en verdi med tilhørende måleusikkerhet som brukes som sammenligningsgrunnlag for verdier til størrelser av samme type,*repeterbarhet*, graden av samsvar mellom resultatene av påfølgende målinger av samme størrelse, utført med samme metode, under samme forhold, av samme observatør, med samme målesystem og med korte tidsintervaller,*representativ prøve,* en prøve med en sammensetning som er lik sammensetningen i den mengden prøven er tatt fra,*revisjonsspor*, dokumentasjon som muliggjør rekonstruksjon av et hendelsesforløp,*rørnormal,* utstyr for å prove oljemålere, basert på forskyvning av et legeme gjennom et kalibrert rør,*størrelse,* en egenskap ved et fysisk objekt, et fenomen eller noe annet som kan tallfestes ved måling,*største tillatte målefeil eller feilgrense*, det største tillatte avviket fra en referanseverdi for en måling, et måleinstrument eller målesystem,*systematiske målefeil*, den del av en målefeil som ved gjentatte målinger forblir konstant eller som varierer på en forutsigbar måte,*usikkerhetsbudsjett*, en redegjørelse for en måleusikkerhet, for komponentene i denne måleusikkerheten og for hvordan disse er beregnet og kombinert,*usikkerhetsgrense,* en øvre grense for måleusikkerheten til en målt verdi, fastsatt på grunnlag av den tiltenkte bruken av et måleresultat,*tilknyttet måleinstrument*, et instrument til måling av visse størrelser som er karakteristiske for fluidet og som brukes som inngangsstørrelser eller korreksjoner i en målemodell,*validering,* en bekreftelse på at kravene til en bestemt tiltenkt bruk er oppfylt,*verdi til en størrelse eller verdi,* et produkt av et tall og en måleenhet, der tallet angir hvor mange målenheter størrelsen består av,*verifikasjon*, e*n* bekreftelse på at spesifiserte krav er oppfylt.
+(1) I denne forskriften forstås med:
+
+1. *allokering*, en matematisk prosess for å bestemme hvilken mengde produsert petroleum av en total produksjon fra hele produksjonssystemet som skal tilordnes et individuelt felt eller en utvinningstillatelse,
+2. *allokeringsmåling*, en måling der måleresultatet inngår i en allokering. Dette omfatter ikke leveringsmålinger og CO2-avgiftsmålinger,
+3. *arbeidsområde,* et område definert ved to verdier av en størrelse som, under spesifiserte forhold, kan måles med et gitt måleinstrument eller målesystem med en spesifisert instrumentell måleusikkerhet. Et måleinstrument eller målesystem kan ha flere arbeidsområder,
+4. *automatisk prøvetaker*, et system som er i stand til å ta representative prøver fra fluider som strømmer i et rør. Systemet består minst av en prøvetakingssonde, en tilknyttet kontrollenhet og en prøvebeholder,
+5. *avlesning,* en verdi av en størrelse fremskaffet av et måleinstrument eller et målesystem,
+6. *CO2-avgiftsmåling,* en måling der måleresultatet danner grunnlag for beregning av CO2-avgift,
+7. *direkte måling*, en målemetode der verdien av en størrelse fremskaffes direkte ved hjelp av et måleinstrument eller målesystem, uten behov for supplerende beregninger. Målemetoden forblir direkte, selv om det er nødvendig å foreta målinger av påvirkende størrelser for å gjøre korreksjoner,
+8. *driftsforhold*, de verdier av målestørrelsen og påvirkende størrelser som måleinstrumenter og målesystemer virker under,
+9. *forstyrrelse,* en påvirkende størrelse som har en verdi som er utenfor angitte nominelle driftsbetingelser for et måleinstrument eller målesystem,
+10. *grenseverdi*, en maksimumsverdi for en målefeil eller en måleusikkerhet,
+11. *indirekte måling*, en målemetode hvor verdien av en størrelse bestemmes ut fra direkte målinger av andre størrelser som er knyttet til målestørrelsen gjennom et kjent forhold,
+12. *installasjonseffekt*, enhver forskjell i ytelse til et måleinstrument eller et målesystem som oppstår mellom kalibreringen under ideelle forhold (laboratorieforhold) og de faktiske driftsforholdene,
+13. *instrumentell måleusikkerhet,* den del av måleusikkerheten som kommer fra et måleinstrument eller et målesystem i bruk,
+14. *justering*, et sett med operasjoner utført på et måleinstrument eller et målesystem slik at avlesningen tilsvarer gitte verdier av størrelsen som skal måles. En kalibrering er en forutsetning for en justering,
+15. *kalibrering*, et sett av operasjoner for å bestemme, under spesifiserte betingelser, forholdet mellom en avlesning til instrumentet som kalibreres og verdien til en sporbar målestandard med dokumentert usikkerhet,
+16. *kalibreringsfaktor*, et benevnt eller ubenevnt tall som angir forholdet mellom en avlesning og en referanseverdi. Uttrykket dekker både det som internasjonalt kalles «meter factor» og «*K*-factor»,
+17. *kalibreringskurve,* en kurve eller graf som beskriver forholdet mellom avlesninger og tilsvarende verdier målt med en målestandard,
+18. *korreksjon*, en størrelse i en målemodell som kompenserer for en anslått systematisk feil,
+19. *leveringsmåling,* en måling for å fremskaffe mengde- og kvalitetsinformasjon til bruk som fysisk og økonomisk dokumentasjon ved endring i eierskap og/eller ved transport av petroleum med skip, tankbil eller i rørledning til terminal på land,
+20. *linearitet*, et måleinstruments evne til å respondere proporsjonalt på verdien til en størrelse,
+21. *mastermåler*, en måler som er kalibrert og som brukes til å prove andre målere,
+22. *mastermålerprover*, et system med en eller flere mastermålere og tilknyttet utstyr til bruk for å prove andre målere,
+23. *målefeil,* et benevnt eller ubenevnt tall som angir differansen mellom en målt verdi og en referanseverdi. Begrepet brukes i denne forskrift om absolutte målefeil (målt verdi minus referanseverdi), relative målefeil (absolutt målefeil dividert med referanseverdi) og midlere relativ målefeil (middelverdi av relative målefeil over flere målinger),
+24. *målemetode*, en generisk beskrivelse av operasjoner som er involvert i en måling,
+25. *målemodell*, en matematisk sammenheng mellom alle størrelser som er kjent for å være involvert i en måling,
+26. *måleperiode*, et tidsintervall mellom første og siste måling i en serie eller tidsintervall for én måling,
+27. *måler eller strømningsmåler,* et instrument for å måle volum- og massestrømmen av et fluid gjennom et rør,
+28. *måleresultat,* et sett av verdier som tilskrives en målestørrelse sammen med annen relevant informasjon, inklusive måleusikkerheter,
+29. *målerør*, en rørseksjon med en eller flere målere og eventuelt seksjoner for strømningskondisjonering oppstrøms og nedstrøms av målere,
+30. *målestørrelse,* størrelsen som skal måles,
+31. *målesystem,* et sett med ett eller flere måleinstrumenter og eventuelt andre komponenter, som er satt sammen og tilpasset for å gi informasjon som brukes til å fremskaffe målte verdier innenfor spesifiserte intervaller for størrelser av bestemte typer,
+32. *måleteknisk sporbarhet,* en egenskap ved et måleresultat hvor resultatet kan spores til en referanse gjennom en dokumentert og uavbrutt rekke kalibreringer som hver bidrar til måleusikkerheten,
+33. *måleusikkerhet eller usikkerhet,* en parameter som karakteriserer spredning av verdier som tilegnes en målestørrelse. Måleusikkerhet forstås som ekspandert eller relativ ekspandert måleusikkerhet med et konfidensnivå på 95,45 %,
+34. *måling,* en prosess for å eksperimentelt fremskaffe en eller flere verdier som med rimelighet kan tilskrives en størrelse. Prosessen kan inkludere bruk av modeller og beregninger basert på teoretiske betraktninger,
+35. *nominelle driftsbetingelse*, de driftsforholdene som må være oppfylt under en måling for at et måleinstrument eller målesystem skal yte som planlagt,
+36. *produsert petroleum*, petroleum som er produsert og solgt, og petroleum som er produsert for salg fra felt i produksjon og felt som er nedstengt. Petroleum som er levert vederlagsfritt eller som en kompensasjon til en annen part regnes ikke som solgt,
+37. *prover,* et system for å prove strømningsmålere i et målesystem for kontinuerlig og dynamisk måling av olje,
+38. *proving eller prove,* en in situ kalibrering for å bestemme en målers kalibreringsfaktorer,
+39. *prøvetaking,* alle trinn som utføres for å fremskaffe en prøve som er representativ for innholdet i et rør, tank eller en annen beholder der innholdet skal analyseres,
+40. *påvirkende størrelse,* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet. Påvirkende størrelser kan for eksempel være knyttet til værmessige, elektriske og mekaniske omgivelsesforhold,
+41. *referanseverdi*, en verdi med tilhørende måleusikkerhet som brukes som sammenligningsgrunnlag for verdier til størrelser av samme type,
+42. *repeterbarhet*, graden av samsvar mellom resultatene av påfølgende målinger av samme størrelse, utført med samme metode, under samme forhold, av samme observatør, med samme målesystem og med korte tidsintervaller,
+43. *representativ prøve,* en prøve med en sammensetning som er lik sammensetningen i den mengden prøven er tatt fra,
+44. *revisjonsspor*, dokumentasjon som muliggjør rekonstruksjon av et hendelsesforløp,
+45. *rørnormal,* utstyr for å prove oljemålere, basert på forskyvning av et legeme gjennom et kalibrert rør,
+46. *størrelse,* en egenskap ved et fysisk objekt, et fenomen eller noe annet som kan tallfestes ved måling,
+47. *største tillatte målefeil eller feilgrense*, det største tillatte avviket fra en referanseverdi for en måling, et måleinstrument eller målesystem,
+48. *systematiske målefeil*, den del av en målefeil som ved gjentatte målinger forblir konstant eller som varierer på en forutsigbar måte,
+49. *usikkerhetsbudsjett*, en redegjørelse for en måleusikkerhet, for komponentene i denne måleusikkerheten og for hvordan disse er beregnet og kombinert,
+50. *usikkerhetsgrense,* en øvre grense for måleusikkerheten til en målt verdi, fastsatt på grunnlag av den tiltenkte bruken av et måleresultat,
+51. *tilknyttet måleinstrument*, et instrument til måling av visse størrelser som er karakteristiske for fluidet og som brukes som inngangsstørrelser eller korreksjoner i en målemodell,
+52. *validering,* en bekreftelse på at kravene til en bestemt tiltenkt bruk er oppfylt,
+53. *verdi til en størrelse eller verdi,* et produkt av et tall og en måleenhet, der tallet angir hvor mange målenheter størrelsen består av,
+54. *verifikasjon*, e*n* bekreftelse på at spesifiserte krav er oppfylt.
 
 (2) Definisjoner i [petroleumsloven](lov/1996-11-29-72) og [petroleumsforskriften](forskrift/1997-06-27-653) gjelder for denne forskriften.
 
@@ -138,7 +193,10 @@ Målinger av mengder produsert petroleum, petroleum som brennes, og gass som sli
 
 ### § 11. Metoder for å måle produsert petroleum
 
-(1) Målinger av mengder produsert petroleum, unntatt LNG, skal baseres på kontinuerlig dynamisk direkte måling av enfaset fluidstrøm. Andre målemetoder kan benyttes i følgende tilfeller:Målinger av mengder olje og gass levert til rørledninger for transport til terminaler på land eller til samlesystem for videre prosessering, kan baseres på indirekte måling av enfaset fluidstrøm, dersom det kan dokumenteres at direkte måling av enfaset fluidstrøm ikke er teknisk mulig eller vil føre til urimelig høye kostnader.Målinger av mengder petroleum levert til samlesystem (allokeringsmålinger) for videre prosessering, kan baseres på direkte måling eller indirekte måling av flerfaset fluidstrøm, dersom det kan dokumenteres at direkte måling av enfaset fluidstrøm ikke er teknisk mulig eller vil føre til urimelig høye kostnader.
+(1) Målinger av mengder produsert petroleum, unntatt LNG, skal baseres på kontinuerlig dynamisk direkte måling av enfaset fluidstrøm. Andre målemetoder kan benyttes i følgende tilfeller:
+
+1. Målinger av mengder olje og gass levert til rørledninger for transport til terminaler på land eller til samlesystem for videre prosessering, kan baseres på indirekte måling av enfaset fluidstrøm, dersom det kan dokumenteres at direkte måling av enfaset fluidstrøm ikke er teknisk mulig eller vil føre til urimelig høye kostnader.
+2. Målinger av mengder petroleum levert til samlesystem (allokeringsmålinger) for videre prosessering, kan baseres på direkte måling eller indirekte måling av flerfaset fluidstrøm, dersom det kan dokumenteres at direkte måling av enfaset fluidstrøm ikke er teknisk mulig eller vil føre til urimelig høye kostnader.
 
 (2) Målinger av mengder LNG levert til skip skal baseres på statisk måling av lastet volum. Målinger av mengder LNG lastet til tankbiler skal baseres på veiing av tankbiler.
 
@@ -156,7 +214,10 @@ Målinger av mengder produsert petroleum, petroleum som brennes, og gass som sli
 
 ### § 12. Metoder for å måle petroleum som brennes og gass som slippes til luft
 
-(1) Målinger av mengder petroleum som brennes, naturgass som slippes til luft gjennom felles kaldavlastingssystem og CO2 som utskilles fra petroleum og slippes til luft, skal baseres på kontinuerlig dynamisk direkte måling av fluidstrøm. Andre målemetoder kan benyttes i følgende tilfeller:Målinger av mengder naturgass som slippes til luft gjennom andre systemer enn felles kaldavlastingssystem, kan baseres på indirekte måling.Målinger av mengder diesel som brukes som brensel kan baseres på innkjøpte mengder diesel.
+(1) Målinger av mengder petroleum som brennes, naturgass som slippes til luft gjennom felles kaldavlastingssystem og CO2 som utskilles fra petroleum og slippes til luft, skal baseres på kontinuerlig dynamisk direkte måling av fluidstrøm. Andre målemetoder kan benyttes i følgende tilfeller:
+
+1. Målinger av mengder naturgass som slippes til luft gjennom andre systemer enn felles kaldavlastingssystem, kan baseres på indirekte måling.
+2. Målinger av mengder diesel som brukes som brensel kan baseres på innkjøpte mengder diesel.
 
 (2) Gasskomposisjoner til naturgass som brukes til brensel skal bestemmes ved periodisk eller kontinuerlig gasskromatografi av representative gassprøver.
 
@@ -196,7 +257,11 @@ Rettighetshaver skal etablere måleprosedyrer. Disse skal utformes på en slik m
 
 ### § 17. Måleresultater
 
-Måleresultater skalha en måleusikkerhet som er innenfor usikkerhetsgrensen for målestørrelsen,være måleteknisk sporbare oguttrykkes som et sett av verdier som tilskrives målestørrelsen.
+Måleresultater skal
+
+1. ha en måleusikkerhet som er innenfor usikkerhetsgrensen for målestørrelsen,
+2. være måleteknisk sporbare og
+3. uttrykkes som et sett av verdier som tilskrives målestørrelsen.
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -296,9 +361,18 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 ### § 29. Målerør og tilstøtende rørsystem
 
-(1) Målerør og tilstøtende rørsystem (rør og rørkomponenter) skal konstrueres og installeres slik atnominelle driftsbetingelser for måleinstrumenter og målesystemer er oppfylt under normale driftsforholdvedlikehold og reparasjoner i størst mulig grad kan utføres uten å miste måledata og uten å påvirke olje- og gassproduksjoneninstallasjonseffekter minimeres.
+(1) Målerør og tilstøtende rørsystem (rør og rørkomponenter) skal konstrueres og installeres slik at
 
-(2) Målerør skalha oppstrøms- og nedstrøms strømningskondisjoneringsseksjoner som er tilpasset målerneinkludere strømningsrettere dersom det er nødvendig for å hindre eller redusere strømningsforstyrrelser ved målerne. Dette gjelder ikke for målerør med fakkelgassmålere eller flerfasemålereha en indre overflate som hindrer eller minimerer oppbygning av forurensingervære uten fremspring og irregulariteter i indre diameter som kan forårsake turbulens, virvelstrøm eller skjev strømningsprofil som kan forstyrre målinger.
+1. nominelle driftsbetingelser for måleinstrumenter og målesystemer er oppfylt under normale driftsforhold
+2. vedlikehold og reparasjoner i størst mulig grad kan utføres uten å miste måledata og uten å påvirke olje- og gassproduksjonen
+3. installasjonseffekter minimeres.
+
+(2) Målerør skal
+
+1. ha oppstrøms- og nedstrøms strømningskondisjoneringsseksjoner som er tilpasset målerne
+2. inkludere strømningsrettere dersom det er nødvendig for å hindre eller redusere strømningsforstyrrelser ved målerne. Dette gjelder ikke for målerør med fakkelgassmålere eller flerfasemålere
+3. ha en indre overflate som hindrer eller minimerer oppbygning av forurensinger
+4. være uten fremspring og irregulariteter i indre diameter som kan forårsake turbulens, virvelstrøm eller skjev strømningsprofil som kan forstyrre målinger.
 
 (3) Leveringsmålesystemer skal konstrueres slik at de ved bruk under normale driftsforhold, kan ha minst ett målerør i reserve. Dette gjelder ikke målesystemer for leveringsmåling av olje og gass transportert i rørledning til terminal på land, dersom målerør er utstyrt med målere i serie og hyppig inspeksjon og rengjøring av målerør ikke er nødvendig.
 
@@ -388,7 +462,11 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 (1) En oljemåler skal være egnet til den aktuelle målingen og driftsforholdene den skal brukes under.
 
-(2) Oljemåleren skal ved strømningskalibrering på et laboratorium og in situ oppfylle ytelseskravene i tabell 4. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den tilfeldige usikkerheten til målefeil eller en kalibreringsfaktor skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.Lineariteten til en oljemåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil eller den største relative differansen i kalibreringsfaktorer. En kalibreringsfaktor skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
+(2) Oljemåleren skal ved strømningskalibrering på et laboratorium og in situ oppfylle ytelseskravene i tabell 4. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:
+
+1. En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
+2. Den tilfeldige usikkerheten til målefeil eller en kalibreringsfaktor skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.
+3. Lineariteten til en oljemåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil eller den største relative differansen i kalibreringsfaktorer. En kalibreringsfaktor skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
 
 *Tabell 4 (Krav til en oljemåler ved strømningskalibrering)*
 
@@ -404,7 +482,10 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 (1) En rørnormal skal være tilpasset oljemålerne i målesystemet.
 
-(2) Rørnormalen skal ved kalibrering oppfylle ytelseskravene i tabell 5. Rørnormalens basisvolum skal bestemmes som middelverdien av påfølgende enkeltkalibreringer. Størrelsene i tabellen skal bestemmes slik:Repeterbarheten til målingen av rørnormalens basisvolum skal bestemmes som den relative differansen mellom største og minste verdi av tre eller flere påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til rørnormalens basisvolum skal bestemmes ved en statistisk analyse av usikkerheten til middelverdien av tre eller flere påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.
+(2) Rørnormalen skal ved kalibrering oppfylle ytelseskravene i tabell 5. Rørnormalens basisvolum skal bestemmes som middelverdien av påfølgende enkeltkalibreringer. Størrelsene i tabellen skal bestemmes slik:
+
+1. Repeterbarheten til målingen av rørnormalens basisvolum skal bestemmes som den relative differansen mellom største og minste verdi av tre eller flere påfølgende enkeltkalibreringer.
+2. Den kombinerte usikkerheten til rørnormalens basisvolum skal bestemmes ved en statistisk analyse av usikkerheten til middelverdien av tre eller flere påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.
 
 *Tabell 5 (Krav til en rørnormal ved kalibrering)*
 
@@ -417,9 +498,18 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 ### § 40. Mastermålerprover
 
-(1) En mastermålerprover skalvære tilpasset oljemålerne i målesystemet, slik at målerne ved proving kan oppfylle ytelseskravene i tabell 4være konstruert slik at risikoen for at en forstyrrelse kan gi samme type feil både på en mastermåler og på en oljemåler er minimertkunne strømningskalibreres in situ. Strømningskalibreringer kan foregå ex situ dersom det kan dokumenteres at installasjonseffekters bidrag til instrumentelle måleusikkerheter er ubetydelige, og at det er lagt til rette for overvåking av fluideffekter og for deteksjon eller inspeksjoner av avsetninger fra fluidet i målerøret.
+(1) En mastermålerprover skal
 
-(2) En mastermåler skal ved strømningskalibrering på et laboratorium eller in situ oppfylle ytelseskravene i tabell 6. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den tilfeldige usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes som den tilfeldige usikkerheten til målefeilen kombinert med usikkerheten til kalibreringsoppsettet.Lineariteten til en mastermåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
+1. være tilpasset oljemålerne i målesystemet, slik at målerne ved proving kan oppfylle ytelseskravene i tabell 4
+2. være konstruert slik at risikoen for at en forstyrrelse kan gi samme type feil både på en mastermåler og på en oljemåler er minimert
+3. kunne strømningskalibreres in situ. Strømningskalibreringer kan foregå ex situ dersom det kan dokumenteres at installasjonseffekters bidrag til instrumentelle måleusikkerheter er ubetydelige, og at det er lagt til rette for overvåking av fluideffekter og for deteksjon eller inspeksjoner av avsetninger fra fluidet i målerøret.
+
+(2) En mastermåler skal ved strømningskalibrering på et laboratorium eller in situ oppfylle ytelseskravene i tabell 6. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:
+
+1. En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
+2. Den tilfeldige usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.
+3. Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes som den tilfeldige usikkerheten til målefeilen kombinert med usikkerheten til kalibreringsoppsettet.
+4. Lineariteten til en mastermåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
 
 *Tabell 6 (Krav til en mastermåler ved strømningskalibrering)*
 
@@ -458,7 +548,10 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 ### § 42. Prøvetakingsutstyr
 
-(1) En automatisk prøvetaker skalkunne ta en representativ prøve av den mengde olje som passerer målesystemet i måleperiodenvære konfigurert for strømningsproporsjonal prøvetaking.
+(1) En automatisk prøvetaker skal
+
+1. kunne ta en representativ prøve av den mengde olje som passerer målesystemet i måleperioden
+2. være konfigurert for strømningsproporsjonal prøvetaking.
 
 (2) En manuell prøvetaker skal kunne ta en prøve som er representativ for den mengden olje som passerer målesystemet i prøvetakingstidspunktet. Prøvetakeren skal inkludere prøvetakingssonde og isolasjonsventil.
 
@@ -468,7 +561,11 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 ### § 43. Algoritmer og ligninger
 
-I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligninger for åkorrigere for temperatur- og trykkeffekter på oljers densitet og volumbestemme kalibreringsfaktorerberegne mengder olje.
+I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligninger for å
+
+1. korrigere for temperatur- og trykkeffekter på oljers densitet og volum
+2. bestemme kalibreringsfaktorer
+3. beregne mengder olje.
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -496,7 +593,11 @@ I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligning
 
 (1) En gassmåler skal være egnet til den aktuelle målingen og driftsforholdene den skal brukes under.
 
-(2) Gassmåleren skal ved strømningskalibrering på et laboratorium oppfylle ytelseskravene i tabell 9. Kravene gjelder kalibreringer ved strømningsrater som er innenfor det spesifiserte strømningsrateområdet for måleren og før justering til kalibreringskurven. Overgangsstrømningsraten (strømningsraten gjennom en måler der ytelseskrav kan endres) skal ikke overstige 20 % av maksimum strømningsrate. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerhet i middelverdien av påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.Lineariteten til en gassmåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
+(2) Gassmåleren skal ved strømningskalibrering på et laboratorium oppfylle ytelseskravene i tabell 9. Kravene gjelder kalibreringer ved strømningsrater som er innenfor det spesifiserte strømningsrateområdet for måleren og før justering til kalibreringskurven. Overgangsstrømningsraten (strømningsraten gjennom en måler der ytelseskrav kan endres) skal ikke overstige 20 % av maksimum strømningsrate. Størrelsene i tabellen skal bestemmes slik:
+
+1. En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
+2. Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerhet i middelverdien av påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.
+3. Lineariteten til en gassmåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
 
 *Tabell 9 (Krav til en gassmåler ved strømningskalibrering)*
 
@@ -567,7 +668,11 @@ I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligning
 
 ### § 50. Algoritmer og ligninger
 
-I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligninger for åberegne kvalitetsparametere til gass, inklusive densiteter og brennverdierkorrigere for temperatur- og trykkeffekterberegne mengder gass.
+I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligninger for å
+
+1. beregne kvalitetsparametere til gass, inklusive densiteter og brennverdier
+2. korrigere for temperatur- og trykkeffekter
+3. beregne mengder gass.
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -867,7 +972,11 @@ Usikkerhet i måledata skal bestemmes og tas i betraktning når resultater fra v
 
 (1) En oljemåler skal brukes i arbeidsområdet under driftsforhold som samsvarer med nominelle driftsbetingelser for måleren. Vedlikehold og kalibrering skal foretas i samsvar med vedlikeholdsprogrammet og kalibreringsprogrammet.
 
-(2) En måler i et målesystem med prover skal proves:Så snart som mulig etter oppstart for å verifisere oppfyllelse av ytelseskrav i [§ 38](forskrift/2023-04-21-532/§38) og for å fastslå kalibreringsfaktorenes følsomhet overfor variasjoner i målestørrelse og påvirkende størrelser, og for å fastsette gyldighetsområder for kalibreringsfaktorene.Minst hver fjerde dag, dersom måleren er i bruk ved måling av olje levert til rørledning. Intervallet kan gradvis økes til hver 14. dag dersom det kan dokumenteres stabile driftsforhold og akseptabel reproduserbarhet.Minst én gang i hver lasteperiode dersom måleren blir brukt ved måling av olje levert til tankskip.
+(2) En måler i et målesystem med prover skal proves:
+
+1. Så snart som mulig etter oppstart for å verifisere oppfyllelse av ytelseskrav i [§ 38](forskrift/2023-04-21-532/§38) og for å fastslå kalibreringsfaktorenes følsomhet overfor variasjoner i målestørrelse og påvirkende størrelser, og for å fastsette gyldighetsområder for kalibreringsfaktorene.
+2. Minst hver fjerde dag, dersom måleren er i bruk ved måling av olje levert til rørledning. Intervallet kan gradvis økes til hver 14. dag dersom det kan dokumenteres stabile driftsforhold og akseptabel reproduserbarhet.
+3. Minst én gang i hver lasteperiode dersom måleren blir brukt ved måling av olje levert til tankskip.
 
 (3) En måler i et målesystem uten prover skal minst kalibreres årlig in situ eller på et laboratorium. Dette gjelder ikke dersom måleren eller målerøret er underlagt et forebyggende vedlikeholdssystem som sikrer at krav til instrumentell måleusikkerhet er oppfylt.
 
@@ -989,7 +1098,12 @@ Plan for utbygging og drift av en petroleumsforekomst (PUD) og plan for anlegg o
 
 (1) Før rettighetshaver kan utøve petroleumsvirksomhet som nevnt i andre ledd punkt a) til d), kreves det samtykke til oppstart eller videreføring fra Sokkeldirektoratet.
 
-(2) Samtykke som nevnt i første ledd, må være innhentet:før målesystemet tas i bruk første gangfør målesystemet eller deler av det tas i bruk etter gjennomføring av større ombygginger eller modifikasjonerfør endring av bruksformål som ikke er omfattet av samtykke etter bokstav a)før målesystemet tas i bruk etter bruksopphør, dersom vedlikeholds- og kalibreringsprogrammet ikke er gjennomført i perioden målesystemet ikke har vært i bruk.
+(2) Samtykke som nevnt i første ledd, må være innhentet:
+
+1. før målesystemet tas i bruk første gang
+2. før målesystemet eller deler av det tas i bruk etter gjennomføring av større ombygginger eller modifikasjoner
+3. før endring av bruksformål som ikke er omfattet av samtykke etter bokstav a)
+4. før målesystemet tas i bruk etter bruksopphør, dersom vedlikeholds- og kalibreringsprogrammet ikke er gjennomført i perioden målesystemet ikke har vært i bruk.
 
 (3) En søknad om samtykke etter andre ledd skal inneholde opplysninger som demonstrerer at målesystemet oppfyller kravene i denne forskriften.
 
@@ -1021,7 +1135,14 @@ Rettighetshaver skal hvert år sende Sokkeldirektoratet usikkerhetsbudsjetter fo
 
 ### § 99. Andre opplysninger
 
-(1) Rettighetshaver skal så snart som mulig sende Sokkeldirektoratet opplysninger omfeil som kan gi grunnlag for større korrigeringer av måleresultaterfeil på essensielle bestanddeler i et målesystem og en plan for feilrettingutvidelse av kalibreringsintervalleravtaler og prosedyrer med betydning for måling, inklusive transportavtaler, lasteerstatningsprosedyrer som gjelder ved salg av olje (råolje, kondensat, NGL) og allokeringsprosedyrerplaner for ombygging, modifikasjon eller bruksendring av et målesystem som vil kreve samtykke til oppstart eller videreføring etter [§ 94](forskrift/2023-04-21-532/§94)planer for permanent eller midlertidig bruksopphør av et målesystem.
+(1) Rettighetshaver skal så snart som mulig sende Sokkeldirektoratet opplysninger om
+
+1. feil som kan gi grunnlag for større korrigeringer av måleresultater
+2. feil på essensielle bestanddeler i et målesystem og en plan for feilretting
+3. utvidelse av kalibreringsintervaller
+4. avtaler og prosedyrer med betydning for måling, inklusive transportavtaler, lasteerstatningsprosedyrer som gjelder ved salg av olje (råolje, kondensat, NGL) og allokeringsprosedyrer
+5. planer for ombygging, modifikasjon eller bruksendring av et målesystem som vil kreve samtykke til oppstart eller videreføring etter [§ 94](forskrift/2023-04-21-532/§94)
+6. planer for permanent eller midlertidig bruksopphør av et målesystem.
 
 (2) Rettighetshaver skal på forespørsel sende Sokkeldirektoratet opplysninger om skipslaster med olje og andre petroleumsprodukter.
 

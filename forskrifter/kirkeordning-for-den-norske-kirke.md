@@ -190,7 +190,10 @@ For øvrig gir menighetsmøtet uttalelse når kirkelige myndigheter ber om det e
 
 ### § 15. Kirkelig fellesråds sammensetning
 
-Kirkelig fellesråd består av:to menighetsrådsmedlemmer fra hvert menighetsråd i kommunen, valgt av det enkelte menighetsråd, ogen prost eller annen prest oppnevnt av biskopen. Biskopen kan unnlate oppnevning dersom det er valgt inn en prest etter bokstav a.
+Kirkelig fellesråd består av:
+
+1. to menighetsrådsmedlemmer fra hvert menighetsråd i kommunen, valgt av det enkelte menighetsråd, og
+2. en prost eller annen prest oppnevnt av biskopen. Biskopen kan unnlate oppnevning dersom det er valgt inn en prest etter bokstav a.
 
 I tillegg kan kommunen velge en representant.
 
@@ -214,7 +217,14 @@ Nærmere regler om formene for kirkelig fellesråds virksomhet gis av Kirkemøte
 
 Kirkelig fellesråd skal ivareta administrative og økonomiske oppgaver på vegne av soknene, utarbeide mål og planer for den kirkelige virksomhet i kommunen, fremme samarbeid mellom menighetsrådene og ivareta soknenes interesser i forhold til kommunen.
 
-Kirkelig fellesråd er ansvarlig forbygging, drift og vedlikehold av kirker,anlegg, drift og forvaltning av gravplasser,opprettelse og nedleggelse av stillinger som lønnes over fellesrådets budsjett,anskaffelse og drift av kirkekontor,administrativ hjelp for prosten når kirkens virksomhet nasjonalt yter tilskudd til det,anskaffelse av lokaler, utstyr og materiell til konfirmasjonsopplæring.
+Kirkelig fellesråd er ansvarlig for
+
+1. bygging, drift og vedlikehold av kirker,
+2. anlegg, drift og forvaltning av gravplasser,
+3. opprettelse og nedleggelse av stillinger som lønnes over fellesrådets budsjett,
+4. anskaffelse og drift av kirkekontor,
+5. administrativ hjelp for prosten når kirkens virksomhet nasjonalt yter tilskudd til det,
+6. anskaffelse av lokaler, utstyr og materiell til konfirmasjonsopplæring.
 
 Kirkelig fellesråd foretar tilsetting av og har arbeidsgiveransvaret for alle tilsatte som lønnes over fellesrådets budsjett. Før tilsetting og fastsetting av instruks skal vedkommende menighetsråd gis anledning til å uttale seg. Kirkelig fellesråd kan bemyndige menighetsråd til å utøve tilsettingsmyndighet og andre arbeidsgiverfunksjoner for stilling hvor dette ellers ville ligge til fellesrådet. Kirkelig fellesråd kan også tildele utvalg som nevnt i [§ 41](forskrift/2019-03-30-2307/§41) første ledd myndighet til å foreta tilsetting og treffe avgjørelser i saker som gjelder forholdet mellom soknene eller soknet som arbeidsgiver og de tilsatte.
 
@@ -232,7 +242,11 @@ På soknets vegne er det ikke tillatt å garantere for andres økonomiske forpli
 
 Kirkelig fellesråd plikter å treffe vedtak om betalingsinnstilling når et sokn på grunn av vanskeligheter som ikke er helt forbigående, ikke kan betale forfalt gjeld. Melding om slikt vedtak skal straks sendes bispedømmerådet. Bispedømmerådet iverksetter de tiltak som anses nødvendig.
 
-I medhold av [forskrift om økonomiforvaltningen i sokn i Den norske kirke](forskrift/2020-12-08-2646) skal bispedømmerådetmotta melding fra kirkelig fellesråd om utsatt inndekning i organet i henhold til forskriftens [§ 17](forskrift/2020-12-08-2646/§17) syvende ledd siste punktum,motta kopi av revisjonsberetning fra revisor hvis revisor i revisjonsberetningen konkluderer negativt eller ikke har tilstrekkelig grunnlag for å konkludere om godkjenning av regnskapet i organ for soknet, jf. forskriftens § 18 tredje ledd annet punktum ogmotta innberetning fra revisor dersom det i organ for soknet ikke er avlagt regnskap innen 1. juli i året etter regnskapsåret, jf. forskriftens [§ 18](forskrift/2020-12-08-2646/§18) fjerde ledd.
+I medhold av [forskrift om økonomiforvaltningen i sokn i Den norske kirke](forskrift/2020-12-08-2646) skal bispedømmerådet
+
+1. motta melding fra kirkelig fellesråd om utsatt inndekning i organet i henhold til forskriftens [§ 17](forskrift/2020-12-08-2646/§17) syvende ledd siste punktum,
+2. motta kopi av revisjonsberetning fra revisor hvis revisor i revisjonsberetningen konkluderer negativt eller ikke har tilstrekkelig grunnlag for å konkludere om godkjenning av regnskapet i organ for soknet, jf. forskriftens § 18 tredje ledd annet punktum og
+3. motta innberetning fra revisor dersom det i organ for soknet ikke er avlagt regnskap innen 1. juli i året etter regnskapsåret, jf. forskriftens [§ 18](forskrift/2020-12-08-2646/§18) fjerde ledd.
 
 > Endret ved forskrifter [9 okt 2020 nr. 2797](forskrift/2020-10-09-2797) (i kraft 1 jan 2021), [14 nov 2021 nr. 3252](forskrift/2021-11-14-3252) (i kraft 1 jan 2022).
 
@@ -296,7 +310,14 @@ På uteområdet ved en listeført kirke som ikke har en tilknyttet gravplass, sk
 
 ### § 24. Bispedømmerådets sammensetning
 
-Bispedømmerådet består av:biskopen,en prest valgt av prestene i bispedømmet,en kirkelig ansatt valgt av de kirkelig ansatte i bispedømmet,sju andre valgt direkte av bispedømmets stemmeberettigede medlemmer ved flertalls- eller forholdsvalg,en nordsamisk representant i Nord-Hålogaland bispedømmeråd, en lulesamisk representant i Sør-Hålogaland bispedømmeråd, og en sørsamisk representant i Nidaros bispedømmeråd ogen representant fra døvemenighetene i Oslo bispedømmeråd.
+Bispedømmerådet består av:
+
+1. biskopen,
+2. en prest valgt av prestene i bispedømmet,
+3. en kirkelig ansatt valgt av de kirkelig ansatte i bispedømmet,
+4. sju andre valgt direkte av bispedømmets stemmeberettigede medlemmer ved flertalls- eller forholdsvalg,
+5. en nordsamisk representant i Nord-Hålogaland bispedømmeråd, en lulesamisk representant i Sør-Hålogaland bispedømmeråd, og en sørsamisk representant i Nidaros bispedømmeråd og
+6. en representant fra døvemenighetene i Oslo bispedømmeråd.
 
 Medlemmene nevnt i bokstav b, c, d, e og f velges for fire år. For medlemmene valgt ved flertallsvalg etter bokstav d, velges det like mange varamedlemmer. For medlemmene valgt ved forholdsvalg etter bokstav d, skal hver liste tildeles like mange varamedlemmer som den får medlemmer, med tillegg av tre. For medlemmene valgt etter bokstav b, c, e og f, velges det to varamedlemmer. Kirkemøtet gir nærmere regler om valget, herunder regler som presiserer hvem som er stemmeberettiget og valgbar etter første ledd bokstavene b, c, d, e og f.
 
@@ -330,7 +351,13 @@ Kirkemøtet består av preses i Bispemøtet, medlemmene av bispedømmerådene, l
 
 Kirkemøtet er Den norske kirkes øverste representative og besluttende organ og fastsetter kirkens grunnlag og lære og alle liturgier og gudstjenstlige bøker i kirken. Kirkemøtet skal ha sin oppmerksomhet henvendt på saker av felles kirkelig karakter og ellers på alt som kan gjøres for å vekke og nære det kristelige liv i menighetene, og det skal fremme samarbeidet innen Den norske kirke. Kirkemøtet skal verne og fremme samisk kirkeliv og ivareta Den norske kirkes økumeniske oppgaver og internasjonale samarbeid.
 
-Kirkemøtetgir uttalelse i saker om vesentlige endringer i bestemmelsene i [kapittel 3 i trossamfunnsloven](lov/1969-06-13-25/kapiii),fastsetter retningsgivende planer og programmer for den kirkelige undervisning, diakoni, kirkemusikk og for økumenisk virksomhet,fastsetter kvalifikasjonskrav og tjenesteordning for særskilte stillinger innen kirkelig undervisning, diakoni og kirkemusikk,gir regler om kirkens inventar og utstyr.utfører de oppgaver det er gitt i [trossamfunnsloven](lov/1969-06-13-25) eller kirkeordningen.
+Kirkemøtet
+
+1. gir uttalelse i saker om vesentlige endringer i bestemmelsene i [kapittel 3 i trossamfunnsloven](lov/1969-06-13-25/kapiii),
+2. fastsetter retningsgivende planer og programmer for den kirkelige undervisning, diakoni, kirkemusikk og for økumenisk virksomhet,
+3. fastsetter kvalifikasjonskrav og tjenesteordning for særskilte stillinger innen kirkelig undervisning, diakoni og kirkemusikk,
+4. gir regler om kirkens inventar og utstyr.
+5. utfører de oppgaver det er gitt i [trossamfunnsloven](lov/1969-06-13-25) eller kirkeordningen.
 
 Kirkemøtet kan uten hinder av bestemmelsene i kirkeordningen her godkjenne forsøk med valgperiode på to år til kirkelig fellesråd og bispedømmeråd og direkte valg til kirkelig fellesråd. Nærmere vilkår for det enkelte forsøk fastsettes av Kirkemøtet.
 
@@ -384,7 +411,14 @@ Bispemøtet fastsetter nærmere forretningsorden for sin virksomhet.
 
 ### § 32. Klagenemndas sammensetning
 
-Den norske kirkes klagenemnd består av følgende medlemmer:en leder som er eller har vært dommer i de alminnelige domstoler eller i Arbeidsretten,ett medlem som har juridisk embetseksamen eller mastergrad i rettsvitenskap,ett medlem som har teologisk doktorgrad,ett medlem som er prest og har særlig kompetanse i kirkerett,to medlemmer med særskilt kirkebyggfaglig kompetanse, som tiltrer klagenemnda i saker etter [kirkeordningen § 20 andre ledd](forskrift/2019-03-30-2307/§20/ledd/2) og [§ 23 femte](forskrift/2019-03-30-2307/§23/ledd/5) og [sjette ledd](forskrift/2019-03-30-2307/§23/ledd/6),ett øvrig medlem.
+Den norske kirkes klagenemnd består av følgende medlemmer:
+
+- en leder som er eller har vært dommer i de alminnelige domstoler eller i Arbeidsretten,
+- ett medlem som har juridisk embetseksamen eller mastergrad i rettsvitenskap,
+- ett medlem som har teologisk doktorgrad,
+- ett medlem som er prest og har særlig kompetanse i kirkerett,
+- to medlemmer med særskilt kirkebyggfaglig kompetanse, som tiltrer klagenemnda i saker etter [kirkeordningen § 20 andre ledd](forskrift/2019-03-30-2307/§20/ledd/2) og [§ 23 femte](forskrift/2019-03-30-2307/§23/ledd/5) og [sjette ledd](forskrift/2019-03-30-2307/§23/ledd/6),
+- ett øvrig medlem.
 
 Klagenemndas medlemmer velges med et tilsvarende antall personlige varamedlemmer av Kirkemøtet på det første møtet i dets valgperiode. Blant medlemmene skal det være minst to personer av hvert kjønn og tilsvarende for varamedlemmene. Medlemmene velges for fire år.
 
@@ -396,7 +430,13 @@ Utelukket fra å bli valgt inn i klagenemnda er biskoper, medlemmer av Kirkeråd
 
 ### § 33. Klagenemndas oppgaver
 
-Klagenemndaavgjør klager etter [kirkeordningen § 10 fjerde](forskrift/2019-03-30-2307/§10/ledd/4) og [femte ledd](forskrift/2019-03-30-2307/§10/ledd/5), [§ 20 andre ledd](forskrift/2019-03-30-2307/§20/ledd/2), [§ 23 femte](forskrift/2019-03-30-2307/§23/ledd/5) og [sjette ledd](forskrift/2019-03-30-2307/§23/ledd/6) og [§ 39 tredje ledd](forskrift/2019-03-30-2307/§39/ledd/3),avgjør klager på vedtak om oppsigelse, suspensjon og avskjed i de saker der det er bestemt av Kirkemøtet,treffer vedtak om oppsigelse, suspensjon og avskjed av biskop,avgjør klager på Kirkerådets vedtak om avslag på innsynskrav etter [offentleglova](lov/2006-05-19-16) ogutfører for øvrig de oppgaver den er pålagt av Kirkemøtet.
+Klagenemnda
+
+1. avgjør klager etter [kirkeordningen § 10 fjerde](forskrift/2019-03-30-2307/§10/ledd/4) og [femte ledd](forskrift/2019-03-30-2307/§10/ledd/5), [§ 20 andre ledd](forskrift/2019-03-30-2307/§20/ledd/2), [§ 23 femte](forskrift/2019-03-30-2307/§23/ledd/5) og [sjette ledd](forskrift/2019-03-30-2307/§23/ledd/6) og [§ 39 tredje ledd](forskrift/2019-03-30-2307/§39/ledd/3),
+2. avgjør klager på vedtak om oppsigelse, suspensjon og avskjed i de saker der det er bestemt av Kirkemøtet,
+3. treffer vedtak om oppsigelse, suspensjon og avskjed av biskop,
+4. avgjør klager på Kirkerådets vedtak om avslag på innsynskrav etter [offentleglova](lov/2006-05-19-16) og
+5. utfører for øvrig de oppgaver den er pålagt av Kirkemøtet.
 
 Klagenemndas avgjørelser kan ikke påklages.
 
@@ -406,7 +446,11 @@ Kirkemøtet gir nærmere regler om klagenemnda.
 
 ### § 34. Samisk kirkeråds sammensetning
 
-Samisk kirkeråd består av:Samisk kirkeråds leder, valgt av Kirkemøtet,fire andre medlemmer, valgt av Kirkemøtet,en biskop, valgt av Bispemøtet.
+Samisk kirkeråd består av:
+
+1. Samisk kirkeråds leder, valgt av Kirkemøtet,
+2. fire andre medlemmer, valgt av Kirkemøtet,
+3. en biskop, valgt av Bispemøtet.
 
 I tillegg kan Sametinget oppnevne ett medlem med varamedlem. For hvert medlem skal det velges ett personlig varamedlem.
 
@@ -502,7 +546,10 @@ Kirkelig fellesråd fastsetter selv nærmere retningslinjer for møterett etter 
 
 Vedtak i et kirkelig organ kan ikke påklages med mindre annet er særskilt bestemt. Vedtak etter [offentleglova](lov/2006-05-19-16) som er truffet av menighetsrådet eller kirkelig fellesråd, kan påklages til bispedømmerådet. Vedtak etter [offentleglova](lov/2006-05-19-16) som er truffet av bispedømmerådet, kan påklages til Kirkerådet. Vedtak etter [offentleglova](lov/2006-05-19-16) som er truffet av Kirkerådet, kan påklages til Den norske kirkes klagenemnd.
 
-Om ugildhet gjelder reglene i [forvaltningsloven kapittel II](lov/1967-02-10/kapii), med følgende særregler:Ugildhet inntrer ikke ved valg til tillitsverv eller ved fastsetting av godtgjøring o.l. for slike verv.Kirkelig tilsatte som i denne egenskap har medvirket ved tilretteleggelsen av grunnlaget for en avgjørelse, eller ved tidligere avgjørelse i samme sak, skal alltid anses som ugild når saken behandles i et kirkelig organ. Biskopen regnes ikke som kirkelig tilsatt i forhold til denne bestemmelse. Det samme gjelder prost og annen prest som enten i kraft av sin stilling eller etter oppnevning av biskopen er medlem av et organ for soknet.
+Om ugildhet gjelder reglene i [forvaltningsloven kapittel II](lov/1967-02-10/kapii), med følgende særregler:
+
+1. Ugildhet inntrer ikke ved valg til tillitsverv eller ved fastsetting av godtgjøring o.l. for slike verv.
+2. Kirkelig tilsatte som i denne egenskap har medvirket ved tilretteleggelsen av grunnlaget for en avgjørelse, eller ved tidligere avgjørelse i samme sak, skal alltid anses som ugild når saken behandles i et kirkelig organ. Biskopen regnes ikke som kirkelig tilsatt i forhold til denne bestemmelse. Det samme gjelder prost og annen prest som enten i kraft av sin stilling eller etter oppnevning av biskopen er medlem av et organ for soknet.
 
 Bestemmelsene i kirkeordningen skal ved motstrid gå foran bestemmelser i annet regelverk fastsatt av Kirkemøtet eller annet kirkelig organ.
 

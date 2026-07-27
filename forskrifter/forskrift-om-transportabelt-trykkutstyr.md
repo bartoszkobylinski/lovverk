@@ -26,15 +26,69 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder:nytt transportabelt trykkutstyr som skal gjøres tilgjengelig på markedet og som ikke er samsvarsmerket etter [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods.periodisk kontroll, mellomliggende kontroll, ekstraordinær kontroll og bruk av samsvarsmerket transportabelt trykkutstyrfornyet samsvarsvurdering av transportabelt trykkutstyr som ikke er pi-merket etter [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods
+Forskriften gjelder:
 
-Forskriften gjelder ikke:transportabelt trykkutstyr som var brakt i omsetning før gjennomføringen av direktiv [1999/36/EF](eu/31999l0036*) om transportabelt trykkutstyr, og som ikke har vært gjenstand for fornyet samsvarsvurdering.transportabelt trykkutstyr som utelukkende brukes til transport av farlig gods mellom Norge og land utenfor EØS-området i overensstemmelse med ADR/RID.
+1. nytt transportabelt trykkutstyr som skal gjøres tilgjengelig på markedet og som ikke er samsvarsmerket etter [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods.
+2. periodisk kontroll, mellomliggende kontroll, ekstraordinær kontroll og bruk av samsvarsmerket transportabelt trykkutstyr
+3. fornyet samsvarsvurdering av transportabelt trykkutstyr som ikke er pi-merket etter [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods
+
+Forskriften gjelder ikke:
+
+1. transportabelt trykkutstyr som var brakt i omsetning før gjennomføringen av direktiv [1999/36/EF](eu/31999l0036*) om transportabelt trykkutstyr, og som ikke har vært gjenstand for fornyet samsvarsvurdering.
+2. transportabelt trykkutstyr som utelukkende brukes til transport av farlig gods mellom Norge og land utenfor EØS-området i overensstemmelse med ADR/RID.
 
 Forskriften gjelder ikke på Svalbard.
 
 ### § 2. Definisjoner
 
-I forskriften menes med*transportabelt trykkutstyr:*trykkbeholdere, deres ventiler og annet relevant tilbehør, som i ADR/RID er omfattet av kapittel 6.2, ogbrukt til å transportere klasse 2 gasser, unntatt gasser og gjenstander med sifrene 6 eller 7 i klassifiseringskoden, ellertil transport av UN 1051, 1052, 1745, 1746, 1790 og 2495.tanker, batterikjøretøyer og multielement gasscontainere (MEGCer), deres ventiler og annet relevant tilbehør, som i ADR/RID er omfattet av kapittel 6.8 ogbrukt til å transportere klasse 2 gasser, unntatt gasser og gjenstander med sifrene 6 eller 7 i klassifiseringskoden, ellertil transport av UN 1051,1052,1745,1746,1790 og 2495.engangsbeholdere med gass, UN 2037Definisjonen omfatter ikke:aerosolbeholdere UN 1950åpne beholdere for nedkjølt gassgassflasker til pusteapparaterbrannslukningsapparater UN 1044transportabelt trykkutstyr som er unntatt i henhold til avsnitt 1.1.3.2 i ADR/RIDtransportabelt trykkutstyr som er unntatt fra reglene for konstruksjon og prøving av emballasje i henhold til spesielle bestemmelser i kapittel 3.3 i ADR/RID.*ADR:* den til enhver tid gjeldende utgave av den europeiske avtale om internasjonal veitransport av farlig gods, inngått 30. september 1957, med vedlegg A og B, inntatt i [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods*akkreditering:* en bekreftelse fra nasjonalt akkrediteringsorgan om at et teknisk kontrollorgan oppfyller ADR/RID 1.8.6.8, annet avsnitt*bemyndiget representant:* fysisk eller juridisk person etablert innenfor EØS med en skriftlig fullmakt fra produsenten til å opptre på dennes vegne i forbindelse med nærmere spesifiserte oppgaver*bringe i omsetning:* den første tilgjengeliggjøring av transportabelt trykkutstyr innenfor EØS-området*bruk:* fylling, midlertidig lagring knyttet til transport, tømming og refylling av transportabelt trykkutstyr*bruker:* fysisk eller juridisk person etablert innenfor EØS, som bruker transportabelt trykkutstyr*distributør:* fysisk eller juridisk person som er etablert innenfor EØS, bortsett fra produsenten eller importøren, som gjør transportabelt trykkutstyr eller tilhørende deler tilgjengelig på markedet*eier:* fysisk eller juridisk person etablert innenfor EØS, som eier transportabelt trykkutstyr*ekstraordinær kontroll:* ekstraordinær kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID*epsilon-merking:* merking med tegnet ε som viser at gassflasken er konstruert og produsert i samsvar med direktiv [84/525/EØF](eu/31984l0525) om sømløse gassflasker av stål, direktiv [84/526/EØF](eu/31984l0526) om sømløse gassflasker av ulegert og legert aluminium eller direktiv [84/527/EØF](eu/31984l0527) om sveisede gassflasker av legert stål.*fornyet samsvarsvurdering:* samsvarsvurdering som eier eller bruker anmoder om å få utført, av transportabelt trykkutstyr som er produsert og brakt i omsetning før bestemmelsene om samsvarsvurdering i [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods ble gjort gjeldende for utstyret*gjøre tilgjengelig på markedet:* levering av transportabelt trykkutstyr for distribusjon eller bruk innenfor EØS-området, som ledd i en ervervsvirksomhet eller en annen tjenesteyting, mot eller uten vederlag*importør:* fysisk eller juridisk person etablert innenfor EØS, som bringer transportabelt trykkutstyr eller tilhørende deler fra et tredjeland, i omsetning innenfor EØS*markedsaktør:* produsenten, bemyndiget representant, importøren, distributøren, eier eller bruker, som handler som ledd i ervervsvirksomhet eller annen tjenesteyting, mot eller uten vederlag*mellomliggende kontroll:* mellomliggende kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID*nasjonalt akkrediteringsorgan:* det eneste organ i en EØS-stat med statlig myndighet til å utføre akkreditering*periodisk kontroll:* periodisk kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID*pi-merking:* merking av utstyr med symbolet π som viser at transportabelt trykkutstyr er samsvarsvurdert og i overensstemmelse med ADR/RID og denne forskrift*produsent:* fysisk eller juridisk person som fremstiller transportabelt trykkutstyr eller tilhørende deler, eller som får slikt utstyr konstruert eller produsert, og markedsfører det under sitt navn eller varemerke*RID:* den til enhver tid gjeldende utgave av det internasjonale reglement for transport av farlig gods på jernbane, som fremgår av vedlegg C i konvensjonen om internasjonal jernbanetransport (COTIF), inntatt i [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods*samsvarsmerking:* merking av transportabelt trykkutstyr med π etter direktiv [1999/36/EF](eu/31999l0036*) eller direktiv [2010/35/EU](eu/32010l0035), eller med ε*samsvarsvurdering:* vurdering av samsvar og prosedyren for dette fastsatt i ADR/RID.*teknisk kontrollorgan:* organ som er kvalifisert og utpekt i henhold til bestemmelsene i denne forskrift og ADR/RID*tilbakekalling:* tiltak med sikte på retur av transportabelt trykkutstyr som er gjort tilgjengelig for sluttbruker*tilbaketrekking*: tiltak for å forhindre at transportabelt trykkutstyr blir gjort tilgjengelig på markedet eller brukt*utpeking:* prosessen ved tildeling av status som teknisk kontrollorgan og melding om utpekingen til Europakommisjonen.
+I forskriften menes med
+
+1. *transportabelt trykkutstyr:*
+
+   1. trykkbeholdere, deres ventiler og annet relevant tilbehør, som i ADR/RID er omfattet av kapittel 6.2, og
+
+      1. brukt til å transportere klasse 2 gasser, unntatt gasser og gjenstander med sifrene 6 eller 7 i klassifiseringskoden, eller
+      2. til transport av UN 1051, 1052, 1745, 1746, 1790 og 2495.
+   2. tanker, batterikjøretøyer og multielement gasscontainere (MEGCer), deres ventiler og annet relevant tilbehør, som i ADR/RID er omfattet av kapittel 6.8 og
+
+      1. brukt til å transportere klasse 2 gasser, unntatt gasser og gjenstander med sifrene 6 eller 7 i klassifiseringskoden, eller
+      2. til transport av UN 1051,1052,1745,1746,1790 og 2495.
+   3. engangsbeholdere med gass, UN 2037
+
+   Definisjonen omfatter ikke:
+
+   1. aerosolbeholdere UN 1950
+   2. åpne beholdere for nedkjølt gass
+   3. gassflasker til pusteapparater
+   4. brannslukningsapparater UN 1044
+   5. transportabelt trykkutstyr som er unntatt i henhold til avsnitt 1.1.3.2 i ADR/RID
+   6. transportabelt trykkutstyr som er unntatt fra reglene for konstruksjon og prøving av emballasje i henhold til spesielle bestemmelser i kapittel 3.3 i ADR/RID.
+2. *ADR:* den til enhver tid gjeldende utgave av den europeiske avtale om internasjonal veitransport av farlig gods, inngått 30. september 1957, med vedlegg A og B, inntatt i [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods
+3. *akkreditering:* en bekreftelse fra nasjonalt akkrediteringsorgan om at et teknisk kontrollorgan oppfyller ADR/RID 1.8.6.8, annet avsnitt
+4. *bemyndiget representant:* fysisk eller juridisk person etablert innenfor EØS med en skriftlig fullmakt fra produsenten til å opptre på dennes vegne i forbindelse med nærmere spesifiserte oppgaver
+5. *bringe i omsetning:* den første tilgjengeliggjøring av transportabelt trykkutstyr innenfor EØS-området
+6. *bruk:* fylling, midlertidig lagring knyttet til transport, tømming og refylling av transportabelt trykkutstyr
+7. *bruker:* fysisk eller juridisk person etablert innenfor EØS, som bruker transportabelt trykkutstyr
+8. *distributør:* fysisk eller juridisk person som er etablert innenfor EØS, bortsett fra produsenten eller importøren, som gjør transportabelt trykkutstyr eller tilhørende deler tilgjengelig på markedet
+9. *eier:* fysisk eller juridisk person etablert innenfor EØS, som eier transportabelt trykkutstyr
+10. *ekstraordinær kontroll:* ekstraordinær kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID
+11. *epsilon-merking:* merking med tegnet ε som viser at gassflasken er konstruert og produsert i samsvar med direktiv [84/525/EØF](eu/31984l0525) om sømløse gassflasker av stål, direktiv [84/526/EØF](eu/31984l0526) om sømløse gassflasker av ulegert og legert aluminium eller direktiv [84/527/EØF](eu/31984l0527) om sveisede gassflasker av legert stål.
+12. *fornyet samsvarsvurdering:* samsvarsvurdering som eier eller bruker anmoder om å få utført, av transportabelt trykkutstyr som er produsert og brakt i omsetning før bestemmelsene om samsvarsvurdering i [forskrift 26. juni 2001 nr. 792](forskrift/2001-06-26-792) om transportabelt trykkutstyr for farlig gods ble gjort gjeldende for utstyret
+13. *gjøre tilgjengelig på markedet:* levering av transportabelt trykkutstyr for distribusjon eller bruk innenfor EØS-området, som ledd i en ervervsvirksomhet eller en annen tjenesteyting, mot eller uten vederlag
+14. *importør:* fysisk eller juridisk person etablert innenfor EØS, som bringer transportabelt trykkutstyr eller tilhørende deler fra et tredjeland, i omsetning innenfor EØS
+15. *markedsaktør:* produsenten, bemyndiget representant, importøren, distributøren, eier eller bruker, som handler som ledd i ervervsvirksomhet eller annen tjenesteyting, mot eller uten vederlag
+16. *mellomliggende kontroll:* mellomliggende kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID
+17. *nasjonalt akkrediteringsorgan:* det eneste organ i en EØS-stat med statlig myndighet til å utføre akkreditering
+18. *periodisk kontroll:* periodisk kontroll og fremgangsmåten for denne slik det er fastsatt i ADR/RID
+19. *pi-merking:* merking av utstyr med symbolet π som viser at transportabelt trykkutstyr er samsvarsvurdert og i overensstemmelse med ADR/RID og denne forskrift
+20. *produsent:* fysisk eller juridisk person som fremstiller transportabelt trykkutstyr eller tilhørende deler, eller som får slikt utstyr konstruert eller produsert, og markedsfører det under sitt navn eller varemerke
+21. *RID:* den til enhver tid gjeldende utgave av det internasjonale reglement for transport av farlig gods på jernbane, som fremgår av vedlegg C i konvensjonen om internasjonal jernbanetransport (COTIF), inntatt i [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods
+22. *samsvarsmerking:* merking av transportabelt trykkutstyr med π etter direktiv [1999/36/EF](eu/31999l0036*) eller direktiv [2010/35/EU](eu/32010l0035), eller med ε
+23. *samsvarsvurdering:* vurdering av samsvar og prosedyren for dette fastsatt i ADR/RID.
+24. *teknisk kontrollorgan:* organ som er kvalifisert og utpekt i henhold til bestemmelsene i denne forskrift og ADR/RID
+25. *tilbakekalling:* tiltak med sikte på retur av transportabelt trykkutstyr som er gjort tilgjengelig for sluttbruker
+26. *tilbaketrekking*: tiltak for å forhindre at transportabelt trykkutstyr blir gjort tilgjengelig på markedet eller brukt
+27. *utpeking:* prosessen ved tildeling av status som teknisk kontrollorgan og melding om utpekingen til Europakommisjonen.
 
 ### § 3. Anvendelsen av ADR/RID
 
@@ -78,7 +132,11 @@ Produsenten skal dokumentere tilfeller av manglende samsvar og korrigerende tilt
 
 Produsenten kan ved en skriftlig fullmakt utpeke en bemyndiget representant. Fullmakten kan ikke omfatte produsentens forpliktelser etter [§ 6](forskrift/2012-11-22-1088/§6), første eller annet ledd.
 
-Fullmakten skal som et minimum sette den bemyndigede representanten i stand til å:stille den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i minst den perioden som er angitt i ADR/RID for produsenter,legge frem, etter anmodning fra tilsynsmyndigheten, den informasjon og dokumentasjon som er nødvendig for å vurdere om det transportable trykkutstyret er i overensstemmelse med denne forskrift, ogsamarbeide med tilsynsmyndigheten i forbindelse med eventuelle tiltak for å eliminere risiko ved transportabelt trykkutstyr som omfattes av fullmakten.
+Fullmakten skal som et minimum sette den bemyndigede representanten i stand til å:
+
+1. stille den tekniske dokumentasjonen til rådighet for tilsynsmyndigheten i minst den perioden som er angitt i ADR/RID for produsenter,
+2. legge frem, etter anmodning fra tilsynsmyndigheten, den informasjon og dokumentasjon som er nødvendig for å vurdere om det transportable trykkutstyret er i overensstemmelse med denne forskrift, og
+3. samarbeide med tilsynsmyndigheten i forbindelse med eventuelle tiltak for å eliminere risiko ved transportabelt trykkutstyr som omfattes av fullmakten.
 
 ### § 9. Produsentens representants plikter
 
@@ -204,7 +262,11 @@ Gassflasker som er epsilonmerket og som skal pi-merkes, skal pi-merkes av eller 
 
 Virksomhet som vil bli teknisk kontrollorgan etter denne forskrift, skal søke Direktoratet for samfunnssikkerhet og beredskap om utpeking som teknisk kontrollorgan.
 
-Søknaden skal inneholde et akkrediteringssertifikat utstedt av Norsk akkreditering, som bekrefter at virksomheten oppfyller vilkårene i [§ 25](forskrift/2012-11-22-1088/§25), og en beskrivelse av:virksomhetens arbeid knyttet til samsvarsvurdering, periodiske kontroller, mellomliggende kontroller, ekstraordinære kontroller, og fornyet samsvarsvurderingprosedyrene for arbeidet etter bokstav a.hvilket transportabelt trykkutstyr organet hevder å ha kompetanse om
+Søknaden skal inneholde et akkrediteringssertifikat utstedt av Norsk akkreditering, som bekrefter at virksomheten oppfyller vilkårene i [§ 25](forskrift/2012-11-22-1088/§25), og en beskrivelse av:
+
+1. virksomhetens arbeid knyttet til samsvarsvurdering, periodiske kontroller, mellomliggende kontroller, ekstraordinære kontroller, og fornyet samsvarsvurdering
+2. prosedyrene for arbeidet etter bokstav a.
+3. hvilket transportabelt trykkutstyr organet hevder å ha kompetanse om
 
 ### § 25. Krav til tekniske kontrollorganer
 
@@ -224,7 +286,11 @@ Teknisk kontrollorgan som er utpekt innenfor EØS-området etter regler som gjen
 
 ### § 27. Tekniske kontrollorganers rapporteringsplikt overfor tilsynsmyndigheten
 
-Tekniske kontrollorganer skal rapportere følgende til den myndighet som har utpekt organet:avslag på, begrensning i, midlertidig inndragning eller tilbakekall av en attestforhold som har betydning for utpekingen som teknisk kontrollorgankrav om informasjon om utførte aktiviteter fra markedsovervåkningsmyndigheter.
+Tekniske kontrollorganer skal rapportere følgende til den myndighet som har utpekt organet:
+
+1. avslag på, begrensning i, midlertidig inndragning eller tilbakekall av en attest
+2. forhold som har betydning for utpekingen som teknisk kontrollorgan
+3. krav om informasjon om utførte aktiviteter fra markedsovervåkningsmyndigheter.
 
 ### § 28. Tekniske kontrollorganers informasjonsplikt overfor andre tekniske kontrollorganer
 
@@ -252,7 +318,14 @@ Ved overtredelse av denne forskrift eller vedtak fattet med hjemmel i denne, kom
 
 Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan tilsynsmyndigheten begrense eller inndra utpekingen.
 
-Dersom transportabelt trykkutstyr kan utgjøre en fare, eller ikke er i samsvar med denne forskriften, kan tilsynsmyndigheten:nedlegge forbud mot å bringe i omsetning eller gjøre tilgjengelig utstyret på markedet,kreve at utstyret tilbaketrekkes,kreve at utstyret tilbakekalles,kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av utstyret,kreve at utstyret gjøres ubrukelig, ellernedlegge forbud mot bruk av utstyret.
+Dersom transportabelt trykkutstyr kan utgjøre en fare, eller ikke er i samsvar med denne forskriften, kan tilsynsmyndigheten:
+
+1. nedlegge forbud mot å bringe i omsetning eller gjøre tilgjengelig utstyret på markedet,
+2. kreve at utstyret tilbaketrekkes,
+3. kreve at utstyret tilbakekalles,
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av utstyret,
+5. kreve at utstyret gjøres ubrukelig, eller
+6. nedlegge forbud mot bruk av utstyret.
 
 ### § 33. Ikrafttredelse
 
@@ -271,6 +344,20 @@ Dersom fristen for gjennomføring av førstkommende periodiske kontroll for det 
 3. Det tekniske kontrollorganet av type A som er utpekt for fornyet samsvarsvurdering, skal vurdere om det transportable trykkutstyret gir minst samme grad av sikkerhet som det transportable trykkutstyret nevnt i ADR/RID. Vurderingen skal utføres på grunnlag av de opplysninger som legges fram i samsvar med nr. 2, og eventuelt etter ytterligere inspeksjoner.
 4. Dersom resultatene av vurderingen i nr. 3 er tilfredsstillende, skal det transportable trykkutstyret være gjenstand for den periodiske kontrollen som er omhandlet i ADR/RID. Dersom kravene i forbindelse med denne periodiske kontrollen er oppfylt, skal Pi-merkingen påføres av, eller under tilsyn av, det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen, i samsvar med kapittel III. Pi-merkingen skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen. Det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen, skal utstede et sertifikat for ny samsvarsvurdering i samsvar med nr. 6.
 5. Dersom trykkbeholdere ble produsert i serier, kan medlemsstatene tillate at en ny samsvarsvurdering av individuelle trykkbeholdere, herunder tilhørende ventiler og annet tilleggsutstyr som benyttes for transport, blir utført av et teknisk kontrollorgan som er utpekt for periodisk kontroll av de relevante transportable trykkbeholderne, forutsatt at typesamsvar er blitt vurdert i samsvar med nr. 3 av et teknisk kontrollorgan av type A med ansvar for den fornyede samsvarsvurderingen, og det er utstedt et sertifikat for ny typevurdering. Pi-merkingen skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen.
-6. I alle tilfeller skal det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen, utstede sertifikat for fornyet samsvarsvurdering, som minst skal inneholde:en identifisering av det tekniske kontrollorganet som utstedte sertifikatet, og identifikasjonsnummeret til det tekniske kontrollorganet av type A som var ansvarlig for den fornyede samsvarsvurderingen, dersom disse er forskjellige, i samsvar med nr. 3,navnet og adressen til eier eller bruker som angitt i nr. 2,dersom framgangsmåten i nr. 5 anvendes, opplysninger som identifiserer sertifikatet for ny typevurdering,opplysninger for identifisering av det transportable trykkutstyret som Pi-merkingen er påført, herunder minst serienummeret eller serienumrene ogutstedelsesdatoen.
-7. Det skal utstedes et sertifikat for ny typevurdering.Når framgangsmåten i nr. 5 får anvendelse, skal det tekniske kontrollorganet av type A med ansvar for fornyet samsvarsvurdering, utstede sertifikatet for ny typevurdering, som minst skal inneholde:en identifisering av det tekniske kontrollorganet som utstedte sertifikatet,navnet og adressen til produsenten og til innehaveren av den opprinnelige typegodkjenningen for det transportable trykkutstyret som er gjenstand for fornyet samsvarsvurdering, når innehaveren ikke er produsenten,opplysninger som identifiserer det transportable trykkutstyret som hører til serien,utstedelsesdatoen ogpåskriften: «dette sertifikatet tillater ikke produksjon av transportabelt trykkutstyr eller deler av slikt utstyr».
+6. I alle tilfeller skal det tekniske kontrollorganet som er ansvarlig for den periodiske kontrollen, utstede sertifikat for fornyet samsvarsvurdering, som minst skal inneholde:
+
+   1. en identifisering av det tekniske kontrollorganet som utstedte sertifikatet, og identifikasjonsnummeret til det tekniske kontrollorganet av type A som var ansvarlig for den fornyede samsvarsvurderingen, dersom disse er forskjellige, i samsvar med nr. 3,
+   2. navnet og adressen til eier eller bruker som angitt i nr. 2,
+   3. dersom framgangsmåten i nr. 5 anvendes, opplysninger som identifiserer sertifikatet for ny typevurdering,
+   4. opplysninger for identifisering av det transportable trykkutstyret som Pi-merkingen er påført, herunder minst serienummeret eller serienumrene og
+   5. utstedelsesdatoen.
+7. Det skal utstedes et sertifikat for ny typevurdering.
+
+   Når framgangsmåten i nr. 5 får anvendelse, skal det tekniske kontrollorganet av type A med ansvar for fornyet samsvarsvurdering, utstede sertifikatet for ny typevurdering, som minst skal inneholde:
+
+   1. en identifisering av det tekniske kontrollorganet som utstedte sertifikatet,
+   2. navnet og adressen til produsenten og til innehaveren av den opprinnelige typegodkjenningen for det transportable trykkutstyret som er gjenstand for fornyet samsvarsvurdering, når innehaveren ikke er produsenten,
+   3. opplysninger som identifiserer det transportable trykkutstyret som hører til serien,
+   4. utstedelsesdatoen og
+   5. påskriften: «dette sertifikatet tillater ikke produksjon av transportabelt trykkutstyr eller deler av slikt utstyr».
 8. Ved å påføre eller sørge for å få påført Pi-merkingen, viser eieren eller brukeren at denne tar ansvar for at det transportable trykkutstyret er i samsvar med alle relevante krav i ADR/RID og i denne forskrift, gjeldende på tidspunktet for den fornyede samsvarsvurderingen.

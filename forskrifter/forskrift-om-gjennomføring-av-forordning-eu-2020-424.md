@@ -15,7 +15,7 @@ xml_hash: "393d2fd031b571ec40dadc2d43b5b4052e5a8857c3b27216a0a25e971a543363"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ eu_basis: []
 
 ## § 2.
 
-Anmodninger om unntak fra anvendelse av tekniske spesifikasjoner for samtrafikkevne i det norske jernbanesystemet sendes i samsvar med [samtrafikkforskriften § 2-4](forskrift/2021-09-09-2742/§2-4) tilStatens jernbanetilsyn etter bestemmelsen i tredje leddByrået etter bestemmelsen i fjerde ledd bokstav aByrået eller Statens jernbanetilsyn etter bestemmelsen i fjerde ledd bokstav b.
+Anmodninger om unntak fra anvendelse av tekniske spesifikasjoner for samtrafikkevne i det norske jernbanesystemet sendes i samsvar med [samtrafikkforskriften § 2-4](forskrift/2021-09-09-2742/§2-4) til
+
+1. Statens jernbanetilsyn etter bestemmelsen i tredje ledd
+2. Byrået etter bestemmelsen i fjerde ledd bokstav a
+3. Byrået eller Statens jernbanetilsyn etter bestemmelsen i fjerde ledd bokstav b.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 

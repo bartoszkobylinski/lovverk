@@ -22,6 +22,8 @@ eu_basis: []
 
 # Endringer i regjeringens sammensetning, statsrådenes ansvarsområder og endringer i departementsstrukturen og departmentsnavn. Endringer blant statssekretærene
 
-[...]Med virkning fra 1. januar 2024 endrer Olje- og energidepartementet navn til Energidepartementet. Departementet delegeres myndighet til å foreta nødvendige endringer i forskrifter, avtaler, instrukser, bestemmelser mv. som følge av navneendringen.
+[...]
+
+1. Med virkning fra 1. januar 2024 endrer Olje- og energidepartementet navn til Energidepartementet. Departementet delegeres myndighet til å foreta nødvendige endringer i forskrifter, avtaler, instrukser, bestemmelser mv. som følge av navneendringen.
 
 [...]

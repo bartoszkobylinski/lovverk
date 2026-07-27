@@ -15,7 +15,7 @@ xml_hash: "883329bdd0441eba2b1a3b140032b5807c3182496db2021208bf210f7955fbc6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,12 +40,29 @@ I denne forskrift betyr:
 
 4\.
 
-*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).
+*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+1. American Bureau of Shipping (ABS)
+2. Bureau Veritas (BV)
+3. DNV
+4. Lloyd's Register of Shipping (LR)
+5. Nippon Kaiji Kyoaki (Class NK)
+6. Rina Services S.p.A (RINA).
 
 5.*Sertifisert:*
 
-1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:teknisk kontrollorganakkreditert sertifiseringsorgananerkjent klasseinstitusjonannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, elleradministrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)
-2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:anerkjent klasseinstitusjonakkreditert sertifiseringsorgan, ellerannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet
+1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:
+
+   - teknisk kontrollorgan
+   - akkreditert sertifiseringsorgan
+   - anerkjent klasseinstitusjon
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, eller
+   - administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)
+2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:
+
+   - anerkjent klasseinstitusjon
+   - akkreditert sertifiseringsorgan, eller
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet
 
 > Endret ved [forskrifter 2 mars 1999 nr. 413](forskrift/1999-03-02-413) (i kraft 1 sept 1999), [11 april 2003 nr. 497](forskrift/2003-04-11-497) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [14 mars 2008 nr. 305](forskrift/2008-03-14-305) (i kraft 24 mars 2008), [5 juli 2016 nr. 897](forskrift/2016-07-05-897), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -193,7 +210,11 @@ Før noen uten sertifisert åndedrettsbeskyttelse går inn i tank, trange, innes
 
 4.2.
 
-For å kunne utføre denne kontrollen skal det være om bord minst:2 instrumenter for måling av hydrokarboner2 instrumenter for måling av aktuelle helsefarlige gasskonsentrasjoner inklusive hydrogensulfid2 instrumenter for måling av oksygeninnholdet i luften.
+For å kunne utføre denne kontrollen skal det være om bord minst:
+
+- 2 instrumenter for måling av hydrokarboner
+- 2 instrumenter for måling av aktuelle helsefarlige gasskonsentrasjoner inklusive hydrogensulfid
+- 2 instrumenter for måling av oksygeninnholdet i luften.
 
 Nevnte instrumenter skal være sertifisert og skal tilfredsstille kravene til CENELEC (European Committee for Electrotechnical Standardization) eller IEC (International Electrotechnical Commission). De som utfører målingene skal ha fått nødvendig opplæring i å kunne anvende instrumentene.
 

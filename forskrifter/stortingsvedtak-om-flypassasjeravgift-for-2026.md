@@ -24,13 +24,21 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen på ervervsmessig flyging fra norske lufthavner med følgende beløp per passasjer:flyginger med sluttdestinasjon i Europa: kr 61andre flyginger: kr 350.
+Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen på ervervsmessig flyging fra norske lufthavner med følgende beløp per passasjer:
+
+1. flyginger med sluttdestinasjon i Europa: kr 61
+2. andre flyginger: kr 350.
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften, herunder hvilke land og områder som omfattes av de ulike satsene og at enkelte områder skal omfattes av en annen sats enn det som følger av første ledd.
 
 ## § 2.
 
-Det gis fritak for avgift på flyging avluftbefordrerens ansatte på tjenestereisebarn under to årtransitt- og transferpassasjererNATOs styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
+Det gis fritak for avgift på flyging av
+
+1. luftbefordrerens ansatte på tjenestereise
+2. barn under to år
+3. transitt- og transferpassasjerer
+4. NATOs styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

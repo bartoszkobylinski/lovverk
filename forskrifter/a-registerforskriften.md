@@ -48,7 +48,13 @@ Hver akvakulturtillatelse har et eget blad i registeret og utgjør en egen regis
 
 ### § 4. Opplysninger om registerenheten
 
-Akvakulturregisteret skal blant annet inneholde opplysninger om:tillatelsens art, lokalitet(er), nummer, fylke, kommune, tidspunkt for etablering og eventuelle tidsbegrensninger, type tillatelse, kapasitet,identifikasjon av den person eller det foretak registreringen gjelder. For hver registrert fysisk person og enkeltpersonsforetak skal Akvakulturregisteret inneholde fullt navn, fødselsnummer og adresse. For fysisk person som ikke er tildelt norsk fødselsnummer registreres tildelt D-nummer. For foretak som ikke er enkeltpersonsforetak skal registeret inneholde foretaksnavn, organisasjonsnummer og forretningsadresse,hvilken rettighet/heftelse som er tinglyst og tidspunkt for tinglysing (dagbokføringsdato),konkursåpning hos innehaver av akvakulturtillatelsen,eventuelle enkeltvedtak om tilbaketrekking av akvakulturtillatelsen samt forhåndsvarsel om slikt vedtak etter [akvakulturloven § 9](lov/2005-06-17-79/§9), vedtak om tvangsmulkt, krav om dekning av utgifter til iverksetting og overtredelsesgebyr etter [akvakulturloven § 28](lov/2005-06-17-79/§28), [§ 29](lov/2005-06-17-79/§29) og [§ 30](lov/2005-06-17-79/§30) fra 1 til 5 millioner kroner, jf. akvakulturregisterforskriften [§ 8](lov/2005-06-17-79/§8).
+Akvakulturregisteret skal blant annet inneholde opplysninger om:
+
+1. tillatelsens art, lokalitet(er), nummer, fylke, kommune, tidspunkt for etablering og eventuelle tidsbegrensninger, type tillatelse, kapasitet,
+2. identifikasjon av den person eller det foretak registreringen gjelder. For hver registrert fysisk person og enkeltpersonsforetak skal Akvakulturregisteret inneholde fullt navn, fødselsnummer og adresse. For fysisk person som ikke er tildelt norsk fødselsnummer registreres tildelt D-nummer. For foretak som ikke er enkeltpersonsforetak skal registeret inneholde foretaksnavn, organisasjonsnummer og forretningsadresse,
+3. hvilken rettighet/heftelse som er tinglyst og tidspunkt for tinglysing (dagbokføringsdato),
+4. konkursåpning hos innehaver av akvakulturtillatelsen,
+5. eventuelle enkeltvedtak om tilbaketrekking av akvakulturtillatelsen samt forhåndsvarsel om slikt vedtak etter [akvakulturloven § 9](lov/2005-06-17-79/§9), vedtak om tvangsmulkt, krav om dekning av utgifter til iverksetting og overtredelsesgebyr etter [akvakulturloven § 28](lov/2005-06-17-79/§28), [§ 29](lov/2005-06-17-79/§29) og [§ 30](lov/2005-06-17-79/§30) fra 1 til 5 millioner kroner, jf. akvakulturregisterforskriften [§ 8](lov/2005-06-17-79/§8).
 
 Forskriftens [§ 2](forskrift/2005-12-28-1706/§2) første ledd gjelder ikke for opplysningene som nevnt i bokstav e da disse opplysningene bare er av informativ karakter.
 
@@ -98,7 +104,11 @@ På ethvert dokument som er tinglyst, gir registerføreren attest om tinglysinge
 
 ### § 11. Blanketter
 
-Følgende dokumenttyper som skal registreres og tinglyses i Akvakulturregisteret skal være skrevet på godkjent blankett fastsatt av Brønnøysundregistrene:pantedokumenter,dokument for overføring av akvakulturtillatelse,dokument for tvangsforretning.
+Følgende dokumenttyper som skal registreres og tinglyses i Akvakulturregisteret skal være skrevet på godkjent blankett fastsatt av Brønnøysundregistrene:
+
+1. pantedokumenter,
+2. dokument for overføring av akvakulturtillatelse,
+3. dokument for tvangsforretning.
 
 ### § 12. Registerhjemmel
 
@@ -166,13 +176,23 @@ Forhåndsvarsel og vedtak etter [§ 4](forskrift/2005-12-28-1706/§4) bokstav e 
 
 For tinglysing i Akvakulturregisteret betales et gebyr på kroner 1.450 for hver akvakulturtillatelse som tinglysingen omfatter med mindre annet følger av femte ledd.
 
-For følgende informasjon på papir eller i elektronisk form fra Akvakulturregisteret betales et gebyr på kroner 150:særskilt pantattest,annen attestert tinglysingsutskrift som gjelder Akvakulturregisteret,oppgave over dagbokførte dokumenter eller visse grupper av slike,attestert kopi av tinglyst dokument som gis av tinglysingsmyndighet.
+For følgende informasjon på papir eller i elektronisk form fra Akvakulturregisteret betales et gebyr på kroner 150:
+
+1. særskilt pantattest,
+2. annen attestert tinglysingsutskrift som gjelder Akvakulturregisteret,
+3. oppgave over dagbokførte dokumenter eller visse grupper av slike,
+4. attestert kopi av tinglyst dokument som gis av tinglysingsmyndighet.
 
 Det betales ett gebyr for hver registerenhet utskriften omfatter.
 
 Gjelder oppgaven som nevnt i andre ledd bokstav c dokumenter dagbokført i mer enn en kalendermåned, skal det betales kroner 150 for hver påbegynt kalendermåned.
 
-Det skal ikke betales gebyr for tinglysing, registrering eller anmerking av:bevis for at en heftelse er falt bort, eller for at den berettigede samtykker i at den slettes,melding som tingretten eller bostyrer registrerer i medhold av konkursloven eller panteloven,avgjørelse om at noen er satt under vergemål eller opphevelse av vergemål,utleggsforretning, arrestforretning eller midlertidig forføyning.
+Det skal ikke betales gebyr for tinglysing, registrering eller anmerking av:
+
+1. bevis for at en heftelse er falt bort, eller for at den berettigede samtykker i at den slettes,
+2. melding som tingretten eller bostyrer registrerer i medhold av konkursloven eller panteloven,
+3. avgjørelse om at noen er satt under vergemål eller opphevelse av vergemål,
+4. utleggsforretning, arrestforretning eller midlertidig forføyning.
 
 > Endret ved [forskrift 14 feb 2007 nr. 240](forskrift/2007-02-14-240) (i kraft 1 mai 2007, endringen gjelder ikke for dokumenter som har kommet inn til Brønnøysundregistrene før ikrafttredelsesdatoen).
 

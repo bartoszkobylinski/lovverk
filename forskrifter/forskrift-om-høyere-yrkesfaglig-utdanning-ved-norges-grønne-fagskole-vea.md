@@ -15,7 +15,7 @@ xml_hash: "d9663c7d5ee574c144a88d501a2dfe7096c4eae0230d3431ca8058a83592cf30"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -152,7 +152,12 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 (1) Dersom søker ikke tilfredsstiller det formelle opptakskravet til en fagskoleutdanning og har fylt 23 år, vil kandidaten kunne søke fagskolen om realkompetansevurdering jamfør Norges grønne fagskole – Vea sine retningslinjer for realkompetansevurdering: Denne finnes på fagskolens hjemmeside.
 
-(2) Realkompetanse er all kompetanse som er tilegnet gjennom formell, ikke-formell eller uformell læring. Realkompetanse vurderes opp mot det formelle opptakskravet.Søkeren må ha fylt 23 år i opptaksåret for å bli realkompetansevurdert. Yrkespraksisen må være relevant til studieprogrammet det søkes på og kan være opparbeidet gjennom arbeids- og samfunnsliv, frivillig sektor, utdanning, kurs eller annet.Ved behov kan opptaksprøve eller intervju benyttes ved opptak til enkelte fagskolestudier. Det henvises til den aktuelle studieplanen og fagskolens hjemmeside for mer informasjon om realkompetansevurdering til studiet.Ved henvendelse fra søkere som ønsker realkompetansevurdering, vil fagskolen veilede og hjelpe søker i søknadsprosessen.Realkompetansevurdering gjennomføres av Norges grønne fagskole – Vea.
+(2) Realkompetanse er all kompetanse som er tilegnet gjennom formell, ikke-formell eller uformell læring. Realkompetanse vurderes opp mot det formelle opptakskravet.
+
+1. Søkeren må ha fylt 23 år i opptaksåret for å bli realkompetansevurdert. Yrkespraksisen må være relevant til studieprogrammet det søkes på og kan være opparbeidet gjennom arbeids- og samfunnsliv, frivillig sektor, utdanning, kurs eller annet.
+2. Ved behov kan opptaksprøve eller intervju benyttes ved opptak til enkelte fagskolestudier. Det henvises til den aktuelle studieplanen og fagskolens hjemmeside for mer informasjon om realkompetansevurdering til studiet.
+3. Ved henvendelse fra søkere som ønsker realkompetansevurdering, vil fagskolen veilede og hjelpe søker i søknadsprosessen.
+4. Realkompetansevurdering gjennomføres av Norges grønne fagskole – Vea.
 
 ### § 2-6-2. Søkere med utenlandsk utdanning
 
@@ -228,15 +233,37 @@ Med hjemmel i [§ 26 i fagskoleloven](lov/2018-06-08-28/§26).
 
 (2) Det skal foretas skikkethetsvurdering på fagskolestudiet Grønn helse.
 
-(3) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:Viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerViser manglende vilje eller evne til å endre uakseptabel atferd i samsvar med faglig veiledningOpptrer ikke i tråd med regelverk for helse- miljø og sikkerhet, prosedyrer og kvalitetssystemer og dette kan utgjøre fare for liv og helse.Viser truende eller krenkende atferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(3) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
-(4) Fagskolen skal ha skikkethetsnemnd alene eller sammen med en annen fagskole. Den oppnevnes av Fagskolestyret og skal inneholde:Faglig leder eller tilsvarende (leder av nemnda med dobbeltstemme, 3 år)To faglærere (3 år)To fra praksisfeltet (3 år)To studenter (ett år)En ekstern med master i rettsvitenskap (3 år) eller juridisk embetsavsluttende vurdering.Vea har felles skikkethetsnemnd med Fagskolen Innlandet.
+1. Viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. Viser manglende vilje eller evne til å endre uakseptabel atferd i samsvar med faglig veiledning
+3. Opptrer ikke i tråd med regelverk for helse- miljø og sikkerhet, prosedyrer og kvalitetssystemer og dette kan utgjøre fare for liv og helse.
+4. Viser truende eller krenkende atferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
-(5) Fagskolen skal ha en skikkethetsansvarlig. Denne kan være medlem av skikkethetsnemnda og skal innstille til nemnda. Skikkethetsansvarlig oppnevnes av rektor.Tvil om skikkethet skal meldes skikkethetsansvarlig skriftlig. Åpenbart ugrunnet tvilsmelding skal ikke behandles.Studenten skal varsles skriftlig om at det foreligger tvil.Skikkethetsansvarlig innkaller studenten til samtale der saken blir så godt belyst som mulig. Studenten skal få tilbud om utvidet veiledning og oppfølging med mindre det er åpenbart at slik veiledning ikke vil hjelpe studenten. Det skal skrives referat fra samtalen og eventuelle planer for utvidet oppfølging. Praksisperioder kan utsettes.Dersom eventuell oppfølging og veiledning ikke medfører nødvendig endring, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda. All nødvendig skriftlig dokumentasjon skal følge saken.Studenten skal varsles i god tid om nemndmøtet og ha mulighet til å fremlegge sine synspunkter for nemnda før møtet.
+(4) Fagskolen skal ha skikkethetsnemnd alene eller sammen med en annen fagskole. Den oppnevnes av Fagskolestyret og skal inneholde:
+
+1. Faglig leder eller tilsvarende (leder av nemnda med dobbeltstemme, 3 år)
+2. To faglærere (3 år)
+3. To fra praksisfeltet (3 år)
+4. To studenter (ett år)
+5. En ekstern med master i rettsvitenskap (3 år) eller juridisk embetsavsluttende vurdering.
+
+Vea har felles skikkethetsnemnd med Fagskolen Innlandet.
+
+(5) Fagskolen skal ha en skikkethetsansvarlig. Denne kan være medlem av skikkethetsnemnda og skal innstille til nemnda. Skikkethetsansvarlig oppnevnes av rektor.
+
+1. Tvil om skikkethet skal meldes skikkethetsansvarlig skriftlig. Åpenbart ugrunnet tvilsmelding skal ikke behandles.
+2. Studenten skal varsles skriftlig om at det foreligger tvil.
+3. Skikkethetsansvarlig innkaller studenten til samtale der saken blir så godt belyst som mulig. Studenten skal få tilbud om utvidet veiledning og oppfølging med mindre det er åpenbart at slik veiledning ikke vil hjelpe studenten. Det skal skrives referat fra samtalen og eventuelle planer for utvidet oppfølging. Praksisperioder kan utsettes.
+4. Dersom eventuell oppfølging og veiledning ikke medfører nødvendig endring, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda. All nødvendig skriftlig dokumentasjon skal følge saken.
+5. Studenten skal varsles i god tid om nemndmøtet og ha mulighet til å fremlegge sine synspunkter for nemnda før møtet.
 
 (6) Nemnda skal lage innstilling til fagskolens klagenemnd med en vurdering av hvorvidt studenten er skikket eller ikke, helt eller delvis utestengelse, lengde på utestengning og vilkår for å kunne gjenoppta utdanningen. Uenighet i nemnda skal fremgå og begrunnes.
 
-(7) Lokal klagenemnd fatter vedtak på bakgrunn av skikkethetsnemndas innstilling, om en student ikke er skikket og om vedtak om utestengning. Dette skal treffes i to separate vedtak.Vedtak om utestenging skal opplyse studenten om at hen ikke kan søke eller ta imot plass ved lignende utdanning i utestengingsperioden og at hen må søke nytt opptak dersom utdanningen skal gjenopptas etter utestenging.Ved utestenging kortere enn fem (5) år kan lokal klagenemnd stille vilkår som må være oppfylt for å gjenoppta studiet.
+(7) Lokal klagenemnd fatter vedtak på bakgrunn av skikkethetsnemndas innstilling, om en student ikke er skikket og om vedtak om utestengning. Dette skal treffes i to separate vedtak.
+
+1. Vedtak om utestenging skal opplyse studenten om at hen ikke kan søke eller ta imot plass ved lignende utdanning i utestengingsperioden og at hen må søke nytt opptak dersom utdanningen skal gjenopptas etter utestenging.
+2. Ved utestenging kortere enn fem (5) år kan lokal klagenemnd stille vilkår som må være oppfylt for å gjenoppta studiet.
 
 (8) Vitnemål for fullført utdanning forutsetter at studenten er vurdert som skikket for yrket.
 
@@ -453,11 +480,22 @@ Fastsatt med hjemmel i [§§ 20–27 i fagskoleloven](lov/2018-06-08-28/§20).
 
 (4) Vedtak fattet av klageinstansen er endelig. I en klagesak skal det alltid gis begrunnelse for vedtaket jf. [forvaltningsloven § 24](lov/1967-02-10/§24).
 
-(5) Nasjonal klagenemnd for fagskoleutdanning skal behandle klager over enkeltvedtak truffet med hjemmel i følgende paragrafer i [fagskoleloven](lov/2018-06-08-28):[§ 16](lov/2018-06-08-28/§16) om opptak gjennom samordna opptak. Unntatt er fagskolenes opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7 første ledd](forskrift/2019-07-11-1005/§7/ledd/1) eller spesielle opptakskrav [§ 7 fjerde ledd](forskrift/2019-07-11-1005/§7/ledd/4)[§ 24](lov/2018-06-08-28/§24) om annullering av avsluttende vurdering[§ 25](lov/2018-06-08-28/§25) om utestenging og bortvisning[§ 26](lov/2018-06-08-28/§26) om utestengning etter vurdering av skikkethet[§ 27](lov/2018-06-08-28/§27) om politiattest.
+(5) Nasjonal klagenemnd for fagskoleutdanning skal behandle klager over enkeltvedtak truffet med hjemmel i følgende paragrafer i [fagskoleloven](lov/2018-06-08-28):
+
+1. [§ 16](lov/2018-06-08-28/§16) om opptak gjennom samordna opptak. Unntatt er fagskolenes opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7 første ledd](forskrift/2019-07-11-1005/§7/ledd/1) eller spesielle opptakskrav [§ 7 fjerde ledd](forskrift/2019-07-11-1005/§7/ledd/4)
+2. [§ 24](lov/2018-06-08-28/§24) om annullering av avsluttende vurdering
+3. [§ 25](lov/2018-06-08-28/§25) om utestenging og bortvisning
+4. [§ 26](lov/2018-06-08-28/§26) om utestengning etter vurdering av skikkethet
+5. [§ 27](lov/2018-06-08-28/§27) om politiattest.
 
 (6) Vedtak i klagesaker fattet av Nasjonal klagenemnd kan ikke påklages.
 
-(7) Lokal klagenemnd er oppnevnt av Fagskolestyret og behandler klager på enkeltvedtak som ikke skal til Nasjonal klagenemnd, se punktet (5) over.Den lokale klagenemnda har fem medlemmer med personlige varamedlemmer. Det henvises til retningslinje for lokal klagenemnd som er å finne på fagskolens hjemmeside. Lederen og varamedlemmet skal fylle de lovbestemte kravene til lagdommer. Leder og varamedlem for lederen kan ikke være ansatt ved fagskolen. To (2) av medlemmene skal være studenter.Klagenemnda er vedtaksfør når lederen eller når varamedlemmet for lederen og to (2) andre medlemmer er til stede.Vedtak i klagesaker fattet av den lokale klagenemnda kan ikke påklages.Klagenemndas medlemmer utenom studentrepresentantene med vararepresentanter oppnevnes for fire (4) år av gangen. Studentrepresentant med vararepresentanter oppnevnes av studentene for ett (1) år av gangen.
+(7) Lokal klagenemnd er oppnevnt av Fagskolestyret og behandler klager på enkeltvedtak som ikke skal til Nasjonal klagenemnd, se punktet (5) over.
+
+1. Den lokale klagenemnda har fem medlemmer med personlige varamedlemmer. Det henvises til retningslinje for lokal klagenemnd som er å finne på fagskolens hjemmeside. Lederen og varamedlemmet skal fylle de lovbestemte kravene til lagdommer. Leder og varamedlem for lederen kan ikke være ansatt ved fagskolen. To (2) av medlemmene skal være studenter.
+2. Klagenemnda er vedtaksfør når lederen eller når varamedlemmet for lederen og to (2) andre medlemmer er til stede.
+3. Vedtak i klagesaker fattet av den lokale klagenemnda kan ikke påklages.
+4. Klagenemndas medlemmer utenom studentrepresentantene med vararepresentanter oppnevnes for fire (4) år av gangen. Studentrepresentant med vararepresentanter oppnevnes av studentene for ett (1) år av gangen.
 
 ### § 5-2. Rett til begrunnelse og klage på sensur
 
@@ -515,7 +553,12 @@ Hjemlet i [fagskoleloven §§ 12](lov/2018-06-08-28/§12), [24](lov/2018-06-08-2
 
 (1) Forsøk på fusk er når en student forsettlig handler i strid med forskrifter og retningslinjer for avsluttende vurdering.
 
-(2) Fusk kan være:Bruk av hjelpemidler som ikke er tillatt på avsluttende vurdering, herunder KI-genererte tekstdeler eller samarbeid.Utgi andres arbeid som eget.Sitere kilder uten å benytte kildehenvisning.Dersom det under avsluttende vurdering oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte avsluttende vurdering.
+(2) Fusk kan være:
+
+1. Bruk av hjelpemidler som ikke er tillatt på avsluttende vurdering, herunder KI-genererte tekstdeler eller samarbeid.
+2. Utgi andres arbeid som eget.
+3. Sitere kilder uten å benytte kildehenvisning.
+4. Dersom det under avsluttende vurdering oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte avsluttende vurdering.
 
 (3) Rektor kan annullere resultatet av en avsluttende vurdering, prøve eller lignende, og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med avsluttende vurdering, prøven eller lignende, eller under gjennomføringen av emnet.
 

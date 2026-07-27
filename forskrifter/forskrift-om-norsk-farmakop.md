@@ -15,16 +15,22 @@ xml_hash: "f28894770e6a82011d6475c97fd24dff1d3aaa2be2ed1f372e01525c374beb09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om norsk farmakopé
 
-Direktoratet for medisinske produkter godkjenner følgende som del av norsk farmakopé publisert elektronisk på [www.dmp.no/godkjenning/nls](http://www.dmp.no/godkjenning/nls) desember 2025:European Pharmacopoeia 12th Edition 2026 (Ph. Eur. 12.1–12.3)Norske legemiddelstandarder 2026.1 (NLS 2026.1).
+Direktoratet for medisinske produkter godkjenner følgende som del av norsk farmakopé publisert elektronisk på [www.dmp.no/godkjenning/nls](http://www.dmp.no/godkjenning/nls) desember 2025:
 
-Fra 1. januar 2026 består gyldig norsk farmakopé av:European Pharmacopoeia 12th Edition 2026, Versjon 12.1 trer i kraft 1. Januar 2026.Norske legemiddelstandarder 2026.1. (NLS 2026.1)
+- European Pharmacopoeia 12th Edition 2026 (Ph. Eur. 12.1–12.3)
+- Norske legemiddelstandarder 2026.1 (NLS 2026.1).
+
+Fra 1. januar 2026 består gyldig norsk farmakopé av:
+
+- European Pharmacopoeia 12th Edition 2026, Versjon 12.1 trer i kraft 1. Januar 2026.
+- Norske legemiddelstandarder 2026.1. (NLS 2026.1)
 
 European Pharmacopoeia 12th Edition, Supplement 12.2 trer i kraft 1. april 2026.
 

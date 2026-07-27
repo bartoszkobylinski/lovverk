@@ -30,7 +30,11 @@ Forskriften er fastsatt på grunnlag av Biloverenskomsten 2024–2026 mellom Næ
 
 Forskriften gjelder for ansatte som arbeider innen bilbransjen, herunder reparasjon, service, vedlikehold, lakkering, oppretting og lagerarbeid.
 
-Forskriften gjelder ikke for ansatte i virksomheter som hovedsakelig driver med:kjøp og salg av kjøretøyruteskift og reparasjon av ruterarbeid på bensinstasjoner.
+Forskriften gjelder ikke for ansatte i virksomheter som hovedsakelig driver med:
+
+1. kjøp og salg av kjøretøy
+2. ruteskift og reparasjon av ruter
+3. arbeid på bensinstasjoner.
 
 Forskriften gjelder ikke for ansatte i bedrifter som er omfattet av tariffavtale inngått med fagforening med innstillingsrett.
 
@@ -39,11 +43,11 @@ Forskriften gjelder ikke for lærlinger og personer på arbeidsmarkedstiltak.
 ## § 3. Krav til lønn
 
 1. *Fagarbeidere:*
-nyutlærte kr 223,50 per time
-etter 1 års praksis kr 237,00 per time
+   nyutlærte kr 223,50 per time
+   etter 1 års praksis kr 237,00 per time
 2. *Hjelpearbeidere*
-etter fylt 18 år kr 208,00 per time
-etter 1 års praksis kr 212,00 per time
+   etter fylt 18 år kr 208,00 per time
+   etter 1 års praksis kr 212,00 per time
 
 ## § 4. Arbeidstøy og vernefottøy
 

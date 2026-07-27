@@ -30,7 +30,19 @@ Forskriften gir regler om utmåling av tvangsmulkt etter [markedsføringsloven �
 
 ## § 2. Momenter ved utmåling av overtredelsesgebyr
 
-Ved utmåling av overtredelsesgebyrets størrelse kan det blant annet tas hensyn tilsanksjonens preventive virkning,arten, grovheten, omfanget og varigheten av overtredelsen, og om noen som handler på vegne av den næringsdrivende har utvist skyld,om den næringsdrivende ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,om overtredelsen er begått for å fremme den næringsdrivendes interesser,eventuelle tiltak som den næringsdrivende har truffet for å begrense eller avhjelpe skaden som forbrukerne har lidt,om den næringsdrivende har hatt eller kunne oppnådd økonomiske eller andre fordeler som følge av overtredelsen,den næringsdrivendes eventuelle tidligere overtredelser og om det foreligger gjentakelse,den næringsdrivendes økonomiske evne,om det ilegges eller er ilagt andre reaksjoner som følge av lovbruddet, herunder om den næringsdrivende er ilagt sanksjoner for samme overtredelse i andre medlemsstater i grenseoverskridende saker,om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff,eventuelle andre skjerpende eller formildende omstendigheter i saken.
+Ved utmåling av overtredelsesgebyrets størrelse kan det blant annet tas hensyn til
+
+1. sanksjonens preventive virkning,
+2. arten, grovheten, omfanget og varigheten av overtredelsen, og om noen som handler på vegne av den næringsdrivende har utvist skyld,
+3. om den næringsdrivende ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,
+4. om overtredelsen er begått for å fremme den næringsdrivendes interesser,
+5. eventuelle tiltak som den næringsdrivende har truffet for å begrense eller avhjelpe skaden som forbrukerne har lidt,
+6. om den næringsdrivende har hatt eller kunne oppnådd økonomiske eller andre fordeler som følge av overtredelsen,
+7. den næringsdrivendes eventuelle tidligere overtredelser og om det foreligger gjentakelse,
+8. den næringsdrivendes økonomiske evne,
+9. om det ilegges eller er ilagt andre reaksjoner som følge av lovbruddet, herunder om den næringsdrivende er ilagt sanksjoner for samme overtredelse i andre medlemsstater i grenseoverskridende saker,
+10. om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff,
+11. eventuelle andre skjerpende eller formildende omstendigheter i saken.
 
 ## § 3. Overtredelsesgebyrets maksimale størrelse
 
@@ -40,7 +52,13 @@ I samsvar med vilkårene i [markedsføringsloven § 42](lov/2009-01-09-2/§42), 
 
 ## § 4. Momenter ved utmåling av tvangsmulkt
 
-Ved utmåling av tvangsmulkt skal det særlig legges vekt påhvilken type pålegg som ikke er etterkommet,hvor alvorlig unnlatelsen av å etterkomme pålegget er i forhold til de hensyn som pålegget skal ivareta,hvor byrdefullt det vil være for den næringsdrivende å etterkomme pålegget,den næringsdrivendes økonomiske evne,eventuelle fordeler ved ikke å etterkomme pålegget.
+Ved utmåling av tvangsmulkt skal det særlig legges vekt på
+
+1. hvilken type pålegg som ikke er etterkommet,
+2. hvor alvorlig unnlatelsen av å etterkomme pålegget er i forhold til de hensyn som pålegget skal ivareta,
+3. hvor byrdefullt det vil være for den næringsdrivende å etterkomme pålegget,
+4. den næringsdrivendes økonomiske evne,
+5. eventuelle fordeler ved ikke å etterkomme pålegget.
 
 ## § 5. Ikrafttredelse
 

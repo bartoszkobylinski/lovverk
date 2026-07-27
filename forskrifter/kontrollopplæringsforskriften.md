@@ -30,7 +30,13 @@ Forskriften gjelder for opplæringsvirksomheter som skal tilby grunnopplæring o
 
 ### § 2. Definisjoner
 
-I denne forskriften legges følgende definisjoner til grunn:*Opplæringsvirksomhet:* Virksomhet som har fått godkjenning av Statens vegvesen i henhold til [§ 5](forskrift/2018-05-22-741/§5) i denne forskriften.*Opplæringsansvarlig:* person med det faglige, administrative og pedagogiske ansvaret ved en opplæringsvirksomhet og som oppfyller kravene i [§ 10](forskrift/2018-05-22-741/§10) i denne forskriften.*Undervisningstime:* 45 minutter undervisning.*Opplæringsplan:* Plan som viser hvordan den enkelte opplæringsvirksomhet oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal gi opplysninger om virksomhetens opplæringspersonell, undervisningsmateriell, utstyr samt redegjøre for undervisningsmetoder, arbeidsmåter og gjennomføringen av de ulike modulene.*Kontrollør:* person som er godkjent for å gjennomføre periodisk kontroll av kjøretøy etter [forskrift 13. mai 2009 nr. 591](forskrift/2009-05-13-591) om periodisk kontroll av kjøretøy [§ 12](forskrift/2009-05-13-591/§12) og som har fått kontrollørbevis etter samme forskrift [§ 12b](forskrift/2009-05-13-591/§12b).
+I denne forskriften legges følgende definisjoner til grunn:
+
+1. *Opplæringsvirksomhet:* Virksomhet som har fått godkjenning av Statens vegvesen i henhold til [§ 5](forskrift/2018-05-22-741/§5) i denne forskriften.
+2. *Opplæringsansvarlig:* person med det faglige, administrative og pedagogiske ansvaret ved en opplæringsvirksomhet og som oppfyller kravene i [§ 10](forskrift/2018-05-22-741/§10) i denne forskriften.
+3. *Undervisningstime:* 45 minutter undervisning.
+4. *Opplæringsplan:* Plan som viser hvordan den enkelte opplæringsvirksomhet oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal gi opplysninger om virksomhetens opplæringspersonell, undervisningsmateriell, utstyr samt redegjøre for undervisningsmetoder, arbeidsmåter og gjennomføringen av de ulike modulene.
+5. *Kontrollør:* person som er godkjent for å gjennomføre periodisk kontroll av kjøretøy etter [forskrift 13. mai 2009 nr. 591](forskrift/2009-05-13-591) om periodisk kontroll av kjøretøy [§ 12](forskrift/2009-05-13-591/§12) og som har fått kontrollørbevis etter samme forskrift [§ 12b](forskrift/2009-05-13-591/§12b).
 
 > Endret ved forskrift [7 des 2022 nr. 2190](forskrift/2022-12-07-2190).
 
@@ -66,9 +72,18 @@ Statens vegvesen fastsetter læreplan. Læreplanen er veiledende og anses ikke s
 
 Grunnopplæring og oppfriskningsopplæring i periodisk kontroll av kjøretøy etter denne forskriften kan bare gis av opplæringsvirksomhet godkjent av Statens vegvesen.
 
-Godkjenningen kan gis for følgende kategorier:*Kategori A Lette:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av kjøretøy med tillatt totalvekt 3500 kg eller mindre. Denne kategorien gjelder også for periodisk kontroll av kjøretøy med tillatt totalvekt fra 3501 kg til 7500 kg utstyrt med hydraulisk bremseanlegg.*Kategori B Tunge:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av kjøretøy med tillatt totalvekt over 3500 kg.*Kategori C Traktor:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av traktor.
+Godkjenningen kan gis for følgende kategorier:
 
-Det må fremlegges dokumentasjon som viser at søkeren oppfyller faglige, pedagogiske og administrative forutsetninger for å kunne tilby opplæring i samsvar med forskriften. Godkjenning gis etter skriftlig og dokumentert søknad til Statens vegvesen på fastsatt skjema. Søknaden skal inneholdeopplysninger om hvilken kategori opplæringsvirksomheten søker godkjenning forvirksomhetens forretningsnavn og organisasjonsnummer, opplysninger om geografisk forretningssted, fast undervisningslokale, undervisningsmateriell og utstyr som skal brukes i teoretisk og praktisk opplæringopplæringsplan definert i [§ 2](forskrift/2018-05-22-741/§2) som viser hvordan virksomheten oppfyller forskriftenes krav med de ressurser den har til rådighetopplysninger om opplæringsansvarlig og opplæringspersonellets kvalifikasjoner og faglige bakgrunn.
+1. *Kategori A Lette:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av kjøretøy med tillatt totalvekt 3500 kg eller mindre. Denne kategorien gjelder også for periodisk kontroll av kjøretøy med tillatt totalvekt fra 3501 kg til 7500 kg utstyrt med hydraulisk bremseanlegg.
+2. *Kategori B Tunge:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av kjøretøy med tillatt totalvekt over 3500 kg.
+3. *Kategori C Traktor:* Grunnopplæring og oppfriskningsopplæring for periodisk kontroll av traktor.
+
+Det må fremlegges dokumentasjon som viser at søkeren oppfyller faglige, pedagogiske og administrative forutsetninger for å kunne tilby opplæring i samsvar med forskriften. Godkjenning gis etter skriftlig og dokumentert søknad til Statens vegvesen på fastsatt skjema. Søknaden skal inneholde
+
+1. opplysninger om hvilken kategori opplæringsvirksomheten søker godkjenning for
+2. virksomhetens forretningsnavn og organisasjonsnummer, opplysninger om geografisk forretningssted, fast undervisningslokale, undervisningsmateriell og utstyr som skal brukes i teoretisk og praktisk opplæring
+3. opplæringsplan definert i [§ 2](forskrift/2018-05-22-741/§2) som viser hvordan virksomheten oppfyller forskriftenes krav med de ressurser den har til rådighet
+4. opplysninger om opplæringsansvarlig og opplæringspersonellets kvalifikasjoner og faglige bakgrunn.
 
 Statens vegvesen kan gi nærmere retningslinjer for godkjenning og sette vilkår for godkjenningen.
 
@@ -86,7 +101,14 @@ Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens ve
 
 ### § 7. Administrative krav til opplæringsvirksomheten
 
-Opplæringsvirksomheten skalha tilgang på relevant utstyr og undervisningslokale som er nødvendig for å gjennomføre den undervisning opplæringsvirksomheten er godkjent forha opplæringsansvarlig og opplæringspersonell som tilfredsstiller kravene i [§ 10](forskrift/2018-05-22-741/§10)før undervisningen starter informere eleven skriftlig om forhold av betydning for opplæringen, herunder opplæringsvirksomhetens tilholdssted, rutiner for bestilling og avbestilling av undervisningstimer samt varighet, frammøteplikt, innhold og pris for opplæringenpå forhånd melde til Statens vegvesen sted og tidspunkt for gjennomføring av grunnopplæring eller oppfriskningsopplæringelektronisk melde til Statens vegvesens register opplysninger om tidspunkt og gjennomføring av den enkelte elev sin grunnopplæring og oppfriskningsopplæring snarest mulig og senest 7 dager etter at eleven har gjennomført opplæringskriftlig melde til Statens vegvesen om endring i forhold som har betydning for godkjenningen, herunder flytting, opphør av opplæringsvirksomheten og bytte av opplæringsansvarlig. Statens vegvesen avgjør hvorvidt endringene medfører krav om ny godkjenning.
+Opplæringsvirksomheten skal
+
+1. ha tilgang på relevant utstyr og undervisningslokale som er nødvendig for å gjennomføre den undervisning opplæringsvirksomheten er godkjent for
+2. ha opplæringsansvarlig og opplæringspersonell som tilfredsstiller kravene i [§ 10](forskrift/2018-05-22-741/§10)
+3. før undervisningen starter informere eleven skriftlig om forhold av betydning for opplæringen, herunder opplæringsvirksomhetens tilholdssted, rutiner for bestilling og avbestilling av undervisningstimer samt varighet, frammøteplikt, innhold og pris for opplæringen
+4. på forhånd melde til Statens vegvesen sted og tidspunkt for gjennomføring av grunnopplæring eller oppfriskningsopplæring
+5. elektronisk melde til Statens vegvesens register opplysninger om tidspunkt og gjennomføring av den enkelte elev sin grunnopplæring og oppfriskningsopplæring snarest mulig og senest 7 dager etter at eleven har gjennomført opplæring
+6. skriftlig melde til Statens vegvesen om endring i forhold som har betydning for godkjenningen, herunder flytting, opphør av opplæringsvirksomheten og bytte av opplæringsansvarlig. Statens vegvesen avgjør hvorvidt endringene medfører krav om ny godkjenning.
 
 Statens vegvesen fastsetter nærmere krav til innmelding av data til sitt elektroniske register.
 
@@ -94,7 +116,14 @@ Statens vegvesen fastsetter nærmere krav til innmelding av data til sitt elektr
 
 ### § 8. Faglige og pedagogiske krav til opplæringsvirksomheten
 
-Opplæringsvirksomheten skaldrive opplæring i samsvar med gjeldende regelverk og læringsmål i [kapittel 4](forskrift/2018-05-22-741/kap4) og [5](forskrift/2018-05-22-741/kap5) samt i henhold til eventuelle vilkår tilknyttet godkjenningengi tilleggsopplæring til elever ved manglende måloppnåelse, jf. [§ 4](forskrift/2018-05-22-741/§4) annet leddgi opplæring av forsvarlig pedagogisk karaktertil enhver tid ha oppdaterte opplæringsplanergi undervisning i samsvar med opplæringsplanenebenytte opplæringsansvarlig og opplæringspersonell som tilfredsstiller kravene etter forskriften.
+Opplæringsvirksomheten skal
+
+1. drive opplæring i samsvar med gjeldende regelverk og læringsmål i [kapittel 4](forskrift/2018-05-22-741/kap4) og [5](forskrift/2018-05-22-741/kap5) samt i henhold til eventuelle vilkår tilknyttet godkjenningen
+2. gi tilleggsopplæring til elever ved manglende måloppnåelse, jf. [§ 4](forskrift/2018-05-22-741/§4) annet ledd
+3. gi opplæring av forsvarlig pedagogisk karakter
+4. til enhver tid ha oppdaterte opplæringsplaner
+5. gi undervisning i samsvar med opplæringsplanene
+6. benytte opplæringsansvarlig og opplæringspersonell som tilfredsstiller kravene etter forskriften.
 
 ### § 9. Elevfortegnelse
 
@@ -110,7 +139,14 @@ Opplæringsansvarlig ved opplæringsvirksomheten må ha kompetanse innen periodi
 
 Opplæringsansvarlig har faglig, pedagogisk og administrativt ansvar for at opplæringsvirksomheten drives i samsvar med gjeldende regelverk og virksomhetens godkjenning.
 
-Opplæringsansvarlig plikter å sikre at undervisningen holder faglig og pedagogisk standard ved blant annet åvære opplæringsvirksomhetens kontaktperson mot Statens vegvesensamordne virksomheten ved opplæringsvirksomhetenvære ansvarlig for utarbeidelse av opplæringsplaner samt gjennomføring og oppdatering av undervisningenevaluere undervisningen og sørge for at opplæringspersonellet gjennomgår nødvendig faglig oppdatering,påse at bare kvalifisert personell gir undervisning og veilede disseivareta opplæringsvirksomhetens ansvar for elektronisk innmelding av elevenes opplæring.
+Opplæringsansvarlig plikter å sikre at undervisningen holder faglig og pedagogisk standard ved blant annet å
+
+1. være opplæringsvirksomhetens kontaktperson mot Statens vegvesen
+2. samordne virksomheten ved opplæringsvirksomheten
+3. være ansvarlig for utarbeidelse av opplæringsplaner samt gjennomføring og oppdatering av undervisningen
+4. evaluere undervisningen og sørge for at opplæringspersonellet gjennomgår nødvendig faglig oppdatering,
+5. påse at bare kvalifisert personell gir undervisning og veilede disse
+6. ivareta opplæringsvirksomhetens ansvar for elektronisk innmelding av elevenes opplæring.
 
 Opplæringspersonell som skal undervise i grunnopplæringen og oppfriskningsopplæringen må ha kompetanse tilpasset den modul i den kategori de skal undervise i.
 
@@ -122,7 +158,11 @@ Vegdirektoratet kan kreve at opplæringsansvarlig og opplæringspersonell gjenno
 
 ### § 11. Modulbaserte opplæringsløp for grunnopplæringen
 
-Grunnopplæringen legger opp til modulbaserte opplæringsløp bestående avmodul 1, 2, 3A, 4A, 5, 6A, 7 og 8 for opplæring i kategori A Lette, jf. [§ 5](forskrift/2018-05-22-741/§5) annet leddmodul 1, 2, 3B, 4B, 5, 6B, 7 og 8 for opplæring i kategori B Tunge, jf. [§ 5](forskrift/2018-05-22-741/§5) annet leddmodul 1, 2, 3C, 4C, 5, 6C, 7 og 8 for opplæring i kategori C Traktor, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd.
+Grunnopplæringen legger opp til modulbaserte opplæringsløp bestående av
+
+1. modul 1, 2, 3A, 4A, 5, 6A, 7 og 8 for opplæring i kategori A Lette, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd
+2. modul 1, 2, 3B, 4B, 5, 6B, 7 og 8 for opplæring i kategori B Tunge, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd
+3. modul 1, 2, 3C, 4C, 5, 6C, 7 og 8 for opplæring i kategori C Traktor, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd.
 
 Grunnopplæringen i kategori A Lette, B Tunge og C Traktor er tre selvstendige opplæringsløp.
 
@@ -140,7 +180,12 @@ Grunnopplæringen består av 60 timer i kategori A Lette, 68 timer i kategori B 
 
 Etter gjennomført grunnopplæring i periodisk kontroll av kjøretøy skal eleven ha nødvendig kunnskap, ferdigheter og holdninger til å utføre periodisk kontroll av kjøretøy som regulert i [forskrift 13. mai 2009 nr. 591 om periodisk kontroll av kjøretøy](forskrift/2009-05-13-591).
 
-Eleven skalha kunnskap om nødvendig regelverk og retningslinjerkunne utføre periodisk kontroll av kjøretøy riktig og med rett resultatvise profesjonalitet i sin utførelsen av kontrolloppdragetkunne veilede kjøretøyeier om resultatet på en riktig måte.
+Eleven skal
+
+1. ha kunnskap om nødvendig regelverk og retningslinjer
+2. kunne utføre periodisk kontroll av kjøretøy riktig og med rett resultat
+3. vise profesjonalitet i sin utførelsen av kontrolloppdraget
+4. kunne veilede kjøretøyeier om resultatet på en riktig måte.
 
 > Endret ved forskrift [13 des 2022 nr. 2229](forskrift/2022-12-13-2229) (i kraft 1 jan 2023).
 
@@ -148,7 +193,11 @@ Eleven skalha kunnskap om nødvendig regelverk og retningslinjerkunne utføre pe
 
 Etter gjennomført modul 1 skal eleven forstå bakgrunnen for, hensikten med og de overordnede målene for ordningen med periodisk kontroll av kjøretøy.
 
-Eleven skalkjenne til historisk bakgrunn for kontrollordningen nasjonalt og reguleringene innen EUkjenne til hensikten med kontrollordningenkjenne til målene for periodisk kontroll av kjøretøy.
+Eleven skal
+
+1. kjenne til historisk bakgrunn for kontrollordningen nasjonalt og reguleringene innen EU
+2. kjenne til hensikten med kontrollordningen
+3. kjenne til målene for periodisk kontroll av kjøretøy.
 
 Modul 1 består av 2 timer grunnopplæring.
 
@@ -156,7 +205,12 @@ Modul 1 består av 2 timer grunnopplæring.
 
 Etter gjennomført modul 2 skal eleven ha oversikt over den offentligrettslige reguleringen av periodisk kontroll av kjøretøy i Norge.
 
-Eleven skalkjenne til organiseringen av Statens vegvesen samt kontrollorganenes forhold til Statens vegvesen ved periodisk kontroll av kjøretøykjenne til aktuelle hjemler i vegtrafikkloven, forskrift om periodisk kontroll av kjøretøy og forskrift om opplæring i periodisk kontroll av kjøretøykjenne til og drøfte reguleringer rundt personvern og innsynha kunnskap om og diskutere etikkbegrepet og kunne sette dette i sammenheng med periodisk kontroll av kjøretøy.
+Eleven skal
+
+1. kjenne til organiseringen av Statens vegvesen samt kontrollorganenes forhold til Statens vegvesen ved periodisk kontroll av kjøretøy
+2. kjenne til aktuelle hjemler i vegtrafikkloven, forskrift om periodisk kontroll av kjøretøy og forskrift om opplæring i periodisk kontroll av kjøretøy
+3. kjenne til og drøfte reguleringer rundt personvern og innsyn
+4. ha kunnskap om og diskutere etikkbegrepet og kunne sette dette i sammenheng med periodisk kontroll av kjøretøy.
 
 Modul 2 består av 2 timer grunnopplæring.
 
@@ -164,7 +218,15 @@ Modul 2 består av 2 timer grunnopplæring.
 
 Etter gjennomført modul 3A skal eleven ha god kunnskap om de ulike kjøretøyteknologiske emnene for lette kjøretøy.
 
-Eleven skalha god kunnskap om kjøretøyets bremsesystemha god kunnskap om styringens oppbygging og funksjon på lette kjøretøyha god kunnskap om de ulike faktorene som har betydning for sikten i lette kjøretøyha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på lette kjøretøyha god kunnskap om hjuloppheng, hjul og dekk på lette kjøretøyha god kunnskap om karosseri og ramme på lette kjøretøyha god kunnskap om avgassutslipp og støy fra lette kjøretøy samt deres miljøulemper.
+Eleven skal
+
+1. ha god kunnskap om kjøretøyets bremsesystem
+2. ha god kunnskap om styringens oppbygging og funksjon på lette kjøretøy
+3. ha god kunnskap om de ulike faktorene som har betydning for sikten i lette kjøretøy
+4. ha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på lette kjøretøy
+5. ha god kunnskap om hjuloppheng, hjul og dekk på lette kjøretøy
+6. ha god kunnskap om karosseri og ramme på lette kjøretøy
+7. ha god kunnskap om avgassutslipp og støy fra lette kjøretøy samt deres miljøulemper.
 
 Modul 3A består av 4 timer grunnopplæring.
 
@@ -172,7 +234,16 @@ Modul 3A består av 4 timer grunnopplæring.
 
 Etter gjennomført modul 3B skal eleven ha god kunnskap om de ulike kjøretøyteknologiske emnene for tunge kjøretøy.
 
-Eleven skalha god kunnskap om tunge kjøretøys bremsesystem, med særlig vekt på trykkluftmekaniske- og elektroniske bremsesystemha god kunnskap om hjuloppheng og styringens oppbygging og funksjon på tunge kjøretøy, både bil og tilhenger til bilha god kunnskap om de ulike faktorene som har betydning for sikten i et tungt kjøretøyha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på tunge kjøretøyha god kunnskap om hjuloppheng, hjul og dekk på tunge kjøretøyha god kunnskap om ramme, drag og bærende konstruksjoner på tunge kjøretøykjenne til ulike typer påbygg på tunge kjøretøyha god kunnskap om avgassutslipp og støy fra tunge kjøretøy samt deres miljøulemper.
+Eleven skal
+
+1. ha god kunnskap om tunge kjøretøys bremsesystem, med særlig vekt på trykkluftmekaniske- og elektroniske bremsesystem
+2. ha god kunnskap om hjuloppheng og styringens oppbygging og funksjon på tunge kjøretøy, både bil og tilhenger til bil
+3. ha god kunnskap om de ulike faktorene som har betydning for sikten i et tungt kjøretøy
+4. ha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på tunge kjøretøy
+5. ha god kunnskap om hjuloppheng, hjul og dekk på tunge kjøretøy
+6. ha god kunnskap om ramme, drag og bærende konstruksjoner på tunge kjøretøy
+7. kjenne til ulike typer påbygg på tunge kjøretøy
+8. ha god kunnskap om avgassutslipp og støy fra tunge kjøretøy samt deres miljøulemper.
 
 Modul 3B består av 5 timer grunnopplæring.
 
@@ -180,7 +251,15 @@ Modul 3B består av 5 timer grunnopplæring.
 
 Etter gjennomført modul 3C skal eleven ha god kunnskap om de ulike kjøretøyteknologiske emnene for traktor.
 
-Eleven skalha god kunnskap om traktorens bremsesystemha god kunnskap om styringens oppbygging og funksjon på traktorha god kunnskap om de ulike faktorene som har betydning for sikten i en traktorha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på traktorenha god kunnskap om hjuloppheng, hjul og dekk på traktorha god kunnskap om traktorens bærende konstruksjoner, trekkdel og andre koplingspunkterha god kunnskap om avgassutslipp og støy fra traktorer samt deres miljøulemper.
+Eleven skal
+
+1. ha god kunnskap om traktorens bremsesystem
+2. ha god kunnskap om styringens oppbygging og funksjon på traktor
+3. ha god kunnskap om de ulike faktorene som har betydning for sikten i en traktor
+4. ha god kunnskap om ulike lykter, lys, lysutstyr samt andre elektroniske komponenter på traktoren
+5. ha god kunnskap om hjuloppheng, hjul og dekk på traktor
+6. ha god kunnskap om traktorens bærende konstruksjoner, trekkdel og andre koplingspunkter
+7. ha god kunnskap om avgassutslipp og støy fra traktorer samt deres miljøulemper.
 
 Modul 3C består av 4 timer grunnopplæring.
 
@@ -188,7 +267,10 @@ Modul 3C består av 4 timer grunnopplæring.
 
 Etter gjennomført modul 4A skal eleven ha kunnskap om og kunne finne frem i nødvendige tekniske forskrifter av betydning for utførelse av periodisk kontroll av lette kjøretøy.
 
-Eleven skalha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av bil og tilhenger til bilha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøy.
+Eleven skal
+
+1. ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av bil og tilhenger til bil
+2. ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøy.
 
 Modul 4A består av 10 timer grunnopplæring.
 
@@ -196,7 +278,11 @@ Modul 4A består av 10 timer grunnopplæring.
 
 Etter gjennomført modul 4B skal eleven ha kunnskap om og kunne finne frem i nødvendige tekniske forskrifter av betydning for utførelse av periodisk kontroll av tunge kjøretøy.
 
-Eleven skalha kunnskap om og finne frem til aktuelle bestemmelser for tunge kjøretøy i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av bil og tilhenger til bilha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøyha kunnskap om ulike spesialkjøretøy og til deres oppbygning og ulike funksjoner.
+Eleven skal
+
+1. ha kunnskap om og finne frem til aktuelle bestemmelser for tunge kjøretøy i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av bil og tilhenger til bil
+2. ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøy
+3. ha kunnskap om ulike spesialkjøretøy og til deres oppbygning og ulike funksjoner.
 
 Modul 4B består av 12 timer grunnopplæring.
 
@@ -204,7 +290,10 @@ Modul 4B består av 12 timer grunnopplæring.
 
 Etter gjennomført modul 4C skal eleven ha kunnskap om og kunne finne frem i nødvendige tekniske forskrifter av betydning for utførelse av periodisk kontroll av traktor.
 
-Eleven skalha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av traktor og tilhenger til traktor.ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøy.
+Eleven skal
+
+1. ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om krav til kjøretøy, kjøretøyforskriften og forskrift om godkjenning av traktor og tilhenger til traktor.
+2. ha kunnskap om og finne frem til aktuelle bestemmelser i forskrift om bruk av kjøretøy.
 
 Modul 4C består av 10 timer grunnopplæring.
 
@@ -212,7 +301,10 @@ Modul 4C består av 10 timer grunnopplæring.
 
 Etter gjennomført modul 5 skal eleven ha god kunnskap om og kunne bruke forskrift om periodisk kontroll av kjøretøy.
 
-Eleven skalkjenne til gjeldende kontrolldirektiv med vekt på direktivets fortale og de punktene som angår selve kontrollenha god kunnskap om og finne frem i forskrift om periodisk kontroll av kjøretøy og kunne løse aktuelle problemstillinger med utgangspunkt i forskriften.
+Eleven skal
+
+1. kjenne til gjeldende kontrolldirektiv med vekt på direktivets fortale og de punktene som angår selve kontrollen
+2. ha god kunnskap om og finne frem i forskrift om periodisk kontroll av kjøretøy og kunne løse aktuelle problemstillinger med utgangspunkt i forskriften.
 
 Modul 5 består av 5 timer grunnopplæring.
 
@@ -220,7 +312,11 @@ Modul 5 består av 5 timer grunnopplæring.
 
 Etter gjennomført modul 6A skal eleven ha god kunnskap om og kunne gjennomføre riktige periodiske kontroller av lette kjøretøy med rett resultat i henhold til kontrollinstruksen.
 
-Eleven skalha god kunnskap om og forståelse av gjeldende kontrollinstruksfinne riktig kontrollpunkt og kontrollmetode samt foreta riktig bedømminggjennomføre riktige periodiske kontroller av lette kjøretøy med rett resultat i henhold til kontrollinstruksen.
+Eleven skal
+
+1. ha god kunnskap om og forståelse av gjeldende kontrollinstruks
+2. finne riktig kontrollpunkt og kontrollmetode samt foreta riktig bedømming
+3. gjennomføre riktige periodiske kontroller av lette kjøretøy med rett resultat i henhold til kontrollinstruksen.
 
 Modul 6A består av 30 timer grunnopplæring.
 
@@ -230,7 +326,11 @@ Den enkelte opplæringsvirksomhet må selv vurdere i hvor stor grad de vil kombi
 
 Etter gjennomført modul 6B skal eleven ha god kunnskap om og kunne gjennomføre riktige periodiske kontroller av tunge kjøretøy med rett resultat i henhold til kontrollinstruksen.
 
-Eleven skalha god kunnskap om og forståelse av gjeldende kontrollinstruksfinne riktig kontrollpunkt og kontrollmetode samt foreta riktig bedømminggjennomføre riktige periodiske kontroller av tunge kjøretøy med rett resultat i henhold til kontrollinstruksen.
+Eleven skal
+
+1. ha god kunnskap om og forståelse av gjeldende kontrollinstruks
+2. finne riktig kontrollpunkt og kontrollmetode samt foreta riktig bedømming
+3. gjennomføre riktige periodiske kontroller av tunge kjøretøy med rett resultat i henhold til kontrollinstruksen.
 
 Modul 6B består av 35 timer grunnopplæring.
 
@@ -240,7 +340,11 @@ Den enkelte opplæringsvirksomhet må selv vurdere i hvor stor grad de vil kombi
 
 Etter gjennomført modul 6C skal eleven ha god kunnskap om og kunne gjennomføre riktige periodiske kontroller av traktor med rett resultat i henhold til kontrollinstruksen.
 
-Eleven skalha god kunnskap om og forståelse av gjeldende kontrollinstruksfinne riktig kontrollpunkt og kontrollmetode og foreta riktig bedømminggjennomføre riktige periodiske kontroller av traktor med rett resultat i henhold til kontrollinstruksen.
+Eleven skal
+
+1. ha god kunnskap om og forståelse av gjeldende kontrollinstruks
+2. finne riktig kontrollpunkt og kontrollmetode og foreta riktig bedømming
+3. gjennomføre riktige periodiske kontroller av traktor med rett resultat i henhold til kontrollinstruksen.
 
 Modul 6C består av 30 timer grunnopplæring.
 
@@ -250,7 +354,11 @@ Den enkelte opplæringsvirksomhet må selv vurdere i hvor stor grad de vil kombi
 
 Etter gjennomført modul 7 skal eleven kjenne til og vite hvor man finner bruksanvisninger, retningslinjer og regelverk for riktig bruk, vedlikehold og kalibrering av kontrollutstyr og kunne bruke dette riktig.
 
-Eleven skalfinne frem til hvordan det enkelte utstyret skal brukes riktig og bruke dette i sin rette sammenhengvite hvordan man vedlikeholder kontrollutstyret i henhold til krav fra fabrikant, samt kunne utføre slikt vedlikehold som bruker selv kan utførekjenne til krav, rutiner og ansvar for kalibrering av kontrollutstyr.
+Eleven skal
+
+1. finne frem til hvordan det enkelte utstyret skal brukes riktig og bruke dette i sin rette sammenheng
+2. vite hvordan man vedlikeholder kontrollutstyret i henhold til krav fra fabrikant, samt kunne utføre slikt vedlikehold som bruker selv kan utføre
+3. kjenne til krav, rutiner og ansvar for kalibrering av kontrollutstyr.
 
 Modul 7 består av 4 timer grunnopplæring.
 
@@ -268,7 +376,11 @@ For å opprettholde kompetansen som kontrollør må den enkelte gjennomføre opp
 
 Oppfriskningsopplæringen skal oppdatere, utdype og repetere kunnskap som er vesentlig for kontrollørens arbeid, med særlig vekt på kontrollinstruksen og endringer i teknologi og aktuelt regelverk.
 
-Oppfriskningsopplæringen legger opp til modulbaserte opplæringsløp bestående avmodul A og B for opplæring i kategori A Lette, jf. [§ 5](forskrift/2018-05-22-741/§5) annet leddmodul AT og BT for opplæring i kategori B Tunge, jf. [§ 5](forskrift/2018-05-22-741/§5) annet leddmodul A Traktor og B Traktor for opplæring i kategori C Traktor, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd.
+Oppfriskningsopplæringen legger opp til modulbaserte opplæringsløp bestående av
+
+1. modul A og B for opplæring i kategori A Lette, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd
+2. modul AT og BT for opplæring i kategori B Tunge, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd
+3. modul A Traktor og B Traktor for opplæring i kategori C Traktor, jf. [§ 5](forskrift/2018-05-22-741/§5) annet ledd.
 
 Oppfriskningsopplæringen består av 14 timer i kategori A Lette, 14 timer i kategori B Tunge og 14 timer i kategori C Traktor ved ordinær undervisning.
 
@@ -306,7 +418,11 @@ Statens vegvesen skal føre tilsyn med virksomheter som utfører godkjenningspli
 
 Opplæringsvirksomhetene plikter å gi Statens vegvesen adgang til virksomhetens lokaler, og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder fremvise og utlevere til kontroll dokumenter som angår opplæringen og virksomheten forøvrig. Statens vegvesen kan når som helst overvære undervisningen.
 
-Statens vegvesen kan som en del av tilsynet undersøke om opplæringsvirksomheten oppfylleradministrative, faglige og pedagogiske krav som følger av forskriften eller vedtak gitt med hjemmel i forskriftenkrav til opplæringens omfang, innhold og metode som følger av forskriften eller vedtak gitt med hjemmel i forskriftenkrav til evaluering av elevens måloppnåelse.
+Statens vegvesen kan som en del av tilsynet undersøke om opplæringsvirksomheten oppfyller
+
+1. administrative, faglige og pedagogiske krav som følger av forskriften eller vedtak gitt med hjemmel i forskriften
+2. krav til opplæringens omfang, innhold og metode som følger av forskriften eller vedtak gitt med hjemmel i forskriften
+3. krav til evaluering av elevens måloppnåelse.
 
 > Endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 

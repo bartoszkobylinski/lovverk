@@ -17,7 +17,7 @@ xml_hash: "0d238f30cec515a26a42d4e9bc5389a312a5d7993cef4b064a51865d3f4a9847"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,10 @@ Med særskilte ytelser menes behandling av søknader om godkjenning, tillatelse,
 
 [Vedlegg 2](forskrift/2026-04-27-745/vedlegg2) til denne forskriften fastsetter hvilket gebyr den som søker om godkjenning av aktive stoffer og preparater etter [plantevernmiddelforskriften](forskrift/2015-05-06-455), skal betale.
 
-Søker skal betale redusert gebyr som angitt i [vedlegg 2](forskrift/2026-04-27-745/vedlegg2) del B, nårvurderingen gjøres kun på ett eller to fagområder, ellervurderingen av et preparat er dekket av tidligere vurdering av et annet eller samme preparat.
+Søker skal betale redusert gebyr som angitt i [vedlegg 2](forskrift/2026-04-27-745/vedlegg2) del B, når
+
+1. vurderingen gjøres kun på ett eller to fagområder, eller
+2. vurderingen av et preparat er dekket av tidligere vurdering av et annet eller samme preparat.
 
 Gebyr skal også betales når en ytelse i [vedlegg 1](forskrift/2026-04-27-745/vedlegg1) eller [2](forskrift/2026-04-27-745/vedlegg2) avslås eller når saksbehandlingen avbrytes på grunn av forhold hos gebyrpliktige.
 
@@ -76,17 +79,30 @@ Virksomheter som er unntatt fra plikten til å inneha et økologisertifikat, jf.
 
 ### § 3-2. Gebyr for virksomheter som driver med økologisk akvakulturproduksjon
 
-Virksomheter som driver med primærproduksjon av økologiske akvakulturprodukter betaler et grunngebyr på kr 3 850 per år. I tillegg betaler de følgende gebyrer:kr 1 270 per time for gjennomføring av inspeksjonkr 1 270 per time for saksbehandlinganalysegebyr til selvkost for analyser av produkter eller i produksjonengebyr tilsvarende statens satser for utgifter til reise, diett og overnatting i forbindelse med inspeksjon.
+Virksomheter som driver med primærproduksjon av økologiske akvakulturprodukter betaler et grunngebyr på kr 3 850 per år. I tillegg betaler de følgende gebyrer:
+
+1. kr 1 270 per time for gjennomføring av inspeksjon
+2. kr 1 270 per time for saksbehandling
+3. analysegebyr til selvkost for analyser av produkter eller i produksjonen
+4. gebyr tilsvarende statens satser for utgifter til reise, diett og overnatting i forbindelse med inspeksjon.
 
 Virksomheter som driver med både primærproduksjon og foredling av akvakulturprodukter, skal kun betale gebyrer etter denne paragrafen.
 
 ### § 3-3. Gebyr for virksomheter som driver med primærproduksjon av økologiske landbruksprodukter
 
-Virksomheter som driver med primærproduksjon av økologiske landbruksprodukter betaler et grunngebyr på kr 2 195 per år. I tillegg betaler de følgende gebyrer:kr 910 per år om virksomheten har husdyr eller driver parallellproduksjonkr 9,40 per dekar karensareal eller økologisk areal per årkr 985 ved utmelding av kontrollordningen etter inspeksjonsbesøket. Gebyr etter a) eller b) betales ikke i slike tilfeller.
+Virksomheter som driver med primærproduksjon av økologiske landbruksprodukter betaler et grunngebyr på kr 2 195 per år. I tillegg betaler de følgende gebyrer:
+
+1. kr 910 per år om virksomheten har husdyr eller driver parallellproduksjon
+2. kr 9,40 per dekar karensareal eller økologisk areal per år
+3. kr 985 ved utmelding av kontrollordningen etter inspeksjonsbesøket. Gebyr etter a) eller b) betales ikke i slike tilfeller.
 
 ### § 3-4. Gebyr for virksomheter som driver økologisk med annet enn primærproduksjon
 
-Virksomheter som driver med produksjon, omsetning, eksport eller import av økologiske næringsmidler, fôr eller andre foredlede eller avledede produkter, betaler følgende grunngebyr per år:kr 8 020 for virksomheter som produserer, herunder pakker, merker eller foredler, eller importerer økologiske produkter fra land utenfor EØS-områdetkr 2 010 for virksomheter som lagrer eller omsetter økologiske produkter og virksomheter som gjør endringer i merkingen dersom dette bare innebærer oversettelse av denne til norskkr 985 for gårdsbruk som driver foredling.
+Virksomheter som driver med produksjon, omsetning, eksport eller import av økologiske næringsmidler, fôr eller andre foredlede eller avledede produkter, betaler følgende grunngebyr per år:
+
+1. kr 8 020 for virksomheter som produserer, herunder pakker, merker eller foredler, eller importerer økologiske produkter fra land utenfor EØS-området
+2. kr 2 010 for virksomheter som lagrer eller omsetter økologiske produkter og virksomheter som gjør endringer i merkingen dersom dette bare innebærer oversettelse av denne til norsk
+3. kr 985 for gårdsbruk som driver foredling.
 
 Virksomheter som kun driver med foredling og ikke primærproduksjon av økologiske akvakulturprodukter, betaler gebyr etter denne paragrafen.
 
@@ -94,7 +110,10 @@ Virksomheter som kun driver med foredling og ikke primærproduksjon av økologis
 
 Ved tilknytning etter 1. september betaler foredlingsvirksomheter, jf. [§ 3-4](forskrift/2026-04-27-745/§3-4), halvt gebyr for årlig deltakelse i kontrollordningen.
 
-Virksomheter som driver primærproduksjon, jf. [§ 3-2](forskrift/2026-04-27-745/§3-2) og [§ 3-3](forskrift/2026-04-27-745/§3-3), og foredlingsvirksomheter, jf. [§ 3-4](forskrift/2026-04-27-745/§3-4), betaler følgende tilleggsgebyr:kr 6 025 for virksomheter som ønsker inspeksjon på kort varsel med ferdigstilling innen 12 ukerkr 5 020 dersom virksomhetene avbestiller en inspeksjon mindre enn en uke før avtalt tidspunkt eller ikke møter opp til avtalt inspeksjon, med mindre det kan dokumenteres gyldige grunner for avbestillingen eller uteblivelsen.
+Virksomheter som driver primærproduksjon, jf. [§ 3-2](forskrift/2026-04-27-745/§3-2) og [§ 3-3](forskrift/2026-04-27-745/§3-3), og foredlingsvirksomheter, jf. [§ 3-4](forskrift/2026-04-27-745/§3-4), betaler følgende tilleggsgebyr:
+
+1. kr 6 025 for virksomheter som ønsker inspeksjon på kort varsel med ferdigstilling innen 12 uker
+2. kr 5 020 dersom virksomhetene avbestiller en inspeksjon mindre enn en uke før avtalt tidspunkt eller ikke møter opp til avtalt inspeksjon, med mindre det kan dokumenteres gyldige grunner for avbestillingen eller uteblivelsen.
 
 ### § 3-6. Fastsettelse av gebyr
 
@@ -138,7 +157,13 @@ Gebyret utgjør kr 190 per dyr.
 
 Slakteri som nevnt i [§ 4-1](forskrift/2026-04-27-745/§4-1) skal innen 20. november hvert år oversende plan for påfølgende års slakteaktivitet (årsplan) til Mattilsynets stedlige kontor. Ved oppstart av nytt slakteri eller gjenopptakelse av slakting ved tidligere nedlagt slakteri, skal årsplan oversendes senest 3 måneder før oppstart av slakting.
 
-Årsplan skal oversendes på skjema fastsatt av Mattilsynet og inneholde opplysninger om:forventet slaktemengde fordelt på dyreart,forventet gjennomføring av slakting på ulike slakteuker,forventet slaktehastighet (antall slakteskrotter per time),antall slaktelinjer det skal slaktes på samtidig ogstart- og sluttidspunkt per dag for hver slaktelinje.
+Årsplan skal oversendes på skjema fastsatt av Mattilsynet og inneholde opplysninger om:
+
+1. forventet slaktemengde fordelt på dyreart,
+2. forventet gjennomføring av slakting på ulike slakteuker,
+3. forventet slaktehastighet (antall slakteskrotter per time),
+4. antall slaktelinjer det skal slaktes på samtidig og
+5. start- og sluttidspunkt per dag for hver slaktelinje.
 
 Når slakteri får kunnskap om vesentlige avvik fra foreliggende plan, skal ny årsplan utarbeides og oversendes Mattilsynet straks. Avviket er vesentlig når det medfører minst 10 % endring i slaktemengde eller slaktehastighet eller når gjennomføring av slaktingen endres systematisk.
 
@@ -162,35 +187,62 @@ Gebyr skal også betales dersom den offentlige kontrollen har resultert i avvisn
 
 ### § 5-2. Gebyr for grensekontroll av animalske næringsmidler og produkter
 
-For import av alle animalske næringsmidler, andre produkter av animalsk opprinnelse og høy og halm skal det betaleskr 3 295 per forsendelse ogkr 110,75 per tonn for fisk og fiskevarer, animalske produkter som ikke er næringsmidler, samt høy og halm, ellerkr 1,12 per kg for andre næringsmidler enn fisk og fiskevarer ellerkr 26,45 per tonn for fiskemel og fullfôr til fisk ellerkr 22,00 per tonn for fiskeolje og olje for sjøpattedyr.
+For import av alle animalske næringsmidler, andre produkter av animalsk opprinnelse og høy og halm skal det betales
+
+1. kr 3 295 per forsendelse og
+2. kr 110,75 per tonn for fisk og fiskevarer, animalske produkter som ikke er næringsmidler, samt høy og halm, eller
+3. kr 1,12 per kg for andre næringsmidler enn fisk og fiskevarer eller
+4. kr 26,45 per tonn for fiskemel og fullfôr til fisk eller
+5. kr 22,00 per tonn for fiskeolje og olje for sjøpattedyr.
 
 For import av forsendelser med en nettovekt under 100 kg, betales i stedet kr 2 200 per forsendelse.
 
 ### § 5-3. Gebyr for grensekontroll av levende dyr
 
-For import av levende dyr skal det betaleskr 3 295 per forsendelse ogkr 110,75 per tonn for storfe, dyr av hestefamilien, svin, sauer, geiter, fjørfe, kaniner, smått fuglevilt, smått marklevende vilt, villsvin eller drøvtyggere.
+For import av levende dyr skal det betales
+
+1. kr 3 295 per forsendelse og
+2. kr 110,75 per tonn for storfe, dyr av hestefamilien, svin, sauer, geiter, fjørfe, kaniner, smått fuglevilt, smått marklevende vilt, villsvin eller drøvtyggere.
 
 For import av forsendelser med en nettovekt under 100 kg, betales i stedet kr 2 200 per forsendelse.
 
 ### § 5-4. Gebyr for kontroll av ikke-animalske næringsmidler og fôrvarer
 
-For import av forsendelser av ikke-animalske næringsmidler og fôrvarer, som etter forskrift skal kontrolleres ved innførsel til EU/EØS, skal det betales:kr 1 850 per forsendelse for dokumentkontroll,kr 1 100 per påbegynte time når det gjennomføres identitetskontroll og fysisk kontroll av forsendelsen, ogutgiftene for analyseprøvene for forsendelsen.
+For import av forsendelser av ikke-animalske næringsmidler og fôrvarer, som etter forskrift skal kontrolleres ved innførsel til EU/EØS, skal det betales:
+
+1. kr 1 850 per forsendelse for dokumentkontroll,
+2. kr 1 100 per påbegynte time når det gjennomføres identitetskontroll og fysisk kontroll av forsendelsen, og
+3. utgiftene for analyseprøvene for forsendelsen.
 
 ### § 5-5. Gebyr for grensekontroll ved transitt, omlasting og gjeninnførsel
 
-Ved transitt av forsendelse skal det, i stedet for gebyr etter reglene i [§ 5-2](forskrift/2026-04-27-745/§5-2) og [§ 5-3](forskrift/2026-04-27-745/§5-3), betaleskr 1 100 per forsendelse ogkr 359 for hvert påbegynte kvarter for hver av Mattilsynets medarbeidere som deltar ved kontroll av forsendelsen.
+Ved transitt av forsendelse skal det, i stedet for gebyr etter reglene i [§ 5-2](forskrift/2026-04-27-745/§5-2) og [§ 5-3](forskrift/2026-04-27-745/§5-3), betales
 
-Ved omlasting av forsendelse skal det betaleskr 288 for hvert påbegynte kvarter, ogdersom Mattilsynet må foreta dokumentkontroll, kr 1 100 ellerdersom Mattilsynet må underkaste forsendelsen endelig veterinærkontroll, gebyr etter reglene i [§ 5-2](forskrift/2026-04-27-745/§5-2) og [§ 5-3](forskrift/2026-04-27-745/§5-3).
+1. kr 1 100 per forsendelse og
+2. kr 359 for hvert påbegynte kvarter for hver av Mattilsynets medarbeidere som deltar ved kontroll av forsendelsen.
+
+Ved omlasting av forsendelse skal det betales
+
+1. kr 288 for hvert påbegynte kvarter, og
+2. dersom Mattilsynet må foreta dokumentkontroll, kr 1 100 eller
+3. dersom Mattilsynet må underkaste forsendelsen endelig veterinærkontroll, gebyr etter reglene i [§ 5-2](forskrift/2026-04-27-745/§5-2) og [§ 5-3](forskrift/2026-04-27-745/§5-3).
 
 Ved gjeninnførsel av produkter og levende dyr som er avvist av tredjeland, skal importøren eller dennes representant betale gebyr etter reglene i [§ 5-2](forskrift/2026-04-27-745/§5-2) og [§ 5-3](forskrift/2026-04-27-745/§5-3).
 
 ### § 5-6. Overtidsgebyr
 
-Må kontrollen gjennomføres utenfor tidsrommet kl. 08.00 og 15.30 og dette ikke skyldes forhold ved Mattilsynet, skal det i tillegg til gebyrene fastsatt i [§ 5-2](forskrift/2026-04-27-745/§5-2) til og med [§ 5-4](forskrift/2026-04-27-745/§5-4) betaleskr 420 for hver påbegynt time på hverdager mellom kl. 06.00 og 08.00 og mellom 15.30 og 21.00 ellerkr 840 for hver påbegynt time på hverdager mellom kl. 21.00 og 06.00, og på lørdager, søndager og offentlige helge- og høytidsdager.
+Må kontrollen gjennomføres utenfor tidsrommet kl. 08.00 og 15.30 og dette ikke skyldes forhold ved Mattilsynet, skal det i tillegg til gebyrene fastsatt i [§ 5-2](forskrift/2026-04-27-745/§5-2) til og med [§ 5-4](forskrift/2026-04-27-745/§5-4) betales
+
+1. kr 420 for hver påbegynt time på hverdager mellom kl. 06.00 og 08.00 og mellom 15.30 og 21.00 eller
+2. kr 840 for hver påbegynt time på hverdager mellom kl. 21.00 og 06.00, og på lørdager, søndager og offentlige helge- og høytidsdager.
 
 ### § 5-7. Ventegebyr
 
-Kan kontrollen ikke gjennomføres på det tidspunktet som er forhåndsmeldt og dette medfører ventetid for Mattilsynets personell, og dette verken skyldes omstendigheter ved Mattilsynet eller force majeure på importørens side, skal det betaleskr 1 100 for hver påbegynt time med forsinkelse på hverdager mellom kl. 08.00 og 15.30 ellerkr 1 470 for hver påbegynt time med forsinkelse på hverdager mellom kl. 06.00 og 08.00 og mellom kl. 15.30 og 21.00 ellerkr 1 885 for hver påbegynt time med forsinkelse på hverdager mellom kl. 21.00 og 06.00, og på lørdager, søndager og offentlige helge- og høytidsdager.
+Kan kontrollen ikke gjennomføres på det tidspunktet som er forhåndsmeldt og dette medfører ventetid for Mattilsynets personell, og dette verken skyldes omstendigheter ved Mattilsynet eller force majeure på importørens side, skal det betales
+
+1. kr 1 100 for hver påbegynt time med forsinkelse på hverdager mellom kl. 08.00 og 15.30 eller
+2. kr 1 470 for hver påbegynt time med forsinkelse på hverdager mellom kl. 06.00 og 08.00 og mellom kl. 15.30 og 21.00 eller
+3. kr 1 885 for hver påbegynt time med forsinkelse på hverdager mellom kl. 21.00 og 06.00, og på lørdager, søndager og offentlige helge- og høytidsdager.
 
 ### § 5-8. Fastsettelse av gebyr
 
@@ -254,7 +306,10 @@ Enhver skal betale gebyr til Mattilsynet for utgifter som følger av oppfølgend
 
 Med oppfølgende kontroll menes tilsyn og kontroll som opprinnelig ikke var planlagt og som har vært nødvendig for å vurdere omfang og konsekvens av at regelverket for mat, fôr, plantevernmidler, dyrehelse og dyrevelferd, ikke er blitt fulgt, eller for å verifisere at tidligere brudd på regelverket er rettet opp, jf. kontrollforordningen [(EU) 2017/625](eu/32017*0625) art. 79 nr. 2 c.
 
-Gebyret skal værekr 2 775 dersom oppfølgende kontroll er gjennomført ved fysisk tilsynkr 1 388 dersom oppfølgende kontroll er gjennomført på annen måte
+Gebyret skal være
+
+1. kr 2 775 dersom oppfølgende kontroll er gjennomført ved fysisk tilsyn
+2. kr 1 388 dersom oppfølgende kontroll er gjennomført på annen måte
 
 ## Kapittel VIII. Administrative bestemmelser
 
@@ -280,7 +335,13 @@ Mattilsynet kan i særskilte tilfeller gi dispensasjon fra bestemmelsene i denne
 
 Denne forskriften trer i kraft 15. mai 2026.
 
-Samtidig oppheves følgende forskrifter:[forskrift 27. desember 2005 nr. 1726 om gebyr til dekning av utgifter ved kjøttkontroll](forskrift/2005-12-27-1726),[forskrift 3. april 2017 nr. 426 om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg](forskrift/2017-04-03-426),[forskrift 3. mars 2010 nr. 307 om betaling av gebyr for veterinær grensekontroll](forskrift/2010-03-03-307),[forskrift 13. februar 2004 nr. 406 om betaling av gebyrer for særskilte ytelser fra Mattilsynet](forskrift/2004-02-13-406) og[forskrift 28. januar 2004 nr. 221 om gebyr i matforvaltningen](forskrift/2004-01-28-221).
+Samtidig oppheves følgende forskrifter:
+
+- [forskrift 27. desember 2005 nr. 1726 om gebyr til dekning av utgifter ved kjøttkontroll](forskrift/2005-12-27-1726),
+- [forskrift 3. april 2017 nr. 426 om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg](forskrift/2017-04-03-426),
+- [forskrift 3. mars 2010 nr. 307 om betaling av gebyr for veterinær grensekontroll](forskrift/2010-03-03-307),
+- [forskrift 13. februar 2004 nr. 406 om betaling av gebyrer for særskilte ytelser fra Mattilsynet](forskrift/2004-02-13-406) og
+- [forskrift 28. januar 2004 nr. 221 om gebyr i matforvaltningen](forskrift/2004-01-28-221).
 
 ### § 8-5. Endringer i andre forskrifter
 

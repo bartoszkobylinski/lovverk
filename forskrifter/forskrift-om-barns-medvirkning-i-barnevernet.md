@@ -52,7 +52,11 @@ For å sette et barn i stand til å gi uttrykk for sine meninger, skal barnevern
 
 Barnevernet skal fortløpende gi barnet informasjon om sakens utvikling, herunder om beslutninger og vedtak som har betydning for barnet, og hvordan barnets meninger er vurdert opp mot øvrige hensyn i saken.
 
-Når barnevernet skal høre barnet før det treffes beslutninger og vedtak i forbindelse med saksbehandlingen, skal barnevernet gi barnet tilstrekkelig og tilpasset informasjon om blant annet:bakgrunnen for og formålet med de aktuelle samtalene,hva medvirkning er, barnets rett til å bli hørt, hvorfor medvirkning er viktig, at medvirkning er frivillig ogbetydningen av at barnet får uttale seg i de aktuelle spørsmålene.
+Når barnevernet skal høre barnet før det treffes beslutninger og vedtak i forbindelse med saksbehandlingen, skal barnevernet gi barnet tilstrekkelig og tilpasset informasjon om blant annet:
+
+1. bakgrunnen for og formålet med de aktuelle samtalene,
+2. hva medvirkning er, barnets rett til å bli hørt, hvorfor medvirkning er viktig, at medvirkning er frivillig og
+3. betydningen av at barnet får uttale seg i de aktuelle spørsmålene.
 
 Barnevernet skal avklare om barnet har forstått informasjonen som barnet har fått.
 
@@ -62,13 +66,23 @@ Dersom det skal benyttes tolk i samtaler med barnet, skal barnevernet påse at b
 
 Barnevernet skal involvere barnet aktivt i egen sak og tilrettelegge for at barnet kan stille spørsmål og uttrykke sine meninger i alle forhold som vedrører barnet.
 
-Høring av barnet før det treffes beslutninger og vedtak i forbindelse med saksbehandlingen, skal gjennomføres på en ivaretakende og barnevennlig måte i tråd med faglige anbefalinger for samtaler med barn. Barnevernet skal blant annet tilrettelegge for:at samtaler foregår med utgangspunkt i barnets perspektiv, med vekt på å bygge tillit mellom barnet og barnevernet,at barnet kan fortelle fritt og med egne ord, uten at andre påvirker barnets mening, ogat barnet skal få oppsummert samtalene i etterkant, få anledning til å stille spørsmål, rette opp eventuelle misforståelser, uttrykke endret oppfatning og legge til informasjon.
+Høring av barnet før det treffes beslutninger og vedtak i forbindelse med saksbehandlingen, skal gjennomføres på en ivaretakende og barnevennlig måte i tråd med faglige anbefalinger for samtaler med barn. Barnevernet skal blant annet tilrettelegge for:
+
+1. at samtaler foregår med utgangspunkt i barnets perspektiv, med vekt på å bygge tillit mellom barnet og barnevernet,
+2. at barnet kan fortelle fritt og med egne ord, uten at andre påvirker barnets mening, og
+3. at barnet skal få oppsummert samtalene i etterkant, få anledning til å stille spørsmål, rette opp eventuelle misforståelser, uttrykke endret oppfatning og legge til informasjon.
 
 Barnevernet skal informere barnet om hva opplysninger fra barnet kan brukes til, og hvem som kan få innsyn i disse opplysningene, jf. [barnevernsloven § 1-4](lov/2021-06-18-97/§1-4/ledd/2) annet ledd. Informasjonen skal fortrinnsvis gis i forkant av at barnet uttaler seg. Barnet kan ikke nekte barnevernet å dele informasjon, men barnevernet skal vurdere om vilkårene for å unnta innsyn etter [barnevernsloven § 12-6](lov/2021-06-18-97/§12-6) er oppfylt. Barnet har rett til å uttale seg før barnevernet beslutter om opplysningene barnet har gitt skal deles, og barnets syn skal tillegges vekt i samsvar med barnets alder og modenhet.
 
 ### § 6. Dokumentasjon av barnets medvirkning
 
-Barnevernet skal dokumentere hvordan barnets medvirkning er ivaretatt i saksbehandlingen og vedtak, jf. [barnevernsloven § 12-4](lov/2021-06-18-97/§12-4) og [§ 12-5](lov/2021-06-18-97/§12-5). Det innebærer at det blant annet skal dokumenteres:hvilken informasjon barnet har fått,hva barnet har blitt hørt om,hva barnet har sagt eller uttrykt på andre måter,om barnet har sagt seg enig i gjengivelsen av barnets mening oghvilken vekt barnets mening er tillagt opp mot øvrige hensyn.
+Barnevernet skal dokumentere hvordan barnets medvirkning er ivaretatt i saksbehandlingen og vedtak, jf. [barnevernsloven § 12-4](lov/2021-06-18-97/§12-4) og [§ 12-5](lov/2021-06-18-97/§12-5). Det innebærer at det blant annet skal dokumenteres:
+
+1. hvilken informasjon barnet har fått,
+2. hva barnet har blitt hørt om,
+3. hva barnet har sagt eller uttrykt på andre måter,
+4. om barnet har sagt seg enig i gjengivelsen av barnets mening og
+5. hvilken vekt barnets mening er tillagt opp mot øvrige hensyn.
 
 Dersom barnet unntaksvis ikke har fått anledning til å medvirke, skal dette begrunnes og dokumenteres. Dersom barnet ikke har ønsket å medvirke, skal dette, og barnets eventuelle begrunnelse, dokumenteres.
 
@@ -150,7 +164,13 @@ Nemnda har ansvar for at talspersoner fremlegger politiattest i henhold til [for
 
 ### § 17. Krav til referat
 
-Nemndleder, talsperson og sakkyndig er ansvarlig for at det føres referat fra sine samtaler med barnet. I referatet skal det dokumenteres:hvilken informasjon barnet har fått, herunder om det ble avklart om barnet forstod informasjonen,hvilke temaer og spørsmål som ble tatt opp med barnet,hva barnet har sagt eller uttrykt på andre måter,om barnet har sagt seg enig i gjengivelsen av barnets mening ogannen relevant informasjon fra samtalen, herunder tid, sted og varighet av samtalen, og hvem som var til stede.
+Nemndleder, talsperson og sakkyndig er ansvarlig for at det føres referat fra sine samtaler med barnet. I referatet skal det dokumenteres:
+
+1. hvilken informasjon barnet har fått, herunder om det ble avklart om barnet forstod informasjonen,
+2. hvilke temaer og spørsmål som ble tatt opp med barnet,
+3. hva barnet har sagt eller uttrykt på andre måter,
+4. om barnet har sagt seg enig i gjengivelsen av barnets mening og
+5. annen relevant informasjon fra samtalen, herunder tid, sted og varighet av samtalen, og hvem som var til stede.
 
 Nemndleder er ansvarlig for at referatet så snart som mulig gjøres tilgjengelig for partenes prosessfullmektiger.
 

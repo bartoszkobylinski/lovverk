@@ -30,7 +30,13 @@ Forskriften gjelder foretak og virksomhet som er omfattet av finansforetaksloven
 
 ### § 1-2. Unntak for forsikring av husdyr
 
-Finansforetaksloven gjelder ikke for forsikring av husdyr gjennom foretak som oppfyller følgende vilkår:foretaket har vedtektsfestet rett til å kreve tilleggsbidrag (etterutligning) eller å redusere erstatningsutbetalingene,ansvarsforsikring tilbys bare til dekning av tilleggsrisikoer,årlige premieinntekter er under en million euro,minst halvparten av premieinntektene gjelder forsikringer til medlemmer i det gjensidige selskapet,foretaket er organisert som samvirkeforetak i henhold til [lov 29. juni 2007 nr. 81](lov/2007-06-29-81) om samvirkeforetak.
+Finansforetaksloven gjelder ikke for forsikring av husdyr gjennom foretak som oppfyller følgende vilkår:
+
+1. foretaket har vedtektsfestet rett til å kreve tilleggsbidrag (etterutligning) eller å redusere erstatningsutbetalingene,
+2. ansvarsforsikring tilbys bare til dekning av tilleggsrisikoer,
+3. årlige premieinntekter er under en million euro,
+4. minst halvparten av premieinntektene gjelder forsikringer til medlemmer i det gjensidige selskapet,
+5. foretaket er organisert som samvirkeforetak i henhold til [lov 29. juni 2007 nr. 81](lov/2007-06-29-81) om samvirkeforetak.
 
 ### § 1-3. Unntak for begravelseskasser og hjelpekasser
 
@@ -64,7 +70,32 @@ Foretak som driver finansieringsvirksomhet etter første ledd, pålegges opplysn
 
 ### § 1-7. Unntak for visse typer betalingstjenester
 
-Finansforetaksloven gjelder ikke forkontante betalinger direkte fra betaleren til betalingsmottakeren uten mellomleddbetalingstransaksjoner fra betaleren til betalingsmottakeren gjennom en handelsagent som har fullmakt til å forhandle eller inngå avtale om salg eller kjøp av varer eller tjenester på vegne av enten betaleren eller betalingsmottakerenyrkesmessig fysisk pengetransportbetalingstransaksjoner som består i innsamling og utlevering av kontanter i forbindelse med ideell virksomhet eller veldedighet utenfor næringsvirksomhetkontantuttak ved kjøp av varer eller tjenesterveksling av kontanter uten at midlene står på en kontobetalingstransaksjoner basert på papirbaserte reisesjekker, sjekker, veksler, verdikuponger eller postanvisningerbetalingstransaksjoner som gjennomføres i et system for oppgjør av betalinger eller verdipapirer mellom oppgjørsagenter, sentrale motparter og/eller sentralbanker samt andre deltakere i systemet og ytere av betalingstjenesterbetalingstransaksjoner knyttet til forvaltning av verdipapirer, herunder utbytte, inntekter og andre utdelinger, eller innløsning eller salg, som foretas av deltakere i system for oppgjør som nevnt i bokstav h eller av investeringsforetak, kredittinstitusjoner, foretak for kollektiv investering i verdipapirer, eller kapitalforvaltningsforetak som utfører investeringstjenester, og alle andre foretak som har tillatelse til å ha finansielle instrumenter i depottjenester levert av ytere av tekniske tjenester som støtter tilbudet av betalingstjenester uten på noe tidspunkt å komme i besittelse av midlene som overføres, med unntak av betalingsfullmakttjenester og kontoinformasjonstjenestertjenester basert på spesifikke betalingsinstrumenter, som bare kan benyttes i begrenset omfang, og som:gir innehaveren mulighet for å kjøpe varer eller tjenester kun i utstederens lokaler eller innenfor et begrenset nett av tjenestetilbydere i henhold til en forretningsavtale inngått direkte med en profesjonell utsteder, ellerkun kan benyttes til å kjøpe et meget begrenset utvalg av varer eller tjenester, ellerkun kan benyttes i én EØS-stat til å kjøpe spesifikke varer eller tjenester fra leverandører som har inngått avtale med utstederen av betalingsinstrumentet. Instrumentene må være regulert av en offentlig myndighet og være gitt ut i tråd med forespørsel fra et foretak eller offentlig myndighet med formål knyttet til skatt eller sosiale ytelser.betalingstransaksjoner som en tilbyder av elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste tilbyr en abonnent som en tilleggstjeneste, dersombetalingstransaksjonen gjelder kjøp av digitalt innhold og stemmebaserte tjenester som faktureres på telefonregningen/regningen til hovedtjenesten, uansett hvilken anordning som brukes, ellerbetalingstransaksjonen er knyttet til veldedighet eller kjøp av billetter, gjennomføres via en elektronisk anordning og faktureres på hovedtjenestens regning.Unntaket gjelder bare der den enkelte betalingstransaksjonen ikke overskrider et beløp i norske kroner som svarer til 50 euro og betalingstransaksjonenes samlede verdi ikke overskrider et beløp i norske kroner som svarer til 300 euro per måned.betalingstransaksjoner som gjennomføres mellom betalingstjenestetilbydere, deres agenter eller filialer for egen regningbetalingstransaksjoner mellom et morforetak og dets datterforetak eller mellom datterforetak av samme morforetak, uten at noen annen yter av betalingstjenester enn et foretak i samme konsern medvirker som mellomleddtjenester som gjelder uttak av kontanter i kontantautomater på vegne av én eller flere kortutstedere, der den som yter uttakstjenesten, ikke er part i kontoavtale med kunden som tar ut penger fra en konto, og ikke yter andre betalingstjenester.
+Finansforetaksloven gjelder ikke for
+
+1. kontante betalinger direkte fra betaleren til betalingsmottakeren uten mellomledd
+2. betalingstransaksjoner fra betaleren til betalingsmottakeren gjennom en handelsagent som har fullmakt til å forhandle eller inngå avtale om salg eller kjøp av varer eller tjenester på vegne av enten betaleren eller betalingsmottakeren
+3. yrkesmessig fysisk pengetransport
+4. betalingstransaksjoner som består i innsamling og utlevering av kontanter i forbindelse med ideell virksomhet eller veldedighet utenfor næringsvirksomhet
+5. kontantuttak ved kjøp av varer eller tjenester
+6. veksling av kontanter uten at midlene står på en konto
+7. betalingstransaksjoner basert på papirbaserte reisesjekker, sjekker, veksler, verdikuponger eller postanvisninger
+8. betalingstransaksjoner som gjennomføres i et system for oppgjør av betalinger eller verdipapirer mellom oppgjørsagenter, sentrale motparter og/eller sentralbanker samt andre deltakere i systemet og ytere av betalingstjenester
+9. betalingstransaksjoner knyttet til forvaltning av verdipapirer, herunder utbytte, inntekter og andre utdelinger, eller innløsning eller salg, som foretas av deltakere i system for oppgjør som nevnt i bokstav h eller av investeringsforetak, kredittinstitusjoner, foretak for kollektiv investering i verdipapirer, eller kapitalforvaltningsforetak som utfører investeringstjenester, og alle andre foretak som har tillatelse til å ha finansielle instrumenter i depot
+10. tjenester levert av ytere av tekniske tjenester som støtter tilbudet av betalingstjenester uten på noe tidspunkt å komme i besittelse av midlene som overføres, med unntak av betalingsfullmakttjenester og kontoinformasjonstjenester
+11. tjenester basert på spesifikke betalingsinstrumenter, som bare kan benyttes i begrenset omfang, og som:
+
+    1. gir innehaveren mulighet for å kjøpe varer eller tjenester kun i utstederens lokaler eller innenfor et begrenset nett av tjenestetilbydere i henhold til en forretningsavtale inngått direkte med en profesjonell utsteder, eller
+    2. kun kan benyttes til å kjøpe et meget begrenset utvalg av varer eller tjenester, eller
+    3. kun kan benyttes i én EØS-stat til å kjøpe spesifikke varer eller tjenester fra leverandører som har inngått avtale med utstederen av betalingsinstrumentet. Instrumentene må være regulert av en offentlig myndighet og være gitt ut i tråd med forespørsel fra et foretak eller offentlig myndighet med formål knyttet til skatt eller sosiale ytelser.
+12. betalingstransaksjoner som en tilbyder av elektronisk kommunikasjonsnett eller elektronisk kommunikasjonstjeneste tilbyr en abonnent som en tilleggstjeneste, dersom
+
+    1. betalingstransaksjonen gjelder kjøp av digitalt innhold og stemmebaserte tjenester som faktureres på telefonregningen/regningen til hovedtjenesten, uansett hvilken anordning som brukes, eller
+    2. betalingstransaksjonen er knyttet til veldedighet eller kjøp av billetter, gjennomføres via en elektronisk anordning og faktureres på hovedtjenestens regning.
+
+    Unntaket gjelder bare der den enkelte betalingstransaksjonen ikke overskrider et beløp i norske kroner som svarer til 50 euro og betalingstransaksjonenes samlede verdi ikke overskrider et beløp i norske kroner som svarer til 300 euro per måned.
+13. betalingstransaksjoner som gjennomføres mellom betalingstjenestetilbydere, deres agenter eller filialer for egen regning
+14. betalingstransaksjoner mellom et morforetak og dets datterforetak eller mellom datterforetak av samme morforetak, uten at noen annen yter av betalingstjenester enn et foretak i samme konsern medvirker som mellomledd
+15. tjenester som gjelder uttak av kontanter i kontantautomater på vegne av én eller flere kortutstedere, der den som yter uttakstjenesten, ikke er part i kontoavtale med kunden som tar ut penger fra en konto, og ikke yter andre betalingstjenester.
 
 > Tilføyd ved forskrift [14 des 2018 nr. 1919](forskrift/2018-12-14-1919) (i kraft 1 jan 2019), endret ved forskrifter [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019), [7 mai 2019 nr. 568](forskrift/2019-05-07-568) (tidligere § 1-6).
 
@@ -158,7 +189,10 @@ Betalingsforetak som driver andre forretningsaktiviteter enn betalingstjenester 
 
 ### § 2-9. Unntak for e-pengeforetak med begrenset virksomhet
 
-Departementet kan i enkeltvedtak unnta et e-pengeforetak fra enkelte eller samtlige bestemmelser gitt i eller i medhold av finansforetaksloven dersom det maksimalt kan lagres et beløp i norske kroner som tilsvarer 150 euro på det elektroniske medium og følgende betingelser er oppfylt:samlet gjeld knyttet til utestående elektroniske penger skal i gjennomsnitt ikke overstige et beløp i norske kroner som tilsvarer 5 millioner euro, ogvilkårene i [finansforetaksloven § 3-5](lov/2015-04-10-17/§3-5) første ledd og [§ 8-17](lov/2015-04-10-17/§8-17) første ledd første punktum er oppfylt.
+Departementet kan i enkeltvedtak unnta et e-pengeforetak fra enkelte eller samtlige bestemmelser gitt i eller i medhold av finansforetaksloven dersom det maksimalt kan lagres et beløp i norske kroner som tilsvarer 150 euro på det elektroniske medium og følgende betingelser er oppfylt:
+
+1. samlet gjeld knyttet til utestående elektroniske penger skal i gjennomsnitt ikke overstige et beløp i norske kroner som tilsvarer 5 millioner euro, og
+2. vilkårene i [finansforetaksloven § 3-5](lov/2015-04-10-17/§3-5) første ledd og [§ 8-17](lov/2015-04-10-17/§8-17) første ledd første punktum er oppfylt.
 
 Foretaket skal hvert år framlegge årsberetning eller annen redegjørelse for sin virksomhet for Finanstilsynet. Redegjørelsen skal inneholde opplysninger om størrelsen av den samlede gjeld knyttet til elektroniske penger. Redegjørelsen skal være mottatt av Finanstilsynet senest 1. august det påfølgende år.
 
@@ -184,19 +218,115 @@ E-pengeforetak skal uten ugrunnet opphold melde fra til Finanstilsynet om endrin
 
 ### § 2-11. Forsikringsklasser i livsforsikring
 
-I livsforsikring gis det konsesjon for virksomhet i følgende forsikringsklasser:Alminnelig livsforsikring og tilleggsforsikring, som omfatter:Kollektiv eller individuell kapitalforsikring med unntak for uføredekningerforsikring som kommer til utbetaling ved forsikredes dødforsikring som kommer til utbetaling ved oppnåelse av fastsatt alderforsikring som kommer til utbetaling ved forsikredes død eller senest ved oppnåelse av fastsatt alder.Kollektiv eller individuell livrente- og pensjonsforsikring med unntak for uføredekninger.Forsikring mot uførhet uavhengig av årsak, herunder premie- og innskuddsfritaksforsikring.Tilleggsforsikringer til forsikringer nevnt under bokstav a eller b til dekning avuførhet som følge av ulykkeuførhet som følge av sykdomdødsfall som følge av ulykke.Ekteskaps- og fødselsforsikring, som omfatter:Forsikring som forfaller til utbetaling ved inngåelse av ekteskap.Forsikring som forfaller til utbetaling ved fødsel.Livsforsikring med investeringsvalgLivsforsikring med investeringsvalg er forsikring hvor ytelsene er knyttet til verdien av spesifiserte eiendeler, som forsikringskunden velger sammensetningen av. Klassen omfatter:Forsikringer nevnt i klasse I bokstav a og b.Forsikringer nevnt i klasse II.Forsikringer nevnt i klasse VI.Klassen omfatter også forsikring nevnt i klasse I bokstav c, når forsikringen tegnes som tilleggsforsikring til forsikringer nevnt i klasse I bokstav a eller b.Langsiktig ulykkes- og sykeforsikringKlassen omfatter ulykkesforsikring og sykeforsikring som gjelder for lengre tid enn tre år og som ikke kan sies opp av forsikringsselskapet eller som kan sies opp bare under bestemte forhold som angis i forsikringsavtalen.Forvaltning av midlene i pensjonsforetak og tilsvarende utenlandske pensjonsinnretninger.KapitaliseringsprodukterKlassen omfatter sparekontrakter med utgangspunkt i aktuarielle beregninger, som består av forpliktelser av fastsatt varighet og størrelse.
+I livsforsikring gis det konsesjon for virksomhet i følgende forsikringsklasser:
+
+1. Alminnelig livsforsikring og tilleggsforsikring, som omfatter:
+
+   1. Kollektiv eller individuell kapitalforsikring med unntak for uføredekninger
+
+      - forsikring som kommer til utbetaling ved forsikredes død
+      - forsikring som kommer til utbetaling ved oppnåelse av fastsatt alder
+      - forsikring som kommer til utbetaling ved forsikredes død eller senest ved oppnåelse av fastsatt alder.
+   2. Kollektiv eller individuell livrente- og pensjonsforsikring med unntak for uføredekninger.
+   3. Forsikring mot uførhet uavhengig av årsak, herunder premie- og innskuddsfritaksforsikring.
+   4. Tilleggsforsikringer til forsikringer nevnt under bokstav a eller b til dekning av
+
+      - uførhet som følge av ulykke
+      - uførhet som følge av sykdom
+      - dødsfall som følge av ulykke.
+2. Ekteskaps- og fødselsforsikring, som omfatter:
+
+   1. Forsikring som forfaller til utbetaling ved inngåelse av ekteskap.
+   2. Forsikring som forfaller til utbetaling ved fødsel.
+3. Livsforsikring med investeringsvalg
+
+   Livsforsikring med investeringsvalg er forsikring hvor ytelsene er knyttet til verdien av spesifiserte eiendeler, som forsikringskunden velger sammensetningen av. Klassen omfatter:
+
+   1. Forsikringer nevnt i klasse I bokstav a og b.
+   2. Forsikringer nevnt i klasse II.
+   3. Forsikringer nevnt i klasse VI.
+
+   Klassen omfatter også forsikring nevnt i klasse I bokstav c, når forsikringen tegnes som tilleggsforsikring til forsikringer nevnt i klasse I bokstav a eller b.
+4. Langsiktig ulykkes- og sykeforsikring
+
+   Klassen omfatter ulykkesforsikring og sykeforsikring som gjelder for lengre tid enn tre år og som ikke kan sies opp av forsikringsselskapet eller som kan sies opp bare under bestemte forhold som angis i forsikringsavtalen.
+5. Forvaltning av midlene i pensjonsforetak og tilsvarende utenlandske pensjonsinnretninger.
+6. Kapitaliseringsprodukter
+
+   Klassen omfatter sparekontrakter med utgangspunkt i aktuarielle beregninger, som består av forpliktelser av fastsatt varighet og størrelse.
 
 ### § 2-12. Forsikringsklasser i skadeforsikring
 
-I skadeforsikring gis det konsesjon for virksomhet i følgende forsikringsklasser:Ulykke (personforsikring)forsikring som utbetales som et fast beløp (sumforsikring)erstatning av økonomisk tapkombinasjon av disse ogskade på passasjerer.Sykdom (personforsikring)sumforsikringerstatning av økonomisk tap ogkombinasjon av disse.Landkjøretøy (bortsett fra jernbanekjøretøy)Skade på, eller tap av, motordrevne landkjøretøy og ikke-motordrevne landkjøretøy.Jernbanekjøretøy.Skade på eller tap av jernbanekjøretøy.LuftfartøySkade på, eller tap av luftfartøy.Skade på eller tap av havgående fartøy og fartøy på innsjø, elv eller kanal.Skade på eller tap av godstransport (medregnet varer, bagasje og alt annet gods).Brann- og naturskaderSkade på, eller tap av, eiendom og eiendeler (unntatt eiendom og eiendeler inkludert i klassene 3, 4, 5, 6 og 7) forårsaket av brann, eksplosjon, storm, naturkrefter, kjerne-energi og jordskred.Annen skade på eiendom og eiendeler.Ansvar forårsaket ved bruk av landkjøretøy (herunder førers ansvar).Ansvar forårsaket ved bruk av luftfartøy (herunder førers ansvar).Ansvar forårsaket ved bruk av havgående fartøy og fartøy på innsjø, elv eller kanal (herunder førers ansvar).Alminnelig ansvarAnnet ansvar enn nevnt under klassene 10, 11 og 12.KredittTap som følge av mislighold av forsikringstakers utestående fordringer (alminnelig insolvens, eksportkreditt, salg på avbetaling, hypotekforsikring, landbruksforsikring, restverdiforsikring mv).KausjonTap som følge av forsikringstakers mislighold av økonomiske forpliktelser overfor tredjemann.Diverse økonomiske taptap av inntekttap av fortjenestetap ved underslagindirekte handelstapandre økonomiske tap.Utgifter til rettshjelp.Assistanse til personer som kommer i vanskeligheter under reise eller under fravær fra bostedet eller sitt faste oppholdssted.
+I skadeforsikring gis det konsesjon for virksomhet i følgende forsikringsklasser:
+
+1. Ulykke (personforsikring)
+
+   - forsikring som utbetales som et fast beløp (sumforsikring)
+   - erstatning av økonomisk tap
+   - kombinasjon av disse og
+   - skade på passasjerer.
+2. Sykdom (personforsikring)
+
+   - sumforsikring
+   - erstatning av økonomisk tap og
+   - kombinasjon av disse.
+3. Landkjøretøy (bortsett fra jernbanekjøretøy)
+
+   Skade på, eller tap av, motordrevne landkjøretøy og ikke-motordrevne landkjøretøy.
+4. Jernbanekjøretøy.
+
+   Skade på eller tap av jernbanekjøretøy.
+5. Luftfartøy
+
+   Skade på, eller tap av luftfartøy.
+6. Skade på eller tap av havgående fartøy og fartøy på innsjø, elv eller kanal.
+7. Skade på eller tap av godstransport (medregnet varer, bagasje og alt annet gods).
+8. Brann- og naturskader
+
+   Skade på, eller tap av, eiendom og eiendeler (unntatt eiendom og eiendeler inkludert i klassene 3, 4, 5, 6 og 7) forårsaket av brann, eksplosjon, storm, naturkrefter, kjerne-energi og jordskred.
+9. Annen skade på eiendom og eiendeler.
+10. Ansvar forårsaket ved bruk av landkjøretøy (herunder førers ansvar).
+11. Ansvar forårsaket ved bruk av luftfartøy (herunder førers ansvar).
+12. Ansvar forårsaket ved bruk av havgående fartøy og fartøy på innsjø, elv eller kanal (herunder førers ansvar).
+13. Alminnelig ansvar
+
+    Annet ansvar enn nevnt under klassene 10, 11 og 12.
+14. Kreditt
+
+    Tap som følge av mislighold av forsikringstakers utestående fordringer (alminnelig insolvens, eksportkreditt, salg på avbetaling, hypotekforsikring, landbruksforsikring, restverdiforsikring mv).
+15. Kausjon
+
+    Tap som følge av forsikringstakers mislighold av økonomiske forpliktelser overfor tredjemann.
+16. Diverse økonomiske tap
+
+    - tap av inntekt
+    - tap av fortjeneste
+    - tap ved underslag
+    - indirekte handelstap
+    - andre økonomiske tap.
+17. Utgifter til rettshjelp.
+18. Assistanse til personer som kommer i vanskeligheter under reise eller under fravær fra bostedet eller sitt faste oppholdssted.
 
 ### § 2-13. Grupper av forsikringsklasser i skadeforsikring
 
-Konsesjon kan gis for virksomhet i følgende grupper av forsikringsklasser:Ulykkes- og sykeforsikring (klasse 1 og 2)Motorvognforsikring (klasse 1 fjerde strekpunkt, 3, 7 og 10)Sjø- og transportforsikring (klasse 1 fjerde strekpunkt, 4, 6, 7 og 12)Luftfartsforsikring (klasse 1 fjerde strekpunkt, 5, 7 og 11)Brann- og tingskadeforsikring (klasse 8 og 9)Ansvarsforsikring (klasse 10, 11, 12 og 13)Kreditt- og kausjonsforsikring (klasse 14 og 15)All skadeforsikring (klasse 1-13 og 16-18).
+Konsesjon kan gis for virksomhet i følgende grupper av forsikringsklasser:
+
+1. Ulykkes- og sykeforsikring (klasse 1 og 2)
+2. Motorvognforsikring (klasse 1 fjerde strekpunkt, 3, 7 og 10)
+3. Sjø- og transportforsikring (klasse 1 fjerde strekpunkt, 4, 6, 7 og 12)
+4. Luftfartsforsikring (klasse 1 fjerde strekpunkt, 5, 7 og 11)
+5. Brann- og tingskadeforsikring (klasse 8 og 9)
+6. Ansvarsforsikring (klasse 10, 11, 12 og 13)
+7. Kreditt- og kausjonsforsikring (klasse 14 og 15)
+8. All skadeforsikring (klasse 1-13 og 16-18).
 
 ### § 2-14. Tilleggsrisikoer i skadeforsikring
 
-Forsikringsforetak kan uten særskilt tillatelse dekke tilleggsrisikoer dersom de:er tilknyttet hovedrisikoen,angår det objekt som er dekket mot hovedrisikoen, oger dekket av den kontrakt som dekker hovedrisikoen.
+Forsikringsforetak kan uten særskilt tillatelse dekke tilleggsrisikoer dersom de:
+
+1. er tilknyttet hovedrisikoen,
+2. angår det objekt som er dekket mot hovedrisikoen, og
+3. er dekket av den kontrakt som dekker hovedrisikoen.
 
 Risikoene som omfattes av [§ 2-10](forskrift/2016-12-09-1502/§2-10) klasse 14, 15 og 17, kan likevel ikke anses som tilleggsrisikoer til andre klasser.
 
@@ -242,7 +372,10 @@ Opplysningsfullmektigen skal uten ugrunnet opphold gi Finanstilsynet skriftlig m
 
 ### § 2-18. Unntak for utlån gjennom plattformer for lånebasert folkefinansiering
 
-(1) Som finansieringsvirksomhet regnes ikke å yte lån gjennom plattformer for lånebasert folkefinansiering dersom:plattformene drives av et finansmeglerforetak eller finansforetak, oglångivers samlede utlån gjennom plattformene ikke overstiger 1 million kroner per år.
+(1) Som finansieringsvirksomhet regnes ikke å yte lån gjennom plattformer for lånebasert folkefinansiering dersom:
+
+1. plattformene drives av et finansmeglerforetak eller finansforetak, og
+2. långivers samlede utlån gjennom plattformene ikke overstiger 1 million kroner per år.
 
 (2) Unntaket i første ledd gjelder ikke ytelse av boliglån. Med boliglån menes lån som angitt i [lov 16. desember 2022 nr. 91 om låneformidling § 1-2](lov/2022-12-16-91/§1-2) bokstav a.
 
@@ -260,7 +393,14 @@ Finansforetak skal gi melding til Finanstilsynet når personer som nevnt i [fina
 
 ### § 3-2. Tilleggskrav til søknad om tillatelse som betalingsforetak og e-pengeforetak
 
-Søknad om tillatelse til å drive virksomhet som betalingsforetak, e-pengeforetak eller opplysningsfullmektig skal i tillegg til kravene i [finansforetaksloven § 3-1](lov/2015-04-10-17/§3-1) også inneholde følgende dokumentasjon:En beskrivelse av foretakets rutiner for å overvåke, håndtere og følge opp sikkerhetshendelser og sikkerhetsrelaterte kundeklager, samt rutine for rapportering av alvorlige operasjonelle hendelser og sikkerhetshendelser jf. [forskrift 21. mai 2003 nr. 630](forskrift/2003-05-21-630) om bruk av informasjons- og kommunikasjonsteknologi (IKT) [§ 9](forskrift/2003-05-21-630/§9).Rutiner om lagring og overvåkning av sensitiv betalingsinformasjon, samt begrensninger i og oversikt over adgang til denne informasjonen.En beskrivelse av foretakets forretningsmessig kontinuitetsplan som identifiserer kritiske deler av virksomheten, og prosedyrer for å teste om planene er effektive og tilstrekkelige.Prinsipper og definisjoner som foretaket bruker i innsamlingen av statistiske opplysninger om drift, transaksjoner og svindel.Foretakets retningslinjer knyttet til sikkerhet, inkludert en detaljert risikovurdering av betalingstjenestevirksomheten og en beskrivelse av kontrollen med sikkerheten og tiltak for å beskytte brukerne av betalingstjenestene mot risikoene som er identifisert, inkludert svindel og ulovlig bruk av sensitive opplysninger og personopplysninger.En beskrivelse av foretakets kontroll med eventuelle agenter og filialer, jf. [finansforetaksforskriften § 13-4](forskrift/2016-12-09-1502/§13-4), samt en beskrivelse av foretakets utkontraktering og deltakelse i nasjonalt eller internasjonalt betalingssystem.
+Søknad om tillatelse til å drive virksomhet som betalingsforetak, e-pengeforetak eller opplysningsfullmektig skal i tillegg til kravene i [finansforetaksloven § 3-1](lov/2015-04-10-17/§3-1) også inneholde følgende dokumentasjon:
+
+1. En beskrivelse av foretakets rutiner for å overvåke, håndtere og følge opp sikkerhetshendelser og sikkerhetsrelaterte kundeklager, samt rutine for rapportering av alvorlige operasjonelle hendelser og sikkerhetshendelser jf. [forskrift 21. mai 2003 nr. 630](forskrift/2003-05-21-630) om bruk av informasjons- og kommunikasjonsteknologi (IKT) [§ 9](forskrift/2003-05-21-630/§9).
+2. Rutiner om lagring og overvåkning av sensitiv betalingsinformasjon, samt begrensninger i og oversikt over adgang til denne informasjonen.
+3. En beskrivelse av foretakets forretningsmessig kontinuitetsplan som identifiserer kritiske deler av virksomheten, og prosedyrer for å teste om planene er effektive og tilstrekkelige.
+4. Prinsipper og definisjoner som foretaket bruker i innsamlingen av statistiske opplysninger om drift, transaksjoner og svindel.
+5. Foretakets retningslinjer knyttet til sikkerhet, inkludert en detaljert risikovurdering av betalingstjenestevirksomheten og en beskrivelse av kontrollen med sikkerheten og tiltak for å beskytte brukerne av betalingstjenestene mot risikoene som er identifisert, inkludert svindel og ulovlig bruk av sensitive opplysninger og personopplysninger.
+6. En beskrivelse av foretakets kontroll med eventuelle agenter og filialer, jf. [finansforetaksforskriften § 13-4](forskrift/2016-12-09-1502/§13-4), samt en beskrivelse av foretakets utkontraktering og deltakelse i nasjonalt eller internasjonalt betalingssystem.
 
 Denne bestemmelsen gjelder ikke for søknad om begrenset tillatelse som betalingsforetak.
 
@@ -326,7 +466,15 @@ Finanstilsynet skal oversende melding etter [finansforetaksloven §§ 4-2](lov/2
 
 Betalingsforetak eller e-pengeforetak som skal yte betalingstjenester i en annen EØS-stat gjennom agent skal melde fra til Finanstilsynet.
 
-Meldingen skal inneholde følgende opplysninger:Agentens navn, adresse og organisasjonsnummerEn beskrivelse av internkontrollordningene som agenten vil benytte for å overholde pliktene etter hvitvaskingslovenOpplysninger om personer i foretakets ledelse og personer med ansvar for håndteringen av agenten, samt dokumentasjon på at disse er egnedeHvilken stat betalingstjenestene skal tilbys iHvilke tjenester agenten skal tilbyOpplysninger om de ansvarlige personer hos agentenOm foretaket planlegger å utkontraktere deler av virksomheten i vertsstaten.
+Meldingen skal inneholde følgende opplysninger:
+
+1. Agentens navn, adresse og organisasjonsnummer
+2. En beskrivelse av internkontrollordningene som agenten vil benytte for å overholde pliktene etter hvitvaskingsloven
+3. Opplysninger om personer i foretakets ledelse og personer med ansvar for håndteringen av agenten, samt dokumentasjon på at disse er egnede
+4. Hvilken stat betalingstjenestene skal tilbys i
+5. Hvilke tjenester agenten skal tilby
+6. Opplysninger om de ansvarlige personer hos agenten
+7. Om foretaket planlegger å utkontraktere deler av virksomheten i vertsstaten.
 
 Finanstilsynet skal melde fra om agenten til vertsstatens tilsynsmyndigheter senest innen én måned etter at opplysningene nevnt i annet ledd er mottatt. Meldingen til vertsstaten skal inneholde opplysningene i annet ledd.
 
@@ -416,7 +564,24 @@ Første ledd er ikke til hinder for at Finanstilsynet kan kreve at det utpekes s
 
 ### § 6-1. Melding om erverv av eierandel i finansforetak
 
-Melding om erverv av kvalifisert eierandel skal inneholde følgende opplysninger:Erververens fulle navn, adresse og organisasjons-, D- eller fødselsnummer. Utenlandske statsborgere som ikke har norsk fødselsnummer eller D-nummer, skal opplyse fødselsdato og nasjonalitet. Utenlandske foretak skal opplyse om hovedkontorets hjemstatFinansforetakets navn, adresse og organisasjonsnummer, samt erververens vurdering av finansforetakets økonomiske stilling og virksomhetErververens samlede eierandel i finansforetaketStørrelsen på den eierandel det tas sikte på å erverveErververens næringsvirksomhet og tilgjengelige økonomiske ressurserErververens eierinteresser i andre finansforetakAndre innehavere av eierandel i finansforetaket som erververen skal konsolideres medFormål med ervervet. Medfører ervervet at finansforetaket blir erververens datterforetak, skal det gis opplysninger om organiseringen og virksomheten i det konsern foretaket vil inngå iOm erververen i løpet av de siste ti år har vært begjært konkurs eller underlagt konkurs- eller gjeldsbehandling i Norge eller i utlandetOm erververen i løpet av de siste ti år har vært dømt for et straffbart forhold, herunder ilagt bot eller inndragning for et straffbart forhold, i Norge eller i utlandetOm erververen er tiltalt eller siktet for et straffbart forhold i Norge eller utlandetOm erververen i løpet av de siste ti år har vært skjønnsliknet eller ilagt tilleggsskatt eller tilsvarende i Norge eller utlandetOm erververen i løpet av de siste ti år har blitt ilagt gebyr eller løpende mulkt i henhold til finanstilsynsloven, børsloven, regnskapsloven eller verdipapirlovgivningen eller tilsvarende lover i utlandetOm erververen i løpet av de siste ti år har hatt styreverv eller kvalifisert eierandel i eller vært daglig leder for foretak som i samme periode har vært involvert i forhold som nevnt i [punkt 9](forskrift/2016-12-09-1502/kap9), [10](forskrift/2016-12-09-1502/kap10), [11](forskrift/2016-12-09-1502/kap11), [12](forskrift/2016-12-09-1502/kap12) eller [13](forskrift/2016-12-09-1502/kap13)Om erververen tidligere har vært vurdert som innehaver av kvalifisert eierandel i finansforetak i Norge eller utlandetAndre forhold som erververen antar kan ha betydning for vurderingen av om det skal gis tillatelse til gjennomføringen av ervervet.
+Melding om erverv av kvalifisert eierandel skal inneholde følgende opplysninger:
+
+1. Erververens fulle navn, adresse og organisasjons-, D- eller fødselsnummer. Utenlandske statsborgere som ikke har norsk fødselsnummer eller D-nummer, skal opplyse fødselsdato og nasjonalitet. Utenlandske foretak skal opplyse om hovedkontorets hjemstat
+2. Finansforetakets navn, adresse og organisasjonsnummer, samt erververens vurdering av finansforetakets økonomiske stilling og virksomhet
+3. Erververens samlede eierandel i finansforetaket
+4. Størrelsen på den eierandel det tas sikte på å erverve
+5. Erververens næringsvirksomhet og tilgjengelige økonomiske ressurser
+6. Erververens eierinteresser i andre finansforetak
+7. Andre innehavere av eierandel i finansforetaket som erververen skal konsolideres med
+8. Formål med ervervet. Medfører ervervet at finansforetaket blir erververens datterforetak, skal det gis opplysninger om organiseringen og virksomheten i det konsern foretaket vil inngå i
+9. Om erververen i løpet av de siste ti år har vært begjært konkurs eller underlagt konkurs- eller gjeldsbehandling i Norge eller i utlandet
+10. Om erververen i løpet av de siste ti år har vært dømt for et straffbart forhold, herunder ilagt bot eller inndragning for et straffbart forhold, i Norge eller i utlandet
+11. Om erververen er tiltalt eller siktet for et straffbart forhold i Norge eller utlandet
+12. Om erververen i løpet av de siste ti år har vært skjønnsliknet eller ilagt tilleggsskatt eller tilsvarende i Norge eller utlandet
+13. Om erververen i løpet av de siste ti år har blitt ilagt gebyr eller løpende mulkt i henhold til finanstilsynsloven, børsloven, regnskapsloven eller verdipapirlovgivningen eller tilsvarende lover i utlandet
+14. Om erververen i løpet av de siste ti år har hatt styreverv eller kvalifisert eierandel i eller vært daglig leder for foretak som i samme periode har vært involvert i forhold som nevnt i [punkt 9](forskrift/2016-12-09-1502/kap9), [10](forskrift/2016-12-09-1502/kap10), [11](forskrift/2016-12-09-1502/kap11), [12](forskrift/2016-12-09-1502/kap12) eller [13](forskrift/2016-12-09-1502/kap13)
+15. Om erververen tidligere har vært vurdert som innehaver av kvalifisert eierandel i finansforetak i Norge eller utlandet
+16. Andre forhold som erververen antar kan ha betydning for vurderingen av om det skal gis tillatelse til gjennomføringen av ervervet.
 
 Dersom erververen er et foretak, skal det i tillegg gis opplysninger som nevnt i første ledd nr. 1, 3, 5, 6, 9, 10, 11, 12, 13, 14, 15 og 16 om personer i foretakets styre, daglig ledelse og om eiere med en kvalifisert eierandel i foretaket. Dersom noen av disse eierne er en juridisk person, kan Finanstilsynet kreve å få oppgitt tilsvarende opplysninger om personer i dette foretakets styre, daglig ledelse og eiere med kvalifisert eierandel i dette foretaket og dets eventuelle morselskap.
 
@@ -454,15 +619,40 @@ Vedtektsendringer i finansforetak og finansstiftelser kan gjennomføres uten sæ
 
 ### § 7-2. Krav om godkjennelse av vedtektsendringer
 
-Krav om godkjennelse av vedtektsendringer etter [finansforetaksloven § 7-10](lov/2015-04-10-17/§7-10) første ledd gjelder vedtektsbestemmelser om:foretakets formål og den virksomheten foretaket skal drive,at ikke alle aksjer skal gi lik rett i foretaket,forbud mot pantsettelse av aksjer,overføring av generalforsamlingens rett til å velge styre til andre,at inntil halvdelen av styret velges av andre enn generalforsamlingen,strengere krav til flertallsbeslutninger i styret enn alminnelig flertall,bestemmelser om anvendelse av overskudd og av formuen ved oppløsning, dersom foretaket ved sin virksomhet ikke skal ha til formål å skaffe aksjeeierne økonomisk utbytte.
+Krav om godkjennelse av vedtektsendringer etter [finansforetaksloven § 7-10](lov/2015-04-10-17/§7-10) første ledd gjelder vedtektsbestemmelser om:
 
-For finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, gjelder kravet om godkjennelse av vedtektsendringer også vedtektsbestemmelser om:foretaket skal ha adgang til å utstede omsettelige egenkapitalbevis,hvordan overskudd skal anvendes og underskudd skal dekkes, samt regler for fastsettelse av utbytte dersom foretaket skal kunne gi utbytte på kapitalen i grunnfondet,hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling,bestemmelser som begrenser retten til å overdra eller pantsette egenkapitalbevis,at underskudd i gjensidige livsforsikringsforetak eller kredittforeninger ikke skal utliknes på medlemmene,regler for medlemskap i kredittforening, og i tilfelle regler om medlemsinnskudd, medlemmenes ansvar for foretakets forpliktelser og deres ansvar innbyrdes,størrelsen på eventuelle andelsinnskudd i samvirkeforetak, om de skal forrentes, og om de skal tilbakebetales ved utmeldelse,om det skal betales medlemskontingent.
+1. foretakets formål og den virksomheten foretaket skal drive,
+2. at ikke alle aksjer skal gi lik rett i foretaket,
+3. forbud mot pantsettelse av aksjer,
+4. overføring av generalforsamlingens rett til å velge styre til andre,
+5. at inntil halvdelen av styret velges av andre enn generalforsamlingen,
+6. strengere krav til flertallsbeslutninger i styret enn alminnelig flertall,
+7. bestemmelser om anvendelse av overskudd og av formuen ved oppløsning, dersom foretaket ved sin virksomhet ikke skal ha til formål å skaffe aksjeeierne økonomisk utbytte.
 
-For gjensidige forsikringsforetak gjelder kravet om godkjennelse av vedtektsendringer også vedtektsbestemmelser om:det antall forsikringer og den samlede forsikringssum som skal være tegnet for at foretaket skal kunne starte virksomhet,reglene for medlemskap og medlemmenes innbyrdes ansvar for foretakets forpliktelser,medlemmenes forpliktelser til å innbetale medlemsinnskudd og fremtidige innbetalinger til grunnfondskapitalen.
+For finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, gjelder kravet om godkjennelse av vedtektsendringer også vedtektsbestemmelser om:
+
+1. foretaket skal ha adgang til å utstede omsettelige egenkapitalbevis,
+2. hvordan overskudd skal anvendes og underskudd skal dekkes, samt regler for fastsettelse av utbytte dersom foretaket skal kunne gi utbytte på kapitalen i grunnfondet,
+3. hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling,
+4. bestemmelser som begrenser retten til å overdra eller pantsette egenkapitalbevis,
+5. at underskudd i gjensidige livsforsikringsforetak eller kredittforeninger ikke skal utliknes på medlemmene,
+6. regler for medlemskap i kredittforening, og i tilfelle regler om medlemsinnskudd, medlemmenes ansvar for foretakets forpliktelser og deres ansvar innbyrdes,
+7. størrelsen på eventuelle andelsinnskudd i samvirkeforetak, om de skal forrentes, og om de skal tilbakebetales ved utmeldelse,
+8. om det skal betales medlemskontingent.
+
+For gjensidige forsikringsforetak gjelder kravet om godkjennelse av vedtektsendringer også vedtektsbestemmelser om:
+
+1. det antall forsikringer og den samlede forsikringssum som skal være tegnet for at foretaket skal kunne starte virksomhet,
+2. reglene for medlemskap og medlemmenes innbyrdes ansvar for foretakets forpliktelser,
+3. medlemmenes forpliktelser til å innbetale medlemsinnskudd og fremtidige innbetalinger til grunnfondskapitalen.
 
 ### § 7-3. Krav om godkjennelse av vedtektsendringer for finansstiftelser
 
-Krav om godkjennelse av vedtektsendringer etter [finansforetaksloven § 12-20](lov/2015-04-10-17/§12-20) annet ledd gjelder vedtektsbestemmelser om:stiftelsens formål og den virksomhet stiftelsen skal drive,stiftelsens grunnfondskapital og hvordan stiftelsens midler skal plasseres,hvordan stiftelsen skal avvikles og stiftelsens formue skal disponeres ved avvikling.
+Krav om godkjennelse av vedtektsendringer etter [finansforetaksloven § 12-20](lov/2015-04-10-17/§12-20) annet ledd gjelder vedtektsbestemmelser om:
+
+1. stiftelsens formål og den virksomhet stiftelsen skal drive,
+2. stiftelsens grunnfondskapital og hvordan stiftelsens midler skal plasseres,
+3. hvordan stiftelsen skal avvikles og stiftelsens formue skal disponeres ved avvikling.
 
 ### § 7-4. Organisasjonsform og registrering av betalingsforetak, e-pengeforetak og opplysningsfullmektiger
 
@@ -488,7 +678,12 @@ Valg skal avholdes innen utgangen av april.
 
 Generalforsamlingens medlemmer og varamedlemmer velges for fire år. Av de medlemmer som er valgt ved første valg, går minst en firedel ut etter loddtrekning ved hvert av de tre neste valg og deretter ved påfølgende valg de som har gjort tjeneste lengst.
 
-Leder av foretakets øverste myndighet fastsetter tid og sted for valget. I foretak hvor det ikke er utpekt en leder av generalforsamlingen skal vedtektene inneholde bestemmelser om hvordan tid og sted for valget skal fastsettes. Informasjon om valget skal sendes ut senest 14 dager før valget gjennomføres og skal inneholde opplysninger om:bestemmelser om stemmeretthvilke tidsrom valget gjelder for og hvem som er på valghvor valgkomiteens forslag er lagt frem til gjennomsyn.
+Leder av foretakets øverste myndighet fastsetter tid og sted for valget. I foretak hvor det ikke er utpekt en leder av generalforsamlingen skal vedtektene inneholde bestemmelser om hvordan tid og sted for valget skal fastsettes. Informasjon om valget skal sendes ut senest 14 dager før valget gjennomføres og skal inneholde opplysninger om:
+
+- bestemmelser om stemmerett
+- hvilke tidsrom valget gjelder for og hvem som er på valg
+
+hvor valgkomiteens forslag er lagt frem til gjennomsyn.
 
 ### § 8-3. Unntak fra krav om internrevisjon
 
@@ -526,7 +721,10 @@ Dersom det i henhold til et finansforetaks vedtekter skal være utpekt en leder 
 
 Styremedlemmer, daglig leder og andre som deltar i ledelsen i finansforetak skal sette av tilstrekkelig tid til å utføre sine oppgaver i finansforetaket. Ved vurderingen av hvor mange verv og stillinger en person kan ha i tillegg til vervet eller stillingen i finansforetaket, skal det tas hensyn til individuelle forhold og finansforetakets virksomhet.
 
-Styremedlemmer i finansforetak som i mer enn 12 måneder har hatt en samlet forvaltningskapital høyere enn 200 milliarder kroner beregnet etter reglene i [CRR/CRD IV-forskriften § 30](forskrift/2014-08-22-1097/§30) fjerde ledd, eller i finansforetak som har tillatelse til å benytte IRB-metode, kan ikke inneha flere styreverv enn én av følgende kombinasjonerlederstilling i et annet foretak og to verv som styremedlem eller varamedlemfire verv som styremedlem eller varamedlem.
+Styremedlemmer i finansforetak som i mer enn 12 måneder har hatt en samlet forvaltningskapital høyere enn 200 milliarder kroner beregnet etter reglene i [CRR/CRD IV-forskriften § 30](forskrift/2014-08-22-1097/§30) fjerde ledd, eller i finansforetak som har tillatelse til å benytte IRB-metode, kan ikke inneha flere styreverv enn én av følgende kombinasjoner
+
+1. lederstilling i et annet foretak og to verv som styremedlem eller varamedlem
+2. fire verv som styremedlem eller varamedlem.
 
 Ved beregning av verv etter annet ledd, skal verv i flere foretak innen samme finansielle gruppe regnes som ett verv. Verv i organisasjoner som ikke hovedsakelig driver kommersiell virksomhet skal ikke medregnes.
 
@@ -582,7 +780,11 @@ Likviditetsbufferen skal bestå av eiendeler som kvalifiserer som nivå 1, nivå
 
 ### § 11-3. Derivater
 
-Derivatavtaler som nevnt i [finansforetaksloven § 11-8](lov/2015-04-10-17/§11-8) fjerde ledd kan inngås med:Oppgjørssentraler etablert i EØS eller OECD-områdetStater og sentralbanker i EØS eller OECD-områdetKredittinstitusjoner etablert i EØS eller OECD-området.
+Derivatavtaler som nevnt i [finansforetaksloven § 11-8](lov/2015-04-10-17/§11-8) fjerde ledd kan inngås med:
+
+1. Oppgjørssentraler etablert i EØS eller OECD-området
+2. Stater og sentralbanker i EØS eller OECD-området
+3. Kredittinstitusjoner etablert i EØS eller OECD-området.
 
 Slike motparter skal kvalifisere til risikoklasse 2 eller bedre. Finanstilsynet kan tillate at derivatavtaler inngås med kredittinstitusjoner i risikoklasse 3, dersom det kan påvises konsentrasjonsrisiko ved at bare kredittinstitusjoner i risikoklasse 1 og 2 kan benyttes.
 
@@ -602,9 +804,22 @@ Krav mot kredittforetaket som følge av en derivatavtale, kan for øvrig bare be
 
 For obligasjoner med fortrinnsrett premium, jf. [finansforetaksloven § 11-6](lov/2015-04-10-17/§11-6) tredje ledd, kan sikkerhetsmassen bare bestå av fordringer som oppfyller kravene i kapitalkravsforordningen artikkel 129.
 
-For obligasjoner med fortrinnsrett standard, jf. [finansforetaksloven § 11-6](lov/2015-04-10-17/§11-6) annet ledd, skal fordringer som inngår i sikkerhetsmassen og ikke oppfyller alle kravene nevnt i første ledd, oppfylle minst følgende krav:fordringen skal representere et rettslig bindende betalingskrav,fordringen skal være sikret med pant, eiendeler, panterett eller annen garanti som har tvangskraft og gjør det mulig å inndrive fordringen uten unødig opphold,der fordringen er sikret med fysiske eiendeler, skal eiendelene være omfattet av hensiktsmessige verdsettelsesstandarder og et offentlig register der eierskap og krav er registrert, og belåningsgraden skal ikke overstige 70 prosent av forsvarlig verdigrunnlag, ogder fordringen er et engasjement, skal motparten ha skatterett eller være underlagt offentlig tilsyn.
+For obligasjoner med fortrinnsrett standard, jf. [finansforetaksloven § 11-6](lov/2015-04-10-17/§11-6) annet ledd, skal fordringer som inngår i sikkerhetsmassen og ikke oppfyller alle kravene nevnt i første ledd, oppfylle minst følgende krav:
 
-For obligasjoner med fortrinnsrett standard der engasjementer med eller garantert av offentlige foretak er den dominerende typen fordringer i sikkerhetsmassen, skal følgende vilkår være oppfylt:De offentlige foretakene yter sentrale offentlige tjenester på grunnlag av en lisens, en lisenskontrakt eller en annen form for oppdrag tildelt av en offentlig myndighet.De offentlige foretakene er underlagt offentlig tilsyn.De offentlige foretakene har myndighet til å frembringe tilstrekkelige inntekter, som sikres ved at de offentlige foretakenehar tilstrekkelig fleksibilitet til å innkreve og øke gebyrer, avgifter og fordringer i forbindelse med den ytte tjenesten slik at de kan sikre sin finansielle soliditet og solvens,mottar tilstrekkelige offentlige tilskudd på lovfestet grunnlag slik at de kan sikre sin finansielle soliditet og solvens i bytte mot å te sentrale offentlige tjenester, ellerhar inngått en avtale om resultatoverføring med en offentlig myndighet.
+1. fordringen skal representere et rettslig bindende betalingskrav,
+2. fordringen skal være sikret med pant, eiendeler, panterett eller annen garanti som har tvangskraft og gjør det mulig å inndrive fordringen uten unødig opphold,
+3. der fordringen er sikret med fysiske eiendeler, skal eiendelene være omfattet av hensiktsmessige verdsettelsesstandarder og et offentlig register der eierskap og krav er registrert, og belåningsgraden skal ikke overstige 70 prosent av forsvarlig verdigrunnlag, og
+4. der fordringen er et engasjement, skal motparten ha skatterett eller være underlagt offentlig tilsyn.
+
+For obligasjoner med fortrinnsrett standard der engasjementer med eller garantert av offentlige foretak er den dominerende typen fordringer i sikkerhetsmassen, skal følgende vilkår være oppfylt:
+
+1. De offentlige foretakene yter sentrale offentlige tjenester på grunnlag av en lisens, en lisenskontrakt eller en annen form for oppdrag tildelt av en offentlig myndighet.
+2. De offentlige foretakene er underlagt offentlig tilsyn.
+3. De offentlige foretakene har myndighet til å frembringe tilstrekkelige inntekter, som sikres ved at de offentlige foretakene
+
+   1. har tilstrekkelig fleksibilitet til å innkreve og øke gebyrer, avgifter og fordringer i forbindelse med den ytte tjenesten slik at de kan sikre sin finansielle soliditet og solvens,
+   2. mottar tilstrekkelige offentlige tilskudd på lovfestet grunnlag slik at de kan sikre sin finansielle soliditet og solvens i bytte mot å te sentrale offentlige tjenester, eller
+   3. har inngått en avtale om resultatoverføring med en offentlig myndighet.
 
 Lån med pant i fritidseiendom behandles som lån med pant i bolig som nevnt i [finansforetaksloven § 11-8](lov/2015-04-10-17/§11-8) første ledd bokstav a, men slik at maksimal belåningsgrad for utlån som inngår i sikkerhetsmassen ikke kan overstige 60 prosent av forsvarlig verdigrunnlag.
 
@@ -622,7 +837,42 @@ Utlån som regnes som misligholdt, skal ikke telle med i beregningen av overpant
 
 ### § 11-5. Krav til register og overvåker
 
-Registeret over obligasjoner med fortrinnsrett skal inneholde:En oversikt over utlånene som inneholder opplysninger omlåntakers navn,låntakers fødselsnummer eller organisasjonsnummer,låntakers adresse,opprinnelig og gjenstående lånesum,lånets forfallsstruktur og kontantstrøm,hjemmelshaver, adresse og registerbetegnelse til pantobjektet,verdien av pantobjektet,eventuell garantists navn, organisasjonsnummer og adresse, garantibeløp og garantitype,eventuelle andre krav kredittforetaket har mot låntaker eller hjemmelshaver til pantobjektet, ogstatistiske opplysninger, takster og annet materiale om løpende verdivurdering av pantobjektene som inngår i sikkerhetsmassen.En oversikt over fordringer og forpliktelser i form av derivatavtaler som inneholder opplysninger ommotpartens navn eller firma og eventuelt identitetsnummer, samt sist gjeldende rating,motpartens adresse,opprinnelig og gjenstående kontraktssum,kontraktens forfallsstruktur og kontantstrøm,eventuelt pantobjekts hjemmelshaver, adresse og registerbetegnelse, ogeventuelle andre krav kredittforetaket har mot motparten eller hjemmelshaver til pantobjektet.En oversikt over fordringer som utgjør fyllingssikkerhet som inneholder opplysninger omlåntakers navn eller firma og eventuelt identitetsnummer, samt sist gjeldende rating,låntakers adresse,opprinnelig og gjenstående lånesum,lånets forfallsstruktur og kontantstrøm,eventuelt pantobjekts hjemmelshaver, adresse og registerbetegnelse,eventuell garantists navn eller firma og adresse, ogeventuelle andre krav kredittforetaket har mot låntaker eller hjemmelshaver til pantobjektet.En oversikt over obligasjoner med fortrinnsrett som inneholder opplysninger omnominell verdi,rentebetingelser, ogforfallsdato.
+Registeret over obligasjoner med fortrinnsrett skal inneholde:
+
+1. En oversikt over utlånene som inneholder opplysninger om
+
+   1. låntakers navn,
+   2. låntakers fødselsnummer eller organisasjonsnummer,
+   3. låntakers adresse,
+   4. opprinnelig og gjenstående lånesum,
+   5. lånets forfallsstruktur og kontantstrøm,
+   6. hjemmelshaver, adresse og registerbetegnelse til pantobjektet,
+   7. verdien av pantobjektet,
+   8. eventuell garantists navn, organisasjonsnummer og adresse, garantibeløp og garantitype,
+   9. eventuelle andre krav kredittforetaket har mot låntaker eller hjemmelshaver til pantobjektet, og
+   10. statistiske opplysninger, takster og annet materiale om løpende verdivurdering av pantobjektene som inngår i sikkerhetsmassen.
+2. En oversikt over fordringer og forpliktelser i form av derivatavtaler som inneholder opplysninger om
+
+   1. motpartens navn eller firma og eventuelt identitetsnummer, samt sist gjeldende rating,
+   2. motpartens adresse,
+   3. opprinnelig og gjenstående kontraktssum,
+   4. kontraktens forfallsstruktur og kontantstrøm,
+   5. eventuelt pantobjekts hjemmelshaver, adresse og registerbetegnelse, og
+   6. eventuelle andre krav kredittforetaket har mot motparten eller hjemmelshaver til pantobjektet.
+3. En oversikt over fordringer som utgjør fyllingssikkerhet som inneholder opplysninger om
+
+   1. låntakers navn eller firma og eventuelt identitetsnummer, samt sist gjeldende rating,
+   2. låntakers adresse,
+   3. opprinnelig og gjenstående lånesum,
+   4. lånets forfallsstruktur og kontantstrøm,
+   5. eventuelt pantobjekts hjemmelshaver, adresse og registerbetegnelse,
+   6. eventuell garantists navn eller firma og adresse, og
+   7. eventuelle andre krav kredittforetaket har mot låntaker eller hjemmelshaver til pantobjektet.
+4. En oversikt over obligasjoner med fortrinnsrett som inneholder opplysninger om
+
+   1. nominell verdi,
+   2. rentebetingelser, og
+   3. forfallsdato.
 
 Overvåkeren skal minst hver tredje måned kontrollere at kravene til sikkerhetsmasse, overpantsettelse, likviditet, registrering og investorinformasjon er oppfylt.
 
@@ -672,7 +922,10 @@ For obligasjoner med fortrinnsrett standard der engasjementer med eller garanter
 
 ### § 11-8. Forlengelse av løpetiden
 
-Løpetiden på en obligasjon med fortrinnsrett standard eller premium kan med samtykke fra Finanstilsynet forlenges i 12 måneder når:det er grunn til å anta at kredittforetaket i nær fremtid må ventes å bli kriserammet, jf. [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) andre ledd, og det ikke er rimelig utsikt til at andre tiltak kan forhindre at foretaket blir kriserammet, ellerFinansdepartementet har fattet vedtak etter [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) første ledd eller [finansforetaksloven § 20-29](lov/2015-04-10-17/§20-29) første ledd.
+Løpetiden på en obligasjon med fortrinnsrett standard eller premium kan med samtykke fra Finanstilsynet forlenges i 12 måneder når:
+
+1. det er grunn til å anta at kredittforetaket i nær fremtid må ventes å bli kriserammet, jf. [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) andre ledd, og det ikke er rimelig utsikt til at andre tiltak kan forhindre at foretaket blir kriserammet, eller
+2. Finansdepartementet har fattet vedtak etter [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) første ledd eller [finansforetaksloven § 20-29](lov/2015-04-10-17/§20-29) første ledd.
 
 Forlenget løpetid kan bare benyttes hvis det er rimelig grunn til å anta at forpliktelsene kan dekkes innen 12 måneder.
 
@@ -684,13 +937,29 @@ Ved beregning av likviditetsbufferkravet etter [finansforetaksloven § 11-12](lo
 
 ### § 11-9. Informasjonsplikt for foretak som utsteder obligasjoner med fortrinnsrett
 
-Kredittforetak som utsteder obligasjoner med fortrinnsrett, skal offentliggjøre informasjon som setter investorer i stand til å vurdere OMF-programmets profil og risiko. Informasjonen skal offentliggjøres på foretakets nettsider, oppdateres minst hvert kvartal og omfatte minst følgende opplysninger:verdien av sikkerhetsmassen og utestående obligasjoner med fortrinnsrett,en liste over ISIN-koder for alle utstedte obligasjoner med fortrinnsrett som har et slikt nummer,den geografiske fordelingen av, og typer fordringer i, sikkerhetsmassen, samt størrelsen på fordringene og metode for verdiberegning,nærmere opplysninger om markedsrisiko, herunder renterisiko og valutarisiko, og kreditt- og likviditetsrisiko,forfallstrukturen for fordringene i sikkerhetsmassen og utestående obligasjoner med fortrinnsrett, inkludert en oversikt over kriterier for forlengelse av løpetiden, hvis det er relevant,nivået av påkrevd og tilgjengelig dekning, og av lovbestemt, kontraktbestemt og frivillig overpantsettelse, ogprosentandelen av lån hvor mislighold er vurdert til å ha skjedd i henhold til kapitalkravsforordningen artikkel 178, og i alle tilfeller der lån er mer en nitti dager over forfallsfrist.
+Kredittforetak som utsteder obligasjoner med fortrinnsrett, skal offentliggjøre informasjon som setter investorer i stand til å vurdere OMF-programmets profil og risiko. Informasjonen skal offentliggjøres på foretakets nettsider, oppdateres minst hvert kvartal og omfatte minst følgende opplysninger:
+
+1. verdien av sikkerhetsmassen og utestående obligasjoner med fortrinnsrett,
+2. en liste over ISIN-koder for alle utstedte obligasjoner med fortrinnsrett som har et slikt nummer,
+3. den geografiske fordelingen av, og typer fordringer i, sikkerhetsmassen, samt størrelsen på fordringene og metode for verdiberegning,
+4. nærmere opplysninger om markedsrisiko, herunder renterisiko og valutarisiko, og kreditt- og likviditetsrisiko,
+5. forfallstrukturen for fordringene i sikkerhetsmassen og utestående obligasjoner med fortrinnsrett, inkludert en oversikt over kriterier for forlengelse av løpetiden, hvis det er relevant,
+6. nivået av påkrevd og tilgjengelig dekning, og av lovbestemt, kontraktbestemt og frivillig overpantsettelse, og
+7. prosentandelen av lån hvor mislighold er vurdert til å ha skjedd i henhold til kapitalkravsforordningen artikkel 178, og i alle tilfeller der lån er mer en nitti dager over forfallsfrist.
 
 > Tilføyd ved forskrift [22 juni 2022 nr. 1174](forskrift/2022-06-22-1174) (i kraft 8 juli 2022, se endringsforskriften del III for overgangsbestemmelser).
 
 ### § 11-10. Informasjonsplikt for foretak som har eierinteresser i foretak som utsteder obligasjoner med fortrinnsrett
 
-Finansforetak som har eierinteresser i kredittforetak som utsteder obligasjoner med fortrinnsrett, skal offentliggjøre følgende opplysninger spesifisert på hvert enkelt foretak:overføringsgrad for henholdsvis bolighypoteklån og eiendomshypoteklån, det vil si bolighypoteklån og eiendomshypoteklån som eierforetaket har overført til kredittforetaket som andel av summen av henholdsvis bolighypoteklån og eiendomshypoteklån på eierforetakets balanse og overførte lån,gjennomsnittlig belåningsgrad for henholdsvis bolighypoteklån og eiendomshypoteklån separat for lån på egen balanse og for overførte lån,overpantsettelsesgrad i sikkerhetsmassen,tellende sikkerhetsmasses andel av sikkerhetsmasse totalt,trukket og ubenyttet engasjementsbeløp for henholdsvis likviditetsfasiliteter, garantier og trekkrettigheter overfor kredittforetak,bokført verdi av henholdsvis obligasjoner med fortrinnsrett, aksjer, fondsobligasjonskapital, ansvarlig lånekapital og annen usikret finansiering i kredittforetaket, ogandre forpliktelser overfor kredittforetak som følge av aksjonæravtaler og lignende.
+Finansforetak som har eierinteresser i kredittforetak som utsteder obligasjoner med fortrinnsrett, skal offentliggjøre følgende opplysninger spesifisert på hvert enkelt foretak:
+
+1. overføringsgrad for henholdsvis bolighypoteklån og eiendomshypoteklån, det vil si bolighypoteklån og eiendomshypoteklån som eierforetaket har overført til kredittforetaket som andel av summen av henholdsvis bolighypoteklån og eiendomshypoteklån på eierforetakets balanse og overførte lån,
+2. gjennomsnittlig belåningsgrad for henholdsvis bolighypoteklån og eiendomshypoteklån separat for lån på egen balanse og for overførte lån,
+3. overpantsettelsesgrad i sikkerhetsmassen,
+4. tellende sikkerhetsmasses andel av sikkerhetsmasse totalt,
+5. trukket og ubenyttet engasjementsbeløp for henholdsvis likviditetsfasiliteter, garantier og trekkrettigheter overfor kredittforetak,
+6. bokført verdi av henholdsvis obligasjoner med fortrinnsrett, aksjer, fondsobligasjonskapital, ansvarlig lånekapital og annen usikret finansiering i kredittforetaket, og
+7. andre forpliktelser overfor kredittforetak som følge av aksjonæravtaler og lignende.
 
 For finansforetak som har eierinteresser i kredittforetak som utsteder obligasjoner med fortrinnsrett der sikkerhetsmassen består av andre typer fordringer enn bolighypoteklån og eiendomshypoteklån, jf. [finansforetaksloven § 11-8](lov/2015-04-10-17/§11-8), gjelder første ledd bokstav c til g.
 
@@ -706,7 +975,12 @@ For finansforetak som har eierinteresser i kredittforetak som utsteder obligasjo
 
 [Finansforetaksloven § 11-2](lov/2015-04-10-17/§11-2) annet ledd (krav til samtykke) gjelder ikke ved opptak av annen godkjent kjernekapital, tilleggskapital og gjeldsinstrumenter som kan brukes til å dekke minstekravet etter [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9) første ledd, med unntak av forsikrings- og pensjonsforetak.
 
-Tilbakekjøp og førtidig innfrielse av annen godkjent kjernekapital, tilleggskapital og gjeldsinstrumenter som kan dekke brukes til å minstekravet etter [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9) første ledd, krever ikke samtykke fra Finanstilsynet forutsatt opptak av ny kapital der den nye kapitalener av samme eller bedre kvalitetminst tilsvarer planlagt tilbakekjøpt eller varslet innfridd beløptas opp før eksisterende kapital med bindende virkning varsles innfriddikke har vilkår som gir en negativ effekt på foretakets mulighet til å opprettholde lønnsomheten.
+Tilbakekjøp og førtidig innfrielse av annen godkjent kjernekapital, tilleggskapital og gjeldsinstrumenter som kan dekke brukes til å minstekravet etter [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9) første ledd, krever ikke samtykke fra Finanstilsynet forutsatt opptak av ny kapital der den nye kapitalen
+
+1. er av samme eller bedre kvalitet
+2. minst tilsvarer planlagt tilbakekjøpt eller varslet innfridd beløp
+3. tas opp før eksisterende kapital med bindende virkning varsles innfridd
+4. ikke har vilkår som gir en negativ effekt på foretakets mulighet til å opprettholde lønnsomheten.
 
 > Tilføyd ved forskrift [19 des 2019 nr. 2111](forskrift/2019-12-19-2111) (i kraft 31 des 2019), endret ved forskrifter [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022, se endringsforskriften III for overgangsbestemmelse), [22 juni 2022 nr. 1174](forskrift/2022-06-22-1174) (i kraft 8 juli 2022, tidligere § 11-8).
 
@@ -716,7 +990,28 @@ Tilbakekjøp og førtidig innfrielse av annen godkjent kjernekapital, tilleggska
 
 ### § 11-12. Gjennomføring av EØS-regler som utfyller forordning (EU) 2017/2402  (verdipapiriseringsforordningen)
 
-Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som følger av [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig:[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2019/885](eu/32019r0885) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke opplysninger som skal gis til en vedkommende myndighet i en søknad om godkjenning av en tredjepart som vurderer oppfyllelse av STS-kriteriene[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2019/1851](eu/32019r1851) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for ensartetheten til verdipapiriseringers underliggende eksponeringer, som endret ved:delegert kommisjonsforordning [(EU) 2024/584](eu/32024r0584).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1224](eu/32020r1224) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke opplysninger initiativtakere, organisatorer og spesialforetak for verdipapirisering skal gjøre tilgjengelig om en verdipapirisering[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1225](eu/32020r1225) om fastsettelse av tekniske gjennomføringsstandarder for formatet og standardiserte maler som initiativtakere, organisatorer og spesialforetak for verdipapirisering skal bruke for å gjøre opplysninger om en verdipapirisering tilgjengelig[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1226](eu/32020r1226) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) og om fastsettelse av tekniske reguleringsstandarder som spesifiserer hvilke opplysninger som skal gis i samsvar med kravene til STS-meldinger, som endret ved:delegert kommisjonsforordning [(EU) 2022/1301](eu/32022r1301).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1227](eu/32020r1227) om fastsettelse av tekniske gjennomføringsstandarder for malene for framlegging av opplysninger i samsvar med kravene til STS-meldinger, som endret ved:kommisjonens gjennomføringsforordning [(EU) 2022/1929](eu/32022r1929).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1228](eu/32020r1228) om fastsettelse av tekniske gjennomføringsstandarder for formatet på søknader om registrering som verdipapiriseringsregister eller om utvidelse av en registrering av et transaksjonsregister i samsvar med europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402)[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1229](eu/32020r1229) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for verdipapiriseringsregistres operasjonelle standarder for innsamling, aggregering og sammenligning av data, tilgang til data og kontroll av dataenes fullstendighet og konsistens[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1230](eu/32020r1230) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som angir hvilke opplysninger som skal inngå i søknaden om registrering av et verdipapiriseringsregister, og hvilke opplysninger som skal inngå i en forenklet søknad om utvidelse av registreringen av et transaksjonsregister[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1732](eu/32020r1732) av 18. september 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til avgifter som Den europeiske verdipapir- og markedstilsynsmyndighet pålegger verdipapiriseringsregistre[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2021/1415](eu/32021r1415) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for samarbeid, utveksling av opplysninger og underretningsplikt mellom vedkommende myndigheter og ESMA, EBA og EIOPA[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2023/2175](eu/32023r2175) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som nærmere spesifiserer kravene om tilbakeholdelse av risiko for initiativtakere, organisatorer, opprinnelige långivere og forvaltere[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2024/1700](eu/32024r1700) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som for enkle, gjennomsiktige og standardiserte tradisjonelle ikke-ABCP-verdipapiriseringer og enkle, gjennomsiktige og standardiserte balanseførte verdipapiriseringer spesifiserer innholdet i, metodene for og presentasjonen av opplysninger om de viktigste negative påvirkningene på bærekraftsfaktorer av eiendelene som finansieres av de underliggende eksponeringene[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2024/920](eu/32024r0920) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer resultatrelaterte utløsende faktorer og kriteriene for kalibrering av disse utløsende faktorene.
+Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som følger av [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig:
+
+1. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2019/885](eu/32019r0885) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke opplysninger som skal gis til en vedkommende myndighet i en søknad om godkjenning av en tredjepart som vurderer oppfyllelse av STS-kriteriene
+2. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2019/1851](eu/32019r1851) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for ensartetheten til verdipapiriseringers underliggende eksponeringer, som endret ved:
+
+   1. delegert kommisjonsforordning [(EU) 2024/584](eu/32024r0584).
+3. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1224](eu/32020r1224) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke opplysninger initiativtakere, organisatorer og spesialforetak for verdipapirisering skal gjøre tilgjengelig om en verdipapirisering
+4. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1225](eu/32020r1225) om fastsettelse av tekniske gjennomføringsstandarder for formatet og standardiserte maler som initiativtakere, organisatorer og spesialforetak for verdipapirisering skal bruke for å gjøre opplysninger om en verdipapirisering tilgjengelig
+5. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1226](eu/32020r1226) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) og om fastsettelse av tekniske reguleringsstandarder som spesifiserer hvilke opplysninger som skal gis i samsvar med kravene til STS-meldinger, som endret ved:
+
+   1. delegert kommisjonsforordning [(EU) 2022/1301](eu/32022r1301).
+6. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1227](eu/32020r1227) om fastsettelse av tekniske gjennomføringsstandarder for malene for framlegging av opplysninger i samsvar med kravene til STS-meldinger, som endret ved:
+
+   1. kommisjonens gjennomføringsforordning [(EU) 2022/1929](eu/32022r1929).
+7. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) kommisjonens gjennomføringsforordning [(EU) 2020/1228](eu/32020r1228) om fastsettelse av tekniske gjennomføringsstandarder for formatet på søknader om registrering som verdipapiriseringsregister eller om utvidelse av en registrering av et transaksjonsregister i samsvar med europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402)
+8. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1229](eu/32020r1229) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for verdipapiriseringsregistres operasjonelle standarder for innsamling, aggregering og sammenligning av data, tilgang til data og kontroll av dataenes fullstendighet og konsistens
+9. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1230](eu/32020r1230) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som angir hvilke opplysninger som skal inngå i søknaden om registrering av et verdipapiriseringsregister, og hvilke opplysninger som skal inngå i en forenklet søknad om utvidelse av registreringen av et transaksjonsregister
+10. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2020/1732](eu/32020r1732) av 18. september 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til avgifter som Den europeiske verdipapir- og markedstilsynsmyndighet pålegger verdipapiriseringsregistre
+11. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2021/1415](eu/32021r1415) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder for samarbeid, utveksling av opplysninger og underretningsplikt mellom vedkommende myndigheter og ESMA, EBA og EIOPA
+12. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2023/2175](eu/32023r2175) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som nærmere spesifiserer kravene om tilbakeholdelse av risiko for initiativtakere, organisatorer, opprinnelige långivere og forvaltere
+13. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2024/1700](eu/32024r1700) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som for enkle, gjennomsiktige og standardiserte tradisjonelle ikke-ABCP-verdipapiriseringer og enkle, gjennomsiktige og standardiserte balanseførte verdipapiriseringer spesifiserer innholdet i, metodene for og presentasjonen av opplysninger om de viktigste negative påvirkningene på bærekraftsfaktorer av eiendelene som finansieres av de underliggende eksponeringene
+14. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2024/920](eu/32024r0920) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/2402](eu/32017r2402) med hensyn til tekniske reguleringsstandarder som spesifiserer resultatrelaterte utløsende faktorer og kriteriene for kalibrering av disse utløsende faktorene.
 
 > Tilføyd ved forskrift [24 juli 2025 nr. 1556](forskrift/2025-07-24-1556) (i kraft 1 aug 2025).
 
@@ -746,7 +1041,13 @@ Pensjonsforetak kan bare overta pensjonsordning med tilhørende eiendeler og for
 
 Før tillatelse kan gis skal Finanstilsynet innhente forhåndssamtykke fra tilsynsmyndighetene i hjemstaten til pensjonsforetaket som ordningen overdras fra.
 
-Søknad om tillatelse skal avslås hvis Finanstilsynet finner atkostnadene ved overdragelsen belastes medlemmer eller pensjonister i de involverte pensjonsforetakene,pensjonsforetakets virksomhet, finansielle stilling eller ledelsens egnethet ikke er forenlig med den planlagte overtakelsen,de langsiktige interessene til eksisterende medlemmer og til medlemmer i pensjonsordningen som overdras, ikke er tilstrekkelig beskyttet,pensjonsforetaket ikke oppfyller kravene til ansvarlig kapital på overdragelsestidspunktet,eiendelene som skal overdras ikke er tilstrekkelige og hensiktsmessige til å dekke forpliktelser, avsetninger og rettigheter.
+Søknad om tillatelse skal avslås hvis Finanstilsynet finner at
+
+1. kostnadene ved overdragelsen belastes medlemmer eller pensjonister i de involverte pensjonsforetakene,
+2. pensjonsforetakets virksomhet, finansielle stilling eller ledelsens egnethet ikke er forenlig med den planlagte overtakelsen,
+3. de langsiktige interessene til eksisterende medlemmer og til medlemmer i pensjonsordningen som overdras, ikke er tilstrekkelig beskyttet,
+4. pensjonsforetaket ikke oppfyller kravene til ansvarlig kapital på overdragelsestidspunktet,
+5. eiendelene som skal overdras ikke er tilstrekkelige og hensiktsmessige til å dekke forpliktelser, avsetninger og rettigheter.
 
 Finanstilsynet skal treffe vedtak innen tre måneder etter at det har mottatt fullstendig søknad. Hvis det ikke er fattet vedtak innen nevnte frist, regnes dette som et avslag som kan påklages.
 
@@ -756,7 +1057,15 @@ Ved overdragelse av pensjonsordning som er underlagt lovgivningen i en annen EØ
 
 ### § 12-4. Krav til søknad
 
-Søknad etter [§ 12-3](forskrift/2016-12-09-1502/§12-3) skal inneholdeoverdragelsesavtalen mellom pensjonsforetakene,en beskrivelse av pensjonsordningen som skal overdras,en beskrivelse av pensjonsforpliktelsene eller avsetningene som skal overdras, andre forpliktelser og rettigheter samt tilhørende eiendeler,hvilken medlemsstat pensjonsforetaket som ordningen overdras fra er registrert i eller har tillatelse fra, og adressen til foretakets hovedkontor,navn på arbeidsgiverforetaket og adressen til arbeidsgiverforetakets hovedkontor,dokumentasjon fra pensjonsforetaket som pensjonsordningen overdras fra om at arbeidsgiverforetaket og et flertall av medlemmene har gitt forhåndsgodkjennelse til overdragelsen etter lovgivningen som gjelder for pensjonsordningen,opplysninger om relevant lovgivning som gjelder for pensjonsordningen.
+Søknad etter [§ 12-3](forskrift/2016-12-09-1502/§12-3) skal inneholde
+
+1. overdragelsesavtalen mellom pensjonsforetakene,
+2. en beskrivelse av pensjonsordningen som skal overdras,
+3. en beskrivelse av pensjonsforpliktelsene eller avsetningene som skal overdras, andre forpliktelser og rettigheter samt tilhørende eiendeler,
+4. hvilken medlemsstat pensjonsforetaket som ordningen overdras fra er registrert i eller har tillatelse fra, og adressen til foretakets hovedkontor,
+5. navn på arbeidsgiverforetaket og adressen til arbeidsgiverforetakets hovedkontor,
+6. dokumentasjon fra pensjonsforetaket som pensjonsordningen overdras fra om at arbeidsgiverforetaket og et flertall av medlemmene har gitt forhåndsgodkjennelse til overdragelsen etter lovgivningen som gjelder for pensjonsordningen,
+7. opplysninger om relevant lovgivning som gjelder for pensjonsordningen.
 
 > Tilføyd ved forskrift [22 juni 2022 nr. 1139](forskrift/2022-06-22-1139) (i kraft 1 jan 2023).
 
@@ -764,7 +1073,11 @@ Søknad etter [§ 12-3](forskrift/2016-12-09-1502/§12-3) skal inneholdeoverdrag
 
 Avtale om overdragelse av pensjonsordning hvor forpliktelsen består i Norge, kan bare inngås hvis arbeidsgiverforetaket og et flertall av medlemmene og et flertall av de forsikrede godkjenner avtalen. Som godkjennelse fra et flertall av medlemmene regnes også godkjennelse fra arbeidstakerrepresentanter som representerer et flertall av medlemmene. Avtale om overdragelse av pensjonsordning hvor forpliktelsen består i annen EØS-stat, skal følge regler om godkjenning der forpliktelsene består.
 
-Etter anmodning fra tilsynsmyndigheten i hjemstaten til det overtakende pensjonsforetaket, skal Finanstilsynet gi forhåndssamtykke til overdragelsen. Slikt forhåndssamtykke kan ikke gis hvis Finanstilsynet finner atde langsiktige interessene til eventuelle gjenværende medlemmer og forsikrede, ikke er tilstrekkelig beskyttet,medlemmenes eller de forsikredes individuelle rettigheter ikke er de samme etter overdragelsen,eiendelene som skal overdras ikke er tilstrekkelige og hensiktsmessige til å dekke forpliktelsene som overdras.
+Etter anmodning fra tilsynsmyndigheten i hjemstaten til det overtakende pensjonsforetaket, skal Finanstilsynet gi forhåndssamtykke til overdragelsen. Slikt forhåndssamtykke kan ikke gis hvis Finanstilsynet finner at
+
+1. de langsiktige interessene til eventuelle gjenværende medlemmer og forsikrede, ikke er tilstrekkelig beskyttet,
+2. medlemmenes eller de forsikredes individuelle rettigheter ikke er de samme etter overdragelsen,
+3. eiendelene som skal overdras ikke er tilstrekkelige og hensiktsmessige til å dekke forpliktelsene som overdras.
 
 > Tilføyd ved forskrift [22 juni 2022 nr. 1139](forskrift/2022-06-22-1139) (i kraft 1 jan 2023).
 
@@ -780,11 +1093,21 @@ Bestemmelsene i § 12-3 til § 12-5 gjelder tilsvarende for overdragelse av port
 
 I finansforetak som i mer enn 12 måneder har hatt en forvaltningskapital lavere enn 20 milliarder kroner kan det samlede styret fungere som foretakets risikoutvalg.
 
-Med mindre Finanstilsynet bestemmer noe annet gjelder krav om risikoutvalg ikke for:finansforetak som er heleid datterforetak i finanskonsern hvor morselskapet har et risikoutvalg som vurderer risiko og kapitalbehov etter [finansforetaksloven § 13-6](lov/2015-04-10-17/§13-6) for gruppen under ettkredittforetak som utsteder obligasjoner med fortrinnsrettfinansieringsforetak som ikke har aksjer eller egenkapitalbevis notert på regulert marked, eller utestående obligasjoner eller sertifikater med samlet pålydende på 100 millioner euro eller mer.
+Med mindre Finanstilsynet bestemmer noe annet gjelder krav om risikoutvalg ikke for:
+
+1. finansforetak som er heleid datterforetak i finanskonsern hvor morselskapet har et risikoutvalg som vurderer risiko og kapitalbehov etter [finansforetaksloven § 13-6](lov/2015-04-10-17/§13-6) for gruppen under ett
+2. kredittforetak som utsteder obligasjoner med fortrinnsrett
+3. finansieringsforetak som ikke har aksjer eller egenkapitalbevis notert på regulert marked, eller utestående obligasjoner eller sertifikater med samlet pålydende på 100 millioner euro eller mer.
 
 ### § 13-2. Risikoutvalgets oppgaver
 
-Risikoutvalget skal:forberede styrets vurdering av risiko og samlet kapitalbehov,ha jevnlig kontakt med risikokontrollfunksjonen og motta relevant rapportering fra foretakets kontrollfunksjoner,minst årlig gjennomgå foretakets risikopolicyer,overvåke at foretakets risikopolicyer følges,vurdere om prisingen av foretakets produkter tar hensyn til foretakets forretningsmodell og risikostrategi.
+Risikoutvalget skal:
+
+1. forberede styrets vurdering av risiko og samlet kapitalbehov,
+2. ha jevnlig kontakt med risikokontrollfunksjonen og motta relevant rapportering fra foretakets kontrollfunksjoner,
+3. minst årlig gjennomgå foretakets risikopolicyer,
+4. overvåke at foretakets risikopolicyer følges,
+5. vurdere om prisingen av foretakets produkter tar hensyn til foretakets forretningsmodell og risikostrategi.
 
 ### § 13-3. Sikring av betalingsmidler i betalingsforetak og e-pengeforetak
 
@@ -808,7 +1131,14 @@ Styret skal sørge for forsvarlig organisering av virksomheten i samsvar med bes
 
 ### § 13-6. Retningslinjer for aktivt aksjeeierskap
 
-Retningslinjer for aktivt aksjeeierskap som nevnt i [finansforetaksloven § 13-22](lov/2015-04-10-17/§13-22) skal beskrive følgende:hvordan aktivt eierskap integreres i investeringsstrategien,hvordan foretakene overvåker selskaper det investeres i på relevante områder,hvordan foretakene fører dialog med selskapene det investeres i,utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,samarbeid og kommunikasjon med andre aksjeeiere og interessenter, oghvordan foretakene håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
+Retningslinjer for aktivt aksjeeierskap som nevnt i [finansforetaksloven § 13-22](lov/2015-04-10-17/§13-22) skal beskrive følgende:
+
+1. hvordan aktivt eierskap integreres i investeringsstrategien,
+2. hvordan foretakene overvåker selskaper det investeres i på relevante områder,
+3. hvordan foretakene fører dialog med selskapene det investeres i,
+4. utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,
+5. samarbeid og kommunikasjon med andre aksjeeiere og interessenter, og
+6. hvordan foretakene håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
 
 Livsforsikringsforetak og pensjonsforetak skal årlig offentliggjøre hvordan retningslinjene etter første ledd er gjennomført, herunder opplyse om stemmegivning, de viktigste avstemningene og bruken av rådgivende stedfortredere.
 
@@ -820,7 +1150,13 @@ Dersom en forvalter gjennomfører strategien for aktivt aksjeeierskap, herunder 
 
 Redegjørelsen etter [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) første ledd skal vise hvordan hovedelementene i investeringsstrategien er i samsvar med profilen og varigheten av foretakets forpliktelser, særlig langsiktige forpliktelser, og hvordan strategien bidrar til inntjening på mellomlang til lang sikt.
 
-Informasjon om hovedelementene i en avtale om utkontraktering av forvaltningen etter [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd skal omfatte følgende:hvordan avtalen sikrer at forvalteren tilpasser forvaltningen til profilen og varigheten av pensjonsforetakets og livsforsikringsforetakets forpliktelser, særlig langsiktige forpliktelser,hvordan avtalen gir forvalteren insitament til å ta investeringsbeslutninger basert på vurderinger av det finansielle og ikke-finansielle resultat på mellomlang til lang sikt hos selskapet det investeres i, og til å engasjere seg i investeringsselskaper for å forbedre deres resultat på mellomlang til lang sikt,hvordan metoden og tidshorisonten for vurderingen av forvalterens resultater og godtgjørelse for forvalterens tjenester er i samsvar med profilen og varigheten av livsforsikringsforetakets og pensjonsforetakets forpliktelser, særlig langsiktige forpliktelser, og tar hensyn til absolutte langsiktige resultater,hvordan livsforsikringsforetaket og pensjonsforetaket overvåker transaksjonskostnader som forvalteren påfører porteføljen, og hvordan den definerer og overvåker en tilsiktet omløpshastighet i porteføljen eller et intervall for omløpshastighet, ogvarigheten av avtalen med kapitalforvalteren.
+Informasjon om hovedelementene i en avtale om utkontraktering av forvaltningen etter [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd skal omfatte følgende:
+
+1. hvordan avtalen sikrer at forvalteren tilpasser forvaltningen til profilen og varigheten av pensjonsforetakets og livsforsikringsforetakets forpliktelser, særlig langsiktige forpliktelser,
+2. hvordan avtalen gir forvalteren insitament til å ta investeringsbeslutninger basert på vurderinger av det finansielle og ikke-finansielle resultat på mellomlang til lang sikt hos selskapet det investeres i, og til å engasjere seg i investeringsselskaper for å forbedre deres resultat på mellomlang til lang sikt,
+3. hvordan metoden og tidshorisonten for vurderingen av forvalterens resultater og godtgjørelse for forvalterens tjenester er i samsvar med profilen og varigheten av livsforsikringsforetakets og pensjonsforetakets forpliktelser, særlig langsiktige forpliktelser, og tar hensyn til absolutte langsiktige resultater,
+4. hvordan livsforsikringsforetaket og pensjonsforetaket overvåker transaksjonskostnader som forvalteren påfører porteføljen, og hvordan den definerer og overvåker en tilsiktet omløpshastighet i porteføljen eller et intervall for omløpshastighet, og
+5. varigheten av avtalen med kapitalforvalteren.
 
 Dersom avtalen med forvalteren ikke inneholder ett eller flere av elementene som nevnt i annet ledd, skal livsforsikringsforetaket og pensjonsforetaket gi en klar og begrunnet forklaring på hvorfor det er tilfellet.
 
@@ -846,7 +1182,10 @@ Finanstilsynet kan bestemme at første og annet ledd også skal gjelde holdingfo
 
 ### § 14-2. Ansvarlig kapital i betalingsforetak
 
-Et betalingsforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av:et beløp tilsvarende startkapitalen, jf. [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4), ellerdet høyeste beløp som fremkommer etter beregning i henhold til bokstav a, b eller c i § 14-4 første ledd.
+Et betalingsforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av:
+
+1. et beløp tilsvarende startkapitalen, jf. [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4), eller
+2. det høyeste beløp som fremkommer etter beregning i henhold til bokstav a, b eller c i § 14-4 første ledd.
 
 Betalingsforetak med begrenset tillatelse skal ha ansvarlig kapital som angitt i [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4) annet ledd bokstav a.
 
@@ -860,7 +1199,13 @@ Finanstilsynet kan fastsette vilkår for oppfyllelse av kapitalkravene når beta
 
 ### § 14-3. Ansvarlig kapital i e-pengeforetak
 
-E-pengeforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av følgende beløp:startkapitalen, jf. [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4), ellersummen avto prosent av gjennomsnittsverdien for de siste seks måneder av e-pengeforetakets gjeld knyttet til utestående elektroniske penger, ogdet høyeste beløp som fremkommer etter beregning i henhold til bokstav a, b eller c i § 14-4 første ledd for eventuell betalingstjenestevirksomhet som foretaket driver og som ikke er knyttet til utstedelsen av e-penger.
+E-pengeforetak skal til enhver tid ha en ansvarlig kapital som minst utgjør det høyeste av følgende beløp:
+
+1. startkapitalen, jf. [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4), eller
+2. summen av
+
+   - to prosent av gjennomsnittsverdien for de siste seks måneder av e-pengeforetakets gjeld knyttet til utestående elektroniske penger, og
+   - det høyeste beløp som fremkommer etter beregning i henhold til bokstav a, b eller c i § 14-4 første ledd for eventuell betalingstjenestevirksomhet som foretaket driver og som ikke er knyttet til utstedelsen av e-penger.
 
 Med *ansvarlig kapital* menes kjernekapital og tilleggskapital som nevnt i CRR artikkel 4 nr. 1 punkt 118, jf. CRR andre del, jf. [CRR/CRD IV-forskriften § 2](forskrift/2014-08-22-1097/§2) første ledd. Kjernekapitalen skal bestå av minst 75 prosent ren kjernekapital. Tilleggskapitalen kan maksimalt utgjøre et beløp som tilsvarer en tredjedel av kjernekapitalen.
 
@@ -870,9 +1215,39 @@ Finanstilsynet kan fastsette vilkår for oppfyllelse av kapitalkravene når e-pe
 
 ### § 14-4. Beregning av krav til ansvarlig kapital for betalingsforetak og e-pengeforetak
 
-Betalingsforetak og e-pengeforetak skal til enhver tid inneha en ansvarlig kapital beregnet i samsvar med bokstav a, b eller c nedenfor:Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst 10 prosent av det foregående års faste kostnader. Finanstilsynet kan tilpasse dette kravet ved vesentlige endringer i et betalingsforetaks eller e-pengeforetaks virksomhet i forhold til foregående år. Når et betalingsforetak eller e-pengeforetak har utøvd sin virksomhet i mindre enn ett år på beregningstidspunktet, skal kravet være at betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst 10 prosent av de tilsvarende faste kostnadene som forespeilet i forretningsplanen, med mindre vedkommende myndigheter krever en justering av nevnte plan.Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst summen av følgende poster multiplisert med faktoren k definert i annet ledd, der betalingsvolum (BV) representerer en tolvtedel av det samlede beløpet av betalingstransaksjoner utført av betalingsforetaket i foregående år:4,0 prosent av den del av BV som ikke overstiger 5 millioner euro,2,5 prosent av den del av BV over 5 millioner euro som ikke overstiger 10 millioner euro,1 prosent av den del av BV over 10 millioner euro som ikke overstiger 100 millioner euro,0,5 prosent av den del av BV over 100 millioner euro som ikke overstiger 250 millioner euro og0,25 prosent av den del av BV som overstiger 250 millioner euro.Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal minst beløpe seg til relevant indikator som definert under bokstav a, multiplisert med den multipliseringsfaktoren som er definert under bokstav b og med faktoren k definert i annet ledd.Relevant indikator er summen av følgende:renteinntekter,rentekostnader,mottatte provisjoner og honorarer, ogandre driftsinntekter.Alle postene skal medregnes i summen, sammen med dens positive eller negative fortegn. Inntekter fra ekstraordinære eller irregulære poster kan ikke benyttes til beregning av relevant indikator. Utgifter ved driftsutsetting av tjenester som utføres av tredjemenn, kan redusere relevant indikator dersom utgiftene er pådratt fra et foretak som er underlagt tilsyn i henhold til EØS-regler som svarer til direktiv [2007/64/EF](eu/32007l0064*). Relevant indikator blir beregnet på grunnlag av observasjon over tolv måneder ved avslutningen av forrige regnskapsår. Relevant indikator skal beregnes over forrige regnskapsår. Ansvarlig kapital som er beregnet i overensstemmelse med metode c, skal likevel ikke være mindre enn 80 prosent av gjennomsnittet av de tre forrige regnskapsårene for relevant indikator. Når reviderte tall ikke er tilgjengelig, kan virksomhetsestimater benyttes.Multipliseringsfaktoren skal være10 prosent av den del av relevant indikator som ikke overstiger 2,5 millioner euro,8 prosent av den del av relevant indikator som er over 2,5 millioner euro og ikke overstiger 5 millioner euro,6 prosent av den del av relevant indikator som er over 5 millioner euro og ikke overstiger 25 millioner euro,3 prosent av den del av relevant indikator som er over 25 millioner euro og ikke overstiger 50 millioner euro,1,5 prosent over 50 millioner euro.
+Betalingsforetak og e-pengeforetak skal til enhver tid inneha en ansvarlig kapital beregnet i samsvar med bokstav a, b eller c nedenfor:
 
-Faktoren k som skal benyttes etter første ledd bokstav b og c, skal være0,5 i de tilfeller der foretaket bare yter de betalingstjenestene som er oppført i [finansavtaleloven § 11](lov/1999-06-25-46/§11) første ledd bokstav d,1,0 i de tilfeller der foretaket yter de betalingstjenestene som er oppført i [finansavtaleloven § 11](lov/1999-06-25-46/§11) første ledd bokstav a-c.
+1. Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst 10 prosent av det foregående års faste kostnader. Finanstilsynet kan tilpasse dette kravet ved vesentlige endringer i et betalingsforetaks eller e-pengeforetaks virksomhet i forhold til foregående år. Når et betalingsforetak eller e-pengeforetak har utøvd sin virksomhet i mindre enn ett år på beregningstidspunktet, skal kravet være at betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst 10 prosent av de tilsvarende faste kostnadene som forespeilet i forretningsplanen, med mindre vedkommende myndigheter krever en justering av nevnte plan.
+2. Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal beløpe seg til minst summen av følgende poster multiplisert med faktoren k definert i annet ledd, der betalingsvolum (BV) representerer en tolvtedel av det samlede beløpet av betalingstransaksjoner utført av betalingsforetaket i foregående år:
+
+   1. 4,0 prosent av den del av BV som ikke overstiger 5 millioner euro,
+   2. 2,5 prosent av den del av BV over 5 millioner euro som ikke overstiger 10 millioner euro,
+   3. 1 prosent av den del av BV over 10 millioner euro som ikke overstiger 100 millioner euro,
+   4. 0,5 prosent av den del av BV over 100 millioner euro som ikke overstiger 250 millioner euro og
+   5. 0,25 prosent av den del av BV som overstiger 250 millioner euro.
+3. Betalingsforetakets eller e-pengeforetakets ansvarlige kapital skal minst beløpe seg til relevant indikator som definert under bokstav a, multiplisert med den multipliseringsfaktoren som er definert under bokstav b og med faktoren k definert i annet ledd.
+
+   1. Relevant indikator er summen av følgende:
+
+      - renteinntekter,
+      - rentekostnader,
+      - mottatte provisjoner og honorarer, og
+      - andre driftsinntekter.
+
+   Alle postene skal medregnes i summen, sammen med dens positive eller negative fortegn. Inntekter fra ekstraordinære eller irregulære poster kan ikke benyttes til beregning av relevant indikator. Utgifter ved driftsutsetting av tjenester som utføres av tredjemenn, kan redusere relevant indikator dersom utgiftene er pådratt fra et foretak som er underlagt tilsyn i henhold til EØS-regler som svarer til direktiv [2007/64/EF](eu/32007l0064*). Relevant indikator blir beregnet på grunnlag av observasjon over tolv måneder ved avslutningen av forrige regnskapsår. Relevant indikator skal beregnes over forrige regnskapsår. Ansvarlig kapital som er beregnet i overensstemmelse med metode c, skal likevel ikke være mindre enn 80 prosent av gjennomsnittet av de tre forrige regnskapsårene for relevant indikator. Når reviderte tall ikke er tilgjengelig, kan virksomhetsestimater benyttes.
+
+   1. Multipliseringsfaktoren skal være
+
+      1. 10 prosent av den del av relevant indikator som ikke overstiger 2,5 millioner euro,
+      2. 8 prosent av den del av relevant indikator som er over 2,5 millioner euro og ikke overstiger 5 millioner euro,
+      3. 6 prosent av den del av relevant indikator som er over 5 millioner euro og ikke overstiger 25 millioner euro,
+      4. 3 prosent av den del av relevant indikator som er over 25 millioner euro og ikke overstiger 50 millioner euro,
+      5. 1,5 prosent over 50 millioner euro.
+
+Faktoren k som skal benyttes etter første ledd bokstav b og c, skal være
+
+1. 0,5 i de tilfeller der foretaket bare yter de betalingstjenestene som er oppført i [finansavtaleloven § 11](lov/1999-06-25-46/§11) første ledd bokstav d,
+2. 1,0 i de tilfeller der foretaket yter de betalingstjenestene som er oppført i [finansavtaleloven § 11](lov/1999-06-25-46/§11) første ledd bokstav a-c.
 
 > Endret ved forskrift [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019).
 
@@ -888,13 +1263,31 @@ Foretaket skal offentliggjøre på sine hjemmesider hvordan det oppfyller kraven
 
 Godtgjørelse omfatter alle godtgjørelser og fordeler til en ansatt, herunder lønn og andre kontantgodtgjørelser, naturalytelser, godtgjørelse i form av aksjer eller andre egenkapitalinstrumenter, tegningsretter og opsjoner og andre former for godtgjørelse som er knyttet til aksjer eller utviklingen av aksjekursen i foretaket eller i andre foretak innenfor samme konsern. pensjonsordninger og sluttvederlag.
 
-Godtgjørelsesordninger skal oppfylle følgende generelle krav:godtgjørelsesordningen skal være i samsvar med og fremme forsvarlig og effektiv styring av risiko, og motvirke for høy risikotakinggodtgjørelsesordningen skal være i samsvar med foretakets forretningsstrategi, mål og langsiktige interesser, og bidra til å unngå interessekonflikterstyret skal fastsette og regelmessig evaluere prinsippene for godtgjørelsesordningen, og ha ansvar for å overvåke praktiseringen av denminst én gang i året skal det gjennomføres en uavhengig intern kontroll av om praktiseringen av godtgjørelsesordningen er i tråd med styrets fastsatte prinsipper og retningslinjeransatte som utfører kontrollfunksjoner, skal være uavhengig av forretningsområdene de kontrollerer, ha tilstrekkelig myndighet til å utføre sine oppgaver, og godtgjøres i samsvar med måloppnåelse knyttet til deres funksjoner uavhengig av resultatet i forretningsområdet de kontrollerergodtgjørelsen til øverste ledelse i risikostyrings- og etterlevelsesfunksjonene skal være underlagt direkte tilsyn av godtgjørelsesutvalget, eller av styret dersom et godtgjørelsesutvalg ikke er opprettetgodtgjørelsesordningen skal skille klart mellom kriteriene for å fastsette henholdsvis fast og variabel godtgjørelse, slik atden faste godtgjørelsen primært fastsettes på bakgrunn av relevant erfaring og avtalte arbeids- og ansvarsoppgaver, ogden variable godtgjørelsen gjenspeiler bærekraftige og risikotilpassede prestasjoner, samt prestasjoner utover det som kreves for å oppfylle avtalte arbeids- og ansvarsoppgaver.
+Godtgjørelsesordninger skal oppfylle følgende generelle krav:
+
+1. godtgjørelsesordningen skal være i samsvar med og fremme forsvarlig og effektiv styring av risiko, og motvirke for høy risikotaking
+2. godtgjørelsesordningen skal være i samsvar med foretakets forretningsstrategi, mål og langsiktige interesser, og bidra til å unngå interessekonflikter
+3. styret skal fastsette og regelmessig evaluere prinsippene for godtgjørelsesordningen, og ha ansvar for å overvåke praktiseringen av den
+4. minst én gang i året skal det gjennomføres en uavhengig intern kontroll av om praktiseringen av godtgjørelsesordningen er i tråd med styrets fastsatte prinsipper og retningslinjer
+5. ansatte som utfører kontrollfunksjoner, skal være uavhengig av forretningsområdene de kontrollerer, ha tilstrekkelig myndighet til å utføre sine oppgaver, og godtgjøres i samsvar med måloppnåelse knyttet til deres funksjoner uavhengig av resultatet i forretningsområdet de kontrollerer
+6. godtgjørelsen til øverste ledelse i risikostyrings- og etterlevelsesfunksjonene skal være underlagt direkte tilsyn av godtgjørelsesutvalget, eller av styret dersom et godtgjørelsesutvalg ikke er opprettet
+7. godtgjørelsesordningen skal skille klart mellom kriteriene for å fastsette henholdsvis fast og variabel godtgjørelse, slik at
+
+   1. den faste godtgjørelsen primært fastsettes på bakgrunn av relevant erfaring og avtalte arbeids- og ansvarsoppgaver, og
+   2. den variable godtgjørelsen gjenspeiler bærekraftige og risikotilpassede prestasjoner, samt prestasjoner utover det som kreves for å oppfylle avtalte arbeids- og ansvarsoppgaver.
 
 > Endret ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022, se endringsforskriften III for overgangsbestemmelse).
 
 ### § 15-2. Ansatte med vesentlig innvirkning på foretakets risikoprofil
 
-Som ansatte med vesentlig innvirkning på foretakets risikoprofil regnes:medlemmer av styret og daglig ledelseansatte med lederansvar for foretakets kontrollfunksjoner eller vesentlige forretningsenheter,ansatte som har rett til en betydelig godtgjørelse i det forutgående regnskapsåret, forutsatt atsamlet godtgjørelse til den ansatte er lik eller høyere enn 500 000 euro, og er lik eller høyere enn gjennomsnittlig godtgjørelse til personer som nevnt i bokstav a, ogden ansatte utfører arbeid i en vesentlig forretningsenhet og arbeidets art har vesentlig innflytelse på forretningsenhetens risikoprofil.
+Som ansatte med vesentlig innvirkning på foretakets risikoprofil regnes:
+
+1. medlemmer av styret og daglig ledelse
+2. ansatte med lederansvar for foretakets kontrollfunksjoner eller vesentlige forretningsenheter,
+3. ansatte som har rett til en betydelig godtgjørelse i det forutgående regnskapsåret, forutsatt at
+
+   1. samlet godtgjørelse til den ansatte er lik eller høyere enn 500 000 euro, og er lik eller høyere enn gjennomsnittlig godtgjørelse til personer som nevnt i bokstav a, og
+   2. den ansatte utfører arbeid i en vesentlig forretningsenhet og arbeidets art har vesentlig innflytelse på forretningsenhetens risikoprofil.
 
 > Endret ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022, se endringsforskriften III for overgangsbestemmelse).
 
@@ -920,7 +1313,14 @@ Garantert variabel godtgjørelse skal ikke inngå som en del av foretakets vanli
 
 Sammensetningen av fast og variabel godtgjørelse skal være balansert. Den faste delen av godtgjørelsen skal være tilstrekkelig høy til at foretaket kan unnlate å utbetale den variable delen av godtgjørelsen i sin helhet.
 
-For daglig leder og ansatte med lederansvar for foretakets kontrollfunksjoner eller vesentlige forretningsenheter i en bank skal det fastsettes at variabel godtgjørelse ikke kan utgjøre mer enn halvparten av den faste godtgjørelsen. For øvrig skal den variable godtgjørelsen ikke utgjøre mer enn 100 prosent av den faste godtgjørelsen. Generalforsamlingen eller tilsvarende organ kan likevel beslutte at variabel godtgjørelse kan utgjøre inntil 200 prosent av den faste godtgjørelsen, forutsatt at:styret i foretaket har gitt en begrunnet anbefaling av løsningen og omfanget, herunder skal anbefalingen angi antall personer som vil omfattes, og deres arbeidsområde, samt forventet effekt på krav om et forsvarlig kapitalgrunnlaggeneralforsamlingens beslutning er gitt med tilslutning fra minst to tredeler av de stemmene som er representert, men dersom mindre enn 50 prosent av eierne er representert i generalforsamlingen, kreves tilslutning fra 75 prosent av de stemmene som er representertstyret i innkalling til generalforsamling opplyser om at det vil bli anmodet om å treffe vedtak om at variabel godtgjørelse kan utgjøre mer enn 100 prosent av fast godtgjørelseforetaket snarest mulig informerer Finanstilsynet om styrets anbefaling til generalforsamlingen eller til tilsvarende organ, og legger ved styrets anbefaling samt begrunner hvorfor en høyere andel av variabel godtgjørelse er i samsvar med lov- og forskriftsbestemte kapitalkravforetaket snarest mulig informerer Finanstilsynet om generalforsamlingens beslutning, herunder hvilke størrelser på variable godtgjørelser som er bestemtpersoner som berøres av styrets anbefaling, ikke direkte eller indirekte kan stemme som aksjonær eller eier når styrets anbefaling behandles i generalforsamlingen eller i tilsvarende organ.
+For daglig leder og ansatte med lederansvar for foretakets kontrollfunksjoner eller vesentlige forretningsenheter i en bank skal det fastsettes at variabel godtgjørelse ikke kan utgjøre mer enn halvparten av den faste godtgjørelsen. For øvrig skal den variable godtgjørelsen ikke utgjøre mer enn 100 prosent av den faste godtgjørelsen. Generalforsamlingen eller tilsvarende organ kan likevel beslutte at variabel godtgjørelse kan utgjøre inntil 200 prosent av den faste godtgjørelsen, forutsatt at:
+
+1. styret i foretaket har gitt en begrunnet anbefaling av løsningen og omfanget, herunder skal anbefalingen angi antall personer som vil omfattes, og deres arbeidsområde, samt forventet effekt på krav om et forsvarlig kapitalgrunnlag
+2. generalforsamlingens beslutning er gitt med tilslutning fra minst to tredeler av de stemmene som er representert, men dersom mindre enn 50 prosent av eierne er representert i generalforsamlingen, kreves tilslutning fra 75 prosent av de stemmene som er representert
+3. styret i innkalling til generalforsamling opplyser om at det vil bli anmodet om å treffe vedtak om at variabel godtgjørelse kan utgjøre mer enn 100 prosent av fast godtgjørelse
+4. foretaket snarest mulig informerer Finanstilsynet om styrets anbefaling til generalforsamlingen eller til tilsvarende organ, og legger ved styrets anbefaling samt begrunner hvorfor en høyere andel av variabel godtgjørelse er i samsvar med lov- og forskriftsbestemte kapitalkrav
+5. foretaket snarest mulig informerer Finanstilsynet om generalforsamlingens beslutning, herunder hvilke størrelser på variable godtgjørelser som er bestemt
+6. personer som berøres av styrets anbefaling, ikke direkte eller indirekte kan stemme som aksjonær eller eier når styrets anbefaling behandles i generalforsamlingen eller i tilsvarende organ.
 
 For inntil 25 prosent av den variable godtgjørelsen som utgjør instrumenter og hvis overføring til den ansatte er utsatt over en periode på minst fem år, kan foretak ved beregningen av forholdet mellom fast og variabel godtgjørelse etter syvende ledd benytte en neddiskonteringsfaktor som fastsettes av Finanstilsynet.
 
@@ -960,7 +1360,11 @@ For ansatte med vesentlig innvirkning foretakets risikoprofil med en årlig vari
 
 ### § 15-6. Særregler for foretak som mottar statlig støtte
 
-Dersom et foretak mottar ekstraordinær statlig støtte, herunder støtte etter [finansforetaksloven § 20-28](lov/2015-04-10-17/§20-28), gjelder følgende krav i tillegg til [§ 15-1](forskrift/2016-12-09-1502/§15-1) og [§ 15-2](forskrift/2016-12-09-1502/§15-2):variabel godtgjørelse skal begrenses til en andel av nettoinntekt når slik godtgjørelse er uforenlig med ivaretakelse av et forsvarlig kapitalgrunnlag og en rettidig avvikling av statlige støttetiltakFinanstilsynet kan gi foretak pålegg om å justere sin godtgjørelsesordning på en måte som er i samsvar med forsvarlig risikostyring og langsiktig vekst, herunder kan det settes grenser for godtgjørelse til medlemmer av styret og daglig ledelse.variabel godtgjørelse skal ikke utbetales til medlemmer av styret og daglig ledelse med mindre det kan begrunnes.
+Dersom et foretak mottar ekstraordinær statlig støtte, herunder støtte etter [finansforetaksloven § 20-28](lov/2015-04-10-17/§20-28), gjelder følgende krav i tillegg til [§ 15-1](forskrift/2016-12-09-1502/§15-1) og [§ 15-2](forskrift/2016-12-09-1502/§15-2):
+
+1. variabel godtgjørelse skal begrenses til en andel av nettoinntekt når slik godtgjørelse er uforenlig med ivaretakelse av et forsvarlig kapitalgrunnlag og en rettidig avvikling av statlige støttetiltak
+2. Finanstilsynet kan gi foretak pålegg om å justere sin godtgjørelsesordning på en måte som er i samsvar med forsvarlig risikostyring og langsiktig vekst, herunder kan det settes grenser for godtgjørelse til medlemmer av styret og daglig ledelse.
+3. variabel godtgjørelse skal ikke utbetales til medlemmer av styret og daglig ledelse med mindre det kan begrunnes.
 
 > Endret ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022, se endringsforskriften III for overgangsbestemmelse).
 
@@ -968,7 +1372,12 @@ Dersom et foretak mottar ekstraordinær statlig støtte, herunder støtte etter 
 
 (1) Finansforetak må ikke avlønne ansatte eller evaluere ansattes prestasjoner på en slik måte at evnen til å påse at kundens interesser ivaretas på best måte, svekkes.
 
-(2) Godtgjørelsesordninger til ansatte som foretar kredittvurdering av kunder, og for ledere til slike ansatte, skal være i tråd med følgende prinsipper:Godtgjørelsesordningen skal være forenelig med og fremme en forsvarlig og effektiv risikostyring.Godtgjørelsesordningen skal ikke oppmuntre til risikotaking som overskrider virksomhetens risikoprofil.Godtgjørelsesordningen skal være i tråd med foretakets forretningsstrategi, målsettinger, verdier og langsiktige interesser, og den skal omfatte tiltak for å unngå interessekonflikter.Godtgjørelse kan ikke være avhengig av antall eller andelen av innvilgede lån eller andre salgsmål.
+(2) Godtgjørelsesordninger til ansatte som foretar kredittvurdering av kunder, og for ledere til slike ansatte, skal være i tråd med følgende prinsipper:
+
+1. Godtgjørelsesordningen skal være forenelig med og fremme en forsvarlig og effektiv risikostyring.
+2. Godtgjørelsesordningen skal ikke oppmuntre til risikotaking som overskrider virksomhetens risikoprofil.
+3. Godtgjørelsesordningen skal være i tråd med foretakets forretningsstrategi, målsettinger, verdier og langsiktige interesser, og den skal omfatte tiltak for å unngå interessekonflikter.
+4. Godtgjørelse kan ikke være avhengig av antall eller andelen av innvilgede lån eller andre salgsmål.
 
 > Tilføyd ved forskrift [28 juni 2023 nr. 1155](forskrift/2023-06-28-1155) (i kraft 1 juli 2023, se endringsforskriften for overgangsregler).
 
@@ -1046,7 +1455,46 @@ Finanstilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne par
 
 Bestemmelsene i [forskrift 29. juni 2007 nr. 876](forskrift/2007-06-29-876) til [verdipapirhandelloven kapittel 10](lov/2007-06-29-75/kap10) gjelder tilsvarende for finansforetaks salg av og rådgivning med hensyn til sammensatte produkter, med unntak av § 10-19, § 10-21 til § 10-24 og § 10-31 til § 10-37.
 
-Finansforetak som tilbyr sammensatte produkter skal gi kundene følgende opplysninger:om det sammensatte produktet:Hvilke indekser eller andre nærmere definerte markedsvariabler som benyttes og hvordan disse beregnes, herunder om de er utbyttejustert og valutasikret, samt hvilken effekt dette vil få på den forventede avkastningen av produktet.Den forventede prosentvise fordelingen av det innbetalte beløpet i produktets forskjellige deler, herunder til innskudd, derivater og totale kostnader. Denne fordelingen skal også vise forskjellen mellom beløpet som er tilgjengelig for innskudd i bank eller obligasjon og beløpet som faktisk benyttes til slikt innskudd (nåverdien av obligasjons- eller bankinnskuddet).Hvordan avkastningen på produktet henger sammen med indeksene eller markedsvariablene og hvordan avkastningsfaktoren er utformet, herunder hvordan denne påvirkes av fordelingen av det innbetalte beløpet, og om det er satt begrensninger på avkastningen.Hvor stor prosentandel av innbetalt beløp kunden med sikkerhet kan innløse ved utløpet av løpetiden.Motpartsrisikoen og om innbetalt beløp er dekket av Bankenes sikringsfond.om pris og totale kostnaderOpplysninger om pris og totale kostnader, herunder tegningskostnader.Estimert øvre og nedre grense for pris på produktet i prosent av innbetalt beløp, faktisk rente p.a. på obligasjonen eller bankinnskuddet og differansen mellom obligasjons- eller innskuddsrenten og foretakets faktiske innlånsrente for lån med tilsvarende løpetid.At ulike tilbydere vil kunne få ulik pris på derivatdelen i produktet avhengig av hvilken strategisk posisjon de har i markedet.Kostnader som kommer i tillegg til kostnadene knyttet til produktet, herunder kostnader til VPS.om avkastning:Det skal gis en oversikt over historisk avkastning de siste 5 årene for produktets indeks eller andre nærmere definerte markedsvariabler som benyttes. I beregningen av historisk avkastning skal det korrigeres for eventuelle begrensninger, herunder gjennomsnittsberegning av sluttverdi, som produktet legger på indeksen eller markedsvariablene, slik at avkastningene blir sammenlignbare. Det skal også foretas justering for utbytte og valutakurssvingninger for de indeksene og markedsvariablene der dette er aktuelt og det skal tas hensyn til løpetiden for produktet. Avkastningen skal oppgis som effektiv rente p.a. Dersom produktets avkastning er knyttet til indekser eller markedsvariabler der 5 års historikk ikke er mulig å beregne, skal det opplyses at kravet til 5 års historikk ikke er oppfylt. Historisk avkastning skal fremstilles som følger:Historisk avkastning fremstilles i diagrams form. En referansegraf for den samme avkastningen uten de begrensninger produktet legger på avkastningen skal vises i samme diagram.Dersom historisk avkastning er basert på konstruerte indekser som ikke gir et relevant bilde av avkastningenes historikk, skal denne ikke gjengis i informasjonsmateriellet.Det skal presiseres at historisk avkastning ikke er noen garanti for fremtidig avkastning.Effekten av eventuelle begrensninger i indeksens eller markedsvariabelens avkastning eksempler på positive og negative bevegelser i markedet skal fremgå.Det skal oppgis høyeste og laveste mulige avkastning på produktet, samt sannsynligheten for å oppnå denne avkastningen for produkter der dette er aktuelt.Det skal oppgis hvilken avkastning en risikofri investering ville gitt i samme periode som produktets løpetid.Det skal angis et konfidensintervall for produktets avkastning per anno, hvor produktets avkastning med 70 % sikkerhet vil befinne seg. Intervallet skal angis både uten tegningskostnader og med tilbyders høyeste anslag for tegningskostnader.forventet årlig avkastning på produktet uten tegningskostnader, samt forventet årlig avkastning hensyntatt tilbyders høyeste anslag for tegningskostnader. Beregningen skal baseres på rimelige forutsetninger, understøttet av objektive data.hvilken avkastning indeksen eller markedsvariabelen må oppnå for at kunden skal få tilbake innbetalt beløp.om avbrudd og likviditet:i hvilken grad produktet er omsettelig.kostnader og mulige tap ved å gå ut av produktet før forfall. Dersom avtalen ved avbrudd ikke gir rett til hele det garanterte beløpet, skal det opplyses hvor stor del av beløpet kunden har rett til å få tilbake.om lånefinansiering av investering med sikkerhet i sammensatte produkter:Om institusjonen yter lån, eller medvirker til et låneopptak i en annen institusjon, med helt eller delvis sikkerhet i sammensatte produkter.Effektiv rente p.a. på lånet.Effektiv rente p.a. på innbetalt beløp inkludert lånekostnader, når det tas hensyn til at bare det garanterte beløpet tilbakebetales.Hvilken avkastning produktet må oppnå for at kunden skal få tilbake egenkapitalen. Det skal tas hensyn til alle renter og gebyrer kunden betaler i forbindelse med låneopptaket.om andre forholdRelevante skatteregler og at disse kan bli gjenstand for endring under produktets løpetid.Selgers særskilte insentivordninger knyttet til formidling av produktet.
+Finansforetak som tilbyr sammensatte produkter skal gi kundene følgende opplysninger:
+
+1. om det sammensatte produktet:
+
+   1. Hvilke indekser eller andre nærmere definerte markedsvariabler som benyttes og hvordan disse beregnes, herunder om de er utbyttejustert og valutasikret, samt hvilken effekt dette vil få på den forventede avkastningen av produktet.
+   2. Den forventede prosentvise fordelingen av det innbetalte beløpet i produktets forskjellige deler, herunder til innskudd, derivater og totale kostnader. Denne fordelingen skal også vise forskjellen mellom beløpet som er tilgjengelig for innskudd i bank eller obligasjon og beløpet som faktisk benyttes til slikt innskudd (nåverdien av obligasjons- eller bankinnskuddet).
+   3. Hvordan avkastningen på produktet henger sammen med indeksene eller markedsvariablene og hvordan avkastningsfaktoren er utformet, herunder hvordan denne påvirkes av fordelingen av det innbetalte beløpet, og om det er satt begrensninger på avkastningen.
+   4. Hvor stor prosentandel av innbetalt beløp kunden med sikkerhet kan innløse ved utløpet av løpetiden.
+   5. Motpartsrisikoen og om innbetalt beløp er dekket av Bankenes sikringsfond.
+2. om pris og totale kostnader
+
+   1. Opplysninger om pris og totale kostnader, herunder tegningskostnader.
+   2. Estimert øvre og nedre grense for pris på produktet i prosent av innbetalt beløp, faktisk rente p.a. på obligasjonen eller bankinnskuddet og differansen mellom obligasjons- eller innskuddsrenten og foretakets faktiske innlånsrente for lån med tilsvarende løpetid.
+   3. At ulike tilbydere vil kunne få ulik pris på derivatdelen i produktet avhengig av hvilken strategisk posisjon de har i markedet.
+   4. Kostnader som kommer i tillegg til kostnadene knyttet til produktet, herunder kostnader til VPS.
+3. om avkastning:
+
+   1. Det skal gis en oversikt over historisk avkastning de siste 5 årene for produktets indeks eller andre nærmere definerte markedsvariabler som benyttes. I beregningen av historisk avkastning skal det korrigeres for eventuelle begrensninger, herunder gjennomsnittsberegning av sluttverdi, som produktet legger på indeksen eller markedsvariablene, slik at avkastningene blir sammenlignbare. Det skal også foretas justering for utbytte og valutakurssvingninger for de indeksene og markedsvariablene der dette er aktuelt og det skal tas hensyn til løpetiden for produktet. Avkastningen skal oppgis som effektiv rente p.a. Dersom produktets avkastning er knyttet til indekser eller markedsvariabler der 5 års historikk ikke er mulig å beregne, skal det opplyses at kravet til 5 års historikk ikke er oppfylt. Historisk avkastning skal fremstilles som følger:
+   2. Historisk avkastning fremstilles i diagrams form. En referansegraf for den samme avkastningen uten de begrensninger produktet legger på avkastningen skal vises i samme diagram.
+   3. Dersom historisk avkastning er basert på konstruerte indekser som ikke gir et relevant bilde av avkastningenes historikk, skal denne ikke gjengis i informasjonsmateriellet.
+   4. Det skal presiseres at historisk avkastning ikke er noen garanti for fremtidig avkastning.
+   5. Effekten av eventuelle begrensninger i indeksens eller markedsvariabelens avkastning eksempler på positive og negative bevegelser i markedet skal fremgå.
+   6. Det skal oppgis høyeste og laveste mulige avkastning på produktet, samt sannsynligheten for å oppnå denne avkastningen for produkter der dette er aktuelt.
+   7. Det skal oppgis hvilken avkastning en risikofri investering ville gitt i samme periode som produktets løpetid.
+   8. Det skal angis et konfidensintervall for produktets avkastning per anno, hvor produktets avkastning med 70 % sikkerhet vil befinne seg. Intervallet skal angis både uten tegningskostnader og med tilbyders høyeste anslag for tegningskostnader.
+   9. forventet årlig avkastning på produktet uten tegningskostnader, samt forventet årlig avkastning hensyntatt tilbyders høyeste anslag for tegningskostnader. Beregningen skal baseres på rimelige forutsetninger, understøttet av objektive data.
+   10. hvilken avkastning indeksen eller markedsvariabelen må oppnå for at kunden skal få tilbake innbetalt beløp.
+   11. om avbrudd og likviditet:
+   12. i hvilken grad produktet er omsettelig.
+   13. kostnader og mulige tap ved å gå ut av produktet før forfall. Dersom avtalen ved avbrudd ikke gir rett til hele det garanterte beløpet, skal det opplyses hvor stor del av beløpet kunden har rett til å få tilbake.
+4. om lånefinansiering av investering med sikkerhet i sammensatte produkter:
+
+   1. Om institusjonen yter lån, eller medvirker til et låneopptak i en annen institusjon, med helt eller delvis sikkerhet i sammensatte produkter.
+   2. Effektiv rente p.a. på lånet.
+   3. Effektiv rente p.a. på innbetalt beløp inkludert lånekostnader, når det tas hensyn til at bare det garanterte beløpet tilbakebetales.
+   4. Hvilken avkastning produktet må oppnå for at kunden skal få tilbake egenkapitalen. Det skal tas hensyn til alle renter og gebyrer kunden betaler i forbindelse med låneopptaket.
+5. om andre forhold
+
+   1. Relevante skatteregler og at disse kan bli gjenstand for endring under produktets løpetid.
+   2. Selgers særskilte insentivordninger knyttet til formidling av produktet.
 
 ### § 16-3. Lenke til Finansportalen
 
@@ -1116,7 +1564,12 @@ Finanstilsynet kan i særlige tilfeller godkjenne etterutdanning arrangert av fo
 
 ### § 16-10. Krav til dokumentasjon
 
-Forsikringsforetaket må til enhver tid kunne dokumentere at kravene til etterutdanning er oppfylt. Dokumentasjonen skal anginavn på ansatt og stilling i foretaketarrangør av etterutdanningenemneområde med kort beskrivelse av kursets innholddato for kursdeltakelser og varighet på kursene.
+Forsikringsforetaket må til enhver tid kunne dokumentere at kravene til etterutdanning er oppfylt. Dokumentasjonen skal angi
+
+1. navn på ansatt og stilling i foretaket
+2. arrangør av etterutdanningen
+3. emneområde med kort beskrivelse av kursets innhold
+4. dato for kursdeltakelser og varighet på kursene.
 
 > Tilføyd ved forskrift [22 des 2021 nr. 3872](forskrift/2021-12-22-3872) (i kraft 1 jan 2022), endret ved forskrift [5 april 2022 nr. 531](forskrift/2022-04-05-531) (i kraft 1 okt 2022, tidligere § 16-9).
 
@@ -1140,7 +1593,17 @@ Forsikringsforetaket må til enhver tid kunne dokumentere at kravene til etterut
 
 ### § 16-13. Minstekrav til kunnskap og kompetanse
 
-(1) I finansforetak skal ansatte som utformer, tilbyr, bevilger eller gir råd om boliglån, samlet sett ha nødvendig kunnskap og kompetanse om:Boliglån og tilleggstjenester som vanligvis tilbys sammen med boliglån.Lovgivningen som gjelder boliglånsavtaler med forbrukere, og særlig om forbrukervernregler.Prosessen ved kjøp av bolig.Verdsettelsesvurderingen av fast eiendom som stilles som sikkerhet for boliglån.Tinglysning.Boligmarkedet.Regler om god forretningsskikk.Prosedyrene for kredittvurdering av forbrukere, og kompetanse til å foreta kredittvurdering av forbrukere, dersom dette er relevant.Finans og økonomi, herunder om privatøkonomi.
+(1) I finansforetak skal ansatte som utformer, tilbyr, bevilger eller gir råd om boliglån, samlet sett ha nødvendig kunnskap og kompetanse om:
+
+1. Boliglån og tilleggstjenester som vanligvis tilbys sammen med boliglån.
+2. Lovgivningen som gjelder boliglånsavtaler med forbrukere, og særlig om forbrukervernregler.
+3. Prosessen ved kjøp av bolig.
+4. Verdsettelsesvurderingen av fast eiendom som stilles som sikkerhet for boliglån.
+5. Tinglysning.
+6. Boligmarkedet.
+7. Regler om god forretningsskikk.
+8. Prosedyrene for kredittvurdering av forbrukere, og kompetanse til å foreta kredittvurdering av forbrukere, dersom dette er relevant.
+9. Finans og økonomi, herunder om privatøkonomi.
 
 (2) Denne bestemmelsen gjelder tilsvarende for styremedlemmer, daglig leder og faktisk leder i finansforetaket.
 
@@ -1174,7 +1637,11 @@ Bestemmelsen i § 16-12 og § 16-13 første ledd nr. 2, 3, 5 og 6 gjelder tilsva
 
 (1) Opplysninger som kan utleveres i medhold av [finansforetaksloven § 16-2 fjerde](lov/2015-04-10-17/§16-2/ledd/4) og [femte ledd](lov/2015-04-10-17/§16-2/ledd/5), kan også omfatte opplysninger innhentet gjennom kundetiltak etter [hvitvaskingsloven](lov/2018-06-01-23).
 
-(2) Finansforetak kan også utlevere opplysninger i medhold av [finansforetaksloven § 16-2 fjerde ledd](lov/2015-04-10-17/§16-2/ledd/4) til:tilbyder av elektroniske kommunikasjonsnett og -tjenester, som er registrert i medhold av [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven)](lov/2024-12-13-76)utenlandske foretak som yter betalingstjenester med tillatelser tilsvarende [finansforetaksloven kapittel 2](lov/2015-04-10-17/kap2), gitt i annen EU/EØS-statSkatteetaten, Arbeids- og velferdsetaten og Brønnøysundregistrene.
+(2) Finansforetak kan også utlevere opplysninger i medhold av [finansforetaksloven § 16-2 fjerde ledd](lov/2015-04-10-17/§16-2/ledd/4) til:
+
+1. tilbyder av elektroniske kommunikasjonsnett og -tjenester, som er registrert i medhold av [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven)](lov/2024-12-13-76)
+2. utenlandske foretak som yter betalingstjenester med tillatelser tilsvarende [finansforetaksloven kapittel 2](lov/2015-04-10-17/kap2), gitt i annen EU/EØS-stat
+3. Skatteetaten, Arbeids- og velferdsetaten og Brønnøysundregistrene.
 
 > Tilføyd ved forskrift [30 juni 2026 nr. 1445](forskrift/2026-06-30-1445) (i kraft 1 juli 2026).
 
@@ -1214,7 +1681,10 @@ Eierforetak har plikt til å gi de opplysningene som Finanstilsynet finner nødv
 
 ### § 17-3. Beregning av terskelverdi for krav til mellomliggende morforetak for datterforetak i tredjelandskonsern
 
-Ved vurderingen av om tredjelandets forvaltningskapital innenfor EØS er mer enn 40 milliarder euro etter [finansforetaksloven § 17-8a](lov/2015-04-10-17/§17-8a), skal det tas utgangspunkt i summen av:forvaltningskapitalen til banker, kredittforetak, finansieringsforetak og verdipapirforetak etablert innenfor EØS som inngår i tredjelandskonsernet på konsolidert eller ikke-konsolidert grunnlagforvaltningskapitalen i tredjelandskonsernets filialer av banker, kredittforetak, finansieringsforetak og verdipapirforetak som har tillatelse til å drive virksomhet innenfor EØS.
+Ved vurderingen av om tredjelandets forvaltningskapital innenfor EØS er mer enn 40 milliarder euro etter [finansforetaksloven § 17-8a](lov/2015-04-10-17/§17-8a), skal det tas utgangspunkt i summen av:
+
+1. forvaltningskapitalen til banker, kredittforetak, finansieringsforetak og verdipapirforetak etablert innenfor EØS som inngår i tredjelandskonsernet på konsolidert eller ikke-konsolidert grunnlag
+2. forvaltningskapitalen i tredjelandskonsernets filialer av banker, kredittforetak, finansieringsforetak og verdipapirforetak som har tillatelse til å drive virksomhet innenfor EØS.
 
 > Tilføyd ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022).
 
@@ -1256,7 +1726,13 @@ Bankenes sikringsfond og hjemstatens sikringsordning skal inngå en avtale der d
 
 Avtalen skal også sikre at Bankenes sikringsfond gis tilgang til den informasjon som er nødvendig for å kunne beregne sikringsfondets dekningsforpliktelser.
 
-Finanstilsynet og tilsynsmyndighetene i filialens hjemstat skal inngå en avtale som sikrer Finanstilsynet de opplysninger tilsynet trenger for å ivareta sine funksjoner etter denne forskrift, herunder opplysninger om:hjemstatens sikringsordning og filialens innskudd,filialmedlemmets soliditet,vesentlige negative utviklingstrekk hos filialmedlemmet og/eller dets filial,hvordan Finanstilsynet skal varsles før filialmedlemmet settes under offentlig administrasjon, tas under konkursbehandling eller lignende, ogtilstrekkelige opplysninger til å ivareta sine oppgaver i henhold til fjerde ledd.
+Finanstilsynet og tilsynsmyndighetene i filialens hjemstat skal inngå en avtale som sikrer Finanstilsynet de opplysninger tilsynet trenger for å ivareta sine funksjoner etter denne forskrift, herunder opplysninger om:
+
+1. hjemstatens sikringsordning og filialens innskudd,
+2. filialmedlemmets soliditet,
+3. vesentlige negative utviklingstrekk hos filialmedlemmet og/eller dets filial,
+4. hvordan Finanstilsynet skal varsles før filialmedlemmet settes under offentlig administrasjon, tas under konkursbehandling eller lignende, og
+5. tilstrekkelige opplysninger til å ivareta sine oppgaver i henhold til fjerde ledd.
 
 Finanstilsynet skal videreformidle til Bankenes sikringsfond informasjon fra hjemlandets tilsynsmyndigheter som sikringsfondet har behov for i forbindelse med vurdering av søknad om medlemskap.
 
@@ -1318,7 +1794,36 @@ Dette kapitlet gjelder foretak og virksomhet som er omfattet av [finansforetaksl
 
 Med krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) menes europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) av 15. mai 2014 om fastsettelse av en ramme for gjenoppretting og omstrukturering av kredittinstitusjoner og verdipapirforetak og om endring av rådsdirektiv [82/891/EØF](eu/31982l0891), europaparlaments- og rådsdirektiv [2001/24/EF](eu/32001l0024), [2002/47/EF](eu/32002l0047), [2004/25/EF](eu/32004l0025), [2005/56/EF](eu/32005l0056), [2007/36/EF](eu/32007l0036), [2011/35/EU](eu/32011l0035), [2012/30/EU](eu/32012l0030) og [2013/36/EU](eu/32013l0036) og europaparlaments- og rådsforordning [(EU) nr. 1093/2010](eu/32010r1093) og [(EU) nr. 648/2012](eu/32012r0648).
 
-Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som følger av [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig:[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/778](eu/32016r0778) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til under hvilke omstendigheter og på hvilke vilkår betaling av ekstraordinære etterhåndsbidrag kan utsettes helt eller delvis, og om kriteriene for fastsettelse av virksomhet, tjenester og transaksjoner med hensyn til kritiske funksjoner og for fastsettelse av forretningsområder og tilknyttede tjenester med hensyn til hovedforretningsområder.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1401](eu/32016r1401) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for metoder og prinsipper for verdsetting av forpliktelser som følger av derivater.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1712](eu/32016r1712) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer et minstesett av opplysninger om finansielle kontrakter som skal inngå i de detaljerte registrene, og under hvilke omstendigheter kravet bør pålegges.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/911](eu/32016r0911) om fastsettelse av tekniske gjennomføringsstandarder med hensyn til formen på og innholdet i beskrivelsen av avtaler om gruppeintern finansiell støtte i samsvar med krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2017/867](eu/32017r0867) om kategorier av avtaler som skal beskyttes i forbindelse med delvis overføring av eiendom i henhold til artikkel 76 i krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/344](eu/32018r0344) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å vurdere forskjeller i behandlingen i forbindelse med krisehåndtering.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/345](eu/32018r0345) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å vurdere verdien av institusjoners eller foretaks eiendeler og forpliktelser.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/622](eu/32021r0622) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til ensartede rapporteringsmaler, veiledning og metoder for rapportering av minstekravet til ansvarlig kapital og konvertibel gjeld.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2015/63](eu/32015r0063) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til forhåndsbidrag til ordninger for omstruktureringsfinansiering, som endret ved:Delegert kommisjonsforordning [(EU) 2016/1434](eu/32016r1434)Delegert kommisjonsforordning [(EU) 2023/662](eu/32023r0662)Delegert kommisjonsforordning [(EU) 2024/895](eu/32024r0895).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/860](eu/32016r0860) om ytterligere spesifisering av de omstendighetene der utelukkelse fra anvendelsen av nedskrivnings- eller konverteringsfullmaktene er nødvendig i henhold til artikkel 44 nr. 3 i europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) om fastsettelse av en ramme for gjenoppretting og omstrukturering av kredittinstitusjoner og verdipapirforetak.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1075](eu/32016r1075) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som angir innholdet i gjenopprettingsplaner, omstruktureringsplaner og konsernomstruktureringsplaner, de minstekriteriene som vedkommende myndighet skal vurdere i forbindelse med gjenopprettingsplaner og konserngjenopprettingsplaner, vilkårene for konsernintern finansiell støtte, kravene til uavhengige takstmenn, den avtalemessige anerkjennelsen av nedskrivnings- og konverteringsrett, framgangsmåtene og innholdet i forbindelse med meldingskrav og melding om utsettelse samt omstruktureringskollegienes virkemåte i praksis.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1400](eu/32016r1400) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som angir minstekravene til en virksomhetsomorganiseringsplan og til innholdet i rapportene om framdriften i gjennomføringen av planen.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1450](eu/32016r1450) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å fastsette minstekravet til ansvarlig kapital og kvalifiserte forpliktelser.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/1624](eu/32018r1624) om fastsettelse av tekniske gjennomføringsstandarder for framgangsmåter, standardskjemaer og -maler for framlegging av opplysninger i forbindelse med krisehåndteringsplaner for kredittinstitusjoner og verdipapirforetak i samsvar med europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) og om oppheving av kommisjonens gjennomføringsforordning [(EU) 2016/1066](eu/32016r1066), som endret ved:Kommisjonens gjennomføringsforordning [(EU) 2022/365](eu/32022r0365)[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2019/348](eu/32019r0348) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for fastsettelse av kriteriene for å vurdere konsekvensene for finansmarkedene, andre institusjoner og finansieringsvilkårene av at en institusjon blir kriserammet.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1751](eu/32021r1751) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til ensartede formater og maler for meldinger om konstatering av at det ikke er praktisk mulig å innføre en avtalemessig anerkjennelse av nedskrivnings- og konverteringsfullmakter.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1340](eu/32021r1340) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for fastsettelse av innholdet i avtalevilkårene om anerkjennelse av fullmakt til utsettelse under krisehåndtering.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1118](eu/32021r1118) om utfylling av direktiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer metoden som krisehåndteringsmyndighetene skal anvende for å estimere kravet omhandlet i i europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036) og det kombinerte bufferkravet for foretak som er gjenstand for krisehåndtering, på konsolidert grunnlag for konserner som er gjenstand for krisehåndtering, dersom konsernet som er gjenstand for krisehåndtering, ikke er omfattet av disse kravene i nevnte direktiv.[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/763](eu/32021r0763) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575) og europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tilsynsrapportering og offentliggjøring av minstekravet til ansvarlig kapital og konvertibel gjeld, som endret ved:Kommisjonens gjennomføringsforordning [(EU) 2024/1618](eu/32024r1618).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1527](eu/32021r1527) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for den avtalemessige anerkjennelsen av nedskrivnings- og konverteringsrett.
+Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som følger av [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig:
+
+1. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/778](eu/32016r0778) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til under hvilke omstendigheter og på hvilke vilkår betaling av ekstraordinære etterhåndsbidrag kan utsettes helt eller delvis, og om kriteriene for fastsettelse av virksomhet, tjenester og transaksjoner med hensyn til kritiske funksjoner og for fastsettelse av forretningsområder og tilknyttede tjenester med hensyn til hovedforretningsområder.
+2. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1401](eu/32016r1401) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for metoder og prinsipper for verdsetting av forpliktelser som følger av derivater.
+3. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1712](eu/32016r1712) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer et minstesett av opplysninger om finansielle kontrakter som skal inngå i de detaljerte registrene, og under hvilke omstendigheter kravet bør pålegges.
+4. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/911](eu/32016r0911) om fastsettelse av tekniske gjennomføringsstandarder med hensyn til formen på og innholdet i beskrivelsen av avtaler om gruppeintern finansiell støtte i samsvar med krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059).
+5. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2017/867](eu/32017r0867) om kategorier av avtaler som skal beskyttes i forbindelse med delvis overføring av eiendom i henhold til artikkel 76 i krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059).
+6. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/344](eu/32018r0344) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å vurdere forskjeller i behandlingen i forbindelse med krisehåndtering.
+7. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/345](eu/32018r0345) om utfylling av krisehåndteringsdirektivet [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å vurdere verdien av institusjoners eller foretaks eiendeler og forpliktelser.
+8. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/622](eu/32021r0622) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til ensartede rapporteringsmaler, veiledning og metoder for rapportering av minstekravet til ansvarlig kapital og konvertibel gjeld.
+9. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2015/63](eu/32015r0063) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til forhåndsbidrag til ordninger for omstruktureringsfinansiering, som endret ved:
+
+   1. Delegert kommisjonsforordning [(EU) 2016/1434](eu/32016r1434)
+   2. Delegert kommisjonsforordning [(EU) 2023/662](eu/32023r0662)
+   3. Delegert kommisjonsforordning [(EU) 2024/895](eu/32024r0895).
+10. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/860](eu/32016r0860) om ytterligere spesifisering av de omstendighetene der utelukkelse fra anvendelsen av nedskrivnings- eller konverteringsfullmaktene er nødvendig i henhold til artikkel 44 nr. 3 i europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) om fastsettelse av en ramme for gjenoppretting og omstrukturering av kredittinstitusjoner og verdipapirforetak.
+11. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1075](eu/32016r1075) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som angir innholdet i gjenopprettingsplaner, omstruktureringsplaner og konsernomstruktureringsplaner, de minstekriteriene som vedkommende myndighet skal vurdere i forbindelse med gjenopprettingsplaner og konserngjenopprettingsplaner, vilkårene for konsernintern finansiell støtte, kravene til uavhengige takstmenn, den avtalemessige anerkjennelsen av nedskrivnings- og konverteringsrett, framgangsmåtene og innholdet i forbindelse med meldingskrav og melding om utsettelse samt omstruktureringskollegienes virkemåte i praksis.
+12. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1400](eu/32016r1400) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som angir minstekravene til en virksomhetsomorganiseringsplan og til innholdet i rapportene om framdriften i gjennomføringen av planen.
+13. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2016/1450](eu/32016r1450) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for metoden for å fastsette minstekravet til ansvarlig kapital og kvalifiserte forpliktelser.
+14. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/1624](eu/32018r1624) om fastsettelse av tekniske gjennomføringsstandarder for framgangsmåter, standardskjemaer og -maler for framlegging av opplysninger i forbindelse med krisehåndteringsplaner for kredittinstitusjoner og verdipapirforetak i samsvar med europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) og om oppheving av kommisjonens gjennomføringsforordning [(EU) 2016/1066](eu/32016r1066), som endret ved:
+
+    1. Kommisjonens gjennomføringsforordning [(EU) 2022/365](eu/32022r0365)
+15. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2019/348](eu/32019r0348) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for fastsettelse av kriteriene for å vurdere konsekvensene for finansmarkedene, andre institusjoner og finansieringsvilkårene av at en institusjon blir kriserammet.
+16. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1751](eu/32021r1751) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til ensartede formater og maler for meldinger om konstatering av at det ikke er praktisk mulig å innføre en avtalemessig anerkjennelse av nedskrivnings- og konverteringsfullmakter.
+17. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1340](eu/32021r1340) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for fastsettelse av innholdet i avtalevilkårene om anerkjennelse av fullmakt til utsettelse under krisehåndtering.
+18. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1118](eu/32021r1118) om utfylling av direktiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder som spesifiserer metoden som krisehåndteringsmyndighetene skal anvende for å estimere kravet omhandlet i i europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036) og det kombinerte bufferkravet for foretak som er gjenstand for krisehåndtering, på konsolidert grunnlag for konserner som er gjenstand for krisehåndtering, dersom konsernet som er gjenstand for krisehåndtering, ikke er omfattet av disse kravene i nevnte direktiv.
+19. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/763](eu/32021r0763) om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575) og europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tilsynsrapportering og offentliggjøring av minstekravet til ansvarlig kapital og konvertibel gjeld, som endret ved:
+
+    1. Kommisjonens gjennomføringsforordning [(EU) 2024/1618](eu/32024r1618).
+20. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1527](eu/32021r1527) om utfylling av europaparlaments- og rådsdirektiv [2014/59/EU](eu/32014l0059) med hensyn til tekniske reguleringsstandarder for den avtalemessige anerkjennelsen av nedskrivnings- og konverteringsrett.
 
 Finanstilsynet kan fastsette forskrifter som tilsvarer reglene i forordninger gitt i medhold av direktiv [2014/59/EU](eu/32014l0059) med nødvendige tilpasninger.
 
@@ -1328,7 +1833,10 @@ Finanstilsynet kan fastsette forskrifter som tilsvarer reglene i forordninger gi
 
 Taushetsplikt for styremedlemmer og tjenestemenn etter [finanstilsynsloven § 7](lov/1956-12-07-1/§7) og [forvaltningsloven § 13](lov/1967-02-10/§13) er ikke til hinder for at opplysninger kan utleveres til Bankenes sikringsfond, andre EØS-staters krisehåndteringsmyndigheter eller Single Resolution Board i den utstrekning det er nødvendig for å utføre oppgaver pålagt i eller i medhold av lov.
 
-Ved utlevering av opplysninger til myndigheter som nevnt i første ledd, skal Finanstilsynet stille følgende vilkår:Opplysningene kan bare brukes til å utføre krisehåndteringsoppgaver som nevnt i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20) med tilhørende forskriftsregler.Opplysningene skal være undergitt taushetsplikt hos mottaker. Opplysningene kan bare formidles videre med samtykke fra Finanstilsynet og bare for de formål samtykket omfatter.
+Ved utlevering av opplysninger til myndigheter som nevnt i første ledd, skal Finanstilsynet stille følgende vilkår:
+
+1. Opplysningene kan bare brukes til å utføre krisehåndteringsoppgaver som nevnt i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20) med tilhørende forskriftsregler.
+2. Opplysningene skal være undergitt taushetsplikt hos mottaker. Opplysningene kan bare formidles videre med samtykke fra Finanstilsynet og bare for de formål samtykket omfatter.
 
 Opplysninger som Finanstilsynet har mottatt fra utenlandske tilsynsmyndigheter eller krisehåndteringsmyndigheter, kan bare formidles videre med samtykke fra vedkommende myndighet og bare for de formål samtykket omfatter.
 
@@ -1348,7 +1856,11 @@ Dersom et foretak anser at det juridisk eller på annen måte i praksis ikke er 
 
 Foretakets plikt til å oppfylle [finansforetaksloven § 20-10](lov/2015-04-10-17/§20-10) annet ledd suspenderes når melding etter tredje ledd er mottatt hos Finanstilsynet. Hvis Finanstilsynet likevel vurderer at det er mulig å ta inn avtalevilkårene, skal Finanstilsynet kreve dette innen rimelig tid etter mottak av melding etter tredje ledd. Finanstilsynet kan også kreve at foretaket endrer sin praksis for bruk av unntaket i tredje ledd første punktum.
 
-Finanstilsynet skal vurdere muligheten til å krisehåndtere et foretak, herunder etter [finansforetaksloven § 20-37](lov/2015-04-10-17/§20-37), og vurdere behov for pålegg etter [finansforetaksloven § 20-6a](lov/2015-04-10-17/§20-6a) hvis mer enn ti prosent av en gjeldsklasse som omfatter konvertibel gjeld, består av:avtaler eller instrumenter som ikke inneholder kontraktsvilkår som nevnt i [finansforetaksloven § 20-10](lov/2015-04-10-17/§20-10) annet leddinnskudd og gjeld som er unntatt fra intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) første leddgjeld som kan unntas fra intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) fjerde ledd.
+Finanstilsynet skal vurdere muligheten til å krisehåndtere et foretak, herunder etter [finansforetaksloven § 20-37](lov/2015-04-10-17/§20-37), og vurdere behov for pålegg etter [finansforetaksloven § 20-6a](lov/2015-04-10-17/§20-6a) hvis mer enn ti prosent av en gjeldsklasse som omfatter konvertibel gjeld, består av:
+
+1. avtaler eller instrumenter som ikke inneholder kontraktsvilkår som nevnt i [finansforetaksloven § 20-10](lov/2015-04-10-17/§20-10) annet ledd
+2. innskudd og gjeld som er unntatt fra intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) første ledd
+3. gjeld som kan unntas fra intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) fjerde ledd.
 
 Avtaler eller instrumenter omfattet av [finansforetaksloven § 20-10](lov/2015-04-10-17/§20-10) annet ledd og som ikke oppfyller krav om vilkår som gir hjemmel for nedskriving eller konvertering, eller er unntatt fra krav om slike vilkår, kan ikke benyttes til å oppfylle foretakets minstekrav til summen av ansvarlig kapital og konvertibel gjeld.
 
@@ -1356,7 +1868,28 @@ Avtaler eller instrumenter omfattet av [finansforetaksloven § 20-10](lov/2015-0
 
 ### § 20-3b. Innholdet i gjenopprettingsplaner
 
-Gjenopprettingsplaner etter [finansforetaksloven § 20-5](lov/2015-04-10-17/§20-5) skal inneholde:et sammendrag av hovedpunktene i planen og et sammendrag av den samlede gjenopprettingsevnen,et sammendrag av vesentlige endringer i foretaket siden forrige innsendte gjenopprettingsplan,en kommunikasjons- og informasjonsplan som beskriver hvordan foretaket har tenkt å håndtere eventuelle negative markedsreaksjoner,et utvalg kapital- og likviditetstiltak som er nødvendige for å opprettholde eller gjenopprette foretakets levedyktighet og finansielle stilling,et estimat av tidsrammen for gjennomføring av hver vesentlige del av planen.en detaljert beskrivelse av alle vesentlige hindringer for effektiv og rask gjennomføring av planen, inkludert en vurdering av konsekvensene for resten av konsernet, kunder og motparter,identifisering av kritiske funksjoner,en detaljert beskrivelse av fremgangsmåten for å fastsette verdien av og omsetteligheten til foretakets hovedforretningsområder, virksomheter og eiendeler,en detaljert beskrivelse av hvordan gjenopprettingsplanlegging er integrert i foretakets selskapsstyringsstruktur, samt retningslinjene og prosedyrene for godkjenning av gjenopprettingsplanen og identifisering av de personene i organisasjonen som er ansvarlige for å utarbeide og gjennomføre planen,ordninger og tiltak for å bevare eller gjenopprette foretakets ansvarlige kapital,ordninger og tiltak for å sikre at foretaket har tilstrekkelig tilgang til nødfinansieringskilder, inkludert potensielle likviditetskilder, en vurdering av tilgjengelig sikkerhet og en vurdering av muligheten for å overføre likviditet mellom ulike konsernforetak og forretningsområder, for å sikre at foretaket kan fortsette sin virksomhet og oppfylle sine forpliktelser etter hvert som de forfaller,ordninger og tiltak for å redusere risiko og gjeldsgrad,ordninger og tiltak for å omstrukturere forpliktelser,ordninger og tiltak for å omstrukturere forretningsområder,ordninger og tiltak som er nødvendige for å opprettholde kontinuerlig tilgang til finansiell infrastruktur,ordninger og tiltak som er nødvendige for å opprettholde løpende drift av foretakets operative virksomhet, inkludert nettverks- og informasjonssystemer som er etablert og forvaltet i samsvar med forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),forberedende tiltak for å legge til rette for salg av eiendeler eller forretningsområder innen en tidsramme som gjør det mulig å gjenopprette foretakets finansielle soliditet,andre ledelsestiltak eller -strategier for å gjenopprette finansiell soliditet, og den forventede økonomiske effekten av disse tiltakene eller strategiene,forberedende tiltak som foretaket har iverksatt eller planlegger å iverksette for å legge til rette for gjennomføringen av gjenopprettingsplanen, inkludert de som er nødvendige for å muliggjøre rettidig rekapitalisering av foretaket, oget rammeverk av indikatorer som identifiserer tidspunktet for når passende tiltak nevnt i planen kan iverksettes.
+Gjenopprettingsplaner etter [finansforetaksloven § 20-5](lov/2015-04-10-17/§20-5) skal inneholde:
+
+1. et sammendrag av hovedpunktene i planen og et sammendrag av den samlede gjenopprettingsevnen,
+2. et sammendrag av vesentlige endringer i foretaket siden forrige innsendte gjenopprettingsplan,
+3. en kommunikasjons- og informasjonsplan som beskriver hvordan foretaket har tenkt å håndtere eventuelle negative markedsreaksjoner,
+4. et utvalg kapital- og likviditetstiltak som er nødvendige for å opprettholde eller gjenopprette foretakets levedyktighet og finansielle stilling,
+5. et estimat av tidsrammen for gjennomføring av hver vesentlige del av planen.
+6. en detaljert beskrivelse av alle vesentlige hindringer for effektiv og rask gjennomføring av planen, inkludert en vurdering av konsekvensene for resten av konsernet, kunder og motparter,
+7. identifisering av kritiske funksjoner,
+8. en detaljert beskrivelse av fremgangsmåten for å fastsette verdien av og omsetteligheten til foretakets hovedforretningsområder, virksomheter og eiendeler,
+9. en detaljert beskrivelse av hvordan gjenopprettingsplanlegging er integrert i foretakets selskapsstyringsstruktur, samt retningslinjene og prosedyrene for godkjenning av gjenopprettingsplanen og identifisering av de personene i organisasjonen som er ansvarlige for å utarbeide og gjennomføre planen,
+10. ordninger og tiltak for å bevare eller gjenopprette foretakets ansvarlige kapital,
+11. ordninger og tiltak for å sikre at foretaket har tilstrekkelig tilgang til nødfinansieringskilder, inkludert potensielle likviditetskilder, en vurdering av tilgjengelig sikkerhet og en vurdering av muligheten for å overføre likviditet mellom ulike konsernforetak og forretningsområder, for å sikre at foretaket kan fortsette sin virksomhet og oppfylle sine forpliktelser etter hvert som de forfaller,
+12. ordninger og tiltak for å redusere risiko og gjeldsgrad,
+13. ordninger og tiltak for å omstrukturere forpliktelser,
+14. ordninger og tiltak for å omstrukturere forretningsområder,
+15. ordninger og tiltak som er nødvendige for å opprettholde kontinuerlig tilgang til finansiell infrastruktur,
+16. ordninger og tiltak som er nødvendige for å opprettholde løpende drift av foretakets operative virksomhet, inkludert nettverks- og informasjonssystemer som er etablert og forvaltet i samsvar med forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),
+17. forberedende tiltak for å legge til rette for salg av eiendeler eller forretningsområder innen en tidsramme som gjør det mulig å gjenopprette foretakets finansielle soliditet,
+18. andre ledelsestiltak eller -strategier for å gjenopprette finansiell soliditet, og den forventede økonomiske effekten av disse tiltakene eller strategiene,
+19. forberedende tiltak som foretaket har iverksatt eller planlegger å iverksette for å legge til rette for gjennomføringen av gjenopprettingsplanen, inkludert de som er nødvendige for å muliggjøre rettidig rekapitalisering av foretaket, og
+20. et rammeverk av indikatorer som identifiserer tidspunktet for når passende tiltak nevnt i planen kan iverksettes.
 
 For morforetak i norsk finanskonsern skal gjenopprettingsplanen inneholde informasjon som dekker finanskonsernet og de enkelte konsernforetak, jf. [finansforetaksloven § 20-5 fjerde ledd](lov/2015-04-10-17/§20-5/ledd/4).
 
@@ -1366,7 +1899,10 @@ For morforetak i norsk finanskonsern skal gjenopprettingsplanen inneholde inform
 
 Foretak og morforetak i finanskonsern skal i sine gjenopprettingsplaner fastsette et sett med indikatorer som angir når relevante tiltak i gjenopprettingsplanen kan iverksettes. Finanstilsynet skal godkjenne indikatorsettene i forbindelse med vurderingen av gjenopprettingsplanen etter [finansforetaksloven § 20-5](lov/2015-04-10-17/§20-5). Indikatorene kan være av kvalitativ eller kvantitativ art avhengig av foretakets finansielle stilling, og skal enkelt kunne overvåkes. Finanstilsynet skal sikre at foretakene har et egnet system for regelmessig overvåkning av indikatorene.
 
-Uten hensyn til første ledd kan et foretaktreffe tiltak i henhold til sin gjenopprettingsplan i tilfeller der den relevante indikatoren ikke er oppfylt, men der styret anser det som hensiktsmessig ut fra omstendighetene, ellerunnlate å treffe slike tiltak dersom styret anser at det ikke er hensiktsmessig ut fra omstendighetene.
+Uten hensyn til første ledd kan et foretak
+
+1. treffe tiltak i henhold til sin gjenopprettingsplan i tilfeller der den relevante indikatoren ikke er oppfylt, men der styret anser det som hensiktsmessig ut fra omstendighetene, eller
+2. unnlate å treffe slike tiltak dersom styret anser at det ikke er hensiktsmessig ut fra omstendighetene.
 
 En beslutning om å iverksette eller unnlate å iverksette tiltak skal meldes til Finanstilsynet uten ugrunnet opphold.
 
@@ -1374,19 +1910,101 @@ En beslutning om å iverksette eller unnlate å iverksette tiltak skal meldes ti
 
 ### § 20-3d. Innholdet i krisetiltaksplaner
 
-Krisetiltaksplaner etter [finansforetaksloven § 20-6](lov/2015-04-10-17/§20-6) skal inneholde alternativer for hvordan krisetiltaksverktøy og -fullmakter kan brukes på foretaket. Krisetiltaksplanen skal inneholde følgende punkter, som kvantifiseres når det er hensiktsmessig og mulig:et sammendrag av planens hovedinnhold,et sammendrag av de vesentligste endringene som har skjedd i foretaket etter at de seneste krisehåndteringsopplysningene ble innrapportert,en beskrivelse av hvordan kritiske funksjoner og hovedforretningsområder, i den utstrekning som kreves, kan skilles ut juridisk og økonomisk fra øvrige funksjoner for å sikre fortsatt drift og digital operasjonell motstandskraft hvis foretaket blir kriserammet,en anslått tidsramme for gjennomføringen av hver av planens vesentlige deler,en nærmere beskrivelse av Finanstilsynets vurdering av muligheter og hindringer for krisehåndtering etter [finansforetaksloven §§ 20-6](lov/2015-04-10-17/§20-6) og [20-6a](lov/2015-04-10-17/§20-6a),en beskrivelse av alle tiltak som kreves i henhold til [finansforetaksloven § 20-6a tredje ledd](lov/2015-04-10-17/§20-6a/ledd/3) for å håndtere eller fjerne hindringer for krisehåndtering som er påvist ved vurderingen som er utført i henhold til [finansforetaksloven § 20-6](lov/2015-04-10-17/§20-6),en beskrivelse av fremgangsmåten for å fastsette verdien av og muligheten for å selge foretakets kritiske funksjoner, hovedforretningsområder og eiendeler,en nærmere beskrivelse av ordninger som skal sikre at opplysningene som kan kreves i henhold til [finansforetaksloven § 20-6 tredje ledd](lov/2015-04-10-17/§20-6/ledd/3), til enhver tid er oppdaterte og tilgjengelige for Finanstilsynet,en redegjørelse fra Finanstilsynet for hvordan krisetiltakene kan finansieres uten at følgende legges til grunn:ekstraordinær finansiell støtte fra det offentlige, utenom bruk av krisetiltaksfondet,likviditetsstøtte fra sentralbanken i en krisesituasjon, ellerlikviditetsstøtte fra sentralbanken på grunnlag av vilkår som avviker fra standardvilkår når det gjelder sikkerhet, løpetid og rentesatser,en nærmere beskrivelse av de ulike krisehåndteringsstrategiene som kan brukes i forbindelse med de ulike mulige scenariene og gjeldende tidsfrister,en beskrivelse av kritiske innbyrdes avhengigheter,en beskrivelse av mulighetene for å opprettholde tilgangen til betalings- og oppgjørstjenester og annen infrastruktur, og en vurdering av muligheten til å overføre kundenes posisjoner,en analyse av planens innvirkning på foretakets ansatte, herunder en vurdering av eventuelle tilknyttede kostnader, og en beskrivelse av planlagte prosedyrer for at de ansatte blir hørt under krisehåndteringsprosessen,en plan for kommunikasjon med mediene og offentligheten,minstekravet til summen av ansvarlig kapital og konvertibel gjeld i henhold til [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9) og eventuelt en frist for å nå dette kravet,når det er relevant, minstekravet til ansvarlig kapital og avtalefestede interne tapsdekningsinstrumenter fastsatt etter [§§ 20-7](forskrift/2016-12-09-1502/§20-7) og [20-7a](forskrift/2016-12-09-1502/§20-7a) i forskriften her og eventuelt en frist for å nå dette nivået,en beskrivelse av aktiviteter og systemer som er avgjørende for å opprettholde foretakets operative prosesser, inkludert nettverks- og informasjonssystemer som nevnt i [DORA-forordningen](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),eventuelle uttalelser fra foretaket om krisetiltaksplanen.
+Krisetiltaksplaner etter [finansforetaksloven § 20-6](lov/2015-04-10-17/§20-6) skal inneholde alternativer for hvordan krisetiltaksverktøy og -fullmakter kan brukes på foretaket. Krisetiltaksplanen skal inneholde følgende punkter, som kvantifiseres når det er hensiktsmessig og mulig:
+
+1. et sammendrag av planens hovedinnhold,
+2. et sammendrag av de vesentligste endringene som har skjedd i foretaket etter at de seneste krisehåndteringsopplysningene ble innrapportert,
+3. en beskrivelse av hvordan kritiske funksjoner og hovedforretningsområder, i den utstrekning som kreves, kan skilles ut juridisk og økonomisk fra øvrige funksjoner for å sikre fortsatt drift og digital operasjonell motstandskraft hvis foretaket blir kriserammet,
+4. en anslått tidsramme for gjennomføringen av hver av planens vesentlige deler,
+5. en nærmere beskrivelse av Finanstilsynets vurdering av muligheter og hindringer for krisehåndtering etter [finansforetaksloven §§ 20-6](lov/2015-04-10-17/§20-6) og [20-6a](lov/2015-04-10-17/§20-6a),
+6. en beskrivelse av alle tiltak som kreves i henhold til [finansforetaksloven § 20-6a tredje ledd](lov/2015-04-10-17/§20-6a/ledd/3) for å håndtere eller fjerne hindringer for krisehåndtering som er påvist ved vurderingen som er utført i henhold til [finansforetaksloven § 20-6](lov/2015-04-10-17/§20-6),
+7. en beskrivelse av fremgangsmåten for å fastsette verdien av og muligheten for å selge foretakets kritiske funksjoner, hovedforretningsområder og eiendeler,
+8. en nærmere beskrivelse av ordninger som skal sikre at opplysningene som kan kreves i henhold til [finansforetaksloven § 20-6 tredje ledd](lov/2015-04-10-17/§20-6/ledd/3), til enhver tid er oppdaterte og tilgjengelige for Finanstilsynet,
+9. en redegjørelse fra Finanstilsynet for hvordan krisetiltakene kan finansieres uten at følgende legges til grunn:
+
+   1. ekstraordinær finansiell støtte fra det offentlige, utenom bruk av krisetiltaksfondet,
+   2. likviditetsstøtte fra sentralbanken i en krisesituasjon, eller
+   3. likviditetsstøtte fra sentralbanken på grunnlag av vilkår som avviker fra standardvilkår når det gjelder sikkerhet, løpetid og rentesatser,
+10. en nærmere beskrivelse av de ulike krisehåndteringsstrategiene som kan brukes i forbindelse med de ulike mulige scenariene og gjeldende tidsfrister,
+11. en beskrivelse av kritiske innbyrdes avhengigheter,
+12. en beskrivelse av mulighetene for å opprettholde tilgangen til betalings- og oppgjørstjenester og annen infrastruktur, og en vurdering av muligheten til å overføre kundenes posisjoner,
+13. en analyse av planens innvirkning på foretakets ansatte, herunder en vurdering av eventuelle tilknyttede kostnader, og en beskrivelse av planlagte prosedyrer for at de ansatte blir hørt under krisehåndteringsprosessen,
+14. en plan for kommunikasjon med mediene og offentligheten,
+15. minstekravet til summen av ansvarlig kapital og konvertibel gjeld i henhold til [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9) og eventuelt en frist for å nå dette kravet,
+16. når det er relevant, minstekravet til ansvarlig kapital og avtalefestede interne tapsdekningsinstrumenter fastsatt etter [§§ 20-7](forskrift/2016-12-09-1502/§20-7) og [20-7a](forskrift/2016-12-09-1502/§20-7a) i forskriften her og eventuelt en frist for å nå dette nivået,
+17. en beskrivelse av aktiviteter og systemer som er avgjørende for å opprettholde foretakets operative prosesser, inkludert nettverks- og informasjonssystemer som nevnt i [DORA-forordningen](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),
+18. eventuelle uttalelser fra foretaket om krisetiltaksplanen.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
 ### § 20-3e. Informasjon som krisehåndteringsmyndigheter kan be om fra foretak til bruk for utarbeidelse og vedlikehold av krisetiltaksplaner
 
-Krisehåndteringsmyndigheter kan be foretak om å gi følgende informasjon for å utarbeide og vedlikeholde krisetiltaksplaner for foretaket, og der hvor det er relevant, det konsernet det er en del av og konsernets juridiske enheter:en detaljert beskrivelse av konsernets organisasjonsstruktur, inkludert en liste over alle juridiske enheter,informasjon om de direkte eierne og prosentandelen av stemmeberettigede og ikke-stemmeberettigede rettigheter for hver juridiske enhet,lokasjon, jurisdiksjon for registrering, lisensiering og nøkkelpersonell knyttet til hver juridiske enhet i konsernet,en oversikt over foretakets kritiske funksjoner og hovedforretningsområder, herunder vesentlige eiendeler og forpliktelser knyttet til slike funksjoner og forretningsområder, for hver juridiske enhet i konsernet,en detaljert beskrivelse av foretakets og alle konsernets juridiske enheters forpliktelser, minst delt opp etter typer og beløp for kortsiktig og langsiktig gjeld, sikrede, usikrede og etterstilte forpliktelser,en detaljert beskrivelse av om de forpliktelsene som er gjenstand for nedskrivning eller konvertering,en beskrivelse av prosessene som trengs for å fastslå hvem foretaket har stilt sikkerhet for, hvem som innehar sikkerheten og i hvilken jurisdiksjon sikkerheten befinner seg i,en beskrivelse av foretakets og konsernets juridiske enheters ikke-balanseførte eksponeringer, herunder en oversikt per kritiske funksjon og hovedforretningsområder,informasjon om foretakets vesentlige sikringsforretninger, herunder per juridiske enhet i konsernet,informasjon om foretakets største eller mest kritiske motparter, samt en analyse av virkningen av en eventuell krise hos disse motpartene på foretakets finansielle situasjon,oversikt over hvert system hvor foretaket gjennomfører et vesentlig antall eller verdi av handler, herunder en oversikt per juridisk enhet, kritiske funksjoner og hovedforretningsområder i konsernet,oversikt over hvert betalings-, oppgjørs- eller avregningssystem som foretaket er direkte eller indirekte medlem av, inkludert en kartlegging til juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,en detaljert oversikt og beskrivelse av ledelsesinformasjonssystemene, inkludert systemer for risikostyring, regnskap og finansiell og regulatorisk rapportering med kartlegging til juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,identifikasjon av eierne av systemene nevnt i punkt 13, tjenestenivåavtaler knyttet til disse samt programvare, systemer og lisenser, herunder per juridisk enhet, kritiske funksjoner og hovedforretningsområder i konsernet, og identifikasjon av kritiske IKT-tjenesteleverandører som definert i forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),resultatene av foretakenes testing av digital operasjonell motstandsdyktighet i henhold til forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),identifikasjon og kartlegging av juridiske enheter og forbindelser og avhengigheter mellom dem, som for eksempel:felles eller delt personale, fasiliteter og systemerkapital-, finansierings- eller likviditetsordningereksisterende eller betingede kreditteksponeringerkryssgarantiavtaler, krysspantordninger, kryssmisligholdsbestemmelser og krysskonsern-nettingavtalerrisikooverføringer og back-to-back-handelsordninger; tjenestenivåavtaler,tilsynsmyndighet og krisehåndteringsmyndighet for hver juridiske enhet i konsernet,medlemmet av ledelsen som er ansvarlig for å gi informasjonen som er nødvendig for å utarbeide foretakets krisehåndteringsplan, samt de som er ansvarlige for ulike juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,en beskrivelse av ordningene foretaket har etablert for å sikre at Finanstilsynet ved en eventuell krisehåndtering har all nødvendig informasjon for å bruke krisehåndteringsverktøy og -fullmakter,alle med tredjeparter som foretaket og andre selskap i konsernet har inngått, hvor oppsigelse kan utløses av en beslutning om å ta i bruk et krisehåndteringsverktøy, og hvor konsekvensene av oppsigelsen kan påvirke bruken av verktøyet,en beskrivelse av mulige likviditetskilder for å støtte krisehåndtering,informasjon om beheftede eiendeler, likvide eiendeler, ikke-balanseførte poster, sikringsstrategier og regnskapsføringspraksis.
+Krisehåndteringsmyndigheter kan be foretak om å gi følgende informasjon for å utarbeide og vedlikeholde krisetiltaksplaner for foretaket, og der hvor det er relevant, det konsernet det er en del av og konsernets juridiske enheter:
+
+1. en detaljert beskrivelse av konsernets organisasjonsstruktur, inkludert en liste over alle juridiske enheter,
+2. informasjon om de direkte eierne og prosentandelen av stemmeberettigede og ikke-stemmeberettigede rettigheter for hver juridiske enhet,
+3. lokasjon, jurisdiksjon for registrering, lisensiering og nøkkelpersonell knyttet til hver juridiske enhet i konsernet,
+4. en oversikt over foretakets kritiske funksjoner og hovedforretningsområder, herunder vesentlige eiendeler og forpliktelser knyttet til slike funksjoner og forretningsområder, for hver juridiske enhet i konsernet,
+5. en detaljert beskrivelse av foretakets og alle konsernets juridiske enheters forpliktelser, minst delt opp etter typer og beløp for kortsiktig og langsiktig gjeld, sikrede, usikrede og etterstilte forpliktelser,
+6. en detaljert beskrivelse av om de forpliktelsene som er gjenstand for nedskrivning eller konvertering,
+7. en beskrivelse av prosessene som trengs for å fastslå hvem foretaket har stilt sikkerhet for, hvem som innehar sikkerheten og i hvilken jurisdiksjon sikkerheten befinner seg i,
+8. en beskrivelse av foretakets og konsernets juridiske enheters ikke-balanseførte eksponeringer, herunder en oversikt per kritiske funksjon og hovedforretningsområder,
+9. informasjon om foretakets vesentlige sikringsforretninger, herunder per juridiske enhet i konsernet,
+10. informasjon om foretakets største eller mest kritiske motparter, samt en analyse av virkningen av en eventuell krise hos disse motpartene på foretakets finansielle situasjon,
+11. oversikt over hvert system hvor foretaket gjennomfører et vesentlig antall eller verdi av handler, herunder en oversikt per juridisk enhet, kritiske funksjoner og hovedforretningsområder i konsernet,
+12. oversikt over hvert betalings-, oppgjørs- eller avregningssystem som foretaket er direkte eller indirekte medlem av, inkludert en kartlegging til juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,
+13. en detaljert oversikt og beskrivelse av ledelsesinformasjonssystemene, inkludert systemer for risikostyring, regnskap og finansiell og regulatorisk rapportering med kartlegging til juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,
+14. identifikasjon av eierne av systemene nevnt i punkt 13, tjenestenivåavtaler knyttet til disse samt programvare, systemer og lisenser, herunder per juridisk enhet, kritiske funksjoner og hovedforretningsområder i konsernet, og identifikasjon av kritiske IKT-tjenesteleverandører som definert i forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),
+15. resultatene av foretakenes testing av digital operasjonell motstandsdyktighet i henhold til forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),
+16. identifikasjon og kartlegging av juridiske enheter og forbindelser og avhengigheter mellom dem, som for eksempel:
+
+    1. felles eller delt personale, fasiliteter og systemer
+    2. kapital-, finansierings- eller likviditetsordninger
+    3. eksisterende eller betingede kreditteksponeringer
+    4. kryssgarantiavtaler, krysspantordninger, kryssmisligholdsbestemmelser og krysskonsern-nettingavtaler
+    5. risikooverføringer og back-to-back-handelsordninger; tjenestenivåavtaler,
+17. tilsynsmyndighet og krisehåndteringsmyndighet for hver juridiske enhet i konsernet,
+18. medlemmet av ledelsen som er ansvarlig for å gi informasjonen som er nødvendig for å utarbeide foretakets krisehåndteringsplan, samt de som er ansvarlige for ulike juridiske enheter, kritiske funksjoner og hovedforretningsområder i konsernet,
+19. en beskrivelse av ordningene foretaket har etablert for å sikre at Finanstilsynet ved en eventuell krisehåndtering har all nødvendig informasjon for å bruke krisehåndteringsverktøy og -fullmakter,
+20. alle med tredjeparter som foretaket og andre selskap i konsernet har inngått, hvor oppsigelse kan utløses av en beslutning om å ta i bruk et krisehåndteringsverktøy, og hvor konsekvensene av oppsigelsen kan påvirke bruken av verktøyet,
+21. en beskrivelse av mulige likviditetskilder for å støtte krisehåndtering,
+22. informasjon om beheftede eiendeler, likvide eiendeler, ikke-balanseførte poster, sikringsstrategier og regnskapsføringspraksis.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
 ### § 20-3f. Forhold som krisehåndteringsmyndigheten skal ta i betraktning ved vurderingen av muligheten for å krisehåndtere et foretak eller konsern
 
-Når Finanstilsynet vurderer krisehåndteringsmulighetene for et foretak eller et konsern, skal det ta hensyn til:I hvilken grad foretaket er i stand til å koble hovedforretningsområder og kritiske funksjoner til juridiske enheter,i hvilken grad juridiske og selskapsmessige strukturer er tilpasset hovedforretningsområder og kritiske funksjoner,i hvilken grad det finnes ordninger for å sikre tilgang til nødvendig personell, infrastruktur, finansiering, likviditet og kapital for å støtte og opprettholde hovedforretningsområdene og de kritiske funksjonene,i hvilken grad tjenesteavtaler, inkludert kontraktsmessige ordninger for bruk av IKT-tjenester, er robuste og fullt håndhevbare ved en eventuell krisehåndtering av foretaket,den digitale operasjonelle motstandsdyktigheten til nettverks- og informasjonssystemene som støtter foretakets kritiske funksjoner og kjernevirksomhetsområder, med hensyn til rapporter om større IKT-hendelser og resultater fra testing i henhold til forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),i hvilken grad foretakets styringsstruktur er egnet til å håndtere og sikre etterlevelse av interne retningslinjer knyttet til tjenestenivåavtaler,i hvilken grad foretaket har rutiner for å overføre tjenester til tredjeparter levert under tjenestenivåavtaler ved separasjon av kritiske funksjoner eller hovedforretningsområder,i hvilken grad det finnes beredskapsplaner og tiltak for å sikre kontinuitet i tilgang til betalings- og oppgjørssystemer,hvor godt ledelsesinformasjonssystemene gjør det mulig for Finanstilsynet å innhente nøyaktig og fullstendig informasjon om kjernevirksomhetsområder og kritiske funksjoner for å legge til rette for raske beslutninger,ledelsesinformasjonssystemenes evne til å levere nødvendig informasjon for effektiv krisehåndtering av foretaket til enhver tid, selv under raskt skiftende forhold,i hvilken grad foretaket har testet sine ledelsesinformasjonssystemer under stresscenarier som definert av Finanstilsynet,i hvilken grad foretaket kan sikre kontinuitet i sine ledelsesinformasjonssystemer både for det berørte foretaket og et eventuelt nytt foretak dersom kritiske funksjoner og hovedforretningsområder skilles ut,i hvilken grad foretaket har etablert tilstrekkelige prosesser for å gi Finanstilsynet nødvendig informasjon for å identifisere innskytere og beløp dekket av innskuddsgarantiordningene,når konsernet benytter konserninterne garantier, i hvilken grad disse garantiene gis på markedsvilkår og hvor robuste risikostyringssystemene for disse garantiene er,når konsernet gjennomfører back-to-back-transaksjoner, i hvilken grad disse skjer på markedsvilkår og hvor robuste risikostyringssystemene for slike praksiser er,i hvilken grad bruk av konserninterne garantier eller back-to-back-transaksjoner øker smitteeffekten i konsernet,i hvilken grad konsernets juridiske struktur hindrer bruk av krisehåndteringsverktøy på grunn av antall juridiske enheter, kompleksiteten i konsernstrukturen eller vanskeligheter med å tilpasse forretningsområder til konsernenheter,mengden og typen av foretakets konvertible gjeld,når vurderingen gjelder et holdingforetak i konsern med finansiell og ikke-finansiell virksomhet, i hvilken grad krisehåndtering av konsernforetak som er finansforetak eller finansielle foretak kan påvirke den ikke-finansielle delen av konsernet negativt,eksistensen og robustheten til tjenestenivåavtaler,om myndigheter i tredjeland har nødvendige krisehåndteringsverktøy for å støtte tiltak fra EØS-myndigheter, og muligheten for koordinert handling mellom EØS og tredjeland,muligheten for å bruke krisehåndteringsverktøy på en måte som oppfyller krisehåndteringsmålene, gitt tilgjengelige verktøy og foretakets struktur,i hvilken grad konsernstrukturen gjør det mulig for Finanstilsynet, med mål om å maksimere verdien av konsernet som helhet, å krisehåndtere hele konsernet eller én eller flere konsernselskaper uten å forårsake betydelig direkte eller indirekte negativ effekt på det finansielle systemet, markedstilliten eller økonomien,hvilke ordninger og midler som kan lette krisehåndtering i tilfeller der konsernet har datterselskaper i ulike jurisdiksjoner,hvor sannsynlig det er at krisehåndteringsverktøy anvendes på en slik måte at krisehåndteringsmålene nås, gitt mulige konsekvenser for kreditorer, motparter, kunder og ansatte, samt mulige tiltak fra myndigheter i tredjeland,i hvilken grad det kan foretas en tilstrekkelig vurdering av virkningen av foretakets krisehåndtering på det finansielle systemet og tilliten i finansmarkedene,i hvilken grad krisehåndteringen av foretaket kan ha betydelig direkte eller indirekte negativ effekt på det finansielle systemet, tilliten i markedet, eller økonomien,i hvilken grad smitteeffekter til andre foretak eller finansmarkeder kan begrenses gjennom bruk av krisehåndteringsverktøy og -fullmakter,i hvilken grad krisehåndteringen av foretaket kan få betydelig innvirkning på driften av betalings- og oppgjørssystemer.
+Når Finanstilsynet vurderer krisehåndteringsmulighetene for et foretak eller et konsern, skal det ta hensyn til:
+
+1. I hvilken grad foretaket er i stand til å koble hovedforretningsområder og kritiske funksjoner til juridiske enheter,
+2. i hvilken grad juridiske og selskapsmessige strukturer er tilpasset hovedforretningsområder og kritiske funksjoner,
+3. i hvilken grad det finnes ordninger for å sikre tilgang til nødvendig personell, infrastruktur, finansiering, likviditet og kapital for å støtte og opprettholde hovedforretningsområdene og de kritiske funksjonene,
+4. i hvilken grad tjenesteavtaler, inkludert kontraktsmessige ordninger for bruk av IKT-tjenester, er robuste og fullt håndhevbare ved en eventuell krisehåndtering av foretaket,
+5. den digitale operasjonelle motstandsdyktigheten til nettverks- og informasjonssystemene som støtter foretakets kritiske funksjoner og kjernevirksomhetsområder, med hensyn til rapporter om større IKT-hendelser og resultater fra testing i henhold til forordning [(EU) 2022/2554](eu/32022r2554), jf. [DORA-loven § 1](lov/2025-05-27-18/§1),
+6. i hvilken grad foretakets styringsstruktur er egnet til å håndtere og sikre etterlevelse av interne retningslinjer knyttet til tjenestenivåavtaler,
+7. i hvilken grad foretaket har rutiner for å overføre tjenester til tredjeparter levert under tjenestenivåavtaler ved separasjon av kritiske funksjoner eller hovedforretningsområder,
+8. i hvilken grad det finnes beredskapsplaner og tiltak for å sikre kontinuitet i tilgang til betalings- og oppgjørssystemer,
+9. hvor godt ledelsesinformasjonssystemene gjør det mulig for Finanstilsynet å innhente nøyaktig og fullstendig informasjon om kjernevirksomhetsområder og kritiske funksjoner for å legge til rette for raske beslutninger,
+10. ledelsesinformasjonssystemenes evne til å levere nødvendig informasjon for effektiv krisehåndtering av foretaket til enhver tid, selv under raskt skiftende forhold,
+11. i hvilken grad foretaket har testet sine ledelsesinformasjonssystemer under stresscenarier som definert av Finanstilsynet,
+12. i hvilken grad foretaket kan sikre kontinuitet i sine ledelsesinformasjonssystemer både for det berørte foretaket og et eventuelt nytt foretak dersom kritiske funksjoner og hovedforretningsområder skilles ut,
+13. i hvilken grad foretaket har etablert tilstrekkelige prosesser for å gi Finanstilsynet nødvendig informasjon for å identifisere innskytere og beløp dekket av innskuddsgarantiordningene,
+14. når konsernet benytter konserninterne garantier, i hvilken grad disse garantiene gis på markedsvilkår og hvor robuste risikostyringssystemene for disse garantiene er,
+15. når konsernet gjennomfører back-to-back-transaksjoner, i hvilken grad disse skjer på markedsvilkår og hvor robuste risikostyringssystemene for slike praksiser er,
+16. i hvilken grad bruk av konserninterne garantier eller back-to-back-transaksjoner øker smitteeffekten i konsernet,
+17. i hvilken grad konsernets juridiske struktur hindrer bruk av krisehåndteringsverktøy på grunn av antall juridiske enheter, kompleksiteten i konsernstrukturen eller vanskeligheter med å tilpasse forretningsområder til konsernenheter,
+18. mengden og typen av foretakets konvertible gjeld,
+19. når vurderingen gjelder et holdingforetak i konsern med finansiell og ikke-finansiell virksomhet, i hvilken grad krisehåndtering av konsernforetak som er finansforetak eller finansielle foretak kan påvirke den ikke-finansielle delen av konsernet negativt,
+20. eksistensen og robustheten til tjenestenivåavtaler,
+21. om myndigheter i tredjeland har nødvendige krisehåndteringsverktøy for å støtte tiltak fra EØS-myndigheter, og muligheten for koordinert handling mellom EØS og tredjeland,
+22. muligheten for å bruke krisehåndteringsverktøy på en måte som oppfyller krisehåndteringsmålene, gitt tilgjengelige verktøy og foretakets struktur,
+23. i hvilken grad konsernstrukturen gjør det mulig for Finanstilsynet, med mål om å maksimere verdien av konsernet som helhet, å krisehåndtere hele konsernet eller én eller flere konsernselskaper uten å forårsake betydelig direkte eller indirekte negativ effekt på det finansielle systemet, markedstilliten eller økonomien,
+24. hvilke ordninger og midler som kan lette krisehåndtering i tilfeller der konsernet har datterselskaper i ulike jurisdiksjoner,
+25. hvor sannsynlig det er at krisehåndteringsverktøy anvendes på en slik måte at krisehåndteringsmålene nås, gitt mulige konsekvenser for kreditorer, motparter, kunder og ansatte, samt mulige tiltak fra myndigheter i tredjeland,
+26. i hvilken grad det kan foretas en tilstrekkelig vurdering av virkningen av foretakets krisehåndtering på det finansielle systemet og tilliten i finansmarkedene,
+27. i hvilken grad krisehåndteringen av foretaket kan ha betydelig direkte eller indirekte negativ effekt på det finansielle systemet, tilliten i markedet, eller økonomien,
+28. i hvilken grad smitteeffekter til andre foretak eller finansmarkeder kan begrenses gjennom bruk av krisehåndteringsverktøy og -fullmakter,
+29. i hvilken grad krisehåndteringen av foretaket kan få betydelig innvirkning på driften av betalings- og oppgjørssystemer.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
@@ -1398,21 +2016,36 @@ Foretak som er medlemmer av en institusjonell beskyttelsesordning som nevnt i [C
 
 Ved fritak etter første eller annet ledd, skal henvisninger til et konsern i lov- eller forskriftsregler om gjenopprettings- eller krisetiltaksplaner forstås som å omfatte et sentralt organ og tilknyttede foretak som nevnt i [CRR](eu/32013r0575) artikkel 10, jf. [CRR/CRD-forskriften § 2 første ledd](forskrift/2014-08-22-1097/§2/ledd/1), og deres datterforetak. Tilsvarende skal henvisninger til et morforetak eller foretak underlagt konsolidert tilsyn etter [finanstilsynsloven § 1-2 nr. 2](lov/2024-06-21-41/§1-2/nummer/2) forstås som å omfatte et sentralt organ.
 
-Foretak som utgjør en vesentlig del av det finansielle systemet kan ikke fritas etter første eller annet ledd, og skal alltid utarbeide egne gjenopprettingsplaner og være gjenstand for individuell krisetiltaksplanlegging etter [finansforetaksloven §§ 20-5](lov/2015-04-10-17/§20-5) og [20-6](lov/2015-04-10-17/§20-6) og forskriften her. Med foretak som utgjør en vesentlig del av det finansielle systemet, menes entenforetak hvis samlet verdi av eiendeler overstiger et beløp i norske kroner som tilsvarer 30 milliarder euro, ellerforetak hvis totale eiendeler utgjør mer enn 20 prosent av brutto nasjonalprodukt i Norge, med mindre samlet verdi av eiendeler er mindre enn et beløp i norske kroner som tilsvarer 5 milliarder euro.
+Foretak som utgjør en vesentlig del av det finansielle systemet kan ikke fritas etter første eller annet ledd, og skal alltid utarbeide egne gjenopprettingsplaner og være gjenstand for individuell krisetiltaksplanlegging etter [finansforetaksloven §§ 20-5](lov/2015-04-10-17/§20-5) og [20-6](lov/2015-04-10-17/§20-6) og forskriften her. Med foretak som utgjør en vesentlig del av det finansielle systemet, menes enten
+
+1. foretak hvis samlet verdi av eiendeler overstiger et beløp i norske kroner som tilsvarer 30 milliarder euro, eller
+2. foretak hvis totale eiendeler utgjør mer enn 20 prosent av brutto nasjonalprodukt i Norge, med mindre samlet verdi av eiendeler er mindre enn et beløp i norske kroner som tilsvarer 5 milliarder euro.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
 ### § 20-3h. Avtaler om konsernintern støtte
 
-En avtale om konsernintern støtte etter [finansforetaksloven § 20-8](lov/2015-04-10-17/§20-8) kanomfatte ett eller flere av konsernets datterforetak og inneholde bestemmelser om finansiell støtte fra morforetaket til datterforetak, fra datterforetak til morforetaket, mellom de av konsernets datterforetak som er part i avtalen, eller en kombinasjon av disse foretakene,inneholde bestemmelser om finansiell støtte i form av lån, garantier, sikkerhetsstillelse eller en kombinasjon av disse formene for støtte i forbindelse med én eller flere transaksjoner, herunder mellom støttemottakeren og en tredjepart.
+En avtale om konsernintern støtte etter [finansforetaksloven § 20-8](lov/2015-04-10-17/§20-8) kan
+
+1. omfatte ett eller flere av konsernets datterforetak og inneholde bestemmelser om finansiell støtte fra morforetaket til datterforetak, fra datterforetak til morforetaket, mellom de av konsernets datterforetak som er part i avtalen, eller en kombinasjon av disse foretakene,
+2. inneholde bestemmelser om finansiell støtte i form av lån, garantier, sikkerhetsstillelse eller en kombinasjon av disse formene for støtte i forbindelse med én eller flere transaksjoner, herunder mellom støttemottakeren og en tredjepart.
 
 Dersom et konsernforetak i samsvar med vilkårene i avtalen om konsernintern støtte samtykker i å gi finansiell støtte til et annet konsernforetak, kan avtalen inneholde en tilsvarende klausul om finansiell støtte fra konsernforetaket som mottar støtten, til konsernforetaket som gir støtten.
 
-En avtale om konsernintern støtte skal fastsette prinsipper for beregning av vederlag for hver transaksjon som gjennomføres i henhold til den. Prinsippene skal inneholde et krav om at vederlaget skal fastsettes på det tidspunkt når den finansielle støtten gis. I tillegg skal avtalen oppfylle følgende krav:alle parter skal inngå avtalen frivillig,når avtalen inngås, skal alle parter ivareta sine egne interesser, og de kan ta hensyn til eventuelle direkte eller indirekte fordeler en part kan få som følge av tildelingen av den finansielle støtten,alle parter som gir finansiell støtte, skal ha full tilgang til relevante opplysninger fra enhver part som mottar finansiell støtte før vederlaget for tildelingen av finansiell støtte fastsettes og før en eventuell beslutning om å gi finansiell støtte treffes,når vederlaget for tildelingen av finansiell støtte fastsettes, kan det tas hensyn til opplysninger som innehas av støttegiveren i kraft av at denne og støttemottakeren er del av samme konsern, og som markedet ikke har tilgang til, ogprinsippene for beregning av vederlaget som skal betales for tildeling av finansiell støtte kan fastsettes uten hensyn til en eventuelt midlertidig innvirkning på markedsprisene som følge av hendelser utenfor konsernet.
+En avtale om konsernintern støtte skal fastsette prinsipper for beregning av vederlag for hver transaksjon som gjennomføres i henhold til den. Prinsippene skal inneholde et krav om at vederlaget skal fastsettes på det tidspunkt når den finansielle støtten gis. I tillegg skal avtalen oppfylle følgende krav:
+
+1. alle parter skal inngå avtalen frivillig,
+2. når avtalen inngås, skal alle parter ivareta sine egne interesser, og de kan ta hensyn til eventuelle direkte eller indirekte fordeler en part kan få som følge av tildelingen av den finansielle støtten,
+3. alle parter som gir finansiell støtte, skal ha full tilgang til relevante opplysninger fra enhver part som mottar finansiell støtte før vederlaget for tildelingen av finansiell støtte fastsettes og før en eventuell beslutning om å gi finansiell støtte treffes,
+4. når vederlaget for tildelingen av finansiell støtte fastsettes, kan det tas hensyn til opplysninger som innehas av støttegiveren i kraft av at denne og støttemottakeren er del av samme konsern, og som markedet ikke har tilgang til, og
+5. prinsippene for beregning av vederlaget som skal betales for tildeling av finansiell støtte kan fastsettes uten hensyn til en eventuelt midlertidig innvirkning på markedsprisene som følge av hendelser utenfor konsernet.
 
 En avtale om konsernintern finansiell støtte kan bare inngås så lenge ingen av partenes tilsynsmyndigheter mener at vilkårene for tidlig inngripen etter [finansforetaksloven §§ 20-11](lov/2015-04-10-17/§20-11) til [20-14](lov/2015-04-10-17/§20-14) er oppfylt på tidspunktet for avtaleinngåelsen, jf. [finansforetaksloven § 20-8 første ledd annet punktum](lov/2015-04-10-17/§20-8/ledd/1/setning/2).
 
-En avtale om konsernintern finansiell støtte er ikke en forutsetning forå gi konsernintern finansiell støtte til et konsernforetak som opplever finansielle vanskeligheter, dersom foretaket beslutter å gjøre dette, i enkelttilfeller og i samsvar med konsernets retningslinjer, forutsatt at det ikke utgjør en risiko for konsernet som helhet, ellerå utøve virksomhet.
+En avtale om konsernintern finansiell støtte er ikke en forutsetning for
+
+1. å gi konsernintern finansiell støtte til et konsernforetak som opplever finansielle vanskeligheter, dersom foretaket beslutter å gjøre dette, i enkelttilfeller og i samsvar med konsernets retningslinjer, forutsatt at det ikke utgjør en risiko for konsernet som helhet, eller
+2. å utøve virksomhet.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
@@ -1476,15 +2109,29 @@ Krav til etterstillelse etter første ledd skal fastsettes slik at foretaket st�
 
 For globalt systemviktige foretak og europeiske eller nasjonalt systemkritiske krisehåndteringsenheter som Finanstilsynet er krisehåndteringsmyndighet for, kan Finanstilsynet fastsette et lavere krav til etterstillelse enn det som følger av tredje ledd, dersom hensynet til at foretakets eiere og kreditorer ville ha kommet bedre ut enn ved en avvikling, ivaretas fullt ut. Kravet til etterstillelse kan ikke settes lavere enn det som følger av et samlet etterstillelseskrav på (1-(X1/X2)) x 8 prosent, der X1 er 3,5 prosent av samlet risikovektet engasjementsbeløp, og X2 er 18 prosent av samlet risikovektet engasjementsbeløp og summen av det kombinerte kapitalbufferkravet.
 
-For globalt systemviktige foretak og europeiske eller nasjonalt systemkritiske krisehåndteringsenheter som Finanstilsynet er krisehåndteringsmyndighet for, kan Finanstilsynet fastsette et høyere krav til etterstillelse enn det som følger av tredje ledd. Kravet til etterstillelse kan ikke overstige det som følger av et samlet etterstillelseskrav på:åtte prosent av samlet gjeld og ansvarlig kapital ellerresultatet av A x 2 + B x 2 + C, der A og B er minstekravene til ansvarlig kapital etter [finansforetaksloven § 14-1](lov/2015-04-10-17/§14-1) første ledd og C er det kombinerte kapitalbufferkravet.
+For globalt systemviktige foretak og europeiske eller nasjonalt systemkritiske krisehåndteringsenheter som Finanstilsynet er krisehåndteringsmyndighet for, kan Finanstilsynet fastsette et høyere krav til etterstillelse enn det som følger av tredje ledd. Kravet til etterstillelse kan ikke overstige det som følger av et samlet etterstillelseskrav på:
+
+1. åtte prosent av samlet gjeld og ansvarlig kapital eller
+2. resultatet av A x 2 + B x 2 + C, der A og B er minstekravene til ansvarlig kapital etter [finansforetaksloven § 14-1](lov/2015-04-10-17/§14-1) første ledd og C er det kombinerte kapitalbufferkravet.
 
 Der åtte prosent av samlet gjeld og ansvarlig kapital utgjør mer enn 27 prosent av samlet risikovektet engasjementsbeløp, skal krav til etterstillelse for europeiske systemkritiske krisehåndteringsenheter ikke overstige 27 prosent av samlet risikovektet engasjementsbeløp, gitt at bruk av krisetiltaksfondet ikke vil være et alternativ under krisehåndtering.
 
-Krav etter femte ledd skal bygge på en vurdering av om:det foreligger vesentlig hindringer for krisehåndtering og i hvilken grad disse kan avhjelpes gjennom andre tiltak,en gjennomføring av krisehåndteringsstrategien er vanskelig i lys av foretakets størrelse, kompleksitet, virksomhetsrisiko, juridiske organisering eller eierstruktur, og omminstekrav i [finansforetaksloven § 13-6](lov/2015-04-10-17/§13-6) syvende ledd reflekterer at krisehåndteringsenheten er blant de 20 prosent av foretak som krisehåndteringsmyndigheten fastsetter minstekrav til summen av ansvarlig kapital og konvertibel gjeld for, som utgjør størst risiko.
+Krav etter femte ledd skal bygge på en vurdering av om:
+
+1. det foreligger vesentlig hindringer for krisehåndtering og i hvilken grad disse kan avhjelpes gjennom andre tiltak,
+2. en gjennomføring av krisehåndteringsstrategien er vanskelig i lys av foretakets størrelse, kompleksitet, virksomhetsrisiko, juridiske organisering eller eierstruktur, og om
+3. minstekrav i [finansforetaksloven § 13-6](lov/2015-04-10-17/§13-6) syvende ledd reflekterer at krisehåndteringsenheten er blant de 20 prosent av foretak som krisehåndteringsmyndigheten fastsetter minstekrav til summen av ansvarlig kapital og konvertibel gjeld for, som utgjør størst risiko.
 
 For øvrige foretak kan Finanstilsynet fastsette krav til etterstillelse etter reglene i femte ledd hvis det antas å være nødvendig for å hindre at eiere eller kreditorer kommer dårligere ut av en krisehåndtering enn ved en avvikling under offentlig administrasjon, jf. [finansforetaksloven § 20-38](lov/2015-04-10-17/§20-38).
 
-Før Finanstilsynet fastsetter høyere krav for øvrige foretak eller for mer enn 30 prosent av globalt systemviktige foretak og europeiske eller nasjonalt systemkritiske krisehåndteringsenheter som Finanstilsynet er krisehåndteringsmyndighet for, skal det tas hensyn til:markedsdybden for krisehåndteringsenhetens ansvarlig kapitalinstrumenter og etterstilt konvertibel gjeld, prisingen av denne og tiden det vil ta for foretaket å oppfylle et vedtak om høyere krav,beholdning av konvertibel gjeld som oppfyller kravene i artikkel 72a i CRR, og har gjenværende løpetid under ett år på tidspunktet for vedtak om høyere krav,tilgangen til og beholdningen av instrumenter som oppfyller kravene i artikkel 72a i CRR, unntatt artikkel 72b nr. 2 bokstav (d),om forpliktelser som er unntatt intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) første og annet ledd, er betydelig. De unntatte forpliktelsene i første punktum må under normal insolvensbehandling ha samme eller lavere prioritet enn foretakets ansvarlige kapital og konvertibel gjeld. Dersom unntatte forpliktelser ikke overstiger fem prosent av foretakets ansvarlige kapital og konvertibel gjeld, skal beløpet ikke regnes som betydelig,krisehåndteringsenhetens forretnings- og finansieringsmodell, risikoprofil og stabilitet, i tillegg til dens evne til å bidra til økonomien, oginnvirkningen eventuelle restruktureringskostnader vil ha på foretakets rekapitalisering.
+Før Finanstilsynet fastsetter høyere krav for øvrige foretak eller for mer enn 30 prosent av globalt systemviktige foretak og europeiske eller nasjonalt systemkritiske krisehåndteringsenheter som Finanstilsynet er krisehåndteringsmyndighet for, skal det tas hensyn til:
+
+1. markedsdybden for krisehåndteringsenhetens ansvarlig kapitalinstrumenter og etterstilt konvertibel gjeld, prisingen av denne og tiden det vil ta for foretaket å oppfylle et vedtak om høyere krav,
+2. beholdning av konvertibel gjeld som oppfyller kravene i artikkel 72a i CRR, og har gjenværende løpetid under ett år på tidspunktet for vedtak om høyere krav,
+3. tilgangen til og beholdningen av instrumenter som oppfyller kravene i artikkel 72a i CRR, unntatt artikkel 72b nr. 2 bokstav (d),
+4. om forpliktelser som er unntatt intern oppkapitalisering etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) første og annet ledd, er betydelig. De unntatte forpliktelsene i første punktum må under normal insolvensbehandling ha samme eller lavere prioritet enn foretakets ansvarlige kapital og konvertibel gjeld. Dersom unntatte forpliktelser ikke overstiger fem prosent av foretakets ansvarlige kapital og konvertibel gjeld, skal beløpet ikke regnes som betydelig,
+5. krisehåndteringsenhetens forretnings- og finansieringsmodell, risikoprofil og stabilitet, i tillegg til dens evne til å bidra til økonomien, og
+6. innvirkningen eventuelle restruktureringskostnader vil ha på foretakets rekapitalisering.
 
 > Tilføyd ved forskrift [19 des 2018 nr. 2144](forskrift/2018-12-19-2144) (i kraft 1 jan 2019), endret ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022).
 
@@ -1494,15 +2141,35 @@ Konvertibel gjeld som skal dekke minstekravet etter [§ 20-9](forskrift/2016-12-
 
 Finanstilsynet kan gi tillatelse til at gjeld som oppfyller vilkårene i CRR artikkel 72b nr. 3 og nr. 4, kan kvalifisere som konvertibel gjeld.
 
-Forpliktelser som oppstår fra gjeldsinstrumenter med innebygde derivater som oppfyller vilkårene i første ledd med unntak av CRR artikkel 72a (2) bokstav l, kan medregnes forutsatt at følgende vilkår er oppfylt:hovedstolen til forpliktelsen som oppstår fra gjeldsinstrumentet er kjent ved utstedelse, er konstant eller økende, og påvirkes ikke av egenskaper ved det innebygde derivatet. Forpliktelsen kan minst verdsettes daglig ved referanse til et aktivt og likvid marked for tilsvarende instrumenter uten kredittrisiko, i samsvar med CRR artikkel 104 og 105.gjeldsinstrumentet har avtalevilkår som angir at verdien av krav i tilfelle insolvens eller krisehåndtering av utsteder er konstant eller økende, og overstiger ikke opprinnelig innbetalt beløp for forpliktelsen.forpliktelsen skal ikke omfattes av motregningsavtaler, og verdsettelsen skal ikke foretas etter [finansforetaksloven § 20-16](lov/2015-04-10-17/§20-16)
+Forpliktelser som oppstår fra gjeldsinstrumenter med innebygde derivater som oppfyller vilkårene i første ledd med unntak av CRR artikkel 72a (2) bokstav l, kan medregnes forutsatt at følgende vilkår er oppfylt:
 
-Gjeld som utstedes av datterforetak til aksjeeier som ikke er en del av krisehåndteringskonsernet, og datterforetaket er en del av samme krisehåndteringskonsern som krisehåndteringsenheten, skal kvalifisere forutsatt at følgende vilkår er oppfylt:gjelden er utstedt i samsvar med [§ 20-7b](forskrift/2016-12-09-1502/§20-7b) i forskriften her,nedskrivning og konvertering av gjeld vil ikke vil påvirke krisehåndteringsenhetens kontroll over datterselskapet, oggjelden overstiger ikke:summen av gjeld utstedt av foretak innen samme krisehåndteringskonsern og ansvarlig kapital utstedt etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) bokstav a og b fratrukketbeløp fastsatt i samsvar med [finansforetaksforskriften § 20-9](forskrift/2016-12-09-1502/§20-9) andre ledd.
+1. hovedstolen til forpliktelsen som oppstår fra gjeldsinstrumentet er kjent ved utstedelse, er konstant eller økende, og påvirkes ikke av egenskaper ved det innebygde derivatet. Forpliktelsen kan minst verdsettes daglig ved referanse til et aktivt og likvid marked for tilsvarende instrumenter uten kredittrisiko, i samsvar med CRR artikkel 104 og 105.
+2. gjeldsinstrumentet har avtalevilkår som angir at verdien av krav i tilfelle insolvens eller krisehåndtering av utsteder er konstant eller økende, og overstiger ikke opprinnelig innbetalt beløp for forpliktelsen.
+3. forpliktelsen skal ikke omfattes av motregningsavtaler, og verdsettelsen skal ikke foretas etter [finansforetaksloven § 20-16](lov/2015-04-10-17/§20-16)
+
+Gjeld som utstedes av datterforetak til aksjeeier som ikke er en del av krisehåndteringskonsernet, og datterforetaket er en del av samme krisehåndteringskonsern som krisehåndteringsenheten, skal kvalifisere forutsatt at følgende vilkår er oppfylt:
+
+1. gjelden er utstedt i samsvar med [§ 20-7b](forskrift/2016-12-09-1502/§20-7b) i forskriften her,
+2. nedskrivning og konvertering av gjeld vil ikke vil påvirke krisehåndteringsenhetens kontroll over datterselskapet, og
+3. gjelden overstiger ikke:
+
+   1. summen av gjeld utstedt av foretak innen samme krisehåndteringskonsern og ansvarlig kapital utstedt etter [finansforetaksloven § 20-25](lov/2015-04-10-17/§20-25) bokstav a og b fratrukket
+   2. beløp fastsatt i samsvar med [finansforetaksforskriften § 20-9](forskrift/2016-12-09-1502/§20-9) andre ledd.
 
 > Tilføyd ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022), endret ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
 ### § 20-7b. Konvertibel gjeld for datterforetak
 
-Datterforetak kan oppfylle minstekrav etter [finansforetaksloven § 20-25a](lov/2015-04-10-17/§20-25a), jf. [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9), med gjeld som:er utstedt til og kjøpt av konsernets krisehåndteringsenhet direkte eller indirekte via andre enheter i samme konsern, eller som er utstedt til og ervervet av en eksisterende aksjonær som ikke er del av konsernet, forutsatt at intern oppkapitalisering ikke vil påvirke krisehåndteringsenhetens kontroll over datterforetaket,oppfyller kravene som angitt i kapitalkravsforordningen artikkel 72a, unntatt artikkel 72a nr. 2 bokstav b, c, k, l og m og artikkel 72b nr. 3 til 5,har prioritet som angitt i [finansforetaksloven § 20-32](lov/2015-04-10-17/§20-32) første ledd nr. 4,kan være gjenstand for intern oppkapitalisering i samsvar med krisehåndteringsstrategien for konsernet,er ervervet uten direkte eller indirekte finansiering fra det relevante datterforetaket,har avtalevilkår som hverken eksplisitt eller indirekte gir kreditor rett til å kreve at datterforetaket innløser, tilbakebetaler eller kjøper tilbake gjelden før forfall, annet enn som ledd i insolvensbehandling eller oppløsning av datterforetaket, og der datterforetaket heller ikke gir uttrykk for at gjelden vil bli førtidig innløst, tilbakebetalt eller kjøpt tilbake,etter avtalevilkårene ikke gir innehaver rett til å kreve førtidig betaling av renter eller hovedstol, annet enn som ledd i insolvensbehandling eller oppløsning av datterforetaket, oger gjenstand for renteberegning som ikke påvirkes av datterforetakets eller morforetakets kredittvurdering.
+Datterforetak kan oppfylle minstekrav etter [finansforetaksloven § 20-25a](lov/2015-04-10-17/§20-25a), jf. [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9), med gjeld som:
+
+1. er utstedt til og kjøpt av konsernets krisehåndteringsenhet direkte eller indirekte via andre enheter i samme konsern, eller som er utstedt til og ervervet av en eksisterende aksjonær som ikke er del av konsernet, forutsatt at intern oppkapitalisering ikke vil påvirke krisehåndteringsenhetens kontroll over datterforetaket,
+2. oppfyller kravene som angitt i kapitalkravsforordningen artikkel 72a, unntatt artikkel 72a nr. 2 bokstav b, c, k, l og m og artikkel 72b nr. 3 til 5,
+3. har prioritet som angitt i [finansforetaksloven § 20-32](lov/2015-04-10-17/§20-32) første ledd nr. 4,
+4. kan være gjenstand for intern oppkapitalisering i samsvar med krisehåndteringsstrategien for konsernet,
+5. er ervervet uten direkte eller indirekte finansiering fra det relevante datterforetaket,
+6. har avtalevilkår som hverken eksplisitt eller indirekte gir kreditor rett til å kreve at datterforetaket innløser, tilbakebetaler eller kjøper tilbake gjelden før forfall, annet enn som ledd i insolvensbehandling eller oppløsning av datterforetaket, og der datterforetaket heller ikke gir uttrykk for at gjelden vil bli førtidig innløst, tilbakebetalt eller kjøpt tilbake,
+7. etter avtalevilkårene ikke gir innehaver rett til å kreve førtidig betaling av renter eller hovedstol, annet enn som ledd i insolvensbehandling eller oppløsning av datterforetaket, og
+8. er gjenstand for renteberegning som ikke påvirkes av datterforetakets eller morforetakets kredittvurdering.
 
 > Tilføyd ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022).
 
@@ -1510,13 +2177,28 @@ Datterforetak kan oppfylle minstekrav etter [finansforetaksloven § 20-25a](lov/
 
 Foretak som nevnt i [finansforetaksloven § 20-1 første ledd bokstav a](lov/2015-04-10-17/§20-1/ledd/1/bokstav/a) og som er datterforetak av en krisehåndteringsenhet, men ikke selv er krisehåndteringsenhet, skal til enhver tid oppfylle et minstekrav til summen av ansvarlig kapital og konvertibel gjeld som nevnt i [finansforetaksloven § 20-9 første ledd](lov/2015-04-10-17/§20-9/ledd/1) fastsatt av Finanstilsynet. Minstekravet skal fastsettes samtidig med krisetiltaksplanen etter [finansforetaksloven § 20-6](lov/2015-04-10-17/§20-6), og skal oppfylles med ansvarlig kapital og konvertibel gjeld som angitt i [finansforetaksloven § 20-25a](lov/2015-04-10-17/§20-25a) og [§ 20-7b](forskrift/2016-12-09-1502/§20-7b) i forskriften her.
 
-Finanstilsynet kan gi unntak fra kravet i første ledd dersombåde datterforetaket og krisehåndteringsenheten er etablert i samme medlemsstat og medlemmer av samme krisehåndteringskonsern,krisehåndteringsenheten oppfyller kravene minstekravet til summen av ansvarlig kapital og konvertibel gjeld i første ledd,det ikke er vesentlige praktiske eller juridiske hindre for en umiddelbar overføring av ansvarlig kapital eller tilbakebetaling av gjeld fra krisehåndteringsenheten til datterforetaket,krisehåndteringsenheten kan dokumentere for Finanstilsynet at datterforetaket er underlagt forsvarlig styring, og har garantert, med Finanstilsynets samtykke, for datterforetakets forpliktelser, eller at risikoen i datterforetaket er uten betydning,krisehåndteringsenhetens rutiner for måling, vurdering og kontroll av risiko også dekker datterforetaket, ogkrisehåndteringsenheten kontrollerer mer enn 50 prosent av stemmerettighetene i datterforetaket, eller har rett til å utpeke eller avsette et flertall av medlemmene i datterforetakets styre.
+Finanstilsynet kan gi unntak fra kravet i første ledd dersom
+
+1. både datterforetaket og krisehåndteringsenheten er etablert i samme medlemsstat og medlemmer av samme krisehåndteringskonsern,
+2. krisehåndteringsenheten oppfyller kravene minstekravet til summen av ansvarlig kapital og konvertibel gjeld i første ledd,
+3. det ikke er vesentlige praktiske eller juridiske hindre for en umiddelbar overføring av ansvarlig kapital eller tilbakebetaling av gjeld fra krisehåndteringsenheten til datterforetaket,
+4. krisehåndteringsenheten kan dokumentere for Finanstilsynet at datterforetaket er underlagt forsvarlig styring, og har garantert, med Finanstilsynets samtykke, for datterforetakets forpliktelser, eller at risikoen i datterforetaket er uten betydning,
+5. krisehåndteringsenhetens rutiner for måling, vurdering og kontroll av risiko også dekker datterforetaket, og
+6. krisehåndteringsenheten kontrollerer mer enn 50 prosent av stemmerettighetene i datterforetaket, eller har rett til å utpeke eller avsette et flertall av medlemmene i datterforetakets styre.
 
 Annet ledd gjelder tilsvarende dersom vilkårene i annet ledd bokstav a, c og d er oppfylt av morforetaket og datterforetaket, og morforetaket oppfyller minstekrav til summen av ansvarlig kapital og konvertibel gjeld på konsolidert nivå.
 
 Finanstilsynet kan også beslutte at foretak som er datterforetak av en krisehåndteringsenhet, men ikke selv er krisehåndteringsenhet, skal oppfylle minstekrav til summen av ansvarlig kapital og konvertibel gjeld på individuelt nivå.
 
-Når vilkårene i annet ledd bokstav a og b er oppfylt, kan Finanstilsynet tillate at kravet for datterforetaket helt eller delvis oppfylles med en garanti fra krisehåndteringsenheten som oppfyller følgende vilkår:garantien stilles for et beløp som minst tilsvarer beløpet for det kravet som garantien erstatter,garantien utløses når datterforetaket ikke kan innfri sin gjeld eller andre forpliktelser etter hvert som de forfaller, eller når datterforetaket oppfyller vilkårene for nedskriving og konvertering i [finansforetaksloven § 20-14](lov/2015-04-10-17/§20-14), alt etter hva som inntreffer først,minst halvparten av garantibeløpet sikres gjennom en avtale om finansiell sikkerhetsstillelse, jf. [lov om finansiell sikkerhetsstillelse § 2 første ledd bokstav a](lov/2004-03-26-17/§2/ledd/1/bokstav/a),sikkerheten som stilles for garantien, oppfyller kravene i [CRR](eu/32013r0575) artikkel 197, jf. [CRR/CRD-forskriften § 2 første ledd](forskrift/2014-08-22-1097/§2/ledd/1), som etter passende konservative avkortinger er tilstrekkelig til å dekke beløpet som det stilles sikkerhet for, jf. bokstav c,sikkerheten som stilles for garantien er uten heftelser og benyttes ikke som sikkerhet for andre garantier,sikkerheten har en effektiv løpetid som oppfyller samme løpetidsvilkår som i [CRR](eu/32013r0575) artikkel 72c nr. 1, jf. [CRR/CRD-forskriften § 2 første ledd](forskrift/2014-08-22-1097/§2/ledd/1),det er ingen juridiske, regulatoriske eller operasjonelle hindringer for å overføre sikkerheten fra krisehåndteringsenheten til det aktuelle datterforetaket, heller ikke hvis krisetiltak brukes overfor krisehåndteringsenheten.
+Når vilkårene i annet ledd bokstav a og b er oppfylt, kan Finanstilsynet tillate at kravet for datterforetaket helt eller delvis oppfylles med en garanti fra krisehåndteringsenheten som oppfyller følgende vilkår:
+
+1. garantien stilles for et beløp som minst tilsvarer beløpet for det kravet som garantien erstatter,
+2. garantien utløses når datterforetaket ikke kan innfri sin gjeld eller andre forpliktelser etter hvert som de forfaller, eller når datterforetaket oppfyller vilkårene for nedskriving og konvertering i [finansforetaksloven § 20-14](lov/2015-04-10-17/§20-14), alt etter hva som inntreffer først,
+3. minst halvparten av garantibeløpet sikres gjennom en avtale om finansiell sikkerhetsstillelse, jf. [lov om finansiell sikkerhetsstillelse § 2 første ledd bokstav a](lov/2004-03-26-17/§2/ledd/1/bokstav/a),
+4. sikkerheten som stilles for garantien, oppfyller kravene i [CRR](eu/32013r0575) artikkel 197, jf. [CRR/CRD-forskriften § 2 første ledd](forskrift/2014-08-22-1097/§2/ledd/1), som etter passende konservative avkortinger er tilstrekkelig til å dekke beløpet som det stilles sikkerhet for, jf. bokstav c,
+5. sikkerheten som stilles for garantien er uten heftelser og benyttes ikke som sikkerhet for andre garantier,
+6. sikkerheten har en effektiv løpetid som oppfyller samme løpetidsvilkår som i [CRR](eu/32013r0575) artikkel 72c nr. 1, jf. [CRR/CRD-forskriften § 2 første ledd](forskrift/2014-08-22-1097/§2/ledd/1),
+7. det er ingen juridiske, regulatoriske eller operasjonelle hindringer for å overføre sikkerheten fra krisehåndteringsenheten til det aktuelle datterforetaket, heller ikke hvis krisetiltak brukes overfor krisehåndteringsenheten.
 
 Ved anvendelse av femte ledd bokstav g skal krisehåndteringsenheten, på anmodning fra Finanstilsynet, sørge for en uavhengig skriftlig og begrunnet juridisk betenkning eller på annen tilfredsstillende måte vise at det ikke finnes juridiske, regulatoriske eller operasjonelle hindringer for å overføre sikkerhet fra krisehåndteringsenheten til det berørte datterforetaket.
 
@@ -1524,21 +2206,35 @@ Ved anvendelse av femte ledd bokstav g skal krisehåndteringsenheten, på anmodn
 
 ### § 20-7ca. Minstekrav til summen av ansvarlig kapital og konvertibel gjeld for globalt systemviktige foretak
 
-Når mer enn ett foretak i et konsern som på konsolidert nivå er utpekt som et globalt systemviktig foretak er krisehåndteringsenheter, skal krisehåndteringsmyndigheten for krisehåndteringsenhetene, krisehåndteringsmyndigheten for konsernet hvis det er en annen myndighet og krisehåndteringsmyndighetene for datterforetak i en krisehåndteringsgruppe som ikke selv er krisehåndteringsenheter drøfte og, hvis det er hensiktsmessig og i tråd med det globalt systemviktige foretakets krisehåndteringsstrategi, i fellesskap ta en beslutning om bruken av [CRR](eu/32013r0575) artikkel 72e, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2), og eventuelle justeringer for å redusere eller fjerne differansen mellom:summen av beløpene beregnet etter tredje ledd bokstav a og [CRR](eu/32013r0575) artikkel 12a, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2), for individuelle krisehåndteringsenheter, ogsummen av beløpene beregnet etter tredje ledd bokstav b og [CRR](eu/32013r0575) artikkel 12a, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2).
+Når mer enn ett foretak i et konsern som på konsolidert nivå er utpekt som et globalt systemviktig foretak er krisehåndteringsenheter, skal krisehåndteringsmyndigheten for krisehåndteringsenhetene, krisehåndteringsmyndigheten for konsernet hvis det er en annen myndighet og krisehåndteringsmyndighetene for datterforetak i en krisehåndteringsgruppe som ikke selv er krisehåndteringsenheter drøfte og, hvis det er hensiktsmessig og i tråd med det globalt systemviktige foretakets krisehåndteringsstrategi, i fellesskap ta en beslutning om bruken av [CRR](eu/32013r0575) artikkel 72e, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2), og eventuelle justeringer for å redusere eller fjerne differansen mellom:
+
+1. summen av beløpene beregnet etter tredje ledd bokstav a og [CRR](eu/32013r0575) artikkel 12a, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2), for individuelle krisehåndteringsenheter, og
+2. summen av beløpene beregnet etter tredje ledd bokstav b og [CRR](eu/32013r0575) artikkel 12a, jf. [CRR/CRD-forskriften § 2](forskrift/2014-08-22-1097/§2).
 
 Justeringer etter første ledd kan gjøres for å håndtere forskjeller i beregningen av det samlede risikovektede beregningsgrunnlaget mellom de relevante medlemsstatene ved å justere nivået på kravet, men kan ikke brukes for å fjerne forskjeller som skyldes eksponeringer mellom krisehåndteringsgrupper. Summen av beløpet beregnet etter første ledd bokstav a kan ikke være lavere enn summen av beløpet beregnet etter første ledd bokstav b.
 
-Til bruk for justeringer etter første ledd skal de relevante krisehåndteringsmyndighetene beregne tilleggskrav til minstekravet til summen av ansvarlig kapital og konvertibel gjeld for det globalt systemviktige foretaket etter [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9):for hver krisehåndteringsenhet, ogfor morforetaket innenfor EØS-området som om det var den eneste krisehåndteringsenheten i det globalt systemviktige foretaket.
+Til bruk for justeringer etter første ledd skal de relevante krisehåndteringsmyndighetene beregne tilleggskrav til minstekravet til summen av ansvarlig kapital og konvertibel gjeld for det globalt systemviktige foretaket etter [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9):
+
+1. for hver krisehåndteringsenhet, og
+2. for morforetaket innenfor EØS-området som om det var den eneste krisehåndteringsenheten i det globalt systemviktige foretaket.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
 ### § 20-7d. Beregning av maksimalt disponeringsbeløp ved brudd på et risikovektet minstekrav til summen av ansvarlig kapital og konvertibel gjeld i § 20-4 eller § 20-7
 
-Ved manglende oppfyllelse av risikovektet krav til summen av ansvarlig kapital og konvertibel gjeld i [§ 20-4](forskrift/2016-12-09-1502/§20-4) eller [§ 20-7](forskrift/2016-12-09-1502/§20-7), kan Finanstilsynet kun treffe beslutning som nevnt i [finansforetaksloven § 20-9a](lov/2015-04-10-17/§20-9a) annet ledd dersom:foretaket oppfyller det kombinerte kapitalbufferkravet, ellerforetaket ikke oppfyller det kombinerte kapitalbufferkravet og den manglende oppfyllelsen av risikovektet krav til summen av ansvarlig kapital og konvertibel gjeld overstiger den manglende oppfyllelsen av det kombinerte kapitalbufferkravet.
+Ved manglende oppfyllelse av risikovektet krav til summen av ansvarlig kapital og konvertibel gjeld i [§ 20-4](forskrift/2016-12-09-1502/§20-4) eller [§ 20-7](forskrift/2016-12-09-1502/§20-7), kan Finanstilsynet kun treffe beslutning som nevnt i [finansforetaksloven § 20-9a](lov/2015-04-10-17/§20-9a) annet ledd dersom:
+
+1. foretaket oppfyller det kombinerte kapitalbufferkravet, eller
+2. foretaket ikke oppfyller det kombinerte kapitalbufferkravet og den manglende oppfyllelsen av risikovektet krav til summen av ansvarlig kapital og konvertibel gjeld overstiger den manglende oppfyllelsen av det kombinerte kapitalbufferkravet.
 
 Foretakene skal beregne maksimalt disponeringsbeløp som nevnt i [finansforetaksloven § 20-9a](lov/2015-04-10-17/§20-9a) annet ledd. Maksimalt disponeringsbeløp er summen av delårsresultat og årsresultat som ikke er inkludert i ren kjernekapital, fratrukket utbetalinger som nevnt i [finansforetaksloven § 20-9a](lov/2015-04-10-17/§20-9a) annet ledd og påregnelig betalbar skatt gitt at resultatene holdes tilbake, multiplisert med en faktor.
 
-Faktoren etter annet ledd skal fastsettes ut fra hvilken andel ren kjernekapital som ikke er benyttet til å oppfylle risikovektet minstekrav til summen av ansvarlig kapital og konvertibel gjeld i [§ 20-4](forskrift/2016-12-09-1502/§20-4), utgjør i prosent av det kombinerte bufferkravet. Ved brudd på krav til etterstillelse i [§ 20-7](forskrift/2016-12-09-1502/§20-7) fastsettes faktoren ut fra hvilken andel ren kjernekapital som ikke er benyttet til å oppfylle krav til etterstillelse utenom kapitalbufferkravet, dvs. som overstiger A x 2 + B x 2, jf. [§ 20-7](forskrift/2016-12-09-1502/§20-7) femte ledd, utgjør i prosent av kombinert bufferkrav. Faktoren skal være:0 når andelen er fra 0 inntil 25 prosent,0,2 når andelen er fra 25 inntil 50 prosent,0,4 når andelen er fra 50 inntil 75 prosent, og0,6 når andelen er fra 75 inntil 100 prosent.
+Faktoren etter annet ledd skal fastsettes ut fra hvilken andel ren kjernekapital som ikke er benyttet til å oppfylle risikovektet minstekrav til summen av ansvarlig kapital og konvertibel gjeld i [§ 20-4](forskrift/2016-12-09-1502/§20-4), utgjør i prosent av det kombinerte bufferkravet. Ved brudd på krav til etterstillelse i [§ 20-7](forskrift/2016-12-09-1502/§20-7) fastsettes faktoren ut fra hvilken andel ren kjernekapital som ikke er benyttet til å oppfylle krav til etterstillelse utenom kapitalbufferkravet, dvs. som overstiger A x 2 + B x 2, jf. [§ 20-7](forskrift/2016-12-09-1502/§20-7) femte ledd, utgjør i prosent av kombinert bufferkrav. Faktoren skal være:
+
+1. 0 når andelen er fra 0 inntil 25 prosent,
+2. 0,2 når andelen er fra 25 inntil 50 prosent,
+3. 0,4 når andelen er fra 50 inntil 75 prosent, og
+4. 0,6 når andelen er fra 75 inntil 100 prosent.
 
 > Tilføyd ved forskrift [31 mai 2022 nr. 1009](forskrift/2022-05-31-1009) (i kraft 1 juni 2022).
 
@@ -1566,7 +2262,10 @@ Finanstilsynet kan fastsette nærmere regler om hyppighet og format for offentli
 
 ### § 20-10. Nedskrivning og konvertering av aksjer og andre eierinstrumenter utstedt ved nedskrivning og konvertering
 
-[Finansforetaksloven §§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26) gjelder tilsvarende for aksjer og andre eierinstrumenter som har blitt utstedt eller overført i forbindelse med:konvertering av gjeldsinstrumenter til aksjer eller andre eierinstrumenter i henhold til gjeldsinstrumentets opprinnelige avtalevilkår, utløst av en hendelse som inntraff før eller samtidig med at Finanstilsynet traff vedtak om krisehåndtering av foretaket, ellernedskrivning og konvertering av ansvarlig kapital etter [§ 20-14](lov/2015-04-10-17/§20-14).
+[Finansforetaksloven §§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26) gjelder tilsvarende for aksjer og andre eierinstrumenter som har blitt utstedt eller overført i forbindelse med:
+
+1. konvertering av gjeldsinstrumenter til aksjer eller andre eierinstrumenter i henhold til gjeldsinstrumentets opprinnelige avtalevilkår, utløst av en hendelse som inntraff før eller samtidig med at Finanstilsynet traff vedtak om krisehåndtering av foretaket, eller
+2. nedskrivning og konvertering av ansvarlig kapital etter [§ 20-14](lov/2015-04-10-17/§20-14).
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
@@ -1578,7 +2277,18 @@ Dersom hovedstolen av et instrument er blitt delvis redusert i tråd med avtalev
 
 ### § 20-12. Eierbeføyelser mv. ved overføring av aksjer eller andre eierinstrumenter før eierprøving er fullført
 
-Dersom eierprøving etter [finansforetaksloven §§ 6-1](lov/2015-04-10-17/§6-1) til [6-5](lov/2015-04-10-17/§6-5) ikke er fullført før den datoen aksjer eller andre eierinstrumenter skal overføres i forbindelse med overdragelse av virksomhet etter [finansforetaksloven § 20-21](lov/2015-04-10-17/§20-21), gjelder følgende:overføringen av aksjer eller andre eierinstrumenter til erververen skal ha umiddelbar rettsvirkning,i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f skal erververens stemmerett knyttet til slike aksjer eller andre eierinstrumenter suspenderes og i sin helhet tildeles Finanstilsynet, jf. [finansforetaksloven § 20-14 femte ledd](lov/2015-04-10-17/§20-14/ledd/5), men uten at Finanstilsynet er forpliktet til å utøve stemmerettene eller på noen måte skal stå til ansvar for å utøve eller avstå fra å utøve stemmerettene,i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f får sanksjoner og andre tiltak for overtredelser av krav til erverv eller avhending av kvalifiserte eierandeler, ikke anvendelse på overføringen av aksjer eller andre eierinstrumenter,når eierprøvingen er fullført, skal erververen umiddelbart få skriftlig melding om hvorvidt overføring av aksjer eller andre eierinstrumenter til erververen er godkjent eller ikke,godkjenner Finanstilsynet overføringen av aksjer eller andre eierinstrumenter til erververen, skal stemmerettene knyttet til slike aksjer eller andre eierinstrumenter anses som tildelt erververen umiddelbart etter at erververen har mottatt melding om en slik godkjenning,dersom overføringen av aksjer eller andre eierinstrumenter til erververen ikke godkjennes, gjelder følgende:stemmeretter knyttet til slike aksjer eller andre eierinstrumenter, jf. bokstav b, skal fortsatt ha full virkning,Finanstilsynet kan kreve at erververen avhender slike aksjer eller andre eierinstrumenter i løpet av en avhendingsperiode som fastsettes av Finanstilsynet hvor gjeldende markedsvilkår er hensyntatt, ogdersom erververen ikke fullfører avhendingen i løpet av avhendingsperioden, kan Finanstilsynet ilegge kjøperen sanksjoner og treffe andre tiltak for overtredelser av kravene til erverv eller avhending av kvalifiserte eierandeler i tråd med [finansforetaksloven kapittel 22](lov/2015-04-10-17/kap22).
+Dersom eierprøving etter [finansforetaksloven §§ 6-1](lov/2015-04-10-17/§6-1) til [6-5](lov/2015-04-10-17/§6-5) ikke er fullført før den datoen aksjer eller andre eierinstrumenter skal overføres i forbindelse med overdragelse av virksomhet etter [finansforetaksloven § 20-21](lov/2015-04-10-17/§20-21), gjelder følgende:
+
+1. overføringen av aksjer eller andre eierinstrumenter til erververen skal ha umiddelbar rettsvirkning,
+2. i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f skal erververens stemmerett knyttet til slike aksjer eller andre eierinstrumenter suspenderes og i sin helhet tildeles Finanstilsynet, jf. [finansforetaksloven § 20-14 femte ledd](lov/2015-04-10-17/§20-14/ledd/5), men uten at Finanstilsynet er forpliktet til å utøve stemmerettene eller på noen måte skal stå til ansvar for å utøve eller avstå fra å utøve stemmerettene,
+3. i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f får sanksjoner og andre tiltak for overtredelser av krav til erverv eller avhending av kvalifiserte eierandeler, ikke anvendelse på overføringen av aksjer eller andre eierinstrumenter,
+4. når eierprøvingen er fullført, skal erververen umiddelbart få skriftlig melding om hvorvidt overføring av aksjer eller andre eierinstrumenter til erververen er godkjent eller ikke,
+5. godkjenner Finanstilsynet overføringen av aksjer eller andre eierinstrumenter til erververen, skal stemmerettene knyttet til slike aksjer eller andre eierinstrumenter anses som tildelt erververen umiddelbart etter at erververen har mottatt melding om en slik godkjenning,
+6. dersom overføringen av aksjer eller andre eierinstrumenter til erververen ikke godkjennes, gjelder følgende:
+
+   1. stemmeretter knyttet til slike aksjer eller andre eierinstrumenter, jf. bokstav b, skal fortsatt ha full virkning,
+   2. Finanstilsynet kan kreve at erververen avhender slike aksjer eller andre eierinstrumenter i løpet av en avhendingsperiode som fastsettes av Finanstilsynet hvor gjeldende markedsvilkår er hensyntatt, og
+   3. dersom erververen ikke fullfører avhendingen i løpet av avhendingsperioden, kan Finanstilsynet ilegge kjøperen sanksjoner og treffe andre tiltak for overtredelser av kravene til erverv eller avhending av kvalifiserte eierandeler i tråd med [finansforetaksloven kapittel 22](lov/2015-04-10-17/kap22).
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
@@ -1616,7 +2326,12 @@ Administrasjonsstyret og Bankenes sikringsfond skal om nødvendig inngå nødven
 
 ### § 20-15. Suspensjon av betalings- og leveringsforpliktelser
 
-Finanstilsynet kan pålegge suspensjon etter [finansforetaksloven § 20-35](lov/2015-04-10-17/§20-35) første ledd første punktum dersom:foretaket er eller ventes å bli kriserammet, jf. [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) annet ledddet ikke er rimelig utsikt til at private tiltak kan forhindre at foretaket blir kriserammetdet anses som nødvendig å gi pålegg om suspensjon for å unngå ytterligere forverring av foretakets økonomiske situasjonpålegg om suspensjon er nødvendig for enten å kunne vurdere om allmenne interesser er til stede etter [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) første ledd bokstav c, eller for å kunne velge hensiktsmessige krisetiltak etter [finansforetaksloven § 20-19](lov/2015-04-10-17/§20-19).
+Finanstilsynet kan pålegge suspensjon etter [finansforetaksloven § 20-35](lov/2015-04-10-17/§20-35) første ledd første punktum dersom:
+
+1. foretaket er eller ventes å bli kriserammet, jf. [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) annet ledd
+2. det ikke er rimelig utsikt til at private tiltak kan forhindre at foretaket blir kriserammet
+3. det anses som nødvendig å gi pålegg om suspensjon for å unngå ytterligere forverring av foretakets økonomiske situasjon
+4. pålegg om suspensjon er nødvendig for enten å kunne vurdere om allmenne interesser er til stede etter [finansforetaksloven § 20-15](lov/2015-04-10-17/§20-15) første ledd bokstav c, eller for å kunne velge hensiktsmessige krisetiltak etter [finansforetaksloven § 20-19](lov/2015-04-10-17/§20-19).
 
 Betalings- eller leveringsforpliktelser med opprinnelig oppfyllelsesfrist i løpet av suspensjonsperioden skal oppfylles umiddelbart etter at suspensjonen har utløpt etter [finansforetaksloven § 20-36](lov/2015-04-10-17/§20-36) første ledd tredje punktum.
 
@@ -1632,7 +2347,10 @@ Vilkår om anerkjennelse av Finanstilsynets suspensjonsadgang som nevnt i [finan
 
 ### § 20-17. Utøvelse av hevingsretten ved suspensjonens utløp
 
-Når Finanstilsynet har suspendert hevingsretter etter [finansforetaksloven § 20-36](lov/2015-04-10-17/§20-36) første eller annet ledd og det ikke er gitt bekreftelse i henhold til [finansforetaksloven § 20-36 fjerde ledd annet punktum](lov/2015-04-10-17/§20-36/ledd/4/setning/2), kan hevingsrettigheter utøves ved utløpet av suspensjonsperioden på følgende måte, med mindre annet følger av [finansforetaksloven § 20-34](lov/2015-04-10-17/§20-34) annet til fjerde ledd:hvis rettighetene og forpliktelsene som er omfattet av kontrakten har blitt overført til et annet foretak, kan en motpart utøve hevingsretten i henhold til vilkårene i kontrakten kun ved et pågående eller etterfølgende mislighold fra mottakerens side som gir hevingsrett,hvis rettighetene og forpliktelsene som er omfattet av kontrakten forblir hos foretaket som krisehåndteres og kontrakten ikke har vært omfattet av intern oppkapitalisering etter [finansforetaksloven § 20-24](lov/2015-04-10-17/§20-24), kan en motpart utøve hevingsretten i henhold til vilkårene i kontrakten ved suspensjonens utløp.
+Når Finanstilsynet har suspendert hevingsretter etter [finansforetaksloven § 20-36](lov/2015-04-10-17/§20-36) første eller annet ledd og det ikke er gitt bekreftelse i henhold til [finansforetaksloven § 20-36 fjerde ledd annet punktum](lov/2015-04-10-17/§20-36/ledd/4/setning/2), kan hevingsrettigheter utøves ved utløpet av suspensjonsperioden på følgende måte, med mindre annet følger av [finansforetaksloven § 20-34](lov/2015-04-10-17/§20-34) annet til fjerde ledd:
+
+1. hvis rettighetene og forpliktelsene som er omfattet av kontrakten har blitt overført til et annet foretak, kan en motpart utøve hevingsretten i henhold til vilkårene i kontrakten kun ved et pågående eller etterfølgende mislighold fra mottakerens side som gir hevingsrett,
+2. hvis rettighetene og forpliktelsene som er omfattet av kontrakten forblir hos foretaket som krisehåndteres og kontrakten ikke har vært omfattet av intern oppkapitalisering etter [finansforetaksloven § 20-24](lov/2015-04-10-17/§20-24), kan en motpart utøve hevingsretten i henhold til vilkårene i kontrakten ved suspensjonens utløp.
 
 > Tilføyd ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755).
 
@@ -1668,11 +2386,27 @@ Dersom krisetiltaksfondet er lavere enn minstekravet i [finansforetaksloven § 2
 
 ### § 20-19. Innholdet i finansieringsplaner
 
-En finansieringsplan etter [finansforetaksloven § 20-53 annet ledd](lov/2015-04-10-17/§20-53/ledd/2) skal omfatteen verdivurdering foretatt i samsvar med [finansforetaksloven § 20-16](lov/2015-04-10-17/§20-16) for de berørte konsernforetakene,de tapene som skal anerkjennes av hvert berørte konsernforetak på det tidspunktet krisetiltakene anvendes,for hvert berørt konsernforetak, de tapene som vil bli påført hver klasse av aksjeeiere og kreditorer,ethvert bidrag som innskuddsgarantiordninger vil bli pålagt å gi i samsvar med [finansforetaksloven § 20-54](lov/2015-04-10-17/§20-54),det samlede bidraget fra finansieringsordningene for krisehåndtering, jf. [finansforetaksloven § 20-53 annet ledd](lov/2015-04-10-17/§20-53/ledd/2), og bidragets formål og form,grunnlaget for å beregne det beløpet som hver av de nasjonale finansieringsordningene i de medlemsstatene der berørte konsernforetak er etablert, skal gi til finansieringen av krisehåndteringen av konsernet for å bygge opp det samlede bidraget som nevnt i bokstav e,det beløpet som hvert berørte konsernforetaks nasjonale finansieringsordning skal gi til finansieringen av konsernkrisehåndteringen, og disse bidragenes form,det beløpet som finansieringsordningene i medlemsstatene der de berørte konsernforetakene er etablert vil låne fra kredittinstitusjoner, finansielle foretak og andre tredjeparter, jf. [finansforetaksloven § 20-50 fjerde ledd](lov/2015-04-10-17/§20-50/ledd/4),en tidsramme for bruken av finansieringsordningene for krisehåndtering i de EØS-statene der de berørte konsernforetakene er etablert, som bør kunne utvides dersom det er hensiktsmessig.
+En finansieringsplan etter [finansforetaksloven § 20-53 annet ledd](lov/2015-04-10-17/§20-53/ledd/2) skal omfatte
+
+1. en verdivurdering foretatt i samsvar med [finansforetaksloven § 20-16](lov/2015-04-10-17/§20-16) for de berørte konsernforetakene,
+2. de tapene som skal anerkjennes av hvert berørte konsernforetak på det tidspunktet krisetiltakene anvendes,
+3. for hvert berørt konsernforetak, de tapene som vil bli påført hver klasse av aksjeeiere og kreditorer,
+4. ethvert bidrag som innskuddsgarantiordninger vil bli pålagt å gi i samsvar med [finansforetaksloven § 20-54](lov/2015-04-10-17/§20-54),
+5. det samlede bidraget fra finansieringsordningene for krisehåndtering, jf. [finansforetaksloven § 20-53 annet ledd](lov/2015-04-10-17/§20-53/ledd/2), og bidragets formål og form,
+6. grunnlaget for å beregne det beløpet som hver av de nasjonale finansieringsordningene i de medlemsstatene der berørte konsernforetak er etablert, skal gi til finansieringen av krisehåndteringen av konsernet for å bygge opp det samlede bidraget som nevnt i bokstav e,
+7. det beløpet som hvert berørte konsernforetaks nasjonale finansieringsordning skal gi til finansieringen av konsernkrisehåndteringen, og disse bidragenes form,
+8. det beløpet som finansieringsordningene i medlemsstatene der de berørte konsernforetakene er etablert vil låne fra kredittinstitusjoner, finansielle foretak og andre tredjeparter, jf. [finansforetaksloven § 20-50 fjerde ledd](lov/2015-04-10-17/§20-50/ledd/4),
+9. en tidsramme for bruken av finansieringsordningene for krisehåndtering i de EØS-statene der de berørte konsernforetakene er etablert, som bør kunne utvides dersom det er hensiktsmessig.
 
 Med mindre annet er avtalt i finansieringsplanen, skal grunnlaget for fordeling av bidragene nevnt i første ledd bokstav e være forenlig med prinsippene i krisetiltaksplanen, jf. [finansforetaksloven § 20-6 første ledd bokstav d](lov/2015-04-10-17/§20-6/ledd/1/bokstav/d).
 
-Med mindre annet er avtalt i finansieringsplanen, skal grunnlaget for beregning av bidrag fra hver nasjonale finansieringsordning for krisehåndtering særlig ta hensyn til:andelen av konsernets risikovektede eiendeler som innehas av foretak nevnt i [finansforetaksloven § 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1), som er etablert i finansieringsordningens hjemstat,andelen av konsernets eiendeler som innehas av foretak nevnt i [finansforetaksloven § 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1), som er etablert i finansieringsordningens hjemstat,andelen av tapet som har ført til behovet for krisehåndtering av konsernet, og som oppstod i konsernforetak som er under tilsyn av vedkommende myndigheter i medlemsstaten for den aktuelle finansieringsordningen, ogandelen av midlene i konsernfinansieringsordningen som i henhold til finansieringsplanen forventes å bli brukt direkte til fordel for konsernforetak som er etablert i medlemsstaten for den aktuelle finansieringsordningen.En konsernfinansieringsordning kan inngå avtaler om lån eller andre former for støtte fra kredittinstitusjoner, finansielle foretak eller andre tredjeparter.
+Med mindre annet er avtalt i finansieringsplanen, skal grunnlaget for beregning av bidrag fra hver nasjonale finansieringsordning for krisehåndtering særlig ta hensyn til:
+
+1. andelen av konsernets risikovektede eiendeler som innehas av foretak nevnt i [finansforetaksloven § 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1), som er etablert i finansieringsordningens hjemstat,
+2. andelen av konsernets eiendeler som innehas av foretak nevnt i [finansforetaksloven § 20-1 første ledd](lov/2015-04-10-17/§20-1/ledd/1), som er etablert i finansieringsordningens hjemstat,
+3. andelen av tapet som har ført til behovet for krisehåndtering av konsernet, og som oppstod i konsernforetak som er under tilsyn av vedkommende myndigheter i medlemsstaten for den aktuelle finansieringsordningen, og
+4. andelen av midlene i konsernfinansieringsordningen som i henhold til finansieringsplanen forventes å bli brukt direkte til fordel for konsernforetak som er etablert i medlemsstaten for den aktuelle finansieringsordningen.
+5. En konsernfinansieringsordning kan inngå avtaler om lån eller andre former for støtte fra kredittinstitusjoner, finansielle foretak eller andre tredjeparter.
 
 Krisetiltaksfondet kan garantere for lån som en konsernfinansieringsordning har inngått avtale om i medhold av [finansforetaksloven § 20-50 fjerde ledd](lov/2015-04-10-17/§20-50/ledd/4) og fjerde ledd i paragrafen her.
 
@@ -1682,7 +2416,11 @@ Dersom bruken av en konsernfinansieringsordning genererer inntekter eller fordel
 
 ### § 20-20. Lån mellom finansieringsordninger for krisehåndtering innenfor EØS
 
-Finanstilsynet kan på vegne av krisetiltaksfondet anmode om lån fra finansieringsordninger for krisehåndtering i andre EØS-stater, hvisbeløpene som innkreves etter [finansforetaksloven § 20-51 første ledd første punktum](lov/2015-04-10-17/§20-51/ledd/1/setning/1) ikke er tilstrekkelige til å dekke tap, kostnader eller andre utgifter som påløper gjennom bruken av finansieringsordningen,ekstraordinære tilleggsbidrag fastsatt etter [finansforetaksloven § 20-51 annet ledd](lov/2015-04-10-17/§20-51/ledd/2) ikke umiddelbart er tilgjengelige, ogalternative finansieringsordninger etter [finansforetaksloven § 20-50 fjerde ledd](lov/2015-04-10-17/§20-50/ledd/4) ikke umiddelbart er tilgjengelige på rimelige vilkår.
+Finanstilsynet kan på vegne av krisetiltaksfondet anmode om lån fra finansieringsordninger for krisehåndtering i andre EØS-stater, hvis
+
+1. beløpene som innkreves etter [finansforetaksloven § 20-51 første ledd første punktum](lov/2015-04-10-17/§20-51/ledd/1/setning/1) ikke er tilstrekkelige til å dekke tap, kostnader eller andre utgifter som påløper gjennom bruken av finansieringsordningen,
+2. ekstraordinære tilleggsbidrag fastsatt etter [finansforetaksloven § 20-51 annet ledd](lov/2015-04-10-17/§20-51/ledd/2) ikke umiddelbart er tilgjengelige, og
+3. alternative finansieringsordninger etter [finansforetaksloven § 20-50 fjerde ledd](lov/2015-04-10-17/§20-50/ledd/4) ikke umiddelbart er tilgjengelige på rimelige vilkår.
 
 Krisetiltaksfondet kan yte lån til finansieringsordninger i andre EØS-stater som anmoder om lån i henhold til vilkårene i første ledd.
 
@@ -1718,9 +2456,27 @@ For foretak med mindre enn fem milliarder kroner i forvaltningskapital, samt for
 
 Garantiordningen dekker bare krav som gjelder en forsikret risiko som består her i riket.
 
-En forsikret risiko anses for å bestå her i riket ved:forsikring av fast eiendom eller fast eiendom med innbo som er dekket av samme avtale, når eiendommen ligger her i riket,forsikring av transportmidler, når transportmidlet er registrert her i riket,forsikring som dekker risikoer i forbindelse med reiser eller ferier, dersom forsikringen er tegnet her i riket og avtalen har en varighet på maksimalt fire måneder, ellerannen forsikring enn forsikring som nevnt i bokstav a, b og c, når forsikringen dekker forsikringstaker eller sikret som har sitt vanlige bosted her i riket eller, dersom forsikringstaker eller sikret er en juridisk person, når den virksomhet som avtalen gjelder befinner seg her i riket.
+En forsikret risiko anses for å bestå her i riket ved:
 
-Garantiordningen dekker ikke:kredittforsikring,livsforsikringer som kan tilbys av skadeforsikringsforetak etter tillatelse fra Finanstilsynet,energiforsikringer,luftfartsforsikringer,sjøforsikring, unntatt når forsikringen gjelder skip som ikke er registreringspliktige jf. [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) [§ 11](lov/1994-06-24-39/§11) annet ledd, eller fiskefartøyer opp til og med 50 bruttotonn som er registrert i Skipsregisteret, jf. [sjøloven § 11](lov/1994-06-24-39/§11) første ledd første punktum,næringslivsforsikringer, når forsikringen gjelder foretak som ved avtaleinngåelsen eller senere fornyelser oppfyller minst to av følgende vilkårhar flere enn 250 ansatte,har en omsetning på minst 100 millioner kroner i følge siste årsoppgjør, ellerhar eiendeler i følge siste balanse på minst 50 millioner kroner,forsikringskrav som er reassurert i forsikringsforetak som har tillatelse som egenforsikringsforetak etter [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12) tredje ledd når forsikringsavtalen er inngått av en som tilhører den krets som egenforsikringsforetaket er opprettet for,forsikringskrav fra offentlige organer.
+1. forsikring av fast eiendom eller fast eiendom med innbo som er dekket av samme avtale, når eiendommen ligger her i riket,
+2. forsikring av transportmidler, når transportmidlet er registrert her i riket,
+3. forsikring som dekker risikoer i forbindelse med reiser eller ferier, dersom forsikringen er tegnet her i riket og avtalen har en varighet på maksimalt fire måneder, eller
+4. annen forsikring enn forsikring som nevnt i bokstav a, b og c, når forsikringen dekker forsikringstaker eller sikret som har sitt vanlige bosted her i riket eller, dersom forsikringstaker eller sikret er en juridisk person, når den virksomhet som avtalen gjelder befinner seg her i riket.
+
+Garantiordningen dekker ikke:
+
+1. kredittforsikring,
+2. livsforsikringer som kan tilbys av skadeforsikringsforetak etter tillatelse fra Finanstilsynet,
+3. energiforsikringer,
+4. luftfartsforsikringer,
+5. sjøforsikring, unntatt når forsikringen gjelder skip som ikke er registreringspliktige jf. [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) [§ 11](lov/1994-06-24-39/§11) annet ledd, eller fiskefartøyer opp til og med 50 bruttotonn som er registrert i Skipsregisteret, jf. [sjøloven § 11](lov/1994-06-24-39/§11) første ledd første punktum,
+6. næringslivsforsikringer, når forsikringen gjelder foretak som ved avtaleinngåelsen eller senere fornyelser oppfyller minst to av følgende vilkår
+
+   - har flere enn 250 ansatte,
+   - har en omsetning på minst 100 millioner kroner i følge siste årsoppgjør, eller
+   - har eiendeler i følge siste balanse på minst 50 millioner kroner,
+7. forsikringskrav som er reassurert i forsikringsforetak som har tillatelse som egenforsikringsforetak etter [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12) tredje ledd når forsikringsavtalen er inngått av en som tilhører den krets som egenforsikringsforetaket er opprettet for,
+8. forsikringskrav fra offentlige organer.
 
 Garantiordningen dekker likevel ansvarsforsikring tegnet for å oppfylle pålegg gitt i eller i medhold av lov (tvungen ansvarsforsikring).
 
@@ -1732,7 +2488,11 @@ Garantiordningen skal ikke dekke forsikringskrav utover 20 millioner kroner for 
 
 ### § 20A-2. Medlemskap i garantiordningen for skadeforsikring
 
-Følgende foretak skal ikke være medlem av garantiordningen:Forsikringsforetak som er unntatt fra forsikringsvirksomhetslovens og finansforetakslovens bestemmelser,gjensidige foretak som har rett til og årlig foretar etter avregning overfor forsikringstakerne, ogforetak som ikke dekker risiko som faller innenfor garantiordningens dekningsområde.
+Følgende foretak skal ikke være medlem av garantiordningen:
+
+1. Forsikringsforetak som er unntatt fra forsikringsvirksomhetslovens og finansforetakslovens bestemmelser,
+2. gjensidige foretak som har rett til og årlig foretar etter avregning overfor forsikringstakerne, og
+3. foretak som ikke dekker risiko som faller innenfor garantiordningens dekningsområde.
 
 Foretak skal likevel være medlem av garantiordningen hvis de dekker ansvarsforsikring tegnet for å oppfylle pålegg gitt i eller i medhold av lov (tvungen ansvarsforsikring).
 
@@ -1798,7 +2558,10 @@ Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven
 
 Norsk filial av forsikringsforetak med hovedsete i annen EØS-stat skal årlig rapportere til Finanstilsynet brutto opptjent premie knyttet til forsikringer som dekkes av garantiordningen.
 
-Dersom en slik filial også er medlem av en garantiordning i hjemstaten, skal den norske garantiordningen, hvis mulig, inngå en avtale med hjemstatens garantiordning om følgende:hvilke krav som skal dekkes av henholdsvis den norske garantiordningen og hjemstatens garantiordning,at garantiordningen sikres informasjon fra hjemstatens garantiordning som er nødvendig for å kunne beregne den norske garantiordningens dekningsforpliktelser i situasjoner der slike forpliktelser utløses,
+Dersom en slik filial også er medlem av en garantiordning i hjemstaten, skal den norske garantiordningen, hvis mulig, inngå en avtale med hjemstatens garantiordning om følgende:
+
+1. hvilke krav som skal dekkes av henholdsvis den norske garantiordningen og hjemstatens garantiordning,
+2. at garantiordningen sikres informasjon fra hjemstatens garantiordning som er nødvendig for å kunne beregne den norske garantiordningens dekningsforpliktelser i situasjoner der slike forpliktelser utløses,
 
 I en administrasjons- eller konkurssituasjon skal Finanstilsynet sikre at interessene til forsikringstakerne i filial her i riket blir ivaretatt.
 
@@ -1842,7 +2605,10 @@ Finanstilsynet kan gi nærmere regler om gjennomføringen av administrasjonen.
 
 ### § 21a-1. Virkeområde
 
-Dette kapittelet gjelder for:kredittinstitusjoner og verdipapirforetak som omsetter finansielle instrumenter for egen regning eller gir fulltegningsgarantier ved emisjon og tilbud om kjøp av finansielle instrumenter (kredittinstitusjoner), ogforsikringsforetak.
+Dette kapittelet gjelder for:
+
+1. kredittinstitusjoner og verdipapirforetak som omsetter finansielle instrumenter for egen regning eller gir fulltegningsgarantier ved emisjon og tilbud om kjøp av finansielle instrumenter (kredittinstitusjoner), og
+2. forsikringsforetak.
 
 Hvis det iverksettes krisetiltak etter regler som gjennomfører direktiv [2014/59/EU](eu/32014l0059) gjelder kapittelet også for holdingforetak eller annet morselskap i finanskonsern som omfatter bank, kredittforetak og verdipapirforetak som nevnt i første ledd bokstav a, og som ikke er forsikringskonsern.
 
@@ -1850,7 +2616,10 @@ Hvis det iverksettes krisetiltak etter regler som gjennomfører direktiv [2014/5
 
 ### § 21a-2. Definisjoner
 
-I dette kapittelet menes med:*reorganiseringstiltak:* tiltak fattet av offentlig myndighet med formål å bevare eller sikre soliditeten til en kredittinstitusjon, et verdipapirforetak eller et forsikringsforetak når vedtaket får eller kan få virkning for eksisterende rettigheter for andre enn foretaket selv.*avviklingstiltak:* felles prosedyrer for frivillig og tvungen avvikling av en kredittinstitusjon eller et forsikringsforetak som innledes og overvåkes av forvaltnings- eller rettsmyndighetene i en medlemsstat med formål å realisere eiendeler under tilsyn av disse myndighetene, også når disse felles prosedyrene avsluttes ved akkord eller andre tilsvarende tiltak.
+I dette kapittelet menes med:
+
+1. *reorganiseringstiltak:* tiltak fattet av offentlig myndighet med formål å bevare eller sikre soliditeten til en kredittinstitusjon, et verdipapirforetak eller et forsikringsforetak når vedtaket får eller kan få virkning for eksisterende rettigheter for andre enn foretaket selv.
+2. *avviklingstiltak:* felles prosedyrer for frivillig og tvungen avvikling av en kredittinstitusjon eller et forsikringsforetak som innledes og overvåkes av forvaltnings- eller rettsmyndighetene i en medlemsstat med formål å realisere eiendeler under tilsyn av disse myndighetene, også når disse felles prosedyrene avsluttes ved akkord eller andre tilsvarende tiltak.
 
 > Tilføyd ved forskrift [19 des 2019 nr. 2002](forskrift/2019-12-19-2002) (i kraft 1 jan 2020), endret ved forskrift [22 nov 2022 nr. 2008](forskrift/2022-11-22-2008) (i kraft 1 jan 2023).
 
@@ -1868,13 +2637,30 @@ Reorganiseringstiltak skal få virkning i hele EØS-området fra det tidspunkt d
 
 En kredittinstitusjon eller et forsikringsforetak skal avvikles i samsvar med gjeldende lover, forskrifter og prosedyrer i hjemstaten, med mindre annet er fastsatt i dette kapittelet.
 
-Lovgivningen i hjemstaten skal særlig legges til grunn for:hvilke eiendeler som inngår i boet, og hvordan eiendeler som er ervervet av kredittinstitusjonen eller forsikringsforetaket etter at vedtak om avvikling er fattet, skal behandles,avviklingsstyrets og kredittinstitusjonens eller forsikringsforetakets respektive fullmakter,vilkårene for å kreve motregning,virkningene av avviklingstiltak for løpende avtaler der kredittinstitusjonen eller forsikringsforetaket er part,virkningene av avviklingstiltak for individuelle søksmål anlagt av kreditorer, med unntak for pågående rettssaker som omtalt i [§ 21a-15](forskrift/2016-12-09-1502/§21a-15),hvilke fordringer som skal anmeldes i boet, og behandlingen av fordringer som er oppstått etter vedtak om avvikling er fattet,reglene for fordringers anmeldelse, kontroll og godkjenning,reglene for fordeling av provenyet etter realisering av eiendeler, fordringens prioritet og rettighetene til kreditorer som i henhold til en tinglig rett eller ved motregning har fått delvis dekning etter at vedtak om avvikling er fattet,vilkårene for og virkninger av avslutningen av avviklingstiltak, særlig ved akkord,kreditorenes rettigheter etter avslutningen av avviklingstiltak,hvem som skal bære kostnadene og utgiftene ved avviklingstiltak,reglene for ugyldighet, omstøtelse eller manglende tvangskraft for rettshandler som er til skade for alle kreditorer.
+Lovgivningen i hjemstaten skal særlig legges til grunn for:
+
+1. hvilke eiendeler som inngår i boet, og hvordan eiendeler som er ervervet av kredittinstitusjonen eller forsikringsforetaket etter at vedtak om avvikling er fattet, skal behandles,
+2. avviklingsstyrets og kredittinstitusjonens eller forsikringsforetakets respektive fullmakter,
+3. vilkårene for å kreve motregning,
+4. virkningene av avviklingstiltak for løpende avtaler der kredittinstitusjonen eller forsikringsforetaket er part,
+5. virkningene av avviklingstiltak for individuelle søksmål anlagt av kreditorer, med unntak for pågående rettssaker som omtalt i [§ 21a-15](forskrift/2016-12-09-1502/§21a-15),
+6. hvilke fordringer som skal anmeldes i boet, og behandlingen av fordringer som er oppstått etter vedtak om avvikling er fattet,
+7. reglene for fordringers anmeldelse, kontroll og godkjenning,
+8. reglene for fordeling av provenyet etter realisering av eiendeler, fordringens prioritet og rettighetene til kreditorer som i henhold til en tinglig rett eller ved motregning har fått delvis dekning etter at vedtak om avvikling er fattet,
+9. vilkårene for og virkninger av avslutningen av avviklingstiltak, særlig ved akkord,
+10. kreditorenes rettigheter etter avslutningen av avviklingstiltak,
+11. hvem som skal bære kostnadene og utgiftene ved avviklingstiltak,
+12. reglene for ugyldighet, omstøtelse eller manglende tvangskraft for rettshandler som er til skade for alle kreditorer.
 
 > Tilføyd ved forskrift [19 des 2019 nr. 2002](forskrift/2019-12-19-2002) (i kraft 1 jan 2020), endret ved forskrift [22 nov 2022 nr. 2008](forskrift/2022-11-22-2008) (i kraft 1 jan 2023).
 
 ### § 21a-5. Virkninger for visse avtaler og rettigheter
 
-Virkningene av reorganiserings- eller avviklingstiltak forarbeidsavtaler og arbeidsforhold skal utelukkende reguleres av den medlemsstats lovgivning som gjelder for arbeidsavtalen,en avtale som gir bruksrett eller rett til å erverve fast eiendom, skal utelukkende reguleres av lovgivningen i den medlemsstat på hvis territorium den faste eiendommen befinner seg. Denne lovgivningen avgjør om en eiendel er løsøre eller fast eiendom,rettigheter med hensyn til fast eiendom, et skip eller et luftfartøy som er registreringspliktig i et offentlig register, skal utelukkende reguleres av lovgivningen i den medlemsstat under hvis myndighet registeret føres.
+Virkningene av reorganiserings- eller avviklingstiltak for
+
+1. arbeidsavtaler og arbeidsforhold skal utelukkende reguleres av den medlemsstats lovgivning som gjelder for arbeidsavtalen,
+2. en avtale som gir bruksrett eller rett til å erverve fast eiendom, skal utelukkende reguleres av lovgivningen i den medlemsstat på hvis territorium den faste eiendommen befinner seg. Denne lovgivningen avgjør om en eiendel er løsøre eller fast eiendom,
+3. rettigheter med hensyn til fast eiendom, et skip eller et luftfartøy som er registreringspliktig i et offentlig register, skal utelukkende reguleres av lovgivningen i den medlemsstat under hvis myndighet registeret føres.
 
 > Tilføyd ved forskrift [19 des 2019 nr. 2002](forskrift/2019-12-19-2002) (i kraft 1 jan 2020).
 
@@ -1882,7 +2668,12 @@ Virkningene av reorganiserings- eller avviklingstiltak forarbeidsavtaler og arbe
 
 Reorganiserings- eller avviklingstiltak skal ikke påvirke fordringshaveres eller tredjemanns tinglige rettigheter til materielle eller immaterielle eiendeler, løsøre eller fast eiendom – både bestemte eiendeler og løsørekomplekser – som tilhører kredittinstitusjonen eller forsikringsforetaket, og som på tidspunktet for vedtaket befinner seg på en annen medlemsstats territorium.
 
-Rettighetene nevnt i første ledd er særligretten til å realisere eller få realisert eiendelen og få dekning fra provenyet eller avkastningen av eiendelen, særlig med grunnlag i håndpant eller underpant,eneretten til å inndrive en fordring, særlig ved pant i fordringen eller overdragelse av fordringen til sikkerhet,retten til å kreve eiendelen tilbake og/eller kreve tilbakebetaling fra enhver som er i besittelse av den eller benytter den mot rettighetshavers vilje,den tinglige rett til avkastningen av eiendelen.
+Rettighetene nevnt i første ledd er særlig
+
+1. retten til å realisere eller få realisert eiendelen og få dekning fra provenyet eller avkastningen av eiendelen, særlig med grunnlag i håndpant eller underpant,
+2. eneretten til å inndrive en fordring, særlig ved pant i fordringen eller overdragelse av fordringen til sikkerhet,
+3. retten til å kreve eiendelen tilbake og/eller kreve tilbakebetaling fra enhver som er i besittelse av den eller benytter den mot rettighetshavers vilje,
+4. den tinglige rett til avkastningen av eiendelen.
 
 Rett til å oppnå en tinglig rettighet etter første ledd, som er innført i et offentlig register, med tvangskraft overfor tredjemann, skal likestilles med en tinglig rett.
 
@@ -1934,7 +2725,10 @@ Med forbehold for [§ 21a-9](forskrift/2016-12-09-1502/§21a-9) skal transaksjon
 
 ### § 21a-13. Skadelige rettshandler
 
-§ 21 a-4 får ikke anvendelse på reglene om ugyldighet, omstøtelse eller manglende tvangskraft for rettshandler som er til skade for kreditorene sett under ett, når den som får fordel av rettshandlene fremlegger bevis for atrettshandelen hører inn under lovgivningen i en annen medlemsstat enn hjemstaten, ogdenne lovgivningen ikke gir noen mulighet for å angripe den aktuelle rettshandelen.
+§ 21 a-4 får ikke anvendelse på reglene om ugyldighet, omstøtelse eller manglende tvangskraft for rettshandler som er til skade for kreditorene sett under ett, når den som får fordel av rettshandlene fremlegger bevis for at
+
+- rettshandelen hører inn under lovgivningen i en annen medlemsstat enn hjemstaten, og
+- denne lovgivningen ikke gir noen mulighet for å angripe den aktuelle rettshandelen.
 
 Når reorganiseringstiltak som er vedtatt av en rettsmyndighet omfatter regler for ugyldighet, omstøtelse eller manglende tvangskraft for rettshandler som er til skade for kreditorene sett under ett, og som er inngått før tiltaket er vedtatt, gjelder [§ 21a-3](forskrift/2016-12-09-1502/§21a-3) annet ledd ikke i tilfeller som nevnt i første ledd.
 
@@ -1942,7 +2736,13 @@ Når reorganiseringstiltak som er vedtatt av en rettsmyndighet omfatter regler f
 
 ### § 21a-14. Vern av tredjemann
 
-Når en kredittinstitusjon eller et forsikringsforetak, ved en rettshandel inngått etter vedtakelsen av et reorganiserings- eller avviklingstiltak, mot vederlag avhenderfast eiendom,et skip eller et luftfartøy som er registreringspliktig i et offentlig register, ellerinstrumenter eller rettigheter til slike instrumenter hvis eksistens eller omsettelighet forutsetter innføring i et register, på en konto eller i en verdipapirsentral som administreres eller befinner seg i en medlemsstat,reguleres gyldigheten av denne rettshandelen av lovgivningen i den medlemsstat på hvis territorium den faste eiendommen befinner seg, eller under hvis myndighet registeret, kontoen eller verdipapirsentralen administreres.
+Når en kredittinstitusjon eller et forsikringsforetak, ved en rettshandel inngått etter vedtakelsen av et reorganiserings- eller avviklingstiltak, mot vederlag avhender
+
+- fast eiendom,
+- et skip eller et luftfartøy som er registreringspliktig i et offentlig register, eller
+- instrumenter eller rettigheter til slike instrumenter hvis eksistens eller omsettelighet forutsetter innføring i et register, på en konto eller i en verdipapirsentral som administreres eller befinner seg i en medlemsstat,
+
+reguleres gyldigheten av denne rettshandelen av lovgivningen i den medlemsstat på hvis territorium den faste eiendommen befinner seg, eller under hvis myndighet registeret, kontoen eller verdipapirsentralen administreres.
 
 > Tilføyd ved forskrift [19 des 2019 nr. 2002](forskrift/2019-12-19-2002) (i kraft 1 jan 2020), endret ved forskrift [22 nov 2022 nr. 2008](forskrift/2022-11-22-2008) (i kraft 1 jan 2023).
 

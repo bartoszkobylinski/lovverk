@@ -98,13 +98,27 @@ Salgssteder og grossister skal være registrert senest innen 14 dager før salge
 
 ### § 10. Salgsstedets opplysninger
 
-For salgssteder for tobakksvarer og tobakkssurrogater skal følgende opplysninger registreres:Virksomhetens navn, organisasjonsnummer og adresseSalgsstedets navn, organisasjonsnummer, adresse og kommune. Ved behov kan gårds- og bruksnummer registreres i stedet for adresseNæringskodeKontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresseHvilke kategorier tobakksvarer og tobakkssurrogater som selgesDato for salgsstartVed midlertidig salg skal salgsperiode registreres. Med midlertidig salg menes salg i en periode på opptil 30 dager årligOm salgsstedet driver med avgiftsfritt salg til forbruker på flyplass, salg på tog som er kollektive transportmidler, om bord i skip som er kollektive transportmidler og om bord i cruiseskip på turer av flere dagers varighet.
+For salgssteder for tobakksvarer og tobakkssurrogater skal følgende opplysninger registreres:
+
+1. Virksomhetens navn, organisasjonsnummer og adresse
+2. Salgsstedets navn, organisasjonsnummer, adresse og kommune. Ved behov kan gårds- og bruksnummer registreres i stedet for adresse
+3. Næringskode
+4. Kontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresse
+5. Hvilke kategorier tobakksvarer og tobakkssurrogater som selges
+6. Dato for salgsstart
+7. Ved midlertidig salg skal salgsperiode registreres. Med midlertidig salg menes salg i en periode på opptil 30 dager årlig
+8. Om salgsstedet driver med avgiftsfritt salg til forbruker på flyplass, salg på tog som er kollektive transportmidler, om bord i skip som er kollektive transportmidler og om bord i cruiseskip på turer av flere dagers varighet.
 
 > Endret ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020, tidligere § 9).
 
 ### § 11. Grossistens opplysninger
 
-For grossister av tobakksvarer og tobakkssurrogater skal følgende opplysninger registreres:Virksomhetens navn, organisasjonsnummer og adresseNæringskodeKontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresseHvilke kategorier tobakksvarer og tobakkssurrogater som selges.
+For grossister av tobakksvarer og tobakkssurrogater skal følgende opplysninger registreres:
+
+1. Virksomhetens navn, organisasjonsnummer og adresse
+2. Næringskode
+3. Kontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresse
+4. Hvilke kategorier tobakksvarer og tobakkssurrogater som selges.
 
 > Endret ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020, tidligere § 10).
 
@@ -160,15 +174,35 @@ Søker skal informeres om hvilke dokumenter som eventuelt mangler og gis adgang 
 
 Søknaden skal sendes inn elektronisk i søknadsportal som fastsatt av Helsedirektoratet, med mindre det er uforholdsmessig vanskelig for søkeren å benytte elektronisk søknad.
 
-Søknaden skal inneholde:Virksomhetens navn, organisasjonsnummer, adresse og kontaktopplysninger samt opplysninger om eventuelle underleverandører.Opplysninger om hvilken type bevilling det søkes om.Oversikt over konti som brukes i transaksjonsøymed.Opplysninger om personer med vesentlig innflytelse over virksomheten, jf. [tobakksskadeloven § 11](lov/1973-03-09-14/§11).Dokumentasjon på hvem som eier bevillingssøkende virksomhet.Oversikt over tobakksvarer og tobakksutstyr som omfattes av bevillingssøknaden, herunder varegrupper, varebeskrivelse, navn, eventuelt registrert varemerke, design, merke, modell eller fabrikat og serienummer for produksjonsutstyret.Beskrivelse av hvordan tobakksvarene er tenkt brukt og i hvilket markedet det er tenkt omsatt i, og en redegjørelse om tilbudet står i forhold til den etterspørselen som med rimelighet kan forventes.Plan for internkontrollsystem, herunder rutiner for forsvarlig vareflyt og lagring, og ev. dokumentasjon på forsikring og fysisk sikring av varelager og produksjonslokale.Adkomstdokumenter og plantegning over virksomhetens lokaler.Utvidet og uttømmende politiattest, jf. [tobakksskadeloven § 9](lov/1973-03-09-14/§9).
+Søknaden skal inneholde:
 
-Helsedirektoratet kan i tillegg kreve at søkeren fremlegger:Firmaattest, eventuelt stiftelsesdokumentasjonKontoutskrifter fra konti som brukes i transaksjonsøyemedFinansieringsplan og drifts- og likviditetsbudsjett.
+1. Virksomhetens navn, organisasjonsnummer, adresse og kontaktopplysninger samt opplysninger om eventuelle underleverandører.
+2. Opplysninger om hvilken type bevilling det søkes om.
+3. Oversikt over konti som brukes i transaksjonsøymed.
+4. Opplysninger om personer med vesentlig innflytelse over virksomheten, jf. [tobakksskadeloven § 11](lov/1973-03-09-14/§11).
+5. Dokumentasjon på hvem som eier bevillingssøkende virksomhet.
+6. Oversikt over tobakksvarer og tobakksutstyr som omfattes av bevillingssøknaden, herunder varegrupper, varebeskrivelse, navn, eventuelt registrert varemerke, design, merke, modell eller fabrikat og serienummer for produksjonsutstyret.
+7. Beskrivelse av hvordan tobakksvarene er tenkt brukt og i hvilket markedet det er tenkt omsatt i, og en redegjørelse om tilbudet står i forhold til den etterspørselen som med rimelighet kan forventes.
+8. Plan for internkontrollsystem, herunder rutiner for forsvarlig vareflyt og lagring, og ev. dokumentasjon på forsikring og fysisk sikring av varelager og produksjonslokale.
+9. Adkomstdokumenter og plantegning over virksomhetens lokaler.
+10. Utvidet og uttømmende politiattest, jf. [tobakksskadeloven § 9](lov/1973-03-09-14/§9).
+
+Helsedirektoratet kan i tillegg kreve at søkeren fremlegger:
+
+1. Firmaattest, eventuelt stiftelsesdokumentasjon
+2. Kontoutskrifter fra konti som brukes i transaksjonsøyemed
+3. Finansieringsplan og drifts- og likviditetsbudsjett.
 
 > Tilføyd ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020).
 
 ### § 18. Vurdering av vandelskrav
 
-I vurderingen av om vandelskravet etter [tobakkskadeloven § 11](lov/1973-03-09-14/§11) er oppfylt kan Helsedirektoratet blant annet legge vekt på:Forholdets grovhet, herunder hvilken type lovovertredelse som er begått.Hvor langt tilbake i tid forholdet ligger. Det skal ikke tas hensyn til forhold som er eldre enn ti år.Gjentakelse av forhold og sammenhengen mellom disse.Hvorvidt forholdet er begått i næringsvirksomhet.
+I vurderingen av om vandelskravet etter [tobakkskadeloven § 11](lov/1973-03-09-14/§11) er oppfylt kan Helsedirektoratet blant annet legge vekt på:
+
+1. Forholdets grovhet, herunder hvilken type lovovertredelse som er begått.
+2. Hvor langt tilbake i tid forholdet ligger. Det skal ikke tas hensyn til forhold som er eldre enn ti år.
+3. Gjentakelse av forhold og sammenhengen mellom disse.
+4. Hvorvidt forholdet er begått i næringsvirksomhet.
 
 > Tilføyd ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020).
 
@@ -202,7 +236,14 @@ Internkontrollen skal tilpasses virksomhetens størrelse, egenart, aktiviteter o
 
 Internkontrollen skal dokumenteres skriftlig og i det omfang som er nødvendig på bakgrunn av virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Dokumentasjonen skal til enhver tid være oppdatert og tilgjengelig for tilsynsmyndigheten.
 
-Internkontrollen innebærer at den eller de ansvarlige for virksomheten skalha oversikt over krav i tobakksskadeloven og i bestemmelser fastsatt i medhold av denne som gjelder for virksomhetensørge for at ansatte i virksomheten har tilstrekkelige kunnskaper og kompetanse til å overholde kravene i regelverket, herunder kravene til internkontrollha oversikt over hvordan virksomheten er organisert og hvordan oppgaver og ansvar er fordeltha rutiner for å sikre overholdelse av krav i tobakksskadeloven og i bestemmelser fastsatt i medhold av denne som gjelder for virksomhetenha rutiner for å forebygge, avdekke og rette opp avvikforeta systematisk og regelmessig gjennomgang av internkontrollen.
+Internkontrollen innebærer at den eller de ansvarlige for virksomheten skal
+
+1. ha oversikt over krav i tobakksskadeloven og i bestemmelser fastsatt i medhold av denne som gjelder for virksomheten
+2. sørge for at ansatte i virksomheten har tilstrekkelige kunnskaper og kompetanse til å overholde kravene i regelverket, herunder kravene til internkontroll
+3. ha oversikt over hvordan virksomheten er organisert og hvordan oppgaver og ansvar er fordelt
+4. ha rutiner for å sikre overholdelse av krav i tobakksskadeloven og i bestemmelser fastsatt i medhold av denne som gjelder for virksomheten
+5. ha rutiner for å forebygge, avdekke og rette opp avvik
+6. foreta systematisk og regelmessig gjennomgang av internkontrollen.
 
 > Endret ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020, tidligere § 15).
 
@@ -224,7 +265,12 @@ Bevillingshaver skal sørge for at eventuelle underleverandører overholder krav
 
 ### § 24. Kontroll med varelager og transport
 
-Bevillingshaver må til enhver tid sørge for at det foreligger forsvarlige rutiner forå holde oversikt over hvilke varer som befinner seg på varelageret og hvilke varer som er under transport. Rutinene skal sikre oversikt over beholdningen og inn- og uttak av varer fra varelageret.oppfølging når det avdekkes manko i beholdningen i varelageret.oppfølging ved flytting av varer og produksjonsutstyr.kontroll med at uvedkommende ikke får adgang til lageret, transportmiddel, og til de varene og utstyret som oppbevares og flyttes.
+Bevillingshaver må til enhver tid sørge for at det foreligger forsvarlige rutiner for
+
+1. å holde oversikt over hvilke varer som befinner seg på varelageret og hvilke varer som er under transport. Rutinene skal sikre oversikt over beholdningen og inn- og uttak av varer fra varelageret.
+2. oppfølging når det avdekkes manko i beholdningen i varelageret.
+3. oppfølging ved flytting av varer og produksjonsutstyr.
+4. kontroll med at uvedkommende ikke får adgang til lageret, transportmiddel, og til de varene og utstyret som oppbevares og flyttes.
 
 > Tilføyd ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020).
 
@@ -240,7 +286,10 @@ Longyearbyen lokalstyre har ansvar for tilsyn med registrerte salgssteder for sa
 
 Helsedirektoratet har ansvar for tilsyn med avgiftsfritt salg av tobakksvarer og tobakkssurrogater til forbruker på flyplasser.
 
-Helsedirektoratet har ansvar for tilsyn med salg av tobakksvarer og tobakkssurrogater til forbrukerpå tog som er kollektive transportmidlerom bord i skip som er kollektive transportmidler, og om bord i cruiseskip på turer av flere dagers varighet.
+Helsedirektoratet har ansvar for tilsyn med salg av tobakksvarer og tobakkssurrogater til forbruker
+
+1. på tog som er kollektive transportmidler
+2. om bord i skip som er kollektive transportmidler, og om bord i cruiseskip på turer av flere dagers varighet.
 
 Helsedirektoratet har ansvar for tilsyn med registrerte grossister av tobakksvarer og tobakkssurrogater, og med bevillingshavere.
 
@@ -346,7 +395,10 @@ Kommunene og Longyearbyen lokalstyre plikter etter anmodning fra Helsedirektorat
 
 ### § 39. Offisiell statistikk
 
-Folkehelseinstituttet kan i samarbeid med Helsedirektoratet og Statistisk sentralbyrå bestemme hvordan offisiell statistikk skal utarbeides, herunderdefinisjon av statistiske enheter, kjennemerker, klassifikasjoner mv. ogdatabearbeidingen.
+Folkehelseinstituttet kan i samarbeid med Helsedirektoratet og Statistisk sentralbyrå bestemme hvordan offisiell statistikk skal utarbeides, herunder
+
+- definisjon av statistiske enheter, kjennemerker, klassifikasjoner mv. og
+- databearbeidingen.
 
 > Endret ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020, tidligere § 31).
 
@@ -364,7 +416,13 @@ Helsedirektoratet skal slette og rette feilaktige opplysninger.
 
 ### § 41. Registerets innhold
 
-Følgende opplysninger skal registreres:Virksomhetens navn, organisasjonsnummer og adresseKontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresseOm bevillingen gjelder innførsel, utførsel eller produksjonOppstartdatoHvilke kategorier tobakksvarer som skal innføres, utføres og/eller produseres.
+Følgende opplysninger skal registreres:
+
+1. Virksomhetens navn, organisasjonsnummer og adresse
+2. Kontaktopplysninger i form av navn på kontaktperson, telefonnummer og e-postadresse
+3. Om bevillingen gjelder innførsel, utførsel eller produksjon
+4. Oppstartdato
+5. Hvilke kategorier tobakksvarer som skal innføres, utføres og/eller produseres.
 
 > Tilføyd ved [forskrift 29 okt 2020 nr. 2178](forskrift/2020-10-29-2178) (i kraft 1 nov 2020).
 

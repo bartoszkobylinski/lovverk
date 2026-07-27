@@ -15,7 +15,7 @@ xml_hash: "950561850a7a04052102321605b09a7dd2bc8c1fbc483e6c3d0c8aa742e9d5c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Formål
 
-Forskriften skal sikre at avtaler om utleie av vannkraftanlegg og avtaler med driftsoperatør om bortsetting av drift og vedlikehold knyttet til utbygde konsesjonspliktige vannfall med kraftverk og tilhørende anlegg inngåsi samsvar med prinsippet om offentlig eierskap til landets vannkraftressurserinnenfor de rammer som følger av industrikonsesjonslovenpå en måte som sikrer rasjonell drift og klare ansvarsforhold.
+Forskriften skal sikre at avtaler om utleie av vannkraftanlegg og avtaler med driftsoperatør om bortsetting av drift og vedlikehold knyttet til utbygde konsesjonspliktige vannfall med kraftverk og tilhørende anlegg inngås
+
+1. i samsvar med prinsippet om offentlig eierskap til landets vannkraftressurser
+2. innenfor de rammer som følger av industrikonsesjonsloven
+3. på en måte som sikrer rasjonell drift og klare ansvarsforhold.
 
 ## § 2. Virkeområde og ufravikelighet
 

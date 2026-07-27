@@ -40,7 +40,11 @@ Hvis et medlem har et særlig behov for å skifte protese eller ortose eller av 
 
 ### § 2
 
-Et medlem som fyller vilkårene i [§ 1](forskrift/1997-04-18-336/§1) første ledd har rett til stønad til anskaffelse og tilpasning av ortopedisk fottøy når:fottøyet er spesialsydd for medlemmet,fabrikkmessig framstilt fottøy krever spesielt tilpasset endring, ellerfabrikkmessig framstilt fottøy erstatter spesiallaget ortopedisk fottøy. Det ytes ikke stønad til fabrikkmessig framstilt fottøy når det eneste spesielle ved fottøyets funksjon er å gi rom for både fot og fotseng.
+Et medlem som fyller vilkårene i [§ 1](forskrift/1997-04-18-336/§1) første ledd har rett til stønad til anskaffelse og tilpasning av ortopedisk fottøy når:
+
+1. fottøyet er spesialsydd for medlemmet,
+2. fabrikkmessig framstilt fottøy krever spesielt tilpasset endring, eller
+3. fabrikkmessig framstilt fottøy erstatter spesiallaget ortopedisk fottøy. Det ytes ikke stønad til fabrikkmessig framstilt fottøy når det eneste spesielle ved fottøyets funksjon er å gi rom for både fot og fotseng.
 
 Det ytes stønad til anskaffelse av inntil to par ortopedisk fottøy pr. kalenderår. Det kan likevel ytes stønad til mer enn to par ortopedisk fottøy ved første gangs anskaffelse, til barn i vekst og når lege godtgjør at funksjonsforstyrrelsen er av en slik art at fottøyet slites mer enn normalt.
 
@@ -52,9 +56,23 @@ Når det gis dispensasjon etter bestemmelsen i andre ledd for barn i vekst og p�
 
 ### § 3
 
-1. Det gis stønad til anskaffelse, fornyelse og vedlikehold av ortopediske hjelpemidler som er nevnt i [§ 1](forskrift/1997-04-18-336/§1) og [§ 2](forskrift/1997-04-18-336/§2), når det foreligger søknad som er begrunnet av en spesialist i ortopedisk kirurgi eller en spesialist i fysikalsk medisin og rehabilitering.For ortoser og ortopedisk fottøy kan søknad også begrunnes av en spesialist i nevrologi, revmatologi eller indremedisin, alt etter hvilken tilstand som gjør anskaffelsen nødvendig. Spesialist i pediatri kan begrunne søknader om ortoser til bruk i barnets første leveår.Søknad kan også begrunnes av avdelingsoverlege eller den lege overlegen bemyndiger ved sykehusavdeling som har behov for å kunne rekvirere ortopediske hjelpemidler.Søknaden gis på blankett fastsatt av Arbeids- og velferdsdirektoratet, eller på andre måter som Arbeids- og velferdsetaten bestemmer.Legen kan ikke begrunne søknader om ortopediske hjelpemidler som leveres av et ortopedisk verksted som legen selv eller legens nærmeste pårørende har økonomiske interesser i.
-2. Legen sørger for at det ortopediske hjelpemidlet blir bestilt.I den utstrekning det er mulig bør arbeidet med de vanskeligere typer av ortopediske hjelpemidler utføres ved de protesesentra som er eller blir opprettet, eventuelt av avdeling eller institusjon som har spesialisert seg på ortopediteknikkens område.
-3. Etter fullmakt fra legen kan medlemmet selv søke om fornyelse av sitt ortopediske hjelpemiddel i en periode på inntil fem år. Hvis legen godtgjør at det er åpenbart at hjelpemiddelbehovet ikke vil endres, kan fullmakt gis for en periode på inntil ti år.En offentlig godkjent ortopediingeniør skal attestere at fornyelsen av hjelpemidlet er faglig forsvarlig.Hvis det er fastslått at medlemmets medisinske tilstand og behovet for hjelpemiddel er uendret, kan medlemmets fastlege forlenge gyldighetstiden med inntil fem år for en fullmakt gitt av en godkjent begrunner. Hvis legen som begrunnet den opprinnelige søknaden har gitt fullmakt for en periode på inntil ti år, kan fastlegen forlenge gyldighetstiden med inntil ti år.
+1. Det gis stønad til anskaffelse, fornyelse og vedlikehold av ortopediske hjelpemidler som er nevnt i [§ 1](forskrift/1997-04-18-336/§1) og [§ 2](forskrift/1997-04-18-336/§2), når det foreligger søknad som er begrunnet av en spesialist i ortopedisk kirurgi eller en spesialist i fysikalsk medisin og rehabilitering.
+
+   For ortoser og ortopedisk fottøy kan søknad også begrunnes av en spesialist i nevrologi, revmatologi eller indremedisin, alt etter hvilken tilstand som gjør anskaffelsen nødvendig. Spesialist i pediatri kan begrunne søknader om ortoser til bruk i barnets første leveår.
+
+   Søknad kan også begrunnes av avdelingsoverlege eller den lege overlegen bemyndiger ved sykehusavdeling som har behov for å kunne rekvirere ortopediske hjelpemidler.
+
+   Søknaden gis på blankett fastsatt av Arbeids- og velferdsdirektoratet, eller på andre måter som Arbeids- og velferdsetaten bestemmer.
+
+   Legen kan ikke begrunne søknader om ortopediske hjelpemidler som leveres av et ortopedisk verksted som legen selv eller legens nærmeste pårørende har økonomiske interesser i.
+2. Legen sørger for at det ortopediske hjelpemidlet blir bestilt.
+
+   I den utstrekning det er mulig bør arbeidet med de vanskeligere typer av ortopediske hjelpemidler utføres ved de protesesentra som er eller blir opprettet, eventuelt av avdeling eller institusjon som har spesialisert seg på ortopediteknikkens område.
+3. Etter fullmakt fra legen kan medlemmet selv søke om fornyelse av sitt ortopediske hjelpemiddel i en periode på inntil fem år. Hvis legen godtgjør at det er åpenbart at hjelpemiddelbehovet ikke vil endres, kan fullmakt gis for en periode på inntil ti år.
+
+   En offentlig godkjent ortopediingeniør skal attestere at fornyelsen av hjelpemidlet er faglig forsvarlig.
+
+   Hvis det er fastslått at medlemmets medisinske tilstand og behovet for hjelpemiddel er uendret, kan medlemmets fastlege forlenge gyldighetstiden med inntil fem år for en fullmakt gitt av en godkjent begrunner. Hvis legen som begrunnet den opprinnelige søknaden har gitt fullmakt for en periode på inntil ti år, kan fastlegen forlenge gyldighetstiden med inntil ti år.
 4. Medlemmet kan ved fornyelse selv søke om forhåndstilsagn om stønad til mer enn to par ortopedisk fottøy og ett par fotsenger pr. kalenderår hvis legen har angitt at fullmakten kan gjelde ved fornyelser i en periode på inntil fem år.
 5. Legen skal påse at medlemmet ved første gangs anskaffelse av et ortopedisk hjelpemiddel blir trenet i bruken av hjelpemidlet, om nødvendig ved opphold i sykehus eller attføringsinstitutt.
 6. Den ortopediingeniøren som har hatt ansvaret for å tilpasse hjelpemidlet skal attestere at hjelpemidlet er hensiktsmessig og kvalitetsmessig utført.
@@ -136,7 +154,9 @@ Det kan i stedet for stønad til parykk ytes stønad til hodeplagg, hårforlenge
 
 ### § 10
 
-1. Arbeids- og velferdsetatens tilsagn om stønad til ortopediske hjelpemidler må innhentes før anskaffelsen finner sted. Selv om forhåndstilsagn ikke er innhentet, kan det likevel gis stønad dersom det er klart at tilsagn ville ha blitt gitt.Arbeids- og velferdsetaten fatter vedtak om stønad med hjemmel i forskriftens avsnitt II om brystprotese, ansiktsdefektprotese, øyeprotese og parykk når det er fremmet krav om refusjon. Hvis et medlem av folketrygden ønsker å bringe på det rene om det foreligger rett til stønad kan det søkes om stønad før anskaffelse har funnet sted.
+1. Arbeids- og velferdsetatens tilsagn om stønad til ortopediske hjelpemidler må innhentes før anskaffelsen finner sted. Selv om forhåndstilsagn ikke er innhentet, kan det likevel gis stønad dersom det er klart at tilsagn ville ha blitt gitt.
+
+   Arbeids- og velferdsetaten fatter vedtak om stønad med hjemmel i forskriftens avsnitt II om brystprotese, ansiktsdefektprotese, øyeprotese og parykk når det er fremmet krav om refusjon. Hvis et medlem av folketrygden ønsker å bringe på det rene om det foreligger rett til stønad kan det søkes om stønad før anskaffelse har funnet sted.
 2. Arbeids- og velferdsetaten foretar direkte oppgjør med forhandler av ortopediske hjelpemidler dersom vilkårene for stønad etter denne forskriften er oppfylt.
 3. Det kan inngås avtale om direkte oppgjør av stønad til proteser som nevnt i avsnitt II etter retningslinjer som fastsettes av Arbeids- og velferdsdirektoratet. Det kan herunder stilles særskilte vilkår til forhandleren om vareutvalg, prøverom m.m.
 

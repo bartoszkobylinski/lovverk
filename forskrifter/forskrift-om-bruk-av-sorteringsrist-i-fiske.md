@@ -15,7 +15,7 @@ xml_hash: "00482008ecf173777c1df25a70d5c17febdb188d0adc8bf566b5427b47011119"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Ved fiske med stormasket trål i området og med fartøy som nevnt i [§ 1](fors
 
 ### § 3. Unntak fra påbudet om bruk av sorteringsrist
 
-Uten hinder av påbudet i [§ 2](forskrift/2010-12-20-1786/§2) kan fartøy ved bruk av redskap som oppfyller kravene til utforming slik disse fremgår av [forskrift 23. desember 2021 nr. 3910 om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser § 10](forskrift/2021-12-23-3910/§10), fiske uten sorteringsrist i tidsrommet fra og med 1. januar til og med 30. april i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:N 70° 00′ Ø 14° 00′N 70° 00′ Ø 18° 00′N 72° 30′ Ø 18° 00′N 72° 30′ Ø 14° 00′.
+Uten hinder av påbudet i [§ 2](forskrift/2010-12-20-1786/§2) kan fartøy ved bruk av redskap som oppfyller kravene til utforming slik disse fremgår av [forskrift 23. desember 2021 nr. 3910 om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser § 10](forskrift/2021-12-23-3910/§10), fiske uten sorteringsrist i tidsrommet fra og med 1. januar til og med 30. april i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:
+
+1. N 70° 00′ Ø 14° 00′
+2. N 70° 00′ Ø 18° 00′
+3. N 72° 30′ Ø 18° 00′
+4. N 72° 30′ Ø 14° 00′.
 
 Uten hinder av påbudet i [§ 2](forskrift/2010-12-20-1786/§2) kan fartøy fiske uten sorteringsrist i et direkte fiske etter uer.
 
@@ -44,7 +49,22 @@ Uten hinder av påbudet i [§ 2](forskrift/2010-12-20-1786/§2) kan fartøy fisk
 
 ### § 5. Spileavstand
 
-Minste tillatte spileavstand i sorteringsristene er som følger:I området i Norges økonomiske sone avgrenset i sør av 62° N og i nord av rette linjer mellom følgende posisjoner:70° 58,50′ N 23° 00,00′ Ø (ved 4 nm grensen)71° 30,00′ N 23° 00,00′ Ø71° 30,00′ N 20° 00,00′ Ø72° 00,00′ N 17° 00,00′ Ø73° 40,50′ N 17° 00,00′ Ø (ved Norges økonomiske sones ytre grense),videre langs yttergrensen for Norges økonomiske sone til72° 10,78 ′N 10° 18,70′ Ø (krysningspunkt for yttergrensen for Norges økonomiske sone og yttergrensen for fiskevernsonen ved Svalbard)skal minste spileavstand i sorteringsristene være 50 mm.I Svalbards territorialfarvann og indre farvann, i fiskevernsonen ved Svalbard og i området i Norges økonomiske sone nord og øst for rette linjer mellom posisjonene angitt i punktene 1–5 under bokstav a) skal minste spileavstand i sorteringsristene være 55 mm.
+Minste tillatte spileavstand i sorteringsristene er som følger:
+
+1. I området i Norges økonomiske sone avgrenset i sør av 62° N og i nord av rette linjer mellom følgende posisjoner:
+
+   1. 70° 58,50′ N 23° 00,00′ Ø (ved 4 nm grensen)
+   2. 71° 30,00′ N 23° 00,00′ Ø
+   3. 71° 30,00′ N 20° 00,00′ Ø
+   4. 72° 00,00′ N 17° 00,00′ Ø
+   5. 73° 40,50′ N 17° 00,00′ Ø (ved Norges økonomiske sones ytre grense),
+
+   videre langs yttergrensen for Norges økonomiske sone til
+
+   1. 72° 10,78 ′N 10° 18,70′ Ø (krysningspunkt for yttergrensen for Norges økonomiske sone og yttergrensen for fiskevernsonen ved Svalbard)
+
+   skal minste spileavstand i sorteringsristene være 50 mm.
+2. I Svalbards territorialfarvann og indre farvann, i fiskevernsonen ved Svalbard og i området i Norges økonomiske sone nord og øst for rette linjer mellom posisjonene angitt i punktene 1–5 under bokstav a) skal minste spileavstand i sorteringsristene være 55 mm.
 
 ### § 6. Risttyper
 
@@ -82,7 +102,13 @@ Reglene i denne paragrafen får anvendelse for fartøy på 30 meter største len
 
 *a) Ristene*
 
-Ristene som benyttes skal ha følgende minimum lengde og bredde:1. hovedrist: 1500 x 1167 mm, krummes (R200 ) i akterkant.2. hovedrist: 1200 x 1167 mm, krummes (R200 ) i akterkant.Stopperist: 1800 x 1167 mm
+Ristene som benyttes skal ha følgende minimum lengde og bredde:
+
+1\. hovedrist: 1500 x 1167 mm, krummes (R200 ) i akterkant.
+
+2\. hovedrist: 1200 x 1167 mm, krummes (R200 ) i akterkant.
+
+Stopperist: 1800 x 1167 mm
 
 *b) Nettseksjonen*
 
@@ -126,7 +152,13 @@ Reglene i denne paragrafen får anvendelse for fartøy under 30 meter største l
 
 *a) Ristene*
 
-Ristene som benyttes skal ha følgende minimum lengde og bredde:1. hovedrist: 1000 x 1167 mm, krummes (R200 ) i akterkant.2. hovedrist: 750 x 1167 mm, krummes (R200 ) i akterkant.Stopperist: 1000 x 1167 mm.
+Ristene som benyttes skal ha følgende minimum lengde og bredde:
+
+1\. hovedrist: 1000 x 1167 mm, krummes (R200 ) i akterkant.
+
+2\. hovedrist: 750 x 1167 mm, krummes (R200 ) i akterkant.
+
+Stopperist: 1000 x 1167 mm.
 
 *b) Nettseksjonen*
 
@@ -176,9 +208,16 @@ Det skal benyttes syrefast stål (18,12, A4) i sorteringsristen og sorteringsris
 
 Sorteringsristsystemet, som består av en nettseksjon der sorteringsrist eller sorteringsristkassett, løftepanel, ledepanel og en forlengelse er montert, skal monteres inn mellom trålens belg og trålens forlengelse eller sekk.
 
-I en to-panels nettseksjon skal sorteringsrist systemet monteres på følgende måte:Sorteringsrist eller sorteringsristkassett, løftepanel og ledepanel monteres inn i nettseksjonen som vist på figur 1, 2, 6c og 6d i vedlegg 3. Sorteringsristens fremre 130 cm eller sorteringsristkassettens fremre 135 cm innmonteres over en seksjonslengde på maksimalt 112 cm uten sorteringsristkassett og 118 cm med sorteringsristkassett målt på strukket lin fra sorteringsristens eller sorteringsristkassettens festepunkt (A1 og A2/B1 og B2) (figur 6a–d i vedlegg 3) mot sideleis til tangerende punkt på lin i forkant av sorteringsristen eller sorteringsristkassetten.For å holde sorteringsristsystemet i rett posisjon skal det på hver side monteres en 7 mm stålkjetting eller tau av typen Dynex, Spectra eller tilsvarende, som festes til sorteringsristens eller sorteringsristkassettens øvre fremre hjørner og i sideleisen (sammenføyning mellom overpanelet og underpanelet) bak risten som vist på figurene 1, 2 og 9 i vedlegg 3.I nettseksjonen der sorteringsristen eller sorteringsristkassetten er montert, skal det monteres fløytkuler for å nøytralisere vekten av sorteringsristen eller sorteringsristkassetten, slik det fremgår av [§ 14](forskrift/2010-12-20-1786/§14) e). Fløytkulene skal være 8″ (200 mm) i diameter.
+I en to-panels nettseksjon skal sorteringsrist systemet monteres på følgende måte:
 
-I en fire-panels nettseksjon skal sorteringsristsystemet monteres på følgende måte:Sorteringsrist eller sorteringsristkassett, løftepanel og ledepanel monteres inn i nettseksjonen som vist på figur 1–3 i vedlegg 3.1. Sorteringsristen monteres i henhold til skisse i figur 3 og 4 i vedlegg 3.1. Innmontering i lengderetning over 1450 mm (ca. 10,5#) uten kassett og 1600 mm (ca. 11,5#) med kassett. Antall masker sorteringsristen innmonteres over i T-retning skal være 18 masker uten kassett og 18,5 masker med kassett.I nettseksjonen der sorteringsristen eller sorteringsristkassetten er montert, skal det monteres fløytkuler for å nøytralisere vekten av sorteringsristen eller sorteringsristkassetten, slik det fremgår av [§ 14](forskrift/2010-12-20-1786/§14) e). Fløytkulene skal være 8″ (200 mm) i diameter.
+1. Sorteringsrist eller sorteringsristkassett, løftepanel og ledepanel monteres inn i nettseksjonen som vist på figur 1, 2, 6c og 6d i vedlegg 3. Sorteringsristens fremre 130 cm eller sorteringsristkassettens fremre 135 cm innmonteres over en seksjonslengde på maksimalt 112 cm uten sorteringsristkassett og 118 cm med sorteringsristkassett målt på strukket lin fra sorteringsristens eller sorteringsristkassettens festepunkt (A1 og A2/B1 og B2) (figur 6a–d i vedlegg 3) mot sideleis til tangerende punkt på lin i forkant av sorteringsristen eller sorteringsristkassetten.
+2. For å holde sorteringsristsystemet i rett posisjon skal det på hver side monteres en 7 mm stålkjetting eller tau av typen Dynex, Spectra eller tilsvarende, som festes til sorteringsristens eller sorteringsristkassettens øvre fremre hjørner og i sideleisen (sammenføyning mellom overpanelet og underpanelet) bak risten som vist på figurene 1, 2 og 9 i vedlegg 3.
+3. I nettseksjonen der sorteringsristen eller sorteringsristkassetten er montert, skal det monteres fløytkuler for å nøytralisere vekten av sorteringsristen eller sorteringsristkassetten, slik det fremgår av [§ 14](forskrift/2010-12-20-1786/§14) e). Fløytkulene skal være 8″ (200 mm) i diameter.
+
+I en fire-panels nettseksjon skal sorteringsristsystemet monteres på følgende måte:
+
+1. Sorteringsrist eller sorteringsristkassett, løftepanel og ledepanel monteres inn i nettseksjonen som vist på figur 1–3 i vedlegg 3.1. Sorteringsristen monteres i henhold til skisse i figur 3 og 4 i vedlegg 3.1. Innmontering i lengderetning over 1450 mm (ca. 10,5#) uten kassett og 1600 mm (ca. 11,5#) med kassett. Antall masker sorteringsristen innmonteres over i T-retning skal være 18 masker uten kassett og 18,5 masker med kassett.
+2. I nettseksjonen der sorteringsristen eller sorteringsristkassetten er montert, skal det monteres fløytkuler for å nøytralisere vekten av sorteringsristen eller sorteringsristkassetten, slik det fremgår av [§ 14](forskrift/2010-12-20-1786/§14) e). Fløytkulene skal være 8″ (200 mm) i diameter.
 
 > Endret ved [forskrifter 5 feb 2013 nr. 151](forskrift/2013-02-05-151), [17 mars 2015 nr. 244](forskrift/2015-03-17-244).
 
@@ -186,17 +225,35 @@ I en fire-panels nettseksjon skal sorteringsristsystemet monteres på følgende 
 
 *a) Risten og kassetten*
 
-Risten som benyttes skal ha følgende minimum lengde og bredde:Ramme lengde: 1650 mmRamme bredde: 1234 mm
+Risten som benyttes skal ha følgende minimum lengde og bredde:
 
-Kassetten som kan benyttes skal ha følgende lengde og bredde:Kassettlengde: 1880 mmKassettbredde: 1360 mm.
+Ramme lengde: 1650 mm
+
+Ramme bredde: 1234 mm
+
+Kassetten som kan benyttes skal ha følgende lengde og bredde:
+
+Kassettlengde: 1880 mm
+
+Kassettbredde: 1360 mm.
 
 *b) Nettseksjonen*
 
 To- og firepanels nettseksjon skal være utformet som vist i vedlegg 3 figurene 1 – 4 (to-panel) eller vedlegg 3.1 figur 1 (fire-panel).
 
-En to-panels nettseksjon skal utformes på følgende måte:Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne nettseksjonens omkrets skal være 160 masker (2 x 80 masker) i forkant, skråskåret ned til 100 masker (2 x 50 #). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd. Bakerste del av nettseksjonen skal gå over i en rettskåret del med en omkrets på 104 masker (2 x 52 #) og med en minimum lengde på 22,5 masker. I bakerste del av forlengelsen kan det benyttes P.E. (courlene) eller P.A. (nylon) som materiale.Den rettskårne nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet, ledepanelet og støttekjettingene/støttetauene skal være innmontert, skal være formet som en sylinder med omkrets i forkant og bakkant på 104 masker (2 x 52#) og en lengde på 60 masker i minimum 135 mm maskevidde.På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
+En to-panels nettseksjon skal utformes på følgende måte:
 
-En fire-panels nettseksjon skal være utformet på følgende måte:Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne delen av nettseksjonen skal bestå av fire sider for kobling mot to- eller fire-panels trålbelg. Den skal ha en omkrets i forkant på 4 x 40 frie masker (160 frie masker) skråskjæres ned til 4 x 26 frie masker i bakkant (104 frie masker). For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (totalt 160 frie masker). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd.Den rettskårne delen av nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet og ledepanelet skal være innmontert, skal være formet med fire like store sider, med omkrets på 4 x 26 frie masker (totalt 104 frie masker) og en lengde på 50,5 masker i minimum 135 mm maskevidde.På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
+1. Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2. Den skråskårne nettseksjonens omkrets skal være 160 masker (2 x 80 masker) i forkant, skråskåret ned til 100 masker (2 x 50 #). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd. Bakerste del av nettseksjonen skal gå over i en rettskåret del med en omkrets på 104 masker (2 x 52 #) og med en minimum lengde på 22,5 masker. I bakerste del av forlengelsen kan det benyttes P.E. (courlene) eller P.A. (nylon) som materiale.
+3. Den rettskårne nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet, ledepanelet og støttekjettingene/støttetauene skal være innmontert, skal være formet som en sylinder med omkrets i forkant og bakkant på 104 masker (2 x 52#) og en lengde på 60 masker i minimum 135 mm maskevidde.
+4. På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
+
+En fire-panels nettseksjon skal være utformet på følgende måte:
+
+1. Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2. Den skråskårne delen av nettseksjonen skal bestå av fire sider for kobling mot to- eller fire-panels trålbelg. Den skal ha en omkrets i forkant på 4 x 40 frie masker (160 frie masker) skråskjæres ned til 4 x 26 frie masker i bakkant (104 frie masker). For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (totalt 160 frie masker). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd.
+3. Den rettskårne delen av nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet og ledepanelet skal være innmontert, skal være formet med fire like store sider, med omkrets på 4 x 26 frie masker (totalt 104 frie masker) og en lengde på 50,5 masker i minimum 135 mm maskevidde.
+4. På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
 
 *c) Løftepanel*
 
@@ -244,15 +301,29 @@ Fleksiristene skal være laget i sort fiberarmert polyamid (nylon) og gummi.
 
 Ristene skal være utformet som vist i figur 4, vedlegg 7.
 
-Ristene som benyttes skal ha følgende minimum lengde og bredde:Lengde 1500 mm (målt på spilene)Bredde 955 mm (målt på tverrbånd)Spiletykkelse, maksimum 20,5 mm.
+Ristene som benyttes skal ha følgende minimum lengde og bredde:
+
+Lengde 1500 mm (målt på spilene)
+
+Bredde 955 mm (målt på tverrbånd)
+
+Spiletykkelse, maksimum 20,5 mm.
 
 *b) Nettseksjonen*
 
 To- og firepanels nettseksjon skal være utformet som vist i vedlegg 7 figurene 1, 2 og 5 (to-panel) eller vedlegg 3.1 figur 1 (fire-panel).
 
-En to-panels nettseksjon skal utformes på følgende måte:Sorteringsristsystemet nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne delen av nettseksjonen skal ha en omkrets i forkant på totalt 2 x 80 masker (160 masker), og skjæres ned til 2 x 50 masker i bakkant (100 masker). Dette gir en lengde på 45 masker.Den rettskårne delen av nettseksjonen hvor sorteringsrister, ledepanel og fiskeutslipp skal være innmontert, skal ha en omkrets på totalt 2 x 50 masker (100 masker) og en minimum lengde på 70 masker.
+En to-panels nettseksjon skal utformes på følgende måte:
 
-En fire-panels nettseksjon skal utformes på følgende måte:Sorteringsristsystemet nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne delen skal bestå av fire like store sider og skal gi en omkrets i forkant på 4 x 40 frie masker (160 frie masker) for kobling mot fire-panels trålbelg, og skjæres ned til 4 x 24 frie masker (96 frie masker) i bakkant. Dette gir en lengde på 45 masker. For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (160 frie masker).Den rettskårne delen av nettseksjonen hvor sorteringsrister ledepanel og fiskeutslipp skal være innmontert, skal ha en omkrets på 4 x 24 frie masker (96 frie masker) og en minimum lengde på 40,5 masker.
+1. Sorteringsristsystemet nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2. Den skråskårne delen av nettseksjonen skal ha en omkrets i forkant på totalt 2 x 80 masker (160 masker), og skjæres ned til 2 x 50 masker i bakkant (100 masker). Dette gir en lengde på 45 masker.
+3. Den rettskårne delen av nettseksjonen hvor sorteringsrister, ledepanel og fiskeutslipp skal være innmontert, skal ha en omkrets på totalt 2 x 50 masker (100 masker) og en minimum lengde på 70 masker.
+
+En fire-panels nettseksjon skal utformes på følgende måte:
+
+1. Sorteringsristsystemet nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2. Den skråskårne delen skal bestå av fire like store sider og skal gi en omkrets i forkant på 4 x 40 frie masker (160 frie masker) for kobling mot fire-panels trålbelg, og skjæres ned til 4 x 24 frie masker (96 frie masker) i bakkant. Dette gir en lengde på 45 masker. For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (160 frie masker).
+3. Den rettskårne delen av nettseksjonen hvor sorteringsrister ledepanel og fiskeutslipp skal være innmontert, skal ha en omkrets på 4 x 24 frie masker (96 frie masker) og en minimum lengde på 40,5 masker.
 
 *c) Ledepanel*
 
@@ -302,7 +373,11 @@ Sorteringsristen monteres mellom den kjegleformede og den sylindriske delen av t
 
 *a) Sorteringsristen*
 
-Minste lengde og bredde i sorteringsristen skal være følgende:1,5 x 1,2 meter på fartøy med hovedmotor på 1000 kWt og større.1,2 x 1,0 meter på fartøy med hovedmotor mindre enn 1000 kWt.
+Minste lengde og bredde i sorteringsristen skal være følgende:
+
+1,5 x 1,2 meter på fartøy med hovedmotor på 1000 kWt og større.
+
+1,2 x 1,0 meter på fartøy med hovedmotor mindre enn 1000 kWt.
 
 *b) Nettseksjonen*
 

@@ -15,7 +15,7 @@ xml_hash: "9f62bf3e7136798fd8dfe2ba69f65dae9bafb69330941103e6eaa0b40b2dad99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften gjelder for frisør-, hudpleie-, tatoverings- og hulltakingsvirksomh
 
 ### § 3. Definisjoner
 
-Med følgende uttrykk i denne forskriften forstås:*Frisørvirksomhet:* All behandling og pleie av hår, også barbering.*Hudpleie:* Behandling av hud eller negler med preparater, instrumenter eller apparatur, herunder solarier, samt hårfjerning og massasje.*Tatovering:* Med spiss gjenstand å risse eller stikke i hud for å tilføre farge i hudens dypere lag.*Hulltaking:* Gjennomhulling av hud eller slimhinner for innføring av ringer eller stifter (piercing).*Desinfeksjon:* Fjerning eller uskadeliggjøring av sykdomsfremkallende mikrober.*Sterilisering:* Fullstendig utrydding av alle mikroorganismer på en gjenstand, inklusive sporeformer fra bakterier.*Internkontroll:* Å påse at krav fastsatt i eller i medhold av lov eller forskrift overholdes.*Internkontrollsystem:* Systematiske tiltak som skal sikre og dokumentere at aktivitetene utøves i samsvar med krav fastsatt i eller i medhold av lov eller forskrift. De systematiske tiltakene skal være beskrevet i administrative prosedyrer.
+Med følgende uttrykk i denne forskriften forstås:
+
+1. *Frisørvirksomhet:* All behandling og pleie av hår, også barbering.
+2. *Hudpleie:* Behandling av hud eller negler med preparater, instrumenter eller apparatur, herunder solarier, samt hårfjerning og massasje.
+3. *Tatovering:* Med spiss gjenstand å risse eller stikke i hud for å tilføre farge i hudens dypere lag.
+4. *Hulltaking:* Gjennomhulling av hud eller slimhinner for innføring av ringer eller stifter (piercing).
+5. *Desinfeksjon:* Fjerning eller uskadeliggjøring av sykdomsfremkallende mikrober.
+6. *Sterilisering:* Fullstendig utrydding av alle mikroorganismer på en gjenstand, inklusive sporeformer fra bakterier.
+7. *Internkontroll:* Å påse at krav fastsatt i eller i medhold av lov eller forskrift overholdes.
+8. *Internkontrollsystem:* Systematiske tiltak som skal sikre og dokumentere at aktivitetene utøves i samsvar med krav fastsatt i eller i medhold av lov eller forskrift. De systematiske tiltakene skal være beskrevet i administrative prosedyrer.
 
 > Endret ved [forskrift 5 feb 2018 nr. 159](forskrift/2018-02-05-159).
 
@@ -124,7 +133,12 @@ Statsforvalteren avgjør klager over vedtak truffet av kommunen etter denne fors
 
 Denne forskriften trer i kraft 1. juli 1998.
 
-Samtidig oppheves [forskrifter av 14. mai 1965 nr. 1](forskrift/1965-05-14-1) for friser-/barber- og skjønnhetspleiesalonger. Dessuten oppheves følgende rundskriv:Forskrifter for friser/barber- og skjønnhetspleiesalonger, rundskriv nr 34/65Anbefaling om bruk av isopropanol som desinfeksjonsmiddel til teknisk bruk istedenfor klorforbindelser og kvartære ammoniumforbindelser, rundskriv IK-1983/85 tillegg 1Anbefaling om bruk av isopropanol som desinfeksjonsmiddel – utdyping, rundskriv IK-1983/85 tillegg 2Nye merknader til forskriftenes [§ 4](forskrift/1998-05-06-581/§4), rundskriv IK-1983/85 tillegg 3.
+Samtidig oppheves [forskrifter av 14. mai 1965 nr. 1](forskrift/1965-05-14-1) for friser-/barber- og skjønnhetspleiesalonger. Dessuten oppheves følgende rundskriv:
+
+- Forskrifter for friser/barber- og skjønnhetspleiesalonger, rundskriv nr 34/65
+- Anbefaling om bruk av isopropanol som desinfeksjonsmiddel til teknisk bruk istedenfor klorforbindelser og kvartære ammoniumforbindelser, rundskriv IK-1983/85 tillegg 1
+- Anbefaling om bruk av isopropanol som desinfeksjonsmiddel – utdyping, rundskriv IK-1983/85 tillegg 2
+- Nye merknader til forskriftenes [§ 4](forskrift/1998-05-06-581/§4), rundskriv IK-1983/85 tillegg 3.
 
 Virksomhet som er etablert og i drift ved ikrafttredelsen av denne forskrift, må søke om godkjenning av lokalene senest innen 1. januar 2000, jf [§ 5](forskrift/1998-05-06-581/§5).
 
@@ -238,7 +252,11 @@ c) *Sterilisering*
 
 Sterilisering er aktuelt for virksomheter som foretrekker å nytte flergangsutstyr til prosedyrer hvor huden eller slimhinner penetreres (tatovering, hulltaking) for eksempel fordi engangsutstyr ikke finnes på markedet eller er uforholdsmessig kostbart i bruk.
 
-Til sterilisering nyttes tørr eller fuktig varme. Mest aktuelt er bruk av tørrsterilisator som er et skap hvor instrumentene utsettes for kontinuerlig tørr varme i en bestemt tid:160 °C i 2 timer,170 °C i 1 time, eller180 °C i 30 minutter.
+Til sterilisering nyttes tørr eller fuktig varme. Mest aktuelt er bruk av tørrsterilisator som er et skap hvor instrumentene utsettes for kontinuerlig tørr varme i en bestemt tid:
+
+- 160 °C i 2 timer,
+- 170 °C i 1 time, eller
+- 180 °C i 30 minutter.
 
 *4) Spesielt om de enkelte virksomheter*
 

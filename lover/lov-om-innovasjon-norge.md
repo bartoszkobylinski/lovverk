@@ -15,7 +15,7 @@ xml_hash: "97bd020cf2ddb3110b16b3f8d805c4680d46c161278e0d401ce6063112e84aca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,11 @@ Foretaksmøtet kan beslutte å øke eiernes innskudd i selskapet ved overføring
 
 ### § 7 d. Nedsetting av innskuddskapitalen
 
-Foretaksmøtet kan beslutte å sette ned eiernes innskudd. Møteprotokollen skal angi hvor mye innskuddet skal settes ned med, og om beløpet skal anvendes til:dekning av tap som ikke kan dekkes på annen måte,tilbakebetaling til eierne, elleroverføring til fond.
+Foretaksmøtet kan beslutte å sette ned eiernes innskudd. Møteprotokollen skal angi hvor mye innskuddet skal settes ned med, og om beløpet skal anvendes til:
+
+1. dekning av tap som ikke kan dekkes på annen måte,
+2. tilbakebetaling til eierne, eller
+3. overføring til fond.
 
 Beslutning som nevnt i første ledd nr. 2 og 3 kan ikke gjelde større beløp enn at det etter nedsettingen er full dekning for det gjenværende innskudd. Ved beregningen av beløpet skal balanse for det siste regnskapsår legges til grunn, men det skal tas tilbørlig hensyn til tap som måtte være lidt etter balansedagen. På foretaksmøte skal det legges fram en bekreftelse fra revisor på at vilkårene i første og annet punktum er oppfylt. Bekreftelsen skal vedlegges protokollen.
 
@@ -136,7 +140,12 @@ Oppdragsgiveren er ansvarlig for at selskapet kan ivareta forpliktelser knyttet 
 
 ### § 10. Selskapets virkemidler
 
-For å fremme selskapets formål, jf. [§ 1](lov/2003-12-19-130/§1), kan selskapets midler brukes til:finansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordningerrådgiving og kompetansehevende tiltaknettverk og infrastrukturprofilering av norsk næringsliv i utlandet
+For å fremme selskapets formål, jf. [§ 1](lov/2003-12-19-130/§1), kan selskapets midler brukes til:
+
+1. finansiering, herunder tilskudds-, låne-, garanti- og egenkapitalordninger
+2. rådgiving og kompetansehevende tiltak
+3. nettverk og infrastruktur
+4. profilering av norsk næringsliv i utlandet
 
 For å fremme selskapets formål er selskapet forpliktet til å utføre oppdrag for fylkeskommunene. Dette gjelder også enkeltoppdrag fra fylkeskommunene såfremt selskapet har kapasitet til dette.
 
@@ -288,7 +297,14 @@ Enhver som utfører tjeneste eller arbeid for selskapet har taushetsplikt om det
 
 Taushetsplikten gjelder ikke meddelelser som styret eller noen som har fullmakt fra styret gir på vegne av selskapet til eierne.
 
-Taushetsplikten er ikke til hinder forat opplysningene som ledd i selskapets behandling av enkeltsaker gjøres kjent for finansinstitusjoner og andre aktører undergitt lovbestemt taushetsplikt,at opplysningene brukes for å ivareta selskapets kreditorinteresser,at opplysningene meddeles selskapets offentlige oppdragsgivere og andre offentlige myndigheter, når dette er påkrevd for å ivareta disse organers plikt etter lov, forskrift eller instruks til å føre kontroll med selskapets offentlige midler,at opplysningene brukes for å anmelde eller gi opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet når det finnes nødvendig av allmenne hensyn,at opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre steder, ellerat opplysningene brukes i utveksling av informasjon (samordning) som forutsatt i [lov om Oppgaveregisteret](lov/1997-06-06-35).
+Taushetsplikten er ikke til hinder for
+
+1. at opplysningene som ledd i selskapets behandling av enkeltsaker gjøres kjent for finansinstitusjoner og andre aktører undergitt lovbestemt taushetsplikt,
+2. at opplysningene brukes for å ivareta selskapets kreditorinteresser,
+3. at opplysningene meddeles selskapets offentlige oppdragsgivere og andre offentlige myndigheter, når dette er påkrevd for å ivareta disse organers plikt etter lov, forskrift eller instruks til å føre kontroll med selskapets offentlige midler,
+4. at opplysningene brukes for å anmelde eller gi opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet når det finnes nødvendig av allmenne hensyn,
+5. at opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre steder, eller
+6. at opplysningene brukes i utveksling av informasjon (samordning) som forutsatt i [lov om Oppgaveregisteret](lov/1997-06-06-35).
 
 Når det finnes rimelig og ikke medfører uforholdsmessig ulempe for andre interesser, kan det bestemmes at opplysninger i det enkelte tilfelle kan eller skal gis til bruk for forskning uten hinder av taushetsplikt. Bestemmelsene i [forvaltningsloven § 13 d](lov/1967-02-10/§13d) andre og tredje ledd og [§ 13 e](lov/1967-02-10/§13e) kommer til anvendelse så langt de passer.
 
@@ -334,7 +350,10 @@ Vedtektsendringer må besluttes i foretaksmøtet og krever tilslutning fra minst
 
 Ordinært foretaksmøte avholdes innen seks måneder etter regnskapsårets slutt.
 
-På det ordinære foretaksmøtet skal følgende spørsmål behandles og avgjøres:Godkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.Andre saker som etter lov eller vedtekter hører under foretaksmøtet.
+På det ordinære foretaksmøtet skal følgende spørsmål behandles og avgjøres:
+
+1. Godkjennelse av årsregnskapet og årsberetningen, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.
+2. Andre saker som etter lov eller vedtekter hører under foretaksmøtet.
 
 ### § 29 a. Beslutning av foretaksmøte uten møte
 

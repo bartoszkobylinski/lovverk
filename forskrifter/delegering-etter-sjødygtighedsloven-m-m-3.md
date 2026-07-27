@@ -15,7 +15,7 @@ xml_hash: "b981f81202b9a9249340b94f44e423cd5281e4ce512743de497cb75b40353fd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ Klima- og miljødepartementet delegerer herved til Sjøfartsdirektoratet myndigh
 
 *§ 1 tredje ledd:*
 
-Delegeringen omfatter myndighet til å fastsette om de forskrifter som Sjøfartsdirektoratet gir i medhold av lovens kapittel 11 også skal gjelde forskip av mindre drektighet enn 50 registertonn brutto,boreplattformer og andre flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster, samt flyttbare innretninger til hjelp for slik virksomhet,flytekran, flytedokk, mudderapparat og andre flytende innretninger.
+Delegeringen omfatter myndighet til å fastsette om de forskrifter som Sjøfartsdirektoratet gir i medhold av lovens kapittel 11 også skal gjelde for
+
+1. skip av mindre drektighet enn 50 registertonn brutto,
+2. boreplattformer og andre flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster, samt flyttbare innretninger til hjelp for slik virksomhet,
+3. flytekran, flytedokk, mudderapparat og andre flytende innretninger.
 
 *§ 1 fjerde ledd:*
 
@@ -36,7 +40,14 @@ Sjøfartsdirektoratet gis myndighet til å bestemme at de forskrifter som gis i 
 
 *§ 114 nr. 1-6:*
 
-Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak omtransport av skadelige stoffer, herunder bestemmelser om kvantum, emballering og stuing,lasting og lossing av skip som fører skadelige stoffer,bunkring,hvilke skadelige stoffer som det er forbudt å slippe ut i sjø, vassdrag og luft, i hvilke områder utslipp kan foretas og hvilke forholdsregler som skal tas ved utslipp,konstruksjon og utrustning av skipet, og at det om bord skal være sertifikat som viser at skipet er konstruert og utrustet i overensstemmelse med slike bestemmelser,at det om bord skal føres en særskilt dagbok for behandling av skadelige stoffer.
+Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak om
+
+1. transport av skadelige stoffer, herunder bestemmelser om kvantum, emballering og stuing,
+2. lasting og lossing av skip som fører skadelige stoffer,
+3. bunkring,
+4. hvilke skadelige stoffer som det er forbudt å slippe ut i sjø, vassdrag og luft, i hvilke områder utslipp kan foretas og hvilke forholdsregler som skal tas ved utslipp,
+5. konstruksjon og utrustning av skipet, og at det om bord skal være sertifikat som viser at skipet er konstruert og utrustet i overensstemmelse med slike bestemmelser,
+6. at det om bord skal føres en særskilt dagbok for behandling av skadelige stoffer.
 
 *§ 117:*
 

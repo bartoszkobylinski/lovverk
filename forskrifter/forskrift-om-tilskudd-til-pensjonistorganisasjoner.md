@@ -54,13 +54,22 @@ Med søknaden skal det vedlegges dokumentasjon som gir grunnlag for å vurdere o
 
 Søknader framsatt etter fristen i [§ 4](forskrift/2012-10-31-1016/§4) andre ledd og ufullstendige søknader kan avvises.
 
-I tillegg må følgende dokumentasjon kunne gjøres tilgjengelig for kontroll til enhver tid:Tellende medlemmer skal dokumenteres ved sentralt medlemsregister. Registeret kan være en samling av oversikter fra lokallagene. Registeret skal inneholde navn, kontaktinformasjon, eventuell tilknytning til lokallag og informasjon om betalt kontingent for hvert medlem per 31. desember i året før søknadsåret. Registeret skal skille mellom tellende og andre medlemmer og oversikt over tellende medlemmer skal kunne hentes ut av registeret. Medlemmenes demokratiske rettigheter skal framgå av organisasjonens vedtekter.Tellende lokallag skal dokumenteres ved årlig rapport sendt til sentralleddet med navn på styremedlemmer, når de er valgt og orientering om aktivitet. Årsmøtereferat kan brukes som rapport hvis den inneholder nødvendig informasjon. Antall medlemmer i lokallaget dokumenteres med opplysning om lokallagstilknytning i det sentrale medlemsregisteret.
+I tillegg må følgende dokumentasjon kunne gjøres tilgjengelig for kontroll til enhver tid:
+
+- Tellende medlemmer skal dokumenteres ved sentralt medlemsregister. Registeret kan være en samling av oversikter fra lokallagene. Registeret skal inneholde navn, kontaktinformasjon, eventuell tilknytning til lokallag og informasjon om betalt kontingent for hvert medlem per 31. desember i året før søknadsåret. Registeret skal skille mellom tellende og andre medlemmer og oversikt over tellende medlemmer skal kunne hentes ut av registeret. Medlemmenes demokratiske rettigheter skal framgå av organisasjonens vedtekter.
+- Tellende lokallag skal dokumenteres ved årlig rapport sendt til sentralleddet med navn på styremedlemmer, når de er valgt og orientering om aktivitet. Årsmøtereferat kan brukes som rapport hvis den inneholder nødvendig informasjon. Antall medlemmer i lokallaget dokumenteres med opplysning om lokallagstilknytning i det sentrale medlemsregisteret.
 
 > Endret ved [forskrift 4 juli 2018 nr. 1142](forskrift/2018-07-04-1142) (i kraft 1 jan 2019 med virkning for tilskudd som gis fra og med 2020).
 
 ## § 6. Vilkår for tilskudd
 
-Det kan ytes tilskudd til organisasjoner somer selvstendige interesseorganisasjoner, av og for pensjonister, som har som hovedarbeidsområde å fremme pensjonisters interesser og samfunnsdeltakelse,er registrert i Frivillighetsregisteret,er demokratisk oppbygd, partipolitisk uavhengig og nøytral, og er åpen for alle som tilhører den gruppen organisasjonen tar sikte på å representere, oghar minimum 2 000 tellende medlemmer. Med tellende medlem menes medlem som per 31. desember i året før søknadsåret er frivillig og individuelt innmeldt i organisasjonen, står i medlemsregisteret, har betalt kontingent for året før søknadsåret og har fulle demokratiske rettigheter i organisasjonen. Kontingenten skal være minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt et kalenderår. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant. Organisasjonen må kunne dokumentere antall tellende medlemmer som oppfyller disse kravene.har tellende region-/lokallag eller tellende medlemmer med bostedsadresse i minst fem fylker.
+Det kan ytes tilskudd til organisasjoner som
+
+1. er selvstendige interesseorganisasjoner, av og for pensjonister, som har som hovedarbeidsområde å fremme pensjonisters interesser og samfunnsdeltakelse,
+2. er registrert i Frivillighetsregisteret,
+3. er demokratisk oppbygd, partipolitisk uavhengig og nøytral, og er åpen for alle som tilhører den gruppen organisasjonen tar sikte på å representere, og
+4. har minimum 2 000 tellende medlemmer. Med tellende medlem menes medlem som per 31. desember i året før søknadsåret er frivillig og individuelt innmeldt i organisasjonen, står i medlemsregisteret, har betalt kontingent for året før søknadsåret og har fulle demokratiske rettigheter i organisasjonen. Kontingenten skal være minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt et kalenderår. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant. Organisasjonen må kunne dokumentere antall tellende medlemmer som oppfyller disse kravene.
+5. har tellende region-/lokallag eller tellende medlemmer med bostedsadresse i minst fem fylker.
 
 Et tellende lokallag er laveste nivå av selvstendig enhet i organisasjonen. Lokallaget skal ha minst fem tellende medlemmer, et styre valgt av og blant medlemmene og ha aktivitet i tråd med formålet for ordningen. Lokallaget skal ha vedtekter.
 
@@ -118,7 +127,11 @@ Dersom årsrapport og årsregnskap ikke er levert innen en frist fastsatt av Arb
 
 ## § 12. Kriterier for måloppnåelse
 
-Ved vurderingen av organisasjonens måloppnåelse skal det blant annet legges vekt påavholdte medlemsmøter, sentralt og lokaltkonkrete tiltak for å spre kunnskap om forhold av sentral betydning for pensjonister og styrke pensjonistenes stilling i samfunnet, herunder etablering og vedlikehold av nettsteder, avholdelse av kurs for eldre, andre tiltak for å fremme pensjonistenes sosiale, økonomiske, helsemessige og kulturelle interesserdeltakelse i debatter og avgivelse av uttalelser ved høring av lovforslag og andre forslag av eldrepolitisk betydning.
+Ved vurderingen av organisasjonens måloppnåelse skal det blant annet legges vekt på
+
+- avholdte medlemsmøter, sentralt og lokalt
+- konkrete tiltak for å spre kunnskap om forhold av sentral betydning for pensjonister og styrke pensjonistenes stilling i samfunnet, herunder etablering og vedlikehold av nettsteder, avholdelse av kurs for eldre, andre tiltak for å fremme pensjonistenes sosiale, økonomiske, helsemessige og kulturelle interesser
+- deltakelse i debatter og avgivelse av uttalelser ved høring av lovforslag og andre forslag av eldrepolitisk betydning.
 
 ## § 13. Opplysningsplikt
 

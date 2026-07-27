@@ -15,7 +15,7 @@ xml_hash: "a30beece5324e7437e7f98fe51ea447d3ea18feb3b3e2d9daeba1bf98097654f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 Denne kompensasjonsordningen skal bidra til å opprettholde økonomisk og kulturell bærekraft i reindriften ved å forhindre at reindriftsutøvere påføres ekstraordinære kostnader som følge av atomhendelser.
 
-Tiltakene som er omhandlet i denne forskrift skal resultere i:reduksjon av radioaktivitet i reinkjøtt,en høyest mulig produksjon av reinkjøtt til omsetning og eget forbruk,at kassering av rein unngås i størst mulig grad,en mest mulig kostnadseffektiv oppnåelse av målene.
+Tiltakene som er omhandlet i denne forskrift skal resultere i:
+
+1. reduksjon av radioaktivitet i reinkjøtt,
+2. en høyest mulig produksjon av reinkjøtt til omsetning og eget forbruk,
+3. at kassering av rein unngås i størst mulig grad,
+4. en mest mulig kostnadseffektiv oppnåelse av målene.
 
 > Endret ved forskrift [21 juni 2023 nr. 1017](forskrift/2023-06-21-1017) (i kraft 1 juli 2023).
 
@@ -38,15 +43,31 @@ Tiltakene som er omhandlet i denne forskrift skal resultere i:reduksjon av radio
 
 Kompensasjon etter denne forskriften kan gis til reinlag, reinbeitedistrikter og siidaer.
 
-For at økonomisk kompensasjon skal kunne innvilges etter denne forskrift må:det målte radioaktivitetsnivået fra et representativt utvalg rein være over grenseverdien på 3000 Bq/kg reinkjøtt, med mindre tiltaket gjelder kompensasjon for fremskyndet slakt, jf. [§ 4](forskrift/2015-07-01-814/§4) første ledd bokstav a.tiltakene og behovet for anlegg på forhånd være godkjent av statsforvalteren,eventuell kassering, jf. [§ 6](forskrift/2015-07-01-814/§6), være godkjent av statsforvalteren,eventuelle tap, jf. [§ 7](forskrift/2015-07-01-814/§7), være godkjent av statsforvalteren,reinkjøtt være levert slakteri hvor kjøttet kontrolleres av den offentlige kjøttkontrollen.
+For at økonomisk kompensasjon skal kunne innvilges etter denne forskrift må:
+
+1. det målte radioaktivitetsnivået fra et representativt utvalg rein være over grenseverdien på 3000 Bq/kg reinkjøtt, med mindre tiltaket gjelder kompensasjon for fremskyndet slakt, jf. [§ 4](forskrift/2015-07-01-814/§4) første ledd bokstav a.
+2. tiltakene og behovet for anlegg på forhånd være godkjent av statsforvalteren,
+3. eventuell kassering, jf. [§ 6](forskrift/2015-07-01-814/§6), være godkjent av statsforvalteren,
+4. eventuelle tap, jf. [§ 7](forskrift/2015-07-01-814/§7), være godkjent av statsforvalteren,
+5. reinkjøtt være levert slakteri hvor kjøttet kontrolleres av den offentlige kjøttkontrollen.
 
 > Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [21 juni 2023 nr. 1017](forskrift/2023-06-21-1017) (i kraft 1 juli 2023).
 
 ## § 4. Tiltak det kan gis kompensasjon til
 
-Det kan gis kompensasjon etter fastsatte satser1 til:Fremskyndet slakt. Kompensasjon ytes kun dersom det er sannsynliggjort at radioaktivitetsnivået vil komme over grenseverdien dersom fremskyndet slakt ikke gjennomføres.Nedfôring i anlegg.Nedfôring på naturlig beite.
+Det kan gis kompensasjon etter fastsatte satser1 til:
 
-Det kan gis kompensasjon for dokumenterte kostnader for:Ekstrakostnader til anlegg for gjennomføring av tiltak. Anlegg skal etableres og eies av distriktet/siidaen/reinlaget. Arbeid ved bygging av gjerdeanlegg kompenseres ikke. Når gjerdeanlegg benyttes over flere år, kan kostnader til faste anlegg fordeles på opptil tre år.kostnader til veterinærtjeneste,transport av rein til fôringsgjerde,brøyting av vei til fôringsgjerde,direkte kostnader til forberedelse av godkjent fôringstiltak, som det viser seg unødvendig å gjennomføre.
+1. Fremskyndet slakt. Kompensasjon ytes kun dersom det er sannsynliggjort at radioaktivitetsnivået vil komme over grenseverdien dersom fremskyndet slakt ikke gjennomføres.
+2. Nedfôring i anlegg.
+3. Nedfôring på naturlig beite.
+
+Det kan gis kompensasjon for dokumenterte kostnader for:
+
+1. Ekstrakostnader til anlegg for gjennomføring av tiltak. Anlegg skal etableres og eies av distriktet/siidaen/reinlaget. Arbeid ved bygging av gjerdeanlegg kompenseres ikke. Når gjerdeanlegg benyttes over flere år, kan kostnader til faste anlegg fordeles på opptil tre år.
+2. kostnader til veterinærtjeneste,
+3. transport av rein til fôringsgjerde,
+4. brøyting av vei til fôringsgjerde,
+5. direkte kostnader til forberedelse av godkjent fôringstiltak, som det viser seg unødvendig å gjennomføre.
 
 Kompensasjonen skal under enhver omstendighet ikke overstige kr 2000,- per rein i tiltak.
 
@@ -66,7 +87,12 @@ Kompensasjon ved fôringstiltak skal dekke utgifter til kjøp og transport av f�
 
 ## § 6. Kassering av reinkjøtt
 
-Det skal normalt ikke ytes kompensasjon for kassert reinkjøtt. Statsforvalteren kan likevel godkjenne kompensasjon for kassert kjøtt etter fastsatte satser1 når:når det på forhånd er klart at tiltak etter [§ 4](forskrift/2015-07-01-814/§4) ikke kan gjennomføres, eller i tilfeller der kostnadene ved slike tiltak blir uforholdsmessig høye.når tiltak er gjennomført i samsvar med godkjente planer, men hvor innholdet av radioaktivitet fortsatt er for høyt til at kjøttet blir godkjent for omsetning,når tiltak må avbrytes før de er gjennomført, ellerfor enkeltdyr med radioaktivitetsnivå over 3000 Bq/kg.
+Det skal normalt ikke ytes kompensasjon for kassert reinkjøtt. Statsforvalteren kan likevel godkjenne kompensasjon for kassert kjøtt etter fastsatte satser1 når:
+
+1. når det på forhånd er klart at tiltak etter [§ 4](forskrift/2015-07-01-814/§4) ikke kan gjennomføres, eller i tilfeller der kostnadene ved slike tiltak blir uforholdsmessig høye.
+2. når tiltak er gjennomført i samsvar med godkjente planer, men hvor innholdet av radioaktivitet fortsatt er for høyt til at kjøttet blir godkjent for omsetning,
+3. når tiltak må avbrytes før de er gjennomført, eller
+4. for enkeltdyr med radioaktivitetsnivå over 3000 Bq/kg.
 
 Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7.
 
@@ -88,7 +114,10 @@ Tap etter første ledd kan medregnes som del av slakteuttak i forbindelse med s�
 
 ## § 8. Tilgang på ikke forurenset rein til eget hushold
 
-For å sikre at reindriftsutøvere har tilgang til reinkjøtt med verdier under den nasjonale grensen for radioaktiv forurensing i basismatvarer på 600 Bq/kg, kan det iverksettes følgende tiltak:utvelgelse av rein til eget hushold fra målte dyr ved slakting,nedfôring av rein til eget hushold.
+For å sikre at reindriftsutøvere har tilgang til reinkjøtt med verdier under den nasjonale grensen for radioaktiv forurensing i basismatvarer på 600 Bq/kg, kan det iverksettes følgende tiltak:
+
+- utvelgelse av rein til eget hushold fra målte dyr ved slakting,
+- nedfôring av rein til eget hushold.
 
 Dokumenterte kostnader til måling og kontroll av radioaktivitet i rein til eget hushold dekkes av myndighetene som for øvrig kontrollmåling.
 

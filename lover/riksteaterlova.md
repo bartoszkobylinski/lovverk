@@ -15,7 +15,7 @@ xml_hash: "daaf178ed946a8c78c7952b331e1d1cfe26d7eeb6bf32939ae4116400aa9e9b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,24 @@ eu_basis: []
 
 Riksteatret har til føremål å fremja arbeidet med å føra dramatisk kunst ut til folket i bygd og by og på andre tenlege måtar å auka kjennskapen til god dramatisk kunst.
 
-Denne oppgåva skal Riksteatret løysa ved:å greida med den praktiske tilskipinga av spelferder som Riksteatret ynskjer å senda ut og som går ut frå og blir drivne av dei statsstødde teatra i landet i samsvar med dei plikter som desse teatra har for å få statsstønad,å stø godtekne spelferder som går ut frå andre faste teater enn dei som er nemnde under bokstav a eller som med eller utan tilskunning frå Riksteatret kjem i stand etter opptak frå einskildpersonar, institusjonar eller grupper av skodespelarar, og som desse sjølve har det økonomiske ansvaret for,å skipa til spelferder med skodespelarar som er tinga til dette beinveges av Riksteatret for den einskilde spelferda eller for ein heil spelbolk,å få i stand lokale teaterlag til framhjelp for Riksteatret og det føremålet det har,å fremja arbeidet med å reisa tidhøvelege teaterbygnader,å fremja eller stø andre tiltak som er tenlege for føremålet.
+Denne oppgåva skal Riksteatret løysa ved:
+
+1. å greida med den praktiske tilskipinga av spelferder som Riksteatret ynskjer å senda ut og som går ut frå og blir drivne av dei statsstødde teatra i landet i samsvar med dei plikter som desse teatra har for å få statsstønad,
+2. å stø godtekne spelferder som går ut frå andre faste teater enn dei som er nemnde under bokstav a eller som med eller utan tilskunning frå Riksteatret kjem i stand etter opptak frå einskildpersonar, institusjonar eller grupper av skodespelarar, og som desse sjølve har det økonomiske ansvaret for,
+3. å skipa til spelferder med skodespelarar som er tinga til dette beinveges av Riksteatret for den einskilde spelferda eller for ein heil spelbolk,
+4. å få i stand lokale teaterlag til framhjelp for Riksteatret og det føremålet det har,
+5. å fremja arbeidet med å reisa tidhøvelege teaterbygnader,
+6. å fremja eller stø andre tiltak som er tenlege for føremålet.
 
 > Endra med [lov 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
 
 ## § 2.
 
-Utgiftene til verksemda åt Riksteatret skal dekkjast med:inntekter verksemda kastar av seg,dei tilskot kommunane og andre gjev,tilskot frå staten etter nærare vedtak av Stortinget.
+Utgiftene til verksemda åt Riksteatret skal dekkjast med:
+
+1. inntekter verksemda kastar av seg,
+2. dei tilskot kommunane og andre gjev,
+3. tilskot frå staten etter nærare vedtak av Stortinget.
 
 ## § 3.
 

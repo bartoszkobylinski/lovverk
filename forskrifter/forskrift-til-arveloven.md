@@ -66,7 +66,13 @@ Tingretten skal bare gi opplysninger til andre om at et testament er til oppbeva
 
 Med mindre dødsfallet meldes digitalt av legen, skal dødsfall i Norge meldes på et fastsatt skjema til tingretten der den avdøde var bosatt. Dersom det er uklart hvor den avdøde var bosatt, meldes dødsfallet til tingretten der den avdøde hadde nærmest tilknytning.
 
-Plikten til å melde dødsfallet påhviler legen som utstedte dødsattesten, ektefelle, samboer, de nærmeste slektningene, testamentsarvinger etter den avdøde eller person som var til stede ved dødsfallet. Så langt det er mulig, skal det gis opplysninger om:den avdødes fulle navn, kjønn, fødselsnummer og fødestedden avdødes bostedskommune og adresseden avdødes sivilstand, herunder om den avdøde var gift, skilt, enke eller enkemann, separert eller samboerden avdødes statsborgerskapnavn, personnummer og kontaktopplysninger for den som melder.
+Plikten til å melde dødsfallet påhviler legen som utstedte dødsattesten, ektefelle, samboer, de nærmeste slektningene, testamentsarvinger etter den avdøde eller person som var til stede ved dødsfallet. Så langt det er mulig, skal det gis opplysninger om:
+
+1. den avdødes fulle navn, kjønn, fødselsnummer og fødested
+2. den avdødes bostedskommune og adresse
+3. den avdødes sivilstand, herunder om den avdøde var gift, skilt, enke eller enkemann, separert eller samboer
+4. den avdødes statsborgerskap
+5. navn, personnummer og kontaktopplysninger for den som melder.
 
 Dersom opplysningene i annet ledd annet punktum allerede er meldt av legen eller kan innhentes gjennom registre eller på annen måte, faller meldeplikten bort.
 
@@ -78,7 +84,16 @@ Domstoladministrasjonen kan fastsette særlige regler om domstolenes plikt til �
 
 ### § 8. Plikt til å melde opplysninger om den avdødes arvinger og formuesforhold mv.
 
-Ektefelle, samboer, de nærmeste slektningene og testamentsarvinger etter den avdøde plikter etter beste evne å gi opplysninger til tingretten om det de vet om den avdødes sivile status, slektskapsforhold og formuesforhold, jf. [arveloven § 89](lov/2019-06-14-21/§89) annet og tredje ledd. Herunder skal de etter beste evne gi følgende opplysninger:om den avdøde var gift, ugift, separert, skilt, enke, enkemann, samboer eller lengstlevende i et samboerskapnavn og fødselsnummer for person som nevnt i bokstav aom den avdøde satt i uskiftet bo etter ektefelle eller samboerdersom den avdøde var skilt, separert eller tidligere samboer, om felleseiet var delt eller om skiftet for øvrig var gjennomførthvem som er arvinger etter den avdødeom den avdøde etterlater seg testamentom den avdøde etterlater seg arvinger som er mindreårige eller fratatt rettslig handleevne, og i så fall vergens navn og kontaktopplysningernavn, personnummer og kontaktopplysninger for den som melder opplysningene.
+Ektefelle, samboer, de nærmeste slektningene og testamentsarvinger etter den avdøde plikter etter beste evne å gi opplysninger til tingretten om det de vet om den avdødes sivile status, slektskapsforhold og formuesforhold, jf. [arveloven § 89](lov/2019-06-14-21/§89) annet og tredje ledd. Herunder skal de etter beste evne gi følgende opplysninger:
+
+1. om den avdøde var gift, ugift, separert, skilt, enke, enkemann, samboer eller lengstlevende i et samboerskap
+2. navn og fødselsnummer for person som nevnt i bokstav a
+3. om den avdøde satt i uskiftet bo etter ektefelle eller samboer
+4. dersom den avdøde var skilt, separert eller tidligere samboer, om felleseiet var delt eller om skiftet for øvrig var gjennomført
+5. hvem som er arvinger etter den avdøde
+6. om den avdøde etterlater seg testament
+7. om den avdøde etterlater seg arvinger som er mindreårige eller fratatt rettslig handleevne, og i så fall vergens navn og kontaktopplysninger
+8. navn, personnummer og kontaktopplysninger for den som melder opplysningene.
 
 Meldingen skal skje på fastsatt skjema om ikke noe annet er avtalt med tingretten. Dersom retten kan innhente opplysninger som fremkommer i første ledd annet punktum gjennom registre mv., skal skjemaet begrenses til å omfatte melding av opplysninger som retten ikke mottar på annen måte.
 

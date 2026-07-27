@@ -42,7 +42,24 @@ Adgangen til å søke om tilskuddsmidler skal kunngjøres gjennom Kommunal- og m
 
 Søknaden skal sendes inn gjennom [regionalforvaltning.no](https://www.regionalforvaltning.no/) innen fristen som fremgår av kunngjøringen. Søknader som leveres etter fristen avvises.
 
-Følgende opplysninger må oppgis eller beskrives i alle søknader:*Opplysninger om søker*Hvem som er kontaktperson.Den ansvarlig prosjekteierens navn og organisasjonsnummer.*Økonomi*Hvilket tilskuddsbeløp det søkes om.Budsjett med finansieringsplan.Om søker på søknadstidspunktet har mottatt annen offentlig støtte, jf. reglene om offentlig støtte.*Beskrivelse av tiltaket og forventede resultater*Tiltaket det søkes om tilskudd til, herunder mål og målgruppe.Fremdriftsplanen for aktiviteter.Organiseringen av tiltaket, herunder eventuelle samarbeidspartnere og hvilke roller de skal ha.Om tiltaket har forankring i regjeringens nordområdepolitikk, kommunale og/eller fylkeskommunale planer.Resultatene søker forventer å oppnå ved avslutningen av tiltaket.
+Følgende opplysninger må oppgis eller beskrives i alle søknader:
+
+- *Opplysninger om søker*
+
+  1. Hvem som er kontaktperson.
+  2. Den ansvarlig prosjekteierens navn og organisasjonsnummer.
+- *Økonomi*
+
+  1. Hvilket tilskuddsbeløp det søkes om.
+  2. Budsjett med finansieringsplan.
+  3. Om søker på søknadstidspunktet har mottatt annen offentlig støtte, jf. reglene om offentlig støtte.
+- *Beskrivelse av tiltaket og forventede resultater*
+
+  1. Tiltaket det søkes om tilskudd til, herunder mål og målgruppe.
+  2. Fremdriftsplanen for aktiviteter.
+  3. Organiseringen av tiltaket, herunder eventuelle samarbeidspartnere og hvilke roller de skal ha.
+  4. Om tiltaket har forankring i regjeringens nordområdepolitikk, kommunale og/eller fylkeskommunale planer.
+  5. Resultatene søker forventer å oppnå ved avslutningen av tiltaket.
 
 I tillegg skal søknaden opplyse om andre forhold som søkeren bør forstå er viktig for vurdering av søknaden.
 
@@ -62,7 +79,15 @@ Tilskuddsmottakere kan få tilskudd til et bestemt prosjekt i maksimalt 5 år, s
 
 Tilskuddet skal dekke kostnader for søker som er direkte knyttet til realiseringen av prosjektet eller tiltaket. I vurderingen av hva som er direkte tilknyttet realiseringen, skal det blant annet legges vekt på hva som er nødvendige utgifter for å realisere formålet med tilskuddet. Tilskuddet skal ha effekt ut over å opprettholde et tilbud.
 
-Tilskuddet skal ikke brukes til:løpende driftskostnader i næringsvirksomheter eller organisasjonerkausjon eller annen økonomisk garantidirekte eller indirekte investeringer i virksomhetens egenkapitalrenter og avdrag på lån og refinansiering av gjennomførte prosjekterdrift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andreavsetting av midler til uspesifiserte fond, som ikke omfatter delegerte midler til kommuner, regionråd eller andre forvaltere.politikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
+Tilskuddet skal ikke brukes til:
+
+1. løpende driftskostnader i næringsvirksomheter eller organisasjoner
+2. kausjon eller annen økonomisk garanti
+3. direkte eller indirekte investeringer i virksomhetens egenkapital
+4. renter og avdrag på lån og refinansiering av gjennomførte prosjekter
+5. drift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andre
+6. avsetting av midler til uspesifiserte fond, som ikke omfatter delegerte midler til kommuner, regionråd eller andre forvaltere.
+7. politikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
 
 > Endret ved forskrift [18 feb 2026 nr. 259](forskrift/2026-02-18-259).
 
@@ -84,7 +109,12 @@ Størrelsen på tilskuddet fastsettes ut fra en helhetlig vurdering av behovet s
 
 ### § 9. Stans i utbetaling av tilskuddsmidler og krav om tilbakebetaling
 
-Departementet og forvalteren, kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersom:tilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilgettildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkerentilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalteren ikke har godtatt endringeneprosjektet eller tiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingen.
+Departementet og forvalteren, kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersom:
+
+1. tilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilget
+2. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkeren
+3. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalteren ikke har godtatt endringene
+4. prosjektet eller tiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingen.
 
 ### § 10. Krav til tilskuddsmottakers rapportering
 
@@ -114,7 +144,11 @@ Midlene kan gå til forprosjekter og større flerårige strategiske prosjekter.
 
 ### § 13. Kriterier for måloppnåelse
 
-Innsatsen skal måles etter følgende kriterier for måloppnåelse innenfor tre innsatsområder:Kunnskap: Økt kunnskap om polare strøk og samfunn, kompetansebehov, næringsutvikling og verdiskaping, forvaltning og miljø og naturressurser i nordområdene.Infrastruktur: Økt kunnskap om og tilrettelegging for å møte infrastrukturbehov som følge av økt aktivitet i nordområdene.Miljøvern, sikkerhet, beredskap og klimaendringer: Økt kunnskap om og kapasitet til forebygging og håndtering av forurensning og ulykker i nordområdene. Økt kunnskap om klimaendringer, konsekvenser av dette og grønn omstilling.
+Innsatsen skal måles etter følgende kriterier for måloppnåelse innenfor tre innsatsområder:
+
+1. Kunnskap: Økt kunnskap om polare strøk og samfunn, kompetansebehov, næringsutvikling og verdiskaping, forvaltning og miljø og naturressurser i nordområdene.
+2. Infrastruktur: Økt kunnskap om og tilrettelegging for å møte infrastrukturbehov som følge av økt aktivitet i nordområdene.
+3. Miljøvern, sikkerhet, beredskap og klimaendringer: Økt kunnskap om og kapasitet til forebygging og håndtering av forurensning og ulykker i nordområdene. Økt kunnskap om klimaendringer, konsekvenser av dette og grønn omstilling.
 
 > Endret ved forskrift [18 feb 2026 nr. 259](forskrift/2026-02-18-259).
 
@@ -124,7 +158,11 @@ Innsatsen skal måles etter følgende kriterier for måloppnåelse innenfor tre 
 
 Departementet har overført forvaltningen av tilskuddsmidlene til Troms fylkeskommune. Tilskuddsmidlene skal forvaltes i nært samarbeid med Nordland og Finnmark fylkeskommuner, og ha et landsdelsperspektiv. Troms fylkeskommune kan delegere forvaltningen av en andel av midlene til Nordland og Finnmark fylkeskommuner.
 
-Fylkeskommunene har videre fullmakt til åavgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)behandle søknad om forlengelsebevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
+Fylkeskommunene har videre fullmakt til å
+
+1. avgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)
+2. behandle søknad om forlengelse
+3. bevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
 
 Fylkeskommunen forvalter tilskuddsmidlene innenfor de økonomiske rammene Stortinget fastsetter årlig. Departementet tildeler midler til fylkeskommunen som tilskudd uten krav om tilbakebetaling. Fylkeskommunen kan dermed disponere midlene uavhengig av bevilgningsår.
 
@@ -134,7 +172,11 @@ Fylkeskommunen kan finansiere tiltak og programmer i egen regi og/eller fordele 
 
 ### § 15. Krav til fylkeskommunenes tilsyn med tilskuddene. Administrasjons- og gjennomføringskostnader
 
-Den som tildeler tilskuddeneskal etablere rutiner for å sikre god internkontroll, slik at den som forvalter og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfyltfører tilsyn med at kravene i forskriften og i tildelingsbrevet blir fulgt opp, og rapporterer i departementets elektroniske forvaltningsportal, [regionalforvaltning.no](https://www.regionalforvaltning.no/)kan bruke inntil 5 prosent av midlene de selv forvalter, til å dekke egne administrasjons- og gjennomføringskostnader knyttet til forvaltningen av midlene.
+Den som tildeler tilskuddene
+
+1. skal etablere rutiner for å sikre god internkontroll, slik at den som forvalter og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfylt
+2. fører tilsyn med at kravene i forskriften og i tildelingsbrevet blir fulgt opp, og rapporterer i departementets elektroniske forvaltningsportal, [regionalforvaltning.no](https://www.regionalforvaltning.no/)
+3. kan bruke inntil 5 prosent av midlene de selv forvalter, til å dekke egne administrasjons- og gjennomføringskostnader knyttet til forvaltningen av midlene.
 
 ### § 16. Konsekvenser ved feil forvaltning og feil bruk av tilskuddsmidlene
 

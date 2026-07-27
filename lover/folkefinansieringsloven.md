@@ -15,7 +15,7 @@ xml_hash: "f102ff17f1f9856607926480fbae9e7558f46c9243c3a1b3f955898a4ecce01d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32020R1503"
@@ -212,7 +212,9 @@ Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
 
 [§ 9-3 første ledd nr. 9](lov/2007-06-29-75/§9-3/ledd/1/nummer/9) og nytt nr. 10 skal lyde:
 
-forvaltere av alternative investeringsfond,folkefinansieringsforetak.
+forvaltere av alternative investeringsfond,
+
+folkefinansieringsforetak.
 
 **2.** I [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern](lov/2015-04-10-17) gjøres følgende endringer:
 
@@ -222,7 +224,9 @@ forvaltere av alternative investeringsfond,folkefinansieringsforetak.
 
 [§ 2-1 tredje ledd bokstav f](lov/2015-04-10-17/§2-1/ledd/3/bokstav/f) og ny bokstav g skal lyde:
 
-finansiering som bare ytes i enkeltstående tilfeller,å yte kreditt til næringsvirksomhet via en folkefinansieringsplattform drevet av et folkefinansieringsforetak, med mindre den som yter kreditten, er et finansforetak.
+finansiering som bare ytes i enkeltstående tilfeller,
+
+å yte kreditt til næringsvirksomhet via en folkefinansieringsplattform drevet av et folkefinansieringsforetak, med mindre den som yter kreditten, er et finansforetak.
 
 **3.** I [lov 1. juni 2018 nr. 23 om tiltak mot hvitvasking og terrorfinansiering](lov/2018-06-01-23) gjøres følgende endring:
 

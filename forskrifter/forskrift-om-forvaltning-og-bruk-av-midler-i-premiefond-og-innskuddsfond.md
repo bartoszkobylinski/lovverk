@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Anvendelsesområde
 
-Forskriften gjelder for:premiefond for foretakspensjonsordningpremiefond for individuell pensjonsavtaleinnskuddsfond for innskuddspensjonsordningpremiefond for tjenestepensjonsordning.
+Forskriften gjelder for:
+
+1. premiefond for foretakspensjonsordning
+2. premiefond for individuell pensjonsavtale
+3. innskuddsfond for innskuddspensjonsordning
+4. premiefond for tjenestepensjonsordning.
 
 > Endret ved [forskrifter 22 des 2000 nr. 1442](forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](forskrift/2016-12-09-1528) (i kraft 1 jan 2017).
 
@@ -60,7 +65,11 @@ Bank eller forvaltningsselskap for verdipapirfond plikter å påse at midler i p
 
 ## § 6. Pensjonsinnretningens plikter
 
-Pensjonsinnretningen plikter:å påse at forsikring med fradragsberettiget premie er i overensstemmelse med foretakspensjonsloven, innskuddspensjonsloven, lov om individuell pensjonsordning, tjenestepensjonsloven og forskrift til skatteloven.å påse at midler i premiefond og innskuddsfond for pensjonsordninger som nevnt i nr. 1 ikke benyttes i strid med reglene.å påse at midler i premiefond og innskuddsfond blir anvendt etter formålet.
+Pensjonsinnretningen plikter:
+
+1. å påse at forsikring med fradragsberettiget premie er i overensstemmelse med foretakspensjonsloven, innskuddspensjonsloven, lov om individuell pensjonsordning, tjenestepensjonsloven og forskrift til skatteloven.
+2. å påse at midler i premiefond og innskuddsfond for pensjonsordninger som nevnt i nr. 1 ikke benyttes i strid med reglene.
+3. å påse at midler i premiefond og innskuddsfond blir anvendt etter formålet.
 
 Bestemmelsene i [§ 5](forskrift/1989-11-21-1170/§5) gjelder tilsvarende når det er flere pensjonsinnretninger.
 
@@ -68,7 +77,11 @@ Bestemmelsene i [§ 5](forskrift/1989-11-21-1170/§5) gjelder tilsvarende når d
 
 ## § 7. Arbeidsgiverens opplysningsplikt
 
-Arbeidsgiver skal den 1. januar hvert år gi opplysninger om:hvilke pensjonsordninger arbeidsgiveren harhvor pensjonsordningen er opprettethvilken bank eller forvaltningsselskap for verdipapirfond som forvalter premiefond og innskuddsfond.
+Arbeidsgiver skal den 1. januar hvert år gi opplysninger om:
+
+1. hvilke pensjonsordninger arbeidsgiveren har
+2. hvor pensjonsordningen er opprettet
+3. hvilken bank eller forvaltningsselskap for verdipapirfond som forvalter premiefond og innskuddsfond.
 
 Opplysningene nevnt i første ledd skal gis til samtlige pensjonsinnretninger hvor pensjonsordning er opprettet, samt til banken eller forvaltningsselskapet for verdipapirfond.
 

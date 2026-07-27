@@ -74,7 +74,40 @@ Kravet sendes den som har begjært registreringsforretningen. Registrert eier pr
 
 Ved betaling via bank skal forhåndstrykket blankett med kundeidentifikasjon (KID) utstedt av Sjøfartsdirektoratet, eller den de bemyndiger, benyttes. Ved elektronisk betaling skal kundeidentifikasjon (KID) oppgis sammen med betalingsoppdraget til betalers bank. Betalingsformidlere skal avvise elektroniske betalingsoppdrag for gebyrer der det ikke er oppgitt gyldig kundeidentifikasjon (KID).
 
-Det skal betales gebyr med følgende satser:*Nyregistreringer:*Nyregistrering NOR registreringspliktig, bareboatregistrering og bygg kr 4 408Nyregistrering NOR ikke registreringspliktig (under 15 m) kr 4 408Nyregistrering NOR ikke registreringspliktig (under 15 m) som må dokumenteres av Sjøfartsdirektoratet kr 3 101*Årsgebyr:*Årsgebyr NOR fritidsfartøy fra 7 meter, men under 24 meter kr 237*Endringer felles for alle fartøy:*Endring av andre juridiske roller kr 1 329Endring av hjemsted kr 889Registrering av pant kr 3 101Registrering av flåtepant kr 3 101 pr. skipSamtykke/påtegning av pant kr 2 656Sletting av NOR-registreringspliktige fartøy og bareboatregistrering kr 2 656Bareboat-utflagging kr 2 656Pantattest/utskrift kr 796Hjemmels- og heftelsesattest kr 796Slettelsesattest kr 796Journalbekreftelse kr 796Kopi av dokument kr 308Skipsliste kr 796*Endringer NOR pliktige (15 m og over) og bygg:*Registrering av endring eier kr 2 656Endring av skips navn kr 3 531*Endringer NOR ikke registreringspliktige (under 15 m):*Registrering av endring eier kr 2 124Endring av skips navn kr 889Registrering av samtidig eier/navn/hjemsted kr 2 124.
+Det skal betales gebyr med følgende satser:
+
+- *Nyregistreringer:*
+
+  - Nyregistrering NOR registreringspliktig, bareboatregistrering og bygg kr 4 408
+  - Nyregistrering NOR ikke registreringspliktig (under 15 m) kr 4 408
+  - Nyregistrering NOR ikke registreringspliktig (under 15 m) som må dokumenteres av Sjøfartsdirektoratet kr 3 101
+- *Årsgebyr:*
+
+  - Årsgebyr NOR fritidsfartøy fra 7 meter, men under 24 meter kr 237
+- *Endringer felles for alle fartøy:*
+
+  - Endring av andre juridiske roller kr 1 329
+  - Endring av hjemsted kr 889
+  - Registrering av pant kr 3 101
+  - Registrering av flåtepant kr 3 101 pr. skip
+  - Samtykke/påtegning av pant kr 2 656
+  - Sletting av NOR-registreringspliktige fartøy og bareboatregistrering kr 2 656
+  - Bareboat-utflagging kr 2 656
+  - Pantattest/utskrift kr 796
+  - Hjemmels- og heftelsesattest kr 796
+  - Slettelsesattest kr 796
+  - Journalbekreftelse kr 796
+  - Kopi av dokument kr 308
+  - Skipsliste kr 796
+- *Endringer NOR pliktige (15 m og over) og bygg:*
+
+  - Registrering av endring eier kr 2 656
+  - Endring av skips navn kr 3 531
+- *Endringer NOR ikke registreringspliktige (under 15 m):*
+
+  - Registrering av endring eier kr 2 124
+  - Endring av skips navn kr 889
+  - Registrering av samtidig eier/navn/hjemsted kr 2 124.
 
 > Endret ved [forskrifter 17 des 1999 nr. 1354](forskrift/1999-12-17-1354) (i kraft 1 jan 2000), [15 feb 2008 nr. 154](forskrift/2008-02-15-154) (i kraft 1 juli 2008), [11 juli 2008 nr. 806](forskrift/2008-07-11-806), [14 des 2009 nr. 1648](forskrift/2009-12-14-1648) (i kraft 1 jan 2010), [28 april 2010 nr. 633](forskrift/2010-04-28-633) (i kraft 1 juli 2010), [22 des 2010 nr. 1846](forskrift/2010-12-22-1846) (i kraft 1 jan 2011), [5 jan 2012 nr. 17](forskrift/2012-01-05-17), [25 april 2012 nr. 428](forskrift/2012-04-25-428), [11 jan 2013 nr. 30](forskrift/2013-01-11-30), [19 des 2013 nr. 1616](forskrift/2013-12-19-1616) (i kraft 1 jan 2014), [19 des 2014 nr. 1855](forskrift/2014-12-19-1855) (i kraft 1 jan 2015), [15 des 2015 nr. 1641](forskrift/2015-12-15-1641) (i kraft 1 jan 2016), [20 des 2016 nr. 1743](forskrift/2016-12-20-1743) (i kraft 1 jan 2017), [18 des 2017 nr. 2197](forskrift/2017-12-18-2197) (i kraft 1 jan 2018), [20 des 2018 nr. 2181](forskrift/2018-12-20-2181) (i kraft 1 jan 2019), [20 des 2019 nr. 2097](forskrift/2019-12-20-2097) (i kraft 1 jan 2020), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020), [23 des 2020 nr. 3159](forskrift/2020-12-23-3159) (i kraft 1 jan 2021), [21 des 2021 nr. 3836](forskrift/2021-12-21-3836) (i kraft 1 jan 2022), [20 des 2022 nr. 2452](forskrift/2022-12-20-2452) (i kraft 1 jan 2023), [22 des 2023 nr. 2316](forskrift/2023-12-22-2316) (i kraft 1 jan 2024), [23 des 2024 nr. 3434](forskrift/2024-12-23-3434) (i kraft 1 jan 2025), [10 des 2025 nr. 2849](forskrift/2025-12-10-2849) (i kraft 1 jan 2026).
 
@@ -86,7 +119,11 @@ Skip som er registreringspliktig eller begjæres registrert, jfr. reglene i [§ 
 
 Meldingen skal skrives på blankett eller sendes elektronisk i den form og med den fremgangsmåte som er fastsatt av Sjøfartsdirektoratet. Sjøfartsdirektoratet fastsetter hva som er en betryggende metode for å autentisere innsenderen av et elektronisk dokument og sikre meldingens integritet. Sjøfartsdirektoratet kan fastsette standardvilkår for tilgang til systemer for innsending av dokumenter, samt stille krav til elektroniske sertifikater.
 
-Med meldingen skal det følgegjenpart av skipets målebrev eller for fartøy under 15 meter og fritidsfartøy mellom 15 og 24 meter dokumenterte måledata av lengde, bredde og dypgående eller dybde, jf. [§ 15](forskrift/1992-07-30-593/§15),navneattest utstedt av Skipsregistrene, men likevel ikke for innretninger som nevnt i [sjøloven § 33](lov/1994-06-24-39/§33), ogbilbrev (byggebevis), skjøte eller annet hjemmelsdokument som viser eierens adkomst til skipet.
+Med meldingen skal det følge
+
+1. gjenpart av skipets målebrev eller for fartøy under 15 meter og fritidsfartøy mellom 15 og 24 meter dokumenterte måledata av lengde, bredde og dypgående eller dybde, jf. [§ 15](forskrift/1992-07-30-593/§15),
+2. navneattest utstedt av Skipsregistrene, men likevel ikke for innretninger som nevnt i [sjøloven § 33](lov/1994-06-24-39/§33), og
+3. bilbrev (byggebevis), skjøte eller annet hjemmelsdokument som viser eierens adkomst til skipet.
 
 For fritidsbåter gjort tilgjengelig eller tatt i bruk i EØS-området 16. juni 1998 eller senere skal det vedlegges dokumentasjon som viser at båten er CE-merket, samt båtens HIN-/CIN-/WIN-nr. For fritidsbåter gjort tilgjengelig eller tatt i bruk i EØS-området etter 1. januar 2006 skal det også fremlegges dokumentasjon som viser at motoren er CE-merket.
 
@@ -110,7 +147,14 @@ EØS-avtalens vedlegg XIII (Europaparlaments- og rådsforordning [(EF) nr. 789/2
 
 Skal et skip bareboatregistreres etter sjøloven § 40, skal befrakteren gi meldingen. [§ 7](lov/1994-06-24-39/§7) annet ledd gjelder tilsvarende. Befraktes skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
 
-Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,nasjonalitetserklæring fra befrakter,gjenpart av skipets målebrev, jf. [§ 7](forskrift/1992-07-30-593/§7) syvende ledd annet punktum,utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, ogattest fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg, og at skipet i certepartiets periode ikke har rett til å føre primærstatens flagg.
+Med meldingen skal det følge
+
+1. kopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,
+2. nasjonalitetserklæring fra befrakter,
+3. gjenpart av skipets målebrev, jf. [§ 7](forskrift/1992-07-30-593/§7) syvende ledd annet punktum,
+4. utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,
+5. skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, og
+6. attest fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg, og at skipet i certepartiets periode ikke har rett til å føre primærstatens flagg.
 
 [§ 18](forskrift/1992-07-30-593/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene d til f.
 
@@ -122,7 +166,11 @@ En tillatelse til bareboatregistrering kan gis for inntil ti år, men den kan ik
 
 Skal et skip bareboat-utflagges etter sjøloven § 40 b, skal eieren gi meldingen. [§ 7](lov/1994-06-24-39/§7) annet ledd gjelder tilsvarende. Eies skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
 
-Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra samtlige rettighetshavere i skipet, ogattest fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+Med meldingen skal det følge
+
+1. kopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,
+2. skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra samtlige rettighetshavere i skipet, og
+3. attest fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
 
 [§ 18](forskrift/1992-07-30-593/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene b og c.
 
@@ -240,7 +288,13 @@ Et dokument anmerkes (ekstraheres) i skipsregisteret ved å innføre dokumentjou
 
 ### § 15. Måledata for fartøy under 15 meter og fritidsfartøy mellom 15 og 24 meter
 
-Måledata skal omfatte:Lengde, dvs. den største lengde fra forkant av forreste del av skroget til akterkant av akterste del av skroget,bredde, dvs. bredden målt utvendig på hud uansett materiale, fenderlister ikke medregnet,dypgående, for fritidsbåter som angitt i CE-dokumentasjon,for andre fartøyer, dypgående som er angitt fra produsenten,som alternativ til dypgående kan benyttes dybde, dvs. dybde målt midtskips i senterlinjen fra underkant av dekket til overkant av bunnstokk/ dobbeltbunn.
+Måledata skal omfatte:
+
+1. Lengde, dvs. den største lengde fra forkant av forreste del av skroget til akterkant av akterste del av skroget,
+2. bredde, dvs. bredden målt utvendig på hud uansett materiale, fenderlister ikke medregnet,
+3. dypgående, for fritidsbåter som angitt i CE-dokumentasjon,
+4. for andre fartøyer, dypgående som er angitt fra produsenten,
+5. som alternativ til dypgående kan benyttes dybde, dvs. dybde målt midtskips i senterlinjen fra underkant av dekket til overkant av bunnstokk/ dobbeltbunn.
 
 Lengde, bredde og dypgående eller dybde, for andre fartøy enn fiske- og fangstfartøy, kan dokumenteres ved byggebrev fra produsent, generalarrangementstegninger, CE-dokumentasjon, erklæring fra produsent eller tilsvarende dokumentasjon som registerfører finner ubetenkelig å kunne godta. For fiske- og fangstfartøy dokumenteres disse av Sjøfartsdirektoratet eller foretak godkjent av Sjøfartsdirektoratet.
 
@@ -274,7 +328,15 @@ Hjelpedokument på fremmed språk trenger ikke oversettelse hvis registerførere
 
 Når det i eller i medhold av sjøloven er krav om underskrifter på dokumentet, skal det ved elektronisk registrering av dokumenter benyttes elektronisk sertifikat, jf. [§ 7](forskrift/1992-07-30-593/§7). Ved bruk av slike elektroniske sertifikater stilles det ikke krav til vitnebekreftelser.
 
-Ved papirbasert registrering hvor en underskrift skal være bekreftet, jf. [sjølovens § 15](lov/1994-06-24-39/§15) annet ledd, kan bekreftelse gis av to myndige vitner bosatt i Norge, eller av norskdommer eller dommerfullmektig,lensmann eller lensmannsbetjent,namsmann eller namsfullmektig godtatt av tingretten,forliksmann,advokat eller autorisert advokatfullmektig,statsautorisert revisor eller registrert revisor,notarius publicus.
+Ved papirbasert registrering hvor en underskrift skal være bekreftet, jf. [sjølovens § 15](lov/1994-06-24-39/§15) annet ledd, kan bekreftelse gis av to myndige vitner bosatt i Norge, eller av norsk
+
+- dommer eller dommerfullmektig,
+- lensmann eller lensmannsbetjent,
+- namsmann eller namsfullmektig godtatt av tingretten,
+- forliksmann,
+- advokat eller autorisert advokatfullmektig,
+- statsautorisert revisor eller registrert revisor,
+- notarius publicus.
 
 Bekreftelsen kan også gis av utenlandsk notarius publicus.
 

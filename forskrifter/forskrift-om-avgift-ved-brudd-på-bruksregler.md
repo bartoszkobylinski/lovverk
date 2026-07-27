@@ -26,7 +26,11 @@ eu_basis: []
 
 Denne forskrift gjelder avgift ved brudd på bruksregler i henhold til [reindriftsloven § 77](lov/2007-06-15-40/§77).
 
-Reindriftsstyret eller statsforvalteren kan ilegge avgift ved brudd på bruksregler i følgende tilfeller, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd:Ved beiting i strid med bruksreglenes regler om beitebruk, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd [punkt](lov/2007-06-15-40/kap1) 1.Ved overskridelse av bruksreglenes regler om høyeste lovlige reintall, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd [punkt](lov/2007-06-15-40/kap2) 2, jf. [§ 60](lov/2007-06-15-40/§60) tredje ledd.Ved brudd på eventuelle regler i bruksreglene om slakte- og produksjonskrav, jf. § 57 annet ledd punkt 8.
+Reindriftsstyret eller statsforvalteren kan ilegge avgift ved brudd på bruksregler i følgende tilfeller, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd:
+
+1. Ved beiting i strid med bruksreglenes regler om beitebruk, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd [punkt](lov/2007-06-15-40/kap1) 1.
+2. Ved overskridelse av bruksreglenes regler om høyeste lovlige reintall, jf. [reindriftsloven § 57](lov/2007-06-15-40/§57) annet ledd [punkt](lov/2007-06-15-40/kap2) 2, jf. [§ 60](lov/2007-06-15-40/§60) tredje ledd.
+3. Ved brudd på eventuelle regler i bruksreglene om slakte- og produksjonskrav, jf. § 57 annet ledd punkt 8.
 
 > Endret ved forskrifter [18 des 2013 nr. 1598](forskrift/2013-12-18-1598) (i kraft 1 jan 2014), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
@@ -44,7 +48,10 @@ Reindriftsstyret og statsforvalteren kan helt eller delvis frafalle en ilagt avg
 
 ## § 3. Utmåling
 
-Følgende satser skal gjelde:Ved beiting i strid med regler om beitebruk, jf. [§ 1](forskrift/2011-11-07-1083/§1) annet ledd punkt 1: kr 4,- pr. ulovlig beitende rein pr. dag.Ved overskridelse av høyeste lovlige reintall, jf. [§ 1](forskrift/2011-11-07-1083/§1) annet ledd punkt 2: kr 2,- pr. rein pr. dag for antall rein som overstiger det reintall siidaen skal redusere til i henhold til § 60 tredje ledd.
+Følgende satser skal gjelde:
+
+1. Ved beiting i strid med regler om beitebruk, jf. [§ 1](forskrift/2011-11-07-1083/§1) annet ledd punkt 1: kr 4,- pr. ulovlig beitende rein pr. dag.
+2. Ved overskridelse av høyeste lovlige reintall, jf. [§ 1](forskrift/2011-11-07-1083/§1) annet ledd punkt 2: kr 2,- pr. rein pr. dag for antall rein som overstiger det reintall siidaen skal redusere til i henhold til § 60 tredje ledd.
 
 Ved brudd på regler som nevnt i denne forskriften [§ 1](forskrift/2011-11-07-1083/§1) annet ledd punkt 3 fastsettes avgiften skjønnsmessig.
 

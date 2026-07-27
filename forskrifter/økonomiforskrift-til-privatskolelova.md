@@ -36,7 +36,10 @@ Forskrifta skal vere med på å sikre at grunnlaget for statstilskot til den ein
 
 ### § 1-2. Definisjonar
 
-I denne forskrifta tyder*fulltidselev:* ein elev som er teken inn til eit fullstendig utdanningsprogram på Vg1 eller eit fullstendig programområde på Vg2 eller Vg3*deltidselev:* ein elev som er teken inn til mindre opplæring enn det som er fastsett som full tid i det aktuelle utdanningsprogrammet på Vg1 eller programområdet på Vg2 eller Vg3 etter læreplanverket.
+I denne forskrifta tyder
+
+1. *fulltidselev:* ein elev som er teken inn til eit fullstendig utdanningsprogram på Vg1 eller eit fullstendig programområde på Vg2 eller Vg3
+2. *deltidselev:* ein elev som er teken inn til mindre opplæring enn det som er fastsett som full tid i det aktuelle utdanningsprogrammet på Vg1 eller programområdet på Vg2 eller Vg3 etter læreplanverket.
 
 ## Del 2. Søknad og oppstart
 
@@ -120,7 +123,10 @@ For vidaregåande skolar som driv særskilt tilrettelagt opplæring for elevar m
 
 ### § 4-3. Tilskot til skolar som driv særskilt tilrettelagd opplæring for elevar med dokumenterte behov
 
-Skolane får tilskot etter ein av følgjande satsar:Sats for nokså ressurskrevjande elevar: Satsen blir brukt som grunnlag for tilskot til skolar som har elevar med nedsett funksjonsevne og lærevanskar. Den nedsette funksjonsevna og lærevanskane skal vere langvarige eller permanente.Sats for særleg ressurskrevjande elevar: Satsen blir brukt som grunnlag for tilskot til skolar som har elevar med sterkt nedsett funksjonsevne og omfattande lærevanskar. Den nedsette funksjonsevna og lærevanskane skal vere langvarige eller permanente. Elevane som blir omfatta av denne satsen må ha eit stort behov for oppfølging for å kunne meistre opplæringssituasjonen.
+Skolane får tilskot etter ein av følgjande satsar:
+
+1. Sats for nokså ressurskrevjande elevar: Satsen blir brukt som grunnlag for tilskot til skolar som har elevar med nedsett funksjonsevne og lærevanskar. Den nedsette funksjonsevna og lærevanskane skal vere langvarige eller permanente.
+2. Sats for særleg ressurskrevjande elevar: Satsen blir brukt som grunnlag for tilskot til skolar som har elevar med sterkt nedsett funksjonsevne og omfattande lærevanskar. Den nedsette funksjonsevna og lærevanskane skal vere langvarige eller permanente. Elevane som blir omfatta av denne satsen må ha eit stort behov for oppfølging for å kunne meistre opplæringssituasjonen.
 
 Kva for ein sats skolen skal ha tilskot etter, kjem fram i vedtaket om godkjenning etter [privatskolelova](lov/2003-07-04-84).
 
@@ -128,7 +134,12 @@ Kva for ein sats skolen skal ha tilskot etter, kjem fram i vedtaket om godkjenni
 
 ### § 4-4. Unntak for dokumentert fråvær i vidaregåande opplæring
 
-Følgjande dokumentert fråvær skal ikkje reknast som fråvær ved berekning av statstilskot etter [§ 4-2](forskrift/2018-09-01-1295/§4-2):fråvær som kjem av sjukdom der omfanget av fråværet er beskrive og attestert av legeorganisert eller sjølvstendig studiearbeid, mellom anna skoleadministrative gjeremål avtala på førehand med faglærar eller dagleg leiar. Sjølvstendig studiearbeid skal dekkje fag som det er gitt opplæring i under perioden og kan ikkje vere langvarigarbeid som tillitsvald, politisk arbeid, hjelpearbeid, lovpålagt oppmøte, fråvær av helse- og velferdsgrunnar og fråvær ved religiøse høgtider for elevar som er medlemar av andre trussamfunn enn Den norske kyrkja, avgrensa til i alt 14 skoledagarrepresentasjon i arrangement på nasjonalt og internasjonalt nivå, avgrensa til i alt 10 skoledagar.
+Følgjande dokumentert fråvær skal ikkje reknast som fråvær ved berekning av statstilskot etter [§ 4-2](forskrift/2018-09-01-1295/§4-2):
+
+1. fråvær som kjem av sjukdom der omfanget av fråværet er beskrive og attestert av lege
+2. organisert eller sjølvstendig studiearbeid, mellom anna skoleadministrative gjeremål avtala på førehand med faglærar eller dagleg leiar. Sjølvstendig studiearbeid skal dekkje fag som det er gitt opplæring i under perioden og kan ikkje vere langvarig
+3. arbeid som tillitsvald, politisk arbeid, hjelpearbeid, lovpålagt oppmøte, fråvær av helse- og velferdsgrunnar og fråvær ved religiøse høgtider for elevar som er medlemar av andre trussamfunn enn Den norske kyrkja, avgrensa til i alt 14 skoledagar
+4. representasjon i arrangement på nasjonalt og internasjonalt nivå, avgrensa til i alt 10 skoledagar.
 
 ### § 4-5. Unntak for udokumentert fråvær i vidaregåande opplæring
 
@@ -228,7 +239,20 @@ Overskot utover 25 % av totalt inntektsgrunnlag er å rekne som statstilskot. D
 
 ### § 7-1. Tilleggsverksemd
 
-Skolen kan, i tillegg til skoleverksemd, drive følgjande tilleggsverksemd:skolefritidsordning for elevar ved skolen og for eit mindretal som ikkje er elevar ved skoleninternat for elevar ved skolenutleige av tenestebustader ved internatet for tilsette i skolen og utleige til andre i skoleferientilrettelegging i samband med godkjende samarbeidsprosjekt med utanlandske skolarkantineverksemd som elevane eller skolen driv, og som gjeld for elevar ved skolen, samt utleige av lokale til slik verksemdutleige av spesialrom når romma ikkje er i bruk, og utleigeverksemda ikkje er til hinder for skoleverksemdautleige av skolelokala utanfor skoletidapraksisopplæring i samband med lærarutdanningalærebedrift for lærlingar i fag som er knytte til skoledrifta når dette er godkjent av fylkeskommunendeltaking i tiltak som er initierte av det offentlege samt statlege satsingar knytte til skoleverksemdadministrasjon av skoleskyss for elevar ved skolentilrettelegging for privatisteksamen i utlandet.
+Skolen kan, i tillegg til skoleverksemd, drive følgjande tilleggsverksemd:
+
+1. skolefritidsordning for elevar ved skolen og for eit mindretal som ikkje er elevar ved skolen
+2. internat for elevar ved skolen
+3. utleige av tenestebustader ved internatet for tilsette i skolen og utleige til andre i skoleferien
+4. tilrettelegging i samband med godkjende samarbeidsprosjekt med utanlandske skolar
+5. kantineverksemd som elevane eller skolen driv, og som gjeld for elevar ved skolen, samt utleige av lokale til slik verksemd
+6. utleige av spesialrom når romma ikkje er i bruk, og utleigeverksemda ikkje er til hinder for skoleverksemda
+7. utleige av skolelokala utanfor skoletida
+8. praksisopplæring i samband med lærarutdanninga
+9. lærebedrift for lærlingar i fag som er knytte til skoledrifta når dette er godkjent av fylkeskommunen
+10. deltaking i tiltak som er initierte av det offentlege samt statlege satsingar knytte til skoleverksemd
+11. administrasjon av skoleskyss for elevar ved skolen
+12. tilrettelegging for privatisteksamen i utlandet.
 
 Skolen kan òg søke om å drive anna tilleggsverksemd etter [§ 2-2](forskrift/2018-09-01-1295/§2-2).
 
@@ -248,7 +272,13 @@ Utdanningsdirektoratet kan etter søknad utsetje tidsfristen i tredje ledd.
 
 ### § 8-2. Krav til noteopplysningar i rekneskapen
 
-I tillegg til dei krava [rekneskapslova](lov/1998-07-17-56) stiller til rekneskapsføringa, skal skolen i notar til årsrekneskapen gi særskilde opplysningar om:offentlege finansieringskjelder. Spesifiseringa skal vise kven som har ytt midlane og formålet med ytinga.skolepengesatsane. Skolar som ikkje tar skolepengar, skal spesifisere dette.disponering av overskot. Utrekninga skal vise kor mykje skolen har disponert i forhold til totalt inntektsgrunnlag, både i kronebeløp og i prosent av inntektsgrunnlaget.handel med eigarane til skolen eller deira nærståande. Spesifiseringa skal vise kven skolen handlar med, kva slags vare eller teneste som er kjøpt og totalbeløpa for dei ulike varene og tenestene. Skolar som ikkje har hatt handel med eigarar eller nærståande, skal spesifisere dette.tilleggsverksemd. Driv skolen tilleggsverksemd etter [§ 2-2](forskrift/2018-09-01-1295/§2-2) og [§ 7-1](forskrift/2018-09-01-1295/§7-1), skal skolen vise korleis felleskostnadene er fordelte på avdelingane.
+I tillegg til dei krava [rekneskapslova](lov/1998-07-17-56) stiller til rekneskapsføringa, skal skolen i notar til årsrekneskapen gi særskilde opplysningar om:
+
+1. offentlege finansieringskjelder. Spesifiseringa skal vise kven som har ytt midlane og formålet med ytinga.
+2. skolepengesatsane. Skolar som ikkje tar skolepengar, skal spesifisere dette.
+3. disponering av overskot. Utrekninga skal vise kor mykje skolen har disponert i forhold til totalt inntektsgrunnlag, både i kronebeløp og i prosent av inntektsgrunnlaget.
+4. handel med eigarane til skolen eller deira nærståande. Spesifiseringa skal vise kven skolen handlar med, kva slags vare eller teneste som er kjøpt og totalbeløpa for dei ulike varene og tenestene. Skolar som ikkje har hatt handel med eigarar eller nærståande, skal spesifisere dette.
+5. tilleggsverksemd. Driv skolen tilleggsverksemd etter [§ 2-2](forskrift/2018-09-01-1295/§2-2) og [§ 7-1](forskrift/2018-09-01-1295/§7-1), skal skolen vise korleis felleskostnadene er fordelte på avdelingane.
 
 ### § 8-3. Krav til revisor og revisjon
 
@@ -310,7 +340,14 @@ Når skoledrifta blir lagd ned, kan Utdanningsdirektoratet etter søknad godkjen
 
 ### § 10-1. Lovbrotsgebyr
 
-Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:[kapittel 3](forskrift/2018-09-01-1295/kap3) om oppstart[§§ 4-6](forskrift/2018-09-01-1295/§4-6) og [4-7](forskrift/2018-09-01-1295/§4-7) om rapportering av elevtal for grunnskolane og vidaregåande skolar[kapittel 5](forskrift/2018-09-01-1295/kap5) om skolepengar[kapittel 6](forskrift/2018-09-01-1295/kap6) om bruk av statstilskot m.m.[kapittel 8](forskrift/2018-09-01-1295/kap8) om rekneskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2018-09-01-1295/§8-4) om særskilde fråsegner frå revisor[kapittel 9](forskrift/2018-09-01-1295/kap9) om krav ved nedlegging av skoledrifta.
+Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:
+
+- [kapittel 3](forskrift/2018-09-01-1295/kap3) om oppstart
+- [§§ 4-6](forskrift/2018-09-01-1295/§4-6) og [4-7](forskrift/2018-09-01-1295/§4-7) om rapportering av elevtal for grunnskolane og vidaregåande skolar
+- [kapittel 5](forskrift/2018-09-01-1295/kap5) om skolepengar
+- [kapittel 6](forskrift/2018-09-01-1295/kap6) om bruk av statstilskot m.m.
+- [kapittel 8](forskrift/2018-09-01-1295/kap8) om rekneskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2018-09-01-1295/§8-4) om særskilde fråsegner frå revisor
+- [kapittel 9](forskrift/2018-09-01-1295/kap9) om krav ved nedlegging av skoledrifta.
 
 Ved vurderinga av ilegging og utmåling av lovbrotsgebyr kan det også leggjast vekt på om det er oppdaga forhold i strid med andre lover og forskrifter, dersom forholdet svekkjer tilliten til skolen.
 

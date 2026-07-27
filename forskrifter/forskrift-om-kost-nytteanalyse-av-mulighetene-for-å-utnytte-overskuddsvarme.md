@@ -64,7 +64,10 @@ For alle anlegg omfattet av [energiloven § 7-2 første ledd](lov/1990-06-29-50/
 
 Industrianlegg, datasenter og andre anlegg omfattet av [energiloven § 7-2 første ledd bokstav b](lov/1990-06-29-50/§7-2/ledd/1/bokstav/b), [e](lov/1990-06-29-50/§7-2/ledd/1/bokstav/e) og [f](lov/1990-06-29-50/§7-2/ledd/1/bokstav/f) er unntatt plikten til å gjennomføre kost-nytteanalyser dersom det foreligger konkrete og dokumenterbare planer om å levere varmen til et fjernvarmenett.
 
-Nye fjernvarmenett og nye fjernkjølenett er unntatt plikten til å gjennomføre kost-nytteanalyser etter [energiloven § 7-2 første ledd bokstav c](lov/1990-06-29-50/§7-2/ledd/1/bokstav/c) dersom ett av følgende vilkår er oppfylt:Det er mer enn 2 km avstand i luftlinje fra det planlagte nettet til anlegg eller datasenter med anvendbar overskuddsvarmeTiltakshaver planlegger et nett hvor etterspørselen etter varme og/eller kjøling vil være mindre enn 10 GWh i året.
+Nye fjernvarmenett og nye fjernkjølenett er unntatt plikten til å gjennomføre kost-nytteanalyser etter [energiloven § 7-2 første ledd bokstav c](lov/1990-06-29-50/§7-2/ledd/1/bokstav/c) dersom ett av følgende vilkår er oppfylt:
+
+1. Det er mer enn 2 km avstand i luftlinje fra det planlagte nettet til anlegg eller datasenter med anvendbar overskuddsvarme
+2. Tiltakshaver planlegger et nett hvor etterspørselen etter varme og/eller kjøling vil være mindre enn 10 GWh i året.
 
 Utvidelser av fjernvarmenett innenfor et tidligere gitt konsesjonsområde, anses ikke som nytt fjernvarmenett.
 
@@ -74,7 +77,11 @@ Transformatorer med kapasitet mindre eller lik 1000 MVA og omformeranlegg med ka
 
 ### § 6. Fritak etter søknad
 
-Norges vassdrags- og energidirektorat kan i det enkelte tilfellet og etter begrunnet søknad ved enkeltvedtak frita følgende anlegg fra plikten til å gjennomføre en kost-nytteanalyse:spisslast- og reserveanlegg til kraftproduksjon som etter planen skal være i drift i mindre enn 1 500 driftstimer om året som glidende gjennomsnitt over en femårsperiode,kjernekraftverk oganlegg som skal plasseres i nærheten av en geologisk lagringslokalitet med godkjennelse etter [forskrift 5. desember 2014 nr. 1517 om lagring og transport av CO2 på sokkelen](forskrift/2014-12-05-1517).
+Norges vassdrags- og energidirektorat kan i det enkelte tilfellet og etter begrunnet søknad ved enkeltvedtak frita følgende anlegg fra plikten til å gjennomføre en kost-nytteanalyse:
+
+1. spisslast- og reserveanlegg til kraftproduksjon som etter planen skal være i drift i mindre enn 1 500 driftstimer om året som glidende gjennomsnitt over en femårsperiode,
+2. kjernekraftverk og
+3. anlegg som skal plasseres i nærheten av en geologisk lagringslokalitet med godkjennelse etter [forskrift 5. desember 2014 nr. 1517 om lagring og transport av CO2 på sokkelen](forskrift/2014-12-05-1517).
 
 Fritak etter første ledd kan bare gis før byggingen eller oppgraderingen av anlegget settes i gang.
 
@@ -86,7 +93,14 @@ Kost-nytteanalysen skal bestå av en oppsummeringsdel og en analysedel. Oppsumme
 
 ### § 8. Kost-nytteanalysens oppsummeringsdel
 
-Kost-nytteanalysens oppsummeringsdel skal så langt det er relevant for det planlagte anlegget inneholde følgende opplysninger:en beskrivelse av det planlagte anlegget, tiltakshaver, dennes virksomhet og anleggets geografiske plasseringsamlet innfyrt termisk effekt og samlet tilført elektrisk effektantatt mengde overskuddsvarme i GWh per årantatt temperatur på overskuddsvarmenformen på overskuddsvarmen (vann, damp, avgasser eller luft)antatt driftstid.
+Kost-nytteanalysens oppsummeringsdel skal så langt det er relevant for det planlagte anlegget inneholde følgende opplysninger:
+
+1. en beskrivelse av det planlagte anlegget, tiltakshaver, dennes virksomhet og anleggets geografiske plassering
+2. samlet innfyrt termisk effekt og samlet tilført elektrisk effekt
+3. antatt mengde overskuddsvarme i GWh per år
+4. antatt temperatur på overskuddsvarmen
+5. formen på overskuddsvarmen (vann, damp, avgasser eller luft)
+6. antatt driftstid.
 
 For fjernvarmenett og fjernkjølenett skal oppsummeringsdelen inneholde en beskrivelse av det planlagte anlegget, herunder temperaturen og formen på overskuddsvarmen (vann, damp, avgasser eller luft), selskapet, aktiviteten som utføres og geografisk plassering.
 
@@ -94,7 +108,15 @@ Kost-nytteanalysens oppsummeringsdel skal inneholde en beskrivelse av gjennomfø
 
 ### § 9. Kost-nytteanalysens analysedel
 
-Kost-nytteanalysens analysedel skal for det planlagte anlegget og for minst ett alternativ hvor overskuddsvarme blir utnyttet, inneholde en bedriftsøkonomisk analyse med opplysninger om og beregninger av:anleggets investeringskostnadanleggets årlige løpende kostnader til drift og vedlikeholdanleggets årlige løpende inntekterpris på elektrisk kraft i det aktuelle områdetnåverdiberegning av verdiene i bokstav a–danalysens diskonteringsrenteanleggets økonomiske levetid.
+Kost-nytteanalysens analysedel skal for det planlagte anlegget og for minst ett alternativ hvor overskuddsvarme blir utnyttet, inneholde en bedriftsøkonomisk analyse med opplysninger om og beregninger av:
+
+1. anleggets investeringskostnad
+2. anleggets årlige løpende kostnader til drift og vedlikehold
+3. anleggets årlige løpende inntekter
+4. pris på elektrisk kraft i det aktuelle området
+5. nåverdiberegning av verdiene i bokstav a–d
+6. analysens diskonteringsrente
+7. anleggets økonomiske levetid.
 
 I kost-nytteanalysens analysedel skal de valg og beregninger som er gjort etter første ledd, og tidshorisonter som benyttes i forbindelse med beregningen, begrunnes.
 

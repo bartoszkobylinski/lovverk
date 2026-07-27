@@ -32,7 +32,11 @@ Denne forskrift omfatter kaffe- og sikoriekstrakter. Forskriften omfatter ikke �
 
 Med kaffeekstrakter menes i denne forskrift; kaffeekstrakt, oppløselig kaffeekstrakt, oppløselig kaffe, instant kaffe eller pulverkaffe. Kaffeekstrakter er konsentrerte produkter som er fremstilt ved ekstraksjon av brent kaffe, hvor det utelukkende er benyttet vann som ekstraksjonsmiddel. Enhver hydrolyseprosess ved tilsetting av syre eller base er forbudt. Bortsett fra de uløselige stoffer, som er teknisk umulig å fjerne, og de uløselige oljer som stammer fra kaffen, skal kaffeekstrakter bare inneholde de løselige og aromatiske bestanddelene i kaffe.
 
-Kaffetørrstoffet må være;min. 95 vektprosent for tørket kaffeekstrakt,min. 70 og maks. 85 vektprosent for kaffeekstraktpasta,min. 15 og maks. 55 vektprosent for flytende kaffeekstrakt.
+Kaffetørrstoffet må være;
+
+1. min. 95 vektprosent for tørket kaffeekstrakt,
+2. min. 70 og maks. 85 vektprosent for kaffeekstraktpasta,
+3. min. 15 og maks. 55 vektprosent for flytende kaffeekstrakt.
 
 Kaffeekstrakt, i fast form eller i pastaform, skal ikke inneholde andre stoffer enn de som kommer fra ekstraksjonen av kaffe.
 
@@ -44,7 +48,11 @@ Med sikoriekstrakt menes i denne forskrift; sikoriekstrakt, oppløselig sikori, 
 
 «Sikori» betyr røtter av Cichorium Intybus L., og brukes ikke til produksjon av sikori salat, men til produksjon av drikker. Røttene skal være tilstrekkelig rengjort for å tørkes og brennes.
 
-Sikoritørrstoffet må være;min. 95 vektprosent for tørket sikoriekstrakt,min. 70 og maks. 85 vektprosent for pasta av sikoriekstrakt,min. 25 og maks. 55 vektprosent for flytende sikoriekstrakt.
+Sikoritørrstoffet må være;
+
+1. min. 95 vektprosent for tørket sikoriekstrakt,
+2. min. 70 og maks. 85 vektprosent for pasta av sikoriekstrakt,
+3. min. 25 og maks. 55 vektprosent for flytende sikoriekstrakt.
 
 Sikoriekstrakt, i fast form eller pastaform, skal ikke inneholde mer enn 1 vektprosent andre stoffer, dvs. andre enn de som kommer fra ekstraksjonen av sikori.
 
@@ -56,15 +64,24 @@ Flytende sikoriekstrakt kan likevel inneholde brente eller ubrente sukkerarter, 
 
 Produkter som omfattes av denne forskriften, skal ved omsetning merkes i henhold til gjeldende forskrifter om merking av næringsmidler, med de tillegg og unntak som følger av denne forskriften.
 
-Produktene skal ha den varebetegnelsen som følger av [§ 2](forskrift/2000-08-31-887/§2) og [§ 3](forskrift/2000-08-31-887/§3). Varebetegnelsen skal suppleres med passende tilleggsbetegnelse;«pasta» eller «i pastaform»«flytende» eller «i flytende form»
+Produktene skal ha den varebetegnelsen som følger av [§ 2](forskrift/2000-08-31-887/§2) og [§ 3](forskrift/2000-08-31-887/§3). Varebetegnelsen skal suppleres med passende tilleggsbetegnelse;
 
-Varebetegnelsen kan suppleres med «konsentrert»:for flytende kaffeekstrakt dersom kaffetørrstoffet er minst 25 vektprosent,for flytende sikoriekstrakt dersom sikoritørrstoffet er minst 45 vektprosent.
+- «pasta» eller «i pastaform»
+- «flytende» eller «i flytende form»
+
+Varebetegnelsen kan suppleres med «konsentrert»:
+
+1. for flytende kaffeekstrakt dersom kaffetørrstoffet er minst 25 vektprosent,
+2. for flytende sikoriekstrakt dersom sikoritørrstoffet er minst 45 vektprosent.
 
 > Endret ved [forskrift 9 jan 2004 nr. 143](forskrift/2004-01-09-143).
 
 ### § 5. Spesielle bestemmelser om merking
 
-Produkter skal merkes med følgende opplysninger i samme synsfelt som varebetegnelsen;«Koffeinfri» for kaffeekstrakter dersom innholdet av vannfri koffein er høyst 0,3 vektprosent av kaffetørrstoffet.«Med sukker», «konservert med sukker» eller «tilsatt sukker» eller «brent med sukker», for flytende kaffeekstrakt og flytende sikoriekstrakt. Er det benyttet andre sukkerarter enn sukrose, skal navnet på disse angis i stedet for betegnelsen «sukker».
+Produkter skal merkes med følgende opplysninger i samme synsfelt som varebetegnelsen;
+
+1. «Koffeinfri» for kaffeekstrakter dersom innholdet av vannfri koffein er høyst 0,3 vektprosent av kaffetørrstoffet.
+2. «Med sukker», «konservert med sukker» eller «tilsatt sukker» eller «brent med sukker», for flytende kaffeekstrakt og flytende sikoriekstrakt. Er det benyttet andre sukkerarter enn sukrose, skal navnet på disse angis i stedet for betegnelsen «sukker».
 
 Pasta av kaffeekstrakt og flytende kaffeekstrakt skal merkes med minsteinnholdet av kaffetørrstoffet, uttrykt i vektprosent av ferdig produkt.
 

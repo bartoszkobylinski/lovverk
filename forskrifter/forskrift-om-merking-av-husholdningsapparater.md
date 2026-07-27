@@ -26,7 +26,11 @@ eu_basis: []
 
 Denne forskrift regulerer merking, varedeklarasjon og annen informasjon om forbruk av energi og andre viktige ressurser for visse typer av husholdningsapparater. Forbrukerne skal derved få mulighet til å velge mer energieffektive apparater.
 
-Denne forskrift kommer til anvendelse på følgende typer av husholdningsapparater, også når de selges til andre formål enn husholdningsbruk:kombinasjoner av vaskemaskiner og tørketromlerstekeovnervannvarmere og varmtvannsbeholdere.
+Denne forskrift kommer til anvendelse på følgende typer av husholdningsapparater, også når de selges til andre formål enn husholdningsbruk:
+
+- kombinasjoner av vaskemaskiner og tørketromler
+- stekeovner
+- vannvarmere og varmtvannsbeholdere.
 
 > Endret ved [forskrift 27 mai 2013 nr. 534](forskrift/2013-05-27-534) (i kraft 1 juni 2013 og 1 sep 2013).
 
@@ -40,7 +44,13 @@ Denne forskrift gjelder ikke for den dataplate eller lignende, som av sikkerhets
 
 ## § 4.
 
-I denne forskrift forstås med:*forhandler*, en detaljist eller annen person som selger, selger på avbetaling, leier ut eller utstiller husholdningsapparater som er bestemt til den endelige bruker,*leverandør*, produsenten eller dennes godkjente representant, eller den person som markedsfører apparatet i Det europeiske økonomiske samarbeidsområde (EØS),*opplysningsskjema*, et standardisert skjema med opplysninger om det aktuelle apparat,*andre viktige ressurser*, vann, kjemikalier eller annet som forbrukes av et apparat ved normal bruk,*tilleggsopplysninger*, andre opplysninger om et apparats yteevne som er av betydning for, eller kan bidra til vurderingen av apparatets forbruk av energi eller andre viktige ressurser.
+I denne forskrift forstås med:
+
+- *forhandler*, en detaljist eller annen person som selger, selger på avbetaling, leier ut eller utstiller husholdningsapparater som er bestemt til den endelige bruker,
+- *leverandør*, produsenten eller dennes godkjente representant, eller den person som markedsfører apparatet i Det europeiske økonomiske samarbeidsområde (EØS),
+- *opplysningsskjema*, et standardisert skjema med opplysninger om det aktuelle apparat,
+- *andre viktige ressurser*, vann, kjemikalier eller annet som forbrukes av et apparat ved normal bruk,
+- *tilleggsopplysninger*, andre opplysninger om et apparats yteevne som er av betydning for, eller kan bidra til vurderingen av apparatets forbruk av energi eller andre viktige ressurser.
 
 ## § 5.
 
@@ -56,7 +66,12 @@ De nærmere detaljer vedrørende etikett og opplysningsskjema fastsettes i særs
 
 ## § 8.
 
-Det skal utarbeides et så utførlig teknisk dokumentasjonsmateriale at det er mulig å bedømme nøyaktigheten av etikettens og opplysningsskjemaets opplysninger. Det skal inneholde:en generell beskrivelse av produktet,resultatet av relevante konstruksjonsberegninger,prøverapporter, hvis slike foreligger, herunder også fra relevante godkjente organisasjoner,når verdiene er utledet av verdiene for lignende modeller, de samme opplysninger som for disse modeller.
+Det skal utarbeides et så utførlig teknisk dokumentasjonsmateriale at det er mulig å bedømme nøyaktigheten av etikettens og opplysningsskjemaets opplysninger. Det skal inneholde:
+
+- en generell beskrivelse av produktet,
+- resultatet av relevante konstruksjonsberegninger,
+- prøverapporter, hvis slike foreligger, herunder også fra relevante godkjente organisasjoner,
+- når verdiene er utledet av verdiene for lignende modeller, de samme opplysninger som for disse modeller.
 
 ## § 9.
 
@@ -76,7 +91,10 @@ Leverandøren skal påse at opplysningene som gis på etiketter og opplysningssk
 
 ## § 13.
 
-Følgende bestemmelser gjelder for merking og vareopplysninger:Utstilte apparater, som omfattes av særskilte forskrifter som nevnt i § 7, skal forhandleren forsyne med en passende etikett på et lett synlig sted som bestemt i forskriftene, og på norsk.Leverandører skal kostnadsfritt levere de nødvendige etiketter til de omtalte forhandlere i bokstav a). Leverandørene kan fritt velge sin egen ordning for levering av etiketter. Anmoder en forhandler om å få levert etiketter, skal leverandørene imidlertid sørge for at etikettene blir raskt levert.
+Følgende bestemmelser gjelder for merking og vareopplysninger:
+
+1. Utstilte apparater, som omfattes av særskilte forskrifter som nevnt i § 7, skal forhandleren forsyne med en passende etikett på et lett synlig sted som bestemt i forskriftene, og på norsk.
+2. Leverandører skal kostnadsfritt levere de nødvendige etiketter til de omtalte forhandlere i bokstav a). Leverandørene kan fritt velge sin egen ordning for levering av etiketter. Anmoder en forhandler om å få levert etiketter, skal leverandørene imidlertid sørge for at etikettene blir raskt levert.
 
 ## § 14.
 
@@ -94,7 +112,15 @@ Nærings- og energidepartementet bestemmer hvem som skal være tilsynsmyndighet 
 
 ## § 17.
 
-De særskilte forskrifter skal angi følgende:Den nøyaktige definisjon av den type apparat som omfattes av forskriftene.De målestandarder og målemetoder som skal anvendes for å fremskaffe de opplysninger som er omhandlet i [§ 1](forskrift/1996-01-10-16/§1).Nærmere opplysninger om det tekniske dokumentasjonsmateriale som kreves i henhold til [§ 8](forskrift/1996-01-10-16/§8).Utforming og innhold av den etikett som er omhandlet i [§ 6](forskrift/1996-01-10-16/§6), som så vidt mulig skal ha en ensartet utforming.Det sted hvor etiketten skal festes på apparatet. Det kan bestemmes at etiketten skal festes eller trykkes på emballasjen.Innholdet, formatet og andre detaljer vedrørende opplysningsskjemaet eller de tilleggsopplysninger som er omhandlet i [§ 11](forskrift/1996-01-10-16/§11). Opplysningene på etiketten skal også inngå i opplysningsskjemaet.De opplysninger som skal gis i forbindelse med de former for salg som er angitt i [§ 14](forskrift/1996-01-10-16/§14), og den måten opplysningene skal gis på.
+De særskilte forskrifter skal angi følgende:
+
+1. Den nøyaktige definisjon av den type apparat som omfattes av forskriftene.
+2. De målestandarder og målemetoder som skal anvendes for å fremskaffe de opplysninger som er omhandlet i [§ 1](forskrift/1996-01-10-16/§1).
+3. Nærmere opplysninger om det tekniske dokumentasjonsmateriale som kreves i henhold til [§ 8](forskrift/1996-01-10-16/§8).
+4. Utforming og innhold av den etikett som er omhandlet i [§ 6](forskrift/1996-01-10-16/§6), som så vidt mulig skal ha en ensartet utforming.
+5. Det sted hvor etiketten skal festes på apparatet. Det kan bestemmes at etiketten skal festes eller trykkes på emballasjen.
+6. Innholdet, formatet og andre detaljer vedrørende opplysningsskjemaet eller de tilleggsopplysninger som er omhandlet i [§ 11](forskrift/1996-01-10-16/§11). Opplysningene på etiketten skal også inngå i opplysningsskjemaet.
+7. De opplysninger som skal gis i forbindelse med de former for salg som er angitt i [§ 14](forskrift/1996-01-10-16/§14), og den måten opplysningene skal gis på.
 
 ## § 18.
 

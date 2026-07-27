@@ -15,7 +15,7 @@ xml_hash: "076be4691def060d683fb850323ba16f47b3a8545407057dee41961bb9bd9f2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Formålet med forskriften er at arbeid organiseres og tilrettelegges slik at arbeidstakere sikres et fullt forsvarlig arbeidsmiljø beskyttet mot fysiske eller psykiske belastninger ved atkartlegging, risikovurdering og iverksetting av tiltak gjennomføres før aktiviteten igangsettes,arbeidstakerne og deres representanter sikres medvirkning,arbeidstakerne og deres representanter gis nødvendig informasjon og opplæring.
+Formålet med forskriften er at arbeid organiseres og tilrettelegges slik at arbeidstakere sikres et fullt forsvarlig arbeidsmiljø beskyttet mot fysiske eller psykiske belastninger ved at
+
+- kartlegging, risikovurdering og iverksetting av tiltak gjennomføres før aktiviteten igangsettes,
+- arbeidstakerne og deres representanter sikres medvirkning,
+- arbeidstakerne og deres representanter gis nødvendig informasjon og opplæring.
 
 ### § 1-2. Virkeområde
 
@@ -48,7 +52,35 @@ Forskriften [§ 14-3](forskrift/2011-12-06-1355/§14-3) gjelder leger i forbinde
 
 ### § 1-4. Definisjoner
 
-I denne forskriften menes med:*arbeidsplass:* ethvert sted, innendørs, utendørs eller under jord hvor det utføres arbeid av fast eller midlertidig karakter.*arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid.*asbest:* de fibrøse, krystallinske silikatmineralene krysotil (hvit asbest), krokidolitt (blå asbest), amositt (brun asbest), antofyllittasbest, tremolittasbest og aktinolittasbest.*bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold.*bygge- og anleggsvirksomhet:*oppføring av bygningerinnrednings-, utsmykkings-, og installasjonsarbeidmontering og demontering av prefabrikkerte elementerriving, demontering, ombygging og istandsettingsanering og vedlikeholdalminnelig anleggsvirksomhetgraving, sprenging og annet grunnarbeidannet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.*elektromagnetisk felt:* statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz.*hånd- og armsignal:* bevegelser eller innstillinger av armer eller hender, i kodet form, for å veilede personer som utfører arbeid som kan medføre fare for arbeidstakere.*ioniserende stråling:* stråling fra radioaktivt stoff, røntgenstråling og partikkelstråling.*kjemikalier:* grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke.*personlig verneutstyr:* alt utstyr inkludert tilbehør til utstyret, som bæres eller holdes av arbeidstaker for å verne arbeidstaker mot en eller flere farer som kan true vedkommendes sikkerhet og helse under arbeidet. Personlig verneutstyr omfatter ikke:alminnelig arbeidstøy og uniformer som ikke spesielt er beregnet til å beskytte arbeidstakernes sikkerhet og helsenødhjelp- og redningsutstyrselvforsvarsutstyrtransportabelt utstyr til sporing og lokalisering av farlige og skadelige faktorerpersonlig verneutstyr som brukes i henhold til krav i veitrafikkloven.*risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse.*sikkerhetsskilting og signalgivning:* anvendelse av skilt, farge, lyssignal, lydsignal, muntlig anvisning eller et hånd- og armsignal som henviser til en bestemt gjenstand, virksomhet eller situasjon og som gir opplysninger eller instruksjoner om hvordan personer skal forholde seg i forskjellige situasjoner av hensyn til sikkerhet og helse på arbeidsplassen. Definisjonen omfatter ikke skilting og signalgivning som reguleres av annen lovgivning eller i medhold av veg-, jernbane-, luft- eller sjøtransport eller transport på innenlandske sjøveier.
+I denne forskriften menes med:
+
+1. *arbeidsplass:* ethvert sted, innendørs, utendørs eller under jord hvor det utføres arbeid av fast eller midlertidig karakter.
+2. *arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid.
+3. *asbest:* de fibrøse, krystallinske silikatmineralene krysotil (hvit asbest), krokidolitt (blå asbest), amositt (brun asbest), antofyllittasbest, tremolittasbest og aktinolittasbest.
+4. *bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold.
+5. *bygge- og anleggsvirksomhet:*
+
+   - oppføring av bygninger
+   - innrednings-, utsmykkings-, og installasjonsarbeid
+   - montering og demontering av prefabrikkerte elementer
+   - riving, demontering, ombygging og istandsetting
+   - sanering og vedlikehold
+   - alminnelig anleggsvirksomhet
+   - graving, sprenging og annet grunnarbeid
+   - annet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.
+6. *elektromagnetisk felt:* statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz.
+7. *hånd- og armsignal:* bevegelser eller innstillinger av armer eller hender, i kodet form, for å veilede personer som utfører arbeid som kan medføre fare for arbeidstakere.
+8. *ioniserende stråling:* stråling fra radioaktivt stoff, røntgenstråling og partikkelstråling.
+9. *kjemikalier:* grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke.
+10. *personlig verneutstyr:* alt utstyr inkludert tilbehør til utstyret, som bæres eller holdes av arbeidstaker for å verne arbeidstaker mot en eller flere farer som kan true vedkommendes sikkerhet og helse under arbeidet. Personlig verneutstyr omfatter ikke:
+
+    - alminnelig arbeidstøy og uniformer som ikke spesielt er beregnet til å beskytte arbeidstakernes sikkerhet og helse
+    - nødhjelp- og redningsutstyr
+    - selvforsvarsutstyr
+    - transportabelt utstyr til sporing og lokalisering av farlige og skadelige faktorer
+    - personlig verneutstyr som brukes i henhold til krav i veitrafikkloven.
+11. *risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse.
+12. *sikkerhetsskilting og signalgivning:* anvendelse av skilt, farge, lyssignal, lydsignal, muntlig anvisning eller et hånd- og armsignal som henviser til en bestemt gjenstand, virksomhet eller situasjon og som gir opplysninger eller instruksjoner om hvordan personer skal forholde seg i forskjellige situasjoner av hensyn til sikkerhet og helse på arbeidsplassen. Definisjonen omfatter ikke skilting og signalgivning som reguleres av annen lovgivning eller i medhold av veg-, jernbane-, luft- eller sjøtransport eller transport på innenlandske sjøveier.
 
 > Endret ved [forskrift 21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016).
 
@@ -82,7 +114,10 @@ Verneombudet skal virke for gjennomføringen av arbeidsmiljølovens målsettinge
 
 Verneombudet har rett til å bruke den tid som er nødvendig for å utføre oppgavene på forsvarlig måte.
 
-I virksomhet som ikke har arbeidsmiljøutvalg, skal verneombudet også:vurdere og avgi uttalelse om saker som er nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2) (2) og (3).gjennomgå rapporter om yrkessykdommer, arbeidsulykker, yrkeshygieniske undersøkelser mv. som nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2) (4). Verneombudet skal i slike tilfelle ha samme adgang til Arbeidstilsynets og politiets etterforskningsdokumenter som arbeidsmiljøutvalget. Verneombudet skal medvirke til at årsaken til arbeidsulykker og yrkessykdommer søkes klarlagt og se til at arbeidsgiveren treffer tiltak for å hindre gjentakelse.
+I virksomhet som ikke har arbeidsmiljøutvalg, skal verneombudet også:
+
+1. vurdere og avgi uttalelse om saker som er nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2) (2) og (3).
+2. gjennomgå rapporter om yrkessykdommer, arbeidsulykker, yrkeshygieniske undersøkelser mv. som nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2) (4). Verneombudet skal i slike tilfelle ha samme adgang til Arbeidstilsynets og politiets etterforskningsdokumenter som arbeidsmiljøutvalget. Verneombudet skal medvirke til at årsaken til arbeidsulykker og yrkessykdommer søkes klarlagt og se til at arbeidsgiveren treffer tiltak for å hindre gjentakelse.
 
 > Endret ved [forskrifter 30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014), [24 feb 2014 nr. 210](forskrift/2014-02-24-210).
 
@@ -90,7 +125,14 @@ I virksomhet som ikke har arbeidsmiljøutvalg, skal verneombudet også:vurdere o
 
 Arbeidsmiljøutvalget er et besluttende og rådgivende organ som skal virke for gjennomføringen av arbeidsmiljølovgivningen i virksomheten.
 
-Foruten de oppgaver som er spesielt nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2), skalutvalget delta i å utarbeide en handlingsplan for verne- og miljøarbeidet i virksomheten,utvalget eller representanter for utvalget foreta befaringer i virksomheten for å kartlegge og vurdere behovet for verne- og miljøtiltak. Verneombud og arbeidsledere for de enkelte områder i virksomheten bør delta under befaringen av områder som de er verneombud eller arbeidsleder for,utvalget gi råd om prioritering av virksomhetens planer i arbeidsmiljøspørsmål og selv ta opp spørsmål om nye tiltak,utvalget fastsette retningslinjer for introduksjon av nye tilsatte arbeidstakere om det som gjelder verne- og miljøarbeidet i virksomheten og se til at arbeidsgiveren sørger for opplæring av nye tilsatte så snart som mulig etter tilsettingen,utvalget også arbeide for at de tilsatte i virksomheten får innsikt i arbeidsmiljøproblemer og søke deres medvirkning i verne- og miljøarbeidet.utvalget behandle arbeidsinstruks som skal utarbeides ved samtidig arbeid med cytostatika og ioniserende stråling, jf. [forskrift om utførelse av arbeid § 15-2](forskrift/2011-12-06-1357/§15-2).
+Foruten de oppgaver som er spesielt nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2), skal
+
+1. utvalget delta i å utarbeide en handlingsplan for verne- og miljøarbeidet i virksomheten,
+2. utvalget eller representanter for utvalget foreta befaringer i virksomheten for å kartlegge og vurdere behovet for verne- og miljøtiltak. Verneombud og arbeidsledere for de enkelte områder i virksomheten bør delta under befaringen av områder som de er verneombud eller arbeidsleder for,
+3. utvalget gi råd om prioritering av virksomhetens planer i arbeidsmiljøspørsmål og selv ta opp spørsmål om nye tiltak,
+4. utvalget fastsette retningslinjer for introduksjon av nye tilsatte arbeidstakere om det som gjelder verne- og miljøarbeidet i virksomheten og se til at arbeidsgiveren sørger for opplæring av nye tilsatte så snart som mulig etter tilsettingen,
+5. utvalget også arbeide for at de tilsatte i virksomheten får innsikt i arbeidsmiljøproblemer og søke deres medvirkning i verne- og miljøarbeidet.
+6. utvalget behandle arbeidsinstruks som skal utarbeides ved samtidig arbeid med cytostatika og ioniserende stråling, jf. [forskrift om utførelse av arbeid § 15-2](forskrift/2011-12-06-1357/§15-2).
 
 I slike tilfelle som nevnt i [arbeidsmiljøloven § 7-2](lov/2005-06-17-62/§7-2) (4), skal utvalget i alminnelighet ha adgang til Arbeidstilsynets og politiets etterforskningsdokumenter. Arbeidstilsynet eller politiet avgjør i hvilken utstrekning dokumenter skal framlegges. Opplysninger utvalget får fra Arbeidstilsynet eller politiet, skal utelukkende benyttes så langt det er nødvendig for å klarlegge årsaken til en arbeidsulykke.
 
@@ -226,7 +268,10 @@ Det skal skrives referat fra møtene i arbeidsmiljøutvalget. Ved avstemninger s
 
 ### § 3-17. Taushetsplikt for verneombud og medlemmer av arbeidsmiljøutvalg
 
-Verneombud, eller annen representant for arbeidstakerne der verneombud ikke er valgt, og medlemmer av arbeidsmiljøutvalg plikter å hindre at andre får adgang eller kjennskap til det de i forbindelse med utførelsen av oppgavene sine får vite om:noens personlige forhold, ellertekniske innretninger, produksjonsmetoder, forretningsmessige analyser og beregninger og forretningshemmeligheter ellers, når opplysningene er av en slik art at andre kan utnytte dem i sin egen næringsvirksomhet.
+Verneombud, eller annen representant for arbeidstakerne der verneombud ikke er valgt, og medlemmer av arbeidsmiljøutvalg plikter å hindre at andre får adgang eller kjennskap til det de i forbindelse med utførelsen av oppgavene sine får vite om:
+
+1. noens personlige forhold, eller
+2. tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og beregninger og forretningshemmeligheter ellers, når opplysningene er av en slik art at andre kan utnytte dem i sin egen næringsvirksomhet.
 
 Taushetsplikten gjelder ikke om de får samtykke fra virksomheten eller den opplysningene gjelder til å legge dem fram, eller dette er nødvendig for å informere berørte arbeidstakere eller medlemmer av virksomhetens organer om ulykkes- eller helsefare i virksomheten.
 
@@ -238,7 +283,14 @@ Er verneombudet, annen representant for arbeidstakerne der verneombud ikke er va
 
 ### § 3-18. Opplæring av verneombud og medlemmer av arbeidsmiljøutvalg
 
-Verneombud og medlemmer av arbeidsmiljøutvalg skal få den opplæring som er nødvendig for at de kan utføre sine verv på forsvarlig måte, jf. [arbeidsmiljøloven § 6-5](lov/2005-06-17-62/§6-5) første ledd og [§ 7-4](lov/2005-06-17-62/§7-4). Opplæringen skalgi deltakerne forståelse av hva fullt forsvarlig arbeidsmiljø innebærer på deres arbeidsplass, arbeidsgivers og arbeidstakers roller og ansvar samt arbeidsmiljøutvalgets, verneombudets, bedriftshelsetjenestens og Arbeidstilsynets rolle og oppgaver,gi deltakerne kunnskap om det løpende helse, miljø- og sikkerhetsarbeidet basert på bred medvirkning, god dokumentasjon og systematikk,gi deltakerne kunnskap til å gjennomføre en enkel risikovurdering av fysiske, psykososiale og organisatoriske forhold i arbeidsmiljøet,gjøre deltakerne i stand til å identifisere faktorer som fremmer eller hemmer et godt psykososialt og organisatorisk arbeidsmiljø i deres virksomhet,gjøre deltakerne i stand til å identifisere de viktigste fysiske arbeidsmiljøfaktorene på egen arbeidsplass for å kunne redusere og forebygge skader og ulykker, blant annet når det gjelder ergonomi, støy og inneklima,gi en innføring og orientering om arbeidsmiljøloven og andre aktuelle lover og regler.
+Verneombud og medlemmer av arbeidsmiljøutvalg skal få den opplæring som er nødvendig for at de kan utføre sine verv på forsvarlig måte, jf. [arbeidsmiljøloven § 6-5](lov/2005-06-17-62/§6-5) første ledd og [§ 7-4](lov/2005-06-17-62/§7-4). Opplæringen skal
+
+1. gi deltakerne forståelse av hva fullt forsvarlig arbeidsmiljø innebærer på deres arbeidsplass, arbeidsgivers og arbeidstakers roller og ansvar samt arbeidsmiljøutvalgets, verneombudets, bedriftshelsetjenestens og Arbeidstilsynets rolle og oppgaver,
+2. gi deltakerne kunnskap om det løpende helse, miljø- og sikkerhetsarbeidet basert på bred medvirkning, god dokumentasjon og systematikk,
+3. gi deltakerne kunnskap til å gjennomføre en enkel risikovurdering av fysiske, psykososiale og organisatoriske forhold i arbeidsmiljøet,
+4. gjøre deltakerne i stand til å identifisere faktorer som fremmer eller hemmer et godt psykososialt og organisatorisk arbeidsmiljø i deres virksomhet,
+5. gjøre deltakerne i stand til å identifisere de viktigste fysiske arbeidsmiljøfaktorene på egen arbeidsplass for å kunne redusere og forebygge skader og ulykker, blant annet når det gjelder ergonomi, støy og inneklima,
+6. gi en innføring og orientering om arbeidsmiljøloven og andre aktuelle lover og regler.
 
 Brukes det kjemiske stoffer eller biologisk materiale slik som nevnt i [arbeidsmiljøloven § 4-5](lov/2005-06-17-62/§4-5), skal det gis opplæring om de helsefarer stoffene kan medføre.
 
@@ -272,7 +324,12 @@ I virksomhet hvor det allerede er et samarbeidsorgan, kan arbeidsgiveren og loka
 
 Finnes det ingen lokal fagforening, eller organiserer fagforeningen et mindretall av arbeidstakerne, kan arbeidstakerne utpeke representanter som enten alene eller sammen med fagforeningen, slutter slik avtale med arbeidsgiveren.
 
-For at et annet samarbeidsorgan kan fungere som arbeidsmiljøutvalg, må følgende vilkår oppfylles:Arbeidsgiveren og arbeidstakerne skal ha like mange medlemmer i utvalget. Er andre grupper representert i utvalget, skal disse representantene ikke ha stemmerett i arbeidsmiljøsaker.Arbeidsgiveren må være representert slik som foreskrevet i [§ 3-7](forskrift/2011-12-06-1355/§3-7).Hovedverneombudet skal være medlem fra arbeidstakersiden, jf. [§ 3-7](forskrift/2011-12-06-1355/§3-7).Bedriftshelsetjenesten skal være representert uten stemmerett, jf. [§ 3-7](forskrift/2011-12-06-1355/§3-7).
+For at et annet samarbeidsorgan kan fungere som arbeidsmiljøutvalg, må følgende vilkår oppfylles:
+
+1. Arbeidsgiveren og arbeidstakerne skal ha like mange medlemmer i utvalget. Er andre grupper representert i utvalget, skal disse representantene ikke ha stemmerett i arbeidsmiljøsaker.
+2. Arbeidsgiveren må være representert slik som foreskrevet i [§ 3-7](forskrift/2011-12-06-1355/§3-7).
+3. Hovedverneombudet skal være medlem fra arbeidstakersiden, jf. [§ 3-7](forskrift/2011-12-06-1355/§3-7).
+4. Bedriftshelsetjenesten skal være representert uten stemmerett, jf. [§ 3-7](forskrift/2011-12-06-1355/§3-7).
 
 Kan kravene bli oppfylt ved supplering av utvalget, kan utvalget fungere som arbeidsmiljøutvalg når slik supplering skjer.
 
@@ -370,7 +427,11 @@ De regionale verneombudene plikter å gjøre seg kjent med de regler om sikkerhe
 
 ### § 6-1. Virkeområde
 
-Dette kapitlet gjelder for virksomhetersom har plikt til å ha serveringsbevilling etter [lov 13. juni 1997 nr. 55](lov/1997-06-13-55) om serveringsvirksomhet (serveringsloven) eller bevilling etter [lov 2. juni 1989 nr. 27](lov/1989-06-02-27) om omsetning av alkoholholdig drikk m.v. (alkoholloven),som har krav om å være godkjent av Arbeidstilsynet etter [forskrift 8. mai 2012 nr. 408](forskrift/2012-05-08-408) om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester,som tilbyr overnatting, herunder hotellvirksomhet, drift av vandrerhjem, ferieleiligheter, campingplasser og turisthytter.
+Dette kapitlet gjelder for virksomheter
+
+1. som har plikt til å ha serveringsbevilling etter [lov 13. juni 1997 nr. 55](lov/1997-06-13-55) om serveringsvirksomhet (serveringsloven) eller bevilling etter [lov 2. juni 1989 nr. 27](lov/1989-06-02-27) om omsetning av alkoholholdig drikk m.v. (alkoholloven),
+2. som har krav om å være godkjent av Arbeidstilsynet etter [forskrift 8. mai 2012 nr. 408](forskrift/2012-05-08-408) om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester,
+3. som tilbyr overnatting, herunder hotellvirksomhet, drift av vandrerhjem, ferieleiligheter, campingplasser og turisthytter.
 
 Dette kapitlet gjelder ikke for petroleumsvirksomheten, jf. [§ 1-2](forskrift/2011-12-06-1355/§1-2). Kapitlet gjelder også for virksomheter som ikke har arbeidstakere og virksomheter som leier ut arbeidstakere til virksomheter som er omfattet av denne bestemmelsens første ledd bokstav a–c.
 
@@ -426,7 +487,21 @@ Når det gjennomføres måling som grunnlag for risikovurdering, skal målemetod
 
 ### § 7-3. Tilleggskrav til risikovurderingen
 
-Risikovurdering skal gjennomføres i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) ved:bruk og håndtering av kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),utførelse av varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5),fare for eksponering for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),eksponering for forplantningsskadelige faktorer, jf. [kapittel 7](forskrift/2011-12-06-1357/kap7),eksponering for støy og mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14),eksponering for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16),eksponering for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A),utførelse av arbeid i høyden, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17),utførelse av gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21),utførelse av manuelt arbeid som kan innebære risiko for helseskadelig belastning, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23),arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3A](forskrift/2011-12-06-1357/kap3A)arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26),snøskredfare, jf. [kapittel 30](forskrift/2011-12-06-1357/kap30).
+Risikovurdering skal gjennomføres i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) ved:
+
+- bruk og håndtering av kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),
+- utførelse av varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5),
+- fare for eksponering for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),
+- eksponering for forplantningsskadelige faktorer, jf. [kapittel 7](forskrift/2011-12-06-1357/kap7),
+- eksponering for støy og mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14),
+- eksponering for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16),
+- eksponering for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A),
+- utførelse av arbeid i høyden, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17),
+- utførelse av gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21),
+- utførelse av manuelt arbeid som kan innebære risiko for helseskadelig belastning, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23),
+- arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3A](forskrift/2011-12-06-1357/kap3A)
+- arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26),
+- snøskredfare, jf. [kapittel 30](forskrift/2011-12-06-1357/kap30).
 
 > Endret ved [forskrifter 19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [22 des 2014 nr. 1884](forskrift/2014-12-22-1884) (i kraft 1 jan 2015), [21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016), [17 nov 2016 nr. 1337](forskrift/2016-11-17-1337) (i kraft 1 jan 2017), [15 des 2021 nr. 3601](forskrift/2021-12-15-3601) (i kraft 1 jan 2022), [16 des 2025 nr. 2617](forskrift/2025-12-16-2617) (i kraft 1 jan 2026).
 
@@ -448,7 +523,25 @@ Opplæringen skal gis på et språk som arbeidstakerne forstår.
 
 ### § 8-2. Kvalifikasjons- og tilleggskrav til opplæring
 
-Arbeidsgiveren skal sørge for opplæring i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) ved:arbeid med kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3)arbeid med asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4)varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5)arbeid med risiko for å bli utsatt for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6)arbeid ved avløpsanlegg, jf. [kapittel 8](forskrift/2011-12-06-1357/kap8)arbeid med arbeidsutstyr som krever særskilt forsiktighet, jf. [kapittel 10](forskrift/2011-12-06-1357/kap10)vedlikehold av arbeidsutstyr, jf. [kapittel 12](forskrift/2011-12-06-1357/kap12)arbeid med risiko for å bli utsatt for helseskadelig støy eller mekaniske vibrasjoner,jf. [kapittel 14](forskrift/2011-12-06-1357/kap14)arbeid med risiko for å bli utsatt for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16)montering, demontering, endring og kontroll av stillas, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17)arbeid med risiko for å bli utsatt for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A)gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21)sikkerhetsskilting og signalgivning, jf. [kapittel 22](forskrift/2011-12-06-1357/kap22)ergonomisk belastende arbeid, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23)arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3 A](forskrift/2011-12-06-1357/kap3A),arbeid med driftskontroll og sikkerhetsovervåking (kontrollrom), jf. [kapittel 24](forskrift/2011-12-06-1357/kap24)arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26).
+Arbeidsgiveren skal sørge for opplæring i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) ved:
+
+- arbeid med kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3)
+- arbeid med asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4)
+- varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5)
+- arbeid med risiko for å bli utsatt for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6)
+- arbeid ved avløpsanlegg, jf. [kapittel 8](forskrift/2011-12-06-1357/kap8)
+- arbeid med arbeidsutstyr som krever særskilt forsiktighet, jf. [kapittel 10](forskrift/2011-12-06-1357/kap10)
+- vedlikehold av arbeidsutstyr, jf. [kapittel 12](forskrift/2011-12-06-1357/kap12)
+- arbeid med risiko for å bli utsatt for helseskadelig støy eller mekaniske vibrasjoner,jf. [kapittel 14](forskrift/2011-12-06-1357/kap14)
+- arbeid med risiko for å bli utsatt for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16)
+- montering, demontering, endring og kontroll av stillas, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17)
+- arbeid med risiko for å bli utsatt for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A)
+- gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21)
+- sikkerhetsskilting og signalgivning, jf. [kapittel 22](forskrift/2011-12-06-1357/kap22)
+- ergonomisk belastende arbeid, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23)
+- arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3 A](forskrift/2011-12-06-1357/kap3A),
+- arbeid med driftskontroll og sikkerhetsovervåking (kontrollrom), jf. [kapittel 24](forskrift/2011-12-06-1357/kap24)
+- arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26).
 
 > Endret ved [forskrifter 19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014), [22 des 2014 nr. 1884](forskrift/2014-12-22-1884) (i kraft 1 jan 2015), [21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016), [17 nov 2016 nr. 1337](forskrift/2016-11-17-1337) (i kraft 1 jan 2017), [15 des 2021 nr. 3601](forskrift/2021-12-15-3601) (i kraft 1 jan 2022), [16 des 2025 nr. 2617](forskrift/2025-12-16-2617) (i kraft 1 jan 2026).
 
@@ -462,7 +555,19 @@ Informasjon skal være utformet på en slik måte at den er forståelig for den 
 
 ### § 9-2. Tilleggskrav om informasjon til arbeidstakerne
 
-Arbeidsgiveren skal sørge for å informere i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) vedarbeid med kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3)varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5)eksponering for forplantningsskadelige faktorer, jf. [kapittel 7](forskrift/2011-12-06-1357/kap7)arbeid med arbeidsutstyr som krever særskilt forsiktighet, jf. [kapittel 10](forskrift/2011-12-06-1357/kap10)arbeid med risiko for å bli utsatt for helseskadelig støy eller mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14)arbeid med risiko for å bli utsatt for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16)arbeid med risiko for å bli utsatt for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A)gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21)sikkerhetsskilting og signalgivning, jf. [kapittel 22](forskrift/2011-12-06-1357/kap22)ergonomisk belastende arbeid, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23)arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3A](forskrift/2011-12-06-1357/kap3A).
+Arbeidsgiveren skal sørge for å informere i samsvar med [forskrift om utførelse av arbeid](forskrift/2011-12-06-1357) ved
+
+- arbeid med kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3)
+- varmt arbeid, jf. [kapittel 5](forskrift/2011-12-06-1357/kap5)
+- eksponering for forplantningsskadelige faktorer, jf. [kapittel 7](forskrift/2011-12-06-1357/kap7)
+- arbeid med arbeidsutstyr som krever særskilt forsiktighet, jf. [kapittel 10](forskrift/2011-12-06-1357/kap10)
+- arbeid med risiko for å bli utsatt for helseskadelig støy eller mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14)
+- arbeid med risiko for å bli utsatt for kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16)
+- arbeid med risiko for å bli utsatt for elektromagnetisk felt, jf. [kapittel 16 A](forskrift/2011-12-06-1357/kap16A)
+- gravearbeid, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21)
+- sikkerhetsskilting og signalgivning, jf. [kapittel 22](forskrift/2011-12-06-1357/kap22)
+- ergonomisk belastende arbeid, jf. [kapittel 23](forskrift/2011-12-06-1357/kap23)
+- arbeid som kan medføre risiko for å bli utsatt for vold og trusler, jf. [kapittel 3A](forskrift/2011-12-06-1357/kap3A).
 
 > Endret ved [forskrifter 30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014), [21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016), [17 nov 2016 nr. 1337](forskrift/2016-11-17-1337) (i kraft 1 jan 2017), [15 des 2021 nr. 3601](forskrift/2021-12-15-3601) (i kraft 1 jan 2022), [16 des 2025 nr. 2617](forskrift/2025-12-16-2617) (i kraft 1 jan 2026).
 
@@ -470,13 +575,36 @@ Arbeidsgiveren skal sørge for å informere i samsvar med [forskrift om utførel
 
 ### § 10-1. Planlegging og tilrettelegging av arbeidet
 
-Arbeidsgiver skal planlegge arbeidet og kontrollere rutinene for det systematiske arbeidsmiljøarbeidet, slik at arbeidet kan utføres sikkert og helsemessig forsvarlig.Det skal iverksettes tiltak for å fjerne eller motvirke risikofaktorer. Tiltak for å redusere eksponering for risikofaktorer skal gjøres ved kilden så langt det er mulig.Kollektive vernetiltak skal prioriteres framfor personlige vernetiltak.Ved planlegging og tilrettelegging av arbeidet skal det tas hensyn til arbeidstakernes individuelle forutsetninger og behovet for variasjon i arbeidsoppgaver. Arbeidet skal tilrettelegges for den enkelte arbeidstaker slik at uheldige belastninger om mulig unngås.Forekomsten av helsefarlige kjemikalier og biologiske faktorer skal unngås. Dersom dette ikke lar seg gjennomføre, skal mengden reduseres så langt det er mulig. Antall arbeidstakere som eksponeres eller kan bli eksponert for helsefarlige kjemikalier eller biologiske faktorer skal være lavest mulig.Det skal opprettes stoffkartotek for de helsefarlige stoffene som håndteres i virksomheten.Ergonomiske prinsipper skal legges til grunn når det gjelder arbeidsstillinger og tilpassing til arbeidsplassen ved bruk av arbeidsutstyr. Arbeidsstillinger skal kunne varieres og statisk arbeid unngås. Arbeidet skal så langt mulig ikke innebære bevegelser eller stillinger som kan medføre helseskade.Arbeidet skal planlegges og gjennomføres på en slik måte at arbeidstakerne beskyttes mot støy, vibrasjoner og kunstig optisk stråling.Det skal treffes tiltak for å verne de arbeidstakerne som har adgang til faresoner.Det skal sørges for sikker atkomst der arbeidet er vanskelig tilgjengelig. Ved arbeid i høyden skal det om nødvendig tilrettelegges med arbeidsplattform eller stillas.Det skal utarbeides rutiner som sikrer at ferdselsveier og rømningsveier er åpne for fri ferdsel.Arbeidsplasser og arbeidslokaler skal holdes ryddige og forsvarlig rengjort.Det skal være hensiktsmessig førstehjelpsutstyr tilgjengelig på alle steder hvor arbeidsforholdene gjør det nødvendig.Arbeidstidsordninger skal legges opp slik at helse- og sikkerhetshensyn ivaretas.Arbeidet skal planlegges og gjennomføres på en slik måte at arbeidstakerne beskyttes mot vold og trusler så langt det er mulig.Arbeidet skal planlegges og gjennomføres på en slik måte at ikke andre som utfører arbeid på samme arbeidsplass utsettes for ulykkes- eller helsefare.
+Arbeidsgiver skal planlegge arbeidet og kontrollere rutinene for det systematiske arbeidsmiljøarbeidet, slik at arbeidet kan utføres sikkert og helsemessig forsvarlig.
+
+1. Det skal iverksettes tiltak for å fjerne eller motvirke risikofaktorer. Tiltak for å redusere eksponering for risikofaktorer skal gjøres ved kilden så langt det er mulig.
+2. Kollektive vernetiltak skal prioriteres framfor personlige vernetiltak.
+3. Ved planlegging og tilrettelegging av arbeidet skal det tas hensyn til arbeidstakernes individuelle forutsetninger og behovet for variasjon i arbeidsoppgaver. Arbeidet skal tilrettelegges for den enkelte arbeidstaker slik at uheldige belastninger om mulig unngås.
+4. Forekomsten av helsefarlige kjemikalier og biologiske faktorer skal unngås. Dersom dette ikke lar seg gjennomføre, skal mengden reduseres så langt det er mulig. Antall arbeidstakere som eksponeres eller kan bli eksponert for helsefarlige kjemikalier eller biologiske faktorer skal være lavest mulig.
+5. Det skal opprettes stoffkartotek for de helsefarlige stoffene som håndteres i virksomheten.
+6. Ergonomiske prinsipper skal legges til grunn når det gjelder arbeidsstillinger og tilpassing til arbeidsplassen ved bruk av arbeidsutstyr. Arbeidsstillinger skal kunne varieres og statisk arbeid unngås. Arbeidet skal så langt mulig ikke innebære bevegelser eller stillinger som kan medføre helseskade.
+7. Arbeidet skal planlegges og gjennomføres på en slik måte at arbeidstakerne beskyttes mot støy, vibrasjoner og kunstig optisk stråling.
+8. Det skal treffes tiltak for å verne de arbeidstakerne som har adgang til faresoner.
+9. Det skal sørges for sikker atkomst der arbeidet er vanskelig tilgjengelig. Ved arbeid i høyden skal det om nødvendig tilrettelegges med arbeidsplattform eller stillas.
+10. Det skal utarbeides rutiner som sikrer at ferdselsveier og rømningsveier er åpne for fri ferdsel.
+11. Arbeidsplasser og arbeidslokaler skal holdes ryddige og forsvarlig rengjort.
+12. Det skal være hensiktsmessig førstehjelpsutstyr tilgjengelig på alle steder hvor arbeidsforholdene gjør det nødvendig.
+13. Arbeidstidsordninger skal legges opp slik at helse- og sikkerhetshensyn ivaretas.
+14. Arbeidet skal planlegges og gjennomføres på en slik måte at arbeidstakerne beskyttes mot vold og trusler så langt det er mulig.
+15. Arbeidet skal planlegges og gjennomføres på en slik måte at ikke andre som utfører arbeid på samme arbeidsplass utsettes for ulykkes- eller helsefare.
 
 > Endret ved [forskrifter 30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014), [17 nov 2016 nr. 1337](forskrift/2016-11-17-1337) (i kraft 1 jan 2017), [20 des 2017 nr. 2352](forskrift/2017-12-20-2352) (i kraft 1 jan 2018), [16 des 2025 nr. 2617](forskrift/2025-12-16-2617) (i kraft 1 jan 2026).
 
 ### § 10-2. Forebygging av skader ved ergonomisk belastende arbeid
 
-Arbeidsgiver skal gjennomføre nødvendige tiltak for å fjerne eller redusere forekomsten av belastende og helseskadelig manuelt arbeid, herunder iverksette utviklingstiltak, jf. [§ 2-1](forskrift/2011-12-06-1355/§2-1) andre ledd. Tiltakene skal ta utgangspunkt i arbeidet som utføres og omfatte faktorer som:organisering av arbeidet,lokaler,inventar,utstyr, herunder tekniske hjelpemidler,samarbeidsrelasjoner, ogstyrings- og planleggingssystemer som bidrar til å påvirke arbeidstakt og arbeidsinnhold.
+Arbeidsgiver skal gjennomføre nødvendige tiltak for å fjerne eller redusere forekomsten av belastende og helseskadelig manuelt arbeid, herunder iverksette utviklingstiltak, jf. [§ 2-1](forskrift/2011-12-06-1355/§2-1) andre ledd. Tiltakene skal ta utgangspunkt i arbeidet som utføres og omfatte faktorer som:
+
+- organisering av arbeidet,
+- lokaler,
+- inventar,
+- utstyr, herunder tekniske hjelpemidler,
+- samarbeidsrelasjoner, og
+- styrings- og planleggingssystemer som bidrar til å påvirke arbeidstakt og arbeidsinnhold.
 
 ### § 10-3. Krav til valg av arbeidsutstyr
 
@@ -500,9 +628,17 @@ Når det er nødvendig, skal det utarbeides rutiner for kontroll og vedlikehold 
 
 Arbeidsgiver skal vurdere farlige forhold i virksomheten med sikte på å sørge for sikkerhetsskilting og signalgivning der hvor farene ikke kan unngås ved andre tiltak.
 
-Dersom virkningen er den samme, kan det velges mellom:lyssignal, lydsignaler eller muntlige anvisninger,hånd- og armsignaler eller muntlige anvisninger,en varselfarge eller sikkerhetsskilting for å angi steder hvor det er en hindring eller høydeforskjell.
+Dersom virkningen er den samme, kan det velges mellom:
 
-Signaler som kan brukes sammen:lyssignaler og lydsignaler,lyssignaler og muntlige anvisninger,hånd- og armsignaler og muntlige anvisninger.
+- lyssignal, lydsignaler eller muntlige anvisninger,
+- hånd- og armsignaler eller muntlige anvisninger,
+- en varselfarge eller sikkerhetsskilting for å angi steder hvor det er en hindring eller høydeforskjell.
+
+Signaler som kan brukes sammen:
+
+- lyssignaler og lydsignaler,
+- lyssignaler og muntlige anvisninger,
+- hånd- og armsignaler og muntlige anvisninger.
 
 ### § 10-6. Krav om varslings- og kommunikasjonsmidler
 
@@ -510,7 +646,12 @@ Dersom risikovurderingen tilsier at det kan bli behov for øyeblikkelig hjelp, s
 
 ### § 10-7. Krav til programvare og datasystemer
 
-Ved utarbeidelse, valg, innkjøp og endring av programvare og ved fastsettelse av oppgaver som medfører bruk av dataskjerm, skal arbeidsgiveren ta hensyn til følgende faktorer:programvaren skal være tilpasset oppgaven som skal utføres, og skal så langt som mulig være på norsk,programvaren skal være enkel å bruke og skal eventuelt kunne tilpasses brukerens kunnskaps- og erfaringsnivå, det kan ikke benyttes kvantitative eller kvalitative kontrollinnretninger uten at arbeidstakerne kjenner til dette,systemene skal gi arbeidstakerne opplysninger om arbeidets gang,systemene skal vise informasjon i et format og tempo som er tilpasset operatørene.
+Ved utarbeidelse, valg, innkjøp og endring av programvare og ved fastsettelse av oppgaver som medfører bruk av dataskjerm, skal arbeidsgiveren ta hensyn til følgende faktorer:
+
+1. programvaren skal være tilpasset oppgaven som skal utføres, og skal så langt som mulig være på norsk,
+2. programvaren skal være enkel å bruke og skal eventuelt kunne tilpasses brukerens kunnskaps- og erfaringsnivå, det kan ikke benyttes kvantitative eller kvalitative kontrollinnretninger uten at arbeidstakerne kjenner til dette,
+3. systemene skal gi arbeidstakerne opplysninger om arbeidets gang,
+4. systemene skal vise informasjon i et format og tempo som er tilpasset operatørene.
 
 ### § 10-8. Variasjon og hvile
 
@@ -520,11 +661,26 @@ Når arbeidets karakter tilsier det, som for eksempel arbeid ved dataskjerm, ska
 
 ### § 11-1. Gjennomgående krav til arbeidsinstruks for utførelse av arbeid og bruk av arbeidsutstyr
 
-Dersom utførelse av arbeid kan medføre særlig fare for skade på liv eller helse, skal arbeidsgiveren sørge for å utferdige skriftlig arbeidsinstruks for å sikre at:arbeidet kan utføres på en fullt forsvarlig måte,utførelsen av arbeid eller bruken av arbeidsutstyr begrenses til de personer som har gjennomgått nødvendig opplæring,de personer som skal utføre reparasjoner, ombygging eller vedlikehold, er spesielt utpekt til å utføre slikt arbeid, ogarbeidsutstyr som skal repareres, ikke tas i bruk dersom feilen, slitasjen eller skaden kan medføre fare ved bruk.
+Dersom utførelse av arbeid kan medføre særlig fare for skade på liv eller helse, skal arbeidsgiveren sørge for å utferdige skriftlig arbeidsinstruks for å sikre at:
+
+1. arbeidet kan utføres på en fullt forsvarlig måte,
+2. utførelsen av arbeid eller bruken av arbeidsutstyr begrenses til de personer som har gjennomgått nødvendig opplæring,
+3. de personer som skal utføre reparasjoner, ombygging eller vedlikehold, er spesielt utpekt til å utføre slikt arbeid, og
+4. arbeidsutstyr som skal repareres, ikke tas i bruk dersom feilen, slitasjen eller skaden kan medføre fare ved bruk.
 
 ### § 11-2. Tilleggskrav om arbeidsinstruks
 
-Det skal alltid foreligge skriftlig arbeidsinstruks i samsvar med forskrift om utførelse av arbeid ved:arbeid med asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),montering, demontering, endring og kontroll av stillas, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17)manuell høytrykkspyling med trykk over 250 bar, jf. [kapittel 20.](forskrift/2011-12-06-1357/kap20)gravearbeid dypere enn 1,25 meter, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21),arbeid med driftskontroll og sikkerhetsovervåking, jf. [kapittel 24,](forskrift/2011-12-06-1357/kap24)arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26)bergarbeid, jf [kapittel 27](forskrift/2011-12-06-1357/kap27),arbeid ved CO2-anlegg, jf. [kapittel 28,](forskrift/2011-12-06-1357/kap28)snøskredfare, jf [kapittel 30.](forskrift/2011-12-06-1357/kap30)
+Det skal alltid foreligge skriftlig arbeidsinstruks i samsvar med forskrift om utførelse av arbeid ved:
+
+- arbeid med asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),
+- montering, demontering, endring og kontroll av stillas, jf. [kapittel 17](forskrift/2011-12-06-1357/kap17)
+- manuell høytrykkspyling med trykk over 250 bar, jf. [kapittel 20.](forskrift/2011-12-06-1357/kap20)
+- gravearbeid dypere enn 1,25 meter, jf. [kapittel 21](forskrift/2011-12-06-1357/kap21),
+- arbeid med driftskontroll og sikkerhetsovervåking, jf. [kapittel 24,](forskrift/2011-12-06-1357/kap24)
+- arbeid under vann eller økt omgivende trykk, jf. [kapittel 26](forskrift/2011-12-06-1357/kap26)
+- bergarbeid, jf [kapittel 27](forskrift/2011-12-06-1357/kap27),
+- arbeid ved CO2-anlegg, jf. [kapittel 28,](forskrift/2011-12-06-1357/kap28)
+- snøskredfare, jf [kapittel 30.](forskrift/2011-12-06-1357/kap30)
 
 > Endret ved forskrifter [19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014), [21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016), [11 mars 2022 nr. 373](forskrift/2022-03-11-373).
 
@@ -536,7 +692,15 @@ Når personer under 18 år skal nyttes i arbeidet, skal arbeidsgiver foreta en v
 
 Risikovurderingen skal utføres før personer under 18 år tiltrer arbeidet og gjentas hver gang det skjer vesentlige endringer i arbeidsvilkårene.
 
-Risikovurderingen skal særlig ta utgangspunkt i:arbeidsstedets og arbeidsplassens utstyr og innredning,innretning, valg og bruk av arbeidsutstyr og maskiner, samt måten de håndteres på,arbeidsorganiseringen,art, grad og varighet av eksponering for fysiske, biologiske og kjemiske faktorer,uheldige psykiske belastninger som arbeidet kan medføre,arbeidsoperasjoner som kan overbelaste muskel- og skjelettsystemet,barns og unges nivå med hensyn til opplæring og instruksjon.
+Risikovurderingen skal særlig ta utgangspunkt i:
+
+1. arbeidsstedets og arbeidsplassens utstyr og innredning,
+2. innretning, valg og bruk av arbeidsutstyr og maskiner, samt måten de håndteres på,
+3. arbeidsorganiseringen,
+4. art, grad og varighet av eksponering for fysiske, biologiske og kjemiske faktorer,
+5. uheldige psykiske belastninger som arbeidet kan medføre,
+6. arbeidsoperasjoner som kan overbelaste muskel- og skjelettsystemet,
+7. barns og unges nivå med hensyn til opplæring og instruksjon.
 
 Arbeidsgiver skal iverksette nødvendige tiltak for å ivareta sikkerhet, helse og utvikling til personer under 18 år. Det skal tas særlig hensyn til deres manglende arbeidserfaring, at de ikke er oppmerksomme på eksisterende og potensiell risiko, eller at de ennå ikke er fullt utviklet.
 
@@ -558,11 +722,64 @@ Før barn som er under 15 år eller er skolepliktig settes til arbeid, skal arbe
 
 ### § 12-5. Begrensninger i arbeid av barn og ungdom
 
-Personer under 18 år skal ikke utføre arbeid somoverstiger deres fysiske eller psykiske yteevne,medfører eksponering for giftige eller kreftfremkallende faktorer, faktorer som forårsaker arvelige genetiske skader, faktorer som forårsaker fosterskader eller som på annen måte forårsaker kroniske skader for mennesker,medfører eksponering for skadelig stråling,innebærer fare for ulykke som det er rimelig å anta at personer under 18 år ikke kan gjenkjenne eller unngå på grunn av liten bevissthet om sikkerhet eller liten erfaring, opplæring eller øvelse.
+Personer under 18 år skal ikke utføre arbeid som
+
+1. overstiger deres fysiske eller psykiske yteevne,
+2. medfører eksponering for giftige eller kreftfremkallende faktorer, faktorer som forårsaker arvelige genetiske skader, faktorer som forårsaker fosterskader eller som på annen måte forårsaker kroniske skader for mennesker,
+3. medfører eksponering for skadelig stråling,
+4. innebærer fare for ulykke som det er rimelig å anta at personer under 18 år ikke kan gjenkjenne eller unngå på grunn av liten bevissthet om sikkerhet eller liten erfaring, opplæring eller øvelse.
 
 ### § 12-6. Forbud mot arbeid som kan medføre særlig fare for helseskade
 
-Personer under 18 år skal ikke utføre følgende typer arbeid:arbeid som medfører eksponering for ioniserende stråling,arbeid i hyperbarisk atmosfære, f.eks. i trykkamre og ved dykking,arbeid som medfører eksponering for biologiske faktorer i risikogruppe 3 og 4, jf. [forskrift om tiltaks- og grenseverdier kapittel 6](forskrift/2011-12-06-1358/kap6), og forskrift om utførelse av arbeid [kapittel 6](forskrift/2011-12-06-1357/kap6),arbeid som medfører eksponering for stoffer og stoffblandinger som oppfyller kriteriene for klassifisering etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) i en eller flere av følgende fareklasser og farekategorier med en eller flere av følgende faresetninger:akutt giftighet, kategori 1, 2 eller 3 (H300, H310, H330, H301, H311, H331),etsende for huden, kategori 1A, 1B eller 1C (H314),brannfarlige gasser, kategori 1 eller 2 (H220, H221),aerosoler, kategori 1 (H222),brannfarlige væsker, kategori 1 eller 2 (H224, H225),eksplosive varer, kategori «Ustabile eksplosive varer», eller eksplosive varer i gruppe 1.1, 1.2, 1.3, 1.4, 1.5 (H200), H201, H202, H203, H204, H205),selvreaktive stoffer og blandinger, type A, B, C eller D (H240, H241, H242),organiske peroksider, type A eller B (H240, H241),spesifikk målorgantoksisitet – enkelteksponering, kategori 1 eller 2 (H370, H371),spesifikk målorgantoksisitet – gjentatt eksponering, kategori 1 eller 2 (H372, H373),sensibiliserende ved innånding, kategori 1, underkategori 1A eller 1B (H334),sensibiliserende ved hudkontakt, kategori 1, underkategori 1A eller 1B (H317),kreftfremkallende egenskaper, kategori 1A, 1B eller 2 (H350, H350i, H351),kjønnscellemutagenitet, kategori 1A, 1B eller 2 (H340, H341) ogreproduksjonstoksisitet, kategori 1A eller 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).Dette gjelder enten stoffet eller stoffblandingen er klassifisert i medhold av nevnte forskrift eller ikke,arbeid som medfører eksponering for stoffer, stoffblandinger eller prosesser i følgende liste:arbeid som innebærer fremstilling av auramin,arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,arbeid som innebærer fremstilling av 2-propanol ved sterkt sur prosess,arbeid som medfører eksponering for støv fra harde tresorter,samt stoffer eller stoffblandinger som frigjøres i disse prosessene,arbeid som medfører eksponering for bly og blyforbindelser,arbeid som medfører eksponering for asbest og asbestholdig materiale,arbeid med framstilling og håndtering av fyrverkeri, samt objekter og maskiner som inneholder sprengstoff,arbeid med ville eller giftige dyr,arbeid med industriell slakting av dyr,arbeid som innebærer håndtering av utstyr til produksjon, oppbevaring eller anvendelse av komprimert, flytende eller oppløste gasser,arbeid i tanker, bassenger, reservoarer eller med analyseflasker som inneholder kjemikalier omhandlet i bokstavene d til g,arbeid som innebærer fare for sammenbrudd av byggverk eller ras,arbeid som innebærer fare for kontakt med høyspent elektrisitet,akkordarbeid der tempoet bestemmes av maskiner,arbeid som medfører helsefare på grunn av ekstrem kulde eller varme eller på grunn av støy eller vibrasjon,arbeid med kraner og løfte- og stablevogner for gods som nevnt i [forskrift om utførelse av arbeid § 10-3](forskrift/2011-12-06-1357/§10-3),arbeid med masseforflytningsmaskiner,arbeid med spikerpistoler,arbeid med boltpistoler.arbeid med væskestråleutstyr med arbeidstrykk over eller lik 250 bar (25 MPa).
+Personer under 18 år skal ikke utføre følgende typer arbeid:
+
+1. arbeid som medfører eksponering for ioniserende stråling,
+2. arbeid i hyperbarisk atmosfære, f.eks. i trykkamre og ved dykking,
+3. arbeid som medfører eksponering for biologiske faktorer i risikogruppe 3 og 4, jf. [forskrift om tiltaks- og grenseverdier kapittel 6](forskrift/2011-12-06-1358/kap6), og forskrift om utførelse av arbeid [kapittel 6](forskrift/2011-12-06-1357/kap6),
+4. arbeid som medfører eksponering for stoffer og stoffblandinger som oppfyller kriteriene for klassifisering etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) i en eller flere av følgende fareklasser og farekategorier med en eller flere av følgende faresetninger:
+
+   - akutt giftighet, kategori 1, 2 eller 3 (H300, H310, H330, H301, H311, H331),
+   - etsende for huden, kategori 1A, 1B eller 1C (H314),
+   - brannfarlige gasser, kategori 1 eller 2 (H220, H221),
+   - aerosoler, kategori 1 (H222),
+   - brannfarlige væsker, kategori 1 eller 2 (H224, H225),
+   - eksplosive varer, kategori «Ustabile eksplosive varer», eller eksplosive varer i gruppe 1.1, 1.2, 1.3, 1.4, 1.5 (H200), H201, H202, H203, H204, H205),
+   - selvreaktive stoffer og blandinger, type A, B, C eller D (H240, H241, H242),
+   - organiske peroksider, type A eller B (H240, H241),
+   - spesifikk målorgantoksisitet – enkelteksponering, kategori 1 eller 2 (H370, H371),
+   - spesifikk målorgantoksisitet – gjentatt eksponering, kategori 1 eller 2 (H372, H373),
+   - sensibiliserende ved innånding, kategori 1, underkategori 1A eller 1B (H334),
+   - sensibiliserende ved hudkontakt, kategori 1, underkategori 1A eller 1B (H317),
+   - kreftfremkallende egenskaper, kategori 1A, 1B eller 2 (H350, H350i, H351),
+   - kjønnscellemutagenitet, kategori 1A, 1B eller 2 (H340, H341) og
+   - reproduksjonstoksisitet, kategori 1A eller 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).
+
+   Dette gjelder enten stoffet eller stoffblandingen er klassifisert i medhold av nevnte forskrift eller ikke,
+5. arbeid som medfører eksponering for stoffer, stoffblandinger eller prosesser i følgende liste:
+
+   - arbeid som innebærer fremstilling av auramin,
+   - arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,
+   - arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,
+   - arbeid som innebærer fremstilling av 2-propanol ved sterkt sur prosess,
+   - arbeid som medfører eksponering for støv fra harde tresorter,
+
+   samt stoffer eller stoffblandinger som frigjøres i disse prosessene,
+6. arbeid som medfører eksponering for bly og blyforbindelser,
+7. arbeid som medfører eksponering for asbest og asbestholdig materiale,
+8. arbeid med framstilling og håndtering av fyrverkeri, samt objekter og maskiner som inneholder sprengstoff,
+9. arbeid med ville eller giftige dyr,
+10. arbeid med industriell slakting av dyr,
+11. arbeid som innebærer håndtering av utstyr til produksjon, oppbevaring eller anvendelse av komprimert, flytende eller oppløste gasser,
+12. arbeid i tanker, bassenger, reservoarer eller med analyseflasker som inneholder kjemikalier omhandlet i bokstavene d til g,
+13. arbeid som innebærer fare for sammenbrudd av byggverk eller ras,
+14. arbeid som innebærer fare for kontakt med høyspent elektrisitet,
+15. akkordarbeid der tempoet bestemmes av maskiner,
+16. arbeid som medfører helsefare på grunn av ekstrem kulde eller varme eller på grunn av støy eller vibrasjon,
+17. arbeid med kraner og løfte- og stablevogner for gods som nevnt i [forskrift om utførelse av arbeid § 10-3](forskrift/2011-12-06-1357/§10-3),
+18. arbeid med masseforflytningsmaskiner,
+19. arbeid med spikerpistoler,
+20. arbeid med boltpistoler.
+21. arbeid med væskestråleutstyr med arbeidstrykk over eller lik 250 bar (25 MPa).
 
 > Endret ved [forskrifter 19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [26 juni 2015 nr. 797](forskrift/2015-06-26-797), [21 juni 2016 nr. 758](forskrift/2016-06-21-758) (i kraft 1 juli 2016).
 
@@ -598,7 +815,16 @@ Barn som er under 15 år eller er skolepliktig kan utføre kulturelt, kunstneris
 
 ### § 12-9. Vilkår for å sette ungdom til arbeid om natten
 
-I følgende tilfeller er det tillatt at ungdom mellom 15 og 18 år som ikke er skolepliktig arbeider om natten, dersom arbeidet ikke er til skade for deres sikkerhet, helse eller utvikling:Kulturelt, kunstnerisk eller sportslig arbeid kan utføres fram til kl. 23.00.Arbeid på lærekontrakt i virksomheter innen hotell- og restaurantnæringen kan utføres fram til kl. 24.00 når det er nødvendig for betjening av gjester.Arbeid med salg eller ombæring av aviser kan utføres fra kl. 04.00.Arbeid på to skift i ikke-industriell virksomhet kan legges mellom kl. 06.00 og kl. 24.00. Unntaket omfatter ikke bygg- og anleggsvirksomhet og transportvirksomhet.Rengjøringsarbeid kan utføres fram til kl. 24.00 når arbeidet ikke kan drives uten at annet arbeid på arbeidsstedet avbrytes, og som på grunn av driftstida på arbeidsstedet må utføres om natten.Lett vakthold og portnerarbeid kan utføres mellom kl. 06.00 og kl. 24.00.Lett arbeid i virksomhet for syke- og pleiehjelp, samt i internat som er knyttet til internatskoler, barnehjem, barnehager o.l. kan utføres mellom kl. 06.00 og kl. 24.00.Lett arbeid ved sykehus eller liknende institusjoner kan utføres fram til kl. 06.00 av elever, lærlinger og lærekandidater i helsefagarbeider innen videregående opplæring. Arbeidet må inngå som ledd i den praktiske opplæringen i henhold til gjeldende læreplan.
+I følgende tilfeller er det tillatt at ungdom mellom 15 og 18 år som ikke er skolepliktig arbeider om natten, dersom arbeidet ikke er til skade for deres sikkerhet, helse eller utvikling:
+
+1. Kulturelt, kunstnerisk eller sportslig arbeid kan utføres fram til kl. 23.00.
+2. Arbeid på lærekontrakt i virksomheter innen hotell- og restaurantnæringen kan utføres fram til kl. 24.00 når det er nødvendig for betjening av gjester.
+3. Arbeid med salg eller ombæring av aviser kan utføres fra kl. 04.00.
+4. Arbeid på to skift i ikke-industriell virksomhet kan legges mellom kl. 06.00 og kl. 24.00. Unntaket omfatter ikke bygg- og anleggsvirksomhet og transportvirksomhet.
+5. Rengjøringsarbeid kan utføres fram til kl. 24.00 når arbeidet ikke kan drives uten at annet arbeid på arbeidsstedet avbrytes, og som på grunn av driftstida på arbeidsstedet må utføres om natten.
+6. Lett vakthold og portnerarbeid kan utføres mellom kl. 06.00 og kl. 24.00.
+7. Lett arbeid i virksomhet for syke- og pleiehjelp, samt i internat som er knyttet til internatskoler, barnehjem, barnehager o.l. kan utføres mellom kl. 06.00 og kl. 24.00.
+8. Lett arbeid ved sykehus eller liknende institusjoner kan utføres fram til kl. 06.00 av elever, lærlinger og lærekandidater i helsefagarbeider innen videregående opplæring. Arbeidet må inngå som ledd i den praktiske opplæringen i henhold til gjeldende læreplan.
 
 > Endret ved [forskrift 22 des 2014 nr. 1884](forskrift/2014-12-22-1884) (i kraft 1 jan 2015).
 
@@ -616,7 +842,14 @@ Ved virksomheter hvor det ikke er verneombud, skal arbeidstakernes representant 
 
 Arbeidsgiver som sysselsetter personer under 18 år skal føre liste over dem. Listeføring kan unnlates i virksomhet som sysselsetter mindre enn 20 arbeidstakere.
 
-Listen skal inneholde følgende opplysninger:arbeidstakerens navn, adresse og fødselsnummer,foresattes navn og adresse (for barn som er under 15 år eller er skolepliktig),arbeidets art,lengden på daglig arbeidstid, herunder arbeidstid hos andre arbeidsgivere, og på hvilken tid av døgnet arbeidet foregår,lengden på ordinær skoletid,tidspunkt for avvikling av fritid i sommerferien.
+Listen skal inneholde følgende opplysninger:
+
+1. arbeidstakerens navn, adresse og fødselsnummer,
+2. foresattes navn og adresse (for barn som er under 15 år eller er skolepliktig),
+3. arbeidets art,
+4. lengden på daglig arbeidstid, herunder arbeidstid hos andre arbeidsgivere, og på hvilken tid av døgnet arbeidet foregår,
+5. lengden på ordinær skoletid,
+6. tidspunkt for avvikling av fritid i sommerferien.
 
 Listen skal være tilgjengelig for Arbeidstilsynet og verneombud.
 
@@ -696,13 +929,26 @@ Listen over næringsgrupper i andre ledd skal gjennomgås og oppdateres hvert sj
 
 ### § 13-2. Arbeidsgivers bruk av bedriftshelsetjenesten
 
-Arbeidsgiver skal sørge for at bedriftshelsetjenestenbistår med løpende kartlegging av arbeidsmiljøet, foretar undersøkelser av arbeidsplassene og arbeidsprosessene og vurderer risiko for helsefare,fremmer forslag om forebyggende tiltak og sammen med virksomheten arbeider med tiltak som reduserer risikoen for helseskade forårsaket av arbeidet,bistår med planlegging og gjennomføring av fysiske og organisatoriske endringer i virksomheten, herunder etablering, vedlikehold og tilrettelegging av arbeidsplasser, lokaler, utstyr og arbeidsprosesser,bistår med utarbeidelse og endring av retningslinjer for bruk av kjemikalier, maskiner, og utstyr og øvrige arbeidsprosesser,bistår i arbeidet med å overvåke og kontrollere arbeidstakernes helse under hensyn til arbeidssituasjonen og foretar nødvendig oppfølging, i de tilfeller dette følger av lov eller forskrift, er begrunnet ut fra et arbeidshelseperspektiv, eller når virksomhetens risikovurdering tilsier det,bistår med individuell tilrettelegging, herunder med bistand i henhold til [arbeidsmiljøloven § 4-6](lov/2005-06-17-62/§4-6),bistår med informasjon og opplæring om relevant arbeidshelse-, arbeidsmiljø- og sikkerhetsrisiko og aktuelle tiltak,bistår ved henvendelser fra arbeidstaker, verneombud og arbeidsmiljøutvalg.
+Arbeidsgiver skal sørge for at bedriftshelsetjenesten
+
+1. bistår med løpende kartlegging av arbeidsmiljøet, foretar undersøkelser av arbeidsplassene og arbeidsprosessene og vurderer risiko for helsefare,
+2. fremmer forslag om forebyggende tiltak og sammen med virksomheten arbeider med tiltak som reduserer risikoen for helseskade forårsaket av arbeidet,
+3. bistår med planlegging og gjennomføring av fysiske og organisatoriske endringer i virksomheten, herunder etablering, vedlikehold og tilrettelegging av arbeidsplasser, lokaler, utstyr og arbeidsprosesser,
+4. bistår med utarbeidelse og endring av retningslinjer for bruk av kjemikalier, maskiner, og utstyr og øvrige arbeidsprosesser,
+5. bistår i arbeidet med å overvåke og kontrollere arbeidstakernes helse under hensyn til arbeidssituasjonen og foretar nødvendig oppfølging, i de tilfeller dette følger av lov eller forskrift, er begrunnet ut fra et arbeidshelseperspektiv, eller når virksomhetens risikovurdering tilsier det,
+6. bistår med individuell tilrettelegging, herunder med bistand i henhold til [arbeidsmiljøloven § 4-6](lov/2005-06-17-62/§4-6),
+7. bistår med informasjon og opplæring om relevant arbeidshelse-, arbeidsmiljø- og sikkerhetsrisiko og aktuelle tiltak,
+8. bistår ved henvendelser fra arbeidstaker, verneombud og arbeidsmiljøutvalg.
 
 > Endret ved forskrifter [19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [30 sep 2022 nr. 1687](forskrift/2022-09-30-1687) (i kraft 1 jan 2023).
 
 ### § 13-3. Planer, årsrapporter og meldinger
 
-Arbeidsgiver skal i samarbeid med bedriftshelsetjenesten utarbeide følgende dokumentasjon som skal inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid:planer og årsrapporter for bedriftshelsetjenestens bistand i virksomheten,periodevise meldinger og resultater av kartlegginger, risikovurderinger, målinger o.l. som beskriver helsefarlige arbeidsforhold, forslag til forebyggende tiltak og resultater,rutiner for utarbeidelse av oppfølgingsplaner og tilretteleggingstiltak
+Arbeidsgiver skal i samarbeid med bedriftshelsetjenesten utarbeide følgende dokumentasjon som skal inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid:
+
+1. planer og årsrapporter for bedriftshelsetjenestens bistand i virksomheten,
+2. periodevise meldinger og resultater av kartlegginger, risikovurderinger, målinger o.l. som beskriver helsefarlige arbeidsforhold, forslag til forebyggende tiltak og resultater,
+3. rutiner for utarbeidelse av oppfølgingsplaner og tilretteleggingstiltak
 
 > Endret ved [forskrift 30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014).
 
@@ -714,7 +960,17 @@ Arbeidsgiver skal i samarbeid med bedriftshelsetjenesten utarbeide følgende dok
 
 Når risikoforholdene tilsier det, skal arbeidsgiver sørge for fullgod helseovervåkning.
 
-Egnet helseundersøkelse av arbeidstakere skal alltid gjennomføres i samsvar med forskrift om utførelse av arbeid når arbeidstakerne utsettes for:farlige kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),støv med asbestfiber, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),støy eller mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14),ioniserende stråling, jf. [kapittel 15](forskrift/2011-12-06-1357/kap15),kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16),elektromagnetisk felt, jf. [kapittel 16 A,](forskrift/2011-12-06-1357/kap16a)arbeid under vann eller økt omgivende trykk, jf. [kapittel 26,](forskrift/2011-12-06-1357/kap26)gass, støv eller andre helseskadelige forhold ved bergarbeid, jf. [kapittel 27.](forskrift/2011-12-06-1357/kap27)
+Egnet helseundersøkelse av arbeidstakere skal alltid gjennomføres i samsvar med forskrift om utførelse av arbeid når arbeidstakerne utsettes for:
+
+- farlige kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),
+- støv med asbestfiber, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),
+- biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),
+- støy eller mekaniske vibrasjoner, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14),
+- ioniserende stråling, jf. [kapittel 15](forskrift/2011-12-06-1357/kap15),
+- kunstig optisk stråling, jf. [kapittel 16](forskrift/2011-12-06-1357/kap16),
+- elektromagnetisk felt, jf. [kapittel 16 A,](forskrift/2011-12-06-1357/kap16a)
+- arbeid under vann eller økt omgivende trykk, jf. [kapittel 26,](forskrift/2011-12-06-1357/kap26)
+- gass, støv eller andre helseskadelige forhold ved bergarbeid, jf. [kapittel 27.](forskrift/2011-12-06-1357/kap27)
 
 Egnet helseundersøkelse etter andre ledd skal utføres av, eller under kontroll av kompetent lege.
 
@@ -732,7 +988,11 @@ Legers meldeplikt til Arbeidstilsynet gjelder tilsvarende for virksomhet innen b
 
 ### § 14-4. Undersøkelse av arbeidstakeres syn ved arbeid ved dataskjerm
 
-Arbeidstakerne som jevnlig og som en betydelig del av sitt arbeid arbeider ved dataskjerm, skal få tilbud om undersøkelse av øyne og syn foretatt av en person med nødvendige kvalifikasjoner:før de begynner arbeid ved dataskjermen,om nødvendig med jevne mellomrom i tiden deretter ogdersom de får synsproblemer som kan skyldes arbeidet ved dataskjermen.
+Arbeidstakerne som jevnlig og som en betydelig del av sitt arbeid arbeider ved dataskjerm, skal få tilbud om undersøkelse av øyne og syn foretatt av en person med nødvendige kvalifikasjoner:
+
+- før de begynner arbeid ved dataskjermen,
+- om nødvendig med jevne mellomrom i tiden deretter og
+- dersom de får synsproblemer som kan skyldes arbeidet ved dataskjermen.
 
 Arbeidstakerne skal ha rett til undersøkelse hos øyespesialist dersom utfallet av undersøkelsen og prøvene nevnt i første ledd gjør det nødvendig.
 
@@ -764,7 +1024,12 @@ Krav i bestemmelsen gjelder også virksomheter som ikke sysselsetter arbeidstake
 
 ### § 15-2. Tilleggskrav til personlig verneutstyr
 
-Arbeidsgiver skal sørge for personlig verneutstyr i samsvar med forskrift om utførelse av arbeid ved arbeid med:kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),risiko for å bli utsatt for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),risiko for å bli utsatt for helseskadelig støy, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14).
+Arbeidsgiver skal sørge for personlig verneutstyr i samsvar med forskrift om utførelse av arbeid ved arbeid med:
+
+- kjemikalier, jf. [kapittel 3](forskrift/2011-12-06-1357/kap3),
+- asbest, jf. [kapittel 4](forskrift/2011-12-06-1357/kap4),
+- risiko for å bli utsatt for biologiske faktorer, jf. [kapittel 6](forskrift/2011-12-06-1357/kap6),
+- risiko for å bli utsatt for helseskadelig støy, jf. [kapittel 14](forskrift/2011-12-06-1357/kap14).
 
 Arbeidsgiver skal om nødvendig sørge for hensiktsmessig arbeidstøy før håndtering av farlig last ved havnearbeid.
 
@@ -774,7 +1039,12 @@ Arbeidsgiver skal om nødvendig sørge for hensiktsmessig arbeidstøy før hånd
 
 Arbeidsgiver skal sørge for at personlig verneutstyr som stilles til rådighet for arbeidstaker, oppfyller kravene gitt i [forskrift 22. juni 2018 nr. 1019 om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)](forskrift/2018-06-22-1019), og dermed er merket med CE-merket. For petroleumsvirksomheten til havs gjelder likevel ikke denne forskrifts § 49 nr. 2, jf. [innretningsforskriften § 75](forskrift/2010-04-29-634/§75) annet ledd.
 
-Arbeidsgiver skal sørge for at personlig verneutstyr som anvendes på arbeidsplassen til enhver tid gir fullt forsvarlig vern. Arbeidsgiver skal særlig påse at personlig verneutstyrikke medfører økt risiko ved brukpasser eller kan tilpasses arbeidstakerer tilpasset de aktuelle arbeidsforholdat verneutstyret ikke lett antennes eller smelter der det foreligger slik risiko.
+Arbeidsgiver skal sørge for at personlig verneutstyr som anvendes på arbeidsplassen til enhver tid gir fullt forsvarlig vern. Arbeidsgiver skal særlig påse at personlig verneutstyr
+
+- ikke medfører økt risiko ved bruk
+- passer eller kan tilpasses arbeidstaker
+- er tilpasset de aktuelle arbeidsforhold
+- at verneutstyret ikke lett antennes eller smelter der det foreligger slik risiko.
 
 Hvis arbeidstaker må bruke flere forskjellige typer verneutstyr samtidig, skal utstyret kunne kombineres uten at det enkelte utstyrs verneeffekt nedsettes.
 
@@ -804,6 +1074,55 @@ Dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelse
 
 Denne forskriften trer i kraft 1. januar 2013.
 
-Fra samme dato oppheves[Forskrift 14. juni 1985 nr. 1410](forskrift/1985-06-14-1410) om arbeid i tanker[Forskrift 19. november 1985 nr. 2105](forskrift/1985-11-19-2105) om graving og avstivning av grøfter[Forskrift 14. juni 1985 nr. 1157](forskrift/1985-06-14-1157) om arbeid med ioniserende stråling[Forskrift 10. september 1982 nr. 1377](forskrift/1982-09-10-1377) om tekniske innretninger[Forskrift 1. november 1966 nr. 9192](forskrift/1966-11-01-9192) om førervern på traktor[Forskrift 26. april 2005 nr. 362](forskrift/2005-04-26-362) om asbest[Forskrift 4. april 1973 nr. 1](forskrift/1973-04-04-1) om installasjon av nytt CO2-anlegg[Forskrift 18. april 1974 nr. 3](forskrift/1974-04-18-3) om snøskredfare ved oppholds- og anleggssteder[Forskrift 20. april 1977 nr. 9193](forskrift/1977-04-20-9193) om traktorer[Forskrift 29. april 1977 nr. 7](forskrift/1977-04-29-7) om verneombud og arbeidsmiljøutvalg[Forskrift 25. mai 1977 nr. 2](forskrift/1977-05-25-2) om Arbeidstilsynets samtykke ved oppføring av bygning, bygningsmessige endringer, omorganisering m.v.[Forskrift 25. september 1978 nr. 5](forskrift/1978-09-25-5) om kvilekoier[Forskrift 7. desember 1979 nr. 7](forskrift/1979-12-07-7) om tilsetting av luktestoff til oksygen (odorering) ved sveising, brenning og varmebehandling[Forskrift 14. juni 1985 nr. 1411](forskrift/1985-06-14-1411) om arbeid på tankfartøy beskyttet med nøytralgass i lastetankene[Forskrift 26. april 2006 nr. 456](forskrift/2006-04-26-456) om vern mot støy på arbeidsplassen[Forskrift 19. september 1997 nr. 1018](forskrift/1997-09-19-1018) om regionale verneombud for bygge- og anleggsvirksomhet[Forskrift 15. november 1983 nr. 1674](forskrift/1983-11-15-1674) om kontroll, merking og fylling av trykkluftflasker til dykking og åndedrettsvern[Forskrift 21. mars 1986 nr. 745](forskrift/1986-03-21-745) om arbeidsmiljølovens anvendelse på virksomhet i jordbruk og skogbruk som ikke sysselsetter arbeidstaker[Forskrift 10. januar 1986 nr. 17](forskrift/1986-01-10-17) om arbeidsmiljølovens anvendelse for arbeid i enmannsbedrifter innen bygge- og anleggsvirksomhet[Forskrift 11. april 1986 nr. 870](forskrift/1986-04-11-870) om lokale verneombud og arbeidsmiljøutvalg for losse- og lastearbeid[Forskrift 25. januar 2005 nr. 47](forskrift/2005-01-25-47) om løselig seksverdig krom i sement[Forskrift 14. april 1989 nr. 335](forskrift/1989-04-14-335) om stillaser, stiger og arbeid på tak m.m.[Forskrift 11. februar 2009 nr. 162](forskrift/2009-02-11-162) om at virksomheter innen visse bransjer skal ha godkjent bedriftshelsetjeneste[Forskrift 30. november 1990 nr. 944](forskrift/1990-11-30-944) om dykking[Forskrift 13. februar 1992 nr. 1263](forskrift/1992-02-13-1263) om høytrykksspyling m.m.[Forskrift 24. mai 1993 nr. 1425](forskrift/1993-05-24-1425) om bruk av personlig verneutstyr på arbeidsplassen[Forskrift 16. september 1994 nr. 876](forskrift/1994-09-16-876) om førervern på gamle traktorer[Forskrift 6. oktober 1994 nr. 972](forskrift/1994-10-06-972) om sikkerhetsskilting og signalgivning på arbeidsplassen[Forskrift 10. november 1994 nr. 1053](forskrift/1994-11-10-1053) om havnearbeid[Forskrift 15. desember 1994 nr. 1259](forskrift/1994-12-15-1259) om arbeid ved dataskjerm[Forskrift 16. februar 1995 nr. 170](forskrift/1995-02-16-170) om arbeidsplasser og arbeidslokaler[Forskrift 20. januar 1995 nr. 156](forskrift/1995-01-20-156) om tungt og ensformig arbeid[Forskrift 20. april 1995 nr. 385](forskrift/1995-04-20-385) om arbeid i kontrollrom[Forskrift 25. august 1995 nr. 768](forskrift/1995-08-25-768) om forplantningsskader og arbeidsmiljø[Forskrift 16. desember 1996 nr. 1315](forskrift/1996-12-16-1315) om arbeid ved avløpsanlegg[Forskrift 30. juni 2005 nr. 794](forskrift/2005-06-30-794) om sikkerhet, helse og arbeidsmiljø ved bergarbeid[Forskrift 19. desember 1997 nr. 1322](forskrift/1997-12-19-1322) om vern mot eksponering for biologiske faktorer (bakterier, virus, sopp m.m.) på arbeidsplassen[Forskrift 26. februar 1998 nr. 179](forskrift/1998-02-26-179) om sveising, termisk skjæring, termisk sprøyting, kullbuemeisling, lodding og sliping (varmt arbeid)[Forskrift 30. april 1998 nr. 551](forskrift/1998-04-30-551) om arbeid av barn og ungdom[Forskrift 26. juni 1998 nr. 608](forskrift/1998-06-26-608) om bruk av arbeidsutstyr[Forskrift 18. desember 1998 nr. 1206](forskrift/1998-12-18-1206) om gebyr for byggesaksbehandling etter arbeidsmiljøloven § 19[Forskrift 14. april 2000 nr. 412](forskrift/2000-04-14-412) om oppbygging og bruk av stoffkartotek for helsefarlige stoffer i virksomheter (Stoffkartotekforskriften)[Forskrift 30. april 2001 nr. 443](forskrift/2001-04-30-443) om vern mot eksponering for kjemikalier på arbeidsplassen (kjemikalieforskriften)[Forskrift 6. juli 2005 nr. 804](forskrift/2005-07-06-804) om vern mot mekaniske vibrasjoner[Forskrift 10. september 2009 nr. 1173](forskrift/2009-09-10-1173) om arbeidsgivers bruk av godkjent bedriftshelsetjeneste og om godkjenning av bedriftshelsetjeneste[Forskrift 27. april 2010 nr. 605](forskrift/2010-04-27-605) om vern mot kunstig optisk stråling på arbeidsplassen[Forskrift 16. november 2010 nr. 1452](forskrift/2010-11-16-1452) om regionale verneombud for visse bransjer.[Forskrift 2. juni 1977 nr. 3219](forskrift/1977-06-02-3219) om maskiner, redskap og verktøy.
+Fra samme dato oppheves
+
+- [Forskrift 14. juni 1985 nr. 1410](forskrift/1985-06-14-1410) om arbeid i tanker
+- [Forskrift 19. november 1985 nr. 2105](forskrift/1985-11-19-2105) om graving og avstivning av grøfter
+- [Forskrift 14. juni 1985 nr. 1157](forskrift/1985-06-14-1157) om arbeid med ioniserende stråling
+- [Forskrift 10. september 1982 nr. 1377](forskrift/1982-09-10-1377) om tekniske innretninger
+- [Forskrift 1. november 1966 nr. 9192](forskrift/1966-11-01-9192) om førervern på traktor
+- [Forskrift 26. april 2005 nr. 362](forskrift/2005-04-26-362) om asbest
+- [Forskrift 4. april 1973 nr. 1](forskrift/1973-04-04-1) om installasjon av nytt CO2-anlegg
+- [Forskrift 18. april 1974 nr. 3](forskrift/1974-04-18-3) om snøskredfare ved oppholds- og anleggssteder
+- [Forskrift 20. april 1977 nr. 9193](forskrift/1977-04-20-9193) om traktorer
+- [Forskrift 29. april 1977 nr. 7](forskrift/1977-04-29-7) om verneombud og arbeidsmiljøutvalg
+- [Forskrift 25. mai 1977 nr. 2](forskrift/1977-05-25-2) om Arbeidstilsynets samtykke ved oppføring av bygning, bygningsmessige endringer, omorganisering m.v.
+- [Forskrift 25. september 1978 nr. 5](forskrift/1978-09-25-5) om kvilekoier
+- [Forskrift 7. desember 1979 nr. 7](forskrift/1979-12-07-7) om tilsetting av luktestoff til oksygen (odorering) ved sveising, brenning og varmebehandling
+- [Forskrift 14. juni 1985 nr. 1411](forskrift/1985-06-14-1411) om arbeid på tankfartøy beskyttet med nøytralgass i lastetankene
+- [Forskrift 26. april 2006 nr. 456](forskrift/2006-04-26-456) om vern mot støy på arbeidsplassen
+- [Forskrift 19. september 1997 nr. 1018](forskrift/1997-09-19-1018) om regionale verneombud for bygge- og anleggsvirksomhet
+- [Forskrift 15. november 1983 nr. 1674](forskrift/1983-11-15-1674) om kontroll, merking og fylling av trykkluftflasker til dykking og åndedrettsvern
+- [Forskrift 21. mars 1986 nr. 745](forskrift/1986-03-21-745) om arbeidsmiljølovens anvendelse på virksomhet i jordbruk og skogbruk som ikke sysselsetter arbeidstaker
+- [Forskrift 10. januar 1986 nr. 17](forskrift/1986-01-10-17) om arbeidsmiljølovens anvendelse for arbeid i enmannsbedrifter innen bygge- og anleggsvirksomhet
+- [Forskrift 11. april 1986 nr. 870](forskrift/1986-04-11-870) om lokale verneombud og arbeidsmiljøutvalg for losse- og lastearbeid
+- [Forskrift 25. januar 2005 nr. 47](forskrift/2005-01-25-47) om løselig seksverdig krom i sement
+- [Forskrift 14. april 1989 nr. 335](forskrift/1989-04-14-335) om stillaser, stiger og arbeid på tak m.m.
+- [Forskrift 11. februar 2009 nr. 162](forskrift/2009-02-11-162) om at virksomheter innen visse bransjer skal ha godkjent bedriftshelsetjeneste
+- [Forskrift 30. november 1990 nr. 944](forskrift/1990-11-30-944) om dykking
+- [Forskrift 13. februar 1992 nr. 1263](forskrift/1992-02-13-1263) om høytrykksspyling m.m.
+- [Forskrift 24. mai 1993 nr. 1425](forskrift/1993-05-24-1425) om bruk av personlig verneutstyr på arbeidsplassen
+- [Forskrift 16. september 1994 nr. 876](forskrift/1994-09-16-876) om førervern på gamle traktorer
+- [Forskrift 6. oktober 1994 nr. 972](forskrift/1994-10-06-972) om sikkerhetsskilting og signalgivning på arbeidsplassen
+- [Forskrift 10. november 1994 nr. 1053](forskrift/1994-11-10-1053) om havnearbeid
+- [Forskrift 15. desember 1994 nr. 1259](forskrift/1994-12-15-1259) om arbeid ved dataskjerm
+- [Forskrift 16. februar 1995 nr. 170](forskrift/1995-02-16-170) om arbeidsplasser og arbeidslokaler
+- [Forskrift 20. januar 1995 nr. 156](forskrift/1995-01-20-156) om tungt og ensformig arbeid
+- [Forskrift 20. april 1995 nr. 385](forskrift/1995-04-20-385) om arbeid i kontrollrom
+- [Forskrift 25. august 1995 nr. 768](forskrift/1995-08-25-768) om forplantningsskader og arbeidsmiljø
+- [Forskrift 16. desember 1996 nr. 1315](forskrift/1996-12-16-1315) om arbeid ved avløpsanlegg
+- [Forskrift 30. juni 2005 nr. 794](forskrift/2005-06-30-794) om sikkerhet, helse og arbeidsmiljø ved bergarbeid
+- [Forskrift 19. desember 1997 nr. 1322](forskrift/1997-12-19-1322) om vern mot eksponering for biologiske faktorer (bakterier, virus, sopp m.m.) på arbeidsplassen
+- [Forskrift 26. februar 1998 nr. 179](forskrift/1998-02-26-179) om sveising, termisk skjæring, termisk sprøyting, kullbuemeisling, lodding og sliping (varmt arbeid)
+- [Forskrift 30. april 1998 nr. 551](forskrift/1998-04-30-551) om arbeid av barn og ungdom
+- [Forskrift 26. juni 1998 nr. 608](forskrift/1998-06-26-608) om bruk av arbeidsutstyr
+- [Forskrift 18. desember 1998 nr. 1206](forskrift/1998-12-18-1206) om gebyr for byggesaksbehandling etter arbeidsmiljøloven § 19
+- [Forskrift 14. april 2000 nr. 412](forskrift/2000-04-14-412) om oppbygging og bruk av stoffkartotek for helsefarlige stoffer i virksomheter (Stoffkartotekforskriften)
+- [Forskrift 30. april 2001 nr. 443](forskrift/2001-04-30-443) om vern mot eksponering for kjemikalier på arbeidsplassen (kjemikalieforskriften)
+- [Forskrift 6. juli 2005 nr. 804](forskrift/2005-07-06-804) om vern mot mekaniske vibrasjoner
+- [Forskrift 10. september 2009 nr. 1173](forskrift/2009-09-10-1173) om arbeidsgivers bruk av godkjent bedriftshelsetjeneste og om godkjenning av bedriftshelsetjeneste
+- [Forskrift 27. april 2010 nr. 605](forskrift/2010-04-27-605) om vern mot kunstig optisk stråling på arbeidsplassen
+- [Forskrift 16. november 2010 nr. 1452](forskrift/2010-11-16-1452) om regionale verneombud for visse bransjer.
+- [Forskrift 2. juni 1977 nr. 3219](forskrift/1977-06-02-3219) om maskiner, redskap og verktøy.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1371](forskrift/2012-12-19-1371) (i kraft 1 jan 2013), [30 des 2013 nr. 1695](forskrift/2013-12-30-1695) (i kraft 1 jan 2014, tidligere § 16-2).

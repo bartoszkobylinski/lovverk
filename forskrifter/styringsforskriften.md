@@ -52,7 +52,11 @@ De løsningene og barrierene som har størst risikoreduserende effekt, skal velg
 
 ### § 5. Barrierer
 
-Det skal etableres barrierer som til enhver tid kanidentifisere tilstander som kan føre til feil, fare- og ulykkessituasjoner,redusere muligheten for at feil, fare- og ulykkessituasjoner oppstår og utvikler seg,begrense mulige skader og ulemper.
+Det skal etableres barrierer som til enhver tid kan
+
+1. identifisere tilstander som kan føre til feil, fare- og ulykkessituasjoner,
+2. redusere muligheten for at feil, fare- og ulykkessituasjoner oppstår og utvikler seg,
+3. begrense mulige skader og ulemper.
 
 Der det er nødvendig med flere barrierer, skal det være tilstrekkelig uavhengighet mellom barrierene.
 
@@ -94,7 +98,12 @@ Operatøren skal sikre at det er samsvar mellom egne krav og mellom egne og andr
 
 Operatøren og den som står for driften av en flyttbar innretning, skal sette akseptkriterier for storulykkesrisiko og for miljørisiko knyttet til akutt forurensning.
 
-Akseptkriterier skal settes forpersonellet på innretningen eller landanlegget som helhet, og for personellgrupper som er spesielt risikoutsatt,bortfall av hovedsikkerhetsfunksjoner for petroleumsvirksomhet til havs,akutt forurensning fra innretningen eller landanlegget,skade på tredjepart.
+Akseptkriterier skal settes for
+
+1. personellet på innretningen eller landanlegget som helhet, og for personellgrupper som er spesielt risikoutsatt,
+2. bortfall av hovedsikkerhetsfunksjoner for petroleumsvirksomhet til havs,
+3. akutt forurensning fra innretningen eller landanlegget,
+4. skade på tredjepart.
 
 Akseptkriteriene skal nyttes ved vurdering av resultater fra risikoanalyser, jf. [§ 17](forskrift/2010-04-29-611/§17). Jf. også [rammeforskriften § 11](forskrift/2010-02-12-158/§11).
 
@@ -138,7 +147,10 @@ Arbeidsprosesser og grenseflater mellom disse som er av betydning for helse, mil
 
 Den ansvarlige skal sikre tilstrekkelig bemanning og kompetanse i alle faser av virksomheten, jf. [rammeforskriften § 12](forskrift/2010-02-12-158/§12).
 
-Det skal settes minimumskrav til bemanning og kompetanse for å ivareta funksjonerder feilhandlinger kan få store konsekvenser for helse, miljø eller sikkerhet,som skal redusere sannsynligheten for at feil og fare- og ulykkessituasjoner utvikler seg, jf. [§ 4](forskrift/2010-04-29-611/§4) og [§ 13](forskrift/2010-04-29-611/§13).
+Det skal settes minimumskrav til bemanning og kompetanse for å ivareta funksjoner
+
+1. der feilhandlinger kan få store konsekvenser for helse, miljø eller sikkerhet,
+2. som skal redusere sannsynligheten for at feil og fare- og ulykkessituasjoner utvikler seg, jf. [§ 4](forskrift/2010-04-29-611/§4) og [§ 13](forskrift/2010-04-29-611/§13).
 
 Ved bemanning av de ulike arbeidsoppgavene skal det sikres at personellet ikke blir tildelt oppgaver som er uforenlige med hverandre.
 
@@ -178,13 +190,30 @@ Den ansvarlige skal utføre risikoanalyser som gir et nyansert og mest mulig hel
 
 Det skal gjøres nødvendige vurderinger av følsomhet og usikkerhet.
 
-Risikoanalysene skalidentifisere fare- og ulykkessituasjoner,identifisere initierende hendelser og klarlegge årsakene til hendelsene,analysere ulykkessekvenser og mulige konsekvenser, ogidentifisere og analysere risikoreduserende tiltak, jf. [rammeforskriften § 11](forskrift/2010-02-12-158/§11) og denne forskriften [§ 4](forskrift/2010-02-12-158/§4) og [§ 5](forskrift/2010-02-12-158/§5).
+Risikoanalysene skal
 
-Risikoanalyser skal utføres og inngå som en del av beslutningsgrunnlaget, blant annet når en skalidentifisere behovet for og funksjon til nødvendige barrierer, jf. [§ 4](forskrift/2010-04-29-611/§4) og [§ 5](forskrift/2010-04-29-611/§5),identifisere spesifikke ytelseskrav til barrierefunksjoner og barriereelementer, herunder hvilke ulykkeslaster som skal legges til grunn for utforming og drift av anlegget/innretningen, systemer og/eller utstyr, jf. [§ 5](forskrift/2010-04-29-611/§5),utforme og plassere områder,klassifisere systemer og utstyr, jf. [aktivitetsforskriften § 46](forskrift/2010-04-29-613/§46),vise at hovedsikkerhetsfunksjonene ivaretas,fastsette operasjonelle betingelser og begrensninger,velge definerte fare- og ulykkessituasjoner.
+1. identifisere fare- og ulykkessituasjoner,
+2. identifisere initierende hendelser og klarlegge årsakene til hendelsene,
+3. analysere ulykkessekvenser og mulige konsekvenser, og
+4. identifisere og analysere risikoreduserende tiltak, jf. [rammeforskriften § 11](forskrift/2010-02-12-158/§11) og denne forskriften [§ 4](forskrift/2010-02-12-158/§4) og [§ 5](forskrift/2010-02-12-158/§5).
+
+Risikoanalyser skal utføres og inngå som en del av beslutningsgrunnlaget, blant annet når en skal
+
+1. identifisere behovet for og funksjon til nødvendige barrierer, jf. [§ 4](forskrift/2010-04-29-611/§4) og [§ 5](forskrift/2010-04-29-611/§5),
+2. identifisere spesifikke ytelseskrav til barrierefunksjoner og barriereelementer, herunder hvilke ulykkeslaster som skal legges til grunn for utforming og drift av anlegget/innretningen, systemer og/eller utstyr, jf. [§ 5](forskrift/2010-04-29-611/§5),
+3. utforme og plassere områder,
+4. klassifisere systemer og utstyr, jf. [aktivitetsforskriften § 46](forskrift/2010-04-29-613/§46),
+5. vise at hovedsikkerhetsfunksjonene ivaretas,
+6. fastsette operasjonelle betingelser og begrensninger,
+7. velge definerte fare- og ulykkessituasjoner.
 
 For større utslipp av olje eller kondensat, skal det gjennomføres drifts- og spredningssimuleringer.
 
-Beredskapsanalyser skal utføres og inngå som en del av beslutningsgrunnlaget blant annet når en skal:definere fare- og ulykkessituasjoner,sette ytelseskrav til beredskapen,velge og dimensjonere beredskapstiltak.
+Beredskapsanalyser skal utføres og inngå som en del av beslutningsgrunnlaget blant annet når en skal:
+
+1. definere fare- og ulykkessituasjoner,
+2. sette ytelseskrav til beredskapen,
+3. velge og dimensjonere beredskapstiltak.
 
 De miljørettede risiko- og beredskapsanalysene skal oppdateres ved vesentlige endringer som påvirker miljørisikoen eller beredskapssituasjonen. Behov for oppdatering skal uansett vurderes hvert femte år. Vurderingen skal dokumenteres og kunne fremlegges på forespørsel fra Miljødirektoratet.
 
@@ -192,7 +221,10 @@ De miljørettede risiko- og beredskapsanalysene skal oppdateres ved vesentlige e
 
 ### § 18. Analyse av arbeidsmiljøet
 
-Den ansvarlige skal utføre nødvendige analyser som sikrer et forsvarlig arbeidsmiljø og gir beslutningsstøtte ved valg av tekniske, operasjonelle og organisatoriske løsninger. Analysene skal blant annet bidra til å forbedre arbeidstakernes helse, velferd og trygghet og til å forebygge personskader, dødsfall og arbeidsbetinget sykdom som følge avfeilhandlinger som kan gi fare- og ulykkessituasjoner,eksponering og fysiske eller psykiske belastninger.
+Den ansvarlige skal utføre nødvendige analyser som sikrer et forsvarlig arbeidsmiljø og gir beslutningsstøtte ved valg av tekniske, operasjonelle og organisatoriske løsninger. Analysene skal blant annet bidra til å forbedre arbeidstakernes helse, velferd og trygghet og til å forebygge personskader, dødsfall og arbeidsbetinget sykdom som følge av
+
+1. feilhandlinger som kan gi fare- og ulykkessituasjoner,
+2. eksponering og fysiske eller psykiske belastninger.
 
 Operatøren skal utføre helhetlige arbeidsmiljøanalyser for arbeidstakere som arbeider på enklere innretninger og innkvarteres på fartøy som beskrevet i [rammeforskriften § 4](forskrift/2010-02-12-158/§4) andre ledd.
 
@@ -202,7 +234,13 @@ Operatøren skal utføre helhetlige arbeidsmiljøanalyser for arbeidstakere som 
 
 ### § 19. Innsamling, bearbeiding og bruk av data
 
-Den ansvarlige skal sikre at data som har betydning for helse, miljø og sikkerhet, blir samlet inn, bearbeidet og brukt til åovervåke og kontrollere tekniske, operasjonelle og organisatoriske forhold,utarbeide måleparametere, indikatorer og statistikk,utføre og følge opp analyser i ulike faser av virksomheten,bygge opp generiske databaser,sette i verk korrigerende og forebyggende tiltak, deriblant forbedring av systemer og utstyr.
+Den ansvarlige skal sikre at data som har betydning for helse, miljø og sikkerhet, blir samlet inn, bearbeidet og brukt til å
+
+1. overvåke og kontrollere tekniske, operasjonelle og organisatoriske forhold,
+2. utarbeide måleparametere, indikatorer og statistikk,
+3. utføre og følge opp analyser i ulike faser av virksomheten,
+4. bygge opp generiske databaser,
+5. sette i verk korrigerende og forebyggende tiltak, deriblant forbedring av systemer og utstyr.
 
 Det skal settes krav til dataenes kvalitet og validitet ut fra det aktuelle bruksbehovet.
 
@@ -248,11 +286,20 @@ Det skal legges til rette for at erfaringskunnskap fra egen og andres virksomhet
 
 ### § 24. Tilrettelegging av materiale og opplysninger
 
-Opplysninger som nevnt i [rammeforskriften § 23](forskrift/2010-02-12-158/§23) første ledd, skal gis i den form som tilsynsmyndighetene bestemmer. Omfanget av direkte tilgjengelige opplysninger skal være avgrenset i forhold til forespørselen. Dokument skal væreen avgrenset og sammenhengende informasjonsmengde,framstilt for et bestemt formål,framstilt i et anerkjent lagringsmedium,egnet for senere bruk, deriblant lesing, avspilling, framstilling, overføring eller annen gjenskaping.
+Opplysninger som nevnt i [rammeforskriften § 23](forskrift/2010-02-12-158/§23) første ledd, skal gis i den form som tilsynsmyndighetene bestemmer. Omfanget av direkte tilgjengelige opplysninger skal være avgrenset i forhold til forespørselen. Dokument skal være
+
+1. en avgrenset og sammenhengende informasjonsmengde,
+2. framstilt for et bestemt formål,
+3. framstilt i et anerkjent lagringsmedium,
+4. egnet for senere bruk, deriblant lesing, avspilling, framstilling, overføring eller annen gjenskaping.
 
 For dokumenter i endelig versjon skal det brukes et anerkjent dokumentformat som gjør at framstillingen ikke endres vesentlig ved lesing, lagring eller utskrift.
 
-Dokumenter som gjøres tilgjengelig for tilsynsmyndighetene, skal klart visedokumentutsteder og godkjennende enhet i den organisasjonen som avgir dokumentet,tidspunktet for godkjenning,om det er endelig eller foreløpig versjon.
+Dokumenter som gjøres tilgjengelig for tilsynsmyndighetene, skal klart vise
+
+1. dokumentutsteder og godkjennende enhet i den organisasjonen som avgir dokumentet,
+2. tidspunktet for godkjenning,
+3. om det er endelig eller foreløpig versjon.
 
 Materiale og opplysninger skal forvaltes med tanke på fellesløsninger og senere bruk.
 
@@ -262,15 +309,41 @@ Operatøren må i tilstrekkelig tid før planlagt start sende inn søknad om sam
 
 Dersom forutsetningene for samtykkene som er gitt i medhold av denne paragrafen endres vesentlig, kan Havindustritilsynet kreve at operatøren henter inn et nytt samtykke før aktivitetene føres videre.
 
-Operatøren må ha samtykkefør innretninger, landanlegg eller deler av disse tas i bruk,før utføring av større ombygginger eller endring av bruksformål hvis ikke disse er dekket i godkjent plan for utbygging og drift (PUD),før vesentlige endringer i aktiviteter som følge av nye krav eller tillatelser fra andre myndigheter, ogfør bruk av innretninger og landanlegg ut over den levetiden og de forutsetningene som er lagt til grunn for godkjennelse av PUD, PAD eller hovedsøknad. Når det er besluttet å starte en prosess for eventuell levetidsforlengelse av en innretning, skal Havindustritilsynet informeres. Slik søknad om samtykke må sendes inn ett år før den planlagte levetiden utløper.
+Operatøren må ha samtykke
 
-For petroleumsvirksomheten til havs må operatøren i tillegg ha samtykkefør gjennomføring av undersøkelser der det skal bores dypere enn 200 meter under sjøbunnen,før gjennomføring av leteboringer,før gjennomføring av bemannede undervannsoperasjoner,før bruk av enklere innretninger som omfatter bruk av fartøy med gangbro til innkvartering av arbeidstakere som skal arbeide på enklere innretninger, når dette ikke er dekket av samtykke etter tredje ledd bokstav a,før disponering av en innretning, selv om det er fattet disponeringsvedtak etter [petroleumsloven § 5-3](lov/1996-11-29-72/§5-3),før fjerning eller flytting av en innretning som har en vesentlig sikkerhetsmessig funksjon, og som ikke omfattes av et disponeringsvedtak etter [petroleumsloven § 5-3](lov/1996-11-29-72/§5-3),før fjerning eller endring av bruken av et fartøy som har en vesentlig sikkerhetsmessig funksjon i petroleumsvirksomheten.
+1. før innretninger, landanlegg eller deler av disse tas i bruk,
+2. før utføring av større ombygginger eller endring av bruksformål hvis ikke disse er dekket i godkjent plan for utbygging og drift (PUD),
+3. før vesentlige endringer i aktiviteter som følge av nye krav eller tillatelser fra andre myndigheter, og
+4. før bruk av innretninger og landanlegg ut over den levetiden og de forutsetningene som er lagt til grunn for godkjennelse av PUD, PAD eller hovedsøknad. Når det er besluttet å starte en prosess for eventuell levetidsforlengelse av en innretning, skal Havindustritilsynet informeres. Slik søknad om samtykke må sendes inn ett år før den planlagte levetiden utløper.
+
+For petroleumsvirksomheten til havs må operatøren i tillegg ha samtykke
+
+1. før gjennomføring av undersøkelser der det skal bores dypere enn 200 meter under sjøbunnen,
+2. før gjennomføring av leteboringer,
+3. før gjennomføring av bemannede undervannsoperasjoner,
+4. før bruk av enklere innretninger som omfatter bruk av fartøy med gangbro til innkvartering av arbeidstakere som skal arbeide på enklere innretninger, når dette ikke er dekket av samtykke etter tredje ledd bokstav a,
+5. før disponering av en innretning, selv om det er fattet disponeringsvedtak etter [petroleumsloven § 5-3](lov/1996-11-29-72/§5-3),
+6. før fjerning eller flytting av en innretning som har en vesentlig sikkerhetsmessig funksjon, og som ikke omfattes av et disponeringsvedtak etter [petroleumsloven § 5-3](lov/1996-11-29-72/§5-3),
+7. før fjerning eller endring av bruken av et fartøy som har en vesentlig sikkerhetsmessig funksjon i petroleumsvirksomheten.
 
 > Endret ved [forskrifter 16 des 2014 nr. 1752](forskrift/2014-12-16-1752) (i kraft 1 jan 2015), [26 april 2019 nr. 542](forskrift/2019-04-26-542) (i kraft 1 mai 2019), [18 des 2023 nr. 2155](forskrift/2023-12-18-2155) (i kraft 1 jan 2024).
 
 ### § 26. Innhold i søknad om samtykke
 
-Alle søknader om samtykke etter [§ 25](forskrift/2010-04-29-611/§25), med unntak av søknad etter fjerde ledd bokstav d, skal inneholdeopplysninger om hvilke aktiviteter som ønskes gjennomført,en beskrivelse av aktivitetene som omfattes av søknaden, og framdriftsplanen for disse aktivitetene,en oversikt over styrende dokumenter for aktivitetene som omfattes av søknaden,en beskrivelse av styringssystemene for aktivitetene som omfattes av søknaden, jf. også [§ 6](forskrift/2010-04-29-611/§6),en oversikt over gitte unntak etter helse-, miljø- og sikkerhetslovgivningen, og vurdering av disse i lys av aktiviteten det søkes samtykke for,opplysninger om det er inngått avtaler med entreprenører, og eventuelt hvem som er å regne som hovedbedrift i forbindelse med disse avtalene, jf. også [rammeforskriften § 33](forskrift/2010-02-12-158/§33),en beskrivelse av analysene og vurderingene som er gjort med hensyn til helse, miljø og sikkerhet for aktivitetene og innretningene eller landanleggene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,en beskrivelse av resultatene fra intern og ekstern oppfølging, jf. [§ 21](forskrift/2010-04-29-611/§21) og [rammeforskriften § 19](forskrift/2010-02-12-158/§19), og en beskrivelse av planlagte oppfølging med aktivitetene som omfattes av søknaden,oversiktstegninger av innretningen eller landanlegget,en uttalelse om søknaden fra arbeidstakernes tillitsvalgte, jf. også [rammeforskriften § 13](forskrift/2010-02-12-158/§13),en oppsummering av resultatene fra de miljørettede risiko- og beredskapsanalysene, jf. [§ 17](forskrift/2010-04-29-611/§17), samt en beskrivelse av hvordan den planlagte beredskapen mot akutt forurensning er ivaretatt på de områdene hvor resultatene også har betydning for helse, sikkerhet og arbeidsmiljø, når denne informasjonen ikke allerede er sendt til Havindustritilsynet, ogen oversikt over hvilke andre tillatelser til virksomhet som er søkt om, og eventuelt gitt.
+Alle søknader om samtykke etter [§ 25](forskrift/2010-04-29-611/§25), med unntak av søknad etter fjerde ledd bokstav d, skal inneholde
+
+1. opplysninger om hvilke aktiviteter som ønskes gjennomført,
+2. en beskrivelse av aktivitetene som omfattes av søknaden, og framdriftsplanen for disse aktivitetene,
+3. en oversikt over styrende dokumenter for aktivitetene som omfattes av søknaden,
+4. en beskrivelse av styringssystemene for aktivitetene som omfattes av søknaden, jf. også [§ 6](forskrift/2010-04-29-611/§6),
+5. en oversikt over gitte unntak etter helse-, miljø- og sikkerhetslovgivningen, og vurdering av disse i lys av aktiviteten det søkes samtykke for,
+6. opplysninger om det er inngått avtaler med entreprenører, og eventuelt hvem som er å regne som hovedbedrift i forbindelse med disse avtalene, jf. også [rammeforskriften § 33](forskrift/2010-02-12-158/§33),
+7. en beskrivelse av analysene og vurderingene som er gjort med hensyn til helse, miljø og sikkerhet for aktivitetene og innretningene eller landanleggene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,
+8. en beskrivelse av resultatene fra intern og ekstern oppfølging, jf. [§ 21](forskrift/2010-04-29-611/§21) og [rammeforskriften § 19](forskrift/2010-02-12-158/§19), og en beskrivelse av planlagte oppfølging med aktivitetene som omfattes av søknaden,
+9. oversiktstegninger av innretningen eller landanlegget,
+10. en uttalelse om søknaden fra arbeidstakernes tillitsvalgte, jf. også [rammeforskriften § 13](forskrift/2010-02-12-158/§13),
+11. en oppsummering av resultatene fra de miljørettede risiko- og beredskapsanalysene, jf. [§ 17](forskrift/2010-04-29-611/§17), samt en beskrivelse av hvordan den planlagte beredskapen mot akutt forurensning er ivaretatt på de områdene hvor resultatene også har betydning for helse, sikkerhet og arbeidsmiljø, når denne informasjonen ikke allerede er sendt til Havindustritilsynet, og
+12. en oversikt over hvilke andre tillatelser til virksomhet som er søkt om, og eventuelt gitt.
 
 Ved søknad om bruk av rørledningssystemer etter [§ 25](forskrift/2010-04-29-611/§25) skal søknaden også inneholde koordinatene for rørledningssystemet.
 
@@ -278,9 +351,19 @@ Ved søknad om ombygging etter [§ 25](forskrift/2010-04-29-611/§25) skal opera
 
 Ved søknad om forlenget levetid etter [§ 25](forskrift/2010-04-29-611/§25) tredje ledd bokstav d, skal søknaden også inneholde en oppsummering av resultatene av analysene og vurderingene av innretningens tekniske tilstand som ligger til grunn for søknaden, jf. første ledd bokstav g.
 
-Søknad om samtykke for petroleumsvirksomhet til havs skal i tillegg inneholde:et program for den første brønnen dersom søknad omfatter bore- og brønnaktiviteter for én eller flere brønner, jf. også [§ 37](forskrift/2010-04-29-611/§37),samsvarsuttalelse for innretninger som omfattes av denne ordningen, jf. [rammeforskriften § 25](forskrift/2010-02-12-158/§25),angivelse av hvem som deltar dersom aktiviteten utføres som virksomhet på egen risiko.
+Søknad om samtykke for petroleumsvirksomhet til havs skal i tillegg inneholde:
 
-Søknad etter [§ 25](forskrift/2010-04-29-611/§25) fjerde ledd bokstav d skal inneholdeen beskrivelse av krav til fartøy som skal benyttes,en beskrivelse av utformingen av transportveier (gangbro og eventuelle kraner) mellom innretning og fartøy, basert på utformingen av den enklere innretningen og operasjonelle forutsetninger,en beskrivelse av analysene og vurderingene som er gjort med hensyn til arbeidsmiljø og sikkerhet for aktivitetene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,en beskrivelse av beredskapsmessige forhold, ogen uttalelse om søknaden fra arbeidstakernes tillitsvalgte, jf. også [rammeforskriften § 13](forskrift/2010-02-12-158/§13).
+1. et program for den første brønnen dersom søknad omfatter bore- og brønnaktiviteter for én eller flere brønner, jf. også [§ 37](forskrift/2010-04-29-611/§37),
+2. samsvarsuttalelse for innretninger som omfattes av denne ordningen, jf. [rammeforskriften § 25](forskrift/2010-02-12-158/§25),
+3. angivelse av hvem som deltar dersom aktiviteten utføres som virksomhet på egen risiko.
+
+Søknad etter [§ 25](forskrift/2010-04-29-611/§25) fjerde ledd bokstav d skal inneholde
+
+1. en beskrivelse av krav til fartøy som skal benyttes,
+2. en beskrivelse av utformingen av transportveier (gangbro og eventuelle kraner) mellom innretning og fartøy, basert på utformingen av den enklere innretningen og operasjonelle forutsetninger,
+3. en beskrivelse av analysene og vurderingene som er gjort med hensyn til arbeidsmiljø og sikkerhet for aktivitetene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,
+4. en beskrivelse av beredskapsmessige forhold, og
+5. en uttalelse om søknaden fra arbeidstakernes tillitsvalgte, jf. også [rammeforskriften § 13](forskrift/2010-02-12-158/§13).
 
 Tilsynsmyndighetene kan stille andre krav til dokumentasjon.
 
@@ -302,7 +385,13 @@ Operatøren skal sikre at personer som kan bli berørt av ulykker tilknyttet lan
 
 ### § 29. Varsling og melding til tilsynsmyndighetene av fare- og ulykkessituasjoner
 
-Operatøren skal sikre koordinert og umiddelbar varsling per telefon til Havindustritilsynet ved fare- og ulykkessituasjoner som har ført til, eller under ubetydelig endrede omstendigheter kunne ha ført tildød,alvorlig og akutt skade,akutt livstruende sykdom,alvorlig svekking eller bortfall av sikkerhetsrelaterte funksjoner eller barrierer, slik at innretningens eller landanleggets integritet er i fare,akutt forurensning.
+Operatøren skal sikre koordinert og umiddelbar varsling per telefon til Havindustritilsynet ved fare- og ulykkessituasjoner som har ført til, eller under ubetydelig endrede omstendigheter kunne ha ført til
+
+1. død,
+2. alvorlig og akutt skade,
+3. akutt livstruende sykdom,
+4. alvorlig svekking eller bortfall av sikkerhetsrelaterte funksjoner eller barrierer, slik at innretningens eller landanleggets integritet er i fare,
+5. akutt forurensning.
 
 Varselet skal bekreftes skriftlig.
 
@@ -330,7 +419,12 @@ Rapporter fra miljøundersøkelser ved akutt forurensning, jf. [aktivitetsforskr
 
 ### § 31. Melding om ulykke som har medført død eller personskade
 
-Ved ulykker i virksomheten skal arbeidsgiveren eller den som representerer arbeidsgiveren på stedet, sende skriftlig melding til Havindustritilsynet på fastsatt Nav-skjema om ulykker som har medførtdød,alvorlig personskade,arbeidsuførhet med fravær,medisinsk behandling.
+Ved ulykker i virksomheten skal arbeidsgiveren eller den som representerer arbeidsgiveren på stedet, sende skriftlig melding til Havindustritilsynet på fastsatt Nav-skjema om ulykker som har medført
+
+1. død,
+2. alvorlig personskade,
+3. arbeidsuførhet med fravær,
+4. medisinsk behandling.
 
 Hovedbedriften og operatøren skal informeres om melding etter første ledd som den enkelte arbeidsgiveren har sendt til myndighetene.
 
@@ -358,9 +452,18 @@ Operatøren skal sende en aktivitetsrapport om bemannede undervannsoperasjoner t
 
 ### § 34. Opplysninger om overvåking, utslipp og risiko for forurensning
 
-Operatøren skal sende følgende materiale og opplysninger til Miljødirektoratet:resultater fra overvåking av det ytre miljøet, jf. [aktivitetsforskriften kapittel X](forskrift/2010-04-29-613/kapx). Resultatene skal sendes inn i henhold til retningslinjer for overvåking av petroleumsvirksomheten til havs (M-300). Frist for å sende inn kvalitetssikrede utkast til rapporter fra overvåking av bunnhabitater (sediment og fauna), grunnlagsundersøkelser, og vannsøyleovervåking er 1. april året etter at undersøkelsene ble gjennomført. Frist for levering av endelig rapporter er 1. oktober. Betydelige avvik fra den forventete tilstand eller utviklingen, skal rapporteres til Miljødirektoratet så snart som mulig. Øvrige resultater fra overvåking skal sendes inn så snart de foreligger,opplysninger om endringer i risiko for forurensning. Opplysningene skal omfatte årsakene til endringen og iverksatte korrigerende tiltak,årlig rapport i henhold til Miljødirektoratets retningslinjer for rapportering fra petroleumsvirksomhet til havs (M-107). Fristen for rapportering er 15. mars påfølgende år. Rapporteringen skal skje ved bruk av Footprint. Ferdig kvalitetssikrede rapporter og underliggende data skal være tilgjengelige for Miljødirektoratet innen rapporteringsfristen,Planer for miljøovervåking av bunnhabitater, som nevnt i [aktivitetsforskriften § 54](forskrift/2010-04-29-613/§54), skal sendes Miljødirektoratet innen 1. mars det året overvåkingen skal gjennomføres. Planer for miljøovervåking av vannsøylen, som nevnt i [aktivitetsforskriften § 55](forskrift/2010-04-29-613/§55), skal sendes innen 1. april det året overvåkingen skal gjennomføres.
+Operatøren skal sende følgende materiale og opplysninger til Miljødirektoratet:
 
-Operatøren skal sende følgende materiale og opplysninger til Direktoratet for strålevern og atomsikkerhet:årlig rapport i henhold til Direktoratet for strålevern og atomsikkerhets [Retningslinjer for rapportering av radioaktive stoffer for petroleumsvirksomheten](https://dsa.no/publikasjoner). Fristen for rapportering er 15. mars påfølgende år. Rapporteringen skal skje ved bruk av Footprint. Ferdig kvalitetssikrede rapporter og underliggende data skal være tilgjengelige for Direktoratet for strålevern og atomsikkerhet innen rapporteringsfristen,resultater fra overvåking av det ytre miljøet, jf. [aktivitetsforskriften kapittel X](forskrift/2010-04-29-613/kapX). Resultatene skal sendes inn i henhold til Retningslinjer for overvåking av petroleumsvirksomheten til havs (M-300). Frist for å sende inn kvalitetssikrede utkast til rapporter fra overvåking av bunnhabitater (sediment), grunnlagsundersøkelser, og vannsøyleovervåking er 1. april året etter at undersøkelsene ble gjennomført. Frist for levering av endelig rapporter er 1. oktober. Betydelige avvik fra den forventete tilstand eller utviklingen skal rapporteres til Direktoratet for strålevern og atomsikkerhet så snart som mulig,planer for miljøovervåking av bunnhabitater, som nevnt i [aktivitetsforskriften § 54](forskrift/2010-04-29-613/§54), skal sendes Direktoratet for strålevern og atomsikkerhet innen 1. mars det året overvåkingen skal gjennomføres. Planer for miljøovervåking av vannsøylen, som nevnt i [aktivitetsforskriften § 55](forskrift/2010-04-29-613/§55), skal sendes innen 1. april det året overvåkingen skal gjennomføres.
+1. resultater fra overvåking av det ytre miljøet, jf. [aktivitetsforskriften kapittel X](forskrift/2010-04-29-613/kapx). Resultatene skal sendes inn i henhold til retningslinjer for overvåking av petroleumsvirksomheten til havs (M-300). Frist for å sende inn kvalitetssikrede utkast til rapporter fra overvåking av bunnhabitater (sediment og fauna), grunnlagsundersøkelser, og vannsøyleovervåking er 1. april året etter at undersøkelsene ble gjennomført. Frist for levering av endelig rapporter er 1. oktober. Betydelige avvik fra den forventete tilstand eller utviklingen, skal rapporteres til Miljødirektoratet så snart som mulig. Øvrige resultater fra overvåking skal sendes inn så snart de foreligger,
+2. opplysninger om endringer i risiko for forurensning. Opplysningene skal omfatte årsakene til endringen og iverksatte korrigerende tiltak,
+3. årlig rapport i henhold til Miljødirektoratets retningslinjer for rapportering fra petroleumsvirksomhet til havs (M-107). Fristen for rapportering er 15. mars påfølgende år. Rapporteringen skal skje ved bruk av Footprint. Ferdig kvalitetssikrede rapporter og underliggende data skal være tilgjengelige for Miljødirektoratet innen rapporteringsfristen,
+4. Planer for miljøovervåking av bunnhabitater, som nevnt i [aktivitetsforskriften § 54](forskrift/2010-04-29-613/§54), skal sendes Miljødirektoratet innen 1. mars det året overvåkingen skal gjennomføres. Planer for miljøovervåking av vannsøylen, som nevnt i [aktivitetsforskriften § 55](forskrift/2010-04-29-613/§55), skal sendes innen 1. april det året overvåkingen skal gjennomføres.
+
+Operatøren skal sende følgende materiale og opplysninger til Direktoratet for strålevern og atomsikkerhet:
+
+1. årlig rapport i henhold til Direktoratet for strålevern og atomsikkerhets [Retningslinjer for rapportering av radioaktive stoffer for petroleumsvirksomheten](https://dsa.no/publikasjoner). Fristen for rapportering er 15. mars påfølgende år. Rapporteringen skal skje ved bruk av Footprint. Ferdig kvalitetssikrede rapporter og underliggende data skal være tilgjengelige for Direktoratet for strålevern og atomsikkerhet innen rapporteringsfristen,
+2. resultater fra overvåking av det ytre miljøet, jf. [aktivitetsforskriften kapittel X](forskrift/2010-04-29-613/kapX). Resultatene skal sendes inn i henhold til Retningslinjer for overvåking av petroleumsvirksomheten til havs (M-300). Frist for å sende inn kvalitetssikrede utkast til rapporter fra overvåking av bunnhabitater (sediment), grunnlagsundersøkelser, og vannsøyleovervåking er 1. april året etter at undersøkelsene ble gjennomført. Frist for levering av endelig rapporter er 1. oktober. Betydelige avvik fra den forventete tilstand eller utviklingen skal rapporteres til Direktoratet for strålevern og atomsikkerhet så snart som mulig,
+3. planer for miljøovervåking av bunnhabitater, som nevnt i [aktivitetsforskriften § 54](forskrift/2010-04-29-613/§54), skal sendes Direktoratet for strålevern og atomsikkerhet innen 1. mars det året overvåkingen skal gjennomføres. Planer for miljøovervåking av vannsøylen, som nevnt i [aktivitetsforskriften § 55](forskrift/2010-04-29-613/§55), skal sendes innen 1. april det året overvåkingen skal gjennomføres.
 
 > Endret ved [forskrifter 15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [23 des 2013 nr. 1714](forskrift/2013-12-23-1714) (i kraft 1 jan 2014), [16 des 2014 nr. 1752](forskrift/2014-12-16-1752) (i kraft 1 jan 2015), [18 des 2015 nr. 1797](forskrift/2015-12-18-1797) (i kraft 1 jan 2016), [18 des 2017 nr. 2373](forskrift/2017-12-18-2373) (i kraft 1 jan 2018), [26 april 2019 nr. 542](forskrift/2019-04-26-542) (i kraft 1 mai 2019), [19 des 2022 nr. 2486](forskrift/2022-12-19-2486) (i kraft 1 jan 2023).
 
@@ -404,7 +507,16 @@ En oversikt over konsekvenser av sikringsarbeidet i brønner som kan bli iverksa
 
 ### § 40. Materiale og opplysninger som skal sendes til andre institusjoner
 
-Operatøren skal sikre atresultater fra forundersøkelser (traséundersøkelser) som nevnt i [aktivitetsforskriften § 15](forskrift/2010-04-29-613/§15), blir sendt til Statens kartverk Sjø,prøver fra forundersøkelser som nevnt i [aktivitetsforskriften § 15](forskrift/2010-04-29-613/§15), som viser havbunnens beskaffenhet, blir tilbydd Norges geologiske undersøkelser når laboratoriearbeidet med disse prøvene er avsluttet,informasjon om plassering av permanent plasserte og flyttbare innretninger som nevnt i [rammeforskriften § 47](forskrift/2010-02-12-158/§47), samt midlertidig sikret og forlatte brønner som nevnt i [aktivitetsforskriften § 88](forskrift/2010-04-29-613/§88), blir gitt til Etterretninger for sjøfarende og fiskeripressen, og at kopi blir sendt til Havindustritilsynet, med unntak av informasjon om plassering av flyttbare innretninger,utlegging og fjerning av sjømerker blir kunngjort på forhånd i Etterretninger for sjøfarende,etablering av sikkerhetssoner og opphevelsen av dem som nevnt i [rammeforskriften kapittel VIII](forskrift/2010-02-12-158/kapviii), blir kunngjort i Etterretninger for sjøfarende og i fiskeripressen,meteorologiske og oseanografiske data med rapporter om datakvaliteten og årsrapporter om datainnsamling blir sendt til Meteorologisk institutt, og at slike rapporter om oseanografiske data blir sendt til Havforskningsinstituttet,seismologiske data blir sendt til Institutt for den faste jords fysikk eller NORSAR,opplysninger om merking av innretninger blir sendt til Kystverket.
+Operatøren skal sikre at
+
+1. resultater fra forundersøkelser (traséundersøkelser) som nevnt i [aktivitetsforskriften § 15](forskrift/2010-04-29-613/§15), blir sendt til Statens kartverk Sjø,
+2. prøver fra forundersøkelser som nevnt i [aktivitetsforskriften § 15](forskrift/2010-04-29-613/§15), som viser havbunnens beskaffenhet, blir tilbydd Norges geologiske undersøkelser når laboratoriearbeidet med disse prøvene er avsluttet,
+3. informasjon om plassering av permanent plasserte og flyttbare innretninger som nevnt i [rammeforskriften § 47](forskrift/2010-02-12-158/§47), samt midlertidig sikret og forlatte brønner som nevnt i [aktivitetsforskriften § 88](forskrift/2010-04-29-613/§88), blir gitt til Etterretninger for sjøfarende og fiskeripressen, og at kopi blir sendt til Havindustritilsynet, med unntak av informasjon om plassering av flyttbare innretninger,
+4. utlegging og fjerning av sjømerker blir kunngjort på forhånd i Etterretninger for sjøfarende,
+5. etablering av sikkerhetssoner og opphevelsen av dem som nevnt i [rammeforskriften kapittel VIII](forskrift/2010-02-12-158/kapviii), blir kunngjort i Etterretninger for sjøfarende og i fiskeripressen,
+6. meteorologiske og oseanografiske data med rapporter om datakvaliteten og årsrapporter om datainnsamling blir sendt til Meteorologisk institutt, og at slike rapporter om oseanografiske data blir sendt til Havforskningsinstituttet,
+7. seismologiske data blir sendt til Institutt for den faste jords fysikk eller NORSAR,
+8. opplysninger om merking av innretninger blir sendt til Kystverket.
 
 > Endret ved [forskrifter 20 des 2012 nr. 1354](forskrift/2012-12-20-1354) (i kraft 1 jan 2013), [23 des 2013 nr. 1714](forskrift/2013-12-23-1714) (i kraft 1 jan 2014), [18 des 2015 nr. 1797](forskrift/2015-12-18-1797) (i kraft 1 jan 2016), [18 des 2017 nr. 2373](forskrift/2017-12-18-2373) (i kraft 1 jan 2018), [18 des 2023 nr. 2155](forskrift/2023-12-18-2155) (i kraft 1 jan 2024).
 
@@ -416,7 +528,18 @@ Den ansvarlige for målingene skal gjøre viktige resultater fra fullskalamålin
 
 ### § 42. Oppbevaring av materiale og opplysninger
 
-Materiale og opplysninger etter [§ 24](forskrift/2010-04-29-611/§24) skal oppbevares så lenge det er nødvendig av hensyn til en forsvarlig virksomhet. Spesielt skalalle som driver undervannsentreprenørvirksomhet, oppbevare operasjonsloggen fra bemannede undervannsoperasjoner i 40 år fra siste registrering,operatøren eller den som står for driften av en innretning oppbevare meteorologiske og oseanografiske data til de er overlevert Det norske meteorologiske institutt,operatøren oppbevare materiale og opplysninger om permanent tilbakeplugging av brønner,operatøren oppbevare materiale og opplysninger om innretninger og avfall som er midlertidig etterlatt på havbunnen,operatøren oppbevare materiale og opplysninger om akutt forurensning og aksjoner mot akutt forurensning med tilhørende etterkantundersøkelse,operatøren oppbevare materiale og opplysninger om miljøovervåking,operatøren oppbevare materiale og opplysninger om avfall, utslipp til ytre miljø og forbruk av kjemikalier,den ansvarlige oppbevare materiale og opplysninger om fare- og ulykkessituasjoner, samt ethvert alvorlig tilløp til slike fare- og ulykkessituasjoner,operatøren og arbeidsgiveren oppbevare kartleggingsresultater som viser i hvilken grad arbeidstakere har vært eksponert for mulige helsefarlige arbeidsmiljøfaktorer. Oppbevaringstiden skal stå i forhold til de antatt helseskadelige langtidsvirkningene av eksponeringen,operatøren oppbevare opplysninger om etterlatte radioaktive kilder i brønner.
+Materiale og opplysninger etter [§ 24](forskrift/2010-04-29-611/§24) skal oppbevares så lenge det er nødvendig av hensyn til en forsvarlig virksomhet. Spesielt skal
+
+1. alle som driver undervannsentreprenørvirksomhet, oppbevare operasjonsloggen fra bemannede undervannsoperasjoner i 40 år fra siste registrering,
+2. operatøren eller den som står for driften av en innretning oppbevare meteorologiske og oseanografiske data til de er overlevert Det norske meteorologiske institutt,
+3. operatøren oppbevare materiale og opplysninger om permanent tilbakeplugging av brønner,
+4. operatøren oppbevare materiale og opplysninger om innretninger og avfall som er midlertidig etterlatt på havbunnen,
+5. operatøren oppbevare materiale og opplysninger om akutt forurensning og aksjoner mot akutt forurensning med tilhørende etterkantundersøkelse,
+6. operatøren oppbevare materiale og opplysninger om miljøovervåking,
+7. operatøren oppbevare materiale og opplysninger om avfall, utslipp til ytre miljø og forbruk av kjemikalier,
+8. den ansvarlige oppbevare materiale og opplysninger om fare- og ulykkessituasjoner, samt ethvert alvorlig tilløp til slike fare- og ulykkessituasjoner,
+9. operatøren og arbeidsgiveren oppbevare kartleggingsresultater som viser i hvilken grad arbeidstakere har vært eksponert for mulige helsefarlige arbeidsmiljøfaktorer. Oppbevaringstiden skal stå i forhold til de antatt helseskadelige langtidsvirkningene av eksponeringen,
+10. operatøren oppbevare opplysninger om etterlatte radioaktive kilder i brønner.
 
 Ved utløpet eller oppgivelsen av utvinningstillatelsen og særskilt tillatelse til anlegg og drift etter [petroleumsloven § 4-3](lov/1996-11-29-72/§4-3), skal den som er forpliktet til å gjennomføre disponeringsvedtaket etter [petroleumsloven § 5-3](lov/1996-11-29-72/§5-3), ha ansvaret for å oppbevare materiale og opplysninger som nevnt i første ledd.
 

@@ -22,6 +22,9 @@ eu_basis: []
 
 # Delegering av myndighet til Fiskeridirektoratet etter forskrift om forvaltning av sel på norskekysten § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11 og § 12.
 
-Fiskeridepartementets kompetanse etter [forskrift av 6. mai 1996 nr. 414](forskrift/1996-05-06-414) om forvaltning av sel på norskekysten delegeres til Fiskeridirektoratet i følgende tilfeller:kompetanse til å endre bestemmelsene i forskriften § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11 og § 12.kompetanse til å fastsette totalkvoter for jakt på kystsel, jf. forskriften § 5.
+Fiskeridepartementets kompetanse etter [forskrift av 6. mai 1996 nr. 414](forskrift/1996-05-06-414) om forvaltning av sel på norskekysten delegeres til Fiskeridirektoratet i følgende tilfeller:
+
+- kompetanse til å endre bestemmelsene i forskriften § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11 og § 12.
+- kompetanse til å fastsette totalkvoter for jakt på kystsel, jf. forskriften § 5.
 
 Den kompetanse som med dette er delegert, skal utøves i samsvar med regler som er fastsatt i forskriften og de instrukser som måtte bli gitt av departementet.

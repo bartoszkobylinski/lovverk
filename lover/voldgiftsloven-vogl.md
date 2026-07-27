@@ -15,7 +15,7 @@ xml_hash: "3b6558e6d7f45a4708b5c003f51685ddc631f0f7f4ab0411911ed3b8bc92a19b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -334,7 +334,10 @@ Voldgiftsrettens myndighet opphører når voldgiftssaken er avsluttet, med unnta
 
 ### § 38. Retting av voldgiftsdommen. Tilleggsdom
 
-Hver av partene kan innen én måned etter at dommen er mottatt, be voldgiftsretten om årette en dom som på grunn av skrive- eller regnefeil, trykkfeil eller liknende klar feil har fått en utforming som ikke stemte med voldgiftsrettens mening, ogavsi tilleggsdom til avgjørelse av krav som er fremsatt under voldgiftssaken og som skulle vært avgjort, men som ikke er tatt med i dommen.
+Hver av partene kan innen én måned etter at dommen er mottatt, be voldgiftsretten om å
+
+1. rette en dom som på grunn av skrive- eller regnefeil, trykkfeil eller liknende klar feil har fått en utforming som ikke stemte med voldgiftsrettens mening, og
+2. avsi tilleggsdom til avgjørelse av krav som er fremsatt under voldgiftssaken og som skulle vært avgjort, men som ikke er tatt med i dommen.
 
 Anmodningen sendes samtidig til de øvrige parter. Voldgiftsretten skal ta anmodningen til følge dersom det er grunnlag for den. Retting må foretas senest én måned etter at anmodningen ble mottatt. Tilleggsdom må avsies senest to måneder etter at anmodningen ble mottatt.
 
@@ -378,9 +381,18 @@ En voldgiftsdom kan bare settes til side som ugyldig av domstolene gjennom et s�
 
 ### § 43. Ugyldighetsgrunner
 
-En voldgiftsdom kan bare settes til side av domstolene dersomen av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter norsk rett, ellerden part som har anlagt ugyldighetssøksmål ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, ellervoldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, ellervoldgiftsretten har hatt en uriktig sammensetning, ellersaksbehandlingen strider mot loven eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen.
+En voldgiftsdom kan bare settes til side av domstolene dersom
 
-Når spørsmålet om gyldigheten av en voldgiftsdom er brakt inn for domstolene skal domstolen av eget tiltak sette dommen til side dersomtvisten ikke kan avgjøres ved voldgift etter norsk rett, ellervoldgiftsdommen virker støtende på rettsordenen (ordre public).
+1. en av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter norsk rett, eller
+2. den part som har anlagt ugyldighetssøksmål ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, eller
+3. voldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, eller
+4. voldgiftsretten har hatt en uriktig sammensetning, eller
+5. saksbehandlingen strider mot loven eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen.
+
+Når spørsmålet om gyldigheten av en voldgiftsdom er brakt inn for domstolene skal domstolen av eget tiltak sette dommen til side dersom
+
+1. tvisten ikke kan avgjøres ved voldgift etter norsk rett, eller
+2. voldgiftsdommen virker støtende på rettsordenen (ordre public).
 
 Dersom ugyldighetsgrunnen bare rammer en del av dommen, får ugyldigheten bare virkning for denne delen.
 
@@ -404,9 +416,19 @@ Fullbyrding skjer etter reglene i [tvangsfullbyrdelsesloven](lov/1992-06-26-86) 
 
 ### § 46. Forhold som er til hinder for anerkjennelse og fullbyrding
 
-Anerkjennelse eller fullbyrding av en voldgiftsdom kan bare nektes dersom:en av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter det lands rett hvor voldgiftsdommen ble avsagt, ellerden part som voldgiftsdommen er påberopt overfor ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, ellervoldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, ellervoldgiftsretten har hatt en uriktig sammensetning, ellersaksbehandlingen strider mot loven på voldgiftsstedet eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen, ellervoldgiftsdommen ennå ikke er bindende for partene, eller den varig eller midlertidig er satt til side av en domstol på voldgiftsstedet eller av en domstol i det landet hvis rettsregler er anvendt ved avgjørelsen av tvistegjenstanden.
+Anerkjennelse eller fullbyrding av en voldgiftsdom kan bare nektes dersom:
 
-Domstolene skal av eget tiltak nekte anerkjennelse og fullbyrding av en voldgiftsdom når:tvisten ikke kunne avgjøres ved voldgift etter norsk rett, elleranerkjennelse eller fullbyrding av voldgiftsdommen virker støtende på rettsordenen (ordre public).
+1. en av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter det lands rett hvor voldgiftsdommen ble avsagt, eller
+2. den part som voldgiftsdommen er påberopt overfor ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, eller
+3. voldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, eller
+4. voldgiftsretten har hatt en uriktig sammensetning, eller
+5. saksbehandlingen strider mot loven på voldgiftsstedet eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen, eller
+6. voldgiftsdommen ennå ikke er bindende for partene, eller den varig eller midlertidig er satt til side av en domstol på voldgiftsstedet eller av en domstol i det landet hvis rettsregler er anvendt ved avgjørelsen av tvistegjenstanden.
+
+Domstolene skal av eget tiltak nekte anerkjennelse og fullbyrding av en voldgiftsdom når:
+
+1. tvisten ikke kunne avgjøres ved voldgift etter norsk rett, eller
+2. anerkjennelse eller fullbyrding av voldgiftsdommen virker støtende på rettsordenen (ordre public).
 
 Dersom grunnen til å nekte anerkjennelse eller fullbyrding bare rammer en del av dommen, er det bare denne delen som kan nektes anerkjent eller fullbyrdet.
 

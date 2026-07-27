@@ -42,7 +42,12 @@ Frivillige organisasjoner som arbeider særlig med problematisk spilleadferd, de
 
 ## § 4. Søknadsfrist og krav til søknaden
 
-En organisasjon kan innen 31. januar hvert år søke Lotteritilsynet om tilskudd etter forutgående utlysning av tilskuddsmidler. En søknad skal beskriveorganisasjonens aktivitet og målhva slags tilskudd og hvilket beløp det søkes omhva tilskuddet skal benyttes tilhvordan tidligere mottatt tilskudd etter tilskuddsordningen er benyttet.
+En organisasjon kan innen 31. januar hvert år søke Lotteritilsynet om tilskudd etter forutgående utlysning av tilskuddsmidler. En søknad skal beskrive
+
+1. organisasjonens aktivitet og mål
+2. hva slags tilskudd og hvilket beløp det søkes om
+3. hva tilskuddet skal benyttes til
+4. hvordan tidligere mottatt tilskudd etter tilskuddsordningen er benyttet.
 
 Organisasjonen skal legge ved søknaden siste godkjente årsberetning, årsregnskap, organisasjonens vedtekter og budsjett for hele organisasjonens virksomhet.
 

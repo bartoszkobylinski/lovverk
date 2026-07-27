@@ -34,7 +34,16 @@ Nyfødtscreeningprogrammet skal tilby screening for alvorlige, medfødte sykdomm
 
 Hvilke sykdommer programmet skal omfatte, fastsettes av departementet.
 
-Ved inkludering av sykdommer i programmet skal følgende vilkår være oppfylt:Tilstanden utgjør et viktig helseproblem for den enkelte.Tilstandens naturlige forløp er tilstrekkelig kjent.Det er mulig å stille en diagnose før symptomer opptrer.Det finnes en sikker, presis, dokumentert og validert test.Det er dokumenterte og tilgjengelige tiltak eller behandlinger som gir bedre effekt på et tidligere stadium enn ved klinisk diagnostikk.Konsekvensene for målgruppen er klarlagte og akseptable.Helseeffekten av å inkludere sykdommen er høyere enn eventuelle negative konsekvenser.Det er nødvendig å iverksette tiltak eller behandling før barna som identifiseres med sykdommen har fylt 16 år.
+Ved inkludering av sykdommer i programmet skal følgende vilkår være oppfylt:
+
+1. Tilstanden utgjør et viktig helseproblem for den enkelte.
+2. Tilstandens naturlige forløp er tilstrekkelig kjent.
+3. Det er mulig å stille en diagnose før symptomer opptrer.
+4. Det finnes en sikker, presis, dokumentert og validert test.
+5. Det er dokumenterte og tilgjengelige tiltak eller behandlinger som gir bedre effekt på et tidligere stadium enn ved klinisk diagnostikk.
+6. Konsekvensene for målgruppen er klarlagte og akseptable.
+7. Helseeffekten av å inkludere sykdommen er høyere enn eventuelle negative konsekvenser.
+8. Det er nødvendig å iverksette tiltak eller behandling før barna som identifiseres med sykdommen har fylt 16 år.
 
 ## § 3. Lagring av blodprøvene
 
@@ -50,11 +59,31 @@ Et samtykke etter første ledd omfatter undersøkelse og lagring av blodprøver 
 
 Etter samtykke kan det behandles helseopplysninger som er relevante og nødvendige for en faglig forsvarlig gjennomføring av nyfødtscreeningen, og opplysninger som er relevante og nødvendige for å overvåke og kontrollere kvaliteten på helsehjelpen som gis for sykdommene i nyfødtscreeningen.
 
-Følgende opplysninger om mor kan behandles:fødselsnummernavnadressetelefonnummer.
+Følgende opplysninger om mor kan behandles:
 
-Følgende opplysninger om barnet kan behandles:tidspunkt for fødselgestasjonsalder (varighet av svangerskapet)kjønnfødselsvektfødestedfødselsnummer.
+1. fødselsnummer
+2. navn
+3. adresse
+4. telefonnummer.
 
-Følgende medisinske opplysninger kan behandles:tidspunkt for prøvetakingtilleggsopplysninger for flerfødsler/TPN/Transfundertrekvirentkodemedikamentbruk eller andre forhold som kan påvirke analysenenye prøveranalyseresultathelsehjelp ved positive og falske negative funn.
+Følgende opplysninger om barnet kan behandles:
+
+1. tidspunkt for fødsel
+2. gestasjonsalder (varighet av svangerskapet)
+3. kjønn
+4. fødselsvekt
+5. fødested
+6. fødselsnummer.
+
+Følgende medisinske opplysninger kan behandles:
+
+1. tidspunkt for prøvetaking
+2. tilleggsopplysninger for flerfødsler/TPN/Transfundert
+3. rekvirentkode
+4. medikamentbruk eller andre forhold som kan påvirke analysene
+5. nye prøver
+6. analyseresultat
+7. helsehjelp ved positive og falske negative funn.
 
 ## § 6. Dataansvar
 
@@ -64,7 +93,12 @@ Den dataansvarlige skal sørge for at det gjennomføres tekniske og organisatori
 
 Fødselsnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres kryptert og adskilt fra andre registeropplysninger. Den dataansvarlige skal sørge for tilgangsstyring, logging og etterfølgende kontroll.
 
-Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at helseopplysninger behandles i samsvar med personvernkravene, jf. [personvernforordningen artikkel 24](lov/2018-06-15-38/gdpr/a24) om internkontroll. Blant annet skal den dataansvarlige sørge for:å ha oversikt over kravene som gjelder for behandling av helseopplysningerat det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kraveneat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettessystematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av helseopplysninger i programmet.
+Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at helseopplysninger behandles i samsvar med personvernkravene, jf. [personvernforordningen artikkel 24](lov/2018-06-15-38/gdpr/a24) om internkontroll. Blant annet skal den dataansvarlige sørge for:
+
+1. å ha oversikt over kravene som gjelder for behandling av helseopplysninger
+2. at det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kravene
+3. at det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettes
+4. systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av helseopplysninger i programmet.
 
 ## § 7. Bruk av helseopplysninger og blodprøver
 

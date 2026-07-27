@@ -15,7 +15,7 @@ xml_hash: "3ca293aa7ae50a12bd809b3213789a2e71a127573861aefe25c81744aee2aae7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,13 @@ eu_basis: []
 
 (2) Studentene plikter å sette seg inn i de til enhver tid gjeldende bestemmelsene i nærværende forskrift, studieplaner, retningslinjer og andre relevante dokumenter og rammebetingelser, herunder dokumenter kommunisert på fagskolens digitale læringsplattform.
 
-(3) Studenter ved TISIP fagskole har følgende plikter:Studenten skal holde seg orientert om meldinger og bestemmelser etc. som blir gitt av fagskolen. De vanligste informasjonskanalene er læringsplattform, e-post og fagskolens hjemmeside i tillegg til informasjon formidlet i fysiske og virtuelle klasserom.Studenten må rette seg etter de bestemmelser, forskrift og instrukser som er fastsatt av fagskolen.Studenter som er tatt opp ved utdanningstilbud som krever egenbetaling må overholde betalingsfrister. Aksept av studieplass medfører aksept av avgifter og særutlegg. Disse er ikke refunderbare.Studenten må skaffe seg det undervisningsmateriell og lærebøker, datautstyr og programvare som opplæringen krever og som skolen ikke holder.Studenten skal delta aktivt i all opplæring i den form den blir gitt, herunder arbeidskrav, laboratoriearbeid, prosjektarbeid, praktiske øvinger, demonstrasjoner, praksisperioder og ekskursjoner.
+(3) Studenter ved TISIP fagskole har følgende plikter:
+
+1. Studenten skal holde seg orientert om meldinger og bestemmelser etc. som blir gitt av fagskolen. De vanligste informasjonskanalene er læringsplattform, e-post og fagskolens hjemmeside i tillegg til informasjon formidlet i fysiske og virtuelle klasserom.
+2. Studenten må rette seg etter de bestemmelser, forskrift og instrukser som er fastsatt av fagskolen.
+3. Studenter som er tatt opp ved utdanningstilbud som krever egenbetaling må overholde betalingsfrister. Aksept av studieplass medfører aksept av avgifter og særutlegg. Disse er ikke refunderbare.
+4. Studenten må skaffe seg det undervisningsmateriell og lærebøker, datautstyr og programvare som opplæringen krever og som skolen ikke holder.
+5. Studenten skal delta aktivt i all opplæring i den form den blir gitt, herunder arbeidskrav, laboratoriearbeid, prosjektarbeid, praktiske øvinger, demonstrasjoner, praksisperioder og ekskursjoner.
 
 (4) Arbeidsinnsatsen for en fulltidsstudent er forventet å tilsvare et normalt arbeidsår, det vil si 1 800 timer per studieår. Studenten er selv ansvarlig for å følge opp sin egne utdanningsplan.
 
@@ -62,13 +68,23 @@ eu_basis: []
 
 ### § 2-1. Opptakskrav
 
-(1) En fagskoleutdanning skal bygge videre på kompetanse på nivå 4 i NKR. Det generelle grunnlaget for opptak til fagskoleutdanningene ved TISIP Fagskole er en av følgende:fullført og bestått videregående opplæringfullført og bestått videregående opplæring med fagbrev/svennebrevminst 5 års relevant praksis uten fagbrev, og med realkompetanse i felles allmenne fag tilsvarende læreplanene i videregående trinn 1 og videregående trinn 2 i yrkesfaglige utdanningsprogram.
+(1) En fagskoleutdanning skal bygge videre på kompetanse på nivå 4 i NKR. Det generelle grunnlaget for opptak til fagskoleutdanningene ved TISIP Fagskole er en av følgende:
+
+1. fullført og bestått videregående opplæring
+2. fullført og bestått videregående opplæring med fagbrev/svennebrev
+3. minst 5 års relevant praksis uten fagbrev, og med realkompetanse i felles allmenne fag tilsvarende læreplanene i videregående trinn 1 og videregående trinn 2 i yrkesfaglige utdanningsprogram.
 
 (2) Søkere som har fylt 23 år på søknadstidspunktet, kan søke opptak på grunnlag av realkompetanse; generell kompetanse og modenhet på nivå med læringsutbyttebeskrivelser for fagbrev som IKT-servicefag. Søkerens realkompetanse er den kompetansen søkeren har opparbeidet seg gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter eller på annen måte.
 
 (3) Dersom realkompetansevurderingsskjema blir godkjent, avklares realkompetansen endelig ved intervju. Realkompetansevurderinger foretas av studieleder. Vedtak vedrørende realkompetanse er et enkeltvedtak, som påklages til lokal klagenemnd etter bestemmelsene i denne forskriftens kapittel 6. Klagen sendes til fagskolens administrasjon.
 
-(4) Da undervisningsspråket ved fagskolen er norsk, må søkere kunne forstå og kommunisere på norsk muntlig og skriftlig for å oppnå læringsutbyttet. Søkere med annet morsmål enn norsk må dokumentere tilfredsstillende språkkunnskaper med én av følgende prøver (fagskoleforskriften § 9, tredje ledd):Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven) [§ 19](lov/2003-07-04-80/§19) andre ledd.
+(4) Da undervisningsspråket ved fagskolen er norsk, må søkere kunne forstå og kommunisere på norsk muntlig og skriftlig for å oppnå læringsutbyttet. Søkere med annet morsmål enn norsk må dokumentere tilfredsstillende språkkunnskaper med én av følgende prøver (fagskoleforskriften § 9, tredje ledd):
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven) [§ 19](lov/2003-07-04-80/§19) andre ledd.
 
 (5) Dokumentasjon for den opplæring og/eller eventuell yrkeserfaring som danner grunnlag for opptaket, jf. første og annet ledd, samt eventuell dokumentasjon for språkferdigheter som er påkrevet etter fjerde ledd, skal vedlegges søknaden og eventuelt ettersendes dersom fagskolen etterspør dette.
 
@@ -158,7 +174,11 @@ Eksamen og andre vurderinger skal gjennomføres slik at studentenes kunnskaper, 
 
 (1) Det kan fastsettes i studieplanen at emner og vurderinger skal gjennomføres og bestås i en bestemt rekkefølge, og at krav til obligatorisk aktivitet skal være oppfylt før studenten har rett til å avlegge eksamen eller annen avsluttende vurdering for emner ved fagskolen.
 
-(2) Som student må man selv melde seg opp til eksamen i hvert emne, via fagskolens studieadministrative system (min side på itfag.no). Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har oppfylt de kravene til forkunnskaper, progresjon og/eller andre vilkår som er fastsatt i studieplanen.Studenten kan fremvise gyldig identifikasjon i eksamenslokalet.Studenten ikke har mistet retten til å fremstille seg til eksamen som følge av at antall vurderingsforsøk er brukt opp.
+(2) Som student må man selv melde seg opp til eksamen i hvert emne, via fagskolens studieadministrative system (min side på itfag.no). Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+- Studenten har oppfylt de kravene til forkunnskaper, progresjon og/eller andre vilkår som er fastsatt i studieplanen.
+- Studenten kan fremvise gyldig identifikasjon i eksamenslokalet.
+- Studenten ikke har mistet retten til å fremstille seg til eksamen som følge av at antall vurderingsforsøk er brukt opp.
 
 (3) Studenter i permisjon skal etter [§ 3-3](forskrift/2020-10-12-2054/§3-3) femte ledd ha gitt fagskolen bekreftelse vedrørende gjenopptak av studiet og første ønskede vurdering etter avsluttet permisjon. Det samme gjelder studenter som har vært midlertidig bortvist eller utestengt eller har fått annullert sin eksamen etter bestemmelser i denne forskrifts kapittel 5.
 
@@ -261,7 +281,15 @@ Følgende beskrivelser legges til grunn for karaktersetting.
 
 (1) Styret kan annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i.
 
-(2) Styret kan også annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med prestasjonen eller under gjennomføringen av emnet. Bestemmelsene om fusk omfatter både arbeidskrav og ved gjennomføring av eksamen. Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Det gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Som fusk eller forsøk på fusk regnes blant annet:Bruk av andre hjelpemidler enn de som er tillatt i emneplanen. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig ved gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk.Ulovlig samarbeid med medstudenter der hvor det skal foretas individuell innlevering.Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider av eget eller andres arbeid uten tilstrekkelig kildehenvisning og korrekt angivelse av sitater m.m.Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre uten tilstrekkelig kildehenvisning.Dersom besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller at den åpenbart er utarbeidet av andre.Medvirkning til fusk.Å skaffe seg adgang til eksamen ved å ha fusket ved arbeidskrav eller øvrige vilkår for å avlegge eksamen, eller på uriktig grunnlag har fått godkjent deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter. Listen er ikke uttømmende.
+(2) Styret kan også annullere resultatet av en eksamen eller annet arbeid som bedømmes med karakter og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med prestasjonen eller under gjennomføringen av emnet. Bestemmelsene om fusk omfatter både arbeidskrav og ved gjennomføring av eksamen. Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Det gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Som fusk eller forsøk på fusk regnes blant annet:
+
+- Bruk av andre hjelpemidler enn de som er tillatt i emneplanen. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig ved gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk.
+- Ulovlig samarbeid med medstudenter der hvor det skal foretas individuell innlevering.
+- Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider av eget eller andres arbeid uten tilstrekkelig kildehenvisning og korrekt angivelse av sitater m.m.
+- Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre uten tilstrekkelig kildehenvisning.
+- Dersom besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller at den åpenbart er utarbeidet av andre.
+- Medvirkning til fusk.
+- Å skaffe seg adgang til eksamen ved å ha fusket ved arbeidskrav eller øvrige vilkår for å avlegge eksamen, eller på uriktig grunnlag har fått godkjent deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter. Listen er ikke uttømmende.
 
 (3) Styret kan annullere fritak for eller innpassing av utdanning og kompetanse som en student har fått ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden.
 

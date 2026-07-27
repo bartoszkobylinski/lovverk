@@ -34,7 +34,14 @@ Forskriften gjelder mobiltilbydere.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Autorisasjon:* Godkjenning av at en virksomhet kan få prioritetsabonnement.*Mobilnett:* Offentlig landmobilt elektronisk kommunikasjonsnett.*Mobiltilbyder:* Tilbyder av tilgang til mobilnett og tilbyder av offentlige elektroniske kommunikasjonstjenester i mobilnett.*Tilgangsprioritet:* Funksjon i mobilnett som sikrer prioritetsabonnenter høyere sannsynlighet enn andre for å komme gjennom med sin innkommende og utgående kommunikasjon når det lokalt er metning i mobilnettet.*Nasjonal gjesting:* Funksjon som gjør det mulig for en sluttbruker å få formidlet egen mobiltilbyders offentlige elektroniske kommunikasjonstjenester i annen mobiltilbyders mobilnett i Norge.*Prioritetsabonnement:* Et mobilabonnement som inneholder tilgangsprioritet og nasjonal gjesting i medhold av denne forskrift.
+I denne forskriften menes med:
+
+- *Autorisasjon:* Godkjenning av at en virksomhet kan få prioritetsabonnement.
+- *Mobilnett:* Offentlig landmobilt elektronisk kommunikasjonsnett.
+- *Mobiltilbyder:* Tilbyder av tilgang til mobilnett og tilbyder av offentlige elektroniske kommunikasjonstjenester i mobilnett.
+- *Tilgangsprioritet:* Funksjon i mobilnett som sikrer prioritetsabonnenter høyere sannsynlighet enn andre for å komme gjennom med sin innkommende og utgående kommunikasjon når det lokalt er metning i mobilnettet.
+- *Nasjonal gjesting:* Funksjon som gjør det mulig for en sluttbruker å få formidlet egen mobiltilbyders offentlige elektroniske kommunikasjonstjenester i annen mobiltilbyders mobilnett i Norge.
+- *Prioritetsabonnement:* Et mobilabonnement som inneholder tilgangsprioritet og nasjonal gjesting i medhold av denne forskrift.
 
 > Endret ved forskrift [23 des 2022 nr. 2505](forskrift/2022-12-23-2505) (i kraft 15 sep 2023).
 
@@ -68,7 +75,12 @@ Personer som behandler prioritetsabonnement hos mobiltilbyder skal ha særskilt 
 
 ### § 8. Tilgangsprioritet
 
-Mobiltilbyder som plikter å tilby prioritetsabonnement skal for disse abonnementene ha tilgangsprioritet med følgende egenskaper:tilgangsprioritet skal omfatte tale-, data- og meldingstjenester,tilgangsprioritet skal ikke påvirke nødsamtaler negativt,tilgangsprioritet skal ikke stille særskilte krav til mobilterminal ogtilgangsprioritet skal gjelde også dersom prioritetsabonnenten er gjest, jf. [§ 9](forskrift/2013-10-21-1241/§9).
+Mobiltilbyder som plikter å tilby prioritetsabonnement skal for disse abonnementene ha tilgangsprioritet med følgende egenskaper:
+
+1. tilgangsprioritet skal omfatte tale-, data- og meldingstjenester,
+2. tilgangsprioritet skal ikke påvirke nødsamtaler negativt,
+3. tilgangsprioritet skal ikke stille særskilte krav til mobilterminal og
+4. tilgangsprioritet skal gjelde også dersom prioritetsabonnenten er gjest, jf. [§ 9](forskrift/2013-10-21-1241/§9).
 
 Nasjonal kommunikasjonsmyndighet kan fastsette nærmere krav til funksjon og egenskaper for tilgangsprioritet.
 

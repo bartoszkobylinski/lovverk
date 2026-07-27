@@ -28,7 +28,10 @@ Formålet med ordningen er å bidra til å avhjelpe den krevende likviditetssitu
 
 ## § 2. Vilkår for tilskudd
 
-Følgende fartøy kan søke om tilskudd til drivstoffutgifter til norsk avgiftsbelagt drivstoff som er bunkret i 2026:Fartøy som i henhold til [forskrift 17. desember 2020 nr. 2950 om midlertidig tilskudd som kompensasjon for CO2-avgift på drivstoff for fiske og fangst](forskrift/2020-12-17-2950), inngikk i kystrekeflåten for året 2025.Fartøy som ikke omfattes av punkt a, men som dokumenterer at inntekten fra reke- og sjøkrepsfisket i sum overstiger 50 % av fangstverdien som bunkringen av drivstoff er opphav til.
+Følgende fartøy kan søke om tilskudd til drivstoffutgifter til norsk avgiftsbelagt drivstoff som er bunkret i 2026:
+
+1. Fartøy som i henhold til [forskrift 17. desember 2020 nr. 2950 om midlertidig tilskudd som kompensasjon for CO2-avgift på drivstoff for fiske og fangst](forskrift/2020-12-17-2950), inngikk i kystrekeflåten for året 2025.
+2. Fartøy som ikke omfattes av punkt a, men som dokumenterer at inntekten fra reke- og sjøkrepsfisket i sum overstiger 50 % av fangstverdien som bunkringen av drivstoff er opphav til.
 
 Det kan søkes om tilskudd inntil 12 ganger og første søknad kan sendes fra og med februar 2026.
 

@@ -50,7 +50,11 @@ Premiesatsene fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjør
 
 ## § 4. Premiefritak
 
-Premie betales ikke for de hele kalenderuker da en selvstendig næringsdrivendeikke har rett til tillegg for forsikringen, jf. [folketrygdloven § 8-36](lov/1997-02-28-19/§8-36) andre ledd.som nevnt i [folketrygdloven § 8-36](lov/1997-02-28-19/§8-36) første ledd bokstav a, er sykmeldt i mer enn i 16 dager,har mistet retten til sykepenger etter [folketrygdloven § 8-54](lov/1997-02-28-19/§8-54).
+Premie betales ikke for de hele kalenderuker da en selvstendig næringsdrivende
+
+1. ikke har rett til tillegg for forsikringen, jf. [folketrygdloven § 8-36](lov/1997-02-28-19/§8-36) andre ledd.
+2. som nevnt i [folketrygdloven § 8-36](lov/1997-02-28-19/§8-36) første ledd bokstav a, er sykmeldt i mer enn i 16 dager,
+3. har mistet retten til sykepenger etter [folketrygdloven § 8-54](lov/1997-02-28-19/§8-54).
 
 > Endret ved [forskrifter 18 des 2003 nr. 1658](forskrift/2003-12-18-1658), [27 juni 2008 nr. 720](forskrift/2008-06-27-720) (i kraft 1 juli 2008).
 

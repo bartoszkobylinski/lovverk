@@ -15,7 +15,7 @@ xml_hash: "bda01907def906e0032596ff6c6b2acf2c6025c8dd6d986b652dac0cea7fae60"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014R0910"
@@ -73,7 +73,11 @@ Tilsynet kan frafalle påløpt tvangsmulkt.
 
 ## § 5. Straff
 
-Med bøter straffes den som forsettlig eller grovt uaktsomtopptrer som utsteder av kvalifisert tillitstjeneste uten å være registrert som dette etter lovenunnlater å gi opplysninger etter [§ 3](lov/2018-06-15-44/§3),gir uriktige eller villedende opplysninger til tilsynet.
+Med bøter straffes den som forsettlig eller grovt uaktsomt
+
+1. opptrer som utsteder av kvalifisert tillitstjeneste uten å være registrert som dette etter loven
+2. unnlater å gi opplysninger etter [§ 3](lov/2018-06-15-44/§3),
+3. gir uriktige eller villedende opplysninger til tilsynet.
 
 ## § 6. Klageadgang
 

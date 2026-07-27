@@ -15,7 +15,7 @@ xml_hash: "aeedbcb258e09c8ec55e60a62a5a742e6f3b16de05084cb8f820035b1882bf21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,28 @@ Statsforvalteren kan etter en særskilt vurdering innvilge søknader om tidligpe
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med;*bruker;* enhver som eier landbrukseiendom eller deltar i driften av slik eiendom med egen innsats eller ved utleie*samboere;* parter som har levd uavbrutt sammen i et ekteskapslignende forhold de siste 5 årene før overdragelsestidspunktet*referanseperiode;* fem sammenhengende år der siste år er 2 år tilbake i tid i forhold til søknadsåret*referanseinntekt;* summen av inntektene nevnt i bokstavene a-d i referanseperioden dividert på 5;næringsinntekt fra jordbruk/gartnerinæringsinntekt fra skogbrukutbetalte sykepenger som er opptjent av virksomhet som nevnt i bokstavene a og blønn som er betalt fra bruker til samboer for dennes arbeid på landbrukseiendommen.*annen inntekt;* summen av inntektene nevnt i bokstavene a–e i referanseperioden dividert på 5;lønnsinntekt, bortsett fra lønnsinntekt fra Inn på Tunet-virksomhet som statsforvalteren har gitt unntak for etter [§ 8](forskrift/1999-02-03-190/§8) andre ledd eller [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 2næringsinntekt fra fiske og fangst og annen næring som ikke omfattes av [§ 7](forskrift/1999-02-03-190/§7) andre ledd bokstav autbetalte sykepenger opptjent gjennom inntekt som nevnt i bokstavene a og butbetalte dagpengerutbetalt uføretrygd og arbeidsavklaringspenger med mindre statsforvalteren har gitt unntakpå grunnlag av bestemmelsene i [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 1.*samlet inntekt;* summen av referanseinntekt og annen inntekt*enbrukerpensjon;* tidligpensjon som ytes bruker*tobrukerpensjon;* tidligpensjon som ytes bruker og dennes ektefelle/samboer.
+I denne forskrift menes med;
+
+1. *bruker;* enhver som eier landbrukseiendom eller deltar i driften av slik eiendom med egen innsats eller ved utleie
+2. *samboere;* parter som har levd uavbrutt sammen i et ekteskapslignende forhold de siste 5 årene før overdragelsestidspunktet
+3. *referanseperiode;* fem sammenhengende år der siste år er 2 år tilbake i tid i forhold til søknadsåret
+4. *referanseinntekt;* summen av inntektene nevnt i bokstavene a-d i referanseperioden dividert på 5;
+
+   1. næringsinntekt fra jordbruk/gartneri
+   2. næringsinntekt fra skogbruk
+   3. utbetalte sykepenger som er opptjent av virksomhet som nevnt i bokstavene a og b
+   4. lønn som er betalt fra bruker til samboer for dennes arbeid på landbrukseiendommen.
+5. *annen inntekt;* summen av inntektene nevnt i bokstavene a–e i referanseperioden dividert på 5;
+
+   1. lønnsinntekt, bortsett fra lønnsinntekt fra Inn på Tunet-virksomhet som statsforvalteren har gitt unntak for etter [§ 8](forskrift/1999-02-03-190/§8) andre ledd eller [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 2
+   2. næringsinntekt fra fiske og fangst og annen næring som ikke omfattes av [§ 7](forskrift/1999-02-03-190/§7) andre ledd bokstav a
+   3. utbetalte sykepenger opptjent gjennom inntekt som nevnt i bokstavene a og b
+   4. utbetalte dagpenger
+   5. utbetalt uføretrygd og arbeidsavklaringspenger med mindre statsforvalteren har gitt unntak
+   6. på grunnlag av bestemmelsene i [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 1.
+6. *samlet inntekt;* summen av referanseinntekt og annen inntekt
+7. *enbrukerpensjon;* tidligpensjon som ytes bruker
+8. *tobrukerpensjon;* tidligpensjon som ytes bruker og dennes ektefelle/samboer.
 
 > Endret ved [forskrifter 25 aug 1999 nr. 1631](forskrift/1999-08-25-1631), [28 juni 2002 nr. 736](forskrift/2002-06-28-736) (i kraft 1 juli 2002), [26 juni 2003 nr. 789](forskrift/2003-06-26-789) (i kraft 1 juli 2003), [5 nov 2003 nr. 1561](forskrift/2003-11-05-1561) (i kraft 1 jan 2004), [26 juni 2008 nr. 728](forskrift/2008-06-26-728) (i kraft 1 juli 2008), [5 feb 2010 nr. 116](forskrift/2010-02-05-116) (i kraft 1 mars 2010), [17 des 2018 nr. 2119](forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [16 des 2021 nr. 3741](forskrift/2021-12-16-3741) (i kraft 1 jan 2022).
 
@@ -48,7 +69,10 @@ For å være berettiget tidligpensjon kan bruker og/eller dennes ektefelle/sambo
 
 Ved avhending må hjemmelen til eiendommen være tinglyst på ny eier. Dersom salget er konsesjonspliktig i henhold til [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv., og kjøper etter kjøpekontrakt har tatt risiko for konsesjon, er det tilstrekkelig at kopi av tinglyst kjøpekontrakt foreligger på søketidspunktet. Ved forpaktning1 skal forpaktningsavtalen være skriftlig oppsagt.
 
-Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:bruker og dennes ektefelle/samboer eier hver sin landbrukseiendom og disse drives som selvstendige enheter. Det kan ytes tidligpensjon til den som overdrar landbrukseiendom, uten krav om at den andre parten må overdra sin landbrukseiendom. Det kan ytes enbrukerpensjon til både bruker og dennes ektefelle/samboer som følge av hver sin eiendomsoverdragelse.bruker eller ektefelle/samboer er eier eller medeier av en landbrukseiendom som har karakter av fritidseiendom, som ikke har vært i drift i referanseperioden og som etter statsforvalterens vurdering ikke vil komme i drift. Det kan ytes tidligpensjon selv om slik landbrukseiendom ikke overdras.
+Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:
+
+1. bruker og dennes ektefelle/samboer eier hver sin landbrukseiendom og disse drives som selvstendige enheter. Det kan ytes tidligpensjon til den som overdrar landbrukseiendom, uten krav om at den andre parten må overdra sin landbrukseiendom. Det kan ytes enbrukerpensjon til både bruker og dennes ektefelle/samboer som følge av hver sin eiendomsoverdragelse.
+2. bruker eller ektefelle/samboer er eier eller medeier av en landbrukseiendom som har karakter av fritidseiendom, som ikke har vært i drift i referanseperioden og som etter statsforvalterens vurdering ikke vil komme i drift. Det kan ytes tidligpensjon selv om slik landbrukseiendom ikke overdras.
 
 > Endret ved [forskrifter 25 aug 1999 nr. 1631](forskrift/1999-08-25-1631), [21 nov 2000 nr. 1185](forskrift/2000-11-21-1185) (i kraft 1 jan 2001), [28 juni 2002 nr. 736](forskrift/2002-06-28-736) (i kraft 1 juli 2002), [5 nov 2003 nr. 1561](forskrift/2003-11-05-1561) (i kraft 1 jan 2004), [3 nov 2010 nr. 1401](forskrift/2010-11-03-1401), [17 des 2018 nr. 2119](forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
@@ -56,7 +80,10 @@ Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:br
 
 ## § 5. Varighet i næringen
 
-For å utløse tidligpensjon må bruker på overdragelses- eller oppsigelsestidspunktet entenha drevet jordbruk/gartneri selv i minst 15 år, ellerha leiet ut til landbruksdrift i perioden slik at den samlede perioden for egen drift eller utleie utgjør minst 15 år.
+For å utløse tidligpensjon må bruker på overdragelses- eller oppsigelsestidspunktet enten
+
+1. ha drevet jordbruk/gartneri selv i minst 15 år, eller
+2. ha leiet ut til landbruksdrift i perioden slik at den samlede perioden for egen drift eller utleie utgjør minst 15 år.
 
 For å utløse tobrukerpensjon må i tillegg ektefelle/samboer ved overdragelses- eller oppsigelsestidspunktet ha bodd og arbeidet på landbrukseiendommen de siste 5 år.
 
@@ -76,7 +103,11 @@ Retten til tidligpensjon bortfaller for bruker og ektefelle/samboer ved utgangen
 
 Brukers og ektefelles/samboers samlede referanseinntekt må minst være 90.000 kroner. Gjennomsnittlig næringsinntekt i referanseperioden fra jordbruk/gartneri må utgjøre minst 25 prosent av samlet referanseinntekt.
 
-Statsforvalteren kan etter en særskilt vurdering;la næringsinntekt fra fiske, fangst og annen næring som drives som tilleggsnæring til jordbruk inngå i referanseinntektenfravike kravet i første ledd første punktum for søkere som har hatt et lavere inntektsnivåinnrømme tidligpensjon til søkere som ikke oppfyller kravet i første ledd første punktum på grunn av arbeidsavklaring eller hel eller delvis uførhet.
+Statsforvalteren kan etter en særskilt vurdering;
+
+1. la næringsinntekt fra fiske, fangst og annen næring som drives som tilleggsnæring til jordbruk inngå i referanseinntekten
+2. fravike kravet i første ledd første punktum for søkere som har hatt et lavere inntektsnivå
+3. innrømme tidligpensjon til søkere som ikke oppfyller kravet i første ledd første punktum på grunn av arbeidsavklaring eller hel eller delvis uførhet.
 
 > Endret ved [forskrifter 28 juni 2002 nr. 736](forskrift/2002-06-28-736) (i kraft 1 juli 2002), [17 des 2018 nr. 2119](forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
@@ -94,7 +125,10 @@ Ektefelle/samboer må ha mindre enn 100 000 kroner i annen inntekt. Brukers og 
 
 ## § 10. Unntak fra inntektskrav
 
-Statsforvalteren kan etter særskilt vurdering innrømme tidligpensjon selv om vilkårene i [§ 8](forskrift/1999-02-03-190/§8) og [§ 9](forskrift/1999-02-03-190/§9) ikke er oppfylt dersombruker eller ektefelle/samboer har mottatt arbeidsavklaringspenger eller uføretrygd fordi bruker eller ektefelle/samboer har fått nedsatt inntektsevne fra jordbruks- eller skogbruksdriften på eiendom som søkerne har disponert. Bruker eller ektefelle/samboer må i referanseperioden i det vesentligste hatt sine inntekter fra jordbruks- eller skogbruksdriften.bruker eller ektefelle/samboer har hatt lønnsinntekt fra Inn på Tunet-virksomhet på søkernes landbrukseiendom.
+Statsforvalteren kan etter særskilt vurdering innrømme tidligpensjon selv om vilkårene i [§ 8](forskrift/1999-02-03-190/§8) og [§ 9](forskrift/1999-02-03-190/§9) ikke er oppfylt dersom
+
+1. bruker eller ektefelle/samboer har mottatt arbeidsavklaringspenger eller uføretrygd fordi bruker eller ektefelle/samboer har fått nedsatt inntektsevne fra jordbruks- eller skogbruksdriften på eiendom som søkerne har disponert. Bruker eller ektefelle/samboer må i referanseperioden i det vesentligste hatt sine inntekter fra jordbruks- eller skogbruksdriften.
+2. bruker eller ektefelle/samboer har hatt lønnsinntekt fra Inn på Tunet-virksomhet på søkernes landbrukseiendom.
 
 > Tilføyd ved forskrift [5 des 2023 nr. 1964](forskrift/2023-12-05-1964) (i kraft 1 jan 2024).
 

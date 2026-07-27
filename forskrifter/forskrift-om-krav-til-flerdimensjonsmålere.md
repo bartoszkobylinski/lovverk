@@ -15,7 +15,7 @@ xml_hash: "074e27ce81573b4139dd0e9a19d51c8eec841e31d823111aec289914be959b54"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,11 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 4. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør flerdimensjonsmålerens normale driftsbetingelser
 5. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor flerdimensjonsmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
 6. *Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket
-7. *Direktesalg:* En handelstransaksjon er direktesalg dersom:Måleresultatet danner grunnlaget for prisen som betalesMinst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, ogAlle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer
+7. *Direktesalg:* En handelstransaksjon er direktesalg dersom:
+
+   1. Måleresultatet danner grunnlaget for prisen som betales
+   2. Minst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, og
+   3. Alle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer
 8. *Klimatiske miljøer:* De omgivelser der flerdimensjonsmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 ### § 3. Krav til flerdimensjonsmålere
@@ -110,7 +114,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter instrumenter som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at instrumentet er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter instrumenter som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel instrumenter montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. Vibrasjon
+2. Mekanisk sjokk.
 
 ### § 12. Elektromagnetiske miljø
 
@@ -124,9 +131,21 @@ Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskreve
 | E2 | Denne klassen omfatter instrumenter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter instrumenter som får strøm fra batteriet i et kjøretøy. Slike instrumenter skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 ### § 13. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -162,7 +181,12 @@ En flerdimensjonsmåler skal konstrueres slik at virkningen av en funksjonsfeil 
 
 ### § 20. Egnethet
 
-En flerdimensjonsmåler skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserVære konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En flerdimensjonsmåler skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Være konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En flerdimensjonsmåler skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -180,9 +204,23 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 22. Opplysninger som skal påføres eller følge flerdimensjonsmåleren
 
-En flerdimensjonsmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres måleren:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+En flerdimensjonsmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres måleren:
 
-Opplysninger om betjening skal følge flerdimensjonsmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge flerdimensjonsmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske flerdimensjonsmålere er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -214,7 +252,12 @@ En flerdimensjonsmåler skal være konstruert slik at det lett kan vurderes om d
 
 ### § 27. Elektromagnetisk immunitet
 
-Virkningen av en elektromagnetisk forstyrrelse på et instrument til dimensjonsmåling skal være slik atendringen i måleresultatet ikke er større en den kritiske endringsverdien som definert i annet ledd,det er umulig å utføre noen måling,det er kortvarige variasjoner i måleresultatet som ikke kan tolkes, registreres eller overføres som måleresultat, ellerdet er variasjoner i måleresultatet som er alvorlige nok til at de merkes av alle parter med interesse i måleresultatet.
+Virkningen av en elektromagnetisk forstyrrelse på et instrument til dimensjonsmåling skal være slik at
+
+1. endringen i måleresultatet ikke er større en den kritiske endringsverdien som definert i annet ledd,
+2. det er umulig å utføre noen måling,
+3. det er kortvarige variasjoner i måleresultatet som ikke kan tolkes, registreres eller overføres som måleresultat, eller
+4. det er variasjoner i måleresultatet som er alvorlige nok til at de merkes av alle parter med interesse i måleresultatet.
 
 Den kritiske endringsverdien er lik en minstedeling (d).
 

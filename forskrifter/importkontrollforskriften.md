@@ -17,7 +17,7 @@ xml_hash: "ab3d1b9084b36de02423ba957fe84c789fc69f030a6b9ef187e289a525829f09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med forskriften er at tilsyn og kontroll med næringsmidler og fôrvarer som innføres til Norge gjennomføres på en måte som sikrerat menneskers og dyrs helse beskyttes,at krav i særskilte forskrifter er oppfylt,at krav til redelighet og kvalitet er ivaretatt.
+Formålet med forskriften er at tilsyn og kontroll med næringsmidler og fôrvarer som innføres til Norge gjennomføres på en måte som sikrer
+
+- at menneskers og dyrs helse beskyttes,
+- at krav i særskilte forskrifter er oppfylt,
+- at krav til redelighet og kvalitet er ivaretatt.
 
 > Endret ved [forskrifter 18 okt 1999 nr. 1165](forskrift/1999-10-18-1165), [26 sep 2025 nr. 2011](forskrift/2025-09-26-2011) (i kraft 1 nov 2025).
 
@@ -36,7 +40,10 @@ Formålet med forskriften er at tilsyn og kontroll med næringsmidler og fôrvar
 
 Forskriften gjelder for tilsyn og kontroll av innførselen med næringsmidler og fôrvarer innen EØS, og import av ikke-animalske næringsmidler og fôrvarer fra stater utenfor EØS. Den gjelder også for fersk, iset og kjølt fisk som er fanget av fiske- eller fabrikkfartøy fra stater utenfor EØS, og som landes direkte.
 
-Denne forskriften, med unntak for [§§ 6](forskrift/1998-12-23-1471/§6), [9](forskrift/1998-12-23-1471/§9) og [10](forskrift/1998-12-23-1471/§10), gjelder ikke forimport av animalske næringsmidler og fôrvarer som kommer direkte fra stater utenfor EØS eller som kommer til Norge fra stater utenfor EØS via EØS, og som ikke har vært gjenstand for grensekontroll innen EØS,kontroll med hensyn til plantehelse, jf. [forskrift 1. desember 2000 nr. 1333 om planter og tiltak mot planteskadegjørere](forskrift/2000-12-01-1333).
+Denne forskriften, med unntak for [§§ 6](forskrift/1998-12-23-1471/§6), [9](forskrift/1998-12-23-1471/§9) og [10](forskrift/1998-12-23-1471/§10), gjelder ikke for
+
+- import av animalske næringsmidler og fôrvarer som kommer direkte fra stater utenfor EØS eller som kommer til Norge fra stater utenfor EØS via EØS, og som ikke har vært gjenstand for grensekontroll innen EØS,
+- kontroll med hensyn til plantehelse, jf. [forskrift 1. desember 2000 nr. 1333 om planter og tiltak mot planteskadegjørere](forskrift/2000-12-01-1333).
 
 Reglene i [§§ 6](forskrift/1998-12-23-1471/§6), [9](forskrift/1998-12-23-1471/§9) og [10](forskrift/1998-12-23-1471/§10) gjelder også for importører av fôrvarer, og importører av animalske næringsmidler og produkter av animalsk opprinnelse mv.
 
@@ -46,7 +53,26 @@ Forskriften gjelder ikke for innførsel til privatbruk i egen husholdning.
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås ved:*næringsmiddel:* enhver mat eller drikkevare, også drikkevann, og enhver annen vare som er bestemt til å konsumeres av mennesker, med unntak av legemidler og tobakk*animalske næringsmidler:* honning, egg, eggprodukt, melk, melkeprodukt, fisk, fiskevarer, ferskt kjøtt, kvernet eller tilberedt kjøtt, fjørfekjøtt, viltkjøtt, kjøttprodukt og andre animalske næringsmidler i samsvar med definisjoner gitt i særskilte forskrifter*særskilte forskrifter:* forskrifter som fastsetter helse-, kvalitets- og/eller redelighetskrav ved produksjon og omsetning av næringsmidler. Dette omfatter blant annet:[forskrift 8. juli 2003 nr. 931 om honning](forskrift/2003-07-08-931),[forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften)](forskrift/2022-04-06-631), med underliggende forskrifter,[forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften)](forskrift/2008-12-22-1620),[forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene (næringsmiddelhygieneforskriften)](forskrift/2008-12-22-1623),[forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)](forskrift/2008-12-22-1624)*innførsel:* import og samhandel av varer inn til Norge---*virksomhet:* bedrift som produserer, oppbevarer, omsetter eller foredler varer som er nevnt i nr. 1, 2 og 3---------*vareparti:* avgrenset mengde varer av samme type, som stammer fra samme avsender, som sendes samtidig med samme transportmiddel med samme rute, som er bestemt til samme mottaker og som omfattes av samme veterinærsertifikat eller annen pålagt dokumentasjon---*første mottaker:* den første virksomhet eller person som etter import direkte mottar eller foretar en fullstendig oppdeling av et vareparti.
+I denne forskrift forstås ved:
+
+1. *næringsmiddel:* enhver mat eller drikkevare, også drikkevann, og enhver annen vare som er bestemt til å konsumeres av mennesker, med unntak av legemidler og tobakk
+2. *animalske næringsmidler:* honning, egg, eggprodukt, melk, melkeprodukt, fisk, fiskevarer, ferskt kjøtt, kvernet eller tilberedt kjøtt, fjørfekjøtt, viltkjøtt, kjøttprodukt og andre animalske næringsmidler i samsvar med definisjoner gitt i særskilte forskrifter
+3. *særskilte forskrifter:* forskrifter som fastsetter helse-, kvalitets- og/eller redelighetskrav ved produksjon og omsetning av næringsmidler. Dette omfatter blant annet:
+
+   - [forskrift 8. juli 2003 nr. 931 om honning](forskrift/2003-07-08-931),
+   - [forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften)](forskrift/2022-04-06-631), med underliggende forskrifter,
+   - [forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften)](forskrift/2008-12-22-1620),
+   - [forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene (næringsmiddelhygieneforskriften)](forskrift/2008-12-22-1623),
+   - [forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)](forskrift/2008-12-22-1624)
+4. *innførsel:* import og samhandel av varer inn til Norge
+5. ---
+6. *virksomhet:* bedrift som produserer, oppbevarer, omsetter eller foredler varer som er nevnt i nr. 1, 2 og 3
+7. ---
+8. ---
+9. ---
+10. *vareparti:* avgrenset mengde varer av samme type, som stammer fra samme avsender, som sendes samtidig med samme transportmiddel med samme rute, som er bestemt til samme mottaker og som omfattes av samme veterinærsertifikat eller annen pålagt dokumentasjon
+11. ---
+12. *første mottaker:* den første virksomhet eller person som etter import direkte mottar eller foretar en fullstendig oppdeling av et vareparti.
 
 > Endret ved [forskrifter 18 okt 1999 nr. 1165](forskrift/1999-10-18-1165), [15 jan 2004 nr. 207](forskrift/2004-01-15-207), [12 sep 2005 nr. 1064](forskrift/2005-09-12-1064), [30 nov 2005 nr. 1355](forskrift/2005-11-30-1355), [30 april 2008 nr. 432](forskrift/2008-04-30-432) (fotnote), [22 des 2008 nr. 1635](forskrift/2008-12-22-1635) som endret ved [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [26 sep 2025 nr. 2011](forskrift/2025-09-26-2011) (i kraft 1 nov 2025).
 
@@ -78,11 +104,22 @@ Registreringen foretas for den enkelte varegruppe og gjelder for to år etter si
 
 ### § 7. Melding om import
 
-Ved import av ikke-animalske næringsmidler fra tredjeland skal importør eller dennes representant sende melding til tilsynsmyndigheten på første mottakssted. Meldingen skal være kommet frem til tilsynsmyndigheten senest 24 timer før varenes ankomst til første mottaker. Meldingen skal gis på den måten som er angitt av tilsynsmyndigheten og minst inneholde følgende opplysninger:importørens navn, adresse og organisasjons- eller fødselsnummer,ankomsttid og navn, adresse og organisasjons- eller fødselsnummer på første mottaker av varene,avsenders navn og avsenderland,varepartiets produksjonsland,mengde varer ogvaregruppe med angivelse av tolltariffens varenummer (åtte sifre) i henhold til inndeling i norsk tolltariff.
+Ved import av ikke-animalske næringsmidler fra tredjeland skal importør eller dennes representant sende melding til tilsynsmyndigheten på første mottakssted. Meldingen skal være kommet frem til tilsynsmyndigheten senest 24 timer før varenes ankomst til første mottaker. Meldingen skal gis på den måten som er angitt av tilsynsmyndigheten og minst inneholde følgende opplysninger:
+
+1. importørens navn, adresse og organisasjons- eller fødselsnummer,
+2. ankomsttid og navn, adresse og organisasjons- eller fødselsnummer på første mottaker av varene,
+3. avsenders navn og avsenderland,
+4. varepartiets produksjonsland,
+5. mengde varer og
+6. varegruppe med angivelse av tolltariffens varenummer (åtte sifre) i henhold til inndeling i norsk tolltariff.
 
 Importøren skal forsikre seg om at den som oppgis som første mottaker er innforstått med dette.
 
-Frisk frukt og grønnsaker nevnt i vedlegg I til denne forskriften er unntatt fra kravet om melding nevnt i første ledd. Dette unntaket gjelder ikke frukt og grønnsaker omfattet av følgende forskrifter, som i henhold til EU regelverket skal meldes i TRACES[forskrift 9. mars 2020 nr. 717 om offentlig kontroll – importkontroll av ikke animalske produkter – forordning (EU) 2019/1793](forskrift/2020-03-09-717),[forskrift 24. august 2020 nr. 1675 om særlige importbetingelser for næringsmidler og fôrvarer som følge av ulykken ved atomkraftverket i Tsjernobyl](forskrift/2020-08-24-1675), eller[forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)](forskrift/2022-06-11-1171).
+Frisk frukt og grønnsaker nevnt i vedlegg I til denne forskriften er unntatt fra kravet om melding nevnt i første ledd. Dette unntaket gjelder ikke frukt og grønnsaker omfattet av følgende forskrifter, som i henhold til EU regelverket skal meldes i TRACES
+
+- [forskrift 9. mars 2020 nr. 717 om offentlig kontroll – importkontroll av ikke animalske produkter – forordning (EU) 2019/1793](forskrift/2020-03-09-717),
+- [forskrift 24. august 2020 nr. 1675 om særlige importbetingelser for næringsmidler og fôrvarer som følge av ulykken ved atomkraftverket i Tsjernobyl](forskrift/2020-08-24-1675), eller
+- [forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)](forskrift/2022-06-11-1171).
 
 Mattilsynet kan ved forskrift gi fritak fra meldeplikten etter første ledd for enkelte varegrupper når dette anses hensiktsmessig.
 
@@ -102,15 +139,28 @@ Importøren skal gjennomføre forhåndsvurdering av produkter, leverandør og av
 
 Forhåndsvurdering skal inneholde vurdering av de farer (eksempelvis biologiske, kjemiske, fysiske eller allergener) som kan være forbundet med varepartiet (produkt og emballasje), om det inneholder ingredienser som krever særskilt godkjenning (eksempelvis [restkontrollforskriften](forskrift/2000-01-27-65), [ny mat forskriften](forskrift/2017-07-25-1215), [forskrift om vitamintilsetning mv. til næringsmidler](forskrift/2010-02-26-247)) eller om det er andre restriksjoner knyttet til produktet eller avsenderlandet.
 
-Første mottaker skalføre register over mottatte varepartier, oggjennomføre mottakskontroll av varepartiet.
+Første mottaker skal
 
-Av registeret skal det fremgåavsenders navn og avsenderland,varepartiets produksjonsland,mengde varer,varegruppe med angivelse av tolltariffens varenummer (åtte sifre) i henhold til inndeling i norsk tolltariff, ogdato for mottak.
+- føre register over mottatte varepartier, og
+- gjennomføre mottakskontroll av varepartiet.
+
+Av registeret skal det fremgå
+
+- avsenders navn og avsenderland,
+- varepartiets produksjonsland,
+- mengde varer,
+- varegruppe med angivelse av tolltariffens varenummer (åtte sifre) i henhold til inndeling i norsk tolltariff, og
+- dato for mottak.
 
 Register over mottatte varepartier skal oppbevares i tre år, og skal kunne fremvises i sin helhet på forespørsel fra Mattilsynet. Det samme gjelder de handelsdokumenter, veterinærsertifikater eller øvrig lovpålagt dokumentasjon som har fulgt med varepartiet. Hvis produktene har lengere holdbarhet enn tre år skal informasjonen/dokumentasjonen oppbevares like lenge som holdbarheten til produktet.
 
 Mottakskontroll skal gjennomføres for å sikre at varepartiet er i samsvar med de krav som er stilt i særskilt forskrifter før det distribueres videre. Denne kontrollen kan blant annet være kontroll av medfølgende dokumentasjon, gjennomføre fysisk kontroll med for eksempel verifiserende prøvetaking og analyser.
 
-Ved innførsel av animalske næringsmidler og andre produkter av animalsk opprinnelse, skal det i tillegg kontrolleres at:partiet følges av handelsdokument, veterinærsertifikat eller annen pålagt dokumentasjon,det er samsvar mellom dokumentasjonen i første kulepunkt og vedkommende vareparti, ogvarene er forskriftsmessig stempelmerket.
+Ved innførsel av animalske næringsmidler og andre produkter av animalsk opprinnelse, skal det i tillegg kontrolleres at:
+
+- partiet følges av handelsdokument, veterinærsertifikat eller annen pålagt dokumentasjon,
+- det er samsvar mellom dokumentasjonen i første kulepunkt og vedkommende vareparti, og
+- varene er forskriftsmessig stempelmerket.
 
 I virksomheter som har tilknyttet tilsynsveterinær, skal denne foreta kontrollen etter syvende ledd andre og tredje kulepunkt. I andre virksomheter skal virksomheten selv foreta denne kontrollen.
 
@@ -222,7 +272,10 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 
 Denne forskrift trer i kraft 1. januar 1999.
 
-Samtidig oppheves følgende forskrifter:[forskrift 20. oktober 1953 nr. 2](forskrift/1953-10-20-2) om importert eddik og eddikessens.[forskrift 24. april 1972 nr. 1](forskrift/1972-04-24-1) om import av vegetabilske konserver.
+Samtidig oppheves følgende forskrifter:
+
+1. [forskrift 20. oktober 1953 nr. 2](forskrift/1953-10-20-2) om importert eddik og eddikessens.
+2. [forskrift 24. april 1972 nr. 1](forskrift/1972-04-24-1) om import av vegetabilske konserver.
 
 ## Vedlegg I. Næringsmidler med meldingsfritak
 

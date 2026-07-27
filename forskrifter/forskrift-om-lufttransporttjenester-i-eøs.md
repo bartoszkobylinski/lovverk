@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1. Gjennomføring av forordning (EF) nr. 1008/2008
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 64a (forordning [(EF) nr. 1008/2008](eu/32008r1008)) om felles regler for drift av lufttransporttjenester i Fellesskapet (heretter kalt lufttransportforordningen) med endring:forordning [(EU) 2019/2](eu/32019r0002) av 11. desember 2018,forordning [(EU) 2020/696](eu/32020r0696) av 25. mai 2020,forordning [(EU) 2020/2114](eu/32020r2114) av 16. desember 2020forordning [(EU) 2020/2115](eu/32020r2115) av 16. desember 2020, ogforordning [(EU) 2018/1139](eu/32018r1139) av 4. juli 2018gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 64a (forordning [(EF) nr. 1008/2008](eu/32008r1008)) om felles regler for drift av lufttransporttjenester i Fellesskapet (heretter kalt lufttransportforordningen) med endring:
+
+1. forordning [(EU) 2019/2](eu/32019r0002) av 11. desember 2018,
+2. forordning [(EU) 2020/696](eu/32020r0696) av 25. mai 2020,
+3. forordning [(EU) 2020/2114](eu/32020r2114) av 16. desember 2020
+4. forordning [(EU) 2020/2115](eu/32020r2115) av 16. desember 2020, og
+5. forordning [(EU) 2018/1139](eu/32018r1139) av 4. juli 2018
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved [forskrifter 11 juli 2019 nr. 999](forskrift/2019-07-11-999), [22 juni 2020 nr. 1348](forskrift/2020-06-22-1348), [12 mars 2021 nr. 680](forskrift/2021-03-12-680), [27 juni 2024 nr. 1381](forskrift/2024-06-27-1381) (i kraft 1 juli 2024).
 
@@ -46,7 +54,16 @@ Forskriften gjelder i riket med unntak av Svalbard.
 
 ### § 4. Definisjoner
 
-I denne forskrift menes med:*Tilbyder:* Luftfartsselskap som gir tilbud.*Dry lease:* Innleie av luftfartøy hvor innleier/selskap overtar det tekniske og operative ansvaret i leieperioden.*Kjøp etter forhandling:* Anskaffelsesprosedyre hvor oppdragsgiver har adgang til å forhandle med en eller flere tilbydere.*Kommersielt ansvar:* Innleier skal bære hele det økonomiske ansvaret, det vil si at utleiers godtgjørelse skal være knyttet til en fast tidsenhet og ikke til fartøyets inntjening.*Operatør:* Ethvert selskap som har gyldig lisens eller tilsvarende tillatelse.*Oppdragsgiver:* Samferdselsdepartementet, underliggende organ eller den kommune eller fylkeskommune Samferdselsdepartementet har bestemt.*Wet lease:* Innleie av luftfartøy med besetning, der luftfartøyet opereres av utleier på dennes tekniske og operative ansvar i leieperioden.*Anbudskonkurranse:* Anskaffelsesprosedyre hvor forhandlinger ikke er tillatt.
+I denne forskrift menes med:
+
+1. *Tilbyder:* Luftfartsselskap som gir tilbud.
+2. *Dry lease:* Innleie av luftfartøy hvor innleier/selskap overtar det tekniske og operative ansvaret i leieperioden.
+3. *Kjøp etter forhandling:* Anskaffelsesprosedyre hvor oppdragsgiver har adgang til å forhandle med en eller flere tilbydere.
+4. *Kommersielt ansvar:* Innleier skal bære hele det økonomiske ansvaret, det vil si at utleiers godtgjørelse skal være knyttet til en fast tidsenhet og ikke til fartøyets inntjening.
+5. *Operatør:* Ethvert selskap som har gyldig lisens eller tilsvarende tillatelse.
+6. *Oppdragsgiver:* Samferdselsdepartementet, underliggende organ eller den kommune eller fylkeskommune Samferdselsdepartementet har bestemt.
+7. *Wet lease:* Innleie av luftfartøy med besetning, der luftfartøyet opereres av utleier på dennes tekniske og operative ansvar i leieperioden.
+8. *Anbudskonkurranse:* Anskaffelsesprosedyre hvor forhandlinger ikke er tillatt.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
@@ -62,15 +79,43 @@ For selskap som ikke er underlagt reglene om lisens i lufttrafikkforordningens k
 
 (1) Avtale om dry-lease sendes Luftfartstilsynet for godkjennelse jf. lufttransportforordning artikkel 13 nr. 1 og 2. Avtalen må være godkjent før leieforholdet trer i kraft.
 
-(2) Leieavtalen, samt forsikringsbevis, skal vedlegges søknaden. Avtalen skal være datert, underskrevet av begge parter og minst inneholde følgende opplysninger:Eier/utleier og innleier/operatørens navn.Luftfartøytype, serienummer og registreringsmerke.MTOW dersom luftfartøyet er innleid fra utlandet.Leieperioden (fra dato til dato).Innleiers/operatørens kommersielle ansvar/risiko for driften av luftfartøyet i innleieperioden.Innleiers/operatørens ansvar vedrørende forsikring.Gyldig avtale om framleie mellom eier og utleier dersom utleier ikke står som eier av luftfartøyet.
+(2) Leieavtalen, samt forsikringsbevis, skal vedlegges søknaden. Avtalen skal være datert, underskrevet av begge parter og minst inneholde følgende opplysninger:
 
-(3) Foruten de forhold som er omfattet av andre ledd må gjelder følgende vilkår som også må fremgå av søknaden:Operative vilkår:Operatøransvaret må entydig være tillagt innleier,Luftfartøyet skal kun opereres av innleiers egne besetninger i ansettelsesforhold,Nødvendig typeutsjekk/-rating av innleiers besetning,Nødvendig «Difference list»-trening,Type av operasjon, IFR/VFR (eventuelt begge),Eventuell validering av besetningens sertifikater,Innleiers Driftshåndbok dekkende for planlagt operasjon,Overførings-/treningsprogram for besetningen,Tilgjengelige og kvalifiserte instruktører,Innleiers organisasjon må være tilstrekkelig for å ivareta utvidelsen, ogBase/stasjoneringssted må være avklart.Teknisk vilkår: Innleier skal være godkjent for fartøytypen.
+1. Eier/utleier og innleier/operatørens navn.
+2. Luftfartøytype, serienummer og registreringsmerke.
+3. MTOW dersom luftfartøyet er innleid fra utlandet.
+4. Leieperioden (fra dato til dato).
+5. Innleiers/operatørens kommersielle ansvar/risiko for driften av luftfartøyet i innleieperioden.
+6. Innleiers/operatørens ansvar vedrørende forsikring.
+7. Gyldig avtale om framleie mellom eier og utleier dersom utleier ikke står som eier av luftfartøyet.
+
+(3) Foruten de forhold som er omfattet av andre ledd må gjelder følgende vilkår som også må fremgå av søknaden:
+
+1. Operative vilkår:
+
+   1. Operatøransvaret må entydig være tillagt innleier,
+   2. Luftfartøyet skal kun opereres av innleiers egne besetninger i ansettelsesforhold,
+   3. Nødvendig typeutsjekk/-rating av innleiers besetning,
+   4. Nødvendig «Difference list»-trening,
+   5. Type av operasjon, IFR/VFR (eventuelt begge),
+   6. Eventuell validering av besetningens sertifikater,
+   7. Innleiers Driftshåndbok dekkende for planlagt operasjon,
+   8. Overførings-/treningsprogram for besetningen,
+   9. Tilgjengelige og kvalifiserte instruktører,
+   10. Innleiers organisasjon må være tilstrekkelig for å ivareta utvidelsen, og
+   11. Base/stasjoneringssted må være avklart.
+2. Teknisk vilkår: Innleier skal være godkjent for fartøytypen.
 
 ### § 7. Godkjennelse av wet-lease
 
 (1) Avtale om wet-lease sendes Luftfartstilsynet for godkjennelse, jf. lufttrafikkforordningen artikkel 13 nr. 1 og 2. Avtalen må være godkjent før leieforholdet trer i kraft.
 
-(2) For at søknaden skal kunne godkjennes kreves det at:utleier har gyldig lisens og AOC,at innleier opererer luftfartøy av samme kategori,at det operative og det tekniske ansvaret påhviler utleier, ogat innleier har det kommersielle ansvaret.
+(2) For at søknaden skal kunne godkjennes kreves det at:
+
+1. utleier har gyldig lisens og AOC,
+2. at innleier opererer luftfartøy av samme kategori,
+3. at det operative og det tekniske ansvaret påhviler utleier, og
+4. at innleier har det kommersielle ansvaret.
 
 (3) Både operativt og teknisk ansvar påhviler utleier, mens innleier har det kommersielle ansvaret.
 
@@ -126,19 +171,36 @@ Anskaffelsen skal skje ved at det gjennomføres en anbudskonkurranse eller ved k
 
 ### § 15. Krav til innholdet i kunngjøringen
 
-Kunngjøring av konkurranse skal inneholde:oppdragsgivers navn, postadresse, telefonnummer og e-postadresse.angivelse av hvor interesserte leverandører skal henvende seg for å få tilgang til konkurransegrunnlaget med all relevant dokumentasjon, med mindre dette gjøres elektronisk tilgjengelig via selve kunngjøringen.ruteangivelse og ruteområdets eller rutens geografiske beliggenhet.frist og angivelse av tid og sted for innlevering av tilbud, herunder den adressen tilbudet skal sendes til.kontraktens gyldighetsperiode og tidspunkt for oppstart.
+Kunngjøring av konkurranse skal inneholde:
+
+1. oppdragsgivers navn, postadresse, telefonnummer og e-postadresse.
+2. angivelse av hvor interesserte leverandører skal henvende seg for å få tilgang til konkurransegrunnlaget med all relevant dokumentasjon, med mindre dette gjøres elektronisk tilgjengelig via selve kunngjøringen.
+3. ruteangivelse og ruteområdets eller rutens geografiske beliggenhet.
+4. frist og angivelse av tid og sted for innlevering av tilbud, herunder den adressen tilbudet skal sendes til.
+5. kontraktens gyldighetsperiode og tidspunkt for oppstart.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
 ### § 16. Krav til innholdet i konkurransegrunnlaget
 
-Konkurransegrunnlaget skal minst inneholde:kravene knyttet til forpliktelsen til offentlig tjenesteytelse.bestemmelser vedrørende endring og opphør av kontrakten, særlig vedrørende uforutsette endringer.kontraktens gyldighetsperiode og tidspunkt for oppstart.sanksjoner ved mislighold av kontrakten.objektive og gjennomsiktige parametere som danner grunnlag for beregning av et eventuelt krav om kompensasjon for ivaretakelse av forpliktelsen til offentlig tjenesteytelse.
+Konkurransegrunnlaget skal minst inneholde:
+
+1. kravene knyttet til forpliktelsen til offentlig tjenesteytelse.
+2. bestemmelser vedrørende endring og opphør av kontrakten, særlig vedrørende uforutsette endringer.
+3. kontraktens gyldighetsperiode og tidspunkt for oppstart.
+4. sanksjoner ved mislighold av kontrakten.
+5. objektive og gjennomsiktige parametere som danner grunnlag for beregning av et eventuelt krav om kompensasjon for ivaretakelse av forpliktelsen til offentlig tjenesteytelse.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
 ### § 17. Tilbudets utforming
 
-Tilbudet skal være skriftlig og avgis enten direkte eller per post. Tilbudet kan også avgis med elektronisk middel forutsatt at konkurransegrunnlaget åpner for det, ogtilbudet inneholder alle nødvendige opplysninger,fortrolighet om tilbudet bevares frem til vurderingen skal skje,tilbudet av bevishensyn om nødvendig snarest bekreftes skriftlig eller ved oversendelse av en bekreftet gjenpart, ogtilbudet først åpnes etter utløpet av tilbudsfristen.
+Tilbudet skal være skriftlig og avgis enten direkte eller per post. Tilbudet kan også avgis med elektronisk middel forutsatt at konkurransegrunnlaget åpner for det, og
+
+1. tilbudet inneholder alle nødvendige opplysninger,
+2. fortrolighet om tilbudet bevares frem til vurderingen skal skje,
+3. tilbudet av bevishensyn om nødvendig snarest bekreftes skriftlig eller ved oversendelse av en bekreftet gjenpart, og
+4. tilbudet først åpnes etter utløpet av tilbudsfristen.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
@@ -154,25 +216,53 @@ Tilbudet skal være skriftlig og avgis enten direkte eller per post. Tilbudet ka
 
 (1) Rettidig mottatt tilbud vil bli åpnet etter tilbudsfristens utløp av to representanter for oppdragsgiver. Tilbyderne har ikke rett til å være til stede ved tilbudsåpningen.
 
-(2) Oppdragsgiver skal føre en protokoll ved tilbudsåpningen, hvor følgende informasjon skal fremgå:Dato og klokkeslett for tilbudsåpningenHvem som er til stede ved tilbudsåpningenTilbyderens navnHvilke ruteområder eller ruter tilbudet omfatterTilbudets krav til kompensasjonEventuell avvisning av tilbydere eller tilbud.
+(2) Oppdragsgiver skal føre en protokoll ved tilbudsåpningen, hvor følgende informasjon skal fremgå:
+
+1. Dato og klokkeslett for tilbudsåpningen
+2. Hvem som er til stede ved tilbudsåpningen
+3. Tilbyderens navn
+4. Hvilke ruteområder eller ruter tilbudet omfatter
+5. Tilbudets krav til kompensasjon
+6. Eventuell avvisning av tilbydere eller tilbud.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
 ### § 20. Avvisning på grunn av forhold ved tilbudet
 
-(1) Et tilbud skal avvises når:det ikke er levert i samsvar med [§ 17](forskrift/2011-08-12-833/§17),det inneholder vesentlige avvik fra konkurransegrunnlaget, også etter at eventuelle forhandlinger er gjennomført, ellerdet på grunn av forbehold, feil, uklarheter, ufullstendigheter eller liknende kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene, også etter at eventuelle forhandlinger er gjennomført.
+(1) Et tilbud skal avvises når:
 
-(2) Et tilbud kan avvise dersom:tilbudet ikke inneholder alle de opplysningene som det er stilt krav om,tilbudet inneholder avvik fra konkurransegrunnlaget, ellerkravet om kompensasjon i tilbudet virker unormalt lavt i forhold til ytelsen. Før et tilbud kan avvises på dette grunnlaget, skal oppdragsgiver skriftlig forlange en redegjørelse om de enkelte delene av tilbudet og etterprøve denne på grunnlag av de opplysninger som er blitt gitt. Oppdragsgiver kan ta hensyn til opplysninger om for eksempel besparelser ved utførelsen av tjenesten, tekniske løsninger eller uvanlig fordelaktige vilkår som er tilgjengelig for leverandøren, eller nyskapning.
+1. det ikke er levert i samsvar med [§ 17](forskrift/2011-08-12-833/§17),
+2. det inneholder vesentlige avvik fra konkurransegrunnlaget, også etter at eventuelle forhandlinger er gjennomført, eller
+3. det på grunn av forbehold, feil, uklarheter, ufullstendigheter eller liknende kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene, også etter at eventuelle forhandlinger er gjennomført.
+
+(2) Et tilbud kan avvise dersom:
+
+1. tilbudet ikke inneholder alle de opplysningene som det er stilt krav om,
+2. tilbudet inneholder avvik fra konkurransegrunnlaget, eller
+3. kravet om kompensasjon i tilbudet virker unormalt lavt i forhold til ytelsen. Før et tilbud kan avvises på dette grunnlaget, skal oppdragsgiver skriftlig forlange en redegjørelse om de enkelte delene av tilbudet og etterprøve denne på grunnlag av de opplysninger som er blitt gitt. Oppdragsgiver kan ta hensyn til opplysninger om for eksempel besparelser ved utførelsen av tjenesten, tekniske løsninger eller uvanlig fordelaktige vilkår som er tilgjengelig for leverandøren, eller nyskapning.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 
 ### § 21. Avvisning på grunn av forhold ved tilbyderen
 
-(1) Oppdragsgiveren skal avvise tilbud fra tilbydere som;ikke har gyldig lisens, jf. [§ 12](forskrift/2011-08-12-833/§12), ellerikke tilfredsstiller krav som er stilt til tilbyderne i konkurransegrunnlaget.
+(1) Oppdragsgiveren skal avvise tilbud fra tilbydere som;
 
-(2) Oppdragsgiveren kan avvise tilbydere som:er konkurs, under gjeldsforhandling eller under avvikling, eller som har innstilt sin virksomhet eller befinner seg i en tilsvarende prosess med hjemmel i nasjonale lover eller forskrifter,er begjært konkurs hvor det er begjært åpning av gjeldsforhandling eller begjært tvangsoppløsning eller liknende prosess med hjemmel i nasjonale lover eller forskrifter,ved rettskraftig dom er kjent skyldig i straffbare forhold som angår den yrkesmessige vandel,i sitt yrke har gjort seg skyldig i alvorlige forsømmelser mot faglige og etiske krav i vedkommende bransje,ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, ellerhar gitt grovt misvisende eller feilaktige opplysninger eller unnlatt å gi opplysninger i henhold til det som kreves etter konkurransegrunnlaget, etter paragrafen her eller etter [§ 12](forskrift/2011-08-12-833/§12).
+1. ikke har gyldig lisens, jf. [§ 12](forskrift/2011-08-12-833/§12), eller
+2. ikke tilfredsstiller krav som er stilt til tilbyderne i konkurransegrunnlaget.
 
-(3) Når oppdragsgiveren krever bevis for at tilbyderen ikke er i en situasjon som nevnt i annet ledd bokstav a), b) c), e) eller f), kan følgende dokumentasjon godtas som tilstrekkelig bevis:for så vidt gjelder forhold nevnt i bokstav a), b) eller c): utdrag fra politiregister eller konkursregister. I mangel av dette, et tilsvarende dokument som viser at kravene er tilfredsstilt, utstedt av en retts- eller forvaltningsmyndighet i anbyderens hjemstat eller nåværende oppholdsstat, ellerFor så vidt gjelder bokstav e) eller f): attest utstedt av vedkommende myndighet i den berørte staten.
+(2) Oppdragsgiveren kan avvise tilbydere som:
+
+1. er konkurs, under gjeldsforhandling eller under avvikling, eller som har innstilt sin virksomhet eller befinner seg i en tilsvarende prosess med hjemmel i nasjonale lover eller forskrifter,
+2. er begjært konkurs hvor det er begjært åpning av gjeldsforhandling eller begjært tvangsoppløsning eller liknende prosess med hjemmel i nasjonale lover eller forskrifter,
+3. ved rettskraftig dom er kjent skyldig i straffbare forhold som angår den yrkesmessige vandel,
+4. i sitt yrke har gjort seg skyldig i alvorlige forsømmelser mot faglige og etiske krav i vedkommende bransje,
+5. ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, eller
+6. har gitt grovt misvisende eller feilaktige opplysninger eller unnlatt å gi opplysninger i henhold til det som kreves etter konkurransegrunnlaget, etter paragrafen her eller etter [§ 12](forskrift/2011-08-12-833/§12).
+
+(3) Når oppdragsgiveren krever bevis for at tilbyderen ikke er i en situasjon som nevnt i annet ledd bokstav a), b) c), e) eller f), kan følgende dokumentasjon godtas som tilstrekkelig bevis:
+
+1. for så vidt gjelder forhold nevnt i bokstav a), b) eller c): utdrag fra politiregister eller konkursregister. I mangel av dette, et tilsvarende dokument som viser at kravene er tilfredsstilt, utstedt av en retts- eller forvaltningsmyndighet i anbyderens hjemstat eller nåværende oppholdsstat, eller
+2. For så vidt gjelder bokstav e) eller f): attest utstedt av vedkommende myndighet i den berørte staten.
 
 > Endret ved [forskrift 18 april 2016 nr. 387](forskrift/2016-04-18-387).
 

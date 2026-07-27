@@ -15,7 +15,7 @@ xml_hash: "0bb2d412f9eaa23ac89ec1b391b42a350c631019ece4d1007f41a94b069ffe33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Disse forskrifter gjelder for norsk fartøy som er registreringspliktig i henhold til lov av 4. mai 1901 og som entengår i utelukkende innenriksfart ellergår i utenriksfart og er under 100 register tonn brutto.
+Disse forskrifter gjelder for norsk fartøy som er registreringspliktig i henhold til lov av 4. mai 1901 og som enten
+
+1. går i utelukkende innenriksfart eller
+2. går i utenriksfart og er under 100 register tonn brutto.
 
 Forskriftene gjelder også for fyr- og merkevesenets skøyter og dampskip.
 

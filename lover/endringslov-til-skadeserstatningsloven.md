@@ -15,7 +15,7 @@ xml_hash: "5458dce5a415008614360487a86a1a4d665ecd564316d930a92ba092c556d601"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Tredje ledd nåværende fjerde til åttende punktum blir femte til niende punktu
 
 [§ 3-2 a syvende ledd](lov/1969-06-13-26/§3-2a/ledd/7) skal lyde:
 
-7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med5 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller10 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1), erstattes tap som nevnt i første punktum bokstav a med 6,5 G og tap som nevnt i første punktum bokstav b med 13 G.
+7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med
+
+1. 5 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller
+2. 10 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.
+
+I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1), erstattes tap som nevnt i første punktum bokstav a med 6,5 G og tap som nevnt i første punktum bokstav b med 13 G.
 
 [§ 3-2 a](lov/1969-06-13-26/§3-2a) nytt trettende ledd skal lyde:
 

@@ -24,11 +24,39 @@ eu_basis: []
 
 ## § 1. Unntak frå verkeområdet til offentleglova
 
-[Offentleglova](lov/2006-05-19-16) gjeld ikkje for desse rettssubjekta:Norges sjømatråd ASSIVA Eigedom Holding ASGassco ASNRK Aktivum ASPetoro ASPosten Noreg ASStatkraft SFNorsk Tipping ASStiftelsen Norsk Rikstoto.
+[Offentleglova](lov/2006-05-19-16) gjeld ikkje for desse rettssubjekta:
 
-[Offentleglova](lov/2006-05-19-16) gjeld heller ikkje for:sjølvstendige rettssubjekt utan fast tilsette i administrativ stillingsjølvstendige rettssubjekt som utelukkande har til oppgåve å vareta medlemmene sine interesser som arbeidsgivar eller liknande (interesseorganisasjonar).
+1. Norges sjømatråd AS
+2. SIVA Eigedom Holding AS
+3. Gassco AS
+4. NRK Aktivum AS
+5. Petoro AS
+6. Posten Noreg AS
+7. Statkraft SF
+8. Norsk Tipping AS
+9. Stiftelsen Norsk Rikstoto.
 
-[Offentleglova](lov/2006-05-19-16) gjeld ikkje for desse dokumenta hos sjølvstendige rettssubjekt:dokument som gjeld kunstnarleg og fagleg programmering og planlegging av repertoar i kulturinstitusjonardokument knytte til formuesforvaltning hos rettssubjekt som har slik forvaltning som føremåldokument hos arbeidsmarknadsføretak godkjent av Arbeids- og velferdsetaten (NAV) som gjeld enkeltpersonar som får bistand frå føretaketdokument knytte til sak om kommersiell utnytting av forskingsresultat og sak om bidrags- eller oppdragsforsking i rettssubjekt innanfor universitets- og høgskulesektorendokument i sak om søknad om finansiering hos Enova SFdokument knytte til forvaltning av statens interesser i CO2 -handteringsprosjekt hos Gassnova SFdokument i sak om søknad om finansiering hos Innovasjon Noreg, med unntak for positive avgjerder, og dokument knytte til Innovasjon Noregs eksportfremmande verksemd og rådgivingsverksemd overfor idéskaparar og oppfinnarardokument i saker om finansiering og investering hos Statens investeringsfond for næringsverksemd i utviklingsland (NORFUND)dokument hos NRK AS som er knytte til redaksjons- og programverksemda i selskapetdokument hos Statnett SF som kan påverke prisane på kraftmarknaden, inntil opplysningane som går fram av dokumenta er offentleggjorde gjennom formelle kanalar, og dokument hos Statnett SF knytte til internasjonale samarbeidsforhold og kommersielle prosjekt som Statnett SF tek del idokument i sak om registrering av domenenamn hos UNINETT Norid ASkorrespondanse mellom NSB AS og dotterselskap av dette selskapet, samt mellom NSB AS og kundar av selskapet.Bokstavane e, h og k gjeld ikkje for positive avgjerder.
+[Offentleglova](lov/2006-05-19-16) gjeld heller ikkje for:
+
+1. sjølvstendige rettssubjekt utan fast tilsette i administrativ stilling
+2. sjølvstendige rettssubjekt som utelukkande har til oppgåve å vareta medlemmene sine interesser som arbeidsgivar eller liknande (interesseorganisasjonar).
+
+[Offentleglova](lov/2006-05-19-16) gjeld ikkje for desse dokumenta hos sjølvstendige rettssubjekt:
+
+1. dokument som gjeld kunstnarleg og fagleg programmering og planlegging av repertoar i kulturinstitusjonar
+2. dokument knytte til formuesforvaltning hos rettssubjekt som har slik forvaltning som føremål
+3. dokument hos arbeidsmarknadsføretak godkjent av Arbeids- og velferdsetaten (NAV) som gjeld enkeltpersonar som får bistand frå føretaket
+4. dokument knytte til sak om kommersiell utnytting av forskingsresultat og sak om bidrags- eller oppdragsforsking i rettssubjekt innanfor universitets- og høgskulesektoren
+5. dokument i sak om søknad om finansiering hos Enova SF
+6. dokument knytte til forvaltning av statens interesser i CO2 -handteringsprosjekt hos Gassnova SF
+7. dokument i sak om søknad om finansiering hos Innovasjon Noreg, med unntak for positive avgjerder, og dokument knytte til Innovasjon Noregs eksportfremmande verksemd og rådgivingsverksemd overfor idéskaparar og oppfinnarar
+8. dokument i saker om finansiering og investering hos Statens investeringsfond for næringsverksemd i utviklingsland (NORFUND)
+9. dokument hos NRK AS som er knytte til redaksjons- og programverksemda i selskapet
+10. dokument hos Statnett SF som kan påverke prisane på kraftmarknaden, inntil opplysningane som går fram av dokumenta er offentleggjorde gjennom formelle kanalar, og dokument hos Statnett SF knytte til internasjonale samarbeidsforhold og kommersielle prosjekt som Statnett SF tek del i
+11. dokument i sak om registrering av domenenamn hos UNINETT Norid AS
+12. korrespondanse mellom NSB AS og dotterselskap av dette selskapet, samt mellom NSB AS og kundar av selskapet.
+
+Bokstavane e, h og k gjeld ikkje for positive avgjerder.
 
 Paragrafen her gjeld ikkje i saker der eit sjølvstendig rettssubjekt gjer enkeltvedtak eller utferdar forskrift. Føresegnene i [offentleglova § 6](lov/2006-05-19-16/§6), [§ 7](lov/2006-05-19-16/§7) andre ledd, [§ 8](lov/2006-05-19-16/§8) tredje ledd andre punktum, fjerde ledd og femte ledd og [§ 30](lov/2006-05-19-16/§30) fyrste ledd tredje punktum og andre ledd gjeld uavhengig av paragrafen her for alle verksemder som er omfatta av [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5k (direktiv [2003/98/EF](eu/32003l0098)) om vidarebruk av informasjon frå offentleg sektor.
 
@@ -72,9 +100,25 @@ Retten til kopi gjeld ikkje for journalar og dokument som er avleverte til arkiv
 
 ## § 6. Tilgjengeleggjering av journalar på Internett
 
-Følgjande organ som fører elektronisk journal, skal gjere journalen tilgjengeleg for ålmenta på Internett:alle departementa og Statsministerens kontoralle dei statlege direktorata som har heile landet som verkeområdealle dei statlege tilsyna som har heile landet som verkeområdestatsforvaltaranePlikta til å gjere journalen tilgjengeleg på Internett omfattar berre den sentrale eininga i eit direktorat eller eit tilsyn som også har regionale einingar. Utanriksdepartementet kan fastsetje at utanriksstasjonar som fører eigen elektronisk journal, skal gjere han tilgjengeleg for ålmenta på Internett. Det overordna departementet avgjer i tvilstilfelle om eit underlagt organ er omfatta av plikta til å gjere journalen tilgjengeleg på Internett.
+Følgjande organ som fører elektronisk journal, skal gjere journalen tilgjengeleg for ålmenta på Internett:
 
-Følgjande organ er ikkje i noko tilfelle omfatta av plikta til å gjere elektronisk journal tilgjengeleg på Internett:RegjeringsadvokatenRiksadvokatenEtterretningstenestaPolitiets tryggingsteneste (PST)PatentstyretNasjonalt tryggingsorganNorsk pasientskadeserstatningPasientskadenemnda.
+1. alle departementa og Statsministerens kontor
+2. alle dei statlege direktorata som har heile landet som verkeområde
+3. alle dei statlege tilsyna som har heile landet som verkeområde
+4. statsforvaltarane
+
+Plikta til å gjere journalen tilgjengeleg på Internett omfattar berre den sentrale eininga i eit direktorat eller eit tilsyn som også har regionale einingar. Utanriksdepartementet kan fastsetje at utanriksstasjonar som fører eigen elektronisk journal, skal gjere han tilgjengeleg for ålmenta på Internett. Det overordna departementet avgjer i tvilstilfelle om eit underlagt organ er omfatta av plikta til å gjere journalen tilgjengeleg på Internett.
+
+Følgjande organ er ikkje i noko tilfelle omfatta av plikta til å gjere elektronisk journal tilgjengeleg på Internett:
+
+1. Regjeringsadvokaten
+2. Riksadvokaten
+3. Etterretningstenesta
+4. Politiets tryggingsteneste (PST)
+5. Patentstyret
+6. Nasjonalt tryggingsorgan
+7. Norsk pasientskadeserstatning
+8. Pasientskadenemnda.
 
 Innhaldet i journalar som blir gjorde tilgjengelege på Internett, skal vere i samsvar med [arkivforskrifta § 10](forskrift/2017-12-15-2105/§10) fyrste ledd tredje punktum bokstavane a til e. I tillegg skal journalen opplyse om kontaktpunkt for den enkelte sak hos det aktuelle organet. Når opplysningar ikkje er tekne med i offentleg journal, jf. [arkivforskrifta § 10](forskrift/2017-12-15-2105/§10) andre ledd, skal utelatinga og fullstendig unntaksheimel gå fram av journalen. Dersom det er teke avgjerd om at eit dokument heilt eller dels skal vere unnateke frå innsyn, kan journalen innehalde opplysning om dette i form av fullstendig unntaksheimel og med opplysning om unntaket gjeld heile eller delar av dokumentet.
 
@@ -88,7 +132,14 @@ Trer i kraft når departementet bestemmer.
 
 Organ som er omfatta av [offentleglova](lov/2006-05-19-16), kan gjere dokument tilgjengelege for ålmenta på Internett.
 
-Følgjande skal ikkje gjerast tilgjengeleg på Internett:opplysningar som er underlagde teieplikt i lov eller i medhald av lovopplysningar som det kan gjerast unntak frå innsyn for etter [§ 9](forskrift/2008-10-17-1119/§9) i forskrifta heropplysningar som nemnde i personvernforordninga artikkel 9 og 10fødselsnummer, personnummer og nummer med tilsvarande funksjonopplysningar om lønn og godtgjering til fysiske personar, med unntak for opplysningar om lønn og godtgjering til personar i leiande stillingar i det offentlege og i leiande stillingar eller i styret i sjølvstendige rettssubjektmateriale som ein tredjepart har immaterielle rettar til, med unntak for slikt materiale som er nemnd i [§ 5](forskrift/2008-10-17-1119/§5) fyrste ledd andre punktum og for materiale der rettshavaren samtykkjer til at materialet blir gjort tilgjengeleg.
+Følgjande skal ikkje gjerast tilgjengeleg på Internett:
+
+1. opplysningar som er underlagde teieplikt i lov eller i medhald av lov
+2. opplysningar som det kan gjerast unntak frå innsyn for etter [§ 9](forskrift/2008-10-17-1119/§9) i forskrifta her
+3. opplysningar som nemnde i personvernforordninga artikkel 9 og 10
+4. fødselsnummer, personnummer og nummer med tilsvarande funksjon
+5. opplysningar om lønn og godtgjering til fysiske personar, med unntak for opplysningar om lønn og godtgjering til personar i leiande stillingar i det offentlege og i leiande stillingar eller i styret i sjølvstendige rettssubjekt
+6. materiale som ein tredjepart har immaterielle rettar til, med unntak for slikt materiale som er nemnd i [§ 5](forskrift/2008-10-17-1119/§5) fyrste ledd andre punktum og for materiale der rettshavaren samtykkjer til at materialet blir gjort tilgjengeleg.
 
 Organ som gjer dokument tilgjengeleg for ålmenta på Internett, skal opplyse kva for kriterium som ligg til grunn for utvalet av dokument.
 
@@ -108,13 +159,20 @@ Det kan gjerast unntak frå innsyn i dokument som gjeld saker hos Etterretningst
 
 Det kan gjerast unntak frå innsyn for journalinnføringar og dokument i enkeltsaker hos Meklingsnemnda for arbeidstakaroppfinningar, i saker om utferding av lån og garantiar hos Eksportfinansiering Norge og i enkeltsaker etter [utlendingslova](lov/2008-05-15-35), [pasientskadelova](lov/2001-06-15-53) og [statsborgarlova](lov/2005-06-10-51).
 
-Det kan gjerast unntak frå innsyn for journalinnføringar i følgjande sakstypar:enkeltsaker om adopsjon, ekteskap, partnarskap, separasjon, skilsmål, farskap, nedstamming, barnefordeling og bidragenkeltsaker som gjeld konsulær bistand frå utanrikstenestaenkeltsaker etter barnevernlova, [sosialtenestelova](lov/2009-12-18-131), [psykisk helsevernlova](lov/1999-07-02-62) og [verjemålslova](lov/2010-03-26-9).
+Det kan gjerast unntak frå innsyn for journalinnføringar i følgjande sakstypar:
+
+1. enkeltsaker om adopsjon, ekteskap, partnarskap, separasjon, skilsmål, farskap, nedstamming, barnefordeling og bidrag
+2. enkeltsaker som gjeld konsulær bistand frå utanrikstenesta
+3. enkeltsaker etter barnevernlova, [sosialtenestelova](lov/2009-12-18-131), [psykisk helsevernlova](lov/1999-07-02-62) og [verjemålslova](lov/2010-03-26-9).
 
 > Endra ved forskrift [18 juni 2021 nr. 2010](forskrift/2021-06-18-2010) (i kraft 1 juli 2021).
 
 ## § 10. Innsyn i graderte dokument
 
-Ved krav om innsyn i dokument som inneheld materiale som er påført gradering etter [sikkerhetsloven](lov/2018-06-01-24) eller [beskyttelsesinstruksen](forskrift/1972-03-17-3352), skal spørsmål om avgradering leggjast fram for den som har oppretta dokumentet, for avgjerd i samsvar med [virksomhetsikkerhetsforskriften § 33](forskrift/2018-12-20-2053/§33) eller [beskyttelsesinstruksen § 5](forskrift/1972-03-17-3352/§5). Organet som mottek innsynskravet, kan likevel avslå eit krav om innsyn, utan at spørsmålet om avgradering fyrst har vore lagt fram etter fyrste punktum, dersomdet uavhengig av graderinga ikkje skal givast innsyn i dokumentet, ellerdet uavhengig av graderinga kan gjerast unntak frå innsyn i dokumentet, og organet som mottek innsynskravet, finn at meirinnsyn ikkje skal givast.
+Ved krav om innsyn i dokument som inneheld materiale som er påført gradering etter [sikkerhetsloven](lov/2018-06-01-24) eller [beskyttelsesinstruksen](forskrift/1972-03-17-3352), skal spørsmål om avgradering leggjast fram for den som har oppretta dokumentet, for avgjerd i samsvar med [virksomhetsikkerhetsforskriften § 33](forskrift/2018-12-20-2053/§33) eller [beskyttelsesinstruksen § 5](forskrift/1972-03-17-3352/§5). Organet som mottek innsynskravet, kan likevel avslå eit krav om innsyn, utan at spørsmålet om avgradering fyrst har vore lagt fram etter fyrste punktum, dersom
+
+1. det uavhengig av graderinga ikkje skal givast innsyn i dokumentet, eller
+2. det uavhengig av graderinga kan gjerast unntak frå innsyn i dokumentet, og organet som mottek innsynskravet, finn at meirinnsyn ikkje skal givast.
 
 Finn det forvaltningsorganet som mottek kravet, grunn til å tru at det ikkje kan gjerast unntak frå innsyn etter [offentleglova](lov/2006-05-19-16), eller at ei gradering elles ikkje kan oppretthaldast, skal det følgje prosedyren for omgradering som er fastsett i [virksomhetsikkerhetsforskriften § 30](forskrift/2018-12-20-2053/§30) til [§ 32](forskrift/2018-12-20-2053/§32) eller i [beskyttelsesinstruksen § 5](forskrift/1972-03-17-3352/§5).
 
@@ -144,7 +202,13 @@ For organ der det tidlegare kunne gjerast heilt eller delvis unntak frå innsyn 
 
 ## § 13. Oppheving av eldre forskrifter
 
-Frå forskrifta tek til å gjelde, blir desse forskriftene oppheva:[Forskrift 14. februar 1986 nr. 351](forskrift/1986-02-14-351) til [offentlighetsloven](forskrift/1986-02-14-351). Delegering av myndighet[Forskrift 19. desember 1986 nr. 2202](forskrift/1986-12-19-2202) om [offentlighetslovens](lov/2006-05-19-16) anvendelse på dokumenter som ikke er papirbasert[Forskrift 2. mars 2001 nr. 183](forskrift/2001-03-02-183) om [offentlighetslovens](lov/2006-05-19-16) anvendelse på Statens nærings- og distriktsutviklingsfondDelegering [30. november 2001 nr. 1322 av](forskrift/2001-11-30-1322) myndighet til Finansdepartementet etter [offentlighetsloven § 2](lov/2006-05-19-16/§2) tredje ledd[Vedtak 7. oktober 2005 nr. 1116](forskrift/2005-10-07-1116) om Finansdepartementets råd for investeringsstrategi og forholdet til [offentlighetsloven](lov/2006-05-19-16).
+Frå forskrifta tek til å gjelde, blir desse forskriftene oppheva:
+
+1. [Forskrift 14. februar 1986 nr. 351](forskrift/1986-02-14-351) til [offentlighetsloven](forskrift/1986-02-14-351). Delegering av myndighet
+2. [Forskrift 19. desember 1986 nr. 2202](forskrift/1986-12-19-2202) om [offentlighetslovens](lov/2006-05-19-16) anvendelse på dokumenter som ikke er papirbasert
+3. [Forskrift 2. mars 2001 nr. 183](forskrift/2001-03-02-183) om [offentlighetslovens](lov/2006-05-19-16) anvendelse på Statens nærings- og distriktsutviklingsfond
+4. Delegering [30. november 2001 nr. 1322 av](forskrift/2001-11-30-1322) myndighet til Finansdepartementet etter [offentlighetsloven § 2](lov/2006-05-19-16/§2) tredje ledd
+5. [Vedtak 7. oktober 2005 nr. 1116](forskrift/2005-10-07-1116) om Finansdepartementets råd for investeringsstrategi og forholdet til [offentlighetsloven](lov/2006-05-19-16).
 
 ## § 14. Endringar i andre forskrifter
 

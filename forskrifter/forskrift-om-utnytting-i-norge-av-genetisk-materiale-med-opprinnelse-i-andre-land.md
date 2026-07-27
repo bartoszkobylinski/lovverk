@@ -32,7 +32,17 @@ Forskriften gjelder ikke opplysninger om utnytting av genetisk materiale som er 
 
 ## § 2. Opplysninger om utnytting av genetisk materiale eller tradisjonell kunnskap knyttet til slikt materiale
 
-Den som i Norge utnytter genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til slikt materiale i forsknings- eller næringsøyemed, skal inneha og overføre følgende opplysninger til etterfølgende utnyttere av materialet eller kunnskapen:det internasjonalt anerkjente overensstemmelsessertifikatet og opplysninger om gjensidig avtalte vilkår, ellerhvis det ikke foreligger et internasjonalt anerkjent overensstemmelsessertifikat, opplysninger om og relevant dokumentasjon påopprinnelsesland, og om sted og tidspunkt for uttak av genetisk materiale eller tilgang til tradisjonell kunnskap knyttet til slikt materiale,materialet eller den tradisjonelle kunnskapen knyttet til slikt materiale, fortrinnsvis også opplysninger om biotaen og hvordan materialet eller kunnskapen er tenkt utnyttet,leverandørland, og om kilden som materialet eller kunnskapen er mottatt fra, eventuelt senere brukere av materialet eller kunnskapen,det foreligger relevant regelverk om uttak og fordelsdeling, inkludert rettigheter og forpliktelser når det gjelder etterfølgende søknader og kommersialisering,det er innhentet samtykke, inkludert tillatelser til uttak av genetisk materiale eller bruk av tradisjonell kunnskap, der dette finnes og referansenummer på tillatelsen, oggjensidig avtalte vilkår, inkludert om fordelsdeling, der dette finnes.
+Den som i Norge utnytter genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til slikt materiale i forsknings- eller næringsøyemed, skal inneha og overføre følgende opplysninger til etterfølgende utnyttere av materialet eller kunnskapen:
+
+1. det internasjonalt anerkjente overensstemmelsessertifikatet og opplysninger om gjensidig avtalte vilkår, eller
+2. hvis det ikke foreligger et internasjonalt anerkjent overensstemmelsessertifikat, opplysninger om og relevant dokumentasjon på
+
+   1. opprinnelsesland, og om sted og tidspunkt for uttak av genetisk materiale eller tilgang til tradisjonell kunnskap knyttet til slikt materiale,
+   2. materialet eller den tradisjonelle kunnskapen knyttet til slikt materiale, fortrinnsvis også opplysninger om biotaen og hvordan materialet eller kunnskapen er tenkt utnyttet,
+   3. leverandørland, og om kilden som materialet eller kunnskapen er mottatt fra, eventuelt senere brukere av materialet eller kunnskapen,
+   4. det foreligger relevant regelverk om uttak og fordelsdeling, inkludert rettigheter og forpliktelser når det gjelder etterfølgende søknader og kommersialisering,
+   5. det er innhentet samtykke, inkludert tillatelser til uttak av genetisk materiale eller bruk av tradisjonell kunnskap, der dette finnes og referansenummer på tillatelsen, og
+   6. gjensidig avtalte vilkår, inkludert om fordelsdeling, der dette finnes.
 
 Opplysninger som nevnt i første ledd skal bevares i 20 år etter at utnyttingen av materialet eller kunnskapen er avsluttet.
 
@@ -40,7 +50,11 @@ Opplysninger som nevnt i første ledd skal bevares i 20 år etter at utnyttingen
 
 Mottakere av forskningsmidler for utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til slikt materiale skal på fastsatt skjema avgi erklæring til Miljødirektoratet om oppfyllelse av kravene nevnt i [§ 2](forskrift/2022-06-17-1047/§2). Erklæringen kan avgis når første utbetaling av forskningsmidler er mottatt og alt genetisk materiale eller tradisjonell kunnskap knyttet til forskningen er mottatt, og skal senest avgis på tidspunktet for avslutning av forskningsprosjektet. Miljødirektoratet kan fastsette nærmere tidspunkter for avgivelse av erklæring for ulike typer av forskningsmidler. Hvis samme forskningsprosjekt mottar midler fra flere kilder, eller involverer flere mottakere, er det tilstrekkelig å avgi én felles erklæring.
 
-Dersom det ikke er mottatt forskningsmidler skal det avgis erklæring på fastsatt skjema til Miljødirektoratet om oppfyllelse av kravene nevnt i [§ 2](forskrift/2022-06-17-1047/§2) når et produkt er ferdig utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materiale. Erklæringen skal avgis på det første av følgende tidspunkter:når markedsføringstillatelse søkes for et produkt utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materialefør et produkt utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materiale plasseres på markedet i riketfør resultatet av utnyttingen overdras for at et annet rettssubjekt i Norge skal utføre en av aktiviteten nevnt i bokstav a og b, eller før resultatet overdras til et rettssubjekt i et annet land.
+Dersom det ikke er mottatt forskningsmidler skal det avgis erklæring på fastsatt skjema til Miljødirektoratet om oppfyllelse av kravene nevnt i [§ 2](forskrift/2022-06-17-1047/§2) når et produkt er ferdig utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materiale. Erklæringen skal avgis på det første av følgende tidspunkter:
+
+1. når markedsføringstillatelse søkes for et produkt utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materiale
+2. før et produkt utviklet ved utnytting i Norge av genetisk materiale med opprinnelse i andre land eller tradisjonell kunnskap knyttet til utnytting av slikt materiale plasseres på markedet i riket
+3. før resultatet av utnyttingen overdras for at et annet rettssubjekt i Norge skal utføre en av aktiviteten nevnt i bokstav a og b, eller før resultatet overdras til et rettssubjekt i et annet land.
 
 Miljødirektoratet kan kreve utfyllende dokumentasjon for opplysningene i erklæringer etter første og annet ledd.
 

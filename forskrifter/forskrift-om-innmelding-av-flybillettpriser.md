@@ -15,7 +15,7 @@ xml_hash: "b59e9d778063b5ba9837e11481f9b552cf2f5ea1903bcdae2db71114e4b24f26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Konkurransetilsynet kan fastsette nærmere bestemmelser om gjennomføring og utf
 3. Med «billettpriser uten særskilt fastsatte begrensninger» menes den laveste fullt fleksible billettpris (grunntakst) slik de er definert i [forskrift 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område [§ 1](forskrift/1994-07-15-691/§1) nr. 6.3
 4. Med «gjøres gjeldende» menes her salgstidspunktet.
 
-1 Jf. Rfo [(EØF) 2409/92](eu/31992r2409) av 23. juli 1992, artikkel 2 bokstav g.2 Jf. Rfo [(EØF) 2407/92](eu/31992r2407) av 23. juli 1992, artikkel 2 bokstav c.3 Jf. Rfo [(EØF) 2409/92](eu/31992r2409) av 23. juli 1992, artikkel 2 bokstav k.
+1 Jf. Rfo [(EØF) 2409/92](eu/31992r2409) av 23. juli 1992, artikkel 2 bokstav g.
+
+2 Jf. Rfo [(EØF) 2407/92](eu/31992r2407) av 23. juli 1992, artikkel 2 bokstav c.
+
+3 Jf. Rfo [(EØF) 2409/92](eu/31992r2409) av 23. juli 1992, artikkel 2 bokstav k.
 
 ## § 3. Sanksjoner
 

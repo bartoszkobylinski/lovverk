@@ -15,7 +15,7 @@ xml_hash: "902b2eae74e67e99996ace5998141ed71b7aaf29dd655ae6d715e3ec59d9ae4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,21 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Målesystem:* Et system som består av selve gjennomstrømningsmåleren og alle anordninger som kreves for å sikre korrekt måling eller for å lette måleoperasjonene.*Gjennomstrømningsmåler:* Et måleredskap beregnet på kontinuerlig måling, registrering og visning av mengden av væske som strømmer gjennom en målesensor i et lukket og fullstendig fylt rør under gitte målebetingelser. Kun måleredskaper som måler andre væsker enn vann er omfattet av denne definisjonen.*Målestørrelsen:* Den bestemte størrelsen som skal måles.*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet.*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør målesystemets normale driftsbetingelser.*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor målesystemets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser.*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket.*Direktesalg:* En handelstransaksjon er direktesalg dersom:måleresultatet danner grunnlaget for prisen som betales,minst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, ogalle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer.*Klimatiske miljøer:* De omgivelser der målesystemet kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med:
+
+1. *Målesystem:* Et system som består av selve gjennomstrømningsmåleren og alle anordninger som kreves for å sikre korrekt måling eller for å lette måleoperasjonene.
+2. *Gjennomstrømningsmåler:* Et måleredskap beregnet på kontinuerlig måling, registrering og visning av mengden av væske som strømmer gjennom en målesensor i et lukket og fullstendig fylt rør under gitte målebetingelser. Kun måleredskaper som måler andre væsker enn vann er omfattet av denne definisjonen.
+3. *Målestørrelsen:* Den bestemte størrelsen som skal måles.
+4. *Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet.
+5. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør målesystemets normale driftsbetingelser.
+6. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor målesystemets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser.
+7. *Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket.
+8. *Direktesalg:* En handelstransaksjon er direktesalg dersom:
+
+   1. måleresultatet danner grunnlaget for prisen som betales,
+   2. minst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, og
+   3. alle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer.
+9. *Klimatiske miljøer:* De omgivelser der målesystemet kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 > Endret ved [forskrift 1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
@@ -129,7 +143,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter målesystem som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter målesystem som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. Vibrasjon
+2. Mekanisk sjokk.
 
 > Endret ved [forskrift 1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
@@ -145,9 +162,21 @@ Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske mi
 | E2 | Denne klassen omfatter målesystem som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter målesystem som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 > Endret ved [forskrift 1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
@@ -199,7 +228,12 @@ Et målesystem skal konstrueres slik at virkningen av en funksjonsfeil som medf�
 
 ### § 20. Egnethet
 
-Et målesystem skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av målesystemet. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+Et målesystem skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av målesystemet. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 Et målesystem skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -221,9 +255,23 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 22. Opplysninger som skal påføres eller følge målesystemet
 
-Et målesystem skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres målesystemet:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+Et målesystem skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres målesystemet:
 
-Opplysninger om betjening skal følge målesystemet med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskaper.
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge målesystemet med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskaper.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske målesystem er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -265,13 +313,53 @@ Et målesystem skal være konstruert slik at det lett kan vurderes om det er i s
 
 ### § 27. Definisjoner
 
-I dette avsnittet menes med:*Beregningsenhet:* En del av et målesystem som mottar utgangssignalene fra måleorganet(ene) og, eventuelt, fra tilknyttede måleredskaper og viser måleresultatene*Direktevisning:* Visning av volum eller masse, tilsvarende den målestørrelse som målesystemet er fysisk i stand til å måle. Direktevisning kan konverteres til en annen mengde ved hjelp av en konverteringsanordning*Konverteringsenhet:* En del av beregningsenheten som ved å ta hensyn til væskens egenskaper (temperatur, tetthet osv.), som måles ved hjelp av tilknyttede måleredskaper, eller er lagret i et minne, automatisk konverterermålt volum av væsken til volum ved referansebetingelser og/eller til masse, ellermålt masse av væsken til et volum ved referansebetingelser under samme målebetingelser og/eller til volum ved referansebetingelser.En konverteringsenhet omfatter relevante tilknyttede måleredskaper*Med/uten avbruddsmulighet:* Et målesystem anses å ha/ikke ha avbruddsmulighet når væskestrømmen kan/ikke kan stoppes lett og raskt*Mengdemåler for drivstoff:* Et målesystem beregnet på påfylling av motorkjøretøyer, små båter og små luftfartøyer*Minste tillatte målekvantum (MMQ):* Den minste mengde av væske som gir en måleteknisk akseptabel måling*Referansebetingelser:* De spesifiserte tilstandsparametere som den målte mengden av væsken konverteres til*Selvbetjeningsenhet:* En spesifikk anordning som er en del av et selvbetjeningssystem, og som gjør det mulig for ett eller flere målesystemer å inngå i dette selvbetjeningssystemet*Selvbetjeningssystem:* En ordning som gjør det mulig for kunden å bruke et målesystem med sikte på å skaffe væske til egnet bruk*Strømningsrateintervall:* Intervallet mellom minste strømningsrate (Qmin ) og største strømningsrate (Qmax )*Tilknyttet måleredskaper:* Et måleredskap koplet til beregningsenheten for måling av visse størrelser som er karakteristiske for væsken, med sikte på å foreta en korreksjon og/eller konvertering.
+I dette avsnittet menes med:
+
+1. *Beregningsenhet:* En del av et målesystem som mottar utgangssignalene fra måleorganet(ene) og, eventuelt, fra tilknyttede måleredskaper og viser måleresultatene
+2. *Direktevisning:* Visning av volum eller masse, tilsvarende den målestørrelse som målesystemet er fysisk i stand til å måle. Direktevisning kan konverteres til en annen mengde ved hjelp av en konverteringsanordning
+3. *Konverteringsenhet:* En del av beregningsenheten som ved å ta hensyn til væskens egenskaper (temperatur, tetthet osv.), som måles ved hjelp av tilknyttede måleredskaper, eller er lagret i et minne, automatisk konverterer
+
+   1. målt volum av væsken til volum ved referansebetingelser og/eller til masse, eller
+   2. målt masse av væsken til et volum ved referansebetingelser under samme målebetingelser og/eller til volum ved referansebetingelser.
+
+   En konverteringsenhet omfatter relevante tilknyttede måleredskaper
+4. *Med/uten avbruddsmulighet:* Et målesystem anses å ha/ikke ha avbruddsmulighet når væskestrømmen kan/ikke kan stoppes lett og raskt
+5. *Mengdemåler for drivstoff:* Et målesystem beregnet på påfylling av motorkjøretøyer, små båter og små luftfartøyer
+6. *Minste tillatte målekvantum (MMQ):* Den minste mengde av væske som gir en måleteknisk akseptabel måling
+7. *Referansebetingelser:* De spesifiserte tilstandsparametere som den målte mengden av væsken konverteres til
+8. *Selvbetjeningsenhet:* En spesifikk anordning som er en del av et selvbetjeningssystem, og som gjør det mulig for ett eller flere målesystemer å inngå i dette selvbetjeningssystemet
+9. *Selvbetjeningssystem:* En ordning som gjør det mulig for kunden å bruke et målesystem med sikte på å skaffe væske til egnet bruk
+10. *Strømningsrateintervall:* Intervallet mellom minste strømningsrate (Qmin ) og største strømningsrate (Qmax )
+11. *Tilknyttet måleredskaper:* Et måleredskap koplet til beregningsenheten for måling av visse størrelser som er karakteristiske for væsken, med sikte på å foreta en korreksjon og/eller konvertering.
 
 > Endret ved [forskrift 1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
 ### § 28. Angitte driftsbetingelser
 
-Produsenten skal angi nominelle driftsbetingelser for målesystemet, særlig:Strømningsrateområde. For strømningsrateområdet gjelder følgende vilkår:strømningsrateområdet til et målesystem skal være innenfor strømningsrateområdet til hver av systemets elementer, særlig innenfor gjennomstrømningsmålerens områdegjennomstrømningsmåler og målesystem:*Tabell 4**Spesifikt målesystem**Væskens egenskap**Minste forhold Qmax : Qmin*Mengdemåler for drivstoffIkke-flytende gasser10:1Flytende gasser5:1MålesystemKryogene væsker5:1Målesystemer på rørledninger og systemer for lasting av skipAlle væskerEgnet til brukAlle andre målesystemerAlle væsker4:1Egenskapene til væsken som målesystemet skal måle, med angivelse av navn eller type væske eller den relevante egenskaper, for eksempel:temperaturintervalltrykkintervalltetthetsintervallviskositetsintervall.Den nominelle verdien av vekselspenningsforsyning og/eller grenser for likespenningsforsyningReferansebetingelser for konverterte verdier.
+Produsenten skal angi nominelle driftsbetingelser for målesystemet, særlig:
+
+1. Strømningsrateområde. For strømningsrateområdet gjelder følgende vilkår:
+
+   1. strømningsrateområdet til et målesystem skal være innenfor strømningsrateområdet til hver av systemets elementer, særlig innenfor gjennomstrømningsmålerens område
+   2. gjennomstrømningsmåler og målesystem:
+
+      *Tabell 4*
+
+      | *Spesifikt målesystem* | *Væskens egenskap* | *Minste forhold Qmax : Qmin* |
+      | --- | --- | --- |
+      | Mengdemåler for drivstoff | Ikke-flytende gasser | 10:1 |
+      |  | Flytende gasser | 5:1 |
+      | Målesystem | Kryogene væsker | 5:1 |
+      | Målesystemer på rørledninger og systemer for lasting av skip | Alle væsker | Egnet til bruk |
+      | Alle andre målesystemer | Alle væsker | 4:1 |
+2. Egenskapene til væsken som målesystemet skal måle, med angivelse av navn eller type væske eller den relevante egenskaper, for eksempel:
+
+   - temperaturintervall
+   - trykkintervall
+   - tetthetsintervall
+   - viskositetsintervall.
+3. Den nominelle verdien av vekselspenningsforsyning og/eller grenser for likespenningsforsyning
+4. Referansebetingelser for konverterte verdier.
 
 > Endret ved [forskrifter 20 des 2010 nr. 1750](forskrift/2010-12-20-1750) (i kraft 1 jan 2011), [1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
@@ -297,13 +385,26 @@ For mengder på minst to liter er maksimal tillatte målefeil for visninger angi
 | 0,4 l ≤ V < 1 l | 2 × verdi i tabell 5 |
 | 1 l ≤ V < 2 l | Verdi i tabell 5, anvendt på 2 l |
 
-Uansett hvilken mengde som måles, er imidlertid maksimal tillatt målefeil gitt ved den største av følgende to verdier:absoluttverdien av maksimal tillatte målefeil gitt i tabell 5 eller 6absoluttverdien av maksimal tillatte målefeil for minste tillatte målekvantum (Emin ).
+Uansett hvilken mengde som måles, er imidlertid maksimal tillatt målefeil gitt ved den største av følgende to verdier:
 
-For minste tillatte målekvantum større enn eller lik to liter gjelder følgende vilkår:Emin skal oppfylle vilkåret: Emin ≥ 2 R, der R er det minste skalaintervall for indikatorenEmin er gitt ved formelen: Emin = (2MMQ) × (A/100), der:MMQ er minste tillatte målekvantum,A er tallverdien angitt i linje A i tabell 5.
+1. absoluttverdien av maksimal tillatte målefeil gitt i tabell 5 eller 6
+2. absoluttverdien av maksimal tillatte målefeil for minste tillatte målekvantum (Emin ).
+
+For minste tillatte målekvantum større enn eller lik to liter gjelder følgende vilkår:
+
+1. Emin skal oppfylle vilkåret: Emin ≥ 2 R, der R er det minste skalaintervall for indikatoren
+2. Emin er gitt ved formelen: Emin = (2MMQ) × (A/100), der:
+
+   1. MMQ er minste tillatte målekvantum,
+   2. A er tallverdien angitt i linje A i tabell 5.
 
 For minste tillatte målekvantum på mindre enn to liter gjelder nevnte vilkår i tredje ledd bokstav a, og Emin er to ganger verdien angitt i tabell 6, og relatert til linje A i tabell 5.
 
-Ved konvertert visning er maksimal tillatte målefeil som i linje A i tabell 5. Maksimal tillatte målefeil på konverterte visninger fra en konverteringsanordning er lik ± (A – B), der A og B er verdiene angitt i tabell 5. Deler av konverteringsanordningene som kan testes separat:*Beregningsenhet:* Maksimal tillatte målefeil for væskemengdevisninger er, uansett fortegn, lik en tidel av maksimal tillatte målefeil som definert i linje A i tabell 5*Tilknyttede måleredskaper:* Tilknyttede måleredskaper skal ha en nøyaktighet som minst er like god som verdiene i tabell 7. Disse verdiene gjelder for visning av karakteristiske mengder av væsken som vises av konverteringsanordningen*Nøyaktighet for beregningsfunksjon:* Minste tillatte avvik for beregningen av hver karakteristiske mengde av væsken, uansett fortegn, er lik 2/5 av verdien fastsatt i bokstav b.
+Ved konvertert visning er maksimal tillatte målefeil som i linje A i tabell 5. Maksimal tillatte målefeil på konverterte visninger fra en konverteringsanordning er lik ± (A – B), der A og B er verdiene angitt i tabell 5. Deler av konverteringsanordningene som kan testes separat:
+
+1. *Beregningsenhet:* Maksimal tillatte målefeil for væskemengdevisninger er, uansett fortegn, lik en tidel av maksimal tillatte målefeil som definert i linje A i tabell 5
+2. *Tilknyttede måleredskaper:* Tilknyttede måleredskaper skal ha en nøyaktighet som minst er like god som verdiene i tabell 7. Disse verdiene gjelder for visning av karakteristiske mengder av væsken som vises av konverteringsanordningen
+3. *Nøyaktighet for beregningsfunksjon:* Minste tillatte avvik for beregningen av hver karakteristiske mengde av væsken, uansett fortegn, er lik 2/5 av verdien fastsatt i bokstav b.
 
 Krav angitt i femte ledd bokstav a gjelder for enhver beregning, ikke bare konvertering.
 
@@ -322,7 +423,11 @@ Målesystemet skal ikke utnytte maksimale tillatte feil eller systematisk favori
 
 ### § 30. Største tillatte virkning av forstyrrelser
 
-Virkningen av en elektromagnetisk forstyrrelser på et målesystem skal være en av følgende:Endringen i måleresultatet er ikke større enn den kritiske endringsverdien som definert i annet leddAngivelsen av måleresultatet viser en forbigående variasjon som ikke kan tolkes, registreres eller overføres som måleresultat. For et system med mulighet for avbrudd kan dette også bety at det er umulig å utføre noen målingEndringen i måleresultatet er større enn den kritiske endringsverdien, i hvilket tilfelle målesystemet skal muliggjøre innhenting av måleresultatet rett før den kritiske endringsverdien opptrådte og avbrøt væskestrømmen.
+Virkningen av en elektromagnetisk forstyrrelser på et målesystem skal være en av følgende:
+
+1. Endringen i måleresultatet er ikke større enn den kritiske endringsverdien som definert i annet ledd
+2. Angivelsen av måleresultatet viser en forbigående variasjon som ikke kan tolkes, registreres eller overføres som måleresultat. For et system med mulighet for avbrudd kan dette også bety at det er umulig å utføre noen måling
+3. Endringen i måleresultatet er større enn den kritiske endringsverdien, i hvilket tilfelle målesystemet skal muliggjøre innhenting av måleresultatet rett før den kritiske endringsverdien opptrådte og avbrøt væskestrømmen.
 
 Den kritiske endringsverdien er større enn maksimal tillatte målefeil dividert med fem for en bestemt målt mengde eller Emin.
 
@@ -342,7 +447,10 @@ For et selvbetjeningssystem gjelder imidlertid at minstedelingen på hovedanordn
 
 Det skal ikke være mulig å bortlede den målte mengden under normale bruksforhold med mindre dette er åpenbart.
 
-En prosentdel med luft eller gass som ikke lett kan oppdages i væsken skal ikke føre til en variasjon i målefeilen større enn:0,5 % for andre væsker enn drikkevæsker og for væsker med en viskositet på høyst 1 mPa.s, eller1 % for drikkevæsker og for væsker med en viskositet på over 1 mPa.s.
+En prosentdel med luft eller gass som ikke lett kan oppdages i væsken skal ikke føre til en variasjon i målefeilen større enn:
+
+1. 0,5 % for andre væsker enn drikkevæsker og for væsker med en viskositet på høyst 1 mPa.s, eller
+2. 1 % for drikkevæsker og for væsker med en viskositet på over 1 mPa.s.
 
 Den tillatte variasjonen skal imidlertid aldri være under 1 % av minste tillatte målekvantum. Denne verdien gjelder for luft- eller gasslommer.
 

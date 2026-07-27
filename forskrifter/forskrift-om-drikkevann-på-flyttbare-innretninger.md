@@ -32,7 +32,11 @@ Forskriften gjelder for norske flyttbare innretninger.
 
 ### § 2. Krav til kvalitet og vannbehandling
 
-(1) Drikkevannet skal være hygienisk betryggende. Det skalvære klart, uten fremtredende lukt, smak eller fargeikke inneholde fysiske, kjemiske eller biologiske komponenter som kan medføre fare for helseskade ved vanlig brukfølge krav til kvalitet og prøvetaking i [forskrift 22. desember 2016 nr. 1868](forskrift/2016-12-22-1868) om vannforsyning og drikkevann (drikkevannsforskriften).
+(1) Drikkevannet skal være hygienisk betryggende. Det skal
+
+1. være klart, uten fremtredende lukt, smak eller farge
+2. ikke inneholde fysiske, kjemiske eller biologiske komponenter som kan medføre fare for helseskade ved vanlig bruk
+3. følge krav til kvalitet og prøvetaking i [forskrift 22. desember 2016 nr. 1868](forskrift/2016-12-22-1868) om vannforsyning og drikkevann (drikkevannsforskriften).
 
 (2) Drikkevann skal desinfiseres som siste behandlingstrinn når drikkevannet føres ut av drikkevannstanken til forbruk.
 
@@ -50,13 +54,20 @@ Drikkevann som bunkres fra land eller forsyningsfartøy skal kloreres under over
 
 (1) Inntak av sjøvann skal ikke skje i kystnære områder, havner eller andre steder der sjøvannet kan være forurenset.
 
-(2) Drikkevann som produseres vedevaporering, kan maksimalt ha en konduktivitet på 6 mS/m ved 25 °C, målt ved utløpet fra evaporatoromvendt osmose, kan maksimalt ha en konduktivitet på 75 mS/m ved 25 °C, målt ved utløpet fra osmoseanlegg.
+(2) Drikkevann som produseres ved
+
+1. evaporering, kan maksimalt ha en konduktivitet på 6 mS/m ved 25 °C, målt ved utløpet fra evaporator
+2. omvendt osmose, kan maksimalt ha en konduktivitet på 75 mS/m ved 25 °C, målt ved utløpet fra osmoseanlegg.
 
 ## Kapittel 3. Utforming, drift og rengjøring av drikkevannsanlegg
 
 ### § 5. Risikovurdering og kontroll
 
-(1) Det skal utføres en risiko- og sårbarhetsanalyse for drikkevannsanlegget. Analysen skal ta hensyn tilpotensielle forurensningskildernødvendige antall sjøvannsinntak og sikring mot tilbakeslag fra andre sjøvannsforbrukereat det alltid skal være nok vann tilgjengelig.
+(1) Det skal utføres en risiko- og sårbarhetsanalyse for drikkevannsanlegget. Analysen skal ta hensyn til
+
+1. potensielle forurensningskilder
+2. nødvendige antall sjøvannsinntak og sikring mot tilbakeslag fra andre sjøvannsforbrukere
+3. at det alltid skal være nok vann tilgjengelig.
 
 (2) Risiko- og sårbarhetsanalysen skal resultere i nødvendige risikoreduserende tiltak og beredskapsplaner.
 
@@ -82,7 +93,13 @@ Drikkevann som bunkres fra land eller forsyningsfartøy skal kloreres under over
 
 ### § 7. Drikkevannstanker
 
-(1) Drikkevannstanker skal hakofferdammer, eller grense til rom som ikke medfører noen fare for forurensning;åpninger for inspeksjon og rengjøring. Åpningene skal ha tett mannlokk og plasseres slik at inspeksjon og rengjøring kan skje mens innretningen er i drift;dreneringsmuligheter slik at tankene kan tømmes fullstendig;tilstrekkelig lufting. Luftrørene skal utformes slik at forurensninger ikke trenger inn, og åpningen skal være dekket med et finmasket nett av korrosjonsbestandig materiale;færrest mulig innvendige spant og avstivere. Innvendige flater og strukturer skal være enkle å rengjøre og vedlikeholde. Er tanken over fire meter høy, skal det minimum for hver fjerde meter være permanente innvendige adkomstplattformer for vedlikehold.
+(1) Drikkevannstanker skal ha
+
+1. kofferdammer, eller grense til rom som ikke medfører noen fare for forurensning;
+2. åpninger for inspeksjon og rengjøring. Åpningene skal ha tett mannlokk og plasseres slik at inspeksjon og rengjøring kan skje mens innretningen er i drift;
+3. dreneringsmuligheter slik at tankene kan tømmes fullstendig;
+4. tilstrekkelig lufting. Luftrørene skal utformes slik at forurensninger ikke trenger inn, og åpningen skal være dekket med et finmasket nett av korrosjonsbestandig materiale;
+5. færrest mulig innvendige spant og avstivere. Innvendige flater og strukturer skal være enkle å rengjøre og vedlikeholde. Er tanken over fire meter høy, skal det minimum for hver fjerde meter være permanente innvendige adkomstplattformer for vedlikehold.
 
 (2) Rør som fører andre produkter enn drikkevann gjennom drikkevannstanker, skal legges i åpen kanal (rør-i-rør).
 
@@ -96,7 +113,13 @@ Drikkevann som bunkres fra land eller forsyningsfartøy skal kloreres under over
 
 ### § 8. UV-anlegg
 
-(1) En flyttbar innretning skal ha UV-anlegg medtilstrekkelig behandlingskapasitet ved maksimalt forbruk og ved dårligste vannkvalitet, jf. [§ 2](forskrift/2015-12-04-1406/§2) første ledd bokstav ctimetellerintensimetersignallamper for hvert UV-strålerørmagnetventil som stenger vannleveransen ved alarm eller strømbrudd.
+(1) En flyttbar innretning skal ha UV-anlegg med
+
+1. tilstrekkelig behandlingskapasitet ved maksimalt forbruk og ved dårligste vannkvalitet, jf. [§ 2](forskrift/2015-12-04-1406/§2) første ledd bokstav c
+2. timeteller
+3. intensimeter
+4. signallamper for hvert UV-strålerør
+5. magnetventil som stenger vannleveransen ved alarm eller strømbrudd.
 
 (2) UV-anlegg skal stå på Folkehelseinstituttets liste over biodosimetrisk testede UV-anlegg.
 
@@ -108,15 +131,25 @@ Drikkevann som bunkres fra land eller forsyningsfartøy skal kloreres under over
 
 (1) En flyttbar innretning som produserer drikkevann fra sjøvann, skal ha alkaliseringsanlegg eller bruke vannglass for vannbehandling.
 
-(2) I alkaliseringsanlegget skal det være mulighet fortilstrekkelig tilbakespyling av filteretenkel tilgang til innvendig vedlikehold og utskifting av filtermateriale.
+(2) I alkaliseringsanlegget skal det være mulighet for
+
+1. tilstrekkelig tilbakespyling av filteret
+2. enkel tilgang til innvendig vedlikehold og utskifting av filtermateriale.
 
 > Endret ved [forskrift 19 des 2017 nr. 2322](forskrift/2017-12-19-2322) (i kraft 1 jan 2018).
 
 ### § 10. Rør i drikkevannsanlegget
 
-(1) Rør i drikkevannsanlegget skaltydelig merkes «Drikkevann/Potable Water»legges i åpen kanal (rør-i-rør) når de føres gjennom andre tanker.
+(1) Rør i drikkevannsanlegget skal
 
-(2) Rørnettet skal utformes slik atvanntemperaturer mellom 20 °C og 60 °C forebyggesvannhastigheten for sirkulasjonsrør er maksimalt 0,7 m/smengden vann som blir stillestående over tid minimeres.
+1. tydelig merkes «Drikkevann/Potable Water»
+2. legges i åpen kanal (rør-i-rør) når de føres gjennom andre tanker.
+
+(2) Rørnettet skal utformes slik at
+
+1. vanntemperaturer mellom 20 °C og 60 °C forebygges
+2. vannhastigheten for sirkulasjonsrør er maksimalt 0,7 m/s
+3. mengden vann som blir stillestående over tid minimeres.
 
 (3) Rør uten sirkulasjon skal dimensjoneres i samsvar med NS-EN 806-3 om krav til drikkevannsinstallasjoner i bygninger, Del 3: Dimensjonering av rør – Forenklet metode. En flyttbar innretning kan unnlate å følge dette kravet dersom byggekontrakt er inngått, eller innretningen er førstegangssertifisert, før 1. januar 2016.
 
@@ -144,7 +177,14 @@ Drikkevann som bunkres fra land eller forsyningsfartøy skal kloreres under over
 
 ### § 13. Bunkringsdokumentasjon
 
-Bunkring skal dokumenteres. Dokumentasjonen skal inneholde opplysninger omforsyningsfartøy og om fartøyet har tilsatt klor til vannetvannverket som er benyttet i land og vannverkets normalverdi for konduktivitetfarge, lukt, smak, klarhet, konduktivitet og pH-verdi fra hver tank som forsyningsfartøyet leverer vann fravannmengde som bunkresmengde klor som er tilsattklormålinger fra hver tank som det er bunkret vann på. Målingene skal tas minst 30 minutter etter at bunkringen er avsluttet, og restklorverdien skal være over 0,05 mg/l Cl2 .
+Bunkring skal dokumenteres. Dokumentasjonen skal inneholde opplysninger om
+
+1. forsyningsfartøy og om fartøyet har tilsatt klor til vannet
+2. vannverket som er benyttet i land og vannverkets normalverdi for konduktivitet
+3. farge, lukt, smak, klarhet, konduktivitet og pH-verdi fra hver tank som forsyningsfartøyet leverer vann fra
+4. vannmengde som bunkres
+5. mengde klor som er tilsatt
+6. klormålinger fra hver tank som det er bunkret vann på. Målingene skal tas minst 30 minutter etter at bunkringen er avsluttet, og restklorverdien skal være over 0,05 mg/l Cl2 .
 
 ### § 14. Måleutstyr
 
@@ -164,7 +204,11 @@ En flyttbar innretning skal ha utstyr om bord som kan måle konduktivitet (salti
 
 ### § 16. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 

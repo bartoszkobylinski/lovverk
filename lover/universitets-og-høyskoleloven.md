@@ -15,7 +15,7 @@ xml_hash: "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1-1. Formålet med universiteter og høyskoler
 
-Universiteters og høyskolers formål er åtilby høyere utdanning på høyt internasjonalt nivåutføre forskning og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivåformidle kunnskap om virksomheten og utbre forståelse for prinsippet om akademisk frihet og bruk av vitenskapelige og kunstneriske metoder og resultater, både i undervisningen av studenter, i egen virksomhet for øvrig og i offentlig forvaltning, kulturliv og næringslivbidra til en miljømessig, sosialt og økonomisk bærekraftig utvikling.
+Universiteters og høyskolers formål er å
+
+1. tilby høyere utdanning på høyt internasjonalt nivå
+2. utføre forskning og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå
+3. formidle kunnskap om virksomheten og utbre forståelse for prinsippet om akademisk frihet og bruk av vitenskapelige og kunstneriske metoder og resultater, både i undervisningen av studenter, i egen virksomhet for øvrig og i offentlig forvaltning, kulturliv og næringsliv
+4. bidra til en miljømessig, sosialt og økonomisk bærekraftig utvikling.
 
 ### § 1-2. Lovens virkeområde
 
@@ -34,13 +39,26 @@ Loven gjelder for virksomhet knyttet til høyere utdanning.
 
 Loven gjelder for universiteters og høyskolers virksomhet i Norge. Loven gjelder på Svalbard og Jan Mayen dersom ikke annet er fastsatt i eller med hjemmel i loven. Loven gjelder også utdanning som foregår delvis i utlandet, så lenge utdanningen, inkludert tildeling av grader og avvikling av eksamen, har en tydelig tilknytning til virksomheten i Norge.
 
-Kongen kan gi forskrift omunntak fra og nødvendige tilpasninger til lovens regler for enkelte institusjoner som tilbyr høyere utdanningat loven skal gjelde helt eller delvis for virksomhet som foregår i utlandetsærlige regler for Svalbard og Jan Mayen dersom stedlige forhold tilsier detå utvide eller innskrenke lovens virkeområde for å oppfylle en avtale med en fremmed stat eller en internasjonal organisasjon.
+Kongen kan gi forskrift om
+
+1. unntak fra og nødvendige tilpasninger til lovens regler for enkelte institusjoner som tilbyr høyere utdanning
+2. at loven skal gjelde helt eller delvis for virksomhet som foregår i utlandet
+3. særlige regler for Svalbard og Jan Mayen dersom stedlige forhold tilsier det
+4. å utvide eller innskrenke lovens virkeområde for å oppfylle en avtale med en fremmed stat eller en internasjonal organisasjon.
 
 ## Kapittel 2 Virksomhet og ansvar
 
 ### § 2-1. Universiteters og høyskolers oppgaver
 
-Universiteter og høyskoler skaltilby høyere utdanning basert på det fremste innenfor forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskaputføre forskning og faglig og kunstnerisk utviklingsarbeidbidra til å spre og formidle resultater fra forskning og faglig og kunstnerisk utviklingsarbeidbidra til livslang læring og tilby etter- og videreutdanninglegge til rette for at institusjonens ansatte og studenter kan delta i samfunnsdebattenbidra til innovasjon og verdiskaping basert på resultater fra forskning og faglig og kunstnerisk utviklingsarbeidsamarbeide med relevante aktører på internasjonalt, nasjonalt, regionalt og lokalt nivå for å bedre kvaliteten på virksomheten og gjøre den mer relevant.
+Universiteter og høyskoler skal
+
+1. tilby høyere utdanning basert på det fremste innenfor forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap
+2. utføre forskning og faglig og kunstnerisk utviklingsarbeid
+3. bidra til å spre og formidle resultater fra forskning og faglig og kunstnerisk utviklingsarbeid
+4. bidra til livslang læring og tilby etter- og videreutdanning
+5. legge til rette for at institusjonens ansatte og studenter kan delta i samfunnsdebatten
+6. bidra til innovasjon og verdiskaping basert på resultater fra forskning og faglig og kunstnerisk utviklingsarbeid
+7. samarbeide med relevante aktører på internasjonalt, nasjonalt, regionalt og lokalt nivå for å bedre kvaliteten på virksomheten og gjøre den mer relevant.
 
 ### § 2-2. Akademisk frihet og ansvar
 
@@ -48,7 +66,12 @@ Universiteter og høyskoler skal fremme og verne akademisk frihet og dem som ut�
 
 Universiteter og høyskoler har ellers rett til å utforme sitt eget faglige og verdimessige grunnlag innenfor de rammene som er fastsatt i eller med hjemmel i lov.
 
-Universiteter og høyskoler kan ikke gis pålegg eller instrukser omlæreinnholdet i undervisningeninnholdet i forskningen eller i det kunstneriske og faglige utviklingsarbeidetinnholdet i formidlingenindividuelle ansettelser eller utnevnelser.
+Universiteter og høyskoler kan ikke gis pålegg eller instrukser om
+
+1. læreinnholdet i undervisningen
+2. innholdet i forskningen eller i det kunstneriske og faglige utviklingsarbeidet
+3. innholdet i formidlingen
+4. individuelle ansettelser eller utnevnelser.
 
 Den som underviser ved et universitet eller en høyskole, har et selvstendig faglig ansvar for innholdet og opplegget av undervisningen innenfor de rammene som institusjonen fastsetter, eller som er fastsatt i eller med hjemmel i lov.
 
@@ -84,7 +107,12 @@ Departementet kan i særskilte tilfeller godkjenne unntak fra første ledd.
 
 Statlige universiteter og høyskoler skal kreve egenbetaling fra studenter som er statsborgere i land utenfor EØS eller Sveits. Egenbetalingen skal minst dekke institusjonens kostnader for utdanningen.
 
-Institusjonene skal ikke kreve egenbetaling frautenlandske borgere som etter internasjonale avtaler har rett til å bli likebehandlet med norske borgereutenlandske borgere som kan ha rett til lån og stipend på samme vilkår som norske borgere etter [utdanningsstøtteloven](lov/2005-06-03-37) og forskrift fastsatt med hjemmel i dennedoktorgradskandidaterstudenter som er omfattet av et institusjonelt utvekslingssamarbeid. Institusjonene kan likevel kreve egenbetaling dersom dette ligger til grunn for utvekslingsavtalen.
+Institusjonene skal ikke kreve egenbetaling fra
+
+1. utenlandske borgere som etter internasjonale avtaler har rett til å bli likebehandlet med norske borgere
+2. utenlandske borgere som kan ha rett til lån og stipend på samme vilkår som norske borgere etter [utdanningsstøtteloven](lov/2005-06-03-37) og forskrift fastsatt med hjemmel i denne
+3. doktorgradskandidater
+4. studenter som er omfattet av et institusjonelt utvekslingssamarbeid. Institusjonene kan likevel kreve egenbetaling dersom dette ligger til grunn for utvekslingsavtalen.
 
 Departementet kan gi forskrift om unntak fra første ledd.
 
@@ -178,7 +206,17 @@ Departementet kan gi forskrift om tilsyn etter denne paragrafen.
 
 Gradssystemet består av gradene bachelor, master og philosophiae doctor (ph.d.) eller philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid).
 
-I tillegg kan følgende grader gis:høgskolekandidatmaster (integrert, fem år)master i rettsvitenskapøvrige mastergradercandidatus/candidata medicinae (cand.med.)candidatus/candidata medicinae veterinariae (cand.med.vet.)candidatus/candidata psychologiae (cand.psychol.)candidatus/candidata theologiae (cand.theol.)doctor philosophiae (dr.philos.).
+I tillegg kan følgende grader gis:
+
+1. høgskolekandidat
+2. master (integrert, fem år)
+3. master i rettsvitenskap
+4. øvrige mastergrader
+5. candidatus/candidata medicinae (cand.med.)
+6. candidatus/candidata medicinae veterinariae (cand.med.vet.)
+7. candidatus/candidata psychologiae (cand.psychol.)
+8. candidatus/candidata theologiae (cand.theol.)
+9. doctor philosophiae (dr.philos.).
 
 Bachelorgrad og høgskolekandidatgrad er lavere grader. Mastergrader og cand.med., cand.med.vet., cand.psychol. og cand.theol. er høyere grader. Ph.d., ph.d. i kunstnerisk utviklingsarbeid og dr.philos. er doktorgrader.
 
@@ -186,7 +224,12 @@ Bachelorgrad og høgskolekandidatgrad er lavere grader. Mastergrader og cand.med
 
 Akkreditering av studietilbudet er et vilkår for å kunne tildele den tilhørende graden. Departementet gir forskrift om hvilke grader og yrkesutdanninger en institusjon kan gi, om omfanget av studier som fører til en grad eller yrkesutdanning, og hvilken tittel graden eller yrkesutdanningen gir rett til.
 
-Departementet kan gi forskrift omkrav til de ulike gradene, blant annet om omfanget av selvstendig arbeid i høyere gradnasjonale rammeplaner for enkelte studierinstitusjonenes adgang til å gi grader i samarbeid med andre institusjoner og om akkreditering av fellesgrader som innebærer unntak fra [§ 3-2](lov/2024-03-08-9/§3-2)obligatoriske nasjonale deleksamener i enkelte emner, og om resultatet skal føres på vitnemålet.
+Departementet kan gi forskrift om
+
+1. krav til de ulike gradene, blant annet om omfanget av selvstendig arbeid i høyere grad
+2. nasjonale rammeplaner for enkelte studier
+3. institusjonenes adgang til å gi grader i samarbeid med andre institusjoner og om akkreditering av fellesgrader som innebærer unntak fra [§ 3-2](lov/2024-03-08-9/§3-2)
+4. obligatoriske nasjonale deleksamener i enkelte emner, og om resultatet skal føres på vitnemålet.
 
 Departementet gir forskrift om nasjonalt kvalifikasjonsrammeverk.
 
@@ -474,7 +517,18 @@ Dersom vikariatet har vart i mer enn tre år, skal personen om mulig tilbys anne
 
 ### § 7-6. Ansettelse på åremål
 
-Ansettelse på åremål kan brukes forrektorprorektorleder for avdeling og grunnenhetundervisnings- og forskningsstillinger hvor skapende eller utøvende kunstnerisk kompetanse er et vesentlig element i kompetansen som krevesstillinger på innstegsvilkårpostdoktorerstipendiaterspesialistkandidatervitenskapelige assistenterstudentombud
+Ansettelse på åremål kan brukes for
+
+1. rektor
+2. prorektor
+3. leder for avdeling og grunnenhet
+4. undervisnings- og forskningsstillinger hvor skapende eller utøvende kunstnerisk kompetanse er et vesentlig element i kompetansen som kreves
+5. stillinger på innstegsvilkår
+6. postdoktorer
+7. stipendiater
+8. spesialistkandidater
+9. vitenskapelige assistenter
+10. studentombud
 
 Åremålsperioden etter første ledd bokstav a, b og c skal være fire år. Ingen kan være ansatt på åremål etter bokstav a og b i en sammenhengende periode på mer enn åtte år, og ikke mer enn tolv år etter bokstav c. Dersom særlige grunner taler for det, kan departementet, etter forslag fra styret, fastsette en annen åremålsperiode enn fire år.
 
@@ -656,7 +710,11 @@ Studenter har rett til å varsle om kritikkverdige forhold ved universitetet ell
 
 Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, praksis, læremidler og eksamen.
 
-Retten gjelder ikke tilrettelegging som innebærer en uforholdsmessig byrde for institusjonen. Når institusjonen skal vurdere om tilretteleggingen innebærer en uforholdsmessig byrde, skal det særlig legges vekt påtilretteleggingens effektkostnadene ved tilretteleggingeninstitusjonens ressurser.
+Retten gjelder ikke tilrettelegging som innebærer en uforholdsmessig byrde for institusjonen. Når institusjonen skal vurdere om tilretteleggingen innebærer en uforholdsmessig byrde, skal det særlig legges vekt på
+
+1. tilretteleggingens effekt
+2. kostnadene ved tilretteleggingen
+3. institusjonens ressurser.
 
 Tilretteleggingen må ikke føre til en reduksjon av de faglige kravene som stilles i det enkelte studiet. For å bestå må studentene oppnå det læringsutbyttet som kreves for studiet.
 
@@ -916,7 +974,11 @@ Vedtak om bortvisning etter andre ledd og utestenging etter tredje ledd skal fat
 
 ### § 12-6. Grovt klanderverdig opptreden
 
-En student som har opptrådt grovt klanderverdig overfor pasienter, brukere, barnehagebarn, elever eller andre som studenten har å gjøre med som en del av klinisk undervisning eller praksis, kan utestenges og fratas retten til å gå opp til eksamen i inntil tre år i studier med klinisk undervisning eller praksis. Grovt klanderverdig opptreden vil si at studenten haropptrådt på en slik måte at det er skapt fare for liv eller helsegjort seg skyldig i grove brudd på taushetspliktenopptrådt grovt usømmelig.
+En student som har opptrådt grovt klanderverdig overfor pasienter, brukere, barnehagebarn, elever eller andre som studenten har å gjøre med som en del av klinisk undervisning eller praksis, kan utestenges og fratas retten til å gå opp til eksamen i inntil tre år i studier med klinisk undervisning eller praksis. Grovt klanderverdig opptreden vil si at studenten har
+
+1. opptrådt på en slik måte at det er skapt fare for liv eller helse
+2. gjort seg skyldig i grove brudd på taushetsplikten
+3. opptrådt grovt usømmelig.
 
 Vedtak om utestenging og tap av retten til å gå opp til eksamen fattes med to tredels flertall av styret selv eller institusjonens nemnd for studentsaker, jf. [§ 14-1](lov/2024-03-08-9/§14-1).
 
@@ -1046,7 +1108,12 @@ Departementet kan gi forskrift om saksbehandlingen i NOKUT.
 
 ### § 16-2. NOKUTs faglige uavhengighet
 
-NOKUT er faglig uavhengig i følgende oppgaver:akkreditering av institusjoner og studietilbudperiodiske tilsyn med institusjonenes systematiske kvalitetsarbeidtilsyn med akkrediterte institusjoner og studietilbudevalueringer for å vurdere kvaliteten i høyere utdanning.
+NOKUT er faglig uavhengig i følgende oppgaver:
+
+1. akkreditering av institusjoner og studietilbud
+2. periodiske tilsyn med institusjonenes systematiske kvalitetsarbeid
+3. tilsyn med akkrediterte institusjoner og studietilbud
+4. evalueringer for å vurdere kvaliteten i høyere utdanning.
 
 ### § 16-3. NOKUTs evalueringer
 

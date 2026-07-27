@@ -34,7 +34,11 @@ Forskriften gjelder ikke for militær luftfart.
 
 ### § 2. Definisjoner
 
-I forskriften menes med:*Flyging over åpent vann:* Flyging over ikke-islagt vann hvor luftfartøyet ikke kan nå land eller fast is ved å glidefly eller autorotere.*Passasjerflyging:* Flyging med personer om bord som ikke er del av besetningen.*Polare områder:* Områdene nord for polarsirkelen og sør for 60 grader sydlig breddegrad, samt på Bouvetøya.
+I forskriften menes med:
+
+1. *Flyging over åpent vann:* Flyging over ikke-islagt vann hvor luftfartøyet ikke kan nå land eller fast is ved å glidefly eller autorotere.
+2. *Passasjerflyging:* Flyging med personer om bord som ikke er del av besetningen.
+3. *Polare områder:* Områdene nord for polarsirkelen og sør for 60 grader sydlig breddegrad, samt på Bouvetøya.
 
 ## Kapittel II. Alminnelige tilleggsregler
 
@@ -58,7 +62,13 @@ Besetningsmedlemmer skal ha refleksvest eller ytterklær med refleks som gir god
 
 ### § 6. Rednings- og nødutstyr
 
-Ved flyging skal følgende tilleggsutstyr medbringes:utstyr for å sende nødlyssignaler,ekstra kommunikasjonsutstyr med nødfrekvenser og ekstra batteri,personlig nødpeilesender (PLB) til hvert besetningsmedlem,tilstrekkelig overlevelsesutstyr og proviant,detaljkart som dekker det aktuelle området, såfremt dette finnes.
+Ved flyging skal følgende tilleggsutstyr medbringes:
+
+1. utstyr for å sende nødlyssignaler,
+2. ekstra kommunikasjonsutstyr med nødfrekvenser og ekstra batteri,
+3. personlig nødpeilesender (PLB) til hvert besetningsmedlem,
+4. tilstrekkelig overlevelsesutstyr og proviant,
+5. detaljkart som dekker det aktuelle området, såfremt dette finnes.
 
 Alt utstyr skal være tydelig merket og plassert samlet på et hensiktsmessig sted i luftfartøyet. Før flygingen påbegynnes skal fartøysjefen informere alle om bord om utstyret og hvor det er plassert. Fartøysjefen skal forsikre seg om at alle om bord er kjent med bruk av kommunikasjonsutstyret.
 

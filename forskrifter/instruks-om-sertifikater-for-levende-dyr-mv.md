@@ -51,7 +51,12 @@ Sertifikatutsteder skal iaktta gjeldende bestemmelser om habilitet, jf. lov av 1
 2. Sertifikatet skal være utstedt på mottakerlandets offisielle språk eller på et språk som mottakerlandets myndigheter godtar. Sertifikatet skal også utstedes på norsk, dersom sertifikatutsteder ikke fullt ut behersker det aktuelle fremmede språket.
 3. Sertifikat skal ikke utstedes på bakgrunn av opplysninger som sertifikatutsteder ikke har personlig kjennskap til, eller som vedkommende ikke kan bekrefte eller kontrollere på annen måte.
 4. Sertifikatutsteder skal ikke signere «in blanco» eller på ufullstendig utfylte sertifikater. Det skal heller ikke gis sertifikat for levende dyr eller produkter av animalsk opprinnelse som ikke har vært kontrollert, eller som sertifikatutsteder ikke lenger har mulighet til å kontrollere.
-5. Hvis et sertifikat blir utstedt på grunnlag av et annet sertifikat eller et annet dokument, skal sertifikatutsteder være i besittelse av dette dokumentet når det nye sertifikatet signeres.Bestemmelsen i pkt. 2-4 er ikke til hinder for at det kan utstedes sertifikat på grunnlag av data:som er fastslått av en annen offentlig tjenestemann som handler under sertifikatutstederens tilsyn, og som på den måten kan etterprøve riktigheten av fremlagte data.som bygger på resultater fra offentlig godkjente overvåkingsprogrammer, offentlig anerkjente kvalitetssikringsordninger eller epidemiovervåkningssystemer.
+5. Hvis et sertifikat blir utstedt på grunnlag av et annet sertifikat eller et annet dokument, skal sertifikatutsteder være i besittelse av dette dokumentet når det nye sertifikatet signeres.
+
+   Bestemmelsen i pkt. 2-4 er ikke til hinder for at det kan utstedes sertifikat på grunnlag av data:
+
+   1. som er fastslått av en annen offentlig tjenestemann som handler under sertifikatutstederens tilsyn, og som på den måten kan etterprøve riktigheten av fremlagte data.
+   2. som bygger på resultater fra offentlig godkjente overvåkingsprogrammer, offentlig anerkjente kvalitetssikringsordninger eller epidemiovervåkningssystemer.
 6. Sertifikatutsteders underskrift skal ikke kunne endres eller slettes, og skal være påført i en annen farge enn sort. En kopi av sertifikatet skal oppbevares hos sertifikatutsteder i minimum 3 år.
 
 ## Kapittel III. Administrative bestemmelser

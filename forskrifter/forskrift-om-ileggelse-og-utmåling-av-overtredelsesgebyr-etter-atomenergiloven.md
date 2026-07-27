@@ -36,7 +36,13 @@ Ved vurderingen av om overtredelsesgebyr skal ilegges kan det blant annet legges
 
 Overtredelsesgebyr utmåles av Direktoratet for strålevern og atomsikkerhet i hvert enkelt tilfelle (individuell utmåling).
 
-For fysiske personer kan det ved utmålingen blant annet legges vekt påovertredelsens omfangom det har oppstått tap eller fare for tap av menneskeliv, eller skade eller fare for skade på helse, miljø eller materielle verdierom det er eller kunne vært oppnådd fordeler ved overtredelsenovertrederens grad av skyldøkonomiske evne.
+For fysiske personer kan det ved utmålingen blant annet legges vekt på
+
+1. overtredelsens omfang
+2. om det har oppstått tap eller fare for tap av menneskeliv, eller skade eller fare for skade på helse, miljø eller materielle verdier
+3. om det er eller kunne vært oppnådd fordeler ved overtredelsen
+4. overtrederens grad av skyld
+5. økonomiske evne.
 
 Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbeløp (G).
 
@@ -44,7 +50,12 @@ Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbelø
 
 Overtredelsesgebyr utmåles av Direktoratet for strålevern og atomsikkerhet i hvert enkelt tilfelle (individuell utmåling).
 
-For foretak kan det ved utmålingen blant annet legges vekt påom det har oppstått tap eller fare for tap av menneskeliv, eller skade eller fare for skade på helse, miljø eller materielle verdierom foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsenom overtredelsen er begått for å fremme foretakets interesserom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen.
+For foretak kan det ved utmålingen blant annet legges vekt på
+
+1. om det har oppstått tap eller fare for tap av menneskeliv, eller skade eller fare for skade på helse, miljø eller materielle verdier
+2. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+3. om overtredelsen er begått for å fremme foretakets interesser
+4. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen.
 
 Ved utmålingen av overtredelsesgebyret kan det i tillegg sees hen til øvrige momenter angitt i [forvaltningsloven § 46 andre ledd](lov/1967-02-10/§46/ledd/2).
 

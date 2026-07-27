@@ -30,13 +30,27 @@ Formålet med tilskuddsordningen er å øke den forskningsbaserte kunnskapen om 
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*prosjektstøtte:* tilskudd til forskningsrelaterte aktiviteter og prosjekter, inkludert prosjektbaserte lønns- og driftsutgifter*driftsstøtte:* tilskudd til faste og generelle administrative utgifter knyttet til et prosjekt*kandidat:* den personen som skal tiltre i en doktorgradsstipendiatstilling*søker:* institusjonen som søker om tilskudd og som vil ansette kandidaten i en stipendiatstilling, før tilsagn om tilskudd er gitt.*prosjektbeskrivelse:* den akademiske redegjørelsen for et doktorgradsprosjekt utarbeidet av kandidaten selv, herunder problemstilling og metodevalg, som den akkrediterte forskningsinstitusjonen legger til grunn for søkerens opptak.*annet karrierefremmende arbeid:* arbeid ut over forskning og utdanning som gir relevant kunnskap og erfaring for videre karriereløp ved høyere utdannings- eller forskningsinstitusjoner eller i andre sektorer.*tilskuddsmottaker:* den institusjonen som mottar tilskuddet og som ansetter kandidaten i stipendiatstillingen.*tilskuddsforvalter:* den avdelingen i Forsvaret som forvalter tilskuddsordningen på vegne av Forsvarsdepartementet.
+I denne forskriften menes med:
+
+1. *prosjektstøtte:* tilskudd til forskningsrelaterte aktiviteter og prosjekter, inkludert prosjektbaserte lønns- og driftsutgifter
+2. *driftsstøtte:* tilskudd til faste og generelle administrative utgifter knyttet til et prosjekt
+3. *kandidat:* den personen som skal tiltre i en doktorgradsstipendiatstilling
+4. *søker:* institusjonen som søker om tilskudd og som vil ansette kandidaten i en stipendiatstilling, før tilsagn om tilskudd er gitt.
+5. *prosjektbeskrivelse:* den akademiske redegjørelsen for et doktorgradsprosjekt utarbeidet av kandidaten selv, herunder problemstilling og metodevalg, som den akkrediterte forskningsinstitusjonen legger til grunn for søkerens opptak.
+6. *annet karrierefremmende arbeid:* arbeid ut over forskning og utdanning som gir relevant kunnskap og erfaring for videre karriereløp ved høyere utdannings- eller forskningsinstitusjoner eller i andre sektorer.
+7. *tilskuddsmottaker:* den institusjonen som mottar tilskuddet og som ansetter kandidaten i stipendiatstillingen.
+8. *tilskuddsforvalter:* den avdelingen i Forsvaret som forvalter tilskuddsordningen på vegne av Forsvarsdepartementet.
 
 ## Kapittel 2. Saksbehandlingen
 
 ### § 3. Hvem og hva det kan gis tilskudd til
 
-Forsvaret kan tildele tilskudd til forskningsinstitusjoner i Norge som kan tildele doktorgrad innenfor fagområdene helse/medisin, samfunnsvitenskap og humaniora. Forsvaret kan videre tildele tilskudd til institutter, museer og tenketanker som har en kandidat som er opptatt i et doktorgradsprogram eller der det foreligger en forpliktende avtale om opptak ved en forskningsinstitusjon som nevnt i første punktum, og som kan dokumentere:god budsjettbalanseat gjeldende faglige og etiske retningslinjer innenfor forskning følges, herunder særlig bestemmelsene i [lov om medisinsk og helsefaglig forskning (helseforskningsloven)](lov/2008-06-20-44), [personvernforordningen og personopplysningsloven](lov/2018-06-15-38/gdpr) når relevantøkonomisk egeninnsats, ved at kostnader til annet karrierefremmende arbeid og andre nødvendige kostnader utover tilskuddet dekkes av søkerat tidligere prosjekter fra samme søker som er tildelt støtte etter denne forskriften er avsluttet eller har progresjon i henhold til plan.
+Forsvaret kan tildele tilskudd til forskningsinstitusjoner i Norge som kan tildele doktorgrad innenfor fagområdene helse/medisin, samfunnsvitenskap og humaniora. Forsvaret kan videre tildele tilskudd til institutter, museer og tenketanker som har en kandidat som er opptatt i et doktorgradsprogram eller der det foreligger en forpliktende avtale om opptak ved en forskningsinstitusjon som nevnt i første punktum, og som kan dokumentere:
+
+1. god budsjettbalanse
+2. at gjeldende faglige og etiske retningslinjer innenfor forskning følges, herunder særlig bestemmelsene i [lov om medisinsk og helsefaglig forskning (helseforskningsloven)](lov/2008-06-20-44), [personvernforordningen og personopplysningsloven](lov/2018-06-15-38/gdpr) når relevant
+3. økonomisk egeninnsats, ved at kostnader til annet karrierefremmende arbeid og andre nødvendige kostnader utover tilskuddet dekkes av søker
+4. at tidligere prosjekter fra samme søker som er tildelt støtte etter denne forskriften er avsluttet eller har progresjon i henhold til plan.
 
 Forsvaret kan tildele prosjektstøtte, og om helt nødvendig, driftsstøtte som en passende andel av støtten, til prosjekter innenfor helsefag, samfunnsvitenskapelige fag og humaniora.
 
@@ -44,7 +58,14 @@ Forsvaret kan tildele tilskudd til doktorgradsprosjekter med varighet på 3 år 
 
 ### § 4. Hvordan søknaden blir vurdert
 
-I vurderingen av om det skal tildeles prosjektstøtte eller driftsstøtte til doktorgradsprosjekter skal søknaden legges til grunn. Prosjektbeskrivelsen vil utgjøre det vesentligste grunnlaget for vurderingen. Det skal legges vekt på om prosjektetivaretar formålet i [§ 1](forskrift/2024-08-07-1924/§1)har relevans innenfor aktuelle temaer knyttet til forskningsområdene som følger av formålet i [§ 1](forskrift/2024-08-07-1924/§1)holder et tilstrekkelig faglig nivåbidrar til forskningsutvikling innenfor forskningsområdene som følger av formålet i [§ 1](forskrift/2024-08-07-1924/§1)bidrar til tverrfaglighet mellom fagområdene nevnt i [§ 3 første ledd](forskrift/2024-08-07-1924/§3/ledd/1)presenteres på et skandinavisk språk eller engelsk.
+I vurderingen av om det skal tildeles prosjektstøtte eller driftsstøtte til doktorgradsprosjekter skal søknaden legges til grunn. Prosjektbeskrivelsen vil utgjøre det vesentligste grunnlaget for vurderingen. Det skal legges vekt på om prosjektet
+
+1. ivaretar formålet i [§ 1](forskrift/2024-08-07-1924/§1)
+2. har relevans innenfor aktuelle temaer knyttet til forskningsområdene som følger av formålet i [§ 1](forskrift/2024-08-07-1924/§1)
+3. holder et tilstrekkelig faglig nivå
+4. bidrar til forskningsutvikling innenfor forskningsområdene som følger av formålet i [§ 1](forskrift/2024-08-07-1924/§1)
+5. bidrar til tverrfaglighet mellom fagområdene nevnt i [§ 3 første ledd](forskrift/2024-08-07-1924/§3/ledd/1)
+6. presenteres på et skandinavisk språk eller engelsk.
 
 Forsvaret kan innhente faglig støtte fra relevante fagmiljøer i og utenfor forsvarssektoren for å vurdere det faglige nivået på prosjektbeskrivelsen. Det samme gjelder temaets relevans og status i forhold til forskningsfronten innenfor det angjeldende fag.
 
@@ -56,7 +77,15 @@ I tilfeller der søkeren forhindres fra å overholde fristen grunnet forhold ute
 
 ### § 6. Krav til søknaden og kandidaten
 
-En søknad om tilskudd skal angiinstitusjonens adresse, organisasjonsnummer, kontonummer, telefonnummer og epostadresse, samt kontaktpersonkandidatens navn, adresse, fødsels- og personnummer, telefonnummer og epostadresseprosjektbeskrivelse etter de akademiske normer for søknad om opptak til doktorgradsstudier i det angjeldende fagkandidatens CV med attester og vitnemålbeløpet det søkes ombudsjett for prosjektet der det tydeliggjøres hva som er prosjektmidler, hva som er driftsmidler og hva som finansieres av søkerutfylt personopplysningsblankett for sikkerhetsklarering av kandidaten til nivå BEGRENSET, jf. [sikkerhetsloven § 8-2 første](lov/2018-06-01-24/§8-2/ledd/1) og [annet ledd](lov/2018-06-01-24/§8-2/ledd/2), jf. [§ 5-3](lov/2018-06-01-24/§5-3).
+En søknad om tilskudd skal angi
+
+1. institusjonens adresse, organisasjonsnummer, kontonummer, telefonnummer og epostadresse, samt kontaktperson
+2. kandidatens navn, adresse, fødsels- og personnummer, telefonnummer og epostadresse
+3. prosjektbeskrivelse etter de akademiske normer for søknad om opptak til doktorgradsstudier i det angjeldende fag
+4. kandidatens CV med attester og vitnemål
+5. beløpet det søkes om
+6. budsjett for prosjektet der det tydeliggjøres hva som er prosjektmidler, hva som er driftsmidler og hva som finansieres av søker
+7. utfylt personopplysningsblankett for sikkerhetsklarering av kandidaten til nivå BEGRENSET, jf. [sikkerhetsloven § 8-2 første](lov/2018-06-01-24/§8-2/ledd/1) og [annet ledd](lov/2018-06-01-24/§8-2/ledd/2), jf. [§ 5-3](lov/2018-06-01-24/§5-3).
 
 Kandidaten må kunne sikkerhetsklareres og autoriseres til nivå BEGRENSET, men likevel til nivå HEMMELIG ved behov, jf. [sikkerhetsloven § 8-2 første](lov/2018-06-01-24/§8-2/ledd/1) og [annet ledd](lov/2018-06-01-24/§8-2/ledd/2), jf. [§ 5-3](lov/2018-06-01-24/§5-3).
 
@@ -102,7 +131,10 @@ Tilskuddsforvalter kan fatte vedtak om å overføre det ubenyttede beløpet til 
 
 ### § 11. Tilsyn og kontroll
 
-Tilskuddsforvalteren fører tilsyn med attilskuddsmottakerne oppfyller kravene i forskriften og tilskuddsvedtaketopplysninger som ligger til grunn for tilskuddene og rapportene er riktige.
+Tilskuddsforvalteren fører tilsyn med at
+
+1. tilskuddsmottakerne oppfyller kravene i forskriften og tilskuddsvedtaket
+2. opplysninger som ligger til grunn for tilskuddene og rapportene er riktige.
 
 Tilskuddsforvalteren kan kreve innsyn i tilskuddsmottakernes regnskaper for å gjennomføre tilsynet etter første ledd.
 
@@ -110,7 +142,13 @@ Tilskuddsmottakerne skal samarbeide under tilsynet, blant annet ved å innhente 
 
 ### § 12. Reaksjonsformer
 
-Tilskuddsforvalteren kan holde tilbake utbetalingen av et tilskudd, kreve et utbetalt tilskudd tilbakebetalt, eller helt eller delvis avslå en søknad om fremtidige tilskudd dersomtilskuddsmottakeren har brutt opplysningsplikten i [§ 7](forskrift/2024-08-07-1924/§7)tilskuddet ikke blir benyttet i samsvar med betingelsene og vilkårene for tilskuddettilskuddsmottakeren unnlater å sende inn eller sender inn mangelfull rapport etter [§ 9](forskrift/2024-08-07-1924/§9)tilskuddsmottakeren unnlater å informere om ubenyttede tilskuddsmidler etter [§ 10](forskrift/2024-08-07-1924/§10)tilskuddsmottakeren unnlater å medvirke eller legge til rette for tilsyn og kontroll etter [§ 11](forskrift/2024-08-07-1924/§11).
+Tilskuddsforvalteren kan holde tilbake utbetalingen av et tilskudd, kreve et utbetalt tilskudd tilbakebetalt, eller helt eller delvis avslå en søknad om fremtidige tilskudd dersom
+
+1. tilskuddsmottakeren har brutt opplysningsplikten i [§ 7](forskrift/2024-08-07-1924/§7)
+2. tilskuddet ikke blir benyttet i samsvar med betingelsene og vilkårene for tilskuddet
+3. tilskuddsmottakeren unnlater å sende inn eller sender inn mangelfull rapport etter [§ 9](forskrift/2024-08-07-1924/§9)
+4. tilskuddsmottakeren unnlater å informere om ubenyttede tilskuddsmidler etter [§ 10](forskrift/2024-08-07-1924/§10)
+5. tilskuddsmottakeren unnlater å medvirke eller legge til rette for tilsyn og kontroll etter [§ 11](forskrift/2024-08-07-1924/§11).
 
 ## Kapittel 5. Ikrafttredelse
 

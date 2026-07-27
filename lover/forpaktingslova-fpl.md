@@ -15,7 +15,7 @@ xml_hash: "13e190ce0a968559bce3f2405054c9a4c9a00aa76191fe378a4f5515b7eb02b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,13 @@ eu_basis: []
 
 Lova gjeld forpakting av eigedom, som skal nyttast til jordbruks- eller skogbruksproduksjon.
 
-Unntatt er:forpakting av eigedom som er mindre enn 5 dekar,forpakting i samband med arbeidsforhold når eigedomen er tillagt arbeidstakaren og inntekta av eigedomen utgjer den mindre delen av lønna,forpakting av eigedom som blir forvalta av militær styremakt,leigeforhold som går inn under [husleigelova](lov/1999-03-26-17),leige av jordbruksareal utan hus (rein jordleige).
+Unntatt er:
+
+1. forpakting av eigedom som er mindre enn 5 dekar,
+2. forpakting i samband med arbeidsforhold når eigedomen er tillagt arbeidstakaren og inntekta av eigedomen utgjer den mindre delen av lønna,
+3. forpakting av eigedom som blir forvalta av militær styremakt,
+4. leigeforhold som går inn under [husleigelova](lov/1999-03-26-17),
+5. leige av jordbruksareal utan hus (rein jordleige).
 
 Dersom eigedomen skal nyttast til gartneri, forsøksfelt, undervisningsføremål eller liknande, kan departementet etter søknad gjere vedtak om at forpaktingsforholdet heilt eller delvis skal vere unntatt frå føresegnene i lova.
 
@@ -44,7 +50,10 @@ Forpaktingsavtale skal vere skriftleg. Det same gjeld endring av eller tillegg t
 
 Forpaktingsavtale skal innehalde spesifisert arealoppgåve over den forpakta eigedomen og elles utførlege opplysningar om kva for rettar og plikter avtalen omfattar.
 
-Kravet i første ledd om at avtalen skal vere skriftleg er ikkje til hinder for at avtalen kan gjerast ved bruk av eit elektronisk medium dersom partane er samde om det ogheile innhaldet i avtalen er tilgjengeleg for partane når avtalen vert gjort, ogdet er nytta ein trygg metode for å autentisere avtaleinngåinga og sikre innhaldet av avtala.
+Kravet i første ledd om at avtalen skal vere skriftleg er ikkje til hinder for at avtalen kan gjerast ved bruk av eit elektronisk medium dersom partane er samde om det og
+
+1. heile innhaldet i avtalen er tilgjengeleg for partane når avtalen vert gjort, og
+2. det er nytta ein trygg metode for å autentisere avtaleinngåinga og sikre innhaldet av avtala.
 
 > Endra med [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
 
@@ -228,7 +237,15 @@ Reglane i [§ 6](lov/1965-06-25-1/§6) er ikkje til hinder for at partane kan gj
 
 ## § 26. Tap av forpaktingsretten.
 
-Jordeigaren kan heve forpaktingsavtalen når forpaktarentrass i påkrav ikkje har betalt forpaktingsavgifta innan tre månader etter forfallsdag,vanrøktar eigedomen eller trass i åtvaring misheld pliktene sine etter [§ 14](lov/1965-06-25-1/§14) eller [§ 15](lov/1965-06-25-1/§15) med omsyn til buskap eller reiskap,utan samtykke nyttar eigedomen til anna føremål enn føresetnaden etter avtalen,framleiger husvære i strid med [§ 9](lov/1965-06-25-1/§9),fører bort gjødsel i strid med [§ 19](lov/1965-06-25-1/§19),gjer hærverk på eller driv ulovleg jakt eller fiske på eigedomen eller annan eigedom som høyrer jordeigaren til,misheld avtaleføresegner som er vesentlege.
+Jordeigaren kan heve forpaktingsavtalen når forpaktaren
+
+1. trass i påkrav ikkje har betalt forpaktingsavgifta innan tre månader etter forfallsdag,
+2. vanrøktar eigedomen eller trass i åtvaring misheld pliktene sine etter [§ 14](lov/1965-06-25-1/§14) eller [§ 15](lov/1965-06-25-1/§15) med omsyn til buskap eller reiskap,
+3. utan samtykke nyttar eigedomen til anna føremål enn føresetnaden etter avtalen,
+4. framleiger husvære i strid med [§ 9](lov/1965-06-25-1/§9),
+5. fører bort gjødsel i strid med [§ 19](lov/1965-06-25-1/§19),
+6. gjer hærverk på eller driv ulovleg jakt eller fiske på eigedomen eller annan eigedom som høyrer jordeigaren til,
+7. misheld avtaleføresegner som er vesentlege.
 
 Jordeigaren har likevel ikkje rett til å heve avtalen dersom mishaldinga må reknast som uvesentleg.
 

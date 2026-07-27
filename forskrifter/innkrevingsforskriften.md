@@ -36,43 +36,257 @@ Innkrevingsmyndigheten krever inn ansvarskrav mot trekkpliktige etter [innkrevin
 
 ### § 2-3. Krav på skatt og avgift mv.
 
-Innkrevingsmyndigheten krever innskatte- og avgiftskrav som nevnt i [skattebetalingsloven § 1-1 andre ledd](lov/2005-06-17-67/§1-1/ledd/2)krav som nevnt i [skattebetalingsloven § 1-1 tredje ledd](lov/2005-06-17-67/§1-1/ledd/3)tilbakesøkingskrav som nevnt i [skattebetalingsloven § 1-3](lov/2005-06-17-67/§1-3)ansvarskrav etter [skattebetalingsloven kapittel 16](lov/2005-06-17-67/kap16)avgifter som skal kreves inn ved innførsel eller utførsel av varer etter [forskrift 13. desember 2000 nr. 1253 om samordnet innkreving av avgift på fiskeeksport](forskrift/2000-12-13-1253) og [forskrift 20. desember 2012 nr. 1417 om forskningsavgift på landbruksprodukter](forskrift/2012-12-20-1417).
+Innkrevingsmyndigheten krever inn
+
+1. skatte- og avgiftskrav som nevnt i [skattebetalingsloven § 1-1 andre ledd](lov/2005-06-17-67/§1-1/ledd/2)
+2. krav som nevnt i [skattebetalingsloven § 1-1 tredje ledd](lov/2005-06-17-67/§1-1/ledd/3)
+3. tilbakesøkingskrav som nevnt i [skattebetalingsloven § 1-3](lov/2005-06-17-67/§1-3)
+4. ansvarskrav etter [skattebetalingsloven kapittel 16](lov/2005-06-17-67/kap16)
+5. avgifter som skal kreves inn ved innførsel eller utførsel av varer etter [forskrift 13. desember 2000 nr. 1253 om samordnet innkreving av avgift på fiskeeksport](forskrift/2000-12-13-1253) og [forskrift 20. desember 2012 nr. 1417 om forskningsavgift på landbruksprodukter](forskrift/2012-12-20-1417).
 
 ### § 2-4. Underholdsbidrag mv.
 
-Innkrevingsmyndigheten krever innunderholdsbidrag som påhviler noen etter [barnelova](lov/1981-04-08-7), [ekteskapsloven](lov/1991-07-04-47) eller [barnevernsloven](lov/2021-06-18-97)folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter [forskotteringsloven § 10](lov/1989-02-17-2/§10)feilutbetalt bidrag etter [bidragsinnkrevingsloven § 26](lov/2005-04-29-20/§26)pålegg om å betale bidrag på nytt etter [bidragsinnkrevingsloven § 27](lov/2005-04-29-20/§27)gebyr som påløper ved fastsetting av bidrag etter [barnelova § 70](lov/1981-04-08-7/§70)feilutbetalt bidragsforskudd etter [forskotteringsloven § 8](lov/1989-02-17-2/§8).
+Innkrevingsmyndigheten krever inn
+
+1. underholdsbidrag som påhviler noen etter [barnelova](lov/1981-04-08-7), [ekteskapsloven](lov/1991-07-04-47) eller [barnevernsloven](lov/2021-06-18-97)
+2. folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter [forskotteringsloven § 10](lov/1989-02-17-2/§10)
+3. feilutbetalt bidrag etter [bidragsinnkrevingsloven § 26](lov/2005-04-29-20/§26)
+4. pålegg om å betale bidrag på nytt etter [bidragsinnkrevingsloven § 27](lov/2005-04-29-20/§27)
+5. gebyr som påløper ved fastsetting av bidrag etter [barnelova § 70](lov/1981-04-08-7/§70)
+6. feilutbetalt bidragsforskudd etter [forskotteringsloven § 8](lov/1989-02-17-2/§8).
 
 ### § 2-5. Strafferelaterte krav og erstatningskrav mv.
 
-Innkrevingsmyndigheten krever innbøter og andre pengekrav som er tilkjent staten i en offentlig straffesakerstatningskrav og regresskrav ved inntreden, tilkjent staten ved dom eller i avtalesakskostnader tilkjent staten i sivile sakererstatning og andre pengekrav som er tilkjent en fornærmet eller annen skadelidt i en offentlig straffesak, dersom den berettigete ønsker deterstatning og andre pengekrav tilkjent en skadelidt eller dennes etterlatte i sivil sak på grunn av en straffbar handling som krenker liv, helse eller frihet, etter begjæring fra den berettigede.
+Innkrevingsmyndigheten krever inn
+
+1. bøter og andre pengekrav som er tilkjent staten i en offentlig straffesak
+2. erstatningskrav og regresskrav ved inntreden, tilkjent staten ved dom eller i avtale
+3. sakskostnader tilkjent staten i sivile saker
+4. erstatning og andre pengekrav som er tilkjent en fornærmet eller annen skadelidt i en offentlig straffesak, dersom den berettigete ønsker det
+5. erstatning og andre pengekrav tilkjent en skadelidt eller dennes etterlatte i sivil sak på grunn av en straffbar handling som krenker liv, helse eller frihet, etter begjæring fra den berettigede.
 
 ### § 2-6. Tvangsmulkt og overtredelsesgebyr
 
-(1) Innkrevingsmyndigheten krever inn tvangsmulkt ilagt med hjemmel i[alkoholloven](lov/1989-06-02-27)[anskaffelsesloven](lov/2016-06-17-73)[a-opplysningsloven](lov/2012-06-22-43)[apotekloven](lov/2000-06-02-39)[arbeidsmiljøloven](lov/2005-06-17-62)[brann- og eksplosjonsvernloven](lov/2002-06-14-20)[deltakerloven](lov/1999-03-26-15)[diskrimineringsombudsloven](lov/2017-06-16-50)[el-tilsynsloven](lov/1929-05-24-4)[energiloven](lov/1990-06-29-50)[finansforetaksloven](lov/2015-04-10-17)[finanstilsynsloven](lov/2024-06-21-41)[folketrygdloven § 25-3](lov/1997-02-28-19/§25-3)[forbrukermerkeloven](lov/1981-12-18-90)[forsikringsvirksomhetsloven](lov/2005-06-10-44)[forurensningsloven](lov/1981-03-13-6)[havressurslova](lov/2008-06-06-37)[hvitvaskingsloven](lov/2018-06-01-23)[klimakvoteloven](lov/2004-12-17-99)[kringkastingsloven](lov/1992-12-04-127)[legemiddelloven](lov/1992-12-04-132)[likestillings- og diskrimineringsloven](lov/2017-06-16-51)[lotteriloven](lov/1995-02-24-11)[lov 24. juni 2011 nr. 39 om elsertifikater](lov/2011-06-24-39)[lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6)[lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37)[lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon](lov/2005-12-21-124)[lov 1. mars 2019 nr. 2 om register over reelle rettighetshavere](lov/2019-03-01-2)[lov 17. juni 2016 nr. 64 om åpenhet om eierskap i medier](lov/2016-06-17-64)[luftfartsloven](lov/1993-06-11-101)[markedsføringsloven](lov/2009-01-09-2)[mineralloven](lov/2025-06-20-107)[naturmangfoldloven](lov/2009-06-19-100)[pengespilloven](lov/2022-03-18-12)[personopplysningsloven](lov/2018-06-15-38)[plan- og bygningsloven](lov/2008-06-27-71)[produktkontrolloven](lov/1976-06-11-79)[referanseverdiloven](lov/2015-12-04-95)[sivilbeskyttelsesloven](lov/2010-06-25-45)[skipssikkerhetsloven](lov/2007-02-16-9)[statistikkloven](lov/2019-06-21-32)[svalbardmiljøloven](lov/2001-06-15-79)[tobakksskadeloven](lov/1973-03-09-14)[vannressursloven](lov/2000-11-24-82)[vassdragsreguleringsloven](lov/1917-12-14-17)[vegtrafikkloven](lov/1965-06-18-4)[verdipapirhandelloven](lov/2007-06-29-75)[åpenhetsloven](lov/2021-06-18-99).
+(1) Innkrevingsmyndigheten krever inn tvangsmulkt ilagt med hjemmel i
 
-(2) Innkrevingsmyndigheten krever inn overtredelsesgebyr ilagt med hjemmel i[advokatloven](lov/2022-05-12-28)[angrerettloven](lov/2014-06-20-27)[anskaffelsesloven](lov/2016-06-17-73)[a-opplysningsloven](lov/2012-06-22-43)[apotekloven](lov/2000-06-02-39)[arbeidsmiljøloven](lov/2005-06-17-62)[avtaleloven](lov/1918-05-31-4)[bildeprogramloven](lov/2015-02-06-7)[deltakerloven](lov/1999-03-26-15)[ehandelsloven](lov/2003-05-23-35)[el-tilsynsloven](lov/1929-05-24-4)[energiloven](lov/1990-06-29-50)[finansavtaleloven](lov/2020-12-18-146)[folkeregisterloven](lov/2016-12-09-88)[folketrygdloven §§ 25-3](lov/1997-02-28-19/§25-3) og [25-6a](lov/1997-02-28-19/§25-6a)[forbrukerkjøpsloven](lov/2002-06-21-34)[forbrukermerkeloven](lov/1981-12-18-90)[forsikringsavtaleloven](lov/1989-06-16-69)[forurensningsloven](lov/1981-03-13-6)[havenergilova](lov/2010-06-04-21)[havne- og farvannsloven](lov/2019-06-21-70)[havressurslova](lov/2008-06-06-37)[hvitvaskingsloven](lov/2018-06-01-23)[klimakvoteloven](lov/2004-12-17-99)[kringkastingsloven](lov/1992-12-04-127)[lakse- og innlandsfiskloven](lov/1992-05-15-47)[legemiddelloven](lov/1992-12-04-132)[lov 24. juni 2011 nr. 39 om elsertifikater](lov/2011-06-24-39)[lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6)[lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37)[luftfartsloven](lov/1993-06-11-101)[markedsføringsloven](lov/2009-01-09-2)[mesterbrevloven](lov/1986-06-20-35)[mineralloven](lov/2025-06-20-107)[motorferdselloven](lov/1977-06-10-82)[naturmangfoldloven](lov/2009-06-19-100)[pakkereiseloven](lov/2018-06-15-32)[pengespilloven](lov/2022-03-18-12)[personopplysningsloven](lov/2018-06-15-38)[plan- og bygningsloven](lov/2008-06-27-71)[produktkontrolloven](lov/1976-06-11-79)[referanseverdiloven](lov/2015-12-04-95)[regnskapsførerloven](lov/2022-12-16-90)[revisorloven](lov/2020-11-20-128)[sivilbeskyttelsesloven](lov/2010-06-25-45)[skipssikkerhetsloven](lov/2007-02-16-9)[svalbardmiljøloven](lov/2001-06-15-79)[tjenesteloven](lov/2009-06-19-103)[universitets- og høyskoleloven](lov/2024-03-08-9)[valgloven](lov/2023-06-16-62)[vannressursloven](lov/2000-11-24-82)[vassdragsreguleringsloven](lov/1917-12-14-17)[vegtrafikkloven](lov/1965-06-18-4)[verdipapirfondloven](lov/2011-11-25-44)[verdipapirhandelloven](lov/2007-06-29-75)[yrkestransportlova § 40a](lov/2002-06-21-45/§40a)[åpenhetsloven](lov/2021-06-18-99).
+- [alkoholloven](lov/1989-06-02-27)
+- [anskaffelsesloven](lov/2016-06-17-73)
+- [a-opplysningsloven](lov/2012-06-22-43)
+- [apotekloven](lov/2000-06-02-39)
+- [arbeidsmiljøloven](lov/2005-06-17-62)
+- [brann- og eksplosjonsvernloven](lov/2002-06-14-20)
+- [deltakerloven](lov/1999-03-26-15)
+- [diskrimineringsombudsloven](lov/2017-06-16-50)
+- [el-tilsynsloven](lov/1929-05-24-4)
+- [energiloven](lov/1990-06-29-50)
+- [finansforetaksloven](lov/2015-04-10-17)
+- [finanstilsynsloven](lov/2024-06-21-41)
+- [folketrygdloven § 25-3](lov/1997-02-28-19/§25-3)
+- [forbrukermerkeloven](lov/1981-12-18-90)
+- [forsikringsvirksomhetsloven](lov/2005-06-10-44)
+- [forurensningsloven](lov/1981-03-13-6)
+- [havressurslova](lov/2008-06-06-37)
+- [hvitvaskingsloven](lov/2018-06-01-23)
+- [klimakvoteloven](lov/2004-12-17-99)
+- [kringkastingsloven](lov/1992-12-04-127)
+- [legemiddelloven](lov/1992-12-04-132)
+- [likestillings- og diskrimineringsloven](lov/2017-06-16-51)
+- [lotteriloven](lov/1995-02-24-11)
+- [lov 24. juni 2011 nr. 39 om elsertifikater](lov/2011-06-24-39)
+- [lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6)
+- [lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37)
+- [lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon](lov/2005-12-21-124)
+- [lov 1. mars 2019 nr. 2 om register over reelle rettighetshavere](lov/2019-03-01-2)
+- [lov 17. juni 2016 nr. 64 om åpenhet om eierskap i medier](lov/2016-06-17-64)
+- [luftfartsloven](lov/1993-06-11-101)
+- [markedsføringsloven](lov/2009-01-09-2)
+- [mineralloven](lov/2025-06-20-107)
+- [naturmangfoldloven](lov/2009-06-19-100)
+- [pengespilloven](lov/2022-03-18-12)
+- [personopplysningsloven](lov/2018-06-15-38)
+- [plan- og bygningsloven](lov/2008-06-27-71)
+- [produktkontrolloven](lov/1976-06-11-79)
+- [referanseverdiloven](lov/2015-12-04-95)
+- [sivilbeskyttelsesloven](lov/2010-06-25-45)
+- [skipssikkerhetsloven](lov/2007-02-16-9)
+- [statistikkloven](lov/2019-06-21-32)
+- [svalbardmiljøloven](lov/2001-06-15-79)
+- [tobakksskadeloven](lov/1973-03-09-14)
+- [vannressursloven](lov/2000-11-24-82)
+- [vassdragsreguleringsloven](lov/1917-12-14-17)
+- [vegtrafikkloven](lov/1965-06-18-4)
+- [verdipapirhandelloven](lov/2007-06-29-75)
+- [åpenhetsloven](lov/2021-06-18-99).
+
+(2) Innkrevingsmyndigheten krever inn overtredelsesgebyr ilagt med hjemmel i
+
+- [advokatloven](lov/2022-05-12-28)
+- [angrerettloven](lov/2014-06-20-27)
+- [anskaffelsesloven](lov/2016-06-17-73)
+- [a-opplysningsloven](lov/2012-06-22-43)
+- [apotekloven](lov/2000-06-02-39)
+- [arbeidsmiljøloven](lov/2005-06-17-62)
+- [avtaleloven](lov/1918-05-31-4)
+- [bildeprogramloven](lov/2015-02-06-7)
+- [deltakerloven](lov/1999-03-26-15)
+- [ehandelsloven](lov/2003-05-23-35)
+- [el-tilsynsloven](lov/1929-05-24-4)
+- [energiloven](lov/1990-06-29-50)
+- [finansavtaleloven](lov/2020-12-18-146)
+- [folkeregisterloven](lov/2016-12-09-88)
+- [folketrygdloven §§ 25-3](lov/1997-02-28-19/§25-3) og [25-6a](lov/1997-02-28-19/§25-6a)
+- [forbrukerkjøpsloven](lov/2002-06-21-34)
+- [forbrukermerkeloven](lov/1981-12-18-90)
+- [forsikringsavtaleloven](lov/1989-06-16-69)
+- [forurensningsloven](lov/1981-03-13-6)
+- [havenergilova](lov/2010-06-04-21)
+- [havne- og farvannsloven](lov/2019-06-21-70)
+- [havressurslova](lov/2008-06-06-37)
+- [hvitvaskingsloven](lov/2018-06-01-23)
+- [klimakvoteloven](lov/2004-12-17-99)
+- [kringkastingsloven](lov/1992-12-04-127)
+- [lakse- og innlandsfiskloven](lov/1992-05-15-47)
+- [legemiddelloven](lov/1992-12-04-132)
+- [lov 24. juni 2011 nr. 39 om elsertifikater](lov/2011-06-24-39)
+- [lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6)
+- [lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37)
+- [luftfartsloven](lov/1993-06-11-101)
+- [markedsføringsloven](lov/2009-01-09-2)
+- [mesterbrevloven](lov/1986-06-20-35)
+- [mineralloven](lov/2025-06-20-107)
+- [motorferdselloven](lov/1977-06-10-82)
+- [naturmangfoldloven](lov/2009-06-19-100)
+- [pakkereiseloven](lov/2018-06-15-32)
+- [pengespilloven](lov/2022-03-18-12)
+- [personopplysningsloven](lov/2018-06-15-38)
+- [plan- og bygningsloven](lov/2008-06-27-71)
+- [produktkontrolloven](lov/1976-06-11-79)
+- [referanseverdiloven](lov/2015-12-04-95)
+- [regnskapsførerloven](lov/2022-12-16-90)
+- [revisorloven](lov/2020-11-20-128)
+- [sivilbeskyttelsesloven](lov/2010-06-25-45)
+- [skipssikkerhetsloven](lov/2007-02-16-9)
+- [svalbardmiljøloven](lov/2001-06-15-79)
+- [tjenesteloven](lov/2009-06-19-103)
+- [universitets- og høyskoleloven](lov/2024-03-08-9)
+- [valgloven](lov/2023-06-16-62)
+- [vannressursloven](lov/2000-11-24-82)
+- [vassdragsreguleringsloven](lov/1917-12-14-17)
+- [vegtrafikkloven](lov/1965-06-18-4)
+- [verdipapirfondloven](lov/2011-11-25-44)
+- [verdipapirhandelloven](lov/2007-06-29-75)
+- [yrkestransportlova § 40a](lov/2002-06-21-45/§40a)
+- [åpenhetsloven](lov/2021-06-18-99).
 
 > Endret ved forskrift [11 des 2025 nr. 2494](forskrift/2025-12-11-2494) (i kraft 1 jan 2026).
 
 ### § 2-7. Gebyrer og avgifter mv.
 
-Innkrevingsmyndigheten krever innavgift med hjemmel i [el-tilsynsloven](lov/1929-05-24-4)finanstilsynsavgift ilagt av Finanstilsynet med hjemmel i [finanstilsynsloven](lov/2024-06-21-41)årsavgift og tilleggsavgift med hjemmel i [motorkjøretøy- og båtavgiftsloven § 1](lov/1959-06-19-2/§1)gebyr og tilleggsavgift med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)avgift med hjemmel i [lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk § 43](lov/1971-05-21-47/§43)dokumentavgift og tilleggsavgift med hjemmel i [dokumentavgiftsloven](lov/1975-12-12-59)krav som nevnt i [rettsgebyrloven § 3 første ledd](lov/1982-12-17-86/§3/ledd/1)tinglysningsgebyr med hjemmel i [tinglysingsloven § 12b](lov/1935-06-07-2/§12b)gebyr for grunnbokutskrifter med hjemmel i [forskrift om gebyr for tinglysing, registrering eller anmerkning i grunnboken og kraftledningsregisteret § 5](forskrift/2013-12-18-1634/§5)gebyr og avgift med hjemmel i [lov 15. mai 1987 nr. 21 om film og videogram](lov/1987-05-15-21)gebyr med hjemmel i [lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister](lov/1987-06-12-48)inkassobevillingsgebyr med hjemmel i [inkassoloven](lov/1988-05-13-26)skjenkebevillingsgebyr og omsetningsgebyr med hjemmel i [alkoholloven](lov/1989-06-02-27)kringkastingsavgift og tilleggsavgift med hjemmel i [kringkastingsloven](lov/1992-12-04-127)gebyr med hjemmel i [sjøloven § 11](lov/1994-06-24-39/§11) og [§ 198](lov/1994-06-24-39/§198)gebyr med hjemmel i [småbåtloven § 26a](lov/1998-06-26-47/§26a)forsinkelsesgebyr med hjemmel i [regnskapsloven](lov/1998-07-17-56)gebyr etter [stiftelsesloven § 7](lov/2001-06-15-59/§7)avgift og gebyr med hjemmel i [brann- og eksplosjonsvernloven § 28](lov/2002-06-14-20/§28)gebyr for innregistrering, anmerkning, etterregistrering og utskrift av borettsandeler med hjemmel i [burettslagslova](lov/2003-06-06-39)byggesaksgebyr med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)årsavgift for tilsyn med hjemmel i [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4)gebyr med hjemmel i [skipssikkerhetsloven](lov/2007-02-16-9)prospektgebyr med hjemmel i [verdipapirhandelloven § 7-11 første ledd](lov/2007-06-29-75/§7-11/ledd/1)årsgebyr for edelmetall med hjemmel i [edelmetalloven](lov/2010-09-03-52)avgift med hjemmel i [tobakksskadeloven](lov/1973-03-09-14)kontroll og tilsynsavgift med hjemmel i [forskrift 21. desember 2001 nr. 1597 om gebyr og avgift i forbindelse med akvakulturvirksomhet § 3](forskrift/2001-12-21-1597/§3), jf. [akvakulturloven § 26](lov/2005-06-17-79/§26)gebyr ved innføring i merkeregisteret og en årlig avgift så lenge fartøyet står i merkeregisteret med hjemmel i [deltakerloven](lov/1999-03-26-15)forsinkelsesgebyr ilagt med hjemmel i [aksjeloven av 1976](lov/1976-06-04-59)gebyr for etterkontroll av deaktiverte våpen og gebyr for våpentillatelser med hjemmel i [våpenlova § 37](lov/2018-04-20-7/§37), jf. [våpenforskrifta § 12-2](forskrift/2021-05-07-1452/§12-2).
+Innkrevingsmyndigheten krever inn
+
+- avgift med hjemmel i [el-tilsynsloven](lov/1929-05-24-4)
+- finanstilsynsavgift ilagt av Finanstilsynet med hjemmel i [finanstilsynsloven](lov/2024-06-21-41)
+- årsavgift og tilleggsavgift med hjemmel i [motorkjøretøy- og båtavgiftsloven § 1](lov/1959-06-19-2/§1)
+- gebyr og tilleggsavgift med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)
+- avgift med hjemmel i [lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk § 43](lov/1971-05-21-47/§43)
+- dokumentavgift og tilleggsavgift med hjemmel i [dokumentavgiftsloven](lov/1975-12-12-59)
+- krav som nevnt i [rettsgebyrloven § 3 første ledd](lov/1982-12-17-86/§3/ledd/1)
+- tinglysningsgebyr med hjemmel i [tinglysingsloven § 12b](lov/1935-06-07-2/§12b)
+- gebyr for grunnbokutskrifter med hjemmel i [forskrift om gebyr for tinglysing, registrering eller anmerkning i grunnboken og kraftledningsregisteret § 5](forskrift/2013-12-18-1634/§5)
+- gebyr og avgift med hjemmel i [lov 15. mai 1987 nr. 21 om film og videogram](lov/1987-05-15-21)
+- gebyr med hjemmel i [lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister](lov/1987-06-12-48)
+- inkassobevillingsgebyr med hjemmel i [inkassoloven](lov/1988-05-13-26)
+- skjenkebevillingsgebyr og omsetningsgebyr med hjemmel i [alkoholloven](lov/1989-06-02-27)
+- kringkastingsavgift og tilleggsavgift med hjemmel i [kringkastingsloven](lov/1992-12-04-127)
+- gebyr med hjemmel i [sjøloven § 11](lov/1994-06-24-39/§11) og [§ 198](lov/1994-06-24-39/§198)
+- gebyr med hjemmel i [småbåtloven § 26a](lov/1998-06-26-47/§26a)
+- forsinkelsesgebyr med hjemmel i [regnskapsloven](lov/1998-07-17-56)
+- gebyr etter [stiftelsesloven § 7](lov/2001-06-15-59/§7)
+- avgift og gebyr med hjemmel i [brann- og eksplosjonsvernloven § 28](lov/2002-06-14-20/§28)
+- gebyr for innregistrering, anmerkning, etterregistrering og utskrift av borettsandeler med hjemmel i [burettslagslova](lov/2003-06-06-39)
+- byggesaksgebyr med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)
+- årsavgift for tilsyn med hjemmel i [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4)
+- gebyr med hjemmel i [skipssikkerhetsloven](lov/2007-02-16-9)
+- prospektgebyr med hjemmel i [verdipapirhandelloven § 7-11 første ledd](lov/2007-06-29-75/§7-11/ledd/1)
+- årsgebyr for edelmetall med hjemmel i [edelmetalloven](lov/2010-09-03-52)
+- avgift med hjemmel i [tobakksskadeloven](lov/1973-03-09-14)
+- kontroll og tilsynsavgift med hjemmel i [forskrift 21. desember 2001 nr. 1597 om gebyr og avgift i forbindelse med akvakulturvirksomhet § 3](forskrift/2001-12-21-1597/§3), jf. [akvakulturloven § 26](lov/2005-06-17-79/§26)
+- gebyr ved innføring i merkeregisteret og en årlig avgift så lenge fartøyet står i merkeregisteret med hjemmel i [deltakerloven](lov/1999-03-26-15)
+- forsinkelsesgebyr ilagt med hjemmel i [aksjeloven av 1976](lov/1976-06-04-59)
+- gebyr for etterkontroll av deaktiverte våpen og gebyr for våpentillatelser med hjemmel i [våpenlova § 37](lov/2018-04-20-7/§37), jf. [våpenforskrifta § 12-2](forskrift/2021-05-07-1452/§12-2).
 
 > Endret ved forskrift [11 des 2025 nr. 2494](forskrift/2025-12-11-2494) (i kraft 1 jan 2026).
 
 ### § 2-8. Øvrige krav
 
-Innkrevingsmyndigheten krever innkrav om refusjon ved fri rettshjelp og egenandel ved fri sakførsel og fritt rettsråd med hjemmel i [rettshjelploven](lov/1980-06-13-35)refselsesbot med hjemmel i [disiplinærloven](lov/1988-05-20-32)miljøerstatning med hjemmel i [svalbardmiljøloven](lov/2001-06-15-79)refselsesbot med hjemmel i [sivilbeskyttelsesloven](lov/2010-06-25-45)refusjonskrav med hjemmel i [personopplysningsloven](lov/2018-06-15-38)krav på tilskudd og regresskrav med hjemmel i [pasientskadeloven](lov/2001-06-15-53)gjeldskrav med hjemmel i [utdanningsstøtteloven](lov/2005-06-03-37) som er besluttet overført til Innkrevingsmyndighetenadministrativ inndragning med hjemmel i [verdipapirhandelloven](lov/2007-06-29-75) og [referanseverdiloven](lov/2015-12-04-95)tilbakebetalingskrav for utbetalt bostøtte med hjemmel i [bustøttelova](lov/2012-08-24-64)refusjonskrav ved hjemtransport etter vedtak av Helsedirektoratettilbakebetaling av feilaktig utbetaling med hjemmel i [pasient- og brukerrettighetsloven](lov/1999-07-02-63)tvangsbot fastsatt med hjemmel i [barnelova](lov/1981-04-08-7)krav om utgiftsdekning og miljøerstatning med hjemmel i [naturmangfoldloven](lov/2009-06-19-100)tilbakebetaling av utbetalt erstatning med hjemmel i [straffeprosessloven](lov/1981-05-22-25)tilbakebetaling av utbetalt tilskudd etter [lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-04-17-23)tilbakebetaling av utbetalt tilskudd etter [lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)](lov/2020-06-23-110)tilbakebetalingskrav med hjemmel i [privatskolelova](lov/2003-07-04-84) med forskriftertilbakebetalingskrav fra Lotteri- og stiftelsestilsynettilbakebetalingskrav med hjemmel i [folkehøgskoleloven](lov/2025-06-20-99)regresskrav og krav på tilbakebetaling av voldsoffererstatning med hjemmel i [voldsoffererstatningsloven](lov/2001-04-20-13)regresskrav og krav på tilbakebetaling av voldserstatning med hjemmel i [voldserstatningsloven](lov/2022-06-17-57)tilbakebetaling av tilskudd gitt av Helsedirektoratetfeilaktig utbetalt barnetrygd etter [barnetrygdloven § 13](lov/2002-03-08-4/§13)feilaktig utbetalt kontantstøtte etter [kontantstøtteloven § 11](lov/1998-06-26-41/§11)tilbakekreving etter feilaktig utbetaling etter [folketrygdloven § 22-15](lov/1997-02-28-19/§22-15)tilbakekreving av utbetalinger etter direkte oppgjørsordning etter [folketrygdloven § 22-15a](lov/1997-02-28-19/§22-15a)etteroppgjør uførepensjon etter [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14)etteroppgjør omstillingsstønad etter [folketrygdloven § 17-9](lov/1997-02-28-19/§17-9)krav på tilbakebetaling av sykepenger fra arbeidsgiver etter [folketrygdloven § 8-22](lov/1997-02-28-19/§8-22)refusjonskrav etter forvalteroppdrag og tilsyn med hjemmel i [domstolloven](lov/1915-08-13-5) og [advokatloven](lov/2022-05-12-28)årlig bidrag, bidrag ved oppstart og gebyr ved forsinket betaling av årlig bidrag med hjemmel i [advokatloven](lov/2022-05-12-28) og [advokatforskriften](forskrift/2024-10-22-2546)tilbakebetalingskrav for tilskudd gitt av Medietilsynet, Utenriksdepartementet, Norsk filminstitutt, Norec, Utdanningsdirektoratet, Kulturdirektoratet, Barne-, ungdoms- og familiedirektoratet og Enova SFkrav med grunnlag i avtale med Direktoratet for samfunnssikkerhet og beredskap Utenriksdepartementet og Forsvarsbyggkrav på grunnlag av nødlidenhetslån etter gjeldsbrev utstedt av Utenriksdepartementetmisligholdte lån og restkrav fra Husbanken med grunnlag i gjeldsbrev/låneavtalekrav etter [lønnsgarantiloven §§ 6](lov/1973-12-14-61/§6) og [8](lov/1973-12-14-61/§8)krav på tilbakebetaling etter [innkrevingsloven § 7](lov/2025-04-25-12/§7)krav på tilbakebetaling av trygdeytelser mv. med hjemmel i ulovfestet rett (condictio indebiti)krav på tilbakebetaling etter [lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21)regresskrav med hjemmel i [svalbardskatteloven § 5-2 sjette ledd](lov/1996-11-29-68/§5-2/ledd/6)ansvarskrav etter [tvangsfullbyrdelsesloven § 7-22](lov/1992-06-26-86/§7-22) som bestemmelsen lød før endringer ved [innkrevingsloven](lov/2025-04-25-12)egenandel etter [folketrygdloven § 10-6](lov/1997-02-28-19/§10-6) og tilskudd og lån etter [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) (gjeldsbrev)premie etter [lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 16](lov/1957-06-28-12/§16)krav om innbetaling ved tvangsdekning i enkle pengekrav etter [innkrevingsloven § 24 andre ledd](lov/2025-04-25-12/§24/ledd/2).
+Innkrevingsmyndigheten krever inn
+
+- krav om refusjon ved fri rettshjelp og egenandel ved fri sakførsel og fritt rettsråd med hjemmel i [rettshjelploven](lov/1980-06-13-35)
+- refselsesbot med hjemmel i [disiplinærloven](lov/1988-05-20-32)
+- miljøerstatning med hjemmel i [svalbardmiljøloven](lov/2001-06-15-79)
+- refselsesbot med hjemmel i [sivilbeskyttelsesloven](lov/2010-06-25-45)
+- refusjonskrav med hjemmel i [personopplysningsloven](lov/2018-06-15-38)
+- krav på tilskudd og regresskrav med hjemmel i [pasientskadeloven](lov/2001-06-15-53)
+- gjeldskrav med hjemmel i [utdanningsstøtteloven](lov/2005-06-03-37) som er besluttet overført til Innkrevingsmyndigheten
+- administrativ inndragning med hjemmel i [verdipapirhandelloven](lov/2007-06-29-75) og [referanseverdiloven](lov/2015-12-04-95)
+- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i [bustøttelova](lov/2012-08-24-64)
+- refusjonskrav ved hjemtransport etter vedtak av Helsedirektoratet
+- tilbakebetaling av feilaktig utbetaling med hjemmel i [pasient- og brukerrettighetsloven](lov/1999-07-02-63)
+- tvangsbot fastsatt med hjemmel i [barnelova](lov/1981-04-08-7)
+- krav om utgiftsdekning og miljøerstatning med hjemmel i [naturmangfoldloven](lov/2009-06-19-100)
+- tilbakebetaling av utbetalt erstatning med hjemmel i [straffeprosessloven](lov/1981-05-22-25)
+- tilbakebetaling av utbetalt tilskudd etter [lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-04-17-23)
+- tilbakebetaling av utbetalt tilskudd etter [lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)](lov/2020-06-23-110)
+- tilbakebetalingskrav med hjemmel i [privatskolelova](lov/2003-07-04-84) med forskrifter
+- tilbakebetalingskrav fra Lotteri- og stiftelsestilsynet
+- tilbakebetalingskrav med hjemmel i [folkehøgskoleloven](lov/2025-06-20-99)
+- regresskrav og krav på tilbakebetaling av voldsoffererstatning med hjemmel i [voldsoffererstatningsloven](lov/2001-04-20-13)
+- regresskrav og krav på tilbakebetaling av voldserstatning med hjemmel i [voldserstatningsloven](lov/2022-06-17-57)
+- tilbakebetaling av tilskudd gitt av Helsedirektoratet
+- feilaktig utbetalt barnetrygd etter [barnetrygdloven § 13](lov/2002-03-08-4/§13)
+- feilaktig utbetalt kontantstøtte etter [kontantstøtteloven § 11](lov/1998-06-26-41/§11)
+- tilbakekreving etter feilaktig utbetaling etter [folketrygdloven § 22-15](lov/1997-02-28-19/§22-15)
+- tilbakekreving av utbetalinger etter direkte oppgjørsordning etter [folketrygdloven § 22-15a](lov/1997-02-28-19/§22-15a)
+- etteroppgjør uførepensjon etter [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14)
+- etteroppgjør omstillingsstønad etter [folketrygdloven § 17-9](lov/1997-02-28-19/§17-9)
+- krav på tilbakebetaling av sykepenger fra arbeidsgiver etter [folketrygdloven § 8-22](lov/1997-02-28-19/§8-22)
+- refusjonskrav etter forvalteroppdrag og tilsyn med hjemmel i [domstolloven](lov/1915-08-13-5) og [advokatloven](lov/2022-05-12-28)
+- årlig bidrag, bidrag ved oppstart og gebyr ved forsinket betaling av årlig bidrag med hjemmel i [advokatloven](lov/2022-05-12-28) og [advokatforskriften](forskrift/2024-10-22-2546)
+- tilbakebetalingskrav for tilskudd gitt av Medietilsynet, Utenriksdepartementet, Norsk filminstitutt, Norec, Utdanningsdirektoratet, Kulturdirektoratet, Barne-, ungdoms- og familiedirektoratet og Enova SF
+- krav med grunnlag i avtale med Direktoratet for samfunnssikkerhet og beredskap Utenriksdepartementet og Forsvarsbygg
+- krav på grunnlag av nødlidenhetslån etter gjeldsbrev utstedt av Utenriksdepartementet
+- misligholdte lån og restkrav fra Husbanken med grunnlag i gjeldsbrev/låneavtale
+- krav etter [lønnsgarantiloven §§ 6](lov/1973-12-14-61/§6) og [8](lov/1973-12-14-61/§8)
+- krav på tilbakebetaling etter [innkrevingsloven § 7](lov/2025-04-25-12/§7)
+- krav på tilbakebetaling av trygdeytelser mv. med hjemmel i ulovfestet rett (condictio indebiti)
+- krav på tilbakebetaling etter [lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21)
+- regresskrav med hjemmel i [svalbardskatteloven § 5-2 sjette ledd](lov/1996-11-29-68/§5-2/ledd/6)
+- ansvarskrav etter [tvangsfullbyrdelsesloven § 7-22](lov/1992-06-26-86/§7-22) som bestemmelsen lød før endringer ved [innkrevingsloven](lov/2025-04-25-12)
+- egenandel etter [folketrygdloven § 10-6](lov/1997-02-28-19/§10-6) og tilskudd og lån etter [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) (gjeldsbrev)
+- premie etter [lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 16](lov/1957-06-28-12/§16)
+- krav om innbetaling ved tvangsdekning i enkle pengekrav etter [innkrevingsloven § 24 andre ledd](lov/2025-04-25-12/§24/ledd/2).
 
 > Endret ved forskrifter [11 des 2025 nr. 2494](forskrift/2025-12-11-2494) (i kraft 1 jan 2026), [24 feb 2026 nr. 274](forskrift/2026-02-24-274).
 
 ### § 2-9. Utenlandske krav
 
-Innkrevingsmyndigheten krever innbøter, inndragninger og sakskostnader som er fastsatt i straffesak i Danmark, Finland, Island eller Sverige etter anmodning fra vedkommende myndighet, jf. [lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v.](lov/1963-11-15)krav på underholdsbidrag, bidrag til utgifter ved fødsel og kostnader som er pålagt den bidragspliktige i forbindelse med bidragssaken, og som kan kreves inn i Norge etter overenskomst med fremmed stat eller område innenfor et stats territorium som er gitt myndighet til å inngå slik overenskomst, dersom kravet følger av rettskraftig dom, annen rettsavgjørelse, forvaltningsvedtak eller skriftlig vedtakelse, og kan tvangsfullbyrdes etter reglene i vedkommende fremmede statavgjørelser om økonomiske administrative sanksjoner og bøter ilagt av ansvarlig myndighet eller domstol i annen EØS-stat, hvis avgjørelsen gjelder manglende overholdelse av nasjonale regler som gjennomfører [EØS-avtalens vedlegg XVIII](avtale/avt-1992-05-02-1-v18) nr. 30 (direktiv [96/71/EF](eu/31996l0071)) om utsending av arbeidstakere i forbindelse med tjenesteyting, eller direktiv [2014/67/EU](eu/32014l0067) om håndheving av direktiv [96/71/EF](eu/31996l0071) og om endring av forordning [(EU) nr. 1024/2012](eu/32012r1024) om administrativt samarbeid i informasjonssystemet for det indre marked, slik dette er innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl), og avgjørelsen ikke kan påklages eller er rettskraftigkrav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter forordning [(EF) nr. 883/2004](eu/32004r0883) artikkel 84krav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter konvensjon om trygdekoordinering mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland av 30. juni 2023krav på offentlige skatter og avgifter som er utskrevet i fremmed stat, der innkreving skjer etter overenskomst inngått med hjemmel i [dobbeltbeskatningsavtaleloven § 1 nr. 3](lov/1949-07-28-15/§1/nummer/3)krav oppstått i forbindelse med inn- og utførsel som omfattes av overenskomst med fremmed stat, der tollmyndighetene er kompetent myndighet, men hvor ansvaret for innkreving etter avtale tilligger Skatteetaten.
+Innkrevingsmyndigheten krever inn
+
+1. bøter, inndragninger og sakskostnader som er fastsatt i straffesak i Danmark, Finland, Island eller Sverige etter anmodning fra vedkommende myndighet, jf. [lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v.](lov/1963-11-15)
+2. krav på underholdsbidrag, bidrag til utgifter ved fødsel og kostnader som er pålagt den bidragspliktige i forbindelse med bidragssaken, og som kan kreves inn i Norge etter overenskomst med fremmed stat eller område innenfor et stats territorium som er gitt myndighet til å inngå slik overenskomst, dersom kravet følger av rettskraftig dom, annen rettsavgjørelse, forvaltningsvedtak eller skriftlig vedtakelse, og kan tvangsfullbyrdes etter reglene i vedkommende fremmede stat
+3. avgjørelser om økonomiske administrative sanksjoner og bøter ilagt av ansvarlig myndighet eller domstol i annen EØS-stat, hvis avgjørelsen gjelder manglende overholdelse av nasjonale regler som gjennomfører [EØS-avtalens vedlegg XVIII](avtale/avt-1992-05-02-1-v18) nr. 30 (direktiv [96/71/EF](eu/31996l0071)) om utsending av arbeidstakere i forbindelse med tjenesteyting, eller direktiv [2014/67/EU](eu/32014l0067) om håndheving av direktiv [96/71/EF](eu/31996l0071) og om endring av forordning [(EU) nr. 1024/2012](eu/32012r1024) om administrativt samarbeid i informasjonssystemet for det indre marked, slik dette er innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl), og avgjørelsen ikke kan påklages eller er rettskraftig
+4. krav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter forordning [(EF) nr. 883/2004](eu/32004r0883) artikkel 84
+5. krav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter konvensjon om trygdekoordinering mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland av 30. juni 2023
+6. krav på offentlige skatter og avgifter som er utskrevet i fremmed stat, der innkreving skjer etter overenskomst inngått med hjemmel i [dobbeltbeskatningsavtaleloven § 1 nr. 3](lov/1949-07-28-15/§1/nummer/3)
+7. krav oppstått i forbindelse med inn- og utførsel som omfattes av overenskomst med fremmed stat, der tollmyndighetene er kompetent myndighet, men hvor ansvaret for innkreving etter avtale tilligger Skatteetaten.
 
 ### § 2-10. Krav Innkrevingsmyndigheten kun avregner
 
-Innkrevingsmyndigheten kan beslutte avregning forkrav etter [folketrygdloven § 22-16](lov/1997-02-28-19/§22-16)etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](lov/2010-02-19-5/§15)etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](lov/2010-06-25-28/§3/bokstav/d).
+Innkrevingsmyndigheten kan beslutte avregning for
+
+1. krav etter [folketrygdloven § 22-16](lov/1997-02-28-19/§22-16)
+2. etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](lov/2010-02-19-5/§15)
+3. etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](lov/2010-06-25-28/§3/bokstav/d).
 
 ### Utøvelse av kreditorposisjon
 
@@ -90,9 +304,19 @@ Innkrevingsmyndigheten kan beslutte avregning forkrav etter [folketrygdloven § 
 
 ### § 3-3. Ettergivelse
 
-(1) Innkrevingsmyndighetens kompetanse til å ettergi krav etter [innkrevingsloven §§ 18](lov/2025-04-25-12/§18) og [19](lov/2025-04-25-12/§19) gjelder ikkebot, jf. [straffeloven kapittel 9](lov/2005-05-20-28/kap9)inndragning, jf. [straffeloven kapittel 13](lov/2005-05-20-28/kap13)krav som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegertansvarskrav etter [innkrevingsloven § 31](lov/2025-04-25-12/§31) som er knyttet til et krav som Innkrevingsmyndigheten ikke selv har innkrevingsansvar forkrav på feilutbetalt bidragsforskudd etter [forskotteringsloven](lov/1989-02-17-2) dersom den bidragspliktige har bidragsgjeld for barnet for samme periodekrav på underholdsbidrag etter [barnelova](lov/1981-04-08-7) eller etter utenlandsk rett dersom det også er løpende bidrag mot den bidragspliktige. Et bidrag fastsatt til kr 0, anses i denne sammenheng også som et løpende bidrag.
+(1) Innkrevingsmyndighetens kompetanse til å ettergi krav etter [innkrevingsloven §§ 18](lov/2025-04-25-12/§18) og [19](lov/2025-04-25-12/§19) gjelder ikke
 
-(2) Innkrevingsmyndighetens kompetanse til å ettergi krav etter [innkrevingsloven § 20](lov/2025-04-25-12/§20) gjelder ikkeforsinkelsesrenter og gebyr ved forsinket betaling mv. som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegertforsinkelsesrenter på ansvarskrav etter [innkrevingsloven § 31](lov/2025-04-25-12/§31) som er knyttet til et krav Innkrevingsmyndigheten ikke selv har innkrevingsansvar for.
+1. bot, jf. [straffeloven kapittel 9](lov/2005-05-20-28/kap9)
+2. inndragning, jf. [straffeloven kapittel 13](lov/2005-05-20-28/kap13)
+3. krav som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegert
+4. ansvarskrav etter [innkrevingsloven § 31](lov/2025-04-25-12/§31) som er knyttet til et krav som Innkrevingsmyndigheten ikke selv har innkrevingsansvar for
+5. krav på feilutbetalt bidragsforskudd etter [forskotteringsloven](lov/1989-02-17-2) dersom den bidragspliktige har bidragsgjeld for barnet for samme periode
+6. krav på underholdsbidrag etter [barnelova](lov/1981-04-08-7) eller etter utenlandsk rett dersom det også er løpende bidrag mot den bidragspliktige. Et bidrag fastsatt til kr 0, anses i denne sammenheng også som et løpende bidrag.
+
+(2) Innkrevingsmyndighetens kompetanse til å ettergi krav etter [innkrevingsloven § 20](lov/2025-04-25-12/§20) gjelder ikke
+
+1. forsinkelsesrenter og gebyr ved forsinket betaling mv. som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegert
+2. forsinkelsesrenter på ansvarskrav etter [innkrevingsloven § 31](lov/2025-04-25-12/§31) som er knyttet til et krav Innkrevingsmyndigheten ikke selv har innkrevingsansvar for.
 
 ### § 3-4. Adgang til å avslutte innkrevingen av krav til privat kreditor og enkelte ansvarskrav
 
@@ -106,13 +330,22 @@ Innkrevingsmyndigheten kan beslutte avregning forkrav etter [folketrygdloven § 
 
 ### § 11-1. Opplysningsplikt for offentlige myndigheter, innretninger mv. og tjenestemenn
 
-(1) Uten hinder av taushetsplikt som de ellers har, og etter krav fra Innkrevingsmyndigheten, skalskattemyndighetene gi opplysninger om beregnet forskuddstrekk, skattetrekk, forskuddsskatt, beløp til utbetaling, inntektsopplysninger, formuesgoder, eierforhold og rettighetshavere samt øvrige opplysninger som fremgår av skattemeldingen og skatte- og avgiftsoppgjør, og grunnlaget for demtollmyndighetene gi opplysninger om beløp til utbetaling samt opplysninger om tilbakeholdte eller beslaglagte pengebeløp mv.offentlige myndigheter og innretninger som fastsetter offentlige avgifter eller utbetaler erstatninger, tilskudd, refusjoner, bidrag, trygder, stønader, lån mv., gi opplysninger om de fastsatte krav, renter, gjeld, utbetalte beløp og beløp til utbetaling samt grunnlaget for demArbeids- og velferdsdirektoratet gi opplysninger om arbeidsforhold registrert i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret)politiet gi opplysninger om tilbakeholdte og beslaglagte formuesgoder mv., samt formuesgoder det er tatt heftelse i.
+(1) Uten hinder av taushetsplikt som de ellers har, og etter krav fra Innkrevingsmyndigheten, skal
+
+1. skattemyndighetene gi opplysninger om beregnet forskuddstrekk, skattetrekk, forskuddsskatt, beløp til utbetaling, inntektsopplysninger, formuesgoder, eierforhold og rettighetshavere samt øvrige opplysninger som fremgår av skattemeldingen og skatte- og avgiftsoppgjør, og grunnlaget for dem
+2. tollmyndighetene gi opplysninger om beløp til utbetaling samt opplysninger om tilbakeholdte eller beslaglagte pengebeløp mv.
+3. offentlige myndigheter og innretninger som fastsetter offentlige avgifter eller utbetaler erstatninger, tilskudd, refusjoner, bidrag, trygder, stønader, lån mv., gi opplysninger om de fastsatte krav, renter, gjeld, utbetalte beløp og beløp til utbetaling samt grunnlaget for dem
+4. Arbeids- og velferdsdirektoratet gi opplysninger om arbeidsforhold registrert i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret)
+5. politiet gi opplysninger om tilbakeholdte og beslaglagte formuesgoder mv., samt formuesgoder det er tatt heftelse i.
 
 (2) Når Innkrevingsmyndigheten krever det, skal opplysninger som nevnt i første ledd bokstav a også gis om skyldners ektefelle eller samboer.
 
 ### § 11-2. Levering av opplysninger
 
-(1) Når opplysninger etter [innkrevingsloven § 11](lov/2025-04-25-12/§11) skal gis, kan Innkrevingsmyndighetenbestemme at opplysningene skal leveres i et strukturert, alminnelig anvendt og maskinlesbart formatbestemme at opplysningene skal gis muntlig.
+(1) Når opplysninger etter [innkrevingsloven § 11](lov/2025-04-25-12/§11) skal gis, kan Innkrevingsmyndigheten
+
+1. bestemme at opplysningene skal leveres i et strukturert, alminnelig anvendt og maskinlesbart format
+2. bestemme at opplysningene skal gis muntlig.
 
 (2) Opplysningene skal leveres innen den frist som Innkrevingsmyndigheten fastsetter.
 
@@ -120,7 +353,12 @@ Innkrevingsmyndigheten kan beslutte avregning forkrav etter [folketrygdloven § 
 
 (1) Banker og andre finansforetak kan gi opplysninger etter [innkrevingsloven § 11 første ledd](lov/2025-04-25-12/§11/ledd/1) gjennom en automatisert oppslagstjeneste. Med automatisert oppslagstjeneste menes en teknisk løsning der opplysninger gjøres tilgjengelige gjennom et felles teknisk grensesnitt mellom innkrevingsmyndigheten og finansforetaket, i et forhåndsdefinert format og uten manuell behandling fra finansforetakets side.
 
-(2) Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:kontoeierskapkontotypesaldo og beholdningregistrerte heftelser.
+(2) Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:
+
+1. kontoeierskap
+2. kontotype
+3. saldo og beholdning
+4. registrerte heftelser.
 
 (3) Innkrevingsmyndigheten skal blant annet sørge for sikker autentisering av forespørselen, angivelse av hjemmelen for forespørselen og logging av forespørsler og svar. Innkrevingsmyndigheten skal ha rutiner for å minimere og slette overskuddsinformasjon. Opplysningene som gis gjennom oppslagstjenesten, skal krypteres. Innkrevingsmyndigheten skal begrense hvilke ansatte som har tilgang til oppslagstjenesten, og tilgangen skal begrenses i omfang og tid etter den ansattes tjenstlige behov. Innkrevingsmyndigheten skal jevnlig føre kontroll med bruken av oppslagstjenesten, herunder ved bruk av automatisert logganalyse.
 
@@ -128,11 +366,33 @@ Innkrevingsmyndigheten kan beslutte avregning forkrav etter [folketrygdloven § 
 
 ### § 14-1. Utlevering av opplysninger til offentlige myndigheter
 
-Innkrevingsmyndigheten kan uten hinder av taushetsplikten etter [innkrevingsloven § 9](lov/2025-04-25-12/§9) utlevere opplysninger knyttet til innkrevingsarbeidet tilskattemyndighetene til bruk i sitt arbeid med skatt og avgifttollmyndighetene til bruk i sitt arbeid med vareførsel og tollavgiftArbeids- og velferdsetaten til bruk i sitt arbeid med trygder, tilskudd eller bidrag av offentlige midler, samt underholdsbidragalminnelig namsmann til bruk i sitt arbeid med tvangsfullbyrdelse, midlertidig sikring og gjeldsordningerDirektoratet for byggkvalitet til bruk i sitt arbeid med sentral godkjenning for ansvarsrettStatistisk sentralbyrå til bruk i sitt arbeid med statistikkNorges Bank når det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov eller for å overholde Norges avtaler med fremmed stat eller internasjonal organisasjonkommunene til bruk i sitt arbeid med utleggstrekkKriminalomsorgen til bruk i sitt arbeid med bøtesoningNasjonal sikkerhetsmyndighet til bruk i sitt arbeid med personkontrollFolkeregistermyndigheten til bruk i sitt arbeid med registerføringenoffentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) til bruk i sitt arbeid med å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet.
+Innkrevingsmyndigheten kan uten hinder av taushetsplikten etter [innkrevingsloven § 9](lov/2025-04-25-12/§9) utlevere opplysninger knyttet til innkrevingsarbeidet til
+
+1. skattemyndighetene til bruk i sitt arbeid med skatt og avgift
+2. tollmyndighetene til bruk i sitt arbeid med vareførsel og tollavgift
+3. Arbeids- og velferdsetaten til bruk i sitt arbeid med trygder, tilskudd eller bidrag av offentlige midler, samt underholdsbidrag
+4. alminnelig namsmann til bruk i sitt arbeid med tvangsfullbyrdelse, midlertidig sikring og gjeldsordninger
+5. Direktoratet for byggkvalitet til bruk i sitt arbeid med sentral godkjenning for ansvarsrett
+6. Statistisk sentralbyrå til bruk i sitt arbeid med statistikk
+7. Norges Bank når det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov eller for å overholde Norges avtaler med fremmed stat eller internasjonal organisasjon
+8. kommunene til bruk i sitt arbeid med utleggstrekk
+9. Kriminalomsorgen til bruk i sitt arbeid med bøtesoning
+10. Nasjonal sikkerhetsmyndighet til bruk i sitt arbeid med personkontroll
+11. Folkeregistermyndigheten til bruk i sitt arbeid med registerføringen
+12. offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) til bruk i sitt arbeid med å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet.
 
 ### § 14-2. Opplysninger som kan utleveres
 
-Når det er nødvendig for å løse oppgaver som nevnt i [§ 14-1](forskrift/2025-07-01-1396/§14-1), kan blant annet opplysninger om følgende forhold utleveres:krav til innkreving og beløp til utbetalingbetalingsavtaler og ettergivelsefordringsanmeldelser i forbindelse med gjeldsordning, konkurs eller rekonstruksjonavregning eller motregningutleggbeslagsfrihet og avsetning til livsopphold etter [dekningsloven kapittel 2](lov/1984-06-08-59/kap2)formuesforholdadresser og geografiske steder der en skyldner eller et formuesgode antas å befinne seg.
+Når det er nødvendig for å løse oppgaver som nevnt i [§ 14-1](forskrift/2025-07-01-1396/§14-1), kan blant annet opplysninger om følgende forhold utleveres:
+
+1. krav til innkreving og beløp til utbetaling
+2. betalingsavtaler og ettergivelse
+3. fordringsanmeldelser i forbindelse med gjeldsordning, konkurs eller rekonstruksjon
+4. avregning eller motregning
+5. utlegg
+6. beslagsfrihet og avsetning til livsopphold etter [dekningsloven kapittel 2](lov/1984-06-08-59/kap2)
+7. formuesforhold
+8. adresser og geografiske steder der en skyldner eller et formuesgode antas å befinne seg.
 
 ### § 14-3. Utlevering av opplysninger til kravseier
 
@@ -146,7 +406,43 @@ Når det er nødvendig for å løse oppgaver som nevnt i [§ 14-1](forskrift/202
 
 ### § 15-1. Renter ved forsinket betaling
 
-Det skal ikke løpe rente etter [innkrevingsloven § 15 første ledd](lov/2025-04-25-12/§15/ledd/1) for følgende krav:byggesaksgebyr ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)etteroppgjør uførepensjon etter [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14)etteroppgjør omstillingsstønad etter [folketrygdloven § 17-9](lov/1997-02-28-19/§17-9)etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](lov/2010-02-19-5/§15)etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](lov/2010-06-25-28/§3/bokstav/d)feilutbetalt bidrag etter [bidragsinnkrevingsloven § 26](lov/2005-04-29-20/§26)feilutbetalt bidragsforskudd etter [forskotteringsloven § 8](lov/1989-02-17-2/§8)folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter [forskotteringsloven § 10](lov/1989-02-17-2/§10)forsinkelsesgebyr med hjemmel i [aksjeloven av 1976](lov/1976-06-04-59)forsinkelsesgebyr med hjemmel i [regnskapsloven](lov/1998-07-17-56)inndragning ilagt i en offentlig straffesakkrav som kun avregnes etter [folketrygdloven § 22-16](lov/1997-02-28-19/§22-16)overtredelsesgebyr ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)overtredelsesgebyr med hjemmel i [folkeregisterloven](lov/2016-12-09-88)overtredelsesgebyr med hjemmel i [havne- og farvannsloven](lov/2019-06-21-70)overtredelsesgebyr med hjemmel i [kassasystemlova](lov/2015-06-19-58)overtredelsesgebyr med hjemmel i [klimakvoteloven](lov/2004-12-17-99)overtredelsesgebyr med hjemmel i [skatteforvaltningsloven](lov/2016-05-27-14)overtredelsesgebyr med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)pålegg om å betale bidrag på nytt etter [bidragsinnkrevingsloven § 27](lov/2005-04-29-20/§27)tilbakebetalingskrav for utbetalt bostøtte med hjemmel i [bustøttelova](lov/2012-08-24-64)tvangsbot fastsatt med hjemmel i [barnelova](lov/1981-04-08-7)tvangsmulkt ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)tvangsmulkt ilagt av Sjøfartsdirektoratet med hjemmel i [produktkontrolloven](lov/1976-06-11-79)tvangsmulkt ilagt av Statens vegvesen med hjemmel i [forbrukermerkeloven](lov/1981-12-18-90)tvangsmulkt med hjemmel i [kassasystemlova](lov/2015-06-19-58)tvangsmulkt med hjemmel i [likestillings- og diskrimineringsloven](lov/2017-06-16-51)tvangsmulkt med hjemmel i [lov om register over reelle rettighetshavere](lov/2019-03-01-2)tvangsmulkt med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)tvangsmulkt med hjemmel i [sivilbeskyttelsesloven](lov/2010-06-25-45)tvangsmulkt med hjemmel i [skatteforvaltningsloven](lov/2016-05-27-14)tvangsmulkt med hjemmel i [skipssikkerhetsloven](lov/2007-02-16-9)tvangsmulkt med hjemmel i [svalbardmiljøloven](lov/2001-06-15-79)tvangsmulkt med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)underholdsbidrag som påhviler noen etter [barnelova](lov/1981-04-08-7), [ekteskapsloven](lov/1991-07-04-47) eller [barnevernsloven](lov/2021-06-18-97).
+Det skal ikke løpe rente etter [innkrevingsloven § 15 første ledd](lov/2025-04-25-12/§15/ledd/1) for følgende krav:
+
+- byggesaksgebyr ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)
+- etteroppgjør uførepensjon etter [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14)
+- etteroppgjør omstillingsstønad etter [folketrygdloven § 17-9](lov/1997-02-28-19/§17-9)
+- etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](lov/2010-02-19-5/§15)
+- etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](lov/2010-06-25-28/§3/bokstav/d)
+- feilutbetalt bidrag etter [bidragsinnkrevingsloven § 26](lov/2005-04-29-20/§26)
+- feilutbetalt bidragsforskudd etter [forskotteringsloven § 8](lov/1989-02-17-2/§8)
+- folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter [forskotteringsloven § 10](lov/1989-02-17-2/§10)
+- forsinkelsesgebyr med hjemmel i [aksjeloven av 1976](lov/1976-06-04-59)
+- forsinkelsesgebyr med hjemmel i [regnskapsloven](lov/1998-07-17-56)
+- inndragning ilagt i en offentlig straffesak
+- krav som kun avregnes etter [folketrygdloven § 22-16](lov/1997-02-28-19/§22-16)
+- overtredelsesgebyr ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)
+- overtredelsesgebyr med hjemmel i [folkeregisterloven](lov/2016-12-09-88)
+- overtredelsesgebyr med hjemmel i [havne- og farvannsloven](lov/2019-06-21-70)
+- overtredelsesgebyr med hjemmel i [kassasystemlova](lov/2015-06-19-58)
+- overtredelsesgebyr med hjemmel i [klimakvoteloven](lov/2004-12-17-99)
+- overtredelsesgebyr med hjemmel i [skatteforvaltningsloven](lov/2016-05-27-14)
+- overtredelsesgebyr med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)
+- pålegg om å betale bidrag på nytt etter [bidragsinnkrevingsloven § 27](lov/2005-04-29-20/§27)
+- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i [bustøttelova](lov/2012-08-24-64)
+- tvangsbot fastsatt med hjemmel i [barnelova](lov/1981-04-08-7)
+- tvangsmulkt ilagt av Arbeidstilsynet med hjemmel i [arbeidsmiljøloven](lov/2005-06-17-62)
+- tvangsmulkt ilagt av Sjøfartsdirektoratet med hjemmel i [produktkontrolloven](lov/1976-06-11-79)
+- tvangsmulkt ilagt av Statens vegvesen med hjemmel i [forbrukermerkeloven](lov/1981-12-18-90)
+- tvangsmulkt med hjemmel i [kassasystemlova](lov/2015-06-19-58)
+- tvangsmulkt med hjemmel i [likestillings- og diskrimineringsloven](lov/2017-06-16-51)
+- tvangsmulkt med hjemmel i [lov om register over reelle rettighetshavere](lov/2019-03-01-2)
+- tvangsmulkt med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+- tvangsmulkt med hjemmel i [sivilbeskyttelsesloven](lov/2010-06-25-45)
+- tvangsmulkt med hjemmel i [skatteforvaltningsloven](lov/2016-05-27-14)
+- tvangsmulkt med hjemmel i [skipssikkerhetsloven](lov/2007-02-16-9)
+- tvangsmulkt med hjemmel i [svalbardmiljøloven](lov/2001-06-15-79)
+- tvangsmulkt med hjemmel i [vegtrafikkloven](lov/1965-06-18-4)
+- underholdsbidrag som påhviler noen etter [barnelova](lov/1981-04-08-7), [ekteskapsloven](lov/1991-07-04-47) eller [barnevernsloven](lov/2021-06-18-97).
 
 > Endret ved forskrifter [11 des 2025 nr. 2494](forskrift/2025-12-11-2494) (i kraft 1 jan 2026), [24 feb 2026 nr. 274](forskrift/2026-02-24-274).
 
@@ -170,31 +466,49 @@ Det skal ikke løpe rente etter [innkrevingsloven § 15 første ledd](lov/2025-0
 
 ### § 16-2. Dekningsrekkefølge ved motregning – lovbestemt underholdsbidrag
 
-(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav a](lov/1984-06-08-59/§2-8/ledd/1/bokstav/a), fordeles disponibelt beløp slik:forfalt underholdsbidrag for siste 6 måneder, slik at kravet for nyeste periode dekkes førstsærtilskudd etter [barnelova § 67 andre ledd](lov/1981-04-08-7/§67/ledd/2)øvrige krav, slik at krav for eldste periode dekkes først.
+(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav a](lov/1984-06-08-59/§2-8/ledd/1/bokstav/a), fordeles disponibelt beløp slik:
+
+1. forfalt underholdsbidrag for siste 6 måneder, slik at kravet for nyeste periode dekkes først
+2. særtilskudd etter [barnelova § 67 andre ledd](lov/1981-04-08-7/§67/ledd/2)
+3. øvrige krav, slik at krav for eldste periode dekkes først.
 
 (2) Har flere motkrav lik rett til dekning etter første ledd, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunkt for fordeling.
 
 ### § 16-3. Dekningsrekkefølge ved motregning – erstatningskrav
 
-(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav b](lov/1984-06-08-59/§2-8/ledd/1/bokstav/b), fordeles disponibelt beløp slik:hovedstolerforsinkelsesrenter.
+(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav b](lov/1984-06-08-59/§2-8/ledd/1/bokstav/b), fordeles disponibelt beløp slik:
+
+1. hovedstoler
+2. forsinkelsesrenter.
 
 (2) Har flere motkrav lik rett til dekning etter første ledd, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
 ### § 16-4. Dekningsrekkefølge ved motregning – bøter
 
-(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav c](lov/1984-06-08-59/§2-8/ledd/1/bokstav/c), fordeles disponibelt beløp slik:bøtekrav yngre enn 5 årøvrige bøtekravomkostningerforsinkelsesrenter og gebyrer ved forsinket betaling.
+(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 første ledd bokstav c](lov/1984-06-08-59/§2-8/ledd/1/bokstav/c), fordeles disponibelt beløp slik:
+
+1. bøtekrav yngre enn 5 år
+2. øvrige bøtekrav
+3. omkostninger
+4. forsinkelsesrenter og gebyrer ved forsinket betaling.
 
 (2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
 ### § 16-5. Dekningsrekkefølge ved motregning – regresskrav, skatte- og avgiftskrav mv.
 
-(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 bokstav d](lov/1984-06-08-59/§2-8/bokstav/d), fordeles disponibelt beløp slik:hovedstolerforsinkelsesrenter og gebyrer ved forsinket betaling.
+(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 bokstav d](lov/1984-06-08-59/§2-8/bokstav/d), fordeles disponibelt beløp slik:
+
+1. hovedstoler
+2. forsinkelsesrenter og gebyrer ved forsinket betaling.
 
 (2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
 ### § 16-6. Dekningsrekkefølge ved motregning – andre krav
 
-(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 bokstav e](lov/1984-06-08-59/§2-8/bokstav/e), fordeles disponibelt beløp slik:hovedstolerforsinkelsesrenter og gebyrer ved forsinket betaling.
+(1) Dersom det er flere motkrav som nevnt i [dekningsloven § 2-8 bokstav e](lov/1984-06-08-59/§2-8/bokstav/e), fordeles disponibelt beløp slik:
+
+1. hovedstoler
+2. forsinkelsesrenter og gebyrer ved forsinket betaling.
 
 (2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
@@ -228,7 +542,12 @@ Innkrevingsmyndigheten gjennomfører motregning for kommunale krav med motregnin
 
 (1) Varsel om utlegg skal inneholde informasjon om at ytterligere gebyr kan påløpe, og at skyldner kan unngå utlegg hvis kravet med renter og kostnader blir betalt før fristen i varselet er utløpt. Skyldner skal oppfordres til å uttale seg om forhold av betydning for om utlegg skal tas og om valg av gjenstand for utlegget, samt gjøres oppmerksom på bestemmelsene i [dekningsloven kapittel 2](lov/1984-06-08-59/kap2) om hva som kan unntas fra utlegg. Skal Innkrevingsmyndigheten gjennomføre utlegg der et formuesgode er, må skyldneren varsles om tid og sted for oppmøtet.
 
-(2) Skyldner skal få vite hvilke opplysninger Innkrevingsmyndigheten har om vedkommende, og som er av betydning for en beslutning der utleggstrekkets størrelse skal fastsettes. Innkrevingsmyndigheten skal gi skyldner opplysninger omskyldnerens inntekt og om hvordan inntekten er beregnetforskuddstrekk i skyldnerens inntekt som er lagt til grunn ved beregningenhvilke livsoppholdssatser som gjelder for skyldneren og skyldnerens husstandskyldnerens øvrige utgifter til et rimelig livsopphold som Innkrevingsmyndigheten kjenner til eller har stipulert.
+(2) Skyldner skal få vite hvilke opplysninger Innkrevingsmyndigheten har om vedkommende, og som er av betydning for en beslutning der utleggstrekkets størrelse skal fastsettes. Innkrevingsmyndigheten skal gi skyldner opplysninger om
+
+1. skyldnerens inntekt og om hvordan inntekten er beregnet
+2. forskuddstrekk i skyldnerens inntekt som er lagt til grunn ved beregningen
+3. hvilke livsoppholdssatser som gjelder for skyldneren og skyldnerens husstand
+4. skyldnerens øvrige utgifter til et rimelig livsopphold som Innkrevingsmyndigheten kjenner til eller har stipulert.
 
 (3) Innkrevingsmyndigheten skal gjøre skyldner oppmerksom på at opplysningene nevnt i andre ledd vil bli lagt til grunn, med mindre andre opplysninger blir sannsynliggjort.
 

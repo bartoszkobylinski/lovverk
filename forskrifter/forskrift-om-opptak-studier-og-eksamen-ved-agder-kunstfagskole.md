@@ -15,7 +15,7 @@ xml_hash: "5ac6ba6bf0655c4ef5aabcf7bf449ce226a18ab17ae80345eb84db2e7d174d89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ eu_basis: []
 
 (2) Forskriften gir regler om opptak til studier, studierett, organisering av studier, eksamen og sensur, begrunnelse, klage og vitnemål ved Agder Kunstfagskole. Forskriften skal sikre en forsvarlig gjennomføring av studiene ved Agder Kunstfagskole.
 
-(3) Forskriften gjelder for personer somSøker opptak til studieprogram ved Agder KunstfagskoleHar studierett og status som student ved Agder Kunstfagskole.
+(3) Forskriften gjelder for personer som
+
+- Søker opptak til studieprogram ved Agder Kunstfagskole
+- Har studierett og status som student ved Agder Kunstfagskole.
 
 ### § 1-2. Definisjoner
 
@@ -96,7 +99,12 @@ Studieåret er normert til ti måneder fordelt på to semestre. Rektor fastsette
 
 (1) Søknad om studieplass sendes Agder Kunstfagskole innen søknadsfristen. Søknadsskjemaet og søknadsfristen legges ut på skolens hjemmeside medio desember hvert år.
 
-(2) En søknad skal inneholde:Ferdig utfylt søknadsskjema med personopplysninger.Dokumentasjon på fullført og bestått generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning innen dans, treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Studenter som søker på bakgrunn av realkompetanse må ha en alder på minst 23 år i søknadsåret. Søker skal legge ved dokumentasjon på treningserfaring tilsvarende tre år generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans, lønnet og ulønnet arbeid, organisasjonserfaring og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
+(2) En søknad skal inneholde:
+
+- Ferdig utfylt søknadsskjema med personopplysninger.
+- Dokumentasjon på fullført og bestått generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning innen dans, treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Studenter som søker på bakgrunn av realkompetanse må ha en alder på minst 23 år i søknadsåret. Søker skal legge ved dokumentasjon på treningserfaring tilsvarende tre år generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans, lønnet og ulønnet arbeid, organisasjonserfaring og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
 
 (3) Dokumentasjonen skal sendes inn sammen med søknad. Søknaden skal være komplett før den behandles. Ved søknadsfristens utløp, avvises søkere som ikke finnes å være søknadsberettiget.
 
@@ -118,7 +126,10 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 
 ### § 3-5. Opptak på grunnlag av realkompetanse
 
-(1) Søkere som ikke tilfredsstiller det formelle opptakskravet kan tas opp på bakgrunn av realkompetanse. Dette gjelder:søkere som ikke har fullført videregående opplæringsøkere med utdanning fra andre land enn Norge.
+(1) Søkere som ikke tilfredsstiller det formelle opptakskravet kan tas opp på bakgrunn av realkompetanse. Dette gjelder:
+
+- søkere som ikke har fullført videregående opplæring
+- søkere med utdanning fra andre land enn Norge.
 
 (2) Studenter som søker på bakgrunn av realkompetanse må ha en alder på minst 23 år i søknadsåret. Søkere med annen utdanning enn norsk eller nordisk videregående opplæring må dokumentere kunnskaper i norsk tilsvarende Norsk Vg1 studieforberedende, Norsk Vg2 yrkesfaglige utdanningsprogram eller bestått test i norsk høyere nivå («Bergenstesten»). Ved realkompetansevurdering skal treningserfaring tilsvarende tre år generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans, lønnet og ulønnet arbeid, organisasjonserfaring og annen relevant informasjon dokumenteres. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon. I tillegg må alle søkere bestå opptaksprøve for å kvalifisere for opptak minimum tilsvarende generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans.
 
@@ -130,7 +141,13 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 
 (1) Informasjon om opptaksprøvene finnes på Agder Kunstfagskole hjemmesider, søknadsportalen åpnes medio november hvert år. Søknadsfrister, tidspunkt for opptaksprøver, beskrivelse av hvordan opptaksprøvene foregår og hva som forventes av søkerne av kvalifikasjoner er publisert på skolens hjemmesider. Opptaket til Agder Kunstfagskole administreres av daglig leder i samarbeid med opptaksjuryen. Opptaksjuryen fatter vedtak om hvem som skal få tilbud om studieplass på grunnlag av gjennomføringen av opptaksprøven i sin helhet, intervju og søknad.
 
-(2) Opptaksprøven er lagt opp på følgende måte:Fysisk test: styrke, fleksibilitet, balanse, koordinasjonBallettSamtidsdansSelvstendig improvisasjonsoppgave, 3 valgmuligheterIntervju.
+(2) Opptaksprøven er lagt opp på følgende måte:
+
+- Fysisk test: styrke, fleksibilitet, balanse, koordinasjon
+- Ballett
+- Samtidsdans
+- Selvstendig improvisasjonsoppgave, 3 valgmuligheter
+- Intervju.
 
 (3) Rangering: Opptak til Agder Kunstfagskole skjer på grunnlag av kvalifisering og rangering. Rangering skjer ved utregning av poeng. Grunnlaget for rangering er karakterene fra den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng. Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
@@ -150,7 +167,9 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 | Generell forståelse for faget | 1–10 (10 høyest) |
 | Utviklingspotensial | 1–10 (10 høyest) |
 
-(7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+(7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:
+
+- Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
 (8) Alle søkere som tilfredsstiller opptakskriteriene, føres opp i prioritert rekkefølge etter opptaksjuryens tildeling av poeng.
 
@@ -170,9 +189,13 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 
 ### § 3-8. Godskriving og fritak
 
-(1) *Godskriving*Studenter kan søke om å få godkjent tidligere bestått utdanning. Utdanningen må oppfylle de faglige kravene for emnet eller emnene det søkes om godskriving for. Med emne menes den minste resultatbærende enhet som gir uttelling i form av studiepoeng, som det gis karakter for og som må bestås for å få vitnemål. Det skal ikke gis dobbel uttelling for samme faginnhold. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
+(1) *Godskriving*
 
-(2) *Fritak*Studenter kan søke om å få fritak for deler av utdanningen. Fritak gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøyskole, voksenopplæring eller høyere utdanning på samme eller beslektede fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis normalt ikke fritak for utdanning på utdanning på videregående opplæringsnivå. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen. Fritak skal bygge på en faglig vurdering fra Agder Kunstfagskole. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn fra treningserfaring, lønnet og ulønnet arbeid, organisasjonserfaring, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
+Studenter kan søke om å få godkjent tidligere bestått utdanning. Utdanningen må oppfylle de faglige kravene for emnet eller emnene det søkes om godskriving for. Med emne menes den minste resultatbærende enhet som gir uttelling i form av studiepoeng, som det gis karakter for og som må bestås for å få vitnemål. Det skal ikke gis dobbel uttelling for samme faginnhold. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
+
+(2) *Fritak*
+
+Studenter kan søke om å få fritak for deler av utdanningen. Fritak gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøyskole, voksenopplæring eller høyere utdanning på samme eller beslektede fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis normalt ikke fritak for utdanning på utdanning på videregående opplæringsnivå. Ved fullført utdanning vil det i vitnemålet kun fremkomme studiepoeng som studenten reelt har oppnådd i utdanningen ved skolen. Fritak skal bygge på en faglig vurdering fra Agder Kunstfagskole. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn fra treningserfaring, lønnet og ulønnet arbeid, organisasjonserfaring, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
 
 (3) Skriftlig søknad om godskriving eller fritak sendes skolen på eget skjema. Utgangspunktet for vurderinger om godskriving og fritak er læringsutbytte for den aktuelle utdanningen eller emnet, og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning.
 
@@ -190,7 +213,11 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 
 ### § 4-2. Opphør av studierett
 
-(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:studenten oppfyller kravene for tildeling av vitnemål for fullført studiestudenten selv bekrefter at han/hun trekker seg fra studiet før det er fullførtdet i løpet av et år ikke er oppnådd studiepoeng, innvilget permisjonssøknad eller delstudier i utlandet.
+(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:
+
+- studenten oppfyller kravene for tildeling av vitnemål for fullført studie
+- studenten selv bekrefter at han/hun trekker seg fra studiet før det er fullført
+- det i løpet av et år ikke er oppnådd studiepoeng, innvilget permisjonssøknad eller delstudier i utlandet.
 
 (2) En student som på grunn av ikke beståtte eksamener, prøver og/eller permisjoner, herunder også sykepermisjoner, er mer enn to år forsinket i forhold til den normale studieprogresjon, mister sin studierett.
 
@@ -222,7 +249,14 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 ### § 5-1. Eksamen og vurderingsformer
 
-(1) Ved Agder Kunstfagskole kan følgende eksamen og vurderingsformer benyttes hver for seg eller sammen for det enkelte emnet. Eksamen og vurderingsformer er beskrevet i studieplanen:visningerskriftlig prøvepraktisk prøvemuntlig prøvefremlegging av arbeid/mappekombinasjon av ovennevnte eksamensformer.
+(1) Ved Agder Kunstfagskole kan følgende eksamen og vurderingsformer benyttes hver for seg eller sammen for det enkelte emnet. Eksamen og vurderingsformer er beskrevet i studieplanen:
+
+- visninger
+- skriftlig prøve
+- praktisk prøve
+- muntlig prøve
+- fremlegging av arbeid/mappe
+- kombinasjon av ovennevnte eksamensformer.
 
 (2) Eksamen eller prøver kan gjennomføres individuelt eller gruppevis.
 
@@ -285,7 +319,12 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 (4) Studenter med dysleksi eller andre lese-/skrivevansker, eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved eksamensbesvarelsen en anonymisert attest som stadfester dette.
 
-(5) Tilrettelegging skal ikke føre til reduksjon av de faglige kravene. Eksempler på tilrettelegging er:Utvidet tid til eksamenBruk av ordbokBruk av spesielle hjelpemidlerAlternativ eksamensform.
+(5) Tilrettelegging skal ikke føre til reduksjon av de faglige kravene. Eksempler på tilrettelegging er:
+
+1. Utvidet tid til eksamen
+2. Bruk av ordbok
+3. Bruk av spesielle hjelpemidler
+4. Alternativ eksamensform.
 
 (6) Administrasjonen fatter vedtak om tilrettelegging av eksamen, avslag om tilrettelegging av eksamen skal begrunnes. Vedtaket kan påklages til lokal klagenemnd. Klagebehandling skal sluttføres i god tid før eksamensdato.
 
@@ -381,7 +420,18 @@ For fag og emner som opphører gjelder følgende: Dersom det etter siste ordinæ
 
 (1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering.
 
-(2) Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [lov om høyere yrkesfaglig utdanning (fagskoleloven) § 24](lov/2018-06-08-28/§24), for eksempel at:studentens kunnskaper og ferdigheter ikke blir prøvd på en upartisk og faglig betryggende måtestudenten har fått kjennskap til eksamensoppgaver før eksamen starterstudenten har manipulert eksamensbesvarelsen etter at den er levert.Hovedområder som betraktes som fusk eller forsøk på fusk:Bruke hjelpemidler som ikke er tillatt på eksamenUtgi andres arbeid som eget, manglende eller feilaktig kildebruk slik at teksten fremstår som studentens egenPlagiatUlovlig samarbeid mellom enkeltpersoner eller grupper.
+(2) Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi studenten et uberettiget fortrinn ved vurderingen, jf. [lov om høyere yrkesfaglig utdanning (fagskoleloven) § 24](lov/2018-06-08-28/§24), for eksempel at:
+
+- studentens kunnskaper og ferdigheter ikke blir prøvd på en upartisk og faglig betryggende måte
+- studenten har fått kjennskap til eksamensoppgaver før eksamen starter
+- studenten har manipulert eksamensbesvarelsen etter at den er levert.
+
+Hovedområder som betraktes som fusk eller forsøk på fusk:
+
+- Bruke hjelpemidler som ikke er tillatt på eksamen
+- Utgi andres arbeid som eget, manglende eller feilaktig kildebruk slik at teksten fremstår som studentens egen
+- Plagiat
+- Ulovlig samarbeid mellom enkeltpersoner eller grupper.
 
 (3) Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Eksamensvakten skal umiddelbart ta kontakt med administrasjonen og dokumentere hendelsen ved å levere inn en skriftlig rapport som skal være grunnlag for eventuelle formelle vedtak om annullering. Studentene har rett til å forklare seg før vedtaket fattes.
 
@@ -435,7 +485,15 @@ For at Agder Kunstfagskole skal kunne utstede vitnemål eller annen dokumentasjo
 
 (2) Lokal klagenemnd som førsteinstans, med minst to tredels flertall, skal fatte enkeltvedtak om utestengelse fra all utdanning ved skolen og fratas retten til å gå opp til eksamen i inntil ett år dersom studenten har gjort ett eller flere grove tillitsbrudd mot skolen. Det kan også fattes vedtak om å avslutte studentens studiekontrakt.
 
-(3) Som grove tillitsbrudd regnes blant annet:Fusk eller forsøk på fuskKjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolen lokaler/områderTydelig beruset eller bruk av alkohol på skolen områder innenfor skoletidenUtøvelse av vold eller hærverkTrakassering av og/eller trusler mot medstudenter eller ansatteTyveri fra skolen, ansatte eller medstudenterBenytte falsk vitnemål eller andre falske dokumenter.
+(3) Som grove tillitsbrudd regnes blant annet:
+
+1. Fusk eller forsøk på fusk
+2. Kjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolen lokaler/områder
+3. Tydelig beruset eller bruk av alkohol på skolen områder innenfor skoletiden
+4. Utøvelse av vold eller hærverk
+5. Trakassering av og/eller trusler mot medstudenter eller ansatte
+6. Tyveri fra skolen, ansatte eller medstudenter
+7. Benytte falsk vitnemål eller andre falske dokumenter.
 
 (4) Lokal klagenemnd kan som førsteinstans, med minst to tredels flertall, fatte enkeltvedtak om å utestenge studenten fra utdanningen i inntil ett år hvis studenten ikke har etterkommet vedtak om bortvisning.
 

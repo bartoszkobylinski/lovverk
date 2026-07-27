@@ -15,7 +15,7 @@ xml_hash: "cd8e71112097826af05541e6c0e01e5535a5dde42e44f832ad235e61e34019ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1.
 
-Denne lov gjelder:Personer som har gjort aktiv tjeneste i motstandsvirksomhet i det okkuperte Norge.Personer som har sittet i fangenskap på grunn av aktiv tjeneste i motstandsvirksomhet i det okkuperte Norge, som gisler eller på grunn av sin rase.Personer som i tidsrommet 8 april 1940-2 september 1945 tjenestegjorde i krigsfarvann a) på norsk skip som den norske regjering hadde rådigheten over, eller b) på utenlandsk skip som ble disponert fra krigførende land som Norge var alliert med, dog bare hvis tjenesten ble utført med samtykke av norsk myndighet, eller uten slikt samtykke var å regne som tillatt.Personer som på grunn av tjeneste som nevnt i nr. 3 har sittet i fiendtlig fangenskap.Militærpersoner som under felttoget i Norge i 1940 var utsatt for usedvanlig hard påkjenning.Militærpersoner som ellers gjorde aktiv krigstjeneste etter oppdrag av norske eller allierte myndigheter.
+Denne lov gjelder:
+
+1. Personer som har gjort aktiv tjeneste i motstandsvirksomhet i det okkuperte Norge.
+2. Personer som har sittet i fangenskap på grunn av aktiv tjeneste i motstandsvirksomhet i det okkuperte Norge, som gisler eller på grunn av sin rase.
+3. Personer som i tidsrommet 8 april 1940-2 september 1945 tjenestegjorde i krigsfarvann a) på norsk skip som den norske regjering hadde rådigheten over, eller b) på utenlandsk skip som ble disponert fra krigførende land som Norge var alliert med, dog bare hvis tjenesten ble utført med samtykke av norsk myndighet, eller uten slikt samtykke var å regne som tillatt.
+4. Personer som på grunn av tjeneste som nevnt i nr. 3 har sittet i fiendtlig fangenskap.
+5. Militærpersoner som under felttoget i Norge i 1940 var utsatt for usedvanlig hard påkjenning.
+6. Militærpersoner som ellers gjorde aktiv krigstjeneste etter oppdrag av norske eller allierte myndigheter.
 
 > Endret ved [lov 24 mai 1985 nr. 34](lov/1985-05-24-34).
 
@@ -66,4 +73,6 @@ Departementet kan gi utfyllende bestemmelser om gjennomføringen av denne lov.
 
 2\. For enke etter person som dør i tiden 1 november 1967 – 31 oktober 1969 beregnes pensjon på grunnlag av gjennomsnittlig uføregrad i tiden fra 1 november 1967 inntil dødsfallet.
 
-3\. Bestemmelsene i [§ 4](lov/1968-03-22-2/§4), annet ledd, gjelder tilsvarende for enke og barn etter person som er død før denne lovs ikrafttreden og som ville ha vært omfattet av [lovens §§ 1](lov/1968-03-22-2/§1) og 2.– – –
+3\. Bestemmelsene i [§ 4](lov/1968-03-22-2/§4), annet ledd, gjelder tilsvarende for enke og barn etter person som er død før denne lovs ikrafttreden og som ville ha vært omfattet av [lovens §§ 1](lov/1968-03-22-2/§1) og 2.
+
+– – –

@@ -15,16 +15,44 @@ xml_hash: "4fd4e28af45af92e131c090acbead86875a82a4ede40dd98ff68a6fce0d22ff8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 
-1. Utenriksdepartementet ledes av to konstitusjonelt ansvarlige statsråder.Statsråd Ulstein har ansvaret for det utviklingspolitiske arbeidet utenfor OSSE-området, Midtøsten, Nord-Afrika og Afghanistan, utviklingssamarbeidet med FN-systemet, Verdensbanken, de regionale utviklingsbankene og øvrige globale fond og programmer samt etatsstyringen av Norad, Norec og Norfund.Utenriksminister Søreide har ansvaret for alle andre ansvarsområder som hører under Utenriksdepartementet. Utenriksminister Søreide har også det administrative ansvaret for Utenriksdepartementet, herunder lønns- og driftsbudsjettet for hele departementet.
-2. Kommunal- og moderniseringsdepartementet ledes av to konstitusjonelt ansvarlige statsråder.Kommunal- og moderniseringsdepartementet overtar ansvaret for arbeidet med elektronisk kommunikasjon fra Samferdselsdepartementet og ansvaret for IKT-relaterte oppgaver fra Nærings- og fiskeridepartementet.Statsråd Astrup har ansvaret for IT-politikk, elektronisk kommunikasjon og personvern i Kommunal- og moderniseringsdepartementet. Ansvaret for samordning av regjeringens IT-politikk innebærer å identifisere sektorovergripende utfordringer og å initiere, koordinere og følge opp tverrgående tiltak. Ansvaret omfatter også samordning av digitaliseringen i offentlig sektor. Statsråd Astrup har også et særskilt ansvar for å arbeide for en styrket og mer helhetlig tilnærming til informasjonssikkerhet i statsforvaltningen. Statsråd Astrup har ansvaret for Kommunal- og moderniseringsdepartementets etatsstyring av Direktoratet for forvaltning og IKT (Difi), Nasjonal kommunikasjonsmyndighet (Nkom) og Datatilsynet. Statsråd Astrup har videre etatsstyringsansvaret for Personvernnemnda.Statsråd Mæland har ansvaret for alle andre ansvarsområder som hører under Kommunal- og moderniseringsdepartementet. Statsråd Mæland har også det administrative ansvaret for Kommunal- og moderniseringsdepartementet, herunder ansvaret for lønns- og driftsbudsjettet for hele departementet.
-3. Justis- og beredskapsdepartementet ledes av to konstitusjonelt ansvarlige statsråder.Justis- og beredskapsdepartementet overtar ansvaret for sikkerhetsloven og det administrative ansvaret for Nasjonal sikkerhetsmyndighet (NSM) fra Forsvarsdepartementet.Statsråd Tybring-Gjedde har ansvaret for departementets saker knyttet til polarområdene (Arktis med Svalbard og Antarktis). Statsråd Tybring-Gjedde har også ansvaret for departementets oppgaver knyttet til etatsstyringen av Sysselmannen på Svalbard, men likevel slik at sysselmannens funksjon som politimester tilligger statsråd Kallmyrs ansvarsområde. Statsråd Tybring-Gjedde har et særlig ansvar for koordineringen av regjeringens svalbardpolitikk og sentraladministrasjonens behandling av polarsaker. Statsråd Tybring-Gjedde er ansvarlig for utarbeidelsen av Svalbardbudsjettet og er regjeringens kontaktpunkt overfor Longyearbyen lokalstyre.Statsråd Tybring-Gjedde har ansvaret for samfunnssikkerhet i sivil sektor på nasjonalt nivå, Justis- og beredskapsdepartementets samordningsrolle innen samfunnssikkerhet og for digital sikkerhet i sivil sektor, forebyggende sikkerhet i sivil sektor, den offentlig organiserte redningstjenesten, nød- og beredskapskommunikasjon og redningshelikoptertjenesten.Statsråd Kallmyr har ansvaret for forebyggende nasjonal sikkerhet som er direkte knyttet til ansvarsområder som tilligger Politiets sikkerhetstjeneste (PST), politiet og Riksadvokaten, herunder etterforskning og påtale mv.Statsråd Tybring-Gjedde har etatsstyringsansvaret for følgende underlagte virksomheter: Direktoratet for samfunnssikkerhet og beredskap, Hovedredningssentralene, Sivil klareringsmyndighet og NSM.Etatsstyringsansvaret for Justis- og beredskapsdepartementets øvrige underlagte og tilknyttede virksomheter tilligger statsråd Kallmyr.Statsråd Kallmyr og statsråd Tybring-Gjedde har ansvaret for departementets samlede beredskap og krisehåndteringen i justissektoren. Ansvarsplasseringen ved krisehåndtering følger den samme ansvarsdelingen som ellers gjelder mellom statsråd Kallmyr og statsråd Tybring-Gjedde. Dersom håndteringen krever involvering av kapasiteter som til daglig er underlagt begge statsrådene, er hovedansvarlig statsråd for håndtering av krisen den som er konstitusjonelt ansvarlig for den delen av sektoren som leder håndteringen. Det konstitusjonelle ansvaret endres ikke ved utpeking av hovedansvarlig statsråd.Beslutning om tiltak beskrevet i Nasjonalt beredskapssystem er fordelt mellom statsråd Kallmyr og statsråd Tybring-Gjedde. Ved anmodninger om bistand fra Forsvaret utøver statsråd Kallmyr alminnelig styringsrett i Justis- og beredskapsdepartementet.For alle andre ansvarsområder som hører under Justis- og beredskapsdepartementet har statsråd Kallmyr ansvaret. Statsråd Kallmyr har også det administrative ansvaret for Justis- og beredskapsdepartementet, herunder ansvaret for lønns- og driftsbudsjettet for hele departementet.
+1. Utenriksdepartementet ledes av to konstitusjonelt ansvarlige statsråder.
+
+   Statsråd Ulstein har ansvaret for det utviklingspolitiske arbeidet utenfor OSSE-området, Midtøsten, Nord-Afrika og Afghanistan, utviklingssamarbeidet med FN-systemet, Verdensbanken, de regionale utviklingsbankene og øvrige globale fond og programmer samt etatsstyringen av Norad, Norec og Norfund.
+
+   Utenriksminister Søreide har ansvaret for alle andre ansvarsområder som hører under Utenriksdepartementet. Utenriksminister Søreide har også det administrative ansvaret for Utenriksdepartementet, herunder lønns- og driftsbudsjettet for hele departementet.
+2. Kommunal- og moderniseringsdepartementet ledes av to konstitusjonelt ansvarlige statsråder.
+
+   Kommunal- og moderniseringsdepartementet overtar ansvaret for arbeidet med elektronisk kommunikasjon fra Samferdselsdepartementet og ansvaret for IKT-relaterte oppgaver fra Nærings- og fiskeridepartementet.
+
+   Statsråd Astrup har ansvaret for IT-politikk, elektronisk kommunikasjon og personvern i Kommunal- og moderniseringsdepartementet. Ansvaret for samordning av regjeringens IT-politikk innebærer å identifisere sektorovergripende utfordringer og å initiere, koordinere og følge opp tverrgående tiltak. Ansvaret omfatter også samordning av digitaliseringen i offentlig sektor. Statsråd Astrup har også et særskilt ansvar for å arbeide for en styrket og mer helhetlig tilnærming til informasjonssikkerhet i statsforvaltningen. Statsråd Astrup har ansvaret for Kommunal- og moderniseringsdepartementets etatsstyring av Direktoratet for forvaltning og IKT (Difi), Nasjonal kommunikasjonsmyndighet (Nkom) og Datatilsynet. Statsråd Astrup har videre etatsstyringsansvaret for Personvernnemnda.
+
+   Statsråd Mæland har ansvaret for alle andre ansvarsområder som hører under Kommunal- og moderniseringsdepartementet. Statsråd Mæland har også det administrative ansvaret for Kommunal- og moderniseringsdepartementet, herunder ansvaret for lønns- og driftsbudsjettet for hele departementet.
+3. Justis- og beredskapsdepartementet ledes av to konstitusjonelt ansvarlige statsråder.
+
+   Justis- og beredskapsdepartementet overtar ansvaret for sikkerhetsloven og det administrative ansvaret for Nasjonal sikkerhetsmyndighet (NSM) fra Forsvarsdepartementet.
+
+   Statsråd Tybring-Gjedde har ansvaret for departementets saker knyttet til polarområdene (Arktis med Svalbard og Antarktis). Statsråd Tybring-Gjedde har også ansvaret for departementets oppgaver knyttet til etatsstyringen av Sysselmannen på Svalbard, men likevel slik at sysselmannens funksjon som politimester tilligger statsråd Kallmyrs ansvarsområde. Statsråd Tybring-Gjedde har et særlig ansvar for koordineringen av regjeringens svalbardpolitikk og sentraladministrasjonens behandling av polarsaker. Statsråd Tybring-Gjedde er ansvarlig for utarbeidelsen av Svalbardbudsjettet og er regjeringens kontaktpunkt overfor Longyearbyen lokalstyre.
+
+   Statsråd Tybring-Gjedde har ansvaret for samfunnssikkerhet i sivil sektor på nasjonalt nivå, Justis- og beredskapsdepartementets samordningsrolle innen samfunnssikkerhet og for digital sikkerhet i sivil sektor, forebyggende sikkerhet i sivil sektor, den offentlig organiserte redningstjenesten, nød- og beredskapskommunikasjon og redningshelikoptertjenesten.
+
+   Statsråd Kallmyr har ansvaret for forebyggende nasjonal sikkerhet som er direkte knyttet til ansvarsområder som tilligger Politiets sikkerhetstjeneste (PST), politiet og Riksadvokaten, herunder etterforskning og påtale mv.
+
+   Statsråd Tybring-Gjedde har etatsstyringsansvaret for følgende underlagte virksomheter: Direktoratet for samfunnssikkerhet og beredskap, Hovedredningssentralene, Sivil klareringsmyndighet og NSM.
+
+   Etatsstyringsansvaret for Justis- og beredskapsdepartementets øvrige underlagte og tilknyttede virksomheter tilligger statsråd Kallmyr.
+
+   Statsråd Kallmyr og statsråd Tybring-Gjedde har ansvaret for departementets samlede beredskap og krisehåndteringen i justissektoren. Ansvarsplasseringen ved krisehåndtering følger den samme ansvarsdelingen som ellers gjelder mellom statsråd Kallmyr og statsråd Tybring-Gjedde. Dersom håndteringen krever involvering av kapasiteter som til daglig er underlagt begge statsrådene, er hovedansvarlig statsråd for håndtering av krisen den som er konstitusjonelt ansvarlig for den delen av sektoren som leder håndteringen. Det konstitusjonelle ansvaret endres ikke ved utpeking av hovedansvarlig statsråd.
+
+   Beslutning om tiltak beskrevet i Nasjonalt beredskapssystem er fordelt mellom statsråd Kallmyr og statsråd Tybring-Gjedde. Ved anmodninger om bistand fra Forsvaret utøver statsråd Kallmyr alminnelig styringsrett i Justis- og beredskapsdepartementet.
+
+   For alle andre ansvarsområder som hører under Justis- og beredskapsdepartementet har statsråd Kallmyr ansvaret. Statsråd Kallmyr har også det administrative ansvaret for Justis- og beredskapsdepartementet, herunder ansvaret for lønns- og driftsbudsjettet for hele departementet.
 4. Kongens myndighet etter [sikkerhetsloven § 7-5](lov/2018-06-01-24/§7-5) til å fastsette forbudsområder og adgangsforbud av hensyn til forsvar, sikkerhet og beredskap delegeres til Forsvarsdepartementet.
 5. Barne- og likestillingsdepartementets navn endres til Barne- og familiedepartementet.
 6. Barne- og familiedepartementet overtar ansvaret for tro- og livssynsområdet fra Kulturdepartementet.
@@ -121,9 +149,14 @@ eu_basis: []
 - [Lov 4. november 1948 nr. 1](lov/1948-11-04-1) om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven)
 - [Lov 13. desember 1948 nr. 5](lov/1948-12-13-5) om Riksteatret (riksteaterlova)
 - [Lov 14. desember 1956 nr. 4](lov/1956-12-14-4) om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v. (lov om avgift til fond for utøvende kunstnere)
-- [Lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom (oreigningslova) for så vidt gjelder grunn til formål som nevnt i:§ 2 nr. 4, 5, 34, 38 og 39
+- [Lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom (oreigningslova) for så vidt gjelder grunn til formål som nevnt i:
+
+  - § 2 nr. 4, 5, 34, 38 og 39
 - [Lov 9. april 1965 nr. 1](lov/1965-04-09-1) om avgift til Det norske komponistfond
-- [Lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner (kulturminneloven), jf. [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785) om faglig ansvarsfordeling mv. etter [kulturminneloven § 1](lov/1978-06-09-50/§1) nr. 5 og [§ 12](lov/1978-06-09-50/§12) nr. 3:§ 23 første ledd§ 23a til § 23f
+- [Lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner (kulturminneloven), jf. [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785) om faglig ansvarsfordeling mv. etter [kulturminneloven § 1](lov/1978-06-09-50/§1) nr. 5 og [§ 12](lov/1978-06-09-50/§12) nr. 3:
+
+  - § 23 første ledd
+  - § 23a til § 23f
 - [Lov 11. april 1980 nr. 5](lov/1980-04-11-5) om målbruk i offentleg teneste (mållova)
 - [Lov 20. desember 1985 nr. 108](lov/1985-12-20-108) om folkebibliotek (folkebibliotekloven)
 - [Lov 15. mai 1987 nr. 21](lov/1987-05-15-21) om film og videogram (film- og videogramlova)
@@ -136,7 +169,9 @@ eu_basis: []
 - [Lov 28. mai 1993 nr. 52](lov/1993-05-28-52) om vederlag for visning av billedkunst og kunsthåndverk m.v. (lov om vederlag for kunstvisning)
 - [Lov 24. februar 1995 nr. 11](lov/1995-02-24-11) om lotterier m.v. (lotteriloven)
 - [Lov 15. juni 2001 nr. 73](lov/2001-06-15-73) om organisert kampaktivitet som tillater knockout (knockoutloven)
-- [Lov 17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) for så vidt gjelder:Kapittel 13. Vern mot diskriminering
+- [Lov 17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) for så vidt gjelder:
+
+  - Kapittel 13. Vern mot diskriminering
 - [Lov 29. juni 2007 nr. 86](lov/2007-06-29-86) om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsarrangemneter (svartebørsloven)
 - [Lov 29. juni 2007 nr. 88](lov/2007-06-29-88) om register for frivillig virksomhet (frivillighetsregisterloven)
 - [Lov 29. juni 2007 nr. 89](lov/2007-06-29-89) om offentlege styresmakters ansvar for kulturverksemd (kulturlova)

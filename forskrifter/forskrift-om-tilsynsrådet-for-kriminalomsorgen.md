@@ -34,7 +34,12 @@ Formålet med forskriften er å sikre at tilsynsrådet kan gjennomføre tilsyn m
 
 Tilsynsrådet kan føre tilsyn med alle nivåer i kriminalomsorgen, og med varetekt og straffegjennomføring som kriminalomsorgen har helt eller delvis ansvar for utenfor kriminalomsorgens institusjoner, herunder varetekt på bestemt oppholdssted med elektronisk kontroll, straffegjennomføring i egen bolig med eller uten elektronisk kontroll, samfunnsstraff, bøtetjeneste, narkotikaprogram med domstolskontroll og program mot ruspåvirket kjøring, og med oppfølging av prøveløslatte med møteplikt.
 
-Tilsynsrådet skal ved tilsyn ha adgang tilkriminalomsorgens uteområder og bygninger,samtlige institusjoner hvor kriminalomsorgen har ansvar for domfelte og innsattes sikkerhet, herunder fengsel, forvaringsanstalt, overgangsbolig og statlig finansiert institusjon eller boenhet for prøveløslatte forvaringsdømte, jf. [straffeloven § 45 første ledd bokstav c](lov/2005-05-20-28/§45/ledd/1/bokstav/c),all nødvendig informasjon, ogalle steder der kriminalomsorgen behandler opplysninger eller det finnes hjelpemidler for slik behandling.
+Tilsynsrådet skal ved tilsyn ha adgang til
+
+1. kriminalomsorgens uteområder og bygninger,
+2. samtlige institusjoner hvor kriminalomsorgen har ansvar for domfelte og innsattes sikkerhet, herunder fengsel, forvaringsanstalt, overgangsbolig og statlig finansiert institusjon eller boenhet for prøveløslatte forvaringsdømte, jf. [straffeloven § 45 første ledd bokstav c](lov/2005-05-20-28/§45/ledd/1/bokstav/c),
+3. all nødvendig informasjon, og
+4. alle steder der kriminalomsorgen behandler opplysninger eller det finnes hjelpemidler for slik behandling.
 
 Tilsynsrådet kan gjennomføre nødvendige prøver og kontroller, og kreve praktisk og teknisk bistand fra personalet på stedet i den grad det må til for å gjennomføre prøver eller kontroller.
 
@@ -46,7 +51,10 @@ Kriminalomsorgen skal tilrettelegge for at varslede og uvarslede tilsyn kan gjen
 
 Kriminalomsorgen skal besvare tilsynsrådets henvendelser før, under og etter tilsyn uten ugrunnet opphold.
 
-Kriminalomsorgen skal rutinemessig orientere tilsynsrådet omalle selvmord, selvmordsforsøk og gjentatte eller alvorlige tilfeller av selvskading, ogalle utelukkelser fra fellesskapet som varer over 30 dager.
+Kriminalomsorgen skal rutinemessig orientere tilsynsrådet om
+
+1. alle selvmord, selvmordsforsøk og gjentatte eller alvorlige tilfeller av selvskading, og
+2. alle utelukkelser fra fellesskapet som varer over 30 dager.
 
 ## § 5. Informasjon om tilsynsrådet
 
@@ -110,7 +118,13 @@ Tilsynsrådet og sekretariatet er behandlingsansvarlig for behandling av persono
 
 ## § 13. Unntak fra den registrertes rettigheter
 
-Den registrertes rettigheter etter [personvernforordningen artikkel 12 nr. 4](lov/2018-06-15-38/gdpr/a12/nummer/4) og [artikkel 13](lov/2018-06-15-38/gdpr/a13) til [22](lov/2018-06-15-38/gdpr/a22) og tilsynsrådets underretningsplikt etter [personvernforordningen artikkel 34](lov/2018-06-15-38/gdpr/a34) kan utsettes, begrenses eller nektes dersom det er nødvendig av hensyn tilgjennomføring av strafferettslige reaksjoner,forebygging, etterforskning, avsløring eller straffeforfølgning av straffbare forhold,nasjonal og offentlig sikkerhet,vern av andre personer enn den registrerte, ellermottakerorganets lovpålagte kontrolloppgaver.
+Den registrertes rettigheter etter [personvernforordningen artikkel 12 nr. 4](lov/2018-06-15-38/gdpr/a12/nummer/4) og [artikkel 13](lov/2018-06-15-38/gdpr/a13) til [22](lov/2018-06-15-38/gdpr/a22) og tilsynsrådets underretningsplikt etter [personvernforordningen artikkel 34](lov/2018-06-15-38/gdpr/a34) kan utsettes, begrenses eller nektes dersom det er nødvendig av hensyn til
+
+1. gjennomføring av strafferettslige reaksjoner,
+2. forebygging, etterforskning, avsløring eller straffeforfølgning av straffbare forhold,
+3. nasjonal og offentlig sikkerhet,
+4. vern av andre personer enn den registrerte, eller
+5. mottakerorganets lovpålagte kontrolloppgaver.
 
 Unntak kan bare gjøres så lenge, og i det omfang, som er nødvendig og forholdsmessig, sett opp mot den registrertes grunnleggende rettigheter og interesser. Unntak skal vurderes regelmessig.
 

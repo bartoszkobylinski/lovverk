@@ -15,7 +15,7 @@ xml_hash: "439aba40d5e8cf5d866c9b0a2e270ef7214c6da5b7300e22c3de2ff03d373c8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,14 @@ Lovens formål er å legge til rette for at omsetning av fast eiendom ved bruk a
 
 (1) Loven får anvendelse for eiendomsmeglingsvirksomhet som utøves i Norge. Kongen kan bestemme at loven også skal gjelde for virksomhet som utøves på Svalbard eller Jan Mayen.
 
-(2) Med eiendomsmegling menes å opptre som mellommann, herunder å forestå oppgjør, vedomsetning av fast eiendom, herunder eierseksjon og ideell andel i fast eiendom,inngåelse og overdragelse av feste- eller leiekontrakt til fast eiendom, med unntak av kontrakter som omfattes av [lov 25. juni 1965 nr. 1 om forpakting](lov/1965-06-25-1),omsetning av borettslagsandel og av aksje, andelsbrev, pantebrev eller annet atkomstdokument med tilknyttet leierett eller borett til bolig eller annet areal i bebygget eiendom,omsetning av parter i selskap, jf. [lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven) § 1-2](lov/1985-06-21-83/§1-2) første ledd bokstav a, eller aksjer i aksjeselskap eller allmennaksjeselskap, jf. [lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)](lov/1997-06-13-44) og [lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)](lov/1997-06-13-45), som ikke er børsnoterte, dersom omsetningen hovedsakelig tar sikte på overdragelse av eiendom eller rettighet som nevnt i nr. 1 til 3,omsetning av deltidsbruksrett som gjelder fast eiendom og faller inn under [lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv](lov/2012-05-25-27).omsetning av avtale om erverv av rettigheter som nevnt i nr. 1 til 5.
+(2) Med eiendomsmegling menes å opptre som mellommann, herunder å forestå oppgjør, ved
+
+1. omsetning av fast eiendom, herunder eierseksjon og ideell andel i fast eiendom,
+2. inngåelse og overdragelse av feste- eller leiekontrakt til fast eiendom, med unntak av kontrakter som omfattes av [lov 25. juni 1965 nr. 1 om forpakting](lov/1965-06-25-1),
+3. omsetning av borettslagsandel og av aksje, andelsbrev, pantebrev eller annet atkomstdokument med tilknyttet leierett eller borett til bolig eller annet areal i bebygget eiendom,
+4. omsetning av parter i selskap, jf. [lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven) § 1-2](lov/1985-06-21-83/§1-2) første ledd bokstav a, eller aksjer i aksjeselskap eller allmennaksjeselskap, jf. [lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)](lov/1997-06-13-44) og [lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)](lov/1997-06-13-45), som ikke er børsnoterte, dersom omsetningen hovedsakelig tar sikte på overdragelse av eiendom eller rettighet som nevnt i nr. 1 til 3,
+5. omsetning av deltidsbruksrett som gjelder fast eiendom og faller inn under [lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv](lov/2012-05-25-27).
+6. omsetning av avtale om erverv av rettigheter som nevnt i nr. 1 til 5.
 
 (3) Som mellommann etter annet ledd nr. 2 regnes enhver som driver inn- og utleievirksomhet med det formål å formidle feste- eller leiekontrakt til fast eiendom.
 
@@ -64,7 +71,10 @@ Bestemmelsene i [§ 6-4](lov/2007-06-29-73/§6-4), [§ 6-5](lov/2007-06-29-73/§
 
 ### § 2-1. Krav om tillatelse for å drive eiendomsmegling
 
-(1) Eiendomsmegling mot godtgjørelse kan bare drives:av foretak som har tillatelse til dette fra Finanstilsynet (eiendomsmeglingsforetak), jf. [§ 2-3](lov/2007-06-29-73/§2-3) første ledd elleri medhold av norsk advokatbevilling når advokaten har stilt sikkerhet etter [advokatloven § 5](lov/2022-05-12-28/§5).
+(1) Eiendomsmegling mot godtgjørelse kan bare drives:
+
+1. av foretak som har tillatelse til dette fra Finanstilsynet (eiendomsmeglingsforetak), jf. [§ 2-3](lov/2007-06-29-73/§2-3) første ledd eller
+2. i medhold av norsk advokatbevilling når advokaten har stilt sikkerhet etter [advokatloven § 5](lov/2022-05-12-28/§5).
 
 (2) Tillatelse kreves ikke for banker som forestår oppgjør som nevnt i [§ 1-2](lov/2007-06-29-73/§1-2) annet ledd.
 
@@ -96,7 +106,12 @@ Bestemmelsene i [§ 6-4](lov/2007-06-29-73/§6-4), [§ 6-5](lov/2007-06-29-73/§
 
 ### § 2-4. Krav til foretaksform
 
-Tillatelse til å drive eiendomsmegling kan gis til:aksjeselskap, jf. [aksjeloven](lov/1997-06-13-44), eller allmennaksjeselskap, jf. [allmennaksjeloven](lov/1997-06-13-45),boligbyggelag, jf. [lov 6. juni 2003 nr. 38 om bustadbyggjelag](lov/2003-06-06-38),utenlandske foretak som er registrert i Foretaksregisteret, jf. [foretaksregisterloven](lov/2025-06-20-106), som oppfyller nærmere krav til organisering og revisjonsplikt fastsatt i forskrift gitt av departementet, ogandre foretak som oppfyller nærmere krav til organisering og revisjonsplikt fastsatt i forskrift gitt av departementet.
+Tillatelse til å drive eiendomsmegling kan gis til:
+
+1. aksjeselskap, jf. [aksjeloven](lov/1997-06-13-44), eller allmennaksjeselskap, jf. [allmennaksjeloven](lov/1997-06-13-45),
+2. boligbyggelag, jf. [lov 6. juni 2003 nr. 38 om bustadbyggjelag](lov/2003-06-06-38),
+3. utenlandske foretak som er registrert i Foretaksregisteret, jf. [foretaksregisterloven](lov/2025-06-20-106), som oppfyller nærmere krav til organisering og revisjonsplikt fastsatt i forskrift gitt av departementet, og
+4. andre foretak som oppfyller nærmere krav til organisering og revisjonsplikt fastsatt i forskrift gitt av departementet.
 
 > Endret ved lov [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
 
@@ -110,7 +125,12 @@ Tillatelse til å drive eiendomsmegling kan gis til:aksjeselskap, jf. [aksjelove
 
 ### § 2-6. Krav til økonomi
 
-(1) Foretak som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) må:være i stand til å oppfylle sine forpliktelser etter hvert som de forfaller,ha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket,ha eiendeler som har en verdi som overstiger foretakets samlede forpliktelser, ogha fullt innbetalt aksjekapital på søknadstidspunktet, dersom virksomheten er organisert som aksjeselskap eller allmennaksjeselskap.
+(1) Foretak som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) må:
+
+1. være i stand til å oppfylle sine forpliktelser etter hvert som de forfaller,
+2. ha en egenkapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket,
+3. ha eiendeler som har en verdi som overstiger foretakets samlede forpliktelser, og
+4. ha fullt innbetalt aksjekapital på søknadstidspunktet, dersom virksomheten er organisert som aksjeselskap eller allmennaksjeselskap.
 
 (2) Advokat som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) første ledd nr. 2, må være i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
 
@@ -196,7 +216,10 @@ Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/
 
 (1) Krav i eller i medhold av denne loven om at opplysninger eller meldinger skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon dersom mottakeren ønsker det.
 
-(2) Krav i eller i medhold av denne loven om at en avtale skal inngås skriftlig, er ikke til hinder for at avtalen inngås ved hjelp av et elektronisk medium dersom avtalepartene ønsker dette, ogavtalens innhold i sin helhet er tilgjengelig ved avtaleinngåelsen, ogdet er benyttet en betryggende metode for å autentisere avtaleinngåelsen.
+(2) Krav i eller i medhold av denne loven om at en avtale skal inngås skriftlig, er ikke til hinder for at avtalen inngås ved hjelp av et elektronisk medium dersom avtalepartene ønsker dette, og
+
+1. avtalens innhold i sin helhet er tilgjengelig ved avtaleinngåelsen, og
+2. det er benyttet en betryggende metode for å autentisere avtaleinngåelsen.
 
 (3) Departementet kan i forskrift fastsette regler om elektronisk kommunikasjon og elektroniske medier.
 
@@ -212,7 +235,13 @@ Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/
 
 ### § 4-2. Eiendomsmeglerbrev
 
-(1) Eiendomsmeglerbrev utstedes av Finanstilsynet til personer som:anses egnet til å drive eiendomsmeglingsvirksomhet,har bestått godkjent eiendomsmeglereksamen,har minst to års praktisk erfaring etter bestått eiendomsmeglereksamen,er myndig, oger i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
+(1) Eiendomsmeglerbrev utstedes av Finanstilsynet til personer som:
+
+1. anses egnet til å drive eiendomsmeglingsvirksomhet,
+2. har bestått godkjent eiendomsmeglereksamen,
+3. har minst to års praktisk erfaring etter bestått eiendomsmeglereksamen,
+4. er myndig, og
+5. er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
 
 (2) Søkeren må fremlegge politiattest som nevnt i [§ 2-9](lov/2007-06-29-73/§2-9) tredje ledd.
 
@@ -226,7 +255,12 @@ Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/
 
 ### § 4-3. Adgang for jurister til å være fagansvarlig og ansvarlig megler
 
-(1) Finanstilsynet kan gi tillatelse til å være fagansvarlig, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd, og ansvarlig megler, jf. [§ 6-2](lov/2007-06-29-73/§6-2), til personer som har bestått norsk juridisk embetseksamen og som:anses egnet til å drive eiendomsmeglingsvirksomhet,har minst to års praktisk erfaring etter bestått juridisk embetseksamen,er myndig oger i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
+(1) Finanstilsynet kan gi tillatelse til å være fagansvarlig, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd, og ansvarlig megler, jf. [§ 6-2](lov/2007-06-29-73/§6-2), til personer som har bestått norsk juridisk embetseksamen og som:
+
+1. anses egnet til å drive eiendomsmeglingsvirksomhet,
+2. har minst to års praktisk erfaring etter bestått juridisk embetseksamen,
+3. er myndig og
+4. er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
 
 (2) Søkeren må fremlegge politiattest som nevnt i [§ 2-9](lov/2007-06-29-73/§2-9) tredje ledd.
 
@@ -286,15 +320,27 @@ Personer som har eiendomsmeglerbrev etter [§ 4-2](lov/2007-06-29-73/§4-2), adv
 
 (1) Ansatte og personer med tilsvarende tilknytning til foretak som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), samt eiere og tillitsvalgte i slike foretak som normalt deltar i den daglige driften, kan ikke selge egen eiendom gjennom den aktuelle virksomheten. Tilsvarende gjelder for personer med tilsvarende tilknytning til advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) første ledd nr. 2. Personer som nevnt i første og annet punktum kan heller ikke kjøpe eiendom eller erverve andre rettigheter som nevnt i [§ 1-2](lov/2007-06-29-73/§1-2) annet ledd som den aktuelle virksomheten har eller har hatt i oppdrag å formidle.
 
-(2) Første ledd gjelder tilsvarende for kjøp eller salg for:ektefelle og person som bor i ekteskapslignende forhold med personer nevnt i første ledd,mindreårige barn av personer nevnt i første ledd, samt mindreårige barn til en person som nevnt i nr. 1 som personer nevnt i første ledd bor sammen med, ogforetak hvor personer som nevnt i første ledd eller annet ledd nr. 1 og 2, alene eller sammen, har slik innflytelse som nevnt i [aksjeloven](lov/1997-06-13-44) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd.
+(2) Første ledd gjelder tilsvarende for kjøp eller salg for:
+
+1. ektefelle og person som bor i ekteskapslignende forhold med personer nevnt i første ledd,
+2. mindreårige barn av personer nevnt i første ledd, samt mindreårige barn til en person som nevnt i nr. 1 som personer nevnt i første ledd bor sammen med, og
+3. foretak hvor personer som nevnt i første ledd eller annet ledd nr. 1 og 2, alene eller sammen, har slik innflytelse som nevnt i [aksjeloven](lov/1997-06-13-44) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd.
 
 (3) Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), kan ikke formidle bud for personer og foretak som nevnt i første og annet ledd. Foretaket kan heller ikke på annen måte opptre som mellommann ved transaksjoner hvor slike personer eller foretak er part.
 
 (4) Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), kan ikke kjøpe eller selge egen eiendom gjennom egen virksomhet.
 
-(5) Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), kan ikke motta oppdrag frapersoner og foretak som nevnt i første og annet ledd,slektninger i opp- og nedstigende linje og søsken til personer som nevnt i første ledd,ektefelle og person som bor i ekteskapslignende forhold med slektninger som nevnt i nr. 2,foretak hvor personer eller foretak som nevnt i dette ledd, alene eller sammen, har slik innflytelse som nevnt i [aksjeloven](lov/1997-06-13-44) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd.
+(5) Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), kan ikke motta oppdrag fra
 
-(6) Forbudet i første til femte ledd omfatter ikkeansatte i andre filialer, jf. [§ 2-2](lov/2007-06-29-73/§2-2), i foretaket eller advokatvirksomheten enn den filialen som utfører oppdraget, elleransatte i filialer, jf. [§ 2-2](lov/2007-06-29-73/§2-2), i foretaket eller advokatvirksomheten som kun forestår oppgjør.
+1. personer og foretak som nevnt i første og annet ledd,
+2. slektninger i opp- og nedstigende linje og søsken til personer som nevnt i første ledd,
+3. ektefelle og person som bor i ekteskapslignende forhold med slektninger som nevnt i nr. 2,
+4. foretak hvor personer eller foretak som nevnt i dette ledd, alene eller sammen, har slik innflytelse som nevnt i [aksjeloven](lov/1997-06-13-44) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd.
+
+(6) Forbudet i første til femte ledd omfatter ikke
+
+1. ansatte i andre filialer, jf. [§ 2-2](lov/2007-06-29-73/§2-2), i foretaket eller advokatvirksomheten enn den filialen som utfører oppdraget, eller
+2. ansatte i filialer, jf. [§ 2-2](lov/2007-06-29-73/§2-2), i foretaket eller advokatvirksomheten som kun forestår oppgjør.
 
 (7) Dersom personer eller foretak som nevnt i første og annet ledd i andre tilfeller har eller får personlig eller økonomisk interesse i den handelen oppdraget gjelder, skal partene straks gis opplysning om dette.
 
@@ -340,7 +386,19 @@ Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/
 
 ### § 6-4. Oppdragsavtalen
 
-(1) Oppdragsavtalen skal være skriftlig og minst inneholde følgende opplysninger:oppdragstakerens navn, adresse og organisasjonsnummer samt oppdragsgiverens navn, adresse og fødsels- eller organisasjonsnummer,oppdragets karakter (salg, kjøp, utleie, leie, oppgjør eller annet),hvilken eiendom oppdraget gjelder,hva som er avtalt om oppdragstakerens vederlag, herunder hva oppdragstakeren kan kreve dersom handel ikke kommer i stand,hva som er avtalt om oppdragstakerens rett til å kreve dekning av utlegg, herunder et overslag over størrelsen på utleggene,et samlet, spesifisert kostnadsoverslag over det totale vederlaget og de samlede utlegg,oppdragets varighet og hva som gjelder om oppsigelse av oppdraget,oppdragstakerens eventuelle rett til vederlag for handel sluttet gjennom andre eller uten mellommann og i så fall de nærmere betingelser for denne retten,om andre oppdragstakere de siste tre måneder har arbeidet med det samme oppdraget,adgangen til å benytte utenrettslige tvisteløsningsordninger,hvem som er ansvarlig megler for oppdraget og eventuelle eiendomsmeglerfullmektiger som skal arbeide med oppdraget.
+(1) Oppdragsavtalen skal være skriftlig og minst inneholde følgende opplysninger:
+
+1. oppdragstakerens navn, adresse og organisasjonsnummer samt oppdragsgiverens navn, adresse og fødsels- eller organisasjonsnummer,
+2. oppdragets karakter (salg, kjøp, utleie, leie, oppgjør eller annet),
+3. hvilken eiendom oppdraget gjelder,
+4. hva som er avtalt om oppdragstakerens vederlag, herunder hva oppdragstakeren kan kreve dersom handel ikke kommer i stand,
+5. hva som er avtalt om oppdragstakerens rett til å kreve dekning av utlegg, herunder et overslag over størrelsen på utleggene,
+6. et samlet, spesifisert kostnadsoverslag over det totale vederlaget og de samlede utlegg,
+7. oppdragets varighet og hva som gjelder om oppsigelse av oppdraget,
+8. oppdragstakerens eventuelle rett til vederlag for handel sluttet gjennom andre eller uten mellommann og i så fall de nærmere betingelser for denne retten,
+9. om andre oppdragstakere de siste tre måneder har arbeidet med det samme oppdraget,
+10. adgangen til å benytte utenrettslige tvisteløsningsordninger,
+11. hvem som er ansvarlig megler for oppdraget og eventuelle eiendomsmeglerfullmektiger som skal arbeide med oppdraget.
 
 (2) Dersom det skal benyttes kontraktsmedhjelper som nevnt i [§ 3-5](lov/2007-06-29-73/§3-5), skal dennes navn, adresse og organisasjonsnummer opplyses.
 
@@ -366,9 +424,35 @@ Oppdragstakeren kan ikke binde oppdragsgiveren overfor en tredjeperson uten sær
 
 (1) Oppdragstakeren skal sørge for at kjøperen før handel sluttes skriftlig og tydelig får opplysninger denne har grunn til å regne med å få og som kan få betydning for avtalen. Har oppdragstakeren ikke foretatt innhenting og kontroll av opplysninger som nevnt i første punktum, skal kjøperen før handel sluttes, gis skriftlig orientering om grunnen til dette.
 
-(2) Oppdragstakeren plikter før handel sluttes å gi kjøperen en skriftlig oppgave som minst inneholder følgende opplysninger:eiendommens registerbetegnelse og adresse,eierforhold,tinglyste forpliktelser,tilliggende rettigheter,grunnarealer,bebyggelsens arealer og angivelse av alder og byggemåte,ferdigattest eller midlertidig brukstillatelse,eventuell adgang til utleie av eiendommen eller deler av denne til boligformål,verdien ved skattefastsettingen og offentlige avgifter,forholdet til endelige offentlige planer, konsesjonsplikt og odelsrett, der det er relevant,spesifikasjon over faste løpende kostnader,hvis kjøpesum er fastsatt, totalkostnad som omfatter andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader,hvis kjøpesum ikke er fastsatt, en samlet oppstilling som omfatter prisantydning, andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader, samt summen av disse beløpene,hva som er avtalt om oppdragstakerens vederlag og rett til å kreve dekning av utlegg, jf. [§ 6-4 første ledd nr. 4](lov/2007-06-29-73/§6-4/ledd/1/nummer/4) til [6](lov/2007-06-29-73/§6-4/ledd/1/nummer/6),oppdragstakerens registrerte navn, forretningsadresse og organisasjonsnummer,oppdragstakerens samarbeid med eller tilknytning til andre foretak med produkter eller tjenester som tilbys partene i forbindelse med oppdraget,hvem som er ansvarlig megler for oppdraget ogfremgangsmåten ved budgivning og budgivers rettigheter og plikter.
+(2) Oppdragstakeren plikter før handel sluttes å gi kjøperen en skriftlig oppgave som minst inneholder følgende opplysninger:
 
-(3) Ved transaksjoner som omfattes av lovens [§ 1-2](lov/2007-06-29-73/§1-2) annet ledd nr. 3, skal den skriftlige oppgaven også inneholde følgende opplysninger:lånevilkårene for nedbetaling av fellesgjeld og månedlige felleskostnader, samt andre faste kostnader som knytter seg til dette,separat beregning av månedlige felleskostnader etter en eventuell avdragsfri periode,opplysninger om at kjøper kan holdes ansvarlig for manglende dekning av felleskostnader og usolgte enheter hørende til prosjektet,opplysninger om borettslaget har sikring mot tap av felleskostnader, jf. [lov 6. juni 2003 nr. 39 om burettslag kapittel 5](lov/2003-06-06-39/kap5) avsnitt VII, og i så fall hvem som er tilbyder, varigheten av avtalen og oppsigelsesvilkårene,relevante rettigheter og forpliktelser for boligselskapet ifølge lov, forskrift, vedtekter, vedtak og avtaler som har betydning for handelen,vesentlige opplysninger om boligselskapets budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstaker.
+1. eiendommens registerbetegnelse og adresse,
+2. eierforhold,
+3. tinglyste forpliktelser,
+4. tilliggende rettigheter,
+5. grunnarealer,
+6. bebyggelsens arealer og angivelse av alder og byggemåte,
+7. ferdigattest eller midlertidig brukstillatelse,
+8. eventuell adgang til utleie av eiendommen eller deler av denne til boligformål,
+9. verdien ved skattefastsettingen og offentlige avgifter,
+10. forholdet til endelige offentlige planer, konsesjonsplikt og odelsrett, der det er relevant,
+11. spesifikasjon over faste løpende kostnader,
+12. hvis kjøpesum er fastsatt, totalkostnad som omfatter andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader,
+13. hvis kjøpesum ikke er fastsatt, en samlet oppstilling som omfatter prisantydning, andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader, samt summen av disse beløpene,
+14. hva som er avtalt om oppdragstakerens vederlag og rett til å kreve dekning av utlegg, jf. [§ 6-4 første ledd nr. 4](lov/2007-06-29-73/§6-4/ledd/1/nummer/4) til [6](lov/2007-06-29-73/§6-4/ledd/1/nummer/6),
+15. oppdragstakerens registrerte navn, forretningsadresse og organisasjonsnummer,
+16. oppdragstakerens samarbeid med eller tilknytning til andre foretak med produkter eller tjenester som tilbys partene i forbindelse med oppdraget,
+17. hvem som er ansvarlig megler for oppdraget og
+18. fremgangsmåten ved budgivning og budgivers rettigheter og plikter.
+
+(3) Ved transaksjoner som omfattes av lovens [§ 1-2](lov/2007-06-29-73/§1-2) annet ledd nr. 3, skal den skriftlige oppgaven også inneholde følgende opplysninger:
+
+1. lånevilkårene for nedbetaling av fellesgjeld og månedlige felleskostnader, samt andre faste kostnader som knytter seg til dette,
+2. separat beregning av månedlige felleskostnader etter en eventuell avdragsfri periode,
+3. opplysninger om at kjøper kan holdes ansvarlig for manglende dekning av felleskostnader og usolgte enheter hørende til prosjektet,
+4. opplysninger om borettslaget har sikring mot tap av felleskostnader, jf. [lov 6. juni 2003 nr. 39 om burettslag kapittel 5](lov/2003-06-06-39/kap5) avsnitt VII, og i så fall hvem som er tilbyder, varigheten av avtalen og oppsigelsesvilkårene,
+5. relevante rettigheter og forpliktelser for boligselskapet ifølge lov, forskrift, vedtekter, vedtak og avtaler som har betydning for handelen,
+6. vesentlige opplysninger om boligselskapets budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstaker.
 
 (4) Ved formidling av sameieandeler og eierseksjoner gjelder tredje ledd nr. 1, 5 og 6 tilsvarende.
 
@@ -410,7 +494,12 @@ Oppdragstakeren kan ikke binde oppdragsgiveren overfor en tredjeperson uten sær
 
 ### § 6-10. Oppdragstakerens plikter ved gjennomføring av handelen
 
-(1) Med mindre kjøper og selger ønsker noe annet, skal oppdragstakeren sørge forutferdigelse og tinglysing av skjøte,utferdigelse og eventuell tinglysing av andre dokumenter som har sammenheng med handelen,utferdigelse av konsesjonssøknad og andre søknader, erklæringer e.l. oggjennomføringen av det økonomiske oppgjøret.
+(1) Med mindre kjøper og selger ønsker noe annet, skal oppdragstakeren sørge for
+
+1. utferdigelse og tinglysing av skjøte,
+2. utferdigelse og eventuell tinglysing av andre dokumenter som har sammenheng med handelen,
+3. utferdigelse av konsesjonssøknad og andre søknader, erklæringer e.l. og
+4. gjennomføringen av det økonomiske oppgjøret.
 
 (2) Oppdragstakere som bistår med oppgaver som nevnt i første ledd nr. 1, 2 eller 4 er etter [lov 12. desember 1975 nr. 59 om dokumentavgift](lov/1975-12-12-59), [lov 6. juni 2003 nr. 39 om burettslag](lov/2003-06-06-39) og [lov 7. juni 1935 nr. 2 om tinglysing](lov/1935-06-07-2), ansvarlig for at avgifter, gebyrer og renter knyttet til tinglysing av skjøte og andre dokumenter som har sammenheng med salget, blir betalt.
 
@@ -442,7 +531,10 @@ Foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/
 
 (1) Oppdragstakeren har krav på vederlag dersom handel kommer i stand i oppdragstiden. Dette gjelder selv om det ikke skyldes oppdragstakerens innsats at handel er kommet i stand. Handel er kommet i stand når partene er endelig bundet.
 
-(2) Oppdragstakeren har også krav på vederlag dersom handel er kommet i stand innen tre måneder etter at oppdragstiden er ute med noensom oppdragstakeren har forhandlet med i oppdragstiden, ellersom etter forespørsel har fått opplysninger om eiendommen fra oppdragstakeren i oppdragstiden.
+(2) Oppdragstakeren har også krav på vederlag dersom handel er kommet i stand innen tre måneder etter at oppdragstiden er ute med noen
+
+1. som oppdragstakeren har forhandlet med i oppdragstiden, eller
+2. som etter forespørsel har fått opplysninger om eiendommen fra oppdragstakeren i oppdragstiden.
 
 (3) For kjøpsoppdrag gjelder bestemmelsene i første ledd annet punktum og annet ledd bare dersom det er særskilt avtalt i oppdraget.
 
@@ -472,7 +564,12 @@ Dersom det foreligger en ikke ubetydelig pliktforsømmelse fra oppdragstakerens 
 
 ### § 8-1. Tilsyn med eiendomsmegling
 
-(1) Finanstilsynet fører kontroll og tilsyn etter [finanstilsynsloven](lov/2024-06-21-41) medforetak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1),personer med eiendomsmeglerbrev, jf. [§ 4-2](lov/2007-06-29-73/§4-2),jurister med tillatelse etter [§ 4-3](lov/2007-06-29-73/§4-3) ogadvokater som arbeider som fagansvarlig eller ansvarlig megler for foretak eller advokat som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1).
+(1) Finanstilsynet fører kontroll og tilsyn etter [finanstilsynsloven](lov/2024-06-21-41) med
+
+1. foretak og advokater som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1),
+2. personer med eiendomsmeglerbrev, jf. [§ 4-2](lov/2007-06-29-73/§4-2),
+3. jurister med tillatelse etter [§ 4-3](lov/2007-06-29-73/§4-3) og
+4. advokater som arbeider som fagansvarlig eller ansvarlig megler for foretak eller advokat som driver eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1).
 
 (2) Foretak og personer som nevnt i første ledd plikter å gi Finanstilsynet de opplysninger som måtte bli krevd angående virksomheten. Disse plikter også å fremvise og i tilfelle utlevere til kontroll forretningsbøker og øvrige dokumenter samt utskrifter av den elektronisk lagrede informasjon som angår eiendomsmeglingsvirksomheten.
 
@@ -482,7 +579,16 @@ Dersom det foreligger en ikke ubetydelig pliktforsømmelse fra oppdragstakerens 
 
 ### § 8-2. Tilbakekall av tillatelse for foretak og vedtak om stans av virksomhet i filial
 
-(1) Finanstilsynet kan kalle tilbake et foretaks tillatelse til å drive eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), dersom det finnes utilrådelig å la eiendomsmeglingsvirksomheten drives videre fordi foretaketblir tatt under konkursbehandling,ikke lenger oppfyller kravene i §[§ 2-4](lov/2007-06-29-73/§2-4), [2-5](lov/2007-06-29-73/§2-5), [2-6](lov/2007-06-29-73/§2-6), [2-7](lov/2007-06-29-73/§2-7), [2-8](lov/2007-06-29-73/§2-8) eller [2-9](lov/2007-06-29-73/§2-9) første ledd,ikke lenger har fagansvarlig og ansvarlig megler, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd og [§ 6-2](lov/2007-06-29-73/§6-2),ikke lenger oppfyller vilkår fastsatt for tillatelsen,har latt være å etterkomme pålegg gitt av Finanstilsynet,grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter,har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, ellerikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
+(1) Finanstilsynet kan kalle tilbake et foretaks tillatelse til å drive eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1), dersom det finnes utilrådelig å la eiendomsmeglingsvirksomheten drives videre fordi foretaket
+
+1. blir tatt under konkursbehandling,
+2. ikke lenger oppfyller kravene i §[§ 2-4](lov/2007-06-29-73/§2-4), [2-5](lov/2007-06-29-73/§2-5), [2-6](lov/2007-06-29-73/§2-6), [2-7](lov/2007-06-29-73/§2-7), [2-8](lov/2007-06-29-73/§2-8) eller [2-9](lov/2007-06-29-73/§2-9) første ledd,
+3. ikke lenger har fagansvarlig og ansvarlig megler, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd og [§ 6-2](lov/2007-06-29-73/§6-2),
+4. ikke lenger oppfyller vilkår fastsatt for tillatelsen,
+5. har latt være å etterkomme pålegg gitt av Finanstilsynet,
+6. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter,
+7. har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, eller
+8. ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
 
 (2) Finanstilsynet kan stanse virksomheten i en filial, jf. [§ 2-2](lov/2007-06-29-73/§2-2), dersom filialen ikke lenger oppfyller vilkårene i [§ 2-5](lov/2007-06-29-73/§2-5) annet ledd eller [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd tredje punktum, eller ett eller flere av vilkårene i første ledd nr. 5 til 7 er oppfylt for filialen.
 
@@ -492,7 +598,14 @@ Dersom det foreligger en ikke ubetydelig pliktforsømmelse fra oppdragstakerens 
 
 ### § 8-3. Adgang til å forby advokat å drive eiendomsmegling etter § 2-1 første ledd nr. 2
 
-(1) Finanstilsynet kan forby advokater å drive eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) første ledd nr. 2, dersom det finnes utilrådelig å la eiendomsmeglingsvirksomheten drives videre fordi advokaten:ikke lenger har advokatbevilling,ikke lenger oppfyller kravet i [§ 2-6](lov/2007-06-29-73/§2-6) annet ledd,har latt være å etterkomme pålegg gitt av Finanstilsynet eller Advokattilsynet,grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter,har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, ellerikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
+(1) Finanstilsynet kan forby advokater å drive eiendomsmegling, jf. [§ 2-1](lov/2007-06-29-73/§2-1) første ledd nr. 2, dersom det finnes utilrådelig å la eiendomsmeglingsvirksomheten drives videre fordi advokaten:
+
+1. ikke lenger har advokatbevilling,
+2. ikke lenger oppfyller kravet i [§ 2-6](lov/2007-06-29-73/§2-6) annet ledd,
+3. har latt være å etterkomme pålegg gitt av Finanstilsynet eller Advokattilsynet,
+4. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter,
+5. har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, eller
+6. ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
 
 (2) I tilfelle som nevnt i første ledd kan Finanstilsynet oppnevne en forvalter som selv har tillatelse til å drive eiendomsmegling etter [§ 2-1](lov/2007-06-29-73/§2-1) første ledd til å sluttføre oppdrag etter denne loven. Reglene i [§ 8-2](lov/2007-06-29-73/§8-2) tredje ledd annet og tredje punktum gjelder tilsvarende.
 
@@ -500,25 +613,39 @@ Dersom det foreligger en ikke ubetydelig pliktforsømmelse fra oppdragstakerens 
 
 ### § 8-4. Tilbakekall av eiendomsmeglerbrev
 
-Finanstilsynet kan kalle tilbake eiendomsmeglerbrev, jf. [§ 4-2](lov/2007-06-29-73/§4-2), dersom en innehaver av slikt brev anses uegnet fordi vedkommendeikke lenger oppfyller vilkårene i [§ 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 5,har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, ellergrovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
+Finanstilsynet kan kalle tilbake eiendomsmeglerbrev, jf. [§ 4-2](lov/2007-06-29-73/§4-2), dersom en innehaver av slikt brev anses uegnet fordi vedkommende
+
+1. ikke lenger oppfyller vilkårene i [§ 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 5,
+2. har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, eller
+3. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
 
 > Endret ved [lov 19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).
 
 ### § 8-5. Tilbakekall av tillatelse til jurist
 
-Finanstilsynet kan kalle tilbake tillatelse til jurist, jf. [§ 4-3](lov/2007-06-29-73/§4-3), dersom vedkommende anses uegnet fordi vedkommendeikke lenger oppfyller vilkårene i [§ 4-3](lov/2007-06-29-73/§4-3) første ledd nr. 4,har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, ellergrovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
+Finanstilsynet kan kalle tilbake tillatelse til jurist, jf. [§ 4-3](lov/2007-06-29-73/§4-3), dersom vedkommende anses uegnet fordi vedkommende
+
+1. ikke lenger oppfyller vilkårene i [§ 4-3](lov/2007-06-29-73/§4-3) første ledd nr. 4,
+2. har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, eller
+3. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
 
 > Endret ved [lov 19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).
 
 ### § 8-6. Adgang til å forby advokat å være fagansvarlig og ansvarlig megler
 
-Finanstilsynet skal forby advokater å være fagansvarlig megler, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd, og ansvarlig megler, jf. [§ 6-2](lov/2007-06-29-73/§6-2), dersom denne ikke lenger har advokatbevilling. Finanstilsynet kan også forby advokater å være fagansvarlig megler og ansvarlig megler dersom advokaten anses uegnet fordi vedkommendehar gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, ellergrovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
+Finanstilsynet skal forby advokater å være fagansvarlig megler, jf. [§ 2-9](lov/2007-06-29-73/§2-9) annet ledd, og ansvarlig megler, jf. [§ 6-2](lov/2007-06-29-73/§6-2), dersom denne ikke lenger har advokatbevilling. Finanstilsynet kan også forby advokater å være fagansvarlig megler og ansvarlig megler dersom advokaten anses uegnet fordi vedkommende
+
+1. har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, eller
+2. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
 
 > Endret ved [lov 19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).
 
 ### § 8-6 a. Adgang til å forby person å være eiendomsmeglerfullmektig eller oppgjørsmedhjelper
 
-Finanstilsynet kan forby person å være eiendomsmeglerfullmektig eller oppgjørsmedhjelper dersom personen anses uegnet fordi vedkommendehar gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, ellergrovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
+Finanstilsynet kan forby person å være eiendomsmeglerfullmektig eller oppgjørsmedhjelper dersom personen anses uegnet fordi vedkommende
+
+1. har gjort seg skyldig i straffbar handling og dette må antas å svekke den tillit som er nødvendig for yrkesutøvelsen, eller
+2. grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
 
 > Tilføyd ved lov [10 april 2025 nr. 10](lov/2025-04-10-10) (i kraft 1 juli 2025 iflg. [res. 10 juni 2025 nr. 987](forskrift/2025-06-10-987)).
 
@@ -530,7 +657,13 @@ Dersom foretak med tillatelse til å drive eiendomsmegling, jf. [§ 2-1](lov/200
 
 ### § 8-8. Behandling av tvister i klageorgan
 
-Kongen kan godkjenne klageorgan for behandling av tvister mellom foretak eller advokat som driver eiendomsmegling og selger, kjøper eller øvrige interessenter til objekt som nevnt i [§ 1-2](lov/2007-06-29-73/§1-2), når organet er opprettet ved avtale mellom én eller flere organisasjoner som representerer foretak eller advokater som driver eiendomsmegling på den ene siden, og på den annen side én eller flere organisasjoner som representerer aktører i eiendomsmarkedet. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om:hvem som kan bringe saker inn for klageorganet,vilkår for behandling av saker hos klageorganet,behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser,forholdet til annen lovgivning om utenrettslig tvisteløsning, ogopplysningsplikt overfor foretakets og advokatens kunder og øvrige interessenter.
+Kongen kan godkjenne klageorgan for behandling av tvister mellom foretak eller advokat som driver eiendomsmegling og selger, kjøper eller øvrige interessenter til objekt som nevnt i [§ 1-2](lov/2007-06-29-73/§1-2), når organet er opprettet ved avtale mellom én eller flere organisasjoner som representerer foretak eller advokater som driver eiendomsmegling på den ene siden, og på den annen side én eller flere organisasjoner som representerer aktører i eiendomsmarkedet. Kongen kan i forskrift gi bestemmelser om klageorganets virksomhet, herunder om:
+
+1. hvem som kan bringe saker inn for klageorganet,
+2. vilkår for behandling av saker hos klageorganet,
+3. behandlingens virkning mellom partene, herunder forholdet til alminnelige domstoler, adgangen til å bringe saker direkte inn for tingretten og tvangskraft og rettskraft for klageorganets avgjørelser,
+4. forholdet til annen lovgivning om utenrettslig tvisteløsning, og
+5. opplysningsplikt overfor foretakets og advokatens kunder og øvrige interessenter.
 
 > Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [17 juni 2016 nr. 29](lov/2016-06-17-29) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 703](forskrift/2016-06-17-703)).
 
@@ -568,7 +701,9 @@ Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av 
 
 (3) Forskrifter gitt i medhold av [lov 16. juni 1989 nr. 53 om eiendomsmegling](lov/1989-06-16-53) gjelder inntil noe annet er bestemt også etter at loven her har trådt i kraft.
 
-(4) Fra den tid loven her trer i kraft, gjøres følgende endring i annen lov:[Lov 16. juni 1989 nr. 53 om eiendomsmegling](lov/1989-06-16-53) oppheves.
+(4) Fra den tid loven her trer i kraft, gjøres følgende endring i annen lov:
+
+[Lov 16. juni 1989 nr. 53 om eiendomsmegling](lov/1989-06-16-53) oppheves.
 
 > Endret ved [lov 15 des 2017 nr. 106](lov/2017-12-15-106) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2042](forskrift/2017-12-15-2042), var tidligere del II).
 

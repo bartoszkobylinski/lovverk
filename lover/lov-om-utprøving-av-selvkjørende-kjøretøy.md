@@ -15,7 +15,7 @@ xml_hash: "41c48b5432835e238da6ab63db89a16b513c24d54c8bd589fb44c93c899d1318"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,15 @@ Den som forsettlig eller uaktsomt overtrer vilkår eller regler gitt i eller i m
 
 ### § 19. Forskriftsmyndighet
 
-Departementet kan i forskrift gi nærmere bestemmelser om utprøving av selvkjørende kjøretøy, herunder om:tillatelse til utprøving, herunder hvem som kan gi slik tillatelse,vilkår for utprøving,midlertidig stans og tilbakekall av tillatelse,krav til den som skal være ansvarlig for utprøvingen,behandling av personopplysninger,tilsyn, herunder om tilsynsmyndighet oggebyr for behandling av søknad om tillatelse og tilsyn.
+Departementet kan i forskrift gi nærmere bestemmelser om utprøving av selvkjørende kjøretøy, herunder om:
+
+1. tillatelse til utprøving, herunder hvem som kan gi slik tillatelse,
+2. vilkår for utprøving,
+3. midlertidig stans og tilbakekall av tillatelse,
+4. krav til den som skal være ansvarlig for utprøvingen,
+5. behandling av personopplysninger,
+6. tilsyn, herunder om tilsynsmyndighet og
+7. gebyr for behandling av søknad om tillatelse og tilsyn.
 
 Departementet kan videre gi forskrift om lovens anvendelse på Svalbard, herunder fastsette særlige regler av hensyn til stedlige forhold.
 

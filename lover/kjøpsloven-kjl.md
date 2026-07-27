@@ -15,7 +15,7 @@ xml_hash: "4a55ab7c8b71cbd9efd5b34a9d8f1362554efb8083d37353d698d04b6d16b23c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,12 @@ Er en ting kjøpt og levert på prøve eller for øvrig med rett til tilbakeleve
 
 (1) Tingen skal være i samsvar med de krav til art, mengde, kvalitet, andre egenskaper og innpakning som følger av avtalen.
 
-(2) Dersom annet ikke følger av avtalen, skal tingen:passe for de formål som tilsvarende ting vanligvis brukes til;passe for et bestemt formål som selgeren var eller måtte være kjent med da kjøpet ble inngått, unntatt når forholdene viser at kjøperen for så vidt ikke bygde på selgerens sakkunnskap og vurdering eller ikke hadde rimelig grunn til å gjøre det;ha egenskaper som selger har vist til ved å legge fram prøve eller modell;være pakket på vanlig eller annen forsvarlig måte som trengs for å bevare og beskytte tingen.
+(2) Dersom annet ikke følger av avtalen, skal tingen:
+
+1. passe for de formål som tilsvarende ting vanligvis brukes til;
+2. passe for et bestemt formål som selgeren var eller måtte være kjent med da kjøpet ble inngått, unntatt når forholdene viser at kjøperen for så vidt ikke bygde på selgerens sakkunnskap og vurdering eller ikke hadde rimelig grunn til å gjøre det;
+3. ha egenskaper som selger har vist til ved å legge fram prøve eller modell;
+4. være pakket på vanlig eller annen forsvarlig måte som trengs for å bevare og beskytte tingen.
 
 (3) Tingen har mangel dersom den ikke er i samsvar med kravene i paragrafen her.
 
@@ -154,7 +159,11 @@ Er en ting kjøpt og levert på prøve eller for øvrig med rett til tilbakeleve
 
 ### § 19. Ting solgt «som den er». Auksjonssalg.
 
-(1) Selv om tingen er solgt «som den er» eller med liknende alminnelig forbehold, foreligger mangel nårtingen ikke svarer til opplysninger som selgeren har gitt om tingen, dens egenskaper eller bruk og som kan antas å ha innvirket på kjøpet,selgeren ved kjøpet har forsømt å gi opplysning om vesentlige forhold ved tingen eller dens bruk som han måtte kjenne til og som kjøperen hadde grunn til å rekne med å få, såframt unnlatelsen kan antas å ha innvirket på kjøpet, ellertingen er i vesentlig dårligere stand enn kjøperen hadde grunn til å rekne med etter kjøpesummens størrelse og forholdene ellers.
+(1) Selv om tingen er solgt «som den er» eller med liknende alminnelig forbehold, foreligger mangel når
+
+1. tingen ikke svarer til opplysninger som selgeren har gitt om tingen, dens egenskaper eller bruk og som kan antas å ha innvirket på kjøpet,
+2. selgeren ved kjøpet har forsømt å gi opplysning om vesentlige forhold ved tingen eller dens bruk som han måtte kjenne til og som kjøperen hadde grunn til å rekne med å få, såframt unnlatelsen kan antas å ha innvirket på kjøpet, eller
+3. tingen er i vesentlig dårligere stand enn kjøperen hadde grunn til å rekne med etter kjøpesummens størrelse og forholdene ellers.
 
 (2) Selges brukte ting på auksjon gjelder reglene i første ledd tilsvarende så langt de passer.
 
@@ -308,7 +317,10 @@ Har tingen mangel, kan kjøperen kreve prisavslag slik at forholdet mellom nedsa
 
 (2) Reglene i første ledd omfatter ikke slikt indirekte tap som nevnt i [§ 67](lov/1988-05-13-27/§67) (2).
 
-(3) Kjøperen kan i alle høve kreve erstatning dersommangelen eller tapet skyldes feil eller forsømmelse fra selgers side ellertingen allerede på avtaletiden avvek fra det som er tilsikret av selgeren.
+(3) Kjøperen kan i alle høve kreve erstatning dersom
+
+1. mangelen eller tapet skyldes feil eller forsømmelse fra selgers side eller
+2. tingen allerede på avtaletiden avvek fra det som er tilsikret av selgeren.
 
 > Endret ved [lov 28 feb 2014 nr. 2](lov/2014-02-28-2) (ikr. 1 nov 2014 iflg. [res. 29 aug 2014 nr. 1119](forskrift/2014-08-29-1119)).
 
@@ -390,7 +402,10 @@ Har kjøperen fått rekning eller nota, er han bundet av den pris som er oppfør
 
 ### § 50
 
-Kjøperen skalyte slik medvirkning som det er rimelig å vente av ham for at selgeren skal kunne oppfylle kjøpet, ogoverta tingen ved å hente eller motta den.
+Kjøperen skal
+
+1. yte slik medvirkning som det er rimelig å vente av ham for at selgeren skal kunne oppfylle kjøpet, og
+2. overta tingen ved å hente eller motta den.
 
 ## Kapittel VII. Selgerens krav ved kontraktbrudd fra kjøperens side.
 
@@ -430,7 +445,10 @@ Om selgerens rett til å kreve oppfyllelse av kjøperens plikt til å medvirke t
 
 (1) Selgeren kan heve kjøpet når kjøperen ikke medvirker til kjøpet, dersom kontraktbruddet er vesentlig. Selgeren kan på samme vilkår heve kjøpet når kjøperen ikke overtar tingen etter [§ 50](lov/1988-05-13-27/§50) bokstav (b) og selgeren har en særlig interesse i å bli av med den.
 
-(2) Kjøpet kan også heves når kjøperen innen en rimelig tilleggsfrist som selgeren har fastsatt for oppfyllelse,ikke medvirker til kjøpet, ellerikke overtar tingen i tilfelle hvor selgeren har en særlig interesse i å bli av med den.
+(2) Kjøpet kan også heves når kjøperen innen en rimelig tilleggsfrist som selgeren har fastsatt for oppfyllelse,
+
+1. ikke medvirker til kjøpet, eller
+2. ikke overtar tingen i tilfelle hvor selgeren har en særlig interesse i å bli av med den.
 
 (3) Mens tilleggsfristen løper kan selgeren ikke heve, med mindre kjøperen har sagt at han ikke vil oppfylle innen fristen.
 
@@ -444,7 +462,10 @@ Om selgerens rett til å kreve oppfyllelse av kjøperens plikt til å medvirke t
 
 (1) Selgeren kan kreve erstatning for det tap han lider som følge av forsinkelse med betalingen fra kjøperens side. Dette gjelder likevel ikke så langt kjøperen godtgjør at forsinkelsen skyldes stans i samferdselen eller betalingsformidlingen eller annen hindring utenfor kjøperens kontroll og som han ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene ellers i [§ 27](lov/1988-05-13-27/§27) (2) og (3) gjelder tilsvarende.
 
-(2) Selgeren kan kreve erstatning etter reglene i [§ 27](lov/1988-05-13-27/§27) for det tap han lider som følge av atkjøperen ikke medvirker ved oppfyllelsen av kjøpet, ellerkjøperen ikke i rett tid overtar tingen etter [§ 50](lov/1988-05-13-27/§50) bokstav (b), i tilfelle hvor selgeren har en særlig interesse i å bli av med tingen.
+(2) Selgeren kan kreve erstatning etter reglene i [§ 27](lov/1988-05-13-27/§27) for det tap han lider som følge av at
+
+1. kjøperen ikke medvirker ved oppfyllelsen av kjøpet, eller
+2. kjøperen ikke i rett tid overtar tingen etter [§ 50](lov/1988-05-13-27/§50) bokstav (b), i tilfelle hvor selgeren har en særlig interesse i å bli av med tingen.
 
 ### § 58. Opplysningsplikt om hindring.
 
@@ -452,7 +473,10 @@ Hindres kjøperen i å oppfylle kjøpet til rett tid, skal han gi selgeren meldi
 
 ### § 59. Selgerens frist for å heve.
 
-Er kjøpesummen betalt, kan selgeren ikke heve kjøpet med mindre han gir kjøperen melding om det:ved forsinkelse, før han fikk vite om oppfyllelsen fra kjøperens side, ellerved annet kontraktbrudd, innen rimelig tid etter at han fikk eller burde ha fått kjennskap til kontraktbruddet, eller etter at rimelig tilleggsfrist som følger av [§ 55](lov/1988-05-13-27/§55) (2) er gått ut.
+Er kjøpesummen betalt, kan selgeren ikke heve kjøpet med mindre han gir kjøperen melding om det:
+
+1. ved forsinkelse, før han fikk vite om oppfyllelsen fra kjøperens side, eller
+2. ved annet kontraktbrudd, innen rimelig tid etter at han fikk eller burde ha fått kjennskap til kontraktbruddet, eller etter at rimelig tilleggsfrist som følger av [§ 55](lov/1988-05-13-27/§55) (2) er gått ut.
 
 ### § 60. Spesifikasjon.
 
@@ -504,7 +528,11 @@ Kommer en av partene under insolvensbehandling, gjelder bestemmelsene i [dekning
 
 ### § 66. Tap av krav på heving og omlevering.
 
-(1) Kjøperen kan heve kjøpet eller kreve omlevering bare dersom han leverer tingen tilbake i vesentlig samme stand og mengde som han mottok den. Han taper likevel ikke retten til å heve eller kreve omlevering dersomårsaken til at det er umulig å tilbakelevere tingen i vesentlig samme stand og mengde, er tingens egen beskaffenhet eller annet forhold som ikke beror på kjøperen;tingen helt eller delvis er gått til grunne eller forringet som følge av handling som trengs for å undersøke om tingen har mangel; ellertingen helt eller delvis er solgt videre i vanlig omsetning eller er forbrukt eller forandret av kjøperen under forutsatt bruk før han oppdaget eller burde ha oppdaget den mangel som er årsak til avvisingen.
+(1) Kjøperen kan heve kjøpet eller kreve omlevering bare dersom han leverer tingen tilbake i vesentlig samme stand og mengde som han mottok den. Han taper likevel ikke retten til å heve eller kreve omlevering dersom
+
+1. årsaken til at det er umulig å tilbakelevere tingen i vesentlig samme stand og mengde, er tingens egen beskaffenhet eller annet forhold som ikke beror på kjøperen;
+2. tingen helt eller delvis er gått til grunne eller forringet som følge av handling som trengs for å undersøke om tingen har mangel; eller
+3. tingen helt eller delvis er solgt videre i vanlig omsetning eller er forbrukt eller forandret av kjøperen under forutsatt bruk før han oppdaget eller burde ha oppdaget den mangel som er årsak til avvisingen.
 
 (2) Kjøperen taper heller ikke retten til å heve kjøpet eller kreve omlevering dersom han ved tilbakeleveringen erstatter den verdireduksjon tingen har hatt.
 
@@ -518,9 +546,18 @@ Kommer en av partene under insolvensbehandling, gjelder bestemmelsene i [dekning
 
 (1) Erstatning for kontraktbrudd fra en parts side skal svare til det tap, herunder utlegg, prisforskjell og tapt fortjeneste, som den annen part er påført ved kontraktbruddet. Dette gjelder likevel bare tap som en med rimelighet kunne ha forutsett som en mulig følge av kontraktbruddet.
 
-(2) Som indirekte tap reknes:tap som følge av minsket eller bortfalt produksjon eller omsetning (driftsavbrudd)tap som følge av at tingen ikke kan nyttiggjøres som forutsatt (avsavn)tapt fortjeneste som følge av at en kontrakt med tredjemann faller bort eller ikke blir riktig oppfylt, men bare for så vidt kjøperen uten rimelig grunn lar være å foreta dekningskjøp eller treffe andre tiltak for å unngå eller minske tapettap som følge av skade på annet enn salgstingen selv og gjenstander som den brukes til framstilling av eller som har nær og direkte sammenheng med dens forutsatte bruk.
+(2) Som indirekte tap reknes:
 
-(3) Reglene i andre ledd gjelder ikkekostnader ved vanlige tiltak som kompenserer at salgstingen er forsinket eller har mangler,kostnader ved tiltak som begrenser annet tap enn det som andre ledd omfatter, ellererstatning utbetalt til en forbrukerkjøper etter reglene i [forbrukerkjøpsloven § 34](lov/2002-06-21-34/§34).
+1. tap som følge av minsket eller bortfalt produksjon eller omsetning (driftsavbrudd)
+2. tap som følge av at tingen ikke kan nyttiggjøres som forutsatt (avsavn)
+3. tapt fortjeneste som følge av at en kontrakt med tredjemann faller bort eller ikke blir riktig oppfylt, men bare for så vidt kjøperen uten rimelig grunn lar være å foreta dekningskjøp eller treffe andre tiltak for å unngå eller minske tapet
+4. tap som følge av skade på annet enn salgstingen selv og gjenstander som den brukes til framstilling av eller som har nær og direkte sammenheng med dens forutsatte bruk.
+
+(3) Reglene i andre ledd gjelder ikke
+
+1. kostnader ved vanlige tiltak som kompenserer at salgstingen er forsinket eller har mangler,
+2. kostnader ved tiltak som begrenser annet tap enn det som andre ledd omfatter, eller
+3. erstatning utbetalt til en forbrukerkjøper etter reglene i [forbrukerkjøpsloven § 34](lov/2002-06-21-34/§34).
 
 > Endret ved [lov 21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002).
 
@@ -682,7 +719,10 @@ Er blitt enige om følgende:
 
 ### Art 1
 
-(1) Konvensjonen her skal gjelde for avtaler om kjøp av ting mellom parter som har sitt forretningsted i ulike stater:når disse stater er tilsluttet konvensjonen; ellernår det følger av de internasjonale-privatrettslige regler at loven i en konvensjonstat skal gjelde for kjøpet.
+(1) Konvensjonen her skal gjelde for avtaler om kjøp av ting mellom parter som har sitt forretningsted i ulike stater:
+
+1. når disse stater er tilsluttet konvensjonen; eller
+2. når det følger av de internasjonale-privatrettslige regler at loven i en konvensjonstat skal gjelde for kjøpet.
 
 (2) Det har ingen betydning at partene har sitt forretningsted i ulike stater dersom dette ikke framgår av avtalen, tidligere forretningsforhold mellom partene eller av opplysninger de har gitt før eller på den tid da avtalen ble sluttet.
 
@@ -690,7 +730,14 @@ Er blitt enige om følgende:
 
 ### Art 2
 
-Konvensjonen gjelder ikke for:kjøp av ting til personlig bruk for kjøperen, hans familie eller husstand, med mindre selgeren før eller på avtaletiden verken visste eller burde ha visst at tingen ble kjøpt til noe slikt formål;salg på auksjon;salg ved tvangsfullbyrding eller etter lovpåbud;kjøp av aksjer, verdipapirer, omsetningspapirer eller penger;kjøp av skip, fartøy, luftputefartøy eller luftfartøy;kjøp av elektrisk kraft.
+Konvensjonen gjelder ikke for:
+
+1. kjøp av ting til personlig bruk for kjøperen, hans familie eller husstand, med mindre selgeren før eller på avtaletiden verken visste eller burde ha visst at tingen ble kjøpt til noe slikt formål;
+2. salg på auksjon;
+3. salg ved tvangsfullbyrding eller etter lovpåbud;
+4. kjøp av aksjer, verdipapirer, omsetningspapirer eller penger;
+5. kjøp av skip, fartøy, luftputefartøy eller luftfartøy;
+6. kjøp av elektrisk kraft.
 
 ### Art 3
 
@@ -700,7 +747,10 @@ Konvensjonen gjelder ikke for:kjøp av ting til personlig bruk for kjøperen, ha
 
 ### Art 4
 
-Konvensjonen regulerer bare inngåelsen av kjøpavtalen og de rettigheter og plikter for kjøper og selger som oppstår av en slik kontrakt. Særlig gjelder den ikke, med mindre annet er uttrykkelig bestemt i konvensjonen:gyldigheten av avtalen eller av noen av dens bestemmelser eller gyldigheten av sedvane;den virkning som avtalen kan ha for eiendomsretten til salgstingen.
+Konvensjonen regulerer bare inngåelsen av kjøpavtalen og de rettigheter og plikter for kjøper og selger som oppstår av en slik kontrakt. Særlig gjelder den ikke, med mindre annet er uttrykkelig bestemt i konvensjonen:
+
+1. gyldigheten av avtalen eller av noen av dens bestemmelser eller gyldigheten av sedvane;
+2. den virkning som avtalen kan ha for eiendomsretten til salgstingen.
 
 ### Art 5
 
@@ -770,7 +820,10 @@ I konvensjonen omfatter uttrykket «skriftlig» også telegram og telex.
 
 (1) Inntil avtale er inngått kan et tilbud kalles tilbake dersom tilbakekallet kommer fram til mottakeren før han har sendt en aksept.
 
-(2) Et tilbud kan likevel ikke kalles tilbake:dersom det angir, enten ved å sette en bestemt akseptfrist eller på annen måte, at det er ugjenkallelig; ellerdersom det var rimelig for mottakeren å rekne med at tilbudet var ugjenkallelig og han har handlet i tillit til det (innrettet seg etter tilbudet).
+(2) Et tilbud kan likevel ikke kalles tilbake:
+
+1. dersom det angir, enten ved å sette en bestemt akseptfrist eller på annen måte, at det er ugjenkallelig; eller
+2. dersom det var rimelig for mottakeren å rekne med at tilbudet var ugjenkallelig og han har handlet i tillit til det (innrettet seg etter tilbudet).
 
 ### Art 17
 
@@ -852,7 +905,11 @@ Selgeren skal levere salgstingen, overlevere tilhørende dokumenter og overføre
 
 ### Art 31
 
-Dersom selgeren ikke skal levere salgstingen på et annet bestemt sted, består hans leveringsplikt i:når kjøpavtalen innebærer transport av tingen – å overgi tingen til den første fraktfører for framsending til kjøperen;når, i tilfeller som ikke går inn under foregående underparagraf, avtalen gjelder en bestemt ting eller en artbestemt vare som skal tas fra et bestemt parti eller som skal tilvirkes eller framstilles, og partene ved avtaleslutningen visste at tingen var på eller skulle tilvirkes eller framstilles på et bestemt sted – å stille tingen til kjøperens rådighet på dette sted;i andre tilfeller – å stille tingen til kjøperens rådighet på det sted der selgeren hadde sitt forretningssted ved avtaleslutningen.
+Dersom selgeren ikke skal levere salgstingen på et annet bestemt sted, består hans leveringsplikt i:
+
+1. når kjøpavtalen innebærer transport av tingen – å overgi tingen til den første fraktfører for framsending til kjøperen;
+2. når, i tilfeller som ikke går inn under foregående underparagraf, avtalen gjelder en bestemt ting eller en artbestemt vare som skal tas fra et bestemt parti eller som skal tilvirkes eller framstilles, og partene ved avtaleslutningen visste at tingen var på eller skulle tilvirkes eller framstilles på et bestemt sted – å stille tingen til kjøperens rådighet på dette sted;
+3. i andre tilfeller – å stille tingen til kjøperens rådighet på det sted der selgeren hadde sitt forretningssted ved avtaleslutningen.
 
 ### Art 32
 
@@ -864,7 +921,11 @@ Dersom selgeren ikke skal levere salgstingen på et annet bestemt sted, består 
 
 ### Art 33
 
-Selgeren skal levere salgstingen:dersom en dag er fastsatt i eller kan utledes fra avtalen, på denne dag;dersom et tidsrom er fastsatt i eller kan utledes fra avtalen, når som helst i dette tidsrom om det ikke følger av tilhøva at det er opp til kjøperen å velge dagen; elleri alle andre tilfeller, innen rimelig tid etter avtaleslutningen.
+Selgeren skal levere salgstingen:
+
+1. dersom en dag er fastsatt i eller kan utledes fra avtalen, på denne dag;
+2. dersom et tidsrom er fastsatt i eller kan utledes fra avtalen, når som helst i dette tidsrom om det ikke følger av tilhøva at det er opp til kjøperen å velge dagen; eller
+3. i alle andre tilfeller, innen rimelig tid etter avtaleslutningen.
 
 ### Art 34
 
@@ -876,7 +937,12 @@ Dersom selgeren plikter å overlevere dokumenter vedrørende salgstingen, skal h
 
 (1) Selgeren skal levere ting i den mengde og av den godhet og type som avtalen krever, og i slik pakning eller beholder som avtalen krever.
 
-(2) Har ikke partene avtalt noe annet, er salgstingen bare avtalemessig når den:passer til de formål som ting av samme type vanligvis brukes til;passer til et bestemt formål som uttrykkelig eller underforstått er gjort kjent for selgeren ved avtaleslutningen, unntatt hvor forholdene viser at kjøperen ikke holdt seg til selgerens sakkunnskap og omdømme, eller hvor det etter tilhøva var urimelig for ham å gjøre det;har de egenskaper som ting selgeren har holdt fram for kjøperen som prøve eller modell;er pakket eller emballert på den måten som er vanlig for slike ting, eller hvor det ikke er noen slik måte, på en måte som er egnet til å bevare og beskytte tingen.
+(2) Har ikke partene avtalt noe annet, er salgstingen bare avtalemessig når den:
+
+1. passer til de formål som ting av samme type vanligvis brukes til;
+2. passer til et bestemt formål som uttrykkelig eller underforstått er gjort kjent for selgeren ved avtaleslutningen, unntatt hvor forholdene viser at kjøperen ikke holdt seg til selgerens sakkunnskap og omdømme, eller hvor det etter tilhøva var urimelig for ham å gjøre det;
+3. har de egenskaper som ting selgeren har holdt fram for kjøperen som prøve eller modell;
+4. er pakket eller emballert på den måten som er vanlig for slike ting, eller hvor det ikke er noen slik måte, på en måte som er egnet til å bevare og beskytte tingen.
 
 (3) Selgeren er ikke ansvarlig etter underparagrafene (a) til (d) i foregående paragraf for noen mangel ved salgstingen som kjøperen ved avtaleslutningen kjente eller ikke kunne ha vært ukjent med.
 
@@ -914,9 +980,15 @@ Selgeren skal levere ting som er fri for enhver rett for eller krav fra en tredj
 
 ### Art 42
 
-(1) Selgeren skal levere ting som er fri for enhver rett for eller krav fra en tredje person grunnet på patentrett eller annen immateriell rett og som selgeren ved avtaleslutningen kjente eller ikke kunne ha vært ukjent med, såframt retten eller kravet bygger på patentrett eller annen immateriell rett etter loven i den stat:der tingen skal videreselges eller brukes, såframt partene ved avtaleslutningen reknet med at tingen ville bli videresolgt eller brukt i denne stat; elleri alle andre tilfeller, der kjøperen har sitt forretningsted.
+(1) Selgeren skal levere ting som er fri for enhver rett for eller krav fra en tredje person grunnet på patentrett eller annen immateriell rett og som selgeren ved avtaleslutningen kjente eller ikke kunne ha vært ukjent med, såframt retten eller kravet bygger på patentrett eller annen immateriell rett etter loven i den stat:
 
-(2) Selgerens plikter etter foregående paragraf gjelder ikke i tilfeller hvor:kjøperen ved avtaleslutningen kjente eller ikke kunne ha vært ukjent med retten eller kravet; ellerretten eller kravet følger av at selgeren har fulgt tekniske tegninger, beskrivelser, formler eller andre slike spesifikasjoner som kjøper har skaffet til veie.
+1. der tingen skal videreselges eller brukes, såframt partene ved avtaleslutningen reknet med at tingen ville bli videresolgt eller brukt i denne stat; eller
+2. i alle andre tilfeller, der kjøperen har sitt forretningsted.
+
+(2) Selgerens plikter etter foregående paragraf gjelder ikke i tilfeller hvor:
+
+1. kjøperen ved avtaleslutningen kjente eller ikke kunne ha vært ukjent med retten eller kravet; eller
+2. retten eller kravet følger av at selgeren har fulgt tekniske tegninger, beskrivelser, formler eller andre slike spesifikasjoner som kjøper har skaffet til veie.
 
 ### Art 43
 
@@ -932,7 +1004,10 @@ Uansett reglene i artikkel 39 paragraf (1) og artikkel 43 paragraf (1) kan kjøp
 
 ### Art 45
 
-(1) Dersom selgere ikke oppfyller en av sine plikter etter kjøpavtalen eller konvensjonen, kan kjøperen:utøve de rettigheter som er fastsatt i artikkelen 46 til 52;kreve erstatning som fastsatt i artiklene 74 til 77.
+(1) Dersom selgere ikke oppfyller en av sine plikter etter kjøpavtalen eller konvensjonen, kan kjøperen:
+
+1. utøve de rettigheter som er fastsatt i artikkelen 46 til 52;
+2. kreve erstatning som fastsatt i artiklene 74 til 77.
 
 (2) Kjøperen taper ikke noen rett han måtte ha til å kreve erstatning, ved at han gjør andre beføyelser gjeldende.
 
@@ -964,9 +1039,19 @@ Uansett reglene i artikkel 39 paragraf (1) og artikkel 43 paragraf (1) kan kjøp
 
 ### Art 49
 
-(1) Kjøperen kan erklære avtalen hevet:dersom selgerens manglende oppfyllelse av en plikt etter avtalen eller konvensjonen her utgjør vesentlig kontraktbrudd; ellerved unnlatt levering, dersom selgeren ikke leverer salgstingen innen utløpet av tilleggfrist som kjøperen har fastsatt i samsvar med artikkel 47 paragraf (1) eller erklærer at han ikke kommer til å levere innen utløpet av slik fastsatt frist.
+(1) Kjøperen kan erklære avtalen hevet:
 
-(2) Men når selgeren har levert salgstingen, taper kjøperen retten til å heve avtalen, med mindre han gjør dette:ved forsinket levering, innen rimelig tid etter at han ble merksom på at levering har funnet sted;ved annet kontraktbrudd enn forsinkelse, innen rimelig tid:etter at han fikk vite eller burde ha fått vite om kontraktbruddet;etter utløpet av tilleggfrist fastsatt av kjøperen i samsvar med artikkel 47 paragraf (1), eller etter at selgeren har erklært at han ikke vil oppfylle innen en slik tilleggfrist; elleretter utløpet av tilleggfrist angitt av selgeren i samsvar med artikkel 48 paragraf (2), eller etter at kjøperen har erklært at han ikke vil godta oppfyllelse.
+1. dersom selgerens manglende oppfyllelse av en plikt etter avtalen eller konvensjonen her utgjør vesentlig kontraktbrudd; eller
+2. ved unnlatt levering, dersom selgeren ikke leverer salgstingen innen utløpet av tilleggfrist som kjøperen har fastsatt i samsvar med artikkel 47 paragraf (1) eller erklærer at han ikke kommer til å levere innen utløpet av slik fastsatt frist.
+
+(2) Men når selgeren har levert salgstingen, taper kjøperen retten til å heve avtalen, med mindre han gjør dette:
+
+1. ved forsinket levering, innen rimelig tid etter at han ble merksom på at levering har funnet sted;
+2. ved annet kontraktbrudd enn forsinkelse, innen rimelig tid:
+
+   1. etter at han fikk vite eller burde ha fått vite om kontraktbruddet;
+   2. etter utløpet av tilleggfrist fastsatt av kjøperen i samsvar med artikkel 47 paragraf (1), eller etter at selgeren har erklært at han ikke vil oppfylle innen en slik tilleggfrist; eller
+   3. etter utløpet av tilleggfrist angitt av selgeren i samsvar med artikkel 48 paragraf (2), eller etter at kjøperen har erklært at han ikke vil godta oppfyllelse.
 
 ### Art 50
 
@@ -1006,7 +1091,10 @@ Når prisen er fastsatt etter vekten av salgstingen, bestemmes den i tvilstilfel
 
 ### Art 57
 
-(1) Dersom kjøperen ikke plikter å betale kjøpesummen på noe annet bestemt sted, skal han betale den til selgeren:på selgerens forretningsted; ellerom betaling skal skje mot overlevering av salgstingen eller dokumenter, på det sted der overleveringen finner sted.
+(1) Dersom kjøperen ikke plikter å betale kjøpesummen på noe annet bestemt sted, skal han betale den til selgeren:
+
+1. på selgerens forretningsted; eller
+2. om betaling skal skje mot overlevering av salgstingen eller dokumenter, på det sted der overleveringen finner sted.
 
 (2) Selgeren må bære økte kostnader i forbindelse med betalingen som følge av at hans forretningsted er flyttet etter avtaleslutningen.
 
@@ -1026,13 +1114,19 @@ Kjøperen skal betale kjøpesummen på den dag som er fastsatt i eller som kan u
 
 ### Art 60
 
-Kjøperens plikt til å motta levering består i:å gjøre alle handlinger som med rimelighet kan ventes av ham for å sette selgeren i stand til å foreta levering; ogå overta salgstingen.
+Kjøperens plikt til å motta levering består i:
+
+1. å gjøre alle handlinger som med rimelighet kan ventes av ham for å sette selgeren i stand til å foreta levering; og
+2. å overta salgstingen.
 
 ### Avsnitt III. Beføyelser ved kjøperens kontraktbrudd.
 
 ### Art 61
 
-(1) Dersom kjøperen ikke oppfyller en av sine plikter etter avtalen eller konvensjonen, kan selgeren:utøve de rettigheter som er fastsatt i artiklene 62 til 65; ellerkreve erstatning som fastsatt i artiklene 74 til 77.
+(1) Dersom kjøperen ikke oppfyller en av sine plikter etter avtalen eller konvensjonen, kan selgeren:
+
+1. utøve de rettigheter som er fastsatt i artiklene 62 til 65; eller
+2. kreve erstatning som fastsatt i artiklene 74 til 77.
 
 (2) Selgeren taper ikke noen rett han måtte ha til å kreve erstatning ved at han gjør andre beføyelser gjeldende.
 
@@ -1050,9 +1144,18 @@ Selgeren kan kreve at kjøperen betaler kjøpesummen, mottar levering eller oppf
 
 ### Art 64
 
-(1) Selgeren kan erklære kontrakten hevet:dersom kjøperens manglende oppfyllelse av en plikt etter avtalen eller konvensjonen utgjør vesentlig kontraktbrudd; ellerdersom kjøperen ikke innen tilleggfrist som selgeren har fastsatt i samsvar med artikkel 63 paragraf (1), oppfyller sin plikt til å betale kjøpesummen eller motta levering av salgstingen, eller dersom han erklærer at han ikke vil gjøre dette innen slik fastsatt frist.
+(1) Selgeren kan erklære kontrakten hevet:
 
-(2) Men i tilfelle hvor kjøperen har betalt kjøpesummen, taper selgeren retten til å erklære avtalen hevet om han ikke gjør dette:ved forsinket oppfyllelse fra kjøperen, før selgeren er blitt merksom på at oppfyllelse har skjedd; ellerved annet kontraktbrudd enn forsinkelse, innen en rimelig tid:etter at selgeren fikk vite eller burde ha fått vite om kontraktbruddet; elleretter utløpet av en tilleggfrist fastsatt av selgeren i samsvar med artikkel 63 paragraf (1), eller etter at kjøperen har erklært at han ikke vil oppfylle sine plikter innen slik tilleggfrist.
+1. dersom kjøperens manglende oppfyllelse av en plikt etter avtalen eller konvensjonen utgjør vesentlig kontraktbrudd; eller
+2. dersom kjøperen ikke innen tilleggfrist som selgeren har fastsatt i samsvar med artikkel 63 paragraf (1), oppfyller sin plikt til å betale kjøpesummen eller motta levering av salgstingen, eller dersom han erklærer at han ikke vil gjøre dette innen slik fastsatt frist.
+
+(2) Men i tilfelle hvor kjøperen har betalt kjøpesummen, taper selgeren retten til å erklære avtalen hevet om han ikke gjør dette:
+
+1. ved forsinket oppfyllelse fra kjøperen, før selgeren er blitt merksom på at oppfyllelse har skjedd; eller
+2. ved annet kontraktbrudd enn forsinkelse, innen en rimelig tid:
+
+   1. etter at selgeren fikk vite eller burde ha fått vite om kontraktbruddet; eller
+   2. etter utløpet av en tilleggfrist fastsatt av selgeren i samsvar med artikkel 63 paragraf (1), eller etter at kjøperen har erklært at han ikke vil oppfylle sine plikter innen slik tilleggfrist.
 
 ### Art 65
 
@@ -1094,7 +1197,10 @@ Dersom det foreligger vesentlig kontraktbrudd fra selgerens side, innskrenker ik
 
 ### Art 71
 
-(1) En part kan utsette oppfyllelsen av sine plikter dersom det etter avtaleslutningen viser seg at den andre parten ikke vil oppfylle en vesentlig del av sine plikter som følge av:en alvorlig svikt i hans evne til å oppfylle eller av hans kredittverdighet; ellerhans atferd i forbindelse med å førebu oppfyllelse eller med å oppfylle avtalen.
+(1) En part kan utsette oppfyllelsen av sine plikter dersom det etter avtaleslutningen viser seg at den andre parten ikke vil oppfylle en vesentlig del av sine plikter som følge av:
+
+1. en alvorlig svikt i hans evne til å oppfylle eller av hans kredittverdighet; eller
+2. hans atferd i forbindelse med å førebu oppfyllelse eller med å oppfylle avtalen.
 
 (2) Dersom selgeren allerede har sendt salgstingen før det ble klart at det forelå grunner som nevnt i foregående paragraf, kan han hindre overleveringen av tingen til kjøperen, selv om kjøperen innehar et dokument som gir han rett til å få den. Paragrafen her gjelder bare rettigheter i salgstingen i forholdet mellom kjøperen og selgeren.
 
@@ -1148,7 +1254,10 @@ Dersom en part ikke betaler kjøpesummen eller noen annen sum som står til rest
 
 (1) En part er ikke ansvarlig for manglende oppfyllelse av noen av sine plikter dersom han beviser at ikke-oppfyllelsen skyldes en hindring utenfor hans kontroll, og at han ikke med rimelighet kunne ventes å ha tatt hindringen i betraktning ved avtaleslutningen eller å ha unngått eller overvunnet den eller dens konsekvenser.
 
-(2) Dersom partens ikke-oppfyllelse skyldes manglende oppfyllelse av en tredje person som han har gitt i oppdrag å oppfylle hele eller en del av kontrakten, er denne parten fritatt for ansvar bare når:han er fritatt etter foregående paragraf, ogden tredje person som han har gitt oppdraget til også ville vært fritatt om bestemmelsene i denne paragrafen hadde fått anvendelse på ham.
+(2) Dersom partens ikke-oppfyllelse skyldes manglende oppfyllelse av en tredje person som han har gitt i oppdrag å oppfylle hele eller en del av kontrakten, er denne parten fritatt for ansvar bare når:
+
+1. han er fritatt etter foregående paragraf, og
+2. den tredje person som han har gitt oppdraget til også ville vært fritatt om bestemmelsene i denne paragrafen hadde fått anvendelse på ham.
 
 (3) Fritak for ansvar etter artikkelen her har virkning så lenge hindringen foreligger.
 
@@ -1172,7 +1281,11 @@ En part kan ikke pårope manglende oppfyllelse fra den andre parten for så vidt
 
 (1) Kjøperen taper retten til å erklære avtalen hevet eller til å kreve omlevering, dersom det er umulig for ham å tilbakeføre salgstingen i vesentlig samme stand som han mottok den.
 
-(2) Foregående paragraf gjelder ikke dersom:umuligheten av å tilbakeføre salgstingen eller å tilbakeføre den i vesentlig samme stand som den ble mottatt, ikke skyldes kjøperens handling eller unnlatelse;salgstingen eller deler av den er ødelagt eller blitt forringet som følge av den undersøkelsen som er foreskrevet i artikkel 38; ellersalgstingen eller deler av den er blitt solgt som ledd i normal forretningsdrift eller er forbrukt eller omdannet av kjøperen under normal bruk før han oppdager mangelen eller burde ha oppdaget den.
+(2) Foregående paragraf gjelder ikke dersom:
+
+1. umuligheten av å tilbakeføre salgstingen eller å tilbakeføre den i vesentlig samme stand som den ble mottatt, ikke skyldes kjøperens handling eller unnlatelse;
+2. salgstingen eller deler av den er ødelagt eller blitt forringet som følge av den undersøkelsen som er foreskrevet i artikkel 38; eller
+3. salgstingen eller deler av den er blitt solgt som ledd i normal forretningsdrift eller er forbrukt eller omdannet av kjøperen under normal bruk før han oppdager mangelen eller burde ha oppdaget den.
 
 ### Art 83
 
@@ -1182,7 +1295,10 @@ En kjøper som etter artikkel 82 har tapt retten til å erklære avtalen hevet e
 
 (1) Dersom selgeren plikter å tilbakebetale kjøpesummen, må han også betale renter av den fra den dagen da kjøpesummen ble betalt.
 
-(2) Kjøperen må godtgjøre selgeren alle fordeler som han har hatt av salgstingen eller deler av den:når han må tilbakeføre tingen helt eller delvis; ellernår det er umulig for ham å tilbakeføre hele tingen eller en del av den eller å tilbakeføre hele eller en del av tingen i vesentlig samme stand som den er mottatt, men han likevel har erklært avtalen hevet eller krevd at selgeren skal foreta omlevering.
+(2) Kjøperen må godtgjøre selgeren alle fordeler som han har hatt av salgstingen eller deler av den:
+
+1. når han må tilbakeføre tingen helt eller delvis; eller
+2. når det er umulig for ham å tilbakeføre hele tingen eller en del av den eller å tilbakeføre hele eller en del av tingen i vesentlig samme stand som den er mottatt, men han likevel har erklært avtalen hevet eller krevd at selgeren skal foreta omlevering.
 
 ### Avsnitt VI. Bevaring av salgstingen.
 
@@ -1224,7 +1340,9 @@ Konvensjonen går ikke foran noen internasjonal avtale som allerede er eller vil
 
 (1) En konvensjonsstat kan ved undertegning, ratifikasjon, vedtakelse, godkjenning eller tiltreding erklære at den tar forbehold om at den ikke vil være bundet av konvensjonens Del II eller Del III.
 
-(2) En konvensjonsstat som gir en erklæring i samsvar med foregående paragraf med hensyn til konvensjonens Del II og Del III, skal ikke anses som en konvensjonsstat innenfor rammen av konvensjonens artikkel 1 paragraf (1) når det gjelder forhold som blir regulert av den Del som erklæringen gjelder for.– – –
+(2) En konvensjonsstat som gir en erklæring i samsvar med foregående paragraf med hensyn til konvensjonens Del II og Del III, skal ikke anses som en konvensjonsstat innenfor rammen av konvensjonens artikkel 1 paragraf (1) når det gjelder forhold som blir regulert av den Del som erklæringen gjelder for.
+
+– – –
 
 ### Art 94
 
@@ -1232,4 +1350,8 @@ Konvensjonen går ikke foran noen internasjonal avtale som allerede er eller vil
 
 (2) En konvensjonsstat som har de samme eller nært beslektete rettsregler som en eller flere ikke-konvensjonsstater om forhold som konvensjonen regulerer, kan når som helst erklære at konvensjonen ikke skal omfatte kjøpavtaler eller inngåelse av slike i tilfelle hvor partene har sine forretningssteder i disse statene.
 
-(3) Dersom en stat som en erklæring etter foregående paragraf gjelder, deretter blir en konvensjonsstat, skal den avgitte erklæring, fra den dag konvensjonen trer i kraft med hensyn til den nye konvensjonsstat, ha samme virkning som en erklæring avgitt i henhold til paragraf (1), forutsatt at den nye konvensjonsstat slutter seg til en slik erklæring eller gir en separat gjensidig erklæring.Utferdiget i Wien den 11. april nittenhundreogåtti i ett enkelt originaleksemplar, der den arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet.– – –
+(3) Dersom en stat som en erklæring etter foregående paragraf gjelder, deretter blir en konvensjonsstat, skal den avgitte erklæring, fra den dag konvensjonen trer i kraft med hensyn til den nye konvensjonsstat, ha samme virkning som en erklæring avgitt i henhold til paragraf (1), forutsatt at den nye konvensjonsstat slutter seg til en slik erklæring eller gir en separat gjensidig erklæring.
+
+Utferdiget i Wien den 11. april nittenhundreogåtti i ett enkelt originaleksemplar, der den arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet.
+
+– – –

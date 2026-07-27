@@ -30,7 +30,12 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten, og om grun
 
 ## § 2.
 
-Det gis fritak for viltlevende marine ressurser som leverestil diplomater,til NATO og styrker fra land som deltar i Partnerskap for fred,til Den nordiske investeringsbanken,vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
+Det gis fritak for viltlevende marine ressurser som leveres
+
+1. til diplomater,
+2. til NATO og styrker fra land som deltar i Partnerskap for fred,
+3. til Den nordiske investeringsbanken,
+4. vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

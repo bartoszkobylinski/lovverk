@@ -28,7 +28,23 @@ Formålet med forskriften er å øke kvaliteten på tidligere grøftet jordbruks
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*Drenering:*Tiltak for å fjerne overflødig vann fra et areal ved å lede bort overflatevann eller vann i jordprofilet.*Grøfting:*Anlegging av åpne grøfter eller lukka drensledninger for oppsamling og bortledning av vann.*Systematisk grøfting:*Drenering med en bestemt intensitet (avstand mellom grøftene) som dekker et gitt areal, tilstrekkelig til å sikre en tilfredsstillende dreneringstilstand på arealet.*Profilering:*Overflateforming der et system av åpne grøfter med møneformete teiger mellom sikrer overflateavrenning på arealet.*Omgraving:*Omsnuing av jordprofilet på myrarealer, slik at torvjord legges under og et lag av undergrunnsjord legges på toppen. Omgraving skal drenere arealet og bedre bæreevnen.
+I denne forskrift menes med:
+
+1. *Drenering:*
+
+   Tiltak for å fjerne overflødig vann fra et areal ved å lede bort overflatevann eller vann i jordprofilet.
+2. *Grøfting:*
+
+   Anlegging av åpne grøfter eller lukka drensledninger for oppsamling og bortledning av vann.
+3. *Systematisk grøfting:*
+
+   Drenering med en bestemt intensitet (avstand mellom grøftene) som dekker et gitt areal, tilstrekkelig til å sikre en tilfredsstillende dreneringstilstand på arealet.
+4. *Profilering:*
+
+   Overflateforming der et system av åpne grøfter med møneformete teiger mellom sikrer overflateavrenning på arealet.
+5. *Omgraving:*
+
+   Omsnuing av jordprofilet på myrarealer, slik at torvjord legges under og et lag av undergrunnsjord legges på toppen. Omgraving skal drenere arealet og bedre bæreevnen.
 
 ## § 3. Vilkår
 
@@ -82,7 +98,10 @@ Kommunen og statsforvalteren kan rette feil i utbetalt tilskudd, enten ved etter
 
 ## § 10. Avkorting
 
-Hele eller deler av tilskuddet kan avkortes dersom foretaketuaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, elleri henhold til forvaltningsvedtak eller dom driver eller har drevet sin virksomhet i strid med regelverk for jordbruksvirksomhet, og det er utvist uaktsomhet eller forsett.
+Hele eller deler av tilskuddet kan avkortes dersom foretaket
+
+1. uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, eller
+2. i henhold til forvaltningsvedtak eller dom driver eller har drevet sin virksomhet i strid med regelverk for jordbruksvirksomhet, og det er utvist uaktsomhet eller forsett.
 
 ## § 11. Innkreving av tilbakebetalings- eller avkortingsbeløp mv.
 

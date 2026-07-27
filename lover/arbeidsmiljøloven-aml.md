@@ -15,7 +15,7 @@ xml_hash: "56546f38f0274d93f3bcb154bfdc0e0b25548ec615ee80bfb8d6d92e6c862488"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1-1. Lovens formål
 
-Lovens formål er:å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,å legge til rette for et godt ytringsklima i virksomheten,å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,å gi grunnlag for at arbeidsgiver og arbeidstakerne i virksomhetene selv kan ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,å bidra til et inkluderende arbeidsliv.
+Lovens formål er:
+
+1. å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, og med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet,
+2. å sikre trygge ansettelsesforhold og likebehandling i arbeidslivet,
+3. å legge til rette for et godt ytringsklima i virksomheten,
+4. å legge til rette for tilpasninger i arbeidsforholdet knyttet til den enkelte arbeidstakers forutsetninger og livssituasjon,
+5. å gi grunnlag for at arbeidsgiver og arbeidstakerne i virksomhetene selv kan ivareta og utvikle sitt arbeidsmiljø i samarbeid med arbeidslivets parter og med nødvendig veiledning og kontroll fra offentlig myndighet,
+6. å bidra til et inkluderende arbeidsliv.
 
 > Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [21 juni 2019 nr. 24](lov/2019-06-21-24) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 806](forskrift/2019-06-21-806)).
 
@@ -34,7 +41,12 @@ Lovens formål er:å sikre et arbeidsmiljø som gir grunnlag for en helsefremmen
 
 (1) Loven gjelder for virksomhet som sysselsetter arbeidstaker, med mindre annet er uttrykkelig fastsatt i loven.
 
-(2) Unntatt fra loven er:sjøfart, fangst og fiske, herunder bearbeiding av fangsten ombord i skip, men likevel slik at dykkeoperasjoner og losing er omfattet av lovenmilitær luftfart som omfattes av [luftfartsloven](lov/1993-06-11-101).Departementet kan gi forskrift om unntak fra loven for sivil luftfart og annen statsluftfart enn militær luftfart og om særregler for slik luftfart og om lovens anvendelse for dykkeoperasjoner og om særregler og unntak for slike operasjoner.
+(2) Unntatt fra loven er:
+
+1. sjøfart, fangst og fiske, herunder bearbeiding av fangsten ombord i skip, men likevel slik at dykkeoperasjoner og losing er omfattet av loven
+2. militær luftfart som omfattes av [luftfartsloven](lov/1993-06-11-101).
+
+Departementet kan gi forskrift om unntak fra loven for sivil luftfart og annen statsluftfart enn militær luftfart og om særregler for slik luftfart og om lovens anvendelse for dykkeoperasjoner og om særregler og unntak for slike operasjoner.
 
 (3) Kongen kan gi forskrift om og i hvilken utstrekning bestemmelsene i [kapittel 14](lov/2005-06-17-62/kap14), [15](lov/2005-06-17-62/kap15), [16](lov/2005-06-17-62/kap16) og [17](lov/2005-06-17-62/kap17) skal gjelde for arbeidstakere som omfattes av [lov 16. juni 2017 nr. 67](lov/2017-06-16-67) om statens ansatte mv. (statsansatteloven) eller som er embetsmenn.
 
@@ -78,7 +90,17 @@ Lovens formål er:å sikre et arbeidsmiljø som gir grunnlag for en helsefremmen
 
 ### § 1-6. Personer som ikke er arbeidstakere
 
-(1) Følgende personer anses som arbeidstakere etter lovens regler om varsling og helse, miljø og sikkerhet når de utfører arbeid i virksomhet som går inn under loven:elever ved institusjoner som har undervisning eller forskning som formål,vernepliktige,sivile tjenestepliktige og tjenestepliktige i sivilforsvaret,innsatte i kriminalomsorgens anstalter,pasienter i helseinstitusjoner, attføringsinstitusjoner o.l.,personer som i opplæringsøyemed eller i forbindelse med arbeidsrettede tiltak utplasseres i virksomheter uten å være arbeidstakere,personer som uten å være arbeidstakere deltar i arbeidsmarkedstiltak.Lovens regler om varsling gjelder likevel ikke for personer som nevnt i bokstav d. Departementet kan i forskrift fastsette unntak fra bestemmelsen i første punktum.
+(1) Følgende personer anses som arbeidstakere etter lovens regler om varsling og helse, miljø og sikkerhet når de utfører arbeid i virksomhet som går inn under loven:
+
+1. elever ved institusjoner som har undervisning eller forskning som formål,
+2. vernepliktige,
+3. sivile tjenestepliktige og tjenestepliktige i sivilforsvaret,
+4. innsatte i kriminalomsorgens anstalter,
+5. pasienter i helseinstitusjoner, attføringsinstitusjoner o.l.,
+6. personer som i opplæringsøyemed eller i forbindelse med arbeidsrettede tiltak utplasseres i virksomheter uten å være arbeidstakere,
+7. personer som uten å være arbeidstakere deltar i arbeidsmarkedstiltak.
+
+Lovens regler om varsling gjelder likevel ikke for personer som nevnt i bokstav d. Departementet kan i forskrift fastsette unntak fra bestemmelsen i første punktum.
 
 (2) Lovens bestemmelser om arbeidsgiveren gjelder for den som lar personer som nevnt i første ledd utføre arbeid i sin virksomhet.
 
@@ -90,7 +112,11 @@ Lovens formål er:å sikre et arbeidsmiljø som gir grunnlag for en helsefremmen
 
 (1) Med utsendt arbeidstaker menes arbeidstaker som i et begrenset tidsrom arbeider i et annet land enn det arbeidsforholdet vanligvis er knyttet til.
 
-(2) Utsending av arbeidstaker anses å foreligge når en utenlandsk virksomhet i forbindelse med tjenesteyting:etter avtale med en mottaker av tjenesteytelser i Norge, sender en arbeidstaker til Norge for egen regning og risiko og under egen ledelse, ellersender en arbeidstaker til et forretningssted eller virksomhet i Norge som inngår i konsernet, elleri egenskap av å være vikarbyrå eller annen virksomhet som stiller arbeidstakere til rådighet, sender arbeidstakere til en virksomhet i Norge.
+(2) Utsending av arbeidstaker anses å foreligge når en utenlandsk virksomhet i forbindelse med tjenesteyting:
+
+1. etter avtale med en mottaker av tjenesteytelser i Norge, sender en arbeidstaker til Norge for egen regning og risiko og under egen ledelse, eller
+2. sender en arbeidstaker til et forretningssted eller virksomhet i Norge som inngår i konsernet, eller
+3. i egenskap av å være vikarbyrå eller annen virksomhet som stiller arbeidstakere til rådighet, sender arbeidstakere til en virksomhet i Norge.
 
 (3) Utsending av arbeidstaker anses også å foreligge når en norsk virksomhet i forbindelse med tjenesteyting sender en arbeidstaker til et annet land innenfor EØS-området.
 
@@ -120,7 +146,11 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 ### § 2-2. Arbeidsgivers plikter overfor andre enn egne arbeidstakere
 
-(1) Når andre enn arbeidsgivers egne arbeidstakere, herunder innleide arbeidstakere eller selvstendige oppdragstakere, utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet eller innretning, skal arbeidsgiver:sørge for at egen virksomhet er innrettet og egne arbeidstakeres arbeid er ordnet og blir utført på en slik måte at også andre enn egne arbeidstakere er sikret et fullt forsvarlig arbeidsmiljø,samarbeide med andre arbeidsgivere for å sikre et fullt forsvarlig arbeidsmiljø,sørge for at innleid arbeidstakers arbeidstid er i samsvar med bestemmelsene i [kapittel 10](lov/2005-06-17-62/kap10).
+(1) Når andre enn arbeidsgivers egne arbeidstakere, herunder innleide arbeidstakere eller selvstendige oppdragstakere, utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet eller innretning, skal arbeidsgiver:
+
+1. sørge for at egen virksomhet er innrettet og egne arbeidstakeres arbeid er ordnet og blir utført på en slik måte at også andre enn egne arbeidstakere er sikret et fullt forsvarlig arbeidsmiljø,
+2. samarbeide med andre arbeidsgivere for å sikre et fullt forsvarlig arbeidsmiljø,
+3. sørge for at innleid arbeidstakers arbeidstid er i samsvar med bestemmelsene i [kapittel 10](lov/2005-06-17-62/kap10).
 
 (2) Hovedbedriften skal ha ansvaret for samordningen av de enkelte virksomheters helse-, miljø- og sikkerhetsarbeid. Dersom det samtidig sysselsettes mer enn 10 arbeidstakere, og ingen virksomhet kan regnes som hovedbedrift, skal det skriftlig avtales hvem som skal ha ansvaret for samordningen. Kommer slik avtale ikke i stand, skal det meldes til Arbeidstilsynet som bestemmer hvem som skal ha ansvaret for samordningen.
 
@@ -132,7 +162,16 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 (1) Arbeidstaker skal medvirke ved utforming, gjennomføring og oppfølging av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid. Arbeidstaker skal delta i det organiserte verne- og miljøarbeidet i virksomheten og skal aktivt medvirke ved gjennomføring av de tiltak som blir satt i verk for å skape et godt og sikkert arbeidsmiljø.
 
-(2) Arbeidstaker skal:bruke påbudt verneutstyr, vise aktsomhet og ellers medvirke til å hindre ulykker og helseskader,straks underrette arbeidsgiver og verneombudet og i nødvendig utstrekning andre arbeidstakere når arbeidstakeren blir oppmerksom på feil eller mangler som kan medføre fare for liv eller helse, og vedkommende ikke selv kan rette på forholdet,avbryte arbeidet dersom arbeidstaker mener at det ikke kan fortsette uten å medføre fare for liv eller helse,sørge for at arbeidsgiver eller verneombudet blir underrettet så snart arbeidstaker blir kjent med at det forekommer trakassering eller diskriminering på arbeidsplassen,melde fra til arbeidsgiver dersom arbeidstaker blir skadet i arbeidet eller pådrar seg sykdom som arbeidstaker mener har sin grunn i arbeidet eller forholdene på arbeidsstedet,medvirke ved utarbeiding og gjennomføring av oppfølgingsplaner ved helt eller delvis fravær fra arbeidet på grunn av ulykke, sykdom, slitasje eller lignende,delta i dialogmøte etter innkalling fra arbeidsgiver, jf. [§ 4-6](lov/2005-06-17-62/§4-6) fjerde ledd.rette seg etter påbud fra Arbeidstilsynet.
+(2) Arbeidstaker skal:
+
+1. bruke påbudt verneutstyr, vise aktsomhet og ellers medvirke til å hindre ulykker og helseskader,
+2. straks underrette arbeidsgiver og verneombudet og i nødvendig utstrekning andre arbeidstakere når arbeidstakeren blir oppmerksom på feil eller mangler som kan medføre fare for liv eller helse, og vedkommende ikke selv kan rette på forholdet,
+3. avbryte arbeidet dersom arbeidstaker mener at det ikke kan fortsette uten å medføre fare for liv eller helse,
+4. sørge for at arbeidsgiver eller verneombudet blir underrettet så snart arbeidstaker blir kjent med at det forekommer trakassering eller diskriminering på arbeidsplassen,
+5. melde fra til arbeidsgiver dersom arbeidstaker blir skadet i arbeidet eller pådrar seg sykdom som arbeidstaker mener har sin grunn i arbeidet eller forholdene på arbeidsstedet,
+6. medvirke ved utarbeiding og gjennomføring av oppfølgingsplaner ved helt eller delvis fravær fra arbeidet på grunn av ulykke, sykdom, slitasje eller lignende,
+7. delta i dialogmøte etter innkalling fra arbeidsgiver, jf. [§ 4-6](lov/2005-06-17-62/§4-6) fjerde ledd.
+8. rette seg etter påbud fra Arbeidstilsynet.
 
 (3) Arbeidstaker som har til oppgave å lede eller kontrollere andre arbeidstakere, skal påse at hensynet til sikkerhet og helse blir ivaretatt under planleggingen og utførelsen av de arbeidsoppgaver som hører under eget ansvarsområde.
 
@@ -154,7 +193,14 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 (1) Arbeidstaker har rett til å varsle om kritikkverdige forhold i arbeidsgivers virksomhet. Innleid arbeidstaker har også rett til å varsle om kritikkverdige forhold i virksomheten til innleier.
 
-(2) Med kritikkverdige forhold menes forhold som er i strid med rettsregler, skriftlige etiske retningslinjer i virksomheten eller etiske normer som det er bred tilslutning til i samfunnet, for eksempel forhold som kan innebærefare for liv eller helsefare for klima eller miljøkorrupsjon eller annen økonomisk kriminalitetmyndighetsmisbrukuforsvarlig arbeidsmiljøbrudd på personopplysningssikkerheten.
+(2) Med kritikkverdige forhold menes forhold som er i strid med rettsregler, skriftlige etiske retningslinjer i virksomheten eller etiske normer som det er bred tilslutning til i samfunnet, for eksempel forhold som kan innebære
+
+1. fare for liv eller helse
+2. fare for klima eller miljø
+3. korrupsjon eller annen økonomisk kriminalitet
+4. myndighetsmisbruk
+5. uforsvarlig arbeidsmiljø
+6. brudd på personopplysningssikkerheten.
 
 (3) Ytring om forhold som kun gjelder arbeidstakers eget arbeidsforhold regnes ikke som varsling etter kapitlet her, med mindre forholdet omfattes av andre ledd.
 
@@ -162,11 +208,20 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 ### § 2 A-2. Fremgangsmåte ved varsling
 
-(1) Arbeidstaker kan alltid varsle internttil arbeidsgiver eller en representant for arbeidsgiveri samsvar med virksomhetens rutiner for varslingi samsvar med varslingspliktvia verneombud, tillitsvalgt eller advokat.
+(1) Arbeidstaker kan alltid varsle internt
+
+1. til arbeidsgiver eller en representant for arbeidsgiver
+2. i samsvar med virksomhetens rutiner for varsling
+3. i samsvar med varslingsplikt
+4. via verneombud, tillitsvalgt eller advokat.
 
 (2) Arbeidstaker kan alltid varsle eksternt til en offentlig tilsynsmyndighet eller en annen offentlig myndighet.
 
-(3) Arbeidstaker kan varsle eksternt til media eller offentligheten for øvrig dersomarbeidstaker er i aktsom god tro om innholdet i varselet,varselet gjelder kritikkverdige forhold som har allmenn interesse, ogarbeidstaker først har varslet internt, eller har grunn til å tro at intern varsling ikke vil være hensiktsmessig.
+(3) Arbeidstaker kan varsle eksternt til media eller offentligheten for øvrig dersom
+
+1. arbeidstaker er i aktsom god tro om innholdet i varselet,
+2. varselet gjelder kritikkverdige forhold som har allmenn interesse, og
+3. arbeidstaker først har varslet internt, eller har grunn til å tro at intern varsling ikke vil være hensiktsmessig.
 
 (4) Arbeidsgiver har bevisbyrden for at varsling har skjedd i strid med [§§ 2 A-1](lov/2005-06-17-62/§2a-1) og [2 A-2](lov/2005-06-17-62/§2a-2).
 
@@ -184,7 +239,11 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 (1) Gjengjeldelse mot arbeidstaker som varsler i samsvar med [§§ 2 A-1](lov/2005-06-17-62/§2a-1) og [2 A-2](lov/2005-06-17-62/§2a-2), er forbudt. Overfor innleide arbeidstakere gjelder forbudet både for arbeidsgiver og innleier.
 
-(2) Med gjengjeldelse menes enhver ugunstig handling, praksis eller unnlatelse som er en følge av eller en reaksjon på at arbeidstaker har varslet, for eksempeltrusler, trakassering, usaklig forskjellsbehandling, sosial ekskludering eller annen utilbørlig opptredenadvarsel, endring i arbeidsoppgaver, omplassering eller degraderingsuspensjon, oppsigelse, avskjed eller ordensstraff.
+(2) Med gjengjeldelse menes enhver ugunstig handling, praksis eller unnlatelse som er en følge av eller en reaksjon på at arbeidstaker har varslet, for eksempel
+
+1. trusler, trakassering, usaklig forskjellsbehandling, sosial ekskludering eller annen utilbørlig opptreden
+2. advarsel, endring i arbeidsoppgaver, omplassering eller degradering
+3. suspensjon, oppsigelse, avskjed eller ordensstraff.
 
 (3) Første ledd gjelder tilsvarende ved gjengjeldelse mot arbeidstaker som gir til kjenne at retten til å varsle vil bli brukt, for eksempel ved å fremskaffe opplysninger.
 
@@ -208,7 +267,11 @@ Arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av denne lov b
 
 (3) Rutinene skal ikke begrense arbeidstakers rett til å varsle.
 
-(4) Rutinene skal være skriftlige og minst inneholdeen oppfordring til å varsle om kritikkverdige forholdfremgangsmåte for varslingfremgangsmåte for arbeidsgivers saksbehandling ved mottak, behandling og oppfølging av varsling.
+(4) Rutinene skal være skriftlige og minst inneholde
+
+1. en oppfordring til å varsle om kritikkverdige forhold
+2. fremgangsmåte for varsling
+3. fremgangsmåte for arbeidsgivers saksbehandling ved mottak, behandling og oppfølging av varsling.
 
 (5) Rutinene skal være lett tilgjengelig for alle arbeidstakere i virksomheten.
 
@@ -234,19 +297,39 @@ Tvister om brudd på forbudet mot gjengjeldelse etter [§ 2 A-4](lov/2005-06-17-
 
 (1) For å sikre at hensynet til arbeidstakers helse, miljø og sikkerhet blir ivaretatt, skal arbeidsgiver sørge for at det utføres systematisk helse-, miljø- og sikkerhetsarbeid på alle plan i virksomheten. Dette skal gjøres i samarbeid med arbeidstakerne og deres tillitsvalgte.
 
-(2) Systematisk helse-, miljø- og sikkerhetsarbeid innebærer at arbeidsgiver skal:fastsette mål for helse, miljø og sikkerhet,ha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med helse, miljø og sikkerhet er fordelt,kartlegge farer og problemer og på denne bakgrunn vurdere risikoforholdene i virksomheten, utarbeide planer og iverksette tiltak for å redusere risikoen,under planlegging og gjennomføring av endringer i virksomheten, vurdere om arbeidsmiljøet vil være i samsvar med lovens krav, og iverksette de nødvendige tiltak,iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av denne lov,sørge for systematisk arbeid med forebygging og oppfølging av sykefravær,sørge for løpende kontroll med arbeidsmiljøet og arbeidstakernes helse når risikoforholdene i virksomheten tilsier det, jf. bokstav c,foreta systematisk overvåking og gjennomgang av det systematiske helse-, miljø- og sikkerhetsarbeidet for å sikre at det fungerer som forutsatt.
+(2) Systematisk helse-, miljø- og sikkerhetsarbeid innebærer at arbeidsgiver skal:
+
+1. fastsette mål for helse, miljø og sikkerhet,
+2. ha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med helse, miljø og sikkerhet er fordelt,
+3. kartlegge farer og problemer og på denne bakgrunn vurdere risikoforholdene i virksomheten, utarbeide planer og iverksette tiltak for å redusere risikoen,
+4. under planlegging og gjennomføring av endringer i virksomheten, vurdere om arbeidsmiljøet vil være i samsvar med lovens krav, og iverksette de nødvendige tiltak,
+5. iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av denne lov,
+6. sørge for systematisk arbeid med forebygging og oppfølging av sykefravær,
+7. sørge for løpende kontroll med arbeidsmiljøet og arbeidstakernes helse når risikoforholdene i virksomheten tilsier det, jf. bokstav c,
+8. foreta systematisk overvåking og gjennomgang av det systematiske helse-, miljø- og sikkerhetsarbeidet for å sikre at det fungerer som forutsatt.
 
 (3) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravene i denne paragraf, herunder om krav til dokumentasjon av det systematiske helse-, miljø- og sikkerhetsarbeidet.
 
 ### § 3-2. Særskilte forholdsregler for å ivareta sikkerheten
 
-(1) For å ivareta sikkerheten på arbeidsplassen skal arbeidsgiver sørge for:at arbeidstaker gjøres kjent med ulykkes- og helsefarer som kan være forbundet med arbeidet, og at arbeidstaker får den opplæring, øvelse og instruksjon som er nødvendig,at arbeidstaker som har til oppgave å lede eller kontrollere andre arbeidstakere har nødvendig kompetanse til å føre kontroll med at arbeidet blir utført på en helse- og sikkerhetsmessig forsvarlig måte,sakkyndig bistand når dette er nødvendig for å gjennomføre lovens krav.
+(1) For å ivareta sikkerheten på arbeidsplassen skal arbeidsgiver sørge for:
+
+1. at arbeidstaker gjøres kjent med ulykkes- og helsefarer som kan være forbundet med arbeidet, og at arbeidstaker får den opplæring, øvelse og instruksjon som er nødvendig,
+2. at arbeidstaker som har til oppgave å lede eller kontrollere andre arbeidstakere har nødvendig kompetanse til å føre kontroll med at arbeidet blir utført på en helse- og sikkerhetsmessig forsvarlig måte,
+3. sakkyndig bistand når dette er nødvendig for å gjennomføre lovens krav.
 
 (2) Når det ikke på annen måte kan tas forholdsregler for å oppnå tilstrekkelig vern om liv eller helse, skal arbeidsgiver sørge for at tilfredsstillende personlig verneutstyr stilles til arbeidstakers rådighet, at arbeidstaker gis opplæring i bruken av utstyret og at det tas i bruk.
 
 (3) Hvis det skal utføres arbeid som kan innebære særlig fare for liv eller helse, skal det utarbeides en skriftlig instruks om hvordan arbeidet skal utføres og hvilke sikkerhetstiltak som skal iverksettes.
 
-(4) Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragraf. Departementet kan også i forskrift gi nærmere bestemmelser om personlig verneutstyr, herunder om:utforming, merking mv.bruk, vedlikehold mv.prøving, sertifisering og godkjenninggodkjenning av organer som skal utøve kontroll knyttet til produksjon av personlig verneutstyr.Departementet kan i forskrift fastsette at reglene om personlig verneutstyr også skal gjelde for produsent, importør og leverandør.
+(4) Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragraf. Departementet kan også i forskrift gi nærmere bestemmelser om personlig verneutstyr, herunder om:
+
+1. utforming, merking mv.
+2. bruk, vedlikehold mv.
+3. prøving, sertifisering og godkjenning
+4. godkjenning av organer som skal utøve kontroll knyttet til produksjon av personlig verneutstyr.
+
+Departementet kan i forskrift fastsette at reglene om personlig verneutstyr også skal gjelde for produsent, importør og leverandør.
 
 ### § 3-3. Bedriftshelsetjeneste
 
@@ -292,7 +375,15 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (6) Departementet kan gi forskrift om begrensning i adgangen til å sysselsette visse grupper arbeidstakere som i særlig grad kan være utsatt for ulykkes- eller helsefare og om omplassering av slike arbeidstakere.
 
-(7) Departementet kan gi forskriftsom pålegger bruk av HMS-kort for arbeidstakere innenfor bransjer der det er nødvendig eller hensiktsmessig for å ivareta arbeidstakernes helse, miljø og sikkerhetom oversiktslister over hvem som til enhver tid er sysselsatt på arbeidsplassenom at oppdragsgivere i kontrakt med oppdragstakere skal ta inn kontraktsvilkår som skal sikre at forskrifter om HMS-kort overholdesom at oppdragsgivere skal kontrollere at oppdragstakere overholder forskrifter om HMS-kortom at oppdragstakere skal utlevere den dokumentasjonen som er nødvendig for at en oppdragsgiver kan oppfylle kontrollplikten.Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av taushetsplikt å gi utsteder av HMS-kort alle opplysninger fra offentlige registre som er nødvendige for utstedelse av HMS-kort.
+(7) Departementet kan gi forskrift
+
+1. som pålegger bruk av HMS-kort for arbeidstakere innenfor bransjer der det er nødvendig eller hensiktsmessig for å ivareta arbeidstakernes helse, miljø og sikkerhet
+2. om oversiktslister over hvem som til enhver tid er sysselsatt på arbeidsplassen
+3. om at oppdragsgivere i kontrakt med oppdragstakere skal ta inn kontraktsvilkår som skal sikre at forskrifter om HMS-kort overholdes
+4. om at oppdragsgivere skal kontrollere at oppdragstakere overholder forskrifter om HMS-kort
+5. om at oppdragstakere skal utlevere den dokumentasjonen som er nødvendig for at en oppdragsgiver kan oppfylle kontrollplikten.
+
+Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av taushetsplikt å gi utsteder av HMS-kort alle opplysninger fra offentlige registre som er nødvendige for utstedelse av HMS-kort.
 
 (8) Når hensynet til helse, miljø og sikkerhet tilsier det, kan departementet i forskrift gi bestemmelser om at virksomheter som tilbyr renholdstjenester eller tjenester i forbindelse med vedlikehold og reparasjon av motorvogn, må godkjennes av Arbeidstilsynet, og om det nærmere innholdet i en slik godkjenningsordning. Når det stilles krav om slik godkjenning, vil det være ulovlig å benytte tjenester fra virksomheter uten godkjenning.
 
@@ -302,7 +393,13 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (1) Arbeidstakerne og deres tillitsvalgte skal holdes løpende informert om systemer som nyttes ved planlegging og gjennomføring av arbeidet. De skal gis nødvendig opplæring for å sette seg inn i systemene, og de skal medvirke ved utformingen av dem.
 
-(2) I utformingen av den enkeltes arbeidssituasjon skal:det legges til rette for at arbeidstaker gis mulighet for faglig og personlig utvikling gjennom sitt arbeid,arbeidet organiseres og tilrettelegges under hensyn til den enkelte arbeidstakers arbeidsevne, kyndighet, alder og øvrige forutsetninger,det legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar,arbeidstaker så langt som mulig gis mulighet til variasjon og for å se sammenheng mellom enkeltoppgaver,det gis tilstrekkelig informasjon og opplæring slik at arbeidstaker er i stand til å utføre arbeidet når det skjer endringer som berører vedkommendes arbeidssituasjon.
+(2) I utformingen av den enkeltes arbeidssituasjon skal:
+
+1. det legges til rette for at arbeidstaker gis mulighet for faglig og personlig utvikling gjennom sitt arbeid,
+2. arbeidet organiseres og tilrettelegges under hensyn til den enkelte arbeidstakers arbeidsevne, kyndighet, alder og øvrige forutsetninger,
+3. det legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar,
+4. arbeidstaker så langt som mulig gis mulighet til variasjon og for å se sammenheng mellom enkeltoppgaver,
+5. det gis tilstrekkelig informasjon og opplæring slik at arbeidstaker er i stand til å utføre arbeidet når det skjer endringer som berører vedkommendes arbeidssituasjon.
 
 (3) Under omstillingsprosesser som medfører endring av betydning for arbeidstakernes arbeidssituasjon, skal arbeidsgiver sørge for den informasjon, medvirkning og kompetanseutvikling som er nødvendig for å ivareta lovens krav til et fullt forsvarlig arbeidsmiljø.
 
@@ -312,7 +409,12 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (1) Arbeidet skal organiseres, planlegges og gjennomføres slik at de psykososiale arbeidsmiljøfaktorene i virksomheten er fullt forsvarlige ut fra hensynet til arbeidstakernes helse, sikkerhet og velferd.
 
-(2) Psykososiale arbeidsmiljøfaktorer er i tillegg til forhold som nevnt i tredje til sjette ledd blant annetuklare eller motstridende krav og forventninger i arbeidetemosjonelle krav og belastninger i arbeid med menneskerarbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighetstøtte og hjelp i arbeidet.
+(2) Psykososiale arbeidsmiljøfaktorer er i tillegg til forhold som nevnt i tredje til sjette ledd blant annet
+
+1. uklare eller motstridende krav og forventninger i arbeidet
+2. emosjonelle krav og belastninger i arbeid med mennesker
+3. arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet
+4. støtte og hjelp i arbeidet.
 
 (3) Arbeidet skal legges til rette slik at arbeidstakers integritet og verdighet ivaretas.
 
@@ -394,7 +496,10 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (2) Departementet kan gi forskrift om at slikt varsel skal gis også i andre tilfeller.
 
-(3) Departementet kan gi forskrift om at arbeidsgiver skal gi melding til Arbeidstilsynet om:arbeidsulykke som det ikke kreves varsel om etter første eller andre ledd, herunder akutt forgiftning, og tilløp til slike ulykker,sykdom som er eller kan være forårsaket av arbeidet eller forholdene på arbeidsplassen.
+(3) Departementet kan gi forskrift om at arbeidsgiver skal gi melding til Arbeidstilsynet om:
+
+1. arbeidsulykke som det ikke kreves varsel om etter første eller andre ledd, herunder akutt forgiftning, og tilløp til slike ulykker,
+2. sykdom som er eller kan være forårsaket av arbeidet eller forholdene på arbeidsplassen.
 
 (4) Departementet kan i forskrift gi nærmere bestemmelser om omfanget og gjennomføringen av varslings- og meldeplikten etter denne paragraf.
 
@@ -408,7 +513,13 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 ### § 5-4. Produsenter og importører av kjemikalier og biologisk materiale
 
-(1) Den som produserer eller importerer kjemikalier eller biologisk materiale som skal brukes eller ventelig vil bli brukt i virksomhet som går inn under denne lov, skal:skaffe til veie opplysninger om kjemikaliets eller materialets sammensetning og egenskaper,treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,gi melding til den departementet bestemmer om kjemikaliets eller materialets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,merke emballasjen med kjemikaliets eller materialets navn, produsentens eller importørens navn og tydelig advarsel på norsk. Etikett for merking skal sendes sammen med melding etter bokstav c.
+(1) Den som produserer eller importerer kjemikalier eller biologisk materiale som skal brukes eller ventelig vil bli brukt i virksomhet som går inn under denne lov, skal:
+
+1. skaffe til veie opplysninger om kjemikaliets eller materialets sammensetning og egenskaper,
+2. treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,
+3. gi melding til den departementet bestemmer om kjemikaliets eller materialets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,
+4. sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,
+5. merke emballasjen med kjemikaliets eller materialets navn, produsentens eller importørens navn og tydelig advarsel på norsk. Etikett for merking skal sendes sammen med melding etter bokstav c.
 
 (2) Unntatt fra meldeplikt og merkeplikt etter disse bestemmelser er næringsmidler og stoffer som går inn under matloven samt legemidler.
 
@@ -432,7 +543,12 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (6) Maskiner og annet arbeidsutstyr som nevnt i første ledd skal, før det overdras eller utstilles, være forsynt med produsentens eller importørens navn og adresse, eller med annen merking som gjør det lett å identifisere produsenten eller importøren.
 
-(7) Departementet kan i forskrift gi nærmere bestemmelser om maskiner og annet arbeidsutstyr, herunder om:konstruksjon, utførelse, oppstilling, merking mv.,godkjenning og plikt til å gi opplysninger i forbindelse med dette,godkjenning av organer som skal utøve kontroll knyttet til produksjon,undersøkelse eller besiktigelse.
+(7) Departementet kan i forskrift gi nærmere bestemmelser om maskiner og annet arbeidsutstyr, herunder om:
+
+1. konstruksjon, utførelse, oppstilling, merking mv.,
+2. godkjenning og plikt til å gi opplysninger i forbindelse med dette,
+3. godkjenning av organer som skal utøve kontroll knyttet til produksjon,
+4. undersøkelse eller besiktigelse.
 
 (8) Utgifter til undersøkelse eller besiktigelse som pålegges i medhold av sjuende ledd, bæres av den som har plikt til å foreta undersøkelsen eller besiktigelsen.
 
@@ -458,7 +574,14 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (1) Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Verneombudet skal se til at virksomheten er innrettet og vedlikeholdt, og at arbeidet blir utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i samsvar med bestemmelsene i denne lov. Første og andre punktum gjelder tilsvarende for innleide arbeidstakere og for selvstendige oppdragstakere som utfører arbeid i nær tilknytning til virksomheten.
 
-(2) Verneombudet skal særlig påse:at maskiner, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter arbeidstakerne for fare,at verneinnretninger og personlig verneutstyr er til stede i passende antall, at det er lett tilgjengelig og i forsvarlig stand,at arbeidstakerne får den nødvendige instruksjon, øvelse og opplæring,at arbeidet ellers er tilrettelagt slik at arbeidstakerne kan utføre arbeidet på helse- og sikkerhetsmessig forsvarlig måte,at meldinger om arbeidsulykker mv. i henhold til [§ 5-2](lov/2005-06-17-62/§5-2) blir sendt,at arbeidstakernes psykososiale arbeidsmiljø er ivaretatt.
+(2) Verneombudet skal særlig påse:
+
+1. at maskiner, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter arbeidstakerne for fare,
+2. at verneinnretninger og personlig verneutstyr er til stede i passende antall, at det er lett tilgjengelig og i forsvarlig stand,
+3. at arbeidstakerne får den nødvendige instruksjon, øvelse og opplæring,
+4. at arbeidet ellers er tilrettelagt slik at arbeidstakerne kan utføre arbeidet på helse- og sikkerhetsmessig forsvarlig måte,
+5. at meldinger om arbeidsulykker mv. i henhold til [§ 5-2](lov/2005-06-17-62/§5-2) blir sendt,
+6. at arbeidstakernes psykososiale arbeidsmiljø er ivaretatt.
 
 (3) Blir et verneombud kjent med forhold som kan medføre ulykkes- og helsefare, skal verneombudet straks varsle arbeidstakerne på stedet, og arbeidsgiveren eller dennes representant skal gjøres oppmerksom på forholdet dersom verneombudet selv ikke kan avverge faren. Arbeidsgiveren skal gi verneombudet svar på henvendelsen. Er det ikke innen rimelig tid tatt hensyn til meldingen, skal verneombudet underrette Arbeidstilsynet eller arbeidsmiljøutvalget.
 
@@ -524,7 +647,14 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (1) Arbeidsmiljøutvalget skal virke for gjennomføring av et fullt forsvarlig arbeidsmiljø i virksomheten. Utvalget skal delta i planleggingen av verne- og miljøarbeidet, og nøye følge utviklingen i spørsmål som angår arbeidstakernes sikkerhet, helse og velferd.
 
-(2) Arbeidsmiljøutvalget skal behandle:spørsmål som angår bedriftshelsetjeneste og den interne vernetjeneste,spørsmål om opplæring, instruksjon og opplysningsvirksomhet i virksomheten, som har betydning for arbeidsmiljøet,planer som krever Arbeidstilsynets samtykke i henhold til [§ 18-9](lov/2005-06-17-62/§18-9),andre planer som kan få vesentlig betydning for arbeidsmiljøet, så som planer om byggearbeider, innkjøp av maskiner, rasjonalisering, arbeidsprosesser, og forebyggende vernetiltak,etablering og vedlikehold av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid, jf. [§ 3-1](lov/2005-06-17-62/§3-1),helse- og velferdsmessige spørsmål knyttet til arbeidstidsordninger.
+(2) Arbeidsmiljøutvalget skal behandle:
+
+1. spørsmål som angår bedriftshelsetjeneste og den interne vernetjeneste,
+2. spørsmål om opplæring, instruksjon og opplysningsvirksomhet i virksomheten, som har betydning for arbeidsmiljøet,
+3. planer som krever Arbeidstilsynets samtykke i henhold til [§ 18-9](lov/2005-06-17-62/§18-9),
+4. andre planer som kan få vesentlig betydning for arbeidsmiljøet, så som planer om byggearbeider, innkjøp av maskiner, rasjonalisering, arbeidsprosesser, og forebyggende vernetiltak,
+5. etablering og vedlikehold av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid, jf. [§ 3-1](lov/2005-06-17-62/§3-1),
+6. helse- og velferdsmessige spørsmål knyttet til arbeidstidsordninger.
 
 (3) Utvalget kan også behandle spørsmål om arbeidstakere med redusert arbeidsevne, jf. [§ 4-6](lov/2005-06-17-62/§4-6).
 
@@ -560,7 +690,11 @@ Reglene i [§ 6-5](lov/2005-06-17-62/§6-5) gjelder tilsvarende for medlemmer av
 
 ### § 8-2. Gjennomføring av plikten til informasjon og drøfting
 
-(1) Plikten til informasjon og drøfting etter [§ 8-1](lov/2005-06-17-62/§8-1) omfatter:informasjon om den aktuelle og forventede utvikling av virksomhetens aktiviteter og økonomiske situasjon,informasjon om og drøfting av den aktuelle og forventede bemanningssituasjon i virksomheten, inkludert eventuelle innskrenkninger og de tiltak arbeidsgiver vurderer i den forbindelse,informasjon om og drøfting av beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.
+(1) Plikten til informasjon og drøfting etter [§ 8-1](lov/2005-06-17-62/§8-1) omfatter:
+
+1. informasjon om den aktuelle og forventede utvikling av virksomhetens aktiviteter og økonomiske situasjon,
+2. informasjon om og drøfting av den aktuelle og forventede bemanningssituasjon i virksomheten, inkludert eventuelle innskrenkninger og de tiltak arbeidsgiver vurderer i den forbindelse,
+3. informasjon om og drøfting av beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.
 
 (2) Informasjon etter første ledd bokstav a skal skje på et passende tidspunkt. Informasjon og drøfting etter første ledd bokstavene b og c skal skje så tidlig som mulig.
 
@@ -586,7 +720,12 @@ Reglene i [§ 6-5](lov/2005-06-17-62/§6-5) gjelder tilsvarende for medlemmer av
 
 (3) Første ledd andre og tredje punktum og andre ledd kan fravikes i tariffavtale.
 
-(4) Med konsern menes etter denne paragrafen et morforetak og ett eller flere datterforetak. Et foretak er et morforetak dersom det på grunn av avtale eller gjennom eierskap har bestemmende innflytelse over et annet foretak. Et foretak skal alltid anses å ha bestemmende innflytelse hvis deteier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av de stemmene som kan avgis på generalforsamlingen eller tilsvarende organ, ellerhar rett til å velge eller avsette mer enn halvparten av medlemmene i det andre foretakets styre.Et foretak som et morforetak har slik bestemmende innflytelse over, anses som et datterforetak. Ved beregning av stemmerettigheter og rettigheter til å velge eller avsette styremedlemmer skal rettigheter som morforetaket og morforetakets datterforetak innehar, regnes med. Det samme gjelder rettigheter som innehas av noen som handler i eget navn, men for morforetakets eller et datterforetaks regning. Kommuner, fylkeskommuner, stiftelser og foreninger kan være morforetak etter denne paragrafen.
+(4) Med konsern menes etter denne paragrafen et morforetak og ett eller flere datterforetak. Et foretak er et morforetak dersom det på grunn av avtale eller gjennom eierskap har bestemmende innflytelse over et annet foretak. Et foretak skal alltid anses å ha bestemmende innflytelse hvis det
+
+1. eier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av de stemmene som kan avgis på generalforsamlingen eller tilsvarende organ, eller
+2. har rett til å velge eller avsette mer enn halvparten av medlemmene i det andre foretakets styre.
+
+Et foretak som et morforetak har slik bestemmende innflytelse over, anses som et datterforetak. Ved beregning av stemmerettigheter og rettigheter til å velge eller avsette styremedlemmer skal rettigheter som morforetaket og morforetakets datterforetak innehar, regnes med. Det samme gjelder rettigheter som innehas av noen som handler i eget navn, men for morforetakets eller et datterforetaks regning. Kommuner, fylkeskommuner, stiftelser og foreninger kan være morforetak etter denne paragrafen.
 
 > Tilføyd ved lov [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
 
@@ -602,7 +741,11 @@ Reglene i [§ 6-5](lov/2005-06-17-62/§6-5) gjelder tilsvarende for medlemmer av
 
 (1) Arbeidsgiver plikter så tidlig som mulig å drøfte behov, utforming, gjennomføring og vesentlig endring av kontrolltiltak i virksomheten med arbeidstakernes tillitsvalgte.
 
-(2) Før tiltaket iverksettes, skal arbeidsgiver gi de berørte arbeidstakerne informasjon om:formålet med kontrolltiltaket,praktiske konsekvenser av kontrolltiltaket, herunder hvordan kontrolltiltaket vil bli gjennomført,kontrolltiltakets antatte varighet.
+(2) Før tiltaket iverksettes, skal arbeidsgiver gi de berørte arbeidstakerne informasjon om:
+
+1. formålet med kontrolltiltaket,
+2. praktiske konsekvenser av kontrolltiltaket, herunder hvordan kontrolltiltaket vil bli gjennomført,
+3. kontrolltiltakets antatte varighet.
 
 (3) Arbeidsgiver skal sammen med arbeidstakernes tillitsvalgte jevnlig evaluere behovet for de kontrolltiltak som iverksettes.
 
@@ -614,7 +757,11 @@ Reglene i [§ 6-5](lov/2005-06-17-62/§6-5) gjelder tilsvarende for medlemmer av
 
 ### § 9-4. Medisinske undersøkelser av arbeidssøkere og arbeidstakere
 
-(1) Arbeidsgiver kan bare kreve at medisinske undersøkelser skal foretas:når det følger av lov eller forskrift,ved stillinger som innebærer særlig risiko,når arbeidsgiver finner det nødvendig for å verne liv eller helse.
+(1) Arbeidsgiver kan bare kreve at medisinske undersøkelser skal foretas:
+
+1. når det følger av lov eller forskrift,
+2. ved stillinger som innebærer særlig risiko,
+3. når arbeidsgiver finner det nødvendig for å verne liv eller helse.
 
 (2) Departementet kan gi forskrift om vilkårene for å kreve medisinske undersøkelser etter denne paragraf.
 
@@ -662,9 +809,17 @@ Dersom arbeidstakerne arbeider til ulike tider på døgnet, skal det utarbeides 
 
 (3) For beredskapsvakt utenfor arbeidsstedet skal som hovedregel minst 1/7 av vakten regnes med i den alminnelige arbeidstid, avhengig av hvor belastende vaktordningen er. Arbeidsgiver og arbeidstakernes tillitsvalgte i virksomhet som er bundet av tariffavtale, kan ved skriftlig avtale fravike bestemmelsen i første punktum. Arbeidstilsynet kan etter krav fra arbeidsgiver eller arbeidstakernes tillitsvalgte fastsette en annen beregningsmåte dersom beregningen av arbeidstiden etter første punktum vil virke urimelig.
 
-(4) Den alminnelige arbeidstid må ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager for:døgnkontinuerlig skiftarbeid og sammenlignbart turnusarbeid,arbeid på to skift som regelmessig drives på søn- og helgedager, og sammenlignbart turnusarbeid som regelmessig drives på søn- og helgedager,arbeid som innebærer at den enkelte arbeidstaker må arbeide minst hver tredje søndag,arbeid som hovedsakelig drives om natten.
+(4) Den alminnelige arbeidstid må ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager for:
 
-(5) Den alminnelige arbeidstid må ikke overstige ni timer i løpet av 24 timer og 36 timer i løpet av sju dager for:helkontinuerlig skiftarbeid og sammenlignbart turnusarbeid,arbeid under jord i gruver, tunneldrift og utsprengning av bergrom under jord.
+1. døgnkontinuerlig skiftarbeid og sammenlignbart turnusarbeid,
+2. arbeid på to skift som regelmessig drives på søn- og helgedager, og sammenlignbart turnusarbeid som regelmessig drives på søn- og helgedager,
+3. arbeid som innebærer at den enkelte arbeidstaker må arbeide minst hver tredje søndag,
+4. arbeid som hovedsakelig drives om natten.
+
+(5) Den alminnelige arbeidstid må ikke overstige ni timer i løpet av 24 timer og 36 timer i løpet av sju dager for:
+
+1. helkontinuerlig skiftarbeid og sammenlignbart turnusarbeid,
+2. arbeid under jord i gruver, tunneldrift og utsprengning av bergrom under jord.
 
 (6) For tredelt skift- og turnusarbeid som ikke faller inn under fjerde eller femte ledd og som innebærer at den enkelte arbeidstaker må arbeide minst hver tredje søndag, reduseres den alminnelige arbeidstiden etter første ledd ved at hver time arbeidet på søn- og helgedag, jf. [§ 10-10](lov/2005-06-17-62/§10-10) første ledd, regnes lik 1 time og 10 minutter, og hver time arbeidet om natten, jf. [§ 10-11](lov/2005-06-17-62/§10-11) første ledd, regnes lik 1 time og 15 minutter, ned til 36 timer i løpet av sju dager. Den alminnelige arbeidstid må uansett ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager.
 
@@ -798,7 +953,11 @@ Tvist mellom arbeidsgiver og arbeidstaker om anvendelsen av bestemmelsene i [§ 
 
 ### § 11-1. Forbud mot barnearbeid
 
-(1) Barn som er under 15 år eller skolepliktige skal ikke utføre arbeid som går inn under denne lov unntattkulturelt eller lignende arbeid,lett arbeid og barnet har fylt 13 år,arbeid som ledd i barnets skolegang eller i praktisk yrkesorientering som er godkjent av skolemyndighetene og barnet har fylt 14 år.
+(1) Barn som er under 15 år eller skolepliktige skal ikke utføre arbeid som går inn under denne lov unntatt
+
+1. kulturelt eller lignende arbeid,
+2. lett arbeid og barnet har fylt 13 år,
+3. arbeid som ledd i barnets skolegang eller i praktisk yrkesorientering som er godkjent av skolemyndighetene og barnet har fylt 14 år.
 
 (2) Departementet kan i forskrift gi nærmere bestemmelser om hva slags arbeid som skal være tillatt etter første ledd. Det kan fastsettes nærmere vilkår for slikt arbeid.
 
@@ -808,13 +967,22 @@ Tvist mellom arbeidsgiver og arbeidstaker om anvendelsen av bestemmelsene i [§ 
 
 (1) Arbeidstiden for personer under 18 år skal legges slik at den ikke hindrer skolegang, eller hindrer dem i å dra nytte av undervisningen.
 
-(2) For barn som er under 15 år eller er skolepliktig skal arbeidstiden ikke overstige:2 timer i døgnet på dager med undervisning og 12 timer i uken i uker med undervisning,7 timer i døgnet på undervisningsfrie dager og 35 timer i undervisningsfrie uker,8 timer i døgnet og 40 timer i uken for samlet arbeids- og skoletid der arbeidet er ledd i en ordning med vekslende teoretisk og praktisk utdanning.
+(2) For barn som er under 15 år eller er skolepliktig skal arbeidstiden ikke overstige:
+
+1. 2 timer i døgnet på dager med undervisning og 12 timer i uken i uker med undervisning,
+2. 7 timer i døgnet på undervisningsfrie dager og 35 timer i undervisningsfrie uker,
+3. 8 timer i døgnet og 40 timer i uken for samlet arbeids- og skoletid der arbeidet er ledd i en ordning med vekslende teoretisk og praktisk utdanning.
 
 (3) For ungdom mellom 15 og 18 år som ikke er skolepliktig, skal arbeidstiden ikke overstige 8 timer i døgnet og 40 timer i uken.
 
 (4) Ved ansettelse hos flere arbeidsgivere skal arbeidstiden beregnes samlet. Arbeidsgiver plikter å skaffe seg kjennskap til arbeidstiden hos eventuelle andre arbeidsgivere.
 
-(5) Departementet kan i forskrift fastsette unntak fraandre ledd bokstav a for kulturelt eller lignende arbeid, ogandre ledd bokstav c og tredje ledd, dersom særlige grunner foreligger.Forskrift etter dette ledd kan inneholde vilkår.
+(5) Departementet kan i forskrift fastsette unntak fra
+
+1. andre ledd bokstav a for kulturelt eller lignende arbeid, og
+2. andre ledd bokstav c og tredje ledd, dersom særlige grunner foreligger.
+
+Forskrift etter dette ledd kan inneholde vilkår.
 
 ### § 11-3. Forbud mot nattarbeid
 
@@ -838,7 +1006,10 @@ Tvist mellom arbeidsgiver og arbeidstaker om anvendelsen av bestemmelsene i [§ 
 
 (1) Personer under 18 år skal ha hvilepause i minst en halv time, om mulig sammenhengende, dersom den daglige arbeidstiden overstiger fire og en halv time.
 
-(2) Innenfor hver periode på 24 timer skal det være en sammenhengende arbeidsfri periode på minst:14 timer for barn som er under 15 år eller er skolepliktig,12 timer for ungdom mellom 15 og 18 år som ikke er skolepliktig.
+(2) Innenfor hver periode på 24 timer skal det være en sammenhengende arbeidsfri periode på minst:
+
+1. 14 timer for barn som er under 15 år eller er skolepliktig,
+2. 12 timer for ungdom mellom 15 og 18 år som ikke er skolepliktig.
 
 (3) Personer under 18 år skal ha en sammenhengende arbeidsfri periode på minst 48 timer i løpet av sju dager. Den arbeidsfrie perioden skal så vidt mulig legges til søn- eller helgedag.
 
@@ -900,13 +1071,23 @@ Permisjon etter [§§ 12-2](lov/2005-06-17-62/§12-2) til [12-6](lov/2005-06-17-
 
 ### § 12-9. Barns og barnepassers sykdom
 
-(1) Arbeidstaker som har omsorg for barn har rett til permisjon:for nødvendig tilsyn med barnet når det er sykt,hvis barnet skal følges til legeundersøkelse eller annen oppfølging i forbindelse med sykdom, ellerhvis den som har det daglige barnetilsynet er syk eller har permisjon etter denne paragraf på grunn av et annet barn.
+(1) Arbeidstaker som har omsorg for barn har rett til permisjon:
+
+1. for nødvendig tilsyn med barnet når det er sykt,
+2. hvis barnet skal følges til legeundersøkelse eller annen oppfølging i forbindelse med sykdom, eller
+3. hvis den som har det daglige barnetilsynet er syk eller har permisjon etter denne paragraf på grunn av et annet barn.
 
 (2) Retten til permisjon etter paragrafen her gjelder til og med det kalenderåret barnet fyller 12 år. Arbeidstaker har rett til permisjon inntil 10 dager hvert kalenderår eller inntil 15 dager dersom arbeidstaker har omsorg for mer enn to barn.
 
 (3) Dersom barnet har kronisk sykdom, langvarig sykdom eller har nedsatt funksjonsevne og det derfor er en markert økning av risikoen for at arbeidstaker får fravær fra arbeidet, har arbeidstaker rett til fri etter første ledd i inntil 20 dager hvert kalenderår. Retten til permisjon gjelder til og med det kalenderåret barnet fyller 18 år. Arbeidstaker har i tillegg rett til permisjon for å delta i opplæring ved godkjent helseinstitusjon eller offentlig kompetansesenter for å kunne ta seg av og behandle barnet.
 
-(4) Arbeidstaker som har omsorg for barn har rett til permisjon dersom:barnet blir innlagt i helseinstitusjon og arbeidstaker oppholder seg ved helseinstitusjonen,barnet er utskrevet fra helseinstitusjon og arbeidstaker må være hjemme fordi barnet trenger kontinuerlig tilsyn og pleie, ellerbarnet har livstruende eller annen svært alvorlig sykdom eller skade.Ved permisjon etter bokstavene a og b gjelder aldersgrensene i andre og tredje ledd. Rett til permisjon etter bokstav c gjelder til og med det kalenderåret barnet fyller 18 år, men uten hensyn til alder hvis barnet er psykisk utviklingshemmet.
+(4) Arbeidstaker som har omsorg for barn har rett til permisjon dersom:
+
+1. barnet blir innlagt i helseinstitusjon og arbeidstaker oppholder seg ved helseinstitusjonen,
+2. barnet er utskrevet fra helseinstitusjon og arbeidstaker må være hjemme fordi barnet trenger kontinuerlig tilsyn og pleie, eller
+3. barnet har livstruende eller annen svært alvorlig sykdom eller skade.
+
+Ved permisjon etter bokstavene a og b gjelder aldersgrensene i andre og tredje ledd. Rett til permisjon etter bokstav c gjelder til og med det kalenderåret barnet fyller 18 år, men uten hensyn til alder hvis barnet er psykisk utviklingshemmet.
 
 (5) Arbeidstaker har uansett rett til permisjon når det ytes omsorgspenger, pleiepenger eller opplæringspenger fra folketrygden.
 
@@ -928,7 +1109,10 @@ Arbeidstaker har rett til permisjon i inntil 10 dager hvert kalenderår for å g
 
 (2) Permisjon kan likevel ikke kreves når det vil være til hinder for arbeidsgivers forsvarlige planlegging av drift og personaldisponeringer.
 
-(3) Arbeidstaker som har hatt utdanningspermisjon, har ikke rett til ny utdanningspermisjon før det har gåttdobbelt så lang tid som varigheten av den foregående permisjonen ogminst ett år fra den foregående permisjonen tok til, unntatt ved utdanningspermisjon for kurs under én måneds varighet.
+(3) Arbeidstaker som har hatt utdanningspermisjon, har ikke rett til ny utdanningspermisjon før det har gått
+
+1. dobbelt så lang tid som varigheten av den foregående permisjonen og
+2. minst ett år fra den foregående permisjonen tok til, unntatt ved utdanningspermisjon for kurs under én måneds varighet.
 
 (4) Arbeidstaker som vil bruke retten til utdanningspermisjon, må gi arbeidsgiver skriftlig varsel om dette. Varslet skal inneholde opplysninger om utdanningens faglige innhold, varighet og eventuelt opptak ved utdanningsinstitusjon. Dersom det gjelder utdanning ut over grunnskole eller videregående opplæringsnivå, må yrkesrelevans begrunnes.
 
@@ -980,7 +1164,12 @@ Ved utbrudd eller fare for utbrudd av allmennfarlig smittsom sykdom kan departem
 
 ### § 13-2. Hva kapitlet omfatter
 
-(1) Bestemmelsene i dette kapittel gjelder alle sider ved arbeidsforholdet, herunder:utlysning av stilling, ansettelse, omplassering og forfremmelse,opplæring og annen kompetanseutvikling,lønns- og arbeidsvilkår,opphør.
+(1) Bestemmelsene i dette kapittel gjelder alle sider ved arbeidsforholdet, herunder:
+
+1. utlysning av stilling, ansettelse, omplassering og forfremmelse,
+2. opplæring og annen kompetanseutvikling,
+3. lønns- og arbeidsvilkår,
+4. opphør.
 
 (2) Bestemmelsene i dette kapittel gjelder tilsvarende for arbeidsgivers valg og behandling av selvstendige oppdragstakere og innleide arbeidstakere.
 
@@ -1130,7 +1319,25 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten. 
 
 ### § 14-6. Minimumskrav til innholdet i den skriftlige arbeidsavtalen
 
-(1) Arbeidsavtalen skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet, herunder:partenes identitet,arbeidsplassen. Dersom det ikke eksisterer noen fast arbeidsplass eller hovedarbeidsplass skal arbeidsavtalen gi opplysning om at arbeidstakeren arbeider på forskjellige steder eller fritt kan bestemme sitt arbeidssted, og oppgi forretningsadressen eller eventuelt hjemstedet til arbeidsgiver,en beskrivelse av arbeidet eller arbeidstakerens tittel, stilling eller arbeidskategori,tidspunktet for arbeidsforholdets begynnelse,forventet varighet dersom arbeidsforholdet er midlertidig, samt grunnlaget for ansettelsen, jf. [§ 14-9](lov/2005-06-17-62/§14-9),eventuelle prøvetidsbestemmelser, jf. [§ 15-3 sjuende ledd](lov/2005-06-17-62/§15-3/ledd/7) og [§ 15-6](lov/2005-06-17-62/§15-6),arbeidstakerens rett til ferie og feriepenger, reglene for fastsettelse av ferietidspunktet og eventuell rett til annet fravær betalt av arbeidsgiver,arbeidstakerens og arbeidsgiverens oppsigelsesfrister og fremgangsmåte ved opphør av arbeidsforholdet,den gjeldende eller avtalte lønnen ved arbeidsforholdets begynnelse, eventuelle tillegg og andre godtgjøringer som ikke inngår i lønnen, for eksempel pensjonsinnbetalinger og kost- eller nattgodtgjørelse, utbetalingsmåte og tidspunkt for lønnsutbetaling. De ulike elementene skal angis særskilt,lengde og plassering av den daglige og ukentlige arbeidstid. Dersom arbeidet skal utføres periodevis eller den daglige og ukentlige arbeidstiden vil variere, skal arbeidsavtalen opplyse om dette og fastsette eller gi grunnlag for å beregne når arbeidet skal utføres,lengde av pauser,avtale om særlig arbeidstidsordning, jf. [§ 10-2 andre](lov/2005-06-17-62/§10-2/ledd/2), [tredje](lov/2005-06-17-62/§10-2/ledd/3) og [fjerde ledd](lov/2005-06-17-62/§10-2/ledd/4),ordninger for vaktendringer, jf. [§ 10-3](lov/2005-06-17-62/§10-3), samt ordninger for arbeid utover avtalt arbeidstid, herunder betaling for slikt arbeid,opplysninger om eventuelle tariffavtaler som regulerer arbeidsforholdet. Dersom avtale er inngått av parter utenfor virksomheten skal arbeidsavtalen inneholde opplysninger om hvem tariffpartene er,innleiers identitet dersom arbeidstaker leies ut fra bemanningsforetak. Opplysningen skal gis så snart innleiers identitet er kjent,rett til kompetanseutvikling som arbeidsgiver eventuelt tilbyr,ytelser i regi av arbeidsgiver til sosial trygghet samt navn på institusjoner som mottar innbetalinger fra arbeidsgiver i denne forbindelse.
+(1) Arbeidsavtalen skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet, herunder:
+
+1. partenes identitet,
+2. arbeidsplassen. Dersom det ikke eksisterer noen fast arbeidsplass eller hovedarbeidsplass skal arbeidsavtalen gi opplysning om at arbeidstakeren arbeider på forskjellige steder eller fritt kan bestemme sitt arbeidssted, og oppgi forretningsadressen eller eventuelt hjemstedet til arbeidsgiver,
+3. en beskrivelse av arbeidet eller arbeidstakerens tittel, stilling eller arbeidskategori,
+4. tidspunktet for arbeidsforholdets begynnelse,
+5. forventet varighet dersom arbeidsforholdet er midlertidig, samt grunnlaget for ansettelsen, jf. [§ 14-9](lov/2005-06-17-62/§14-9),
+6. eventuelle prøvetidsbestemmelser, jf. [§ 15-3 sjuende ledd](lov/2005-06-17-62/§15-3/ledd/7) og [§ 15-6](lov/2005-06-17-62/§15-6),
+7. arbeidstakerens rett til ferie og feriepenger, reglene for fastsettelse av ferietidspunktet og eventuell rett til annet fravær betalt av arbeidsgiver,
+8. arbeidstakerens og arbeidsgiverens oppsigelsesfrister og fremgangsmåte ved opphør av arbeidsforholdet,
+9. den gjeldende eller avtalte lønnen ved arbeidsforholdets begynnelse, eventuelle tillegg og andre godtgjøringer som ikke inngår i lønnen, for eksempel pensjonsinnbetalinger og kost- eller nattgodtgjørelse, utbetalingsmåte og tidspunkt for lønnsutbetaling. De ulike elementene skal angis særskilt,
+10. lengde og plassering av den daglige og ukentlige arbeidstid. Dersom arbeidet skal utføres periodevis eller den daglige og ukentlige arbeidstiden vil variere, skal arbeidsavtalen opplyse om dette og fastsette eller gi grunnlag for å beregne når arbeidet skal utføres,
+11. lengde av pauser,
+12. avtale om særlig arbeidstidsordning, jf. [§ 10-2 andre](lov/2005-06-17-62/§10-2/ledd/2), [tredje](lov/2005-06-17-62/§10-2/ledd/3) og [fjerde ledd](lov/2005-06-17-62/§10-2/ledd/4),
+13. ordninger for vaktendringer, jf. [§ 10-3](lov/2005-06-17-62/§10-3), samt ordninger for arbeid utover avtalt arbeidstid, herunder betaling for slikt arbeid,
+14. opplysninger om eventuelle tariffavtaler som regulerer arbeidsforholdet. Dersom avtale er inngått av parter utenfor virksomheten skal arbeidsavtalen inneholde opplysninger om hvem tariffpartene er,
+15. innleiers identitet dersom arbeidstaker leies ut fra bemanningsforetak. Opplysningen skal gis så snart innleiers identitet er kjent,
+16. rett til kompetanseutvikling som arbeidsgiver eventuelt tilbyr,
+17. ytelser i regi av arbeidsgiver til sosial trygghet samt navn på institusjoner som mottar innbetalinger fra arbeidsgiver i denne forbindelse.
 
 (2) Informasjon nevnt i første ledd bokstavene g til k samt m, p og q, kan gis ved å henvise til lover, forskrifter eller tariffavtaler som regulerer disse forholdene.
 
@@ -1142,9 +1349,18 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten. 
 
 ### § 14-7. Arbeidstaker som sendes til utlandet
 
-(1) Dersom arbeidstaker skal arbeide i utlandet i mer enn fire sammenhengende uker, skal skriftlig arbeidsavtale inngås før avreise. I tillegg til informasjon som nevnt i [§ 14-6](lov/2005-06-17-62/§14-6) skal avtalen minst regulere følgende:hvilke land arbeidet skal utføres i, og varigheten av arbeidet som skal utføres i utlandet,valutaen vederlaget skal utbetales i,eventuelle kontant- og naturalytelser som er knyttet til utenlandsarbeidet,vilkårene for arbeidstakerens hjemreise, herunder utgiftsdekning.
+(1) Dersom arbeidstaker skal arbeide i utlandet i mer enn fire sammenhengende uker, skal skriftlig arbeidsavtale inngås før avreise. I tillegg til informasjon som nevnt i [§ 14-6](lov/2005-06-17-62/§14-6) skal avtalen minst regulere følgende:
 
-(2) Når en norsk virksomhet i forbindelse med tjenesteyting sender ut en arbeidstaker til et annet land innenfor EØS-området, skal informasjonen nevnt i første ledd i tillegg omfatte følgende:den lønnen arbeidstaker har krav på etter gjeldende rett i vertslandet,eventuelle ytelser som spesifikt vedrører utsendelsen, og eventuelle ordninger for godtgjørelse av utgifter til reise, kost og losji der dette er relevant,lenke til det sentrale offisielle nasjonale nettstedet som er etablert i vertslandet etter direktiv [2014/67/EU](eu/32014l0067) artikkel 5 andre ledd.
+1. hvilke land arbeidet skal utføres i, og varigheten av arbeidet som skal utføres i utlandet,
+2. valutaen vederlaget skal utbetales i,
+3. eventuelle kontant- og naturalytelser som er knyttet til utenlandsarbeidet,
+4. vilkårene for arbeidstakerens hjemreise, herunder utgiftsdekning.
+
+(2) Når en norsk virksomhet i forbindelse med tjenesteyting sender ut en arbeidstaker til et annet land innenfor EØS-området, skal informasjonen nevnt i første ledd i tillegg omfatte følgende:
+
+1. den lønnen arbeidstaker har krav på etter gjeldende rett i vertslandet,
+2. eventuelle ytelser som spesifikt vedrører utsendelsen, og eventuelle ordninger for godtgjørelse av utgifter til reise, kost og losji der dette er relevant,
+3. lenke til det sentrale offisielle nasjonale nettstedet som er etablert i vertslandet etter direktiv [2014/67/EU](eu/32014l0067) artikkel 5 andre ledd.
 
 (3) Informasjon som nevnt i første ledd bokstav b og andre ledd bokstav a kan gis i form av en henvisning til lover, forskrifter eller tariffavtaler som regulerer disse forholdene.
 
@@ -1168,7 +1384,13 @@ Endringer i arbeidsforholdet som nevnt i [§§ 14-6](lov/2005-06-17-62/§14-6) o
 
 (1) Arbeidstaker skal ansettes fast. Med fast ansettelse menes i denne lov at ansettelsen er løpende og tidsubegrenset, at lovens regler om opphør av arbeidsforhold gjelder, og at arbeidstaker sikres forutsigbarhet for arbeid i form av et reelt stillingsomfang.
 
-(2) Avtale om midlertidig ansettelse kan likevel inngåsnår arbeidet er av midlertidig karakterfor arbeid i stedet for en annen eller andre (vikariat)for praksisarbeidmed deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetatenmed idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten
+(2) Avtale om midlertidig ansettelse kan likevel inngås
+
+1. når arbeidet er av midlertidig karakter
+2. for arbeid i stedet for en annen eller andre (vikariat)
+3. for praksisarbeid
+4. med deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetaten
+5. med idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten
 
 (3) Departementet kan i forskrift gi nærmere bestemmelser om midlertidig ansettelse for praksisarbeid og om hvilke typer arbeidsmarkedstiltak som omfattes av andre ledd bokstav d.
 
@@ -1216,7 +1438,14 @@ Endringer i arbeidsforholdet som nevnt i [§§ 14-6](lov/2005-06-17-62/§14-6) o
 
 ### § 14-12 a. Likebehandling av lønns- og arbeidsvilkår ved utleie fra bemanningsforetak
 
-(1) Bemanningsforetaket skal sørge for at utleid arbeidstaker minst sikres de vilkår som ville kommet til anvendelse dersom arbeidstaker hadde vært ansatt hos innleier for å utføre samme arbeid, når det gjelder:arbeidstidens lengde og plassering,overtidsarbeid,varighet og plassering av pauser og hvileperioder,nattarbeid,feriefritid, feriepenger, fridager og godtgjøring på slike dager, oglønn og utgiftsdekning.
+(1) Bemanningsforetaket skal sørge for at utleid arbeidstaker minst sikres de vilkår som ville kommet til anvendelse dersom arbeidstaker hadde vært ansatt hos innleier for å utføre samme arbeid, når det gjelder:
+
+1. arbeidstidens lengde og plassering,
+2. overtidsarbeid,
+3. varighet og plassering av pauser og hvileperioder,
+4. nattarbeid,
+5. feriefritid, feriepenger, fridager og godtgjøring på slike dager, og
+6. lønn og utgiftsdekning.
 
 (2) Arbeidstaker som blir leid ut, skal ha samme tilgang til felles goder og tjenester hos innleier som virksomhetens egne arbeidstakere, med mindre objektive grunner tilsier noe annet.
 
@@ -1292,7 +1521,14 @@ Arbeidsgiver skal minst én gang i året, eller når en av partene krever det, d
 
 (2) Lønn i penger, herunder feriepenger og annen godtgjøring i penger, skal utbetales fra arbeidsgiver via bank eller foretak med rett til å drive betalingsformidling til arbeidstakers konto. Første punktum gjelder likevel ikke dersom slik betalingsmåte er umulig eller svært byrdefull for arbeidstaker eller arbeidsgiver.
 
-(3) Trekk i lønn og feriepenger kan ikke gjøres unntatt:når det er hjemlet i lov,for arbeidstakers egenandel til tjenestepensjonsordninger som er omfattet av foretakspensjonsloven, innskuddspensjonsloven eller offentlige tjenestepensjonsordninger.når det på forhånd er fastsatt ved skriftlig avtale,når det ved tariffavtale er fastsatt regler om lønnstrekk for fagforeningskontingent, herunder premie til kollektiv forsikring som er knyttet til medlemskap i fagforening, eller avgift til opplysnings- og utviklingsfond, eller til lavtlønnsfond,når det gjelder erstatning for skade eller tap som arbeidstaker i forbindelse med arbeidet forsettlig eller ved grov uaktsomhet har påført virksomheten, og arbeidstaker skriftlig erkjenner erstatningsansvar, eller dette er fastslått ved dom, eller arbeidstaker rettsstridig fratrer sin stilling,når det på grunn av gjeldende rutiner for beregning og utbetaling av lønn ikke har vært praktisk mulig å ta hensyn til fravær på grunn av arbeidsnedleggelse eller arbeidsstengning i avregningsperioden.
+(3) Trekk i lønn og feriepenger kan ikke gjøres unntatt:
+
+1. når det er hjemlet i lov,
+2. for arbeidstakers egenandel til tjenestepensjonsordninger som er omfattet av foretakspensjonsloven, innskuddspensjonsloven eller offentlige tjenestepensjonsordninger.
+3. når det på forhånd er fastsatt ved skriftlig avtale,
+4. når det ved tariffavtale er fastsatt regler om lønnstrekk for fagforeningskontingent, herunder premie til kollektiv forsikring som er knyttet til medlemskap i fagforening, eller avgift til opplysnings- og utviklingsfond, eller til lavtlønnsfond,
+5. når det gjelder erstatning for skade eller tap som arbeidstaker i forbindelse med arbeidet forsettlig eller ved grov uaktsomhet har påført virksomheten, og arbeidstaker skriftlig erkjenner erstatningsansvar, eller dette er fastslått ved dom, eller arbeidstaker rettsstridig fratrer sin stilling,
+6. når det på grunn av gjeldende rutiner for beregning og utbetaling av lønn ikke har vært praktisk mulig å ta hensyn til fravær på grunn av arbeidsnedleggelse eller arbeidsstengning i avregningsperioden.
 
 (4) Trekk i lønn eller feriepenger etter tredje ledd bokstav c, e og f skal begrenses til den del av kravet som overstiger det arbeidstaker med rimelighet trenger til underhold for seg og sin husstand.
 
@@ -1420,7 +1656,18 @@ Før arbeidsgiver fatter beslutning om oppsigelse, skal spørsmålet så langt d
 
 (2) Arbeidsgiver som vurderer å gå til masseoppsigelser, skal så tidlig som mulig innlede drøftinger med arbeidstakernes tillitsvalgte med sikte på å komme fram til en avtale for å unngå masseoppsigelser eller for å redusere antall oppsagte. Vurderer arbeidsgiver å legge ned virksomheten eller en selvstendig del av denne, og nedleggelsen innebærer en masseoppsigelse, skal også muligheten for videre drift drøftes, herunder om mulighetene for de ansattes overtakelse av virksomheten. Dersom oppsigelser ikke kan unngås, skal de uheldige sidene ved dem søkes redusert. Drøftingene skal omfatte mulige sosiale tiltak med sikte på blant annet støtte til omplassering eller omskolering av de oppsagte. Arbeidstakernes tillitsvalgte kan la seg bistå av sakkyndige. Arbeidsgiver har plikt til å innlede drøftinger selv om de planlagte oppsigelsene skyldes andre enn arbeidsgiver og som har beslutningsmyndighet overfor denne, f.eks. en konsernledelse.
 
-(3) Arbeidsgiver har plikt til å gi tillitsvalgte alle relevante opplysninger, herunder skriftlig melding om:grunnene til eventuelle oppsigelser,antall arbeidstakere som vil kunne bli oppsagt,hvilke arbeidsgrupper de tilhører,antall arbeidstakere som normalt er ansatt,hvilke arbeidstakergrupper som normalt er sysselsatt,over hvilken periode oppsigelsene vil kunne bli foretatt,forslag til kriterier for utvelgelse av de som eventuelt skal sies opp,forslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag.Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Arbeids- og velferdsetaten, jf. [arbeidsmarkedsloven § 8](lov/2004-12-10-76/§8).
+(3) Arbeidsgiver har plikt til å gi tillitsvalgte alle relevante opplysninger, herunder skriftlig melding om:
+
+1. grunnene til eventuelle oppsigelser,
+2. antall arbeidstakere som vil kunne bli oppsagt,
+3. hvilke arbeidsgrupper de tilhører,
+4. antall arbeidstakere som normalt er ansatt,
+5. hvilke arbeidstakergrupper som normalt er sysselsatt,
+6. over hvilken periode oppsigelsene vil kunne bli foretatt,
+7. forslag til kriterier for utvelgelse av de som eventuelt skal sies opp,
+8. forslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag.
+
+Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Arbeids- og velferdsetaten, jf. [arbeidsmarkedsloven § 8](lov/2004-12-10-76/§8).
 
 (4) Arbeidstakernes tillitsvalgte kan kommentere meldingen direkte overfor Arbeids- og velferdsetaten.
 
@@ -1456,7 +1703,14 @@ Før arbeidsgiver fatter beslutning om oppsigelse, skal spørsmålet så langt d
 
 (1) Oppsigelse skal skje skriftlig.
 
-(2) Oppsigelse fra arbeidsgivers side skal leveres til arbeidstaker personlig eller sendes i rekommandert brev til arbeidstakers oppgitte adresse. Oppsigelsen skal anses for å ha funnet sted når den er kommet fram til arbeidstaker. Oppsigelsen skal inneholde opplysninger omarbeidstakers rett til å kreve forhandling og reise søksmål,retten til å fortsette i stillingen etter bestemmelsene i [§§ 17-3](lov/2005-06-17-62/§17-3), [17-4](lov/2005-06-17-62/§17-4) og [15-11](lov/2005-06-17-62/§15-11),de frister som gjelder for å kreve forhandling, reise søksmål og for å fortsette i stillingen, oghvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.Er oppsigelsen begrunnet i virksomhetens forhold, skal den inneholde opplysninger om fortrinnsrett etter [§ 14-2](lov/2005-06-17-62/§14-2). Tilhører arbeidsgiver et konsern, skal oppsigelsen også opplyse om hvilke foretak som inngår i konsernet på oppsigelsestidspunktet.
+(2) Oppsigelse fra arbeidsgivers side skal leveres til arbeidstaker personlig eller sendes i rekommandert brev til arbeidstakers oppgitte adresse. Oppsigelsen skal anses for å ha funnet sted når den er kommet fram til arbeidstaker. Oppsigelsen skal inneholde opplysninger om
+
+1. arbeidstakers rett til å kreve forhandling og reise søksmål,
+2. retten til å fortsette i stillingen etter bestemmelsene i [§§ 17-3](lov/2005-06-17-62/§17-3), [17-4](lov/2005-06-17-62/§17-4) og [15-11](lov/2005-06-17-62/§15-11),
+3. de frister som gjelder for å kreve forhandling, reise søksmål og for å fortsette i stillingen, og
+4. hvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.
+
+Er oppsigelsen begrunnet i virksomhetens forhold, skal den inneholde opplysninger om fortrinnsrett etter [§ 14-2](lov/2005-06-17-62/§14-2). Tilhører arbeidsgiver et konsern, skal oppsigelsen også opplyse om hvilke foretak som inngår i konsernet på oppsigelsestidspunktet.
 
 (3) Dersom arbeidstaker krever det, skal arbeidsgiver oppgi de omstendigheter som påberopes som grunn for oppsigelsen. Arbeidstaker kan kreve å få opplysningene skriftlig.
 
@@ -1632,7 +1886,14 @@ Bestemmelsene i dette kapittel gjelder ikke ved oppsigelse etter [arbeidstvistlo
 
 (1) Tidligere og ny arbeidsgiver skal så tidlig som mulig gi informasjon om og drøfte overdragelsen med arbeidstakernes tillitsvalgte.
 
-(2) Det skal gis særskilt informasjon om:grunnen til overdragelsen,fastsatt eller foreslått dato for overdragelsen,de rettslige, økonomiske og sosiale følger av overdragelsen for arbeidstakerne,endringer i tariffavtaleforhold,planlagte tiltak overfor arbeidstakerne,reservasjons- og fortrinnsrett, og fristen for å utøve slike rettigheter.
+(2) Det skal gis særskilt informasjon om:
+
+1. grunnen til overdragelsen,
+2. fastsatt eller foreslått dato for overdragelsen,
+3. de rettslige, økonomiske og sosiale følger av overdragelsen for arbeidstakerne,
+4. endringer i tariffavtaleforhold,
+5. planlagte tiltak overfor arbeidstakerne,
+6. reservasjons- og fortrinnsrett, og fristen for å utøve slike rettigheter.
 
 (3) Dersom tidligere eller ny arbeidsgiver planlegger tiltak overfor arbeidstakerne, skal dette så tidlig som mulig drøftes med tillitsvalgte med sikte på å oppnå en avtale.
 
@@ -1690,9 +1951,17 @@ Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arb
 
 ### § 17-2 b. Gjenåpning
 
-(1) Nemndas rettskraftige avgjørelser og beslutninger kan gjenåpnes etter begjæring fra en part dersomdet foreligger brudd på habilitetskrav i [forvaltningsloven § 6](lov/1967-02-10/§6)det foreligger andre saksbehandlingsfeil, og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innholdopplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt et annen.
+(1) Nemndas rettskraftige avgjørelser og beslutninger kan gjenåpnes etter begjæring fra en part dersom
 
-(2) En sak kan ikke gjenåpnesav en grunn som ble forkastet ved sakens behandlingav en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskningdersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
+1. det foreligger brudd på habilitetskrav i [forvaltningsloven § 6](lov/1967-02-10/§6)
+2. det foreligger andre saksbehandlingsfeil, og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innhold
+3. opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt et annen.
+
+(2) En sak kan ikke gjenåpnes
+
+1. av en grunn som ble forkastet ved sakens behandling
+2. av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning
+3. dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
 
 (3) Et vedtak om gjenåpning treffes av nemndsleder.
 
@@ -1718,7 +1987,14 @@ Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arb
 
 (1) Arbeidstaker som vil gjøre gjeldende at en oppsigelse eller avskjed er ulovlig, at det er brudd på lovens regler om fortrinnsrett eller at det har skjedd en ulovlig midlertidig ansettelse, innleie eller suspensjon, kan kreve forhandlinger med arbeidsgiver. Det samme gjelder hvis arbeidstaker vil kreve erstatning på grunn av forhold som nevnt i første punktum.
 
-(2) Arbeidstaker som vil kreve forhandlinger må skriftlig underrette arbeidsgiver om dette innen to uker. Fristen til å kreve forhandlinger regnes fra:oppsigelsen eller avskjeden fant sted,arbeidsgiver avslo krav fra arbeidstaker om fortrinnsrett til ny stilling,arbeidstaker fratrådte ved tvist om det har foreligget ulovlig innleie eller midlertidig ansettelse, ellersuspensjonens opphørstidspunkt.Ved tvist om det foreligger lovlig innleie, midlertidig ansettelse eller suspensjon gjelder ingen frist for å kreve forhandlinger.
+(2) Arbeidstaker som vil kreve forhandlinger må skriftlig underrette arbeidsgiver om dette innen to uker. Fristen til å kreve forhandlinger regnes fra:
+
+1. oppsigelsen eller avskjeden fant sted,
+2. arbeidsgiver avslo krav fra arbeidstaker om fortrinnsrett til ny stilling,
+3. arbeidstaker fratrådte ved tvist om det har foreligget ulovlig innleie eller midlertidig ansettelse, eller
+4. suspensjonens opphørstidspunkt.
+
+Ved tvist om det foreligger lovlig innleie, midlertidig ansettelse eller suspensjon gjelder ingen frist for å kreve forhandlinger.
 
 (3) Arbeidsgiver skal sørge for at forhandlingsmøte blir holdt snarest mulig og senest innen to uker etter at kravet er mottatt.
 
@@ -1818,7 +2094,11 @@ Domstoladministrasjonen oppnevner ett eller flere særskilte arbeidslivskyndige 
 
 (2) Opplysninger som nevnt i første ledd kan også kreves fra andre offentlige tilsynsmyndigheter uten hinder av den taushetsplikt som ellers gjelder. Opplysningsplikten gjelder bare de opplysninger som er nødvendige for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.
 
-(3) Opplysninger som nevnt i første ledd kan, når særlige forhold gjør det nødvendig, også kreves utlevert fra en annen virksomhet enn den et tilsyn er rettet mot. Arbeidstilsynet kan bare kreve opplysninger fra en slik annen virksomhet når det anses forholdsmessig. I forholdsmessighetsvurderingen skal det blant annet legges vekt på:om det er mistanke om lovbrudd, og hvor alvorlige lovbruddene er,hvor sensitive de etterspurte opplysningene er, ogarbeidsbyrden for virksomheten som skal utlevere opplysningene.
+(3) Opplysninger som nevnt i første ledd kan, når særlige forhold gjør det nødvendig, også kreves utlevert fra en annen virksomhet enn den et tilsyn er rettet mot. Arbeidstilsynet kan bare kreve opplysninger fra en slik annen virksomhet når det anses forholdsmessig. I forholdsmessighetsvurderingen skal det blant annet legges vekt på:
+
+1. om det er mistanke om lovbrudd, og hvor alvorlige lovbruddene er,
+2. hvor sensitive de etterspurte opplysningene er, og
+3. arbeidsbyrden for virksomheten som skal utlevere opplysningene.
 
 (4) Arbeidstilsynets rett til å kreve opplysninger etter tredje ledd omfatter ikke særlige kategorier av personopplysninger etter [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9). [Forvaltningslovens](lov/1967-02-10) regler om enkeltvedtak gjelder ikke for pålegg om opplysninger etter tredje ledd.
 
@@ -1834,7 +2114,10 @@ Domstoladministrasjonen oppnevner ett eller flere særskilte arbeidslivskyndige 
 
 (4) Arbeidstilsynet kan kreve at produsent eller importør av kjemikalier eller biologisk materiale foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått kjemikaliets eller materialets farlighetsgrad. Utgifter til slike undersøkelser bæres av den som har plikt til å foreta undersøkelsen eller levere prøven. Arbeidstilsynet kan forby omsetning av et kjemikalie eller biologisk materiale hvis en produsent eller importør forsømmer sin melde- eller merkeplikt, eller ikke gir supplerende opplysninger som kreves etter [§ 5-4](lov/2005-06-17-62/§5-4) første ledd bokstav c.
 
-(5) Arbeidstilsynet kan gi pålegg om at den som leverer eller markedsfører et produkt som selv om det brukes i samsvar med de kravene som stilles, kan medføre fare for liv eller helse, skal treffe nødvendige tiltak for å avverge faren. Det kan blant annet kreves at:levering eller markedsføring stanses,produkter tilbakekalles.
+(5) Arbeidstilsynet kan gi pålegg om at den som leverer eller markedsfører et produkt som selv om det brukes i samsvar med de kravene som stilles, kan medføre fare for liv eller helse, skal treffe nødvendige tiltak for å avverge faren. Det kan blant annet kreves at:
+
+1. levering eller markedsføring stanses,
+2. produkter tilbakekalles.
 
 (6) I forbindelse med tillatelse, samtykke, dispensasjon eller andre enkeltvedtak kan Arbeidstilsynet sette nærmere bestemte vilkår.
 
@@ -1868,7 +2151,17 @@ Dersom pålegg ikke oppfylles innen fristen, kan Arbeidstilsynet helt eller delv
 
 (1) Arbeidstilsynet kan ilegge en virksomhet overtredelsesgebyr dersom noen som har handlet på vegne av virksomheten uaktsomt eller forsettlig har overtrådt bestemmelser som nevnt i [§ 18-6 første ledd](lov/2005-06-17-62/§18-6/ledd/1). Overtredelsesgebyr kan ilegges selv om ingen enkeltperson har utvist skyld. Overtredelsesgebyret tilfaller statskassen og kan utgjøre inntil 50 ganger grunnbeløpet i folketrygden eller fire prosent av virksomhetens årsomsetning. Det høyeste beløpet utgjør den øvre rammen.
 
-(2) Ved vurdering av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på:hvor alvorlig overtredelsen er,graden av skyld,om det foreligger gjentagelse,om virksomheten ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,om virksomheten har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,om overtredelsen er begått for å fremme virksomhetens interesser,om andre reaksjoner som følge av overtredelsen blir ilagt virksomheten eller noen som har handlet på vegne av denne,virksomhetens økonomiske evne, ogden preventive effekten.
+(2) Ved vurdering av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på:
+
+1. hvor alvorlig overtredelsen er,
+2. graden av skyld,
+3. om det foreligger gjentagelse,
+4. om virksomheten ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,
+5. om virksomheten har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,
+6. om overtredelsen er begått for å fremme virksomhetens interesser,
+7. om andre reaksjoner som følge av overtredelsen blir ilagt virksomheten eller noen som har handlet på vegne av denne,
+8. virksomhetens økonomiske evne, og
+9. den preventive effekten.
 
 (3) Når ikke annet er fastsatt i enkeltvedtak, er oppfyllelsesfristen fire uker fra vedtak om overtredelsesgebyr ble truffet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom virksomheten går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften. Retten kan prøve alle sider av saken. Overtredelsesgebyr kan ilegges på stedet ved klart konstaterbare overtredelser. Andre ledd gjelder ikke ved slik ileggelse av overtredelsesgebyr. Forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16) kan unnlates når overtredelsesgebyr ilegges på stedet.
 
@@ -1880,7 +2173,12 @@ Dersom pålegg ikke oppfylles innen fristen, kan Arbeidstilsynet helt eller delv
 
 (1) Arbeidstilsynet kan ilegge overtredelsesgebyr til den som i arbeidsgivers sted leder virksomheten, hvis vedkommende forsettlig eller grovt uaktsomt overtrer bestemmelser som nevnt i [§ 18-6 første ledd](lov/2005-06-17-62/§18-6/ledd/1). Overtredelsesgebyret tilfaller statskassen, og kan utgjøre inntil 25 ganger grunnbeløpet i folketrygden.
 
-(2) Ved vurderingen av om det skal ilegges overtredelsesgebyr etter første ledd, og ved utmålingen, skal Arbeidstilsynet blant annet legge vekt på:overtredelsens omfang og virkninger,fordeler som er eller kunne vært oppnådd ved lovbruddet,overtrederens skyld og økonomiske evne, ogom det er rimelig grunn til å tro at overtrederen har innrettet, eller vil forsøke å innrette, virksomheten på en slik måte at et overtredelsesgebyr mot virksomheten ikke vil ha tilstrekkelig effekt.
+(2) Ved vurderingen av om det skal ilegges overtredelsesgebyr etter første ledd, og ved utmålingen, skal Arbeidstilsynet blant annet legge vekt på:
+
+1. overtredelsens omfang og virkninger,
+2. fordeler som er eller kunne vært oppnådd ved lovbruddet,
+3. overtrederens skyld og økonomiske evne, og
+4. om det er rimelig grunn til å tro at overtrederen har innrettet, eller vil forsøke å innrette, virksomheten på en slik måte at et overtredelsesgebyr mot virksomheten ikke vil ha tilstrekkelig effekt.
 
 (3) Ved ileggelse av overtredelsesgebyr etter første ledd gjelder [§ 18-10 tredje](lov/2005-06-17-62/§18-10/ledd/3) og [fjerde ledd](lov/2005-06-17-62/§18-10/ledd/4) tilsvarende.
 
@@ -1910,7 +2208,14 @@ Når det er nødvendig, kan Arbeidstilsynet kreve at politiet bistår ved gjenno
 
 (1) Arbeidstilsynet kan foreta bevissikring når det er sannsynlig at det foreligger overtredelse av bestemmelser som nevnt i [§ 18-6 første ledd](lov/2005-06-17-62/§18-6/ledd/1), og bevissikring er nødvendig og ikke uforholdsmessig inngripende.
 
-(2) Når vilkårene i første ledd er oppfylt, kan Arbeidstilsynet, etter beslutning fra tingretten, kreve:å få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,å få adgang til bolig dersom det er sannsynlig at bevis oppbevares der,å ta med ting, herunder kopi av dokumenter og annen informasjon og elektronisk lagret informasjon, som kan ha betydning som bevis for nærmere undersøkelse, ogå forsegle arbeidssteder, forretningspapirer eller elektroniske lagringsmedier så lenge undersøkelsen varer og dette anses nødvendig.Originale dokumenter kan tas med etter første punktum bokstav c når originalen i seg selv antas å ha særskilt bevisverdi, bevisverdien vil reduseres ved kopiering, eller dokumentet antas å være et særlig sentralt bevis for lovovertredelse. Tas originaldokumenter med etter denne bestemmelsen, skal de kontrollerte få kopi av dokumentene, så fremt det kan skje uten skade eller fare for kontrollen.
+(2) Når vilkårene i første ledd er oppfylt, kan Arbeidstilsynet, etter beslutning fra tingretten, kreve:
+
+1. å få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,
+2. å få adgang til bolig dersom det er sannsynlig at bevis oppbevares der,
+3. å ta med ting, herunder kopi av dokumenter og annen informasjon og elektronisk lagret informasjon, som kan ha betydning som bevis for nærmere undersøkelse, og
+4. å forsegle arbeidssteder, forretningspapirer eller elektroniske lagringsmedier så lenge undersøkelsen varer og dette anses nødvendig.
+
+Originale dokumenter kan tas med etter første punktum bokstav c når originalen i seg selv antas å ha særskilt bevisverdi, bevisverdien vil reduseres ved kopiering, eller dokumentet antas å være et særlig sentralt bevis for lovovertredelse. Tas originaldokumenter med etter denne bestemmelsen, skal de kontrollerte få kopi av dokumentene, så fremt det kan skje uten skade eller fare for kontrollen.
 
 (3) Begjæring om adgang til bevissikring fremsettes av Arbeidstilsynet for tingretten på det stedet hvor det mest praktisk kan skje.
 

@@ -30,13 +30,25 @@ Forskriften gjelder for alle notarialforretninger med mindre annet følger av lo
 
 ## § 2. Tildeling av notarialmyndighet
 
-Foruten dommere ved tingretten, sysselmesteren på Svalbard og norske utenrikstjenestemenn, jf. [lov om notarius publicus § 1](lov/2002-04-26-12/§1), har følgende personer notarialkompetanse til å utføre disse notarialforretningene:Politimesteren i Finnmark er notarius publicus med full notarialmyndighet.Lensmenn, namsfogdene og politistasjonssjefer med sivile rettspleieoppgaver kan som notarius publicus bekrefte underskrifter på dokumenter, utferdige leveattester og bekrefte rett kopi, samt i forbindelse med slike saker motta forsikring eller tilsvarende erklæring.Direktøren for Registerenheten i Brønnøysund har myndighet til å notarialbekrefte utskrifter av Brønnøysundregistrenes elektroniske registre, samt rett kopi av dokumenter i Brønnøysundregistrenes papirbaserte registre.Registerføreren og administrasjonssjefen ved Skipsregistrene har myndighet til å notarialbekrefte sertifikater og attester som registrene selv utsteder.
+Foruten dommere ved tingretten, sysselmesteren på Svalbard og norske utenrikstjenestemenn, jf. [lov om notarius publicus § 1](lov/2002-04-26-12/§1), har følgende personer notarialkompetanse til å utføre disse notarialforretningene:
+
+1. Politimesteren i Finnmark er notarius publicus med full notarialmyndighet.
+2. Lensmenn, namsfogdene og politistasjonssjefer med sivile rettspleieoppgaver kan som notarius publicus bekrefte underskrifter på dokumenter, utferdige leveattester og bekrefte rett kopi, samt i forbindelse med slike saker motta forsikring eller tilsvarende erklæring.
+3. Direktøren for Registerenheten i Brønnøysund har myndighet til å notarialbekrefte utskrifter av Brønnøysundregistrenes elektroniske registre, samt rett kopi av dokumenter i Brønnøysundregistrenes papirbaserte registre.
+4. Registerføreren og administrasjonssjefen ved Skipsregistrene har myndighet til å notarialbekrefte sertifikater og attester som registrene selv utsteder.
 
 > Endret ved [forskrifter 1 feb 2008 nr. 103](forskrift/2008-02-01-103), [18 des 2015 nr. 1624](forskrift/2015-12-18-1624) (i kraft 1 jan 2016), [9 april 2021 nr. 1102](forskrift/2021-04-09-1102) (i kraft 26 april 2021), [3 des 2021 nr. 3395](forskrift/2021-12-03-3395), [7 jan 2022 nr. 25](forskrift/2022-01-07-25) (i kraft 1 feb 2022).
 
 ## § 3. Delegering
 
-Notarialmyndighet kan delegeres på følgende måte:Domstolleder kan delegere notarialmyndighet til tjenestemann ved domstolen.Lensmann, namsfogd og politistasjonssjef med sivile rettspleieoppgaver kan delegere notarialmyndighet til tjenestemann ved tjenesteenheten.Direktøren for Registerenheten i Brønnøysund kan delegere notarialmyndighet til tjenestemann ved Brønnøysundregistrene.Politimesteren i Øst-Finnmark kan delegere notarialmyndighet til tjenestemann ved politistasjon.Sysselmesteren på Svalbard kan delegere notarialmyndighet til ansatte hos Sysselmesteren.Registerføreren og administrasjonssjefen ved Skipsregistrene kan delegere notarialmyndighet til tjenestemann ved Skipsregistrene.
+Notarialmyndighet kan delegeres på følgende måte:
+
+1. Domstolleder kan delegere notarialmyndighet til tjenestemann ved domstolen.
+2. Lensmann, namsfogd og politistasjonssjef med sivile rettspleieoppgaver kan delegere notarialmyndighet til tjenestemann ved tjenesteenheten.
+3. Direktøren for Registerenheten i Brønnøysund kan delegere notarialmyndighet til tjenestemann ved Brønnøysundregistrene.
+4. Politimesteren i Øst-Finnmark kan delegere notarialmyndighet til tjenestemann ved politistasjon.
+5. Sysselmesteren på Svalbard kan delegere notarialmyndighet til ansatte hos Sysselmesteren.
+6. Registerføreren og administrasjonssjefen ved Skipsregistrene kan delegere notarialmyndighet til tjenestemann ved Skipsregistrene.
 
 Delegeringsbeslutningen skal være skriftlig og klart angi ved navn den som får tillagt myndighet. Bemyndigelsen kan begrenses til nærmere angitte sakstyper. Notarius publicus må forvisse seg om at vedkommende tjenestemann har den nødvendige kunnskap og erfaring. Mottakelse av forsikring og avgjørelser om å nekte å utføre en notarialforretning kan bare delegeres til særlig erfarne medarbeidere.
 
@@ -106,7 +118,12 @@ Skal begjæringen om notarialforretning fremsettes overfor en annen notarius pub
 
 Ved utført notarialbekreftelse gis skriftlig notarialattest. Notarialattest kan gis ved bruk av stempel. Notarialattest ved bekreftelse av forhold knyttet til et dokument bør i den grad det er mulig påføres det omhandlede dokument, eller utferdiges i egen attest som heftes ved. Gjelder attesten et dokument på flere sider eller attesten heftes til dokumentet, skal sidene heftes sammen på en slik måte at de ikke kan tas fra hverandre uten å bryte et segl, stempel eller annen innretning påsatt for å hindre dette.
 
-En notarialattest skal inneholde opplysning om:Det eller de forhold notarialbekreftelsen omfatterTid og sted for notarialbekreftelsenNavnet på den notarialbekreftelsen gjelder, dersom dette er av betydning for bekreftelsenSærlige omstendigheter ved notarialbekreftelsen.
+En notarialattest skal inneholde opplysning om:
+
+1. Det eller de forhold notarialbekreftelsen omfatter
+2. Tid og sted for notarialbekreftelsen
+3. Navnet på den notarialbekreftelsen gjelder, dersom dette er av betydning for bekreftelsen
+4. Særlige omstendigheter ved notarialbekreftelsen.
 
 ## § 13. Gebyr for notarialforretninger
 
@@ -118,6 +135,12 @@ For notarialbekreftelser betales 0,25 ganger rettsgebyret for hver notarialattes
 
 Forskriften trer i kraft 1. juli 2002.
 
-Fra samme tid oppheves:[Forskrift av 1. oktober 1993 nr. 922](forskrift/1993-10-01-922) om begrenset notarialmyndighet for registerføreren og kontorsjefen for Skipsregistrene.[Kgl.res. av 10. oktober 1997 nr. 1089](forskrift/1997-10-10-1089) om delegering av kompetanse etter lov om rettergangsordningens ikrafttræden [§ 6](forskrift/2002-05-03-418/§6) første ledd jf. [§ 6](forskrift/2002-05-03-418/§6) tredje ledd til registerenheten i Brønnøysund. Oppheving av delegering.Kgl.res. av 10. juli 1931 om tildeling av begrenset notarialmyndighet til lensmennene.Kgl.res. av 7. juli 1913 om tildeling av notarialmyndighet til politimesteren i Rjukan.Kgl.res. av 3. juni 1927 om tildeling av notarialmyndighet til politimesteren i Vestoppland.
+Fra samme tid oppheves:
+
+1. [Forskrift av 1. oktober 1993 nr. 922](forskrift/1993-10-01-922) om begrenset notarialmyndighet for registerføreren og kontorsjefen for Skipsregistrene.
+2. [Kgl.res. av 10. oktober 1997 nr. 1089](forskrift/1997-10-10-1089) om delegering av kompetanse etter lov om rettergangsordningens ikrafttræden [§ 6](forskrift/2002-05-03-418/§6) første ledd jf. [§ 6](forskrift/2002-05-03-418/§6) tredje ledd til registerenheten i Brønnøysund. Oppheving av delegering.
+3. Kgl.res. av 10. juli 1931 om tildeling av begrenset notarialmyndighet til lensmennene.
+4. Kgl.res. av 7. juli 1913 om tildeling av notarialmyndighet til politimesteren i Rjukan.
+5. Kgl.res. av 3. juni 1927 om tildeling av notarialmyndighet til politimesteren i Vestoppland.
 
 > Endret ved [forskrift 21 juni 2013 nr. 733](forskrift/2013-06-21-733) (i kraft 1 juli 2013, tidligere § 13).

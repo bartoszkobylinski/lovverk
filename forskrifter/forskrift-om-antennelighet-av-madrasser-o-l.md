@@ -15,7 +15,7 @@ xml_hash: "2817f5e3f076285dfbc13ea22781baa1f2c62301f9994db98f74264f01161c73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,15 @@ Denne forskriften har til formål å forebygge helseskader forårsaket av at mad
 
 Denne forskriften omfatter både tilvirkning og innførsel for salg, samt annen omsetning av madrasser og stoppede møbler i næringsøyemed.
 
-Forskriften omfatter ikke:Madrasser og stoppede møbler som omfattes av annen lov/forskrift der det stilles krav vedrørende antennelighet.Brukte madrasser og stoppede møbler.Restaurering/omtrekking og annen tilvirkning av møbler i håndverksbedrift.Seng og sengegavl.Møbler med sete som ikke er stoppet og som ikke er i direkte kontakt med stoppede deler i rygg eller armlener.Pianostoler.Møbler kun beregnet for utendørs bruk.
+Forskriften omfatter ikke:
+
+- Madrasser og stoppede møbler som omfattes av annen lov/forskrift der det stilles krav vedrørende antennelighet.
+- Brukte madrasser og stoppede møbler.
+- Restaurering/omtrekking og annen tilvirkning av møbler i håndverksbedrift.
+- Seng og sengegavl.
+- Møbler med sete som ikke er stoppet og som ikke er i direkte kontakt med stoppede deler i rygg eller armlener.
+- Pianostoler.
+- Møbler kun beregnet for utendørs bruk.
 
 ## § 4. Hvem forskriften retter seg mot
 

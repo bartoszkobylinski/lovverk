@@ -15,7 +15,7 @@ xml_hash: "38cf27aa5723d654d1ebd9cc39d6957b82b5360b38a2c92c7cde6f3fae5aebb8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014L0024"
@@ -36,7 +36,14 @@ Formålet med loven er å fremme effektiv og bærekraftig bruk av samfunnets res
 
 Loven gjelder når oppdragsgiver som nevnt i annet ledd inngår vare-, tjeneste- eller bygge- og anleggskontrakter, herunder konsesjonskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
 
-Loven gjelder for følgende oppdragsgivere:statlige myndigheter,fylkeskommunale og kommunale myndigheter,offentligrettslige organer,sammenslutninger med en eller flere oppdragsgivere som nevnt i bokstav a til c,offentlige foretak som utøver forsyningsaktivitet som definert i internasjonale avtaler som Norge er forpliktet av ogandre virksomheter som utøver forsyningsaktivitet på grunnlag av enerett eller særrett som definert i internasjonale avtaler som Norge er forpliktet av.
+Loven gjelder for følgende oppdragsgivere:
+
+1. statlige myndigheter,
+2. fylkeskommunale og kommunale myndigheter,
+3. offentligrettslige organer,
+4. sammenslutninger med en eller flere oppdragsgivere som nevnt i bokstav a til c,
+5. offentlige foretak som utøver forsyningsaktivitet som definert i internasjonale avtaler som Norge er forpliktet av og
+6. andre virksomheter som utøver forsyningsaktivitet på grunnlag av enerett eller særrett som definert i internasjonale avtaler som Norge er forpliktet av.
 
 Loven gjelder ikke for anskaffelser som kan unntas etter [EØS-avtalen artikkel 123](lov/1992-11-27-109/eøsl/a123). Bestemmelsene i [§§ 5a](lov/2016-06-17-73/§5a) til [5p](lov/2016-06-17-73/§5p) om samfunnshensyn gjelder ikke for forsvars- og sikkerhetsanskaffelser med mindre annet er fastsatt i forskrift med hjemmel i denne loven. Bestemmelsene om samfunnshensyn i [§§ 5a](lov/2016-06-17-73/§5a), [5b](lov/2016-06-17-73/§5b), [5c](lov/2016-06-17-73/§5c), [5e](lov/2016-06-17-73/§5e), [5f](lov/2016-06-17-73/§5f), [5g](lov/2016-06-17-73/§5g), [5h](lov/2016-06-17-73/§5h), [5i](lov/2016-06-17-73/§5i), [5j](lov/2016-06-17-73/§5j), [5k](lov/2016-06-17-73/§5k) og [5l](lov/2016-06-17-73/§5l) gjelder ikke for forsynings- eller konsesjonskontrakter. Departementet kan i forskrift fastsette ytterligere unntak fra lovens virkeområde.
 
@@ -48,7 +55,12 @@ Departementet kan i forskrift fastsette at loven skal gjelde for Svalbard, og fa
 
 ## § 3. Rettighetshavere
 
-Rettighetshavere etter loven er virksomheter etablerti Norgei andre EØS-stater, i det omfang de har rettigheter etter [EØS-avtalen](lov/1992-11-27-109/eøsl)i en stat som er part til WTO-avtalen om offentlige innkjøp, i det omfang de har rettigheter etter denne avtaleni en stat som er part til en annen internasjonal avtale som Norge er forpliktet av, i det omfang de har rettigheter etter den aktuelle avtalen.
+Rettighetshavere etter loven er virksomheter etablert
+
+1. i Norge
+2. i andre EØS-stater, i det omfang de har rettigheter etter [EØS-avtalen](lov/1992-11-27-109/eøsl)
+3. i en stat som er part til WTO-avtalen om offentlige innkjøp, i det omfang de har rettigheter etter denne avtalen
+4. i en stat som er part til en annen internasjonal avtale som Norge er forpliktet av, i det omfang de har rettigheter etter den aktuelle avtalen.
 
 Virksomheter som ikke omfattes av første ledd, kan delta i konkurranser om offentlige kontrakter. Disse virksomhetene har likevel ikke rettighetene som følger av denne loven eller forskrifter fastsatt med hjemmel i loven.
 
@@ -98,7 +110,10 @@ Oppdragsgiver kan stille krav eller kriterier i alle ledd av en anskaffelsespros
 
 ## § 5e. Kontraktsvilkår om lønns- og arbeidsvilkår
 
-I tjeneste- og bygge- og anleggskontrakter skal oppdragsgiver stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, minst har:lønns- og arbeidsvilkår som er i samsvar med gjeldende forskrifter om allmenngjort tariffavtale gitt med hjemmel i [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler § 5](lov/1993-06-04-58/§5), ellerlønns- og arbeidsvilkår som er i samsvar med bestemmelser om arbeidstid, lønn, herunder overtidstillegg, skift- og turnustillegg og ulempetillegg, og dekning av utgifter til reise, kost og losji i en gjeldende landsomfattende tariffavtale for den aktuelle bransje.
+I tjeneste- og bygge- og anleggskontrakter skal oppdragsgiver stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, minst har:
+
+1. lønns- og arbeidsvilkår som er i samsvar med gjeldende forskrifter om allmenngjort tariffavtale gitt med hjemmel i [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler § 5](lov/1993-06-04-58/§5), eller
+2. lønns- og arbeidsvilkår som er i samsvar med bestemmelser om arbeidstid, lønn, herunder overtidstillegg, skift- og turnustillegg og ulempetillegg, og dekning av utgifter til reise, kost og losji i en gjeldende landsomfattende tariffavtale for den aktuelle bransje.
 
 Kravet gjelder når kontraktens verdi er lik eller overstiger kunngjøringsplikt for vare- og tjenestekontrakter.
 
@@ -108,7 +123,10 @@ Oppdragsgiver skal i kontrakten kreve at leverandør og underleverandører på f
 
 ## § 5f. Kontraktsvilkår om lønns- og arbeidsvilkår i bygge-, anleggs- og renholdskontrakter
 
-I bygge- og anleggskontrakter og kontrakter om renholdstjenester skal oppdragsgiver stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, har følgende:obligatorisk tjenestepensjon i samsvar med [lov om obligatorisk tjenestepensjon](lov/2005-12-21-124)HMS-kort i samsvar med krav til HMS-kort fastsatt i forskrifter gitt med hjemmel i [arbeidsmiljøloven §§ 1-4](lov/2005-06-17-62/§1-4) og [4-1](lov/2005-06-17-62/§4-1) om HMS-kort på bygge- og anleggsplasser og godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester.
+I bygge- og anleggskontrakter og kontrakter om renholdstjenester skal oppdragsgiver stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, har følgende:
+
+1. obligatorisk tjenestepensjon i samsvar med [lov om obligatorisk tjenestepensjon](lov/2005-12-21-124)
+2. HMS-kort i samsvar med krav til HMS-kort fastsatt i forskrifter gitt med hjemmel i [arbeidsmiljøloven §§ 1-4](lov/2005-06-17-62/§1-4) og [4-1](lov/2005-06-17-62/§4-1) om HMS-kort på bygge- og anleggsplasser og godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester.
 
 I bygge- og anleggskontrakter skal oppdragsgiver i tillegg stille kontraktsvilkår om informasjonsplikt og språkferdigheter i samsvar med krav om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser fastsatt i forskrift gitt med hjemmel i [arbeidsmiljøloven §§ 1-4](lov/2005-06-17-62/§1-4) og [4-1](lov/2005-06-17-62/§4-1) om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser.
 
@@ -138,13 +156,21 @@ Unntaket i [arbeidsmiljøloven § 14-15 annet ledd](lov/2005-06-17-62/§14-15/le
 
 I tjenestekontrakter og kontrakter om bygge- og anleggsarbeider skal oppdragsgiver stille kontraktsvilkår om at leverandør er tilknyttet en lærlingordning. Oppdragsgiver skal også stille kontraktsvilkår om at minst ti prosent av arbeidet utføres av lærlinger, og at minst én av dem som deltar i arbeidet med å oppfylle kontrakten, skal være lærling.
 
-Kravene etter første ledd gjelder når følgende vilkår er oppfylt:Kontraktens verdi er lik eller overstiger kunngjøringsplikt.Kontrakten har en varighet på over tre måneder.Kontraktens hovedelement omfatter arbeider der det er relevant å benytte arbeidskraft med fag- eller svennebrev.Det er et særlig behov for læreplasser. Med dette menes at underdekningen på læreplasser er mer enn ti prosent av søkertallet til læreplasser innenfor et utdanningsprogram.
+Kravene etter første ledd gjelder når følgende vilkår er oppfylt:
+
+1. Kontraktens verdi er lik eller overstiger kunngjøringsplikt.
+2. Kontrakten har en varighet på over tre måneder.
+3. Kontraktens hovedelement omfatter arbeider der det er relevant å benytte arbeidskraft med fag- eller svennebrev.
+4. Det er et særlig behov for læreplasser. Med dette menes at underdekningen på læreplasser er mer enn ti prosent av søkertallet til læreplasser innenfor et utdanningsprogram.
 
 Utenlandske leverandører kan oppfylle kontraktsvilkåret ved å benytte lærling fra en lærlingordning i opprinnelseslandet. Dersom opprinnelseslandet ikke har en lærlingordning, kan kontraktsvilkåret oppfylles ved å benytte praksiselev fra en opplæringsordning i opprinnelseslandet.
 
 Kravene etter første ledd gjelder ikke når et slikt kontraktsvilkår er uforholdsmessig sett hen til kontraktens innhold, omfanget av arbeidet der det er relevant å benytte arbeidskraft med fag- eller svennebrev, eller av andre grunner.
 
-Kontraktsvilkåret er oppfylt dersom en leverandør som er tilknyttet en lærlingordning, kan dokumentere ett av følgende forhold:at det er gjort reelle forsøk på å inngå kontrakt med lærling uten å lykkesat lærlingen ikke kan benyttes i kontraktsarbeidet på grunn av forhold med lærlingen, og reelle forsøk på å inngå kontrakt med ny lærling ikke har lykkes.
+Kontraktsvilkåret er oppfylt dersom en leverandør som er tilknyttet en lærlingordning, kan dokumentere ett av følgende forhold:
+
+1. at det er gjort reelle forsøk på å inngå kontrakt med lærling uten å lykkes
+2. at lærlingen ikke kan benyttes i kontraktsarbeidet på grunn av forhold med lærlingen, og reelle forsøk på å inngå kontrakt med ny lærling ikke har lykkes.
 
 > Tilføyd ved lov [6 mars 2026 nr. 8](lov/2026-03-06-8) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358)).
 
@@ -274,7 +300,11 @@ Dersom tvisteløsningsorganet treffer vedtak om å ilegge overtredelsesgebyr, og
 
 ## § 13. Søksmål om å kjenne en kontrakt uten virkning
 
-Retten skal kjenne en kontrakt med en verdi som er lik eller overstiger EØS-terskelverdiene, uten virkningnår oppdragsgiveren har foretatt en ulovlig direkte anskaffelse,når kontrakten tildeles under en rammeavtale med flere leverandører i strid med regler om gjenåpning av konkurransen fastsatt i forskrift eller tildeles under en dynamisk innkjøpsordning i strid med forskrift, ellernår oppdragsgiveren har brutt lov eller forskrift som har påvirket leverandørens mulighet til å bli tildelt kontrakten, og samtidig foretatt brudd på regler om karensperiode eller suspensjon fastsatt i forskrift som har fratatt leverandøren muligheten til å iverksette rettslige skritt før kontraktsinngåelsen.
+Retten skal kjenne en kontrakt med en verdi som er lik eller overstiger EØS-terskelverdiene, uten virkning
+
+1. når oppdragsgiveren har foretatt en ulovlig direkte anskaffelse,
+2. når kontrakten tildeles under en rammeavtale med flere leverandører i strid med regler om gjenåpning av konkurransen fastsatt i forskrift eller tildeles under en dynamisk innkjøpsordning i strid med forskrift, eller
+3. når oppdragsgiveren har brutt lov eller forskrift som har påvirket leverandørens mulighet til å bli tildelt kontrakten, og samtidig foretatt brudd på regler om karensperiode eller suspensjon fastsatt i forskrift som har fratatt leverandøren muligheten til å iverksette rettslige skritt før kontraktsinngåelsen.
 
 Retten kan ikke kjenne en kontrakt uten virkning etter første ledd bokstav a dersom oppdragsgiveren har publisert en intensjonskunngjøring etter regler fastsatt i forskrift og tidligst inngått kontrakten etter utløpet av ti dager regnet fra dagen etter datoen for kunngjøringen.
 
@@ -286,7 +316,13 @@ En kontrakt kan kjennes uten virkning for fremtidig kontraktsoppfyllelse. Dersom
 
 ## § 14. Søksmål om å avkorte en kontrakts varighet eller idømme oppdragsgiver overtredelsesgebyr
 
-Retten skal avkorte en kontrakts varighet eller idømme oppdragsgiveren et overtredelsesgebyrnår kontraktens verdi er lik eller overstiger EØS-terskelverdiene ogretten unnlater å kjenne en kontrakt uten virkning etter [§ 13](lov/2016-06-17-73/§13) fjerde ledd, elleroppdragsgiveren har foretatt andre brudd på reglene om karensperiode eller suspensjon enn dem som er omfattet av [§ 13](lov/2016-06-17-73/§13) første ledd bokstav c, ellernår kontraktens verdi er lik eller overstiger en nasjonal terskelverdi fastsatt i forskrift, men ikke EØS-terskelverdiene, og oppdragsgiveren har foretatt en ulovlig direkte anskaffelse.
+Retten skal avkorte en kontrakts varighet eller idømme oppdragsgiveren et overtredelsesgebyr
+
+1. når kontraktens verdi er lik eller overstiger EØS-terskelverdiene og
+
+   1. retten unnlater å kjenne en kontrakt uten virkning etter [§ 13](lov/2016-06-17-73/§13) fjerde ledd, eller
+   2. oppdragsgiveren har foretatt andre brudd på reglene om karensperiode eller suspensjon enn dem som er omfattet av [§ 13](lov/2016-06-17-73/§13) første ledd bokstav c, eller
+2. når kontraktens verdi er lik eller overstiger en nasjonal terskelverdi fastsatt i forskrift, men ikke EØS-terskelverdiene, og oppdragsgiveren har foretatt en ulovlig direkte anskaffelse.
 
 Retten skal idømme oppdragsgiveren et overtredelsesgebyr når kontrakten kjennes uten virkning for fremtidig kontraktsoppfyllelse etter [§ 13](lov/2016-06-17-73/§13).
 

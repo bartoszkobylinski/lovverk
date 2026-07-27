@@ -82,7 +82,10 @@ Kommunen i arbeids- og velferdsforvaltningen kan kreve at programdeltakeren bekr
 
 ### § 8. Bortfall av retten til å nytte egenmelding
 
-Kommunen i arbeids- og velferdsforvaltningen kan beslutte at retten til å få kvalifiseringsstønad på grunnlag av egenmelding faller bort hvisprogramdeltakeren i løpet av de siste tolv månedene har hatt minst fire fravær med egenmelding uten å legge fram legeerklæring ellerkommunen har rimelig grunn til å anta at fraværet ikke skyldes sykdom eller skade som forhindrer vedkommende fra å delta i kvalifiseringsprogram.
+Kommunen i arbeids- og velferdsforvaltningen kan beslutte at retten til å få kvalifiseringsstønad på grunnlag av egenmelding faller bort hvis
+
+1. programdeltakeren i løpet av de siste tolv månedene har hatt minst fire fravær med egenmelding uten å legge fram legeerklæring eller
+2. kommunen har rimelig grunn til å anta at fraværet ikke skyldes sykdom eller skade som forhindrer vedkommende fra å delta i kvalifiseringsprogram.
 
 Egenmelding for fravær som er dokumentert med legeerklæring fra den fjerde fraværsdagen, regnes ikke med.
 
@@ -90,7 +93,11 @@ Før kommunen treffer sin beslutning etter bestemmelsen i første ledd, skal pro
 
 ### § 9. Barns eller barnepassers sykdom
 
-En programdeltaker som har omsorg for barn, beholder retten til kvalifiseringsstønad etter lovens § 35, hvis han eller hun er forhindret fra å delta på grunn avnødvendig tilsyn med og pleie av et sykt barn i hjemmet eller i helseinstitusjon,at den som har det daglige barnetilsynet er syk,fordi den som har det daglige barnetilsynet er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon.
+En programdeltaker som har omsorg for barn, beholder retten til kvalifiseringsstønad etter lovens § 35, hvis han eller hun er forhindret fra å delta på grunn av
+
+1. nødvendig tilsyn med og pleie av et sykt barn i hjemmet eller i helseinstitusjon,
+2. at den som har det daglige barnetilsynet er syk,
+3. fordi den som har det daglige barnetilsynet er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon.
 
 Retten til fri fra deltakelse i kvalifiseringsprogrammet etter første ledd gjelder til og med det kalenderåret barnet fyller tolv år. Hvis barnet er kronisk sykt eller funksjonshemmet, gjelder retten til og med det året barnet fyller 18 år.
 
@@ -124,7 +131,13 @@ En programdeltaker som ammer barnet sitt har rett til den fritid hun av den grun
 
 ### § 15. Velferdspermisjon med kvalifiseringsstønad
 
-Når det foreligger viktige velferdsgrunner, kan den enkelte kommune innvilge søknad om velferdspermisjon med stønad i inntil ti virkedager for hvert kalenderår. Det kan bl.a. gis velferdspermisjoni inntil tre virkedager ved tilvenning av barn i barnehage, førskole eller hos dagmammafor å følge barnet på skolen første skoledagfor den dagen programdeltakeren gifter segi inntil tre dager i forbindelse med dødsfall i nær familie eller vennekrets. Samboer og samboers familie likestilles i dette tilfelle med ektefelle og ektefelles familie. Det kan i tillegg gis permisjon med stønad på eventuelle nødvendige reisedager mellom bosted og det sted hvor begravelse, bisettelse eller urnenedsettelse finner stednår en programdeltaker pleier en nær pårørende i hjemmet.
+Når det foreligger viktige velferdsgrunner, kan den enkelte kommune innvilge søknad om velferdspermisjon med stønad i inntil ti virkedager for hvert kalenderår. Det kan bl.a. gis velferdspermisjon
+
+1. i inntil tre virkedager ved tilvenning av barn i barnehage, førskole eller hos dagmamma
+2. for å følge barnet på skolen første skoledag
+3. for den dagen programdeltakeren gifter seg
+4. i inntil tre dager i forbindelse med dødsfall i nær familie eller vennekrets. Samboer og samboers familie likestilles i dette tilfelle med ektefelle og ektefelles familie. Det kan i tillegg gis permisjon med stønad på eventuelle nødvendige reisedager mellom bosted og det sted hvor begravelse, bisettelse eller urnenedsettelse finner sted
+5. når en programdeltaker pleier en nær pårørende i hjemmet.
 
 ### § 16. Helge- og høytidsdager
 

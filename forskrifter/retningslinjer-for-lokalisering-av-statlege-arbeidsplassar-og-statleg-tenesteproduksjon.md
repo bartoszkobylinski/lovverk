@@ -15,7 +15,7 @@ xml_hash: "0f477a45691d38e8aa4d0fec74198742f73fb99cc45a1165147a589fb36e3d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ Sjå [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](for
 
 ## 2. Føremål
 
-Den statlege lokaliseringspolitikken skal, ved oppfølginga av desse retningslinjene, medverke tilei fordeling av statlege arbeidsplassar som medverkar til å utvikle robuste arbeidsmarknader i alle delar av landetå redusere dei samla negative verknadene som bortfall av statlege arbeidsplassar har for kommunar og arbeidsmarknadsregionarlokalisering av statleg tenesteproduksjon som sikrar befolkninga i alle delar av landet god tilgang til statlege tenesterat nye og omlokaliserte statlege verksemder i hovudsak blir lokaliserte utanfor Oslo og sentrale kommunar i Oslo-områdetat veksten i eksisterande verksemder, og som har ein regional struktur, i hovudsak skal skje utanfor dei største byaneat kostnadseffektivitet og effektiv oppgåveløysing blir inkludert i vurderinga av lokaliseringsalternativ.
+Den statlege lokaliseringspolitikken skal, ved oppfølginga av desse retningslinjene, medverke til
+
+- ei fordeling av statlege arbeidsplassar som medverkar til å utvikle robuste arbeidsmarknader i alle delar av landet
+- å redusere dei samla negative verknadene som bortfall av statlege arbeidsplassar har for kommunar og arbeidsmarknadsregionar
+- lokalisering av statleg tenesteproduksjon som sikrar befolkninga i alle delar av landet god tilgang til statlege tenester
+- at nye og omlokaliserte statlege verksemder i hovudsak blir lokaliserte utanfor Oslo og sentrale kommunar i Oslo-området
+- at veksten i eksisterande verksemder, og som har ein regional struktur, i hovudsak skal skje utanfor dei største byane
+- at kostnadseffektivitet og effektiv oppgåveløysing blir inkludert i vurderinga av lokaliseringsalternativ.
 
 Regjeringa har som mål å halde oppe norske samfunn på Svalbard. Flytting av statlege arbeidsplassar til Longyearbyen er eit aktuelt verkemiddel får å nå det målet.
 
@@ -53,7 +60,12 @@ Regjeringa har som mål å halde oppe norske samfunn på Svalbard. Flytting av s
 
 Retningslinjene gjeld ikkje for stiftingar, statsføretak, særlovsselskap, statsselskap eller andre føretak som staten eig. Retningslinjene gjeld heller ikkje for Forsvaret si operative verksemd, og den delen av Arbeids- og velferdsetaten (NAV) som er regulert gjennom avtale mellom NAV og kommunane.
 
-Retningslinjene gjeld vidare ikkjefor klart tidsavgrensa oppretta arbeidsplassarfor kollegiale organ som råd og utvalved flytting innanfor same kommune som følgje av at leigekontraktar går ut2der ei verksemd berre skifter namn og organisasjonsnummer.
+Retningslinjene gjeld vidare ikkje
+
+- for klart tidsavgrensa oppretta arbeidsplassar
+- for kollegiale organ som råd og utval
+- ved flytting innanfor same kommune som følgje av at leigekontraktar går ut2
+- der ei verksemd berre skifter namn og organisasjonsnummer.
 
 2 [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39) gjeld likevel her, sjå desse retningslinjene pkt. 1.
 
@@ -99,7 +111,11 @@ I dei tilfella der det berre er mindre justeringar i verksemda, til dømes nedle
 
 ### 5.2 Vurdering av alternative stader for lokalisering
 
-Som grunnlag for val av og vurdering av alternative stader for lokalisering, skal følgjande omsyn leggjast til grunn:Vilkår for lokaliseringFøremålet med lokaliseringspolitikkenKostnadseffektivitet og effektiv oppgåveløysing
+Som grunnlag for val av og vurdering av alternative stader for lokalisering, skal følgjande omsyn leggjast til grunn:
+
+- Vilkår for lokalisering
+- Føremålet med lokaliseringspolitikken
+- Kostnadseffektivitet og effektiv oppgåveløysing
 
 Dei ulike omsyna skal vegast mot kvarandre, og det skal gå fram av vurderinga korleis dei ulike omsyna påverkar kvarandre og på kva måte motstridande omsyn er tekne hand om.
 
@@ -107,9 +123,15 @@ Følgjande omsyn skal leggjast til grunn:
 
 ### 5.2.1 Vilkår for lokalisering
 
-1. *Krav til nærleik til tenesta*Det er naturleg å skilje mellom staduavhengige og stadavhengige tenester etter kva grad tenesta krev fysisk nærleik til brukarane. Før avgjerd om (ny) lokalisering av verksemda, skal type og hyppigheit av publikumskontakt dokumenterast. Jo meir avhengig verksemda er av direkte kontakt med brukarane, desto nærare brukarane må verksemda vere lokalisert.
-2. *Kompetansekrav til dei som skal utføre arbeidsoppgåvene*I kva grad verksemda vil vere i stand til å rekruttere og ta vare på kvalifisert arbeidskraft, er eit viktig moment når ein skal ta stilling til lokaliseringa. Verksemda sitt kompetansebehov skal dokumenterast og grunngjevast. Dette må vurderast opp mot potensialet for at aktuelle lokaliseringsalternativ kan tilfredsstille verksemda sitt kompetansebehov.
-3. *Krav til infrastruktur, nærleik til andre typar fagmiljø, offentlege styresmakter m.m.*Enkelte verksemder stiller særskilde krav til fysisk og digital infrastruktur. Det kan til dømes vere nærleik til flyplass, jernbane, eller annan kommunikasjon. Ein del verksemder kan også ha behov for nærleik til særskilde offentlege styresmakter, forskingsmiljø osb. Verksemda sitt behov for nærleik til særskild infrastruktur eller spesielle typar fagmiljø, offentlege styresmakter eller anna, skal dokumenterast og grunngjevast.
+1. *Krav til nærleik til tenesta*
+
+   Det er naturleg å skilje mellom staduavhengige og stadavhengige tenester etter kva grad tenesta krev fysisk nærleik til brukarane. Før avgjerd om (ny) lokalisering av verksemda, skal type og hyppigheit av publikumskontakt dokumenterast. Jo meir avhengig verksemda er av direkte kontakt med brukarane, desto nærare brukarane må verksemda vere lokalisert.
+2. *Kompetansekrav til dei som skal utføre arbeidsoppgåvene*
+
+   I kva grad verksemda vil vere i stand til å rekruttere og ta vare på kvalifisert arbeidskraft, er eit viktig moment når ein skal ta stilling til lokaliseringa. Verksemda sitt kompetansebehov skal dokumenterast og grunngjevast. Dette må vurderast opp mot potensialet for at aktuelle lokaliseringsalternativ kan tilfredsstille verksemda sitt kompetansebehov.
+3. *Krav til infrastruktur, nærleik til andre typar fagmiljø, offentlege styresmakter m.m.*
+
+   Enkelte verksemder stiller særskilde krav til fysisk og digital infrastruktur. Det kan til dømes vere nærleik til flyplass, jernbane, eller annan kommunikasjon. Ein del verksemder kan også ha behov for nærleik til særskilde offentlege styresmakter, forskingsmiljø osb. Verksemda sitt behov for nærleik til særskild infrastruktur eller spesielle typar fagmiljø, offentlege styresmakter eller anna, skal dokumenterast og grunngjevast.
 
 ### 5.2.2 Vurdering av lokaliseringspolitiske omsyn
 

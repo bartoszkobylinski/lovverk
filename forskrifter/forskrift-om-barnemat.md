@@ -15,7 +15,7 @@ xml_hash: "9653f143c151ac29992aec2bf7e3b6606cd11baa0944cbf14c7cf17c68600c3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,20 @@ eu_basis: []
 
 Denne forskriften gir bestemmelser om sammensetning, merking og omsetning av næringsmidler som er beregnet til friske spedbarn og småbarn.1
 
-Forskriften omfatter næringsmidler som dekker spesielle ernæringsmessige behov hos friske spedbarn og småbarn, og som er beregnet tilspedbarn under tilvenning til fast føde eller tilsmåbarn for gradvis tilpasning til en alminnelig kost.
+Forskriften omfatter næringsmidler som dekker spesielle ernæringsmessige behov hos friske spedbarn og småbarn, og som er beregnet til
 
-Følgende kategorier næringsmidler omfattes av forskriften:Bearbeidet kornbasert barnemat (kan også baseres på rotfrukter, jf. vedlegg 1), som grupperes i kategorienekornprodukter som skal røres ut med melk eller andre egnede, næringsrike væsker,kornprodukter tilsatt et proteinrikt næringsmiddel, som skal røres ut med vann eller annen proteinfri væske,pasta, som skal spises etter koking i vann eller andre egnede væsker ogkavringer og kjeks, som spises enten direkte eller etter knusing og tilsetning av vann, melk eller andre egnede væsker.Annen barnemat (jf. vedlegg 2).
+1. spedbarn under tilvenning til fast føde eller til
+2. småbarn for gradvis tilpasning til en alminnelig kost.
+
+Følgende kategorier næringsmidler omfattes av forskriften:
+
+1. Bearbeidet kornbasert barnemat (kan også baseres på rotfrukter, jf. vedlegg 1), som grupperes i kategoriene
+
+   1. kornprodukter som skal røres ut med melk eller andre egnede, næringsrike væsker,
+   2. kornprodukter tilsatt et proteinrikt næringsmiddel, som skal røres ut med vann eller annen proteinfri væske,
+   3. pasta, som skal spises etter koking i vann eller andre egnede væsker og
+   4. kavringer og kjeks, som spises enten direkte eller etter knusing og tilsetning av vann, melk eller andre egnede væsker.
+2. Annen barnemat (jf. vedlegg 2).
 
 Forskriften omfatter ikke melk beregnet til småbarn.
 
@@ -42,7 +53,11 @@ Bestemmelser i denne forskriften gjelder i tillegg til bestemmelser i [forskrift
 
 ### § 2. Definisjoner
 
-I denne forskriften forstås ved*spedbarn:* barn under 12 måneder.*småbarn:* barn fra 1 inntil 3 år.*rester av plantevernmidler:* rester av plantevernmidler mv. i bearbeidet kornbasert barnemat og annen barnemat, og deres eventuelle giftige omdannelses- eller nedbrytingsprodukter, som definert i [forskrift 21. desember 1993 nr. 1388](forskrift/1993-12-21-1388) om rester av plantevernmidler mv. i næringsmidler og fôrvarer.
+I denne forskriften forstås ved
+
+1. *spedbarn:* barn under 12 måneder.
+2. *småbarn:* barn fra 1 inntil 3 år.
+3. *rester av plantevernmidler:* rester av plantevernmidler mv. i bearbeidet kornbasert barnemat og annen barnemat, og deres eventuelle giftige omdannelses- eller nedbrytingsprodukter, som definert i [forskrift 21. desember 1993 nr. 1388](forskrift/1993-12-21-1388) om rester av plantevernmidler mv. i næringsmidler og fôrvarer.
 
 > Endret ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
 
@@ -80,7 +95,10 @@ Bearbeidet kornbasert barnemat og annen barnemat skal ikke innholde rester av pl
 
 Analysemetoder som benyttes for å bestemme innholdet av rester av plantevernmidler skal være metoder som er basert på generelt aksepterte og standardiserte metoder.
 
-Plantevernmidler listet opp i vedlegg 7 skal ikke brukes i produksjonen av ingredienser som skal inngå i kornbasert barnemat og annen barnemat. For tilsynsformål gjelder likevel følgende:Det antas at plantevernmidler listet opp i tabell 1 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået, som er analysemetodens kvantifiseringsgrense, skal revurderes dersom det anses nødvendig i lys av ny teknologi.Det antas at plantevernmidler listet opp i tabell 2 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået skal revurderes i lys av nye data omhandlende miljøforurensning.
+Plantevernmidler listet opp i vedlegg 7 skal ikke brukes i produksjonen av ingredienser som skal inngå i kornbasert barnemat og annen barnemat. For tilsynsformål gjelder likevel følgende:
+
+1. Det antas at plantevernmidler listet opp i tabell 1 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået, som er analysemetodens kvantifiseringsgrense, skal revurderes dersom det anses nødvendig i lys av ny teknologi.
+2. Det antas at plantevernmidler listet opp i tabell 2 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået skal revurderes i lys av nye data omhandlende miljøforurensning.
 
 Bestemmelsene gitt i denne paragrafen gjelder for kornbasert barnemat og annen barnemat som er ferdig til konsum eller tilberedt i henhold til produsentens anvisninger.
 
@@ -129,7 +147,13 @@ Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene git
 
 ### § 15. Meldeplikt
 
-Av hensyn til en effektiv overvåkning av markedet skal næringsmidler som omfattes av denne forskrift meldes til Mattilsynet når de omsettes på det norske marked. Meldingen skjer ved at produsent/importør oversender følgende informasjon:navn og adresse til melder og produsent,alle inngående ingredienser inkludert den fullstendige kjemiske forbindelsen av tilsatte næringsstoffer,næringsmidlets totale innhold (summen av naturlig forekommende og tilsatt mengde) av alle vitaminer og mineraler som er tilsatt, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet,næringsmidlets innhold av øvrige vitaminer og mineraler som omfattes av vedlegg 4, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet eller ved beregning av innholdet ut fra kjente eller faktiske gjennomsnittsverdier for de ingredienser som inngår i produktet ognæringsmidlets bruksområde (aldersangivelse) samt pakningstyper.
+Av hensyn til en effektiv overvåkning av markedet skal næringsmidler som omfattes av denne forskrift meldes til Mattilsynet når de omsettes på det norske marked. Meldingen skjer ved at produsent/importør oversender følgende informasjon:
+
+1. navn og adresse til melder og produsent,
+2. alle inngående ingredienser inkludert den fullstendige kjemiske forbindelsen av tilsatte næringsstoffer,
+3. næringsmidlets totale innhold (summen av naturlig forekommende og tilsatt mengde) av alle vitaminer og mineraler som er tilsatt, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet,
+4. næringsmidlets innhold av øvrige vitaminer og mineraler som omfattes av vedlegg 4, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet eller ved beregning av innholdet ut fra kjente eller faktiske gjennomsnittsverdier for de ingredienser som inngår i produktet og
+5. næringsmidlets bruksområde (aldersangivelse) samt pakningstyper.
 
 Alle endringer i de innmeldte opplysninger samt eventuell tilbaketrekning av produkter fra markedet skal meldes til Mattilsynet.
 
@@ -187,11 +211,19 @@ Tilsetning av aminosyrer er bare tillatt i den hensikt å forbedre proteinblandi
 
 3.1
 
-Hvis sukrose, fruktose, glukose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,8 g/100 kJ (7,5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,9 g/100 kJ (3,75 g/100 kcal).
+Hvis sukrose, fruktose, glukose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skal
+
+- mengden tilsatt karbohydrat fra disse kildene ikke overstige 1,8 g/100 kJ (7,5 g/100 kcal) og
+- mengden tilsatt fruktose ikke overstige 0,9 g/100 kJ (3,75 g/100 kcal).
 
 3.2
 
-Hvis sukrose, fruktose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,2 g/100 kJ (5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,6 g/100 kJ (2,5 g/100 kcal).1 Mattilsynet fraråder bruk av honning til spedbarn, jf. [forskrift av 9. juli 2000 nr. 764](forskrift/2000-07-09-764) om advarselsmerking av honning.
+Hvis sukrose, fruktose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal
+
+- mengden tilsatt karbohydrat fra disse kildene ikke overstige 1,2 g/100 kJ (5 g/100 kcal) og
+- mengden tilsatt fruktose ikke overstige 0,6 g/100 kJ (2,5 g/100 kcal).
+
+  1 Mattilsynet fraråder bruk av honning til spedbarn, jf. [forskrift av 9. juli 2000 nr. 764](forskrift/2000-07-09-764) om advarselsmerking av honning.
 
 4.*Fett*
 
@@ -201,13 +233,20 @@ For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd,
 
 4.2
 
-For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal fettinnholdet ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal). Hvis fettinnholdet overstiger 0,8 g/100 kJ (3,3 g/100 kcal) gjelder følgende:Mengden laurinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden myristinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden linolsyre (i form av glyserider = linolater) skal være minst 70 mg/100 kJ (300 mg/100 kcal) og skal ikke overstige 285 mg/100 kJ (1200 mg/100 kcal).
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal fettinnholdet ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal). Hvis fettinnholdet overstiger 0,8 g/100 kJ (3,3 g/100 kcal) gjelder følgende:
+
+1. Mengden laurinsyre skal ikke overstige 15% av det totale fettinnholdet.
+2. Mengden myristinsyre skal ikke overstige 15% av det totale fettinnholdet.
+3. Mengden linolsyre (i form av glyserider = linolater) skal være minst 70 mg/100 kJ (300 mg/100 kcal) og skal ikke overstige 285 mg/100 kJ (1200 mg/100 kcal).
 
 5.*Mineraler*
 
 5.1
 
-NatriumNatriumsalter kan tilsettes bearbeidet kornbasert barnemat bare dersom det foreligger et teknologisk behov.Natriuminnholdet i bearbeidet kornbasert barnemat skal ikke overstige 25 mg/100 kJ (100 mg/100 kcal).
+Natrium
+
+- Natriumsalter kan tilsettes bearbeidet kornbasert barnemat bare dersom det foreligger et teknologisk behov.
+- Natriuminnholdet i bearbeidet kornbasert barnemat skal ikke overstige 25 mg/100 kJ (100 mg/100 kcal).
 
 5.2
 
@@ -237,7 +276,9 @@ Produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bok
 | Vitamin A (μg RE)1 | 14 | 43 | 60 | 180 |
 | Vitamin D (μg)2 | 0,25 | 0,75 | 1 | 3 |
 
-1 RE = all-trans-retinolekvivalenter.2 I form av kolekalsiferol, hvor 10 μg = 400 i.e. vitamin D.
+1 RE = all-trans-retinolekvivalenter.
+
+2 I form av kolekalsiferol, hvor 10 μg = 400 i.e. vitamin D.
 
 For øvrige kategorier av bearbeidet kornbasert barnemat (produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1, nr. 3 og nr. 4) kreves det ikke et bestemt innhold av vitamin A og vitamin D. Dersom vitamin A og/eller vitamin D tilsettes til produkter i disse kategoriene, gjelder de samme grenseverdier som nevnt over.
 
@@ -290,23 +331,41 @@ Kravene vedrørende innhold av næringsstoffer gjelder for produkter som er klar
 
 1.1
 
-Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde er de eneste ingrediensene som nevnes i produktets varebetegnelse, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 40 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1,7 g/100 kJ (7 g/100 kcal).
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde er de eneste ingrediensene som nevnes i produktets varebetegnelse, skal
+
+- innholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 40 vektprosent av det totale produktet,
+- innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen og
+- andelen av protein fra de nevnte proteinkildene utgjøre minst 1,7 g/100 kJ (7 g/100 kcal).
 
 1.2
 
-Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes først i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 10 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1 g/100 kJ (4 g/100 kcal).
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes først i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skal
+
+- innholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 10 vektprosent av det totale produktet,
+- innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen og
+- andelen av protein fra de nevnte proteinkildene utgjøre minst 1 g/100 kJ (4 g/100 kcal).
 
 1.3
 
-Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes – men ikke først – i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 8 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen,andelen av protein fra de nevnte proteinkildene utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes – men ikke først – i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skal
+
+- innholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 8 vektprosent av det totale produktet,
+- innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen,
+- andelen av protein fra de nevnte proteinkildene utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) og
+- produktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
 
 1.3a
 
-Hvis ost nevnes sammen med andre ingredienser i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalandelen av protein fra meieriprodukter utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+Hvis ost nevnes sammen med andre ingredienser i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skal
+
+- andelen av protein fra meieriprodukter utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) og
+- produktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
 
 1.4
 
-Hvis produktet på etiketten betegnes som et måltid, men det ikke nevnes kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde i produktets varebetegnelse, skalproduktets totale proteininnhold fra alle kilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+Hvis produktet på etiketten betegnes som et måltid, men det ikke nevnes kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde i produktets varebetegnelse, skal
+
+- produktets totale proteininnhold fra alle kilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
 
 1.4a
 
@@ -322,7 +381,13 @@ Tilsetning av aminosyrer er tillatt bare i den hensikt å forbedre de tilstedev�
 
 2.*Karbohydrater*
 
-Det totale karbohydratinnholdet i frukt- og grønnsaksjuicer og nektar, i retter som bare inneholder frukt samt i desserter og puddinger skal ikke overstige:10 g/100 ml for grønnsaksjuice og drikker basert på grønnsaksjuice.15 g/100 ml for fruktjuice og nektar samt drikker basert på disse.20 g/100 g for retter som bare inneholder frukt.25 g/100 g for desserter og puddinger.5 g/100 g for andre drikker som ikke er basert på melk.
+Det totale karbohydratinnholdet i frukt- og grønnsaksjuicer og nektar, i retter som bare inneholder frukt samt i desserter og puddinger skal ikke overstige:
+
+- 10 g/100 ml for grønnsaksjuice og drikker basert på grønnsaksjuice.
+- 15 g/100 ml for fruktjuice og nektar samt drikker basert på disse.
+- 20 g/100 g for retter som bare inneholder frukt.
+- 25 g/100 g for desserter og puddinger.
+- 5 g/100 g for andre drikker som ikke er basert på melk.
 
 3.*Fett*
 

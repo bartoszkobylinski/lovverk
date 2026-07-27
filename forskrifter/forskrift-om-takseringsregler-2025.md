@@ -15,7 +15,7 @@ xml_hash: "7711a046b9fa1f6f43ccf1d5fe26284d15edf7a037cdcf5f627f3633777557d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,11 @@ Båt med antatt salgsverdi (medregnet motor og fast utstyr) på kr 50 000 eller
 
 ### § 1-1-6. Innbo og annet løsøre som ikke gir inntekt
 
-Innbo og annet løsøre (unntatt motorkjøretøy, campingvogn og lystfartøy, som omfattes av bestemmelsene ovenfor) kan vanligvis verdsettes i forhold til forsikringssummen slik:Av de første kr 1 500 000 fastsettes formuesverdien til 5 prosentAv de neste kr 400 000 fastsettes formuesverdien til 20 prosentFra kr 1 900 001 fastsettes formuesverdien til 40 prosent.
+Innbo og annet løsøre (unntatt motorkjøretøy, campingvogn og lystfartøy, som omfattes av bestemmelsene ovenfor) kan vanligvis verdsettes i forhold til forsikringssummen slik:
+
+- Av de første kr 1 500 000 fastsettes formuesverdien til 5 prosent
+- Av de neste kr 400 000 fastsettes formuesverdien til 20 prosent
+- Fra kr 1 900 001 fastsettes formuesverdien til 40 prosent.
 
 Er forsikringssummen ikke kjent, for eksempel ved kollektiv hjemforsikring, eller når innbo og løsøre ikke er forsikret, kan antatt gjenanskaffelsesverdi tre i stedet for forsikringssummen ved beregningen ovenfor.
 
@@ -146,7 +150,12 @@ Utstyrsgodtgjørelsen kan utbetales i tillegg til beløp som kan utbetales skatt
 
 ### § 1-2-16. Fordel ved erverv av datautstyr og mobiltelefon brukt i arbeidsforhold
 
-Fordel ved erverv av datautstyr og mobiltelefon brukt i arbeidet, settes til differansen mellom markedsverdi og det vederlag den ansatte har betalt for datautstyret/mobiltelefonen. Kan ikke annen verdi spesifikt påvises, legges følgende markedsverdi til grunn:Utstyr som er mindre enn 1 år gammelt: 80 prosent av opprinnelig kostprisUtstyr som er mellom 1 og 2 år gammelt: 50 prosent av opprinnelig kostprisUtstyr som er mellom 2 og 3 år gammelt: 20 prosent av opprinnelig kostprisUtstyr som er 3 år eller eldre: kr 500 (inklusive merverdiavgift)
+Fordel ved erverv av datautstyr og mobiltelefon brukt i arbeidet, settes til differansen mellom markedsverdi og det vederlag den ansatte har betalt for datautstyret/mobiltelefonen. Kan ikke annen verdi spesifikt påvises, legges følgende markedsverdi til grunn:
+
+- Utstyr som er mindre enn 1 år gammelt: 80 prosent av opprinnelig kostpris
+- Utstyr som er mellom 1 og 2 år gammelt: 50 prosent av opprinnelig kostpris
+- Utstyr som er mellom 2 og 3 år gammelt: 20 prosent av opprinnelig kostpris
+- Utstyr som er 3 år eller eldre: kr 500 (inklusive merverdiavgift)
 
 Med opprinnelig kostpris menes arbeidsgivers faktiske anskaffelseskostnader inklusive merverdiavgift og fratrukket eventuelle rabatter.
 
@@ -206,7 +215,11 @@ Fradrag for merkostnader til kost for langtransportsjåfører for kjøring i Nor
 
 ### § 1-3-7. Beregning av antall fraværsdøgn
 
-Fradragene ovenfor beregnes på grunnlag av det antall døgn skattepliktige faktisk har vært fraværende fra sitt hjem av hensyn til arbeidet, inklusive selve reisen til og fra arbeidet. Skattepliktige som bor utenfor hjemmet hele året og som reiser hjem hver uke, kan som norm legge til grunn følgende fraværsdøgn:Uten lørdagsfri 280 dagerFri annenhver lørdag 255 dagerFri hver lørdag 240 dager
+Fradragene ovenfor beregnes på grunnlag av det antall døgn skattepliktige faktisk har vært fraværende fra sitt hjem av hensyn til arbeidet, inklusive selve reisen til og fra arbeidet. Skattepliktige som bor utenfor hjemmet hele året og som reiser hjem hver uke, kan som norm legge til grunn følgende fraværsdøgn:
+
+- Uten lørdagsfri 280 dager
+- Fri annenhver lørdag 255 dager
+- Fri hver lørdag 240 dager
 
 Ved færre hjemreiser enn hver uke, må antall fraværsdøgn forhøyes.
 
@@ -314,7 +327,50 @@ Generelt gjelder for tilfellene a–d:
 
 I samsvar med [skatteloven § 4-17 andre ledd](lov/1999-03-26-14/§4-17/ledd/2) fastsettes verdien av driftsmidler i inntektsgivende aktivitet til 70 prosent av skattemessig formuesverdi.
 
-Eksempel: 10 år gammelt skip med historisk kostpris kr 1000 settes til skattemessig formuesverdi lik kr 190 etter nedenstående tabell. Verdien som skal inn i skattemeldingen settes til 70 prosent av skattemessig formuesverdi, lik kr 190 × 0,70 = kr 133.*Skip – med kjent kostpris*Verdsettingsreglene gjelder alle typer skip, borefartøyer, boligrigger, fiskefartøyer, taubåter mv. (jf. [Ot.prp.nr.1 (1997–1998) punkt 6.4](forarbeid/otprp-1-199798/kap6.4))Nybygde skip skal i leveringsåret (år 1) verdsettes til 85 prosent av kostpris uansett når i året de leveres. Fra år 2 til og med år 15 skal gjenværende skattemessig formuesverdi årlig reduseres med 15 prosent. Avrundet uten desimaler vil den skattemessige formuesverdien utgjøre i prosent av kostpris som ny.*Leveringsår**Prosent av kostpris*185272361452544637731826922101911161214131214101510Skip levert i 2010 eller tidligere, verdsettes til 10 prosent av kostpris. Dersom det på grunn av spesielle markedsforhold mv. godtgjøres at salgsverdien for et skip vil være lavere enn den beregnede skattemessige formuesverdien, kan salgsverdien legges til grunn, jf. [skatteloven § 4-1 første ledd](lov/1999-03-26-14/§4-1/ledd/1). Med «salgsverdien» menes her verdien uten justering opp eller ned for påhvilende certepartier/konsesjoner.Selv om et skip skifter eier, skal skipets kostpris som nytt legges til grunn for beregningen.*Skip – med ukjent kostpris*Ved kjøp av skip hvor det ikke er mulig å fastslå byggeprisen, kan det tas utgangspunkt i 85 prosent av kjøpers kostpris. Det gis videre 15 prosent årlig reduksjon av gjenværende formuesverdi inntil skipet har nådd en alder på 15 år fra det var ferdigbygd. Restverdien blir stående videre som skattemessig formuesverdi.Dersom det på grunn av spesielle markedsforhold mv. godtgjøres at salgsverdien for et skip vil være lavere enn den beregnede skattemessige formuesverdien, kan salgsverdien legges til grunn, jf. [skatteloven § 4-1 første ledd](lov/1999-03-26-14/§4-1/ledd/1). Med «salgsverdien» menes her verdien uten justering opp eller ned for påhvilende certepartier/konsesjoner.*Påkostninger*Betydelige påkostninger skal vurderes for seg og verdsettes særskilt. Påkostninger på 20 prosent og over av skipets kostpris som nytt eller brukt, anses som betydelige. Slike påkostninger skal verdsettes til 85 prosent i år 1 med en årlig reduksjon på 15 prosent av gjenværende verdi i 15 år. Verdien kan ikke settes lavere enn 10 prosent av påkostningens kostpris. En betydelig påkostning vil etter dette behandles tilsvarende anskaffelsen av et nytt skip, jf. [§ 2-1-4](forskrift/2025-12-01-2404/§2-1-4) a.Den skattemessige formuesverdien av det «opprinnelige» skipet må reduseres med eventuell forholdsmessig verdi av utstyr som tas ut i forbindelse med en ombygging.Påkostninger på under 20 prosent av skipets kostpris skal ikke verdsettes særskilt. Slike mindre påkostninger vil dermed ikke ha innvirkning på den skattemessige formuesfastsettingen. Påkostninger fordelt over flere år vil kunne ses i sammenheng ved anvendelse av 20-prosentgrensen.*Kontrakter*Nybyggingskontrakter for skip skal verdsettes til 85 prosent av kontraktsprisen.
+Eksempel: 10 år gammelt skip med historisk kostpris kr 1000 settes til skattemessig formuesverdi lik kr 190 etter nedenstående tabell. Verdien som skal inn i skattemeldingen settes til 70 prosent av skattemessig formuesverdi, lik kr 190 × 0,70 = kr 133.
+
+1. *Skip – med kjent kostpris*
+
+   Verdsettingsreglene gjelder alle typer skip, borefartøyer, boligrigger, fiskefartøyer, taubåter mv. (jf. [Ot.prp.nr.1 (1997–1998) punkt 6.4](forarbeid/otprp-1-199798/kap6.4))
+
+   Nybygde skip skal i leveringsåret (år 1) verdsettes til 85 prosent av kostpris uansett når i året de leveres. Fra år 2 til og med år 15 skal gjenværende skattemessig formuesverdi årlig reduseres med 15 prosent. Avrundet uten desimaler vil den skattemessige formuesverdien utgjøre i prosent av kostpris som ny.
+
+   | *Leveringsår* | *Prosent av kostpris* |
+   | --- | --- |
+   | 1 | 85 |
+   | 2 | 72 |
+   | 3 | 61 |
+   | 4 | 52 |
+   | 5 | 44 |
+   | 6 | 37 |
+   | 7 | 31 |
+   | 8 | 26 |
+   | 9 | 22 |
+   | 10 | 19 |
+   | 11 | 16 |
+   | 12 | 14 |
+   | 13 | 12 |
+   | 14 | 10 |
+   | 15 | 10 |
+
+   Skip levert i 2010 eller tidligere, verdsettes til 10 prosent av kostpris. Dersom det på grunn av spesielle markedsforhold mv. godtgjøres at salgsverdien for et skip vil være lavere enn den beregnede skattemessige formuesverdien, kan salgsverdien legges til grunn, jf. [skatteloven § 4-1 første ledd](lov/1999-03-26-14/§4-1/ledd/1). Med «salgsverdien» menes her verdien uten justering opp eller ned for påhvilende certepartier/konsesjoner.
+
+   Selv om et skip skifter eier, skal skipets kostpris som nytt legges til grunn for beregningen.
+2. *Skip – med ukjent kostpris*
+
+   Ved kjøp av skip hvor det ikke er mulig å fastslå byggeprisen, kan det tas utgangspunkt i 85 prosent av kjøpers kostpris. Det gis videre 15 prosent årlig reduksjon av gjenværende formuesverdi inntil skipet har nådd en alder på 15 år fra det var ferdigbygd. Restverdien blir stående videre som skattemessig formuesverdi.
+
+   Dersom det på grunn av spesielle markedsforhold mv. godtgjøres at salgsverdien for et skip vil være lavere enn den beregnede skattemessige formuesverdien, kan salgsverdien legges til grunn, jf. [skatteloven § 4-1 første ledd](lov/1999-03-26-14/§4-1/ledd/1). Med «salgsverdien» menes her verdien uten justering opp eller ned for påhvilende certepartier/konsesjoner.
+3. *Påkostninger*
+
+   Betydelige påkostninger skal vurderes for seg og verdsettes særskilt. Påkostninger på 20 prosent og over av skipets kostpris som nytt eller brukt, anses som betydelige. Slike påkostninger skal verdsettes til 85 prosent i år 1 med en årlig reduksjon på 15 prosent av gjenværende verdi i 15 år. Verdien kan ikke settes lavere enn 10 prosent av påkostningens kostpris. En betydelig påkostning vil etter dette behandles tilsvarende anskaffelsen av et nytt skip, jf. [§ 2-1-4](forskrift/2025-12-01-2404/§2-1-4) a.
+
+   Den skattemessige formuesverdien av det «opprinnelige» skipet må reduseres med eventuell forholdsmessig verdi av utstyr som tas ut i forbindelse med en ombygging.
+
+   Påkostninger på under 20 prosent av skipets kostpris skal ikke verdsettes særskilt. Slike mindre påkostninger vil dermed ikke ha innvirkning på den skattemessige formuesfastsettingen. Påkostninger fordelt over flere år vil kunne ses i sammenheng ved anvendelse av 20-prosentgrensen.
+4. *Kontrakter*
+
+   Nybyggingskontrakter for skip skal verdsettes til 85 prosent av kontraktsprisen.
 
 ### § 2-1-5. Kapitaliseringsfaktor
 
@@ -379,7 +435,20 @@ For campingvogn, som er anskaffet til privat bruk, som også brukes til spisebra
 
 ### § 2-3-4. Diverse satser ved bruk av private formuesobjekter i virksomhet
 
-Der skattepliktige benytter egne private formuesobjekter i virksomhet, gis fradrag etter samme satser som for lønnstakere, se [kapittel 1](forskrift/2025-12-01-2404/kap1).*Bruk av privat bil/båt i virksomheten:*Se [§ 1-3-20](forskrift/2025-12-01-2404/§1-3-20)*Campingvogn brukt av eieren til overnatting – i egen virksomhet:*Se [§ 1-3-1](forskrift/2025-12-01-2404/§1-3-1).*Bruk av eget hjem til møte- og kursvirksomhet:*Se [§ 1-3-25](forskrift/2025-12-01-2404/§1-3-25).*Bruk av bolig i ervervsvirksomhet (hjemmekontor):*Se [§ 1-3-26](forskrift/2025-12-01-2404/§1-3-26).
+Der skattepliktige benytter egne private formuesobjekter i virksomhet, gis fradrag etter samme satser som for lønnstakere, se [kapittel 1](forskrift/2025-12-01-2404/kap1).
+
+1. *Bruk av privat bil/båt i virksomheten:*
+
+   Se [§ 1-3-20](forskrift/2025-12-01-2404/§1-3-20)
+2. *Campingvogn brukt av eieren til overnatting – i egen virksomhet:*
+
+   Se [§ 1-3-1](forskrift/2025-12-01-2404/§1-3-1).
+3. *Bruk av eget hjem til møte- og kursvirksomhet:*
+
+   Se [§ 1-3-25](forskrift/2025-12-01-2404/§1-3-25).
+4. *Bruk av bolig i ervervsvirksomhet (hjemmekontor):*
+
+   Se [§ 1-3-26](forskrift/2025-12-01-2404/§1-3-26).
 
 ### § 2-3-5
 
@@ -504,11 +573,20 @@ Aksjeselskaper skal ved fastsettingen bruke satsene på skinn som ikke er solgt.
 
 *Hester*
 
-1. Hester som nyttes eller skal nyttes i trav- og galoppsportTrav- og galopphester føres opp med antatt salgsverdi. Hester av eget oppal under 1 år bør normalt settes til minst kr 27 100. Denne verdi økes for hvert år inntil 3 år. Hester som har nådd denne alder i 2024, skal verdsettes til minst kr 63 700. Er hesten forsikret og 15 prosent av forsikringssummen overstiger satsene foran, legges 15 prosent av forsikringssummen til grunn. Verdien for slike hester eid utenfor næringsvirksomhet, kan ikke settes ned før det er sannsynlig at vedkommende hest har en lavere salgsverdi.
+1. Hester som nyttes eller skal nyttes i trav- og galoppsport
+
+   Trav- og galopphester føres opp med antatt salgsverdi. Hester av eget oppal under 1 år bør normalt settes til minst kr 27 100. Denne verdi økes for hvert år inntil 3 år. Hester som har nådd denne alder i 2024, skal verdsettes til minst kr 63 700. Er hesten forsikret og 15 prosent av forsikringssummen overstiger satsene foran, legges 15 prosent av forsikringssummen til grunn. Verdien for slike hester eid utenfor næringsvirksomhet, kan ikke settes ned før det er sannsynlig at vedkommende hest har en lavere salgsverdi.
 2. Andre innkjøpte hester verdsettes til salgsverdi.
-3. Hester av eget oppal og innkjøpte hester til bruk i virksomhet (unntatt hester under romertall I), fastsettes til tilvirkningsverdien ved eget oppal.Satser for eget oppal:*Fjording
-Verdi, kroner**Dølahest
-Verdi, kroner*Hester inntil 1 år21002800Hester inntil 2 år50007000Hester inntil 3 år790011 000Hester over 3 år990013 800
+3. Hester av eget oppal og innkjøpte hester til bruk i virksomhet (unntatt hester under romertall I), fastsettes til tilvirkningsverdien ved eget oppal.
+
+   Satser for eget oppal:
+
+   |  | *Fjording<br>Verdi, kroner* | *Dølahest<br>Verdi, kroner* |
+   | --- | --- | --- |
+   | Hester inntil 1 år | 2100 | 2800 |
+   | Hester inntil 2 år | 5000 | 7000 |
+   | Hester inntil 3 år | 7900 | 11 000 |
+   | Hester over 3 år | 9900 | 13 800 |
 
 Verdien av voksne hester under romertall III blir stående uendret inntil realisasjon.
 
@@ -594,10 +672,18 @@ Produkter/varer som tas ut fra næringen til husholdning og føderåd verdsettes
 
 ### § 3-2-3. Normer for verdsetting av uttatte naturalier til eget bruk
 
-1. Verdien av uttatt melk per husstandsmedlem: kr 410 per år.For personer over 70 år reduseres satsen for melk til det halve.
-2. Verdien av uttatte poteter per hustandsmedlem: kr 130 per år.For barn under 10 år og for personer over 70 år reduseres satsen for poteter til det halve.
-3. Verdien av uttatt fisk per husstandsmedlem: kr 2 050 per år.For barn under 10 år og personer over 70 år reduseres satsen til det halve.
-4. Verdien av uttatt reinkjøtt settes til kr 3 250 pr. husstandsmedlem.For barn under 10 år og personer over 70 år reduseres satsen til det halve.
+1. Verdien av uttatt melk per husstandsmedlem: kr 410 per år.
+
+   For personer over 70 år reduseres satsen for melk til det halve.
+2. Verdien av uttatte poteter per hustandsmedlem: kr 130 per år.
+
+   For barn under 10 år og for personer over 70 år reduseres satsen for poteter til det halve.
+3. Verdien av uttatt fisk per husstandsmedlem: kr 2 050 per år.
+
+   For barn under 10 år og personer over 70 år reduseres satsen til det halve.
+4. Verdien av uttatt reinkjøtt settes til kr 3 250 pr. husstandsmedlem.
+
+   For barn under 10 år og personer over 70 år reduseres satsen til det halve.
 
 ### § 3-2-4. Brutto leieverdi av kårbolig på gårdsbruk
 
@@ -691,7 +777,12 @@ Skogeiendommens årlig nyttbare tilvekst fremkommer ved å multiplisere eiendomm
 
 Skogeieren skal oppgi størrelsen på det økonomisk drivbare skogarealet på sin eiendom, og hvordan dette fordeler seg på de fire bonitetsklassene, Svært høy (H 23–26), Høy (H 17–20), Middels (H 11–14) og Lav (H 6–8).
 
-Tilvekstratene for de enkelte bonitetsklassene er fastsatt til:Svært høy 0,7 m3 per daaHøy 0,4 m3 per daaMiddels 0,25 m3 per daaLav 0,08 m3 per daa.
+Tilvekstratene for de enkelte bonitetsklassene er fastsatt til:
+
+- Svært høy 0,7 m3 per daa
+- Høy 0,4 m3 per daa
+- Middels 0,25 m3 per daa
+- Lav 0,08 m3 per daa.
 
 ### § 4-5. Priser
 
@@ -723,7 +814,13 @@ Generelle revisjoner av skogens formuesverdi skal skje når Skattedirektoratet b
 
 ### § 4-12. Enkeltrevisjoner
 
-Formuesverdien på den enkelte skogeiendom skal revideres når den formuesverdi som ble fastsatt ved siste revisjon, er uriktig som en følge av følgende forhold:tilkjøpfrasalgfredningnaturskaderdokumentasjon av endret fordeling av areal på bonitetsklasser (eks. ny skogbruksplan, områdeplan eller lignende).
+Formuesverdien på den enkelte skogeiendom skal revideres når den formuesverdi som ble fastsatt ved siste revisjon, er uriktig som en følge av følgende forhold:
+
+- tilkjøp
+- frasalg
+- fredning
+- naturskader
+- dokumentasjon av endret fordeling av areal på bonitetsklasser (eks. ny skogbruksplan, områdeplan eller lignende).
 
 Revisjonen foretas etter initiativ fra skogeieren, eller når de regionale fastsettingsmyndigheter finner det nødvendig.
 
@@ -745,7 +842,20 @@ I åpningsbalansen skal aktiva være inndelt i grupper og skal for jord- og skog
 
 Fordringer og gjeld skal være spesifisert i balansen eller på særskilt liste over saldi i reskontroboken. Innestående skogavgiftsmidler som skogeieren ikke har et ubetinget krav på å få utbetalt, tas ikke med i skogbrukets balanse.
 
-Ved verdsettelsen av de forskjellige eiendeler i åpningsbalansen i nye regnskaper skal følgende regler følges:Ved oppføring av fast eiendom, maskiner og redskap skal en ta utgangspunkt i den virkelige kostpris for den nåværende eier.Har eieren overtatt eiendommen med løsøre under ett, må kostprisen fordeles på fast eiendom og løsøre etter skjønn. Kostprisen for den faste eiendommen må fordeles på jord, bygninger (og andre avskrivbare anlegg) og skog.Hester føres opp enkeltvis med navn, alder og antatt salgsverdi.Andre husdyr føres opp i grupper etter art, kjønn og alder.Kuer føres opp med gjennomsnittlig slakteverdi med tillegg av 15 prosent. Høyere antatt salgsverdi basert på størrelse, alder, kvalitet og drektighetsgrad må dokumenteres.For kviger, kalver, okser og griser over 2 måneder finnes enhetsprisen for hver gruppe på grunnlag av antatt salgsverdi for det enkelte dyr.Smågriser, sauer, geiter og fjærfe verdsettes etter en felles enhetspris innen hver gruppe, beregnet på grunnlag av antatt salgsverdi.Avlingslager skal føres opp med antatt salgsverdi. Halvfabrikata som f.eks. planter i vekst, verdsettes til salgsverdien på vedkommende stadium.Innkjøpt varelager i jordbruket som kraftfôr, kunstgjødsel, drivstoffer mv. verdsettes til innkjøpspris med tillegg av frakt.Materiallager i jordbruket foredlet av virke fra egen skog føres opp med netto salgsverdi på det tidspunkt da virket ble foredlet. Innkjøpt materiallager i jordbruket verdsettes til innkjøpspris med tillegg av frakt.Hvis det drives foredling av skogsvirke med salg for øye, føres materiallageret opp med antatt netto salgsverdi på det tidspunkt da virket ble foredlet.Lager av tømmer, kubb, ved o.l. under skogbrukets balanse verdsettes etter påløpte direkte driftsutgifter, verdi av eget arbeid og bruk av egne driftsmidler medregnet, men uten tillegg for rotverdien.
+Ved verdsettelsen av de forskjellige eiendeler i åpningsbalansen i nye regnskaper skal følgende regler følges:
+
+- Ved oppføring av fast eiendom, maskiner og redskap skal en ta utgangspunkt i den virkelige kostpris for den nåværende eier.
+- Har eieren overtatt eiendommen med løsøre under ett, må kostprisen fordeles på fast eiendom og løsøre etter skjønn. Kostprisen for den faste eiendommen må fordeles på jord, bygninger (og andre avskrivbare anlegg) og skog.
+- Hester føres opp enkeltvis med navn, alder og antatt salgsverdi.
+- Andre husdyr føres opp i grupper etter art, kjønn og alder.
+- Kuer føres opp med gjennomsnittlig slakteverdi med tillegg av 15 prosent. Høyere antatt salgsverdi basert på størrelse, alder, kvalitet og drektighetsgrad må dokumenteres.
+- For kviger, kalver, okser og griser over 2 måneder finnes enhetsprisen for hver gruppe på grunnlag av antatt salgsverdi for det enkelte dyr.
+- Smågriser, sauer, geiter og fjærfe verdsettes etter en felles enhetspris innen hver gruppe, beregnet på grunnlag av antatt salgsverdi.
+- Avlingslager skal føres opp med antatt salgsverdi. Halvfabrikata som f.eks. planter i vekst, verdsettes til salgsverdien på vedkommende stadium.
+- Innkjøpt varelager i jordbruket som kraftfôr, kunstgjødsel, drivstoffer mv. verdsettes til innkjøpspris med tillegg av frakt.
+- Materiallager i jordbruket foredlet av virke fra egen skog føres opp med netto salgsverdi på det tidspunkt da virket ble foredlet. Innkjøpt materiallager i jordbruket verdsettes til innkjøpspris med tillegg av frakt.
+- Hvis det drives foredling av skogsvirke med salg for øye, føres materiallageret opp med antatt netto salgsverdi på det tidspunkt da virket ble foredlet.
+- Lager av tømmer, kubb, ved o.l. under skogbrukets balanse verdsettes etter påløpte direkte driftsutgifter, verdi av eget arbeid og bruk av egne driftsmidler medregnet, men uten tillegg for rotverdien.
 
 ### § 5-2. Senere balanse
 
@@ -755,7 +865,19 @@ Dyr som var voksne allerede ved årets begynnelse og som fremdeles er i behold, 
 
 Nye dyr av samme slag som er nevnt i annet ledd og som er av eget oppal, skal i prinsippet verdsettes til tilvirkningsverdien som for andre varer. Skattedirektoratet fastsetter hvert år etter at Landbruks- og matdepartementets uttalelse er innhentet, de enhetspriser som skal nyttes for nye dyr ved årets fastsetting.
 
-Med utgangspunkt i enhetsprisene for nye voksne dyr, jf. 3. ledd, fastsettes enhetspriser for nye dyr av eget oppal etter følgende forholdstall:Kviger over 12 måneder (ikke kalvet) 70 pst.Kviger under 12 måneder 30 pst.Okser over 12 måneder 70 pst.Okser under 12 måneder 30 pst.Sauer under 12 måneder 60 pst.Geiter under 9 måneder 30 pst.Slaktegriser ca. 5 måneder 100 pst.Slaktegriser ca. 4 måneder 80 pst.Slaktegriser ca. 3 måneder 60 pst.Smågriser ca. 2 måneder 40 pst.Smågriser under 2 måneder 20 pst.
+Med utgangspunkt i enhetsprisene for nye voksne dyr, jf. 3. ledd, fastsettes enhetspriser for nye dyr av eget oppal etter følgende forholdstall:
+
+- Kviger over 12 måneder (ikke kalvet) 70 pst.
+- Kviger under 12 måneder 30 pst.
+- Okser over 12 måneder 70 pst.
+- Okser under 12 måneder 30 pst.
+- Sauer under 12 måneder 60 pst.
+- Geiter under 9 måneder 30 pst.
+- Slaktegriser ca. 5 måneder 100 pst.
+- Slaktegriser ca. 4 måneder 80 pst.
+- Slaktegriser ca. 3 måneder 60 pst.
+- Smågriser ca. 2 måneder 40 pst.
+- Smågriser under 2 måneder 20 pst.
 
 Beregnet enhetspris, jf. 3. og 4. ledd, som overstiger kr 1 000, avrundes til nærmeste kr 100. Enhetspriser på kr 500–1 000 avrundes til nærmeste kr 50. Lavere enhetspris avrundes til nærmeste kr 10. Ved beregning av ny enhetspris for dyr fra åpningsbalansen, jf. reglene i 2. ledd, foretas avrunding til nærmeste kr 10.
 

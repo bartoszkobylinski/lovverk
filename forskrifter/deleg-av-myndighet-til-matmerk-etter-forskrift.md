@@ -15,7 +15,7 @@ xml_hash: "8c7748e7d628e4e36774f93dc2aef4a9e5b1a5cc4a0f1dd30718e53bec671785"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 *Omfang*
 
-Det sentrale Mattilsynet delegerer med hjemmel i [forskrift 5. juli 2002 nr. 698](forskrift/2002-07-05-698) om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på landbruksbaserte næringsmidler, fisk og fiskevarer § 25 annet ledd, følgende myndighet til Matmerk:å vurdere søknad og å innstille til det sentrale Mattilsynet samt fatte enkeltvedtak om henleggelse og avslag på søknad etter forskriftens § 15.å vurdere søknad om endring av produktforskrift gitt med hjemmel i forskriftens § 15, og å innstille til det sentrale Mattilsynet etter forskriftens § 16.å vurdere innsigelse og fatte enkeltvedtak om innsigelsen skal tas til følge eller ikke etter forskriftens § 20.å vurdere søknad om godkjenning etter produktforskrift gitt med hjemmel i forskriftens § 15, og å innstille til det sentrale Mattilsynet etter forskriftens § 22.å fastsette og kreve inn gebyr etter forskriftens § 27.
+Det sentrale Mattilsynet delegerer med hjemmel i [forskrift 5. juli 2002 nr. 698](forskrift/2002-07-05-698) om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på landbruksbaserte næringsmidler, fisk og fiskevarer § 25 annet ledd, følgende myndighet til Matmerk:
+
+- å vurdere søknad og å innstille til det sentrale Mattilsynet samt fatte enkeltvedtak om henleggelse og avslag på søknad etter forskriftens § 15.
+- å vurdere søknad om endring av produktforskrift gitt med hjemmel i forskriftens § 15, og å innstille til det sentrale Mattilsynet etter forskriftens § 16.
+- å vurdere innsigelse og fatte enkeltvedtak om innsigelsen skal tas til følge eller ikke etter forskriftens § 20.
+- å vurdere søknad om godkjenning etter produktforskrift gitt med hjemmel i forskriftens § 15, og å innstille til det sentrale Mattilsynet etter forskriftens § 22.
+- å fastsette og kreve inn gebyr etter forskriftens § 27.
 
 *Rettslige følger av delegeringen*
 

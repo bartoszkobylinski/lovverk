@@ -15,7 +15,7 @@ xml_hash: "c469cb2c6d048609d39a2c0d7b0bad5918ede886cf38ebc3ed482a66656ce02b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Spesifikasjonene etter første ledd skal være tilstrekkelig detaljerte til at d
 
 ### § 1-4. Krav til opplysninger ved nødanrop
 
-Opplysninger for geografisk lokalisering av nødanrop skal som et minimum inneholdetelefonnummer,sluttbrukers og registrert brukers – om det er en annen enn sluttbrukeren – etternavn, fornavn, mellomnavn eller firmanavn, ogregistrert adresse.
+Opplysninger for geografisk lokalisering av nødanrop skal som et minimum inneholde
+
+1. telefonnummer,
+2. sluttbrukers og registrert brukers – om det er en annen enn sluttbrukeren – etternavn, fornavn, mellomnavn eller firmanavn, og
+3. registrert adresse.
 
 For nødanrop fra mobilterminal skal i tillegg til opplysningene i første ledd, også nettverksbasert informasjon om mobilterminalens lokalisering overføres til nødetatene. Nøyaktigheten skal minst tilsvare den som oppnås ved å kombinere basestasjonens beregnede dekningsområde, sektorangivelse og beregning av terminalens avstand fra basestasjonen, det vil si såkalt «timing advance». Opplysninger om basestasjoners faktiske dekning på bakgrunn av målinger eller beregninger skal oversendes til nødetatene.
 
@@ -96,7 +100,10 @@ Nasjonal kommunikasjonsmyndighet kan gi forskrift om nærmere krav til fullmakte
 
 ### § 1-8. Entydig identifisering av fysiske personer
 
-Sluttbrukere som er fysiske personer, skal identifiseres entydig, jf. [ekomloven § 2-8](lov/2024-12-13-76/§2-8), på en av følgende måter:fremleggelse av originalt og gyldig pass, nasjonalt ID-kort eller norsk førerkort – og hvis personen ikke har norsk fødselsnummer eller D-nummer, identitetsbevis med fødselsdato, fødested, fotografi og statsborgerskap,bruk av elektronisk identifikasjon som er selvdeklarert til eID-nivå «betydelig» eller «høyt» etter [selvdeklarasjonsforskriften](forskrift/2019-11-21-1578).
+Sluttbrukere som er fysiske personer, skal identifiseres entydig, jf. [ekomloven § 2-8](lov/2024-12-13-76/§2-8), på en av følgende måter:
+
+1. fremleggelse av originalt og gyldig pass, nasjonalt ID-kort eller norsk førerkort – og hvis personen ikke har norsk fødselsnummer eller D-nummer, identitetsbevis med fødselsdato, fødested, fotografi og statsborgerskap,
+2. bruk av elektronisk identifikasjon som er selvdeklarert til eID-nivå «betydelig» eller «høyt» etter [selvdeklarasjonsforskriften](forskrift/2019-11-21-1578).
 
 Tilbyder skal registrere hvilken type identitetsbevis som er benyttet ved identifikasjonskontroll og identitetsbevisets kontrollnummer, for å dokumentere hvordan kravet til entydig identifisering er oppfylt.
 
@@ -122,7 +129,13 @@ Tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste skal
 
 ### § 1-12. Planer for konkursvern
 
-Planer etter [ekomloven § 2-12](lov/2024-12-13-76/§2-12) for fortsatt levering av elektronisk kommunikasjon ved konkurs, åpning av gjeldsforhandling eller som følge av betalingsinnstilling, skal minimum inneholde følgende:tilbyderens navn, organisasjonsnummer, adresse, telefon, telefaks, e-postadresse og kontaktpersonkonkretisering av tiltak for å sikre egne brukere i minimum to uker i situasjon som nevnt i [ekomloven § 2-12 første ledd første punktum](lov/2024-12-13-76/§2-12/ledd/1/setning/1)rutiner for varsling av myndighetene ved begjæring om gjeldsforhandlinger eller konkursoversikt over elektroniske kommunikasjonsnett og -tjenester som inngår i egen infrastruktur, herunder innleid overføringskapasitet, ogoversikt over egne brukere med ansvar for borgernes liv og helse.
+Planer etter [ekomloven § 2-12](lov/2024-12-13-76/§2-12) for fortsatt levering av elektronisk kommunikasjon ved konkurs, åpning av gjeldsforhandling eller som følge av betalingsinnstilling, skal minimum inneholde følgende:
+
+1. tilbyderens navn, organisasjonsnummer, adresse, telefon, telefaks, e-postadresse og kontaktperson
+2. konkretisering av tiltak for å sikre egne brukere i minimum to uker i situasjon som nevnt i [ekomloven § 2-12 første ledd første punktum](lov/2024-12-13-76/§2-12/ledd/1/setning/1)
+3. rutiner for varsling av myndighetene ved begjæring om gjeldsforhandlinger eller konkurs
+4. oversikt over elektroniske kommunikasjonsnett og -tjenester som inngår i egen infrastruktur, herunder innleid overføringskapasitet, og
+5. oversikt over egne brukere med ansvar for borgernes liv og helse.
 
 I særlige tilfeller kan Nasjonal kommunikasjonsmyndighet frita fra plikten til å utarbeide planer.
 
@@ -188,7 +201,12 @@ Tilbyder skal umiddelbart og senest innen en halv time etter at tilbyder er blit
 
 Tilbyder skal umiddelbart etter at tilbyder er blitt kjent med en sikkerhetshendelse som kan medføre vesentlig brudd på tilgjengelighet i elektroniske kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, varsle Nasjonal kommunikasjonsmyndighet.
 
-Følgende hendelser skal alltid varsles:ustabilitet eller bortfall av mer enn halvparten av kundene eller basestasjonene i en kommuneustabilitet eller bortfall av mer enn halvparten av kundene eller basestasjonene i tettsteder med mer enn 20 000 innbyggereustabilitet eller bortfall av mer enn ti prosent av kundene eller basestasjonene på landsbasisustabilitet eller bortfall for brukere med ansvar for liv og helse, eller i situasjoner som innebærer høy risiko for tap av liv og helse.
+Følgende hendelser skal alltid varsles:
+
+1. ustabilitet eller bortfall av mer enn halvparten av kundene eller basestasjonene i en kommune
+2. ustabilitet eller bortfall av mer enn halvparten av kundene eller basestasjonene i tettsteder med mer enn 20 000 innbyggere
+3. ustabilitet eller bortfall av mer enn ti prosent av kundene eller basestasjonene på landsbasis
+4. ustabilitet eller bortfall for brukere med ansvar for liv og helse, eller i situasjoner som innebærer høy risiko for tap av liv og helse.
 
 ### § 2-9. Nasjonal autonomi
 
@@ -250,7 +268,12 @@ Tilbyder skal årlig utarbeide oversikt over kostnadene som følge av utlevering
 
 Politi- og påtalemyndigheten skal oversende årlig rapport om uthentingen av lagringspliktige opplysninger etter [ekomloven § 3-14 første ledd](lov/2024-12-13-76/§3-14/ledd/1). Rapporteringen skal sendes Nasjonal kommunikasjonsmyndighet innen 1. mars hvert år.
 
-Rapporten skal inneholde oversikt overdet totale antallet anmodninger som er sendt lagringspliktige tilbydere per kalenderår, antallet som er besvart av tilbyder og dokumentasjon på at kravene til utlevering i [ekomloven § 3-14 andre ledd](lov/2024-12-13-76/§3-14/ledd/2) er oppfylt for anmodningene,det totale antallet abonnenter politiet har fått utlevert informasjon om per kalenderår, og varigheten av det etterspurte tidsintervallet for den enkelte anmodning om dette er benyttet. Dersom det anmodes om informasjon gjentatte ganger i løpet av kalenderåret med utgangspunkt i samme abonnent når denne er en fysisk person, skal antallet abonnenter dette gjelder oppgis. I slike tilfeller skal også det totale antallet utleveringer og den totale varigheten på eventuelle tidsintervall benyttet oppgis per abonnent,den årlige fordelingen av besvarte anmodninger med utgangspunkt i henholdsvis IP-adresse eller abonnent, oghvilke straffebud som ligger til grunn for det årlige uttaket av lagringspliktig informasjon.
+Rapporten skal inneholde oversikt over
+
+1. det totale antallet anmodninger som er sendt lagringspliktige tilbydere per kalenderår, antallet som er besvart av tilbyder og dokumentasjon på at kravene til utlevering i [ekomloven § 3-14 andre ledd](lov/2024-12-13-76/§3-14/ledd/2) er oppfylt for anmodningene,
+2. det totale antallet abonnenter politiet har fått utlevert informasjon om per kalenderår, og varigheten av det etterspurte tidsintervallet for den enkelte anmodning om dette er benyttet. Dersom det anmodes om informasjon gjentatte ganger i løpet av kalenderåret med utgangspunkt i samme abonnent når denne er en fysisk person, skal antallet abonnenter dette gjelder oppgis. I slike tilfeller skal også det totale antallet utleveringer og den totale varigheten på eventuelle tidsintervall benyttet oppgis per abonnent,
+3. den årlige fordelingen av besvarte anmodninger med utgangspunkt i henholdsvis IP-adresse eller abonnent, og
+4. hvilke straffebud som ligger til grunn for det årlige uttaket av lagringspliktig informasjon.
 
 ### § 3-7. Unntak fra sletteplikt og taushetsplikt for nummeruavhengige person-til-person-kommunikasjonstjenester
 
@@ -266,17 +289,56 @@ Rapporten skal inneholde oversikt overdet totale antallet anmodninger som er sen
 
 Tilbyder av internettilgangstjeneste eller offentlig tilgjengelig person-til-person-kommunikasjonstjeneste skal offentliggjøre oversiktlig og oppdatert informasjon om leveringsvilkår.
 
-Informasjonen skal blant annet inneholde opplysninger omtilbyders navn og adresse,tjenestens innhold og omfang, herunder tilleggstjenester,standard avtalevilkår, herunder om varighet, bruddgebyr og koblingssalg,priser for tilgang, bruk og vedlikehold, herunder faste og variable priser, særlige prisplaner og rabatter,vedlikeholdstjenester,kompensasjons- og refusjonsordninger, kundeservice og klageordninger,detaljerte opplysninger om produkter og tjenester som er særlig utformet for sluttbrukere med nedsatt funksjonsevne,for nummerbaserte person-til-person-kommunikasjonstjenester; opplysninger om tilgang til nødmeldetjenester og lokalisering av anrop, ogfor nummeruavhengige person-til-person-kommunikasjonstjenester; opplysninger om i hvilken grad tilgang til nødmeldetjenester støttes eller ikke.
+Informasjonen skal blant annet inneholde opplysninger om
+
+1. tilbyders navn og adresse,
+2. tjenestens innhold og omfang, herunder tilleggstjenester,
+3. standard avtalevilkår, herunder om varighet, bruddgebyr og koblingssalg,
+4. priser for tilgang, bruk og vedlikehold, herunder faste og variable priser, særlige prisplaner og rabatter,
+5. vedlikeholdstjenester,
+6. kompensasjons- og refusjonsordninger, kundeservice og klageordninger,
+7. detaljerte opplysninger om produkter og tjenester som er særlig utformet for sluttbrukere med nedsatt funksjonsevne,
+8. for nummerbaserte person-til-person-kommunikasjonstjenester; opplysninger om tilgang til nødmeldetjenester og lokalisering av anrop, og
+9. for nummeruavhengige person-til-person-kommunikasjonstjenester; opplysninger om i hvilken grad tilgang til nødmeldetjenester støttes eller ikke.
 
 Dersom tilbyder tilbyr leveringspliktige tjenester, skal informasjonen også inneholde opplysninger om de leveringspliktige tjenestene og hvilke rettigheter slike tjenester gir sluttbruker.
 
 ### § 4-2. Opplysningsplikt før inngåelse av avtale
 
-Tilbyder av offentlig tilgjengelige elektroniske kommunikasjonstjenester skal, før en forbruker blir bundet av avtale eller et tilsvarende tilbud, opplyse omselskapets navn, adresse og annen kontaktinformasjon,tjenestens viktigste egenskaper og funksjonalitet,nivå for tjenestekvalitet og med unntak av internettilgangstjenester; særlige kvalitetsparameter som tilbys,samlet pris,vilkår om avtalens varighet og tidspunkt for levering, kompensasjons- og tilbakebetalingsordninger, bruk av forhåndsbetalte tjenester og eventuelle avgifter ved tidlig heving av avtalen,hvilke tiltak som tilbyderen kan tenkes å treffe i forbindelse med sikkerhets- eller integritetshendelser, trusler eller sårbarheter,klagemuligheter, oggarantier.
+Tilbyder av offentlig tilgjengelige elektroniske kommunikasjonstjenester skal, før en forbruker blir bundet av avtale eller et tilsvarende tilbud, opplyse om
 
-Tilbydere av internettilgangstjenester og offentlig tilgjengelige person-til-person-kommunikasjonstjenester skal i tillegg til opplysningene i første ledd gi følgende opplysninger:etter første ledd bokstav beventuelt minstenivå for tjenestekvalitet i den grad dette tilbys og, i tråd med [ekomloven § 2-6](lov/2024-12-13-76/§2-6) om måling og informasjon om kvalitet, eventuelle vilkår, herunder avgifter, som pålegges av tilbydere for bruk av terminalutstyr som er levert.etter første ledd bokstav d der det er relevantprisoversikt i henhold til avtale, herunder kommunikasjonsvolum og pris for ytterligere kommunikasjonsenheter,forbrukerens eventuelle mulighet til å overføre bruk av eventuelt ubenyttet volumpriser for anrop eller tjenester som er underlagt særskilte prisvilkår,ved kombinerte tjenester og elementer som omfatter både tjenester og terminalutstyr; pris på de enkelte elementene i koblingssalget i den utstrekning de også markedsføres separat,nærmere opplysninger og vilkår, herunder avgifter, for ettersalgstjeneste, vedlikehold og kundeservice, ogpå hvilken måte ajourførte opplysninger om alle gjeldende takster og vedlikeholdskostnader kan innhentes.etter første ledd bokstav eløpetiden på avtale om kombinerte tjenester og vilkår for fornyelse og heving av avtale, eventuelt vilkårene for heving av koblingssalg eller elementer i koblingssalget,hvilke personopplysninger som skal framlegges før utførelse av tjenesten eller som samles inn i forbindelse med levering av tjenesten, ognærmere beskrivelse av produkter og tjenester som er utformet for sluttbrukere med nedsatt funksjonsevne, og hvordan oppdateringer av disse opplysningene kan innhentes.
+1. selskapets navn, adresse og annen kontaktinformasjon,
+2. tjenestens viktigste egenskaper og funksjonalitet,
+3. nivå for tjenestekvalitet og med unntak av internettilgangstjenester; særlige kvalitetsparameter som tilbys,
+4. samlet pris,
+5. vilkår om avtalens varighet og tidspunkt for levering, kompensasjons- og tilbakebetalingsordninger, bruk av forhåndsbetalte tjenester og eventuelle avgifter ved tidlig heving av avtalen,
+6. hvilke tiltak som tilbyderen kan tenkes å treffe i forbindelse med sikkerhets- eller integritetshendelser, trusler eller sårbarheter,
+7. klagemuligheter, og
+8. garantier.
 
-Tilbyder av offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal i tillegg til opplysningene i første og andre ledd opplyse omeventuell begrensning i tilgang til nødmeldetjenester via SMS eller begrensninger ved lokalisering av nødanrop som skyldes manglende teknisk gjennomførbarhet, ogat sluttbruker har rett til å reservere seg mot at personopplysninger helt eller delvis utleveres til nummeropplysningsvirksomheter.
+Tilbydere av internettilgangstjenester og offentlig tilgjengelige person-til-person-kommunikasjonstjenester skal i tillegg til opplysningene i første ledd gi følgende opplysninger:
+
+1. etter første ledd bokstav b
+
+   1. eventuelt minstenivå for tjenestekvalitet i den grad dette tilbys og, i tråd med [ekomloven § 2-6](lov/2024-12-13-76/§2-6) om måling og informasjon om kvalitet, eventuelle vilkår, herunder avgifter, som pålegges av tilbydere for bruk av terminalutstyr som er levert.
+2. etter første ledd bokstav d der det er relevant
+
+   1. prisoversikt i henhold til avtale, herunder kommunikasjonsvolum og pris for ytterligere kommunikasjonsenheter,
+   2. forbrukerens eventuelle mulighet til å overføre bruk av eventuelt ubenyttet volum
+   3. priser for anrop eller tjenester som er underlagt særskilte prisvilkår,
+   4. ved kombinerte tjenester og elementer som omfatter både tjenester og terminalutstyr; pris på de enkelte elementene i koblingssalget i den utstrekning de også markedsføres separat,
+   5. nærmere opplysninger og vilkår, herunder avgifter, for ettersalgstjeneste, vedlikehold og kundeservice, og
+   6. på hvilken måte ajourførte opplysninger om alle gjeldende takster og vedlikeholdskostnader kan innhentes.
+3. etter første ledd bokstav e
+
+   1. løpetiden på avtale om kombinerte tjenester og vilkår for fornyelse og heving av avtale, eventuelt vilkårene for heving av koblingssalg eller elementer i koblingssalget,
+   2. hvilke personopplysninger som skal framlegges før utførelse av tjenesten eller som samles inn i forbindelse med levering av tjenesten, og
+   3. nærmere beskrivelse av produkter og tjenester som er utformet for sluttbrukere med nedsatt funksjonsevne, og hvordan oppdateringer av disse opplysningene kan innhentes.
+
+Tilbyder av offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal i tillegg til opplysningene i første og andre ledd opplyse om
+
+1. eventuell begrensning i tilgang til nødmeldetjenester via SMS eller begrensninger ved lokalisering av nødanrop som skyldes manglende teknisk gjennomførbarhet, og
+2. at sluttbruker har rett til å reservere seg mot at personopplysninger helt eller delvis utleveres til nummeropplysningsvirksomheter.
 
 Tilbydere av internettilgangstjenester skal i tillegg til opplysningene i første og andre ledd gi opplysninger som kreves i henhold til forordning [(EU) 2015/2120](eu/32015r2120) artikkel 4 nr. 1, jf. [§ 1-11](forskrift/2024-12-20-3410/§1-11).
 
@@ -308,13 +370,21 @@ Nasjonal kommunikasjonsmyndighet kan gi forskrift om at tilbydere kostnadsfritt 
 
 ### § 4-5. Sperring av utgående anrop og meldinger
 
-Tilbyder av nummerbaserte person-til-person-kommunikasjonstjenester skal kostnadsfritt tilbybegrensning i adgangen til å gjøre anrop og sende meldinger til et forhåndsdefinert utvalg av nummer fastsatt av sluttbruker,sperring av anrop og meldinger til nummer angitt av sluttbruker, ogsperring av adgangen til å gjøre bestemte typer anrop og sende bestemte typer meldinger.
+Tilbyder av nummerbaserte person-til-person-kommunikasjonstjenester skal kostnadsfritt tilby
+
+1. begrensning i adgangen til å gjøre anrop og sende meldinger til et forhåndsdefinert utvalg av nummer fastsatt av sluttbruker,
+2. sperring av anrop og meldinger til nummer angitt av sluttbruker, og
+3. sperring av adgangen til å gjøre bestemte typer anrop og sende bestemte typer meldinger.
 
 Tilbyder av nummerbaserte person-til-person-kommunikasjonstjenester skal tilby å fastsette en øvre grense for variable kostnader for hver faktureringsperiode. Dersom kostnadene overskrider den fastsatte grensen, skal tilbyder sperre for utgående anrop uten ugrunnet opphold, med mindre sluttbruker samtykker til videre bruk.
 
 ### § 4-6. Fellesfakturert tjeneste
 
-Tilbyder av offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal vederlagsfritt tilby sluttbruker å begrense tilgangen til fellesfakturert tjeneste. Sluttbruker skal kunne sperre forall tilgang til fellesfakturert tjenesteet forhåndsdefinert utvalg av nummer, ogbruk av fellesfakturert tjeneste i Norge over et gitt beløp per måned.
+Tilbyder av offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal vederlagsfritt tilby sluttbruker å begrense tilgangen til fellesfakturert tjeneste. Sluttbruker skal kunne sperre for
+
+1. all tilgang til fellesfakturert tjeneste
+2. et forhåndsdefinert utvalg av nummer, og
+3. bruk av fellesfakturert tjeneste i Norge over et gitt beløp per måned.
 
 Tilbyder skal vederlagsfritt informere sluttbruker om adgangen til å sperre for bruk av fellesfakturert tjeneste og om de ulike beløpsgrenser for sperring. Nederste beløpsgrense per abonnement skal ikke være høyere enn 500 kroner. Tilbyder skal informere sluttbruker når fastsatt beløpsgrense er nådd, og tilbyder skal så langt mulig sikre at videre bruk av fellesfakturerte tjenester blir sperret. Dersom tilbyder ikke kan tilby slik beløpsgrense, skal sluttbruker gjøres oppmerksom på det ved avtaleinngåelsen, og andre fellesfakturerte tjenester enn nummeropplysningstjenester kan kun tilbys etter avtale med sluttbruker.
 
@@ -372,7 +442,19 @@ Når sluttbrukere hjemmehørende i Storbritannia gjester i norske mobilnett, er 
 
 ### § 4-12. Prissammenlikningstjenester
 
-Prissammenlikningstjenester for internettilgangstjenester og offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal på anmodning fra den som leverer prissammenlikningstjenesten godkjennes av Nasjonal kommunikasjonsmyndighet så langt følgende krav er oppfylt:tjenesten er gratis for sluttbrukeretjenesten gir effektiv mulighet for sluttbruker til å sammenlikne priser på tjenester som er tilgjengelig for forbrukeretjenesten gir effektiv mulighet for sluttbruker til å sammenlikne kvaliteten på tjenester som er tilgjengelig for forbrukeretjenesten er uavhengig av tilbydere av tjenester som omfattes av prissammenlikningsverktøyettjenesten er transparent med tanke på hvem som eier og driver dentjenesten gir nøyaktige og oppdaterte opplysninger basert på klare og objektive transparente kriteriertjenesten bruker et klart og entydig språktjenesten er åpen for alle tilbydere av internettilgangstjenester eller offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenestertjenesten viser et bredt spekter av tilbud som dekker en betydelig del av markedet. Dersom tjenesten ikke gir fullstendig oversikt over markedet, skal dette fremkomme klart for sluttbrukertjenesten gir sluttbruker en mulighet til geografisk filtrering for tilbud av internettilgangstjenester i fastnetttjenesten har en effektiv fremgangsmåte for rapportering av uriktige opplysninger.
+Prissammenlikningstjenester for internettilgangstjenester og offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester skal på anmodning fra den som leverer prissammenlikningstjenesten godkjennes av Nasjonal kommunikasjonsmyndighet så langt følgende krav er oppfylt:
+
+1. tjenesten er gratis for sluttbrukere
+2. tjenesten gir effektiv mulighet for sluttbruker til å sammenlikne priser på tjenester som er tilgjengelig for forbrukere
+3. tjenesten gir effektiv mulighet for sluttbruker til å sammenlikne kvaliteten på tjenester som er tilgjengelig for forbrukere
+4. tjenesten er uavhengig av tilbydere av tjenester som omfattes av prissammenlikningsverktøyet
+5. tjenesten er transparent med tanke på hvem som eier og driver den
+6. tjenesten gir nøyaktige og oppdaterte opplysninger basert på klare og objektive transparente kriterier
+7. tjenesten bruker et klart og entydig språk
+8. tjenesten er åpen for alle tilbydere av internettilgangstjenester eller offentlig tilgjengelige nummerbaserte person-til-person-kommunikasjonstjenester
+9. tjenesten viser et bredt spekter av tilbud som dekker en betydelig del av markedet. Dersom tjenesten ikke gir fullstendig oversikt over markedet, skal dette fremkomme klart for sluttbruker
+10. tjenesten gir sluttbruker en mulighet til geografisk filtrering for tilbud av internettilgangstjenester i fastnett
+11. tjenesten har en effektiv fremgangsmåte for rapportering av uriktige opplysninger.
 
 Prissammenlikningstjeneste som godkjennes etter første ledd kan bære et godkjentmerke utstedt av myndigheten.
 
@@ -380,7 +462,10 @@ Tredjepart skal kostnadsfritt og i åpne dataformater få tilgang til å bruke d
 
 ### § 4-13. Hemmelig nummer
 
-Tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste som tilbyr sluttbruker tjenesten hemmelig nummer, skal sikre at tjenesten som minimum inneholderfull reservasjon mot at informasjon om sluttbrukers nummer, navn og adresse utleveres til allmennheten, jf. [§ 9-3 fjerde ledd](forskrift/2024-12-20-3410/§9-3/ledd/4)reservasjon mot visning av eget nummer (skjult A-nummervisning), jf. [§ 9-4 andre ledd](forskrift/2024-12-20-3410/§9-4/ledd/2).
+Tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste som tilbyr sluttbruker tjenesten hemmelig nummer, skal sikre at tjenesten som minimum inneholder
+
+1. full reservasjon mot at informasjon om sluttbrukers nummer, navn og adresse utleveres til allmennheten, jf. [§ 9-3 fjerde ledd](forskrift/2024-12-20-3410/§9-3/ledd/4)
+2. reservasjon mot visning av eget nummer (skjult A-nummervisning), jf. [§ 9-4 andre ledd](forskrift/2024-12-20-3410/§9-4/ledd/2).
 
 Tilbyder kan i tillegg tilby skjult nummer på faktura, avgrensing av tilgang til abonnementsinformasjon i tilbyders organisasjon mv.
 
@@ -452,11 +537,25 @@ Nasjonal kommunikasjonsmyndighet skal ved prisregulering av tilgang til anleggsi
 
 ### § 6-2. Funksjonelt skille
 
-Pålegg om funksjonelt skille skal inneholdeinformasjon om skillets art og grad, herunder den atskilte forretningsenhetens rettslige status,beskrivelse av den atskilte forretningsenhetens aktiva og de produkter eller tjenester den atskilte enheten skal tilby,organisatoriske tiltak som skal gjennomføres for å sikre uavhengigheten mellom de atskilte forretningsenhetene,regler som skal sikre at forpliktelsene overholdes,regler som skal sikre transparens knyttet til driften, særlig overfor andre interessenter, oget system for tilsyn for å sikre at forpliktelsen overholdes, herunder offentliggjøring av en årlig rapport.
+Pålegg om funksjonelt skille skal inneholde
+
+1. informasjon om skillets art og grad, herunder den atskilte forretningsenhetens rettslige status,
+2. beskrivelse av den atskilte forretningsenhetens aktiva og de produkter eller tjenester den atskilte enheten skal tilby,
+3. organisatoriske tiltak som skal gjennomføres for å sikre uavhengigheten mellom de atskilte forretningsenhetene,
+4. regler som skal sikre at forpliktelsene overholdes,
+5. regler som skal sikre transparens knyttet til driften, særlig overfor andre interessenter, og
+6. et system for tilsyn for å sikre at forpliktelsen overholdes, herunder offentliggjøring av en årlig rapport.
 
 ### § 6-3. Tilgang til infrastruktur for tjenester som bruker frekvenser
 
-Myndigheten skal ved vurderingen av pålegg etter [ekomloven § 10-5](lov/2024-12-13-76/§10-5) ta hensyn tildekning,effektiv bruk av radiospektrum,teknisk gjennomførbarhet,bærekraftig konkurranse,teknologisk innovasjon, oginvesteringsinsentiv og investeringsrisiko for tilbyder som blir pålagt tilgangsplikt.
+Myndigheten skal ved vurderingen av pålegg etter [ekomloven § 10-5](lov/2024-12-13-76/§10-5) ta hensyn til
+
+1. dekning,
+2. effektiv bruk av radiospektrum,
+3. teknisk gjennomførbarhet,
+4. bærekraftig konkurranse,
+5. teknologisk innovasjon, og
+6. investeringsinsentiv og investeringsrisiko for tilbyder som blir pålagt tilgangsplikt.
 
 ### § 6-4. Maksimalpris for terminering
 
@@ -468,7 +567,10 @@ Myndigheten skal ved vurderingen av pålegg etter [ekomloven § 10-5](lov/2024-1
 
 ### § 6-6. Maksimalpriser for internasjonale nummerbaserte kommunikasjonstjenester innenfor EØS-området
 
-Ved internasjonale anrop eller SMS, som originerer i fastnett eller mobilnett i Norge og terminerer i fastnett eller mobilnett i EØS-området, skal tilbyder benytte følgende maksimalpriser for forbrukere:Maksimalpris for anrop: 0,19 EUR per minutt eksklusiv mva.Maksimalpris per SMS: 0,06 EUR eksklusiv mva.
+Ved internasjonale anrop eller SMS, som originerer i fastnett eller mobilnett i Norge og terminerer i fastnett eller mobilnett i EØS-området, skal tilbyder benytte følgende maksimalpriser for forbrukere:
+
+1. Maksimalpris for anrop: 0,19 EUR per minutt eksklusiv mva.
+2. Maksimalpris per SMS: 0,06 EUR eksklusiv mva.
 
 Maksimalprisene skal omregnes til NOK basert på gjennomsnittet av valutakursene som publiseres av Den europeiske sentralbank i Den europeiske unions tidende 15. januar, 15. februar og 15. mars hvert år. Nasjonal kommunikasjonsmyndighet oppdaterer årlig maksimalprisen i NOK som skal gjelde fra 15. mai hvert år.
 
@@ -490,11 +592,17 @@ Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder av andre tilgangsbegrense
 
 ### § 7-2. Krav til innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjenester
 
-Når innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjenester gir lisens til produsent av forbrukerutstyr, skal det skje på objektive, rimelige og ikke-diskriminerende vilkår. Rettighetsinnehaver kan ikke sette tekniske eller kommersielle vilkår for lisensieringen som forbyr eller på annen måte forhindrer at selve produktet utstyres medet standardisert grensesnitt som gjør det mulig å kople til andre adgangskontrolltjenester, ellerutstyr og programvare til en annen adgangskontrolltjeneste, forutsatt at lisenstakeren oppfyller relevante og rimelige vilkår som for lisenstakeren ivaretar sikkerheten for de transaksjoner som utføres av tilbyder av adgangskontrolltjenester.
+Når innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjenester gir lisens til produsent av forbrukerutstyr, skal det skje på objektive, rimelige og ikke-diskriminerende vilkår. Rettighetsinnehaver kan ikke sette tekniske eller kommersielle vilkår for lisensieringen som forbyr eller på annen måte forhindrer at selve produktet utstyres med
+
+1. et standardisert grensesnitt som gjør det mulig å kople til andre adgangskontrolltjenester, eller
+2. utstyr og programvare til en annen adgangskontrolltjeneste, forutsatt at lisenstakeren oppfyller relevante og rimelige vilkår som for lisenstakeren ivaretar sikkerheten for de transaksjoner som utføres av tilbyder av adgangskontrolltjenester.
 
 ### § 7-3. Krav til felles krypteringsalgoritme og mottak av ukrypterte signaler
 
-Forbrukerutstyr som er beregnet på mottak av digitale fjernsynssignaler, via bakkenettet eller fra kabel eller satellitt, som selges eller leies eller på annen måte gjøres tilgjengelig, og som kan dekryptere digitale fjernsynssignaler, skal kunnedekryptere slike signaler i samsvar med en felles europeisk krypteringsalgoritme som forvaltes av en anerkjent europeisk standardiseringsorganisasjon (ETSI), ogvise signaler som er blitt overført ukryptert, forutsatt at leietaker overholder gjeldende leieavtale dersom utstyret er leid.
+Forbrukerutstyr som er beregnet på mottak av digitale fjernsynssignaler, via bakkenettet eller fra kabel eller satellitt, som selges eller leies eller på annen måte gjøres tilgjengelig, og som kan dekryptere digitale fjernsynssignaler, skal kunne
+
+1. dekryptere slike signaler i samsvar med en felles europeisk krypteringsalgoritme som forvaltes av en anerkjent europeisk standardiseringsorganisasjon (ETSI), og
+2. vise signaler som er blitt overført ukryptert, forutsatt at leietaker overholder gjeldende leieavtale dersom utstyret er leid.
 
 ### § 7-4. Krav til samvirkningsevne for digitale fjernsynsapparater og bilradiomottakere
 
@@ -544,7 +652,16 @@ Tilbydere av offentlige talekommunikasjonstjenester skal tilby bruk av tonesigna
 
 Tilbydere av offentlig nummerbaserte person-til-person-kommunikasjonstjenester skal vederlagsfritt og før oppføring i nummeropplysningstjeneste etter [ekomloven § 12-5](lov/2024-12-13-76/§12-5) skjer, gi sluttbruker informasjon om formålet med opplysningssystemer der opplysninger om sluttbrukeren vil fremgå, om mulig bruk av opplysningene som følge av søkemuligheter i elektroniske opplysningssystem og retten til å reservere seg etter [§ 4-14](forskrift/2024-12-20-3410/§4-14).
 
-Tilbyderen skal overføre følgende nummeropplysningsinformasjon til nummeropplysningsvirksomheter som tilbyr offentlig tilgjengelige nummeropplysningstjenester:brukerens etternavn, fornavn og mellomnavn for personlige brukere eller firmanavn. Når juridisk eier av abonnement og bruker ikke er den samme, skal bare brukerens navn overføres.organisasjonsnummergatenavn eller postadressehusnummerpostnummerpoststedtelefonnummer, herunder angivelse av hovednummer når dette er registrert eller meldt av sluttbrukerbrukstype, det vil si om nummeret brukes til fastnetterminal eller mobilterminal.
+Tilbyderen skal overføre følgende nummeropplysningsinformasjon til nummeropplysningsvirksomheter som tilbyr offentlig tilgjengelige nummeropplysningstjenester:
+
+1. brukerens etternavn, fornavn og mellomnavn for personlige brukere eller firmanavn. Når juridisk eier av abonnement og bruker ikke er den samme, skal bare brukerens navn overføres.
+2. organisasjonsnummer
+3. gatenavn eller postadresse
+4. husnummer
+5. postnummer
+6. poststed
+7. telefonnummer, herunder angivelse av hovednummer når dette er registrert eller meldt av sluttbruker
+8. brukstype, det vil si om nummeret brukes til fastnetterminal eller mobilterminal.
 
 Er et barn registrert som bruker av et abonnement, skal nummeropplysningsinformasjon ikke overføres til nummeropplysningsvirksomheter med mindre sluttbruker har gitt uttrykkelig samtykke til at informasjonen overføres. Er det gitt slikt samtykke, kan barn som har fylt 15 år selv trekke tilbake samtykket. Når barnet fyller 18 år skal tilbyder overføre informasjonen, men skal forut for overføringen varsle den registrerte brukeren om dette og gi brukeren mulighet til å reservere seg mot slik overføring.
 
@@ -618,13 +735,27 @@ Nasjonal kommunikasjonsmyndighet fører tilsyn med gjennomføringen av forskrift
 
 ### § 11-2. Overtredelsesgebyr
 
-Nasjonal kommunikasjonsmyndighet kan ilegge fysiske personer og foretak overtredelsesgebyr etter [ekomloven § 15-12](lov/2024-12-13-76/§15-12) dersom personen, foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomtovertrer [ekomforskriften § 1-1](forskrift/2024-12-20-3410/§1-1) første til tredje ledd (krav til bygging og dokumentasjon av elektroniske kommunikasjonsnett), [§ 1-3 første ledd](forskrift/2024-12-20-3410/§1-3/ledd/1) (krav til offentliggjøring av grensesnittspesifikasjon), [§ 1-4](forskrift/2024-12-20-3410/§1-4) første til sjuende ledd (krav til opplysninger ved nødanrop), [§ 1-5](forskrift/2024-12-20-3410/§1-5) første til fjerde ledd (bruk av nødnummer), [§ 1-6](forskrift/2024-12-20-3410/§1-6) første til tredje ledd (kostnadsfordeling ved eCall), [§ 1-7](forskrift/2024-12-20-3410/§1-7) første eller andre ledd (krav til skriftlig fullmakt), [§ 1-8](forskrift/2024-12-20-3410/§1-8) første eller andre ledd (entydig identifisering av fysiske personer), [§ 1-9](forskrift/2024-12-20-3410/§1-9) første eller andre ledd (entydig identifisering når sluttbruker er et foretak mv.), [§ 1-10](forskrift/2024-12-20-3410/§1-10) (registrering av sluttbrukere), [§ 1-11](forskrift/2024-12-20-3410/§1-11) (krav til nettnøytralitet), [§ 1-12 første ledd](forskrift/2024-12-20-3410/§1-12/ledd/1) (planer for konkursvern), [§ 2-1](forskrift/2024-12-20-3410/§2-1) første til fjerde ledd (sikkerhetsstyring), [§ 2-2](forskrift/2024-12-20-3410/§2-2) første til tredje ledd (risiko- og sårbarhetsvurdering), [§ 2-3](forskrift/2024-12-20-3410/§2-3) første til fjerde ledd (krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-20-3410/§2-4) første eller andre ledd (krav til sikringsplaner), [§ 2-5](forskrift/2024-12-20-3410/§2-5) første til femte ledd (beredskapsplanlegging og øvelser), [§ 2-6](forskrift/2024-12-20-3410/§2-6) (sikkerhetsrevisjon) [§ 2-7](forskrift/2024-12-20-3410/§2-7) (plikt til å følge opp at andre oppfyller sikkerhetskravene), [§ 2-8](forskrift/2024-12-20-3410/§2-8) første til tredje ledd (varsel til Nasjonal kommunikasjonsmyndighet om brudd på tilgjengelighet), [§ 2-9](forskrift/2024-12-20-3410/§2-9) (nasjonal autonomi), [§ 2-10](forskrift/2024-12-20-3410/§2-10) første eller andre ledd (prioritering av tjenestetilbud), [§ 3-1](forskrift/2024-12-20-3410/§3-1) første til tredje ledd (behandling av trafikkdata), [§ 3-2](forskrift/2024-12-20-3410/§3-2) første eller andre ledd (behandling av lokaliseringsdata), [§ 3-4](forskrift/2024-12-20-3410/§3-4) første til tredje ledd (informasjon til abonnent eller bruker om ruting av nasjonal trafikk), [§ 3-5](forskrift/2024-12-20-3410/§3-5) første til femte ledd (krav i forbindelse med lagring av IP-adresser mv.), [§ 4-1 første ledd](forskrift/2024-12-20-3410/§4-1/ledd/1) (leveringsvilkår), [§ 4-2](forskrift/2024-12-20-3410/§4-2) første til femte ledd (opplysningsplikt før inngåelse av avtale), [§ 4-3](forskrift/2024-12-20-3410/§4-3) første eller tredje ledd (innholdet i avtalesammendrag), [§ 4-4 andre ledd](forskrift/2024-12-20-3410/§4-4/ledd/2) (spesifisert faktura), [§ 4-5](forskrift/2024-12-20-3410/§4-5) første eller andre ledd (sperring av utgående anrop og meldinger) [§ 4-6](forskrift/2024-12-20-3410/§4-6) første til sjette ledd eller niende ledd (fellesfakturert tjeneste), [§ 4-7](forskrift/2024-12-20-3410/§4-7) første eller andre ledd (plikt til tilbyderportabilitet), [§ 4-8](forskrift/2024-12-20-3410/§4-8) første til femte ledd (gjennomføring av tilbyderportabilitet), [§ 4-9](forskrift/2024-12-20-3410/§4-9) (ansvar for kostnader ved tilbyderportabilitet), [§ 4-11](forskrift/2024-12-20-3410/§4-11) første eller andre ledd (internasjonal gjesting i mobilnett), [§ 4-13](forskrift/2024-12-20-3410/§4-13) første eller tredje til femte ledd (hemmelig nummer), [§ 4-14](forskrift/2024-12-20-3410/§4-14) første eller andre ledd (reservasjonsrett for nummer, navn og adresse), [§ 4-15](forskrift/2024-12-20-3410/§4-15) første, andre eller fjerde ledd (likeverdig tilgang for sluttbrukere med nedsatt funksjonsevne), [§ 4-17](forskrift/2024-12-20-3410/§4-17) (varsling før planlagt bortfall), [§ 6-4](forskrift/2024-12-20-3410/§6-4) (maksimalpris for terminering), [§ 6-6](forskrift/2024-12-20-3410/§6-6) første til tredje ledd (maksimalpriser for internasjonale nummerbaserte kommunikasjonstjenester innenfor EØS-området), [§ 7-1 første ledd](forskrift/2024-12-20-3410/§7-1/ledd/1) (krav til tilbyder av adgangskontrolltjeneste mv.), [§ 7-2](forskrift/2024-12-20-3410/§7-2) (krav til innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjeneste), [§ 7-3](forskrift/2024-12-20-3410/§7-3) (krav til felles krypteringsalgoritme og mottak av ukrypterte signaler), [§ 7-4](forskrift/2024-12-20-3410/§7-4) første eller andre ledd (krav til samvirkningsevne for digitale fjernsynsapparater og bilradiomottakere), [§ 9-1](forskrift/2024-12-20-3410/§9-1) (implementering av nummerserier), [§ 9-2](forskrift/2024-12-20-3410/§9-2) første til tredje ledd (tilleggsfunksjoner knyttet til offentlig talekommunikasjonstjeneste), [§ 9-3](forskrift/2024-12-20-3410/§9-3) første til niende ledd (informasjon til nummeropplysningstjenester), [§ 9-4](forskrift/2024-12-20-3410/§9-4) første til sjette ledd (nummervisning), [§ 9-5 første ledd](forskrift/2024-12-20-3410/§9-5/ledd/1) (blokkering av anrop og SMS), ellerovertrer forskrift gitt med hjemmel i denne forskriften, når det er fastsatt i denne forskriften at overtredelsen kan medføre slik sanksjon.
+Nasjonal kommunikasjonsmyndighet kan ilegge fysiske personer og foretak overtredelsesgebyr etter [ekomloven § 15-12](lov/2024-12-13-76/§15-12) dersom personen, foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt
+
+1. overtrer [ekomforskriften § 1-1](forskrift/2024-12-20-3410/§1-1) første til tredje ledd (krav til bygging og dokumentasjon av elektroniske kommunikasjonsnett), [§ 1-3 første ledd](forskrift/2024-12-20-3410/§1-3/ledd/1) (krav til offentliggjøring av grensesnittspesifikasjon), [§ 1-4](forskrift/2024-12-20-3410/§1-4) første til sjuende ledd (krav til opplysninger ved nødanrop), [§ 1-5](forskrift/2024-12-20-3410/§1-5) første til fjerde ledd (bruk av nødnummer), [§ 1-6](forskrift/2024-12-20-3410/§1-6) første til tredje ledd (kostnadsfordeling ved eCall), [§ 1-7](forskrift/2024-12-20-3410/§1-7) første eller andre ledd (krav til skriftlig fullmakt), [§ 1-8](forskrift/2024-12-20-3410/§1-8) første eller andre ledd (entydig identifisering av fysiske personer), [§ 1-9](forskrift/2024-12-20-3410/§1-9) første eller andre ledd (entydig identifisering når sluttbruker er et foretak mv.), [§ 1-10](forskrift/2024-12-20-3410/§1-10) (registrering av sluttbrukere), [§ 1-11](forskrift/2024-12-20-3410/§1-11) (krav til nettnøytralitet), [§ 1-12 første ledd](forskrift/2024-12-20-3410/§1-12/ledd/1) (planer for konkursvern), [§ 2-1](forskrift/2024-12-20-3410/§2-1) første til fjerde ledd (sikkerhetsstyring), [§ 2-2](forskrift/2024-12-20-3410/§2-2) første til tredje ledd (risiko- og sårbarhetsvurdering), [§ 2-3](forskrift/2024-12-20-3410/§2-3) første til fjerde ledd (krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-20-3410/§2-4) første eller andre ledd (krav til sikringsplaner), [§ 2-5](forskrift/2024-12-20-3410/§2-5) første til femte ledd (beredskapsplanlegging og øvelser), [§ 2-6](forskrift/2024-12-20-3410/§2-6) (sikkerhetsrevisjon) [§ 2-7](forskrift/2024-12-20-3410/§2-7) (plikt til å følge opp at andre oppfyller sikkerhetskravene), [§ 2-8](forskrift/2024-12-20-3410/§2-8) første til tredje ledd (varsel til Nasjonal kommunikasjonsmyndighet om brudd på tilgjengelighet), [§ 2-9](forskrift/2024-12-20-3410/§2-9) (nasjonal autonomi), [§ 2-10](forskrift/2024-12-20-3410/§2-10) første eller andre ledd (prioritering av tjenestetilbud), [§ 3-1](forskrift/2024-12-20-3410/§3-1) første til tredje ledd (behandling av trafikkdata), [§ 3-2](forskrift/2024-12-20-3410/§3-2) første eller andre ledd (behandling av lokaliseringsdata), [§ 3-4](forskrift/2024-12-20-3410/§3-4) første til tredje ledd (informasjon til abonnent eller bruker om ruting av nasjonal trafikk), [§ 3-5](forskrift/2024-12-20-3410/§3-5) første til femte ledd (krav i forbindelse med lagring av IP-adresser mv.), [§ 4-1 første ledd](forskrift/2024-12-20-3410/§4-1/ledd/1) (leveringsvilkår), [§ 4-2](forskrift/2024-12-20-3410/§4-2) første til femte ledd (opplysningsplikt før inngåelse av avtale), [§ 4-3](forskrift/2024-12-20-3410/§4-3) første eller tredje ledd (innholdet i avtalesammendrag), [§ 4-4 andre ledd](forskrift/2024-12-20-3410/§4-4/ledd/2) (spesifisert faktura), [§ 4-5](forskrift/2024-12-20-3410/§4-5) første eller andre ledd (sperring av utgående anrop og meldinger) [§ 4-6](forskrift/2024-12-20-3410/§4-6) første til sjette ledd eller niende ledd (fellesfakturert tjeneste), [§ 4-7](forskrift/2024-12-20-3410/§4-7) første eller andre ledd (plikt til tilbyderportabilitet), [§ 4-8](forskrift/2024-12-20-3410/§4-8) første til femte ledd (gjennomføring av tilbyderportabilitet), [§ 4-9](forskrift/2024-12-20-3410/§4-9) (ansvar for kostnader ved tilbyderportabilitet), [§ 4-11](forskrift/2024-12-20-3410/§4-11) første eller andre ledd (internasjonal gjesting i mobilnett), [§ 4-13](forskrift/2024-12-20-3410/§4-13) første eller tredje til femte ledd (hemmelig nummer), [§ 4-14](forskrift/2024-12-20-3410/§4-14) første eller andre ledd (reservasjonsrett for nummer, navn og adresse), [§ 4-15](forskrift/2024-12-20-3410/§4-15) første, andre eller fjerde ledd (likeverdig tilgang for sluttbrukere med nedsatt funksjonsevne), [§ 4-17](forskrift/2024-12-20-3410/§4-17) (varsling før planlagt bortfall), [§ 6-4](forskrift/2024-12-20-3410/§6-4) (maksimalpris for terminering), [§ 6-6](forskrift/2024-12-20-3410/§6-6) første til tredje ledd (maksimalpriser for internasjonale nummerbaserte kommunikasjonstjenester innenfor EØS-området), [§ 7-1 første ledd](forskrift/2024-12-20-3410/§7-1/ledd/1) (krav til tilbyder av adgangskontrolltjeneste mv.), [§ 7-2](forskrift/2024-12-20-3410/§7-2) (krav til innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjeneste), [§ 7-3](forskrift/2024-12-20-3410/§7-3) (krav til felles krypteringsalgoritme og mottak av ukrypterte signaler), [§ 7-4](forskrift/2024-12-20-3410/§7-4) første eller andre ledd (krav til samvirkningsevne for digitale fjernsynsapparater og bilradiomottakere), [§ 9-1](forskrift/2024-12-20-3410/§9-1) (implementering av nummerserier), [§ 9-2](forskrift/2024-12-20-3410/§9-2) første til tredje ledd (tilleggsfunksjoner knyttet til offentlig talekommunikasjonstjeneste), [§ 9-3](forskrift/2024-12-20-3410/§9-3) første til niende ledd (informasjon til nummeropplysningstjenester), [§ 9-4](forskrift/2024-12-20-3410/§9-4) første til sjette ledd (nummervisning), [§ 9-5 første ledd](forskrift/2024-12-20-3410/§9-5/ledd/1) (blokkering av anrop og SMS), eller
+2. overtrer forskrift gitt med hjemmel i denne forskriften, når det er fastsatt i denne forskriften at overtredelsen kan medføre slik sanksjon.
 
 ### § 11-3. Utmåling av overtredelsesgebyret
 
-Ved vurdering av overtredelsens grovhet, jf. [ekomloven § 15-13](lov/2024-12-13-76/§15-13), skal det særlig tas hensyn tilovertredelsens artforetakets gevinstovertredelsens faktiske innvirkning på markedetstørrelsen på det berørte markedet, ogom overtrederen har hatt en ledende eller passiv rolle i overtredelsen.
+Ved vurdering av overtredelsens grovhet, jf. [ekomloven § 15-13](lov/2024-12-13-76/§15-13), skal det særlig tas hensyn til
 
-Andre momenter som kan påvirke utmålingen av overtredelsesgebyret er blant annetom avtaler eller tiltak er gjennomførtom foretaket ved interne føringer, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsenøkonomien til det konsern foretaket er en del av, ogom foretaket har bistått myndigheten i forbindelse med utredning av overtredelsen.
+1. overtredelsens art
+2. foretakets gevinst
+3. overtredelsens faktiske innvirkning på markedet
+4. størrelsen på det berørte markedet, og
+5. om overtrederen har hatt en ledende eller passiv rolle i overtredelsen.
+
+Andre momenter som kan påvirke utmålingen av overtredelsesgebyret er blant annet
+
+1. om avtaler eller tiltak er gjennomført
+2. om foretaket ved interne føringer, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+3. økonomien til det konsern foretaket er en del av, og
+4. om foretaket har bistått myndigheten i forbindelse med utredning av overtredelsen.
 
 Nasjonal kommunikasjonsmyndighet kan ilegge overtredelsesgebyr på inntil 5 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket begår overtredelser etter [ekomloven § 15-12](lov/2024-12-13-76/§15-12). Omsetning er foretakets samlede salgsinntekt for siste regnskapsår. Når en sammenslutning av foretak er overtreder og overtredelsen angår medlemsforetakenes aktiviteter, er omsetning den samlede salgsinntekten til de medlemmene som er aktive på de markeder som berøres av overtredelsen.
 
@@ -644,7 +775,10 @@ Søknaden skal inneholde teknisk beskrivelse, opplysninger om hvilke bestemmelse
 
 Tilbyder skal skriftlig informere sluttbruker om klageadgangen til Brukerklagenemnda for elektronisk kommunikasjon, jf. [ekomloven § 16-5](lov/2024-12-13-76/§16-5), ved avslag på klage.
 
-Klageadgangen er subsidiær, slik at sluttbruker først må rette klagen til tilbyder. Sluttbruker kan likevel bringe tvisten direkte inn for brukerklagenemnda dersomtilbyder ikke skriftlig har orientert klager om forventet behandlingstid innen to uker etter at tilbyder mottok klagen, ellertilbyder ikke har gitt endelig svar på klagen innen rimelig tid.
+Klageadgangen er subsidiær, slik at sluttbruker først må rette klagen til tilbyder. Sluttbruker kan likevel bringe tvisten direkte inn for brukerklagenemnda dersom
+
+1. tilbyder ikke skriftlig har orientert klager om forventet behandlingstid innen to uker etter at tilbyder mottok klagen, eller
+2. tilbyder ikke har gitt endelig svar på klagen innen rimelig tid.
 
 Så lenge en tvist er til behandling i brukerklagenemnda, kan den ikke bringes inn for de alminnelige domstolene.
 
@@ -656,7 +790,10 @@ Brukerklagenemnda for elektronisk kommunikasjon skal oppfylle krav etter [lov 17
 
 ### § 11-7. Finansiering av Brukerklagenemnda for elektronisk kommunikasjon
 
-Brukerklagenemnda skal finansieres av tilbyderne som omfattes av [§ 16-5 første ledd](lov/2024-12-13-76/§16-5/ledd/1) gjennomen årlig grunnavgift på inntil 10 rettsgebyret klagegebyr fordelt på tilbyderne basert på en forholdsmessig andel av det antall skriftlige klager brukerklagenemnda har mottatt vedrørende den aktuelle tilbyder.
+Brukerklagenemnda skal finansieres av tilbyderne som omfattes av [§ 16-5 første ledd](lov/2024-12-13-76/§16-5/ledd/1) gjennom
+
+1. en årlig grunnavgift på inntil 10 rettsgebyr
+2. et klagegebyr fordelt på tilbyderne basert på en forholdsmessig andel av det antall skriftlige klager brukerklagenemnda har mottatt vedrørende den aktuelle tilbyder.
 
 Brukerklagenemndas styre kan fastsette et høyere beløp enn angitt i bokstav a for tilbydere med høy relevant omsetning og kan differensiere avgiften for disse.
 

@@ -40,7 +40,12 @@ Den enkelte kommune er dataansvarlig for egen behandling av opplysninger etter [
 
 I Brukerplan kan det registreres helseopplysninger og andre personopplysninger om personer som er fylt 16 år.
 
-Når det er nødvendig etter registerets formål i [§ 2 første punktum](forskrift/2023-10-27-1713/§2/setning/1), kan følgende opplysninger registreres:bakgrunnsopplysninger om personen: fødselsår, kjønn, fødeland, arbeidserfaring mv.opplysninger om personens situasjon og behov: bruk av rusmidler, bosituasjon, omsorg for barn, graviditet, helse, aktivitet, sosialt nettverk, sosial fungering, selvmordsforsøk, økonomi, kilde til livsopphold mv.hvilke tjenester personen mottarhvilke personer i kommunen som har gjort kartleggingen.
+Når det er nødvendig etter registerets formål i [§ 2 første punktum](forskrift/2023-10-27-1713/§2/setning/1), kan følgende opplysninger registreres:
+
+1. bakgrunnsopplysninger om personen: fødselsår, kjønn, fødeland, arbeidserfaring mv.
+2. opplysninger om personens situasjon og behov: bruk av rusmidler, bosituasjon, omsorg for barn, graviditet, helse, aktivitet, sosialt nettverk, sosial fungering, selvmordsforsøk, økonomi, kilde til livsopphold mv.
+3. hvilke tjenester personen mottar
+4. hvilke personer i kommunen som har gjort kartleggingen.
 
 ## § 5. Innsamling av opplysninger fra tjenestene
 

@@ -176,9 +176,15 @@ Dersom vergen har nødvendige utlegg i forbindelse med utføringen av vergeoppdr
 
 ### § 19. Inntekts- og formuesgrensen for dekning av vergens godtgjøring og utgifter
 
-Statsforvalteren skal dekke godtgjøringen og utgiftene til vergen etter [§ 16](forskrift/2013-02-15-201/§16) til [§ 18](forskrift/2013-02-15-201/§18) dersom personen som har vergehar en bruttoinntekt som er lik eller lavere enn minste årlige ytelse etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, oghar en formue på kr 50 000 eller mindre.
+Statsforvalteren skal dekke godtgjøringen og utgiftene til vergen etter [§ 16](forskrift/2013-02-15-201/§16) til [§ 18](forskrift/2013-02-15-201/§18) dersom personen som har verge
 
-Er personen som har verge gift eller lever sammen med og har felles økonomi med en annen person, skal statsforvalteren dekke godtgjøringen og utgiftene til vergen dersom disse personene til sammenhar en bruttoinntekt som er lik eller lavere enn minste årlige ytelse for ektefeller og samboere etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, oghar en formue på kr 75 000 eller mindre.
+1. har en bruttoinntekt som er lik eller lavere enn minste årlige ytelse etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, og
+2. har en formue på kr 50 000 eller mindre.
+
+Er personen som har verge gift eller lever sammen med og har felles økonomi med en annen person, skal statsforvalteren dekke godtgjøringen og utgiftene til vergen dersom disse personene til sammen
+
+1. har en bruttoinntekt som er lik eller lavere enn minste årlige ytelse for ektefeller og samboere etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, og
+2. har en formue på kr 75 000 eller mindre.
 
 Ved vurderingen av formuen etter første og annet ledd skal nettoformuen legges til grunn. Formue som består i personens bolig, skal normalt ses bort fra.
 
@@ -204,7 +210,13 @@ Kvitteringer og andre bilag til vergens rapporter og eventuelt regnskap, jf. [§
 
 ### § 20a. Automatisert utlevering av opplysninger fra finansinstitusjoner mv.
 
-Banker og andre virksomheter som nevnt i [vergemålsloven § 54 første ledd](lov/2010-03-26-9/§54/ledd/1) kan oppfylle opplysnings- og utleveringsplikten etter [vergemålsloven § 54 annet ledd](lov/2010-03-26-9/§54/ledd/2) og [vergemålsforskriften § 20 annet ledd](forskrift/2013-02-15-201/§20/ledd/2) ved å gjøre følgende opplysninger tilgjengelig for vergemålsmyndigheten, digitalt og i form av helt eller delvis automatiserte prosesser:Lister over finansinstitusjoner som person som har verge har eller har hatt et kundeforhold i siste kalenderår,lister med oversikt over konti som eies eller har vært eid av person som har verge siste kalenderår, og som vergen har eller har hatt disposisjonsrett til siste kalenderår,kontodetaljer for slike konti, inkludert saldo,detaljert transaksjonshistorikk for slike konti siste kalenderår, herunder opplysninger om beløp inn og ut av konto, mottaker- og/eller avsenderinformasjon, tidspunkt, brukersted og transaksjonsbeskrivelser ogoversikt over parter som har eller har hatt disposisjonsrett til slike konti i den aktuelle perioden.
+Banker og andre virksomheter som nevnt i [vergemålsloven § 54 første ledd](lov/2010-03-26-9/§54/ledd/1) kan oppfylle opplysnings- og utleveringsplikten etter [vergemålsloven § 54 annet ledd](lov/2010-03-26-9/§54/ledd/2) og [vergemålsforskriften § 20 annet ledd](forskrift/2013-02-15-201/§20/ledd/2) ved å gjøre følgende opplysninger tilgjengelig for vergemålsmyndigheten, digitalt og i form av helt eller delvis automatiserte prosesser:
+
+1. Lister over finansinstitusjoner som person som har verge har eller har hatt et kundeforhold i siste kalenderår,
+2. lister med oversikt over konti som eies eller har vært eid av person som har verge siste kalenderår, og som vergen har eller har hatt disposisjonsrett til siste kalenderår,
+3. kontodetaljer for slike konti, inkludert saldo,
+4. detaljert transaksjonshistorikk for slike konti siste kalenderår, herunder opplysninger om beløp inn og ut av konto, mottaker- og/eller avsenderinformasjon, tidspunkt, brukersted og transaksjonsbeskrivelser og
+5. oversikt over parter som har eller har hatt disposisjonsrett til slike konti i den aktuelle perioden.
 
 Opplysninger som nevnt i første ledd kan innhentes når dette er nødvendig for at vergemålsmyndigheten skal kunne utføre sine oppgaver etter [vergemålsloven kapittel 2](lov/2010-03-26-9/kap2), herunder tilsyn, veiledning og bistand.
 
@@ -280,7 +292,13 @@ Meldingen skal inneholde opplysninger om personenes navn, adresse, fødselsnumme
 
 Forsikringsselskap, pensjonsforetak, staten eller en kommune skal uoppfordret gi melding til statsforvalteren om utbetaling om erstatningsoppgjør mv. til en mindreårig. Meldingen skal gis statsforvalteren i det vergemålsdistriktet den mindreårige er bosatt. Meldingen skal gis før utbetalingen foretas. Skal utbetalingen skje i terminer, er det tilstrekkelig at det gis én melding om den samlede utbetalingen. Vilkårene og utmålingen som ligger til grunn for utbetalingen, skal oversendes samtidig.
 
-Melding om utbetaling etter første ledd skal inneholde:navn, adresse og fødselsnummer til den mindreårigehva utbetalingen gjelderoversikt over samlet forsikrings- eller skadeserstatningsbeløpopplysninger om utbetalingen skal skje som engangsutbetaling, i terminer eller på annen måtenavnet på den som gir meldingen.
+Melding om utbetaling etter første ledd skal inneholde:
+
+1. navn, adresse og fødselsnummer til den mindreårige
+2. hva utbetalingen gjelder
+3. oversikt over samlet forsikrings- eller skadeserstatningsbeløp
+4. opplysninger om utbetalingen skal skje som engangsutbetaling, i terminer eller på annen måte
+5. navnet på den som gir meldingen.
 
 Opplysningene kan brukes som grunnlag i statsforvalterens saksbehandling etter [vergemålsloven](lov/2010-03-26-9).
 
@@ -402,6 +420,13 @@ Forskriften trer i kraft 1. juli 2013, med unntak av [§ 25](forskrift/2013-02-1
 
 ### § 43. Opphevelse av forskrifter
 
-Fra den tid forskriften trer i kraft oppheves:[Forskrift 27. juni 1975 nr. 9516](forskrift/1975-06-27-9516) om føring av overformynder- og vergeregnskaper, revisjon m.v.[Forskrift 27. juni 1975 nr. 9517](forskrift/1975-06-27-9517) om oppbevaring m.m. i bank av verdipapirer og bankbøker under overformynderiets forvaltning[Forskrift 14. desember 1990 nr. 989](forskrift/1990-12-14-989) om fastsettelse av forvaltningsavgiften etter vergemålsloven[Forskrift 29. juni 1993 nr. 577](forskrift/1993-06-29-577) om meldeplikt for helseinstitusjoner m m etter vergemålslovgivningen[Forskrift 8. februar 2000 nr. 118](forskrift/2000-02-08-118) om grense for når overformynderiet skal forvalte umyndiges midler[Forskrift 8. februar 2000 nr. 119](forskrift/2000-02-08-119) om plassering av umyndiges midler.
+Fra den tid forskriften trer i kraft oppheves:
+
+1. [Forskrift 27. juni 1975 nr. 9516](forskrift/1975-06-27-9516) om føring av overformynder- og vergeregnskaper, revisjon m.v.
+2. [Forskrift 27. juni 1975 nr. 9517](forskrift/1975-06-27-9517) om oppbevaring m.m. i bank av verdipapirer og bankbøker under overformynderiets forvaltning
+3. [Forskrift 14. desember 1990 nr. 989](forskrift/1990-12-14-989) om fastsettelse av forvaltningsavgiften etter vergemålsloven
+4. [Forskrift 29. juni 1993 nr. 577](forskrift/1993-06-29-577) om meldeplikt for helseinstitusjoner m m etter vergemålslovgivningen
+5. [Forskrift 8. februar 2000 nr. 118](forskrift/2000-02-08-118) om grense for når overformynderiet skal forvalte umyndiges midler
+6. [Forskrift 8. februar 2000 nr. 119](forskrift/2000-02-08-119) om plassering av umyndiges midler.
 
 > Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 41).

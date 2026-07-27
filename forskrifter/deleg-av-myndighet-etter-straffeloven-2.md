@@ -28,6 +28,9 @@ Spørsmål om å begjære påtale og spørsmål om å begjære borgerlige rettsk
 
 Fremsettelse av borgerlige rettskrav bør skje samtidig med begjæring om påtale. Hvis tapets størrelse på dette tidspunkt ikke er tilstrekkelig klarlagt, bør det tas forbehold om å komme tilbake til erstatningsbeløpet.
 
-Fullmakten her gjelder ikkesaker av prinsipiell art ellerved straffbare handlinger begått av medlemmer av alliert eller annen utenlandsk militær styrke eller medlemmer av alliert hovedkvarter, selv om norske myndigheter har jurisdiksjonskompetanse i medhold av inngått statusavtale eller annet hjemmelsgrunnlag.
+Fullmakten her gjelder ikke
+
+1. saker av prinsipiell art eller
+2. ved straffbare handlinger begått av medlemmer av alliert eller annen utenlandsk militær styrke eller medlemmer av alliert hovedkvarter, selv om norske myndigheter har jurisdiksjonskompetanse i medhold av inngått statusavtale eller annet hjemmelsgrunnlag.
 
 Fullmakten her trer i kraft 13. juni 2007, og gjelder for straffbare handlinger som har funnet sted etter samme dato. Fra samme dato oppheves [delegeringsvedtak 2. juni 1998 nr. 566](forskrift/1998-06-02-566).

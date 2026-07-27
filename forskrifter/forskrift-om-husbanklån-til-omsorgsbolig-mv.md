@@ -34,7 +34,12 @@ Enhver som etablerer bolig- og omsorgstilbud omhandlet i [§ 3](forskrift/2003-0
 
 ## § 3. Hva det kan gis lån til
 
-Husbanken kan gi lån til å fremskaffe:plass i institusjon, herunder sykehjem etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav comsorgsbolig til personer med behov for heldøgns helse- og omsorgstjenester, tilrettelagt for at slike tjenester kan ytes etter helse- og [omsorgstjenestelovens § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c, jf. [§ 3-7](lov/2011-06-24-30/§3-7)fellesareal i tilknytning til eksisterende omsorgsboliger for å oppnå heldøgnstjeneste, og lokaler for dagaktivitetstilbuddøgnomsorgsplasser til personer med behov for øyeblikkelig hjelp etter helse- og [omsorgstjenestelovens § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c, jf. også [§ 3-5](lov/2011-06-24-30/§3-5).
+Husbanken kan gi lån til å fremskaffe:
+
+1. plass i institusjon, herunder sykehjem etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c
+2. omsorgsbolig til personer med behov for heldøgns helse- og omsorgstjenester, tilrettelagt for at slike tjenester kan ytes etter helse- og [omsorgstjenestelovens § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c, jf. [§ 3-7](lov/2011-06-24-30/§3-7)
+3. fellesareal i tilknytning til eksisterende omsorgsboliger for å oppnå heldøgnstjeneste, og lokaler for dagaktivitetstilbud
+4. døgnomsorgsplasser til personer med behov for øyeblikkelig hjelp etter helse- og [omsorgstjenestelovens § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c, jf. også [§ 3-5](lov/2011-06-24-30/§3-5).
 
 Forskriften gjelder ikke for boliger eller sykehjemsplasser som kommer inn under fylkeskommunens ansvarsområde
 

@@ -22,4 +22,8 @@ eu_basis: []
 
 # Delegering av myndighet til Finansdepartementet etter lov av 7. juni 2002 nr. 17 om endringer i lov om foretakspensjon, innskuddspensjonsloven og enkelte andre lover (kombinerte pensjonsordninger mv.).
 
-Kongens myndighet etter følgende deler og bestemmelser i [lov av 7. juni 2002 nr. 17](lov/2002-06-07-17) om endringer i lov om foretakspensjon, innskuddspensjonsloven og enkelte andre lover (kombinerte pensjonsordninger mv.) delegeres til Finansdepartementet:loven del VIII (Ikrafttredelse) første punktum[lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon [§ 2-12](lov/2000-03-24-16/§2-12) tredje ledd første punktum[lov av 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven) [§ 9-1](lov/1998-07-17-56/§9-1) første ledd første, andre og tredje punktum.
+Kongens myndighet etter følgende deler og bestemmelser i [lov av 7. juni 2002 nr. 17](lov/2002-06-07-17) om endringer i lov om foretakspensjon, innskuddspensjonsloven og enkelte andre lover (kombinerte pensjonsordninger mv.) delegeres til Finansdepartementet:
+
+- loven del VIII (Ikrafttredelse) første punktum
+- [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon [§ 2-12](lov/2000-03-24-16/§2-12) tredje ledd første punktum
+- [lov av 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven) [§ 9-1](lov/1998-07-17-56/§9-1) første ledd første, andre og tredje punktum.

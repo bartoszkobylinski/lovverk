@@ -42,7 +42,10 @@ I de økologiske funksjonsområdene for dverggås er bruk som tar hensyn til dve
 
 Oppføring av bygninger, anlegg, gjerder, andre varige eller midlertidige innretninger, bygging av veier, drenering eller annen form for tørrlegging, uttak, oppfylling og lagring av masse, er forbudt.
 
-I økologiske funksjonsområder for dverggås gjelder i tillegg følgende bestemmelser i rasteområder som benyttes om våren i periodene f.o.m. 1. mai t.o.m. 15. juni, og i rasteområder som benyttes om høsten f.o.m. 10. august t.o.m. 15. september, og i hekke- og myteområder f.o.m. 1. mai t.o.m. 31. august:All ferdsel er forbudt, herunder ilandstigning på øyer.All motorisert ferdsel til lands og til vanns er forbudt, herunder starting og landing av luftfartøy.
+I økologiske funksjonsområder for dverggås gjelder i tillegg følgende bestemmelser i rasteområder som benyttes om våren i periodene f.o.m. 1. mai t.o.m. 15. juni, og i rasteområder som benyttes om høsten f.o.m. 10. august t.o.m. 15. september, og i hekke- og myteområder f.o.m. 1. mai t.o.m. 31. august:
+
+1. All ferdsel er forbudt, herunder ilandstigning på øyer.
+2. All motorisert ferdsel til lands og til vanns er forbudt, herunder starting og landing av luftfartøy.
 
 Dersom bestemmelsene i annet, tredje eller fjerde ledd medfører en vesentlig vanskeliggjøring av igangværende bruk og et vesentlig tap, kan grunneier kreve at området vernes etter [naturmangfoldloven kapittel V](lov/2009-06-19-100/kapv) eller at det gjøres unntak fra prioriteringen for de aktuelle områdene etter [§ 8](forskrift/2011-05-20-518/§8).
 

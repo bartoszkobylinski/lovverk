@@ -36,7 +36,23 @@ Vegmyndigheten og et statlig utbyggingsselskap for veg kan ellers unnta hovedveg
 
 ## § 2. Definisjoner
 
-I forskriften forstås med:*TEN-T-vegnettet:* vegnettet som er definert i Europaparlaments- og rådsforordning [(EU) nr. 1315/2013](eu/32013r1315) av 11. desember 2013 om unionsretningslinjer for utviklingen av et transeuropeisk transportnett og om oppheving av beslutning [nr. 661/2010/EU](eu/32010d0661).*motorveg:* en veg som er særlig konstruert og bygd for motorkjøretøyer, og som er uten påkjøring fra tilgrensende eiendommer, har separate kjørefelt atskilt med midtdeler/midttrekkverk, har planskilte kryssinger og er særskilt betegnet som motorveg.*motortrafikkveg:* veg som ikke tilfredsstiller vegnormalenes krav til motorvegstandard, men som ikke har direkte tilknytning til eiendommene langs vegen. Motortrafikkveg er forbeholdt motorkjøretøy, nærmere spesifisert i [trafikkreglene](forskrift/1986-03-21-747) og er angitt med skilt nr. 503 Motortrafikkveg.*hovedveg:* motortrafikkveg utenfor tettbygd strøk, som forbinder større byer og regioner.*vegprosjekt:* et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning eller en vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen.Med «et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning» menes bygging av veg som i hovedsak legges i helt ny trase. Dette vil normalt være prosjekter der det er krav om konsekvensutredning (KU) enten i forbindelse med kommunedelplan eller reguleringsplan. Også prosjekt med fritak for KU kan omfattes av definisjonen dersom prosjektet medfører endring i trafikkstrømmer.Med «vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen» menes utbedring av eksisterende veg (breddeutvidelse, kurveutretting, mindre omlegginger, o.l.) eller oppgradering av veg, som i hovedsak følger eksisterende vegtrase, til høyere vegstandard. Samtidig må endringen være av en slik karakter at den påvirker trafikkstrømmen.Med «påvirker trafikkstrømmen» menes større omfordeling av trafikk mellom ulike veger i området som følge av vegprosjektet, større endring i fartsnivå og/eller større endring i trafikksammensetning (kjøretøygrupper, trafikantgrupper og lokal-/fjerntrafikk).Vurderingen om hvorvidt et vegprosjekt omfattes av [vegsikkerhetsforskriften](forskrift/2011-10-28-1053), skal godkjennes av prosjekteier eller person med tilsvarende funksjon.*trafikksikkerhetsmessig konsekvensanalyse:* en strategisk sammenlignende analyse av de virkninger en ny veg eller en vesentlig endring av det eksisterende vegnettet vil få for vegnettets sikkerhetsnivå,*trafikksikkerhetsrevisjon:* en uavhengig, detaljert, systematisk og teknisk sikkerhetskontroll av et vegprosjekts utformingsmessige egenskaper, som omfatter alle faser fra prosjektering til innledende bruk.
+I forskriften forstås med:
+
+1. *TEN-T-vegnettet:* vegnettet som er definert i Europaparlaments- og rådsforordning [(EU) nr. 1315/2013](eu/32013r1315) av 11. desember 2013 om unionsretningslinjer for utviklingen av et transeuropeisk transportnett og om oppheving av beslutning [nr. 661/2010/EU](eu/32010d0661).
+2. *motorveg:* en veg som er særlig konstruert og bygd for motorkjøretøyer, og som er uten påkjøring fra tilgrensende eiendommer, har separate kjørefelt atskilt med midtdeler/midttrekkverk, har planskilte kryssinger og er særskilt betegnet som motorveg.
+3. *motortrafikkveg:* veg som ikke tilfredsstiller vegnormalenes krav til motorvegstandard, men som ikke har direkte tilknytning til eiendommene langs vegen. Motortrafikkveg er forbeholdt motorkjøretøy, nærmere spesifisert i [trafikkreglene](forskrift/1986-03-21-747) og er angitt med skilt nr. 503 Motortrafikkveg.
+4. *hovedveg:* motortrafikkveg utenfor tettbygd strøk, som forbinder større byer og regioner.
+5. *vegprosjekt:* et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning eller en vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen.
+
+   Med «et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning» menes bygging av veg som i hovedsak legges i helt ny trase. Dette vil normalt være prosjekter der det er krav om konsekvensutredning (KU) enten i forbindelse med kommunedelplan eller reguleringsplan. Også prosjekt med fritak for KU kan omfattes av definisjonen dersom prosjektet medfører endring i trafikkstrømmer.
+
+   Med «vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen» menes utbedring av eksisterende veg (breddeutvidelse, kurveutretting, mindre omlegginger, o.l.) eller oppgradering av veg, som i hovedsak følger eksisterende vegtrase, til høyere vegstandard. Samtidig må endringen være av en slik karakter at den påvirker trafikkstrømmen.
+
+   Med «påvirker trafikkstrømmen» menes større omfordeling av trafikk mellom ulike veger i området som følge av vegprosjektet, større endring i fartsnivå og/eller større endring i trafikksammensetning (kjøretøygrupper, trafikantgrupper og lokal-/fjerntrafikk).
+
+   Vurderingen om hvorvidt et vegprosjekt omfattes av [vegsikkerhetsforskriften](forskrift/2011-10-28-1053), skal godkjennes av prosjekteier eller person med tilsvarende funksjon.
+6. *trafikksikkerhetsmessig konsekvensanalyse:* en strategisk sammenlignende analyse av de virkninger en ny veg eller en vesentlig endring av det eksisterende vegnettet vil få for vegnettets sikkerhetsnivå,
+7. *trafikksikkerhetsrevisjon:* en uavhengig, detaljert, systematisk og teknisk sikkerhetskontroll av et vegprosjekts utformingsmessige egenskaper, som omfatter alle faser fra prosjektering til innledende bruk.
 
 > Endret ved forskrift [8 feb 2022 nr. 198](forskrift/2022-02-08-198).
 
@@ -150,16 +166,72 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg I. Veiledende elementer i trafikksikkerhetsmessige konsekvensanalyser
 
-1. Elementer i en trafikksikkerhetsmessig konsekvensanalyse:problemdefinisjon,nåværende situasjon og mulige følger dersom det ikke iverksettes tiltak,trafikksikkerhetsmål,analyse av de foreslåtte alternativenes konsekvenser for trafikksikkerheten,sammenligning av alternativene, herunder nytte- og kostnadsanalyse,presentasjon av de forskjellige mulige løsningene.
-2. Faktorer som skal tas i betraktning:dødsfall og ulykker, reduksjonsmål kontra mulige følger dersom det ikke iverksettes tiltak,rutevalg og trafikkmønstre,mulig innvirkning på det eksisterende vegnettet (f.eks. avkjøringer, vegkryss, planoverganger),trafikanter, herunder sårbare trafikanter (f.eks. gående, syklister, motorsyklister),trafikk (f.eks. trafikkmengde, trafikktype), herunder anslått flyt av gående og syklende ut fra bruken av de tilgrensende arealene,årstidsbestemte og klimatiske forhold,tilstedeværelse av et tilstrekkelig antall sikre parkeringsplasser,seismisk aktivitet.
+1. Elementer i en trafikksikkerhetsmessig konsekvensanalyse:
+
+   1. problemdefinisjon,
+   2. nåværende situasjon og mulige følger dersom det ikke iverksettes tiltak,
+   3. trafikksikkerhetsmål,
+   4. analyse av de foreslåtte alternativenes konsekvenser for trafikksikkerheten,
+   5. sammenligning av alternativene, herunder nytte- og kostnadsanalyse,
+   6. presentasjon av de forskjellige mulige løsningene.
+2. Faktorer som skal tas i betraktning:
+
+   1. dødsfall og ulykker, reduksjonsmål kontra mulige følger dersom det ikke iverksettes tiltak,
+   2. rutevalg og trafikkmønstre,
+   3. mulig innvirkning på det eksisterende vegnettet (f.eks. avkjøringer, vegkryss, planoverganger),
+   4. trafikanter, herunder sårbare trafikanter (f.eks. gående, syklister, motorsyklister),
+   5. trafikk (f.eks. trafikkmengde, trafikktype), herunder anslått flyt av gående og syklende ut fra bruken av de tilgrensende arealene,
+   6. årstidsbestemte og klimatiske forhold,
+   7. tilstedeværelse av et tilstrekkelig antall sikre parkeringsplasser,
+   8. seismisk aktivitet.
 
 > Tilføyd ved forskrift [8 feb 2022 nr. 198](forskrift/2022-02-08-198).
 
 ## Vedlegg II. Veiledende elementer i trafikksikkerhetsrevisjoner
 
-1. Kriterier i forprosjekteringsfasen (reguleringsplan)geografisk beliggenhettyper av og avstand mellom vegkryss (plankryss, rundkjøringer og rampetilknytninger),antall og type kjørefelter,typer av trafikk som tillates på den nye vegen,vegens funksjon innenfor vegnettetværforholdkjørehastighetertverrsnitt (f.eks. bredde på kjørebane, sykkelveier, gangveier),horisontal og vertikal profil,sikt,utforming av vegkryss (plankryss, rundkjøringer og rampetilknytninger),offentlige transportmidler og offentlig infrastruktur,planovergangertilrettelegging for sårbare trafikanter:tilrettelegging for gående,tilrettelegging for syklende, herunder om det finnes alternative ruter eller atskillelse fra motortrafikk med høy hastighet,tilrettelegging for tohjuls motorvogner,tetthet og plassering av krysningssteder for gående og syklende,tilrettelegging for gående og syklende på berørte veger i området,atskillelse av gående og syklende fra motortrafikk med høy hastighet eller om det finnes direkte alternative ruter på veger i lavere kategori.
-2. Kriterier i prosjekteringsfasen:trasé,enhetlig skilting og vegmerking,belysning av opplyste veger og vegkryssutstyr langs vegenmiljø langs vegen, herunder vegetasjon,faste hindringer i vegkanten,sikre parkeringsplassertilrettelegging for sårbare trafikanter:tilrettelegging for gående,tilrettelegging for syklendetilrettelegging for tohjuls motorvogner,brukervennlig tilpasning av vegsikringsutstyr, midtdeler og rekkverk for å forebygge farer for sårbare trafikanter.
-3. Kriterier i fasen umiddelbart før vegen tas i bruk:trafikantenes sikkerhet og sikten under forskjellige forhold, f.eks. i mørket og under normale værforhold,lesbarheten av trafikkskilter og vegmerking,vegdekkets tilstand.
+1. Kriterier i forprosjekteringsfasen (reguleringsplan)
+
+   1. geografisk beliggenhet
+   2. typer av og avstand mellom vegkryss (plankryss, rundkjøringer og rampetilknytninger),
+   3. antall og type kjørefelter,
+   4. typer av trafikk som tillates på den nye vegen,
+   5. vegens funksjon innenfor vegnettet
+   6. værforhold
+   7. kjørehastigheter
+   8. tverrsnitt (f.eks. bredde på kjørebane, sykkelveier, gangveier),
+   9. horisontal og vertikal profil,
+   10. sikt,
+   11. utforming av vegkryss (plankryss, rundkjøringer og rampetilknytninger),
+   12. offentlige transportmidler og offentlig infrastruktur,
+   13. planoverganger
+   14. tilrettelegging for sårbare trafikanter:
+
+       1. tilrettelegging for gående,
+       2. tilrettelegging for syklende, herunder om det finnes alternative ruter eller atskillelse fra motortrafikk med høy hastighet,
+       3. tilrettelegging for tohjuls motorvogner,
+       4. tetthet og plassering av krysningssteder for gående og syklende,
+       5. tilrettelegging for gående og syklende på berørte veger i området,
+       6. atskillelse av gående og syklende fra motortrafikk med høy hastighet eller om det finnes direkte alternative ruter på veger i lavere kategori.
+2. Kriterier i prosjekteringsfasen:
+
+   1. trasé,
+   2. enhetlig skilting og vegmerking,
+   3. belysning av opplyste veger og vegkryss
+   4. utstyr langs vegen
+   5. miljø langs vegen, herunder vegetasjon,
+   6. faste hindringer i vegkanten,
+   7. sikre parkeringsplasser
+   8. tilrettelegging for sårbare trafikanter:
+
+      1. tilrettelegging for gående,
+      2. tilrettelegging for syklende
+      3. tilrettelegging for tohjuls motorvogner,
+   9. brukervennlig tilpasning av vegsikringsutstyr, midtdeler og rekkverk for å forebygge farer for sårbare trafikanter.
+3. Kriterier i fasen umiddelbart før vegen tas i bruk:
+
+   1. trafikantenes sikkerhet og sikten under forskjellige forhold, f.eks. i mørket og under normale værforhold,
+   2. lesbarheten av trafikkskilter og vegmerking,
+   3. vegdekkets tilstand.
 4. Kriterier i den innledende bruksfasen: vurdering av trafikksikkerheten i lys av trafikantenes faktiske atferd.
 
 I alle faser kan revisjoner gjøre det nødvendig å vurdere kriterier fra tidligere faser på nytt.
@@ -168,36 +240,177 @@ I alle faser kan revisjoner gjøre det nødvendig å vurdere kriterier fra tidli
 
 ## Vedlegg III. Veiledende elementer i vegnettsevalueringer
 
-1. Generelt:type veg med hensyn til type av og størrelse på regioner/byer den forbinder,vegstrekningens lengde,områdetype (landdistrikt, byområde),arealbruk (utdanning, handel, industri og produksjon, bolig, landbruk, uutviklede områder),tetthet av atkomstpunkter til eiendommer,tilstedeværelse av atkomstveger (f.eks. til butikker),pågående vegarbeid,parkeringsmuligheter.
-2. Trafikkmengde:trafikkmengde,observert mengde motorsykkeltrafikk,observert mengde gangtrafikk på begge sider, med angivelse av «langsgående» eller «kryssende»,observert mengde sykkeltrafikk på begge sider, med angivelse av «langsgående» eller «kryssende»,observert mengde trafikk med tunge kjøretøyer,anslått flyt av gående ut fra bruken av de tilgrensende arealene,anslått flyt av syklende ut fra bruken av de tilgrensende arealene.
-3. Ulykkesdata:antall, sted for og årsak til dødsulykker etter trafikantgruppe,antall, sted for og årsak til alvorlige skader etter trafikantgruppe.
-4. Bruksegenskaper:fartsgrense (generelt, for motorsykler og for lastebiler),faktisk hastighet (85-persentil),hastighetsstyring og/eller trafikkdemping,forekomst av ITS-utstyr: køvarsling, variable trafikkskilt,varsler ved skoler,tilstedeværelse av skolepatrulje i fastsatte tidsrom.
-5. Geometriske egenskaper:tverrsnittsegenskaper (antall, type og bredde på kjørefelt, midtrabattenes utforming og materiale, sykkelveg, gangveg osv.), inkludert deres variabilitet,horisontalkurvatur,stigning og vertikal profil,sikt og synsvidde.
-6. Gjenstander, sikkerhetssoner og vegsikringsutstyr:miljø langs vegen og sikkerhetssoner,faste hindringer langs vegen (f.eks. lysstolper, trær osv.),avstand mellom hindringer og vegkanten,tetthet av hindringer,rumlestriper,vegsikringsutstyr.
-7. Bruer og tunneler:forekomst av og antall broer samt relevante opplysninger om dem,forekomst av og antall tunneler samt relevante opplysninger om dem,visuelle elementer som utgjør sikkerhetsfarer for infrastrukturen.
-8. Vegkryss:Vegkrysstype og antall armer (særlig angis typen regulering og eventuell forekomst av konfliktfrie svinger),forekomst av kanalisering,vegkrysskvalitet,trafikkmengde på kryssende veg,forekomst av planoverganger (særlig angis typen overgang og om de er bemannede, ubemannede, manuelle eller automatiserte).
-9. Vedlikehold:skader på vegdekket,vegdekkets friksjon,vegskulderforhold (herunder vegetasjon),tilstand på skilt, merking og linjer,tilstand på vegsikringsutstyr.
-10. Tilrettelegging for sårbare trafikanter:kryssingssteder for gående og syklister (i plan eller planskilt),kryssingssteder for syklister (i plan eller planskilt),rekkverk for gående,om det finnes fortau eller separate fasiliteter,tilrettelegging for syklister og type tiltak (sykkelveger, sykkelfelter eller annet),kvalitet på gangfeltene med hensyn til hvert enkelt felts synlighet og skilting,kryssingssteder for gående og syklister der en mindre veg blir en del av vegnettet,om det finnes alternative ruter for gående og syklister der det ikke finnes separate fasiliteter.tilgivende sideterreng og rekkverk med underskinner for sikker ferdsel på motorsykkel og mopedfriksjon på vegmerking og vegdekke.
-11. Elementer i systemer som opererer før og etter trafikkulykker for å redusere alvorlighetsgraden av skader:operasjonssentraler i nettet og annen patruljering,mekanismer for å informere trafikanter om kjøreforhold for å forebygge ulykker og hendelser,systemer for automatisk registrering av hendelser (AID): sensorer og kameraer,systemer for hendelseshåndtering,systemer for kommunikasjon med nødmeldingstjenester.
+1. Generelt:
+
+   1. type veg med hensyn til type av og størrelse på regioner/byer den forbinder,
+   2. vegstrekningens lengde,
+   3. områdetype (landdistrikt, byområde),
+   4. arealbruk (utdanning, handel, industri og produksjon, bolig, landbruk, uutviklede områder),
+   5. tetthet av atkomstpunkter til eiendommer,
+   6. tilstedeværelse av atkomstveger (f.eks. til butikker),
+   7. pågående vegarbeid,
+   8. parkeringsmuligheter.
+2. Trafikkmengde:
+
+   1. trafikkmengde,
+   2. observert mengde motorsykkeltrafikk,
+   3. observert mengde gangtrafikk på begge sider, med angivelse av «langsgående» eller «kryssende»,
+   4. observert mengde sykkeltrafikk på begge sider, med angivelse av «langsgående» eller «kryssende»,
+   5. observert mengde trafikk med tunge kjøretøyer,
+   6. anslått flyt av gående ut fra bruken av de tilgrensende arealene,
+   7. anslått flyt av syklende ut fra bruken av de tilgrensende arealene.
+3. Ulykkesdata:
+
+   1. antall, sted for og årsak til dødsulykker etter trafikantgruppe,
+   2. antall, sted for og årsak til alvorlige skader etter trafikantgruppe.
+4. Bruksegenskaper:
+
+   1. fartsgrense (generelt, for motorsykler og for lastebiler),
+   2. faktisk hastighet (85-persentil),
+   3. hastighetsstyring og/eller trafikkdemping,
+   4. forekomst av ITS-utstyr: køvarsling, variable trafikkskilt,
+   5. varsler ved skoler,
+   6. tilstedeværelse av skolepatrulje i fastsatte tidsrom.
+5. Geometriske egenskaper:
+
+   1. tverrsnittsegenskaper (antall, type og bredde på kjørefelt, midtrabattenes utforming og materiale, sykkelveg, gangveg osv.), inkludert deres variabilitet,
+   2. horisontalkurvatur,
+   3. stigning og vertikal profil,
+   4. sikt og synsvidde.
+6. Gjenstander, sikkerhetssoner og vegsikringsutstyr:
+
+   1. miljø langs vegen og sikkerhetssoner,
+   2. faste hindringer langs vegen (f.eks. lysstolper, trær osv.),
+   3. avstand mellom hindringer og vegkanten,
+   4. tetthet av hindringer,
+   5. rumlestriper,
+   6. vegsikringsutstyr.
+7. Bruer og tunneler:
+
+   1. forekomst av og antall broer samt relevante opplysninger om dem,
+   2. forekomst av og antall tunneler samt relevante opplysninger om dem,
+   3. visuelle elementer som utgjør sikkerhetsfarer for infrastrukturen.
+8. Vegkryss:
+
+   1. Vegkrysstype og antall armer (særlig angis typen regulering og eventuell forekomst av konfliktfrie svinger),
+   2. forekomst av kanalisering,
+   3. vegkrysskvalitet,
+   4. trafikkmengde på kryssende veg,
+   5. forekomst av planoverganger (særlig angis typen overgang og om de er bemannede, ubemannede, manuelle eller automatiserte).
+9. Vedlikehold:
+
+   1. skader på vegdekket,
+   2. vegdekkets friksjon,
+   3. vegskulderforhold (herunder vegetasjon),
+   4. tilstand på skilt, merking og linjer,
+   5. tilstand på vegsikringsutstyr.
+10. Tilrettelegging for sårbare trafikanter:
+
+    1. kryssingssteder for gående og syklister (i plan eller planskilt),
+    2. kryssingssteder for syklister (i plan eller planskilt),
+    3. rekkverk for gående,
+    4. om det finnes fortau eller separate fasiliteter,
+    5. tilrettelegging for syklister og type tiltak (sykkelveger, sykkelfelter eller annet),
+    6. kvalitet på gangfeltene med hensyn til hvert enkelt felts synlighet og skilting,
+    7. kryssingssteder for gående og syklister der en mindre veg blir en del av vegnettet,
+    8. om det finnes alternative ruter for gående og syklister der det ikke finnes separate fasiliteter.
+    9. tilgivende sideterreng og rekkverk med underskinner for sikker ferdsel på motorsykkel og moped
+    10. friksjon på vegmerking og vegdekke.
+11. Elementer i systemer som opererer før og etter trafikkulykker for å redusere alvorlighetsgraden av skader:
+
+    1. operasjonssentraler i nettet og annen patruljering,
+    2. mekanismer for å informere trafikanter om kjøreforhold for å forebygge ulykker og hendelser,
+    3. systemer for automatisk registrering av hendelser (AID): sensorer og kameraer,
+    4. systemer for hendelseshåndtering,
+    5. systemer for kommunikasjon med nødmeldingstjenester.
 
 > Tilføyd ved forskrift [8 feb 2022 nr. 198](forskrift/2022-02-08-198).
 
 ## Vedlegg IV. Veiledende elementer i målrettede trafikksikkerhetsinspeksjoner
 
-1. Vegprofil og tverrsnitt:sikt og synsvidde,fartsgrense og fartssoner,selvforklarende trasé (dvs. traseens «lesbarhet» for trafikanter),tilgang til tilstøtende eiendommer og bebyggelse,tilgjengelighet for utryknings- og servicekjøretøyer,sikkerhetsforanstaltninger ved broer og kulverter,utforming av vegkanter (vegskulder, kjørebanekant, skjæringer og fyllinger).
-2. Vegkryss og planskilte kryss:egnetheten av typen vegkryss eller planskilt kryss,den geometriske utformingen av vegkrysset eller det planskilte krysset,vegkryssenes sikt og lesbarhet (hvordan de oppfattes),sikt ved vegkrysset,utforming av ekstra kjørefelt ved vegkryss,regulering av vegkryss (f.eks. stopplikt, trafikksignaler osv.),om det finnes kryssingssteder for gående og syklende.
-3. Tilrettelegging for sårbare trafikanter:tilrettelegging for gående,tilrettelegging for syklende,tilrettelegging for tohjuls motorvogner,offentlige transportmidler og offentlig infrastruktur,planoverganger (særlig angis typen overgang og om de er bemannede, ubemannede, manuelle eller automatiserte).
-4. Lys, skilt og merking:enhetlige vegskilt som ikke begrenser sikten,vegskiltenes lesbarhet (plassering, størrelse og farge),skiltstolper,enhetlig vegmerking og enhetlige linjer,vegmerkingens lesbarhet (plassering, dimensjoner og retroreflektivitet under tørre og våte forhold),vegmerking med tilstrekkelig kontrast,belysning av opplyste veger og vegkryss,egnet utstyr langs vegen.
-5. Trafikksignaler:funksjon,synlighet.
-6. Gjenstander, sikkerhetssoner og vegsikringsutstyr:miljø langs vegen, herunder vegetasjon,farer langs vegen og deres avstand fra kjørebanens eller sykkelvegens kant,brukervennlig tilpasning av vegsikringsutstyr og rekkverk for å forebygge farer for sårbare trafikanter),avslutninger av rekkverk,egnet vegsikringsutstyr ved broer og kulverter,gjerder (ved veger med begrenset adgang).
-7. Vegdekke:skader på vegdekket,friksjon,løst materiale/grus/stein,vannansamling, vanndrenering.
-8. Bruer og tunneler:forekomst av og antall broer,forekomst av og antall tunneler,visuelle elementer som utgjør sikkerhetsfarer for infrastrukturen.
-9. Annet:tilstedeværelse av sikre parkerings- og rasteplasser,tilrettelegging for tunge kjøretøyer,blending fra frontlykter,vegarbeid,utrygge aktiviteter langs vegen,relevant informasjon i ITS-utstyr (f.eks. variable trafikkskilt),ville dyr og husdyr,varsler ved skoler (dersom det er relevant).
+1. Vegprofil og tverrsnitt:
+
+   1. sikt og synsvidde,
+   2. fartsgrense og fartssoner,
+   3. selvforklarende trasé (dvs. traseens «lesbarhet» for trafikanter),
+   4. tilgang til tilstøtende eiendommer og bebyggelse,
+   5. tilgjengelighet for utryknings- og servicekjøretøyer,
+   6. sikkerhetsforanstaltninger ved broer og kulverter,
+   7. utforming av vegkanter (vegskulder, kjørebanekant, skjæringer og fyllinger).
+2. Vegkryss og planskilte kryss:
+
+   1. egnetheten av typen vegkryss eller planskilt kryss,
+   2. den geometriske utformingen av vegkrysset eller det planskilte krysset,
+   3. vegkryssenes sikt og lesbarhet (hvordan de oppfattes),
+   4. sikt ved vegkrysset,
+   5. utforming av ekstra kjørefelt ved vegkryss,
+   6. regulering av vegkryss (f.eks. stopplikt, trafikksignaler osv.),
+   7. om det finnes kryssingssteder for gående og syklende.
+3. Tilrettelegging for sårbare trafikanter:
+
+   1. tilrettelegging for gående,
+   2. tilrettelegging for syklende,
+   3. tilrettelegging for tohjuls motorvogner,
+   4. offentlige transportmidler og offentlig infrastruktur,
+   5. planoverganger (særlig angis typen overgang og om de er bemannede, ubemannede, manuelle eller automatiserte).
+4. Lys, skilt og merking:
+
+   1. enhetlige vegskilt som ikke begrenser sikten,
+   2. vegskiltenes lesbarhet (plassering, størrelse og farge),
+   3. skiltstolper,
+   4. enhetlig vegmerking og enhetlige linjer,
+   5. vegmerkingens lesbarhet (plassering, dimensjoner og retroreflektivitet under tørre og våte forhold),
+   6. vegmerking med tilstrekkelig kontrast,
+   7. belysning av opplyste veger og vegkryss,
+   8. egnet utstyr langs vegen.
+5. Trafikksignaler:
+
+   1. funksjon,
+   2. synlighet.
+6. Gjenstander, sikkerhetssoner og vegsikringsutstyr:
+
+   1. miljø langs vegen, herunder vegetasjon,
+   2. farer langs vegen og deres avstand fra kjørebanens eller sykkelvegens kant,
+   3. brukervennlig tilpasning av vegsikringsutstyr og rekkverk for å forebygge farer for sårbare trafikanter),
+   4. avslutninger av rekkverk,
+   5. egnet vegsikringsutstyr ved broer og kulverter,
+   6. gjerder (ved veger med begrenset adgang).
+7. Vegdekke:
+
+   1. skader på vegdekket,
+   2. friksjon,
+   3. løst materiale/grus/stein,
+   4. vannansamling, vanndrenering.
+8. Bruer og tunneler:
+
+   1. forekomst av og antall broer,
+   2. forekomst av og antall tunneler,
+   3. visuelle elementer som utgjør sikkerhetsfarer for infrastrukturen.
+9. Annet:
+
+   1. tilstedeværelse av sikre parkerings- og rasteplasser,
+   2. tilrettelegging for tunge kjøretøyer,
+   3. blending fra frontlykter,
+   4. vegarbeid,
+   5. utrygge aktiviteter langs vegen,
+   6. relevant informasjon i ITS-utstyr (f.eks. variable trafikkskilt),
+   7. ville dyr og husdyr,
+   8. varsler ved skoler (dersom det er relevant).
 
 > Tilføyd ved forskrift [8 feb 2022 nr. 198](forskrift/2022-02-08-198).
 
 ## Vedlegg V. Opplysninger om ulykker i ulykkesrapporter
 
-Ulykkesrapporter skal inneholde følgende elementer:ulykkessted (så nøyaktig som mulig), herunder GNSS-koordinater.bilder og/eller tegninger av ulykkesstedet,dato og klokkeslett for ulykken,opplysninger om vegen, f.eks. områdetype, vegtype, type vegkryss (plankryss, rundkjøringer og rampetilknytninger), herunder signaler, antall kjørefelter, vegmerking, vegdekke, lys- og værforhold, fartsgrense og hindringer i vegkanten,ulykkens alvorlighetsgrad,opplysninger om personer som er innblandet, f.eks. alder, kjønn, nasjonalitet, alkoholinnhold i blodet, samt opplysning om hvorvidt sikkerhetsutstyr er brukt eller ikke,opplysninger om kjøretøyer som er innblandet (type, alder, land, eventuelt sikkerhetsutstyr, dato for siste periodiske kjøretøykontroll i henhold til gjeldende lovgivning),opplysninger om ulykken, f.eks. ulykkestype, kollisjonstype, kjøretøyets bevegelse og førerens manøvrering,om mulig opplysninger om hvor lang tid som er gått fra ulykkestidspunktet til registreringen av ulykken eller til nødtjenestens ankomst.
+Ulykkesrapporter skal inneholde følgende elementer:
+
+1. ulykkessted (så nøyaktig som mulig), herunder GNSS-koordinater.
+2. bilder og/eller tegninger av ulykkesstedet,
+3. dato og klokkeslett for ulykken,
+4. opplysninger om vegen, f.eks. områdetype, vegtype, type vegkryss (plankryss, rundkjøringer og rampetilknytninger), herunder signaler, antall kjørefelter, vegmerking, vegdekke, lys- og værforhold, fartsgrense og hindringer i vegkanten,
+5. ulykkens alvorlighetsgrad,
+6. opplysninger om personer som er innblandet, f.eks. alder, kjønn, nasjonalitet, alkoholinnhold i blodet, samt opplysning om hvorvidt sikkerhetsutstyr er brukt eller ikke,
+7. opplysninger om kjøretøyer som er innblandet (type, alder, land, eventuelt sikkerhetsutstyr, dato for siste periodiske kjøretøykontroll i henhold til gjeldende lovgivning),
+8. opplysninger om ulykken, f.eks. ulykkestype, kollisjonstype, kjøretøyets bevegelse og førerens manøvrering,
+9. om mulig opplysninger om hvor lang tid som er gått fra ulykkestidspunktet til registreringen av ulykken eller til nødtjenestens ankomst.
 
 > Tilføyd ved forskrift [8 feb 2022 nr. 198](forskrift/2022-02-08-198).

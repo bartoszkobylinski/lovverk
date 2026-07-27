@@ -135,7 +135,14 @@ Ved opptak til praktisk-pedagogisk utdanning (PPU) gjelder utdanningskrav utform
 
 ### § 3-6. Opphør av studierett
 
-Studieretten opphører:Når studiet er fullført.Dersom studenten skriftlig melder at hen ønsker å avslutte studiene.Dersom studenten unnlater å oppfylle sine plikter etter [§ 3-1](forskrift/2024-06-11-1304/§3-1), og eventuelt ikke har blitt innvilget permisjon fra studiet.Dersom studenten har benyttet maksimalt antall vurderingsforsøk uten å ha bestått et emne som er obligatorisk for studieprogrammet.Dersom studenten oppnår studierett ved et annet studieprogram ved KHiO, med mindre det etter skriftlig avtale er forutsatt at også den tidligere studieretten skal bestå.Dersom studenten i to semester på rad ikke oppnår noen studiepoeng, med mindre det følger av gyldig fravær ved vurdering eller permisjon jf. [§ 3-5](forskrift/2024-06-11-1304/§3-5).
+Studieretten opphører:
+
+1. Når studiet er fullført.
+2. Dersom studenten skriftlig melder at hen ønsker å avslutte studiene.
+3. Dersom studenten unnlater å oppfylle sine plikter etter [§ 3-1](forskrift/2024-06-11-1304/§3-1), og eventuelt ikke har blitt innvilget permisjon fra studiet.
+4. Dersom studenten har benyttet maksimalt antall vurderingsforsøk uten å ha bestått et emne som er obligatorisk for studieprogrammet.
+5. Dersom studenten oppnår studierett ved et annet studieprogram ved KHiO, med mindre det etter skriftlig avtale er forutsatt at også den tidligere studieretten skal bestå.
+6. Dersom studenten i to semester på rad ikke oppnår noen studiepoeng, med mindre det følger av gyldig fravær ved vurdering eller permisjon jf. [§ 3-5](forskrift/2024-06-11-1304/§3-5).
 
 Etter søknad kan studieretten i særskilte dokumenterbare tilfeller forlenges eller gjenopprettes. Søknad behandles av studieadministrasjonen i samråd med dekan.
 
@@ -189,7 +196,19 @@ Studieåret er normert til ti måneder fordelt på to semestre. Studieårets org
 
 1. Vurderinger ved KHiO gjennomføres etter bestemmelsene i [universitets- og høyskoleloven §§ 11-4](lov/2024-03-08-9/§11-4), [11-5](lov/2024-03-08-9/§11-5) og [11-6](lov/2024-03-08-9/§11-6).
 2. Avdelingene avgjør hvilken vurderingsform som er best egnet til å vurdere læringsutbyttet. Vurderingsform(er) skal fremgå av studieplanen.
-3. Vurderingen kan gjennomføres som:ForestillingerUtstillingerVisningerSkriftlig eksamenPraktisk eksamenMuntlig eksamenMuntlig presentasjonFremlegg av arbeid/mappeLøpende vurderingPraksisAnnen egnet vurderingsform beskrevet i studieplanen.
+3. Vurderingen kan gjennomføres som:
+
+   - Forestillinger
+   - Utstillinger
+   - Visninger
+   - Skriftlig eksamen
+   - Praktisk eksamen
+   - Muntlig eksamen
+   - Muntlig presentasjon
+   - Fremlegg av arbeid/mappe
+   - Løpende vurdering
+   - Praksis
+   - Annen egnet vurderingsform beskrevet i studieplanen.
 4. En vurderingsform kan benyttes alene eller i kombinasjon med andre. Vurdering kan gjennomføres individuelt eller gruppevis.
 5. Ved løpende vurdering fremgår det av studieplanen hvilken periode som vurderes.
 6. Eventuelle tillatte hjelpemidler og språkkrav for vurderingen fremkommer av studieplanen.

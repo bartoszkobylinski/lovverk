@@ -38,7 +38,11 @@ Reglene om varedeklarasjon skal sikre at sluttbrukere av elektrisk energi blir i
 
 Reglene om avanserte måle- og styringssystemer (AMS) skal bidra til korrekt avregning, nødvendig informasjon til styring av eget strømforbruk og økt mulighet for nettselskapet til å effektivisere driften av nettet.
 
-Reglene om Elhub skal:bidra til effektiv og korrekt avregning, informasjonsutveksling og leverandørskiftersikre oppdatert data- og kunnskapsgrunnlag om kraftforbruk og kraftproduksjon, et godt underlag for planlegging, drift og vedlikehold av kraftsystemet og regulering av nettselskapenes inntektersikre at myndigheter kan ivareta sine forvaltningsoppgaver.
+Reglene om Elhub skal:
+
+1. bidra til effektiv og korrekt avregning, informasjonsutveksling og leverandørskifter
+2. sikre oppdatert data- og kunnskapsgrunnlag om kraftforbruk og kraftproduksjon, et godt underlag for planlegging, drift og vedlikehold av kraftsystemet og regulering av nettselskapenes inntekter
+3. sikre at myndigheter kan ivareta sine forvaltningsoppgaver.
 
 > Endret ved [forskrifter 14 des 2006 nr. 1463](forskrift/2006-12-14-1463) (i kraft 1 jan 2007), [24 juni 2011 nr. 726](forskrift/2011-06-24-726) (i kraft 1 juli 2011), [26 juni 2015 nr. 801](forskrift/2015-06-26-801) (i kraft 1 jan 2016), [12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)), [17 juni 2025 nr. 1057](forskrift/2025-06-17-1057).
 
@@ -52,15 +56,62 @@ Forskriften regulerer ikke privatrettslige rettigheter og plikter som er i overe
 
 ### § 1-3. Definisjoner
 
-I denne forskrift forstås med:*Anleggsovertagelse:* det tidspunkt da en sluttbruker tar over et eksisterende målepunkt fra en annen sluttbruker.*Avanserte måle- og styringssystemer (AMS):* Toveis informasjons- og kommunikasjonssystem fra og med elektrisitetsmålere som danner grunnlag for avregning av utveksling, innmating og uttak, til og med sentralsystemet hos nettselskapet eller nettselskapets leverandør.*Avregningsansvarlig:* den som i henhold til [energiloven § 4-3](lov/1990-06-29-50/§4-3) er utpekt som avregningsansvarlig.*Balanseansvarlig:* omsetningskonsesjonær som avregnes for regulerkraft i nettselskapets kraftnett. Balanseansvarlig er også sluttbrukere og nettselskaper som er ansvarlig i regulerkraftmarkedet.*Brytefunksjonalitet:* System for fjernstyrt inn- og utkobling av strømuttaket i målepunktet til AMS-målere.*Ediel:* standard for elektronisk kommunikasjon tilrettelagt for kraftbransjen.*Elhub:* Nasjonal informasjonsløsning for måling og avregning i kraftmarkedet.*Elhubbruker:* Enheter som tilknyttes Elhub, hvilket omfatter nettselskap, kraftleverandører og andre tjenesteleverandører.*Felles fakturering:* enhver form for samlet fakturering av nettjenester og elektrisk energi.*Forbruker:* fysisk person som får levert elektrisk energi og nettjeneste til målepunkt registrert kun på vedkommende, og som ikke hovedsakelig handler som ledd i næringsvirksomhet.*Gjennomfakturering:* kraftleverandør fakturerer sluttbruker for nettjenester og elektrisk energi felles ved at faktura for nettjenester sendes fra nettselskapet til sluttbrukerens kraftleverandør, som betaler på vegne av sluttbruker. Anleggsbidrag omfattes ikke av fakturering av nettjenester ved gjennomfakturering.*Høyspenningsanlegg:* anlegg med nominell spenning over 1000 volt vekselstrøm eller 1500 volt likestrøm.*Innhentingsmetode:* den metode som nettselskapet bruker for å samle inn måleverdier, herunder om et målepunkt er fjernavlest, manuelt avlest eller ulest. Informasjonen benyttes blant annet av kraftleverandør for å vurdere om denne må skaffe til veie en måleravlesing for sluttbruker ved leverandørskifter.*Innmating:* den totale mengde kraft som blir matet inn i et kraftnett.*Intervallavregning:* avregningsform for alle avregnede målepunkt der det er krav om å sende inn intervallverdier daglig.*Kraftleverandør:* omsetningskonsesjonær som selger elektrisk energi til sluttbruker. Kraftleverandør er også sluttbrukere som handler i organiserte markeder.*Leveringsstart:* det tidspunkt da en kraftleverandør eller et nettselskap starter leveransen i et målepunkt.*Markedsplasskonsesjonær:* selskap som etter konsesjon for organisert markedsplass forestår organisering eller drift av markedsplass for omsetning av elektrisk energi, jf. [energiloven § 4-5](lov/1990-06-29-50/§4-5).*Målepunkt-ID:* entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).*Måleverdikjeden:* hele den måletekniske installasjonen, samt all videre registrering, håndtering og oversendelse av måleverdier til avregningsansvarlig.*Nettavregningsområde:* Et område fastsatt av avregningsansvarlig hvor uttak, innmating og utveksling av kraft med tilgrensede nettavregningsområder kan måles.*Nettselskap:* omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Nettjenester:* en eller flere av følgende:overføring av kraft, herunder drift, vedlikehold og investering i nettanleggtarifferingmåling, avregning og kundehåndteringtilsyn og sikkerhetdriftskoordineringpålagte beredskapstiltakpålagt kraftsystemplanlegging.*Oppstart:* det tidspunkt da leveringsstart finner sted i nytt målepunkt der det ikke tidligere har vært levert strøm.*Organisert marked:* marked for omsetning av elektrisk energi som er regulert gjennom [energiloven § 4-5](lov/1990-06-29-50/§4-5).*Plusskunde:* Sluttbruker med forbruk og fysisk eller virtuell produksjon bak tilknytningspunkt, hvor innmatet effekt i tilknytningspunktet ikke på noe tidspunkt overstiger 100 kW. En plusskunde kan ikke ha konsesjonspliktig anlegg bak eget tilknytningspunkt eller omsetning bak tilknytningspunktet som krever omsetningskonsesjon.*Profilavregning:* avregningsform for alle avregnede målepunkt der det ikke er krav om å sende inn intervallverdier daglig.*Regulerkraftbalanse:* avviket mellom innmatet/uttatt kraftvolum og kjøps-/salgsforpliktelser for hver balanseansvarlig.*Regulerkraftmarkedet:* marked for å håndtere ubalanse i det norske kraftsystemet i driftstimen.*Sluttbruker:* kjøper av elektrisk energi som ikke selger denne videre.*Systemstøtte for Ediel:* avregningsansvarlig som i henhold til sin konsesjon forestår drift og vedlikehold av og veiledning om Ediel-meldinger som inngår i denne forskrift.*Timemåling:* timevis registrering med fjernavlesning av innmating eller uttak.
+I denne forskrift forstås med:
+
+- *Anleggsovertagelse:* det tidspunkt da en sluttbruker tar over et eksisterende målepunkt fra en annen sluttbruker.
+- *Avanserte måle- og styringssystemer (AMS):* Toveis informasjons- og kommunikasjonssystem fra og med elektrisitetsmålere som danner grunnlag for avregning av utveksling, innmating og uttak, til og med sentralsystemet hos nettselskapet eller nettselskapets leverandør.
+- *Avregningsansvarlig:* den som i henhold til [energiloven § 4-3](lov/1990-06-29-50/§4-3) er utpekt som avregningsansvarlig.
+- *Balanseansvarlig:* omsetningskonsesjonær som avregnes for regulerkraft i nettselskapets kraftnett. Balanseansvarlig er også sluttbrukere og nettselskaper som er ansvarlig i regulerkraftmarkedet.
+- *Brytefunksjonalitet:* System for fjernstyrt inn- og utkobling av strømuttaket i målepunktet til AMS-målere.
+- *Ediel:* standard for elektronisk kommunikasjon tilrettelagt for kraftbransjen.
+- *Elhub:* Nasjonal informasjonsløsning for måling og avregning i kraftmarkedet.
+- *Elhubbruker:* Enheter som tilknyttes Elhub, hvilket omfatter nettselskap, kraftleverandører og andre tjenesteleverandører.
+- *Felles fakturering:* enhver form for samlet fakturering av nettjenester og elektrisk energi.
+- *Forbruker:* fysisk person som får levert elektrisk energi og nettjeneste til målepunkt registrert kun på vedkommende, og som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+- *Gjennomfakturering:* kraftleverandør fakturerer sluttbruker for nettjenester og elektrisk energi felles ved at faktura for nettjenester sendes fra nettselskapet til sluttbrukerens kraftleverandør, som betaler på vegne av sluttbruker. Anleggsbidrag omfattes ikke av fakturering av nettjenester ved gjennomfakturering.
+- *Høyspenningsanlegg:* anlegg med nominell spenning over 1000 volt vekselstrøm eller 1500 volt likestrøm.
+- *Innhentingsmetode:* den metode som nettselskapet bruker for å samle inn måleverdier, herunder om et målepunkt er fjernavlest, manuelt avlest eller ulest. Informasjonen benyttes blant annet av kraftleverandør for å vurdere om denne må skaffe til veie en måleravlesing for sluttbruker ved leverandørskifter.
+- *Innmating:* den totale mengde kraft som blir matet inn i et kraftnett.
+- *Intervallavregning:* avregningsform for alle avregnede målepunkt der det er krav om å sende inn intervallverdier daglig.
+- *Kraftleverandør:* omsetningskonsesjonær som selger elektrisk energi til sluttbruker. Kraftleverandør er også sluttbrukere som handler i organiserte markeder.
+- *Leveringsstart:* det tidspunkt da en kraftleverandør eller et nettselskap starter leveransen i et målepunkt.
+- *Markedsplasskonsesjonær:* selskap som etter konsesjon for organisert markedsplass forestår organisering eller drift av markedsplass for omsetning av elektrisk energi, jf. [energiloven § 4-5](lov/1990-06-29-50/§4-5).
+- *Målepunkt-ID:* entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).
+- *Måleverdikjeden:* hele den måletekniske installasjonen, samt all videre registrering, håndtering og oversendelse av måleverdier til avregningsansvarlig.
+- *Nettavregningsområde:* Et område fastsatt av avregningsansvarlig hvor uttak, innmating og utveksling av kraft med tilgrensede nettavregningsområder kan måles.
+- *Nettselskap:* omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.
+- *Nettjenester:* en eller flere av følgende:
+
+  1. overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg
+  2. tariffering
+  3. måling, avregning og kundehåndtering
+  4. tilsyn og sikkerhet
+  5. driftskoordinering
+  6. pålagte beredskapstiltak
+  7. pålagt kraftsystemplanlegging.
+- *Oppstart:* det tidspunkt da leveringsstart finner sted i nytt målepunkt der det ikke tidligere har vært levert strøm.
+- *Organisert marked:* marked for omsetning av elektrisk energi som er regulert gjennom [energiloven § 4-5](lov/1990-06-29-50/§4-5).
+- *Plusskunde:* Sluttbruker med forbruk og fysisk eller virtuell produksjon bak tilknytningspunkt, hvor innmatet effekt i tilknytningspunktet ikke på noe tidspunkt overstiger 100 kW. En plusskunde kan ikke ha konsesjonspliktig anlegg bak eget tilknytningspunkt eller omsetning bak tilknytningspunktet som krever omsetningskonsesjon.
+- *Profilavregning:* avregningsform for alle avregnede målepunkt der det ikke er krav om å sende inn intervallverdier daglig.
+- *Regulerkraftbalanse:* avviket mellom innmatet/uttatt kraftvolum og kjøps-/salgsforpliktelser for hver balanseansvarlig.
+- *Regulerkraftmarkedet:* marked for å håndtere ubalanse i det norske kraftsystemet i driftstimen.
+- *Sluttbruker:* kjøper av elektrisk energi som ikke selger denne videre.
+- *Systemstøtte for Ediel:* avregningsansvarlig som i henhold til sin konsesjon forestår drift og vedlikehold av og veiledning om Ediel-meldinger som inngår i denne forskrift.
+- *Timemåling:* timevis registrering med fjernavlesning av innmating eller uttak.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1461](forskrift/2001-12-17-1461) (i kraft 1 jan 2002), [12 des 2005 nr. 1473](forskrift/2005-12-12-1473) (i kraft 1 jan 2006), [4 juli 2007 nr. 1085](forskrift/2007-07-04-1085) (i kraft 1 jan 2008), [20 des 2010 nr. 1709](forskrift/2010-12-20-1709) (i kraft 1 jan 2011), [26 juni 2015 nr. 801](forskrift/2015-06-26-801) (i kraft 1 jan 2016), [3 mai 2016 nr. 463](forskrift/2016-05-03-463) (i kraft 1 sep 2016), [10 mars 2015 nr. 301](forskrift/2015-03-10-301) (i kraft 1 mai 2017, endring endret ved forskrifter [18 des 2015 nr. 1778](forskrift/2015-12-18-1778), [23 sep 2016 nr. 1099](forskrift/2016-09-23-1099)), [19 des 2018 nr. 2146](forskrift/2018-12-19-2146) (i kraft 1 jan 2019), [12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)), [22 jan 2021 nr. 177](forskrift/2021-01-22-177) (i kraft 1 feb 2021, utbetaling til sluttbrukere ved svært langvarige avbrudd skal inkluderes i gjennomfaktureringen senest innen 1. juli 2021), [25 juni 2021 nr. 2308](forskrift/2021-06-25-2308) (i kraft 1 juli 2021), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
 ### § 1-4. Elektronisk informasjonsutveksling
 
-1. *Ediel*Informasjonsutveksling etter denne forskrift skal foregå i henhold til Ediel. Avregningsansvarlig, gjennom Systemstøtten for Ediel, skal etablere og vedlikeholde Ediel.
-2. *Systemstøtten for Ediels godkjenning*Det kreves godkjenning av Systemstøtten for Ediel for å kunne utveksle Ediel-meldinger etter denne forskrift.
-3. *Systemstøtten for Ediels adresseregister*Det kreves registrering med oppdatert adresseinformasjon i Systemstøtten for Ediels adresseregister for å kunne utveksle Ediel-meldinger etter denne forskrift.
+1. *Ediel*
+
+   Informasjonsutveksling etter denne forskrift skal foregå i henhold til Ediel. Avregningsansvarlig, gjennom Systemstøtten for Ediel, skal etablere og vedlikeholde Ediel.
+2. *Systemstøtten for Ediels godkjenning*
+
+   Det kreves godkjenning av Systemstøtten for Ediel for å kunne utveksle Ediel-meldinger etter denne forskrift.
+3. *Systemstøtten for Ediels adresseregister*
+
+   Det kreves registrering med oppdatert adresseinformasjon i Systemstøtten for Ediels adresseregister for å kunne utveksle Ediel-meldinger etter denne forskrift.
 
 Vesentlige endringer i Ediel skal forelegges Reguleringsmyndigheten for energi for godkjenning i rimelig tid før de er ment å tre i kraft. Reguleringsmyndigheten for energi kan fatte vedtak om endring av Ediel.
 
@@ -146,7 +197,13 @@ Reguleringsmyndigheten for energi kan stille nærmere krav til løsninger for au
 
 ### § 2-3. Krav til informasjon i kraftleveringsavtale
 
-En kraftleveringsavtale skal minimum inneholde følgende informasjon:målepunkt-ID,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,sluttbrukers navn eller firmanavn,hvilket produkt avtalen gjelder,sluttbrukers samtykke.
+En kraftleveringsavtale skal minimum inneholde følgende informasjon:
+
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+3. sluttbrukers navn eller firmanavn,
+4. hvilket produkt avtalen gjelder,
+5. sluttbrukers samtykke.
 
 Kraftleveringsavtalen kan gi kraftleverandør adgang til ensidig å endre målepunkt ID i forbindelse med anleggsovertagelse.
 
@@ -156,7 +213,12 @@ Kraftleveringsavtalen kan gi kraftleverandør adgang til ensidig å endre målep
 
 Kraftleverandør som skal starte leveransen, skal sende melding om leveringsstart til avregningsansvarlig. Ved leverandørskifte for profilavregnede målepunkt skal melding sendes tidligst seks og senest tre virkedager før dato for leveringsstart. Det skal foreligge en måleravlesning i Elhub som er godkjent av nettselskapet før meldingen sendes. Ved leverandørskifte for intervallavregnede målepunkt skal melding sendes tidligst fire og senest én kalenderdag før dato for leveringsstart. Ved anleggsovertagelse og ved oppstart skal melding sendes senest 30 virkedager etter dato for leveringsstart.
 
-Meldingen skal inneholde:målepunkt-ID,dato for leveringsstart,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,sluttbrukers navn, postadresse og anleggsadresse dersom denne er ulik postadressen.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. dato for leveringsstart,
+3. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+4. sluttbrukers navn, postadresse og anleggsadresse dersom denne er ulik postadressen.
 
 For profilavregnede målepunkt kan kraftleverandør kansellere meldt leveringsstart senest tre virkedager før dato for leveringsstart ved å sende melding om kansellering. For intervallavregnede målepunkt kan kraftleverandør kansellere meldt leveringsstart senest én kalenderdag før dato for leveringsstart ved å sende melding om kansellering. Kanselleringen skal straks bekreftes av avregningsansvarlig.
 
@@ -166,9 +228,25 @@ For profilavregnede målepunkt kan kraftleverandør kansellere meldt leveringsst
 
 Avregningsansvarlig skal ved utløp av kanselleringsfristen etter [§ 2-4](forskrift/1999-03-11-301/§2-4) tredje ledd sende melding om leveringsstart til kraftleverandør som tar over leveransen.
 
-Meldingen skal inneholde:målepunkt-ID,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,målernummer,leveringsstart,anleggets forventede årsvolum,hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning),prioritet (prioritert eller utkoblbart anlegg),sluttbrukers navn, postadresse og anleggsadresse ogopplysning om forbruker er pliktig til å betale merverdiavgift.
+Meldingen skal inneholde:
 
-Dersom målepunktet profilavregnes, skal meldingen også inneholde:måler/avregningskonstant,antall siffer i målerens tellerverk,dato for siste avlesning og førstkommende periodiske avlesning,avlesningsfrekvens oginnhentingsmetode.
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+3. målernummer,
+4. leveringsstart,
+5. anleggets forventede årsvolum,
+6. hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning),
+7. prioritet (prioritert eller utkoblbart anlegg),
+8. sluttbrukers navn, postadresse og anleggsadresse og
+9. opplysning om forbruker er pliktig til å betale merverdiavgift.
+
+Dersom målepunktet profilavregnes, skal meldingen også inneholde:
+
+1. måler/avregningskonstant,
+2. antall siffer i målerens tellerverk,
+3. dato for siste avlesning og førstkommende periodiske avlesning,
+4. avlesningsfrekvens og
+5. innhentingsmetode.
 
 Ved leverandørskifte, der det ikke er kommet en ny godkjent målerstand i løpet av de siste tre måneder før melding om leveringsstart sendes, skal avregningsansvarlig avvise melding om leveringsstart, jf. [§ 2-4](forskrift/1999-03-11-301/§2-4) første ledd.
 
@@ -176,7 +254,17 @@ Ved leverandørskifte, der det ikke er kommet en ny godkjent målerstand i løpe
 
 ### § 2-6. Informasjon fra Elhub til nettselskap om leveringsstart
 
-Avregningsansvarlig skal ved utløp av kanselleringsfristen etter [§ 2-4](forskrift/1999-03-11-301/§2-4) tredje ledd tilgjengeliggjøre følgende informasjon for nettselskapet:målepunkt-ID,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,målernummer,leveringsstart,anleggets forventede årsvolum,hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning),prioritet (prioritert eller utkoblbart anlegg),sluttbrukers navn, postadresse og anleggsadresse ogkraftleverandør på målepunktet.
+Avregningsansvarlig skal ved utløp av kanselleringsfristen etter [§ 2-4](forskrift/1999-03-11-301/§2-4) tredje ledd tilgjengeliggjøre følgende informasjon for nettselskapet:
+
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+3. målernummer,
+4. leveringsstart,
+5. anleggets forventede årsvolum,
+6. hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning),
+7. prioritet (prioritert eller utkoblbart anlegg),
+8. sluttbrukers navn, postadresse og anleggsadresse og
+9. kraftleverandør på målepunktet.
 
 > Tilføyd ved [forskrift 12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)), endret ved forskrift [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
@@ -184,7 +272,13 @@ Avregningsansvarlig skal ved utløp av kanselleringsfristen etter [§ 2-4](forsk
 
 Avregningsansvarlig skal sende melding om opphør til kraftleverandør som avslutter leveransen ved utløp av kanselleringsfrist for leveringsstart etter [§ 2-4](forskrift/1999-03-11-301/§2-4) tredje ledd. Ved anleggsovertagelse og oppstart av nytt anlegg skal meldingen sendes straks etter å ha mottatt melding om leveringsstart.
 
-Meldingen skal inneholde:målepunkt-ID,sluttbrukers fødselsnummer eller organisasjonsnummer,sluttbrukers navn,sluttbrukers postadresse ogsluttdato for leveranse.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer eller organisasjonsnummer,
+3. sluttbrukers navn,
+4. sluttbrukers postadresse og
+5. sluttdato for leveranse.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1461](forskrift/2001-12-17-1461) (i kraft 1 jan 2002), [4 juli 2007 nr. 1085](forskrift/2007-07-04-1085) (i kraft 1 jan 2008), [20 des 2010 nr. 1709](forskrift/2010-12-20-1709) (i kraft 1 jan 2011), [12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633) og [15 mars 2018 nr. 349](forskrift/2018-03-15-349), tidligere § 2-6).
 
@@ -192,7 +286,13 @@ Meldingen skal inneholde:målepunkt-ID,sluttbrukers fødselsnummer eller organis
 
 Kraftleverandør skal sende melding til avregningsansvarlig om opphør av kraftleveranse i de tilfeller opphøret ikke skyldes leverandørskifte. Melding om opphør skal sendes senest tre virkedager før kraftleveransen opphører.
 
-Meldingen skal inneholde:målepunkt-ID,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,sluttbrukers navn,sluttbrukers postadresse ogdato for avtaleopphør.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+3. sluttbrukers navn,
+4. sluttbrukers postadresse og
+5. dato for avtaleopphør.
 
 Kraftleverandør kan kansellere melding om opphør senest tre virkedager for profilavregnede målepunkt og senest én kalenderdag for intervallavregnede målepunkt før dato for opphør. Kanselleringsmelding skal straks bekreftes av avregningsansvarlig. Ved utløp av kanselleringsfristen skal avregningsansvarlig sende melding om opphør til nettselskapet.
 
@@ -202,7 +302,12 @@ Kraftleverandør kan kansellere melding om opphør senest tre virkedager for pro
 
 Kraftleverandør kan sende melding til avregningsansvarlig om opphør av både kraftleveranse og overføring av kraft.
 
-Meldingen skal inneholde:målepunkt-ID,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,sluttbrukers navn og postadresse ogdato for avtaleopphør.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer,
+3. sluttbrukers navn og postadresse og
+4. dato for avtaleopphør.
 
 Kraftleverandør har rett til å sende over målerstand ved kombinert opphør for profilavregnet målepunkt i henhold til [§ 3-3](forskrift/1999-03-11-301/§3-3).
 
@@ -214,7 +319,12 @@ Kraftleverandør kan kansellere melding om opphør senest tre virkedager for pro
 
 Ved oppstart og anleggsovertagelse av leveringspliktig kraftleveranse skal avregningsansvarlig sende melding om anleggsovertagelse uten leverandørskifte til sluttbrukers kraftleverandør dersom sluttbruker allerede har en kraftleverandør i et annet målepunkt. Meldingen skal sendes uten ugrunnet opphold. Meldingen skal ikke sendes dersom sluttbruker har mer enn en kraftleverandør.
 
-Ved oppstart og anleggsovertagelse skal meldingen inneholde:målepunkt-ID,dato for leveringsstart,sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer ogsluttbrukers navn, postadresse og anleggsadresse dersom denne er ulik postadressen.
+Ved oppstart og anleggsovertagelse skal meldingen inneholde:
+
+1. målepunkt-ID,
+2. dato for leveringsstart,
+3. sluttbrukers fødselsnummer, d-nummer eller organisasjonsnummer og
+4. sluttbrukers navn, postadresse og anleggsadresse dersom denne er ulik postadressen.
 
 Ved videreføring av eksisterende kraftleveringsavtale i nytt målepunkt skal kraftleverandør uten ugrunnet opphold informere sluttbruker skriftlig om avtalens vilkår.
 
@@ -238,7 +348,11 @@ Nettselskapet skal benytte målepunkt-ID for alle målepunkter i sitt nettområd
 
 ### § 3-2. Registreringsfrekvens for målepunkt med AMS
 
-Nettselskapet skal sørge for at følgende målepunkt har en registreringsfrekvens på 15 minutter:all innmating, unntatt plusskunder,alt uttak i høyspenningsanlegg ogall utveksling mellom nettavregningsområder, inkludert utveksling mot utlandet.
+Nettselskapet skal sørge for at følgende målepunkt har en registreringsfrekvens på 15 minutter:
+
+1. all innmating, unntatt plusskunder,
+2. alt uttak i høyspenningsanlegg og
+3. all utveksling mellom nettavregningsområder, inkludert utveksling mot utlandet.
 
 Øvrige målepunkt med AMS skal ha en registreringsfrekvens på 60 minutter.
 
@@ -302,7 +416,13 @@ Ved stipulering av måleverdier for intervallavregnede målepunkt skal nettselsk
 
 Nettselskapet skal innen tre virkedager etter avlesning eller stipulering, sende melding til avregningsansvarlig med målerstand og periodevolum for hvert enkelt målepunkt som profilavregnes.
 
-Meldingen skal inneholde:målepunkt-ID,målerstand ved begynnelsen og slutten av avregningsperioden,avregningsperiodens start- og sluttdato,forbrukt volum i målepunktet i avregningsperioden ogangivelse av om avregningsdataene er målte eller stipulerte.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. målerstand ved begynnelsen og slutten av avregningsperioden,
+3. avregningsperiodens start- og sluttdato,
+4. forbrukt volum i målepunktet i avregningsperioden og
+5. angivelse av om avregningsdataene er målte eller stipulerte.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1461](forskrift/2001-12-17-1461) (i kraft 1 jan 2002), [12 des 2005 nr. 1473](forskrift/2005-12-12-1473) (i kraft 1 jan 2006), [20 des 2010 nr. 1709](forskrift/2010-12-20-1709) (i kraft 1 jan 2011), [12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)), [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
@@ -310,7 +430,14 @@ Meldingen skal inneholde:målepunkt-ID,målerstand ved begynnelsen og slutten av
 
 Nettselskapet skal innen kl. 07.00 første kalenderdag etter driftsdøgnet sende melding til avregningsansvarlig med måledata for hvert enkelt målepunkt som intervallavregnes. Nettselskapet skal melde inn innmatings- og uttaksverdier separat.
 
-Meldingen skal inneholde:målepunkt-ID,måleverdi i kWh for målepunktets registreringsfrekvens i henhold til [§ 3-2](forskrift/1999-03-11-301/§3-2),angivelse for hver måleverdi om den er målt, stipulert eller har midlertidig status,eventuell angivelse av valideringsfeil og estimeringsmetode,dato og klokkeslett for måleverdienes tidsintervaller ogdato og klokkeslett for når måleverdiene er opprettet eller oppdatert.
+Meldingen skal inneholde:
+
+1. målepunkt-ID,
+2. måleverdi i kWh for målepunktets registreringsfrekvens i henhold til [§ 3-2](forskrift/1999-03-11-301/§3-2),
+3. angivelse for hver måleverdi om den er målt, stipulert eller har midlertidig status,
+4. eventuell angivelse av valideringsfeil og estimeringsmetode,
+5. dato og klokkeslett for måleverdienes tidsintervaller og
+6. dato og klokkeslett for når måleverdiene er opprettet eller oppdatert.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1461](forskrift/2001-12-17-1461) (i kraft 1 jan 2002), [20 des 2010 nr. 1709](forskrift/2010-12-20-1709) (i kraft 1 jan 2011), [12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)), [25 juni 2021 nr. 2308](forskrift/2021-06-25-2308) (i kraft 1 juli 2021), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
@@ -318,9 +445,18 @@ Meldingen skal inneholde:målepunkt-ID,måleverdi i kWh for målepunktets regist
 
 Nettselskap skal innen tre virkedager etter etablering av målepunkt eller skifte av elektrisitetsmåler sende melding om målerbyttet til avregningsansvarlig. Avregningsansvarlig skal straks sende meldingen videre til kraftleverandør.
 
-Meldingen skal inneholde:målepunkt-ID,dato for målerbyttet,hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning, inklusive registreringsfrekvens),innhentingsmetode (fjernavlest, manuell eller umålt) ogmålernummeret til ny måler.
+Meldingen skal inneholde:
 
-Dersom målepunktet profilavregnes, skal meldingen også inneholde:måler-/avregningskonstant for ny måler ogantall siffer i den nye målerens telleverk.
+1. målepunkt-ID,
+2. dato for målerbyttet,
+3. hvilken avregningsmetode som benyttes (profilavregning eller intervallavregning, inklusive registreringsfrekvens),
+4. innhentingsmetode (fjernavlest, manuell eller umålt) og
+5. målernummeret til ny måler.
+
+Dersom målepunktet profilavregnes, skal meldingen også inneholde:
+
+1. måler-/avregningskonstant for ny måler og
+2. antall siffer i den nye målerens telleverk.
 
 Ved installasjon av AMS kan nettselskapet opprettholde profilavregning for målepunktet i inntil 30 virkedager. Etter dette tidspunktet skal det benyttes intervallavregning basert på registreringsfrekvens fastsatt i henhold til [§ 3-2](forskrift/1999-03-11-301/§3-2).
 
@@ -374,7 +510,10 @@ Reglene i [§ 3-12 tredje](forskrift/1999-03-11-301/§3-12/ledd/3) og [fjerde le
 
 Nettselskapet skal sørge for at AMS er installert i hvert enkelt målepunkt.
 
-Nettselskapet har ikke plikt til å installere AMS i målepunkt for sluttbrukere i lavspenningsanlegg dersom:forbruket i målepunktet er lavt og forutsigbart, ellerinstallasjonen er til vesentlig og dokumenterbar ulempe for sluttbruker.
+Nettselskapet har ikke plikt til å installere AMS i målepunkt for sluttbrukere i lavspenningsanlegg dersom:
+
+1. forbruket i målepunktet er lavt og forutsigbart, eller
+2. installasjonen er til vesentlig og dokumenterbar ulempe for sluttbruker.
 
 Dersom nettselskap og sluttbruker er uenig om installasjon av AMS, kan saken fremlegges for Reguleringsmyndigheten for energi til avgjørelse.
 
@@ -384,13 +523,24 @@ Nettselskapet skal rapportere periodisk om fremdrift til Reguleringsmyndigheten 
 
 ### § 4-2. Funksjonskrav for AMS i målepunkt for sluttbrukere i lavspenningsanlegg
 
-I målepunkt for sluttbrukere i lavspenningsanlegg skal AMS:lagre måleverdier med en registreringsfrekvens på maksimalt 60 minutter, og kunne stilles om til en registreringsfrekvens på minimum 15 minutter,ha et standardisert grensesnitt som legger til rette for kommunikasjon med eksternt utstyr basert på åpne standarder,kunne tilknyttes og kommunisere med andre typer målere,kunne bryte og begrense effektuttaket i det enkelte målepunkt, unntatt trafomålte anlegg,kunne sende og motta informasjon om kraftpriser og tariffer, samt kunne overføre styrings- og jordfeilsignal ogregistrere flyt av aktiv og reaktiv effekt i begge retninger.
+I målepunkt for sluttbrukere i lavspenningsanlegg skal AMS:
+
+1. lagre måleverdier med en registreringsfrekvens på maksimalt 60 minutter, og kunne stilles om til en registreringsfrekvens på minimum 15 minutter,
+2. ha et standardisert grensesnitt som legger til rette for kommunikasjon med eksternt utstyr basert på åpne standarder,
+3. kunne tilknyttes og kommunisere med andre typer målere,
+4. kunne bryte og begrense effektuttaket i det enkelte målepunkt, unntatt trafomålte anlegg,
+5. kunne sende og motta informasjon om kraftpriser og tariffer, samt kunne overføre styrings- og jordfeilsignal og
+6. registrere flyt av aktiv og reaktiv effekt i begge retninger.
 
 > Tilføyd ved [forskrift 16 jan 2012 nr. 75](forskrift/2012-01-16-75) (i kraft 20 jan 2012), endret ved forskrifter [24 okt 2019 nr. 1437](forskrift/2019-10-24-1437) (i kraft 1 nov 2019), [25 juni 2021 nr. 2308](forskrift/2021-06-25-2308) (i kraft 1 jan 2022, se endringsforskriften II for overgangsregler).
 
 ### § 4-3. Funksjonskrav for AMS i øvrige målepunkt enn de knyttet til sluttbrukere i lavspenningsanlegg
 
-For andre målepunkt enn de knyttet til sluttbrukere i lavspenningsanlegg, skal AMS:lagre måleverdier med en registreringsfrekvens på maksimalt 15 minutter,registrere flyt av aktiv effekt i begge retninger ogregistrere flyt av reaktiv effekt i begge retninger.
+For andre målepunkt enn de knyttet til sluttbrukere i lavspenningsanlegg, skal AMS:
+
+1. lagre måleverdier med en registreringsfrekvens på maksimalt 15 minutter,
+2. registrere flyt av aktiv effekt i begge retninger og
+3. registrere flyt av reaktiv effekt i begge retninger.
 
 I målepunkt for sluttbrukere i høyspenningsanlegg, skal AMS ha et grensesnitt som legger til rette for kommunikasjon med eksternt utstyr basert på åpne standarder.
 
@@ -418,7 +568,15 @@ Nettselskapet er ansvarlig for å sikre AMS. Nettselskapet er ansvarlig for at s
 
 Sikkerhetsløsninger i AMS skal oppfylle kravene til digitale informasjonssystemer i [kraftberedskapsforskriften](forskrift/2012-12-07-1157).
 
-I tillegg skal følgende krav være oppfylt:Enheter og brukere som skal kommunisere til eller i AMS, må godkjennes i AMS av nettselskapet eller nettselskapets leverandør før de får tilgang.Enhver endring av programvare og konfigurasjon av dataprogram i AMS skal kunne spores tilbake til bruker, tidspunkt og endringen som ble gjort.Kommunikasjon i nettverket mellom AMS-måler og sentralsystem skal være beskyttet med ende-til-ende-kryptering. Ved bruk av et eget datanettverk, stengt for uvedkommende, kan kravet om ende-til-ende-kryptering fravikes.Programvare i AMS skal være oppdatert. Før ny programvare installeres i AMS, skal nettselskapet eller nettselskapets leverandør kontrollere at programvaren er autentisk.Hendelser som kompromitterer sikkerheten i en AMS-måler, eller dens kommunikasjon med sentralsystemet, skal ikke kompromittere sikkerheten i andre AMS-målere, deres kommunikasjon med sentralsystemet, eller sentralsystemet i seg selv.AMS skal til enhver tid kunne utføre de oppgaver systemet er designet for. Nettselskapet eller nettselskapets leverandør skal deaktivere funksjonalitet i AMS som ikke skal benyttes.I målepunkt for sluttbrukere i lavspenningsanlegg skal tilgang til AMS-målerens grensesnitt begrenses for andre enn sluttbruker, nettselskapet og andre aktører med legitimt behov. I øvrige målepunkt skal kun nettselskapet og andre aktører med legitimt behov ha tilgang til AMS-måleren.
+I tillegg skal følgende krav være oppfylt:
+
+1. Enheter og brukere som skal kommunisere til eller i AMS, må godkjennes i AMS av nettselskapet eller nettselskapets leverandør før de får tilgang.
+2. Enhver endring av programvare og konfigurasjon av dataprogram i AMS skal kunne spores tilbake til bruker, tidspunkt og endringen som ble gjort.
+3. Kommunikasjon i nettverket mellom AMS-måler og sentralsystem skal være beskyttet med ende-til-ende-kryptering. Ved bruk av et eget datanettverk, stengt for uvedkommende, kan kravet om ende-til-ende-kryptering fravikes.
+4. Programvare i AMS skal være oppdatert. Før ny programvare installeres i AMS, skal nettselskapet eller nettselskapets leverandør kontrollere at programvaren er autentisk.
+5. Hendelser som kompromitterer sikkerheten i en AMS-måler, eller dens kommunikasjon med sentralsystemet, skal ikke kompromittere sikkerheten i andre AMS-målere, deres kommunikasjon med sentralsystemet, eller sentralsystemet i seg selv.
+6. AMS skal til enhver tid kunne utføre de oppgaver systemet er designet for. Nettselskapet eller nettselskapets leverandør skal deaktivere funksjonalitet i AMS som ikke skal benyttes.
+7. I målepunkt for sluttbrukere i lavspenningsanlegg skal tilgang til AMS-målerens grensesnitt begrenses for andre enn sluttbruker, nettselskapet og andre aktører med legitimt behov. I øvrige målepunkt skal kun nettselskapet og andre aktører med legitimt behov ha tilgang til AMS-måleren.
 
 Dersom nettselskapet eller nettselskapets leverandør kobler andre enheter eller systemer til AMS, skal sikkerhetsnivået i AMS opprettholdes eller forbedres. Tilsvarende gjelder dersom sluttbruker eller tredjepart kobler seg til AMS.
 
@@ -528,7 +686,11 @@ Innsendt målerstand fra kraftleverandør, jf. [§ 3-3 femte ledd](forskrift/199
 
 Ved leverandørskifte skal stipulert uttak tilgjengeliggjøres både for kraftleverandør som tar over leveransen og for kraftleverandør som avslutter leveransen.
 
-Informasjon om stipulert uttak for profilavregnede målepunkter skal inneholde:målepunkt-ID,stipulert uttak ogavregningsperiodens start- og sluttdato.
+Informasjon om stipulert uttak for profilavregnede målepunkter skal inneholde:
+
+1. målepunkt-ID,
+2. stipulert uttak og
+3. avregningsperiodens start- og sluttdato.
 
 > Tilføyd ved [forskrift 10 mars 2015 nr. 301](forskrift/2015-03-10-301) (i kraft 18 feb 2019, endring endret ved forskrifter [18 des 2015 nr. 1778](forskrift/2015-12-18-1778), [23 sep 2016 nr. 1099](forskrift/2016-09-23-1099)), endret ved forskrift [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
@@ -656,7 +818,15 @@ Avregningsansvarlig skal sørge for at Elhub til enhver tid fungerer etter sin h
 
 Avregningsansvarlig skal sørge for at all informasjonsutveksling i henhold til Ediel er kryptert.
 
-Avregningsansvarlig skal etablere et dokumentert styringssystem for sikkerhet som kontinuerlig skal ivareta en helhetlig risikostyring av Elhub. Styringssystemet skal som minimum omfatte følgende områder:Risikovurdering med gjennomgang og oppfølging av denne,sikkerhetskrav for utvikling, drift, bruk, systemvedlikehold av Elhub,fysisk beskyttelse og kontroll med fysisk tilgang til sentralt teknisk utstyr knyttet til Elhub,tekniske ordninger og prosedyrer for tildeling, endring, sletting og autentisering av korrekt tilgang til Elhub,automatisk overvåking, logging, analyse og varsling ved uautorisert bruk, forsøk på uautorisert tilgang, unormal datatrafikk eller annen aktivitet som ikke er autorisert i Elhub,beredskapsplaner eller prosedyrer for å håndtere alle typer hendelser eller feil som medfører svikt i funksjonen til Elhub ogprosedyrer eller rutiner for å registrere, gjennomgå og evaluere hendelser eller feil som har medført svikt i funksjonen til Elhub.
+Avregningsansvarlig skal etablere et dokumentert styringssystem for sikkerhet som kontinuerlig skal ivareta en helhetlig risikostyring av Elhub. Styringssystemet skal som minimum omfatte følgende områder:
+
+1. Risikovurdering med gjennomgang og oppfølging av denne,
+2. sikkerhetskrav for utvikling, drift, bruk, systemvedlikehold av Elhub,
+3. fysisk beskyttelse og kontroll med fysisk tilgang til sentralt teknisk utstyr knyttet til Elhub,
+4. tekniske ordninger og prosedyrer for tildeling, endring, sletting og autentisering av korrekt tilgang til Elhub,
+5. automatisk overvåking, logging, analyse og varsling ved uautorisert bruk, forsøk på uautorisert tilgang, unormal datatrafikk eller annen aktivitet som ikke er autorisert i Elhub,
+6. beredskapsplaner eller prosedyrer for å håndtere alle typer hendelser eller feil som medfører svikt i funksjonen til Elhub og
+7. prosedyrer eller rutiner for å registrere, gjennomgå og evaluere hendelser eller feil som har medført svikt i funksjonen til Elhub.
 
 > Tilføyd ved [forskrift 12 juni 2015 nr. 705](forskrift/2015-06-12-705) (i kraft 18 feb 2019, endring endret ved forskrifter [3 feb 2017 nr. 120](forskrift/2017-02-03-120), [18 okt 2017 nr. 1633](forskrift/2017-10-18-1633), [15 mars 2018 nr. 349](forskrift/2018-03-15-349)).
 
@@ -704,9 +874,23 @@ For beregning av priselementer som ikke er kjent for forbruker før tidspunkt fo
 
 ### § 7-2. Krav til utforming av faktura til forbrukere
 
-Følgende gjelder fakturering for nettjenester:Fakturaen skal være oversiktlig og lett å forstå for forbrukeren.Fakturaen skal inneholde informasjon om fakturagrunnlaget, herunder priser, kraftvolum og hvorvidt forbrukeren mottar leveringspliktig kraftleveranse i henhold til [energiloven § 3-3](lov/1990-06-29-50/§3-3). Dersom stipulerte verdier benyttes som faktureringsgrunnlag i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) tredje ledd, skal dette fremgå tydelig av fakturaen.Fakturaen i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) annet ledd skal inneholde en grafisk sammenligning av årets forbruk i hver enkelt avregningsperiode med tilsvarende periode foregående år.Fakturaen skal inneholde Enova SF sin nettadresse [www.enova.no](http://www.enova.no/) for informasjon om energi- og klimatiltak.Fakturaen skal inneholde oversiktlig informasjon om hvilke opplysninger som må oppgis for å foreta skifte av kraftleverandør, jf. [§ 2-4](forskrift/1999-03-11-301/§2-4) annet ledd.Fakturaen skal opplyse om forbrukerens anledning til å fremme innsigelser mot fakturaen, herunder forbrukerens mulighet til å kontakte Elklagenemnda. Kontaktinformasjon til Elklagenemnda skal framgå av fakturaen.Fakturaen skal synliggjøre reduksjon i uttak som følge av at forbrukeren mottar produksjon fra et produksjonsanlegg som benytter fornybare energikilder.
+Følgende gjelder fakturering for nettjenester:
 
-Følgende gjelder fakturering for elektrisk energi:Fakturaen skal være oversiktlig og lett å forstå for forbrukeren.Fakturaen skal inneholde informasjon om fakturagrunnlaget, herunder egne varelinjer for alle priselementer, kraftvolum og hvorvidt forbrukeren mottar leveringspliktig kraftleveranse i henhold til [energiloven § 3-3](lov/1990-06-29-50/§3-3). Ved kontrakter direkte knyttet til spotprisen i det aktuelle elspotområdet, skal det tydelig komme frem av fakturaen dersom prisen ikke er vektet mot forbruket time for time. Dersom stipulerte verdier benyttes som faktureringsgrunnlag i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) tredje ledd, skal dette framgå tydelig av fakturaen.Elspotområdet for forbrukerens målepunkt, skal oppgis på faktura. Fakturaen skal inneholde informasjon om at forbrukeren kan sammenlikne kraftleveringsavtaler på strømpris.no.Fakturaen skal inneholde navnet på kraftleveringsavtalen, avtalens varighet og varslingsrutiner ved endringer i avtalen. Dersom avtalen inneholder en prisgaranti, skal prisgarantiens varighet komme tydelig frem på fakturaen.Fakturaen skal opplyse om forbrukerens anledning til å fremme innsigelser mot fakturaen, herunder forbrukerens mulighet til å kontakte Elklagenemnda. Kontaktinformasjon til Elklagenemnda skal framgå av fakturaen.
+1. Fakturaen skal være oversiktlig og lett å forstå for forbrukeren.
+2. Fakturaen skal inneholde informasjon om fakturagrunnlaget, herunder priser, kraftvolum og hvorvidt forbrukeren mottar leveringspliktig kraftleveranse i henhold til [energiloven § 3-3](lov/1990-06-29-50/§3-3). Dersom stipulerte verdier benyttes som faktureringsgrunnlag i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) tredje ledd, skal dette fremgå tydelig av fakturaen.
+3. Fakturaen i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) annet ledd skal inneholde en grafisk sammenligning av årets forbruk i hver enkelt avregningsperiode med tilsvarende periode foregående år.
+4. Fakturaen skal inneholde Enova SF sin nettadresse [www.enova.no](http://www.enova.no/) for informasjon om energi- og klimatiltak.
+5. Fakturaen skal inneholde oversiktlig informasjon om hvilke opplysninger som må oppgis for å foreta skifte av kraftleverandør, jf. [§ 2-4](forskrift/1999-03-11-301/§2-4) annet ledd.
+6. Fakturaen skal opplyse om forbrukerens anledning til å fremme innsigelser mot fakturaen, herunder forbrukerens mulighet til å kontakte Elklagenemnda. Kontaktinformasjon til Elklagenemnda skal framgå av fakturaen.
+7. Fakturaen skal synliggjøre reduksjon i uttak som følge av at forbrukeren mottar produksjon fra et produksjonsanlegg som benytter fornybare energikilder.
+
+Følgende gjelder fakturering for elektrisk energi:
+
+1. Fakturaen skal være oversiktlig og lett å forstå for forbrukeren.
+2. Fakturaen skal inneholde informasjon om fakturagrunnlaget, herunder egne varelinjer for alle priselementer, kraftvolum og hvorvidt forbrukeren mottar leveringspliktig kraftleveranse i henhold til [energiloven § 3-3](lov/1990-06-29-50/§3-3). Ved kontrakter direkte knyttet til spotprisen i det aktuelle elspotområdet, skal det tydelig komme frem av fakturaen dersom prisen ikke er vektet mot forbruket time for time. Dersom stipulerte verdier benyttes som faktureringsgrunnlag i henhold til [§ 7-1a](forskrift/1999-03-11-301/§7-1a) tredje ledd, skal dette framgå tydelig av fakturaen.
+3. Elspotområdet for forbrukerens målepunkt, skal oppgis på faktura. Fakturaen skal inneholde informasjon om at forbrukeren kan sammenlikne kraftleveringsavtaler på strømpris.no.
+4. Fakturaen skal inneholde navnet på kraftleveringsavtalen, avtalens varighet og varslingsrutiner ved endringer i avtalen. Dersom avtalen inneholder en prisgaranti, skal prisgarantiens varighet komme tydelig frem på fakturaen.
+5. Fakturaen skal opplyse om forbrukerens anledning til å fremme innsigelser mot fakturaen, herunder forbrukerens mulighet til å kontakte Elklagenemnda. Kontaktinformasjon til Elklagenemnda skal framgå av fakturaen.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1461](forskrift/2001-12-17-1461) (i kraft 1 jan 2002), [20 des 2010 nr. 1709](forskrift/2010-12-20-1709) (i kraft 1 jan 2011), [24 juni 2011 nr. 726](forskrift/2011-06-24-726) (i kraft 1 juli 2011, tidligere § 6-2), [20 des 2012 nr. 1390](forskrift/2012-12-20-1390) (i kraft 1 jan 2013), [26 juni 2015 nr. 801](forskrift/2015-06-26-801) (i kraft 1 jan 2016), [22 jan 2021 nr. 177](forskrift/2021-01-22-177) (i kraft 1 feb 2021), [4 okt 2022 nr. 1991](forskrift/2022-10-04-1991) (i kraft 1 nov 2022), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 jan 2024).
 
@@ -738,7 +922,16 @@ Kraftleverandøren skal varsle eksisterende kunder om endring i kraftleveringsav
 
 Nettselskap som tilbyr gjennomfakturering til forbrukere skal inngå en avtale om gjennomfakturering med kraftleverandør. Nettselskapet skal tilby samme avtale til alle kraftleverandører. Nettselskap skal gi kraftleverandør fullmakt til å opptre som nettselskapets representant for mottak av betaling av nettleie.
 
-En avtale om gjennomfakturering skal regulere følgende forhold:Nettselskap kan kreve sikkerhetsstillelse av kraftleverandør. I avtalen skal da følgende klausul benyttes: Kraftleverandør skal stille med en bankgaranti som sikkerhetsstillelse. Nettselskapet skal stille krav om et garantibeløp opp mot en øvre grense på 100 % av en landsgjennomsnittlig, månedlig nettleie for hvert av sine målepunkt tilknyttet forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren. Antall forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren skal oppdateres minst hvert kvartal. Den landsgjennomsnittlige, månedlige nettleien vil fastsettes årlig av Reguleringsmyndigheten for energi.Informasjonsutveksling ved gjennomfakturering skal skje ved bruk av de formater og protokoller, og innenfor de tidsrammer som er fastsatt av Systemstøtten for Ediel.Kraftleverandøren skal betale nettleien innen forfall til nettselskap. Nettselskapets forfallsdato skal settes til minst 20 kalenderdager etter fakturautstedelse.Forbrukerens betaling til kraftleverandør skal ha befriende virkning overfor nettselskap.Kraftleverandør skal betale nettleie på vegne av forbrukere, uavhengig av om det foregår en innbetaling fra forbruker til kraftleverandør.Utbetalinger tilknyttet avregning og fakturering av nettleie fra nettselskap til forbrukere skal sendes via kraftleverandør. Kraftleverandør skal utbetale tilgodebeløpet til forbrukeren senest ved sin førstkommende fakturautstedelse.Nettselskap kan si opp avtale om gjennomfakturering dersom kraftleverandøren innen 9 dager etter utstedt purring fra nettselskapet ikke har betalt utestående krav.Dersom kraftleverandør eller nettselskap ikke overholder gjeldende regelverk for felles fakturering, har partene adgang til å si opp avtalen om gjennomfakturering. Manglende overholdelse av gjeldende regelverk for felles fakturering skal anses som vesentlig mislighold av avtalen.
+En avtale om gjennomfakturering skal regulere følgende forhold:
+
+1. Nettselskap kan kreve sikkerhetsstillelse av kraftleverandør. I avtalen skal da følgende klausul benyttes: Kraftleverandør skal stille med en bankgaranti som sikkerhetsstillelse. Nettselskapet skal stille krav om et garantibeløp opp mot en øvre grense på 100 % av en landsgjennomsnittlig, månedlig nettleie for hvert av sine målepunkt tilknyttet forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren. Antall forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren skal oppdateres minst hvert kvartal. Den landsgjennomsnittlige, månedlige nettleien vil fastsettes årlig av Reguleringsmyndigheten for energi.
+2. Informasjonsutveksling ved gjennomfakturering skal skje ved bruk av de formater og protokoller, og innenfor de tidsrammer som er fastsatt av Systemstøtten for Ediel.
+3. Kraftleverandøren skal betale nettleien innen forfall til nettselskap. Nettselskapets forfallsdato skal settes til minst 20 kalenderdager etter fakturautstedelse.
+4. Forbrukerens betaling til kraftleverandør skal ha befriende virkning overfor nettselskap.
+5. Kraftleverandør skal betale nettleie på vegne av forbrukere, uavhengig av om det foregår en innbetaling fra forbruker til kraftleverandør.
+6. Utbetalinger tilknyttet avregning og fakturering av nettleie fra nettselskap til forbrukere skal sendes via kraftleverandør. Kraftleverandør skal utbetale tilgodebeløpet til forbrukeren senest ved sin førstkommende fakturautstedelse.
+7. Nettselskap kan si opp avtale om gjennomfakturering dersom kraftleverandøren innen 9 dager etter utstedt purring fra nettselskapet ikke har betalt utestående krav.
+8. Dersom kraftleverandør eller nettselskap ikke overholder gjeldende regelverk for felles fakturering, har partene adgang til å si opp avtalen om gjennomfakturering. Manglende overholdelse av gjeldende regelverk for felles fakturering skal anses som vesentlig mislighold av avtalen.
 
 > Tilføyd ved [forskrift 3 mai 2016 nr. 463](forskrift/2016-05-03-463) (i kraft 1 sep 2016), endret ved [forskrift 24 okt 2019 nr. 1437](forskrift/2019-10-24-1437) (i kraft 1 nov 2019).
 
@@ -774,7 +967,13 @@ Denne bestemmelsen gjelder fra og med døgnmarkedet går over til 15 minutters t
 
 ### § 8-1. Nettselskapets nøytralitet og informasjonsplikt
 
-Nettselskapet skal i enhver sammenheng opptre nøytralt overfor kraftleverandører og sluttbrukere, herunder når det gjelder:informasjon om kraftleverandører og kraftmarkedet,nyetablering av abonnement,oversendelse av måleverdier,valg av faktureringsrutiner,avregnings- og faktureringsplikt.
+Nettselskapet skal i enhver sammenheng opptre nøytralt overfor kraftleverandører og sluttbrukere, herunder når det gjelder:
+
+1. informasjon om kraftleverandører og kraftmarkedet,
+2. nyetablering av abonnement,
+3. oversendelse av måleverdier,
+4. valg av faktureringsrutiner,
+5. avregnings- og faktureringsplikt.
 
 Nettselskapet skal håndtere informasjon på en måte som gjør at kraftleverandører eller andre tjenesteleverandører ikke kan gis konkurransefortrinn.
 
@@ -804,7 +1003,19 @@ Nettselskapene skal utpeke en uavhengig nøytralitetsansvarlig som skal ha tilga
 
 ### § 8-1b. Nøytralitetsrapport
 
-Nettselskap som er omfattet av krav til selskapsmessig skille etter [energiloven § 4-6](lov/1990-06-29-50/§4-6), skal offentliggjøre en årlig nøytralitetsrapport innen tre måneder etter årsskiftet. Rapporten skal være lett tilgjengelig på selskapets nettsider i minst fem år og eventuelle endringer skal merkes på en tydelig måte. Rapporten skal som et minimum inneholde følgende:En beskrivelse av det integrerte foretakets struktur og hvilken konkurranseutsatt virksomhet som drives i tillegg til nettvirksomhet.Beskrivelse av eierskap til nettselskapet og eventuelle eierandeler nettselskapet har i andre selskap.Beskrivelse av type beslutninger hvor det er spesielt viktig å påse at krav til nøytral opptreden overholdes.Beskrivelse av type informasjon som genereres eller mottas av nettselskapet og som kan utnyttes i markedet.Oversikt over personer med flere roller i det integrerte foretaket, hvorav en av rollene er i nettselskapet. Beskrive mulige interessekonflikter og tiltak for å sikre nøytralitet.Beskrivelse av nøytralitetsansvarlig sin uavhengighet.Beskrivelse av nettselskapets opplæringsprogram, jf. [§ 8-1a](forskrift/1999-03-11-301/§8-1a).Beskrivelse av behov, omfang og type salg av egen kapasitet, herunder overskuddskapasitet, fibertjenester, driftssentraltjenester og beredskapstjenester.Dersom nettforetaket har felles driftssentral med integrert produsent eller fjernvarmeforetak, eller selger driftssentraltjenester, beskrive utfordringer og tiltak for å sikre nøytralitet.Oversikt over utfordringer, tiltak og resultat i konkrete saker fra foregående år der nøytralitet er tema, herunder klage- og tilsynssaker.De interne rutinene for nøytral opptreden skal fremgå av et vedlegg til årsrapporten.
+Nettselskap som er omfattet av krav til selskapsmessig skille etter [energiloven § 4-6](lov/1990-06-29-50/§4-6), skal offentliggjøre en årlig nøytralitetsrapport innen tre måneder etter årsskiftet. Rapporten skal være lett tilgjengelig på selskapets nettsider i minst fem år og eventuelle endringer skal merkes på en tydelig måte. Rapporten skal som et minimum inneholde følgende:
+
+1. En beskrivelse av det integrerte foretakets struktur og hvilken konkurranseutsatt virksomhet som drives i tillegg til nettvirksomhet.
+2. Beskrivelse av eierskap til nettselskapet og eventuelle eierandeler nettselskapet har i andre selskap.
+3. Beskrivelse av type beslutninger hvor det er spesielt viktig å påse at krav til nøytral opptreden overholdes.
+4. Beskrivelse av type informasjon som genereres eller mottas av nettselskapet og som kan utnyttes i markedet.
+5. Oversikt over personer med flere roller i det integrerte foretaket, hvorav en av rollene er i nettselskapet. Beskrive mulige interessekonflikter og tiltak for å sikre nøytralitet.
+6. Beskrivelse av nøytralitetsansvarlig sin uavhengighet.
+7. Beskrivelse av nettselskapets opplæringsprogram, jf. [§ 8-1a](forskrift/1999-03-11-301/§8-1a).
+8. Beskrivelse av behov, omfang og type salg av egen kapasitet, herunder overskuddskapasitet, fibertjenester, driftssentraltjenester og beredskapstjenester.
+9. Dersom nettforetaket har felles driftssentral med integrert produsent eller fjernvarmeforetak, eller selger driftssentraltjenester, beskrive utfordringer og tiltak for å sikre nøytralitet.
+10. Oversikt over utfordringer, tiltak og resultat i konkrete saker fra foregående år der nøytralitet er tema, herunder klage- og tilsynssaker.
+11. De interne rutinene for nøytral opptreden skal fremgå av et vedlegg til årsrapporten.
 
 > Tilføyd ved forskrift [22 jan 2021 nr. 177](forskrift/2021-01-22-177) (i kraft 1 feb 2021).
 

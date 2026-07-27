@@ -34,7 +34,12 @@ Ordningen skal omfatte Nordland, Troms og Finnmark fylker.
 
 ### § 3. Kriterier for måloppnåelse
 
-Måloppnåelsen skal vurderes etter følgende kriterier:antall bedrifter som samarbeider med forskningsmiljøer gjennom Mabit,antall næringsaktører som søker midler fra regionale, nasjonale og internasjonale program gjennom Mabit,antall næringsaktører som tildeles midler fra regionale, nasjonale og internasjonale program gjennom Mabit,antall nyetableringer, lisenser og patenter.
+Måloppnåelsen skal vurderes etter følgende kriterier:
+
+1. antall bedrifter som samarbeider med forskningsmiljøer gjennom Mabit,
+2. antall næringsaktører som søker midler fra regionale, nasjonale og internasjonale program gjennom Mabit,
+3. antall næringsaktører som tildeles midler fra regionale, nasjonale og internasjonale program gjennom Mabit,
+4. antall nyetableringer, lisenser og patenter.
 
 ## Kapittel II. Bestemmelser for søkere og mottakere av tilskuddsmidler
 
@@ -59,13 +64,37 @@ Forvalter må i forkant av en eventuell tildeling vurdere om kumulasjonsreglene 
 
 Søknaden skal sendes inn gjennom regionalforvaltning.no.
 
-Følgende opplysninger må oppgis eller beskrives i alle søknader.Opplysning om søkernavn på prosjektansvarlig/søker (juridisk enhet) og organisasjonsnummer,hvem som er kontaktperson, administrativt ansvarlig, prosjektleder, og forsker,CV fra sentrale deltakere i prosjektet.Økonomihvilket tilskuddsbeløp det søkes om,budsjett med kostnads- og finansieringsplan,om søker på søknadstidspunktet har mottatt eller søkt om annen offentlig støtte inneværende år.Beskrivelse av prosjektet og forventede resultaterprosjektet det søkes om tilskudd til, herunder mål og målgruppe,fremdriftsplan,organisering av prosjektet, herunder eventuelle samarbeidspartnere og hvilken rolle de skal ha,resultatene søker forventer å oppnå ved avslutning av prosjektet,i tillegg skal søker opplyse om andre forhold som de bør forstå er viktig for søknaden.
+Følgende opplysninger må oppgis eller beskrives i alle søknader.
+
+- Opplysning om søker
+
+  1. navn på prosjektansvarlig/søker (juridisk enhet) og organisasjonsnummer,
+  2. hvem som er kontaktperson, administrativt ansvarlig, prosjektleder, og forsker,
+  3. CV fra sentrale deltakere i prosjektet.
+- Økonomi
+
+  1. hvilket tilskuddsbeløp det søkes om,
+  2. budsjett med kostnads- og finansieringsplan,
+  3. om søker på søknadstidspunktet har mottatt eller søkt om annen offentlig støtte inneværende år.
+- Beskrivelse av prosjektet og forventede resultater
+
+  1. prosjektet det søkes om tilskudd til, herunder mål og målgruppe,
+  2. fremdriftsplan,
+  3. organisering av prosjektet, herunder eventuelle samarbeidspartnere og hvilken rolle de skal ha,
+  4. resultatene søker forventer å oppnå ved avslutning av prosjektet,
+  5. i tillegg skal søker opplyse om andre forhold som de bør forstå er viktig for søknaden.
 
 Forvalter kan kreve ytterligere dokumentasjon som er nødvendig for å vurdere søknaden.
 
 ### § 7. Tildelingskriterier
 
-Forvalter skal tildele midler etter en helhetlig kvalitetsvurdering av søknadene. Fagstyret gir forvalter faglig vurdering av søknadenes kvalitet og relevans. Følgende kriterier skal vektlegges:prosjektets kvalitet,prosjektets relevans sett i forhold til utlysningen,forventede virkninger og effekter av prosjektet, herunder skal også prosjektets bærekraft vurderes,gjennomføringsevne,forskning og innovasjonshøyde.
+Forvalter skal tildele midler etter en helhetlig kvalitetsvurdering av søknadene. Fagstyret gir forvalter faglig vurdering av søknadenes kvalitet og relevans. Følgende kriterier skal vektlegges:
+
+1. prosjektets kvalitet,
+2. prosjektets relevans sett i forhold til utlysningen,
+3. forventede virkninger og effekter av prosjektet, herunder skal også prosjektets bærekraft vurderes,
+4. gjennomføringsevne,
+5. forskning og innovasjonshøyde.
 
 Tilskuddet skal kun dekke kostnader som er nødvendige for å realisere prosjektet og formålet med ordningen. Forvalter kan legge til ytterligere tildelingskriterier i utlysningen.
 
@@ -111,8 +140,16 @@ Kommunal- og distriktsdepartementet kan legge til ytterligere årlige føringer 
 
 Oppdragsgiver har ansvaret for forvaltning av ordningen i tråd med gjeldende lover og regelverk. Oppdragsgiver er ansvarlige for å anskaffe forvalter gjennom regelverket for offentlige anskaffelser.
 
-Oppdragsgiver har videre ansvar for åi samråd med fagstyret i Mabit, gi årlige føringer til forvalter i oppdragsbrev om økonomisk ramme og prioriteringer,etablere rutiner for å sikre god internkontroll, slik at den som forvalter og departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfylt,føre tilsyn med at kravene i forskriften og i oppdragsbrevet blir fulgt opp,rapportere i departementets elektroniske forvaltningsportal, regionalforvaltning.no, hva som skal rapporteres til departementet vil framkomme av årlige oppdragsbrev,opprette et fagstyre på inntil fem medlemmer. Medlemmenes tjenestetid er fire år. Et styremedlem kan gjenoppnevnes én gang. Styrets medlemmer, herunder styrets leder og nestleder, oppnevnes av oppdragsgiver. Oppdragsgiver fastsetter godtgjørelsen til styrets medlemmer. Det skal etterstrebes kjønnsbalanse i styret.
-Fagstyrets sammensetning:fagstyret skal ha tre medlemmer fra næringsliv, og to medlemmer fra FoU-institusjoner.
+Oppdragsgiver har videre ansvar for å
+
+1. i samråd med fagstyret i Mabit, gi årlige føringer til forvalter i oppdragsbrev om økonomisk ramme og prioriteringer,
+2. etablere rutiner for å sikre god internkontroll, slik at den som forvalter og departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfylt,
+3. føre tilsyn med at kravene i forskriften og i oppdragsbrevet blir fulgt opp,
+4. rapportere i departementets elektroniske forvaltningsportal, regionalforvaltning.no, hva som skal rapporteres til departementet vil framkomme av årlige oppdragsbrev,
+5. opprette et fagstyre på inntil fem medlemmer. Medlemmenes tjenestetid er fire år. Et styremedlem kan gjenoppnevnes én gang. Styrets medlemmer, herunder styrets leder og nestleder, oppnevnes av oppdragsgiver. Oppdragsgiver fastsetter godtgjørelsen til styrets medlemmer. Det skal etterstrebes kjønnsbalanse i styret.
+   Fagstyrets sammensetning:
+
+   - fagstyret skal ha tre medlemmer fra næringsliv, og to medlemmer fra FoU-institusjoner.
 
 Nordland fylkeskommune og Troms og Finnmark fylkeskommune har observatørstatus i fagstyret. Fra 1. januar 2024 har Finnmark fylkeskommune observatørstatus.
 
@@ -120,16 +157,35 @@ Innovasjon Norge har observatørstatus i fagstyret.
 
 ### § 13. Fagstyrets oppgaver
 
-Styret for Mabit-programmet er et faglig styre med følgende oppgaver:gi en faglig vurdering av søknadenes kvalitet og relevans i forbindelse med forvalters tildeling av tilskudd, i samsvar med tildelingskriteriene i [§ 7](forskrift/2023-02-20-222/§7),gi innspill til forvalter om forslag til utlysningstekst og godkjenne utlysningstekst,gi innspill til oppdragsgiver om strategiske føringer for arbeidet med Mabit-programmet.
+Styret for Mabit-programmet er et faglig styre med følgende oppgaver:
+
+- gi en faglig vurdering av søknadenes kvalitet og relevans i forbindelse med forvalters tildeling av tilskudd, i samsvar med tildelingskriteriene i [§ 7](forskrift/2023-02-20-222/§7),
+- gi innspill til forvalter om forslag til utlysningstekst og godkjenne utlysningstekst,
+- gi innspill til oppdragsgiver om strategiske føringer for arbeidet med Mabit-programmet.
 
 ### § 14. Forvalters ansvar og oppgaver
 
-1. Utlysning av tilskuddsmidlerForvalter har ansvar for å lyse ut de søkbare tilskuddsmidlene på regionalforvaltning.no.
-2. SøknadsbehandlingForvalter har ansvar for søknadsbehandling og skal behandle søknadene i regionalforvaltning.no.
-3. Tildelinger av tilskuddForvalter skal forvalte midlene i samsvar med og innenfor rammen av denne forskriften, og treffe vedtak om tilskudd, jf. [§ 11](forskrift/2023-02-20-222/§11) første ledd.Forvalter fastsetter eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med vilkår i oppdragsbrev fra oppdragsgiver og forskrift for ordningen.Forvalter har ansvar for saksfremstilling til fagstyret.
-4. RapporteringForvalter skal rapportere til oppdragsgiver på kriterier for måloppnåelse, se [§ 3](forskrift/2023-02-20-222/§3).
+1. Utlysning av tilskuddsmidler
 
-Årlig rapportering skal også omfatteaktivitetsrapportering,økonomisk rapportering. Rapporteringen skal vise forvalters bruk av midler til administrasjon og gjennomføring.
+   Forvalter har ansvar for å lyse ut de søkbare tilskuddsmidlene på regionalforvaltning.no.
+2. Søknadsbehandling
+
+   Forvalter har ansvar for søknadsbehandling og skal behandle søknadene i regionalforvaltning.no.
+3. Tildelinger av tilskudd
+
+   Forvalter skal forvalte midlene i samsvar med og innenfor rammen av denne forskriften, og treffe vedtak om tilskudd, jf. [§ 11](forskrift/2023-02-20-222/§11) første ledd.
+
+   Forvalter fastsetter eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med vilkår i oppdragsbrev fra oppdragsgiver og forskrift for ordningen.
+
+   Forvalter har ansvar for saksfremstilling til fagstyret.
+4. Rapportering
+
+   Forvalter skal rapportere til oppdragsgiver på kriterier for måloppnåelse, se [§ 3](forskrift/2023-02-20-222/§3).
+
+Årlig rapportering skal også omfatte
+
+1. aktivitetsrapportering,
+2. økonomisk rapportering. Rapporteringen skal vise forvalters bruk av midler til administrasjon og gjennomføring.
 
 Oppdragsgiver kan gi nærmere føringer om forvalters rapportering i oppdragsbrevene.
 

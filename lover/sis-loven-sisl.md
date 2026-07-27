@@ -15,7 +15,7 @@ xml_hash: "5200cb54fa801a817ce27245363099956e8e76e0c22518ca63c5ff132d2b67b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32018R1860"
@@ -31,7 +31,23 @@ eu_basis:
 
 ### § 1. Gjennomføring av forordninger om Schengen informasjonssystem (SIS)
 
-Følgende forordninger gjelder som lov:Forordning [(EU) 2018/1862](eu/32018r1862) om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid (politisamarbeidsforordningen), som endret vedforordning [(EU) 2019/818](eu/32019r0818)forordning [(EU) 2021/1133](eu/32021r1133)forordning [(EU) 2021/1150](eu/32021r1150)forordning [(EU) 2022/1190](eu/32022r1190)Forordning [(EU) 2018/1861](eu/32018r1861) om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) på området inn- og utreisekontroll (grensekontrollforordningen), som endret vedforordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)Forordning [(EU) 2018/1860](eu/32018r1860) om bruk av Schengen-informasjonssystem i forbindelse med retur av tredjestatsborgere med ulovlig opphold (returforordningen), som endret vedforordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152).
+Følgende forordninger gjelder som lov:
+
+1. Forordning [(EU) 2018/1862](eu/32018r1862) om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid (politisamarbeidsforordningen), som endret ved
+
+   - forordning [(EU) 2019/818](eu/32019r0818)
+   - forordning [(EU) 2021/1133](eu/32021r1133)
+   - forordning [(EU) 2021/1150](eu/32021r1150)
+   - forordning [(EU) 2022/1190](eu/32022r1190)
+2. Forordning [(EU) 2018/1861](eu/32018r1861) om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) på området inn- og utreisekontroll (grensekontrollforordningen), som endret ved
+
+   - forordning [(EU) 2019/817](eu/32019r0817)
+   - forordning [(EU) 2021/1134](eu/32021r1134)
+   - forordning [(EU) 2021/1152](eu/32021r1152)
+3. Forordning [(EU) 2018/1860](eu/32018r1860) om bruk av Schengen-informasjonssystem i forbindelse med retur av tredjestatsborgere med ulovlig opphold (returforordningen), som endret ved
+
+   - forordning [(EU) 2021/1134](eu/32021r1134)
+   - forordning [(EU) 2021/1152](eu/32021r1152).
 
 > Endret ved lover [27 juni 2008 nr. 66](lov/2008-06-27-66) (ikr. 9 apr 2013 iflg. [res. 5 apr 2013 nr. 337](forskrift/2013-04-05-337)), [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876)), [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
 
@@ -83,7 +99,11 @@ For behandling av opplysninger etter grensekontrollforordningen og returforordni
 
 ### § 7. Opplysninger som kan behandles
 
-Det kan behandles opplysninger om personer som nevnt i:politisamarbeidsforordningen artikkel 20grensekontrollforordningen artikkel 20returforordningen artikkel 4.
+Det kan behandles opplysninger om personer som nevnt i:
+
+1. politisamarbeidsforordningen artikkel 20
+2. grensekontrollforordningen artikkel 20
+3. returforordningen artikkel 4.
 
 Om gjenstander kan det behandles opplysninger som nevnt i politisamarbeidsforordningen artikkel 38 eller annet betalingsmiddel som nevnt i artikkel 36 nr. 1.
 
@@ -91,7 +111,11 @@ Om gjenstander kan det behandles opplysninger som nevnt i politisamarbeidsforord
 
 ### § 8. Vilkår for å behandle opplysninger om personer og gjenstander
 
-Behandling av opplysninger om personer skal skje på de vilkår som fremgår av:politisamarbeidsforordningen artikkel 26, 32, 34, 36, 37 a og 40grensekontrollforordningen artikkel 24, 25 og 26returforordningen artikkel 3.
+Behandling av opplysninger om personer skal skje på de vilkår som fremgår av:
+
+1. politisamarbeidsforordningen artikkel 26, 32, 34, 36, 37 a og 40
+2. grensekontrollforordningen artikkel 24, 25 og 26
+3. returforordningen artikkel 3.
 
 Det kan behandles opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak, jf. politisamarbeidsforordningen artikkel 38, eller på vilkår som nevnt i artikkel 26 nr. 5, artikkel 32 nr. 8, artikkel 34 nr. 2, artikkel 36 eller artikkel 37 a nr. 12.
 
@@ -101,23 +125,39 @@ Registreringen av opplysninger i SIS må være besluttet av kompetent myndighet.
 
 ### § 9. Kobling mellom meldinger
 
-Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:politisamarbeidsforordningen artikkel 63grensekontrollforordningen artikkel 48returforordningen artikkel 19.
+Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:
+
+1. politisamarbeidsforordningen artikkel 63
+2. grensekontrollforordningen artikkel 48
+3. returforordningen artikkel 19.
 
 > Tilføyd ved lov [27 juni 2008 nr. 66](lov/2008-06-27-66) (ikr. 9 apr 2013 iflg. [res. 5 apr 2013 nr. 337](forskrift/2013-04-05-337)), endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 9a).
 
 ### § 10. Behandling av opplysninger til andre formål
 
-Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de som er fastsatt for den enkelte behandling, med mindre det er adgang til dette i samsvar med:politisamarbeidsforordningen artikkel 56 nr. 5grensekontrollforordningen artikkel 41 nr. 5returforordningen artikkel 19.
+Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de som er fastsatt for den enkelte behandling, med mindre det er adgang til dette i samsvar med:
+
+1. politisamarbeidsforordningen artikkel 56 nr. 5
+2. grensekontrollforordningen artikkel 41 nr. 5
+3. returforordningen artikkel 19.
 
 > Endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 11. Utveksling av opplysninger som ikke formidles via SIS (supplerende opplysninger)
 
-Opplysninger som ikke formidles via SIS (supplerende opplysninger), skal utveksles via SIRENE-kontoret. Supplerende opplysninger skal bare brukes for det formålet opplysningene er gitt for, med mindre det er innhentet forutgående samtykke fra den innmeldende staten som nevnt i:politisamarbeidsforordningen artikkel 8 nr. 2grensekontrollforordningen artikkel 8 nr. 2returforordningen artikkel 19.
+Opplysninger som ikke formidles via SIS (supplerende opplysninger), skal utveksles via SIRENE-kontoret. Supplerende opplysninger skal bare brukes for det formålet opplysningene er gitt for, med mindre det er innhentet forutgående samtykke fra den innmeldende staten som nevnt i:
+
+1. politisamarbeidsforordningen artikkel 8 nr. 2
+2. grensekontrollforordningen artikkel 8 nr. 2
+3. returforordningen artikkel 19.
 
 For behandlingen av supplerende opplysninger etter politisamarbeidsforordningen gjelder [politiregisterloven](lov/2010-05-28-16). For behandlingen av supplerende opplysninger etter grensekontrollforordningen og returforordningen gjelder [personopplysningsloven](lov/2018-06-15-38), med mindre det er fastsatt i eller i medhold av [politiregisterloven](lov/2010-05-28-16) at opplysningene som skal utveksles, reguleres av [politiregisterloven](lov/2010-05-28-16).
 
-Supplerende opplysninger skal slettes i samsvar med:politisamarbeidsforordningen artikkel 64grensekontrollforordningen artikkel 49returforordningen artikkel 19.
+Supplerende opplysninger skal slettes i samsvar med:
+
+1. politisamarbeidsforordningen artikkel 64
+2. grensekontrollforordningen artikkel 49
+3. returforordningen artikkel 19.
 
 > Endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [28 apr 2006 nr. 11](lov/2006-04-28-11) (ikr. 28 apr 2006 iflg. [res. 28 apr 2006 nr. 451](forskrift/2006-04-28-451)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
@@ -127,7 +167,15 @@ Supplerende opplysninger skal slettes i samsvar med:politisamarbeidsforordningen
 
 ### § 12. Tilgang til SIS
 
-Følgende myndigheter skal ha tilgang (adgang til direkte søk) til SIS:politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll og annen kontrollpåtale- og politimyndighetutlendingsmyndighet, for formål som nevnt i politisamarbeidsforordningen artikkel 44 nr. 1 bokstav d og nr. 2, grensekontrollforordningen artikkel 34 nr. 1 bokstav d og f og nr. 2 og returforordningen artikkel 19myndighet med ansvar for registrering av kjøretøyer, til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 45myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv., til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 46myndighet med ansvar for å utstede løyve for skytevåpen til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 47myndighet med ansvar for å gjennomføre oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6).
+Følgende myndigheter skal ha tilgang (adgang til direkte søk) til SIS:
+
+1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll og annen kontroll
+2. påtale- og politimyndighet
+3. utlendingsmyndighet, for formål som nevnt i politisamarbeidsforordningen artikkel 44 nr. 1 bokstav d og nr. 2, grensekontrollforordningen artikkel 34 nr. 1 bokstav d og f og nr. 2 og returforordningen artikkel 19
+4. myndighet med ansvar for registrering av kjøretøyer, til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 45
+5. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv., til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 46
+6. myndighet med ansvar for å utstede løyve for skytevåpen til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 47
+7. myndighet med ansvar for å gjennomføre oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [grenseloven § 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6).
 
 Tilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter opplysninger som er nødvendige for å ivareta deres oppgaver.
 
@@ -135,7 +183,17 @@ Tilgang til registeret skal kun gis til personer som har fått særskilt bemyndi
 
 ### § 13. Utlevering av opplysninger fra SIS
 
-Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:politi- og tollmyndighet samt Kystvakten når de utøver grensekontrollpoliti- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighetpåtale- og politimyndighetutlendingsmyndighet i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 3veimyndighet i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 4myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv. i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 5myndighet med ansvar for å utstede løyve for skytevåpen i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 6myndigheter som kan ha oppgaver i tilknytning til politisamarbeidsforordningen artikkel 32departementet og Politidirektoratet i forbindelse med utøvelse av overordnet myndighet.
+Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:
+
+1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll
+2. politi- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighet
+3. påtale- og politimyndighet
+4. utlendingsmyndighet i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 3
+5. veimyndighet i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 4
+6. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv. i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 5
+7. myndighet med ansvar for å utstede løyve for skytevåpen i saker som nevnt i [§ 12](lov/1999-07-16-66/§12) første ledd nr. 6
+8. myndigheter som kan ha oppgaver i tilknytning til politisamarbeidsforordningen artikkel 32
+9. departementet og Politidirektoratet i forbindelse med utøvelse av overordnet myndighet.
 
 Det kan bare utleveres opplysninger som er nødvendige for å ivareta mottakerens oppgaver.
 

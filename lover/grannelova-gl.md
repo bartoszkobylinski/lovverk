@@ -15,7 +15,7 @@ xml_hash: "4078eee5de8713f37686712b8703d2c0f1e3ee8a003d79f306e0a8d29142ab7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,12 @@ Denne paragrafen minkar ikkje den retten nokon har til skadebot etter dei elles 
 
 ### § 10
 
-Tilstand eller tilhøve som strider mot nokor føresegn i §§ 2-5, har grannen krav på vert retta. Dette gjeld likevel ikkje:når tiltaket er fremja i samsvar med avgjerd etter [§ 7](lov/1961-06-16-15/§7), jf. [§ 8](lov/1961-06-16-15/§8),når det er gjort vedtak om eller gjeve samtykke til oreigning av grunn til tiltaket, eller når slik oreigningsrett fylgjer direkte av lova, ellerså langt [forurensingslova av 13. mars 1981 nr. 6 § 10](lov/1981-03-13-6/§10) andre stykket gjer unntak frå rettingsskyldnaden.så langt [vannressursloven § 6](lov/2000-11-24-82/§6) tredje ledd gjer unntak frå rettingsskyldnaden.
+Tilstand eller tilhøve som strider mot nokor føresegn i §§ 2-5, har grannen krav på vert retta. Dette gjeld likevel ikkje:
+
+1. når tiltaket er fremja i samsvar med avgjerd etter [§ 7](lov/1961-06-16-15/§7), jf. [§ 8](lov/1961-06-16-15/§8),
+2. når det er gjort vedtak om eller gjeve samtykke til oreigning av grunn til tiltaket, eller når slik oreigningsrett fylgjer direkte av lova, eller
+3. så langt [forurensingslova av 13. mars 1981 nr. 6 § 10](lov/1981-03-13-6/§10) andre stykket gjer unntak frå rettingsskyldnaden.
+4. så langt [vannressursloven § 6](lov/2000-11-24-82/§6) tredje ledd gjer unntak frå rettingsskyldnaden.
 
 I tilfelle då rettinga kom til å valde så store utlegg eller tap elles at det klårt stod i mishøve til gagnet, kan det gjerast unntak frå rettingsskyldnaden når det ikkje er noko nemnande å leggja tiltakshavaren til last, på det vilkår at grannen får vederlag som ikkje må setjast mindre enn skaden eller ulempa.
 
@@ -156,7 +161,10 @@ Avgjerda høyrer under granneskjøn.
 
 Ved skade og ulempe skal erstatningen eller vederlaget som hovudregel setjast til ein sum pengar ein gong for alltid (ein eingongssum).
 
-Ved personskade gjeld [skadeerstatningslova § 3-9](lov/1969-06-13-26/§3-9) om terminvise ytingar. For annan skade, ulempe eller tap kan retten fastsetja at erstatningen eller vederlaget heilt eller delvis skal svarast i terminvise ytingar dersom:det er uvisst kor lenge tidsavgrensa verksemd vil føre til skade, ulempe eller tap, ellerdet er grunn til å rekna med at skaden, ulempa eller tapet innan rimeleg tid vil verta vesentleg redusert.
+Ved personskade gjeld [skadeerstatningslova § 3-9](lov/1969-06-13-26/§3-9) om terminvise ytingar. For annan skade, ulempe eller tap kan retten fastsetja at erstatningen eller vederlaget heilt eller delvis skal svarast i terminvise ytingar dersom:
+
+1. det er uvisst kor lenge tidsavgrensa verksemd vil føre til skade, ulempe eller tap, eller
+2. det er grunn til å rekna med at skaden, ulempa eller tapet innan rimeleg tid vil verta vesentleg redusert.
 
 Retten kan og fastsetja terminvise erstatningar eller vederlag som skal gjelda inntil vidare dersom det er uvisst kva for omfang skaden, ulempa eller tapet vil få, og retten difor gjer vedtak om å venta ei bestemt tid med å fastsetja den endelege erstatningen. Kvar av partane kan likevel krevja at retten med ein gong målar ut erstatning eller vederlag for det tap som let seg gjera å fastslå med det same.
 
@@ -231,7 +239,11 @@ Granneskjøn er rettsleg skjøn.
 ### § 24
 
 1. Denne lova gjeld frå den tid Kongen fastset.1
-2. Frå den tid denne lova tek til å gjelda vert det gjort desse brigde i andre lover:– – –Føresegna i [§ 10](lov/1961-06-16-15/§10), andre stykket fyrste punktum, gjeld på tilsvarande måte for tiltak som er fremja i samsvar med granneskjøn etter [§§ 13](lov/1961-06-16-15/§13) og [14](lov/1961-06-16-15/§14) i grannelova frå 27. mai 1887.
+2. Frå den tid denne lova tek til å gjelda vert det gjort desse brigde i andre lover:
+
+   – – –
+
+   Føresegna i [§ 10](lov/1961-06-16-15/§10), andre stykket fyrste punktum, gjeld på tilsvarande måte for tiltak som er fremja i samsvar med granneskjøn etter [§§ 13](lov/1961-06-16-15/§13) og [14](lov/1961-06-16-15/§14) i grannelova frå 27. mai 1887.
 3. Kongen kan gjeva nærare føresegner til gjennomføring av denne lova.
 
 > Endra med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).

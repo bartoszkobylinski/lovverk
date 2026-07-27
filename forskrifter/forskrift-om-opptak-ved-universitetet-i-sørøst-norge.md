@@ -92,7 +92,11 @@ Faglig kvalifiserte søkere rangeres etter innstilling fra partnerbedrift.
 
 ## § 8. Rangering til eksternfinansiert utdanning
 
-(1) Søkere rangeres etter en av følgende:søknadstidspunkti henhold til [§ 4](forskrift/2023-12-13-2111/§4)i henhold til [§ 7](forskrift/2023-12-13-2111/§7).
+(1) Søkere rangeres etter en av følgende:
+
+1. søknadstidspunkt
+2. i henhold til [§ 4](forskrift/2023-12-13-2111/§4)
+3. i henhold til [§ 7](forskrift/2023-12-13-2111/§7).
 
 (2) Søkere til studier som finansieres av ekstern aktør, kan rangeres etter avtale med oppdragsgiver.
 
@@ -106,13 +110,22 @@ Faglig kvalifiserte søkere rangeres etter innstilling fra partnerbedrift.
 
 ## § 10. Rangering av søkere til praktisk-pedagogisk utdanning
 
-Ved opptak til praktisk-pedagogisk utdanning skal kvalifiserte søkere rangeres etter følgende kriteriersøkere med fullført mastergrad fra universitet eller høyskolesøkere med to undervisningsfag som Universitetet i Sørøst-Norge tilbyr fagdidaktikk iandre kvalifiserte søkere.
+Ved opptak til praktisk-pedagogisk utdanning skal kvalifiserte søkere rangeres etter følgende kriterier
+
+1. søkere med fullført mastergrad fra universitet eller høyskole
+2. søkere med to undervisningsfag som Universitetet i Sørøst-Norge tilbyr fagdidaktikk i
+3. andre kvalifiserte søkere.
 
 > Endret ved forskrift [30 jan 2026 nr. 126](forskrift/2026-01-30-126) (i kraft 1 feb 2026).
 
 ## § 11. Opptak og rangering til forkurs for ingeniør- og sivilingeniørutdanning
 
-(1) For å være kvalifisert for forkurs må en av følgende krav være oppfylt:Avlagt og bestått fag- eller svenneprøveBestått Vg1 og Vg2 fra yrkesfaglige studieretninger i norsk/nordisk videregående skolefylt 18 år eller mer det året det søkes opptak til og kan dokumentere minst 5 års fulltid arbeidspraksis og/eller utdanning på nivå over grunnskolegenerell studiekompetanse.
+(1) For å være kvalifisert for forkurs må en av følgende krav være oppfylt:
+
+1. Avlagt og bestått fag- eller svenneprøve
+2. Bestått Vg1 og Vg2 fra yrkesfaglige studieretninger i norsk/nordisk videregående skole
+3. fylt 18 år eller mer det året det søkes opptak til og kan dokumentere minst 5 års fulltid arbeidspraksis og/eller utdanning på nivå over grunnskole
+4. generell studiekompetanse.
 
 (2) Søkere i gruppe a og b rangeres etter karakterpoeng fra Vg1 og Vg2. Kvalifiserte søkere som ikke kan poengberegnes rangeres etter en skjønnsmessig vurdering.
 
@@ -134,7 +147,11 @@ Ved opptak til praktisk-pedagogisk utdanning skal kvalifiserte søkere rangeres 
 
 (1) Fakultetene kan fastsette opptakskrav i form av opptaksprøve, i tillegg til øvrige opptakskrav.
 
-(2) Studier med opptaksprøver kan rangeres på en av følgende måter:poengberegning etter [§ 3](forskrift/2023-12-13-2111/§3),opptaksprøve,poengberegning etter [§ 3](forskrift/2023-12-13-2111/§3) og opptaksprøve.
+(2) Studier med opptaksprøver kan rangeres på en av følgende måter:
+
+1. poengberegning etter [§ 3](forskrift/2023-12-13-2111/§3),
+2. opptaksprøve,
+3. poengberegning etter [§ 3](forskrift/2023-12-13-2111/§3) og opptaksprøve.
 
 (3) Ved bruk av poengberegning og opptaksprøve etter annet ledd bokstav c skal forholdet mellom poengberegning og opptaksprøve være likt.
 
@@ -152,7 +169,10 @@ Ved opptak til praktisk-pedagogisk utdanning skal kvalifiserte søkere rangeres 
 
 ## § 15. Betinget opptak
 
-(1) Det kan gis betinget opptaktil søkere som mangler inntil 20 studiepoeng hvis det er forhold utenfor søkerens kontroll som har medvirket til at eksamen som inngår i kravet for opptak ikke er avlagt eller har blitt sensurert.til søkere som har fullført grunnutdanning, men mangler fagkrav som er oppgitt som spesielle opptakskrav. Dette gjelder kun der det er færre søkere enn antall studieplasser.
+(1) Det kan gis betinget opptak
+
+1. til søkere som mangler inntil 20 studiepoeng hvis det er forhold utenfor søkerens kontroll som har medvirket til at eksamen som inngår i kravet for opptak ikke er avlagt eller har blitt sensurert.
+2. til søkere som har fullført grunnutdanning, men mangler fagkrav som er oppgitt som spesielle opptakskrav. Dette gjelder kun der det er færre søkere enn antall studieplasser.
 
 (2) Betinget opptak forutsetter at manglende eksamener avlegges og bestås innen fastsatt frist. Et eventuelt krav om vektet karaktergjennomsnitt på C eller bedre må oppfylles.
 
@@ -190,7 +210,13 @@ Søknadsfrister til studier som følger av denne forskrift fastsettes av rektor.
 
 (3) Søknadsfrist er 3 uker etter mottatt tilbud om studieplass.
 
-(4) Følgende søkere kan som hovedregel ikke innvilges reservert studieplasssøkere som er innvilget betinget opptak etter § 14søkere utenfor EU/EØSsøkere til industrimaster- og næringsmastersøkere til opptak til 2. eller 3. året.søkere gjennom stipendordninger.
+(4) Følgende søkere kan som hovedregel ikke innvilges reservert studieplass
+
+1. søkere som er innvilget betinget opptak etter § 14
+2. søkere utenfor EU/EØS
+3. søkere til industrimaster- og næringsmaster
+4. søkere til opptak til 2. eller 3. året.
+5. søkere gjennom stipendordninger.
 
 (5) Det skal ikke innvilges reservert studieplass til søkere på eksternfinansiert utdanning.
 
@@ -214,7 +240,11 @@ Studenter ved Universitetet i Sørøst-Norge og andre utdanningsinstitusjoner ka
 
 (2) Den faglige vurderingen av en opptaksprøve kan ikke påklages.
 
-(3) Følgende saker behandles av nemnda for studentsaker ved Universitet i Sørøst-Norge:klage på enkeltvedtak som er gjort med hjemmel i denne forskriften,klage på vedtak om opptak på grunnlag av realkompetanseklage vedtak om opptak etter at det er gitt dispensasjon fra enkelte av krava om generell studiekompetanse.
+(3) Følgende saker behandles av nemnda for studentsaker ved Universitet i Sørøst-Norge:
+
+1. klage på enkeltvedtak som er gjort med hjemmel i denne forskriften,
+2. klage på vedtak om opptak på grunnlag av realkompetanse
+3. klage vedtak om opptak etter at det er gitt dispensasjon fra enkelte av krava om generell studiekompetanse.
 
 > Endret ved forskrift [30 jan 2026 nr. 126](forskrift/2026-01-30-126) (i kraft 1 feb 2026, tidligere § 20).
 

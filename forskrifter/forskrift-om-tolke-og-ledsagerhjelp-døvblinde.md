@@ -30,7 +30,13 @@ Retten til stønad til tolke- og ledsagerhjelp for døvblinde faller bort i den 
 
 En døvblind er en person som har en så alvorlig grad av kombinert syns- og hørselshemming at evnen til å ferdes ute og evnen til å kommunisere med andre på egen hånd eller ved hjelp av egnede hjelpemidler er vesentlig innskrenket.
 
-Utgifter til tolke- og ledsagerhjelp kan dekkes for at den døvblinde skal kunnefungere i dagliglivetfungere i høvelig arbeid,gjennomføre opplæring for å bedre funksjonsevnen i dagliglivet etter [lov om folketrygd § 10-7](lov/1997-02-28-19/§10-7) tredje ledd,gjennomføre utdanning, opplæring eller arbeidstrening med sikte på å skaffe seg eller beholde høvelig arbeid,motta helsetjenester som omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og poliklinisk undersøkelse og behandling gitt av helseforetak.
+Utgifter til tolke- og ledsagerhjelp kan dekkes for at den døvblinde skal kunne
+
+1. fungere i dagliglivet
+2. fungere i høvelig arbeid,
+3. gjennomføre opplæring for å bedre funksjonsevnen i dagliglivet etter [lov om folketrygd § 10-7](lov/1997-02-28-19/§10-7) tredje ledd,
+4. gjennomføre utdanning, opplæring eller arbeidstrening med sikte på å skaffe seg eller beholde høvelig arbeid,
+5. motta helsetjenester som omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og poliklinisk undersøkelse og behandling gitt av helseforetak.
 
 Utgifter dekkes i den utstrekning de er nødvendige.
 

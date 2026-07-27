@@ -24,7 +24,10 @@ eu_basis: []
 
 ## I
 
-Helse- og omsorgsdepartementet kan, innenfor rammene av [smittevernloven § 7-12](lov/1994-08-05-55/§7-12), ved fare for etablert midlertidig eller permanent avbrudd i forsyningen av legemidler eller utstyr som følge av utbrudd av eller fare for utbrudd av koronavirus og for å sikre forsyningen,pålegge grossister og andre som driver engrosomsetning rapporteringsplikt på lagerbeholdning og restriksjoner på salg, utlevering og eksport av legemidler og utstyrpålegge apotek og detaljister restriksjoner på salg og utlevering av legemidler og utstyr.
+Helse- og omsorgsdepartementet kan, innenfor rammene av [smittevernloven § 7-12](lov/1994-08-05-55/§7-12), ved fare for etablert midlertidig eller permanent avbrudd i forsyningen av legemidler eller utstyr som følge av utbrudd av eller fare for utbrudd av koronavirus og for å sikre forsyningen,
+
+1. pålegge grossister og andre som driver engrosomsetning rapporteringsplikt på lagerbeholdning og restriksjoner på salg, utlevering og eksport av legemidler og utstyr
+2. pålegge apotek og detaljister restriksjoner på salg og utlevering av legemidler og utstyr.
 
 ## II
 

@@ -15,7 +15,7 @@ xml_hash: "857206e3d60d4eef6a61b2818d17aabad7545d67e25eca1a8fc4f47422003fcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -160,7 +160,15 @@ Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på 
 
 ### § 4-1. Eksamens- og vurderingsformer
 
-(1) Ved skolens utdanninger benyttes følgende eksamens- og vurderingsordninger:Skriftlig skoleeksamenHjemmeeksamenMuntlig eksamenMappevurderingDigital eksamenFag-, emne- og prosjektoppgaverPraksis.
+(1) Ved skolens utdanninger benyttes følgende eksamens- og vurderingsordninger:
+
+1. Skriftlig skoleeksamen
+2. Hjemmeeksamen
+3. Muntlig eksamen
+4. Mappevurdering
+5. Digital eksamen
+6. Fag-, emne- og prosjektoppgaver
+7. Praksis.
 
 (2) Det vil fremgå av den enkelte studieplan hvilke eksamens- og vurderingsformer som benyttes i den enkelte utdanning.
 
@@ -193,13 +201,26 @@ Skolen kan i reglement fastsette utfyllende bestemmelser om eksamens- og vurderi
 
 (6) Skolen dokumenterer fullført og bestått fagskoleutdanning med vitnemål. Utstedelse av vitnemål forutsetter at studieavgiften er betalt i sin helhet. Skolen utsteder kun ett vitnemål til hver student. Det vil påløpe avgift ved bestilling av nytt vitnemål (duplikat).
 
-(7) Vitnemålet skal dokumentere:Hvilken fagskole som har utstedt vitnemåletDet overordnede læringsutbyttetEmner og eventuell praksisNKR-nivå og kvalifikasjonen som oppnås (fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (karakterskala (A–F) eller bestått/ikke bestått (B/IB))OmfangKarakter(er)Gradsbetegnelse.
+(7) Vitnemålet skal dokumentere:
+
+1. Hvilken fagskole som har utstedt vitnemålet
+2. Det overordnede læringsutbyttet
+3. Emner og eventuell praksis
+4. NKR-nivå og kvalifikasjonen som oppnås (fagskole 1 eller fagskole 2)
+5. Karaktersystemet som benyttes (karakterskala (A–F) eller bestått/ikke bestått (B/IB))
+6. Omfang
+7. Karakter(er)
+8. Gradsbetegnelse.
 
 > Endret ved [forskrift 27 feb 2020 nr. 545](forskrift/2020-02-27-545) (i kraft 1 april 2020).
 
 ### § 4-4. Vilkår for å avlegge eksamen
 
-Studenten har rett til å avlegge avsluttende eksamen når hun/han har:Signert studiekontraktenBetalt studieavgiftBestått alle obligatoriske arbeidskrav.
+Studenten har rett til å avlegge avsluttende eksamen når hun/han har:
+
+1. Signert studiekontrakten
+2. Betalt studieavgift
+3. Bestått alle obligatoriske arbeidskrav.
 
 ### § 4-5. Informasjon om og oppmelding til eksamen
 
@@ -273,7 +294,13 @@ Studenten har rett til å avlegge avsluttende eksamen når hun/han har:Signert s
 
 (1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents kunnskaper eller ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte.
 
-(2) Eksempler på fusk er:Tilgang til urettmessige hjelpemidler under eksamen eller prøve.Innlevere en besvarelse som helt eller delvis er utarbeidet av en annen person.Levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøve.Levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten selv.Gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra internett osv. som er fremstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater.
+(2) Eksempler på fusk er:
+
+1. Tilgang til urettmessige hjelpemidler under eksamen eller prøve.
+2. Innlevere en besvarelse som helt eller delvis er utarbeidet av en annen person.
+3. Levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøve.
+4. Levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten selv.
+5. Gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra internett osv. som er fremstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater.
 
 (3) Ved skriftlig eksamen i skolens eller andre godkjente lokaler vil fusk eller forsøk på fusk medføre at eksamensinspektøren sender en skriftlig rapport til skolens administrasjon.
 

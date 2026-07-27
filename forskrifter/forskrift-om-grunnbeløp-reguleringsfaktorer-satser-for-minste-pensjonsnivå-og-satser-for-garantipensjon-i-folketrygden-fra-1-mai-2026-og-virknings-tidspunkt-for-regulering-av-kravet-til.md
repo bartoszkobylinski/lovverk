@@ -32,7 +32,13 @@ Reguleringsfaktoren etter [§ 19-14 første ledd](lov/1997-02-28-19/§19-14/ledd
 
 ## § 3.
 
-Fra 1. mai 2026 fastsettes satsene for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje til sjette ledd slik:Lav sats etter tredje ledd fastsettes til 209 531 kronerOrdinær sats etter fjerde ledd fastsettes til 242 509 kronerHøy sats etter femte ledd fastsettes til 255 191 kronerSærskilt sats etter sjette ledd bokstav a fastsettes til 293 062 kronerSærskilt sats etter sjette ledd bokstav b fastsettes til 397 215 kroner
+Fra 1. mai 2026 fastsettes satsene for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje til sjette ledd slik:
+
+1. Lav sats etter tredje ledd fastsettes til 209 531 kroner
+2. Ordinær sats etter fjerde ledd fastsettes til 242 509 kroner
+3. Høy sats etter femte ledd fastsettes til 255 191 kroner
+4. Særskilt sats etter sjette ledd bokstav a fastsettes til 293 062 kroner
+5. Særskilt sats etter sjette ledd bokstav b fastsettes til 397 215 kroner
 
 > **Endres** ved forskrift [23 juni 2026 nr. 1239](forskrift/2026-06-23-1239) (i kraft 1 sept 2026 med virkning fra 1 mai 2026 og 1 jan 2027, se [endringsforskriftens del II](forskrift/2026-06-23-1239/kapII)).
 

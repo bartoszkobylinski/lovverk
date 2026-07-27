@@ -26,7 +26,12 @@ eu_basis: []
 
 ### I
 
-Justis- og politidepartementet gis ansvar for forvaltning av følgende lover:[Lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)[Lov av 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr[Lov av 21. mai 1971 nr. 47](lov/1971-05-21-47) om brannfarlige varer samt væsker og gasser under trykk[Lov av 14. juni 1974 nr. 39](lov/1974-06-14-39) om eksplosive varer.
+Justis- og politidepartementet gis ansvar for forvaltning av følgende lover:
+
+1. [Lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)
+2. [Lov av 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr
+3. [Lov av 21. mai 1971 nr. 47](lov/1971-05-21-47) om brannfarlige varer samt væsker og gasser under trykk
+4. [Lov av 14. juni 1974 nr. 39](lov/1974-06-14-39) om eksplosive varer.
 
 ### II
 

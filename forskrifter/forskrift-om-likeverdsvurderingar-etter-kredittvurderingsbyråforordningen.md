@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Likeverdsvurderingar etter forordning [(EF) nr. 1060/2009](eu/32009r1060*) (kredittvurderingsbyråforordningen)
 
-Følgjande avgjerder gjeld som forskrift med dei tilpassingane som følgjer av EØS-avtala vedlegg IX, protokoll 1 og avtala elles:EØS-avtala vedlegg IX avgjerd (EU) [2019/1279](eu/32019d1279) (om anerkjennelse av De forente staters rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),EØS-avtala vedlegg IX avgjerd (EU) [2019/1280](eu/32019d1280) (om anerkjennelse av Mexicos rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),EØS-avtala vedlegg IX avgjerd (EU) [2019/1283](eu/32019d1283) (om anerkjennelse av Japans rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),EØS-avtala vedlegg IX avgjerd (EU) [2019/1284](eu/32019d1284) (om anerkjennelse av Hongkongs rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer).
+Følgjande avgjerder gjeld som forskrift med dei tilpassingane som følgjer av EØS-avtala vedlegg IX, protokoll 1 og avtala elles:
+
+1. EØS-avtala vedlegg IX avgjerd (EU) [2019/1279](eu/32019d1279) (om anerkjennelse av De forente staters rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),
+2. EØS-avtala vedlegg IX avgjerd (EU) [2019/1280](eu/32019d1280) (om anerkjennelse av Mexicos rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),
+3. EØS-avtala vedlegg IX avgjerd (EU) [2019/1283](eu/32019d1283) (om anerkjennelse av Japans rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer),
+4. EØS-avtala vedlegg IX avgjerd (EU) [2019/1284](eu/32019d1284) (om anerkjennelse av Hongkongs rettslige og tilsynsmessige rammer som likeverdige med kravene i europaparlaments- og rådsforordning [(EF) nr. 1060/2009](eu/32009r1060*) om kredittvurderingsbyråer).
 
 ## § 2. Ikraftsetjing
 

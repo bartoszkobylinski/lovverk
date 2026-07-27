@@ -34,7 +34,11 @@ Tilskudd etter forskriften kan gis til foretak som oppfyller vilkårene for å m
 
 ## § 3. Tilskudd på grunnlag av godkjent produksjons- og avløsertilskudd for 2021
 
-Det kan gis tilskudd forslaktegris, rugeegg, slaktet gås, slaktet kalkun, slaktet and, kylling solgt som livdyr, kalkun solgt som livdyr, slaktekylling og bifolk etter satser i tabell 7.19 i jordbruksavtalen 2022–2023,arealer med de vekstgrupper og de satser som fremgår av tabell 7.18 i jordbruksavtalen 2022–2023, ogveksthusgrønnsaker og salat på friland etter satser i tabell 7.17 i jordbruksavtalen 2022–2023.
+Det kan gis tilskudd for
+
+1. slaktegris, rugeegg, slaktet gås, slaktet kalkun, slaktet and, kylling solgt som livdyr, kalkun solgt som livdyr, slaktekylling og bifolk etter satser i tabell 7.19 i jordbruksavtalen 2022–2023,
+2. arealer med de vekstgrupper og de satser som fremgår av tabell 7.18 i jordbruksavtalen 2022–2023, og
+3. veksthusgrønnsaker og salat på friland etter satser i tabell 7.17 i jordbruksavtalen 2022–2023.
 
 Tilskudd etter første ledd kan gis til foretak som fikk godkjent søknad om produksjons- og avløsertilskudd for 2021. Tilskuddet baseres på godkjente verdier i vedtaket.
 
@@ -46,7 +50,11 @@ For at et foretak skal kunne motta tilskudd etter første ledd, må dyrene være
 
 ## § 5. Tilskudd til foretak som ikke mottar tilskudd etter § 3
 
-Til foretak som ikke mottok tilskudd etter [§ 3](forskrift/2022-07-01-1280/§3) første ledd, kan det gis tilskudd med grunnlag i foretakets godkjente opplysninger i forbindelse med vedtak om produksjons- og avløsertilskudd som gjelder søknad for søknadsåret 2022, forslaktegris, rugeegg, slaktet gås, slaktet kalkun, slaktet and, kylling solgt som livdyr, kalkun solgt som livdyr, slaktekylling og bifolk etter satser i tabell 7.19 i jordbruksavtalen 2022–2023,arealer med de vekstgrupper og de satser som fremgår av tabell 7.18 i jordbruksavtalen 2022–2023, ogveksthusgrønnsaker og salat på friland etter satser i tabell 7.17 i jordbruksavtalen 2022–2023.
+Til foretak som ikke mottok tilskudd etter [§ 3](forskrift/2022-07-01-1280/§3) første ledd, kan det gis tilskudd med grunnlag i foretakets godkjente opplysninger i forbindelse med vedtak om produksjons- og avløsertilskudd som gjelder søknad for søknadsåret 2022, for
+
+1. slaktegris, rugeegg, slaktet gås, slaktet kalkun, slaktet and, kylling solgt som livdyr, kalkun solgt som livdyr, slaktekylling og bifolk etter satser i tabell 7.19 i jordbruksavtalen 2022–2023,
+2. arealer med de vekstgrupper og de satser som fremgår av tabell 7.18 i jordbruksavtalen 2022–2023, og
+3. veksthusgrønnsaker og salat på friland etter satser i tabell 7.17 i jordbruksavtalen 2022–2023.
 
 ## § 6. Korrigering av tilskudd etter denne forskriften
 

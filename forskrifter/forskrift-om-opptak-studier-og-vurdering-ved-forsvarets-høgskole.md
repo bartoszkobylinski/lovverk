@@ -15,7 +15,7 @@ xml_hash: "c718a1dc0acb16e7ba0eb362459d5c36f6567510234d84aa619d3f133ef1eb2f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ Forsvarets høgskole kan tilby årsstudium, enkeltemner, samt etter- og videreut
 
 ### § 2-2. Grader
 
-Forsvarets høgskole gir bachelorgrader i:militære studier,ingeniørfag ogspråk- og etterretning.
+Forsvarets høgskole gir bachelorgrader i:
+
+1. militære studier,
+2. ingeniørfag og
+3. språk- og etterretning.
 
 Søknad om fritt sammensatt bachelor etter [§ 2-2](forskrift/2023-02-14-198/§2-2) c kan gi bachelorgrad i språk- og samfunnsfag eller militære studier.
 
@@ -68,7 +72,16 @@ Forsvarets høgskole gir halvårsstudium og årsstudium i ledelse og militære o
 
 Graden bachelor oppnås på grunnlag av studieprogram av 180 studiepoengs omfang.
 
-Grunnlaget for bachelorgraden skal omfatte ett av følgende:Integrert utdanning eller annet studieprogram av 180 studiepoengs omfang etter fag- eller studieplan fastsatt av styret.Integrert utdanning av 120 studiepoengs omfang kombinert med påbygging av inntil 60 studiepoengs omfang godkjent av Forsvarets høgskole.Fritt sammensatt bachelorgrad av 180 studiepoeng krever en av følgende integrerte utdanninger:minimum 90 studiepoeng i et språkfag fra Forsvarets høgskole,krigsskoleutdanning fra før 2005 godkjent med minimum 90 studiepoeng,krigsskoleutdanning fra før 2005 godkjent som enhet på 60 studiepoeng, i tillegg til annenintegrert utdanning på minimum 30 studiepoeng, som er relevant for språk og samfunnsfag eller militære studier.
+Grunnlaget for bachelorgraden skal omfatte ett av følgende:
+
+1. Integrert utdanning eller annet studieprogram av 180 studiepoengs omfang etter fag- eller studieplan fastsatt av styret.
+2. Integrert utdanning av 120 studiepoengs omfang kombinert med påbygging av inntil 60 studiepoengs omfang godkjent av Forsvarets høgskole.
+3. Fritt sammensatt bachelorgrad av 180 studiepoeng krever en av følgende integrerte utdanninger:
+
+   1. minimum 90 studiepoeng i et språkfag fra Forsvarets høgskole,
+   2. krigsskoleutdanning fra før 2005 godkjent med minimum 90 studiepoeng,
+   3. krigsskoleutdanning fra før 2005 godkjent som enhet på 60 studiepoeng, i tillegg til annen
+   4. integrert utdanning på minimum 30 studiepoeng, som er relevant for språk og samfunnsfag eller militære studier.
 
 I tillegg kreves en fordypning tilsvarende minimum 30 studiepoeng.
 
@@ -118,25 +131,46 @@ For å kvalifisere til studier på bachelornivå ved Forsvarets høgskole må ka
 
 ### § 4-2. Spesielle opptakskrav til Bachelor i militære studier – fordypning ledelse og marineingeniør elektro, fordypning ledelse og marineingeniør maskin og fordypning ledelse og marineingeniør våpen, elektronikk og data
 
-I tillegg til generell studiekompetanse er det krav om:minimum fordypning og bestått i Matematikk R1 og R2 og Fysikk 1, ellerbestått forkurs ingeniør.
+I tillegg til generell studiekompetanse er det krav om:
+
+1. minimum fordypning og bestått i Matematikk R1 og R2 og Fysikk 1, eller
+2. bestått forkurs ingeniør.
 
 ### § 4-3. Spesielle opptakskrav til Bachelor i militære studier – fordypning i ledelse, militærmakt og sikkerhetsoperasjoner
 
-I tillegg til generell studiekompetanse er det krav om at en av følgende spesialistgrunnutdanninger i Forsvaret er gjennomført:marinejeger,spesialjeger,spesialbåtoperatør,kystjeger,fartøysoperatør ved kystjegerkommandoen,minedykker, elleretterretningsspesialist/operatør, eller tilsvarende.
+I tillegg til generell studiekompetanse er det krav om at en av følgende spesialistgrunnutdanninger i Forsvaret er gjennomført:
+
+1. marinejeger,
+2. spesialjeger,
+3. spesialbåtoperatør,
+4. kystjeger,
+5. fartøysoperatør ved kystjegerkommandoen,
+6. minedykker, eller
+7. etterretningsspesialist/operatør, eller tilsvarende.
 
 Opptaket skjer innenfor gitte kvoter utarbeidet i samarbeid med driftsenhetene i Forsvaret.
 
 ### § 4-4. Spesielle opptakskrav ved Bachelor i ingeniør – telematikk
 
-I tillegg til generell studiekompetanse er det krav om:minimum fordypning og bestått i Matematikk R1 og R2 og Fysikk 1, ellerbestått forkurs ingeniør.
+I tillegg til generell studiekompetanse er det krav om:
+
+1. minimum fordypning og bestått i Matematikk R1 og R2 og Fysikk 1, eller
+2. bestått forkurs ingeniør.
 
 ### § 4-5. Spesielle opptakskrav til Bachelor i ingeniørfag – ingeniøroffiseren, bygg/geomatikk I
 
-I tillegg til generell studiekompetanse er det krav om:minimum fordypning og bestått i Matematikk R1 og R2 samt Fysikk 1, ellerbestått forkurs ingeniør.
+I tillegg til generell studiekompetanse er det krav om:
+
+1. minimum fordypning og bestått i Matematikk R1 og R2 samt Fysikk 1, eller
+2. bestått forkurs ingeniør.
 
 ### § 4-6. Spesielle opptakskrav til enkeltemneopptak på bachelor
 
-Søkere til enkeltemner på bachelornivå må i tillegg til å ha generell studiekompetanse:være ansatt i forsvarssektoren og totalforsvaret,ha sikkerhetsklarering, ogkunne fremlegge attest om tjenstlige behov.
+Søkere til enkeltemner på bachelornivå må i tillegg til å ha generell studiekompetanse:
+
+1. være ansatt i forsvarssektoren og totalforsvaret,
+2. ha sikkerhetsklarering, og
+3. kunne fremlegge attest om tjenstlige behov.
 
 Øvrige spesielle opptakskrav fremgår av emnebeskrivelsen for det enkelte emne.
 
@@ -146,26 +180,36 @@ Dekan fastsetter retningslinjer for gjennomføring av opptak til enkeltemner.
 
 1. Avlagt og bestått godkjent fag- eller svenneprøve eller
 2. Bestått VG1 og VG2 yrkesfag i norsk/nordisk videregående skole eller
-3. Realkompetanse. For å få godkjent realkompetanse til fullt forkurs må søkeren oppfylle følgende vilkår:Søkere må fylle 18 år eller mer det året de søker om opptak.Søkere må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole eller
+3. Realkompetanse. For å få godkjent realkompetanse til fullt forkurs må søkeren oppfylle følgende vilkår:
+
+   1. Søkere må fylle 18 år eller mer det året de søker om opptak.
+   2. Søkere må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole eller
 4. Generell studiekompetanse.
 
 > Tilføyd ved forskrift [17 feb 2025 nr. 1537](forskrift/2025-02-17-1537) (i kraft 17 juli 2025).
 
 ### § 4-8. Spesielle opptakskrav til videreutdanning i grunnleggende militær profesjons- og lederutdanning – offiser
 
-I tillegg til generell studiekompetanse er det krav om:høyere utdanning med bachelor- eller mastergrad, eller tilsvarende fullført utdanningsløp.
+I tillegg til generell studiekompetanse er det krav om:
+
+1. høyere utdanning med bachelor- eller mastergrad, eller tilsvarende fullført utdanningsløp.
 
 > Tilføyd ved forskrift [17 feb 2025 nr. 1537](forskrift/2025-02-17-1537) (i kraft 17 juli 2025).
 
 ### § 4-9. Spesielle opptakskrav til videreutdanning i grunnleggende militær profesjons- og lederutdanning – befal
 
-I tillegg til generell studiekompetanse er det krav om:fullført høyere yrkesfaglig fagskole, eller høyere utdanning med bachelor- eller mastergrad, eller tilsvarende fullført utdanningsløp.
+I tillegg til generell studiekompetanse er det krav om:
+
+1. fullført høyere yrkesfaglig fagskole, eller høyere utdanning med bachelor- eller mastergrad, eller tilsvarende fullført utdanningsløp.
 
 > Tilføyd ved forskrift [17 feb 2025 nr. 1537](forskrift/2025-02-17-1537) (i kraft 17 juli 2025).
 
 ### § 4-10. Spesielle opptakskrav til Bachelor i ingeniørfag – elektro og automasjon
 
-I tillegg til generell studiekompetanse med fordypning i realfag er det krav om:gjennomført Forsvarets rekruttutdanning (FRU) eller tilsvarenderelevant fagbrev.
+I tillegg til generell studiekompetanse med fordypning i realfag er det krav om:
+
+1. gjennomført Forsvarets rekruttutdanning (FRU) eller tilsvarende
+2. relevant fagbrev.
 
 Kandidater som ikke har generell studiekompetanse med fordypning i realfag (R1, R2 og Fy1) må bestå forkurs ingeniør før oppstart av studier.
 
@@ -175,11 +219,24 @@ Kandidater som ikke har generell studiekompetanse med fordypning i realfag (R1, 
 
 ### § 5-1. Opptakskrav master i militære studier
 
-For å bli tatt opp som student til master i militære studier må søker:Være fast ansatt i Forsvaret. Ved ledig kapasitet, kan også fast ansatte fra andre deler av forsvarssektoren og totalforsvaret få studieplass.Minst ha en lavere akademisk grad. Lavere akademisk grad er:militær bachelorgrad eller relevant sivil bachelorgrad,relevant cand.mag.-grad,annen relevant grad eller yrkesutdanning av minimum tre års omfang, eller,militær eller relevant sivil utdanning som i henhold til [universitets- og høyskoleloven § 3-4](lov/2005-04-01-15/§3-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.Minst to års relevant tjenesteerfaring.
+For å bli tatt opp som student til master i militære studier må søker:
+
+1. Være fast ansatt i Forsvaret. Ved ledig kapasitet, kan også fast ansatte fra andre deler av forsvarssektoren og totalforsvaret få studieplass.
+2. Minst ha en lavere akademisk grad. Lavere akademisk grad er:
+
+   1. militær bachelorgrad eller relevant sivil bachelorgrad,
+   2. relevant cand.mag.-grad,
+   3. annen relevant grad eller yrkesutdanning av minimum tre års omfang, eller,
+   4. militær eller relevant sivil utdanning som i henhold til [universitets- og høyskoleloven § 3-4](lov/2005-04-01-15/§3-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+3. Minst to års relevant tjenesteerfaring.
 
 ### § 5-2. Enkeltemneopptak på masternivå
 
-Søkere til enkeltemner på masternivå må:Være ansatt i forsvarssektoren og totalforsvaret.Ha sikkerhetsklarering.Kunne fremlegge attest om tjenstlige behov.
+Søkere til enkeltemner på masternivå må:
+
+1. Være ansatt i forsvarssektoren og totalforsvaret.
+2. Ha sikkerhetsklarering.
+3. Kunne fremlegge attest om tjenstlige behov.
 
 Øvrige spesielle opptakskrav fremgår av emnebeskrivelsen for det enkelte emne.
 
@@ -197,7 +254,22 @@ Søker må ha relevant bakgrunn, eksempelvis innenfor bruk av militærmakt og mi
 
 Vurderingsgrunnlaget for søkers realkompetanse til høyere grads nivå er fastsatt læringsutbytte i form av kunnskaper, ferdigheter og generell kompetanse som skal være oppnådd etter fullført bachelor i militære studier.
 
-For å få godkjent realkompetanse for opptak til masterprogram og enkeltemner som inngår i masterstudier må følgende kriterier være oppfylt:Militære søkere:Må ha relevant høyere utdanning tilsvarende 120 studiepoeng, der eventuell offisersutdanning med godkjent uttelling på minimum 60 studiepoeng kan inngå.Må ha, utover det generelle kravet til to års relevant yrkeserfaring, ytterligere tre års relevant yrkeserfaring i hundre prosent stilling i Forsvaret.Sivile søkere:Må ha relevant høyere utdanning tilsvarende 120 studiepoeng.Må ha, utover det generelle kravet til to års relevant yrkeserfaring, ytterligere tre års relevant yrkeserfaring i hundre prosent stilling.For både militære og sivile søkere kan i tillegg ett eller flere av følgende forhold vektlegges:Annen relevant sivil eller militær høyere utdanning utover minimumskravet på 120 studiepoeng.Stillinger med stor grad av selvstendighet og ansvar.Tjenestens relevans for studiets innhold.Egne publikasjoner (også som medforfatter) innenfor aktuelt fagområde eller kunnskapsfelt (rapporter, utredninger, artikler og lignende).
+For å få godkjent realkompetanse for opptak til masterprogram og enkeltemner som inngår i masterstudier må følgende kriterier være oppfylt:
+
+1. Militære søkere:
+
+   1. Må ha relevant høyere utdanning tilsvarende 120 studiepoeng, der eventuell offisersutdanning med godkjent uttelling på minimum 60 studiepoeng kan inngå.
+   2. Må ha, utover det generelle kravet til to års relevant yrkeserfaring, ytterligere tre års relevant yrkeserfaring i hundre prosent stilling i Forsvaret.
+2. Sivile søkere:
+
+   1. Må ha relevant høyere utdanning tilsvarende 120 studiepoeng.
+   2. Må ha, utover det generelle kravet til to års relevant yrkeserfaring, ytterligere tre års relevant yrkeserfaring i hundre prosent stilling.
+3. For både militære og sivile søkere kan i tillegg ett eller flere av følgende forhold vektlegges:
+
+   1. Annen relevant sivil eller militær høyere utdanning utover minimumskravet på 120 studiepoeng.
+   2. Stillinger med stor grad av selvstendighet og ansvar.
+   3. Tjenestens relevans for studiets innhold.
+   4. Egne publikasjoner (også som medforfatter) innenfor aktuelt fagområde eller kunnskapsfelt (rapporter, utredninger, artikler og lignende).
 
 ## 6. Faglig myndighet
 
@@ -247,9 +319,30 @@ Vårsemesteret varer normalt fra begynnelsen av januar til starten av juli.
 
 ### § 7-3. Timeplan og studie- og emneplaner
 
-Alle studieprogram skal være beskrevet i en studieplan. Studieplanen skal minimum fastsette:henvisning til eventuell nasjonal rammeplan,forventet læringsutbytte i henhold til Nasjonale kvalifikasjonsrammeverk,hvilke emner som inngår, inkludert militære aktiviteter,omfang i studiepoeng,hvem som er programansvarlig,mulighet for utvekslingsopphold i utlandet,oppbyggingen av studieprogrammet, studieretninger, eventuelle fellesemner, hva som er obligatorisk og valgfritt, og rekkefølgen på emnene ogeventuelle betingelser til studieprogresjon.
+Alle studieprogram skal være beskrevet i en studieplan. Studieplanen skal minimum fastsette:
 
-Alle emner skal være beskrevet i en emnebeskrivelse. Hver emnebeskrivelse skal minimum inneholde:emneansvarlige ved navn,forventet læringsutbytte i henhold til Nasjonale kvalifikasjonsrammeverk,eventuelt forkunnskapskrav,undervisningssemester,læringsformer,undervisningsspråk,emnets omfang i studiepoeng,hvilke aktiviteter som er obligatoriske,eksamensform og karakterskala,vekting av delvurderingene som inngår i sluttkarakteren ogom eksamensform kan bli endret for kontinuasjonseksamen.
+1. henvisning til eventuell nasjonal rammeplan,
+2. forventet læringsutbytte i henhold til Nasjonale kvalifikasjonsrammeverk,
+3. hvilke emner som inngår, inkludert militære aktiviteter,
+4. omfang i studiepoeng,
+5. hvem som er programansvarlig,
+6. mulighet for utvekslingsopphold i utlandet,
+7. oppbyggingen av studieprogrammet, studieretninger, eventuelle fellesemner, hva som er obligatorisk og valgfritt, og rekkefølgen på emnene og
+8. eventuelle betingelser til studieprogresjon.
+
+Alle emner skal være beskrevet i en emnebeskrivelse. Hver emnebeskrivelse skal minimum inneholde:
+
+1. emneansvarlige ved navn,
+2. forventet læringsutbytte i henhold til Nasjonale kvalifikasjonsrammeverk,
+3. eventuelt forkunnskapskrav,
+4. undervisningssemester,
+5. læringsformer,
+6. undervisningsspråk,
+7. emnets omfang i studiepoeng,
+8. hvilke aktiviteter som er obligatoriske,
+9. eksamensform og karakterskala,
+10. vekting av delvurderingene som inngår i sluttkarakteren og
+11. om eksamensform kan bli endret for kontinuasjonseksamen.
 
 Timeplaner med informasjon om tid og sted for gjennomføring av undervisningsaktivitetene, samt litteratur/pensumlister, skal være tilgjengelig for kadettene/studentene senest fire uker før emnet starter. Det kan komme endringer av timeplanen ved særskilte forhold.
 
@@ -257,7 +350,11 @@ Enkelte læringsaktiviteter i et emne kan av kapasitetshensyn bare tilbys en gan
 
 ### § 7-4. Permisjon etter lov om universiteter og høyskoler
 
-Avdeling fagstab fatter vedtak om søknad om permisjon for følgende:En kadett eller student som får barn under studiene skal gis rett til permisjon fra studiene under svangerskap og til omsorg for barn, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-3e](lov/2005-04-01-15/§4-3).Rett til permisjon gjelder også ved sykdom og skade. Normalt innvilges permisjon for inntil ett år.Søknad om permisjon ut over ett år kan innvilges dersom det foreligger dokumenterte særskilte behov.
+Avdeling fagstab fatter vedtak om søknad om permisjon for følgende:
+
+1. En kadett eller student som får barn under studiene skal gis rett til permisjon fra studiene under svangerskap og til omsorg for barn, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-3e](lov/2005-04-01-15/§4-3).
+2. Rett til permisjon gjelder også ved sykdom og skade. Normalt innvilges permisjon for inntil ett år.
+3. Søknad om permisjon ut over ett år kan innvilges dersom det foreligger dokumenterte særskilte behov.
 
 Kadett eller student som er innvilget permisjon, skal gis anledning til å gjenoppta sine studier på tilsvarende nivå som før permisjonen, forutsatt at studietilbudet fortsatt eksisterer. Kadettens eller studentens utdanningsplan må tilpasses gjeldende studieplan.
 
@@ -299,7 +396,12 @@ I særskilte tilfeller kan studenten avlegge eksamen til tross for at obligatori
 
 En kadett eller student med opptak til studieprogram skal bekrefte sin utdanningsplan hvert semester.
 
-For å ha rett til å gå opp til eksamen må kadetten eller studenten ha:Studierett til vedkommende studieprogram ved Forsvarets høgskole.Oppfylt eventuelle forkunnskapskrav til emnet.Deltatt i obligatorisk aktivitet og oppfylt obligatoriske aktivitet i henhold til fag- eller studieplanen eller emnebeskrivelsen. Obligatoriske aktivitet skal ikke ha vært levert tidligere i samme eller andre emner.Meldt seg opp til eksamen.
+For å ha rett til å gå opp til eksamen må kadetten eller studenten ha:
+
+1. Studierett til vedkommende studieprogram ved Forsvarets høgskole.
+2. Oppfylt eventuelle forkunnskapskrav til emnet.
+3. Deltatt i obligatorisk aktivitet og oppfylt obligatoriske aktivitet i henhold til fag- eller studieplanen eller emnebeskrivelsen. Obligatoriske aktivitet skal ikke ha vært levert tidligere i samme eller andre emner.
+4. Meldt seg opp til eksamen.
 
 ### § 9-2. Fritak
 
@@ -375,7 +477,14 @@ Avbrutt eksamen teller som et eksamensforsøk med mindre kadetten eller studente
 
 ### § 9-11. Avbrutt skriftlig skoleeksamen og gyldig fravær under eksamen
 
-Følgende forhold anses som gyldig fravær ved fremleggelse av dokumentasjon:Sykdom og skade dokumentert ved gyldig erklæring eller uttalelse. Erklæringen må presisere at kandidaten ikke var i stand til å gjennomføre eller levere eksamen på det aktuelle tidspunkt. Studenten må levere slik erklæring inne tre virkedager til sin lokale studieadministrasjon.Barns sykdom og skade til og med kalenderåret barnet fyller 12 år. Dette må dokumenteres som i punkt 1 også dersom barnet har behov for å bli fulgt til legeundersøkelse eller annen oppfølgning i forbindelse med sykdom.Dødsfall i nær familie, eller hos andre studenten hadde et nært forhold til, dersom dødsfallet forekommer innen to uker før eksamen.Begravelse eller bisettelse av personer i nær familie eller av andre som studenten hadde et nært forhold til.Pålegg fra offentlig myndighet om at studenten plikter til å møte frem et annet sted når eksamenen finner sted.Fødsel gir normalt rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før termin og seks uker etter fødsel. Far har rett til utsatt eksamen hvis eksamensdatoen er i perioden to uker etter fødsel.
+Følgende forhold anses som gyldig fravær ved fremleggelse av dokumentasjon:
+
+1. Sykdom og skade dokumentert ved gyldig erklæring eller uttalelse. Erklæringen må presisere at kandidaten ikke var i stand til å gjennomføre eller levere eksamen på det aktuelle tidspunkt. Studenten må levere slik erklæring inne tre virkedager til sin lokale studieadministrasjon.
+2. Barns sykdom og skade til og med kalenderåret barnet fyller 12 år. Dette må dokumenteres som i punkt 1 også dersom barnet har behov for å bli fulgt til legeundersøkelse eller annen oppfølgning i forbindelse med sykdom.
+3. Dødsfall i nær familie, eller hos andre studenten hadde et nært forhold til, dersom dødsfallet forekommer innen to uker før eksamen.
+4. Begravelse eller bisettelse av personer i nær familie eller av andre som studenten hadde et nært forhold til.
+5. Pålegg fra offentlig myndighet om at studenten plikter til å møte frem et annet sted når eksamenen finner sted.
+6. Fødsel gir normalt rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før termin og seks uker etter fødsel. Far har rett til utsatt eksamen hvis eksamensdatoen er i perioden to uker etter fødsel.
 
 Lokalt studieadministrasjon kan skjønnsmessig vurdere om det foreligger forhold som gjør det sterkt urimelig å kreve at studenten gjennomfører eksamen.
 
@@ -383,7 +492,12 @@ Innvilget gyldig fravær gir rett til utsatt eksamen.
 
 ### § 9-12. Avbrutt skriftlig skoleeksamen og gyldig fravær under eksamen
 
-Følgende forhold regnes som ugyldig fravær, til tros for at de er utenfor studentens kontroll:Forsinkelse i trafikken utover en time.Villfarelse med hensyn til tid og sted for eksamen.Søvnløshet og nervøsitet med mindre det dokumenteres med gyldig erklæring.Andre forhold som er et resultat av studentens egne handlinger.
+Følgende forhold regnes som ugyldig fravær, til tros for at de er utenfor studentens kontroll:
+
+1. Forsinkelse i trafikken utover en time.
+2. Villfarelse med hensyn til tid og sted for eksamen.
+3. Søvnløshet og nervøsitet med mindre det dokumenteres med gyldig erklæring.
+4. Andre forhold som er et resultat av studentens egne handlinger.
 
 Lokal studieadministrasjon kan i særskilte tilfeller skjønnsmessig vurdere at det er sterkt urimelig å kreve at studenten gjennomfører eksamen.
 
@@ -407,9 +521,28 @@ Manglende henvisning til kilde kan medføre mistanke om fusk, jf. [§ 9-3](forsk
 
 Eksamensbesvarelser skal alltid være originale og selvstendige, med mindre det tydelig fremgår av oppgaven at hovedregelen kan fravikes.
 
-Som fusk regnes blant annet:Å handle i strid med eksamensbestemmelsene i denne forskrift, eller de retningslinjer som gjelder for den enkelte eksamen.Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Som ulovlige hjelpemidler regnes blant annet:Løse ark og lapper med pensumrelevant innhold.Innskrevet eller innlimt tekst eller ark av faglig interesse i tillatte hjelpemidler som ordbøker og lovsamlinger.Egne kladdeark med allerede kladdet tekst.Pensumbøker eller andre fagbøker.Flyttbare lagringsmedier, for eksempel minnepinner, med pensumrelevant innhold.Bruk av mobiltelefon, smartklokke eller annet elektronisk utstyr.Ulovlig bruk av internett, egenproduserte elektronisk lagrede tekster, notater og lignende.Annet utstyr og materiell som av høgskolen vurderes til å kunne være et ulovlig hjelpemiddel.
+Som fusk regnes blant annet:
 
-Som plagiat regnes:Ureglementert samarbeid mellom eksamenskandidater eller grupper.Innlevering av oppgave utarbeidet av en annen person for kadetten/studenten.Å presentere andres arbeid som sitt eget.Å sitere kilder, eller på annen måte benytte kilder i skriftlige arbeider, uten tilstrekkelig kildehenvisning.Gjenbruk av oppgave som er levert av kadetten/studenten til en tidligere eksamen, også levert ved andre institusjoner.Gjenbruk av oppgave som er levert av en annen person til en tidligere eksamen, også levert ved andre institusjoner.
+1. Å handle i strid med eksamensbestemmelsene i denne forskrift, eller de retningslinjer som gjelder for den enkelte eksamen.
+2. Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Som ulovlige hjelpemidler regnes blant annet:
+
+   1. Løse ark og lapper med pensumrelevant innhold.
+   2. Innskrevet eller innlimt tekst eller ark av faglig interesse i tillatte hjelpemidler som ordbøker og lovsamlinger.
+   3. Egne kladdeark med allerede kladdet tekst.
+   4. Pensumbøker eller andre fagbøker.
+   5. Flyttbare lagringsmedier, for eksempel minnepinner, med pensumrelevant innhold.
+   6. Bruk av mobiltelefon, smartklokke eller annet elektronisk utstyr.
+   7. Ulovlig bruk av internett, egenproduserte elektronisk lagrede tekster, notater og lignende.
+   8. Annet utstyr og materiell som av høgskolen vurderes til å kunne være et ulovlig hjelpemiddel.
+
+Som plagiat regnes:
+
+1. Ureglementert samarbeid mellom eksamenskandidater eller grupper.
+2. Innlevering av oppgave utarbeidet av en annen person for kadetten/studenten.
+3. Å presentere andres arbeid som sitt eget.
+4. Å sitere kilder, eller på annen måte benytte kilder i skriftlige arbeider, uten tilstrekkelig kildehenvisning.
+5. Gjenbruk av oppgave som er levert av kadetten/studenten til en tidligere eksamen, også levert ved andre institusjoner.
+6. Gjenbruk av oppgave som er levert av en annen person til en tidligere eksamen, også levert ved andre institusjoner.
 
 Forsøk på fusk sidestilles med fusk. Hva som er fusk avgjøres ut fra en helhetsvurdering der også forsett eller uaktsomhet vurderes.
 
@@ -419,7 +552,10 @@ Sanksjon ved vedtak om fusk er annullering av eksamen eller utestenging inntil e
 
 ### § 11-1. Karaktersystem
 
-Enhver eksamen skal føre frem til en karakter. Karakteren skal angis på én av to måter:«Bestått» eller «Ikke bestått», på engelsk «Pass» eller «Fail».Som en bokstav etter skalaen A, B, C, D, E, F. Dersom hovedkarakter benyttes, skal det være en vektet gjennomsnittskarakter.
+Enhver eksamen skal føre frem til en karakter. Karakteren skal angis på én av to måter:
+
+1. «Bestått» eller «Ikke bestått», på engelsk «Pass» eller «Fail».
+2. Som en bokstav etter skalaen A, B, C, D, E, F. Dersom hovedkarakter benyttes, skal det være en vektet gjennomsnittskarakter.
 
 Karakterene skal gis i henhold til de læringsutbyttebeskrivelser som er satt for emnet.
 
@@ -440,7 +576,11 @@ Sensorer kan være interne eller eksterne.
 
 Forsvarets høgskole følger til enhver tid gjeldende krav i [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15).
 
-I følgende tilfeller er det krav om minimum to sensorer, hvorav minst én er ekstern:Ved bedømmelse av selvstendig skriftlig arbeid i høyere grad.Ved ny sensur etter klage på karakterfastsetting.Ved ny sensur etter klage på formelle feil ved eksamen.
+I følgende tilfeller er det krav om minimum to sensorer, hvorav minst én er ekstern:
+
+1. Ved bedømmelse av selvstendig skriftlig arbeid i høyere grad.
+2. Ved ny sensur etter klage på karakterfastsetting.
+3. Ved ny sensur etter klage på formelle feil ved eksamen.
 
 Ekstern sensor kan ikke være tilsatt i hovedstilling eller bistilling ved Forsvarets høgskole eller ha hatt andre engasjement som timelærer i det aktuelle emnet for eksamenskullet. Ekstern sensor kan heller ikke ha vært tilsatt ved Forsvarets høgskole det siste året.
 
@@ -518,19 +658,41 @@ Kandidater som utestenges i utdanningstiden, mottar ikke vitnemål, men får kar
 
 ### § 13-1. Tap av studierett
 
-En kadett eller student kan miste studieretten til studieprogrammet dersom kadetten eller studenten:ikke har godkjent utdanningsplanen sin i StudentWeb,ikke lenger oppfyller opptaks- og seleksjonskravene,ikke oppfyller kravet til studieprogresjon. For å beholde studieretten må kadetten eller studenten følge den oppsatte og avtalte studieprogresjonen som fremgår av studieplanen,har benyttet maksimalt antall forsøk uten å ha fått godkjent bestått vurdering/eksamen i et obligatorisk emne, se kapittel 8, ellerhar oppnådd grad eller slutteksamen, og forlengelse av studieretten ikke er gitt av Forsvarets høgskole.
+En kadett eller student kan miste studieretten til studieprogrammet dersom kadetten eller studenten:
+
+1. ikke har godkjent utdanningsplanen sin i StudentWeb,
+2. ikke lenger oppfyller opptaks- og seleksjonskravene,
+3. ikke oppfyller kravet til studieprogresjon. For å beholde studieretten må kadetten eller studenten følge den oppsatte og avtalte studieprogresjonen som fremgår av studieplanen,
+4. har benyttet maksimalt antall forsøk uten å ha fått godkjent bestått vurdering/eksamen i et obligatorisk emne, se kapittel 8, eller
+5. har oppnådd grad eller slutteksamen, og forlengelse av studieretten ikke er gitt av Forsvarets høgskole.
 
 ### § 13-2. Utestengning
 
-En kadett eller student kan utestenges fra studiet dersom kadetten eller studenten:Har blitt vurdert som ikke skikket for yrket etter [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-10](lov/2005-04-01-15/§4-10), jf. [forskrift 30. juli 2018 nr. 1211](forskrift/2018-07-30-1211) om å gi [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15) delvis anvendelse for Forsvarets høgskole og om nemnder. Dette gjelder kun kadetter på bachelorutdanning.Har mistet sin sikkerhetsklarering, jf. [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet kapittel 8](lov/2018-06-01-24/kap8).Har blitt sanksjonert for fusk etter [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).Har blitt ilagt refselse for grove eller gjentatte overtredelser eller forsømmelser etter [lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1).
+En kadett eller student kan utestenges fra studiet dersom kadetten eller studenten:
+
+1. Har blitt vurdert som ikke skikket for yrket etter [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-10](lov/2005-04-01-15/§4-10), jf. [forskrift 30. juli 2018 nr. 1211](forskrift/2018-07-30-1211) om å gi [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15) delvis anvendelse for Forsvarets høgskole og om nemnder. Dette gjelder kun kadetter på bachelorutdanning.
+2. Har mistet sin sikkerhetsklarering, jf. [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet kapittel 8](lov/2018-06-01-24/kap8).
+3. Har blitt sanksjonert for fusk etter [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).
+4. Har blitt ilagt refselse for grove eller gjentatte overtredelser eller forsømmelser etter [lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1).
 
 ### § 13-3. Vedtaksnemnda ved Forsvarets høgskole
 
 Vedtaks- og klagenemnda ved Forsvarets høgskole oppnevnes av styret.
 
-Vedtaks- og klagenemnda ved Forsvarets høgskole skal som førsteinstans behandle saker som gjelder:Vedtak om studentopptak, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 3-7](lov/2005-04-01-15/§3-7).Mistanke om fusk eller forsøk på fusk, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-7](lov/2005-04-01-15/§4-7).Vedtak om utestenging og bortvisning, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).Vedtak om utestenging grunnet straffbare forhold – politiattest, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-9](lov/2005-04-01-15/§4-9).Vedtak om utestenging etter skikkethetsvurdering, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-10](lov/2005-04-01-15/§4-10).Vedtak om tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13).
+Vedtaks- og klagenemnda ved Forsvarets høgskole skal som førsteinstans behandle saker som gjelder:
 
-Vedtaks- og klagenemnda ved Forsvarets høgskole skal som klageinstans behandle saker som gjelder:Formelle feil ved gjennomføringen av spesielle opptakskrav til utdanning ved Forsvarets høgskole, jf. [forskrift 30. juli 2018 nr. 1211 om å gi lov 1. april 2005 nr. 15 om universiteter og høyskoler delvis anvendelse for Forsvarets høgskole og om nemnder § 14](forskrift/2018-07-30-1211/§14) annet ledd.Formelle feil ved eksamen, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 5-2](lov/2005-04-01-15/§5-2).Andre enkeltvedtak enn nevnt i denne bestemmelsen.
+1. Vedtak om studentopptak, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 3-7](lov/2005-04-01-15/§3-7).
+2. Mistanke om fusk eller forsøk på fusk, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-7](lov/2005-04-01-15/§4-7).
+3. Vedtak om utestenging og bortvisning, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).
+4. Vedtak om utestenging grunnet straffbare forhold – politiattest, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-9](lov/2005-04-01-15/§4-9).
+5. Vedtak om utestenging etter skikkethetsvurdering, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-10](lov/2005-04-01-15/§4-10).
+6. Vedtak om tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13).
+
+Vedtaks- og klagenemnda ved Forsvarets høgskole skal som klageinstans behandle saker som gjelder:
+
+1. Formelle feil ved gjennomføringen av spesielle opptakskrav til utdanning ved Forsvarets høgskole, jf. [forskrift 30. juli 2018 nr. 1211 om å gi lov 1. april 2005 nr. 15 om universiteter og høyskoler delvis anvendelse for Forsvarets høgskole og om nemnder § 14](forskrift/2018-07-30-1211/§14) annet ledd.
+2. Formelle feil ved eksamen, jf. [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 5-2](lov/2005-04-01-15/§5-2).
+3. Andre enkeltvedtak enn nevnt i denne bestemmelsen.
 
 ### § 13-4. Forsvarsdepartementets klagenemnd for Forsvarets høgskole
 

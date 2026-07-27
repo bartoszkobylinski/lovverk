@@ -32,7 +32,19 @@ Fyremålet med lova er gjennom samyrke å fremja umsetnaden av kjøtt av storfe,
 
 For å fremja fyremålet etter [§ 1](lov/1936-07-10-6/§1) skal det vera eit omsetningsråd med 11 medlemer.
 
-Departementet oppnemner medlemer med personlege varamedlemer forLandbruks- og matdepartementetNærings- og fiskeridepartementetNorges BondelagNorsk Bonde- og SmåbrukarlagNorsk LandbrukssamvirkeNorsk Nærings- og NytelsesmiddelarbeiderforbundNorske Felleskjøp SANortura SATine SAHovedorganisasjonen Virke og Coop Norge SA (fellesrepresentant)Kjøtt- og fjørfebransjens Landsforbund, Norges Frukt- og Grønnsaksgrossisters Forbund, NHO Mat og Drikke og Norkorn (fellesrepresentant).
+Departementet oppnemner medlemer med personlege varamedlemer for
+
+1. Landbruks- og matdepartementet
+2. Nærings- og fiskeridepartementet
+3. Norges Bondelag
+4. Norsk Bonde- og Småbrukarlag
+5. Norsk Landbrukssamvirke
+6. Norsk Nærings- og Nytelsesmiddelarbeiderforbund
+7. Norske Felleskjøp SA
+8. Nortura SA
+9. Tine SA
+10. Hovedorganisasjonen Virke og Coop Norge SA (fellesrepresentant)
+11. Kjøtt- og fjørfebransjens Landsforbund, Norges Frukt- og Grønnsaksgrossisters Forbund, NHO Mat og Drikke og Norkorn (fellesrepresentant).
 
 Oppnemninga skjer etter framlegg frå dei overnemnde organisasjonane og institusjonane. Medlemene med personlege varamedlemer vert oppnemnde for fire år. Annakvart år går halve rådet ut, fyrste gongen etter loddtrekking.
 

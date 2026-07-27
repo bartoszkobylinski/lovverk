@@ -31,4 +31,7 @@ eu_basis: []
 
 ## II
 
-Sjøfartsdirektoratet bemyndiges til å gi forskrifter og treffe enkeltvedtak samt utføre den nødvendige kontroll i medhold av[lov 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 1](lov/1903-06-09-7/§1) tredje ledd nr. 1, [§ 93](lov/1903-06-09-7/§93) annet ledd og [§ 110](lov/1903-06-09-7/§110), og[lov 20. juli 1893 nr. 1](lov/1893-07-20-1) om sjøfarten § 323 nr. 1-3 og 5-7.
+Sjøfartsdirektoratet bemyndiges til å gi forskrifter og treffe enkeltvedtak samt utføre den nødvendige kontroll i medhold av
+
+1. [lov 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 1](lov/1903-06-09-7/§1) tredje ledd nr. 1, [§ 93](lov/1903-06-09-7/§93) annet ledd og [§ 110](lov/1903-06-09-7/§110), og
+2. [lov 20. juli 1893 nr. 1](lov/1893-07-20-1) om sjøfarten § 323 nr. 1-3 og 5-7.

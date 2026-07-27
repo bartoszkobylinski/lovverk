@@ -32,7 +32,26 @@ Denne forskriften gjelder trafikkopplæring og førerprøve for personer som vil
 
 ### § 1-2. Definisjoner
 
-I denne forskriften forstås med:*Trafikkopplæring:* praktisk og teoretisk opplæring for erverv eller fornyelse av førerett som må dokumenteres med førerkort.*Øvingskjøring:* den praktiske delen av opplæringen hvor en lærer eller ledsager rettleder eleven, og har tilsyn og kontroll med kjøringen.*Opplæring mot vederlag:* opplæring hvor den som underviser får vederlag for opplæringen, uavhengig av hvem som yter vederlaget. Opplæring i regi av godkjent trafikkskole anses alltid som opplæring mot vederlag.*Øvingskjøring med ledsager:* øvingskjøring hvor ledsageren ikke får vederlag for øvingskjøringen.*Undervisningspersonell:* person med kompetanse for trafikkopplæring etter denne forskriften som underviser i offentlig skoleverk eller hos en kursarrangør, eller trafikklærere etter definisjonen i [trafikklærerforskriften § 2 bokstav a](forskrift/2024-10-15-2556/§2/bokstav/a).*Ledsager:* person som forestår øvingskjøring uten å være lærer etter denne forskriften, jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd.*Faglig leder:* person med det faglige, administrative og pedagogiske ansvaret ved en trafikkskole.*Elev:* person som er under opplæring med lærer eller ledsager.*Undervisningstime:* 45 minutter undervisning.*Opplæringsinstitusjoner:* trafikkskoler, det offentlige skoleverk og godkjente kursarrangører.*Opplæring innenfor det offentlige skoleverket:* opplæring som faller innenfor opplæringslova. Opplæringen må være en del av skolens ordinære opplæringstilbud og være underlagt tilsyn fra det offentlige skoleverket.Private skoler likestilles i denne forskriften med det offentlige skoleverket dersom opplæringen i den private skolen erstatter den obligatoriske opplæringen i den offentlige grunnskolen eller videregående skole og er underlagt tilsvarende tilsyn.*Undervisningsplan:* plan som viser hvordan den enkelte opplæringsinstitusjonen oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal gi opplysninger om opplæringsinstitusjonens undervisningspersonell, kjøretøy, undervisningsmateriell, arbeidsmåter og bruken av øvingsområder.*Øvrige aktører som driver godkjenningspliktig opplæring:* opplæring i offentlig skoleverk som skjer i elevenes fritid eller personer og virksomheter som det er rimelig grunn til å anta foretar ulovlig opplæring mot vederlag.*Avsperret område:* et område som er avgrenset med fysiske hindringer som sikrer mot utforkjøring, hindrer uønsket kjøring inn i og ut av området, og hvor adkomst kan reguleres.*Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse, jf. [sensorforskriften § 2](forskrift/2011-03-09-261/§2). Dette er en variant av praktisk prøve.*Kjøretøytilpasning:* vurdering av om tilpasningene i et førertilpasset kjøretøy er tilfredsstillende tilpasset fører, slik at fører kan kjøre trafikksikkert. Dette er en forenklet variant av kjørevurdering.
+I denne forskriften forstås med:
+
+1. *Trafikkopplæring:* praktisk og teoretisk opplæring for erverv eller fornyelse av førerett som må dokumenteres med førerkort.
+2. *Øvingskjøring:* den praktiske delen av opplæringen hvor en lærer eller ledsager rettleder eleven, og har tilsyn og kontroll med kjøringen.
+3. *Opplæring mot vederlag:* opplæring hvor den som underviser får vederlag for opplæringen, uavhengig av hvem som yter vederlaget. Opplæring i regi av godkjent trafikkskole anses alltid som opplæring mot vederlag.
+4. *Øvingskjøring med ledsager:* øvingskjøring hvor ledsageren ikke får vederlag for øvingskjøringen.
+5. *Undervisningspersonell:* person med kompetanse for trafikkopplæring etter denne forskriften som underviser i offentlig skoleverk eller hos en kursarrangør, eller trafikklærere etter definisjonen i [trafikklærerforskriften § 2 bokstav a](forskrift/2024-10-15-2556/§2/bokstav/a).
+6. *Ledsager:* person som forestår øvingskjøring uten å være lærer etter denne forskriften, jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd.
+7. *Faglig leder:* person med det faglige, administrative og pedagogiske ansvaret ved en trafikkskole.
+8. *Elev:* person som er under opplæring med lærer eller ledsager.
+9. *Undervisningstime:* 45 minutter undervisning.
+10. *Opplæringsinstitusjoner:* trafikkskoler, det offentlige skoleverk og godkjente kursarrangører.
+11. *Opplæring innenfor det offentlige skoleverket:* opplæring som faller innenfor opplæringslova. Opplæringen må være en del av skolens ordinære opplæringstilbud og være underlagt tilsyn fra det offentlige skoleverket.
+
+    Private skoler likestilles i denne forskriften med det offentlige skoleverket dersom opplæringen i den private skolen erstatter den obligatoriske opplæringen i den offentlige grunnskolen eller videregående skole og er underlagt tilsvarende tilsyn.
+12. *Undervisningsplan:* plan som viser hvordan den enkelte opplæringsinstitusjonen oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal gi opplysninger om opplæringsinstitusjonens undervisningspersonell, kjøretøy, undervisningsmateriell, arbeidsmåter og bruken av øvingsområder.
+13. *Øvrige aktører som driver godkjenningspliktig opplæring:* opplæring i offentlig skoleverk som skjer i elevenes fritid eller personer og virksomheter som det er rimelig grunn til å anta foretar ulovlig opplæring mot vederlag.
+14. *Avsperret område:* et område som er avgrenset med fysiske hindringer som sikrer mot utforkjøring, hindrer uønsket kjøring inn i og ut av området, og hvor adkomst kan reguleres.
+15. *Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse, jf. [sensorforskriften § 2](forskrift/2011-03-09-261/§2). Dette er en variant av praktisk prøve.
+16. *Kjøretøytilpasning:* vurdering av om tilpasningene i et førertilpasset kjøretøy er tilfredsstillende tilpasset fører, slik at fører kan kjøre trafikksikkert. Dette er en forenklet variant av kjørevurdering.
 
 Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemmelsene i [førerkortforskriften](forskrift/2004-01-19-298).
 
@@ -48,7 +67,12 @@ Lærlinger i kran- og løfteoperasjonsfaget, veg- og anleggsfaget og fjell- og b
 
 Personer som skal øvingskjøre må ha fullført trafikalt grunnkurs ved godkjent opplæringsinstitusjon før øvingskjøringen kan starte. Trafikalt grunnkurs avsluttet i perioden 16. mars–31. oktober gir rett til å øvingskjøre mellom 16. mars og 31. oktober, selv om opplæring i kjøring i mørket ikke er fullført jf. [§ 8-1](forskrift/2004-10-01-1339/§8-1) femte ledd.
 
-Unntatt fra kravet om trafikalt grunnkurs før øvingskjøring er:innehaver av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T.personer som har fylt 25 år,personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10). Fritaket fra trafikalt grunnkurs gjelder selv om vedkommende ikke oppfyller alderskravet i [førerkortforskriftens kapittel 8](forskrift/2004-01-19-298/kap8), [9](forskrift/2004-01-19-298/kap9) eller [10](forskrift/2004-01-19-298/kap10), jf. [kapittel 3](forskrift/2004-01-19-298/kap3).personer som er under utredning for mulig dispensasjon fra helsekravene i førerkortforskriftens vedlegg 1. Unntaket er begrenset til nødvendig kjøring i forbindelse med utredningen.
+Unntatt fra kravet om trafikalt grunnkurs før øvingskjøring er:
+
+1. innehaver av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T.
+2. personer som har fylt 25 år,
+3. personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10). Fritaket fra trafikalt grunnkurs gjelder selv om vedkommende ikke oppfyller alderskravet i [førerkortforskriftens kapittel 8](forskrift/2004-01-19-298/kap8), [9](forskrift/2004-01-19-298/kap9) eller [10](forskrift/2004-01-19-298/kap10), jf. [kapittel 3](forskrift/2004-01-19-298/kap3).
+4. personer som er under utredning for mulig dispensasjon fra helsekravene i førerkortforskriftens vedlegg 1. Unntaket er begrenset til nødvendig kjøring i forbindelse med utredningen.
 
 Bevis for fullført trafikalt grunnkurs, eventuelt med unntak som nevnt ovenfor vedrørende mørkekjøring, medbringes under øvingskjøring. Dersom man er unntatt fra kravet til trafikalt grunnkurs før øvingskjøring etter tredje ledd bokstav a) eller c) må dokumentasjon som bekrefter førerett medbringes under øvingskjøring. Dersom det utenlandske førerkortet er innlevert må dokumentasjon fra Statens vegvesen for retten til øvingskjøring medbringes. Akseptabel legitimasjon med bilde skal alltid medbringes under øvingskjøring.
 
@@ -120,7 +144,11 @@ Kjøretøyet skal tilhøre den aktuelle førerkortklassen. Ved øvingskjøring i
 
 ### § 4-1. Adgang til å gi trafikkopplæring
 
-Trafikkopplæring mot vederlag kan bare gis av:trafikkskole som er godkjent i samsvar med denne forskriften,det offentlige skoleverk ogkursarrangør som er godkjent i samsvar med denne forskriften.
+Trafikkopplæring mot vederlag kan bare gis av:
+
+1. trafikkskole som er godkjent i samsvar med denne forskriften,
+2. det offentlige skoleverk og
+3. kursarrangør som er godkjent i samsvar med denne forskriften.
 
 Trafikkskoler kan tilby opplæring i alle klasser, herunder være kursarrangør.
 
@@ -148,7 +176,12 @@ Er godkjent lærevogn klasse B ute av drift, for eksempel som følge av reparasj
 
 Lærevogn i klasse A, tung motorsykkel, skal ha et slagvolum på minst 595 cm3, en effekt på over 40 kW og en konstruktiv hastighet på minst 100 km/t. Lærevogn i klasse A2, mellomtung motorsykkel, kan ha tilsvarende slagvolum, effekt og konstruktiv hastighet.
 
-Lærevogner i klassene A1, A2 og A skal ha følgende tilleggsutstyr når læreren følger med på kjøretøyet:dobbel sett betjeningsinnretning for brems og kopling,ett ekstra speil som gir læreren tilstrekkelig utsyn bakover,ett ekstra speil som gir læreren tilstrekkelig kontroll med eleven oghåndtak på hver side som er tilgjengelig for lærer.
+Lærevogner i klassene A1, A2 og A skal ha følgende tilleggsutstyr når læreren følger med på kjøretøyet:
+
+1. dobbel sett betjeningsinnretning for brems og kopling,
+2. ett ekstra speil som gir læreren tilstrekkelig utsyn bakover,
+3. ett ekstra speil som gir læreren tilstrekkelig kontroll med eleven og
+4. håndtak på hver side som er tilgjengelig for lærer.
 
 > Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014).
 
@@ -156,7 +189,12 @@ Lærevogner i klassene A1, A2 og A skal ha følgende tilleggsutstyr når lærere
 
 Lærevogn i klassene B, B kode 96 og BE skal ha bredde minst 1,5 meter og ha minst fire sitteplasser.
 
-Lærevognen skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for brems og kopling,ett ekstra innvendig speil eller en skjerm som gir læreren tilstrekkelig utsyn bakover,ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven oghastighetsmåler som er lesbar for læreren.
+Lærevognen skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for brems og kopling,
+2. ett ekstra innvendig speil eller en skjerm som gir læreren tilstrekkelig utsyn bakover,
+3. ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven og
+4. hastighetsmåler som er lesbar for læreren.
 
 Tilhenger til bruk ved opplæring i klasse B kode 96 skal være minst like høy og bred som personbilen, være lukket og ha en tillatt totalvekt på minst 1500 kg.
 
@@ -164,7 +202,11 @@ Tilhenger til bruk ved opplæring i klasse B kode 96 skal være minst like høy 
 
 ### § 4-5. Tilleggskrav til lærevogn – tunge klasser
 
-Lærevogner i klassene C1, C1E, C, CE, D1, D, DE og D1E skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems eller ekstra betjening av driftsbrems,ekstra speil som gir læreren tilstrekkelig utsyn bakover ogett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
+Lærevogner i klassene C1, C1E, C, CE, D1, D, DE og D1E skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems eller ekstra betjening av driftsbrems,
+2. ekstra speil som gir læreren tilstrekkelig utsyn bakover og
+3. ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
 
 Lærevogn i klassene C1, C1E, C og CE skal være registrert med minst tre sitteplasser.
 
@@ -174,7 +216,10 @@ Lærevogn i klassene C1, C1E, C og CE skal være registrert med minst tre sittep
 
 Lærevogn i klasse AM 147 skal være tre- eller firehjuls moped med egenvekt over 250 kg (uten batterier) og være registrert for to personer.
 
-Lærevognen skal ha følgende tilleggsutstyr:speilutrustning som gir læreren tilstrekkelig utsyn bakover ogett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
+Lærevognen skal ha følgende tilleggsutstyr:
+
+1. speilutrustning som gir læreren tilstrekkelig utsyn bakover og
+2. ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
 
 > Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
 
@@ -184,7 +229,13 @@ Lærevogn i klasse T skal være 4-hjuls jord- og skogbrukstraktor, være registr
 
 Traktoren skal ha sentralt plassert førersete, større bakhjul enn forhjul og løftbar trekk-krok for tilhenger.
 
-Lærevognen skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,to utvendige speil som gir læreren tilstrekkelig utsyn bakover,ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven,sikkerhetsbelter for eleven og læreren ogkoplingspedal, frikoplingsspak eller liknende som gir læreren mulighet til å avbryte framdriften.
+Lærevognen skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems,
+2. to utvendige speil som gir læreren tilstrekkelig utsyn bakover,
+3. ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven,
+4. sikkerhetsbelter for eleven og læreren og
+5. koplingspedal, frikoplingsspak eller liknende som gir læreren mulighet til å avbryte framdriften.
 
 > Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -298,17 +349,51 @@ Opplæringskort skal oppbevares i fem år uavhengig av om trafikkskolen eller ku
 
 ### § 5-7. Krav til utstyr – kurs i ulykkesberedskap
 
-Kursarrangør skal minst disponere:kjøretøy tilhørende klasse C eller Dpersonbil1 øvingsdukke for hjerte-lungeredning per 4 eleverførstehjelpsutstyr som normalt er tilgjengelig i tunge kjøretøybrannslukningsapparater og andre aktuelle slukkemidleroljefat, kar eller lignendeområde til demonstrasjoner og praktiske øvelser.
+Kursarrangør skal minst disponere:
+
+- kjøretøy tilhørende klasse C eller D
+- personbil
+- 1 øvingsdukke for hjerte-lungeredning per 4 elever
+- førstehjelpsutstyr som normalt er tilgjengelig i tunge kjøretøy
+- brannslukningsapparater og andre aktuelle slukkemidler
+- oljefat, kar eller lignende
+- område til demonstrasjoner og praktiske øvelser.
 
 ### § 5-8. Krav til utstyr – kurs i sikring av last for klassene B kode 96, BE, D1E, DE og T
 
-Kursarrangør skal minst disponere:tilhenger med tillatt totalvekt minst 1950 kglang last med egenskaper og vekt tilsvarende en tømmerstokk på minst 4 meterkolli tilsvarende pallekasse, med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meterlast tilsvarende rundballe eller storsekk, vekt minst 350 kgsikringsutstyr som er nødvendig for å sikre lasten i punktene ovenfor.
+Kursarrangør skal minst disponere:
+
+- tilhenger med tillatt totalvekt minst 1950 kg
+- lang last med egenskaper og vekt tilsvarende en tømmerstokk på minst 4 meter
+- kolli tilsvarende pallekasse, med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meter
+- last tilsvarende rundballe eller storsekk, vekt minst 350 kg
+- sikringsutstyr som er nødvendig for å sikre lasten i punktene ovenfor.
 
 > Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
 ### § 5-9. Krav til utstyr – kurs i sikring av last for klassene C1 og C
 
-Kursarrangør skal minst disponere:kran eller truck for å laste og losse kjøretøyetstroppestrekkerkontrollapparat som kan måle hvor mye fiberstroppene er strammetområde til de praktiske demonstrasjonene, som er stort nok til at elevene er sikret mot at ulykker skjerlastebil med lastebærersom er inndelt på en slik måte at den gir ulik friksjon mellom last og lastebærersom er utstyrt med surrefester som tilfredsstiller kravene i kjøretøyforskriften av 4. oktober 1994 med hensyn til antall og styrke, midtstøtter og sidelemmer som kan tas avmed forsterket forlem slik at den tåler de krefter som demonstrasjonene kreversikringsutstyr4 tonns fiberstropper med strammere4 tonns kjettinger med kjettingstrammeregods til de praktiske demonstrasjonenepallekasser, omlag 1m3 per kasse, med henholdsvis aluminiums-, plast- og trebunn. 2 av pallekassene skal være lastet med 1000 kg1 kabeltrommel, eller tilsvarende, med vekt omlag 500 kg1 betongelement, eller tilsvarende, med vekt omlag 1000 kg2 betongrør, eller tilsvarende, omlag 2 meter lange og diameter omlag 1 meter.
+Kursarrangør skal minst disponere:
+
+- kran eller truck for å laste og losse kjøretøyet
+- stroppestrekker
+- kontrollapparat som kan måle hvor mye fiberstroppene er strammet
+- område til de praktiske demonstrasjonene, som er stort nok til at elevene er sikret mot at ulykker skjer
+- lastebil med lastebærer
+
+  1. som er inndelt på en slik måte at den gir ulik friksjon mellom last og lastebærer
+  2. som er utstyrt med surrefester som tilfredsstiller kravene i kjøretøyforskriften av 4. oktober 1994 med hensyn til antall og styrke, midtstøtter og sidelemmer som kan tas av
+  3. med forsterket forlem slik at den tåler de krefter som demonstrasjonene krever
+- sikringsutstyr
+
+  1. 4 tonns fiberstropper med strammere
+  2. 4 tonns kjettinger med kjettingstrammere
+- gods til de praktiske demonstrasjonene
+
+  1. pallekasser, omlag 1m3 per kasse, med henholdsvis aluminiums-, plast- og trebunn. 2 av pallekassene skal være lastet med 1000 kg
+  2. 1 kabeltrommel, eller tilsvarende, med vekt omlag 500 kg
+  3. 1 betongelement, eller tilsvarende, med vekt omlag 1000 kg
+  4. 2 betongrør, eller tilsvarende, omlag 2 meter lange og diameter omlag 1 meter.
 
 Kursarrangør skal ha kantbeskyttere, kiler til å stenge rullende gods, paller og planker til avstenging.
 
@@ -318,7 +403,18 @@ Kursarrangør skal påse at elevene bruker nødvendig verneutstyr under de prakt
 
 ### § 5-10. Krav til utstyr – sikkerhetskurs på bane for klassene C, D og CE
 
-Kursarrangør skal minst disponere følgende kjøretøy:lastebil med slepvognlastebil med 2 akslet eller 3 akslet påhengsvognlastebil med tilhengerkobling for semitrailer, 2 akslet eller 3 aksletsemitrailer 2 akslet eller 3 aksletsemitrailer 3 akslet med selvsporende aksel med og uten låsinglastebil som kan kombineres med semitrailer, slepvogn eller påhengsvogn til modulvogntogbusser 2 akslet og 3 aksletleddbusspersonbil1 lastebil uten last.
+Kursarrangør skal minst disponere følgende kjøretøy:
+
+- lastebil med slepvogn
+- lastebil med 2 akslet eller 3 akslet påhengsvogn
+- lastebil med tilhengerkobling for semitrailer, 2 akslet eller 3 akslet
+- semitrailer 2 akslet eller 3 akslet
+- semitrailer 3 akslet med selvsporende aksel med og uten låsing
+- lastebil som kan kombineres med semitrailer, slepvogn eller påhengsvogn til modulvogntog
+- busser 2 akslet og 3 akslet
+- leddbuss
+- personbil
+- 1 lastebil uten last.
 
 Kursarrangør skal disponere ett kjøretøy eller vogntog per 2 elever.
 
@@ -350,7 +446,10 @@ Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i 
 
 Statens vegvesen skal tilbakekalle godkjenningen av en trafikkskole eller kursarrangør når denne ikke lenger oppfyller de kravene som er forutsatt for godkjenningen. Ny godkjenning kan ikke gis før kravene igjen er oppfylt.
 
-Statens vegvesen kan tilbakekalle godkjenningen helt eller delvis når vedkommende trafikkskole eller kursarrangørhar gjort vesentlig brudd på forskrift om trafikkopplæring, ellerpå tross av skriftlig advarsel eller pålegg bryter forskriftene.
+Statens vegvesen kan tilbakekalle godkjenningen helt eller delvis når vedkommende trafikkskole eller kursarrangør
+
+1. har gjort vesentlig brudd på forskrift om trafikkopplæring, eller
+2. på tross av skriftlig advarsel eller pålegg bryter forskriftene.
 
 Ved vurderingen av vedtak etter bestemmelsen skal det tas hensyn til i hvilken grad trafikkskolen eller kursarrangøren kan bebreides for overtredelsen. Dersom trafikkskolen eller kursarrangøren unndrar seg tilsyn eller ikke gir de opplysninger om opplæringen eller driften som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre opplæringsinstitusjonen i svært liten grad kan lastes for forholdet.
 
@@ -428,7 +527,10 @@ Statens vegvesen kan gi pålegg når trafikklæreren ikke oppfyller [trafikkoppl
 
 Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
 
-Statens vegvesen kan tilbakekalle godkjenningen som trafikklærer helt eller delvis når vedkommendehar gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) ellerpå tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+Statens vegvesen kan tilbakekalle godkjenningen som trafikklærer helt eller delvis når vedkommende
+
+1. har gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) eller
+2. på tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
 
 Ved vurderingen av vedtak etter første, andre og tredje ledd, skal det tas hensyn til i hvilken grad trafikklæreren kan bebreides for overtredelsen. Dersom trafikklæreren unndrar seg tilsyn, eller ikke gir relevante opplysninger som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre trafikklæreren i svært liten grad kan lastes for forholdet.
 
@@ -438,7 +540,19 @@ Når godkjenningen av en trafikklærer tilbakekalles etter tredje ledd, skal til
 
 ### § 6-6. Faglig leders plikter
 
-Den faglige lederen er ansvarlig for at trafikkskolen drives i samsvar med gjeldende regelverk og plikter blant annet åsamordne virksomheten ved skolensørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsoppleggetveilede og kontrollere alle lærere som faglig leder er ansvarlig for, i alle trinn og kurs som den enkelte læreren gir undervisning isørge for at undervisningspersonellet gjennomgår nødvendig faglig utviklingforeta evaluering av undervisningensørge for at bare kvalifisert undervisningspersonell gir undervisningdelta i praktisk og teoretisk trafikkopplæringvære trafikkskolens kontaktperson i forhold til Statens vegvesengi Statens vegvesen nødvendige opplysninger om trafikkskolens driftpåse at trafikkskolen ikke driver undervisning i andre klasser enn de den faglige lederen eller faglig medansvarlige etter fjerde ledd har formell kompetanse for å undervise isørge for innmelding av obligatorisk opplæring i tråd med [§ 7-6](forskrift/2004-10-01-1339/§7-6) og [§ 29-2](forskrift/2004-10-01-1339/§29-2).
+Den faglige lederen er ansvarlig for at trafikkskolen drives i samsvar med gjeldende regelverk og plikter blant annet å
+
+1. samordne virksomheten ved skolen
+2. sørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsopplegget
+3. veilede og kontrollere alle lærere som faglig leder er ansvarlig for, i alle trinn og kurs som den enkelte læreren gir undervisning i
+4. sørge for at undervisningspersonellet gjennomgår nødvendig faglig utvikling
+5. foreta evaluering av undervisningen
+6. sørge for at bare kvalifisert undervisningspersonell gir undervisning
+7. delta i praktisk og teoretisk trafikkopplæring
+8. være trafikkskolens kontaktperson i forhold til Statens vegvesen
+9. gi Statens vegvesen nødvendige opplysninger om trafikkskolens drift
+10. påse at trafikkskolen ikke driver undervisning i andre klasser enn de den faglige lederen eller faglig medansvarlige etter fjerde ledd har formell kompetanse for å undervise i
+11. sørge for innmelding av obligatorisk opplæring i tråd med [§ 7-6](forskrift/2004-10-01-1339/§7-6) og [§ 29-2](forskrift/2004-10-01-1339/§29-2).
 
 Faglig leder skal utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen som kreves etter første ledd bokstav c, fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig.
 
@@ -456,7 +570,10 @@ Statens vegvesen kan gi pålegg når faglig leder ikke oppfyller [trafikkopplær
 
 Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
 
-Statens vegvesen kan tilbakekalle godkjenningen som faglig leder helt eller delvis når vedkommendehar gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) ellerpå tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+Statens vegvesen kan tilbakekalle godkjenningen som faglig leder helt eller delvis når vedkommende
+
+1. har gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) eller
+2. på tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
 
 Ved vurderingen av vedtak etter første, andre og tredje ledd, skal det tas hensyn til i hvilken grad den faglige lederen kan bebreides for overtredelsen. Dersom faglig leder unndrar seg tilsyn, eller ikke gir relevante opplysninger om opplæringen eller trafikkskolens drift som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre den faglige lederen i svært liten grad kan lastes for forholdet.
 
@@ -592,7 +709,12 @@ Det kan gjennomføres bare en samling i trafikalt grunnkurs per dag.
 
 ### § 8-2. Personer som er unntatt fra kravet om trafikalt grunnkurs
 
-Unntatt fra kravet om trafikalt grunnkurs er:personer som tidligere har gjennomført trafikalt grunnkurs,innehavere av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T,personer som har fylt 25 år,personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10).
+Unntatt fra kravet om trafikalt grunnkurs er:
+
+1. personer som tidligere har gjennomført trafikalt grunnkurs,
+2. innehavere av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T,
+3. personer som har fylt 25 år,
+4. personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10).
 
 Personer som er unntatt etter første ledd bokstav b., på grunn av førerett i klasse AM 146, S eller T og personer som er unntatt etter første ledd bokstav c., skal likevel ha opplæring i kjøring i mørket og undervisning om plikter ved trafikkuhell og førstehjelp.
 
@@ -602,7 +724,41 @@ Personer som er unntatt etter første ledd bokstav b., på grunn av førerett i 
 
 Eleven skal gjennom opplevelser, aktiviteter og oppsummeringer bli bevisst på hva som menes med at enhver skal ferdes hensynsfullt, og være aktpågivende og varsom så det ikke kan oppstå fare eller voldes skade, og slik at annen trafikk ikke unødig blir hindret eller forstyrret, jf. [vegtrafikkloven § 3](lov/1965-06-18-4/§3).
 
-Eleven skalkjenne til formelle begrunnelser for at vi har trafikkopplæring, vilkår for å få førerkort og at det finnes læreplaner for trafikkopplæringha grunnleggende forståelse for trafikk og førerrollen ved åbli bevisst hvordan regler om plassering, fart, vikeplikt, skilt og vegoppmerking og andre former for regulering og styring bidrar til sikrere og mer effektiv trafikkavviklingdrøfte samfunnets behov og miljømessige konsekvenser av vegtrafikkenbli bevisst ansvaret føreren har for å velge andre måter å reise på enn ved eget kjøretøy, eller å la være å reise, om dette er det beste for en selv, eventuelle passasjerer, miljø m.m.videreutvikle sin kunnskap om mennesket i trafikken ved ådrøfte ulike trafikantgruppers forutsetninger, behov og perspektivbeskrive vesentlige elementer i kjøreprosessen og bli bevisst betydningen av motivasjon og følelserforstå betydningen av kommunikasjon og samhandlingbli bevisst hvilken betydning ansvarsforståelse, selvinnsikt og vilje har for hvordan vi handler i trafikkenha kunnskap om betydningen av trafikkopplæring ved åkjenne til reglene for øvingskjøringdrøfte sammenhengen mellom kjøreerfaring og trafikkulykkerforstå betydningen av automatisering av grunnleggende handlinger og handlingsmønstredrøfte føreropplæringsmodellen, og hvordan opplæring ved trafikkskole og privat øving er nyttig og nødvendig for å nå målet for opplæringenbeherske grunnleggende ferdigheter i forbindelse med trafikkulykker og førstehjelp ved åha kunnskap om plikter ved trafikkuhellkjenne til rutiner for sikring av og opptreden på skadestedkunne vurdere skadeomfang og øve på praktisk førstehjelpdelta i redningsarbeidet ved en arrangert ulykke og gjennom denneoppleve å komme først til skadestedet, forstå viktigheten av å kjenne skadeomfanget før ulykken varsles og hvordan varsling gjøresøve på grunnleggende rutiner på skadestedetvidereutvikle den praktiske ferdigheten i grunnleggende livreddende førstehjelp ved trafikkulykkerbli bevisst gjennom demonstrasjon ute og i bil hvordan trafikkulykker i mørket kan unngås ved åoppleve og erfare årsaksforhold ved typiske ulykker som skjer i mørket og ha grunnlag for å vurdere risiko ved kjøring i mørketdrøfte hvordan vi som trafikanter kan opptre for å redusere risikoen ved ferdsel i mørketdrøfte hva som er riktig lysbruk og atferd ellers ved kjøring, parkering og nødstopp i mørket.
+Eleven skal
+
+1. kjenne til formelle begrunnelser for at vi har trafikkopplæring, vilkår for å få førerkort og at det finnes læreplaner for trafikkopplæring
+2. ha grunnleggende forståelse for trafikk og førerrollen ved å
+
+   1. bli bevisst hvordan regler om plassering, fart, vikeplikt, skilt og vegoppmerking og andre former for regulering og styring bidrar til sikrere og mer effektiv trafikkavvikling
+   2. drøfte samfunnets behov og miljømessige konsekvenser av vegtrafikken
+   3. bli bevisst ansvaret føreren har for å velge andre måter å reise på enn ved eget kjøretøy, eller å la være å reise, om dette er det beste for en selv, eventuelle passasjerer, miljø m.m.
+3. videreutvikle sin kunnskap om mennesket i trafikken ved å
+
+   1. drøfte ulike trafikantgruppers forutsetninger, behov og perspektiv
+   2. beskrive vesentlige elementer i kjøreprosessen og bli bevisst betydningen av motivasjon og følelser
+   3. forstå betydningen av kommunikasjon og samhandling
+   4. bli bevisst hvilken betydning ansvarsforståelse, selvinnsikt og vilje har for hvordan vi handler i trafikken
+4. ha kunnskap om betydningen av trafikkopplæring ved å
+
+   1. kjenne til reglene for øvingskjøring
+   2. drøfte sammenhengen mellom kjøreerfaring og trafikkulykker
+   3. forstå betydningen av automatisering av grunnleggende handlinger og handlingsmønstre
+   4. drøfte føreropplæringsmodellen, og hvordan opplæring ved trafikkskole og privat øving er nyttig og nødvendig for å nå målet for opplæringen
+5. beherske grunnleggende ferdigheter i forbindelse med trafikkulykker og førstehjelp ved å
+
+   1. ha kunnskap om plikter ved trafikkuhell
+   2. kjenne til rutiner for sikring av og opptreden på skadested
+   3. kunne vurdere skadeomfang og øve på praktisk førstehjelp
+6. delta i redningsarbeidet ved en arrangert ulykke og gjennom denne
+
+   1. oppleve å komme først til skadestedet, forstå viktigheten av å kjenne skadeomfanget før ulykken varsles og hvordan varsling gjøres
+   2. øve på grunnleggende rutiner på skadestedet
+   3. videreutvikle den praktiske ferdigheten i grunnleggende livreddende førstehjelp ved trafikkulykker
+7. bli bevisst gjennom demonstrasjon ute og i bil hvordan trafikkulykker i mørket kan unngås ved å
+
+   1. oppleve og erfare årsaksforhold ved typiske ulykker som skjer i mørket og ha grunnlag for å vurdere risiko ved kjøring i mørket
+   2. drøfte hvordan vi som trafikanter kan opptre for å redusere risikoen ved ferdsel i mørket
+   3. drøfte hva som er riktig lysbruk og atferd ellers ved kjøring, parkering og nødstopp i mørket.
 
 Eleven skal vurdere sin egen kompetanse til å begynne videre opplæring og ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
 
@@ -616,7 +772,11 @@ Opplæringsinstitusjonen skal melde fra til Statens vegvesen om hvilke elever so
 
 ### § 8-5. Trafikalt grunnkurs i offentlig skoleverk
 
-Trafikalt grunnkurs skal gjennomføres som en integrert del av valgfag trafikk i offentlig skoleverk forutsatt at:eleven går i niende eller høyere klassetrinn,eleven har vært til stede i minst 80 prosent av valgfagets 57 timer herunder hele førstehjelpsopplæringen,undervisningen ikke gjennomføres med flere enn 18 elever.
+Trafikalt grunnkurs skal gjennomføres som en integrert del av valgfag trafikk i offentlig skoleverk forutsatt at:
+
+1. eleven går i niende eller høyere klassetrinn,
+2. eleven har vært til stede i minst 80 prosent av valgfagets 57 timer herunder hele førstehjelpsopplæringen,
+3. undervisningen ikke gjennomføres med flere enn 18 elever.
 
 Trafikant i mørket inngår ikke som en del av valgfag trafikk og må gjennomføres som beskrevet i [§ 8-1](forskrift/2004-10-01-1339/§8-1) ved en godkjent trafikkskole.
 
@@ -630,7 +790,13 @@ Trafikant i mørket inngår ikke som en del av valgfag trafikk og må gjennomfø
 
 Etter å ha gjennomført trafikkopplæring i klasse A, A2 eller A1, skal eleven ha den kompetansen som er nødvendig for å kjøre motorsykkel i den aktuelle klassen på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre motorsykkelen på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre motorsykkelen på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
 
 > Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
 
@@ -652,7 +818,15 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, motorsykkelen.
 
-Eleven skalgjøre rede for motorsykkelens oppbygning med tanke på sikkerhet og miljøgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens kravgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikktilegne seg grunnleggende kjøretekniske ferdigheter for bremsing og styringutføre aktuell sikkerhetskontroll av motorsykkelen.
+Eleven skal
+
+1. gjøre rede for motorsykkelens oppbygning med tanke på sikkerhet og miljø
+2. gjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhell
+3. gjøre rede for menneskets kapasitet og trafikkens krav
+4. gjøre seg klar for kjøring
+5. utføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikk
+6. tilegne seg grunnleggende kjøretekniske ferdigheter for bremsing og styring
+7. utføre aktuell sikkerhetskontroll av motorsykkelen.
 
 En elev som skal erverve førerett for en motorsykkelklasse for første gang skal innledningsvis i trinn 2 gjennomføre grunnkurs klasse A1, A2 og A i samsvar med [§ 9-6](forskrift/2004-10-01-1339/§9-6) og [§ 9-7](forskrift/2004-10-01-1339/§9-7).
 
@@ -670,7 +844,17 @@ Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anv
 
 Eleven skal ha tilstrekkelig øving i kjøring med læreren som passasjer, hvis det kan skje lovlig, eller med last som utnytter minimum 80 prosent av tillatt nyttelast.
 
-Eleven skalgjøre rede for trafikksystemet og trafikantgruppergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken, herunder kjøring i tunnel og de regler som gjelder for motorsykkelkjøringanvende systematisk og automatisert informasjonsinnhentinganvende presis kjøreteknikk for styring og bremsing av motorsykkelenmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+Eleven skal
+
+1. gjøre rede for trafikksystemet og trafikantgrupper
+2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+3. gjøre rede for tydelig, sikker og effektiv atferd i trafikken, herunder kjøring i tunnel og de regler som gjelder for motorsykkelkjøring
+4. anvende systematisk og automatisert informasjonsinnhenting
+5. anvende presis kjøreteknikk for styring og bremsing av motorsykkelen
+6. mestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljø
+7. mestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbi
+8. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+9. mestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -698,7 +882,15 @@ Grunnkurset består av 3 undervisningstimer. Undervisningen gjennomføres i klas
 
 Eleven skal gjennom drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med motorsykkel innebærer.
 
-Eleven skal:gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse A1, A2 og Adrøfte eget ønske og behov for å kjøre motorsykkel og samfunnets behovanalysere mulige konflikter mellom motorsyklister og andre trafikantgrupperdrøfte begrepet førerdyktighet, motorsykkelens kraftressurser og sammenhengen mellom disse og de krav trafikkmiljøet stiller til motorsykkelføreredrøfte og ta stilling til sikkerhet ved motorsykkelkjøring, årsakene til de vanligste og alvorligste motorsykkelulykkene og effektive tiltak for å motvirke dissegjøre rede for bruk av riktig motorsykkelbekledning og påbudt sikkerhetsutstyrsette ord på egne meninger om utfordringene ved å kjøre motorsykkel.
+Eleven skal:
+
+1. gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse A1, A2 og A
+2. drøfte eget ønske og behov for å kjøre motorsykkel og samfunnets behov
+3. analysere mulige konflikter mellom motorsyklister og andre trafikantgrupper
+4. drøfte begrepet førerdyktighet, motorsykkelens kraftressurser og sammenhengen mellom disse og de krav trafikkmiljøet stiller til motorsykkelførere
+5. drøfte og ta stilling til sikkerhet ved motorsykkelkjøring, årsakene til de vanligste og alvorligste motorsykkelulykkene og effektive tiltak for å motvirke disse
+6. gjøre rede for bruk av riktig motorsykkelbekledning og påbudt sikkerhetsutstyr
+7. sette ord på egne meninger om utfordringene ved å kjøre motorsykkel.
 
 > Endret ved forskrifter [30 april 2010 nr. 616](forskrift/2010-04-30-616) (i kraft 1 mai 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -712,7 +904,13 @@ Sikkerhetskurset er på 4 undervisningstimer hvor minst 3 timer skal være praks
 
 Eleven skal gjennom opplevelse, aktiviteter og drøftinger videreutvikle sin kompetanse i å kjøre sikkert i trafikale situasjoner i samsvar med målet for trinn 3.
 
-Eleven skalgjøre rede for begrepet kjørestrategi og hva som kan kjennetegne en sikker kjørestrategividereutvikle sin kjørestrategi i ulike trafikale miljøvidereutvikle en sikker, strategisk og taktisk kjøringforstå og videreutvikle sikker samhandling og kommunikasjon med andre trafikanterreflektere over sine erfaringer og opplevelser.
+Eleven skal
+
+1. gjøre rede for begrepet kjørestrategi og hva som kan kjennetegne en sikker kjørestrategi
+2. videreutvikle sin kjørestrategi i ulike trafikale miljø
+3. videreutvikle en sikker, strategisk og taktisk kjøring
+4. forstå og videreutvikle sikker samhandling og kommunikasjon med andre trafikanter
+5. reflektere over sine erfaringer og opplevelser.
 
 > Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-8), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -732,7 +930,19 @@ Kurset skal gjennomføres på avsperret område.
 
 Eleven skal gjennom praktiske øvelser, drøftinger og refleksjoner videreutvikle sin kjøretekniske kompetanse i motorsykkelkjøring. Gode arbeidsvaner og teknikker for bremsing og styring av motorsykkelen skal være etablert før kurset gjennomføres.
 
-Eleven skalkjenne til kursets mål og organisering, og bli bevisst sine egne forventninger til kursetutvikle forståelse for at en presis kjøreteknikk er basis for all kontroll med motorsykkelen under kjøringkjenne til de fysiske og psykiske begrensninger hos mennesket som har betydning for motorsykkelførere og kunne forklare hvordan føreren kan ta hensyn til dette i praktiske situasjonerbli bevisst på at motorsykkelkjøring er krevende og at gjentatt øving er nødvendig for å motvirke instinktive feilhandlingerVidereutvikle sin kjørekompetanse ved å oppleve og forstå betydningen av presis kjøreteknikk, som sittestilling, forankring, blikkbruk, styrekommando og gasskontroll,ved effektiv bremsing i hastighet 80 km/t på rett strekningved kjøring i høyre- og venstrekurver med kurveradius minst 10 meterved effektiv bremsing i høyre- og venstrekurver med kurveradius minst 10 meterved kursendring på strekning rett fremved farts- og plassendring i kurve.
+Eleven skal
+
+1. kjenne til kursets mål og organisering, og bli bevisst sine egne forventninger til kurset
+2. utvikle forståelse for at en presis kjøreteknikk er basis for all kontroll med motorsykkelen under kjøring
+3. kjenne til de fysiske og psykiske begrensninger hos mennesket som har betydning for motorsykkelførere og kunne forklare hvordan føreren kan ta hensyn til dette i praktiske situasjoner
+4. bli bevisst på at motorsykkelkjøring er krevende og at gjentatt øving er nødvendig for å motvirke instinktive feilhandlinger
+5. Videreutvikle sin kjørekompetanse ved å oppleve og forstå betydningen av presis kjøreteknikk, som sittestilling, forankring, blikkbruk, styrekommando og gasskontroll,
+
+   1. ved effektiv bremsing i hastighet 80 km/t på rett strekning
+   2. ved kjøring i høyre- og venstrekurver med kurveradius minst 10 meter
+   3. ved effektiv bremsing i høyre- og venstrekurver med kurveradius minst 10 meter
+   4. ved kursendring på strekning rett frem
+   5. ved farts- og plassendring i kurve.
 
 > Endret ved forskrifter [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013, tidligere § 9-9), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-10), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019).
 
@@ -748,7 +958,14 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
 
-Eleven skalplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljøbeskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valgoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledeoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist.
+Eleven skal
+
+1. planlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturen
+2. kjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø
+3. beskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valg
+4. oppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøreglede
+5. oppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsatt
+6. reflektere over og vurdere egen kompetanse som motorsyklist.
 
 > Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -766,7 +983,14 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
 
-Eleven skalplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre tydelig, sikkert og selvstendig over lengre strekninger i krevende og variert miljøbeskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valgoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledeoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist.
+Eleven skal
+
+1. planlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturen
+2. kjøre tydelig, sikkert og selvstendig over lengre strekninger i krevende og variert miljø
+3. beskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valg
+4. oppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøreglede
+5. oppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsatt
+6. reflektere over og vurdere egen kompetanse som motorsyklist.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -784,7 +1008,14 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
 
-Eleven skaldrøfte og ta stilling til begrepene risiko, sikkerhet, strategisk og taktisk i forbindelse med motorsykkelkjøring og hvilke påvirkningsmuligheter eleven harplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valgoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledevurdere egne sterke og svake sider som motorsyklist og velge ut områder med utviklingsmuligheter.
+Eleven skal
+
+1. drøfte og ta stilling til begrepene risiko, sikkerhet, strategisk og taktisk i forbindelse med motorsykkelkjøring og hvilke påvirkningsmuligheter eleven har
+2. planlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturen
+3. kjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valg
+4. oppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsatt
+5. oppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøreglede
+6. vurdere egne sterke og svake sider som motorsyklist og velge ut områder med utviklingsmuligheter.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -828,7 +1059,12 @@ Etter å ha gjennomført opplæringen skal eleven ha den kompetansen som er nød
 
 Eleven skal med bakgrunn i egen erfaring som fører at lett motorsykkel sette seg mål for opplæringen. Eleven skal gjennom samtaler og aktiviteter bli bevisst på hvilken kompetanse som kreves for en fører av mellomtung motorsykkel.
 
-Eleven skalbeskrive egen kjøredyktighetdrøfte begrepet sikkerhet i sammenheng med motorsykkelkjøringdrøfte kjøring med tyngre motorsykkel og egen utvikling som motorsykkelførervise tilstrekkelige tekniske kjøreferdigheter for å ha godt utbytte av de øvrige obligatoriske kursene.
+Eleven skal
+
+1. beskrive egen kjøredyktighet
+2. drøfte begrepet sikkerhet i sammenheng med motorsykkelkjøring
+3. drøfte kjøring med tyngre motorsykkel og egen utvikling som motorsykkelfører
+4. vise tilstrekkelige tekniske kjøreferdigheter for å ha godt utbytte av de øvrige obligatoriske kursene.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -860,7 +1096,15 @@ Etter å ha gjennomført opplæringen skal eleven ha den kompetansen som er nød
 
 Eleven skal med bakgrunn i egen erfaring som fører av mellomtung motorsykkel sette seg mål for opplæringen. Eleven skal gjennom samtale og aktiviteter bli bevisst på hvilken kompetanse som kreves for en fører av tung motorsykkel.
 
-Eleven skalkjenne til motorsyklisters ulykkesutsatthetdrøfte erfaringer med vekt på egen kjørestrategiplanlegge en sammenhengende kjøretur med vekt på egne utviklingsmulighetervise tilstrekkelige tekniske kjøreferdigheter til å ha utbytte av kursetkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valgoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist og vise evne og vilje til ettertanke og selvkritisk vurdering.
+Eleven skal
+
+1. kjenne til motorsyklisters ulykkesutsatthet
+2. drøfte erfaringer med vekt på egen kjørestrategi
+3. planlegge en sammenhengende kjøretur med vekt på egne utviklingsmuligheter
+4. vise tilstrekkelige tekniske kjøreferdigheter til å ha utbytte av kurset
+5. kjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valg
+6. oppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsatt
+7. reflektere over og vurdere egen kompetanse som motorsyklist og vise evne og vilje til ettertanke og selvkritisk vurdering.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -872,7 +1116,13 @@ Eleven skalkjenne til motorsyklisters ulykkesutsatthetdrøfte erfaringer med vek
 
 Etter å ha gjennomført trafikkopplæring i klasse AM 146 skal eleven ha den kompetansen som er nødvendig for å kjøre moped, AM 146, på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
 
 > Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
 
@@ -894,7 +1144,12 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, mopeden.
 
-Eleven skalgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikkbeherske grunnleggende kjøretøybehandling i områder med liten trafikkutføre aktuell sikkerhetskontroll av mopeden.
+Eleven skal
+
+1. gjøre seg klar for kjøring
+2. utføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikk
+3. beherske grunnleggende kjøretøybehandling i områder med liten trafikk
+4. utføre aktuell sikkerhetskontroll av mopeden.
 
 Eleven skal gjennomføre grunnkurs klasse AM 146 i samsvar med [§ 10-6](forskrift/2004-10-01-1339/§10-6) og [§ 10-7](forskrift/2004-10-01-1339/§10-7). Kurset gjennomføres som innledning til opplæringen i klasse AM 146. Ikke-obligatorisk opplæring mot vederlag kan i trinn 2 gjennomføres med inntil tre elever.
 
@@ -910,7 +1165,16 @@ Eleven skal kunne kjøre sikkert og selvstendig i variert trafikk.
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken, i ulike vegmiljø og de regler som gjelder for mopedkjøringanvende systematisk og automatisert informasjonsinnhenting og presis kjøreteknikkmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+Eleven skal
+
+1. gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetninger
+2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+3. gjøre rede for tydelig, sikker og effektiv atferd i trafikken, i ulike vegmiljø og de regler som gjelder for mopedkjøring
+4. anvende systematisk og automatisert informasjonsinnhenting og presis kjøreteknikk
+5. mestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljø
+6. mestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbi
+7. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+8. mestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
 
 Eleven skal gjennomføre sikkerhetskurs i trafikk klasse AM 146 i samsvar med [§ 10-8](forskrift/2004-10-01-1339/§10-8) og [§ 10-9](forskrift/2004-10-01-1339/§10-9). Kurset gjennomføres mot slutten av opplæringen i trinn 3. Ikke-obligatorisk opplæring mot vederlag kan i trinn 3 gjennomføres med inntil tre elever.
 
@@ -938,7 +1202,14 @@ Kurset er på 3 undervisningstimer. Undervisningen gjennomføres i klasserom med
 
 Eleven skal gjennom drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med moped innebærer.
 
-Eleven skalgjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AM 146drøfte mopedførerens kapasitet og trafikkens kravdrøfte mopedens oppbygning med tanke på sikkerhet og miljøgjøre rede for mopedførerens bekledning med tanke på sikkerhetdrøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhelldrøfte begrepene sikker, strategisk og taktisk kjøring.
+Eleven skal
+
+1. gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AM 146
+2. drøfte mopedførerens kapasitet og trafikkens krav
+3. drøfte mopedens oppbygning med tanke på sikkerhet og miljø
+4. gjøre rede for mopedførerens bekledning med tanke på sikkerhet
+5. drøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhell
+6. drøfte begrepene sikker, strategisk og taktisk kjøring.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -956,7 +1227,10 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal videreutvikle evne til refleksjon, til å samhandle med andre trafikanter og til å velge kjøremåter med lav risiko.
 
-Eleven skalmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter, herunder å forutse, oppfatte og motvirke risiko for møteulykker, å bli forbikjørt og å kjøre forbivurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+Eleven skal
+
+1. mestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter, herunder å forutse, oppfatte og motvirke risiko for møteulykker, å bli forbikjørt og å kjøre forbi
+2. vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -974,7 +1248,11 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal utvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
 
-Eleven skalvidereutvikle tydelig, sikker og selvstendig kjøring med moped i tettbygd strøk og landevegsmiljø ved bruk av systematisk informasjonsinnhenting og presis kjøre- teknikkerfare og velge kjørerute som gir størst mulig trygghet og minst mulig ulempe for annen trafikkreflektere over egne opplevelser og mopedens muligheter for sikker transport.
+Eleven skal
+
+1. videreutvikle tydelig, sikker og selvstendig kjøring med moped i tettbygd strøk og landevegsmiljø ved bruk av systematisk informasjonsinnhenting og presis kjøre- teknikk
+2. erfare og velge kjørerute som gir størst mulig trygghet og minst mulig ulempe for annen trafikk
+3. reflektere over egne opplevelser og mopedens muligheter for sikker transport.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -990,7 +1268,13 @@ Elev som har gjennomført all obligatorisk opplæring i klasse A, A2 eller A1, m
 
 Etter å ha gjennomført trafikkopplæringen i klasse B skal eleven ha den kompetansen som er nødvendig for å kjøre bil på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
 
 ### § 11-2. Trinn 1: Trafikalt grunnkurs
 
@@ -1010,7 +1294,17 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bilen.
 
-Eleven skalgjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse Bgjøre rede for bilens oppbygning med tanke på sikkerhet og miljø, herunder førerstøttesystemer som er vanlige i klassengjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for kjøring med tilhengergjøre rede for menneskets kapasitet og trafikkens krav herunder rus, rusmidler og bilkjøringgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring, bremsing og rygging i variert terrengbeherske grunnleggende kjøretøybehandling i områder med liten trafikk, herunder når aktuelle førerstøttesystemer er aktivert eller deaktivertutføre aktuell sikkerhetskontroll av bilen.
+Eleven skal
+
+1. gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse B
+2. gjøre rede for bilens oppbygning med tanke på sikkerhet og miljø, herunder førerstøttesystemer som er vanlige i klassen
+3. gjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhell
+4. gjøre rede for kjøring med tilhenger
+5. gjøre rede for menneskets kapasitet og trafikkens krav herunder rus, rusmidler og bilkjøring
+6. gjøre seg klar for kjøring
+7. utføre igangsetting og stans, giring, styring, bremsing og rygging i variert terreng
+8. beherske grunnleggende kjøretøybehandling i områder med liten trafikk, herunder når aktuelle førerstøttesystemer er aktivert eller deaktivert
+9. utføre aktuell sikkerhetskontroll av bilen.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1024,7 +1318,18 @@ Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for hva det innebærer å ta tilstrekkelig hensyn til andre trafikantergjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for bilkjøringanvende systematisk og automatisert informasjonsinnhentingmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.mestre å bruke de førerstøttesystemene som kan aktiveres og deaktiveres av fører på øvingskjøretøyet, og reagere riktig når systemene varsler eller griper inn i kjøringen.
+Eleven skal
+
+1. gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetninger
+2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+3. gjøre rede for hva det innebærer å ta tilstrekkelig hensyn til andre trafikanter
+4. gjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for bilkjøring
+5. anvende systematisk og automatisert informasjonsinnhenting
+6. mestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljø
+7. mestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbi
+8. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+9. mestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+10. mestre å bruke de førerstøttesystemene som kan aktiveres og deaktiveres av fører på øvingskjøretøyet, og reagere riktig når systemene varsler eller griper inn i kjøringen.
 
 Eleven skal gjennomføre sikkerhetskurs på øvingsbane i samsvar med [§§ 11-6](forskrift/2004-10-01-1339/§11-6) og [11-7](forskrift/2004-10-01-1339/§11-7). Kurset gjennomføres mot slutten av opplæringen i trinn 3. Unntaksvis kan kurset gjennomføres i tilknytning til kjøring i landevegsmiljø eller til kjøring i variert trafikkmiljø i sikkerhetskurs på veg, jf. [§ 11-8](forskrift/2004-10-01-1339/§11-8) tredje og fjerde ledd, når dette kan være fordelaktig for eleven. Det skal særlig tas hensyn til den totale undervisningsbelastningen og elevens læringsutbytte når undervisningen organiseres på denne måten.
 
@@ -1058,7 +1363,21 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal lære å sikre personer og last, og forstå hvordan bilens bremse- og styremuligheter påvirkes av førerens kjøremåte og bilens utrustning.
 
-Eleven skalkjenne kursets mål og organisering, og bli bevisst og sette ord på egne forventninger og målforstå betydningen av å sikre personer og last i eller på bil ved åoppleve hvordan løse gjenstander påvirkes og tilegne seg kunnskap om hvilke krefter en person utsettes for ved bråstopptilegne seg kunnskap om og øve på å sikre barn, voksne, last og gjenstandervidereutvikle sin kompetanse til å ha kontroll over bilen ved åoppleve hvordan fart, kjøremåte, førerstøttesystem, dekk og tilgjengelig veggrep virker inn på bilens bremse- og styremuligheteroppleve krisesituasjoner og bli bevisst egne reaksjonerreflektere over sine erfaringer og opplevelser ved ådele disse med medelever og lærerevurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmuligheter.
+Eleven skal
+
+1. kjenne kursets mål og organisering, og bli bevisst og sette ord på egne forventninger og mål
+2. forstå betydningen av å sikre personer og last i eller på bil ved å
+
+   1. oppleve hvordan løse gjenstander påvirkes og tilegne seg kunnskap om hvilke krefter en person utsettes for ved bråstopp
+   2. tilegne seg kunnskap om og øve på å sikre barn, voksne, last og gjenstander
+3. videreutvikle sin kompetanse til å ha kontroll over bilen ved å
+
+   1. oppleve hvordan fart, kjøremåte, førerstøttesystem, dekk og tilgjengelig veggrep virker inn på bilens bremse- og styremuligheter
+   2. oppleve krisesituasjoner og bli bevisst egne reaksjoner
+4. reflektere over sine erfaringer og opplevelser ved å
+
+   1. dele disse med medelever og lærere
+   2. vurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmuligheter.
 
 > Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -1086,7 +1405,36 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
 
-Eleven skalha forståelse for bilkjøringens risiko ved åkjenne kursets mål og organisering og sette ord på egne forventninger og måldrøfte begrepet kjøredyktighetkjenne til fordelingen av de alvorligste ulykkene i forhold til alder, kjønn og tidspunktdrøfte årsakene til de vanligste og alvorligste ungdomsulykkene og foreslå, argumentere for og ta stilling til effektive tiltak for å motvirke disseidentifisere og beskrive mulige risikofaktorer i en gitt trafikksituasjon, forklare hva risikoen består i og velge ut, beskrive og argumentere for en ønsket atferddrøfte hvordan de selv påvirker og påvirkes av andre og være bevisst på sin personlige kjørestil med tanke på risiko og miljøvidereutvikle sin kjørekompetanse i landevegsmiljø ved åøve på kjøring på landeveg med varierende standardidentifisere og beskrive trafikkmiljøet, forutse og påpeke mulige risikomomenter og angi en hensiktsmessig kjøremåte fremover i tidanvende presis kjøreteknikk og videreutvikle en miljøvennlig og økonomisk kjøremåteoppleve og erfare situasjoner med særlig stor risiko ved inn- og/eller avkjøring fra større veg og vurdere og utvise hensiktsmessig atferd i slike situasjoneroppleve og erfare møtesituasjoner og å bli forbikjørt, og vurdere og utvise hensiktsmessig atferd og vilje til å ivareta egen og andres sikkerhet i slike situasjoner og ved vurdering av om egen forbikjøring kan gjennomføres eller ikkeskrive loggplanlegge og gjennomføre kjøring i variert trafikkmiljø ved åanvende hensiktsmessige hjelpemidler for å kunne beskrive, forklare og begrunne ulike forhold en må vente og ta hensyn til i løpet av kjøreturenkjøre selvstendig over lengre strekninger i et skiftende miljø som varierer i vegstandard og mellom typisk landeveg, by- og tettstedsmiljøbegrunne handlingsvalg og kjøremåterskrive loggreflektere over sine erfaringer og opplevelser ved ådele disse med medelever og lærerebeskrive og begrunne egne valg og kjøremåtervurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmulighetervurdere og ta stilling til ulike løsninger i en gitt problemstilling, gjøre rede for sitt syn og kunne argumentere for dette.
+Eleven skal
+
+1. ha forståelse for bilkjøringens risiko ved å
+
+   1. kjenne kursets mål og organisering og sette ord på egne forventninger og mål
+   2. drøfte begrepet kjøredyktighet
+   3. kjenne til fordelingen av de alvorligste ulykkene i forhold til alder, kjønn og tidspunkt
+   4. drøfte årsakene til de vanligste og alvorligste ungdomsulykkene og foreslå, argumentere for og ta stilling til effektive tiltak for å motvirke disse
+   5. identifisere og beskrive mulige risikofaktorer i en gitt trafikksituasjon, forklare hva risikoen består i og velge ut, beskrive og argumentere for en ønsket atferd
+   6. drøfte hvordan de selv påvirker og påvirkes av andre og være bevisst på sin personlige kjørestil med tanke på risiko og miljø
+2. videreutvikle sin kjørekompetanse i landevegsmiljø ved å
+
+   1. øve på kjøring på landeveg med varierende standard
+   2. identifisere og beskrive trafikkmiljøet, forutse og påpeke mulige risikomomenter og angi en hensiktsmessig kjøremåte fremover i tid
+   3. anvende presis kjøreteknikk og videreutvikle en miljøvennlig og økonomisk kjøremåte
+   4. oppleve og erfare situasjoner med særlig stor risiko ved inn- og/eller avkjøring fra større veg og vurdere og utvise hensiktsmessig atferd i slike situasjoner
+   5. oppleve og erfare møtesituasjoner og å bli forbikjørt, og vurdere og utvise hensiktsmessig atferd og vilje til å ivareta egen og andres sikkerhet i slike situasjoner og ved vurdering av om egen forbikjøring kan gjennomføres eller ikke
+   6. skrive logg
+3. planlegge og gjennomføre kjøring i variert trafikkmiljø ved å
+
+   1. anvende hensiktsmessige hjelpemidler for å kunne beskrive, forklare og begrunne ulike forhold en må vente og ta hensyn til i løpet av kjøreturen
+   2. kjøre selvstendig over lengre strekninger i et skiftende miljø som varierer i vegstandard og mellom typisk landeveg, by- og tettstedsmiljø
+   3. begrunne handlingsvalg og kjøremåter
+   4. skrive logg
+4. reflektere over sine erfaringer og opplevelser ved å
+
+   1. dele disse med medelever og lærere
+   2. beskrive og begrunne egne valg og kjøremåter
+   3. vurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmuligheter
+   4. vurdere og ta stilling til ulike løsninger i en gitt problemstilling, gjøre rede for sitt syn og kunne argumentere for dette.
 
 > Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -1104,7 +1452,13 @@ Dokumentert fullført obligatorisk opplæring, som i det minste består av trinn
 
 Etter å ha gjennomført trafikkopplæringen i klasse BE skal eleven ha den kompetansen som er nødvendig for å kjøre bil med tilhenger på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper, ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper, ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
 
 ### § 12-2. Trinn 1 – klasse BE
 
@@ -1118,7 +1472,13 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bil og tilhenger.
 
-Eleven skalha kunnskap om risiko i tilknytning til å kjøre bil med tilhengerha grunnleggende kunnskap om lastsikringkunne kople til og fra tilhengeren og utføre aktuell sikkerhetskontrollkunne vurdere plassbehov ved kjøring rett fram og i sving, og kjøre vogntoget i mot- og utforbakkekunne rygge rett bakover og i sving, og kjenne førerens ansvar og plikter i forbindelse med rygging.
+Eleven skal
+
+1. ha kunnskap om risiko i tilknytning til å kjøre bil med tilhenger
+2. ha grunnleggende kunnskap om lastsikring
+3. kunne kople til og fra tilhengeren og utføre aktuell sikkerhetskontroll
+4. kunne vurdere plassbehov ved kjøring rett fram og i sving, og kjøre vogntoget i mot- og utforbakke
+5. kunne rygge rett bakover og i sving, og kjenne førerens ansvar og plikter i forbindelse med rygging.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1132,7 +1492,12 @@ Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal i vurdere sin egen ferdighet til å kjøre bil med tilhenger i god samhandling med andre.
 
-Eleven skalha systematisk og automatisert informasjonsinnhentingkunne kjøre tydelig, sikkert og effektivt i variert terrengkunne vurdere snuplasser, snumåter og bruk av medhjelperkunne kjøre selvstendig i variert trafikkmiljø på en måte som gir god samhandling med andre trafikanter og samtidig er økonomisk og miljøvennlig.
+Eleven skal
+
+1. ha systematisk og automatisert informasjonsinnhenting
+2. kunne kjøre tydelig, sikkert og effektivt i variert terreng
+3. kunne vurdere snuplasser, snumåter og bruk av medhjelper
+4. kunne kjøre selvstendig i variert trafikkmiljø på en måte som gir god samhandling med andre trafikanter og samtidig er økonomisk og miljøvennlig.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1160,7 +1525,12 @@ I minst halvparten av den praktiske øvingen skal tilhengeren være lastet med f
 
 Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse til å opptre slik at ulykker unngås.
 
-Eleven skalplanlegge kjørerutaforstå risikoen ved å kjøre personbil med tilhenger i ulike trafikkmiljøutvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner, planlegging av møting, å bli forbikjørt, vurdering av snuplass og måte å snu på, og økonomisk kjøringkunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen kjøredyktighet til å kjøre bil med tilhenger og muligheter for forbedring.
+Eleven skal
+
+1. planlegge kjøreruta
+2. forstå risikoen ved å kjøre personbil med tilhenger i ulike trafikkmiljø
+3. utvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner, planlegging av møting, å bli forbikjørt, vurdering av snuplass og måte å snu på, og økonomisk kjøring
+4. kunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen kjøredyktighet til å kjøre bil med tilhenger og muligheter for forbedring.
 
 > Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
 
@@ -1178,7 +1548,13 @@ Ved utvidelse fra klasse B kode 96 til klasse BE gjennomføres praktisk prøve.
 
 Etter å ha gjennomført trafikkopplæringen i klasse AM 147 skal eleven ha den kompetansen som er nødvendig for å kjøre tre- og firehjuls moped på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
 
 > Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
 
@@ -1200,7 +1576,12 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, mopeden.
 
-Eleven skalgjøre rede for reglene om førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AMgjøre rede for mopedens oppbygning med tanke på sikkerhet og miljøgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens krav, herunder rus, rusmidler og kjøring.
+Eleven skal
+
+1. gjøre rede for reglene om førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AM
+2. gjøre rede for mopedens oppbygning med tanke på sikkerhet og miljø
+3. gjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhell
+4. gjøre rede for menneskets kapasitet og trafikkens krav, herunder rus, rusmidler og kjøring.
 
 Eleven skal gjennomføre obligatorisk kurs i grunnleggende kjøretøybehandling i samsvar med [§ 13-6](forskrift/2004-10-01-1339/§13-6). Kurset er på 4 undervisningstimer.
 
@@ -1216,7 +1597,11 @@ Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for de regler som gjelder for kjøring med moped i trafikken.
+Eleven skal
+
+1. gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetninger
+2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+3. gjøre rede for de regler som gjelder for kjøring med moped i trafikken.
 
 Eleven skal gjennomføre obligatorisk kurs i kjøring i trafikk i samsvar med [§ 13-7](forskrift/2004-10-01-1339/§13-7). Kurset er på 6 undervisningstimer.
 
@@ -1240,7 +1625,13 @@ Eleven skal gjennom øving utvikle sin kompetanse i grunnleggende kjøretøybeha
 
 Kjøreferdigheten skal være så god at eleven har forsvarlig kontroll over kjøretøyet.
 
-Eleven skalgjøre seg klar for kjøringutføre igangsetting og stans i variert terrengutføre giring (der girmoped benyttes), styring og bremsingbeherske grunnleggende kjøretøybehandling under sammenhengende kjøringutføre sikkerhetskontroll av mopeden.
+Eleven skal
+
+1. gjøre seg klar for kjøring
+2. utføre igangsetting og stans i variert terreng
+3. utføre giring (der girmoped benyttes), styring og bremsing
+4. beherske grunnleggende kjøretøybehandling under sammenhengende kjøring
+5. utføre sikkerhetskontroll av mopeden.
 
 > Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
 
@@ -1248,7 +1639,11 @@ Eleven skalgjøre seg klar for kjøringutføre igangsetting og stans i variert t
 
 Eleven skal gjennom opplevelser og erfaringer videreutvikle sin kompetanse i å kjøre trygt i trafikken.
 
-Eleven skalanvende systematisk og automatisert informasjonsinnhentingmestre å kjøre tydelig, sikkert og effektivt i bolig-, tettsted-, by- og landevegsmiljømestre riktig kjøremåte i tilknytning til eventuelle spesielle lokale trafikkforhold.
+Eleven skal
+
+1. anvende systematisk og automatisert informasjonsinnhenting
+2. mestre å kjøre tydelig, sikkert og effektivt i bolig-, tettsted-, by- og landevegsmiljø
+3. mestre riktig kjøremåte i tilknytning til eventuelle spesielle lokale trafikkforhold.
 
 > Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
 
@@ -1256,7 +1651,13 @@ Eleven skalanvende systematisk og automatisert informasjonsinnhentingmestre å k
 
 Etter å ha gjennomført sikkerhetskurs på veg skal eleven gjennom opplevelse og erfaring ha videreutviklet sin kompetanse i å opptre slik at ulykker unngås. Eleven skal ha forståelse for risikomomenter knyttet til kjøring med tre- eller firehjulsmoped både på landeveg og i andre miljøer.
 
-Eleven skalforberede seg til, og klargjøre kjøretøyet for og planlegge en kjøretur og gjøre rede for forhold som en må forvente å møte og ta hensyn til i løpet av kjøreturenha forståelse for faremomenter knyttet til kryssing, inn- og utkjøring på større veg og videreutvikle sin kjørekompetanse i slike situasjonerha forståelse for faremomenter knyttet til kjøring på landeveg og videreutvikle sin kjørekompetanse på slik vegha forståelse for spesielle risikomomenter knyttet til kjøring med tre- eller firehjulsmoped og videreutvikle sin kjørekompetanse i ulike trafikkmiljøkunne sette ord på egne erfaringer, vurdere egne sterke og svake sider som mopedfører og velge ut områder med utviklingsmulighet.
+Eleven skal
+
+1. forberede seg til, og klargjøre kjøretøyet for og planlegge en kjøretur og gjøre rede for forhold som en må forvente å møte og ta hensyn til i løpet av kjøreturen
+2. ha forståelse for faremomenter knyttet til kryssing, inn- og utkjøring på større veg og videreutvikle sin kjørekompetanse i slike situasjoner
+3. ha forståelse for faremomenter knyttet til kjøring på landeveg og videreutvikle sin kjørekompetanse på slik veg
+4. ha forståelse for spesielle risikomomenter knyttet til kjøring med tre- eller firehjulsmoped og videreutvikle sin kjørekompetanse i ulike trafikkmiljø
+5. kunne sette ord på egne erfaringer, vurdere egne sterke og svake sider som mopedfører og velge ut områder med utviklingsmulighet.
 
 > Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
 
@@ -1266,7 +1667,13 @@ Eleven skalforberede seg til, og klargjøre kjøretøyet for og planlegge en kj�
 
 Etter å ha gjennomført opplæringen i klasse S skal eleven ha den kompetansen som er nødvendig for å kjøre beltemotorsykkel på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:ivaretar egen og andres sikkerhetgir god samhandling med andre brukere av naturentar hensyn til helse og trivseltar hensyn til natur og miljøer i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:
+
+1. ivaretar egen og andres sikkerhet
+2. gir god samhandling med andre brukere av naturen
+3. tar hensyn til helse og trivsel
+4. tar hensyn til natur og miljø
+5. er i samsvar med gjeldende regelverk.
 
 > Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
 
@@ -1288,7 +1695,12 @@ Eleven skal tilegne seg så god kjøreteknisk ferdighet at eleven kan flytte opp
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, beltemotorsykkelen.
 
-Eleven skalutføre aktuell sikkerhetskontroll og skifte av variatorreimutføre start og stopp av motorbenytte korrekt sittestilling og styreteknikkutføre igangsetting, fartsøkning og bremsing på en sikker og behagelig måte.
+Eleven skal
+
+1. utføre aktuell sikkerhetskontroll og skifte av variatorreim
+2. utføre start og stopp av motor
+3. benytte korrekt sittestilling og styreteknikk
+4. utføre igangsetting, fartsøkning og bremsing på en sikker og behagelig måte.
 
 Eleven skal innledningsvis i trinn 2 gjennomføre grunnkurs i klasse S jf. [§ 14-6](forskrift/2004-10-01-1339/§14-6) og [§ 14-7](forskrift/2004-10-01-1339/§14-7).
 
@@ -1308,7 +1720,17 @@ Eleven skal kunne kjøre trygt, miljøbevisst og selvstendig under varierte forh
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre selvstendig, sikkert, miljøbevisst og i god samhandling med andre brukere av naturen.
 
-Eleven skal:øve på kontroll før kjøringtilpasse sin kjøring i forhold til terreng, føreforholdene og egne ferdighetervelge kjøreadferd som er tilpasset andre brukere av naturen, dyreliv, natur og miljø, herunder lokale restriksjonerutføre kontroll av slede og lasting av slede med rett plassering og sikring av lastoppleve utfordringene ved, og få øving i, kjøring med passasjer på beltemotorsykkelen og med opplastet tilhengersledeforstå veltefaren og gjøre sikre vegvalg i ulendt terreng og løssnø, med og uten passasjer, slede og lastkjenne til faremomentene ved, og få øving i kjøring på veg og glatt underlag med og uten slede, ved kryssing av vegøve på observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følgeøve på å orientere seg ved hjelp av kart og kompass og GPS relaterte hjelpemidler.
+Eleven skal:
+
+1. øve på kontroll før kjøring
+2. tilpasse sin kjøring i forhold til terreng, føreforholdene og egne ferdigheter
+3. velge kjøreadferd som er tilpasset andre brukere av naturen, dyreliv, natur og miljø, herunder lokale restriksjoner
+4. utføre kontroll av slede og lasting av slede med rett plassering og sikring av last
+5. oppleve utfordringene ved, og få øving i, kjøring med passasjer på beltemotorsykkelen og med opplastet tilhengerslede
+6. forstå veltefaren og gjøre sikre vegvalg i ulendt terreng og løssnø, med og uten passasjer, slede og last
+7. kjenne til faremomentene ved, og få øving i kjøring på veg og glatt underlag med og uten slede, ved kryssing av veg
+8. øve på observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følge
+9. øve på å orientere seg ved hjelp av kart og kompass og GPS relaterte hjelpemidler.
 
 Eleven skal ha 4 undervisningstimer hvorav minst 3 timer skal være egenkjøring i variert terreng. Trinn 3 kan ikke gjennomføres på samme dag som grunnkurs klasse S.
 
@@ -1342,7 +1764,15 @@ Undervisningen gjennomføres i klasserom med inntil 16 elever.
 
 Eleven skal gjennom drøftinger og aktiviteter, refleksjon og oppsummering utvikle grunnleggende forståelse for hva kjøring med beltemotorsykkel, ferdsel med motorvogn i naturen og sikkerhet i fjellet innebærer.
 
-Eleven skalgjøre rede for regler om førerkort og føreropplæring, og grunntankene i opplæringen i klasse Sdrøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved uhelldrøfte førers ansvar for natur, miljø og andre brukere av naturendrøfte rett bekledning og nødvendig sikkerhetsutstyrdrøfte GPS baserte hjelpemidler til bruk ved orienteringgjøre rede for kjøretøyets konstruksjon og virkemåtegjøre rede for sikkerhetskontroll av beltemotorsykkel.
+Eleven skal
+
+1. gjøre rede for regler om førerkort og føreropplæring, og grunntankene i opplæringen i klasse S
+2. drøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved uhell
+3. drøfte førers ansvar for natur, miljø og andre brukere av naturen
+4. drøfte rett bekledning og nødvendig sikkerhetsutstyr
+5. drøfte GPS baserte hjelpemidler til bruk ved orientering
+6. gjøre rede for kjøretøyets konstruksjon og virkemåte
+7. gjøre rede for sikkerhetskontroll av beltemotorsykkel.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
 
@@ -1366,7 +1796,33 @@ Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opp
 
 Eleven skal lære å gjøre gode forberedelser før kjøring, gode valg under kjøring, og aktuelle nødtiltak og førstehjelp ved ulykke.
 
-Eleven skallære å gjøre gode forberedelser før kjøring ved å kunne:gjøre rede for fjellvettreglenefinne frem på og anvende varsom.no, andre nettsteder og kilder til planlegging av sikker ferdsel i mulig skredterreng og på islagt vannvurdere isforhold, og andre utfordringer i løypergjøre rede for bruk av smarttelefoner for navigasjon, skredvarsling og ulykkesvarslinggjøre rede for bruk av nødpeilesender til ulykkesvarslinggjøre rede for værtegn og utfordringer ved vind og dårlige siktforholdgjøre rede for symptomer på lokal og generell nedkjøling og hvordan forebygge nedkjølingvelge rett bekledning og nødvendig sikkerhetsutstyrvidereutvikle sin kjørekompetanse på beltemotorsykkel ved å:gjennomføre selvstendig sammenhengende kjøring med og uten last, herunder selv velge sikre ruter tilpasset skredfare, miljø, dyreliv og naturorientere seg ved hjelp av kart, kompass og GPS baserte hjelpemidlerbenytte rett observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følgevidereutvikle sin forståelse for de farer og ulemper kjøring med beltemotorsykkel medfører for miljø, dyreliv, natur, fører, passasjer og andre brukere av naturenlære å utføre aktuelle nødtiltak, kameratredning og førstehjelp ved å:etablere nødbivuakk i snøen og bruke vindsekkutføre søk med skredsøker (sender/mottaker) og søkestang mot nedgravd person eller simulert person ved f.eks. ryggsekkutføre førstehjelp og kameratredning ved simulert ulykke med beltemotorsykkel i naturenreflektere over sine erfaringer og opplevelser ved ådrøfte disse med sine medelever og lærervurdere egne sterke og svake sider som fører av beltemotorsykkel og velge ut områder med utviklingsmuligheter.
+Eleven skal
+
+1. lære å gjøre gode forberedelser før kjøring ved å kunne:
+
+   1. gjøre rede for fjellvettreglene
+   2. finne frem på og anvende varsom.no, andre nettsteder og kilder til planlegging av sikker ferdsel i mulig skredterreng og på islagt vann
+   3. vurdere isforhold, og andre utfordringer i løyper
+   4. gjøre rede for bruk av smarttelefoner for navigasjon, skredvarsling og ulykkesvarsling
+   5. gjøre rede for bruk av nødpeilesender til ulykkesvarsling
+   6. gjøre rede for værtegn og utfordringer ved vind og dårlige siktforhold
+   7. gjøre rede for symptomer på lokal og generell nedkjøling og hvordan forebygge nedkjøling
+   8. velge rett bekledning og nødvendig sikkerhetsutstyr
+2. videreutvikle sin kjørekompetanse på beltemotorsykkel ved å:
+
+   1. gjennomføre selvstendig sammenhengende kjøring med og uten last, herunder selv velge sikre ruter tilpasset skredfare, miljø, dyreliv og natur
+   2. orientere seg ved hjelp av kart, kompass og GPS baserte hjelpemidler
+   3. benytte rett observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følge
+   4. videreutvikle sin forståelse for de farer og ulemper kjøring med beltemotorsykkel medfører for miljø, dyreliv, natur, fører, passasjer og andre brukere av naturen
+3. lære å utføre aktuelle nødtiltak, kameratredning og førstehjelp ved å:
+
+   1. etablere nødbivuakk i snøen og bruke vindsekk
+   2. utføre søk med skredsøker (sender/mottaker) og søkestang mot nedgravd person eller simulert person ved f.eks. ryggsekk
+   3. utføre førstehjelp og kameratredning ved simulert ulykke med beltemotorsykkel i naturen
+4. reflektere over sine erfaringer og opplevelser ved å
+
+   1. drøfte disse med sine medelever og lærer
+   2. vurdere egne sterke og svake sider som fører av beltemotorsykkel og velge ut områder med utviklingsmuligheter.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
 
@@ -1376,7 +1832,14 @@ Eleven skallære å gjøre gode forberedelser før kjøring ved å kunne:gjøre 
 
 Etter å ha gjennomført trafikkopplæringen i klasse T skal eleven ha den kompetanse som er nødvendig for å kjøre traktor med tilhenger på en ansvarlig måte.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre traktor med tilhenger på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behovgjør at kjøretøy og veg ikke utsettes for unødig slitasjeer i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre traktor med tilhenger på en måte som:
+
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- tar hensyn til helse, miljø og andres behov
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- er i samsvar med gjeldende regelverk.
 
 ### § 15-2. Trinn 1: Trafikalt grunnkurs
 
@@ -1396,7 +1859,20 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å bruke, og oppdage mangler ved, traktor med tilhenger.
 
-Eleven skal:gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse Tkjenne til at det finnes regler om motorferdsel i utmark og Arbeidstilsynets regler om bruk av traktorgjøre rede for traktorens og tilhengerens konstruksjon med tanke på sikkerhet og miljø, og grunnleggende lastsikringgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens kravgjøre seg klar for kjøringutføre igangsetting og stans i variert terrengutføre riktig bruk av girsystem i variert terrengutføre bremsing i variert terrengutføre styring og svinging i kryssutføre rygging med og uten tilhenger, og til- og frakobling av tilhengerutføre aktuell sikkerhetskontroll av traktor og tilhenger, herunder legge på kjetting.
+Eleven skal:
+
+1. gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse T
+2. kjenne til at det finnes regler om motorferdsel i utmark og Arbeidstilsynets regler om bruk av traktor
+3. gjøre rede for traktorens og tilhengerens konstruksjon med tanke på sikkerhet og miljø, og grunnleggende lastsikring
+4. gjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhell
+5. gjøre rede for menneskets kapasitet og trafikkens krav
+6. gjøre seg klar for kjøring
+7. utføre igangsetting og stans i variert terreng
+8. utføre riktig bruk av girsystem i variert terreng
+9. utføre bremsing i variert terreng
+10. utføre styring og svinging i kryss
+11. utføre rygging med og uten tilhenger, og til- og frakobling av tilhenger
+12. utføre aktuell sikkerhetskontroll av traktor og tilhenger, herunder legge på kjetting.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1410,7 +1886,19 @@ Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skal:gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for traktor med tilhengergjøre rede for kjøring på glatt føreanvende systematisk og automatisert informasjonsbearbeidingøve på å kjøre tydelig inn mot, gjennom og mellom kryssøve på å tilpasse kjøremåten til boligmiljø, tettsteds- og bymiljøøve på å tilpasse kjøremåten for kryssing av jernbaneplanovergang og til lokale kjøreforholdøve på vending og parkeringøve på å kjøre med lav risiko på landevegøve på å bruke traktor med tilhenger riktig i variert terreng og trafikkmiljø.
+Eleven skal:
+
+1. gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetninger
+2. gjøre rede for veg, vegoppmerking, skilt og annen trafikkregulering
+3. gjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for traktor med tilhenger
+4. gjøre rede for kjøring på glatt føre
+5. anvende systematisk og automatisert informasjonsbearbeiding
+6. øve på å kjøre tydelig inn mot, gjennom og mellom kryss
+7. øve på å tilpasse kjøremåten til boligmiljø, tettsteds- og bymiljø
+8. øve på å tilpasse kjøremåten for kryssing av jernbaneplanovergang og til lokale kjøreforhold
+9. øve på vending og parkering
+10. øve på å kjøre med lav risiko på landeveg
+11. øve på å bruke traktor med tilhenger riktig i variert terreng og trafikkmiljø.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1422,7 +1910,13 @@ Etter å ha gjennomført trinn 4 skal eleven ha den kompetanse som er nødvendig
 
 Eleven skal kunne kjøre selvstendig i variert trafikk på en måte som gir god samhandling med andre trafikanter og som samtidig er økonomisk og miljøvennlig.
 
-Eleven skalmestre å forutse og vurdere risikoforhold riktig og i god tidmestre tydelig tegngiving, fartstilpassing og plasseringmestre å ha handlingsberedskap når det er nødvendigmestre å ta hensyn til egne og kjøretøyets begrensninger, slik at kjøringen hele tiden er under kontrollreflektere over hvordan trafikkbildet kan endre seg, legge planer ut i fra det og kunne begrunne handlingsvalg i ettertid.
+Eleven skal
+
+1. mestre å forutse og vurdere risikoforhold riktig og i god tid
+2. mestre tydelig tegngiving, fartstilpassing og plassering
+3. mestre å ha handlingsberedskap når det er nødvendig
+4. mestre å ta hensyn til egne og kjøretøyets begrensninger, slik at kjøringen hele tiden er under kontroll
+5. reflektere over hvordan trafikkbildet kan endre seg, legge planer ut i fra det og kunne begrunne handlingsvalg i ettertid.
 
 Eleven skal gjennomføre kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE, og T jf. [§ 27-1](forskrift/2004-10-01-1339/§27-1). Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 2 er gjennomført.
 
@@ -1444,7 +1938,12 @@ Kurset er på 7 undervisningstimer hvorav minst 2 timer er praktisk kjøring i t
 
 Eleven skal gjennom opplevelser, demonstrasjoner, praktisk øving, gruppearbeid og refleksjoner med medelever og lærer, videreutvikle sin kompetanse til å kjøre traktor med tilhenger slik at ulykker unngås. Når det ikke er praktisk mulig, kan undervisningen gjennomføres uten medelever.
 
-Eleven skal:forstå risikoen ved å kjøre traktor og tilhenger som går 50 km/ttilegne seg kunnskap om konstruksjon, kjøreegenskaper og bruk av tunge og raske traktorer med tilhenger og redskaputvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner i ulike trafikkmiljø og samhandling med andre trafikanterkunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen dyktighet til å kjøre traktor med tilhenger og muligheter for forbedring.
+Eleven skal:
+
+1. forstå risikoen ved å kjøre traktor og tilhenger som går 50 km/t
+2. tilegne seg kunnskap om konstruksjon, kjøreegenskaper og bruk av tunge og raske traktorer med tilhenger og redskap
+3. utvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner i ulike trafikkmiljø og samhandling med andre trafikanter
+4. kunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen dyktighet til å kjøre traktor med tilhenger og muligheter for forbedring.
 
 > Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -1470,7 +1969,17 @@ Kurset kan gjennomføres med inntil 16 elever.
 
 Eleven skal gjennom demonstrasjon, drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med tyngre kjøretøy innebærer.
 
-Eleven skalerfare hvordan kjøring og samhandling med tunge kjøretøy skiller seg fra kjøring med personbildrøfte hvordan tungbilføreren kan skape et positivt forhold til andre trafikantgrupperdrøfte hvordan andre trafikantgrupper kan overvurdere tungbilførerens muligheter til å manøvrere kjøretøyet i vanskelige situasjoner, og at dette kan medføre at andre misforstår, eller ikke samarbeider slik tungbilføreren forventerdrøfte hvordan interessekonflikter mellom trafikantgrupper kan reduseres og hvordan tungbilføreren kan skape et positivt forhold til andre trafikanterdrøfte at trafikkulykker nesten uten unntak skyldes menneskelige feilhandlingervite at tungbilføreren må sette seg inn i et omfattende regelverk når det gjelderhelsekrav, alderskrav og andre regler om førerkort som gjelder generelt for alle tungbilklasserkjøre- og hviletid, kjøring i utlandet, pliktmessig avhold og yrkestransport.
+Eleven skal
+
+1. erfare hvordan kjøring og samhandling med tunge kjøretøy skiller seg fra kjøring med personbil
+2. drøfte hvordan tungbilføreren kan skape et positivt forhold til andre trafikantgrupper
+3. drøfte hvordan andre trafikantgrupper kan overvurdere tungbilførerens muligheter til å manøvrere kjøretøyet i vanskelige situasjoner, og at dette kan medføre at andre misforstår, eller ikke samarbeider slik tungbilføreren forventer
+4. drøfte hvordan interessekonflikter mellom trafikantgrupper kan reduseres og hvordan tungbilføreren kan skape et positivt forhold til andre trafikanter
+5. drøfte at trafikkulykker nesten uten unntak skyldes menneskelige feilhandlinger
+6. vite at tungbilføreren må sette seg inn i et omfattende regelverk når det gjelder
+
+   1. helsekrav, alderskrav og andre regler om førerkort som gjelder generelt for alle tungbilklasser
+   2. kjøre- og hviletid, kjøring i utlandet, pliktmessig avhold og yrkestransport.
 
 > Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -1480,9 +1989,22 @@ Eleven skalerfare hvordan kjøring og samhandling med tunge kjøretøy skiller s
 
 Etter å ha gjennomført opplæringen for klasse C1 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil forsvarlig og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 17-2. Trinn 1: Grunnkurs for tunge kjøretøy
 
@@ -1502,7 +2024,26 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, lastebilen.
 
-Eleven skalbeskrive lastebilens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere detteforklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en lett lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, lastebilens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive lastebilens oppbygning
+2. forklare styringens funksjon og kunne utføre kontroll av denne
+3. forklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette
+4. forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjetting
+5. forklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontroll
+6. beskrive hvordan motoren i en lett lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystem
+7. beskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivaksler
+8. beskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anlegget
+9. avgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+10. forklare riktig bruk av, og bruke, lastebilens betjeningsorganer
+11. beskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feil
+12. forklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhet
+13. sette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+14. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+15. forklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med dette
+16. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+17. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomi
+18. forklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1516,7 +2057,24 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventede veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen, og blant kollegaer, påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. kjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrett
+2. forklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøy
+3. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglister
+4. forstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+5. forklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifter
+6. kjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig gods
+7. kjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og gods
+8. kjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriver
+9. forstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helse
+10. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventede veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+11. uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikk
+12. forstå hvordan kultur i bransjen, og blant kollegaer, påvirker atferd og oppførsel
+13. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+14. mestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete veg
+15. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+16. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1540,9 +2098,22 @@ Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 e
 
 Etter å ha gjennomført opplæringen for klasse C1E skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 18-2. Trinn 1 – klasse C1E
 
@@ -1556,7 +2127,21 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
 
-Eleven skalbeskrive hvordan ulike tilhengere for lastebil er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom lastebil og tilhengerbeskrive grunnleggende oppbygging av bremser på tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive hvordan ulike tilhengere for lastebil er bygd opp
+2. beskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikehold
+3. kontrollere kraftforbindelsen mellom lastebil og tilhenger
+4. beskrive grunnleggende oppbygging av bremser på tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontroll
+5. gjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyret
+6. avgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+7. kople til og fra ulike slag tilhengere
+8. kjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+9. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+10. forklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med dette
+11. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+12. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomi
+13. forklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1570,7 +2155,15 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidler
+2. forstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+3. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+4. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+5. mestre tilhengerens innvirkning på kjøringen
+6. mestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete veg
+7. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
 
@@ -1592,9 +2185,22 @@ Eleven skal gjennomføre sikkerhetskurs på veg, jf. [kapittel 26](forskrift/200
 
 Etter å ha gjennomført opplæringen for klasse C skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil forsvarlig, og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 19-2. Trinn 1: Grunnkurs tunge kjøretøy
 
@@ -1614,7 +2220,26 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, lastebilen.
 
-Eleven skalbeskrive lastebilens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, lastebilens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive lastebilens oppbygning
+2. forklare styringens funksjon og kunne utføre kontroll av denne
+3. forklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.
+4. forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjetting
+5. forklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontroll
+6. beskrive hvordan motoren i en lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystem
+7. beskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivaksler
+8. beskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anlegget
+9. avgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+10. forklare riktig bruk av, og bruke, lastebilens betjeningsorganer
+11. beskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feil
+12. forklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhet
+13. sette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+14. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+15. forklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med dette
+16. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+17. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomi
+18. forklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1628,7 +2253,24 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kollegaer påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. kjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrett
+2. forklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøy
+3. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglister
+4. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+5. forklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifter
+6. kjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig gods
+7. kjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og gods
+8. kjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriver
+9. forstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helse
+10. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+11. uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikk
+12. forstå hvordan kultur i bransjen og blant kollegaer påvirker atferd og oppførsel
+13. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+14. mestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete veg
+15. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+16. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1652,9 +2294,22 @@ Når det er hensiktsmessig kan kurs i ulykkesberedskap og gjennomføres i trinn 
 
 Etter å ha gjennomført opplæringen for klasse CE skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig, og for å kunne ivareta de oppgaver som er førerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 > Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -1670,7 +2325,21 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
 
-Eleven skalbeskrive hvordan ulike tilhengere for lastebil er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom lastebil og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive hvordan ulike tilhengere for lastebil er bygd opp
+2. beskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikehold
+3. kontrollere kraftforbindelsen mellom lastebil og tilhenger
+4. beskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontroll
+5. gjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyret
+6. avgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+7. kople til og fra ulike slag tilhengere
+8. kjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+9. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+10. forklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med dette
+11. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+12. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomi
+13. forklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1684,7 +2353,15 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidler
+2. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+3. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+4. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+5. mestre tilhengerens innvirkning på kjøringen
+6. mestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete veg
+7. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
 
@@ -1706,9 +2383,22 @@ Eleven skal gjennomføre sikkerhetskurs på veg, jf. [kapittel 26](forskrift/200
 
 Etter å ha gjennomført opplæringen for klasse D1 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre minibuss forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennligtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig behagelig, økonomisk og ressursvennlig
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- ha omtanke for passasjerene
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 21-2. Trinn 1: Grunnkurs tunge kjøretøy
 
@@ -1728,7 +2418,27 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, minibussen.
 
-Eleven skalbeskrive minibussenes oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere detteforklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en minibuss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive minibussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, minibussens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare riktig bruk av minibussens nødutstyrforklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive minibussenes oppbygning
+2. forklare styringens funksjon og kunne utføre kontroll av denne
+3. forklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette
+4. forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjetting
+5. forklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontroll
+6. beskrive hvordan motoren i en minibuss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystem
+7. beskrive minibussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivaksler
+8. beskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anlegget
+9. avgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+10. forklare riktig bruk av, og bruke, minibussens betjeningsorganer
+11. beskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feil
+12. forklare riktig bruk av minibussens nødutstyr
+13. forklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhet
+14. sette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+15. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+16. forklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med dette
+17. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+18. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomi
+19. forklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1742,7 +2452,24 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og aksellast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av arbeidsutstyr påmontert minibussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikringkjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. kjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrett
+2. forklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøy
+3. beskrive hvordan en kan beregne tillatt totalvekt og aksellast på kjøretøyet ved hjelp av vognkort og veglister
+4. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+5. forklare faremoment ved bruk av arbeidsutstyr påmontert minibussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifter
+6. kjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig gods
+7. kjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring
+8. kjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriver
+9. forstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helse
+10. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+11. uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikk
+12. forstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførsel
+13. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+14. mestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete veg
+15. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+16. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1766,9 +2493,22 @@ Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 e
 
 Etter å ha gjennomført opplæringen for klasse D1E skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennligtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig behagelig, økonomisk og ressursvennlig
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- ha omtanke for passasjerene
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 22-2. Trinn 1 – klasse D1E
 
@@ -1782,7 +2522,21 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
 
-Eleven skalbeskrive hvordan ulike tilhengere for minibuss er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom minibuss og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive hvordan ulike tilhengere for minibuss er bygd opp
+2. beskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikehold
+3. kontrollere kraftforbindelsen mellom minibuss og tilhenger
+4. beskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontroll
+5. gjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyret
+6. avgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+7. kople til og fra ulike slag tilhengere
+8. kjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+9. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+10. forklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med dette
+11. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+12. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomi
+13. forklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1796,7 +2550,15 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for minibuss, tilhenger og vogntoget ved hjelp av vognkort og veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast for minibuss, tilhenger og vogntoget ved hjelp av vognkort og veglister og andre aktuelle hjelpemidler
+2. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+3. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+4. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+5. mestre tilhengerens innvirkning på kjøringen
+6. mestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete veg
+7. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
 
@@ -1820,9 +2582,23 @@ Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnlegge
 
 Etter å ha gjennomført opplæringen for klasse D skal eleven ha den kompetansen som er nødvendig for å kunne kjøre buss forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig behagelig, økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- ha omtanke for passasjerene
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 23-2. Trinn 1: Grunnkurs for tunge kjøretøy
 
@@ -1842,7 +2618,27 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bussen.
 
-Eleven skalbeskrive bussens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en buss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive bussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, bussens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare riktig bruk av bussens nødutstyrforklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive bussens oppbygning
+2. forklare styringens funksjon og kunne utføre kontroll av denne
+3. forklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.
+4. forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjetting
+5. forklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontroll
+6. beskrive hvordan motoren i en buss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystem
+7. beskrive bussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivaksler
+8. beskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anlegget
+9. avgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+10. forklare riktig bruk av, og bruke, bussens betjeningsorganer
+11. beskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feil
+12. forklare riktig bruk av bussens nødutstyr
+13. forklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhet
+14. sette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+15. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+16. forklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med dette
+17. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+18. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomi
+19. forklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1856,7 +2652,24 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av arbeidsutstyr påmontert bussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for buss og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. kjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrett
+2. forklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøy
+3. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglister
+4. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+5. forklare faremoment ved bruk av arbeidsutstyr påmontert bussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifter
+6. kjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig gods
+7. kjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for buss og gods
+8. kjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriver
+9. forstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helse
+10. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+11. uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikk
+12. forstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførsel
+13. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+14. mestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete veg
+15. mestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørket
+16. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1880,9 +2693,23 @@ Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 e
 
 Etter å ha gjennomført opplæringen for klasse DE skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
 
-Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
 
-Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+- er trafikksikker
+- gir god samhandling
+- fører til god trafikkavvikling
+- er mest mulig behagelig, økonomisk og ressursvennlig
+- gjør at kjøretøy og veg ikke utsettes for unødig slitasje
+- tar hensyn til helse, miljø og andres behov
+- er i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:
+
+- utføre kontroll og tilsyn med kjøretøyet som er en førers ansvar
+- ha omtanke for passasjerene
+- sikre lasten forsvarlig
+- fatte riktige beslutninger om kjøring under vanskelige kjøreforhold
+- være en ressursperson i krisesituasjoner på vegen.
 
 ### § 24-2. Trinn 1 – klasse DE
 
@@ -1896,7 +2723,21 @@ Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fr
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
 
-Eleven skalbeskrive hvordan ulike tilhengere for buss er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom buss og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+Eleven skal
+
+1. beskrive hvordan ulike tilhengere for buss er bygd opp
+2. beskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikehold
+3. kontrollere kraftforbindelsen mellom buss og tilhenger
+4. beskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontroll
+5. gjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyret
+6. avgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner sted
+7. kople til og fra ulike slag tilhengere
+8. kjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmargin
+9. forklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter dette
+10. forklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med dette
+11. forklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomi
+12. forklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomi
+13. forklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
 
 Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
 
@@ -1910,7 +2751,15 @@ Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kj�
 
 Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
 
-Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for buss, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+Eleven skal
+
+1. beskrive hvordan en kan beregne tillatt totalvekt og nyttelast for buss, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidler
+2. forstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyr
+3. forstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåte
+4. mestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhet
+5. mestre tilhengerens innvirkning på kjøringen
+6. mestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete veg
+7. mestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
 
 Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
 
@@ -1944,7 +2793,44 @@ Personer som har, eller har hatt, en førerett i en tung klasse som egen førerk
 
 Kurset skal bidra til at eleven kan være en ressursperson når en trafikkulykke eller krisesituasjon oppstår, og til at eleven med sin opptreden kan bidra til å redusere skadeomfanget ved trafikkulykker og eventuell brann på et skadested.
 
-Eleven skalgjennom demonstrasjoner og praktiske øvelser lærehvilke oppgaver som må gjøres ved et skadested før fagpersonell ankommerå varsle medisinsk nødtelefon, og kjenne til dens funksjonerå sikre et skadestedgjennom demonstrasjoner og praktiske øvelser lære åforeta en rask og overfladisk vurdering av en skadet eller akutt syk person ved å se på, snakke med og ta på pasientensikre frie luftveier hos både liggende og sittende pasienterstanse ytre blødningerstabilisere hode og nakke ved mistanker om skader i nakke og ryggutføre hjerte-lungeredningutføre tiltak som forebygger indre blødninger, sirkulasjonssvikt og nedkjølingkjenne tilhvordan kjøretøy som har farlig gods i lasten er merketaktuelle tiltak på et skadested hvor et kjøretøy som er merket etter ADR- forskriften er involvertgenerelle problemer ved røykutvikling og opptreden i røykfylte områderbrann- og røykutvikling i tunneler, herunder evakueringsløsningerbrann- og røykutvikling i kjøretøy, herunder evakueringsteknikkbrannslukkingsapparater (plassering i kjøretøy, klargjøring, bruk og tømmetid)andre slukkemidlerbrannårsaker og brannutviklinghvordan branntilløp kan oppdages tidligsteder og områder i kjøretøy hvor det erfaringsmessig kan oppstå et branntilløpdelta i praktiske øvelser under veiledning og kunneklargjøre brannslukningsapparater til brukslukke brann med pulverapparat og teppebruke et egnet slokkemiddel på brann i kjøretøy og andre steder i forbindelse med en ulykke eller krisesituasjonha kunnskap omtypiske kritiske situasjoner og ulykker i trafikkenvanlige psykiske reaksjoner som kan forekomme hos de berørtehvordan kriserammede kan hjelpes: forskjellige metoder og modeller for hjelp, herunder selvhjelp og kollegastøtteordningerhvorfor krisehåndtering er viktig.
+Eleven skal
+
+1. gjennom demonstrasjoner og praktiske øvelser lære
+
+   1. hvilke oppgaver som må gjøres ved et skadested før fagpersonell ankommer
+   2. å varsle medisinsk nødtelefon, og kjenne til dens funksjoner
+   3. å sikre et skadested
+2. gjennom demonstrasjoner og praktiske øvelser lære å
+
+   1. foreta en rask og overfladisk vurdering av en skadet eller akutt syk person ved å se på, snakke med og ta på pasienten
+   2. sikre frie luftveier hos både liggende og sittende pasienter
+   3. stanse ytre blødninger
+   4. stabilisere hode og nakke ved mistanker om skader i nakke og rygg
+   5. utføre hjerte-lungeredning
+   6. utføre tiltak som forebygger indre blødninger, sirkulasjonssvikt og nedkjøling
+3. kjenne til
+
+   1. hvordan kjøretøy som har farlig gods i lasten er merket
+   2. aktuelle tiltak på et skadested hvor et kjøretøy som er merket etter ADR- forskriften er involvert
+   3. generelle problemer ved røykutvikling og opptreden i røykfylte områder
+   4. brann- og røykutvikling i tunneler, herunder evakueringsløsninger
+   5. brann- og røykutvikling i kjøretøy, herunder evakueringsteknikk
+   6. brannslukkingsapparater (plassering i kjøretøy, klargjøring, bruk og tømmetid)
+   7. andre slukkemidler
+   8. brannårsaker og brannutvikling
+   9. hvordan branntilløp kan oppdages tidlig
+   10. steder og områder i kjøretøy hvor det erfaringsmessig kan oppstå et branntilløp
+4. delta i praktiske øvelser under veiledning og kunne
+
+   1. klargjøre brannslukningsapparater til bruk
+   2. slukke brann med pulverapparat og teppe
+   3. bruke et egnet slokkemiddel på brann i kjøretøy og andre steder i forbindelse med en ulykke eller krisesituasjon
+5. ha kunnskap om
+
+   1. typiske kritiske situasjoner og ulykker i trafikken
+   2. vanlige psykiske reaksjoner som kan forekomme hos de berørte
+   3. hvordan kriserammede kan hjelpes: forskjellige metoder og modeller for hjelp, herunder selvhjelp og kollegastøtteordninger
+   4. hvorfor krisehåndtering er viktig.
 
 ## Kapittel 26. Sikkerhetskurs på veg – tunge klasser
 
@@ -1986,7 +2872,26 @@ Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og ti
 
 Eleven skal kunne foreta de kjøreforberedelser som er førerens ansvar og kjøre forsvarlig i lengre sammenhengende tid.
 
-Eleven skalplanlegge en lengre sammenhengende kjøretur ved åbli klar over og anvende hjelpemidler som er vanlig å bruke for vedkommende kjøretøygruppevidereutvikle forståelse for hvordan hjernen bearbeider informasjon, og hvordan hjernens funksjoner påvirkes av emosjoner, personlighet, stress, søvn, ernæring og generell helse, samt hvordan kultur i bransjen, og blant kolleger, påvirker atferd og oppførsel og drøfte hvordan dette kan tas hensyn til før og under kjøring, for at kjøringen skal bli mest mulig sikkerutvikle forståelse for at kjøringen er en del av et sosialt samspill hvor det stilles spesielle krav til tungbilførerens vurdering av trafikksituasjoneneutvikle forståelse for at føreren ved feilhandling, og utilstrekkelig sikring av last og passasjerer, kan forårsake alvorlige ulykker, og at konsekvensene etter en tungbilulykke ofte blir dramatiskegjennomføre kjøreturen ogkontrollere kjøretøy, dekk, bremser og nav med tanke på eventuell varmgang, sikkerhetsutstyr, lastsikring og plassering av bagasje før, under, og etter kjøringvidereutvikle sin evne til å oppfatte trafikkbildet fullstendig og iverksette nødvendige handlinger ved å vurdere vegens videre forløp og planlegge møtesituasjoner, vurdere trafikken bak og eventuelt finne steder hvor andre kan slippes forbi, og kjøre riktig til og fra stoppestedvidereutvikle sin evne til å oppfatte risiko ved å vurdere mulighet for forbikjøring kontinuerlig, tilpasse kjøringen ut fra at møtende som foretar forbikjøring kan feilvurdere, ta spesielle hensyn ved kjøring på smal og svingete veg, og under vanskelige kjøreforhold, ivareta informasjonsbehovet ved vending og rygging, vurdere eventuelle tiltak med bakgrunn i føreforholdene, ha nødvendig sikkerhetsmargin på begge sider slik at oppmerksomheten hovedsakelig kan rettes mot trafikale forhold, ta hensyn til møtende trafikk, hindringer, vegbredde, vegoppmerking m.m., vurdere om andre kan misforstå hvordan videre kjøring er planlagt, holde riktig avstand til andre trafikanter, foreta riktig sporvalg og begrunne sine handlingsvalg og -tendenservidereutvikle sin evne til å kjøre på en måte som gir god trafikkavvikling og lav risiko, god driftsøkonomi og minst mulig miljøbelastningreflektere over sine erfaringer og opplevelser ved ådrøfte disse med sine medelever og lærerebeskrive og begrunne egne valg og kjøremåtervurdere egne sterke og svake sider som tungbilfører og velge ut områder med utviklingsmuligheterlytte til og forstå lærerens vurdering av elevens kjørekompetanse.
+Eleven skal
+
+1. planlegge en lengre sammenhengende kjøretur ved å
+
+   1. bli klar over og anvende hjelpemidler som er vanlig å bruke for vedkommende kjøretøygruppe
+   2. videreutvikle forståelse for hvordan hjernen bearbeider informasjon, og hvordan hjernens funksjoner påvirkes av emosjoner, personlighet, stress, søvn, ernæring og generell helse, samt hvordan kultur i bransjen, og blant kolleger, påvirker atferd og oppførsel og drøfte hvordan dette kan tas hensyn til før og under kjøring, for at kjøringen skal bli mest mulig sikker
+   3. utvikle forståelse for at kjøringen er en del av et sosialt samspill hvor det stilles spesielle krav til tungbilførerens vurdering av trafikksituasjonene
+   4. utvikle forståelse for at føreren ved feilhandling, og utilstrekkelig sikring av last og passasjerer, kan forårsake alvorlige ulykker, og at konsekvensene etter en tungbilulykke ofte blir dramatiske
+2. gjennomføre kjøreturen og
+
+   1. kontrollere kjøretøy, dekk, bremser og nav med tanke på eventuell varmgang, sikkerhetsutstyr, lastsikring og plassering av bagasje før, under, og etter kjøring
+   2. videreutvikle sin evne til å oppfatte trafikkbildet fullstendig og iverksette nødvendige handlinger ved å vurdere vegens videre forløp og planlegge møtesituasjoner, vurdere trafikken bak og eventuelt finne steder hvor andre kan slippes forbi, og kjøre riktig til og fra stoppested
+   3. videreutvikle sin evne til å oppfatte risiko ved å vurdere mulighet for forbikjøring kontinuerlig, tilpasse kjøringen ut fra at møtende som foretar forbikjøring kan feilvurdere, ta spesielle hensyn ved kjøring på smal og svingete veg, og under vanskelige kjøreforhold, ivareta informasjonsbehovet ved vending og rygging, vurdere eventuelle tiltak med bakgrunn i føreforholdene, ha nødvendig sikkerhetsmargin på begge sider slik at oppmerksomheten hovedsakelig kan rettes mot trafikale forhold, ta hensyn til møtende trafikk, hindringer, vegbredde, vegoppmerking m.m., vurdere om andre kan misforstå hvordan videre kjøring er planlagt, holde riktig avstand til andre trafikanter, foreta riktig sporvalg og begrunne sine handlingsvalg og -tendenser
+   4. videreutvikle sin evne til å kjøre på en måte som gir god trafikkavvikling og lav risiko, god driftsøkonomi og minst mulig miljøbelastning
+3. reflektere over sine erfaringer og opplevelser ved å
+
+   1. drøfte disse med sine medelever og lærere
+   2. beskrive og begrunne egne valg og kjøremåter
+   3. vurdere egne sterke og svake sider som tungbilfører og velge ut områder med utviklingsmuligheter
+   4. lytte til og forstå lærerens vurdering av elevens kjørekompetanse.
 
 > Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
 
@@ -2000,7 +2905,18 @@ Personer som tidligere har gjennomført kurs i sikring av last er fritatt fra ku
 
 Eleven skal forstå behovet for å sikre og merke last, og få nødvendig øving i å sikre last på tilhenger.
 
-Eleven skalvite at mangelfull sikring har årsak i menneskelig svikt, kan forårsake tragedier og få store konsekvenserkjenne til regelverket som gjelder for sikring av last på kjøretøy og for transport av farlig gods når føreren ikke har særskilt kompetansebevisgjennom demonstrasjon oppleve kreftene som virker inn på lasten under kjøring, friksjonens betydning og bli kjent med ulike metoder for sikring av last som låsing, stenging, surring, og dekkinggjøre rede for spesielle faremoment ved last som er feil plassert, last med høyt tyngdepunkt, hengende last, flytende last, levende dyr og persontransportøve på åplassere, sikre og merke lang last tilsvarende en tømmerstokkplassere og sikre ett kolli med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meterplassere og sikre annen last som rundballe eller storsekk, vekt minst 350 kgforstå behovet for vedlikehold og avgjøre om lastsikringsutstyret er i forsvarlig stand.
+Eleven skal
+
+1. vite at mangelfull sikring har årsak i menneskelig svikt, kan forårsake tragedier og få store konsekvenser
+2. kjenne til regelverket som gjelder for sikring av last på kjøretøy og for transport av farlig gods når føreren ikke har særskilt kompetansebevis
+3. gjennom demonstrasjon oppleve kreftene som virker inn på lasten under kjøring, friksjonens betydning og bli kjent med ulike metoder for sikring av last som låsing, stenging, surring, og dekking
+4. gjøre rede for spesielle faremoment ved last som er feil plassert, last med høyt tyngdepunkt, hengende last, flytende last, levende dyr og persontransport
+5. øve på å
+
+   1. plassere, sikre og merke lang last tilsvarende en tømmerstokk
+   2. plassere og sikre ett kolli med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meter
+   3. plassere og sikre annen last som rundballe eller storsekk, vekt minst 350 kg
+6. forstå behovet for vedlikehold og avgjøre om lastsikringsutstyret er i forsvarlig stand.
 
 > Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
 
@@ -2012,7 +2928,41 @@ Personer som har, eller har hatt, førerett i klasse C1 som egen førerkortklass
 
 Eleven skal forstå at last må sikres forsvarlig. Eleven skal ha den kunnskap og de ferdigheter som er nødvendig for å sikre lasten slik at ulykker unngås.
 
-Eleven skalha kunnskap omhovedkravene som stilles til sikring av last og til sikringsutstyretat det er spesielle krav til sikring når to eller flere ulike transportmidler benyttes i samme transportkjedeat det kan være nødvendig å innhente ytterligere informasjon når spesiell last skal sikresgjennom demonstrasjoner og praktisk arbeid erfareat last som er feil eller dårlig sikret kan falle avde krefter som virker inn på lasten forover, bakover og sidelengs under kjøringhvordan vanlig gods beveger seg ved hastighetsøkning og ved bremsinghvordan gods som kan rulle beveger seg ved hastighetsøkning og ved bremsingat friksjonen innvirker på godsets bevegelse ved oppbremsingom ulik vekt innvirker på godsets bevegelseom stor vekt (1000 kg) hindrer godset i å bevege segat bruk av feil sikringsutstyr kan føre til at gods forskyver seg eller faller avkonsekvenser av feilvurdering vedrørende utstyrets kvalitetkunne beregne og velge riktig sikringsutstyr ved åplanlegge sikring av ulike typer godskunne vurdere metoder for sikring av last som stempling, surring, låsing og dekkingkunne utføre forsvarlig sikring av ulike typer last ved åsikre forskjellige godsslag, herunder gods som kan rulle, gods som er stablet og last med høy egenvektforeta overfallssurring, grimesurring, loopsurring, direkte surring/kryssurring, låsing, stenging og dekkingfå demonstrert om utført sikring er forsvarlig ved atkjøretøyet bremses og svingeslasten tippes til aktuell vinkelsikringsutstyret kontrolleres etter testingkunnevedlikeholde og avgjøre om lastsikringsutstyret er i tilstrekkelig god standbruke nødvendig verneutstyr som arbeidstøy, hansker og vernesko.
+Eleven skal
+
+1. ha kunnskap om
+
+   1. hovedkravene som stilles til sikring av last og til sikringsutstyret
+   2. at det er spesielle krav til sikring når to eller flere ulike transportmidler benyttes i samme transportkjede
+   3. at det kan være nødvendig å innhente ytterligere informasjon når spesiell last skal sikres
+2. gjennom demonstrasjoner og praktisk arbeid erfare
+
+   1. at last som er feil eller dårlig sikret kan falle av
+   2. de krefter som virker inn på lasten forover, bakover og sidelengs under kjøring
+   3. hvordan vanlig gods beveger seg ved hastighetsøkning og ved bremsing
+   4. hvordan gods som kan rulle beveger seg ved hastighetsøkning og ved bremsing
+   5. at friksjonen innvirker på godsets bevegelse ved oppbremsing
+   6. om ulik vekt innvirker på godsets bevegelse
+   7. om stor vekt (1000 kg) hindrer godset i å bevege seg
+   8. at bruk av feil sikringsutstyr kan føre til at gods forskyver seg eller faller av
+   9. konsekvenser av feilvurdering vedrørende utstyrets kvalitet
+3. kunne beregne og velge riktig sikringsutstyr ved å
+
+   1. planlegge sikring av ulike typer gods
+   2. kunne vurdere metoder for sikring av last som stempling, surring, låsing og dekking
+4. kunne utføre forsvarlig sikring av ulike typer last ved å
+
+   1. sikre forskjellige godsslag, herunder gods som kan rulle, gods som er stablet og last med høy egenvekt
+   2. foreta overfallssurring, grimesurring, loopsurring, direkte surring/kryssurring, låsing, stenging og dekking
+5. få demonstrert om utført sikring er forsvarlig ved at
+
+   1. kjøretøyet bremses og svinges
+   2. lasten tippes til aktuell vinkel
+   3. sikringsutstyret kontrolleres etter testing
+6. kunne
+
+   1. vedlikeholde og avgjøre om lastsikringsutstyret er i tilstrekkelig god stand
+   2. bruke nødvendig verneutstyr som arbeidstøy, hansker og vernesko.
 
 > Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
 
@@ -2038,7 +2988,51 @@ En trafikklærer kan undervise inntil 9 timer på banen per dag.
 
 Kurset skal bidra til at eleven kan fatte riktige beslutninger om kjøring under vanskelige føreforhold.
 
-Eleven skalkjenne tilhovedmålet for kursetsikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på vegrisikoen ved ikke å bruke bilbeltegjennom demonstrasjoner og praktiske øvelser erfarehvordan trafikanter kan være skjult i området rundt et stort kjøretøyat førerens sittestilling har stor betydningen for omfanget av blindsonen foran kjøretøyetbremse- og stopplengde for personbil, buss og lastebilhvordan kjøretøyets tyngde og veggrep virker inn på bremselengdenhvordan føreren kan påvirke styre- og bremseresultatat styre- og bremseresultatet endres ved endret fartat forskjellig last, dekkutrusning og ulike typer utstyr virker inn på styre- og bremseresultatat feilvurdering av bakkens fall og veggrep virker inn på styre- og bremseresultaterfarehvilken betydning lastens plassering har for kjøretøyets egenskaperulike bremsemetoder og konsekvenser av feilhandlingfordeler og ulemper med ulike bremsesystemerkonsekvenser av overbremset og underbremset akselvirkning av drivhjulsbremsernytten av forholdsregler ved bruk av vegskulder under kjøringeget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lasteterfare spesielle risikomomenter ved kjøring medbuss med midtmotor kontra hekkmotorautomatgiret bussautomatgiret buss med hjelpebremsvære med å drøfteegne holdninger og kjørevanerulykkerisiko, skadeomfang, samt konsekvenser av typiske tungbilulykkerhva feilhandlinger utført på banen eventuelt ville forårsaket ved kjøring i trafikkat trafikkulykker nesten uten unntak skyldes menneskelige feilhandlingerat føreren plikter å tilpasse farten etter ulike føreforholdat en tungbilførers feilhandling ofte har alvorlige konsekvensermed bakgrunn i erfaringene på banenvurdere sin egen kjørekompetanseforeslå kjøreatferd som kan redusere risikoen for ulykkertrekke selvstendige konklusjoner med hensyn til sikker avstand til den som kjører foranforstå at en tungbilfører under visse føreforhold ikke skal kjøre i det hele tatt.
+Eleven skal
+
+1. kjenne til
+
+   1. hovedmålet for kurset
+   2. sikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på veg
+   3. risikoen ved ikke å bruke bilbelte
+2. gjennom demonstrasjoner og praktiske øvelser erfare
+
+   1. hvordan trafikanter kan være skjult i området rundt et stort kjøretøy
+   2. at førerens sittestilling har stor betydningen for omfanget av blindsonen foran kjøretøyet
+   3. bremse- og stopplengde for personbil, buss og lastebil
+   4. hvordan kjøretøyets tyngde og veggrep virker inn på bremselengden
+   5. hvordan føreren kan påvirke styre- og bremseresultat
+   6. at styre- og bremseresultatet endres ved endret fart
+   7. at forskjellig last, dekkutrusning og ulike typer utstyr virker inn på styre- og bremseresultat
+   8. at feilvurdering av bakkens fall og veggrep virker inn på styre- og bremseresultat
+3. erfare
+
+   1. hvilken betydning lastens plassering har for kjøretøyets egenskaper
+   2. ulike bremsemetoder og konsekvenser av feilhandling
+   3. fordeler og ulemper med ulike bremsesystemer
+   4. konsekvenser av overbremset og underbremset aksel
+   5. virkning av drivhjulsbremser
+   6. nytten av forholdsregler ved bruk av vegskulder under kjøring
+   7. eget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lastet
+4. erfare spesielle risikomomenter ved kjøring med
+
+   1. buss med midtmotor kontra hekkmotor
+   2. automatgiret buss
+   3. automatgiret buss med hjelpebrems
+5. være med å drøfte
+
+   1. egne holdninger og kjørevaner
+   2. ulykkerisiko, skadeomfang, samt konsekvenser av typiske tungbilulykker
+   3. hva feilhandlinger utført på banen eventuelt ville forårsaket ved kjøring i trafikk
+   4. at trafikkulykker nesten uten unntak skyldes menneskelige feilhandlinger
+   5. at føreren plikter å tilpasse farten etter ulike føreforhold
+   6. at en tungbilførers feilhandling ofte har alvorlige konsekvenser
+6. med bakgrunn i erfaringene på banen
+
+   1. vurdere sin egen kjørekompetanse
+   2. foreslå kjøreatferd som kan redusere risikoen for ulykker
+   3. trekke selvstendige konklusjoner med hensyn til sikker avstand til den som kjører foran
+   4. forstå at en tungbilfører under visse føreforhold ikke skal kjøre i det hele tatt.
 
 > Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
 
@@ -2046,7 +3040,31 @@ Eleven skalkjenne tilhovedmålet for kursetsikkerhetsrutinene som gjelder på ba
 
 Kurset skal bidra til at eleven kan fatte riktige beslutninger om kjøring med vogntog under vanskelige føreforhold.
 
-Eleven skalkjenne tilhovedmålet for kursetsikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på vegerfare atulike vogntogkombinasjoner som kjøres med samme hastighet får ulik stopplengdeulike bremsemetoder virker inn på stopplengde og retningsstabilitetveggrep og vogntogets tyngde virker inn på bremselengde og retningsstabilitetførerens handlinger kan virke inn på vogntogets retningsstabilitetstopplengde og retningsstabilitet endres ved endret fartlast og dekkutrustning virker inn på styre- og bremseresultatetulike typer tilhengere har ulik retningsstabilitetkjøring utenfor asfaltkant kan føre til at tilhenger får slengfeilvurdering av bakkens fall og veggrep kan fører til saksing og utforkjøringfeilvurdering av bakkens stigning, valg av kjøremåte og utstyr fører til økt risiko for ulykkereget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lastet kan bidra til økt sikkerhetmed bakgrunn i erfaringene på banenpåpeke konsekvenser hvis tilsvarende hadde skjedd i trafikkenvurdere sin egen kjørekompetanseforeslå kjøreatferd som kan redusere risikoen for ulykkerforstå at vogntogfører under visse føreforhold ikke skal kjøre i det hele tatt.
+Eleven skal
+
+1. kjenne til
+
+   1. hovedmålet for kurset
+   2. sikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på veg
+2. erfare at
+
+   1. ulike vogntogkombinasjoner som kjøres med samme hastighet får ulik stopplengde
+   2. ulike bremsemetoder virker inn på stopplengde og retningsstabilitet
+   3. veggrep og vogntogets tyngde virker inn på bremselengde og retningsstabilitet
+   4. førerens handlinger kan virke inn på vogntogets retningsstabilitet
+   5. stopplengde og retningsstabilitet endres ved endret fart
+   6. last og dekkutrustning virker inn på styre- og bremseresultatet
+   7. ulike typer tilhengere har ulik retningsstabilitet
+   8. kjøring utenfor asfaltkant kan føre til at tilhenger får sleng
+   9. feilvurdering av bakkens fall og veggrep kan fører til saksing og utforkjøring
+   10. feilvurdering av bakkens stigning, valg av kjøremåte og utstyr fører til økt risiko for ulykker
+   11. eget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lastet kan bidra til økt sikkerhet
+3. med bakgrunn i erfaringene på banen
+
+   1. påpeke konsekvenser hvis tilsvarende hadde skjedd i trafikken
+   2. vurdere sin egen kjørekompetanse
+   3. foreslå kjøreatferd som kan redusere risikoen for ulykker
+   4. forstå at vogntogfører under visse føreforhold ikke skal kjøre i det hele tatt.
 
 > Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
 
@@ -2212,7 +3230,13 @@ Den praktiske prøven til klasse A2 avlegges på motorsykkel uten sidevogn. Moto
 
 Den praktiske prøven til klasse A avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha et slagvolum på minst 595 cm3, en egenvekt på mer enn 180 kg, en effekt på minst 50 kW og en konstruktiv hastighet på minst 100 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,25 kW/kg.
 
-Kjøretøy til førerprøve for klasse A1, A2 og A skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for kopling og brems,speil på styrets høyre side hvor sensoren kan observere kandidaten,speil på venstre side for sensors sikt bakover,støttehåndtak for sensoren,kommunikasjonsutstyr for sensoren og kandidaten.
+Kjøretøy til førerprøve for klasse A1, A2 og A skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for kopling og brems,
+2. speil på styrets høyre side hvor sensoren kan observere kandidaten,
+3. speil på venstre side for sensors sikt bakover,
+4. støttehåndtak for sensoren,
+5. kommunikasjonsutstyr for sensoren og kandidaten.
 
 Kandidaten skal under kjøring i tillegg til påbudt styrthjelm benytte gjennomsiktig visir eller briller, hansker, fottøy som dekker over ankelen og hensiktsmessige klær egnet for motorsykkelkjøring som dekker øvrige kroppsdeler. Hansker, fottøy og klær skal være av materiale som ikke smelter, brenner eller rives ved velt, og som har en beskyttende effekt ved slag og støt.
 
@@ -2230,7 +3254,12 @@ Førerprøven for klasse B består av en teoretisk og en praktisk prøve.
 
 Den praktiske prøven avlegges med personbil med tillatt totalvekt på ikke over 3500 kg, bredde på minst 1,5 meter og minst fire sitteplasser. Kjøretøyet skal ha konstruktiv hastighet på minst 100 km/t. Hastighetsmåler skal være lesbar fra sensors plass.
 
-Kjøretøy til førerprøve for klasse B skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for kopling, brems og gass,ett ekstra innvendig speil eller en skjerm, og utvendige speil eller skjerm som gir sensoren tilstrekkelig utsyn bakover og på begge sider,ekstra speil som gir sensoren mulighet til å observere kandidaten oglys over pedalene på førersiden.
+Kjøretøy til førerprøve for klasse B skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for kopling, brems og gass,
+2. ett ekstra innvendig speil eller en skjerm, og utvendige speil eller skjerm som gir sensoren tilstrekkelig utsyn bakover og på begge sider,
+3. ekstra speil som gir sensoren mulighet til å observere kandidaten og
+4. lys over pedalene på førersiden.
 
 Kjøretøy med annen drivlinje enn manuelt gir, skal ha pedalsett på ledsagersiden, som kopler ut kjøretøyets fremdrift.
 
@@ -2264,7 +3293,11 @@ Kandidater som skal avlegge førerprøve for klasse C1 må ha bestått førerpr�
 
 Den praktiske prøven skal avlegges med lastebil med konstruktiv hastighet på minst 80 km/t som har tillatt totalvekt mellom 6000 og 7500 kg og lengde på minst 5 meter. Kjøretøyet skal ha ABS-bremser, lukket lasterom som er minst like høyt og bredt som førerhuset og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
 
-Kjøretøy til førerprøve for klasse C1 skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+Kjøretøy til førerprøve for klasse C1 skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems,
+2. ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider og
+3. ekstra speil som gir sensoren mulighet til å observere kandidaten.
 
 Kjøretøyet skal ha aktuell totalvekt på minst 6000 kg.
 
@@ -2298,7 +3331,11 @@ Kandidater som skal avlegge førerprøve for klasse C må ha bestått førerprø
 
 Den praktiske prøven skal avlegges med lastebil med konstruktiv hastighet på minst 80 km/t som har tillatt totalvekt på minst 19 000 kg, lengde på minst 8 meter, bredde på minst 2,4 meter og en akselavstand på minst 4 meter. Kjøretøyet skal ha ABS-bremser, girkasse som gir anledning til å velge gir manuelt, ha påbygg som minst er like høyt og bredt som førerhuset eller mindre forutsatt at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene, og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
 
-Kjøretøy til førerprøven for klasse C skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+Kjøretøy til førerprøven for klasse C skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems,
+2. ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider og
+3. ekstra speil som gir sensoren mulighet til å observere kandidaten.
 
 Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll. Kjøretøyet skal ha aktuell totalvekt på minst 18500 kg.
 
@@ -2336,7 +3373,11 @@ Kandidater som skal avlegge førerprøve klasse D1 må ha bestått førerprøve 
 
 Den praktiske prøven klasse D1 skal avlegges med minibuss med en konstruktiv hastighet på minst 80 km/t. Minibussen må ha tillatt totalvekt på minst 4000 kg, være minst 5,2 meter lang og ha ABS-bremser. Kjøretøyet skal ikke ha flere enn 16 passasjerplasser. Kjøretøyet skal ha fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
 
-Kjøretøy til førerprøve for klasse D1 skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+Kjøretøy til førerprøve for klasse D1 skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems,
+2. speil som gir sensoren tilstrekkelig utsyn bakover på begge sider og
+3. ekstra speil som gir sensoren mulighet til å observere kandidaten.
 
 Til den praktiske prøven skal det settes av 65 minutter.
 
@@ -2368,7 +3409,11 @@ Kandidater som skal avlegge førerprøve for klasse D må ha bestått førerprø
 
 Den praktiske prøven skal avlegges med buss. Kjøretøyet skal ha konstruktiv hastighet på minst 80 km/t, totallengde på minst 10 meter, bredde på minst 2,4 meter og akselavstand minst 5,5 meter. Kjøretøyet skal ha ABS-bremser og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
 
-Kjøretøy til førerprøve for klasse D skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+Kjøretøy til førerprøve for klasse D skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett betjeningsinnretning for fotbrems,
+2. speil som gir sensoren tilstrekkelig utsyn bakover på begge sider og
+3. ekstra speil som gir sensoren mulighet til å observere kandidaten.
 
 Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll.
 
@@ -2418,7 +3463,13 @@ Førerprøven for klasse T består av en teoretisk og en praktisk prøve.
 
 Den praktiske prøven avlegges på 4-hjuls jord- og skogbrukstraktor med tilkoplet tilhenger. Traktor til førerprøven skal ha sentralt plassert førersete, større bakhjul enn forhjul og løftbar trekk-krok for tilhenger, være registrert for to personer, ha konstruktiv fart på mellom 38 og 50 km/t, ha koplingspedal og ha tillatt totalvekt på minst 7000 kg. Tilhengeren skal ha tillatt totalvekt på over 4000 kg, og så høye lemmer at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene. Vogntoget må ha en lengde på minst 8 meter, og ha en samlet tillatt totalvekt på minst 12 000 kg. Tilhengeren skal være lastet med flere kolli som er sikret med alminnelig sikringsutstyr. Vekten av lasten må utgjøre minst 50 % av tillatt nyttelast inntil aktuell totalvekt er 7000 kg, likevel være minst 2000 kg. Aktuell totalvekt skal være minst 4000 kg.
 
-Kjøretøy til førerprøven klasse T skal ha følgende tilleggsutstyr:dobbelt sett pedaler for fotbrems,utvendige speil som gir sensor tilstrekkelig utsyn bakover på begge sider,ett ekstra innvendig speil som gir sensor tilstrekkelig kontroll med kandidaten,sikkerhetsbelter for kandidaten og sensoren ogkoplingspedal, frikoplingsspak eller liknende som gir sensor mulighet til å avbryte framdriften.
+Kjøretøy til førerprøven klasse T skal ha følgende tilleggsutstyr:
+
+1. dobbelt sett pedaler for fotbrems,
+2. utvendige speil som gir sensor tilstrekkelig utsyn bakover på begge sider,
+3. ett ekstra innvendig speil som gir sensor tilstrekkelig kontroll med kandidaten,
+4. sikkerhetsbelter for kandidaten og sensoren og
+5. koplingspedal, frikoplingsspak eller liknende som gir sensor mulighet til å avbryte framdriften.
 
 Til den praktiske prøven skal det settes av 65 minutter.
 

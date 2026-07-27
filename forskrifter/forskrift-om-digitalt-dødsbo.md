@@ -30,7 +30,11 @@ Digitaliseringsdirektoratet oppretter et digitalt dødsbo når tingretten har vu
 
 Avgiver av opplysninger til et digitalt dødsbo, herunder finansforetak, skattemyndigheten mv., skal legge til grunn at arvinger som får tilgang til Digitalt dødsbo har enten formuesfullmakt, skifteattest eller skiftefullmakt.
 
-Digitaliseringsdirektoratet skal etablere, forvalte og kunne dele opplysninger fra en oversikt over personer som tildeles en av følgende digitale rettigheter knyttet til skifte av dødsbo:digital representasjon av formuesfullmaktdigital representasjon av skifteattestfullmakt til å skifte boet (skiftefullmakt).
+Digitaliseringsdirektoratet skal etablere, forvalte og kunne dele opplysninger fra en oversikt over personer som tildeles en av følgende digitale rettigheter knyttet til skifte av dødsbo:
+
+1. digital representasjon av formuesfullmakt
+2. digital representasjon av skifteattest
+3. fullmakt til å skifte boet (skiftefullmakt).
 
 ## § 2. Behandlingsansvar
 
@@ -38,7 +42,20 @@ Digitaliseringsdirektoratet er behandlingsansvarlig for personopplysninger i Dig
 
 ## § 3. Behandling av opplysninger
 
-Når det er nødvendig for å utføre oppgaver i forbindelse med Digitalt dødsbo, kan Digitaliseringsdirektoratet uten hinder av taushetsplikt behandle følgende opplysninger:navn, adresse, telefonnummer, e-postadresse, reservasjon mot elektronisk kommunikasjon og sivilstatusfødselsnummer eller d-nummerfamilierelasjonopplysninger fra skatteoppgjør og skattemeldingopplysninger om usikret gjeldeierskap og rettigheter til bolig og eiendommer, inkludert landbrukseiendommerinformasjon om ektepakteierskap til kjøretøyinformasjon om forsikringer og forsikringspoliserformues- og gjeldsforhold, herunder kundeforhold i bank, saldo, og kontoinformasjontilgodehavende hos Norsk Tippingandre relasjoner.
+Når det er nødvendig for å utføre oppgaver i forbindelse med Digitalt dødsbo, kan Digitaliseringsdirektoratet uten hinder av taushetsplikt behandle følgende opplysninger:
+
+1. navn, adresse, telefonnummer, e-postadresse, reservasjon mot elektronisk kommunikasjon og sivilstatus
+2. fødselsnummer eller d-nummer
+3. familierelasjon
+4. opplysninger fra skatteoppgjør og skattemelding
+5. opplysninger om usikret gjeld
+6. eierskap og rettigheter til bolig og eiendommer, inkludert landbrukseiendommer
+7. informasjon om ektepakt
+8. eierskap til kjøretøy
+9. informasjon om forsikringer og forsikringspoliser
+10. formues- og gjeldsforhold, herunder kundeforhold i bank, saldo, og kontoinformasjon
+11. tilgodehavende hos Norsk Tipping
+12. andre relasjoner.
 
 Adgangen til å behandle opplysninger angitt i første ledd gjelder også opplysninger om arvelater som samtidig utgjør personopplysninger om en levende person, herunder personopplysninger som nevnt i [personvernforordningen artiklene 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10).
 

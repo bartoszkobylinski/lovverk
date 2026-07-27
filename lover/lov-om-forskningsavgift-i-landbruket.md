@@ -15,7 +15,7 @@ xml_hash: "73fd95c76504bf36694df15aa619e7697093b7ca7c7b32ca1ac15473006c53e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,9 @@ Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter gitt i me
 
 ## § 7.
 
-1\. Loven trer i kraft fra den tid Kongen bestemmer.1– – –
+1\. Loven trer i kraft fra den tid Kongen bestemmer.1
+
+– – –
 
 > Endret ved lov 18 juni 1971 nr. 86.
 

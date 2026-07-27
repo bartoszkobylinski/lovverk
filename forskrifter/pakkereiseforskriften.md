@@ -15,7 +15,7 @@ xml_hash: "4589c866542d067433bdc9b757709ac42dc5fdc89baab88d689a3eda789dd0a5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,9 +42,19 @@ Dersom garantipliktig budsjettert omsetning i kalendermåneden med høyest budsj
 
 ## § 3. Beregningen av reisegarantiens størrelse
 
-Er den garantipliktige omsetningen fastsatt etter [§ 2](forskrift/2018-06-22-954/§2) andre og tredje ledd, fastsettes garantiens størrelse til100 prosent av garantipliktig omsetning under kr 2 000 000 og deretter:75 prosent av garantipliktig omsetning mellom kr 2 000 000 og kr 5 000 00050 prosent av garantipliktig omsetning mellom kr 5 000 000 og kr 10 000 000.
+Er den garantipliktige omsetningen fastsatt etter [§ 2](forskrift/2018-06-22-954/§2) andre og tredje ledd, fastsettes garantiens størrelse til
 
-Er garantipliktig omsetning kr 10 000 000 eller høyere, fastsettes garantiens størrelse som X · (N/30) + (M-N)/30 · A · D + X · 0,25 derX = garantipliktig omsetning etter [§ 2](forskrift/2018-06-22-954/§2) fjerde leddN = gjennomsnittlig antall dager mellom siste innbetaling og avreiseM = gjennomsnittlig antall dager mellom deposituminnbetaling og avreiseA = budsjettert antall reisende som deltar på garantipliktige reiser i kalendermåneden med størst garantipliktig omsetningD = depositumsbeløp per reisende ved bestilling.
+- 100 prosent av garantipliktig omsetning under kr 2 000 000 og deretter:
+- 75 prosent av garantipliktig omsetning mellom kr 2 000 000 og kr 5 000 000
+- 50 prosent av garantipliktig omsetning mellom kr 5 000 000 og kr 10 000 000.
+
+Er garantipliktig omsetning kr 10 000 000 eller høyere, fastsettes garantiens størrelse som X · (N/30) + (M-N)/30 · A · D + X · 0,25 der
+
+- X = garantipliktig omsetning etter [§ 2](forskrift/2018-06-22-954/§2) fjerde ledd
+- N = gjennomsnittlig antall dager mellom siste innbetaling og avreise
+- M = gjennomsnittlig antall dager mellom deposituminnbetaling og avreise
+- A = budsjettert antall reisende som deltar på garantipliktige reiser i kalendermåneden med størst garantipliktig omsetning
+- D = depositumsbeløp per reisende ved bestilling.
 
 ## § 4. Fastsettelse av lavere reisegaranti
 
@@ -76,7 +86,13 @@ Retten til å tilby, selge og formidle garantipliktige reisetjenester opphører 
 
 ## § 8. Plikt til å betale årsgebyr til Reisegarantifondet
 
-Næringsdrivende skal innbetale et årsgebyr til Reisegarantifondet påkr 4 000 om de stiller under kr 250 000 i reisegarantikr 7 000 om de stiller fra og med kr 250 000 til og med kr 1 000 000 i reisegarantikr 20 000 om de stiller fra og med kr 1 000 001 til og med kr 10 000 000 i reisegarantikr 40 000 om de stiller fra og med kr 10 000 001 til og med kr 100 000 000 i reisegarantikr 100 000 om de stiller over kr 100 000 000 i reisegaranti.
+Næringsdrivende skal innbetale et årsgebyr til Reisegarantifondet på
+
+1. kr 4 000 om de stiller under kr 250 000 i reisegaranti
+2. kr 7 000 om de stiller fra og med kr 250 000 til og med kr 1 000 000 i reisegaranti
+3. kr 20 000 om de stiller fra og med kr 1 000 001 til og med kr 10 000 000 i reisegaranti
+4. kr 40 000 om de stiller fra og med kr 10 000 001 til og med kr 100 000 000 i reisegaranti
+5. kr 100 000 om de stiller over kr 100 000 000 i reisegaranti.
 
 Årsgebyret skal betales samtidig med garantistillelsen første året, og deretter skal det betales innen 1. desember hvert år.
 
@@ -84,7 +100,14 @@ Næringsdrivende skal innbetale et årsgebyr til Reisegarantifondet påkr 4 000
 
 ## § 9. Plikt til å betale årsgebyr til klagenemnda for pakkereiser
 
-Næringsdrivende som tilbyr, selger eller formidler pakkereiser, skal innbetale et årsgebyr til klagenemnda for pakkereiser påkr 1 088 om de stiller til og med kr 250 000 i reisegarantikr 2 610 om de stiller fra og med kr 250 001 til og med kr 10 000 000 i reisegarantikr 13 050 om de stiller fra og med kr 10 000 001 til og med kr 40 000 000 i reisegarantikr 43 500 om de stiller over kr 40 000 000 i reisegaranti.Fergerederier skal innbetale årsgebyr etter bokstav b, med mindre de omfattes av bokstav a.
+Næringsdrivende som tilbyr, selger eller formidler pakkereiser, skal innbetale et årsgebyr til klagenemnda for pakkereiser på
+
+1. kr 1 088 om de stiller til og med kr 250 000 i reisegaranti
+2. kr 2 610 om de stiller fra og med kr 250 001 til og med kr 10 000 000 i reisegaranti
+3. kr 13 050 om de stiller fra og med kr 10 000 001 til og med kr 40 000 000 i reisegaranti
+4. kr 43 500 om de stiller over kr 40 000 000 i reisegaranti.
+
+Fergerederier skal innbetale årsgebyr etter bokstav b, med mindre de omfattes av bokstav a.
 
 Årsgebyret skal betales samtidig med garantistillelsen første året, og deretter skal det betales innen 1. april hvert år.
 
@@ -100,15 +123,33 @@ De næringsdrivende skal betale kr 1 000 i gebyr per sak som de helt eller delv
 
 ## § 11. Plikt til å gi opplysningsskjemaer for pakkereiser – [pakkereiseloven § 9](lov/2018-06-15-32/§9) andre ledd
 
-Før det inngås avtale om pakkereise skal den næringsdrivende gi den reisende ett av følgende standardopplysningsskjema som fremgår av vedlegg I til forskriften:skjema 1 der det er mulig å benytte hyperlenkerskjema 2 der det ikke er mulig å benytte hyperlenkerskjema 3 der arrangøren overfører opplysninger til en annen næringsdrivende, jf. [pakkereiseloven § 6](lov/2018-06-15-32/§6) første ledd bokstav b nr. 5.
+Før det inngås avtale om pakkereise skal den næringsdrivende gi den reisende ett av følgende standardopplysningsskjema som fremgår av vedlegg I til forskriften:
+
+1. skjema 1 der det er mulig å benytte hyperlenker
+2. skjema 2 der det ikke er mulig å benytte hyperlenker
+3. skjema 3 der arrangøren overfører opplysninger til en annen næringsdrivende, jf. [pakkereiseloven § 6](lov/2018-06-15-32/§6) første ledd bokstav b nr. 5.
 
 ## § 12. Plikt til å gi opplysningsskjemaer for sammensatte reisearrangementer – [pakkereiseloven § 39](lov/2018-06-15-32/§39) andre ledd
 
 Før det inngås en avtale som kan føre til at det opprettes et sammensatt reisearrangement, skal den næringsdrivende gi den reisende et standardopplysningsskjema som fremgår av vedlegg II til forskriften.
 
-Ved avtaler som inngås gjennom ett utsalgssted, jf. loven [§ 7](forskrift/2018-06-22-954/§7) første ledd bokstav a, skal ett av følgende standardskjemaer gis:skjema 4 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er en transportør som selger returbillettskjema 5 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillettskjema 6 den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett, og den næringsdrivende mottar ikke betaling for reisetjenesteneskjema 7 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er en transportør som selger returbillettskjema 8 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er ikke en transportør som selger returbillettskjema 9 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenestene.
+Ved avtaler som inngås gjennom ett utsalgssted, jf. loven [§ 7](forskrift/2018-06-22-954/§7) første ledd bokstav a, skal ett av følgende standardskjemaer gis:
 
-Der den næringsdrivende på en målrettet måte formidler kjøp av minst en ytterligere reisetjeneste fra en annen næringsdrivende, jf. [pakkereiseloven § 7](lov/2018-06-15-32/§7) første ledd bokstav b, skal ett av følgende standardskjemaer gis:skjema 10 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er en transportør som selger returbillettskjema 11 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillettskjema 12 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenesteneskjema 13 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er en transportør som selger returbillettskjema 14 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er ikke en transportør som selger returbillettskjema 15 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenestene.
+1. skjema 4 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er en transportør som selger returbillett
+2. skjema 5 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett
+3. skjema 6 den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett, og den næringsdrivende mottar ikke betaling for reisetjenestene
+4. skjema 7 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er en transportør som selger returbillett
+5. skjema 8 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er ikke en transportør som selger returbillett
+6. skjema 9 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk tilstede, og den næringsdrivende er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenestene.
+
+Der den næringsdrivende på en målrettet måte formidler kjøp av minst en ytterligere reisetjeneste fra en annen næringsdrivende, jf. [pakkereiseloven § 7](lov/2018-06-15-32/§7) første ledd bokstav b, skal ett av følgende standardskjemaer gis:
+
+1. skjema 10 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er en transportør som selger returbillett
+2. skjema 11 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett
+3. skjema 12 der den næringsdrivende som formidler et sammensatt reisearrangement via internett er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenestene
+4. skjema 13 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er en transportør som selger returbillett
+5. skjema 14 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er ikke en transportør som selger returbillett
+6. skjema 15 der den næringsdrivende som formidler et sammensatt reisearrangement og den reisende er samtidig fysisk til stede, og den næringsdrivende er ikke en transportør som selger returbillett, og mottar ikke betaling for reisetjenestene.
 
 ## § 13. Reisegarantifondets formål og organisering
 
@@ -171,16 +212,39 @@ Selskap XY / selskapene XY har dessuten en lovpålagt reisegaranti som sikrer ti
 
 Flere opplysninger om sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32) [gis i form av en hyperlenke].
 
-Ved å klikke på hyperlenken mottar den reisende følgende opplysninger:Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i avtalen.Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.Reisende kan overdra pakkereisen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen og arrangøren ikke avhjelper problemet.Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.Arrangøren må yte bistand til reisende i vanskeligheter.Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt, og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kontakte Reisegarantifondet:*Postadresse:*
-Reisegarantifondet
-Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
-Reisegarantifondet
-c/o Ekko Advokatfirma AS
-Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
-E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+Ved å klikke på hyperlenken mottar den reisende følgende opplysninger:
+
+Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):
+
+- Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.
+- Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i avtalen.
+- Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.
+- Reisende kan overdra pakkereisen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.
+- Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.
+- Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.
+- Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.
+- I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.
+- Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen og arrangøren ikke avhjelper problemet.
+- Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.
+- Arrangøren må yte bistand til reisende i vanskeligheter.
+- Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt, og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kontakte Reisegarantifondet:
+
+  *Postadresse:*
+  Reisegarantifondet
+  Postboks 1316 Vika
+  0112 Oslo
+
+  *Besøksadresse:*
+  Reisegarantifondet
+  c/o Ekko Advokatfirma AS
+  Stortorvet 7
+  0155 Oslo
+
+  Telefon: 51 85 99 40
+  E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+  [www.rgf.no](http://www.rgf.no)
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ### Skjema 2
 
@@ -193,16 +257,35 @@ Du omfattes derfor av alle rettighetene som gjelder ved pakkereiser. Selskap XY 
 
 Selskap XY / selskapene XY har dessuten lovpålagt reisegaranti som sikrer tilbakebetaling av dine innbetalinger, i tilfelle insolvens hos selskapet/selskapene. Dersom transport inngår i pakkereisen, dekker reisegarantien også hjemtransport.
 
-Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i pakkereiseavtalen.Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.Reisende kan overdra pakkereisen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen og arrangøren ikke avhjelper problemet.Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.Arrangøren må yte bistand til reisende i vanskeligheter.Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:*Postadresse:*
-Reisegarantifondet
-Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
-Reisegarantifondet
-c/o Ekko Advokatfirma AS
-Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
-E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)
+Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):
+
+- Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.
+- Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i pakkereiseavtalen.
+- Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.
+- Reisende kan overdra pakkereisen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.
+- Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.
+- Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.
+- Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.
+- I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.
+- Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen og arrangøren ikke avhjelper problemet.
+- Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.
+- Arrangøren må yte bistand til reisende i vanskeligheter.
+- Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:
+
+  *Postadresse:*
+  Reisegarantifondet
+  Postboks 1316 Vika
+  0112 Oslo
+
+  *Besøksadresse:*
+  Reisegarantifondet
+  c/o Ekko Advokatfirma AS
+  Stortorvet 7
+  0155 Oslo
+
+  Telefon: 51 85 99 40
+  E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+  [www.rgf.no](http://www.rgf.no)
 
 Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata.no).
 
@@ -219,16 +302,39 @@ Selskap XY har dessuten en lovpålagt reisegaranti som sikrer tilbakebetaling av
 
 Flere opplysninger om sentrale rettigheter i henhold til [pakkereiseloven](lov/2018-06-15-32) [gis i form av en hyperlenke].
 
-Ved å klikke på hyperlenken mottar den reisende følgende opplysninger:Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i pakkereiseavtalen.Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.Reisende kan overdra pakkereiseavtalen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen, og arrangøren ikke avhjelper problemet.Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.Arrangøren må yte bistand til reisende i vanskeligheter.Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kontakte Reisegarantifondet:*Postadresse:*
-Reisegarantifondet
-Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
-Reisegarantifondet
-c/o Ekko Advokatfirma AS
-Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
-E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+Ved å klikke på hyperlenken mottar den reisende følgende opplysninger:
+
+Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):
+
+- Reisende vil motta alle viktige opplysninger om pakkereisen før pakkereiseavtalen inngås.
+- Det er alltid minst én næringsdrivende som er ansvarlig for korrekt levering av alle reisetjenestene som inngår i pakkereiseavtalen.
+- Reisende får et nødnummer eller opplysninger om et kontaktpunkt der de kan komme i kontakt med arrangøren eller reisebyrået.
+- Reisende kan overdra pakkereiseavtalen til en annen person, etter et rimelig varsel og eventuelt mot tilleggskostnader.
+- Prisen på pakkereisen kan bare økes dersom bestemte kostnader øker (for eksempel prisen på drivstoff), og dersom dette uttrykkelig er fastsatt i avtalen. Prisen kan uansett ikke økes senere enn 20 dager før pakkereisen begynner. Dersom prisen økes med mer enn 8 prosent av prisen på pakkereisen kan den reisende avbestille pakkereisen. Dersom arrangøren forbeholder seg retten til å øke prisen, har den reisende rett til prisreduksjon dersom de relevante kostnadene reduseres.
+- Reisende kan avbestille reisen uten å betale gebyr og få tilbakebetalt alle innbetalte beløp i sin helhet dersom et av pakkereisens vesentligste elementer, bortsett fra prisen, endres vesentlig. Dersom den næringsdrivende som er ansvarlig for pakkereisen, avlyser pakkereisen før den begynner, har den reisende rett til tilbakebetaling og eventuelt til erstatning.
+- Reisende kan ved ekstraordinære omstendigheter avbestille pakkereisen før den begynner uten å betale gebyr, for eksempel dersom det er alvorlige sikkerhetsproblemer på reisemålet som sannsynligvis vil påvirke pakkereisen.
+- I tillegg kan reisende til enhver tid før pakkereisen begynner avbestille pakkereisen mot et passende og begrunnet gebyr.
+- Dersom vesentlige elementer av pakkereisen ikke kan leveres som avtalt etter at pakkereisen har begynt skal den reisende tilbys passende alternative arrangementer uten tilleggskostnader. Den reisende kan si opp avtalen uten å betale gebyr dersom tjenestene ikke leveres etter avtalen, dette i vesentlig grad påvirker gjennomføringen av pakkereisen, og arrangøren ikke avhjelper problemet.
+- Reisende har også rett til prisreduksjon og/eller erstatning dersom reisetjenestene ikke leveres eller leveres på en mangelfull måte.
+- Arrangøren må yte bistand til reisende i vanskeligheter.
+- Dersom arrangøren blir insolvent, vil innbetalte beløp bli tilbakebetalt. Dersom arrangøren blir insolvent etter at pakkereisen er begynt og transport inngår i pakkereisen, er den reisendes hjemtransport dekket av garantien. XY har stilt reisegaranti overfor Reisegarantifondet. Dersom tjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kontakte Reisegarantifondet:
+
+  *Postadresse:*
+  Reisegarantifondet
+  Postboks 1316 Vika
+  0112 Oslo
+
+  *Besøksadresse:*
+  Reisegarantifondet
+  c/o Ekko Advokatfirma AS
+  Stortorvet 7
+  0155 Oslo
+
+  Telefon: 51 85 99 40
+  E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+  [www.rgf.no](http://www.rgf.no)
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ## Vedlegg II
 
@@ -249,16 +355,28 @@ Merk: Dette sikrer ikke tilbakebetaling ved den berørte tjenesteyterens insolve
 
 Flere opplysninger om reisegaranti: [(gis i form av en hyperlenke)]
 
-Ved å klikke på hyperlenken får den reisende følgende opplysninger:XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av insolvens hos XY, kan den reisende kontakte Reisegarantifondet:*Postadresse:*
+Ved å klikke på hyperlenken får den reisende følgende opplysninger:
+
+XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av insolvens hos XY, kan den reisende kontakte Reisegarantifondet:
+
+*Postadresse:*
 Reisegarantifondet
 Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
+0112 Oslo
+
+*Besøksadresse:*
 Reisegarantifondet
 c/o Ekko Advokatfirma AS
 Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
+0155 Oslo
+
+Telefon: 51 85 99 40
 E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+[www.rgf.no](http://www.rgf.no)
+
+Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ### Skjema 5
 
@@ -275,16 +393,28 @@ Merk: Dette sikrer ikke tilbakebetaling ved den berørte tjenesteyterens insolve
 
 Flere opplysninger om reisegaranti: [(gis i form av en hyperlenke)]
 
-Ved å klikke på hyperlenken får den reisende følgende opplysninger:XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kan kontakte Reisegarantifondet:*Postadresse:*
+Ved å klikke på hyperlenken får den reisende følgende opplysninger:
+
+XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens, kan den reisende kan kontakte Reisegarantifondet:
+
+*Postadresse:*
 Reisegarantifondet
 Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
+0112 Oslo
+
+*Besøksadresse:*
 Reisegarantifondet
 c/o Ekko Advokatfirma AS
 Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
+0155 Oslo
+
+Telefon: 51 85 99 40
 E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+[www.rgf.no](http://www.rgf.no)
+
+Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ### Skjema 6
 
@@ -399,16 +529,28 @@ Merk: Dette sikrer ikke tilbakebetaling ved insolvens hos den berørte tjenestey
 
 Flere opplysninger om reisegaranti: (gis i form av en hyperlenke)
 
-Ved å klikke på hyperlenken får den reisende følgende opplysninger:XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kan kontakte Reisegarantifondet:*Postadresse:*
+Ved å klikke på hyperlenken får den reisende følgende opplysninger:
+
+XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kan kontakte Reisegarantifondet:
+
+*Postadresse:*
 Reisegarantifondet
 Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
+0112 Oslo
+
+*Besøksadresse:*
 Reisegarantifondet
 c/o Ekko Advokatfirma AS
 Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
+0155 Oslo
+
+Telefon: 51 85 99 40
 E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+[www.rgf.no](http://www.rgf.no)
+
+Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ### Skjema 11
 
@@ -425,16 +567,28 @@ Merk: Dette sikrer ikke tilbakebetaling ved insolvens hos den berørte tjenestey
 
 Flere opplysninger om reisegaranti: [hyperlenke]
 
-Ved å klikke på hyperlenken får den reisende følgende opplysninger:XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:*Postadresse:*
+Ved å klikke på hyperlenken får den reisende følgende opplysninger:
+
+XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:
+
+*Postadresse:*
 Reisegarantifondet
 Postboks 1316 Vika
-0112 Oslo*Besøksadresse:*
+0112 Oslo
+
+*Besøksadresse:*
 Reisegarantifondet
 c/o Ekko Advokatfirma AS
 Stortorvet 7
-0155 OsloTelefon: 51 85 99 40
+0155 Oslo
+
+Telefon: 51 85 99 40
 E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
-[www.rgf.no](http://www.rgf.no)Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
+[www.rgf.no](http://www.rgf.no)
+
+Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
+
+[[Lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32) (hyperlenke)]
 
 ### Skjema 12
 

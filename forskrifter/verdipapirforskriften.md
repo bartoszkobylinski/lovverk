@@ -120,9 +120,15 @@ Skriftlig redegjørelse for utsettelse av offentliggjøring av innsideinformasjo
 
 ### § 3-3. Oversendelse av lister over personer med ledelsesansvar og nærstående personer
 
-(1) Utsteder skal uten ugrunnet opphold oversende oppdaterte lister utarbeidet etter [markedsmisbruksforordningen artikkel 19](eu/32014r0596/a19) nr. 5 over personer med ledelsesansvar hos utsteder og deres nærstående personer tilmarkedsoperatøren for det regulerte markedet der utsteders finansielle instrumenter er søkt om eller godkjent opptatt til handel,operatøren av den multilaterale handelsfasiliteten der utsteders finansielle instrumenter er søkt om eller godkjent opptatt til handel, dersom operatøren av fasiliteten er en markedsoperatør.
+(1) Utsteder skal uten ugrunnet opphold oversende oppdaterte lister utarbeidet etter [markedsmisbruksforordningen artikkel 19](eu/32014r0596/a19) nr. 5 over personer med ledelsesansvar hos utsteder og deres nærstående personer til
 
-(2) Lister som angitt i første ledd skal inneholde følgende informasjon:For fysiske personer: fullt navn, personnummer eller lignende identifikasjonsnummer og adresse. For personer med ledelsesansvar skal i tillegg type tillitsverv eller stilling hos utsteder angis.For juridiske personer: fullt navn, herunder juridisk selskapsform, organisasjonsnummer eller lignende identifikasjonsnummer og adresse.
+1. markedsoperatøren for det regulerte markedet der utsteders finansielle instrumenter er søkt om eller godkjent opptatt til handel,
+2. operatøren av den multilaterale handelsfasiliteten der utsteders finansielle instrumenter er søkt om eller godkjent opptatt til handel, dersom operatøren av fasiliteten er en markedsoperatør.
+
+(2) Lister som angitt i første ledd skal inneholde følgende informasjon:
+
+1. For fysiske personer: fullt navn, personnummer eller lignende identifikasjonsnummer og adresse. For personer med ledelsesansvar skal i tillegg type tillitsverv eller stilling hos utsteder angis.
+2. For juridiske personer: fullt navn, herunder juridisk selskapsform, organisasjonsnummer eller lignende identifikasjonsnummer og adresse.
 
 (3) Lister som angitt i første ledd skal oversendes i det formatet som markedsoperatøren til enhver tid fastsetter.
 
@@ -180,7 +186,17 @@ Finanstilsynet kan i forskrift fastsette nærmere bestemmelser om likeverdighete
 
 ### § 4-1. Krav til meldingen
 
-(1) Melding som nevnt i [verdipapirhandelloven § 4-2](lov/2007-06-29-75/§4-2) til [§ 4-4](lov/2007-06-29-75/§4-4) skal inneholde opplysninger om:navn på utsteder av aksjene,dato da andelen nådde opp til, oversteg eller falt under grensene fastsatt i [verdipapirhandelloven § 4-2](lov/2007-06-29-75/§4-2) første ledd,navn på den flaggepliktige, herunder navn på aksjeeieren,antall aksjer meldingen omfatter,den etterfølgende situasjonen hva gjelder stemmeretter, herunder hvor stor prosentandel av aksjene og stemmene i selskapet vedkommende innehar,hvor stor prosentandel av aksjene og stemmene i selskapet vedkommende innehar i form av rettigheter til aksjer,omstendigheten som utløste flaggeplikten, og om denne gjaldt vedkommende selv eller annen som omfattes av flaggeplikt,rekken av kontrollerte foretak aksjene eller rettighetene eies gjennom, ogdersom meldingen gjelder rettigheter til aksjer som nevnt i [verdipapirhandelloven § 4-3](lov/2007-06-29-75/§4-3) første ledd, skal meldingen i tillegg inneholde en beskrivelse av rettighetene, herunder opplysninger om på hvilket tidspunkt rettighetene vil eller kan bli utøvet og tidspunktet de forfaller.
+(1) Melding som nevnt i [verdipapirhandelloven § 4-2](lov/2007-06-29-75/§4-2) til [§ 4-4](lov/2007-06-29-75/§4-4) skal inneholde opplysninger om:
+
+1. navn på utsteder av aksjene,
+2. dato da andelen nådde opp til, oversteg eller falt under grensene fastsatt i [verdipapirhandelloven § 4-2](lov/2007-06-29-75/§4-2) første ledd,
+3. navn på den flaggepliktige, herunder navn på aksjeeieren,
+4. antall aksjer meldingen omfatter,
+5. den etterfølgende situasjonen hva gjelder stemmeretter, herunder hvor stor prosentandel av aksjene og stemmene i selskapet vedkommende innehar,
+6. hvor stor prosentandel av aksjene og stemmene i selskapet vedkommende innehar i form av rettigheter til aksjer,
+7. omstendigheten som utløste flaggeplikten, og om denne gjaldt vedkommende selv eller annen som omfattes av flaggeplikt,
+8. rekken av kontrollerte foretak aksjene eller rettighetene eies gjennom, og
+9. dersom meldingen gjelder rettigheter til aksjer som nevnt i [verdipapirhandelloven § 4-3](lov/2007-06-29-75/§4-3) første ledd, skal meldingen i tillegg inneholde en beskrivelse av rettighetene, herunder opplysninger om på hvilket tidspunkt rettighetene vil eller kan bli utøvet og tidspunktet de forfaller.
 
 (2) Melding som nevnt i [verdipapirhandelloven § 4-3](lov/2007-06-29-75/§4-3) første ledd skal omfatte en oppdeling etter type finansielle instrumenter som innehas etter paragrafens første ledd nr. 1 og nr. 2, og skille mellom finansielle instrumenter som gir rett til fysisk oppgjør og finansielle instrumenter som gir rett til finansielt oppgjør.
 
@@ -196,7 +212,11 @@ Finanstilsynet kan i forskrift fastsette nærmere bestemmelser om likeverdighete
 
 (1) Morselskap til forvaltningsselskap er ikke forpliktet til å legge sammen sine eierandeler etter [verdipapirhandelloven § 4-4](lov/2007-06-29-75/§4-4) annet ledd med eierandeler som forvaltningsselskapet forvalter etter reglene om UCITS i [verdipapirfondloven](lov/2011-11-25-44) eller annet regelverk som gjennomfører direktiv [2009/65/EF](eu/32009l0065), forutsatt at forvaltningsselskapet utøver sin stemmerett etter eget skjønn, uavhengig av morselskapet og annet kontrollert foretak under morselskapet.
 
-(2) Morselskapet til verdipapirforetak er ikke forpliktet til å legge sammen sine eierandeler etter [verdipapirhandelloven § 4-4](lov/2007-06-29-75/§4-4) annet ledd med de eierandeler som verdipapirforetaket forvalter for den enkelte kunde som ledd i ytelse av porteføljeforvaltning, forutsatt at:verdipapirforetaket har tillatelse til å yte porteføljeforvaltning etter [verdipapirhandelloven](lov/2007-06-29-75), eller annet regelverk som gjennomfører direktiv [2014/65/EU](eu/32014l0065),verdipapirforetaket kun kan utøve stemmerett knyttet til slike aksjer etter skriftlig eller elektronisk instruks, eller det sørges for at porteføljeforvaltningen utøves uavhengig av andre tjenester på vilkår som tilsvarer vilkårene i [verdipapirfondloven](lov/2011-11-25-44) for UCITS eller annet regelverk som gjennomfører direktiv [2009/65/EF](eu/32009l0065) ved at det etableres hensiktsmessige ordninger, ogverdipapirforetaket utøver sin stemmerett etter eget skjønn, uavhengig av morselskapet og annet kontrollert foretak under morselskapet.
+(2) Morselskapet til verdipapirforetak er ikke forpliktet til å legge sammen sine eierandeler etter [verdipapirhandelloven § 4-4](lov/2007-06-29-75/§4-4) annet ledd med de eierandeler som verdipapirforetaket forvalter for den enkelte kunde som ledd i ytelse av porteføljeforvaltning, forutsatt at:
+
+1. verdipapirforetaket har tillatelse til å yte porteføljeforvaltning etter [verdipapirhandelloven](lov/2007-06-29-75), eller annet regelverk som gjennomfører direktiv [2014/65/EU](eu/32014l0065),
+2. verdipapirforetaket kun kan utøve stemmerett knyttet til slike aksjer etter skriftlig eller elektronisk instruks, eller det sørges for at porteføljeforvaltningen utøves uavhengig av andre tjenester på vilkår som tilsvarer vilkårene i [verdipapirfondloven](lov/2011-11-25-44) for UCITS eller annet regelverk som gjennomfører direktiv [2009/65/EF](eu/32009l0065) ved at det etableres hensiktsmessige ordninger, og
+3. verdipapirforetaket utøver sin stemmerett etter eget skjønn, uavhengig av morselskapet og annet kontrollert foretak under morselskapet.
 
 (3) Morselskap som ønsker å benytte unntakene i første eller annet ledd skal uten ugrunnet opphold gi melding til Finanstilsynet dersom det vil benytte unntakene. Morselskapet skal opplyse om forvaltningsselskapenes og verdipapirforetakenes navn og hvilke tilsynsmyndigheter som fører tilsyn med foretakene. Morselskapet skal avgi en erklæring om at vilkårene i første og annet ledd er oppfylt. Morselskapet skal opplyse Finanstilsynet ved endringer i meldingen.
 
@@ -258,7 +278,10 @@ For norske utstedere skal styrets medlemmer og daglig leder avgi erklæring ette
 
 (1) Annet ledd gjelder for aksjeutsteder som er pliktig til å utarbeide konsernregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) første og annet ledd, etter nasjonal lovgivning som gjennomfører forordning [(EF) nr. 1606/2002](eu/32002r1606) eller tilsvarende regler i land utenfor EØS.
 
-(2) Om vesentlige transaksjoner med nærstående parter, slik dette er definert i internasjonale regnskapsstandarder i medhold av [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9), skal det i halvårsberetningen etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) fjerde ledd minst opplyses om:nærståendes transaksjoner gjennomført i de første seks måneder av inneværende regnskapsår, og som har hatt vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden, ogeventuelle endringer i nærståendes transaksjoner beskrevet i siste årsrapport som kan ha en vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden.
+(2) Om vesentlige transaksjoner med nærstående parter, slik dette er definert i internasjonale regnskapsstandarder i medhold av [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9), skal det i halvårsberetningen etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) fjerde ledd minst opplyses om:
+
+1. nærståendes transaksjoner gjennomført i de første seks måneder av inneværende regnskapsår, og som har hatt vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden, og
+2. eventuelle endringer i nærståendes transaksjoner beskrevet i siste årsrapport som kan ha en vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden.
 
 (3) For aksjeutstedere som ikke er forpliktet til å utarbeide konsernregnskap, skal halvårsberetningen minst inneholde opplysninger om transaksjonene som det henvises til i direktiv [78/660/EF](eu/31978l0660) art. 43 (1)(7b) til nærstående som definert i den internasjonale regnskapsstandard for opplysninger om nærstående parter.
 
@@ -288,7 +311,13 @@ For norske utstedere skal styrets medlemmer og daglig leder avgi erklæring ette
 
 ### § 5-7. Utstedere fra land utenfor EØS med Norge som hjemstat
 
-(1) Finanstilsynet kan ved enkeltvedtak bestemme at utstedere fra land utenfor EØS med Norge som hjemstat skal anses for å oppfylle kravene nevnt i [verdipapirhandelloven](lov/2007-06-29-75):[§ 5-5 fjerde ledd](lov/2007-06-29-75/§5-5/ledd/4) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 13,[§ 5-6 fjerde ledd](lov/2007-06-29-75/§5-6/ledd/4) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i kommisjonsdirektiv [2007/14/EF](eu/32007l0014) art. 14,[§ 5-5 annet ledd](lov/2007-06-29-75/§5-5/ledd/2) og [§ 5-6 annet ledd nr. 3](lov/2007-06-29-75/§5-6/ledd/2/nummer/3) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 15,[§ 5-5 tredje ledd første](lov/2007-06-29-75/§5-5/ledd/3/setning/1) og [annet punktum](lov/2007-06-29-75/§5-5/ledd/3/setning/2) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 17,[§ 5-5 tredje ledd tredje punktum](lov/2007-06-29-75/§5-5/ledd/3/setning/3) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 18.
+(1) Finanstilsynet kan ved enkeltvedtak bestemme at utstedere fra land utenfor EØS med Norge som hjemstat skal anses for å oppfylle kravene nevnt i [verdipapirhandelloven](lov/2007-06-29-75):
+
+1. [§ 5-5 fjerde ledd](lov/2007-06-29-75/§5-5/ledd/4) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 13,
+2. [§ 5-6 fjerde ledd](lov/2007-06-29-75/§5-6/ledd/4) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i kommisjonsdirektiv [2007/14/EF](eu/32007l0014) art. 14,
+3. [§ 5-5 annet ledd](lov/2007-06-29-75/§5-5/ledd/2) og [§ 5-6 annet ledd nr. 3](lov/2007-06-29-75/§5-6/ledd/2/nummer/3) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 15,
+4. [§ 5-5 tredje ledd første](lov/2007-06-29-75/§5-5/ledd/3/setning/1) og [annet punktum](lov/2007-06-29-75/§5-5/ledd/3/setning/2) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 17,
+5. [§ 5-5 tredje ledd tredje punktum](lov/2007-06-29-75/§5-5/ledd/3/setning/3) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2007/14/EF](eu/32007l0014) art. 18.
 
 (2) Finanstilsynet kan ved enkeltvedtak bestemme at utstedere fra land utenfor EØS med Norge som hjemstat skal anses for å oppfylle kravene nevnt i [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2) [(13)](lov/1998-07-17-56/§2-2) dersom utstederen i henhold til tredjelandets lovgivning må oppfylle tilsvarende krav som angitt i direktiv [2004/25/EF](eu/32004l0025) artikkel 10.
 
@@ -314,7 +343,13 @@ Bestemmelsene i kapittelet her gjelder tilsvarende for egenkapitalbevis.
 
 (5) Opplysninger nevnt i første ledd skal sendes til media på en måte som tydelig identifiserer utstederen, hva opplysningene angår, samt tid og dato for oversendelsen. Videre skal det tydelig angis at opplysningene er informasjonspliktige etter [verdipapirhandelloven § 5-12](lov/2007-06-29-75/§5-12).
 
-(6) Utsteder skal ved forespørsel fra Finanstilsynet kunne gi følgende opplysninger:navn på personene som sendte opplysningene til media,bekreftelse på at sikkerhetskravene i fjerde ledd er ivaretatt,tid og dato opplysningene ble sendt til media,mediet opplysningene ble sendt gjennom ogeventuelle restriksjoner som utsteder har lagt på opplysningene.
+(6) Utsteder skal ved forespørsel fra Finanstilsynet kunne gi følgende opplysninger:
+
+1. navn på personene som sendte opplysningene til media,
+2. bekreftelse på at sikkerhetskravene i fjerde ledd er ivaretatt,
+3. tid og dato opplysningene ble sendt til media,
+4. mediet opplysningene ble sendt gjennom og
+5. eventuelle restriksjoner som utsteder har lagt på opplysningene.
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
@@ -324,7 +359,14 @@ Bestemmelsene i kapittelet her gjelder tilsvarende for egenkapitalbevis.
 
 ### § 5-11. Andre anerkjente regnskapsprinsipper tilsvarende IFRS
 
-(1) Følgende regnskapsstandarder anses å være i overensstemmelse med internasjonale regnskapsstandarder vedtatt i henhold til forordning [(EF) nr. 1606/2002](eu/32002r1606), for utarbeidelse av årsregnskap, halvårsregnskap og kvartalsregnskap:IFRS, dersom notene til regnskapene inneholder en uttrykkelig og uforbeholden erklæring om at de oppfyller de internasjonale regnskapsstandarder i overensstemmelse med IAS 1 «presentasjon av finansregnskap», ellerJapans alminnelige anerkjente regnskapsprinsipper (GAAP), ellerUSAs alminnelige anerkjente regnskapsprinsipper (GAAP).Kinas alminnelige anerkjente regnskapsprinsipper (GAAP),Canadas alminnelige anerkjente regnskapsprinsipper (GAAP),Sør-Koreas alminnelige anerkjente regnskapsprinsipper (GAAP).
+(1) Følgende regnskapsstandarder anses å være i overensstemmelse med internasjonale regnskapsstandarder vedtatt i henhold til forordning [(EF) nr. 1606/2002](eu/32002r1606), for utarbeidelse av årsregnskap, halvårsregnskap og kvartalsregnskap:
+
+1. IFRS, dersom notene til regnskapene inneholder en uttrykkelig og uforbeholden erklæring om at de oppfyller de internasjonale regnskapsstandarder i overensstemmelse med IAS 1 «presentasjon av finansregnskap», eller
+2. Japans alminnelige anerkjente regnskapsprinsipper (GAAP), eller
+3. USAs alminnelige anerkjente regnskapsprinsipper (GAAP).
+4. Kinas alminnelige anerkjente regnskapsprinsipper (GAAP),
+5. Canadas alminnelige anerkjente regnskapsprinsipper (GAAP),
+6. Sør-Koreas alminnelige anerkjente regnskapsprinsipper (GAAP).
 
 (2) EØS-avtalen vedlegg IX nr. 29e (forordning [(EF) nr. 1569/2007](eu/32007r1569) og forordning [(EU) nr. 310/2012](eu/32012r0310) som endret ved forordning [(EU) 2015/1605](eu/32015r1605)) om innføring av en ordning for fastsettelse av likeverdighet for regnskapsstandarder som anvendes av utstedere av verdipapirer i tredjestater gjelder som forskrift med de tilpasninger som følger av vedlegget, protokoll 1 til avtalen og avtalen for øvrig
 
@@ -406,11 +448,24 @@ Original garantierklæring eller en bekreftelse fra garantisten skal sendes tilb
 
 ### § 6-10. Nedskriving av garanti
 
-(1) Tilbudsmyndigheten kan etter søknad akseptere reduksjon av garantien med følgende beløp:endelig betalt beløp for aksjer kjøpt under tilbudet, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter, basert på opplysninger om hvor mange aksjer som er akseptert overdratt under tilbudetendelig betalt beløp for aksjer dokumentert kjøpt utenfor tilbudet i tilbudsperioden, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter ogbeløp tilsvarende antall aksjer det ikke foreligger aksept for, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter, likevel slik at det gjenstår en margin for eventuelle omtvistede eller uklare aksepter for ca. 10 % av dette beløp. I særlige tilfeller kan marginen settes lavere. Anmodning om nedskriving for den del av garantien som omfatter aksjer det ikke foreligger aksept for, kan sendes tidligst to dager etter akseptperiodens utløp.
+(1) Tilbudsmyndigheten kan etter søknad akseptere reduksjon av garantien med følgende beløp:
+
+1. endelig betalt beløp for aksjer kjøpt under tilbudet, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter, basert på opplysninger om hvor mange aksjer som er akseptert overdratt under tilbudet
+2. endelig betalt beløp for aksjer dokumentert kjøpt utenfor tilbudet i tilbudsperioden, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter og
+3. beløp tilsvarende antall aksjer det ikke foreligger aksept for, herunder en tilsvarende andel av beløp avsatt til forsinkelsesrenter, likevel slik at det gjenstår en margin for eventuelle omtvistede eller uklare aksepter for ca. 10 % av dette beløp. I særlige tilfeller kan marginen settes lavere. Anmodning om nedskriving for den del av garantien som omfatter aksjer det ikke foreligger aksept for, kan sendes tidligst to dager etter akseptperiodens utløp.
 
 (2) Reduksjon forutsetter at tilbudsmyndigheten finner opplysningene tilfredsstillende dokumentert og at gjenstående garantibeløp vil gi tilfredsstillende sikkerhet.
 
-(3) Av søknaden må minst følgende fremgå:antall aksepter mottatteventuelle aksjer kjøpt utenfor tilbudetdet beløp garantien søkes nedskrevet for, beregnet i henhold til første ledd bokstav a) til c)en oppstilling som viser totalt aksepterte aksjerforsinkelsesrenter for 4 uker beregnet på totalsum utestående på garantien etter nedskrivingen ogen angivelse av eventuelle avviste eller omtvistede aksepter.I tillegg må det fremlegges kopi av skjermbildeutskrift fra Verdipapirsentralen som viser status over antall aksjer akseptert per den dato nedskriving skal være effektiv fra. Opplysningene skal bekreftes av den finansinstitusjon som forestår oppgjøret under tilbudet.
+(3) Av søknaden må minst følgende fremgå:
+
+1. antall aksepter mottatt
+2. eventuelle aksjer kjøpt utenfor tilbudet
+3. det beløp garantien søkes nedskrevet for, beregnet i henhold til første ledd bokstav a) til c)
+4. en oppstilling som viser totalt aksepterte aksjer
+5. forsinkelsesrenter for 4 uker beregnet på totalsum utestående på garantien etter nedskrivingen og
+6. en angivelse av eventuelle avviste eller omtvistede aksepter.
+
+I tillegg må det fremlegges kopi av skjermbildeutskrift fra Verdipapirsentralen som viser status over antall aksjer akseptert per den dato nedskriving skal være effektiv fra. Opplysningene skal bekreftes av den finansinstitusjon som forestår oppgjøret under tilbudet.
 
 (4) Opprinnelig garantierklæring returneres av tilbudsmyndigheten mot fremleggelse av ny erklæring basert på nedskrevet garantibeløp.
 
@@ -444,15 +499,29 @@ Original garantierklæring eller en bekreftelse fra garantisten skal sendes tilb
 
 (2) Dersom selskap med forretningskontor i Norge ikke er notert på regulert marked i Norge, men er notert på regulert marked i en annen EØS-stat, føres tilsyn med tilbudet av tilbudsmyndighet i den staten der det regulerte markedet som selskapet er notert på ligger, med mindre annet følger av [§ 6-14](forskrift/2007-06-29-876/§6-14) første ledd.
 
-(3) Første ledd gjelder, med mindre annet følger av [§ 6-14](forskrift/2007-06-29-876/§6-14) annet ledd, tilsvarende for tilbud om overtakelse av:selskap med forretningskontor i annen EØS-stat enn Norge, hvis aksjer eller andre verdipapirer som kan sidestilles med aksjer ikke er notert på regulert marked i EØS-staten hvor selskapet har forretningskontor, hvisselskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer kun er notert på norsk regulert marked,selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer er notert på regulert marked i flere EØS-stater, dersom notering skjedde i Norge først,selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer blir notert samtidig på norsk regulert marked og på et eller flere regulerte marked i andre EU/EØS-stater, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, ellerselskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer pr. 20. mai 2006 allerede var notert på flere regulerte markeder og noteringer var skjedd samtidig, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, med mindre de aktuelle kompetente myndighetene gjennom avtale før 20. juni 2006 har fastsatt at annen kompetent myndighet skal ha ansvaret i forhold til tilbudet.selskap med forretningskontor i stat utenfor EØS-området, hvis aksjer er notert på norsk regulert marked, med mindre tilbudsmyndigheten har gitt dispensasjon etter [vphl. § 6-23](lov/2007-06-29-75/§6-23) tredje ledd.
+(3) Første ledd gjelder, med mindre annet følger av [§ 6-14](forskrift/2007-06-29-876/§6-14) annet ledd, tilsvarende for tilbud om overtakelse av:
+
+1. selskap med forretningskontor i annen EØS-stat enn Norge, hvis aksjer eller andre verdipapirer som kan sidestilles med aksjer ikke er notert på regulert marked i EØS-staten hvor selskapet har forretningskontor, hvis
+
+   1. selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer kun er notert på norsk regulert marked,
+   2. selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer er notert på regulert marked i flere EØS-stater, dersom notering skjedde i Norge først,
+   3. selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer blir notert samtidig på norsk regulert marked og på et eller flere regulerte marked i andre EU/EØS-stater, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, eller
+   4. selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer pr. 20. mai 2006 allerede var notert på flere regulerte markeder og noteringer var skjedd samtidig, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, med mindre de aktuelle kompetente myndighetene gjennom avtale før 20. juni 2006 har fastsatt at annen kompetent myndighet skal ha ansvaret i forhold til tilbudet.
+2. selskap med forretningskontor i stat utenfor EØS-området, hvis aksjer er notert på norsk regulert marked, med mindre tilbudsmyndigheten har gitt dispensasjon etter [vphl. § 6-23](lov/2007-06-29-75/§6-23) tredje ledd.
 
 > Tilføyd ved [forskrift 18 des 2007 nr. 1486](forskrift/2007-12-18-1486) (i kraft 1 jan 2008).
 
 ### § 6-14. Lovvalg ved tilbud med tilknytning til flere EU/EØS-stater
 
-(1) For tilbud nevnt i [§ 6-13](forskrift/2007-06-29-876/§6-13) annet ledd gjelder følgende:spørsmål av rettslig karakter knyttet til informasjon til ansatte i selskapet og selskapsrettslige spørsmål, herunder spørsmål om grensen for når tilbudsplikt utløses, eventuelle fritak fra plikten til å fremsette et tilbud og unntak fra tilbudsplikten, behandles etter norsk rett,spørsmål av rettslig karakter knyttet til tilbudsprosessen, herunder spørsmål om vederlag som tilbys i forbindelse med tilbudet, og da særlig tilbudspris, fremgangsmåten ved tilbudet, opplysninger om tilbyders beslutning om å fremsette et tilbud, innholdet i tilbudsdokumentet og offentliggjøring av tilbudet, behandles etter reglene i den EU/EØS-staten som det regulerte markedet, der selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer er notert, tilhører, og overvåkes av tilbudsmyndigheten i denne staten.
+(1) For tilbud nevnt i [§ 6-13](forskrift/2007-06-29-876/§6-13) annet ledd gjelder følgende:
 
-(2) For tilbud som omfattes av [§ 6-13](forskrift/2007-06-29-876/§6-13) tredje ledd gjelder følgende:spørsmål av rettslig karakter knyttet til tilbudsprosessen, herunder spørsmål om vederlag som tilbys i forbindelse med tilbudet, og da særlig tilbudspris, fremgangsmåten ved tilbudet, opplysninger om tilbyders beslutning om å fremsette et tilbud, innholdet i tilbudsdokumentet og offentliggjøring av tilbudet, behandles etter norsk rett,spørsmål av rettslig karakter knyttet til informasjon til ansatte i selskapet og selskapsrettslige spørsmål, herunder spørsmål om grensen for når tilbudsplikt utløses, eventuelle fritak fra plikten til å fremsette et tilbud og unntak fra tilbudsplikten, behandles etter reglene i den EU/EØS-staten selskapet har forretningskontor, og overvåkes av tilbudsmyndigheten i denne staten.
+1. spørsmål av rettslig karakter knyttet til informasjon til ansatte i selskapet og selskapsrettslige spørsmål, herunder spørsmål om grensen for når tilbudsplikt utløses, eventuelle fritak fra plikten til å fremsette et tilbud og unntak fra tilbudsplikten, behandles etter norsk rett,
+2. spørsmål av rettslig karakter knyttet til tilbudsprosessen, herunder spørsmål om vederlag som tilbys i forbindelse med tilbudet, og da særlig tilbudspris, fremgangsmåten ved tilbudet, opplysninger om tilbyders beslutning om å fremsette et tilbud, innholdet i tilbudsdokumentet og offentliggjøring av tilbudet, behandles etter reglene i den EU/EØS-staten som det regulerte markedet, der selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer er notert, tilhører, og overvåkes av tilbudsmyndigheten i denne staten.
+
+(2) For tilbud som omfattes av [§ 6-13](forskrift/2007-06-29-876/§6-13) tredje ledd gjelder følgende:
+
+1. spørsmål av rettslig karakter knyttet til tilbudsprosessen, herunder spørsmål om vederlag som tilbys i forbindelse med tilbudet, og da særlig tilbudspris, fremgangsmåten ved tilbudet, opplysninger om tilbyders beslutning om å fremsette et tilbud, innholdet i tilbudsdokumentet og offentliggjøring av tilbudet, behandles etter norsk rett,
+2. spørsmål av rettslig karakter knyttet til informasjon til ansatte i selskapet og selskapsrettslige spørsmål, herunder spørsmål om grensen for når tilbudsplikt utløses, eventuelle fritak fra plikten til å fremsette et tilbud og unntak fra tilbudsplikten, behandles etter reglene i den EU/EØS-staten selskapet har forretningskontor, og overvåkes av tilbudsmyndigheten i denne staten.
 
 > Tilføyd ved [forskrift 18 des 2007 nr. 1486](forskrift/2007-12-18-1486) (i kraft 1 jan 2008).
 
@@ -492,7 +561,48 @@ Nasjonale prospekter skal utarbeides på norsk, engelsk, svensk eller dansk.
 
 ### § 7-3. Spesifiserte innholdskrav for nasjonale prospekter
 
-(1) Nasjonale prospekter skal inneholde følgende opplysninger og vedlegg:Opplysninger om utstederen, tilbyderen og eventuelle garantister:navn, foretaksnavn, organisasjonsnummer og LEI dersom relevant,forretningsadresse og kontaktinformasjon,navn på medlemmer av styret og daglig leder, og informasjon om eventuelle domfellelser for økonomiske forhold, konkurser, bobehandlinger eller avviklinger, forvaltningsrettslige anklager eller sanksjoner som slike personer har vært involvert i de siste fem år. Utstedere skal i tillegg gi tilsvarende opplysninger om finansdirektøren.Ytterligere opplysninger om utstederen:organisasjonsform og gjeldende lovgivning for utsteders virksomhet,dato for stiftelsen og informasjon om tidspunkt for oppløsning hvis utsteder etter vedtektene skal ha begrenset levetid,formål etter vedtektene,antall aksjer utstedt, pålydende verdi og utstedte rettigheter til aksjer,informasjon om virksomheten til utsteder,beskrivelse av sentrale hendelser i virksomheten siste to år og planlagte investeringer for de neste 12 måneder,beskrivelse av nærståendetransaksjoner siste to år,beskrivelse av virksomhetskritiske avtaler,beskrivelse av vesentlige risikofaktorer knyttet til utstederen og bransjen som utsteder opererer i.Beskrivelse av tilbudet og verdipapirene som tilbys:formålet med og bakgrunnen for tilbudet, herunder bruk av netto proveny,vilkårene for gjennomføring av tilbudet,antall og arten av verdipapirer som tilbys,rettigheter knyttet til verdipapirene, herunder eventuelle begrensninger i rettighetene,ISIN på verdipapirene som tilbys,tilbudspris, eventuelt prisintervall og fremgangsmåte for fastsettelse av pris,brutto og netto proveny,forventede kostnader ved tilbudet for tilbyder, og eventuelle kostnader for investorene,hvem som kan delta i tilbudet og eventuelt minste/høyeste tegning og allokering,dato for beslutning om utstedelse av verdipapirene der tilbudet omfatter nye verdipapirer,akseptperiode og fremgangsmåte for aksept av tilbudet, samt adgang til å endre akseptperioden med angivelse av siste frist ved eventuell endring,eventuelle tilretteleggere og oppgjørsagenter for tilbudet, med kontaktinformasjon,eventuelle vilkår for gjennomføring av tilbudet,dato for innbetaling og levering av verdipapirene,vesentlige risikofaktorer knyttet til verdipapirene og eventuelt utstedelsen av disse,beskrivelse av eventuell garanti,lovvalg og verneting.Vedlegg til nasjonale prospekter:vedtekter per dato for prospektet,reviderte regnskaper for siste to år og eventuelle delårsregnskaper som er publisert etter dato for siste balansedag for utstederen og eventuelle garantister,tegningsformular.
+(1) Nasjonale prospekter skal inneholde følgende opplysninger og vedlegg:
+
+1. Opplysninger om utstederen, tilbyderen og eventuelle garantister:
+
+   1. navn, foretaksnavn, organisasjonsnummer og LEI dersom relevant,
+   2. forretningsadresse og kontaktinformasjon,
+   3. navn på medlemmer av styret og daglig leder, og informasjon om eventuelle domfellelser for økonomiske forhold, konkurser, bobehandlinger eller avviklinger, forvaltningsrettslige anklager eller sanksjoner som slike personer har vært involvert i de siste fem år. Utstedere skal i tillegg gi tilsvarende opplysninger om finansdirektøren.
+2. Ytterligere opplysninger om utstederen:
+
+   1. organisasjonsform og gjeldende lovgivning for utsteders virksomhet,
+   2. dato for stiftelsen og informasjon om tidspunkt for oppløsning hvis utsteder etter vedtektene skal ha begrenset levetid,
+   3. formål etter vedtektene,
+   4. antall aksjer utstedt, pålydende verdi og utstedte rettigheter til aksjer,
+   5. informasjon om virksomheten til utsteder,
+   6. beskrivelse av sentrale hendelser i virksomheten siste to år og planlagte investeringer for de neste 12 måneder,
+   7. beskrivelse av nærståendetransaksjoner siste to år,
+   8. beskrivelse av virksomhetskritiske avtaler,
+   9. beskrivelse av vesentlige risikofaktorer knyttet til utstederen og bransjen som utsteder opererer i.
+3. Beskrivelse av tilbudet og verdipapirene som tilbys:
+
+   1. formålet med og bakgrunnen for tilbudet, herunder bruk av netto proveny,
+   2. vilkårene for gjennomføring av tilbudet,
+   3. antall og arten av verdipapirer som tilbys,
+   4. rettigheter knyttet til verdipapirene, herunder eventuelle begrensninger i rettighetene,
+   5. ISIN på verdipapirene som tilbys,
+   6. tilbudspris, eventuelt prisintervall og fremgangsmåte for fastsettelse av pris,
+   7. brutto og netto proveny,
+   8. forventede kostnader ved tilbudet for tilbyder, og eventuelle kostnader for investorene,
+   9. hvem som kan delta i tilbudet og eventuelt minste/høyeste tegning og allokering,
+   10. dato for beslutning om utstedelse av verdipapirene der tilbudet omfatter nye verdipapirer,
+   11. akseptperiode og fremgangsmåte for aksept av tilbudet, samt adgang til å endre akseptperioden med angivelse av siste frist ved eventuell endring,
+   12. eventuelle tilretteleggere og oppgjørsagenter for tilbudet, med kontaktinformasjon,
+   13. eventuelle vilkår for gjennomføring av tilbudet,
+   14. dato for innbetaling og levering av verdipapirene,
+   15. vesentlige risikofaktorer knyttet til verdipapirene og eventuelt utstedelsen av disse,
+   16. beskrivelse av eventuell garanti,
+   17. lovvalg og verneting.
+4. Vedlegg til nasjonale prospekter:
+
+   1. vedtekter per dato for prospektet,
+   2. reviderte regnskaper for siste to år og eventuelle delårsregnskaper som er publisert etter dato for siste balansedag for utstederen og eventuelle garantister,
+   3. tegningsformular.
 
 (2) Vedlegg som angitt i bokstav d nr. 1 og 2., kan inkorporeres ved henvisning dersom disse er elektronisk tilgjengelige i prospektets levetid.
 
@@ -720,7 +830,14 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 ### § 9-6a. Retningslinjer for aktivt aksjeeierskap
 
-(1) Retningslinjer for aktivt aksjeeierskap som nevnt i [verdipapirhandelloven § 9-16a](lov/2007-06-29-75/§9-16a) skal beskrive følgende:hvordan aktivt eierskap integreres i investeringsstrategien,hvordan verdipapirforetaket overvåker selskaper det investeres i på relevante områder,hvordan verdipapirforetaket fører dialog med selskapene det investeres i,utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,samarbeid og kommunikasjon med andre aksjeeiere og interessenter, oghvordan verdipapirforetaket håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
+(1) Retningslinjer for aktivt aksjeeierskap som nevnt i [verdipapirhandelloven § 9-16a](lov/2007-06-29-75/§9-16a) skal beskrive følgende:
+
+1. hvordan aktivt eierskap integreres i investeringsstrategien,
+2. hvordan verdipapirforetaket overvåker selskaper det investeres i på relevante områder,
+3. hvordan verdipapirforetaket fører dialog med selskapene det investeres i,
+4. utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,
+5. samarbeid og kommunikasjon med andre aksjeeiere og interessenter, og
+6. hvordan verdipapirforetaket håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
 
 (2) Verdipapirforetaket skal årlig offentliggjøre hvordan retningslinjene etter første ledd er gjennomført, herunder opplyse om stemmegivning, de viktigste avstemningene og bruken av rådgivende stedfortredere.
 
@@ -732,9 +849,17 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 ### § 9-7. Gjenfinning av dokumentasjon
 
-(1) Opptak av telefonsamtaler skal minst kunne gjenfinnes etter følgende søkekriterier:inngående og utgående telefonnummer,tidspunktet for samtalen,ansatte hos foretaket som utførte samtalen.
+(1) Opptak av telefonsamtaler skal minst kunne gjenfinnes etter følgende søkekriterier:
 
-(2) Dokumentasjon av kommunikasjon gjennom andre kommunikasjonskanaler skal minst kunne gjenfinnes etter følgende søkekriterier:kundens identitet,tidspunktet for kommunikasjonen,ansatte hos foretaket som utførte kommunikasjonen.
+1. inngående og utgående telefonnummer,
+2. tidspunktet for samtalen,
+3. ansatte hos foretaket som utførte samtalen.
+
+(2) Dokumentasjon av kommunikasjon gjennom andre kommunikasjonskanaler skal minst kunne gjenfinnes etter følgende søkekriterier:
+
+1. kundens identitet,
+2. tidspunktet for kommunikasjonen,
+3. ansatte hos foretaket som utførte kommunikasjonen.
 
 (3) Verdipapirforetaket skal ved etablering av kundeforholdet skriftlig opplyse alle kunder om at opptak av telefonsamtaler kan gjenfinnes etter særskilte kriterier. Hvilke kriterier som kan benyttes for gjenfinning skal særskilt angis.
 
@@ -746,7 +871,14 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 ### § 9-8. Beskyttelse av kundenes finansielle instrumenter og midler
 
-(1) Verdipapirforetak skal:ha oppdaterte registre og kontoer som til enhver tid skiller mellom de ulike kundenes aktiva, og mellom kundenes aktiva og foretakets egne aktiva,sørge for at registre og kontoer er ført på en måte som sikrer at de er nøyaktige og stemmer overens med de finansielle instrumentene og midlene foretaket oppbevarer for kundene, og at de kan anvendes som verifikasjonskjede,regelmessig avstemme interne registre og kontoer med registre og kontoer hos tredjeparter som oppbevarer aktivaene,treffe nødvendige tiltak for å sikre at finansielle instrumenter som oppbevares hos en tredjepart, holdes atskilt fra foretakets egne eller tredjepartens finansielle instrumenter, og at dette fremgår av tredjepartens kontoer og registre,sikre at verdipapirforetakets midler ikke står på klientkonto,ha egnede organisatoriske ordninger for å begrense risikoen for at kundenes aktiva eller rettigheter knyttet til disse, går tapt eller forringes som følge av misbruk av aktiva, bedrageri, mangelfull administrasjon, mangelfull dokumentasjon eller forsømmelse.
+(1) Verdipapirforetak skal:
+
+1. ha oppdaterte registre og kontoer som til enhver tid skiller mellom de ulike kundenes aktiva, og mellom kundenes aktiva og foretakets egne aktiva,
+2. sørge for at registre og kontoer er ført på en måte som sikrer at de er nøyaktige og stemmer overens med de finansielle instrumentene og midlene foretaket oppbevarer for kundene, og at de kan anvendes som verifikasjonskjede,
+3. regelmessig avstemme interne registre og kontoer med registre og kontoer hos tredjeparter som oppbevarer aktivaene,
+4. treffe nødvendige tiltak for å sikre at finansielle instrumenter som oppbevares hos en tredjepart, holdes atskilt fra foretakets egne eller tredjepartens finansielle instrumenter, og at dette fremgår av tredjepartens kontoer og registre,
+5. sikre at verdipapirforetakets midler ikke står på klientkonto,
+6. ha egnede organisatoriske ordninger for å begrense risikoen for at kundenes aktiva eller rettigheter knyttet til disse, går tapt eller forringes som følge av misbruk av aktiva, bedrageri, mangelfull administrasjon, mangelfull dokumentasjon eller forsømmelse.
 
 (2) Dersom lovgivning, herunder spesielt lovgivning knyttet til eiendom eller insolvens, medfører at verdipapirforetaket ikke kan oppfylle kravene i første ledd, skal verdipapirforetaket innføre ordninger for å sikre at kundenes aktiva vernes i samsvar med formålene etter første ledd.
 
@@ -756,7 +888,14 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 (5) Dersom verdipapirforetak gir panteretter, motregningsretter eller annen sikkerhet som nevnt i fjerde ledd, eller dersom foretaket er blitt underrettet om at slike rettigheter er gitt, skal rettighetene angis i kundeavtaler og i foretakets egne kontoer, slik at det gjøres klart hvilke eierforhold som gjelder for kundenes aktiva, for eksempel i tilfelle av insolvens.
 
-(6) Verdipapirforetak skal sørge for at følgende opplysninger om kundenes finansielle instrumenter og midler er tilgjengelig for Finanstilsynet, bobestyrer og krisehåndteringsmyndigheter:informasjon om interne kontoer og registre som gjør det enkelt å identifisere saldo for midler og finansielle instrumenter som oppbevares for hver kunde,informasjon om hvor kundenes midler oppbevares etter [§ 9-10](forskrift/2007-06-29-876/§9-10), samt nærmere opplysninger om kontoene der kundenes midler oppbevares og relevante avtaler med slike foretak,informasjon om hvor finansielle instrumenter oppbevares etter [§ 9-9](forskrift/2007-06-29-876/§9-9), samt nærmere opplysninger om kontoer som er åpnet hos tredjeparter og relevante avtaler med slike foretak,nærmere opplysninger om tredjeparter som utfører utkontrakterte oppgaver, og nærmere opplysninger om de utkontrakterte oppgavene,opplysninger om nøkkelpersoner i foretaket som er involvert i de utkontrakterte oppgavene, herunder personer som har ansvar for å overvåke at foretaket overholder kravene til beskyttelse av kundenes aktiva,avtaler som er relevante for å fastslå kundenes eiendomsrett til aktiva.
+(6) Verdipapirforetak skal sørge for at følgende opplysninger om kundenes finansielle instrumenter og midler er tilgjengelig for Finanstilsynet, bobestyrer og krisehåndteringsmyndigheter:
+
+1. informasjon om interne kontoer og registre som gjør det enkelt å identifisere saldo for midler og finansielle instrumenter som oppbevares for hver kunde,
+2. informasjon om hvor kundenes midler oppbevares etter [§ 9-10](forskrift/2007-06-29-876/§9-10), samt nærmere opplysninger om kontoene der kundenes midler oppbevares og relevante avtaler med slike foretak,
+3. informasjon om hvor finansielle instrumenter oppbevares etter [§ 9-9](forskrift/2007-06-29-876/§9-9), samt nærmere opplysninger om kontoer som er åpnet hos tredjeparter og relevante avtaler med slike foretak,
+4. nærmere opplysninger om tredjeparter som utfører utkontrakterte oppgaver, og nærmere opplysninger om de utkontrakterte oppgavene,
+5. opplysninger om nøkkelpersoner i foretaket som er involvert i de utkontrakterte oppgavene, herunder personer som har ansvar for å overvåke at foretaket overholder kravene til beskyttelse av kundenes aktiva,
+6. avtaler som er relevante for å fastslå kundenes eiendomsrett til aktiva.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -766,7 +905,10 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 (2) Ved deponering av kundenes finansielle instrumenter i stater hvor slik deponering er underlagt særlig regulering eller tilsyn, skal verdipapirforetaket påse at instrumentene er deponert hos en tredjepart som er underlagt slik regulering eller tilsyn.
 
-(3) Deponering av kundenes finansielle instrumenter hos en tredjepart i en stat utenfor EØS som ikke har regler om deponering, kan bare foretas dersom:det finansielle instrumentet eller investeringstjenesten forbundet med det finansielle instrumentet forutsetter deponering i vedkommende stat, ellerde finansielle instrumentene oppbevares på vegne av en profesjonell kunde som skriftlig ber om at verdipapirforetaket skal deponere instrumentene i den aktuelle staten.
+(3) Deponering av kundenes finansielle instrumenter hos en tredjepart i en stat utenfor EØS som ikke har regler om deponering, kan bare foretas dersom:
+
+1. det finansielle instrumentet eller investeringstjenesten forbundet med det finansielle instrumentet forutsetter deponering i vedkommende stat, eller
+2. de finansielle instrumentene oppbevares på vegne av en profesjonell kunde som skriftlig ber om at verdipapirforetaket skal deponere instrumentene i den aktuelle staten.
 
 (4) Kravene i annet og tredje ledd gjelder også dersom tredjeparten har utkontraktert funksjoner som gjelder oppbevaring og beskyttelse av finansielle instrumenter til en annen tredjepart.
 
@@ -774,7 +916,12 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 ### § 9-10. Deponering av kunders midler
 
-(1) Verdipapirforetak som mottar kundemidler, skal umiddelbart plassere disse på klientkonto i:sentralbank,kredittinstitusjon med tillatelse etter direktiv [2013/36/EU](eu/32013l0036*),kredittinstitusjon med tillatelse i stat utenfor EØS, ellergodkjent pengemarkedsfond, jf. sjette ledd.
+(1) Verdipapirforetak som mottar kundemidler, skal umiddelbart plassere disse på klientkonto i:
+
+1. sentralbank,
+2. kredittinstitusjon med tillatelse etter direktiv [2013/36/EU](eu/32013l0036*),
+3. kredittinstitusjon med tillatelse i stat utenfor EØS, eller
+4. godkjent pengemarkedsfond, jf. sjette ledd.
 
 (2) Første ledd gjelder ikke kredittinstitusjoner som nevnt i bokstav b i tilknytning til innskudd som oppbevares av kredittinstitusjonen.
 
@@ -784,7 +931,11 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 (5) Dersom verdipapirforetak deponerer kundemidler i en kredittinstitusjon, bank eller pengemarkedsfond i samme konsern som verdipapirforetaket, skal verdipapirforetaket sørge for at midlene foretaket samlet deponerer hos slike konsernforetak ikke overstiger 20 prosent av alle slike midler. Verdipapirforetaket kan unnlate å overholde grensen i første punktum dersom det kan godtgjøre at kravet ikke er forholdsmessig, tatt i betraktning virksomhetens art, størrelse og kompleksitet, den sikkerhet som tilbys av tredjeparter nevnt i første ledd, og i hvilket omfang verdipapirforetaket oppbevarer kundemidler. Verdipapirforetaket skal regelmessig gjennomgå vurderingen i annet punktum og underrette Finanstilsynet om sine opprinnelige og reviderte vurderinger.
 
-(6) Med godkjent pengemarkedsfond menes innretning for kollektiv investering som har tillatelse etter direktiv [2009/65/EF](eu/32009l0065), eller som er underlagt tilsyn og dersom det er relevant har tillatelse etter nasjonal lovgivning i den EØS-staten som gir tillatelsen, og som oppfyller følgende vilkår:dets primære investeringsmål er å bevare nettoverdien av innretningens aktiva enten konstant til pari kurs, eksklusiv avkastning, eller til verdien av investorenes startkapital tillagt avkasting,det skal utelukkende investere i pengemarkedsinstrumenter av høy kvalitet med en løpetid eller gjenværende løpetid på inntil 397 dager, eller med regelmessig rentejustering som stemmer overens med slik løpetid, og med en vektet gjennomsnittlig løpetid på inntil 60 dager. For å oppnå det primære investeringsmålet kan innretningen på tilleggsbasis investere i innskudd i kredittinstitusjoner,innløsning av andeler i innretningen skal gi utbetaling av midler samme dag eller dagen etter at krav om innløsning er fremmet.
+(6) Med godkjent pengemarkedsfond menes innretning for kollektiv investering som har tillatelse etter direktiv [2009/65/EF](eu/32009l0065), eller som er underlagt tilsyn og dersom det er relevant har tillatelse etter nasjonal lovgivning i den EØS-staten som gir tillatelsen, og som oppfyller følgende vilkår:
+
+1. dets primære investeringsmål er å bevare nettoverdien av innretningens aktiva enten konstant til pari kurs, eksklusiv avkastning, eller til verdien av investorenes startkapital tillagt avkasting,
+2. det skal utelukkende investere i pengemarkedsinstrumenter av høy kvalitet med en løpetid eller gjenværende løpetid på inntil 397 dager, eller med regelmessig rentejustering som stemmer overens med slik løpetid, og med en vektet gjennomsnittlig løpetid på inntil 60 dager. For å oppnå det primære investeringsmålet kan innretningen på tilleggsbasis investere i innskudd i kredittinstitusjoner,
+3. innløsning av andeler i innretningen skal gi utbetaling av midler samme dag eller dagen etter at krav om innløsning er fremmet.
 
 (7) Et pengemarkedsinstrument er av høy kvalitet etter sjette ledd når forvaltningsselskapet eller verdipapirforetaket foretar en egen dokumentert vurdering av pengemarkedsinstrumentets kredittkvalitet som gjør det mulig for foretaket å anse pengemarkedsfondet for å være av høy kvalitet. Dersom ett eller flere kredittvurderingsbyråer som er registrert hos og er underlagt tilsyn av Den europeiske verdipapir- og markedstilsynsmyndigheten har kredittvurdert instrumentet, bør det ved forvaltningsselskapets eller verdipapirforetakets interne vurdering tas hensyn til blant annet disse kredittvurderingene.
 
@@ -794,11 +945,18 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 (1) Verdipapirforetak kan ikke inngå avtaler om verdipapirfinansieringstransaksjoner knyttet til finansielle instrumenter foretaket oppbevarer på kundenes vegne, eller på annen måte benytte kundenes finansielle instrumenter for foretakets egen regning eller andre kunders regning, med mindre kunden på forhånd har gitt uttrykkelig samtykke til dette og det er avtalt nærmere vilkår for slik bruk. Forhåndssamtykket skal være skriftlig og bekreftet med kundens underskrift eller tilsvarende. Med verdipapirfinansieringstransaksjoner menes transaksjoner som definert i forordning [(EU) 2015/2365](eu/32015r2365) artikkel 3 nr. 11.
 
-(2) Verdipapirforetak kan ikke inngå avtale om verdipapirfinansieringstransaksjoner knyttet til finansielle instrumenter foretaket oppbevarer på en kundes vegne på samlekonto hos en tredjepart, eller på annen måte for foretakets egen eller andre kunders regning benytte en kundes finansielle instrumenter som oppbevares på slik konto, med mindre minst ett av følgende vilkår er oppfylt i tillegg til vilkårene som følger av første ledd:samtlige kunder som har finansielle instrumenter oppbevart på samlekontoen, har gitt uttrykkelig forhåndssamtykke etter første ledd,verdipapirforetaket har systemer og kontrollrutiner som sikrer at bare finansielle instrumenter tilhørende kunder som har gitt uttrykkelig forhåndssamtykke i samsvar med første ledd, anvendes på denne måten.
+(2) Verdipapirforetak kan ikke inngå avtale om verdipapirfinansieringstransaksjoner knyttet til finansielle instrumenter foretaket oppbevarer på en kundes vegne på samlekonto hos en tredjepart, eller på annen måte for foretakets egen eller andre kunders regning benytte en kundes finansielle instrumenter som oppbevares på slik konto, med mindre minst ett av følgende vilkår er oppfylt i tillegg til vilkårene som følger av første ledd:
+
+1. samtlige kunder som har finansielle instrumenter oppbevart på samlekontoen, har gitt uttrykkelig forhåndssamtykke etter første ledd,
+2. verdipapirforetaket har systemer og kontrollrutiner som sikrer at bare finansielle instrumenter tilhørende kunder som har gitt uttrykkelig forhåndssamtykke i samsvar med første ledd, anvendes på denne måten.
 
 (3) For å sikre at eventuelle tap kan fordeles korrekt, skal verdipapirforetaket registrere opplysninger om kunder som har gitt samtykke etter første ledd, og antall benyttede finansielle instrumenter tilhørende hver av disse kundene.
 
-(4) Verdipapirforetak skal treffe hensiktsmessige tiltak for å hindre ulovlig bruk av en kundes finansielle instrumenter for foretakets egen eller andre kunders regning, for eksempel:inngå avtaler med kunder om tiltak som verdipapirforetaket skal treffe dersom kunden ikke har tilstrekkelig dekning på sin konto på oppgjørsdatoen, for eksempel lån av tilsvarende verdipapirer på kundens vegne eller nedjustering av posisjonen,overvåke foretakets forventede evne til å levere på oppgjørsdatoen og innføre avhjelpende tiltak dersom dette ikke kan gjennomføres,overvåke og umiddelbart be om levering av verdipapirer som er utestående på oppgjørsdatoen og senere.
+(4) Verdipapirforetak skal treffe hensiktsmessige tiltak for å hindre ulovlig bruk av en kundes finansielle instrumenter for foretakets egen eller andre kunders regning, for eksempel:
+
+1. inngå avtaler med kunder om tiltak som verdipapirforetaket skal treffe dersom kunden ikke har tilstrekkelig dekning på sin konto på oppgjørsdatoen, for eksempel lån av tilsvarende verdipapirer på kundens vegne eller nedjustering av posisjonen,
+2. overvåke foretakets forventede evne til å levere på oppgjørsdatoen og innføre avhjelpende tiltak dersom dette ikke kan gjennomføres,
+3. overvåke og umiddelbart be om levering av verdipapirer som er utestående på oppgjørsdatoen og senere.
 
 (5) Verdipapirforetak skal innføre særlige ordninger for å sikre at låntaker av en kundes finansielle instrumenter stiller tilstrekkelig sikkerhet. Verdipapirforetaket skal kontinuerlig overvåke at sikkerheten er hensiktsmessig og treffe nødvendige tiltak for å opprettholde balansen mellom verdien av sikkerheten og verdien av kundens finansielle instrumenter.
 
@@ -808,7 +966,11 @@ Nærmere regler om krav om minst to personer i den faktiske ledelsen følger av 
 
 (1) Verdipapirforetak skal vurdere om bruken av avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett er hensiktsmessig, tatt i betraktning forholdet mellom kundens forpliktelser overfor foretaket og de av kundens aktiva som er omfattet av foretakets avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett. Foretaket skal dokumentere vurderingene som er gjort etter første punktum.
 
-(2) I vurderingen etter første ledd skal foretaket ta hensyn til følgende forhold:om det er begrenset forbindelse mellom kundens forpliktelser overfor foretaket og bruken av avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, herunder om sannsynligheten for en kundes ansvar overfor foretaket er lav eller ubetydelig,om summen av kundemidler eller finansielle instrumenter som omfattes av avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, langt overstiger kundens forpliktelse, herunder om kunden i det hele tatt har en forpliktelse overfor foretaket,om samtlige av kundens finansielle instrumenter eller midler omfattes av en avtale om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, uten hensyn til hvilke forpliktelser den enkelte kunden har overfor foretaket.
+(2) I vurderingen etter første ledd skal foretaket ta hensyn til følgende forhold:
+
+1. om det er begrenset forbindelse mellom kundens forpliktelser overfor foretaket og bruken av avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, herunder om sannsynligheten for en kundes ansvar overfor foretaket er lav eller ubetydelig,
+2. om summen av kundemidler eller finansielle instrumenter som omfattes av avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, langt overstiger kundens forpliktelse, herunder om kunden i det hele tatt har en forpliktelse overfor foretaket,
+3. om samtlige av kundens finansielle instrumenter eller midler omfattes av en avtale om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, uten hensyn til hvilke forpliktelser den enkelte kunden har overfor foretaket.
 
 (3) Når verdipapirforetak bruker avtaler om finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett, skal foretaket understreke risikoene ved og virkningene av en slik avtale for kundens finansielle instrumenter og midler.
 
@@ -880,13 +1042,22 @@ Når et verdipapirforetak samarbeider med et annet foretak om å skape, utvikle,
 
 ### § 9-21. Scenarioanalyse
 
-Verdipapirforetak skal foreta en scenarioanalyse av det finansielle instrumentet som kartlegger risikoen for at produktet gir ugunstige resultater for sluttkundene, og under hvilke omstendigheter slike resultater kan forekomme. Verdipapirforetaket skal vurdere det finansielle instrumentet under negative forhold og undersøke hva som ville skje dersom for eksempel:markedsvilkårene forverres,produsenten eller en tredjepart som er involvert i produksjonen eller funksjonsmåten av det finansielle instrumentet, har økonomiske vanskeligheter, eller en annen motpartsrisiko materialiserer seg,det finansielle instrumentet ikke blir kommersielt realiserbart,etterspørselen etter det finansielle instrumentet er mye større enn forventet og legger press på foretakets ressurser eller på markedet for det underliggende instrumentet.
+Verdipapirforetak skal foreta en scenarioanalyse av det finansielle instrumentet som kartlegger risikoen for at produktet gir ugunstige resultater for sluttkundene, og under hvilke omstendigheter slike resultater kan forekomme. Verdipapirforetaket skal vurdere det finansielle instrumentet under negative forhold og undersøke hva som ville skje dersom for eksempel:
+
+1. markedsvilkårene forverres,
+2. produsenten eller en tredjepart som er involvert i produksjonen eller funksjonsmåten av det finansielle instrumentet, har økonomiske vanskeligheter, eller en annen motpartsrisiko materialiserer seg,
+3. det finansielle instrumentet ikke blir kommersielt realiserbart,
+4. etterspørselen etter det finansielle instrumentet er mye større enn forventet og legger press på foretakets ressurser eller på markedet for det underliggende instrumentet.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
 ### § 9-22. Kostnader
 
-Ved fastsettelsen av gebyrstrukturen for det finansielle instrumentet skal verdipapirforetaket blant annet undersøke:om kostnadene og gebyrene knyttet til det finansielle instrumentet er forenlig med målgruppens behov, mål og egenskaper,om gebyrene underminerer det finansielle instrumentets forventede avkastning,om gebyrstrukturen for det finansielle instrumentet er tilstrekkelig gjennomsiktig for målgruppen, herunder at den ikke tilslører gebyrer eller er for vanskelig å forstå.
+Ved fastsettelsen av gebyrstrukturen for det finansielle instrumentet skal verdipapirforetaket blant annet undersøke:
+
+1. om kostnadene og gebyrene knyttet til det finansielle instrumentet er forenlig med målgruppens behov, mål og egenskaper,
+2. om gebyrene underminerer det finansielle instrumentets forventede avkastning,
+3. om gebyrstrukturen for det finansielle instrumentet er tilstrekkelig gjennomsiktig for målgruppen, herunder at den ikke tilslører gebyrer eller er for vanskelig å forstå.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -906,7 +1077,16 @@ Ved fastsettelsen av gebyrstrukturen for det finansielle instrumentet skal verdi
 
 (3) Verdipapirforetak skal angi hvilke vesentlige hendelser som vil kunne påvirke den mulige risikoen ved, eller den forventede avkastningen av, det finansielle instrumentet. Eksempler på slike hendelser er overskridelse av en terskel som vil påvirke det finansielle instrumentets avkastningsprofil, eller at solvenssituasjonen for visse utstedere med verdipapirer eller sikkerhetsstillelser kan påvirke det finansielle instrumentets resultat.
 
-(4) Når hendelser som nevnt i første ledd inntreffer, skal verdipapirforetaket treffe egnede tiltak. Slike tiltak kan bestå i å:gi alle relevante opplysninger om hendelsen og dens konsekvenser for det finansielle instrumentet til kundene, eller til distributørene av det finansielle instrumentet dersom verdipapirforetaket ikke tilbyr eller selger det finansielle instrumentet direkte til kundene,endre prosessen for produktgodkjenning,stanse ytterligere utstedelse av det finansielle instrumentet,endre det finansielle instrumentet for å unngå urimelige kontraktsvilkår,vurdere om distribusjonskanalene som de finansielle instrumentene selges gjennom, er hensiktsmessige dersom foretaket blir oppmerksom på at det finansielle instrumentet ikke selges som forutsatt,kontakte distributøren for å diskutere endringer i distribusjonsprosessen,avslutte forretningsforholdet til distributøren,underrette Finanstilsynet.
+(4) Når hendelser som nevnt i første ledd inntreffer, skal verdipapirforetaket treffe egnede tiltak. Slike tiltak kan bestå i å:
+
+1. gi alle relevante opplysninger om hendelsen og dens konsekvenser for det finansielle instrumentet til kundene, eller til distributørene av det finansielle instrumentet dersom verdipapirforetaket ikke tilbyr eller selger det finansielle instrumentet direkte til kundene,
+2. endre prosessen for produktgodkjenning,
+3. stanse ytterligere utstedelse av det finansielle instrumentet,
+4. endre det finansielle instrumentet for å unngå urimelige kontraktsvilkår,
+5. vurdere om distribusjonskanalene som de finansielle instrumentene selges gjennom, er hensiktsmessige dersom foretaket blir oppmerksom på at det finansielle instrumentet ikke selges som forutsatt,
+6. kontakte distributøren for å diskutere endringer i distribusjonsprosessen,
+7. avslutte forretningsforholdet til distributøren,
+8. underrette Finanstilsynet.
 
 > Endret ved [forskrifter 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019), [3 jan 2023 nr. 7](forskrift/2023-01-03-7) (i kraft 5 jan 2023).
 
@@ -978,7 +1158,11 @@ Distributøren skal gi produsenten opplysninger om salget og eventuelle evalueri
 
 ### § 9-32. Samarbeid med andre foretak
 
-Dersom flere foretak samarbeider om distribusjonen av et produkt eller en tjeneste, er det verdipapirforetaket med det direkte kundeforholdet som har endelig ansvar for å oppfylle kravene til produkthåndtering i [§ 9-25](forskrift/2007-06-29-876/§9-25) til [§ 9-32](forskrift/2007-06-29-876/§9-32). Verdipapirforetak som opptrer som formidler skal imidlertid:sørge for at relevante opplysninger om produktet sendes fra produsenten til den siste distributøren i kjeden,gjøre det mulig for produsenten å få opplysninger om salg av produktet dersom produsenten krever dette for å oppfylle krav til produkthåndtering rettet mot produsenten,anvende relevante krav til produkthåndtering for produsenter i forbindelse med tjenestene foretaket yter.
+Dersom flere foretak samarbeider om distribusjonen av et produkt eller en tjeneste, er det verdipapirforetaket med det direkte kundeforholdet som har endelig ansvar for å oppfylle kravene til produkthåndtering i [§ 9-25](forskrift/2007-06-29-876/§9-25) til [§ 9-32](forskrift/2007-06-29-876/§9-32). Verdipapirforetak som opptrer som formidler skal imidlertid:
+
+1. sørge for at relevante opplysninger om produktet sendes fra produsenten til den siste distributøren i kjeden,
+2. gjøre det mulig for produsenten å få opplysninger om salg av produktet dersom produsenten krever dette for å oppfylle krav til produkthåndtering rettet mot produsenten,
+3. anvende relevante krav til produkthåndtering for produsenter i forbindelse med tjenestene foretaket yter.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -1074,7 +1258,12 @@ Nærmere regler om suspensjon og strykning av finansielle instrumenter fra hande
 
 ### § 9-40. Medlemmer
 
-Følgende skal være medlem i Verdipapirforetakenes sikringsfond:verdipapirforetak med tillatelse etter [verdipapirhandelloven § 9-1](lov/2007-06-29-75/§9-1) til å yte investeringstjenester og investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 til 9,forvaltningsselskap for verdipapirfond med tillatelse etter [verdipapirfondloven § 2-1](lov/2011-11-25-44/§2-1) annet ledd,forvaltere av alternative investeringsfond med tillatelse etter [lov om forvaltning av alternative investeringsfond § 2-2](lov/2014-06-20-28/§2-2) tredje ledd,kredittinstitusjoner med tillatelse etter finansforetaksloven til å yte investeringstjenester og investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 til 9.
+Følgende skal være medlem i Verdipapirforetakenes sikringsfond:
+
+1. verdipapirforetak med tillatelse etter [verdipapirhandelloven § 9-1](lov/2007-06-29-75/§9-1) til å yte investeringstjenester og investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 til 9,
+2. forvaltningsselskap for verdipapirfond med tillatelse etter [verdipapirfondloven § 2-1](lov/2011-11-25-44/§2-1) annet ledd,
+3. forvaltere av alternative investeringsfond med tillatelse etter [lov om forvaltning av alternative investeringsfond § 2-2](lov/2014-06-20-28/§2-2) tredje ledd,
+4. kredittinstitusjoner med tillatelse etter finansforetaksloven til å yte investeringstjenester og investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 til 9.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -1132,7 +1321,11 @@ Fondets samlede ansvarlige kapital skal minst utgjøre 50 millioner norske krone
 
 (2) Utgifter til nevnte garanti utliknes årlig på medlemmene og beregnes i henhold til metoden og beregningsnøkkelen som er beskrevet i [§ 9-45](forskrift/2007-06-29-876/§9-45) på bakgrunn av medlemmets andel av samlede inntekter fra investeringstjenester og tilknyttede tjenester fra foregående år.
 
-(3) Garanti etter denne bestemmelse kan kun stilles av:foretak som nevnt i [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1) første ledd,tilsvarende foretak som har hovedsete i, er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i annen EØS-stat,tilsvarende foretak som har hovedsete i, er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i stat utenfor EØS, dersom oppgjør under garantien er sikret i samsvar med det som vil gjelde for garanti stillet av foretak som nevnt i bokstav a og b.
+(3) Garanti etter denne bestemmelse kan kun stilles av:
+
+1. foretak som nevnt i [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1) første ledd,
+2. tilsvarende foretak som har hovedsete i, er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i annen EØS-stat,
+3. tilsvarende foretak som har hovedsete i, er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i stat utenfor EØS, dersom oppgjør under garantien er sikret i samsvar med det som vil gjelde for garanti stillet av foretak som nevnt i bokstav a og b.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -1162,7 +1355,13 @@ Fondets samlede ansvarlige kapital skal minst utgjøre 50 millioner norske krone
 
 (3) Fondet dekker ikke krav som stammer fra transaksjoner omfattet av rettskraftig straffedom om hvitvasking av penger.
 
-(4) Krav fra følgende kunder dekkes ikke:finansforetak og verdipapirforetakverdipapirfond og andre foretak for kollektiv forvaltningpensjonsfondselskaper i samme konsern som medlemsinstitusjonenkunder som har ansvar for eller har dratt fordel av forhold som vedrører medlemmet, når slike forhold har forårsaket medlemmets økonomiske vanskeligheter eller bidratt til en forverring av medlemmets økonomiske situasjon.
+(4) Krav fra følgende kunder dekkes ikke:
+
+1. finansforetak og verdipapirforetak
+2. verdipapirfond og andre foretak for kollektiv forvaltning
+3. pensjonsfond
+4. selskaper i samme konsern som medlemsinstitusjonen
+5. kunder som har ansvar for eller har dratt fordel av forhold som vedrører medlemmet, når slike forhold har forårsaket medlemmets økonomiske vanskeligheter eller bidratt til en forverring av medlemmets økonomiske situasjon.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -1258,7 +1457,14 @@ Verdipapirforetak er inntil videre unntatt fra bestemmelsen i [verdipapirhandell
 
 ### § 10-1. Opplysningsplikt overfor livsforsikringsforetak og pensjonsforetak
 
-(1) Verdipapirforetaket skal gi opplysninger til livsforsikringsforetak og pensjonsforetak som nevnt i [verdipapirhandelloven § 10-10 a](lov/2007-06-29-75/§10-10a) som angir følgende:hvordan verdipapirforetakets investeringsstrategi og gjennomføring av den samsvarer med avtalen med livsforsikringsforetaket eller pensjonsforetaket, jf. [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd,hvordan investeringsstrategien bidrar til resultatet av investors investeringer på mellomlang til lang sikt,de vesentligste risikofaktorer på mellomlang til lang sikt, porteføljesammensetning, omsetningshastighet og omsetningskostnader samt eventuell bruk av rådgivende stedfortreder,praksis for utlån av finansielle instrumenter og hvordan utlån er brukt i forbindelse med utøvelsen av aksjeeierskapet,om og i så fall hvordan verdipapirforetaket gjør investeringsbeslutninger basert på vurdering av mellomlange til langsiktige resultater i selskapet det er investert i, oghvordan eventuelle interessekonflikter i forbindelse med utøvelse av aksjeeierskapet er håndtert.
+(1) Verdipapirforetaket skal gi opplysninger til livsforsikringsforetak og pensjonsforetak som nevnt i [verdipapirhandelloven § 10-10 a](lov/2007-06-29-75/§10-10a) som angir følgende:
+
+1. hvordan verdipapirforetakets investeringsstrategi og gjennomføring av den samsvarer med avtalen med livsforsikringsforetaket eller pensjonsforetaket, jf. [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd,
+2. hvordan investeringsstrategien bidrar til resultatet av investors investeringer på mellomlang til lang sikt,
+3. de vesentligste risikofaktorer på mellomlang til lang sikt, porteføljesammensetning, omsetningshastighet og omsetningskostnader samt eventuell bruk av rådgivende stedfortreder,
+4. praksis for utlån av finansielle instrumenter og hvordan utlån er brukt i forbindelse med utøvelsen av aksjeeierskapet,
+5. om og i så fall hvordan verdipapirforetaket gjør investeringsbeslutninger basert på vurdering av mellomlange til langsiktige resultater i selskapet det er investert i, og
+6. hvordan eventuelle interessekonflikter i forbindelse med utøvelse av aksjeeierskapet er håndtert.
 
 (2) Opplysningene kan tas inn i periodisk rapport som nevnt i [verdipapirhandelloven § 10-17](lov/2007-06-29-75/§10-17) annet ledd.
 
@@ -1272,9 +1478,17 @@ Verdipapirforetak er inntil videre unntatt fra bestemmelsen i [verdipapirhandell
 
 ### § 10-1a. Vederlag som ansees egnet til å forbedre kvaliteten på tjenesten til kunden
 
-(1) Vederlag som nevnt i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) skal anses egnet til å forbedre kvaliteten på tjenesten til kunden dersom følgende vilkår er oppfylt:vederlaget er berettiget av at kunden mottar en tilleggstjeneste eller en tjeneste med høyere kvalitet som står i forhold til størrelsen på det mottatte vederlaget,vederlag som gir direkte fordel for det mottakende foretaket, dets aksjeeiere eller dets ansatte, må gi kunden en merkbar fordel, ogvederlaget er berettiget av at det ytes en løpende fordel til vedkommende kunde i tilknytning til et løpende vederlag.
+(1) Vederlag som nevnt i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) skal anses egnet til å forbedre kvaliteten på tjenesten til kunden dersom følgende vilkår er oppfylt:
 
-(2) Tilleggstjenester eller tjenester med høyere kvalitet som nevnt i første ledd bokstav a, kan eksempelvis være følgende ytelser:uavhengig investeringsrådgivning om og tilgang til et bredt utvalg av finansielle instrumenter som egner seg for kunden, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket,ikke-uavhengig investeringsrådgivning i kombinasjon med enten tilbud om å vurdere egnetheten av de finansielle instrumentene kunden har investert i minst årlig, eller annen løpende tjeneste til kunden som må antas å være av verdi for kunden, herunder rådgivning om optimal allokering av kundens aktiva,tilgang til et bredt utvalg av finansielle instrumenter til konkurransedyktig pris som må antas å oppfylle kundens behov, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket, sammen med enten verktøy som gir merverdi for kunden, eller med periodiske rapporter over prestasjoner, kostnader og gebyrer som er tilknyttet det finansielle instrumentet. Verktøy som gir merverdi for kunden kan eksempelvis være objektive informasjonsverktøy som bistår kunden med å ta investeringsbeslutninger, eller som setter kunden i stand til å overvåke, tilpasse og justere utvalget av finansielle instrumenter som kunden har investert i.
+1. vederlaget er berettiget av at kunden mottar en tilleggstjeneste eller en tjeneste med høyere kvalitet som står i forhold til størrelsen på det mottatte vederlaget,
+2. vederlag som gir direkte fordel for det mottakende foretaket, dets aksjeeiere eller dets ansatte, må gi kunden en merkbar fordel, og
+3. vederlaget er berettiget av at det ytes en løpende fordel til vedkommende kunde i tilknytning til et løpende vederlag.
+
+(2) Tilleggstjenester eller tjenester med høyere kvalitet som nevnt i første ledd bokstav a, kan eksempelvis være følgende ytelser:
+
+1. uavhengig investeringsrådgivning om og tilgang til et bredt utvalg av finansielle instrumenter som egner seg for kunden, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket,
+2. ikke-uavhengig investeringsrådgivning i kombinasjon med enten tilbud om å vurdere egnetheten av de finansielle instrumentene kunden har investert i minst årlig, eller annen løpende tjeneste til kunden som må antas å være av verdi for kunden, herunder rådgivning om optimal allokering av kundens aktiva,
+3. tilgang til et bredt utvalg av finansielle instrumenter til konkurransedyktig pris som må antas å oppfylle kundens behov, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket, sammen med enten verktøy som gir merverdi for kunden, eller med periodiske rapporter over prestasjoner, kostnader og gebyrer som er tilknyttet det finansielle instrumentet. Verktøy som gir merverdi for kunden kan eksempelvis være objektive informasjonsverktøy som bistår kunden med å ta investeringsbeslutninger, eller som setter kunden i stand til å overvåke, tilpasse og justere utvalget av finansielle instrumenter som kunden har investert i.
 
 (3) Foretaket kan ikke motta eller yte vederlag dersom tjenesten som ytes til kunden, påvirkes eller forringes som følge av vederlaget.
 
@@ -1284,13 +1498,19 @@ Verdipapirforetak er inntil videre unntatt fra bestemmelsen i [verdipapirhandell
 
 ### § 10-2. Dokumentasjon
 
-Verdipapirforetak skal dokumentere at ethvert vederlag som er ytt eller mottatt av foretaket, er egnet til å forbedre kvaliteten på tjenesten foretaket yter til kunden ved å:føre liste over alle vederlag foretaket mottar fra en tredjepart i forbindelse med at foretaket yter investeringstjenester eller tilknyttede tjenester, ogdokumentere hvordan vederlag som er ytt fra eller mottatt av verdipapirforetaket, eller som foretaket har til hensikt å yte eller motta, forbedrer kvaliteten på tjenesten foretaket yter til kunden, og hvilke tiltak foretaket har truffet for å ivareta sin plikt til å opptre ærlig, redelig og profesjonelt i samsvar med kundens beste interesser.
+Verdipapirforetak skal dokumentere at ethvert vederlag som er ytt eller mottatt av foretaket, er egnet til å forbedre kvaliteten på tjenesten foretaket yter til kunden ved å:
+
+1. føre liste over alle vederlag foretaket mottar fra en tredjepart i forbindelse med at foretaket yter investeringstjenester eller tilknyttede tjenester, og
+2. dokumentere hvordan vederlag som er ytt fra eller mottatt av verdipapirforetaket, eller som foretaket har til hensikt å yte eller motta, forbedrer kvaliteten på tjenesten foretaket yter til kunden, og hvilke tiltak foretaket har truffet for å ivareta sin plikt til å opptre ærlig, redelig og profesjonelt i samsvar med kundens beste interesser.
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
 ### § 10-3. Informasjon til kunden
 
-(1) Verdipapirforetak skal gi følgende informasjon til kunden i forbindelse med ethvert vederlag foretaket mottar fra eller yter til andre enn kunden:Før foretaket yter tjenesten skal det gi informasjon som nevnt i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) tredje ledd. Mindre naturalytelser kan beskrives generisk. Andre naturalytelser skal prises og angis særskilt.Dersom verdien av vederlaget ikke kan fastsettes før foretaket yter tjenesten og foretaket i stedet gir kunden informasjon om beregningsmåten for vederlaget, skal foretaket i etterkant informere kunden om det konkrete beløpet foretaket har mottatt eller ytt.
+(1) Verdipapirforetak skal gi følgende informasjon til kunden i forbindelse med ethvert vederlag foretaket mottar fra eller yter til andre enn kunden:
+
+1. Før foretaket yter tjenesten skal det gi informasjon som nevnt i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) tredje ledd. Mindre naturalytelser kan beskrives generisk. Andre naturalytelser skal prises og angis særskilt.
+2. Dersom verdien av vederlaget ikke kan fastsettes før foretaket yter tjenesten og foretaket i stedet gir kunden informasjon om beregningsmåten for vederlaget, skal foretaket i etterkant informere kunden om det konkrete beløpet foretaket har mottatt eller ytt.
 
 (2) Når foretaket mottar vederlag løpende, skal foretaket minst årlig informere kunden om det faktiske beløpet foretaket har mottatt eller ytt. Mindre naturalytelser kan beskrives på en generisk måte.
 
@@ -1308,7 +1528,13 @@ Verdipapirforetak skal dokumentere at ethvert vederlag som er ytt eller mottatt 
 
 (3) Verdipapirforetak skal informere kunden om pengeytelser som er overført til kunden etter første ledd. Informasjonen kan gis i periodisk rapportering til kunden.
 
-(4) Som mindre naturalytelser i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) fjerde ledd anses kun:informasjon eller dokumentasjon som relaterer seg til et finansielt instrument eller en investeringstjeneste, og som er generisk av natur eller tilpasset den enkelte kundens situasjon,skriftlig materiale fra en tredjepart som er bestilt og betalt av et utstederforetak eller potensielt utstederforetak for å markedsføre en ny utstedelse fra foretaket, eller der tredjeparten er engasjert gjennom kontrakt og betalt av utsteder for å utarbeide slikt materiale løpende, forutsatt at forbindelsen fremgår tydelig av materialet, og at materialet gjøres tilgjengelig for allmennheten eller samtidig for alle verdipapirforetak som ønsker å motta det,deltakelse i konferanser, seminarer og andre informasjonsarrangementer om fordeler og egenskaper ved et bestemt finansielt instrument eller en investeringstjeneste,representasjon av ubetydelig verdi,andre mindre naturalytelser som kan bedre kvaliteten på tjenesten som ytes til en kunde, og som er av et slikt omfang og en slik art at det ikke er sannsynlig at de vil hindre verdipapirforetaket i å oppfylle sin plikt til å opptre i kundens beste interesse.
+(4) Som mindre naturalytelser i [verdipapirhandelloven § 10-12](lov/2007-06-29-75/§10-12) fjerde ledd anses kun:
+
+1. informasjon eller dokumentasjon som relaterer seg til et finansielt instrument eller en investeringstjeneste, og som er generisk av natur eller tilpasset den enkelte kundens situasjon,
+2. skriftlig materiale fra en tredjepart som er bestilt og betalt av et utstederforetak eller potensielt utstederforetak for å markedsføre en ny utstedelse fra foretaket, eller der tredjeparten er engasjert gjennom kontrakt og betalt av utsteder for å utarbeide slikt materiale løpende, forutsatt at forbindelsen fremgår tydelig av materialet, og at materialet gjøres tilgjengelig for allmennheten eller samtidig for alle verdipapirforetak som ønsker å motta det,
+3. deltakelse i konferanser, seminarer og andre informasjonsarrangementer om fordeler og egenskaper ved et bestemt finansielt instrument eller en investeringstjeneste,
+4. representasjon av ubetydelig verdi,
+5. andre mindre naturalytelser som kan bedre kvaliteten på tjenesten som ytes til en kunde, og som er av et slikt omfang og en slik art at det ikke er sannsynlig at de vil hindre verdipapirforetaket i å oppfylle sin plikt til å opptre i kundens beste interesse.
 
 (5) Mindre naturalytelser som nevnt i fjerde ledd, skal være rimelige og forholdsmessige og av et slikt omfang at det ikke er sannsynlig at de vil påvirke verdipapirforetakets atferd på en måte som skader kundens interesser.
 
@@ -1318,7 +1544,15 @@ Verdipapirforetak skal dokumentere at ethvert vederlag som er ytt eller mottatt 
 
 ### § 10-5. Betaling for analyse
 
-(1) Analysetjenester fra en tredjepart skal ikke regnes som vederlag fra andre enn kunden for verdipapirforetak som yter aktiv forvaltning eller andre investeringstjenester eller tilknyttede tjenester til kunder, dersom analysen mottas som motytelse for:direkte utbetalinger fra verdipapirforetaket med dets egne midler, ellerbetaling fra en separat analysebetalingskonto som kontrolleres av verdipapirforetaket, forutsatt at følgende vilkår for driften av kontoen er oppfylt:analysebetalingskontoen er finansiert av et særskilt analysegebyr som pålegges kunden,verdipapirforetaket oppstiller et analysebudsjett som et internt administrativt tiltak i forbindelse med etableringen av analysebetalingskontoen og inngåelse av avtale om analysegebyr med kundene, og vurderer analysebudsjettet regelmessig,verdipapirforetaket er ansvarlig for analysebetalingskontoen,verdipapirforetaket vurderer regelmessig kvaliteten på analysene som kjøpes inn med utgangspunkt i solide kvalitetskriterier og hvordan analysene bidrar til bedre investeringsbeslutninger.
+(1) Analysetjenester fra en tredjepart skal ikke regnes som vederlag fra andre enn kunden for verdipapirforetak som yter aktiv forvaltning eller andre investeringstjenester eller tilknyttede tjenester til kunder, dersom analysen mottas som motytelse for:
+
+1. direkte utbetalinger fra verdipapirforetaket med dets egne midler, eller
+2. betaling fra en separat analysebetalingskonto som kontrolleres av verdipapirforetaket, forutsatt at følgende vilkår for driften av kontoen er oppfylt:
+
+   1. analysebetalingskontoen er finansiert av et særskilt analysegebyr som pålegges kunden,
+   2. verdipapirforetaket oppstiller et analysebudsjett som et internt administrativt tiltak i forbindelse med etableringen av analysebetalingskontoen og inngåelse av avtale om analysegebyr med kundene, og vurderer analysebudsjettet regelmessig,
+   3. verdipapirforetaket er ansvarlig for analysebetalingskontoen,
+   4. verdipapirforetaket vurderer regelmessig kvaliteten på analysene som kjøpes inn med utgangspunkt i solide kvalitetskriterier og hvordan analysene bidrar til bedre investeringsbeslutninger.
 
 (2) Verdipapirforetak som benytter en analysebetalingskonto, skal informere om budsjettert beløp til analyser og estimert analysegebyr for den enkelte kunde før en investeringstjeneste ytes, og skal årlig informere om de samlede kostnadene som har påløpt for den enkelte kunde for analyser fra tredjeparter.
 
@@ -1374,7 +1608,13 @@ Finanstilsynet kan fastsette nærmere forskrifter om kravene som stilles til ans
 
 (1) Tilknyttet agent kan bare tilby tjenester på vegne av verdipapirforetaket fra ett forretningssted. Dette gjelder ikke der den tilknyttede agenten er kredittinstitusjon eller forsikringsforetak.
 
-(2) Avtalen mellom verdipapirforetaket og den tilknyttede agenten skal være skriftlig og regulere følgende forhold:sikre instruksjonsadgang over den tilknyttede agenten med hensyn til utførelsen av all virksomhet som agenten forestår på verdipapirforetakets vegne,sikre at avtalen kan sies opp med umiddelbar virkning dersom pliktene i [verdipapirhandelloven § 10-22](lov/2007-06-29-75/§10-22) annet ledd annet til fjerde punktum ikke oppfylles,avtalen skal kunne sies opp av verdipapirforetaket uten at det er til skade for kontinuiteten og kvaliteten på de tjenester som ytes kundene,sikre at agenten underretter verdipapirforetaket om endringer eller hendelser som merkbart kan påvirke agentens mulighet til å utføre virksomhet på verdipapirforetakets vegne,sikre at verdipapirforetaket, dets revisor og Finanstilsynet har faktisk tilgang på opplysninger knyttet til virksomheten som agenten forestår på verdipapirforetakets vegne og til agentens lokaler.
+(2) Avtalen mellom verdipapirforetaket og den tilknyttede agenten skal være skriftlig og regulere følgende forhold:
+
+1. sikre instruksjonsadgang over den tilknyttede agenten med hensyn til utførelsen av all virksomhet som agenten forestår på verdipapirforetakets vegne,
+2. sikre at avtalen kan sies opp med umiddelbar virkning dersom pliktene i [verdipapirhandelloven § 10-22](lov/2007-06-29-75/§10-22) annet ledd annet til fjerde punktum ikke oppfylles,
+3. avtalen skal kunne sies opp av verdipapirforetaket uten at det er til skade for kontinuiteten og kvaliteten på de tjenester som ytes kundene,
+4. sikre at agenten underretter verdipapirforetaket om endringer eller hendelser som merkbart kan påvirke agentens mulighet til å utføre virksomhet på verdipapirforetakets vegne,
+5. sikre at verdipapirforetaket, dets revisor og Finanstilsynet har faktisk tilgang på opplysninger knyttet til virksomheten som agenten forestår på verdipapirforetakets vegne og til agentens lokaler.
 
 > Endret ved [forskrifter 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019), [6 april 2020 nr. 693](forskrift/2020-04-06-693).
 
@@ -1450,7 +1690,11 @@ Taushetsplikten for tillitsvalgte, ansatte og revisor i en markedsoperatør ette
 
 ### § 11-2. Vilkår for utlevering av opplysninger
 
-Utlevering av opplysninger etter [§ 11-1](forskrift/2007-06-29-876/§11-1) kan bare gjøres på følgende vilkår:opplysningene må anses som relevante for, og kan bare brukes til å utføre mottakerens tilsynsoppgaver,opplysningene skal være undergitt tilsvarende taushetsplikt hos mottaker som hos den avgivende markedsoperatøren,opplysningene kan bare formidles videre fra mottaker med skriftlig samtykke fra den avgivende markedsoperatøren, og bare for de formål samtykket omfatter.
+Utlevering av opplysninger etter [§ 11-1](forskrift/2007-06-29-876/§11-1) kan bare gjøres på følgende vilkår:
+
+1. opplysningene må anses som relevante for, og kan bare brukes til å utføre mottakerens tilsynsoppgaver,
+2. opplysningene skal være undergitt tilsvarende taushetsplikt hos mottaker som hos den avgivende markedsoperatøren,
+3. opplysningene kan bare formidles videre fra mottaker med skriftlig samtykke fra den avgivende markedsoperatøren, og bare for de formål samtykket omfatter.
 
 > Tilføyd ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019).
 
@@ -1964,7 +2208,11 @@ Med mindre det kan godtgjøres at det er nødvendig for at det regulerte markede
 
 ### § 17-3. Finansiell rapportering
 
-Forskriften gjelder for finansiell rapportering i form av:årsregnskap og årsberetningdelårsregnskapproforma tall og tilsvarende oppstillinger med tilleggsopplysninger i prospekter godkjent av prospektmyndigheten eller registrert i Foretaksregisteret etter [verdipapirhandelloven kapittel 7](lov/2007-06-29-75/kap7).
+Forskriften gjelder for finansiell rapportering i form av:
+
+1. årsregnskap og årsberetning
+2. delårsregnskap
+3. proforma tall og tilsvarende oppstillinger med tilleggsopplysninger i prospekter godkjent av prospektmyndigheten eller registrert i Foretaksregisteret etter [verdipapirhandelloven kapittel 7](lov/2007-06-29-75/kap7).
 
 > Endret ved [forskrift 16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019, tidligere § 13-3).
 
@@ -2000,13 +2248,23 @@ Melding som nevnt i [verdipapirhandelloven § 19-2](lov/2007-06-29-75/§19-2) sy
 
 ### § 17-8. Tiltak for å sikre korrekt finansiell rapportering mv.
 
-Hvis den finansielle rapporteringen i dokumenter ikke er i samsvar med lov eller forskrift, kan Finanstilsynet pålegge utstederforetak å:endre sin fremtidige finansielle rapporteringkorrigere feil i neste rapportering, herunder gi noteopplysning om forholdet, oggi offentlig tilleggsinformasjon ved melding til børsen eller på annen måte.
+Hvis den finansielle rapporteringen i dokumenter ikke er i samsvar med lov eller forskrift, kan Finanstilsynet pålegge utstederforetak å:
+
+1. endre sin fremtidige finansielle rapportering
+2. korrigere feil i neste rapportering, herunder gi noteopplysning om forholdet, og
+3. gi offentlig tilleggsinformasjon ved melding til børsen eller på annen måte.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019, tidligere § 13-8), [1 nov 2024 nr. 2616](forskrift/2024-11-01-2616).
 
 ### § 17-9. Avleggelse av nytt årsregnskap og ny årsberetning
 
-Hvis den finansielle rapporteringen i:årsregnskap og/eller årsberetning,halvårsregnskap og/eller halvårsberetning, og/ellerkvartalsrapport,avviker vesentlig fra det som følger av lov eller forskrift, kan Finanstilsynet pålegge utstederforetak å avlegge nye rapporter som nevnt i a) til c) innen en fastsatt frist.
+Hvis den finansielle rapporteringen i:
+
+1. årsregnskap og/eller årsberetning,
+2. halvårsregnskap og/eller halvårsberetning, og/eller
+3. kvartalsrapport,
+
+avviker vesentlig fra det som følger av lov eller forskrift, kan Finanstilsynet pålegge utstederforetak å avlegge nye rapporter som nevnt i a) til c) innen en fastsatt frist.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [1 juli 2010 nr. 1057](forskrift/2010-07-01-1057), [16 nov 2018 nr. 1736](forskrift/2018-11-16-1736) (i kraft 1 jan 2019, tidligere § 13-9).
 
@@ -2072,8 +2330,33 @@ Verdipapirforetak med tillatelse til å yte investeringstjenester etter [verdipa
 
 (1) Denne forskriftens [kapittel 1](forskrift/2007-06-29-876/kap1), 2, 3, 7, 9, 10, 14, [§ 15-1](forskrift/2007-06-29-876/§15-1), [kapittel 16](forskrift/2007-06-29-876/kap16) og [17](forskrift/2007-06-29-876/kap17) trer i kraft 1. november 2007. Forskriftens [kapittel 4](forskrift/2007-06-29-876/kap4), 5, 6, [§ 13-1](forskrift/2007-06-29-876/§13-1), [§ 13-2](forskrift/2007-06-29-876/§13-2), [§ 13-3](forskrift/2007-06-29-876/§13-3), [§ 13-4](forskrift/2007-06-29-876/§13-4), [§ 13-5](forskrift/2007-06-29-876/§13-5), [§ 13-6](forskrift/2007-06-29-876/§13-6), [§ 13-7](forskrift/2007-06-29-876/§13-7), [§ 13-8](forskrift/2007-06-29-876/§13-8), [§ 13-9](forskrift/2007-06-29-876/§13-9) og [§ 13-10](forskrift/2007-06-29-876/§13-10) trer i kraft 1. januar 2008, likevel slik at [§ 5-2](forskrift/2007-06-29-876/§5-2) til [§ 5-8](forskrift/2007-06-29-876/§5-8) og [§ 5-11](forskrift/2007-06-29-876/§5-11) gis med virkning for regnskapsperioder som er påbegynt 1. januar 2008 eller senere. Forskriften [§ 13-11](forskrift/2007-06-29-876/§13-11) til [§ 13-14](forskrift/2007-06-29-876/§13-14) trer i kraft fra den tid departementet bestemmer.
 
-(2) Fra 1. november 2007 oppheves følgende forskrifter:[Forskrift 26. september 1996 nr. 948](forskrift/1996-09-26-948) om verdipapirforetaks handel for egen regning som ledd i foretakets alminnelige kapitalforvaltning, herunder om melding av slik handel[Forskrift 26. september 1996 nr. 950](forskrift/1996-09-26-950) om verdipapirforetaks plikt til å føre oppgaver over mottatte og utførte oppdrag[Forskrift 14. oktober 1996 nr. 985](forskrift/1996-10-14-985) om startkapital for verdipapirforetak[Forskrift 18. mars 1997 nr. 1053](forskrift/1997-03-18-1053) om kvartalsoppgave for verdipapirforetak[Forskrift 7. november 1997 nr. 1149](forskrift/1997-11-07-1149) om ikrafttredelse og overgangsbestemmelser til [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel[Forskrift 18. desember 2002 nr. 1685](forskrift/2002-12-18-1685) om krav til utstedelse ved verdipapirforetaks handel med børsnoterte kjøpsretter og salgsretter uten medvirkning av oppgjørssentral[Forskrift 7. mars 2003 nr. 289](forskrift/2003-03-07-289) om verdipapirforetaks bruk av oppdragstakere (utkontraktering)[Forskrift 9. juli 2003 nr. 954](forskrift/2003-07-09-954) om verdipapirforetakenes plikt til å gi melding om selskapets aksjeeiere[Forskrift 7. november 2003 nr. 1322](forskrift/2003-11-07-1322) om verdipapirforetaks plikt til å foreta lydopptak av mottatte oppdrag og til oppbevaring av dokumentasjon vedrørende ordremottak[Forskrift 1. juli 2005 nr. 783](forskrift/2005-07-01-783) om utarbeidelse og formidling av investeringsanbefalinger mv.[Forskrift 1. juli 2005 nr. 785](forskrift/2005-07-01-785) om markedsmisbruk og rapportering av mistenkelige transaksjoner[Forskrift 9. desember 2005 nr. 1422](forskrift/2005-12-09-1422) om opplysninger i prospekter[Forskrift 9. desember 2005 nr. 1423](forskrift/2005-12-09-1423) om gjennomføring av prospektkontrollen[Forskrift 9. desember 2005 nr. 1424](forskrift/2005-12-09-1424) om unntak fra prospektplikt[Forskrift 9. desember 2005 nr. 1425](forskrift/2005-12-09-1425) om overgangsregler i forbindelse med endringer i prospektregler i [verdipapirhandelloven kapittel 5](lov/2007-06-29-75/kap5)[Forskrift 22. desember 2005 nr. 1672](forskrift/2005-12-22-1672) om Verdipapirforetakenes sikringsfond[Forskrift 20. desember 2006 nr. 1561](forskrift/2006-12-20-1561) om autoriserte markedsplasser for omsettelige verdipapirer[Forskrift 8. juni 2007 nr. 602](forskrift/2007-06-08-602) om grunnprospekter.Fra samme dato oppheves [vedtak 6. desember 2006 nr. 1679](forskrift/2006-12-06-1679) om delegering av myndighet til Kredittilsynet etter lov om verdipapirhandel § 8-12 tredje ledd.
+(2) Fra 1. november 2007 oppheves følgende forskrifter:
 
-(3) Fra 1. januar 2008 oppheves følgende forskrifter:[Forskrift 15. desember 1997 nr. 1307](forskrift/1997-12-15-1307) om krav til garanti ved fremsettelse av pliktig tilbud[Forskrift 18. desember 2002 nr. 1613](forskrift/2002-12-18-1613) om verdipapirforetaks unntak fra plikten til å flagge større aksjeposter[Forskrift 13. oktober 2005 nr. 1198](forskrift/2005-10-13-1198) om kontroll med børsnoterte utstederforetaks finansielle rapportering.
+- [Forskrift 26. september 1996 nr. 948](forskrift/1996-09-26-948) om verdipapirforetaks handel for egen regning som ledd i foretakets alminnelige kapitalforvaltning, herunder om melding av slik handel
+- [Forskrift 26. september 1996 nr. 950](forskrift/1996-09-26-950) om verdipapirforetaks plikt til å føre oppgaver over mottatte og utførte oppdrag
+- [Forskrift 14. oktober 1996 nr. 985](forskrift/1996-10-14-985) om startkapital for verdipapirforetak
+- [Forskrift 18. mars 1997 nr. 1053](forskrift/1997-03-18-1053) om kvartalsoppgave for verdipapirforetak
+- [Forskrift 7. november 1997 nr. 1149](forskrift/1997-11-07-1149) om ikrafttredelse og overgangsbestemmelser til [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel
+- [Forskrift 18. desember 2002 nr. 1685](forskrift/2002-12-18-1685) om krav til utstedelse ved verdipapirforetaks handel med børsnoterte kjøpsretter og salgsretter uten medvirkning av oppgjørssentral
+- [Forskrift 7. mars 2003 nr. 289](forskrift/2003-03-07-289) om verdipapirforetaks bruk av oppdragstakere (utkontraktering)
+- [Forskrift 9. juli 2003 nr. 954](forskrift/2003-07-09-954) om verdipapirforetakenes plikt til å gi melding om selskapets aksjeeiere
+- [Forskrift 7. november 2003 nr. 1322](forskrift/2003-11-07-1322) om verdipapirforetaks plikt til å foreta lydopptak av mottatte oppdrag og til oppbevaring av dokumentasjon vedrørende ordremottak
+- [Forskrift 1. juli 2005 nr. 783](forskrift/2005-07-01-783) om utarbeidelse og formidling av investeringsanbefalinger mv.
+- [Forskrift 1. juli 2005 nr. 785](forskrift/2005-07-01-785) om markedsmisbruk og rapportering av mistenkelige transaksjoner
+- [Forskrift 9. desember 2005 nr. 1422](forskrift/2005-12-09-1422) om opplysninger i prospekter
+- [Forskrift 9. desember 2005 nr. 1423](forskrift/2005-12-09-1423) om gjennomføring av prospektkontrollen
+- [Forskrift 9. desember 2005 nr. 1424](forskrift/2005-12-09-1424) om unntak fra prospektplikt
+- [Forskrift 9. desember 2005 nr. 1425](forskrift/2005-12-09-1425) om overgangsregler i forbindelse med endringer i prospektregler i [verdipapirhandelloven kapittel 5](lov/2007-06-29-75/kap5)
+- [Forskrift 22. desember 2005 nr. 1672](forskrift/2005-12-22-1672) om Verdipapirforetakenes sikringsfond
+- [Forskrift 20. desember 2006 nr. 1561](forskrift/2006-12-20-1561) om autoriserte markedsplasser for omsettelige verdipapirer
+- [Forskrift 8. juni 2007 nr. 602](forskrift/2007-06-08-602) om grunnprospekter.
+
+Fra samme dato oppheves [vedtak 6. desember 2006 nr. 1679](forskrift/2006-12-06-1679) om delegering av myndighet til Kredittilsynet etter lov om verdipapirhandel § 8-12 tredje ledd.
+
+(3) Fra 1. januar 2008 oppheves følgende forskrifter:
+
+- [Forskrift 15. desember 1997 nr. 1307](forskrift/1997-12-15-1307) om krav til garanti ved fremsettelse av pliktig tilbud
+- [Forskrift 18. desember 2002 nr. 1613](forskrift/2002-12-18-1613) om verdipapirforetaks unntak fra plikten til å flagge større aksjeposter
+- [Forskrift 13. oktober 2005 nr. 1198](forskrift/2005-10-13-1198) om kontroll med børsnoterte utstederforetaks finansielle rapportering.
 
 > Endret ved [forskrifter 21 des 2007 nr. 1778](forskrift/2007-12-21-1778), [28 nov 2018 nr. 1779](forskrift/2018-11-28-1779) (i kraft 1 jan 2019, tidligere § 16-1).

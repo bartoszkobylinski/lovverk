@@ -34,7 +34,15 @@ Erstatning ytes ved fysisk skade forårsaket av undersøkelse, diagnostikk, beha
 
 ## § 3. Begrensninger i ansvaret
 
-Erstatning gis likevel ikkenår skaden er en følge av en risiko ved undersøkelse, diagnostikk eller behandling som er kjent og som ut fra den medisinske kunnskap på skadetidspunktet må aksepteres,når skaden i det vesentlige skyldes pasientens grunnsykdom,nå skaden er en følge av særlige forhold ved pasienten selv,når skaden skyldes behandling, og den behandlingsmåte som ble brukt ut fra etterfølgende vurdering fremstår som adekvat,når skaden skyldes diagnose, og den diagnose som ble stilt var adekvat ut fra den viten man på det aktuelle tidspunkt hadde tilgjengelig,når skaden skyldes infeksjon i områder med særlig høy bakteriekonsentrasjon eller hos pasienter med nedsatt motstandskraft ellernår skaden er voldt av legemiddel.
+Erstatning gis likevel ikke
+
+1. når skaden er en følge av en risiko ved undersøkelse, diagnostikk eller behandling som er kjent og som ut fra den medisinske kunnskap på skadetidspunktet må aksepteres,
+2. når skaden i det vesentlige skyldes pasientens grunnsykdom,
+3. nå skaden er en følge av særlige forhold ved pasienten selv,
+4. når skaden skyldes behandling, og den behandlingsmåte som ble brukt ut fra etterfølgende vurdering fremstår som adekvat,
+5. når skaden skyldes diagnose, og den diagnose som ble stilt var adekvat ut fra den viten man på det aktuelle tidspunkt hadde tilgjengelig,
+6. når skaden skyldes infeksjon i områder med særlig høy bakteriekonsentrasjon eller hos pasienter med nedsatt motstandskraft eller
+7. når skaden er voldt av legemiddel.
 
 ## § 4. Erstatningsutmåling, medvirkning, regress m.v.
 

@@ -28,11 +28,19 @@ Formålet med denne forskriften er å gi forflytningshemmede med et reelt behov 
 
 ## § 2. Vilkår for parkering
 
-Parkeringstillatelse for forflytningshemmede gir, i samband med transport av den som har fått tillatelsen, adgang til å parkere motorvogn i hele landet:på parkeringsplass reservert for forflytningshemmede angitt ved offentlig trafikkskilt,på avgiftsbelagt kommunal parkeringsplass uten at avgift betales,på parkeringsplass med skiltet tidsbegrensning fra 30 minutter og oppover med inntil dobbel tid, med unntak av skiltet tidsbegrensning på særskilt avsatt plass for forflytningshemmede med parkeringstillatelse ogpå steder der det er innført boligsoneparkering.
+Parkeringstillatelse for forflytningshemmede gir, i samband med transport av den som har fått tillatelsen, adgang til å parkere motorvogn i hele landet:
+
+1. på parkeringsplass reservert for forflytningshemmede angitt ved offentlig trafikkskilt,
+2. på avgiftsbelagt kommunal parkeringsplass uten at avgift betales,
+3. på parkeringsplass med skiltet tidsbegrensning fra 30 minutter og oppover med inntil dobbel tid, med unntak av skiltet tidsbegrensning på særskilt avsatt plass for forflytningshemmede med parkeringstillatelse og
+4. på steder der det er innført boligsoneparkering.
 
 ## § 3. Vilkår for parkeringstillatelse
 
-Bostedskommunen gir etter søknad parkeringstillatelse for forflytningshemmede til:fører av motorvogn som har særlig behov for parkeringslettelser i samband med bosted, arbeid og/eller annen aktivitet fordi vedkommende ikke kan gå eller har store vansker med å bevege seg over noen lengde,passasjer som regelmessig trenger hjelp av fører utenfor motorvognen og som har særlig behov for parkeringslettelser i samband med bosted, arbeid og/eller annen aktivitet fordi vedkommende ikke kan gå eller har store vansker med å bevege seg over noen lengde.
+Bostedskommunen gir etter søknad parkeringstillatelse for forflytningshemmede til:
+
+1. fører av motorvogn som har særlig behov for parkeringslettelser i samband med bosted, arbeid og/eller annen aktivitet fordi vedkommende ikke kan gå eller har store vansker med å bevege seg over noen lengde,
+2. passasjer som regelmessig trenger hjelp av fører utenfor motorvognen og som har særlig behov for parkeringslettelser i samband med bosted, arbeid og/eller annen aktivitet fordi vedkommende ikke kan gå eller har store vansker med å bevege seg over noen lengde.
 
 Søknad om parkeringstillatelse skal vedlegges legeattest. Kommunen kan innhente supplerende medisinsk vurdering.
 
@@ -42,7 +50,10 @@ Parkeringsbehov etter første ledd i annen kommune enn bostedskommunen kan bare 
 
 ## § 4. Parkeringsbevis
 
-Bevis for parkeringstillatelse skal med følgende tilpasninger etter 1. januar 2000 tilfredsstille kravene som er fastsatt i bilaget til Rrek. [1998/376/EF](eu/31998x0376*):Bevisets serienummer skal inneholde 11 sifre og to bokstaver. Serienummerets første fire sifre skal identifisere kommunen som har utstedt kortet, de fem neste sifre er kortets nummer og de to siste sifre skal angi fødselsåret til innehaveren av kortet. Første bokstaven skal angi innehaverens kjønn ved hjelp av M for mann eller F for kvinne. Andre bokstaven skal angi bokstaven F (for fører) eller bokstaven P (for passasjer). Det skal være mellomrom mellom første og andre bokstav.Hvit N som bakgrunn skal omgis av hvit ellipse og beviset skal betegnes som EØS-modell. Beviset skal bestå av vannmerket, ikke-fluoriserende papir. På framsiden av beviset skal plasten ha et tydelig relieffmønster som dekker minst halve framsiden. På bevisets framside skal det være et hologram med minst to vekslende tydelig atskilte bilder. På bevisets bakside skal det være et for øyet usynlig trykk som fluoriserer ved belysning. Beviset kan ha strekkode, chip eller annen merking for maskinell kontroll som ikke vesentlig endrer bevisets utseende.
+Bevis for parkeringstillatelse skal med følgende tilpasninger etter 1. januar 2000 tilfredsstille kravene som er fastsatt i bilaget til Rrek. [1998/376/EF](eu/31998x0376*):
+
+- Bevisets serienummer skal inneholde 11 sifre og to bokstaver. Serienummerets første fire sifre skal identifisere kommunen som har utstedt kortet, de fem neste sifre er kortets nummer og de to siste sifre skal angi fødselsåret til innehaveren av kortet. Første bokstaven skal angi innehaverens kjønn ved hjelp av M for mann eller F for kvinne. Andre bokstaven skal angi bokstaven F (for fører) eller bokstaven P (for passasjer). Det skal være mellomrom mellom første og andre bokstav.
+- Hvit N som bakgrunn skal omgis av hvit ellipse og beviset skal betegnes som EØS-modell. Beviset skal bestå av vannmerket, ikke-fluoriserende papir. På framsiden av beviset skal plasten ha et tydelig relieffmønster som dekker minst halve framsiden. På bevisets framside skal det være et hologram med minst to vekslende tydelig atskilte bilder. På bevisets bakside skal det være et for øyet usynlig trykk som fluoriserer ved belysning. Beviset kan ha strekkode, chip eller annen merking for maskinell kontroll som ikke vesentlig endrer bevisets utseende.
 
 Tillatelsen skal gis av kommunen for begrenset tid, maksimalt 5 år, men ikke for mindre enn 2 år. Ved periodiske behov kan det likevel gis tillatelse for kortere tid.
 
@@ -56,7 +67,15 @@ Det kan utstedes parkeringstillatelse til spesialinnredet motorvogn for transpor
 
 Beviset skal ha en lengde på 106 mm og en bredde på 148 mm.
 
-Bevis for parkeringstillatelse skal på forsiden inneholde følgende:det internasjonale symbolet for forflytningshemmede,parkeringstillatelse for institusjon med forflytningshemmede,serienummer med 7 sifre. Serienummerets første fire sifre skal identifisere kommunen som har utstedt kortet, de tre neste sifre er kortets nummer,navn på institusjon som er tildelt parkeringstillatelsen,bilens kjennemerke,utløpsdato for parkeringstillatelsen ogkommunens navn, dato for utstedelse og kommunens stempel.
+Bevis for parkeringstillatelse skal på forsiden inneholde følgende:
+
+1. det internasjonale symbolet for forflytningshemmede,
+2. parkeringstillatelse for institusjon med forflytningshemmede,
+3. serienummer med 7 sifre. Serienummerets første fire sifre skal identifisere kommunen som har utstedt kortet, de tre neste sifre er kortets nummer,
+4. navn på institusjon som er tildelt parkeringstillatelsen,
+5. bilens kjennemerke,
+6. utløpsdato for parkeringstillatelsen og
+7. kommunens navn, dato for utstedelse og kommunens stempel.
 
 Bevis for parkeringstillatelse skal på baksiden inneholde følgende tekst: Parkeringstillatelsen gir adgang til å parkere i samsvar med bestemmelsene i forskrift om parkeringstillatelse for forflytningshemmede
 
@@ -66,7 +85,15 @@ Parkeringsbeviset skal ved parkering plasseres med forsiden godt synlig bak fron
 
 ## § 6. Register over tillatelser
 
-Det skal opprettes et sentralt register over alle tillatelser etter [§ 4](forskrift/2016-03-18-264/§4) og [§ 5](forskrift/2016-03-18-264/§5). Registeret skal inneholde følgende informasjon:innehaverens personnummer,innehaverens navn,innehaverens foto,tillatelsens nummer, med kommunekode, løpenummer, fødselsår og kjønn,tillatelsens gyldighetstid,om tillatelsen er stjålet eller mistet ogom tillatelsen er gitt til fører eller passasjer.
+Det skal opprettes et sentralt register over alle tillatelser etter [§ 4](forskrift/2016-03-18-264/§4) og [§ 5](forskrift/2016-03-18-264/§5). Registeret skal inneholde følgende informasjon:
+
+1. innehaverens personnummer,
+2. innehaverens navn,
+3. innehaverens foto,
+4. tillatelsens nummer, med kommunekode, løpenummer, fødselsår og kjønn,
+5. tillatelsens gyldighetstid,
+6. om tillatelsen er stjålet eller mistet og
+7. om tillatelsen er gitt til fører eller passasjer.
 
 Vegdirektoratet er ansvarlig for å opprette registeret innen 1. januar 2018. Den enkelte kommune er ansvarlig for å legge inn informasjon i registeret.
 

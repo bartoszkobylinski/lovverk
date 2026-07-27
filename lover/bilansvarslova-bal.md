@@ -15,7 +15,7 @@ xml_hash: "f128f8ed06889ceda50a10dc8ea7f2b369a728457e95dac2b46998900b3f0b80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0103"
@@ -31,7 +31,12 @@ Denne lova gjeld skadebot for skade som motorvogner gjer på folk eller eige og 
 
 ### § 2. (skade som ikkje går inn under lova)
 
-Ein skade går ikkje inn under lova i tilfelle då skadenkjem av at motorvogna vert nytta til anna enn køyredoning, ellerer gjord medan vogna er forsvarleg fråsegsett utanfor gate, veg eller annan stad der ålmenta kan ferdast, ellerer gjord medan vogna er med i organisert trenings- eller konkurransekøyring på lukka bane eller anna avsperra område, og det er teikna forsikring i samsvar med reglane som gjeld for slik køyring, ellerer atomskade som går inn under [lov om atomenergivirksomhet, kapittel III](lov/1972-05-12-28/kapiii) om erstatning og forsikring.
+Ein skade går ikkje inn under lova i tilfelle då skaden
+
+1. kjem av at motorvogna vert nytta til anna enn køyredoning, eller
+2. er gjord medan vogna er forsvarleg fråsegsett utanfor gate, veg eller annan stad der ålmenta kan ferdast, eller
+3. er gjord medan vogna er med i organisert trenings- eller konkurransekøyring på lukka bane eller anna avsperra område, og det er teikna forsikring i samsvar med reglane som gjeld for slik køyring, eller
+4. er atomskade som går inn under [lov om atomenergivirksomhet, kapittel III](lov/1972-05-12-28/kapiii) om erstatning og forsikring.
 
 > Endra med lover [12 mai 1972 nr. 28](lov/1972-05-12-28), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
@@ -81,7 +86,10 @@ Gjer ei motorvogn skade medan ho står still og skaden ikkje vert gjord medan vo
 
 Skadelidaren kan ikkje få skadebot utan at særlege grunnar er for det, dersom han av fri vilje køyrde eller let seg køyre i den vogna som gjorde skaden endå han visste1 at vogna var fråvend rette innehavaren med brotsverk.
 
-Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få skadebot utan at særlege grunnar er for det dersom han visste eller måtte vita atvogna vart nytta i samband med eit brotsverk, ellerhan var påverka av alkohol eller andre rusande eller døyvande råder. Særregelen her gjeld likevel ikkje i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Hadde vognføraren større alkoholkonsentrasjon i blodet enn 0,5 promille eller ei alkoholmengd i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller større alkoholkonsentrasjon i utandingslufta enn 0,25 milligram per liter luft, vert han i alle tilfelle rekna for påverka av alkohol i høve til regelen her.
+Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få skadebot utan at særlege grunnar er for det dersom han visste eller måtte vita at
+
+1. vogna vart nytta i samband med eit brotsverk, eller
+2. han var påverka av alkohol eller andre rusande eller døyvande råder. Særregelen her gjeld likevel ikkje i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Hadde vognføraren større alkoholkonsentrasjon i blodet enn 0,5 promille eller ei alkoholmengd i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller større alkoholkonsentrasjon i utandingslufta enn 0,25 milligram per liter luft, vert han i alle tilfelle rekna for påverka av alkohol i høve til regelen her.
 
 > Endra med lover [21 juni 1985 nr. 81](lov/1985-06-21-81), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)).
 
@@ -89,7 +97,11 @@ Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få ska
 
 ### § 8. (samanstøyt og anna).
 
-Skade som ei motorvogn gjer på ei anna motorvogn eller ei skjenegangsvogn eller på folk eller gods i slike vogner, går inn under trafikktrygdinga åt vogna berre når skaden kjem avat eigaren, brukaren eller køyraren eller nokon annan som var med i vogna, ikkje bar seg forsvarleg åt, ellerat vogna ikkje var i orden eller svikta, ellerat vogna elles vart køyrd, fråsegsett eller handsama slik at ho kom i strid med gjeldande trafikkreglar.
+Skade som ei motorvogn gjer på ei anna motorvogn eller ei skjenegangsvogn eller på folk eller gods i slike vogner, går inn under trafikktrygdinga åt vogna berre når skaden kjem av
+
+1. at eigaren, brukaren eller køyraren eller nokon annan som var med i vogna, ikkje bar seg forsvarleg åt, eller
+2. at vogna ikkje var i orden eller svikta, eller
+3. at vogna elles vart køyrd, fråsegsett eller handsama slik at ho kom i strid med gjeldande trafikkreglar.
 
 Var det på skadelidar-sida òg, slike omstende som er nemnde i fyrste leden, avgjer retten om det skal svarast skadebot etter fyrste leden og då kor stor summen skal vera. Avgjerda skal retta seg etter åtferda på kvar side og tilhøva elles.
 
@@ -105,7 +117,9 @@ Attåt skadebot som nemnd i paragrafen her, skal det svarast rente etter § 6 og
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [17 des 1976 nr. 100](lov/1976-12-17-100), [21 juni 1985 nr. 81](lov/1985-06-21-81), [8 juni 2007 nr. 19](lov/2007-06-08-19) (ikr. 11 juni 2007, men sjå endringslovas [del II](lov/2007-06-08-19/kapii)), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
-1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 9).2 Etter [lov 8 juni 2007 nr. 19](lov/2007-06-08-19), II, gjeld dette beløpet frå 1 jan 2008. Frå 11 juni 2007 til og med 31 des 2007 var beløpet 2.000.000 kroner.
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 9).
+
+2 Etter [lov 8 juni 2007 nr. 19](lov/2007-06-08-19), II, gjeld dette beløpet frå 1 jan 2008. Frå 11 juni 2007 til og med 31 des 2007 var beløpet 2.000.000 kroner.
 
 ### § 10. (motorvogn som ikkje er trygda eller ikkje kjend)
 
@@ -115,7 +129,9 @@ Har ei motorvogn gjort skade på folk, fast eigedom eller dyr, men ingen veit å
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [26 mars 1999 nr. 16](lov/1999-03-26-16), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)), [8 juni 2007 nr. 19](lov/2007-06-08-19) (ikr. 11 juni 2007), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
-1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 10).2 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7 (direktiv [2009/138](eu/32009l0138*)).
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 10).
+
+2 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7 (direktiv [2009/138](eu/32009l0138*)).
 
 ### § 10 a. (skadebot ved insolvens m.m.)
 
@@ -135,7 +151,11 @@ Trafikktrygdaren (eller den som er ansvarleg etter [§ 16](lov/1961-02-03/§16))
 
 ### § 12. (attsøkjingsrett for trygdaren)
 
-Den summen som ein trygdar lyt reide ut for ei trygda motorvogn etter lova her, kan han krevje att hjå den som eig eller bruker vogna eller var med i henne og somgjorde skaden med vilje eller i grov aktløyse, ellerhadde teke rådvelde over vogna med brotsverk eller medverka til at vogna vart brukt endå han visste at ho var fråvend rette innehavaren med brotsverk, ellersjølv hadde valda at han var påverka av alkohol eller andre rusande eller døyvande råder medan han køyrde vogna og gjorde skade, eller medverka til at vogna vart brukt endå han visste eller måtte vita at vognføraren var påverka. Dette kravet fell bort i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Regelen i [§ 7](lov/1961-02-03/§7) fjerde leden bokstav b tredje punktumet gjeld tilsvarande.
+Den summen som ein trygdar lyt reide ut for ei trygda motorvogn etter lova her, kan han krevje att hjå den som eig eller bruker vogna eller var med i henne og som
+
+1. gjorde skaden med vilje eller i grov aktløyse, eller
+2. hadde teke rådvelde over vogna med brotsverk eller medverka til at vogna vart brukt endå han visste at ho var fråvend rette innehavaren med brotsverk, eller
+3. sjølv hadde valda at han var påverka av alkohol eller andre rusande eller døyvande råder medan han køyrde vogna og gjorde skade, eller medverka til at vogna vart brukt endå han visste eller måtte vita at vognføraren var påverka. Dette kravet fell bort i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Regelen i [§ 7](lov/1961-02-03/§7) fjerde leden bokstav b tredje punktumet gjeld tilsvarande.
 
 Ingen kan trygde seg mot attsøkjingskrav etter paragrafen her. Avtale om det gjeld ikkje.
 
@@ -177,7 +197,17 @@ Når ei motorvogn er utrygda etter denne paragrafen, og vogna gjer skade, har st
 
 ### § 17. (føresegner om trygding mv.)
 
-Departementet kan gje nærare føresegner om trafikktrygding, m a omgodkjenning eller registrering av trygdelag,krav til trygdelag, trygdeavtalar m v,plikt for trygdelag til å vera medlem i ein samskipnad av trygdelag (Trafikkforsikringsforeningen) og om samskipnadens verksemd,i kva grad trygding skal gjelda skade som motorvogn gjer i utlandet, og om utreiing av skadebot for slik skade,trygding for utanlandske motorvogner som vert nytta her i riket mellombels,utreiing av skadebot etter [§ 10](lov/1961-02-03/§10), og om korleis slik skadebot skal bytast på trygdelaga,at motorvogn som ikkje skal trygdast, skal reknast som utrygda etter reglane i [bilansvarslova § 10](lov/1961-02-03/§10), og om attsøkjingsrett for dei trygdelaga som har reidd ut skadebot for slik skade,trygding for motorvogner som blir ført inn til riket utan å vere registrert her,at alle eller sume slag uregistrerte motorvogner skal ha med lovleg trygdeprov når dei vert køyrde eller fråsegsette på gate, veg eller annan stad der ålmenta kan ferdast.
+Departementet kan gje nærare føresegner om trafikktrygding, m a om
+
+1. godkjenning eller registrering av trygdelag,
+2. krav til trygdelag, trygdeavtalar m v,
+3. plikt for trygdelag til å vera medlem i ein samskipnad av trygdelag (Trafikkforsikringsforeningen) og om samskipnadens verksemd,
+4. i kva grad trygding skal gjelda skade som motorvogn gjer i utlandet, og om utreiing av skadebot for slik skade,
+5. trygding for utanlandske motorvogner som vert nytta her i riket mellombels,
+6. utreiing av skadebot etter [§ 10](lov/1961-02-03/§10), og om korleis slik skadebot skal bytast på trygdelaga,
+7. at motorvogn som ikkje skal trygdast, skal reknast som utrygda etter reglane i [bilansvarslova § 10](lov/1961-02-03/§10), og om attsøkjingsrett for dei trygdelaga som har reidd ut skadebot for slik skade,
+8. trygding for motorvogner som blir ført inn til riket utan å vere registrert her,
+9. at alle eller sume slag uregistrerte motorvogner skal ha med lovleg trygdeprov når dei vert køyrde eller fråsegsette på gate, veg eller annan stad der ålmenta kan ferdast.
 
 Departementet kan vidare gje nærare føresegner om oppretting og drift av informasjonssenter og erstatningsorgan i samsvar med dei plikter staten har påtatt seg gjennom EØS-avtalen. I den utstrekning departementet finn det tenleg, kan ein leggje oppgåver i samband med dette til Trafikkforsikringsforeningen.
 
@@ -229,7 +259,10 @@ Reglane i [forsikringsavtalelova](lov/1989-06-16-69) gjeld for trafikktrygding e
 
 ### § 20. (straffer)
 
-Om nokonbrukar eller køyrer ei motorvogn endå han veit eller må vita at vogna ikkje er lovleg trygda, ellerlet vera å retta seg etter påbod om trygdeprov, gjevne med heimel i § 17 fyrste leden bokstav i, vert han straffa med bot.1
+Om nokon
+
+1. brukar eller køyrer ei motorvogn endå han veit eller må vita at vogna ikkje er lovleg trygda, eller
+2. let vera å retta seg etter påbod om trygdeprov, gjevne med heimel i § 17 fyrste leden bokstav i, vert han straffa med bot.1
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 des 2017 nr. 117](lov/2017-12-19-117) (ikr. 1 jan 2018), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 

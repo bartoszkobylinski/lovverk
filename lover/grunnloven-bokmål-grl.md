@@ -15,7 +15,7 @@ xml_hash: "27671fb382b58b1f4819b61ca0502c9d7592fa4bec4c2a8e1e449f08c033e3a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -560,7 +560,11 @@ Etter hvert stortingsvalg oppnevner Stortinget et riksvalgstyre med fem medlemme
 
 Riksvalgstyret fungerer i fire år fra 1. januar det andre årsskiftet etter stortingsvalget.
 
-Følgende personer kan ikke oppnevnes til riksvalgstyret:medlemmer av regjeringenmedlemmer og varamedlemmer av Stortinget, fylkesting og kommunestyrerstatssekretærer og politiske rådgivere ved statsrådets kontorer og på Stortinget.
+Følgende personer kan ikke oppnevnes til riksvalgstyret:
+
+1. medlemmer av regjeringen
+2. medlemmer og varamedlemmer av Stortinget, fylkesting og kommunestyrer
+3. statssekretærer og politiske rådgivere ved statsrådets kontorer og på Stortinget.
 
 Medlemmer og varamedlemmer av riksvalgstyret som stiller til valg til Stortinget, fylkestinget eller kommunestyret, går ut av riksvalgstyret.
 
@@ -590,7 +594,20 @@ Når Stortingets forhandlinger er åpnet, har statsministeren og statsrådene re
 
 ### § 75
 
-Det tilkommer Stortingetå gi og oppheve lover; å pålegge skatter, avgifter, toll og andre offentlige byrder, som dog ikke gjelder ut over 31. desember i det nærmest påfølgende år, med mindre de uttrykkelig fornyes av et nytt storting;å åpne lån på rikets kreditt;å føre oppsyn med rikets pengevesen;å bevilge de pengesummer som er nødvendige for å dekke statens utgifter;å bestemme hvor mye som årlig skal utbetales kongen til hans hoffstat, og fastlegge den kongelige families apanasje, som imidlertid ikke må bestå i faste eiendommer;å la seg forelegge statsrådets protokoller og alle offentlige innberetninger og papirer;å la seg meddele de forbund og traktater som kongen på statens vegne har inngått med fremmede makter;å kunne fordre enhver til å møte for seg i statssaker, kongen og den kongelige familie unntatt; dog gjelder denne unntagelse ikke for de kongelige prinser og prinsesser for så vidt de måtte bekle embeter;å revidere midlertidige gasje- og pensjonslister og gjøre de forandringer i dem som Stortinget finner nødvendige;å utnevne fem revisorer som årlig skal gjennomse statens regnskaper og bekjentgjøre ekstrakter av dem ved trykken; regnskapene skal tilstilles disse revisorer innen seks måneder etter utgangen av det år som Stortingets bevilgninger er gitt for; samt å treffe bestemmelser angående ordningen av desisjonsmyndigheten overfor statens regnskapsbetjenter;å utnevne en person som ikke er medlem av Stortinget, til på en måte som er nærmere bestemt i lov, å føre kontroll med den offentlige forvaltning og alle som virker i dens tjeneste, for å søke å sikre at det ikke øves urett mot den enkelte borger;å naturalisere fremmede.
+Det tilkommer Stortinget
+
+1. å gi og oppheve lover; å pålegge skatter, avgifter, toll og andre offentlige byrder, som dog ikke gjelder ut over 31. desember i det nærmest påfølgende år, med mindre de uttrykkelig fornyes av et nytt storting;
+2. å åpne lån på rikets kreditt;
+3. å føre oppsyn med rikets pengevesen;
+4. å bevilge de pengesummer som er nødvendige for å dekke statens utgifter;
+5. å bestemme hvor mye som årlig skal utbetales kongen til hans hoffstat, og fastlegge den kongelige families apanasje, som imidlertid ikke må bestå i faste eiendommer;
+6. å la seg forelegge statsrådets protokoller og alle offentlige innberetninger og papirer;
+7. å la seg meddele de forbund og traktater som kongen på statens vegne har inngått med fremmede makter;
+8. å kunne fordre enhver til å møte for seg i statssaker, kongen og den kongelige familie unntatt; dog gjelder denne unntagelse ikke for de kongelige prinser og prinsesser for så vidt de måtte bekle embeter;
+9. å revidere midlertidige gasje- og pensjonslister og gjøre de forandringer i dem som Stortinget finner nødvendige;
+10. å utnevne fem revisorer som årlig skal gjennomse statens regnskaper og bekjentgjøre ekstrakter av dem ved trykken; regnskapene skal tilstilles disse revisorer innen seks måneder etter utgangen av det år som Stortingets bevilgninger er gitt for; samt å treffe bestemmelser angående ordningen av desisjonsmyndigheten overfor statens regnskapsbetjenter;
+11. å utnevne en person som ikke er medlem av Stortinget, til på en måte som er nærmere bestemt i lov, å føre kontroll med den offentlige forvaltning og alle som virker i dens tjeneste, for å søke å sikre at det ikke øves urett mot den enkelte borger;
+12. å naturalisere fremmede.
 
 > Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 7 juni 1995 kunngjort ved [res. 23 juni 1995 nr. 567](forskrift/1995-06-23-567), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
 
@@ -902,7 +919,12 @@ Myndighetenes inngrep overfor den enkelte må ha grunnlag i lov.
 
 ### § 114
 
-Til embeter i staten må utnevnes bare de norske borgere, menn eller kvinner, som taler landets språk, samtenten er født i riket av foreldre som på det tidspunkt var norske statsborgereeller er født i utlandet av norske foreldre som på den tid ikke var statsborgere i noe annet landeller heretter oppholder seg i riket i ti åreller blir naturalisert av Stortinget.
+Til embeter i staten må utnevnes bare de norske borgere, menn eller kvinner, som taler landets språk, samt
+
+1. enten er født i riket av foreldre som på det tidspunkt var norske statsborgere
+2. eller er født i utlandet av norske foreldre som på den tid ikke var statsborgere i noe annet land
+3. eller heretter oppholder seg i riket i ti år
+4. eller blir naturalisert av Stortinget.
 
 Dog kan andre beskikkes til lærere ved Universitetet og de lærde skoler, til leger og til konsuler på fremmede steder.
 

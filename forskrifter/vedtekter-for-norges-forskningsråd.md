@@ -15,7 +15,7 @@ xml_hash: "88d492e613d5941911237cdc5afe2127421bda8ed533210d216903a39be0cd22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,19 @@ Norges forskningsråd skal være et nasjonalt utøvende forskningsstrategisk org
 
 ## § 2. Hovedoppgaver
 
-Forskningsrådet skalivareta grunnleggende forskning, arbeide for utvikling av fag og disipliner og for flerfaglighet i forskningstøtte forskning som bidrar til samfunnsdebatt, utviklingen av demokratiet og grunnlaget for politikkutformingenarbeide for å fremme innovasjon i næringsliv og offentlig sektor i hele landetarbeide for sammenheng mellom grunnleggende og anvendt forskning og innovasjonha et nasjonalt ansvar for forskningsformidling og bidra til at resultater fra forskning blir tatt i brukarbeide for å fremme internasjonalt forskningssamarbeidbidra til kvalitet i norsk forskningbidra til samarbeid og helhet i det offentlige virkemiddelapparatetbidra til god arbeidsdeling og samarbeid i det forskningsutførende nivået og ha et strategisk ansvar for instituttsektorensørge for evaluering av norsk forskninggi myndighetene råd som grunnlag for utforming av forskningspolitikken.
+Forskningsrådet skal
+
+1. ivareta grunnleggende forskning, arbeide for utvikling av fag og disipliner og for flerfaglighet i forskning
+2. støtte forskning som bidrar til samfunnsdebatt, utviklingen av demokratiet og grunnlaget for politikkutformingen
+3. arbeide for å fremme innovasjon i næringsliv og offentlig sektor i hele landet
+4. arbeide for sammenheng mellom grunnleggende og anvendt forskning og innovasjon
+5. ha et nasjonalt ansvar for forskningsformidling og bidra til at resultater fra forskning blir tatt i bruk
+6. arbeide for å fremme internasjonalt forskningssamarbeid
+7. bidra til kvalitet i norsk forskning
+8. bidra til samarbeid og helhet i det offentlige virkemiddelapparatet
+9. bidra til god arbeidsdeling og samarbeid i det forskningsutførende nivået og ha et strategisk ansvar for instituttsektoren
+10. sørge for evaluering av norsk forskning
+11. gi myndighetene råd som grunnlag for utforming av forskningspolitikken.
 
 > Endret ved [forskrift 9 nov 2018 nr. 1676](forskrift/2018-11-09-1676) (i kraft 1 des 2018).
 
@@ -62,7 +74,12 @@ Styret har hovedansvar for Forskningsrådets strategi og for at denne blir lagt 
 
 Styret representerer Forskningsrådet i styringsdialogen med Kunnskapsdepartementet. Departementet fastsetter i samråd med Forskningsrådet styringsdialogens form og innhold.
 
-Styrettilsetter administrerende direktør (jf. [§ 5](forskrift/2016-06-10-658/§5))fastsetter administrerende direktørs lønn og annen godtgjøring, etter konsultasjon med Kunnskapsdepartementetfastsetter instruks for administrerende direktørfastsetter retningslinjer for godtgjøring til ledende ansatte.
+Styret
+
+1. tilsetter administrerende direktør (jf. [§ 5](forskrift/2016-06-10-658/§5))
+2. fastsetter administrerende direktørs lønn og annen godtgjøring, etter konsultasjon med Kunnskapsdepartementet
+3. fastsetter instruks for administrerende direktør
+4. fastsetter retningslinjer for godtgjøring til ledende ansatte.
 
 3\. *Forretningsorden*
 

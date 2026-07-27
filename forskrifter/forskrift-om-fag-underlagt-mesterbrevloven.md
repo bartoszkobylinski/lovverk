@@ -15,7 +15,7 @@ xml_hash: "2b8d7584209e71a86d884eb63c38bd4b546deeaf8a5580374c8dfeb635b5b82b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -130,4 +130,10 @@ Følgende fag er lagt inn under lov om mesterbrev i håndverk og annen næring m
 
 ## § 2.
 
-Forskriften trer i kraft straks, og fra samme tidspunkt oppheves følgende forskrifter:[Forskrift av 18. juli 1997 nr. 805](forskrift/1997-07-18-805) om fag under lov om mesterbrev i håndverk og annen næring.[Forskrift av 11. juni 1997 nr. 620](forskrift/1997-06-11-620) om fag under lov om mesterbrev i håndverk og annen næring.[Forskrift av 17. mars 1993 nr. 205](forskrift/1993-03-17-205) om å legge dame- og herrefrisørfaget inn under mesterbrevloven.[Forskrift av 28. september 1992 nr. 716](forskrift/1992-09-28-716) om å legge butikkslakterfaget inn under mesterbrevloven med overgangsbestemmelser.[Forskrift av 28. april 1992 nr. 312](forskrift/1992-04-28-312) om å legge glassfaget inn under mesterbrevloven med overgangsbestemmelser.
+Forskriften trer i kraft straks, og fra samme tidspunkt oppheves følgende forskrifter:
+
+- [Forskrift av 18. juli 1997 nr. 805](forskrift/1997-07-18-805) om fag under lov om mesterbrev i håndverk og annen næring.
+- [Forskrift av 11. juni 1997 nr. 620](forskrift/1997-06-11-620) om fag under lov om mesterbrev i håndverk og annen næring.
+- [Forskrift av 17. mars 1993 nr. 205](forskrift/1993-03-17-205) om å legge dame- og herrefrisørfaget inn under mesterbrevloven.
+- [Forskrift av 28. september 1992 nr. 716](forskrift/1992-09-28-716) om å legge butikkslakterfaget inn under mesterbrevloven med overgangsbestemmelser.
+- [Forskrift av 28. april 1992 nr. 312](forskrift/1992-04-28-312) om å legge glassfaget inn under mesterbrevloven med overgangsbestemmelser.

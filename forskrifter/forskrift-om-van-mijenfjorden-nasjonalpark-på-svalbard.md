@@ -26,7 +26,15 @@ eu_basis: []
 
 Formålet med forskriften er å bevare et storslått, sammenhengende og i det vesentligste urørt arktisk dal-, fjord- og kystlandskap med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap, kulturminner, som område for forskning og for opplevelse av Svalbards natur- og kulturarv.
 
-Formålet er videre å ta vare påstore arealer med sammenhengende og frodig vegetasjon og interessant moseflorastore våtmarksområder og grunne sjøarealer; biotoper som er viktige hekke-, nærings- og myteområder for fuglområder med rikt fugleliv (vadefugl, gjess, dykkender og sjøfugl)velutviklete kvartærgeologiske formasjoner (pingoer og elveavsetninger, herunder et av de største elvedeltaene på Svalbard)Reindalen; det største av de isfrie dalførene på Spitsbergenviktige leveområder for isavhengige arter som Van Keulenfjorden og Van Mijenfjorden, herunder Fridtjovhamna og Rindersbuktaverdifulle kulturminner.
+Formålet er videre å ta vare på
+
+1. store arealer med sammenhengende og frodig vegetasjon og interessant moseflora
+2. store våtmarksområder og grunne sjøarealer; biotoper som er viktige hekke-, nærings- og myteområder for fugl
+3. områder med rikt fugleliv (vadefugl, gjess, dykkender og sjøfugl)
+4. velutviklete kvartærgeologiske formasjoner (pingoer og elveavsetninger, herunder et av de største elvedeltaene på Svalbard)
+5. Reindalen; det største av de isfrie dalførene på Spitsbergen
+6. viktige leveområder for isavhengige arter som Van Keulenfjorden og Van Mijenfjorden, herunder Fridtjovhamna og Rindersbukta
+7. verdifulle kulturminner.
 
 ## § 2. Geografisk avgrensning
 
@@ -38,13 +46,20 @@ Grensene for nasjonalparken framgår av kart i vedlegg 1 og 2.
 
 Det er forbudt å iverksette virksomhet og inngrep som varig kan påvirke landskap, natur- og kulturmiljøet. Forbudet omfatter oppføring, utviding, ombygging og plassering av midlertidige eller varige bygninger, anlegg og innretninger, fremføring av luft- og jordledninger, terrenginngrep, graving, utfylling, flytting og henleggelse av masse, planering, skraping av havbunnen og jordoverflaten, drenering og annen form for tørrlegging, boring, sprenging, uttak av mineraler, olje og fossiler og andre lignende tiltak. Opplistingen er ikke uttømmende.
 
-Det er likevel tillatt medbruk av tillatte fiske- og fangstredskapernødvendig vedlikehold av bygninger og innretninger som er i bruk. Vedlikehold omfatter ikke ombygging, utvidelse eller større istandsettingopprydding, naturrestaurering og andre tiltak i samsvar med vedtatt avslutningsplan etter gruvevirksomheten i Svea/Lunckefjell.
+Det er likevel tillatt med
+
+1. bruk av tillatte fiske- og fangstredskaper
+2. nødvendig vedlikehold av bygninger og innretninger som er i bruk. Vedlikehold omfatter ikke ombygging, utvidelse eller større istandsetting
+3. opprydding, naturrestaurering og andre tiltak i samsvar med vedtatt avslutningsplan etter gruvevirksomheten i Svea/Lunckefjell.
 
 ## § 4. Ferdsel og sykling
 
 All ferdsel skal foregå på en måte som ikke skader, forsøpler eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv.
 
-Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;dyrelivet for å unngå unødige forstyrrelserfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;
+
+- dyrelivet for å unngå unødige forstyrrelser
+- fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 Sykling på barmark er forbudt.
 
@@ -60,7 +75,10 @@ All ferdsel i områder på Midterhuken, Eholmen og Mariaholmen som vist på kart
 
 Ilandstigning i turistvirksomhet og opphold på land i forbindelse med slik ilandstigning er forbudt.
 
-Forbudet gjelder ikkepå snødekt og frossen mark fra 1. januar til 25. mai hvert år,i område skravert med grønt på kart i [vedlegg 4](forskrift/2021-06-18-1980/vedlegg4) som viser tillatt ilandstigningsområde og grenser for tillatt opphold på land i forbindelse med ilandstigning.
+Forbudet gjelder ikke
+
+1. på snødekt og frossen mark fra 1. januar til 25. mai hvert år,
+2. i område skravert med grønt på kart i [vedlegg 4](forskrift/2021-06-18-1980/vedlegg4) som viser tillatt ilandstigningsområde og grenser for tillatt opphold på land i forbindelse med ilandstigning.
 
 Ilandstigning og opphold på land etter denne bestemmelsen kan bare skje sammen med guide med kunnskap om natur- og kulturmiljøet.
 
@@ -106,7 +124,15 @@ Ubemannede luftfartøy (droner) og innretninger som nevnt i § 6 kan benyttes fo
 
 ## § 9. Tillatelse etter søknad
 
-Forvaltningsmyndigheten kan etter søknad gi tillatelse tilistandsetting, ombygging og mindre utvidelse av eksisterende bygninger, anlegg og innretningergjenoppbygging av bygninger, anlegg og innretninger som er ødelagt ved brann eller naturskadebruk av ubemannede luftfartøy (droner) og innretninger som nevnt i [§ 6](forskrift/2021-06-18-1980/§6) for andre formål enn fritids- og hobbyformål.tiltak i forbindelse med etablering og drift av fangststasjonermotorferdsel på sjøis, frossen og snødekt mark, samt landing med luftfartøy, i forbindelse med tilsyn, vedlikehold og drift av navigasjonsmidler, kommunikasjonsanlegg og værstasjonersikring og opprydding av oljeboringslokaliteteroppføring av nødvendige navigasjonsinnretninger for å trygge ferdselen til sjøs.
+Forvaltningsmyndigheten kan etter søknad gi tillatelse til
+
+1. istandsetting, ombygging og mindre utvidelse av eksisterende bygninger, anlegg og innretninger
+2. gjenoppbygging av bygninger, anlegg og innretninger som er ødelagt ved brann eller naturskade
+3. bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i [§ 6](forskrift/2021-06-18-1980/§6) for andre formål enn fritids- og hobbyformål.
+4. tiltak i forbindelse med etablering og drift av fangststasjoner
+5. motorferdsel på sjøis, frossen og snødekt mark, samt landing med luftfartøy, i forbindelse med tilsyn, vedlikehold og drift av navigasjonsmidler, kommunikasjonsanlegg og værstasjoner
+6. sikring og opprydding av oljeboringslokaliteter
+7. oppføring av nødvendige navigasjonsinnretninger for å trygge ferdselen til sjøs.
 
 Tillatelsen skal vise hvordan forvaltningsmyndigheten har vurdert virkningene som tillatelsen kan få for natur- og kulturmiljøet og hvilken vekt det er lagt på dette.
 

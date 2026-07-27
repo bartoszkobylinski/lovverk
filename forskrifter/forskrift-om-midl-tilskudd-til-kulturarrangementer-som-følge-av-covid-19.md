@@ -28,17 +28,30 @@ Forskriften gjelder for kulturarrangementer i Norge, inkludert Svalbard og Jan M
 
 ## § 2. Formål
 
-Formålet med tilskuddene erå nå kulturpolitiske mål og avhjelpe kultursektoren gjennom den pågående covid-19-krisen gjennom å stimulere til gjennomføring av arrangementer i kultursektoren innenfor smittevernpålegg gitt av offentlige myndigheter som følge av covid-19 ogå stimulere til økt aktivitet i hele kulturarrangementets verdikjede gjennom at tilskuddsmottakere overholder økonomiske forpliktelser overfor involverte parter i samsvar med inngåtte avtaler.
+Formålet med tilskuddene er
+
+1. å nå kulturpolitiske mål og avhjelpe kultursektoren gjennom den pågående covid-19-krisen gjennom å stimulere til gjennomføring av arrangementer i kultursektoren innenfor smittevernpålegg gitt av offentlige myndigheter som følge av covid-19 og
+2. å stimulere til økt aktivitet i hele kulturarrangementets verdikjede gjennom at tilskuddsmottakere overholder økonomiske forpliktelser overfor involverte parter i samsvar med inngåtte avtaler.
 
 ## § 3. Hvem som kan få tilskudd
 
 Tilskudd kan gis til arrangør som har hovedansvar for å gjennomføre et arrangement som i hovedsak formidler et kulturelt eller kunstnerisk innhold, er registrert i Enhetsregisteret og mottok under 60 prosent av sine inntekter fra offentlig tilskudd i 2019. Kommunale kulturhus og kinoer, eller menighetsråd eller lignende som er en del av et tros- eller livssynssamfunn, kan også regnes som arrangør selv om de ikke har en selvstendig registrering i Enhetsregisteret. For filmarrangementer kan både distributør og visningsleddet søke tilskudd som arrangør.
 
-Tilskudd kan ikke gis til arrangører somer under konkursbehandlingpå tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) artikkel 2 nr. 18, jf. [forskrift 14. november 2008 nr. 1213](forskrift/2008-11-14-1213) om unntak fra notifikasjonsplikt for offentlig støtte [§ 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019på tildelingstidspunktet har et utestående tilbakebetalingskrav på grunnlag av et vedtak fra EFTAs overvåkningsorgan som slår fast at tidligere mottatt støtte er ulovlig og uforenlig med EØS-avtalenhar mottatt midler fra Kulturdepartementets andre støtteordninger som følge av covid-19, for samme arrangement som det søkes om tilskudd til under denne ordningen, ellerhar eller kan få bidrag til å gjennomføre arrangementet fra forsikring, avtale e.l.
+Tilskudd kan ikke gis til arrangører som
+
+1. er under konkursbehandling
+2. på tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) artikkel 2 nr. 18, jf. [forskrift 14. november 2008 nr. 1213](forskrift/2008-11-14-1213) om unntak fra notifikasjonsplikt for offentlig støtte [§ 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019
+3. på tildelingstidspunktet har et utestående tilbakebetalingskrav på grunnlag av et vedtak fra EFTAs overvåkningsorgan som slår fast at tidligere mottatt støtte er ulovlig og uforenlig med EØS-avtalen
+4. har mottatt midler fra Kulturdepartementets andre støtteordninger som følge av covid-19, for samme arrangement som det søkes om tilskudd til under denne ordningen, eller
+5. har eller kan få bidrag til å gjennomføre arrangementet fra forsikring, avtale e.l.
 
 ## § 4. Hva det kan gis tilskudd til
 
-Norsk kulturråd kan gi tilskudd til gjennomføring av billetterte kulturarrangement somer åpne for allmennheten i perioden 1. oktober til og med 31. desember 2020må redusere antall fysiske deltagere på kulturarrangementet i forhold til en normalsituasjon på grunn av myndighetspålagte krav eller begrensninger knyttet til covid-19-utbruddet oger budsjettert med driftstap før tilskudd.
+Norsk kulturråd kan gi tilskudd til gjennomføring av billetterte kulturarrangement som
+
+1. er åpne for allmennheten i perioden 1. oktober til og med 31. desember 2020
+2. må redusere antall fysiske deltagere på kulturarrangementet i forhold til en normalsituasjon på grunn av myndighetspålagte krav eller begrensninger knyttet til covid-19-utbruddet og
+3. er budsjettert med driftstap før tilskudd.
 
 Tilskudd til filmdistributører som arrangør omfatter kostnader til distribusjon (lansering og markedsføring) og minimumsgarantier til en film og skal føre til gjennomføring av kulturarrangementet som nevnt i første ledd.
 
@@ -72,9 +85,19 @@ Tilskuddet skal avkortes dersom nettokostnaden framstår som uforholdsmessig, fo
 
 Et tilskudd kan ikke overstige differansen mellom arrangørens kostnader og inntekter, inkludert eventuell annen offentlig støtte, knyttet til arrangementet, med tillegg av 3 prosent driftsmargin.
 
-Når arrangør er filmdistributør kan tilskuddet, inkludert eventuell annen offentlig støtte, heller ikke overstige:50 % av distributørens støtteberettigede kostnader av en film60 % av distributørens støtteberettigede kostnader av en film produsert på tvers av landegrensene, som støttes av flere enn én EU/EØS medlemsstat og omfatter produsenter fra flere enn én EU/EØS medlemsstat eller100 % av distributørens støtteberettigede kostnader for smale filmer.
+Når arrangør er filmdistributør kan tilskuddet, inkludert eventuell annen offentlig støtte, heller ikke overstige:
 
-Som smal film etter andre ledd bokstav c regnes film som oppfyller minst ett av følgende vilkår:film med mer enn 50 prosent dialog på annet språk enn engelskfilm som er kinodokumentarfilm som kvalifiserer som smalt audiovisuelt verk i [forskrift 31. oktober 2016 nr. 1264 om tilskudd til audiovisuell produksjon](forskrift/2016-10-31-1264) og som har mottatt tilskudd etter forskriftens [kapittel 3](forskrift/2016-10-31-1264/kap3)film med produksjonsbudsjett under 30 millioner NOKfilm av tydelig kunstnerisk karakter.
+1. 50 % av distributørens støtteberettigede kostnader av en film
+2. 60 % av distributørens støtteberettigede kostnader av en film produsert på tvers av landegrensene, som støttes av flere enn én EU/EØS medlemsstat og omfatter produsenter fra flere enn én EU/EØS medlemsstat eller
+3. 100 % av distributørens støtteberettigede kostnader for smale filmer.
+
+Som smal film etter andre ledd bokstav c regnes film som oppfyller minst ett av følgende vilkår:
+
+1. film med mer enn 50 prosent dialog på annet språk enn engelsk
+2. film som er kinodokumentar
+3. film som kvalifiserer som smalt audiovisuelt verk i [forskrift 31. oktober 2016 nr. 1264 om tilskudd til audiovisuell produksjon](forskrift/2016-10-31-1264) og som har mottatt tilskudd etter forskriftens [kapittel 3](forskrift/2016-10-31-1264/kap3)
+4. film med produksjonsbudsjett under 30 millioner NOK
+5. film av tydelig kunstnerisk karakter.
 
 > Endret ved forskrift [12 nov 2020 nr. 2350](forskrift/2020-11-12-2350).
 
@@ -86,7 +109,11 @@ Tilskuddsmottakere skal på forespørsel gi alle opplysninger og dokumentasjon s
 
 ## § 11. Stansing og tilbakebetaling
 
-Norsk kulturråd kan stanse utbetalingen av tilskudd eller kreve tilbakebetaling av utbetalte tilskudd dersomarrangøren gir ufullstendige eller feilaktige opplysninger og dokumentasjontilskuddet ikke blir benyttet i samsvar med forskriften og tilskuddsvedtaketarrangøren på annen vesentlig måte har brutt kravene i forskriften eller tilskuddsvedtaket.
+Norsk kulturråd kan stanse utbetalingen av tilskudd eller kreve tilbakebetaling av utbetalte tilskudd dersom
+
+1. arrangøren gir ufullstendige eller feilaktige opplysninger og dokumentasjon
+2. tilskuddet ikke blir benyttet i samsvar med forskriften og tilskuddsvedtaket
+3. arrangøren på annen vesentlig måte har brutt kravene i forskriften eller tilskuddsvedtaket.
 
 Dersom arrangementet helt eller delvis ikke er gjennomført, skal Norsk kulturråd kreve en forholdsmessig andel av tilskuddet tilbakebetalt. Tilskudd kreves likevel ikke tilbakebetalt når avlysningen skyldes pålegg fra offentlige myndigheter som følge av covid-19, så langt tilskuddet brukes til å dekke arrangørens uunngåelige økonomiske forpliktelser i forbindelse med det avlyste arrangementet.
 

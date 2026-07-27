@@ -15,7 +15,7 @@ xml_hash: "adfa086c1512d3086c9e57897844a1b92fbc990e00c6922f106c1638787d8d47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,15 +26,29 @@ eu_basis: []
 
 Lovens formål er å legge til rette for bredde, mangfold og kvalitet i litteraturen som utgis i Norge, og å sikre at alle i landet har god tilgang til denne litteraturen.
 
-Loven skal ogsåivareta interessene til forfattere, oversettere, visuelle kunstnere og leserelegge til rette for et mangfold av aktørerbidra til å fremme ytringsfrihet og kultur- og kunnskapsformidlingbidra til å styrke skriftkulturen for bokmål, nynorsk, de samiske språkene og de nasjonale minoritetsspråkene kvensk, romani og romanes.
+Loven skal også
+
+1. ivareta interessene til forfattere, oversettere, visuelle kunstnere og lesere
+2. legge til rette for et mangfold av aktører
+3. bidra til å fremme ytringsfrihet og kultur- og kunnskapsformidling
+4. bidra til å styrke skriftkulturen for bokmål, nynorsk, de samiske språkene og de nasjonale minoritetsspråkene kvensk, romani og romanes.
 
 ## § 2. Definisjoner
 
-I denne loven menes medbok: utgivelse med ISBN-nummer innenfor lovens virkeområde, som uavhengig av publiseringsformat tilgjengeliggjøres for publikum, for eksempel ulike formater av en papirbok, en e-bok eller en innlest parallellutgave av en papirbok eller en e-bok (lydbok)utgiver: fysisk eller juridisk person som utgir bøkerforhandler: virksomhet som omsetter bøker til sluttkunde, fysisk eller digitaltsluttkunde: enhver som kjøper eller på annen måte betaler for tilgang til bøker til andre formål enn videresalgfastpris: bindende utsalgspris til sluttkunde på en bok.
+I denne loven menes med
+
+1. bok: utgivelse med ISBN-nummer innenfor lovens virkeområde, som uavhengig av publiseringsformat tilgjengeliggjøres for publikum, for eksempel ulike formater av en papirbok, en e-bok eller en innlest parallellutgave av en papirbok eller en e-bok (lydbok)
+2. utgiver: fysisk eller juridisk person som utgir bøker
+3. forhandler: virksomhet som omsetter bøker til sluttkunde, fysisk eller digitalt
+4. sluttkunde: enhver som kjøper eller på annen måte betaler for tilgang til bøker til andre formål enn videresalg
+5. fastpris: bindende utsalgspris til sluttkunde på en bok.
 
 ## § 3. Saklig og geografisk virkeområde
 
-Loven gjelder for omsetning av bøker somutgis på bokmål, nynorsk, samiske språk eller de nasjonale minoritetsspråkene kvensk, romani og romanes, ogutgis av norske utgivere for salg gjennom norske forhandlere.
+Loven gjelder for omsetning av bøker som
+
+1. utgis på bokmål, nynorsk, samiske språk eller de nasjonale minoritetsspråkene kvensk, romani og romanes, og
+2. utgis av norske utgivere for salg gjennom norske forhandlere.
 
 Loven gjelder ikke ved salg til sluttkunder i en annen stat.
 

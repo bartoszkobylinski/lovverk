@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1.
 
-[Lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann får anvendelse for elver og innsjøer som ikke er farbare med fartøy fra sjøen når det gjelderforskrifter om fartsbegrensninger gitt med hjemmel i samme lovs § 13,forbud mot ferdsel innenfor oppmerkede badeområder fastsatt med hjemmel i samme lovs § 13, ogtillatelse til etablering, fjerning, flytting eller endring av innretninger og anlegg for navigasjonsveiledning, jf. samme lovs § 19 og § 20.
+[Lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann får anvendelse for elver og innsjøer som ikke er farbare med fartøy fra sjøen når det gjelder
+
+1. forskrifter om fartsbegrensninger gitt med hjemmel i samme lovs § 13,
+2. forbud mot ferdsel innenfor oppmerkede badeområder fastsatt med hjemmel i samme lovs § 13, og
+3. tillatelse til etablering, fjerning, flytting eller endring av innretninger og anlegg for navigasjonsveiledning, jf. samme lovs § 19 og § 20.
 
 ## § 2.
 

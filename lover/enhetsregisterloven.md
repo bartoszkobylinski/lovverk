@@ -15,7 +15,7 @@ xml_hash: "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,15 @@ eu_basis: []
 
 (1) Med registreringsenhet menes i denne loven enhet som har registreringsplikt eller registreringsrett i Enhetsregisteret.
 
-(2) Med tilknyttet register menes i denne loven:Arbeidsgiverdelen av Arbeidsgiver- og arbeidstakerregisteretForetaksregisteretStiftelsesregisteretMerverdiavgiftsregisteretStatistisk sentralbyrås Bedrifts- og foretaksregisterSkattedirektoratets register over upersonlige skattytereKonkursregisteret
+(2) Med tilknyttet register menes i denne loven:
+
+1. Arbeidsgiverdelen av Arbeidsgiver- og arbeidstakerregisteret
+2. Foretaksregisteret
+3. Stiftelsesregisteret
+4. Merverdiavgiftsregisteret
+5. Statistisk sentralbyrås Bedrifts- og foretaksregister
+6. Skattedirektoratets register over upersonlige skattytere
+7. Konkursregisteret
 
 ### § 1-5. Lovens anvendelse på Svalbard og Jan Mayen
 
@@ -82,7 +90,13 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 ### § 3-1. Registreringsplikt i Enhetsregisteret
 
-(1) Følgende enheter skal registreres i Enhetsregisteret hvis de registreres i et tilknyttet register:juridiske personer, herunder selskaper, samvirkeforetak, foreninger, stiftelser, verdipapirfond, bo, staten, fylkeskommuner og kommunerenkeltpersonforetaktingsrettslige sameier som opptrer som sådanne utadutenlandske foretakandre enheter enn de som er nevnt i bokstav a til d, som etter lov eller i medhold av lov skal registreres i tilknyttet register
+(1) Følgende enheter skal registreres i Enhetsregisteret hvis de registreres i et tilknyttet register:
+
+1. juridiske personer, herunder selskaper, samvirkeforetak, foreninger, stiftelser, verdipapirfond, bo, staten, fylkeskommuner og kommuner
+2. enkeltpersonforetak
+3. tingsrettslige sameier som opptrer som sådanne utad
+4. utenlandske foretak
+5. andre enheter enn de som er nevnt i bokstav a til d, som etter lov eller i medhold av lov skal registreres i tilknyttet register
 
 (2) Registreringsplikten etter første ledd bokstav a gjelder ikke dødsbo og felleseiebo som identifiseres ved fødselsnummer, og indre selskaper.
 
@@ -106,11 +120,25 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 ### § 4-1. Opplysninger om enheten mv.
 
-(1) Følgende opplysninger om enheten skal registreres:foretaksnavn eller navnorganisasjonsformadresseaktiviteten som enheten skal driveelektronisk varslingsadresseansvarskapital dersom det i lov eller i medhold av lov er stilt krav om at enheten skal ha ansvarskapital
+(1) Følgende opplysninger om enheten skal registreres:
 
-(2) Følgende opplysninger om enheten skal registreres hvis de finnes:stiftelsesdatonorsk representant for utenlandsk foretak
+1. foretaksnavn eller navn
+2. organisasjonsform
+3. adresse
+4. aktiviteten som enheten skal drive
+5. elektronisk varslingsadresse
+6. ansvarskapital dersom det i lov eller i medhold av lov er stilt krav om at enheten skal ha ansvarskapital
 
-(3) Registerføreren skal også registrere følgende opplysninger om enheten:antall ansattenæringskodeinstitusjonell sektorkode
+(2) Følgende opplysninger om enheten skal registreres hvis de finnes:
+
+1. stiftelsesdato
+2. norsk representant for utenlandsk foretak
+
+(3) Registerføreren skal også registrere følgende opplysninger om enheten:
+
+1. antall ansatte
+2. næringskode
+3. institusjonell sektorkode
 
 (4) Det kan registreres opplysninger om enhetens telefonnummer og andre elektroniske adresser.
 
@@ -120,7 +148,15 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 ### § 4-2. Opplysninger om enhetens ledelse
 
-(1) Følgende opplysninger om enhetens ledelse skal registreres hvis de finnes:styremedlemmer og hvem som er styrets ledervaramedlemmer til styretdaglig lederforretningsførerdeltakere med ubegrenset ansvar for et selskaps forpliktelserden fysiske personen som innehar et enkeltpersonforetak (innehaver)styret eller daglig leder for den norske delen av virksomheten til et utenlandsk foretak
+(1) Følgende opplysninger om enhetens ledelse skal registreres hvis de finnes:
+
+1. styremedlemmer og hvem som er styrets leder
+2. varamedlemmer til styret
+3. daglig leder
+4. forretningsfører
+5. deltakere med ubegrenset ansvar for et selskaps forpliktelser
+6. den fysiske personen som innehar et enkeltpersonforetak (innehaver)
+7. styret eller daglig leder for den norske delen av virksomheten til et utenlandsk foretak
 
 (2) Dersom det for enheten ikke er registrert noen med en rolle som nevnt i første ledd eller bostyrer, jf. [§ 4-6](lov/2025-06-20-105/§4-6), skal det registreres en fysisk person som kontaktperson for enheten. Det samme gjelder dersom enheten bare har registrert juridiske personer med roller som nevnt i første ledd.
 
@@ -152,7 +188,11 @@ Dersom det oppnevnes bostyrer for enheten etter [konkursloven § 77](lov/1984-06
 
 (2) Hver underenhet skal tildeles et eget organisasjonsnummer.
 
-(3) Departementet kan gi forskrift med nærmere regler om registrering av underenheter, herunder omhva som regnes som adskilt aktivitet etter første ledd andre punktumhvilke opplysninger som skal registreres om underenheterregistrering av underenheter i andre tilfeller enn de som er nevnt i første ledd.
+(3) Departementet kan gi forskrift med nærmere regler om registrering av underenheter, herunder om
+
+1. hva som regnes som adskilt aktivitet etter første ledd andre punktum
+2. hvilke opplysninger som skal registreres om underenheter
+3. registrering av underenheter i andre tilfeller enn de som er nevnt i første ledd.
 
 ### § 4-8. Særlige opplysninger om stat, fylkeskommuner og kommuner
 
@@ -190,11 +230,19 @@ Departementet kan gi forskrift om hvilke opplysninger som skal registreres om st
 
 ### § 5-3. Hvem som har meldeplikt
 
-Den som har plikt til å sende melding etter [§ 5-1](lov/2025-06-20-105/§5-1) og [§ 5-2](lov/2025-06-20-105/§5-2), erfor enkeltpersonforetak: innehaverenfor alle andre enheter: hvert enkelt styremedlem, daglig leder, forretningsfører eller kontaktperson.
+Den som har plikt til å sende melding etter [§ 5-1](lov/2025-06-20-105/§5-1) og [§ 5-2](lov/2025-06-20-105/§5-2), er
+
+1. for enkeltpersonforetak: innehaveren
+2. for alle andre enheter: hvert enkelt styremedlem, daglig leder, forretningsfører eller kontaktperson.
 
 ### § 5-4. Dokumentasjon av meldte opplysninger
 
-(1) Følgende dokumentasjon skal inngå i meldingen dersom den er relevant for opplysningen som er meldt:stiftelsesdokument. Dersom stiftelsesdokument ikke finnes, skal annen dokumentasjon av at enheten er lovlig stiftet, inngå i meldingen i stedet. Dersom det ikke gjelder formkrav for stiftelse av enheten, skal annen dokumentasjon som viser at enheten eksisterer, inngå i meldingen.vedtekter eller tilsvarende styringsreglement dersom slike finnesdokumentasjon av beslutning som danner grunnlaget for meldt opplysning om styret, daglig leder, signatur og prokura, og at beslutningen er truffet av kompetent organsignert bekreftelse fra styremedlem, varamedlem, daglig leder, revisor og regnskapsfører om at denne har påtatt seg rollen. Kravet til bekreftelse kan oppfylles ved at den som skal avgi bekreftelsen, signerer meldingen.
+(1) Følgende dokumentasjon skal inngå i meldingen dersom den er relevant for opplysningen som er meldt:
+
+1. stiftelsesdokument. Dersom stiftelsesdokument ikke finnes, skal annen dokumentasjon av at enheten er lovlig stiftet, inngå i meldingen i stedet. Dersom det ikke gjelder formkrav for stiftelse av enheten, skal annen dokumentasjon som viser at enheten eksisterer, inngå i meldingen.
+2. vedtekter eller tilsvarende styringsreglement dersom slike finnes
+3. dokumentasjon av beslutning som danner grunnlaget for meldt opplysning om styret, daglig leder, signatur og prokura, og at beslutningen er truffet av kompetent organ
+4. signert bekreftelse fra styremedlem, varamedlem, daglig leder, revisor og regnskapsfører om at denne har påtatt seg rollen. Kravet til bekreftelse kan oppfylles ved at den som skal avgi bekreftelsen, signerer meldingen.
 
 (2) Ved melding om sletting fra Enhetsregisteret som følge av at enheten opphører, skal dokumentasjon av beslutning om opphør og at beslutningen er truffet av kompetent organ, inngå i meldingen. Første punktum gjelder bare hvis det er formkrav til slik beslutning.
 
@@ -202,7 +250,12 @@ Den som har plikt til å sende melding etter [§ 5-1](lov/2025-06-20-105/§5-1) 
 
 (4) Innsenderen kan sladde opplysninger i dokumentasjon som nevnt i første og andre ledd hvis de ikke er relevante for at en opplysning som er meldt, kan registreres i Enhetsregisteret.
 
-(5) Departementet kan gi forskrift med nærmere regler om dokumentasjon etter denne paragrafen, herunder regler omhvilken dokumentasjon som skal inngå i meldingen etter første ledd bokstav a andre og tredje punktum og bokstav c, herunder at kravet til dokumentasjon kan oppfylles ved at det avgis bekreftelse eller erklæringkrav til dataformat og filformat for dokumentasjonenkrav til innhold i bekreftelserkrav til signatur på bekreftelser.
+(5) Departementet kan gi forskrift med nærmere regler om dokumentasjon etter denne paragrafen, herunder regler om
+
+1. hvilken dokumentasjon som skal inngå i meldingen etter første ledd bokstav a andre og tredje punktum og bokstav c, herunder at kravet til dokumentasjon kan oppfylles ved at det avgis bekreftelse eller erklæring
+2. krav til dataformat og filformat for dokumentasjonen
+3. krav til innhold i bekreftelser
+4. krav til signatur på bekreftelser.
 
 ### § 5-5. Pålegg om å sende inn melding
 
@@ -234,13 +287,24 @@ Den som har plikt til å sende melding etter [§ 5-1](lov/2025-06-20-105/§5-1) 
 
 ### § 5-9. Elektroniske identifikasjonsmidler
 
-Departementet kan gi forskrift ombruk av elektroniske identifikasjonsmidler i forbindelse med elektronisk signering av meldinger til Enhetsregisteretbruk av elektroniske identifikasjonsmidler fra andre EØS-stater ved melding til Enhetsregisteret og om offentliggjøring av hvilke identifikasjonsmidler som kan benyttes.
+Departementet kan gi forskrift om
+
+1. bruk av elektroniske identifikasjonsmidler i forbindelse med elektronisk signering av meldinger til Enhetsregisteret
+2. bruk av elektroniske identifikasjonsmidler fra andre EØS-stater ved melding til Enhetsregisteret og om offentliggjøring av hvilke identifikasjonsmidler som kan benyttes.
 
 ## Kapittel 6. Kontroll av meldinger og registrering
 
 ### § 6-1. Kontroll av meldinger til Enhetsregisteret
 
-(1) Når Enhetsregisteret mottar melding som nevnt i [kapittel 5](lov/2025-06-20-105/kap5), skal registerføreren kontrollereat meldingen og de meldte opplysningene oppfyller krav fastsatt i eller i medhold av denne loven, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og krav til hvem som skal signere meldingenat enheten oppfyller krav fastsatt i eller i medhold av lov til å bli registrert som den meldte organisasjonsformenat enhetens foretaksnavn eller navn ikke strider mot lov. Dette omfatter likevel ikke kontroll mot [foretaksnavneloven](lov/1985-06-21-79). Registerføreren skal kontrollere at foretaksnavnet til enkeltpersonforetak inneholder innehaverens etternavn og ikke inneholder annet personnavn enn innehaverens, jf. [foretaksnavneloven § 2-2 første ledd](lov/1985-06-21-79/§2-2/ledd/1) og [§ 2-4 første ledd](lov/1985-06-21-79/§2-4/ledd/1).at fysisk eller juridisk person som er meldt å ha en rolle i enheten, oppfyller krav fastsatt i eller i medhold av lov til å inneha rollenat fysisk person som er meldt å ha en rolle i enheten, ikke er ilagt konkurskarantene, idømt rettighetstap eller idømt fratakelse av den rettslige handleevnen som hindrer vedkommende i å inneha rollenat beslutning som danner grunnlag for meldt opplysning om styret, daglig leder, signatur og prokura, er truffet av kompetent organat lovbestemte krav til kjønnssammensetning i styret er oppfylt.
+(1) Når Enhetsregisteret mottar melding som nevnt i [kapittel 5](lov/2025-06-20-105/kap5), skal registerføreren kontrollere
+
+1. at meldingen og de meldte opplysningene oppfyller krav fastsatt i eller i medhold av denne loven, herunder krav til dokumentasjon eller bekreftelse av de meldte opplysningene og krav til hvem som skal signere meldingen
+2. at enheten oppfyller krav fastsatt i eller i medhold av lov til å bli registrert som den meldte organisasjonsformen
+3. at enhetens foretaksnavn eller navn ikke strider mot lov. Dette omfatter likevel ikke kontroll mot [foretaksnavneloven](lov/1985-06-21-79). Registerføreren skal kontrollere at foretaksnavnet til enkeltpersonforetak inneholder innehaverens etternavn og ikke inneholder annet personnavn enn innehaverens, jf. [foretaksnavneloven § 2-2 første ledd](lov/1985-06-21-79/§2-2/ledd/1) og [§ 2-4 første ledd](lov/1985-06-21-79/§2-4/ledd/1).
+4. at fysisk eller juridisk person som er meldt å ha en rolle i enheten, oppfyller krav fastsatt i eller i medhold av lov til å inneha rollen
+5. at fysisk person som er meldt å ha en rolle i enheten, ikke er ilagt konkurskarantene, idømt rettighetstap eller idømt fratakelse av den rettslige handleevnen som hindrer vedkommende i å inneha rollen
+6. at beslutning som danner grunnlag for meldt opplysning om styret, daglig leder, signatur og prokura, er truffet av kompetent organ
+7. at lovbestemte krav til kjønnssammensetning i styret er oppfylt.
 
 (2) Registerføreren kan kreve at enheten fremlegger den informasjon som registerføreren finner nødvendig for å gjennomføre kontrollen etter første ledd.
 
@@ -302,7 +366,11 @@ En enhets nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket me
 
 (1) Registerføreren kan registrere en påtegning dersom det er forhold ved registrerte opplysninger om enheten som tredjeparter bør gjøres kjent med. Første punktum gjelder tilsvarende dersom plikten til å sende inn melding etter [§ 5-1](lov/2025-06-20-105/§5-1) eller [§ 5-2](lov/2025-06-20-105/§5-2) ikke er oppfylt. Hvis det er registrert en påtegning etter første eller andre punktum, skal påtegningen fjernes når forholdet som begrunnet påtegningen, ikke lenger gjør seg gjeldende.
 
-(2) Registerføreren skal registrere en påtegning om at en person er avregistrert fra en rolle, dersom personen harmeldt egenfratreden fra rollen, jf. [§ 5-6 første ledd](lov/2025-06-20-105/§5-6/ledd/1)blitt ilagt konkurskarantene eller blitt idømt rettighetstap som hindrer vedkommende i å inneha rollenblitt idømt fratakelse av den rettslige handleevnen eller blitt midlertidig fratatt den rettslige handleevnen etter [vergemålsloven § 61](lov/2010-03-26-9/§61), som hindrer vedkommende i å inneha rollen.
+(2) Registerføreren skal registrere en påtegning om at en person er avregistrert fra en rolle, dersom personen har
+
+1. meldt egenfratreden fra rollen, jf. [§ 5-6 første ledd](lov/2025-06-20-105/§5-6/ledd/1)
+2. blitt ilagt konkurskarantene eller blitt idømt rettighetstap som hindrer vedkommende i å inneha rollen
+3. blitt idømt fratakelse av den rettslige handleevnen eller blitt midlertidig fratatt den rettslige handleevnen etter [vergemålsloven § 61](lov/2010-03-26-9/§61), som hindrer vedkommende i å inneha rollen.
 
 (3) Dersom en person som er registrert med en rolle i Enhetsregisteret, blir registrert som død i Folkeregisteret, skal registerføreren registrere en påtegning om dette i Enhetsregisteret.
 
@@ -388,7 +456,10 @@ Registerføreren kan stille behandlingen av en melding i bero hvis det er reist 
 
 ### § 12-1. Statens erstatningsansvar ved feil
 
-Dersom Enhetsregisteret gir feil opplysning ved utskrift eller på annen dokumenterbar måte, har den som uforskyldt lider tap, rett til erstatning av staten hvis tapet skyldesat opplysningen ikke stemmer med det som er registrert i Enhetsregisteret, eller med den meldingen som er grunnlaget for registreringen.at opplysningen som er registrert i Enhetsregisteret, er feilaktig rettet eller endret etter bestemmelsene i [§ 8-1](lov/2025-06-20-105/§8-1) eller [§ 9-2](lov/2025-06-20-105/§9-2) uten at det i den forbindelse er noe å bebreide enheten.
+Dersom Enhetsregisteret gir feil opplysning ved utskrift eller på annen dokumenterbar måte, har den som uforskyldt lider tap, rett til erstatning av staten hvis tapet skyldes
+
+1. at opplysningen ikke stemmer med det som er registrert i Enhetsregisteret, eller med den meldingen som er grunnlaget for registreringen.
+2. at opplysningen som er registrert i Enhetsregisteret, er feilaktig rettet eller endret etter bestemmelsene i [§ 8-1](lov/2025-06-20-105/§8-1) eller [§ 9-2](lov/2025-06-20-105/§9-2) uten at det i den forbindelse er noe å bebreide enheten.
 
 ## Kapittel 13. Ikrafttredelse og overgangsregler. Endringer i andre lover
 

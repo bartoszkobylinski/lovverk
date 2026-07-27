@@ -76,7 +76,12 @@ Vedtak om generell godkjenning skal angi en generell uttelling i studiepoeng. De
 
 ### § 3-1. Krav til dokumentasjon
 
-Søkeren skal legge følgende dokumenter ved en søknad om generell godkjenning av dokumentert utenlandsk utdanning:Vitnemål for fullført utenlandsk høyere utdanning.Vitnemålstillegg («Diploma Supplement») som inneholder karakterutskrift, og/eller karakterutskrift.Oversettelse til norsk eller engelsk av dokumentene nevnt i a, b og tredje ledd, dersom dokumentene er utferdiget på et annet språk enn norsk, engelsk, finsk, dansk, svensk eller islandsk. Oversettelsen må være utført av statsautorisert translatør eller oversettelsesbyrå.Vitnemål eller annen dokumentasjon på fullført skolegang som ga opptak til utdanningen nevnt i a).
+Søkeren skal legge følgende dokumenter ved en søknad om generell godkjenning av dokumentert utenlandsk utdanning:
+
+1. Vitnemål for fullført utenlandsk høyere utdanning.
+2. Vitnemålstillegg («Diploma Supplement») som inneholder karakterutskrift, og/eller karakterutskrift.
+3. Oversettelse til norsk eller engelsk av dokumentene nevnt i a, b og tredje ledd, dersom dokumentene er utferdiget på et annet språk enn norsk, engelsk, finsk, dansk, svensk eller islandsk. Oversettelsen må være utført av statsautorisert translatør eller oversettelsesbyrå.
+4. Vitnemål eller annen dokumentasjon på fullført skolegang som ga opptak til utdanningen nevnt i a).
 
 Søker som ikke benytter elektronisk ID, må legge ved gyldige identitetsdokumenter i søknaden.
 
@@ -96,7 +101,12 @@ Direktoratet skal vurdere utdanningsdokumentenes ekthet og kan be om at dokument
 
 ### § 4-1. Krav for å bli vurdert etter UVD-ordningen
 
-Personer som mangler utdanningsdokumenter, eller har mangelfull eller ikke-verifiserbar dokumentasjon for sin høyere utdanning, kan søke om generell godkjenning etter UVD-ordningen dersom de oppfyller følgende krav:de har søkt om generell godkjenning av utenlandsk høyere utdanningde har utfylt kartleggingsskjemade har dokumentert språkkompetanse i norsk, svensk, dansk eller engelskde har bevis på gyldig oppholdstillatelse.
+Personer som mangler utdanningsdokumenter, eller har mangelfull eller ikke-verifiserbar dokumentasjon for sin høyere utdanning, kan søke om generell godkjenning etter UVD-ordningen dersom de oppfyller følgende krav:
+
+1. de har søkt om generell godkjenning av utenlandsk høyere utdanning
+2. de har utfylt kartleggingsskjema
+3. de har dokumentert språkkompetanse i norsk, svensk, dansk eller engelsk
+4. de har bevis på gyldig oppholdstillatelse.
 
 ### § 4-2. Sakkyndige og saksbehandling etter UVD-ordningen
 

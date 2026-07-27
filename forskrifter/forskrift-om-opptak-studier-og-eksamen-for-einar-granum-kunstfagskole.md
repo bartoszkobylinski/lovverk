@@ -15,7 +15,7 @@ xml_hash: "7bc9144e9f2dca5ff8baa43f6321c81038ce874d514fd58827d8ea073ab71413"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,9 +88,13 @@ Fagskolen bekjentgjør søknadsfrister på skolens nettside. Fagskolen benytter 
 
 ### § 2-7. Søkere med utenlandsk utdanning
 
-1\) *Søkere fra land i Norden*Søkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
+1\) *Søkere fra land i Norden*
 
-2\) *Søkere fra land utenfor Norden*Søkere fra land utenfor Norden med bestått og fullført videregående opplæring må dokumentere kunnskaper i norsk.
+Søkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
+
+2\) *Søkere fra land utenfor Norden*
+
+Søkere fra land utenfor Norden med bestått og fullført videregående opplæring må dokumentere kunnskaper i norsk.
 
 ### § 2-8. Krav til norskkunnskaper
 
@@ -122,7 +126,11 @@ Vedtak om opptak kan påklages. Klagen fremsettes til fagskolens rektor.
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
-Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i emne-/fagplanen eller studieplanen.Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, jf. studiekontrakt.Studenten ikke har mistet retten til å gå opp til eksamen.
+Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+1. Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i emne-/fagplanen eller studieplanen.
+2. Studenten har betalt skolepenger og semesteravgift innen fastsatte frister, jf. studiekontrakt.
+3. Studenten ikke har mistet retten til å gå opp til eksamen.
 
 ### § 3-3. Bortvisning fra eksamen/avsluttende vurdering og sensur
 
@@ -148,7 +156,11 @@ Studenter som kommer for sent til eksamen/sensur kan nektes adgang til eksamensl
 
 ### § 3-7. Avsluttende vurdering av studentene/vurderingsuttrykk
 
-1\) I henhold til fagskoleforskrift § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått.Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
+1\) I henhold til fagskoleforskrift § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått.
+
+Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.
+
+Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
 
 2\) Vurderingen fastsettes på grunnlag av en helhetlig vurdering/bedømming av studentens arbeid, og skal gjenspeile studentens kunnskap, ferdigheter og generell kompetanse i forhold til fagskolens læringsutbyttebeskrivelser ut fra det Nasjonalt kvalifikasjonsrammeverk NKR på nivå 5.2.
 

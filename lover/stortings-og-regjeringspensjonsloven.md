@@ -158,7 +158,11 @@ Full alderspensjon gis etter 12 års opptjeningstid, og den utgjør 66 prosent a
 
 Reglene om levealdersjustering og garantert pensjonsnivå i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§§ 24](lov/1949-07-28-26/§24), [24 a](lov/1949-07-28-26/§24a), [24 b](lov/1949-07-28-26/§24b) og [24 c](lov/1949-07-28-26/§24c) gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full tjenestetid fastsettes etter første ledd.
 
-Pensjon som tas ut etter [§ 3-4](lov/2011-12-16-60/§3-4) tredje ledd, beregnes slik:Det tas utgangspunkt i summen av årlig alderspensjon etter [§ 3-6](lov/2011-12-16-60/§3-6) første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se [§ 3-5](lov/2011-12-16-60/§3-5).Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.
+Pensjon som tas ut etter [§ 3-4](lov/2011-12-16-60/§3-4) tredje ledd, beregnes slik:
+
+1. Det tas utgangspunkt i summen av årlig alderspensjon etter [§ 3-6](lov/2011-12-16-60/§3-6) første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se [§ 3-5](lov/2011-12-16-60/§3-5).
+2. Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.
+3. Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.
 
 Dersom det er opptjent rett til tjenestepensjon som omfattes av [lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.
 
@@ -216,7 +220,11 @@ Full alderspensjon gis etter 6 års opptjeningstid, og den utgjør 57 prosent av
 
 Reglene om levealdersjustering og garantert pensjonsnivå i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§§ 24](lov/1949-07-28-26/§24), [24 a](lov/1949-07-28-26/§24a), [24 b](lov/1949-07-28-26/§24b) og [24 c](lov/1949-07-28-26/§24c) gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full opptjeningstid og pensjonsprosent fastsettes etter første ledd.
 
-Pensjon som tas ut etter [§ 4-4](lov/2011-12-16-60/§4-4) andre ledd, beregnes slik:Det tas utgangspunkt i summen av årlig alderspensjon etter [§ 4-6](lov/2011-12-16-60/§4-6) første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se [§ 4-4](lov/2011-12-16-60/§4-4).Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.
+Pensjon som tas ut etter [§ 4-4](lov/2011-12-16-60/§4-4) andre ledd, beregnes slik:
+
+1. Det tas utgangspunkt i summen av årlig alderspensjon etter [§ 4-6](lov/2011-12-16-60/§4-6) første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se [§ 4-4](lov/2011-12-16-60/§4-4).
+2. Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.
+3. Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.
 
 Dersom det er opptjent rett til tjenestepensjon som omfattes av [lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.
 
@@ -254,7 +262,11 @@ Reglene om midlertidig uførepensjon og uførepensjon i lov [28. juli 1949 nr. 2
 
 Midlertidig uførepensjon og uførepensjon gis når et medlem må fratre vervet som stortingsrepresentant eller stilling som regjeringsmedlem på grunn av sykdom, skade eller lyte, og vedkommende er under 65 år.
 
-Den som blir ufør etter at vervet som stortingsrepresentant eller stilling som regjeringsmedlem er fratrådt, har rett til uførepensjon etter samme uføregrad som i folketrygden når vedkommendehar rett til uføretrygd etter [folketrygdloven](lov/1997-02-28-19),har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, oger under 65 år.
+Den som blir ufør etter at vervet som stortingsrepresentant eller stilling som regjeringsmedlem er fratrådt, har rett til uførepensjon etter samme uføregrad som i folketrygden når vedkommende
+
+1. har rett til uføretrygd etter [folketrygdloven](lov/1997-02-28-19),
+2. har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, og
+3. er under 65 år.
 
 > Endret ved [lov 7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)).
 
@@ -272,7 +284,10 @@ Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.
 
 Som opptjeningstid regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For den som omfattes av [§ 5-3](lov/2011-12-16-60/§5-3) første ledd, skal tiden fram til fylte 65 år regnes med i opptjeningstiden.
 
-Opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved atopptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, ogopptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.
+Opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved at
+
+1. opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og
+2. opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.
 
 [Lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 19](lov/1949-07-28-26/§19) første ledd om avrunding av opptjeningstid gjelder tilsvarende.
 
@@ -324,7 +339,10 @@ Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.
 
 Som opptjeningstid ved beregning av etterlattepensjon regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For tilfeller der retten til etterlattepensjon følger av [§ 6-3](lov/2011-12-16-60/§6-3) første ledd, regnes tiden som avdøde ville ha fått ved å fortsette i vervet eller stillingen fram til fylte 65 år med i opptjeningstiden.
 
-Opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved atopptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, ogopptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.
+Opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved at
+
+1. opptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, og
+2. opptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.
 
 [Lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 19](lov/1949-07-28-26/§19) første ledd om avrunding av opptjeningstid gjelder tilsvarende.
 
@@ -424,7 +442,10 @@ Fra samme tidspunkt oppheves [lov 14. desember 1951 nr. 11](lov/1951-12-14-11) o
 
 ### § 9-2. Overgangsbestemmelser
 
-Det godskrives opptjening etter bestemmelsene i kapittel 2 i perioden 1. oktober 2009 til 31. desember 2011 til dem som i denne perioden er eller har værtstortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter [lov 12. juni 1981 nr. 61](lov/1981-06-12-61) om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter [lov 14. desember 1951 nr. 11](lov/1951-12-14-11) om pensjonsordning for statsråder før 1. januar 2012.
+Det godskrives opptjening etter bestemmelsene i kapittel 2 i perioden 1. oktober 2009 til 31. desember 2011 til dem som i denne perioden er eller har vært
+
+1. stortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter [lov 12. juni 1981 nr. 61](lov/1981-06-12-61) om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,
+2. regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter [lov 14. desember 1951 nr. 11](lov/1951-12-14-11) om pensjonsordning for statsråder før 1. januar 2012.
 
 Ved vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i [lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser [§ 6](lov/1957-07-06-26/§6) om sammenlegging av tjenestetid.
 

@@ -15,7 +15,7 @@ xml_hash: "c49d59424bb9243ed12cba24edffd54b431638290231c1757277bb8a727cc32f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,9 +74,18 @@ Bufdir avgjør om det skal gis tilskudd etter en skjønnsmessig vurdering av sø
 
 Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av de søknadene som er kommet inn for tilskuddsåret og antall studiepoeng i utdanningen.
 
-Tilskudd skal tildeles til de enkelte søkerne etter følgende prioriteringsrekkefølge:kommunalt barnevernprivate barnevernsinstitusjonerstatlig barnevernsinstitusjoner.
+Tilskudd skal tildeles til de enkelte søkerne etter følgende prioriteringsrekkefølge:
 
-Ved prioritering av søknader vil direktoratet, ut fra en helhetlig vurdering, legge vekt på følgende kriterier:Søkernes beskrivelse av barnevernstjenestens eller institusjonens behov for økt kompetanse.Ledere og stedfortredere i barnevernstjenester og barnevernsinstitusjoner som er omfattet av kompetansekravet som trer i kraft i 2031, og som mangler relevant utdanning utover bachelor.Søknader som har en god plan for tilrettelegging av studieløpet.Søknader som inneholder konkrete tiltak for å beholde kompetente medarbeidere etter fullført utdanning.
+1. kommunalt barnevern
+2. private barnevernsinstitusjoner
+3. statlig barnevernsinstitusjoner.
+
+Ved prioritering av søknader vil direktoratet, ut fra en helhetlig vurdering, legge vekt på følgende kriterier:
+
+- Søkernes beskrivelse av barnevernstjenestens eller institusjonens behov for økt kompetanse.
+- Ledere og stedfortredere i barnevernstjenester og barnevernsinstitusjoner som er omfattet av kompetansekravet som trer i kraft i 2031, og som mangler relevant utdanning utover bachelor.
+- Søknader som har en god plan for tilrettelegging av studieløpet.
+- Søknader som inneholder konkrete tiltak for å beholde kompetente medarbeidere etter fullført utdanning.
 
 > Endret ved forskrift [20 feb 2026 nr. 261](forskrift/2026-02-20-261) (tidligere § 4).
 
@@ -86,7 +95,11 @@ Arbeidsgiver som får tilskudd for ansattes deltakelse på videreutdanning, plik
 
 Videreutdanningen må fullføres i henhold til angitt tidsplan og med planlagt antall studiepoeng.
 
-Midlene kan benyttes til:vikarutgifter,reise- og oppholdskostnaderlitteraturkjøp o.l.
+Midlene kan benyttes til:
+
+1. vikarutgifter,
+2. reise- og oppholdskostnader
+3. litteraturkjøp o.l.
 
 > Endret ved forskrift [20 feb 2026 nr. 261](forskrift/2026-02-20-261) (tidligere § 5).
 
@@ -132,7 +145,11 @@ Tilskuddsmottaker skal legge fram opplysninger på forespørsel, og skal bidra t
 
 ## § 13. Sanksjoner ved brudd på regelverket
 
-Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:mottakeren av tilskuddet gir ufullstendige eller ukorrekte opplysninger,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker tilskuddet i samsvar med forskriften og vedtaket om tilskudd.
+Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:
+
+- mottakeren av tilskuddet gir ufullstendige eller ukorrekte opplysninger,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+- mottakeren ikke bruker tilskuddet i samsvar med forskriften og vedtaket om tilskudd.
 
 En tilskuddsmottaker som har brutt regelverket, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved denne vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
 

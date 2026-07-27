@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Denne forskriften gjelder for følgende fiskefartøy som oppholder seg i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard:Fiskefartøy over 24 meter største lengde som fører flagg fra Russland, Færøyene, Grønland og IslandFiskefartøy over 12 meter største lenge som fører flagg fra medlemsstater i Den europeiske unionFiskefartøy som fører flagg fra IslandFiskefartøy over 12 meter største lengde som fører flagg fra StorbritanniaØvrige utenlandske fiskefartøy uavhengig av lengde.
+Denne forskriften gjelder for følgende fiskefartøy som oppholder seg i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard:
+
+1. Fiskefartøy over 24 meter største lengde som fører flagg fra Russland, Færøyene, Grønland og Island
+2. Fiskefartøy over 12 meter største lenge som fører flagg fra medlemsstater i Den europeiske union
+3. Fiskefartøy som fører flagg fra Island
+4. Fiskefartøy over 12 meter største lengde som fører flagg fra Storbritannia
+5. Øvrige utenlandske fiskefartøy uavhengig av lengde.
 
 Med fiskefartøy forstås fartøy av ethvert slag som er utstyrt for eller driver fiske og fangst i ervervsøyemed, eller fartøy som bistår fiskeflåten, herunder transportfartøy som mottar fangst og lete- og forsøksfartøy.
 
@@ -38,7 +44,12 @@ Sporingsutstyret skal automatisk sende fortløpende meldinger i maskinlesbar for
 
 Når et fartøy har sendt automatiske posisjonsmeldinger i henhold til første og annet ledd fra samme posisjon i mer enn fire timer, kan slike meldinger sendes med en hyppighet på minst en gang hver tolvte time.
 
-Meldingen skal inneholde følgende:entydig identifikasjon av fartøyet,fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99%,dato og tidspunkt for fartøyets posisjon,fart og kurs i rapporteringsøyeblikket.
+Meldingen skal inneholde følgende:
+
+1. entydig identifikasjon av fartøyet,
+2. fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99%,
+3. dato og tidspunkt for fartøyets posisjon,
+4. fart og kurs i rapporteringsøyeblikket.
 
 Fiskeridirektoratet kan fastsette nærmere regler om vidererapportering til Fiskeridirektoratet av meldinger i henhold til denne bestemmelse.
 
@@ -56,7 +67,12 @@ I en overgangsperiode kan Fiskeridirektoratet etter særskilt søknad godkjenne 
 
 Det er forbudt å slå av, skade, ødelegge eller på annen måte manipulere satellittsporingsutstyret.
 
-Ansvarshavende om bord på fartøyet skal påse at:dataene ikke blir endret,antenner som er tilkoblet satellittsporingsutstyret ikke blokkeres,strømforsyningen til satellittsporingsutstyret ikke brytes,satellittsporingsutstyret ikke fjernes fra fartøyet.
+Ansvarshavende om bord på fartøyet skal påse at:
+
+1. dataene ikke blir endret,
+2. antenner som er tilkoblet satellittsporingsutstyret ikke blokkeres,
+3. strømforsyningen til satellittsporingsutstyret ikke brytes,
+4. satellittsporingsutstyret ikke fjernes fra fartøyet.
 
 > Tilføyd ved [forskrift 9 juli 2004 nr. 1119](forskrift/2004-07-09-1119).
 

@@ -26,7 +26,10 @@ eu_basis: []
 
 Denne forskriften fastsetter hovedleder og bileder etter havne- og farvannsloven.
 
-Hvilke farleder som er hovedleder og bileder fremkommer i Kystverkets digitale kart [Kystinfo](https://kystinfo.no/gjeldende_farledsforskrift_2024). Kystinfo gjelder som en del av denne forskriften, og angirhovedledenes og biledenes arealmessige utstrekning, oghovedledenes og biledenes ledstreker med angivelse av lednummer.
+Hvilke farleder som er hovedleder og bileder fremkommer i Kystverkets digitale kart [Kystinfo](https://kystinfo.no/gjeldende_farledsforskrift_2024). Kystinfo gjelder som en del av denne forskriften, og angir
+
+1. hovedledenes og biledenes arealmessige utstrekning, og
+2. hovedledenes og biledenes ledstreker med angivelse av lednummer.
 
 Alle koordinater er oppgitt i koordinatsystemet WGS84.
 

@@ -15,7 +15,7 @@ xml_hash: "afac4518c040a333eeafe52f20246f1eecfe2029d479c4b99432d0b0268a112b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Perioden for tilskuddsberegning etter denne forskriften (tilskuddsåret) er rein
 
 ## § 3. Generelle vilkår for tilskudd
 
-Tilskudd etter denne forskriften kan innvilges til reinlag eller leder av siidaandel dersom:Reinlaget eller leder av siidaandel har levert melding om reindrift for tilskuddsåret, ogreinlaget eller leder av siidaandel har hatt en avgiftspliktig salgsinntekt fra salg av kjøtt fra rein i eget merke på minimum 50 000 kroner eksklusiv merverdiavgift det siste kalenderåret. Inntekter fra rein som er slaktet eller omsatt utenfor Norge regnes ikke som avgiftspliktig salgsinntekt etter denne forskriften, med mindre reinen omfattes av ordningen for utenlands bearbeiding, ogleder av siidaandelen ikke mottar alderspensjon etter folketrygdens regler i driftsåret søknaden gjelder. I felles siidaandel kan likevel eldste ektefelle eller samboer motta alderspensjon.
+Tilskudd etter denne forskriften kan innvilges til reinlag eller leder av siidaandel dersom:
+
+1. Reinlaget eller leder av siidaandel har levert melding om reindrift for tilskuddsåret, og
+2. reinlaget eller leder av siidaandel har hatt en avgiftspliktig salgsinntekt fra salg av kjøtt fra rein i eget merke på minimum 50 000 kroner eksklusiv merverdiavgift det siste kalenderåret. Inntekter fra rein som er slaktet eller omsatt utenfor Norge regnes ikke som avgiftspliktig salgsinntekt etter denne forskriften, med mindre reinen omfattes av ordningen for utenlands bearbeiding, og
+3. leder av siidaandelen ikke mottar alderspensjon etter folketrygdens regler i driftsåret søknaden gjelder. I felles siidaandel kan likevel eldste ektefelle eller samboer motta alderspensjon.
 
 Sideordnede rekrutteringsandeler kan ikke innvilges tilskudd etter denne forskriften.
 
@@ -44,15 +48,27 @@ Sideordnede rekrutteringsandeler kan ikke innvilges tilskudd etter denne forskri
 
 Det er et vilkår for å motta tilskudd at siidaens reintall per 31. mars i tilskuddsåret er i samsvar med øvre reintall fastsatt i godkjente bruksregler.
 
-Hvis reintallet i siidaen overskrider fastsatt øvre reintall, kan leder av siidaandelen likevel få tilskudd dersom:siidaandelen er i en reduksjonsprosess etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til reduksjonsplan, ellersiidaen har fastsatt øvre reintall per siidaandel i henhold til [reindriftsloven § 60 tredje ledd](lov/2007-06-15-40/§60/ledd/3) der summen av siidaandelenes reintall ikke overskrider siidaens fastsatte øvre reintall, og siidaandelens reintall er i henhold til dette, ellersiidaandelen ikke omfattes av bokstavene a eller b, og ikke har økt sitt reintall fra det reintall som siidaandelen hadde i året før siidaen overskred fastsatt øvre reintall.
+Hvis reintallet i siidaen overskrider fastsatt øvre reintall, kan leder av siidaandelen likevel få tilskudd dersom:
+
+1. siidaandelen er i en reduksjonsprosess etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til reduksjonsplan, eller
+2. siidaen har fastsatt øvre reintall per siidaandel i henhold til [reindriftsloven § 60 tredje ledd](lov/2007-06-15-40/§60/ledd/3) der summen av siidaandelenes reintall ikke overskrider siidaens fastsatte øvre reintall, og siidaandelens reintall er i henhold til dette, eller
+3. siidaandelen ikke omfattes av bokstavene a eller b, og ikke har økt sitt reintall fra det reintall som siidaandelen hadde i året før siidaen overskred fastsatt øvre reintall.
 
 > Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [18 des 2025 nr. 2675](forskrift/2025-12-18-2675), [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
 
 ## § 5. Utmåling av tilskudd
 
-Dersom siidaandelene har fått fastsatt et øvre reintall, og siidaandelen ikke oppfyller vilkårene om reintall i [§ 4 andre ledd bokstav a](forskrift/2019-06-20-865/§4/ledd/2/bokstav/a) eller [b](forskrift/2019-06-20-865/§4/ledd/2/bokstav/b), kan leder av siidaandelen likevel få tilskudd etter følgende beregning:ved overskridelser mellom 1 og 10 rein, reduseres tilskuddet med 1500 kroner per rein som overskrider siidaandelens fastsatte reintall,ved overskridelser mellom 11 og 20 rein, reduseres tilskuddet med 3000 kroner per rein som overskrider siidaandelens fastsatte reintall,ved overskridelser mellom 21 og 30 rein reduseres tilskuddet med 4500 kroner per rein som overskrider siidaandelens fastsatte reintall.
+Dersom siidaandelene har fått fastsatt et øvre reintall, og siidaandelen ikke oppfyller vilkårene om reintall i [§ 4 andre ledd bokstav a](forskrift/2019-06-20-865/§4/ledd/2/bokstav/a) eller [b](forskrift/2019-06-20-865/§4/ledd/2/bokstav/b), kan leder av siidaandelen likevel få tilskudd etter følgende beregning:
 
-Dersom siidandelene ikke har fått fastsatt et øvre reintall, og siidaandelen har økt sitt reintall i strid med [§ 4 andre ledd bokstav c](forskrift/2019-06-20-865/§4/ledd/2/bokstav/c) kan leder av siidaandelen likevel få tilskudd etter følgende beregning:ved økning mellom 1 og 10 rein, reduseres tilskuddet med 1500 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 11 og 20 rein, reduseres tilskuddet med 3000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 21 og 30 rein reduseres tilskuddet med 4500 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall.
+1. ved overskridelser mellom 1 og 10 rein, reduseres tilskuddet med 1500 kroner per rein som overskrider siidaandelens fastsatte reintall,
+2. ved overskridelser mellom 11 og 20 rein, reduseres tilskuddet med 3000 kroner per rein som overskrider siidaandelens fastsatte reintall,
+3. ved overskridelser mellom 21 og 30 rein reduseres tilskuddet med 4500 kroner per rein som overskrider siidaandelens fastsatte reintall.
+
+Dersom siidandelene ikke har fått fastsatt et øvre reintall, og siidaandelen har økt sitt reintall i strid med [§ 4 andre ledd bokstav c](forskrift/2019-06-20-865/§4/ledd/2/bokstav/c) kan leder av siidaandelen likevel få tilskudd etter følgende beregning:
+
+1. ved økning mellom 1 og 10 rein, reduseres tilskuddet med 1500 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,
+2. ved økning mellom 11 og 20 rein, reduseres tilskuddet med 3000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,
+3. ved økning mellom 21 og 30 rein reduseres tilskuddet med 4500 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall.
 
 Ved overskridelser eller økning av reintallet på mer enn 30 rein kan det ikke innvilges tilskudd.
 

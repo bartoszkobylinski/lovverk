@@ -15,7 +15,7 @@ xml_hash: "8b985eeea41f22ca4c5a76362c3c371b97efb26e67c890f4453546d8c860f91a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Formål
 
-Forskriften skal sikre en bred, åpen og tilgjengelig medvirkning fraeldre gjennom eldrerådet i alle saker som gjelder dempersoner med funksjonsnedsettelse gjennom rådet for personer med funksjonsnedsettelse i alle saker som gjelder demungdom gjennom ungdomsrådet eller annet medvirkningsorgan for ungdom i alle saker som gjelder dem.
+Forskriften skal sikre en bred, åpen og tilgjengelig medvirkning fra
+
+1. eldre gjennom eldrerådet i alle saker som gjelder dem
+2. personer med funksjonsnedsettelse gjennom rådet for personer med funksjonsnedsettelse i alle saker som gjelder dem
+3. ungdom gjennom ungdomsrådet eller annet medvirkningsorgan for ungdom i alle saker som gjelder dem.
 
 ## § 2. Oppgaver
 

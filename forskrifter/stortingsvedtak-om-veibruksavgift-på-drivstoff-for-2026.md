@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. april, eller dersom strengt nødvendig fra den tid regjeringen bestemmer, men ikke senere enn 1. mai, til 1. september 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales veibruksavgift til statskassen for innførsel og innenlandsk produksjon av følgende drivstoff:bensin per liter: kr 0mineralolje til fremdrift av motorvogn (autodiesel) per liter: kr 0naturgass per Sm3: kr 0LPG per kg: kr 0bioetanol per liter: kr 0biodiesel per liter: kr 0.
+Fra 1. april, eller dersom strengt nødvendig fra den tid regjeringen bestemmer, men ikke senere enn 1. mai, til 1. september 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales veibruksavgift til statskassen for innførsel og innenlandsk produksjon av følgende drivstoff:
+
+1. bensin per liter: kr 0
+2. mineralolje til fremdrift av motorvogn (autodiesel) per liter: kr 0
+3. naturgass per Sm3: kr 0
+4. LPG per kg: kr 0
+5. bioetanol per liter: kr 0
+6. biodiesel per liter: kr 0.
 
 Andel biogass innblandet i naturgass og LPG inngår ikke i avgiftsgrunnlaget ved beregningen av avgiften etter første ledd bokstav c og d.
 
@@ -38,27 +45,67 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 Olje som er merket i samsvar med forskrift fastsatt av departementet, skal ikke ilegges avgift etter § 1 første ledd bokstav b og f.
 
-Departementet kan bestemme atfritak for avgiftsplikten kan skje på annen måte enn ved bruk av merket oljeavgift skal betales ved bruk av merket olje.
+Departementet kan bestemme at
+
+1. fritak for avgiftsplikten kan skje på annen måte enn ved bruk av merket olje
+2. avgift skal betales ved bruk av merket olje.
 
 ## § 3.
 
-På vilkår fastsatt av departementet kan det benyttes merket oljei følgende motorvogner:traktorermotorvogner registrert på kjennemerker med lysegule tegn på sort bunnmotorredskapertilhørende Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhettilhørende NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.til annen bruk enn fremdrift av motorvogn.
+På vilkår fastsatt av departementet kan det benyttes merket olje
+
+1. i følgende motorvogner:
+
+   1. traktorer
+   2. motorvogner registrert på kjennemerker med lysegule tegn på sort bunn
+   3. motorredskaper
+   4. tilhørende Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhet
+   5. tilhørende NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
+2. til annen bruk enn fremdrift av motorvogn.
 
 ## § 4.
 
-Det gis fritak for avgift på drivstoff somutføres til utlandetlegges inn på tollager når varene er bestemt til utførselinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetleveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til registrert virksomhets lager.
+Det gis fritak for avgift på drivstoff som
+
+1. utføres til utlandet
+2. legges inn på tollager når varene er bestemt til utførsel
+3. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+4. leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+5. kommer i retur til registrert virksomhets lager.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 
 ## § 5.
 
-Det gis fritak eller ytes tilskudd for avgift på bensin sombrukes i luftfartøy, unntatt Forsvarets luftfartøybrukes til teknisk og medisinsk formålbrukes i båter og snøscootere i veiløse strøkbrukes i motorsager og andre arbeidsredskaper med totaktsmotor dersom bensinen har særlige helse- og miljømessige egenskaperer gjenvunnet i VRU-anlegg (Vapour Recovery Unit).
+Det gis fritak eller ytes tilskudd for avgift på bensin som
+
+1. brukes i luftfartøy, unntatt Forsvarets luftfartøy
+2. brukes til teknisk og medisinsk formål
+3. brukes i båter og snøscootere i veiløse strøk
+4. brukes i motorsager og andre arbeidsredskaper med totaktsmotor dersom bensinen har særlige helse- og miljømessige egenskaper
+5. er gjenvunnet i VRU-anlegg (Vapour Recovery Unit).
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 
 ## § 6.
 
-Det gis fritak for avgift på naturgass, LPG og bioetanoltil bruk i følgende motorvogner:traktorermotorvogner registrert på kjennemerker med lysegule tegn på sort bunnmotorredskapertilhørende Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhettilhørende NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.til annen bruk enn fremdrift av motorvogn.
+Det gis fritak for avgift på naturgass, LPG og bioetanol
+
+1. til bruk i følgende motorvogner:
+
+   1. traktorer
+   2. motorvogner registrert på kjennemerker med lysegule tegn på sort bunn
+   3. motorredskaper
+   4. tilhørende Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhet
+   5. tilhørende NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred.
+2. til annen bruk enn fremdrift av motorvogn.
 
 Departementet kan gi forskrift om gjennomføring, avgrensning av og vilkår for fritak.
 

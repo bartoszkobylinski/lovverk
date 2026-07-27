@@ -15,7 +15,7 @@ xml_hash: "36bc683dbef82f985d0b29e9cd7a5a9fba6c01fb166afa4319ce9a3eff4b85fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## I.
 
-I medhold av [lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om [lov om endringer i lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing og i en del andre lover del VII (1) bestemmes:[Lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om endringer i [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing og i en del andre lover trer i kraft 1. januar 1981.Lovens del V, om endring i [lov 13. mai 1977 nr. 35](lov/1977-05-13-35) om regnskapsplikt mv. § 16 fjerde og følgende ledd og del VI om endring i [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre [§ 4](lov/1978-06-02-37/§4) nr. 2 for så vidt gjelder tinglyst salgspant i henhold til panteloven § 3 – 17 tredje ledd, trer likevel ikke inntil videre ikke i kraft.Kongens myndighet etter lovens del VII (1) legges til Justisdepartementet for så vidt gjelder ikraftsetting av de deler av loven som er nevnt under pkt. 2 foran.
+I medhold av [lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om [lov om endringer i lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing og i en del andre lover del VII (1) bestemmes:
+
+1. [Lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om endringer i [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing og i en del andre lover trer i kraft 1. januar 1981.
+2. Lovens del V, om endring i [lov 13. mai 1977 nr. 35](lov/1977-05-13-35) om regnskapsplikt mv. § 16 fjerde og følgende ledd og del VI om endring i [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre [§ 4](lov/1978-06-02-37/§4) nr. 2 for så vidt gjelder tinglyst salgspant i henhold til panteloven § 3 – 17 tredje ledd, trer likevel ikke inntil videre ikke i kraft.
+3. Kongens myndighet etter lovens del VII (1) legges til Justisdepartementet for så vidt gjelder ikraftsetting av de deler av loven som er nevnt under pkt. 2 foran.
 
 ## II.1
 

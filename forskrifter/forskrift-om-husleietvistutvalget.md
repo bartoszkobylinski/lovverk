@@ -48,7 +48,13 @@ Husleietvistutvalget behandler tvister om leie av bolig som ligger i Norge, heru
 
 (5) Et medlem som mener det er inhabilt i en sak, skal si fra så snart som mulig etter innkallingen til møtet. Medlemmet skal ikke delta i behandlingen av saken. Et medlem skal heller ikke delta i behandlingen av en sak der saksleder mener medlemmet er inhabilt.
 
-(6) Saksleder kan treffe vedtak alene når:den innklagede har unnlatt å gi tilsvar, ellerden innklagede i tilsvar uttrykkelig har erkjent kravet, ellersaken gjelder formuesverdier og tvistesummen er 150 000 kroner eller lavere. For fastsettelse av tvistesummen gjelder bestemmelsene i [tvisteloven kapittel 17](lov/2005-06-17-90/kap17) tilsvarende så langt de passer.Ved saksleders vurdering av om saken skal avgjøres av saksleder alene, skal det særlig legges vekt på om kravene har grunnlag i et pågående leieforhold. Saker med krav om oppsigelse etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8), heving etter [§ 9-9](lov/1999-03-26-17/§9-9) og fastsettelse av gjengs leie etter [§ 4-3](lov/1999-03-26-17/§4-3) skal alltid behandles av fullt utvalg, unntatt når den innklagede i tilsvar uttrykkelig har erkjent kravet.
+(6) Saksleder kan treffe vedtak alene når:
+
+1. den innklagede har unnlatt å gi tilsvar, eller
+2. den innklagede i tilsvar uttrykkelig har erkjent kravet, eller
+3. saken gjelder formuesverdier og tvistesummen er 150 000 kroner eller lavere. For fastsettelse av tvistesummen gjelder bestemmelsene i [tvisteloven kapittel 17](lov/2005-06-17-90/kap17) tilsvarende så langt de passer.
+
+Ved saksleders vurdering av om saken skal avgjøres av saksleder alene, skal det særlig legges vekt på om kravene har grunnlag i et pågående leieforhold. Saker med krav om oppsigelse etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8), heving etter [§ 9-9](lov/1999-03-26-17/§9-9) og fastsettelse av gjengs leie etter [§ 4-3](lov/1999-03-26-17/§4-3) skal alltid behandles av fullt utvalg, unntatt når den innklagede i tilsvar uttrykkelig har erkjent kravet.
 
 > Endret ved forskrifter [22 juni 2021 nr. 2124](forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [19 des 2023 nr. 2160](forskrift/2023-12-19-2160) (i kraft 1 jan 2024), [6 mars 2026 nr. 357](forskrift/2026-03-06-357).
 
@@ -84,7 +90,13 @@ Husleietvistutvalget behandler tvister om leie av bolig som ligger i Norge, heru
 
 (1) Etter å ha mottatt og registrert en klage, skal Husleietvistutvalget utpeke en saksleder som har ansvaret for forberedelsen av saken.
 
-(2) Sakslederen skal avvise saken dersomtvisten ligger utenfor Husleietvistutvalgets virkeområdeklageren ikke er klageberettigetklagen ikke oppfyller vilkårene i [§ 6](forskrift/2016-06-21-765/§6)tvisten ikke kan behandles av utvalget av andre grunner, for eksempel fordi det vil være i strid med [§ 16](forskrift/2016-06-21-765/§16) eller [§ 17](forskrift/2016-06-21-765/§17) eller tvisten allerede er rettskraftig avgjortgebyret etter [§ 18](forskrift/2016-06-21-765/§18) annet ledd ikke blir betalt.
+(2) Sakslederen skal avvise saken dersom
+
+1. tvisten ligger utenfor Husleietvistutvalgets virkeområde
+2. klageren ikke er klageberettiget
+3. klagen ikke oppfyller vilkårene i [§ 6](forskrift/2016-06-21-765/§6)
+4. tvisten ikke kan behandles av utvalget av andre grunner, for eksempel fordi det vil være i strid med [§ 16](forskrift/2016-06-21-765/§16) eller [§ 17](forskrift/2016-06-21-765/§17) eller tvisten allerede er rettskraftig avgjort
+5. gebyret etter [§ 18](forskrift/2016-06-21-765/§18) annet ledd ikke blir betalt.
 
 (3) Har klagen mangler som kan avhjelpes, skal Husleietvistutvalget sette en frist for retting eller endring.
 
@@ -152,7 +164,12 @@ Vil en part møte med advokat eller annen person som fullmektig eller medhjelper
 
 (7) Reglene om gjenåpning i [tvisteloven kapittel 31](lov/2005-06-17-90/kap31) gjelder tilsvarende så langt de passer for saker ved Husleietvistutvalget. Begjæring om gjenåpning fremmes for Husleietvistutvalget.
 
-(8) Dersom et vedtak i en sak er truffet på grunnlag av bestemmelsen i § 4 (6) bokstav a, kan Husleietvistutvalget etter krav fra en part oppfriske saken dersomdet er sannsynliggjort at tilsvar har blitt fremsatt for Husleietvistutvalget innen tilsvarsfristens utløp, ellerparten sannsynliggjør at tilsvar ikke er inngitt som følge av en gyldig passivitetsgrunn, jf. § 12 (5) siste punktum.Krav etter denne bestemmelsen må fremsettes for Husleietvistutvalget innen én måned etter at vedtaket er forkynt. Husleietvistutvalgets avgjørelse om oppfriskning etter denne bestemmelsen treffes ved skriftlig vedtak. Et vedtak som går ut på at saken skal oppfriskes etter denne bestemmelse, kan ikke påklages eller kreves overprøvd for tingretten ved stevning.
+(8) Dersom et vedtak i en sak er truffet på grunnlag av bestemmelsen i § 4 (6) bokstav a, kan Husleietvistutvalget etter krav fra en part oppfriske saken dersom
+
+1. det er sannsynliggjort at tilsvar har blitt fremsatt for Husleietvistutvalget innen tilsvarsfristens utløp, eller
+2. parten sannsynliggjør at tilsvar ikke er inngitt som følge av en gyldig passivitetsgrunn, jf. § 12 (5) siste punktum.
+
+Krav etter denne bestemmelsen må fremsettes for Husleietvistutvalget innen én måned etter at vedtaket er forkynt. Husleietvistutvalgets avgjørelse om oppfriskning etter denne bestemmelsen treffes ved skriftlig vedtak. Et vedtak som går ut på at saken skal oppfriskes etter denne bestemmelse, kan ikke påklages eller kreves overprøvd for tingretten ved stevning.
 
 > Endret ved forskrifter [22 juni 2021 nr. 2124](forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [19 des 2023 nr. 2160](forskrift/2023-12-19-2160) (i kraft 1 jan 2024).
 

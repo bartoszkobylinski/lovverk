@@ -15,7 +15,7 @@ xml_hash: "a43be4726903176c6426cf936b8416d71ba034b0ae3e2c9578f4ffa9edb2bf45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Formålet med forskriften er å sikre at kjøretøy i gruppe L som godkjennes iv
 
 ### § 2. Virkeområde
 
-Forskriftenfastsetter administrative bestemmelser og tekniske krav i forbindelse med førstegangsgodkjenning i Norge av kjøretøy i gruppe L og av systemer, komponenter og separate tekniske enheter til disse,stiller krav til teknisk stand for kjøretøy i gruppe L og tilhenger i bruk,stiller krav ved reparasjon, ombygging med mer.
+Forskriften
+
+- fastsetter administrative bestemmelser og tekniske krav i forbindelse med førstegangsgodkjenning i Norge av kjøretøy i gruppe L og av systemer, komponenter og separate tekniske enheter til disse,
+- stiller krav til teknisk stand for kjøretøy i gruppe L og tilhenger i bruk,
+- stiller krav ved reparasjon, ombygging med mer.
 
 ### § 3. Forordninger for godkjenning av kjøretøy i gruppe L
 
@@ -206,7 +210,11 @@ Dersom ikke annet er fastsatt i forordning [(EU) nr. 168/2013](eu/32013r0168*), 
 
 ### § 14. Tilsyn og reaksjoner
 
-Statens vegvesen fører tilsyn med utpekte prøveinstanser og kan trekke tilbake utpeking av teknisk prøveinstans for en periode eller for alltiddersom vilkårene for utpekingen ikke lenger er til stede,dersom det sannsynliggjøres at prøving eller oppfølging av produksjonen ikke utføres eller holder tilstrekkelig kvalitet, ellerved andre vesentlige brudd på regelverket.
+Statens vegvesen fører tilsyn med utpekte prøveinstanser og kan trekke tilbake utpeking av teknisk prøveinstans for en periode eller for alltid
+
+- dersom vilkårene for utpekingen ikke lenger er til stede,
+- dersom det sannsynliggjøres at prøving eller oppfølging av produksjonen ikke utføres eller holder tilstrekkelig kvalitet, eller
+- ved andre vesentlige brudd på regelverket.
 
 > Endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -238,7 +246,12 @@ Kjøretøy i gruppe L som ifølge forskrift om bruk av kjøretøy tillates brukt
 
 ### § 19. Gebyr
 
-(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 7](forskrift/2023-10-10-1650/kap7) og [8](forskrift/2023-10-10-1650/kap8):enkeltgodkjenning av kjøretøy i gruppe L (ny eller bruktimportert),godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy når dette kreves etter [§ 16](forskrift/2016-06-01-560/§16),nasjonal typegodkjenning ogEU-typegodkjenning.
+(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 7](forskrift/2023-10-10-1650/kap7) og [8](forskrift/2023-10-10-1650/kap8):
+
+1. enkeltgodkjenning av kjøretøy i gruppe L (ny eller bruktimportert),
+2. godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy når dette kreves etter [§ 16](forskrift/2016-06-01-560/§16),
+3. nasjonal typegodkjenning og
+4. EU-typegodkjenning.
 
 (2) Det skal ikke betales gebyr for klagebehandling. Det betales heller ikke gebyr for identitetssjekk eller stikkprøvekontroll av bruktimportert EU-typegodkjent kjøretøy i gruppe L (jf. [§ 10](forskrift/2016-06-01-560/§10)).
 

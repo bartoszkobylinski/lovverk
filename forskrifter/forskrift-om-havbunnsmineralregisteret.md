@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1-1. Definisjoner
 
-I denne forskrift forstås med:*[havbunnsmineralloven](lov/2019-03-22-7)*, [lov 22. mars 2019 nr. 7](lov/2019-03-22-7) om havbunnsmineralvirksomhet*[tinglysingsloven](lov/1935-06-07-2)*, [lov 7. juni 1935 nr. 2 om tinglysing](lov/1935-06-07-2)*[sjøloven](lov/1994-06-24-39)*, [lov 24. juni 1994 nr. 39 om sjøfarten](lov/1994-06-24-39)*[forvaltningsloven](lov/1967-02-10)*, [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker](lov/1967-02-10)*tillatelser*, utvinningstillatelser som nevnt i [havbunnsmineralloven § 4-1](lov/2019-03-22-7/§4-1) og særskilte tillatelser til anlegg og drift av innretninger som nevnt i [havbunnsmineralloven § 4-7](lov/2019-03-22-7/§4-7)*andel*, den ideelle andel en rettighetshaver til enhver tid har i en tillatelse og i det interessentskap som følger av den samarbeidsavtale som er knyttet til tillatelsen*innretninger*, installasjoner og anlegg m.v. som nevnt i [havbunnsmineralloven § 1-5](lov/2019-03-22-7/§1-5) b og som er utplassert i medhold av en tillatelse som nevnt i [havbunnsmineralloven §§ 4-1](lov/2019-03-22-7/§4-1) og [4-7](lov/2019-03-22-7/§4-7).
+I denne forskrift forstås med:
+
+1. *[havbunnsmineralloven](lov/2019-03-22-7)*, [lov 22. mars 2019 nr. 7](lov/2019-03-22-7) om havbunnsmineralvirksomhet
+2. *[tinglysingsloven](lov/1935-06-07-2)*, [lov 7. juni 1935 nr. 2 om tinglysing](lov/1935-06-07-2)
+3. *[sjøloven](lov/1994-06-24-39)*, [lov 24. juni 1994 nr. 39 om sjøfarten](lov/1994-06-24-39)
+4. *[forvaltningsloven](lov/1967-02-10)*, [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker](lov/1967-02-10)
+5. *tillatelser*, utvinningstillatelser som nevnt i [havbunnsmineralloven § 4-1](lov/2019-03-22-7/§4-1) og særskilte tillatelser til anlegg og drift av innretninger som nevnt i [havbunnsmineralloven § 4-7](lov/2019-03-22-7/§4-7)
+6. *andel*, den ideelle andel en rettighetshaver til enhver tid har i en tillatelse og i det interessentskap som følger av den samarbeidsavtale som er knyttet til tillatelsen
+7. *innretninger*, installasjoner og anlegg m.v. som nevnt i [havbunnsmineralloven § 1-5](lov/2019-03-22-7/§1-5) b og som er utplassert i medhold av en tillatelse som nevnt i [havbunnsmineralloven §§ 4-1](lov/2019-03-22-7/§4-1) og [4-7](lov/2019-03-22-7/§4-7).
 
 ### § 1-2. Registerfører
 
@@ -56,9 +64,22 @@ Departementet kan bestemme at ytterligere opplysninger skal registreres.
 
 ### § 2-3. Rettighetshavers meldeplikt mv.
 
-Rettighetshaver skal gi skriftlig melding til registerfører ved følgende endringer i tillatelsen:skifte av operatør i medhold av [havbunnsmineralloven § 4-13 andre ledd](lov/2019-03-22-7/§4-13/ledd/2)endring av selskapsnavnforlengelse av tillatelsen etter [§ 4-5](lov/2019-03-22-7/§4-5) og [§ 4-7 andre ledd](lov/2019-03-22-7/§4-7/ledd/2)bortfall av utvinningstillatelse etter [havbunnsmineralloven § 4-5 fjerde ledd](lov/2019-03-22-7/§4-5/ledd/4) eller tilbakelevering av tillatelsen etter [havbunnsmineralloven § 4-6 andre ledd](lov/2019-03-22-7/§4-6/ledd/2)pantsettelse av tillatelsen eller andel i tillatelsen etter [havbunnsmineralloven § 7-2](lov/2019-03-22-7/§7-2)overdragelse av tillatelsen eller andel i tillatelsen mv. som nevnt i [havbunnsmineralloven § 4-14 første ledd](lov/2019-03-22-7/§4-14/ledd/1) og andre disposisjoner som endrer fordelingen av rettighetshavers andel i tillatelsenendring eller tilbakekall av tillatelsen etter [havbunnsmineralloven § 9-9](lov/2019-03-22-7/§9-9).
+Rettighetshaver skal gi skriftlig melding til registerfører ved følgende endringer i tillatelsen:
 
-Følgende dokumentasjon skal sendes inn til registerfører sammen med meldingen:ved melding etter første ledd litra a), c) og d): dokumentasjon på vedtak fattet av Energidepartementetved melding etter første ledd litra b): bekreftet firmaattest som viser det nye navnetved melding etter første ledd litra e): pantobligasjon med bekreftet kopi, bekreftet firmaattest for pantsetter, dokumentasjon på at samtykke fra Energidepartementet er innhentet og kvittering for betalt gebyr, jf. [§ 4-3](forskrift/2025-08-29-1747/§4-3). Pantobligasjonen skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget. Ved transport av pantobligasjonen skal dette fremgå på originaldokumentet med bekreftet kopi.ved melding etter første ledd litra f): skjøte med bekreftet kopi, bekreftet firmaattest for selger og dokumentasjon på samtykke til overdragelsen fra Energidepartementet. Skjøtet skal være på blankett fastsatt av registerfører og skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget.
+1. skifte av operatør i medhold av [havbunnsmineralloven § 4-13 andre ledd](lov/2019-03-22-7/§4-13/ledd/2)
+2. endring av selskapsnavn
+3. forlengelse av tillatelsen etter [§ 4-5](lov/2019-03-22-7/§4-5) og [§ 4-7 andre ledd](lov/2019-03-22-7/§4-7/ledd/2)
+4. bortfall av utvinningstillatelse etter [havbunnsmineralloven § 4-5 fjerde ledd](lov/2019-03-22-7/§4-5/ledd/4) eller tilbakelevering av tillatelsen etter [havbunnsmineralloven § 4-6 andre ledd](lov/2019-03-22-7/§4-6/ledd/2)
+5. pantsettelse av tillatelsen eller andel i tillatelsen etter [havbunnsmineralloven § 7-2](lov/2019-03-22-7/§7-2)
+6. overdragelse av tillatelsen eller andel i tillatelsen mv. som nevnt i [havbunnsmineralloven § 4-14 første ledd](lov/2019-03-22-7/§4-14/ledd/1) og andre disposisjoner som endrer fordelingen av rettighetshavers andel i tillatelsen
+7. endring eller tilbakekall av tillatelsen etter [havbunnsmineralloven § 9-9](lov/2019-03-22-7/§9-9).
+
+Følgende dokumentasjon skal sendes inn til registerfører sammen med meldingen:
+
+1. ved melding etter første ledd litra a), c) og d): dokumentasjon på vedtak fattet av Energidepartementet
+2. ved melding etter første ledd litra b): bekreftet firmaattest som viser det nye navnet
+3. ved melding etter første ledd litra e): pantobligasjon med bekreftet kopi, bekreftet firmaattest for pantsetter, dokumentasjon på at samtykke fra Energidepartementet er innhentet og kvittering for betalt gebyr, jf. [§ 4-3](forskrift/2025-08-29-1747/§4-3). Pantobligasjonen skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget. Ved transport av pantobligasjonen skal dette fremgå på originaldokumentet med bekreftet kopi.
+4. ved melding etter første ledd litra f): skjøte med bekreftet kopi, bekreftet firmaattest for selger og dokumentasjon på samtykke til overdragelsen fra Energidepartementet. Skjøtet skal være på blankett fastsatt av registerfører og skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget.
 
 Melding skal gis straks endringen er godkjent av myndighetene. Melding om overdragelse etter første ledd litra f) skal gis så snart overdragelsen er gjennomført mellom partene. Ved endring av selskapsnavn skal melding gis straks endringen er registrert i foretaksregisteret. Ved endring som nevnt i [havbunnsmineralloven § 4-5 tredje](lov/2019-03-22-7/§4-5/ledd/3) og [fjerde ledd](lov/2019-03-22-7/§4-5/ledd/4) og [§ 4-6 andre ledd](lov/2019-03-22-7/§4-6/ledd/2), skal melding gis straks endringen får virkning. Meldingen skal være undertegnet av signaturberettiget for selskapet eller i henhold til fullmakt undertegnet av signaturberettiget.
 

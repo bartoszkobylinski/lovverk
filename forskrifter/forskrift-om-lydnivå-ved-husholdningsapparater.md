@@ -15,7 +15,7 @@ xml_hash: "39b16cb5fc1b11a090f9a65dbaf468d67d2160f12092613e5fd26620c8fcd3af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Formålet er å redusere lydnivå fra husholdningsapparater ved å legge forhold
 
 Forskriften gjelder for husholdningsapparater som merkes med opplysninger om lydnivå.
 
-Forskriften gjelder ikke:apparater, utstyr eller maskiner som bare er beregnet til ervervsmessig bruk.apparater som er en integrert del av en bygning eller dennes installasjoner som f.eks. luftkondisjonerings-, varme- eller ventilasjonsanlegg, (med unntak av husholdningsventilatorer, damphetter til kjøkkenet og uavhengige varmeapparater), oljebrennere til sentralvarmeanlegg, pumper til vannforsyning og avløp.komponenter til utstyr som motorer, ogelektroakustiske apparater.
+Forskriften gjelder ikke:
+
+1. apparater, utstyr eller maskiner som bare er beregnet til ervervsmessig bruk.
+2. apparater som er en integrert del av en bygning eller dennes installasjoner som f.eks. luftkondisjonerings-, varme- eller ventilasjonsanlegg, (med unntak av husholdningsventilatorer, damphetter til kjøkkenet og uavhengige varmeapparater), oljebrennere til sentralvarmeanlegg, pumper til vannforsyning og avløp.
+3. komponenter til utstyr som motorer, og
+4. elektroakustiske apparater.
 
 ### § 3. Hvem som er ansvarlig
 
@@ -66,7 +71,10 @@ Med *ervervsimportør* menes den som overfor tollvesenet er legitimert til å r�
 
 ### § 5. Krav til måling av lydnivå
 
-Husholdningsapparater som merkes med opplysninger om lydnivå skal måles i overensstemmelse mednasjonale standarder som tilsvarer de harmoniserte standarder som er offentliggjort i Det Europeiske Fellesskaps/EØS Tidendenasjonale standarder og tekniske forskrifter dersom det ikke finnes harmoniserte standarder.
+Husholdningsapparater som merkes med opplysninger om lydnivå skal måles i overensstemmelse med
+
+1. nasjonale standarder som tilsvarer de harmoniserte standarder som er offentliggjort i Det Europeiske Fellesskaps/EØS Tidende
+2. nasjonale standarder og tekniske forskrifter dersom det ikke finnes harmoniserte standarder.
 
 ### § 6. Krav til merkingen
 
@@ -94,6 +102,12 @@ Til [§ 5](forskrift/1996-05-29-566/§5)
 
 For at forbrukerne skal kunne ta stilling til opplysninger om husholdningsapparaters lydnivå, må dette være målt etter nærmere beskrevne målemetoder. Kravene til prøvingsmetoder er gjengitt i artikkel 6 i direktivet om lydnivå ved husholdningsapparater ([86/594/EØF](eu/31986l0594)), og gjengis nedenfor;
 
-*Artikkel 6.*Den alminnelige målemetode som brukes for å fastslå lydnivå ved husholdningsapparater, skal være tilstrekkelig presis til at unøyaktigheten ved målingen av A-veide lydstyrkenivåer ikke overskrider et standardavvik på 2 dB.Det standardavvik som er nevnt i første ledd, skal uttrykke den samlede effekt av alle usikkerhetsmomenter ved målingene, med unntak av variasjonene i apparatets lydnivå fra den ene prøvingen til den annen.For hver gruppe husholdningsapparater skal den alminnelige målemetode som er nevnt i bokstav a), suppleres med en beskrivelse av husholdningsapparatets plassering, montering, strømbelastning og virkemåte under prøveforhold som skal simulere vanlig bruk og sikre tilfredsstillende repeterbarhet og reproduserbarhet. Standardavviket for reproduserbarhet skal spesifiseres for hver gruppe husholdningsapparater.Ved kontrollmåling av det angitte lydnivå for et parti husholdningsapparat skal avviket mellom kravet til lydnivå og middelverdien av tre målte verdier ikke være større enn ca. 7 dB.
+*Artikkel 6.*
+
+1. 1. Den alminnelige målemetode som brukes for å fastslå lydnivå ved husholdningsapparater, skal være tilstrekkelig presis til at unøyaktigheten ved målingen av A-veide lydstyrkenivåer ikke overskrider et standardavvik på 2 dB.
+
+      Det standardavvik som er nevnt i første ledd, skal uttrykke den samlede effekt av alle usikkerhetsmomenter ved målingene, med unntak av variasjonene i apparatets lydnivå fra den ene prøvingen til den annen.
+   2. For hver gruppe husholdningsapparater skal den alminnelige målemetode som er nevnt i bokstav a), suppleres med en beskrivelse av husholdningsapparatets plassering, montering, strømbelastning og virkemåte under prøveforhold som skal simulere vanlig bruk og sikre tilfredsstillende repeterbarhet og reproduserbarhet. Standardavviket for reproduserbarhet skal spesifiseres for hver gruppe husholdningsapparater.
+2. Ved kontrollmåling av det angitte lydnivå for et parti husholdningsapparat skal avviket mellom kravet til lydnivå og middelverdien av tre målte verdier ikke være større enn ca. 7 dB.
 
 På de områder der det finnes IEC/CEN-normer (International Electrotechnical Commission/Comité Européen de Normalisation) for måling av akustisk støy kan disse benyttes.

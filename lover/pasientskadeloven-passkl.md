@@ -15,7 +15,7 @@ xml_hash: "24a940a5638fb6fe216d9243a061e83e107620abaf4de5a92d45fb6cbeb37a9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Pasientskade
 
-Denne loven gjelder skader som er voldti institusjon under spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten.under ambulansetransport, ellerav helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse, personer som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning eller andre personer som er fastsatt i forskrift. Loven gjelder også skader voldt av helsepersonell i forbindelse med helserelatert behandling etter [lov 27. juni 2003 nr. 64](lov/2003-06-27-64) om alternativ behandling av sykdom mv. [§ 2](lov/2003-06-27-64/§2) tredje ledd, som ytes i tilknytning til ordinær helsehjelp, som en integrert og sammenhengende del av behandlingen.
+Denne loven gjelder skader som er voldt
+
+1. i institusjon under spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten.
+2. under ambulansetransport, eller
+3. av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse, personer som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning eller andre personer som er fastsatt i forskrift. Loven gjelder også skader voldt av helsepersonell i forbindelse med helserelatert behandling etter [lov 27. juni 2003 nr. 64](lov/2003-06-27-64) om alternativ behandling av sykdom mv. [§ 2](lov/2003-06-27-64/§2) tredje ledd, som ytes i tilknytning til ordinær helsehjelp, som en integrert og sammenhengende del av behandlingen.
 
 Slike skader regnes som pasientskader dersom de er voldt under veiledning, undersøkelse, diagnostisering, behandling, ekspedisjon av legemidler fra apotek, pleie, vaksinasjon, prøvetaking, analyse av prøver, røntgen, forebygging av helseskader, medisinsk forsøksvirksomhet samt donasjon av organer, blod og vev.
 
@@ -36,7 +40,13 @@ Kongen kan i forskrift bestemme hva som skal regnes som institusjon under den ko
 
 ### § 2. Erstatning for pasientskade
 
-Pasienten og andre som har lidt tap på grunn av pasientskade, har krav på erstatning når skaden skyldessvikt ved ytelsen av helsehjelp, selv om ingen kan lastes,teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,vaksinasjon, ellerforhold som medfører ansvar for helse- og omsorgstjenesten eller helsepersonell etter alminnelige erstatningsregler.
+Pasienten og andre som har lidt tap på grunn av pasientskade, har krav på erstatning når skaden skyldes
+
+1. svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,
+2. teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,
+3. smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,
+4. vaksinasjon, eller
+5. forhold som medfører ansvar for helse- og omsorgstjenesten eller helsepersonell etter alminnelige erstatningsregler.
 
 Det skal tas hensyn til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten på skadetidspunktet, er tilsidesatt. Utilstrekkelige ressurser skal ikke medføre ansvar dersom ressursfordelingen har vært forsvarlig og virksomheten i alminnelighet holder en forsvarlig standard.
 
@@ -108,7 +118,20 @@ Den som unnlater å oppfylle plikten til å melde fra eller plikten til å betal
 
 Kongen kan i forskrift fastsette at tjenesteytere eller nærmere angitte grupper av tjenesteytere kan eller skal tegne forsikring til dekning av ansvaret etter loven her i stedet for at Norsk Pasientskadeerstatning er ansvarlig.
 
-Forskriften kan ha nærmere bestemmelser om blant annet:krav til forsikringsgiver og forsikringsvilkår,godkjenning av forsikringsgivere og forsikringsvilkår,mulighet for ansvarsbegrensning i forsikringen og dekning og fordeling av tapet dersom forsikringsplikten ikke er overholdt eller forsikringen viser seg utilstrekkelig, herunder at tapet skal dekkes av de godkjente forsikringsgiverne i fellesskap,plikt for forsikringsgivere til å bidra til dekning av Pasientskadenemndas driftsutgifter,bortfall av eller reduksjon i tilskuddsplikt etter [§ 7](lov/2001-06-15-53/§7) og bortfall av melde- og tilskuddsplikt etter [§ 8](lov/2001-06-15-53/§8),hvem som skal behandle krav om erstatning,fremsetting av krav og saksbehandling, herunder om avgjørelse av erstatningskrav og utbetaling av erstatning,dekning av advokatutgifter,mulighet for å anmode Pasientskadenemnda om å overta behandlingen av en sak som ikke er ferdigbehandlet når det er gått to år fra kravet ble meldt,klagerett og domstolsprøving,hvem som er ansvarlig ved overgang mellom Norsk Pasientskadeerstatnings ansvar og forsikringsdekning og mellom forsikringsgivere, ogregress.
+Forskriften kan ha nærmere bestemmelser om blant annet:
+
+1. krav til forsikringsgiver og forsikringsvilkår,
+2. godkjenning av forsikringsgivere og forsikringsvilkår,
+3. mulighet for ansvarsbegrensning i forsikringen og dekning og fordeling av tapet dersom forsikringsplikten ikke er overholdt eller forsikringen viser seg utilstrekkelig, herunder at tapet skal dekkes av de godkjente forsikringsgiverne i fellesskap,
+4. plikt for forsikringsgivere til å bidra til dekning av Pasientskadenemndas driftsutgifter,
+5. bortfall av eller reduksjon i tilskuddsplikt etter [§ 7](lov/2001-06-15-53/§7) og bortfall av melde- og tilskuddsplikt etter [§ 8](lov/2001-06-15-53/§8),
+6. hvem som skal behandle krav om erstatning,
+7. fremsetting av krav og saksbehandling, herunder om avgjørelse av erstatningskrav og utbetaling av erstatning,
+8. dekning av advokatutgifter,
+9. mulighet for å anmode Pasientskadenemnda om å overta behandlingen av en sak som ikke er ferdigbehandlet når det er gått to år fra kravet ble meldt,
+10. klagerett og domstolsprøving,
+11. hvem som er ansvarlig ved overgang mellom Norsk Pasientskadeerstatnings ansvar og forsikringsdekning og mellom forsikringsgivere, og
+12. regress.
 
 Den som unnlater å oppfylle forsikringsplikt fastsatt i medhold av første ledd, straffes med bøter eller fengsel inntil 3 måneder. Medvirkning straffes ikke.
 
@@ -132,7 +155,17 @@ Norsk Pasientskadeerstatning kan kreve bevisopptak etter [domstolloven § 43](lo
 
 ### § 10 a. Innhenting av opplysninger fra andre offentlige og private instanser
 
-Norsk Pasientskadeerstatning kan uten hinder av taushetsplikt innhente personopplysninger som er nødvendige for utredning av en erstatningssak etter denne loven, fra følgende instanser og personer:Folkeregistermyndighetenhelse- og omsorgstjenesten, som definert i [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav dArbeids- og velferdsforvaltningen (NAV)HelfoSkatteetatentilsynsmyndigheterpolitiet når det gjelder rapport fra rettsmedisinsk obduksjonhelsepersonellforsikringsforetak.
+Norsk Pasientskadeerstatning kan uten hinder av taushetsplikt innhente personopplysninger som er nødvendige for utredning av en erstatningssak etter denne loven, fra følgende instanser og personer:
+
+1. Folkeregistermyndigheten
+2. helse- og omsorgstjenesten, som definert i [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav d
+3. Arbeids- og velferdsforvaltningen (NAV)
+4. Helfo
+5. Skatteetaten
+6. tilsynsmyndigheter
+7. politiet når det gjelder rapport fra rettsmedisinsk obduksjon
+8. helsepersonell
+9. forsikringsforetak.
 
 Opplysningene skal gis uten ugrunnet opphold. De kan brukes i behandlingen av pasientskadesaken og kan i den forbindelse også utleveres til sakkyndige.
 
@@ -250,7 +283,13 @@ Loven gjelder fra den tid Kongen bestemmer.1 Loven kan settes i kraft særskilt 
 
 ### § 21. Overgangsregler
 
-Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvis offentlig og privat helsetjeneste. Eldre skader behandles etter loven her, men slik at erstatningskravet avgjøres etter[regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker](forskrift/1988-01-01-4458),regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,[lov 5. august 1994 nr. 55](lov/1994-08-05-55) om vern mot smittsomme sykdommer [§ 8-2](lov/1994-08-05-55/§8-2), slik den lød før opphevelsen ved loven her, ogalminnelig erstatningsrett.
+Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvis offentlig og privat helsetjeneste. Eldre skader behandles etter loven her, men slik at erstatningskravet avgjøres etter
+
+1. [regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker](forskrift/1988-01-01-4458),
+2. regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,
+3. regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,
+4. [lov 5. august 1994 nr. 55](lov/1994-08-05-55) om vern mot smittsomme sykdommer [§ 8-2](lov/1994-08-05-55/§8-2), slik den lød før opphevelsen ved loven her, og
+5. alminnelig erstatningsrett.
 
 > Endret ved [lov 26 sep 2003 nr. 95](lov/2003-09-26-95) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1645](forskrift/2003-12-19-1645)).
 

@@ -24,7 +24,20 @@ eu_basis: []
 
 ## § 1.
 
-De omforente områdene som opprettes ved avtalens ikrafttredelse, og som dekkes av virkeområdet til [forsvarssamarbeidsloven § 4](lov/2022-06-10-36/§4) første ledd er:Rygge militære flystasjon og flyoperative flaterSola militære flystasjon og flyoperative flaterEvenes militære flystasjon og flyoperative flaterRamsund orlogsstasjonAndøya flystasjonØrland flystasjonHaakonsvern orlogsstasjonVærnes flystasjon garnisonBardufoss flystasjonSetermoen garnison og skyte- og øvingsfeltOsmarka fjellanleggNamsen drivstoffanlegg.
+De omforente områdene som opprettes ved avtalens ikrafttredelse, og som dekkes av virkeområdet til [forsvarssamarbeidsloven § 4](lov/2022-06-10-36/§4) første ledd er:
+
+1. Rygge militære flystasjon og flyoperative flater
+2. Sola militære flystasjon og flyoperative flater
+3. Evenes militære flystasjon og flyoperative flater
+4. Ramsund orlogsstasjon
+5. Andøya flystasjon
+6. Ørland flystasjon
+7. Haakonsvern orlogsstasjon
+8. Værnes flystasjon garnison
+9. Bardufoss flystasjon
+10. Setermoen garnison og skyte- og øvingsfelt
+11. Osmarka fjellanlegg
+12. Namsen drivstoffanlegg.
 
 > Endret ved forskrift [20 sep 2024 nr. 2208](forskrift/2024-09-20-2208) (i kraft 23 sep 2024).
 

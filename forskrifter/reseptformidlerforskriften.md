@@ -15,7 +15,7 @@ xml_hash: "88083590ac30e4122033b67106fb9e35ad88d555cd67c03578277ce0d373a3d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,15 @@ Formålet med Reseptformidleren er å sørge for sikker og effektiv elektronisk 
 
 ### § 1-3. Definisjoner
 
-I denne forskrift menes med:– – –*reseptopplysninger:* opplysninger som fremgår av resepten og opplysninger som er nødvendige for å behandle resepter, herunder behandling av søknader om unntak fra kravet om markedsføringstillatelse;*Låst resept:* resept beskyttet med et referansenummer som genereres av Reseptformidleren;*Tilgjengelig resept:* resept som kan utleveres ved at det oppgis fødselsnummer, eller navn og fødselsdato;*rekvirent:* fysisk person med rett til å rekvirere legemidler, medisinsk forbruksmateriell eller næringsmidler på resept;*bandasjist:* salgssted for medisinsk forbruksmateriell eller næringsmidler som har avtale med Helsedirektoratet eller det organ Helsedirektoratet bestemmer om direkte oppgjør for bandasjistforretninger.*pasientens legemiddelliste:* en samlet og oppdatert oversikt over relevante opplysninger om pasientens legemiddelbehandling.
+I denne forskrift menes med:
+
+1. – – –
+2. *reseptopplysninger:* opplysninger som fremgår av resepten og opplysninger som er nødvendige for å behandle resepter, herunder behandling av søknader om unntak fra kravet om markedsføringstillatelse;
+3. *Låst resept:* resept beskyttet med et referansenummer som genereres av Reseptformidleren;
+4. *Tilgjengelig resept:* resept som kan utleveres ved at det oppgis fødselsnummer, eller navn og fødselsdato;
+5. *rekvirent:* fysisk person med rett til å rekvirere legemidler, medisinsk forbruksmateriell eller næringsmidler på resept;
+6. *bandasjist:* salgssted for medisinsk forbruksmateriell eller næringsmidler som har avtale med Helsedirektoratet eller det organ Helsedirektoratet bestemmer om direkte oppgjør for bandasjistforretninger.
+7. *pasientens legemiddelliste:* en samlet og oppdatert oversikt over relevante opplysninger om pasientens legemiddelbehandling.
 
 > Endret ved [forskrifter 5 des 2008 nr. 1281](forskrift/2008-12-05-1281) (i kraft 1 jan 2009), [27 sep 2013 nr. 1280](forskrift/2013-09-27-1280), [24 mars 2017 nr. 378](forskrift/2017-03-24-378) (i kraft 1 juli 2017), [8 des 2017 nr. 1952](forskrift/2017-12-08-1952) som endret ved [vedtak 23 nov 2018 nr. 1906](forskrift/2018-11-23-1906) (i kraft 1 jan 2019), [19 nov 2019 nr. 1529](forskrift/2019-11-19-1529) (i kraft 1 juli 2020).
 
@@ -60,9 +68,26 @@ Dataansvarlig kan inngå avtale med en databehandler om behandling av opplysning
 
 ### § 1-7. Opplysninger i Reseptformidleren
 
-Reseptformidleren kan, uten samtykke fra pasienten, inneholde følgende typer opplysninger knyttet til personer som har fått rekvirert legemidler, medisinsk forbruksmateriell eller næringsmidler ved resept:Opplysninger knyttet til resepten:Opplysninger som påføres resepter i henhold til [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)Opplysninger som påføres resepter i henhold til [forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv.Opplysninger som påføres resepter i henhold til [forskrift 12. juni 2015 nr. 646](forskrift/2015-06-12-646) om helseforetaksfinansierte reseptlegemidler til bruk utenfor sykehus.Opplysninger som kreves i henhold til [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 2-5](forskrift/2009-12-18-1839/§2-5) for søknad til Direktoratet for medisinske produkter om unntak fra kravet om markedsføringstillatelse, og svar på slik søknad, samt notifiseringer etter samme bestemmelse;Opplysninger om apotek eller bandasjisters behandling av resepter, herunder hvilke legemidler, medisinsk forbruksmateriell eller næringsmidler som er utlevert, opplysninger om betalt egenandel og pasientens byttereservasjon.Administrative opplysninger:Opplysninger som gjør det mulig å finne tilbake til identiteten til den som melder opplysninger til registeret.Andre relevante administrative opplysninger som er nødvendige for Reseptformidlerens behandling av resepten.Opplysninger som gjør det mulig å finne tilbake til identiteten til den som får utlevert opplysninger fra Reseptformidleren.
+Reseptformidleren kan, uten samtykke fra pasienten, inneholde følgende typer opplysninger knyttet til personer som har fått rekvirert legemidler, medisinsk forbruksmateriell eller næringsmidler ved resept:
 
-Reseptformidleren kan også inneholde pasientens legemiddelliste. Når det er relevant for videre legemiddelbehandling, kan pasientens legemiddelliste, i tillegg til opplysninger i første ledd, inneholde opplysninger om:Legemidler ordinert internt på sykehus, sykehjem mv. og legemidler uten reseptKosttilskuddLegemiddelreaksjoner, interaksjonsvurderinger og legemiddelgjennomgang.
+1. Opplysninger knyttet til resepten:
+
+   1. Opplysninger som påføres resepter i henhold til [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)
+   2. Opplysninger som påføres resepter i henhold til [forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv.
+   3. Opplysninger som påføres resepter i henhold til [forskrift 12. juni 2015 nr. 646](forskrift/2015-06-12-646) om helseforetaksfinansierte reseptlegemidler til bruk utenfor sykehus.
+2. Opplysninger som kreves i henhold til [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [§ 2-5](forskrift/2009-12-18-1839/§2-5) for søknad til Direktoratet for medisinske produkter om unntak fra kravet om markedsføringstillatelse, og svar på slik søknad, samt notifiseringer etter samme bestemmelse;
+3. Opplysninger om apotek eller bandasjisters behandling av resepter, herunder hvilke legemidler, medisinsk forbruksmateriell eller næringsmidler som er utlevert, opplysninger om betalt egenandel og pasientens byttereservasjon.
+4. Administrative opplysninger:
+
+   1. Opplysninger som gjør det mulig å finne tilbake til identiteten til den som melder opplysninger til registeret.
+   2. Andre relevante administrative opplysninger som er nødvendige for Reseptformidlerens behandling av resepten.
+   3. Opplysninger som gjør det mulig å finne tilbake til identiteten til den som får utlevert opplysninger fra Reseptformidleren.
+
+Reseptformidleren kan også inneholde pasientens legemiddelliste. Når det er relevant for videre legemiddelbehandling, kan pasientens legemiddelliste, i tillegg til opplysninger i første ledd, inneholde opplysninger om:
+
+1. Legemidler ordinert internt på sykehus, sykehjem mv. og legemidler uten resept
+2. Kosttilskudd
+3. Legemiddelreaksjoner, interaksjonsvurderinger og legemiddelgjennomgang.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [27 sep 2013 nr. 1280](forskrift/2013-09-27-1280), [12 juni 2015 nr. 646](forskrift/2015-06-12-646) (i kraft 1 juli 2015), [8 des 2017 nr. 1952](forskrift/2017-12-08-1952) som endret ved [vedtak 23 nov 2018 nr. 1906](forskrift/2018-11-23-1906) (i kraft 1 jan 2019), [28 okt 2022 nr. 1809](forskrift/2022-10-28-1809), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
@@ -220,7 +245,16 @@ Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å s
 
 ### § 4-5. Internkontrollens innhold
 
-Internkontrollen innebærer at dataansvarlig skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, og tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner. Dokumentasjonen skal være tilgjengelig for dem den måtte angå. Dokumentasjonen av internkontrollen skal minst inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav, i og i medhold av personvernforordningen, personopplysningsloven og pasientjournalloven, som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og pasientjournalloven,rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen innebærer at dataansvarlig skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, og tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner. Dokumentasjonen skal være tilgjengelig for dem den måtte angå. Dokumentasjonen av internkontrollen skal minst inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav, i og i medhold av personvernforordningen, personopplysningsloven og pasientjournalloven, som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre at kravene blir overholdt,
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og pasientjournalloven,
+8. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av denne bestemmelsen når særlige forhold foreligger.
 

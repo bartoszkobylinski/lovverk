@@ -15,7 +15,7 @@ xml_hash: "e115f313d77434c9af2fea8193737188770b3841a30fe7035c241586658ee767"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Formålet med forskriften er å sikre at traktor og tilhenger til traktor som go
 
 ### § 2. Virkeområde
 
-Forskriftenfastsetter administrative bestemmelser og tekniske krav i forbindelse med førstegangsgodkjenning eller ibruktaking i Norge av traktor, tilhenger til traktor og utskiftbart trukket utstyr til traktor, samt av systemer, komponenter og separate tekniske enheter til disse,stiller krav til teknisk stand for traktor, tilhenger til traktor og utskiftbart trukket utstyr i bruk,stiller krav ved reparasjon, ombygging, med mer.
+Forskriften
+
+- fastsetter administrative bestemmelser og tekniske krav i forbindelse med førstegangsgodkjenning eller ibruktaking i Norge av traktor, tilhenger til traktor og utskiftbart trukket utstyr til traktor, samt av systemer, komponenter og separate tekniske enheter til disse,
+- stiller krav til teknisk stand for traktor, tilhenger til traktor og utskiftbart trukket utstyr i bruk,
+- stiller krav ved reparasjon, ombygging, med mer.
 
 ### § 3. Forordninger for godkjenning av traktor og tilhenger til traktor
 
@@ -51,7 +55,10 @@ Forordning [(EU) nr. 167/2013](eu/32013r0167), forordning [(EU) nr. 1322/2014](e
 | R | Tilhenger til traktor |
 | S | Utskiftbart trukket utstyr |
 
-(3) Innenfor de nevnte hovedgruppene er det gjort følgende underinndeling:kjøretøy som har en maksimal konstruktiv hastighet på høyst 40 km/t,kjøretøy som har en maksimal konstruktiv hastighet over 40 km/t.
+(3) Innenfor de nevnte hovedgruppene er det gjort følgende underinndeling:
+
+1. kjøretøy som har en maksimal konstruktiv hastighet på høyst 40 km/t,
+2. kjøretøy som har en maksimal konstruktiv hastighet over 40 km/t.
 
 ## Kapittel 2. Godkjenning og klassifisering
 
@@ -113,7 +120,12 @@ Forordning [(EU) nr. 167/2013](eu/32013r0167), forordning [(EU) nr. 1322/2014](e
 
 (1) Statens vegvesen er myndighet for nasjonal typegodkjenning.
 
-(2) Nasjonal typegodkjenning kan utstedes for følgende grupper:tilhenger (gruppe R) og utskiftbart trukket utstyr (gruppe S),traktor med belter (gruppe C),spesialtraktor med hjul (gruppe T4.1 og T4.2),traktor i undergruppe b.
+(2) Nasjonal typegodkjenning kan utstedes for følgende grupper:
+
+1. tilhenger (gruppe R) og utskiftbart trukket utstyr (gruppe S),
+2. traktor med belter (gruppe C),
+3. spesialtraktor med hjul (gruppe T4.1 og T4.2),
+4. traktor i undergruppe b.
 
 (3) Kjøretøy som listet opp i annet ledd bokstav a, b og c kan typegodkjennes etter kravene i kjøretøyforskriften. Alternativt kan ett eller flere av kravene i rettsaktene som angitt i [§ 3](forskrift/2016-06-01-561/§3) være oppfylt.
 
@@ -211,7 +223,11 @@ Dersom ikke annet er fastsatt i forordning [(EU) nr. 167/2013](eu/32013r0167), k
 
 ### § 15. Tilsyn og reaksjoner
 
-Statens vegvesen fører tilsyn med utpekte prøveinstanser og kan trekke tilbake utpeking av teknisk prøveinstans for en periode eller for alltiddersom vilkårene for utpekingen ikke lenger er til stede,dersom det sannsynliggjøres at prøving eller oppfølging av produksjonen ikke utføres eller holder tilstrekkelig kvalitet, ellerved andre vesentlige brudd på regelverket.
+Statens vegvesen fører tilsyn med utpekte prøveinstanser og kan trekke tilbake utpeking av teknisk prøveinstans for en periode eller for alltid
+
+- dersom vilkårene for utpekingen ikke lenger er til stede,
+- dersom det sannsynliggjøres at prøving eller oppfølging av produksjonen ikke utføres eller holder tilstrekkelig kvalitet, eller
+- ved andre vesentlige brudd på regelverket.
 
 > Endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
@@ -243,7 +259,12 @@ Kjøretøy som ifølge forskrift om bruk av kjøretøy tillates brukt med pigger
 
 ### § 20. Gebyr
 
-(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 6](forskrift/2023-10-10-1650/kap6) og [8](forskrift/2023-10-10-1650/kap8):enkeltgodkjenning av bil og tilhenger til bil (ny eller bruktimportert),godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy,nasjonal typegodkjenning ogEU-typegodkjenning.
+(1) For følgende godkjenninger skal det betales gebyr etter reglene i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 6](forskrift/2023-10-10-1650/kap6) og [8](forskrift/2023-10-10-1650/kap8):
+
+1. enkeltgodkjenning av bil og tilhenger til bil (ny eller bruktimportert),
+2. godkjenning av endret eller reparert/ombygd/oppbygd kjøretøy,
+3. nasjonal typegodkjenning og
+4. EU-typegodkjenning.
 
 (2) Det skal ikke betales gebyr for klagebehandling. Det betales heller ikke gebyr for identitetssjekk eller stikkprøvekontroll av bruktimportert EF-typegodkjent traktor og tilhenger til traktor (jf. [§ 11](forskrift/2016-06-01-561/§11)).
 

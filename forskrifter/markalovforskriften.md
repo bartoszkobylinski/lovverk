@@ -15,7 +15,7 @@ xml_hash: "431a7768b01fd7f901cdece24b1b885485da9afa77a2126e0f3423d86086062c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,27 @@ eu_basis: []
 
 ## § 1. Justering av markalovens geografiske virkeområde
 
-Det geografiske virkeområdet for markaloven justeres følgende steder:i Lier kommune: Bø og Gjellebekkstubbeni Lunner kommune: Nedre Sørli i Vestbygda og Monsrudi Bærum kommune: Ila landsfengsel, området til gravlund mellom Dælimosen og Østernvannveien, Grorudenga, Trulsebråten, Kirkeby, Tobonn, Vensås, Aurevannsveien, Bærums verk, Engebråten og området ved Isi miljøparki Enebakk kommune: Østmarka golfklubb, Langen, Landskaug og gnr. 91 bnr. 36i Lørenskog kommune: Feiringåseni Nittedal kommune: Aas gård ved Hakadal og ved Nittedal kirkei Oslo kommune: Holmenkollen Leiri Rælingen kommune: Blystadlia, Løvenstad, Kirkebyveien og Øgårdshøgdai Skedsmo kommune: Lahaugmoeni Ski kommune: Siggerud tettsted, Fiskestien, Lille Karlsrud, Skogstad/Sandvoll, Bondalsåsen/Vellumstadvika, Østre Solberg, Bøleråsen, Sagdalsbekken/Karlsrudbekken, Midtsjøvann, v/Bjerke Østre til golfbanen på Smerta, Smerta golfbane, Oppsandveien til Granerud skytebane, Granerud skytebane til Tomtervegen, krysset Siggerudveien/Vevelstadveien og barnehagen på Siggerudi Hobøl kommune: Myrvoll, Burås, Kølabonn, Unås.
+Det geografiske virkeområdet for markaloven justeres følgende steder:
+
+1. i Lier kommune: Bø og Gjellebekkstubben
+2. i Lunner kommune: Nedre Sørli i Vestbygda og Monsrud
+3. i Bærum kommune: Ila landsfengsel, området til gravlund mellom Dælimosen og Østernvannveien, Grorudenga, Trulsebråten, Kirkeby, Tobonn, Vensås, Aurevannsveien, Bærums verk, Engebråten og området ved Isi miljøpark
+4. i Enebakk kommune: Østmarka golfklubb, Langen, Landskaug og gnr. 91 bnr. 36
+5. i Lørenskog kommune: Feiringåsen
+6. i Nittedal kommune: Aas gård ved Hakadal og ved Nittedal kirke
+7. i Oslo kommune: Holmenkollen Leir
+8. i Rælingen kommune: Blystadlia, Løvenstad, Kirkebyveien og Øgårdshøgda
+9. i Skedsmo kommune: Lahaugmoen
+10. i Ski kommune: Siggerud tettsted, Fiskestien, Lille Karlsrud, Skogstad/Sandvoll, Bondalsåsen/Vellumstadvika, Østre Solberg, Bøleråsen, Sagdalsbekken/Karlsrudbekken, Midtsjøvann, v/Bjerke Østre til golfbanen på Smerta, Smerta golfbane, Oppsandveien til Granerud skytebane, Granerud skytebane til Tomtervegen, krysset Siggerudveien/Vevelstadveien og barnehagen på Siggerud
+11. i Hobøl kommune: Myrvoll, Burås, Kølabonn, Unås.
 
 Virkeområde for markaloven er nærmere avgrenset som det fremgår av Klima- og miljødepartementets digitale kart «Markagrensen» datert 4. september 2015.
 
 ## § 2. Bruk av elektriske sykler
 
-Elektriske sykler kan brukes i Markas utmark. Med elektriske sykler menes sykler som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kWsom reduseres gradvis ved økende hastighet og opphører ved 25 km/t eller tidligere hvis syklisten slutter å trå. Sykkelen kan ved motorkraft alene nå en maksimal hastighet på 6 km/t.
+Elektriske sykler kan brukes i Markas utmark. Med elektriske sykler menes sykler som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW
+
+som reduseres gradvis ved økende hastighet og opphører ved 25 km/t eller tidligere hvis syklisten slutter å trå. Sykkelen kan ved motorkraft alene nå en maksimal hastighet på 6 km/t.
 
 Kommunen kan i forskrift begrense eller forby bruk av elektriske sykler i hele eller deler av utmarka.
 

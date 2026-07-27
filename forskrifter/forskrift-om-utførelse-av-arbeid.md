@@ -15,7 +15,7 @@ xml_hash: "846b05e9469852e343dee4f00e58c16a0bb3714cd2a97dccf9c348f7656b2fbb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,30 +40,135 @@ Forskriften gjelder for utførelse av arbeid, bruk av arbeidsutstyr og tekniske 
 
 Forskriften [kapittel 2](forskrift/2011-12-06-1357/kap2) om stoffkartotek gjelder ikke farlige kjemikalier som føres gjennom landet som transittgods eller som lagres som slikt transittgods i Norge, dersom de ikke er gjenstand for behandling eller bearbeidelse.
 
-Forskriftens [kapittel 26](forskrift/2011-12-06-1357/kap26) om arbeid under vann eller økt omgivende trykk gjelder ikke:for tjenestemenn i politiets beredskapstropp når dykkingen er nødvendig for å gjennomføre pålagte politioppgaverfor vernepliktige og militære tjenestemenn i Forsvaret som utfører dykkevirksomhet som militær aktivitet.
+Forskriftens [kapittel 26](forskrift/2011-12-06-1357/kap26) om arbeid under vann eller økt omgivende trykk gjelder ikke:
+
+1. for tjenestemenn i politiets beredskapstropp når dykkingen er nødvendig for å gjennomføre pålagte politioppgaver
+2. for vernepliktige og militære tjenestemenn i Forsvaret som utfører dykkevirksomhet som militær aktivitet.
 
 Bestemmelsene i [kapittel 26](forskrift/2011-12-06-1357/kap26) om dykkerbevis gjelder ikke forskere og helsepersonale som må utføre påkrevd arbeid i trykksatt trykkammer.
 
 Forskriftens [§ 4-4](forskrift/2011-12-06-1357/§4-4), [§ 13-1](forskrift/2011-12-06-1357/§13-1), [§ 13-2](forskrift/2011-12-06-1357/§13-2), [§ 13-3](forskrift/2011-12-06-1357/§13-3), [§ 13-4](forskrift/2011-12-06-1357/§13-4), [§ 25-1](forskrift/2011-12-06-1357/§25-1) og [§ 27-4](forskrift/2011-12-06-1357/§27-4) samt [kapitlene 5](forskrift/2011-12-06-1357/kap5), [17](forskrift/2011-12-06-1357/kap17), [20](forskrift/2011-12-06-1357/kap20), [24](forskrift/2011-12-06-1357/kap24), [26](forskrift/2011-12-06-1357/kap26), [28](forskrift/2011-12-06-1357/kap28) og [29](forskrift/2011-12-06-1357/kap29) gjelder ikke for petroleumsvirksomhet til havs og for virksomhet på landanlegg som nevnt i [rammeforskriften § 6](forskrift/2010-02-12-158/§6) bokstav e. Forskriftens [§ 3-23](forskrift/2011-12-06-1357/§3-23), [§ 3-24](forskrift/2011-12-06-1357/§3-24), [§ 3-27](forskrift/2011-12-06-1357/§3-27), [§ 14-1](forskrift/2011-12-06-1357/§14-1), [§ 14-2](forskrift/2011-12-06-1357/§14-2), [§ 14-3](forskrift/2011-12-06-1357/§14-3), [§ 14-4](forskrift/2011-12-06-1357/§14-4), [§ 14-5](forskrift/2011-12-06-1357/§14-5), [§ 14-6](forskrift/2011-12-06-1357/§14-6), [§ 14-7](forskrift/2011-12-06-1357/§14-7), og [§ 14-10](forskrift/2011-12-06-1357/§14-10), gjelder ikke for petroleumsvirksomhet til havs.
 
-Forskriften gjelder for Svalbard:unntatt bestemmelsene i [§ 10-1](forskrift/2011-12-06-1357/§10-1) til [§ 10-3](forskrift/2011-12-06-1357/§10-3) og [kapittel 13](forskrift/2011-12-06-1357/kap13),med mindre annet følger av [forskrift 18. januar 1993 nr. 33](forskrift/1993-01-18-33) om kullgruvene på Svalbard.
+Forskriften gjelder for Svalbard:
+
+1. unntatt bestemmelsene i [§ 10-1](forskrift/2011-12-06-1357/§10-1) til [§ 10-3](forskrift/2011-12-06-1357/§10-3) og [kapittel 13](forskrift/2011-12-06-1357/kap13),
+2. med mindre annet følger av [forskrift 18. januar 1993 nr. 33](forskrift/1993-01-18-33) om kullgruvene på Svalbard.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [22 des 2014 nr. 1894](forskrift/2014-12-22-1894) (i kraft 1 jan 2015), [10 jan 2022 nr. 37](forskrift/2022-01-10-37) (i kraft 15 jan 2022), [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
 
 ### § 1-3. Hvem forskriften retter seg mot
 
 1. Arbeidsgiver skal sørge for at bestemmelsene i denne forskriften blir gjennomført.
-2. Forskriftens bestemmelser skal også, der de er relevante, gjennomføres av:Verneombud og arbeidsmiljøutvalgFamiliebruk i landbruketVirksomheter som ikke sysselsetter arbeidstakeresom bruker arbeidsutstyrsom håndterer asbest og asbestholdig materiale i arbeidsliveti bygge- og anleggsvirksomheti landbruketsom utfører arbeid under vann eller økt omgivende trykksom i arbeidet kan bli eksponert for biologiske faktorer, unntatt kravene om føring av register og helseundersøkelsesom i arbeidet kan bli eksponert for kjemikalier, unntatt kravene om beredskapsplan, helseundersøkelse, omplassering og krav til register over arbeidstakere eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier og bly.
-3. Bestemmelsene i [kapittel 26](forskrift/2011-12-06-1357/kap26) om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk, gjelder ikke:vernepliktige og militære tjenestemenn i Forsvaret som utfører dykkevirksomhet som militær aktivitettjenestemenn i politiets beredskapstropp når dykkingen utøves i tjenestenforskere og helsepersonell som arbeider i trykkammer.
+2. Forskriftens bestemmelser skal også, der de er relevante, gjennomføres av:
+
+   1. Verneombud og arbeidsmiljøutvalg
+   2. Familiebruk i landbruket
+   3. Virksomheter som ikke sysselsetter arbeidstakere
+
+      - som bruker arbeidsutstyr
+      - som håndterer asbest og asbestholdig materiale i arbeidslivet
+      - i bygge- og anleggsvirksomhet
+      - i landbruket
+      - som utfører arbeid under vann eller økt omgivende trykk
+      - som i arbeidet kan bli eksponert for biologiske faktorer, unntatt kravene om føring av register og helseundersøkelse
+      - som i arbeidet kan bli eksponert for kjemikalier, unntatt kravene om beredskapsplan, helseundersøkelse, omplassering og krav til register over arbeidstakere eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier og bly.
+3. Bestemmelsene i [kapittel 26](forskrift/2011-12-06-1357/kap26) om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk, gjelder ikke:
+
+   1. vernepliktige og militære tjenestemenn i Forsvaret som utfører dykkevirksomhet som militær aktivitet
+   2. tjenestemenn i politiets beredskapstropp når dykkingen utøves i tjenesten
+   3. forskere og helsepersonell som arbeider i trykkammer.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [26 juni 2015 nr. 806](forskrift/2015-06-26-806), [10 mai 2022 nr. 820](forskrift/2022-05-10-820), [5 april 2024 nr. 574](forskrift/2024-04-05-574).
 
 ### § 1-4. Definisjoner:
 
-I denne forskriften menes med:*arbeidslokaler:* rom som virksomheten bruker i forbindelse med arbeidet slik som arbeidsrom, personalrom, atkomstarealer m.m.,*arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,*arbeidsutstyr for løfting av last:* en maskin som er konstruert for løfte- og senkeoperasjoner,*asbest:* de fibrøse, krystallinske silikatmineralene krysotil (hvit asbest), krokidolitt (blå asbest), amositt (brun asbest), antofyllittasbest, tremolittasbest og aktinolittasbest,*avløpsanlegg:* avløpsnett, inkludert pumpestasjon, renseanlegg og utløpsledning,*beredskapsdykker:* dykker som er klar til å assistere dykker i vann tilstrekkelig hurtig i en fare- eller nødssituasjon,*bergarbeid:* alle former for brytning av berg, inkludert arbeid med kontroll, rensk og sikring av berget. I tillegg omfattes lasting og transport av sprengt stein innenfor arbeidsplassen,*biologisk grenseverdi:* Grensen for konsentrasjonen av en gitt agens i et biologisk miljø, dens metabolitt eller en effektindikator*biologiske faktorer:* mikroorganismer, inkludert de som har blitt genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.Med *mikroorganismer* menes: mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.Med *cellekultur* menes: resultatet av in vitro-dyrking av celler fra flercellede organismer.*bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold,*dekompresjon:* tilbakevending fra forhøyet til normalt trykk,*dykkerklokke:* et trykkammer som er konstruert og utstyrt for å transportere dykkere mellom arbeidssted og overflatekammer,*dykkeoperasjon:* arbeid ved økt omgivende trykk under vann eller i trykkammer hvor dykkeren tilføres pustegass,*dykkeslange (umbilical):* pustegasslange, kommunikasjonskabel og eventuell livline bundet sammen til en enhet,*elektromagnetisk felt:* statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz,*faresone:* ethvert område der det kan være fare for arbeidstakernes sikkerhet på grunn av arbeidets art, herunder ethvert område inne i eller rundt et arbeidsutstyr,*farlige kjemikalier:* Kjemikalier som kan utgjøre en fare for arbeidstakers sikkerhet og helse;alle kjemikalier som oppfyller kriteriene for klassifisering etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP). Dette gjelder enten kjemikaliet er klassifisert i medhold av nevnte forskrift eller ikke. Stoffer som bare er skadelige for det ytre miljø, omfattes ikke av denne forskriften.kjemiske stoffer som det er fastsatt en grenseverdi for,øvrige kjemikalier som kan utgjøre en risiko for arbeidstakernes sikkerhet og helse.*fibre:* partikler med lengde større enn 5 mikrometer, med diameter mindre eller lik 3 mikrometer, og med forholdet lengde:diameter større eller lik 3:1,*forplantningsskade:*en skade på forplantningsevnen (reproduksjonstoksisitet) ved at en persons evne til å få friske og velskapte barn er helt eller delvis, varig eller forbigående ødelagt som følge av påvirkninger i arbeidsmiljøet,en skade eller sykdom påført barnet som følge av påvirkninger forut for fødselen eller påvirkninger gjennom morsmelken,*forplantningsskadelig stoff:* Stoff eller stoffblanding som oppfyller kriteriene for klassifisering som reproduksjonstoksisk slik det er fastsatt i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)](forskrift/2012-06-16-622) jf. forordning [(EF) nr. 1272/2008 i vedlegg I](eu/32008r1272).*forplantningsskadelig stoff uten nedre terskel:* Et forplantningsskadelig stoff som ikke har et sikkert eksponeringsnivå og som er merket som sådan i [forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358) vedlegg I.*forplantningsskadelig stoff med nedre terskel:* Et forplantningsskadelig stoff som har et sikkert eksponeringsnivå, der eksponering under dette nivået ikke innebærer noen risiko for arbeidstakers helse, og som er merket som sådan i [forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358) vedlegg I.*forsøksdykking:* dykkeoperasjoner som utføres som ledd i forsknings- eller utviklingsarbeid hvor dykkeoperasjonen har til hensikt å fremskaffe resultater som gir grunnlag for å belyse påvirkningen på dykkeren eller forsvarligheten av dykkeoperasjoner,*gravearbeid:* graving av grøfter, sjakter og andre gravegroper i jordmasser,*grenseverdi:* verdien for eksponering som ikke skal overskrides,*hengestillas:* en mekanisk drevet arbeidsplattform som beveger seg fritt opphengt i tau,*hånd- og armsignal:* bevegelser eller innstillinger av armer eller hender, i kodet form, for å veilede personer som utfører arbeid som kan medføre fare for arbeidstakere,*ikke-koherent optisk stråling:* kunstig optisk stråling, unntatt laserstråling,*inneslutning av biologiske faktorer:* barrierer som anvendes for å unngå at biologiske faktorer kommer i utilsiktet kontakt med mennesker eller miljø,*ioniserende stråling:* røntgenstråling, partikkelstråling, eller stråling fra radioaktivt stoff i bølgelengdeområde 0,01–10 nm,*kjemikalier:* grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke,*klatrestillas:* en mekanisk drevet arbeidsplattform som beveger seg vertikalt i styrte føringer,*klokkeløp i dykking:* et klokkeløp er tiden fra klokken kobles fra boligkammeret til klokken igjen kobles til,*kreftfremkallende kjemikalier og prosesser*: stoffer eller stoffblandinger som oppfyller kriteriene for klassifisering som kreftfremkallende etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272) i vedlegg 1. Følgende prosesser, stoffer eller stoffblandinger som frigjøres i prosessene, betraktes også som kreftfremkallende:fremstilling av auramin,arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,fremstilling av 2-propanol ved sterkt sur prosess,arbeid som medfører eksponering for støv fra harde tresorter,eksponering for respirabelt støv av krystallinsk silika fra arbeidsprosess,arbeid som innebærer hudeksponering for mineraloljer som tidligere har vært brukt i forbrenningsmotorer for å smøre og kjøle de bevegelige delene i motoren,arbeid som involverer eksponering for dieseleksos.Ovennevnte opplisting er ikke fullstendig eller til hinder for at andre prosesser kan anses som kreftfremkallende.*kunstig optisk stråling:* elektromagnetisk stråling i bølgelengdeområdet 100 nm–1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling (lys) og infrarød stråling,
-*Ultrafiolett stråling:* optisk stråling i bølgelengdeområde 100 nm–400 nm. Området oppdeles videre i UVA (315–400 nm), UVB (280–315 nm) og UVC (100–280 nm),
-*Synlig stråling:* optisk stråling i bølgelengdeområde 380 nm–780 nm,
-*Infrarød stråling:* optisk stråling i bølgelengdeområde 780 nm–1 mm. Området deles videre i IR-A (780–1400 nm), IR-B (1400–3000 nm) og IR-C (3000nm–1mm),*laser: («light amplification by stimulated emission of radiation» – lysforsterkning ved hjelp av stimulert strålingsemisjon):* enhver innretning som kan fås til å produsere eller forsterke elektromagnetisk stråling innenfor bølgelengdeområdet for optisk stråling gjennom prosessen med kontrollert, stimulert emisjon,*laserstråling:* optisk stråling fra laser,*løfte- og stablevogn for gods:* gaffeltruck og lignende mobilt motordrevet arbeidsutstyr for kombinert løfting, flytting og stabling,*løfteredskap:* komponenter eller utstyr som ikke er påmontert maskinen og som gjør det mulig å gripe lasten, og som er plassert enten mellom maskinen og lasten eller på selve lasten, eller som er beregnet til å utgjøre en integrert del av lasten,*masseforflytningsmaskin:* en motordrevet maskin som er konstruert for å løfte eller transportere masse, dvs. jord, sand, stein osv., som f.eks. hjullaster, veihøvel, gravemaskin, doser, dumper, skraper, gravelaster,*metningsdykking:* dykk som varer så lenge at den maksimale mengde pustegass har løst seg i kroppen,*mobilt arbeidsutstyr:* tekniske innretninger som beveger seg på hjul, belter og lignende med eller uten egen framdrift,*mutagene kjemikalier:* stoffer eller stoffblandinger som oppfyller kriteriene for klassifisering som kjønnscellemutagen etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272*) vedlegg I.*overflateforsynt dykking:* dykkeoperasjon hvor dykker arbeider ved økt omgivende trykk, med pustegasstilførsel fra overflaten,*personlig verneutstyr:* alt utstyr inkludert tilbehør til utstyret, som bæres eller holdes av arbeidstaker for å verne arbeidstaker mot en eller flere farer som kan true vedkommendes sikkerhet og helse under arbeidet. Personlig verneutstyr omfatter ikke:alminnelig arbeidstøy og uniformer som ikke spesielt er beregnet til å beskytte arbeidstakernes sikkerhet og helsenødhjelp- og redningsutstyrselvforsvarsutstyrtransportabelt utstyr til sporing og lokalisering av farlige og skadelige faktorerpersonlig verneutstyr som brukes i henhold til krav i veitrafikkloven,*redningsdykker:* dykker som har til oppgave å utføre redning av person i vann i det tidsrom det er håp om å redde liv,*risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse,*selvforsynt dykking (SCUBA):* dykking der dykkeren bærer med seg sitt forråd av pustegass,*sikkerhetsskilting og signalgivning:* anvendelse av skilt, farge, lyssignal, lydsignal, muntlig anvisning eller et hånd- og armsignal som henviser til en bestemt gjenstand, virksomhet eller situasjon og som gir opplysninger eller instruksjoner om hvordan personer skal forholde seg i forskjellige situasjoner av hensyn til sikkerhet og helse på arbeidsplassen. Definisjonen omfatter ikke skilting og signalgivning som reguleres av annen lovgivning eller i medhold av veg-, jernbane-, luft- eller sjøtransport eller transport på innenlandske sjøveier,*spisse eller skarpe gjenstander:* gjenstander som kan skjære, stikke og forårsake skader og/eller infeksjoner,*smitterisikogruppe:* klassifisering av levende biologiske faktorer etter den infeksjonsfare representerer i henhold til [forskrift om tiltaks- og grenseverdier § 6-1](forskrift/2011-12-06-1358/§6-1),*tiltaksverdi:* verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen til et minimum,*trykkperiode i dykking:* tiden en dykker er under forhøyet omgivende trykk, regnet fra kompresjonen starter til dekompresjonen i kammer er avsluttet også inkludert overflateintervallet i kammer ved overflatedekompresjon,*varmt arbeid:* arbeid hvor det nyttes varme, for eksempel åpen ild, varmeflater, og tenningsdyktige gnister. Varmt arbeid omfatter også arbeidsoperasjoner som sveising, lodding, skjærbrenning og sliping av metall mv. hvor det i tillegg kan utvikles helsefarlig gass.
+I denne forskriften menes med:
+
+1. *arbeidslokaler:* rom som virksomheten bruker i forbindelse med arbeidet slik som arbeidsrom, personalrom, atkomstarealer m.m.,
+2. *arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,
+3. *arbeidsutstyr for løfting av last:* en maskin som er konstruert for løfte- og senkeoperasjoner,
+4. *asbest:* de fibrøse, krystallinske silikatmineralene krysotil (hvit asbest), krokidolitt (blå asbest), amositt (brun asbest), antofyllittasbest, tremolittasbest og aktinolittasbest,
+5. *avløpsanlegg:* avløpsnett, inkludert pumpestasjon, renseanlegg og utløpsledning,
+6. *beredskapsdykker:* dykker som er klar til å assistere dykker i vann tilstrekkelig hurtig i en fare- eller nødssituasjon,
+7. *bergarbeid:* alle former for brytning av berg, inkludert arbeid med kontroll, rensk og sikring av berget. I tillegg omfattes lasting og transport av sprengt stein innenfor arbeidsplassen,
+8. *biologisk grenseverdi:* Grensen for konsentrasjonen av en gitt agens i et biologisk miljø, dens metabolitt eller en effektindikator
+9. *biologiske faktorer:* mikroorganismer, inkludert de som har blitt genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.
+
+   Med *mikroorganismer* menes: mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.
+
+   Med *cellekultur* menes: resultatet av in vitro-dyrking av celler fra flercellede organismer.
+10. *bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold,
+11. *dekompresjon:* tilbakevending fra forhøyet til normalt trykk,
+12. *dykkerklokke:* et trykkammer som er konstruert og utstyrt for å transportere dykkere mellom arbeidssted og overflatekammer,
+13. *dykkeoperasjon:* arbeid ved økt omgivende trykk under vann eller i trykkammer hvor dykkeren tilføres pustegass,
+14. *dykkeslange (umbilical):* pustegasslange, kommunikasjonskabel og eventuell livline bundet sammen til en enhet,
+15. *elektromagnetisk felt:* statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz,
+16. *faresone:* ethvert område der det kan være fare for arbeidstakernes sikkerhet på grunn av arbeidets art, herunder ethvert område inne i eller rundt et arbeidsutstyr,
+17. *farlige kjemikalier:* Kjemikalier som kan utgjøre en fare for arbeidstakers sikkerhet og helse;
+
+    - alle kjemikalier som oppfyller kriteriene for klassifisering etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP). Dette gjelder enten kjemikaliet er klassifisert i medhold av nevnte forskrift eller ikke. Stoffer som bare er skadelige for det ytre miljø, omfattes ikke av denne forskriften.
+    - kjemiske stoffer som det er fastsatt en grenseverdi for,
+    - øvrige kjemikalier som kan utgjøre en risiko for arbeidstakernes sikkerhet og helse.
+18. *fibre:* partikler med lengde større enn 5 mikrometer, med diameter mindre eller lik 3 mikrometer, og med forholdet lengde:diameter større eller lik 3:1,
+19. *forplantningsskade:*
+
+    - en skade på forplantningsevnen (reproduksjonstoksisitet) ved at en persons evne til å få friske og velskapte barn er helt eller delvis, varig eller forbigående ødelagt som følge av påvirkninger i arbeidsmiljøet,
+    - en skade eller sykdom påført barnet som følge av påvirkninger forut for fødselen eller påvirkninger gjennom morsmelken,
+20. *forplantningsskadelig stoff:* Stoff eller stoffblanding som oppfyller kriteriene for klassifisering som reproduksjonstoksisk slik det er fastsatt i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)](forskrift/2012-06-16-622) jf. forordning [(EF) nr. 1272/2008 i vedlegg I](eu/32008r1272).
+21. *forplantningsskadelig stoff uten nedre terskel:* Et forplantningsskadelig stoff som ikke har et sikkert eksponeringsnivå og som er merket som sådan i [forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358) vedlegg I.
+22. *forplantningsskadelig stoff med nedre terskel:* Et forplantningsskadelig stoff som har et sikkert eksponeringsnivå, der eksponering under dette nivået ikke innebærer noen risiko for arbeidstakers helse, og som er merket som sådan i [forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358) vedlegg I.
+23. *forsøksdykking:* dykkeoperasjoner som utføres som ledd i forsknings- eller utviklingsarbeid hvor dykkeoperasjonen har til hensikt å fremskaffe resultater som gir grunnlag for å belyse påvirkningen på dykkeren eller forsvarligheten av dykkeoperasjoner,
+24. *gravearbeid:* graving av grøfter, sjakter og andre gravegroper i jordmasser,
+25. *grenseverdi:* verdien for eksponering som ikke skal overskrides,
+26. *hengestillas:* en mekanisk drevet arbeidsplattform som beveger seg fritt opphengt i tau,
+27. *hånd- og armsignal:* bevegelser eller innstillinger av armer eller hender, i kodet form, for å veilede personer som utfører arbeid som kan medføre fare for arbeidstakere,
+28. *ikke-koherent optisk stråling:* kunstig optisk stråling, unntatt laserstråling,
+29. *inneslutning av biologiske faktorer:* barrierer som anvendes for å unngå at biologiske faktorer kommer i utilsiktet kontakt med mennesker eller miljø,
+30. *ioniserende stråling:* røntgenstråling, partikkelstråling, eller stråling fra radioaktivt stoff i bølgelengdeområde 0,01–10 nm,
+31. *kjemikalier:* grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke,
+32. *klatrestillas:* en mekanisk drevet arbeidsplattform som beveger seg vertikalt i styrte føringer,
+33. *klokkeløp i dykking:* et klokkeløp er tiden fra klokken kobles fra boligkammeret til klokken igjen kobles til,
+34. *kreftfremkallende kjemikalier og prosesser*: stoffer eller stoffblandinger som oppfyller kriteriene for klassifisering som kreftfremkallende etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272) i vedlegg 1. Følgende prosesser, stoffer eller stoffblandinger som frigjøres i prosessene, betraktes også som kreftfremkallende:
+
+    - fremstilling av auramin,
+    - arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,
+    - arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,
+    - fremstilling av 2-propanol ved sterkt sur prosess,
+    - arbeid som medfører eksponering for støv fra harde tresorter,
+    - eksponering for respirabelt støv av krystallinsk silika fra arbeidsprosess,
+    - arbeid som innebærer hudeksponering for mineraloljer som tidligere har vært brukt i forbrenningsmotorer for å smøre og kjøle de bevegelige delene i motoren,
+    - arbeid som involverer eksponering for dieseleksos.
+
+    Ovennevnte opplisting er ikke fullstendig eller til hinder for at andre prosesser kan anses som kreftfremkallende.
+35. *kunstig optisk stråling:* elektromagnetisk stråling i bølgelengdeområdet 100 nm–1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling (lys) og infrarød stråling,
+    *Ultrafiolett stråling:* optisk stråling i bølgelengdeområde 100 nm–400 nm. Området oppdeles videre i UVA (315–400 nm), UVB (280–315 nm) og UVC (100–280 nm),
+    *Synlig stråling:* optisk stråling i bølgelengdeområde 380 nm–780 nm,
+    *Infrarød stråling:* optisk stråling i bølgelengdeområde 780 nm–1 mm. Området deles videre i IR-A (780–1400 nm), IR-B (1400–3000 nm) og IR-C (3000nm–1mm),
+36. *laser: («light amplification by stimulated emission of radiation» – lysforsterkning ved hjelp av stimulert strålingsemisjon):* enhver innretning som kan fås til å produsere eller forsterke elektromagnetisk stråling innenfor bølgelengdeområdet for optisk stråling gjennom prosessen med kontrollert, stimulert emisjon,
+37. *laserstråling:* optisk stråling fra laser,
+38. *løfte- og stablevogn for gods:* gaffeltruck og lignende mobilt motordrevet arbeidsutstyr for kombinert løfting, flytting og stabling,
+39. *løfteredskap:* komponenter eller utstyr som ikke er påmontert maskinen og som gjør det mulig å gripe lasten, og som er plassert enten mellom maskinen og lasten eller på selve lasten, eller som er beregnet til å utgjøre en integrert del av lasten,
+40. *masseforflytningsmaskin:* en motordrevet maskin som er konstruert for å løfte eller transportere masse, dvs. jord, sand, stein osv., som f.eks. hjullaster, veihøvel, gravemaskin, doser, dumper, skraper, gravelaster,
+41. *metningsdykking:* dykk som varer så lenge at den maksimale mengde pustegass har løst seg i kroppen,
+42. *mobilt arbeidsutstyr:* tekniske innretninger som beveger seg på hjul, belter og lignende med eller uten egen framdrift,
+43. *mutagene kjemikalier:* stoffer eller stoffblandinger som oppfyller kriteriene for klassifisering som kjønnscellemutagen etter [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272*) vedlegg I.
+44. *overflateforsynt dykking:* dykkeoperasjon hvor dykker arbeider ved økt omgivende trykk, med pustegasstilførsel fra overflaten,
+45. *personlig verneutstyr:* alt utstyr inkludert tilbehør til utstyret, som bæres eller holdes av arbeidstaker for å verne arbeidstaker mot en eller flere farer som kan true vedkommendes sikkerhet og helse under arbeidet. Personlig verneutstyr omfatter ikke:
+
+    - alminnelig arbeidstøy og uniformer som ikke spesielt er beregnet til å beskytte arbeidstakernes sikkerhet og helse
+    - nødhjelp- og redningsutstyr
+    - selvforsvarsutstyr
+    - transportabelt utstyr til sporing og lokalisering av farlige og skadelige faktorer
+    - personlig verneutstyr som brukes i henhold til krav i veitrafikkloven,
+46. *redningsdykker:* dykker som har til oppgave å utføre redning av person i vann i det tidsrom det er håp om å redde liv,
+47. *risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse,
+48. *selvforsynt dykking (SCUBA):* dykking der dykkeren bærer med seg sitt forråd av pustegass,
+49. *sikkerhetsskilting og signalgivning:* anvendelse av skilt, farge, lyssignal, lydsignal, muntlig anvisning eller et hånd- og armsignal som henviser til en bestemt gjenstand, virksomhet eller situasjon og som gir opplysninger eller instruksjoner om hvordan personer skal forholde seg i forskjellige situasjoner av hensyn til sikkerhet og helse på arbeidsplassen. Definisjonen omfatter ikke skilting og signalgivning som reguleres av annen lovgivning eller i medhold av veg-, jernbane-, luft- eller sjøtransport eller transport på innenlandske sjøveier,
+50. *spisse eller skarpe gjenstander:* gjenstander som kan skjære, stikke og forårsake skader og/eller infeksjoner,
+51. *smitterisikogruppe:* klassifisering av levende biologiske faktorer etter den infeksjonsfare representerer i henhold til [forskrift om tiltaks- og grenseverdier § 6-1](forskrift/2011-12-06-1358/§6-1),
+52. *tiltaksverdi:* verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen til et minimum,
+53. *trykkperiode i dykking:* tiden en dykker er under forhøyet omgivende trykk, regnet fra kompresjonen starter til dekompresjonen i kammer er avsluttet også inkludert overflateintervallet i kammer ved overflatedekompresjon,
+54. *varmt arbeid:* arbeid hvor det nyttes varme, for eksempel åpen ild, varmeflater, og tenningsdyktige gnister. Varmt arbeid omfatter også arbeidsoperasjoner som sveising, lodding, skjærbrenning og sliping av metall mv. hvor det i tillegg kan utvikles helsefarlig gass.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [18 juni 2013 nr. 658](forskrift/2013-06-18-658), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [26 juni 2015 nr. 806](forskrift/2015-06-26-806), [21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016), [20 des 2017 nr. 2354](forskrift/2017-12-20-2354) (i kraft 1 jan 2018), [14 des 2018 nr. 1976](forskrift/2018-12-14-1976) (i kraft 1 jan 2019), [19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020), [15 des 2021 nr. 3602](forskrift/2021-12-15-3602) (i kraft 1 jan 2022), [10 mai 2022 nr. 820](forskrift/2022-05-10-820), [5 april 2024 nr. 574](forskrift/2024-04-05-574), [5 juni 2026 nr. 1020](forskrift/2026-06-05-1020).
 
@@ -85,7 +190,16 @@ Arbeidstilsynet, Havindustritilsynet og Luftfartstilsynet kan på sine områder 
 
 Arbeidsgiveren skal sørge for at arbeidet organiseres, planlegges og gjennomføres slik at det psykososiale arbeidsmiljøet er fullt forsvarlig ut fra hensynet til arbeidstakernes helse, sikkerhet og velferd.
 
-Psykososiale arbeidsmiljøfaktorer er blant annetuklare eller motstridende krav og forventninger i arbeidetemosjonelle krav og belastninger i arbeid med menneskerarbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighetstøtte og hjelp i arbeidetmulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomhetentrakassering, herunder seksuell trakasseringvold og truslerselvbestemmelse og innflytelse i arbeidet.
+Psykososiale arbeidsmiljøfaktorer er blant annet
+
+1. uklare eller motstridende krav og forventninger i arbeidet
+2. emosjonelle krav og belastninger i arbeid med mennesker
+3. arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet
+4. støtte og hjelp i arbeidet
+5. mulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomheten
+6. trakassering, herunder seksuell trakassering
+7. vold og trusler
+8. selvbestemmelse og innflytelse i arbeidet.
 
 > Tilføyd ved forskrift [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
 
@@ -97,7 +211,12 @@ På grunnlag av kartleggingen skal arbeidsgiveren vurdere risikoen for skadelig 
 
 Risikovurderingen skal omfatte de enkelte faktorene hver for seg, hvordan de påvirker hverandre, og om de samlet utgjør en risiko.
 
-Kartleggingen og risikovurderingen skalforetas i samarbeid med arbeidstakerne og deres representantertilpasses virksomhetens art, aktiviteter og størrelsegjentas regelmessig og ved endringer som kan ha betydning for risikoforholdene i virksomhetendokumenteres og inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid.
+Kartleggingen og risikovurderingen skal
+
+1. foretas i samarbeid med arbeidstakerne og deres representanter
+2. tilpasses virksomhetens art, aktiviteter og størrelse
+3. gjentas regelmessig og ved endringer som kan ha betydning for risikoforholdene i virksomheten
+4. dokumenteres og inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid.
 
 > Tilføyd ved forskrift [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
 
@@ -141,7 +260,11 @@ Arbeidsgiveren skal kartlegge forhold ved arbeidet og arbeidsmiljøet som kan me
 
 På grunnlag av kartleggingen skal arbeidsgiveren vurdere forholdene som kan innebære risiko for at arbeidstakere blir utsatt for trakassering eller annen utilbørlig opptreden. Forholdene skal vurderes både samlet og hver for seg.
 
-I risikovurderingen skal arbeidsgiveren særlig ta hensyn tilhvordan arbeidet er organisert, planlagt og gjennomførthvor, når og i hvilke situasjoner trakassering kan skjeeffekten av allerede iverksatte tiltak.
+I risikovurderingen skal arbeidsgiveren særlig ta hensyn til
+
+1. hvordan arbeidet er organisert, planlagt og gjennomført
+2. hvor, når og i hvilke situasjoner trakassering kan skje
+3. effekten av allerede iverksatte tiltak.
 
 Kartleggingen og risikovurderingen skal foretas i samarbeid med arbeidstakerne og deres representanter.
 
@@ -175,7 +298,16 @@ Arbeidsgiveren skal kartlegge forhold ved arbeidet og arbeidsmiljøet som kan me
 
 På grunnlag av kartleggingen skal arbeidsgiveren vurdere forhold som kan innebære risiko for at arbeidstakere blir utsatt for vold og trusler. Forholdene skal vurderes både samlet og hver for seg.
 
-I risikovurderingen skal arbeidsgiveren særlig ta hensyn tilhvordan arbeidet er organisert, planlagt og gjennomførthvordan arbeidslokalene og tekniske løsninger er utformethvor, når og i hvilke situasjoner arbeidstakere kan bli utsatt for vold og truslerhvordan arbeidstiden er plassert og organisertalenearbeidbemanningkompetanseeffekten av allerede iverksatte tiltak.
+I risikovurderingen skal arbeidsgiveren særlig ta hensyn til
+
+1. hvordan arbeidet er organisert, planlagt og gjennomført
+2. hvordan arbeidslokalene og tekniske løsninger er utformet
+3. hvor, når og i hvilke situasjoner arbeidstakere kan bli utsatt for vold og trusler
+4. hvordan arbeidstiden er plassert og organisert
+5. alenearbeid
+6. bemanning
+7. kompetanse
+8. effekten av allerede iverksatte tiltak.
 
 Kartleggingen og risikovurderingen skal foretas i samarbeid med arbeidstakernes og deres representanter.
 
@@ -185,19 +317,32 @@ Kartleggingen og risikovurderingen skal foretas i samarbeid med arbeidstakernes 
 
 På grunnlag av risikovurderingen skal arbeidsgiveren utarbeide nødvendige planer og iverksette nødvendige tiltak for, så langt det er mulig, å fjerne eller redusere risikoen for vold og trusler. Dette skal skje i samarbeid med arbeidstakerne og deres representanter.
 
-Arbeidsgiveren skal vurdere tiltak knyttet til blant annetorganisering av arbeidetutforming og tilrettelegging av arbeidsplassensystematisk vedlikehold av relevant arbeidsutstyr, for eksempel alarmutstyrmuligheter for å tilkalle hjelpbemanning, inkludert bruk av alenearbeid.
+Arbeidsgiveren skal vurdere tiltak knyttet til blant annet
+
+1. organisering av arbeidet
+2. utforming og tilrettelegging av arbeidsplassen
+3. systematisk vedlikehold av relevant arbeidsutstyr, for eksempel alarmutstyr
+4. muligheter for å tilkalle hjelp
+5. bemanning, inkludert bruk av alenearbeid.
 
 > Tilføyd ved forskrift [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
 
 ### § 3A-4. Informasjon ved arbeid som kan medføre risiko for å bli utsatt for vold og trusler
 
-Arbeidsgiveren skal sørge for at arbeidstakerne og deres representanter får nødvendig informasjon omrisikofaktorer knyttet til vold og trusleriverksatte tiltak og rutiner for å forebygge, håndtere og følge opp vold og truslerrutiner for varsling og rapportering av vold og trusler.
+Arbeidsgiveren skal sørge for at arbeidstakerne og deres representanter får nødvendig informasjon om
+
+1. risikofaktorer knyttet til vold og trusler
+2. iverksatte tiltak og rutiner for å forebygge, håndtere og følge opp vold og trusler
+3. rutiner for varsling og rapportering av vold og trusler.
 
 > Tilføyd ved forskrift [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
 
 ### § 3A-5. Opplæring ved arbeid som innebærer risiko for å bli utsatt for vold og trusler
 
-Ved arbeid som innebærer risiko for å bli utsatt for vold og trusler, skal arbeidsgiveren sørge for å gi arbeidstakerne nødvendig opplæring og øvelse iforebygging og håndtering av vold og truslerbruk av eventuelt sikkerhetsutstyr.
+Ved arbeid som innebærer risiko for å bli utsatt for vold og trusler, skal arbeidsgiveren sørge for å gi arbeidstakerne nødvendig opplæring og øvelse i
+
+1. forebygging og håndtering av vold og trusler
+2. bruk av eventuelt sikkerhetsutstyr.
 
 Arbeidsgiveren skal sørge for at opplæring og øvelse gjentas og tilpasses vesentlige endringer i risikovurderingen og ellers når det er nødvendig.
 
@@ -223,9 +368,26 @@ Stoffkartoteket skal for de tre gruppene som nevnes nedenfor, inneholde følgend
 
 Gruppe 1) For kjemikalier som omfattes av artikkel 31 og vedlegg II i forordning [(EF) nr. 1907/2006](eu/32006r1907*) om REACH, skal det foreligge et sikkerhetsdatablad med eventuelle vedlegg iht. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensing av kjemikalier (REACH-forskriften).
 
-Gruppe 2) For farlige kjemikalier som ikke omfattes av gruppe 1 og 3, skal det foreligge et informasjonsblad som minst skal inneholde følgende opplysninger:navn,sammensetning,opplysninger om leverandør,fysikalske, kjemiske og helseskadelige egenskaper,toksikologiske data,risikomomenter,forebyggende vernetiltak ogførstehjelpsbehandling.
+Gruppe 2) For farlige kjemikalier som ikke omfattes av gruppe 1 og 3, skal det foreligge et informasjonsblad som minst skal inneholde følgende opplysninger:
 
-Gruppe 3) For helsefarlig biologisk materiale skal det utarbeides informasjonsblad som minst skal inneholde følgende opplysninger:navn,opplysninger om leverandør,helseskadelige egenskaper/toksikologiske data,opplysninger om smittefare,risikomomenter,forebyggende vernetiltak ogførstehjelpsbehandling.
+1. navn,
+2. sammensetning,
+3. opplysninger om leverandør,
+4. fysikalske, kjemiske og helseskadelige egenskaper,
+5. toksikologiske data,
+6. risikomomenter,
+7. forebyggende vernetiltak og
+8. førstehjelpsbehandling.
+
+Gruppe 3) For helsefarlig biologisk materiale skal det utarbeides informasjonsblad som minst skal inneholde følgende opplysninger:
+
+1. navn,
+2. opplysninger om leverandør,
+3. helseskadelige egenskaper/toksikologiske data,
+4. opplysninger om smittefare,
+5. risikomomenter,
+6. forebyggende vernetiltak og
+7. førstehjelpsbehandling.
 
 Dersom det ikke er relevant eller teknisk mulig å gi en eller flere av de opplysningene som kreves etter denne bestemmelsen, skal begrunnelsen fremgå av opplysningene i stoffkartoteket.
 
@@ -265,7 +427,19 @@ Verneombudet skal ha tilgang til stoffkartoteket som gjelder eget verneområde. 
 
 Arbeidsgiver skal kartlegge og dokumentere forekomsten av kjemikalier, herunder støv med asbestfiber, og vurdere enhver risiko for arbeidstakernes helse og sikkerhet forbundet med disse.
 
-Risikovurderingen skal særlig ta hensyn til:kjemikalienes farlige egenskaper,leverandørens informasjon om risiko for helse, miljø og sikkerhet,forholdene på arbeidsplassen der kjemikaliene forekommer,mengden og bruksmåten av kjemikalier,om arbeidsprosessene og arbeidsutstyret er hensiktsmessig,antall arbeidstakere som antas å bli eksponert,eksponeringens type, nivå, varighet, hyppighet og eksponeringsveier,grenseverdier,effekten av iverksatte og planlagte forebyggende tiltak,konklusjoner fra gjennomførte helseundersøkelser ogskader, sykdommer, arbeidsulykker og tilløp til slike ulykker.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. kjemikalienes farlige egenskaper,
+2. leverandørens informasjon om risiko for helse, miljø og sikkerhet,
+3. forholdene på arbeidsplassen der kjemikaliene forekommer,
+4. mengden og bruksmåten av kjemikalier,
+5. om arbeidsprosessene og arbeidsutstyret er hensiktsmessig,
+6. antall arbeidstakere som antas å bli eksponert,
+7. eksponeringens type, nivå, varighet, hyppighet og eksponeringsveier,
+8. grenseverdier,
+9. effekten av iverksatte og planlagte forebyggende tiltak,
+10. konklusjoner fra gjennomførte helseundersøkelser og
+11. skader, sykdommer, arbeidsulykker og tilløp til slike ulykker.
 
 Ytterligere opplysninger som er nødvendig må innhentes.
 
@@ -291,7 +465,14 @@ Ved lukkede anlegg for polymerisering av det kreftfremkallende stoffet vinylklor
 
 ### § 3-4. Opplæring i arbeid med farlige kjemikalier
 
-Arbeidsgiver skal sørge for at arbeidstaker og verneombudet får opplæring om:de farlige kjemikaliene som forekommer eller kan forekomme på arbeidsplassen, kjemikalienes navn, den risiko de medfører for arbeidstakernes helse og sikkerhet, og hvilke grenseverdier som gjelder for kjemikaliene,bruk av stoffkartoteket,den foretatte risikovurderingen og vesentlige endringer i denne,riktig bruk av det arbeidsutstyret som anvendes,nødvendige vernetiltak for sikker utførelse av arbeidet oghåndtering av driftsforstyrrelser og nødsituasjoner som kan oppstå.
+Arbeidsgiver skal sørge for at arbeidstaker og verneombudet får opplæring om:
+
+1. de farlige kjemikaliene som forekommer eller kan forekomme på arbeidsplassen, kjemikalienes navn, den risiko de medfører for arbeidstakernes helse og sikkerhet, og hvilke grenseverdier som gjelder for kjemikaliene,
+2. bruk av stoffkartoteket,
+3. den foretatte risikovurderingen og vesentlige endringer i denne,
+4. riktig bruk av det arbeidsutstyret som anvendes,
+5. nødvendige vernetiltak for sikker utførelse av arbeidet og
+6. håndtering av driftsforstyrrelser og nødsituasjoner som kan oppstå.
 
 Ved arbeid med risiko for eksponering for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier skal opplæring gjentas regelmessig.
 
@@ -301,7 +482,14 @@ Virksomhet som ikke sysselsetter arbeidstakere skal inneha tilsvarende kunnskap.
 
 ### § 3-5. Informasjon om risiko i tilknytning til farlige kjemikalier
 
-Arbeidsgiver skal sørge for at arbeidstaker og verneombudet får løpende informasjon om:de farlige kjemikaliene som forekommer eller kan forekomme på arbeidsplassen, kjemikalienes navn, den risiko de medfører for arbeidstakernes helse og sikkerhet, og hvilke grenseverdier som gjelder for kjemikalieneden foretatte risikovurderingen og vesentlige endringer i denneriktig bruk av det arbeidsutstyret som anvendesnødvendige vernetiltak for sikker utførelse av arbeidethåndtering av driftsforstyrrelser og nødsituasjoner som kan oppståstoffkartotek.
+Arbeidsgiver skal sørge for at arbeidstaker og verneombudet får løpende informasjon om:
+
+1. de farlige kjemikaliene som forekommer eller kan forekomme på arbeidsplassen, kjemikalienes navn, den risiko de medfører for arbeidstakernes helse og sikkerhet, og hvilke grenseverdier som gjelder for kjemikaliene
+2. den foretatte risikovurderingen og vesentlige endringer i denne
+3. riktig bruk av det arbeidsutstyret som anvendes
+4. nødvendige vernetiltak for sikker utførelse av arbeidet
+5. håndtering av driftsforstyrrelser og nødsituasjoner som kan oppstå
+6. stoffkartotek.
 
 Virksomhet som ikke sysselsetter arbeidstakere skal innhente tilsvarende informasjon.
 
@@ -319,9 +507,20 @@ Kjemikalier skal håndteres og oppbevares på en fullt forsvarlig måte slik at 
 
 ### § 3-8. Tiltak mot risiko forårsaket av kjemikalier
 
-Arbeidsgiver skal sørge for at helse- og sikkerhetsrisiko som er forårsaket av kjemikalier fjernes eller reduseres til et fullt forsvarlig nivå, ved å:utforme og tilrettelegge arbeidsplassen og arbeidet som utføres,stille til rådighet egnet utstyr for utførelse av arbeidet, herunder utstyr til reparasjon, vedlikehold og renhold,begrense antall arbeidstakere som blir eksponert for kjemikalier til et minimum,begrense eksponeringens nivå og varighet til et minimum,begrense mengden av kjemikalier på arbeidsplassen til det som er nødvendig for det aktuelle arbeidet,iverksette egnede hygiene- og renholdstiltak.
+Arbeidsgiver skal sørge for at helse- og sikkerhetsrisiko som er forårsaket av kjemikalier fjernes eller reduseres til et fullt forsvarlig nivå, ved å:
 
-Dersom disse tiltakene ikke er tilstrekkelige, skal arbeidsgiver sørge for å fjerne eller redusere risikoen til et fullt forsvarlig nivå ved å iverksette følgende tiltak, i prioritert rekkefølge:utforme egnede arbeidsprosesser og rutiner for teknisk kontroll, og benytte hensiktsmessig utstyr og materialer,iverksette kollektive vernetiltak ved risikokilden, herunder ventilasjon,iverksette personlige vernetiltak og tildele personlig verneutstyr når eksponering ikke kan unngås på andre måter.
+1. utforme og tilrettelegge arbeidsplassen og arbeidet som utføres,
+2. stille til rådighet egnet utstyr for utførelse av arbeidet, herunder utstyr til reparasjon, vedlikehold og renhold,
+3. begrense antall arbeidstakere som blir eksponert for kjemikalier til et minimum,
+4. begrense eksponeringens nivå og varighet til et minimum,
+5. begrense mengden av kjemikalier på arbeidsplassen til det som er nødvendig for det aktuelle arbeidet,
+6. iverksette egnede hygiene- og renholdstiltak.
+
+Dersom disse tiltakene ikke er tilstrekkelige, skal arbeidsgiver sørge for å fjerne eller redusere risikoen til et fullt forsvarlig nivå ved å iverksette følgende tiltak, i prioritert rekkefølge:
+
+1. utforme egnede arbeidsprosesser og rutiner for teknisk kontroll, og benytte hensiktsmessig utstyr og materialer,
+2. iverksette kollektive vernetiltak ved risikokilden, herunder ventilasjon,
+3. iverksette personlige vernetiltak og tildele personlig verneutstyr når eksponering ikke kan unngås på andre måter.
 
 ### § 3-9. Tiltak mot helseskadelige kjemikalier ved reparasjon, vedlikehold og renhold
 
@@ -329,7 +528,10 @@ Hvis det ved reparasjon, vedlikehold og renhold er risiko for eksponering for kj
 
 ### § 3-10. Tiltak i forbindelse med brann- og eksplosjonsfarlige kjemikalier og ustabile kjemikalier
 
-I prioritert rekkefølge skal arbeidsgiver sørge for at:det ikke forekommer antennbare konsentrasjoner av brannfarlige kjemikalier i arbeidsatmosfæren eller farlige mengder av reaktive kjemikalier på arbeidsplassen, eller at det ikke forekommer tennkilder som kan forårsake brann eller eksplosjon, eller andre forhold som kan medføre at reaktive kjemikalier kan føre til farlige situasjoner.arbeidstaker ikke blir skadet dersom brann eller eksplosjon oppstår, eller som følge av andre farlige situasjoner som kan forårsakes av reaktive kjemikalier.
+I prioritert rekkefølge skal arbeidsgiver sørge for at:
+
+1. det ikke forekommer antennbare konsentrasjoner av brannfarlige kjemikalier i arbeidsatmosfæren eller farlige mengder av reaktive kjemikalier på arbeidsplassen, eller at det ikke forekommer tennkilder som kan forårsake brann eller eksplosjon, eller andre forhold som kan medføre at reaktive kjemikalier kan føre til farlige situasjoner.
+2. arbeidstaker ikke blir skadet dersom brann eller eksplosjon oppstår, eller som følge av andre farlige situasjoner som kan forårsakes av reaktive kjemikalier.
 
 ### § 3-11. Særlige tiltak ved arbeid med kreftfremkallende, mutagene eller forplantningsskadelige Kjemikalier
 
@@ -383,7 +585,16 @@ Slikt avfall skal destrueres på fullt forsvarlig måte eller leveres til godkje
 
 ### § 3-17. Hygienetiltak ved arbeid med kjemikalier
 
-Når arbeidstaker kan bli eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier, skal arbeidsgiver sørge for at det blir satt i verk tiltak for å sikre at:arbeidstakerne ikke spiser, drikker, bruker tobakk mv. i arbeidslokaler som kan være forurenset med kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier,arbeidstakerne får informasjon om økt risiko forbundet med bruk av tobakk,arbeidstakerne får tildelt hensiktsmessig arbeidstøy i tillegg til nødvendig personlig verneutstyr, jf. [forskrift 6. desember 2011 nr. 1355 om organisering, ledelse og medvirkning kapittel 15](forskrift/2011-12-06-1355/kap15),privat tøy og arbeidstøy/personlig verneutstyr blir oppbevart atskilt i egne skap,arbeidstøy og personlig verneutstyr blir vasket eller renset,beholdere eller liknende som inneholder forurenset arbeidstøy/personlig verneutstyr, er tydelig merket,arbeidstøy og personlig verneutstyr som kan være forurenset med kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier, ikke tas med i spiserom eller liknende, eller tas med hjem,det finnes vaskemuligheter i eller i umiddelbar nærhet av arbeidslokalet.
+Når arbeidstaker kan bli eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier, skal arbeidsgiver sørge for at det blir satt i verk tiltak for å sikre at:
+
+1. arbeidstakerne ikke spiser, drikker, bruker tobakk mv. i arbeidslokaler som kan være forurenset med kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier,
+2. arbeidstakerne får informasjon om økt risiko forbundet med bruk av tobakk,
+3. arbeidstakerne får tildelt hensiktsmessig arbeidstøy i tillegg til nødvendig personlig verneutstyr, jf. [forskrift 6. desember 2011 nr. 1355 om organisering, ledelse og medvirkning kapittel 15](forskrift/2011-12-06-1355/kap15),
+4. privat tøy og arbeidstøy/personlig verneutstyr blir oppbevart atskilt i egne skap,
+5. arbeidstøy og personlig verneutstyr blir vasket eller renset,
+6. beholdere eller liknende som inneholder forurenset arbeidstøy/personlig verneutstyr, er tydelig merket,
+7. arbeidstøy og personlig verneutstyr som kan være forurenset med kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier, ikke tas med i spiserom eller liknende, eller tas med hjem,
+8. det finnes vaskemuligheter i eller i umiddelbar nærhet av arbeidslokalet.
 
 Omkostninger i forbindelse med tiltak i denne bestemmelsen skal ikke belastes arbeidstaker.
 
@@ -397,11 +608,20 @@ Ventilasjonen skal måles og registreres regelmessig dersom feil kan medføre he
 
 ### § 3-19. Forbud mot arbeid med spesielle kjemikalier
 
-Produksjon, fremstilling eller bruk av følgende kreftfremkallende kjemikalier er forbudt:2-naftylamin og salt av 2-naftylamin (CAS-nr. 91-59-8)4-aminobifenyl og salt av 4-aminobifenyl (CAS-nr. 92-67-1)benzidin og salt av benzidin (CAS-nr. 92-87-5)4-nitrobifenyl (CAS-nr. 92-93-3).
+Produksjon, fremstilling eller bruk av følgende kreftfremkallende kjemikalier er forbudt:
+
+1. 2-naftylamin og salt av 2-naftylamin (CAS-nr. 91-59-8)
+2. 4-aminobifenyl og salt av 4-aminobifenyl (CAS-nr. 92-67-1)
+3. benzidin og salt av benzidin (CAS-nr. 92-87-5)
+4. 4-nitrobifenyl (CAS-nr. 92-93-3).
 
 Forbudet i første ledd gjelder ikke dersom det kjemiske stoffet er tilstede i et stoff eller i en stoffblanding som forurensning eller biprodukt eller som del av avfallsstoff, forutsatt at konsentrasjonen ikke er høyere enn 0,1 vektprosent.
 
-Forbudet i første ledd gjelder heller ikke dersom kjemikaliene:anvendes i vitenskapelig forsknings- og forsøksøyemed, her medregnet analyserinngår i arbeidsoperasjoner som har til formål å fjerne kjemikalier som er biprodukter eller avfallsprodukterbenyttes i produksjon av de forbudte kjemikaliene som er nevnt i første ledd som mellomprodukter og ved slik bruk av dem.
+Forbudet i første ledd gjelder heller ikke dersom kjemikaliene:
+
+1. anvendes i vitenskapelig forsknings- og forsøksøyemed, her medregnet analyser
+2. inngår i arbeidsoperasjoner som har til formål å fjerne kjemikalier som er biprodukter eller avfallsprodukter
+3. benyttes i produksjon av de forbudte kjemikaliene som er nevnt i første ledd som mellomprodukter og ved slik bruk av dem.
 
 Arbeidsgiver skal sørge for at arbeidstaker ikke blir eksponert for stoffer som nevnt i første ledd ved tiltak som sikrer at produksjonen og bruken av stoffene finner sted i et lukket system der stoffene ikke kan fjernes, med mindre det er nødvendig for å kontrollere prosessen eller vedlikeholde systemet.
 
@@ -419,7 +639,11 @@ Arbeidstaker skal informeres om kravet om helseundersøkelse før arbeidet tilde
 
 ### § 3-21. Arbeidsgivers oppfølging av helseundersøkelse ved eksponering for kjemikalier
 
-Dersom helseundersøkelsen påviser sykdom eller annen helseeffekt som legen mener kan skyldes eksponering for farlige kjemikalier på arbeidsplassen, eller dersom den biologiske grenseverdien for bly er overskredet, skal arbeidsgiver:revidere risikovurderingen som er utarbeidet i henhold til [§ 3-1](forskrift/2011-12-06-1357/§3-1),iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid med farlige kjemikalier til et fullt forsvarlig nivå,gi tilbud om egnet helseundersøkelse til andre arbeidstakere som er blitt eksponert på liknende måte.
+Dersom helseundersøkelsen påviser sykdom eller annen helseeffekt som legen mener kan skyldes eksponering for farlige kjemikalier på arbeidsplassen, eller dersom den biologiske grenseverdien for bly er overskredet, skal arbeidsgiver:
+
+1. revidere risikovurderingen som er utarbeidet i henhold til [§ 3-1](forskrift/2011-12-06-1357/§3-1),
+2. iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid med farlige kjemikalier til et fullt forsvarlig nivå,
+3. gi tilbud om egnet helseundersøkelse til andre arbeidstakere som er blitt eksponert på liknende måte.
 
 ### § 3-22. Omplassering av arbeidstaker utsatt for kjemikalier
 
@@ -479,7 +703,13 @@ Håndtering av eksisterende asbest og asbestholdig materiale er forbudt med mind
 
 ### § 4-2. Unntak fra forbud om arbeid med asbest
 
-Unntatt fra forbudet i [§ 4-1 andre ledd](forskrift/2011-12-06-1357/§4-1/ledd/2) erarbeid som en virksomhet på forhånd har fått tillatelse til å utføre fra Arbeidstilsynet etter [§ 4-4](forskrift/2011-12-06-1357/§4-4),bryting og bearbeiding av bergarter som inneholder høyst 1 vektprosent asbest,prøvetaking og analysering for å fastslå om et bestemt materiale inneholder asbest,mottak og håndtering av forsvarlig emballert asbestholdig avfall på godkjente avfallsmottak og deponier,håndtering av asbestholdig materiale som ikke innebærer risiko for å bli eksponert for asbeststøv.
+Unntatt fra forbudet i [§ 4-1 andre ledd](forskrift/2011-12-06-1357/§4-1/ledd/2) er
+
+1. arbeid som en virksomhet på forhånd har fått tillatelse til å utføre fra Arbeidstilsynet etter [§ 4-4](forskrift/2011-12-06-1357/§4-4),
+2. bryting og bearbeiding av bergarter som inneholder høyst 1 vektprosent asbest,
+3. prøvetaking og analysering for å fastslå om et bestemt materiale inneholder asbest,
+4. mottak og håndtering av forsvarlig emballert asbestholdig avfall på godkjente avfallsmottak og deponier,
+5. håndtering av asbestholdig materiale som ikke innebærer risiko for å bli eksponert for asbeststøv.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [15 des 2021 nr. 3598](forskrift/2021-12-15-3598) (i kraft 1 jan 2022), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
@@ -499,11 +729,23 @@ Pliktene i denne paragrafen gjelder så langt de passer også ved rivnings-, rep
 
 Virksomheter som skal håndtere asbestholdig materiale slik at det innebærer risiko for å bli eksponert for asbeststøv, skal ha tillatelse fra Arbeidstilsynet. Kravet om tillatelse gjelder også slikt arbeid der det er mistanke om asbestholdig materiale.
 
-Arbeidstilsynet kan utstede følgende tillatelser:Tillatelse begrenset til enklere arbeid med asbestTillatelse begrenset til utvendig arbeid med vann- og avløpsrør som inneholder asbestTillatelse begrenset til utvendig arbeid med asbestTillatelse til innvendig og utvendig arbeid med asbest.
+Arbeidstilsynet kan utstede følgende tillatelser:
+
+1. Tillatelse begrenset til enklere arbeid med asbest
+2. Tillatelse begrenset til utvendig arbeid med vann- og avløpsrør som inneholder asbest
+3. Tillatelse begrenset til utvendig arbeid med asbest
+4. Tillatelse til innvendig og utvendig arbeid med asbest.
 
 Tillatelser kan gis med en varighet på inntil tre år.
 
-Søknad om slik tillatelse skal inneholde opplysninger omhvordan arbeidet vil bli organisert,hvilke metoder som skal benyttes,hvilke vernetiltak som vil bli iverksatt,opplæring av arbeidstakerne, og vedlegges individuelle kursbevis,erklæring fra arbeidsgiver som bekrefter at arbeidstakeren er funnet skikket av lege til å arbeide med asbest,virksomhetens erfaring med slikt arbeid.
+Søknad om slik tillatelse skal inneholde opplysninger om
+
+1. hvordan arbeidet vil bli organisert,
+2. hvilke metoder som skal benyttes,
+3. hvilke vernetiltak som vil bli iverksatt,
+4. opplæring av arbeidstakerne, og vedlegges individuelle kursbevis,
+5. erklæring fra arbeidsgiver som bekrefter at arbeidstakeren er funnet skikket av lege til å arbeide med asbest,
+6. virksomhetens erfaring med slikt arbeid.
 
 Instruksen i henhold til [§ 4-15](forskrift/2011-12-06-1357/§4-15) skal vedlegges søknaden og være dekkende for den typen arbeid det søkes tillatelse til å utføre.
 
@@ -519,7 +761,11 @@ Arbeidstilsynet skal føre et offentlig register over virksomheter med tillatels
 
 Ved håndtering av asbest, skal asbestholdig materiale som hovedregel fjernes.
 
-Reparasjon av asbestholdig materiale er bare tillatt dersom alle følgende vilkår er oppfylt:Fjerning er ikke teknisk mulig.Det gjøres ikke inngrep i det asbestholdige materialet.Reparasjonen skjer ved innkapsling eller forsegling som totalt forhindrer spredning av asbestfibre.
+Reparasjon av asbestholdig materiale er bare tillatt dersom alle følgende vilkår er oppfylt:
+
+- Fjerning er ikke teknisk mulig.
+- Det gjøres ikke inngrep i det asbestholdige materialet.
+- Reparasjonen skjer ved innkapsling eller forsegling som totalt forhindrer spredning av asbestfibre.
 
 Innbygging av asbestholdig materiale er ikke tillatt.
 
@@ -529,7 +775,14 @@ Innbygging av asbestholdig materiale er ikke tillatt.
 
 Arbeidsgiveren som har fått tillatelse til å arbeide med asbest etter [§ 4-4](forskrift/2011-12-06-1357/§4-4) skal sende melding til Arbeidstilsynet om arbeid med asbest eller asbestholdig materiale. Meldingen skal sendes i god tid og senest en uke før arbeidet påbegynnes.
 
-Meldingen skal minst inneholde en kortfattet oversikt overarbeidsstedets beliggenhet og, hvis det er relevant, de spesifikke områdene hvor arbeidet skal utføres,typer og mengder asbest og asbestholdig materiale som skal håndteres,aktiviteter og metoder som inngår i arbeidet, blant annet med hensyn til beskyttelse og rengjøring av arbeidstakere, avfallshåndtering og, der det er relevant, luftutskiftning ved arbeid som foregår innendørs,antall berørte arbeidstakere, en liste over hvilke arbeidstakere som trolig vil delta i arbeidet på det angitte stedet, arbeidstakernes individuelle kursbevis og dato for den seneste undersøkelsen av arbeidstakernes helsetilstand i henhold til [§ 4-21](forskrift/2011-12-06-1357/§4-21),dato for arbeidets igangsettelse og arbeidets varighet,tiltak som er iverksatt for å begrense arbeidstakernes eksponering for asbest, inkludert en redegjørelse for utstyret som skal brukes.
+Meldingen skal minst inneholde en kortfattet oversikt over
+
+1. arbeidsstedets beliggenhet og, hvis det er relevant, de spesifikke områdene hvor arbeidet skal utføres,
+2. typer og mengder asbest og asbestholdig materiale som skal håndteres,
+3. aktiviteter og metoder som inngår i arbeidet, blant annet med hensyn til beskyttelse og rengjøring av arbeidstakere, avfallshåndtering og, der det er relevant, luftutskiftning ved arbeid som foregår innendørs,
+4. antall berørte arbeidstakere, en liste over hvilke arbeidstakere som trolig vil delta i arbeidet på det angitte stedet, arbeidstakernes individuelle kursbevis og dato for den seneste undersøkelsen av arbeidstakernes helsetilstand i henhold til [§ 4-21](forskrift/2011-12-06-1357/§4-21),
+5. dato for arbeidets igangsettelse og arbeidets varighet,
+6. tiltak som er iverksatt for å begrense arbeidstakernes eksponering for asbest, inkludert en redegjørelse for utstyret som skal brukes.
 
 Det skal benyttes skjema fastsatt av Direktoratet for arbeidstilsynet.
 
@@ -547,13 +800,26 @@ Godkjente avfallsmottak og deponier som mottar asbestholdig avfall som ikke er f
 
 Arbeidsgiver kan kun bruke personer som har gjennomført opplæring i arbeid med asbest og mottatt kursbevis til å arbeide med asbest eller asbestholdig materiale. Kursbeviset skal være lett tilgjengelig på stedet der arbeidet utføres.
 
-Arbeidstakere som skal utføre enklere arbeid med asbest, må gjennomføregrunnopplæring i arbeid med asbest ogasbestopplæring for enklere arbeid med asbest.
+Arbeidstakere som skal utføre enklere arbeid med asbest, må gjennomføre
 
-Arbeidstakere som skal utføre utvendig arbeid med vann- og avløpsrør som inneholder asbest, må gjennomføregrunnopplæring i arbeid med asbest ogopplæring i utvendig arbeid med vann- og avløpsrør som inneholder asbest eller opplæring i utvendig arbeid med asbest.
+1. grunnopplæring i arbeid med asbest og
+2. asbestopplæring for enklere arbeid med asbest.
 
-Arbeidstakere som skal utføre utvendig arbeid med asbest, må gjennomføregrunnopplæring i arbeid med asbest ogopplæring i utvendig arbeid med asbest.
+Arbeidstakere som skal utføre utvendig arbeid med vann- og avløpsrør som inneholder asbest, må gjennomføre
 
-Arbeidstakere som skal utføre innvendig arbeid med asbest, må gjennomføregrunnopplæring i arbeid med asbest,opplæring i utvendig arbeid med asbest ogopplæring i innvendig arbeid med asbest.
+1. grunnopplæring i arbeid med asbest og
+2. opplæring i utvendig arbeid med vann- og avløpsrør som inneholder asbest eller opplæring i utvendig arbeid med asbest.
+
+Arbeidstakere som skal utføre utvendig arbeid med asbest, må gjennomføre
+
+1. grunnopplæring i arbeid med asbest og
+2. opplæring i utvendig arbeid med asbest.
+
+Arbeidstakere som skal utføre innvendig arbeid med asbest, må gjennomføre
+
+1. grunnopplæring i arbeid med asbest,
+2. opplæring i utvendig arbeid med asbest og
+3. opplæring i innvendig arbeid med asbest.
 
 Arbeidsgiver skal sørge for at arbeidstakerne deltar på oppfriskningskurs i asbestarbeid minst hvert tredje år. I tillegg skal arbeidsgiver sørge for å løpende oppdatere arbeidstakerne om utviklingen innenfor teknologi og arbeidsmetoder knyttet til asbest, når dette er nødvendig for å sikre arbeidstakerne et fullt forsvarlig arbeidsmiljø.
 
@@ -569,7 +835,19 @@ Arbeidsgiver skal informere verneombud, tillitsvalgte og eventuelle andre repres
 
 Grunnopplæring i arbeid med asbest skal inneholde minst seks timer undervisning.
 
-Opplæringen skal være lett forståelig og gi arbeidstakerne nødvendige kunnskaper og ferdigheter om forebygging og sikkerhet, særlig når det gjelderasbestens egenskaper og helseeffekter, herunder faren ved kombinasjonen av røyking og asbesteksponering,produkt- eller materialtyper som kan antas å inneholde asbest,arbeidsaktiviteter som kan medføre eksponering for asbest, og betydningen av forebyggende kontrolltiltak for å redusere eksponeringen,hvorfor det er nødvendig å kontrollmåle luften, og hva grenseverdien for asbeststøv er i henhold til [forskrift om tiltaks- og grenseverdier § 5-1](forskrift/2011-12-06-1358/§5-1) og vedlegg I,sikker arbeidspraksis og tiltak for å begrense frigivelse og spredning av asbestfibre under arbeidsprosesser, slik som klargjøring av arbeidsplassen, valg av arbeidsmetoder, planlegging av arbeidsflyten, sikkert arbeidsutstyr, ventilasjon og prosessavsug, prøvetaking, kontrolltiltak og regelmessige pauser,sikkert verneutstyr, formålet med åndedrettsvern og riktig valg av åndedrettsvern, åndedrettsvernets begrensinger og riktig bruk av det,nødprosedyrer,prosedyre for fullstendig rengjøring,avfallshåndtering,krav om helseundersøkelse etter [§ 4-21](forskrift/2011-12-06-1357/§4-21),gjeldende regelverk om håndtering av asbest.
+Opplæringen skal være lett forståelig og gi arbeidstakerne nødvendige kunnskaper og ferdigheter om forebygging og sikkerhet, særlig når det gjelder
+
+1. asbestens egenskaper og helseeffekter, herunder faren ved kombinasjonen av røyking og asbesteksponering,
+2. produkt- eller materialtyper som kan antas å inneholde asbest,
+3. arbeidsaktiviteter som kan medføre eksponering for asbest, og betydningen av forebyggende kontrolltiltak for å redusere eksponeringen,
+4. hvorfor det er nødvendig å kontrollmåle luften, og hva grenseverdien for asbeststøv er i henhold til [forskrift om tiltaks- og grenseverdier § 5-1](forskrift/2011-12-06-1358/§5-1) og vedlegg I,
+5. sikker arbeidspraksis og tiltak for å begrense frigivelse og spredning av asbestfibre under arbeidsprosesser, slik som klargjøring av arbeidsplassen, valg av arbeidsmetoder, planlegging av arbeidsflyten, sikkert arbeidsutstyr, ventilasjon og prosessavsug, prøvetaking, kontrolltiltak og regelmessige pauser,
+6. sikkert verneutstyr, formålet med åndedrettsvern og riktig valg av åndedrettsvern, åndedrettsvernets begrensinger og riktig bruk av det,
+7. nødprosedyrer,
+8. prosedyre for fullstendig rengjøring,
+9. avfallshåndtering,
+10. krav om helseundersøkelse etter [§ 4-21](forskrift/2011-12-06-1357/§4-21),
+11. gjeldende regelverk om håndtering av asbest.
 
 Grunnopplæringen kan gis digitalt hvis det tilrettelegges for god muntlig og visuell kommunikasjon i sanntid mellom deltakerne og kursholderen.
 
@@ -581,7 +859,10 @@ Grunnopplæringen skal avsluttes med en kunnskapstest som deltakerne skal gjenno
 
 Opplæring i enklere arbeid med asbest skal inneholde minst én time undervisning, og skal være tilpasset arbeidsoppgavene som skal utføres.
 
-Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatteat den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern ogkontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.).
+Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatte
+
+1. at den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern og
+2. kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.).
 
 > Endret ved [forskrifter 19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020, tidligere § 4-11), [2 juli 2020 nr. 1490](forskrift/2020-07-02-1490) (tidligere § 4-8), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
@@ -589,7 +870,10 @@ Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som 
 
 Opplæring i utvendig arbeid med vann- og avløpsrør som inneholder asbest skal inneholde minst én time undervisning. Opplæringen skal gi arbeidstakerne tilstrekkelige teoretiske og praktiske kunnskaper til å kunne utføre utvendig sanering av vann- og avløpsrør på en sikker måte.
 
-Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatteat den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern ogkontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.).
+Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatte
+
+1. at den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern og
+2. kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.).
 
 > Endret ved [forskrifter 19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020, tidligere § 4-12), [2 juli 2020 nr. 1490](forskrift/2020-07-02-1490) (tidligere § 4-9), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
@@ -599,7 +883,11 @@ Opplæring i utvendig arbeid med asbest skal inneholde minst seks timer undervis
 
 Opplæringen skal gi arbeidstakerne tilstrekkelige teoretiske og praktiske kunnskaper til å kunne utføre utvendig asbestsanering på en sikker måte.
 
-Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatteat den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern,kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.) ogbruk av sikre arbeidsmetoder og håndtering av teknisk utstyr som brukes for å begrense frigjøring og spredning av asbestfibre.
+Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatte
+
+1. at den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern,
+2. kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.) og
+3. bruk av sikre arbeidsmetoder og håndtering av teknisk utstyr som brukes for å begrense frigjøring og spredning av asbestfibre.
 
 > Endret ved [forskrifter 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [22 des 2014 nr. 1894](forskrift/2014-12-22-1894) (i kraft 1 jan 2015), [19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020, tidligere § 4-13), [2 juli 2020 nr. 1490](forskrift/2020-07-02-1490) (tidligere § 4-10), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
@@ -607,7 +895,14 @@ Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som 
 
 Opplæring i innvendig arbeid med asbest skal inneholde minst seks timer undervisning. Opplæringen skal gi arbeidstakerne tilstrekkelige teoretiske og praktiske kunnskaper til å kunne utføre innvendig asbestsanering på en sikker måte.
 
-Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatteat den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern,kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.),bruk av sikre arbeidsmetoder og håndtering av teknisk utstyr som brukes for å begrense frigjøring og spredning av asbestfibre,øvelse i å etablere og forsegle saneringsområdet,bygging av sluse ogopprettelse av undertrykk og kontroll av undertrykket.
+Opplæringen skal inkludere praktiske øvelser. De praktiske øvelsene skal som minimum omfatte
+
+1. at den enkelte får iføre seg personlig verneutstyr, inkludert åndedrettsvern,
+2. kontroll av at åndedrettsvernet gir nødvendig beskyttelse (funksjonstesting mv.),
+3. bruk av sikre arbeidsmetoder og håndtering av teknisk utstyr som brukes for å begrense frigjøring og spredning av asbestfibre,
+4. øvelse i å etablere og forsegle saneringsområdet,
+5. bygging av sluse og
+6. opprettelse av undertrykk og kontroll av undertrykket.
 
 > Endret ved forskrifter [19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020, tidligere § 4-14), [2 juli 2020 nr. 1490](forskrift/2020-07-02-1490) (tidligere § 4-11), [15 april 2021 nr. 1163](forskrift/2021-04-15-1163), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
@@ -621,7 +916,14 @@ Oppfriskningskurset kan gis digitalt hvis det tilrettelegges for god muntlig og 
 
 ### § 4-14. Kursbevis etter opplæring
 
-Den som har deltatt på opplæring, skal motta et kursbevis som viserdatoen for opplæringen,varigheten av opplæringen,innholdet i opplæringen,hvilket språk opplæringen ble gitt på,bekreftelse på at kunnskapstesten er bestått ognavnet, kvalifikasjonen og kontaktinformasjonen til instruktøren og/eller institusjonen som gir opplæringen.
+Den som har deltatt på opplæring, skal motta et kursbevis som viser
+
+1. datoen for opplæringen,
+2. varigheten av opplæringen,
+3. innholdet i opplæringen,
+4. hvilket språk opplæringen ble gitt på,
+5. bekreftelse på at kunnskapstesten er bestått og
+6. navnet, kvalifikasjonen og kontaktinformasjonen til instruktøren og/eller institusjonen som gir opplæringen.
 
 Kursbevis for arbeid med asbest kan bare utstedes til den som har bestått en individuell kunnskapstest.
 
@@ -631,19 +933,46 @@ Kursbevis for arbeid med asbest kan bare utstedes til den som har bestått en in
 
 Arbeidsgiveren skal utarbeide skriftlig instruks for håndtering av asbestholdig materiale og vern mot støv med asbestfiber, før arbeidet igangsettes. Instruksen skal være tilpasset de konkrete arbeidsoppgavene. Instruksen skal være lett tilgjengelig på arbeidsplassen og på et språk arbeidstakerne forstår.
 
-Instruksen skal, i den grad det er relevant, inneholde opplysninger omvarsling og informasjon til andre arbeidstakere eller andre som kan bli berørt av arbeidet med asbest,avsperring og skilting av saneringsstedet,etablering og skilting av vaskested og garderobe,nødvendig avskjerming og forsegling av ventilasjonsanlegg, ventiler mv. for å hindre spredning av asbeststøv,etablering og kontroll av undertrykk ved innvendig sanering,type åndedrettsvern, annet personlig verneutstyr samt arbeidsklær som skal benyttes,nødvendig kontroll av åndedrettsvern før bruk,personlige hygienetiltak, inkludert skifterutiner for arbeidsklær og hvilke krav til dusjing som gjelder,saneringsteknikk,verktøy som er tillatt brukt, eventuelt verktøy som er forbudt å bruke,rengjøring av utstyr og annet som kan være forurenset av asbest før det tas ut til ren sone,pakking, emballering, merking og deponering av asbestavfall,teknikker og metoder for opprydding, rengjøring og etterkontroll,godkjenning og nedrigging av saneringsområde ogforbud mot røyking.
+Instruksen skal, i den grad det er relevant, inneholde opplysninger om
+
+1. varsling og informasjon til andre arbeidstakere eller andre som kan bli berørt av arbeidet med asbest,
+2. avsperring og skilting av saneringsstedet,
+3. etablering og skilting av vaskested og garderobe,
+4. nødvendig avskjerming og forsegling av ventilasjonsanlegg, ventiler mv. for å hindre spredning av asbeststøv,
+5. etablering og kontroll av undertrykk ved innvendig sanering,
+6. type åndedrettsvern, annet personlig verneutstyr samt arbeidsklær som skal benyttes,
+7. nødvendig kontroll av åndedrettsvern før bruk,
+8. personlige hygienetiltak, inkludert skifterutiner for arbeidsklær og hvilke krav til dusjing som gjelder,
+9. saneringsteknikk,
+10. verktøy som er tillatt brukt, eventuelt verktøy som er forbudt å bruke,
+11. rengjøring av utstyr og annet som kan være forurenset av asbest før det tas ut til ren sone,
+12. pakking, emballering, merking og deponering av asbestavfall,
+13. teknikker og metoder for opprydding, rengjøring og etterkontroll,
+14. godkjenning og nedrigging av saneringsområde og
+15. forbud mot røyking.
 
 > Endret ved [forskrifter 24 feb 2014 nr. 207](forskrift/2014-02-24-207), [19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020, tidligere § 4-17), [2 juli 2020 nr. 1490](forskrift/2020-07-02-1490) (tidligere § 4-14), [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
 ### § 4-16. Tiltak for å redusere eksponering for støv med asbestfiber
 
-Arbeidstakernes eksponering for støv med asbestfiber skal reduseres til et minimum, særlig gjennom følgende tiltak:Antall arbeidstakere som blir eller kan bli eksponert for støv med asbestfiber skal begrenses mest mulig.Håndtering av asbest og asbestholdig materiale skal foregå i et avstengt område atskilt fra øvrig virksomhet.Arbeidsprosessene skal være utformet slik at det ikke dannes asbeststøv eller, dersom dette ikke er mulig, være utformet slik at asbeststøvet ikke virvles opp og spres. Dersom det er nødvendig for å hindre spredning av asbeststøv til omgivelsene ved innendørs håndtering av asbest eller asbestholdig materiale, skal det opprettes undertrykksone med sluseinngang. Opprettet undertrykk skal dokumenteres.Ved bruk av avsug skal avsuget luft ikke føres tilbake til arbeidslokalet, men renses og ledes ut i friluft. Avsuget luft fra mobil støvsuger som brukes for opptak av asbestholdig støv kan allikevel føres tilbake dersom denne luften er renset slik at minst 99,95 % av respirabelt asbeststøv avskilles. Filter i mobile støvsugere og undertrykksvifter må som minimum oppfylle kravene til Hepafilter klasse H13 i standarden NS-EN 1822-1 eller tilsvarende.Alle lokaler og alt utstyr som brukes ved behandling av asbest, skal kunne rengjøres og vedlikeholdes regelmessig og effektivt.Asbest eller asbestholdige materialer som avgir asbeststøv, skal lagres og transporteres i egnet lukket emballasje som gir tilstrekkelig sikkerhet mot knusing og rifter med mer.Asbestavfall skal straks samles opp og fjernes fra arbeidsplassen i egnet lukket emballasje og oppbevares i lukket låsbar beholder. Dette gjelder ikke naturlig bergmateriale som inneholder asbest. Emballasjen og beholderen skal være tydelig merket med følgende tekst: «Inneholder asbest. Innånding av støv fra dette materialet kan forårsake kreft. Bruk egnet verneutstyr.» Slikt avfall skal deretter håndteres i samsvar med [kapittel 11 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften)](forskrift/2004-06-01-930/kap11).
+Arbeidstakernes eksponering for støv med asbestfiber skal reduseres til et minimum, særlig gjennom følgende tiltak:
+
+1. Antall arbeidstakere som blir eller kan bli eksponert for støv med asbestfiber skal begrenses mest mulig.
+2. Håndtering av asbest og asbestholdig materiale skal foregå i et avstengt område atskilt fra øvrig virksomhet.
+3. Arbeidsprosessene skal være utformet slik at det ikke dannes asbeststøv eller, dersom dette ikke er mulig, være utformet slik at asbeststøvet ikke virvles opp og spres. Dersom det er nødvendig for å hindre spredning av asbeststøv til omgivelsene ved innendørs håndtering av asbest eller asbestholdig materiale, skal det opprettes undertrykksone med sluseinngang. Opprettet undertrykk skal dokumenteres.
+4. Ved bruk av avsug skal avsuget luft ikke føres tilbake til arbeidslokalet, men renses og ledes ut i friluft. Avsuget luft fra mobil støvsuger som brukes for opptak av asbestholdig støv kan allikevel føres tilbake dersom denne luften er renset slik at minst 99,95 % av respirabelt asbeststøv avskilles. Filter i mobile støvsugere og undertrykksvifter må som minimum oppfylle kravene til Hepafilter klasse H13 i standarden NS-EN 1822-1 eller tilsvarende.
+5. Alle lokaler og alt utstyr som brukes ved behandling av asbest, skal kunne rengjøres og vedlikeholdes regelmessig og effektivt.
+6. Asbest eller asbestholdige materialer som avgir asbeststøv, skal lagres og transporteres i egnet lukket emballasje som gir tilstrekkelig sikkerhet mot knusing og rifter med mer.
+7. Asbestavfall skal straks samles opp og fjernes fra arbeidsplassen i egnet lukket emballasje og oppbevares i lukket låsbar beholder. Dette gjelder ikke naturlig bergmateriale som inneholder asbest. Emballasjen og beholderen skal være tydelig merket med følgende tekst: «Inneholder asbest. Innånding av støv fra dette materialet kan forårsake kreft. Bruk egnet verneutstyr.» Slikt avfall skal deretter håndteres i samsvar med [kapittel 11 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften)](forskrift/2004-06-01-930/kap11).
 
 > Tilføyd ved forskrift [18 des 2025 nr. 2685](forskrift/2025-12-18-2685) (i kraft 21 des 2025).
 
 ### § 4-17. Stans av arbeid
 
-Arbeidsgiver skal stanse arbeidet umiddelbart dersomarbeidstaker blir eksponert for konsentrasjoner av asbestfiber over grenseverdien, ellerdet er grunn til å tro at tidligere uoppdaget asbest har blitt påvirket slik at det er dannet asbeststøv.
+Arbeidsgiver skal stanse arbeidet umiddelbart dersom
+
+1. arbeidstaker blir eksponert for konsentrasjoner av asbestfiber over grenseverdien, eller
+2. det er grunn til å tro at tidligere uoppdaget asbest har blitt påvirket slik at det er dannet asbeststøv.
 
 Arbeidet kan ikke gjenopptas før kilden til asbeststøvet er identifisert og det er iverksatt passende tiltak for å sikre et forsvarlig arbeidsmiljø.
 
@@ -775,13 +1104,22 @@ Kartleggingen skal også omfatte overflatebehandling, tilsatsmateriale, rengjør
 
 ### § 5-3. Opplæring i varmt arbeid
 
-Arbeidsgiveren skal sørge for at arbeidstakere som utfører varmt arbeid, og verneombudet får opplæring iarbeidsmetoderbruk av arbeidsutstyrbruk av personlig verneutstyr.
+Arbeidsgiveren skal sørge for at arbeidstakere som utfører varmt arbeid, og verneombudet får opplæring i
+
+1. arbeidsmetoder
+2. bruk av arbeidsutstyr
+3. bruk av personlig verneutstyr.
 
 > Tilføyd ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
 ### § 5-4. Informasjon om risikoen ved varmt arbeid
 
-Arbeidsgiveren skal sørge for at arbeidstakere som utfører varmt arbeid og verneombudet får løpende informasjon omhelsefarer og ulykkesrisikonødvendige vernetiltakresultater fra målinger av arbeidsatmosfærenhvilke særskilte tiltak som til enhver tid er satt i verk.
+Arbeidsgiveren skal sørge for at arbeidstakere som utfører varmt arbeid og verneombudet får løpende informasjon om
+
+1. helsefarer og ulykkesrisiko
+2. nødvendige vernetiltak
+3. resultater fra målinger av arbeidsatmosfæren
+4. hvilke særskilte tiltak som til enhver tid er satt i verk.
 
 > Tilføyd ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -827,7 +1165,13 @@ Slanger og armatur skal kontrolleres før bruk for eventuell lekkasje.
 
 ### § 5-8. Sikring mot brann og eksplosjon i gassutstyr
 
-For å sikre mot brann og eksplosjon i gassutstyr, skal arbeidsgiver påse at det benyttes følgende utstyr ved sveising, termisk skjæring, lodding og termisk sprøyting:brenner som er utstyrt med retursperreventil på alle innløp mellom håndtak og slangeregulator for oksygen som er utstyrt med tilbakeslagssikringregulator for brenngass som er utstyrt med tilbakeslagssikringgasslanger og slangekoplinger som er spesielt beregnet til formåletmateriale i armatur og rørledning for acetylen som ikke inneholder mer enn 70 % kobber.
+For å sikre mot brann og eksplosjon i gassutstyr, skal arbeidsgiver påse at det benyttes følgende utstyr ved sveising, termisk skjæring, lodding og termisk sprøyting:
+
+- brenner som er utstyrt med retursperreventil på alle innløp mellom håndtak og slange
+- regulator for oksygen som er utstyrt med tilbakeslagssikring
+- regulator for brenngass som er utstyrt med tilbakeslagssikring
+- gasslanger og slangekoplinger som er spesielt beregnet til formålet
+- materiale i armatur og rørledning for acetylen som ikke inneholder mer enn 70 % kobber.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014, tidligere § 5-6).
 
@@ -837,7 +1181,16 @@ For å sikre mot brann og eksplosjon i gassutstyr, skal arbeidsgiver påse at de
 
 Arbeidsgiver skal for enhver aktivitet vurdere om det kan være fare for at arbeidstaker utsettes for biologiske faktorer. Kan aktiviteten medføre fare for deres helse eller sikkerhet, skal eksponeringen kartlegges og det skal vurderes hvordan eksponeringen finner sted. Både smitterisiko og andre helsefarer skal vurderes. På dette grunnlag skal arbeidsgiver risikovurdere forholdene.
 
-Risikovurderingen skal foretas på grunnlag av alle tilgjengelige opplysninger, herunder særlig:hvilke biologiske faktorer som kan forekomme,hvilke giftige (toksiske), allergiske eller andre skadelige stoffer de biologiske faktorene kan gi opphav til,hvilke smitterisikogrupper de biologiske faktorer er plassert i,opplysninger om sykdom forårsaket av de biologiske faktorer som arbeidstakerne kan pådra seg i forbindelse med arbeidet, enten av smittsom (infeksiøs), allergisk eller toksisk art,anbefalinger fra ansvarlig myndighet om at det bør iverksettes spesielle verne- og sikkerhetstiltak for å beskytte arbeidstakerne når de eksponeres eller kan bli eksponert for biologiske faktorer i sitt arbeidsmiljø,sannsynligheten for at arbeidstakere kan få helseskade av de biologiske faktorene,kunnskap om at en sykdom som er påvist hos en arbeidstaker kan ha direkte forbindelse med vedkommendes arbeid ogfare for skade eller infeksjon fra biologiske faktorer som følge av håndtering av spisse eller skarpe gjenstander.
+Risikovurderingen skal foretas på grunnlag av alle tilgjengelige opplysninger, herunder særlig:
+
+- hvilke biologiske faktorer som kan forekomme,
+- hvilke giftige (toksiske), allergiske eller andre skadelige stoffer de biologiske faktorene kan gi opphav til,
+- hvilke smitterisikogrupper de biologiske faktorer er plassert i,
+- opplysninger om sykdom forårsaket av de biologiske faktorer som arbeidstakerne kan pådra seg i forbindelse med arbeidet, enten av smittsom (infeksiøs), allergisk eller toksisk art,
+- anbefalinger fra ansvarlig myndighet om at det bør iverksettes spesielle verne- og sikkerhetstiltak for å beskytte arbeidstakerne når de eksponeres eller kan bli eksponert for biologiske faktorer i sitt arbeidsmiljø,
+- sannsynligheten for at arbeidstakere kan få helseskade av de biologiske faktorene,
+- kunnskap om at en sykdom som er påvist hos en arbeidstaker kan ha direkte forbindelse med vedkommendes arbeid og
+- fare for skade eller infeksjon fra biologiske faktorer som følge av håndtering av spisse eller skarpe gjenstander.
 
 > Endret ved [forskrift 18 juni 2013 nr. 658](forskrift/2013-06-18-658).
 
@@ -855,17 +1208,35 @@ På dette grunnlag skal arbeidsgiver vurdere om og i tilfelle hvilke verne- og s
 
 Det skal gis melding til Arbeidstilsynet minst 30 dager før en virksomhet begynner å bruke biologiske faktorer i risikogruppe 2, 3 og 4.
 
-Det skal gis ny melding i følgende tilfeller:Når det skal brukes biologiske faktorer som tilhører en annen risikogruppe enn den som det tidligere er gitt melding for.Ved første bruk av hver etterfølgende biologisk faktor i risikogruppe 4.Ved første bruk av hver etterfølgende biologisk faktor, som arbeidsgiver selv har klassifisert i risikogruppe 3 i henhold til [§ 2-1](forskrift/2011-12-06-1357/§2-1).Når det gjøres vesentlige endringer i prosesser eller prosedyrer som er av betydning for helse, miljø og sikkerhet på arbeidsplassen, og som gjør tidligere melding foreldet.
+Det skal gis ny melding i følgende tilfeller:
+
+1. Når det skal brukes biologiske faktorer som tilhører en annen risikogruppe enn den som det tidligere er gitt melding for.
+2. Ved første bruk av hver etterfølgende biologisk faktor i risikogruppe 4.
+3. Ved første bruk av hver etterfølgende biologisk faktor, som arbeidsgiver selv har klassifisert i risikogruppe 3 i henhold til [§ 2-1](forskrift/2011-12-06-1357/§2-1).
+4. Når det gjøres vesentlige endringer i prosesser eller prosedyrer som er av betydning for helse, miljø og sikkerhet på arbeidsplassen, og som gjør tidligere melding foreldet.
 
 Laboratorier som foretar diagnostisering i forbindelse med biologiske faktorer i smitterisikogruppe 4, skal kun gi melding om sin virksomhet.
 
-Melding etter denne paragrafen skal inneholde følgende opplysninger:navn, adresse og organisasjonsnummer på virksomheten eller anlegget,navn på den person som er ansvarlig for helse, miljø og sikkerhet på arbeidsplassen, og vedkommendes faglige kvalifikasjoner,navn på verneombud/hovedverneombud,resultatene av risikovurderingen i henhold til [§ 6-1](forskrift/2011-12-06-1357/§6-1),hva slags biologisk faktor det meldes om ogde planlagte verne- og sikkerhetstiltak.
+Melding etter denne paragrafen skal inneholde følgende opplysninger:
+
+1. navn, adresse og organisasjonsnummer på virksomheten eller anlegget,
+2. navn på den person som er ansvarlig for helse, miljø og sikkerhet på arbeidsplassen, og vedkommendes faglige kvalifikasjoner,
+3. navn på verneombud/hovedverneombud,
+4. resultatene av risikovurderingen i henhold til [§ 6-1](forskrift/2011-12-06-1357/§6-1),
+5. hva slags biologisk faktor det meldes om og
+6. de planlagte verne- og sikkerhetstiltak.
 
 Arbeidsgiver og verneombud/hovedverneombud skal undertegne meldingen. Verneombud/hovedverneombud kan avgi egen uttalelse.
 
 ### § 6-4. Opplæring i arbeid der arbeidstaker kan utsettes for biologiske faktorer
 
-Arbeidsgiver skal sørge for at arbeidstakere som settes til arbeid, der de er eller kan bli utsatt for biologiske faktorer, på forhånd får den nødvendige opplæring, øving og instruksjon i arbeidet, slik at eksponering i størst mulig grad kan unngås eller reduseres. Opplæringen skal særlig inneholde:informasjon om risikovurderingen som er foretatt og vesentlige endringer i denne,nødvendige vernetiltak,hygienekrav,bruk av personlig verneutstyr, herunder vernetøy,informasjon om fare for smitte fra biologiske faktorer ved håndtering av spisse eller skarpe gjenstander.
+Arbeidsgiver skal sørge for at arbeidstakere som settes til arbeid, der de er eller kan bli utsatt for biologiske faktorer, på forhånd får den nødvendige opplæring, øving og instruksjon i arbeidet, slik at eksponering i størst mulig grad kan unngås eller reduseres. Opplæringen skal særlig inneholde:
+
+1. informasjon om risikovurderingen som er foretatt og vesentlige endringer i denne,
+2. nødvendige vernetiltak,
+3. hygienekrav,
+4. bruk av personlig verneutstyr, herunder vernetøy,
+5. informasjon om fare for smitte fra biologiske faktorer ved håndtering av spisse eller skarpe gjenstander.
 
 > Endret ved [forskrifter 18 juni 2013 nr. 658](forskrift/2013-06-18-658), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -1045,7 +1416,16 @@ Borger fra annet EØS-land eller Sveits skal søke Arbeidstilsynet om tillatelse
 
 ### § 10-3. Arbeidsutstyr underlagt krav om dokumentert sikkerhetsopplæring gitt av sertifisert opplæringsvirksomhet
 
-Dokumentert sikkerhetsopplæring i henhold til [§ 10-2](forskrift/2011-12-06-1357/§10-2) skal gis som sertifisert sikkerhetsopplæring for følgende arbeidsutstyr:bro- og traverskraner, dersom bruken medfører fare for skade på liv eller helsetårnkranermobilkraner med større kapasitet enn 2 tmportalkranerkraner med større kapasitet enn 2 tm montert på lastebil eller lastebilhengerløfte- og stablevogn for gods med permanent førerplass på vognenmasseforflyttingsmaskiner med større effekt enn 15 kW (20,4 hk)offshorekran.
+Dokumentert sikkerhetsopplæring i henhold til [§ 10-2](forskrift/2011-12-06-1357/§10-2) skal gis som sertifisert sikkerhetsopplæring for følgende arbeidsutstyr:
+
+- bro- og traverskraner, dersom bruken medfører fare for skade på liv eller helse
+- tårnkraner
+- mobilkraner med større kapasitet enn 2 tm
+- portalkraner
+- kraner med større kapasitet enn 2 tm montert på lastebil eller lastebilhenger
+- løfte- og stablevogn for gods med permanent førerplass på vognen
+- masseforflyttingsmaskiner med større effekt enn 15 kW (20,4 hk)
+- offshorekran.
 
 > Endret ved forskrifter [22 des 2016 nr. 1858](forskrift/2016-12-22-1858) (i kraft 1 jan 2017), [20 des 2017 nr. 2354](forskrift/2017-12-20-2354) (i kraft 1 jan 2018), [10 jan 2022 nr. 37](forskrift/2022-01-10-37) (i kraft 1 april 2022).
 
@@ -1059,7 +1439,12 @@ Arbeidsgiver skal sørge for at arbeidstaker får nødvendig opplæring på det 
 
 Arbeidsgiver skal sørge for at det blir gitt nødvendig informasjon om sikker bruk av det arbeidsutstyr som arbeidstakerne settes til å arbeide med.
 
-Arbeidsgiveren skal særlig sørge for at arbeidstakerne får løpende informasjon omfarer de er utsatt for ved å bruke arbeidsutstyret, blant annet farer ved uregelmessigheter som kan oppståhvilke forholdsregler de erfaringsmessig må ta ved bruk av arbeidsutstyretfarer som skyldes arbeidsutstyr i nærhetenfarer som skyldes endring av arbeidsutstyr i nærheten.
+Arbeidsgiveren skal særlig sørge for at arbeidstakerne får løpende informasjon om
+
+1. farer de er utsatt for ved å bruke arbeidsutstyret, blant annet farer ved uregelmessigheter som kan oppstå
+2. hvilke forholdsregler de erfaringsmessig må ta ved bruk av arbeidsutstyret
+3. farer som skyldes arbeidsutstyr i nærheten
+4. farer som skyldes endring av arbeidsutstyr i nærheten.
 
 > Endret ved [forskrifter 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016, tidligere § 10-4).
 
@@ -1107,7 +1492,10 @@ Styresystemene skal være sikre og utformet slik at svikt, feil, utilsiktet påv
 
 Arbeidsutstyr skal bare kunne startes ved en tilsiktet bruk av en betjeningsinnretning som er beregnet for det.
 
-Det samme skal gjelde ved:ny igangsetting etter en stans, uansett årsaken til stansen,styring av en vesentlig endring i driftsforholdene, f.eks. hastighet, trykk osv., med mindre en slik ny start eller endring ikke innebærer noen fare for utsatte arbeidstakere.
+Det samme skal gjelde ved:
+
+1. ny igangsetting etter en stans, uansett årsaken til stansen,
+2. styring av en vesentlig endring i driftsforholdene, f.eks. hastighet, trykk osv., med mindre en slik ny start eller endring ikke innebærer noen fare for utsatte arbeidstakere.
 
 Kravet i foregående ledd gjelder ikke for automatisk arbeidsutstyr dersom ny start eller endring i arbeidsforholdene inngår som en del av den normale arbeidsoperasjonen.
 
@@ -1147,7 +1535,14 @@ Dersom det er mulighet for brudd eller sprengning av arbeidsutstyret eller deler
 
 Dersom det er mulighet for at arbeidstakerne kan skades på grunn av fysisk kontakt med arbeidsutstyrets bevegelige deler, skal arbeidsutstyret utstyres med vern eller verneinnretninger som hindrer adgang til faresonene, eller som stanser de farlige delenes bevegelse før det gis adgang til faresonene.
 
-Verneinnretninger skal:ha en robust konstruksjonikke forårsake noen ekstra fareikke lett kunne flyttes eller settes ut av funksjonvære plassert i tilstrekkelig avstand fra faresonenikke hindre oversikten over arbeidsutstyrets arbeidsoperasjon mer enn nødvendigikke være til hinder for nødvendig arbeid som montering, skifting av deler og vedlikehold. Atkomsten skal være begrenset til det område der slikt arbeid skal utføres, og om mulig, uten at vern eller verneinnretninger blir fjernet.
+Verneinnretninger skal:
+
+1. ha en robust konstruksjon
+2. ikke forårsake noen ekstra fare
+3. ikke lett kunne flyttes eller settes ut av funksjon
+4. være plassert i tilstrekkelig avstand fra faresonen
+5. ikke hindre oversikten over arbeidsutstyrets arbeidsoperasjon mer enn nødvendig
+6. ikke være til hinder for nødvendig arbeid som montering, skifting av deler og vedlikehold. Atkomsten skal være begrenset til det område der slikt arbeid skal utføres, og om mulig, uten at vern eller verneinnretninger blir fjernet.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016, tidligere § 10-13).
 
@@ -1247,7 +1642,11 @@ Når forbrenningsmotorer skal brukes innendørs, skal det iverksettes nødvendig
 
 ### § 11-2. Arbeidsutstyr som kan medføre særlig fare ved bruk
 
-Dersom bruk av arbeidsutstyr kan medføre særlig fare for skade på liv eller helse, skal arbeidsgiveren sørge for å treffe nødvendige tiltak for å sikre at:bruken av arbeidsutstyr begrenses til de personer som har fått i oppgave å bruke det, og som har gjennomgått nødvendig opplæring,de personer som skal utføre reparasjoner, ombygging eller vedlikehold, er spesielt utvalgt til å utføre slikt arbeid ogarbeidsutstyr som skal repareres, ikke tas i bruk dersom feilen, slitasjen eller skaden kan medføre fare ved bruk.
+Dersom bruk av arbeidsutstyr kan medføre særlig fare for skade på liv eller helse, skal arbeidsgiveren sørge for å treffe nødvendige tiltak for å sikre at:
+
+1. bruken av arbeidsutstyr begrenses til de personer som har fått i oppgave å bruke det, og som har gjennomgått nødvendig opplæring,
+2. de personer som skal utføre reparasjoner, ombygging eller vedlikehold, er spesielt utvalgt til å utføre slikt arbeid og
+3. arbeidsutstyr som skal repareres, ikke tas i bruk dersom feilen, slitasjen eller skaden kan medføre fare ved bruk.
 
 ### § 11-3. Valg og bruk av mekanisk og elektrisk utstyr
 
@@ -1273,7 +1672,11 @@ Arbeidsgiveren skal sørge for at arbeidstakere som skal drive kontroll- og vedl
 
 Montering, kontroll, vedlikehold og reparasjon av arbeidsutstyr skal bare utføres av personer som har fått nødvendig opplæring, øvelse og instruksjon for dette arbeidet.
 
-Dersom arbeidsutstyrets sikkerhet avhenger av installasjonsvilkår skal kontrollen være foretatt av kvalifiserte personer for å sikre at:arbeidsutstyret er riktig installert og virker etter hensikten,helse- og sikkerhetsvilkårene opprettholdes, ogforringelse kan påvises og avhjelpes i god tid.
+Dersom arbeidsutstyrets sikkerhet avhenger av installasjonsvilkår skal kontrollen være foretatt av kvalifiserte personer for å sikre at:
+
+- arbeidsutstyret er riktig installert og virker etter hensikten,
+- helse- og sikkerhetsvilkårene opprettholdes, og
+- forringelse kan påvises og avhjelpes i god tid.
 
 ### § 12-3. Krav om systematisk kontroll og vedlikehold
 
@@ -1289,7 +1692,16 @@ Arbeidsgiveren skal sørge for periodisk kontroll dersom arbeidsutstyr og anlegg
 
 ### § 12-4. Krav om systematisk kontroll og vedlikehold av arbeidsutstyr og anlegg
 
-Det skal alltid være rutiner for systematisk kontroll og vedlikehold av:nødvendig og egnet sikkerhetsutstyr slik at det til enhver tid er klart til bruk og i funksjonsdyktig stand,eksisterende anlegg for energidistribusjon på bygge- eller anleggsplasser eller andre midlertidige arbeidsplasser. Anlegg skal identifiseres, kontrolleres og merkes tydelig før bygge- eller anleggsplass etableres,mekanisk og elektrisk utstyr og anlegg ved bergarbeid, samt ved eventuell prøving av mekanisk og elektrisk utstyr og anlegg, herunder ventilasjonsanlegg,ventilasjonsfunksjon. Den skal måles og registreres regelmessig dersom feil kan innebære risiko, for eksempel ved bergarbeid,forbrenningsmotor for bruk under jord ved bergarbeid, jf. [§ 27-17](forskrift/2011-12-06-1357/§27-17),høytrykkspyleutstyr,stillas, jf. [§ 17-8](forskrift/2011-12-06-1357/§17-8),fangdammer og senkekasser til bruk ved gravearbeid.
+Det skal alltid være rutiner for systematisk kontroll og vedlikehold av:
+
+- nødvendig og egnet sikkerhetsutstyr slik at det til enhver tid er klart til bruk og i funksjonsdyktig stand,
+- eksisterende anlegg for energidistribusjon på bygge- eller anleggsplasser eller andre midlertidige arbeidsplasser. Anlegg skal identifiseres, kontrolleres og merkes tydelig før bygge- eller anleggsplass etableres,
+- mekanisk og elektrisk utstyr og anlegg ved bergarbeid, samt ved eventuell prøving av mekanisk og elektrisk utstyr og anlegg, herunder ventilasjonsanlegg,
+- ventilasjonsfunksjon. Den skal måles og registreres regelmessig dersom feil kan innebære risiko, for eksempel ved bergarbeid,
+- forbrenningsmotor for bruk under jord ved bergarbeid, jf. [§ 27-17](forskrift/2011-12-06-1357/§27-17),
+- høytrykkspyleutstyr,
+- stillas, jf. [§ 17-8](forskrift/2011-12-06-1357/§17-8),
+- fangdammer og senkekasser til bruk ved gravearbeid.
 
 > Endret ved [forskrift 22 des 2014 nr. 1894](forskrift/2014-12-22-1894) (i kraft 1 jan 2015).
 
@@ -1325,17 +1737,45 @@ Journaler for kontroll, prøving og vedlikehold skal oppbevares på en forsvarli
 
 ### § 13-1. Arbeidsutstyr med krav om sakkyndig kontroll
 
-Arbeidsgiver skal sørge for at følgende arbeidsutstyr underlegges sakkyndig kontroll utført av sakkyndig virksomhet:arbeidsutstyr for løfting av hengende last,løfteredskap,løfte- og stablevogn for gods,masseforflyttingsmaskiner med større effekt enn 15 kW (20,4 hk),arbeidsutstyr på bergingsvogner,arbeidsutstyr med arbeidsplattform eller kurv som er konstruert for å løfte eller transportere personer, og som styres fra plattformen eller kurven,hengestillas,klatrestillas for høyder over 3 meter,studio- og scenerigger,byggeplassheiser ogtrallebaner.
+Arbeidsgiver skal sørge for at følgende arbeidsutstyr underlegges sakkyndig kontroll utført av sakkyndig virksomhet:
+
+- arbeidsutstyr for løfting av hengende last,
+- løfteredskap,
+- løfte- og stablevogn for gods,
+- masseforflyttingsmaskiner med større effekt enn 15 kW (20,4 hk),
+- arbeidsutstyr på bergingsvogner,
+- arbeidsutstyr med arbeidsplattform eller kurv som er konstruert for å løfte eller transportere personer, og som styres fra plattformen eller kurven,
+- hengestillas,
+- klatrestillas for høyder over 3 meter,
+- studio- og scenerigger,
+- byggeplassheiser og
+- trallebaner.
 
 ### § 13-2. Tidspunkt for sakkyndig kontroll
 
-Sakkyndig kontroll av arbeidsutstyr som nevnt i [§ 13-1](forskrift/2011-12-06-1357/§13-1) skal utføres:hver 12. måned,når arbeidsutstyret ikke har vært i bruk de siste 6 måneder og det kan medføre fare for liv eller helse når det skal tas i bruk igjen,når det på grunn av miljøet arbeidsutstyret er plassert i, er påkrevd med hyppigere kontroll,når arbeidsutstyret har vært utsatt for betydelig overbelastning, ogetter større reparasjoner eller ombygginger.
+Sakkyndig kontroll av arbeidsutstyr som nevnt i [§ 13-1](forskrift/2011-12-06-1357/§13-1) skal utføres:
+
+- hver 12. måned,
+- når arbeidsutstyret ikke har vært i bruk de siste 6 måneder og det kan medføre fare for liv eller helse når det skal tas i bruk igjen,
+- når det på grunn av miljøet arbeidsutstyret er plassert i, er påkrevd med hyppigere kontroll,
+- når arbeidsutstyret har vært utsatt for betydelig overbelastning, og
+- etter større reparasjoner eller ombygginger.
 
 Sakkyndig kontroll kan utføres med lengre tidsintervaller når det kan dokumenteres at det ikke medfører fare for liv eller helse og den sakkyndige finner det fullt forsvarlig.
 
 ### § 13-3. Arbeidsutstyr med krav om sakkyndig kontroll ved montering eller oppstilling
 
-Når sikkerheten ved bruk av arbeidsutstyr avhenger av monteringen eller oppstillingen, skal arbeidsgiver sørge for sakkyndig kontroll før det tas i bruk første gang, og etter hver montering eller oppstilling på nytt sted. Kontrollen skal sikre at arbeidsutstyret er korrekt montert eller oppstilt og fungerer korrekt. Dette vil særlig gjelde:fundamentering og oppstilling av portal- og brokraner,fundamentering og oppstilling av arbeidsutstyr for lasting og lossing av skip,fundamentering og oppstilling av tårnkraner,oppheng av traverskraner og taljebaner,oppheng av søyle- og veggsvingkraner,oppheng av hengestillas,oppstilling av klatrestillas for høyder over 3 meter,oppstilling og montering av byggeplassheiser ogpåbygging av kraner med større kapasitet enn 2 tm på kjøretøy og andre mobile maskiner.
+Når sikkerheten ved bruk av arbeidsutstyr avhenger av monteringen eller oppstillingen, skal arbeidsgiver sørge for sakkyndig kontroll før det tas i bruk første gang, og etter hver montering eller oppstilling på nytt sted. Kontrollen skal sikre at arbeidsutstyret er korrekt montert eller oppstilt og fungerer korrekt. Dette vil særlig gjelde:
+
+- fundamentering og oppstilling av portal- og brokraner,
+- fundamentering og oppstilling av arbeidsutstyr for lasting og lossing av skip,
+- fundamentering og oppstilling av tårnkraner,
+- oppheng av traverskraner og taljebaner,
+- oppheng av søyle- og veggsvingkraner,
+- oppheng av hengestillas,
+- oppstilling av klatrestillas for høyder over 3 meter,
+- oppstilling og montering av byggeplassheiser og
+- påbygging av kraner med større kapasitet enn 2 tm på kjøretøy og andre mobile maskiner.
 
 ### § 13-4. Dokumentasjon av sakkyndig kontroll
 
@@ -1355,7 +1795,20 @@ Vurderinger og målinger av støy skal utføres i et omfang som gjør det mulig 
 
 For vibrasjoner skal daglig eksponeringsverdi kartlegges ved å registrere utførelsen av arbeidet med særlig vekt på arbeidsmetoder, styrken på vibrasjoner og vibrasjonsinformasjon som er relevant for de aktuelle arbeidssituasjonene, medregnet opplysninger fra produsenten av utstyret. Når det er nødvendig skal arbeidsgiveren foreta måling av vibrasjonseksponeringen.
 
-Risikovurderingen skal særlig ta hensyn til:eksponeringens nivå, type og varighet og eksponering for impulsstøy som slag og smell, forekomst av variasjon i vibrasjonsnivå og gjentatte støt,virkning på helsen og sikkerheten til arbeidstakere som er særlig utsatt for risiko,enhver virkning på arbeidstakernes helse og sikkerhet som skyldes samvirkning mellom støy og kjemiske stoffer og mellom støy og vibrasjoner i arbeidet, så langt det er mulig,støyens virkning på muligheten til å oppfatte varselsignaler eller andre lyder som må kunne høres for å redusere risiko for ulykker,indirekte virkninger på arbeidstakernes helse og sikkerhet som skyldes vekselvirkninger mellom vibrasjoner og arbeidsstedet eller arbeidsutstyret,tiltaksverdiene og grenseverdiene for daglig eksponering av vibrasjoner, jf [forskrift om tiltaks- og grenseverdier kapittel 2](forskrift/2011-12-06-1358/kap2) og 3,produsentens informasjon om støy- og vibrasjonsnivået på arbeidsutstyret,om det finnes alternativt arbeidsutstyr som gir lavere støy- og vibrasjonseksponering,eksponering for støy og helkroppsvibrasjoner utover vanlig arbeidstid som faller inn under arbeidsgiverens ansvar,relevante opplysninger fra helseundersøkelser, og andre offentliggjorte opplysninger, så langt det er mulig,økt helserisiko på grunn av samvirkning mellom vibrasjoner og andre faktorer på arbeidsplassen, ogtilgjengeligheten av hørselsvern med tilstrekkelig dempning.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. eksponeringens nivå, type og varighet og eksponering for impulsstøy som slag og smell, forekomst av variasjon i vibrasjonsnivå og gjentatte støt,
+2. virkning på helsen og sikkerheten til arbeidstakere som er særlig utsatt for risiko,
+3. enhver virkning på arbeidstakernes helse og sikkerhet som skyldes samvirkning mellom støy og kjemiske stoffer og mellom støy og vibrasjoner i arbeidet, så langt det er mulig,
+4. støyens virkning på muligheten til å oppfatte varselsignaler eller andre lyder som må kunne høres for å redusere risiko for ulykker,
+5. indirekte virkninger på arbeidstakernes helse og sikkerhet som skyldes vekselvirkninger mellom vibrasjoner og arbeidsstedet eller arbeidsutstyret,
+6. tiltaksverdiene og grenseverdiene for daglig eksponering av vibrasjoner, jf [forskrift om tiltaks- og grenseverdier kapittel 2](forskrift/2011-12-06-1358/kap2) og 3,
+7. produsentens informasjon om støy- og vibrasjonsnivået på arbeidsutstyret,
+8. om det finnes alternativt arbeidsutstyr som gir lavere støy- og vibrasjonseksponering,
+9. eksponering for støy og helkroppsvibrasjoner utover vanlig arbeidstid som faller inn under arbeidsgiverens ansvar,
+10. relevante opplysninger fra helseundersøkelser, og andre offentliggjorte opplysninger, så langt det er mulig,
+11. økt helserisiko på grunn av samvirkning mellom vibrasjoner og andre faktorer på arbeidsplassen, og
+12. tilgjengeligheten av hørselsvern med tilstrekkelig dempning.
 
 > Endret ved [forskrift 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013).
 
@@ -1373,7 +1826,10 @@ Kartleggingen og målingen skal dokumenteres.
 
 ### § 14-3. Opplæring der arbeidstaker kan utsettes for støy eller mekaniske vibrasjoner
 
-Arbeidsgiveren skal sørge for at arbeidstakere som kan utsettes for støy eller mekaniske vibrasjoner, og verneombudet får opplæring omtrygge arbeidsmetoder som minsker eksponeringen og risikoen for helseskadenår det er behov for å bruke hørselsvern og hvordan det skal brukes.
+Arbeidsgiveren skal sørge for at arbeidstakere som kan utsettes for støy eller mekaniske vibrasjoner, og verneombudet får opplæring om
+
+1. trygge arbeidsmetoder som minsker eksponeringen og risikoen for helseskade
+2. når det er behov for å bruke hørselsvern og hvordan det skal brukes.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -1381,13 +1837,29 @@ Arbeidsgiveren skal sørge for at arbeidstakere som kan utsettes for støy eller
 
 Arbeidsgiveren skal sørge for at arbeidstakere og verneombud får løpende informasjon om aktuell risiko i forbindelse med støy, dersom arbeidstakerne utsettes for støy som er lik eller overskrider L EX,8h = 80 dB eller L pC,peak = 130 dB, eller i forbindelse med vibrasjoner, dersom risikovurderingen viser at arbeidstakerne kan bli utsatt for vibrasjoner.
 
-Arbeidsgiveren skal sørge for at arbeidstakerne og verneombudet får løpende informasjon omrisikovurderingen som er foretatt og tiltakene som er satt i verktiltaks- og grenseverdiene for eksponeringenmåleresultatenerisikoen knyttet til støy og vibrasjoner, hvordan tegn på skader kan oppdages og hvordan de skal rapporteresunder hvilke vilkår de har rett til helseundersøkelse og formålet med undersøkelsenrisikoen for helseskade som bruken av arbeidsutstyret kan medføre.
+Arbeidsgiveren skal sørge for at arbeidstakerne og verneombudet får løpende informasjon om
+
+1. risikovurderingen som er foretatt og tiltakene som er satt i verk
+2. tiltaks- og grenseverdiene for eksponeringen
+3. måleresultatene
+4. risikoen knyttet til støy og vibrasjoner, hvordan tegn på skader kan oppdages og hvordan de skal rapporteres
+5. under hvilke vilkår de har rett til helseundersøkelse og formålet med undersøkelsen
+6. risikoen for helseskade som bruken av arbeidsutstyret kan medføre.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
 ### § 14-5. Tiltak mot støy
 
-Arbeidsgiveren skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Arbeidsgiveren skal blant annet sørge for at risiko som er forårsaket av støy fjernes eller reduseres til et lavest mulig nivå, ved å:vurdere alternative arbeidsmetoder som gir redusert støyeksponering,velge hensiktsmessig arbeidsutstyr som gir minst mulig støy,utforme og tilrettelegge arbeidsplassen og arbeidslokalene for eksempel ved at tekniske innretninger oppstilles og brukes på en slik måte at unødig støy ikke oppstår,foreta teknisk støyreduksjon som demper lydutbredelse gjennom luft, for eksempel ved hjelp av skjermer, innbygging eller lydabsorbenter,foreta teknisk støyreduksjon som reduserer strukturlyd og vibrasjoner ved å avbalansere, dempe eller isolere lydkilder,ha systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og støydempingstiltak,tilrettelegge arbeidet ved begrensning av eksponeringstid og intensitet, og med tilstrekkelige støyfrie hvileperioder,sørge for helseundersøkelser.
+Arbeidsgiveren skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Arbeidsgiveren skal blant annet sørge for at risiko som er forårsaket av støy fjernes eller reduseres til et lavest mulig nivå, ved å:
+
+1. vurdere alternative arbeidsmetoder som gir redusert støyeksponering,
+2. velge hensiktsmessig arbeidsutstyr som gir minst mulig støy,
+3. utforme og tilrettelegge arbeidsplassen og arbeidslokalene for eksempel ved at tekniske innretninger oppstilles og brukes på en slik måte at unødig støy ikke oppstår,
+4. foreta teknisk støyreduksjon som demper lydutbredelse gjennom luft, for eksempel ved hjelp av skjermer, innbygging eller lydabsorbenter,
+5. foreta teknisk støyreduksjon som reduserer strukturlyd og vibrasjoner ved å avbalansere, dempe eller isolere lydkilder,
+6. ha systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og støydempingstiltak,
+7. tilrettelegge arbeidet ved begrensning av eksponeringstid og intensitet, og med tilstrekkelige støyfrie hvileperioder,
+8. sørge for helseundersøkelser.
 
 Arbeidsgiveren skal tilpasse tiltakene for arbeidstakere som i særlig grad kan være utsatt for ulykkes- eller helsefare.
 
@@ -1407,7 +1879,16 @@ For å unngå fremtidige overskridelser av grenseverdiene, skal arbeidsgiveren k
 
 ### § 14-8. Tiltak mot mekaniske vibrasjoner ved overskridelse av tiltaksverdiene
 
-Dersom tiltaksverdiene for mekaniske vibrasjoner overskrides, skal arbeidsgiveren iverksette tekniske og organisatoriske tiltak på bakgrunn av de helse- og sikkerhetsrisikoene som fremkommer av risikovurderingen, ved å:vurdere alternative arbeidsmetoder som medfører mindre eksponering for vibrasjoner,velge passende arbeidsutstyr med god ergonomisk utforming med hensyn til arbeidet som utføres, slik at vibrasjonseksponeringen reduseres,utforme og tilrettelegge arbeidsplassen og arbeidet som utføres,sørge for at arbeidstakere har tilgang til tilleggsutstyr eller hjelpemiddel som reduserer risikoen for skade som skyldes vibrasjoner,ha systematisk vedlikehold av arbeidsutstyr og arbeidsplassen,begrense eksponeringstiden og -intensiteten,ha hensiktsmessige arbeidsplaner med tilstrekkelige hvilepauser,sørge for arbeidsklær til arbeidstakere som utsettes for fuktighet og kulde.
+Dersom tiltaksverdiene for mekaniske vibrasjoner overskrides, skal arbeidsgiveren iverksette tekniske og organisatoriske tiltak på bakgrunn av de helse- og sikkerhetsrisikoene som fremkommer av risikovurderingen, ved å:
+
+1. vurdere alternative arbeidsmetoder som medfører mindre eksponering for vibrasjoner,
+2. velge passende arbeidsutstyr med god ergonomisk utforming med hensyn til arbeidet som utføres, slik at vibrasjonseksponeringen reduseres,
+3. utforme og tilrettelegge arbeidsplassen og arbeidet som utføres,
+4. sørge for at arbeidstakere har tilgang til tilleggsutstyr eller hjelpemiddel som reduserer risikoen for skade som skyldes vibrasjoner,
+5. ha systematisk vedlikehold av arbeidsutstyr og arbeidsplassen,
+6. begrense eksponeringstiden og -intensiteten,
+7. ha hensiktsmessige arbeidsplaner med tilstrekkelige hvilepauser,
+8. sørge for arbeidsklær til arbeidstakere som utsettes for fuktighet og kulde.
 
 Arbeidsgiveren skal tilpasse tiltakene for arbeidstakere som i særlig grad kan være utsatt for ulykkes- eller helsefare.
 
@@ -1451,7 +1932,13 @@ Arbeidstakeren skal informeres om resultatet av helseundersøkelsen. Dersom det 
 
 ### § 14-13. Arbeidsgiverens oppfølging av helseundersøkelse av arbeidstaker utsatt for støy eller mekaniske vibrasjoner
 
-Dersom helseundersøkelsen påviser helseskade eller annen negativ helseeffekt som skyldes mekaniske vibrasjoner eller støy på arbeidsplassen eller støy i samvirkning med andre faktorer, skal arbeidsgiver:vurdere årsaker til at helseskade har oppstått,revidere og oppdatere risikovurderingen,ta hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter arbeidstakere for støy eller mekaniske vibrasjoner,gi tilbud om egnet helseundersøkelse til andre arbeidstakere som har vært utsatt for liknende eksponering.
+Dersom helseundersøkelsen påviser helseskade eller annen negativ helseeffekt som skyldes mekaniske vibrasjoner eller støy på arbeidsplassen eller støy i samvirkning med andre faktorer, skal arbeidsgiver:
+
+1. vurdere årsaker til at helseskade har oppstått,
+2. revidere og oppdatere risikovurderingen,
+3. ta hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,
+4. iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter arbeidstakere for støy eller mekaniske vibrasjoner,
+5. gi tilbud om egnet helseundersøkelse til andre arbeidstakere som har vært utsatt for liknende eksponering.
 
 ### § 14-14. Omplassering av arbeidstaker utsatt for støy eller mekaniske vibrasjoner
 
@@ -1499,7 +1986,18 @@ Arbeidstakere med legeattest om at de ikke kan arbeide med ioniserende stråling
 
 Arbeidsgiveren skal kartlegge og dokumentere i hvilken utstrekning arbeidstakerne utsettes for kunstig optisk stråling og vurdere enhver risiko for deres helse og sikkerhet forbundet med kunstig optisk stråling. Vurdering, beregning og måling av eksponering skal inngå som del av risikovurderingen.
 
-Risikovurderingen skal særlig ta hensyn til:nivå, bølgelengdeområde og eksponeringstid i forbindelse med kunstig optisk stråling,grenseverdiene for eksponering gitt i [forskrift om tiltaks- og grenseverdier § 4-2](forskrift/2011-12-06-1358/§4-2),informasjon fra produsenter av kunstig optiske strålekilder og tilhørende arbeidsutstyr,virkninger på helsen og sikkerheten til arbeidstakere som tilhører særlig følsomme risikogrupper,virkninger på arbeidstakernes helse og sikkerhet som skyldes vekselvirkninger på arbeidsplassen mellom kunstig optisk stråling og kjemiske stoffer som påvirker lysfølsomheten,indirekte virkninger, som for eksempel blending og forbigående synsforstyrrelser, eksplosjon eller brann,tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for kunstig optisk stråling,relevant informasjon fra helseundersøkelser og annen offentlig informasjon,eksponering for kunstig optisk stråling fra flere kilder og,klassifiseringen av laserutstyr definert i samsvar med den relevante IEC-standarden, og kunstige optiske strålingskilder som kan forårsake skader lignende dem som forårsakes av laser i klasse 3B eller 4, risikoklassifisering av ikke-koherente optiske kilder eller annen tilsvarende klassifisering.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. nivå, bølgelengdeområde og eksponeringstid i forbindelse med kunstig optisk stråling,
+2. grenseverdiene for eksponering gitt i [forskrift om tiltaks- og grenseverdier § 4-2](forskrift/2011-12-06-1358/§4-2),
+3. informasjon fra produsenter av kunstig optiske strålekilder og tilhørende arbeidsutstyr,
+4. virkninger på helsen og sikkerheten til arbeidstakere som tilhører særlig følsomme risikogrupper,
+5. virkninger på arbeidstakernes helse og sikkerhet som skyldes vekselvirkninger på arbeidsplassen mellom kunstig optisk stråling og kjemiske stoffer som påvirker lysfølsomheten,
+6. indirekte virkninger, som for eksempel blending og forbigående synsforstyrrelser, eksplosjon eller brann,
+7. tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for kunstig optisk stråling,
+8. relevant informasjon fra helseundersøkelser og annen offentlig informasjon,
+9. eksponering for kunstig optisk stråling fra flere kilder og,
+10. klassifiseringen av laserutstyr definert i samsvar med den relevante IEC-standarden, og kunstige optiske strålingskilder som kan forårsake skader lignende dem som forårsakes av laser i klasse 3B eller 4, risikoklassifisering av ikke-koherente optiske kilder eller annen tilsvarende klassifisering.
 
 ### § 16-2. Vurdering, beregning og måling av kunstig optisk stråling som grunnlag for risikovurderingen
 
@@ -1507,7 +2005,10 @@ Arbeidsgiveren skal vurdere nivåene av den kunstige optiske strålingen fra str
 
 Vurderingen, beregningen og/eller målingen skal planlegges og utføres av personell med relevant kompetanse og gjentas med passende intervall. Ny vurdering skal gjøres ved endringer som påvirker eksponeringen av de ansatte, om nødvendig må nye beregninger og/eller målinger utføres.
 
-Ved måling av kunstig optisk stråling skal den metoden som velges være i henhold til standarder fra:IECs (International Electrotechnical Commision) for laserstråling ogCIEs (International Commision on Illumination) og CENs (European Committee for Standardization) anbefalinger for kunstig optisk stråling, unntatt laserstråling.
+Ved måling av kunstig optisk stråling skal den metoden som velges være i henhold til standarder fra:
+
+1. IECs (International Electrotechnical Commision) for laserstråling og
+2. CIEs (International Commision on Illumination) og CENs (European Committee for Standardization) anbefalinger for kunstig optisk stråling, unntatt laserstråling.
 
 Eksponeringssituasjoner som ikke omfattes av disse standardene og anbefalingene, skal vurderes, beregnes eller måles i henhold til vitenskapelig baserte internasjonale eller nasjonale retningslinjer.
 
@@ -1517,13 +2018,23 @@ Dataene som produsentene av utstyr har oppgitt kan tas hensyn til i vurderingen 
 
 ### § 16-3. Opplæring der arbeidstaker kan utsettes for kunstig optisk stråling
 
-Arbeidsgiveren skal sørge for at arbeidstakere som kan utsettes for kunstig optisk stråling, og verneombudet får opplæring omsikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponeringriktig bruk av hensiktsmessig personlig verneutstyr.
+Arbeidsgiveren skal sørge for at arbeidstakere som kan utsettes for kunstig optisk stråling, og verneombudet får opplæring om
+
+1. sikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponering
+2. riktig bruk av hensiktsmessig personlig verneutstyr.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
 ### § 16-4. Informasjon om risiko i tilknytning til kunstig optisk stråling
 
-Arbeidsgiveren skal sørge for at arbeidstakerne og verneombudet får løpende informasjon omrisikovurderingen som er foretatt og de tiltak som er iverksattgrenseverdiene for eksponeringvurdering, beregning og måling etter [§ 16-2](forskrift/2011-12-06-1357/§16-2)hvordan helseskadelige virkninger av eksponering oppdages og rapporteresunder hvilke vilkår arbeidstakerne har rett til helseundersøkelse og formålet med undersøkelsenmulig helsefare som kunstig optisk stråling kan medføre.
+Arbeidsgiveren skal sørge for at arbeidstakerne og verneombudet får løpende informasjon om
+
+1. risikovurderingen som er foretatt og de tiltak som er iverksatt
+2. grenseverdiene for eksponering
+3. vurdering, beregning og måling etter [§ 16-2](forskrift/2011-12-06-1357/§16-2)
+4. hvordan helseskadelige virkninger av eksponering oppdages og rapporteres
+5. under hvilke vilkår arbeidstakerne har rett til helseundersøkelse og formålet med undersøkelsen
+6. mulig helsefare som kunstig optisk stråling kan medføre.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -1531,7 +2042,18 @@ Arbeidsgiveren skal sørge for at arbeidstakerne og verneombudet får løpende i
 
 Arbeidsgiver skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Arbeidsgiveren skal sørge for at risiko som er forårsaket av kunstig optisk stråling fjernes eller reduseres til et lavest mulig nivå.
 
-For å redusere eksponering skal det på bakgrunn av utarbeidet risikovurdering lages en handlingsplan som inneholder tekniske og/ eller organisatoriske tiltak. Det skal særlig tas hensyn til:alternative arbeidsmetoder,valg av hensiktsmessig arbeidsutstyr som gir minst mulig kunstig optisk stråling,tekniske innretninger som reduserer kunstig optisk stråling, innbefattet bruk av avskjerming, innbygging eller liknende,systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og arbeidslokaler,utforming og tilrettelegging av arbeidsplasser og arbeidslokalene,begrensning av eksponeringstid og nivå,tilgjengelighet av hensiktsmessig personlig verneutstyr,bruksanvisninger fra produsenter av utstyr,spesielle tiltak rettet mot arbeidstakere som tilhører følsomme risikogrupper og,gjennomføring av helseundersøkelser i henhold til [§ 16-7](forskrift/2011-12-06-1357/§16-7).
+For å redusere eksponering skal det på bakgrunn av utarbeidet risikovurdering lages en handlingsplan som inneholder tekniske og/ eller organisatoriske tiltak. Det skal særlig tas hensyn til:
+
+1. alternative arbeidsmetoder,
+2. valg av hensiktsmessig arbeidsutstyr som gir minst mulig kunstig optisk stråling,
+3. tekniske innretninger som reduserer kunstig optisk stråling, innbefattet bruk av avskjerming, innbygging eller liknende,
+4. systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og arbeidslokaler,
+5. utforming og tilrettelegging av arbeidsplasser og arbeidslokalene,
+6. begrensning av eksponeringstid og nivå,
+7. tilgjengelighet av hensiktsmessig personlig verneutstyr,
+8. bruksanvisninger fra produsenter av utstyr,
+9. spesielle tiltak rettet mot arbeidstakere som tilhører følsomme risikogrupper og,
+10. gjennomføring av helseundersøkelser i henhold til [§ 16-7](forskrift/2011-12-06-1357/§16-7).
 
 Arbeidsgiveren skal tilpasse tiltakene for arbeidstakere som i særlig grad kan være utsatt for ulykkes- og helsefare.
 
@@ -1541,7 +2063,11 @@ Dersom risikovurderingen viser at grenseverdiene for eksponering overskrides, sk
 
 ### § 16-7. Helseundersøkelse av arbeidstakere som utsettes for kunstig optisk stråling
 
-Arbeidsgiveren skal sørge for at arbeidstakere får tilbud om egnet helseundersøkelse dersom:eksponering for kunstig optisk stråling overskrider grenseverdiene i [forskrift om tiltaks- og grenseverdier § 4-2](forskrift/2011-12-06-1358/§4-2), ellerarbeidstakere har en kjent sykdom som skyldes eksponering for kunstig optisk stråling, ellerrisikovurderingen viser at det foreligger helserisiko.
+Arbeidsgiveren skal sørge for at arbeidstakere får tilbud om egnet helseundersøkelse dersom:
+
+1. eksponering for kunstig optisk stråling overskrider grenseverdiene i [forskrift om tiltaks- og grenseverdier § 4-2](forskrift/2011-12-06-1358/§4-2), eller
+2. arbeidstakere har en kjent sykdom som skyldes eksponering for kunstig optisk stråling, eller
+3. risikovurderingen viser at det foreligger helserisiko.
 
 Arbeidsgiver skal sørge for at risikovurderingen er tilgjengelig for den som utfører helseundersøkelsen.
 
@@ -1555,7 +2081,13 @@ Arbeidstakeren skal informeres om resultatet av helseundersøkelsen. Dersom det 
 
 ### § 16-8. Arbeidsgivers oppfølging av helseundersøkelse av arbeidstaker utsatt for kunstig optisk stråling
 
-Dersom helseundersøkelsen påviser helseskade eller annen negativ helseeffekt forårsaket av kunstig optisk stråling, skal arbeidsgiver:vurdere årsaker til at helseskade har oppstått,revidere og oppdatere risikovurderingen,iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter arbeidstakere for kunstig optisk stråling, herunder ta hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,omplassere arbeidstakere oggi tilbud om egnet helseundersøkelse til andre arbeidstakere som har vært utsatt for liknende eksponering.
+Dersom helseundersøkelsen påviser helseskade eller annen negativ helseeffekt forårsaket av kunstig optisk stråling, skal arbeidsgiver:
+
+1. vurdere årsaker til at helseskade har oppstått,
+2. revidere og oppdatere risikovurderingen,
+3. iverksette tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter arbeidstakere for kunstig optisk stråling, herunder ta hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,
+4. omplassere arbeidstakere og
+5. gi tilbud om egnet helseundersøkelse til andre arbeidstakere som har vært utsatt for liknende eksponering.
 
 ### § 16-9. Omplassering av arbeidstaker utsatt for kunstig optisk stråling
 
@@ -1569,7 +2101,18 @@ Arbeidsgiveren skal så langt det er mulig sørge for at arbeidstakere blir ompl
 
 Arbeidsgiver skal kartlegge og dokumentere i hvilken utstrekning arbeidstakerne utsettes for elektromagnetisk felt og vurdere enhver risiko for deres helse og sikkerhet forbundet med elektromagnetisk felt. Vurdering og beregning eller måling av eksponering skal inngå som del av risikovurderingen.
 
-Risikovurderingen skal særlig ta hensyn til:nivå, frekvensområde og eksponeringstid i forbindelse med elektromagnetisk felt,tiltaks- og grenseverdiene for eksponering gitt i [forskrift om tiltaks- og grenseverdier § 4-3](forskrift/2011-12-06-1358/§4-3),informasjon fra produsenter av elektromagnetiske strålekilder og tilhørende arbeidsutstyr,virkninger på helsen og sikkerheten til arbeidstakere som tilhører særlig følsomme risikogrupper,enhver direkte biofysisk effekt,indirekte virkninger,tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for elektromagnetisk felt,relevant informasjon fra helseundersøkelser og annen offentlig tilgjengelig informasjon,eksponering for elektromagnetisk felt fra flere kilder og,sameksponering for felter med flere frekvenser.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. nivå, frekvensområde og eksponeringstid i forbindelse med elektromagnetisk felt,
+2. tiltaks- og grenseverdiene for eksponering gitt i [forskrift om tiltaks- og grenseverdier § 4-3](forskrift/2011-12-06-1358/§4-3),
+3. informasjon fra produsenter av elektromagnetiske strålekilder og tilhørende arbeidsutstyr,
+4. virkninger på helsen og sikkerheten til arbeidstakere som tilhører særlig følsomme risikogrupper,
+5. enhver direkte biofysisk effekt,
+6. indirekte virkninger,
+7. tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for elektromagnetisk felt,
+8. relevant informasjon fra helseundersøkelser og annen offentlig tilgjengelig informasjon,
+9. eksponering for elektromagnetisk felt fra flere kilder og,
+10. sameksponering for felter med flere frekvenser.
 
 > Tilføyd ved [forskrift 21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016), endret ved [forskrift 22 des 2016 nr. 1858](forskrift/2016-12-22-1858) (i kraft 1 jan 2017).
 
@@ -1583,13 +2126,25 @@ Vurderingen og beregningen eller målingen skal planlegges og utføres av person
 
 ### § 16 A-3. Opplæring der arbeidstaker kan utsettes for elektromagnetisk felt
 
-Arbeidsgiver skal sørge for at arbeidstakere som kan utsettes for elektromagnetisk felt, og verneombudet får opplæring om:sikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponeringriktig bruk av hensiktsmessig personlig verneutstyr.
+Arbeidsgiver skal sørge for at arbeidstakere som kan utsettes for elektromagnetisk felt, og verneombudet får opplæring om:
+
+1. sikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponering
+2. riktig bruk av hensiktsmessig personlig verneutstyr.
 
 > Tilføyd ved [forskrift 21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016).
 
 ### § 16 A-4. Informasjon om risiko i tilknytning til elektromagnetisk felt
 
-Arbeidsgiver skal sørge for at arbeidstakerne og verneombudet får løpende informasjon om:risikovurderingen som er foretatt og de tiltak som er iverksatttiltaks- og grenseverdiene for eksponeringvurdering, beregning og måling etter § 16 A-2hvordan helseskadelige virkninger av eksponering oppdages og rapporteresunder hvilke vilkår arbeidstakerne har rett til helseundersøkelse og formålet med undersøkelsenmulig helsefare som elektromagnetisk felt kan medføremuligheten for forbigående symptomer og fornemmelser knyttet til virkninger i nervesystemetarbeidstakere som er utsatt for særlig risiko.
+Arbeidsgiver skal sørge for at arbeidstakerne og verneombudet får løpende informasjon om:
+
+1. risikovurderingen som er foretatt og de tiltak som er iverksatt
+2. tiltaks- og grenseverdiene for eksponering
+3. vurdering, beregning og måling etter § 16 A-2
+4. hvordan helseskadelige virkninger av eksponering oppdages og rapporteres
+5. under hvilke vilkår arbeidstakerne har rett til helseundersøkelse og formålet med undersøkelsen
+6. mulig helsefare som elektromagnetisk felt kan medføre
+7. muligheten for forbigående symptomer og fornemmelser knyttet til virkninger i nervesystemet
+8. arbeidstakere som er utsatt for særlig risiko.
 
 > Tilføyd ved [forskrift 21 juni 2016 nr. 761](forskrift/2016-06-21-761) (i kraft 1 juli 2016).
 
@@ -1597,7 +2152,20 @@ Arbeidsgiver skal sørge for at arbeidstakerne og verneombudet får løpende inf
 
 Arbeidsgiver skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Arbeidsgiver skal sørge for at risiko som er forårsaket av elektromagnetisk felt fjernes eller reduseres til et lavest mulig nivå.
 
-For å redusere eksponering skal det på bakgrunn av utarbeidet risikovurdering lages en handlingsplan som inneholder tekniske og organisatoriske tiltak. Det skal særlig tas hensyn til:alternative arbeidsmetoder,valg av hensiktsmessig arbeidsutstyr som gir minst mulig elektromagnetisk stråling,tekniske innretninger som reduserer elektromagnetisk stråling, innbefattet bruk av avskjerming, innbygging eller lignende,systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og arbeidslokaler,utforming og tilrettelegging av arbeidsplasser og arbeidslokalene,begrensning av eksponeringstid,tilgjengelighet av hensiktsmessig personlig verneutstyr,bruksanvisninger fra produsenter av utstyr,passende avgrensnings- og adgangstiltak,prosedyrer for å håndtere gnistutladninger og kontaktstrømmer gjennom tekniske hjelpemidler og opplæring av arbeidstakere,spesielle tiltak rettet mot arbeidstakere som tilhører følsomme risikogrupper, oggjennomføring av helseundersøkelser i henhold til § 16 A-7.
+For å redusere eksponering skal det på bakgrunn av utarbeidet risikovurdering lages en handlingsplan som inneholder tekniske og organisatoriske tiltak. Det skal særlig tas hensyn til:
+
+1. alternative arbeidsmetoder,
+2. valg av hensiktsmessig arbeidsutstyr som gir minst mulig elektromagnetisk stråling,
+3. tekniske innretninger som reduserer elektromagnetisk stråling, innbefattet bruk av avskjerming, innbygging eller lignende,
+4. systematisk vedlikehold av arbeidsutstyr, arbeidsplassen og arbeidslokaler,
+5. utforming og tilrettelegging av arbeidsplasser og arbeidslokalene,
+6. begrensning av eksponeringstid,
+7. tilgjengelighet av hensiktsmessig personlig verneutstyr,
+8. bruksanvisninger fra produsenter av utstyr,
+9. passende avgrensnings- og adgangstiltak,
+10. prosedyrer for å håndtere gnistutladninger og kontaktstrømmer gjennom tekniske hjelpemidler og opplæring av arbeidstakere,
+11. spesielle tiltak rettet mot arbeidstakere som tilhører følsomme risikogrupper, og
+12. gjennomføring av helseundersøkelser i henhold til § 16 A-7.
 
 Arbeidsgiver skal tilpasse tiltakene for arbeidstakere som i særlig grad kan være utsatt for ulykkes- og helsefare.
 
@@ -1611,7 +2179,10 @@ Dersom risikovurderingen viser at grenseverdiene for eksponering overskrides, sk
 
 ### § 16 A-7. Helseundersøkelse av arbeidstakere som utsettes for elektromagnetisk felt
 
-Arbeidsgiveren skal sørge for at arbeidstakerne får tilbud om egnet helseundersøkelse dersom:eksponering for elektromagnetisk felt overskrider grenseverdiene i [forskrift om tiltaks- og grenseverdier § 4-3](forskrift/2011-12-06-1358/§4-3), ellerarbeidstakerne har en kjent sykdom som skyldes eksponering for elektromagnetisk felt.
+Arbeidsgiveren skal sørge for at arbeidstakerne får tilbud om egnet helseundersøkelse dersom:
+
+1. eksponering for elektromagnetisk felt overskrider grenseverdiene i [forskrift om tiltaks- og grenseverdier § 4-3](forskrift/2011-12-06-1358/§4-3), eller
+2. arbeidstakerne har en kjent sykdom som skyldes eksponering for elektromagnetisk felt.
 
 Arbeidsgiver skal sørge for at risikovurderingen er tilgjengelig for den som utfører helseundersøkelsen.
 
@@ -1627,7 +2198,16 @@ Arbeidstakeren skal informeres om resultatet av helseundersøkelsen.
 
 Arbeidsgiver skal ved planlegging og utførelse av arbeid i høyden vurdere risikoen slik at arbeidet utføres på en sikker måte.
 
-Risikovurderingen skal særlig ta hensyn til:høyden som arbeidet skal utføres fra, herunder risiko for at personer eller gjenstander kan falle nedforhold av betydning for valg av fallsikringstiltak, herunder arbeidets art og varighet, underlag, rasfare m.m.belastninger som påføres arbeidsutstyr eller arbeidsplattformergonomiske forholdatkomst og muligheter for evakueringtrafikale forholdværforhold ogandre faremomenter på den aktuelle arbeidsplassen.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. høyden som arbeidet skal utføres fra, herunder risiko for at personer eller gjenstander kan falle ned
+2. forhold av betydning for valg av fallsikringstiltak, herunder arbeidets art og varighet, underlag, rasfare m.m.
+3. belastninger som påføres arbeidsutstyr eller arbeidsplattform
+4. ergonomiske forhold
+5. atkomst og muligheter for evakuering
+6. trafikale forhold
+7. værforhold og
+8. andre faremomenter på den aktuelle arbeidsplassen.
 
 > Endret ved [forskrifter 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [26 juni 2015 nr. 806](forskrift/2015-06-26-806) (i kraft 1 jan 2016), [20 des 2017 nr. 2354](forskrift/2017-12-20-2354) (i kraft 1 jan 2018), [15 des 2021 nr. 3598](forskrift/2021-12-15-3598) (i kraft 1 jan 2022).
 
@@ -1637,7 +2217,16 @@ Arbeidsgiver skal sørge for at arbeidstaker som skal arbeide med montering, dem
 
 Kravet til opplæring gjelder også ved montering, demontering, endring og kontroll av rullestillaser fra to meter.
 
-Opplæringen skal ta hensyn til mulige faremomenter arbeidet kan medføre og skal særskilt omfatte:forståelse av planer for montering, demontering eller endringer av den aktuelle stillastypen,sikkerhet ved montering, demontering eller endringer av den aktuelle stillastypen,tiltak for å redusere fallrisikoen for personer og gjenstander,vurdering av stillasmateriellets vedlikeholdstilstand med hensyn til utsortering av uforsvarlig stillasmateriell, bl.a. råte, korrosjon og sprekker,sikkerhetstiltak i tilfelle væromslag som kan virke negativt inn på sikkerheten til den aktuelle stillastypen,tillatte belastninger,kontroll av stillas ogall annen risiko som ovennevnte montering, demontering eller endring kan medføre.
+Opplæringen skal ta hensyn til mulige faremomenter arbeidet kan medføre og skal særskilt omfatte:
+
+1. forståelse av planer for montering, demontering eller endringer av den aktuelle stillastypen,
+2. sikkerhet ved montering, demontering eller endringer av den aktuelle stillastypen,
+3. tiltak for å redusere fallrisikoen for personer og gjenstander,
+4. vurdering av stillasmateriellets vedlikeholdstilstand med hensyn til utsortering av uforsvarlig stillasmateriell, bl.a. råte, korrosjon og sprekker,
+5. sikkerhetstiltak i tilfelle væromslag som kan virke negativt inn på sikkerheten til den aktuelle stillastypen,
+6. tillatte belastninger,
+7. kontroll av stillas og
+8. all annen risiko som ovennevnte montering, demontering eller endring kan medføre.
 
 For at arbeidsgiver skal kunne sette arbeidstaker til selvstendig arbeid med montering, demontering, endring og kontroll, skal arbeidsgiver påse at arbeidstaker har 7,5 timer teoretisk opplæring og 7,5 timer praktisk øvelse under tilsyn og veiledning av kvalifisert person. Arbeidsgiver skal i tillegg påse at arbeidstaker får øvelse i bruk av relevant sikringsutstyr mot fall under montering, demontering og endring av stillaskonstruksjoner, herunder bruk av personlig verneutstyr (fallsikringsutstyr).
 
@@ -1667,7 +2256,11 @@ Det skal utstedes dokumentasjon på at praktisk og teoretisk opplæring er gitt 
 
 Arbeidsgiver skal sørge for at arbeidstaker som skal arbeide med montering, demontering, endring og kontroll av stillaser med øverste stillasgulv fra ni meter får opplæring. Dette gjelder også stillaser som ikke monteres i standardoppstilling etter leverandørens monteringsanvisning, uavhengig av stillasets øverste gulvhøyde.
 
-Opplæringen skal særskilt ta hensyn til mulige faremomenter som arbeidet kan medføre og skal i tillegg til kravene i [§ 17-2](forskrift/2011-12-06-1357/§17-2) tredje ledd bokstav a–h omfatte:helse- og sikkerhetsmessig forsvarlig montering av stillaskonstruksjoner, hvor det inngår elementer som krever en særskilt styrke- og stabilitetsberegning,forståelse av spesifikasjonene for en planlagt stillasoppstilling, herunder styrke- og stabilitetsberegninger ogøvelse i forsvarlig montering, demontering og endring av stillaskonstruksjoner, både med hensyn til egen helse og sikkerhet under arbeidet og de etterfølgende brukernes helse og sikkerhet.
+Opplæringen skal særskilt ta hensyn til mulige faremomenter som arbeidet kan medføre og skal i tillegg til kravene i [§ 17-2](forskrift/2011-12-06-1357/§17-2) tredje ledd bokstav a–h omfatte:
+
+1. helse- og sikkerhetsmessig forsvarlig montering av stillaskonstruksjoner, hvor det inngår elementer som krever en særskilt styrke- og stabilitetsberegning,
+2. forståelse av spesifikasjonene for en planlagt stillasoppstilling, herunder styrke- og stabilitetsberegninger og
+3. øvelse i forsvarlig montering, demontering og endring av stillaskonstruksjoner, både med hensyn til egen helse og sikkerhet under arbeidet og de etterfølgende brukernes helse og sikkerhet.
 
 For at arbeidsgiver skal kunne sette arbeidstaker til selvstendig arbeid med montering, demontering, endring og kontroll, skal arbeidsgiver påse at arbeidstaker har anvendt stillas i minst seks måneder, fått 36 timer teoretisk opplæring og deretter 72 timer praktisk opplæring under tilsyn og veiledning av en kvalifisert person. Arbeidsgiver skal i tillegg påse at arbeidstaker får øvelse i bruk av relevant sikringsutstyr mot fall under montering, demontering og endring av stillaskonstruksjoner, herunder bruk av personlig verneutstyr (fallsikringsutstyr).
 
@@ -1685,7 +2278,17 @@ Arbeidsgiver skal sørge for at arbeidstakere som bruker stillas som arbeidsplat
 
 ### § 17-6. Krav til arbeid i høyden
 
-Arbeidsgiver skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Det skal særlig sørges for at:kollektiv fallsikring prioriteres fremfor personlig fallsikringsutstyrarbeidsutstyret er dimensjonert for det arbeidet som skal utføres og for forutsigbare belastningerstillaser er stabile og at underlaget har tilstrekkelig bæreevne til å oppta de belastningene som det blir påførtarbeidet der det er mulig utføres i henhold til ergonomiske prinsipper fra en egnet overflateatkomstveier tilpasses etter hvor ofte arbeidstakerne forflytter seg, hvor lenge de er i bruk, og atkomstenes høydeatkomstveier kan brukes til evakuering i en nødssituasjonforflytning mellom atkomstveier og arbeidsplattformer, stillasgulv eller gangbroer ikke medfører ytterligere risiko for falldet monteres sikringsinnretninger mot fall der det er nødvendig, ogutstyr sikres for å forhindre at gjenstander faller ned og utgjør en fare for andre personer.
+Arbeidsgiver skal iverksette nødvendige tiltak på bakgrunn av de helse- og sikkerhetsrisikoer som fremkommer av risikovurderingen. Det skal særlig sørges for at:
+
+1. kollektiv fallsikring prioriteres fremfor personlig fallsikringsutstyr
+2. arbeidsutstyret er dimensjonert for det arbeidet som skal utføres og for forutsigbare belastninger
+3. stillaser er stabile og at underlaget har tilstrekkelig bæreevne til å oppta de belastningene som det blir påført
+4. arbeidet der det er mulig utføres i henhold til ergonomiske prinsipper fra en egnet overflate
+5. atkomstveier tilpasses etter hvor ofte arbeidstakerne forflytter seg, hvor lenge de er i bruk, og atkomstenes høyde
+6. atkomstveier kan brukes til evakuering i en nødssituasjon
+7. forflytning mellom atkomstveier og arbeidsplattformer, stillasgulv eller gangbroer ikke medfører ytterligere risiko for fall
+8. det monteres sikringsinnretninger mot fall der det er nødvendig, og
+9. utstyr sikres for å forhindre at gjenstander faller ned og utgjør en fare for andre personer.
 
 Kollektive fallsikringsinnretninger kan kun være gjennombrutt på adkomststeder med stiger eller trapper. Når det i forbindelse med utføringen av en bestemt arbeidsoppgave midlertidig er nødvendig å fjerne en kollektiv fallsikringsinnretning, skal det iverksettes sikkerhetstiltak som kompenserer for dette før arbeidsoppgaven utføres. Når arbeidsoppgaven er endelig eller midlertidig avsluttet, skal den kollektive fallsikringsinnretningen settes opp igjen.
 
@@ -1727,7 +2330,13 @@ Arbeidsgiver skal sørge for at kontrollen blir gjennomført av en kvalifisert p
 
 ### § 17-10. Rapport for kontroll av stillas
 
-Arbeidsgiver skal sørge for at det skrives rapport om kontroll av stillas. Rapporten skal minimum inneholde følgende:opplysninger om hvem som foretar kontroll og vedkommendes arbeidsgiver,eier av stillaset,opplysninger om mangler som er funnet, og med frist for retting,tekniske opplysninger ogsignatur av utførende kontrollør.
+Arbeidsgiver skal sørge for at det skrives rapport om kontroll av stillas. Rapporten skal minimum inneholde følgende:
+
+1. opplysninger om hvem som foretar kontroll og vedkommendes arbeidsgiver,
+2. eier av stillaset,
+3. opplysninger om mangler som er funnet, og med frist for retting,
+4. tekniske opplysninger og
+5. signatur av utførende kontrollør.
 
 Dersom det avdekkes mangler som medfører fare for sikkerheten til brukerne av stillaset skal den ansvarlige for kontrollen sørge for at det varsles med et skilt om dette og i tillegg avsperres fysisk for å hindre atkomst til stillaset.
 
@@ -1737,7 +2346,12 @@ Rapporten skal være tilgjengelig for alle arbeidsgivere og arbeidstakere, herun
 
 ### § 17-11. Skilting av stillas
 
-Stillaset skal ha varig og lett synlig skilt med opplysninger om:stillasets eier,stillasbygger,tillatte laster ogkontaktperson med telefonnummer og informasjon om siste kontrolldato og kontrollør.
+Stillaset skal ha varig og lett synlig skilt med opplysninger om:
+
+1. stillasets eier,
+2. stillasbygger,
+3. tillatte laster og
+4. kontaktperson med telefonnummer og informasjon om siste kontrolldato og kontrollør.
 
 Skiltet skal oppdateres etter kontroll utført i henhold til [§ 17-9](forskrift/2011-12-06-1357/§17-9).
 
@@ -1865,7 +2479,10 @@ Mobile stiger skal sikres før de tas i bruk.
 
 Stiger skal kun brukes som atkomst.
 
-Stiger kan unntaksvis brukes som arbeidsplattform ved utføring av arbeid i høyden, når det ikke vil være hensiktsmessig å bruke annet og sikrere arbeidsutstyr fordi risikoen er liten, ogbruken av stigen er kortvarig, ellerforholdene på arbeidsplassen ikke kan endres av arbeidsgiver.
+Stiger kan unntaksvis brukes som arbeidsplattform ved utføring av arbeid i høyden, når det ikke vil være hensiktsmessig å bruke annet og sikrere arbeidsutstyr fordi risikoen er liten, og
+
+1. bruken av stigen er kortvarig, eller
+2. forholdene på arbeidsplassen ikke kan endres av arbeidsgiver.
 
 Det skal ikke brukes frittstående stiger som er høyere enn 6 meter. Frittstående kombistiger skal ikke brukes høyere enn 4 meter.
 
@@ -1881,7 +2498,15 @@ Stige som benyttes til atkomst til tak, avsats eller lignende skal rage minst 1 
 
 Når arbeidsgiver har vurdert risikoen og finner det forsvarlig, kan en arbeidstaker bruke tau som atkomst og for å innta arbeidsstillinger. Det forutsettes at arbeidet kan utføres på en sikker måte og at det ikke vil være hensiktsmessig å bruke annet og sikrere arbeidsutstyr.
 
-Arbeidsgiveren skal iverksette følgende tiltak som ivaretar arbeidstakernes sikkerhet ved bruk av tau:tausystemet skal omfatte minst to tau med separate fester. Det ene tauet er arbeidstau og brukes til atkomst, nedstigning og støtte, og det andre tauet er et sikkerhetstau som sikrer arbeidstakerne. Dersom arbeidsgiver etter en risikovurdering finner at bruken av to tau vil gjøre arbeidet farligere, kan det brukes ett tau. Arbeidsgiver skal da iverksette egnede tiltak som ivaretar sikkerheten til arbeidstakerne,arbeidstakerne skal være utstyrt med og bruke en egnet sele som skal være festet til sikkerhetstauet,arbeidstauet skal være utstyrt med en innretning for sikker opp- og nedstigning og et automatisk låsesystem som hindrer brukeren i å falle,sikkerhetstauet skal ha bevegelig fallsikringsutstyr som følger arbeidstakerens bevegelser,verktøy og annet utstyr som arbeidstakerne bruker skal være sikret til arbeidstakernes seler eller arbeidssete eller på en annen, egnet måte,arbeidet skal nøye planlegges og overvåkes slik at arbeidstakerne kan få øyeblikkelig hjelp i en nødsituasjon ogarbeidstakerne skal få nødvendig opplæring, øvelse og instruksjon i arbeidet som skal gjøres, særlig om framgangsmåter under redningsarbeid.
+Arbeidsgiveren skal iverksette følgende tiltak som ivaretar arbeidstakernes sikkerhet ved bruk av tau:
+
+1. tausystemet skal omfatte minst to tau med separate fester. Det ene tauet er arbeidstau og brukes til atkomst, nedstigning og støtte, og det andre tauet er et sikkerhetstau som sikrer arbeidstakerne. Dersom arbeidsgiver etter en risikovurdering finner at bruken av to tau vil gjøre arbeidet farligere, kan det brukes ett tau. Arbeidsgiver skal da iverksette egnede tiltak som ivaretar sikkerheten til arbeidstakerne,
+2. arbeidstakerne skal være utstyrt med og bruke en egnet sele som skal være festet til sikkerhetstauet,
+3. arbeidstauet skal være utstyrt med en innretning for sikker opp- og nedstigning og et automatisk låsesystem som hindrer brukeren i å falle,
+4. sikkerhetstauet skal ha bevegelig fallsikringsutstyr som følger arbeidstakerens bevegelser,
+5. verktøy og annet utstyr som arbeidstakerne bruker skal være sikret til arbeidstakernes seler eller arbeidssete eller på en annen, egnet måte,
+6. arbeidet skal nøye planlegges og overvåkes slik at arbeidstakerne kan få øyeblikkelig hjelp i en nødsituasjon og
+7. arbeidstakerne skal få nødvendig opplæring, øvelse og instruksjon i arbeidet som skal gjøres, særlig om framgangsmåter under redningsarbeid.
 
 Tauet skal om nødvendig utstyres med et arbeidssete. Ved vurderingen skal det særlig tas hensyn til arbeidets varighet og de ergonomiske belastningene arbeidstakerne utsettes for.
 
@@ -1991,7 +2616,12 @@ Et løfteredskap skal lagres slik at det ikke skades eller forringes.
 
 ### § 18-7. Krav til utstyr som skal løfte og flytte arbeidstakere
 
-Et arbeidsutstyr som skal løfte og flytte arbeidstakere skal være utformet slik at:egnede innretninger hindrer plattformen eller lignende fra å falle nedarbeidstakeren ikke kan falle ned fra plattformenarbeidstakeren ikke kan knuses, klemmes fast eller støtesarbeidstakeren ikke utsettes for fare og kan forlate plattformen hvis det oppstår utilsiktet driftsstans.
+Et arbeidsutstyr som skal løfte og flytte arbeidstakere skal være utformet slik at:
+
+1. egnede innretninger hindrer plattformen eller lignende fra å falle ned
+2. arbeidstakeren ikke kan falle ned fra plattformen
+3. arbeidstakeren ikke kan knuses, klemmes fast eller støtes
+4. arbeidstakeren ikke utsettes for fare og kan forlate plattformen hvis det oppstår utilsiktet driftsstans.
 
 Dersom innretningene nevnt i bokstav a ikke gir tilstrekkelig sikkerhet på grunn av arbeidsstedets beskaffenhet og høydeforskjeller, skal plattformen sikres ved at det monteres et ekstra tau med forhøyet sikkerhetsfaktor. Tauet skal kontrolleres før hver bruk.
 
@@ -2023,7 +2653,11 @@ Mobilt arbeidsutstyr skal ha oppheng for kraftoverføringsakselen, dersom deler 
 
 ### § 19-4. Farer ved velting
 
-Mobilt arbeidsutstyr som kan velte under bruk og som har plass for fører eller arbeidstakere skal ha:enten en vernekonstruksjon som sikrer at utstyret ikke velter mer enn en kvart omdreining, elleren konstruksjon som gir tilstrekkelig rom omkring føreren og de arbeidstakere som befinner seg på arbeidsutstyret, dersom veltebevegelsen kan fortsette mer enn en kvart omdreining, elleren annen innretning med tilsvarende virkning.
+Mobilt arbeidsutstyr som kan velte under bruk og som har plass for fører eller arbeidstakere skal ha:
+
+1. enten en vernekonstruksjon som sikrer at utstyret ikke velter mer enn en kvart omdreining, eller
+2. en konstruksjon som gir tilstrekkelig rom omkring føreren og de arbeidstakere som befinner seg på arbeidsutstyret, dersom veltebevegelsen kan fortsette mer enn en kvart omdreining, eller
+3. en annen innretning med tilsvarende virkning.
 
 Vernekonstruksjonene kan være en integrert del av arbeidsutstyret.
 
@@ -2031,7 +2665,12 @@ Vernekonstruksjoner kreves ikke når arbeidsutstyret er stabilisert under drifte
 
 Dersom det er fare for at en arbeidstaker som befinner seg på arbeidsutstyret skal kunne bli knust mellom deler av arbeidsutstyret og bakken ved velt, skal det finnes en fastspenningsinnretning for disse arbeidstakerne.
 
-Løfte- og stablevogner som fører med seg én eller flere arbeidstakere, skal ha:en konstruksjon som hindrer velt, elleret veltesikkert vern, elleren konstruksjon som sikrer at det forblir en tilstrekkelig klaring for arbeidstakerne mellom bakken og utstyret dersom løfte- og stablevognen velter, elleren konstruksjon som spenner arbeidstakerne fast til førersetet og derved hindrer at de blir knust mellom bakken og deler av løfte- og stablevognen ved velt.
+Løfte- og stablevogner som fører med seg én eller flere arbeidstakere, skal ha:
+
+1. en konstruksjon som hindrer velt, eller
+2. et veltesikkert vern, eller
+3. en konstruksjon som sikrer at det forblir en tilstrekkelig klaring for arbeidstakerne mellom bakken og utstyret dersom løfte- og stablevognen velter, eller
+4. en konstruksjon som spenner arbeidstakerne fast til førersetet og derved hindrer at de blir knust mellom bakken og deler av løfte- og stablevognen ved velt.
 
 Traktor skal være utstyrt med setebelte og typegodkjent førervern som beskytter føreren ved velt og steiling. Setebelte skal brukes under kjøring. Påbudet om bruk av setebelte gjelder likevel ikke under kjøring i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, når bruken av setebeltet i seg selv medfører en økt risiko for skade, eller når det ellers er åpenbart unødvendig.
 
@@ -2039,7 +2678,16 @@ Traktor skal være utstyrt med setebelte og typegodkjent førervern som beskytte
 
 ### § 19-5. Farer ved motordrevet arbeidsutstyr
 
-Arbeidsutstyr med egen framdrift som under forflytting kan utgjøre en fare for arbeidstakere, skal oppfylle følgende vilkår:Det skal ha innretninger som hindrer utilsiktet start.Det skal ha egnede innretninger som reduserer følgene av en kollisjon til et minimum, dersom det finnes flere bevegelige maskiner på samme bane.Det skal finnes en innretning for å bremse og stoppe utstyret. Dersom hensynet til sikkerheten krever det, skal det finnes en nødstoppinnretning som kan betjenes med en lett tilgjengelig betjeningsinnretning, eller et automatisk system for å nedbremse og stoppe utstyret i tilfelle svikt i hovedbremseinnretningen.Dersom førerens direkte synsfelt ikke er tilstrekkelig til at arbeidstakernes sikkerhet kan ivaretas, skal det installeres egnede hjelpeinnretninger som kan gi fullt forsvarlig sikt.Arbeidsutstyr beregnet på bruk om natten eller på mørke steder skal være utstyrt med fullt forsvarlig belysning som er tilpasset det arbeidet som skal utføres.Arbeidsutstyr som kan utgjøre brannfare, enten i seg selv eller med hensyn til det som slepes eller transporteres, og som kan sette arbeidstakere i fare, skal være utstyrt med egnet brannslokkingsutstyr dersom slikt utstyr ikke er innen rekkevidde på den plassen der arbeidsutstyret brukes.Fjernstyrt arbeidsutstyr skal stoppe automatisk straks det beveger seg ut av det området hvor det kan styres.Fjernstyrt arbeidsutstyr som under normale bruksforhold kan innebære fare for at arbeidstaker kan bli påkjørt eller fastklemt, skal ha innretninger som hindrer dette, med mindre det er andre egnede innretninger på stedet som hindrer faren for påkjøring og fastklemming.
+Arbeidsutstyr med egen framdrift som under forflytting kan utgjøre en fare for arbeidstakere, skal oppfylle følgende vilkår:
+
+1. Det skal ha innretninger som hindrer utilsiktet start.
+2. Det skal ha egnede innretninger som reduserer følgene av en kollisjon til et minimum, dersom det finnes flere bevegelige maskiner på samme bane.
+3. Det skal finnes en innretning for å bremse og stoppe utstyret. Dersom hensynet til sikkerheten krever det, skal det finnes en nødstoppinnretning som kan betjenes med en lett tilgjengelig betjeningsinnretning, eller et automatisk system for å nedbremse og stoppe utstyret i tilfelle svikt i hovedbremseinnretningen.
+4. Dersom førerens direkte synsfelt ikke er tilstrekkelig til at arbeidstakernes sikkerhet kan ivaretas, skal det installeres egnede hjelpeinnretninger som kan gi fullt forsvarlig sikt.
+5. Arbeidsutstyr beregnet på bruk om natten eller på mørke steder skal være utstyrt med fullt forsvarlig belysning som er tilpasset det arbeidet som skal utføres.
+6. Arbeidsutstyr som kan utgjøre brannfare, enten i seg selv eller med hensyn til det som slepes eller transporteres, og som kan sette arbeidstakere i fare, skal være utstyrt med egnet brannslokkingsutstyr dersom slikt utstyr ikke er innen rekkevidde på den plassen der arbeidsutstyret brukes.
+7. Fjernstyrt arbeidsutstyr skal stoppe automatisk straks det beveger seg ut av det området hvor det kan styres.
+8. Fjernstyrt arbeidsutstyr som under normale bruksforhold kan innebære fare for at arbeidstaker kan bli påkjørt eller fastklemt, skal ha innretninger som hindrer dette, med mindre det er andre egnede innretninger på stedet som hindrer faren for påkjøring og fastklemming.
 
 Mobilt arbeidsutstyr med forbrenningsmotor skal ikke brukes i arbeidsområder, med mindre det kan sikres at det finnes tilstrekkelig mengde frisk luft slik at arbeidstakerne ikke utsettes for skade på liv eller helse.
 
@@ -2053,7 +2701,14 @@ Der arbeidet gjør det nødvendig å kjøre på islagt vann med mobilt arbeidsut
 
 Arbeidsgiver skal instruere om sikker bruk av høytrykksspyleutstyr.
 
-Instruksen skal minst omfatte at:strålerøret på stråleinnretningen, med eller uten væskestråle, aldri skal rettes mot egen eller andres kropp under bruk,det brukes anordning for mekanisk føring av stråleinnretningen når beregnet rekylkraft er over 250 N,stråleinnretningen støttes mot kroppen dersom rekylkraften på håndbetjent stråleinnretning overstiger 150 N,avtrekkeren eller utløserventilen aldri skal bindes opp eller blokkeres på annen måte,innstillingen av reguleringsventil for arbeidstrykk under bruk, bare skal foretas i samråd med den som betjener stråleinnretningen. Det samme gjelder regulering av temperatur ved oppvarmet væske,etter endt arbeid skal stråleinnretningen plasseres og oppbevares slik at det er utilgjengelig for uvedkommende personell.
+Instruksen skal minst omfatte at:
+
+1. strålerøret på stråleinnretningen, med eller uten væskestråle, aldri skal rettes mot egen eller andres kropp under bruk,
+2. det brukes anordning for mekanisk føring av stråleinnretningen når beregnet rekylkraft er over 250 N,
+3. stråleinnretningen støttes mot kroppen dersom rekylkraften på håndbetjent stråleinnretning overstiger 150 N,
+4. avtrekkeren eller utløserventilen aldri skal bindes opp eller blokkeres på annen måte,
+5. innstillingen av reguleringsventil for arbeidstrykk under bruk, bare skal foretas i samråd med den som betjener stråleinnretningen. Det samme gjelder regulering av temperatur ved oppvarmet væske,
+6. etter endt arbeid skal stråleinnretningen plasseres og oppbevares slik at det er utilgjengelig for uvedkommende personell.
 
 ### § 20-2. Høytrykkspyling med hjelpeoperatør
 
@@ -2151,7 +2806,22 @@ Før gravearbeidet startes skal arbeidsgiver kartlegge og dokumentere forhold so
 
 Det skal gjennomføres ny risikovurdering ved endringer i forhold som kan påvirke arbeidstakernes sikkerhet.
 
-Risikovurderingen skal særlig ta hensyn til:grunnforhold og terrenggravegropens dybdeværforholdbelastning på grunnen fra omkringliggende bygninger eller konstruksjoner, lagringsplasser, arbeidsutstyr og lignendeplassering av gravemassertrafikale forhold i graveområdetplassering og bruk av arbeidsutstyr og materialerbehov for avstivninginstallasjoner i grunnenkjemisk og biologisk helsefarefallende gjenstanderfallfareergonomiske forholdbehov for evakuering og rømningsveier.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. grunnforhold og terreng
+2. gravegropens dybde
+3. værforhold
+4. belastning på grunnen fra omkringliggende bygninger eller konstruksjoner, lagringsplasser, arbeidsutstyr og lignende
+5. plassering av gravemasser
+6. trafikale forhold i graveområdet
+7. plassering og bruk av arbeidsutstyr og materialer
+8. behov for avstivning
+9. installasjoner i grunnen
+10. kjemisk og biologisk helsefare
+11. fallende gjenstander
+12. fallfare
+13. ergonomiske forhold
+14. behov for evakuering og rømningsveier.
 
 > Endret ved forskrift [15 des 2021 nr. 3602](forskrift/2021-12-15-3602) (i kraft 1 jan 2022).
 
@@ -2169,7 +2839,11 @@ Opplæringen skal dokumenteres.
 
 ### § 21-3. Informasjon til arbeidstakerne om risiko ved gravearbeid
 
-Arbeidsgiver skal sørge for at arbeidstakere får nødvendig informasjon om:risikovurderingene som er gjort av det aktuelle gravearbeidethvilke vernetiltak som er nødvendige for sikker utførelse av arbeidethvordan særlige risikoforhold som kan oppstå, skal håndteres.
+Arbeidsgiver skal sørge for at arbeidstakere får nødvendig informasjon om:
+
+1. risikovurderingene som er gjort av det aktuelle gravearbeidet
+2. hvilke vernetiltak som er nødvendige for sikker utførelse av arbeidet
+3. hvordan særlige risikoforhold som kan oppstå, skal håndteres.
 
 > Endret ved forskrift [15 des 2021 nr. 3602](forskrift/2021-12-15-3602) (i kraft 1 jan 2022).
 
@@ -2193,7 +2867,12 @@ Før det graves dypere enn 1,25 meter skal arbeidsgiver sørge for å utarbeide 
 
 Planen skal være lett tilgjengelig på arbeidsplassen. Planen skal oppbevares så lenge det er nødvendig for arbeidstakernes sikkerhet. Dersom det oppstår endringer som kan få betydning for arbeidstakernes sikkerhet, skal planen oppdateres.
 
-Planen skal:vise lengdeprofil med beskrivelse av jordarter ned til 1 meter under utgravingsnivået og installasjoner i grunnen.vise typiske tverrprofiler. Når avstivning er planlagt, skal dette vises på tegningen.vise plassering av gravemasser.inneholde arbeidsinstruks som sikrer at gravearbeidet gjennomføres på en måte slik at arbeidstakernes helse og sikkerhet er ivaretatt på en fullt forsvarlig måte.
+Planen skal:
+
+1. vise lengdeprofil med beskrivelse av jordarter ned til 1 meter under utgravingsnivået og installasjoner i grunnen.
+2. vise typiske tverrprofiler. Når avstivning er planlagt, skal dette vises på tegningen.
+3. vise plassering av gravemasser.
+4. inneholde arbeidsinstruks som sikrer at gravearbeidet gjennomføres på en måte slik at arbeidstakernes helse og sikkerhet er ivaretatt på en fullt forsvarlig måte.
 
 Ved mindre arbeider og i krisesituasjoner kan planene forenkles til en skisse.
 
@@ -2301,11 +2980,21 @@ Dersom begge armer brukes samtidig, må de beveges symmetrisk og bare angi ett s
 
 ### § 22-6. Særlige regler ved bruk av signaler
 
-Arbeidsgiveren skal sørge for at:personen som gir signalene, heretter kalt signalpersonen, bruker arm- og håndbevegelser for å gi manøvreringsinstrukser til personen som mottar signalene, heretter kalt operatøren,signalpersonen kan overvåke alle manøvrer med øynene uten at vedkommende dermed kommer i fare,dersom vilkårene beskrevet i bokstav b) ovenfor ikke kan oppfylles settes det inn ytterligere en eller flere signalpersoner,signalpersonens oppgaver utelukkende består i å gi instrukser i forbindelse med manøvreringen, samt å passe på sikkerheten til arbeidstakere i nærheten,operatøren avbryter den manøveren som er under utførelse og ber om nye instrukser, dersom det viser seg umulig å utføre de mottatte ordrene med den nødvendige grad av sikkerhet.
+Arbeidsgiveren skal sørge for at:
+
+1. personen som gir signalene, heretter kalt signalpersonen, bruker arm- og håndbevegelser for å gi manøvreringsinstrukser til personen som mottar signalene, heretter kalt operatøren,
+2. signalpersonen kan overvåke alle manøvrer med øynene uten at vedkommende dermed kommer i fare,
+3. dersom vilkårene beskrevet i bokstav b) ovenfor ikke kan oppfylles settes det inn ytterligere en eller flere signalpersoner,
+4. signalpersonens oppgaver utelukkende består i å gi instrukser i forbindelse med manøvreringen, samt å passe på sikkerheten til arbeidstakere i nærheten,
+5. operatøren avbryter den manøveren som er under utførelse og ber om nye instrukser, dersom det viser seg umulig å utføre de mottatte ordrene med den nødvendige grad av sikkerhet.
 
 ### § 22-7. Utstyr til bruk ved signalgivning
 
-Arbeidsgiveren skal utstyre signalpersonen slik at:operatøren kan gjenkjenne signalpersonen uten vanskelighet,signalpersonen er iført en eller flere egnede, lett gjenkjennelige effekter, f.eks. jakke, hjelm, mansjetter eller armbånd, eller bruker en markeringspinne,de lett gjenkjennelige effektene er i sterke farger, fortrinnsvis alle i samme farge og skal brukes utelukkende av signalpersoner.
+Arbeidsgiveren skal utstyre signalpersonen slik at:
+
+1. operatøren kan gjenkjenne signalpersonen uten vanskelighet,
+2. signalpersonen er iført en eller flere egnede, lett gjenkjennelige effekter, f.eks. jakke, hjelm, mansjetter eller armbånd, eller bruker en markeringspinne,
+3. de lett gjenkjennelige effektene er i sterke farger, fortrinnsvis alle i samme farge og skal brukes utelukkende av signalpersoner.
 
 ## Femte del: Krav til annet risikoutsatt arbeid
 
@@ -2317,7 +3006,43 @@ Arbeidsgiveren skal utstyre signalpersonen slik at:operatøren kan gjenkjenne si
 
 I forbindelse med planlegging, utforming og utførelse av manuelt arbeid skal arbeidsgiver sørge for en enkeltvis og samlet vurdering av de organisatoriske forhold som kan innebære risiko for helseskade hos arbeidstaker.
 
-Ved vurdering av arbeid som skal utføres manuelt, skal arbeidsgiver særlig ta hensyn til:*Objektets art*Manuell håndtering kan særlig føre til helseskade dersom objektet:er for tungt eller for stort,er uhåndterlig eller gir dårlig tak,er ustøtt eller har et innhold som kan forskyve seg,har en slik plassering at det må holdes på avstand fra kroppen eller ved å bøye eller vri kroppen ellerpå grunn av sin ytre form eller konsistens kan påføre arbeidstaker skader, særlig ved sammenstøt.*Fysiske anstrengelser*En fysisk anstrengelse kan særlig føre til helseskade dersom den:er for stor,må medføre vridning av kroppen,kan sette tunge gjenstander i brå bevegelser ellerutføres med kroppen i en ustø stilling.*Arbeidsmiljøets utforming*Arbeidsmiljøets utforming kan føre til økt risiko for helseskade dersom:det ikke er tilstrekkelig plass til å utføre arbeidsoppgaven,gulvet er ujevnt og kan forårsake snubling, eller er glatt for arbeidstakers fottøy,gulvet eller arbeidsunderlaget har nivåforskjeller som innebærer at objektet må håndteres i ulike høyder,gulvet eller støttepunktet er ustøtt,arbeidsplassen eller arbeidsmiljøet ikke gir arbeidstaker mulighet til å håndtere objektet manuelt i en forsvarlig høyde eller i en hensiktsmessig arbeidsstilling, ellertemperaturen, fuktighetsgraden eller ventilasjonen ikke er hensiktsmessig.*Arbeidsoppgaven*Arbeidsoppgaven kan særlig føre til helseskader dersom den innebærer ett eller flere av følgende forhold:for hyppige, ensformige og langvarige arbeidsoperasjoner som særlig belaster muskel- skjelettsystemet. Statisk arbeid skal reduseres i størst mulig grad,løfting, senking eller bæring over for store avstander,utilstrekkelig tid for nødvendig hvile eller restitusjon elleret arbeidstempo som bestemmes av en prosess som arbeidstaker ikke kan regulere.
+Ved vurdering av arbeid som skal utføres manuelt, skal arbeidsgiver særlig ta hensyn til:
+
+1. *Objektets art*
+
+   Manuell håndtering kan særlig føre til helseskade dersom objektet:
+
+   - er for tungt eller for stort,
+   - er uhåndterlig eller gir dårlig tak,
+   - er ustøtt eller har et innhold som kan forskyve seg,
+   - har en slik plassering at det må holdes på avstand fra kroppen eller ved å bøye eller vri kroppen eller
+   - på grunn av sin ytre form eller konsistens kan påføre arbeidstaker skader, særlig ved sammenstøt.
+2. *Fysiske anstrengelser*
+
+   En fysisk anstrengelse kan særlig føre til helseskade dersom den:
+
+   - er for stor,
+   - må medføre vridning av kroppen,
+   - kan sette tunge gjenstander i brå bevegelser eller
+   - utføres med kroppen i en ustø stilling.
+3. *Arbeidsmiljøets utforming*
+
+   Arbeidsmiljøets utforming kan føre til økt risiko for helseskade dersom:
+
+   - det ikke er tilstrekkelig plass til å utføre arbeidsoppgaven,
+   - gulvet er ujevnt og kan forårsake snubling, eller er glatt for arbeidstakers fottøy,
+   - gulvet eller arbeidsunderlaget har nivåforskjeller som innebærer at objektet må håndteres i ulike høyder,
+   - gulvet eller støttepunktet er ustøtt,
+   - arbeidsplassen eller arbeidsmiljøet ikke gir arbeidstaker mulighet til å håndtere objektet manuelt i en forsvarlig høyde eller i en hensiktsmessig arbeidsstilling, eller
+   - temperaturen, fuktighetsgraden eller ventilasjonen ikke er hensiktsmessig.
+4. *Arbeidsoppgaven*
+
+   Arbeidsoppgaven kan særlig føre til helseskader dersom den innebærer ett eller flere av følgende forhold:
+
+   - for hyppige, ensformige og langvarige arbeidsoperasjoner som særlig belaster muskel- skjelettsystemet. Statisk arbeid skal reduseres i størst mulig grad,
+   - løfting, senking eller bæring over for store avstander,
+   - utilstrekkelig tid for nødvendig hvile eller restitusjon eller
+   - et arbeidstempo som bestemmes av en prosess som arbeidstaker ikke kan regulere.
 
 ### § 23-2. Opplæring om ergonomisk belastende arbeid
 
@@ -2385,9 +3110,24 @@ Kontrollrom skal utformes og plasseres slik at driftssikkerheten for systemet og
 
 Arbeidsgiver skal sørge for at arbeidet tilrettelegges slik at det oppnås høyest mulig grad av systemsikkerhet.
 
-Ved vurderingen skal arbeidsgiver ta hensyn til:systemets egensikkerhetmuligheter for feilbetjening ved drift og vedlikeholdmuligheter for effektivt å kunne håndtere avviks- og feilsituasjonerarbeidstakernes arbeidsbelastningarbeidstakernes erfaringer og kunnskaperarbeidstakernes fysiske og psykiske forutsetninger.
+Ved vurderingen skal arbeidsgiver ta hensyn til:
 
-Det skal utarbeides analyser som tar hensyn til de kontrollromsoperasjoner som skal utføres ved:oppstart av anleggetnormal driftomstilling av driftsforholddriftsforstyrrelserkritiske driftsforholdnedkjøring og stoppvedlikehold.
+- systemets egensikkerhet
+- muligheter for feilbetjening ved drift og vedlikehold
+- muligheter for effektivt å kunne håndtere avviks- og feilsituasjoner
+- arbeidstakernes arbeidsbelastning
+- arbeidstakernes erfaringer og kunnskaper
+- arbeidstakernes fysiske og psykiske forutsetninger.
+
+Det skal utarbeides analyser som tar hensyn til de kontrollromsoperasjoner som skal utføres ved:
+
+- oppstart av anlegget
+- normal drift
+- omstilling av driftsforhold
+- driftsforstyrrelser
+- kritiske driftsforhold
+- nedkjøring og stopp
+- vedlikehold.
 
 Dersom systemene omfatter datasystemer, skal analysene omfatte både utstyr og programvare.
 
@@ -2415,7 +3155,12 @@ Betjeningsinnretningene skal være klart og tydelig merket på norsk.
 
 Det skal foreligge en plan som omfatter oversikt over oppgavefordeling, bemanning og skiftplaner basert på analyser nevnt i [§ 24-2](forskrift/2011-12-06-1357/§24-2).
 
-Arbeidsoppgaver skal være klart definert og beskrevet og tilrettelagt slik at det ikke oppstår helsefare blant annet på grunn av:for mange eller for belastende arbeidsoppgavermonotoni som følge av for få eller for ensidige arbeidsoppgaveruklar oppgavefordeling mellom arbeidstakere eller mellom arbeidstakere og overordnedeuklare stedfortrederfunksjoner.
+Arbeidsoppgaver skal være klart definert og beskrevet og tilrettelagt slik at det ikke oppstår helsefare blant annet på grunn av:
+
+- for mange eller for belastende arbeidsoppgaver
+- monotoni som følge av for få eller for ensidige arbeidsoppgaver
+- uklar oppgavefordeling mellom arbeidstakere eller mellom arbeidstakere og overordnede
+- uklare stedfortrederfunksjoner.
 
 Planen skal også omfatte instrukser og prosedyrer for betjeningen av anlegget fra kontrollrommet. Oppstart av anlegget, normal drift, omstilling av driftsforhold, driftsforstyrrelser, nedkjøring og stopp og vedlikehold skal beskrives.
 
@@ -2425,7 +3170,11 @@ Det skal også foreligge instruks for de spesielle oppgaver som skal utføres n�
 
 ### § 24-8. Registrering og dokumentasjon av arbeidet
 
-Arbeidsgiver skal sørge for at det etableres systematisk registrering av:betydelige driftsforstyrrelserulykkestilløp og ulykker som skjer ved anleggetendringer som foretas ved anlegget.
+Arbeidsgiver skal sørge for at det etableres systematisk registrering av:
+
+- betydelige driftsforstyrrelser
+- ulykkestilløp og ulykker som skjer ved anlegget
+- endringer som foretas ved anlegget.
 
 Registreringen og dokumentasjonen skal legges til grunn ved vurdering av endringer, oppdateringer og tilrettelegging av arbeidet med driftskontroll og sikkerhetsovervåking.
 
@@ -2457,7 +3206,18 @@ Kontroll av trykkluftflasker og flaskeventiler skal utføres av en Arbeidstilsyn
 
 ### § 25-4. Krav til sakkyndig person
 
-En sakkyndig person som skal utføre kontroll, skal være fylt 18 år og ha gjennomgått kurs med opplæring iforskriftskrav til kontroll og fyllingpreparering og tilrettelegging før kontrollmekaniske skaderkorrosjonsteori for stål og aluminiumrengjøring og kontroll av ventilertrykkprøving – virkemåte og kravpraktisk trykkprøvinghjelpemidler til kontrollenkassasjonsbestemmelsermerking og registrering.
+En sakkyndig person som skal utføre kontroll, skal være fylt 18 år og ha gjennomgått kurs med opplæring i
+
+1. forskriftskrav til kontroll og fylling
+2. preparering og tilrettelegging før kontroll
+3. mekaniske skader
+4. korrosjonsteori for stål og aluminium
+5. rengjøring og kontroll av ventiler
+6. trykkprøving – virkemåte og krav
+7. praktisk trykkprøving
+8. hjelpemidler til kontrollen
+9. kassasjonsbestemmelser
+10. merking og registrering.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -2469,7 +3229,17 @@ Virksomhet som er godkjent som kontrollør, skal sørge for at den sakkyndige pe
 
 ### § 25-6. Fortegnelse over kontrollert utstyr
 
-Kontrolløren skal føre en fortegnelse over det kontrollerte utstyret som skal inneholdeeierens navnprodusentens navnserienummerinnvendig volum i literkontrolltrykk i barmåneden og året kontrollen ble utførtresultatet av kontrollen og trykkprøvingeneventuelle modifikasjoner som er utført på flasker eller kranerden sakkyndiges underskrift.
+Kontrolløren skal føre en fortegnelse over det kontrollerte utstyret som skal inneholde
+
+1. eierens navn
+2. produsentens navn
+3. serienummer
+4. innvendig volum i liter
+5. kontrolltrykk i bar
+6. måneden og året kontrollen ble utført
+7. resultatet av kontrollen og trykkprøvingen
+8. eventuelle modifikasjoner som er utført på flasker eller kraner
+9. den sakkyndiges underskrift.
 
 Fortegnelsen skal oppbevares i minst ti år etter at den siste kontrollen ble ført inn.
 
@@ -2489,13 +3259,24 @@ Trykkluftflasker som ikke godkjennes for å brukes videre, skal slagstemples med
 
 ### § 25-9. Kontrollbevis
 
-Hvis det er umulig eller utilrådelig å merke trykkluftflasken, for eksempel fordi flasken er svært liten, skal den sakkyndige utstede et kontrollbevis som eieren skal oppbevare og forevise når flasken fylles. Kontrollbeviset skal inneholdeeierens navnprodusentens navnserienummermåneden og året kontrollen ble utført og kontrollnummerden sakkyndiges underskrift.
+Hvis det er umulig eller utilrådelig å merke trykkluftflasken, for eksempel fordi flasken er svært liten, skal den sakkyndige utstede et kontrollbevis som eieren skal oppbevare og forevise når flasken fylles. Kontrollbeviset skal inneholde
+
+1. eierens navn
+2. produsentens navn
+3. serienummer
+4. måneden og året kontrollen ble utført og kontrollnummer
+5. den sakkyndiges underskrift.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
 ### § 25-10. Krav til fyllingsanlegg
 
-Et trykkluftanlegg til å fylle pusteluft skal hanødvendige filtre og utstyrmanometer for kontroll av fyllingstrykketsikkerhetsventiltrykkbegrenser (trykkregulator) for hvert uttak med forskjellige fyllingstrykk, hvis ikke sikkerhetsventilen har denne funksjonen.
+Et trykkluftanlegg til å fylle pusteluft skal ha
+
+1. nødvendige filtre og utstyr
+2. manometer for kontroll av fyllingstrykket
+3. sikkerhetsventil
+4. trykkbegrenser (trykkregulator) for hvert uttak med forskjellige fyllingstrykk, hvis ikke sikkerhetsventilen har denne funksjonen.
 
 Kompressorens sikkerhetsventil kan være sikkerhetsventil for høyeste fyllingstrykk dersom ventilen er innstilt for dette trykket.
 
@@ -2551,7 +3332,11 @@ Flasker skal fylles slik at det indre overtrykket ved 15 °C ikke overstiger fyl
 
 ### § 25-16. Krav til den som skal fylle trykkluftflasker
 
-Trykkluftflasker skal bare fylles av personer somhar fylt 18 århar fått nødvendig opplæring om trykkluftflaskerer gjort kjent med farene som er forbundet med arbeidet.
+Trykkluftflasker skal bare fylles av personer som
+
+1. har fylt 18 år
+2. har fått nødvendig opplæring om trykkluftflasker
+3. er gjort kjent med farene som er forbundet med arbeidet.
 
 > Endret ved [forskrift 30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014).
 
@@ -2623,7 +3408,13 @@ Dykkeoppdrag som planlegges med dekompresjonsstopp skal skriftlig meldes til Arb
 
 ### § 26-8. Krav til meldingen
 
-Meldingen skal inneholde:angivelse av virksomhetens navn og forretningsadressekontaktperson, med telefonnummer og e-postadresseoppstartstidspunkt, sted og varighet for dykkeoperasjonenen beskrivelse av oppdragets arten bekreftelse om at det vil være trykkammer på dykkestedet.
+Meldingen skal inneholde:
+
+1. angivelse av virksomhetens navn og forretningsadresse
+2. kontaktperson, med telefonnummer og e-postadresse
+3. oppstartstidspunkt, sted og varighet for dykkeoperasjonen
+4. en beskrivelse av oppdragets art
+5. en bekreftelse om at det vil være trykkammer på dykkestedet.
 
 Når det ikke kan meldes på forhånd, skal dette begrunnes.
 
@@ -2637,7 +3428,24 @@ Arbeidsgiver som vil utføre forsøksdykking, har plikt til å innhente Arbeidst
 
 ### § 26-10. Innhold i søknad om samtykke ved forsøksdykking
 
-Søknaden skal inneholde:angivelse av formålet med dykkeoperasjonenopplysninger om hvilke aktiviteter som ønskes gjennomførtangivelse av sted for dykkeoperasjonenangivelse av når dykkeoperasjonen skal gjennomføreskartlegging av farer og vurdering av risiko, og planer og tiltak for å redusere risikoforholdeneen beskrivelse av rutiner som skal etableres for å sikre at dykkeoperasjonen utføres i henhold til gjeldende lover og forskrifteren beskrivelse av arbeidstakernes kvalifikasjoner og det utstyret som planlegges benyttet for å sikre forsvarlig gjennomføring av forsøksdykkeoperasjonendokumentasjon på gyldig helseerklæring for den som skal oppholde seg under vannflaten eller i økt omgivende trykkerklæring fra arbeidsgiver om at deltakerne i dykkeoperasjonen har nødvendig kompetansedokumentasjon på at det er etablert kontakt med godkjent dykkerlege som skal være i beredskap under dykkeoperasjonenuttalelse om søknaden fra verneombudet eller, hvis virksomheten ikke har verneombud, en representant for arbeidstakerneerklæring fra arbeidsgiver om at nødvendig førstehjelpsutstyr vil være tilgjengeligerklæring fra arbeidsgiver om at alt utstyr som vil være i bruk under dykkeoperasjonen er kontrollert innen dykkeoperasjonen. Kontrollen skal dokumenteres skriftligberedskapsplan for eventuelle ulykkes- og faresituasjoneren samlet oversikt over eventuelle dispensasjonssøknader som er aktuelle ved dykkeoperasjonengodkjenning fra Regional komité for medisinsk forskningsetikk.
+Søknaden skal inneholde:
+
+1. angivelse av formålet med dykkeoperasjonen
+2. opplysninger om hvilke aktiviteter som ønskes gjennomført
+3. angivelse av sted for dykkeoperasjonen
+4. angivelse av når dykkeoperasjonen skal gjennomføres
+5. kartlegging av farer og vurdering av risiko, og planer og tiltak for å redusere risikoforholdene
+6. en beskrivelse av rutiner som skal etableres for å sikre at dykkeoperasjonen utføres i henhold til gjeldende lover og forskrifter
+7. en beskrivelse av arbeidstakernes kvalifikasjoner og det utstyret som planlegges benyttet for å sikre forsvarlig gjennomføring av forsøksdykkeoperasjonen
+8. dokumentasjon på gyldig helseerklæring for den som skal oppholde seg under vannflaten eller i økt omgivende trykk
+9. erklæring fra arbeidsgiver om at deltakerne i dykkeoperasjonen har nødvendig kompetanse
+10. dokumentasjon på at det er etablert kontakt med godkjent dykkerlege som skal være i beredskap under dykkeoperasjonen
+11. uttalelse om søknaden fra verneombudet eller, hvis virksomheten ikke har verneombud, en representant for arbeidstakerne
+12. erklæring fra arbeidsgiver om at nødvendig førstehjelpsutstyr vil være tilgjengelig
+13. erklæring fra arbeidsgiver om at alt utstyr som vil være i bruk under dykkeoperasjonen er kontrollert innen dykkeoperasjonen. Kontrollen skal dokumenteres skriftlig
+14. beredskapsplan for eventuelle ulykkes- og faresituasjoner
+15. en samlet oversikt over eventuelle dispensasjonssøknader som er aktuelle ved dykkeoperasjonen
+16. godkjenning fra Regional komité for medisinsk forskningsetikk.
 
 > Endret ved [forskrift 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013).
 
@@ -2657,13 +3465,25 @@ For å utføre redningsdykking og søk etter antatt omkommet kreves det dykkerbe
 
 ### § 26-12. Grunnleggende kvalifikasjonskrav
 
-Arbeidsgiver skal sørge for at alle som deltar i en dykkeoperasjon har nødvendig:opplæring, øvelse og instruksjon for å beherske de farer som dykkeoperasjonen kan medføreopplæring i riktig bruk og vedlikehold av dykkeutstyretopplæring i bruk av førstehjelpsutstyr, inkludert oksygenbehandlingsutstyrhelsemessig skikkethet for det aktuelle arbeidet vedkommende skal utføre.
+Arbeidsgiver skal sørge for at alle som deltar i en dykkeoperasjon har nødvendig:
+
+1. opplæring, øvelse og instruksjon for å beherske de farer som dykkeoperasjonen kan medføre
+2. opplæring i riktig bruk og vedlikehold av dykkeutstyret
+3. opplæring i bruk av førstehjelpsutstyr, inkludert oksygenbehandlingsutstyr
+4. helsemessig skikkethet for det aktuelle arbeidet vedkommende skal utføre.
 
 > Endret ved [forskrift 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013).
 
 ### § 26-13. Kvalifikasjonskrav til dykkeleder
 
-Dykkeleder skal:ha gjennomført dokumentert sikkerhetsopplæring etter [§ 26-23](forskrift/2011-12-06-1357/§26-23),ha dykkerbevis etter denne forskrift,kunne lede dykkeoperasjonen på en sikkerhetsmessig forsvarlig måte,kunne sørge for at dykkerens sikkerhet er ivaretatt,ha relevant erfaring som dykker, ogvære øvet i bruk av kommunikasjonssystemer.
+Dykkeleder skal:
+
+1. ha gjennomført dokumentert sikkerhetsopplæring etter [§ 26-23](forskrift/2011-12-06-1357/§26-23),
+2. ha dykkerbevis etter denne forskrift,
+3. kunne lede dykkeoperasjonen på en sikkerhetsmessig forsvarlig måte,
+4. kunne sørge for at dykkerens sikkerhet er ivaretatt,
+5. ha relevant erfaring som dykker, og
+6. være øvet i bruk av kommunikasjonssystemer.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [14 des 2018 nr. 1976](forskrift/2018-12-14-1976) (i kraft 1 jan 2020), [19 juni 2020 nr. 1266](forskrift/2020-06-19-1266) (i kraft 1 juli 2020).
 
@@ -2687,7 +3507,13 @@ Den som skal utføre lineholderfunksjonen skal ha god kunnskap om dykking og den
 
 ### § 26-17. Kvalifikasjonskrav til dykkerinstruktør
 
-Dykkerinstruktør som driver praktisk opplæring skal minst:ha samme type dykkerbevis som opplæringen tar sikte påha minst ett års erfaring fra den aktuelle type dykkingvære skikket til å utøve instruksjonsarbeidha grunnleggende kjennskap til gjeldende regelverkha kunnskap om nødprosedyrer og beredskapstiltak.
+Dykkerinstruktør som driver praktisk opplæring skal minst:
+
+1. ha samme type dykkerbevis som opplæringen tar sikte på
+2. ha minst ett års erfaring fra den aktuelle type dykking
+3. være skikket til å utøve instruksjonsarbeid
+4. ha grunnleggende kjennskap til gjeldende regelverk
+5. ha kunnskap om nødprosedyrer og beredskapstiltak.
 
 > Endret ved [forskrift 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013).
 
@@ -2717,7 +3543,23 @@ For å utføre redningsdykking og søk etter antatt omkommet kreves det dykkerbe
 
 Opplæringen til dykkerbevis klasse A skal gi grunnleggende teoretiske kunnskaper og praktiske ferdigheter for å kunne oppholde seg og bevege seg trygt under vann. Opplæringen skal gi grunnlag for å kunne utføre enkelt og lett arbeid under vann ned til 30 meter.
 
-Opplæringen skal omfatte kunnskaper i systematisk helse-, miljø- og sikkerhetsarbeid samt relevante lover og forskrifter. Det skal gis sikkerhetsopplæring i:dykketeoridykkefysiologiførstehjelpdekompresjonstabellerkommunikasjonssystemerundervannsfarerrisikovurderinginnføring i bruk av trykkammerpraktisk dykkingbruk av dykkerutstyrbruk av vanlig og enkelt arbeidsutstyrvedlikehold og reparasjoneroverflateprosedyrergrunnleggende dykkeledelsemerking av dykkested.
+Opplæringen skal omfatte kunnskaper i systematisk helse-, miljø- og sikkerhetsarbeid samt relevante lover og forskrifter. Det skal gis sikkerhetsopplæring i:
+
+1. dykketeori
+2. dykkefysiologi
+3. førstehjelp
+4. dekompresjonstabeller
+5. kommunikasjonssystemer
+6. undervannsfarer
+7. risikovurdering
+8. innføring i bruk av trykkammer
+9. praktisk dykking
+10. bruk av dykkerutstyr
+11. bruk av vanlig og enkelt arbeidsutstyr
+12. vedlikehold og reparasjoner
+13. overflateprosedyrer
+14. grunnleggende dykkeledelse
+15. merking av dykkested.
 
 Opplæringen skal omfatte selvforsynt og overflateforsynt dykking med luft som pustegass.
 
@@ -2729,7 +3571,21 @@ Den som har dykkersertifikat klasse S gitt i medhold av [forskrift 30. november 
 
 ### § 26-22. Dokumentert sikkerhetsopplæring – dykkerbevis klasse B
 
-Opplæringen i dykkerbevis klasse B skal bygge på klasse A. Den skal gi teoretiske kunnskaper og praktiske ferdigheter for å kunne dykke og arbeide ned til 50 meter på en trygg og sikker måte. Det skal gis sikkerhetsopplæring i:de farer som dykking ned til 50 meter kan medførefysiske og medisinske forutsetningeroverflateforsynt dykkingprogresjonsdykking til 50 meterkomplikasjoner ved dykkingenbruk av trykkammerbruk av våtklokkebruk av varmtvannsdraktoperasjonelle forholddykkerutstyrvanlige typer arbeidsutstyrvanlige typer pustegassdykkeledelse.
+Opplæringen i dykkerbevis klasse B skal bygge på klasse A. Den skal gi teoretiske kunnskaper og praktiske ferdigheter for å kunne dykke og arbeide ned til 50 meter på en trygg og sikker måte. Det skal gis sikkerhetsopplæring i:
+
+1. de farer som dykking ned til 50 meter kan medføre
+2. fysiske og medisinske forutsetninger
+3. overflateforsynt dykking
+4. progresjonsdykking til 50 meter
+5. komplikasjoner ved dykkingen
+6. bruk av trykkammer
+7. bruk av våtklokke
+8. bruk av varmtvannsdrakt
+9. operasjonelle forhold
+10. dykkerutstyr
+11. vanlige typer arbeidsutstyr
+12. vanlige typer pustegass
+13. dykkeledelse.
 
 Opplæringens varighet skal være minst 9 uker.
 
@@ -2739,7 +3595,17 @@ Opplæringens varighet skal være minst 9 uker.
 
 Opplæring i dykkeledelse innebærer et dykkelederkurs og gjennomføring av et oppdateringskurs hvert femte år.
 
-Dykkelederkurset skal ha en varighet på minst to uker, fordelt tilnærmet likt mellom teoretisk og praktisk undervisning. I teoridelen skal det gis sikkerhetsopplæring i:organisering og ledelse,kartlegging, vurdering av risiko, planlegging og iverksetting av tiltakberedskap,dykkemedisin og livreddende førstehjelperfaringer fra evaluering av tidligere ulykker,kommunikasjon,skadestedsledelse,adferd i stressituasjoner, inkludert emosjonell førstehjelp, oggod operasjonell praksis.
+Dykkelederkurset skal ha en varighet på minst to uker, fordelt tilnærmet likt mellom teoretisk og praktisk undervisning. I teoridelen skal det gis sikkerhetsopplæring i:
+
+1. organisering og ledelse,
+2. kartlegging, vurdering av risiko, planlegging og iverksetting av tiltak
+3. beredskap,
+4. dykkemedisin og livreddende førstehjelp
+5. erfaringer fra evaluering av tidligere ulykker,
+6. kommunikasjon,
+7. skadestedsledelse,
+8. adferd i stressituasjoner, inkludert emosjonell førstehjelp, og
+9. god operasjonell praksis.
 
 I den praktiske undervisningen skal hver kursdeltaker minst en gang delta i en praktisk øvelse i rollen som dykkeleder, og øvelsen skal inneholde planlegging, risikovurdering og ledelse av dykkeoperasjon, håndtering av dykkerulykke, inkludert skadestedsledelse, brief og debrief.
 
@@ -2751,7 +3617,10 @@ Ved fritidsdykkeropplæring og fritidsdykkerguiding er det tilstrekkelig at dykk
 
 ### § 26-24. Krav til borger fra annet EØS-land eller Sveits som skal etablere seg i Norge
 
-Borger fra annet EØS-land eller Sveits som skal etablere seg i Norge og utøve arbeid under vann, skal søke Arbeidstilsynet om tillatelse før oppstart av slikt arbeid, jf. [forskrift om administrative ordninger kapittel 9](forskrift/2011-12-06-1360/kap9). Tillatelse gis dersom søkeren fremlegger:bevis for nasjonalitetkompetansebevis eller kvalifikasjonsbevis som kreves for arbeidet i annet EØS-land eller Sveits.
+Borger fra annet EØS-land eller Sveits som skal etablere seg i Norge og utøve arbeid under vann, skal søke Arbeidstilsynet om tillatelse før oppstart av slikt arbeid, jf. [forskrift om administrative ordninger kapittel 9](forskrift/2011-12-06-1360/kap9). Tillatelse gis dersom søkeren fremlegger:
+
+- bevis for nasjonalitet
+- kompetansebevis eller kvalifikasjonsbevis som kreves for arbeidet i annet EØS-land eller Sveits.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [24 feb 2014 nr. 207](forskrift/2014-02-24-207), [14 des 2018 nr. 1976](forskrift/2018-12-14-1976) (i kraft 1 jan 2019, tidligere § 26-22).
 
@@ -2787,11 +3656,30 @@ Unntatt fra kravet i annet ledd er redningsdykking. Ved redningsdykking og treni
 
 Arbeidsgiver skal påse at dykkeleder og øvrige deltakere i dykkeoperasjonen er skikket til de oppgaver de settes til.
 
-Dykkeleder skal:lede dykkeoperasjonen,påse at hensynet til sikkerhet og helse til dykkeren og de øvrige arbeidstakerne blir ivaretatt under forberedelse til og gjennomføring av dykkeoperasjonen,sørge for kommunikasjon med dykkeren,til enhver tid ha oversikt over lengden av dykkeslangen som er i vann,sørge for loggføring av dykkeoperasjonen,lede overflatedekompresjon i trykkammer og sørge for forsvarlig gjennomføring av dekompresjon, samt behandling av skadet dykker etter gjeldende prosedyrer og etter råd fra godkjent dykkerlege,avbryte dykkeoperasjonen dersom det ikke er forsvarlig å fortsette, ogsørge for bistand til dykkeren med verktøy og utstyr.
+Dykkeleder skal:
 
-Beredskapsdykker skal:delta i kontrollen av dykkerutstyrets tetthet og funksjon før dykkeoperasjonen starter, og av at livlinen eller dykkeslangen er sikkert festet til dykkeren, ogvære klar til øyeblikkelig assistanse for å kunne gripe inn eller bistå dykkeren i en nødssituasjon. Beredskapsdykkeren skal være plassert på overflaten, ferdig dresset med masken av og klar til å gå i vannet så snart som mulig og senest innen ett minutt. I basseng tilsvarende svømmebasseng med dybde inntil seks meter behøver ikke beredskapsdykker være ferdig dresset. Ved redningsdykking og trening til dette kan beredskapsdykker være i vannet dersom det er forsvarlig, forutsatt at det er dykkeleder og en lineholder på overflaten.beredskapsdykkeren skal ha minimum 15 minutter tilgjengelig bunntid uten at tidligere dykking begrenser funksjonen som beredskapsdykker.
+1. lede dykkeoperasjonen,
+2. påse at hensynet til sikkerhet og helse til dykkeren og de øvrige arbeidstakerne blir ivaretatt under forberedelse til og gjennomføring av dykkeoperasjonen,
+3. sørge for kommunikasjon med dykkeren,
+4. til enhver tid ha oversikt over lengden av dykkeslangen som er i vann,
+5. sørge for loggføring av dykkeoperasjonen,
+6. lede overflatedekompresjon i trykkammer og sørge for forsvarlig gjennomføring av dekompresjon, samt behandling av skadet dykker etter gjeldende prosedyrer og etter råd fra godkjent dykkerlege,
+7. avbryte dykkeoperasjonen dersom det ikke er forsvarlig å fortsette, og
+8. sørge for bistand til dykkeren med verktøy og utstyr.
 
-Lineholder skal:ha ansvaret for livlinen både under utførelse av dykkeoperasjonen og i en nødsituasjon,ivareta kommunikasjon med dykkeren via linesignaler,ha oversikt over lengden på dykkeslangen til dykker,så langt det er mulig følge med på dykkerens handlings- og bevegelsesmønster, ogha oversikt over aktiviteter i området og informere dykkeleder om dette.
+Beredskapsdykker skal:
+
+1. delta i kontrollen av dykkerutstyrets tetthet og funksjon før dykkeoperasjonen starter, og av at livlinen eller dykkeslangen er sikkert festet til dykkeren, og
+2. være klar til øyeblikkelig assistanse for å kunne gripe inn eller bistå dykkeren i en nødssituasjon. Beredskapsdykkeren skal være plassert på overflaten, ferdig dresset med masken av og klar til å gå i vannet så snart som mulig og senest innen ett minutt. I basseng tilsvarende svømmebasseng med dybde inntil seks meter behøver ikke beredskapsdykker være ferdig dresset. Ved redningsdykking og trening til dette kan beredskapsdykker være i vannet dersom det er forsvarlig, forutsatt at det er dykkeleder og en lineholder på overflaten.
+3. beredskapsdykkeren skal ha minimum 15 minutter tilgjengelig bunntid uten at tidligere dykking begrenser funksjonen som beredskapsdykker.
+
+Lineholder skal:
+
+1. ha ansvaret for livlinen både under utførelse av dykkeoperasjonen og i en nødsituasjon,
+2. ivareta kommunikasjon med dykkeren via linesignaler,
+3. ha oversikt over lengden på dykkeslangen til dykker,
+4. så langt det er mulig følge med på dykkerens handlings- og bevegelsesmønster, og
+5. ha oversikt over aktiviteter i området og informere dykkeleder om dette.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [14 des 2018 nr. 1976](forskrift/2018-12-14-1976) (i kraft 1 jan 2019, tidligere § 26-26).
 
@@ -2818,7 +3706,12 @@ Dykking skal gjennomføres innenfor bunntidsbegrensningene som beskrevet i tabel
 
 Dykkecomputer kan kun benyttes som ekstra sikkerhetsverktøy, og under forutsetning av at dykkeleder kontrollerer dykkerens tid og dybde samt sørger for at oppstigningen og eventuelle dekompresjonsstopp er innenfor oppsatte retningslinjer i dykketabell.
 
-Det skal ikke dykkes etter flernivåtabell uten at arbeidsgiver har sikret:at det som kvalitetssikring samtidig benyttes dykkecomputer (RGBM-, Bühlmann- eller Thalmann-algoritme) der dykkingen avbrytes dersom ikke flernivåtabell og dykkecomputer til enhver tid tillater direkteoppstigning til overflaten,kontinuerlig digital dybdemonitorering på overflaten,digital loggføring av trykk-tid profil ogdigital loggføring av gjenværende tid før dekompresjonsdykk.
+Det skal ikke dykkes etter flernivåtabell uten at arbeidsgiver har sikret:
+
+1. at det som kvalitetssikring samtidig benyttes dykkecomputer (RGBM-, Bühlmann- eller Thalmann-algoritme) der dykkingen avbrytes dersom ikke flernivåtabell og dykkecomputer til enhver tid tillater direkteoppstigning til overflaten,
+2. kontinuerlig digital dybdemonitorering på overflaten,
+3. digital loggføring av trykk-tid profil og
+4. digital loggføring av gjenværende tid før dekompresjonsdykk.
 
 Ved opplæring av fritidsdykkere og fritidsdykkerguiding kan det benyttes dykketabeller eller dykkecomputer i samsvar med anerkjente europeiske standarder for opplæring av fritidsdykkere.
 
@@ -2860,7 +3753,15 @@ Unntatt fra kravet i første ledd annet punktum er redningsdykking og trening i 
 
 ### § 26-34. Loggføring av dykkeoperasjoner
 
-Ved dykkeoperasjoner skal følgende loggføres for hvert enkelt dykk, og attesteres av dykkeleder:dato,dykkested,arbeidsoppdragets art og omfang,navn på deltakere og oppgavefordelingen,dybde og trykk-tid profil for hver dykker,gassblanding (hvis annet enn luft), ogeventuelle uønskete hendelser/avvik.
+Ved dykkeoperasjoner skal følgende loggføres for hvert enkelt dykk, og attesteres av dykkeleder:
+
+1. dato,
+2. dykkested,
+3. arbeidsoppdragets art og omfang,
+4. navn på deltakere og oppgavefordelingen,
+5. dybde og trykk-tid profil for hver dykker,
+6. gassblanding (hvis annet enn luft), og
+7. eventuelle uønskete hendelser/avvik.
 
 Loggføringen skal gjøres digitalt, og opplysningene skal oppbevares i 10 år. Opplysningene skal være tilgjengelig for Arbeidstilsynet, verneombud, og den enkelte dykker.
 
@@ -2868,7 +3769,17 @@ Loggføringen skal gjøres digitalt, og opplysningene skal oppbevares i 10 år. 
 
 ### § 26-35. Dokumentasjon
 
-Virksomhet som utfører dykkeoperasjoner skal utarbeide og gjøre tilgjengelig en samlet dokumentasjon som skal inneholde:organisasjonsplan for virksomheten som viser hvordan dykkevirksomheten er organisertden enkeltes plikter knyttet til dykkeaktivitetensikkerhetsprosedyrerberedskapsplaner, inkludert nødprosedyrerarbeidsinstrukserprosedyrer for rapportering av ulykkerde dykketabeller og behandlingstabeller som nyttesloggføring av dykkeoperasjonenvedlikeholdsrutiner for dykkerutstyret og føring av kontrollbok.
+Virksomhet som utfører dykkeoperasjoner skal utarbeide og gjøre tilgjengelig en samlet dokumentasjon som skal inneholde:
+
+1. organisasjonsplan for virksomheten som viser hvordan dykkevirksomheten er organisert
+2. den enkeltes plikter knyttet til dykkeaktiviteten
+3. sikkerhetsprosedyrer
+4. beredskapsplaner, inkludert nødprosedyrer
+5. arbeidsinstrukser
+6. prosedyrer for rapportering av ulykker
+7. de dykketabeller og behandlingstabeller som nyttes
+8. loggføring av dykkeoperasjonen
+9. vedlikeholdsrutiner for dykkerutstyret og føring av kontrollbok.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [14 des 2018 nr. 1976](forskrift/2018-12-14-1976) (i kraft 1 jan 2019, tidligere § 26-33).
 
@@ -2964,7 +3875,14 @@ Hvis flere dykkevirksomheter skal utføre et dykkeoppdrag i fellesskap, skal de 
 
 ### § 26-47. Meldeplikt
 
-Virksomhet som utfører dykkeoperasjoner skal sende melding til Arbeidstilsynet med følgende opplysninger:foretaksnavn,organisasjonsnummer,kontaktinformasjon,hvilken type dykkearbeid som utføres,navn og kontaktinformasjon til dykkerlege som medvirker ved utarbeidelse og vedlikehold av virksomhetens sikkerhetsprosedyrer og beredskapsplaner, ognavn og registreringsnummer på eventuelle dykkefartøy.
+Virksomhet som utfører dykkeoperasjoner skal sende melding til Arbeidstilsynet med følgende opplysninger:
+
+1. foretaksnavn,
+2. organisasjonsnummer,
+3. kontaktinformasjon,
+4. hvilken type dykkearbeid som utføres,
+5. navn og kontaktinformasjon til dykkerlege som medvirker ved utarbeidelse og vedlikehold av virksomhetens sikkerhetsprosedyrer og beredskapsplaner, og
+6. navn og registreringsnummer på eventuelle dykkefartøy.
 
 Virksomheten plikter å sende ny melding innen fem år ved fortsatt drift. Ved endring av opplysninger i første ledd plikter virksomheten å melde fra om dette.
 
@@ -2984,7 +3902,14 @@ HMS-planen skal være utarbeidet før arbeidet starter, og skal revideres dersom
 
 Av HMS-planen skal det fremgå at farene som arbeidstakerne utsettes for på arbeidsplassene, er kartlagt og vurdert, og hvilke tiltak som skal iverksettes for å forebygge skader og ulykker. Det skal særlig fremgå av planen at utforming, bruk og vedlikehold av arbeidsplass og utstyr er sikkerhetsvurdert.
 
-HMS-planen skal der det er aktuelt omfatte tiltak forsikker persontransport,forstøtning,stabilisering av grunnen,sikkerhet ved mulighet for blokkfall eller blokkutglidning,kontroll av arbeidsplassen,registrering og oppbevaring av målinger.
+HMS-planen skal der det er aktuelt omfatte tiltak for
+
+- sikker persontransport,
+- forstøtning,
+- stabilisering av grunnen,
+- sikkerhet ved mulighet for blokkfall eller blokkutglidning,
+- kontroll av arbeidsplassen,
+- registrering og oppbevaring av målinger.
 
 Dersom det er arbeidstakere fra flere virksomheter til stede på samme arbeidsplass, skal HMS-planen angi målet, tiltakene og fremgangsmåten for hovedbedriftens samordning av HMS-tiltakene.
 
@@ -3024,7 +3949,14 @@ Arbeidsgiveren skal så raskt som mulig varsle Arbeidstilsynet om alvorlige fare
 
 ### § 27-5. Instruks for kontroll- og sikringsarbeid
 
-Arbeidsgiver skal utarbeide instrukser som sikrer at:det foretas fortløpende kontroll av berget og det sikringsarbeidet som er blitt utført tidligereat løst berg som kan medføre fare snarest mulig fjernes eller sikres på en betryggende måteat rensk utføres fra et trygt sted av arbeidstaker med erfaring og innsikt i renskearbeidat det ved rensk med håndverktøy er tilfredsstillende sikt, lys- og lydforhold på arbeidsplassenat særlige forhold med betydning for sikringsarbeidet varsles til neste skift og registreres skriftlig og at dokumentasjonen oppbevares på arbeidsplassen så lenge arbeidet pågårat områder hvor det kan være fare for ukontrollert steinfall eller ras snarest mulig sperres av og at avsperring ikke fjernes før kontroll og nødvendig rensk eller sikring er foretatt.
+Arbeidsgiver skal utarbeide instrukser som sikrer at:
+
+- det foretas fortløpende kontroll av berget og det sikringsarbeidet som er blitt utført tidligere
+- at løst berg som kan medføre fare snarest mulig fjernes eller sikres på en betryggende måte
+- at rensk utføres fra et trygt sted av arbeidstaker med erfaring og innsikt i renskearbeid
+- at det ved rensk med håndverktøy er tilfredsstillende sikt, lys- og lydforhold på arbeidsplassen
+- at særlige forhold med betydning for sikringsarbeidet varsles til neste skift og registreres skriftlig og at dokumentasjonen oppbevares på arbeidsplassen så lenge arbeidet pågår
+- at områder hvor det kan være fare for ukontrollert steinfall eller ras snarest mulig sperres av og at avsperring ikke fjernes før kontroll og nødvendig rensk eller sikring er foretatt.
 
 ### § 27-6. Overvåkning og kommunikasjon
 
@@ -3052,7 +3984,10 @@ Fyllplasser for gravingsmasse, avfallshauger, slagghauger og andre lagre samt av
 
 ### § 27-9. Tiltak mot luftforurensning
 
-Arbeidsgiver skal sørge for tilfredsstillende tiltak der det kan oppstå helse- eller sikkerhetsrisiko ved at stoffer avgis til luften. Tiltakene skal:fjerne eller samle opp forurensninger ved kilden, ellerfortynne forurensningen til et nivå som ikke innebærer risiko for arbeidstakerne.
+Arbeidsgiver skal sørge for tilfredsstillende tiltak der det kan oppstå helse- eller sikkerhetsrisiko ved at stoffer avgis til luften. Tiltakene skal:
+
+1. fjerne eller samle opp forurensninger ved kilden, eller
+2. fortynne forurensningen til et nivå som ikke innebærer risiko for arbeidstakerne.
 
 Ventilasjonssystemer skal utformes og fungere slik at områder for arbeid eller opphold har tilfredsstillende luftkvalitet. Ventilasjonsparameterne skal måles og registreres regelmessig.
 
@@ -3266,7 +4201,15 @@ Det skal i hvert enkelt tilfelle vurderes om det er nødvendig å etablere ekstr
 
 Ved montering av CO2-anlegg skal nødvendige tiltak iverksettes for at monteringen skal kunne skje fullt forsvarlig.
 
-Før arbeidet med utløsermekanismen og tilkobling mellom rørmanifold og de enkelte flasker påbegynnes, skal:flaskene være plassert og ferdig festet. Kun én beskyttelseskapsel over flaskeventiler skal være fjernet om gangen, dersom dette er nødvendig for tilpassing,CO2-røropplegget være ferdig installert,andre arbeider i CO2-rommet være avsluttet,utløserskapet med ventiler og låsemuligheter være ferdig oppsatt,dør til CO2-rommet skal ha lås,markering av åpen og lukket stilling på hovedventiler være kontrollert av vedkommende arbeidsformann,hovedventilene være i lukket stilling og avlåst.
+Før arbeidet med utløsermekanismen og tilkobling mellom rørmanifold og de enkelte flasker påbegynnes, skal:
+
+1. flaskene være plassert og ferdig festet. Kun én beskyttelseskapsel over flaskeventiler skal være fjernet om gangen, dersom dette er nødvendig for tilpassing,
+2. CO2-røropplegget være ferdig installert,
+3. andre arbeider i CO2-rommet være avsluttet,
+4. utløserskapet med ventiler og låsemuligheter være ferdig oppsatt,
+5. dør til CO2-rommet skal ha lås,
+6. markering av åpen og lukket stilling på hovedventiler være kontrollert av vedkommende arbeidsformann,
+7. hovedventilene være i lukket stilling og avlåst.
 
 Beskyttelseskapslene over flaskeventilene skal være på plass på flaskene inntil arbeid jf. første og andre ledd er fullført og tilpassing av snortrekk mv. og tilkopling mellom flasker og manifold skal påbegynnes.
 
@@ -3284,7 +4227,11 @@ Etter at anlegget er ferdig montert holdes CO2-rommet og utløserskapet avlåst.
 
 ### § 28-8. Forholdsregler ved reparasjon og kontroll av CO2-anlegg
 
-Før reparasjons- og kontrollarbeid settes i gang i rom som er dekket av CO2-brannslokkingsanlegg, skal:utløsningsanordningen til disse rom være så effektivt sikret at panikkutløsning ikke skal kunne foretas,anlegget avstenges ved at hovedventiler, eventuelt også distribusjonsventiler, blir avlåst i lukket stilling,på anlegg hvor hovedventiler ikke kan låses i lukket stilling, anlegget sikres ved at det i høytrykksrør foran hovedventiler eller umiddelbart etter disse monteres brilleflens som settes i lukket stilling.
+Før reparasjons- og kontrollarbeid settes i gang i rom som er dekket av CO2-brannslokkingsanlegg, skal:
+
+1. utløsningsanordningen til disse rom være så effektivt sikret at panikkutløsning ikke skal kunne foretas,
+2. anlegget avstenges ved at hovedventiler, eventuelt også distribusjonsventiler, blir avlåst i lukket stilling,
+3. på anlegg hvor hovedventiler ikke kan låses i lukket stilling, anlegget sikres ved at det i høytrykksrør foran hovedventiler eller umiddelbart etter disse monteres brilleflens som settes i lukket stilling.
 
 ### § 28-9. Reparasjon, vedlikehold eller kontroll av CO2-anlegg
 
@@ -3330,7 +4277,20 @@ Ansatte som ferdes i området med snøskredfare skal ved oppslag eller på annen
 
 ### § 31-1. Register over arbeidstakere eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier og bly
 
-Arbeidsgiveren skal sørge for at det føres register over:arbeidstakere som er eller kan bli eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier klassifisert som Carc. 1A, Carc. 1B, Muta. 1A Muta. 1B, Repr. 1A eller Repr. 1B etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)](forskrift/2012-06-16-622).arbeidstakere som utfører følgende prosesser, er eller kan bli eksponert for stoffer eller stoffblandinger som frigjøres i disse prosessene:arbeid som innebærer fremstilling av auramin,arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,arbeid som innebærer fremstilling av 2-propanol ved sterkt sur prosess,arbeid som medfører eksponering for støv fra harde tresorter,eksponering for respirabelt støv av krystallinsk silika fra arbeidsprosess,arbeid som innebærer hudeksponering for mineraloljer som tidligere har vært brukt i forbrenningsmotorer for å smøre og kjøle de bevegelige delene i motoren,arbeid som involverer eksponering for dieseleksos.arbeidstakere som arbeider med bly og blyforbindelser.
+Arbeidsgiveren skal sørge for at det føres register over:
+
+1. arbeidstakere som er eller kan bli eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier klassifisert som Carc. 1A, Carc. 1B, Muta. 1A Muta. 1B, Repr. 1A eller Repr. 1B etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP)](forskrift/2012-06-16-622).
+2. arbeidstakere som utfører følgende prosesser, er eller kan bli eksponert for stoffer eller stoffblandinger som frigjøres i disse prosessene:
+
+   - arbeid som innebærer fremstilling av auramin,
+   - arbeid som innebærer eksponering for polysykliske aromatiske hydrokarboner (PAH) som forekommer i sot, tjære eller bek,
+   - arbeid som innebærer eksponering for støv, røyk eller tåke som utvikles under røsting og elektrolytisk raffinering av nikkelråstein,
+   - arbeid som innebærer fremstilling av 2-propanol ved sterkt sur prosess,
+   - arbeid som medfører eksponering for støv fra harde tresorter,
+   - eksponering for respirabelt støv av krystallinsk silika fra arbeidsprosess,
+   - arbeid som innebærer hudeksponering for mineraloljer som tidligere har vært brukt i forbrenningsmotorer for å smøre og kjøle de bevegelige delene i motoren,
+   - arbeid som involverer eksponering for dieseleksos.
+3. arbeidstakere som arbeider med bly og blyforbindelser.
 
 Registeret skal inneholde navn, fødselsnummer, stilling og arbeidssted og opplysninger om hvilke farlige kjemiske stoffer arbeidstakeren eksponeres for, hvordan og i hvilke konsentrasjoner eksponeringen forekommer, og tidspunkt og varighet for eksponeringen. Registeret skal bare inneholde disse opplysningene.
 
@@ -3354,7 +4314,13 @@ Arbeidsgiver skal føre register over arbeidstakere som er eller har vært ekspo
 
 Register skal oppbevares i minst 10 år etter at eksponeringen er opphørt.
 
-I følgende tilfeller skal registeret oppbevares i inntil 40 år etter den siste kjente eksponering som kan medføre infeksjon:med biologiske faktorer som er kjent for å kunne fremkalle vedvarende eller skjulte infeksjoner,som på bakgrunn av den nåværende viten ikke kan påvises før sykdommen bryter ut mange år senere,som har en særlig lang inkubasjonstid før sykdommen bryter ut,som medfører en sykdom som av og til blusser opp igjen over en lengre periode til tross for behandling ellersom kan medføre alvorlige følgesykdommer på lang sikt.
+I følgende tilfeller skal registeret oppbevares i inntil 40 år etter den siste kjente eksponering som kan medføre infeksjon:
+
+1. med biologiske faktorer som er kjent for å kunne fremkalle vedvarende eller skjulte infeksjoner,
+2. som på bakgrunn av den nåværende viten ikke kan påvises før sykdommen bryter ut mange år senere,
+3. som har en særlig lang inkubasjonstid før sykdommen bryter ut,
+4. som medfører en sykdom som av og til blusser opp igjen over en lengre periode til tross for behandling eller
+5. som kan medføre alvorlige følgesykdommer på lang sikt.
 
 Register over eksponerte arbeidstakere skal stilles til rådighet for Arbeidstilsynet i tilfelle virksomheten innstilles.
 

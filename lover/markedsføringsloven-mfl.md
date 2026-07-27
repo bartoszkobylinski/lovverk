@@ -15,7 +15,7 @@ xml_hash: "a333377a4006e4d2a154dae2f975ba7a650f9bc8b5c721ee8fa5776bc713227c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32002L0065"
@@ -65,7 +65,13 @@ Kongen kan ved forskrift bestemme om og i hvilken utstrekning loven skal gjelde 
 
 ### § 5. Definisjoner
 
-I denne lov menes med*forbruker:* en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,*næringsdrivende:* en fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,*ytelse:* vare, tjeneste, fast eiendom, rettigheter og forpliktelser,*handelspraksis:* enhver handling, utelatelse, atferd eller framstilling, kommersiell kommunikasjon, herunder reklame og markedsføring, fra en næringsdrivendes side, som er direkte knyttet til å fremme salget av, selge eller levere en ytelse til forbrukerne,*garanti:* enhver forpliktelse som den næringsdrivende har påtatt seg overfor forbrukeren i forbindelse med omsetning av varer, tjenester eller andre ytelser som gir forbrukeren rettigheter i tillegg til rettighetene forbrukeren ellers har.
+I denne lov menes med
+
+1. *forbruker:* en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,
+2. *næringsdrivende:* en fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,
+3. *ytelse:* vare, tjeneste, fast eiendom, rettigheter og forpliktelser,
+4. *handelspraksis:* enhver handling, utelatelse, atferd eller framstilling, kommersiell kommunikasjon, herunder reklame og markedsføring, fra en næringsdrivendes side, som er direkte knyttet til å fremme salget av, selge eller levere en ytelse til forbrukerne,
+5. *garanti:* enhver forpliktelse som den næringsdrivende har påtatt seg overfor forbrukeren i forbindelse med omsetning av varer, tjenester eller andre ytelser som gir forbrukeren rettigheter i tillegg til rettighetene forbrukeren ellers har.
 
 > **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
@@ -85,9 +91,21 @@ Departementet fastsetter i forskrift de formene for handelspraksis som under enh
 
 ### § 7. Villedende handlinger
 
-En handelspraksis er villedende dersom den inneholder uriktige opplysninger og dermed er usannferdig eller på annen måte er egnet til å villede forbrukerne med hensyn til ett eller flere av følgende elementer:ytelsens eksistens eller art,ytelsens hovedegenskaper, for eksempel dens tilgjengelighet, fordeler eller risiko, ytelsens utførelse, mengde, sammensetning, spesifikasjoner, tilbehør, opprinnelse, hvordan eller når ytelsen produseres eller ytes, levering, bruk eller egnethet for et formål, resultater som kan forventes ved bruk, tester eller kontroll som er utført på ytelsen, eller ettersalgsservice og klagebehandling,omfanget av den næringsdrivendes forpliktelser, motiver for handelspraksisen og salgsprosessens art, eventuell erklæring eller symbol i forbindelse med direkte eller indirekte sponsing eller godkjenning av den næringsdrivende eller ytelsen,prisen på ytelsen eller hvordan prisen beregnes, eller eksistensen av en prisfordel,behovet for service, deler, utskifting eller reparasjoner,den næringsdrivendes eller den næringsdrivendes agents art, egenskaper og rettigheter,forbrukernes rettigheter, herunder rett til omlevering eller tilbakebetaling, eller risiko forbrukerne kan bli utsatt for,den næringsdrivendes forpliktelse til å følge bransjenormer.
+En handelspraksis er villedende dersom den inneholder uriktige opplysninger og dermed er usannferdig eller på annen måte er egnet til å villede forbrukerne med hensyn til ett eller flere av følgende elementer:
 
-En handelspraksis er også villedende dersom:markedsføringen av en ytelse, herunder sammenlignende reklame, forårsaker forveksling med en konkurrents ytelse eller varemerke, handelsnavn eller andre kjennetegnen vare markedsføres som identisk med en vare som markedsføres i andre EU/EØS-stater, når disse varenes sammensetning eller egenskaper skiller seg vesentlig fra hverandre, med mindre det er begrunnet ut fra legitime og objektive faktorer.
+1. ytelsens eksistens eller art,
+2. ytelsens hovedegenskaper, for eksempel dens tilgjengelighet, fordeler eller risiko, ytelsens utførelse, mengde, sammensetning, spesifikasjoner, tilbehør, opprinnelse, hvordan eller når ytelsen produseres eller ytes, levering, bruk eller egnethet for et formål, resultater som kan forventes ved bruk, tester eller kontroll som er utført på ytelsen, eller ettersalgsservice og klagebehandling,
+3. omfanget av den næringsdrivendes forpliktelser, motiver for handelspraksisen og salgsprosessens art, eventuell erklæring eller symbol i forbindelse med direkte eller indirekte sponsing eller godkjenning av den næringsdrivende eller ytelsen,
+4. prisen på ytelsen eller hvordan prisen beregnes, eller eksistensen av en prisfordel,
+5. behovet for service, deler, utskifting eller reparasjoner,
+6. den næringsdrivendes eller den næringsdrivendes agents art, egenskaper og rettigheter,
+7. forbrukernes rettigheter, herunder rett til omlevering eller tilbakebetaling, eller risiko forbrukerne kan bli utsatt for,
+8. den næringsdrivendes forpliktelse til å følge bransjenormer.
+
+En handelspraksis er også villedende dersom:
+
+1. markedsføringen av en ytelse, herunder sammenlignende reklame, forårsaker forveksling med en konkurrents ytelse eller varemerke, handelsnavn eller andre kjennetegn
+2. en vare markedsføres som identisk med en vare som markedsføres i andre EU/EØS-stater, når disse varenes sammensetning eller egenskaper skiller seg vesentlig fra hverandre, med mindre det er begrunnet ut fra legitime og objektive faktorer.
 
 Praksisen anses likevel bare som villedende dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
 
@@ -99,7 +117,14 @@ En handelspraksis er villedende dersom den, i sin konkrete sammenheng og etter e
 
 Praksisen anses likevel bare som villedende dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
 
-Ved oppfordring til kjøp regnes følgende opplysninger som vesentlige hvis de ikke allerede fremgår av sammenhengen:opplysninger om ytelsens hovedegenskaper, i relevant omfang for mediet og ytelsenopplysninger om den næringsdrivendes geografiske adresse og identitet og om relevant, geografisk adresse og identitet til den næringsdrivende som vedkommende opptrer på vegne avopplysninger om vilkår for betaling, levering og utførelse, dersom disse avviker fra kravene til god forretningsskikk overfor forbrukerefor ytelser og transaksjoner som omfattes av angrerett eller avbestillingsrett, opplysninger om at det foreligger en slik rettopplysninger om prisen inklusive avgifter eller, hvis ytelsens art gjør at prisen ikke med rimelighet kan utregnes på forhånd, hvordan prisen beregnes. Der det er relevant, skal alle ytterligere omkostninger vedrørende frakt, levering eller porto oppgis. Hvis omkostningene ikke med rimelighet kan utregnes på forhånd, skal det opplyses om at det kan forekomme slike ytterligere omkostningerfor ytelser som tilbys på nettbaserte markedsplasser, om tredjeparten som tilbyr ytelsene, er næringsdrivende eller ikke, på grunnlag av tredjepartens erklæring til tilbyderen av den nettbaserte markedsplassen.
+Ved oppfordring til kjøp regnes følgende opplysninger som vesentlige hvis de ikke allerede fremgår av sammenhengen:
+
+1. opplysninger om ytelsens hovedegenskaper, i relevant omfang for mediet og ytelsen
+2. opplysninger om den næringsdrivendes geografiske adresse og identitet og om relevant, geografisk adresse og identitet til den næringsdrivende som vedkommende opptrer på vegne av
+3. opplysninger om vilkår for betaling, levering og utførelse, dersom disse avviker fra kravene til god forretningsskikk overfor forbrukere
+4. for ytelser og transaksjoner som omfattes av angrerett eller avbestillingsrett, opplysninger om at det foreligger en slik rett
+5. opplysninger om prisen inklusive avgifter eller, hvis ytelsens art gjør at prisen ikke med rimelighet kan utregnes på forhånd, hvordan prisen beregnes. Der det er relevant, skal alle ytterligere omkostninger vedrørende frakt, levering eller porto oppgis. Hvis omkostningene ikke med rimelighet kan utregnes på forhånd, skal det opplyses om at det kan forekomme slike ytterligere omkostninger
+6. for ytelser som tilbys på nettbaserte markedsplasser, om tredjeparten som tilbyr ytelsene, er næringsdrivende eller ikke, på grunnlag av tredjepartens erklæring til tilbyderen av den nettbaserte markedsplassen.
 
 Med oppfordring til kjøp menes en kommersiell kommunikasjon som angir ytelsens egenskaper og pris på en egnet måte for den anvendte kommersielle kommunikasjonen og dermed setter forbrukerne i stand til å foreta et kjøp.
 
@@ -113,7 +138,13 @@ Når en næringsdrivende gir forbrukere tilgang til forbrukeromtaler av ytelser,
 
 En handelspraksis er aggressiv dersom den, i sin konkrete sammenheng og etter en helhetsvurdering, ved trakassering, tvang, herunder bruk av fysisk makt, eller utilbørlig påvirkning er egnet til vesentlig å begrense forbrukernes valgmuligheter eller atferd i forbindelse med en ytelse. Med utilbørlig påvirkning menes utnytting av en maktposisjon i forhold til forbrukere for å utøve press, også når det ikke trues med eller brukes fysisk makt, på en måte som vesentlig reduserer forbrukernes evne til å treffe en informert beslutning.
 
-Ved vurderingen av om en handelspraksis er aggressiv, skal det tas hensyn tiltidspunkt, sted, art og varighet,bruk av truende eller utilbørlig språk eller atferd,den næringsdrivendes utnytting av en konkret uheldig hendelse eller omstendighet som er så alvorlig at den kan nedsette forbrukerens dømmekraft, som den næringsdrivende er klar over, til å påvirke forbrukerens beslutning i forbindelse med produktet,belastende eller uforholdsmessige hindringer som ikke følger av avtalen, som den næringsdrivende pålegger når forbrukerne ønsker å utøve rettigheter i henhold til avtalen, herunder rett til å heve en avtale eller bytte til en annen ytelse eller en annen næringsdrivende,enhver trussel om handlinger som er ulovlige.
+Ved vurderingen av om en handelspraksis er aggressiv, skal det tas hensyn til
+
+1. tidspunkt, sted, art og varighet,
+2. bruk av truende eller utilbørlig språk eller atferd,
+3. den næringsdrivendes utnytting av en konkret uheldig hendelse eller omstendighet som er så alvorlig at den kan nedsette forbrukerens dømmekraft, som den næringsdrivende er klar over, til å påvirke forbrukerens beslutning i forbindelse med produktet,
+4. belastende eller uforholdsmessige hindringer som ikke følger av avtalen, som den næringsdrivende pålegger når forbrukerne ønsker å utøve rettigheter i henhold til avtalen, herunder rett til å heve en avtale eller bytte til en annen ytelse eller en annen næringsdrivende,
+5. enhver trussel om handlinger som er ulovlige.
 
 Praksisen anses likevel bare som aggressiv dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
 
@@ -123,7 +154,11 @@ Den som i næringsvirksomhet selger varer, tjenester eller andre ytelser til for
 
 Departementet kan ved forskrift gi nærmere regler om gjennomføringen av plikten etter første ledd.
 
-For å lette kundenes bedømmelse av priser og kvalitet på varer og tjenester kan departementet ved forskrift påby næringsdrivende å iverksette tiltak utover det som følger av påbudet i første ledd. Slik forskrift om informasjonstiltak kan blant annetpåby merking, oppslag eller annen underretning om pris, forretningsvilkår, kvalitet og andre egenskaper,gi påbud om sortering og bestemmelser om mål og vekt og opplysning om pris pr. enhet (jamførpris) for varer som frambys for salg,gi påbud om å opplyse om førpris der prisen på varer markedsføres som nedsatt.
+For å lette kundenes bedømmelse av priser og kvalitet på varer og tjenester kan departementet ved forskrift påby næringsdrivende å iverksette tiltak utover det som følger av påbudet i første ledd. Slik forskrift om informasjonstiltak kan blant annet
+
+1. påby merking, oppslag eller annen underretning om pris, forretningsvilkår, kvalitet og andre egenskaper,
+2. gi påbud om sortering og bestemmelser om mål og vekt og opplysning om pris pr. enhet (jamførpris) for varer som frambys for salg,
+3. gi påbud om å opplyse om førpris der prisen på varer markedsføres som nedsatt.
 
 > Endret ved lover [2 juni 2017 nr. 32](lov/2017-06-02-32) (ikr. 1 juli 2017 iflg. [res. 2 juni 2017 nr. 683](forskrift/2017-06-02-683)), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
 
@@ -139,7 +174,10 @@ Næringsdrivende skal informere forbrukeren i henhold til første ledd når det 
 
 ### § 11. Krav om betaling for varer, tjenester eller andre ytelser uten etter avtale mv.
 
-I næringsvirksomhet er det forbudtå kreve betaling for varer, tjenester eller andre ytelser uten etter avtale,å levere varer, tjenester eller andre ytelser med krav om betaling uten etter avtale.
+I næringsvirksomhet er det forbudt
+
+1. å kreve betaling for varer, tjenester eller andre ytelser uten etter avtale,
+2. å levere varer, tjenester eller andre ytelser med krav om betaling uten etter avtale.
 
 Ved leveranse i strid med første ledd bokstav b er mottakeren ikke forpliktet til å betale, så framt ikke noe annet er bestemt ved lov.
 
@@ -219,7 +257,10 @@ Ved uanmodet telefonmarkedsføring til forbrukere skal den næringsdrivende stra
 
 ### § 16 a. Særskilt om frivillige organisasjoners virksomhet som ikke skjer i næring
 
-Der frivillige organisasjoners virksomhet ikke reguleres av lovens alminnelige regler, gjelder følgende:Fysiske personer kan reservere seg mot frivillige organisasjoners innsamlinger ved telefonmarkedsføring og markedsføring ved adressert post. Reglene for telefonmarkedsføring og markedsføring ved adressert post i [§ 12](lov/2009-01-09-2/§12), [§ 13](lov/2009-01-09-2/§13), [§ 13 a](lov/2009-01-09-2/§13a) annet til fjerde ledd, [§ 14](lov/2009-01-09-2/§14) og [§ 16](lov/2009-01-09-2/§16) gjelder tilsvarende for frivillige organisasjoners innsamlinger.Det er forbudt for frivillige organisasjoner å sende en forespørsel om økonomisk støtte til fysiske personer som er egnet til å bli oppfattet som et krav om betaling.
+Der frivillige organisasjoners virksomhet ikke reguleres av lovens alminnelige regler, gjelder følgende:
+
+1. Fysiske personer kan reservere seg mot frivillige organisasjoners innsamlinger ved telefonmarkedsføring og markedsføring ved adressert post. Reglene for telefonmarkedsføring og markedsføring ved adressert post i [§ 12](lov/2009-01-09-2/§12), [§ 13](lov/2009-01-09-2/§13), [§ 13 a](lov/2009-01-09-2/§13a) annet til fjerde ledd, [§ 14](lov/2009-01-09-2/§14) og [§ 16](lov/2009-01-09-2/§16) gjelder tilsvarende for frivillige organisasjoners innsamlinger.
+2. Det er forbudt for frivillige organisasjoner å sende en forespørsel om økonomisk støtte til fysiske personer som er egnet til å bli oppfattet som et krav om betaling.
 
 Departementet kan ved forskrift gi nærmere regler om utformingen av forespørsler om å gi økonomisk støtte.
 
@@ -269,7 +310,12 @@ Det er forbudt å ta med i reklame direkte oppfordringer til barn om å kjøpe a
 
 ### § 21. Særlig om god markedsføringsskikk overfor barn
 
-Når markedsføring overfor barn vurderes etter [§ 2](lov/2009-01-09-2/§2), skal det blant annet legges vekt på om markedsføringenoppfordrer til lovbrudd, farlig atferd eller brudd med vanlige sikkerhetsnormer,spiller på sosial usikkerhet, dårlig samvittighet, dårlig selvtillit eller bidrar til kroppspress,bruker skremmende virkemidler eller er egnet til å skape frykt eller angst, ellerbruker aggressive virkemidler som vold, seksualitet eller rusmidler.
+Når markedsføring overfor barn vurderes etter [§ 2](lov/2009-01-09-2/§2), skal det blant annet legges vekt på om markedsføringen
+
+1. oppfordrer til lovbrudd, farlig atferd eller brudd med vanlige sikkerhetsnormer,
+2. spiller på sosial usikkerhet, dårlig samvittighet, dårlig selvtillit eller bidrar til kroppspress,
+3. bruker skremmende virkemidler eller er egnet til å skape frykt eller angst, eller
+4. bruker aggressive virkemidler som vold, seksualitet eller rusmidler.
 
 > Endret ved lov [11 juni 2021 nr. 62](lov/2021-06-11-62) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1043](forskrift/2022-06-17-1043)).
 
@@ -287,7 +333,13 @@ Første og annet ledd gjelder ikke for innholdet i prisvilkår og i lønns- og a
 
 ### § 23. Krav til garantivilkår i forbrukerforhold
 
-Ytes det garanti, skal det på en tydelig og lettfattelig måte opplyses om følgende i garantivilkårene:garantiens innhold, herunder eventuelle begrensninger og særlige betingelser,at forbrukerens rettigheter etter aktuell og nærmere angitt lovgivning kommer i tillegg til garantien, og at disse rettighetene ikke berøres av garantien,hva som er nødvendig for å benytte garantien, herunder garantiens varighet og geografiske virkeområde samt garantigiverens navn og adresse,lengstefristen for reklamasjon etter aktuell og nærmere angitt lovgivning, dersom den er lengre enn garantitiden,at det uansett kan reklameres på ytelsen i sin helhet etter aktuell og nærmere angitt lovgivning, dersom garantien er begrenset, for eksempel ved at garantien kun gjelder en del av ytelsen eller bare deler av utbedringskostnadene dekkes av garantien.
+Ytes det garanti, skal det på en tydelig og lettfattelig måte opplyses om følgende i garantivilkårene:
+
+1. garantiens innhold, herunder eventuelle begrensninger og særlige betingelser,
+2. at forbrukerens rettigheter etter aktuell og nærmere angitt lovgivning kommer i tillegg til garantien, og at disse rettighetene ikke berøres av garantien,
+3. hva som er nødvendig for å benytte garantien, herunder garantiens varighet og geografiske virkeområde samt garantigiverens navn og adresse,
+4. lengstefristen for reklamasjon etter aktuell og nærmere angitt lovgivning, dersom den er lengre enn garantitiden,
+5. at det uansett kan reklameres på ytelsen i sin helhet etter aktuell og nærmere angitt lovgivning, dersom garantien er begrenset, for eksempel ved at garantien kun gjelder en del av ytelsen eller bare deler av utbedringskostnadene dekkes av garantien.
 
 Der markedsføringen forut for avtaleinngåelsen er rettet til norske forbrukere, skal garantivilkårene være utformet på norsk.
 
@@ -405,7 +457,13 @@ Departementet kan ved forskrift gi nærmere bestemmelser om Forbrukertilsynets o
 
 ### § 39. Forbrukertilsynets og Markedsrådets vedtak
 
-Forbrukertilsynet og Markedsrådet kan, dersom de finner at inngrep tilsies av hensyn som nevnt i [§ 35](lov/2009-01-09-2/§35) annet ledd, fatte enkeltvedtak om:forbud eller påbud etter [§ 40](lov/2009-01-09-2/§40)tvangsmulkt etter [§ 41](lov/2009-01-09-2/§41)overtredelsesgebyr etter [§ 42](lov/2009-01-09-2/§42).Et vedtak etter bokstav a og b gjelder i fem år dersom ikke annet fremgår av vedtaket. Vedtaket kan maksimalt gjelde i ti år. Vedtaket kan fornyes.
+Forbrukertilsynet og Markedsrådet kan, dersom de finner at inngrep tilsies av hensyn som nevnt i [§ 35](lov/2009-01-09-2/§35) annet ledd, fatte enkeltvedtak om:
+
+1. forbud eller påbud etter [§ 40](lov/2009-01-09-2/§40)
+2. tvangsmulkt etter [§ 41](lov/2009-01-09-2/§41)
+3. overtredelsesgebyr etter [§ 42](lov/2009-01-09-2/§42).
+
+Et vedtak etter bokstav a og b gjelder i fem år dersom ikke annet fremgår av vedtaket. Vedtaket kan maksimalt gjelde i ti år. Vedtaket kan fornyes.
 
 Forbrukertilsynet kan fatte vedtak etter første ledd bokstav a med midlertidig virkning dersom det er rimelig grunn til å anta at det foreligger brudd på bestemmelser som Forbrukertilsynet fører tilsyn med etter [§ 35](lov/2009-01-09-2/§35), og det foreligger en risiko for alvorlig skade på forbrukernes interesser. Et vedtak med midlertidig virkning skal gjelde for en bestemt tid som ikke kan overstige tre uker fra virkningstidspunktet. Vedtaket kan fornyes dersom vilkårene i første punktum er oppfylt.
 
@@ -445,7 +503,12 @@ Departementet kan ved forskrift gi nærmere regler om utmåling av overtredelses
 
 ### § 43. Pålegg om fjerning av digitalt nettinnhold mv.
 
-Dersom en overtredelse av bestemmelser som Forbrukertilsynet fører tilsyn med etter [§ 35](lov/2009-01-09-2/§35) første ledd, medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Forbrukertilsynet påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Forbrukertilsynet.
+Dersom en overtredelse av bestemmelser som Forbrukertilsynet fører tilsyn med etter [§ 35](lov/2009-01-09-2/§35) første ledd, medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Forbrukertilsynet pålegge
+
+1. en vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,
+2. en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,
+3. en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,
+4. en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Forbrukertilsynet.
 
 Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, saksøktes interesser samt mulighetene for mindre inngripende tiltak.
 
@@ -541,7 +604,13 @@ Bestemmelsene om sanksjoner mot varemerkeinngrep i [varemerkeloven kapittel 8](l
 
 ### § 48 b. Vederlag og erstatning ved overtredelse av visse bestemmelser i kapittel 6
 
-For forsettlig eller uaktsom overtredelse av [§ 30](lov/2009-01-09-2/§30) skal overtrederen betale til den forurettede:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av overtredelsen som ikke ville oppstått ved lisensiering,erstatning for skade som følge av overtredelsen, ellervederlag svarende til vinningen som er oppnådd ved overtredelsen.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for den forurettede.
+For forsettlig eller uaktsom overtredelse av [§ 30](lov/2009-01-09-2/§30) skal overtrederen betale til den forurettede:
+
+1. vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av overtredelsen som ikke ville oppstått ved lisensiering,
+2. erstatning for skade som følge av overtredelsen, eller
+3. vederlag svarende til vinningen som er oppnådd ved overtredelsen.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for den forurettede.
 
 Første ledd gjelder tilsvarende ved medvirkning.
 
@@ -709,7 +778,35 @@ Denne forordning fastsetter på hvilke vilkår vedkommende myndigheter som er ut
 
 ### Artikkel 3. Definisjoner
 
-I denne forordning menes med«unionsrett som beskytter forbrukernes interesser» de forordningene og direktivene, slik de er innarbeidet i medlemsstatenes nasjonale rettsorden, som er oppført i vedlegget til denne forordning,«overtredelse innenfor Unionen» enhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade kollektive interesser for forbrukere bosatt i en annen medlemsstat enn medlemsstaten derhandlingen eller unnlatelsen har sin opprinnelse eller har funnet sted,den næringsdrivende som er ansvarlig for handlingen eller unnlatelsen, er etablert, ellerbevismateriale eller den næringsdrivendes eiendeler som kan knyttes til handlingen eller unnlatelsen, finnes,«utbredt overtredelse»enhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade kollektive interesser for forbrukere bosatt i minst to andre medlemsstater enn medlemsstaten derhandlingen eller unnlatelsen har sin opprinnelse eller har funnet sted,den næringsdrivende som er ansvarlig for handlingen eller unnlatelsen, er etablert, ellerbevismateriale eller den næringsdrivendes eiendeler som kan knyttes til handlingen eller unnlatelsen, finnes, ellerenhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade forbrukernes kollektive interesser og har fellestrekk, herunder samme ulovlige praksis og tilsidesettelse av samme interesse, og som begås samtidig av samme næringsdrivende i minst tre medlemsstater,«utbredt overtredelse med unionsdimensjon» en utbredt overtredelse som har skadet, skader eller kan skade forbrukernes kollektive interesser i minst to tredeler av de medlemsstatene som sammen representerer minst to tredeler av Unionens befolkning,«overtredelser som omfattes av denne forordning» overtredelser innenfor Unionen, utbredte overtredelser og utbredte overtredelser med unionsdimensjon,«vedkommende myndighet» enhver offentlig myndighet på nasjonalt, regionalt eller lokalt plan som en medlemsstat har utpekt som ansvarlig for å håndheve unionsrett som beskytter forbrukernes interesser,«sentralt kontaktorgan» den offentlige myndighet som en medlemsstat har utpekt som ansvarlig for samordningen av denne forordnings anvendelse i vedkommende medlemsstat,«utpekt organ» et organ som har en rettmessig interesse av at overtredelser av unionsrett som beskytter forbrukernes interesser, stanses eller forbys, og som er utpekt av en medlemsstat og pålagt av en vedkommende myndighet å samle inn nødvendige opplysninger og treffe de nødvendige håndhevingstiltakene som nevnte organ etter nasjonal rett har til rådighet for å stanse eller forby overtredelsen, og som opptrer på vegne av vedkommende myndighet,«anmodende myndighet» den vedkommende myndighet som ber om gjensidig bistand,«anmodet myndighet» den vedkommende myndighet som mottar en anmodning om gjensidig bistand,«næringsdrivende» enhver fysisk eller juridisk person, privat eller offentlig, som handler for formål som gjelder vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,«forbruker» enhver fysisk person som handler for formål som faller utenfor vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet,«forbrukerklage» en med rimelighet underbygd påstand om at en næringsdrivende har begått, begår eller kan komme til å begå en overtredelse av unionsrett som beskytter forbrukernes interesser,«skade på forbrukernes kollektive interesser» faktisk eller potensiell skade på interessene til en rekke forbrukere som berøres av overtredelser innenfor Unionen, av utbredte overtredelser eller av utbredte overtredelser med unionsdimensjon,«nettbasert grensesnitt» enhver programvare, herunder et nettsted, en del av et nettsted eller et program, som drives av eller på vegne av en næringsdrivende, og som gir forbrukere tilgang til den næringsdrivendes varer eller tjenester,«kontrollaksjoner» samordnede undersøkelser av forbrukermarkeder gjennom samtidige samordnede kontrolltiltak for å kontrollere overholdelse av eller påvise overtredelser av unionsrett som beskytter forbrukernes interesser.
+I denne forordning menes med
+
+1. «unionsrett som beskytter forbrukernes interesser» de forordningene og direktivene, slik de er innarbeidet i medlemsstatenes nasjonale rettsorden, som er oppført i vedlegget til denne forordning,
+2. «overtredelse innenfor Unionen» enhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade kollektive interesser for forbrukere bosatt i en annen medlemsstat enn medlemsstaten der
+
+   1. handlingen eller unnlatelsen har sin opprinnelse eller har funnet sted,
+   2. den næringsdrivende som er ansvarlig for handlingen eller unnlatelsen, er etablert, eller
+   3. bevismateriale eller den næringsdrivendes eiendeler som kan knyttes til handlingen eller unnlatelsen, finnes,
+3. «utbredt overtredelse»
+
+   1. enhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade kollektive interesser for forbrukere bosatt i minst to andre medlemsstater enn medlemsstaten der
+
+      1. handlingen eller unnlatelsen har sin opprinnelse eller har funnet sted,
+      2. den næringsdrivende som er ansvarlig for handlingen eller unnlatelsen, er etablert, eller
+      3. bevismateriale eller den næringsdrivendes eiendeler som kan knyttes til handlingen eller unnlatelsen, finnes, eller
+   2. enhver handling eller unnlatelse som er i strid med unionsrett som beskytter forbrukernes interesser, og som har skadet, skader eller kan skade forbrukernes kollektive interesser og har fellestrekk, herunder samme ulovlige praksis og tilsidesettelse av samme interesse, og som begås samtidig av samme næringsdrivende i minst tre medlemsstater,
+4. «utbredt overtredelse med unionsdimensjon» en utbredt overtredelse som har skadet, skader eller kan skade forbrukernes kollektive interesser i minst to tredeler av de medlemsstatene som sammen representerer minst to tredeler av Unionens befolkning,
+5. «overtredelser som omfattes av denne forordning» overtredelser innenfor Unionen, utbredte overtredelser og utbredte overtredelser med unionsdimensjon,
+6. «vedkommende myndighet» enhver offentlig myndighet på nasjonalt, regionalt eller lokalt plan som en medlemsstat har utpekt som ansvarlig for å håndheve unionsrett som beskytter forbrukernes interesser,
+7. «sentralt kontaktorgan» den offentlige myndighet som en medlemsstat har utpekt som ansvarlig for samordningen av denne forordnings anvendelse i vedkommende medlemsstat,
+8. «utpekt organ» et organ som har en rettmessig interesse av at overtredelser av unionsrett som beskytter forbrukernes interesser, stanses eller forbys, og som er utpekt av en medlemsstat og pålagt av en vedkommende myndighet å samle inn nødvendige opplysninger og treffe de nødvendige håndhevingstiltakene som nevnte organ etter nasjonal rett har til rådighet for å stanse eller forby overtredelsen, og som opptrer på vegne av vedkommende myndighet,
+9. «anmodende myndighet» den vedkommende myndighet som ber om gjensidig bistand,
+10. «anmodet myndighet» den vedkommende myndighet som mottar en anmodning om gjensidig bistand,
+11. «næringsdrivende» enhver fysisk eller juridisk person, privat eller offentlig, som handler for formål som gjelder vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,
+12. «forbruker» enhver fysisk person som handler for formål som faller utenfor vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet,
+13. «forbrukerklage» en med rimelighet underbygd påstand om at en næringsdrivende har begått, begår eller kan komme til å begå en overtredelse av unionsrett som beskytter forbrukernes interesser,
+14. «skade på forbrukernes kollektive interesser» faktisk eller potensiell skade på interessene til en rekke forbrukere som berøres av overtredelser innenfor Unionen, av utbredte overtredelser eller av utbredte overtredelser med unionsdimensjon,
+15. «nettbasert grensesnitt» enhver programvare, herunder et nettsted, en del av et nettsted eller et program, som drives av eller på vegne av en næringsdrivende, og som gir forbrukere tilgang til den næringsdrivendes varer eller tjenester,
+16. «kontrollaksjoner» samordnede undersøkelser av forbrukermarkeder gjennom samtidige samordnede kontrolltiltak for å kontrollere overholdelse av eller påvise overtredelser av unionsrett som beskytter forbrukernes interesser.
 
 ### Artikkel 4. Melding om foreldelsesfrister
 
@@ -744,13 +841,19 @@ Vedkommende myndigheter og deres myndighet
 
 2\. Dersom den anmodende myndigheten eller de andre vedkommende myndighetene som berøres av en overtredelse som omfattes av denne forordning, anser at vilkårene i nr. 1 ikke er oppfylt, skal de omgående underrette den oppdragsgivende myndigheten skriftlig og gi en begrunnelse for sitt syn. Dersom den oppdragsgivende myndigheten har et annet syn, kan den henvise saken til Kommisjonen, som omgående skal avgi uttalelse om saken.
 
-3\. Den oppdragsgivende myndigheten skal fortsatt være forpliktet til å samle inn de nødvendige opplysningene eller til å treffe de nødvendige håndhevingstiltakene dersomdet utpekte organet ikke innhenter de nødvendige opplysningene eller ikke omgående stanser eller forbyr overtredelsen som omfattes av denne forordning, ellervedkommende myndigheter som berøres av en overtredelse som omfattes av denne forordning, ikke er enige om at det utpekte organet kan gis oppdrag i henhold til nr. 1.
+3\. Den oppdragsgivende myndigheten skal fortsatt være forpliktet til å samle inn de nødvendige opplysningene eller til å treffe de nødvendige håndhevingstiltakene dersom
+
+1. det utpekte organet ikke innhenter de nødvendige opplysningene eller ikke omgående stanser eller forbyr overtredelsen som omfattes av denne forordning, eller
+2. vedkommende myndigheter som berøres av en overtredelse som omfattes av denne forordning, ikke er enige om at det utpekte organet kan gis oppdrag i henhold til nr. 1.
 
 4\. Den oppdragsgivende myndigheten skal treffe alle nødvendige tiltak for å hindre offentliggjøring av opplysninger som er underlagt reglene for fortrolighet og for taushetsplikt og forretningshemmeligheter fastsatt i artikkel 33.
 
 ### Artikkel 8. Opplysninger og lister
 
-1\. Hver medlemsstat skal omgående oversende til Kommisjonen følgende opplysninger og eventuelle endringer av dem:Identiteten og kontaktopplysningene til vedkommende myndigheter, til det sentrale kontaktorganet, til de utpekte organene og til enhetene som utsteder eksterne varsler i henhold til artikkel 27 nr. 1.Opplysninger om vedkommende myndigheters organisering, myndighet og ansvarsområder.
+1\. Hver medlemsstat skal omgående oversende til Kommisjonen følgende opplysninger og eventuelle endringer av dem:
+
+1. Identiteten og kontaktopplysningene til vedkommende myndigheter, til det sentrale kontaktorganet, til de utpekte organene og til enhetene som utsteder eksterne varsler i henhold til artikkel 27 nr. 1.
+2. Opplysninger om vedkommende myndigheters organisering, myndighet og ansvarsområder.
 
 2\. Kommisjonen skal på sitt nettsted opprette og oppdatere en offentlig tilgjengelig liste over vedkommende myndigheter, sentrale kontaktorganer, utpekte organer og enheter som utsteder eksterne varsler i henhold til artikkel 27 nr. 1 eller 2.
 
@@ -760,9 +863,31 @@ Vedkommende myndigheter og deres myndighet
 
 2\. Uten hensyn til nr. 1 kan medlemsstatene beslutte ikke å tildele alle former for myndighet til hver vedkommende myndighet, forutsatt at hver av disse formene for myndighet kan utøves på en effektiv måte og ved behov i forbindelse med eventuelle overtredelser som omfattes av denne forordning i samsvar med artikkel 10.
 
-3\. Vedkommende myndigheter skal ha minst følgende undersøkelsesmyndighet:Myndighet til å få tilgang til alle relevante dokumenter, data eller opplysninger knyttet til en overtredelse som omfattes av denne forordning, uansett form eller format og uavhengig av lagringsmedium eller lagringssted.Myndighet til å kreve at en offentlig myndighet, et organ eller et byrå i deres medlemsstat eller en fysisk eller juridisk person skal framlegge alle relevante opplysninger, data eller dokumenter, uansett form eller format og uavhengig av lagringsmedium eller lagringssted, for å kunne fastslå om en overtredelse som omfattes av denne forordning, har funnet sted eller finner sted, og for å innhente nærmere opplysninger om en slik overtredelse, herunder sporing av finansielle strømmer og datastrømmer, for å fastslå identiteten til personer som er involvert i finansielle strømmer og datastrømmer, og for å fastslå bankkontoopplysninger og opplysninger om eier av nettsteder.Myndighet til å gjennomføre nødvendig stedlig tilsyn, herunder myndighet til å få adgang til alle lokaler, all grunn og alle transportmidler som den næringsdrivende som berøres av tilsynet, bruker for formål knyttet til vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet, eller anmode andre offentlige myndigheter om å gjøre dette, for å undersøke, beslaglegge, ta eller få kopier av opplysninger, data eller dokumenter, uansett lagringsmedium; myndighet til å beslaglegge alle opplysninger, data eller dokumenter i et nødvendig tidsrom og i det omfang som er nødvendig for tilsynet; myndighet til å kreve at representanter for eller ansatte hos den næringsdrivende som berøres av tilsynet, gir forklaringer om forhold, opplysninger, data eller dokumenter som gjelder gjenstanden for tilsynet, og til å registrere deres svar.Myndigheten til å kjøpe varer eller tjenester gjennom testkjøp, om nødvendig under skjult identitet, for å påvise overtredelser som omfattes av denne forordning, og til å innhente bevismateriale, herunder myndighet til å inspisere, observere, undersøke, demontere eller teste varer eller tjenester.
+3\. Vedkommende myndigheter skal ha minst følgende undersøkelsesmyndighet:
 
-4\. Vedkommende myndigheter skal ha minst følgende håndhevingsmyndighet:Myndighet til å vedta midlertidige tiltak for å unngå risikoen for alvorlig skade på forbrukernes kollektive interesser.Myndighet til å forsøke å få eller godta forpliktende tilsagn fra den næringsdrivende som er ansvarlig for overtredelsen som omfattes av denne forordning, om å stanse denne overtredelsen.Myndighet til å motta, fra den næringsdrivende og på den næringsdrivendes initiativ, ytterligere forpliktende tilsagn om avhjelpende tiltak til fordel for forbrukerne som er berørt av den påståtte overtredelsen som omfattes av denne forordning, eller eventuelt til å forsøke å få den næringsdrivende til å forplikte seg til å tilby egnede avhjelpende tiltak til de forbrukerne som er berørt av denne overtredelsen.Når det er relevant, myndighet til på egnet måte å informere forbrukere som hevder at de har lidd skade som følge av en overtredelse som omfattes av denne forordning, om hvordan de kan søke om erstatning i henhold til nasjonal rett.Myndighet til skriftlig å pålegge den næringsdrivende å stanse overtredelser som omfattes av denne forordning.Myndighet til å stanse eller forby overtredelser som omfattes av denne forordning.Dersom ingen andre effektive midler er tilgjengelige for å stanse eller forby overtredelsen som omfattes av denne forordning, og for å unngå risikoen for alvorlig skade på forbrukernes kollektive interesser,myndighet til å fjerne innhold i eller begrense tilgangen til et nettbasert grensesnitt, eller til å kreve at forbrukerne skal se en tydelig advarsel når de får tilgang til et nettbasert grensesnitt,myndighet til å pålegge en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt, ellermyndighet til, dersom det er hensiktsmessig, å pålegge domeneregistre eller domeneregistrarer å slette et fullt kvalifisert domenenavn og å tillate at den berørte vedkommende myndighet registrerer det,herunder ved å anmode en tredjepart eller en annen offentlig myndighet om å gjennomføre slike tiltak.Myndighet til å ilegge sanksjoner, for eksempel bøter eller tvangsmulkter, for overtredelser som omfattes av denne forordning, og for manglende overholdelse av beslutninger, pålegg, midlertidige tiltak, forpliktende tilsagn fra næringsdrivende eller andre tiltak som er vedtatt i henhold til denne forordning.Sanksjonene nevnt i bokstav h) skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende, i samsvar med kravene i unionsrett som beskytter forbrukernes interesser. Særlig bør det tas behørig hensyn, alt etter hva som er relevant, til arten, alvorlighetsgraden og varigheten av den aktuelle overtredelsen.
+1. Myndighet til å få tilgang til alle relevante dokumenter, data eller opplysninger knyttet til en overtredelse som omfattes av denne forordning, uansett form eller format og uavhengig av lagringsmedium eller lagringssted.
+2. Myndighet til å kreve at en offentlig myndighet, et organ eller et byrå i deres medlemsstat eller en fysisk eller juridisk person skal framlegge alle relevante opplysninger, data eller dokumenter, uansett form eller format og uavhengig av lagringsmedium eller lagringssted, for å kunne fastslå om en overtredelse som omfattes av denne forordning, har funnet sted eller finner sted, og for å innhente nærmere opplysninger om en slik overtredelse, herunder sporing av finansielle strømmer og datastrømmer, for å fastslå identiteten til personer som er involvert i finansielle strømmer og datastrømmer, og for å fastslå bankkontoopplysninger og opplysninger om eier av nettsteder.
+3. Myndighet til å gjennomføre nødvendig stedlig tilsyn, herunder myndighet til å få adgang til alle lokaler, all grunn og alle transportmidler som den næringsdrivende som berøres av tilsynet, bruker for formål knyttet til vedkommendes nærings-, forretnings-, håndverks- eller yrkesvirksomhet, eller anmode andre offentlige myndigheter om å gjøre dette, for å undersøke, beslaglegge, ta eller få kopier av opplysninger, data eller dokumenter, uansett lagringsmedium; myndighet til å beslaglegge alle opplysninger, data eller dokumenter i et nødvendig tidsrom og i det omfang som er nødvendig for tilsynet; myndighet til å kreve at representanter for eller ansatte hos den næringsdrivende som berøres av tilsynet, gir forklaringer om forhold, opplysninger, data eller dokumenter som gjelder gjenstanden for tilsynet, og til å registrere deres svar.
+4. Myndigheten til å kjøpe varer eller tjenester gjennom testkjøp, om nødvendig under skjult identitet, for å påvise overtredelser som omfattes av denne forordning, og til å innhente bevismateriale, herunder myndighet til å inspisere, observere, undersøke, demontere eller teste varer eller tjenester.
+
+4\. Vedkommende myndigheter skal ha minst følgende håndhevingsmyndighet:
+
+1. Myndighet til å vedta midlertidige tiltak for å unngå risikoen for alvorlig skade på forbrukernes kollektive interesser.
+2. Myndighet til å forsøke å få eller godta forpliktende tilsagn fra den næringsdrivende som er ansvarlig for overtredelsen som omfattes av denne forordning, om å stanse denne overtredelsen.
+3. Myndighet til å motta, fra den næringsdrivende og på den næringsdrivendes initiativ, ytterligere forpliktende tilsagn om avhjelpende tiltak til fordel for forbrukerne som er berørt av den påståtte overtredelsen som omfattes av denne forordning, eller eventuelt til å forsøke å få den næringsdrivende til å forplikte seg til å tilby egnede avhjelpende tiltak til de forbrukerne som er berørt av denne overtredelsen.
+4. Når det er relevant, myndighet til på egnet måte å informere forbrukere som hevder at de har lidd skade som følge av en overtredelse som omfattes av denne forordning, om hvordan de kan søke om erstatning i henhold til nasjonal rett.
+5. Myndighet til skriftlig å pålegge den næringsdrivende å stanse overtredelser som omfattes av denne forordning.
+6. Myndighet til å stanse eller forby overtredelser som omfattes av denne forordning.
+7. Dersom ingen andre effektive midler er tilgjengelige for å stanse eller forby overtredelsen som omfattes av denne forordning, og for å unngå risikoen for alvorlig skade på forbrukernes kollektive interesser,
+
+   1. myndighet til å fjerne innhold i eller begrense tilgangen til et nettbasert grensesnitt, eller til å kreve at forbrukerne skal se en tydelig advarsel når de får tilgang til et nettbasert grensesnitt,
+   2. myndighet til å pålegge en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt, eller
+   3. myndighet til, dersom det er hensiktsmessig, å pålegge domeneregistre eller domeneregistrarer å slette et fullt kvalifisert domenenavn og å tillate at den berørte vedkommende myndighet registrerer det,
+
+   herunder ved å anmode en tredjepart eller en annen offentlig myndighet om å gjennomføre slike tiltak.
+8. Myndighet til å ilegge sanksjoner, for eksempel bøter eller tvangsmulkter, for overtredelser som omfattes av denne forordning, og for manglende overholdelse av beslutninger, pålegg, midlertidige tiltak, forpliktende tilsagn fra næringsdrivende eller andre tiltak som er vedtatt i henhold til denne forordning.
+
+   Sanksjonene nevnt i bokstav h) skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende, i samsvar med kravene i unionsrett som beskytter forbrukernes interesser. Særlig bør det tas behørig hensyn, alt etter hva som er relevant, til arten, alvorlighetsgraden og varigheten av den aktuelle overtredelsen.
 
 5\. Myndigheten til å ilegge sanksjoner, for eksempel bøter eller tvangsmulkter, for overtredelser som omfattes av denne forordning, gjelder alle overtredelser av unionsrett som beskytter forbrukernes interesser, dersom den relevante unionsrettsakten oppført i vedlegget inneholder bestemmelser om sanksjoner. Dette berører ikke den myndighet nasjonale myndigheter har i henhold til nasjonal rett til å ilegge sanksjoner, for eksempel overtredelsesgebyr eller andre bøter eller tvangsmulkter, i tilfeller der unionsrettsaktene som er oppført i vedlegget, ikke inneholder bestemmelser om sanksjoner.
 
@@ -774,7 +899,12 @@ Vedkommende myndigheter og deres myndighet
 
 ### Artikkel 10. Utøvelse av et minimum av myndighet
 
-1\. Den myndighet som er omhandlet i artikkel 9, skal utøves entendirekte av vedkommende myndigheter i henhold til egen myndighet,dersom det er hensiktsmessig, med bistand fra andre vedkommende myndigheter eller andre offentlige myndigheter,ved å gi oppdrag til utpekte organer, dersom det er relevant, ellerved å henvise saken til en domstol som har kompetanse til å treffe den nødvendige avgjørelsen, eventuelt også ved overprøving dersom begjæringen om å treffe nødvendig avgjørelse ikke tas til følge.
+1\. Den myndighet som er omhandlet i artikkel 9, skal utøves enten
+
+1. direkte av vedkommende myndigheter i henhold til egen myndighet,
+2. dersom det er hensiktsmessig, med bistand fra andre vedkommende myndigheter eller andre offentlige myndigheter,
+3. ved å gi oppdrag til utpekte organer, dersom det er relevant, eller
+4. ved å henvise saken til en domstol som har kompetanse til å treffe den nødvendige avgjørelsen, eventuelt også ved overprøving dersom begjæringen om å treffe nødvendig avgjørelse ikke tas til følge.
 
 2\. Gjennomføringen og utøvelsen av myndighet som omhandlet i artikkel 9 ved anvendelse av denne forordning, skal stå i forhold til og være i samsvar med unionsretten og nasjonal rett, herunder med gjeldende prosessuelle garantier og med prinsippene i [Den europeiske unions pakt om grunnleggende rettigheter](eu/12016p). Undersøkelses- og håndhevingstiltak som vedtas ved anvendelse av denne forordning, skal stå i forhold til arten av og den samlede faktiske eller potensielle skaden som følger av overtredelsen av unionsrett som beskytter forbrukernes interesser.
 
@@ -793,7 +923,12 @@ Ordning for gjensidig bistand
 
 1\. Når den anmodende myndigheten ber om det, skal en anmodet myndighet treffe alle nødvendige og forholdsmessige håndhevingstiltak for å stanse eller forby en overtredelse innenfor Unionen ved å utøve den myndighet som er omhandlet i artikkel 9, og all annen myndighet den er tillagt i henhold til nasjonal rett. Den anmodede myndigheten skal bestemme hvilke egnede håndhevingstiltak som er nødvendige for å stanse eller forby overtredelsen innenfor Unionen, og skal treffe dem omgående og senest seks måneder etter at anmodningen er mottatt, med mindre den oppgir særlige grunner til å utvide dette tidsrommet. Dersom det er hensiktsmessig, skal den anmodede myndigheten ilegge den næringsdrivende som er ansvarlig for overtredelsen innenfor Unionen, sanksjoner, for eksempel bøter eller tvangsmulkter. Den anmodede myndigheten kan motta, fra den næringsdrivende og på den næringsdrivendes initiativ, ytterligere forpliktende tilsagn om avhjelpende tiltak til fordel for forbrukere som er berørt av den påståtte overtredelsen innenfor Unionen, eller kan eventuelt forsøke å få den næringsdrivende til å forplikte seg til å tilby egnede avhjelpende tiltak til forbrukere som er berørt av denne overtredelsen.
 
-2\. Den anmodede myndigheten skal regelmessig underrette den anmodende myndigheten om trinn og tiltak som er gjennomført og trinn og tiltak den har til hensikt å gjennomføre. Den anmodede myndigheten skal bruke den elektroniske databasen omhandlet i artikkel 35 til omgående å gi den anmodende myndigheten, vedkommende myndigheter i andre medlemsstater og Kommisjonen melding om hvilke tiltak som er truffet, og hvilken virkning de har hatt på overtredelsen innenfor Unionen, herunder følgende:Om midlertidige tiltak er vedtatt.Om overtredelsen har opphørt.Hvilke tiltak som er vedtatt, og om disse tiltakene er gjennomført.I hvilket omfang forbrukere som berøres av den påståtte overtredelsen, er blitt tilbudt forpliktende tilsagn om avhjelpende tiltak.
+2\. Den anmodede myndigheten skal regelmessig underrette den anmodende myndigheten om trinn og tiltak som er gjennomført og trinn og tiltak den har til hensikt å gjennomføre. Den anmodede myndigheten skal bruke den elektroniske databasen omhandlet i artikkel 35 til omgående å gi den anmodende myndigheten, vedkommende myndigheter i andre medlemsstater og Kommisjonen melding om hvilke tiltak som er truffet, og hvilken virkning de har hatt på overtredelsen innenfor Unionen, herunder følgende:
+
+1. Om midlertidige tiltak er vedtatt.
+2. Om overtredelsen har opphørt.
+3. Hvilke tiltak som er vedtatt, og om disse tiltakene er gjennomført.
+4. I hvilket omfang forbrukere som berøres av den påståtte overtredelsen, er blitt tilbudt forpliktende tilsagn om avhjelpende tiltak.
 
 ### Artikkel 13. Framgangsmåte for anmodninger om gjensidig bistand
 
@@ -811,9 +946,21 @@ Ordning for gjensidig bistand
 
 ### Artikkel 14. Avslag på å etterkomme en anmodning om gjensidig bistand
 
-1\. En anmodet myndighet kan nekte å etterkomme en anmodning om opplysninger i henhold til artikkel 11 dersom ett eller flere av følgende vilkår er oppfylt:Det viser seg, etter samråd med den anmodende myndigheten, at opplysningene som det ble anmodet om, ikke er nødvendige for at den anmodende myndigheten skal kunne avgjøre om en overtredelse innenfor Unionen har funnet sted eller finner sted, eller for å avgjøre om det er rimelig grunn til mistanke om at den vil finne sted.Den anmodende myndigheten er ikke enig i at opplysningene er underlagt reglene for fortrolighet og for taushetsplikt og forretningshemmeligheter fastsatt i artikkel 33.Strafferettslig etterforskning eller rettergang er allerede igangsatt mot den samme næringsdrivende og for den samme overtredelsen innenfor Unionen, av rettsmyndighetene i den anmodede myndighetens eller den anmodende myndighetens medlemsstat.
+1\. En anmodet myndighet kan nekte å etterkomme en anmodning om opplysninger i henhold til artikkel 11 dersom ett eller flere av følgende vilkår er oppfylt:
 
-2\. En anmodet myndighet kan nekte å etterkomme en anmodning om håndhevingstiltak i henhold til artikkel 12 dersom det etter samråd med den anmodende myndigheten viser seg at ett eller flere av følgende vilkår er oppfylt:Strafferettslig etterforskning eller rettergang er allerede igangsatt av, eller det foreligger en dom, et rettsforlik eller en rettslig kjennelse for den samme overtredelsen innenfor Unionen og mot den samme næringsdrivende, fra rettsmyndighetene i den anmodede myndighetens medlemsstat.Utøvelsen av den nødvendige håndhevingsmyndighet er allerede igangsatt, eller det er allerede gjort et forvaltningsvedtak med hensyn til den samme overtredelsen innenfor Unionen og mot den samme næringsdrivende i den anmodede myndighetens medlemsstat, med sikte på raskt og effektivt å stanse eller forby overtredelsen innenfor Unionen.Den anmodede myndigheten fastslår, etter en hensiktsmessig undersøkelse, at en overtredelse innenfor Unionen ikke har funnet sted.Den anmodede myndigheten fastslår at den anmodende myndigheten ikke har framlagt de opplysningene som er nødvendige i henhold til artikkel 13 nr. 1.Den anmodede myndigheten har godtatt forpliktende tilsagn som er foreslått av den næringsdrivende for å stanse overtredelsen innenfor Unionen innen en fastsatt frist, og denne fristen er ennå ikke utløpt.Den anmodede myndigheten skal imidlertid etterkomme anmodningen om håndhevingstiltak i henhold til artikkel 12 dersom den næringsdrivende unnlater å oppfylle godkjente forpliktende tilsagn innen fristen nevnt i første ledd bokstav e).
+1. Det viser seg, etter samråd med den anmodende myndigheten, at opplysningene som det ble anmodet om, ikke er nødvendige for at den anmodende myndigheten skal kunne avgjøre om en overtredelse innenfor Unionen har funnet sted eller finner sted, eller for å avgjøre om det er rimelig grunn til mistanke om at den vil finne sted.
+2. Den anmodende myndigheten er ikke enig i at opplysningene er underlagt reglene for fortrolighet og for taushetsplikt og forretningshemmeligheter fastsatt i artikkel 33.
+3. Strafferettslig etterforskning eller rettergang er allerede igangsatt mot den samme næringsdrivende og for den samme overtredelsen innenfor Unionen, av rettsmyndighetene i den anmodede myndighetens eller den anmodende myndighetens medlemsstat.
+
+2\. En anmodet myndighet kan nekte å etterkomme en anmodning om håndhevingstiltak i henhold til artikkel 12 dersom det etter samråd med den anmodende myndigheten viser seg at ett eller flere av følgende vilkår er oppfylt:
+
+1. Strafferettslig etterforskning eller rettergang er allerede igangsatt av, eller det foreligger en dom, et rettsforlik eller en rettslig kjennelse for den samme overtredelsen innenfor Unionen og mot den samme næringsdrivende, fra rettsmyndighetene i den anmodede myndighetens medlemsstat.
+2. Utøvelsen av den nødvendige håndhevingsmyndighet er allerede igangsatt, eller det er allerede gjort et forvaltningsvedtak med hensyn til den samme overtredelsen innenfor Unionen og mot den samme næringsdrivende i den anmodede myndighetens medlemsstat, med sikte på raskt og effektivt å stanse eller forby overtredelsen innenfor Unionen.
+3. Den anmodede myndigheten fastslår, etter en hensiktsmessig undersøkelse, at en overtredelse innenfor Unionen ikke har funnet sted.
+4. Den anmodede myndigheten fastslår at den anmodende myndigheten ikke har framlagt de opplysningene som er nødvendige i henhold til artikkel 13 nr. 1.
+5. Den anmodede myndigheten har godtatt forpliktende tilsagn som er foreslått av den næringsdrivende for å stanse overtredelsen innenfor Unionen innen en fastsatt frist, og denne fristen er ennå ikke utløpt.
+
+   Den anmodede myndigheten skal imidlertid etterkomme anmodningen om håndhevingstiltak i henhold til artikkel 12 dersom den næringsdrivende unnlater å oppfylle godkjente forpliktende tilsagn innen fristen nevnt i første ledd bokstav e).
 
 3\. Den anmodede myndigheten skal underrette den anmodende myndigheten og Kommisjonen om eventuelle avslag på å etterkomme en anmodning om gjensidig bistand, og gi en begrunnelse for dette avslaget.
 
@@ -856,7 +1003,13 @@ Når det gjelder spørsmål som omfattes av dette kapittelet, skal de berørte v
 
 ### Artikkel 18. Grunner til å avslå å delta i samordnede tiltak
 
-1\. En vedkommende myndighet kan avslå å delta i et samordnet tiltak av én av følgende grunner:Strafferettslig etterforskning eller rettergang er allerede igangsatt, en endelig dom er allerede avsagt eller et rettsforlik er inngått med hensyn til den samme næringsdrivende for de samme overtredelsene i vedkommende myndighets medlemsstat.Utøvelsen av den nødvendige håndhevingsmyndigheten er allerede igangsatt før det utstedes et varsel som nevnt i artikkel 17 nr. 3, eller det er allerede gjort et forvaltningsvedtak med hensyn til den samme næringsdrivende i forbindelse med den samme overtredelsen i vedkommende myndighets medlemsstat, med sikte på raskt og effektivt å stanse eller forby den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon.Dersom det etter en hensiktsmessig undersøkelse viser seg at den faktiske eller potensielle virkningen av den påståtte utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon i denne vedkommende myndighets medlemsstat er ubetydelig, og det er derfor ikke er nødvendig at vedkommende myndighet vedtar håndhevingstiltak.Den relevante utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon har ikke funnet sted i denne vedkommende myndighets medlemsstat, og det er derfor ikke er nødvendig at vedkommende myndighet vedtar håndhevingstiltak.Vedkommende myndighet har godtatt forpliktende tilsagn foreslått av den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon, om å stanse overtredelsen i denne vedkommende myndighets medlemsstat, og disse forpliktende tilsagnene er oppfylt, og det er derfor ikke nødvendig at vedkommende myndighet vedtar håndhevingstiltak.
+1\. En vedkommende myndighet kan avslå å delta i et samordnet tiltak av én av følgende grunner:
+
+1. Strafferettslig etterforskning eller rettergang er allerede igangsatt, en endelig dom er allerede avsagt eller et rettsforlik er inngått med hensyn til den samme næringsdrivende for de samme overtredelsene i vedkommende myndighets medlemsstat.
+2. Utøvelsen av den nødvendige håndhevingsmyndigheten er allerede igangsatt før det utstedes et varsel som nevnt i artikkel 17 nr. 3, eller det er allerede gjort et forvaltningsvedtak med hensyn til den samme næringsdrivende i forbindelse med den samme overtredelsen i vedkommende myndighets medlemsstat, med sikte på raskt og effektivt å stanse eller forby den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon.
+3. Dersom det etter en hensiktsmessig undersøkelse viser seg at den faktiske eller potensielle virkningen av den påståtte utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon i denne vedkommende myndighets medlemsstat er ubetydelig, og det er derfor ikke er nødvendig at vedkommende myndighet vedtar håndhevingstiltak.
+4. Den relevante utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon har ikke funnet sted i denne vedkommende myndighets medlemsstat, og det er derfor ikke er nødvendig at vedkommende myndighet vedtar håndhevingstiltak.
+5. Vedkommende myndighet har godtatt forpliktende tilsagn foreslått av den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon, om å stanse overtredelsen i denne vedkommende myndighets medlemsstat, og disse forpliktende tilsagnene er oppfylt, og det er derfor ikke nødvendig at vedkommende myndighet vedtar håndhevingstiltak.
 
 2\. Dersom en vedkommende myndighet avslår å delta i det samordnede tiltaket, skal den omgående underrette Kommisjonen og de andre vedkommende myndighetene og de sentrale kontaktorganene som berøres av den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon, om sin beslutning, angi grunnene for beslutningen og framlegge alle nødvendige underlagsdokumenter.
 
@@ -884,7 +1037,17 @@ Når det gjelder spørsmål som omfattes av dette kapittelet, skal de berørte v
 
 ### Artikkel 21. Håndhevingstiltak i forbindelse med samordnede tiltak
 
-1\. Vedkommende myndigheter som berøres av det samordnede tiltaket, skal innenfor sin jurisdiksjon treffe alle nødvendige håndhevingstiltak overfor den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon, for å stanse eller forby denne overtredelsen.Dersom det er hensiktsmessig, skal de ilegge sanksjoner, for eksempel bøter eller tvangsmulkter, for den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon. Vedkommende myndigheter kan motta, fra den næringsdrivende og på den næringsdrivendes initiativ, ytterligere forpliktende tilsagn om avhjelpende tiltak til fordel for forbrukere som er berørt av den påståtte utbredte overtredelsen eller den påståtte utbredte overtredelsen med unionsdimensjon, eller kan eventuelt forsøke å få den næringsdrivende til å forplikte seg til å tilby egnede avhjelpende tiltak til forbrukerne som er berørt av denne overtredelsen.Håndhevingstiltak er særlig hensiktsmessige nåret umiddelbart håndhevingstiltak er nødvendig for raskt og effektivt å stanse eller forby overtredelsen,det er usannsynlig at overtredelsen vil opphøre som følge av de forpliktende tilsagnene som er foreslått av den næringsdrivende som er ansvarlig for overtredelsen,den næringsdrivende som er ansvarlig for overtredelsen, ikke har foreslått forpliktende tilsagn før utløpet av en frist fastsatt av de berørte vedkommende myndighetene,de forpliktende tilsagnene som er forslått av den næringsdrivende som er ansvarlig for overtredelsen, ikke er tilstrekkelige til å sikre at overtredelsen opphører, eller hvis det er relevant, til å gi forbrukere som har lidd skade som følge av overtredelsen, avhjelpende tiltak, ellerden næringsdrivende som er ansvarlig for overtredelsen, har unnlatt å oppfylle de forpliktende tilsagnene om å stanse overtredelsen, eller hvis det er relevant, å tilby avhjelpende tiltak til forbrukere som har lidd skade som følge av overtredelsen, innen fristen nevnt i artikkel 20 nr. 3.
+1\. Vedkommende myndigheter som berøres av det samordnede tiltaket, skal innenfor sin jurisdiksjon treffe alle nødvendige håndhevingstiltak overfor den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon, for å stanse eller forby denne overtredelsen.
+
+Dersom det er hensiktsmessig, skal de ilegge sanksjoner, for eksempel bøter eller tvangsmulkter, for den næringsdrivende som er ansvarlig for den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon. Vedkommende myndigheter kan motta, fra den næringsdrivende og på den næringsdrivendes initiativ, ytterligere forpliktende tilsagn om avhjelpende tiltak til fordel for forbrukere som er berørt av den påståtte utbredte overtredelsen eller den påståtte utbredte overtredelsen med unionsdimensjon, eller kan eventuelt forsøke å få den næringsdrivende til å forplikte seg til å tilby egnede avhjelpende tiltak til forbrukerne som er berørt av denne overtredelsen.
+
+Håndhevingstiltak er særlig hensiktsmessige når
+
+1. et umiddelbart håndhevingstiltak er nødvendig for raskt og effektivt å stanse eller forby overtredelsen,
+2. det er usannsynlig at overtredelsen vil opphøre som følge av de forpliktende tilsagnene som er foreslått av den næringsdrivende som er ansvarlig for overtredelsen,
+3. den næringsdrivende som er ansvarlig for overtredelsen, ikke har foreslått forpliktende tilsagn før utløpet av en frist fastsatt av de berørte vedkommende myndighetene,
+4. de forpliktende tilsagnene som er forslått av den næringsdrivende som er ansvarlig for overtredelsen, ikke er tilstrekkelige til å sikre at overtredelsen opphører, eller hvis det er relevant, til å gi forbrukere som har lidd skade som følge av overtredelsen, avhjelpende tiltak, eller
+5. den næringsdrivende som er ansvarlig for overtredelsen, har unnlatt å oppfylle de forpliktende tilsagnene om å stanse overtredelsen, eller hvis det er relevant, å tilby avhjelpende tiltak til forbrukere som har lidd skade som følge av overtredelsen, innen fristen nevnt i artikkel 20 nr. 3.
 
 2\. Håndhevingstiltak i henhold til nr. 1 skal treffes på en effektiv, formålstjenlig og samordnet måte for å stanse eller forby den utbredte overtredelsen eller den utbredte overtredelsen med unionsdimensjon. Vedkommende myndigheter som berøres av det samordnede tiltaket, skal bestrebe seg på å treffe håndhevingstiltak samtidig i de medlemsstatene som berøres av overtredelsen.
 
@@ -896,7 +1059,15 @@ Når det gjelder spørsmål som omfattes av dette kapittelet, skal de berørte v
 
 ### Artikkel 23. Koordinatorens rolle
 
-1\. Koordinatoren som er utpekt i samsvar med artikkel 17 eller 29, skal særligsikre at alle berørte vedkommende myndigheter og Kommisjonen behørig og i rett tid underrettes om framdriften i undersøkelsen eller håndhevingstiltaket, alt etter hva som er relevant, og at de underrettes om eventuelle forventede neste trinn og de tiltakene som skal vedtas,samordne og overvåke de undersøkelsestiltakene som er truffet av de berørte vedkommende myndighetene i samsvar med denne forordning,samordne utarbeidingen og utvekslingen av alle nødvendige dokumenter mellom de berørte vedkommende myndighetene og Kommisjonen,holde kontakt med den næringsdrivende og andre parter som berøres av undersøkelsen eller håndhevingstiltakene, alt etter hva som er relevant, med mindre annet er avtalt mellom de berørte vedkommende myndighetene og koordinatoren,dersom det er relevant, samordne de berørte vedkommende myndighetenes vurdering, samråd og overvåking samt andre tiltak som er nødvendige for å behandle og oppfylle forpliktende tilsagn som er foreslått av de berørte næringsdrivende,dersom det er relevant, samordne håndhevingstiltak som er vedtatt av de berørte vedkommende myndighetene,samordne anmodninger om gjensidig bistand som er framlagt av de berørte vedkommende myndighetene i henhold til kapittel III.
+1\. Koordinatoren som er utpekt i samsvar med artikkel 17 eller 29, skal særlig
+
+1. sikre at alle berørte vedkommende myndigheter og Kommisjonen behørig og i rett tid underrettes om framdriften i undersøkelsen eller håndhevingstiltaket, alt etter hva som er relevant, og at de underrettes om eventuelle forventede neste trinn og de tiltakene som skal vedtas,
+2. samordne og overvåke de undersøkelsestiltakene som er truffet av de berørte vedkommende myndighetene i samsvar med denne forordning,
+3. samordne utarbeidingen og utvekslingen av alle nødvendige dokumenter mellom de berørte vedkommende myndighetene og Kommisjonen,
+4. holde kontakt med den næringsdrivende og andre parter som berøres av undersøkelsen eller håndhevingstiltakene, alt etter hva som er relevant, med mindre annet er avtalt mellom de berørte vedkommende myndighetene og koordinatoren,
+5. dersom det er relevant, samordne de berørte vedkommende myndighetenes vurdering, samråd og overvåking samt andre tiltak som er nødvendige for å behandle og oppfylle forpliktende tilsagn som er foreslått av de berørte næringsdrivende,
+6. dersom det er relevant, samordne håndhevingstiltak som er vedtatt av de berørte vedkommende myndighetene,
+7. samordne anmodninger om gjensidig bistand som er framlagt av de berørte vedkommende myndighetene i henhold til kapittel III.
 
 2\. Koordinatoren skal ikke holdes ansvarlig for de berørte vedkommende myndighetenes tiltak eller unnlatelser når de anvender den myndighet som er omhandlet i artikkel 9.
 
@@ -921,7 +1092,15 @@ Unionsomfattende virksomhet
 
 2\. Kommisjonen skal omgående underrette berørte vedkommende myndigheter og sentrale kontaktorganer om enhver rimelig mistanke om at en overtredelse som omfattes av denne forordning, har funnet sted.
 
-3\. Når de underretter, det vil si utsteder et varsel, i henhold til nr. 1 og 2, skal vedkommende myndighet eller Kommisjonen gi opplysninger om den mistenkte overtredelsen som omfattes av denne forordning, og særlig, dersom de er tilgjengelige, følgende:En beskrivelse av handlingen eller unnlatelsen som utgjør overtredelsen.Opplysninger om produktet eller tjenesten som berøres av overtredelsen.Navnene på de berørte medlemsstatene som er eller kan bli berørt av overtredelsen.Identiteten til den eller de næringsdrivende som er ansvarlig for eller mistenkes å være ansvarlig for overtredelsen.Det rettslige grunnlaget for mulige tiltak, med henvisning til nasjonal rett og de tilsvarende bestemmelsene i unionsrettsaktene som er oppført i vedlegget.En beskrivelse av eventuell rettergang, håndhevingstiltak eller andre tiltak som er truffet i forbindelse med overtredelsen, og tilhørende datoer, varighet og status.Identiteten til vedkommende myndigheter som innleder rettergang og treffer andre tiltak.
+3\. Når de underretter, det vil si utsteder et varsel, i henhold til nr. 1 og 2, skal vedkommende myndighet eller Kommisjonen gi opplysninger om den mistenkte overtredelsen som omfattes av denne forordning, og særlig, dersom de er tilgjengelige, følgende:
+
+1. En beskrivelse av handlingen eller unnlatelsen som utgjør overtredelsen.
+2. Opplysninger om produktet eller tjenesten som berøres av overtredelsen.
+3. Navnene på de berørte medlemsstatene som er eller kan bli berørt av overtredelsen.
+4. Identiteten til den eller de næringsdrivende som er ansvarlig for eller mistenkes å være ansvarlig for overtredelsen.
+5. Det rettslige grunnlaget for mulige tiltak, med henvisning til nasjonal rett og de tilsvarende bestemmelsene i unionsrettsaktene som er oppført i vedlegget.
+6. En beskrivelse av eventuell rettergang, håndhevingstiltak eller andre tiltak som er truffet i forbindelse med overtredelsen, og tilhørende datoer, varighet og status.
+7. Identiteten til vedkommende myndigheter som innleder rettergang og treffer andre tiltak.
 
 4\. Når den utsteder et varsel, kan vedkommende myndighet be vedkommende myndigheter og de relevante sentrale kontaktorganene i andre medlemsstater og Kommisjonen, eller Kommisjonen kan be vedkommende myndigheter og de relevante sentrale kontaktorganene i andre medlemsstater om, på grunnlag av opplysninger som er tilgjengelige for henholdsvis de berørte vedkommende myndighetene eller Kommisjonen, eller som disse lett kan få tilgang til, å kontrollere hvorvidt lignende mistenkte overtredelser finner sted på disse andre medlemsstatenes territorium, eller hvorvidt eventuelle håndhevingstiltak allerede er truffet i forbindelse med slike overtredelser i disse medlemsstatene. Disse vedkommende myndighetene i andre medlemsstater og Kommisjonen skal omgående besvare anmodningen.
 
@@ -947,7 +1126,13 @@ I det omfang som er nødvendig for å nå målet for denne forordning, skal vedk
 
 ### Artikkel 30. Samordning av annen virksomhet som bidrar til undersøkelse og håndheving
 
-1\. I det omfang som er nødvendig for å nå målet for denne forordning, skal medlemsstatene underrette hverandre og Kommisjonen om sin virksomhet på følgende områder:Opplæring av tjenestemenn som er involvert i anvendelsen av denne forordning.Innsamling, klassifisering og utveksling av opplysninger om forbrukerklager.Opprettelse av sektorvise nettverk for tjenestemenn.Utvikling av informasjons- og kommunikasjonsverktøy.Dersom det er relevant, utvikling av standarder, metoder og retningslinjer for anvendelsen av denne forordning.
+1\. I det omfang som er nødvendig for å nå målet for denne forordning, skal medlemsstatene underrette hverandre og Kommisjonen om sin virksomhet på følgende områder:
+
+1. Opplæring av tjenestemenn som er involvert i anvendelsen av denne forordning.
+2. Innsamling, klassifisering og utveksling av opplysninger om forbrukerklager.
+3. Opprettelse av sektorvise nettverk for tjenestemenn.
+4. Utvikling av informasjons- og kommunikasjonsverktøy.
+5. Dersom det er relevant, utvikling av standarder, metoder og retningslinjer for anvendelsen av denne forordning.
 
 2\. I det omfang som er nødvendig for å nå målet for denne forordning, kan medlemsstatene samordne og i fellesskap organisere virksomhet på områdene nevnt i nr. 1.
 
@@ -976,7 +1161,10 @@ Felles ordninger
 
 2\. Opplysningene nevnt i nr. 1 skal behandles som fortrolige og skal brukes og offentliggjøres bare dersom det tas behørig hensyn til en fysisk eller juridisk persons forretningsinteresser, herunder forretningshemmeligheter og immaterialrett.
 
-3\. Vedkommende myndigheter kan likevel, etter samråd med vedkommende myndighet som har gitt opplysningene, offentliggjøre de opplysningene som er nødvendigesom bevis for overtredelser som omfattes av denne forordning, ellerfor å stanse eller forby overtredelser som omfattes av denne forordning.
+3\. Vedkommende myndigheter kan likevel, etter samråd med vedkommende myndighet som har gitt opplysningene, offentliggjøre de opplysningene som er nødvendige
+
+1. som bevis for overtredelser som omfattes av denne forordning, eller
+2. for å stanse eller forby overtredelser som omfattes av denne forordning.
 
 ### Artikkel 34. Bruk av bevismateriale og undersøkelsesresultater
 
@@ -988,7 +1176,13 @@ Vedkommende myndigheter kan bruke alle oversendte opplysninger, dokumenter, unde
 
 2\. Opplysninger fra enheter som utsteder et eksternt varsel i henhold til artikkel 27 nr. 1 eller 2, skal lagres og behandles i den elektroniske databasen. Disse enhetene skal imidlertid ikke ha tilgang til denne databasen.
 
-3\. Dersom en vedkommende myndighet, et utpekt organ eller en enhet som utsteder et eksternt varsel i henhold til artikkel 27 nr. 1 eller 2, fastslår at et varsel om en overtredelse som den eller det har utstedt i henhold til artikkel 26 eller 27, senere har vist seg å være ubegrunnet, skal myndigheten, organet eller enheten trekke tilbake dette varselet. Kommisjonen skal omgående fjerne de relevante opplysningene fra databasen, og skal underrette partene om grunnene til at de ble fjernet.Opplysningene om en overtredelse skal ikke lagres i den elektroniske databasen lenger enn det som er nødvendig for de formålene de ble samlet inn og behandlet for, og skal ikke lagres lenger enn fem år etter den dagen daen anmodet myndighet underretter Kommisjonen, i henhold til artikkel 12 nr. 2, om at en overtredelse innenfor Unionen har opphørt,koordinatoren underretter om at det samordnede tiltaket er avsluttet i henhold til artikkel 22 nr. 1, elleropplysningene er registrert i databasen i alle andre tilfeller.
+3\. Dersom en vedkommende myndighet, et utpekt organ eller en enhet som utsteder et eksternt varsel i henhold til artikkel 27 nr. 1 eller 2, fastslår at et varsel om en overtredelse som den eller det har utstedt i henhold til artikkel 26 eller 27, senere har vist seg å være ubegrunnet, skal myndigheten, organet eller enheten trekke tilbake dette varselet. Kommisjonen skal omgående fjerne de relevante opplysningene fra databasen, og skal underrette partene om grunnene til at de ble fjernet.
+
+Opplysningene om en overtredelse skal ikke lagres i den elektroniske databasen lenger enn det som er nødvendig for de formålene de ble samlet inn og behandlet for, og skal ikke lagres lenger enn fem år etter den dagen da
+
+1. en anmodet myndighet underretter Kommisjonen, i henhold til artikkel 12 nr. 2, om at en overtredelse innenfor Unionen har opphørt,
+2. koordinatoren underretter om at det samordnede tiltaket er avsluttet i henhold til artikkel 22 nr. 1, eller
+3. opplysningene er registrert i databasen i alle andre tilfeller.
 
 4\. Kommisjonen skal vedta gjennomføringsrettsakter som fastsetter praktiske og operative bestemmelser om hvordan den elektroniske databasen skal fungere. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 38 nr. 2.
 
@@ -1000,7 +1194,15 @@ Vedkommende myndigheter kan bruke alle oversendte opplysninger, dokumenter, unde
 
 ### Artikkel 37. Prioriteringer for håndhevingen
 
-1\. Innen 17. januar 2020 og deretter hvert annet år skal medlemsstatene utveksle opplysninger, med hverandre og med Kommisjonen, om sine prioriteringer for håndhevingen i forbindelse med anvendelsen av denne forordning.Disse opplysningene skal omfatte følgende:Opplysninger om markedstendenser som kan påvirke forbrukernes interesser i den berørte medlemsstaten og i andre medlemsstater.En oversikt over tiltak som er gjennomført i henhold til denne forordning i løpet av de siste to årene, og særlig undersøkelses- og håndhevingstiltak i forbindelse med de utbredte overtredelsene.Statistikk som er utvekslet gjennom varsler som nevnt i artikkel 26.De foreløpig prioriterte områdene for de neste to årene, for håndheving av unionsrett som beskytter forbrukernes interesser i den berørte medlemsstaten.De foreslåtte prioriterte områdene for de neste to årene, for håndheving av unionsrett som beskytter forbrukernes interesser på unionsplan.
+1\. Innen 17. januar 2020 og deretter hvert annet år skal medlemsstatene utveksle opplysninger, med hverandre og med Kommisjonen, om sine prioriteringer for håndhevingen i forbindelse med anvendelsen av denne forordning.
+
+Disse opplysningene skal omfatte følgende:
+
+1. Opplysninger om markedstendenser som kan påvirke forbrukernes interesser i den berørte medlemsstaten og i andre medlemsstater.
+2. En oversikt over tiltak som er gjennomført i henhold til denne forordning i løpet av de siste to årene, og særlig undersøkelses- og håndhevingstiltak i forbindelse med de utbredte overtredelsene.
+3. Statistikk som er utvekslet gjennom varsler som nevnt i artikkel 26.
+4. De foreløpig prioriterte områdene for de neste to årene, for håndheving av unionsrett som beskytter forbrukernes interesser i den berørte medlemsstaten.
+5. De foreslåtte prioriterte områdene for de neste to årene, for håndheving av unionsrett som beskytter forbrukernes interesser på unionsplan.
 
 2\. Uten at det berører artikkel 33, skal Kommisjonen hvert annet år utarbeide en oversikt over opplysningene nevnt i nr. 1 bokstav a), b) og c), og gjøre den offentlig tilgjengelig. Kommisjonen skal underrette Europaparlamentet om dette.
 
@@ -1025,7 +1227,9 @@ Medlemsstatene skal umiddelbart oversende Kommisjonen teksten til alle internret
 
 1\. Kommisjonen skal innen 17. januar 2023 framlegge for Europaparlamentet og Rådet en rapport om anvendelsen av denne forordning.
 
-2\. Rapporten skal inneholde en vurdering av anvendelsen av denne forordning, herunder en vurdering av hvor effektiv håndhevingen av unionsrett som beskytter forbrukernes interesser i henhold til denne forordning, er, særlig med hensyn til vedkommende myndigheters myndighet som omhandlet i artikkel 9, sammen med særlig en undersøkelse av hvordan de næringsdrivendes overholdelse av unionsrett som beskytter forbrukernes interesser, har utviklet seg på viktige forbrukermarkeder som berøres av handel over landegrensene.Rapporten skal om nødvendig følges av et forslag til regelverk.
+2\. Rapporten skal inneholde en vurdering av anvendelsen av denne forordning, herunder en vurdering av hvor effektiv håndhevingen av unionsrett som beskytter forbrukernes interesser i henhold til denne forordning, er, særlig med hensyn til vedkommende myndigheters myndighet som omhandlet i artikkel 9, sammen med særlig en undersøkelse av hvordan de næringsdrivendes overholdelse av unionsrett som beskytter forbrukernes interesser, har utviklet seg på viktige forbrukermarkeder som berøres av handel over landegrensene.
+
+Rapporten skal om nødvendig følges av et forslag til regelverk.
 
 ### Artikkel 41. Oppheving
 

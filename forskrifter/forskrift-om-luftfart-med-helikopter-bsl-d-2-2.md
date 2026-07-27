@@ -15,7 +15,7 @@ xml_hash: "fce250598fd8360230754860727b4a552cfd308da3a582fb83ec1cad5ab6af6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,11 @@ Definisjoner er angitt i BSL D 0-9.
 
 2.1
 
-Denne forskrift gjelder for ervervsmessig luftfart med helikopter (luftrutetrafikk og ikke-regelbundet lufttrafikk) innenfor norsk område og utenfor norsk område når det er forenlig med fremmed rett som skal få anvendelse i henhold til overenskomst med fremmed stat eller ut fra alminnelige rettsgrunnsetninger, med:Norsk registrert helikopter som brukes av norske luftfartsforetagende.Utenlandsk registrert helikopter som brukes av norske luftfartsforetagender og når det er avtalt med vedkommende myndighet.Norsk registrert helikopter som brukes av utenlandske luftfartsforetagender, såfremt det ikke er avtalt med vedkommende myndighet at andre forskrifter skal gjelde.
+Denne forskrift gjelder for ervervsmessig luftfart med helikopter (luftrutetrafikk og ikke-regelbundet lufttrafikk) innenfor norsk område og utenfor norsk område når det er forenlig med fremmed rett som skal få anvendelse i henhold til overenskomst med fremmed stat eller ut fra alminnelige rettsgrunnsetninger, med:
+
+1. Norsk registrert helikopter som brukes av norske luftfartsforetagende.
+2. Utenlandsk registrert helikopter som brukes av norske luftfartsforetagender og når det er avtalt med vedkommende myndighet.
+3. Norsk registrert helikopter som brukes av utenlandske luftfartsforetagender, såfremt det ikke er avtalt med vedkommende myndighet at andre forskrifter skal gjelde.
 
 2.1.1
 
@@ -46,7 +50,9 @@ Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemm
 
 3.1
 
-For utøvelse av ervervsmessig luftfart med helikopter gjelder bestemmelsene i «Driftsforskifter for ervervsmessig luftfart med fly» BSL D 2-1 tilsvarende med unntak av følgende punkter:*Kapittel 4*
+For utøvelse av ervervsmessig luftfart med helikopter gjelder bestemmelsene i «Driftsforskifter for ervervsmessig luftfart med fly» BSL D 2-1 tilsvarende med unntak av følgende punkter:
+
+*Kapittel 4*
 Pkt. 4.3.1 – klargjøring, under punkt f)
 Pkt. 4.3.5 – alternativ flyplass
 Pkt. 4.3.6 – drivstoff og oljeforsyning
@@ -69,7 +75,10 @@ For utøvelse av ervervsmessig luftfart med helikopter gjelder for øvrig nedens
 
 4.1
 
-Helikopter som skal brukes i rutetrafikk skal være utstyrt med minst 2 motorer og være sertifisert etter kravene til transportkategori A i henhold til US FAR PART 29 eller tilsvarende konstruksjonsbestemmelser, med mindre følgende betingelser kan oppfylles:Langs hele ruten som skal flyges, skal det finnes tilfredsstillende områder som kan brukes for å gjøre sikker autorotasjonslanding eller en sikker landing med en motor ute av funksjon.Områdene som nevnt i a) skal være lett synlige fra luften for så vel dag- som nattoperasjoner.
+Helikopter som skal brukes i rutetrafikk skal være utstyrt med minst 2 motorer og være sertifisert etter kravene til transportkategori A i henhold til US FAR PART 29 eller tilsvarende konstruksjonsbestemmelser, med mindre følgende betingelser kan oppfylles:
+
+1. Langs hele ruten som skal flyges, skal det finnes tilfredsstillende områder som kan brukes for å gjøre sikker autorotasjonslanding eller en sikker landing med en motor ute av funksjon.
+2. Områdene som nevnt i a) skal være lett synlige fra luften for så vel dag- som nattoperasjoner.
 
 4.2
 
@@ -116,7 +125,10 @@ For flyging fra en plattform i havområde til en helikopterplass på land, gjeld
 
 5.5
 
-Helikopter som brukes til flyging over havområder, skal medføre følgende utstyr:Redningsflåter i tilstrekkelig antall til å bære alle om bord, anbrakt slik at de er lett tilgjengelige i en nødssituasjon og forsynt med slikt redningsutstyr, inklusive midler til livets opprettholdelse, som må anses passende for den angjeldende flyging, samt signalutstyr mv. nødvendig for utsendelse av nødlyssignaler.Minst en VHF-nødradio, som oppfyller ICAO Annex 10s krav til slik utrustning. Radioen skal være transportabel og anbrakt på et sted som er lett tilgjengelig i en nødssituasjon. Den skal kunne flyte på vann, være vanntett, ha egen strømforsyning og kunne betjenes av ikke-fagfolk.
+Helikopter som brukes til flyging over havområder, skal medføre følgende utstyr:
+
+1. Redningsflåter i tilstrekkelig antall til å bære alle om bord, anbrakt slik at de er lett tilgjengelige i en nødssituasjon og forsynt med slikt redningsutstyr, inklusive midler til livets opprettholdelse, som må anses passende for den angjeldende flyging, samt signalutstyr mv. nødvendig for utsendelse av nødlyssignaler.
+2. Minst en VHF-nødradio, som oppfyller ICAO Annex 10s krav til slik utrustning. Radioen skal være transportabel og anbrakt på et sted som er lett tilgjengelig i en nødssituasjon. Den skal kunne flyte på vann, være vanntett, ha egen strømforsyning og kunne betjenes av ikke-fagfolk.
 
 6*Drivstoff*
 
@@ -126,13 +138,23 @@ En flyging må ikke påbegynnes med mindre det medføres tilstrekkelig drivstoff
 
 6.2
 
-For IFR-flyging skal det medføres tilstrekkelig drivstoff til at helikoptre kan:Fullføre flygingen til bestemmelsesstedetFly fra bestemmelsesstedet til den alternative landingsplassFly deretter i 30 minutter med normal marsjhastighet.
+For IFR-flyging skal det medføres tilstrekkelig drivstoff til at helikoptre kan:
 
-Krav til alternativ landingsplass under 6.2 b) kan frafalles for flyging under 3 timers varighet, hvis værvarslet for bestemmelsesstedet i minst en time før og en time etter den antatte ankomsttid viser at:Skydekkehøyden vil være minst 700 fot over den OCL som er angitt for vedkommende instrumentinnflygingsprosedyre, eller 1000 fot over plassens høyde over havet, hvorav høyeste verdi gjelder.Sikten er varslet til å være minst 2500 m.
+1. Fullføre flygingen til bestemmelsesstedet
+2. Fly fra bestemmelsesstedet til den alternative landingsplass
+3. Fly deretter i 30 minutter med normal marsjhastighet.
+
+Krav til alternativ landingsplass under 6.2 b) kan frafalles for flyging under 3 timers varighet, hvis værvarslet for bestemmelsesstedet i minst en time før og en time etter den antatte ankomsttid viser at:
+
+1. Skydekkehøyden vil være minst 700 fot over den OCL som er angitt for vedkommende instrumentinnflygingsprosedyre, eller 1000 fot over plassens høyde over havet, hvorav høyeste verdi gjelder.
+2. Sikten er varslet til å være minst 2500 m.
 
 6.3
 
-For VFR-flyging skal det medføres tilstrekkelig drivstoff til at helikopteret kan:Fullføre flygingen til bestemmelsesstedetFly deretter i 20 minutter.
+For VFR-flyging skal det medføres tilstrekkelig drivstoff til at helikopteret kan:
+
+1. Fullføre flygingen til bestemmelsesstedet
+2. Fly deretter i 20 minutter.
 
 For spesielle oppdrag som er beskrevet i foretagende driftshåndbok, kan det tillates mindre reserver enn de 20 minutter som er angitt under 6.3 b), under forutsetning at flygingen kan foregå over land på en sikker måte, helikoptertypen og andre forhold tatt i betraktning.
 

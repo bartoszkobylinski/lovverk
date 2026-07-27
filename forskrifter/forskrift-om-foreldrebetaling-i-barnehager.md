@@ -15,7 +15,7 @@ xml_hash: "0b2164a30013afba0e33873de4ea104763dcfec34b44808f05a694e41e6bad80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,10 @@ Kommunen skal tilby reduksjoner i foreldrebetalingen etter forskriften her.
 
 ## § 3a. Søskenmoderasjon
 
-Kommunen skal gi foreldre minimum 30 prosent reduksjon i foreldrebetaling for barn nummer 2 og 100 prosent reduksjon i foreldrebetaling for barn nummer 3 eller flere barn, dersom:søsknene bor fast sammen, og,går i barnehager i samme kommune.
+Kommunen skal gi foreldre minimum 30 prosent reduksjon i foreldrebetaling for barn nummer 2 og 100 prosent reduksjon i foreldrebetaling for barn nummer 3 eller flere barn, dersom:
+
+1. søsknene bor fast sammen, og,
+2. går i barnehager i samme kommune.
 
 Reduksjon i foreldrebetalingen som følge av søskenmoderasjon beregnes av foreldrebetalingen i den barnehage det aktuelle barnet har plass. Foreldrebetalingen begrenses oppad til maksimalgrensen for foreldrebetaling, jf. [§ 1](forskrift/2005-12-16-1478/§1) første ledd, og eventuell redusert foreldrebetaling ved lav inntekt, jf. [§ 3b](forskrift/2005-12-16-1478/§3b).
 
@@ -50,13 +53,19 @@ Reduksjon i foreldrebetalingen som følge av søskenmoderasjon beregnes av forel
 
 ## § 3b. Reduksjon i foreldrebetalingen ved lav inntekt
 
-Kommunen skal gi reduksjon i foreldrebetalingen slik at den per barn utgjør maksimalt seks prosent av husholdningens samlede inntekter, dersom:maksimalgrensen for foreldrebetaling for ett barnehageår utgjør mer enn seks prosent av husholdningens inntekter det siste året eller,det er en varig nedgang i husholdningens inntekt inneværende år som gjør at foreldrebetalingen for ett barnehageår utgjør mer enn seks prosent av husholdningens inntekter.
+Kommunen skal gi reduksjon i foreldrebetalingen slik at den per barn utgjør maksimalt seks prosent av husholdningens samlede inntekter, dersom:
+
+1. maksimalgrensen for foreldrebetaling for ett barnehageår utgjør mer enn seks prosent av husholdningens inntekter det siste året eller,
+2. det er en varig nedgang i husholdningens inntekt inneværende år som gjør at foreldrebetalingen for ett barnehageår utgjør mer enn seks prosent av husholdningens inntekter.
 
 > Tilføyd ved forskrift [28 feb 2020 nr. 199](forskrift/2020-02-28-199).
 
 ## § 3c. Gratis kjernetid
 
-Kommunen skal gi fritak for foreldrebetaling for 20 timer per uke til alle barn fra og med 1. august i det kalenderåret de fyller to år og fram til skolestart, dersom:husholdningens samlede inntekter i det siste året er lavere enn inntektsgrensen fastsatt av Stortinget, eller,det er en varig nedgang i husholdningens inntekter i inneværende år som gjør at husholdningens inntekter er lavere enn inntektsgrensen fastsatt av Stortinget.
+Kommunen skal gi fritak for foreldrebetaling for 20 timer per uke til alle barn fra og med 1. august i det kalenderåret de fyller to år og fram til skolestart, dersom:
+
+1. husholdningens samlede inntekter i det siste året er lavere enn inntektsgrensen fastsatt av Stortinget, eller,
+2. det er en varig nedgang i husholdningens inntekter i inneværende år som gjør at husholdningens inntekter er lavere enn inntektsgrensen fastsatt av Stortinget.
 
 > Tilføyd ved forskrift [28 feb 2020 nr. 199](forskrift/2020-02-28-199).
 
@@ -96,7 +105,10 @@ Kommunen kan gi lokale retningslinjer om hvordan moderasjonen skal forvaltes. De
 
 ## § 4. Unntak – Mulighet for å gå utover maksimalgrensen
 
-Foreldrebetalingen kan settes høyere enn den gjeldende maksimalgrensen når:barnehagen ellers vil bli nedlagt av økonomiske årsaker ellerkvaliteten på barnehagetilbudet ellers vil rammes.
+Foreldrebetalingen kan settes høyere enn den gjeldende maksimalgrensen når:
+
+1. barnehagen ellers vil bli nedlagt av økonomiske årsaker eller
+2. kvaliteten på barnehagetilbudet ellers vil rammes.
 
 For slikt unntak fra maksimalgrensen kreves det samtykke fra barnehagens foreldreråd. Ved avstemming i foreldrerådet gis én stemme for hvert barn, og vanlig flertallsvedtak gjelder. Barnehageeier må legge fram slik dokumentasjon at foreldrerådet kan etterprøve om vilkårene for å ta høyere foreldrebetaling er oppfylt og vurdere om det vil gi sitt samtykke.
 

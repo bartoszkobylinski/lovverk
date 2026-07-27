@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Klagenemndas kompetanse
 
-Klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner behandler klager over enkeltvedtak fattet av Statens pensjonskasse etter[Forskrift 22. desember 2009 nr. 1768 om særskilt kompensasjonsordning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner](forskrift/2009-12-22-1768),[Forsvarstilsatteforskriften kapittel 10](forskrift/2017-06-24-997/kap10) om billighetserstatning, og[Forsvarsloven § 55](lov/2016-08-12-77/§55) første ledd, som omhandler krav som følge av psykiske belastningsskader.
+Klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner behandler klager over enkeltvedtak fattet av Statens pensjonskasse etter
+
+1. [Forskrift 22. desember 2009 nr. 1768 om særskilt kompensasjonsordning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner](forskrift/2009-12-22-1768),
+2. [Forsvarstilsatteforskriften kapittel 10](forskrift/2017-06-24-997/kap10) om billighetserstatning, og
+3. [Forsvarsloven § 55](lov/2016-08-12-77/§55) første ledd, som omhandler krav som følge av psykiske belastningsskader.
 
 > Endret ved forskrift [18 juni 2021 nr. 1981](forskrift/2021-06-18-1981) (i kraft 1 juli 2021).
 

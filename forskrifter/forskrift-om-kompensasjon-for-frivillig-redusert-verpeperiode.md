@@ -15,7 +15,7 @@ xml_hash: "f04e2741b48aa5759f38da1cb6f5dabd05f9bbb03f070c79ad10a7de2b192272"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,9 +58,17 @@ Nortura SA fastsetter frister for påmelding og gjennomføring av utslaktingen. 
 
 Produsenter som ønsker å delta i tiltaket, melder seg på gjennom de respektive eggpakkeriene.
 
-Eggpakkeriet skal sende liste til Nortura SA med oversikt overnavn, adresse og produsentnummer/organisasjonsnummer på produsentene,ordinær slakteuke for innsettet ogukenummer ved 20 ukers alder for neste innsett av verpehøner.
+Eggpakkeriet skal sende liste til Nortura SA med oversikt over
 
-Etter at redusert verpeperiode er utført skal eggpakkeriet også sende følgende dokumentasjon til Nortura SA:dokumentasjon på leveransene av egg fra produsenten de siste seks ukene før avliving og at disse er normale og representative for det aktuelle innsettet,dokumentasjon på at leveransene er opphørt ogdokumentasjon på at hønene er avlivet skal inneholde faktura over kvantum levert til avliving.
+- navn, adresse og produsentnummer/organisasjonsnummer på produsentene,
+- ordinær slakteuke for innsettet og
+- ukenummer ved 20 ukers alder for neste innsett av verpehøner.
+
+Etter at redusert verpeperiode er utført skal eggpakkeriet også sende følgende dokumentasjon til Nortura SA:
+
+- dokumentasjon på leveransene av egg fra produsenten de siste seks ukene før avliving og at disse er normale og representative for det aktuelle innsettet,
+- dokumentasjon på at leveransene er opphørt og
+- dokumentasjon på at hønene er avlivet skal inneholde faktura over kvantum levert til avliving.
 
 > Endret ved forskrift [20 april 2023 nr. 623](forskrift/2023-04-20-623).
 

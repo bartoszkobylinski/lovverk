@@ -15,7 +15,7 @@ xml_hash: "79786bdc119b550d53316b21579613887c45bed11c0945a8f51039d81b89dc49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019R0006"
@@ -71,7 +71,23 @@ Loven [§§ 2](lov/1992-12-04-132/§2) tredje og fjerde ledd, [2 a](lov/1992-12-
 
 ### § 2 d. Forskrifter om legemidler til dyr
 
-Departementet kan gi forskrifter omat pakningsvedlegg skal gis i papirformat, elektronisk format eller i begge disse formater, og om bruk av nasjonal identifikasjonskode på legemidlets pakningregistrering av legemiddelbruk for matproduserende dyr i henhold til forordning om legemidler til dyr artikkel 108 nr. 4 og bruk av legemidler til dyr i henhold til forordningen artikkel 110 til 114 og 116forbud mot tilvirkning, import, distribusjon, besittelse, salg og levering av immunologiske legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 110 nr. 1krav til dyrehelsepersonells rapporteringer av mistenkte bivirkninger i henhold til forordning om legemidler til dyr artikkel 79 nr. 2merking av homøopatiske legemidler, innvilgelse og avslag på søknad om registrering av homøopatiske legemidler og om endring av registrering, suspensjon og tilbakekall av registreringen, samt om plikt til å foreslå endringer av legemidlet og dets dokumentasjongrossistvirksomhet med legemidler til dyr, blant annet om søknad om tillatelse, saksbehandling, godkjenning og avslag og suspensjon, tilbakekall og endring av tillatelsen, om krav til grossisters personell, lokaler, oppbevaring og håndtering av legemidler til dyr og hvilke personer og virksomheter som grossister kan levere legemidler tilparallellhandel med legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 102 nr. 3reklame for legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 122gjennomføring og utfylling av forordning om legemidler til dyrunntak fra krav ommarkedsføringstillatelse for legemidler til visse kjæledyr og i henhold til forordning om legemidler til dyr artikkel 110 nr. 2 og 3, artikkel 112 til 114 og artikkel 116bruk av norsk språk for preparatomtale, merking og pakningsvedlegg for legemidler til dyrtilvirkertillatelse ved tilberedning, oppdeling eller presentasjon av legemidler, eller ved endringer i pakningen, når disse handlingene utelukkende utføres i tilknytning til detaljsalg til offentlighetengrossisttillatelse for levering av begrensede mengder legemidler til dyr fra en detaljist i Norge til en annen
+Departementet kan gi forskrifter om
+
+1. at pakningsvedlegg skal gis i papirformat, elektronisk format eller i begge disse formater, og om bruk av nasjonal identifikasjonskode på legemidlets pakning
+2. registrering av legemiddelbruk for matproduserende dyr i henhold til forordning om legemidler til dyr artikkel 108 nr. 4 og bruk av legemidler til dyr i henhold til forordningen artikkel 110 til 114 og 116
+3. forbud mot tilvirkning, import, distribusjon, besittelse, salg og levering av immunologiske legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 110 nr. 1
+4. krav til dyrehelsepersonells rapporteringer av mistenkte bivirkninger i henhold til forordning om legemidler til dyr artikkel 79 nr. 2
+5. merking av homøopatiske legemidler, innvilgelse og avslag på søknad om registrering av homøopatiske legemidler og om endring av registrering, suspensjon og tilbakekall av registreringen, samt om plikt til å foreslå endringer av legemidlet og dets dokumentasjon
+6. grossistvirksomhet med legemidler til dyr, blant annet om søknad om tillatelse, saksbehandling, godkjenning og avslag og suspensjon, tilbakekall og endring av tillatelsen, om krav til grossisters personell, lokaler, oppbevaring og håndtering av legemidler til dyr og hvilke personer og virksomheter som grossister kan levere legemidler til
+7. parallellhandel med legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 102 nr. 3
+8. reklame for legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 122
+9. gjennomføring og utfylling av forordning om legemidler til dyr
+10. unntak fra krav om
+
+    1. markedsføringstillatelse for legemidler til visse kjæledyr og i henhold til forordning om legemidler til dyr artikkel 110 nr. 2 og 3, artikkel 112 til 114 og artikkel 116
+    2. bruk av norsk språk for preparatomtale, merking og pakningsvedlegg for legemidler til dyr
+    3. tilvirkertillatelse ved tilberedning, oppdeling eller presentasjon av legemidler, eller ved endringer i pakningen, når disse handlingene utelukkende utføres i tilknytning til detaljsalg til offentligheten
+    4. grossisttillatelse for levering av begrensede mengder legemidler til dyr fra en detaljist i Norge til en annen
 
 Tilsynsmyndigheten kan i særlige tilfeller gjøre unntak fra kravet om markedsføringstillatelse, forutsatt at det ikke vil stride mot [§ 2 b](lov/1992-12-04-132/§2b).
 
@@ -123,7 +139,9 @@ Det offentlige og legemidlets rettighetshaver kan inngå en refusjonskontrakt om
 
 ### § 8
 
-Følgende legemidler må ha markedsføringstillatelse før de kan omsettes:Legemidler som er fremstilt industrielt eller ved bruk av en industriell prosess.
+Følgende legemidler må ha markedsføringstillatelse før de kan omsettes:
+
+1. Legemidler som er fremstilt industrielt eller ved bruk av en industriell prosess.
 
 Departementet kan i forskrifter gi nærmere regler om hvilke legemidler som skal ha markedsføringstillatelse før de kan omsettes.
 
@@ -143,7 +161,11 @@ Markedsføringstillatelse for et legemiddel gjelder for et tidsrom av fem år og
 
 Når særlige grunner foreligger, kan markedsføringstillatelsen gjøres betinget av at preparatet bare skal være til bruk for visse sykehus eller forskrives av visse spesialister.
 
-Departementet kan kalle markedsføringstillatelsen tilbake dersom:Preparatet ikke lenger anses å fylle kravene til kvalitet, sikkerhet eller effekt.Spesialpreparatet ikke har den angitte kvalitative og kvantitative sammensetning.De bestemmelser som gjelder for legemidler ikke overholdes.
+Departementet kan kalle markedsføringstillatelsen tilbake dersom:
+
+1. Preparatet ikke lenger anses å fylle kravene til kvalitet, sikkerhet eller effekt.
+2. Spesialpreparatet ikke har den angitte kvalitative og kvantitative sammensetning.
+3. De bestemmelser som gjelder for legemidler ikke overholdes.
 
 > Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)).
 
@@ -337,7 +359,12 @@ Når særlige grunner taler for det, kan Direktoratet for medisinske produkter g
 
 ### § 21 a
 
-Dersom en overtredelse av bestemmelser som Direktoratet for medisinske produkter fører tilsyn med etter [legemiddelloven kapittel VII](lov/1992-12-04-132/kapvii) med tilhørende forskrift, medfører betydelig helserisiko, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan Direktoratet for medisinske produkter påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Direktoratet for medisinske produkter.
+Dersom en overtredelse av bestemmelser som Direktoratet for medisinske produkter fører tilsyn med etter [legemiddelloven kapittel VII](lov/1992-12-04-132/kapvii) med tilhørende forskrift, medfører betydelig helserisiko, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan Direktoratet for medisinske produkter pålegge
+
+1. en vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,
+2. en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,
+3. en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,
+4. en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Direktoratet for medisinske produkter.
 
 Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, partenes interesser samt mulighetene for mindre inngripende tiltak.
 

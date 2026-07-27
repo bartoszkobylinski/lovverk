@@ -84,7 +84,12 @@ Er et vrak i henhold til 2007 vrakfjerningskonvensjonens regler fastslått å ut
 
 Skip som skal ha forsikring eller annen sikkerhet etter [sjøloven § 182a](lov/1994-06-24-39/§182a), skal ha om bord et sertifikat utstedt av forsikringsgiveren eller sikkerhetsstilleren som bekrefter at skipet har slik forsikring eller sikkerhet.
 
-Sertifikatet skal inneholde følgende informasjon:skipets navn, IMO-nummer og registreringsstedrederens navn og hovedforretningsstedhva slags type forsikring og sikkerhet skipet har, og forsikringsdekningens eller sikkerhetens utløpsdatonavn på forsikringsgiveren eller den som har stilt annen sikkerhet, dennes hovedforretningssted og, når det er relevant, stedet forsikringen er tegnet.
+Sertifikatet skal inneholde følgende informasjon:
+
+1. skipets navn, IMO-nummer og registreringssted
+2. rederens navn og hovedforretningssted
+3. hva slags type forsikring og sikkerhet skipet har, og forsikringsdekningens eller sikkerhetens utløpsdato
+4. navn på forsikringsgiveren eller den som har stilt annen sikkerhet, dennes hovedforretningssted og, når det er relevant, stedet forsikringen er tegnet.
 
 Sertifikatet skal være på engelsk, fransk eller spansk eller inneholde oversettelse til et av disse språkene.
 
@@ -120,11 +125,21 @@ Forsikringsplikten gjelder også for skip som eies eller brukes av den norske st
 
 ### § 14. Pålegg ved manglende sertifikat og forsikring
 
-Dersom et skip ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 186](lov/1994-06-24-39/§186), [§ 197](lov/1994-06-24-39/§197) eller [§ 218](lov/1994-06-24-39/§218), kan Sjøfartsdirektoratet:nekte skipet adgang til havn eller annen laste- eller losseplass i Norge eller på den norske kontinentalsokkelenforby skipet å forlate havn eller annen laste- eller losseplass i Norge eller på den norske kontinentalsokkelenpåby at skipet blir losset eller flyttet.
+Dersom et skip ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 186](lov/1994-06-24-39/§186), [§ 197](lov/1994-06-24-39/§197) eller [§ 218](lov/1994-06-24-39/§218), kan Sjøfartsdirektoratet:
+
+1. nekte skipet adgang til havn eller annen laste- eller losseplass i Norge eller på den norske kontinentalsokkelen
+2. forby skipet å forlate havn eller annen laste- eller losseplass i Norge eller på den norske kontinentalsokkelen
+3. påby at skipet blir losset eller flyttet.
 
 Det samme gjelder for norsk skip som ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 182a](lov/1994-06-24-39/§182a), [§ 210d](lov/1994-06-24-39/§210d) eller [§ 418](lov/1994-06-24-39/§418) første eller tredje ledd.
 
-Dersom et utenlandsk skip ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 210d](lov/1994-06-24-39/§210d) eller [§ 418](lov/1994-06-24-39/§418) første eller tredje ledd, eller et norsk eller utenlandsk skip ikke har påbudt forsikring etter [sjøloven § 418](lov/1994-06-24-39/§418) annet ledd, jf. denne forskriften [§ 13](forskrift/2019-11-11-1492/§13), kan Sjøfartsdirektoratet:nekte skipet adgang til havn eller annen laste- eller losseplass i Norge eller ikke landtilknyttet anløpsplass i norsk sjøterritoriumforby skipet å forlate havn eller annen laste- eller losseplass i Norge eller ikke landtilknyttet anløpsplass i norsk sjøterritoriumpåby at skipet blir losset eller flyttet.For utenlandske skip som ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 182a](lov/1994-06-24-39/§182a), gjelder [sjøloven § 182b](lov/1994-06-24-39/§182b).
+Dersom et utenlandsk skip ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 210d](lov/1994-06-24-39/§210d) eller [§ 418](lov/1994-06-24-39/§418) første eller tredje ledd, eller et norsk eller utenlandsk skip ikke har påbudt forsikring etter [sjøloven § 418](lov/1994-06-24-39/§418) annet ledd, jf. denne forskriften [§ 13](forskrift/2019-11-11-1492/§13), kan Sjøfartsdirektoratet:
+
+1. nekte skipet adgang til havn eller annen laste- eller losseplass i Norge eller ikke landtilknyttet anløpsplass i norsk sjøterritorium
+2. forby skipet å forlate havn eller annen laste- eller losseplass i Norge eller ikke landtilknyttet anløpsplass i norsk sjøterritorium
+3. påby at skipet blir losset eller flyttet.
+
+For utenlandske skip som ikke har påbudt sertifikat for forsikring eller annen sikkerhet etter [sjøloven § 182a](lov/1994-06-24-39/§182a), gjelder [sjøloven § 182b](lov/1994-06-24-39/§182b).
 
 Dersom et norsk skip ikke har påbudt sertifikat etter denne forskriften, skal skipets fører på begjæring utlevere skipets nasjonalitetsbevis til Sjøfartsdirektoratet. Er skipet i utenlandsk havn, skal skipets fører på begjæring fra norsk konsul utlevere skipets nasjonalitetsbevis til denne.
 

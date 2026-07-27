@@ -30,7 +30,12 @@ Forskriften kommer til anvendelse for skip registrert i norsk internasjonalt ski
 
 ### § 2. Forholdet til sjøfartsloven og forskriften om registrering av skip i norsk ordinært skipsregister
 
-Sjølovens regler, herunder reglene om registrering av skip, får anvendelse for skip i norsk internasjonalt skipsregister med mindre annet er bestemt. Følgende bestemmelser får ikke anvendelse for skip registrert i norsk internasjonalt skipsregister:[lov av 24. juni 1994 nr. 39](lov/1994-06-24-39) (sjøloven) [§ 8](lov/1994-06-24-39/§8) tredje ledd, [§ 11](lov/1994-06-24-39/§11) første ledd første og annet punktum og sjette ledd, [§ 12](lov/1994-06-24-39/§12) og [§ 28](lov/1994-06-24-39/§28) første ledd første punktum for så vidt gjelder tredje slettingsalternativ om at et skip ikke lenger er å anse som norsk, [§ 31](forskrift/1992-07-30-592/§31), [§ 32](forskrift/1992-07-30-592/§32) og [§ 33](forskrift/1992-07-30-592/§33).[forskrift av 30. juli 1992 nr. 593](forskrift/1992-07-30-593) om registrering av skip i norsk ordinært skipsregister.[sjølovens § 2](lov/1994-06-24-39/§2) og [§ 3](lov/1994-06-24-39/§3) vil ikke komme til anvendelse for skip registrert i medhold av lov om norsk internasjonalt skipsregister [§ 1](lov/1994-06-24-39/§1) første ledd nr. 2 og 3.frivillig stiftet panterett i skip i norsk internasjonalt skipsregister kan bare få rettsvern ved registrering av retten i samsvar med reglene i sjølovens kapittel 2 og disse forskrifter, jfr. [sjølovens § 41](lov/1994-06-24-39/§41).
+Sjølovens regler, herunder reglene om registrering av skip, får anvendelse for skip i norsk internasjonalt skipsregister med mindre annet er bestemt. Følgende bestemmelser får ikke anvendelse for skip registrert i norsk internasjonalt skipsregister:
+
+- [lov av 24. juni 1994 nr. 39](lov/1994-06-24-39) (sjøloven) [§ 8](lov/1994-06-24-39/§8) tredje ledd, [§ 11](lov/1994-06-24-39/§11) første ledd første og annet punktum og sjette ledd, [§ 12](lov/1994-06-24-39/§12) og [§ 28](lov/1994-06-24-39/§28) første ledd første punktum for så vidt gjelder tredje slettingsalternativ om at et skip ikke lenger er å anse som norsk, [§ 31](forskrift/1992-07-30-592/§31), [§ 32](forskrift/1992-07-30-592/§32) og [§ 33](forskrift/1992-07-30-592/§33).
+- [forskrift av 30. juli 1992 nr. 593](forskrift/1992-07-30-593) om registrering av skip i norsk ordinært skipsregister.
+- [sjølovens § 2](lov/1994-06-24-39/§2) og [§ 3](lov/1994-06-24-39/§3) vil ikke komme til anvendelse for skip registrert i medhold av lov om norsk internasjonalt skipsregister [§ 1](lov/1994-06-24-39/§1) første ledd nr. 2 og 3.
+- frivillig stiftet panterett i skip i norsk internasjonalt skipsregister kan bare få rettsvern ved registrering av retten i samsvar med reglene i sjølovens kapittel 2 og disse forskrifter, jfr. [sjølovens § 41](lov/1994-06-24-39/§41).
 
 > Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
 
@@ -54,7 +59,20 @@ Skipsregisteret er et register for skip og rettigheter i skip, jf. [sjøloven §
 
 Videre registreres hvilket vilkår skipet er registrert etter i lov om norsk internasjonalt skipsregister [§ 1](forskrift/1992-07-30-592/§1).
 
-Foruten de opplysninger som er nevnt i [sjølovens § 13](lov/1994-06-24-39/§13), skal registeret inneholde følgende opplysninger, jfr. lov om norsk internasjonalt skipsregister:for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2a, navn og adresse på eiers hovedkontor.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2b, navn og adresse på bestyrende reder.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 3,eiers navn, med angivelse av firma, selskapsform og registreringsstedadresse for eierens hovedkontordersom eieren er et ansvarlig selskap: navn, adresse og fødselsdato på alle ansvarlige deltakere, og dersom en deltaker er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar, også de opplysninger som skal gis for slike selskaper etter pkt. d) og e) nedenfordersom eieren er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar: selskapskapital og hvor mye av den som er innbetalt, og er selskapskapitalen ikke fulltegnet, kan bare den tegnede kapital angis som selskapets kapitaldersom eieren er et selskap: navn, adresse og fødselsdato på styremedlemmer og daglig leder, og hvem som er signaturberettigetnavn og adresse på representanten.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1) første ledd nr. 2 og 3, skal registeret i tillegg inneholde navn og adresse på hovedkontoret til det rederi som forestår driften av skipet.for skip hvor det inngås tariffavtale med utenlandsk fagforening, skal registeret inneholde navn og adresse på den utenlandske avtalepart.
+Foruten de opplysninger som er nevnt i [sjølovens § 13](lov/1994-06-24-39/§13), skal registeret inneholde følgende opplysninger, jfr. lov om norsk internasjonalt skipsregister:
+
+- for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2a, navn og adresse på eiers hovedkontor.
+- for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2b, navn og adresse på bestyrende reder.
+- for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 3,
+
+  1. eiers navn, med angivelse av firma, selskapsform og registreringssted
+  2. adresse for eierens hovedkontor
+  3. dersom eieren er et ansvarlig selskap: navn, adresse og fødselsdato på alle ansvarlige deltakere, og dersom en deltaker er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar, også de opplysninger som skal gis for slike selskaper etter pkt. d) og e) nedenfor
+  4. dersom eieren er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar: selskapskapital og hvor mye av den som er innbetalt, og er selskapskapitalen ikke fulltegnet, kan bare den tegnede kapital angis som selskapets kapital
+  5. dersom eieren er et selskap: navn, adresse og fødselsdato på styremedlemmer og daglig leder, og hvem som er signaturberettiget
+  6. navn og adresse på representanten.
+- for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1) første ledd nr. 2 og 3, skal registeret i tillegg inneholde navn og adresse på hovedkontoret til det rederi som forestår driften av skipet.
+- for skip hvor det inngås tariffavtale med utenlandsk fagforening, skal registeret inneholde navn og adresse på den utenlandske avtalepart.
 
 For alle skip, skal registeret inneholde byggeverkstedets navn og adresse, og om mulig byggenummer.
 
@@ -78,7 +96,24 @@ Kravet sendes den som har begjært registreringsforretningen. Kravet forfaller t
 
 Ved betaling via bank skal forhåndstrykket blankett med kundeidentifikasjon (KID) utstedt av Skipsregistrene, eller den de bemyndiger, benyttes. Ved elektronisk betaling skal kundeidentifikasjon (KID) oppgis sammen med betalingsoppdraget til betalers bank. Betalingsformidlere skal avvise elektroniske betalingsoppdrag for gebyrer der det ikke er oppgitt gyldig kundeidentifikasjon (KID).
 
-Gebyr skal betales i henhold til følgende satser:Nyregistrering og bareboatregistrering kr 4 408Registrering av endring eier kr 2 656Endring av andre juridiske roller kr 1 329Endring av skips navn kr 3 531Endring av hjemsted kr 889Registrering av pant kr 3 101Registrering av flåtepant kr 3 101 pr. skipSamtykke/påtegning av pant kr 2 656Sletting av fartøy/bareboatregistrering kr 2 656Bareboat-utflagging kr 2 656Pantattest/utskrift kr 796Hjemmels- og heftelsesattest kr 796Slettelsesattest kr 796Journalbekreftelse kr 796Kopi av dokument kr 308Skipsliste kr 796.
+Gebyr skal betales i henhold til følgende satser:
+
+- Nyregistrering og bareboatregistrering kr 4 408
+- Registrering av endring eier kr 2 656
+- Endring av andre juridiske roller kr 1 329
+- Endring av skips navn kr 3 531
+- Endring av hjemsted kr 889
+- Registrering av pant kr 3 101
+- Registrering av flåtepant kr 3 101 pr. skip
+- Samtykke/påtegning av pant kr 2 656
+- Sletting av fartøy/bareboatregistrering kr 2 656
+- Bareboat-utflagging kr 2 656
+- Pantattest/utskrift kr 796
+- Hjemmels- og heftelsesattest kr 796
+- Slettelsesattest kr 796
+- Journalbekreftelse kr 796
+- Kopi av dokument kr 308
+- Skipsliste kr 796.
 
 > Endret ved [forskrifter 16 des 1994 nr. 1118](forskrift/1994-12-16-1118), [18 des 1998 nr. 1209](forskrift/1998-12-18-1209) (i kraft 1 jan 1999), [17 des 1999 nr. 1353](forskrift/1999-12-17-1353) (i kraft 1 jan 2000), [15 feb 2008 nr. 155](forskrift/2008-02-15-155) (i kraft 1 juli 2008), [11 juli 2008 nr. 805](forskrift/2008-07-11-805), [14 des 2009 nr. 1647](forskrift/2009-12-14-1647) (i kraft 1 jan 2010), [28 april 2010 nr. 632](forskrift/2010-04-28-632) (i kraft 1 juli 2010), [22 des 2010 nr. 1845](forskrift/2010-12-22-1845) (i kraft 1 jan 2011), [5 jan 2012 nr. 18](forskrift/2012-01-05-18), [11 jan 2013 nr. 29](forskrift/2013-01-11-29), [19 des 2013 nr. 1615](forskrift/2013-12-19-1615) (i kraft 1 jan 2014), [19 des 2014 nr. 1854](forskrift/2014-12-19-1854) (i kraft 1 jan 2015), [15 des 2015 nr. 1672](forskrift/2015-12-15-1672) (i kraft 1 jan 2016), [20 des 2016 nr. 1730](forskrift/2016-12-20-1730) (i kraft 1 jan 2017), [18 des 2017 nr. 2198](forskrift/2017-12-18-2198) (i kraft 1 jan 2018), [20 des 2018 nr. 2187](forskrift/2018-12-20-2187) (i kraft 1 jan 2019), [20 des 2019 nr. 2092](forskrift/2019-12-20-2092) (i kraft 1 jan 2020), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020), [23 des 2020 nr. 3160](forskrift/2020-12-23-3160) (i kraft 1 jan 2021), [21 des 2021 nr. 3825](forskrift/2021-12-21-3825) (i kraft 1 jan 2022), [20 des 2022 nr. 2451](forskrift/2022-12-20-2451) (i kraft 1 jan 2023), [22 des 2023 nr. 2315](forskrift/2023-12-22-2315) (i kraft 1 jan 2024), [23 des 2024 nr. 3433](forskrift/2024-12-23-3433) (i kraft 1 jan 2025), [15 jan 2025 nr. 40](forskrift/2025-01-15-40), [10 des 2025 nr. 2850](forskrift/2025-12-10-2850) (i kraft 1 jan 2026).
 
@@ -108,7 +143,14 @@ EØS-avtalens vedlegg XIII (Europaparlaments- og rådsforordning [(EF) nr. 789/2
 
 Skal et skip bareboatregistreres etter [NIS-loven § 14](lov/1987-06-12-48/§14), skal befrakteren gi meldingen. [§ 8](lov/1987-06-12-48/§8) tredje ledd gjelder tilsvarende. Befraktes skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
 
-Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,nasjonalitetserklæring for befrakter,gjenpart av skipets målebrev, jf. [§ 8](forskrift/1992-07-30-592/§8) sjette ledd annet punktum,utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, ogattest fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg, og at skipet i certepartiets periode ikke har rett til å føre primærstatens flagg.
+Med meldingen skal det følge
+
+1. kopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,
+2. nasjonalitetserklæring for befrakter,
+3. gjenpart av skipets målebrev, jf. [§ 8](forskrift/1992-07-30-592/§8) sjette ledd annet punktum,
+4. utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,
+5. skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, og
+6. attest fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg, og at skipet i certepartiets periode ikke har rett til å føre primærstatens flagg.
 
 [§ 18](forskrift/1992-07-30-592/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene d til f.
 
@@ -120,7 +162,11 @@ En tillatelse til bareboatregistrering kan gis for inntil ti år, men den kan ik
 
 Skal et skip bareboat-utflagges etter [NIS-loven § 16](lov/1987-06-12-48/§16), skal eieren gi meldingen. [§ 8](lov/1987-06-12-48/§8) tredje ledd gjelder tilsvarende. Eies skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
 
-Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra samtlige rettighetshavere i skipet, ogattest fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+Med meldingen skal det følge
+
+1. kopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,
+2. skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra samtlige rettighetshavere i skipet, og
+3. attest fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
 
 [§ 18](forskrift/1992-07-30-592/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene b og c.
 
@@ -250,7 +296,15 @@ Hjelpedokument på fremmed språk trenger ikke oversettelse hvis registerførere
 
 Når det i eller i medhold av sjøloven er krav om underskrifter på dokumentet, skal det ved elektronisk registrering av dokumenter benyttes elektronisk sertifikat, jf. [§ 8](forskrift/1992-07-30-592/§8). Ved bruk av slike elektroniske sertifikater stilles det ikke krav til vitnebekreftelser.
 
-Ved papirbasert registrering hvor en underskrift skal være bekreftet, jf. [sjølovens § 15](lov/1994-06-24-39/§15) annet ledd, kan bekreftelse gis av to myndige vitner bosatt i Norge, eller av norskdommer eller dommerfullmektig,lensmann eller lensmannsbetjent,namsmann eller namsfullmektig godtatt av tingretten,forliksmann,advokat eller autorisert advokatfullmektig,statsautorisert revisor eller registrert revisor,notarius publicus.
+Ved papirbasert registrering hvor en underskrift skal være bekreftet, jf. [sjølovens § 15](lov/1994-06-24-39/§15) annet ledd, kan bekreftelse gis av to myndige vitner bosatt i Norge, eller av norsk
+
+- dommer eller dommerfullmektig,
+- lensmann eller lensmannsbetjent,
+- namsmann eller namsfullmektig godtatt av tingretten,
+- forliksmann,
+- advokat eller autorisert advokatfullmektig,
+- statsautorisert revisor eller registrert revisor,
+- notarius publicus.
 
 Bekreftelsen kan også gis av utenlandsk notarius publicus.
 

@@ -28,7 +28,13 @@ Formålet med forskriften er å gi regler om gjennomføring av opphold i institu
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for følgende institusjoner som yter heldøgns helse- og omsorgstjenester for personer med rusmiddelproblemer:institusjoner i helseforetak som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og private institusjoner som har avtale med regionalt helseforetak om å tilby tverrfaglig spesialisert behandling som nevnt i spesialisthelsetjenesteloven § 2-la første ledd nr. 5, inkludert innleggelse med hjemmel i helse- og [omsorgstjenesteloven § 10-2](lov/2011-06-24-30/§10-2), [§ 10-3](lov/2011-06-24-30/§10-3) og [§ 10-4](lov/2011-06-24-30/§10-4),private institusjoner som har inngått avtale med Helseøkonomiforvaltningen (Helfo) og som tilbyr tjenester som tilsvarer innholdet i tverrfaglig spesialisert behandling,kommunale institusjoner for personer med rusmiddelproblemer og private institusjoner for personer med rusmiddelproblemer som har avtale med kommunen,private institusjoner for personer med rusmiddelproblemer finansiert helt eller delvis gjennom statlige tilskuddsordninger,private institusjoner for personer med rusmiddelproblemer uten avtale med kommunen eller avtale med regionalt helseforetak.
+Forskriften gjelder for følgende institusjoner som yter heldøgns helse- og omsorgstjenester for personer med rusmiddelproblemer:
+
+1. institusjoner i helseforetak som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og private institusjoner som har avtale med regionalt helseforetak om å tilby tverrfaglig spesialisert behandling som nevnt i spesialisthelsetjenesteloven § 2-la første ledd nr. 5, inkludert innleggelse med hjemmel i helse- og [omsorgstjenesteloven § 10-2](lov/2011-06-24-30/§10-2), [§ 10-3](lov/2011-06-24-30/§10-3) og [§ 10-4](lov/2011-06-24-30/§10-4),
+2. private institusjoner som har inngått avtale med Helseøkonomiforvaltningen (Helfo) og som tilbyr tjenester som tilsvarer innholdet i tverrfaglig spesialisert behandling,
+3. kommunale institusjoner for personer med rusmiddelproblemer og private institusjoner for personer med rusmiddelproblemer som har avtale med kommunen,
+4. private institusjoner for personer med rusmiddelproblemer finansiert helt eller delvis gjennom statlige tilskuddsordninger,
+5. private institusjoner for personer med rusmiddelproblemer uten avtale med kommunen eller avtale med regionalt helseforetak.
 
 ## § 3. Vern om personlig integritet
 
@@ -36,7 +42,14 @@ Tvang og restriksjoner etter forskriften skal innskrenkes til det strengt nødve
 
 Så langt det er forenelig med formålet med oppholdet, institusjonens ansvar for å ivareta forsvarlig drift og hensynet til andre pasienter og brukere, skal institusjonen drives slik at pasient og brukers mulighet til å bestemme over seg selv blir ivaretatt.
 
-Med de begrensninger som er nevnt, skal forholdene legges til rette for at pasient og bruker blant annet får:delta i utformingen av institusjonens daglige liv og andre forhold som berører den enkelte,anledning til å ivareta sine private interesser og hobbyer,tilgang til aktivitetstilbud innen rammen av husordensreglene,anledning til daglige uteaktiviteter.Det skal tas hensyn til den enkeltes livssyn, kulturelle bakgrunn og seksuelle legning.
+Med de begrensninger som er nevnt, skal forholdene legges til rette for at pasient og bruker blant annet får:
+
+1. delta i utformingen av institusjonens daglige liv og andre forhold som berører den enkelte,
+2. anledning til å ivareta sine private interesser og hobbyer,
+3. tilgang til aktivitetstilbud innen rammen av husordensreglene,
+4. anledning til daglige uteaktiviteter.
+
+Det skal tas hensyn til den enkeltes livssyn, kulturelle bakgrunn og seksuelle legning.
 
 ## § 4. Husordensregler mv.
 

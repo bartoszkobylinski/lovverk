@@ -15,7 +15,7 @@ xml_hash: "7b351f58a24c45afdaa859894151149c9dfea89430a480e10178cf56cece7bd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,12 @@ Departementet kan i forskrift gi nærmere regler om statens garantiansvar.
 
 ## § 5. Lån som kvalifiserer for garanti
 
-For at et lån skal være omfattet av garantien etter [§ 4](lov/2020-03-27-14/§4), må det:ikke utgjøre mer enn to ganger bedriftens lønnskostnader i 2019, inkludert sosiale avgifter og kostnader til innleid personell, eller 25 prosent av bedriftens omsetning i 2019. Hvis bedriften er etablert 1. januar 2019 eller senere og lønnskostnader skal benyttes som beregningsgrunnlag, skal lånet ikke utgjøre mer enn bedriftens anslåtte lønnskostnader for de to første driftsårene,ikke utgjøre mer enn 50 millioner kroner,så langt som mulig ha samme betingelser som et tilsvarende lån til en tilsvarende låntaker ville hatt i en normal markedssituasjon, ogikke ha en løpetid på mer enn 3 år.
+For at et lån skal være omfattet av garantien etter [§ 4](lov/2020-03-27-14/§4), må det:
+
+1. ikke utgjøre mer enn to ganger bedriftens lønnskostnader i 2019, inkludert sosiale avgifter og kostnader til innleid personell, eller 25 prosent av bedriftens omsetning i 2019. Hvis bedriften er etablert 1. januar 2019 eller senere og lønnskostnader skal benyttes som beregningsgrunnlag, skal lånet ikke utgjøre mer enn bedriftens anslåtte lønnskostnader for de to første driftsårene,
+2. ikke utgjøre mer enn 50 millioner kroner,
+3. så langt som mulig ha samme betingelser som et tilsvarende lån til en tilsvarende låntaker ville hatt i en normal markedssituasjon, og
+4. ikke ha en løpetid på mer enn 3 år.
 
 I særlig begrunnede tilfeller, og basert på en plan som tallfester bedriftens likviditetsbehov, kan lånet være større enn etter første ledd bokstav a, dersom det er nødvendig for å dekke bedriftens likviditetsbehov de neste 18 måneder. Dersom låntaker har flere lån fra samme finansforetak under garantiordningen, gjelder hver av bestemmelsene i første ledd bokstav a og b og dette ledd for summen av lånene.
 

@@ -15,7 +15,7 @@ xml_hash: "8b4d7fbc1846da400e5881eb92a1013f8220f973e77f84f77fe48484705b22da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,13 @@ Formålet med denne forskriften er å sikre helsemessig trygge kosttilskudd og r
 
 Denne forskriften gir bestemmelser om sammensetning, merking, markedsføring og omsetning av kosttilskudd i ferdigpakket form til forbruker. Forskriften omfatter ikke legemidler.
 
-Produksjon i og omsetning fra Norge av kosttilskudd med vitaminer eller mineraler, som er beregnet for omsetning til sluttforbrukerne i et annet land i EØS, men som ikke oppfyller kravene om minimums- og maksimumsverdier for vitaminer og mineraler i kosttilskudd i § 4 jf. vedlegg 1 og de særlige merkekravene for kosttilskudd med bestemte vitaminer eller mineraler i en viss mengde, er tillatt forutsatt at kosttilskuddene:ikke er helseskadelige,oppfyller alle kravene i EØS-regelverket og eventuelle nasjonale bestemmelser i det aktuelle EØS-landet,bare omsettes til land i EØS der næringsmidlet lovlig kan omsettes til sluttforbrukerne,under produksjon og lagring holdes adskilt fra kosttilskudd som skal omsettes til sluttforbrukerne i Norge ogunder produksjon, lagring og alle ledd i den videre omsetningen ledsages av informasjon om hvorfor kosttilskuddene ikke kan omsettes i Norge og i hvilket EØS-land de skal omsettes til sluttforbrukerne.
+Produksjon i og omsetning fra Norge av kosttilskudd med vitaminer eller mineraler, som er beregnet for omsetning til sluttforbrukerne i et annet land i EØS, men som ikke oppfyller kravene om minimums- og maksimumsverdier for vitaminer og mineraler i kosttilskudd i § 4 jf. vedlegg 1 og de særlige merkekravene for kosttilskudd med bestemte vitaminer eller mineraler i en viss mengde, er tillatt forutsatt at kosttilskuddene:
+
+1. ikke er helseskadelige,
+2. oppfyller alle kravene i EØS-regelverket og eventuelle nasjonale bestemmelser i det aktuelle EØS-landet,
+3. bare omsettes til land i EØS der næringsmidlet lovlig kan omsettes til sluttforbrukerne,
+4. under produksjon og lagring holdes adskilt fra kosttilskudd som skal omsettes til sluttforbrukerne i Norge og
+5. under produksjon, lagring og alle ledd i den videre omsetningen ledsages av informasjon om hvorfor kosttilskuddene ikke kan omsettes i Norge og i hvilket EØS-land de skal omsettes til sluttforbrukerne.
 
 Bestemmelsene i [forskrift 18. juni 2020 nr. 1547 om eksport av næringsmidler, animaliebiprodukter, fôrvarer, levende dyr og avlsprodukter til land utenfor EØS (mateksportforskriften)](forskrift/2020-06-18-1547) gjelder for produksjon i og omsetning fra Norge av kosttilskudd med vitaminer eller mineraler, som er beregnet for omsetning til sluttforbrukerne i land utenfor EØS.
 
@@ -40,7 +46,14 @@ Bestemmelsene i [forskrift 18. juni 2020 nr. 1547 om eksport av næringsmidler, 
 
 ### § 3. Definisjoner
 
-I denne forskriften forstås med:*kosttilskudd:* Næringsmidler somer beregnet til å supplere kosten, oger konsentrerte kilder av vitaminer og mineraler eller andre stoffer med en ernæringsmessig eller fysiologisk effekt, alene eller i kombinasjon, ogomsettes i ferdigpakket og dosert form beregnet til å inntas i små oppmålte mengder; som for eksempel kapsler, pastiller, tabletter, piller, pulverposer, ampuller, dråpeflasker og lignende former for væsker og pulver.*omsetning:* Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
+I denne forskriften forstås med:
+
+1. *kosttilskudd:* Næringsmidler som
+
+   1. er beregnet til å supplere kosten, og
+   2. er konsentrerte kilder av vitaminer og mineraler eller andre stoffer med en ernæringsmessig eller fysiologisk effekt, alene eller i kombinasjon, og
+   3. omsettes i ferdigpakket og dosert form beregnet til å inntas i små oppmålte mengder; som for eksempel kapsler, pastiller, tabletter, piller, pulverposer, ampuller, dråpeflasker og lignende former for væsker og pulver.
+2. *omsetning:* Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
 
 ## Kapittel II. Sammensetning
 
@@ -72,7 +85,13 @@ Den lovbestemte betegnelsen for produkter som omfattes av denne forskriften er �
 
 Betegnelsen «kosttilskudd» er forbeholdt produkter som tilfredsstiller bestemmelser i denne forskriften.
 
-Kosttilskudd skal merkes med:navnet på de kategorier av næringsstoffer eller andre stoffer med ernæringsmessig eller fysiologisk effekt som kjennetegner produktet, eller en angivelse av arten av disseanbefalt døgndoseen advarsel mot å innta mer enn anbefalt døgndoseinformasjon om at kosttilskudd ikke bør brukes som erstatning for en variert kostinformasjon om at produktene bør oppbevares utilgjengelig for barn
+Kosttilskudd skal merkes med:
+
+1. navnet på de kategorier av næringsstoffer eller andre stoffer med ernæringsmessig eller fysiologisk effekt som kjennetegner produktet, eller en angivelse av arten av disse
+2. anbefalt døgndose
+3. en advarsel mot å innta mer enn anbefalt døgndose
+4. informasjon om at kosttilskudd ikke bør brukes som erstatning for en variert kost
+5. informasjon om at produktene bør oppbevares utilgjengelig for barn
 
 > Endret ved [forskrift 1 juli 2016 nr. 869](forskrift/2016-07-01-869).
 
@@ -146,7 +165,11 @@ Bestemmelsene i [lov 12. april 2013 nr. 13 om det frie varebytte i EØS (EØS-va
 
 ### § 10. Meldeplikt
 
-Av hensyn til en effektiv overvåkning av markedet skal kosttilskuddene meldes til Mattilsynet når de omsettes på det norske markedet. Meldingen skjer ved at produsent/importør oversender følgende informasjon:navn og adresse til melder og produsent,alle inngående ingredienser inkludert forbindelsene av tilsatte vitaminer og mineraler,kosttilskuddets totale innhold (summen av naturlig forekommende og tilsatt mengde) av alle vitaminene og mineralene per anbefalt døgndose.
+Av hensyn til en effektiv overvåkning av markedet skal kosttilskuddene meldes til Mattilsynet når de omsettes på det norske markedet. Meldingen skjer ved at produsent/importør oversender følgende informasjon:
+
+1. navn og adresse til melder og produsent,
+2. alle inngående ingredienser inkludert forbindelsene av tilsatte vitaminer og mineraler,
+3. kosttilskuddets totale innhold (summen av naturlig forekommende og tilsatt mengde) av alle vitaminene og mineralene per anbefalt døgndose.
 
 Alle endringer i de innmeldte opplysningene samt eventuell tilbaketrekning av produkter fra markedet skal meldes til Mattilsynet.
 
@@ -242,19 +265,81 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 
 *A. Vitaminer*
 
-1. VITAMIN Aretinolretinylacetatretinylpalmitatbetakaroten
-2. VITAMIN Dkolekalciferolkalciferolkalsidiolmonohydrat1
-3. VITAMIN ED-alfa-tokoferolDL-alfa-tokoferolD-alfa-tokoferylacetatDL-alfa-tokoferylacetatD-alfa-tokoferylsyresuksinatblandede tokoferoler2tokotrienoltokoferol3
-4. VITAMIN Kfyllokinon (fytomenadion)menaquinon4
-5. VITAMIN B1tiaminhydrokloridtiaminmononitrattiaminmonofosfatkloridtiaminpyrofosfatklorid
-6. VITAMIN B2riboflavinriboflavin-5'-natriumfosfat
-7. NIACINnikotinsyrenikotinamidinositolheksanikotinat (inositolheksaniacinat)nikotinamidribosidklorid
-8. PANTOTENSYREkalsium-D-pantotenatnatrium-D-pantotenatdexpantenolpantetin
-9. VITAMIN B6pyridoksinhydrokloridpyridoksin-5'-fosfatpyridoksal-5'-fosfat
-10. FOLATpteroylmonoglutaminsyrekalsium-L-metylfolat(6S)-5-metyltetrahydrofolsyre, glukosaminsaltmononatriumsalt av L-5-metyltetrahydrofolsyre1
-11. VITAMIN B12cyanokobalaminhydroksokobalamin5'-deoksyadenosylkobalaminmetylkobalamin
-12. BIOTIND-biotin
-13. VITAMIN CL-askorbinsyrenatrium L-askorbatkalsium L-askorbat5kalium L-askorbatL-askorbyl 6-palmitatmagnesium L-askorbatsink L-askorbat.
+1. VITAMIN A
+
+   1. retinol
+   2. retinylacetat
+   3. retinylpalmitat
+   4. betakaroten
+2. VITAMIN D
+
+   1. kolekalciferol
+   2. kalciferol
+   3. kalsidiolmonohydrat1
+3. VITAMIN E
+
+   1. D-alfa-tokoferol
+   2. DL-alfa-tokoferol
+   3. D-alfa-tokoferylacetat
+   4. DL-alfa-tokoferylacetat
+   5. D-alfa-tokoferylsyresuksinat
+   6. blandede tokoferoler2
+   7. tokotrienoltokoferol3
+4. VITAMIN K
+
+   1. fyllokinon (fytomenadion)
+   2. menaquinon4
+5. VITAMIN B1
+
+   1. tiaminhydroklorid
+   2. tiaminmononitrat
+   3. tiaminmonofosfatklorid
+   4. tiaminpyrofosfatklorid
+6. VITAMIN B2
+
+   1. riboflavin
+   2. riboflavin-5'-natriumfosfat
+7. NIACIN
+
+   1. nikotinsyre
+   2. nikotinamid
+   3. inositolheksanikotinat (inositolheksaniacinat)
+   4. nikotinamidribosidklorid
+8. PANTOTENSYRE
+
+   1. kalsium-D-pantotenat
+   2. natrium-D-pantotenat
+   3. dexpantenol
+   4. pantetin
+9. VITAMIN B6
+
+   1. pyridoksinhydroklorid
+   2. pyridoksin-5'-fosfat
+   3. pyridoksal-5'-fosfat
+10. FOLAT
+
+    1. pteroylmonoglutaminsyre
+    2. kalsium-L-metylfolat
+    3. (6S)-5-metyltetrahydrofolsyre, glukosaminsalt
+    4. mononatriumsalt av L-5-metyltetrahydrofolsyre1
+11. VITAMIN B12
+
+    1. cyanokobalamin
+    2. hydroksokobalamin
+    3. 5'-deoksyadenosylkobalamin
+    4. metylkobalamin
+12. BIOTIN
+
+    1. D-biotin
+13. VITAMIN C
+
+    1. L-askorbinsyre
+    2. natrium L-askorbat
+    3. kalsium L-askorbat5
+    4. kalium L-askorbat
+    5. L-askorbyl 6-palmitat
+    6. magnesium L-askorbat
+    7. sink L-askorbat.
 
 *B. Mineraler*
 

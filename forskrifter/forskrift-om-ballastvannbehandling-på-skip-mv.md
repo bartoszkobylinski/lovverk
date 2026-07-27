@@ -16,7 +16,7 @@ xml_hash: "2c81fcb0544b7c5c4e36fa18d7fddd50685691887d07df2dbde91e1cb43a2ce0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,11 +25,25 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for norskepassasjer- og lasteskip i utenriksfartfiskefartøy med fartsområde Bankfiske I eller størreflyttbare innretninger i utenriksfartlektere i utenriksfart.
+Forskriften gjelder for norske
 
-Med de begrensninger som følger av folkeretten, gjelder forskriften utenlandske skip og flyttbare innretninger som befinner segi Norges territorialfarvann, herunder ved Svalbard og Jan Mayeni Norges økonomiske sonepå Norges kontinentalsokkel.
+1. passasjer- og lasteskip i utenriksfart
+2. fiskefartøy med fartsområde Bankfiske I eller større
+3. flyttbare innretninger i utenriksfart
+4. lektere i utenriksfart.
 
-Forskriften gjelder ikke forskip som ikke er bygget for å føre ballastvannskip med permanent ballastvann i forseglede tankerskip med største lengde under 50 meter og med maksimalt 8 kubikkmeter ballastvannkapasitet, som benyttes utelukkende for rekreasjon, i konkurransesammenheng eller som hovedsakelig benyttes til søke- og redningsoperasjonerskip og flyttbare innretninger som er sertifisert for operasjon begrenset til norsk territorialfarvann, norsk økonomisk sone og det åpne hav.
+Med de begrensninger som følger av folkeretten, gjelder forskriften utenlandske skip og flyttbare innretninger som befinner seg
+
+1. i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen
+2. i Norges økonomiske sone
+3. på Norges kontinentalsokkel.
+
+Forskriften gjelder ikke for
+
+1. skip som ikke er bygget for å føre ballastvann
+2. skip med permanent ballastvann i forseglede tanker
+3. skip med største lengde under 50 meter og med maksimalt 8 kubikkmeter ballastvannkapasitet, som benyttes utelukkende for rekreasjon, i konkurransesammenheng eller som hovedsakelig benyttes til søke- og redningsoperasjoner
+4. skip og flyttbare innretninger som er sertifisert for operasjon begrenset til norsk territorialfarvann, norsk økonomisk sone og det åpne hav.
 
 > Endret ved forskrift [29 april 2021 nr. 1345](forskrift/2021-04-29-1345).
 
@@ -37,13 +51,21 @@ Forskriften gjelder ikke forskip som ikke er bygget for å føre ballastvannskip
 
 Ballastvannet skal renses ved hjelp av rensesystem for ballastvann ombord. Med ballastvann menes vann som tas om bord i ballasttanker for å regulere trim, krenging, dypgang, stabilitet eller spenninger.
 
-Rensesystem for ballastvann skal være godkjent slik:Systemer som typegodkjennes frem til og med 12. oktober 2019, skal være typegodkjent etter retningslinjene i MEPC.279 (70). Systemer som typegodkjennes 13. oktober 2019 eller senere, skal være typegodkjent etter retningslinjene i MEPC.300 (72).Systemer som er typegodkjent i henhold til retningslinjene i MEPC.174 (58) eller MEPC.279 (70) kan installeres på skip til og med 27. oktober 2020.Systemer som installeres 28. oktober 2020 eller senere skal være typegodkjent etter MEPC.300 (72) Code for Approval of Ballast Water Management System.
+Rensesystem for ballastvann skal være godkjent slik:
+
+1. Systemer som typegodkjennes frem til og med 12. oktober 2019, skal være typegodkjent etter retningslinjene i MEPC.279 (70). Systemer som typegodkjennes 13. oktober 2019 eller senere, skal være typegodkjent etter retningslinjene i MEPC.300 (72).
+2. Systemer som er typegodkjent i henhold til retningslinjene i MEPC.174 (58) eller MEPC.279 (70) kan installeres på skip til og med 27. oktober 2020.
+3. Systemer som installeres 28. oktober 2020 eller senere skal være typegodkjent etter MEPC.300 (72) Code for Approval of Ballast Water Management System.
 
 For rensesystem som gjør bruk av aktive substanser gjelder, i tillegg til det som følger av annet ledd, MEPC.169 (57) (G9). Rensesystem skal installeres i henhold til IACS Requirements concerning Machinery Installations M74.
 
 Renset ballastvann som slippes ut, skal inneholde færre enn 10 levedyktige organismer pr. kubikkmeter større enn eller lik 50 mikrometer i minstemål, og færre enn 10 levedyktige organismer pr. milliliter mindre enn 50 mikrometer i minstemål og større enn eller lik 10 mikrometer i minstemål.
 
-Utslippet av indikatorbakterier skal ikke overstige følgende konsentrasjoner:Vibrio cholerae O1 og O139 (toksigene kolerabakterier): mindre enn 1 kolonidannende enhet (kde) pr. 100 milliliter eller mindre enn 1 kde pr. 1 gram (våtvekt) dyreplanktonprøverEscherichia coli (E. coli; tarmbakterie): mindre enn 250 kde pr. 100 milliliterIntestinale enterokokker (tarmbakterier): mindre enn 100 kde pr. 100 milliliter.
+Utslippet av indikatorbakterier skal ikke overstige følgende konsentrasjoner:
+
+1. Vibrio cholerae O1 og O139 (toksigene kolerabakterier): mindre enn 1 kolonidannende enhet (kde) pr. 100 milliliter eller mindre enn 1 kde pr. 1 gram (våtvekt) dyreplanktonprøver
+2. Escherichia coli (E. coli; tarmbakterie): mindre enn 250 kde pr. 100 milliliter
+3. Intestinale enterokokker (tarmbakterier): mindre enn 100 kde pr. 100 milliliter.
 
 For skip som renser ballastvannet ved landbasert eller mobilt rensesystem, gjelder ikke kravet i første ledd første punktum.
 
@@ -75,7 +97,13 @@ Når det er nødvendig for å forebygge, redusere eller hindre overføring av sk
 
 ## § 6. Unntak fra krav om ballastvannbehandling
 
-Kravene om ballastvannbehandling etter [§ 2](forskrift/2017-09-08-1368/§2), [§ 3](forskrift/2017-09-08-1368/§3) og [§ 5](forskrift/2017-09-08-1368/§5) gjelder ikkenår utilsiktet utslipp eller inntrengning av ballastvann og sedimenter skjer som følge av skade, og alle rimelige forholdsregler er tatt for å hindre eller minske utslippet før og etter skaden eller etter at utslippet ble oppdageti nødssituasjoner når inntak eller utslipp av ballastvann og sedimenter er nødvendig av hensyn til skipets eller den flyttbare innretningens sikkerhet, helsen til personer om bord, eller for å redde liv til sjøsnår inntak eller utslipp av ballastvann og sedimenter gjøres for å unngå eller redusere hendelser med forurensning fra skipet eller den flyttbare innretningeninntak og senere utslipp av samme ballastvann og sedimenter på det åpne havutslipp av ballastvann og sedimenter på samme sted som dette ble tatt opp, forutsatt at ballastvannet og sedimentene ikke er blitt blandet med ubehandlet ballastvann og sedimenter fra andre områder.
+Kravene om ballastvannbehandling etter [§ 2](forskrift/2017-09-08-1368/§2), [§ 3](forskrift/2017-09-08-1368/§3) og [§ 5](forskrift/2017-09-08-1368/§5) gjelder ikke
+
+1. når utilsiktet utslipp eller inntrengning av ballastvann og sedimenter skjer som følge av skade, og alle rimelige forholdsregler er tatt for å hindre eller minske utslippet før og etter skaden eller etter at utslippet ble oppdaget
+2. i nødssituasjoner når inntak eller utslipp av ballastvann og sedimenter er nødvendig av hensyn til skipets eller den flyttbare innretningens sikkerhet, helsen til personer om bord, eller for å redde liv til sjøs
+3. når inntak eller utslipp av ballastvann og sedimenter gjøres for å unngå eller redusere hendelser med forurensning fra skipet eller den flyttbare innretningen
+4. inntak og senere utslipp av samme ballastvann og sedimenter på det åpne hav
+5. utslipp av ballastvann og sedimenter på samme sted som dette ble tatt opp, forutsatt at ballastvannet og sedimentene ikke er blitt blandet med ubehandlet ballastvann og sedimenter fra andre områder.
 
 ## § 7. Plan for håndtering av ballastvann og sedimenter
 
@@ -141,7 +169,16 @@ Skip med IOPP-sertifikatet fornyet i perioden fra og med 8. september 2014 til o
 
 Skip som ikke har krav om IOPP-sertifikat skal følge renseteknologikravene senest 8. september 2024.
 
-Med «bygget» menes i denne forskriftendato for kjølstrekking ellerdato når bygging som kan identifiseres med et bestemt skip begynner, og montering utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre, ellerdato når skipet gjennomgår en større ombygging, det vil si ombyggingsom endrer skipets kapasitet til føre ballastvann med 15 prosent eller mer,som endrer skipstypen,som er prosjektert til å forlenge skipets levetid med ti år eller mer,som medfører andre endringer i skipets ballastvannsystem enn utskifting av komponenter med komponenter av samme slag. Ombygging for å oppfylle bestemmelsene i [§ 3](forskrift/2017-09-08-1368/§3) andre ledd, jf. [§ 3](forskrift/2017-09-08-1368/§3) første ledd anses i denne forskriften ikke å utgjøre en større ombygging.
+Med «bygget» menes i denne forskriften
+
+1. dato for kjølstrekking eller
+2. dato når bygging som kan identifiseres med et bestemt skip begynner, og montering utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre, eller
+3. dato når skipet gjennomgår en større ombygging, det vil si ombygging
+
+   1. som endrer skipets kapasitet til føre ballastvann med 15 prosent eller mer,
+   2. som endrer skipstypen,
+   3. som er prosjektert til å forlenge skipets levetid med ti år eller mer,
+   4. som medfører andre endringer i skipets ballastvannsystem enn utskifting av komponenter med komponenter av samme slag. Ombygging for å oppfylle bestemmelsene i [§ 3](forskrift/2017-09-08-1368/§3) andre ledd, jf. [§ 3](forskrift/2017-09-08-1368/§3) første ledd anses i denne forskriften ikke å utgjøre en større ombygging.
 
 > Endret ved [forskrift 18 sep 2017 nr. 1411](forskrift/2017-09-18-1411).
 

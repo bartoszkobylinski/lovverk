@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*bostedskommune:* den kommunen hvor barnet er folkeregistrert*vertskommune:* den kommunen som gir barnet spesialpedagogisk hjelp*omsorgskommune:* den kommunen som har det økonomiske ansvaret etter barnevernloven, jf. [barnevernloven § 9-1](lov/1992-07-17-100/§9-1).
+I denne forskriften menes med
+
+1. *bostedskommune:* den kommunen hvor barnet er folkeregistrert
+2. *vertskommune:* den kommunen som gir barnet spesialpedagogisk hjelp
+3. *omsorgskommune:* den kommunen som har det økonomiske ansvaret etter barnevernloven, jf. [barnevernloven § 9-1](lov/1992-07-17-100/§9-1).
 
 ### § 2. Bostedskommunens økonomiske ansvar for barn under opplæringspliktig alder, som mottar spesialpedagogisk hjelp utenfor kommunen
 

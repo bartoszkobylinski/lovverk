@@ -24,142 +24,361 @@ eu_basis: []
 
 ## § 1. Lafjorden og Magerøysundet i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Lafjorden og Magerøysundet i Finnmark avgrenset i vest av en rett linje mellom følgende posisjoner:Nord 70 grader 58,8 minutter   Øst 25 grader 20,1 minutterNord 70 grader 59,6 minutter   Øst 25 grader 23,5 minutter
-herfra videre avgrenset i øst av rett linje mellom følgende posisjoner:Nord 70 grader 56,5 minutter   Øst 25 grader 41,3 minutterNord 70 grader 54,6 minutter   Øst 25 grader 41,1 minutter.
+Det er forbudt å fiske etter sei med not i et område på Lafjorden og Magerøysundet i Finnmark avgrenset i vest av en rett linje mellom følgende posisjoner:
+
+1. Nord 70 grader 58,8 minutter   Øst 25 grader 20,1 minutter
+2. Nord 70 grader 59,6 minutter   Øst 25 grader 23,5 minutter
+   herfra videre avgrenset i øst av rett linje mellom følgende posisjoner:
+3. Nord 70 grader 56,5 minutter   Øst 25 grader 41,3 minutter
+4. Nord 70 grader 54,6 minutter   Øst 25 grader 41,1 minutter.
 
 ## § 2. Tanasnaget i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Tanasnaget i Finnmark innenfor et område avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 57,0 minutter   Øst 28 grader 59,9 minutterNord 70 grader 57,6 minutter   Øst 28 grader 59,9 minutterNord 70 grader 58,3 minutter   Øst 29 grader 03,0 minutterNord 70 grader 57,0 minutter   Øst 29 grader 04,0 minutter.Herfra tilbake til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Tanasnaget i Finnmark innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 57,0 minutter   Øst 28 grader 59,9 minutter
+2. Nord 70 grader 57,6 minutter   Øst 28 grader 59,9 minutter
+3. Nord 70 grader 58,3 minutter   Øst 29 grader 03,0 minutter
+4. Nord 70 grader 57,0 minutter   Øst 29 grader 04,0 minutter.
+
+   Herfra tilbake til posisjon 1.
 
 ## § 3. Fruholmen i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område ved Fruholmen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 04,5 minutter   Øst 23 grader 51,5 minutterNord 71 grader 06,5 minutter   Øst 23 grader 51,5 minutterNord 71 grader 06,5 minutter   Øst 23 grader 56,0 minutterNord 71 grader 04,5 minutter   Øst 23 grader 56,0 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område ved Fruholmen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 71 grader 04,5 minutter   Øst 23 grader 51,5 minutter
+2. Nord 71 grader 06,5 minutter   Øst 23 grader 51,5 minutter
+3. Nord 71 grader 06,5 minutter   Øst 23 grader 56,0 minutter
+4. Nord 71 grader 04,5 minutter   Øst 23 grader 56,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 4. Storegrunnen i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Storegrunnen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 08,9 minutter   Øst 24 grader 33,8 minutterNord 71 grader 07,9 minutter   Øst 24 grader 38,0 minutterNord 71 grader 07,0 minutter   Øst 24 grader 33,0 minutter.Herfra tilbake til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Storegrunnen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 71 grader 08,9 minutter   Øst 24 grader 33,8 minutter
+2. Nord 71 grader 07,9 minutter   Øst 24 grader 38,0 minutter
+3. Nord 71 grader 07,0 minutter   Øst 24 grader 33,0 minutter.
+
+   Herfra tilbake til posisjon 1.
 
 ## § 5. Runningen i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Runningen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 35,700 minutter   Øst 021 grader 30,900 minutterNord 70 grader 38,500 minutter   Øst 021 grader 37,000 minutterNord 70 grader 38,500 minutter   Øst 021 grader 41,000 minutterNord 70 grader 35,500 minutter   Øst 021 grader 38,200 minutterNord 70 grader 35,400 minutter   Øst 021 grader 42,100 minutterNord 70 grader 34,700 minutter   Øst 021 grader 42,100 minutterNord 70 grader 34,600 minutter   Øst 021 grader 37,200 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Runningen i Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 35,700 minutter   Øst 021 grader 30,900 minutter
+2. Nord 70 grader 38,500 minutter   Øst 021 grader 37,000 minutter
+3. Nord 70 grader 38,500 minutter   Øst 021 grader 41,000 minutter
+4. Nord 70 grader 35,500 minutter   Øst 021 grader 38,200 minutter
+5. Nord 70 grader 35,400 minutter   Øst 021 grader 42,100 minutter
+6. Nord 70 grader 34,700 minutter   Øst 021 grader 42,100 minutter
+7. Nord 70 grader 34,600 minutter   Øst 021 grader 37,200 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 6. Sværholt, Porsanger og Laksefjorden i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på «Sværholt, Porsanger og Laksefjorden i Finnmark», avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 07,000 minutter Øst 026 grader 03,300 minutterNord 71 grader 06,600 minutter Øst 026 grader 19,000 minutterNord 71 grader 11,200 minutter Øst 026 grader 16,000 minutterNord 71 grader 12,300 minutter Øst 026 grader 50,500 minutterNord 71 grader 08,000 minutter Øst 027 grader 39,450 minutterNord 70 grader 54,600 minutter Øst 025 grader 41,100 minutterNord 70 grader 56,500 minutter Øst 025 grader 41,300 minutterMellom posisjon 5 og 6 og mellom 7 og 1 følger grensen sjølinjen.
+Det er forbudt å fiske etter sei med not i et område på «Sværholt, Porsanger og Laksefjorden i Finnmark», avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 71 grader 07,000 minutter Øst 026 grader 03,300 minutter
+2. Nord 71 grader 06,600 minutter Øst 026 grader 19,000 minutter
+3. Nord 71 grader 11,200 minutter Øst 026 grader 16,000 minutter
+4. Nord 71 grader 12,300 minutter Øst 026 grader 50,500 minutter
+5. Nord 71 grader 08,000 minutter Øst 027 grader 39,450 minutter
+6. Nord 70 grader 54,600 minutter Øst 025 grader 41,100 minutter
+7. Nord 70 grader 56,500 minutter Øst 025 grader 41,300 minutter
+
+Mellom posisjon 5 og 6 og mellom 7 og 1 følger grensen sjølinjen.
 
 > Endret ved forskrifter [7 juli 2026 nr. 1528](forskrift/2026-07-07-1528), [10 juli 2026 nr. 1548](forskrift/2026-07-10-1548).
 
 ## § 7. Hasvik i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område utenfor Hasvik i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 27,000 minutter   Øst 022 grader 04,500 minutterNord 70 grader 28,500 minutter   Øst 022 grader 05,000 minutterNord 70 grader 28,200 minutter   Øst 022 grader 12,000 minutterNord 70 grader 27,200 minutter   Øst 022 grader 12,000 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område utenfor Hasvik i Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 27,000 minutter   Øst 022 grader 04,500 minutter
+2. Nord 70 grader 28,500 minutter   Øst 022 grader 05,000 minutter
+3. Nord 70 grader 28,200 minutter   Øst 022 grader 12,000 minutter
+4. Nord 70 grader 27,200 minutter   Øst 022 grader 12,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 8. Omgang i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område ved Omgang i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 05,100 minutter   Øst 028 grader 14,700 minutterNord 71 grader 07,000 minutter   Øst 028 grader 20,000 minutterNord 71 grader 02,500 minutter   Øst 028 grader 33,000 minutterNord 71 grader 02,500 minutter   Øst 028 grader 47,000 minutterNord 70 grader 57,100 minutter   Øst 028 grader 43,000 minutterNord 70 grader 59,300 minutter   Øst 028 grader 31,400 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område ved Omgang i Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 71 grader 05,100 minutter   Øst 028 grader 14,700 minutter
+2. Nord 71 grader 07,000 minutter   Øst 028 grader 20,000 minutter
+3. Nord 71 grader 02,500 minutter   Øst 028 grader 33,000 minutter
+4. Nord 71 grader 02,500 minutter   Øst 028 grader 47,000 minutter
+5. Nord 70 grader 57,100 minutter   Øst 028 grader 43,000 minutter
+6. Nord 70 grader 59,300 minutter   Øst 028 grader 31,400 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 9. Råsa i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Råsa i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 53,000 minutter   Øst 022 grader 09,000 minutterNord 70 grader 55,700 minutter   Øst 022 grader 09,000 minutterNord 70 grader 55,800 minutter   Øst 022 grader 18,000 minutterNord 70 grader 53,000 minutter   Øst 022 grader 18,000 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Råsa i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 53,000 minutter   Øst 022 grader 09,000 minutter
+2. Nord 70 grader 55,700 minutter   Øst 022 grader 09,000 minutter
+3. Nord 70 grader 55,800 minutter   Øst 022 grader 18,000 minutter
+4. Nord 70 grader 53,000 minutter   Øst 022 grader 18,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 10. Silbåen i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område ved Silbåen i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 44,0 minutter   Øst 22 grader 00,0 minutterNord 70 grader 46,0 minutter   Øst 21 grader 52,0 minutterNord 70 grader 50,0 minutter   Øst 22 grader 06,0 minutterNord 70 grader 48,0 minutter   Øst 22 grader 17,0 minutter.Herfra tilbake til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område ved Silbåen i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 44,0 minutter   Øst 22 grader 00,0 minutter
+2. Nord 70 grader 46,0 minutter   Øst 21 grader 52,0 minutter
+3. Nord 70 grader 50,0 minutter   Øst 22 grader 06,0 minutter
+4. Nord 70 grader 48,0 minutter   Øst 22 grader 17,0 minutter.
+
+   Herfra tilbake til posisjon 1.
 
 ## § 11. Son i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Son i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 09,0 minutter   Øst 25 grader 11,0 minutterNord 71 grader 10,0 minutter   Øst 25 grader 05,0 minutterNord 71 grader 12,7 minutter   Øst 25 grader 05,0 minutterNord 71 grader 12,0 minutter   Øst 25 grader 18,0 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Son i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 71 grader 09,0 minutter   Øst 25 grader 11,0 minutter
+2. Nord 71 grader 10,0 minutter   Øst 25 grader 05,0 minutter
+3. Nord 71 grader 12,7 minutter   Øst 25 grader 05,0 minutter
+4. Nord 71 grader 12,0 minutter   Øst 25 grader 18,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 12. Lopphavet i Troms og Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Lopphavet i Troms og Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 19,500 minutter   Øst 020 grader 40,900 minutterNord 70 grader 22,900 minutter   Øst 020 grader 35,400 minutterNord 70 grader 27,700 minutter   Øst 020 grader 39,800 minutterNord 70 grader 27,900 minutter   Øst 021 grader 08,400 minutterNord 70 grader 27,400 minutter   Øst 021 grader 10,900 minutterNord 70 grader 19,400 minutter   Øst 020 grader 49,600 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Lopphavet i Troms og Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 19,500 minutter   Øst 020 grader 40,900 minutter
+2. Nord 70 grader 22,900 minutter   Øst 020 grader 35,400 minutter
+3. Nord 70 grader 27,700 minutter   Øst 020 grader 39,800 minutter
+4. Nord 70 grader 27,900 minutter   Øst 021 grader 08,400 minutter
+5. Nord 70 grader 27,400 minutter   Øst 021 grader 10,900 minutter
+6. Nord 70 grader 19,400 minutter   Øst 020 grader 49,600 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 13. Gjesbåen i Troms og Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Gjesbåen i Troms og Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 38,5 minutter   Øst 20 grader 22,0 minutterNord 70 grader 41,0 minutter   Øst 20 grader 24,0 minutterNord 70 grader 41,0 minutter   Øst 20 grader 40,0 minutterNord 70 grader 38,5 minutter   Øst 20 grader 42,0 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Gjesbåen i Troms og Finnmark avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 38,5 minutter   Øst 20 grader 22,0 minutter
+2. Nord 70 grader 41,0 minutter   Øst 20 grader 24,0 minutter
+3. Nord 70 grader 41,0 minutter   Øst 20 grader 40,0 minutter
+4. Nord 70 grader 38,5 minutter   Øst 20 grader 42,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 14. Bugrunnen i Troms
 
-Det er forbudt å fiske etter sei med not i et område på Bugrunnen i Troms avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 07,2 minutter   Øst 020 grader 08,0 minutterNord 70 grader 08,2 minutter   Øst 020 grader 08,0 minutterNord 70 grader 08,2 minutter   Øst 020 grader 13,0 minutterNord 70 grader 07,2 minutter   Øst 020 grader 13,0 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Bugrunnen i Troms avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 07,2 minutter   Øst 020 grader 08,0 minutter
+2. Nord 70 grader 08,2 minutter   Øst 020 grader 08,0 minutter
+3. Nord 70 grader 08,2 minutter   Øst 020 grader 13,0 minutter
+4. Nord 70 grader 07,2 minutter   Øst 020 grader 13,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 15. Skjellingen i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område ved Skjellingen i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:Nord 64 grader 34,4 minutter   Øst 10 grader 20,0 minutterNord 64 grader 35,0 minutter   Øst 10 grader 20,0 minutterNord 64 grader 35,0 minutter   Øst 10 grader 21,5 minutterNord 64 grader 34,4 minutter   Øst 10 grader 21,5 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område ved Skjellingen i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 64 grader 34,4 minutter   Øst 10 grader 20,0 minutter
+2. Nord 64 grader 35,0 minutter   Øst 10 grader 20,0 minutter
+3. Nord 64 grader 35,0 minutter   Øst 10 grader 21,5 minutter
+4. Nord 64 grader 34,4 minutter   Øst 10 grader 21,5 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 16. Sklinna i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Sklinna i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:Nord 65 grader 08,8 minutter   Øst 010 grader 37,4 minutterNord 65 grader 10,7 minutter   Øst 010 grader 40,8 minutterNord 65 grader 10,7 minutter   Øst 010 grader 41,8 minutterNord 65 grader 08,8 minutter   Øst 010 grader 41,5 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Sklinna i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 65 grader 08,8 minutter   Øst 010 grader 37,4 minutter
+2. Nord 65 grader 10,7 minutter   Øst 010 grader 40,8 minutter
+3. Nord 65 grader 10,7 minutter   Øst 010 grader 41,8 minutter
+4. Nord 65 grader 08,8 minutter   Øst 010 grader 41,5 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 17. Skreigrunnen og Breigrunnen i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Skreigrunnen og Breigrunnen i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:Nord 65 grader 03,3 minutter   Øst 10 grader 37,8 minutterNord 65 grader 06,3 minutter   Øst 10 grader 39,0 minutterNord 65 grader 06,3 minutter   Øst 10 grader 41,5 minutterNord 65 grader 03,3 minutter   Øst 10 grader 41,0 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Skreigrunnen og Breigrunnen i Trøndelag avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 65 grader 03,3 minutter   Øst 10 grader 37,8 minutter
+2. Nord 65 grader 06,3 minutter   Øst 10 grader 39,0 minutter
+3. Nord 65 grader 06,3 minutter   Øst 10 grader 41,5 minutter
+4. Nord 65 grader 03,3 minutter   Øst 10 grader 41,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 18. Almenningen i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Almenningen i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:Nord 64 grader 11,000 minutter   Øst 009 grader 44,000 minutterNord 64 grader 14,000 minutter   Øst 009 grader 50,000 minutterNord 64 grader 14,000 minutter   Øst 009 grader 54,000 minutterNord 64 grader 11,000 minutter   Øst 009 grader 47,000 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Almenningen i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 64 grader 11,000 minutter   Øst 009 grader 44,000 minutter
+2. Nord 64 grader 14,000 minutter   Øst 009 grader 50,000 minutter
+3. Nord 64 grader 14,000 minutter   Øst 009 grader 54,000 minutter
+4. Nord 64 grader 11,000 minutter   Øst 009 grader 47,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 19. Sløren i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Sløren i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 58,000 minutter   Øst 009 grader 13,000 minutterNord 64 grader 00,000 minutter   Øst 009 grader 13,000 minutterNord 64 grader 00,000 minutter   Øst 009 grader 17,000 minutterNord 63 grader 58,000 minutter   Øst 009 grader 17,000 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Sløren i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 58,000 minutter   Øst 009 grader 13,000 minutter
+2. Nord 64 grader 00,000 minutter   Øst 009 grader 13,000 minutter
+3. Nord 64 grader 00,000 minutter   Øst 009 grader 17,000 minutter
+4. Nord 63 grader 58,000 minutter   Øst 009 grader 17,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 20. Frohavet i Trøndelag,
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Frohavet i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 43,000 minutter   Øst 008 grader 58,000 minutterNord 63 grader 45,500 minutter   Øst 008 grader 58,000 minutterNord 63 grader 45,500 minutter   Øst 009 grader 03,000 minutterNord 63 grader 43,000 minutter   Øst 009 grader 03,000 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Frohavet i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 43,000 minutter   Øst 008 grader 58,000 minutter
+2. Nord 63 grader 45,500 minutter   Øst 008 grader 58,000 minutter
+3. Nord 63 grader 45,500 minutter   Øst 009 grader 03,000 minutter
+4. Nord 63 grader 43,000 minutter   Øst 009 grader 03,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 21. Ørnklakken i Trøndelag
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ørnklakken i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 47,000 minutter   Øst 008 grader 06,000 minutterNord 63 grader 49,000 minutter   Øst 008 grader 06,000 minutterNord 63 grader 49,000 minutter   Øst 008 grader 10,000 minutterNord 63 grader 47,000 minutter   Øst 008 grader 10,000 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ørnklakken i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 47,000 minutter   Øst 008 grader 06,000 minutter
+2. Nord 63 grader 49,000 minutter   Øst 008 grader 06,000 minutter
+3. Nord 63 grader 49,000 minutter   Øst 008 grader 10,000 minutter
+4. Nord 63 grader 47,000 minutter   Øst 008 grader 10,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 ## § 22. Grunnbakk i Møre og Romsdal
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Grunnbakk i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 13,000 minutter   Øst 007 grader 12,000 minutterNord 63 grader 13,000 minutter   Øst 007 grader 22,000 minutterNord 63 grader 09,000 minutter   Øst 007 grader 22,000 minutterNord 63 grader 09,000 minutter   Øst 007 grader 12,000 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Grunnbakk i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 13,000 minutter   Øst 007 grader 12,000 minutter
+2. Nord 63 grader 13,000 minutter   Øst 007 grader 22,000 minutter
+3. Nord 63 grader 09,000 minutter   Øst 007 grader 22,000 minutter
+4. Nord 63 grader 09,000 minutter   Øst 007 grader 12,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Endret ved forskrift [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 23).
 
 ## § 23. Flåskallen i Møre og Romsdal
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Flåskallen i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 32,4 minutter   Øst 005 grader 32,0 minutterNord 62 grader 33,0 minutter   Øst 005 grader 32,0 minutterNord 62 grader 33,2 minutter   Øst 005 grader 36,5 minutterNord 62 grader 32,5 minutter   Øst 005 grader 36,4 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Flåskallen i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 62 grader 32,4 minutter   Øst 005 grader 32,0 minutter
+2. Nord 62 grader 33,0 minutter   Øst 005 grader 32,0 minutter
+3. Nord 62 grader 33,2 minutter   Øst 005 grader 36,5 minutter
+4. Nord 62 grader 32,5 minutter   Øst 005 grader 36,4 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Endret ved forskrifter [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 26), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 25).
 
 ## § 24. Havfluna i Møre og Romsdal
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Havfluna i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 51,00 minutter   Øst 006 grader 16,50 minutterNord 62 grader 52,20 minutter   Øst 006 grader 17,00 minutterNord 62 grader 52,20 minutter   Øst 006 grader 20,00 minutterNord 62 grader 51,00 minutter   Øst 006 grader 19,50 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Havfluna i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 62 grader 51,00 minutter   Øst 006 grader 16,50 minutter
+2. Nord 62 grader 52,20 minutter   Øst 006 grader 17,00 minutter
+3. Nord 62 grader 52,20 minutter   Øst 006 grader 20,00 minutter
+4. Nord 62 grader 51,00 minutter   Øst 006 grader 19,50 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 29), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 28), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 27), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 26).
 
 ## § 25. Lauvneset i Møre og Romsdal
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Lauvneset i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 58,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 39,0 minutterNord 62 grader 58,0 minutter   Øst 006 grader 39,0 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Lauvneset i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 62 grader 58,0 minutter   Øst 006 grader 27,0 minutter
+2. Nord 63 grader 01,0 minutter   Øst 006 grader 27,0 minutter
+3. Nord 63 grader 01,0 minutter   Øst 006 grader 39,0 minutter
+4. Nord 62 grader 58,0 minutter   Øst 006 grader 39,0 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 30), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 29), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 28), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 27).
 
 ## § 26. Ona og Klakken i Møre og Romsdal
 
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ona og Klakken i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 56,30 minutter   Øst 006 grader 41,30 minutterNord 62 grader 57,10 minutter   Øst 006 grader 42,40 minutterNord 62 grader 56,80 minutter   Øst 006 grader 43,60 minutterNord 62 grader 55,80 minutter   Øst 006 grader 44,50 minutterNord 62 grader 55,40 minutter   Øst 006 grader 43,80 minutter.Herfra videre til posisjon 1.
+Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ona og Klakken i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 62 grader 56,30 minutter   Øst 006 grader 41,30 minutter
+2. Nord 62 grader 57,10 minutter   Øst 006 grader 42,40 minutter
+3. Nord 62 grader 56,80 minutter   Øst 006 grader 43,60 minutter
+4. Nord 62 grader 55,80 minutter   Øst 006 grader 44,50 minutter
+5. Nord 62 grader 55,40 minutter   Øst 006 grader 43,80 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 31), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 30), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 29), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 28).
 
 ## § 27. Kleivklakken i Møre og Romsdal
 
-Det er forbudt å fiske etter sei med not i et område på Kleivklakken i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 7,500 minutter. Øst 007 grader 7,000 minutterNord 63 grader 9,000 minutter. Øst 007 grader 7,000 minutterNord 63 grader 9,000 minutter. Øst 007 grader 13,000 minutterNord 63 grader 7,500 minutter. Øst 007 grader 13,000 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Kleivklakken i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 7,500 minutter. Øst 007 grader 7,000 minutter
+2. Nord 63 grader 9,000 minutter. Øst 007 grader 7,000 minutter
+3. Nord 63 grader 9,000 minutter. Øst 007 grader 13,000 minutter
+4. Nord 63 grader 7,500 minutter. Øst 007 grader 13,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Tilføyd ved forskrift [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115).
 
 ## § 28. Griptaran i Møre og Romsdal
 
-Det er forbudt å fiske etter sei med not i et område på Griptaran i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 13,800 minutter. Øst 007 grader 6,500 minutter.Nord 63 grader 18,000 minutter. Øst 007 grader 5,400 minutter.Nord 63 grader 21,000 minutter. Øst 007 grader 20,800 minutter.Nord 63 grader 20,700 minutter. Øst 007 grader 28,000 minutter.Nord 63 grader 14,900 minutter. Øst 007 grader 26,600 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Griptaran i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 13,800 minutter. Øst 007 grader 6,500 minutter.
+2. Nord 63 grader 18,000 minutter. Øst 007 grader 5,400 minutter.
+3. Nord 63 grader 21,000 minutter. Øst 007 grader 20,800 minutter.
+4. Nord 63 grader 20,700 minutter. Øst 007 grader 28,000 minutter.
+5. Nord 63 grader 14,900 minutter. Øst 007 grader 26,600 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Tilføyd ved forskrift [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170).
 
 ## § 29. Turiskallen i Møre og Romsdal
 
-Etter dette er det forbudt å fiske etter sei med not i et område på Turiskallen i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 57,700 minutter. Øst 006 grader 44,700 minutter.Nord 63 grader 2,200 minutter. Øst 006 grader 43,200 minutter.Nord 63 grader 3,200 minutter. Øst 006 grader 53,900 minutter.Nord 62 grader 58,000 minutter. Øst 006 grader 50,400 minutter.Herfra videre til posisjon 1.
+Etter dette er det forbudt å fiske etter sei med not i et område på Turiskallen i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 62 grader 57,700 minutter. Øst 006 grader 44,700 minutter.
+2. Nord 63 grader 2,200 minutter. Øst 006 grader 43,200 minutter.
+3. Nord 63 grader 3,200 minutter. Øst 006 grader 53,900 minutter.
+4. Nord 62 grader 58,000 minutter. Øst 006 grader 50,400 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Tilføyd ved forskrift [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170).
 
 ## § 30. Finnskallen i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Finnskallen i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 45,000 minutter. Øst 029 grader 45,000 minutter.Nord 70 grader 49,000 minutter. Øst 029 grader 45,000 minutter.Nord 70 grader 47,000 minutter. Øst 030 grader 07,000 minutter.Nord 70 grader 43,000 minutter. Øst 030 grader 07,000 minutter.Herfra videre til posisjon 1.
+Det er forbudt å fiske etter sei med not i et område på Finnskallen i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 70 grader 45,000 minutter. Øst 029 grader 45,000 minutter.
+2. Nord 70 grader 49,000 minutter. Øst 029 grader 45,000 minutter.
+3. Nord 70 grader 47,000 minutter. Øst 030 grader 07,000 minutter.
+4. Nord 70 grader 43,000 minutter. Øst 030 grader 07,000 minutter.
+
+   Herfra videre til posisjon 1.
 
 > Tilføyd ved forskrift [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513).
 

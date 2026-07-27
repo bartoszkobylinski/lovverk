@@ -24,7 +24,17 @@ eu_basis: []
 
 ## § 1.
 
-Har pensjonisten flere pensjons- og trygdeytelser som omfattes av samordningsloven, foretas samordning i følgende rekkefølge:Samordning av tjenestepensjoner innbyrdes.Samordning av pensjoner fra personskadetrygd innbyrdes.Samordning av tjenestepensjon med pensjon fra personskadetrygd.Samordning av pensjon fra tjenestepensjonsordning med folketrygdens ytelser.Samordningen foretas i denne rekkefølge i den grad folketrygdens ytelser består av disse elementene: Tilleggspensjon (inkludert ventetillegg av denne), særtillegg og grunnpensjon (inkludert ventetillegg av denne). Basispensjonstillegg etter [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) tredje ledd, tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden samordnes som særtillegg.Samordning av pensjon fra personskadetrygd med folketrygdens ytelser.Samordningen foretas i denne rekkefølge i den grad folketrygdens ytelser består av disse elementene: Tilleggspensjon (inkludert ventetillegg av denne), særtillegg og grunnpensjon (inkludert ventetillegg av denne). Basispensjonstillegg etter [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) tredje ledd, tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden samordnes som særtillegg.
+Har pensjonisten flere pensjons- og trygdeytelser som omfattes av samordningsloven, foretas samordning i følgende rekkefølge:
+
+1. 1. Samordning av tjenestepensjoner innbyrdes.
+   2. Samordning av pensjoner fra personskadetrygd innbyrdes.
+2. Samordning av tjenestepensjon med pensjon fra personskadetrygd.
+3. Samordning av pensjon fra tjenestepensjonsordning med folketrygdens ytelser.
+
+   Samordningen foretas i denne rekkefølge i den grad folketrygdens ytelser består av disse elementene: Tilleggspensjon (inkludert ventetillegg av denne), særtillegg og grunnpensjon (inkludert ventetillegg av denne). Basispensjonstillegg etter [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) tredje ledd, tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden samordnes som særtillegg.
+4. Samordning av pensjon fra personskadetrygd med folketrygdens ytelser.
+
+   Samordningen foretas i denne rekkefølge i den grad folketrygdens ytelser består av disse elementene: Tilleggspensjon (inkludert ventetillegg av denne), særtillegg og grunnpensjon (inkludert ventetillegg av denne). Basispensjonstillegg etter [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) tredje ledd, tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden samordnes som særtillegg.
 
 > Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
 

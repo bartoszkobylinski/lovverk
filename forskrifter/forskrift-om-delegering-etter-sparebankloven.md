@@ -24,4 +24,7 @@ eu_basis: []
 
 ## I
 
-– – –Lov 15 mai 1970 nr. 29 endringer i [lov 24. mai 1961 nr. 1](lov/1961-05-24-1) om sparebanker trer i kraft 1. oktober 1970.Finans- og tolldepartementet har fullmakt til å avgjøre saker etter lov om sparebanker § 47 første ledd, § 47 tredje ledd, § 50 annet ledd, § 53 første ledd, § 53 annet ledd og å gi nærmere regler etter samme lovs § 54 annet ledd. De tilsvarende fullmakter gitt ved kgl.res. 22 september 1961, faller samtidig bort.
+– – –
+
+1. Lov 15 mai 1970 nr. 29 endringer i [lov 24. mai 1961 nr. 1](lov/1961-05-24-1) om sparebanker trer i kraft 1. oktober 1970.
+2. Finans- og tolldepartementet har fullmakt til å avgjøre saker etter lov om sparebanker § 47 første ledd, § 47 tredje ledd, § 50 annet ledd, § 53 første ledd, § 53 annet ledd og å gi nærmere regler etter samme lovs § 54 annet ledd. De tilsvarende fullmakter gitt ved kgl.res. 22 september 1961, faller samtidig bort.

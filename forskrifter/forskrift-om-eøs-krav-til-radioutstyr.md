@@ -15,7 +15,7 @@ xml_hash: "2c1698230f78e32849339803c28674c6d368d2192e485e3f308498f2a945f5d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,13 @@ Formålet med forskriften er å sikre at det indre marked fungerer, og at radiou
 
 ### § 2. Virkeområde
 
-Forskriften gjelder krav til radioutstyr som definert i [§ 3](forskrift/2016-04-15-377/§3), men likevel ikkeutstyr regulert av [forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyrUtstyr regulert av [forskrift 30. august 2016 nr. 1042 om skipsutstyr](forskrift/2016-08-30-1042)utstyr tillatt brukt etter [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens med mindre utstyret er gjort tilgjengelig på markedet. Byggesett for radioamatører eller utstyr som er gjort tilgjengelig på markedet og bygges av radioamatør til bruk for radioamatører og utstyr som er bygget av radioamatør for eksperimentelle og vitenskapelige formål i forbindelse med amatørradio regnes ikke som utstyr som er gjort tilgjengelig på markedetspesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformålradioutstyr som kun benyttes for å ivareta rikets eller annen offentlig sikkerhet, kun benyttes av Forsvaret, eller kun benyttes for statens tiltak på det strafferettslige området.
+Forskriften gjelder krav til radioutstyr som definert i [§ 3](forskrift/2016-04-15-377/§3), men likevel ikke
+
+1. utstyr regulert av [forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyr
+2. Utstyr regulert av [forskrift 30. august 2016 nr. 1042 om skipsutstyr](forskrift/2016-08-30-1042)
+3. utstyr tillatt brukt etter [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens med mindre utstyret er gjort tilgjengelig på markedet. Byggesett for radioamatører eller utstyr som er gjort tilgjengelig på markedet og bygges av radioamatør til bruk for radioamatører og utstyr som er bygget av radioamatør for eksperimentelle og vitenskapelige formål i forbindelse med amatørradio regnes ikke som utstyr som er gjort tilgjengelig på markedet
+4. spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål
+5. radioutstyr som kun benyttes for å ivareta rikets eller annen offentlig sikkerhet, kun benyttes av Forsvaret, eller kun benyttes for statens tiltak på det strafferettslige området.
 
 På Svalbard kan det, for radioutstyr som omfattes av forskriften, alternativt gis tillatelse etter [ekomloven § 13-1 tredje ledd](lov/2024-12-13-76/§13-1/ledd/3).
 
@@ -40,7 +46,30 @@ På Svalbard kan det, for radioutstyr som omfattes av forskriften, alternativt g
 
 ### § 3. Definisjoner
 
-I forskriften menes med*radioutstyr*: et elektrisk eller elektronisk produkt, som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse*radiokommunikasjon:* kommunikasjon ved hjelp av radiobølger*radiobestemmelse:* bestemmelse av en gjenstands posisjon, hastighet og andre egenskaper eller innhenting av informasjon om disse parameterne, ved hjelp av utbredelsesegenskapene til radiobølger*radiobølger:* elektromagnetiske bølger med frekvenser på under 3 000 GHz, som utbredes i fritt rom*elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere et utstyrs funksjonalitet. En elektromagnetisk forstyrrelse kan eksempelvis være elektromagnetisk støy, et uønsket signal eller en endring i selve utbredelsesmediet*gjøre tilgjengelig på markedet:* enhver levering av et radioutstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre et radioutstyr tilgjengelig i EØS for første gang*sette i drift:* første gang radioutstyret tas i bruk i EØS av sluttbrukeren*produsent:* enhver fysisk eller juridisk person som produserer et radioutstyr, eller som får et radioutstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke*autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et radioutstyr fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et radioutstyr tilgjengelig på markedet*markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et radioutstyr skal oppfylle*harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk*samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene til radioutstyr i forskriften her er oppfylt*teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et radioutstyr som allerede er gjort tilgjengelig for sluttbrukeren*tilbaketrekking:* ethvert tiltak med sikte på å hindre at et radioutstyr i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at radioutstyret oppfyller gjeldende krav fastsatt i EØS-regelverket*elektromagnetisk kompatibilitet:* den evne et radioutstyr har til å fungere tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptabel elektromagnetisk forstyrrelse for annet utstyr i dette miljøet*sluttbruker:* enhver fysisk eller juridisk person som er bosatt eller etablert i EØS-området, og som et produkt har vært gjort tilgjengelig for enten som forbruker utenfor enhver handel, virksomhet, håndverk eller yrke eller som profesjonell sluttbruker i tilknytning til sitt industrielle eller profesjonelle virke.
+I forskriften menes med
+
+1. *radioutstyr*: et elektrisk eller elektronisk produkt, som enten alene eller sammen med ekstrautstyr, for eksempel en antenne, tilsiktet utstråler eller mottar radiobølger for radiokommunikasjon eller radiobestemmelse
+2. *radiokommunikasjon:* kommunikasjon ved hjelp av radiobølger
+3. *radiobestemmelse:* bestemmelse av en gjenstands posisjon, hastighet og andre egenskaper eller innhenting av informasjon om disse parameterne, ved hjelp av utbredelsesegenskapene til radiobølger
+4. *radiobølger:* elektromagnetiske bølger med frekvenser på under 3 000 GHz, som utbredes i fritt rom
+5. *elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere et utstyrs funksjonalitet. En elektromagnetisk forstyrrelse kan eksempelvis være elektromagnetisk støy, et uønsket signal eller en endring i selve utbredelsesmediet
+6. *gjøre tilgjengelig på markedet:* enhver levering av et radioutstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+7. *bringe i omsetning:* gjøre et radioutstyr tilgjengelig i EØS for første gang
+8. *sette i drift:* første gang radioutstyret tas i bruk i EØS av sluttbrukeren
+9. *produsent:* enhver fysisk eller juridisk person som produserer et radioutstyr, eller som får et radioutstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke
+10. *autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+11. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et radioutstyr fra en tredjestat i omsetning i EØS
+12. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et radioutstyr tilgjengelig på markedet
+13. *markedsdeltakere:* produsenten, den autoriserte representanten, importøren og distributøren
+14. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et radioutstyr skal oppfylle
+15. *harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk
+16. *samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene til radioutstyr i forskriften her er oppfylt
+17. *teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet
+18. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et radioutstyr som allerede er gjort tilgjengelig for sluttbrukeren
+19. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at et radioutstyr i omsetningskjeden blir gjort tilgjengelig på markedet
+20. *CE-merking:* merking der produsenten angir at radioutstyret oppfyller gjeldende krav fastsatt i EØS-regelverket
+21. *elektromagnetisk kompatibilitet:* den evne et radioutstyr har til å fungere tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptabel elektromagnetisk forstyrrelse for annet utstyr i dette miljøet
+22. *sluttbruker:* enhver fysisk eller juridisk person som er bosatt eller etablert i EØS-området, og som et produkt har vært gjort tilgjengelig for enten som forbruker utenfor enhver handel, virksomhet, håndverk eller yrke eller som profesjonell sluttbruker i tilknytning til sitt industrielle eller profesjonelle virke.
 
 For øvrig gjelder definisjonene i ekomloven.
 
@@ -66,7 +95,22 @@ Demonstrasjon av radioutstyr er kun tillatt dersom det er truffet tilfredsstille
 
 ### § 6. Grunnleggende krav
 
-Radioutstyr skal være konstruert og produsert slik at detikke forårsaker fare for liv og helse for personer og husdyr og fare for skade på eiendom. Radioutstyret skal sammen med dets enkelte deler være konstruert slik at det kan settes sammen og tilkoples på en korrekt og sikker måte. Radioutstyret skal være konstruert og produsert i samsvar med anerkjent teknologisk praksis for elektrisk sikkerhet, slik at utstyret ved installasjon, vedlikehold og tiltenkt bruk ikke medfører fare som kan være forårsaket av:direkte eller indirekte kontakt med radioutstyrettemperaturer, lysbuer eller strålingikke-elektrisk art som kan skyldes radioutstyretat radioutstyrets isolasjon ikke er tilpasset de forhold som kan forutsesat radioutstyret ikke oppfyller mekaniske kravat radioutstyret ikke kan motstå ikke-mekaniske påvirkninger som kan forutses under de miljømessige forhold som utstyret forventes brukt ioverbelastning og andre påregnelige feil,ikke forårsaker kraftigere elektromagnetiske forstyrrelser enn at radio- og teleterminalutstyr og annet utstyr kan virke som tilsiktet og har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den tilsiktede yteevnen reduseres i uakseptabel grad,hensiktsmessig utnytter frekvensspekteret og støtter effektiv utnyttelse av frekvensspekteret med sikte på å unngå skadelig interferens,sikrer tilgang til nødtjeneste i samsvar med [§ 7](forskrift/2016-04-15-377/§7) til [§ 11a](forskrift/2016-04-15-377/§11a),sikrer beskyttelse av nettet, beskyttelse av personopplysninger og beskyttelse mot svindel i samsvar med [§ 11b](forskrift/2016-04-15-377/§11b),oppfyller krav til felles ladegrensesnitt i samsvar med [§ 11b](forskrift/2016-04-15-377/§11b).
+Radioutstyr skal være konstruert og produsert slik at det
+
+1. ikke forårsaker fare for liv og helse for personer og husdyr og fare for skade på eiendom. Radioutstyret skal sammen med dets enkelte deler være konstruert slik at det kan settes sammen og tilkoples på en korrekt og sikker måte. Radioutstyret skal være konstruert og produsert i samsvar med anerkjent teknologisk praksis for elektrisk sikkerhet, slik at utstyret ved installasjon, vedlikehold og tiltenkt bruk ikke medfører fare som kan være forårsaket av:
+
+   1. direkte eller indirekte kontakt med radioutstyret
+   2. temperaturer, lysbuer eller stråling
+   3. ikke-elektrisk art som kan skyldes radioutstyret
+   4. at radioutstyrets isolasjon ikke er tilpasset de forhold som kan forutses
+   5. at radioutstyret ikke oppfyller mekaniske krav
+   6. at radioutstyret ikke kan motstå ikke-mekaniske påvirkninger som kan forutses under de miljømessige forhold som utstyret forventes brukt i
+   7. overbelastning og andre påregnelige feil,
+2. ikke forårsaker kraftigere elektromagnetiske forstyrrelser enn at radio- og teleterminalutstyr og annet utstyr kan virke som tilsiktet og har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den tilsiktede yteevnen reduseres i uakseptabel grad,
+3. hensiktsmessig utnytter frekvensspekteret og støtter effektiv utnyttelse av frekvensspekteret med sikte på å unngå skadelig interferens,
+4. sikrer tilgang til nødtjeneste i samsvar med [§ 7](forskrift/2016-04-15-377/§7) til [§ 11a](forskrift/2016-04-15-377/§11a),
+5. sikrer beskyttelse av nettet, beskyttelse av personopplysninger og beskyttelse mot svindel i samsvar med [§ 11b](forskrift/2016-04-15-377/§11b),
+6. oppfyller krav til felles ladegrensesnitt i samsvar med [§ 11b](forskrift/2016-04-15-377/§11b).
 
 > Endret ved forskrifter [9 jan 2020 nr. 31](forskrift/2020-01-09-31) (i kraft 17 mars 2022), [21 nov 2023 nr. 1889](forskrift/2023-11-21-1889) (i kraft 1 aug 2024), [17 april 2024 nr. 632](forskrift/2024-04-17-632) (i kraft 28 des 2024).
 
@@ -126,7 +170,9 @@ Kravene i tredje og fjerde ledd gjelder ikke for radioutstyr som er omfattet av 
 
 > Tilføyd ved forskrift [21 nov 2023 nr. 1889](forskrift/2023-11-21-1889) (i kraft 1 aug 2024), endret ved forskrifter [17 april 2024 nr. 632](forskrift/2024-04-17-632) (i kraft 1 aug 2025), [26 aug 2025 nr. 1745](forskrift/2025-08-26-1745).
 
-1 Leketøydirektivet (direktiv [2009/48/EF](eu/32009l0048)), gjennomført i [forskrift 18. november 2013 nr. 1403 om sikkerhet ved leketøy (leketøyforskriften)](forskrift/2013-11-18-1403).2 Se direktiv [(EU) 2019/713](eu/32019l0713) artikkel 2 punkt d.
+1 Leketøydirektivet (direktiv [2009/48/EF](eu/32009l0048)), gjennomført i [forskrift 18. november 2013 nr. 1403 om sikkerhet ved leketøy (leketøyforskriften)](forskrift/2013-11-18-1403).
+
+2 Se direktiv [(EU) 2019/713](eu/32019l0713) artikkel 2 punkt d.
 
 ### § 11c. Krav til felles ladegrensesnitt
 
@@ -162,11 +208,21 @@ Dersom radioutstyret utgjør en risiko, skal produsenten straks melde fra til Na
 
 Produsenten kan ved skriftlig fullmakt gi en autorisert representant i EØS fullmakt til å opptre på vegne av produsenten. Den autoriserte representanten kan ikke gis fullmakt til å påta seg ansvaret for kravene til utarbeidelse av teknisk dokumentasjon i [§ 27](forskrift/2016-04-15-377/§27), eller ansvar for å sikre at radioutstyret er konstruert og produsert i samsvar med de grunnleggende kravene i [§ 6](forskrift/2016-04-15-377/§6).
 
-Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til åstille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble bragt i omsetning,på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at radioutstyret er i samsvar med kravene i forskriften,på anmodning å samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved radioutstyret.
+Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til å
+
+1. stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble bragt i omsetning,
+2. på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at radioutstyret er i samsvar med kravene i forskriften,
+3. på anmodning å samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved radioutstyret.
 
 ### § 14. Importør
 
-Før radioutstyr bringes i omsetning skal importør sikre atprodusenten har utført samsvarsvurdering i samsvar med [kapittel 4](forskrift/2016-04-15-377/kap4),radioutstyret er konstruert slik at det lovlig kan brukes i minst ett land i EØS i samsvar med gjeldende krav til bruk av frekvenser,produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 27](forskrift/2016-04-15-377/§27),radioutstyret er korrekt merket i samsvar med [§ 28](forskrift/2016-04-15-377/§28),radioutstyret har bruksanvisning og sikkerhetsinformasjon i samsvar med kravene i [§ 25](forskrift/2016-04-15-377/§25).
+Før radioutstyr bringes i omsetning skal importør sikre at
+
+1. produsenten har utført samsvarsvurdering i samsvar med [kapittel 4](forskrift/2016-04-15-377/kap4),
+2. radioutstyret er konstruert slik at det lovlig kan brukes i minst ett land i EØS i samsvar med gjeldende krav til bruk av frekvenser,
+3. produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 27](forskrift/2016-04-15-377/§27),
+4. radioutstyret er korrekt merket i samsvar med [§ 28](forskrift/2016-04-15-377/§28),
+5. radioutstyret har bruksanvisning og sikkerhetsinformasjon i samsvar med kravene i [§ 25](forskrift/2016-04-15-377/§25).
 
 Dersom en importør finner ut eller har grunn til å tro at radioutstyr ikke oppfyller de grunnleggende kravene i [§ 6](forskrift/2016-04-15-377/§6), skal han ikke gjøre radioutstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom radioutstyr utgjør en risiko, skal importøren informere produsent og Nasjonal kommunikasjonsmyndighet om dette.
 
@@ -186,7 +242,15 @@ Der importør bringer radioutstyr i omsetning under sitt navn eller varemerke, e
 
 ### § 15. Distributør
 
-Før radioutstyr gjøres tilgjengelig på markedet skal distributøren sikre atradioutstyret er CE-merket i samsvar med [§ 28](forskrift/2016-04-15-377/§28), at det følger med samsvarserklæring etter [§ 26](forskrift/2016-04-15-377/§26) og bruksanvisning og sikkerhetsinformasjon slik det fremgår av [§ 25](forskrift/2016-04-15-377/§25),produsent og importør har oppfylt krav omat radioutstyret er konstruert slik at det lovlig kan brukes i minst et land i EØS i samsvar med gjeldende krav til bruk av frekvenserat radioutstyret som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 28](forskrift/2016-04-15-377/§28) annet ledd som gjør det mulig å identifisere utstyretat radioutstyret er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 28](forskrift/2016-04-15-377/§28) første leddinformasjon til bruker i [§ 25](forskrift/2016-04-15-377/§25).
+Før radioutstyr gjøres tilgjengelig på markedet skal distributøren sikre at
+
+1. radioutstyret er CE-merket i samsvar med [§ 28](forskrift/2016-04-15-377/§28), at det følger med samsvarserklæring etter [§ 26](forskrift/2016-04-15-377/§26) og bruksanvisning og sikkerhetsinformasjon slik det fremgår av [§ 25](forskrift/2016-04-15-377/§25),
+2. produsent og importør har oppfylt krav om
+
+   1. at radioutstyret er konstruert slik at det lovlig kan brukes i minst et land i EØS i samsvar med gjeldende krav til bruk av frekvenser
+   2. at radioutstyret som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 28](forskrift/2016-04-15-377/§28) annet ledd som gjør det mulig å identifisere utstyret
+   3. at radioutstyret er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 28](forskrift/2016-04-15-377/§28) første ledd
+   4. informasjon til bruker i [§ 25](forskrift/2016-04-15-377/§25).
 
 Der en distributør finner ut eller har grunn til å tro at radioutstyr ikke oppfyller de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6) skal han ikke gjøre radioutstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom radioutstyret utgjør en risiko, skal distributøren informere produsent og Nasjonal kommunikasjonsmyndighet.
 
@@ -208,11 +272,22 @@ Radioutstyr som er i samsvar med hele eller deler av harmoniserte standarder som
 
 ### § 17. Prosedyrer for samsvarsvurdering
 
-Produsent skal dokumentere at de grunnleggende kravene i [§ 6 første ledd bokstav a](forskrift/2016-04-15-377/§6/ledd/1/bokstav/a), [b](forskrift/2016-04-15-377/§6/ledd/1/bokstav/b) og [f](forskrift/2016-04-15-377/§6/ledd/1/bokstav/f), er oppfylt ved samsvarsvurdering på én av følgende måter:modul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 18](forskrift/2016-04-15-377/§18)modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
+Produsent skal dokumentere at de grunnleggende kravene i [§ 6 første ledd bokstav a](forskrift/2016-04-15-377/§6/ledd/1/bokstav/a), [b](forskrift/2016-04-15-377/§6/ledd/1/bokstav/b) og [f](forskrift/2016-04-15-377/§6/ledd/1/bokstav/f), er oppfylt ved samsvarsvurdering på én av følgende måter:
 
-Der produsenten ved vurdering av om radioutstyret oppfyller de grunnleggende kravene i [§ 6 første ledd bokstav c](forskrift/2016-04-15-377/§6/ledd/1/bokstav/c), [d](forskrift/2016-04-15-377/§6/ledd/1/bokstav/d) og [e](forskrift/2016-04-15-377/§6/ledd/1/bokstav/e), anvender harmoniserte standarder som er publisert i Den europeiske unions tidende skal én av følgende prosedyrer følges:modul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 18](forskrift/2016-04-15-377/§18)modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
+1. modul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 18](forskrift/2016-04-15-377/§18)
+2. modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)
+3. modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
 
-Der produsenten ved vurdering av om radioutstyret oppfyller de grunnleggende kravene i [§ 6 første ledd bokstav c](forskrift/2016-04-15-377/§6/ledd/1/bokstav/c), [d](forskrift/2016-04-15-377/§6/ledd/1/bokstav/d) og [e](forskrift/2016-04-15-377/§6/ledd/1/bokstav/e), ikke anvender harmoniserte standarder som er publisert i Den europeiske unions tidende eller kun anvender deler av slike standarder eller hvor harmoniserte standarder ikke finnes skal én av følgende prosedyrer følges:modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
+Der produsenten ved vurdering av om radioutstyret oppfyller de grunnleggende kravene i [§ 6 første ledd bokstav c](forskrift/2016-04-15-377/§6/ledd/1/bokstav/c), [d](forskrift/2016-04-15-377/§6/ledd/1/bokstav/d) og [e](forskrift/2016-04-15-377/§6/ledd/1/bokstav/e), anvender harmoniserte standarder som er publisert i Den europeiske unions tidende skal én av følgende prosedyrer følges:
+
+1. modul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 18](forskrift/2016-04-15-377/§18)
+2. modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)
+3. modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
+
+Der produsenten ved vurdering av om radioutstyret oppfyller de grunnleggende kravene i [§ 6 første ledd bokstav c](forskrift/2016-04-15-377/§6/ledd/1/bokstav/c), [d](forskrift/2016-04-15-377/§6/ledd/1/bokstav/d) og [e](forskrift/2016-04-15-377/§6/ledd/1/bokstav/e), ikke anvender harmoniserte standarder som er publisert i Den europeiske unions tidende eller kun anvender deler av slike standarder eller hvor harmoniserte standarder ikke finnes skal én av følgende prosedyrer følges:
+
+1. modul B og C – samsvarsprosedyre ved EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 19](forskrift/2016-04-15-377/§19) og [§ 20](forskrift/2016-04-15-377/§20)
+2. modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring i samsvar med [§ 21](forskrift/2016-04-15-377/§21) – § 24.
 
 Samsvarsvurderingen skal ta hensyn til alle tilsiktede driftsforhold og for de grunnleggende kravene til sikkerhet i [§ 6](forskrift/2016-04-15-377/§6) første ledd bokstav a, skal det også tas hensyn til forhold som med rimelighet kan forutses. Hvor radioutstyret kan konfigureres på ulike måter skal samsvarsvurderingen bekrefte at radioutstyret oppfyller de grunnleggende kravene i [§ 6](forskrift/2016-04-15-377/§6) i alle konfigurasjoner.
 
@@ -220,7 +295,12 @@ Samsvarsvurderingen skal ta hensyn til alle tilsiktede driftsforhold og for de g
 
 ### § 18. Modul A – samsvarsprosedyre ved intern produksjonskontroll
 
-Når produsent anvender samsvarsprosedyre ved intern produksjonskontroll for å erklære at et radioutstyr oppfyller de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6) skal produsenten:utarbeide teknisk dokumentasjon i henhold til forskriften [§ 27](forskrift/2016-04-15-377/§27)besørge en forsvarlig produksjonsprosess for å sikre at radioutstyret er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonenprodusent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 28 på radioutstyr som oppfyller kravene i forskriftenprodusent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 26](forskrift/2016-04-15-377/§26) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at radioutstyret ble brakt i omsetning.
+Når produsent anvender samsvarsprosedyre ved intern produksjonskontroll for å erklære at et radioutstyr oppfyller de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6) skal produsenten:
+
+1. utarbeide teknisk dokumentasjon i henhold til forskriften [§ 27](forskrift/2016-04-15-377/§27)
+2. besørge en forsvarlig produksjonsprosess for å sikre at radioutstyret er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonen
+3. produsent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 28 på radioutstyr som oppfyller kravene i forskriften
+4. produsent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 26](forskrift/2016-04-15-377/§26) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at radioutstyret ble brakt i omsetning.
 
 ### § 19. Modul B – samsvarsprosedyre ved EU-typeprøving
 
@@ -228,7 +308,12 @@ Når produsent anvender samsvarsprosedyre ved EU-typeprøving skal teknisk kontr
 
 Teknisk kontrollorgan skal foreta en vurdering av radioutstyrets tekniske konstruksjon gjennom undersøkelse av teknisk dokumentasjon og dokumentasjon som legges frem i forbindelse med oppdraget. Teknisk kontrollorgan skal ikke foreta vurdering av selve det fysiske radioutstyret. Teknisk kontrollorgan skal utferdige rapport som viser hvilke vurderinger som er gjort og utfallet av undersøkelsen.
 
-Produsent eller dennes autoriserte representant i EØS skal søke teknisk kontrollorgan om å foreta slik vurdering som nevnt i første og annet ledd. Søknaden skal inneholde:navn og adresse til produsent og autorisert representant i EØS dersom denne har fremmet søknadenen skriftlig erklæring om at produsent ikke har søkt andre tekniske kontrollorgan om å foreta samme vurderingteknisk dokumentasjon, herunder analyse og vurdering av risiko, som gjør det mulig å vurdere om radioutstyret oppfyller kravene i forskriften. Den tekniske dokumentasjonen skal inneholde en beskrivelse av gjeldende krav og der det er relevant beskrivelse av radioutstyrets konstruksjon og tiltenkt bruk. Der det er relevant skal den tekniske dokumentasjonen inneholde de opplysninger som fremgår av vedlegg 3underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende, herunder dokumentasjon dersom det for å vise samsvar med kravene i forskriften ikke er anvendt harmoniserte standarder eller det kun er anvendt deler av slike standarder. Slik underlagsdokumentasjon omfatter testresultater fra tester som er utført av produsentens egnede laboratorium, eller andre prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+Produsent eller dennes autoriserte representant i EØS skal søke teknisk kontrollorgan om å foreta slik vurdering som nevnt i første og annet ledd. Søknaden skal inneholde:
+
+1. navn og adresse til produsent og autorisert representant i EØS dersom denne har fremmet søknaden
+2. en skriftlig erklæring om at produsent ikke har søkt andre tekniske kontrollorgan om å foreta samme vurdering
+3. teknisk dokumentasjon, herunder analyse og vurdering av risiko, som gjør det mulig å vurdere om radioutstyret oppfyller kravene i forskriften. Den tekniske dokumentasjonen skal inneholde en beskrivelse av gjeldende krav og der det er relevant beskrivelse av radioutstyrets konstruksjon og tiltenkt bruk. Der det er relevant skal den tekniske dokumentasjonen inneholde de opplysninger som fremgår av vedlegg 3
+4. underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende, herunder dokumentasjon dersom det for å vise samsvar med kravene i forskriften ikke er anvendt harmoniserte standarder eller det kun er anvendt deler av slike standarder. Slik underlagsdokumentasjon omfatter testresultater fra tester som er utført av produsentens egnede laboratorium, eller andre prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 
 Der teknisk kontrollorgan finner at radioutstyrstypen oppfyller kravene i forskriften skal organet utstede EU-typeprøvingssertifikat som inneholder navn og adresse til produsent, konklusjonene fra undersøkelsen, bekreftelse på oppfyllelse av grunnleggende krav, eventuelle betingelser for gyldigheten til sertifikatet og opplysninger som kan identifisere radioutstyrstypen som er vurdert.
 
@@ -252,7 +337,11 @@ Produsent eller dennes autoriserte representant i EØS skal oppbevare EU-typepr�
 
 ### § 20. Modul C – samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll
 
-Når produsent anvender samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll for å erklære at radioutstyr er i samsvar med radioutstyrstypen som fremgår av et EU-typeprøvingssertifikat og oppfyller de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6) skalprodusent besørge en forsvarlig produksjonsprosess for å sikre at radioutstyret er i samsvar med den godkjente radioutstyrstypen beskrevet i EU-typesprøvingsertifikatet og med relevante krav i forskriften,produsent eller dennes autoriserte representant i EØS påføre CE-merking i henhold til § 28 på radioutstyr som oppfyller kravene i forskriften,produsent eller dennes autoriserte representant i EØS utstede samsvarserklæring i henhold til [§ 26](forskrift/2016-04-15-377/§26) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning. I samsvarserklæringen skal det angis hvilken radioutstyrstype den er utarbeidet for.
+Når produsent anvender samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll for å erklære at radioutstyr er i samsvar med radioutstyrstypen som fremgår av et EU-typeprøvingssertifikat og oppfyller de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6) skal
+
+1. produsent besørge en forsvarlig produksjonsprosess for å sikre at radioutstyret er i samsvar med den godkjente radioutstyrstypen beskrevet i EU-typesprøvingsertifikatet og med relevante krav i forskriften,
+2. produsent eller dennes autoriserte representant i EØS påføre CE-merking i henhold til § 28 på radioutstyr som oppfyller kravene i forskriften,
+3. produsent eller dennes autoriserte representant i EØS utstede samsvarserklæring i henhold til [§ 26](forskrift/2016-04-15-377/§26) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning. I samsvarserklæringen skal det angis hvilken radioutstyrstype den er utarbeidet for.
 
 > Endret ved [forskrift 7 aug 2018 nr. 1224](forskrift/2018-08-07-1224) (i kraft 8 aug 2018).
 
@@ -262,7 +351,15 @@ Når produsent anvender samsvarsprosedyre ved full kvalitetssikring for å erkl�
 
 Produsent skal nytte et godkjent kvalitetssystem for konstruksjon, produksjon, sluttkontroll og måling i samsvar med tredje ledd og skal være underlagt kontroll av teknisk kontrollorgan i samsvar med [§ 23](forskrift/2016-04-15-377/§23).
 
-Kvalitetssystemet skal sikre at radioutstyret er i samsvar med forskriften. Alle elementer, krav og bestemmelser produsenten har fulgt, skal dokumenteres systematisk ved skriftlige retningslinjer, rutiner og instruksjoner. Dokumentasjonen for systemet skal sikre en ensartet tolkning av kvalitetstiltak og rutiner som kvalitetsprogrammer, planer, håndbøker og dokumenter. Den skal spesielt gi en god beskrivelse avkvalitetsmål, organisasjonsstruktur og ledelsens ansvar og myndighet når det gjelder konstruksjons- og produktkvalitet,tekniske konstruksjonsspesifikasjoner og standarder som blir brukt, og når harmoniserte standarder eller tekniske spesifikasjoner ikke benyttes fullt ut, virkemidlene som blir brukt for å sikre at de grunnleggende krav blir oppfylt,metodene for kontroll og verifisering av konstruksjon, prosesser og systematiske tiltak som skal benyttes ved konstruksjon av utstyr i den aktuelle produktkategorien,tilhørende metoder for produksjon, kvalitetskontroll og kvalitetssikring og prosedyrer og systematiske tiltak som blir brukt,målinger og undersøkelser som blir utført før, under og etter produksjonen, hyppigheten av disse, og resultater av målinger utført før produksjonen,kvalitetsregistre som inspeksjonsrapporter, måledata, kalibreringsdata, rapporter om kvalifikasjonene til berørt personell o.l.,metodene for å påse at den fastsatte konstruksjons- og utstyrskvalitet oppnås, og at kvalitetssystemet fungerer effektivt.
+Kvalitetssystemet skal sikre at radioutstyret er i samsvar med forskriften. Alle elementer, krav og bestemmelser produsenten har fulgt, skal dokumenteres systematisk ved skriftlige retningslinjer, rutiner og instruksjoner. Dokumentasjonen for systemet skal sikre en ensartet tolkning av kvalitetstiltak og rutiner som kvalitetsprogrammer, planer, håndbøker og dokumenter. Den skal spesielt gi en god beskrivelse av
+
+1. kvalitetsmål, organisasjonsstruktur og ledelsens ansvar og myndighet når det gjelder konstruksjons- og produktkvalitet,
+2. tekniske konstruksjonsspesifikasjoner og standarder som blir brukt, og når harmoniserte standarder eller tekniske spesifikasjoner ikke benyttes fullt ut, virkemidlene som blir brukt for å sikre at de grunnleggende krav blir oppfylt,
+3. metodene for kontroll og verifisering av konstruksjon, prosesser og systematiske tiltak som skal benyttes ved konstruksjon av utstyr i den aktuelle produktkategorien,
+4. tilhørende metoder for produksjon, kvalitetskontroll og kvalitetssikring og prosedyrer og systematiske tiltak som blir brukt,
+5. målinger og undersøkelser som blir utført før, under og etter produksjonen, hyppigheten av disse, og resultater av målinger utført før produksjonen,
+6. kvalitetsregistre som inspeksjonsrapporter, måledata, kalibreringsdata, rapporter om kvalifikasjonene til berørt personell o.l.,
+7. metodene for å påse at den fastsatte konstruksjons- og utstyrskvalitet oppnås, og at kvalitetssystemet fungerer effektivt.
 
 Teknisk kontrollorgan plikter å informere Digitaliserings- og forvaltningsdepartementet om godkjenninger og tilbaketrekkinger av kvalitetssystemer som de har gjort, og skal regelmessig eller på forespørsel stille til rådighet for Digitaliserings- og forvaltningsdepartementet fortegnelse over kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.
 
@@ -272,7 +369,12 @@ Teknisk kontrollorgan skal uoppfordret informere andre tekniske kontrollorgan om
 
 ### § 22. Modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring – teknisk kontrollorgan
 
-Produsent som nytter samsvarsprosedyre etter [§ 21](forskrift/2016-04-15-377/§21), skal søke teknisk kontrollorgan om vurdering av kvalitetssystem. Søknaden skal inneholde:navn og adresse til produsent. Der søknaden er fremmet av produsentens autoriserte representant i EØS skal også dennes navn og adresse oppgis,teknisk dokumentasjon i henhold til [§ 27](forskrift/2016-04-15-377/§27) for hver utstyrstype som skal produseres,dokumentasjon av kvalitetssystemet i samsvar med [§ 21](forskrift/2016-04-15-377/§21),skriftlig erklæring om at ikke samme søknad er rettet mot andre tekniske kontrollorgan.
+Produsent som nytter samsvarsprosedyre etter [§ 21](forskrift/2016-04-15-377/§21), skal søke teknisk kontrollorgan om vurdering av kvalitetssystem. Søknaden skal inneholde:
+
+1. navn og adresse til produsent. Der søknaden er fremmet av produsentens autoriserte representant i EØS skal også dennes navn og adresse oppgis,
+2. teknisk dokumentasjon i henhold til [§ 27](forskrift/2016-04-15-377/§27) for hver utstyrstype som skal produseres,
+3. dokumentasjon av kvalitetssystemet i samsvar med [§ 21](forskrift/2016-04-15-377/§21),
+4. skriftlig erklæring om at ikke samme søknad er rettet mot andre tekniske kontrollorgan.
 
 Teknisk kontrollorgan skal vurdere om kvalitetssystemet tilfredsstiller kravene i [§ 21](forskrift/2016-04-15-377/§21). Vurderingen skal foretas med bruk av minst én person med erfaring i å bedømme utstyrsteknologien søknaden gjelder, og omfatte stedlig kontroll av anlegget til produsent. Kravene anses oppfylt når systemet er i samsvar med spesifikasjoner i relevant harmonisert standard. Produsent eller dennes autoriserte representant i EØS skal underrettes om resultatet av vurderingen med konklusjon fra undersøkelser og begrunnelse for resultatet.
 
@@ -286,7 +388,11 @@ Produsent skal underrettes om resultatet av vurderingen med konklusjon fra under
 
 ### § 23. Modul H – samsvarsprosedyre på grunnlag av full kvalitetssikring – ansvar for kontroll
 
-Produsent som nytter samsvarsprosedyre etter [§ 21](forskrift/2016-04-15-377/§21), skal gi teknisk kontrollorgan tilgang til lokaler for konstruksjon, produksjon, inspeksjon, måling og lagring, og gi alle nødvendige opplysninger, særligdokumentasjon av kvalitetssystemet,kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet som analyseresultater, beregninger, målinger o.l.,kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet som inspeksjonsrapporter, måledata, kalibreringsdata, rapporter om kvalifikasjoner til berørt personell o.l.
+Produsent som nytter samsvarsprosedyre etter [§ 21](forskrift/2016-04-15-377/§21), skal gi teknisk kontrollorgan tilgang til lokaler for konstruksjon, produksjon, inspeksjon, måling og lagring, og gi alle nødvendige opplysninger, særlig
+
+1. dokumentasjon av kvalitetssystemet,
+2. kvalitetsregistre som fastsatt i konstruksjonsdelen av kvalitetssystemet som analyseresultater, beregninger, målinger o.l.,
+3. kvalitetsregistre som fastsatt i produksjonsdelen av kvalitetssystemet som inspeksjonsrapporter, måledata, kalibreringsdata, rapporter om kvalifikasjoner til berørt personell o.l.
 
 Teknisk kontrollorgan skal jevnlig gjennomføre kontroll for å sikre at produsent vedlikeholder godkjent kvalitetssystem og oppfyller pliktene som følger av systemet.
 
@@ -366,9 +472,25 @@ Der det ikke finnes akkrediteringssertifikat skal teknisk kontrollorgan legge fr
 
 ### § 30. Krav til teknisk kontrollorgan – organisasjon og personell
 
-Teknisk kontrollorgan skal være en juridisk person og tilfredsstille følgende krav:Teknisk kontrollorgan skal være uavhengig av den organisasjon eller det radioutstyr som vurderes. Dette er likevel ikke til hinder for at teknisk kontrollorgan tilhører en næringslivs- eller yrkesorganisasjon som representerer virksomheter som er involvert i konstruksjon, produksjon, levering, montering, bruk eller vedlikehold av radioutstyret, såfremt det er bevist at det tekniske kontrollorgan er uavhengig og det ikke foreligger interessekonflikter.Øverste ledelse og øvrig personell som er ansvarlig for å utføre samsvarsvurderingen skal ikke være de som konstruerer, produserer, leverer installerer, kjøper, eier, bruker eller vedlikeholder radioutstyret som vurderes eller representant for noen av disse aktørene. Dette er likevel ikke til hinder for personlig bruk av radioutstyr eller bruk som er nødvendig for å kunne utføre samsvarsvurderingen.Øverste ledelse og øvrig personell som er ansvarlig for å utføre samsvarsvurderingen skal ikke være direkte involvert i konstruksjon, produksjon, markedsføring, installering, bruk eller vedlikehold av radioutstyret som vurderes eller representere slike aktører. De skal ikke delta i aktiviteter, herunder rådgivningstjenester, som kan komme i konflikt med uavhengigheten til de vurderinger de skal utføre som teknisk kontrollorgan.Teknisk kontrollorgan skal sikre at aktivitetene til datterselskaper eller underentreprenører ikke påvirker konfidensialiteten, objektiviteten eller upartiskheten til aktiviteter som det tekniske kontrollorganet skal utføre.Teknisk kontrollorgan og dets personell skal utføre tillagte oppgaver med høyeste grad av faglig integritet og skal ha nødvendig teknisk kompetanse på det aktuelle området, og skal unngå påvirkning, særlig av økonomisk art, som kan påvirke bedømmelser eller resultater av samsvarsvurderingsaktiviteter fra personer eller grupper av personer som har interesse av resultatene.Teknisk kontrollorgan skal være i stand til å utføre de samsvarsvurderingsoppgaver som fremgår av [kapittel 4](forskrift/2016-04-15-377/kap4) og som de er utpekt for, uavhengig av om oppgavene utføres av det tekniske kontrollorganet selv eller på vegne av det tekniske kontrollorganet.Teknisk kontrollorgan skal ha beskrivelse av prosedyrer og utstyr som er nødvendig for at administrativt og teknisk arbeid forbundet med de oppgaver de er utpekt for utføres på riktig måte.Teknisk kontrollorgan skal disponere nødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring.Teknisk kontrollorgan skal ha beskrivelse av prosedyrer for utførelse av samsvarsvurderingen for å sikre åpenhet og muligheter for gjentakelse av prosedyrene. Kontrollorganet skal ha innført hensiktsmessige prinsipper og prosedyrer som skiller mellom de oppgaver organet er satt til å utføre og andre former for aktivitet.Teknisk kontrollorgan skal ha prosedyrer som skal sikre at de kan utføre de aktiviteter de er satt til å utføre, hensyntatt virksomhetens størrelse, sektor som det opereres innenfor, struktur, kompleksiteten av aktuell radioutstyrsteknologi og produksjonsprosessens størrelse og seriemessige karakter.
+Teknisk kontrollorgan skal være en juridisk person og tilfredsstille følgende krav:
 
-Personell som skal utføre samsvarsvurderingsoppgaver skal ha:solid teknisk og yrkesrettet utdanning som omfatter alle oppgaver som skal utføres,tilfredsstillende kunnskap om de krav som gjelder for samsvarsvurderingene som skal utføres og nødvendig myndighet til å kunne utføre samsvarsvurderingene,tilfredsstillende kunnskap og forståelse for de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6), relevante harmoniserte standarder, EØS-lovgivning og nasjonal lovgivning,nødvendige kvalifikasjoner til å utarbeide EU-typeprøvingssertifikater, godkjenning av kvalitetsstyringssystemer, registre og rapporter som bekrefter at det er gjort en samsvarsvurdering.
+1. Teknisk kontrollorgan skal være uavhengig av den organisasjon eller det radioutstyr som vurderes. Dette er likevel ikke til hinder for at teknisk kontrollorgan tilhører en næringslivs- eller yrkesorganisasjon som representerer virksomheter som er involvert i konstruksjon, produksjon, levering, montering, bruk eller vedlikehold av radioutstyret, såfremt det er bevist at det tekniske kontrollorgan er uavhengig og det ikke foreligger interessekonflikter.
+2. Øverste ledelse og øvrig personell som er ansvarlig for å utføre samsvarsvurderingen skal ikke være de som konstruerer, produserer, leverer installerer, kjøper, eier, bruker eller vedlikeholder radioutstyret som vurderes eller representant for noen av disse aktørene. Dette er likevel ikke til hinder for personlig bruk av radioutstyr eller bruk som er nødvendig for å kunne utføre samsvarsvurderingen.
+3. Øverste ledelse og øvrig personell som er ansvarlig for å utføre samsvarsvurderingen skal ikke være direkte involvert i konstruksjon, produksjon, markedsføring, installering, bruk eller vedlikehold av radioutstyret som vurderes eller representere slike aktører. De skal ikke delta i aktiviteter, herunder rådgivningstjenester, som kan komme i konflikt med uavhengigheten til de vurderinger de skal utføre som teknisk kontrollorgan.
+4. Teknisk kontrollorgan skal sikre at aktivitetene til datterselskaper eller underentreprenører ikke påvirker konfidensialiteten, objektiviteten eller upartiskheten til aktiviteter som det tekniske kontrollorganet skal utføre.
+5. Teknisk kontrollorgan og dets personell skal utføre tillagte oppgaver med høyeste grad av faglig integritet og skal ha nødvendig teknisk kompetanse på det aktuelle området, og skal unngå påvirkning, særlig av økonomisk art, som kan påvirke bedømmelser eller resultater av samsvarsvurderingsaktiviteter fra personer eller grupper av personer som har interesse av resultatene.
+6. Teknisk kontrollorgan skal være i stand til å utføre de samsvarsvurderingsoppgaver som fremgår av [kapittel 4](forskrift/2016-04-15-377/kap4) og som de er utpekt for, uavhengig av om oppgavene utføres av det tekniske kontrollorganet selv eller på vegne av det tekniske kontrollorganet.
+7. Teknisk kontrollorgan skal ha beskrivelse av prosedyrer og utstyr som er nødvendig for at administrativt og teknisk arbeid forbundet med de oppgaver de er utpekt for utføres på riktig måte.
+8. Teknisk kontrollorgan skal disponere nødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring.
+9. Teknisk kontrollorgan skal ha beskrivelse av prosedyrer for utførelse av samsvarsvurderingen for å sikre åpenhet og muligheter for gjentakelse av prosedyrene. Kontrollorganet skal ha innført hensiktsmessige prinsipper og prosedyrer som skiller mellom de oppgaver organet er satt til å utføre og andre former for aktivitet.
+10. Teknisk kontrollorgan skal ha prosedyrer som skal sikre at de kan utføre de aktiviteter de er satt til å utføre, hensyntatt virksomhetens størrelse, sektor som det opereres innenfor, struktur, kompleksiteten av aktuell radioutstyrsteknologi og produksjonsprosessens størrelse og seriemessige karakter.
+
+Personell som skal utføre samsvarsvurderingsoppgaver skal ha:
+
+1. solid teknisk og yrkesrettet utdanning som omfatter alle oppgaver som skal utføres,
+2. tilfredsstillende kunnskap om de krav som gjelder for samsvarsvurderingene som skal utføres og nødvendig myndighet til å kunne utføre samsvarsvurderingene,
+3. tilfredsstillende kunnskap og forståelse for de grunnleggende kravene i forskriften [§ 6](forskrift/2016-04-15-377/§6), relevante harmoniserte standarder, EØS-lovgivning og nasjonal lovgivning,
+4. nødvendige kvalifikasjoner til å utarbeide EU-typeprøvingssertifikater, godkjenning av kvalitetsstyringssystemer, registre og rapporter som bekrefter at det er gjort en samsvarsvurdering.
 
 Avlønningene til øverste ledelse og personell som er ansvarlig for utførelse av samsvarsvurderingen skal være uavhengig av antall utførte vurderinger eller resultatene av vurderingene.
 
@@ -404,7 +526,12 @@ Der produsenten ikke treffer korrigerende tiltak eller tiltaket ikke har ønsket
 
 ### § 32. Informasjonsplikt for teknisk kontrollorgan
 
-Teknisk kontrollorgan plikter å informere Digitaliserings- og forvaltningsdepartementet om:ethvert avslag, begrensning, midlertidig oppheving og tilbakekall av EU-typeprøvingssertifikat eller godkjennelse av kvalitetssystem,forhold som kan ha innvirkning på omfanget av eller betingelsene for utpekingen,anmodning fra Nasjonal kommunikasjonsmyndighet om opplysninger som gjelder samsvarsvurderingsvirksomhet,på forespørsel, opplysninger om samsvarsvurderingsaktiviteter utført av organet selv og av underleverandør eller datterselskap.
+Teknisk kontrollorgan plikter å informere Digitaliserings- og forvaltningsdepartementet om:
+
+1. ethvert avslag, begrensning, midlertidig oppheving og tilbakekall av EU-typeprøvingssertifikat eller godkjennelse av kvalitetssystem,
+2. forhold som kan ha innvirkning på omfanget av eller betingelsene for utpekingen,
+3. anmodning fra Nasjonal kommunikasjonsmyndighet om opplysninger som gjelder samsvarsvurderingsvirksomhet,
+4. på forespørsel, opplysninger om samsvarsvurderingsaktiviteter utført av organet selv og av underleverandør eller datterselskap.
 
 Teknisk kontrollorgan plikter å informere andre tekniske kontrollorgan som driver samsvarsvurderinger etter forskriften her om negative resultater av samsvarsvurderinger og på forespørsel om positive resultater.
 
@@ -450,16 +577,32 @@ Radioutstyr som er bragt i omsetning før 13. juni 2017 og som omfattes av og op
 
 ### § 39. Endringer i andre forskrifter
 
-Fra den tid forskriften her trer i kraft, gjøres følgende endringerI [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens – – –I [forskrift 15. mars 2002 nr. 276](forskrift/2002-03-15-276) om registrering og krav til innførsel og omsetning av radio-, teleterminal- og nettutstyr – – –I [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr – – –
+Fra den tid forskriften her trer i kraft, gjøres følgende endringer
+
+I [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens – – –
+
+I [forskrift 15. mars 2002 nr. 276](forskrift/2002-03-15-276) om registrering og krav til innførsel og omsetning av radio-, teleterminal- og nettutstyr – – –
+
+I [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr – – –
 
 ## Vedlegg 1. Samsvarserklæring
 
-Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)Radioutstyr (produktnavn, typebetegnelse, parti-, eller serienummer):Navn og adresse til produsent eller produsentens autoriserte representant:Denne samsvarserklæringen er utferdiget under eneansvar av produsenten.Radioutstyret som samsvarserklæres (identifisering av radioutstyret slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer utstyret):Radioutstyret er i samsvar med relevant EU-lovgivning:
-Direktiv [2014/53/EU](eu/32014l0053)
-Annen relevant EØS-lovgivning:Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i [punkt](forskrift/2016-04-15-377/kap5) 5, herunder referanse til nummer, versjon og dato på standardene eller de tekniske spesifikasjonene:Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte EU-typeprøvingssertifikat:Hvor det er relevant, beskrivelse av tilbehør og komponenter, inkludert programvare som gjør at utstyret kan brukes som tiltenkt og som er omfattet av samsvarserklæringen:Supplerende opplysninger:
-Underskrevet for og på vegne av:
-(sted og dato for utstedelse):
-(navn, stilling) (underskrift):
+Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)
+
+1. Radioutstyr (produktnavn, typebetegnelse, parti-, eller serienummer):
+2. Navn og adresse til produsent eller produsentens autoriserte representant:
+3. Denne samsvarserklæringen er utferdiget under eneansvar av produsenten.
+4. Radioutstyret som samsvarserklæres (identifisering av radioutstyret slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer utstyret):
+5. Radioutstyret er i samsvar med relevant EU-lovgivning:
+   Direktiv [2014/53/EU](eu/32014l0053)
+   Annen relevant EØS-lovgivning:
+6. Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i [punkt](forskrift/2016-04-15-377/kap5) 5, herunder referanse til nummer, versjon og dato på standardene eller de tekniske spesifikasjonene:
+7. Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte EU-typeprøvingssertifikat:
+8. Hvor det er relevant, beskrivelse av tilbehør og komponenter, inkludert programvare som gjør at utstyret kan brukes som tiltenkt og som er omfattet av samsvarserklæringen:
+9. Supplerende opplysninger:
+   Underskrevet for og på vegne av:
+   (sted og dato for utstedelse):
+   (navn, stilling) (underskrift):
 
 > Endret ved [forskrift 7 aug 2018 nr. 1224](forskrift/2018-08-07-1224) (i kraft 8 aug 2018).
 
@@ -471,7 +614,21 @@ Samsvarserklæringen i fulltekst er tilgjengelig på følgende internettadresse:
 
 ## Vedlegg 3. Teknisk dokumentasjon
 
-Teknisk dokumentasjon skal minst inneholde følgende opplysninger:Generell beskrivelse av utstyret som inkluderer:Fotografier eller illustrasjoner av ytre elementer, merking og indre utformingProgramvare eller fastvare som påvirker samsvaret med de grunnleggende kravBrukerinformasjon og installasjonsanvisningerKonstruksjons- og produksjonstegninger og oversikt over komponenter, delmontasjer, kretser og andre relevante liknende elementerBeskrivelser og forklaringer som er nødvendig for å forstå tegninger og oversikter som nevnt i bokstav b og bruk av utstyretListe over harmoniserte standarder som er anvendt med referanser til Den Europeiske Unions Tidende. Der slike standarder ikke er anvendt skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder er anvendt skal dokumentasjonen angi hvilke deler som er anvendtKopi av samsvarserklæringenHvor det er anvendt samsvarsvurderingsprosedyre som følger av [§ 19](forskrift/2016-04-15-377/§19) til [§ 21](forskrift/2016-04-15-377/§21) skal den tekniske dokumentasjonen inneholde kopi av EU-typeprøvingssertifikat og vedlegg som er levert av teknisk kontrollorgan som har vært involvert i prosessenResultater fra konstruksjonsberegninger, undersøkelser og andre relevante elementerTestrapporterEn redegjørelse for overholdelse av kravene i forskriften [§ 12](forskrift/2016-04-15-377/§12) femte ledd og om opplysninger i henhold til [§ 25](forskrift/2016-04-15-377/§25) annet ledd fremgår av emballasjen.
+Teknisk dokumentasjon skal minst inneholde følgende opplysninger:
+
+1. Generell beskrivelse av utstyret som inkluderer:
+
+   1. Fotografier eller illustrasjoner av ytre elementer, merking og indre utforming
+   2. Programvare eller fastvare som påvirker samsvaret med de grunnleggende krav
+   3. Brukerinformasjon og installasjonsanvisninger
+2. Konstruksjons- og produksjonstegninger og oversikt over komponenter, delmontasjer, kretser og andre relevante liknende elementer
+3. Beskrivelser og forklaringer som er nødvendig for å forstå tegninger og oversikter som nevnt i bokstav b og bruk av utstyret
+4. Liste over harmoniserte standarder som er anvendt med referanser til Den Europeiske Unions Tidende. Der slike standarder ikke er anvendt skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder er anvendt skal dokumentasjonen angi hvilke deler som er anvendt
+5. Kopi av samsvarserklæringen
+6. Hvor det er anvendt samsvarsvurderingsprosedyre som følger av [§ 19](forskrift/2016-04-15-377/§19) til [§ 21](forskrift/2016-04-15-377/§21) skal den tekniske dokumentasjonen inneholde kopi av EU-typeprøvingssertifikat og vedlegg som er levert av teknisk kontrollorgan som har vært involvert i prosessen
+7. Resultater fra konstruksjonsberegninger, undersøkelser og andre relevante elementer
+8. Testrapporter
+9. En redegjørelse for overholdelse av kravene i forskriften [§ 12](forskrift/2016-04-15-377/§12) femte ledd og om opplysninger i henhold til [§ 25](forskrift/2016-04-15-377/§25) annet ledd fremgår av emballasjen.
 
 > Endret ved [forskrift 7 aug 2018 nr. 1224](forskrift/2018-08-07-1224) (i kraft 8 aug 2018).
 
@@ -480,7 +637,7 @@ Teknisk dokumentasjon skal minst inneholde følgende opplysninger:Generell beskr
 1. Piktogrammet skal utformes som en tabell.
 2. Piktogrammet skal inneholde følgende merke:
 3. Ved siden av eller under merket i nr. 2 skal det opplyses om hvilke land hvor det er begrensninger for å sette radioutstyret i drift eller det er satt krav om autorisasjon for bruk. Informasjonen skal gis som forkortelser på følgende måte:
-Belgia (BE), Bulgaria (BG), Tsjekkia (CZ), Danmark (DK), Tyskland (DE), Estland (EE), Irland (IE), Hellas (EL), Spania (ES), Frankrike (FR), Kroatia (HR), Italia (IT), Kypros (CY), Latvia (LV), Litauen (LT), Luxemburg (LU), Ungarn (HU), Malta (MT), Nederland (NL), Østerrike (AT), Polen (PL), Portugal (PT), Romania (RO), Slovenia (SI), Slovakia (SK), Finland (FI), Sverige (SE), Storbritannina (UK), Norge (NO), Sveits (CH), Liechtenstein (LK) og Island (IS).
+   Belgia (BE), Bulgaria (BG), Tsjekkia (CZ), Danmark (DK), Tyskland (DE), Estland (EE), Irland (IE), Hellas (EL), Spania (ES), Frankrike (FR), Kroatia (HR), Italia (IT), Kypros (CY), Latvia (LV), Litauen (LT), Luxemburg (LU), Ungarn (HU), Malta (MT), Nederland (NL), Østerrike (AT), Polen (PL), Portugal (PT), Romania (RO), Slovenia (SI), Slovakia (SK), Finland (FI), Sverige (SE), Storbritannina (UK), Norge (NO), Sveits (CH), Liechtenstein (LK) og Island (IS).
 4. Piktogrammet og innholdet i dette kan ha ulik utforming (for eksempel farge, fylt eller ikke fylt, linjestørrelse) forutsatt at utformingen er tydelig og leselig.
 5. Eksempler på piktogram:
 
@@ -576,7 +733,10 @@ være slik konstruert at eventuelle tilleggsprotokoller for lading muliggjør fu
 ### Del 2
 Opplysninger om spesifikasjoner for ladeegenskaper og kompatible ladere
 
-For radioutstyr som omfattes av del 1, skal følgende opplysninger angis i samsvar med kravene fastsatt i § 25 fjerde ledd. Opplysningene kan i tillegg gjøres tilgjengelige ved hjelp av QR-koder eller lignende elektroniske løsninger:Når det gjelder alle kategorier eller klasser av radioutstyr som er underlagt kravene fastsatt i del 1, en beskrivelse av kravene til effekt for de kablede ladeenhetene som kan brukes sammen med dette radioutstyret, inkludert den laveste effekten som kreves for å lade radioutstyret, og den høyeste effekten som kreves for å lade radioutstyret ved høyeste ladehastighet uttrykt i watt, ved å vise teksten: «Effekten som leveres av laderen, må være mellom minimum [xx] watt, som radioutstyret krever, og maksimum [yy] watt for å oppnå høyeste ladehastighet». Antallet watt skal uttrykke henholdsvis den laveste effekten som kreves av radioutstyret, og den høyeste effekten som kreves av radioutstyret for å oppnå høyeste ladehastighet.Når det gjelder radioutstyr som er underlagt kravene i del 1 nr. 3, en beskrivelse av spesifikasjonene for radioutstyrets ladekapasitetsegenskaper, i den grad det kan lades ved kabellading ved en høyere spenning enn 5 volt, høyere strømstyrke enn 3 ampere eller høyere effekt enn 15 watt, inkludert en angivelse av at radioutstyret støtter ladeprotokollen for USB Power Delivery ved å vise teksten «Hurtiglading via USB PD», eller tilsvarende tekst på dansk, svensk eller engelsk, og en angivelse av eventuelle andre ladeprotokoller som støttes, ved å vise navnet i tekstformat.
+For radioutstyr som omfattes av del 1, skal følgende opplysninger angis i samsvar med kravene fastsatt i § 25 fjerde ledd. Opplysningene kan i tillegg gjøres tilgjengelige ved hjelp av QR-koder eller lignende elektroniske løsninger:
+
+1. Når det gjelder alle kategorier eller klasser av radioutstyr som er underlagt kravene fastsatt i del 1, en beskrivelse av kravene til effekt for de kablede ladeenhetene som kan brukes sammen med dette radioutstyret, inkludert den laveste effekten som kreves for å lade radioutstyret, og den høyeste effekten som kreves for å lade radioutstyret ved høyeste ladehastighet uttrykt i watt, ved å vise teksten: «Effekten som leveres av laderen, må være mellom minimum [xx] watt, som radioutstyret krever, og maksimum [yy] watt for å oppnå høyeste ladehastighet». Antallet watt skal uttrykke henholdsvis den laveste effekten som kreves av radioutstyret, og den høyeste effekten som kreves av radioutstyret for å oppnå høyeste ladehastighet.
+2. Når det gjelder radioutstyr som er underlagt kravene i del 1 nr. 3, en beskrivelse av spesifikasjonene for radioutstyrets ladekapasitetsegenskaper, i den grad det kan lades ved kabellading ved en høyere spenning enn 5 volt, høyere strømstyrke enn 3 ampere eller høyere effekt enn 15 watt, inkludert en angivelse av at radioutstyret støtter ladeprotokollen for USB Power Delivery ved å vise teksten «Hurtiglading via USB PD», eller tilsvarende tekst på dansk, svensk eller engelsk, og en angivelse av eventuelle andre ladeprotokoller som støttes, ved å vise navnet i tekstformat.
 
 ### Del 3
 Piktogram som angir om en ladeenhet følger med radioutstyret eller ikke

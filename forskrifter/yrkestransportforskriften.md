@@ -15,7 +15,7 @@ xml_hash: "42cdb75ec9853e0c01b3dabebf29800a698b381e9ded24b04cbfb6e9e782ca2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,18 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskrift menes med:Løyve for godstransport, løyve som gir innehaveren rett til å drive godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg,ruteløyve, løyve som gir innehaveren rett og plikt til å drive persontransport i rute med motorvogn eller fartøy,turvognløyve, løyve som gir innehaveren rett til å drive persontransport med motorvogn utenfor rute registrert for over åtte personer i tillegg til førersetet,(opphevet)(opphevet)drosjeløyve, løyve som gir innehaveren rett til å drive transport utenfor rute med motorvogn registrert for høyst åtte sitteplasser i tillegg til førersetet,samboere, to ugifte personer som lever sammen og har eller har hatt felles barn eller har hatt samme folkeregistrerte adresse i minst to år,registrerte partnere, to personer som har latt sitt partnerskap registrere etter [lov av 30. april 1993 nr. 40](lov/1993-04-30-40) om registrert partnerskap.Internasjonalt varebilløyve, løyve som gir innehaveren rett til å drive internasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg,Nasjonalt varebilløyve, løyve som gir innehaveren rett til å drive nasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg.
+I denne forskrift menes med:
+
+1. Løyve for godstransport, løyve som gir innehaveren rett til å drive godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg,
+2. ruteløyve, løyve som gir innehaveren rett og plikt til å drive persontransport i rute med motorvogn eller fartøy,
+3. turvognløyve, løyve som gir innehaveren rett til å drive persontransport med motorvogn utenfor rute registrert for over åtte personer i tillegg til førersetet,
+4. (opphevet)
+5. (opphevet)
+6. drosjeløyve, løyve som gir innehaveren rett til å drive transport utenfor rute med motorvogn registrert for høyst åtte sitteplasser i tillegg til førersetet,
+7. samboere, to ugifte personer som lever sammen og har eller har hatt felles barn eller har hatt samme folkeregistrerte adresse i minst to år,
+8. registrerte partnere, to personer som har latt sitt partnerskap registrere etter [lov av 30. april 1993 nr. 40](lov/1993-04-30-40) om registrert partnerskap.
+9. Internasjonalt varebilløyve, løyve som gir innehaveren rett til å drive internasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg,
+10. Nasjonalt varebilløyve, løyve som gir innehaveren rett til å drive nasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg.
 
 Bestemmelsene i kapittel I får anvendelse for alle løyvekategorier når ikke annet er fastsatt. Bestemmelsene i [kapittel II](forskrift/2003-03-26-401/kapii) får anvendelse for persontransport i rute innenlands med motorvogn eller fartøy, og [kapittel III](forskrift/2003-03-26-401/kapiii) får anvendelse for persontransport med motorvogn utenfor rute.
 
@@ -40,11 +51,21 @@ Bestemmelsene i kapittel I får anvendelse for alle løyvekategorier når ikke a
 
 ### § 2. Løyve
 
-Den som mot vederlag vil drivegodstransport med motorvogn1 eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, ellerpersontransport i rute med motorvogn eller fartøy, ellerpersontransport med motorvogn utenfor rute,må ha løyve fra vedkommende løyvemyndighet.
+Den som mot vederlag vil drive
+
+1. godstransport med motorvogn1 eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, eller
+2. persontransport i rute med motorvogn eller fartøy, eller
+3. persontransport med motorvogn utenfor rute,
+
+må ha løyve fra vedkommende løyvemyndighet.
 
 Det samme gjelder den som utfører godstransport mot vederlag med motorvogn som ellers er fritatt fra kravet om løyve i medhold av [yrkestransportlova § 16](lov/2002-06-21-45/§16) når transporten kan ses som ledd i næringsvirksomhet, eller den som utfører persontransport mot vederlag på lignende måte som drosje når tilbudet om transport blir rettet til allmennheten på offentlig plass eller via digitale plattformer.
 
-Dette gjelder likevel ikke:transport med motorvogn med største tillatte hastighet på høyst 40 km/tberging av kjøretøy og fjerning av feilparkert kjøretøy utført med motorvogn spesielt konstruert for slik virksomhettransport av husholdningsavfall, jf. [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall, innen egen kommune med motorvogn registrert på kommunen eller kommunal etat. Det samme gjelder innen flere kommuner hvor slik transport er organisert i interkommunalt selskap, jf. [lov av 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper.
+Dette gjelder likevel ikke:
+
+1. transport med motorvogn med største tillatte hastighet på høyst 40 km/t
+2. berging av kjøretøy og fjerning av feilparkert kjøretøy utført med motorvogn spesielt konstruert for slik virksomhet
+3. transport av husholdningsavfall, jf. [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall, innen egen kommune med motorvogn registrert på kommunen eller kommunal etat. Det samme gjelder innen flere kommuner hvor slik transport er organisert i interkommunalt selskap, jf. [lov av 29. januar 1999 nr. 6](lov/1999-01-29-6) om interkommunale selskaper.
 
 > Endret ved [forskrifter 25 feb 2005 nr. 170](forskrift/2005-02-25-170) (i kraft 1 april 2005), [20 des 2010 nr. 1752](forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [21 nov 2014 nr. 1453](forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](forskrift/2019-12-06-1646) som endret ved [forskrift 23 juni 2020 nr. 1355](forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [25 mai 2023 nr. 734](forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](forskrift/2025-01-22-54) (i kraft 1 jan 2026).
 
@@ -64,7 +85,12 @@ Departementet fastsetter nærmere retningslinjer for utøvelsen av løyvemyndigh
 
 ### § 4. Generelle vilkår for å kunne få løyve
 
-Dersom ikke særlige grunner taler mot det kan løyve tildeles søker som:driver en fast og varig virksomhet i Norge,har god vandel,har tilfredsstillende økonomisk evne, oghar tilstrekkelig faglig kompetanse.
+Dersom ikke særlige grunner taler mot det kan løyve tildeles søker som:
+
+1. driver en fast og varig virksomhet i Norge,
+2. har god vandel,
+3. har tilfredsstillende økonomisk evne, og
+4. har tilstrekkelig faglig kompetanse.
 
 For ruteløyve for fartøy gjelder likevel bare kravene i bokstav b) og c). For sentralløyve gjelder kravene i a), b) og c)
 
@@ -88,7 +114,10 @@ For den som har eller søker om løyve for godstransport, internasjonalt eller n
 
 For den som har eller søker om løyve for godstransport, internasjonalt eller nasjonalt varebilløyve og turvognløyve er kravene til god vandel fastsatt i forordning [(EF) nr. 1071/2009](eu/32009r1071) art. 6.
 
-For den som har eller søker om drosjeløyve eller ruteløyve for fartøy anses kravet til god vandel ikke for å være oppfylt dersom innehaveren eller søkerener fradømt retten til å drive næringsvirksomhet, ellerer ilagt straff for en alvorlig lovovertredelse, herunder på det handelsmessige område.
+For den som har eller søker om drosjeløyve eller ruteløyve for fartøy anses kravet til god vandel ikke for å være oppfylt dersom innehaveren eller søkeren
+
+1. er fradømt retten til å drive næringsvirksomhet, eller
+2. er ilagt straff for en alvorlig lovovertredelse, herunder på det handelsmessige område.
 
 Søknad om løyve skal vedlegges politiattest, jf. [§ 10](forskrift/2003-03-26-401/§10). Politiattesten skal ikke være eldre enn tre måneder og den skal makuleres etter at klagefristen på løyvetildelingen har gått ut.
 
@@ -96,9 +125,15 @@ Søknad om løyve skal vedlegges politiattest, jf. [§ 10](forskrift/2003-03-26-
 
 ### § 7. Krav til økonomisk evne
 
-Søker må ved søknad om løyve for godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 9000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende:5000 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger over 3500 kg.900 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 og opp til 3500 kg.
+Søker må ved søknad om løyve for godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 9000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende:
 
-For søker som driver godstransport som kun benytter seg av motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg må garantierklæringen ha en kroneverdi tilsvarende:1800 euro for første løyve900 euro for hvert ekstra løyve.
+1. 5000 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger over 3500 kg.
+2. 900 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 og opp til 3500 kg.
+
+For søker som driver godstransport som kun benytter seg av motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg må garantierklæringen ha en kroneverdi tilsvarende:
+
+1. 1800 euro for første løyve
+2. 900 euro for hvert ekstra løyve.
 
 Søker må ved søknad om løyve for turvogn og persontransport med fartøy i rute fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 9000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende 5000 euro for hvert løyve.
 
@@ -118,7 +153,37 @@ For den som har eller søker om løyve for godstransport, internasjonalt varebil
 
 For den som har eller søker om nasjonalt varebilløyve må søkeren kunne dokumentere nødvendig kunnskap innen yrkestransport med tilhørende forskrifter, [vegtrafikkloven](lov/1965-06-18-4), [arbeidsmiljøloven](lov/2005-06-17-62) og [ferieloven](lov/1988-04-29-21), opplæring av ansatte, internkontroll, foretaksformer, økonomiforståelse, skatter og avgifter. Statens vegvesen fastsetter det nærmere innholdet i kravene til fagkompetanse for nasjonalt varebilløyve. Kravet om faglig kompetanse anses å være oppfylt dersom søkeren har ledet et transportforetak sammenhengende i perioden på 10 år før 1. januar 2026, kan fremlegge vitnemål for bestått eksamen hos Statens vegvesen eller oppfyller kravene i første ledd. Statens vegvesen kan godkjenne vitnemål eller kompetansebevis utstedt av offentlig myndighet i annen EØS-stat eller Sveits som bevis på tilsvarende kompetanse.
 
-For den som har eller søker om drosjeløyve gjelder følgende krav til faglig kompetanse:Yrkes- og markedsadgang og vegtrafikk, herunderYrkestransportregelverket[Vegtrafikkloven](lov/1965-06-18-4) og relevante forskrifter.Arbeidsgivers ansvar, herunder[Arbeidsmiljøloven](lov/2005-06-17-62) og [ferieloven](lov/1988-04-29-21)Opplæring av ansatteInternkontroll.Oppstart og administrasjon av drosjevirksomhet, herunderForetaksformerØkonomiforståelseInntekter og kostnaderRegnskapInvesteringerFinansieringBudsjettering og kalkuleringBokføringsregler for drosje.Regler om prisopplysning og maksimalpris for drosjeLoggføring av drosjeturerBruk av taksameter.Skatter og avgifter, herunderRapportering til skattemyndighetene, herunderinntjeningmerverdiavgift.
+For den som har eller søker om drosjeløyve gjelder følgende krav til faglig kompetanse:
+
+- Yrkes- og markedsadgang og vegtrafikk, herunder
+
+  - Yrkestransportregelverket
+  - [Vegtrafikkloven](lov/1965-06-18-4) og relevante forskrifter.
+- Arbeidsgivers ansvar, herunder
+
+  - [Arbeidsmiljøloven](lov/2005-06-17-62) og [ferieloven](lov/1988-04-29-21)
+  - Opplæring av ansatte
+  - Internkontroll.
+- Oppstart og administrasjon av drosjevirksomhet, herunder
+
+  - Foretaksformer
+  - Økonomiforståelse
+
+    - Inntekter og kostnader
+    - Regnskap
+    - Investeringer
+    - Finansiering
+    - Budsjettering og kalkulering
+    - Bokføringsregler for drosje.
+  - Regler om prisopplysning og maksimalpris for drosje
+  - Loggføring av drosjeturer
+  - Bruk av taksameter.
+- Skatter og avgifter, herunder
+
+  - Rapportering til skattemyndighetene, herunder
+
+    - inntjening
+    - merverdiavgift.
 
 Statens vegvesen fastsetter det nærmere innholdet i kravene til fagkompetanse for drosjeløyve. Kravet til faglig kompetanse for den som har eller søker om drosjeløyve anses å være oppfylt dersom vedkommende kan fremlegge vitnemål for bestått eksamen hos Statens vegvesen eller oppfyller kravene i første ledd. Statens vegvesen kan godkjenne vitnemål eller kompetansebevis utstedt av offentlig myndighet i annen EØS-stat eller Sveits som bevis på tilsvarende kompetanse. Kravet til faglig kompetanse anses også å være oppfylt dersom vedkommende har hatt drosjeløyve etter [yrkestransportloven § 9](lov/2002-06-21-45/§9) før 1. november 2020.
 
@@ -281,7 +346,11 @@ Statens vegvesen kan i enkeltvedtak gjøre unntak fra krav om løyve for transpo
 
 ### § 24. Søknad om ruteløyve
 
-Søknad om ruteløyve må vedlegges:forslag til ruteplan ogforslag til takstregulativ ogdokumentasjon på at søker oppfyller kravene i [§ 4](forskrift/2003-03-26-401/§4).
+Søknad om ruteløyve må vedlegges:
+
+1. forslag til ruteplan og
+2. forslag til takstregulativ og
+3. dokumentasjon på at søker oppfyller kravene i [§ 4](forskrift/2003-03-26-401/§4).
 
 > Endret ved [forskrifter 25 feb 2005 nr. 170](forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).
 
@@ -369,7 +438,10 @@ Den som har tillatelse til å drive persontransport med jernbane etter jernbanel
 
 ### § 35a. Unntak fra krav om behovsprøving av ruteløyve
 
-Følgende løyver skal ikke behovsprøves:Løyve til å drive persontransport mot vederlag med motorvogn i rute lengre enn 80 kilometer en veg.Løyve til å drive persontransport mot vederlag med motorvogn i rute av passasjerer med på- eller avstiging ved flyplasser, uten hensyn til rutens lengde.
+Følgende løyver skal ikke behovsprøves:
+
+1. Løyve til å drive persontransport mot vederlag med motorvogn i rute lengre enn 80 kilometer en veg.
+2. Løyve til å drive persontransport mot vederlag med motorvogn i rute av passasjerer med på- eller avstiging ved flyplasser, uten hensyn til rutens lengde.
 
 Den som utfører transporten må ha løyve for persontransport.
 
@@ -377,7 +449,10 @@ Den som utfører transporten må ha løyve for persontransport.
 
 ### § 36. Dispensasjoner
 
-Løyvemyndigheten kan, dersom Norges folkerettslige forpliktelser ikke er til hinder for det, unnta persontransport i rute fra kravet om ruteløyve i følgende tilfelle:Når det gjelder mindre enn 50 turer i året eller virksomheten drives i mindre enn 3 måneder i året og den er av mindre betydning og ikke skader annen rutetransport.Når det under egentransport av personer, jf. [yrkestransportlova § 18](lov/2002-06-21-45/§18), er hensiktsmessig å ta med andre passasjerer og det ellers vil oppstå kostnader eller ulemper som anses å stå i misforhold til virksomhetens betydning for rutegående kommunikasjoner.
+Løyvemyndigheten kan, dersom Norges folkerettslige forpliktelser ikke er til hinder for det, unnta persontransport i rute fra kravet om ruteløyve i følgende tilfelle:
+
+1. Når det gjelder mindre enn 50 turer i året eller virksomheten drives i mindre enn 3 måneder i året og den er av mindre betydning og ikke skader annen rutetransport.
+2. Når det under egentransport av personer, jf. [yrkestransportlova § 18](lov/2002-06-21-45/§18), er hensiktsmessig å ta med andre passasjerer og det ellers vil oppstå kostnader eller ulemper som anses å stå i misforhold til virksomhetens betydning for rutegående kommunikasjoner.
 
 Vedtak etter bokstav a kan treffes for 1 år om gangen og etter bokstav b for inntil 3 år om gangen.
 
@@ -551,7 +626,11 @@ Dersom en drosjesentral vil avvikle virksomheten i et eller flere områder må d
 
 ### § 52f. Dispensasjon fra kravet om sentraltilknytning
 
-Løyvemyndigheten kan gi dispensasjon fra kravet om sentraltilknytning når løyvehaver driver transport:i områder hvor drosjetilbudet står i fare for å falle bort eller ikke starte opp dersom kravet opprettholdes.med særlig eksklusivt materiell som utelukkende benyttes til transporttjenester i forbindelse med særskilte arrangementer eller lignende.som faller inn under [§ 48e](forskrift/2003-03-26-401/§48e), men hvor løyvemyndigheten ikke har gitt dispensasjon fra kravet om drosjeløyve.
+Løyvemyndigheten kan gi dispensasjon fra kravet om sentraltilknytning når løyvehaver driver transport:
+
+1. i områder hvor drosjetilbudet står i fare for å falle bort eller ikke starte opp dersom kravet opprettholdes.
+2. med særlig eksklusivt materiell som utelukkende benyttes til transporttjenester i forbindelse med særskilte arrangementer eller lignende.
+3. som faller inn under [§ 48e](forskrift/2003-03-26-401/§48e), men hvor løyvemyndigheten ikke har gitt dispensasjon fra kravet om drosjeløyve.
 
 Løyvemyndigheten kan innvilge dispensasjon for opp til tre år, og kan sette vilkår for dispensasjonen. Dispensasjon kan forlenges ved søknad dersom vilkårene for fritak fortsatt er til stede. Registreringsnummeret på kjøretøyet skal fremgå av dispensasjonsvedtaket. Vedtaket skal medbringes i kjøretøyet under løyvepliktig transport. Dispensasjonen gjelder kun i det fylket hvor dispensasjonen er gitt. Fylkeskommunen avgjør klage på vedtak etter denne bestemmelsen.
 

@@ -26,7 +26,14 @@ eu_basis: []
 
 Innen hvert fylke tillegges vedkommende statsforvalter forvaltningsansvar for fredninger som er opprettet ved kongelig resolusjon, regjeringens resolusjon, Kronprinsregentens resolusjon, ministerpresidentens beslutning eller departementsvedtak i medhold av [lov om naturfredning av 25. juli 1910 nr. 3](lov/1910-07-25-3), lov om naturvern av [1. desember 1954](lov/1954-12-01-2) og [lov om naturvern av 19. juni 1970 nr. 63](lov/1970-06-19-63) (med endringer).
 
-Dette gjelder for alle:nasjonalparker unntatt Hardangervidda nasjonalparklandskapsvernområder unntatt Skaupsjøen/Hardangerjøkulen og Møsvatn/Austfjell landskapsvernområdernaturreservaternaturminnerplante/dyrelivsfredningerandre fredninger i medhold av de tidligere naturfredningslover [og lov om naturvern av 19. juni 1970 nr. 63](lov/1970-06-19-63).
+Dette gjelder for alle:
+
+1. nasjonalparker unntatt Hardangervidda nasjonalpark
+2. landskapsvernområder unntatt Skaupsjøen/Hardangerjøkulen og Møsvatn/Austfjell landskapsvernområder
+3. naturreservater
+4. naturminner
+5. plante/dyrelivsfredninger
+6. andre fredninger i medhold av de tidligere naturfredningslover [og lov om naturvern av 19. juni 1970 nr. 63](lov/1970-06-19-63).
 
 De tidligere fastsatte vernebestemmelsene endres i samsvar med dette.
 
@@ -35,7 +42,9 @@ De tidligere fastsatte vernebestemmelsene endres i samsvar med dette.
 ## II
 
 1. Statsforvalteren gis fullmakt tilsvarende den som var gitt den tidligere forvaltningsmyndighet for vernebestemmelsene i henhold til det enkelte fredningsvedtak.
-2. De punkter i vernebestemmelsene som tillegger Klima- og miljødepartementet dispensasjonsmyndighet eller tillegger Klima- og miljødepartementet myndighet til å godkjenne eventuelle skjøtselsplaner, delegeres til statsforvalteren.Dispensasjonsmyndighet for nasjonalparkene på de punkter som følger av Klima- og miljødepartementets vedtak av 27. august 1979, 15. desember 1980 og for Dovrefjell nasjonalpark, forblir hos Direktoratet for statens skoger.
+2. De punkter i vernebestemmelsene som tillegger Klima- og miljødepartementet dispensasjonsmyndighet eller tillegger Klima- og miljødepartementet myndighet til å godkjenne eventuelle skjøtselsplaner, delegeres til statsforvalteren.
+
+   Dispensasjonsmyndighet for nasjonalparkene på de punkter som følger av Klima- og miljødepartementets vedtak av 27. august 1979, 15. desember 1980 og for Dovrefjell nasjonalpark, forblir hos Direktoratet for statens skoger.
 
 > Endret ved [forskrifter 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
 

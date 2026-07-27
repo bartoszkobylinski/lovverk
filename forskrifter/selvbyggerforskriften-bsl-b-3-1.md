@@ -15,7 +15,7 @@ xml_hash: "1dd0d44af84ea7e74359691672431e239ad4747fc7fdf7e73cd0ea9b476aca88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Forskriften gjelder likevel ikke selvbygging av luftfartøy som bygges for å sk
 
 I forskriften her gjelder definisjoner i vedlegg 1 til dokumentasjonsforskriften.
 
-I denne forskriften menes med:*Byggeleder*: Person godkjent av Luftfartstilsynet til å lede selvbygging av luftfartøy.*Kontrollør*: Person godkjent av Luftfartstilsynet til å utføre kontroll med selvbygging av luftfartøy.*AWS D17.1*: American Welding Society's specification for fusion welding for aerospace applications.
+I denne forskriften menes med:
+
+1. *Byggeleder*: Person godkjent av Luftfartstilsynet til å lede selvbygging av luftfartøy.
+2. *Kontrollør*: Person godkjent av Luftfartstilsynet til å utføre kontroll med selvbygging av luftfartøy.
+3. *AWS D17.1*: American Welding Society's specification for fusion welding for aerospace applications.
 
 ## § 4. (Godkjennelse av søknad om selvbygging av luftfartøy)
 
@@ -72,7 +76,11 @@ Ved bygging i samsvar med tidligere fastsatte konstruksjonskrav og hvor kravene 
 
 Dersom ikke annet er spesifisert av luftfartøytypens konstruktør, fabrikant eller rettighetshaver skal motor og propell enten ha typesertifikat eller være godkjent av Luftfartstilsynet.
 
-For motorer uten ordinært typesertifikat gjelder følgende:motoren eller identisk motor skal ha vært i bruk i minimum 60 driftstimer,motoren skal ha vært brukt med samme elektriske system, drivstoffsystem og kjølesystem som i luftfartøyet,de 60 driftstimene kan gjennomføres i prøvebenk, i luftfartøy eller i en kombinasjon av disse.
+For motorer uten ordinært typesertifikat gjelder følgende:
+
+1. motoren eller identisk motor skal ha vært i bruk i minimum 60 driftstimer,
+2. motoren skal ha vært brukt med samme elektriske system, drivstoffsystem og kjølesystem som i luftfartøyet,
+3. de 60 driftstimene kan gjennomføres i prøvebenk, i luftfartøy eller i en kombinasjon av disse.
 
 Luftfartstilsynet skal godkjenne modifikasjon av flymotor.
 
@@ -80,7 +88,17 @@ Ved bygging i samsvar med tidligere fastsatte krav og hvor kravene i første til
 
 ## § 9. (Utstyrskrav)
 
-Følgende utstyr skal finnes i luftfartøyet:Oljetrykksindikator eller varselinnretning for lavt oljetrykk (gjelder ikke totaktsmotor),oljetemperaturindikator (gjelder ikke totaktsmotor),indikator for turteller,sylindertemperaturindikator (gjelder luftkjølte motorer med kjøleklaffer i motordeksel),brennstofftrykksindikator eller varselinnretning for lavt brennstofftrykk (gjelder ikke motor med gravitasjonsmating),manifoldtrykkindikator for motorer utstyrt med propell med variabel stigning eller kompressor/turbolader,oljemengdeindikator (peilepinne) for hver oljetank,indikator for temperatur av kjølevæske, eller sylindertopp i henhold til fabrikantens anbefaling for væskekjølte motorer ogmidje og skulderbelter i forsete, og midjebelte i baksete. Restaurerte luftfartøy kan utstyres som den originale modellen.
+Følgende utstyr skal finnes i luftfartøyet:
+
+1. Oljetrykksindikator eller varselinnretning for lavt oljetrykk (gjelder ikke totaktsmotor),
+2. oljetemperaturindikator (gjelder ikke totaktsmotor),
+3. indikator for turteller,
+4. sylindertemperaturindikator (gjelder luftkjølte motorer med kjøleklaffer i motordeksel),
+5. brennstofftrykksindikator eller varselinnretning for lavt brennstofftrykk (gjelder ikke motor med gravitasjonsmating),
+6. manifoldtrykkindikator for motorer utstyrt med propell med variabel stigning eller kompressor/turbolader,
+7. oljemengdeindikator (peilepinne) for hver oljetank,
+8. indikator for temperatur av kjølevæske, eller sylindertopp i henhold til fabrikantens anbefaling for væskekjølte motorer og
+9. midje og skulderbelter i forsete, og midjebelte i baksete. Restaurerte luftfartøy kan utstyres som den originale modellen.
 
 ## § 10. (Bakkeprøving)
 

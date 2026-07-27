@@ -15,7 +15,7 @@ xml_hash: "d5bd3cd5c7e412b225df8d4389aaee2f845dd938f5b6de588762227fb1b29b13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ Departementet kan i særlige tilfelle instruere styret skriftlig i enkeltsaker. 
 
 ## § 5. Finansfondets plasseringer
 
-Finansfondets midler kan plasseres på følgende måte:Erverv av kjernekapitalinstrumenter utstedt av norske banker, og rettigheter til slike. Departementet kan i forskrift fastsette at Finansfondet kan erverve kjernekapitalinstrumenter utstedt av morselskap i finanskonsern.Kontolån til staten.Betaling av avkastning til staten.
+Finansfondets midler kan plasseres på følgende måte:
+
+1. Erverv av kjernekapitalinstrumenter utstedt av norske banker, og rettigheter til slike. Departementet kan i forskrift fastsette at Finansfondet kan erverve kjernekapitalinstrumenter utstedt av morselskap i finanskonsern.
+2. Kontolån til staten.
+3. Betaling av avkastning til staten.
 
 Finansfondet kan ikke ta opp lån eller stille garanti for andres forpliktelser.
 

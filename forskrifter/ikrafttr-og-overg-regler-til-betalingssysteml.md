@@ -28,4 +28,8 @@ eu_basis: []
 
 ## § 2. Overgangsregler mv.
 
-Med hjemmel i [lov 17. desember 1999 nr. 95](lov/1999-12-17-95) om betalingssystemer m.v. [§ 6-1](lov/1999-12-17-95/§6-1) gis følgende overgangsregler:For interbanksystemer som driver virksomhet ved lovens ikrafttredelse skal søknad om konsesjon etter lovens § 2-3 være sendt innen 31. desember 2000. Slike interbanksystemer kan fortsette virksomheten inntil søknaden om konsesjon er avgjort. Virksomheten skal fra det tidspunkt det er søkt konsesjon utøves i samsvar med bestemmelsene i [lov 17. desember 1999 nr. 95](lov/1999-12-17-95).For systemer for betalingstjenester som drives ved lovens ikrafttredelse skal melding etter lovens § 3-2 være sendt innen 30. september 2000.Lovens §§ 4-2 og 4-4 gis bare anvendelse når insolvensbehandlingen er innledet etter lovens ikrafttredelse.
+Med hjemmel i [lov 17. desember 1999 nr. 95](lov/1999-12-17-95) om betalingssystemer m.v. [§ 6-1](lov/1999-12-17-95/§6-1) gis følgende overgangsregler:
+
+1. For interbanksystemer som driver virksomhet ved lovens ikrafttredelse skal søknad om konsesjon etter lovens § 2-3 være sendt innen 31. desember 2000. Slike interbanksystemer kan fortsette virksomheten inntil søknaden om konsesjon er avgjort. Virksomheten skal fra det tidspunkt det er søkt konsesjon utøves i samsvar med bestemmelsene i [lov 17. desember 1999 nr. 95](lov/1999-12-17-95).
+2. For systemer for betalingstjenester som drives ved lovens ikrafttredelse skal melding etter lovens § 3-2 være sendt innen 30. september 2000.
+3. Lovens §§ 4-2 og 4-4 gis bare anvendelse når insolvensbehandlingen er innledet etter lovens ikrafttredelse.

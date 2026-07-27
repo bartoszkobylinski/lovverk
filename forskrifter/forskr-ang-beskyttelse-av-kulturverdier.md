@@ -15,7 +15,7 @@ xml_hash: "16102a4f39d48a093b8ee3f4b0dc6d85e9a30a3ab22cfc221bf0a7309dfbad55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ erklærer herved, i påvente av ikrafttreden av en slik konvensjon, at den er vi
 
 Den norske regjering anser det for å være enhver nasjons plikt innen sitt territorium å treffe tiltak for å beskytte kulturverdier mot ødeleggelse i tilfelle av væpnet konflikt.
 
-Med kulturverdier forståes i denne forbindelse:løsøre og fast eiendom i offentlig og privat eie som er av spesiell historisk eller kunstnerisk verdi, kunstverk, historiske dokumenter, verdifulle bøker, vitenskapelige samlinger.bygninger hvis hovedformål er å gi rom for gjenstander nevnt under a) og som virkelig gjør det,monumentale anlegg av særlig viktighet.
+Med kulturverdier forståes i denne forbindelse:
+
+1. løsøre og fast eiendom i offentlig og privat eie som er av spesiell historisk eller kunstnerisk verdi, kunstverk, historiske dokumenter, verdifulle bøker, vitenskapelige samlinger.
+2. bygninger hvis hovedformål er å gi rom for gjenstander nevnt under a) og som virkelig gjør det,
+3. monumentale anlegg av særlig viktighet.
 
 ## Artikkel 2.
 
@@ -50,7 +54,10 @@ Regjeringen påtar seg å gi sine væpnete styrker instruks om å respektere kul
 
 ## Artikkel 4.
 
-Regjeringen vil avstå fra alle fiendtlige handlinger rettet mot sikkerhetsrom som et land har innrettet for å beskytte rørlige kulturgjenstander som er truet av militære operasjoner, under forutsetning av at slike sikkerhetsromer beliggende i en viss avstand fra steder som en må anta vil bli hjemsøkt av krigsoperasjoner, fra viktige kommunikasjonslinjer og fra store industrisentra,ikke blir brukt, direkte eller indirekte for militære formål.
+Regjeringen vil avstå fra alle fiendtlige handlinger rettet mot sikkerhetsrom som et land har innrettet for å beskytte rørlige kulturgjenstander som er truet av militære operasjoner, under forutsetning av at slike sikkerhetsrom
+
+1. er beliggende i en viss avstand fra steder som en må anta vil bli hjemsøkt av krigsoperasjoner, fra viktige kommunikasjonslinjer og fra store industrisentra,
+2. ikke blir brukt, direkte eller indirekte for militære formål.
 
 ## Artikkel 5.
 

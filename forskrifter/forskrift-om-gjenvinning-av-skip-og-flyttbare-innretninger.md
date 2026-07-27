@@ -15,7 +15,7 @@ xml_hash: "a1058cb5190c7d5908bf419b7d68143cb96289522cee5e546e28ed335e6f5372"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,13 @@ Skip som anløper norsk havn skal ha internasjonalt sertifikat om farlige stoffe
 
 Denne paragraf gjelder gjenvinning i Norge av skip som ikke seiler under en EØS-stats flagg.
 
-Skipsgjenvinningsanlegg kan bare gjenvinne skip, dersomanlegget er godkjent i henhold til skipsgjenvinningsforordningen artikkel 14,skipet ikke inneholder farlige materialer i strid med Hongkong-konvensjonens vedlegg regel 4,skipet har en fortegnelse over farlige materialer i samsvar med Hongkong-konvensjonens vedlegg regel 5,skipet overholder kravene i Hongkong-konvensjonens vedlegg regel 8.2 og 8.3 når det mottas ved anlegget,skipet har et internasjonalt sertifikat for gjenvinningsklart skip utstedt i samsvar med Hongkong-konvensjonens vedlegg kapittel 2 del C, eller tilsvarende dokumentasjon, jf. tredje ledd.
+Skipsgjenvinningsanlegg kan bare gjenvinne skip, dersom
+
+1. anlegget er godkjent i henhold til skipsgjenvinningsforordningen artikkel 14,
+2. skipet ikke inneholder farlige materialer i strid med Hongkong-konvensjonens vedlegg regel 4,
+3. skipet har en fortegnelse over farlige materialer i samsvar med Hongkong-konvensjonens vedlegg regel 5,
+4. skipet overholder kravene i Hongkong-konvensjonens vedlegg regel 8.2 og 8.3 når det mottas ved anlegget,
+5. skipet har et internasjonalt sertifikat for gjenvinningsklart skip utstedt i samsvar med Hongkong-konvensjonens vedlegg kapittel 2 del C, eller tilsvarende dokumentasjon, jf. tredje ledd.
 
 Ved gjenvinning av skip som seiler under flagget til en stat som ikke er part til Hongkong-konvensjonen skal skipet i stedet for et internasjonalt sertifikat for gjenvinningsklart skip, jf. andre ledd bokstav e, ha dokumentasjon som tilsvarer kravene til et slikt sertifikat.
 
@@ -196,19 +202,74 @@ Denne forordning har også som formål å fremme ratifiseringen av den internasj
 
 ### Artikkel 2. Virkeområde
 
-1\. Med unntak av artikkel 12 får denne forordning anvendelse på skip som seiler under en *EØS-stats* flagg.Artikkel 12 får anvendelse på skip som seiler under en tredjestats flagg, og som anløper en havn eller ankerplass i en *EØS-stat*.
+1\. Med unntak av artikkel 12 får denne forordning anvendelse på skip som seiler under en *EØS-stats* flagg.
 
-2\. Denne forordning får ikke anvendelse påkrigsskip, militære hjelpefartøyer eller andre skip som eies eller drives av en stat, og som for tiden bare brukes i statlig ikke-kommersiell tjeneste,skip med en bruttotonnasje (BT) på under 500,skip som i hele sin driftstid bare seiler i farvann som er underlagt suvereniteten eller jurisdiksjonen til den *EØS-staten* som skipet fører flagget til.
+Artikkel 12 får anvendelse på skip som seiler under en tredjestats flagg, og som anløper en havn eller ankerplass i en *EØS-stat*.
+
+2\. Denne forordning får ikke anvendelse på
+
+1. krigsskip, militære hjelpefartøyer eller andre skip som eies eller drives av en stat, og som for tiden bare brukes i statlig ikke-kommersiell tjeneste,
+2. skip med en bruttotonnasje (BT) på under 500,
+3. skip som i hele sin driftstid bare seiler i farvann som er underlagt suvereniteten eller jurisdiksjonen til den *EØS-staten* som skipet fører flagget til.
 
 ### Artikkel 3. Definisjoner
 
-1\. I denne forordning menes med«skip» et fartøy av enhver type som opererer eller har operert i havmiljøet, herunder undervannsfartøyer, flytende farkoster, flytende plattformer, oppjekkbare plattformer, flytende lagringsinnretninger (FSU-er) og flytende produksjons-, lagrings- og losseinnretninger (FPSO-er) samt fartøyer som er blitt strippet for utstyr eller som slepes,«nytt skip» et skip for hvilket entenbyggekontrakten er inngått på tidspunktet for anvendelsen av denne forordning eller senere,dersom en byggekontrakt ikke er inngått, kjølen er strukket eller byggingen av skipet er på et tilsvarende trinn seks måneder etter anvendelsesdatoen for denne forordning eller senere, ellerleveringen finner sted 30 måneder etter anvendelsesdatoen for denne forordning eller senere,«tankfartøy» et oljetankskip som definert i vedlegg I til Den internasjonale konvensjon om hindring av forurensning fra skip («MARPOL-konvensjonen»), eller et tankfartøy som fører skadelige flytende stoffer som definert i vedlegg II til nevnte konvensjon,«farlig materiale» alle materialer eller stoffer som kan være skadelige for menneskers helse og/eller miljøet,«driftsavfall» avløpsvann og rester frambrakt ved normal drift av skip som omfattes av kravene i MARPOL-konvensjonen,«gjenvinning av skip» den virksomheten som består i helt eller delvis å hogge opp skip på et skipsgjenvinningsanlegg med henblikk på å gjenvinne komponenter og materialer for bearbeiding, forberedelse til gjenbruk eller for gjenbruk, samtidig som håndteringen av farlige materialer og andre materialer sikres, noe som også omfatter lagring og behandling av komponenter og materialer på anlegget, men ikke videre bearbeiding eller disponering av dem i atskilte anlegg,«skipsgjenvinningsanlegg» et definert område som er et verft eller anlegg i en *EØS-stat* eller i en tredjestat, og som brukes til gjenvinning av skip,«skipsgjenvinningsselskap» eieren av skipsgjenvinningsanlegget eller en annen organisasjon eller person som har overtatt ansvaret for driften av skipsgjenvinningsvirksomheten fra eieren av skipsgjenvinningsanlegget,«administrasjon» en offentlig myndighet som en *EØS-stat* har utpekt som den ansvarlige for oppgaver som gjelder skip som seiler under dens flagg, eller som er i virksomhet under dens myndighet,«anerkjent organisasjon» en organisasjon som er anerkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*),1 *eller, der det er aktuelt, i samsvar med Rådsdirektiv [94/57/EF](eu/31994l0057),2*«vedkommende myndighet» en offentlig myndighet eller offentlige myndigheter som en *EØS-stat* eller en tredjestat har utpekt som ansvarlig for skipsgjenvinningsanlegg innenfor et bestemt geografisk område eller kunnskapsområde, med hensyn til all virksomhet innenfor den gjeldende statens jurisdiksjon,«bruttotonnasje» bruttotonnasje (BT) beregnet i samsvar med reglene for måling av tonnasje fastsatt i vedlegg I til Den internasjonale konvensjon om måling av fartøyer, 1969, eller en etterfølgende konvensjon,«kvalifisert person» en person med relevante kvalifikasjoner, utdanning og tilstrekkelige kunnskaper, erfaring og ferdigheter til å utføre den bestemte arbeidsoppgaven,«rederi» en fysisk eller juridisk person som er registrert som eier av skipet, herunder den fysiske eller juridiske personen som eier skipet i et begrenset tidsrom før det selges eller overdras til et skipsgjenvinningsanlegg, eller dersom det ikke finnes noen registrering, den fysiske eller juridiske personen som eier skipet, eller en annen organisasjon eller person, for eksempel lederen eller totalbefrakteren, som har overtatt ansvaret for skipets drift fra eieren av skipet, samt den juridiske personen som driver et statseid skip,«ny installering» installering av systemer, utstyr, isolasjon eller andre materialer på et skip etter anvendelsesdatoen for denne forordning,«skipsgjenvinningsplan» en plan som den driftsansvarlige for skipsgjenvinningsanlegget har utarbeidet for hvert enkelt skip som skal gjenvinnes under den driftsansvarliges ansvar, idet det tas hensyn til relevante retningslinjer og resolusjoner fra IMO,«skipsgjenvinningsplan for anlegget» en plan som er utarbeidet av den driftsansvarlige for skipsgjenvinningsanlegget og vedtatt av styret eller det relevante styringsorganet for skipsgjenvinningsselskapet, og som inneholder en beskrivelse av driftsprosessene og –framgangsmåtene i forbindelse med gjenvinning av skip på skipsgjenvinningsanlegget, og som særlig omfatter arbeidstakernes sikkerhet og opplæring, vern av menneskers helse og miljøet, personalets oppgaver og ansvarsområder, kriseberedskap og beredskapstiltak samt systemer for overvåking, rapportering og føring av registre, og som tar hensyn til relevante retningslinjer og resolusjoner fra IMO,«klargjort for adgang» et område som oppfyller alle følgende kriterier:Oksygeninnholdet i atmosfæren og konsentrasjonen av brannfarlig damp er innenfor sikre grenser.Alle giftige materialer i atmosfæren er innenfor tillatte konsentrasjoner.Rester eller materialer som er forbundet med det arbeidet som er godkjent av en kvalifisert person, forårsaker ikke ukontrollerte utslipp av giftige materialer eller en usikker konsentrasjon av brannfarlige damper ved eksisterende atmosfæriske forhold når anvisningene følges.«klargjort for varmearbeid» et område som oppfyller alle følgende kriterier:Det finnes sikre, ikke-eksplosive forhold, herunder gassfrie, for bruk av utstyr til elektrisk lysbuesveising eller gassveising, skjære- eller brennerutstyr eller andre former for åpen flamme samt oppvarming, sliping eller gnistdannende arbeidsmåter.Kriteriene for klargjort for adgang fastsatt i nr. 18 er oppfylt.Eksisterende atmosfæriske forhold endres ikke som følge av varmearbeidet.Alle tilstøtende områder er rengjort, gjort inert eller behandlet tilstrekkelig til å hindre at brann oppstår eller spres.«erklæring om sluttført gjenvinning» en erklæring utstedt av den driftsansvarlige for skipsgjenvinningsanlegget som bekrefter at gjenvinningen av skipet er avsluttet i samsvar med denne forordning,«fortegnelsessertifikat» et skipsspesifikt sertifikat som utstedes til skip som seiler under en *EØS-stats* flagg i samsvar med artikkel 9, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 5,«gjenvinningssertifikat» et skipsspesifikt sertifikat som utstedes til skip som seiler under en *EØS-stats* flagg i samsvar med artikkel 9 nr. 9, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 5 nr. 7 og den godkjente skipsgjenvinningsplanen i samsvar med artikkel 7,«samsvarserklæring» et skipsspesifikt sertifikat som utstedes til skip som seiler under en tredjestats flagg, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 12,«lettskipsvekt i tonn (LDT)» vekten av et skip i tonn uten last, brensel, smøreolje i lagertanker, ballastvann, ferskvann, matevann, forråd samt passasjerer og besetning og deres eiendeler, som er summen av vekten av skipets skrog, konstruksjon, maskiner, utstyr og innretninger.
+1\. I denne forordning menes med
 
-2\. I artikkel 7 nr. 2 bokstav d) og artikkel 13, 15 og 16 menes med«avfall», «farlig avfall», «behandling» og «avfallshåndtering» det samme som i artikkel 3 i direktiv [2008/98/EF](eu/32008l0098),«inspeksjon av anlegget» en inspeksjon på skipsgjenvinningsanlegget for å vurdere om forholdene på anlegget er i samsvar med forholdene som er beskrevet i relevant dokumentasjon,«arbeidstaker» en person som utfører arbeid, enten fast eller midlertidig, innenfor rammen av et arbeidsforhold, herunder personale som arbeider for leverandører og underleverandører,«miljømessig forsvarlig håndtering» at det treffes alle praktisk mulige tiltak for å sikre at avfall og farlige materialer blir håndtert på en måte som verner menneskers helse og miljøet mot skadevirkninger som slikt materiale eller avfall kan medføre.
+1. «skip» et fartøy av enhver type som opererer eller har operert i havmiljøet, herunder undervannsfartøyer, flytende farkoster, flytende plattformer, oppjekkbare plattformer, flytende lagringsinnretninger (FSU-er) og flytende produksjons-, lagrings- og losseinnretninger (FPSO-er) samt fartøyer som er blitt strippet for utstyr eller som slepes,
+2. «nytt skip» et skip for hvilket enten
 
-3\. Med hensyn til nr. 1.13 kan en kvalifisert person være en utdannet arbeidstaker eller en overordnet arbeidstaker som er i stand til å kjenne igjen og vurdere farer og risikoer på arbeidsplassen samt arbeidstakernes eksponering for mulig farlige materialer eller usikre forhold på et skipsgjenvinningsanlegg, og som er i stand til å angi de nødvendige vernetiltakene og forebyggende tiltakene som skal iverksettes for å fjerne eller redusere disse farene og risikoene eller denne eksponeringen.Uten at det berører europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*),3 kan vedkommende myndighet definere hensiktsmessige kriterier som slike personer må oppfylle, og også fastsette hvilke oppgaver de skal utføre.
+   1. byggekontrakten er inngått på tidspunktet for anvendelsen av denne forordning eller senere,
+   2. dersom en byggekontrakt ikke er inngått, kjølen er strukket eller byggingen av skipet er på et tilsvarende trinn seks måneder etter anvendelsesdatoen for denne forordning eller senere, eller
+   3. leveringen finner sted 30 måneder etter anvendelsesdatoen for denne forordning eller senere,
+3. «tankfartøy» et oljetankskip som definert i vedlegg I til Den internasjonale konvensjon om hindring av forurensning fra skip («MARPOL-konvensjonen»), eller et tankfartøy som fører skadelige flytende stoffer som definert i vedlegg II til nevnte konvensjon,
+4. «farlig materiale» alle materialer eller stoffer som kan være skadelige for menneskers helse og/eller miljøet,
+5. «driftsavfall» avløpsvann og rester frambrakt ved normal drift av skip som omfattes av kravene i MARPOL-konvensjonen,
+6. «gjenvinning av skip» den virksomheten som består i helt eller delvis å hogge opp skip på et skipsgjenvinningsanlegg med henblikk på å gjenvinne komponenter og materialer for bearbeiding, forberedelse til gjenbruk eller for gjenbruk, samtidig som håndteringen av farlige materialer og andre materialer sikres, noe som også omfatter lagring og behandling av komponenter og materialer på anlegget, men ikke videre bearbeiding eller disponering av dem i atskilte anlegg,
+7. «skipsgjenvinningsanlegg» et definert område som er et verft eller anlegg i en *EØS-stat* eller i en tredjestat, og som brukes til gjenvinning av skip,
+8. «skipsgjenvinningsselskap» eieren av skipsgjenvinningsanlegget eller en annen organisasjon eller person som har overtatt ansvaret for driften av skipsgjenvinningsvirksomheten fra eieren av skipsgjenvinningsanlegget,
+9. «administrasjon» en offentlig myndighet som en *EØS-stat* har utpekt som den ansvarlige for oppgaver som gjelder skip som seiler under dens flagg, eller som er i virksomhet under dens myndighet,
+10. «anerkjent organisasjon» en organisasjon som er anerkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*),1 *eller, der det er aktuelt, i samsvar med Rådsdirektiv [94/57/EF](eu/31994l0057),2*
+11. «vedkommende myndighet» en offentlig myndighet eller offentlige myndigheter som en *EØS-stat* eller en tredjestat har utpekt som ansvarlig for skipsgjenvinningsanlegg innenfor et bestemt geografisk område eller kunnskapsområde, med hensyn til all virksomhet innenfor den gjeldende statens jurisdiksjon,
+12. «bruttotonnasje» bruttotonnasje (BT) beregnet i samsvar med reglene for måling av tonnasje fastsatt i vedlegg I til Den internasjonale konvensjon om måling av fartøyer, 1969, eller en etterfølgende konvensjon,
+13. «kvalifisert person» en person med relevante kvalifikasjoner, utdanning og tilstrekkelige kunnskaper, erfaring og ferdigheter til å utføre den bestemte arbeidsoppgaven,
+14. «rederi» en fysisk eller juridisk person som er registrert som eier av skipet, herunder den fysiske eller juridiske personen som eier skipet i et begrenset tidsrom før det selges eller overdras til et skipsgjenvinningsanlegg, eller dersom det ikke finnes noen registrering, den fysiske eller juridiske personen som eier skipet, eller en annen organisasjon eller person, for eksempel lederen eller totalbefrakteren, som har overtatt ansvaret for skipets drift fra eieren av skipet, samt den juridiske personen som driver et statseid skip,
+15. «ny installering» installering av systemer, utstyr, isolasjon eller andre materialer på et skip etter anvendelsesdatoen for denne forordning,
+16. «skipsgjenvinningsplan» en plan som den driftsansvarlige for skipsgjenvinningsanlegget har utarbeidet for hvert enkelt skip som skal gjenvinnes under den driftsansvarliges ansvar, idet det tas hensyn til relevante retningslinjer og resolusjoner fra IMO,
+17. «skipsgjenvinningsplan for anlegget» en plan som er utarbeidet av den driftsansvarlige for skipsgjenvinningsanlegget og vedtatt av styret eller det relevante styringsorganet for skipsgjenvinningsselskapet, og som inneholder en beskrivelse av driftsprosessene og –framgangsmåtene i forbindelse med gjenvinning av skip på skipsgjenvinningsanlegget, og som særlig omfatter arbeidstakernes sikkerhet og opplæring, vern av menneskers helse og miljøet, personalets oppgaver og ansvarsområder, kriseberedskap og beredskapstiltak samt systemer for overvåking, rapportering og føring av registre, og som tar hensyn til relevante retningslinjer og resolusjoner fra IMO,
+18. «klargjort for adgang» et område som oppfyller alle følgende kriterier:
 
-1 Europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*) av 23. april 2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte fartøyer (EUT L 131 av 28.5.2009, s. 11).2 Rådsdirektiv [94/57/EF](eu/31994l0057) av 22. november 1994 om felles regler og standarder for organisasjoner som skal inspisere og besikte skip, og for sjøfartsmyndighetenes virksomhet i den forbindelse.3 Europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*) av 7. september 2005 om godkjenning av yrkeskvalifikasjoner (EUT L 255 av 30.9.2005, s. 22).
+    1. Oksygeninnholdet i atmosfæren og konsentrasjonen av brannfarlig damp er innenfor sikre grenser.
+    2. Alle giftige materialer i atmosfæren er innenfor tillatte konsentrasjoner.
+    3. Rester eller materialer som er forbundet med det arbeidet som er godkjent av en kvalifisert person, forårsaker ikke ukontrollerte utslipp av giftige materialer eller en usikker konsentrasjon av brannfarlige damper ved eksisterende atmosfæriske forhold når anvisningene følges.
+19. «klargjort for varmearbeid» et område som oppfyller alle følgende kriterier:
+
+    1. Det finnes sikre, ikke-eksplosive forhold, herunder gassfrie, for bruk av utstyr til elektrisk lysbuesveising eller gassveising, skjære- eller brennerutstyr eller andre former for åpen flamme samt oppvarming, sliping eller gnistdannende arbeidsmåter.
+    2. Kriteriene for klargjort for adgang fastsatt i nr. 18 er oppfylt.
+    3. Eksisterende atmosfæriske forhold endres ikke som følge av varmearbeidet.
+    4. Alle tilstøtende områder er rengjort, gjort inert eller behandlet tilstrekkelig til å hindre at brann oppstår eller spres.
+20. «erklæring om sluttført gjenvinning» en erklæring utstedt av den driftsansvarlige for skipsgjenvinningsanlegget som bekrefter at gjenvinningen av skipet er avsluttet i samsvar med denne forordning,
+21. «fortegnelsessertifikat» et skipsspesifikt sertifikat som utstedes til skip som seiler under en *EØS-stats* flagg i samsvar med artikkel 9, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 5,
+22. «gjenvinningssertifikat» et skipsspesifikt sertifikat som utstedes til skip som seiler under en *EØS-stats* flagg i samsvar med artikkel 9 nr. 9, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 5 nr. 7 og den godkjente skipsgjenvinningsplanen i samsvar med artikkel 7,
+23. «samsvarserklæring» et skipsspesifikt sertifikat som utstedes til skip som seiler under en tredjestats flagg, og som ledsages av en fortegnelse over farlige materialer i samsvar med artikkel 12,
+24. «lettskipsvekt i tonn (LDT)» vekten av et skip i tonn uten last, brensel, smøreolje i lagertanker, ballastvann, ferskvann, matevann, forråd samt passasjerer og besetning og deres eiendeler, som er summen av vekten av skipets skrog, konstruksjon, maskiner, utstyr og innretninger.
+
+2\. I artikkel 7 nr. 2 bokstav d) og artikkel 13, 15 og 16 menes med
+
+1. «avfall», «farlig avfall», «behandling» og «avfallshåndtering» det samme som i artikkel 3 i direktiv [2008/98/EF](eu/32008l0098),
+2. «inspeksjon av anlegget» en inspeksjon på skipsgjenvinningsanlegget for å vurdere om forholdene på anlegget er i samsvar med forholdene som er beskrevet i relevant dokumentasjon,
+3. «arbeidstaker» en person som utfører arbeid, enten fast eller midlertidig, innenfor rammen av et arbeidsforhold, herunder personale som arbeider for leverandører og underleverandører,
+4. «miljømessig forsvarlig håndtering» at det treffes alle praktisk mulige tiltak for å sikre at avfall og farlige materialer blir håndtert på en måte som verner menneskers helse og miljøet mot skadevirkninger som slikt materiale eller avfall kan medføre.
+
+3\. Med hensyn til nr. 1.13 kan en kvalifisert person være en utdannet arbeidstaker eller en overordnet arbeidstaker som er i stand til å kjenne igjen og vurdere farer og risikoer på arbeidsplassen samt arbeidstakernes eksponering for mulig farlige materialer eller usikre forhold på et skipsgjenvinningsanlegg, og som er i stand til å angi de nødvendige vernetiltakene og forebyggende tiltakene som skal iverksettes for å fjerne eller redusere disse farene og risikoene eller denne eksponeringen.
+
+Uten at det berører europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*),3 kan vedkommende myndighet definere hensiktsmessige kriterier som slike personer må oppfylle, og også fastsette hvilke oppgaver de skal utføre.
+
+1 Europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*) av 23. april 2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte fartøyer (EUT L 131 av 28.5.2009, s. 11).
+
+2 Rådsdirektiv [94/57/EF](eu/31994l0057) av 22. november 1994 om felles regler og standarder for organisasjoner som skal inspisere og besikte skip, og for sjøfartsmyndighetenes virksomhet i den forbindelse.
+
+3 Europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*) av 7. september 2005 om godkjenning av yrkeskvalifikasjoner (EUT L 255 av 30.9.2005, s. 22).
 
 ### AVDELING II
 SKIP
@@ -221,25 +282,50 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 1\. Hvert nye skip skal ha en fortegnelse over farlige materialer om bord, og fortegnelsen skal minst angi de farlige materialene som er oppført i vedlegg II, og som finnes i skipets konstruksjon eller utstyr, samt hvor de er plassert og omtrentlige mengder av dem.
 
-2\. Med forbehold for artikkel 32 nr. 2 bokstav b) skal eksisterende skip så langt det praktisk er mulig oppfylle kravene i nr. 1.Når det gjelder skip som skal gjenvinnes, skal disse så langt det praktisk er mulig oppfylle kravene i nr. 1 i denne artikkel fra datoen for offentliggjøringen av den europeiske listen over skipsgjenvinningsanlegg («den europeiske listen»), som fastsatt i artikkel 16 nr. 2.Når fortegnelsen over farlige materialer utarbeides, skal den minst angi de farlige materialene som er oppført i vedlegg I, med forbehold for artikkel 32 nr. 2 bokstav b).
+2\. Med forbehold for artikkel 32 nr. 2 bokstav b) skal eksisterende skip så langt det praktisk er mulig oppfylle kravene i nr. 1.
 
-3\. Fortegnelsen over farlige materialer skalvære spesifikk for hvert skip,vise at skipet overholder forbudet mot eller begrensningene for installering eller bruk av farlige materialer i samsvar med artikkel 4,utarbeides slik at det tas hensyn til relevante retningslinjer fra IMO,kontrolleres av administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget.
+Når det gjelder skip som skal gjenvinnes, skal disse så langt det praktisk er mulig oppfylle kravene i nr. 1 i denne artikkel fra datoen for offentliggjøringen av den europeiske listen over skipsgjenvinningsanlegg («den europeiske listen»), som fastsatt i artikkel 16 nr. 2.
+
+Når fortegnelsen over farlige materialer utarbeides, skal den minst angi de farlige materialene som er oppført i vedlegg I, med forbehold for artikkel 32 nr. 2 bokstav b).
+
+3\. Fortegnelsen over farlige materialer skal
+
+1. være spesifikk for hvert skip,
+2. vise at skipet overholder forbudet mot eller begrensningene for installering eller bruk av farlige materialer i samsvar med artikkel 4,
+3. utarbeides slik at det tas hensyn til relevante retningslinjer fra IMO,
+4. kontrolleres av administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget.
 
 4\. I tillegg til nr. 3 skal det for eksisterende skip utarbeides en plan som beskriver den visuelle kontrollen eller stikkprøvekontrollen som benyttes for å utarbeide fortegnelsen over farlige materialer, idet det tas hensyn til relevante retningslinjer fra IMO.
 
-5\. Fortegnelsen over farlige materialer skal bestå av tre deler:En liste over farlige materialer angitt i vedlegg I og II, i samsvar med bestemmelsene i nr. 1 og 2 i denne artikkel, og som finnes i skipets konstruksjon eller utstyr, med opplysninger om hvor de er plassert og om omtrentlige mengder (del I).En liste over driftsavfall som finnes om bord på skipet (del II).En liste over forråd som finnes om bord på skipet (del III).
+5\. Fortegnelsen over farlige materialer skal bestå av tre deler:
+
+1. En liste over farlige materialer angitt i vedlegg I og II, i samsvar med bestemmelsene i nr. 1 og 2 i denne artikkel, og som finnes i skipets konstruksjon eller utstyr, med opplysninger om hvor de er plassert og om omtrentlige mengder (del I).
+2. En liste over driftsavfall som finnes om bord på skipet (del II).
+3. En liste over forråd som finnes om bord på skipet (del III).
 
 6\. Den I av fortegnelsen over farlige materialer skal føres og ajourføres på tilfredsstillende måte gjennom hele skipets driftstid og skal omfatte nye installeringer som inneholder farlige materialer angitt i vedlegg II, og relevante endringer i skipets konstruksjon og utstyr.
 
 7\. Før et skip gjenvinnes, skal fortegnelsen over farlige materialer, idet det tas hensyn til relevante retningslinjer fra IMO, i tillegg til del I som er tilfredsstillende ført og ajourført, utfylles med del II for driftsavfall og del III for forråd og kontrolleres av administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget.
 
-8\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 24 som gjelder ajourføring av postene til fortegnelsen over farlige materialer i vedlegg I og II, for å sikre at listene minst inneholder de stoffene som er angitt i tillegg I og II til Hongkong-konvensjonen.Kommisjonen skal vedta en egen delegert rettsakt for hvert stoff som skal tilføyes eller slettes fra vedlegg I eller II.
+8\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 24 som gjelder ajourføring av postene til fortegnelsen over farlige materialer i vedlegg I og II, for å sikre at listene minst inneholder de stoffene som er angitt i tillegg I og II til Hongkong-konvensjonen.
+
+Kommisjonen skal vedta en egen delegert rettsakt for hvert stoff som skal tilføyes eller slettes fra vedlegg I eller II.
 
 ### Artikkel 6. Alminnelige krav til rederier
 
-1\. Når et skip klargjøres for gjenvinning, skal rederietgi den driftsansvarlige for skipsgjenvinningsanlegget alle de relevante opplysningene om skipet som er nødvendig for å utarbeide skipsgjenvinningsplanen som omhandles i artikkel 7,skriftlig underrette den relevante administrasjonen innen en tidsfrist som denne administrasjonen fastsetter, om sin hensikt å gjenvinne et skip på et bestemt skipsgjenvinningsanlegg eller på bestemte skipsgjenvinningsanlegg. Underretningen skal minst omfattefortegnelsen over farlige materialer, ogalle relevante opplysninger om skipet i henhold til bokstav a).
+1\. Når et skip klargjøres for gjenvinning, skal rederiet
 
-2\. Rederiene skal sikre at skipene som skal gjenvinnes,bare gjenvinnes på skipsgjenvinningsanlegg som står oppført på den europeiske listen,før de avleveres på skipsgjenvinningsanlegget, håndteres slik at lasterester, resterende brennolje og skipsavfall som fortsatt er om bord, minimeres,har et gjenvinningssertifikat utstedt av administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, før skipet gjenvinnes og etter mottak av den gjenvinningsplanen for skipet som er godkjent i samsvar med artikkel 7 nr. 3.
+1. gi den driftsansvarlige for skipsgjenvinningsanlegget alle de relevante opplysningene om skipet som er nødvendig for å utarbeide skipsgjenvinningsplanen som omhandles i artikkel 7,
+2. skriftlig underrette den relevante administrasjonen innen en tidsfrist som denne administrasjonen fastsetter, om sin hensikt å gjenvinne et skip på et bestemt skipsgjenvinningsanlegg eller på bestemte skipsgjenvinningsanlegg. Underretningen skal minst omfatte
+
+   1. fortegnelsen over farlige materialer, og
+   2. alle relevante opplysninger om skipet i henhold til bokstav a).
+
+2\. Rederiene skal sikre at skipene som skal gjenvinnes,
+
+1. bare gjenvinnes på skipsgjenvinningsanlegg som står oppført på den europeiske listen,
+2. før de avleveres på skipsgjenvinningsanlegget, håndteres slik at lasterester, resterende brennolje og skipsavfall som fortsatt er om bord, minimeres,
+3. har et gjenvinningssertifikat utstedt av administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, før skipet gjenvinnes og etter mottak av den gjenvinningsplanen for skipet som er godkjent i samsvar med artikkel 7 nr. 3.
 
 3\. Rederiene skal sikre at tankfartøyene ankommer skipsgjenvinningsanlegget med lastetanker og pumperom i en slik tilstand at de kan sertifiseres som klargjort for varmearbeid.
 
@@ -251,19 +337,47 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 1\. Det skal utarbeides en skipsspesifikk gjenvinningsplan for skipet før enhver gjenvinning. Skipsgjenvinningsplanen skal omfatte alle skipsspesifikke forhold som ikke omfattes av skipsgjenvinningsplanen for anlegget, eller som krever en særskilt framgangsmåte.
 
-2\. Skipsgjenvinningsplanen skalutarbeides av den driftsansvarlige for skipsgjenvinningsanlegget i samsvar med relevante bestemmelser i Hongkong-konvensjonen, idet det tas hensyn til relevante retningslinjer fra IMO og relevante opplysninger om skipet som rederiet har gitt i samsvar med artikkel 6 nr. 1 bokstav a), slik at planens innhold stemmer overens med de opplysningene som finnes i fortegnelsen over farlige materialer,klargjøre om og i hvilket omfang det forberedende arbeidet, som forbehandling, identifisering av mulige farer og fjerning av forråd, skal utføres på et annet sted enn på det skipsgjenvinningsanlegget som er angitt i skipsgjenvinningsplanen; skipsgjenvinningsplanen bør angi hvor skipet vil være plassert under gjenvinningen, og inneholde en kortfattet plan for ankomsten og en sikker plassering av det aktuelle skipet som skal gjenvinnes,inneholde opplysninger om opprettelse, vedlikehold og overvåking av vilkårene for «klargjort for adgang» og «klargjort for varmearbeid» for det aktuelle skipet, idet det tas hensyn til egenskaper som konstruksjon, konfigurasjon og tidligere last samt andre nødvendige opplysninger om hvordan skipsgjenvinningsplanen skal gjennomføres,inneholde opplysninger om type og mengde av farlige materialer og avfall som frambringes ved gjenvinningen av det aktuelle skipet, herunder de materialene og det avfallet som er angitt i fortegnelsen over farlige materialer, samt opplysninger om hvordan disse vil bli behandlet og lagret på skipsgjenvinningsanlegget og på anlegg de senere kan bli sendt til,utarbeides særskilt, i prinsippet for hvert involverte skipsgjenvinningsanlegg når det skal brukes mer enn ett skipsgjenvinningsanlegg, og skal angi i hvilken rekkefølge anleggene kommer til å bli brukt og den virksomheten som er godkjent og vil bli gjennomført på disse anleggene.
+2\. Skipsgjenvinningsplanen skal
 
-3\. Vedkommende myndighet skal stilltiende eller uttrykkelig godkjenne skipsgjenvinningsplanen i samsvar med kravene i den staten der skipsgjenvinningsanlegget befinner seg, når det er relevant.Det foreligger uttrykkelig godkjenning når vedkommende myndighet har sendt skriftlig underretning om sin beslutning om skipsgjenvinningsplanen til den driftsansvarlige for skipsgjenvinningsanlegget, rederiet og administrasjonen.Stilltiende godkjenning skal anses for å være gitt når vedkommende myndighet ikke har foretatt skriftlig innsigelse mot skipsgjenvinningsplanen overfor den driftsansvarlige for skipsgjenvinningsanlegget, rederiet og administrasjonen i løpet av en undersøkelsesperiode som er fastsatt i samsvar med kravene i den staten der skipsgjenvinningsanlegget befinner seg, når det er relevant, og meldt i henhold til artikkel 15 nr. 2 bokstav b).
+1. utarbeides av den driftsansvarlige for skipsgjenvinningsanlegget i samsvar med relevante bestemmelser i Hongkong-konvensjonen, idet det tas hensyn til relevante retningslinjer fra IMO og relevante opplysninger om skipet som rederiet har gitt i samsvar med artikkel 6 nr. 1 bokstav a), slik at planens innhold stemmer overens med de opplysningene som finnes i fortegnelsen over farlige materialer,
+2. klargjøre om og i hvilket omfang det forberedende arbeidet, som forbehandling, identifisering av mulige farer og fjerning av forråd, skal utføres på et annet sted enn på det skipsgjenvinningsanlegget som er angitt i skipsgjenvinningsplanen; skipsgjenvinningsplanen bør angi hvor skipet vil være plassert under gjenvinningen, og inneholde en kortfattet plan for ankomsten og en sikker plassering av det aktuelle skipet som skal gjenvinnes,
+3. inneholde opplysninger om opprettelse, vedlikehold og overvåking av vilkårene for «klargjort for adgang» og «klargjort for varmearbeid» for det aktuelle skipet, idet det tas hensyn til egenskaper som konstruksjon, konfigurasjon og tidligere last samt andre nødvendige opplysninger om hvordan skipsgjenvinningsplanen skal gjennomføres,
+4. inneholde opplysninger om type og mengde av farlige materialer og avfall som frambringes ved gjenvinningen av det aktuelle skipet, herunder de materialene og det avfallet som er angitt i fortegnelsen over farlige materialer, samt opplysninger om hvordan disse vil bli behandlet og lagret på skipsgjenvinningsanlegget og på anlegg de senere kan bli sendt til,
+5. utarbeides særskilt, i prinsippet for hvert involverte skipsgjenvinningsanlegg når det skal brukes mer enn ett skipsgjenvinningsanlegg, og skal angi i hvilken rekkefølge anleggene kommer til å bli brukt og den virksomheten som er godkjent og vil bli gjennomført på disse anleggene.
 
-4\. *EØS-statene* kan kreve at deres administrasjon sender de opplysningene som rederiet har gitt i henhold til artikkel 6 nr. 1 bokstav b), og følgende detaljer til vedkommende myndighet i den staten der skipsgjenvinningsanlegget befinner seg:Datoen for skipets registrering i den staten som skipet fører flagget til.Skipets identifikasjonsnummer (IMO-nummer).Skrognummeret ved levering av nybygde skip.Skipets navn og type.Skipets hjemsted.Rederiets navn og adresse samt registrert eiers IMO-identifikasjonsnummer.Selskapets navn og adresse.Navn på alle klasseselskapene som har klassifisert skipet.Skipets mål (største lengde (LOA), bredde på spant, dybde på spant, LDT, brutto- og nettotonnasje samt motortype og -effekt).
+3\. Vedkommende myndighet skal stilltiende eller uttrykkelig godkjenne skipsgjenvinningsplanen i samsvar med kravene i den staten der skipsgjenvinningsanlegget befinner seg, når det er relevant.
+
+Det foreligger uttrykkelig godkjenning når vedkommende myndighet har sendt skriftlig underretning om sin beslutning om skipsgjenvinningsplanen til den driftsansvarlige for skipsgjenvinningsanlegget, rederiet og administrasjonen.
+
+Stilltiende godkjenning skal anses for å være gitt når vedkommende myndighet ikke har foretatt skriftlig innsigelse mot skipsgjenvinningsplanen overfor den driftsansvarlige for skipsgjenvinningsanlegget, rederiet og administrasjonen i løpet av en undersøkelsesperiode som er fastsatt i samsvar med kravene i den staten der skipsgjenvinningsanlegget befinner seg, når det er relevant, og meldt i henhold til artikkel 15 nr. 2 bokstav b).
+
+4\. *EØS-statene* kan kreve at deres administrasjon sender de opplysningene som rederiet har gitt i henhold til artikkel 6 nr. 1 bokstav b), og følgende detaljer til vedkommende myndighet i den staten der skipsgjenvinningsanlegget befinner seg:
+
+1. Datoen for skipets registrering i den staten som skipet fører flagget til.
+2. Skipets identifikasjonsnummer (IMO-nummer).
+3. Skrognummeret ved levering av nybygde skip.
+4. Skipets navn og type.
+5. Skipets hjemsted.
+6. Rederiets navn og adresse samt registrert eiers IMO-identifikasjonsnummer.
+7. Selskapets navn og adresse.
+8. Navn på alle klasseselskapene som har klassifisert skipet.
+9. Skipets mål (største lengde (LOA), bredde på spant, dybde på spant, LDT, brutto- og nettotonnasje samt motortype og -effekt).
 
 ### Artikkel 8. Besiktelser
 
 1\. Skipsbesiktelser skal utføres av tjenestemenn fra administrasjonen eller fra en anerkjent organisasjon som administrasjonen har bemyndiget, idet det tas hensyn til relevante retningslinjer fra IMO.
 
-2\. Dersom administrasjonen bruker anerkjente organisasjoner til å gjennomføre besiktelsene som beskrevet i nr. 1, skal den som et minimum gi de gjeldende anerkjente organisasjonene fullmakt til åkreve at et skip som de besikter, er i samsvar med denne forordning, oggjennomføre besiktelser dersom vedkommende myndigheter i en *EØS-stat* ber om det.
+2\. Dersom administrasjonen bruker anerkjente organisasjoner til å gjennomføre besiktelsene som beskrevet i nr. 1, skal den som et minimum gi de gjeldende anerkjente organisasjonene fullmakt til å
 
-3\. Skipene skal gjennomgå følgende besiktelser:Førstegangsbesiktelse.Fornyelsesbesiktelse.Tilleggsbesiktelse.Sluttbesiktelse.
+- kreve at et skip som de besikter, er i samsvar med denne forordning, og
+- gjennomføre besiktelser dersom vedkommende myndigheter i en *EØS-stat* ber om det.
+
+3\. Skipene skal gjennomgå følgende besiktelser:
+
+1. Førstegangsbesiktelse.
+2. Fornyelsesbesiktelse.
+3. Tilleggsbesiktelse.
+4. Sluttbesiktelse.
 
 4\. Førstegangsbesiktelsen av et nytt skip skal gjennomføres før skipet settes i drift, eller før fortegnelsessertifikatet utstedes. For eksisterende skip skal en førstegangsbesiktelse gjennomføres innen 31. desember 2020. Ved besiktelsen skal det kontrolleres at del I av fortegnelsen over farlige materialer oppfyller kravene i denne forordning.
 
@@ -271,17 +385,31 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 6\. Tilleggsbesiktelsen skal helt eller delvis, avhengig av omstendighetene, gjennomføres dersom rederiet ber om det etter en endring, utskifting eller vesentlig reparasjon av skipets konstruksjon, utstyr, systemer, innretninger, installasjoner og materialer som har en innvirkning på fortegnelsen over farlige materialer. Besiktelsen skal foretas slik at den sikrer at enhver endring, utskifting eller vesentlig reparasjon er gjennomført på en måte som sikrer at skipet hele tiden oppfyller kravene i denne forordning, og at de nødvendige endringene gjøres i del I av fortegnelsen over farlige materialer.
 
-7\. Sluttbesiktelsen skal gjennomføres før skipes tas ut av drift og før gjenvinningen av skipet har begynt.Ved denne besiktelsen skal det kontrolleres atfortegnelsen over farlige materialer oppfyller kravene i artikkel 5,skipsgjenvinningsplanen på korrekt vis gjenspeiler de opplysningene som finnes i fortegnelsen over farlige materialer, og oppfyller kravene i artikkel 7,det skipsgjenvinningsanlegget som skal gjenvinne skipet, står oppført på den europeiske listen.
+7\. Sluttbesiktelsen skal gjennomføres før skipes tas ut av drift og før gjenvinningen av skipet har begynt.
+
+Ved denne besiktelsen skal det kontrolleres at
+
+1. fortegnelsen over farlige materialer oppfyller kravene i artikkel 5,
+2. skipsgjenvinningsplanen på korrekt vis gjenspeiler de opplysningene som finnes i fortegnelsen over farlige materialer, og oppfyller kravene i artikkel 7,
+3. det skipsgjenvinningsanlegget som skal gjenvinne skipet, står oppført på den europeiske listen.
 
 8\. For eksisterende skip som skal gjenvinnes, kan førstegangsbesiktelsen og sluttbesiktelsen gjennomføres samtidig.
 
 ### Artikkel 9. Utstedelse og påtegning av sertifikater
 
-1\. Etter at en førstegangsbesiktelse eller fornyelsesbesiktelse er gjennomført med tilfredsstillende resultat, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede et fortegnelsessertifikat. Dette sertifikatet skal ledsages av del I av fortegnelsen over farlige materialer, som nevnt i artikkel 5 nr. 5 bokstav a).Dersom førstegangs- og sluttbesiktelsen gjennomføres samtidig, som omhandlet i artikkel 8 nr. 8, skal bare gjenvinningssertifikatet nevnt i nr. 9 i denne artikkel utstedes.Kommisjonen skal vedta gjennomføringsrettsakter om utformingen av fortegnelsessertifikatet for å sikre at det stemmer overens med tillegg 3 til Hongkong-konvensjonen. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning.
+1\. Etter at en førstegangsbesiktelse eller fornyelsesbesiktelse er gjennomført med tilfredsstillende resultat, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede et fortegnelsessertifikat. Dette sertifikatet skal ledsages av del I av fortegnelsen over farlige materialer, som nevnt i artikkel 5 nr. 5 bokstav a).
+
+Dersom førstegangs- og sluttbesiktelsen gjennomføres samtidig, som omhandlet i artikkel 8 nr. 8, skal bare gjenvinningssertifikatet nevnt i nr. 9 i denne artikkel utstedes.
+
+Kommisjonen skal vedta gjennomføringsrettsakter om utformingen av fortegnelsessertifikatet for å sikre at det stemmer overens med tillegg 3 til Hongkong-konvensjonen. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning.
 
 2\. Dersom rederiet ber om det, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, påtegne et fortegnelsessertifikat etter at en tilleggsbesiktelse med tilfredsstillende resultat er gjennomført i samsvar med artikkel 8 nr. 6.
 
-3\. Med forbehold for nr. 4 skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede eller påtegne, alt etter hva som er relevant, et fortegnelsessertifikat dersom fornyelsesbesiktelsen er gjennomført med tilfredsstillende resultatinnen en periode på tre måneder før utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra utløpsdatoen for det gjeldende sertifikatet,etter utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra utløpsdatoen for det gjeldende sertifikatet,mer enn tre måneder før utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra datoen da fornyelsesbesiktigelsen ble tilfredsstillende gjennomført.
+3\. Med forbehold for nr. 4 skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede eller påtegne, alt etter hva som er relevant, et fortegnelsessertifikat dersom fornyelsesbesiktelsen er gjennomført med tilfredsstillende resultat
+
+1. innen en periode på tre måneder før utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra utløpsdatoen for det gjeldende sertifikatet,
+2. etter utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra utløpsdatoen for det gjeldende sertifikatet,
+3. mer enn tre måneder før utløpsdatoen for det gjeldende fortegnelsessertifikatet, og det nye sertifikatet skal være gyldig fra datoen da fornyelsesbesiktelsen ble gjennomført med tilfredsstillende resultat, til en dato som ikke overstiger fem år fra datoen da fornyelsesbesiktigelsen ble tilfredsstillende gjennomført.
 
 4\. Dersom en fornyelsesbesiktelse er gjennomført med tilfredsstillende resultat og et nytt fortegnelsessertifikat ikke kan utstedes eller plasseres om bord før utløpsdatoen for det gjeldende sertifikatet, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, godkjenne det gjeldende sertifikatet, og et slikt sertifikat skal godtas som gyldig i ytterligere en periode på høyst fem måneder fra utløpsdatoen.
 
@@ -293,13 +421,18 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 8\. For et skip som foretar korte reiser, og der fortegnelsessertifikatet ikke er blitt forlenget i henhold til vilkårene i nr. 7, kan fortegnelsessertifikatet forlenges av administrasjonen med en periode på inntil én måned fra utløpsdatoen. Når fornyelsesbesiktelsen er fullført, skal det nye fortegnelsessertifikatet være gyldig i en periode som ikke overstiger fem år fra den utløpsdatoen som det gjeldende sertifikatet hadde før forlengelsen ble gitt.
 
-9\. Etter at en sluttbesiktelse med tilfredsstillende resultat er gjennomført i samsvar med artikkel 8 nr. 7, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede et gjenvinningssertifikat. Dette sertifikatet skal ledsages av fortegnelsen over farlige materialer og skipsgjenvinningsplanen.Kommisjonen skal vedta gjennomføringsrettsakter om utformingen av gjenvinningssertifikatet for å sikre at det stemmer overens med tillegg 4 til Hongkong-konvensjonen. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning. Et gjenvinningssertifikat som er utstedt etter en sluttbesiktelse i samsvar med første ledd i dette nummer, skal godtas av de øvrige *EØS-statene* og anses, med hensyn til denne forordning, å ha samme gyldighet som et gjenvinningssertifikat de selv har utstedt.
+9\. Etter at en sluttbesiktelse med tilfredsstillende resultat er gjennomført i samsvar med artikkel 8 nr. 7, skal administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, utstede et gjenvinningssertifikat. Dette sertifikatet skal ledsages av fortegnelsen over farlige materialer og skipsgjenvinningsplanen.
+
+Kommisjonen skal vedta gjennomføringsrettsakter om utformingen av gjenvinningssertifikatet for å sikre at det stemmer overens med tillegg 4 til Hongkong-konvensjonen. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning. Et gjenvinningssertifikat som er utstedt etter en sluttbesiktelse i samsvar med første ledd i dette nummer, skal godtas av de øvrige *EØS-statene* og anses, med hensyn til denne forordning, å ha samme gyldighet som et gjenvinningssertifikat de selv har utstedt.
 
 ### Artikkel 10. Sertifikatenes varighet og gyldighet
 
 1\. Med forbehold for artikkel 9 skal det utstedes et fortegnelsessertifikat for en periode som administrasjonen fastsetter, og som ikke skal overstige fem år.
 
-2\. Gyldigheten av et fortegnelsessertifikat som er utstedt eller påtegnet i henhold til artikkel 9, skal opphøre i følgende tilfeller:Dersom skipets tilstand i vesentlig grad avviker fra opplysningene i fortegnelsessertifikatet, herunder når del I av fortegnelsen over farlige materialer ikke er tilfredsstillende ført og ajourført eller ikke viser endringer i skipets konstruksjon og utstyr, idet det tas hensyn til relevante retningslinjer fra IMO.Dersom fornyelsesbesiktelsen ikke gjennomføres innenfor de intervallene som er angitt i artikkel 8 nr. 5.
+2\. Gyldigheten av et fortegnelsessertifikat som er utstedt eller påtegnet i henhold til artikkel 9, skal opphøre i følgende tilfeller:
+
+1. Dersom skipets tilstand i vesentlig grad avviker fra opplysningene i fortegnelsessertifikatet, herunder når del I av fortegnelsen over farlige materialer ikke er tilfredsstillende ført og ajourført eller ikke viser endringer i skipets konstruksjon og utstyr, idet det tas hensyn til relevante retningslinjer fra IMO.
+2. Dersom fornyelsesbesiktelsen ikke gjennomføres innenfor de intervallene som er angitt i artikkel 8 nr. 5.
 
 3\. Administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget, skal utstede et gjenvinningssertifikat for en periode på høyst tre måneder.
 
@@ -311,7 +444,10 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 1\. *EØS-statene* skal anvende kontrollbestemmelser for skip i samsvar med sin nasjonale lovgivning, idet det tas hensyn til direktiv [2009/16/EF](eu/32009l0016*). Med forbehold for nr. 2 skal enhver slik inspeksjon begrenses til en kontroll av om det finnes enten et fortegnelsessertifikat eller et gjenvinningssertifikat om bord som, såfremt det er gyldig, skal anses som tilstrekkelig for at inspeksjonen skal godkjennes.
 
-2\. Den relevante myndighet som er involvert i havnestatskontroller, kan utføre en detaljert inspeksjon, idet det tas hensyn til relevante retningslinjer fra IMO, dersom et skip ikke har et gyldig sertifikat eller det er god grunn til å tro atskipets tilstand eller utstyr i stor grad avviker fra opplysningene i sertifikatet, i del I av fortegnelsen over farlige materialer eller i begge, ellerdet ikke er innført noen framgangsmåte om bord på skipet når det gjelder vedlikehold av del I av fortegnelsen over farlige materialer.
+2\. Den relevante myndighet som er involvert i havnestatskontroller, kan utføre en detaljert inspeksjon, idet det tas hensyn til relevante retningslinjer fra IMO, dersom et skip ikke har et gyldig sertifikat eller det er god grunn til å tro at
+
+1. skipets tilstand eller utstyr i stor grad avviker fra opplysningene i sertifikatet, i del I av fortegnelsen over farlige materialer eller i begge, eller
+2. det ikke er innført noen framgangsmåte om bord på skipet når det gjelder vedlikehold av del I av fortegnelsen over farlige materialer.
 
 3\. Et skip kan bli advart, holdt tilbake, bortvist eller utestengt fra havner eller offshoreterminaler under en *EØS-stats* jurisdiksjon dersom det ikke framlegger en kopi av fortegnelsessertifikatet eller gjenvinningssertifikatet, alt etter hva som er relevant, for relevante myndigheter i nevnte *EØS-stat* og på nevnte myndigheters anmodning, uten at dette berører artikkel 9. En *EØS-stat* som treffer et slikt tiltak, skal straks underrette den berørte administrasjonen. Manglende ajourføring av fortegnelsen over farlige materialer utgjør ikke en mangel som kan medføre tilbakeholding, men ethvert avvik i fortegnelsen over farlige materialer skal rapporteres til den berørte administrasjonen og skal rettes innen neste besiktelse.
 
@@ -319,9 +455,13 @@ Installering eller bruk av farlige materialer nevnt i vedlegg I på skip skal fo
 
 ### Artikkel 12. Krav til skip som seiler under en tredjestats flagg
 
-1\. Med forbehold for artikkel 32 nr. 2 bokstav b) skal et skip som anløper en havn eller ankerplass i en *EØS-stat*, og som seiler under en tredjestats flagg, ha en fortegnelse over farlige materialer om bord som er i samsvar med artikkel 5 nr. 2.Uten hensyn til første ledd kan en *EØS-stats* relevante myndighet ved tilfeller av force majeure, av tvingende nødvendige sikkerhetsgrunner, for å redusere eller minimere faren for forurensning eller for å utbedre feil og mangler gi anløpstillatelse til en bestemt havn eller ankerplass, forutsatt at rederiet, den driftsansvarlige eller skipsføreren har truffet passende tiltak som de relevante myndighetene i den gjeldende *EØS-staten* har godkjent, slik at skipet kan anløpe på en sikker måte.
+1\. Med forbehold for artikkel 32 nr. 2 bokstav b) skal et skip som anløper en havn eller ankerplass i en *EØS-stat*, og som seiler under en tredjestats flagg, ha en fortegnelse over farlige materialer om bord som er i samsvar med artikkel 5 nr. 2.
 
-2\. Installering av farlige materialer nevnt i vedlegg I på skip som seiler under en tredjestats flagg, når de ligger i en havn eller ved en ankerplass i en *EØS-stat*, skal forbys eller begrenses som angitt i vedlegg I.Bruk av farlige materialer nevnt i vedlegg I på skip som seiler under en tredjestats flagg, når de ligger i en havn eller ved en ankerplass i en *EØS-stat*, skal forbys eller begrenses som angitt i vedlegg I, uten at dette berører de unntakene og overgangsordningene som gjelder for disse materialene i henhold til folkeretten.
+Uten hensyn til første ledd kan en *EØS-stats* relevante myndighet ved tilfeller av force majeure, av tvingende nødvendige sikkerhetsgrunner, for å redusere eller minimere faren for forurensning eller for å utbedre feil og mangler gi anløpstillatelse til en bestemt havn eller ankerplass, forutsatt at rederiet, den driftsansvarlige eller skipsføreren har truffet passende tiltak som de relevante myndighetene i den gjeldende *EØS-staten* har godkjent, slik at skipet kan anløpe på en sikker måte.
+
+2\. Installering av farlige materialer nevnt i vedlegg I på skip som seiler under en tredjestats flagg, når de ligger i en havn eller ved en ankerplass i en *EØS-stat*, skal forbys eller begrenses som angitt i vedlegg I.
+
+Bruk av farlige materialer nevnt i vedlegg I på skip som seiler under en tredjestats flagg, når de ligger i en havn eller ved en ankerplass i en *EØS-stat*, skal forbys eller begrenses som angitt i vedlegg I, uten at dette berører de unntakene og overgangsordningene som gjelder for disse materialene i henhold til folkeretten.
 
 3\. Fortegnelsen over farlige materialer skal være spesifikk for hvert skip, utarbeides slik at det tas hensyn til relevante retningslinjer fra IMO og tjene til å klargjøre at skipet overholder nr. 2 i denne artikkel. Når fortegnelsen over farlige materialer utarbeides, skal den som et minimum angi de farlige materialene som er oppført i vedlegg I. Et skip som seiler under en tredjestats flagg, skal utarbeide en plan som beskriver den visuelle kontrollen / stikkprøvekontrollen som benyttes for å utarbeide fortegnelsen over farlige materialer, idet det tas hensyn til relevante retningslinjer fra IMO.
 
@@ -340,15 +480,44 @@ SKIPSGJENVINNINGSANLEGG
 
 ### Artikkel 13. Nødvendige krav til skipsgjenvinningsanlegg som skal oppføres på den europeiske listen
 
-1\. For å bli oppført på den europeiske listen skal et skipsgjenvinningsanlegg oppfylle følgende krav i samsvar med relevante bestemmelser i Hongkong-konvensjonen, idet det tas hensyn til relevante retningslinjer fra IMO, ILO, Basel-konvensjonen og Stockholm-konvensjonen om persistente organiske forbindelser samt andre internasjonale retningslinjer:Det skal være godkjent av vedkommende myndigheter til å gjenvinne skip.Det skal være utformet, konstruert og drives på en sikker og miljømessig forsvarlig måte.Det skal drives fra faste konstruksjoner.Det skal opprette håndterings- og overvåkingssystemer, prosesser og teknikker som har som formål å forebygge, redusere, minimere og, så langt det praktisk er mulig, fjernehelserisiko for berørte arbeidstakere og befolkningen i nærheten av skipsgjenvinningsanlegget, ogskadevirkninger på miljøet forårsaket av gjenvinning av skip.Det skal utarbeide en skipsgjenvinningsplan for anlegget.Det skal forebygge skadevirkninger på menneskers helse og miljøet, herunder ved å vise at det kan kontrollere enhver lekkasje, særlig i tidevannssoner.Det skal sørge for en sikker og miljømessig forsvarlig håndtering og lagring av farlige materialer og farlig avfall, herunder ved åinneslutte alle farlige materialer om bord under hele prosessen med å gjenvinne skip for å hindre utslipp av disse materialene i miljøet, og dessuten håndtere farlige materialer og farlig avfall som frambringes under prosessen med å gjenvinne skip, bare på ugjennomtrengelige gulv med et effektivt dreneringssystem,dokumentere alt avfall som frambringes ved gjenvinningen av skip og avfallsmengden, og bare overføre det til avfallshåndteringsanlegg, herunder avfallsgjenvinningsanlegg som er godkjent til å håndtere slikt avfall uten fare for menneskers helse og på en miljømessig forsvarlig måte.Det skal utarbeide og vedlikeholde en beredskaps- og krisehåndteringsplan som sikrer at redningsutstyr som brannslokkingsutstyr og kjøretøyer, ambulanser og kraner raskt kan komme til skipet og alle områder av skipsgjenvinningsanlegget.Det skal sørge for sikkerhet og opplæring for arbeidstakere, herunder sikre at det brukes personlig verneutstyr ved arbeid som krever slikt utstyr.Det skal registrere hendelser, ulykker, yrkessykdommer og kroniske lidelser, og dersom vedkommende myndigheter ber om det, skal det rapportere alle hendelser, ulykker, yrkessykdommer eller kroniske lidelser som utgjør eller kan utgjøre en risiko for arbeidstakernes sikkerhet, menneskets helse og miljøet.Det skal godta å oppfylle alle kravene i nr. 2.
+1\. For å bli oppført på den europeiske listen skal et skipsgjenvinningsanlegg oppfylle følgende krav i samsvar med relevante bestemmelser i Hongkong-konvensjonen, idet det tas hensyn til relevante retningslinjer fra IMO, ILO, Basel-konvensjonen og Stockholm-konvensjonen om persistente organiske forbindelser samt andre internasjonale retningslinjer:
 
-2\. Den driftsansvarlige for et skipsgjenvinningsanlegg skalsende skipsgjenvinningsplanen, når den er godkjent i samsvar med artikkel 7 nr. 3, til rederiet og administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget,gi melding til administrasjonen om at skipsgjenvinningsanlegget på alle måter er klart til å påbegynne gjenvinningen av skipet,når den fullstendige eller delvise gjenvinningen av et skip er gjennomført i samsvar med denne forordning, innen 14 dager etter den fullstendige eller delvise gjenvinningen i samsvar med skipsgjenvinningsplanen sende en erklæring om sluttført gjenvinning til den administrasjonen som utstedte gjenvinningssertifikatet for skipet. Erklæringen om sluttført gjenvinning skal omfatte en rapport om eventuelle hendelser og ulykker som har skadet menneskers helse og/eller miljøet.
+1. Det skal være godkjent av vedkommende myndigheter til å gjenvinne skip.
+2. Det skal være utformet, konstruert og drives på en sikker og miljømessig forsvarlig måte.
+3. Det skal drives fra faste konstruksjoner.
+4. Det skal opprette håndterings- og overvåkingssystemer, prosesser og teknikker som har som formål å forebygge, redusere, minimere og, så langt det praktisk er mulig, fjerne
 
-3\. Kommisjonen skal vedta gjennomføringsrettsakter om utformingen avmeldingen som kreves i henhold til nr. 2 bokstav b) i denne artikkel, for å sikre at den er i samsvar med tillegg 6 til Hongkong-konvensjonen, ogerklæringen som kreves i henhold til nr. 2 bokstav c) i denne artikkel, for å sikre at den er i samsvar med tillegg 7 til Hongkong-konvensjonen.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning.
+   1. helserisiko for berørte arbeidstakere og befolkningen i nærheten av skipsgjenvinningsanlegget, og
+   2. skadevirkninger på miljøet forårsaket av gjenvinning av skip.
+5. Det skal utarbeide en skipsgjenvinningsplan for anlegget.
+6. Det skal forebygge skadevirkninger på menneskers helse og miljøet, herunder ved å vise at det kan kontrollere enhver lekkasje, særlig i tidevannssoner.
+7. Det skal sørge for en sikker og miljømessig forsvarlig håndtering og lagring av farlige materialer og farlig avfall, herunder ved å
+
+   1. inneslutte alle farlige materialer om bord under hele prosessen med å gjenvinne skip for å hindre utslipp av disse materialene i miljøet, og dessuten håndtere farlige materialer og farlig avfall som frambringes under prosessen med å gjenvinne skip, bare på ugjennomtrengelige gulv med et effektivt dreneringssystem,
+   2. dokumentere alt avfall som frambringes ved gjenvinningen av skip og avfallsmengden, og bare overføre det til avfallshåndteringsanlegg, herunder avfallsgjenvinningsanlegg som er godkjent til å håndtere slikt avfall uten fare for menneskers helse og på en miljømessig forsvarlig måte.
+8. Det skal utarbeide og vedlikeholde en beredskaps- og krisehåndteringsplan som sikrer at redningsutstyr som brannslokkingsutstyr og kjøretøyer, ambulanser og kraner raskt kan komme til skipet og alle områder av skipsgjenvinningsanlegget.
+9. Det skal sørge for sikkerhet og opplæring for arbeidstakere, herunder sikre at det brukes personlig verneutstyr ved arbeid som krever slikt utstyr.
+10. Det skal registrere hendelser, ulykker, yrkessykdommer og kroniske lidelser, og dersom vedkommende myndigheter ber om det, skal det rapportere alle hendelser, ulykker, yrkessykdommer eller kroniske lidelser som utgjør eller kan utgjøre en risiko for arbeidstakernes sikkerhet, menneskets helse og miljøet.
+11. Det skal godta å oppfylle alle kravene i nr. 2.
+
+2\. Den driftsansvarlige for et skipsgjenvinningsanlegg skal
+
+1. sende skipsgjenvinningsplanen, når den er godkjent i samsvar med artikkel 7 nr. 3, til rederiet og administrasjonen eller en anerkjent organisasjon som administrasjonen har bemyndiget,
+2. gi melding til administrasjonen om at skipsgjenvinningsanlegget på alle måter er klart til å påbegynne gjenvinningen av skipet,
+3. når den fullstendige eller delvise gjenvinningen av et skip er gjennomført i samsvar med denne forordning, innen 14 dager etter den fullstendige eller delvise gjenvinningen i samsvar med skipsgjenvinningsplanen sende en erklæring om sluttført gjenvinning til den administrasjonen som utstedte gjenvinningssertifikatet for skipet. Erklæringen om sluttført gjenvinning skal omfatte en rapport om eventuelle hendelser og ulykker som har skadet menneskers helse og/eller miljøet.
+
+3\. Kommisjonen skal vedta gjennomføringsrettsakter om utformingen av
+
+1. meldingen som kreves i henhold til nr. 2 bokstav b) i denne artikkel, for å sikre at den er i samsvar med tillegg 6 til Hongkong-konvensjonen, og
+2. erklæringen som kreves i henhold til nr. 2 bokstav c) i denne artikkel, for å sikre at den er i samsvar med tillegg 7 til Hongkong-konvensjonen.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 25 i denne forordning.
 
 ### Artikkel 14. Godkjenning av skipsgjenvinningsanlegg i en EØS-stat
 
-1\. Uten at det berører andre *relevante bestemmelser i EØS-avtalen*, skal vedkommende myndigheter godkjenne de skipsgjenvinningsanleggene på sitt territorium som oppfyller kravene i artikkel 13 til å foreta gjenvinning av skip. Godkjenningen kan gis til det aktuelle skipsgjenvinningsanlegget for en periode på høyst fem år og skal fornyes tilsvarende.Forutsatt at kravene i denne artikkel er oppfylt, kan enhver tillatelse som er utstedt i henhold til andre bestemmelser i nasjonal lovgivning *eller relevante bestemmelser i EØS-avtalen*, kombineres med godkjenningen i henhold til denne artikkel til én enkelt tillatelse, dersom et slikt format gjør at unødvendig gjentaking av opplysninger og arbeid unngås for den driftsansvarlige for skipsgjenvinningsanlegget eller skipsgjenvinningsselskapet eller vedkommende myndighet. I slike tilfeller kan godkjenningen forlenges i samsvar med tillatelsesordningen nevnt i første ledd, men ikke overstige en periode på høyst fem år.
+1\. Uten at det berører andre *relevante bestemmelser i EØS-avtalen*, skal vedkommende myndigheter godkjenne de skipsgjenvinningsanleggene på sitt territorium som oppfyller kravene i artikkel 13 til å foreta gjenvinning av skip. Godkjenningen kan gis til det aktuelle skipsgjenvinningsanlegget for en periode på høyst fem år og skal fornyes tilsvarende.
+
+Forutsatt at kravene i denne artikkel er oppfylt, kan enhver tillatelse som er utstedt i henhold til andre bestemmelser i nasjonal lovgivning *eller relevante bestemmelser i EØS-avtalen*, kombineres med godkjenningen i henhold til denne artikkel til én enkelt tillatelse, dersom et slikt format gjør at unødvendig gjentaking av opplysninger og arbeid unngås for den driftsansvarlige for skipsgjenvinningsanlegget eller skipsgjenvinningsselskapet eller vedkommende myndighet. I slike tilfeller kan godkjenningen forlenges i samsvar med tillatelsesordningen nevnt i første ledd, men ikke overstige en periode på høyst fem år.
 
 2\. *EØS-statene* skal opprette og ajourføre en liste over de skipsgjenvinningsanleggene som de har godkjent i henhold til nr. 1.
 
@@ -362,29 +531,76 @@ SKIPSGJENVINNINGSANLEGG
 
 1\. Et skipsgjenvinningsselskap som eier et skipsgjenvinningsanlegg i en tredjestat, og som har til hensikt å gjenvinne skip som seiler under en *EØS-stats* flagg, skal sende inn søknad til Kommisjonen om at nevnte skipsgjenvinningsanlegg kan bli oppført på den europeiske listen.
 
-2\. Søknaden nevnt i nr. 1 skal ledsages av dokumentasjon på at det aktuelle skipsgjenvinningsanlegget oppfyller kravene i artikkel 13 til å gjenvinne skip og til å bli oppført på den europeiske listen i samsvar med artikkel 16.Skipsgjenvinningsselskapet skal særliggi opplysninger om tillatelsen eller godkjenningen til å gjenvinne skip som vedkommende myndighet har utstedt, og, når det er relevant, tillatelsen eller godkjenningen som vedkommende myndighet har utstedt til alle deres leverandører og underleverandører som er direkte involvert i prosessen med å gjenvinne skip, og gi alle de opplysningene som er nevnt i artikkel 16 nr. 2,opplyse om hvorvidt skipsgjenvinningsplanen vil bli godkjent av vedkommende myndighet etter stilltiende eller uttrykkelig godkjenning, og, når det er relevant, angi den perioden som er fastsatt for stilltiende godkjenning i samsvar med nasjonale krav,bekrefte at det bare vil godta gjenvinning av et skip som seiler under en *EØS-stats* flagg, i samsvar med denne forordning,framlegge dokumentasjon på at skipsgjenvinningsanlegget kan opprette, vedlikeholde og overvåke kriteriene for «klargjort for adgang» og «klargjort for varmearbeid» under hele prosessen med å gjenvinne skip,vedlegge et kart over skipsgjenvinningsanleggets grenser og plasseringen av skipsgjenvinningsvirksomheten innenfor anlegget,for hvert farlige materiale nevnt i vedlegg I og ytterligere farlige materialer som kan være en del av et skips konstruksjon, spesifisereom skipsgjenvinningsanlegget er godkjent for å fjerne det farlige materialet; dersom det er godkjent for dette, skal gjeldende personell som er godkjent for å fjerne materialet, angis, og det skal framlegges dokumentasjon på deres kompetanse,hvilken avfallshåndteringsprosess som vil bli brukt innenfor eller utenfor skipsgjenvinningsanlegget, for eksempel avfallsforbrenning, deponering eller annen avfallshåndteringsmetode, navn og adresse på avfallshåndteringsanlegget dersom dette er et annet enn skipsgjenvinningsanlegget, og framlegge bevis for at den anvendte prosessen gjennomføres uten fare for menneskers helse og på en miljømessig forsvarlig måte,bekrefte at selskapet har vedtatt en skipsgjenvinningsplan for anlegget som tar hensyn til relevante retningslinjer fra IMO,gi de opplysningene som er nødvendige for å identifisere skipsgjenvinningsanlegget.
+2\. Søknaden nevnt i nr. 1 skal ledsages av dokumentasjon på at det aktuelle skipsgjenvinningsanlegget oppfyller kravene i artikkel 13 til å gjenvinne skip og til å bli oppført på den europeiske listen i samsvar med artikkel 16.
+
+Skipsgjenvinningsselskapet skal særlig
+
+1. gi opplysninger om tillatelsen eller godkjenningen til å gjenvinne skip som vedkommende myndighet har utstedt, og, når det er relevant, tillatelsen eller godkjenningen som vedkommende myndighet har utstedt til alle deres leverandører og underleverandører som er direkte involvert i prosessen med å gjenvinne skip, og gi alle de opplysningene som er nevnt i artikkel 16 nr. 2,
+2. opplyse om hvorvidt skipsgjenvinningsplanen vil bli godkjent av vedkommende myndighet etter stilltiende eller uttrykkelig godkjenning, og, når det er relevant, angi den perioden som er fastsatt for stilltiende godkjenning i samsvar med nasjonale krav,
+3. bekrefte at det bare vil godta gjenvinning av et skip som seiler under en *EØS-stats* flagg, i samsvar med denne forordning,
+4. framlegge dokumentasjon på at skipsgjenvinningsanlegget kan opprette, vedlikeholde og overvåke kriteriene for «klargjort for adgang» og «klargjort for varmearbeid» under hele prosessen med å gjenvinne skip,
+5. vedlegge et kart over skipsgjenvinningsanleggets grenser og plasseringen av skipsgjenvinningsvirksomheten innenfor anlegget,
+6. for hvert farlige materiale nevnt i vedlegg I og ytterligere farlige materialer som kan være en del av et skips konstruksjon, spesifisere
+
+   1. om skipsgjenvinningsanlegget er godkjent for å fjerne det farlige materialet; dersom det er godkjent for dette, skal gjeldende personell som er godkjent for å fjerne materialet, angis, og det skal framlegges dokumentasjon på deres kompetanse,
+   2. hvilken avfallshåndteringsprosess som vil bli brukt innenfor eller utenfor skipsgjenvinningsanlegget, for eksempel avfallsforbrenning, deponering eller annen avfallshåndteringsmetode, navn og adresse på avfallshåndteringsanlegget dersom dette er et annet enn skipsgjenvinningsanlegget, og framlegge bevis for at den anvendte prosessen gjennomføres uten fare for menneskers helse og på en miljømessig forsvarlig måte,
+7. bekrefte at selskapet har vedtatt en skipsgjenvinningsplan for anlegget som tar hensyn til relevante retningslinjer fra IMO,
+8. gi de opplysningene som er nødvendige for å identifisere skipsgjenvinningsanlegget.
 
 3\. Kommisjonen skal gis myndighet til å vedta gjennomføringsrettsakter for å angi formatet for de opplysningene som kreves for å identifisere skipsgjenvinningsanlegget. Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 25.
 
-4\. For å bli oppført på den europeiske listen skal det sertifiseres at skipsgjenvinningsanlegg i tredjestater oppfyller kravene i artikkel 13, etter at en uavhengig kontrollør med de nødvendige kvalifikasjonene har foretatt en inspeksjon av anlegget. Skipsgjenvinningsselskapet skal forelegge sertifiseringen for Kommisjonen når det søker om å bli oppført på den europeiske listen, og hvert femte år deretter i forbindelse med fornyelsen av oppføringen på den europeiske listen. Den opprinnelige oppføringen på listen og fornyelsen av denne skal utfylles med en midtveisvurdering for å bekrefte at kravene i artikkel 13 er oppfylt.Ved å søke om oppføring på den europeiske listen godtar skipsgjenvinningsselskapene muligheten for at det aktuelle skipsgjenvinningsanlegget kan bli gjenstand for inspeksjoner på anlegget utført av Kommisjonen eller representanter som handler på dens vegne, før eller etter oppføring på den europeiske listen, for å kontrollere at anlegget oppfyller kravene i artikkel 13. Den uavhengige kontrolløren, Kommisjonen eller representanter som handler på dens vegne, skal samarbeide med vedkommende myndigheter i tredjestater der skipsgjenvinningsanlegget befinner seg, for å utføre slike inspeksjoner på anlegget.Kommisjonen kan utarbeide tekniske retningslinjer for å gjøre denne sertifiseringen enklere.
+4\. For å bli oppført på den europeiske listen skal det sertifiseres at skipsgjenvinningsanlegg i tredjestater oppfyller kravene i artikkel 13, etter at en uavhengig kontrollør med de nødvendige kvalifikasjonene har foretatt en inspeksjon av anlegget. Skipsgjenvinningsselskapet skal forelegge sertifiseringen for Kommisjonen når det søker om å bli oppført på den europeiske listen, og hvert femte år deretter i forbindelse med fornyelsen av oppføringen på den europeiske listen. Den opprinnelige oppføringen på listen og fornyelsen av denne skal utfylles med en midtveisvurdering for å bekrefte at kravene i artikkel 13 er oppfylt.
+
+Ved å søke om oppføring på den europeiske listen godtar skipsgjenvinningsselskapene muligheten for at det aktuelle skipsgjenvinningsanlegget kan bli gjenstand for inspeksjoner på anlegget utført av Kommisjonen eller representanter som handler på dens vegne, før eller etter oppføring på den europeiske listen, for å kontrollere at anlegget oppfyller kravene i artikkel 13. Den uavhengige kontrolløren, Kommisjonen eller representanter som handler på dens vegne, skal samarbeide med vedkommende myndigheter i tredjestater der skipsgjenvinningsanlegget befinner seg, for å utføre slike inspeksjoner på anlegget.
+
+Kommisjonen kan utarbeide tekniske retningslinjer for å gjøre denne sertifiseringen enklere.
 
 5\. Med hensyn til artikkel 13, når det gjelder den aktuelle gjenvinningen eller disponeringen av avfall, kan en miljømessig forsvarlig håndtering bare anses for å være til stede dersom skipsgjenvinningsselskapet kan godtgjøre at avfallshåndteringsanlegget som mottar avfallet, vil bli drevet i henhold til standarder for vern av menneskers helse og miljøet, som i hovedsak tilsvarer relevante internasjonale standarder og EU-standarder.
 
-6\. Skipsgjenvinningsselskapet skal snarest mulig framlegge ajourført dokumentasjon for eventuelle endringer i de opplysningene som er gitt til Kommisjonen, og skal under alle omstendigheter tre måneder før utløpet av hver femårsperiode for oppføringen på den europeiske listen, erklære atdokumentasjonen det har framlagt, er fullstendig og ajourført,skipsgjenvinningsanlegget oppfyller og vil fortsette å oppfylle kravene i artikkel 13.
+6\. Skipsgjenvinningsselskapet skal snarest mulig framlegge ajourført dokumentasjon for eventuelle endringer i de opplysningene som er gitt til Kommisjonen, og skal under alle omstendigheter tre måneder før utløpet av hver femårsperiode for oppføringen på den europeiske listen, erklære at
+
+1. dokumentasjonen det har framlagt, er fullstendig og ajourført,
+2. skipsgjenvinningsanlegget oppfyller og vil fortsette å oppfylle kravene i artikkel 13.
 
 ### Artikkel 16. Opprettelse og ajourføring av den europeiske listen
 
-1\. Kommisjonen skal vedta gjennomføringsrettsakter for å opprette en europeisk liste over skipsgjenvinningsanlegg sombefinner seg i Unionen og er meldt av medlemsstatene i samsvar med artikkel 14 nr. 3, *eller befinner seg i en EFTA-stat og er meldt av den EFTA-staten til EFTAs overvåkingsorgan i samsvar med artikkel 14 (3)*,befinner seg i tredjestater, og som oppføres på listen på grunnlag av en vurdering av de opplysningene og utfyllende bevis som er framlagt eller innhentet i samsvar med artikkel 15.Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 25.
+1\. Kommisjonen skal vedta gjennomføringsrettsakter for å opprette en europeisk liste over skipsgjenvinningsanlegg som
 
-2\. Den europeiske listen skal offentliggjøres i *Den europeiske unions tidende* og på Kommisjonens nettsted innen 31. desember 2016. Den skal deles opp i to underlister som angir henholdsvis skipsgjenvinningsanlegg *som befinner seg i EØS-området* og skipsgjenvinningsanlegg i en tredjestat.Den europeiske listen skal inneholde alle følgende opplysninger om skipsgjenvinningsanlegget:Gjenvinningsmetoden.Skipstype og størrelse på skipene som kan gjenvinnes.Eventuelle begrensninger og vilkår for skipsgjenvinningsanleggets drift, herunder med hensyn til håndtering av farlig avfall.Nærmere opplysninger om uttrykkelig eller stilltiende godkjenning nevnt i artikkel 7 nr. 3 for vedkommende myndigheters godkjenning av skipsgjenvinningsplanen.Største årlige kapasitet for gjenvinning av skip.
+1. befinner seg i Unionen og er meldt av medlemsstatene i samsvar med artikkel 14 nr. 3, *eller befinner seg i en EFTA-stat og er meldt av den EFTA-staten til EFTAs overvåkingsorgan i samsvar med artikkel 14 (3)*,
+2. befinner seg i tredjestater, og som oppføres på listen på grunnlag av en vurdering av de opplysningene og utfyllende bevis som er framlagt eller innhentet i samsvar med artikkel 15.
+
+Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 25.
+
+2\. Den europeiske listen skal offentliggjøres i *Den europeiske unions tidende* og på Kommisjonens nettsted innen 31. desember 2016. Den skal deles opp i to underlister som angir henholdsvis skipsgjenvinningsanlegg *som befinner seg i EØS-området* og skipsgjenvinningsanlegg i en tredjestat.
+
+Den europeiske listen skal inneholde alle følgende opplysninger om skipsgjenvinningsanlegget:
+
+1. Gjenvinningsmetoden.
+2. Skipstype og størrelse på skipene som kan gjenvinnes.
+3. Eventuelle begrensninger og vilkår for skipsgjenvinningsanleggets drift, herunder med hensyn til håndtering av farlig avfall.
+4. Nærmere opplysninger om uttrykkelig eller stilltiende godkjenning nevnt i artikkel 7 nr. 3 for vedkommende myndigheters godkjenning av skipsgjenvinningsplanen.
+5. Største årlige kapasitet for gjenvinning av skip.
 
 3\. Den europeiske listen skal angi hvilken dato skipsgjenvinningsanleggets oppføring på listen opphører. En oppføring skal gjelde for en periode på høyst fem år og skal være mulig å fornye.
 
-4\. Kommisjonen skal vedta gjennomføringsrettsakter for regelmessig å ajourføre den europeiske listen for åoppføre et skipsgjenvinningsanlegg på den europeiske listen nårdet er godkjent i samsvar med artikkel 14, elleranleggets oppføring på den europeiske listen er vedtatt i samsvar med nr. 1 bokstav b) i denne artikkel,fjerne et skipsgjenvinningsanlegg fra den europeiske listen nårskipsgjenvinningsanlegget ikke lenger oppfyller kravene i artikkel 13, ellerden ajourførte dokumentasjonen ikke er framlagt minst tre måneder før utløpet av den femårsperioden som er fastsatt i nr. 3 i denne artikkel.Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 25.
+4\. Kommisjonen skal vedta gjennomføringsrettsakter for regelmessig å ajourføre den europeiske listen for å
+
+1. oppføre et skipsgjenvinningsanlegg på den europeiske listen når
+
+   1. det er godkjent i samsvar med artikkel 14, eller
+   2. anleggets oppføring på den europeiske listen er vedtatt i samsvar med nr. 1 bokstav b) i denne artikkel,
+2. fjerne et skipsgjenvinningsanlegg fra den europeiske listen når
+
+   1. skipsgjenvinningsanlegget ikke lenger oppfyller kravene i artikkel 13, eller
+   2. den ajourførte dokumentasjonen ikke er framlagt minst tre måneder før utløpet av den femårsperioden som er fastsatt i nr. 3 i denne artikkel.
+
+Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 25.
 
 5\. Ved opprettelsen og ajourføringen av den europeiske listen skal Kommisjonen handle i samsvar med prinsippene i traktatene og med Unionens internasjonale forpliktelser.
 
-6\. Medlemsstatene skal underrette Kommisjonen om alle opplysninger som kan være relevante for å ajourføre den europeiske listen. Kommisjonen skal videresende alle relevante opplysninger til de øvrige medlemsstatene.*For denne artikkels formål skal EFTAs overvåkingsorgan melde til kommisjonen all relevant informasjon det mottar fra EFTA-statene i henhold til første avsnitt av artikkel 14*.
+6\. Medlemsstatene skal underrette Kommisjonen om alle opplysninger som kan være relevante for å ajourføre den europeiske listen. Kommisjonen skal videresende alle relevante opplysninger til de øvrige medlemsstatene.
+
+*For denne artikkels formål skal EFTAs overvåkingsorgan melde til kommisjonen all relevant informasjon det mottar fra EFTA-statene i henhold til første avsnitt av artikkel 14*.
 
 ### AVDELING IV
 GENERELLE ADMINISTRATIVE BESTEMMELSER
@@ -418,9 +634,17 @@ RAPPORTERING OG HÅNDHEVING
 
 ### Artikkel 21. Rapporter fra EØS-statene
 
-1\. Hver *EØS-stat* skal oversende en rapport til Kommisjonen med følgende opplysninger:En liste over skip som seiler under *EØS-statens* flagg, og som det er utstedt et gjenvinningssertifikat for, navnet på skipsgjenvinningsselskapet og skipsgjenvinningsanleggets beliggenhet i henhold til gjenvinningssertifikatet.En liste over skip som seiler under *EØS-statens* flagg, og som det er mottatt erklæring om sluttført gjenvinning for.Opplysninger om ulovlig gjenvinning av skip, sanksjoner og oppfølgingstiltak som *EØS-staten* har iverksatt.
+1\. Hver *EØS-stat* skal oversende en rapport til Kommisjonen med følgende opplysninger:
 
-2\. Hver *EØS-stat* skal hvert tredje år sende rapporten elektronisk til Kommisjonen innen ni måneder etter at den treårsperioden som rapporten dekker, er utløpt.Den første elektroniske rapporten skal omfatte perioden fra tidspunktet for anvendelsen av denne forordning til utløpet av første regelmessige treårige rapporteringsperiode som angitt i artikkel 5 i rådsdirektiv [91/692/EØF](eu/31991l0692*),1 som faller etter datoen for innledningen av den første rapporteringsperioden.Kommisjonen skal offentliggjøre en rapport om anvendelsen av denne forordning innen ni måneder etter at den har mottatt rapportene fra *EØS-statene*.
+1. En liste over skip som seiler under *EØS-statens* flagg, og som det er utstedt et gjenvinningssertifikat for, navnet på skipsgjenvinningsselskapet og skipsgjenvinningsanleggets beliggenhet i henhold til gjenvinningssertifikatet.
+2. En liste over skip som seiler under *EØS-statens* flagg, og som det er mottatt erklæring om sluttført gjenvinning for.
+3. Opplysninger om ulovlig gjenvinning av skip, sanksjoner og oppfølgingstiltak som *EØS-staten* har iverksatt.
+
+2\. Hver *EØS-stat* skal hvert tredje år sende rapporten elektronisk til Kommisjonen innen ni måneder etter at den treårsperioden som rapporten dekker, er utløpt.
+
+Den første elektroniske rapporten skal omfatte perioden fra tidspunktet for anvendelsen av denne forordning til utløpet av første regelmessige treårige rapporteringsperiode som angitt i artikkel 5 i rådsdirektiv [91/692/EØF](eu/31991l0692*),1 som faller etter datoen for innledningen av den første rapporteringsperioden.
+
+Kommisjonen skal offentliggjøre en rapport om anvendelsen av denne forordning innen ni måneder etter at den har mottatt rapportene fra *EØS-statene*.
 
 3\. Kommisjonen skal samle disse opplysningene i en elektronisk database som hele tiden skal være tilgjengelig for allmennheten.
 
@@ -440,7 +664,9 @@ RAPPORTERING OG HÅNDHEVING
 
 ### Artikkel 23. Anmodning om tiltak
 
-1\. Fysiske eller juridiske personer som er eller kan bli berørt av overtredelser av artikkel 13 i sammenheng med artikkel 15 og artikkel 16 nr. 1 bokstav b) i denne forordning, eller som har tilstrekkelig interesse i beslutningsprosesser på miljøområdet som gjelder overtredelse av artikkel 13 i sammenheng med artikkel 15 og artikkel 16 nr. 1 bokstav b) i denne forordning, skal ha rett til å kreve at Kommisjonen treffer tiltak etter denne forordning ved overtredelse av denne forordning eller en overhengende fare for overtredelse.Den interessen som en hvilken som helst ikke-statlig organisasjon som arbeider for miljøvern måtte ha, og som oppfyller kravene i artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 1367/2006](eu/32006r1367),1 skal anses som tilstrekkelig med hensyn til første ledd.
+1\. Fysiske eller juridiske personer som er eller kan bli berørt av overtredelser av artikkel 13 i sammenheng med artikkel 15 og artikkel 16 nr. 1 bokstav b) i denne forordning, eller som har tilstrekkelig interesse i beslutningsprosesser på miljøområdet som gjelder overtredelse av artikkel 13 i sammenheng med artikkel 15 og artikkel 16 nr. 1 bokstav b) i denne forordning, skal ha rett til å kreve at Kommisjonen treffer tiltak etter denne forordning ved overtredelse av denne forordning eller en overhengende fare for overtredelse.
+
+Den interessen som en hvilken som helst ikke-statlig organisasjon som arbeider for miljøvern måtte ha, og som oppfyller kravene i artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 1367/2006](eu/32006r1367),1 skal anses som tilstrekkelig med hensyn til første ledd.
 
 2\. Anmodningen om tiltak skal ledsages av relevante opplysninger og data som støtte for anmodningen.
 
@@ -469,7 +695,9 @@ SLUTTBESTEMMELSER
 
 1\. Kommisjonen skal bistås av en komité. Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
 
-2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.
+
+Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
 
 ### Artikkel 26. Overgangsbestemmelse
 
@@ -477,13 +705,17 @@ Fra tidspunktet for offentliggjøringen av den europeiske listen kan *EØS-state
 
 ### Artikkel 27. Endring av forordning (EF) nr. 1013/2006
 
-I artikkel 1 nr. 3 i forordning [(EF) nr. 1013/2006](eu/32006r1013*) skal ny bokstav i) lyde:skip som seiler under en *EØS-stats* flagg, og som omfattes av virkeområdet for europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257).»\*
+I artikkel 1 nr. 3 i forordning [(EF) nr. 1013/2006](eu/32006r1013*) skal ny bokstav i) lyde:
+
+1. skip som seiler under en *EØS-stats* flagg, og som omfattes av virkeområdet for europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257).»\*
 
 \* Europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257) av 20. november 2013 om gjenvinning av skip og om endring av forordning [(EF) nr. 1013/2006](eu/32006r1013*) og direktiv [2009/16/EF](eu/32009l0016*) (EUT L 330 av 10.12.2013, s. 1.).
 
 ### Artikkel 28. Endring av direktiv 2009/16/EF
 
-I vedlegg IV skal nytt nr. 49 lyde:Sertifikat for fortegnelsen over farlige materialer eller en samsvarserklæring i henhold til europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257).»\*
+I vedlegg IV skal nytt nr. 49 lyde:
+
+1. Sertifikat for fortegnelsen over farlige materialer eller en samsvarserklæring i henhold til europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257).»\*
 
 \* Europaparlaments- og rådsforordning [(EU) nr. 1257/2013](eu/32013r1257) av 20. november 2013 om gjenvinning av skip og om endring av forordning [(EF) nr. 1013/2006](eu/32006r1013*) og direktiv [2009/16/EF](eu/32009l0016*) (EUT L 330 av 10.12.2013, s. 1.).
 
@@ -507,13 +739,31 @@ Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den eur
 
 ### Artikkel 32. Anvendelse
 
-1\. Denne forordning får anvendelse fra den tidligste av følgende to datoer, men ikke før 31. desember 2015:Seks måneder etter den datoen når den største årlige kapasiteten for gjenvinning av skip på de skipsgjenvinningsanleggene som står oppført på den europeiske listen, til sammen utgjør minst 2,5 millioner tonn lettskipsvekt (LDT). Den årlige kapasiteten for gjenvinning av skip for et skipsgjenvinningsanlegg beregnes som summen av vekten, uttrykt i LDT, av de skipene som er gjenvunnet i et gitt år på det gjeldende anlegget. Den største årlige kapasiteten for gjenvinning av skip fastsettes ved å velge den høyeste verdien som forekommer i den foregående tiårsperioden for hvert skipsgjenvinningsanlegg, eller, for skipsgjenvinningsanlegg som nylig er blitt godkjent, den høyeste årlige verdien som det gjeldende anlegget har oppnådd, eller31. desember 2018.
+1\. Denne forordning får anvendelse fra den tidligste av følgende to datoer, men ikke før 31. desember 2015:
 
-2\. I forbindelse med følgende bestemmelser gjelder imidlertid følgende anvendelsesdatoer:Artikkel 2, artikkel 5 nr. 2 annet ledd, artikkel 13, 14, 15, 16, 25 og 26 fra 31. desember 2014.Artikkel 5 nr. 2 første og tredje ledd og artikkel 12 nr. 1 og 8 fra 31. desember 2020.
+1. Seks måneder etter den datoen når den største årlige kapasiteten for gjenvinning av skip på de skipsgjenvinningsanleggene som står oppført på den europeiske listen, til sammen utgjør minst 2,5 millioner tonn lettskipsvekt (LDT). Den årlige kapasiteten for gjenvinning av skip for et skipsgjenvinningsanlegg beregnes som summen av vekten, uttrykt i LDT, av de skipene som er gjenvunnet i et gitt år på det gjeldende anlegget. Den største årlige kapasiteten for gjenvinning av skip fastsettes ved å velge den høyeste verdien som forekommer i den foregående tiårsperioden for hvert skipsgjenvinningsanlegg, eller, for skipsgjenvinningsanlegg som nylig er blitt godkjent, den høyeste årlige verdien som det gjeldende anlegget har oppnådd, eller
+2. 31\. desember 2018.
+
+2\. I forbindelse med følgende bestemmelser gjelder imidlertid følgende anvendelsesdatoer:
+
+1. Artikkel 2, artikkel 5 nr. 2 annet ledd, artikkel 13, 14, 15, 16, 25 og 26 fra 31. desember 2014.
+2. Artikkel 5 nr. 2 første og tredje ledd og artikkel 12 nr. 1 og 8 fra 31. desember 2020.
 
 3\. Når vilkårene nevnt i nr. 1 bokstav a) er oppfylt, skal Kommisjonen i *Den europeiske unions tidende* offentliggjøre en meddelelse om tidspunktet for anvendelsen av denne forordning.
 
-4\. Dersom en *EØS-stat* har stengt sitt nasjonale skipsregister eller i en periode på tre år ikke har hatt skip registrert under sitt flagg, og så lenge ingen skip er registrert under dens flagg, kan den gjeldende *EØS-staten* fravike bestemmelsene i denne forordning, med unntak av artikkel 4, 5, 11, 12, 13, 14, artikkel 16 nr. 6 samt artikkel 18, 19, 20, 21 og 22. Dersom en *EØS-stat* ønsker å benytte seg av dette unntaket, skal den underrette Kommisjonen om dette senest på datoen for anvendelsen av denne forordning. Kommisjonen skal også underrettes om senere endringer.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle *EØS-stater*.Utferdiget i Strasbourg 20. november 2013.*For Europaparlamentet**For Rådet*M. SCHULZ V.LEŠKEVIČIUS*President**Formann*
+4\. Dersom en *EØS-stat* har stengt sitt nasjonale skipsregister eller i en periode på tre år ikke har hatt skip registrert under sitt flagg, og så lenge ingen skip er registrert under dens flagg, kan den gjeldende *EØS-staten* fravike bestemmelsene i denne forordning, med unntak av artikkel 4, 5, 11, 12, 13, 14, artikkel 16 nr. 6 samt artikkel 18, 19, 20, 21 og 22. Dersom en *EØS-stat* ønsker å benytte seg av dette unntaket, skal den underrette Kommisjonen om dette senest på datoen for anvendelsen av denne forordning. Kommisjonen skal også underrettes om senere endringer.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle *EØS-stater*.
+
+Utferdiget i Strasbourg 20. november 2013.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| M. SCHULZ V. | LEŠKEVIČIUS |
+|  |  |
+| *President* | *Formann* |
 
 ### VEDLEGG I
 KONTROLL AV FARLIGE MATERIALER
@@ -592,11 +842,27 @@ Partene i denne konvensjonen,
 
 ### ARTIKKEL 2. Definisjoner
 
-Med mindre annet er uttrykkelig angitt, gjelder følgende definisjoner for denne konvensjonen:«Konvensjon» betyr den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip, 2009.«Administrasjon» betyr regjeringen i staten hvis flagg skipet har rett til å seile under, eller hvis myndighet skipet opererer under.«Kompetent(e) myndighet(er)» betyr den eller de offentlige myndighet(er) en part har utpekt som ansvarlig(e) for spesifikke geografiske områder eller fagområder i saker som gjelder skipsgjenvinningsanlegg som opererer innenfor vedkommende parts jurisdiksjon som angitt i denne konvensjonen.«Organisasjon» betyr den internasjonale sjøfartsorganisasjonen (IMO).«Generalsekretær» betyr organisasjonens generalsekretær.«Komité» betyr organisasjonens miljøvernkomité (MEPC).«Skip» betyr enhver type fartøy som opererer eller har operert i havet, inkludert undervannsfartøy, flytende fartøy, flytende plattformer, oppjekkbare plattformer, flytende lagringsenheter (FSU-er) og flytende produksjons-, lagrings- og losseenheter (FPSO-er) samt fartøy som er strippet for utstyr eller er under slep.«Bruttotonnasje» betyr bruttotonnasjen (BT) beregnet i samsvar med reglene for måling av tonnasje fastsatt i vedlegg I til den internasjonale konvensjonen om måling av fartøyer (1969) eller en eventuell etterfølgende konvensjon.«Farlig materiale» betyr ethvert materiale eller stoff som kan antas å være til fare for menneskers helse og/eller miljøet.«Skipsgjenvinning» betyr fullstendig eller delvis demontering av et skip ved et skipsgjenvinningsanlegg for å gjenvinne komponenter og materialer for bearbeiding og ombruk, samtidig som farlige materialer og annet avfall håndteres forsvarlig, og begrepet omfatter tilknyttede operasjoner som lagring og behandling av komponenter og materialer på anlegget, men ikke videre behandling eller disponering ved separate anlegg.«Skipsgjenvinningsanlegg» betyr et definert område, verft eller anlegg som brukes til gjenvinning av skip.«Gjenvinningsselskap» betyr eieren av skipsgjenvinningsanlegget eller en annen organisasjon eller person som har overtatt ansvaret for driften av skipsgjenvinningsaktiviteten fra eieren av skipsgjenvinningsanlegget, og som ved ansvarsovertakelsen har påtatt seg alle plikter og alt ansvar som følger av denne konvensjonen.
+Med mindre annet er uttrykkelig angitt, gjelder følgende definisjoner for denne konvensjonen:
+
+1. «Konvensjon» betyr den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip, 2009.
+2. «Administrasjon» betyr regjeringen i staten hvis flagg skipet har rett til å seile under, eller hvis myndighet skipet opererer under.
+3. «Kompetent(e) myndighet(er)» betyr den eller de offentlige myndighet(er) en part har utpekt som ansvarlig(e) for spesifikke geografiske områder eller fagområder i saker som gjelder skipsgjenvinningsanlegg som opererer innenfor vedkommende parts jurisdiksjon som angitt i denne konvensjonen.
+4. «Organisasjon» betyr den internasjonale sjøfartsorganisasjonen (IMO).
+5. «Generalsekretær» betyr organisasjonens generalsekretær.
+6. «Komité» betyr organisasjonens miljøvernkomité (MEPC).
+7. «Skip» betyr enhver type fartøy som opererer eller har operert i havet, inkludert undervannsfartøy, flytende fartøy, flytende plattformer, oppjekkbare plattformer, flytende lagringsenheter (FSU-er) og flytende produksjons-, lagrings- og losseenheter (FPSO-er) samt fartøy som er strippet for utstyr eller er under slep.
+8. «Bruttotonnasje» betyr bruttotonnasjen (BT) beregnet i samsvar med reglene for måling av tonnasje fastsatt i vedlegg I til den internasjonale konvensjonen om måling av fartøyer (1969) eller en eventuell etterfølgende konvensjon.
+9. «Farlig materiale» betyr ethvert materiale eller stoff som kan antas å være til fare for menneskers helse og/eller miljøet.
+10. «Skipsgjenvinning» betyr fullstendig eller delvis demontering av et skip ved et skipsgjenvinningsanlegg for å gjenvinne komponenter og materialer for bearbeiding og ombruk, samtidig som farlige materialer og annet avfall håndteres forsvarlig, og begrepet omfatter tilknyttede operasjoner som lagring og behandling av komponenter og materialer på anlegget, men ikke videre behandling eller disponering ved separate anlegg.
+11. «Skipsgjenvinningsanlegg» betyr et definert område, verft eller anlegg som brukes til gjenvinning av skip.
+12. «Gjenvinningsselskap» betyr eieren av skipsgjenvinningsanlegget eller en annen organisasjon eller person som har overtatt ansvaret for driften av skipsgjenvinningsaktiviteten fra eieren av skipsgjenvinningsanlegget, og som ved ansvarsovertakelsen har påtatt seg alle plikter og alt ansvar som følger av denne konvensjonen.
 
 ### ARTIKKEL 3. Anvendelse
 
-1 Med mindre annet er uttrykkelig angitt i denne konvensjonen, gjelder konvensjonen forskip som har rett til å føre en parts flagg eller opererer under dens myndighetskipsgjenvinningsanlegg som opererer under en parts jurisdiksjon.
+1 Med mindre annet er uttrykkelig angitt i denne konvensjonen, gjelder konvensjonen for
+
+1. skip som har rett til å føre en parts flagg eller opererer under dens myndighet
+2. skipsgjenvinningsanlegg som opererer under en parts jurisdiksjon.
 
 2 Denne konvensjonen gjelder ikke for krigsskip, marinens hjelpefartøy eller andre skip som eies eller opereres av en part, og som for tiden bare brukes i statlig, ikke-kommersiell virksomhet. Hver part skal imidlertid vedta hensiktsmessige tiltak som ikke svekker driften eller driftskapasiteten til slike skip som eies eller opereres av parten, for å sikre at de opptrer i samsvar med denne konvensjonen så langt det er rimelig og praktisk mulig.
 
@@ -626,7 +892,12 @@ For skipsgjenvinningsanlegg som er autorisert av en part, skal denne parten, på
 
 1 Et skip som omfattes av denne konvensjonen, kan bli inspisert av autoriserte tjenestemenn fra en annen part i havner eller offshoreterminaler for å fastslå om skipet overholder konvensjonen. Med mindre annet er angitt i nr. 2, er en slik inspeksjon begrenset til å verifisere at det finnes enten et internasjonalt sertifikat om farlige stoffer om bord eller et internasjonalt sertifikat for gjenvinningsklart skip som skal aksepteres så lenge det er gyldig.
 
-2 Dersom et skip ikke har gyldig sertifikat, eller det er skjellig grunn til å anta atskipets eller skipsutstyrets tilstand ikke i det vesentlige er i samsvar med opplysningene i sertifikatet og/eller del I av fortegnelsen over farlige materialer, ellerdet ikke er etablert en prosedyre om bord for vedlikehold av del I av fortegnelsen over farlige materialer,kan det utføres en detaljert inspeksjon basert på retningslinjer utarbeidet av organisasjonen.
+2 Dersom et skip ikke har gyldig sertifikat, eller det er skjellig grunn til å anta at
+
+1. skipets eller skipsutstyrets tilstand ikke i det vesentlige er i samsvar med opplysningene i sertifikatet og/eller del I av fortegnelsen over farlige materialer, eller
+2. det ikke er etablert en prosedyre om bord for vedlikehold av del I av fortegnelsen over farlige materialer,
+
+kan det utføres en detaljert inspeksjon basert på retningslinjer utarbeidet av organisasjonen.
 
 ### ARTIKKEL 9. Avdekking av overtredelser
 
@@ -640,9 +911,17 @@ For skipsgjenvinningsanlegg som er autorisert av en part, skal denne parten, på
 
 ### ARTIKKEL 10. Overtredelser
 
-1 Enhver overtredelse av kravene i denne konvensjonen skal være forbudt i henhold til nasjonal lovgivning, ognår det gjelder skip, skal sanksjoner fastsettes i samsvar med administrasjonens lovgivning, uavhengig av hvor overtredelsen finner sted. Hvis administrasjonen blir informert om en slik overtredelse av en part, skal den undersøke saken og eventuelt be den rapporterende parten om å fremlegge ytterligere bevis på den angivelige overtredelsen. Hvis administrasjonen finner at det foreligger tilstrekkelig bevis til å iverksette tiltak i forbindelse med den angivelige overtredelsen, skal den sørge for at slike tiltak blir iverksatt så snart som mulig i samsvar med sin lovgivning.Administrasjonen skal straks informere parten som rapporterte den angivelige overtredelsen, samt organisasjonen, om eventuelle tiltak som er iverksatt. Hvis administrasjonen ikke har iverksatt tiltak innen ett år etter å ha mottatt opplysningene, skal den informere parten som rapporterte den angivelige overtredelsen, og organisasjonen om årsakene til at ingen tiltak er iverksatt.når det gjelder skipsgjenvinningsanlegg, skal sanksjoner fastsettes i henhold til lovgivningen til parten som har jurisdiksjon over skipsgjenvinningsanlegget. Hvis en part blir informert om en slik overtredelse av en annen part, skal den undersøke saken og eventuelt be den rapporterende parten om å gi ytterligere bevis for den påståtte overtredelsen. Hvis parten finner at det er tilstrekkelig bevis for den angivelige overtredelsen til å iverksette rettslige skritt, skal den sørge for at rettslige skritt iverksettes så snart som mulig i samsvar med sin lovgivning. Parten skal umiddelbart informere den parten som rapporterte overtredelsen, samt organisasjonen, om tiltakene som er iverksatt. Hvis parten ikke har iverksatt tiltak innen ett år etter å ha mottatt opplysningene, skal den informere parten som rapporterte den angivelige overtredelsen, og organisasjonen om årsakene til at ingen tiltak er iverksatt.
+1 Enhver overtredelse av kravene i denne konvensjonen skal være forbudt i henhold til nasjonal lovgivning, og
 
-2 Enhver overtredelse av bestemmelsene i denne konvensjonen innenfor en parts jurisdiksjon skal være forbudt, og sanksjoner skal etableres i henhold til partens lovgivning. Når en slik overtredelse finner sted, skal parten enteniverksette rettslige skritt i samsvar med sin lovgivning, ellergi skipets administrasjon de opplysninger og bevis den måtte ha om at en overtredelse har funnet sted.
+1. når det gjelder skip, skal sanksjoner fastsettes i samsvar med administrasjonens lovgivning, uavhengig av hvor overtredelsen finner sted. Hvis administrasjonen blir informert om en slik overtredelse av en part, skal den undersøke saken og eventuelt be den rapporterende parten om å fremlegge ytterligere bevis på den angivelige overtredelsen. Hvis administrasjonen finner at det foreligger tilstrekkelig bevis til å iverksette tiltak i forbindelse med den angivelige overtredelsen, skal den sørge for at slike tiltak blir iverksatt så snart som mulig i samsvar med sin lovgivning.
+
+   Administrasjonen skal straks informere parten som rapporterte den angivelige overtredelsen, samt organisasjonen, om eventuelle tiltak som er iverksatt. Hvis administrasjonen ikke har iverksatt tiltak innen ett år etter å ha mottatt opplysningene, skal den informere parten som rapporterte den angivelige overtredelsen, og organisasjonen om årsakene til at ingen tiltak er iverksatt.
+2. når det gjelder skipsgjenvinningsanlegg, skal sanksjoner fastsettes i henhold til lovgivningen til parten som har jurisdiksjon over skipsgjenvinningsanlegget. Hvis en part blir informert om en slik overtredelse av en annen part, skal den undersøke saken og eventuelt be den rapporterende parten om å gi ytterligere bevis for den påståtte overtredelsen. Hvis parten finner at det er tilstrekkelig bevis for den angivelige overtredelsen til å iverksette rettslige skritt, skal den sørge for at rettslige skritt iverksettes så snart som mulig i samsvar med sin lovgivning. Parten skal umiddelbart informere den parten som rapporterte overtredelsen, samt organisasjonen, om tiltakene som er iverksatt. Hvis parten ikke har iverksatt tiltak innen ett år etter å ha mottatt opplysningene, skal den informere parten som rapporterte den angivelige overtredelsen, og organisasjonen om årsakene til at ingen tiltak er iverksatt.
+
+2 Enhver overtredelse av bestemmelsene i denne konvensjonen innenfor en parts jurisdiksjon skal være forbudt, og sanksjoner skal etableres i henhold til partens lovgivning. Når en slik overtredelse finner sted, skal parten enten
+
+1. iverksette rettslige skritt i samsvar med sin lovgivning, eller
+2. gi skipets administrasjon de opplysninger og bevis den måtte ha om at en overtredelse har funnet sted.
 
 3 Sanksjonene som følger av en parts lovgivning i henhold til denne artikkelen, skal være tilstrekkelig strenge til å avskrekke fra overtredelser av denne konvensjonen, uansett hvor de måtte finne sted.
 
@@ -654,11 +933,24 @@ For skipsgjenvinningsanlegg som er autorisert av en part, skal denne parten, på
 
 ### ARTIKKEL 12. Formidling av opplysninger
 
-Hver part skal rapportere til organisasjonen, og organisasjonen skal, når det er hensiktsmessig, dele følgende opplysninger:en liste over skipsgjenvinningsanlegg som er autorisert i henhold til denne konvensjonen og opererer under partens jurisdiksjon,kontaktinformasjon til kompetente myndighet(er), inkludert ett enkelt kontaktpunkt for den aktuelle parten,en liste over anerkjente organisasjoner og oppnevnte inspektører som er autorisert til å handle på vegne av parten når det gjelder administrasjon av saker om kontroll av skipsgjenvinning i henhold til denne konvensjonen, samt de spesifikke ansvarsområdene og betingelsene for myndigheten som er delegert til de anerkjente organisasjonene eller de oppnevnte inspektørene,en årlig liste over skip som fører partens flagg og har fått utstedt et internasjonalt sertifikat for gjenvinningsklart skip, inkludert navnet på gjenvinningsselskapet og beliggenheten til skipsgjenvinningsanlegget som oppgitt på sertifikatet,en årlig liste over skip som er gjenvunnet innenfor partens jurisdiksjon,informasjon om overtredelser av denne konvensjonen, ogtiltak som er iverksatt overfor skip og skipsgjenvinningsanlegg under partens jurisdiksjon.
+Hver part skal rapportere til organisasjonen, og organisasjonen skal, når det er hensiktsmessig, dele følgende opplysninger:
+
+1. en liste over skipsgjenvinningsanlegg som er autorisert i henhold til denne konvensjonen og opererer under partens jurisdiksjon,
+2. kontaktinformasjon til kompetente myndighet(er), inkludert ett enkelt kontaktpunkt for den aktuelle parten,
+3. en liste over anerkjente organisasjoner og oppnevnte inspektører som er autorisert til å handle på vegne av parten når det gjelder administrasjon av saker om kontroll av skipsgjenvinning i henhold til denne konvensjonen, samt de spesifikke ansvarsområdene og betingelsene for myndigheten som er delegert til de anerkjente organisasjonene eller de oppnevnte inspektørene,
+4. en årlig liste over skip som fører partens flagg og har fått utstedt et internasjonalt sertifikat for gjenvinningsklart skip, inkludert navnet på gjenvinningsselskapet og beliggenheten til skipsgjenvinningsanlegget som oppgitt på sertifikatet,
+5. en årlig liste over skip som er gjenvunnet innenfor partens jurisdiksjon,
+6. informasjon om overtredelser av denne konvensjonen, og
+7. tiltak som er iverksatt overfor skip og skipsgjenvinningsanlegg under partens jurisdiksjon.
 
 ### ARTIKKEL 13. Faglig bistand og samarbeid
 
-1 Partene forplikter seg til, enten direkte eller gjennom organisasjonen og andre internasjonale organer, avhengig av hva som er relevant, å støtte parter som ber om faglig bistand til å foreta sikker og miljømessig forsvarlig gjenvinning av skip, ved blant annet ålære opp personell,sikre tilgjengeligheten av relevant teknologi, utstyr og anlegg,starte felles forsknings- og utviklingsprogrammer, ogiverksette andre tiltak rettet mot effektiv gjennomføring av denne konvensjonen og de tilhørende retningslinjene utarbeidet av organisasjonen.
+1 Partene forplikter seg til, enten direkte eller gjennom organisasjonen og andre internasjonale organer, avhengig av hva som er relevant, å støtte parter som ber om faglig bistand til å foreta sikker og miljømessig forsvarlig gjenvinning av skip, ved blant annet å
+
+1. lære opp personell,
+2. sikre tilgjengeligheten av relevant teknologi, utstyr og anlegg,
+3. starte felles forsknings- og utviklingsprogrammer, og
+4. iverksette andre tiltak rettet mot effektiv gjennomføring av denne konvensjonen og de tilhørende retningslinjene utarbeidet av organisasjonen.
 
 2 Partene forplikter seg videre til å samarbeide aktivt, i henhold til sine nasjonale lover, forskrifter og retningslinjer, om overføring av styringssystemer og teknologi for sikker og miljømessig forsvarlig gjenvinning av skip.
 
@@ -676,7 +968,11 @@ Partene skal løse enhver tvist seg imellom om tolkning eller anvendelse av denn
 
 1 Denne konvensjonen skal være åpen for undertegning av enhver stat ved organisasjonens hovedkontor fra 1. september 2009 til 31. august 2010, og skal deretter forbli åpen for tiltredelse av enhver stat.
 
-2 Stater kan bli parter i denne konvensjonen vedundertegning uten forbehold om ratifikasjon, aksept eller godkjenning, ellerundertegning med forbehold om ratifikasjon, aksept eller godkjenning, etterfulgt av ratifikasjon, aksept eller godkjenning, ellertiltredelse
+2 Stater kan bli parter i denne konvensjonen ved
+
+1. undertegning uten forbehold om ratifikasjon, aksept eller godkjenning, eller
+2. undertegning med forbehold om ratifikasjon, aksept eller godkjenning, etterfulgt av ratifikasjon, aksept eller godkjenning, eller
+3. tiltredelse
 
 3 Ratifikasjon, aksept, godkjenning eller tiltredelse skal skje ved deponering av et dokument om dette hos generalsekretæren.
 
@@ -688,7 +984,11 @@ Partene skal løse enhver tvist seg imellom om tolkning eller anvendelse av denn
 
 ### ARTIKKEL 17. Ikrafttredelse
 
-1 Denne konvensjonen trer i kraft 24 måneder etter at følgende betingelser er oppfylt:Minst 15 stater har enten undertegnet den uten forbehold om ratifikasjon, aksept eller godkjenning, eller har deponert det nødvendige ratifikasjons-, aksept-, godkjennings- eller tiltredelsesdokumentet i henhold til artikkel 16.De samlede handelsflåtene til statene nevnt i nr. 1.1 utgjør minst 40 % av den samlede bruttotonnasjen for verdens handelsflåte.Den samlede høyeste årlige skipsgjenvinningskapasiteten til statene nevnt i nr. 1 i løpet av de foregående ti årene utgjør minst tre prosent av den samlede bruttotonnasjen til handelsflåtene i de samme statene.
+1 Denne konvensjonen trer i kraft 24 måneder etter at følgende betingelser er oppfylt:
+
+1. Minst 15 stater har enten undertegnet den uten forbehold om ratifikasjon, aksept eller godkjenning, eller har deponert det nødvendige ratifikasjons-, aksept-, godkjennings- eller tiltredelsesdokumentet i henhold til artikkel 16.
+2. De samlede handelsflåtene til statene nevnt i nr. 1.1 utgjør minst 40 % av den samlede bruttotonnasjen for verdens handelsflåte.
+3. Den samlede høyeste årlige skipsgjenvinningskapasiteten til statene nevnt i nr. 1 i løpet av de foregående ti årene utgjør minst tre prosent av den samlede bruttotonnasjen til handelsflåtene i de samme statene.
 
 2 For stater som har deponert et ratifikasjons-, aksept-, godkjennings- eller tiltredelsesdokument for denne konvensjonen etter at kravene for ikrafttredelse er oppfylt, men før ikrafttredelsesdatoen, skal ratifikasjon, aksept, godkjenning eller tiltredelse tre i kraft på ikrafttredelsesdatoen for denne konvensjonen, eller tre måneder etter deponeringen av dokumentet, avhengig av hvilken dato som kommer sist.
 
@@ -700,15 +1000,40 @@ Partene skal løse enhver tvist seg imellom om tolkning eller anvendelse av denn
 
 1 Denne konvensjonen kan endres ved en av prosedyrene som er spesifisert nedenfor.
 
-2 Endringer etter behandling innen organisasjonen:Enhver part kan foreslå en endring i konvensjonen. Et endringsforslag skal sendes til generalsekretæren, som skal videreformidle det til partene og organisasjonens medlemmer minst seks måneder før vurdering.En endring som foreslås og sendes ut som beskrevet ovenfor, skal forelegges komiteen for vurdering. Partene, enten de er medlemmer av organisasjonen eller ikke, skal ha rett til å delta i komiteens vurdering og vedtak av endringsforslaget.Endringer skal vedtas med to tredjedels flertall blant partene som er til stede og avgir stemme i komiteen, forutsatt at minst en tredjedel av partene er til stede under avstemningen.Endringer som vedtas i samsvar med nr. 3, skal formidles av generalsekretæren til partene for aksept.En endring anses som godtatt under følgende omstendigheter:En endring i en artikkel i denne konvensjonen anses som akseptert den dagen to tredeler av partene har underrettet generalsekretæren om at de aksepterer den.En endring i vedlegget anses som godtatt ved utløpet av en tidsfrist fastsatt av komiteen når endringen vedtas, og som ikke skal være kortere enn ti måneder etter vedtaket. Hvis mer enn en tredel av partene underretter generalsekretæren om at de motsetter seg endringen innen denne datoen, anses den derimot ikke som akseptert.Endringen trer i kraft på følgende vilkår:En endring i en artikkel i denne konvensjonen trer i kraft for de partene som har erklært at de har akseptert den, seks måneder etter datoen da den anses som akseptert i samsvar med nr. 5.1.En endring av vedlegget trer i kraft for alle parter seks måneder etter datoen da den anses som godtatt, unntatt for parter som harunderrettet om at de motsetter seg endringen i samsvar med nr. 5.2. og ikke har trukket tilbake denne innvendingen, ellerunderrettet generalsekretæren, før endringen trer i kraft, om at endringen først skal tre i kraft for vedkommende etter en senere underretning om aksept.En part som har underrettet om sin innvending i henhold til nr. 6.2.1, kan senere underrette generalsekretæren om at den aksepterer endringen. En slik endring trer i kraft for denne parten seks måneder etter datoen for underretningen om aksept eller datoen da endringen trer i kraft, avhengig av hvilken dato som kommer sist.Dersom en part som har gitt en underretning som nevnt i nr. 6.2.2, senere underretter generalsekretæren at den aksepterer en endring, trer endringen i kraft for vedkommende part seks måneder etter datoen for underretningen om aksept, eller datoen da endringen trer i kraft, avhengig av hvilken dato som kommer sist.
+2 Endringer etter behandling innen organisasjonen:
 
-3 Endring ved en konferanse:På anmodning fra en part, med tilslutning fra minst en tredjedel av partene, skal organisasjonen innkalle til en konferanse mellom partene i konvensjonen for å vurdere endringer i denne konvensjonen.En endring som vedtas av en slik konferanse med to tredjedels flertall av de partene som er til stede og avgir stemme, skal formidles av generalsekretæren til alle parter for aksept.Med mindre konferansen bestemmer noe annet, skal endringen anses som akseptert og tre i kraft i samsvar med prosedyrene angitt i nr. 2.5 og 2.6.
+1. Enhver part kan foreslå en endring i konvensjonen. Et endringsforslag skal sendes til generalsekretæren, som skal videreformidle det til partene og organisasjonens medlemmer minst seks måneder før vurdering.
+2. En endring som foreslås og sendes ut som beskrevet ovenfor, skal forelegges komiteen for vurdering. Partene, enten de er medlemmer av organisasjonen eller ikke, skal ha rett til å delta i komiteens vurdering og vedtak av endringsforslaget.
+3. Endringer skal vedtas med to tredjedels flertall blant partene som er til stede og avgir stemme i komiteen, forutsatt at minst en tredjedel av partene er til stede under avstemningen.
+4. Endringer som vedtas i samsvar med nr. 3, skal formidles av generalsekretæren til partene for aksept.
+5. En endring anses som godtatt under følgende omstendigheter:
+
+   1. En endring i en artikkel i denne konvensjonen anses som akseptert den dagen to tredeler av partene har underrettet generalsekretæren om at de aksepterer den.
+   2. En endring i vedlegget anses som godtatt ved utløpet av en tidsfrist fastsatt av komiteen når endringen vedtas, og som ikke skal være kortere enn ti måneder etter vedtaket. Hvis mer enn en tredel av partene underretter generalsekretæren om at de motsetter seg endringen innen denne datoen, anses den derimot ikke som akseptert.
+6. Endringen trer i kraft på følgende vilkår:
+
+   1. En endring i en artikkel i denne konvensjonen trer i kraft for de partene som har erklært at de har akseptert den, seks måneder etter datoen da den anses som akseptert i samsvar med nr. 5.1.
+   2. En endring av vedlegget trer i kraft for alle parter seks måneder etter datoen da den anses som godtatt, unntatt for parter som har
+
+      - underrettet om at de motsetter seg endringen i samsvar med nr. 5.2. og ikke har trukket tilbake denne innvendingen, eller
+      - underrettet generalsekretæren, før endringen trer i kraft, om at endringen først skal tre i kraft for vedkommende etter en senere underretning om aksept.
+   3. En part som har underrettet om sin innvending i henhold til nr. 6.2.1, kan senere underrette generalsekretæren om at den aksepterer endringen. En slik endring trer i kraft for denne parten seks måneder etter datoen for underretningen om aksept eller datoen da endringen trer i kraft, avhengig av hvilken dato som kommer sist.
+   4. Dersom en part som har gitt en underretning som nevnt i nr. 6.2.2, senere underretter generalsekretæren at den aksepterer en endring, trer endringen i kraft for vedkommende part seks måneder etter datoen for underretningen om aksept, eller datoen da endringen trer i kraft, avhengig av hvilken dato som kommer sist.
+
+3 Endring ved en konferanse:
+
+1. På anmodning fra en part, med tilslutning fra minst en tredjedel av partene, skal organisasjonen innkalle til en konferanse mellom partene i konvensjonen for å vurdere endringer i denne konvensjonen.
+2. En endring som vedtas av en slik konferanse med to tredjedels flertall av de partene som er til stede og avgir stemme, skal formidles av generalsekretæren til alle parter for aksept.
+3. Med mindre konferansen bestemmer noe annet, skal endringen anses som akseptert og tre i kraft i samsvar med prosedyrene angitt i nr. 2.5 og 2.6.
 
 4 En part som har avvist å akseptere en endring i et vedlegg, skal anses som en ikke-part kun i forbindelse med anvendelsen av den aktuelle endringen.
 
 5 Enhver underretning i henhold til denne artikkelen skal gjøres skriftlig til generalsekretæren.
 
-6 Generalsekretæren skal informere partene og medlemmene av organisasjonen omenhver endring som trer i kraft, samt datoen for ikrafttredelsen både generelt og for hver part, ogenhver underretning gitt i henhold til denne artikkelen.
+6 Generalsekretæren skal informere partene og medlemmene av organisasjonen om
+
+1. enhver endring som trer i kraft, samt datoen for ikrafttredelsen både generelt og for hver part, og
+2. enhver underretning gitt i henhold til denne artikkelen.
 
 ### ARTIKKEL 19. Oppsigelse
 
@@ -720,7 +1045,15 @@ Partene skal løse enhver tvist seg imellom om tolkning eller anvendelse av denn
 
 1 Konvensjonen skal deponeres hos generalsekretæren, som skal sende bekreftede kopier av konvensjonen til alle stater som har undertegnet eller tiltrådt den.
 
-2 I tillegg til oppgavene som er spesifisert andre steder i denne konvensjonen, skal generalsekretæreninformere alle stater som har undertegnet eller tiltrådt denne konvensjonen, omhver ny undertegning eller deponering av et ratifikasjons-, aksept-, godkjennings- eller tiltredelsesdokument samt datoen for dettedatoen for ikrafttredelsen av konvensjonendeponering av ethvert dokument om oppsigelse av denne konvensjonen samt datoen da det ble mottatt, og datoen oppsigelsen trer i kraft, ogandre erklæringer og underretninger mottatt i henhold til denne konvensjonen, også snart denne konvensjonen trer i kraft, sende teksten til FN-sekretariatet for registrering og offentliggjøring i samsvar med artikkel 102 i FN-pakten.
+2 I tillegg til oppgavene som er spesifisert andre steder i denne konvensjonen, skal generalsekretæren
+
+1. informere alle stater som har undertegnet eller tiltrådt denne konvensjonen, om
+
+   1. hver ny undertegning eller deponering av et ratifikasjons-, aksept-, godkjennings- eller tiltredelsesdokument samt datoen for dette
+   2. datoen for ikrafttredelsen av konvensjonen
+   3. deponering av ethvert dokument om oppsigelse av denne konvensjonen samt datoen da det ble mottatt, og datoen oppsigelsen trer i kraft, og
+   4. andre erklæringer og underretninger mottatt i henhold til denne konvensjonen, og
+2. så snart denne konvensjonen trer i kraft, sende teksten til FN-sekretariatet for registrering og offentliggjøring i samsvar med artikkel 102 i FN-pakten.
 
 ### ARTIKKEL 21. Språk
 
@@ -737,7 +1070,33 @@ REGLER FOR SIKKER OG MILJØMESSIG FORSVARLIG GJENVINNING AV SKIP
 
 ### Regel 1 – Definisjoner
 
-I dette vedlegget gjelder følgende definisjoner:«Kompetent person» betyr en person med passende kvalifikasjoner, opplæring og tilstrekkelig kunnskap, erfaring og ferdigheter til å utføre det spesifikke arbeidet. En kompetent person kan være en arbeider med opplæring eller en leder som er i stand til å gjenkjenne og vurdere farer og risikoer på arbeidsplassen samt ansattes eksponering for potensielt farlige materialer eller usikre forhold på et skipsgjenvinningsanlegg, og som kan spesifisere nødvendige vernetiltak og forholdsregler for å eliminere eller redusere farene, risikoene eller eksponeringen. Den kompetente myndigheten kan definere hensiktsmessige kriterier for utpeking av slike personer og bestemme hvilke oppgaver som skal tildeles dem.«Arbeidsgiver» betyr en fysisk eller juridisk person som ansetter én eller flere arbeidere for skipsgjenvinning.«Eksisterende skip» betyr et skip som ikke er et nytt skip.«Nytt skip» betyr et skipsom det er inngått byggekontrakt for ved eller etter ikrafttredelsen av denne konvensjonen, ellerhvis kjøl, der det ikke foreligger en byggekontrakt, er strukket eller er på et tilsvarende byggetrinn seks måneder etter ikrafttredelsen av denne konvensjonen eller senere, ellerder levering av skipet skjer 30 måneder etter ikrafttredelsen av denne konvensjonen eller senere.«Ny installering» betyr installering av systemer, utstyr, isolasjon eller annet materiale på et skip etter datoen da denne konvensjonen trer i kraft.«Klargjort for adgang» betyr et rom som oppfyller følgende kriterier:Oksygeninnholdet i atmosfæren og konsentrasjonen av brennbare damper ligger innenfor sikkerhetsgrensene.Eventuelle giftige materialer i atmosfæren er innenfor tillatte konsentrasjoner.Eventuelle reststoffer eller materialer som er knyttet til arbeidet autorisert av den kompetente personen, vil ikke føre til ukontrollert frigjøring av giftige materialer eller en usikker konsentrasjon av brennbare damper under eksisterende atmosfæriske forhold mens de opprettholdes som anvist.«Klargjort for varmt arbeid» betyr at et rom oppfyller følgende kriterier:Det foreligger trygge, ikke-eksplosive forhold, inkludert gassfri tilstand, for bruk av elektrisk lysbue- eller gassveisingsutstyr, skjære- eller brenneutstyr eller andre former for åpen flamme samt oppvarming, sliping eller annen aktivitet som genererer gnister.Kravene til «klargjort for adgang» i regel 1.6 er oppfylt.Eksisterende atmosfæriske forhold vil ikke endre seg som følge av det varme arbeidet.Alle tilstøtende rom er rengjort, inertisert eller tilstrekkelig behandlet for å forhindre at brann oppstår eller sprer seg.«Rederi» betyr personen eller personene eller firmaet som er registrert som eier av skipet, eller, dersom det ikke er registrert, personen eller personene eller firmaet som eier skipet, eller en annen organisasjon eller person, for eksempel disponenten eller bareboat-befrakteren som har overtatt ansvaret for skipets drift fra eieren av skipet. Hvis skipet eies av en stat og drives av et firma som i den staten er registrert som skipets operatør, betyr «rederi» dette firmaet. Termen inkluderer også de som har eierskap til skipet for en begrenset periode i påvente av salg eller overlevering til et skipsgjenvinningsanlegg.«Inspeksjon av anlegget» betyr en inspeksjon av skipsgjenvinningsanlegget som bekrefter tilstanden beskrevet i den verifiserte dokumentasjonen.«Erklæring om sluttført gjenvinning» betyr en erklæring utstedt av skipsgjenvinningsanlegget som bekrefter at gjenvinningen av skipet er fullført i samsvar med denne konvensjonen.«Tankskip» betyr et oljetankskip som definert i MARPOL vedlegg I eller et tankskip som fører skadelige flytende stoffer (NLS-tankskip), som definert MARPOL vedlegg II.«Arbeider» betyr enhver person som utfører arbeid, enten regelmessig eller midlertidig, innenfor rammen av et arbeidsforhold, inkludert entreprenørpersonell.
+I dette vedlegget gjelder følgende definisjoner:
+
+1. «Kompetent person» betyr en person med passende kvalifikasjoner, opplæring og tilstrekkelig kunnskap, erfaring og ferdigheter til å utføre det spesifikke arbeidet. En kompetent person kan være en arbeider med opplæring eller en leder som er i stand til å gjenkjenne og vurdere farer og risikoer på arbeidsplassen samt ansattes eksponering for potensielt farlige materialer eller usikre forhold på et skipsgjenvinningsanlegg, og som kan spesifisere nødvendige vernetiltak og forholdsregler for å eliminere eller redusere farene, risikoene eller eksponeringen. Den kompetente myndigheten kan definere hensiktsmessige kriterier for utpeking av slike personer og bestemme hvilke oppgaver som skal tildeles dem.
+2. «Arbeidsgiver» betyr en fysisk eller juridisk person som ansetter én eller flere arbeidere for skipsgjenvinning.
+3. «Eksisterende skip» betyr et skip som ikke er et nytt skip.
+4. «Nytt skip» betyr et skip
+
+   1. som det er inngått byggekontrakt for ved eller etter ikrafttredelsen av denne konvensjonen, eller
+   2. hvis kjøl, der det ikke foreligger en byggekontrakt, er strukket eller er på et tilsvarende byggetrinn seks måneder etter ikrafttredelsen av denne konvensjonen eller senere, eller
+   3. der levering av skipet skjer 30 måneder etter ikrafttredelsen av denne konvensjonen eller senere.
+5. «Ny installering» betyr installering av systemer, utstyr, isolasjon eller annet materiale på et skip etter datoen da denne konvensjonen trer i kraft.
+6. «Klargjort for adgang» betyr et rom som oppfyller følgende kriterier:
+
+   1. Oksygeninnholdet i atmosfæren og konsentrasjonen av brennbare damper ligger innenfor sikkerhetsgrensene.
+   2. Eventuelle giftige materialer i atmosfæren er innenfor tillatte konsentrasjoner.
+   3. Eventuelle reststoffer eller materialer som er knyttet til arbeidet autorisert av den kompetente personen, vil ikke føre til ukontrollert frigjøring av giftige materialer eller en usikker konsentrasjon av brennbare damper under eksisterende atmosfæriske forhold mens de opprettholdes som anvist.
+7. «Klargjort for varmt arbeid» betyr at et rom oppfyller følgende kriterier:
+
+   1. Det foreligger trygge, ikke-eksplosive forhold, inkludert gassfri tilstand, for bruk av elektrisk lysbue- eller gassveisingsutstyr, skjære- eller brenneutstyr eller andre former for åpen flamme samt oppvarming, sliping eller annen aktivitet som genererer gnister.
+   2. Kravene til «klargjort for adgang» i regel 1.6 er oppfylt.
+   3. Eksisterende atmosfæriske forhold vil ikke endre seg som følge av det varme arbeidet.
+   4. Alle tilstøtende rom er rengjort, inertisert eller tilstrekkelig behandlet for å forhindre at brann oppstår eller sprer seg.
+8. «Rederi» betyr personen eller personene eller firmaet som er registrert som eier av skipet, eller, dersom det ikke er registrert, personen eller personene eller firmaet som eier skipet, eller en annen organisasjon eller person, for eksempel disponenten eller bareboat-befrakteren som har overtatt ansvaret for skipets drift fra eieren av skipet. Hvis skipet eies av en stat og drives av et firma som i den staten er registrert som skipets operatør, betyr «rederi» dette firmaet. Termen inkluderer også de som har eierskap til skipet for en begrenset periode i påvente av salg eller overlevering til et skipsgjenvinningsanlegg.
+9. «Inspeksjon av anlegget» betyr en inspeksjon av skipsgjenvinningsanlegget som bekrefter tilstanden beskrevet i den verifiserte dokumentasjonen.
+10. «Erklæring om sluttført gjenvinning» betyr en erklæring utstedt av skipsgjenvinningsanlegget som bekrefter at gjenvinningen av skipet er fullført i samsvar med denne konvensjonen.
+11. «Tankskip» betyr et oljetankskip som definert i MARPOL vedlegg I eller et tankskip som fører skadelige flytende stoffer (NLS-tankskip), som definert MARPOL vedlegg II.
+12. «Arbeider» betyr enhver person som utfører arbeid, enten regelmessig eller midlertidig, innenfor rammen av et arbeidsforhold, inkludert entreprenørpersonell.
 
 ### Regel 2 – Generell anvendelse
 
@@ -753,11 +1112,19 @@ Partene skal iverksette tiltak for å gjennomføre kravene i reglene i dette ved
 
 ### Regel 4 – Kontroll av skips farlige materialer
 
-I samsvar med kravene som er angitt i konvensjonens tillegg 1, skal hver partforby og/eller begrense installasjon eller bruk av farlige materialer oppført i tillegg 1 på skip som har rett til å føre dens flagg eller opererer under dens myndighet, ogforby og/eller begrense installasjon eller bruk av slike materialer på skip mens de befinner seg i dens havner, verft, skipsreparasjonsverft eller offshoreterminalerog iverksette effektive tiltak for å sikre at slike skip overholder disse kravene.
+I samsvar med kravene som er angitt i konvensjonens tillegg 1, skal hver part
+
+1. forby og/eller begrense installasjon eller bruk av farlige materialer oppført i tillegg 1 på skip som har rett til å føre dens flagg eller opererer under dens myndighet, og
+2. forby og/eller begrense installasjon eller bruk av slike materialer på skip mens de befinner seg i dens havner, verft, skipsreparasjonsverft eller offshoreterminaler
+
+og iverksette effektive tiltak for å sikre at slike skip overholder disse kravene.
 
 ### Regel 5 – Fortegnelse over farlige materialer
 
-1 Hvert nytt skip skal ha en fortegnelse over farlige materialer om bord. Fortegnelsen skal verifiseres enten av administrasjonen eller en annen person eller organisasjon autorisert av denne, idet det tas hensyn til retningslinjer, inkludert eventuelle terskelverdier og unntak som er angitt i disse retningslinjene, utarbeidet av organisasjonen. Fortegnelsen over farlige materialer skal være spesifikk for hvert enkelt skip og skal minstidentifisere som del I, farlige materialer som er oppført i tillegg 1 og 2 til denne konvensjonen, og som inngår i skipets konstruksjon eller utstyr, plasseringen av disse og omtrentlige mengder, ogpresisere at skipet overholder regel 4.
+1 Hvert nytt skip skal ha en fortegnelse over farlige materialer om bord. Fortegnelsen skal verifiseres enten av administrasjonen eller en annen person eller organisasjon autorisert av denne, idet det tas hensyn til retningslinjer, inkludert eventuelle terskelverdier og unntak som er angitt i disse retningslinjene, utarbeidet av organisasjonen. Fortegnelsen over farlige materialer skal være spesifikk for hvert enkelt skip og skal minst
+
+1. identifisere som del I, farlige materialer som er oppført i tillegg 1 og 2 til denne konvensjonen, og som inngår i skipets konstruksjon eller utstyr, plasseringen av disse og omtrentlige mengder, og
+2. presisere at skipet overholder regel 4.
 
 2 Eksisterende skip skal, så langt det er praktisk mulig, overholde kravene i nr. 1 senest fem år etter ikrafttredelsen av denne konvensjonen eller før skipet går til gjenvinning, dersom dette skjer tidligere, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen og organisasjonens harmoniserte system for tilsyn og sertifisering. De farlige materialene oppført i tillegg 1 skal som et minimum identifiseres når fortegnelsen utarbeides. For eksisterende skip skal det utarbeides en plan som beskriver den visuelle kontrollen eller stikkprøvekontrollen som danner grunnlaget for utformingen av fortegnelsen over farlige materialer, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.
 
@@ -773,7 +1140,24 @@ I samsvar med kravene som er angitt i konvensjonens tillegg 1, skal hver partfor
 
 3 Komiteen skal opprette en teknisk gruppe i henhold til regel 7 for å gjennomgå forslag som er sendt inn i samsvar med nr. 1 i denne regelen.
 
-4 Den tekniske gruppen skal gjennomgå forslaget sammen med eventuelle tilleggsopplysninger, inkludert beslutninger vedtatt av andre internasjonale organer angående deres lister over materialer eller farlige stoffer, sendt inn av andre interessenter, og skal evaluere og rapportere til komiteen om det er sannsynlig at det aktuelle farlige materialet vil medføre betydelige negative konsekvenser for menneskers helse eller miljøet innenfor rammen av denne konvensjonen, slik at en endring av tillegg 1 eller tillegg 2 er berettiget. I den forbindelse gjelder følgende:Den tekniske gruppens gjennomgang skal omfatteen evaluering av sammenhengen mellom det aktuelle farlige materialet og sannsynligheten for at det, innenfor rammen av denne konvensjonen, vil medføre betydelige negativ innvirkning på menneskers helse eller miljøet, basert på de innsendte opplysningene eller andre relevante opplysninger som gruppen har fått kjennskap til,en evaluering av den potensielle risikoreduksjonen som kan tilskrives de foreslåtte kontrolltiltakene og eventuelle andre kontrolltiltak som den tekniske gruppen kan vurdere,en vurdering av tilgjengelig informasjon om den tekniske gjennomførbarheten av kontrolltiltakene,en vurdering av tilgjengelig informasjon om andre konsekvenser ved innføring av slike kontrolltiltak knyttet til,miljøet,menneskers helse og sikkerhet, også for sjøfolk og arbeidere, ogkostnader for internasjonal skipsfart og andre relevante sektorer.en vurdering av om det finnes egnede alternativer til det farlige materialet som skal reguleres, inkludert en vurdering av potensielle risikoer ved slike alternativeren vurdering av risikoene som farlige materialer utgjør under gjenvinningsprosessen, ogen vurdering av egnede terskelverdier og eventuelle nyttige eller nødvendige unntak.Hvis den tekniske gruppen finner at det aktuelle farlige materialet sannsynligvis vil medføre betydelig negativ innvirkning på menneskers helse eller miljøet innenfor rammen av denne konvensjonen, skal ikke mangel på full vitenskapelig sikkerhet brukes som en grunn til å forhindre gruppen fra å fortsette med en evaluering av forslaget.Den tekniske gruppens rapport skal være skriftlig og skal ta hensyn til hver av evalueringene og vurderingene nevnt i nr. 1, bortsett fra at den tekniske gruppen kan bestemme seg for å ikke fortsette med evalueringene og vurderingene beskrevet i nr. 1.2 til 1.7 hvis den etter evalueringen i nr. 1.1 avgjør at forslaget ikke trenger å vurderes ytterligere.Den tekniske gruppens rapport skal blant annet inneholde en anbefaling om hvorvidt internasjonale kontroller i henhold til denne konvensjonen er nødvendige for det aktuelle farlige materialet, i hvilken grad de spesifikke kontrolltiltakene foreslått i det omfattende forslaget er hensiktsmessige, eller om det finnes andre kontrolltiltak som gruppen anser som bedre egnet.
+4 Den tekniske gruppen skal gjennomgå forslaget sammen med eventuelle tilleggsopplysninger, inkludert beslutninger vedtatt av andre internasjonale organer angående deres lister over materialer eller farlige stoffer, sendt inn av andre interessenter, og skal evaluere og rapportere til komiteen om det er sannsynlig at det aktuelle farlige materialet vil medføre betydelige negative konsekvenser for menneskers helse eller miljøet innenfor rammen av denne konvensjonen, slik at en endring av tillegg 1 eller tillegg 2 er berettiget. I den forbindelse gjelder følgende:
+
+1. Den tekniske gruppens gjennomgang skal omfatte
+
+   1. en evaluering av sammenhengen mellom det aktuelle farlige materialet og sannsynligheten for at det, innenfor rammen av denne konvensjonen, vil medføre betydelige negativ innvirkning på menneskers helse eller miljøet, basert på de innsendte opplysningene eller andre relevante opplysninger som gruppen har fått kjennskap til,
+   2. en evaluering av den potensielle risikoreduksjonen som kan tilskrives de foreslåtte kontrolltiltakene og eventuelle andre kontrolltiltak som den tekniske gruppen kan vurdere,
+   3. en vurdering av tilgjengelig informasjon om den tekniske gjennomførbarheten av kontrolltiltakene,
+   4. en vurdering av tilgjengelig informasjon om andre konsekvenser ved innføring av slike kontrolltiltak knyttet til,
+
+      - miljøet,
+      - menneskers helse og sikkerhet, også for sjøfolk og arbeidere, og
+      - kostnader for internasjonal skipsfart og andre relevante sektorer.
+   5. en vurdering av om det finnes egnede alternativer til det farlige materialet som skal reguleres, inkludert en vurdering av potensielle risikoer ved slike alternativer
+   6. en vurdering av risikoene som farlige materialer utgjør under gjenvinningsprosessen, og
+   7. en vurdering av egnede terskelverdier og eventuelle nyttige eller nødvendige unntak.
+2. Hvis den tekniske gruppen finner at det aktuelle farlige materialet sannsynligvis vil medføre betydelig negativ innvirkning på menneskers helse eller miljøet innenfor rammen av denne konvensjonen, skal ikke mangel på full vitenskapelig sikkerhet brukes som en grunn til å forhindre gruppen fra å fortsette med en evaluering av forslaget.
+3. Den tekniske gruppens rapport skal være skriftlig og skal ta hensyn til hver av evalueringene og vurderingene nevnt i nr. 1, bortsett fra at den tekniske gruppen kan bestemme seg for å ikke fortsette med evalueringene og vurderingene beskrevet i nr. 1.2 til 1.7 hvis den etter evalueringen i nr. 1.1 avgjør at forslaget ikke trenger å vurderes ytterligere.
+4. Den tekniske gruppens rapport skal blant annet inneholde en anbefaling om hvorvidt internasjonale kontroller i henhold til denne konvensjonen er nødvendige for det aktuelle farlige materialet, i hvilken grad de spesifikke kontrolltiltakene foreslått i det omfattende forslaget er hensiktsmessige, eller om det finnes andre kontrolltiltak som gruppen anser som bedre egnet.
 
 5 Komiteen skal avgjøre om den vil godkjenne et forslag om å endre tillegg 1 eller 2, samt eventuelle justeringer av disse, hvis det er hensiktsmessig, med hensyn til den tekniske gruppens rapport. Ethvert endringsforslag skal spesifisere anvendelsen av endringen for skip sertifisert i henhold til denne konvensjonen før endringen trer i kraft. Hvis rapporten finner at det aktuelle farlige materialet sannsynligvis vil medføre betydelig negativ innvirkning på menneskers helse eller miljøet innenfor rammen av denne konvensjonen, skal ikke mangel på full vitenskapelig sikkerhet brukes som en grunn til å forhindre en beslutning om å liste et farlig materiale i tillegg 1 eller 2. En beslutning om å ikke godkjenne forslaget skal ikke utelukke fremtidig innlevering av et nytt forslag med hensyn til et bestemt farlig materiale hvis ny informasjon kommer frem.
 
@@ -789,21 +1173,53 @@ I samsvar med kravene som er angitt i konvensjonens tillegg 1, skal hver partfor
 
 ### Regel 8 – Generelle krav
 
-Skip som skal gjenvinnes, skalkun gjenvinnes ved skipsgjenvinningsanlegg som erautorisert i samsvar med denne konvensjonen, ogfullt autorisert til å utføre all skipsgjenvinning som skipsgjenvinningsplanen spesifiserer skal utføres av de identifiserte skipsgjenvinningsanleggene,utføre operasjoner i perioden før de leveres til skipsgjenvinningsanlegget, for å minimere mengden lastrester, gjenværende drivstoff og avfall om bord,dersom det er et tankskip, ankomme skipsgjenvinningsanlegget med lastetanker og pumperom i en slik tilstand at det er klart for sertifisering som «klargjort for adgang» eller «klargjort for varmt arbeid», eller begge deler, i henhold til nasjonale lover, regler og retningslinjer for parten under hvis jurisdiksjon skipsgjenvinningsanlegget opererer,gi skipsgjenvinningsanlegget all tilgjengelig informasjon om skipet for utarbeiding av skipsgjenvinningsplanen som kreves etter regel 9,fylle ut fortegnelsen som kreves etter regel 5, ogsertifiseres som klart for gjenvinning av administrasjonen eller en organisasjon anerkjent av denne, før noen gjenvinningsaktivitet finner sted.
+Skip som skal gjenvinnes, skal
+
+1. kun gjenvinnes ved skipsgjenvinningsanlegg som er
+
+   1. autorisert i samsvar med denne konvensjonen, og
+   2. fullt autorisert til å utføre all skipsgjenvinning som skipsgjenvinningsplanen spesifiserer skal utføres av de identifiserte skipsgjenvinningsanleggene,
+2. utføre operasjoner i perioden før de leveres til skipsgjenvinningsanlegget, for å minimere mengden lastrester, gjenværende drivstoff og avfall om bord,
+3. dersom det er et tankskip, ankomme skipsgjenvinningsanlegget med lastetanker og pumperom i en slik tilstand at det er klart for sertifisering som «klargjort for adgang» eller «klargjort for varmt arbeid», eller begge deler, i henhold til nasjonale lover, regler og retningslinjer for parten under hvis jurisdiksjon skipsgjenvinningsanlegget opererer,
+4. gi skipsgjenvinningsanlegget all tilgjengelig informasjon om skipet for utarbeiding av skipsgjenvinningsplanen som kreves etter regel 9,
+5. fylle ut fortegnelsen som kreves etter regel 5, og
+6. sertifiseres som klart for gjenvinning av administrasjonen eller en organisasjon anerkjent av denne, før noen gjenvinningsaktivitet finner sted.
 
 ### Regel 9 – Skipsgjenvinningsplan
 
-Skipsgjenvinningsanlegget skal utarbeide en skipsspesifikk skipsgjenvinningsplan før gjenvinning av et skip påbegynnes, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen. Skipsgjenvinningsplanen skalutarbeides basert på informasjon gitt av rederiet,utarbeides på et språk som er akseptert av parten som autoriserer skipsgjenvinningsanlegget, og hvis dette språket ikke er engelsk, fransk eller spansk, skal skipsgjenvinningsplanen oversettes til ett av disse språkene, med mindre administrasjonen finner at dette ikke er nødvendig,inneholde informasjon om blant annet etablering, vedlikehold og overvåking av betingelsene for «klargjort for adgang» og «klargjort for varmt arbeid» og hvordan typen og mengden av materialer, inkludert de som er angitt i fortegnelsen over farlige materialer, skal håndteres,i samsvar med erklæringen som er levert i henhold til artikkel 16.6, være enten eksplisitt eller stilltiende godkjent av den kompetente myndigheten som autoriserer skipsgjenvinningsanlegget. Den kompetente myndigheten skal sende en skriftlig bekreftelse på mottak av skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen innen tre (3) arbeidsdager etter at den er mottatt, i samsvar med regel 24. Deretter:hvis en part krever uttrykkelig godkjenning av skipsgjenvinningsplanen, skal den kompetente myndigheten sende en skriftlig underretning om sin beslutning om å godkjenne eller avslå skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen,hvis en part krever stilltiende godkjenning av skipsgjenvinningsplanen, skal bekreftelsen på mottak angi utløpsdato for en 14-dagers vurderingsperiode. Den kompetente myndigheten skal underrette om eventuelle skriftlige innvendinger mot skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen innen denne 14-dagers vurderingsperioden. Hvis det ikke er underrettet om slike innvendinger, skal skipsgjenvinningsplanen anses som godkjent.når den er godkjent i samsvar med punkt 4, gjøres tilgjengelig for inspeksjon av administrasjonen eller eventuelle oppnevnte inspektører eller organisasjoner anerkjent av denne, ogdersom det brukes mer enn ett skipsgjenvinningsanlegg, identifisere hvilke skipsgjenvinningsanlegg som skal brukes, samt spesifisere gjenvinningsaktivitetene og rekkefølgen de skal utføres i, på hvert autoriserte skipsgjenvinningsanlegg.
+Skipsgjenvinningsanlegget skal utarbeide en skipsspesifikk skipsgjenvinningsplan før gjenvinning av et skip påbegynnes, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen. Skipsgjenvinningsplanen skal
+
+1. utarbeides basert på informasjon gitt av rederiet,
+2. utarbeides på et språk som er akseptert av parten som autoriserer skipsgjenvinningsanlegget, og hvis dette språket ikke er engelsk, fransk eller spansk, skal skipsgjenvinningsplanen oversettes til ett av disse språkene, med mindre administrasjonen finner at dette ikke er nødvendig,
+3. inneholde informasjon om blant annet etablering, vedlikehold og overvåking av betingelsene for «klargjort for adgang» og «klargjort for varmt arbeid» og hvordan typen og mengden av materialer, inkludert de som er angitt i fortegnelsen over farlige materialer, skal håndteres,
+4. i samsvar med erklæringen som er levert i henhold til artikkel 16.6, være enten eksplisitt eller stilltiende godkjent av den kompetente myndigheten som autoriserer skipsgjenvinningsanlegget. Den kompetente myndigheten skal sende en skriftlig bekreftelse på mottak av skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen innen tre (3) arbeidsdager etter at den er mottatt, i samsvar med regel 24. Deretter:
+
+   1. hvis en part krever uttrykkelig godkjenning av skipsgjenvinningsplanen, skal den kompetente myndigheten sende en skriftlig underretning om sin beslutning om å godkjenne eller avslå skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen,
+   2. hvis en part krever stilltiende godkjenning av skipsgjenvinningsplanen, skal bekreftelsen på mottak angi utløpsdato for en 14-dagers vurderingsperiode. Den kompetente myndigheten skal underrette om eventuelle skriftlige innvendinger mot skipsgjenvinningsplanen til skipsgjenvinningsanlegget, rederiet og administrasjonen innen denne 14-dagers vurderingsperioden. Hvis det ikke er underrettet om slike innvendinger, skal skipsgjenvinningsplanen anses som godkjent.
+5. når den er godkjent i samsvar med punkt 4, gjøres tilgjengelig for inspeksjon av administrasjonen eller eventuelle oppnevnte inspektører eller organisasjoner anerkjent av denne, og
+6. dersom det brukes mer enn ett skipsgjenvinningsanlegg, identifisere hvilke skipsgjenvinningsanlegg som skal brukes, samt spesifisere gjenvinningsaktivitetene og rekkefølgen de skal utføres i, på hvert autoriserte skipsgjenvinningsanlegg.
 
 ### Del C – Tilsyn og sertifisering
 
 ### Regel 10 – Tilsyn
 
-1 Skip som omfattes av denne konvensjonen, skal gjennomgå følgende tilsyn:et førstegangstilsyn før skipet settes i drift, eller før det internasjonale sertifikatet om farlige stoffer om bord utstedes. Dette tilsynet skal verifisere at del I av fortegnelsen som kreves i regel 5, er i samsvar med kravene i denne konvensjonen,et fornyelsestilsyn med intervaller spesifisert av administrasjonen som ikke overstiger fem år. Dette tilsynet skal verifisere at del I av fortegnelsen over farlige materialer som kreves i regel 5, er i samsvar med kravene i denne konvensjonen,et tilleggstilsyn, enten generelt eller delvis, avhengig av omstendighetene, kan gjennomføres på rederiets anmodning etter en endring, utskiftning eller større reparasjon av skipets konstruksjon, utstyr, systemer, innretninger, arrangementer og materialer. Tilsynet skal sikre at enhver slik endring, utskiftning eller større reparasjon er utført slik at skipet fortsatt overholder kravene i denne konvensjonen, og at del I i fortegnelsen oppdateres etter behov, oget sluttilsyn før skipet tas ut av tjeneste, og før gjenvinningen av skipet påbegynnes. Dette tilsynet skal verifisere atfortegnelsen over farlige materialer som kreves i regel 5.4, er i samsvar med kravene i denne konvensjonen, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen,skipsgjenvinningsplanen, som kreves i regel 9, korrekt gjenspeiler opplysningene i fortegnelsen over farlige materialer, som kreves i regel 5.4, og inneholder opplysninger om etablering, vedlikehold og overvåking av tilstandene «klargjort for adgang» og «klargjort for varmt arbeid», ogskipsgjenvinningsanlegget/-anleggene der skipet skal gjenvinnes, har gyldig autorisasjon i samsvar med denne konvensjonen.
+1 Skip som omfattes av denne konvensjonen, skal gjennomgå følgende tilsyn:
+
+1. et førstegangstilsyn før skipet settes i drift, eller før det internasjonale sertifikatet om farlige stoffer om bord utstedes. Dette tilsynet skal verifisere at del I av fortegnelsen som kreves i regel 5, er i samsvar med kravene i denne konvensjonen,
+2. et fornyelsestilsyn med intervaller spesifisert av administrasjonen som ikke overstiger fem år. Dette tilsynet skal verifisere at del I av fortegnelsen over farlige materialer som kreves i regel 5, er i samsvar med kravene i denne konvensjonen,
+3. et tilleggstilsyn, enten generelt eller delvis, avhengig av omstendighetene, kan gjennomføres på rederiets anmodning etter en endring, utskiftning eller større reparasjon av skipets konstruksjon, utstyr, systemer, innretninger, arrangementer og materialer. Tilsynet skal sikre at enhver slik endring, utskiftning eller større reparasjon er utført slik at skipet fortsatt overholder kravene i denne konvensjonen, og at del I i fortegnelsen oppdateres etter behov, og
+4. et sluttilsyn før skipet tas ut av tjeneste, og før gjenvinningen av skipet påbegynnes. Dette tilsynet skal verifisere at
+
+   1. fortegnelsen over farlige materialer som kreves i regel 5.4, er i samsvar med kravene i denne konvensjonen, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen,
+   2. skipsgjenvinningsplanen, som kreves i regel 9, korrekt gjenspeiler opplysningene i fortegnelsen over farlige materialer, som kreves i regel 5.4, og inneholder opplysninger om etablering, vedlikehold og overvåking av tilstandene «klargjort for adgang» og «klargjort for varmt arbeid», og
+   3. skipsgjenvinningsanlegget/-anleggene der skipet skal gjenvinnes, har gyldig autorisasjon i samsvar med denne konvensjonen.
 
 2 Tilsyn av skip for å håndheve bestemmelsene i denne konvensjonen skal utføres av administrasjonens tjenestemenn, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen. Administrasjonen kan likevel overlate tilsynene enten til inspektører oppnevnt for formålet eller til organisasjoner den har anerkjent.
 
-3 En administrasjon som oppnevner inspektører eller anerkjenner organisasjoner til å gjennomføre tilsyn som beskrevet i nr. 2, skal som et minimum gi slike oppnevnte inspektør eller anerkjente organisasjoner fullmakt til åkreve at et skip de utfører tilsyn på, overholder bestemmelsene i denne konvensjonen,utføre tilsyn og inspeksjoner dersom dette kreves av de relevante myndighetene i en havnestat som er en part.
+3 En administrasjon som oppnevner inspektører eller anerkjenner organisasjoner til å gjennomføre tilsyn som beskrevet i nr. 2, skal som et minimum gi slike oppnevnte inspektør eller anerkjente organisasjoner fullmakt til å
+
+1. kreve at et skip de utfører tilsyn på, overholder bestemmelsene i denne konvensjonen,
+2. utføre tilsyn og inspeksjoner dersom dette kreves av de relevante myndighetene i en havnestat som er en part.
 
 4 I alle tilfeller er den berørte administrasjonen ansvarlig for å sikre at tilsynet er fullstendig og effektivt, og skal dessuten legge forholdene til rette for å oppfylle denne forpliktelsen.
 
@@ -851,7 +1267,12 @@ Sertifikatene skal utstedes på et offisielt språk i den utstedende parten i sa
 
 ### Regel 14 – Sertifikaters varighet og gyldighet
 
-1 Et internasjonalt sertifikat om farlige stoffer om bord utstedt i henhold til regel 11 eller 12 blir ugyldig i følgende tilfeller:dersom skipets tilstand ikke i det vesentlige er i samsvar med opplysningene i sertifikatet, inkludert hvis del I i fortegnelsen over farlige materialer ikke er vedlikeholdt og oppdatert i samsvar med endringer i skipets konstruksjon og utstyr, i tråd med retningslinjene utarbeidet av organisasjonen,når skipet overføres til en annen stats flagg. Et nytt sertifikat skal bare utstedes dersom den utstedende parten er sikker på at skipet er i samsvar med kravene i regel 10. Ved overføring mellom parter skal parten hvis flagg skipet tidligere hadde rett til å føre, dersom det anmodes om dette innen tre måneder etter overføringen, så snart som mulig sende administrasjonen kopier av sertifikatene skipet hadde før overføringen, samt eventuelle kopier av relevante tilsynsrapporter,hvis fornyelsestilsynet ikke er fullført innen fristene fastsatt i regel 10.1 og 11, ellerdersom sertifikatet ikke er påtegnet i samsvar med regel 11 eller 12.
+1 Et internasjonalt sertifikat om farlige stoffer om bord utstedt i henhold til regel 11 eller 12 blir ugyldig i følgende tilfeller:
+
+1. dersom skipets tilstand ikke i det vesentlige er i samsvar med opplysningene i sertifikatet, inkludert hvis del I i fortegnelsen over farlige materialer ikke er vedlikeholdt og oppdatert i samsvar med endringer i skipets konstruksjon og utstyr, i tråd med retningslinjene utarbeidet av organisasjonen,
+2. når skipet overføres til en annen stats flagg. Et nytt sertifikat skal bare utstedes dersom den utstedende parten er sikker på at skipet er i samsvar med kravene i regel 10. Ved overføring mellom parter skal parten hvis flagg skipet tidligere hadde rett til å føre, dersom det anmodes om dette innen tre måneder etter overføringen, så snart som mulig sende administrasjonen kopier av sertifikatene skipet hadde før overføringen, samt eventuelle kopier av relevante tilsynsrapporter,
+3. hvis fornyelsestilsynet ikke er fullført innen fristene fastsatt i regel 10.1 og 11, eller
+4. dersom sertifikatet ikke er påtegnet i samsvar med regel 11 eller 12.
 
 2 Et internasjonalt sertifikat om farlige stoffer om bord skal utstedes for en periode fastsatt av administrasjonen som ikke skal overstige fem år.
 
@@ -891,21 +1312,55 @@ Sertifikatene skal utstedes på et offisielt språk i den utstedende parten i sa
 
 1 Skipsgjenvinningsanlegg som er autorisert av en part, skal etablere styringssystemer, prosedyrer og metoder som ikke utgjør en helserisiko for de berørte arbeiderne eller for befolkningen i nærheten av skipsgjenvinningsanlegget, og forebygge, redusere, begrense og, så langt det er praktisk mulig, eliminere negativ innvirkning på miljøet forårsaket av skipsgjenvinning, idet det tas hensyn til retningslinjer utarbeidet av organisasjonen.
 
-2 Skipsgjenvinningsanlegg som er autorisert av en part, skal, for skip som omfattes av denne konvensjonen, eller skip som behandles på tilsvarende måte i henhold til artikkel 3.4kun akseptere skip somoverholder denne konvensjonen, elleroppfyller kravene i denne konvensjonen,kun akseptere skip som de er autorisert til å gjenvinne, ogha dokumentasjon på sin autorisasjon tilgjengelig dersom et rederi som vurderer å gjenvinne et skip ved skipsgjenvinningsanlegget, ber om slik dokumentasjon.
+2 Skipsgjenvinningsanlegg som er autorisert av en part, skal, for skip som omfattes av denne konvensjonen, eller skip som behandles på tilsvarende måte i henhold til artikkel 3.4
+
+1. kun akseptere skip som
+
+   1. overholder denne konvensjonen, eller
+   2. oppfyller kravene i denne konvensjonen,
+2. kun akseptere skip som de er autorisert til å gjenvinne, og
+3. ha dokumentasjon på sin autorisasjon tilgjengelig dersom et rederi som vurderer å gjenvinne et skip ved skipsgjenvinningsanlegget, ber om slik dokumentasjon.
 
 ### Regel 18 – Plan for skipsgjenvinningsanlegg
 
-Skipsgjenvinningsanlegg som er autorisert av en part, skal utarbeide en plan for skipsgjenvinningsanlegget. Planen skal vedtas av styret eller det relevante styringsorganet for skipsgjenvinningsselskapet og skal inneholderetningslinjer som sikrer arbeidernes sikkerhet samt vern av menneskers helse og miljøet, med etablering av mål som fører til at den negative innvirkningen av skipsgjenvinning reduseres til et minimum og, så langt det er praktisk mulig, elimineres,et system for å sikre gjennomføring av kravene fastsatt i denne konvensjonen, oppnåelse av målene i skipsgjenvinningsselskapets retningslinjer og kontinuerlig forbedring av prosedyrer og standarder brukt i skipsgjenvinningsoperasjoner,klargjøring av roller og ansvarsområder for arbeidsgivere og arbeidere i skipsgjenvinningsoperasjoner,et program for relevant informasjon og opplæring av arbeiderne for å sikre sikker og miljømessig forsvarlig drift av skipsgjenvinningsanlegget,en beredskaps- og handlingsplan for nødssituasjoner,et system for overvåking av skipsgjenvinningsprosessen,et journalsystem som dokumenterer hvordan skipsgjenvinningen gjennomføres,et system for rapportering av utslipp til vann, grunn og luft samt hendelser og ulykker som forårsaker eller kan forårsake skade på arbeidernes sikkerhet, menneskers helse og miljø, oget system for rapportering av yrkessykdommer, ulykker, skader og annen negativ innvirkning på arbeidernes sikkerhet og menneskers helse,idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.
+Skipsgjenvinningsanlegg som er autorisert av en part, skal utarbeide en plan for skipsgjenvinningsanlegget. Planen skal vedtas av styret eller det relevante styringsorganet for skipsgjenvinningsselskapet og skal inneholde
+
+1. retningslinjer som sikrer arbeidernes sikkerhet samt vern av menneskers helse og miljøet, med etablering av mål som fører til at den negative innvirkningen av skipsgjenvinning reduseres til et minimum og, så langt det er praktisk mulig, elimineres,
+2. et system for å sikre gjennomføring av kravene fastsatt i denne konvensjonen, oppnåelse av målene i skipsgjenvinningsselskapets retningslinjer og kontinuerlig forbedring av prosedyrer og standarder brukt i skipsgjenvinningsoperasjoner,
+3. klargjøring av roller og ansvarsområder for arbeidsgivere og arbeidere i skipsgjenvinningsoperasjoner,
+4. et program for relevant informasjon og opplæring av arbeiderne for å sikre sikker og miljømessig forsvarlig drift av skipsgjenvinningsanlegget,
+5. en beredskaps- og handlingsplan for nødssituasjoner,
+6. et system for overvåking av skipsgjenvinningsprosessen,
+7. et journalsystem som dokumenterer hvordan skipsgjenvinningen gjennomføres,
+8. et system for rapportering av utslipp til vann, grunn og luft samt hendelser og ulykker som forårsaker eller kan forårsake skade på arbeidernes sikkerhet, menneskers helse og miljø, og
+9. et system for rapportering av yrkessykdommer, ulykker, skader og annen negativ innvirkning på arbeidernes sikkerhet og menneskers helse,
+
+idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.
 
 ### Regel 19 – Forebygging av negativ innvirkning på menneskers helse og miljøet
 
-Skipsgjenvinningsanlegg som er autorisert av en part, skal etablere og benytte prosedyrer for åforhindre eksplosjoner, branner og andre usikre forhold ved å sørge for at betingelser og prosedyrer for «klargjort for varmt arbeid» er etablert, vedlikeholdt og overvåket gjennom hele skipsgjenvinningsprosessen,forebygge skade fra farlige atmosfærer og andre usikre forhold ved å sørge for at betingelser og prosedyrer for tilstanden og prosedyrene for «klargjort for adgang» er etablert, vedlikeholdt og overvåket i skipets rom, inkludert trange og lukkede rom, gjennom hele skipsgjenvinningsprosessen,forebygge andre ulykker, yrkessykdommer, skader og annen negativ innvirkning på menneskers helse og miljøet, ogforebygge utslipp til vann, grunn og luft gjennom hele skipsgjenvinningsprosessen som kan være skadelige for menneskers helse og/eller miljøet,idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.
+Skipsgjenvinningsanlegg som er autorisert av en part, skal etablere og benytte prosedyrer for å
+
+1. forhindre eksplosjoner, branner og andre usikre forhold ved å sørge for at betingelser og prosedyrer for «klargjort for varmt arbeid» er etablert, vedlikeholdt og overvåket gjennom hele skipsgjenvinningsprosessen,
+2. forebygge skade fra farlige atmosfærer og andre usikre forhold ved å sørge for at betingelser og prosedyrer for tilstanden og prosedyrene for «klargjort for adgang» er etablert, vedlikeholdt og overvåket i skipets rom, inkludert trange og lukkede rom, gjennom hele skipsgjenvinningsprosessen,
+3. forebygge andre ulykker, yrkessykdommer, skader og annen negativ innvirkning på menneskers helse og miljøet, og
+4. forebygge utslipp til vann, grunn og luft gjennom hele skipsgjenvinningsprosessen som kan være skadelige for menneskers helse og/eller miljøet,
+
+idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.
 
 ### Regel 20 – Sikker og miljømessig forsvarlig håndtering av farlige materialer
 
 1 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for sikker og miljømessig forsvarlig fjerning av alle farlige materialer som finnes på et skip sertifisert i samsvar med regel 11 eller 12. Personen(e) med ansvar for gjenvinningsoperasjonene og arbeiderne skal være kjent med de kravene i denne konvensjonen som er relevante for deres oppgaver, og særlig bruke fortegnelsen over farlige materialer og skipsgjenvinningsplanen, både før og under fjerningen av farlige materialer.
 
-2 Skipsgjenvinningsanlegg som er autorisert av en part, skal sikre at alle farlige materialer som er beskrevet i fortegnelsen, blir identifisert, merket, pakket og fjernet i størst mulig grad før opphoggingen gjøres av arbeidere med nødvendig opplæring og utstyr, idet det tas hensyn til retningslinjene organisasjonen har utarbeidet, særlig når det gjelderfarlige væsker, rester og sedimenter,stoffer eller gjenstander som inneholder tungmetaller som bly, kvikksølv, kadmium og heksavalent krom,maling og overflatebelegg som er svært brennbare og/eller fører til giftige utslipp,asbest og materialer som inneholder asbest,PCB og materialer som inneholder PCB, idet det påses at varmegenererende utstyr unngås under slike operasjoner,KFK og haloner, ogandre farlige materialer som ikke er nevnt ovenfor og som ikke er en del av skipskonstruksjonen.
+2 Skipsgjenvinningsanlegg som er autorisert av en part, skal sikre at alle farlige materialer som er beskrevet i fortegnelsen, blir identifisert, merket, pakket og fjernet i størst mulig grad før opphoggingen gjøres av arbeidere med nødvendig opplæring og utstyr, idet det tas hensyn til retningslinjene organisasjonen har utarbeidet, særlig når det gjelder
+
+1. farlige væsker, rester og sedimenter,
+2. stoffer eller gjenstander som inneholder tungmetaller som bly, kvikksølv, kadmium og heksavalent krom,
+3. maling og overflatebelegg som er svært brennbare og/eller fører til giftige utslipp,
+4. asbest og materialer som inneholder asbest,
+5. PCB og materialer som inneholder PCB, idet det påses at varmegenererende utstyr unngås under slike operasjoner,
+6. KFK og haloner, og
+7. andre farlige materialer som ikke er nevnt ovenfor og som ikke er en del av skipskonstruksjonen.
 
 3 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for og sikre sikker og miljømessig forsvarlig håndtering av alle farlige materialer og avfallsstoffer som fjernes fra skipet som gjenvinnes ved det aktuelle skipsgjenvinningsanlegget. Avfallshåndterings- og disponeringssteder skal identifiseres for å sørge for videre trygg og miljømessig forsvarlig håndtering av materialene.
 
@@ -913,15 +1368,41 @@ Skipsgjenvinningsanlegg som er autorisert av en part, skal etablere og benytte p
 
 ### Regel 21 – Kriseberedskap og beredskapstiltak
 
-Skipsgjenvinningsanlegg som er autorisert av en part, skal utforme og vedlikeholde en krise- og beredskapsplan. Planen skal utarbeides med hensyn til skipsgjenvinningsanleggets beliggenhet og miljø og skal ta høyde for aktivitetenes karakter og omfang i forbindelse med hver skipsgjenvinningsoperasjon. Planen skal videresikre at nødvendig utstyr og prosedyrer som skal følges i en nødssituasjon, er på plass, og at det gjennomføres regelmessige øvelser,sikre at nødvendig informasjon, intern kommunikasjon og koordinering blir gitt for å beskytte alle mennesker og miljøet hvis det oppstår en nødssituasjon ved skipsgjenvinningsanlegget,sørge for kommunikasjon med og informasjon til de relevante kompetente myndighetene, nærområdet og nødetater,sørge for førstehjelp og medisinsk assistanse, brannslokking og evakuering av alle personer ved skipsgjenvinningsanlegget, forebygging av forurensning, ogsørge for relevant informasjon og opplæring til alle arbeidere ved skipsgjenvinningsanlegget, på alle nivåer og i tråd med deres kompetanse, herunder regelmessige øvelser på prosedyrene for kriseforebygging, kriseberedskap og -håndtering.
+Skipsgjenvinningsanlegg som er autorisert av en part, skal utforme og vedlikeholde en krise- og beredskapsplan. Planen skal utarbeides med hensyn til skipsgjenvinningsanleggets beliggenhet og miljø og skal ta høyde for aktivitetenes karakter og omfang i forbindelse med hver skipsgjenvinningsoperasjon. Planen skal videre
+
+1. sikre at nødvendig utstyr og prosedyrer som skal følges i en nødssituasjon, er på plass, og at det gjennomføres regelmessige øvelser,
+2. sikre at nødvendig informasjon, intern kommunikasjon og koordinering blir gitt for å beskytte alle mennesker og miljøet hvis det oppstår en nødssituasjon ved skipsgjenvinningsanlegget,
+3. sørge for kommunikasjon med og informasjon til de relevante kompetente myndighetene, nærområdet og nødetater,
+4. sørge for førstehjelp og medisinsk assistanse, brannslokking og evakuering av alle personer ved skipsgjenvinningsanlegget, forebygging av forurensning, og
+5. sørge for relevant informasjon og opplæring til alle arbeidere ved skipsgjenvinningsanlegget, på alle nivåer og i tråd med deres kompetanse, herunder regelmessige øvelser på prosedyrene for kriseforebygging, kriseberedskap og -håndtering.
 
 ### Regel 22 – Arbeidssikkerhet og opplæring
 
-1 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for arbeidernes sikkerhet ved åsikre tilgjengelighet, vedlikehold og bruk av nødvendig personlig verneutstyr og verneklær for alle skipsgjenvinningsoperasjoner,sikre at det tilbys opplæringsprogrammer som gjør arbeiderne i stand til å utføre alle tildelte skipsgjenvinningsoperasjoner på en sikker måte, ogsikre at alle arbeidere ved skipsgjenvinningsanlegget har fått nødvendig opplæring og kjennskap til arbeidet før de utfører skipsgjenvinningsoperasjoner.
+1 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for arbeidernes sikkerhet ved å
 
-2 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for og sikre bruk av personlig verneutstyr for operasjoner som krever slik bruk, inkluderthodebeskyttelse,ansikts- og øyebeskyttelse,hånd- og fotbeskyttelse,åndedrettsvern,hørselsvern,beskyttelse mot radioaktiv forurensning,fallsikring, ogegnet bekledning.
+1. sikre tilgjengelighet, vedlikehold og bruk av nødvendig personlig verneutstyr og verneklær for alle skipsgjenvinningsoperasjoner,
+2. sikre at det tilbys opplæringsprogrammer som gjør arbeiderne i stand til å utføre alle tildelte skipsgjenvinningsoperasjoner på en sikker måte, og
+3. sikre at alle arbeidere ved skipsgjenvinningsanlegget har fått nødvendig opplæring og kjennskap til arbeidet før de utfører skipsgjenvinningsoperasjoner.
 
-3 Skipsgjenvinningsanlegg som er autorisert av en part, kan samarbeide om opplæring av arbeidere. Opplæringsprogrammene i nr. 1.2 i denne regelen skal, idet det tas hensyn til retningslinjene utarbeidet av organisasjonenomfatte alle arbeidere, inkludert entreprenørpersonell og ansatte på skipsgjenvinningsanlegget,gjennomføres av kompetent personell,sørge for grunnleggende opplæring og oppfriskningskurs med passende mellomrom,inkludere en evaluering av hvor godt deltakerne forstår og husker det de lærer,gjennomgås regelmessig og justeres etter behov, ogdokumenteres.
+2 Skipsgjenvinningsanlegg som er autorisert av en part, skal sørge for og sikre bruk av personlig verneutstyr for operasjoner som krever slik bruk, inkludert
+
+1. hodebeskyttelse,
+2. ansikts- og øyebeskyttelse,
+3. hånd- og fotbeskyttelse,
+4. åndedrettsvern,
+5. hørselsvern,
+6. beskyttelse mot radioaktiv forurensning,
+7. fallsikring, og
+8. egnet bekledning.
+
+3 Skipsgjenvinningsanlegg som er autorisert av en part, kan samarbeide om opplæring av arbeidere. Opplæringsprogrammene i nr. 1.2 i denne regelen skal, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen
+
+1. omfatte alle arbeidere, inkludert entreprenørpersonell og ansatte på skipsgjenvinningsanlegget,
+2. gjennomføres av kompetent personell,
+3. sørge for grunnleggende opplæring og oppfriskningskurs med passende mellomrom,
+4. inkludere en evaluering av hvor godt deltakerne forstår og husker det de lærer,
+5. gjennomgås regelmessig og justeres etter behov, og
+6. dokumenteres.
 
 ### Regel 23 – Rapportering av hendelser, ulykker, yrkessykdommer og kroniske virkninger
 
@@ -935,7 +1416,20 @@ Skipsgjenvinningsanlegg som er autorisert av en part, skal utforme og vedlikehol
 
 1 Rederiet skal skriftlig og i god tid underrette administrasjonen om sine planer om å gjenvinne et skip, slik at administrasjonen kan forberede seg på tilsyn og sertifisering i henhold til denne konvensjonen.
 
-2 Når et skipsgjenvinningsanlegg forbereder seg på å motta et skip for gjenvinning, skal det skriftlig og i god tid underrette sin eller sine kompetente myndighet(er) om det forestående arbeidet. Underretningen skal minst inneholde følgende opplysninger om skipet:navn på staten hvis flagg skipet har rett til å føre,datoen da skipet ble registrert i denne staten,skipets identifikasjonsnummer (IMO-nummer),skrognummeret ved levering av nybygde skip,skipets navn og type,skipets hjemstedshavn,rederiets navn og adresse samt registrert eiers IMO-identifikasjonsnummer,selskapets navn og adresse samt IMO-identifikasjonsnummer,navn på alle klasseselskapene som har klassifisert skipet,skipets mål (største lengde (LOA), bredde i riss, dybde i riss, lettvekt, brutto- og nettotonnasje samt motortype og -effekt),fortegnelse over farlige materialer, ogutkast til skipsgjenvinningsplan for godkjenning i henhold til regel 9.
+2 Når et skipsgjenvinningsanlegg forbereder seg på å motta et skip for gjenvinning, skal det skriftlig og i god tid underrette sin eller sine kompetente myndighet(er) om det forestående arbeidet. Underretningen skal minst inneholde følgende opplysninger om skipet:
+
+1. navn på staten hvis flagg skipet har rett til å føre,
+2. datoen da skipet ble registrert i denne staten,
+3. skipets identifikasjonsnummer (IMO-nummer),
+4. skrognummeret ved levering av nybygde skip,
+5. skipets navn og type,
+6. skipets hjemstedshavn,
+7. rederiets navn og adresse samt registrert eiers IMO-identifikasjonsnummer,
+8. selskapets navn og adresse samt IMO-identifikasjonsnummer,
+9. navn på alle klasseselskapene som har klassifisert skipet,
+10. skipets mål (største lengde (LOA), bredde i riss, dybde i riss, lettvekt, brutto- og nettotonnasje samt motortype og -effekt),
+11. fortegnelse over farlige materialer, og
+12. utkast til skipsgjenvinningsplan for godkjenning i henhold til regel 9.
 
 3 Når skipet som skal gjenvinnes, har fått internasjonalt sertifikat for gjenvinningsklart skip, skal skipsgjenvinningsanlegget rapportere til sin(e) kompetente myndighet(er) om planlagt oppstart av skipsgjenvinningen. Rapporten skal være i samsvar med rapporteringsformatet i tillegg 6 og skal minst inneholde en kopi av det internasjonale sertifikat for gjenvinningsklart skip. Gjenvinning av skipet skal ikke starte før rapporten er levert.
 

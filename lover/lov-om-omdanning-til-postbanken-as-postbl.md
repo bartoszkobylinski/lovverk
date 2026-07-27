@@ -15,7 +15,7 @@ xml_hash: "f4f73e51ae93c71ca7f6feb39a43eaf4b75056b460fd3c5b6c16cda5349b8747"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 Formålet med loven er å regulere forholdet til forretningsbankloven,1 aksjeloven, postbankloven2 og visse overgangsspørsmål i forbindelse med omdanning av Postbanken BA til aksjeselskap (Postbanken AS).
 
-1 Inkurie: Opphevet, se nå [lov 10 apr 2015 nr. 17](lov/2015-04-10-17).2 Inkurie: Opphevet jf § 9 nr. 1.
+1 Inkurie: Opphevet, se nå [lov 10 apr 2015 nr. 17](lov/2015-04-10-17).
+
+2 Inkurie: Opphevet jf § 9 nr. 1.
 
 ## § 2. Omdanning
 

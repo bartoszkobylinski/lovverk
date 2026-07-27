@@ -15,7 +15,7 @@ xml_hash: "76cabe5b0d4b8facb6bf283754a266789baaa07f7391342faddbb11f8f819548"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,11 @@ Formelt opptak til fagskoleutdanningen Driftstekniker Havbruk krever fullført o
 
 (4) Dersom søknad om opptak basert på realkompetansevurdering blir avslått, skal avslaget begrunnes.
 
-(5) Følgende gir grunnlag for opptak til Driftstekniker Havbruk – utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitetGenerell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene Drift og produksjon, Anlegg og teknikk samt Biologi og miljø inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
+(5) Følgende gir grunnlag for opptak til Driftstekniker Havbruk – utdanningen basert på realkompetansevurdering:
+
+1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitet
+2. Generell studiekompetanse + 3 års relevant arbeidserfaring
+3. Bestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene Drift og produksjon, Anlegg og teknikk samt Biologi og miljø inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
 
 \* De som mangler denne eksamen kan tas opp under forutsetning av å gjennomføre denne eksamen i løpet av første semester
 
@@ -110,7 +114,12 @@ Formelt opptak til fagskoleutdanningen Driftsleder Akvakultur krever fullført o
 
 (4) Dersom søknad om opptak basert på realkompetansevurdering blir avslått, skal avslaget begrunnes.
 
-(5) Følgende gir grunnlag for opptak til Driftsleder Akvakultur-utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*Generell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene *Drift og produksjon*, *Anlegg og teknikk* samt *Oppdrett og miljø* inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakulturBestått skriftlig eksamen som privatist i hvert av programfagene fra Vg2 Akvakultur samt bestått tverrfaglig praktisk eksamen hvor de felles programfagene inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
+(5) Følgende gir grunnlag for opptak til Driftsleder Akvakultur-utdanningen basert på realkompetansevurdering:
+
+1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*
+2. Generell studiekompetanse + 3 års relevant arbeidserfaring
+3. Bestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene *Drift og produksjon*, *Anlegg og teknikk* samt *Oppdrett og miljø* inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur
+4. Bestått skriftlig eksamen som privatist i hvert av programfagene fra Vg2 Akvakultur samt bestått tverrfaglig praktisk eksamen hvor de felles programfagene inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
 
 > Endret ved forskrift [15 mars 2023 nr. 446](forskrift/2023-03-15-446) (i kraft 14 april 2023).
 
@@ -170,7 +179,11 @@ Vedtak om godskriving og fritak er enkeltvedtak som fattes av rektor. Disse kan 
 
 ### § 4-1. Eksamen og vurderingsformer
 
-Campus BLÅ Fagskole benytter følgende eksamens- og vurderingsordninger:Skriftlig eksamen, muntlig eksamen, praktisk eksamen, prosjektoppgave og ferdighetsprøve.Det fremgår av skolens studie- og fagplaner hvilke eksamens- og vurderingsordninger som benyttes i hver enkelt utdanning.For utdanninger som inneholder sertifiseringskurs der eksamen og sertifisering gjennomføres av ekstern, godkjent sertifiseringsinstans, følges sertifiseringsinstansens vilkår og reglement for gjennomføring av eksamen og sertifisering.
+Campus BLÅ Fagskole benytter følgende eksamens- og vurderingsordninger:
+
+1. Skriftlig eksamen, muntlig eksamen, praktisk eksamen, prosjektoppgave og ferdighetsprøve.
+2. Det fremgår av skolens studie- og fagplaner hvilke eksamens- og vurderingsordninger som benyttes i hver enkelt utdanning.
+3. For utdanninger som inneholder sertifiseringskurs der eksamen og sertifisering gjennomføres av ekstern, godkjent sertifiseringsinstans, følges sertifiseringsinstansens vilkår og reglement for gjennomføring av eksamen og sertifisering.
 
 > Endret ved forskrift [1 okt 2021 nr. 3170](forskrift/2021-10-01-3170) (i kraft 12 nov 2021).
 
@@ -195,7 +208,18 @@ Campus BLÅ Fagskole benytter følgende eksamens- og vurderingsordninger:Skriftl
 
 (5) Skolen dokumenterer fullført og bestått fagutdanning med vitnemål. Skolen utsteder kun ett vitnemål til hver student. En avgift kan påløpe ved bestilling av nytt vitnemål (duplikat).
 
-(6) Skolens vitnemål inneholder informasjon om:Hvilken tilbyder som har utstedt vitnemåletHvilket karaktersystem som benyttesDet overordnede læringsutbyttetEmner og sertifiseringskursKvalifikasjonsnivået som oppnåsAntall studiepoengNUS-kode og lovreferanseKaraktererProsjektoppgave der dette er aktueltFerdighetsprøver for utdanninger der dette er aktuelt.
+(6) Skolens vitnemål inneholder informasjon om:
+
+1. Hvilken tilbyder som har utstedt vitnemålet
+2. Hvilket karaktersystem som benyttes
+3. Det overordnede læringsutbyttet
+4. Emner og sertifiseringskurs
+5. Kvalifikasjonsnivået som oppnås
+6. Antall studiepoeng
+7. NUS-kode og lovreferanse
+8. Karakterer
+9. Prosjektoppgave der dette er aktuelt
+10. Ferdighetsprøver for utdanninger der dette er aktuelt.
 
 (7) Karakterutskrift utstedes uten omkostninger til studenter som har fullført deler av utdanningen.
 
@@ -215,7 +239,12 @@ Avleggelse av eksamen forutsetter deltagelse i minimum 80 % av undervisningen s
 
 (1) En student som har behov for spesiell tilrettelegging av eksamen, må sende skriftlig søknad til skolens administrasjon innen en måned før eksamen. Ved akutt skade/sykdom må søknad sendes så fort studenten er kjent med skaden/sykdommen. Søknaden må inneholde bekreftelse fra sakkyndig, for eksempel legeattest, uttalelse fra logoped, psykolog eller lignende.
 
-(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:Utvidet tid (inntil en ekstra time) til eksamenBruk av ordbokBruk av PC eller andre hjelpemidlerAlternativ eksamensform (muntlig/skriftlig).
+(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene. Eksempler på tilrettelegging er:
+
+1. Utvidet tid (inntil en ekstra time) til eksamen
+2. Bruk av ordbok
+3. Bruk av PC eller andre hjelpemidler
+4. Alternativ eksamensform (muntlig/skriftlig).
 
 (3) Det gis ikke utvidet tid ved prosjektoppgave.
 
@@ -253,9 +282,16 @@ Avleggelse av eksamen forutsetter deltagelse i minimum 80 % av undervisningen s
 
 ### § 4-9. Klage over karakterfastsetting
 
-(1) En student har rett til å få begrunnelse for karaktersettingen.Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse fremsettes umiddelbart etter at karakteren er formidlet. Hvis karakteren kunngjøres elektronisk og studenten kan kreve begrunnelsen elektronisk, må krav om begrunnelse fremsettes innen én uke etter at karakteren blir kunngjort. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke etter at studenten fikk kjennskap til karakteren, men likevel ikke senere enn 3 (tre) uker fra karakteren ble kunngjort. Krav om begrunnelse for karakter skal sendes til rektor.Begrunnelsen skal gis innen 2 (to) uker etter at studenten har bedt om den. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om det og samtidig få vite når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen kan gis skriftlig eller muntlig.Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal studentene ha tilgang til dem etter at karakteren er fastsatt.
+(1) En student har rett til å få begrunnelse for karaktersettingen.
 
-(2) Studenten har rett til å klage på karakterfastsettingen. Klage på karakterer skal gjøres skriftlig til rektor og innen 3 (tre) uker etter at eksamensresultatet er kunngjort. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for klagen.Studenten kan ikke klage på bedømmelse av muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel praktisk oppgave) ikke lar seg etterprøve.Hvis karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og bedømmelsen av den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsetting av endelig karakter.
+1. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse fremsettes umiddelbart etter at karakteren er formidlet. Hvis karakteren kunngjøres elektronisk og studenten kan kreve begrunnelsen elektronisk, må krav om begrunnelse fremsettes innen én uke etter at karakteren blir kunngjort. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke etter at studenten fikk kjennskap til karakteren, men likevel ikke senere enn 3 (tre) uker fra karakteren ble kunngjort. Krav om begrunnelse for karakter skal sendes til rektor.
+2. Begrunnelsen skal gis innen 2 (to) uker etter at studenten har bedt om den. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om det og samtidig få vite når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen kan gis skriftlig eller muntlig.
+3. Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal studentene ha tilgang til dem etter at karakteren er fastsatt.
+
+(2) Studenten har rett til å klage på karakterfastsettingen. Klage på karakterer skal gjøres skriftlig til rektor og innen 3 (tre) uker etter at eksamensresultatet er kunngjort. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for klagen.
+
+1. Studenten kan ikke klage på bedømmelse av muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel praktisk oppgave) ikke lar seg etterprøve.
+2. Hvis karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og bedømmelsen av den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsetting av endelig karakter.
 
 (3) Ved klage på karakter oppnevner styret ny(e) sensor(er).
 
@@ -263,7 +299,10 @@ Avleggelse av eksamen forutsetter deltagelse i minimum 80 % av undervisningen s
 
 ### § 4-10. Klage på formelle feil ved eksamen
 
-(1) En student som har vært oppe til en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan klage på formelle feil. Formelle feil kan være feil ved eksamensoppgaven, eksamensavviklingen eller ved gjennomføringen av sensur.Fristen for å klage er 3 (tre) uker etter at studenten er, eller burde være, kjent med det forholdet som begrunner klagen. Dersom studenten har bedt om begrunnelse eller klaget på karakterfastsettingen, løper klagefristen fra det tidspunkt studenten mottok begrunnelse eller avgjørelse av klage.Klagen må være datert, underskrevet og bør inneholde en begrunnelse for hvorfor studenten klager. Klagen sendes til rektor. Se for øvrig [kapittel 7](forskrift/2019-02-15-223/kap7) for informasjon om klagebehandling.
+(1) En student som har vært oppe til en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan klage på formelle feil. Formelle feil kan være feil ved eksamensoppgaven, eksamensavviklingen eller ved gjennomføringen av sensur.
+
+1. Fristen for å klage er 3 (tre) uker etter at studenten er, eller burde være, kjent med det forholdet som begrunner klagen. Dersom studenten har bedt om begrunnelse eller klaget på karakterfastsettingen, løper klagefristen fra det tidspunkt studenten mottok begrunnelse eller avgjørelse av klage.
+2. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for hvorfor studenten klager. Klagen sendes til rektor. Se for øvrig [kapittel 7](forskrift/2019-02-15-223/kap7) for informasjon om klagebehandling.
 
 (2) Dersom klagebehandlingen avdekker at det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensuren oppheves og det skal foretas ny sensurering eller avholdes ny eksamen. I de tilfeller feilen antas å ha hatt betydning for flere studenters prestasjon eller bedømmelsen av denne, kan skolen eller klageinstansen vedta at det skal foretas ny sensurering eller ny eksamen for samtlige studenter.
 
@@ -275,7 +314,15 @@ Avleggelse av eksamen forutsetter deltagelse i minimum 80 % av undervisningen s
 
 ### § 5-1. Fusk og forsøk på fusk
 
-(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved prøver/eksamen eller i forbindelse med opptak regnes som fusk. Eksempler på fusk er:å ha ulovlige hjelpemidler tilgjengelig under eksamen og prøveå levere en besvarelse som er hentet fra Internett og helt eller delvis utgitt som egen besvarelse (plagiat)å levere en besvarelse som helt eller delvis er utarbeidet av en annen personå levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøveå gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra Internett osv. som er framstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitaterå benytte falskt vitnemål eller andre falske dokumenter i forbindelse med opptak, fritak- eller godskrivningsvurderingListen er ikke uttømmende.
+(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved prøver/eksamen eller i forbindelse med opptak regnes som fusk. Eksempler på fusk er:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under eksamen og prøve
+2. å levere en besvarelse som er hentet fra Internett og helt eller delvis utgitt som egen besvarelse (plagiat)
+3. å levere en besvarelse som helt eller delvis er utarbeidet av en annen person
+4. å levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøve
+5. å gjengi/sitere lærebøker, andre fagbøker, andres oppgaver, stoff som er hentet fra Internett osv. som er framstilt uten kildehenvisning og uten klar markering av at dette er gjengivelse/sitater
+6. å benytte falskt vitnemål eller andre falske dokumenter i forbindelse med opptak, fritak- eller godskrivningsvurdering
+7. Listen er ikke uttømmende.
 
 (2) Dersom studenten har fusket, eller forsøkt å fuske, kan prøven/eksamen/opptaket annulleres. Styret fatter enkeltvedtak om annullering. Studenten har rett til å forklare seg før vedtaket fattes.
 
@@ -301,7 +348,14 @@ Avleggelse av eksamen forutsetter deltagelse i minimum 80 % av undervisningen s
 
 ### § 6-1. Bortvising og utestenging
 
-(1) Etter [fagskolelovens § 25](lov/2018-06-08-28/§25) kan en student som tross skriftlig advarsel fra skolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved skolen ellers, kan etter vedtak av styret bortvises fra skolen i inntil 1 (ett) år. Hvis avgjørelse ikke kan vente til styret kan komme sammen i møte, avgjør rektor saken. Et slikt vedtak om bortvisning gjelder inntil styret kan fatte et endelig vedtak i saken. Bortvisningen innebærer ikke at studenten fratas retten til å gå opp til eksamen. Eksempler på handlinger og adferd som kan virke grovt forstyrrende på medstudenter og virksomheten på skolen og som kan medføre vedtak om bortvisning:Besittelse og bruk av rusmidler på skolens område.Støyende oppførsel i klasserom som vedvarer, på tross av gjentatte korreksjoner fra undervisningspersonell.Handlinger som ikke er i tråd med norsk lovgivning.Fusk på standpunktprøver og eksamen.Bruks av skolens internettforbindelse til surfing på nettsider som er ulovlig i henhold til norsk lovgivning.Listen er ikke uttømmende.
+(1) Etter [fagskolelovens § 25](lov/2018-06-08-28/§25) kan en student som tross skriftlig advarsel fra skolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved skolen ellers, kan etter vedtak av styret bortvises fra skolen i inntil 1 (ett) år. Hvis avgjørelse ikke kan vente til styret kan komme sammen i møte, avgjør rektor saken. Et slikt vedtak om bortvisning gjelder inntil styret kan fatte et endelig vedtak i saken. Bortvisningen innebærer ikke at studenten fratas retten til å gå opp til eksamen. Eksempler på handlinger og adferd som kan virke grovt forstyrrende på medstudenter og virksomheten på skolen og som kan medføre vedtak om bortvisning:
+
+1. Besittelse og bruk av rusmidler på skolens område.
+2. Støyende oppførsel i klasserom som vedvarer, på tross av gjentatte korreksjoner fra undervisningspersonell.
+3. Handlinger som ikke er i tråd med norsk lovgivning.
+4. Fusk på standpunktprøver og eksamen.
+5. Bruks av skolens internettforbindelse til surfing på nettsider som er ulovlig i henhold til norsk lovgivning.
+6. Listen er ikke uttømmende.
 
 (2) Hvis en student, til tross av skriftlig advarsel fra skolen, ikke etterkommer et vedtak om bortvisning, kan styret vedta å utestenge studenten fra utdanningen i inntil 1 (ett) år. Utestenging fra studiet innebærer at studenten fratas retten til å gå opp til eksamen.
 
@@ -337,7 +391,16 @@ En klage må være skriftlig og inneholde informasjon om vedtaket det klages på
 
 ### § 7-5. Klageinstans
 
-(1) Skolen benytter tre klageinstanser; skolens styre, lokal klagenemnd og nasjonalt klageorgan for fagskoleutdanning:Skolens styre er klageinstans for skolens vedtak etter [fagskolelovens § 23](lov/2018-06-08-28/§23) – Klage over formelle feil ved eksamen. Styrets studentrepresentant har stemmerett i klagesaker.Etter styrets vedtekter kan følgende vedtak påklages til nasjonalt klageorgan for fagskoleutdanning:Styrets vedtak om annullering av eksamen m.m etter [fagskolelovens § 24](lov/2018-06-08-28/§24)Styrets vedtak om å bortvise eller utestenge en student etter [fagskolelovens § 25](lov/2018-06-08-28/§25)Styrets vedtak om at en student ikke er skikket for et yrke og vedtak om å utestenge en student fra fagskoleutdanning som følge av at studenten ikke er skikket for yrket, jf. [fagskolelovens § 26](lov/2018-06-08-28/§26)Styrets vedtak om utestenging fra klinisk undervisning eller praksisstudier etter [fagskolelovens § 27](lov/2018-06-08-28/§27). Krav om politiattestFor andre klager etter enkeltvedtak er lokal klagenemnd klageinstans.
+(1) Skolen benytter tre klageinstanser; skolens styre, lokal klagenemnd og nasjonalt klageorgan for fagskoleutdanning:
+
+1. Skolens styre er klageinstans for skolens vedtak etter [fagskolelovens § 23](lov/2018-06-08-28/§23) – Klage over formelle feil ved eksamen. Styrets studentrepresentant har stemmerett i klagesaker.
+2. Etter styrets vedtekter kan følgende vedtak påklages til nasjonalt klageorgan for fagskoleutdanning:
+
+   1. Styrets vedtak om annullering av eksamen m.m etter [fagskolelovens § 24](lov/2018-06-08-28/§24)
+   2. Styrets vedtak om å bortvise eller utestenge en student etter [fagskolelovens § 25](lov/2018-06-08-28/§25)
+   3. Styrets vedtak om at en student ikke er skikket for et yrke og vedtak om å utestenge en student fra fagskoleutdanning som følge av at studenten ikke er skikket for yrket, jf. [fagskolelovens § 26](lov/2018-06-08-28/§26)
+   4. Styrets vedtak om utestenging fra klinisk undervisning eller praksisstudier etter [fagskolelovens § 27](lov/2018-06-08-28/§27). Krav om politiattest
+3. For andre klager etter enkeltvedtak er lokal klagenemnd klageinstans.
 
 (2) Ved klage på karakterfastsetting gjennomføres ny sensur. Slike klager skal ikke behandles av klageinstans. Se [§ 4-9](forskrift/2019-02-15-223/§4-9) for mer informasjon.
 
@@ -353,7 +416,11 @@ En klage må være skriftlig og inneholde informasjon om vedtaket det klages på
 
 ### § 7-7. Klagenemnd
 
-(1) Skolens klagenemnd oppnevnes av skolens styre og skal ha fem medlemmer med personlige varamedlemmer:Lederen og varamedlemmet for lederen skal fylle de lovbestemte kravene for lagdommere. Lederen og varamedlemmet for lederen skal ikke være ansatt ved skolen.To medlemmer med personlig vara oppnevnes av skolens studenter.Skolens rektor, skolens eiere eller medlemmer av skolens styre kan ikke være medlem. Medlem som har medvirket ved saksbehandling eller avgjørelse i en klagesak, kan ikke delta i klagenemndas behandling av saken.
+(1) Skolens klagenemnd oppnevnes av skolens styre og skal ha fem medlemmer med personlige varamedlemmer:
+
+1. Lederen og varamedlemmet for lederen skal fylle de lovbestemte kravene for lagdommere. Lederen og varamedlemmet for lederen skal ikke være ansatt ved skolen.
+2. To medlemmer med personlig vara oppnevnes av skolens studenter.
+3. Skolens rektor, skolens eiere eller medlemmer av skolens styre kan ikke være medlem. Medlem som har medvirket ved saksbehandling eller avgjørelse i en klagesak, kan ikke delta i klagenemndas behandling av saken.
 
 (2) Klagenemndas leder innkaller til møter etter behov. Sakspapirer skal sendes ut eller være tilgjengelig for nemndas medlemmer før møtet.
 

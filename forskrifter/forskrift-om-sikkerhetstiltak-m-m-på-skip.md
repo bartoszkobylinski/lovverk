@@ -15,7 +15,7 @@ xml_hash: "cae2b0ad2b670882cc6910d205d6b71001cb978d923bc13356db9c8012483dd9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,31 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Bemannet lekter:* Lekter som har fått fastsatt bemanning etter de til enhver tid gjeldende forskrifter om bemanning av norske skip.*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Dekkslast:* Last som føres på åpent dekk.*Faste atkomstmidler:* Faste leidere, faste passasjer og plattformer.*Flyttbare atkomstmidler:* Leidere/stiger, gangpassasjer o.l. som anordnes midlertidig for særskilte formål.*Godkjent, typegodkjent og akseptert:*For utstyr som omfattes av [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr:Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon eller administrasjon i et land som har ratifisert Sjøsikkerhetskonvensjonen.*Helikopterdekk:* Spesielt dekk som er bygget for landing og avgang av helikopter.*ISO:* Den internasjonale standardiseringsorganisasjonen.*Landingsområde:* Område på skipet som er oppmerket for landing og avgang av helikoptre (f.eks. del av tankdekk, lukedeksel o.l.).*Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988-Protokollen til Lastelinjekonvensjonen 1966.*Lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy.*Lekter:* Et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.*Område for vinsjoperasjon:* Område på skipet som er oppmerket for vinsjoperasjon, men ikke landing (f.eks. del av tankdekk, lukedeksel o.l.).*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.*Verneverdig skip:* Skip som har fått slik status etter godkjennelse av Riksantikvaren eller den Riksantikvaren bemyndiger. Dette status opprettholdes så lenge Riksantikvaren gjennom egen avtale med eieren, finner at de antikvariske betingelser er opprettholdt.
+I denne forskrift betyr:
+
+1. *Bemannet lekter:* Lekter som har fått fastsatt bemanning etter de til enhver tid gjeldende forskrifter om bemanning av norske skip.
+2. *Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.
+3. *Dekkslast:* Last som føres på åpent dekk.
+4. *Faste atkomstmidler:* Faste leidere, faste passasjer og plattformer.
+5. *Flyttbare atkomstmidler:* Leidere/stiger, gangpassasjer o.l. som anordnes midlertidig for særskilte formål.
+6. *Godkjent, typegodkjent og akseptert:*
+
+   1. For utstyr som omfattes av [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.
+   2. For annet utstyr:
+
+      1. Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.
+      2. Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.
+      3. Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon eller administrasjon i et land som har ratifisert Sjøsikkerhetskonvensjonen.
+7. *Helikopterdekk:* Spesielt dekk som er bygget for landing og avgang av helikopter.
+8. *ISO:* Den internasjonale standardiseringsorganisasjonen.
+9. *Landingsområde:* Område på skipet som er oppmerket for landing og avgang av helikoptre (f.eks. del av tankdekk, lukedeksel o.l.).
+10. *Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988-Protokollen til Lastelinjekonvensjonen 1966.
+11. *Lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy.
+12. *Lekter:* Et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.
+13. *Område for vinsjoperasjon:* Område på skipet som er oppmerket for vinsjoperasjon, men ikke landing (f.eks. del av tankdekk, lukedeksel o.l.).
+14. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+15. *Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.
+16. *Verneverdig skip:* Skip som har fått slik status etter godkjennelse av Riksantikvaren eller den Riksantikvaren bemyndiger. Dette status opprettholdes så lenge Riksantikvaren gjennom egen avtale med eieren, finner at de antikvariske betingelser er opprettholdt.
 
 > Endret ved forskrifter [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -44,7 +68,10 @@ I denne forskrift betyr:*Bemannet lekter:* Lekter som har fått fastsatt bemanni
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 > Endret ved [forskrift 5 sep 2014 nr. 1159](forskrift/2014-09-05-1159) (i kraft 15 sep 2014).
 
@@ -72,7 +99,14 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 (3) På skip med bruttotonnasje under 300 skal atkomstmidlene være til Sjøfartsdirektoratets tilfredshet, men skal i størst mulig utstrekning tilfredsstille kravene til godkjent utstyr.
 
-(4) Når atkomstmiddel for ombord- og ilandstigning anbringes, skal følgende etterkommes:Under atkomstmidlet skal det anordnes et nett mellom skipsside og land. Videre skal det anordnes god belysning av atkomstmidlet.I rekkverk og skansekledning skal det være port e.l. for anbringelse av fallrep eller gangvei. Om atkomstmidlet likevel må legges over skansekledningen/rekken, skal det være trapp eller trinn med håndrekke som fører fra atkomstmidlet og ned til dekket. Rekketrappen skal sikres på forsvarlig måte.Benyttes atkomstmidler fra land, skal disse være i forsvarlig stand og kunne anbringes på forsvarlig måte.Ligger skipet til ankers, skal det benyttes fallrep med påsatt plattform nederst.Rekketau og taunett skal være montert på sidene av atkomstmidlet og ved begge plattformene når atkomstmidlet er i bruk.Største tillatte skråstilling for landganger er 35°. Største tillatte skråstilling for kombinerte landganger og fallrep er 50°.
+(4) Når atkomstmiddel for ombord- og ilandstigning anbringes, skal følgende etterkommes:
+
+1. Under atkomstmidlet skal det anordnes et nett mellom skipsside og land. Videre skal det anordnes god belysning av atkomstmidlet.
+2. I rekkverk og skansekledning skal det være port e.l. for anbringelse av fallrep eller gangvei. Om atkomstmidlet likevel må legges over skansekledningen/rekken, skal det være trapp eller trinn med håndrekke som fører fra atkomstmidlet og ned til dekket. Rekketrappen skal sikres på forsvarlig måte.
+3. Benyttes atkomstmidler fra land, skal disse være i forsvarlig stand og kunne anbringes på forsvarlig måte.
+4. Ligger skipet til ankers, skal det benyttes fallrep med påsatt plattform nederst.
+5. Rekketau og taunett skal være montert på sidene av atkomstmidlet og ved begge plattformene når atkomstmidlet er i bruk.
+6. Største tillatte skråstilling for landganger er 35°. Største tillatte skråstilling for kombinerte landganger og fallrep er 50°.
 
 (5) Fallrep med tilhørende plattformer skal oppfylle NS-6249 eller ISO-standard nr. 5488.
 
@@ -114,7 +148,22 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 ### § 12. Føring av dekkslast
 
-(1) Ved føring av dekkslast gjelder følgende generelle krav:– – –– – –Lukeåpninger på værdekk som tildekkes av last, skal være forskriftsmessig lukket og skalket. Ventilatorer og luftrør skal være effektivt beskyttet.Dekkslast skal være forsvarlig stuet og slik at overvann får fritt avløp fra dekk.Når deleskott (binger) for føring av dekkslast anvendes, skal det sørges for åpninger slik at overvann ikke kan samle seg.Dekkslasten skal være plassert og surret slik at den ikke forskyver seg.Surringer skal kunne strammes og frigjøres på en lettvint måte under reisen.– – –Utganger fra innredning og maskinrom, samt nødutganger skal ikke blokkeres av dekkslast.Dekkslasten skal ikke plasseres slik at den hindrer øyeblikkelig bruk av redningsredskapene.Tanker og rennesteiner skal kunne peiles til enhver tid.– – –Det skal være lett atkomst til brannhydrantene.Dekkslast skal ikke hindre atkomst eller bruk av ankerutrustning, ankerspill, vinsjer eller fortøyningsarrangementer.
+(1) Ved føring av dekkslast gjelder følgende generelle krav:
+
+1. – – –
+2. – – –
+3. Lukeåpninger på værdekk som tildekkes av last, skal være forskriftsmessig lukket og skalket. Ventilatorer og luftrør skal være effektivt beskyttet.
+4. Dekkslast skal være forsvarlig stuet og slik at overvann får fritt avløp fra dekk.
+5. Når deleskott (binger) for føring av dekkslast anvendes, skal det sørges for åpninger slik at overvann ikke kan samle seg.
+6. Dekkslasten skal være plassert og surret slik at den ikke forskyver seg.
+7. Surringer skal kunne strammes og frigjøres på en lettvint måte under reisen.
+8. – – –
+9. Utganger fra innredning og maskinrom, samt nødutganger skal ikke blokkeres av dekkslast.
+10. Dekkslasten skal ikke plasseres slik at den hindrer øyeblikkelig bruk av redningsredskapene.
+11. Tanker og rennesteiner skal kunne peiles til enhver tid.
+12. – – –
+13. Det skal være lett atkomst til brannhydrantene.
+14. Dekkslast skal ikke hindre atkomst eller bruk av ankerutrustning, ankerspill, vinsjer eller fortøyningsarrangementer.
 
 (2) – – –
 
@@ -124,23 +173,58 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 ### § 13. Ombord- og ilandkjøring og plassering av kjøretøy m.m. på ferjer
 
-(1) For alle ferjer gjelder:Passasjerene kan oppholde seg i kjøretøyene under ombord- og ilandkjøring når ferjens fortøynings- og låsearrangement m.m. til kjørebro er i henhold til den til enhver tid gjeldende forskrift om bygging av passasjer- og lasteskip. Under ombord- og ilandkjøring skal ferjekaibru være fastlåst til ferjens recess.Benyttes samme landgang for passasjerer og biler, skal det sørges for at passasjerene kan bevege seg uhindret av biler over landgang og til og fra passasjerenes oppholdsplasser.Utganger fra bildekket skal være tydelig merket og det skal installeres høyttaleranlegg som også dekker bildekket til bruk for informasjon til passasjerene.Motorvogners fremdriftsmotor og andre forbrenningsmotorer innmontert i motorvogn eller tilhenger, skal være stoppet under transporten. Innretninger som er drevet med åpen flamme, skal ha hovedventilen på gass eller brennvæskebeholder stengt slik at alle flammer er slukket. Godt synlig skilt om dette skal være oppslått om bord.Andre forbrenningsmotorer enn kjøretøyets fremdriftsmotor kan tillates å være i gang under transport på delvis lukkede ferjer dersom bilen eller tilhengeren plasseres på den åpne delen av bildekket, og på åpne ferjer dersom bilen eller tilhengeren plasseres i akterkant av bildekket. Tillatelsen gis under hensyntagen til behovet pga. reisens lengde og formålet med bruk av forbrenningsmotoren mv.Når kjøretøyet parkeres om bord, skal parkeringsbremsen være på og laveste gir koplet inn.Når det er påkrevd, skal kjøretøyene være surret og sikret mot forskyvning.Porter på bildekket skal under overfarten være lukket og skalket.Røyking og bruk av åpen ild er forbudt på bildekk. Skilt om dette skal være oppsatt på et lett synlig sted.
+(1) For alle ferjer gjelder:
 
-(2) På åpne eller delvis åpne ferjer kan passasjerene sitte i kjøretøyene under overfarten når ferjen anvendes i fartsområde 2 eller mindre, og følgende krav er oppfylt:Kjøretøyene skal plasseres slik at klaringen på den ene siden av kjøretøyet er minst 60 cm og slik at det er tilstrekkelig passasje med fri atkomst til sidene på ferjen.Passasjer til innredning, nødutganger, brann- og redningsutstyr skal ikke sperres.
+1. Passasjerene kan oppholde seg i kjøretøyene under ombord- og ilandkjøring når ferjens fortøynings- og låsearrangement m.m. til kjørebro er i henhold til den til enhver tid gjeldende forskrift om bygging av passasjer- og lasteskip. Under ombord- og ilandkjøring skal ferjekaibru være fastlåst til ferjens recess.
+2. Benyttes samme landgang for passasjerer og biler, skal det sørges for at passasjerene kan bevege seg uhindret av biler over landgang og til og fra passasjerenes oppholdsplasser.
+3. Utganger fra bildekket skal være tydelig merket og det skal installeres høyttaleranlegg som også dekker bildekket til bruk for informasjon til passasjerene.
+4. Motorvogners fremdriftsmotor og andre forbrenningsmotorer innmontert i motorvogn eller tilhenger, skal være stoppet under transporten. Innretninger som er drevet med åpen flamme, skal ha hovedventilen på gass eller brennvæskebeholder stengt slik at alle flammer er slukket. Godt synlig skilt om dette skal være oppslått om bord.
+5. Andre forbrenningsmotorer enn kjøretøyets fremdriftsmotor kan tillates å være i gang under transport på delvis lukkede ferjer dersom bilen eller tilhengeren plasseres på den åpne delen av bildekket, og på åpne ferjer dersom bilen eller tilhengeren plasseres i akterkant av bildekket. Tillatelsen gis under hensyntagen til behovet pga. reisens lengde og formålet med bruk av forbrenningsmotoren mv.
+6. Når kjøretøyet parkeres om bord, skal parkeringsbremsen være på og laveste gir koplet inn.
+7. Når det er påkrevd, skal kjøretøyene være surret og sikret mot forskyvning.
+8. Porter på bildekket skal under overfarten være lukket og skalket.
+9. Røyking og bruk av åpen ild er forbudt på bildekk. Skilt om dette skal være oppsatt på et lett synlig sted.
+
+(2) På åpne eller delvis åpne ferjer kan passasjerene sitte i kjøretøyene under overfarten når ferjen anvendes i fartsområde 2 eller mindre, og følgende krav er oppfylt:
+
+1. Kjøretøyene skal plasseres slik at klaringen på den ene siden av kjøretøyet er minst 60 cm og slik at det er tilstrekkelig passasje med fri atkomst til sidene på ferjen.
+2. Passasjer til innredning, nødutganger, brann- og redningsutstyr skal ikke sperres.
 
 (3) På åpne eller delvis åpne ferjer i fartsområde 3/klasse D eller større fartsområder og på lukkede ferjer, er det forbudt å oppholde seg på bildekk under overfarten fra havn til havn. Før skipet avgår fra havn skal besetningen kontrollere at alle passasjerene har forlatt bildekket og adkomsten til bildekket skal være avlåst under overfarten. Sjøfartsdirektoratet kan for ferjer i korte riksvegsamband gi særskilt tillatelse til at passasjerene sitter i kjøretøyene også under overfarten.
 
-(4) På alle ferjer kan personer oppholde seg i utrykningskjøretøy og andre liknende transportmidler under ombord- og ilandkjøring og under overfarten. For skip med krav om evakueringsanalyse, skal analysen også omfatte evakuering av slik transport. Rederiet skal utarbeide prosedyrer for slik transport og skipsføreren skal før transporten begynner særlig forsikre seg om:at tjenestepersonell i kjøretøyet er kjent med hvordan de skal opptre i en nødssituasjon og hvordan skipet evakueres,at det er tilstrekkelig plass rundt kjøretøyet slik at alle kan komme seg ut og til mønstringsstasjonene, ogat det er etablert radiokontakt mellom kjøretøyet og broen.
+(4) På alle ferjer kan personer oppholde seg i utrykningskjøretøy og andre liknende transportmidler under ombord- og ilandkjøring og under overfarten. For skip med krav om evakueringsanalyse, skal analysen også omfatte evakuering av slik transport. Rederiet skal utarbeide prosedyrer for slik transport og skipsføreren skal før transporten begynner særlig forsikre seg om:
 
-(5) Forbudet i tredje ledd gjelder ikke på innenriks ferger hvor minst ett av anløpsstedene ligger i en kommune med særlig høyt tiltaksnivå som minst tilsvarer [kapittel 5A i forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet](forskrift/2020-03-27-470/kap5a), forutsatt atpassasjerantallet reduseres til 25 % av det som er oppgitt i skipets sertifikatdet er mulig å varsle alle passasjerer i en nødssituasjonskipet har midler til å overvåke bildekketbildekket er utstyrt med tilstrekkelig ventilasjonkjøretøyene plasseres slik at klaringen på begge sider av kjøretøyet er minst 60 cm og slik at det er tilstrekkelig passasje med fri atkomst til sidene på fergenpassasjer til innredning, nødutganger, brann- og redningsutstyr ikke sperres.
+1. at tjenestepersonell i kjøretøyet er kjent med hvordan de skal opptre i en nødssituasjon og hvordan skipet evakueres,
+2. at det er tilstrekkelig plass rundt kjøretøyet slik at alle kan komme seg ut og til mønstringsstasjonene, og
+3. at det er etablert radiokontakt mellom kjøretøyet og broen.
+
+(5) Forbudet i tredje ledd gjelder ikke på innenriks ferger hvor minst ett av anløpsstedene ligger i en kommune med særlig høyt tiltaksnivå som minst tilsvarer [kapittel 5A i forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet](forskrift/2020-03-27-470/kap5a), forutsatt at
+
+1. passasjerantallet reduseres til 25 % av det som er oppgitt i skipets sertifikat
+2. det er mulig å varsle alle passasjerer i en nødssituasjon
+3. skipet har midler til å overvåke bildekket
+4. bildekket er utstyrt med tilstrekkelig ventilasjon
+5. kjøretøyene plasseres slik at klaringen på begge sider av kjøretøyet er minst 60 cm og slik at det er tilstrekkelig passasje med fri atkomst til sidene på fergen
+6. passasjer til innredning, nødutganger, brann- og redningsutstyr ikke sperres.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [30 aug 2013 nr. 1091](forskrift/2013-08-30-1091) (i kraft 1 nov 2013), [22 mars 2021 nr. 947](forskrift/2021-03-22-947).
 
 ### § 14. Stabilitet
 
-(1) Alle skip skal ha følgende stabilitetsoppgaver og hjelpemidler som oppbevares om bord:Et godkjent eksemplar av hver av de tegningene og beregningene som dokumenterer skipets stabilitet i intakt og skadet tilstand.Et regneeksempel som viser bruken av KG-grensekurvene og andre hjelpemidler for kontroll av skipets stabilitet for de aktuelle lastetilstandene. Hjelpemidler som skal benyttes i tillegg til – eller som erstatning for – KG-grensekurver for vurdering av skipets stabilitet, herunder lasteinstrumenter, skal godkjennes av Sjøfartsdirektoratet.
+(1) Alle skip skal ha følgende stabilitetsoppgaver og hjelpemidler som oppbevares om bord:
 
-(2) Ved alminnelig drift skal det sørges for at:Det tas hensyn til stabilitetsopplysninger samt aktuelle forutsetninger for godkjenning av disse, bl.a. værtette og vanntette lukningsmidler, sleping, fordeling av last, passasjerer, tunge kjøretøyer, trelast,1 ising og eventuell bruk av vannballast, rulledempingstanker, vekseltanker mv.Skipet lastes slik at det i alle lastetilstander får tilstrekkelig stabilitet og at skipsføreren etter vurdering av bl.a. skipets manøvreringsegenskaper tar de nødvendige forholdsregler for å oppnå en forsvarlig trim under hele reisen med den lastekondisjonen skipet har.Avgangs- og ankomsttilstand er i samsvar med stabilitetsoppgavene og at skipets tyngdepunkt ligger på tillatt side av KG-grensekurvene.Samlet vekt av dekkslast ikke overskrider 3% av skipets dødvekt eller 30 bruttotonn hvis 3% av dødvekten blir større, med mindre annet fremgår av de godkjente stabilitetsberegninger.Det tas hensyn til vektøkning som følge av at dekkslasten kan absorbere eller samle vann. Inklusive den forutsatte vektøkning, skal det ikke lastes dypere enn til lastelinjen for vedkommende fart og årstid.Om skipet anvendes i farvann hvor ising kan forekomme, skal godkjente lastetilstander med is være om bord. Ved lasting vinterstid skal det også tas rimelig hensyn til forventet nedising og endring av dypgående og stabilitet under reisen. Under slike omstendigheter må ikke fartøyet lastes helt ned til lastelinjen for vedkommende fart og årstid.Konsekvensene av tap av kranlast vurderes spesielt dersom det ved laste-/losseoperasjoner til havs benyttes motballastering for å balansere krengende momenter pga. vekt i kran.
+1. Et godkjent eksemplar av hver av de tegningene og beregningene som dokumenterer skipets stabilitet i intakt og skadet tilstand.
+2. Et regneeksempel som viser bruken av KG-grensekurvene og andre hjelpemidler for kontroll av skipets stabilitet for de aktuelle lastetilstandene. Hjelpemidler som skal benyttes i tillegg til – eller som erstatning for – KG-grensekurver for vurdering av skipets stabilitet, herunder lasteinstrumenter, skal godkjennes av Sjøfartsdirektoratet.
+
+(2) Ved alminnelig drift skal det sørges for at:
+
+1. Det tas hensyn til stabilitetsopplysninger samt aktuelle forutsetninger for godkjenning av disse, bl.a. værtette og vanntette lukningsmidler, sleping, fordeling av last, passasjerer, tunge kjøretøyer, trelast,1 ising og eventuell bruk av vannballast, rulledempingstanker, vekseltanker mv.
+2. Skipet lastes slik at det i alle lastetilstander får tilstrekkelig stabilitet og at skipsføreren etter vurdering av bl.a. skipets manøvreringsegenskaper tar de nødvendige forholdsregler for å oppnå en forsvarlig trim under hele reisen med den lastekondisjonen skipet har.
+3. Avgangs- og ankomsttilstand er i samsvar med stabilitetsoppgavene og at skipets tyngdepunkt ligger på tillatt side av KG-grensekurvene.
+4. Samlet vekt av dekkslast ikke overskrider 3% av skipets dødvekt eller 30 bruttotonn hvis 3% av dødvekten blir større, med mindre annet fremgår av de godkjente stabilitetsberegninger.
+5. Det tas hensyn til vektøkning som følge av at dekkslasten kan absorbere eller samle vann. Inklusive den forutsatte vektøkning, skal det ikke lastes dypere enn til lastelinjen for vedkommende fart og årstid.
+6. Om skipet anvendes i farvann hvor ising kan forekomme, skal godkjente lastetilstander med is være om bord. Ved lasting vinterstid skal det også tas rimelig hensyn til forventet nedising og endring av dypgående og stabilitet under reisen. Under slike omstendigheter må ikke fartøyet lastes helt ned til lastelinjen for vedkommende fart og årstid.
+7. Konsekvensene av tap av kranlast vurderes spesielt dersom det ved laste-/losseoperasjoner til havs benyttes motballastering for å balansere krengende momenter pga. vekt i kran.
 
 > Endret ved [forskrift 5 sep 2014 nr. 1159](forskrift/2014-09-05-1159) (i kraft 15 sep 2014).
 
@@ -152,7 +236,10 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 ### § 14a. Virkeområdet til kapittel 3a om havarikontrollopplysninger og hindring av og kontroll med vanninntrengning m.m.
 
-(1) [Kapittel](forskrift/1987-06-15-507/kap3a) 3a gjelder for norskelasteskip med bruttotonnasje 500 eller mer i utenriksfartpassasjerskip i utenriksfart.
+(1) [Kapittel](forskrift/1987-06-15-507/kap3a) 3a gjelder for norske
+
+1. lasteskip med bruttotonnasje 500 eller mer i utenriksfart
+2. passasjerskip i utenriksfart.
 
 > Tilføyd ved [forskrift 5 sep 2014 nr. 1159](forskrift/2014-09-05-1159) (i kraft 15 sep 2014).
 
@@ -178,7 +265,16 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 (3) Havarikontrolløvelser skal variere slik at nødssituasjoner simuleres for ulike skadetilstander. Så langt det er praktisk mulig skal havarikontrolløvelsene gjennomføres som om det er en reell nødsituasjon.
 
-(4) Hver havarikontrolløvelse skal omfattebesetningsmedlemmer med ansvar for havarikontroll, rapportering til stasjonene og forberedelse av oppgavene beskrevet i alarminstruksen som er påbudt etter [forskrift 1. juli 2014 nr. 1019](forskrift/2014-07-01-1019) om redningsredskaper på skip [§ 2](forskrift/2014-07-01-1019/§2) første ledd jf. [SOLAS](traktat/1974-11-01-1) Regel III/8bruk av havarikontrollinformasjon og en ev. stabilitetscomputer om bord for å utføre stabilitetsvurderinger for de simulerte skadeforholdeneetablering av kommunikasjonsforbindelse mellom skipet og landbasert støtte, dersom slik støtte finnesbetjening av vanntette dører og andre vanntette lukningerdemonstrasjon av ferdigheter i bruk av eventuelle fyllingsdeteksjonssystemer i samsvar med plikter oppført i alarminstruksendemonstrasjon av ferdigheter i bruk av eventuelle systemer for kryssfylling og utligning i samsvar med plikter oppført i alarminstruksenfunksjonstest av lensepumper og kontroll av lensealarmer og automatiske startsystemer for lensepumperinstruksjon i skadeinspeksjon og bruk av skipets havarikontrollsystemer.
+(4) Hver havarikontrolløvelse skal omfatte
+
+1. besetningsmedlemmer med ansvar for havarikontroll, rapportering til stasjonene og forberedelse av oppgavene beskrevet i alarminstruksen som er påbudt etter [forskrift 1. juli 2014 nr. 1019](forskrift/2014-07-01-1019) om redningsredskaper på skip [§ 2](forskrift/2014-07-01-1019/§2) første ledd jf. [SOLAS](traktat/1974-11-01-1) Regel III/8
+2. bruk av havarikontrollinformasjon og en ev. stabilitetscomputer om bord for å utføre stabilitetsvurderinger for de simulerte skadeforholdene
+3. etablering av kommunikasjonsforbindelse mellom skipet og landbasert støtte, dersom slik støtte finnes
+4. betjening av vanntette dører og andre vanntette lukninger
+5. demonstrasjon av ferdigheter i bruk av eventuelle fyllingsdeteksjonssystemer i samsvar med plikter oppført i alarminstruksen
+6. demonstrasjon av ferdigheter i bruk av eventuelle systemer for kryssfylling og utligning i samsvar med plikter oppført i alarminstruksen
+7. funksjonstest av lensepumper og kontroll av lensealarmer og automatiske startsystemer for lensepumper
+8. instruksjon i skadeinspeksjon og bruk av skipets havarikontrollsystemer.
 
 (5) Minst én havarikontrolløvelse i året skal omfatte aktivering av den landbaserte støtten, dersom slik støtte finnes i samsvar med byggeforskriften § 3 jf. SOLAS regel II-1/8-1.3, for å utføre stabilitetsvurderinger for de simulerte skadetilstandene.
 
@@ -226,7 +322,12 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 (7) For skip bygget 1. januar 2024 eller senere skal landgangs-, laste- og drivstoffporter som er montert under skottdekket på passasjerskip og fribordsdekket på lasteskip, lukkes vanntett og sikres forsvarlig før reisen begynner, og holdes lukket under fart. Skipsføreren kan imidlertid tillate at en vanntett luke åpnes under fart i en begrenset tidsperiode, tilstrekkelig for passasje eller atkomst. Deretter skal den lukkes.
 
-(8) Følgende dører som er plassert over skottdekket på passasjerskip og fribordsdekket på lasteskip, skal lukkes og låses før reisen begynner, og holdes lukket og låst til skipet er ved neste kaiplass:lastedører i siden eller i ytterkledningen til lukkede overbygningerbaugporter montert på steder som angitt i nr. 8.1lastedører i kollisjonsskottetramper som danner et annet lukkesystem enn de som er definert i nr. 8.1. til og med nr. 8.3.
+(8) Følgende dører som er plassert over skottdekket på passasjerskip og fribordsdekket på lasteskip, skal lukkes og låses før reisen begynner, og holdes lukket og låst til skipet er ved neste kaiplass:
+
+1. lastedører i siden eller i ytterkledningen til lukkede overbygninger
+2. baugporter montert på steder som angitt i nr. 8.1
+3. lastedører i kollisjonsskottet
+4. ramper som danner et annet lukkesystem enn de som er definert i nr. 8.1. til og med nr. 8.3.
 
 (9) Hvis en dør ikke kan åpnes eller lukkes mens skipet ligger ved kai, kan en slik dør åpnes eller holdes åpen mens skipet går til eller legger ut fra kaiplassen, men bare i den grad som er nødvendig for at døren kan betjenes umiddelbart. I alle tilfeller skal den indre baugporten holdes lukket.
 
@@ -238,7 +339,10 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 
 (13) Dører på hengsler, flyttbare plater, lysventiler, landgangs-, laste- og bunkringsporter og andre åpninger som etter disse regler skal holdes lukket under fart, skal være lukket før skipet forlater havn. Tidspunktet for lukking og tidspunktet for åpning (hvis det er tillatt etter disse regler) skal innføres i skipsdagboken, som foreskrevet av Sjøfartsdirektoratet.
 
-(14) Når lysventilene nevnt i [byggeforskriften § 3](forskrift/2014-07-01-1072/§3), jf. SOLAS regel II-1/15 nr. 3.2, i et mellomdekk har nederste kant under en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og har sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannet når skipet går fra havn, skal alle lysventiler i dette mellomdekket være vanntett lukket og låst før skipet forlater havn, og de skal ikke åpnes før skipet kommer til neste havn. Ved anvendelse av denne bestemmelsen kan det tas hensyn til at skipet er i ferskvann der dette er aktuelt.Tidspunktet for åpning av slike lysventiler i havn og for lukking og låsing av dem før skipet går fra havn skal innføres i skipsdagboken som foreskrevet av Sjøfartsdirektoratet.For ethvert skip som har én eller flere lysventiler som er slik plassert at kravene i nr. 14 får anvendelse når skipet ligger ved største oppdelingsdypgående, kan Sjøfartsdirektoratet angi grensen for middeldypgående der disse lysventilene vil ha nederste kant over en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannlinjen som tilsvarer grensen for middeldypgående, og det vil derfor være tillatt å begynne reisen uten at de er lukket og låst, og å åpne dem under fart under skipsførerens ansvar. I tropiske soner som definert i den internasjonale konvensjonen om lastelinjer, 1966, kan denne grenseverdien for dypgående økes med 0,3 m.
+(14) Når lysventilene nevnt i [byggeforskriften § 3](forskrift/2014-07-01-1072/§3), jf. SOLAS regel II-1/15 nr. 3.2, i et mellomdekk har nederste kant under en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og har sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannet når skipet går fra havn, skal alle lysventiler i dette mellomdekket være vanntett lukket og låst før skipet forlater havn, og de skal ikke åpnes før skipet kommer til neste havn. Ved anvendelse av denne bestemmelsen kan det tas hensyn til at skipet er i ferskvann der dette er aktuelt.
+
+1. Tidspunktet for åpning av slike lysventiler i havn og for lukking og låsing av dem før skipet går fra havn skal innføres i skipsdagboken som foreskrevet av Sjøfartsdirektoratet.
+2. For ethvert skip som har én eller flere lysventiler som er slik plassert at kravene i nr. 14 får anvendelse når skipet ligger ved største oppdelingsdypgående, kan Sjøfartsdirektoratet angi grensen for middeldypgående der disse lysventilene vil ha nederste kant over en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannlinjen som tilsvarer grensen for middeldypgående, og det vil derfor være tillatt å begynne reisen uten at de er lukket og låst, og å åpne dem under fart under skipsførerens ansvar. I tropiske soner som definert i den internasjonale konvensjonen om lastelinjer, 1966, kan denne grenseverdien for dypgående økes med 0,3 m.
 
 (15) Lysventiler og deres blindlokk som ikke vil være tilgjengelige under fart, skal være lukket og sikret før skipet går fra havn.
 
@@ -306,7 +410,10 @@ Besetningsmedlemmer som pålegges å kjøre truck eller kran, skal være opplær
 
 ### § 20. Sikkerhetstiltak m.m.
 
-(1) Følgende sikkerhetstiltak skal være oppfylt under helikopteroperasjoner:Det skal være utarbeidet instruks og sjekkliste tilpasset den type helikopteroperasjoner (landing, nødlanding og vinsjoperasjoner) som er aktuell om bord i vedkommende skip. Instruksen skal inneholde opplysninger om maksimum helikopterstørrelse, tillatt vekt og rotordiameter ved landing/nødlanding på vedkommende skip, og skal være i samsvar med godkjenning etter gjeldende forskrifter vedrørende bygging av passasjer-, lasteskip og lektere.Alle personer om bord skal være instruert i henhold til instruksen. Skilt om at røking er forbud og skilt som angir at ingen uvedkommende skal oppholde seg på området når helikopteroperasjoner pågår, skal settes opp på lett synlige steder. Skiltene skal ha norsk og engelsk tekst.
+(1) Følgende sikkerhetstiltak skal være oppfylt under helikopteroperasjoner:
+
+1. Det skal være utarbeidet instruks og sjekkliste tilpasset den type helikopteroperasjoner (landing, nødlanding og vinsjoperasjoner) som er aktuell om bord i vedkommende skip. Instruksen skal inneholde opplysninger om maksimum helikopterstørrelse, tillatt vekt og rotordiameter ved landing/nødlanding på vedkommende skip, og skal være i samsvar med godkjenning etter gjeldende forskrifter vedrørende bygging av passasjer-, lasteskip og lektere.
+2. Alle personer om bord skal være instruert i henhold til instruksen. Skilt om at røking er forbud og skilt som angir at ingen uvedkommende skal oppholde seg på området når helikopteroperasjoner pågår, skal settes opp på lett synlige steder. Skiltene skal ha norsk og engelsk tekst.
 
 ### § 21. Grunnlag for helikopteroperasjoner
 
@@ -330,7 +437,12 @@ Besetningsmedlemmer som pålegges å kjøre truck eller kran, skal være opplær
 
 (3) For sending av peilesignaler til hjelp for navigeringen under helikoptertransport skal skipsstasjonene bruke frekvensen i samsvar med bestemmelsene i Radioreglementet enten ved manuell nøkling av hoved- eller reservesender, eller ved automatisk utsending fra radiofyr. Skipet skal alltid informere helikopteret om frekvens, utstrålingsklasse og skipets kjenningssignal. Radiooperatøren skal fra det sted der VHF-utstyret betjenes ha full oversikt over operasjonsområdet og dets nærmeste omgivelser, eventuelt ha direkte forbindelse med helidekkvakt som har full visuell oversikt som nevnt.
 
-(4) I tilfelle svikt i radiokommunikasjonen skal tilfredsstillende arrangement avtales for kommunikasjon mellom skip og helikopter, eksempelvis ved bruk av morselampe således:Konstant lys – skipet er klart til å ta imot helikopteret.En serie korte lysblink – skipet kan ikke ta imot helikopteret, men ventetiden vil ikke overstige 15 minutter.Vedvarende sending av signalet «N» (-.) – skipet kan ikke ta imot helikopteret, og ventetiden vil overstige 15 minutter.Blinkende rødt lys – helikopteret må komme seg bort fra skipet.
+(4) I tilfelle svikt i radiokommunikasjonen skal tilfredsstillende arrangement avtales for kommunikasjon mellom skip og helikopter, eksempelvis ved bruk av morselampe således:
+
+1. Konstant lys – skipet er klart til å ta imot helikopteret.
+2. En serie korte lysblink – skipet kan ikke ta imot helikopteret, men ventetiden vil ikke overstige 15 minutter.
+3. Vedvarende sending av signalet «N» (-.) – skipet kan ikke ta imot helikopteret, og ventetiden vil overstige 15 minutter.
+4. Blinkende rødt lys – helikopteret må komme seg bort fra skipet.
 
 (5) For øvrig kommer de til enhver tid fastsatte signaler i Den internasjonale Signalbok til anvendelse.
 
@@ -354,7 +466,14 @@ Besetningsmedlemmer som pålegges å kjøre truck eller kran, skal være opplær
 
 ### § 24. Særskilte tiltak på tankskip og OBO-skip
 
-Ved landing/vinsjeoperasjoner på tank- og OBO-skip som ikke er gassfrie skal følgende tiltak iakttas i tillegg til bestemmelsene i [§ 21](forskrift/1987-06-15-507/§21):Umiddelbart før landing eller vinsjoperasjoner skal helikoptre foreta utladning til sjøen av eventuell statisk oppladning i helikopteret.Kun helikopter med 2 motorer skal anvendes.Trykkvakuumventiler til lastetanker skal løftes og lukkes mindre enn en halv time før helikopteroperasjoner.Alle åpninger i lastetanker skal være stengt før landing.Tankrengjøring må ikke utføres under helikopteroperasjonen.Rotoren skal holdes i gang under oppholdet. Dersom rotoren i et nødstilfelle må stoppes, skal også helikopterets motorer stoppes og alt elektrisk utstyr slås av og batteriene utkoples. Oppstarting tillates ikke før det er kontrollert at det ikke finnes farlig gass/luftblanding rundt helikopteret. Før start må skipet manøvreres slik at vinden blåser eventuell gass bort fra startområdet for helikopteret.
+Ved landing/vinsjeoperasjoner på tank- og OBO-skip som ikke er gassfrie skal følgende tiltak iakttas i tillegg til bestemmelsene i [§ 21](forskrift/1987-06-15-507/§21):
+
+1. Umiddelbart før landing eller vinsjoperasjoner skal helikoptre foreta utladning til sjøen av eventuell statisk oppladning i helikopteret.
+2. Kun helikopter med 2 motorer skal anvendes.
+3. Trykkvakuumventiler til lastetanker skal løftes og lukkes mindre enn en halv time før helikopteroperasjoner.
+4. Alle åpninger i lastetanker skal være stengt før landing.
+5. Tankrengjøring må ikke utføres under helikopteroperasjonen.
+6. Rotoren skal holdes i gang under oppholdet. Dersom rotoren i et nødstilfelle må stoppes, skal også helikopterets motorer stoppes og alt elektrisk utstyr slås av og batteriene utkoples. Oppstarting tillates ikke før det er kontrollert at det ikke finnes farlig gass/luftblanding rundt helikopteret. Før start må skipet manøvreres slik at vinden blåser eventuell gass bort fra startområdet for helikopteret.
 
 ### § 25. (Opphevet 15 sep 2014 ved forskrift 5 sep 2014 nr. 1159.)
 
@@ -366,7 +485,11 @@ Ved landing/vinsjeoperasjoner på tank- og OBO-skip som ikke er gassfrie skal f�
 
 ### § 30. Spesielle driftsbetingelser for fartøy med passasjersertifikat
 
-(1) For alle fartøy som benytter seil gjelder følgende bestemmelser:Seil må kun benyttes når det er tilstrekkelig bemanning om bord for å håndtere seil og rigg, og når føreren for øvrig finner det forsvarlig ut fra hensynet til passasjerenes og fartøyets sikkerhet.Fører og mannskap må ha erfaring med bruk av seil og rigg.Dersom det er grunn til å anta at bruk av seil kan sette fartøy og passasjerer i fare, skal seil tas ned og maskin benyttes.
+(1) For alle fartøy som benytter seil gjelder følgende bestemmelser:
+
+1. Seil må kun benyttes når det er tilstrekkelig bemanning om bord for å håndtere seil og rigg, og når føreren for øvrig finner det forsvarlig ut fra hensynet til passasjerenes og fartøyets sikkerhet.
+2. Fører og mannskap må ha erfaring med bruk av seil og rigg.
+3. Dersom det er grunn til å anta at bruk av seil kan sette fartøy og passasjerer i fare, skal seil tas ned og maskin benyttes.
 
 > Endret ved [forskrift 5 sep 2014 nr. 1159](forskrift/2014-09-05-1159) (i kraft 15 sep 2014).
 
@@ -404,7 +527,11 @@ Under arbeid i radarmast skal radaranlegg være avslått. Ved hvert radaranlegg 
 
 (1) Denne forskrift trer i kraft den 1. juli 1987.
 
-(2) Fra samme tid oppheves:Forskrift av 13. august 1970 om dekkslast,Forskrift av 13. desember 1976 om anordninger på og under dekk og om skipets verneutstyr.Forskrift av 1. mars 1978 om forbud mot bruk av asbest om bord i skip.
+(2) Fra samme tid oppheves:
+
+1. Forskrift av 13. august 1970 om dekkslast,
+2. Forskrift av 13. desember 1976 om anordninger på og under dekk og om skipets verneutstyr.
+3. Forskrift av 1. mars 1978 om forbud mot bruk av asbest om bord i skip.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 36).
 
@@ -558,23 +685,45 @@ Med mindre annet er uttrykkelig fastsatt, får dette kapittelet anvendelse på s
 
 1.1.1
 
-Med mindre annet er uttrykkelig fastsatt, skal delene B, B-1, B-2 og B-4 i dette kapittelet kun gjelde for skip.1 med byggekontrakt inngått 1. januar 2020 eller senere, eller.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på tilsvarende byggetrinn 1. juli 2020 eller senere, eller.3 hvis levering finner sted 1. januar 2024 eller senere.
+Med mindre annet er uttrykkelig fastsatt, skal delene B, B-1, B-2 og B-4 i dette kapittelet kun gjelde for skip
+
+- .1 med byggekontrakt inngått 1. januar 2020 eller senere, eller
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på tilsvarende byggetrinn 1. juli 2020 eller senere, eller
+- .3 hvis levering finner sted 1. januar 2024 eller senere.
 
 1.1.2
 
-Med mindre annet er uttrykkelig fastsatt, skal administrasjonen påse at skip som ikke oppfyller kravene i nr. 1.1.1, men som er bygget 1. januar 2009 eller senere.1 oppfyller kravene i delene B, B-1, B-2 og B-4 som får anvendelse i henhold til kapittel II-1 i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, som endret ved resolusjon MSC.216(82), MSC.269(85) og MSC.325(90), og.2 oppfyller kravene i regel 19-1.
+Med mindre annet er uttrykkelig fastsatt, skal administrasjonen påse at skip som ikke oppfyller kravene i nr. 1.1.1, men som er bygget 1. januar 2009 eller senere
+
+- .1 oppfyller kravene i delene B, B-1, B-2 og B-4 som får anvendelse i henhold til kapittel II-1 i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, som endret ved resolusjon MSC.216(82), MSC.269(85) og MSC.325(90), og
+- .2 oppfyller kravene i regel 19-1.
 
 1.2
 
-I dette kapittelet menes med uttrykket «tilsvarende byggetrinn» det trinnet der.1 bygging som kan identifiseres med et bestemt skip, begynner og.2 montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
+I dette kapittelet menes med uttrykket «tilsvarende byggetrinn» det trinnet der
+
+- .1 bygging som kan identifiseres med et bestemt skip, begynner og
+- .2 montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
 
 1.3
 
-I dette kapittelet.1 menes med uttrykket «skip bygget» skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn,.2 menes med uttrykket «skip bygget 1. januar 2024 eller senere» skip.1 som det er inngått byggekontrakt for 1. januar 2024 eller senere, eller.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på tilsvarende byggetrinn 1. juli 2024 eller senere, eller.3 hvis levering finner sted 1. januar 2028 eller senere.2 menes med uttrykket «alle skip» skip bygget 1. januar 2009 eller før eller senere.3 skal et lasteskip, uansett byggetidspunkt, som bygges om til passasjerskip, behandles som et passasjerskip bygget på den datoen da slik ombygging påbegynnes.
+I dette kapittelet
+
+- .1 menes med uttrykket «skip bygget» skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn,
+- .2 menes med uttrykket «skip bygget 1. januar 2024 eller senere» skip
+
+  - .1 som det er inngått byggekontrakt for 1. januar 2024 eller senere, eller
+  - .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på tilsvarende byggetrinn 1. juli 2024 eller senere, eller
+  - .3 hvis levering finner sted 1. januar 2028 eller senere
+- .2 menes med uttrykket «alle skip» skip bygget 1. januar 2009 eller før eller senere
+- .3 skal et lasteskip, uansett byggetidspunkt, som bygges om til passasjerskip, behandles som et passasjerskip bygget på den datoen da slik ombygging påbegynnes.
 
 2
 
-Med mindre annet er uttrykkelig fastsatt, skal administrasjonen påse at skip bygget før 1. januar 2009.1 oppfyller kravene som får anvendelse i henhold til kapittel II-1 i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, som endret ved resolusjon MSC.1(XLV), MSC.6(48), MSC.11(55), MSC.12(56), MSC.13(57), MSC.19(58), MSC.26(60), MSC.27(61), resolusjon 1 fra SOLAS-konferansen i 1995, MSC.47(66), MSC.57(67), MSC.65(68), MSC.69(69), MSC.99(73), MSC.134(76), MSC.151(78) og MSC.170(79), og.2 oppfyller kravene i regel 8-1.3 og 19-1.
+Med mindre annet er uttrykkelig fastsatt, skal administrasjonen påse at skip bygget før 1. januar 2009
+
+- .1 oppfyller kravene som får anvendelse i henhold til kapittel II-1 i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, som endret ved resolusjon MSC.1(XLV), MSC.6(48), MSC.11(55), MSC.12(56), MSC.13(57), MSC.19(58), MSC.26(60), MSC.27(61), resolusjon 1 fra SOLAS-konferansen i 1995, MSC.47(66), MSC.57(67), MSC.65(68), MSC.69(69), MSC.99(73), MSC.134(76), MSC.151(78) og MSC.170(79), og
+- .2 oppfyller kravene i regel 8-1.3 og 19-1.
 
 3
 
@@ -586,11 +735,80 @@ Administrasjonen til en stat kan, hvis den anser at farvannets skjermede karakte
 
 5
 
-Når det gjelder passasjerskip som brukes i spesiell fart til transport av et stort antall passasjerer, som for eksempel pilegrimsfart, kan administrasjonen, under hvis flagg slike skip har rett til å seile, hvis den er forvisset om at det i praksis er umulig å forlange kravene i dette kapittelet oppfylt, unnta slike skip fra disse kravene, forutsatt at skipene fullt ut er i samsvar med bestemmelsene i.1 reglene i vedlegg til Overenskomst om passasjerskip i spesiell fart, 1971, og.2 reglene i vedlegg til protokollen om krav til rom på passasjerskip i spesiell fart, 1973.
+Når det gjelder passasjerskip som brukes i spesiell fart til transport av et stort antall passasjerer, som for eksempel pilegrimsfart, kan administrasjonen, under hvis flagg slike skip har rett til å seile, hvis den er forvisset om at det i praksis er umulig å forlange kravene i dette kapittelet oppfylt, unnta slike skip fra disse kravene, forutsatt at skipene fullt ut er i samsvar med bestemmelsene i
+
+- .1 reglene i vedlegg til Overenskomst om passasjerskip i spesiell fart, 1971, og
+- .2 reglene i vedlegg til protokollen om krav til rom på passasjerskip i spesiell fart, 1973.
 
 ### Regel 2 Definisjoner
 
-Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i dette kapittelet:*«Oppdelingslengde»* (*Ls*) av skipet betyr den største projiserte lengden i riss av skipet i eller under det dekket eller de dekkene som begrenser vertikal skadeutstrekning med skipet ved største oppdelingsdypgående.*«Midtskips»* betyr midt på lengden (*L*).*«Aktre endepunkt»* betyr oppdelingslengdens aktre punkt.*«Forre endepunkt»* betyr oppdelingslengdens forre punkt.*«Lengde»* (*L*) betyr lengden som definert i gjeldende internasjonale konvensjon om lastelinjer.*«Fribordsdekk»* betyr dekket som definert i gjeldende internasjonale konvensjon om lastelinjer.*«Forre perpendikulær»* betyr den forre perpendikulæren som definert i gjeldende internasjonale konvensjon om lastelinjer.*«Bredde»* (*B*) betyr skipets største bredde i riss ved eller under største oppdelingsdypgående.*«Dypgående»* (*d*) betyr den vertikale avstanden fra kjøllinjen ved.1 midtskips for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og.2 ved midtpunktet på oppdelingslengden (*Ls*) for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller seneretil vedkommende vannlinje.*«Største oppdelingsdypgående»* (*ds*) betyr skipets sommerfribord.*«Minste servicedypgående»* (*dl*) betyr dypgående som tilsvarer den letteste forventende lasten og tilhørende tanking, herunder likevel slik ballast som kan være nødvendig for stabilitet eller nedlasting. For passasjerskip skal full last av passasjerer og besetning om bord medregnes.*«Partiell oppdelingsdypgående»* (*dp*) betyr minste servicedypgående pluss 60 % av differansen mellom minste servicedypgående og største oppdelingsdypgående.*«Trim»* betyr differansen mellom forre dypgående og aktre dypgående, der dypgående måles henholdsvis ved forre og aktre.1 perpendikulærer, som definert i gjeldende internasjonale konvensjon om lastelinjer, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og.2 endepunkt, for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senereuavhengig av en eventuell styrlast.*«Fyllingsgrad»* (*μ*) for et rom betyr den andelen av rommets volum under vann som kan være fylt med vann.*«Maskinrom»* betyr rom innenfor de vanntette avgrensningene til et rom som inneholder hoved- og hjelpeframdriftsmaskineriet, herunder kjeler, generatorer og elektriske motorer som hovedsakelig er beregnet på framdrift. Ved uvanlige arrangementer kan administrasjonen fastsette avgrensningene for maskinrommet.*«Værtett»* betyr at vann ikke vil trenge inn i skipet uansett vær og sjø.*«Vanntett»* betyr å ha dimensjoner og arrangementer som er i stand til å hindre lekkasje i enhver retning ved den trykkhøyden som sannsynligvis vil forekomme i intakt eller skadet tilstand. I skadet tilstand skal trykkhøyden i verst tenkelige tilfelle anses å være i likevekt, herunder mellomliggende fyllingstrinn.*«Konstruksjonstrykk»* betyr det hydrostatiske trykket som hver konstruksjon eller arrangement som antas å være vanntett i beregningene av intakt- og skadestabilitet, er utformet for å tåle.*«Skottdekk i et passasjerskip»* betyr det øverste dekket.1 som de vanntette hovedskottene og skipets kledning er ført opp til, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og.2 ved et hvilket som helst punkt i oppdelingslengden *(Ls)*, som de vanntette hovedskottene og skipets kledning er ført opp til, og det laveste dekket der evakuering av passasjerer og besetning ikke vil bli hindret av vann i noe fyllingstrinn ved skadetilfeller definert i regel 8 og i del B-2 i dette kapittelet, for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere.Skottdekket kan være et trinnformet dekk. På et lasteskip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere, kan fribordsdekket betraktes som skottdekket.*«Dødvekt»* betyr forskjellen i tonn mellom et skips deplasement i vann med en egenvekt på 1,025 ved det dypgående som tilsvarer det fastsatte sommerfribordet, og skipets lettvekt.*«Lettvekt»* betyr et skips deplasement i tonn uten last, brennolje, smøreolje, ballastvann, ferskvann og fødevann i tanker, proviantlager, passasjerer og besetning og deres eiendeler.*«Oljetankskip»* betyr et oljetankskip som definert i regel 1 i vedlegg I til protokollen av 1978 om Den internasjonale konvensjon om hindring av forurensning fra skip, 1973.*«Roro-passasjerskip»* betyr et passasjerskip med roro-rom eller spesiallasterom som definert i regel II-2/3.*«Bulkskip»* betyr et bulkskip som definert i regel XII/1.1.*«Kjøllinje»* betyr en parallell linje til kjølens skråning som går midtskips gjennom:.1 oversiden av kjølen ved senterlinjen eller skjæringslinjen på innsiden av platehuden med kjølen når en stangkjøl fortsetter under denne linjen, på et skip med metallkledning eller.2 på tre- og komposittskip måles avstanden fra kjølspunningens nedre kant. Når formen i nederste del av seksjonen midtskips er hul, eller der det er montert tykke kjølbord, måles avstanden fra punktet der linjen til den flate delen av bunnen, når den føres innover, krysser senterlinjen midtskips.*«2008 IS-koden»* betyr det internasjonale regelverket om intaktstabilitet 2008 (International Code on Intact Stability, 2008), som består av en innledning, del A (bestemmelsene her skal betraktes som bindende) og del B (bestemmelsene her skal betraktes som anbefalende), som vedtatt ved resolusjon MSC.267(85), forutsatt at:.1 endringer i innledningen og del A i regelverket vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I, og.2 endringer i del B i regelverket vedtas av Sjøsikkerhetskomiteen i samsvar med dens forretningsorden.*«Målbaserte skipsbyggingsstandarder for bulkskip og oljetankskip»* betyr De internasjonale målbaserte skipsbyggingsstandardene for bulkskip og oljetankskip (International Goal-Based Ship Construction Standards for Bulk Carriers and Oil Tankers), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.287(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«IGF-koden»* betyr det internasjonale regelverket for skip som bruker gass eller andre drivstoff med lavt flammepunkt, som vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.391(95), med eventuelle endringer av organisasjoner, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Drivstoff med lavt flammepunkt»* betyr drivstoff i flytende form eller gassform som har et flammepunkt som er lavere enn det som ellers er tillatt etter regel II-2/4.2.1.1.1 *«Løfteinnretning»* betyr ethvert lasthåndteringsutstyr på skipet.1 brukt til lasting, overføring eller lossing av last.2 brukt til heving og senking av lukedeksler eller bevegelige skott.3 brukt som kraner i maskinrommet.4 brukt som forsyningskraner.5 brukt som slangehåndteringskraner.6 brukt til sjøsetting og ombordtaking av tenderbåter og lignende operasjoner, og.7 brukt som personellhåndteringskraner.2 *«Ankerhåndteringsvinsj»* betyr enhver vinsj som brukes til å sette ut, ta opp og flytte på ankere og fortøyninger ved undervannsoperasjoner.3 *«Løst utstyr»* betyr en skipsutstyrsenhet som kan festes til en løfteinnretning eller ankerhåndteringsvinsj, men som ikke utgjør en integrert del av innretningen eller lasten.4 Uttrykket *«installert 1. januar 2026 eller senere»*, som angitt i regel 3-13, betyr.1 for skip der kjølen strekkes, eller som er på et lignende byggetrinn 1. januar 2026 eller senere, enhver installasjonsdato på skipet, eller.2 for andre skip enn de som er spesifisert i nr. 1, inkludert skip bygget før 1. januar 2009, en avtalefestet leveringsdato for løfteinnretning eller ankerhåndteringsvinsjer, eller i fravær en avtalefestet leveringsdato, den faktiske leveringsdatoen for løfteinnretningen eller ankerhåndteringsvinsjene til skipet 1. januar 2026 eller senere.
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i dette kapittelet:
+
+1. *«Oppdelingslengde»* (*Ls*) av skipet betyr den største projiserte lengden i riss av skipet i eller under det dekket eller de dekkene som begrenser vertikal skadeutstrekning med skipet ved største oppdelingsdypgående.
+2. *«Midtskips»* betyr midt på lengden (*L*).
+3. *«Aktre endepunkt»* betyr oppdelingslengdens aktre punkt.
+4. *«Forre endepunkt»* betyr oppdelingslengdens forre punkt.
+5. *«Lengde»* (*L*) betyr lengden som definert i gjeldende internasjonale konvensjon om lastelinjer.
+6. *«Fribordsdekk»* betyr dekket som definert i gjeldende internasjonale konvensjon om lastelinjer.
+7. *«Forre perpendikulær»* betyr den forre perpendikulæren som definert i gjeldende internasjonale konvensjon om lastelinjer.
+8. *«Bredde»* (*B*) betyr skipets største bredde i riss ved eller under største oppdelingsdypgående.
+9. *«Dypgående»* (*d*) betyr den vertikale avstanden fra kjøllinjen ved
+
+   - .1 midtskips for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og
+   - .2 ved midtpunktet på oppdelingslengden (*Ls*) for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere
+
+   til vedkommende vannlinje.
+10. *«Største oppdelingsdypgående»* (*ds*) betyr skipets sommerfribord.
+11. *«Minste servicedypgående»* (*dl*) betyr dypgående som tilsvarer den letteste forventende lasten og tilhørende tanking, herunder likevel slik ballast som kan være nødvendig for stabilitet eller nedlasting. For passasjerskip skal full last av passasjerer og besetning om bord medregnes.
+12. *«Partiell oppdelingsdypgående»* (*dp*) betyr minste servicedypgående pluss 60 % av differansen mellom minste servicedypgående og største oppdelingsdypgående.
+13. *«Trim»* betyr differansen mellom forre dypgående og aktre dypgående, der dypgående måles henholdsvis ved forre og aktre
+
+    - .1 perpendikulærer, som definert i gjeldende internasjonale konvensjon om lastelinjer, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og
+    - .2 endepunkt, for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere
+
+    uavhengig av en eventuell styrlast.
+14. *«Fyllingsgrad»* (*μ*) for et rom betyr den andelen av rommets volum under vann som kan være fylt med vann.
+15. *«Maskinrom»* betyr rom innenfor de vanntette avgrensningene til et rom som inneholder hoved- og hjelpeframdriftsmaskineriet, herunder kjeler, generatorer og elektriske motorer som hovedsakelig er beregnet på framdrift. Ved uvanlige arrangementer kan administrasjonen fastsette avgrensningene for maskinrommet.
+16. *«Værtett»* betyr at vann ikke vil trenge inn i skipet uansett vær og sjø.
+17. *«Vanntett»* betyr å ha dimensjoner og arrangementer som er i stand til å hindre lekkasje i enhver retning ved den trykkhøyden som sannsynligvis vil forekomme i intakt eller skadet tilstand. I skadet tilstand skal trykkhøyden i verst tenkelige tilfelle anses å være i likevekt, herunder mellomliggende fyllingstrinn.
+18. *«Konstruksjonstrykk»* betyr det hydrostatiske trykket som hver konstruksjon eller arrangement som antas å være vanntett i beregningene av intakt- og skadestabilitet, er utformet for å tåle.
+19. *«Skottdekk i et passasjerskip»* betyr det øverste dekket
+
+    - .1 som de vanntette hovedskottene og skipets kledning er ført opp til, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, og
+    - .2 ved et hvilket som helst punkt i oppdelingslengden *(Ls)*, som de vanntette hovedskottene og skipets kledning er ført opp til, og det laveste dekket der evakuering av passasjerer og besetning ikke vil bli hindret av vann i noe fyllingstrinn ved skadetilfeller definert i regel 8 og i del B-2 i dette kapittelet, for skip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere.
+
+    Skottdekket kan være et trinnformet dekk. På et lasteskip som ikke er omfattet av bestemmelsene i regel II-1/1.1.1.1, men som er bygget 1. januar 2009 eller senere, kan fribordsdekket betraktes som skottdekket.
+20. *«Dødvekt»* betyr forskjellen i tonn mellom et skips deplasement i vann med en egenvekt på 1,025 ved det dypgående som tilsvarer det fastsatte sommerfribordet, og skipets lettvekt.
+21. *«Lettvekt»* betyr et skips deplasement i tonn uten last, brennolje, smøreolje, ballastvann, ferskvann og fødevann i tanker, proviantlager, passasjerer og besetning og deres eiendeler.
+22. *«Oljetankskip»* betyr et oljetankskip som definert i regel 1 i vedlegg I til protokollen av 1978 om Den internasjonale konvensjon om hindring av forurensning fra skip, 1973.
+23. *«Roro-passasjerskip»* betyr et passasjerskip med roro-rom eller spesiallasterom som definert i regel II-2/3.
+24. *«Bulkskip»* betyr et bulkskip som definert i regel XII/1.1.
+25. *«Kjøllinje»* betyr en parallell linje til kjølens skråning som går midtskips gjennom:
+
+    - .1 oversiden av kjølen ved senterlinjen eller skjæringslinjen på innsiden av platehuden med kjølen når en stangkjøl fortsetter under denne linjen, på et skip med metallkledning eller
+    - .2 på tre- og komposittskip måles avstanden fra kjølspunningens nedre kant. Når formen i nederste del av seksjonen midtskips er hul, eller der det er montert tykke kjølbord, måles avstanden fra punktet der linjen til den flate delen av bunnen, når den føres innover, krysser senterlinjen midtskips.
+26. *«2008 IS-koden»* betyr det internasjonale regelverket om intaktstabilitet 2008 (International Code on Intact Stability, 2008), som består av en innledning, del A (bestemmelsene her skal betraktes som bindende) og del B (bestemmelsene her skal betraktes som anbefalende), som vedtatt ved resolusjon MSC.267(85), forutsatt at:
+
+    - .1 endringer i innledningen og del A i regelverket vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I, og
+    - .2 endringer i del B i regelverket vedtas av Sjøsikkerhetskomiteen i samsvar med dens forretningsorden.
+27. *«Målbaserte skipsbyggingsstandarder for bulkskip og oljetankskip»* betyr De internasjonale målbaserte skipsbyggingsstandardene for bulkskip og oljetankskip (International Goal-Based Ship Construction Standards for Bulk Carriers and Oil Tankers), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.287(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+28. *«IGF-koden»* betyr det internasjonale regelverket for skip som bruker gass eller andre drivstoff med lavt flammepunkt, som vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.391(95), med eventuelle endringer av organisasjoner, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+29. *«Drivstoff med lavt flammepunkt»* betyr drivstoff i flytende form eller gassform som har et flammepunkt som er lavere enn det som ellers er tillatt etter regel II-2/4.2.1.1.
+30. 1 *«Løfteinnretning»* betyr ethvert lasthåndteringsutstyr på skipet
+
+    - .1 brukt til lasting, overføring eller lossing av last
+    - .2 brukt til heving og senking av lukedeksler eller bevegelige skott
+    - .3 brukt som kraner i maskinrommet
+    - .4 brukt som forsyningskraner
+    - .5 brukt som slangehåndteringskraner
+    - .6 brukt til sjøsetting og ombordtaking av tenderbåter og lignende operasjoner, og
+    - .7 brukt som personellhåndteringskraner.
+31. 2 *«Ankerhåndteringsvinsj»* betyr enhver vinsj som brukes til å sette ut, ta opp og flytte på ankere og fortøyninger ved undervannsoperasjoner.
+32. 3 *«Løst utstyr»* betyr en skipsutstyrsenhet som kan festes til en løfteinnretning eller ankerhåndteringsvinsj, men som ikke utgjør en integrert del av innretningen eller lasten.
+33. 4 Uttrykket *«installert 1. januar 2026 eller senere»*, som angitt i regel 3-13, betyr
+
+    - .1 for skip der kjølen strekkes, eller som er på et lignende byggetrinn 1. januar 2026 eller senere, enhver installasjonsdato på skipet, eller
+    - .2 for andre skip enn de som er spesifisert i nr. 1, inkludert skip bygget før 1. januar 2009, en avtalefestet leveringsdato for løfteinnretning eller ankerhåndteringsvinsjer, eller i fravær en avtalefestet leveringsdato, den faktiske leveringsdatoen for løfteinnretningen eller ankerhåndteringsvinsjene til skipet 1. januar 2026 eller senere.
 
 1 Tilføyd ved resolusjon MSC.532(107).
 
@@ -602,7 +820,46 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i dette
 
 ### Regel 3 Definisjoner til del C, D og E
 
-Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i del C, D og E:*«Kontrollsystem for styremaskin»* betyr det utstyret som overfører kommandoer fra kommandobroen til styremaskinkraftenhetene. Kontrollsystemer for styremaskin omfatter sendere, mottakere, hydrauliske kontrollpumper og tilhørende motorer, betjeningsinnretninger for motorer, rørledninger og kabler.*«Hovedstyremaskin»* betyr maskineri, drivmekanismer for ror, eventuelle styremaskinkraftenheter og hjelpeutstyr, og innretninger som gir dreiemoment til rorstammer (f.eks. rorpinne eller kvadrant) som er nødvendig for å bevege roret og styre skipet under normale fartsforhold.*«Styremaskinkraftenhet»*.1 når det dreier seg om elektrisk styremaskin, betyr en elektrisk motor og dens tilhørende elektriske utstyr.2 når det dreier seg om elektrohydraulisk styremaskin, betyr en elektrisk motor og dens tilhørende elektriske utstyr og pumpe den er forbundet med, eller.3 når det dreier seg om annen styremaskin, betyr en drivmotor og pumpe den er forbundet med.*«Reservestyremaskin»* betyr det utstyret, bortsett fra enhver del av hovedstyremaskinen, som er nødvendig for å styre skipet i tilfelle av svikt i hovedstyremaskinen, men ikke inkludert rorpinne, kvadrant eller deler som brukes til samme formål.*«Normal drifts- og beboelsestilstand»* betyr den tilstanden der skipet som helhet, maskineri, drift, midler og hjelpemidler til framdrift, styreevne, sikker navigering, sikkerhet mot brann og at skipet fylles med vann, interne og eksterne samband og signaler, rømningsveier, redningsbåtvinsjer samt forhold som angår beboelighet, er i orden og fungerer normalt.*«Nødtilstand»* betyr den tilstanden der anlegg som er nødvendige for normal drifts- og beboelsestilstand, ikke fungerer på grunn av svikt i den elektriske hovedkraftkilden.*«Elektrisk hovedkraftkilde»* betyr den kilden som skal forsyne hovedtavlen med elektrisk kraft for viderefordeling til alle tjenester som er nødvendige for å holde skipet i normal drifts- og beboelsestilstand.*«Dødt skip»* betyr den tilstanden der hovedframdriftsmaskineriet, kjelene og hjelpemaskineriet ikke er i drift på grunn av manglende kraft.*«Hovedgeneratorstasjon»* betyr det rommet der den elektriske hovedkraftkilden er plassert.*«Hovedtavle»* betyr en tavle som forsynes direkte fra den elektriske hovedkraftkilden, og som skal fordele elektrisk energi til skipets drift.*«Nødtavle»* betyr en tavle som i tilfelle av svikt i det elektriske hovedkraftforsyningssystemet, forsynes direkte fra den elektriske nødkraftkilden eller overgangskilden for nødkraft, og som skal fordele elektrisk energi til nødtjenestene.*«Elektrisk nødkraftkilde»* betyr en elektrisk kraftkilde som skal forsyne nødtavlen i tilfelle av svikt i forsyningen fra den elektriske hovedkraftkilden.*«Kraftoverføringsinnretning»* betyr det hydrauliske utstyret som skal gi kraft til dreiing av rorstammen, og som består av styremaskinkraftenheten eller -enhetene, med tilhørende rør og tilpasningsstykker, og en drivmekanisme for ror. Kraftoverføringsinnretningene kan ha felles mekaniske komponenter (dvs. rorpinne, kvadrant og rorstamme) eller komponenter som tjener samme formål.*«Største vanlige fart forover»* betyr den største farten som skipet er utformet for å holde til sjøs ved største dypgående.*«Største fart akterover»* betyr den farten som det er beregnet at skipet kan oppnå ved planlagt maksimumsdrivkraft akterover ved største dypgående.*«Maskinrom»* betyr alle maskinrom av kategori A og alle andre rom som inneholder framdriftsmaskineri, kjeler, brennoljeenheter, dampmaskiner og forbrenningsmotorer, generatorer og viktig elektrisk maskineri, oljefyllingsstasjoner, kjøle-, stabiliserings-, ventilasjons- og luftkondisjoneringsmaskineri og lignende rom og sjakter til slike rom.*«Maskinrom av kategori A»* betyr rom og sjakter til slike rom som inneholder:.1 forbrenningsmaskineri som brukes til hovedframdrift.2 forbrenningsmaskineri som brukes til andre formål enn hovedframdrift, når slikt maskineri har en samlet effekt på minst 375 kW, eller.3 enhver oljefyrt kjel eller brennoljeenhet.*«Kontrollstasjoner»* betyr de rommene der skipets radio eller hovednavigasjonsutstyr eller nødkraftkilde er plassert, eller der brannregistrerings- eller brannkontrollutstyret er samlet.*«Kjemikalietankskip»* betyr et lasteskip som er bygget eller tilpasset for å transportere i bulk ethvert flytende produkt som er oppført i:.1 kapittel 17 i Det internasjonale regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.4(48), heretter kalt «IBC-koden», med eventuelle endringer av organisasjonen, eller.2 kapittel VI i Regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av organisasjonens forsamling ved resolusjon A.212(VII), heretter kalt «BC-koden», med eventuelle endringer av organisasjonen,etter hva som er relevant.*«Gasstankskip»* betyr et lasteskip som er bygget eller tilpasset for å transportere i bulk enhver flytende gass eller andre produkter som er oppført i:.1 kapittel 19 i Det internasjonale regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.5(48), heretter kalt «IGC-koden», med eventuelle endringer av organisasjonen, eller.2 kapittel XIX i Regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av organisasjonen ved resolusjon A.328(IX), heretter kalt «GC-koden», med eventuelle endringer av organisasjonen,etter hva som er relevant.
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i del C, D og E:
+
+1. *«Kontrollsystem for styremaskin»* betyr det utstyret som overfører kommandoer fra kommandobroen til styremaskinkraftenhetene. Kontrollsystemer for styremaskin omfatter sendere, mottakere, hydrauliske kontrollpumper og tilhørende motorer, betjeningsinnretninger for motorer, rørledninger og kabler.
+2. *«Hovedstyremaskin»* betyr maskineri, drivmekanismer for ror, eventuelle styremaskinkraftenheter og hjelpeutstyr, og innretninger som gir dreiemoment til rorstammer (f.eks. rorpinne eller kvadrant) som er nødvendig for å bevege roret og styre skipet under normale fartsforhold.
+3. *«Styremaskinkraftenhet»*
+
+   - .1 når det dreier seg om elektrisk styremaskin, betyr en elektrisk motor og dens tilhørende elektriske utstyr
+   - .2 når det dreier seg om elektrohydraulisk styremaskin, betyr en elektrisk motor og dens tilhørende elektriske utstyr og pumpe den er forbundet med, eller
+   - .3 når det dreier seg om annen styremaskin, betyr en drivmotor og pumpe den er forbundet med.
+4. *«Reservestyremaskin»* betyr det utstyret, bortsett fra enhver del av hovedstyremaskinen, som er nødvendig for å styre skipet i tilfelle av svikt i hovedstyremaskinen, men ikke inkludert rorpinne, kvadrant eller deler som brukes til samme formål.
+5. *«Normal drifts- og beboelsestilstand»* betyr den tilstanden der skipet som helhet, maskineri, drift, midler og hjelpemidler til framdrift, styreevne, sikker navigering, sikkerhet mot brann og at skipet fylles med vann, interne og eksterne samband og signaler, rømningsveier, redningsbåtvinsjer samt forhold som angår beboelighet, er i orden og fungerer normalt.
+6. *«Nødtilstand»* betyr den tilstanden der anlegg som er nødvendige for normal drifts- og beboelsestilstand, ikke fungerer på grunn av svikt i den elektriske hovedkraftkilden.
+7. *«Elektrisk hovedkraftkilde»* betyr den kilden som skal forsyne hovedtavlen med elektrisk kraft for viderefordeling til alle tjenester som er nødvendige for å holde skipet i normal drifts- og beboelsestilstand.
+8. *«Dødt skip»* betyr den tilstanden der hovedframdriftsmaskineriet, kjelene og hjelpemaskineriet ikke er i drift på grunn av manglende kraft.
+9. *«Hovedgeneratorstasjon»* betyr det rommet der den elektriske hovedkraftkilden er plassert.
+10. *«Hovedtavle»* betyr en tavle som forsynes direkte fra den elektriske hovedkraftkilden, og som skal fordele elektrisk energi til skipets drift.
+11. *«Nødtavle»* betyr en tavle som i tilfelle av svikt i det elektriske hovedkraftforsyningssystemet, forsynes direkte fra den elektriske nødkraftkilden eller overgangskilden for nødkraft, og som skal fordele elektrisk energi til nødtjenestene.
+12. *«Elektrisk nødkraftkilde»* betyr en elektrisk kraftkilde som skal forsyne nødtavlen i tilfelle av svikt i forsyningen fra den elektriske hovedkraftkilden.
+13. *«Kraftoverføringsinnretning»* betyr det hydrauliske utstyret som skal gi kraft til dreiing av rorstammen, og som består av styremaskinkraftenheten eller -enhetene, med tilhørende rør og tilpasningsstykker, og en drivmekanisme for ror. Kraftoverføringsinnretningene kan ha felles mekaniske komponenter (dvs. rorpinne, kvadrant og rorstamme) eller komponenter som tjener samme formål.
+14. *«Største vanlige fart forover»* betyr den største farten som skipet er utformet for å holde til sjøs ved største dypgående.
+15. *«Største fart akterover»* betyr den farten som det er beregnet at skipet kan oppnå ved planlagt maksimumsdrivkraft akterover ved største dypgående.
+16. *«Maskinrom»* betyr alle maskinrom av kategori A og alle andre rom som inneholder framdriftsmaskineri, kjeler, brennoljeenheter, dampmaskiner og forbrenningsmotorer, generatorer og viktig elektrisk maskineri, oljefyllingsstasjoner, kjøle-, stabiliserings-, ventilasjons- og luftkondisjoneringsmaskineri og lignende rom og sjakter til slike rom.
+17. *«Maskinrom av kategori A»* betyr rom og sjakter til slike rom som inneholder:
+
+    - .1 forbrenningsmaskineri som brukes til hovedframdrift
+    - .2 forbrenningsmaskineri som brukes til andre formål enn hovedframdrift, når slikt maskineri har en samlet effekt på minst 375 kW, eller
+    - .3 enhver oljefyrt kjel eller brennoljeenhet.
+18. *«Kontrollstasjoner»* betyr de rommene der skipets radio eller hovednavigasjonsutstyr eller nødkraftkilde er plassert, eller der brannregistrerings- eller brannkontrollutstyret er samlet.
+19. *«Kjemikalietankskip»* betyr et lasteskip som er bygget eller tilpasset for å transportere i bulk ethvert flytende produkt som er oppført i:
+
+    - .1 kapittel 17 i Det internasjonale regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.4(48), heretter kalt «IBC-koden», med eventuelle endringer av organisasjonen, eller
+    - .2 kapittel VI i Regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av organisasjonens forsamling ved resolusjon A.212(VII), heretter kalt «BC-koden», med eventuelle endringer av organisasjonen,
+
+    etter hva som er relevant.
+20. *«Gasstankskip»* betyr et lasteskip som er bygget eller tilpasset for å transportere i bulk enhver flytende gass eller andre produkter som er oppført i:
+
+    - .1 kapittel 19 i Det internasjonale regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.5(48), heretter kalt «IGC-koden», med eventuelle endringer av organisasjonen, eller
+    - .2 kapittel XIX i Regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av organisasjonen ved resolusjon A.328(IX), heretter kalt «GC-koden», med eventuelle endringer av organisasjonen,
+
+    etter hva som er relevant.
 
 ### Del A-1
 Skipskonstruksjon
@@ -615,7 +872,11 @@ I tillegg til kravene som finnes andre steder i disse reglene, skal skip være u
 
 1
 
-Nr. 2 og 4 i denne regelen får anvendelse på skip med bruttotonnasje 500 eller mer.1 som det er inngått byggekontrakt for 1. juli 2008 eller senere, eller.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, eller.3 hvis levering finner sted 1. juli 2012 eller senere.
+Nr. 2 og 4 i denne regelen får anvendelse på skip med bruttotonnasje 500 eller mer
+
+- .1 som det er inngått byggekontrakt for 1. juli 2008 eller senere, eller
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, eller
+- .3 hvis levering finner sted 1. juli 2012 eller senere.
 
 2
 
@@ -653,7 +914,10 @@ Nødslepearrangementer skal være plassert i begge ender om bord på alle tanksk
 
 1.2
 
-For tankskip bygget 1. juli 2002 eller senere.1 skal arrangementene til enhver tid kunne tas raskt i bruk ved manglende hovedkraft på skipet som skal slepes, og lett kunne koples til skipet som skal slepe. Minst ett av nødslepearrangementene skal være rigget på forhånd for å kunne tas raskt i bruk, og.2 skal nødslepearrangementene i begge ender være sterke nok med hensyn til skipets størrelse og dødvekt og de forventede kreftene under dårlige værforhold. Utformingen og byggingen og prototypetestingen av nødslepearrangementer skal være godkjent av administrasjonen, basert på retningslinjene utarbeidet av organisasjonen.7
+For tankskip bygget 1. juli 2002 eller senere
+
+- .1 skal arrangementene til enhver tid kunne tas raskt i bruk ved manglende hovedkraft på skipet som skal slepes, og lett kunne koples til skipet som skal slepe. Minst ett av nødslepearrangementene skal være rigget på forhånd for å kunne tas raskt i bruk, og
+- .2 skal nødslepearrangementene i begge ender være sterke nok med hensyn til skipets størrelse og dødvekt og de forventede kreftene under dårlige værforhold. Utformingen og byggingen og prototypetestingen av nødslepearrangementer skal være godkjent av administrasjonen, basert på retningslinjene utarbeidet av organisasjonen.7
 
 1.3
 
@@ -667,7 +931,11 @@ For tankskip bygget før 1. juli 2002 skal utformingen og konstruksjonen av nød
 
 2.1
 
-Dette nummeret får anvendelse på:.1 alle passasjerskip, senest 1. januar 2010,.2 lasteskip bygget 1. januar 2010 eller senere, og.3 lasteskip bygget før 1. januar 2010, senest 1. januar 2012.
+Dette nummeret får anvendelse på:
+
+- .1 alle passasjerskip, senest 1. januar 2010,
+- .2 lasteskip bygget 1. januar 2010 eller senere, og
+- .3 lasteskip bygget før 1. januar 2010, senest 1. januar 2012.
 
 2.2
 
@@ -675,7 +943,12 @@ Skip skal ha en skipsspesifikk nødslepeprosedyre. Denne prosedyren skal oppbeva
 
 2.3
 
-Prosedyren9 skal inneholde:.1 tegninger av fordekk og akterdekk som viser mulige nødslepearrangementer,.2 en fortegnelse over utstyr om bord som kan brukes til nødslep,.3 kommunikasjonsmidler og -metoder og.4 eksempler på å tilrettelegge for forberedelse og gjennomføring av nødslep.
+Prosedyren9 skal inneholde:
+
+- .1 tegninger av fordekk og akterdekk som viser mulige nødslepearrangementer,
+- .2 en fortegnelse over utstyr om bord som kan brukes til nødslep,
+- .3 kommunikasjonsmidler og -metoder og
+- .4 eksempler på å tilrettelegge for forberedelse og gjennomføring av nødslep.
 
 9 Det vises til «Guidelines for owners/operators on preparing emergency towing procedures» (MSC.1/Circ.1255).
 
@@ -735,7 +1008,16 @@ Hvert lasterom skal ha minst to atkomster så langt fra hverandre som praktisk m
 
 4.1
 
-Skipets atkomster for gjennomføring av fullstendige og detaljerte inspeksjoner og tykkelsesmålinger skal beskrives i en atkomstanvisning for skipskonstruksjonen, godkjent av administrasjonen, med et oppdatert eksemplar som skal oppbevares om bord. Atkomstanvisningen for skipskonstruksjonen skal inneholde følgende for hvert rom:.1 tegninger over atkomster til rommet, med korrekte tekniske spesifikasjoner og dimensjoner.2 tegninger over atkomster i hvert rom for å sikre gjennomføringen av en fullstendig inspeksjon, med hensiktsmessige tekniske spesifikasjoner og dimensjoner. Tegningene skal angi hvor hvert område i rommet kan inspiseres fra.3 tegninger over atkomster i rommet for å sikre gjennomføringen av detaljerte inspeksjoner, med hensiktsmessige tekniske spesifikasjoner og dimensjoner. Tegningene skal angi posisjonene til kritiske strukturelle områder, om atkomstene er permanente eller flyttbare og hvor hvert område kan inspiseres fra.4 instrukser for inspeksjon og vedlikehold for å ivareta styrken til alle atkomster og festemidler, idet det tas hensyn til eventuell etsende atmosfære inne i rommet.5 instrukser for sikkerhetsveiledning når det benyttes flåte ved detaljerte inspeksjoner og tykkelsesmålinger.6 instrukser for utplassering og bruk av enhver flyttbar atkomst på en sikker måte.7 en fortegnelse over alle flyttbare atkomster, og.8 et register over periodiske inspeksjoner og vedlikehold av skipets atkomster.
+Skipets atkomster for gjennomføring av fullstendige og detaljerte inspeksjoner og tykkelsesmålinger skal beskrives i en atkomstanvisning for skipskonstruksjonen, godkjent av administrasjonen, med et oppdatert eksemplar som skal oppbevares om bord. Atkomstanvisningen for skipskonstruksjonen skal inneholde følgende for hvert rom:
+
+- .1 tegninger over atkomster til rommet, med korrekte tekniske spesifikasjoner og dimensjoner
+- .2 tegninger over atkomster i hvert rom for å sikre gjennomføringen av en fullstendig inspeksjon, med hensiktsmessige tekniske spesifikasjoner og dimensjoner. Tegningene skal angi hvor hvert område i rommet kan inspiseres fra
+- .3 tegninger over atkomster i rommet for å sikre gjennomføringen av detaljerte inspeksjoner, med hensiktsmessige tekniske spesifikasjoner og dimensjoner. Tegningene skal angi posisjonene til kritiske strukturelle områder, om atkomstene er permanente eller flyttbare og hvor hvert område kan inspiseres fra
+- .4 instrukser for inspeksjon og vedlikehold for å ivareta styrken til alle atkomster og festemidler, idet det tas hensyn til eventuell etsende atmosfære inne i rommet
+- .5 instrukser for sikkerhetsveiledning når det benyttes flåte ved detaljerte inspeksjoner og tykkelsesmålinger
+- .6 instrukser for utplassering og bruk av enhver flyttbar atkomst på en sikker måte
+- .7 en fortegnelse over alle flyttbare atkomster, og
+- .8 et register over periodiske inspeksjoner og vedlikehold av skipets atkomster.
 
 4.2
 
@@ -775,7 +1057,11 @@ Nr. 4 til 6 i denne regelen får anvendelse på skip bygget 1. januar 2007 eller
 
 2
 
-Nr. 7 og 8 i denne regelen får kun anvendelse på skip.1 som det er inngått byggekontrakt for 1. januar 2024 eller senere, eller.2 byggekontrakt for 1. januar 2024 eller senere, eller som er på tilsvarende byggetrinn 1. juli 2024 eller senere, eller.3 hvis levering finner sted 1. januar 2027 eller senere.
+Nr. 7 og 8 i denne regelen får kun anvendelse på skip
+
+- .1 som det er inngått byggekontrakt for 1. januar 2024 eller senere, eller
+- .2 byggekontrakt for 1. januar 2024 eller senere, eller som er på tilsvarende byggetrinn 1. juli 2024 eller senere, eller
+- .3 hvis levering finner sted 1. januar 2027 eller senere.
 
 3
 
@@ -831,7 +1117,11 @@ For alle skip skal midlene for ombord- og ilandstigning inspiseres og vedlikehol
 
 1
 
-Denne regelen får anvendelse på oljetankskip med lengde 150 m eller mer, bygget med ett dekk, topptanker og hoppertanker i lasterom, med unntak av malmskip og kombinasjonsskip.1 som det inngås byggekontrakt for 1. juli 2016 eller senere.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2017 eller senere, eller.3 hvis levering finner sted 1. juli 2020 eller senere.
+Denne regelen får anvendelse på oljetankskip med lengde 150 m eller mer, bygget med ett dekk, topptanker og hoppertanker i lasterom, med unntak av malmskip og kombinasjonsskip
+
+- .1 som det inngås byggekontrakt for 1. juli 2016 eller senere
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2017 eller senere, eller
+- .3 hvis levering finner sted 1. juli 2020 eller senere.
 
 2
 
@@ -873,7 +1163,11 @@ En skipsbyggingsfil med spesifisert informasjon om hvordan funksjonskravene i de
 
 1
 
-Nr. 3 får anvendelse på råoljetankskip18, som definert i regel 1 i vedlegg I til Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, som endret ved den tilhørende protokoll av 1978, på 5000 tonn dødvekt eller mer:.1 som det er inngått byggekontrakt for 1. januar 2013 eller senere, eller.2 ved mangel på byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2013 eller senere, eller.3 hvis levering finner sted 1. januar 2016 eller senere.
+Nr. 3 får anvendelse på råoljetankskip18, som definert i regel 1 i vedlegg I til Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, som endret ved den tilhørende protokoll av 1978, på 5000 tonn dødvekt eller mer:
+
+- .1 som det er inngått byggekontrakt for 1. januar 2013 eller senere, eller
+- .2 ved mangel på byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2013 eller senere, eller
+- .3 hvis levering finner sted 1. januar 2016 eller senere.
 
 2
 
@@ -881,7 +1175,10 @@ Nr. 3 får ikke anvendelse på kombinasjonsskip eller kjemikalietankskip som def
 
 3
 
-Alle lasteoljetanker på råoljetankskip skal være:.1 overflatebehandlet under byggingen av skipet i henhold til «Performance standard for protective coatings for cargo oil tanks of crude oil tankers», vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.288(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I, eller.2 beskyttet ved alternative midler for korrosjonsbeskyttelse eller bruk av korrosjonsbestandig materiale for å opprettholde påkrevd strukturell integritet i 25 år i henhold til «Performance standard for alternative means of corrosion protection for cargo oil tanks of crude oil tankers», vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.289(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+Alle lasteoljetanker på råoljetankskip skal være:
+
+- .1 overflatebehandlet under byggingen av skipet i henhold til «Performance standard for protective coatings for cargo oil tanks of crude oil tankers», vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.288(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I, eller
+- .2 beskyttet ved alternative midler for korrosjonsbeskyttelse eller bruk av korrosjonsbestandig materiale for å opprettholde påkrevd strukturell integritet i 25 år i henhold til «Performance standard for alternative means of corrosion protection for cargo oil tanks of crude oil tankers», vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.289(87), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
 
 4
 
@@ -899,11 +1196,22 @@ Administrasjonen kan unnta et råoljetankskip fra kravene i nr. 3 hvis skipet er
 
 1
 
-Denne regelen får anvendelse på skip med bruttotonnasje 1600 eller mer.1 som det er inngått byggekontrakt for 1. juli 2014 eller senere, eller.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2015 eller senere, eller.3 hvis levering finner sted 1. juli 2018 eller senere,med mindre administrasjonen mener at samsvar med en bestemt bestemmelse er urimelig eller upraktisk.
+Denne regelen får anvendelse på skip med bruttotonnasje 1600 eller mer
+
+- .1 som det er inngått byggekontrakt for 1. juli 2014 eller senere, eller
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2015 eller senere, eller
+- .3 hvis levering finner sted 1. juli 2018 eller senere,
+
+med mindre administrasjonen mener at samsvar med en bestemt bestemmelse er urimelig eller upraktisk.
 
 2
 
-For skip levert før 1. juli 2018 og.1 som det er inngått byggekontrakt for før 1. juli 2014 og hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, eller.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, men før 1. januar 2015,skal det treffes tiltak20 for å redusere maskinstøy i maskinrom til akseptable nivåer som fastsatt av administrasjonen. Hvis denne støyen ikke kan reduseres tilstrekkelig, skal kilden til den for høye støyen isoleres på passende måte, eller det skal finnes ly for støyen hvis det kreves at rommet er bemannet. Hørselsvern skal om nødvendig stilles til rådighet for personale som må gå inn i slike rom.
+For skip levert før 1. juli 2018 og
+
+- .1 som det er inngått byggekontrakt for før 1. juli 2014 og hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, eller
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, men før 1. januar 2015,
+
+skal det treffes tiltak20 for å redusere maskinstøy i maskinrom til akseptable nivåer som fastsatt av administrasjonen. Hvis denne støyen ikke kan reduseres tilstrekkelig, skal kilden til den for høye støyen isoleres på passende måte, eller det skal finnes ly for støyen hvis det kreves at rommet er bemannet. Hørselsvern skal om nødvendig stilles til rådighet for personale som må gå inn i slike rom.
 
 3
 
@@ -925,7 +1233,12 @@ Med mindre annet er uttrykkelig angitt, skal denne regelen gjelde for løfteinnr
 
 1.2
 
-Uten hensyn til ovenstående gjelder denne regelen ikke for.1 løfteinnretninger på skip sertifisert som flyttbare boreinnretninger (MODU)22.2 løfteinnretninger brukt på offshore konstruksjonsskip, som rør-/kabelleggings- eller reparasjonsfartøy eller offshore installasjonsfartøy, inkludert skip for avviklingsarbeid, som oppfyller standarder som aksepteres av administrasjonen.3 integrert mekanisk utstyr for åpning og lukking av lukedeksler, og.4 sjøsettingsutstyr for redningsredskaper som oppfyller kravene i internasjonalt regelverk om redningsredskaper (LSA-koden).
+Uten hensyn til ovenstående gjelder denne regelen ikke for
+
+- .1 løfteinnretninger på skip sertifisert som flyttbare boreinnretninger (MODU)22
+- .2 løfteinnretninger brukt på offshore konstruksjonsskip, som rør-/kabelleggings- eller reparasjonsfartøy eller offshore installasjonsfartøy, inkludert skip for avviklingsarbeid, som oppfyller standarder som aksepteres av administrasjonen
+- .3 integrert mekanisk utstyr for åpning og lukking av lukedeksler, og
+- .4 sjøsettingsutstyr for redningsredskaper som oppfyller kravene i internasjonalt regelverk om redningsredskaper (LSA-koden).
 
 1.3
 
@@ -939,7 +1252,10 @@ Administrasjonen skal avgjøre i hvilken grad bestemmelsene i nr. 2.1 og 2.4 ikk
 
 2.1
 
-Løfteinnretninger som er installert 1. januar 2026 eller senere, skal være.1 utformet, konstruert og installert i samsvar med kravene fra et klasseselskap som er anerkjent av administrasjonen i henhold til bestemmelsene i regel XI-1/1 eller standarder akseptert av administrasjonen som gir et tilsvarende sikkerhetsnivå, og.2 testet med last og grundig undersøkt etter installasjon og før de tas i bruk for første gang, samt etter omfattende reparasjoner, ombygginger eller endringer.
+Løfteinnretninger som er installert 1. januar 2026 eller senere, skal være
+
+- .1 utformet, konstruert og installert i samsvar med kravene fra et klasseselskap som er anerkjent av administrasjonen i henhold til bestemmelsene i regel XI-1/1 eller standarder akseptert av administrasjonen som gir et tilsvarende sikkerhetsnivå, og
+- .2 testet med last og grundig undersøkt etter installasjon og før de tas i bruk for første gang, samt etter omfattende reparasjoner, ombygginger eller endringer.
 
 2.2
 
@@ -992,7 +1308,17 @@ For lasteskip skal kravene i del B-1 til og med B-4 gjelde som følger:
 
 2.1.
 
-I del B-1:.1 Med mindre annet er uttrykkelig fastsatt, skal regel 5 gjelde for lasteskip, og regel 5-1 skal gjelde for lasteskip som ikke er tankskip, som definert i regel I/2 bokstav h..2 Regel 6 til og med regel 7-3 får anvendelse på lasteskip med lengde (*L*) 80 m eller mer, men kan utelate skip som omfattes av følgende regelverk, og som er fastslått å være i samsvar med kravene til oppdeling og stabilitet i dette regelverket:.1 vedlegg I til MARPOL, bortsett fra at kombinasjonsskip (som definert i SOLAS regel II-2/3.14) med fribord av type B skal være i samsvar med regel 6 til og med regel 7-3\*, eller.2 internasjonalt regelverk om konstruksjon og utrustning av skip som frakter farlige kjemikalier i bulk (IBC-koden)29, eller.3 internasjonalt regelverk om konstruksjon og utrustning av skip som fører flytende gasser i bulk (IGC-koden)30, eller.4 krav til stabilitet i skadet tilstand i regel 27 i Lastelinjekonvensjonen, 1966, som anvendt i samsvar med resolusjon A.320(IX) og A.514(13), forutsatt at lasteskip som regel 27 nr. 9 får anvendelse på, har vanntette hovedtverrskipsskott, som anses som effektive, med en innbyrdes avstand i samsvar med nr. 12 bokstav f i resolusjon A.320(IX), unntatt skip beregnet på transport av dekkslast som skal være i samsvar med regel 6 til og med regel 7-3, eller.5 krav til stabilitet i skadet tilstand i regel 27 i 1988-protokollen til Lastelinjekonvensjonen, unntatt skip beregnet på transport av dekkslast som skal være i samsvar med regel 6 til og med regel 7-3, eller.6 standarder for oppdeling og stabilitet i skadet tilstand i andre dokumenter31 utarbeidet av organisasjonen.
+I del B-1:
+
+- .1 Med mindre annet er uttrykkelig fastsatt, skal regel 5 gjelde for lasteskip, og regel 5-1 skal gjelde for lasteskip som ikke er tankskip, som definert i regel I/2 bokstav h.
+- .2 Regel 6 til og med regel 7-3 får anvendelse på lasteskip med lengde (*L*) 80 m eller mer, men kan utelate skip som omfattes av følgende regelverk, og som er fastslått å være i samsvar med kravene til oppdeling og stabilitet i dette regelverket:
+
+  - .1 vedlegg I til MARPOL, bortsett fra at kombinasjonsskip (som definert i SOLAS regel II-2/3.14) med fribord av type B skal være i samsvar med regel 6 til og med regel 7-3\*, eller
+  - .2 internasjonalt regelverk om konstruksjon og utrustning av skip som frakter farlige kjemikalier i bulk (IBC-koden)29, eller
+  - .3 internasjonalt regelverk om konstruksjon og utrustning av skip som fører flytende gasser i bulk (IGC-koden)30, eller
+  - .4 krav til stabilitet i skadet tilstand i regel 27 i Lastelinjekonvensjonen, 1966, som anvendt i samsvar med resolusjon A.320(IX) og A.514(13), forutsatt at lasteskip som regel 27 nr. 9 får anvendelse på, har vanntette hovedtverrskipsskott, som anses som effektive, med en innbyrdes avstand i samsvar med nr. 12 bokstav f i resolusjon A.320(IX), unntatt skip beregnet på transport av dekkslast som skal være i samsvar med regel 6 til og med regel 7-3, eller
+  - .5 krav til stabilitet i skadet tilstand i regel 27 i 1988-protokollen til Lastelinjekonvensjonen, unntatt skip beregnet på transport av dekkslast som skal være i samsvar med regel 6 til og med regel 7-3, eller
+  - .6 standarder for oppdeling og stabilitet i skadet tilstand i andre dokumenter31 utarbeidet av organisasjonen.
 
 2.2
 
@@ -1056,7 +1382,11 @@ Skipsføreren skal motta alle de opplysningene som til administrasjonens tilfred
 
 2
 
-Opplysningene skal inneholde:.1 kurver eller tabeller over minste driftsmetasenterhøyde (*GM*) og største tillatte trim i forhold til dypgående som sikrer samsvar med kravene til intaktstabilitet og stabilitet i skadet tilstand hvis aktuelt, alternativt tilsvarende kurver eller tabeller over høyeste tillatte vertikale tyngdepunkt (*KG*) og største tillatte trim i forhold til dypgående, eller med tilsvarende verdier som disse kurvene eller tabellene.2 instrukser om drift av kryssfyllingsarrangementer, og.3 alle andre opplysninger og hjelpemidler som kan være nødvendige for å opprettholde den påkrevde intakte stabiliteten og stabiliteten i skadet tilstand.
+Opplysningene skal inneholde:
+
+- .1 kurver eller tabeller over minste driftsmetasenterhøyde (*GM*) og største tillatte trim i forhold til dypgående som sikrer samsvar med kravene til intaktstabilitet og stabilitet i skadet tilstand hvis aktuelt, alternativt tilsvarende kurver eller tabeller over høyeste tillatte vertikale tyngdepunkt (*KG*) og største tillatte trim i forhold til dypgående, eller med tilsvarende verdier som disse kurvene eller tabellene
+- .2 instrukser om drift av kryssfyllingsarrangementer, og
+- .3 alle andre opplysninger og hjelpemidler som kan være nødvendige for å opprettholde den påkrevde intakte stabiliteten og stabiliteten i skadet tilstand.
 
 3
 
@@ -1086,10 +1416,27 @@ Oppdelingen av et skip anses å være tilstrekkelig når den oppnådde oppdeling
 
 2
 
-For skip som denne delens krav til stabilitet i skadet tilstand får anvendelse på, skal graden av oppdeling som skal framskaffes, bestemmes ved den påkrevde oppdelingsindeksen *R*, på følgende måte:.1 Når det gjelder lasteskip med lengde (*Ls*) over 100 m: $$R=1-\\frac{128}{L_{s+152}}$$.2 Når det gjelder lasteskip med en lengde (*L*) på minst 80 m, men ikke over 100 m (*Ls*): $$R=1-\\left[1/\\left(1+\\frac{L_s}{100}\\times\\frac{R_0}{1-R_0}\\right)\\right]$$
-der R0 er verdien R som beregnet i samsvar med formelen i nr. .1..3 Når det gjelder passasjerskip:*Personer om bord**R**N* < 400*R* = 0,722400 ≤ *N* ≤ 1350*R* = *N* / 7580 + 0,669231350 ≤ *N* ≤ 6000*R* = 0,0369 × Ln (*N* + 89,048) + 0,579*N > 6000**R* = 1 – (852,5 + 0,03875 × *N*) / (*N* + 5000)
-der
-*N* = samlet antall personer om bord.
+For skip som denne delens krav til stabilitet i skadet tilstand får anvendelse på, skal graden av oppdeling som skal framskaffes, bestemmes ved den påkrevde oppdelingsindeksen *R*, på følgende måte:
+
+- .1 Når det gjelder lasteskip med lengde (*Ls*) over 100 m:
+
+  $$R=1-\\frac{128}{L_{s+152}}$$
+- .2 Når det gjelder lasteskip med en lengde (*L*) på minst 80 m, men ikke over 100 m (*Ls*):
+
+  $$R=1-\\left[1/\\left(1+\\frac{L_s}{100}\\times\\frac{R_0}{1-R_0}\\right)\\right]$$
+
+  der R0 er verdien R som beregnet i samsvar med formelen i nr. .1.
+- .3 Når det gjelder passasjerskip:
+
+  | *Personer om bord* | *R* |
+  | --- | --- |
+  | *N* < 400 | *R* = 0,722 |
+  | 400 ≤ *N* ≤ 1350 | *R* = *N* / 7580 + 0,66923 |
+  | 1350 ≤ *N* ≤ 6000 | *R* = 0,0369 × Ln (*N* + 89,048) + 0,579 |
+  | *N > 6000* | *R* = 1 – (852,5 + 0,03875 × *N*) / (*N* + 5000) |
+
+  der
+  *N* = samlet antall personer om bord.
 
 34 Sjøsikkerhetskomiteen ba administrasjonene, da reglene i del B til B-4 ble vedtatt, notere seg at reglene skal anvendes sammen med de forklarende merknadene utarbeidet av organisasjonen for å sikre ensartet anvendelse av reglene.
 
@@ -1097,9 +1444,19 @@ der
 
 1
 
-Oppnådd oppdelingsindeks *A* fås ved å summere delindeksene *As, Ap* og *Al*, vektet som vist, beregnet for dypgående *ds, dp* og *dl* definert i regel 2 i samsvar med følgende formel:*A* = 0,4*As* + 0,4*Ap* + 0,2*Al*
+Oppnådd oppdelingsindeks *A* fås ved å summere delindeksene *As, Ap* og *Al*, vektet som vist, beregnet for dypgående *ds, dp* og *dl* definert i regel 2 i samsvar med følgende formel:
 
-Hver delindeks er summen av bidrag fra alle skadetilfeller som skal vurderes, ved hjelp av følgende formel:*A* = \\(\\sum p_i s_i\\)der*i* står for hver avdeling eller gruppe med avdelinger som skal vurderes*pi* står for sannsynligheten for at bare den avdelingen eller gruppen med avdelinger som vurderes, kan bli fylt med vann, uten hensyn til en eventuell horisontal oppdeling, som definert i regel 7-1*si* står for sannsynligheten for at skipet holder seg flytende hvis avdelingen eller gruppen med avdelinger som vurderes, blir fylt med vann, og omfatter virkningen av en eventuell horisontal oppdeling, som definert i regel 7-2.
+- *A* = 0,4*As* + 0,4*Ap* + 0,2*Al*
+
+Hver delindeks er summen av bidrag fra alle skadetilfeller som skal vurderes, ved hjelp av følgende formel:
+
+- *A* = \\(\\sum p_i s_i\\)
+
+der
+
+- *i* står for hver avdeling eller gruppe med avdelinger som skal vurderes
+- *pi* står for sannsynligheten for at bare den avdelingen eller gruppen med avdelinger som vurderes, kan bli fylt med vann, uten hensyn til en eventuell horisontal oppdeling, som definert i regel 7-1
+- *si* står for sannsynligheten for at skipet holder seg flytende hvis avdelingen eller gruppen med avdelinger som vurderes, blir fylt med vann, og omfatter virkningen av en eventuell horisontal oppdeling, som definert i regel 7-2.
 
 2
 
@@ -1129,68 +1486,137 @@ Når rørledninger, kanaler eller tunneler ligger innenfor utstrekningen av anta
 
 1
 
-Faktor pi for en avdeling eller gruppe med avdelinger skal beregnes i henhold til nr. 1.1 og 1.2 ved hjelp av følgende betegnelser:*j* = det akterste skadesonenummeret involvert i skaden, der nr. 1 starter ved akterstevnen*n* = antallet tilstøtende skadesoner involvert i skaden*k* = nummeret til et bestemt langskipsskott som barriere for tverrskipspenetrering i en skadesone talt fra huden mot senterlinjen. Huden har *k* = 0*x1* = avstanden fra aktre endepunkt av *Ls* til den aktre enden av den aktuelle sonen*x2* = avstanden fra aktre endepunkt av *Ls* til den fremre enden av den aktuelle sonen,*b* = midlere tverrskips avstand i meter målt i rette vinkler på senterlinjen ved største oppdelingsdypgående mellom huden og et tenkt vertikalt plan som strekker seg mellom langskipsavgrensningene brukt i beregningen av faktoren *pi*, og som er en tangent til, eller felles med, hele eller deler av det ytterste punktet av langskipsskottet som betraktes. Dette vertikale planet skal orienteres slik at den midlere tverrskips avstanden til huden er et maksimum, men ikke mer enn to ganger den minste avstanden mellom planet og huden. Når den øvre delen av et langskipsskott er under største oppdelingsdypgående, antas det vertikale planet brukt for bestemmelse av *b* å strekke seg oppover mot dypeste oppdelingsvannlinje. *b* skal ikke i noen tilfeller være større enn *B/2*.
+Faktor pi for en avdeling eller gruppe med avdelinger skal beregnes i henhold til nr. 1.1 og 1.2 ved hjelp av følgende betegnelser:
 
-Når skaden kun involverer en enkelt sone: $$p_i = p(x1_j, x2_j) \\cdot [r(x1_j, x2_j, b_k) - r(x1_j, x2_j, b_{k-1})]$$
+- *j* = det akterste skadesonenummeret involvert i skaden, der nr. 1 starter ved akterstevnen
+- *n* = antallet tilstøtende skadesoner involvert i skaden
+- *k* = nummeret til et bestemt langskipsskott som barriere for tverrskipspenetrering i en skadesone talt fra huden mot senterlinjen. Huden har *k* = 0
+- *x1* = avstanden fra aktre endepunkt av *Ls* til den aktre enden av den aktuelle sonen
+- *x2* = avstanden fra aktre endepunkt av *Ls* til den fremre enden av den aktuelle sonen,
+- *b* = midlere tverrskips avstand i meter målt i rette vinkler på senterlinjen ved største oppdelingsdypgående mellom huden og et tenkt vertikalt plan som strekker seg mellom langskipsavgrensningene brukt i beregningen av faktoren *pi*, og som er en tangent til, eller felles med, hele eller deler av det ytterste punktet av langskipsskottet som betraktes. Dette vertikale planet skal orienteres slik at den midlere tverrskips avstanden til huden er et maksimum, men ikke mer enn to ganger den minste avstanden mellom planet og huden. Når den øvre delen av et langskipsskott er under største oppdelingsdypgående, antas det vertikale planet brukt for bestemmelse av *b* å strekke seg oppover mot dypeste oppdelingsvannlinje. *b* skal ikke i noen tilfeller være større enn *B/2*.
 
-Når skaden involverer to tilstøtende soner: $$\\begin{align} p_i = p(x1_j, x2_{j+1}) &\\cdot [r(x1_j, x2_{j+1}, b_k) - r(x1_j, x2_{j+1}, b_{k-1})] - p(x1_j, x2_j) \\\\ &\\cdot [r(x1_j, x2_j, b_k) - r(x1_j, x2_j, b_{k-1})] - p(x1_{j+1}, x2_{j+1}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+1}, b_k) - r(x1_{j+1}, x2_{j+1}, b_{k-1})] \\end{align} $$
+Når skaden kun involverer en enkelt sone:
 
-Når skaden involverer tre eller flere tilstøtende soner: $$\\begin{align} p_i = p(x1_j, x2_{j+n-1}) &\\cdot [r(x1_j, x2_{j+n-1}, b_k) - r(x1_j, x2_{j+n-1}, b_{k-1})] - p(x1_j, x2_{j+n-2}) \\\\ &\\cdot [r(x1_j, x2_{j+n-2}, b_k) - r(x1_j, x2_{j+n-2}, b_{k-1})] - p(x1_{j+1}, x2_{j+n-1}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+n-1}, b_k) - r(x1_{j+1}, x2_{j+n-1}, b_{k-1})] + p(x1_{j+1}, x2_{j+n-2}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+n-2}, b_k) - r(x1_{j+1}, x2_{j+n-2}, b_{k-1})] \\end{align} $$
+$$p_i = p(x1_j, x2_j) \\cdot [r(x1_j, x2_j, b_k) - r(x1_j, x2_j, b_{k-1})]$$
+
+Når skaden involverer to tilstøtende soner:
+
+$$\\begin{align} p_i = p(x1_j, x2_{j+1}) &\\cdot [r(x1_j, x2_{j+1}, b_k) - r(x1_j, x2_{j+1}, b_{k-1})] - p(x1_j, x2_j) \\\\ &\\cdot [r(x1_j, x2_j, b_k) - r(x1_j, x2_j, b_{k-1})] - p(x1_{j+1}, x2_{j+1}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+1}, b_k) - r(x1_{j+1}, x2_{j+1}, b_{k-1})] \\end{align} $$
+
+Når skaden involverer tre eller flere tilstøtende soner:
+
+$$\\begin{align} p_i = p(x1_j, x2_{j+n-1}) &\\cdot [r(x1_j, x2_{j+n-1}, b_k) - r(x1_j, x2_{j+n-1}, b_{k-1})] - p(x1_j, x2_{j+n-2}) \\\\ &\\cdot [r(x1_j, x2_{j+n-2}, b_k) - r(x1_j, x2_{j+n-2}, b_{k-1})] - p(x1_{j+1}, x2_{j+n-1}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+n-1}, b_k) - r(x1_{j+1}, x2_{j+n-1}, b_{k-1})] + p(x1_{j+1}, x2_{j+n-2}) \\\\ &\\cdot [r(x1_{j+1}, x2_{j+n-2}, b_k) - r(x1_{j+1}, x2_{j+n-2}, b_{k-1})] \\end{align} $$
+
 og der *r(x1, x2, b0)* = 0
 
 1.1
 
-Faktoren *p(x1, x2)* skal beregnes ved følgende formler:Total normalisert maks skadelengde: *Jmaks* = 10/33Knekkpunkt i fordelingen: *Jkn* = 5/33Kumulativ sannsynlighet ved *Jkn*: *pk* = 11/12Maksimum absolutt skadelengde: *lmaks* = 60 mLengde der normalisert fordeling slutter: *L*\* = 260 mSannsynlighetstetthet ved *J: = 0:* $$b_0 = 2 \\left( \\frac{p_k}{J_{kn}} - \\frac{1-p_k}{J_{\\text{maks}} - J_{kn}} \\right)$$
+Faktoren *p(x1, x2)* skal beregnes ved følgende formler:
 
-Når *Ls* ≤ *L\**: $$\\begin{align} J_m &= \\min \\Big \\{ J_{\\text{maks}}, \\frac{l_{\\text{maks}}}{L_s} \\Big \\} \\\\ J_k &= \\frac{J_m}{2} + \\frac{1 - \\sqrt{1 + (1 - 2p_k) b_0 J_m + \\frac 14 {b_0}^2 {J_m}^2}}{b_0} \\\\ b_{12} &= b_0 \\end{align} $$
+- Total normalisert maks skadelengde: *Jmaks* = 10/33
+- Knekkpunkt i fordelingen: *Jkn* = 5/33
+- Kumulativ sannsynlighet ved *Jkn*: *pk* = 11/12
+- Maksimum absolutt skadelengde: *lmaks* = 60 m
+- Lengde der normalisert fordeling slutter: *L*\* = 260 m
+- Sannsynlighetstetthet ved *J: = 0:*
 
-Når *Ls* > *L\**: $${J_m}^\* = \\min \\Big \\{ J_{\\text{maks}}, \\frac{l_{\\text{maks}}}{L^\*} \\Big \\}$$$$\\begin{align} {J_k}^\* &= \\frac{{J_m}^\*}{2} + \\frac{1 - \\sqrt{1 + (1 - 2p_k) b_0 {J_m}^\* + \\frac 14 {b_0}^2 {J_m}^{\*2}}}{b_0} \\\\ J_m &= \\frac{{J_m}^\* \\cdot L^\*}{L_s} \\\\ J_k &= \\frac{{J_k}^\* \\cdot L^\*}{L_s} \\\\ b_{12} &= 2 \\left( \\frac{p_k}{J_k} - \\frac{1 - p_k}{J_m - J_k} \\right) \\\\ b_{11} &= 4 \\frac{1 - p_k}{(J_m - J_k) J_k} - 2 \\frac{p_k}{{J_k}^2} \\\\ b_{21} &= -2 \\frac{1 - p_k}{(J_m - J_k)^2} \\\\ b_{22} &= -b_{21} J_m \\end{align}$$
+  $$b_0 = 2 \\left( \\frac{p_k}{J_{kn}} - \\frac{1-p_k}{J_{\\text{maks}} - J_{kn}} \\right)$$
 
-Den dimensjonsløse skadelengden: $$J = \\frac{(x2 - x1)}{L_s}$$
+Når *Ls* ≤ *L\**:
 
-Den normaliserte lengden av en avdeling eller gruppe med avdelinger:*Jn* skal regnes som den som er minst av *J* og *Jm*
+$$\\begin{align} J_m &= \\min \\Big \\{ J_{\\text{maks}}, \\frac{l_{\\text{maks}}}{L_s} \\Big \\} \\\\ J_k &= \\frac{J_m}{2} + \\frac{1 - \\sqrt{1 + (1 - 2p_k) b_0 J_m + \\frac 14 {b_0}^2 {J_m}^2}}{b_0} \\\\ b_{12} &= b_0 \\end{align} $$
+
+Når *Ls* > *L\**:
+
+$${J_m}^\* = \\min \\Big \\{ J_{\\text{maks}}, \\frac{l_{\\text{maks}}}{L^\*} \\Big \\}$$
+
+$$\\begin{align} {J_k}^\* &= \\frac{{J_m}^\*}{2} + \\frac{1 - \\sqrt{1 + (1 - 2p_k) b_0 {J_m}^\* + \\frac 14 {b_0}^2 {J_m}^{\*2}}}{b_0} \\\\ J_m &= \\frac{{J_m}^\* \\cdot L^\*}{L_s} \\\\ J_k &= \\frac{{J_k}^\* \\cdot L^\*}{L_s} \\\\ b_{12} &= 2 \\left( \\frac{p_k}{J_k} - \\frac{1 - p_k}{J_m - J_k} \\right) \\\\ b_{11} &= 4 \\frac{1 - p_k}{(J_m - J_k) J_k} - 2 \\frac{p_k}{{J_k}^2} \\\\ b_{21} &= -2 \\frac{1 - p_k}{(J_m - J_k)^2} \\\\ b_{22} &= -b_{21} J_m \\end{align}$$
+
+Den dimensjonsløse skadelengden:
+
+$$J = \\frac{(x2 - x1)}{L_s}$$
+
+Den normaliserte lengden av en avdeling eller gruppe med avdelinger:
+
+- *Jn* skal regnes som den som er minst av *J* og *Jm*
 
 1.1.1
 
-Der ingen av avgrensningene av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre eller forre endepunktet: $$\\begin{align} J \\leq J_k &: \\\\ p &(x1,x2) = p_1 = \\frac 16 J^2 (b_{11}J + 3b_{12}) \\\\ J \\gt J_k &: \\\\ p &(x1,x2) = p_2 = - \\frac 13 b_{11} {J_k}^3 + \\frac 12 (b_{11}J - b_{12}) {J_k}^2 + b_{12}JJ_k - \\frac 13 b_{21} ({J_n}^3 - {J_k}^3) + \\\\ \\frac 12 &(b_{21}J - b_{22})({J_n}^2 - {J_k}^2) + b_{22}J (J_n - J_k) \\end{align}$$
+Der ingen av avgrensningene av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre eller forre endepunktet:
+
+$$\\begin{align} J \\leq J_k &: \\\\ p &(x1,x2) = p_1 = \\frac 16 J^2 (b_{11}J + 3b_{12}) \\\\ J \\gt J_k &: \\\\ p &(x1,x2) = p_2 = - \\frac 13 b_{11} {J_k}^3 + \\frac 12 (b_{11}J - b_{12}) {J_k}^2 + b_{12}JJ_k - \\frac 13 b_{21} ({J_n}^3 - {J_k}^3) + \\\\ \\frac 12 &(b_{21}J - b_{22})({J_n}^2 - {J_k}^2) + b_{22}J (J_n - J_k) \\end{align}$$
 
 1.1.2
 
-Der den aktre avgrensningen av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre endepunktet, eller den forre avgrensningen av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det forre endepunktet: $$\\begin{align} J \\leq J_k &: \\\\ p &(x1,x2) = \\frac 12 (p_1 + J) \\\\ J \\gt J_k &: \\\\ p &(x1,x2) = \\frac 12 (p_2 + J) \\end{align} $$
+Der den aktre avgrensningen av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre endepunktet, eller den forre avgrensningen av den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det forre endepunktet:
+
+$$\\begin{align} J \\leq J_k &: \\\\ p &(x1,x2) = \\frac 12 (p_1 + J) \\\\ J \\gt J_k &: \\\\ p &(x1,x2) = \\frac 12 (p_2 + J) \\end{align} $$
 
 1.1.3
 
-Der den aktuelle avdelingen eller gruppen med avdelinger strekker seg over hele oppdelingslengden (*L*s):*p*(x1, x2) = 1
+Der den aktuelle avdelingen eller gruppen med avdelinger strekker seg over hele oppdelingslengden (*L*s):
+
+- *p*(x1, x2) = 1
 
 1.2
 
-Faktoren *r(x1, x2, b)* skal bestemmes ved følgende formler: $$r(x1,x2,b) = 1 - (1-C) \\cdot \\left[ 1 - \\frac{G}{p(x1,x2)} \\right]$$der $$\\begin{align} C &= 12 \\cdot J_b \\cdot (-45 \\cdot J_b + 4) \\text{, der} \\\\ J_b &= \\frac{b}{15 \\cdot B} \\end{align} $$
+Faktoren *r(x1, x2, b)* skal bestemmes ved følgende formler:
+
+$$r(x1,x2,b) = 1 - (1-C) \\cdot \\left[ 1 - \\frac{G}{p(x1,x2)} \\right]$$
+
+der
+
+$$\\begin{align} C &= 12 \\cdot J_b \\cdot (-45 \\cdot J_b + 4) \\text{, der} \\\\ J_b &= \\frac{b}{15 \\cdot B} \\end{align} $$
 
 1.2.1
 
-Der den aktuelle avdelingen eller gruppen med avdelinger strekker seg over hele oppdelingslengden (*L*s): $$G = G_1 = \\frac 12 b_{11} {J_b}^2 + b_{12} J_b$$
+Der den aktuelle avdelingen eller gruppen med avdelinger strekker seg over hele oppdelingslengden (*L*s):
+
+$$G = G_1 = \\frac 12 b_{11} {J_b}^2 + b_{12} J_b$$
 
 1.2.2
 
-Der ingen av avgrensningene i den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre eller forre endepunktet: $$\\begin{align} G &= G_2 = - \\frac 13 b_{11} {J_0}^3 + \\frac 12 (b_{11} J - b_{12}) {J_0}^2 + b_{12} JJ_0 \\text{, der} \\\\ J_0 &= \\min (J,J_b) \\end{align} $$
+Der ingen av avgrensningene i den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre eller forre endepunktet:
+
+$$\\begin{align} G &= G_2 = - \\frac 13 b_{11} {J_0}^3 + \\frac 12 (b_{11} J - b_{12}) {J_0}^2 + b_{12} JJ_0 \\text{, der} \\\\ J_0 &= \\min (J,J_b) \\end{align} $$
 
 1.2.3
 
-Der den aktre avgrensingen til den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre endepunktet, eller den forre avgrensningen til den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det forre endepunktet: $$G = \\frac 12 (G_2 + G_1 \\cdot J)$$
+Der den aktre avgrensingen til den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det aktre endepunktet, eller den forre avgrensningen til den aktuelle avdelingen eller gruppen med avdelinger sammenfaller med det forre endepunktet:
+
+$$G = \\frac 12 (G_2 + G_1 \\cdot J)$$
 
 ### Regel 7-2 Beregning av faktor *si*
 
 1
 
-Faktoren *si* skal bestemmes for hvert tilfelle av antatt fylling som involverer en avdeling eller gruppe med avdelinger, i henhold til følgende betegnelser og bestemmelsene i denne regelen.θe er likevektsvinkelen i ethvert fyllingstrinn, i grader.θv er vinkelen, på ethvert fyllingstrinn, der rettende arm blir negativ, eller vinkelen der en åpning som ikke kan lukkes værtett, neddykkes.GZmaks er maksimum positiv rettende arm (GZ), i meter, opp til vinkelen θv.*Utstrekning* er den positive utstrekningen til GZ-kurven i grader, målt fra vinkelen θe. Den positive utstrekningen skal regnes opp til vinkelen θv.*Fyllingstrinn* er ethvert atskilt trinn under fyllingsprosessen, inkludert trinnet før (en eventuell) utligning før den endelige likevekten er nådd.
+Faktoren *si* skal bestemmes for hvert tilfelle av antatt fylling som involverer en avdeling eller gruppe med avdelinger, i henhold til følgende betegnelser og bestemmelsene i denne regelen.
+
+- θe er likevektsvinkelen i ethvert fyllingstrinn, i grader.
+- θv er vinkelen, på ethvert fyllingstrinn, der rettende arm blir negativ, eller vinkelen der en åpning som ikke kan lukkes værtett, neddykkes.
+- GZmaks er maksimum positiv rettende arm (GZ), i meter, opp til vinkelen θv.
+- *Utstrekning* er den positive utstrekningen til GZ-kurven i grader, målt fra vinkelen θe. Den positive utstrekningen skal regnes opp til vinkelen θv.
+- *Fyllingstrinn* er ethvert atskilt trinn under fyllingsprosessen, inkludert trinnet før (en eventuell) utligning før den endelige likevekten er nådd.
 
 1.1
 
-Faktoren *si*, for ethvert skadetilfelle ved enhver initiell lastetilstand, *di*, skal beregnes ved formelen: $$s_i = \\text{minimum} \\{ s_{\\text{mellomliggende, }i} \\text{ eller } s_{\\text{endelig, }i} \\cdot s_{\\text{mom, }i} \\}$$der*s*mellomliggende,i er sannsynligheten for å overleve alle mellomliggende fyllingstrinn fram til likevektstrinnet, og beregnes i henhold til nr. 2,*s*endelig,i er sannsynligheten for å overleve i fyllingstrinnet ved endelig likevekt. Den beregnes i henhold til nr. 3,*s*mom,i er sannsynligheten for å overleve krengemomenter, og beregnes i henhold til nr. 4.
+Faktoren *si*, for ethvert skadetilfelle ved enhver initiell lastetilstand, *di*, skal beregnes ved formelen:
+
+$$s_i = \\text{minimum} \\{ s_{\\text{mellomliggende, }i} \\text{ eller } s_{\\text{endelig, }i} \\cdot s_{\\text{mom, }i} \\}$$
+
+der
+
+- *s*mellomliggende,i er sannsynligheten for å overleve alle mellomliggende fyllingstrinn fram til likevektstrinnet, og beregnes i henhold til nr. 2,
+- *s*endelig,i er sannsynligheten for å overleve i fyllingstrinnet ved endelig likevekt. Den beregnes i henhold til nr. 3,
+- *s*mom,i er sannsynligheten for å overleve krengemomenter, og beregnes i henhold til nr. 4.
 
 2
 
-For passasjerskip og lasteskip med kryssfyllingsanordninger skal faktoren *s*mellomliggende, i regnes som den minste av *s*-faktorene oppnådd fra alle fyllingstrinn inkludert trinnet før en eventuell utligning, og skal beregnes som følger: $$s_{\\text{mellomliggende, }i} = \\left[ \\frac{GZ_{\\text{maks}}}{0{,}05} \\cdot \\frac{\\text{Utstrekning}}{7} \\right]^{\\frac 14}$$der GZmaks ikke skal regnes som mer enn 0,05 m og *Utstrekning* som ikke mer enn 7°. *s*mellomliggende, i = 0 hvis den mellomliggende krengevinkelen overskrider 15º for passasjerskip og 30º for lasteskip.
+For passasjerskip og lasteskip med kryssfyllingsanordninger skal faktoren *s*mellomliggende, i regnes som den minste av *s*-faktorene oppnådd fra alle fyllingstrinn inkludert trinnet før en eventuell utligning, og skal beregnes som følger:
+
+$$s_{\\text{mellomliggende, }i} = \\left[ \\frac{GZ_{\\text{maks}}}{0{,}05} \\cdot \\frac{\\text{Utstrekning}}{7} \\right]^{\\frac 14}$$
+
+der GZmaks ikke skal regnes som mer enn 0,05 m og *Utstrekning* som ikke mer enn 7°. *s*mellomliggende, i = 0 hvis den mellomliggende krengevinkelen overskrider 15º for passasjerskip og 30º for lasteskip.
 
 For lasteskip uten kryssfyllingsanordninger skal faktor *s*mellomliggende, i regnes som én, med mindre administrasjonen vurderer det slik at stabiliteten i mellomliggende fyllingsstadier kan være utilstrekkelig, hvor da ytterligere undersøkelser kreves.
 
@@ -1198,29 +1624,79 @@ For passasjerskip og for lasteskip med kryssfyllingsanordninger skal tiden for u
 
 3
 
-Faktoren *s*endelig, i skal beregnes fra formelen $$s_{\\text{endelig, }i} = K \\cdot \\left[ \\frac{GZ_{\\text{maks}}}{TGZ_{\\text{maks}}} \\cdot \\frac{\\text{Utstrekning}}{\\text{TUtstrekning}} \\right]^{\\frac 14}$$derGZmaks ikke skal regnes som mer enn *TGZ*maks*Utstrekning* ikke skal regnes som mer enn *TUtstrekning**TGZ*maks = 0,20 m, som for roro-passasjerskip er hvert skadetilfelle som omfatter et roro-rom*TGZ*maks = 0,12 m, ellers*TUtstrekning* = 20°, for roro-passasjerskip er hvert skadetilfelle som omfatter roro-rom*TUtstrekning* = 16°, ellers $$\\begin{align} K &= 1 \\text{ hvis } \\theta_e \\leq \\theta_{\\min} \\\\ K &= 0 \\text{ hvis } \\theta_e \\geq \\theta_{\\text{maks}} \\\\ K &= \\sqrt{\\frac{\\theta_{\\text{maks}} - \\theta_e}{\\theta_{\\text{maks}} - \\theta_{\\min}}} \\text{ ellers} \\end{align} $$derθmin er 7° for passasjerskip og 25° for lasteskip, ogθmaks 15° for passasjerskip og 30° for lasteskip.
+Faktoren *s*endelig, i skal beregnes fra formelen
+
+$$s_{\\text{endelig, }i} = K \\cdot \\left[ \\frac{GZ_{\\text{maks}}}{TGZ_{\\text{maks}}} \\cdot \\frac{\\text{Utstrekning}}{\\text{TUtstrekning}} \\right]^{\\frac 14}$$
+
+der
+
+- GZmaks ikke skal regnes som mer enn *TGZ*maks
+- *Utstrekning* ikke skal regnes som mer enn *TUtstrekning*
+- *TGZ*maks = 0,20 m, som for roro-passasjerskip er hvert skadetilfelle som omfatter et roro-rom
+- *TGZ*maks = 0,12 m, ellers
+- *TUtstrekning* = 20°, for roro-passasjerskip er hvert skadetilfelle som omfatter roro-rom
+- *TUtstrekning* = 16°, ellers
+
+  $$\\begin{align} K &= 1 \\text{ hvis } \\theta_e \\leq \\theta_{\\min} \\\\ K &= 0 \\text{ hvis } \\theta_e \\geq \\theta_{\\text{maks}} \\\\ K &= \\sqrt{\\frac{\\theta_{\\text{maks}} - \\theta_e}{\\theta_{\\text{maks}} - \\theta_{\\min}}} \\text{ ellers} \\end{align} $$
+
+der
+
+- θmin er 7° for passasjerskip og 25° for lasteskip, og
+- θmaks 15° for passasjerskip og 30° for lasteskip.
 
 4
 
-Faktoren *s*mom,i får kun anvendelse på passasjerskip (for lasteskip skal smom, i regnes som én) og skal beregnes ved endelig likevekt fra formelen $$s_{\\text{mom, }i} = \\frac{(GZ_{\\text{maks}} - 0{,}04) \\cdot \\text{deplasement}}{M_{\\text{kreng}}}$$der*Deplasement* er intakt deplasement ved respektiv dypgående (*ds*, *dp* eller *dl*).*Mkreng* er maksimum antatt krengemoment som beregnet i henhold til nr. 4.1, og*s*mom,i ≤1
+Faktoren *s*mom,i får kun anvendelse på passasjerskip (for lasteskip skal smom, i regnes som én) og skal beregnes ved endelig likevekt fra formelen
+
+$$s_{\\text{mom, }i} = \\frac{(GZ_{\\text{maks}} - 0{,}04) \\cdot \\text{deplasement}}{M_{\\text{kreng}}}$$
+
+der
+
+- *Deplasement* er intakt deplasement ved respektiv dypgående (*ds*, *dp* eller *dl*).
+- *Mkreng* er maksimum antatt krengemoment som beregnet i henhold til nr. 4.1, og
+- *s*mom,i ≤1
 
 4.1
 
-Krengemomentet *M*kreng skal beregnes som følger: $$M_{\\text{kreng}} = \\text{maksimum} ( M_{\\text{passasjer}} \\text{ eller } M_{\\text{vind}} \\text{ eller } M_{\\text{redningsfarkost}})$$
+Krengemomentet *M*kreng skal beregnes som følger:
+
+$$M_{\\text{kreng}} = \\text{maksimum} ( M_{\\text{passasjer}} \\text{ eller } M_{\\text{vind}} \\text{ eller } M_{\\text{redningsfarkost}})$$
 
 4.1.1
 
-*M*passasjer er maksimum antatt krengemoment som følge av bevegelse av passasjerer, og skal beregnes som følger: $$M_{\\text{passasjer}} = (0{,}075 \\cdot N_p) \\cdot (0{,}45 \\cdot B) \\: \\: (\\text{tm})$$der*Np* er maksimum antall passasjerer som er tillatt å være om bord i seilingstilstanden som tilsvarer den aktuelle største oppdelingsdypgående, og*B* er skipets bredde, som definert i regel 2.8.
+*M*passasjer er maksimum antatt krengemoment som følge av bevegelse av passasjerer, og skal beregnes som følger:
+
+$$M_{\\text{passasjer}} = (0{,}075 \\cdot N_p) \\cdot (0{,}45 \\cdot B) \\: \\: (\\text{tm})$$
+
+der
+
+- *Np* er maksimum antall passasjerer som er tillatt å være om bord i seilingstilstanden som tilsvarer den aktuelle største oppdelingsdypgående, og
+- *B* er skipets bredde, som definert i regel 2.8.
 
 Alternativt kan krengemomentet beregnes ved å anta at passasjerene er fordelt med 4 personer per kvadratmeter på tilgjengelige dekkområder mot den ene siden av skipet på dekkene der mønstringsstasjoner finnes, og på en slik måte at de produserer det mest ugunstige krengemomentet. Her skal det gås ut fra en vekt per passasjer på 75 kg.
 
 4.1.2
 
-*M*vind er maksimum tenkt vindstyrke i en skadesituasjon:*M*vind = *(P · A · Z)*/9 806 (tm)der*P* = 120 N/m2*A* = projisert lateralt areal over vannlinjen*Z* = avstand fra midten av det laterale projiserte arealet over vannlinjen til *T*/2, og*T* = respektiv dypgående (*ds*, *dp* eller *dl*).
+*M*vind er maksimum tenkt vindstyrke i en skadesituasjon:
+
+- *M*vind = *(P · A · Z)*/9 806 (tm)
+
+der
+
+- *P* = 120 N/m2
+- *A* = projisert lateralt areal over vannlinjen
+- *Z* = avstand fra midten av det laterale projiserte arealet over vannlinjen til *T*/2, og
+- *T* = respektiv dypgående (*ds*, *dp* eller *dl*).
 
 4.1.3
 
-Mredningsfarkost er maksimum antatt krengemoment forårsaket av utsetting av alle fullastede redningsfarkoster satt ut med daviter, på den ene siden av skipet. Det skal beregnes ved hjelp av følgende antagelser:.1 alle livbåter og MOB-båter stuet på den siden som skipet har krenget til etter å ha blitt skadet, skal antas å være svingt ut fullastet og klar for nedsenkning.2 for livbåter som er arrangert for å være fullastet fra den stuede posisjonen, skal maksimum krengemoment under utsetting legges til grunn.3 en fullastet davit-utsatt redningsflåte koblet til hver davit på den siden som skipet har krenget til etter å ha blitt skadet, skal antas å være svingt ut klar for nedsenkning.4 personer som ikke befinner seg i redningsredskapene som er svingt ut, skal ikke forårsake ytterligere krengende eller rettende moment, og.5 redningsredskaper på den siden av skipet som er motsatt av siden som skipet har krenget til, skal antas å være i en stuet posisjon.
+Mredningsfarkost er maksimum antatt krengemoment forårsaket av utsetting av alle fullastede redningsfarkoster satt ut med daviter, på den ene siden av skipet. Det skal beregnes ved hjelp av følgende antagelser:
+
+- .1 alle livbåter og MOB-båter stuet på den siden som skipet har krenget til etter å ha blitt skadet, skal antas å være svingt ut fullastet og klar for nedsenkning
+- .2 for livbåter som er arrangert for å være fullastet fra den stuede posisjonen, skal maksimum krengemoment under utsetting legges til grunn
+- .3 en fullastet davit-utsatt redningsflåte koblet til hver davit på den siden som skipet har krenget til etter å ha blitt skadet, skal antas å være svingt ut klar for nedsenkning
+- .4 personer som ikke befinner seg i redningsredskapene som er svingt ut, skal ikke forårsake ytterligere krengende eller rettende moment, og
+- .5 redningsredskaper på den siden av skipet som er motsatt av siden som skipet har krenget til, skal antas å være i en stuet posisjon.
 
 5
 
@@ -1234,11 +1710,20 @@ Tanker og avdelinger som er inkludert i en slik utligning, skal utstyres med luf
 
 5.2
 
-Faktoren *si* skal regnes som null i de tilfeller der den endelige vannlinjen, idet det tas hensyn til synking, krengning og trim, neddykker.1 på lasteskip, den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler.2 en del av skottdekket i passasjerskip som anses som en horisontal rømningsvei for samsvar med kapittel II-2, og.3 på passasjerskip som er underlagt bestemmelsene i regel 1.1.1.1 og bygget før 1. januar 2024, den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler.
+Faktoren *si* skal regnes som null i de tilfeller der den endelige vannlinjen, idet det tas hensyn til synking, krengning og trim, neddykker
+
+- .1 på lasteskip, den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler
+- .2 en del av skottdekket i passasjerskip som anses som en horisontal rømningsvei for samsvar med kapittel II-2, og
+- .3 på passasjerskip som er underlagt bestemmelsene i regel 1.1.1.1 og bygget før 1. januar 2024, den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler.
 
 5.3
 
-Faktoren *si* skal regnes som null hvis, idet det tas hensyn til synking, krengning og trim, noe av følgende skjer i ethvert mellomliggende trinn eller i endelig fyllingstrinn:.1 neddykking av en vertikal rømningsluke i skottdekket på passasjerskip og fribordsdekk på lasteskip som er ment for samsvar med kapittel II-2.2 en hvilken som helst betjeningsinnretning bestemt for betjening av vanntette dører, utligningsinnretninger, ventiler på rør eller på ventilasjonskanaler ment for å opprettholde integriteten til vanntette skott fra over skottdekket på passasjerskip og fribordsdekk på lasteskip, blir utilgjengelige eller ubetjenbare; og.3 neddykking av en del av rør eller ventilasjonskanaler som er plassert innenfor den antatte skadeutstrekningen og ført gjennom en vanntett avgrensning, hvis dette kan føre til progressiv fylling av rom som ikke antas å være fylt, og.4 for passasjerskip som er bygget 1. januar 2024 eller senere, neddykking av den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler.
+Faktoren *si* skal regnes som null hvis, idet det tas hensyn til synking, krengning og trim, noe av følgende skjer i ethvert mellomliggende trinn eller i endelig fyllingstrinn:
+
+- .1 neddykking av en vertikal rømningsluke i skottdekket på passasjerskip og fribordsdekk på lasteskip som er ment for samsvar med kapittel II-2
+- .2 en hvilken som helst betjeningsinnretning bestemt for betjening av vanntette dører, utligningsinnretninger, ventiler på rør eller på ventilasjonskanaler ment for å opprettholde integriteten til vanntette skott fra over skottdekket på passasjerskip og fribordsdekk på lasteskip, blir utilgjengelige eller ubetjenbare; og
+- .3 neddykking av en del av rør eller ventilasjonskanaler som er plassert innenfor den antatte skadeutstrekningen og ført gjennom en vanntett avgrensning, hvis dette kan føre til progressiv fylling av rom som ikke antas å være fylt, og
+- .4 for passasjerskip som er bygget 1. januar 2024 eller senere, neddykking av den nedre kanten på åpninger der progressiv fylling kan finne sted, og slik fylling ikke er tatt hensyn til i beregningen av *si*-faktoren. Slike åpninger omfatter lufterør, ventilatorer og åpninger som lukkes ved hjelp av værtette dører eller lukedeksler.
 
 5.4
 
@@ -1254,17 +1739,42 @@ Der horisontale vanntette avgrensninger er plassert over den aktuelle vannlinjen
 
 6.1
 
-Faktoren vm skal beregnes ved formelen: $$v_m = v(H_{j,n,m,}d) - v(H_{j,n,m-1,}d)$$der*Hj,n,m,* er den minste høyden over basislinjen, i meter, innen langskipsutstrekningen til *x1(j)... x2(j+n–1)* av den *m*. horisontale avgrensningen som er antatt å begrense den vertikale utstrekningen av fyllingen for de skadde avdelingene som betraktes*Hj,n,m–1,* er den minste høyden over basislinjen, i meter, innen langskipsutstrekningen til *x1(j)... x2(j+n–1)* til den (*m – 1*). horisontale avgrensningen som er antatt å begrense den vertikale utstrekningen av fyllingen for de skadde avdelingene som betraktes*j* representerer det aktre endepunktet av de skadde avdelingene som betraktes*m* representerer hver horisontal avgrensning som betraktes, talt oppover fra den aktuelle vannlinjen som betraktes*d* er den aktuelle dypgående som definert i regel 2, og*x*1 og *x*2 representer endepunktene av avdelingen eller gruppen med avdelinger betraktet i regel 7-1.
+Faktoren vm skal beregnes ved formelen:
+
+$$v_m = v(H_{j,n,m,}d) - v(H_{j,n,m-1,}d)$$
+
+der
+
+- *Hj,n,m,* er den minste høyden over basislinjen, i meter, innen langskipsutstrekningen til *x1(j)... x2(j+n–1)* av den *m*. horisontale avgrensningen som er antatt å begrense den vertikale utstrekningen av fyllingen for de skadde avdelingene som betraktes
+- *Hj,n,m–1,* er den minste høyden over basislinjen, i meter, innen langskipsutstrekningen til *x1(j)... x2(j+n–1)* til den (*m – 1*). horisontale avgrensningen som er antatt å begrense den vertikale utstrekningen av fyllingen for de skadde avdelingene som betraktes
+- *j* representerer det aktre endepunktet av de skadde avdelingene som betraktes
+- *m* representerer hver horisontal avgrensning som betraktes, talt oppover fra den aktuelle vannlinjen som betraktes
+- *d* er den aktuelle dypgående som definert i regel 2, og
+- *x*1 og *x*2 representer endepunktene av avdelingen eller gruppen med avdelinger betraktet i regel 7-1.
 
 6.1.1
 
-Faktorene *v(Hj,n,m,d)* og *v(Hj,n,m–1,d)* skal beregnes ved formlene: $$\\begin{align} v(H,d) &= 0{,}8 \\frac{(H-d)}{7{,}8}, \\text{ hvis } (H_m - d) \\text{ er mindre enn eller lik } 7{,}8 \\text{ m} \\\\ v(H,d) &= 0{,}8 + 0{,}2 \\left[ \\frac{(H-d) - 7{,}8}{4{,}7} \\right] \\text{ i alle andre tilfeller} \\end{align} $$der*v(Hj,n,m,d)* skal regnes som 1 hvis *Hm* sammenfaller med den øverste vanntette avgrensningen av skipet innen utstrekningen (*x1(j)*...*x2(j+n–1)*), og*v(Hj,n,0,d)* skal regnes som 0.
+Faktorene *v(Hj,n,m,d)* og *v(Hj,n,m–1,d)* skal beregnes ved formlene:
+
+$$\\begin{align} v(H,d) &= 0{,}8 \\frac{(H-d)}{7{,}8}, \\text{ hvis } (H_m - d) \\text{ er mindre enn eller lik } 7{,}8 \\text{ m} \\\\ v(H,d) &= 0{,}8 + 0{,}2 \\left[ \\frac{(H-d) - 7{,}8}{4{,}7} \\right] \\text{ i alle andre tilfeller} \\end{align} $$
+
+der
+
+- *v(Hj,n,m,d)* skal regnes som 1 hvis *Hm* sammenfaller med den øverste vanntette avgrensningen av skipet innen utstrekningen (*x1(j)*...*x2(j+n–1)*), og
+- *v(Hj,n,0,d)* skal regnes som 0.
 
 Ikke i noen tilfeller skal *vm* regnes som mindre enn 0 eller mer enn 1.
 
 6.2
 
-Generelt beregnes hvert bidrag *dA* til indeksen *A* ved horisontale oppdelinger ved hjelp av formelen:*dA* = *pi* · [*v*1 · smin1 + (*v*2 – *v*1) · *s*min2 + ... + (1 – *v*m – 1) · smin*m*]der*vm* = *v*-verdien beregnes i henhold til nr. 6.1*s*min = den minste *s*-faktoren for alle skadekombinasjoner oppnådd når den antatte skaden strekker seg nedover fra den antatte skadehøyden *Hm*.
+Generelt beregnes hvert bidrag *dA* til indeksen *A* ved horisontale oppdelinger ved hjelp av formelen:
+
+- *dA* = *pi* · [*v*1 · smin1 + (*v*2 – *v*1) · *s*min2 + ... + (1 – *v*m – 1) · smin*m*]
+
+der
+
+- *vm* = *v*-verdien beregnes i henhold til nr. 6.1
+- *s*min = den minste *s*-faktoren for alle skadekombinasjoner oppnådd når den antatte skaden strekker seg nedover fra den antatte skadehøyden *Hm*.
 
 ### Regel 7-3 Fyllingsgrad
 
@@ -1302,7 +1812,13 @@ Et passasjerskip som er beregnet på å føre 36 personer eller mer, skal kunne 
 
 3
 
-Hvilken skadeutstrekning som skal forutsettes når samsvar med nr. 2 påvises, avhenger av det totale antall personer om bord og *L*, slik at.1 den vertikale skadeutstrekningen skal gå fra skipets grunnlinje i riss til en posisjon inntil 12,5 m over posisjonen til største oppdelingsdypgang som definert i regel 2, med mindre en mindre vertikal skadeutstrekning vil gi en lavere verdi av si, da skal denne reduserte utstrekningen brukes.2 ved transport av minst 400 personer skal det forutsettes en skadelengde på 0,03*L*, men ikke mindre enn 3 m ved enhver posisjon langs ytterkledningen, i forbindelse med en inntrenging innenbords på 0,1*B*, men ikke mindre enn 0,75 m målt innenbords fra skipssiden, i rette vinkler til senterlinjen på nivået for største oppdelingsdypgående.3 ved transport av mindre enn 400 personer skal skadelengden forutsettes ved enhver posisjon langs ytterkledningen mellom vanntette tverrskipsskott, forutsatt at avstanden mellom to tilstøtende vanntette tverrskipsskott ikke er mindre enn den antatte skadelengden. Når avstanden mellom tilstøtende vanntette tverrskipsskott er mindre enn den antatte skadelengden, skal bare ett av disse skottene anses å være effektivt når det gjelder påvisning av samsvar med nr. 2.4 ved transport av 36 personer skal det forutsettes en skadelengde på 0,015 *L*, men ikke mindre enn 3 m, i forbindelse med en inntrenging innenbords på 0,05 *B*, men ikke mindre enn 0,75 m, og.5 ved transport av mer enn 36, men mindre enn 400 personer skal verdiene for skadelengde og inntrenging innenbords som brukes til å bestemme antatt skadeutstrekning, oppnås ved lineær interpolasjon mellom verdiene for skadelengde og inntrenging som gjelder skip som fører 36 personer og 400 personer, som angitt i nr. .4 og .2.
+Hvilken skadeutstrekning som skal forutsettes når samsvar med nr. 2 påvises, avhenger av det totale antall personer om bord og *L*, slik at
+
+- .1 den vertikale skadeutstrekningen skal gå fra skipets grunnlinje i riss til en posisjon inntil 12,5 m over posisjonen til største oppdelingsdypgang som definert i regel 2, med mindre en mindre vertikal skadeutstrekning vil gi en lavere verdi av si, da skal denne reduserte utstrekningen brukes
+- .2 ved transport av minst 400 personer skal det forutsettes en skadelengde på 0,03*L*, men ikke mindre enn 3 m ved enhver posisjon langs ytterkledningen, i forbindelse med en inntrenging innenbords på 0,1*B*, men ikke mindre enn 0,75 m målt innenbords fra skipssiden, i rette vinkler til senterlinjen på nivået for største oppdelingsdypgående
+- .3 ved transport av mindre enn 400 personer skal skadelengden forutsettes ved enhver posisjon langs ytterkledningen mellom vanntette tverrskipsskott, forutsatt at avstanden mellom to tilstøtende vanntette tverrskipsskott ikke er mindre enn den antatte skadelengden. Når avstanden mellom tilstøtende vanntette tverrskipsskott er mindre enn den antatte skadelengden, skal bare ett av disse skottene anses å være effektivt når det gjelder påvisning av samsvar med nr. 2
+- .4 ved transport av 36 personer skal det forutsettes en skadelengde på 0,015 *L*, men ikke mindre enn 3 m, i forbindelse med en inntrenging innenbords på 0,05 *B*, men ikke mindre enn 0,75 m, og
+- .5 ved transport av mer enn 36, men mindre enn 400 personer skal verdiene for skadelengde og inntrenging innenbords som brukes til å bestemme antatt skadeutstrekning, oppnås ved lineær interpolasjon mellom verdiene for skadelengde og inntrenging som gjelder skip som fører 36 personer og 400 personer, som angitt i nr. .4 og .2.
 
 ### Regel 8-1 Systemytelse etter en fyllingsulykke på passasjerskip
 
@@ -1318,7 +1834,12 @@ Et passasjerskip skal være utformet slik at systemene spesifisert i regel II-2/
 
 3.1
 
-For å gi driftsinformasjon til skipsfører for trygg retur til havn etter en fyllingsulykke, skal passasjerskip, som angitt i nr. 1, ha:.1 stabilitetsdatamaskin om bord, eller.2 landbasert støttebasert på retningslinjer utarbeidet av organisasjonen38.
+For å gi driftsinformasjon til skipsfører for trygg retur til havn etter en fyllingsulykke, skal passasjerskip, som angitt i nr. 1, ha:
+
+- .1 stabilitetsdatamaskin om bord, eller
+- .2 landbasert støtte
+
+basert på retningslinjer utarbeidet av organisasjonen38.
 
 3.2
 
@@ -1339,7 +1860,9 @@ En dobbeltbunn skal monteres fra kollisjonsskottet til hylseskottet, så langt d
 
 2
 
-Der det kreves en dobbeltbunn, skal den indre bunnen forlenges ut til skipssidene på en slik måte at den beskytter skipsbunnen til slagene. Denne beskyttelsen vil bli ansett som tilfredsstillende når den indre bunnen ikke på noe sted kommer under et nivå parallelt med kjøllinjen, og som er plassert ikke mindre enn en vertikal avstand h målt fra kjøllinjen, som beregnet ved formelen:*h* = *B*/20
+Der det kreves en dobbeltbunn, skal den indre bunnen forlenges ut til skipssidene på en slik måte at den beskytter skipsbunnen til slagene. Denne beskyttelsen vil bli ansett som tilfredsstillende når den indre bunnen ikke på noe sted kommer under et nivå parallelt med kjøllinjen, og som er plassert ikke mindre enn en vertikal avstand h målt fra kjøllinjen, som beregnet ved formelen:
+
+- *h* = *B*/20
 
 Ikke i noe tilfelle skal verdien av h imidlertid være mindre enn 760 mm, og den trenger ikke forutsettes å være mer enn 2000 mm.
 
@@ -1377,7 +1900,17 @@ Ved uvanlige bunninnretninger i et lasteskip med lengde 80 m eller mer eller et 
 
 8
 
-Samsvar med nr. 3.1, 3.2.1, 6 eller 7 skal oppnås ved å påvise at *si*, når den beregnes i samsvar med regel 7-2, ikke er mindre enn 1 under alle fartsforhold ved en skade på bunnen med en utstrekning som angitt i nr. .2 nedenfor, for hvilken som helst posisjon i den berørte delen av skipet:.1 Fylling av slike rom skal ikke sette ut av funksjon nødkraft og nødbelysning, internt samband, signaler eller annet nødutstyr i andre deler av skipet..2 Den antatte utstrekning av skade skal være følgende:*For 0,3 L fra skipets forre perpendikulærlinje**Enhver annen del av skipet**Langskips utstrekning*1/3 *L**2/3* eller 14,5 m, med anvendelse av den minste verdien1/3 *L**2/3* eller 14,5 m, med anvendelse av den minste verdien*Tverrskips utstrekning**B*/6 eller 10 m, med anvendelse av den minste verdien*B*/6 eller 5 m, med anvendelse av den minste verdien*Vertikal utstrekning, målt fra kjøllinjen**B*/20, må ikke regnes mindre enn 0,76 m og ikke mer enn 2 m*B*/20, må ikke regnes mindre enn 0,76 m og ikke mer enn 2 m.3 Når skade av mindre utstrekning enn den største skaden fastsatt i nr. .2 ville føre til en alvorligere tilstand, skal slik skade tas i betraktning.
+Samsvar med nr. 3.1, 3.2.1, 6 eller 7 skal oppnås ved å påvise at *si*, når den beregnes i samsvar med regel 7-2, ikke er mindre enn 1 under alle fartsforhold ved en skade på bunnen med en utstrekning som angitt i nr. .2 nedenfor, for hvilken som helst posisjon i den berørte delen av skipet:
+
+- .1 Fylling av slike rom skal ikke sette ut av funksjon nødkraft og nødbelysning, internt samband, signaler eller annet nødutstyr i andre deler av skipet.
+- .2 Den antatte utstrekning av skade skal være følgende:
+
+  |  | *For 0,3 L fra skipets forre perpendikulærlinje* | *Enhver annen del av skipet* |
+  | --- | --- | --- |
+  | *Langskips utstrekning* | 1/3 *L**2/3* eller 14,5 m, med anvendelse av den minste verdien | 1/3 *L**2/3* eller 14,5 m, med anvendelse av den minste verdien |
+  | *Tverrskips utstrekning* | *B*/6 eller 10 m, med anvendelse av den minste verdien | *B*/6 eller 5 m, med anvendelse av den minste verdien |
+  | *Vertikal utstrekning, målt fra kjøllinjen* | *B*/20, må ikke regnes mindre enn 0,76 m og ikke mer enn 2 m | *B*/20, må ikke regnes mindre enn 0,76 m og ikke mer enn 2 m |
+- .3 Når skade av mindre utstrekning enn den største skaden fastsatt i nr. .2 ville føre til en alvorligere tilstand, skal slik skade tas i betraktning.
 
 9
 
@@ -1423,7 +1956,13 @@ Skipet skal utformes slik at *si*, når den beregnes i samsvar med regel 7-2, ik
 
 3
 
-Når en del av skipet under vannlinjen stikker fram foran forre perpendikulær, f.eks. en kulebaug, skal avstandene fastsatt i nr. 1, måles fra et punkt enten:.1 ved midtlengden for en slik forlengelse.2 ved en avstand 0,015 *L* foran forre perpendikulær, eller.3 ved en avstand 3 m foran forre perpendikulærmed anvendelse av den minste verdien.
+Når en del av skipet under vannlinjen stikker fram foran forre perpendikulær, f.eks. en kulebaug, skal avstandene fastsatt i nr. 1, måles fra et punkt enten:
+
+- .1 ved midtlengden for en slik forlengelse
+- .2 ved en avstand 0,015 *L* foran forre perpendikulær, eller
+- .3 ved en avstand 3 m foran forre perpendikulær
+
+med anvendelse av den minste verdien.
 
 4
 
@@ -1507,7 +2046,18 @@ Betjeningsinnretninger for vanntette dører, herunder hydrauliske rør og elektr
 
 6.1
 
-Alle maskinelt betjente vanntette skyvedører skal.1 beveges vertikalt eller horisontalt.2 med forbehold for nr. 9, være normalt begrenset til en største fri bredde på 1,2 m. Administrasjonen kan tillate bredere dører bare i den grad som anses nødvendig for effektiv drift av skipet, forutsatt at det tas hensyn til andre sikkerhetstiltak, herunder følgende:.1 det skal legges særlig vekt på dørens styrke og dens lukkeinnretninger for å hindre lekkasje, og.2 døren skal være plassert utenfor skadesone B/5.3 være utstyrt med nødvendig utstyr for åpning og lukking av døren med elektrisk kraft, hydraulisk kraft eller en annen form for kraft som administrasjonen kan godta.4 være utstyrt med en individuell mekanisme for manuell betjening. Det skal være mulig å åpne og lukke døren for hånd ved selve døren fra begge sider, og i tillegg stenge døren fra et tilgjengelig sted over skottdekket med en hel omdreibar veivbevegelse eller med annen bevegelse som gir samme garanti for sikkerheten og kan godtas av administrasjonen. Omdreiningsretningen eller annen bevegelse skal være tydelig avmerket på alle betjeningssteder. Ved manuell betjening skal tiden som er nødvendig for fullstendig lukking av døren med skipet på rett kjøl, ikke overstige 90 sekunder. Visuelle indikatorer som viser om døren er åpen eller lukket, skal være plassert på et tilgjengelig sted over skottdekket.5 være utstyrt med betjeningsinnretninger for maskinell åpning og lukking av døren fra begge sider, og også for maskinell lukking av døren fra sentrale betjeningspanel på kommandobroen i henhold til nr. 7.1.6 være utstyrt med et lydsignal som skiller seg fra andre alarmer i området, som aktiveres når døren lukkes maskinelt med fjernbetjening, og som skal høres i minst 5 sekunder, men høyst 10 sekunder før døren begynner å bevege seg, og skal fortsette til døren er helt lukket. Ved manuell fjernbetjening er det tilstrekkelig at lydalarmen høres bare når døren beveger seg. I tillegg kan administrasjonen kreve at lydalarmen i passasjerområder og områder med høyt støynivå skal suppleres med et blinkende lyssignal ved døren, og.7 ha en tilnærmet jevn lukkingshastighet ved maskinell betjening. Lukkingstiden, regnet fra tidspunktet når døren begynner å bevege seg til den er helt lukket, skal ikke i noe tilfelle være mindre enn 20 sekunder eller mer enn 40 sekunder med skipet på rett kjøl.
+Alle maskinelt betjente vanntette skyvedører skal
+
+- .1 beveges vertikalt eller horisontalt
+- .2 med forbehold for nr. 9, være normalt begrenset til en største fri bredde på 1,2 m. Administrasjonen kan tillate bredere dører bare i den grad som anses nødvendig for effektiv drift av skipet, forutsatt at det tas hensyn til andre sikkerhetstiltak, herunder følgende:
+
+  - .1 det skal legges særlig vekt på dørens styrke og dens lukkeinnretninger for å hindre lekkasje, og
+  - .2 døren skal være plassert utenfor skadesone B/5
+- .3 være utstyrt med nødvendig utstyr for åpning og lukking av døren med elektrisk kraft, hydraulisk kraft eller en annen form for kraft som administrasjonen kan godta
+- .4 være utstyrt med en individuell mekanisme for manuell betjening. Det skal være mulig å åpne og lukke døren for hånd ved selve døren fra begge sider, og i tillegg stenge døren fra et tilgjengelig sted over skottdekket med en hel omdreibar veivbevegelse eller med annen bevegelse som gir samme garanti for sikkerheten og kan godtas av administrasjonen. Omdreiningsretningen eller annen bevegelse skal være tydelig avmerket på alle betjeningssteder. Ved manuell betjening skal tiden som er nødvendig for fullstendig lukking av døren med skipet på rett kjøl, ikke overstige 90 sekunder. Visuelle indikatorer som viser om døren er åpen eller lukket, skal være plassert på et tilgjengelig sted over skottdekket
+- .5 være utstyrt med betjeningsinnretninger for maskinell åpning og lukking av døren fra begge sider, og også for maskinell lukking av døren fra sentrale betjeningspanel på kommandobroen i henhold til nr. 7.1
+- .6 være utstyrt med et lydsignal som skiller seg fra andre alarmer i området, som aktiveres når døren lukkes maskinelt med fjernbetjening, og som skal høres i minst 5 sekunder, men høyst 10 sekunder før døren begynner å bevege seg, og skal fortsette til døren er helt lukket. Ved manuell fjernbetjening er det tilstrekkelig at lydalarmen høres bare når døren beveger seg. I tillegg kan administrasjonen kreve at lydalarmen i passasjerområder og områder med høyt støynivå skal suppleres med et blinkende lyssignal ved døren, og
+- .7 ha en tilnærmet jevn lukkingshastighet ved maskinell betjening. Lukkingstiden, regnet fra tidspunktet når døren begynner å bevege seg til den er helt lukket, skal ikke i noe tilfelle være mindre enn 20 sekunder eller mer enn 40 sekunder med skipet på rett kjøl.
 
 6.2
 
@@ -1515,7 +2065,11 @@ Den elektriske kraften som er nødvendig for maskinelt betjente vanntette skyved
 
 6.3
 
-Maskinelt betjente vanntette skyvedører skal ha enten.1 et sentralisert hydraulisk system med to uavhengige energikilder som hver består av en motor og en pumpe som er i stand til å lukke alle dører samtidig. I tillegg skal det for hele anlegget være hydrauliske trykktanker med tilstrekkelig kapasitet til å betjene alle dørene minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader. Denne betjeningssyklusen skal kunne utføres når trykktanken er på pumpens innkoplingstrykk. Væsken som brukes, skal velges under hensyn til temperaturen som anlegget vil kunne bli utsatt for under fart. Systemet for maskinell betjening skal være utformet for å minimere faren for at en enkeltfeil i det hydrauliske rørsystemet setter betjeningen av mer enn én dør ut av funksjon. Det hydrauliske systemet skal være utstyrt med en lavnivåalarm for tanker med hydrauliske væsker til systemet for maskinell betjening og en alarm for lavt gasstrykk eller annet effektivt middel til overvåking av tap av lagret energi i hydrauliske trykktanker. Disse alarmene skal være akustiske og optiske og skal være plassert på sentrale betjeningspanel som fastsatt i nr. 7.1, eller.2 et uavhengig hydraulisk system for hver dør med hver energikilde bestående av en motor og en pumpe som kan åpne og lukke døren. I tillegg skal det være en hydraulisk trykktank med tilstrekkelig kapasitet til å betjene døren minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader. Denne betjeningssyklusen skal kunne utføres når trykktanken er på pumpens innkoplingstrykk. Væsken som brukes, skal velges under hensyn til temperaturen som anlegget vil kunne bli utsatt for under fart. En gruppealarm for lavt gasstrykk eller annet effektivt middel til overvåking av tap av lagret energi i hydrauliske trykktanker skal finnes på sentrale betjeningspanel som fastsatt i nr. 7.1. Det skal også finnes en indikator for tap av lagret energi på hvert lokale betjeningssted, eller.3 et uavhengig elektrisk system og motor for hver dør der hver energikilde består av en motor som kan åpne og lukke døren. Energikilden skal kunne få strøm automatisk fra overgangskilden for elektrisk nødkraft, som fastsatt i regel 42.4.2, i tilfelle svikt i elektrisk hoved- eller nødkraftkilde og ha tilstrekkelig kapasitet til å betjene døren minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader.
+Maskinelt betjente vanntette skyvedører skal ha enten
+
+- .1 et sentralisert hydraulisk system med to uavhengige energikilder som hver består av en motor og en pumpe som er i stand til å lukke alle dører samtidig. I tillegg skal det for hele anlegget være hydrauliske trykktanker med tilstrekkelig kapasitet til å betjene alle dørene minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader. Denne betjeningssyklusen skal kunne utføres når trykktanken er på pumpens innkoplingstrykk. Væsken som brukes, skal velges under hensyn til temperaturen som anlegget vil kunne bli utsatt for under fart. Systemet for maskinell betjening skal være utformet for å minimere faren for at en enkeltfeil i det hydrauliske rørsystemet setter betjeningen av mer enn én dør ut av funksjon. Det hydrauliske systemet skal være utstyrt med en lavnivåalarm for tanker med hydrauliske væsker til systemet for maskinell betjening og en alarm for lavt gasstrykk eller annet effektivt middel til overvåking av tap av lagret energi i hydrauliske trykktanker. Disse alarmene skal være akustiske og optiske og skal være plassert på sentrale betjeningspanel som fastsatt i nr. 7.1, eller
+- .2 et uavhengig hydraulisk system for hver dør med hver energikilde bestående av en motor og en pumpe som kan åpne og lukke døren. I tillegg skal det være en hydraulisk trykktank med tilstrekkelig kapasitet til å betjene døren minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader. Denne betjeningssyklusen skal kunne utføres når trykktanken er på pumpens innkoplingstrykk. Væsken som brukes, skal velges under hensyn til temperaturen som anlegget vil kunne bli utsatt for under fart. En gruppealarm for lavt gasstrykk eller annet effektivt middel til overvåking av tap av lagret energi i hydrauliske trykktanker skal finnes på sentrale betjeningspanel som fastsatt i nr. 7.1. Det skal også finnes en indikator for tap av lagret energi på hvert lokale betjeningssted, eller
+- .3 et uavhengig elektrisk system og motor for hver dør der hver energikilde består av en motor som kan åpne og lukke døren. Energikilden skal kunne få strøm automatisk fra overgangskilden for elektrisk nødkraft, som fastsatt i regel 42.4.2, i tilfelle svikt i elektrisk hoved- eller nødkraftkilde og ha tilstrekkelig kapasitet til å betjene døren minst tre ganger, dvs. lukket-åpen-lukket, mot en krengning på 15 grader.
 
 Systemene spesifisert i nr. 6.3.1, 6.3.2 og 6.3.3 bør oppfylle følgende krav: Kraftsystemene til maskinelt betjente vanntette skyvedører skal være atskilt fra andre kraftsystemer. En enkeltfeil i de elektriske eller hydrauliske maskinelt betjente systemene, med unntak av den hydrauliske aktuatoren, skal ikke hindre manuell betjening av noen dør.
 
@@ -1879,7 +2433,16 @@ Scenarioer for skadekontrolløvelser skal variere slik at nødssituasjoner simul
 
 4
 
-Hver skadekontrolløvelse skal omfatte.1 for besetningsmedlemmer med ansvar for skadekontroll, rapportering til stasjonene og forberedelse av oppgavene beskrevet i alarminstruksen som er påbudt etter regel III/8.2 bruk av skadekontrollinformasjon og en ev. stabilitetscomputer om bord for å utføre stabilitetsvurderinger for de simulerte skadeforholdene.3 etablering av en kommunikasjonsforbindelse mellom skipet og landbasert støtte, dersom slik støtte finnes.4 betjening av vanntette dører og andre vanntette lukninger.5 demonstrasjon av ferdigheter i bruk av eventuelle fyllingsdeteksjonssystemer i samsvar med plikter oppført i alarminstruksen.6 demonstrasjon av ferdigheter i bruk av eventuelle systemer for kryssfylling og utligning i samsvar med plikter oppført i alarminstruksen.7 funksjonstest av lensepumper og kontroll av lensealarmer og automatiske startsystemer for lensepumper.8 instruksjon i skadeinspeksjon og bruk av skipets skadekontrollsystemer.
+Hver skadekontrolløvelse skal omfatte
+
+- .1 for besetningsmedlemmer med ansvar for skadekontroll, rapportering til stasjonene og forberedelse av oppgavene beskrevet i alarminstruksen som er påbudt etter regel III/8
+- .2 bruk av skadekontrollinformasjon og en ev. stabilitetscomputer om bord for å utføre stabilitetsvurderinger for de simulerte skadeforholdene
+- .3 etablering av en kommunikasjonsforbindelse mellom skipet og landbasert støtte, dersom slik støtte finnes
+- .4 betjening av vanntette dører og andre vanntette lukninger
+- .5 demonstrasjon av ferdigheter i bruk av eventuelle fyllingsdeteksjonssystemer i samsvar med plikter oppført i alarminstruksen
+- .6 demonstrasjon av ferdigheter i bruk av eventuelle systemer for kryssfylling og utligning i samsvar med plikter oppført i alarminstruksen
+- .7 funksjonstest av lensepumper og kontroll av lensealarmer og automatiske startsystemer for lensepumper
+- .8 instruksjon i skadeinspeksjon og bruk av skipets skadekontrollsystemer.
 
 5
 
@@ -1957,7 +2520,12 @@ For skip bygget 1. januar 2024 eller senere skal landgangs-, laste- og drivstoff
 
 8
 
-Følgende dører, som er plassert over skottdekket på passasjerskip og fribordsdekket på lasteskip, skal lukkes og låses før reisen begynner, og holdes lukket og låst til skipet er ved neste kaiplass:.1 lastedører i siden eller i ytterkledningen til lukkede overbygninger.2 baugporter montert på steder som angitt i nr. 8.1.3 lastedører i kollisjonsskottet.4 ramper som danner et annet lukkesystem enn de som er definert i nr. 8.1 til og med nr. 8.3.
+Følgende dører, som er plassert over skottdekket på passasjerskip og fribordsdekket på lasteskip, skal lukkes og låses før reisen begynner, og holdes lukket og låst til skipet er ved neste kaiplass:
+
+- .1 lastedører i siden eller i ytterkledningen til lukkede overbygninger
+- .2 baugporter montert på steder som angitt i nr. 8.1
+- .3 lastedører i kollisjonsskottet
+- .4 ramper som danner et annet lukkesystem enn de som er definert i nr. 8.1 til og med nr. 8.3.
 
 9
 
@@ -1981,7 +2549,10 @@ Dører på hengsler, flyttbare plater, lysventiler, landgangs-, laste- og bunkri
 
 14
 
-Når lysventilene nevnt i regel 15 nr. 3.2 i et mellomdekk har nederste kant under en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og har sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannet når reisen begynner, skal alle lysventiler i dette mellomdekket være vanntett lukket og låst før reisen begynner, og de skal ikke åpnes før skipet kommer til neste havn. Ved anvendelse av dette nummeret kan det tas hensyn til at skipet er i ferskvann der dette er aktuelt..1 Tidspunktet for åpning og lukking av slike lysventiler i havn og for lukking og låsing av dem før reisen begynner, skal innføres i skipsdagboken, som foreskrevet av administrasjonen..2 For ethvert skip som har én eller flere lysventiler som er slik plassert at kravene i nr. 14 får anvendelse når skipet ligger ved største oppdelingsdypgående, kan administrasjonen angi grensen for middeldypgående der disse lysventilene vil ha nederste kant over en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannlinjen som tilsvarer grensen for middeldypgående, og det vil derfor være tillatt å begynne reisen uten at de er lukket og låst, og å åpne dem under fart under skipsførerens ansvar. I tropiske soner som definert i Den internasjonale konvensjon om lastelinjer, 1966, kan denne grenseverdien for dypgående økes med 0,3 m.
+Når lysventilene nevnt i regel 15 nr. 3.2 i et mellomdekk har nederste kant under en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og har sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannet når reisen begynner, skal alle lysventiler i dette mellomdekket være vanntett lukket og låst før reisen begynner, og de skal ikke åpnes før skipet kommer til neste havn. Ved anvendelse av dette nummeret kan det tas hensyn til at skipet er i ferskvann der dette er aktuelt.
+
+- .1 Tidspunktet for åpning og lukking av slike lysventiler i havn og for lukking og låsing av dem før reisen begynner, skal innføres i skipsdagboken, som foreskrevet av administrasjonen.
+- .2 For ethvert skip som har én eller flere lysventiler som er slik plassert at kravene i nr. 14 får anvendelse når skipet ligger ved største oppdelingsdypgående, kan administrasjonen angi grensen for middeldypgående der disse lysventilene vil ha nederste kant over en linje trukket parallelt med skottdekket i borde på passasjerskip og fribordsdekket i borde på lasteskip og sitt laveste punkt 1,4 m pluss 2,5 % av skipets bredde over vannlinjen som tilsvarer grensen for middeldypgående, og det vil derfor være tillatt å begynne reisen uten at de er lukket og låst, og å åpne dem under fart under skipsførerens ansvar. I tropiske soner som definert i Den internasjonale konvensjon om lastelinjer, 1966, kan denne grenseverdien for dypgående økes med 0,3 m.
 
 15
 
@@ -2067,7 +2638,10 @@ Skip med lengde (L) under 80 m, eller 100 m når skipet er bygget før 1. juli 1
 
 3
 
-Vannstandsdetektorene fastsatt ved nr. 2, skal.1 utløse en lyd- og lysalarm på kommandobroen når vannstanden over lasterommets innvendige bunn når en høyde på minst 0,3 m, og enda en alarm når vannstanden når høyst 15 % av lasterommets middeldybde, og.2 være montert i akterenden av lasterommet eller over rommets laveste del der den innvendige bunnen ikke er parallell med konstruksjonsvannlinjen. Når det er montert platespant eller vanntette partielle skott over den innvendige bunnen, kan administrasjonen kreve at det monteres flere detektorer.
+Vannstandsdetektorene fastsatt ved nr. 2, skal
+
+- .1 utløse en lyd- og lysalarm på kommandobroen når vannstanden over lasterommets innvendige bunn når en høyde på minst 0,3 m, og enda en alarm når vannstanden når høyst 15 % av lasterommets middeldybde, og
+- .2 være montert i akterenden av lasterommet eller over rommets laveste del der den innvendige bunnen ikke er parallell med konstruksjonsvannlinjen. Når det er montert platespant eller vanntette partielle skott over den innvendige bunnen, kan administrasjonen kreve at det monteres flere detektorer.
 
 4
 
@@ -2083,11 +2657,17 @@ Lasteskip bygget 1. januar 2024 eller senere som har flere lasterom og ikke er b
 
 2
 
-Vannstandsdetektorene som kreves i nr. 1, skal.1 utløse lyd- og lysalarmer på kommandobroen når vannstanden over lasterommets bunn når en høyde på minst 0,3 m, og en ny alarm ved en høyde på minst 15 % av lasterommets dybde, men ikke over 2 m, og.2 være montert i akterenden av lasterommene. For lasterom som av og til brukes til vannballast, kan det installeres en innretning som overstyrer alarmen. Lysalarmene skal skille klart mellom de to ulike vannhøydene som registreres i hvert lasterom.
+Vannstandsdetektorene som kreves i nr. 1, skal
+
+- .1 utløse lyd- og lysalarmer på kommandobroen når vannstanden over lasterommets bunn når en høyde på minst 0,3 m, og en ny alarm ved en høyde på minst 15 % av lasterommets dybde, men ikke over 2 m, og
+- .2 være montert i akterenden av lasterommene. For lasterom som av og til brukes til vannballast, kan det installeres en innretning som overstyrer alarmen. Lysalarmene skal skille klart mellom de to ulike vannhøydene som registreres i hvert lasterom.
 
 3
 
-Som et alternativ til vannstandsdetektoren i en høyde på minst 0,3 m som nevnt i nr. 2.1, kan en lensenivåsensor som betjener lensepumpearrangementene som kreves i henhold til regel 35-1 og installeres i lensebrønnene for lasterom eller et annet egnet sted, godtas forutsatt at.1 lensenivåsensoren er montert i en høyde på minst 0,3 m i akterenden av lasterommet, og.2 lensenivåsensoren utløser en lyd- og lysalarm på kommandobroen som skiller seg tydelig fra alarmen som utløses av den andre vannstandsdetektoren som er montert i lasterommet.
+Som et alternativ til vannstandsdetektoren i en høyde på minst 0,3 m som nevnt i nr. 2.1, kan en lensenivåsensor som betjener lensepumpearrangementene som kreves i henhold til regel 35-1 og installeres i lensebrønnene for lasterom eller et annet egnet sted, godtas forutsatt at
+
+- .1 lensenivåsensoren er montert i en høyde på minst 0,3 m i akterenden av lasterommet, og
+- .2 lensenivåsensoren utløser en lyd- og lysalarm på kommandobroen som skiller seg tydelig fra alarmen som utløses av den andre vannstandsdetektoren som er montert i lasterommet.
 
 ### Del C
 Maskinerianlegg
@@ -2106,7 +2686,18 @@ Administrasjonen skal ta særlig hensyn til påliteligheten for enkelte viktige 
 
 3
 
-Det skal finnes muligheter til å opprettholde eller gjenoppta normal drift av framdriftsmaskineriet selv om én av de essensielle hjelpesystemene er ute av funksjon. Det skal tas særlig hensyn til funksjonsfeil i.1 et generatorsett som fungerer som hovedkilde til elektrisk kraft.2 kildene til damptilførsel.3 systemene for fødevann.4 systemer for tilførsel av brennolje til kjeler eller maskiner47.5 kildene til smøreoljetrykk.6 kildene til vanntrykk.7 en kondensatpumpe og arrangementene for å opprettholde vakuum i kondensatorer.8 den mekaniske lufttilførselen til kjeler.9 en luftkompressor og lufttank til starting og kontroll.10 hydrauliske, pneumatiske eller elektriske midler for kontroll av hovedframdriftsmaskineri, herunder propeller med vridbar stigning.
+Det skal finnes muligheter til å opprettholde eller gjenoppta normal drift av framdriftsmaskineriet selv om én av de essensielle hjelpesystemene er ute av funksjon. Det skal tas særlig hensyn til funksjonsfeil i
+
+- .1 et generatorsett som fungerer som hovedkilde til elektrisk kraft
+- .2 kildene til damptilførsel
+- .3 systemene for fødevann
+- .4 systemer for tilførsel av brennolje til kjeler eller maskiner47
+- .5 kildene til smøreoljetrykk
+- .6 kildene til vanntrykk
+- .7 en kondensatpumpe og arrangementene for å opprettholde vakuum i kondensatorer
+- .8 den mekaniske lufttilførselen til kjeler
+- .9 en luftkompressor og lufttank til starting og kontroll
+- .10 hydrauliske, pneumatiske eller elektriske midler for kontroll av hovedframdriftsmaskineri, herunder propeller med vridbar stigning.
 
 Administrasjonen kan imidlertid, idet den tar hensyn til sikkerheten i alminnelighet, godta en delvis reduksjon av framdriftsevnen fra normal drift.
 
@@ -2210,21 +2801,45 @@ Sikkerhetsventilene skal monteres på en del av det hydrauliske systemet som kan
 
 3
 
-Hovedstyremaskinen og rorstammen skal.1 ha tilstrekkelig styrke og være i stand til å styre skipet ved største vanlige fart forover, som skal påvises.2 være i stand til å legge roret over fra 35° på den ene siden til 35° på den andre siden når skipet har sitt største dypgående og går i største vanlige fart forover og, under de samme forholdene, fra 35° på en av sidene til 30° på den andre siden i løpet av ikke mer enn 28 sekunder
-når det er upraktisk å påvise samsvar med dette kravet under sjøprøver når skipet har sitt største dypgående og går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, kan skip uavhengig av byggedato påvise samsvar med dette kravet ved én av følgende metoder:.1 under sjøprøver med skipet på rett kjøl og roret fullstendig neddykket, og skipet går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, eller.2 når fullstendig neddykking av roret ikke kan oppnås under sjøprøver, skal en egnet fart forover beregnes ved å bruke det neddykkede rorbladområdet i den foreslåtte lastetilstanden for sjøprøven. Den beregnede farten forover skal resultere i at det utøves en kraft og et dreiemoment på hovedstyremaskinen, som er minst like stor som om skipet ble testet når skipet har sitt største dypgående og går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, eller.3 rorkraften og dreiemomentet ved sjøprøvens lastetilstand har blitt beregnet på en pålitelig måte og ekstrapolert til full lastetilstand. Skipets fart skal tilsvare hovedmotorens maksimale kontinuerlige turtall og propellens maksimale konstruksjonsstigning.3 være maskindrevet der dette er nødvendig for å oppfylle kravene i nr. 3.2 og i alle tilfeller når administrasjonen krever en rorstamme på mer enn 120 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann, og.4 være slik utformet at de ikke vil bli skadet ved største fart akterover, men dette utformingskravet trenger ikke å godtgjøres ved prøving ved største fart akterover og største rorvinkel.
+Hovedstyremaskinen og rorstammen skal
+
+- .1 ha tilstrekkelig styrke og være i stand til å styre skipet ved største vanlige fart forover, som skal påvises
+- .2 være i stand til å legge roret over fra 35° på den ene siden til 35° på den andre siden når skipet har sitt største dypgående og går i største vanlige fart forover og, under de samme forholdene, fra 35° på en av sidene til 30° på den andre siden i løpet av ikke mer enn 28 sekunder
+  når det er upraktisk å påvise samsvar med dette kravet under sjøprøver når skipet har sitt største dypgående og går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, kan skip uavhengig av byggedato påvise samsvar med dette kravet ved én av følgende metoder:
+
+  - .1 under sjøprøver med skipet på rett kjøl og roret fullstendig neddykket, og skipet går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, eller
+  - .2 når fullstendig neddykking av roret ikke kan oppnås under sjøprøver, skal en egnet fart forover beregnes ved å bruke det neddykkede rorbladområdet i den foreslåtte lastetilstanden for sjøprøven. Den beregnede farten forover skal resultere i at det utøves en kraft og et dreiemoment på hovedstyremaskinen, som er minst like stor som om skipet ble testet når skipet har sitt største dypgående og går forover i den farten som tilsvarer hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning, eller
+  - .3 rorkraften og dreiemomentet ved sjøprøvens lastetilstand har blitt beregnet på en pålitelig måte og ekstrapolert til full lastetilstand. Skipets fart skal tilsvare hovedmotorens maksimale kontinuerlige turtall og propellens maksimale konstruksjonsstigning
+- .3 være maskindrevet der dette er nødvendig for å oppfylle kravene i nr. 3.2 og i alle tilfeller når administrasjonen krever en rorstamme på mer enn 120 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann, og
+- .4 være slik utformet at de ikke vil bli skadet ved største fart akterover, men dette utformingskravet trenger ikke å godtgjøres ved prøving ved største fart akterover og største rorvinkel.
 
 4
 
-Reservestyremaskinen skal.1 ha tilstrekkelig styrke og være i stand til å styre skipet ved manøvreringsfart og kunne settes hurtig i bruk i en nødssituasjon.2 være i stand til å legge roret over fra 15° på den ene siden til 15° på den andre siden i løpet av ikke mer enn 60 sekunder når skipet har sitt største dypgående og er i halv vanlig fart forover eller 7 knop, hvis dette er mer
-når det er upraktisk å påvise samsvar med dette kravet under sjøprøver når skipet har sitt største dypgående og går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, kan skip uavhengig av byggedato, inkludert skip bygget før 1. januar 2009, påvise samsvar med dette kravet ved én av følgende metoder:.1 under sjøprøver med skipet på rett kjøl og roret fullstendig neddykket, og skipet går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, eller.2 når fullstendig neddykking av roret ikke kan oppnås under sjøprøver, skal en egnet fart forover beregnes ved å bruke det neddykkede rorbladområdet i den foreslåtte lastetilstanden for sjøprøven. Den beregnede farten forover skal resultere i at det utøves en kraft og et dreiemoment på hjelpestyremaskinen, som er minst like stor som om skipet ble testet når skipet har sitt største dypgående og går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, eller.3 rorkraften og dreiemomentet ved sjøprøvens lastetilstand har blitt beregnet på en pålitelig måte og ekstrapolert til full lastetilstand, og.3 være maskindrevet der dette er nødvendig for å oppfylle kravene i nr. 4.2 og i alle tilfeller når administrasjonen krever en rorstamme på mer enn 230 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann.
+Reservestyremaskinen skal
+
+- .1 ha tilstrekkelig styrke og være i stand til å styre skipet ved manøvreringsfart og kunne settes hurtig i bruk i en nødssituasjon
+- .2 være i stand til å legge roret over fra 15° på den ene siden til 15° på den andre siden i løpet av ikke mer enn 60 sekunder når skipet har sitt største dypgående og er i halv vanlig fart forover eller 7 knop, hvis dette er mer
+  når det er upraktisk å påvise samsvar med dette kravet under sjøprøver når skipet har sitt største dypgående og går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, kan skip uavhengig av byggedato, inkludert skip bygget før 1. januar 2009, påvise samsvar med dette kravet ved én av følgende metoder:
+
+  - .1 under sjøprøver med skipet på rett kjøl og roret fullstendig neddykket, og skipet går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, eller
+  - .2 når fullstendig neddykking av roret ikke kan oppnås under sjøprøver, skal en egnet fart forover beregnes ved å bruke det neddykkede rorbladområdet i den foreslåtte lastetilstanden for sjøprøven. Den beregnede farten forover skal resultere i at det utøves en kraft og et dreiemoment på hjelpestyremaskinen, som er minst like stor som om skipet ble testet når skipet har sitt største dypgående og går forover i den farten som tilsvarer halvparten av hovedmotorens maksimale kontinuerlige turtall og maksimale konstruksjonsstigning eller 7 knop, avhengig av hva som er størst, eller
+  - .3 rorkraften og dreiemomentet ved sjøprøvens lastetilstand har blitt beregnet på en pålitelig måte og ekstrapolert til full lastetilstand, og
+- .3 være maskindrevet der dette er nødvendig for å oppfylle kravene i nr. 4.2 og i alle tilfeller når administrasjonen krever en rorstamme på mer enn 230 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann.
 
 5
 
-Hoved- og reservestyremaskinkraftenheter skal.1 være innrettet for automatisk oppstart når kraften kommer tilbake etter svikt i kraftforsyningen, og.2 kunne settes i gang fra et sted på kommandobroen. I tilfelle av svikt i kraftforsyningen til hvilken som helst av styremaskinkraftenhetene skal det gis en lyd- og lysalarm på kommandobroen.
+Hoved- og reservestyremaskinkraftenheter skal
+
+- .1 være innrettet for automatisk oppstart når kraften kommer tilbake etter svikt i kraftforsyningen, og
+- .2 kunne settes i gang fra et sted på kommandobroen. I tilfelle av svikt i kraftforsyningen til hvilken som helst av styremaskinkraftenhetene skal det gis en lyd- og lysalarm på kommandobroen.
 
 6.1
 
-Når hovedstyremaskinen omfatter to eller flere identiske kraftenheter, behøver det ikke være montert en reservestyremaskin, forutsatt at.1 hovedstyremaskinen i et passasjerskip er i stand til å bevege roret som fastsatt i nr. 3.2, med hvilken som helst av kraftenhetene ute av funksjon.2 hovedstyremaskinen i et lasteskip er i stand til å bevege roret som fastsatt i nr. 3.2, med alle kraftenhetene i funksjon.3 hovedstyremaskinen er slik innrettet at etter en enkeltfeil i rørsystemet eller i en av kraftenhetene, kan feilen isoleres slik at styreevnen kan opprettholdes eller raskt gjenvinnes.
+Når hovedstyremaskinen omfatter to eller flere identiske kraftenheter, behøver det ikke være montert en reservestyremaskin, forutsatt at
+
+- .1 hovedstyremaskinen i et passasjerskip er i stand til å bevege roret som fastsatt i nr. 3.2, med hvilken som helst av kraftenhetene ute av funksjon
+- .2 hovedstyremaskinen i et lasteskip er i stand til å bevege roret som fastsatt i nr. 3.2, med alle kraftenhetene i funksjon
+- .3 hovedstyremaskinen er slik innrettet at etter en enkeltfeil i rørsystemet eller i en av kraftenhetene, kan feilen isoleres slik at styreevnen kan opprettholdes eller raskt gjenvinnes.
 
 6.2
 
@@ -2236,11 +2851,21 @@ Styremaskiner, bortsett fra den hydrauliske typen, skal være i henhold til stan
 
 7
 
-Styremaskinkontroll skal finnes.1 for hovedstyremaskinen, både på kommandobroen og i styremaskinrommet.2 når hovedstyremaskinen er innrettet i samsvar med nr. 6, i form av to uavhengige kontrollsystemer som begge kan betjenes fra kommandobroen. Dette innebærer ikke krav om dobbelt styrehjul eller styrespak. Når kontrollsystemet består av en hydraulisk telemotor, behøver det ikke være montert et annet uavhengig system, unntatt i tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer.3 for reservestyremaskinen, i styremaskinrommet, og hvis den er maskindrevet, skal den også kunne betjenes fra kommandobroen og være uavhengig av kontrollsystemet for hovedstyremaskinen.
+Styremaskinkontroll skal finnes
+
+- .1 for hovedstyremaskinen, både på kommandobroen og i styremaskinrommet
+- .2 når hovedstyremaskinen er innrettet i samsvar med nr. 6, i form av to uavhengige kontrollsystemer som begge kan betjenes fra kommandobroen. Dette innebærer ikke krav om dobbelt styrehjul eller styrespak. Når kontrollsystemet består av en hydraulisk telemotor, behøver det ikke være montert et annet uavhengig system, unntatt i tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer
+- .3 for reservestyremaskinen, i styremaskinrommet, og hvis den er maskindrevet, skal den også kunne betjenes fra kommandobroen og være uavhengig av kontrollsystemet for hovedstyremaskinen.
 
 8
 
-Ethvert kontrollsystem for hoved- og reservestyremaskin som kan betjenes fra kommandobroen, skal oppfylle følgende krav:.1 når det er elektrisk, skal det betjenes av sin egen separate strømkrets som forsynes fra styremaskinens hovedstrømkrets fra et punkt inne i styremaskinrommet, eller direkte fra samleskinner på fordelingstavlen som forsyner denne hovedstrømkretsen for styremaskinen, fra et punkt på tavlen like ved forsyningen til hovedstrømkretsen for styremaskinen.2 det skal finnes midler i styremaskinrommet for frakopling av ethvert kontrollsystem som kan betjenes fra kommandobroen, fra den styremaskinen det betjener.3 systemet skal kunne settes i gang fra et sted på kommandobroen.4 i tilfelle av svikt i den elektriske kraftforsyningen til kontrollsystemet, skal det gis en lyd- og lysalarm på kommandobroen, og.5 det skal finnes bare kortslutningsvern for strømkretser som forsyner styremaskinens kontrollsystem.
+Ethvert kontrollsystem for hoved- og reservestyremaskin som kan betjenes fra kommandobroen, skal oppfylle følgende krav:
+
+- .1 når det er elektrisk, skal det betjenes av sin egen separate strømkrets som forsynes fra styremaskinens hovedstrømkrets fra et punkt inne i styremaskinrommet, eller direkte fra samleskinner på fordelingstavlen som forsyner denne hovedstrømkretsen for styremaskinen, fra et punkt på tavlen like ved forsyningen til hovedstrømkretsen for styremaskinen
+- .2 det skal finnes midler i styremaskinrommet for frakopling av ethvert kontrollsystem som kan betjenes fra kommandobroen, fra den styremaskinen det betjener
+- .3 systemet skal kunne settes i gang fra et sted på kommandobroen
+- .4 i tilfelle av svikt i den elektriske kraftforsyningen til kontrollsystemet, skal det gis en lyd- og lysalarm på kommandobroen, og
+- .5 det skal finnes bare kortslutningsvern for strømkretser som forsyner styremaskinens kontrollsystem.
 
 9
 
@@ -2252,15 +2877,25 @@ Det skal finnes et middel til samband mellom kommandobroen og styremaskinrommet.
 
 11
 
-Vinkelstillingen på roret skal.1 vises på kommandobroen når hovedstyremaskinen er maskindrevet. Visningen av rorvinkelen skal være uavhengig av kontrollsystemet for styremaskinen.2 kunne gjenkjennes i styremaskinrommet.
+Vinkelstillingen på roret skal
+
+- .1 vises på kommandobroen når hovedstyremaskinen er maskindrevet. Visningen av rorvinkelen skal være uavhengig av kontrollsystemet for styremaskinen
+- .2 kunne gjenkjennes i styremaskinrommet.
 
 12
 
-Hydraulisk maskindrevet styremaskin skal være utstyrt med følgende:.1 arrangementer for å holde den hydrauliske væsken ren, under hensyn til det hydrauliske systemets type og utforming.2 lavnivåalarm for hvert reservoar for hydraulisk væske for å gi tidligst mulig varsel om lekkasje av hydraulisk væske. Det skal gis en lyd- og lysalarm på kommandobroen og der den er lett å merke i maskinrommet, og.3 fast lagertank med tilstrekkelig kapasitet til å fylle på nytt minst én kraftoverføringsinnretning, medregnet reservoaret, der det kreves at styremaskinen er maskindrevet. Lagertanken skal være permanent tilkoplet med rørledninger på en slik måte at de hydrauliske systemene lett kan fylles på nytt fra et sted inne i styremaskinrommet, og skal være utstyrt med en måler som viser hvor mye den inneholder.
+Hydraulisk maskindrevet styremaskin skal være utstyrt med følgende:
+
+- .1 arrangementer for å holde den hydrauliske væsken ren, under hensyn til det hydrauliske systemets type og utforming
+- .2 lavnivåalarm for hvert reservoar for hydraulisk væske for å gi tidligst mulig varsel om lekkasje av hydraulisk væske. Det skal gis en lyd- og lysalarm på kommandobroen og der den er lett å merke i maskinrommet, og
+- .3 fast lagertank med tilstrekkelig kapasitet til å fylle på nytt minst én kraftoverføringsinnretning, medregnet reservoaret, der det kreves at styremaskinen er maskindrevet. Lagertanken skal være permanent tilkoplet med rørledninger på en slik måte at de hydrauliske systemene lett kan fylles på nytt fra et sted inne i styremaskinrommet, og skal være utstyrt med en måler som viser hvor mye den inneholder.
 
 13
 
-Styremaskinrommet skal være.1 lett tilgjengelig og, så langt det er praktisk mulig, atskilt fra maskinrom, og.2 utstyrt med hensiktsmessige arrangementer som sikrer arbeidsatkomst til styremaskinen og betjeningsinnretninger. Disse arrangementene skal omfatte rekkverk og rist eller andre sklisikre overflater for å sikre passende arbeidsforhold i tilfelle av lekkasje av hydraulisk væske.
+Styremaskinrommet skal være
+
+- .1 lett tilgjengelig og, så langt det er praktisk mulig, atskilt fra maskinrom, og
+- .2 utstyrt med hensiktsmessige arrangementer som sikrer arbeidsatkomst til styremaskinen og betjeningsinnretninger. Disse arrangementene skal omfatte rekkverk og rist eller andre sklisikre overflater for å sikre passende arbeidsforhold i tilfelle av lekkasje av hydraulisk væske.
 
 14
 
@@ -2272,11 +2907,21 @@ På alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 
 
 16
 
-Alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer skal, med forbehold om nr. 17, oppfylle følgende krav:.1 hovedstyremaskinen skal være slik innrettet at i tilfelle tap av styreevnen på grunn av en enkeltfeil i en hvilken som helst del av kraftoverføringsinnretningene til hovedstyremaskinen, unntatt rorpinnen, kvadranten eller komponenter som har samme formål, eller blokkering av drivmekanismene for ror, skal styreevnen gjenvinnes på høyst 45 sekunder etter tapet av én kraftoverføringsinnretning.2 hovedstyremaskinen skal inneholde enten.2.1 to uavhengige og egne kraftoverføringsinnretninger som hver er i stand til å oppfylle kravene i nr. 3.2, eller.2.2 minst to identiske kraftoverføringsinnretninger som fungerer samtidig ved normal drift, og som skal være i stand til å oppfylle kravene i nr. 3.2. Når det er nødvendig for å oppfylle dette kravet, skal de hydrauliske kraftoverføringsinnretningene være sammenkoplet. Tap av hydraulisk væske i én innretning skal kunne oppdages og innretningen med feil isoleres automatisk, slik at de(n) andre overføringsenheten(e) fortsatt er i full drift,.3 styremaskiner, unntatt hydrauliske styremaskiner, skal være i henhold til tilsvarende standarder.
+Alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer skal, med forbehold om nr. 17, oppfylle følgende krav:
+
+- .1 hovedstyremaskinen skal være slik innrettet at i tilfelle tap av styreevnen på grunn av en enkeltfeil i en hvilken som helst del av kraftoverføringsinnretningene til hovedstyremaskinen, unntatt rorpinnen, kvadranten eller komponenter som har samme formål, eller blokkering av drivmekanismene for ror, skal styreevnen gjenvinnes på høyst 45 sekunder etter tapet av én kraftoverføringsinnretning
+- .2 hovedstyremaskinen skal inneholde enten
+
+  - .2.1 to uavhengige og egne kraftoverføringsinnretninger som hver er i stand til å oppfylle kravene i nr. 3.2, eller
+  - .2.2 minst to identiske kraftoverføringsinnretninger som fungerer samtidig ved normal drift, og som skal være i stand til å oppfylle kravene i nr. 3.2. Når det er nødvendig for å oppfylle dette kravet, skal de hydrauliske kraftoverføringsinnretningene være sammenkoplet. Tap av hydraulisk væske i én innretning skal kunne oppdages og innretningen med feil isoleres automatisk, slik at de(n) andre overføringsenheten(e) fortsatt er i full drift,
+- .3 styremaskiner, unntatt hydrauliske styremaskiner, skal være i henhold til tilsvarende standarder.
 
 17
 
-For tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer, men med en dødvekt på mindre enn 100 000 tonn, kan andre løsninger enn de som er fastsatt i nr. 16, som ikke behøver å anvende enkeltfeilkriteriet på drivmekanismen(e) for ror, tillates, forutsatt at de er i henhold til en tilsvarende sikkerhetsstandard, og at.1 styreevnen gjenvinnes i løpet av 45 sekunder etter tap av styreevnen på grunn av en enkeltfeil i en hvilken som helst del av rørsystemet eller i en av kraftenhetene, og.2 det, når styremaskinen inneholder en enkelt drivmekanisme for ror, legges særlig vekt på spenningsanalyse for utformingen, herunder tretthetsanalyse og bruddmekanisk analyse, etter hva som er relevant, det anvendte materialet, installasjon av forseglingsarrangementer og prøving og inspeksjon samt gjennomføring av effektivt vedlikehold. Med hensyn til ovennevnte skal administrasjonen vedta regler som omfatter bestemmelsene i «Guidelines for Acceptance of Non-Duplicated Rudder Actuators for Tankers, Chemical Tankers and Gas Carriers of 10,000 Tons Gross Tonnage and Above but Less than 100,000 Tonnes Deadweight», vedtatt av organisasjonen.51
+For tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer, men med en dødvekt på mindre enn 100 000 tonn, kan andre løsninger enn de som er fastsatt i nr. 16, som ikke behøver å anvende enkeltfeilkriteriet på drivmekanismen(e) for ror, tillates, forutsatt at de er i henhold til en tilsvarende sikkerhetsstandard, og at
+
+- .1 styreevnen gjenvinnes i løpet av 45 sekunder etter tap av styreevnen på grunn av en enkeltfeil i en hvilken som helst del av rørsystemet eller i en av kraftenhetene, og
+- .2 det, når styremaskinen inneholder en enkelt drivmekanisme for ror, legges særlig vekt på spenningsanalyse for utformingen, herunder tretthetsanalyse og bruddmekanisk analyse, etter hva som er relevant, det anvendte materialet, installasjon av forseglingsarrangementer og prøving og inspeksjon samt gjennomføring av effektivt vedlikehold. Med hensyn til ovennevnte skal administrasjonen vedta regler som omfatter bestemmelsene i «Guidelines for Acceptance of Non-Duplicated Rudder Actuators for Tankers, Chemical Tankers and Gas Carriers of 10,000 Tons Gross Tonnage and Above but Less than 100,000 Tonnes Deadweight», vedtatt av organisasjonen.51
 
 18
 
@@ -2284,11 +2929,20 @@ For et tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 00
 
 19
 
-Alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer som er bygget før 1. september 1984, skal senest 1. september 1986 oppfylle følgende krav:.1 kravene i nr. 7.1, 8.2, 8.4, 10, 11, 12.2, 12.3 og 13.2.2 det skal finnes to uavhengige kontrollsystemer for styremaskin som kan betjenes fra kommandobroen. Dette innebærer ikke krav om dobbelt styrehjul eller styrespak.3 hvis det aktive kontrollsystemet for styremaskin svikter, skal det andre systemet være i stand til umiddelbart å settes i drift fra kommandobroen, og.4 når det er elektrisk, skal hvert kontrollsystem for styremaskin betjenes av sin egen separate strømkrets som forsynes fra styremaskinens hovedstrømkrets eller direkte fra samleskinner på fordelingstavlen som forsyner denne hovedstrømkretsen for styremaskinen, fra et punkt på tavlen like ved forsyningen til hovedstrømkretsen for styremaskinen.
+Alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 10 000 eller mer som er bygget før 1. september 1984, skal senest 1. september 1986 oppfylle følgende krav:
+
+- .1 kravene i nr. 7.1, 8.2, 8.4, 10, 11, 12.2, 12.3 og 13.2
+- .2 det skal finnes to uavhengige kontrollsystemer for styremaskin som kan betjenes fra kommandobroen. Dette innebærer ikke krav om dobbelt styrehjul eller styrespak
+- .3 hvis det aktive kontrollsystemet for styremaskin svikter, skal det andre systemet være i stand til umiddelbart å settes i drift fra kommandobroen, og
+- .4 når det er elektrisk, skal hvert kontrollsystem for styremaskin betjenes av sin egen separate strømkrets som forsynes fra styremaskinens hovedstrømkrets eller direkte fra samleskinner på fordelingstavlen som forsyner denne hovedstrømkretsen for styremaskinen, fra et punkt på tavlen like ved forsyningen til hovedstrømkretsen for styremaskinen.
 
 20
 
-I tillegg til kravene i nr. 19 skal styremaskinen i alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 40 000 eller mer som er bygget før 1. september 1984, senest 1. september 1988 være slik innrettet at styreevnen i tilfelle av en enkeltfeil i rørsystemet eller en av kraftenhetene kan opprettholdes eller rorbevegelsen kan begrenses slik at styreevnen raskt kan gjenvinnes. Dette skal oppnås ved.1 et uavhengig middel til å begrense rorets bevegelighet, eller.2 hurtigventiler som kan betjenes manuelt, for å isolere drivmekanismen(e) fra det eksterne hydrauliske rørsystemet sammen med en innretning for å etterfylle drivmekanismene direkte gjennom et fast uavhengig maskinelt betjent pumpe- og rørsystem, eller.3 et arrangement som sørger for at tap av hydraulisk væske fra ett system oppdages når hydrauliske kraftsystemer er koplet sammen, og at systemet med feil isoleres enten automatisk eller fra kommandobroen, slik at det andre systemet fortsatt er i full drift.
+I tillegg til kravene i nr. 19 skal styremaskinen i alle tankskip, kjemikalietankskip eller gasstankskip med bruttotonnasje 40 000 eller mer som er bygget før 1. september 1984, senest 1. september 1988 være slik innrettet at styreevnen i tilfelle av en enkeltfeil i rørsystemet eller en av kraftenhetene kan opprettholdes eller rorbevegelsen kan begrenses slik at styreevnen raskt kan gjenvinnes. Dette skal oppnås ved
+
+- .1 et uavhengig middel til å begrense rorets bevegelighet, eller
+- .2 hurtigventiler som kan betjenes manuelt, for å isolere drivmekanismen(e) fra det eksterne hydrauliske rørsystemet sammen med en innretning for å etterfylle drivmekanismene direkte gjennom et fast uavhengig maskinelt betjent pumpe- og rørsystem, eller
+- .3 et arrangement som sørger for at tap av hydraulisk væske fra ett system oppdages når hydrauliske kraftsystemer er koplet sammen, og at systemet med feil isoleres enten automatisk eller fra kommandobroen, slik at det andre systemet fortsatt er i full drift.
 
 50 Det vises til resolusjon A.415(XI) om forbedrede standarder for styremaskin for passasjer- og lasteskip og resolusjon A.416(XI) om undersøkelse av styremaskin på eksisterende tankskip.
 
@@ -2320,7 +2974,21 @@ Hoved- og hjelpemaskineri som er vesentlig for skipets framdrift, betjening og s
 
 2
 
-Når det finnes innretning til fjernstyring av framdriftsmaskineriet fra kommandobroen, får følgende bestemmelser anvendelse:.1 propellens hastighet, rotasjonsretning og eventuelt stigningen skal være mulig fullt ut å betjene fra kommandobroen under alle seilingsforhold, herunder manøvrering.2 slik fjernstyring skal foregå ved en egen betjeningsinnretning for hver uavhengige propell, med automatisk utførelse av alle funksjoner forbundet med den, herunder eventuelt midler til å hindre overbelastning av framdriftsmaskineriet. Når flere propeller er utformet for å være i funksjon samtidig, kan de betjenes ved hjelp av én betjeningsinnretning.3 hovedframdriftsmaskineriet skal utstyres med en nødstoppinnretning på kommandobroen som skal være uavhengig av kontrollsystemet på kommandobroen,.4 ordre til framdriftsmaskineriet fra kommandobroen skal vises i kontrollrommet for hovedmaskineriet og på manøvreringsplattformen.5 fjernstyring av framdriftsmaskineriet skal være mulig fra bare ett sted av gangen, og på slike steder er internt forbundne betjeningsposter tillatt. På hvert sted skal det være en indikator som viser fra hvilket sted framdriftsmaskineriet betjenes. Overføring av betjening fra kommandobro til maskinrom skal være mulig bare i hovedmaskinrommet eller kontrollrommet for hovedmaskineriet. Dette systemet skal omfatte midler som skal forhindre propellkraften i å endre seg vesentlig når betjeningen overføres fra ett sted til et annet.6 det skal være mulig å betjene framdriftsmaskineriet lokalt, selv i tilfelle av feil i hvilken som helst del av fjernstyringssystemet. Det skal også være mulig å betjene hjelpemaskineri som er av vesentlig betydning for skipets framdrift og sikkerhet, på eller nær det aktuelle maskineriet.7 fjernstyringssystemet skal være slik utformet at i tilfelle det svikter, blir det gitt alarm. Med mindre administrasjonen anser det som praktisk ugjennomførbart, skal forhåndsinnstilt fart og kraftretningen for propellene opprettholdes inntil lokal betjening er i funksjon.8 kommandobroen, kontrollrommet for hovedmaskineriet og manøvreringsplattformen skal være utstyrt med indikatorer som viser.8.1 propellhastighet og rotasjonsretning for propell med fast stigning, og.8.2 propellhastighet og stigningsstilling for propell med vridbar stigning.9 det skal finnes alarm på kommandobroen og i maskinrommet som viser lavt startlufttrykk, og som skal være innstilt på et nivå som tillater videre startoperasjoner for hovedmaskinen. Når framdriftsmaskineriets fjernstyringssystem er utformet for automatisk start, skal antall automatiske fortløpende forsøk som ikke fører til start, begrenses for å sikre tilstrekkelig startlufttrykk for lokal start.10 for skip bygget 1. juli 2004 eller senere skal automatiseringssystemer skal være slik utformet at de sikrer at vakthavende offiser på broen får en advarsel om at det er overhengende eller umiddelbar fare for at framdriftssystemet vil bremse ned eller stanse, tidsnok til at navigasjonsforholdene i en nødssituasjon kan vurderes. Særlig skal systemene kontrollere, overvåke, rapportere om, varsle om og treffe sikkerhetstiltak for å bremse ned eller stanse framdriften mens vakthavende offiser på broen får mulighet til å gripe inn manuelt, unntatt i de tilfellene der manuell inngripen vil føre til fullstendig sammenbrudd i maskinen og/eller framdriftsutstyret i løpet av kort tid, for eksempel ved for høy hastighet.
+Når det finnes innretning til fjernstyring av framdriftsmaskineriet fra kommandobroen, får følgende bestemmelser anvendelse:
+
+- .1 propellens hastighet, rotasjonsretning og eventuelt stigningen skal være mulig fullt ut å betjene fra kommandobroen under alle seilingsforhold, herunder manøvrering
+- .2 slik fjernstyring skal foregå ved en egen betjeningsinnretning for hver uavhengige propell, med automatisk utførelse av alle funksjoner forbundet med den, herunder eventuelt midler til å hindre overbelastning av framdriftsmaskineriet. Når flere propeller er utformet for å være i funksjon samtidig, kan de betjenes ved hjelp av én betjeningsinnretning
+- .3 hovedframdriftsmaskineriet skal utstyres med en nødstoppinnretning på kommandobroen som skal være uavhengig av kontrollsystemet på kommandobroen,
+- .4 ordre til framdriftsmaskineriet fra kommandobroen skal vises i kontrollrommet for hovedmaskineriet og på manøvreringsplattformen
+- .5 fjernstyring av framdriftsmaskineriet skal være mulig fra bare ett sted av gangen, og på slike steder er internt forbundne betjeningsposter tillatt. På hvert sted skal det være en indikator som viser fra hvilket sted framdriftsmaskineriet betjenes. Overføring av betjening fra kommandobro til maskinrom skal være mulig bare i hovedmaskinrommet eller kontrollrommet for hovedmaskineriet. Dette systemet skal omfatte midler som skal forhindre propellkraften i å endre seg vesentlig når betjeningen overføres fra ett sted til et annet
+- .6 det skal være mulig å betjene framdriftsmaskineriet lokalt, selv i tilfelle av feil i hvilken som helst del av fjernstyringssystemet. Det skal også være mulig å betjene hjelpemaskineri som er av vesentlig betydning for skipets framdrift og sikkerhet, på eller nær det aktuelle maskineriet
+- .7 fjernstyringssystemet skal være slik utformet at i tilfelle det svikter, blir det gitt alarm. Med mindre administrasjonen anser det som praktisk ugjennomførbart, skal forhåndsinnstilt fart og kraftretningen for propellene opprettholdes inntil lokal betjening er i funksjon
+- .8 kommandobroen, kontrollrommet for hovedmaskineriet og manøvreringsplattformen skal være utstyrt med indikatorer som viser
+
+  - .8.1 propellhastighet og rotasjonsretning for propell med fast stigning, og
+  - .8.2 propellhastighet og stigningsstilling for propell med vridbar stigning
+- .9 det skal finnes alarm på kommandobroen og i maskinrommet som viser lavt startlufttrykk, og som skal være innstilt på et nivå som tillater videre startoperasjoner for hovedmaskinen. Når framdriftsmaskineriets fjernstyringssystem er utformet for automatisk start, skal antall automatiske fortløpende forsøk som ikke fører til start, begrenses for å sikre tilstrekkelig startlufttrykk for lokal start
+- .10 for skip bygget 1. juli 2004 eller senere skal automatiseringssystemer skal være slik utformet at de sikrer at vakthavende offiser på broen får en advarsel om at det er overhengende eller umiddelbar fare for at framdriftssystemet vil bremse ned eller stanse, tidsnok til at navigasjonsforholdene i en nødssituasjon kan vurderes. Særlig skal systemene kontrollere, overvåke, rapportere om, varsle om og treffe sikkerhetstiltak for å bremse ned eller stanse framdriften mens vakthavende offiser på broen får mulighet til å gripe inn manuelt, unntatt i de tilfellene der manuell inngripen vil føre til fullstendig sammenbrudd i maskinen og/eller framdriftsutstyret i løpet av kort tid, for eksempel ved for høy hastighet.
 
 3
 
@@ -2430,7 +3098,12 @@ Når fribordet til henholdsvis skottdekket eller fribordsdekket er slik at dekks
 
 2.6.2
 
-Når fribordet er slik at henholdsvis kanten av skottdekket eller kanten av fribordsdekket kommer under vann når skipet krenger 5° eller mindre, skal lensingen av de innelukkede lasterommene på henholdsvis skottdekket eller fribordsdekket føres til et eller flere egnede rom med tilstrekkelig kapasitet, som har alarm for høy vannstand og er utstyrt med hensiktsmessige arrangementer for tømming over bord. I tillegg skal det sikres at.1 antall, størrelse og plassering av spygatt er slik at urimelig opphoping av fritt vann hindres.2 pumpearrangementene som kreves etter denne regelen for passasjerskip eller lasteskip, etter hva som er relevant, tar hensyn til kravene om fastmonterte vannforstøvningssystemer til brannslokking.3 vann som er forurenset av bensin eller andre farlige stoffer, ikke lenses til maskinrom eller andre rom der det kan finnes tennkilder, og.4 når det innelukkede lasterommet er beskyttet av brannslokkingsanlegg med karbondioksid, er dekksspygattene utstyrt med midler til å hindre utslipp av slokkegassen.
+Når fribordet er slik at henholdsvis kanten av skottdekket eller kanten av fribordsdekket kommer under vann når skipet krenger 5° eller mindre, skal lensingen av de innelukkede lasterommene på henholdsvis skottdekket eller fribordsdekket føres til et eller flere egnede rom med tilstrekkelig kapasitet, som har alarm for høy vannstand og er utstyrt med hensiktsmessige arrangementer for tømming over bord. I tillegg skal det sikres at
+
+- .1 antall, størrelse og plassering av spygatt er slik at urimelig opphoping av fritt vann hindres
+- .2 pumpearrangementene som kreves etter denne regelen for passasjerskip eller lasteskip, etter hva som er relevant, tar hensyn til kravene om fastmonterte vannforstøvningssystemer til brannslokking
+- .3 vann som er forurenset av bensin eller andre farlige stoffer, ikke lenses til maskinrom eller andre rom der det kan finnes tennkilder, og
+- .4 når det innelukkede lasterommet er beskyttet av brannslokkingsanlegg med karbondioksid, er dekksspygattene utstyrt med midler til å hindre utslipp av slokkegassen.
 
 2.6.3
 
@@ -2446,8 +3119,24 @@ Lensepumpesystemet som kreves etter nr. 2.1, skal være i stand til å virke und
 
 Minst tre pumper skal monteres i tilknytning til hovedlenseledningen, én av disse kan drives av framdriftsmaskineriet. Når lensepumpetallet er minst 30, skal det monteres én ekstra uavhengig maskindrevet pumpe.
 
-Lensepumpetallet skal beregnes på følgende måte: $$\\begin{align} &\\text{når $P_1$ er større enn $P$: lensepumpetall } = 72 \\cdot \\left[ \\frac{M + 2P_1}{V + P_1 - P} \\right] \\\\ \\\\ &\\text{i andre tilfeller: lensepumpetall } = 72 \\cdot \\left[ \\frac{M + 2P}{V} \\right] \\end{align} $$
-der*L* = skipets lengde (meter), som definert i regel 2*M* = maskinrommets volum (kubikkmeter), som definert i regel 2, som er under skottdekket, medregnet også volumet av eventuelle faste brennoljebunkere som kan være plassert over den innvendige bunnen og forut for eller aktenfor maskinrommet*P* = hele volumet av passasjer- og besetningsrom under skottdekket (kubikkmeter), som er bestemt til bruk for passasjerer og besetning, unntatt bagasjerom, lagerrom og proviantrom*V* = hele volumet av skipet under skottdekket (kubikkmeter)*P1* = *KN*der*N* = antallet passasjerer som skipet skal sertifiseres for, og*K* = 0,056LImidlertid, når verdien av *KN* imidlertid er større enn summen av *P* og hele volumet av det faktiske passasjerrommet over skottdekket, skal tallet som skal betraktes som *P1,* være denne summen eller to tredeler av *KN*, med anvendelse av den største verdien.
+Lensepumpetallet skal beregnes på følgende måte:
+
+$$\\begin{align} &\\text{når $P_1$ er større enn $P$: lensepumpetall } = 72 \\cdot \\left[ \\frac{M + 2P_1}{V + P_1 - P} \\right] \\\\ \\\\ &\\text{i andre tilfeller: lensepumpetall } = 72 \\cdot \\left[ \\frac{M + 2P}{V} \\right] \\end{align} $$
+
+der
+
+- *L* = skipets lengde (meter), som definert i regel 2
+- *M* = maskinrommets volum (kubikkmeter), som definert i regel 2, som er under skottdekket, medregnet også volumet av eventuelle faste brennoljebunkere som kan være plassert over den innvendige bunnen og forut for eller aktenfor maskinrommet
+- *P* = hele volumet av passasjer- og besetningsrom under skottdekket (kubikkmeter), som er bestemt til bruk for passasjerer og besetning, unntatt bagasjerom, lagerrom og proviantrom
+- *V* = hele volumet av skipet under skottdekket (kubikkmeter)
+- *P1* = *KN*
+
+der
+
+- *N* = antallet passasjerer som skipet skal sertifiseres for, og
+- *K* = 0,056L
+
+  Imidlertid, når verdien av *KN* imidlertid er større enn summen av *P* og hele volumet av det faktiske passasjerrommet over skottdekket, skal tallet som skal betraktes som *P1,* være denne summen eller to tredeler av *KN*, med anvendelse av den største verdien.
 
 3.3
 
@@ -2455,7 +3144,10 @@ Der det er praktisk mulig, skal de maskindrevne lensepumpene være plassert i at
 
 3.4
 
-På et skip med lengde (*L*) 91,5 meter eller mer eller med et lensepumpetall på minst 30, beregnet i samsvar med nr. 3.2, skal arrangementene være slik innrettet at minst én motordrevet lensepumpe er tilgjengelig for bruk under alle fyllingsforhold som skipet skal kunne motstå, og, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, under alle fyllingsforhold som fremkommer fra vurdering av mindre skader som angitt i regel 8, på følgende måte:.1 én av de påkrevde lensepumpene skal være en nødpumpe av en pålitelig nedsenkbar type som har en kraftkilde som er plassert over skottdekket, eller.2 lensepumpene og kraftkildene deres skal være fordelt over hele skipets lengde slik at minst én pumpe i et uskadet rom vil være tilgjengelig.
+På et skip med lengde (*L*) 91,5 meter eller mer eller med et lensepumpetall på minst 30, beregnet i samsvar med nr. 3.2, skal arrangementene være slik innrettet at minst én motordrevet lensepumpe er tilgjengelig for bruk under alle fyllingsforhold som skipet skal kunne motstå, og, for skip som oppfyller bestemmelsene i regel II-1/1.1.1.1, under alle fyllingsforhold som fremkommer fra vurdering av mindre skader som angitt i regel 8, på følgende måte:
+
+- .1 én av de påkrevde lensepumpene skal være en nødpumpe av en pålitelig nedsenkbar type som har en kraftkilde som er plassert over skottdekket, eller
+- .2 lensepumpene og kraftkildene deres skal være fordelt over hele skipets lengde slik at minst én pumpe i et uskadet rom vil være tilgjengelig.
 
 3.5
 
@@ -2483,7 +3175,15 @@ Alle lenserør opp til forbindelsen til pumpene skal være uavhengige av annen r
 
 3.9
 
-Diameteren «d» av hovedlenserøret skal beregnes etter følgende formel. Den virkelige innvendige diameteren av hovedlenserøret kan likevel avrundes til nærmeste standardstørrelse som administrasjonen kan godta: $$d = 25 + 1{,}68 \\sqrt{L(B+D)}$$der*d* er den innvendige diameteren av hovedlenserøret (millimeter)*L* og *B* er skipets lengde og bredde (meter) som definert i regel 2, og*D* er skipets dybde i riss til skottdekket (meter); i et skip med et innelukket lasterom på skottdekket som lenses innvendig i samsvar med kravene i nr. 2.6.2, og som strekker seg over hele skipets lengde, skal *D* likevel måles til neste dekk over skottdekket. Når de innelukkede lasterommene omfatter en mindre lengde, skal D settes til dybden i riss til skottdekket pluss *lh/L* der *l* og *h* er henholdsvis den samlede lengden og høyden av de innelukkede lasterommene (meter). Diameteren til sidelenserørene skal oppfylle administrasjonens krav.
+Diameteren «d» av hovedlenserøret skal beregnes etter følgende formel. Den virkelige innvendige diameteren av hovedlenserøret kan likevel avrundes til nærmeste standardstørrelse som administrasjonen kan godta:
+
+$$d = 25 + 1{,}68 \\sqrt{L(B+D)}$$
+
+der
+
+- *d* er den innvendige diameteren av hovedlenserøret (millimeter)
+- *L* og *B* er skipets lengde og bredde (meter) som definert i regel 2, og
+- *D* er skipets dybde i riss til skottdekket (meter); i et skip med et innelukket lasterom på skottdekket som lenses innvendig i samsvar med kravene i nr. 2.6.2, og som strekker seg over hele skipets lengde, skal *D* likevel måles til neste dekk over skottdekket. Når de innelukkede lasterommene omfatter en mindre lengde, skal D settes til dybden i riss til skottdekket pluss *lh/L* der *l* og *h* er henholdsvis den samlede lengden og høyden av de innelukkede lasterommene (meter). Diameteren til sidelenserørene skal oppfylle administrasjonens krav.
 
 3.10
 
@@ -2513,7 +3213,9 @@ Det skal finnes minst to uavhengige sambandsmidler til å formidle ordre fra kom
 
 2
 
-For skip bygget 1. oktober 1994 eller senere får følgende krav anvendelse i stedet for bestemmelsene i nr. 1:Det skal finnes minst to uavhengige sambandsmidler til å formidle ordre fra kommandobroen til det stedet i maskinrommet eller i kontrollrommet som maskinenes hastighet og propellenes kraftretning normalt styres fra: en av disse skal være en maskintelegraf som gir synlig angivelse av ordre og svar både i maskinrommene og på kommandobroen. Det skal finnes et egnet sambandsmiddel fra kommandobroen og maskinrommet til ethvert annet sted som hastigheten eller propellenes kraftretning kan styres fra.
+For skip bygget 1. oktober 1994 eller senere får følgende krav anvendelse i stedet for bestemmelsene i nr. 1:
+
+- Det skal finnes minst to uavhengige sambandsmidler til å formidle ordre fra kommandobroen til det stedet i maskinrommet eller i kontrollrommet som maskinenes hastighet og propellenes kraftretning normalt styres fra: en av disse skal være en maskintelegraf som gir synlig angivelse av ordre og svar både i maskinrommene og på kommandobroen. Det skal finnes et egnet sambandsmiddel fra kommandobroen og maskinrommet til ethvert annet sted som hastigheten eller propellenes kraftretning kan styres fra.
 
 ### Regel 38 Maskinistalarm
 
@@ -2532,7 +3234,11 @@ Elektriske installasjoner
 
 1
 
-Elektriske installasjoner skal være slik at:.1 alle elektriske hjelpefunksjoner som er nødvendige for skipets normale drifts- og beboelsestilstand, vil være sikret uten å gripe til den elektriske nødkraftkilden,.2 elektriske funksjoner som er av vesentlig betydning for sikkerheten, vil være sikret i forskjellige nødssituasjoner, og.3 passasjerenes, besetningens og skipets sikkerhet mot elektriske faremomenter vil være ivaretatt.
+Elektriske installasjoner skal være slik at:
+
+- .1 alle elektriske hjelpefunksjoner som er nødvendige for skipets normale drifts- og beboelsestilstand, vil være sikret uten å gripe til den elektriske nødkraftkilden,
+- .2 elektriske funksjoner som er av vesentlig betydning for sikkerheten, vil være sikret i forskjellige nødssituasjoner, og
+- .3 passasjerenes, besetningens og skipets sikkerhet mot elektriske faremomenter vil være ivaretatt.
 
 2
 
@@ -2584,7 +3290,14 @@ Når den samlede installerte elektriske kraften i hovedgeneratorsettene er over 
 
 5
 
-Skip bygget 1. juli 1998 eller senere.1 skal i tillegg til nr. 1 til 3 oppfylle følgende krav:.1.1 når den elektriske hovedkraftkilden er nødvendig for skipets framdrift og styring, skal systemet innrettes slik at strømforsyningen til utstyr som er nødvendig for framdrift og styring og for å sikre skipets sikkerhet, vil bli opprettholdt eller gjenopprettet umiddelbart i tilfelle av tap av en av generatorene som er i funksjon,.1.2 lastutkopling eller andre tilsvarende arrangementer skal finnes for å beskytte generatorene som kreves etter denne regelen, mot vedvarende overbelastning,.1.3 når den elektriske hovedkraftkilden er nødvendig for skipets framdrift, skal hovedsamleskinnen deles inn i minst to deler som normalt skal sammenkoples med strømbrytere eller andre godkjente innretninger; så langt det er praktisk mulig skal sammenkoplingen av generatorsett og eventuelt annet dobbelt utstyr være likt fordelt mellom delene, og.2 trenger ikke å være i samsvar med nr. 4.
+Skip bygget 1. juli 1998 eller senere
+
+- .1 skal i tillegg til nr. 1 til 3 oppfylle følgende krav:
+
+  - .1.1 når den elektriske hovedkraftkilden er nødvendig for skipets framdrift og styring, skal systemet innrettes slik at strømforsyningen til utstyr som er nødvendig for framdrift og styring og for å sikre skipets sikkerhet, vil bli opprettholdt eller gjenopprettet umiddelbart i tilfelle av tap av en av generatorene som er i funksjon,
+  - .1.2 lastutkopling eller andre tilsvarende arrangementer skal finnes for å beskytte generatorene som kreves etter denne regelen, mot vedvarende overbelastning,
+  - .1.3 når den elektriske hovedkraftkilden er nødvendig for skipets framdrift, skal hovedsamleskinnen deles inn i minst to deler som normalt skal sammenkoples med strømbrytere eller andre godkjente innretninger; så langt det er praktisk mulig skal sammenkoplingen av generatorsett og eventuelt annet dobbelt utstyr være likt fordelt mellom delene, og
+- .2 trenger ikke å være i samsvar med nr. 4.
 
 6
 
@@ -2616,19 +3329,46 @@ Den tilgjengelige elektriske kraften skal være tilstrekkelig til å forsyne all
 
 2.1
 
-I et tidsrom på 36 t, nødbelysning.1 på hver mønstrings- eller innskipningsstasjon og over sidene som kreves etter regel III/11.4 og III/6.7.2 i alle ganger, trapper og utganger som gir adgang til mønstrings- og innskipningsstasjonene, som kreves etter regel III/11.5.3 i alle ganger, trapper og utganger i arbeidsrom og rom i innredningen, i personheisstoler.4 i maskinrom og hovedgeneratorstasjoner, herunder deres betjeningssteder.5 i alle kontrollstasjoner, maskinkontrollrom og ved hver hoved- og nødtavle.6 ved hvert oppbevaringssted for røykdykkerutstyr.7 ved styremaskinen og.8 ved brannpumpen, sprinklerpumpen og nødlensepumpen nevnt i nr. 2.4, og på det stedet motorene deres startes fra.
+I et tidsrom på 36 t, nødbelysning
+
+- .1 på hver mønstrings- eller innskipningsstasjon og over sidene som kreves etter regel III/11.4 og III/6.7
+- .2 i alle ganger, trapper og utganger som gir adgang til mønstrings- og innskipningsstasjonene, som kreves etter regel III/11.5
+- .3 i alle ganger, trapper og utganger i arbeidsrom og rom i innredningen, i personheisstoler
+- .4 i maskinrom og hovedgeneratorstasjoner, herunder deres betjeningssteder
+- .5 i alle kontrollstasjoner, maskinkontrollrom og ved hver hoved- og nødtavle
+- .6 ved hvert oppbevaringssted for røykdykkerutstyr
+- .7 ved styremaskinen og
+- .8 ved brannpumpen, sprinklerpumpen og nødlensepumpen nevnt i nr. 2.4, og på det stedet motorene deres startes fra.
 
 2.2
 
-I et tidsrom på 36 t.1 navigasjonslysene og andre lys som kreves etter gjeldende internasjonale regler til forebygging av sammenstøt på sjøen og.2 på skip bygget 1. februar 1995 eller senere, VHF-radioinstallasjonen som kreves etter regel IV/7.1.1 og IV/7.1.2 og eventuelt.2.1 MF-radioinstallasjonen som kreves etter regel IV/9.1.1, IV/9.1.2, IV/10.1.2 og IV/10.1.3.2.2 skipets jordstasjon som kreves etter regel IV/10.1.1, og.2.3 MF/HF-radioinstallasjonen som kreves etter regel IV/11.1.1 og IV/11.1.2.
+I et tidsrom på 36 t
+
+- .1 navigasjonslysene og andre lys som kreves etter gjeldende internasjonale regler til forebygging av sammenstøt på sjøen og
+- .2 på skip bygget 1. februar 1995 eller senere, VHF-radioinstallasjonen som kreves etter regel IV/7.1.1 og IV/7.1.2 og eventuelt
+
+  - .2.1 MF-radioinstallasjonen som kreves etter regel IV/9.1.1, IV/9.1.2, IV/10.1.2 og IV/10.1.3
+  - .2.2 skipets jordstasjon som kreves etter regel IV/10.1.1, og
+  - .2.3 MF/HF-radioinstallasjonen som kreves etter regel IV/11.1.1 og IV/11.1.2.
 
 2.3
 
-I et tidsrom på 36 t.1 alt utstyr for internt samband som kreves i en nødssituasjon.2 skipsnavigasjonsutstyret som kreves etter regel V/1254, når denne bestemmelsen er urimelig eller praktisk umulig kan administrasjonen gi dispensasjon fra dette kravet for skip med bruttotonnasje under 5000.3 branndeteksjons- og brannalarmanlegget og åpne/lukkesystemet for branndører og.4 til periodisk bruk av dagslys-signallampen, skipsfløyten, de manuelle brannmelderne og alle interne signaler som kreves i en nødssituasjonmed mindre slike funksjoner har uavhengig forsyning i tidsrommet på 36 timer fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
+I et tidsrom på 36 t
+
+- .1 alt utstyr for internt samband som kreves i en nødssituasjon
+- .2 skipsnavigasjonsutstyret som kreves etter regel V/1254, når denne bestemmelsen er urimelig eller praktisk umulig kan administrasjonen gi dispensasjon fra dette kravet for skip med bruttotonnasje under 5000
+- .3 branndeteksjons- og brannalarmanlegget og åpne/lukkesystemet for branndører og
+- .4 til periodisk bruk av dagslys-signallampen, skipsfløyten, de manuelle brannmelderne og alle interne signaler som kreves i en nødssituasjon
+
+med mindre slike funksjoner har uavhengig forsyning i tidsrommet på 36 timer fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
 
 2.4
 
-I et tidsrom på 36 t:.1 en av brannpumpene som kreves etter regel II-2/4.3.1 og 4.3.355.2 eventuelt den automatiske sprinklerpumpen og.3 nødlensepumpen og alt utstyr som er av vesentlig betydning for driften av elektrisk drevne fjernstyrte lenseventiler.
+I et tidsrom på 36 t:
+
+- .1 en av brannpumpene som kreves etter regel II-2/4.3.1 og 4.3.355
+- .2 eventuelt den automatiske sprinklerpumpen og
+- .3 nødlensepumpen og alt utstyr som er av vesentlig betydning for driften av elektrisk drevne fjernstyrte lenseventiler.
 
 2.5
 
@@ -2636,7 +3376,10 @@ I tidsrommet som kreves etter regel 29 nr. 14, styremaskinen hvis den i henhold 
 
 2.6
 
-I et tidsrom på en halv time.1 alle vanntette dører som i henhold til regel 15 skal være maskinelt betjent, og alle tilhørende indikatorer og varselsignal.2 nødarrangementene som sørger for at heisstolene tas opp til dekksnivå og personene kan komme ut. Passasjerheisstolene kan tas opp fortløpende til dekksnivå i en nødssituasjon.
+I et tidsrom på en halv time
+
+- .1 alle vanntette dører som i henhold til regel 15 skal være maskinelt betjent, og alle tilhørende indikatorer og varselsignal
+- .2 nødarrangementene som sørger for at heisstolene tas opp til dekksnivå og personene kan komme ut. Passasjerheisstolene kan tas opp fortløpende til dekksnivå i en nødssituasjon.
 
 2.7
 
@@ -2648,15 +3391,25 @@ Den elektriske nødkraftkilden kan være enten en generator eller et akkumulator
 
 3.1
 
-Når den elektriske nødkraftkilden er en generator, skal den.1 drives av en egnet kraftenhet med uavhengig forsyning av drivstoff med et flammepunkt (prøve i lukket apparat) på minst 43 °C.2 starte automatisk ved svikt i strømforsyningen fra den elektriske hovedkraftkilden og skal automatisk koples til nødtavlen; de funksjonene som er nevnt i nr. 4, skal deretter overføres automatisk til nødgeneratorsettet. Det automatiske startsystemet og egenskapene ved kraftenheten skal være slik at nødgeneratoren kan tåle merkelasten så raskt som det er sikkert og praktisk gjennomførbart, men innen høyst 45 s; med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, og.3 være utstyrt med en overgangskilde for elektrisk nødkraft i samsvar med nr. 4.
+Når den elektriske nødkraftkilden er en generator, skal den
+
+- .1 drives av en egnet kraftenhet med uavhengig forsyning av drivstoff med et flammepunkt (prøve i lukket apparat) på minst 43 °C
+- .2 starte automatisk ved svikt i strømforsyningen fra den elektriske hovedkraftkilden og skal automatisk koples til nødtavlen; de funksjonene som er nevnt i nr. 4, skal deretter overføres automatisk til nødgeneratorsettet. Det automatiske startsystemet og egenskapene ved kraftenheten skal være slik at nødgeneratoren kan tåle merkelasten så raskt som det er sikkert og praktisk gjennomførbart, men innen høyst 45 s; med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, og
+- .3 være utstyrt med en overgangskilde for elektrisk nødkraft i samsvar med nr. 4.
 
 3.2
 
-Når den elektriske nødkraftkilden er et akkumulatorbatteri, skal det være i stand til å.1 tåle den elektriske nødlasten uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen.2 koples automatisk til nødtavlen i tilfelle av svikt i den elektriske hovedkraftkilden, og.3 forsyne umiddelbart minst de funksjonene som er angitt i nr. 4.
+Når den elektriske nødkraftkilden er et akkumulatorbatteri, skal det være i stand til å
+
+- .1 tåle den elektriske nødlasten uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen
+- .2 koples automatisk til nødtavlen i tilfelle av svikt i den elektriske hovedkraftkilden, og
+- .3 forsyne umiddelbart minst de funksjonene som er angitt i nr. 4.
 
 3.3
 
-Følgende bestemmelse i nr. 3.1.2 får ikke anvendelse på skip bygget 1. oktober 1994 eller senere:Med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet.
+Følgende bestemmelse i nr. 3.1.2 får ikke anvendelse på skip bygget 1. oktober 1994 eller senere:
+
+- Med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet.
 
 3.4
 
@@ -2668,7 +3421,10 @@ Overgangskilden for elektrisk nødkraft som kreves etter nr. 3.1.3, skal bestå 
 
 4.1
 
-I en halv time.1 belysningen som kreves etter nr. 2.1 og 2.2.2 alle funksjoner som kreves etter nr. 2.3.1, 2.3.3 og 2.3.4, med mindre slike funksjoner har uavhengig forsyning i det angitte tidsrommet fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
+I en halv time
+
+- .1 belysningen som kreves etter nr. 2.1 og 2.2
+- .2 alle funksjoner som kreves etter nr. 2.3.1, 2.3.3 og 2.3.4, med mindre slike funksjoner har uavhengig forsyning i det angitte tidsrommet fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
 
 4.2
 
@@ -2712,7 +3468,10 @@ Det skal treffes tiltak om periodisk prøving av hele nødsystemet, herunder pr�
 
 1
 
-På alle skip med roro-rom eller spesiallasterom som definert i regel II-2/3, skal i tillegg til nødbelysningen fastsatt i regel 42.2:.1 alle passasjerrom og -ganger være utstyrt med ekstra elektrisk belysning som kan fungere i minst tre timer når alle andre elektriske kraftkilder har sviktet og under alle krengningsforhold. Den belysningen som finnes, skal være slik at atkomsten til rømningsveiene er lett synlig. Kraftkilden til den ekstra belysningen skal bestå av akkumulatorbatterier plassert inne i belysningsenhetene som lades kontinuerlig, der det er praktisk mulig, fra nødtavlen. Som et alternativ kan administrasjonen godta andre belysningsmidler som er minst like effektive. Den ekstra nødbelysningen skal være slik at enhver svikt i lampen øyeblikkelig konstateres. Alle akkumulatorbatterier som finnes, skal skiftes ut med mellomrom som tar hensyn til den spesifiserte levetiden i de omgivelsene slike batterier brukes i, og.2 det være plassert en bærbar, oppladbar batteridrevet lampe i alle ganger, rekreasjonsrom og alle arbeidsrom for besetningen som normalt er i bruk, med mindre det finnes ekstra nødbelysning som fastsatt i nr. .1.
+På alle skip med roro-rom eller spesiallasterom som definert i regel II-2/3, skal i tillegg til nødbelysningen fastsatt i regel 42.2:
+
+- .1 alle passasjerrom og -ganger være utstyrt med ekstra elektrisk belysning som kan fungere i minst tre timer når alle andre elektriske kraftkilder har sviktet og under alle krengningsforhold. Den belysningen som finnes, skal være slik at atkomsten til rømningsveiene er lett synlig. Kraftkilden til den ekstra belysningen skal bestå av akkumulatorbatterier plassert inne i belysningsenhetene som lades kontinuerlig, der det er praktisk mulig, fra nødtavlen. Som et alternativ kan administrasjonen godta andre belysningsmidler som er minst like effektive. Den ekstra nødbelysningen skal være slik at enhver svikt i lampen øyeblikkelig konstateres. Alle akkumulatorbatterier som finnes, skal skiftes ut med mellomrom som tar hensyn til den spesifiserte levetiden i de omgivelsene slike batterier brukes i, og
+- .2 det være plassert en bærbar, oppladbar batteridrevet lampe i alle ganger, rekreasjonsrom og alle arbeidsrom for besetningen som normalt er i bruk, med mindre det finnes ekstra nødbelysning som fastsatt i nr. .1.
 
 ### Regel 43 Elektrisk nødkraftkilde på lasteskip
 
@@ -2742,15 +3501,37 @@ i et tidsrom på tre timer, på hver mønstrings- eller innskipningsstasjon og o
 
 2.2
 
-I et tidsrom på 18 t, nødbelysning.1 i alle ganger, trapper og utganger i arbeidsrom og rom i innredningen, i personheisstoler og personheissjakter.2 i maskinrom og hovedgeneratorstasjoner, herunder deres betjeningssteder.3 i alle kontrollstasjoner, maskinkontrollrom og ved hver hoved- og nødtavle.4 ved hvert oppbevaringssted for røykdykkerutstyr.5 ved styremaskinen.6 ved brannpumpen nevnt i nr. 2.5, eventuelt ved sprinklerpumpen og eventuelt ved nødlensepumpen og på det stedet motorene deres startes fra, og.7 i alle lastepumperom på tankskip bygget 1. juli 2002 eller senere.
+I et tidsrom på 18 t, nødbelysning
+
+- .1 i alle ganger, trapper og utganger i arbeidsrom og rom i innredningen, i personheisstoler og personheissjakter
+- .2 i maskinrom og hovedgeneratorstasjoner, herunder deres betjeningssteder
+- .3 i alle kontrollstasjoner, maskinkontrollrom og ved hver hoved- og nødtavle
+- .4 ved hvert oppbevaringssted for røykdykkerutstyr
+- .5 ved styremaskinen
+- .6 ved brannpumpen nevnt i nr. 2.5, eventuelt ved sprinklerpumpen og eventuelt ved nødlensepumpen og på det stedet motorene deres startes fra, og
+- .7 i alle lastepumperom på tankskip bygget 1. juli 2002 eller senere.
 
 2.3
 
-I et tidsrom på 18 t.1 navigasjonslysene og andre lys som kreves etter gjeldende internasjonale regler til forebygging av sammenstøt på sjøen.2 på skip bygget 1. februar 1995 eller senere, VHF-radioinstallasjonen som kreves etter regel IV/7.1.1 og IV/7.1.2 og eventuelt:.2.1 MF-radioinstallasjonen som kreves etter regel IV/9.1.1, IV/9.1.2, IV/10.1.2 og IV/10.1.3.2.2 skipets jordstasjon som kreves etter regel IV/10.1.1, og.2.3 MF/HF-radioinstallasjonen som kreves etter regel IV/11.1.1 og IV/11.1.2.
+I et tidsrom på 18 t
+
+- .1 navigasjonslysene og andre lys som kreves etter gjeldende internasjonale regler til forebygging av sammenstøt på sjøen
+- .2 på skip bygget 1. februar 1995 eller senere, VHF-radioinstallasjonen som kreves etter regel IV/7.1.1 og IV/7.1.2 og eventuelt:
+
+  - .2.1 MF-radioinstallasjonen som kreves etter regel IV/9.1.1, IV/9.1.2, IV/10.1.2 og IV/10.1.3
+  - .2.2 skipets jordstasjon som kreves etter regel IV/10.1.1, og
+  - .2.3 MF/HF-radioinstallasjonen som kreves etter regel IV/11.1.1 og IV/11.1.2.
 
 2.4
 
-I et tidsrom på 18 t.1 alt utstyr for internt samband som kreves i en nødssituasjon.2 skipsnavigasjonsutstyret som kreves etter regel V/1256, når denne bestemmelsen er urimelig eller praktisk umulig kan administrasjonen dispensere fra dette kravet for skip med bruttotonnasje under 5000.3 branndeteksjons- og brannalarmanlegget og.4 periodisk bruk av dagslys-signallampen, skipsfløyten, de manuelle brannmelderne og alle interne signaler som kreves i en nødssituasjonmed mindre slike funksjoner har uavhengig forsyning i tidsrommet på 18 timer fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
+I et tidsrom på 18 t
+
+- .1 alt utstyr for internt samband som kreves i en nødssituasjon
+- .2 skipsnavigasjonsutstyret som kreves etter regel V/1256, når denne bestemmelsen er urimelig eller praktisk umulig kan administrasjonen dispensere fra dette kravet for skip med bruttotonnasje under 5000
+- .3 branndeteksjons- og brannalarmanlegget og
+- .4 periodisk bruk av dagslys-signallampen, skipsfløyten, de manuelle brannmelderne og alle interne signaler som kreves i en nødssituasjon
+
+med mindre slike funksjoner har uavhengig forsyning i tidsrommet på 18 timer fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
 
 2.5
 
@@ -2770,15 +3551,25 @@ Den elektriske nødkraftkilden kan være enten en generator eller et akkumulator
 
 3.1
 
-Når den elektriske nødkraftkilden er en generator, skal den.1 drives av en egnet kraftenhet med uavhengig forsyning av drivstoff med et flammepunkt (prøve i lukket apparat) på minst 43 °C.2 starte automatisk ved svikt i forsyningen fra den elektriske hovedkraftkilden, med mindre det finnes en overgangskilde for elektrisk nødkraft i samsvar med nr. 3.1.3; når nødgeneratoren starter automatisk, skal den automatisk koples til nødtavlen; de funksjonene som er nevnt i nr. 4, skal deretter overføres automatisk til nødgeneratorsettet, og med mindre det finnes et annet uavhengig middel til å starte nødgeneratoren, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, og.3 være utstyrt med en overgangskilde for elektrisk nødkraft som angitt i nr. 4, med mindre det finnes en nødgenerator som er i stand til både å forsyne funksjonene nevnt i nevnte nummer, og starte automatisk og levere den nødvendige lasten så raskt som det er sikkert og praktisk mulig, men innen høyest 45 s.
+Når den elektriske nødkraftkilden er en generator, skal den
+
+- .1 drives av en egnet kraftenhet med uavhengig forsyning av drivstoff med et flammepunkt (prøve i lukket apparat) på minst 43 °C
+- .2 starte automatisk ved svikt i forsyningen fra den elektriske hovedkraftkilden, med mindre det finnes en overgangskilde for elektrisk nødkraft i samsvar med nr. 3.1.3; når nødgeneratoren starter automatisk, skal den automatisk koples til nødtavlen; de funksjonene som er nevnt i nr. 4, skal deretter overføres automatisk til nødgeneratorsettet, og med mindre det finnes et annet uavhengig middel til å starte nødgeneratoren, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, og
+- .3 være utstyrt med en overgangskilde for elektrisk nødkraft som angitt i nr. 4, med mindre det finnes en nødgenerator som er i stand til både å forsyne funksjonene nevnt i nevnte nummer, og starte automatisk og levere den nødvendige lasten så raskt som det er sikkert og praktisk mulig, men innen høyest 45 s.
 
 3.2
 
-Når den elektriske nødkraftkilden er et akkumulatorbatteri, skal det være i stand til.1 å tåle den elektriske nødlasten uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen.2 koples automatisk til nødtavlen i tilfelle av svikt i den elektriske hovedkraftkilden og.3 forsyne umiddelbart minst de funksjonene som er angitt i nr. 4.
+Når den elektriske nødkraftkilden er et akkumulatorbatteri, skal det være i stand til
+
+- .1 å tåle den elektriske nødlasten uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen
+- .2 koples automatisk til nødtavlen i tilfelle av svikt i den elektriske hovedkraftkilden og
+- .3 forsyne umiddelbart minst de funksjonene som er angitt i nr. 4.
 
 3.3
 
-Følgende bestemmelse i nr. 3.1.2 får ikke anvendelse på skip bygget 1. oktober 1994 eller senere:Med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet.
+Følgende bestemmelse i nr. 3.1.2 får ikke anvendelse på skip bygget 1. oktober 1994 eller senere:
+
+- Med mindre det finnes et annet uavhengig middel til å starte nødgeneratorsettet, skal den ene kilden til lagret energi beskyttes for å unngå at den lades helt ut av det automatiske startsystemet.
 
 3.4
 
@@ -2786,7 +3577,10 @@ For skip bygget 1. juli 1998 eller senere, der det er nødvendig med elektrisk k
 
 4
 
-Overgangskilden til elektrisk nødkraft som kreves etter nr. 3.1.3, skal bestå av et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon, og som skal fungere uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen, og ha tilstrekkelig kapasitet og være slik innrettet at minst følgende funksjoner forsynes automatisk i en halv time i tilfelle av svikt i enten den elektriske hoved- eller nødkraftkilden, når funksjonene er avhengige av en kraftkilde for å kunne fungere:.1 belysningen som kreves etter nr. 2.1, 2.2 og 2.3.1. I denne overgangsfasen kan den påkrevde nødbelysningen, når det gjelder maskinrom og rom i innredningen og arbeidsrom, være fastmonterte, frittstående, automatisk ladede, reléstyrte batterilamper, og.2 alle funksjoner som kreves etter nr. 2.4.1, 2.4.3 og 2.4.4, med mindre slike funksjoner har uavhengig forsyning i det angitte tidsrommet fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
+Overgangskilden til elektrisk nødkraft som kreves etter nr. 3.1.3, skal bestå av et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon, og som skal fungere uten å måtte lades opp samtidig som batteriets spenning opprettholdes gjennom utladningsperioden innenfor 12 % over eller under den nominelle spenningen, og ha tilstrekkelig kapasitet og være slik innrettet at minst følgende funksjoner forsynes automatisk i en halv time i tilfelle av svikt i enten den elektriske hoved- eller nødkraftkilden, når funksjonene er avhengige av en kraftkilde for å kunne fungere:
+
+- .1 belysningen som kreves etter nr. 2.1, 2.2 og 2.3.1. I denne overgangsfasen kan den påkrevde nødbelysningen, når det gjelder maskinrom og rom i innredningen og arbeidsrom, være fastmonterte, frittstående, automatisk ladede, reléstyrte batterilamper, og
+- .2 alle funksjoner som kreves etter nr. 2.4.1, 2.4.3 og 2.4.4, med mindre slike funksjoner har uavhengig forsyning i det angitte tidsrommet fra et akkumulatorbatteri som er plassert på et passende sted til bruk i en nødssituasjon.
 
 5.1
 
@@ -2832,11 +3626,17 @@ Alle nødgeneratorsett som er slik innrettet at de starter automatisk, skal vær
 
 2.1
 
-Skip bygget 1. oktober 1994 eller senere skal i stedet for bestemmelsen i nr. 2 annet punktum oppfylle følgende krav:Kilden til laget energi skal beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, med mindre det finnes et annet uavhengig startmiddel. Dessuten skal det finnes enda en energikilde til ytterligere tre starter innen 30 minutter, med mindre det kan påvises at manuell start er effektivt.
+Skip bygget 1. oktober 1994 eller senere skal i stedet for bestemmelsen i nr. 2 annet punktum oppfylle følgende krav:
+
+- Kilden til laget energi skal beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, med mindre det finnes et annet uavhengig startmiddel. Dessuten skal det finnes enda en energikilde til ytterligere tre starter innen 30 minutter, med mindre det kan påvises at manuell start er effektivt.
 
 3
 
-Den lagrede energien skal opprettholdes til enhver tid på følgende måte:.1 elektriske og hydrauliske startsystemer skal vedlikeholdes fra nødtavlen.2 startsystemer med trykkluft kan vedlikeholdes ved hoved- eller hjelpetrykklufttankene gjennom en egnet tilbakeslagsventil eller ved en nødluftkompressor som, når den er elektrisk drevet, forsynes fra nødtavlen.3 alle disse start-, lade- og energilagringsinnretningene skal være plassert i nødgeneratorrommet; disse innretningene skal ikke brukes til andre formål enn drift av nødgeneratorsettet. Dette utelukker ikke forsyning til trykklufttanken for nødgeneratorsettet fra hoved- eller hjelpetrykkluftsystemet gjennom tilbakeslagsventilen som er montert i nødgeneratorrommet.
+Den lagrede energien skal opprettholdes til enhver tid på følgende måte:
+
+- .1 elektriske og hydrauliske startsystemer skal vedlikeholdes fra nødtavlen
+- .2 startsystemer med trykkluft kan vedlikeholdes ved hoved- eller hjelpetrykklufttankene gjennom en egnet tilbakeslagsventil eller ved en nødluftkompressor som, når den er elektrisk drevet, forsynes fra nødtavlen
+- .3 alle disse start-, lade- og energilagringsinnretningene skal være plassert i nødgeneratorrommet; disse innretningene skal ikke brukes til andre formål enn drift av nødgeneratorsettet. Dette utelukker ikke forsyning til trykklufttanken for nødgeneratorsettet fra hoved- eller hjelpetrykkluftsystemet gjennom tilbakeslagsventilen som er montert i nødgeneratorrommet.
 
 4.1
 
@@ -2852,7 +3652,11 @@ Når manuell start ikke er praktisk mulig, skal kravene i nr. 2 og 3 oppfylles, 
 
 1.1
 
-Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret.1 har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V effektiv spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, eller.2 har en tilførselsspenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare én forbruksinnretning, eller.3 er konstruert i samsvar med prinsippet om dobbelt isolasjon.
+Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret
+
+- .1 har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V effektiv spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, eller
+- .2 har en tilførselsspenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare én forbruksinnretning, eller
+- .3 er konstruert i samsvar med prinsippet om dobbelt isolasjon.
 
 1.2
 
@@ -2872,7 +3676,11 @@ Systemet for tilbakeledning gjennom skrog skal ikke brukes til noe formål på e
 
 3.2
 
-Kravet i nr. 3.1 utelukker ikke, under forhold godkjent av administrasjonen, bruk av.1 systemer for katodisk beskyttelse ved påtrykt strøm.2 begrensede og lokalt jordede systemer eller.3 systemer for overvåking av isolasjonstilstand forutsatt at sirkulerende strøm ikke overstiger 30 mA under de mest ugunstige forholdene.
+Kravet i nr. 3.1 utelukker ikke, under forhold godkjent av administrasjonen, bruk av
+
+- .1 systemer for katodisk beskyttelse ved påtrykt strøm
+- .2 begrensede og lokalt jordede systemer eller
+- .3 systemer for overvåking av isolasjonstilstand forutsatt at sirkulerende strøm ikke overstiger 30 mA under de mest ugunstige forholdene.
 
 3.2.1
 
@@ -2892,7 +3700,14 @@ Når det brukes et fordelingssystem, enten primært eller sekundært, til elektr
 
 4.3
 
-Skip bygget 1. oktober 1994 eller senere skal i stedet for bestemmelsene i nr. 4,1 oppfylle følgende krav:.1 Unntatt som tillatt ved nr. 4.3.2, skal det ikke brukes jordede fordelingssystemer i et tankskip..2 Kravet i nr. 4.3.1 utelukker ikke bruk av jordede egensikre strømkretser og dessuten, under forhold godkjent av administrasjonen, bruk av følgende jordede systemer:.2.1 kraftforsynte, med styrekretser og instrumenteringskretser der tekniske eller sikkerhetsmessige årsaker utelukker bruk av et system uten forbindelse til jord, forutsatt at strømmen i skroget er begrenset til høyst 5 ampere både under normale forhold og ved feil, eller.2.2 begrensede og lokalt jordede systemer, forutsatt at eventuell resulterende strøm ikke går direkte gjennom farlige rom, eller.2.3 vekselstrømnett på 1 000 V kvadratisk middelverdi (linje til linje) eller mer, forutsatt at eventuell resulterende strøm ikke går direkte gjennom farlige rom.
+Skip bygget 1. oktober 1994 eller senere skal i stedet for bestemmelsene i nr. 4,1 oppfylle følgende krav:
+
+- .1 Unntatt som tillatt ved nr. 4.3.2, skal det ikke brukes jordede fordelingssystemer i et tankskip.
+- .2 Kravet i nr. 4.3.1 utelukker ikke bruk av jordede egensikre strømkretser og dessuten, under forhold godkjent av administrasjonen, bruk av følgende jordede systemer:
+
+  - .2.1 kraftforsynte, med styrekretser og instrumenteringskretser der tekniske eller sikkerhetsmessige årsaker utelukker bruk av et system uten forbindelse til jord, forutsatt at strømmen i skroget er begrenset til høyst 5 ampere både under normale forhold og ved feil, eller
+  - .2.2 begrensede og lokalt jordede systemer, forutsatt at eventuell resulterende strøm ikke går direkte gjennom farlige rom, eller
+  - .2.3 vekselstrømnett på 1 000 V kvadratisk middelverdi (linje til linje) eller mer, forutsatt at eventuell resulterende strøm ikke går direkte gjennom farlige rom.
 
 5.1
 
@@ -2948,7 +3763,12 @@ Akkumulatorbatterier skal ikke plasseres i soveavdelingen, unntatt når de er he
 
 10
 
-Det skal ikke installeres elektrisk utstyr i rom der brannfarlige blandinger kan hope seg opp, f.eks. i rom som hovedsakelig er beregnet på akkumulatorbatterier, i malingsskap, acetylenlagre eller lignende rom, med mindre administrasjonen er forvisset om at slikt utstyr er.1 av vesentlig betydning for driften.2 av en type som ikke vil antenne den aktuelle blandingen.3 relevant i det aktuelle rommet, og.4 behørig sertifisert for sikker bruk i de typene støv, damper og gasser som kan forventes å oppstå.
+Det skal ikke installeres elektrisk utstyr i rom der brannfarlige blandinger kan hope seg opp, f.eks. i rom som hovedsakelig er beregnet på akkumulatorbatterier, i malingsskap, acetylenlagre eller lignende rom, med mindre administrasjonen er forvisset om at slikt utstyr er
+
+- .1 av vesentlig betydning for driften
+- .2 av en type som ikke vil antenne den aktuelle blandingen
+- .3 relevant i det aktuelle rommet, og
+- .4 behørig sertifisert for sikker bruk i de typene støv, damper og gasser som kan forventes å oppstå.
 
 11
 
@@ -2987,7 +3807,12 @@ Ethvert skip skal være utstyrt med dokumenter til administrasjonens tilfredshet
 
 1
 
-Det skal finnes midler til å oppdage og gi alarm på et tidlig trinn i tilfelle av brann.1 i kjelenes lufttilførselskapper og utsugingsanlegg (opptrekk) og.2 i framdriftsmaskineriets spylebeltermed mindre administrasjonen anser dette som unødvendig i enkelte tilfeller.
+Det skal finnes midler til å oppdage og gi alarm på et tidlig trinn i tilfelle av brann
+
+- .1 i kjelenes lufttilførselskapper og utsugingsanlegg (opptrekk) og
+- .2 i framdriftsmaskineriets spylebelter
+
+med mindre administrasjonen anser dette som unødvendig i enkelte tilfeller.
 
 2
 
@@ -3039,7 +3864,10 @@ Det automatiske fjernstyringssystemet skal være slik utformet at i tilfelle det
 
 6
 
-Kommandobroen skal være utstyrt med indikatorer som viser.1 propellhastighet og rotasjonsretning for propell med fast stigning, eller.2 propellhastighet og stigningsstilling for propell med vridbar stigning.
+Kommandobroen skal være utstyrt med indikatorer som viser
+
+- .1 propellhastighet og rotasjonsretning for propell med fast stigning, eller
+- .2 propellhastighet og stigningsstilling for propell med vridbar stigning.
 
 7
 
@@ -3053,7 +3881,13 @@ Det skal finnes et driftssikkert kommunikasjonsmiddel for tale mellom kontrollro
 
 1
 
-Det skal finnes et alarmsystem som viser enhver feil som krever oppmerksomhet, og skal.1 kunne gi lydalarm i kontrollrommet for hovedmaskineriet eller på betjeningsstedet for framdriftsmaskineriet og gi lysindikasjon på hver enkelt alarmfunksjon på passende sted.2 ha forbindelse til maskinistenes fellesrom og til hver av maskinistenes lugarer gjennom en velgerbryter for å sikre forbindelse til minst en av disse lugarene. Administrasjonene kan tillatte likeverdige arrangementer.3 utløse en lyd- og lysalarm på kommandobroen for hvilken som helst situasjon som krever handling eller oppmerksomhet fra vakthavende offiser.4 så langt det er praktisk mulig være utformet etter prinsippet om feiling-til-sikkerhet, og.5 utløse maskinistalarmen som kreves etter regel 38, hvis det ikke er lokalt kvittert for en alarmfunksjon innen et begrenset tidsrom.
+Det skal finnes et alarmsystem som viser enhver feil som krever oppmerksomhet, og skal
+
+- .1 kunne gi lydalarm i kontrollrommet for hovedmaskineriet eller på betjeningsstedet for framdriftsmaskineriet og gi lysindikasjon på hver enkelt alarmfunksjon på passende sted
+- .2 ha forbindelse til maskinistenes fellesrom og til hver av maskinistenes lugarer gjennom en velgerbryter for å sikre forbindelse til minst en av disse lugarene. Administrasjonene kan tillatte likeverdige arrangementer
+- .3 utløse en lyd- og lysalarm på kommandobroen for hvilken som helst situasjon som krever handling eller oppmerksomhet fra vakthavende offiser
+- .4 så langt det er praktisk mulig være utformet etter prinsippet om feiling-til-sikkerhet, og
+- .5 utløse maskinistalarmen som kreves etter regel 38, hvis det ikke er lokalt kvittert for en alarmfunksjon innen et begrenset tidsrom.
 
 2.1
 
@@ -3144,7 +3978,18 @@ Når alternative utforminger eller arrangementer avviker fra de forskriftsmessig
 
 ### 3 Teknisk analyse
 
-Den tekniske analysen skal utarbeides og framlegges for administrasjonen, på grunnlag av retningslinjene som organisasjonen har utarbeidet,61 og skal minst omfatte følgende elementer:.1 bestemmelse av den aktuelle skipstypen, maskineriet, de elektriske anleggene, lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt og rommet (rommene).2 identifisering av det eller de forskriftsmessige kravene som maskineriet, de elektriske anleggene og lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt ikke vil oppfylle.3 identifisering av grunnen til at den foreslåtte utformingen ikke vil oppfylle de forskriftsmessige kravene, underbygd av samsvar med andre anerkjente tekniske standarder eller industristandarder.4 bestemmelse av ytelseskriteriene for det aktuelle skipet, maskineriet, de elektriske anleggene, lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt og rommet (rommene) som er omfattet av det eller de relevante forskriftsmessige kravene:.1 ytelseskriteriene skal gi et sikkerhetsnivå som ikke er dårligere enn i de relevante forskriftsmessige kravene i del C, D, E og G, og.2 ytelseskriteriene skal kunne tallfestes og måles.5 detaljert beskrivelse av de alternative utformingene og arrangementene, herunder en liste over hvilke forutsetninger som er brukt i utformingen og eventuelle foreslåtte driftsmessige begrensninger eller vilkår.6 teknisk begrunnelse som viser at alternative utforminger og arrangementer oppfyller sikkerhetskriteriene, og.7 risikovurdering basert på identifisering av potensielle feil og farer knyttet til forslaget.
+Den tekniske analysen skal utarbeides og framlegges for administrasjonen, på grunnlag av retningslinjene som organisasjonen har utarbeidet,61 og skal minst omfatte følgende elementer:
+
+- .1 bestemmelse av den aktuelle skipstypen, maskineriet, de elektriske anleggene, lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt og rommet (rommene)
+- .2 identifisering av det eller de forskriftsmessige kravene som maskineriet, de elektriske anleggene og lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt ikke vil oppfylle
+- .3 identifisering av grunnen til at den foreslåtte utformingen ikke vil oppfylle de forskriftsmessige kravene, underbygd av samsvar med andre anerkjente tekniske standarder eller industristandarder
+- .4 bestemmelse av ytelseskriteriene for det aktuelle skipet, maskineriet, de elektriske anleggene, lagrings- og distribusjonssystemene for drivstoff med lavt flammepunkt og rommet (rommene) som er omfattet av det eller de relevante forskriftsmessige kravene:
+
+  - .1 ytelseskriteriene skal gi et sikkerhetsnivå som ikke er dårligere enn i de relevante forskriftsmessige kravene i del C, D, E og G, og
+  - .2 ytelseskriteriene skal kunne tallfestes og måles
+- .5 detaljert beskrivelse av de alternative utformingene og arrangementene, herunder en liste over hvilke forutsetninger som er brukt i utformingen og eventuelle foreslåtte driftsmessige begrensninger eller vilkår
+- .6 teknisk begrunnelse som viser at alternative utforminger og arrangementer oppfyller sikkerhetskriteriene, og
+- .7 risikovurdering basert på identifisering av potensielle feil og farer knyttet til forslaget.
 
 61 Det vises til «Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III» (MSC.1/Circ.1212) og «Guidelines for the approval of alternatives and equivalents as provided for in various IMO instruments» (MSC.1/Circ.1455).
 
@@ -3175,7 +4020,11 @@ Skip som bruker drivstoff med lavt flammepunkt
 
 1
 
-Med unntak av det som er fastsatt i nr. 4 og 5, skal denne delen få anvendelse på skip som bruker drivstoff med lavt flammepunkt.1 med byggekontrakt inngått 1. januar 2017 eller senere.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2017 eller senere, eller.3 hvis levering finner sted 1. januar 2021 eller senere.
+Med unntak av det som er fastsatt i nr. 4 og 5, skal denne delen få anvendelse på skip som bruker drivstoff med lavt flammepunkt
+
+- .1 med byggekontrakt inngått 1. januar 2017 eller senere
+- .2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. juli 2017 eller senere, eller
+- .3 hvis levering finner sted 1. januar 2021 eller senere.
 
 Slike skip som bruker drivstoff med lavt flammepunkt, skal oppfylle kravene i denne delen i tillegg til eventuelle andre krav i disse reglene som kommer til anvendelse.
 
@@ -3189,7 +4038,10 @@ Med unntak av det som er fastsatt i nr. 4 og 5, skal et skip som bruker drivstof
 
 4
 
-Denne delen skal ikke få anvendelse på gasstankere, som definert i regel VII/11.2,.1 som bruker sin last som drivstoff og oppfyller kravene i IGC-koden, som definert i regel VII/11.2, eller.2 som bruker andre gassdrivstoff med lavt flammepunkt, gitt at utformingen og arrangementene for lagrings- og distribusjonssystemene for slike gassdrivstoff oppfyller kravene i IGC-koden for gass som last.
+Denne delen skal ikke få anvendelse på gasstankere, som definert i regel VII/11.2,
+
+- .1 som bruker sin last som drivstoff og oppfyller kravene i IGC-koden, som definert i regel VII/11.2, eller
+- .2 som bruker andre gassdrivstoff med lavt flammepunkt, gitt at utformingen og arrangementene for lagrings- og distribusjonssystemene for slike gassdrivstoff oppfyller kravene i IGC-koden for gass som last.
 
 5
 

@@ -15,7 +15,7 @@ xml_hash: "21fc2f774042e62fbd7f7d31c7cca5091bf0ed4483bf435c6607e4876be60d49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.) ved VID vitenskapeli
 
 (4) Doktorgradsprøven består av to prøveforelesninger og et offentlig forsvar av avhandlingen, også kalt disputas. Den ene prøveforelesningen er over et oppgitt emne, mens den andre prøveforelesningen er over et selvvalgt emne.
 
-(5) Graden dr.philos. tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent prøveforelesning over et oppgitt emneGodkjent prøveforelesning over et selvvalgt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+(5) Graden dr.philos. tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent prøveforelesning over et oppgitt emne
+3. Godkjent prøveforelesning over et selvvalgt emne
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvar for graden dr.philos.
 
@@ -58,13 +63,29 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.) ved VID vitenskapeli
 
 (3) Som hovedregel gis det ikke rett til å fremstille seg for doktorgradsprøven så lenge søkeren er aktiv student på et veiledet doktorgradsprogram. En søker som har avsluttet en veiledet ph.d.-utdanning uten å ha levert inn doktorgradsavhandling til vurdering, kan tidligst fremstille seg for en dr.philos.-grad to år etter avslutning.
 
-(4) Søkere som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å fremstille seg for prøven dersom høgskolen gir tillatelse til dette. Slik adgang innvilges fortrinnsvis dersom avhandlingenbehandler emner eller bygger på materiale som har tilknytning til Norgehar klar tilknytning til norsk forskning innenfor fagområdeter utført under opphold ved norsk universitet, høyskole, eller i særlig kontakt med norske forskereeller dersom søkeren har oppholdstillatelse i Norge.
+(4) Søkere som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å fremstille seg for prøven dersom høgskolen gir tillatelse til dette. Slik adgang innvilges fortrinnsvis dersom avhandlingen
+
+1. behandler emner eller bygger på materiale som har tilknytning til Norge
+2. har klar tilknytning til norsk forskning innenfor fagområdet
+3. er utført under opphold ved norsk universitet, høyskole, eller i særlig kontakt med norske forskere
+4. eller dersom søkeren har oppholdstillatelse i Norge.
 
 ### § 4-2. Søknad og krav til dokumentasjon
 
 (1) Søknad om å få avhandlingen bedømt rettes til forskningsadministrasjonen. Søknaden skal inneholde en kort redegjørelse som viser at avhandlingen har et tema som hører inn under fagporteføljen til ett av VIDs fakultet.
 
-(2) Søknaden skal inneholde:elektronisk versjon av avhandlingendokumentasjon på tidligere utdanning eller dokumentasjon på kvalifikasjoner tilsvarende høyere utdanningoversikt over tidligere vitenskapelige arbeider, fortrinnsvis med doi-referanse (disse må kunne fremvises på forespørsel)dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet hvor dette er påkrevdmedforfattererklæringer hvor dette er påkrevderklæring om at avhandlingen ikke er til vurdering ved en annen utdanningsinstitusjon, eller inngår i en tidligere godkjent graderklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved VID eller en annen norsk eller utenlandsk institusjonbegrunnelse for søknad om å innlevere avhandlingen på annet språk enn norsk, svensk, dansk eller engelskkortfattet sammendrag som kan tjene som pressemelding ved kunngjøring av disputaserklæring om at avhandlingen kan gjøres åpent tilgjengelig.
+(2) Søknaden skal inneholde:
+
+1. elektronisk versjon av avhandlingen
+2. dokumentasjon på tidligere utdanning eller dokumentasjon på kvalifikasjoner tilsvarende høyere utdanning
+3. oversikt over tidligere vitenskapelige arbeider, fortrinnsvis med doi-referanse (disse må kunne fremvises på forespørsel)
+4. dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet hvor dette er påkrevd
+5. medforfattererklæringer hvor dette er påkrevd
+6. erklæring om at avhandlingen ikke er til vurdering ved en annen utdanningsinstitusjon, eller inngår i en tidligere godkjent grad
+7. erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved VID eller en annen norsk eller utenlandsk institusjon
+8. begrunnelse for søknad om å innlevere avhandlingen på annet språk enn norsk, svensk, dansk eller engelsk
+9. kortfattet sammendrag som kan tjene som pressemelding ved kunngjøring av disputas
+10. erklæring om at avhandlingen kan gjøres åpent tilgjengelig.
 
 (3) Søkere som ikke er statsborger i Norge eller et annet nordisk land må i tillegg legge ved dokumentasjon på oppholdstillatelse og/eller en redegjørelse for avhandlingens tilknytning til Norge jf. [§ 4-1, fjerde ledd](forskrift/2026-03-11-448/§4-1/ledd/4).
 
@@ -118,7 +139,15 @@ Data, analyser eller metoder fra tidligere grader kan imidlertid benyttes som de
 
 (1) Når søknad om å få avhandlingen bedømt er godkjent, oppnevner høgskolen en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, prøveforelesningene og disputasen. Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) gjelder for komitéens medlemmer.
 
-(2) Bedømmelseskomiteen skal normalt settes sammen slik at:Begge kjønn er representertMinst to av medlemmene er uten tilknytning til VID vitenskapelige høgskoleMinst ett av medlemmene ikke har hovedstilling ved norske institusjonerAlle medlemmene har doktorgrad eller tilsvarende kompetanseFlertallet i bedømmelseskomiteen er eksterne medlemmer.Dersom kriteriene fravikes, skal dette begrunnes særskilt.
+(2) Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+1. Begge kjønn er representert
+2. Minst to av medlemmene er uten tilknytning til VID vitenskapelige høgskole
+3. Minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+4. Alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. Flertallet i bedømmelseskomiteen er eksterne medlemmer.
+
+Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
 (3) Høgskolen fastsetter prosedyre for oppnevning. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker avhandlingens fagfelt. Leder utpekes blant komiteens medlemmer eller i tillegg til komiteens medlemmer. Når det er påkrevd, kan høgskolen oppnevne et settemedlem til bedømmelseskomitéen.
 

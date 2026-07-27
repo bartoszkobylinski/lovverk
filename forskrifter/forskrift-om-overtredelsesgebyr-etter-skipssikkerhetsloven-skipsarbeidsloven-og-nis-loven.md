@@ -26,7 +26,14 @@ eu_basis: []
 
 Overtredelsesgebyr etter [skipssikkerhetsloven § 55](lov/2007-02-16-9/§55) første, andre og tredje ledd skal utmåles i hvert enkelt tilfelle.
 
-Ved utmålingen skal det særlig legges vekt påhvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyldom overtredelsen er begått for å fremme rederiets interesserom vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsenom det foreligger gjentakelsevedkommendes økonomiske evneallmennpreventive hensyn.
+Ved utmålingen skal det særlig legges vekt på
+
+1. hvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyld
+2. om overtredelsen er begått for å fremme rederiets interesser
+3. om vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsen
+4. om det foreligger gjentakelse
+5. vedkommendes økonomiske evne
+6. allmennpreventive hensyn.
 
 Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbeløp (G).
 
@@ -34,7 +41,15 @@ Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbelø
 
 Overtredelsesgebyr etter [skipssikkerhetsloven § 56](lov/2007-02-16-9/§56) første og andre ledd, [skipsarbeidsloven § 12-3](lov/2013-06-21-102/§12-3) og [NIS-loven § 13](lov/1987-06-12-48/§13) skal utmåles i hvert enkelt tilfelle.
 
-Ved utmålingen skal det særlig legges vekt påhvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyldom foretaket gjennom sikkerhetsstyringssystemet eller ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsenom overtredelsen er begått for å fremme foretakets interesserom foretaket har hatt eller kunne oppnå noen fordel ved overtredelsenom det foreligger gjentakelseforetakets økonomiske evneallmennpreventive hensyn.
+Ved utmålingen skal det særlig legges vekt på
+
+1. hvor alvorlig overtredelsen er, herunder overtredelsens omfang, virkning og graden av utvist skyld
+2. om foretaket gjennom sikkerhetsstyringssystemet eller ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+3. om overtredelsen er begått for å fremme foretakets interesser
+4. om foretaket har hatt eller kunne oppnå noen fordel ved overtredelsen
+5. om det foreligger gjentakelse
+6. foretakets økonomiske evne
+7. allmennpreventive hensyn.
 
 Overtredelsesgebyret skal maksimalt utgjøre 15 ganger folketrygdens grunnbeløp (G).
 

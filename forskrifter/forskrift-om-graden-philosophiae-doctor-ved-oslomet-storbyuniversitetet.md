@@ -44,7 +44,12 @@ Forskriften gjelder for doktorgradsutdanning som fører fram til graden philosop
 
 (1) OsloMet skal utdanne selvstendige forskere på høyt internasjonalt nivå, i samsvar med vitenskapelige og forskningsetiske standarder. Gjennom ph.d.-utdanningen skal kandidaten tilegne seg kunnskaper, ferdigheter og kompetanse i tråd med det nasjonale kvalifikasjonsrammeverket for livslang læring.
 
-(2) Utdanningen er normert til tre (3) års fulltidsstudier. Graden ph.d. tildeles på grunnlag av:Godkjent opplæringsdelGodkjent vitenskapelig avhandlingGodkjent prøveforelesningGodkjent offentlig forsvar av avhandling (disputas).
+(2) Utdanningen er normert til tre (3) års fulltidsstudier. Graden ph.d. tildeles på grunnlag av:
+
+1. Godkjent opplæringsdel
+2. Godkjent vitenskapelig avhandling
+3. Godkjent prøveforelesning
+4. Godkjent offentlig forsvar av avhandling (disputas).
 
 ### § 1-4. Ansvaret for forskerutdanningen
 
@@ -80,7 +85,25 @@ Forskerutdanningen omfattes av OsloMets kvalitetssikringssystem. Fakultet/senter
 
 ### § 2-2. Søknad
 
-(1) Søknaden skal inneholde:Dokumentasjon for den utdanningen som skal ligge til grunn for opptaket.Prosjektbeskrivelse eller tilsvarende dokument som omfatter:faglig redegjørelse for prosjektetframdriftsplan for gjennomføring av doktorgradsprosjekteteventuelle planer for opphold ved annen institusjonfaglig formidling.Dokumentasjon for finansiering.Plan for opplæringsdelen.Forslag på minst én veileder.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Opplysninger om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private. Dersom slike tillatelser allerede foreligger i prosjektet på søknadstidspunktet, bør disse legges ved søknaden.Datahåndteringsplan der det er relevant.Presisering av hvilket språk avhandlingen planlegges skrevet på.Dokumentasjon av spesielle behov for faglige og materielle ressurser.Opplysninger om planlagt hovedarbeidssted.
+(1) Søknaden skal inneholde:
+
+1. Dokumentasjon for den utdanningen som skal ligge til grunn for opptaket.
+2. Prosjektbeskrivelse eller tilsvarende dokument som omfatter:
+
+   - faglig redegjørelse for prosjektet
+   - framdriftsplan for gjennomføring av doktorgradsprosjektet
+   - eventuelle planer for opphold ved annen institusjon
+   - faglig formidling.
+3. Dokumentasjon for finansiering.
+4. Plan for opplæringsdelen.
+5. Forslag på minst én veileder.
+6. Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.
+7. Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+8. Opplysninger om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private. Dersom slike tillatelser allerede foreligger i prosjektet på søknadstidspunktet, bør disse legges ved søknaden.
+9. Datahåndteringsplan der det er relevant.
+10. Presisering av hvilket språk avhandlingen planlegges skrevet på.
+11. Dokumentasjon av spesielle behov for faglige og materielle ressurser.
+12. Opplysninger om planlagt hovedarbeidssted.
 
 (2) Fakultetet/senteret kan fastsette krav om ytterligere dokumentasjon.
 
@@ -100,7 +123,15 @@ Forskerutdanningen omfattes av OsloMets kvalitetssikringssystem. Fakultet/senter
 
 (2) Fakultetet/senteret kan fastsette kriterier for rangering mellom kvalifiserte søkere når antall søkere overstiger opptakskapasiteten.
 
-(3) Opptak skal nektes dersom:vilkårene i [§ 2-1](forskrift/2024-09-17-2297/§2-1) ikke er oppfylteden faglige kvaliteten ikke er tilfredsstillendeavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtalene som er inngått er så urimelige at universitetet ikke bør medvirke i prosjektetdet gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunktetprosjektet ikke er gjennomførbart innenfor finansieringsperiodenfinansieringen ikke er tilfredsstillende for å kunne gjennomføre prosjektet.
+(3) Opptak skal nektes dersom:
+
+1. vilkårene i [§ 2-1](forskrift/2024-09-17-2297/§2-1) ikke er oppfylte
+2. den faglige kvaliteten ikke er tilfredsstillende
+3. avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+4. de immaterialrettslige avtalene som er inngått er så urimelige at universitetet ikke bør medvirke i prosjektet
+5. det gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunktet
+6. prosjektet ikke er gjennomførbart innenfor finansieringsperioden
+7. finansieringen ikke er tilfredsstillende for å kunne gjennomføre prosjektet.
 
 ### § 2-5. Doktorgradsavtalen
 
@@ -248,19 +279,37 @@ Fakultetet/senteret har ansvar for at opplæringsdelen sammen med avhandlingsarb
 
 (1) Opplæringsdelen må være godkjent av fakultetet/senteret før kandidaten kan søke om å få avhandlingen bedømt.
 
-(2) Søknaden skal inneholde:Avhandlingen leveres i standardisert format og i den form som er fastsatt i programplanen for doktorgradsprogrammet.Dokumentasjon på at opplæringsdelen er fullført og godkjent.Dokumentasjon av nødvendige tillatelser.Medforfattererklæringer hvor dette er påkrevd jf. [§ 5-1 (4)](forskrift/2024-09-17-2297/§5-1/ledd/4) og ([5](forskrift/2024-09-17-2297/§5-1/ledd/5)).Erklæring om at doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+(2) Søknaden skal inneholde:
+
+1. Avhandlingen leveres i standardisert format og i den form som er fastsatt i programplanen for doktorgradsprogrammet.
+2. Dokumentasjon på at opplæringsdelen er fullført og godkjent.
+3. Dokumentasjon av nødvendige tillatelser.
+4. Medforfattererklæringer hvor dette er påkrevd jf. [§ 5-1 (4)](forskrift/2024-09-17-2297/§5-1/ledd/4) og ([5](forskrift/2024-09-17-2297/§5-1/ledd/5)).
+5. Erklæring om at doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+6. Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 (3) Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om avhandlingen er verdig til å forsvares for graden ph.d.
 
 ### § 6-2. Behandling av søknaden
 
-Fakultetet/senteret kan avvise søknader om å få avhandlingen bedømt dersom:søknaden ikke oppfyller kravene til søknad i denne forskrift [§ 6-1](forskrift/2024-09-17-2297/§6-1).det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
+Fakultetet/senteret kan avvise søknader om å få avhandlingen bedømt dersom:
+
+1. søknaden ikke oppfyller kravene til søknad i denne forskrift [§ 6-1](forskrift/2024-09-17-2297/§6-1).
+2. det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
 ### § 6-3. Oppnevning av bedømmelseskomité
 
 (1) Når fakultetet/senteret har godkjent søknaden om å få avhandlingen bedømt, skal fakultetet/senteret oppnevne en sakkyndig komité på minst 3 medlemmer som skal bedømme avhandlingen, prøveforelesningen og disputasen. Det skal utpekes en leder blant komitéens medlemmer. Det bør normalt ikke gå mer enn 4 uker fra søknaden er godkjent til komitéen er oppnevnt.
 
-(2) Bedømmelseskomitéen skal normalt settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til universitetetminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer.Dersom kriteriene fravikes, skal dette begrunnes.
+(2) Bedømmelseskomitéen skal normalt settes sammen slik at:
+
+1. begge kjønn er representert
+2. minst ett av medlemmene er uten tilknytning til universitetet
+3. minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+4. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. flertallet i bedømmelseskomiteen er eksterne medlemmer.
+
+Dersom kriteriene fravikes, skal dette begrunnes.
 
 (3) Veiledere og andre som har bidratt til avhandlingen, kan ikke være medlem av bedømmelseskomitéen. For øvrig gjelder habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) for komitéens medlemmer.
 
@@ -272,7 +321,11 @@ Fakultetet/senteret kan avvise søknader om å få avhandlingen bedømt dersom:s
 
 ### § 6-4. Bedømmelseskomitéens arbeid
 
-Bedømmelsen av avhandlingen kan ha følgende utfall:Godkjenning: Avhandlingen anses klar til innstilling og verdig til å forsvares i disputas jf. [§ 6-8 (2)](forskrift/2024-09-17-2297/§6-8/ledd/2)Omarbeiding av avhandlingen: Doktorgradskandidaten kan bli bedt om å foreta mindre omarbeiding i henhold til [§ 6-6](forskrift/2024-09-17-2297/§6-6), før bedømmelseskomitéen fremlegger den endelige innstillingenUnderkjenning: Avhandlingen anses ikke verdig til å forsvares i disputas, jf. [§ 6-8 (4)](forskrift/2024-09-17-2297/§6-8/ledd/4).
+Bedømmelsen av avhandlingen kan ha følgende utfall:
+
+1. Godkjenning: Avhandlingen anses klar til innstilling og verdig til å forsvares i disputas jf. [§ 6-8 (2)](forskrift/2024-09-17-2297/§6-8/ledd/2)
+2. Omarbeiding av avhandlingen: Doktorgradskandidaten kan bli bedt om å foreta mindre omarbeiding i henhold til [§ 6-6](forskrift/2024-09-17-2297/§6-6), før bedømmelseskomitéen fremlegger den endelige innstillingen
+3. Underkjenning: Avhandlingen anses ikke verdig til å forsvares i disputas, jf. [§ 6-8 (4)](forskrift/2024-09-17-2297/§6-8/ledd/4).
 
 ### § 6-5. Innhenting av supplerende opplysninger
 

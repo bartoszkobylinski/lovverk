@@ -60,7 +60,13 @@ Fosterforeldre skal legge frem uttømmende og utvidet politiattest, jf. [barneve
 
 Barnevernstjenesten i omsorgskommunen skal velge et fosterhjem som er egnet til å ivareta det enkelte barns behov, jf. [barnevernsloven § 9-5](lov/2021-06-18-97/§9-5), og legge avgjørende vekt på hensynet til barnets beste. Barnevernstjenesten skal i sin vurdering ta hensyn til barnets etniske, kulturelle, språklige og religiøse bakgrunn. Det skal tilstrebes å velge fosterhjem i barnets nærmiljø så fremt hensynet til barnet ikke taler mot dette. Barnet skal få forståelig informasjon og gis anledning til å medvirke ved valg av fosterhjem, jf. [barnevernsloven § 1-4](lov/2021-06-18-97/§1-4).
 
-Fosterhjemmet skal ha de nødvendige forutsetninger for å ivareta det enkelte barns særlige behov. Når barnevernstjenesten vurderer dette, må de særlig se hen til:Barnets omsorgs- og oppfølgingsbehovBarnets behov for å opprettholde kontakt med familie, nettverk og nærmiljøFormålet med fosterhjemstiltaket og forventet varighetFosterforeldrenes omsorgs- og samarbeidskompetanseFosterforeldrenes familie- og livssituasjon, herunder alder, helse, økonomi, bolig og sosialt nettverk.
+Fosterhjemmet skal ha de nødvendige forutsetninger for å ivareta det enkelte barns særlige behov. Når barnevernstjenesten vurderer dette, må de særlig se hen til:
+
+1. Barnets omsorgs- og oppfølgingsbehov
+2. Barnets behov for å opprettholde kontakt med familie, nettverk og nærmiljø
+3. Formålet med fosterhjemstiltaket og forventet varighet
+4. Fosterforeldrenes omsorgs- og samarbeidskompetanse
+5. Fosterforeldrenes familie- og livssituasjon, herunder alder, helse, økonomi, bolig og sosialt nettverk.
 
 Barnevernstjenesten skal innhente opplysninger om fosterforeldrenes helsetilstand.
 
@@ -198,7 +204,11 @@ Når det som følge av et høyt antall ankomster til Norge av personer fordrevet
 
 ### § 19. Rapportering
 
-Tilsynspersonen skal utarbeide rapport etter hvert tilsyn. Rapporten skal gi en vurdering av barnets situasjon i fosterhjemmet, og skal omtalehva vurderingene av barnets situasjon bygger påhvordan barnet er gitt mulighet til å uttrykke sine synspunkter, om det har vært samtaler med barnet og innholdet i disseom det bør innhentes ytterligere informasjon fra miljøer som barnet er i.
+Tilsynspersonen skal utarbeide rapport etter hvert tilsyn. Rapporten skal gi en vurdering av barnets situasjon i fosterhjemmet, og skal omtale
+
+1. hva vurderingene av barnets situasjon bygger på
+2. hvordan barnet er gitt mulighet til å uttrykke sine synspunkter, om det har vært samtaler med barnet og innholdet i disse
+3. om det bør innhentes ytterligere informasjon fra miljøer som barnet er i.
 
 Rapporten sendes umiddelbart til fosterhjemskommunen som kontrollerer at rapporten gir tilstrekkelig informasjon til at formålet med tilsynet må anses ivaretatt. Dersom tilsynspersonen vurderer at det er alvorlige mangler ved barnets omsorgssituasjon i fosterhjemmet skal rapporten samtidig sendes i kopi til barnevernstjenesten i omsorgskommunen. Har rapporten mangler, skal tilsynspersonen skrive tilleggsrapport, og om nødvendig foreta supplerende vurderinger. Fosterhjemskommunen videresender godkjent rapport til barnevernstjenesten i omsorgskommunen, og kopi til barnevernstjenesten i fosterhjemskommunen og til Bufetat ved tilsyn med barn i fosterhjem som etaten tilbyr. Når rapporten viser alvorlige mangler i barnets omsorgssituasjon, skal fosterhjemskommunen sende kopi av rapporten til statsforvalter.
 

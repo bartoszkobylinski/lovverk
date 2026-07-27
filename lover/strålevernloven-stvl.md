@@ -15,7 +15,7 @@ xml_hash: "b1b2682b64b52fcba3ae67021d4028a6c9c4dfa91a68d546a9033a8fbc4f8683"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Loven gjelder også planlegging og beredskap mot uhell, ulykker og andre hendels
 
 ### § 3. Definisjoner
 
-I denne loven betyrstråling: Ioniserende og ikke-ioniserende stråling.ioniserende stråling: Stråling fra radioaktivt stoff, røntgenstråling og partikkelstråling.ikke-ioniserende stråling: Optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller annen stråling med tilsvarende biologiske effekter samt ultralyd.strålekilder: Radioaktive stoffer, varer eller utstyr inneholdende slike stoffer, samt anlegg, apparater eller utstyr som kan avgi stråling.medisinsk strålebruk: Anvendelse av stråling på mennesker ved medisinsk undersøkelse og behandling, i forskning og ved undersøkelser i rettslig sammenheng.avfallsdisponering: Enhver disponering av strålekilder etter endt bruk, herunder lagring, utslipp, deponering, returordning eller behandling som ordinært avfall.
+I denne loven betyr
+
+1. stråling: Ioniserende og ikke-ioniserende stråling.
+2. ioniserende stråling: Stråling fra radioaktivt stoff, røntgenstråling og partikkelstråling.
+3. ikke-ioniserende stråling: Optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller annen stråling med tilsvarende biologiske effekter samt ultralyd.
+4. strålekilder: Radioaktive stoffer, varer eller utstyr inneholdende slike stoffer, samt anlegg, apparater eller utstyr som kan avgi stråling.
+5. medisinsk strålebruk: Anvendelse av stråling på mennesker ved medisinsk undersøkelse og behandling, i forskning og ved undersøkelser i rettslig sammenheng.
+6. avfallsdisponering: Enhver disponering av strålekilder etter endt bruk, herunder lagring, utslipp, deponering, returordning eller behandling som ordinært avfall.
 
 ### § 4. Lovens stedlige virkeområde
 
@@ -102,7 +109,15 @@ Kongen kan gi nærmere forskrifter om internkontroll og internkontrollsystemer f
 
 ### § 12. Forskrifter om forsvarlig strålevern og bruk av stråling m.v.
 
-For å fremme lovens formål og sikre forsvarlig strålevern og bruk av stråling kan departementet fastsette forskrifter til utfylling av bestemmelsene i denne loven. I forskriftene kan det blant annet stilles krav tilorganisering av strålevernet, herunder utpeking av strålevernsansvarlig, samt krav til registrering av nødvendige opplysninger for internkontroll eller tilsynsformål.skjermingstiltak i form av konstruksjon og innretning av lokaler og arbeidsplass, arbeidsprosedyrer og bruk av persontilpasset verneutstyr. Det kan også stilles krav til stråleavgivende utstyrs utforming og funksjon.merking av strålekilder og opplysning om anvendelse, håndtering og lagring av strålekilder. Det kan videre stilles krav om advarselsskilting i lokaler eller områder der det befinner seg strålekilder eller radioaktivt avfall som kan medføre en risiko for helsen. Likeledes kan det stilles krav til å opplyse berørte personer og allmennheten om strålebruk og strålevern.måling av strålenivåer, herunder persondosimetri.dosegrenser for relevante typer stråling.transport av strålekilder, herunder radioaktivt avfall og utstyr inneholdende slike kilder.oppfølging av vernetiltak i forbindelse med gjennomføring av reparasjon, vedlikehold eller endring av strålekilde eller anlegg.
+For å fremme lovens formål og sikre forsvarlig strålevern og bruk av stråling kan departementet fastsette forskrifter til utfylling av bestemmelsene i denne loven. I forskriftene kan det blant annet stilles krav til
+
+1. organisering av strålevernet, herunder utpeking av strålevernsansvarlig, samt krav til registrering av nødvendige opplysninger for internkontroll eller tilsynsformål.
+2. skjermingstiltak i form av konstruksjon og innretning av lokaler og arbeidsplass, arbeidsprosedyrer og bruk av persontilpasset verneutstyr. Det kan også stilles krav til stråleavgivende utstyrs utforming og funksjon.
+3. merking av strålekilder og opplysning om anvendelse, håndtering og lagring av strålekilder. Det kan videre stilles krav om advarselsskilting i lokaler eller områder der det befinner seg strålekilder eller radioaktivt avfall som kan medføre en risiko for helsen. Likeledes kan det stilles krav til å opplyse berørte personer og allmennheten om strålebruk og strålevern.
+4. måling av strålenivåer, herunder persondosimetri.
+5. dosegrenser for relevante typer stråling.
+6. transport av strålekilder, herunder radioaktivt avfall og utstyr inneholdende slike kilder.
+7. oppfølging av vernetiltak i forbindelse med gjennomføring av reparasjon, vedlikehold eller endring av strålekilde eller anlegg.
 
 ## Kapittel III. Særskilte bestemmelser om medisinsk strålebruk
 

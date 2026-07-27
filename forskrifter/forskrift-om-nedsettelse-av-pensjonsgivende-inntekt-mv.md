@@ -40,7 +40,16 @@ Nedsettelse av den pensjonsgivende inntekt foretas likevel ikke i den utstreknin
 
 ### § 3
 
-Pensjonsgivende inntekt nedsettes ikke når:nedsettelsen av den pensjonsgivende inntekt ikke vil utgjøre mer enn 25 prosent av folketrygdens grunnbeløp for det inntektsår nedsettelsen gjelder,fastsatt skatt nedsettes etter søknad i forbindelse med etterbetaling av skatte- og avgiftspliktige ytelser etter opptjeningsåret,det pågår avdragsbetaling i henhold til avtale mellom Innkrevingsmyndigheten og skattyter, og denne ikke misligholdes,det pågår tvangsmessig innfordring i form av utleggstrekk,videre innfordring etter skattekontorets avgjørelse foreløpig er stilt i bero fordi skatte- og avgiftskravet er sikret ved pant,skatte- og avgiftskravet er brakt inn for domstolene, og saken ikke er endelig avgjort,det er klart at fastsettingen vil bli endret,foreldre, adoptivforeldre eller pleieforeldre som skattlegges under ett med barn, jf. [skatteloven § 2-14](lov/1999-03-26-14/§2-14) første, annet og tredje ledd, får nedsatt eller ettergitt skatt av formue og/eller inntekt som ikke har inngått i beregningsgrunnlaget for pensjonsgivende inntekt.
+Pensjonsgivende inntekt nedsettes ikke når:
+
+1. nedsettelsen av den pensjonsgivende inntekt ikke vil utgjøre mer enn 25 prosent av folketrygdens grunnbeløp for det inntektsår nedsettelsen gjelder,
+2. fastsatt skatt nedsettes etter søknad i forbindelse med etterbetaling av skatte- og avgiftspliktige ytelser etter opptjeningsåret,
+3. det pågår avdragsbetaling i henhold til avtale mellom Innkrevingsmyndigheten og skattyter, og denne ikke misligholdes,
+4. det pågår tvangsmessig innfordring i form av utleggstrekk,
+5. videre innfordring etter skattekontorets avgjørelse foreløpig er stilt i bero fordi skatte- og avgiftskravet er sikret ved pant,
+6. skatte- og avgiftskravet er brakt inn for domstolene, og saken ikke er endelig avgjort,
+7. det er klart at fastsettingen vil bli endret,
+8. foreldre, adoptivforeldre eller pleieforeldre som skattlegges under ett med barn, jf. [skatteloven § 2-14](lov/1999-03-26-14/§2-14) første, annet og tredje ledd, får nedsatt eller ettergitt skatt av formue og/eller inntekt som ikke har inngått i beregningsgrunnlaget for pensjonsgivende inntekt.
 
 > Endret ved [forskrifter 9 des 2016 nr. 1508](forskrift/2016-12-09-1508) (i kraft 1 jan 2017), [12 okt 2020 nr. 2017](forskrift/2020-10-12-2017) (i kraft 1 nov 2020), [13 juni 2025 nr. 1017](forskrift/2025-06-13-1017) (i kraft 1 jan 2026). **Endres** ved forskrift [13 juni 2025 nr. 1017](forskrift/2025-06-13-1017) (i kraft 1 jan 2027).
 
@@ -52,7 +61,10 @@ Ny pensjonsopptjening beregnes etter reglene i [folketrygdloven § 3-13](lov/199
 
 ### § 5
 
-Reduksjon av pensjonsgivende inntekt og pensjonsopptjening får ikke konsekvenser for:allerede utbetalte ytelser,løpende sykepenger.
+Reduksjon av pensjonsgivende inntekt og pensjonsopptjening får ikke konsekvenser for:
+
+1. allerede utbetalte ytelser,
+2. løpende sykepenger.
 
 > Endret ved [forskrifter 3 jan 2002 nr. 9](forskrift/2002-01-03-9), [9 des 2016 nr. 1508](forskrift/2016-12-09-1508) (i kraft 1 jan 2017).
 

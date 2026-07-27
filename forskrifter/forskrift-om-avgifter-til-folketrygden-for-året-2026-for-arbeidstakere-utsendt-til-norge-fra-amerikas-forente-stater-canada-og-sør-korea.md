@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Personkrets
 
-Denne forskriften omfatter arbeidstakere i Norge somi medhold av [artikkel 5 nr. 2](traktat/2001-11-30-2/a5/nummer/2) og [8](traktat/2001-11-30-2/a5/nummer/8) i [avtalen om sosial trygd mellom Norge og Amerikas forente stater av 30. november 2001](traktat/2001-11-30-2),i medhold av [artikkel 7](traktat/2012-06-20-12/a7) i [avtalen om sosial trygd mellom Norge og Canada av 20. juni 2012](traktat/2012-06-20-12), elleri medhold av [artikkel 6 nr. 4](traktat/2019-06-13-12/a6/nummer/4) i [avtalen om trygd mellom Norge og Sør-Korea av 13. juni 2019](traktat/2019-06-13-12),er pliktig medlem i folketrygdens sykestønadsdel under arbeid i Norge.
+Denne forskriften omfatter arbeidstakere i Norge som
+
+1. i medhold av [artikkel 5 nr. 2](traktat/2001-11-30-2/a5/nummer/2) og [8](traktat/2001-11-30-2/a5/nummer/8) i [avtalen om sosial trygd mellom Norge og Amerikas forente stater av 30. november 2001](traktat/2001-11-30-2),
+2. i medhold av [artikkel 7](traktat/2012-06-20-12/a7) i [avtalen om sosial trygd mellom Norge og Canada av 20. juni 2012](traktat/2012-06-20-12), eller
+3. i medhold av [artikkel 6 nr. 4](traktat/2019-06-13-12/a6/nummer/4) i [avtalen om trygd mellom Norge og Sør-Korea av 13. juni 2019](traktat/2019-06-13-12),
+
+er pliktig medlem i folketrygdens sykestønadsdel under arbeid i Norge.
 
 ## § 2. Avgiftssatser
 

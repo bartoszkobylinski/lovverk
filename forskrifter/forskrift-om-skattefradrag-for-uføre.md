@@ -28,19 +28,28 @@ Forskriften gjelder beregning av fradrag i skatt for inntektsårene 2015, 2016 o
 
 ## § 2. Hvem omfattes av overgangsreglene
 
-Overgangsreglene gjelder forskattytere som har mottatt uførepensjon fra folketrygden i 2014 og ny uføretrygd fra folketrygden i 2015, fordi ervervsevnen er satt ned med minst 2/3, ogskattytere som har mottatt uførepensjon fra Statens pensjonskasse i 2014 og 2015 fordi ervervsevnen er satt ned med minst 2/3, men uten å fylle vilkårene for uføreytelse fra folketrygden.
+Overgangsreglene gjelder for
+
+1. skattytere som har mottatt uførepensjon fra folketrygden i 2014 og ny uføretrygd fra folketrygden i 2015, fordi ervervsevnen er satt ned med minst 2/3, og
+2. skattytere som har mottatt uførepensjon fra Statens pensjonskasse i 2014 og 2015 fordi ervervsevnen er satt ned med minst 2/3, men uten å fylle vilkårene for uføreytelse fra folketrygden.
 
 Skattytere som etter 1. januar 2015 får rett til uførepensjon med virkning fra før 1. januar 2015, omfattes ikke av overgangsreglene.
 
 ## § 3. Vilkår for skattefradrag
 
-Det er et vilkår for skattefradrag at skattyterhar fått skattebegrensning etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1) første ledd bokstav a for inntektsåret 2014, og ville fått skattebegrensning for inntektsåret 2015 etter [§ 4](forskrift/2014-12-19-1860/§4) annet ledd bokstav b, oghar høyere kapitalutgifter enn kapitalinntekter i både 2014 og 2015. Er skattyter gift, tas det utgangspunkt i ektefellenes samlede kapitalutgifter og kapitalinntekter. Ektefellene må til sammen ha minst én krone mer i kapitalutgifter enn kapitalinntekter.
+Det er et vilkår for skattefradrag at skattyter
+
+1. har fått skattebegrensning etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1) første ledd bokstav a for inntektsåret 2014, og ville fått skattebegrensning for inntektsåret 2015 etter [§ 4](forskrift/2014-12-19-1860/§4) annet ledd bokstav b, og
+2. har høyere kapitalutgifter enn kapitalinntekter i både 2014 og 2015. Er skattyter gift, tas det utgangspunkt i ektefellenes samlede kapitalutgifter og kapitalinntekter. Ektefellene må til sammen ha minst én krone mer i kapitalutgifter enn kapitalinntekter.
 
 ## § 4. Beregning av endring i inntekt etter skatt for inntektsåret 2015
 
 Formålet med beregningen er å komme fram til endring i skattyters inntekt etter skatt som følge av overgangen fra uførepensjon og pensjonsskatteregler til uføretrygd og lønnsbeskatning.
 
-Endring i inntekt beregnes ved å sammenlignebruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015, ogbruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015 beregnet med uførepensjon og pensjonsskatteregler istedenfor uføretrygd og lønnsbeskatning. Uførepensjon settes til mottatt uførepensjon fra folketrygden og Statens pensjonskasse for 2014, oppjustert med 2,1 prosent. Dersom skattyter bare mottar uføretrygd for deler av 2015, skal den oppjusterte uførepensjonen reduseres tilsvarende. Ved skatteberegningen anvendes skattereglene for uførepensjon for inntektsåret 2014, men med satser og beløpsgrenser som for inntektsåret 2015.
+Endring i inntekt beregnes ved å sammenligne
+
+1. bruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015, og
+2. bruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015 beregnet med uførepensjon og pensjonsskatteregler istedenfor uføretrygd og lønnsbeskatning. Uførepensjon settes til mottatt uførepensjon fra folketrygden og Statens pensjonskasse for 2014, oppjustert med 2,1 prosent. Dersom skattyter bare mottar uføretrygd for deler av 2015, skal den oppjusterte uførepensjonen reduseres tilsvarende. Ved skatteberegningen anvendes skattereglene for uførepensjon for inntektsåret 2014, men med satser og beløpsgrenser som for inntektsåret 2015.
 
 Ved beregningen etter annet ledd bokstav b er det et vilkår at skattyter får skattebegrensning etter [skatteloven § 17-1](lov/1999-03-26-14/§17-1) første ledd bokstav a.
 

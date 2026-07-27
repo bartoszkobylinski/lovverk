@@ -15,7 +15,7 @@ xml_hash: "ba00d91dbce097407e5b5d0bdf603f2255b7263b83de29d7be5e423dc403c9f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Graden doctor philosophiae (dr.philos.) kan tildeles personer som har avlagt eks
 
 En dr.philos.-grad kvalifiserer for forskningsvirksomhet og annet arbeid i samfunnet hvor det stilles store krav til vitenskapelig innsikt, arbeidsmåte og analytisk tenkning i samsvar med god vitenskapelig skikk og forskningsetiske standarder.
 
-Dr.philos.-graden tildeles på grunnlag av:godkjent vitenskapelig avhandlinggodkjent prøveforelesning over selvvalgt emnegodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Dr.philos.-graden tildeles på grunnlag av:
+
+- godkjent vitenskapelig avhandling
+- godkjent prøveforelesning over selvvalgt emne
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ## § 3. Ansvar for graden doctor philosophiae (dr.philos.)
 
@@ -50,13 +55,25 @@ FoU-utvalget kan, etter forslag fra doktorgradsutvalget, fastsette utfyllende re
 
 Søkeren skal ha en femårig mastergrad eller tilsvarende utdanning. FoU-utvalget kan gi søkere som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag adgang til å framstille seg til doktorgradsprøven. Det påhviler søkeren å fremlegge dokumentasjon på tilsvarende kvalifikasjoner.
 
-Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å framstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge, ellerhar sterk tilknytning til norsk forskning innen fagområdet, ellerer utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
+Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å framstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge, eller
+- har sterk tilknytning til norsk forskning innen fagområdet, eller
+- er utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
 
 ## § 4-2. Søknad og krav til dokumentasjon
 
 Søknad rettes til Norges musikkhøgskole.
 
-Følgende dokumentasjon skal være vedlagt søknaden:AvhandlingenDokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjonerOversikt over tidligere vitenskapelige arbeider (disse må kunne framvises på forespørsel).Dokumentasjon på at nødvendige tillatelser er innhentet.Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-1](forskrift/2021-06-10-1861/§5-1).Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.
+Følgende dokumentasjon skal være vedlagt søknaden:
+
+- Avhandlingen
+- Dokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjoner
+- Oversikt over tidligere vitenskapelige arbeider (disse må kunne framvises på forespørsel).
+- Dokumentasjon på at nødvendige tillatelser er innhentet.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-1](forskrift/2021-06-10-1861/§5-1).
+- Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.
 
 Søkere som ikke er statsborger i Norge eller et annet nordisk land må i tillegg legge ved dokumentasjon på oppholdstillatelse og/eller en redegjørelse for avhandlingens tilknytning til Norge.
 
@@ -102,7 +119,12 @@ Når søknad om å få avhandlingen bedømt er godkjent, oppnevner FoU-utvalget 
 
 Det bør normalt ikke gå mer enn 6 uker fra søknaden er godkjent til komiteen er oppnevnt.
 
-Bedømmelseskomiteen skal som hovedregel settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til Norges musikkhøgskoleminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har vitenskapelig doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal som hovedregel settes sammen slik at:
+
+- begge kjønn er representert
+- minst ett av medlemmene er uten tilknytning til Norges musikkhøgskole
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har vitenskapelig doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

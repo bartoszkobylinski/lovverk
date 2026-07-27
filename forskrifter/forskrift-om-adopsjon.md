@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1. Krav til adopsjonssøkere
 
-Adopsjonssøkere skal være gode omsorgspersoner, se [adopsjonsloven § 5](lov/2017-06-16-48/§5). I vurderingen av hvem som er egnet til å adoptere skal det blant annet legges vekt påpersonlige egenskaper og motivasjonen for å adopterefysisk og psykisk helseforutsetningene for å takle omsorgsoppgaver under hele barnets oppvekstfamiliesituasjonenfamiliens økonomiboligstandard og bomiljøvandel.
+Adopsjonssøkere skal være gode omsorgspersoner, se [adopsjonsloven § 5](lov/2017-06-16-48/§5). I vurderingen av hvem som er egnet til å adoptere skal det blant annet legges vekt på
+
+1. personlige egenskaper og motivasjonen for å adoptere
+2. fysisk og psykisk helse
+3. forutsetningene for å takle omsorgsoppgaver under hele barnets oppvekst
+4. familiesituasjonen
+5. familiens økonomi
+6. boligstandard og bomiljø
+7. vandel.
 
 Ektefeller og samboere som søker om å adoptere barn skal, som hovedregel, ha bodd sammen de siste 2 årene.
 
@@ -44,7 +52,19 @@ Ved utenlandsadopsjon skal søkere ha formidlingsbekreftelse fra en godkjent ado
 
 ### § 3. Krav til en adopsjonssøknad
 
-En adopsjonssøknad skal sendes Barne-, ungdoms- og familieetatens regionkontor (Bufetat) på fastsatt søknadsskjema og inneholdefødselsattest eller kopi av gyldig passadressehistorikk fra folkeregisteretegenerklæring om helse på et skjema fra Barne-, ungdoms- og familiedirektoratet (Bufdir)legeerklæring på et skjema fra Bufdiruttømmende politiattestutskrift av det siste grunnlaget for skattvigselsattest når søkerne er ektefellerutskrift fra folkeregisteret som dokumenterer statsborgerskapformidlingsbekreftelse fra en godkjent adopsjonsorganisasjon når søknaden gjelder utenlandsadopsjon som skal formidles av en slik organisasjonbilde av søkerne når søknaden gjelder spedbarnsadopsjonkursbevis fra adopsjonsforberedende kurs.
+En adopsjonssøknad skal sendes Barne-, ungdoms- og familieetatens regionkontor (Bufetat) på fastsatt søknadsskjema og inneholde
+
+1. fødselsattest eller kopi av gyldig pass
+2. adressehistorikk fra folkeregisteret
+3. egenerklæring om helse på et skjema fra Barne-, ungdoms- og familiedirektoratet (Bufdir)
+4. legeerklæring på et skjema fra Bufdir
+5. uttømmende politiattest
+6. utskrift av det siste grunnlaget for skatt
+7. vigselsattest når søkerne er ektefeller
+8. utskrift fra folkeregisteret som dokumenterer statsborgerskap
+9. formidlingsbekreftelse fra en godkjent adopsjonsorganisasjon når søknaden gjelder utenlandsadopsjon som skal formidles av en slik organisasjon
+10. bilde av søkerne når søknaden gjelder spedbarnsadopsjon
+11. kursbevis fra adopsjonsforberedende kurs.
 
 Dokumentasjonen skal være originaldokumenter som ikke er eldre enn seks måneder. Fødselsattest, vigselsattest og pass kan framlegges i kopi som er bekreftet av offentlig tjenesteperson eller advokat. Fødselsattesten og utskriften av det siste grunnlaget for skatt kan være eldre enn 6 måneder.
 
@@ -60,7 +80,16 @@ Bufetat kan også innhente opplysninger fra personer i søkerens nettverk. Hvis 
 
 ### § 6. Søkers informasjonsplikt om endringer
 
-Søker skal informere Barne-, ungdoms- og familieetatens regionkontor om endringer i familie- eller livssituasjon mellom søknadstidspunktet og fram til adopsjonen er gjennomført. Endringer vil blant annet omfattegraviditetbehandling for barnløshetat familien har fått et fosterbarnendring i sivilstatus, blant annet samlivsbruddsykdomarbeidsledighetendring i økonomiflytting.
+Søker skal informere Barne-, ungdoms- og familieetatens regionkontor om endringer i familie- eller livssituasjon mellom søknadstidspunktet og fram til adopsjonen er gjennomført. Endringer vil blant annet omfatte
+
+1. graviditet
+2. behandling for barnløshet
+3. at familien har fått et fosterbarn
+4. endring i sivilstatus, blant annet samlivsbrudd
+5. sykdom
+6. arbeidsledighet
+7. endring i økonomi
+8. flytting.
 
 Ved utenlandsadopsjon vurderer Bufetat om vilkårene for adopsjon fortsatt er oppfylt og kan pålegge adopsjonsorganisasjonen å hindre at søker blir tildelt et barn før den nye vurderingen er gjort. Blir opplysningene etter første ledd vurdert slik at vilkårene for forhåndssamtykke ikke lenger er oppfylt, skal forhåndssamtykket trekkes tilbake.
 
@@ -78,7 +107,12 @@ Foreldre kan avtale med Bufdir at de skal ha samvær med barnet.
 
 ### § 8. Samtykke til spedbarnsadopsjon, veiledning til spedbarnets opprinnelige foreldre og opplysninger om dem og barnet
 
-I sak om spedbarnsadopsjon skal Barne-, ungdoms- og familiedirektoratetinnhente samtykke til en adopsjonsikre at foreldre får nødvendig informasjon og veiledning, herunder mulighet til å vurdere alternativer til adopsjon før de samtykkernedtegne opplysninger om de opprinnelige foreldrene og barnet, se [§ 7](forskrift/2018-06-22-959/§7) tredje ledd, og eventuelle opplysninger om familiehistorikkfølge opp eventuell farskapssak og motta kopi av vedtak fra NAV på vegne av barnet.
+I sak om spedbarnsadopsjon skal Barne-, ungdoms- og familiedirektoratet
+
+1. innhente samtykke til en adopsjon
+2. sikre at foreldre får nødvendig informasjon og veiledning, herunder mulighet til å vurdere alternativer til adopsjon før de samtykker
+3. nedtegne opplysninger om de opprinnelige foreldrene og barnet, se [§ 7](forskrift/2018-06-22-959/§7) tredje ledd, og eventuelle opplysninger om familiehistorikk
+4. følge opp eventuell farskapssak og motta kopi av vedtak fra NAV på vegne av barnet.
 
 ### § 9. Registrering av adopsjonssøker
 
@@ -138,7 +172,11 @@ Når Bufdir ber om det, skal utvalget eller medlemmer av utvalget uttale seg i a
 
 ### § 17. Utvalgets sammensetning
 
-Det faglig rådgivende utvalget for adopsjonssaker skal ha medlemmer som erspesialist i allmennmedisinpsykolog eller psykiater med klinisk erfaring fra arbeid med barnpsykolog eller psykiater med klinisk erfaring fra arbeid med voksne.
+Det faglig rådgivende utvalget for adopsjonssaker skal ha medlemmer som er
+
+1. spesialist i allmennmedisin
+2. psykolog eller psykiater med klinisk erfaring fra arbeid med barn
+3. psykolog eller psykiater med klinisk erfaring fra arbeid med voksne.
 
 Departementet oppnevner minst 3 medlemmer med varamedlemmer for en periode på 2 år.
 
@@ -166,11 +204,17 @@ Organisasjonen skal ha vedtekter. Vedtektene og endringer av vedtektene skal god
 
 ### § 21. Vilkår for formidlingstillatelse
 
-Barne-, ungdoms- og familiedirektoratet kan bare gi formidlingstillatelse nårdet aktuelle landet har behov for adoptivfamilier i utlandetorganisasjonen har innsikt i og kunnskap om lover, andre regler og prosedyrer som gjelder for internasjonale adopsjoner i landet.
+Barne-, ungdoms- og familiedirektoratet kan bare gi formidlingstillatelse når
+
+1. det aktuelle landet har behov for adoptivfamilier i utlandet
+2. organisasjonen har innsikt i og kunnskap om lover, andre regler og prosedyrer som gjelder for internasjonale adopsjoner i landet.
 
 ### § 22. Endringer i adopsjonsorganisasjonen
 
-En adopsjonsorganisasjon skal straks melde fra til Barne-, ungdoms- og familiedirektoratetom endringer i virksomheten i Norge eller i utlandet, som kan ha betydning for drifts- eller formidlingstillatelsenom endringer i politiske-, juridiske- eller andre forhold i utlandet som kan få betydning for formidlingsvirksomheten.
+En adopsjonsorganisasjon skal straks melde fra til Barne-, ungdoms- og familiedirektoratet
+
+1. om endringer i virksomheten i Norge eller i utlandet, som kan ha betydning for drifts- eller formidlingstillatelsen
+2. om endringer i politiske-, juridiske- eller andre forhold i utlandet som kan få betydning for formidlingsvirksomheten.
 
 ### § 23. Behandling av personopplysninger
 

@@ -26,7 +26,14 @@ eu_basis: []
 
 Forskriften gjelder den som driver jernbane, herunder sporvei, tunnelbane og forstadsbane m.m.
 
-Kravene i forskriften omfatter personell som utfører følgende arbeidsoppgaver av betydning for trafikksikkerheten:utfører trafikkstyring,framfører rullende materiell,utfører eller leder skifting,utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,har sikkerhetsansvar ved arbeid og aktivitet i og ved spor,bedømmer den trafikksikkerhetsmessige tilstanden til rullende materiell i operativ drift og kjørevei i forhold til tekniske funksjoner.
+Kravene i forskriften omfatter personell som utfører følgende arbeidsoppgaver av betydning for trafikksikkerheten:
+
+1. utfører trafikkstyring,
+2. framfører rullende materiell,
+3. utfører eller leder skifting,
+4. utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,
+5. har sikkerhetsansvar ved arbeid og aktivitet i og ved spor,
+6. bedømmer den trafikksikkerhetsmessige tilstanden til rullende materiell i operativ drift og kjørevei i forhold til tekniske funksjoner.
 
 Forskriften her gjelder ikke førere på det nasjonale jernbanenettet som har førerbevis etter [forskrift 27. november 2009 nr. 1414](forskrift/2009-11-27-1414) om sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet (førerforskriften).
 
@@ -42,7 +49,17 @@ Gjennomført opplæring skal sikre at arbeidsoppgavene utføres på en slik måt
 
 Den som driver jernbanevirksomhet skal utarbeide en plan for opplæring av personell med arbeidsoppgaver som nevnt i [§ 1](forskrift/2002-12-18-1679/§1).
 
-Planen skal som et minimum inneholde:betegnelse på opplæringen,krav til forkunnskaper,innlæringsmål, samt innhold med pensumoversikt,varighet fordelt på teori og praksis,arbeidsform,maksimalt antall deltakere,kompetansekrav til opplæringspersonell,prinsipper for prøving,krav til eventuell praksis etter endt opplæring.
+Planen skal som et minimum inneholde:
+
+1. betegnelse på opplæringen,
+2. krav til forkunnskaper,
+3. innlæringsmål, samt innhold med pensumoversikt,
+4. varighet fordelt på teori og praksis,
+5. arbeidsform,
+6. maksimalt antall deltakere,
+7. kompetansekrav til opplæringspersonell,
+8. prinsipper for prøving,
+9. krav til eventuell praksis etter endt opplæring.
 
 ## § 4. Prøving
 

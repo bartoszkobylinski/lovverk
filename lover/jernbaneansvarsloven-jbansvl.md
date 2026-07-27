@@ -15,7 +15,7 @@ xml_hash: "63d4b54c827d863d3c1b69c21c5e025a20b45097f23bc07b5a54c10f39ce2679"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,10 @@ Reglene i kapitlet her kan ikke fravikes ved avtale til skade for den reisende.
 
 Jernbanen plikter uten hensyn til skyld å erstatte annen personskade enn nevnt i [§ 3](lov/1977-06-10-73/§3) som kjøringen volder. Var skadelidte på skadetidspunktet 15 år eller eldre, gjelder dette likevel bare når vedkommende befant seg utenfor jernbanens kjørevei eller på et sted åpent for allmenn ferdsel da skaden inntraff.
 
-Første ledd gjelder ikke for skader som rammerpersoner i motorvogner eller jernbanevogner, elleransatte ved jernbanen når skaden omfattes av [lov 16. juni 1989 nr. 65](lov/1989-06-16-65) om yrkesskadeforsikring.
+Første ledd gjelder ikke for skader som rammer
+
+1. personer i motorvogner eller jernbanevogner, eller
+2. ansatte ved jernbanen når skaden omfattes av [lov 16. juni 1989 nr. 65](lov/1989-06-16-65) om yrkesskadeforsikring.
 
 > Tilføyd ved [lov 21 mai 1999 nr. 31](lov/1999-05-21-31) (ikr. 21 mai 1999 med virkning bare for skader voldt etter dette).
 
@@ -110,7 +113,10 @@ Første ledd gjelder ikke for skader som rammerpersoner i motorvogner eller jern
 
 Jernbanen plikter uten hensyn til skyld å erstatte tingskade som kjøringen volder utenfor jernbanens kjørevei eller på et sted åpent for allmenn ferdsel.
 
-Første ledd gjelder ikke for skade påmotorvogner, jernbanevogner eller gods i slike vogner, ellerdyr som går løse på jernbanens kjørevei.
+Første ledd gjelder ikke for skade på
+
+1. motorvogner, jernbanevogner eller gods i slike vogner, eller
+2. dyr som går løse på jernbanens kjørevei.
 
 > Tilføyd ved [lov 21 mai 1999 nr. 31](lov/1999-05-21-31) (ikr. 21 mai 1999 med virkning bare for skader voldt etter dette).
 

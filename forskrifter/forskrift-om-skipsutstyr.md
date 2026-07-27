@@ -15,7 +15,7 @@ xml_hash: "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,12 @@ Rederiet skal så snart som mulig gi Sjøfartsdirektoratet tilstrekkelig dokumen
 
 Når rederiet kan dokumentere at et spesifikt rattmerket utstyr ikke er tilgjengelig på markedet, kan Sjøfartsdirektoratet tillate plassert om bord annet utstyr.
 
-Utstyret skal så langt som mulig oppfylle kravene i [§ 2](forskrift/2016-08-30-1042/§2), og skal medfølges av et midlertidig sertifikat utstedt av Sjøfartsdirektoratet eller en annen EØS-stat. Sertifikatet skal opplyse omhvilket rattmerket skipsutstyr som erstattes,bakgrunnen for og nødvendigheten av at sertifikatet ble utstedt,de krav til utforming, konstruksjon og ytelse som ligger til grunn for sertifiseringen, oghvilke prøvingsstandarder som eventuelt er benyttet ved sertifiseringen.
+Utstyret skal så langt som mulig oppfylle kravene i [§ 2](forskrift/2016-08-30-1042/§2), og skal medfølges av et midlertidig sertifikat utstedt av Sjøfartsdirektoratet eller en annen EØS-stat. Sertifikatet skal opplyse om
+
+1. hvilket rattmerket skipsutstyr som erstattes,
+2. bakgrunnen for og nødvendigheten av at sertifikatet ble utstedt,
+3. de krav til utforming, konstruksjon og ytelse som ligger til grunn for sertifiseringen, og
+4. hvilke prøvingsstandarder som eventuelt er benyttet ved sertifiseringen.
 
 ## § 15. Innflagging
 
@@ -198,13 +203,29 @@ EF-typeprøving er den del av framgangsmåten for samsvarsvurdering der et meldt
 
 2\.
 
-EF-typeprøvingen kan gjennomføres på en av følgende måter:undersøkelse av et eksemplar av det fullstendige produktet som er representativt for den planlagte produksjonen (produksjonstype),vurdering av egnetheten til skipsutstyrets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt en undersøkelse av eksemplarer av det fullstendige produktet som er representativt for den planlagte produksjonen, av en eller flere kritiske deler av produktet (kombinasjon av produksjonstype og konstruksjonstype).
+EF-typeprøvingen kan gjennomføres på en av følgende måter:
+
+- undersøkelse av et eksemplar av det fullstendige produktet som er representativt for den planlagte produksjonen (produksjonstype),
+- vurdering av egnetheten til skipsutstyrets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt en undersøkelse av eksemplarer av det fullstendige produktet som er representativt for den planlagte produksjonen, av en eller flere kritiske deler av produktet (kombinasjon av produksjonstype og konstruksjonstype).
 
 3\.
 
 Produsenten skal inngi en søknad om EF-typeprøving til ett enkelt meldt organ etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om skipsutstyret er i samsvar med gjeldende krav i internasjonale dokumenter som nevnt i artikkel 4, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke skipsutstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av skipsutstyret,konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og skipsutstyrets virkemåte,en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,resultatene av konstruksjonsberegninger, undersøkelser osv. ogprøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt. Denne underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på dennes ansvar.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om skipsutstyret er i samsvar med gjeldende krav i internasjonale dokumenter som nevnt i artikkel 4, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke skipsutstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  1. en generell beskrivelse av skipsutstyret,
+  2. konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,
+  3. beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og skipsutstyrets virkemåte,
+  4. en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,
+  5. resultatene av konstruksjonsberegninger, undersøkelser osv. og
+  6. prøvingsrapporter,
+- eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,
+- underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt. Denne underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på dennes ansvar.
 
 4\.
 
@@ -280,7 +301,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte skipsutstyret til et meldt organ etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,dokumentasjonen for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,
+- dokumentasjonen for kvalitetssystemet,
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
 
 3.2
 
@@ -288,7 +315,13 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF
 
 Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv., ogmetoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,
+- undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+- kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv., og
+- metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -318,7 +351,10 @@ Formålet med tilsynet er å sikre at produsenten på en korrekt måte oppfyller
 
 4.2
 
-Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,
+Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssystemet,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,
 
 4.3
 
@@ -342,7 +378,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -370,7 +410,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for inspeksjon av ferdige p
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte skipsutstyret til et meldt organ etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,
+- dokumentasjon for kvalitetssystemet, og
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
 
 3.2
 
@@ -378,7 +424,12 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF
 
 Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige retningslinjer, framgangsmåter og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,
+- tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -408,7 +459,10 @@ Formålet med tilsynet er å sikre at produsenten på en korrekt måte oppfyller
 
 4.2
 
-Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssystemet,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
 
 4.3
 
@@ -432,7 +486,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -522,7 +580,14 @@ Samsvar basert på verifisering av enkelteksemplarer er den framgangsmåten for 
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og produktets virkemåte,en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført, ogprøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+- en generell beskrivelse av produktet,
+- konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,
+- beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og produktets virkemåte,
+- en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,
+- resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført, og
+- prøvingsrapporter.
 
 Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for de relevante nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
 
@@ -565,9 +630,9 @@ EC DECLARATION OF CONFORMITY
 6. References to the relevant harmonised standards used or references to the specifications in relation to which conformity is declared:
 7. Where applicable, the notified body . . . (name, number) . . . performed . . . (description of intervention) ... and issued the certificate: . . .
 8. Additional information:
-Signed for and on behalf of: . . . . . . . . . . . . . . . . . . . .
-(place and date of issue):
-(name, function) (signature):
+   Signed for and on behalf of: . . . . . . . . . . . . . . . . . . . .
+   (place and date of issue):
+   (name, function) (signature):
 
 ## Vedlegg IV
 

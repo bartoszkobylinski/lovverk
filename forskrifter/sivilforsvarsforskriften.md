@@ -15,7 +15,7 @@ xml_hash: "d9362af235b1390ca36b842c6e7c4134dec1f68c8d744fac031129febd845497"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,16 @@ eu_basis: []
 
 ### § 1. Hva forskriften gjelder
 
-Forskriften gjelderSivilforsvarets organisering og oppgaverrettigheter og plikter for de som vurderes til tjeneste i Sivilforsvaret og for tjenestepliktige i Sivilforsvaretmidlertidig fritak fra tjeneste når samfunnsinteresser krever det og når det foreligger vektige velferdsgrunneropphør av tjenestepliktSivilforsvarets varsling av befolkningenrekvirering av fast eiendom, løsøre og rettigheterkommunenes plikt til å stille lager og rom til rådighet for Sivilforsvaretstraff og overtredelsesgebyr.
+Forskriften gjelder
+
+1. Sivilforsvarets organisering og oppgaver
+2. rettigheter og plikter for de som vurderes til tjeneste i Sivilforsvaret og for tjenestepliktige i Sivilforsvaret
+3. midlertidig fritak fra tjeneste når samfunnsinteresser krever det og når det foreligger vektige velferdsgrunner
+4. opphør av tjenesteplikt
+5. Sivilforsvarets varsling av befolkningen
+6. rekvirering av fast eiendom, løsøre og rettigheter
+7. kommunenes plikt til å stille lager og rom til rådighet for Sivilforsvaret
+8. straff og overtredelsesgebyr.
 
 ### § 2. Tjeneste i Sivilforsvaret
 
@@ -50,7 +59,17 @@ Er et sivilforsvarsdistrikt i tvil om det kan gis bistand, skal forespørselen a
 
 ### § 5. Egenerklæring og plikt til å gi opplysninger før rekrutteringsmøtet
 
-De som Sivilforsvaret vurderer å pålegge tjeneste, skal fylle ut en egenerklæring om helse og gi de opplysningene som er nødvendige for å avgjøre om de kan innkalles til rekrutteringsmøte og pålegges tjeneste i Sivilforsvaret. Sivilforsvaret kan kreve at det opplyses omsykdommer, skader, behandlinger, medisinbruk og annen helseinformasjon som er nødvendig for å vurdere om de er egnet til tjeneste i Sivilforsvaretstatsborgerskapsivilstatusomsorgsoppgaver for barn eller andre nærståendepårørendeutdanningnåværende arbeidsforhold og tidligere arbeidserfaringførerkort og andre særlige ferdigheter og kvalifikasjonerutført siviltjeneste og tjeneste i Forsvaret og politireserven.
+De som Sivilforsvaret vurderer å pålegge tjeneste, skal fylle ut en egenerklæring om helse og gi de opplysningene som er nødvendige for å avgjøre om de kan innkalles til rekrutteringsmøte og pålegges tjeneste i Sivilforsvaret. Sivilforsvaret kan kreve at det opplyses om
+
+1. sykdommer, skader, behandlinger, medisinbruk og annen helseinformasjon som er nødvendig for å vurdere om de er egnet til tjeneste i Sivilforsvaret
+2. statsborgerskap
+3. sivilstatus
+4. omsorgsoppgaver for barn eller andre nærstående
+5. pårørende
+6. utdanning
+7. nåværende arbeidsforhold og tidligere arbeidserfaring
+8. førerkort og andre særlige ferdigheter og kvalifikasjoner
+9. utført siviltjeneste og tjeneste i Forsvaret og politireserven.
 
 I ekstraordinære situasjoner, der tjenstlige hensyn krever det, kan Direktoratet for samfunnssikkerhet og beredskap bestemme at kravene om egenerklæring og opplysningsplikt helt eller delvis skal settes til side.
 
@@ -70,11 +89,20 @@ Sivilforsvaret dekker ikke tapt arbeidsfortjeneste eller andre økonomiske tap s
 
 ### § 8. Vurdering av hvem som kan pålegges tjenesteplikt
 
-Sivilforsvaret vurderer på rekrutteringsmøtet hvem som er best egnet til tjeneste i Sivilforsvaret. I denne vurderingen skal Sivilforsvaret legge vekt påvurderingen av helsetilstandenandre innhentede opplysningervandelsvurderingen, jf. [sivilbeskyttelsesloven § 7a](lov/2010-06-25-45/§7a)samtaler.
+Sivilforsvaret vurderer på rekrutteringsmøtet hvem som er best egnet til tjeneste i Sivilforsvaret. I denne vurderingen skal Sivilforsvaret legge vekt på
+
+1. vurderingen av helsetilstanden
+2. andre innhentede opplysninger
+3. vandelsvurderingen, jf. [sivilbeskyttelsesloven § 7a](lov/2010-06-25-45/§7a)
+4. samtaler.
 
 På grunnlag av de medisinske opplysningene som den innkalte har lagt frem og de kliniske undersøkelsene på rekrutteringsmøtet, vurderer Sivilforsvarets leger hvem som tilfredsstiller helsekravene for å kunne gjøre tjeneste i Sivilforsvaret. Denne vurderingen skal ikke bygge på opplysninger som er eldre enn tre måneder.
 
-Er særlige forutsetninger nødvendige for å inneha en bestemt stilling eller utføre bestemte oppgaver i Sivilforsvaret, skal Sivilforsvaret i vurderingen av hvem som er best egnet til tjeneste også legge vekt på andre prøver for å kartlegge om vedkommende hartilstrekkelige ferdighetertilstrekkelig fysisk kapasitettilstrekkelig evne til læring.
+Er særlige forutsetninger nødvendige for å inneha en bestemt stilling eller utføre bestemte oppgaver i Sivilforsvaret, skal Sivilforsvaret i vurderingen av hvem som er best egnet til tjeneste også legge vekt på andre prøver for å kartlegge om vedkommende har
+
+1. tilstrekkelige ferdigheter
+2. tilstrekkelig fysisk kapasitet
+3. tilstrekkelig evne til læring.
 
 Sivilforsvaret skal på forespørsel informere den innkalte om resultatene fra helsevurderingen og andre prøver etter denne bestemmelsen.
 
@@ -118,13 +146,38 @@ Reglene i [forsvarsloven § 33](lov/2016-08-12-77/§33) og [vernepliktsforskrift
 
 Medisinsk invaliditetsgrad fastsettes av Arbeids- og velferdsetatens (NAV) i vedtak om varig medisinsk invaliditetsgrad. Har NAV kommet til at den varige medisinske invaliditetsgraden er under 15 %, uten at dette bygger på en spesialisterklæring, skal invaliditetsgraden likevel fastsettes av Sivilforsvaret etter invaliditetstabellen i [forskrift 21. april 1997 nr. 373 om menerstatning ved yrkesskade del II](forskrift/1997-04-21-373/kapii). Invaliditetsgraden skal i slike tilfeller fastsettes på bakgrunn av en spesialisterklæring, som innhentes og dekkes av Sivilforsvaret.
 
-En skade anses påført under tjenesten i Sivilforsvaret også når den har oppstått underreise til og fra tjeneste og rekrutteringsmøtegjennomføring av rekrutteringsmøteaktivitet innenfor forlegning, leirområde og tilsvarendeopplæring og aktiviteter som arrangeres eller betales av Sivilforsvaret.
+En skade anses påført under tjenesten i Sivilforsvaret også når den har oppstått under
+
+1. reise til og fra tjeneste og rekrutteringsmøte
+2. gjennomføring av rekrutteringsmøte
+3. aktivitet innenfor forlegning, leirområde og tilsvarende
+4. opplæring og aktiviteter som arrangeres eller betales av Sivilforsvaret.
 
 Vedtak om engangserstatning fra Statens Pensjonskasse kan innen tre uker påklages til Direktoratet for samfunnssikkerhet og beredskap.
 
 ### § 14. Innhenting av personopplysninger
 
-Direktoratet for samfunnssikkerhet og beredskap og Sivilforsvaret kan innhente, behandle og registrere følgende personopplysninger om personer som vurderes for tjenesteplikt i Sivilforsvaret og for tjenestepliktige i Sivilforsvaret:navnfødselsnummer eller D-nummerfødselsdato, fødested og eventuell dødsdatostatus i folkeregisteretbostedsadresse og postadresse med adressehistorikksivilstatuspårørendeomsorgsoppgaver for barn eller andre nærståendestatsborgerskap og statsborgerskapshistorikkoppholdstillatelseførerkortutdanninglisenser, sertifikater og sertifiseringernåværende arbeidsforhold og tidligere arbeidserfaringhelseinformasjon som er nødvendig for å vurdere om en person er egnet til tjenestevandelutført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og Politireservenmilitær kompetanseandre opplysninger som er nødvendige for vurderingen av tjenesteplikt eller forutsetninger for tjeneste i Sivilforsvaret.
+Direktoratet for samfunnssikkerhet og beredskap og Sivilforsvaret kan innhente, behandle og registrere følgende personopplysninger om personer som vurderes for tjenesteplikt i Sivilforsvaret og for tjenestepliktige i Sivilforsvaret:
+
+1. navn
+2. fødselsnummer eller D-nummer
+3. fødselsdato, fødested og eventuell dødsdato
+4. status i folkeregisteret
+5. bostedsadresse og postadresse med adressehistorikk
+6. sivilstatus
+7. pårørende
+8. omsorgsoppgaver for barn eller andre nærstående
+9. statsborgerskap og statsborgerskapshistorikk
+10. oppholdstillatelse
+11. førerkort
+12. utdanning
+13. lisenser, sertifikater og sertifiseringer
+14. nåværende arbeidsforhold og tidligere arbeidserfaring
+15. helseinformasjon som er nødvendig for å vurdere om en person er egnet til tjeneste
+16. vandel
+17. utført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og Politireserven
+18. militær kompetanse
+19. andre opplysninger som er nødvendige for vurderingen av tjenesteplikt eller forutsetninger for tjeneste i Sivilforsvaret.
 
 Direktoratet for samfunnssikkerhet og beredskap er behandlingsansvarlig for personopplysninger som behandles i Sivilforsvaret.
 
@@ -138,7 +191,11 @@ Sivilforsvaret kan uten hinder av andre ledd lagre personopplysninger for histor
 
 ### § 16. Forbud mot å bruke berusende eller bedøvende midler
 
-Forbudet mot å bruke berusende eller bedøvende midler etter [sivilbeskyttelsesloven § 9b](lov/2010-06-25-45/§9b) gjelder også i fritiden i forbindelse med tjeneste både innenfor og utenfor Sivilforsvarets områder. Med fritiden i forbindelse med tjeneste menesfor kurs: fritiden i perioden fra kursets oppstart til kursets avslutning, med unntak for fritiden i helger dersom den tjenestepliktige oppholder seg utenfor Sivilforsvarets områderfor øvelse: fritiden i perioden fra øvelsens oppstart til øvelsens avslutningfor innsats: fritiden i perioden fra innsatsens oppstart til innsatsens avslutning dersom innsatsen varer i flere dager og den tjenestepliktige har fått varsel om dette.
+Forbudet mot å bruke berusende eller bedøvende midler etter [sivilbeskyttelsesloven § 9b](lov/2010-06-25-45/§9b) gjelder også i fritiden i forbindelse med tjeneste både innenfor og utenfor Sivilforsvarets områder. Med fritiden i forbindelse med tjeneste menes
+
+1. for kurs: fritiden i perioden fra kursets oppstart til kursets avslutning, med unntak for fritiden i helger dersom den tjenestepliktige oppholder seg utenfor Sivilforsvarets områder
+2. for øvelse: fritiden i perioden fra øvelsens oppstart til øvelsens avslutning
+3. for innsats: fritiden i perioden fra innsatsens oppstart til innsatsens avslutning dersom innsatsen varer i flere dager og den tjenestepliktige har fått varsel om dette.
 
 Tjenestepliktige skal ikke oppbevare alkoholholdig drikke eller annet berusende eller bedøvende middel på Sivilforsvarets områder. For å sikre at plikten overholdes, kan Sivilforsvaret kontrollere bygninger, rom og kjøretøy på Sivilforsvarets områder.
 
@@ -152,7 +209,14 @@ Sivilforsvaret kan tillate at tjenestepliktige drikker alkohol i moderate mengde
 
 ### § 18. Opphør av tjenesteplikt og avtale om videre tjenesteplikt
 
-Tjenesteplikten opphører når den tjenestepliktigehar fylt 55 århar nådd 19 måneder samlet tjenestetid i Sivilforsvaret, Forsvaret og politireservenhar vært bosatt utenfor Norge sammenhengende i tre århar et varig pleie- eller omsorgsansvar alene som er uforenlig med å gjøre tjeneste i Sivilforsvaretikke lenger tilfredsstiller helsekravene for å gjøre tjeneste i Sivilforsvaretav annen særlig grunn anses uegnet til tjeneste i Sivilforsvaret, blant annet som følge av domfellelse for straffbart forhold eller vedtatt vergemål.
+Tjenesteplikten opphører når den tjenestepliktige
+
+1. har fylt 55 år
+2. har nådd 19 måneder samlet tjenestetid i Sivilforsvaret, Forsvaret og politireserven
+3. har vært bosatt utenfor Norge sammenhengende i tre år
+4. har et varig pleie- eller omsorgsansvar alene som er uforenlig med å gjøre tjeneste i Sivilforsvaret
+5. ikke lenger tilfredsstiller helsekravene for å gjøre tjeneste i Sivilforsvaret
+6. av annen særlig grunn anses uegnet til tjeneste i Sivilforsvaret, blant annet som følge av domfellelse for straffbart forhold eller vedtatt vergemål.
 
 Den som på grunn av studier oppholder seg i utlandet i mer enn tre år, regnes likevel ikke som bosatt i utlandet etter første ledd bokstav c.
 
@@ -226,7 +290,13 @@ Tjenestepliktige gis etter søknad midlertidig fritak fra tjeneste når de er re
 
 ### § 29. Midlertidig fritak fra tjeneste av særlige grunner
 
-En tjenestepliktig som ikke omfattes av fritaksgrunnene i § 20 til § 28 kan etter søknad gis midlertidig fritak fra tjeneste dersomfamilieforhold gjør fravær fra hjemmet spesielt vanskeligsærlige økonomiske belastninger av tjenesteplikten ikke dekkes av Sivilforsvarets ordninger for økonomisk hjelptjenesten kommer i samme periode som nødvendige kurs eller opplæring i den tjenestepliktiges arbeidsforholdtjenesten kommer i en ekstraordinært belastende periode i den tjenestepliktiges arbeidsforhold ellerandre særlige grunner foreligger.
+En tjenestepliktig som ikke omfattes av fritaksgrunnene i § 20 til § 28 kan etter søknad gis midlertidig fritak fra tjeneste dersom
+
+1. familieforhold gjør fravær fra hjemmet spesielt vanskelig
+2. særlige økonomiske belastninger av tjenesteplikten ikke dekkes av Sivilforsvarets ordninger for økonomisk hjelp
+3. tjenesten kommer i samme periode som nødvendige kurs eller opplæring i den tjenestepliktiges arbeidsforhold
+4. tjenesten kommer i en ekstraordinært belastende periode i den tjenestepliktiges arbeidsforhold eller
+5. andre særlige grunner foreligger.
 
 ### § 30. Meldeplikt
 
@@ -246,7 +316,12 @@ Virksomheter og arbeidsgivere kan påklage et avslag på søknad om midlertidig 
 
 Tjenestepliktige i Sivilforsvaret gis et tjenestetillegg på 0,2 % av grunnbeløpet i folketrygden (G) per påbegynt tjenestedøgn og et ulempetillegg på 0,4 % av G ved innsats per påbegynt tjenestedøgn.
 
-Befal gis etter grad et ledertillegg per påbegynt tjenestedøgn med følgende satser:nestlagfører (grad 10): 0,05 % av Glagfører (grad 9): 0,1 % av Gnestleder (grad 8): 0,2 % av Gleder (grad 7): 0,3 % av G.
+Befal gis etter grad et ledertillegg per påbegynt tjenestedøgn med følgende satser:
+
+1. nestlagfører (grad 10): 0,05 % av G
+2. lagfører (grad 9): 0,1 % av G
+3. nestleder (grad 8): 0,2 % av G
+4. leder (grad 7): 0,3 % av G.
 
 ### § 33. Godtgjøring for tapt arbeidsinntekt ved tjeneste
 
@@ -282,7 +357,17 @@ Grunnlaget for Sivilforsvarets lagringsbehov er den til enhver tid gjeldende org
 
 ### § 38. Generelle krav til lagre
 
-Sivilforsvarets lagre skal væretilgjengelige for Sivilforsvaret uten bistand fra kommunenfysisk adskilt fra andre arealer og med egen adkomstbrann- og innbruddssikre etter en stedlig risikovurderingtilstrekkelig oppvarmet til at materiell kan tørkes og personer kan oppholde seg dersikret tilstrekkelig vann- og strømtilførselsikret tilgang til toalett og vaskutstyrt med plass for antenne til nødvendig sambandsutstyrsikret internettilgangegnet til å lagre og vedlikeholde Sivilforsvarets materiell.
+Sivilforsvarets lagre skal være
+
+1. tilgjengelige for Sivilforsvaret uten bistand fra kommunen
+2. fysisk adskilt fra andre arealer og med egen adkomst
+3. brann- og innbruddssikre etter en stedlig risikovurdering
+4. tilstrekkelig oppvarmet til at materiell kan tørkes og personer kan oppholde seg der
+5. sikret tilstrekkelig vann- og strømtilførsel
+6. sikret tilgang til toalett og vask
+7. utstyrt med plass for antenne til nødvendig sambandsutstyr
+8. sikret internettilgang
+9. egnet til å lagre og vedlikeholde Sivilforsvarets materiell.
 
 På utsiden av hvert lager skal det være et belyst asfaltert areal for lasting og parkering.
 
@@ -294,7 +379,13 @@ Hvert distriktslager skal ha en grunnflate på minst 180 m2 og ha egen adkomst m
 
 Hvert avdelingslager skal ha en grunnflate på minst 180 m2 og ha egen adkomst med kjørehøyde på minst 3,5 meter. Lageret skal være utstyrt med hyllereoler utformet slik at materiellet kan håndteres uten å bruke løfteutstyr. Minst 10 m2 av arealet skal ha tilfredsstillende luftfuktighet og temperatur for å oppbevare elektronisk utstyr.
 
-Sivilforsvaret kan ved operativt behov kreve at utpekte distrikts- og avdelingslagre skal utvides med forsterkninger på inntil10 m2 areal med tilfredsstillende luftfuktighet og temperatur for å lagre elektronisk utstyr når det er behov for å forsterke materielloppsettingen med slikt utstyr50 m2 areal og kjørehøyde på minst 2,5 meter når det er behov for å forsterke materielloppsettingen med materiell for måling av radioaktiv bakgrunnsstråling50 m2 areal og kjørehøyde på minst 4,2 meter når det er behov for å forsterke materielloppsettingen med utstyr til bruk mot kjemiske, biologiske, nukleære og eksplosive farer250 m2 areal og kjørehøyde på minst 4,2 meter for å lagre tilleggsmateriell til bruk ved større hendelser250 m2 uteareal til lagring av containere og store kjøretøy.
+Sivilforsvaret kan ved operativt behov kreve at utpekte distrikts- og avdelingslagre skal utvides med forsterkninger på inntil
+
+1. 10 m2 areal med tilfredsstillende luftfuktighet og temperatur for å lagre elektronisk utstyr når det er behov for å forsterke materielloppsettingen med slikt utstyr
+2. 50 m2 areal og kjørehøyde på minst 2,5 meter når det er behov for å forsterke materielloppsettingen med materiell for måling av radioaktiv bakgrunnsstråling
+3. 50 m2 areal og kjørehøyde på minst 4,2 meter når det er behov for å forsterke materielloppsettingen med utstyr til bruk mot kjemiske, biologiske, nukleære og eksplosive farer
+4. 250 m2 areal og kjørehøyde på minst 4,2 meter for å lagre tilleggsmateriell til bruk ved større hendelser
+5. 250 m2 uteareal til lagring av containere og store kjøretøy.
 
 > Endret ved forskrift [28 feb 2024 nr. 334](forskrift/2024-02-28-334).
 
@@ -330,7 +421,21 @@ Skal befolkningen varsles med andre systemer i fredstid, gjelder reglene i dette
 
 ### § 44. Sivilforsvarets varslingssignaler
 
-Sivilforsvarets varslingssignaler er:viktig melding – søk informasjon: tre lange støt i tre signalserier med ett minutts pause mellom seriene--------- --------- ------------------ --------- ------------------ --------- ---------alarm – søk dekning: korte støt i omtrent ett minutt_ _ _ _ _ _ _ _ _faren over: ett langt støt i 1/2 minutt__________
+Sivilforsvarets varslingssignaler er:
+
+1. viktig melding – søk informasjon: tre lange støt i tre signalserier med ett minutts pause mellom seriene
+
+   --------- --------- ---------
+
+   --------- --------- ---------
+
+   --------- --------- ---------
+2. alarm – søk dekning: korte støt i omtrent ett minutt
+
+   _ _ _ _ _ _ _ _ _
+3. faren over: ett langt støt i 1/2 minutt
+
+   __________
 
 Ingen må uten tillatelse fra Sivilforsvaret benytte Sivilforsvarets varslingssignaler eller signaler som kan forveksles med disse.
 
@@ -370,7 +475,14 @@ Den det rekvireres fra skal ikke lide større ulempe eller skade enn nødvendig.
 
 ### § 49. Krav til innholdet i en rekvisisjon
 
-En rekvisisjon skal så nøyaktig som mulig angihva som rekvireres, inkludert omfang eller mengdekvaliteten på det som rekvireres, eventuelt med tekniske spesifikasjoner og datahva som skal følge med av rettigheter, utstyr, utrustning, reservedeler og lignendeen rimelig frist for å avstå det som rekvireres og perioden det avståes forstedet for overlevering av det som rekvireresandre elementer som er nødvendige for å oppfylle kravet.
+En rekvisisjon skal så nøyaktig som mulig angi
+
+1. hva som rekvireres, inkludert omfang eller mengde
+2. kvaliteten på det som rekvireres, eventuelt med tekniske spesifikasjoner og data
+3. hva som skal følge med av rettigheter, utstyr, utrustning, reservedeler og lignende
+4. en rimelig frist for å avstå det som rekvireres og perioden det avståes for
+5. stedet for overlevering av det som rekvireres
+6. andre elementer som er nødvendige for å oppfylle kravet.
 
 ### § 50. Plikten til å levere det som rekvireres
 
@@ -430,7 +542,15 @@ Skjønnsnemndas avgjørelse skal begrunnes skriftlig.
 
 ### § 57. Krav om protokoll fra hver skjønnsforretning
 
-Etter at det er gjennomført en skjønnsforretning, skal skjønnsnemnda utforme en protokoll som underskrives av alle skjønnsmedlemmene. Protokollen skal angiskjønnsnemndas sammensetningtid og sted for skjønnsforretningenpartene og eventuelle representanterat habiliteten er vurderthva som ble krevd avstått med mengde og kvalitetgrunnlaget for kravet og erstatningskravets størrelsehva nemnda finner bevist, begrunnelsen for skjønnet og nemndas avgjørelse.
+Etter at det er gjennomført en skjønnsforretning, skal skjønnsnemnda utforme en protokoll som underskrives av alle skjønnsmedlemmene. Protokollen skal angi
+
+1. skjønnsnemndas sammensetning
+2. tid og sted for skjønnsforretningen
+3. partene og eventuelle representanter
+4. at habiliteten er vurdert
+5. hva som ble krevd avstått med mengde og kvalitet
+6. grunnlaget for kravet og erstatningskravets størrelse
+7. hva nemnda finner bevist, begrunnelsen for skjønnet og nemndas avgjørelse.
 
 Skjønnsnemnda skal gi en bekreftet utskrift av protokollen til den det rekvireres fra.
 
@@ -481,4 +601,12 @@ Ved overtredelse av [sivilbeskyttelsesloven § 20](lov/2010-06-25-45/§20) andre
 
 ### § 63. Ikraftsetting
 
-Forskriften trer i kraft 1. mars 2022. Fra samme tidspunkt oppheves[forskrifter 10. juni 1955 nr. 5 om samordningen mellom politiet og sivilforsvaret](forskrift/1955-06-10-5)[forskrift 20. januar 1956 nr. 7 om Sivilforsvarets reserverte varslingssignaler – bruk av private varslingsanlegg](forskrift/1956-01-20-7)[forskrifter 29. juni 1973 nr. 9785 for sivilforsvaret](forskrift/1973-06-29-9785)[forskrift 10. mai 2017 nr. 577 om rekvisisjon av fast eiendom mv. for håndtering av Sivilforsvarets oppgaver](forskrift/2017-05-10-577)[forskrift 26. april 2018 nr. 634 om godtgjøring for tjeneste i Sivilforsvaret](forskrift/2018-04-26-634)[forskrift 16. desember 2019 nr. 1811 om midlertidig fritak fra tjeneste for tjenestepliktige i Sivilforsvaret](forskrift/2019-12-16-1811)[forskrift 1. juli 2020 nr. 1456 om overtredelsesgebyr etter sivilbeskyttelsesloven](forskrift/2020-07-01-1456).
+Forskriften trer i kraft 1. mars 2022. Fra samme tidspunkt oppheves
+
+- [forskrifter 10. juni 1955 nr. 5 om samordningen mellom politiet og sivilforsvaret](forskrift/1955-06-10-5)
+- [forskrift 20. januar 1956 nr. 7 om Sivilforsvarets reserverte varslingssignaler – bruk av private varslingsanlegg](forskrift/1956-01-20-7)
+- [forskrifter 29. juni 1973 nr. 9785 for sivilforsvaret](forskrift/1973-06-29-9785)
+- [forskrift 10. mai 2017 nr. 577 om rekvisisjon av fast eiendom mv. for håndtering av Sivilforsvarets oppgaver](forskrift/2017-05-10-577)
+- [forskrift 26. april 2018 nr. 634 om godtgjøring for tjeneste i Sivilforsvaret](forskrift/2018-04-26-634)
+- [forskrift 16. desember 2019 nr. 1811 om midlertidig fritak fra tjeneste for tjenestepliktige i Sivilforsvaret](forskrift/2019-12-16-1811)
+- [forskrift 1. juli 2020 nr. 1456 om overtredelsesgebyr etter sivilbeskyttelsesloven](forskrift/2020-07-01-1456).

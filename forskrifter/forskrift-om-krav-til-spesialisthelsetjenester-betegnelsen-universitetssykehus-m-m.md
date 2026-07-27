@@ -66,7 +66,13 @@ Ved organisatoriske endringer av vesentlig betydning for bruk av betegnelsen uni
 
 Følgende vilkår må være oppfylt for å få godkjenning til å kunne benytte betegnelsen universitetssykehus:
 
-Helseforetaket og/eller sykehuset må samarbeide med ett eller flere universitet(er) som uteksaminerer medisinere og annet helsepersonell ved atdet bidrar vesentlig i forskningsbasert utdanning i medisin og annen helsefaglig utdanningkandidatene har det vesentlige av sin praktiske og teoretiske undervisning ved sykehusetdet bidrar vesentlig i doktorgradsutdanningen i de fleste kliniske fag innen medisin og andre helsefaglige disiplinerdet kan dokumenteres at det utføres biomedisinsk og helsefaglig grunnforskning, translasjonsforskning og klinisk forskning innenfor de fleste kliniske fagområder ogdet kan dokumenteres forskningsaktivitet av høy internasjonal kvalitet og bredde.
+Helseforetaket og/eller sykehuset må samarbeide med ett eller flere universitet(er) som uteksaminerer medisinere og annet helsepersonell ved at
+
+1. det bidrar vesentlig i forskningsbasert utdanning i medisin og annen helsefaglig utdanning
+2. kandidatene har det vesentlige av sin praktiske og teoretiske undervisning ved sykehuset
+3. det bidrar vesentlig i doktorgradsutdanningen i de fleste kliniske fag innen medisin og andre helsefaglige disipliner
+4. det kan dokumenteres at det utføres biomedisinsk og helsefaglig grunnforskning, translasjonsforskning og klinisk forskning innenfor de fleste kliniske fagområder og
+5. det kan dokumenteres forskningsaktivitet av høy internasjonal kvalitet og bredde.
 
 ### § 3-3. Vurdering og anbefaling fra samarbeidsorganet og Kunnskapsdepartementet
 
@@ -90,25 +96,53 @@ En flerregional behandlingstjeneste skal kun etableres ved to helseforetak.
 
 ### § 4-3. Vilkår for godkjenning av nasjonale- og flerregionale behandlingstjenester
 
-For å få godkjenning som en nasjonal eller flerregionale behandlingstjeneste må sentralisering av behandlingen vurderes å gi:Helsemessige tilleggsgevinster i form av bedre prognose og livskvalitet.Økt kvalitet og kompetanse.Bedre nasjonal kostnadseffektivitet.
+For å få godkjenning som en nasjonal eller flerregionale behandlingstjeneste må sentralisering av behandlingen vurderes å gi:
+
+- Helsemessige tilleggsgevinster i form av bedre prognose og livskvalitet.
+- Økt kvalitet og kompetanse.
+- Bedre nasjonal kostnadseffektivitet.
 
 Ved vurderingen skal det legges vekt på kompetanse og infrastruktur.
 
 ### § 4-4. Oppgaver for nasjonale og flerregionale behandlingstjenester
 
-Nasjonale og flerregionale behandlingstjenester skal ivareta følgende oppgaver:Yte helsehjelp til alle pasienter som har behov for den aktuelle høyspesialiserte behandlingen.Overvåke og formidle behandlingsresultater.Delta i forskning og etablering av forskernettverk.Bidra i relevant undervisning.Sørge for veiledning, kunnskaps- og kompetansespredning til helse- og omsorgstjenesten, andre tjenesteytere og brukere.Iverksette tiltak for å sikre likeverdig tilgang til nasjonale og flerregionale behandlingstjenester.Bidra til implementering av nasjonale retningslinjer og kunnskapsbasert praksis.Etablere faglige referansegrupper.Rapportere årlig til departementet eller til det organ som departementet bestemmer.
+Nasjonale og flerregionale behandlingstjenester skal ivareta følgende oppgaver:
+
+- Yte helsehjelp til alle pasienter som har behov for den aktuelle høyspesialiserte behandlingen.
+- Overvåke og formidle behandlingsresultater.
+- Delta i forskning og etablering av forskernettverk.
+- Bidra i relevant undervisning.
+- Sørge for veiledning, kunnskaps- og kompetansespredning til helse- og omsorgstjenesten, andre tjenesteytere og brukere.
+- Iverksette tiltak for å sikre likeverdig tilgang til nasjonale og flerregionale behandlingstjenester.
+- Bidra til implementering av nasjonale retningslinjer og kunnskapsbasert praksis.
+- Etablere faglige referansegrupper.
+- Rapportere årlig til departementet eller til det organ som departementet bestemmer.
 
 > Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
 
 ### § 4-5. Vilkår for å få godkjenning som nasjonal kompetansetjeneste
 
-For å få godkjenning som nasjonal kompetansetjeneste må sentralisering av oppbygging av kompetanse innenfor et fagområde vurderes å gi:Økt kvalitet i en helhetlig behandlingsforløp innenfor rimelig tid.Økt nasjonal kompetanse.Bedre nasjonal kostnadseffektivitet.
+For å få godkjenning som nasjonal kompetansetjeneste må sentralisering av oppbygging av kompetanse innenfor et fagområde vurderes å gi:
+
+- Økt kvalitet i en helhetlig behandlingsforløp innenfor rimelig tid.
+- Økt nasjonal kompetanse.
+- Bedre nasjonal kostnadseffektivitet.
 
 Ved vurderingen skal det legges vekt på kompetanse og infrastruktur.
 
 ### § 4-6. Oppgaver for nasjonale kompetansetjenester
 
-Nasjonale kompetansetjenester skal ivareta følgende oppgaver innenfor sitt ansvarsområde:Bygge opp og formidle kompetanse.Overvåke og formidle behandlingsresultater.Delta i forskning og etablering av forskernettverk.Bidra i relevant undervisning.Sørge for veiledning, kunnskaps- og kompetansespredning til helse- og omsorgstjenesten, andre tjenesteytere og brukere.Iverksette tiltak for å sikre likeverdig tilgang til nasjonale kompetansetjenester.Bidra til implementering av nasjonale retningslinjer og kunnskapsbasert praksis.Etablere faglige referansegrupper.Rapportere årlig til departementet eller til det organ som departementet bestemmer.
+Nasjonale kompetansetjenester skal ivareta følgende oppgaver innenfor sitt ansvarsområde:
+
+- Bygge opp og formidle kompetanse.
+- Overvåke og formidle behandlingsresultater.
+- Delta i forskning og etablering av forskernettverk.
+- Bidra i relevant undervisning.
+- Sørge for veiledning, kunnskaps- og kompetansespredning til helse- og omsorgstjenesten, andre tjenesteytere og brukere.
+- Iverksette tiltak for å sikre likeverdig tilgang til nasjonale kompetansetjenester.
+- Bidra til implementering av nasjonale retningslinjer og kunnskapsbasert praksis.
+- Etablere faglige referansegrupper.
+- Rapportere årlig til departementet eller til det organ som departementet bestemmer.
 
 > Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
 

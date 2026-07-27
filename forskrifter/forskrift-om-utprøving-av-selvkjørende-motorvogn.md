@@ -60,7 +60,20 @@ De aktuelle politidistriktene, vegmyndighetene, vegeierne, skiltmyndighetene og 
 
 ### § 5. Krav til søknad
 
-Søknaden skal inneholde opplysninger om:navn på søker og navn på personen som er utpekt som ansvarlig for sikkerhetenhensikten med utprøvingenmotorvognene som skal være med i utprøvingennavn på operatørene der det er aktuelt, jf. [§ 11](forskrift/2017-12-19-2240/§11)automatiseringssystem som skal benyttesplan for utprøvingentidsperiode for utprøvingeneventuelle behov for særskilte trafikkreguleringerhvor utprøvingen skal foregå, herunder konkrete vegstrekninger eller konkrete områder som skal brukesbeskrivelse av behov for unntak fra gjeldende bestemmelser i vegtrafikkloven og yrkestransportloven med forskrifterforsikring under utprøvingen som sikrer skadelidende minst like godt som alminnelig ansvarsforsikring etter bilansvarsloven, ogdokumentasjon på at kravene i [§ 7](forskrift/2017-12-19-2240/§7) – § 11 er oppfylt.
+Søknaden skal inneholde opplysninger om:
+
+1. navn på søker og navn på personen som er utpekt som ansvarlig for sikkerheten
+2. hensikten med utprøvingen
+3. motorvognene som skal være med i utprøvingen
+4. navn på operatørene der det er aktuelt, jf. [§ 11](forskrift/2017-12-19-2240/§11)
+5. automatiseringssystem som skal benyttes
+6. plan for utprøvingen
+7. tidsperiode for utprøvingen
+8. eventuelle behov for særskilte trafikkreguleringer
+9. hvor utprøvingen skal foregå, herunder konkrete vegstrekninger eller konkrete områder som skal brukes
+10. beskrivelse av behov for unntak fra gjeldende bestemmelser i vegtrafikkloven og yrkestransportloven med forskrifter
+11. forsikring under utprøvingen som sikrer skadelidende minst like godt som alminnelig ansvarsforsikring etter bilansvarsloven, og
+12. dokumentasjon på at kravene i [§ 7](forskrift/2017-12-19-2240/§7) – § 11 er oppfylt.
 
 Vegdirektoratet kan kreve ytterligere opplysninger som er relevant for behandling av søknaden.
 
@@ -80,7 +93,15 @@ Vegdirektoratet kan sette som vilkår for utprøvingen at motorvognen skal være
 
 ### § 8. Krav til det automatiske systemet
 
-Det skal legges frem dokumentasjon på følgende forhold vedrørende det automatiske systemet som benyttes under utprøvingen:funksjonsbeskrivelsesystembeskrivelseteknologibeskrivelseredegjørelse av teknologiens modenhetredegjørelse av hvordan informasjonssikkerhet og personvern er ivaretattredegjørelse for risiko av automatiseringsfunksjonene, jf. bokstav a samt informasjonssikkerhet og konsekvenser for personvernet (PIA), ogredegjørelse for systemets elektromagnetiske kompatibilitet (EMC).
+Det skal legges frem dokumentasjon på følgende forhold vedrørende det automatiske systemet som benyttes under utprøvingen:
+
+1. funksjonsbeskrivelse
+2. systembeskrivelse
+3. teknologibeskrivelse
+4. redegjørelse av teknologiens modenhet
+5. redegjørelse av hvordan informasjonssikkerhet og personvern er ivaretatt
+6. redegjørelse for risiko av automatiseringsfunksjonene, jf. bokstav a samt informasjonssikkerhet og konsekvenser for personvernet (PIA), og
+7. redegjørelse for systemets elektromagnetiske kompatibilitet (EMC).
 
 Vegdirektoratet kan kreve ytterligere dokumentasjon eller at dokumentasjonen er vurdert av en kompetent uavhengig institusjon.
 

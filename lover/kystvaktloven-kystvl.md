@@ -15,7 +15,7 @@ xml_hash: "c12caf68557e2c371b7e24393624c4a914fcef12ec0a7e9b2e856f3b0e3b598a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,12 @@ Bruk av elektronisk kommunikasjon ved underretning om et vedtak er bare tillatt 
 
 ### § 3. Lovens stedlige virkeområde
 
-Denne loven gjelderi indre farvann og på sjøterritoriet, herunder i Svalbards indre farvann og sjøterritorium, samt i den tilstøtende sone etablert med hjemmel i lov om Norges territorialfarvann og tilstøtende sone,i jurisdiksjonsområder etablert i medhold av [lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone,på kontinentalsokkelen, ogutenfor norsk jurisdiksjonsområde med de begrensninger som følger av folkeretten.
+Denne loven gjelder
+
+1. i indre farvann og på sjøterritoriet, herunder i Svalbards indre farvann og sjøterritorium, samt i den tilstøtende sone etablert med hjemmel i lov om Norges territorialfarvann og tilstøtende sone,
+2. i jurisdiksjonsområder etablert i medhold av [lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone,
+3. på kontinentalsokkelen, og
+4. utenfor norsk jurisdiksjonsområde med de begrensninger som følger av folkeretten.
 
 Ved kontroll som nevnt i §§ 9-12, 15 og 18, gjelder virkeområdet til vedkommende regelverk i stedet for første ledd bokstav a til c. Kontroll kan likevel ikke skje på land, med mindre dette fremstår som åpenbart nødvendig, eller kontrollen gjelder overholdelse av [grenseloven](lov/2018-04-20-8) for personer som har gått eller skal gå ombord i eller i land fra fartøy.
 
@@ -96,7 +101,14 @@ Kystvakten skal hevde norsk suverenitet og norske suverene rettigheter.
 
 ### § 9. Fiskerioppsyn, fangstoppsyn, ressurskontroll m.v.
 
-Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt:[lov av 22. mars 1957 nr. 4](lov/1957-03-22-4) om fangst av isbjørn.lov om matproduksjon og mattrygghet mv. (matloven).– – –[lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone.lov om forvaltning av viltlevande marine ressursar.[lov av 26. mars 1999 nr. 15](lov/1999-03-26-15) om retten til å delta i fiske og fangst (deltakerloven).
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt:
+
+1. [lov av 22. mars 1957 nr. 4](lov/1957-03-22-4) om fangst av isbjørn.
+2. lov om matproduksjon og mattrygghet mv. (matloven).
+3. – – –
+4. [lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone.
+5. lov om forvaltning av viltlevande marine ressursar.
+6. [lov av 26. mars 1999 nr. 15](lov/1999-03-26-15) om retten til å delta i fiske og fangst (deltakerloven).
 
 Det samme gjelder bestemmelser gitt i medhold av [lov av 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard som regulerer fiske og fangst i Svalbards indre farvann og sjøterritorium.
 
@@ -110,7 +122,16 @@ Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av [var
 
 ### § 11. Miljøoppsyn m.v.
 
-Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdtlov om skipssikkerhet (skipssikkerhetsloven) [kapittel 5](lov/2007-02-16-9/kap5).[lov av 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet,[lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven),[lov av 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner,[lov av 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven),[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),[lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.](lov/1992-05-15-47),[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt
+
+1. lov om skipssikkerhet (skipssikkerhetsloven) [kapittel 5](lov/2007-02-16-9/kap5).
+2. [lov av 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet,
+3. [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven),
+4. [lov av 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner,
+5. [lov av 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven),
+6. [lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),
+7. [lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.](lov/1992-05-15-47),
+8. [lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
 
 Det samme gjelder bestemmelser gitt i og i medhold av lov om miljøvern på Svalbard (svalbardmiljøloven).
 
@@ -118,7 +139,17 @@ Det samme gjelder bestemmelser gitt i og i medhold av lov om miljøvern på Sval
 
 ### § 12. Andre oppsynsoppgaver
 
-Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt[lov 14. juni 1884 nr. 3](lov/1884-06-14-3) om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet[lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomstersjøloven kapittel 6 A. Politiets kompetanse etter [sjøloven § 145](lov/1994-06-24-39/§145) og regler gitt i medhold av den, gjelder tilsvarende for Kystvakten[lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet[småbåtloven kapittel 3](lov/1998-06-26-47/kap3)[skipssikkerhetsloven, med unntak av kapittel 5](lov/2007-02-16-9/kap5)[utlendingsloven](lov/2008-05-15-35)[grenseloven](lov/2018-04-20-8), og[havne- og farvannsloven](lov/2019-06-21-70).
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt
+
+1. [lov 14. juni 1884 nr. 3](lov/1884-06-14-3) om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet
+2. [lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster
+3. sjøloven kapittel 6 A. Politiets kompetanse etter [sjøloven § 145](lov/1994-06-24-39/§145) og regler gitt i medhold av den, gjelder tilsvarende for Kystvakten
+4. [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet
+5. [småbåtloven kapittel 3](lov/1998-06-26-47/kap3)
+6. [skipssikkerhetsloven, med unntak av kapittel 5](lov/2007-02-16-9/kap5)
+7. [utlendingsloven](lov/2008-05-15-35)
+8. [grenseloven](lov/2018-04-20-8), og
+9. [havne- og farvannsloven](lov/2019-06-21-70).
 
 Det samme gjelder bestemmelser gitt i medhold av [lov av 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard som regulerer andre forhold enn de som er nevnt i [§§ 9](lov/1997-06-13-42/§9) andre ledd og [11](lov/1997-06-13-42/§11) andre ledd.
 
@@ -236,7 +267,12 @@ Kystvakten kan pålegge ansvarshavende på fartøy å stanse fiske eller fangst 
 
 Inspektører kan plasseres om bord for inspeksjonsoppdrag. Nødvendig kost og losji skal gis på fartøyets eller den faste innretningens kostnad. Inspektøren skal uten vederlag gis adgang til å benytte radio eller annet kommunikasjonsutstyr.
 
-Ansvarshavende på fartøy eller fast innretning skal gi nødvendig bistand og opplysninger, herunderlegge frem relevante gjenstander og dokumenter, bl.a. dagbøker,avgi og bekrefte kopi av dokumenter, datautskrifter m.m.,tillate kontroll av ferdsskriver om bord,tillate merknader om overtredelser i skipsdagbok, fangstdagbok, mottaksjournal eller lignende.
+Ansvarshavende på fartøy eller fast innretning skal gi nødvendig bistand og opplysninger, herunder
+
+1. legge frem relevante gjenstander og dokumenter, bl.a. dagbøker,
+2. avgi og bekrefte kopi av dokumenter, datautskrifter m.m.,
+3. tillate kontroll av ferdsskriver om bord,
+4. tillate merknader om overtredelser i skipsdagbok, fangstdagbok, mottaksjournal eller lignende.
 
 Ansvarshavende skal undertegne den rapport inspektøren setter opp, men kan påføre rapporten de merknader vedkommende finner nødvendig.
 
@@ -290,7 +326,15 @@ For øvrig gjelder bestemmelsene om arrest i [tvisteloven kapittel 32](lov/2005-
 
 ### § 36. Straffansvar
 
-Med bøter eller fengsel inntil 6 måneder straffes den som:unnlater å følge ordre gitt av Kystvakten,unnlater å yte pliktig bistand,unnlater å gi pliktige opplysninger,legger frem uriktige dokumenter,gir uriktige opplysninger,på annen måte søker å villede Kystvakten, ellersom ved beskadigelse eller oppgivelse av fartøy, innretning eller redskap forspiller bevis.
+Med bøter eller fengsel inntil 6 måneder straffes den som:
+
+1. unnlater å følge ordre gitt av Kystvakten,
+2. unnlater å yte pliktig bistand,
+3. unnlater å gi pliktige opplysninger,
+4. legger frem uriktige dokumenter,
+5. gir uriktige opplysninger,
+6. på annen måte søker å villede Kystvakten, eller
+7. som ved beskadigelse eller oppgivelse av fartøy, innretning eller redskap forspiller bevis.
 
 Under særdeles skjerpende omstendigheter kan fengsel inntil 2 år anvendes.
 

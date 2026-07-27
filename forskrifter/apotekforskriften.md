@@ -48,7 +48,13 @@ Apotekkonsesjon skal normalt gis med virkning for en bestemt kommune. Dersom apo
 
 ### § 4. Søknadens innhold
 
-Søknad om apotekkonsesjon skal inneholde:en beskrivelse av hva apotekkonsesjonen skal omfatte, herunder eventuelle medisinutsalg og tilvirkertillatelser. Ved overtakelse av et allerede eksisterende apotek må det i tillegg opplyses om den eksisterende apotekkonsesjonens omfang,en beskrivelse av søkeren, ledsaget av en egenerklæring om at vedkommende ikke er avskåret fra å eie apotek etter loven eller forskriften, samt en oversikt over søkerens eierinteresser i øvrige apotek og andre legemiddelbedrifter,opplysninger om i hvilken kommune apoteket er lokalisert eller tenkt opprettet,dokumentasjon av økonomisk evne som nevnt i [§ 5](forskrift/2001-02-26-178/§5), ogdokumentasjon av faglig virksomhet som nevnt i [§ 6](forskrift/2001-02-26-178/§6).
+Søknad om apotekkonsesjon skal inneholde:
+
+1. en beskrivelse av hva apotekkonsesjonen skal omfatte, herunder eventuelle medisinutsalg og tilvirkertillatelser. Ved overtakelse av et allerede eksisterende apotek må det i tillegg opplyses om den eksisterende apotekkonsesjonens omfang,
+2. en beskrivelse av søkeren, ledsaget av en egenerklæring om at vedkommende ikke er avskåret fra å eie apotek etter loven eller forskriften, samt en oversikt over søkerens eierinteresser i øvrige apotek og andre legemiddelbedrifter,
+3. opplysninger om i hvilken kommune apoteket er lokalisert eller tenkt opprettet,
+4. dokumentasjon av økonomisk evne som nevnt i [§ 5](forskrift/2001-02-26-178/§5), og
+5. dokumentasjon av faglig virksomhet som nevnt i [§ 6](forskrift/2001-02-26-178/§6).
 
 Apotekkonsesjon kan gis på vilkår om at dokumentasjon som nevnt i første ledd bokstavene d og e forelegges Direktoratet for medisinske produkter i løpet av en bestemt tid.
 
@@ -64,7 +70,12 @@ Når søkeren ikke har dokumentert en tilstrekkelig økonomisk evne til å drive
 
 ### § 6. Dokumentasjon av forutsetninger for faglig virksomhet
 
-Konsesjonssøkeren skal vedlegge søknaden en oversikt over:apotekets forventede kundegrunnlag,apotekets bemanning fordelt på personalkategorier,eksisterende eller planlagt samarbeid med andre apotek, ogforventet årlig omsetning fordelt på legemidler, medisinsk utstyr, andre varer og tjenester.
+Konsesjonssøkeren skal vedlegge søknaden en oversikt over:
+
+1. apotekets forventede kundegrunnlag,
+2. apotekets bemanning fordelt på personalkategorier,
+3. eksisterende eller planlagt samarbeid med andre apotek, og
+4. forventet årlig omsetning fordelt på legemidler, medisinsk utstyr, andre varer og tjenester.
 
 Når søkeren ikke har dokumentert en sannsynlighet for at apotekets faglige virksomhet får et omfang som er stort nok til at apotekets kompetanse som faghandel og tilvirker av legemidler sikres og holdes ved like, og særlige grunner taler for det, kan konsesjonssøknaden avslås.
 
@@ -82,7 +93,10 @@ Når søkeren ikke har dokumentert en sannsynlighet for at apotekets faglige vir
 
 ### § 10. Nærstående
 
-Som noens nærstående menes i loven:ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold, ogslektninger i rett oppstigende eller nedstigende linje og søsken.
+Som noens nærstående menes i loven:
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold, og
+2. slektninger i rett oppstigende eller nedstigende linje og søsken.
 
 ### § 11. Alternativ oppfyllelse av vilkår for apotekkonsesjon
 
@@ -132,7 +146,11 @@ Når apotekeren ikke er til stede i apoteket, skal apotekets daglige drift overl
 
 En søker regnes som uskikket til å inneha driftskonsesjon dersom særlige forhold tilsier at denne personen ikke vil være egnet til å drive apoteket i overensstemmelse med lov eller apotekfaglige krav.
 
-Som uskikket til å inneha driftskonsesjon regnes alltid en person som i løpet av de siste fem årene:er dømt for en økonomisk forbrytelse med strafferamme på inntil 3 år eller mer,har eller har hatt et alvorlig rusproblem, ellerhar mistet sin driftskonsesjon på grunn av uforsvarlig personlig utøvelse av rettigheter og plikter som apoteker.
+Som uskikket til å inneha driftskonsesjon regnes alltid en person som i løpet av de siste fem årene:
+
+1. er dømt for en økonomisk forbrytelse med strafferamme på inntil 3 år eller mer,
+2. har eller har hatt et alvorlig rusproblem, eller
+3. har mistet sin driftskonsesjon på grunn av uforsvarlig personlig utøvelse av rettigheter og plikter som apoteker.
 
 ### § 18. Politiattest
 
@@ -188,7 +206,13 @@ Apotekets åpningstider skal meldes til Direktoratet for medisinske produkter. D
 
 ### § 26. Apotekets forhandlingsplikt
 
-Apoteket har plikt til å forhandle:alle legemidler som er godkjent for salg i Norgelegemidler som må produseres for den enkelte etter resept og som er rekvirert av lege, tannlege eller veterinærlegemidler som anbefales av annet helsepersonell i helse- og omsorgstjenesten, med mindre legemidlene kan være skadelige eller åpenbart uhensiktsmessige i brukvanlig medisinsk utstyr som benyttes av forbrukere, eller som er nødvendig for å oppnå riktig bruk av legemidler. Plikten gjelder også medisinsk utstyr som ikke er i vanlig bruk, men som er viktig for bestemte pasientgrupper. Plikten gjelder under forutsetning av at slikt utstyr er tilgjengelig for apotek i Norgenæringsmidler og hudpleiemidler som kan være nødvendige i medisinsk behandling av mennesker.
+Apoteket har plikt til å forhandle:
+
+1. alle legemidler som er godkjent for salg i Norge
+2. legemidler som må produseres for den enkelte etter resept og som er rekvirert av lege, tannlege eller veterinær
+3. legemidler som anbefales av annet helsepersonell i helse- og omsorgstjenesten, med mindre legemidlene kan være skadelige eller åpenbart uhensiktsmessige i bruk
+4. vanlig medisinsk utstyr som benyttes av forbrukere, eller som er nødvendig for å oppnå riktig bruk av legemidler. Plikten gjelder også medisinsk utstyr som ikke er i vanlig bruk, men som er viktig for bestemte pasientgrupper. Plikten gjelder under forutsetning av at slikt utstyr er tilgjengelig for apotek i Norge
+5. næringsmidler og hudpleiemidler som kan være nødvendige i medisinsk behandling av mennesker.
 
 > Endret ved [forskrifter 12 nov 2009 nr. 1367](forskrift/2009-11-12-1367) (i kraft 1 jan 2010), [17 jan 2013 nr. 61](forskrift/2013-01-17-61).
 
@@ -196,7 +220,15 @@ Apoteket har plikt til å forhandle:alle legemidler som er godkjent for salg i N
 
 Apotek med felles driftskonsesjon kan levere legemidler til hverandre uavhengig av kravet om grossisttillatelse.
 
-Apotek uten grossisttillatelse eller felles driftskonsesjon kan levere legemidler til hverandre i tilfeller:hvor det medfører urimelig stor ulempe for kunden å hente legemidlet i et annet apoteksom gjelder legemidler som er lagret for beredskapsformål og hvor holdbarheten vil utløpe dersom legemidlene ikke kan leveres til et annet apoteksom gjelder legemidler som blir overflødige på grunn av flytting av spesialitet eller sykehusfunksjonsom gjelder legemidler som et apotek har bestilt til en bestemt kunde men hvor kunden likevel ikke kjøper legemidletsom gjelder overdragelse av apotek med legemiddellager og hvor apotekdriften skal fortsette i de samme lokalenesom gjelder legemidler der det foreligger en fare for eller en etablert mangelsituasjonsom gjelder legemidler som inngår i en klinisk utprøving og som leveres til et annet apotek i henhold til skriftlig dokumentasjon fra sponsor for utprøvingen.
+Apotek uten grossisttillatelse eller felles driftskonsesjon kan levere legemidler til hverandre i tilfeller:
+
+1. hvor det medfører urimelig stor ulempe for kunden å hente legemidlet i et annet apotek
+2. som gjelder legemidler som er lagret for beredskapsformål og hvor holdbarheten vil utløpe dersom legemidlene ikke kan leveres til et annet apotek
+3. som gjelder legemidler som blir overflødige på grunn av flytting av spesialitet eller sykehusfunksjon
+4. som gjelder legemidler som et apotek har bestilt til en bestemt kunde men hvor kunden likevel ikke kjøper legemidlet
+5. som gjelder overdragelse av apotek med legemiddellager og hvor apotekdriften skal fortsette i de samme lokalene
+6. som gjelder legemidler der det foreligger en fare for eller en etablert mangelsituasjon
+7. som gjelder legemidler som inngår i en klinisk utprøving og som leveres til et annet apotek i henhold til skriftlig dokumentasjon fra sponsor for utprøvingen.
 
 Direktoratet for medisinske produkter kan i andre særlige tilfeller gi tillatelse til at apotek leverer legemidler til hverandre.
 
@@ -274,7 +306,16 @@ Apoteker er ansvarlig for at alle apotek som vedkommende har ansvar for, har et 
 
 Internkontrollen skal tilpasses apotekets størrelse, egenart, aktiviteter og forhold som kan medføre risiko for apotekets kunder og samarbeidspartnere, og ha det omfang som er nødvendig for å etterleve krav fastsatt i eller i medhold av legemiddel-, apotek- og helselovgivning.
 
-Internkontrollkravet innebærer at de ansvarlige for virksomheten skalbeskrive apotekets hovedoppgaver og mål, herunder kvalitetsmål og øvrige mål for forbedringsarbeidet, samt hvordan virksomheten er organisert slik at det klart fremgår hvordan ansvar, oppgaver og myndighet er fordelt, herunder samarbeidsforholdsikre tilgang til aktuelle lover, forskrifter og faglige normer for god apotek- eller tilvirkningspraksis som gjelder for apotekets virksomhetetablere arbeidsrutiner som ivaretar kundens/pasientens sikkerhet og sikrer at gjeldende standarder og regelverk overholdessørge for at alle som arbeider i apoteket, har tilstrekkelig kunnskap og ferdigheter innenfor det aktuelle fagfeltet, samt om virksomhetens internkontrollsørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaring utnyttesgjøre bruk av erfaringer fra kunder/pasienter og andre samarbeidspartnere til forbedring av virksomheten, samt iverksette tiltak for å rette opp og forebygge avvik og klagerskaffe oversikt over områder i virksomheten hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskravsørge for regelmessig gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring av virksomheten.
+Internkontrollkravet innebærer at de ansvarlige for virksomheten skal
+
+1. beskrive apotekets hovedoppgaver og mål, herunder kvalitetsmål og øvrige mål for forbedringsarbeidet, samt hvordan virksomheten er organisert slik at det klart fremgår hvordan ansvar, oppgaver og myndighet er fordelt, herunder samarbeidsforhold
+2. sikre tilgang til aktuelle lover, forskrifter og faglige normer for god apotek- eller tilvirkningspraksis som gjelder for apotekets virksomhet
+3. etablere arbeidsrutiner som ivaretar kundens/pasientens sikkerhet og sikrer at gjeldende standarder og regelverk overholdes
+4. sørge for at alle som arbeider i apoteket, har tilstrekkelig kunnskap og ferdigheter innenfor det aktuelle fagfeltet, samt om virksomhetens internkontroll
+5. sørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaring utnyttes
+6. gjøre bruk av erfaringer fra kunder/pasienter og andre samarbeidspartnere til forbedring av virksomheten, samt iverksette tiltak for å rette opp og forebygge avvik og klager
+7. skaffe oversikt over områder i virksomheten hvor det er fare for svikt eller mangel på oppfyllelse av myndighetskrav
+8. sørge for regelmessig gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring av virksomheten.
 
 > Endret ved [forskrift 12 nov 2009 nr. 1367](forskrift/2009-11-12-1367) (i kraft 1 jan 2010).
 
@@ -282,7 +323,11 @@ Internkontrollkravet innebærer at de ansvarlige for virksomheten skalbeskrive a
 
 Apoteket skal dokumentere at virksomheten drives i henhold til de til enhver tid gjeldende regler for virksomheten, herunder krav stilt som vilkår til apotek- og driftskonsesjon.
 
-Internkontrollen skal dokumenteres skriftlig i det omfang som er nødvendig for å sikreat ledelsen og de ansatte i apoteket har kunnskap om apotekets internkontrolllik forståelse og gjennomføring av internkontrollsystemet i apoteketkontroll av apotekets internkontrollaktiviteter, resultatene av dem og gjennomførte forbedringstiltak.
+Internkontrollen skal dokumenteres skriftlig i det omfang som er nødvendig for å sikre
+
+1. at ledelsen og de ansatte i apoteket har kunnskap om apotekets internkontroll
+2. lik forståelse og gjennomføring av internkontrollsystemet i apoteket
+3. kontroll av apotekets internkontrollaktiviteter, resultatene av dem og gjennomførte forbedringstiltak.
 
 De mest sentrale arbeidsoppgavene i apoteket og arbeidsoppgaver som har stor betydning for apotekkundens sikkerhet, skal alltid dokumenteres skriftlig.
 
@@ -306,7 +351,10 @@ Dersom vilkår etter første ledd ikke lenger er oppfylt, skal legemidlet fjerne
 
 ### § 39. Sykehusapoteks leveringsrett
 
-Enkeltvedtak etter [apotekloven § 6-1](lov/2000-06-02-39/§6-1), tredje ledd om at et sykehusapoteks leveringsrett for forhandlingspliktige varer bare skal gjelde for det samarbeidende sykehuset samt sykehusets ansatte og brukere, kan treffes av Direktoratet for medisinske produkter dersom:sykehusapoteket mottar tjenester fra et sykehus uten å yte fullt vederlag, ogdisse tjenestene er egnet til å gi sykehusapoteket en særlig gunstig stilling i forhold til andre apotek i samme kommune eller nærområde.
+Enkeltvedtak etter [apotekloven § 6-1](lov/2000-06-02-39/§6-1), tredje ledd om at et sykehusapoteks leveringsrett for forhandlingspliktige varer bare skal gjelde for det samarbeidende sykehuset samt sykehusets ansatte og brukere, kan treffes av Direktoratet for medisinske produkter dersom:
+
+1. sykehusapoteket mottar tjenester fra et sykehus uten å yte fullt vederlag, og
+2. disse tjenestene er egnet til å gi sykehusapoteket en særlig gunstig stilling i forhold til andre apotek i samme kommune eller nærområde.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -340,9 +388,17 @@ Ved forsendelse skal apoteket sikre sporbarhet for å ivareta forsvarlig utlever
 
 Med salg av legemidler over Internett menes i denne forskrift salg av legemidler når avtale om kjøp formidles elektronisk og inngås uten at kunden er fysisk tilstede i apoteket.
 
-Apotek som selger legemidler over Internett, plikter å gi Direktoratet for medisinske produkter oppdaterte opplysninger om følgende:adressen til det stedet som legemidlene skal utleveres fra,tidspunktet for når salg av legemidler over Internett påbegynnes, ogadressen til det nettstedet som skal benyttes og andre relevante opplysninger som er nødvendige for å kunne identifisere nettstedet.
+Apotek som selger legemidler over Internett, plikter å gi Direktoratet for medisinske produkter oppdaterte opplysninger om følgende:
 
-Nettstedet skal inneholde følgende:en logo, fastsatt av Direktoratet for medisinske produkter, på hver side i nettstedet, som identifiserer hvor selgeren av legemidlene er etablert,en lenke til Direktoratet for medisinske produkters informasjonsside på Internett om salg av legemidler over Internett, ogen lenke fra logo som nevnt i bokstav a), til Direktoratet for medisinske produkters elektroniske liste over aktører som har tillatelse til å selge legemidler over Internett.
+1. adressen til det stedet som legemidlene skal utleveres fra,
+2. tidspunktet for når salg av legemidler over Internett påbegynnes, og
+3. adressen til det nettstedet som skal benyttes og andre relevante opplysninger som er nødvendige for å kunne identifisere nettstedet.
+
+Nettstedet skal inneholde følgende:
+
+1. en logo, fastsatt av Direktoratet for medisinske produkter, på hver side i nettstedet, som identifiserer hvor selgeren av legemidlene er etablert,
+2. en lenke til Direktoratet for medisinske produkters informasjonsside på Internett om salg av legemidler over Internett, og
+3. en lenke fra logo som nevnt i bokstav a), til Direktoratet for medisinske produkters elektroniske liste over aktører som har tillatelse til å selge legemidler over Internett.
 
 Ved salg av reseptpliktige legemidler over Internett skal apotek tilby alle legemidler som er tillatt solgt i Norge, jf. [apotekloven § 5-3](lov/2000-06-02-39/§5-3). Apoteket kan unnlate forsendelse av legemidler med særskilte krav til forsendelse, oppbevaring eller holdbarhet, og legemidler som krever særlig aktsomhet ved utlevering. Informasjon om leveringstid, pris, og hvilke legemidler som eventuelt ikke sendes, skal fremkomme på nettstedet.
 
@@ -370,7 +426,12 @@ I tillegg til prisen for legemidlet, jf. [legemiddelforskriften kapittel 12](for
 
 ### § 45. Eksponering og tilgjengelighet av legemidler
 
-Legemidler som bare kan utleveres mot resept og reseptfrie legemidler som i markedsføringstillatelsen har risikominimeringstiltak knyttet til utleveringen skal ikke plasseres i selvvalgsavdeling. Andre legemidler kan plasseres i selvvalgsavdeling i den utstrekning lokalets utforming og apotekets rutiner sikrer en faglig forsvarlig utlevering av legemidlene, herunder at:bestemmelser om begrensninger ved utlevering av legemidler uten resept overholdes,apotekets personell til enhver tid lett kan overvåke legemidler som kan misbrukes eller av andre grunner bør føres et særskilt oppsyn med,kunden har god tilgang til nødvendig informasjon og personlig veiledning av kvalifisert personale om bruk av produktene, ogselvvalgsavdelingen er utformet slik at kunden enkelt får oversikt over et rimelig utvalg av legemidler som kan dekke samme terapeutiske behov, herunder aktuelle legemidler som ikke er plassert i selvvalget.
+Legemidler som bare kan utleveres mot resept og reseptfrie legemidler som i markedsføringstillatelsen har risikominimeringstiltak knyttet til utleveringen skal ikke plasseres i selvvalgsavdeling. Andre legemidler kan plasseres i selvvalgsavdeling i den utstrekning lokalets utforming og apotekets rutiner sikrer en faglig forsvarlig utlevering av legemidlene, herunder at:
+
+1. bestemmelser om begrensninger ved utlevering av legemidler uten resept overholdes,
+2. apotekets personell til enhver tid lett kan overvåke legemidler som kan misbrukes eller av andre grunner bør føres et særskilt oppsyn med,
+3. kunden har god tilgang til nødvendig informasjon og personlig veiledning av kvalifisert personale om bruk av produktene, og
+4. selvvalgsavdelingen er utformet slik at kunden enkelt får oversikt over et rimelig utvalg av legemidler som kan dekke samme terapeutiske behov, herunder aktuelle legemidler som ikke er plassert i selvvalget.
 
 Direktoratet for medisinske produkter kan likevel bestemme at enkelte legemidler eller legemiddelgrupper ikke skal plasseres i selvvalget.
 
@@ -404,7 +465,10 @@ Apoteket kan ikke fremstille priser og rabatter i sin markedsføring på en måt
 
 ### § 50. Forholdet til rekvirenter
 
-Apoteket kan ikke inngå en avtale med person med rett til å rekvirere legemidler som:åpenbart vil kunne redusere pasientens mulighet til selv å velge apotek, ellerknytter rekvirentens rabatt eller inntjening til verdien eller antallet av de rekvisisjoner eller resepter som apoteket mottar.
+Apoteket kan ikke inngå en avtale med person med rett til å rekvirere legemidler som:
+
+1. åpenbart vil kunne redusere pasientens mulighet til selv å velge apotek, eller
+2. knytter rekvirentens rabatt eller inntjening til verdien eller antallet av de rekvisisjoner eller resepter som apoteket mottar.
 
 > Endret ved forskrift [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022).
 
@@ -488,7 +552,12 @@ Medisinutsalget skal bestyres av en person som er godkjent av apotekeren. Apotek
 
 ### § 62. Ansvarsforhold og tilsyn
 
-Apotekeren er ansvarlig for atvarer som selges i medisinutsalget, er av tilfredsstillende kvalitetdriften av medisinutsalget er forsvarlig og i samsvar med myndighetskravutlevering av legemidler og andre varer i medisinutsalget skjer i henhold til de retningslinjer som er gitt av apoteketdet foreligger en plan for faglig oppfølging av medisinutsalget.
+Apotekeren er ansvarlig for at
+
+1. varer som selges i medisinutsalget, er av tilfredsstillende kvalitet
+2. driften av medisinutsalget er forsvarlig og i samsvar med myndighetskrav
+3. utlevering av legemidler og andre varer i medisinutsalget skjer i henhold til de retningslinjer som er gitt av apoteket
+4. det foreligger en plan for faglig oppfølging av medisinutsalget.
 
 Apotekeren eller person bemyndiget av denne, skal føre nødvendig tilsyn med medisinutsalget minst en gang hvert år. Tilsyn skal dokumenteres.
 

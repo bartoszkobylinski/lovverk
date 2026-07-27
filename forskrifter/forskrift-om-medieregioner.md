@@ -24,7 +24,18 @@ eu_basis: []
 
 ## I
 
-Følgende regioninndeling skal legges til grunn ved vurdering av regionale eierskapsbegrensninger etter § 11 i [medieeierskapsloven:](lov/1997-06-13-53/§11)Medieregion *Nord-Norge* består av Troms, Finnmark og Nordland, bortsett fra Bindal kommune i Nordland.Medieregion *Trøndelag* består av Sør-Trøndelag og Nord-Trøndelag, samt Bindal kommune i Nordland og Rindal kommune i Møre og Romsdal.Medieregion *Nordvestlandet* består av Møre og Romsdal bortsett fra Rindal kommune, samt Eid, Hornindal, Selje, Stryn og Vågsøy kommuner i Sogn og Fjordane.Medieregion *Vestlandet* består av Sogn og Fjordane bortsett fra Eid, Hornindal, Selje, Stryn og Vågsøy kommuner, og Hordaland bortsett fra Bømlo, Sveio og Etne kommuner.Medieregion *Sørvestlandet* består av Rogaland, samt Bømlo, Sveio og Etne kommuner i Hordaland.Medieregion *Sørlandet* består av Aust- og Vest-Agder.Medieregion *Vestviken* består av Telemark, Vestfold og Buskerud.Medieregion *Østviken* består av Østfold samt Akershus bortsett fra Asker, Bærum, Nittedal og Nesodden kommuner.Medieregion *Innlandet* består av Hedmark og Oppland.Medieregion *Stor-Oslo* består av Oslo samt Asker, Bærum, Nesodden og Nittedal kommuner i Akershus.
+Følgende regioninndeling skal legges til grunn ved vurdering av regionale eierskapsbegrensninger etter § 11 i [medieeierskapsloven:](lov/1997-06-13-53/§11)
+
+1. Medieregion *Nord-Norge* består av Troms, Finnmark og Nordland, bortsett fra Bindal kommune i Nordland.
+2. Medieregion *Trøndelag* består av Sør-Trøndelag og Nord-Trøndelag, samt Bindal kommune i Nordland og Rindal kommune i Møre og Romsdal.
+3. Medieregion *Nordvestlandet* består av Møre og Romsdal bortsett fra Rindal kommune, samt Eid, Hornindal, Selje, Stryn og Vågsøy kommuner i Sogn og Fjordane.
+4. Medieregion *Vestlandet* består av Sogn og Fjordane bortsett fra Eid, Hornindal, Selje, Stryn og Vågsøy kommuner, og Hordaland bortsett fra Bømlo, Sveio og Etne kommuner.
+5. Medieregion *Sørvestlandet* består av Rogaland, samt Bømlo, Sveio og Etne kommuner i Hordaland.
+6. Medieregion *Sørlandet* består av Aust- og Vest-Agder.
+7. Medieregion *Vestviken* består av Telemark, Vestfold og Buskerud.
+8. Medieregion *Østviken* består av Østfold samt Akershus bortsett fra Asker, Bærum, Nittedal og Nesodden kommuner.
+9. Medieregion *Innlandet* består av Hedmark og Oppland.
+10. Medieregion *Stor-Oslo* består av Oslo samt Asker, Bærum, Nesodden og Nittedal kommuner i Akershus.
 
 ## II
 

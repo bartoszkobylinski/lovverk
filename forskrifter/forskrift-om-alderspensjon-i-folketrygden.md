@@ -15,7 +15,7 @@ xml_hash: "50599e061cc9f831d5f0c27d8ce7bf207c77ded1062d5cdf163f46501e0ca455"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,18 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring av § 3-3 om
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med:*Basispensjon:* summen av grunnpensjon og tilleggspensjon beregnet etter reglene i [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3), se [folketrygdloven § 19-5](lov/1997-02-28-19/§19-5).
+I denne forskriften menes med:
 
-b. *Basisgrunnpensjon:* den delen av basispensjonen som er grunnpensjon.*Basistilleggspensjon:* den delen av basispensjonen som er tilleggspensjon.*Basispensjonstillegg:* minste pensjonsnivå multiplisert med forholdstallet ved 67 år og avkortet mot basispensjonen, se [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) fjerde ledd.*Restpensjon:* summen av grunnpensjon, tilleggspensjon og pensjonstillegg som ikke tas ut ved gradert uttak, se [folketrygdloven § 19-10](lov/1997-02-28-19/§19-10) femte ledd.*Restgrunnpensjon:* den delen av restpensjonen som er grunnpensjon.*Resttilleggspensjon:* den delen av restpensjonen som er tilleggspensjon.*Restpensjonstillegg:* den delen av restpensjonen som er pensjonstillegg.
+1. *Basispensjon:* summen av grunnpensjon og tilleggspensjon beregnet etter reglene i [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3), se [folketrygdloven § 19-5](lov/1997-02-28-19/§19-5).
+
+b. *Basisgrunnpensjon:* den delen av basispensjonen som er grunnpensjon.
+
+1. *Basistilleggspensjon:* den delen av basispensjonen som er tilleggspensjon.
+2. *Basispensjonstillegg:* minste pensjonsnivå multiplisert med forholdstallet ved 67 år og avkortet mot basispensjonen, se [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) fjerde ledd.
+3. *Restpensjon:* summen av grunnpensjon, tilleggspensjon og pensjonstillegg som ikke tas ut ved gradert uttak, se [folketrygdloven § 19-10](lov/1997-02-28-19/§19-10) femte ledd.
+4. *Restgrunnpensjon:* den delen av restpensjonen som er grunnpensjon.
+5. *Resttilleggspensjon:* den delen av restpensjonen som er tilleggspensjon.
+6. *Restpensjonstillegg:* den delen av restpensjonen som er pensjonstillegg.
 
 ## Kapittel 2. Pensjonsopptjening ved avtjening av førstegangstjeneste, pensjonsopptjening for dagpengemottakere og pensjonsopptjening for mottakere av uføretrygd ved yrkesskade
 
@@ -90,7 +99,9 @@ Andre og fjerde ledd gjelder tilsvarende for medlemmer som har mottatt dagpenger
 
 ### § 2-6. Pensjonsopptjening for fiskere og fangstmenn som mottar arbeidsledighetstrygd i fiske
 
-For fiskere og fangstmenn som har mottatt arbeidsledighetstrygd etter [forskrift 26. januar 1990 nr. 67](forskrift/1990-01-26-67) om arbeidsledighetstrygd i fiske, skal inntekten for pensjonsopptjeningen tilsvare utbetalt arbeidsledighetstrygd i kalenderåret eksklusive barnetillegg, multiplisert med en faktor f lik:\\(f=\\frac{100\\%}{A}\\)
+For fiskere og fangstmenn som har mottatt arbeidsledighetstrygd etter [forskrift 26. januar 1990 nr. 67](forskrift/1990-01-26-67) om arbeidsledighetstrygd i fiske, skal inntekten for pensjonsopptjeningen tilsvare utbetalt arbeidsledighetstrygd i kalenderåret eksklusive barnetillegg, multiplisert med en faktor f lik:
+
+\\(f=\\frac{100\\%}{A}\\)
 
 A skal være årlig kompensasjonsgrad for dagpenger etter [folketrygdloven § 4-12](lov/1997-02-28-19/§4-12). Satsen for dagpenger utgjorde 2,4 promille pr. 31. desember 2009 og dagpenger utbetales for fem dager pr. uke, hvilket gir en årlig kompensasjonsgrad på 62,4 prosent.
 
@@ -108,7 +119,10 @@ Bestemmelsene her gjør unntak fra reglene i [folketrygdloven § 20-7a](lov/1997
 
 Den som mottar hel uføretrygd på grunn av en yrkesskade, får for hvert kalenderår han eller hun har mottatt uføretrygd en pensjonsopptjening på grunnlag av antatt inntekt.
 
-Antatt inntekt fastsettes slik:Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i § 12-17, skal den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.Dersom uføretrygden er en omregnet uførepensjon, skal den antatte inntekten tilsvare den pensjonsgivende inntekten som etter [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det sluttpoengtallet som var lagt til grunn for beregningen av tilleggspensjonen etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c slik den lød før [lov 16. desember 2011 nr. 59](lov/2011-12-16-59) trådte i kraft.
+Antatt inntekt fastsettes slik:
+
+1. Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i § 12-17, skal den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.
+2. Dersom uføretrygden er en omregnet uførepensjon, skal den antatte inntekten tilsvare den pensjonsgivende inntekten som etter [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det sluttpoengtallet som var lagt til grunn for beregningen av tilleggspensjonen etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c slik den lød før [lov 16. desember 2011 nr. 59](lov/2011-12-16-59) trådte i kraft.
 
 For et medlem som mottar gradert uføretrygd på grunn av en yrkesskade, skal den antatte inntekten etter tredje ledd reduseres forholdsmessig.
 
@@ -280,7 +294,9 @@ For personer født i perioden 1954 til og med november 1957 som mottok uføretry
 
 ### Vedlegg
 
-1\. *Dødelighet*qK,x i formlene 1a og 1b betegner et årskull (K) sin sannsynlighet for å dø (q) i en gitt alder (x) og beregnes som et gjennomsnitt av dødeligheten i kalenderår (d) slik:
+1\. *Dødelighet*
+
+qK,x i formlene 1a og 1b betegner et årskull (K) sin sannsynlighet for å dø (q) i en gitt alder (x) og beregnes som et gjennomsnitt av dødeligheten i kalenderår (d) slik:
 
 (1a)
 
@@ -290,13 +306,17 @@ $$q_{K,x}\\equiv\\frac{1}{2}(d_{K+x,x}+d_{K+x+1,x})\\hspace{1.5cm}\\text{, for }
 
 $$q_{K,x}\\equiv\\frac{1}{10}\\displaystyle\\sum\\limits_{t=K+51}^{K+60}d_{t,x}\\hspace{3.4cm}\\text{, for }x\\in\\{60,...,\\infty\\}\\text{ og }K\\geq1943$$
 
-2\. *Overlevelse*lK,x er sannsynligheten (l) for at en person i årskull (K) overlever fra fylte 27 år til fylte x år og beregnes slik:
+2\. *Overlevelse*
+
+lK,x er sannsynligheten (l) for at en person i årskull (K) overlever fra fylte 27 år til fylte x år og beregnes slik:
 
 (2)
 
 $$l_{K,x}\\equiv\\begin{cases}1\\hspace{4cm}\\text{, for }x=27\\text{,}\\hspace{3mm}K\\geq1943\\\\l_{K,x-1}(1-q_{K,x-1})\\hspace{0.7cm}\\text{, for }x\\in\\{28,...,\\infty\\}\\text{,}\\hspace{3mm}K\\geq1943\\end{cases}$$
 
-3\. *Forventet gjenstående levetid*Et årskulls forventede gjenstående levetid (L) ved ulike uttaksaldre (A) fra og med 62 år til og med 75 år beregnes slik:
+3\. *Forventet gjenstående levetid*
+
+Et årskulls forventede gjenstående levetid (L) ved ulike uttaksaldre (A) fra og med 62 år til og med 75 år beregnes slik:
 
 (3)
 
@@ -306,25 +326,33 @@ $$\\text{der}\\hspace{3mm}p_{K,A,x}\\equiv\\frac{1}{l_{K,A}}\\frac{(l_{K,x}+l_{K
 
 pK,A,x betegner gjennomsnittlig sannsynlighet for at en person fra årskull K overlever fra alder A år til alder mellom x og x + 1 år.
 
-4\. *Delingstall*Delingstallet (DT) for årskull K ved en uttaksalder mellom 62 og 75 år framkommer ved at det i uttrykket for forventet gjenstående levetid tas hensyn til forholdet mellom regulering av pensjon under utbetaling og diskonteringsrenten og til forholdet mellom årskullets sannsynlighet for å overleve fram til uttaksalder og gjennomsnittlig sannsynlighet for å overleve fram til alderen 27 til 66 år slik:
+4\. *Delingstall*
+
+Delingstallet (DT) for årskull K ved en uttaksalder mellom 62 og 75 år framkommer ved at det i uttrykket for forventet gjenstående levetid tas hensyn til forholdet mellom regulering av pensjon under utbetaling og diskonteringsrenten og til forholdet mellom årskullets sannsynlighet for å overleve fram til uttaksalder og gjennomsnittlig sannsynlighet for å overleve fram til alderen 27 til 66 år slik:
 
 (4)
 
 $$DT_{K,A}\\equiv\\frac{l_{K,A}}{\\frac{1}{40}\\displaystyle\\sum\\limits_{i=27}^{66} l_{K,i}}\\lgroup\\displaystyle\\sum\\limits_{x=A}^\\infty 0{,}9925^{x-A}p_{K,A,x}\\rgroup\\hspace{2cm}\\text{, for }A\\in\\lbrace62,...,75\\rbrace\\text{,}\\hspace{3mm}K\\geq1954$$
 
-5\. *Telleren i forholdstallet*Telleren (T) i forholdstallet for årskull K ved en uttaksalder mellom 62 og 75 år framkommer ved at det i uttrykket for forventet gjenstående levetid tas hensyn til forholdet mellom regulering av pensjon under utbetaling og diskonteringsrenten og til forholdet mellom årskullets sannsynlighet for å overleve fram til uttaksalder og årskullets sannsynlighet for å overleve fram til alderen 62 år slik:
+5\. *Telleren i forholdstallet*
+
+Telleren (T) i forholdstallet for årskull K ved en uttaksalder mellom 62 og 75 år framkommer ved at det i uttrykket for forventet gjenstående levetid tas hensyn til forholdet mellom regulering av pensjon under utbetaling og diskonteringsrenten og til forholdet mellom årskullets sannsynlighet for å overleve fram til uttaksalder og årskullets sannsynlighet for å overleve fram til alderen 62 år slik:
 
 (5)
 
 $$T_{K,A}\\equiv\\frac{l_{K,A}}{l_{K,62}}\\lgroup\\displaystyle\\sum\\limits_{x=A}^\\infty 0{,}9925^{x-A}p_{K,A,x}\\rgroup\\hspace{2cm}\\text{, for }A\\in\\lbrace62,...,75\\rbrace, 1943\\leq K\\leq1962$$
 
-6\. *Normering av forholdstallet*Forholdstallet normeres til 1 for 1943-kullet ved 67 år. Forholdstallene for 1943-kullet beregnes dermed som en brøk, der brøkens nevner (N) er lik brøkens teller ved pensjonsuttak ved 67 år:
+6\. *Normering av forholdstallet*
+
+Forholdstallet normeres til 1 for 1943-kullet ved 67 år. Forholdstallene for 1943-kullet beregnes dermed som en brøk, der brøkens nevner (N) er lik brøkens teller ved pensjonsuttak ved 67 år:
 
 (6)
 
 $$N_{1943}\\equiv\\frac{l_{1943{,}67}}{l_{1943{,}62}}\\lgroup\\displaystyle\\sum\\limits_{x=67}^\\infty 0{,}9925^{x-67}p_{1943{,}67,x}\\rgroup$$
 
-7\. *Gradvis innfasing av levealdersjusteringen*Gradvis innfasing av levealdersjusteringen etter [folketrygdloven § 19-7](lov/1997-02-28-19/§19-7) tredje ledd, gjennomføres ved å tilpasse nevneren (N) i brøken som uttrykker forholdstallet årskull K ved hjelp av vekter (v) slik:
+7\. *Gradvis innfasing av levealdersjusteringen*
+
+Gradvis innfasing av levealdersjusteringen etter [folketrygdloven § 19-7](lov/1997-02-28-19/§19-7) tredje ledd, gjennomføres ved å tilpasse nevneren (N) i brøken som uttrykker forholdstallet årskull K ved hjelp av vekter (v) slik:
 
 (7)
 
@@ -334,7 +362,9 @@ der vektene vK er gitt ved:
 
 $$v_{K}\\equiv\\begin{cases}1\\hspace{3cm}\\text{, for }1944\\leq K\\leq1949\\\\1-\\frac{K-1949}{10}\\hspace{1cm}\\text{, for }1950\\leq K\\leq1958\\\\0\\hspace{3cm}\\text{, for }1959\\leq K\\leq1962\\end{cases}$$
 
-8\. *Forholdstall*Forholdstallet (FT) for hvert årskull 1943–1962 for uttaksalder 62-75 blir beregnet ved følgende brøk, der telleren (T) er definert i (5), nevneren (N) for 1943-kullet er definert i (6) og nevneren (N) for årskullene 1944–1962 er definert i (7):
+8\. *Forholdstall*
+
+Forholdstallet (FT) for hvert årskull 1943–1962 for uttaksalder 62-75 blir beregnet ved følgende brøk, der telleren (T) er definert i (5), nevneren (N) for 1943-kullet er definert i (6) og nevneren (N) for årskullene 1944–1962 er definert i (7):
 
 $$FT_{K,A}\\equiv\\frac{T_{K,A}}{N_{K}}\\hspace{2cm}\\text{, for }A\\in\\lbrace62,...,75\\rbrace, 1943\\leq K\\leq1962$$
 
@@ -366,7 +396,10 @@ Samlet tilleggspensjon og særtillegg etter [folketrygdloven kapittel 3](lov/199
 
 ### § 5-3. Virkeområde
 
-Bestemmelsene i avsnittet her gjelder for personer som omfattes av [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje ledd og som mottar hel alderspensjon og lever sammen med en ektefelle som mottarhel alderspensjon elleralderspensjon og uføretrygd med en samlet pensjonsgrad på 100 prosent.
+Bestemmelsene i avsnittet her gjelder for personer som omfattes av [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje ledd og som mottar hel alderspensjon og lever sammen med en ektefelle som mottar
+
+- hel alderspensjon eller
+- alderspensjon og uføretrygd med en samlet pensjonsgrad på 100 prosent.
 
 > Tilføyd ved [forskrift 30 nov 2010 nr. 1502](forskrift/2010-11-30-1502) (i kraft 1 jan 2011), endret ved [forskrift 18 des 2014 nr. 1773](forskrift/2014-12-18-1773) (i kraft 1 jan 2015).
 
@@ -400,7 +433,10 @@ Ved endring i pensjonsgrad mv. som fører til at vilkårene i [§ 5-3](forskrift
 
 ### § 5-7. Virkeområde
 
-Bestemmelsene i avsnittet her gjelder for personer født i 1943 som mottar pensjon pr. 31. desember 2010, omfattes av [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje ledd og sommottar hel alderspensjon og lever sammen med en ektefelle som mottar avtalefestet pensjon som nevnt i [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19), ogvedkommendes alderspensjon er omregnet etter § 11-4 i forskriften her som følge av økt opptjening og eventuelt økt trygdetid.
+Bestemmelsene i avsnittet her gjelder for personer født i 1943 som mottar pensjon pr. 31. desember 2010, omfattes av [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje ledd og som
+
+1. mottar hel alderspensjon og lever sammen med en ektefelle som mottar avtalefestet pensjon som nevnt i [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19), og
+2. vedkommendes alderspensjon er omregnet etter § 11-4 i forskriften her som følge av økt opptjening og eventuelt økt trygdetid.
 
 > Tilføyd ved [forskrift 30 nov 2010 nr. 1502](forskrift/2010-11-30-1502) (i kraft 1 jan 2011), endret ved [forskrift 18 des 2014 nr. 1773](forskrift/2014-12-18-1773) (i kraft 1 jan 2015).
 
@@ -452,7 +488,11 @@ Oppdatering av pensjonsgraden etter denne bestemmelsen påvirker ikke den enkelt
 
 ### § 6-4. Omregning av pensjon ved endring i sivilstand mv. etter uttak
 
-Etter uttak av alderspensjon skal pensjonen og restpensjonen omregnes ved endring i sivilstand mv. somendrer retten til grunnpensjon etter [folketrygdloven § 19-5](lov/1997-02-28-19/§19-5) jf. [kapittel 3](lov/1997-02-28-19/kap3), eller endrer retten til sats for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8),innebærer at pensjonisten får rett til en grunnpensjon basert på ektefellens trygdetid etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) eller en kombinert tilleggspensjon etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) jf. [§ 3-23](lov/1997-02-28-19/§3-23), samt ved bortfall av disse rettighetene,innebærer at grunnpensjon, tilleggspensjon eller pensjonstillegg endres for personer som følger regler fra [lov 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd [§ 7-2](lov/1966-06-17-12/§7-2) nr. 3 første ledd om godskriving av ektefellens trygdetid slik den lød pr. 31. desember 1990, § 7-2 nr. 2 bokstav b om fastsetting av grunnpensjon når ektefellen har uføretrygd og hadde gradert uførepensjon, slik den lød pr. 31. desember 1989 eller § 7-3 nr. 3 om poengtillegg slik den lød pr. 31. mars 1984.
+Etter uttak av alderspensjon skal pensjonen og restpensjonen omregnes ved endring i sivilstand mv. som
+
+1. endrer retten til grunnpensjon etter [folketrygdloven § 19-5](lov/1997-02-28-19/§19-5) jf. [kapittel 3](lov/1997-02-28-19/kap3), eller endrer retten til sats for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8),
+2. innebærer at pensjonisten får rett til en grunnpensjon basert på ektefellens trygdetid etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) eller en kombinert tilleggspensjon etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) jf. [§ 3-23](lov/1997-02-28-19/§3-23), samt ved bortfall av disse rettighetene,
+3. innebærer at grunnpensjon, tilleggspensjon eller pensjonstillegg endres for personer som følger regler fra [lov 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd [§ 7-2](lov/1966-06-17-12/§7-2) nr. 3 første ledd om godskriving av ektefellens trygdetid slik den lød pr. 31. desember 1990, § 7-2 nr. 2 bokstav b om fastsetting av grunnpensjon når ektefellen har uføretrygd og hadde gradert uførepensjon, slik den lød pr. 31. desember 1989 eller § 7-3 nr. 3 om poengtillegg slik den lød pr. 31. mars 1984.
 
 Ny grunnpensjon under utbetaling beregnes ved å multiplisere basisgrunnpensjon etter endring i sivilstand mv. med forholdet mellom grunnpensjon under utbetaling og basisgrunnpensjon før endring i sivilstand mv.
 
@@ -484,9 +524,19 @@ Dersom en person som ikke er medlem i trygden endrer uttaksgrad, skal pensjon un
 
 For personer født i årene 1944 til 1948 som ble tilstått avtalefestet pensjon med statstilskott med virkningstidspunkt før 1. januar 2011, beregnes tilleggspensjonen etter paragrafen her.
 
-Ved mottak av avtalefestet pensjon fram til fylte 67 år og uttak av alderspensjon samme år, skal det i basistilleggspensjonen fra 67 år medregnesopptjente og godskrevne pensjonspoeng etter [folketrygdloven § 3-14](lov/1997-02-28-19/§3-14) og [§ 3-19](lov/1997-02-28-19/§3-19) fram til og med det kalenderåret vedkommende fylte 65 år, ogantatte framtidige pensjonspoeng etter [folketrygdloven § 3-17](lov/1997-02-28-19/§3-17), [§ 3-18](lov/1997-02-28-19/§3-18) og [§ 3-21](lov/1997-02-28-19/§3-21) for det kalenderåret vedkommende fylte 66 år.Med virkning på pensjonen fra januar det året vedkommende fyller 68 år omregnes pensjonen etter [folketrygdloven § 19-13](lov/1997-02-28-19/§19-13) på bakgrunn av opptjente og godskrevne pensjonspoeng for det kalenderåret vedkommende fylte 66 år.
+Ved mottak av avtalefestet pensjon fram til fylte 67 år og uttak av alderspensjon samme år, skal det i basistilleggspensjonen fra 67 år medregnes
 
-Ved stans av avtalefestet pensjon før fylte 67 år og uttak av alderspensjon samme år, skal det i basistilleggspensjonen medregnesgodskrevne og opptjente pensjonspoeng etter [folketrygdloven § 3-14](lov/1997-02-28-19/§3-14) og [§ 3-19](lov/1997-02-28-19/§3-19) fram til og med kalenderåret forut for året før avtalefestet pensjon ble stanset, ogantatte framtidige pensjonspoeng for året og året før avtalefestet pensjon ble stanset.Med virkning på pensjonen fra januar året etter det året avtalefestet pensjon ble stanset og det påfølgende året, omregnes pensjonen etter reglene i [folketrygdloven § 19-13](lov/1997-02-28-19/§19-13) på bakgrunn av opptjente og godskrevne pensjonspoeng for henholdsvis året før året avtalefestet pensjon ble stanset og året avtalefestet pensjon ble stanset.
+1. opptjente og godskrevne pensjonspoeng etter [folketrygdloven § 3-14](lov/1997-02-28-19/§3-14) og [§ 3-19](lov/1997-02-28-19/§3-19) fram til og med det kalenderåret vedkommende fylte 65 år, og
+2. antatte framtidige pensjonspoeng etter [folketrygdloven § 3-17](lov/1997-02-28-19/§3-17), [§ 3-18](lov/1997-02-28-19/§3-18) og [§ 3-21](lov/1997-02-28-19/§3-21) for det kalenderåret vedkommende fylte 66 år.
+
+Med virkning på pensjonen fra januar det året vedkommende fyller 68 år omregnes pensjonen etter [folketrygdloven § 19-13](lov/1997-02-28-19/§19-13) på bakgrunn av opptjente og godskrevne pensjonspoeng for det kalenderåret vedkommende fylte 66 år.
+
+Ved stans av avtalefestet pensjon før fylte 67 år og uttak av alderspensjon samme år, skal det i basistilleggspensjonen medregnes
+
+1. godskrevne og opptjente pensjonspoeng etter [folketrygdloven § 3-14](lov/1997-02-28-19/§3-14) og [§ 3-19](lov/1997-02-28-19/§3-19) fram til og med kalenderåret forut for året før avtalefestet pensjon ble stanset, og
+2. antatte framtidige pensjonspoeng for året og året før avtalefestet pensjon ble stanset.
+
+Med virkning på pensjonen fra januar året etter det året avtalefestet pensjon ble stanset og det påfølgende året, omregnes pensjonen etter reglene i [folketrygdloven § 19-13](lov/1997-02-28-19/§19-13) på bakgrunn av opptjente og godskrevne pensjonspoeng for henholdsvis året før året avtalefestet pensjon ble stanset og året avtalefestet pensjon ble stanset.
 
 Dersom alderspensjon tas ut senere enn samme år som avtalefestet pensjon stanses eller opphører, gjelder andre og tredje ledd tilsvarende så langt de passer.
 
@@ -556,7 +606,9 @@ Første gangs uttak av pensjon regnes også som endring av pensjonsgrad.
 
 Restpensjon, pensjonsbeholdning og garantipensjonsbeholdning reguleres etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) første ledd, [§ 20-18](lov/1997-02-28-19/§20-18) første ledd og [§ 20-14](lov/1997-02-28-19/§20-14) femte ledd årlig i samsvar med lønnsveksten, med virkning fra 1. mai.
 
-Er uttaksgraden pr. 1. mai lavere enn gjennomsnittlig uttaksgrad siste tolv måneder, reguleres restpensjonen, pensjonsbeholdningen og garantipensjonsbeholdningen på følgende måte: $$\\begin{align}\\text{lønnsvekst}\\cdot\\frac{100\\:\\% -\\text{gjennomsnittlig uttaksgrad siste år}}{100\\:\\% -\\text{uttaksgrad pr. 1. mai}} +\\\\ \\text{gjennomsnittet av lønns- og prisvekst}\\cdot \\frac{\\text{gjennomsnittlig uttaksgrad siste år} -\\text{uttaksgrad pr. 1. mai}}{100\\:\\% -\\text{uttaksgrad pr. 1. mai}}\\end{align}$$
+Er uttaksgraden pr. 1. mai lavere enn gjennomsnittlig uttaksgrad siste tolv måneder, reguleres restpensjonen, pensjonsbeholdningen og garantipensjonsbeholdningen på følgende måte:
+
+$$\\begin{align}\\text{lønnsvekst}\\cdot\\frac{100\\:\\% -\\text{gjennomsnittlig uttaksgrad siste år}}{100\\:\\% -\\text{uttaksgrad pr. 1. mai}} +\\\\ \\text{gjennomsnittet av lønns- og prisvekst}\\cdot \\frac{\\text{gjennomsnittlig uttaksgrad siste år} -\\text{uttaksgrad pr. 1. mai}}{100\\:\\% -\\text{uttaksgrad pr. 1. mai}}\\end{align}$$
 
 > Endret ved forskrift [1 april 2022 nr. 523](forskrift/2022-04-01-523).
 
@@ -564,7 +616,9 @@ Er uttaksgraden pr. 1. mai lavere enn gjennomsnittlig uttaksgrad siste tolv mån
 
 Pensjon under utbetaling reguleres etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) andre ledd og [§ 20-18](lov/1997-02-28-19/§20-18) andre ledd i samsvar med et gjennomsnitt av lønns- og prisvekst med virkning fra 1. mai.
 
-Er uttaksgraden pr. 1. mai høyere enn gjennomsnittlig uttaksgrad siste tolv måneder, reguleres pensjon under utbetaling på følgende måte: $$\\begin{align}\\text{lønnsvekst}\\cdot \\frac{\\text{uttaksgrad pr. 1. mai}-{\\text {gjennomsnittlig uttaksgrad siste år}}}{{\\text {uttaksgrad pr. 1. mai}}} +\\\\ \\text{gjennomsnittet av lønns- og prisvekst}\\cdot \\frac{\\text{gjennomsnittlig uttaksgrad siste år}}{\\text{uttaksgrad pr. 1. mai}}\\end{align}$$
+Er uttaksgraden pr. 1. mai høyere enn gjennomsnittlig uttaksgrad siste tolv måneder, reguleres pensjon under utbetaling på følgende måte:
+
+$$\\begin{align}\\text{lønnsvekst}\\cdot \\frac{\\text{uttaksgrad pr. 1. mai}-{\\text {gjennomsnittlig uttaksgrad siste år}}}{{\\text {uttaksgrad pr. 1. mai}}} +\\\\ \\text{gjennomsnittet av lønns- og prisvekst}\\cdot \\frac{\\text{gjennomsnittlig uttaksgrad siste år}}{\\text{uttaksgrad pr. 1. mai}}\\end{align}$$
 
 > Endret ved forskrift [1 april 2022 nr. 523](forskrift/2022-04-01-523).
 
@@ -750,7 +804,11 @@ Dersom pensjonen tidligere er omregnet etter forskriften her § 11-4, skal pensj
 
 For personer født i 1942 og tidligere år som har tatt ut pensjon beregnet med foreløpige poengtall, skal alderspensjonen omregnes dersom pensjonsuttak beregnet med endelig fastsatte poengtall ville gitt ulik alderspensjon. Omregning skal også foretas dersom opptjente pensjonspoeng eller økt trygdetid etter uttaket kan gi høyere pensjon. Omregningen skal foretas i året pensjonisten fyller 70 år. Tilsvarende gjelder for personer født i 1942 og tidligere år som fram til fylte 67 år hadde avtalefestet pensjon med statstilskott, jf. [folketrygdloven § 19-18](lov/1997-02-28-19/§19-18) andre ledd.
 
-For personer født i 1942 og tidligere år skal pensjonen omregnes ved endring i sivilstand mv. etter uttak av alderspensjon som:endrer retten til grunnpensjon eller særtillegg etter [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3),innebærer at pensjonisten får rett til grunnpensjon og særtillegg beregnet med ektefellens trygdetid etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) eller en kombinert tilleggspensjon etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) jf. [§ 3-23](lov/1997-02-28-19/§3-23), samt ved bortfall av disse rettighetene,innebærer at grunnpensjon, tilleggspensjon eller særtillegg endres for personer som følger regler fra [lov 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd [§ 7-2](lov/1966-06-17-12/§7-2) nr. 3 første ledd om godskriving av ektefellens trygdetid slik den lød pr. 31. desember 1990, § 7-2 nr. 2 bokstav b om fastsetting av grunnpensjon når ektefellen har uføretrygd og hadde gradert uførepensjon, slik den lød pr. 31. desember 1989 eller § 7-3 nr. 3 om poengtillegg slik den lød pr. 31. mars 1984.
+For personer født i 1942 og tidligere år skal pensjonen omregnes ved endring i sivilstand mv. etter uttak av alderspensjon som:
+
+1. endrer retten til grunnpensjon eller særtillegg etter [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3),
+2. innebærer at pensjonisten får rett til grunnpensjon og særtillegg beregnet med ektefellens trygdetid etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) eller en kombinert tilleggspensjon etter [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16) jf. [§ 3-23](lov/1997-02-28-19/§3-23), samt ved bortfall av disse rettighetene,
+3. innebærer at grunnpensjon, tilleggspensjon eller særtillegg endres for personer som følger regler fra [lov 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd [§ 7-2](lov/1966-06-17-12/§7-2) nr. 3 første ledd om godskriving av ektefellens trygdetid slik den lød pr. 31. desember 1990, § 7-2 nr. 2 bokstav b om fastsetting av grunnpensjon når ektefellen har uføretrygd og hadde gradert uførepensjon, slik den lød pr. 31. desember 1989 eller § 7-3 nr. 3 om poengtillegg slik den lød pr. 31. mars 1984.
 
 Omregningen etter første og andre ledd foretas ved at ny grunnpensjon, ny tilleggspensjon og nytt særtillegg under utbetaling beregnes ved å multiplisere henholdsvis grunnpensjon, tilleggspensjon og særtillegg etter [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3) etter endring i sivilstand mv. med forholdet mellom grunnpensjon under utbetaling og grunnpensjon etter [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3) før endring i sivilstand mv.
 

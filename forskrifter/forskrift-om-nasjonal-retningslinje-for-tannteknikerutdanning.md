@@ -42,7 +42,11 @@ Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for li
 
 ### § 3. Kompetanseområder
 
-Tannteknikerutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1482/kap2) til [4](forskrift/2025-07-04-1482/kap4) under følgende kompetanseområder:Oral helseOral protetikkProfesjonalitet.
+Tannteknikerutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1482/kap2) til [4](forskrift/2025-07-04-1482/kap4) under følgende kompetanseområder:
+
+- Oral helse
+- Oral protetikk
+- Profesjonalitet.
 
 Læringsutbyttebeskrivelsene i [§ 6](forskrift/2025-07-04-1482/§6) a, [§ 9](forskrift/2025-07-04-1482/§9) a, [§ 10](forskrift/2025-07-04-1482/§10) e, f og g, [§ 11](forskrift/2025-07-04-1482/§11) c og e, [§ 12](forskrift/2025-07-04-1482/§12) c og d er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen. Tannteknikerutdanningen gis unntak fra [forskrift om felles rammeplan for helse- og sosialfagutdanninger § 2 annet ledd](forskrift/2025-07-04-1478/§2/ledd/2) pkt. 7 og 9.
 
@@ -52,43 +56,93 @@ Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjø
 
 ### § 4. Oral helse – Kunnskap
 
-Kandidatenhar bred kunnskap om tennenes makroskopiske anatomi, anatomiske variasjoner, terminologi og tannbenevningssystemerhar kunnskap om munnhulens anatomi og funksjonkjenner til normale og patologiske forhold i munnhulen.
+Kandidaten
+
+1. har bred kunnskap om tennenes makroskopiske anatomi, anatomiske variasjoner, terminologi og tannbenevningssystemer
+2. har kunnskap om munnhulens anatomi og funksjon
+3. kjenner til normale og patologiske forhold i munnhulen.
 
 ### § 5. Oral helse – Ferdigheter
 
-Kandidatenkan anvende riktig terminologi knyttet til tenner, tannflater og anatomiske strukturerkan anvende kunnskap om tennenes makroskopiske anatomi for å utforme tannerstatningerkan anvende kunnskap om munnhulens anatomi og biologi for å fremstille klinisk akseptable tanntekniske konstruksjoner.
+Kandidaten
+
+1. kan anvende riktig terminologi knyttet til tenner, tannflater og anatomiske strukturer
+2. kan anvende kunnskap om tennenes makroskopiske anatomi for å utforme tannerstatninger
+3. kan anvende kunnskap om munnhulens anatomi og biologi for å fremstille klinisk akseptable tanntekniske konstruksjoner.
 
 ### § 6. Oral helse – Generell kompetanse
 
-Kandidatenkan formidle sammenhengen mellom helse, utdanning, arbeid og levekår, og tennenes psykososiale betydning både tilknyttet enkeltpersoner og grupper i samfunnet relatert til god folkehelse og arbeidsinkludering.
+Kandidaten
+
+1. kan formidle sammenhengen mellom helse, utdanning, arbeid og levekår, og tennenes psykososiale betydning både tilknyttet enkeltpersoner og grupper i samfunnet relatert til god folkehelse og arbeidsinkludering.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet oral protetikk
 
 ### § 7. Oral protetikk – Kunnskap
 
-Kandidatenhar bred kunnskap om grunnleggende behandlingsprosedyrer og fremstilling av tanntekniske konstruksjoner basert på klinisk og teoretisk vitenskaphar bred kunnskap om filbehandling og fremstillingsprosedyrer tilknyttet digital tannteknikkhar bred kunnskap om de ulike dentale materialer som benyttes i tanntekniske konstruksjoner hva gjelder optiske, kjemiske, fysikalske og termiske egenskaper når de brukes hver for seg, eller i kombinasjon i en og samme konstruksjon, i et oralt miljøhar kunnskap om dentale materialers risiko for biologiske reaksjoner i form av allergiutvikling, toksisitet og bivirkningerkjenner til forskning og utviklingsarbeid og kan relatere det til tannteknisk yrkesutøvelse og materialvalg ved fremstilling av tanntekniske konstruksjoner.
+Kandidaten
+
+1. har bred kunnskap om grunnleggende behandlingsprosedyrer og fremstilling av tanntekniske konstruksjoner basert på klinisk og teoretisk vitenskap
+2. har bred kunnskap om filbehandling og fremstillingsprosedyrer tilknyttet digital tannteknikk
+3. har bred kunnskap om de ulike dentale materialer som benyttes i tanntekniske konstruksjoner hva gjelder optiske, kjemiske, fysikalske og termiske egenskaper når de brukes hver for seg, eller i kombinasjon i en og samme konstruksjon, i et oralt miljø
+4. har kunnskap om dentale materialers risiko for biologiske reaksjoner i form av allergiutvikling, toksisitet og bivirkninger
+5. kjenner til forskning og utviklingsarbeid og kan relatere det til tannteknisk yrkesutøvelse og materialvalg ved fremstilling av tanntekniske konstruksjoner.
 
 ### § 8. Oral protetikk – Ferdigheter
 
-Kandidatenkan anvende presis fagterminologi innen profesjonenkan anvende kunnskap om dentale materialer ved fremstilling av tanntekniske konstruksjoner, basert på forsknings- og kunnskapsbasert praksis ved ulike kliniske pasientforholdkan vurdere materialvalg, design og fremstillingsmetoder for praktisk utførelse i relasjon til forskningsbasert kunnskapkan vurdere risiko for uønskede hendelser relatert til dentale materialer, fremstillingsutstyr og -prosesser under produksjon av tanntekniske konstruksjoner, og kjenner til metoder for å følge opp dette systematiskkan beherske grunnleggende tanntekniske prosedyrer og laboratorieutstyr på en forsvarlig måte som ivaretar sikkerhet og produksjonspresisjonkan beherske digital arbeidsgang ved fremstilling av tanntekniske konstruksjoner.
+Kandidaten
+
+1. kan anvende presis fagterminologi innen profesjonen
+2. kan anvende kunnskap om dentale materialer ved fremstilling av tanntekniske konstruksjoner, basert på forsknings- og kunnskapsbasert praksis ved ulike kliniske pasientforhold
+3. kan vurdere materialvalg, design og fremstillingsmetoder for praktisk utførelse i relasjon til forskningsbasert kunnskap
+4. kan vurdere risiko for uønskede hendelser relatert til dentale materialer, fremstillingsutstyr og -prosesser under produksjon av tanntekniske konstruksjoner, og kjenner til metoder for å følge opp dette systematisk
+5. kan beherske grunnleggende tanntekniske prosedyrer og laboratorieutstyr på en forsvarlig måte som ivaretar sikkerhet og produksjonspresisjon
+6. kan beherske digital arbeidsgang ved fremstilling av tanntekniske konstruksjoner.
 
 ### § 9. Oral protetikk – Generell kompetanse
 
-Kandidatenhar innsikt i digital teknologi, og kompetanse til å bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivåhar innsikt i konsekvenser ved feil behandling av dentale materialer og hvordan pasienten kan bli berørtkan planlegge og gjennomføre tanntekniske arbeidsoppgaver og prosjekter som strekker seg over tid, alene og som deltaker i en gruppe, og i tråd med etiske krav og retningslinjer.
+Kandidaten
+
+1. har innsikt i digital teknologi, og kompetanse til å bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå
+2. har innsikt i konsekvenser ved feil behandling av dentale materialer og hvordan pasienten kan bli berørt
+3. kan planlegge og gjennomføre tanntekniske arbeidsoppgaver og prosjekter som strekker seg over tid, alene og som deltaker i en gruppe, og i tråd med etiske krav og retningslinjer.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet profesjonalitet
 
 ### § 10. Profesjonalitet – Kunnskap
 
-Kandidatenhar kunnskap om kvalitetssikring, helse, miljø og sikkerhet (HMS) og internkontroll tilknyttet tannteknisk virksomhethar kunnskap om infeksjonskontroll, inkludert smittevern, sterilisering, desinfeksjon og dekontaminasjonkjenner til gjeldende lover og regelverk for egen yrkesgruppe, og forsvarlig oppgave- og ansvarsfordelingen innen tannhelseteametkjenner til forskning innen fagområdet, forskningsmetoder og prinsipper for vurdering av vitenskapelig kvalitetkjenner til inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnetkjenner til og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse, herunder kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltetkjenner til tverrfaglig, tverrprofesjonell, tverrsektoriell samhandling på tvers av virksomheter og nivåer, og hvordan slik samhandling kan initiereskjenner til kommunikasjonsstrategier og betydningen av god dialog og samarbeid mellom tannhelsepersonell til beste for den enkelte pasient, og ivaretakelse av personvern og digital sikkerhetkjenner til mangfoldet av eldres behov for tannerstatninger, samt deres rett til medvirkning i behandlingenkjenner til fagområdets historie, tradisjoner, egenart og plass i samfunnethar kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
+Kandidaten
+
+1. har kunnskap om kvalitetssikring, helse, miljø og sikkerhet (HMS) og internkontroll tilknyttet tannteknisk virksomhet
+2. har kunnskap om infeksjonskontroll, inkludert smittevern, sterilisering, desinfeksjon og dekontaminasjon
+3. kjenner til gjeldende lover og regelverk for egen yrkesgruppe, og forsvarlig oppgave- og ansvarsfordelingen innen tannhelseteamet
+4. kjenner til forskning innen fagområdet, forskningsmetoder og prinsipper for vurdering av vitenskapelig kvalitet
+5. kjenner til inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+6. kjenner til og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse, herunder kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet
+7. kjenner til tverrfaglig, tverrprofesjonell, tverrsektoriell samhandling på tvers av virksomheter og nivåer, og hvordan slik samhandling kan initieres
+8. kjenner til kommunikasjonsstrategier og betydningen av god dialog og samarbeid mellom tannhelsepersonell til beste for den enkelte pasient, og ivaretakelse av personvern og digital sikkerhet
+9. kjenner til mangfoldet av eldres behov for tannerstatninger, samt deres rett til medvirkning i behandlingen
+10. kjenner til fagområdets historie, tradisjoner, egenart og plass i samfunnet
+11. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg.
 
 ### § 11. Profesjonalitet – Ferdigheter
 
-Kandidatenkan vurdere og analysere egen erfaring og profesjonsutøvelse relatert til kunnskapsbasert praksiskan anvende, vurdere og henvise til vitenskapelig kunnskap for å belyse praktiske og teoretiske problemstillingerkan anvende kunnskap om relasjons-, kommunikasjons- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende. Videre kan kandidaten veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesserkan reflektere over, og ta nødvendige miljøhensyn ved materialvalg og under produksjon av tannerstatningerkan oppdatere seg på ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
+Kandidaten
+
+1. kan vurdere og analysere egen erfaring og profesjonsutøvelse relatert til kunnskapsbasert praksis
+2. kan anvende, vurdere og henvise til vitenskapelig kunnskap for å belyse praktiske og teoretiske problemstillinger
+3. kan anvende kunnskap om relasjons-, kommunikasjons- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørende. Videre kan kandidaten veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser
+4. kan reflektere over, og ta nødvendige miljøhensyn ved materialvalg og under produksjon av tannerstatninger
+5. kan oppdatere seg på ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis.
 
 ### § 12. Profesjonalitet – Generell kompetanse
 
-Kandidatenkan formidle sentralt fagstoff og dokumentere sin faglige kunnskapkan formidle og utveksle faglige synspunkter og erfaringer, og gjennom dette bidra til utvikling av god praksiskjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser i tannteknisk produksjonkjenner til og kan identifisere, reflektere over og håndtere etiske problemstillinger og verdikonflikter tilknyttet tannhelsefaglig tjenesteutøvelse.
+Kandidaten
+
+1. kan formidle sentralt fagstoff og dokumentere sin faglige kunnskap
+2. kan formidle og utveksle faglige synspunkter og erfaringer, og gjennom dette bidra til utvikling av god praksis
+3. kjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser i tannteknisk produksjon
+4. kjenner til og kan identifisere, reflektere over og håndtere etiske problemstillinger og verdikonflikter tilknyttet tannhelsefaglig tjenesteutøvelse.
 
 ## Kapittel 5. Studiets oppbygning og praksisstudier
 

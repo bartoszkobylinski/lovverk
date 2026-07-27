@@ -22,4 +22,7 @@ eu_basis: []
 
 # Delegering av myndighet til Skipskontrollen etter lov av 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. kapittel 11.
 
-Sjøfartsdirektoratet har 26. juni 1980 vedtatt å videredelegere til Skipskontrollen:å stå for den praktiske gjennomføringen av tilsynet med de bestemmelser som måtte bli gitt med hjemmel i [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. kapittel 11, og å treffe enkeltvedtak som ledd i gjennomføringen av tilsynet,å ilegge tvangsmulkt etter [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 124](lov/1903-06-09-7/§124).
+Sjøfartsdirektoratet har 26. juni 1980 vedtatt å videredelegere til Skipskontrollen:
+
+1. å stå for den praktiske gjennomføringen av tilsynet med de bestemmelser som måtte bli gitt med hjemmel i [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. kapittel 11, og å treffe enkeltvedtak som ledd i gjennomføringen av tilsynet,
+2. å ilegge tvangsmulkt etter [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 124](lov/1903-06-09-7/§124).

@@ -66,7 +66,13 @@ Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjo
 
 ### § 2-5. Signering av melding
 
-(1) Melding til Foretaksregisteret etter [foretaksregisterloven § 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2) skal signeres av en fysisk eller juridisk person som har en av følgende roller i foretaket:meldepliktig, jf. [foretaksregisterloven § 4-3](lov/2025-06-20-106/§4-3)signaturberettigetdaglig lederforretningsfører som er registrert i Enhetsregisteret for borettslag og eierseksjonssameierepresentant for norskregistrert utenlandsk foretak som er registrert i Enhetsregisteret, jf. [merverdiavgiftsloven § 2-1 sjette ledd](lov/2009-06-19-58/§2-1/ledd/6).
+(1) Melding til Foretaksregisteret etter [foretaksregisterloven § 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2) skal signeres av en fysisk eller juridisk person som har en av følgende roller i foretaket:
+
+1. meldepliktig, jf. [foretaksregisterloven § 4-3](lov/2025-06-20-106/§4-3)
+2. signaturberettiget
+3. daglig leder
+4. forretningsfører som er registrert i Enhetsregisteret for borettslag og eierseksjonssameie
+5. representant for norskregistrert utenlandsk foretak som er registrert i Enhetsregisteret, jf. [merverdiavgiftsloven § 2-1 sjette ledd](lov/2009-06-19-58/§2-1/ledd/6).
 
 (2) Melding som nevnt i første ledd kan også signeres av en fysisk person som styreleder eller daglig leder i foretaket har delegert retten til å signere meldingen til. For enkeltpersonforetak kan retten til å signere meldingen også delegeres av innehaver. Tildeling av rett til å signere meldingen som nevnt i første og andre punktum skal skje ved bruk av løsning som er godkjent av registerføreren.
 
@@ -74,7 +80,11 @@ Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjo
 
 ### § 2-6. Særlige regler om meldeplikt og om signering av melding i foreninger og andre juridiske personer uten styre
 
-(1) Den som har plikt til å sende melding etter [foretaksregisterloven § 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2) for forening som nevnt i [foretaksregisterloven § 2-1 første ledd bokstav p](lov/2025-06-20-106/§2-1/ledd/1/bokstav/p), men som ikke har styre, er:daglig leder for foreningenden som er registrert i Enhetsregisteret som forretningsfører for foreningen, dersom foreningen verken har styre eller daglig lederden som er registrert i Enhetsregisteret som kontaktperson for foreningen, dersom foreningen verken har styre, daglig leder eller forretningsfører som nevnt i bokstav b.
+(1) Den som har plikt til å sende melding etter [foretaksregisterloven § 4-1](lov/2025-06-20-106/§4-1) og [§ 4-2](lov/2025-06-20-106/§4-2) for forening som nevnt i [foretaksregisterloven § 2-1 første ledd bokstav p](lov/2025-06-20-106/§2-1/ledd/1/bokstav/p), men som ikke har styre, er:
+
+1. daglig leder for foreningen
+2. den som er registrert i Enhetsregisteret som forretningsfører for foreningen, dersom foreningen verken har styre eller daglig leder
+3. den som er registrert i Enhetsregisteret som kontaktperson for foreningen, dersom foreningen verken har styre, daglig leder eller forretningsfører som nevnt i bokstav b.
 
 (2) Første ledd gjelder tilsvarende for andre juridiske personer som nevnt i [foretaksregisterloven § 2-1 første ledd bokstav w](lov/2025-06-20-106/§2-1/ledd/1/bokstav/w), men som ikke har styre.
 
@@ -94,19 +104,46 @@ Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjo
 
 ### § 4-1. Innhenting og registrering av opplysninger fra registre som ikke føres av offentlig myndighet
 
-Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister.
+Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:
+
+1. Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister.
 
 ## Kapittel 5. Firmaattest
 
 ### § 5-1. Firmaattest
 
-(1) Firmaattesten skal minst inneholde følgende opplysninger dersom disse er registrert i Foretaksregisteret:firmaattestens utstedelsesdatoorganisasjonsformorganisasjonsnummerforetaksnavnforretningsadressenavn på foretakets styremedlemmer, varamedlemmer og daglig ledernavn på deltakerne i ansvarlig selskapnavn på komplementar i kommandittselskapnavn på innehaver av enkeltpersonforetakopplysninger om signatur og prokuraopplysning om foretakets revisorfor aksjeselskap, opplysning om at selskapets årsregnskap ikke skal revidereshva slags næringsvirksomhet som enkeltpersonforetak driveropplysning om at foretaket er under konkursbehandling, rekonstruksjonsforhandling eller oppløsningnavn på bostyrer, dersom det er oppnevnt bostyrer for foretaket etter [konkursloven § 77](lov/1984-06-08-58/§77).
+(1) Firmaattesten skal minst inneholde følgende opplysninger dersom disse er registrert i Foretaksregisteret:
+
+1. firmaattestens utstedelsesdato
+2. organisasjonsform
+3. organisasjonsnummer
+4. foretaksnavn
+5. forretningsadresse
+6. navn på foretakets styremedlemmer, varamedlemmer og daglig leder
+7. navn på deltakerne i ansvarlig selskap
+8. navn på komplementar i kommandittselskap
+9. navn på innehaver av enkeltpersonforetak
+10. opplysninger om signatur og prokura
+11. opplysning om foretakets revisor
+12. for aksjeselskap, opplysning om at selskapets årsregnskap ikke skal revideres
+13. hva slags næringsvirksomhet som enkeltpersonforetak driver
+14. opplysning om at foretaket er under konkursbehandling, rekonstruksjonsforhandling eller oppløsning
+15. navn på bostyrer, dersom det er oppnevnt bostyrer for foretaket etter [konkursloven § 77](lov/1984-06-08-58/§77).
 
 (2) For utenlandsk foretak med forretnings- eller driftssted her i landet, utstedes firmaattesten for den norske virksomheten. Opplysninger om det utenlandske foretakets (hovedforetaket) foretaksnavn, adresse og organisasjonsnummer skal også fremgå.
 
-(3) Firmaattesten for utenlandske foretak, jf. [foretaksregisterloven § 3-8](lov/2025-06-20-106/§3-8), skal i tillegg inneholde følgende opplysninger:hvis foretaket er registrert i et offentlig foretaksregister i sin hjemstat, dette registerets navn og adresse samt foretakets registreringsnummerhvis foretaket ikke er registrert i et offentlig foretaksregister i sin hjemstat, hvilken stats lovgivning foretaket er underlagt
+(3) Firmaattesten for utenlandske foretak, jf. [foretaksregisterloven § 3-8](lov/2025-06-20-106/§3-8), skal i tillegg inneholde følgende opplysninger:
 
-(4) Firmaattesten for europeiske økonomiske foretaksgrupper skal i tillegg inneholde følgende opplysninger:navn på deltakernehva slags næringsvirksomhet som foretaksgruppen driverregistreringsdato og eventuelt gruppens varighetforslag om å flytte foretakets adresse til annen medlemsstatnavn på den eller de personer som skal forestå gruppens avvikling.
+1. hvis foretaket er registrert i et offentlig foretaksregister i sin hjemstat, dette registerets navn og adresse samt foretakets registreringsnummer
+2. hvis foretaket ikke er registrert i et offentlig foretaksregister i sin hjemstat, hvilken stats lovgivning foretaket er underlagt
+
+(4) Firmaattesten for europeiske økonomiske foretaksgrupper skal i tillegg inneholde følgende opplysninger:
+
+1. navn på deltakerne
+2. hva slags næringsvirksomhet som foretaksgruppen driver
+3. registreringsdato og eventuelt gruppens varighet
+4. forslag om å flytte foretakets adresse til annen medlemsstat
+5. navn på den eller de personer som skal forestå gruppens avvikling.
 
 ## Kapittel 6. Utlevering av opplysninger
 
@@ -118,7 +155,11 @@ Kopier som utstedes fra Foretaksregisteret skal bekreftes å være «rett kopi»
 
 ### § 7-1. Ileggelse av tvangsmulkt
 
-(1) Tvangsmulkt etter [foretaksregisterloven § 11-2](lov/2025-06-20-106/§11-2) kan ilegges foretaket i inntil 26 uker etter følgende satser:kr 500 per uke de første åtte ukerkr 1 000 per uke de neste ti ukerkr 1 500 per uke de siste åtte uker.
+(1) Tvangsmulkt etter [foretaksregisterloven § 11-2](lov/2025-06-20-106/§11-2) kan ilegges foretaket i inntil 26 uker etter følgende satser:
+
+1. kr 500 per uke de første åtte uker
+2. kr 1 000 per uke de neste ti uker
+3. kr 1 500 per uke de siste åtte uker.
 
 (2) Dersom grunnlaget for tvangsmulkt ikke er bortfalt innen utløpet av perioden som nevnt i første ledd, kan registerføreren ilegge meldepliktige etter [foretaksregisterloven § 4-3](lov/2025-06-20-106/§4-3) tvangsmulkt etter bestemmelsen i første ledd. De meldepliktige er solidarisk ansvarlige for tvangsmulkten.
 
@@ -136,7 +177,10 @@ Vedtak om tvangsmulkt kan påklages etter reglene i [forvaltningsloven](lov/1967
 
 ### § 7-4. Ettergivelse av ilagt tvangsmulkt
 
-(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersomdet blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor foretakets kontroll.særlige rimelighetsgrunner tilsier det.
+(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersom
+
+1. det blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor foretakets kontroll.
+2. særlige rimelighetsgrunner tilsier det.
 
 (2) Søknad om ettergivelse må fremsettes for Foretaksregisteret innen ett år etter at vedtaket om ileggelse av tvangsmulkt ble fattet.
 

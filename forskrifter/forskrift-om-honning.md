@@ -15,7 +15,7 @@ xml_hash: "f1d44623f2ddf21f71a5353564ab10885070a1c3d902a6ba632b3e1526e5b09a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,21 @@ Betegnelsene i vedlegg 1 nr. II og III er forbeholdt produktene som er definert 
 
 Produktene som omfattes av denne forskriften skal ved omsetning være merket etter gjeldende forskrifter om merking mv. av næringsmidler, identifikasjonsmerking av næringsmiddelpartier, deklarasjon av næringsinnhold og om advarselsmerking av honning, med de tillegg og unntak som følger av denne forskriften.
 
-Disse tilleggene og unntakene er:Det eller de opprinnelsesland, hvor honningen er høstet, skal angis i merkingen. Hvis honningen har opprinnelse i mer enn ett EU-land eller i mer enn ett tredjeland, kan denne merkingen erstattes med:«blanding av honning fra EU»«blanding av honning fra land utenfor EU»«blanding av honning fra land i og utenfor EU».Med unntak av filtrert honning og bakehonning, kan varebetegnelsene suppleres med:en angivelse av blomster- eller planteopprinnelse, dersom produktet hovedsakelig har den angitte opprinnelse og har dennes smaksmessige, fysisk-kjemiske og mikroskopiske egenskaper,et navn på et distrikt eller område eller topografisk navn, hvis produktet utelukkende stammer fra det angitte sted,spesifikke kvalitetskriterier.Når bakehonning anvendes som ingrediens i et sammensatt næringsmiddel, kan betegnelsen «honning» anvendes i varebetegnelsen for det sammensatte næringsmiddel i stedet for betegnelsen «bakehonning». I ingredienslisten skal likevel betegnelsen «bakehonning» (vedlegg 1 nr. III) benyttes.Ordene «kun til matlaging» skal stå i umiddelbar tilknytning til varebetegnelsen på bakehonning.For filtrert honning og bakehonning (vedlegg 1 nr. II [pkt](forskrift/2003-07-08-931/kap2). 2 bokstav f og nr. III) skal den fulle varebetegnelsen klart angis på bulkkontainere, pakninger og handelsdokumenter.
+Disse tilleggene og unntakene er:
+
+1. Det eller de opprinnelsesland, hvor honningen er høstet, skal angis i merkingen. Hvis honningen har opprinnelse i mer enn ett EU-land eller i mer enn ett tredjeland, kan denne merkingen erstattes med:
+
+   - «blanding av honning fra EU»
+   - «blanding av honning fra land utenfor EU»
+   - «blanding av honning fra land i og utenfor EU».
+2. Med unntak av filtrert honning og bakehonning, kan varebetegnelsene suppleres med:
+
+   1. en angivelse av blomster- eller planteopprinnelse, dersom produktet hovedsakelig har den angitte opprinnelse og har dennes smaksmessige, fysisk-kjemiske og mikroskopiske egenskaper,
+   2. et navn på et distrikt eller område eller topografisk navn, hvis produktet utelukkende stammer fra det angitte sted,
+   3. spesifikke kvalitetskriterier.
+3. Når bakehonning anvendes som ingrediens i et sammensatt næringsmiddel, kan betegnelsen «honning» anvendes i varebetegnelsen for det sammensatte næringsmiddel i stedet for betegnelsen «bakehonning». I ingredienslisten skal likevel betegnelsen «bakehonning» (vedlegg 1 nr. III) benyttes.
+4. Ordene «kun til matlaging» skal stå i umiddelbar tilknytning til varebetegnelsen på bakehonning.
+5. For filtrert honning og bakehonning (vedlegg 1 nr. II [pkt](forskrift/2003-07-08-931/kap2). 2 bokstav f og nr. III) skal den fulle varebetegnelsen klart angis på bulkkontainere, pakninger og handelsdokumenter.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 146](forskrift/2004-01-09-146), [8 mai 2017 nr. 553](forskrift/2017-05-08-553).
 
@@ -82,9 +96,44 @@ Denne forskriften trer i kraft 1. august 2003. Samtidig oppheves [forskrift av 2
 
 I. Honning er det produktet, som Apis mellifera-bier framstiller av plantenektar eller honningdogg fra levende plantedeler. Denne suges opp av biene, som omdanner den ved å blande den med sine egne spesielle stoffer. Biene deponerer, lagrer og lar honningen modne i bikubens honningtavler.
 
-II. Honning kan deles inn i følgende hovedsorter:Honningsorter etter opprinnelseBlomsterhonningHonning, som hovedsakelig stammer fra plantenektar.BladhonningHonning, som hovedsakelig stammer fra ekskresjon fra plantesugende insekter (Hemiptera) på levende plantedeler eller fra utsvetting fra levende plantedeler.Honningsorter etter utvinningsmåte og/eller presentasjonsmåteTavlehonningHonning, som biene har lagret i cellene i nybygde bivokstavler uten bilarver, eller i tynne byggevokstavler av ren bivoks. Honningen selges i forseglede tavler, hele eller delte.Honning med stykker av tavlehonningHonning, som inneholder ett eller flere stykker tavlehonning.Avdryppet honningHonning, som er utvunnet ved avdrypning av skrellede tavler. Tavlene skal ikke inneholde bilarver.Slynget honningHonning, som er utvunnet ved slyngning av skrellede tavler. Tavlene skal ikke inneholde bilarver.Presset honningHonning, som er utvunnet ved pressing av tavler, uten varme eller ved maksimum 45 °C. Tavlene skal ikke inneholde bilarver.Filtrert honningHonning hvor uvedkommende organiske eller uorganiske stoffer er fjernet på en slik måte at en betydelig mengde pollen fjernes samtidig.
+II. Honning kan deles inn i følgende hovedsorter:
 
-III. BakehonningHonning, som er egnet til industriell bruk eller som ingrediens ved framstilling av andre næringsmidler. Bakehonningen kan:ha en fremmed smak eller lukt, ellerha begynt å gjære eller vært gjæret, ellerha vært oppvarmet for mye.
+1. Honningsorter etter opprinnelse
+
+   1. Blomsterhonning
+
+      Honning, som hovedsakelig stammer fra plantenektar.
+   2. Bladhonning
+
+      Honning, som hovedsakelig stammer fra ekskresjon fra plantesugende insekter (Hemiptera) på levende plantedeler eller fra utsvetting fra levende plantedeler.
+2. Honningsorter etter utvinningsmåte og/eller presentasjonsmåte
+
+   1. Tavlehonning
+
+      Honning, som biene har lagret i cellene i nybygde bivokstavler uten bilarver, eller i tynne byggevokstavler av ren bivoks. Honningen selges i forseglede tavler, hele eller delte.
+   2. Honning med stykker av tavlehonning
+
+      Honning, som inneholder ett eller flere stykker tavlehonning.
+   3. Avdryppet honning
+
+      Honning, som er utvunnet ved avdrypning av skrellede tavler. Tavlene skal ikke inneholde bilarver.
+   4. Slynget honning
+
+      Honning, som er utvunnet ved slyngning av skrellede tavler. Tavlene skal ikke inneholde bilarver.
+   5. Presset honning
+
+      Honning, som er utvunnet ved pressing av tavler, uten varme eller ved maksimum 45 °C. Tavlene skal ikke inneholde bilarver.
+   6. Filtrert honning
+
+      Honning hvor uvedkommende organiske eller uorganiske stoffer er fjernet på en slik måte at en betydelig mengde pollen fjernes samtidig.
+
+III. Bakehonning
+
+Honning, som er egnet til industriell bruk eller som ingrediens ved framstilling av andre næringsmidler. Bakehonningen kan:
+
+- ha en fremmed smak eller lukt, eller
+- ha begynt å gjære eller vært gjæret, eller
+- ha vært oppvarmet for mye.
 
 ## Vedlegg 2. Kriterier og spesifikasjoner
 

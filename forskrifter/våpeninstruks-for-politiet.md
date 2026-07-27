@@ -30,7 +30,11 @@ eu_basis: []
 
 (2) Instruksen gjelder ikke for lagring, bevæpning og bruk av slagvåpen, OC-pepperspray og elektrosjokkvåpen, som reguleres i egen instruks fastsatt av Politidirektoratet.
 
-(3) Instruksen gjelder ikke for utlevering og bruk av politiets våpentil avliving av dyr,for å avverge eller begrense farer ved ulykker, branner eller naturkatastrofer,til godkjent trening og opplæring.
+(3) Instruksen gjelder ikke for utlevering og bruk av politiets våpen
+
+1. til avliving av dyr,
+2. for å avverge eller begrense farer ved ulykker, branner eller naturkatastrofer,
+3. til godkjent trening og opplæring.
 
 > Endret ved [vedtak 27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [11 okt 2021 nr. 2968](forskrift/2021-10-11-2968) (i kraft 1 jan 2022), [24 april 2024 nr. 670](forskrift/2024-04-24-670).
 
@@ -40,11 +44,17 @@ eu_basis: []
 
 (2) For Forsvarets personell som er gitt og utøver begrenset politimyndighet i medhold av [politiloven § 20](lov/1995-08-04-53/§20) gjelder instruksen så langt den passer.
 
-(3) For utenlandsk politi- og sikkerhetspersonell gjelder følgende unntak fra første ledd:Under livvakttjeneste gjelder særlig regulering fastsatt av sjef Politiets sikkerhetstjeneste i det enkelte tilfelle.Ved observasjon eller ved forfølgelse over landegrensen etter Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, gjelder Konvensjonens art. 40 nr. 3. pkt. d eller art. 41 nr. 5. pkt. e.
+(3) For utenlandsk politi- og sikkerhetspersonell gjelder følgende unntak fra første ledd:
+
+1. Under livvakttjeneste gjelder særlig regulering fastsatt av sjef Politiets sikkerhetstjeneste i det enkelte tilfelle.
+2. Ved observasjon eller ved forfølgelse over landegrensen etter Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, gjelder Konvensjonens art. 40 nr. 3. pkt. d eller art. 41 nr. 5. pkt. e.
 
 ### § 1-3. Instruksens geografiske virkeområde
 
-(1) Instruksen gjelderpå norsk land- og sjøterritorium, herunder Svalbard, Jan Mayen og områder underlagt norsk statshøyhet som biland, ogfor personell som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) første ledd i polititjeneste utenfor territorialgrensen. For personell som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) annet ledd i polititjeneste utenfor territorialgrensen gjelder instruksen så langt den passer.
+(1) Instruksen gjelder
+
+1. på norsk land- og sjøterritorium, herunder Svalbard, Jan Mayen og områder underlagt norsk statshøyhet som biland, og
+2. for personell som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) første ledd i polititjeneste utenfor territorialgrensen. For personell som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) annet ledd i polititjeneste utenfor territorialgrensen gjelder instruksen så langt den passer.
 
 (2) Instruksen gjelder også for norske polititjenestepersoner når tjenesteoppdrag fortsetter på annet lands territorium i medhold av Schengenkonvensjonen art. 40 nr. 3 eller 41 nr. 5, men slik at bruk av skytevåpen er begrenset i samsvar med konvensjonens art. 40 nr. 3. pkt. d eller art. 41 nr. 5. pkt. e.
 
@@ -52,11 +62,27 @@ eu_basis: []
 
 I denne instruksen forstås med:
 
-(1) *Politisjef:*Politidirektøren og assisterende politidirektør.Politimester, visepolitimester, og annen fast stedfortreder.Sysselmesteren på Svalbard og assisterende sysselmester.Sjef og assisterende sjef for:Politiets sikkerhetstjeneste (PST)Den nasjonale enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos)Politihøgskolen (PHS)Politiets utlendingsenhet (PU)Utrykningspolitiet (UP).
+(1) *Politisjef:*
+
+1. Politidirektøren og assisterende politidirektør.
+2. Politimester, visepolitimester, og annen fast stedfortreder.
+3. Sysselmesteren på Svalbard og assisterende sysselmester.
+4. Sjef og assisterende sjef for:
+
+   1. Politiets sikkerhetstjeneste (PST)
+   2. Den nasjonale enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos)
+   3. Politihøgskolen (PHS)
+   4. Politiets utlendingsenhet (PU)
+   5. Utrykningspolitiet (UP).
 
 (2) *Operasjonsleder:* Den som er tilsatt i funksjon som operasjonsleder eller midlertidig fungerer som operasjonsleder.
 
-(3) *Innsatsleder:*Tjenesteperson som er tilsatt i funksjon som innsatsleder eller midlertidig fungerer som innsatsleder.Tjenesteperson utpekt som delleder av innsatsleder.Tjenesteperson utpekt av operasjonsleder for det enkelte tjenesteoppdrag.Tjenesteperson som leder tjenesteoppdraget etter Ordreinstruks for politiet § 9, jf. § 4 nr. 2.
+(3) *Innsatsleder:*
+
+1. Tjenesteperson som er tilsatt i funksjon som innsatsleder eller midlertidig fungerer som innsatsleder.
+2. Tjenesteperson utpekt som delleder av innsatsleder.
+3. Tjenesteperson utpekt av operasjonsleder for det enkelte tjenesteoppdrag.
+4. Tjenesteperson som leder tjenesteoppdraget etter Ordreinstruks for politiet § 9, jf. § 4 nr. 2.
 
 (4) *Tjenesteperson:* Personell som i medhold av [politiloven § 20](lov/1995-08-04-53/§20) har eller er gitt politimyndighet og som har bestått opplæring for innsatspersonell for bruk av våpen.
 
@@ -72,9 +98,15 @@ I denne instruksen forstås med:
 
 ### § 1-5. Myndighet etter denne instruksen
 
-(1) Politidirektoratet:Gir utfyllende bestemmelser til denne instruksen, herunder bestemmelser om opplæring og godkjenning av personell. Bestemmelser fastsatt av Politidirektoratet i medhold av denne instruksen gjelder også for PST.Godkjenner våpen, ammunisjon og utstyr til bruk i politiet. Godkjenning skal være innenfor rammen av denne instruksen, jf. [§ 1-4](forskrift/2015-07-02-1088/§1-4). Politidirektoratet kan for det enkelte tilfelle også godkjenne bruk av andre typer våpen enn de som er nevnt i [§ 1-4](forskrift/2015-07-02-1088/§1-4).
+(1) Politidirektoratet:
 
-(2) PST:Gir utfyllende bestemmelser i tilknytning til [§ 1-5](forskrift/2015-07-02-1088/§1-5) (2) b) første punktum og gir instruks som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) (3) bokstav a og [§ 3-3](forskrift/2015-07-02-1088/§3-3) (2) bokstav b. Disse skal ved motstrid gå foran bestemmelser gitt av Politidirektoratet. PST skal informere Politidirektoratet om regelverk som vedtas etter denne bestemmelse.Godkjenner våpen, ammunisjon og utstyr som bare skal benyttes av PST. Godkjenning skal være innenfor rammen av denne instruksen, jf. [§ 1-4](forskrift/2015-07-02-1088/§1-4). PST skal informere Politidirektoratet om våpen-, ammunisjon- og utstyrstyper som godkjennes etter denne bestemmelse.
+1. Gir utfyllende bestemmelser til denne instruksen, herunder bestemmelser om opplæring og godkjenning av personell. Bestemmelser fastsatt av Politidirektoratet i medhold av denne instruksen gjelder også for PST.
+2. Godkjenner våpen, ammunisjon og utstyr til bruk i politiet. Godkjenning skal være innenfor rammen av denne instruksen, jf. [§ 1-4](forskrift/2015-07-02-1088/§1-4). Politidirektoratet kan for det enkelte tilfelle også godkjenne bruk av andre typer våpen enn de som er nevnt i [§ 1-4](forskrift/2015-07-02-1088/§1-4).
+
+(2) PST:
+
+1. Gir utfyllende bestemmelser i tilknytning til [§ 1-5](forskrift/2015-07-02-1088/§1-5) (2) b) første punktum og gir instruks som nevnt i [§ 1-2](forskrift/2015-07-02-1088/§1-2) (3) bokstav a og [§ 3-3](forskrift/2015-07-02-1088/§3-3) (2) bokstav b. Disse skal ved motstrid gå foran bestemmelser gitt av Politidirektoratet. PST skal informere Politidirektoratet om regelverk som vedtas etter denne bestemmelse.
+2. Godkjenner våpen, ammunisjon og utstyr som bare skal benyttes av PST. Godkjenning skal være innenfor rammen av denne instruksen, jf. [§ 1-4](forskrift/2015-07-02-1088/§1-4). PST skal informere Politidirektoratet om våpen-, ammunisjon- og utstyrstyper som godkjennes etter denne bestemmelse.
 
 (3) Justis- og beredskapsdepartementet godkjenner ny ammunisjon med vesentlig andre egenskaper enn tidligere godkjent ammunisjon.
 
@@ -124,7 +156,10 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 ### § 3-2. Vilkår for bevæpning med skytevåpen
 
-(1) Bevæpning med skytevåpen kan skjenår omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan komme til å stå overfor en situasjon som er særlig farlig for dem eller andre, ellernår det basert på trusselvurderinger og tilgjengelig informasjon anses som nødvendig for å kunne gi personer, objekter eller virksomheter tilstrekkelig beskyttelse.
+(1) Bevæpning med skytevåpen kan skje
+
+1. når omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan komme til å stå overfor en situasjon som er særlig farlig for dem eller andre, eller
+2. når det basert på trusselvurderinger og tilgjengelig informasjon anses som nødvendig for å kunne gi personer, objekter eller virksomheter tilstrekkelig beskyttelse.
 
 (2) Politisjef kan gi forhåndsordre om at bevæpning skal skje i spesielle typetilfeller, herunder livvakttjeneste, hvor det må antas at kriteriene i første ledd bokstav a) og b) regelmessig vil være oppfylt.
 
@@ -138,25 +173,43 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 ### § 3-3. Beslutning om bevæpning med skytevåpen
 
-(1) Beslutning om bevæpning med skytevåpen treffes av:operasjonsleder med godkjenning til å treffe bevæpningsbeslutning, eller politisjef, i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav a).politisjef i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav b).den enkelte tjenesteperson i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav a) når situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig, er tid til, eller taktisk tilrådelig å innhente bevæpningsordre fra operasjonsleder. Beslutningen gjelder for tjenestepersonen selv og dennes underordnede.
+(1) Beslutning om bevæpning med skytevåpen treffes av:
 
-(2) Beslutning om bevæpning av tjenestepersoner i:Den Kongelige politieskorte (DKP) treffes av politimesteren i Oslo i samsvar med utarbeidet instruks.PST treffes av sjef PST i samsvar med utarbeidet instruks. Ved synlig operativ tjeneste skal operasjonsleder i distriktet hvor tjenesteoppdraget utføres, varsles.Kripos treffes av sjef Kripos. Operasjonsleder i distriktet hvor tjenesteoppdraget utføres skal varsles.UP og PU treffes som hovedregel av operasjonsleder eller politisjef i det distriktet tjenesteoppdraget utføres.
+1. operasjonsleder med godkjenning til å treffe bevæpningsbeslutning, eller politisjef, i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav a).
+2. politisjef i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav b).
+3. den enkelte tjenesteperson i tilfeller som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) første ledd bokstav a) når situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig, er tid til, eller taktisk tilrådelig å innhente bevæpningsordre fra operasjonsleder. Beslutningen gjelder for tjenestepersonen selv og dennes underordnede.
+
+(2) Beslutning om bevæpning av tjenestepersoner i:
+
+1. Den Kongelige politieskorte (DKP) treffes av politimesteren i Oslo i samsvar med utarbeidet instruks.
+2. PST treffes av sjef PST i samsvar med utarbeidet instruks. Ved synlig operativ tjeneste skal operasjonsleder i distriktet hvor tjenesteoppdraget utføres, varsles.
+3. Kripos treffes av sjef Kripos. Operasjonsleder i distriktet hvor tjenesteoppdraget utføres skal varsles.
+4. UP og PU treffes som hovedregel av operasjonsleder eller politisjef i det distriktet tjenesteoppdraget utføres.
 
 ### § 3-4. Beslutning om bevæpning med skytevåpen over distriktsgrenser
 
-(1) For væpnet politiinnsats som foregår i flere politidistrikter gjelder følgende:Når et distrikt har besluttet bevæpning for et oppdrag som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) (1) a), vil bevæpningsbeslutningen fortsatt være gyldig for egne tjenestepersoner selv om oppdraget fortsetter inn i andre politidistrikt. Operasjonsleder i berørte distrikter skal varsles.Ved planlagte/koordinerte oppdrag over flere distrikter som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) (1) b), er det den enkelte politisjef som har myndighet til å beslutte bevæpning innenfor eget distrikt.
+(1) For væpnet politiinnsats som foregår i flere politidistrikter gjelder følgende:
+
+1. Når et distrikt har besluttet bevæpning for et oppdrag som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) (1) a), vil bevæpningsbeslutningen fortsatt være gyldig for egne tjenestepersoner selv om oppdraget fortsetter inn i andre politidistrikt. Operasjonsleder i berørte distrikter skal varsles.
+2. Ved planlagte/koordinerte oppdrag over flere distrikter som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) (1) b), er det den enkelte politisjef som har myndighet til å beslutte bevæpning innenfor eget distrikt.
 
 (2) Når det anses hensiktsmessig kan politidirektøren beslutte bevæpning ved distriktsovergripende hendelser som nevnt i første ledd a og b.
 
 ### § 3-5. Gassvåpen
 
-(1) Bevæpning med gassvåpen kan skjenår det i ordenstjeneste kan bli nødvendig for å opprettholde offentlig ro, orden og sikkerhet, ellernår omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan komme til å stå overfor en situasjon som er særlig farlig for dem eller andre.
+(1) Bevæpning med gassvåpen kan skje
+
+1. når det i ordenstjeneste kan bli nødvendig for å opprettholde offentlig ro, orden og sikkerhet, eller
+2. når omstendighetene gir grunn til å tro at tjenestepersonene i tjenesteoppdraget kan komme til å stå overfor en situasjon som er særlig farlig for dem eller andre.
 
 (2) Beslutning om bevæpning med gassvåpen treffes av operasjonsleder, men kan etter en konkret vurdering i det enkelte tilfellet delegeres til innsatsleder.
 
 ### § 3-6. Sprengvåpen
 
-(1) Bevæpning med sprengvåpen kan skje når vilkårene for bevæpning etter [§ 3-5](forskrift/2015-07-02-1088/§3-5) første ledd bokstav b) er tilstede, og det etter omstendighetene er grunn til å tro at det kan bli nødvendigå bane seg adgang til låst eller sperret rom eller område ved bruk av sprengvåpen ellerå gjøre bruk av sprengvåpen for å forstyrre eller avlede person(er) som skal pågripes eller stanses.
+(1) Bevæpning med sprengvåpen kan skje når vilkårene for bevæpning etter [§ 3-5](forskrift/2015-07-02-1088/§3-5) første ledd bokstav b) er tilstede, og det etter omstendighetene er grunn til å tro at det kan bli nødvendig
+
+1. å bane seg adgang til låst eller sperret rom eller område ved bruk av sprengvåpen eller
+2. å gjøre bruk av sprengvåpen for å forstyrre eller avlede person(er) som skal pågripes eller stanses.
 
 (2) Bevæpning av Beredskapstroppen med granater, jf. [§ 4-5](forskrift/2015-07-02-1088/§4-5) (2), kan skje uten at de formål som nevnt i første ledd bokstav a og b er oppfylt.
 
@@ -168,7 +221,17 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 ### § 4-1. Ledelse og ansvar
 
-(1) De alminnelige bestemmelsene om ledelse og ansvar gjelder også ved bruk av våpen.Innsatsleder harså langt omstendighetene tillater, ansvar for at all tilgjengelig informasjon om situasjonen, gjerningspersonen(e), offer(e) og omgivelsene er innhentet og vurdert før det gjøres bruk av våpen, oget ansvar for at ordre om bruk av våpen er i samsvar med denne instruksen.Den enkelte tjenesteperson haralltid et ansvar for at våpenet behandles forsvarlig og at bruk av våpen er i samsvar med denne instruksen og ordre gitt av leder,ansvar for at vilkårene foreligger når våpen brukes i nødverge etter annet ledd, ognår vedkommende ikke er undergitt taktisk ledelse av andre, de plikter som er nevnt foran i bokstav a).
+(1) De alminnelige bestemmelsene om ledelse og ansvar gjelder også ved bruk av våpen.
+
+1. Innsatsleder har
+
+   - så langt omstendighetene tillater, ansvar for at all tilgjengelig informasjon om situasjonen, gjerningspersonen(e), offer(e) og omgivelsene er innhentet og vurdert før det gjøres bruk av våpen, og
+   - et ansvar for at ordre om bruk av våpen er i samsvar med denne instruksen.
+2. Den enkelte tjenesteperson har
+
+   - alltid et ansvar for at våpenet behandles forsvarlig og at bruk av våpen er i samsvar med denne instruksen og ordre gitt av leder,
+   - ansvar for at vilkårene foreligger når våpen brukes i nødverge etter annet ledd, og
+   - når vedkommende ikke er undergitt taktisk ledelse av andre, de plikter som er nevnt foran i bokstav a).
 
 (2) Tjenesteperson undergitt direkte taktisk ledelse kan uten ordre fra leder bare gjøre bruk av våpen i nødverge.
 
@@ -176,27 +239,49 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 ### § 4-2. Fremgangsmåte for bruk av våpen
 
-(1) Når omstendighetene tillater det skal polititjenesteperson før det gjøres bruk av våpentilkjennegi at vedkommende handler i egenskap av politi,oppfordre gjerningspersonen(e) til å etterkomme gitte pålegg, og tydelig advare om at våpen vil bli brukt for å gjennomføre pålegget, ogvurdere hvilke farer og ulemper våpenbruken kan utsette utenforstående for, og tydelig advare omgivelsene om at våpen vil bli brukt.
+(1) Når omstendighetene tillater det skal polititjenesteperson før det gjøres bruk av våpen
 
-(2) Ved bruk av skytevåpen skal politiet:hvis det er tid og taktisk forsvarlig, først avfyre varselskudd. Varselskuddet kan bare avfyres når vilkårene for bruk av skytevåpen etter [§ 4-3](forskrift/2015-07-02-1088/§4-3) er oppfylt, og skal rettes slik at personskade ikke oppstår,så langt det er mulig, ha slik kontroll med omgivelsene at tredjeperson ikke skades.
+1. tilkjennegi at vedkommende handler i egenskap av politi,
+2. oppfordre gjerningspersonen(e) til å etterkomme gitte pålegg, og tydelig advare om at våpen vil bli brukt for å gjennomføre pålegget, og
+3. vurdere hvilke farer og ulemper våpenbruken kan utsette utenforstående for, og tydelig advare omgivelsene om at våpen vil bli brukt.
+
+(2) Ved bruk av skytevåpen skal politiet:
+
+1. hvis det er tid og taktisk forsvarlig, først avfyre varselskudd. Varselskuddet kan bare avfyres når vilkårene for bruk av skytevåpen etter [§ 4-3](forskrift/2015-07-02-1088/§4-3) er oppfylt, og skal rettes slik at personskade ikke oppstår,
+2. så langt det er mulig, ha slik kontroll med omgivelsene at tredjeperson ikke skades.
 
 > Endret ved vedtak [24 feb 2025 nr. 365](forskrift/2025-02-24-365).
 
 ### § 4-3. Vilkår for bruk av skytevåpen
 
-(1) Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvortjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, ellerdet anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
+(1) Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvor
 
-(2) I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til åbeskadige eller gjøre en gjenstand ubrukelig,forstyrre eller avlede gjerningspersonen.
+1. tjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, eller
+2. det anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
+
+(2) I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til å
+
+1. beskadige eller gjøre en gjenstand ubrukelig,
+2. forstyrre eller avlede gjerningspersonen.
 
 ### § 4-4. Vilkår for bruk av gassvåpen
 
-(1) Gassvåpen kan bare brukesved alvorlige ordensforstyrrelser når det fremstår som nødvendig for å opprettholde eller gjenopprette ro, orden eller sikkerhet, elleri situasjoner som er særlig farlige for tjenestepersonen eller andre.
+(1) Gassvåpen kan bare brukes
 
-(2) Beslutning om bruk av gassvåpen i situasjoner som omhandlet i:første ledd bokstav a) treffes av operasjonsleder med mindre situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig eller tid til å innhente slik beslutning,første ledd bokstav b) treffes av innsatsleder.
+1. ved alvorlige ordensforstyrrelser når det fremstår som nødvendig for å opprettholde eller gjenopprette ro, orden eller sikkerhet, eller
+2. i situasjoner som er særlig farlige for tjenestepersonen eller andre.
+
+(2) Beslutning om bruk av gassvåpen i situasjoner som omhandlet i:
+
+1. første ledd bokstav a) treffes av operasjonsleder med mindre situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig eller tid til å innhente slik beslutning,
+2. første ledd bokstav b) treffes av innsatsleder.
 
 ### § 4-5. Vilkår for å bruke sprengvåpen
 
-(1) Sprengvåpen kan brukes når vilkårene for bruk av skytevåpen i [§ 4-3](forskrift/2015-07-02-1088/§4-3) er tilstede og med det formålå bane seg adgang til låst eller sperret rom eller område,for å forstyrre eller avlede person(er) som skal anholdes.
+(1) Sprengvåpen kan brukes når vilkårene for bruk av skytevåpen i [§ 4-3](forskrift/2015-07-02-1088/§4-3) er tilstede og med det formål
+
+1. å bane seg adgang til låst eller sperret rom eller område,
+2. for å forstyrre eller avlede person(er) som skal anholdes.
 
 (2) Beredskapstroppen kan benytte granater uten at de formål som nevnt i første ledd bokstav a og b er oppfylt.
 
@@ -208,7 +293,11 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 ### § 5-1. Administrative rutiner
 
-I samsvar med retningslinjer gitt av Politidirektoratet skal politisjef sørge for at det etableres rutiner som sikrer oversikt overbeholdning og lagring av enhetens våpen og ammunisjon,vedlikehold og funksjonsdyktigheten til enhetens våpen og ammunisjon, ogomfang, nivå og gyldigheten av personellets våpengodkjenning.
+I samsvar med retningslinjer gitt av Politidirektoratet skal politisjef sørge for at det etableres rutiner som sikrer oversikt over
+
+1. beholdning og lagring av enhetens våpen og ammunisjon,
+2. vedlikehold og funksjonsdyktigheten til enhetens våpen og ammunisjon, og
+3. omfang, nivå og gyldigheten av personellets våpengodkjenning.
 
 ### § 5-2. Oversikt over bevæpning
 
@@ -218,7 +307,11 @@ I samsvar med retningslinjer gitt av Politidirektoratet skal politisjef sørge f
 
 ### § 5-3. Oversikt over bruk
 
-(1) Politisjef skal i hvert enkelt tilfelle rapportere til Politidirektoratet nårdet verbalt eller i handling er truet med bruk av skytevåpen,det med skytevåpen er avfyrt skudd, herunder varselskudd og vådeskudd, ellergassvåpen og sprengvåpen er avfyrt.
+(1) Politisjef skal i hvert enkelt tilfelle rapportere til Politidirektoratet når
+
+1. det verbalt eller i handling er truet med bruk av skytevåpen,
+2. det med skytevåpen er avfyrt skudd, herunder varselskudd og vådeskudd, eller
+3. gassvåpen og sprengvåpen er avfyrt.
 
 (2) Politidirektoratet gir nærmere retningslinjer om rapportens innhold, og om hvilke undersøkelser som skal iverksettes.
 

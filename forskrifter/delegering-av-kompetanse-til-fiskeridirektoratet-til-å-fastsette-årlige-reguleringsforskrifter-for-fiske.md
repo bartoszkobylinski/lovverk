@@ -26,7 +26,10 @@ Vi viser til Fiskeridepartementets brev 16. oktober 2000 nr. 1670 om delegering 
 
 Det er departementets oppfatning at delegeringen har fungert hensiktsmessig. Departementet ønsker derfor å forenkle prosessen med fastsettelse av årlige reguleringsforskrifter ytterligere.
 
-Fiskeri- og kystdepartementets kompetanse etter [havressursloven § 11](lov/2008-06-06-37/§11), [§ 12](lov/2008-06-06-37/§12), [§ 13](lov/2008-06-06-37/§13), [§ 15](lov/2008-06-06-37/§15), [§ 16](lov/2008-06-06-37/§16), [§ 26](lov/2008-06-06-37/§26), [§ 27](lov/2008-06-06-37/§27), [§ 36](lov/2008-06-06-37/§36), [§ 37](lov/2008-06-06-37/§37) og [§ 47](lov/2008-06-06-37/§47) samt [deltakerloven § 20](lov/1999-03-26-15/§20) og § [21](lov/1999-03-26-15/§21), jf. kongelig [resolusjon 11. februar 2000 nr. 99](forskrift/2000-02-11-99) til å fastsette årlige reguleringsforskrifter, delegeres til Fiskeridirektoratet i følgende tilfeller;Forskrifter om regulering av fiske som foregår i NAFO-området.Forskrift om regulering av fisket etter lodde ved Grønland, Island og Jan Mayen, som fastsettes for en sesong av gangen.
+Fiskeri- og kystdepartementets kompetanse etter [havressursloven § 11](lov/2008-06-06-37/§11), [§ 12](lov/2008-06-06-37/§12), [§ 13](lov/2008-06-06-37/§13), [§ 15](lov/2008-06-06-37/§15), [§ 16](lov/2008-06-06-37/§16), [§ 26](lov/2008-06-06-37/§26), [§ 27](lov/2008-06-06-37/§27), [§ 36](lov/2008-06-06-37/§36), [§ 37](lov/2008-06-06-37/§37) og [§ 47](lov/2008-06-06-37/§47) samt [deltakerloven § 20](lov/1999-03-26-15/§20) og § [21](lov/1999-03-26-15/§21), jf. kongelig [resolusjon 11. februar 2000 nr. 99](forskrift/2000-02-11-99) til å fastsette årlige reguleringsforskrifter, delegeres til Fiskeridirektoratet i følgende tilfeller;
+
+- Forskrifter om regulering av fiske som foregår i NAFO-området.
+- Forskrift om regulering av fisket etter lodde ved Grønland, Island og Jan Mayen, som fastsettes for en sesong av gangen.
 
 Delegering av kompetanse forutsettes også å omfatte endringer i de nevnte forskriftene.
 

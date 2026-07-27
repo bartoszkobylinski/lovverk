@@ -15,7 +15,7 @@ xml_hash: "e77ce2a27cc02c6284e20f3564a9be8aa8a3eaa146023ace23affe0267495566"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,14 @@ Denne resolusjonen trer i kraft 1. januar 2004.
 
 ## VI
 
-Fra 1. januar 2004 oppheves følgende delegeringer:Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 19881 om opprettelsen av Statens næringsmiddeltilsyn.Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av [29. april 1988 nr. 312](forskrift/1988-04-29-312) om myndighetsoverføring til Statens næringsmiddeltilsyn m.v.Kongelig resolusjon fra Landbruksdepartementet av 1. juli 19941 om Omorganisering av Statens næringsmiddeltilsyn.[Forskrift av 8. april 1960 nr. 9602](forskrift/1960-04-08-9602) om delegasjon av myndighet etter lov om kvalitetskontroll med fiskevarer. Gitt ved kgl.res. av 8. april 1960 i medhold av kvalitetskontrolloven.[Vedtak av 10. februar 1989 nr. 84](forskrift/1989-02-10-84) om delegering av myndighet til Fiskeridepartementet etter lov om tilsyn med fôrvarer. Fastsatt ved kgl.res. av 10. februar 1989.[Vedtak av 19. desember 1997 nr. 1317](forskrift/1997-12-19-1317) om delegering av myndighet etter fiskesykdomsloven. Fastsatt ved kgl.res. av 19. desember 1997 med hjemmel i fiskesykdomsloven.
+Fra 1. januar 2004 oppheves følgende delegeringer:
+
+1. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 19881 om opprettelsen av Statens næringsmiddeltilsyn.
+2. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av [29. april 1988 nr. 312](forskrift/1988-04-29-312) om myndighetsoverføring til Statens næringsmiddeltilsyn m.v.
+3. Kongelig resolusjon fra Landbruksdepartementet av 1. juli 19941 om Omorganisering av Statens næringsmiddeltilsyn.
+4. [Forskrift av 8. april 1960 nr. 9602](forskrift/1960-04-08-9602) om delegasjon av myndighet etter lov om kvalitetskontroll med fiskevarer. Gitt ved kgl.res. av 8. april 1960 i medhold av kvalitetskontrolloven.
+5. [Vedtak av 10. februar 1989 nr. 84](forskrift/1989-02-10-84) om delegering av myndighet til Fiskeridepartementet etter lov om tilsyn med fôrvarer. Fastsatt ved kgl.res. av 10. februar 1989.
+6. [Vedtak av 19. desember 1997 nr. 1317](forskrift/1997-12-19-1317) om delegering av myndighet etter fiskesykdomsloven. Fastsatt ved kgl.res. av 19. desember 1997 med hjemmel i fiskesykdomsloven.
 
 1 Ikke kunngjort i Norsk Lovtidend.
 
@@ -68,9 +75,20 @@ Dette forslaget til kronprinsregentens resolusjon om delegering og myndighetsfor
 
 Regjeringen iverksetter fra 1. januar 2004 en stor reform på matområdet. Hovedformålet med reformen er å sikre fortsatt god mattrygghet og styrke arbeidet for norske forbrukere. Den viktigste endringen er å legge økt vekt på helkjedeperspektivet og etablere en helhetlig forvaltning fra fjord/jord til bord.
 
-Matforvaltningsreformen inneholder fire hovedelementer:modernisering av lovgivningen og det øvrige regelverketrestrukturering av departementsansvar – faglig og administrativtorganisering av et nytt felles tilsyn for all matproduksjon (Mattilsynet)reorganisering av Mattilsynets støttefunksjoner, hvor det bl.a. opprettes en ny uavhengig vitenskapskomité som skal foreta risikovurderinger.
+Matforvaltningsreformen inneholder fire hovedelementer:
 
-Regjeringens sentrale mål er:å sikre at mat og drikke som produseres og/eller omsettes, er helsemessig trygge for forbrukerneat frambudet av mat skjer på en redelig måteat kvaliteten på de matvarene som frambys, er i samsvar med nasjonalt og internasjonalt fastsatte standarderat Norge har god dyrehelse, plantehelse og dyrevelferden mer kostnadseffektiv forvaltning enn hva tilfellet er i dag.
+- modernisering av lovgivningen og det øvrige regelverket
+- restrukturering av departementsansvar – faglig og administrativt
+- organisering av et nytt felles tilsyn for all matproduksjon (Mattilsynet)
+- reorganisering av Mattilsynets støttefunksjoner, hvor det bl.a. opprettes en ny uavhengig vitenskapskomité som skal foreta risikovurderinger.
+
+Regjeringens sentrale mål er:
+
+- å sikre at mat og drikke som produseres og/eller omsettes, er helsemessig trygge for forbrukerne
+- at frambudet av mat skjer på en redelig måte
+- at kvaliteten på de matvarene som frambys, er i samsvar med nasjonalt og internasjonalt fastsatte standarder
+- at Norge har god dyrehelse, plantehelse og dyrevelferd
+- en mer kostnadseffektiv forvaltning enn hva tilfellet er i dag.
 
 > Endret ved [forskrift 18 feb 2005 nr. 218](forskrift/2005-02-18-218).
 
@@ -90,11 +108,21 @@ De berørte departementene foreslår at myndighet etter matloven i hovedsak ford
 
 *Vertikal deling*
 
-Helse- og omsorgsdepartementet (HOD) foreslår at Landbruks- og matdepartementet (LMD) og Fiskeri- og kystdepartementet (FKD) gis ansvar for regelverk som regulerer alle matlovens formål/områder fra innsatsvareproduksjon til og med primærproduksjonen (slik primærproduksjon er definert i merknader til [matlovens § 2](lov/2003-12-19-124/§2)), herunder ansvaret for regelverket som regulerer hensynet til humanhelse innenfor denne delen av produksjonskjeden. Dette innebærer at:LMD får ansvar for regelverk relatert til terrestrisk produksjon.FKD får ansvar for regelverk relatert til akvatisk produksjon.
+Helse- og omsorgsdepartementet (HOD) foreslår at Landbruks- og matdepartementet (LMD) og Fiskeri- og kystdepartementet (FKD) gis ansvar for regelverk som regulerer alle matlovens formål/områder fra innsatsvareproduksjon til og med primærproduksjonen (slik primærproduksjon er definert i merknader til [matlovens § 2](lov/2003-12-19-124/§2)), herunder ansvaret for regelverket som regulerer hensynet til humanhelse innenfor denne delen av produksjonskjeden. Dette innebærer at:
+
+1. LMD får ansvar for regelverk relatert til terrestrisk produksjon.
+2. FKD får ansvar for regelverk relatert til akvatisk produksjon.
 
 *Formålsdeling*
 
-Helse- og omsorgsdepartementet foreslår videre at deling av myndighet etter matloven etter primærproduksjonen skal skje etter formålsprinsippet. Dette innebærer at:Regelverk som regulerer plantehelse, tillegges LMD også etter primærproduksjonen.Regelverk for dyrehelse inkludert regelverk for animalske biprodukter, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.Regelverk som regulerer kvalitet og hygiene av hensyn til human helse, tillegges HOD etter primærproduksjonen.Regelverk som regulerer kvalitet og hygiene av andre hensyn enn hensynet til human helse, tillegges LMD og FKD også etter primærproduksjonen. Dette omfatter også regelverk for særskilt opprinnelsesmerking, beskyttede betegnelser og økologi. Fordeling mellom departementene skjer på samme måte som i den vertikale deling.Regelverk om tilsetningsstoffer, fremmedstoffer i mat, genmodifisert mat, næringsmidler til spesielle formål/kosttilskudd, generelle merkebestemmelser for mat, helsepåstander og emballasje tillegges HOD etter primærproduksjonen.Regelverk for øvrig som fastsettes av hensyn til aktørene langs matproduksjonskjeden bl.a. for å sikre eksport/markedsadgang, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
+Helse- og omsorgsdepartementet foreslår videre at deling av myndighet etter matloven etter primærproduksjonen skal skje etter formålsprinsippet. Dette innebærer at:
+
+1. Regelverk som regulerer plantehelse, tillegges LMD også etter primærproduksjonen.
+2. Regelverk for dyrehelse inkludert regelverk for animalske biprodukter, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
+3. Regelverk som regulerer kvalitet og hygiene av hensyn til human helse, tillegges HOD etter primærproduksjonen.
+4. Regelverk som regulerer kvalitet og hygiene av andre hensyn enn hensynet til human helse, tillegges LMD og FKD også etter primærproduksjonen. Dette omfatter også regelverk for særskilt opprinnelsesmerking, beskyttede betegnelser og økologi. Fordeling mellom departementene skjer på samme måte som i den vertikale deling.
+5. Regelverk om tilsetningsstoffer, fremmedstoffer i mat, genmodifisert mat, næringsmidler til spesielle formål/kosttilskudd, generelle merkebestemmelser for mat, helsepåstander og emballasje tillegges HOD etter primærproduksjonen.
+6. Regelverk for øvrig som fastsettes av hensyn til aktørene langs matproduksjonskjeden bl.a. for å sikre eksport/markedsadgang, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
 
 *Spesielt om vann*
 
@@ -102,7 +130,10 @@ Regelverk for produksjon av drikkevann unntas fra deling etter det vertikale pri
 
 *Fellesforskrifter*
 
-Følgende regelverk vil berøre flere departementer:Regelverk som omfatter produksjonskjeden på begge sider av den vertikale delingen eller dekker flere av punktene 1-6 under formålsdelingen og etter den fastsatte ansvarsdelingen, faller under flere departementers ansvarsområde.Regelverk som ikke er fordelt ved vertikal deling eller formålsdeling.
+Følgende regelverk vil berøre flere departementer:
+
+1. Regelverk som omfatter produksjonskjeden på begge sider av den vertikale delingen eller dekker flere av punktene 1-6 under formålsdelingen og etter den fastsatte ansvarsdelingen, faller under flere departementers ansvarsområde.
+2. Regelverk som ikke er fordelt ved vertikal deling eller formålsdeling.
 
 For regelverk etter pkt. 1 vil ansvaret følge det som er fastsatt ved den vertikale delingen eller formålsdelingen. For regelverk etter pkt. 2 vil ansvaret bli delt mellom landbruksministeren, fiskeriministeren og helseministeren etter en vurdering av de aktuelle hensyn.
 
@@ -118,7 +149,15 @@ Hovedtyngden av regelverket på matområdet er harmonisert med EUs regelverk. N�
 
 Gjennomføring av EUs sikkerhetsvedtak som forskrifter, er lagt direkte til Mattilsynet i matloven. På enkelte deler av matområdet endres forskriftene en rekke ganger i året. Dette gjelder særlig forskrifter av utpreget teknisk/faglig karakter. Når det gjelder slike forskrifter av utpreget teknisk/faglig karakter og som også er av ikke-politisk karakter, bør fastsettelse av endringsforskrifter kunne skje i Mattilsynet etter delegert kompetanse fra angjeldende departement under den klare forutsetning at departementene blir forelagt disse før fastsettelse.
 
-Forskriftsvedtak etter følgende bestemmelser i matloven bør ut fra sin karakter ikke delegeres til Mattilsynet:§ 3 nærmere bestemmelser om lovens stedlige virkeområde§ 21, 2., 3. og 4. ledd «avgiftsforskrifter»§ 22 forskrifter om erstatning§ 26 forskrifter om tvangsmulkt§ 27 forskrifter om informasjon til allmennheten§ 28 om bøtelegging mv.§ 31 om kompensasjonsordninger.
+Forskriftsvedtak etter følgende bestemmelser i matloven bør ut fra sin karakter ikke delegeres til Mattilsynet:
+
+- § 3 nærmere bestemmelser om lovens stedlige virkeområde
+- § 21, 2., 3. og 4. ledd «avgiftsforskrifter»
+- § 22 forskrifter om erstatning
+- § 26 forskrifter om tvangsmulkt
+- § 27 forskrifter om informasjon til allmennheten
+- § 28 om bøtelegging mv.
+- § 31 om kompensasjonsordninger.
 
 Arbeidsfordelingen mellom departementene og Mattilsynet vil bli avklart nærmere gjennom egne delegeringsskriv fra departementene til Mattilsynet.
 

@@ -15,7 +15,7 @@ xml_hash: "cd3e0b32d9a58cd347aa6b3c24ff8c561a2b6efb2257fe89b5834a1c85452691"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Formålet med lova
 
-Lova skal medverke til ei forsvarleg og etterretteleg offentleg forvaltning ved atdokumentasjonen i offentlege organ skal bli forvalta som arkivdokumentasjonen skal vere tilgjengeleg, for å kunne føre kontroll med forvaltninga, styrkje rettstryggleiken og fremje ein open og opplyst offentleg samtale.
+Lova skal medverke til ei forsvarleg og etterretteleg offentleg forvaltning ved at
+
+1. dokumentasjonen i offentlege organ skal bli forvalta som arkiv
+2. dokumentasjonen skal vere tilgjengeleg, for å kunne føre kontroll med forvaltninga, styrkje rettstryggleiken og fremje ein open og opplyst offentleg samtale.
 
 Lova skal leggje til rette for at arkiva kan tene som kulturarv, kjelde til historisk kunnskap og grunnlag for forsking, og at allmenta kan ta arkiva i bruk.
 
@@ -34,11 +37,24 @@ Lova skal òg leggje til rette for bevaring og tilgjengeleggjering av privatarki
 
 ### § 2. Definisjonar
 
-I lova her gjeld følgjande definisjonar:*arkiv*: dokumentasjon som skal takast vare på i eit avgrensa tidsrom eller for ettertida*avlevere*: overføre arkiv til langtidsbevaring i ein bevaringsinstitusjon, med den følgja at råderetten går over til bevaringsinstitusjonen*bevaringsinstitusjon*: institusjon eller organisatorisk eining som tek imot og har ansvar for å langtidsbevare arkiva og gjere dei tilgjengelege for bruk*deponere*: overføre arkiv mellombels til ein bevaringsinstitusjon, der organ held fram med å ha råderetten over arkiva sine og arkiveigarar held fram med å ha eigedomsretten til privatarkiva sine*dokumentasjon*: dokument som nemnt i [offentleglova § 4 første ledd](lov/2006-05-19-16/§4/ledd/1) og annan informasjon som organet sjølv har lagra i informasjonssystema sine, og som gjeld sakshandsaminga, oppgåveløysinga eller andre vesentlege tilhøve ved verksemda*informasjonssystem*: eit system for å organisere og handtere informasjon*kassere*: å gjere til inkjes dokumentasjon slik at han ikkje lenger finst*organ*: verksemder som lova gjeld for, utanom rettssubjekt som berre er omfatta av [kapittel 3](lov/2025-06-20-96/kap3)*privatarkiv*: arkiv som er skapt av andre enn eit organ.
+I lova her gjeld følgjande definisjonar:
+
+1. *arkiv*: dokumentasjon som skal takast vare på i eit avgrensa tidsrom eller for ettertida
+2. *avlevere*: overføre arkiv til langtidsbevaring i ein bevaringsinstitusjon, med den følgja at råderetten går over til bevaringsinstitusjonen
+3. *bevaringsinstitusjon*: institusjon eller organisatorisk eining som tek imot og har ansvar for å langtidsbevare arkiva og gjere dei tilgjengelege for bruk
+4. *deponere*: overføre arkiv mellombels til ein bevaringsinstitusjon, der organ held fram med å ha råderetten over arkiva sine og arkiveigarar held fram med å ha eigedomsretten til privatarkiva sine
+5. *dokumentasjon*: dokument som nemnt i [offentleglova § 4 første ledd](lov/2006-05-19-16/§4/ledd/1) og annan informasjon som organet sjølv har lagra i informasjonssystema sine, og som gjeld sakshandsaminga, oppgåveløysinga eller andre vesentlege tilhøve ved verksemda
+6. *informasjonssystem*: eit system for å organisere og handtere informasjon
+7. *kassere*: å gjere til inkjes dokumentasjon slik at han ikkje lenger finst
+8. *organ*: verksemder som lova gjeld for, utanom rettssubjekt som berre er omfatta av [kapittel 3](lov/2025-06-20-96/kap3)
+9. *privatarkiv*: arkiv som er skapt av andre enn eit organ.
 
 ### § 3. Verkeområde
 
-Lova gjeld forstaten, fylkeskommunane og kommunaneandre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift.
+Lova gjeld for
+
+1. staten, fylkeskommunane og kommunane
+2. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift.
 
 Lova gjeld ikkje for Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget.
 
@@ -64,13 +80,29 @@ Nasjonalarkivet kan krevje at personar som skal tilsetjast der, legg fram ordin�
 
 ### § 5. Arkivplikta
 
-Organa skal forvalte dokumentasjon som blir til som ledd i verksemda, som arkiv. Dokumentasjonen skal sikrast slik at informasjonen ikkje går tapt, og forvaltast slik atopphavet til informasjonen alltid er kjentdet går fram i kva samanheng informasjonen er skapt, og kva samanheng han inngår iinformasjonen ikkje blir endrainformasjonen er tilgjengeleg på ein måte som ikkje avgrensar framtidig nytte.
+Organa skal forvalte dokumentasjon som blir til som ledd i verksemda, som arkiv. Dokumentasjonen skal sikrast slik at informasjonen ikkje går tapt, og forvaltast slik at
+
+1. opphavet til informasjonen alltid er kjent
+2. det går fram i kva samanheng informasjonen er skapt, og kva samanheng han inngår i
+3. informasjonen ikkje blir endra
+4. informasjonen er tilgjengeleg på ein måte som ikkje avgrensar framtidig nytte.
 
 Departementet kan gi forskrift om kva organa skal ta omsyn til når dei skal avgjere kva dei skal forvalte som arkiv etter første ledd.
 
 ### § 6. Forskrift om forvaltninga av dokumentasjon og arkiv
 
-Departementet kan gi forskrift om kva som skal inngå i arkivplikta etter [§ 5 første ledd](lov/2025-06-20-96/§5/ledd/1). Dette kan omfatte:føring av journal og anna registrering av metadataretting av feil opplysningar i arkiv og vilkåra for dettehandsaming av naudsynte personopplysningar, også personopplysningar som er nemnde i personvernforordninga artikkel 9, og krava til slik handsamingansvar for pliktene etter lova her knytt til dokumentasjon som blir til når organ samarbeider om å løyse oppgåver i eit felles systemkrav til informasjonssystemkrav til skildringar av informasjonssystemvedlikehald av digitale arkivfysisk sikring av arkivkonvertering av analoge arkiv til digitalt formatoverføring av arkiv mellom organ i samband med oppgåveoverføring eller endringar i den administrative inndelinga av Noreg.
+Departementet kan gi forskrift om kva som skal inngå i arkivplikta etter [§ 5 første ledd](lov/2025-06-20-96/§5/ledd/1). Dette kan omfatte:
+
+1. føring av journal og anna registrering av metadata
+2. retting av feil opplysningar i arkiv og vilkåra for dette
+3. handsaming av naudsynte personopplysningar, også personopplysningar som er nemnde i personvernforordninga artikkel 9, og krava til slik handsaming
+4. ansvar for pliktene etter lova her knytt til dokumentasjon som blir til når organ samarbeider om å løyse oppgåver i eit felles system
+5. krav til informasjonssystem
+6. krav til skildringar av informasjonssystem
+7. vedlikehald av digitale arkiv
+8. fysisk sikring av arkiv
+9. konvertering av analoge arkiv til digitalt format
+10. overføring av arkiv mellom organ i samband med oppgåveoverføring eller endringar i den administrative inndelinga av Noreg.
 
 ### § 7. Dokumentasjon av lovpålagde oppgåver som er løyste på vegner av organet
 
@@ -84,13 +116,21 @@ Departementet kan gi forskrift om unntak frå føresegner gitt i eller i medhald
 
 Eit organ skal ha ein oppdatert dokumentasjonsplan som viser korleis organet har organisert arbeidet med å etterleve pliktene etter lova her.
 
-Planen skalvere utforma slik at han kan tene som ein reiskap i internkontrollengi oversyn over kva slags dokumentasjon som blir til som ledd i verksemdagi oversyn over kva dokumentasjon organet forvaltar som arkivgjere greie for korleis dokumentasjon etter bokstav b og c blir lagra.
+Planen skal
+
+1. vere utforma slik at han kan tene som ein reiskap i internkontrollen
+2. gi oversyn over kva slags dokumentasjon som blir til som ledd i verksemda
+3. gi oversyn over kva dokumentasjon organet forvaltar som arkiv
+4. gjere greie for korleis dokumentasjon etter bokstav b og c blir lagra.
 
 Departementet kan gi forskrift om innhaldet i dokumentasjonsplanen, internkontroll med dokumentasjons- og arkivforvaltninga og offentleggjering av informasjon frå dokumentasjonsplanen.
 
 ### § 9. Unntak for særskilde organ
 
-Departementet kan gi forskrift om unntak frå føresegnene gitt i eller i medhald av [§§ 5](lov/2025-06-20-96/§5), [6](lov/2025-06-20-96/§6), [8](lov/2025-06-20-96/§8), [14](lov/2025-06-20-96/§14) og [15](lov/2025-06-20-96/§15) foroffentlege utval som er oppretta ved lov eller kongeleg resolusjonorgan som er omfatta av lova her etter [§ 3 første ledd bokstav b](lov/2025-06-20-96/§3/ledd/1/bokstav/b).
+Departementet kan gi forskrift om unntak frå føresegnene gitt i eller i medhald av [§§ 5](lov/2025-06-20-96/§5), [6](lov/2025-06-20-96/§6), [8](lov/2025-06-20-96/§8), [14](lov/2025-06-20-96/§14) og [15](lov/2025-06-20-96/§15) for
+
+1. offentlege utval som er oppretta ved lov eller kongeleg resolusjon
+2. organ som er omfatta av lova her etter [§ 3 første ledd bokstav b](lov/2025-06-20-96/§3/ledd/1/bokstav/b).
 
 ### § 10. Forbod mot å overdra eigedomsrett til eller råderett over arkiv
 
@@ -102,7 +142,11 @@ Private kan berre få eigedomsrett til arkiv skapt av organa nemnde i [§ 3 før
 
 Det er forbode å føre ut av landet dokumentasjon i arkiv som er lagra på fysiske medium.
 
-Forbodet gjeld ikkjefor arkivfagleg forsvarleg mellombels bruk til forvaltningsformål eller rettslege formålfor arkivfagleg forsvarleg mediekonvertering, konservering eller sikring innanfor EØS-området i avgrensa tidsromi andre særlege tilfelle når Nasjonalarkivet gir løyve.
+Forbodet gjeld ikkje
+
+1. for arkivfagleg forsvarleg mellombels bruk til forvaltningsformål eller rettslege formål
+2. for arkivfagleg forsvarleg mediekonvertering, konservering eller sikring innanfor EØS-området i avgrensa tidsrom
+3. i andre særlege tilfelle når Nasjonalarkivet gir løyve.
 
 Departementet kan gi forskrift om kva vilkår som skal gjelde ved lagring av digitale arkiv utanfor Noreg.
 
@@ -118,7 +162,10 @@ Dokumentasjon som skal takast vare på, skal avleverast eller overførast til la
 
 ### § 13. Kassasjon av dokumentasjon som ikkje skal takast vare på
 
-Eit organ kan berre kassere dokumentasjon somikkje skal takast vare på i medhald av forskrift gitt av Nasjonalarkivet med heimel i [§ 12 andre ledd](lov/2025-06-20-96/§12/ledd/2), ellerdet er gitt løyve frå Nasjonalarkivet til å kassere.
+Eit organ kan berre kassere dokumentasjon som
+
+1. ikkje skal takast vare på i medhald av forskrift gitt av Nasjonalarkivet med heimel i [§ 12 andre ledd](lov/2025-06-20-96/§12/ledd/2), eller
+2. det er gitt løyve frå Nasjonalarkivet til å kassere.
 
 Føresegner i andre lover om plikt til å slette opplysningar gir berre grunnlag for kassasjon når det er klart fastsett eller føresett at opplysningane ikkje skal finnast i arkiva for ettertida. Plikta til å slette opplysningar skal elles oppfyllast på andre måtar enn ved kassasjon.
 
@@ -132,7 +179,11 @@ Fylkeskommunar og kommunar skal ha ordningar for langtidsbevaring av arkiva sine
 
 Nasjonalarkivet kan fastsetje i enkelttilfelle at fylkeskommunale eller kommunale arkiv skal overførast til Nasjonalarkivet eller ein annan bevaringsinstitusjon dersom det må til for å sikre arkivet, eller dersom det er andre særlege grunnar til det.
 
-Nasjonalarkivet fastset i enkelttilfelle kvar følgjande arkiv skal avleverast:arkiv med opphav i både statleg og kommunal sektorarkiva til organ omfatta av [§ 3 første ledd bokstav b](lov/2025-06-20-96/§3/ledd/1/bokstav/b)arkiva til andre organ som er omfatta av lova, om dette ikkje følgjer av anna lov.
+Nasjonalarkivet fastset i enkelttilfelle kvar følgjande arkiv skal avleverast:
+
+1. arkiv med opphav i både statleg og kommunal sektor
+2. arkiva til organ omfatta av [§ 3 første ledd bokstav b](lov/2025-06-20-96/§3/ledd/1/bokstav/b)
+3. arkiva til andre organ som er omfatta av lova, om dette ikkje følgjer av anna lov.
 
 Når eit arkiv blir avlevert til Nasjonalarkivet, skal berre dokumentasjonen som skal takast vare på for ettertida, følgje med. Når arkivet har blitt avlevert, får Nasjonalarkivet råderetten over det om ikkje noko anna er avtalt. Det avleverande organet skal dekkje kostnadene for avleveringa.
 
@@ -142,7 +193,15 @@ Eit organ kan avtale å deponere eit arkiv for teknisk sikring hos bevaringsinst
 
 ### § 15. Forskrift om avlevering mv.
 
-Departementet kan gi forskrift omtidspunktet for avleveringa av arkivkva for opplysningar som skal følgje arkivet ved avleveringakorleis avleveringa til Nasjonalarkivet skal skjekrav til kva for format arkiva til statlege organ skal avleverast iNasjonalarkivet sitt høve til å inngå avtaler med eit organ om forvaltninga av og råderetten over avleverte og deponerte arkivkrav til handsaminga av personopplysningarrefusjon av kostnader Nasjonalarkivet har når dei gjer oppgåver som etter lova her eller forskrift med heimel i lova skal løysast av andre organ.
+Departementet kan gi forskrift om
+
+1. tidspunktet for avleveringa av arkiv
+2. kva for opplysningar som skal følgje arkivet ved avleveringa
+3. korleis avleveringa til Nasjonalarkivet skal skje
+4. krav til kva for format arkiva til statlege organ skal avleverast i
+5. Nasjonalarkivet sitt høve til å inngå avtaler med eit organ om forvaltninga av og råderetten over avleverte og deponerte arkiv
+6. krav til handsaminga av personopplysningar
+7. refusjon av kostnader Nasjonalarkivet har når dei gjer oppgåver som etter lova her eller forskrift med heimel i lova skal løysast av andre organ.
 
 ### § 16. Tilgjengeleggjering av arkiv som er avleverte eller overførte til langtidsbevaring
 
@@ -162,7 +221,12 @@ Retten til partsinnsyn, retten til innsyn etter [offentleglova](lov/2006-05-19-1
 
 ### § 18. Ansvar for oversyn, rettleiing og samordning knytt til privatarkiv
 
-Nasjonalarkivet skalhalde oversyn over privatarkiv som er vurderte å ha verdi for ettertidaføre eit register for privatarkiv som er tekne vare på i offentlege og private bevaringsinstitusjonarrettleie bevaringsinstitusjonar om arbeid med privatarkivsamordne og medverke til det faglege utviklingsarbeidet med privatarkiv.
+Nasjonalarkivet skal
+
+1. halde oversyn over privatarkiv som er vurderte å ha verdi for ettertida
+2. føre eit register for privatarkiv som er tekne vare på i offentlege og private bevaringsinstitusjonar
+3. rettleie bevaringsinstitusjonar om arbeid med privatarkiv
+4. samordne og medverke til det faglege utviklingsarbeidet med privatarkiv.
 
 Statlege, fylkeskommunale og kommunale bevaringsinstitusjonar og bevaringsinstitusjonar med offentleg tilskot som tek vare på privatarkiv, skal gi Nasjonalarkivet dei opplysningane som må til for å kunne halde oversyn og føre register etter første ledd bokstav a og b.
 
@@ -178,7 +242,11 @@ Når eit privatarkiv er deponert, kan den som har deponert arkivet, krevje å f�
 
 Nasjonalarkivet kan fastsetje at eit privatarkiv er særskilt bevaringsverdig.
 
-Arkiveigaren eller bevaringsinstitusjonen som forvaltar det særskilt bevaringsverdige privatarkivet, skal melde frå til Nasjonalarkivet dersom:arkivet skiftar eigar eller blir overført til andredet er planar om å føre arkivet eller delar av det ut av landetarkivet står i fare for å gå tapt.
+Arkiveigaren eller bevaringsinstitusjonen som forvaltar det særskilt bevaringsverdige privatarkivet, skal melde frå til Nasjonalarkivet dersom:
+
+1. arkivet skiftar eigar eller blir overført til andre
+2. det er planar om å føre arkivet eller delar av det ut av landet
+3. arkivet står i fare for å gå tapt.
 
 Særskilt bevaringsverdige privatarkiv skal ikkje delast opp, førast ut av landet, skadast eller kasserast utan at Nasjonalarkivet har samtykt til det. Som vilkår for samtykke kan Nasjonalarkivet krevje å få kopiere arkivet, medrekna metadata og annan kontekstinformasjon, vederlagsfritt. Det same gjeld dersom nokon som har deponert eit særskilt bevaringsverdig privatarkiv, krev å få det attende. Dersom det er fastsett avgrensingar i samsvar med [§ 19 første ledd](lov/2025-06-20-96/§19/ledd/1), gjeld dette òg for kopien.
 

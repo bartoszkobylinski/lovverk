@@ -15,7 +15,7 @@ xml_hash: "52fa440fb0c4e0d1ff5eb098c10efedbce4ba63b341e0d9509e3cb138be944b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ Samtidig oppheves [forskrift 6. januar 2003 nr. 2](forskrift/2003-01-06-2) om ve
 
 *Del I. Liste over produkter av animalsk opprinnelse bestemt til konsum eller til dyrefôr som kan importeres til EØS uten sertifikatet som nevnt i [§ 3](forskrift/2004-08-31-1229/§3)*
 
-- fisk og fiskeprodukter, unntatt:akvakulturprodukter,rensede og/eller behandlede reker,kreps av arten Procambrus clarkii fanget ved fiske i naturlig ferskvann.
+- fisk og fiskeprodukter, unntatt:
+
+  - akvakulturprodukter,
+  - rensede og/eller behandlede reker,
+  - kreps av arten Procambrus clarkii fanget ved fiske i naturlig ferskvann.
 - gelatin,
 - tilsetningsstoffer i næringsmidler som er omfattet av [forskrift 6. juni 2011 nr. 668 om tilsetningsstoffer til næringsmidler](forskrift/2011-06-06-668) (forordning [(EF) nr. 1333/2008](eu/32008r1333)),
 - stoffer som skal benyttes som eller benyttes i, kosttilskudd som er omfattet av [forskrift 20. mai 2004 nr. 755 om kosttilskudd](forskrift/2004-05-20-755) (direktiv [2002/46/EF](eu/32002l0046)),

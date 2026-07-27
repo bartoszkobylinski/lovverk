@@ -15,7 +15,7 @@ xml_hash: "8a7de038646ad956d0bc92153e9a049194cab7f5ca676d429498f7728bfa12e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,17 @@ Det må ikke markedsføres andre pakningsstørrelser, konsentrasjoner eller pakn
 
 Søknad om godkjenning og registrering sendes Direktoratet for medisinske produkter. Søknaden kan kreves innsendt på fastsatt skjema.
 
-Følgende opplysninger og vedlegg skal følge med søknaden:Tilvirkerens eller importørens navn eller firma, faste forretningssted eller bopel. For utenlandske preparater må også tilsvarende opplysninger om eventuell norsk representant oppgis.Preparatets navn, pakningsstørrelser, emballasje og merking.Preparatets kvalitative og kvantitative sammensetning.Dokumentasjon om antimikrobiell effekt, toksisitet, materialpåvirkning, biologisk nedbrytning og opplysninger om virkning av allergisk natur.Bruksrettledning og bruksområde.Dokumentasjon om holdbarhet og lagringsbetingelser for konsentrat og anbefalte fortynninger.Beskrivelse av anvendte kontrollmetoder.Fastsatt avgift.Prøvepakning av preparatet.
+Følgende opplysninger og vedlegg skal følge med søknaden:
+
+1. Tilvirkerens eller importørens navn eller firma, faste forretningssted eller bopel. For utenlandske preparater må også tilsvarende opplysninger om eventuell norsk representant oppgis.
+2. Preparatets navn, pakningsstørrelser, emballasje og merking.
+3. Preparatets kvalitative og kvantitative sammensetning.
+4. Dokumentasjon om antimikrobiell effekt, toksisitet, materialpåvirkning, biologisk nedbrytning og opplysninger om virkning av allergisk natur.
+5. Bruksrettledning og bruksområde.
+6. Dokumentasjon om holdbarhet og lagringsbetingelser for konsentrat og anbefalte fortynninger.
+7. Beskrivelse av anvendte kontrollmetoder.
+8. Fastsatt avgift.
+9. Prøvepakning av preparatet.
 
 Direktoratet for medisinske produkter kan kreve opplysninger om produksjonsforhold og kontrolltiltak som er av betydning for vurdering av søknaden.
 
@@ -78,7 +88,17 @@ Søknad om fornyet registrering må være innsendt til Direktoratet for medisins
 
 ## § 7. Merking.
 
-Emballasjen for et registrert desinfeksjonsmiddel skal av tilvirkeren være forsynt med følgende opplysninger:Preparatets navn.Arten og mengden av virkestoffene.Pakningens nettoinnhold.Tilvirkerens navn eller firma.Varenummer.Fullstendig bruksrettledning med angivelse av bruksområde og fortynningsskjema for konsentrater.Opplysninger om holdbarhet og oppbevaring.Eventuelle advarsler.Produksjonsnummer.
+Emballasjen for et registrert desinfeksjonsmiddel skal av tilvirkeren være forsynt med følgende opplysninger:
+
+1. Preparatets navn.
+2. Arten og mengden av virkestoffene.
+3. Pakningens nettoinnhold.
+4. Tilvirkerens navn eller firma.
+5. Varenummer.
+6. Fullstendig bruksrettledning med angivelse av bruksområde og fortynningsskjema for konsentrater.
+7. Opplysninger om holdbarhet og oppbevaring.
+8. Eventuelle advarsler.
+9. Produksjonsnummer.
 
 Ovennevnte opplysninger skal påføres den enkelte paknings ytre og indre emballasje.
 
@@ -98,7 +118,11 @@ Direktoratet for medisinske produkter kan frafalle kravet om avgift i særlige t
 
 ## § 9. Tilbakekalling av godkjenning.
 
-Godkjenning av et registrert desinfeksjonsmiddel kan kalles tilbake av Direktoratet for medisinske produkter før registreringsperioden er utløpt:Hvis preparatets sammensetning avviker fra den det ble registrert med, eller andre vilkår eller bestemmelser som gjelder for preparatet ikke overholdes,hvis nye opplysninger om eller vurderinger av preparatet medfører at det ikke lenger anses for å svare til de krav som er fastsatt i § 2,hvis preparatet ikke bringes i handelen.
+Godkjenning av et registrert desinfeksjonsmiddel kan kalles tilbake av Direktoratet for medisinske produkter før registreringsperioden er utløpt:
+
+1. Hvis preparatets sammensetning avviker fra den det ble registrert med, eller andre vilkår eller bestemmelser som gjelder for preparatet ikke overholdes,
+2. hvis nye opplysninger om eller vurderinger av preparatet medfører at det ikke lenger anses for å svare til de krav som er fastsatt i § 2,
+3. hvis preparatet ikke bringes i handelen.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 

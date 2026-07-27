@@ -36,7 +36,16 @@ Kommuner, interkommunale organ, frivillige organisasjoner, forskningsinstitusjon
 
 ## § 4. Hva det kan tildeles tilskudd til
 
-Det kan gis tilskudd tilmiljøforbedrende tiltaktilrettelegging og organisering av arbeidet i vannområder og vannregionerinformasjon og veiledning om vannforvaltning, kalking, villaks, sjøørret og sjørøyeutredninger og anvendt FoU-virksomhetforvaltningstiltak for villaks, sjøørret og sjørøyeovervåking som grunnlag for blant annet lokal forvaltning av lakse- og sjøørretbestanderkjøp, transport og spredning av kalkreetablering av opprinnelig naturmangfold i kalkede vassdrag.
+Det kan gis tilskudd til
+
+1. miljøforbedrende tiltak
+2. tilrettelegging og organisering av arbeidet i vannområder og vannregioner
+3. informasjon og veiledning om vannforvaltning, kalking, villaks, sjøørret og sjørøye
+4. utredninger og anvendt FoU-virksomhet
+5. forvaltningstiltak for villaks, sjøørret og sjørøye
+6. overvåking som grunnlag for blant annet lokal forvaltning av lakse- og sjøørretbestander
+7. kjøp, transport og spredning av kalk
+8. reetablering av opprinnelig naturmangfold i kalkede vassdrag.
 
 Det gis ikke tilskudd til en ansvarlig tiltakshaver som ut fra prinsippet om at forurenser betaler og [naturmangfoldloven § 11](lov/2009-06-19-100/§11) selv bør bære kostnadene ved miljøforringelsen.
 
@@ -56,17 +65,34 @@ Prioriterte formål innenfor målet med tilskuddsordningen gjøres kjent i årli
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon om:søkeren/søkerorganisasjonens navn, adresse, fødselsnummer/organisasjonsnummer, kontonummer og kontaktpersonhva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle formålet med tilskuddsordningenhvor tiltak skal utføres, hvilke naturverdier som blir berørt og om tiltaket påvirker naturmangfoldsøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer fremegenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2024-10-04-2409/§11)om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+Søknaden skal inneholde informasjon om:
+
+1. søkeren/søkerorganisasjonens navn, adresse, fødselsnummer/organisasjonsnummer, kontonummer og kontaktperson
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle formålet med tilskuddsordningen
+3. hvor tiltak skal utføres, hvilke naturverdier som blir berørt og om tiltaket påvirker naturmangfold
+4. søknadsbeløp
+5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
+6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2024-10-04-2409/§11)
+8. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 8. Tilleggsopplysninger, kontroll og befaring før vedtak
 
-Miljødirektoratet eller statsforvalter kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet eller statsforvalter kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 9. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet eller statsforvalteren dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetaltdet oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet/statsforvalter avgjør om endringene kan godkjennes.
+Søker plikter straks å melde fra til Miljødirektoratet eller statsforvalteren dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet/statsforvalter avgjør om endringene kan godkjennes.
 
 ## § 10. Behandling av søknad om tilskudd
 

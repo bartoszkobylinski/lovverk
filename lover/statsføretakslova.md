@@ -15,7 +15,7 @@ xml_hash: "8ad6d0ad5477750869089723b23769d69824a6317258194f9735508d285a0ace"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Eit statsføretak har sjølv rettar og forpliktingar, er part i avtalar med priv
 
 (1) Eit morføretak utgjer saman med eitt eller fleire dotterselskap eit konsern.
 
-(2) Eit statsføretak er eit morføretak om det på grunn av avtale eller som eigar av aksjar eller selskapspartar har bestemmande innverknad over eit selskap. Eit statsføretak skal alltid reknast for å ha bestemmande innverknad over eit selskap når føretaketeig så mange aksjar eller partar i eit selskap at dei representerer fleirtalet av røystene i selskapet, ellerhar rett til å velje eller avsetje eit fleirtal av medlemene i styret til selskapet.
+(2) Eit statsføretak er eit morføretak om det på grunn av avtale eller som eigar av aksjar eller selskapspartar har bestemmande innverknad over eit selskap. Eit statsføretak skal alltid reknast for å ha bestemmande innverknad over eit selskap når føretaket
+
+1. eig så mange aksjar eller partar i eit selskap at dei representerer fleirtalet av røystene i selskapet, eller
+2. har rett til å velje eller avsetje eit fleirtal av medlemene i styret til selskapet.
 
 (3) Eit selskap som står i eit forhold som nemnt i andre ledd til eit morføretak, er å rekne som eit dotterselskap.
 
@@ -76,13 +79,23 @@ Kongen i statsråd gjer vedtak om oppretting av statsføretak og fastset kva dep
 
 ### § 2-2. Stiftingsdokument
 
-(1) Når det er gjort vedtak om å opprette statsføretaket, jf. [§ 2-1](lov/2025-04-10-9/§2-1), skal departementet opprette eit datert og signert stiftingsdokument som inneheld ei tilvising til vedtaket, og som dessutan i det minste oppgir kva departementet har vedteke omvedtektene til føretaketstyret til føretaket, irekna kven som skal vere styreleiarrevisor for føretaketeventuelt innskot i anna enn pengar, jf. [§ 2-4](lov/2025-04-10-9/§2-4).
+(1) Når det er gjort vedtak om å opprette statsføretaket, jf. [§ 2-1](lov/2025-04-10-9/§2-1), skal departementet opprette eit datert og signert stiftingsdokument som inneheld ei tilvising til vedtaket, og som dessutan i det minste oppgir kva departementet har vedteke om
+
+1. vedtektene til føretaket
+2. styret til føretaket, irekna kven som skal vere styreleiar
+3. revisor for føretaket
+4. eventuelt innskot i anna enn pengar, jf. [§ 2-4](lov/2025-04-10-9/§2-4).
 
 (2) Statsføretaket er rekna som stifta når stiftingsdokumentet er oppretta og signert.
 
 ### § 2-3. Minstekrav til og endring av vedtektene
 
-(1) Vedtektene til statsføretaket skal minst opplyse omføretaksnamnet til statsføretaketverksemda til statsføretaketstaten sitt innskot i statsføretaketkva saker som skal handsamast på det ordinære føretaksmøtet.
+(1) Vedtektene til statsføretaket skal minst opplyse om
+
+1. føretaksnamnet til statsføretaket
+2. verksemda til statsføretaket
+3. staten sitt innskot i statsføretaket
+4. kva saker som skal handsamast på det ordinære føretaksmøtet.
 
 (2) Føretaksmøtet vedtek endringar i vedtektene.
 
@@ -160,7 +173,11 @@ Føretaksmøtet gjer vedtak om utdeling av utbyte etter at styret har gjort fram
 
 ### § 3-10. Nedsetjing av innskotskapitalen
 
-(1) Føretaksmøtet kan vedta å setje ned innskotskapitalen til staten. Det beløpet innskotskapitalen skal setjast ned med, kan berre brukast tildekning av tap som ein ikkje kan dekkje på annan måtetilbakebetaling til statenoverføring til fond.
+(1) Føretaksmøtet kan vedta å setje ned innskotskapitalen til staten. Det beløpet innskotskapitalen skal setjast ned med, kan berre brukast til
+
+1. dekning av tap som ein ikkje kan dekkje på annan måte
+2. tilbakebetaling til staten
+3. overføring til fond.
 
 (2) Det skal gå fram av møteprotokollen kor mykje innskotet skal setjast ned med, og kva det skal brukast til. Dersom det i samband med nedsetjinga skal skje utdelingar til staten med større beløp enn nedsetjingsbeløpet, skal dette høgare beløpet og korleis det skal dekkjast, gå fram av vedtaket til føretaksmøtet.
 
@@ -178,13 +195,21 @@ Føretaksmøtet gjer vedtak om utdeling av utbyte etter at styret har gjort fram
 
 ### § 3-13. Avtalar mellom statsføretaket og medlemer av leiinga i statsføretaket
 
-(1) Føretaksmøtet skal godkjenne avtalar mellom føretaket og ein styremedlem eller dagleg leiar når ytinga til føretaket på det tidspunktet avtalen blir inngått, har ein verdi som er lik eller større enn to gonger grunnbeløpet i folketrygda. Det same gjeld avtalar mellom føretaket ogein nærståande til ein styremedlem eller dagleg leiarein som handlar etter avtale med ein styremedlem eller dagleg leiar.Ved vurderinga av kven som er nærståande etter andre punktum bokstav a, gjeld [aksjeloven § 1-5 første ledd](lov/1997-06-13-44/§1-5/ledd/1) tilsvarande.
+(1) Føretaksmøtet skal godkjenne avtalar mellom føretaket og ein styremedlem eller dagleg leiar når ytinga til føretaket på det tidspunktet avtalen blir inngått, har ein verdi som er lik eller større enn to gonger grunnbeløpet i folketrygda. Det same gjeld avtalar mellom føretaket og
+
+1. ein nærståande til ein styremedlem eller dagleg leiar
+2. ein som handlar etter avtale med ein styremedlem eller dagleg leiar.
+
+Ved vurderinga av kven som er nærståande etter andre punktum bokstav a, gjeld [aksjeloven § 1-5 første ledd](lov/1997-06-13-44/§1-5/ledd/1) tilsvarande.
 
 (2) Styret skal sørgje for at avtalen blir greidd ut. [Allmennaksjeloven § 3-14](lov/1997-06-13-45/§3-14) gjeld tilsvarande.
 
 (3) Ein avtale som er inngått i strid med første ledd, er ikkje bindande for føretaket om føretaket godtgjer at medkontrahenten forstod eller burde ha forstått at føretaksmøtet ikkje har godkjent avtalen. Utdeling etter ein avtale som ikkje bind føretaket etter første punktum, skal tilbakeførast. [Aksjeloven § 3-7 andre ledd](lov/1997-06-13-44/§3-7/ledd/2) gjeld tilsvarande.
 
-(4) Føresegnene i denne paragrafen gjeld ikkjeavtale som blir inngått som ledd i den vanlege verksemda i føretaket, og som er grunna på vanlege forretningsmessige vilkår og prinsippavtale om løn og godtgjersle til dagleg leiar og avtale som nemnd i [§ 5-9](lov/2025-04-10-9/§5-9).
+(4) Føresegnene i denne paragrafen gjeld ikkje
+
+1. avtale som blir inngått som ledd i den vanlege verksemda i føretaket, og som er grunna på vanlege forretningsmessige vilkår og prinsipp
+2. avtale om løn og godtgjersle til dagleg leiar og avtale som nemnd i [§ 5-9](lov/2025-04-10-9/§5-9).
 
 ### § 3-14. Konserninterne transaksjonar
 
@@ -206,7 +231,10 @@ Gjennom føretaksmøtet utøver departementet det øvste myndet i føretaket. De
 
 (1) Innan seks månader etter utgangen av kvart rekneskapsår skal det haldast ordinært føretaksmøte.
 
-(2) På det ordinære føretaksmøtet skal følgande saker handsamast og vedtakast:godkjenning av årsrekneskapen og eventuell årsmelding, inklusive utdeling av utbyteandre saker som etter lova eller vedtektene høyrer under føretaksmøtet.
+(2) På det ordinære føretaksmøtet skal følgande saker handsamast og vedtakast:
+
+1. godkjenning av årsrekneskapen og eventuell årsmelding, inklusive utdeling av utbyte
+2. andre saker som etter lova eller vedtektene høyrer under føretaksmøtet.
 
 (3) Årsrekneskapen, årsmeldinga og revisjonsmeldinga skal leggjast ved innkallinga til det ordinære føretaksmøtet.
 
@@ -228,7 +256,11 @@ Gjennom føretaksmøtet utøver departementet det øvste myndet i føretaket. De
 
 ### § 4-6. Opplysningsplikta til leiinga
 
-(1) Departementet kan krevje at styremedlemer og dagleg leiar på føretaksmøtet gir tilgjengelege opplysningar om forhold som kan innverke på vurderinga avgodkjenninga av årsrekneskapen og årsmeldingasaker som er presenterte for føretaksmøtet til avgjerdden økonomiske stillinga i føretaket, inklusive verksemda i andre selskap som føretaket deltek i, og andre saker som føretaksmøtet skal handsame, med mindre dei opplysningane som krevst, vil valde føretaket uforholdsmessig skade.
+(1) Departementet kan krevje at styremedlemer og dagleg leiar på føretaksmøtet gir tilgjengelege opplysningar om forhold som kan innverke på vurderinga av
+
+1. godkjenninga av årsrekneskapen og årsmeldinga
+2. saker som er presenterte for føretaksmøtet til avgjerd
+3. den økonomiske stillinga i føretaket, inklusive verksemda i andre selskap som føretaket deltek i, og andre saker som føretaksmøtet skal handsame, med mindre dei opplysningane som krevst, vil valde føretaket uforholdsmessig skade.
 
 (2) Dersom leiinga må innhente opplysningar, slik at svar ikkje kan bli gitt på føretaksmøtet, skal leiinga sende skriftleg svar til departementet innan to veker etter møtet.
 
@@ -520,7 +552,10 @@ Riksrevisjonen fører kontroll med forvaltninga av interessene til staten og kan
 
 ### § 7-2. Fisjon (deling) av statsføretak
 
-(1) Kongen i statsråd kan gjere vedtak om at eit statsføretak (det overdragande føretaket) skalfordele eigedelane, rettane og forpliktingane sine på føretaket sjølv og eitt eller fleire overtakande statsføretak, ellerfordele eigedelane, rettane og forpliktingane sine på to eller fleire overtakande statsføretak.
+(1) Kongen i statsråd kan gjere vedtak om at eit statsføretak (det overdragande føretaket) skal
+
+1. fordele eigedelane, rettane og forpliktingane sine på føretaket sjølv og eitt eller fleire overtakande statsføretak, eller
+2. fordele eigedelane, rettane og forpliktingane sine på to eller fleire overtakande statsføretak.
 
 (2) Styret i det overdragande føretaket skal utarbeide ein fisjonsplan. [Aksjeloven §§ 13-6](lov/1997-06-13-44/§13-6), [13-9](lov/1997-06-13-44/§13-9), [13-11](lov/1997-06-13-44/§13-11) og [14-4 første ledd nr. 1](lov/1997-06-13-44/§14-4/ledd/1/nummer/1) gjeld tilsvarande så langt føresegnene passar. Ved fisjon ved overføring til eksisterande føretak skal styra i dei føretaka som deltek, utarbeide ein felles fisjonsplan.
 
@@ -530,7 +565,10 @@ Riksrevisjonen fører kontroll med forvaltninga av interessene til staten og kan
 
 ### § 7-3. Fusjon (samanslåing) av eit statsføretak med eit aksjeselskap eller allmennaksjeselskap
 
-(1) Kongen i statsråd kan gjere vedtak om at eit statsføretak (det overdragande føretaket) kan overdra eigedelane, rettane og forpliktingane sine som heilskap til eit aksjeselskap eller eit allmennaksjeselskap (det overtakande selskapet) mot at staten får ei av desse formene for vederlag:aksjar i det overtakande selskapetslike aksjar med eit tillegg som ikkje må overstige 20 prosent av det samla vederlaget.
+(1) Kongen i statsråd kan gjere vedtak om at eit statsføretak (det overdragande føretaket) kan overdra eigedelane, rettane og forpliktingane sine som heilskap til eit aksjeselskap eller eit allmennaksjeselskap (det overtakande selskapet) mot at staten får ei av desse formene for vederlag:
+
+1. aksjar i det overtakande selskapet
+2. slike aksjar med eit tillegg som ikkje må overstige 20 prosent av det samla vederlaget.
 
 (2) Ved fusjonen gjeld reglane om fusjon i [aksjeloven §§ 13-3](lov/1997-06-13-44/§13-3) til [13-22](lov/1997-06-13-44/§13-22) tilsvarande dersom det overtakande selskapet er eit aksjeselskap, og reglane om fusjon i [allmennaksjeloven §§ 13-3](lov/1997-06-13-45/§13-3) til [13-23](lov/1997-06-13-45/§13-23) dersom det overtakande selskapet er eit allmennaksjeselskap. Når reglane i [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven](lov/1997-06-13-45) blir nytta, er det føretaksmøtet som blir rekna som generalforsamlinga til det overdragande føretaket.
 

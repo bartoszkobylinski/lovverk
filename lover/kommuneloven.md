@@ -15,7 +15,7 @@ xml_hash: "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,11 +90,29 @@ Kommuner og fylkeskommuner skal aktivt informere om egen virksomhet og om virkso
 
 Folkevalgte organer skal opprettes etter bestemmelsene i denne loven eller etter bestemmelser om slike organer i andre lover.
 
-Folkevalgte organer etter denne loven erkommunestyre og fylkestingformannskap og fylkesutvalgkommuneråd og fylkesrådutvalg, inkludert kommunedelsutvalg og kontrollutvalgarbeidsutvalgfelles, folkevalgt nemnd i vertskommunesamarbeidkommunestyre- og fylkestingskomiteerstyret for deler av den kommunale eller fylkeskommunale virksomheten i parlamentarisk styrte kommuner eller fylkeskommunerrepresentantskap og andre styringsorganer for et interkommunalt politisk rådrepresentantskap for et kommunalt oppgavefellesskapet kommunalt eller fylkeskommunalt folkevalgt organ hjemlet i særlov.
+Folkevalgte organer etter denne loven er
+
+1. kommunestyre og fylkesting
+2. formannskap og fylkesutvalg
+3. kommuneråd og fylkesråd
+4. utvalg, inkludert kommunedelsutvalg og kontrollutvalg
+5. arbeidsutvalg
+6. felles, folkevalgt nemnd i vertskommunesamarbeid
+7. kommunestyre- og fylkestingskomiteer
+8. styret for deler av den kommunale eller fylkeskommunale virksomheten i parlamentarisk styrte kommuner eller fylkeskommuner
+9. representantskap og andre styringsorganer for et interkommunalt politisk råd
+10. representantskap for et kommunalt oppgavefellesskap
+11. et kommunalt eller fylkeskommunalt folkevalgt organ hjemlet i særlov.
 
 Folkevalgte organer som er nevnt i andre ledd bokstav a til d og g, skal ha navn som inkluderer den betegnelsen som er brukt om organet der. I navnet kan betegnelsen by eller herad brukes i stedet for betegnelsen kommune.
 
-Med folkevalgte menes i denne lovenmedlemmer av kommunestyret og fylkestingetpersoner som et folkevalgt organ har valgt inn i et folkevalgt organ eller et annet kommunalt organ etter [§ 5-2](lov/2018-06-22-83/§5-2)medlemmer til kommunedelsutvalg valgt ved direkte valg etter [§ 5-8](lov/2018-06-22-83/§5-8)kommunerådsleder og fylkesrådsleder utpekt av ordføreren etter [§ 10-5](lov/2018-06-22-83/§10-5) første leddmedlemmer av kommunerådet eller fylkesrådet som er utnevnt av kommunerådslederen eller fylkesrådslederen etter [§ 10-5](lov/2018-06-22-83/§10-5) andre ledd.
+Med folkevalgte menes i denne loven
+
+1. medlemmer av kommunestyret og fylkestinget
+2. personer som et folkevalgt organ har valgt inn i et folkevalgt organ eller et annet kommunalt organ etter [§ 5-2](lov/2018-06-22-83/§5-2)
+3. medlemmer til kommunedelsutvalg valgt ved direkte valg etter [§ 5-8](lov/2018-06-22-83/§5-8)
+4. kommunerådsleder og fylkesrådsleder utpekt av ordføreren etter [§ 10-5](lov/2018-06-22-83/§10-5) første ledd
+5. medlemmer av kommunerådet eller fylkesrådet som er utnevnt av kommunerådslederen eller fylkesrådslederen etter [§ 10-5](lov/2018-06-22-83/§10-5) andre ledd.
 
 Personer nevnt i [§ 7-3](lov/2018-06-22-83/§7-3) første ledd bokstav b og c og som er valgt inn i underordnet styringsorgan i kommunalt oppgavefellesskap, er likevel ikke å anse som folkevalgte.
 
@@ -104,7 +122,13 @@ Personer nevnt i [§ 7-3](lov/2018-06-22-83/§7-3) første ledd bokstav b og c o
 
 Andre kommunale organer skal opprettes etter bestemmelsene i denne loven.
 
-Andre kommunale organer etter denne loven erpartssammensatte utvalgstyret for en institusjonunderordnete styringsorganer for et kommunalt oppgavefellesskapstyret for et kommunalt eller fylkeskommunalt foretakeldreråd, råd for personer med funksjonsnedsettelse og ungdomsråd eller annet medvirkningsorgan for ungdom, og arbeidsutvalg for disse.
+Andre kommunale organer etter denne loven er
+
+1. partssammensatte utvalg
+2. styret for en institusjon
+3. underordnete styringsorganer for et kommunalt oppgavefellesskap
+4. styret for et kommunalt eller fylkeskommunalt foretak
+5. eldreråd, råd for personer med funksjonsnedsettelse og ungdomsråd eller annet medvirkningsorgan for ungdom, og arbeidsutvalg for disse.
 
 For øvrig gjelder de samme bestemmelsene som for folkevalgte organer etter [§ 5-1](lov/2018-06-22-83/§5-1).
 
@@ -128,9 +152,20 @@ For andre saker kan kommunestyret og fylkestinget delegere myndighet til å tref
 
 Kommunestyrets og fylkestingets medlemmer velges etter regler som er fastsatt i lov.
 
-Kommunestyret fastsetter selv medlemstallet sitt. Medlemstallet skal være et oddetall, og det skal oppfylle følgende krav til minste antall medlemmer:Kommunestyret skal ha minst 11 medlemmer i kommuner som ikke har over 5 000 innbyggere.Kommunestyret skal ha minst 19 medlemmer i kommuner med over 5 000, men ikke over 10 000 innbyggere.Kommunestyret skal ha minst 27 medlemmer i kommuner med over 10 000, men ikke over 50 000 innbyggere.Kommunestyret skal ha minst 35 medlemmer i kommuner med over 50 000 innbyggere, men ikke over 100 000 innbyggere.Kommunestyret skal ha minst 43 medlemmer i kommuner med over 100 000 innbyggere.
+Kommunestyret fastsetter selv medlemstallet sitt. Medlemstallet skal være et oddetall, og det skal oppfylle følgende krav til minste antall medlemmer:
 
-Fylkestinget fastsetter selv medlemstallet sitt. Medlemstallet skal være et oddetall, og det skal oppfylle følgende krav til minste antall medlemmer:Fylkestinget skal ha minst 19 medlemmer i fylkeskommuner som ikke har over 150 000 innbyggere.Fylkestinget skal ha minst 27 medlemmer i fylkeskommuner med over 150 000, men ikke over 200 000 innbyggere.Fylkestinget skal ha minst 35 medlemmer i fylkeskommuner med over 200 000, men ikke over 300 000 innbyggere.Fylkestinget skal ha minst 43 medlemmer i fylkeskommuner med over 300 000 innbyggere.
+1. Kommunestyret skal ha minst 11 medlemmer i kommuner som ikke har over 5 000 innbyggere.
+2. Kommunestyret skal ha minst 19 medlemmer i kommuner med over 5 000, men ikke over 10 000 innbyggere.
+3. Kommunestyret skal ha minst 27 medlemmer i kommuner med over 10 000, men ikke over 50 000 innbyggere.
+4. Kommunestyret skal ha minst 35 medlemmer i kommuner med over 50 000 innbyggere, men ikke over 100 000 innbyggere.
+5. Kommunestyret skal ha minst 43 medlemmer i kommuner med over 100 000 innbyggere.
+
+Fylkestinget fastsetter selv medlemstallet sitt. Medlemstallet skal være et oddetall, og det skal oppfylle følgende krav til minste antall medlemmer:
+
+1. Fylkestinget skal ha minst 19 medlemmer i fylkeskommuner som ikke har over 150 000 innbyggere.
+2. Fylkestinget skal ha minst 27 medlemmer i fylkeskommuner med over 150 000, men ikke over 200 000 innbyggere.
+3. Fylkestinget skal ha minst 35 medlemmer i fylkeskommuner med over 200 000, men ikke over 300 000 innbyggere.
+4. Fylkestinget skal ha minst 43 medlemmer i fylkeskommuner med over 300 000 innbyggere.
 
 Hvis kommunestyret eller fylkestinget vil endre medlemstallet, må de selv vedta dette innen utgangen av desember i nest siste år av valgperioden. Endringen gjelder fra neste valgperiode.
 
@@ -230,7 +265,11 @@ Departementet gir forskrift om oppgaver, organisering og saksbehandling for råd
 
 ### § 5-13. Reglement for folkevalgte organer
 
-Folkevalgte organer skal ha et reglement som fastsetterorganets virkeområde og eventuelle vedtaksmyndighettidsperioden som organet er opprettet foreventuelle andre sentrale bestemmelser om organets virksomhet.
+Folkevalgte organer skal ha et reglement som fastsetter
+
+1. organets virkeområde og eventuelle vedtaksmyndighet
+2. tidsperioden som organet er opprettet for
+3. eventuelle andre sentrale bestemmelser om organets virksomhet.
 
 Plikten etter første ledd gjelder ikke representantskap og andre styringsorganer for interkommunalt politisk råd, representantskap og andre styringsorganer for kommunalt oppgavefellesskap og styre for kommunalt eller fylkeskommunalt foretak.
 
@@ -254,7 +293,11 @@ Ordføreren er rettslig representant for kommunen eller fylkeskommunen og unders
 
 Ordføreren har møte-, tale- og forslagsrett i alle kommunale eller fylkeskommunale folkevalgte organer unntatt kommune- og fylkesråd og organer under dem. I kontrollutvalget har ordføreren likevel bare møte- og talerett. Ordføreren har bare stemmerett i organer der han eller hun er valgt medlem. Ordføreren kan la et annet medlem av kommunestyret eller fylkestinget representere seg i de organene som han eller hun ikke er medlem av.
 
-Kommunestyret og fylkestinget kan selv gi ordføreren myndighet til åtreffe vedtak i saker som ikke har prinsipiell betydningtreffe vedtak i hastesaker etter [§ 11-8](lov/2018-06-22-83/§11-8) første leddopprette utvalg som skal forberede saker som ikke har prinsipiell betydning.
+Kommunestyret og fylkestinget kan selv gi ordføreren myndighet til å
+
+1. treffe vedtak i saker som ikke har prinsipiell betydning
+2. treffe vedtak i hastesaker etter [§ 11-8](lov/2018-06-22-83/§11-8) første ledd
+3. opprette utvalg som skal forberede saker som ikke har prinsipiell betydning.
 
 Formannskapet og fylkesutvalget kan selv gi ordføreren myndighet til å treffe vedtak i saker som ikke har prinsipiell betydning, hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.
 
@@ -294,11 +337,26 @@ Hvis de nyvalgte kommunestyremedlemmene eller fylkestingsmedlemmene blir sittend
 
 ### § 7-2. Valgbarhet og plikt til å ta imot valg
 
-Denne bestemmelsen gjelder ved valg tilkommuneråd og fylkesrådutvalg, inkludert kommunedelsutvalg, kontrollutvalg og partssammensatte utvalgfelles, folkevalgt nemnd i vertskommunesamarbeidstyret for en institusjonstyrer etter [§ 10-8](lov/2018-06-22-83/§10-8)representantskap og andre styringsorganer for et interkommunalt politisk rådrepresentantskap og andre styringsorganer for et kommunalt oppgavefellesskapstyret for kommunalt eller fylkeskommunalt foretaket kommunalt eller fylkeskommunalt folkevalgt organ hjemlet i særlovarbeidsutvalg valgt av kommunedelsutvalg.
+Denne bestemmelsen gjelder ved valg til
+
+1. kommuneråd og fylkesråd
+2. utvalg, inkludert kommunedelsutvalg, kontrollutvalg og partssammensatte utvalg
+3. felles, folkevalgt nemnd i vertskommunesamarbeid
+4. styret for en institusjon
+5. styrer etter [§ 10-8](lov/2018-06-22-83/§10-8)
+6. representantskap og andre styringsorganer for et interkommunalt politisk råd
+7. representantskap og andre styringsorganer for et kommunalt oppgavefellesskap
+8. styret for kommunalt eller fylkeskommunalt foretak
+9. et kommunalt eller fylkeskommunalt folkevalgt organ hjemlet i særlov
+10. arbeidsutvalg valgt av kommunedelsutvalg.
 
 Valgbarhet og plikt til å ta imot valg til kommunestyret og fylkestinget er regulert i [valgloven §§ 3-2](lov/2023-06-16-62/§3-2) og [3-4](lov/2023-06-16-62/§3-4).
 
-En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:Han eller hun har stemmerett ved kommunestyre- og fylkestingsvalg.Han eller hun er innført i folkeregisteret som bosatt i kommunen eller i en av kommunene i fylket på tidspunktet for det aktuelle valget.Han eller hun har skriftlig samtykket til å stille til valg.
+En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:
+
+1. Han eller hun har stemmerett ved kommunestyre- og fylkestingsvalg.
+2. Han eller hun er innført i folkeregisteret som bosatt i kommunen eller i en av kommunene i fylket på tidspunktet for det aktuelle valget.
+3. Han eller hun har skriftlig samtykket til å stille til valg.
 
 Når styret for en institusjon, et styre etter [§ 10-8](lov/2018-06-22-83/§10-8), et annet styringsorgan for kommunalt oppgavefellesskap enn representantskapet, eller styret for et kommunalt eller fylkeskommunalt foretak skal velges, er også de som er innført i folkeregisteret som bosatt i en annen kommune når valget skjer, valgbare.
 
@@ -312,11 +370,26 @@ Personer som ikke har nådd stemmerettsalderen, men som for øvrig fyller vilkå
 
 ### § 7-3. Utelukket fra valg
 
-Utelukket fra valg til organer nevnt i [§ 7-2](lov/2018-06-22-83/§7-2) erstatsforvalteren og assisterende statsforvalterkommunedirektøren i kommunen eller fylkeskommunen og hans eller hennes stedfortrederkommunalsjefer, etatssjefer og ledere på tilsvarende nivåsekretærer for kommunestyret eller fylkestingetden som har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunende som foretar revisjon av kommunen eller fylkeskommunenansatte i sekretariatet som utfører tjenester for kontrollutvalget i kommunen eller fylkeskommunenansatte i sekretariatet til kommunerådet eller fylkesrådet som har fått delegert myndighet fra rådet.
+Utelukket fra valg til organer nevnt i [§ 7-2](lov/2018-06-22-83/§7-2) er
+
+1. statsforvalteren og assisterende statsforvalter
+2. kommunedirektøren i kommunen eller fylkeskommunen og hans eller hennes stedfortreder
+3. kommunalsjefer, etatssjefer og ledere på tilsvarende nivå
+4. sekretærer for kommunestyret eller fylkestinget
+5. den som har ansvaret for regnskapsfunksjonen i kommunen eller fylkeskommunen
+6. de som foretar revisjon av kommunen eller fylkeskommunen
+7. ansatte i sekretariatet som utfører tjenester for kontrollutvalget i kommunen eller fylkeskommunen
+8. ansatte i sekretariatet til kommunerådet eller fylkesrådet som har fått delegert myndighet fra rådet.
 
 Første ledd bokstav b og c gjelder ikke ved valg til underordnete styringsorganer i kommunale oppgavefellesskap.
 
-Medlemmer og varamedlemmer av kontrollutvalget kan ikke velges somordfører eller varaordførermedlem eller varamedlem av formannskap eller fylkesutvalgmedlem eller varamedlem av kommunalt eller fylkeskommunalt folkevalgt organ med beslutningsmyndighetmedlem av kommuneråd eller fylkesrådmedlem eller varamedlem av kommunestyrekomité eller fylkestingskomité.
+Medlemmer og varamedlemmer av kontrollutvalget kan ikke velges som
+
+1. ordfører eller varaordfører
+2. medlem eller varamedlem av formannskap eller fylkesutvalg
+3. medlem eller varamedlem av kommunalt eller fylkeskommunalt folkevalgt organ med beslutningsmyndighet
+4. medlem av kommuneråd eller fylkesråd
+5. medlem eller varamedlem av kommunestyrekomité eller fylkestingskomité.
 
 Ved valg til kommunedelsutvalg kan kommunestyret selv vedta at bare de som er innført i folkeregisteret som bosatt i kommunedelen, er valgbare.
 
@@ -508,7 +581,13 @@ I kommuner og fylkeskommuner med parlamentarisk styreform kan kommunestyret elle
 
 ### § 9-3. Vedtekter
 
-Foretaket skal ha vedtekter som minst skal angiforetakets navnforetakets formålnavnet på den kommunen der foretaket skal ha sitt forretningskontorantallet styremedlemmerannet som etter lov skal fastsettes i vedtekter.
+Foretaket skal ha vedtekter som minst skal angi
+
+1. foretakets navn
+2. foretakets formål
+3. navnet på den kommunen der foretaket skal ha sitt forretningskontor
+4. antallet styremedlemmer
+5. annet som etter lov skal fastsettes i vedtekter.
 
 Endringer i vedtektene vedtas av kommunestyret eller fylkestinget selv.
 
@@ -584,7 +663,13 @@ Kommunale og fylkeskommunale foretak skal ha internkontroll med foretakets virks
 
 Internkontrollen skal være systematisk og tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold.
 
-Ved internkontroll etter denne paragrafen skal daglig lederutarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organiseringha nødvendige rutiner og prosedyreravdekke og følge opp avvik og risiko for avvikdokumentere internkontrollen i den formen og det omfanget som er nødvendigevaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal daglig leder
+
+1. utarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organisering
+2. ha nødvendige rutiner og prosedyrer
+3. avdekke og følge opp avvik og risiko for avvik
+4. dokumentere internkontrollen i den formen og det omfanget som er nødvendig
+5. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
 
 ### § 9-14. Rapportering til styret i foretaket om internkontroll og statlig tilsyn
 
@@ -726,7 +811,11 @@ For styret i et kommunalt eller fylkeskommunalt foretak gjelder bare [§ 11-3](l
 
 Folkevalgte organer skal behandle saker og treffe vedtak i møter.
 
-Møter i folkevalgte organer skal holdes hvis ett av følgende vilkår er oppfylt:Organet selv, kommunestyret eller fylkestinget vedtar det.Organets leder mener det er nødvendig.Minst 1/3 av medlemmene krever det.
+Møter i folkevalgte organer skal holdes hvis ett av følgende vilkår er oppfylt:
+
+1. Organet selv, kommunestyret eller fylkestinget vedtar det.
+2. Organets leder mener det er nødvendig.
+3. Minst 1/3 av medlemmene krever det.
 
 Møter i folkevalgte organer ledes av organets leder eller nestleder. Hvis begge har forfall, velges en særskilt møteleder ved flertallsvalg.
 
@@ -748,7 +837,13 @@ Et folkevalgt organ kan fatte vedtak i en sak som ikke er oppført på saksliste
 
 ### § 11-4. Møtebok
 
-Det skal føres møtebok for møter i alle folkevalgte organer. Med unntak av delene som er unntatt fra offentlighet, skal møteboken være tilgjengelig for allmennheten. Møteboken skal inneholde opplysninger omtid og sted for møtethvem som møtte, og hvem som var fraværendehvilke saker som ble behandlethvilke vedtak som ble truffetavstemningsresultat.
+Det skal føres møtebok for møter i alle folkevalgte organer. Med unntak av delene som er unntatt fra offentlighet, skal møteboken være tilgjengelig for allmennheten. Møteboken skal inneholde opplysninger om
+
+1. tid og sted for møtet
+2. hvem som møtte, og hvem som var fraværende
+3. hvilke saker som ble behandlet
+4. hvilke vedtak som ble truffet
+5. avstemningsresultat.
 
 Hvis det blir vedtatt at et møte skal lukkes, skal hjemmelen for vedtaket tas inn i møteboken. Det samme gjelder for vedtak om at et medlem av organet er inhabilt eller får fritak av personlige grunner.
 
@@ -758,7 +853,10 @@ Alle har rett til å være til stede i møter i folkevalgte organer dersom ikke 
 
 Et folkevalgt organ skal vedta å lukke et møte når det skal behandle en sak som angår en arbeidstakers tjenstlige forhold. Organet skal også vedta å lukke et møte når det behandler en sak som inneholder opplysninger som er omfattet av lovbestemt taushetsplikt.
 
-Et folkevalgt organ kan vedta å lukke et møte hvis ett av følgende vilkår er oppfylt:Hensynet til personvern krever at møtet lukkes.Hensynet til tungtveiende offentlige interesser tilsier at møtet lukkes, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt fra innsyn etter offentleglova hvis de hadde stått i et dokument.
+Et folkevalgt organ kan vedta å lukke et møte hvis ett av følgende vilkår er oppfylt:
+
+1. Hensynet til personvern krever at møtet lukkes.
+2. Hensynet til tungtveiende offentlige interesser tilsier at møtet lukkes, og det vil komme fram opplysninger i møtet som kunne ha vært unntatt fra innsyn etter offentleglova hvis de hadde stått i et dokument.
 
 Kommunerådet eller fylkesrådet bestemmer selv om et møte i rådet skal være åpent. Hvis rådet skal behandle saker som er omtalt i andre ledd, skal møtet være lukket.
 
@@ -912,7 +1010,13 @@ Kommuner og fylkeskommuner skal forvalte finansielle midler og gjeld på en måt
 
 ### § 14-2. Kommunestyrets og fylkestingets plikter
 
-Kommunestyret og fylkestinget skal selv vedtaøkonomiplanen og årsbudsjettetårsregnskapene og årsberetningenefinansielle måltall for utviklingen av kommunens eller fylkeskommunens økonomiregler for økonomiforvaltningen (økonomireglement)regler for finans- og gjeldsforvaltningen (finansreglement).
+Kommunestyret og fylkestinget skal selv vedta
+
+1. økonomiplanen og årsbudsjettet
+2. årsregnskapene og årsberetningene
+3. finansielle måltall for utviklingen av kommunens eller fylkeskommunens økonomi
+4. regler for økonomiforvaltningen (økonomireglement)
+5. regler for finans- og gjeldsforvaltningen (finansreglement).
 
 ### § 14-3. Behandling av økonomiplan, årsbudsjett, årsregnskap og årsberetning
 
@@ -952,11 +1056,21 @@ Hvis årsregnskapet legges fram med et merforbruk i driftsregnskapet, skal kommu
 
 ### § 14-6. Årsregnskap og bokføring
 
-Kommuner og fylkeskommuner skal utarbeide følgende årsregnskap:regnskap for kommunekassen eller fylkeskommunekassenregnskap for hvert kommunalt eller fylkeskommunalt foretakregnskap for annen virksomhet som er en del av kommunen eller fylkeskommunen som rettssubjekt, og som skal ha eget regnskap i medhold av lov eller forskriftsamlet regnskap for kommunen eller fylkeskommunen som juridisk enhet.
+Kommuner og fylkeskommuner skal utarbeide følgende årsregnskap:
+
+1. regnskap for kommunekassen eller fylkeskommunekassen
+2. regnskap for hvert kommunalt eller fylkeskommunalt foretak
+3. regnskap for annen virksomhet som er en del av kommunen eller fylkeskommunen som rettssubjekt, og som skal ha eget regnskap i medhold av lov eller forskrift
+4. samlet regnskap for kommunen eller fylkeskommunen som juridisk enhet.
 
 Årsregnskapene skal bestå av et driftsregnskap og et investeringsregnskap. Driftsregnskapet og investeringsregnskapet skal deles inn og stilles opp på samme måte som årsbudsjettet. Årsregnskapene skal også bestå av et balanseregnskap og noteopplysninger.
 
-Årsregnskapene skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:All tilgang på og bruk av midler i året skal framgå av driftsregnskapet eller investeringsregnskapet.All tilgang på og bruk av midler skal regnskapsføres brutto.Alle kjente utgifter og inntekter i året skal tas med i årsregnskapet for vedkommende år, enten de er betalt eller ikke når årsregnskapet avsluttes.Hvis størrelsen på et beløp er usikkert, brukes beste estimat.
+Årsregnskapene skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:
+
+1. All tilgang på og bruk av midler i året skal framgå av driftsregnskapet eller investeringsregnskapet.
+2. All tilgang på og bruk av midler skal regnskapsføres brutto.
+3. Alle kjente utgifter og inntekter i året skal tas med i årsregnskapet for vedkommende år, enten de er betalt eller ikke når årsregnskapet avsluttes.
+4. Hvis størrelsen på et beløp er usikkert, brukes beste estimat.
 
 Årsregnskapene skal føres i samsvar med god kommunal regnskapsskikk.
 
@@ -970,7 +1084,14 @@ Departementet kan gi forskrift om årsregnskapene, regnskapsføringen, regnskaps
 
 Kommuner og fylkeskommuner skal utarbeide en årsberetning for kommunens eller fylkeskommunens samlete virksomhet. Det skal også utarbeides en egen årsberetning for hvert kommunalt eller fylkeskommunalt foretak.
 
-Årsberetningene skal redegjøre forforhold som er viktige for å bedømme den økonomiske utviklingen og stillingen, og om den økonomiske utviklingen og stillingen ivaretar den økonomiske handleevnen over tidvesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet, og vesentlige avvik fra kommunestyrets eller fylkestingets premisser for bruken av bevilgningenevirksomhetens måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for kommunen eller fylkeskommunen eller innbyggernetiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre en høy etisk standardden faktiske tilstanden når det gjelder kjønnslikestillinghva kommunen eller fylkeskommunen gjør for å oppfylle arbeidsgivers aktivitetsplikt etter [likestillings- og diskrimineringsloven § 26](lov/2017-06-16-51/§26).
+Årsberetningene skal redegjøre for
+
+1. forhold som er viktige for å bedømme den økonomiske utviklingen og stillingen, og om den økonomiske utviklingen og stillingen ivaretar den økonomiske handleevnen over tid
+2. vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet, og vesentlige avvik fra kommunestyrets eller fylkestingets premisser for bruken av bevilgningene
+3. virksomhetens måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for kommunen eller fylkeskommunen eller innbyggerne
+4. tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre en høy etisk standard
+5. den faktiske tilstanden når det gjelder kjønnslikestilling
+6. hva kommunen eller fylkeskommunen gjør for å oppfylle arbeidsgivers aktivitetsplikt etter [likestillings- og diskrimineringsloven § 26](lov/2017-06-16-51/§26).
 
 Årsberetningene skal avgis senest 31. mars.
 
@@ -1052,7 +1173,11 @@ Kommuner og fylkeskommuner kan bare ta opp lån innenfor de rammene som kommunes
 
 Kommuner og fylkeskommuner kan etablere et lånefond. Et lånefond skal ha eget budsjett og regnskap. Bestemmelsene i denne paragrafen og [§§ 14-15](lov/2018-06-22-83/§14-15) til [14-17](lov/2018-06-22-83/§14-17) gjelder også for opptak av lån til lånefondet.
 
-Før kommuner eller fylkeskommunen inngår låneavtaler, skal de dokumentere overfor avtaleparten atlånet tas opp til et lovlig formållånet er innenfor de rammene som kommunestyret eller fylkestinget har vedtatttiltaket som lånet skal finansiere, har hjemmel i en bevilgning i investeringsbudsjettet, hvis lånet tas opp etter [§ 14-15](lov/2018-06-22-83/§14-15) første eller andre ledd, [§ 14-16](lov/2018-06-22-83/§14-16) eller [§ 14-17](lov/2018-06-22-83/§14-17) første ledd eller til formål som har hjemmel i annen lov.
+Før kommuner eller fylkeskommunen inngår låneavtaler, skal de dokumentere overfor avtaleparten at
+
+1. lånet tas opp til et lovlig formål
+2. lånet er innenfor de rammene som kommunestyret eller fylkestinget har vedtatt
+3. tiltaket som lånet skal finansiere, har hjemmel i en bevilgning i investeringsbudsjettet, hvis lånet tas opp etter [§ 14-15](lov/2018-06-22-83/§14-15) første eller andre ledd, [§ 14-16](lov/2018-06-22-83/§14-16) eller [§ 14-17](lov/2018-06-22-83/§14-17) første ledd eller til formål som har hjemmel i annen lov.
 
 En avtale om lån er ikke gyldig hvis kommunens eller fylkeskommunens långiver forsto eller burde ha forstått at låneopptaket er i strid med første eller andre ledd.
 
@@ -1060,7 +1185,11 @@ En avtale om lån er ikke gyldig hvis kommunens eller fylkeskommunens långiver 
 
 Kommuner og fylkeskommuner kan ta opp lån for å finansiere investeringer i varige driftsmidler som skal eies av kommunen eller fylkeskommunen selv. Det kan ikke tas opp lån for den delen av anskaffelseskost som blir kompensert etter merverdiavgiftskompensasjonsloven.
 
-Kommuner og fylkeskommuner kan ta opp lån for å finansiere kjøp av alle aksjene i et eiendomsselskap som skal eies av kommunen eller fylkeskommunen selv, hvis eiendomsselskapet ikke harannen virksomhet enn å eie fast eiendom og å drifte dennevesentlige forpliktelser som gjelder annet enn eiendommenandre ansatte enn daglig leder.
+Kommuner og fylkeskommuner kan ta opp lån for å finansiere kjøp av alle aksjene i et eiendomsselskap som skal eies av kommunen eller fylkeskommunen selv, hvis eiendomsselskapet ikke har
+
+1. annen virksomhet enn å eie fast eiendom og å drifte denne
+2. vesentlige forpliktelser som gjelder annet enn eiendommen
+3. andre ansatte enn daglig leder.
 
 Kommuner og fylkeskommuner kan inngå avtale om driftskreditt eller ta opp likviditetslån.
 
@@ -1074,7 +1203,13 @@ Kommuner og fylkeskommuner kan ta opp lån for å innfri garantiansvar i form av
 
 ### § 14-17. Lån til videre utlån og mottatte avdrag på videreutlån
 
-Kommuner og fylkeskommuner kan ta opp lån for å finansiere videre utlån hvislåntakeren skal bruke midlene til investeringerlåntakeren ikke driver næringsvirksomhetutlånet ikke innebærer en vesentlig økonomisk risiko for kommunen eller fylkeskommunen.Første punktum bokstav c gjelder ikke for lån til boligsosiale formål.
+Kommuner og fylkeskommuner kan ta opp lån for å finansiere videre utlån hvis
+
+1. låntakeren skal bruke midlene til investeringer
+2. låntakeren ikke driver næringsvirksomhet
+3. utlånet ikke innebærer en vesentlig økonomisk risiko for kommunen eller fylkeskommunen.
+
+Første punktum bokstav c gjelder ikke for lån til boligsosiale formål.
 
 Mottatte avdrag på videreutlån kan i årsbudsjettet bare finansiere avdrag på lån eller nye utlån.
 
@@ -1122,7 +1257,11 @@ Hvis det er fastsatt i lov eller forskrift at kommunale eller fylkeskommunale ge
 
 Samlet selvkost for en tjeneste skal tilsvare merkostnaden ved å yte tjenesten.
 
-Samlet selvkost skal fastsettes ut fra følgende prinsipper:Kostnadene skal beregnes ut fra gjennomførte transaksjoner og anskaffelseskost.Investeringskostnadene skal beregnes ut fra avskrivningene på investeringene og beregnete rentekostnader.Investeringskostnadene skal fordeles over den tiden investeringene forventes å være i bruk.
+Samlet selvkost skal fastsettes ut fra følgende prinsipper:
+
+1. Kostnadene skal beregnes ut fra gjennomførte transaksjoner og anskaffelseskost.
+2. Investeringskostnadene skal beregnes ut fra avskrivningene på investeringene og beregnete rentekostnader.
+3. Investeringskostnadene skal fordeles over den tiden investeringene forventes å være i bruk.
 
 Departementet kan i forskrift fastsette nærmere regler om beregning av selvkost og gjøre unntak fra tredje ledd.
 
@@ -1198,7 +1337,16 @@ De enkelte kommunestyrene og fylkestingene i alle deltakerkommunene skal selv ve
 
 Representantskapet vedtar selv endringer i de delene av samarbeidsavtalen som gjelder andre forhold enn de som er nevnt i fjerde ledd. Slike endringer vedtas med minst 2/3 av de avgitte stemmene hvis ikke noe annet er fastsatt i samarbeidsavtalen. Det kan også fastsettes i samarbeidsavtalen at slike endringer skal vedtas av kommunestyret eller fylkestinget selv i samtlige deltakerkommuner.
 
-Samarbeidsavtalen skal fastsetterådets navnom rådet er et eget rettssubjekthvor mange medlemmer den enkelte deltakeren skal ha i representantskapethvilke saker rådet skal kunne behandlehvilken myndighet som er lagt til rådetden enkelte deltakerens eierandel i rådet og ansvarsandel for rådets forpliktelser hvis ansvarsandelen avviker fra eierandelenhvordan deltakerne kan tre ut av rådethvordan rådet skal oppløses, blant annet hvem som skal ha ansvaret for oppbevaringen av rådets arkiver etter at rådet er oppløst.
+Samarbeidsavtalen skal fastsette
+
+1. rådets navn
+2. om rådet er et eget rettssubjekt
+3. hvor mange medlemmer den enkelte deltakeren skal ha i representantskapet
+4. hvilke saker rådet skal kunne behandle
+5. hvilken myndighet som er lagt til rådet
+6. den enkelte deltakerens eierandel i rådet og ansvarsandel for rådets forpliktelser hvis ansvarsandelen avviker fra eierandelen
+7. hvordan deltakerne kan tre ut av rådet
+8. hvordan rådet skal oppløses, blant annet hvem som skal ha ansvaret for oppbevaringen av rådets arkiver etter at rådet er oppløst.
 
 ### Kapittel 19. Kommunalt oppgavefellesskap
 
@@ -1244,7 +1392,18 @@ De enkelte kommunestyrene og fylkestingene i alle deltakerkommunene skal selv ve
 
 Representantskapet i oppgavefellesskapet vedtar selv endringer i de delene av samarbeidsavtalen som gjelder andre forhold enn de som er nevnt i fjerde ledd. Slike endringer vedtas med tilslutning av minst 2/3 av de avgitte stemmene hvis ikke noe annet er fastsatt i samarbeidsavtalen. Det kan fastsettes i samarbeidsavtalen at slike endringer skal vedtas av kommunestyret eller fylkestinget selv i samtlige deltakerkommuner.
 
-Samarbeidsavtalen skal fastsetteoppgavefellesskapets navnom oppgavefellesskapet er et eget rettssubjekthvor mange medlemmer den enkelte deltakeren skal ha i representantskapethvilke oppgaver og hvilken myndighet som er lagt til oppgavefellesskapetdeltakernes innskuddsplikt og plikt til å yte andre bidrag til oppgavefellesskapetden enkelte deltakerens eierandel i oppgavefellesskapet og ansvarsandel for fellesskapets forpliktelser hvis ansvarsandelen avviker fra eierandelenom oppgavefellesskapet skal ha myndighet til å ta opp lånhva oppgavefellesskapet skal rapportere til deltakerne omhvordan deltakerne kan tre ut av oppgavefellesskapethvordan oppgavefellesskapet skal oppløses, blant annet hvem som skal ha ansvaret for at oppgavefellesskapets arkiver blir oppbevart etter at oppgavefellesskapet er oppløst.
+Samarbeidsavtalen skal fastsette
+
+1. oppgavefellesskapets navn
+2. om oppgavefellesskapet er et eget rettssubjekt
+3. hvor mange medlemmer den enkelte deltakeren skal ha i representantskapet
+4. hvilke oppgaver og hvilken myndighet som er lagt til oppgavefellesskapet
+5. deltakernes innskuddsplikt og plikt til å yte andre bidrag til oppgavefellesskapet
+6. den enkelte deltakerens eierandel i oppgavefellesskapet og ansvarsandel for fellesskapets forpliktelser hvis ansvarsandelen avviker fra eierandelen
+7. om oppgavefellesskapet skal ha myndighet til å ta opp lån
+8. hva oppgavefellesskapet skal rapportere til deltakerne om
+9. hvordan deltakerne kan tre ut av oppgavefellesskapet
+10. hvordan oppgavefellesskapet skal oppløses, blant annet hvem som skal ha ansvaret for at oppgavefellesskapets arkiver blir oppbevart etter at oppgavefellesskapet er oppløst.
 
 ### Kapittel 20. Vertskommune
 
@@ -1290,7 +1449,17 @@ Når et vertskommunesamarbeid opprettes, skal det inngås en skriftlig samarbeid
 
 De enkelte kommunestyrene eller fylkestingene i alle deltakerkommunene skal selv vedta samarbeidsavtalen og endringer som gjelder forhold som er nevnt i tredje og fjerde ledd.
 
-Samarbeidsavtalen skal inneholde bestemmelser omdeltakerne i samarbeidethvem av deltakerne som er vertskommunehvilke oppgaver og hvilken myndighet som skal legges til vertskommunennår oppgaver og myndighet skal overføreshvilke av vertskommunens vedtak deltakerne skal underrettes omhvordan det økonomiske oppgjøret mellom samarbeidskommunene og vertskommunen skal foregåhvordan deltakerne kan tre ut av samarbeidethvordan samarbeidet skal oppløsesannet som etter lov skal fastsettes i avtale.
+Samarbeidsavtalen skal inneholde bestemmelser om
+
+1. deltakerne i samarbeidet
+2. hvem av deltakerne som er vertskommune
+3. hvilke oppgaver og hvilken myndighet som skal legges til vertskommunen
+4. når oppgaver og myndighet skal overføres
+5. hvilke av vertskommunens vedtak deltakerne skal underrettes om
+6. hvordan det økonomiske oppgjøret mellom samarbeidskommunene og vertskommunen skal foregå
+7. hvordan deltakerne kan tre ut av samarbeidet
+8. hvordan samarbeidet skal oppløses
+9. annet som etter lov skal fastsettes i avtale.
 
 Avtaler om vertskommunesamarbeid med felles nemnd skal også inneholde bestemmelser om hvor mange medlemmer den enkelte deltakeren skal ha i nemnda.
 
@@ -1362,13 +1531,28 @@ Kommunestyret og fylkestinget velger selv et kontrollutvalg som skal føre løpe
 
 Kommunestyret og fylkestinget velger selv en leder, en nestleder og øvrige medlemmer og varamedlemmer til utvalget. Lederen kan ikke være medlem av samme parti eller tilhøre samme gruppe som ordføreren. Utvalget skal ha minst fem medlemmer. Minst ett medlem skal velges blant kommunestyrets eller fylkestingets medlemmer.
 
-Utelukket fra valg erordfører og varaordførermedlemmer og varamedlemmer av formannskap eller fylkesutvalgmedlemmer og varamedlemmer av folkevalgt organ med beslutningsmyndighet. Medlemmer og varamedlemmer av kommunestyret eller fylkestinget er likevel valgbaremedlemmer av kommuneråd eller fylkesrådmedlemmer og varamedlemmer av kommunestyrekomité eller fylkestingskomitéansatte i den aktuelle kommunen eller fylkeskommunenpersoner som har en ledende stilling, eller som er medlem eller varamedlem av styret eller bedriftsforsamlingen, i et selskap som kommunen eller fylkeskommunen har eierinteresser ipersoner som har en ledende stilling, eller som er medlem eller varamedlem av styret i et interkommunalt politisk råd eller et kommunalt oppgavefellesskap.
+Utelukket fra valg er
+
+1. ordfører og varaordfører
+2. medlemmer og varamedlemmer av formannskap eller fylkesutvalg
+3. medlemmer og varamedlemmer av folkevalgt organ med beslutningsmyndighet. Medlemmer og varamedlemmer av kommunestyret eller fylkestinget er likevel valgbare
+4. medlemmer av kommuneråd eller fylkesråd
+5. medlemmer og varamedlemmer av kommunestyrekomité eller fylkestingskomité
+6. ansatte i den aktuelle kommunen eller fylkeskommunen
+7. personer som har en ledende stilling, eller som er medlem eller varamedlem av styret eller bedriftsforsamlingen, i et selskap som kommunen eller fylkeskommunen har eierinteresser i
+8. personer som har en ledende stilling, eller som er medlem eller varamedlem av styret i et interkommunalt politisk råd eller et kommunalt oppgavefellesskap.
 
 Kommunestyret og fylkestinget kan når som helst velge medlemmer til utvalget på nytt. Hvis ett eller flere medlemmer av utvalget skal skiftes ut, skal alle medlemmene velges på nytt.
 
 ### § 23-2. Kontrollutvalgets ansvar og myndighet
 
-Kontrollutvalget skal påse atkommunens eller fylkeskommunens regnskaper blir revidert på en betryggende måtedet føres kontroll med at den økonomiske forvaltningen foregår i samsvar med gjeldende bestemmelser og vedtakdet utføres forvaltningsrevisjon av kommunens eller fylkeskommunens virksomhet, og av selskaper kommunen eller fylkeskommunen har eierinteresser idet føres kontroll med forvaltningen av kommunens eller fylkeskommunens eierinteresser i selskaper mv. (eierskapskontroll)vedtak som kommunestyret eller fylkestinget treffer ved behandlingen av revisjonsrapporter, blir fulgt opp.
+Kontrollutvalget skal påse at
+
+1. kommunens eller fylkeskommunens regnskaper blir revidert på en betryggende måte
+2. det føres kontroll med at den økonomiske forvaltningen foregår i samsvar med gjeldende bestemmelser og vedtak
+3. det utføres forvaltningsrevisjon av kommunens eller fylkeskommunens virksomhet, og av selskaper kommunen eller fylkeskommunen har eierinteresser i
+4. det føres kontroll med forvaltningen av kommunens eller fylkeskommunens eierinteresser i selskaper mv. (eierskapskontroll)
+5. vedtak som kommunestyret eller fylkestinget treffer ved behandlingen av revisjonsrapporter, blir fulgt opp.
 
 Kontrollutvalgets leder har møte- og talerett i kommunestyret eller fylkestinget når utvalgets saker skal behandles. Utvalgets leder kan la ett av de andre medlemmene i utvalget utøve denne retten på sine vegne.
 
@@ -1400,7 +1584,14 @@ Kontrollutvalget skal rapportere resultatene av sitt arbeid til kommunestyret el
 
 ### § 23-6. Innsyn og undersøkelser i selskaper o.l.
 
-Kontrollutvalget kan kreve de opplysningene som er nødvendige for å gjennomføre sin kontroll, frainterkommunale selskaper etter IKS-loveninterkommunale politiske rådkommunale oppgavefellesskapaksjeselskap der en kommune eller fylkeskommune alene eller sammen med andre kommuner, fylkeskommuner eller interkommunale selskaper direkte eller indirekte eier alle aksjer.Opplysningene etter første ledd kan kreves fra virksomhetens daglige leder, styret og den valgte revisoren for selskapet.
+Kontrollutvalget kan kreve de opplysningene som er nødvendige for å gjennomføre sin kontroll, fra
+
+1. interkommunale selskaper etter IKS-loven
+2. interkommunale politiske råd
+3. kommunale oppgavefellesskap
+4. aksjeselskap der en kommune eller fylkeskommune alene eller sammen med andre kommuner, fylkeskommuner eller interkommunale selskaper direkte eller indirekte eier alle aksjer.
+
+Opplysningene etter første ledd kan kreves fra virksomhetens daglige leder, styret og den valgte revisoren for selskapet.
 
 Kontrollutvalget kan foreta undersøkelser i virksomheten hvis det er nødvendig.
 
@@ -1420,7 +1611,11 @@ Sekretariatet skal påse at de sakene som behandles av kontrollutvalget, er fors
 
 Sekretariatet skal være uavhengig av kommunens eller fylkeskommunens administrasjon og av den eller dem som utfører revisjon for kommunen eller fylkeskommunen.
 
-Sekretariatsfunksjonen kan ikke legges tilansatte i kommunen eller fylkeskommunen som har andre arbeidsoppgaver enn å være sekretær for kontrollutvalgetden som utfører revisjon for den aktuelle kommunen eller fylkeskommunenmedlemmer av kontrollutvalget, kommunestyret eller fylkestinget i den aktuelle kommunen eller fylkeskommunen.
+Sekretariatsfunksjonen kan ikke legges til
+
+1. ansatte i kommunen eller fylkeskommunen som har andre arbeidsoppgaver enn å være sekretær for kontrollutvalget
+2. den som utfører revisjon for den aktuelle kommunen eller fylkeskommunen
+3. medlemmer av kontrollutvalget, kommunestyret eller fylkestinget i den aktuelle kommunen eller fylkeskommunen.
 
 Den som utfører sekretariatsoppgaver for kontrollutvalget, er direkte underordnet kontrollutvalget og skal følge de retningslinjer og pålegg som utvalget gir.
 
@@ -1492,7 +1687,15 @@ Revisor skal vurdere risikoen for brudd på kommunestyrets eller fylkestingets p
 
 ### § 24-7. Skriftlige påpekninger fra regnskapsrevisor
 
-Revisor skal gi skriftlige meldinger omvesentlige feil som kan føre til at årsregnskapet ikke gir riktig informasjonvesentlige mangler ved registrering og dokumentasjon av regnskapsopplysningervesentlige mangler ved den økonomiske internkontrollenmanglende eller mangelfull redegjørelse i årsberetningen for vesentlige budsjettavvikenhver mislighethvorfor han eller hun ikke har skrevet under på oppgaver som kommunen eller fylkeskommunen skal sende til offentlige myndigheter, og som revisor etter lov eller forskrift skal bekreftehvorfor han eller hun sier fra seg revisjonsoppdraget.
+Revisor skal gi skriftlige meldinger om
+
+1. vesentlige feil som kan føre til at årsregnskapet ikke gir riktig informasjon
+2. vesentlige mangler ved registrering og dokumentasjon av regnskapsopplysninger
+3. vesentlige mangler ved den økonomiske internkontrollen
+4. manglende eller mangelfull redegjørelse i årsberetningen for vesentlige budsjettavvik
+5. enhver mislighet
+6. hvorfor han eller hun ikke har skrevet under på oppgaver som kommunen eller fylkeskommunen skal sende til offentlige myndigheter, og som revisor etter lov eller forskrift skal bekrefte
+7. hvorfor han eller hun sier fra seg revisjonsoppdraget.
 
 Meldinger som nevnt i første ledd skal sendes i nummerte brev til kontrollutvalget, med kopi til kommunedirektøren.
 
@@ -1504,7 +1707,13 @@ Revisor skal årlig gi en skriftlig oppsummering til kontrollutvalget om forhold
 
 Regnskapsrevisor skal avgi en revisjonsberetning til kommunestyret eller fylkestinget senest 15. april. Det skal sendes kopi til kontrollutvalget, til formannskapet eller fylkesutvalget og til kommunedirektøren. Revisjonsberetningen skal avgis selv om årsregnskapet eller årsberetningen ikke foreligger eller er ufullstendig.
 
-I revisjonsberetningen skal revisor uttale seg om følgende:om årsregnskapet er avlagt i samsvar med lov og forskriftom registreringen og dokumentasjonen av regnskapsopplysninger er i samsvar med lov og forskriftom årsberetningen inneholder de opplysningene som lov og forskrift kreverom opplysningene om økonomi i årsberetningen stemmer overens med årsregnskapetom det er avdekket forhold som gir grunn til å tro at årsberetningen ikke gir dekkende opplysninger om vesentlige budsjettavvik.
+I revisjonsberetningen skal revisor uttale seg om følgende:
+
+1. om årsregnskapet er avlagt i samsvar med lov og forskrift
+2. om registreringen og dokumentasjonen av regnskapsopplysninger er i samsvar med lov og forskrift
+3. om årsberetningen inneholder de opplysningene som lov og forskrift krever
+4. om opplysningene om økonomi i årsberetningen stemmer overens med årsregnskapet
+5. om det er avdekket forhold som gir grunn til å tro at årsberetningen ikke gir dekkende opplysninger om vesentlige budsjettavvik.
 
 Hvis revisor i revisjonsberetningen konkluderer med forbehold, konkluderer negativt eller ikke har tilstrekkelig grunnlag for å konkludere, skal årsaken beskrives. Hvis revisor mener at årsregnskapet eller årsberetningen ikke bør vedtas slik de foreligger, skal dette angis særskilt.
 
@@ -1530,7 +1739,13 @@ Kommuner og fylkeskommuner skal ha internkontroll med administrasjonens virksomh
 
 Internkontrollen skal være systematisk og tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold.
 
-Ved internkontroll etter denne paragrafen skal kommunedirektørenutarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organiseringha nødvendige rutiner og prosedyreravdekke og følge opp avvik og risiko for avvikdokumentere internkontrollen i den formen og det omfanget som er nødvendigevaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal kommunedirektøren
+
+1. utarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organisering
+2. ha nødvendige rutiner og prosedyrer
+3. avdekke og følge opp avvik og risiko for avvik
+4. dokumentere internkontrollen i den formen og det omfanget som er nødvendig
+5. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
 
 ### § 25-2. Rapportering til kommunestyret og fylkestinget om internkontroll og statlig tilsyn
 
@@ -1542,7 +1757,11 @@ Kommunedirektøren skal rapportere til kommunestyret og fylkestinget om internko
 
 Kommuner og fylkeskommuner skal minst én gang i valgperioden utarbeide en eierskapsmelding som skal vedtas av kommunestyret eller fylkestinget selv.
 
-Eierskapsmeldingen skal inneholdekommunens eller fylkeskommunens prinsipper for eierstyringen oversikt over selskaper, kommunale eller fylkeskommunale foretak og andre virksomheter som kommunen eller fylkeskommunen har eierinteresser eller tilsvarende interesser ikommunens eller fylkeskommunens formål med sine eierinteresser eller tilsvarende interesser i virksomhetene nevnt i bokstav b.
+Eierskapsmeldingen skal inneholde
+
+1. kommunens eller fylkeskommunens prinsipper for eierstyring
+2. en oversikt over selskaper, kommunale eller fylkeskommunale foretak og andre virksomheter som kommunen eller fylkeskommunen har eierinteresser eller tilsvarende interesser i
+3. kommunens eller fylkeskommunens formål med sine eierinteresser eller tilsvarende interesser i virksomhetene nevnt i bokstav b.
 
 ## Åttende del. Statlig kontroll og tilsyn
 
@@ -1558,15 +1777,28 @@ Hvis særlige grunner tilsier det, kan departementet på eget initiativ kontroll
 
 ### § 27-2. Hva som kan lovlighetskontrolleres
 
-Følgende kan lovlighetskontrolleres:endelige vedtak som er truffet av et folkevalgt organ eller den kommunale eller fylkeskommunale administrasjonenvedtak om et møte skal holdes for åpne eller lukkete dørervedtak som gjelder spørsmål om inhabilitet.
+Følgende kan lovlighetskontrolleres:
 
-Følgende kan ikke lovlighetskontrolleres:andre prosessledende avgjørelser enn de som er omtalt i første ledd bokstav b og cvedtak om ansettelse, oppsigelse eller avskjedspørsmål om et vedtak er i strid med bestemmelser gitt i eller i medhold av lov om offentlige anskaffelser.avgjørelse om kommunestyrevalget eller fylkestingsvalget er gyldig, jf. [valgloven § 15-2 første ledd](lov/2023-06-16-62/§15-2/ledd/1) og [§ 15-3 første ledd](lov/2023-06-16-62/§15-3/ledd/1).
+1. endelige vedtak som er truffet av et folkevalgt organ eller den kommunale eller fylkeskommunale administrasjonen
+2. vedtak om et møte skal holdes for åpne eller lukkete dører
+3. vedtak som gjelder spørsmål om inhabilitet.
+
+Følgende kan ikke lovlighetskontrolleres:
+
+1. andre prosessledende avgjørelser enn de som er omtalt i første ledd bokstav b og c
+2. vedtak om ansettelse, oppsigelse eller avskjed
+3. spørsmål om et vedtak er i strid med bestemmelser gitt i eller i medhold av lov om offentlige anskaffelser.
+4. avgjørelse om kommunestyrevalget eller fylkestingsvalget er gyldig, jf. [valgloven § 15-2 første ledd](lov/2023-06-16-62/§15-2/ledd/1) og [§ 15-3 første ledd](lov/2023-06-16-62/§15-3/ledd/1).
 
 > Endret ved lov [16 juni 2023 nr. 62](lov/2023-06-16-62) (i kraft 1 mai 2024 iflg. [res. 22 mars 2024 nr. 553](forskrift/2024-03-22-553)).
 
 ### § 27-3. Innholdet i lovlighetskontrollen
 
-Ved lovlighetskontroll skal departementet ta stilling til om vedtakethar et lovlig innholder truffet av noen som har myndighet til å treffe et slikt vedtakhar blitt til på lovlig måte.
+Ved lovlighetskontroll skal departementet ta stilling til om vedtaket
+
+1. har et lovlig innhold
+2. er truffet av noen som har myndighet til å treffe et slikt vedtak
+3. har blitt til på lovlig måte.
 
 Lovlighetskontrollen etter [§ 27-1](lov/2018-06-22-83/§27-1) første ledd kan likevel begrenses til de anførsler som er tatt opp i saken. Ved lovlighetskontroll etter [§ 27-1](lov/2018-06-22-83/§27-1) andre ledd bestemmer departementet omfanget av kontrollen.
 
@@ -1574,7 +1806,11 @@ Lovlighetskontrollen kan bare omfatte de offentlig-rettslige sidene ved vedtaket
 
 Departementet skal oppheve vedtaket hvis det er gjort feil som gjør det ugyldig.
 
-Lovlighetskontroll fører ikke til at iverksettelsen av vedtaket utsettes. Følgende organer kan likevel bestemme at vedtaket ikke skal iverksettes før lovlighetskontrollen er gjennomført:organet som traff vedtaketet kommunalt eller fylkeskommunalt organ som er overordnet vedtaksorganetdepartementet.
+Lovlighetskontroll fører ikke til at iverksettelsen av vedtaket utsettes. Følgende organer kan likevel bestemme at vedtaket ikke skal iverksettes før lovlighetskontrollen er gjennomført:
+
+1. organet som traff vedtaket
+2. et kommunalt eller fylkeskommunalt organ som er overordnet vedtaksorganet
+3. departementet.
 
 ### § 27-4. Opplysningsplikt ved lovlighetskontroll
 
@@ -1584,7 +1820,15 @@ Departementet kan i forbindelse med lovlighetskontroll kreve at kommunen og fylk
 
 ### § 28-1. Innmelding i registeret om betinget godkjenning og kontroll (ROBEK)
 
-Departementet skal føre et register om betinget godkjenning og kontroll (ROBEK) over alle kommuner og fylkeskommuner hvor minst ett av følgende forhold har inntruffet:Driftsbudsjettet er vedtatt med et merforbruk.Driftsdelen i økonomiplanen er vedtatt med et merforbruk.Driftsdelen i økonomiplanen, driftsbudsjettet eller driftsregnskapet til kommunekassen eller fylkeskommunekassen viser at et merforbruk skal dekkes inn over flere enn to år etter at det oppsto.Balanseregnskapet til kommunekassen eller fylkeskommunekassen viser et oppsamlet merforbruk fra driftsregnskapet som er større enn tre prosent av driftsinntektene.Økonomiplanen eller årsbudsjettet er ikke vedtatt innen de fristene som er fastsatt i lov eller forskrift, eller innen en frist som departementet har fastsatt etter at økonomiplanen eller årsbudsjettet har blitt opphevet etter lovlighetskontroll.Årsregnskapet til kommunekassen eller fylkeskommunekassen er ikke vedtatt innen de fristene som er fastsatt i lov eller forskrift, eller innen en frist som departementet har fastsatt etter at årsregnskapet har blitt opphevet etter lovlighetskontroll.Departementet har fattet et vedtak etter [inndelingslova § 16 a](lov/2001-06-15-70/§16a).
+Departementet skal føre et register om betinget godkjenning og kontroll (ROBEK) over alle kommuner og fylkeskommuner hvor minst ett av følgende forhold har inntruffet:
+
+1. Driftsbudsjettet er vedtatt med et merforbruk.
+2. Driftsdelen i økonomiplanen er vedtatt med et merforbruk.
+3. Driftsdelen i økonomiplanen, driftsbudsjettet eller driftsregnskapet til kommunekassen eller fylkeskommunekassen viser at et merforbruk skal dekkes inn over flere enn to år etter at det oppsto.
+4. Balanseregnskapet til kommunekassen eller fylkeskommunekassen viser et oppsamlet merforbruk fra driftsregnskapet som er større enn tre prosent av driftsinntektene.
+5. Økonomiplanen eller årsbudsjettet er ikke vedtatt innen de fristene som er fastsatt i lov eller forskrift, eller innen en frist som departementet har fastsatt etter at økonomiplanen eller årsbudsjettet har blitt opphevet etter lovlighetskontroll.
+6. Årsregnskapet til kommunekassen eller fylkeskommunekassen er ikke vedtatt innen de fristene som er fastsatt i lov eller forskrift, eller innen en frist som departementet har fastsatt etter at årsregnskapet har blitt opphevet etter lovlighetskontroll.
+7. Departementet har fattet et vedtak etter [inndelingslova § 16 a](lov/2001-06-15-70/§16a).
 
 Hvis det åpenbart ikke er behov for å kontrollere kommunens eller fylkeskommunens årsbudsjett og låneopptak, kan departementet bestemme at kommunen eller fylkeskommunen likevel ikke skal føres inn i ROBEK-registeret.
 
@@ -1650,7 +1894,11 @@ Når det er truffet et vedtak om betalingsinnstilling, skal departementet straks
 
 ### § 29-3. Utbetalinger etter vedtak om betalingsinnstilling
 
-Så lenge en betalingsinnstilling gjelder, skal ingen utbetalinger foretas uten godkjenning eller fullmakt fra tilsynsnemnda. Utbetalinger til følgende formål skal foretas først:utbetalinger som er nødvendige for at kommunen eller fylkeskommunen skal oppfylle lovpålagte forpliktelser overfor enkeltpersonerutbetalinger av lønn, pensjon og annen godtgjøring til kommunens eller fylkeskommunens ansatte og folkevalgte i heltidsverv, utbetalinger av bidrag til lønn til andres ansatte som kommunen eller fylkeskommunen er forpliktet til å dekke, og utbetalinger som gjelder fordringer som er nevnt i [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) og [9-4](lov/1984-06-08-59/§9-4)utbetalinger som er nødvendige for å unngå fare for betydelig økonomisk tap eller vesentlige skadevirkninger.
+Så lenge en betalingsinnstilling gjelder, skal ingen utbetalinger foretas uten godkjenning eller fullmakt fra tilsynsnemnda. Utbetalinger til følgende formål skal foretas først:
+
+1. utbetalinger som er nødvendige for at kommunen eller fylkeskommunen skal oppfylle lovpålagte forpliktelser overfor enkeltpersoner
+2. utbetalinger av lønn, pensjon og annen godtgjøring til kommunens eller fylkeskommunens ansatte og folkevalgte i heltidsverv, utbetalinger av bidrag til lønn til andres ansatte som kommunen eller fylkeskommunen er forpliktet til å dekke, og utbetalinger som gjelder fordringer som er nevnt i [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) og [9-4](lov/1984-06-08-59/§9-4)
+3. utbetalinger som er nødvendige for å unngå fare for betydelig økonomisk tap eller vesentlige skadevirkninger.
 
 Renter, inkasso- og saksomkostninger som er knyttet til fordringer som har fortrinnsrett etter første ledd, har samme fortrinnsrett som hovedfordringen.
 
@@ -1744,7 +1992,11 @@ Når et interkommunalt styre blir omdannet etter paragrafen her, skal omregistre
 
 ### § 31-3. Overgangsregler om internkontroll
 
-Fram til [kapittel 25](lov/2018-06-22-83/kap25) trer i kraft gjelder følgende bestemmelser:Kommunedirektøren skal sørge for at administrasjonen er gjenstand for betryggende kontroll.I årsberetningen skal det redegjøres for tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre betryggende kontroll med virksomheten.Kommunedirektøren skal rapportere til kommunestyret og fylkestinget om resultater fra statlig tilsyn minst én gang i året.
+Fram til [kapittel 25](lov/2018-06-22-83/kap25) trer i kraft gjelder følgende bestemmelser:
+
+1. Kommunedirektøren skal sørge for at administrasjonen er gjenstand for betryggende kontroll.
+2. I årsberetningen skal det redegjøres for tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre betryggende kontroll med virksomheten.
+3. Kommunedirektøren skal rapportere til kommunestyret og fylkestinget om resultater fra statlig tilsyn minst én gang i året.
 
 ### § 31-4. Andre overgangsregler
 

@@ -15,7 +15,7 @@ xml_hash: "bd2cf032b9a05030ba4772d6308d0b7a5bd1d1e201acb8c6cf8b1b6311987523"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -130,15 +130,40 @@ SSB skal sende melding om brudd på innberetningsplikten, jf. loven § 22 annet 
 
 ### § 3-2. Grunnleggende krav til årsregnskapet – regnskapsprinsipper
 
-(1) Årsregnskapet skal oppfylle følgende krav:Inntekter skal registreres i den periode de er inntjent. Utgifter skal registreres senest i den periode de er påløpt.Fordringer, gjeld og andre forpliktelser skal fremgå av regnskapet.Ethvert kjøp eller salg skal regnskapsføres til verdien av vederlaget.Alle inntekter og kostnader skal resultatføres. Inntekt skal resultatføres når partiet eller partileddet har fått rett til den. Utgifter skal kostnadsføres i samme periode som tilhørende inntekt.Anskaffede midler og forbrukte midler skal føres brutto.
+(1) Årsregnskapet skal oppfylle følgende krav:
+
+1. Inntekter skal registreres i den periode de er inntjent. Utgifter skal registreres senest i den periode de er påløpt.
+2. Fordringer, gjeld og andre forpliktelser skal fremgå av regnskapet.
+3. Ethvert kjøp eller salg skal regnskapsføres til verdien av vederlaget.
+4. Alle inntekter og kostnader skal resultatføres. Inntekt skal resultatføres når partiet eller partileddet har fått rett til den. Utgifter skal kostnadsføres i samme periode som tilhørende inntekt.
+5. Anskaffede midler og forbrukte midler skal føres brutto.
 
 (2) Alle mottatte bidrag skal føres som inntekt i resultatregnskapet. Inneholder en transaksjon etter første ledd (c) et gaveelement, skal dette resultatføres som bidrag.
 
 ### § 3-3. Vurderingsregler
 
-(1) Følgende vurderingsregler skal legges til grunn når partiet eller partileddet klassifiserer sine eiendeler i årsregnskapet:Eiendeler som skal brukes i tre år eller mer, regnes som anleggsmidler. Alle andre eiendeler er omløpsmidler.Når verdien av anleggsmidler og omløpsmidler skal beregnes, skal det tas utgangspunkt i eiendelens anskaffelseskost. Ved kjøp regnes anskaffelseskost som kjøpspris med tillegg av kjøpsutgifter.Anleggsmidler som har større verdi enn 30 000 kroner, samt alle finansielle anleggsmidler og langsiktige fordringer, skal balanseføres. Andre anskaffelser skal kostnadsføres.Balanseførte anleggsmidler, unntatt finansielle anleggsmidler og langsiktige fordringer, skal avskrives med et like stort beløp årlig over følgende tidsrom:Bygg over 20 årFast inventar og andre anlegg over 10 årAnnet inventar og driftsløsøre over fem årIKT-utstyr over tre årAndre eiendeler over fem år.Finansielle eiendeler og fordringer avskrives i tråd med nedbetaling. Fordringer i form av ubetalte medlemskontingenter skal resultatføres som kostnad dersom det på balansedagen har gått minst 12 måneder siden forfall.Hver enkelt eiendel skal tilordnes en særskilt anskaffelseskost. Eiendeler av samme art tilordnes etter FIFU-metoden. Gjennomsnittlig anskaffelseskost skal benyttes dersom særskilt tilordning ikke er mulig.Kortsiktige fordringer og andre finansielle omløpsmidler skal balanseføres. Varer av samme art med en samlet innkjøpsverdi på 30 000 kroner eller mer skal balanseføres som omløpsmidler. Andre omløpsmidler skal kostnadsføres.Leieavtaler skal ikke balanseføres.
+(1) Følgende vurderingsregler skal legges til grunn når partiet eller partileddet klassifiserer sine eiendeler i årsregnskapet:
 
-(2) Følgende vurderingsregler skal legges til grunn når partiet eller partileddet klassifiserer sin gjeld i årsregnskapet:Gjeld som ikke skal nedbetales i løpet av kommende år, skal balanseføres som langsiktig gjeld. Annen gjeld skal balanseføres som kortsiktig gjeld. Kommende års avdrag på langsiktig gjeld skal føres som kortsiktig gjeld.Partier og partiledd skal balanseføre pensjonsforpliktelser som er uforsikret. Pensjonsforpliktelser som er forsikret skal ikke balanseføres. Premien skal anses som pensjonskostnad.For øvrig gjelder vurderingsreglene for eiendeler tilsvarende for gjeld så langt de passer.
+1. Eiendeler som skal brukes i tre år eller mer, regnes som anleggsmidler. Alle andre eiendeler er omløpsmidler.
+2. Når verdien av anleggsmidler og omløpsmidler skal beregnes, skal det tas utgangspunkt i eiendelens anskaffelseskost. Ved kjøp regnes anskaffelseskost som kjøpspris med tillegg av kjøpsutgifter.
+3. Anleggsmidler som har større verdi enn 30 000 kroner, samt alle finansielle anleggsmidler og langsiktige fordringer, skal balanseføres. Andre anskaffelser skal kostnadsføres.
+4. Balanseførte anleggsmidler, unntatt finansielle anleggsmidler og langsiktige fordringer, skal avskrives med et like stort beløp årlig over følgende tidsrom:
+
+   1. Bygg over 20 år
+   2. Fast inventar og andre anlegg over 10 år
+   3. Annet inventar og driftsløsøre over fem år
+   4. IKT-utstyr over tre år
+   5. Andre eiendeler over fem år.
+5. Finansielle eiendeler og fordringer avskrives i tråd med nedbetaling. Fordringer i form av ubetalte medlemskontingenter skal resultatføres som kostnad dersom det på balansedagen har gått minst 12 måneder siden forfall.
+6. Hver enkelt eiendel skal tilordnes en særskilt anskaffelseskost. Eiendeler av samme art tilordnes etter FIFU-metoden. Gjennomsnittlig anskaffelseskost skal benyttes dersom særskilt tilordning ikke er mulig.
+7. Kortsiktige fordringer og andre finansielle omløpsmidler skal balanseføres. Varer av samme art med en samlet innkjøpsverdi på 30 000 kroner eller mer skal balanseføres som omløpsmidler. Andre omløpsmidler skal kostnadsføres.
+8. Leieavtaler skal ikke balanseføres.
+
+(2) Følgende vurderingsregler skal legges til grunn når partiet eller partileddet klassifiserer sin gjeld i årsregnskapet:
+
+1. Gjeld som ikke skal nedbetales i løpet av kommende år, skal balanseføres som langsiktig gjeld. Annen gjeld skal balanseføres som kortsiktig gjeld. Kommende års avdrag på langsiktig gjeld skal føres som kortsiktig gjeld.
+2. Partier og partiledd skal balanseføre pensjonsforpliktelser som er uforsikret. Pensjonsforpliktelser som er forsikret skal ikke balanseføres. Premien skal anses som pensjonskostnad.
+3. For øvrig gjelder vurderingsreglene for eiendeler tilsvarende for gjeld så langt de passer.
 
 ### § 3-4. Regnskapsåret
 
@@ -150,7 +175,50 @@ Regnskapsåret er 12 måneder og følger kalenderåret. I forbindelse med nyetab
 
 ### § 3-6. Oppstillingsplan resultatregnskap
 
-Resultatregnskapet skal stilles opp slik:*Anskaffede midler**Offentlig støtte*Statlig støtte etter [partiloven § 11](lov/2005-06-17-102/§11) til [§ 13](lov/2005-06-17-102/§13)Kommunal/fylkeskommunal partistøtteAnnen offentlig støtte*Inntekter av egen virksomhet*Kontingentinntekter direkte innbetalt til partileddetInntekter fra lotteri, innsamlingsaksjoner og lignendeKapitalinntekterInntekter fra forretningsvirksomhetAndre inntekter*Bidrag fra andre*PrivatpersonerKommersielle foretakOrganisasjoner i arbeidslivetAndre organisasjoner, foreninger og sammenslutninger, institusjoner, stiftelser og fondAndre*Interne overføringer*Overføringer fra andre partiledd.*Forbrukte midler*AdministrasjonskostnaderKostnader i forbindelse med partiaktiviteterValgkampkostnaderMarkedsføringstiltakAndre kostnaderOverføringer til andre partiledd.*Årets aktivitetsresultat**Tillegg/reduksjon formålskapital*Endring av formålskapital med eksternt pålagte restriksjonerEndring av formålskapital med selvpålagte restriksjonerEndring av annen formålskapital.
+Resultatregnskapet skal stilles opp slik:
+
+1. *Anskaffede midler*
+
+   *Offentlig støtte*
+
+   1. Statlig støtte etter [partiloven § 11](lov/2005-06-17-102/§11) til [§ 13](lov/2005-06-17-102/§13)
+   2. Kommunal/fylkeskommunal partistøtte
+   3. Annen offentlig støtte
+
+   *Inntekter av egen virksomhet*
+
+   1. Kontingentinntekter direkte innbetalt til partileddet
+   2. Inntekter fra lotteri, innsamlingsaksjoner og lignende
+   3. Kapitalinntekter
+   4. Inntekter fra forretningsvirksomhet
+   5. Andre inntekter
+
+   *Bidrag fra andre*
+
+   1. Privatpersoner
+   2. Kommersielle foretak
+   3. Organisasjoner i arbeidslivet
+   4. Andre organisasjoner, foreninger og sammenslutninger, institusjoner, stiftelser og fond
+   5. Andre
+
+   *Interne overføringer*
+
+   1. Overføringer fra andre partiledd.
+2. *Forbrukte midler*
+
+   1. Administrasjonskostnader
+   2. Kostnader i forbindelse med partiaktiviteter
+   3. Valgkampkostnader
+
+      1. Markedsføringstiltak
+      2. Andre kostnader
+   4. Overføringer til andre partiledd.
+3. *Årets aktivitetsresultat*
+4. *Tillegg/reduksjon formålskapital*
+
+   1. Endring av formålskapital med eksternt pålagte restriksjoner
+   2. Endring av formålskapital med selvpålagte restriksjoner
+   3. Endring av annen formålskapital.
 
 ### § 3-7. Oppstillingsplan for balansen
 
@@ -158,14 +226,36 @@ Balansen skal stilles opp slik:
 
 *Eiendeler:*
 
-1. *Anleggsmidler*ByggFast inventar og anleggAnnet inventar og driftsløsøreIKT-utstyrFinansielle anleggsmidler og langsiktige fordringer.
-2. *Omløpsmidler*VarelagerKundefordringerKasse og bankAndre kortsiktige fordringer og finansielle omløpsmidler.
+1. *Anleggsmidler*
+
+   1. Bygg
+   2. Fast inventar og anlegg
+   3. Annet inventar og driftsløsøre
+   4. IKT-utstyr
+   5. Finansielle anleggsmidler og langsiktige fordringer.
+2. *Omløpsmidler*
+
+   1. Varelager
+   2. Kundefordringer
+   3. Kasse og bank
+   4. Andre kortsiktige fordringer og finansielle omløpsmidler.
 
 *Formålskapital og gjeld:*
 
-1. *Formålskapital*Formålskapital med eksternt pålagte restriksjonerFormålskapital med selvpålagte restriksjonerAnnen formålskapital.
-2. *Andre eiendeler inklusiv langsiktig gjeld*PensjonsforpliktelserAnnen langsiktig gjeld.
-3. *Kortsiktig gjeld*LeverandørgjeldSkyldige offentlige avgifterAnnen kortsiktig gjeld.
+1. *Formålskapital*
+
+   1. Formålskapital med eksternt pålagte restriksjoner
+   2. Formålskapital med selvpålagte restriksjoner
+   3. Annen formålskapital.
+2. *Andre eiendeler inklusiv langsiktig gjeld*
+
+   1. Pensjonsforpliktelser
+   2. Annen langsiktig gjeld.
+3. *Kortsiktig gjeld*
+
+   1. Leverandørgjeld
+   2. Skyldige offentlige avgifter
+   3. Annen kortsiktig gjeld.
 
 ### § 3-8. Noteopplysninger
 
@@ -187,7 +277,14 @@ I noter til årsregnskapet skal det bekreftes at regnskapet oppfyller kravene et
 
 ### § 3-10. Spesifisering av kostnader etter art
 
-Partier og partiledd skal i tillegg til å gi en fullstendig oversikt over kostnader fordelt på aktiviteter, gi en oversikt over kostnadene etter art. Fordelingen skal gjøres slik:LønnskostnaderVarekostnaderKostnader til anskaffelse av tjenesterAvskrivninger og nedskrivningerFinanskostnaderOverføringer til andre partiledd.
+Partier og partiledd skal i tillegg til å gi en fullstendig oversikt over kostnader fordelt på aktiviteter, gi en oversikt over kostnadene etter art. Fordelingen skal gjøres slik:
+
+1. Lønnskostnader
+2. Varekostnader
+3. Kostnader til anskaffelse av tjenester
+4. Avskrivninger og nedskrivninger
+5. Finanskostnader
+6. Overføringer til andre partiledd.
 
 ### § 3-11. Fordringer, gjeld og garantiforpliktelser
 
@@ -209,11 +306,20 @@ Partier og partiledd skal i tillegg til å gi en fullstendig oversikt over kostn
 
 ### § 3-14. Anleggsmidler
 
-Partier og partiledd skal i årsregnskapet gi følgende opplysninger for summen av balanseførte anleggsmidler:AnskaffelseskostTilgang og avgang i løpet av regnskapsåretSamlede avskrivningerÅrets avskrivninger.
+Partier og partiledd skal i årsregnskapet gi følgende opplysninger for summen av balanseførte anleggsmidler:
+
+1. Anskaffelseskost
+2. Tilgang og avgang i løpet av regnskapsåret
+3. Samlede avskrivninger
+4. Årets avskrivninger.
 
 ### § 3-15. Eierandeler i selskaper og andre organisasjoner
 
-Partier og partiledd skal i årsregnskapet opplyse om eierandeler i og andre former for tilknytning til selskaper og organisasjoner. Opplysningene skal spesifiseres slik:Eierandel eller tilknytningNavn på selskap eller organisasjonBalanseført verdi på eierandelen.
+Partier og partiledd skal i årsregnskapet opplyse om eierandeler i og andre former for tilknytning til selskaper og organisasjoner. Opplysningene skal spesifiseres slik:
+
+1. Eierandel eller tilknytning
+2. Navn på selskap eller organisasjon
+3. Balanseført verdi på eierandelen.
 
 ### § 3-16. Pensjonsforpliktelser
 
@@ -241,11 +347,23 @@ Er det besluttet å avvikle partiet eller partileddet, skal det gis opplysninger
 
 ### § 4-2. Grunnleggende bokføringsprinsipper
 
-Bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger skal oppfylle følgende krav:Partier og partiledd skal ha et ordentlig og oversiktlig regnskapssystem som gjør det mulig å produsere årsregnskapet med nødvendige spesifikasjoner.Alle transaksjoner og andre regnskapspliktige disposisjoner skal bokføres på en fullstendig måte i regnskapssystemet.Bokførte opplysninger skal være resultat av faktisk inntrufne hendelser eller regnskapspliktige vurderinger og skal gjelde det regnskapspliktige partiet eller partileddet.Opplysninger skal bokføres og spesifiseres korrekt og nøyaktig. Bokførte opplysninger skal være dokumentert på en måte som viser at de gjelder partiet eller partileddet.Det skal foreligge toveis kontrollspor mellom dokumentasjon, spesifikasjoner og årsregnskapet.Dokumentasjon, spesifikasjoner og årsregnskap skal oppbevares i minst fem år, jf. [partiloven § 18b](lov/2005-06-17-102/§18b) annet ledd. Oppbevaring skal skje i en form som gjør det mulig å lese materialet. Alt regnskapsmateriale skal på en forsvarlig måte sikres mot urettmessig endring, sletting eller tap.
+Bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger skal oppfylle følgende krav:
+
+1. Partier og partiledd skal ha et ordentlig og oversiktlig regnskapssystem som gjør det mulig å produsere årsregnskapet med nødvendige spesifikasjoner.
+2. Alle transaksjoner og andre regnskapspliktige disposisjoner skal bokføres på en fullstendig måte i regnskapssystemet.
+3. Bokførte opplysninger skal være resultat av faktisk inntrufne hendelser eller regnskapspliktige vurderinger og skal gjelde det regnskapspliktige partiet eller partileddet.
+4. Opplysninger skal bokføres og spesifiseres korrekt og nøyaktig. Bokførte opplysninger skal være dokumentert på en måte som viser at de gjelder partiet eller partileddet.
+5. Det skal foreligge toveis kontrollspor mellom dokumentasjon, spesifikasjoner og årsregnskapet.
+6. Dokumentasjon, spesifikasjoner og årsregnskap skal oppbevares i minst fem år, jf. [partiloven § 18b](lov/2005-06-17-102/§18b) annet ledd. Oppbevaring skal skje i en form som gjør det mulig å lese materialet. Alt regnskapsmateriale skal på en forsvarlig måte sikres mot urettmessig endring, sletting eller tap.
 
 ### § 4-3. Spesifikasjoner i tilknytning til årsregnskapet
 
-For hvert regnskapsår skal det kunne utarbeides:Bokføringsspesifikasjon, som skal omfatte alle bokførte opplysninger, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.Kontospesifikasjon, som skal omfatte alle kontoer for regnskapsåret. Hver konto skal angi kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder samt inn- og utgående saldo.Kundespesifikasjon, som skal omfatte alle transaksjoner med kunder per regnskapsår. Kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om kundespesifikasjon.Leverandørspesifikasjon, som skal omfatte alle transaksjoner med leverandører per periode. Leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om leverandørspesifikasjon.
+For hvert regnskapsår skal det kunne utarbeides:
+
+1. Bokføringsspesifikasjon, som skal omfatte alle bokførte opplysninger, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.
+2. Kontospesifikasjon, som skal omfatte alle kontoer for regnskapsåret. Hver konto skal angi kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder samt inn- og utgående saldo.
+3. Kundespesifikasjon, som skal omfatte alle transaksjoner med kunder per regnskapsår. Kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om kundespesifikasjon.
+4. Leverandørspesifikasjon, som skal omfatte alle transaksjoner med leverandører per periode. Leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om leverandørspesifikasjon.
 
 ### § 4-4. Bokføring og ajourhold
 
@@ -273,7 +391,13 @@ For hvert regnskapsår skal det kunne utarbeides:Bokføringsspesifikasjon, som s
 
 ### § 4-7. Dokumentasjon av salg av varer og tjenester
 
-(1) Dokumentasjon av salg av varer og tjenester skal minst inneholde:Nummer og dato for utstedelse av dokumentasjonenAngivelse av selger og kjøperAngivelse av ytelsens art og omfangTidspunkt og sted for levering av ytelsenVederlag og betalingsforfall.
+(1) Dokumentasjon av salg av varer og tjenester skal minst inneholde:
+
+1. Nummer og dato for utstedelse av dokumentasjonen
+2. Angivelse av selger og kjøper
+3. Angivelse av ytelsens art og omfang
+4. Tidspunkt og sted for levering av ytelsen
+5. Vederlag og betalingsforfall.
 
 (2) Salgsdokumentasjon skal være merket slik at fullstendig registrering av salget kan dokumenteres. Salgsdokumentet skal utstedes av partiet eller partileddet og ikke senere enn i det kalenderår leveringen finner sted.
 
@@ -297,15 +421,37 @@ For hvert regnskapsår skal det kunne utarbeides:Bokføringsspesifikasjon, som s
 
 ### § 4-10. Dokumentasjon av lønn
 
-(1) Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk etter skattebetalingsloven, skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:fødselsnummernavn og stillingskattekommunetabellnummer og/eller den trekkprosent som står på skattekortet.
+(1) Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk etter skattebetalingsloven, skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:
+
+1. fødselsnummer
+2. navn og stilling
+3. skattekommune
+4. tabellnummer og/eller den trekkprosent som står på skattekortet.
 
 (2) Dersom skattekort ikke er levert og opplysninger som skal fremgå av skattekortet ikke på annen måte er mottatt av partiet eller partileddet, skal dokumentasjon vise navn og nummer på den kommunen hvor motparten oppgir å ha vært bosatt 1. november i året før trekkåret. Dersom motparten er utenlandsk og ikke var bosatt i Norge 1. november i året før trekkåret, skal dokumentasjonen vise hvilken kommune vedkommende bosatte seg i ved ankomsten til Norge.
 
-(3) Har partiet eller partileddet mottatt pålegg om trekk i medhold av [skattebetalingsloven kapittel 14](lov/2005-06-17-67/kap14), skal dokumentasjonen også inneholde opplysninger om:hvem som har gitt påleggetnår pålegget er mottattbeløpet som trekket skal dekkeinntektsåret som pålegget om trekk gjeldertrekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
+(3) Har partiet eller partileddet mottatt pålegg om trekk i medhold av [skattebetalingsloven kapittel 14](lov/2005-06-17-67/kap14), skal dokumentasjonen også inneholde opplysninger om:
 
-(4) For hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk etter skattebetalingsloven, skal dokumentasjonen inneholde følgende opplysninger pr. motpart:dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg tilbrutto ytelse, eventuelt med opplysninger om antall godtgjorte timer hvis dette er aktuelteventuelle tillegg for naturalytelser som det skal foretas trekk ifradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9)trekkgrunnlagetstørrelsen på foretatte forskuddstrekk og utleggstrekk etter skattebetalingsloven.
+1. hvem som har gitt pålegget
+2. når pålegget er mottatt
+3. beløpet som trekket skal dekke
+4. inntektsåret som pålegget om trekk gjelder
+5. trekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
 
-(5) For ansatte som helt eller delvis godtgjøres på timebasis, skal i tillegg følgende opplysninger være dokumentert pr. motpart:dato for utført arbeidantall timer den aktuelle datosummen av timer for den aktuelle perioden.
+(4) For hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk etter skattebetalingsloven, skal dokumentasjonen inneholde følgende opplysninger pr. motpart:
+
+1. dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg til
+2. brutto ytelse, eventuelt med opplysninger om antall godtgjorte timer hvis dette er aktuelt
+3. eventuelle tillegg for naturalytelser som det skal foretas trekk i
+4. fradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9)
+5. trekkgrunnlaget
+6. størrelsen på foretatte forskuddstrekk og utleggstrekk etter skattebetalingsloven.
+
+(5) For ansatte som helt eller delvis godtgjøres på timebasis, skal i tillegg følgende opplysninger være dokumentert pr. motpart:
+
+1. dato for utført arbeid
+2. antall timer den aktuelle dato
+3. summen av timer for den aktuelle perioden.
 
 (6) Dokumentasjon av lønn mv. skal utstedes senest på det tidspunkt det er anledning til å få de aktuelle ytelsene utbetalt.
 
@@ -335,7 +481,14 @@ Dokumentasjon av andre regnskapsmessige disposisjoner skal vise årsaken til at 
 
 ### § 4-15. Oppbevaring
 
-(1) Som oppbevaringspliktig regnskapsmateriale regnes:årsregnskap, annen pliktig regnskapsrapportering og eventuell revisjonsberetningspesifikasjoner av pliktig regnskapsrapporteringdokumentasjon av bokførte og slettede opplysninger og dokumentasjon av balansennummererte brev fra revisor, jf. [partiloven § 21a](lov/2005-06-17-102/§21a) første ledd og [revisorloven § 5-4](lov/1999-01-15-2/§5-4).alle politiske eller forretningsmessige avtaler som partiet eller partileddet har inngått med bidragsytere og sponsorer.korrespondanse som gir vesentlig tilleggsinformasjon i tilknytning til en bokført opplysning.
+(1) Som oppbevaringspliktig regnskapsmateriale regnes:
+
+1. årsregnskap, annen pliktig regnskapsrapportering og eventuell revisjonsberetning
+2. spesifikasjoner av pliktig regnskapsrapportering
+3. dokumentasjon av bokførte og slettede opplysninger og dokumentasjon av balansen
+4. nummererte brev fra revisor, jf. [partiloven § 21a](lov/2005-06-17-102/§21a) første ledd og [revisorloven § 5-4](lov/1999-01-15-2/§5-4).
+5. alle politiske eller forretningsmessige avtaler som partiet eller partileddet har inngått med bidragsytere og sponsorer.
+6. korrespondanse som gir vesentlig tilleggsinformasjon i tilknytning til en bokført opplysning.
 
 (2) Regnskapsmaterialet som nevnt i første ledd skal oppbevares i fem år etter regnskapsårets slutt.
 
@@ -359,7 +512,10 @@ Undertegnet innberetning etter [partiloven § 21](lov/2005-06-17-102/§21) annet
 
 ### § 6-1. Vedtak om avkorting av støtte
 
-(1) Partilovnemnda kan fatte vedtak om avkorting av statlig partistøtte nårpartiet eller partileddet har overtrådt bestemmelsene i [partiloven § 17a](lov/2005-06-17-102/§17a), [§ 18](lov/2005-06-17-102/§18), [§ 18a](lov/2005-06-17-102/§18a), [§ 18b](lov/2005-06-17-102/§18b), [§ 19](lov/2005-06-17-102/§19), [§ 20](lov/2005-06-17-102/§20), [§ 20a](lov/2005-06-17-102/§20a), [§ 20b](lov/2005-06-17-102/§20b), [§ 21](lov/2005-06-17-102/§21), [§ 21a](lov/2005-06-17-102/§21a) første til tredje ledd og [§ 23](lov/2005-06-17-102/§23), ellernår det er tvil om at partiet eller partileddet eksisterer.
+(1) Partilovnemnda kan fatte vedtak om avkorting av statlig partistøtte når
+
+1. partiet eller partileddet har overtrådt bestemmelsene i [partiloven § 17a](lov/2005-06-17-102/§17a), [§ 18](lov/2005-06-17-102/§18), [§ 18a](lov/2005-06-17-102/§18a), [§ 18b](lov/2005-06-17-102/§18b), [§ 19](lov/2005-06-17-102/§19), [§ 20](lov/2005-06-17-102/§20), [§ 20a](lov/2005-06-17-102/§20a), [§ 20b](lov/2005-06-17-102/§20b), [§ 21](lov/2005-06-17-102/§21), [§ 21a](lov/2005-06-17-102/§21a) første til tredje ledd og [§ 23](lov/2005-06-17-102/§23), eller
+2. når det er tvil om at partiet eller partileddet eksisterer.
 
 (2) Vedtak om avkorting av statlig partistøtte gjelder for inntil ett år av gangen. Vedtaket kan omfatte hele eller deler av den støtten partiet eller partileddet uten lovovertredelsen ville hatt krav på. Partilovnemnda skal ved fastsettelsen av avkortingens størrelse i det enkelte tilfelle ta hensyn til likebehandling, forholdsmessighet og effektiv allmennprevensjon.
 

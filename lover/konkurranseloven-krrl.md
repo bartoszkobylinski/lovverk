@@ -15,7 +15,7 @@ xml_hash: "58d4d487cb8ccc8930ed482ac13631b667e1400e0d98d05a42d50c2e689581fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,7 +90,16 @@ Kongen kan gi nærmere bestemmelser om Konkurransetilsynets organisasjon og virk
 
 ### § 9. Konkurransetilsynets oppgaver
 
-Konkurransetilsynet skal føre tilsyn med konkurransen i de forskjellige markeder, blant annet ved åkontrollere at lovens forbud og påbud overholdesforeta nødvendige inngrep mot foretakssammenslutningeriverksette tiltak for å øke markedenes gjennomsiktighethåndheve [EØS-avtalen artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54)påpeke konkurranseregulerende virkninger av offentlige tiltak, eventuelt ved å fremme forslag med sikte på å styrke konkurransen og lette adgangen for nye konkurrentergjennomføre markedsetterforskning i samsvar med [kapittel 9](lov/2004-03-05-12/kap9).Hvis Konkurransetilsynet krever det, skal organet som forestår tiltaket som nevnt i første punktum bokstav e, svare tilsynet innen en nærmere angitt frist. I svaret skal det blant annet redegjøres for hvordan konkurransemessige hensyn vil bli ivaretatt.
+Konkurransetilsynet skal føre tilsyn med konkurransen i de forskjellige markeder, blant annet ved å
+
+1. kontrollere at lovens forbud og påbud overholdes
+2. foreta nødvendige inngrep mot foretakssammenslutninger
+3. iverksette tiltak for å øke markedenes gjennomsiktighet
+4. håndheve [EØS-avtalen artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54)
+5. påpeke konkurranseregulerende virkninger av offentlige tiltak, eventuelt ved å fremme forslag med sikte på å styrke konkurransen og lette adgangen for nye konkurrenter
+6. gjennomføre markedsetterforskning i samsvar med [kapittel 9](lov/2004-03-05-12/kap9).
+
+Hvis Konkurransetilsynet krever det, skal organet som forestår tiltaket som nevnt i første punktum bokstav e, svare tilsynet innen en nærmere angitt frist. I svaret skal det blant annet redegjøres for hvordan konkurransemessige hensyn vil bli ivaretatt.
 
 Konkurransetilsynet plikter å veilede foretak vedrørende forståelse av denne lov, lovens rekkevidde og dens anvendelse i enkeltsaker.
 
@@ -100,11 +109,20 @@ Konkurransetilsynet plikter å veilede foretak vedrørende forståelse av denne 
 
 ### § 10. Konkurransebegrensende avtaler mellom foretak
 
-Enhver avtale mellom foretak, enhver beslutning truffet av sammenslutninger av foretak og enhver form for samordnet opptreden som har til formål eller virkning å hindre, innskrenke eller vri konkurransen, er forbudt, særlig slike som består iå fastsette på direkte eller indirekte måte innkjøps- eller utsalgspriser eller andre forretningsvilkår,å begrense eller kontrollere produksjon, avsetning, teknisk utvikling eller investeringer,å dele opp markeder eller forsyningskilder,å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.
+Enhver avtale mellom foretak, enhver beslutning truffet av sammenslutninger av foretak og enhver form for samordnet opptreden som har til formål eller virkning å hindre, innskrenke eller vri konkurransen, er forbudt, særlig slike som består i
+
+1. å fastsette på direkte eller indirekte måte innkjøps- eller utsalgspriser eller andre forretningsvilkår,
+2. å begrense eller kontrollere produksjon, avsetning, teknisk utvikling eller investeringer,
+3. å dele opp markeder eller forsyningskilder,
+4. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,
+5. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.
 
 Avtaler eller beslutninger som er forbudt i henhold til denne bestemmelse, skal ikke ha noen rettsvirkning.
 
-Bestemmelsen i første ledd får ikke anvendelse på avtaler mellom foretak, beslutninger truffet av sammenslutninger av foretak og samordnet opptreden, som bidrar til å bedre produksjonen eller fordelingen av varene eller til å fremme den tekniske eller økonomiske utvikling, samtidig som de sikrer forbrukerne en rimelig andel av de fordeler som er oppnådd, og utenå pålegge vedkommende foretak restriksjoner som ikke er absolutt nødvendige for å nå disse mål, ellerå gi disse foretak mulighet til å utelukke konkurranse for en vesentlig del av de varer det gjelder.
+Bestemmelsen i første ledd får ikke anvendelse på avtaler mellom foretak, beslutninger truffet av sammenslutninger av foretak og samordnet opptreden, som bidrar til å bedre produksjonen eller fordelingen av varene eller til å fremme den tekniske eller økonomiske utvikling, samtidig som de sikrer forbrukerne en rimelig andel av de fordeler som er oppnådd, og uten
+
+1. å pålegge vedkommende foretak restriksjoner som ikke er absolutt nødvendige for å nå disse mål, eller
+2. å gi disse foretak mulighet til å utelukke konkurranse for en vesentlig del av de varer det gjelder.
 
 Kongen kan ved forskrift fastsette regler for hva som skal gå inn under tredje ledd (gruppefritak). Konkurransetilsynet kan bestemme at et gruppefritak ikke skal være anvendelig overfor bestemte foretak i den utstrekning avtaler, beslutninger og samordnet opptreden har virkninger som ikke er forenlige med tredje ledd.
 
@@ -112,7 +130,12 @@ Kongen kan ved forskrift fastsette regler for hva som skal gå inn under tredje 
 
 Et eller flere foretaks utilbørlige utnyttelse av sin dominerende stilling er forbudt.
 
-Slik utilbørlig utnyttelse kan særlig bestå iå påtvinge, direkte eller indirekte, urimelige innkjøps- eller utsalgspriser eller andre urimelige forretningsvilkår,å begrense produksjon, avsetning eller teknisk utvikling til skade for forbrukerne,å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.
+Slik utilbørlig utnyttelse kan særlig bestå i
+
+1. å påtvinge, direkte eller indirekte, urimelige innkjøps- eller utsalgspriser eller andre urimelige forretningsvilkår,
+2. å begrense produksjon, avsetning eller teknisk utvikling til skade for forbrukerne,
+3. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,
+4. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.
 
 ### § 12. Pålegg om å bringe en ulovlig atferd til opphør mv.
 
@@ -122,9 +145,18 @@ Pålegg etter første ledd kan gis selv om Konkurransetilsynet vedtar overtredel
 
 Dersom foretaket tilbyr avhjelpende tiltak i en sak som kan ende med et vedtak etter [§ 12](lov/2004-03-05-12/§12) første ledd, kan Konkurransetilsynet avslutte saken ved et vedtak som gjør tiltakene bindende for foretaket. Vedtak etter første punktum kan fattes før Konkurransetilsynet har gjort en fullstendig vurdering av om inngrepsvilkåret i første ledd er oppfylt. Konkurransetilsynet skal i vedtaket gi en vurdering av foretakets atferd. Videre skal det vurderes om og begrunnes hvorfor de tilbudte tiltakene er egnet til og nødvendige for å avhjelpe de konkurransemessige problemene som Konkurransetilsynet har funnet. Vedtaket skal fastslå at Konkurransetilsynet ikke vil gå videre med saken etter første ledd eller [§ 29](lov/2004-03-05-12/§29) dersom tiltakene gjennomføres. Konkurransetilsynet kan etter forslag fra foretakene oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første punktum. Kongen kan i forskrift gi nærmere bestemmelser om forvalters stilling. Ved klage over vedtak etter dette ledd kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak.
 
-Konkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter tredje ledd dersomfaktiske forhold som var vesentlige for vedtaket, endrer seg,foretakene handler i strid med vedtaket, ellervedtaket bygger på ufullstendige, uriktige, eller villedende opplysninger fra foretakene.
+Konkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter tredje ledd dersom
 
-Konkurransetilsynet kan dersom det errimelig grunn til å anta at [§ 10](lov/2004-03-05-12/§10), [§ 11](lov/2004-03-05-12/§11) eller forskrift i medhold av [§ 14](lov/2004-03-05-12/§14) er overtrådt, ogfare for at konkurransen utsettes for varig og uopprettelig skade,treffe midlertidig vedtak om pålegg etter første ledd. Dette gjelder likevel ikke dersom den vedtaket retter seg mot, påføres skade eller ulempe som står i åpenbart misforhold til de hensyn vedtaket skal ivareta. Midlertidig vedtak skal treffes for et begrenset tidsrom, men kan forlenges dersom faren for konkurransen består.
+1. faktiske forhold som var vesentlige for vedtaket, endrer seg,
+2. foretakene handler i strid med vedtaket, eller
+3. vedtaket bygger på ufullstendige, uriktige, eller villedende opplysninger fra foretakene.
+
+Konkurransetilsynet kan dersom det er
+
+1. rimelig grunn til å anta at [§ 10](lov/2004-03-05-12/§10), [§ 11](lov/2004-03-05-12/§11) eller forskrift i medhold av [§ 14](lov/2004-03-05-12/§14) er overtrådt, og
+2. fare for at konkurransen utsettes for varig og uopprettelig skade,
+
+treffe midlertidig vedtak om pålegg etter første ledd. Dette gjelder likevel ikke dersom den vedtaket retter seg mot, påføres skade eller ulempe som står i åpenbart misforhold til de hensyn vedtaket skal ivareta. Midlertidig vedtak skal treffes for et begrenset tidsrom, men kan forlenges dersom faren for konkurransen består.
 
 > Endret ved lover [17 des 2004 nr. 100](lov/2004-12-17-100) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1683](forskrift/2004-12-17-1683)), [14 juni 2013 nr. 35](lov/2013-06-14-35) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 633](forskrift/2013-06-14-633)), [15 apr 2016 nr. 2](lov/2016-04-15-2) (ikr. 1 apr 2017 iflg. [res. 24 mars 2017 nr. 376](forskrift/2017-03-24-376)).
 
@@ -166,13 +198,25 @@ Ved inngrep etter første ledd gjelder bestemmelsene i [§ 16](lov/2004-03-05-12
 
 ### § 17. Definisjon av foretakssammenslutning
 
-En foretakssammenslutning foreligger nårto eller flere tidligere uavhengige foretak eller deler av foretak fusjonerer, elleren eller flere personer, som allerede kontrollerer minst ett foretak, ellerett eller flere foretakdirekte eller indirekte, helt eller delvis, varig overtar kontrollen over ett eller flere andre foretak.
+En foretakssammenslutning foreligger når
+
+1. to eller flere tidligere uavhengige foretak eller deler av foretak fusjonerer, eller
+2. - en eller flere personer, som allerede kontrollerer minst ett foretak, eller
+   - ett eller flere foretak
+
+   direkte eller indirekte, helt eller delvis, varig overtar kontrollen over ett eller flere andre foretak.
 
 Når det opprettes et fellesforetak som på varig grunnlag ivaretar alle funksjoner som hører inn under en uavhengig økonomisk enhet, foreligger en foretakssammenslutning i henhold til første ledd bokstav b.
 
-Kontroll oppnås gjennom rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særligeiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem,rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+Kontroll oppnås gjennom rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig
 
-Kontroll oppnås av personer eller foretak somer innehavere av slike rettigheter eller har rettigheter i henhold til slike avtaler, elleruten å være innehavere av slike rettigheter eller å ha rettigheter i henhold til slike avtaler, kan utøve rettigheter som følger av dem.
+1. eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem,
+2. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+
+Kontroll oppnås av personer eller foretak som
+
+1. er innehavere av slike rettigheter eller har rettigheter i henhold til slike avtaler, eller
+2. uten å være innehavere av slike rettigheter eller å ha rettigheter i henhold til slike avtaler, kan utøve rettigheter som følger av dem.
 
 Kongen kan gi nærmere forskrifter om hva som skal omfattes av første ledd.
 
@@ -180,7 +224,10 @@ Kongen kan gi nærmere forskrifter om hva som skal omfattes av første ledd.
 
 Partene i en fusjon etter [§ 17](lov/2004-03-05-12/§17) første ledd bokstav a eller den eller de som samlet eller hver for seg varig overtar kontroll etter [§ 17](lov/2004-03-05-12/§17) første ledd bokstav b, skal informere Konkurransetilsynet om foretakssammenslutningen ved en melding.
 
-Meldeplikten etter første ledd gjelder ikkedersom de involverte foretakene har en samlet årlig omsetning i Norge under 1 milliard kroner, ellerdersom bare ett av de involverte foretakene har en årlig omsetning i Norge over 100 millioner kroner.
+Meldeplikten etter første ledd gjelder ikke
+
+1. dersom de involverte foretakene har en samlet årlig omsetning i Norge under 1 milliard kroner, eller
+2. dersom bare ett av de involverte foretakene har en årlig omsetning i Norge over 100 millioner kroner.
 
 Konkurransetilsynet kan pålegge meldeplikt for foretakssammenslutninger som er unntatt fra meldeplikten etter annet ledd, dersom tilsynet finner rimelig grunn til å anta at konkurransen påvirkes, eller dersom særlige hensyn tilsier at tilsynet undersøker foretakssammenslutningen nærmere. Et slikt pålegg kan ikke gis senere enn tre måneder etter at endelig avtale er inngått eller kontroll er ervervet. Fristen løper fra det først inntrufne.
 
@@ -200,7 +247,18 @@ Kongen kan gi forskrift om beregning av omsetning etter annet ledd, meldeplikt f
 
 ### § 18 a. Hva meldingen skal inneholde
 
-Melding etter [§ 18](lov/2004-03-05-12/§18) første ledd skal inneholdekontaktinformasjon om partene i fusjonen eller den eller de som overtar kontroll,beskrivelse av foretakssammenslutningen,beskrivelse av de involverte foretakene og foretak i samme konsern,navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretakene og foretak i samme konsern har horisontalt overlappende virksomhet,redegjørelse for horisontalt og vertikalt berørte markeder. Et marked er horisontalt berørt dersom minst to av partene er aktive på det samme produktmarkedet og partenes samlede markedsandel overstiger 20 prosent. Vertikalt berørte markeder er de markeder der en part opererer i et forutgående eller etterfølgende ledd til et marked hvor en annen part opererer og deres samlede markedsandel overstiger 30 prosent på hvert av de respektive markedene. Redegjørelsen skal inkludere en beskrivelse av markedsstrukturen i de berørte markedene, beskrivelse av de involverte foretakenes viktigste konkurrenter, kunder og leverandører i de berørte markedene, og beskrivelse av eventuelle etableringshindringer i de berørte markedene,en kortfattet beskrivelse av vertikalt overlappende markeder der en foretakssammenslutning er mellom en part som opererer i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer, og partenes individuelle eller samlede markedsandel overstiger 30 prosent på minst ett av disse markedene. Beskrivelsen av disse markedene skal minst omfatte partenes tre viktigste konkurrenter, kunder og leverandører,redegjørelse for eventuelle effektivitetsgevinster,opplysninger om foretakssammenslutningen er underlagt tilsyn fra andre konkurransemyndigheter,seneste versjon av avtalen om foretakssammenslutning med vedlegg, ogde involverte foretakenes siste årsberetning og årsregnskap.
+Melding etter [§ 18](lov/2004-03-05-12/§18) første ledd skal inneholde
+
+1. kontaktinformasjon om partene i fusjonen eller den eller de som overtar kontroll,
+2. beskrivelse av foretakssammenslutningen,
+3. beskrivelse av de involverte foretakene og foretak i samme konsern,
+4. navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretakene og foretak i samme konsern har horisontalt overlappende virksomhet,
+5. redegjørelse for horisontalt og vertikalt berørte markeder. Et marked er horisontalt berørt dersom minst to av partene er aktive på det samme produktmarkedet og partenes samlede markedsandel overstiger 20 prosent. Vertikalt berørte markeder er de markeder der en part opererer i et forutgående eller etterfølgende ledd til et marked hvor en annen part opererer og deres samlede markedsandel overstiger 30 prosent på hvert av de respektive markedene. Redegjørelsen skal inkludere en beskrivelse av markedsstrukturen i de berørte markedene, beskrivelse av de involverte foretakenes viktigste konkurrenter, kunder og leverandører i de berørte markedene, og beskrivelse av eventuelle etableringshindringer i de berørte markedene,
+6. en kortfattet beskrivelse av vertikalt overlappende markeder der en foretakssammenslutning er mellom en part som opererer i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer, og partenes individuelle eller samlede markedsandel overstiger 30 prosent på minst ett av disse markedene. Beskrivelsen av disse markedene skal minst omfatte partenes tre viktigste konkurrenter, kunder og leverandører,
+7. redegjørelse for eventuelle effektivitetsgevinster,
+8. opplysninger om foretakssammenslutningen er underlagt tilsyn fra andre konkurransemyndigheter,
+9. seneste versjon av avtalen om foretakssammenslutning med vedlegg, og
+10. de involverte foretakenes siste årsberetning og årsregnskap.
 
 Ved opprettelse av fellesforetak må meldingen også inneholde opplysninger om morselskapene fortsatt er virksomme på det samme markedet som fellesforetaket eller på et tidligere eller senere ledd i omsetningskjeden eller på et tilgrensende marked.
 
@@ -292,9 +350,17 @@ Kongen kan ved forskrift fastsette nærmere regler for opplysningsplikt og grans
 
 ### § 25. Bevissikring
 
-Konkurransetilsynet kan foreta bevissikring etter annet leddnår det er rimelig grunn til å anta at loven eller vedtak i medhold av loven er overtrådt, ellerfor å oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon, der det er rimelig grunn til å anta at vedkommende stat eller organisasjons konkurranseregler er overtrådt, og forholdet som utredes er av en slik art at det kan innebære en overtredelse av denne lov dersom den hadde kommet til anvendelse på forholdet.
+Konkurransetilsynet kan foreta bevissikring etter annet ledd
 
-Når vilkårene i første ledd er oppfylt, kan Konkurransetilsynet kreveå få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,å ta med ting som kan ha betydning som bevis for nærmere gransking ogå forsegle forretningslokaler, bøker eller forretningspapirer så lenge undersøkelsen varer og dette anses nødvendig.
+1. når det er rimelig grunn til å anta at loven eller vedtak i medhold av loven er overtrådt, eller
+2. for å oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon, der det er rimelig grunn til å anta at vedkommende stat eller organisasjons konkurranseregler er overtrådt, og forholdet som utredes er av en slik art at det kan innebære en overtredelse av denne lov dersom den hadde kommet til anvendelse på forholdet.
+
+Når vilkårene i første ledd er oppfylt, kan Konkurransetilsynet kreve
+
+1. å få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,
+2. å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,
+3. å ta med ting som kan ha betydning som bevis for nærmere gransking og
+4. å forsegle forretningslokaler, bøker eller forretningspapirer så lenge undersøkelsen varer og dette anses nødvendig.
 
 Originale dokumenter kan tas med når originalen i seg selv antas å ha en særskilt bevisverdi, når bevisverdien vil reduseres ved kopiering eller når dokumentet antas å være et særlig sentralt bevis for overtredelse av bestemmelser i denne lov. Når Konkurransetilsynet tar med originaldokumenter etter denne bestemmelsen, skal den kontrollerte gis kopi av dokumentene, så fremt det kan skje uten skade eller fare for etterforskningen.
 
@@ -312,7 +378,12 @@ Kongen kan ved forskrift fastsette nærmere regler om bevissikring og behandling
 
 ### § 26. Innsyn i overtredelsessaker
 
-Før saken er avsluttet gjelder ikke [offentleglova](lov/2006-05-19-16) i saker om overtredelse av:[§ 10](lov/2004-03-05-12/§10), [§ 11](lov/2004-03-05-12/§11), [§ 18](lov/2004-03-05-12/§18) første ledd eller [§ 19](lov/2004-03-05-12/§19) første leddpålegg gitt i medhold av [§ 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [§ 24](lov/2004-03-05-12/§24) første eller andre ledd eller [§ 25](lov/2004-03-05-12/§25) andre leddvedtak truffet i medhold av [§§ 12](lov/2004-03-05-12/§12) eller [42](lov/2004-03-05-12/§42)forskrift gitt i medhold av [§ 14](lov/2004-03-05-12/§14)
+Før saken er avsluttet gjelder ikke [offentleglova](lov/2006-05-19-16) i saker om overtredelse av:
+
+1. [§ 10](lov/2004-03-05-12/§10), [§ 11](lov/2004-03-05-12/§11), [§ 18](lov/2004-03-05-12/§18) første ledd eller [§ 19](lov/2004-03-05-12/§19) første ledd
+2. pålegg gitt i medhold av [§ 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [§ 24](lov/2004-03-05-12/§24) første eller andre ledd eller [§ 25](lov/2004-03-05-12/§25) andre ledd
+3. vedtak truffet i medhold av [§§ 12](lov/2004-03-05-12/§12) eller [42](lov/2004-03-05-12/§42)
+4. forskrift gitt i medhold av [§ 14](lov/2004-03-05-12/§14)
 
 [Offentleglova](lov/2006-05-19-16) gjelder heller ikke for dokumenter som er mottatt av Konkurransetilsynet i forbindelse med en lempningssøknad eller forliksforhandlinger etter [§ 29 a](lov/2004-03-05-12/§29a), også etter at saken er avsluttet. En sak som behandles av påtalemyndigheten, regnes ikke som avsluttet før påtalemyndigheten har avsluttet saken.
 
@@ -352,7 +423,15 @@ Kongen kan ved forskrift fastsette nærmere regler om ileggelse av tvangsmulkt.
 
 ### § 29. Overtredelsesgebyr
 
-Et foretak eller en sammenslutning av foretak kan ilegges overtredelsesgebyr dersom foretaket eller sammenslutningen av foretak eller noen som handler på deres vegne, forsettlig eller uaktsomtovertrer [§§ 10](lov/2004-03-05-12/§10), [11](lov/2004-03-05-12/§11), [18](lov/2004-03-05-12/§18) første ledd eller [19](lov/2004-03-05-12/§19) første ledd,overtrer vedtak etter [§§ 12](lov/2004-03-05-12/§12), [16](lov/2004-03-05-12/§16), [16 a](lov/2004-03-05-12/§16a), [23](lov/2004-03-05-12/§23) eller [42](lov/2004-03-05-12/§42),unnlater å etterkomme pålegg etter [§§ 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [24](lov/2004-03-05-12/§24) eller [25](lov/2004-03-05-12/§25),gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,bryter forsegling foretatt i medhold av [§ 25](lov/2004-03-05-12/§25),overtrer forskrift i medhold av 14, [§§ 18](lov/2004-03-05-12/§18) niende ledd eller [23](lov/2004-03-05-12/§23), ellermedvirker til overtredelser av bokstav a til f.
+Et foretak eller en sammenslutning av foretak kan ilegges overtredelsesgebyr dersom foretaket eller sammenslutningen av foretak eller noen som handler på deres vegne, forsettlig eller uaktsomt
+
+1. overtrer [§§ 10](lov/2004-03-05-12/§10), [11](lov/2004-03-05-12/§11), [18](lov/2004-03-05-12/§18) første ledd eller [19](lov/2004-03-05-12/§19) første ledd,
+2. overtrer vedtak etter [§§ 12](lov/2004-03-05-12/§12), [16](lov/2004-03-05-12/§16), [16 a](lov/2004-03-05-12/§16a), [23](lov/2004-03-05-12/§23) eller [42](lov/2004-03-05-12/§42),
+3. unnlater å etterkomme pålegg etter [§§ 18](lov/2004-03-05-12/§18) tredje eller femte ledd, [24](lov/2004-03-05-12/§24) eller [25](lov/2004-03-05-12/§25),
+4. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,
+5. bryter forsegling foretatt i medhold av [§ 25](lov/2004-03-05-12/§25),
+6. overtrer forskrift i medhold av 14, [§§ 18](lov/2004-03-05-12/§18) niende ledd eller [23](lov/2004-03-05-12/§23), eller
+7. medvirker til overtredelser av bokstav a til f.
 
 Konkurransetilsynet vedtar overtredelsesgebyr. Ved fastsettelse av gebyrets størrelse, skal det særlig legges vekt på foretakets omsetning, overtredelsens grovhet og varighet, samt lempning etter [§ 30](lov/2004-03-05-12/§30) og [§ 31](lov/2004-03-05-12/§31).
 
@@ -386,9 +465,21 @@ Departementet kan gi forskrift om kartellforlik.
 
 ### § 30. Hel lempning av overtredelsesgebyr for overtredelse av konkurranseloven § 10
 
-Hel lempning av overtredelsesgebyr for overtredelse av [§ 10](lov/2004-03-05-12/§10) skal gis til det første foretaket som i tilknytning til en bestemt sak oppfyller følgende vilkår:Foretaket fremlegger av eget tiltak alle bevis som det besitter i samsvar med fremgangsmåten i annet ledd. Dette bevismaterialet må være tilstrekkelig til åfå beslutning om bevissikring etter [konkurranseloven § 25](lov/2004-03-05-12/§25) i forbindelse med en antatt overtredelse av [konkurranseloven § 10](lov/2004-03-05-12/§10). Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis til å kunne kreve slik beslutning, ellerbevise overtredelse av [konkurranseloven § 10](lov/2004-03-05-12/§10). Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis for slik overtredelse.Foretaket samarbeider av eget tiltak fullt ut under hele Konkurransetilsynets saksbehandling.Foretaket opphører av eget tiltak med deltakelsen i overtredelsen med mindre Konkurransetilsynet anmoder om noe annet.Foretaket har ikke søkt å tvinge andre foretak til å delta i overtredelsen.
+Hel lempning av overtredelsesgebyr for overtredelse av [§ 10](lov/2004-03-05-12/§10) skal gis til det første foretaket som i tilknytning til en bestemt sak oppfyller følgende vilkår:
 
-Fremleggelse av bevis etter første ledd bokstav a kan skjeved fremleggelse samtidig med lempningssøknaden,ved at foretaket gir en klar beskrivelse av bevismaterialets art og innhold og fremlegger alle bevis innen en frist fastsatt av Konkurransetilsynet, ellerved at foretaket gis en prioritert rett til lempning fra tidspunktet det ble fremsatt krav om lempning samtidig som foretaket samler bevis. Den prioriterte retten til lempning er kun gyldig i en begrenset periode fastsatt av Konkurransetilsynet.
+1. Foretaket fremlegger av eget tiltak alle bevis som det besitter i samsvar med fremgangsmåten i annet ledd. Dette bevismaterialet må være tilstrekkelig til å
+
+   1. få beslutning om bevissikring etter [konkurranseloven § 25](lov/2004-03-05-12/§25) i forbindelse med en antatt overtredelse av [konkurranseloven § 10](lov/2004-03-05-12/§10). Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis til å kunne kreve slik beslutning, eller
+   2. bevise overtredelse av [konkurranseloven § 10](lov/2004-03-05-12/§10). Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis for slik overtredelse.
+2. Foretaket samarbeider av eget tiltak fullt ut under hele Konkurransetilsynets saksbehandling.
+3. Foretaket opphører av eget tiltak med deltakelsen i overtredelsen med mindre Konkurransetilsynet anmoder om noe annet.
+4. Foretaket har ikke søkt å tvinge andre foretak til å delta i overtredelsen.
+
+Fremleggelse av bevis etter første ledd bokstav a kan skje
+
+1. ved fremleggelse samtidig med lempningssøknaden,
+2. ved at foretaket gir en klar beskrivelse av bevismaterialets art og innhold og fremlegger alle bevis innen en frist fastsatt av Konkurransetilsynet, eller
+3. ved at foretaket gis en prioritert rett til lempning fra tidspunktet det ble fremsatt krav om lempning samtidig som foretaket samler bevis. Den prioriterte retten til lempning er kun gyldig i en begrenset periode fastsatt av Konkurransetilsynet.
 
 > Endret ved lover [17 des 2004 nr. 100](lov/2004-12-17-100) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1683](forskrift/2004-12-17-1683)), [14 juni 2013 nr. 35](lov/2013-06-14-35) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 633](forskrift/2013-06-14-633)).
 
@@ -406,7 +497,14 @@ Kongen kan gi forskrift om hel og delvis lempning av overtredelsesgebyr etter [�
 
 ### § 32. Straff
 
-Med bøter eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomtovertrer [§§ 10](lov/2004-03-05-12/§10), [18](lov/2004-03-05-12/§18) første ledd eller [19](lov/2004-03-05-12/§19) første ledd,overtrer vedtak etter [§§ 12](lov/2004-03-05-12/§12) første eller femte ledd, [16](lov/2004-03-05-12/§16) eller [16 a](lov/2004-03-05-12/§16a),unnlater å etterkomme pålegg etter [§ 24](lov/2004-03-05-12/§24) eller [§ 25](lov/2004-03-05-12/§25),gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,bryter forsegling foretatt i medhold av [§ 25](lov/2004-03-05-12/§25), ellerovertrer forskrift i medhold av [§ 14](lov/2004-03-05-12/§14).
+Med bøter eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomt
+
+1. overtrer [§§ 10](lov/2004-03-05-12/§10), [18](lov/2004-03-05-12/§18) første ledd eller [19](lov/2004-03-05-12/§19) første ledd,
+2. overtrer vedtak etter [§§ 12](lov/2004-03-05-12/§12) første eller femte ledd, [16](lov/2004-03-05-12/§16) eller [16 a](lov/2004-03-05-12/§16a),
+3. unnlater å etterkomme pålegg etter [§ 24](lov/2004-03-05-12/§24) eller [§ 25](lov/2004-03-05-12/§25),
+4. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,
+5. bryter forsegling foretatt i medhold av [§ 25](lov/2004-03-05-12/§25), eller
+6. overtrer forskrift i medhold av [§ 14](lov/2004-03-05-12/§14).
 
 Er en overtredelse av [§ 10](lov/2004-03-05-12/§10) utført under særdeles skjerpende omstendigheter, kan fengsel inntil 6 år anvendes. Ved avgjørelse av om særdeles skjerpende omstendigheter foreligger, skal det legges vekt på om overtredelsen har vært søkt holdt skjult, om den har voldt betydelig økonomisk skade, om den har gitt betydelig økonomisk fordel og grovheten av overtredelsen for øvrig.
 
@@ -520,7 +618,10 @@ Pålegg om avhjelpende tiltak etter første og annet ledd kan treffes senest 18 
 
 Konkurransetilsynet kan oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første eller annet ledd. Forvalteren skal få sin godtgjørelse dekket av Konkurransetilsynet. Kongen kan gi forskrift om forvalterens stilling og oppgaver.
 
-Konkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter første eller annet ledd hvissentrale faktiske forhold som var vesentlige for vedtaket, endrer segdet viser seg at vedtaket bygger på ufullstendige, uriktige eller villedende opplysninger fra foretakene.
+Konkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter første eller annet ledd hvis
+
+1. sentrale faktiske forhold som var vesentlige for vedtaket, endrer seg
+2. det viser seg at vedtaket bygger på ufullstendige, uriktige eller villedende opplysninger fra foretakene.
 
 Ved klage på vedtak etter denne bestemmelsen kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak. Konkurranseklagenemnda kan ikke fatte nytt vedtak om avhjelpende tiltak. Hvis klageinstansen kommer til at vilkårene i første ledd første punktum er oppfylt, men at Konkurransetilsynets tiltak ikke er nødvendige, forholdsmessige eller egnet til å avhjelpe konkurransebegrensningen, kan vedtaket oppheves og saken sendes tilbake til tilsynet for en ny vurdering. Et nytt vedtak i saken må da fattes innen tre måneder. Fristen i tredje ledd gjelder ikke når Konkurransetilsynet fatter nytt vedtak etter en klagebehandling.
 

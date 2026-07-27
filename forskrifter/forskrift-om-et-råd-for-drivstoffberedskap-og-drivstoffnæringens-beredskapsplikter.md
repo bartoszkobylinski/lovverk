@@ -48,7 +48,14 @@ For personell som faller inn under forskriftens bestemmelser, søkes fritak ette
 
 ## § 5. Rådets oppgaver
 
-Rådet skal bistå departementet medråd ved behovutpeking av konkrete områder som bør utredes nærmere med utgangspunkt i aktuell trussel- og risikovurderinger og andre utfordringerutarbeidelse av analyser og utredningerå avgi høringsuttalelser om faglige spørsmål av betydning for drivstoffberedskapvurdering av kritiske situasjoner ogå finne frem til ressurser det er behov for.
+Rådet skal bistå departementet med
+
+1. råd ved behov
+2. utpeking av konkrete områder som bør utredes nærmere med utgangspunkt i aktuell trussel- og risikovurderinger og andre utfordringer
+3. utarbeidelse av analyser og utredninger
+4. å avgi høringsuttalelser om faglige spørsmål av betydning for drivstoffberedskap
+5. vurdering av kritiske situasjoner og
+6. å finne frem til ressurser det er behov for.
 
 ## § 6. Sekretariat
 

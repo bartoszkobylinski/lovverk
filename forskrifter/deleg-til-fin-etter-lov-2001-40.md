@@ -22,4 +22,7 @@ eu_basis: []
 
 # Delegering av myndighet til Finansdepartementet etter lov av 15. juni 2001 nr. 41 om endringer i innskuddspensjonsloven, lov om foretakspensjon og enkelte andre lover (parallelle ordninger mv.).
 
-Kongens myndighet delegeres til Finansdepartementet etter følgende deler og bestemmelser i [lov av 15. juni 2001 nr. 41](lov/2001-06-15-41) om endringer i innskuddspensjonsloven, lov om foretakspensjon og enkelte andre lover (parallelle ordninger mv.):Lovens del IV, [lov av 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 13-1](lov/1988-06-10-39/§13-1) nytt annet punktum.Lovens del VI.
+Kongens myndighet delegeres til Finansdepartementet etter følgende deler og bestemmelser i [lov av 15. juni 2001 nr. 41](lov/2001-06-15-41) om endringer i innskuddspensjonsloven, lov om foretakspensjon og enkelte andre lover (parallelle ordninger mv.):
+
+- Lovens del IV, [lov av 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 13-1](lov/1988-06-10-39/§13-1) nytt annet punktum.
+- Lovens del VI.

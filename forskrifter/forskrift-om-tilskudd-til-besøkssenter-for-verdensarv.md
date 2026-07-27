@@ -38,7 +38,10 @@ Sentre som er autorisert av Miljødirektoratet som besøkssentre innen kategorie
 
 ## § 4. Hva det kan tildeles tilskudd til
 
-Det kan gis følgende tilskudd til autoriserte besøkssentregrunntilskudd til administrasjon, planlegging og gjennomføring av blant annet informasjonstiltak og natur- og kulturmiljøveiledningtilskudd til utvikling, som for eksempel ekstra publikumstiltak, kompetanseheving, utstillinger og informasjonstiltak.
+Det kan gis følgende tilskudd til autoriserte besøkssentre
+
+1. grunntilskudd til administrasjon, planlegging og gjennomføring av blant annet informasjonstiltak og natur- og kulturmiljøveiledning
+2. tilskudd til utvikling, som for eksempel ekstra publikumstiltak, kompetanseheving, utstillinger og informasjonstiltak.
 
 ## § 5. Krav for å kunne tildeles tilskudd
 
@@ -52,17 +55,34 @@ Søkere som har fått tilskudd tidligere, kan bare motta tilskudd dersom krav om
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon omsøkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktpersonhva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningenbeløpet det søkes omdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.om det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte (tiltaket)egenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1845/§10)om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
+Søknaden skal inneholde informasjon om
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+3. beløpet det søkes om
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
+5. om det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte (tiltaket)
+6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1845/§10)
+8. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Miljødirektoratet kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenbe om omarbeiding av søknader og sammenkobling av ulike søknader når det er nødvendigkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. be om omarbeiding av søknader og sammenkobling av ulike søknader når det er nødvendig
+3. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+4. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 8. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Miljødirektoratet dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 9. Behandling av søknad om tilskudd
 

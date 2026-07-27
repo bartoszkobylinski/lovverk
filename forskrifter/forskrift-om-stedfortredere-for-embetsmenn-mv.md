@@ -30,7 +30,11 @@ eu_basis: []
 
 ### II. Statsforvalterne og fylkeskontorsjefstillingene
 
-Kommunal- og moderniseringsdepartementet bemyndiges til:å utferdige konstitusjon under ledighet for inntil 1 år,å meddele tjenestefrihet og utferdige konstitusjon under denne for inntil 1 år,For en enkelt sak å oppnevne stedfortreder for en statsforvalter.
+Kommunal- og moderniseringsdepartementet bemyndiges til:
+
+1. å utferdige konstitusjon under ledighet for inntil 1 år,
+2. å meddele tjenestefrihet og utferdige konstitusjon under denne for inntil 1 år,
+3. For en enkelt sak å oppnevne stedfortreder for en statsforvalter.
 
 > Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
 
@@ -54,7 +58,12 @@ Justis- og beredskapsdepartementet gis samme bemyndigelse som nevnt under pkt. I
 
 ### VI. Påtalemyndigheten.
 
-1. Justis- og beredskapsdepartementet bemyndiges til:Under ledighet i riksadvokatembetet å utferdige konstitusjon for inntil 6 måneder,å meddele riksadvokaten tjenestefrihet og utferdige konstitusjon under denne for inntil 6 måneder,å utferdige konstitusjon under ledighet i statsadvokatembetene for inntil 1 år,å meddele statsadvokatene tjenestefrihet og utferdige konstitusjon under denne for inntil 1 år.
+1. Justis- og beredskapsdepartementet bemyndiges til:
+
+   1. Under ledighet i riksadvokatembetet å utferdige konstitusjon for inntil 6 måneder,
+   2. å meddele riksadvokaten tjenestefrihet og utferdige konstitusjon under denne for inntil 6 måneder,
+   3. å utferdige konstitusjon under ledighet i statsadvokatembetene for inntil 1 år,
+   4. å meddele statsadvokatene tjenestefrihet og utferdige konstitusjon under denne for inntil 1 år.
 2. Riksadvokaten bemyndiges til å meddele statsadvokatene tjenestefrihet for inntil 1 måned og under sykdom inntil 2 måneder, samt for denne tid å konstituere en stedfortreder som bestyrer embetet på embetsmannens ansvar og uten utgift for det offentlige.
 
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).

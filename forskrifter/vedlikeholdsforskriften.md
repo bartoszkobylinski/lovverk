@@ -24,7 +24,25 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-EØS-avtalen vedlegg XIII nr. 66q (forordning [(EU) nr. 1321/2014](eu/32014r1321)) av 26. november 2014 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver som endret vedforordning [(EU) 2015/1088](eu/32015r1088),forordning [(EU) 2015/1536](eu/32015r1536),forordning [(EU) 2018/1142](eu/32018r1142),forordning [(EU) 2019/1384](eu/32019r1384)forordning [(EU) 2019/1383](eu/32019r1383)forordning [(EU) 2020/270](eu/32020r0270)forordning [(EU) 2020/1159](eu/32020r1159)forordning [(EU) 2021/700](eu/32021r0700)forordning [(EU) 2021/1963](eu/32021r1963)forordning [(EU) 2022/1360](eu/32022r1360)forordning [(EU) 2023/989](eu/32023r0989)forordning [(EU) 2025/111](eu/32025r0111)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2026/100](eu/32026r0100)forordning [(EU) 2025/2293](eu/32025r2293)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg XIII nr. 66q (forordning [(EU) nr. 1321/2014](eu/32014r1321)) av 26. november 2014 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver som endret ved
+
+1. forordning [(EU) 2015/1088](eu/32015r1088),
+2. forordning [(EU) 2015/1536](eu/32015r1536),
+3. forordning [(EU) 2018/1142](eu/32018r1142),
+4. forordning [(EU) 2019/1384](eu/32019r1384)
+5. forordning [(EU) 2019/1383](eu/32019r1383)
+6. forordning [(EU) 2020/270](eu/32020r0270)
+7. forordning [(EU) 2020/1159](eu/32020r1159)
+8. forordning [(EU) 2021/700](eu/32021r0700)
+9. forordning [(EU) 2021/1963](eu/32021r1963)
+10. forordning [(EU) 2022/1360](eu/32022r1360)
+11. forordning [(EU) 2023/989](eu/32023r0989)
+12. forordning [(EU) 2025/111](eu/32025r0111)
+13. forordning [(EU) 2023/203](eu/32023r0203)
+14. forordning [(EU) 2026/100](eu/32026r0100)
+15. forordning [(EU) 2025/2293](eu/32025r2293)
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved forskrifter [30 sep 2015 nr. 1142](forskrift/2015-09-30-1142), [4 nov 2015 nr. 1278](forskrift/2015-11-04-1278), [12 juli 2019 nr. 1003](forskrift/2019-07-12-1003), [17 sep 2024 nr. 2165](forskrift/2024-09-17-2165), [22 jan 2025 nr. 58](forskrift/2025-01-22-58), [10 juli 2025 nr. 1512](forskrift/2025-07-10-1512), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [11 mai 2026 nr. 778](forskrift/2026-05-11-778), [1 juli 2026 nr. 1486](forskrift/2026-07-01-1486).
 

@@ -15,7 +15,7 @@ xml_hash: "6d5691839f16dac83b6180aabf8d4d51063797da1d80f2d596954e80e098e562"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1-1. Verkeområde
 
-(1) Forskrifta gjeld opptak til alle utdanningar ved Universitetet i Bergen til og med mastergradsnivå. Forskrifta gjeld ikkje for opptak til:Etterutdanning som ikkje gir studiepoengSpesialistutdanning i odontologiKvalifiseringsprogrammet for tannlegarFellesgradar.
+(1) Forskrifta gjeld opptak til alle utdanningar ved Universitetet i Bergen til og med mastergradsnivå. Forskrifta gjeld ikkje for opptak til:
+
+- Etterutdanning som ikkje gir studiepoeng
+- Spesialistutdanning i odontologi
+- Kvalifiseringsprogrammet for tannlegar
+- Fellesgradar.
 
 (2) [Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)](lov/2005-04-01-15), [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning (forskrift om opptak til høgre utdanning), [forskrift 21. desember 2015 nr. 1771 om rammeplan for praktisk-pedagogisk utdanning](forskrift/2015-12-21-1771), [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392) (mastergradsforskrifta), [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](lov/1967-02-10), og dessutan andre nasjonale avgjersler, er overordna denne forskrifta og gjeld føre forskrifta ved eventuell motstrid.
 
@@ -46,7 +51,14 @@ eu_basis: []
 
 (3) For opptak til engelskspråklege studieprogram eller studieretningar gjeld ikkje norskkravet i forskrift om opptak til høgre utdanning.
 
-(4) Søkjarar til engelskspråklege masterprogram må dokumentere engelskkunnskapar på høgre nivå med eitt av følgjande alternativ:Engelsk frå Vg1 i norsk vidaregåande skule (140 årstimar), eller utdanning av minst same omfang frå ein stat som er part til Lisboakonvensjonen. Vurderinga av same omfang tar utgangspunkt i at engelsk frå Vg1 i norsk vidaregåande skule bygger på 10 år med engelsk frå grunnskulen.International English Language Testing Service (IELTS) med minimum score 6.5 på alle delprøver.Test of English as a Foreign Language (TOEFL), minst 90 poeng for Internet-based test (IBT).PTE Academic Pearson Test of English (PTE), med minst 62 poeng.Annan dokumentasjon kan godkjennast etter individuell vurdering.Enkeltstudium kan fastsetje strengare krav til engelskkunnskapar i den aktuelle studieplanen.
+(4) Søkjarar til engelskspråklege masterprogram må dokumentere engelskkunnskapar på høgre nivå med eitt av følgjande alternativ:
+
+1. Engelsk frå Vg1 i norsk vidaregåande skule (140 årstimar), eller utdanning av minst same omfang frå ein stat som er part til Lisboakonvensjonen. Vurderinga av same omfang tar utgangspunkt i at engelsk frå Vg1 i norsk vidaregåande skule bygger på 10 år med engelsk frå grunnskulen.
+2. International English Language Testing Service (IELTS) med minimum score 6.5 på alle delprøver.
+3. Test of English as a Foreign Language (TOEFL), minst 90 poeng for Internet-based test (IBT).
+4. PTE Academic Pearson Test of English (PTE), med minst 62 poeng.
+5. Annan dokumentasjon kan godkjennast etter individuell vurdering.
+6. Enkeltstudium kan fastsetje strengare krav til engelskkunnskapar i den aktuelle studieplanen.
 
 (5) Søkjarar til tospråklege masterprogram eller studieretningar, må dokumentere språkkunnskapar etter reglane som gjeld for norskspråklege program eller for engelskspråklege program. For framandspråklege masterprogram, som ikkje har undervisning på norsk eller engelsk, kan eigne språkkrav fastsetjast i studieplanen.
 
@@ -64,7 +76,13 @@ eu_basis: []
 
 (2) Nærare krav til fagleg grunnlag og faglege minstekrav for den enkelte utdanninga blir fastsett i studieplanen, jf. [§ 2](forskrift/2005-12-01-1392/§2) i mastergradforskrifta.
 
-(3) For opptak til 2-årig masterprogram etter [§ 3](forskrift/2005-12-01-1392/§3) i mastergradforskrifta gjeld følgjande:Opptaksgrunnlaget er ein fullført bachelorgrad eller tilsvarande utdanning. Universitetet kan krevje inntil fire semester høgre utdanning i tillegg til bachelorgrada, i tråd med GSU-lista.Søkjarar må dokumentere ei fagleg fordjuping på minimum 80 studiepoeng relevant for studiet dei søkjer opptak til.Fakultetet sjølv fastset kva emne ved UiB som inngår i den faglege fordjupinga. Dette skal gå fram av studieplanen.I heilt spesielle tilfelle kan annan dokumentert kompetanse godkjennast som heilt eller delvis likeverdig med kravet i b), føresett at søkjaren har dei nødvendige faglege føresetnadene for å gjennomføre studiet. Nærare føresegn om kva utdanningar dette kan gjelde for er gitt i utfyllande retningslinjer for opptak til UiB.Emna som utgjer den faglege fordjupinga skal ha eit vekta snitt på karakteren C, altså 2,50 eller høgare (kvalifiseringskravet), jf. retningslinjene for utrekning av karakterpoeng i [§ 5-4](forskrift/2018-11-27-1907/§5-4).
+(3) For opptak til 2-årig masterprogram etter [§ 3](forskrift/2005-12-01-1392/§3) i mastergradforskrifta gjeld følgjande:
+
+1. Opptaksgrunnlaget er ein fullført bachelorgrad eller tilsvarande utdanning. Universitetet kan krevje inntil fire semester høgre utdanning i tillegg til bachelorgrada, i tråd med GSU-lista.
+2. Søkjarar må dokumentere ei fagleg fordjuping på minimum 80 studiepoeng relevant for studiet dei søkjer opptak til.
+3. Fakultetet sjølv fastset kva emne ved UiB som inngår i den faglege fordjupinga. Dette skal gå fram av studieplanen.
+4. I heilt spesielle tilfelle kan annan dokumentert kompetanse godkjennast som heilt eller delvis likeverdig med kravet i b), føresett at søkjaren har dei nødvendige faglege føresetnadene for å gjennomføre studiet. Nærare føresegn om kva utdanningar dette kan gjelde for er gitt i utfyllande retningslinjer for opptak til UiB.
+5. Emna som utgjer den faglege fordjupinga skal ha eit vekta snitt på karakteren C, altså 2,50 eller høgare (kvalifiseringskravet), jf. retningslinjene for utrekning av karakterpoeng i [§ 5-4](forskrift/2018-11-27-1907/§5-4).
 
 (4) Fakultetet kan i studieplanen fastsetje eit høgare kvalifiseringskrav, i samråd med fagmiljøa.
 
@@ -92,7 +110,13 @@ eu_basis: []
 
 (3) Universitetet i Bergen tilbyr PPU med fagdidaktisk fordjuping i eitt eller to fag.
 
-(4) For opptak til PPU gjeld følgjande:Søkjaren må ha fullført ein mastergrad.Søkjarar til PPU er unnatekne frå kravet om engelsk, jf. [§ 2-1](forskrift/2018-11-27-1907/§2-1).Opptaksgrunnlaget er minimum 60 studiepoeng i minst eitt fagområde som er relevant grunnlag for tilsetjing på trinn 5–13 i den norske skulen, og som Universitetet i Bergen tilbyr fagdidaktikk i.Opptaksgrunnlaget for skulefaget naturfag er minimum 90 studiepoeng i relevante emne.Emna som utgjer opptaksgrunnlaget, skal ha eit vekta gjennomsnitt på minimum karakteren C (2,5) eller betre.
+(4) For opptak til PPU gjeld følgjande:
+
+1. Søkjaren må ha fullført ein mastergrad.
+2. Søkjarar til PPU er unnatekne frå kravet om engelsk, jf. [§ 2-1](forskrift/2018-11-27-1907/§2-1).
+3. Opptaksgrunnlaget er minimum 60 studiepoeng i minst eitt fagområde som er relevant grunnlag for tilsetjing på trinn 5–13 i den norske skulen, og som Universitetet i Bergen tilbyr fagdidaktikk i.
+4. Opptaksgrunnlaget for skulefaget naturfag er minimum 90 studiepoeng i relevante emne.
+5. Emna som utgjer opptaksgrunnlaget, skal ha eit vekta gjennomsnitt på minimum karakteren C (2,5) eller betre.
 
 > Tilføyd ved [forskrift 28 nov 2019 nr. 1867](forskrift/2019-11-28-1867) (i kraft 1 jan 2020).
 
@@ -174,7 +198,10 @@ eu_basis: []
 
 ### § 5-4. Poengutrekning og rangering av søkjarar til 2-årige masterprogram og praktisk-pedagogisk utdanning (PPU)
 
-(1) Søkjarar til 2-årige masterprogram og PPU blir rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:Karakterpoeng: Det blir rekna ut eit vekta karaktergjennomsnitt, med to desimalar av den faglege fordjupinga, jf. [§ 2-2](forskrift/2018-11-27-1907/§2-2) (3) b). Vekta til kvar einskild karakter er talet på studiepoeng i det aktuelle emnet. Dersom utrekninga gir meir enn to desimalar, skal alle frå og med den fjerde desimalen strykast. Ein eventuell tredje desimal vert nytta til å høgne den andre desimalen, etter vanlege reknereglar.Andre tilleggspoeng: Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan det fastsetjast andre poengtypar i studieplanen.
+(1) Søkjarar til 2-årige masterprogram og PPU blir rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:
+
+1. Karakterpoeng: Det blir rekna ut eit vekta karaktergjennomsnitt, med to desimalar av den faglege fordjupinga, jf. [§ 2-2](forskrift/2018-11-27-1907/§2-2) (3) b). Vekta til kvar einskild karakter er talet på studiepoeng i det aktuelle emnet. Dersom utrekninga gir meir enn to desimalar, skal alle frå og med den fjerde desimalen strykast. Ein eventuell tredje desimal vert nytta til å høgne den andre desimalen, etter vanlege reknereglar.
+2. Andre tilleggspoeng: Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan det fastsetjast andre poengtypar i studieplanen.
 
 (2) For søkjarar med bokstavkarakterar blir følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter: A=5, B=4, C=3, D=2, E=1. Ved utrekning av karaktersnitt i rangeringsgrunnlaget, blir kvar karakter erstatta med det tilsvarande talet. For kvart emne som inngår i rangeringsgrunnlaget, blir talet multiplisert med talet på studiepoeng og produktet blir summert. Denne summen blir dividert på totalt tal på studiepoeng, og resultatet blir utrekna med to desimal.
 

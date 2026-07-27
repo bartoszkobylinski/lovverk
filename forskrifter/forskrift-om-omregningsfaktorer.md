@@ -28,13 +28,26 @@ Formålet med forskriften er å fremme bærekraftig forvaltning av de viltlevend
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for norske fiske- og fangstfartøy som er pålagt rapportering etter [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy](forskrift/2009-12-21-1743). Forskriften gjelder for norske og utenlandske fiske- og fangstfartøy som er pålagt rapportering etter[Forskrift 31. august 2010 nr. 1231 om elektronisk rapportering for utenlandske fiske- og fangstfartøy i Norges økonomiske sone, territorialfarvann, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard](forskrift/2010-08-31-1231).[Forskrift 30. august 2010 nr. 1230 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i Svalbards territorialfarvann](forskrift/2010-08-30-1230).[Forskrift 30. august 2010 nr. 1229 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i fiskevernsonen ved Svalbard](forskrift/2010-08-30-1229).[Forskrift 21. desember 1999 nr. 1396 om utlendingers fiske og fangst mv. i fiskerisonen ved Jan Mayen](forskrift/1999-12-21-1396).[Forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til eller annen bruk av norsk havn](forskrift/1977-05-13-2).
+Forskriften gjelder for norske fiske- og fangstfartøy som er pålagt rapportering etter [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy](forskrift/2009-12-21-1743). Forskriften gjelder for norske og utenlandske fiske- og fangstfartøy som er pålagt rapportering etter
+
+1. [Forskrift 31. august 2010 nr. 1231 om elektronisk rapportering for utenlandske fiske- og fangstfartøy i Norges økonomiske sone, territorialfarvann, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard](forskrift/2010-08-31-1231).
+2. [Forskrift 30. august 2010 nr. 1230 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i Svalbards territorialfarvann](forskrift/2010-08-30-1230).
+3. [Forskrift 30. august 2010 nr. 1229 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i fiskevernsonen ved Svalbard](forskrift/2010-08-30-1229).
+4. [Forskrift 21. desember 1999 nr. 1396 om utlendingers fiske og fangst mv. i fiskerisonen ved Jan Mayen](forskrift/1999-12-21-1396).
+5. [Forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til eller annen bruk av norsk havn](forskrift/1977-05-13-2).
 
 Forskriften gjelder også for fiskesalgslagene.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*fiske- og fangstfartøy:* ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og fartøy som bistår fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning,*fisk:* viltlevende marine ressurser samt produkter herav, med unntak av anadrome laksefisk,*rund fisk:* fisken slik den tas opp av havet,*bearbeidet fangst:* at fisken er produsert eller på annen måte behandlet slik at den er et annet produkt enn rund. Bløgging av fisk regnes etter denne forskriften ikke som bearbeiding,*produkttilstandskode:* Fiskeridirektoratets kode for fiskens tilstand på landings-/leveringstidspunktet, angitt i Fiskeridirektoratets kodeliste for landing og omsetning av fisk,*ansvarshavende om bord:* skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.
+I denne forskriften menes med
+
+1. *fiske- og fangstfartøy:* ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og fartøy som bistår fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning,
+2. *fisk:* viltlevende marine ressurser samt produkter herav, med unntak av anadrome laksefisk,
+3. *rund fisk:* fisken slik den tas opp av havet,
+4. *bearbeidet fangst:* at fisken er produsert eller på annen måte behandlet slik at den er et annet produkt enn rund. Bløgging av fisk regnes etter denne forskriften ikke som bearbeiding,
+5. *produkttilstandskode:* Fiskeridirektoratets kode for fiskens tilstand på landings-/leveringstidspunktet, angitt i Fiskeridirektoratets kodeliste for landing og omsetning av fisk,
+6. *ansvarshavende om bord:* skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.
 
 ## § 4. Bruk av omregningsfaktorer for fiske- og fangstfartøy
 

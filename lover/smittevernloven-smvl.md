@@ -15,7 +15,7 @@ xml_hash: "db6a5efb4513757ec061f12c86a8e8f29996976d92258f4c885545a8c7d5328d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,16 @@ Kongen kan gi regler til gjennomføring av avtale med fremmed stat om forhold so
 
 ### § 1-3. Definisjoner
 
-Med følgende uttrykk i loven her forstås:smittsom sykdom: en sykdom eller smittebærertilstand som er forårsaket av mikroorganismer eller andre smittestoff som kan overføres fra, til eller mellom mennesker.smittet person: en person som har eller etter en faglig vurdering antas å ha en smittsom sykdom.allmennfarlig smittsom sykdom: en sykdom som er særlig smittsom, eller som kan opptre hyppig, eller har høy dødelighet eller kan gi alvorlige eller varige skader, og somvanligvis fører til langvarig behandling, eventuelt sykehusinnleggelse, langvarig sykefravær eller rekonvalesens, ellerkan få så stor utbredelse at sykdommen blir en vesentlig belastning for folkehelsen, ellerutgjør en særlig belastning fordi det ikke fins effektive forebyggende tiltak eller helbredende behandling for den.alvorlig utbrudd av allmennfarlig smittsom sykdom: et utbrudd eller fare for utbrudd som krever særlig omfattende tiltak. Helsedirektoratet kan i tvilstilfelle avgjøre når det foreligger et alvorlig utbrudd av allmennfarlig smittsom sykdom.
+Med følgende uttrykk i loven her forstås:
+
+1. smittsom sykdom: en sykdom eller smittebærertilstand som er forårsaket av mikroorganismer eller andre smittestoff som kan overføres fra, til eller mellom mennesker.
+2. smittet person: en person som har eller etter en faglig vurdering antas å ha en smittsom sykdom.
+3. allmennfarlig smittsom sykdom: en sykdom som er særlig smittsom, eller som kan opptre hyppig, eller har høy dødelighet eller kan gi alvorlige eller varige skader, og som
+
+   1. vanligvis fører til langvarig behandling, eventuelt sykehusinnleggelse, langvarig sykefravær eller rekonvalesens, eller
+   2. kan få så stor utbredelse at sykdommen blir en vesentlig belastning for folkehelsen, eller
+   3. utgjør en særlig belastning fordi det ikke fins effektive forebyggende tiltak eller helbredende behandling for den.
+4. alvorlig utbrudd av allmennfarlig smittsom sykdom: et utbrudd eller fare for utbrudd som krever særlig omfattende tiltak. Helsedirektoratet kan i tvilstilfelle avgjøre når det foreligger et alvorlig utbrudd av allmennfarlig smittsom sykdom.
 
 > Endret ved lover [21 des 2001 nr. 119](lov/2001-12-21-119) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1524](forskrift/2001-12-21-1524)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2016), [21 juni 2019 nr. 46](lov/2019-06-21-46) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 808](forskrift/2019-06-21-808)).
 
@@ -68,7 +77,10 @@ Tvangstiltak kan ikke brukes når det etter sakens art og forholdene ellers vil 
 
 ### § 2-1. Informasjon og personlig smittevernveiledning til smittede personer.
 
-Den undersøkende eller behandlende legen skal snarest mulig gi en smittet person med en allmennfarlig smittsom sykdom informasjon og personlig smittevernveiledning omsykdommen, sykdommens smittsomhet og smittemåter, og hva den smittede selv kan gjøre for å motvirke at sykdommen blir overført til andre, ogrettigheter og plikter en smittet person med en allmennfarlig smittsom sykdom har, herunder etter [smittevernloven kapittel 5](lov/1994-08-05-55/kap5) og 6.
+Den undersøkende eller behandlende legen skal snarest mulig gi en smittet person med en allmennfarlig smittsom sykdom informasjon og personlig smittevernveiledning om
+
+1. sykdommen, sykdommens smittsomhet og smittemåter, og hva den smittede selv kan gjøre for å motvirke at sykdommen blir overført til andre, og
+2. rettigheter og plikter en smittet person med en allmennfarlig smittsom sykdom har, herunder etter [smittevernloven kapittel 5](lov/1994-08-05-55/kap5) og 6.
 
 Er den smittede under 12 år eller en person over 16 år som på grunn av sinnslidelse, andre psykiske forstyrrelser, senil demens, psykisk utviklingshemming eller legemlig funksjonshemming ikke kan ivareta sine anliggender når det gjelder smittefaren, har både den smittede og uten hinder av legens lovbestemte taushetsplikt også de som har omsorgen for den smittede, krav på informasjon og personlig smittevernveiledning etter første ledd.
 
@@ -84,7 +96,12 @@ Hovedinnholdet av den informasjon og den personlige smittevernveiledning som leg
 
 Legen skal så langt råd er søke å oppnå samtykke fra en smittet person når det av hensyn til smittevernet er behov for å gi videre opplysninger underlagt taushetsplikt og det er overveiende sannsynlig at det er eller har vært fare for overføring av en allmennfarlig smittsom sykdom.
 
-Er det ikke mulig å oppnå samtykke fra den smittede, kan det gis opplysninger om smittestatus og andre nødvendige opplysninger uten hinder av lovbestemt taushetsplikt. Legen kan gi opplysningene tilhelsepersonell som har ansvar for oppfølging av pasienten eller som har ansvar for at annet personell, andre pasienter eller besøkende ikke smittes, når det er overveiende sannsynlig at helsepersonellet, pasientene eller de besøkende er i fare for å få overført en allmennfarlig smittsom sykdom,den som med overveiende sannsynlighet er i fare for å få overført en allmennfarlig smittsom sykdom,den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom, når opplysningene kan motvirke at sykdommen blir overført til andre, eller er avgjørende for å kunne begynne medisinsk behandling av den smitteutsatte, ellerden som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom fordi den smittede har opptrådt klanderverdig.
+Er det ikke mulig å oppnå samtykke fra den smittede, kan det gis opplysninger om smittestatus og andre nødvendige opplysninger uten hinder av lovbestemt taushetsplikt. Legen kan gi opplysningene til
+
+1. helsepersonell som har ansvar for oppfølging av pasienten eller som har ansvar for at annet personell, andre pasienter eller besøkende ikke smittes, når det er overveiende sannsynlig at helsepersonellet, pasientene eller de besøkende er i fare for å få overført en allmennfarlig smittsom sykdom,
+2. den som med overveiende sannsynlighet er i fare for å få overført en allmennfarlig smittsom sykdom,
+3. den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom, når opplysningene kan motvirke at sykdommen blir overført til andre, eller er avgjørende for å kunne begynne medisinsk behandling av den smitteutsatte, eller
+4. den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom fordi den smittede har opptrådt klanderverdig.
 
 Dersom det er åpenbar fare for overføring etter annet ledd bokstav b, skal opplysningene gis, med mindre legen vet at en annen lege gir opplysningene.
 
@@ -128,7 +145,11 @@ Er den smittede under 16 år eller en person over 16 år som på grunn av sinnsl
 
 ### § 3-2. Forhåndsundersøkelse av arbeids- og utdanningssøkere, undersøkelse av arbeidstakere og personer under utdanning mv.
 
-Departementet kan, når hensynet til smittevernet krever det, og dersom smittede personer kan utgjøre alvorlig fare for overføring av smittsom sykdom i sitt arbeid eller virke, gi forskrift om plikt til å gjennomgå undersøkelse som nevnt i [§ 3-1](lov/1994-08-05-55/§3-1) forarbeids- eller utdanningssøkere før ansettelse eller opptak,arbeidstakere, innleide arbeidstakere, oppdragstakere, skoleelever eller studenter, ogpersoner som skal oppholde seg i Norge som ledd i kulturutveksling, frivillig arbeid eller lignende.
+Departementet kan, når hensynet til smittevernet krever det, og dersom smittede personer kan utgjøre alvorlig fare for overføring av smittsom sykdom i sitt arbeid eller virke, gi forskrift om plikt til å gjennomgå undersøkelse som nevnt i [§ 3-1](lov/1994-08-05-55/§3-1) for
+
+1. arbeids- eller utdanningssøkere før ansettelse eller opptak,
+2. arbeidstakere, innleide arbeidstakere, oppdragstakere, skoleelever eller studenter, og
+3. personer som skal oppholde seg i Norge som ledd i kulturutveksling, frivillig arbeid eller lignende.
 
 > Endret ved lov [21 juni 2019 nr. 46](lov/2019-06-21-46) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 808](forskrift/2019-06-21-808)).
 
@@ -176,7 +197,13 @@ Dersom kommunelegen får opplysninger om en smittet person som bor eller opphold
 
 Tilgjengelig blod, serum og annet biologisk materiale fra mennesker kan ikke analyseres med henblikk på en smittsom sykdom for et ikke-diagnostisk formål uten samtykke fra de personene prøvene stammer fra.
 
-Laboratorier/institusjoner kan likevel utføre kartleggingsundersøkelser ved bruk av tilgjengelig prøvemateriale som nevnt i første ledd uten samtykke fra de som har avgitt prøvene dersom formålet med undersøkelsen er å:overvåke utviklingen av en epidemi som sprer seg i befolkningen, ellerbelyse forekomsten av en smittsom sykdom i befolkningen eller en del av den, ellerbedømme om og i tilfelle hvor godt befolkningen er beskyttet mot en smittsom sykdom som det vaksineres mot,og undersøkelsens resultat er av betydning for smittevernarbeidet.
+Laboratorier/institusjoner kan likevel utføre kartleggingsundersøkelser ved bruk av tilgjengelig prøvemateriale som nevnt i første ledd uten samtykke fra de som har avgitt prøvene dersom formålet med undersøkelsen er å:
+
+- overvåke utviklingen av en epidemi som sprer seg i befolkningen, eller
+- belyse forekomsten av en smittsom sykdom i befolkningen eller en del av den, eller
+- bedømme om og i tilfelle hvor godt befolkningen er beskyttet mot en smittsom sykdom som det vaksineres mot,
+
+og undersøkelsens resultat er av betydning for smittevernarbeidet.
 
 Laboratorier/institusjoner kan også utføre metodeutprøving ved bruk av tilgjengelig prøvemateriale som nevnt i første ledd uten samtykke fra de som har avgitt prøvene dersom formålet med utprøvingen er å utvikle ny metodikk eller forbedre eksisterende metodikk for påvisning og karakterisering av en smittsom sykdom.
 
@@ -194,7 +221,11 @@ Departementet har ansvar for å sikre nødvendig vaksineforsyning og vaksinebere
 
 Når det er avgjørende for å motvirke et alvorlig utbrudd av en allmennfarlig smittsom sykdom, kan departementet i forskrift fastsette at befolkningen eller deler av den skal ha plikt til å la seg vaksinere.
 
-Ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom kan departementet i forskrift bestemme at personer som ikke er vaksinertmå oppholde seg innenfor bestemte områder,skal nektes deltakelse i organisert samvær med andre, f.eks. i barnehage, skole, møter eller kommunikasjonsmidler,må ta nødvendige forholdsregler etter kommunelegens nærmere bestemmelse.
+Ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom kan departementet i forskrift bestemme at personer som ikke er vaksinert
+
+1. må oppholde seg innenfor bestemte områder,
+2. skal nektes deltakelse i organisert samvær med andre, f.eks. i barnehage, skole, møter eller kommunikasjonsmidler,
+3. må ta nødvendige forholdsregler etter kommunelegens nærmere bestemmelse.
 
 Når det ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom er nødvendig å vaksinere befolkningen eller deler av den med en gang for at folkehelsen ikke skal bli vesentlig skadelidende, kan Helsedirektoratet påby vaksinering etter tredje ledd og tiltak etter fjerde ledd.
 
@@ -204,7 +235,14 @@ Kongen i Statsråd kan i forskrift fastsette at helsepersonell uten hinder av lo
 
 ### § 3-9. Forskrifter om undersøkelser og vaksinasjoner
 
-Departementet kan gi forskrifter om den nærmere gjennomføringen av smitteverntiltak etter [§§ 3-1](lov/1994-08-05-55/§3-1), [3-2](lov/1994-08-05-55/§3-2), [3-3](lov/1994-08-05-55/§3-3), [3-4](lov/1994-08-05-55/§3-4) og [3-8](lov/1994-08-05-55/§3-8) andre og tredje ledd, herunder omhvilke grupper av befolkningen som tiltakene skal omfatte, og om fritak,hvem som kan gi fritak, og om tilsyn med gjennomføringen av tiltakene,at enkelte undersøkelser og vaksinasjoner bare må utføres av særskilt godkjent helsepersonell, hvem som kan gi godkjenning, og hvilken opplæring personellet må gjennomgå for å få slik godkjenning,plikt for helsepersonell til å foreta eller medvirke ved undersøkelser og vaksinasjoner,at undersøkelser eller analyser skal gjøres slik Helsedirektoratet bestemmer, og at de må foretas av noen som Helsedirektoratet har godkjent,hvem som skal dekke utgiftene med tiltakene.
+Departementet kan gi forskrifter om den nærmere gjennomføringen av smitteverntiltak etter [§§ 3-1](lov/1994-08-05-55/§3-1), [3-2](lov/1994-08-05-55/§3-2), [3-3](lov/1994-08-05-55/§3-3), [3-4](lov/1994-08-05-55/§3-4) og [3-8](lov/1994-08-05-55/§3-8) andre og tredje ledd, herunder om
+
+1. hvilke grupper av befolkningen som tiltakene skal omfatte, og om fritak,
+2. hvem som kan gi fritak, og om tilsyn med gjennomføringen av tiltakene,
+3. at enkelte undersøkelser og vaksinasjoner bare må utføres av særskilt godkjent helsepersonell, hvem som kan gi godkjenning, og hvilken opplæring personellet må gjennomgå for å få slik godkjenning,
+4. plikt for helsepersonell til å foreta eller medvirke ved undersøkelser og vaksinasjoner,
+5. at undersøkelser eller analyser skal gjøres slik Helsedirektoratet bestemmer, og at de må foretas av noen som Helsedirektoratet har godkjent,
+6. hvem som skal dekke utgiftene med tiltakene.
 
 > Endret ved lover [21 des 2001 nr. 119](lov/2001-12-21-119) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1524](forskrift/2001-12-21-1524)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2016), [21 juni 2019 nr. 46](lov/2019-06-21-46) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 808](forskrift/2019-06-21-808)).
 
@@ -212,7 +250,13 @@ Departementet kan gi forskrifter om den nærmere gjennomføringen av smittevernt
 
 ### § 4-1. Møteforbud, stenging av virksomhet, begrensning i kommunikasjon, isolering og smittesanering
 
-Når det er nødvendig for å forebygge en allmennfarlig smittsom sykdom eller for å motvirke at den blir overført, kan kommunestyret vedtaforbud mot møter og sammenkomster eller påbud om andre begrensninger i den sosiale omgangen overalt der mennesker er samlet,stenging av virksomheter som samler flere mennesker, f.eks. barnehager, skoler, svømmehaller, flyplasser, butikker, hoteller eller andre bedrifter og arbeidsplasser – eller begrensninger i aktiviteter der,stans eller begrensninger i kommunikasjoner,isolering av personer i geografisk avgrensede områder eller andre begrensninger i deres bevegelsesfrihet i opptil sju dager om gangen,pålegg til private eller offentlige om rengjøring, desinfeksjon eller destruksjon av gjenstander eller lokaler. Pålegget kan også gå ut på avliving av selskapsdyr, utrydding av rotter og andre skadedyr, avlusing eller annen smittesanering.
+Når det er nødvendig for å forebygge en allmennfarlig smittsom sykdom eller for å motvirke at den blir overført, kan kommunestyret vedta
+
+1. forbud mot møter og sammenkomster eller påbud om andre begrensninger i den sosiale omgangen overalt der mennesker er samlet,
+2. stenging av virksomheter som samler flere mennesker, f.eks. barnehager, skoler, svømmehaller, flyplasser, butikker, hoteller eller andre bedrifter og arbeidsplasser – eller begrensninger i aktiviteter der,
+3. stans eller begrensninger i kommunikasjoner,
+4. isolering av personer i geografisk avgrensede områder eller andre begrensninger i deres bevegelsesfrihet i opptil sju dager om gangen,
+5. pålegg til private eller offentlige om rengjøring, desinfeksjon eller destruksjon av gjenstander eller lokaler. Pålegget kan også gå ut på avliving av selskapsdyr, utrydding av rotter og andre skadedyr, avlusing eller annen smittesanering.
 
 Ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom og når det er avgjørende å få satt tiltak i verk raskt for å motvirke overføring av sykdommen, kan Helsedirektoratet treffe vedtak som nevnt i første ledd for hele landet eller for deler av landet.
 
@@ -246,7 +290,10 @@ Kongen kan gi forskrifter for å motvirke at smittsomme sykdommer føres inn i l
 
 ### § 4-3 a. Forskrift om isolering, smittekarantene og andre begrensninger i bevegelsesfriheten
 
-Ved alvorlig utbrudd av en allmennfarlig smittsom sykdom, jf. [§ 1-3 nr. 3](lov/1994-08-05-55/§1-3/nummer/3) og [4](lov/1994-08-05-55/§1-3/nummer/4), kan Kongen, for å forebygge eller motvirke overføring av sykdommen, gi forskrift omisolering for smittede personer, jf. [§ 1-3 nr. 2](lov/1994-08-05-55/§1-3/nummer/2), ogsmittekarantene for personer som har økt risiko for å være smittet av den allmennfarlige smittsomme sykdommen etter nærkontakt med en smittet eller antatt smittet person, eller annen smittekilde.
+Ved alvorlig utbrudd av en allmennfarlig smittsom sykdom, jf. [§ 1-3 nr. 3](lov/1994-08-05-55/§1-3/nummer/3) og [4](lov/1994-08-05-55/§1-3/nummer/4), kan Kongen, for å forebygge eller motvirke overføring av sykdommen, gi forskrift om
+
+1. isolering for smittede personer, jf. [§ 1-3 nr. 2](lov/1994-08-05-55/§1-3/nummer/2), og
+2. smittekarantene for personer som har økt risiko for å være smittet av den allmennfarlige smittsomme sykdommen etter nærkontakt med en smittet eller antatt smittet person, eller annen smittekilde.
 
 Kongen kan i forskrift fastsette andre begrensninger i bevegelsesfriheten for personer som omfattes av første ledd, og nærmere krav til undersøkelser i forbindelse med, eller til erstatning for, isolering, smittekarantene eller begrensninger i bevegelsesfriheten.
 
@@ -472,7 +519,14 @@ Kommunens myndighet etter denne lov kan delegeres etter reglene i kommuneloven e
 
 Kommunelegen skal utføre de oppgaver innen smittevernet som pålegges i loven her. I kommuner med flere kommuneleger skal kommunestyret utpeke en av dem til å utføre disse oppgavene. Det bør også utpekes en stedfortreder for denne. I store bykommuner med bydelsforvaltning skal kommunestyret utpeke en lege til å utføre de av kommunelegenes oppgaver som angår hele kommunen eller store områder.
 
-Kommunelegen skalutarbeide forslag til plan for helse- og omsorgstjenestens arbeid med vern mot smittsomme sykdommer, herunder beredskapsplaner og -tiltak, og organisere og lede dette arbeidet,ha løpende oversikt over de infeksjonsepidemiologiske forholdene i kommunen,utarbeide forslag til forebyggende tiltak for kommunen,bistå kommunen, helsepersonell og andre i kommunen som har oppgaver i arbeidet med vern mot smittsomme sykdommer,gi informasjon, opplysninger og råd til befolkningen om vern mot smittsomme sykdommer,utføre alle andre oppgaver som følger av loven eller bestemmelser i medhold av loven, og medvirke til effektive tiltak for å forebygge smittsomme sykdommer og motvirke at de blir overført.
+Kommunelegen skal
+
+1. utarbeide forslag til plan for helse- og omsorgstjenestens arbeid med vern mot smittsomme sykdommer, herunder beredskapsplaner og -tiltak, og organisere og lede dette arbeidet,
+2. ha løpende oversikt over de infeksjonsepidemiologiske forholdene i kommunen,
+3. utarbeide forslag til forebyggende tiltak for kommunen,
+4. bistå kommunen, helsepersonell og andre i kommunen som har oppgaver i arbeidet med vern mot smittsomme sykdommer,
+5. gi informasjon, opplysninger og råd til befolkningen om vern mot smittsomme sykdommer,
+6. utføre alle andre oppgaver som følger av loven eller bestemmelser i medhold av loven, og medvirke til effektive tiltak for å forebygge smittsomme sykdommer og motvirke at de blir overført.
 
 Departementet kan i forskrift bestemme at kommunelegen også skal ha andre oppgaver, og herunder angi det nærmere innholdet i de enkelte oppgaver.
 

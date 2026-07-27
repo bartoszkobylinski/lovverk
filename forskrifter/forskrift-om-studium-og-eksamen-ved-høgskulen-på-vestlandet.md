@@ -15,7 +15,7 @@ xml_hash: "0494578d4b60a81006eba4b31c7e1e8fd9f6925d5630b3fde121c7072ca9fddc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,13 +74,26 @@ eu_basis: []
 
 ### § 2-1. Gradar og utdanningar
 
-(1) Høgskulen på Vestlandet tildeler følgjande gradar:Bachelor, 180 studiepoeng, normert studietid tre år.Bachelor i nautikk med integrert praksis, 240 studiepoeng, normert studietid fire år.Master, 120 studiepoeng, normert studietid to år.Master, integrert, 300 studiepoeng, normert studietid fem år.Master, erfaringsbasert, av 90 eller 120 studiepoeng, jf. [forskrift til universitets- og høyskoleloven § 2-8](forskrift/2024-06-28-1392/§2-8).Philosophiae doctor (ph.d.), 180 studiepoeng, normert studietid tre år.
+(1) Høgskulen på Vestlandet tildeler følgjande gradar:
 
-(2) Høgskulen på Vestlandet tildeler følgjande yrkesutdanningarGrunnskulelærarutdanning for 1.–7. trinn og 5.–10. trinn, 240 studiepoeng, normert studietid fire år.Faglærarutdanning, 180 studiepoeng, normert studietid tre år.
+1. Bachelor, 180 studiepoeng, normert studietid tre år.
+2. Bachelor i nautikk med integrert praksis, 240 studiepoeng, normert studietid fire år.
+3. Master, 120 studiepoeng, normert studietid to år.
+4. Master, integrert, 300 studiepoeng, normert studietid fem år.
+5. Master, erfaringsbasert, av 90 eller 120 studiepoeng, jf. [forskrift til universitets- og høyskoleloven § 2-8](forskrift/2024-06-28-1392/§2-8).
+6. Philosophiae doctor (ph.d.), 180 studiepoeng, normert studietid tre år.
+
+(2) Høgskulen på Vestlandet tildeler følgjande yrkesutdanningar
+
+1. Grunnskulelærarutdanning for 1.–7. trinn og 5.–10. trinn, 240 studiepoeng, normert studietid fire år.
+2. Faglærarutdanning, 180 studiepoeng, normert studietid tre år.
 
 ### § 2-2. Krav til graden bachelor
 
-Graden bachelor blir tildelt på grunnlag av eksamen i studieprogram og emne med eit samla omfang på 180 studiepoeng. Grunnlaget for graden skal omfatte eitt av følgjande:Fullført treårig studieprogram tilsvarande 180 studiepoeng som ifølgje nasjonale rammeplanar og retningslinjer gir bachelorgrad.Fullført treårig studieprogram tilsvarande 180 studiepoeng som ifølgje vedtak i styret for Høgskulen på Vestlandet gir bachelorgrad.
+Graden bachelor blir tildelt på grunnlag av eksamen i studieprogram og emne med eit samla omfang på 180 studiepoeng. Grunnlaget for graden skal omfatte eitt av følgjande:
+
+1. Fullført treårig studieprogram tilsvarande 180 studiepoeng som ifølgje nasjonale rammeplanar og retningslinjer gir bachelorgrad.
+2. Fullført treårig studieprogram tilsvarande 180 studiepoeng som ifølgje vedtak i styret for Høgskulen på Vestlandet gir bachelorgrad.
 
 ### § 2-3. Krav til graden master
 
@@ -206,7 +219,12 @@ Godkjenning av emne i eit av høgskulen sine studieprogram kan ikkje gi fleire s
 
 (1) Studenten må fullføre semesterregistrering kvart semester for at studieretten skal vere gyldig. Fristen for semesterregistrering er 1. september i haustsemesteret og 1. februar i vårsemesteret. For vidareutdanningar, utdanningar med studieavgift og oppdragsbaserte utdanningar med oppstart etter semesterregistreringsfristen 1. september i haustsemesteret og 1. februar i vårsemesteret, er fristen seinast 14 dagar etter oppstart.
 
-(2) Innan fristen må alle studentar semesterregistrere seg ved å:registrere seg på Studentwebgodkjenne utdanningsplan for studieprogram dei er tekne opp tilmelde seg opp til undervisning og vurdering for emne dei skal ta i det aktuelle semesteretbetale semesteravgift, jf. [§ 4-5](forskrift/2025-06-12-1547/§4-5).
+(2) Innan fristen må alle studentar semesterregistrere seg ved å:
+
+1. registrere seg på Studentweb
+2. godkjenne utdanningsplan for studieprogram dei er tekne opp til
+3. melde seg opp til undervisning og vurdering for emne dei skal ta i det aktuelle semesteret
+4. betale semesteravgift, jf. [§ 4-5](forskrift/2025-06-12-1547/§4-5).
 
 (3) Studenten pliktar å halde seg oppdatert på relevant regelverk for studium og eksamen, og om organiseringa av studiet, obligatoriske læringsaktivitetar, tidsfristar og annan relevant informasjon. Studenten pliktar òg å halde seg orientert om meldingar som blir gitt via høgskulen sin læringsplattform, og informasjon som blir sendt frå høgskulen til studenten sin e-postadresse ved lærestaden.
 
@@ -294,7 +312,10 @@ Godkjenning av emne i eit av høgskulen sine studieprogram kan ikkje gi fleire s
 
 (1) Studentar som ikkje fullfører semesterregistrering etter [§ 4-2](forskrift/2025-06-12-1547/§4-2) innan fristen, eller ikkje møter til semesterstart på nytt program jf. [forskrift om opptak til Høgskulen på Vestlandet § 8-2](forskrift/2024-06-24-1858/§8-2), taper studieretten.
 
-(2) Studentar som blir stoppa av progresjonskrav taper studieretten når deihar brukt alle forsøka på å fullføre eit emne, eksamen eller praksisperiode utan godkjent resultat, jf. [§ 10-12](forskrift/2025-06-12-1547/§10-12) og [§ 11-5](forskrift/2025-06-12-1547/§11-5), ellerikkje kan fullføre emne, eksamen eller praksisperiode grunna utestenging frå praksis etter [universitets- og høyskoleloven § 12-2 andre ledd](lov/2024-03-08-9/§12-2/ledd/2).
+(2) Studentar som blir stoppa av progresjonskrav taper studieretten når dei
+
+1. har brukt alle forsøka på å fullføre eit emne, eksamen eller praksisperiode utan godkjent resultat, jf. [§ 10-12](forskrift/2025-06-12-1547/§10-12) og [§ 11-5](forskrift/2025-06-12-1547/§11-5), eller
+2. ikkje kan fullføre emne, eksamen eller praksisperiode grunna utestenging frå praksis etter [universitets- og høyskoleloven § 12-2 andre ledd](lov/2024-03-08-9/§12-2/ledd/2).
 
 (3) Studentar som har brukt opp forsøk på ein eksamen utan bestått resultat, får etter [§ 11-5](forskrift/2025-06-12-1547/§11-5) nye forsøk i emnet fem år etter siste eksamensforsøk. Studentar som har brukt opp forsøk i eit praksisemne utan å få bestått resultat, får etter [§ 10-12](forskrift/2025-06-12-1547/§10-12) nye forsøk fem år etter siste forsøk. Ved nytt opptak må det vurderast fagleg om studenten kan starte på same nivå.
 
@@ -334,7 +355,18 @@ Oppdragsfinansierte studium finansiert av staten, kan gi studentar særrettar re
 
 ### § 5-2b. Vilkår for betalingsstudium og studieavgift
 
-Studentar på betalingsstudium som er finansiert med eigenbetaling ved studieavgift betalt av studenten, gjeld følgjande:Etter utløp av angrefristen gjeld følgjande forpliktingar:Etter utløp av angrefrist og før studiet har starta opp:Studenten kan søke om permisjon og ta opp igjen studia neste gong studia startar opp. Studenten blir belasta for studieavgift første semester.Dersom studenten avbryt studia og ikkje startar opp på studiet ved neste opptak, er studieavgifta for første semester tapt for studenten.Etter at studiet har starta opp:Studenten kan søke om permisjon frå studiet i inntil to semester. Studenten betaler studieavgift for inneverande (påbegynte) semester og kan starte opp ved første moglegheit om emnet blir tilbydd igjen. Dersom studenten likevel avbryt studia, er studieavgifta for inneverande semester tapt for student. I tillegg blir studenten belasta for studieavgift for påfølgjande semester.Ved eventuell godkjenning av permisjonssøknad, tar høgskulen atterhald om at studiet framleis blir tilbode etter at permisjonstida er gått ut.
+Studentar på betalingsstudium som er finansiert med eigenbetaling ved studieavgift betalt av studenten, gjeld følgjande:
+
+- Etter utløp av angrefristen gjeld følgjande forpliktingar:
+
+  1. Etter utløp av angrefrist og før studiet har starta opp:
+
+     1. Studenten kan søke om permisjon og ta opp igjen studia neste gong studia startar opp. Studenten blir belasta for studieavgift første semester.
+     2. Dersom studenten avbryt studia og ikkje startar opp på studiet ved neste opptak, er studieavgifta for første semester tapt for studenten.
+  2. Etter at studiet har starta opp:
+
+     1. Studenten kan søke om permisjon frå studiet i inntil to semester. Studenten betaler studieavgift for inneverande (påbegynte) semester og kan starte opp ved første moglegheit om emnet blir tilbydd igjen. Dersom studenten likevel avbryt studia, er studieavgifta for inneverande semester tapt for student. I tillegg blir studenten belasta for studieavgift for påfølgjande semester.
+  3. Ved eventuell godkjenning av permisjonssøknad, tar høgskulen atterhald om at studiet framleis blir tilbode etter at permisjonstida er gått ut.
 
 ### § 5-3. Nedre grense for permisjon
 
@@ -366,7 +398,11 @@ Etter permisjonen blir studenten plassert i eit kull med tilsvarande progresjon.
 
 (2) Personar med eksamensrett ved høgskulen etter [universitets- og høyskoleloven § 11-4 første ledd](lov/2024-03-08-9/§11-4/ledd/1), som ikkje har opptak til emnet som student eller emnestudent, er privatistar.
 
-(3) For å kunne ta eksamen, må privatisten:Dekkje opptakskravet til studieprogrammet som emnet høyrer til, jf. forskrift om opptak ved Høgskulen på Vestlandet, kapittel 2.Dekkje eventuelle forkunnskapskrav for emnet.På fastsett måte og innan fastsett frist søke om å få ta eksamen i emnet. Fristen for å søke er 1. desember for vårsemesteret og 1. juni for haustsemesteret. Dokumentasjon av generell studiekompetanse og eventuelle tilleggskrav skal leggjast ved søknaden.
+(3) For å kunne ta eksamen, må privatisten:
+
+1. Dekkje opptakskravet til studieprogrammet som emnet høyrer til, jf. forskrift om opptak ved Høgskulen på Vestlandet, kapittel 2.
+2. Dekkje eventuelle forkunnskapskrav for emnet.
+3. På fastsett måte og innan fastsett frist søke om å få ta eksamen i emnet. Fristen for å søke er 1. desember for vårsemesteret og 1. juni for haustsemesteret. Dokumentasjon av generell studiekompetanse og eventuelle tilleggskrav skal leggjast ved søknaden.
 
 (4) Privatistar skal innan fastsett frist betale semesteravgift og vederlag til høgskulen, jf. [§ 4-5](forskrift/2025-06-12-1547/§4-5) [(11)](forskrift/2025-06-12-1547/§4-5). Vederlag som er betalt av privatist blir ikkje tilbakebetalt.
 
@@ -432,7 +468,16 @@ Studentar med funksjonsnedsetting og særskilte behov sin rett til tilretteleggi
 
 (2) I samråd med praksisstaden utarbeider høgskulen eigna tilrettelegging innanfor ramma av [§ 7-2](forskrift/2025-06-12-1547/§7-2).
 
-(3) Søknader om å gjennomføre praksis på særskilt stad blir tildelt innanfor ramma av [§ 7-2](forskrift/2025-06-12-1547/§7-2), og vurdert etter følgjande vilkår i prioritert rekkefølgje:åleineansvar for born under 18 åreigen sjukdom eller diagnose som gir behov for praksis på særskilt staddagleg omsorg for born under 12 årfunksjonsvanskar eller alvorleg sjukdom i nær familietoppidrettsstatus eller utøvar på landslagetutøvar i øvste divisjon i lagidrettenkeltutøvar på nasjonalt nivåverv i Studenttinget, studentråd eller høgskulestyret.
+(3) Søknader om å gjennomføre praksis på særskilt stad blir tildelt innanfor ramma av [§ 7-2](forskrift/2025-06-12-1547/§7-2), og vurdert etter følgjande vilkår i prioritert rekkefølgje:
+
+1. åleineansvar for born under 18 år
+2. eigen sjukdom eller diagnose som gir behov for praksis på særskilt stad
+3. dagleg omsorg for born under 12 år
+4. funksjonsvanskar eller alvorleg sjukdom i nær familie
+5. toppidrettsstatus eller utøvar på landslaget
+6. utøvar i øvste divisjon i lagidrett
+7. enkeltutøvar på nasjonalt nivå
+8. verv i Studenttinget, studentråd eller høgskulestyret.
 
 ### § 7-6. Tilrettelegging av fysisk læringsmiljø
 
@@ -592,7 +637,10 @@ Kravet om oppmøte skal gå fram av studieplanen eller emneplanen. Krav om oppm�
 
 ### § 10-8. Ikkje bestått praksis utan varsel på førehand
 
-Studenten kan utan varsel på førehand få prestasjonen vurdert til ikkje bestått når studentenklart ikkje presterer og oppnår læringsutbyttet som er påkravd for å bestå praksis, ogden manglande prestasjonen blir tydeleg etter at halve praksisperioden er gjennomført, eller etter tidspunktet varsel normalt blir gitt i den aktuelle praksisen på utdanningsprogrammet.
+Studenten kan utan varsel på førehand få prestasjonen vurdert til ikkje bestått når studenten
+
+1. klart ikkje presterer og oppnår læringsutbyttet som er påkravd for å bestå praksis, og
+2. den manglande prestasjonen blir tydeleg etter at halve praksisperioden er gjennomført, eller etter tidspunktet varsel normalt blir gitt i den aktuelle praksisen på utdanningsprogrammet.
 
 ### § 10-9. Farlege handlingar eller åtferd
 
@@ -614,9 +662,20 @@ Studenten kan utan varsel på førehand få prestasjonen vurdert til ikkje best�
 
 ### § 10-11. Gyldig fråvær frå praksis
 
-(1) Gyldig fråvær senkar ikkje kravet til oppmøte, jf. [§ 10-6](forskrift/2025-06-12-1547/§10-6). Ved gyldig fråvær har høgskulen plikt til å vurdere om det er mogleg å forlenge praksisperioden. Høgskulen avgjer i kvart enkelt tilfelle kva som er gyldig fråvær. Døme på gyldig fråvær er:eigen sjukdom og barn sin sjukdomdødsfall i nær familie eller hos andre studenten har eit nært forhold tilgravferd eller bisetjing, jf. førre punktpålegg frå offentleg mynde om at studenten pliktar å møte fram ein annan stadstudentar med verv i Studenttinget skal få gyldig fråvær ved møtepliktforhold utanfor studenten sin kontroll som gjer det sterkt urimeleg å krevje at studenten gjennomfører ein eller fleire dagar av praksisperioden.
+(1) Gyldig fråvær senkar ikkje kravet til oppmøte, jf. [§ 10-6](forskrift/2025-06-12-1547/§10-6). Ved gyldig fråvær har høgskulen plikt til å vurdere om det er mogleg å forlenge praksisperioden. Høgskulen avgjer i kvart enkelt tilfelle kva som er gyldig fråvær. Døme på gyldig fråvær er:
 
-(2) Krav til dokumentasjon av gyldig fråvær:Sjukdom kan dokumenterast med ein attest frå lege, psykolog eller annan sakkunnig person, eller ved at studenten leverer eigenmelding. Attesten eller eigenmeldinga må opplyse om at den er skriven i samband med fråvær frå praksis arrangert av Høgskulen på Vestlandet, og at fråværet gjeld ein bestemt dag eller dagar. Når studenten sin praksisperiode har starta må attest frå lege, psykolog eller annan sakkunnig person, eller eigenmelding, vere skriven og sendt til høgskulen seinast éi veke etter sjukdommen oppstod. Studenten må gi snarleg melding om fråvær til høgskulen og til praksisstaden om praksis har starta. Sjå [§ 11-8](forskrift/2025-06-12-1547/§11-8) om tidsfristar og krav til dokumentasjon.Ved dødsfall, gravferd eller bisetjing må studenten oppgje kven som har gått bort og kva for relasjon studenten hadde til avdøde.Andre omstende som blir rekna som gyldig fråvær må dokumenterast.
+1. eigen sjukdom og barn sin sjukdom
+2. dødsfall i nær familie eller hos andre studenten har eit nært forhold til
+3. gravferd eller bisetjing, jf. førre punkt
+4. pålegg frå offentleg mynde om at studenten pliktar å møte fram ein annan stad
+5. studentar med verv i Studenttinget skal få gyldig fråvær ved møteplikt
+6. forhold utanfor studenten sin kontroll som gjer det sterkt urimeleg å krevje at studenten gjennomfører ein eller fleire dagar av praksisperioden.
+
+(2) Krav til dokumentasjon av gyldig fråvær:
+
+1. Sjukdom kan dokumenterast med ein attest frå lege, psykolog eller annan sakkunnig person, eller ved at studenten leverer eigenmelding. Attesten eller eigenmeldinga må opplyse om at den er skriven i samband med fråvær frå praksis arrangert av Høgskulen på Vestlandet, og at fråværet gjeld ein bestemt dag eller dagar. Når studenten sin praksisperiode har starta må attest frå lege, psykolog eller annan sakkunnig person, eller eigenmelding, vere skriven og sendt til høgskulen seinast éi veke etter sjukdommen oppstod. Studenten må gi snarleg melding om fråvær til høgskulen og til praksisstaden om praksis har starta. Sjå [§ 11-8](forskrift/2025-06-12-1547/§11-8) om tidsfristar og krav til dokumentasjon.
+2. Ved dødsfall, gravferd eller bisetjing må studenten oppgje kven som har gått bort og kva for relasjon studenten hadde til avdøde.
+3. Andre omstende som blir rekna som gyldig fråvær må dokumenterast.
 
 ### § 10-12. Talet på forsøk i praksis
 
@@ -678,27 +737,54 @@ Ved ikkje bestått praksis skal høgskulen og praksisstaden vurdere om det er gr
 
 (2) Emne med tilsvarande fagleg innhald, blir rekna som same emne. Fagleg overlapp mellom emne skal gå fram av emneplanen, jf. [§ 2-9](forskrift/2025-06-12-1547/§2-9).
 
-(3) Studentar utan bestått resultat i eit emne får etter søknad eit fjerde eksamensforsøk dersom eit av følgjande vilkår er oppfylte:studenten manglar maksimalt 60 studiepoeng for å fullføre sin grad, eller yrkesutdanning, elleremnet er obligatorisk i programmet eller forkunnskapskrav for eitt eller fleire obligatoriske emne i graden, ellersærs tyngande sosiale eller medisinske tilhøve ligg til grunn for at eitt eller fleire av dei tidlegare forsøka ikkje er bestått. Søknaden må vere dokumentert med attest frå lege, psykolog eller annan sakkunnig person. Studenten sin tilstand på eksamenstidspunktet og studenten sin sjanse til å gjennomføre, trekkje seg eller sjukmelde seg frå eksamenen skal gå fram av dokumentasjonen. Studenten sin studieprogresjon og faglege prestasjonar kan telje med i vurderinga av søknaden.
+(3) Studentar utan bestått resultat i eit emne får etter søknad eit fjerde eksamensforsøk dersom eit av følgjande vilkår er oppfylte:
+
+1. studenten manglar maksimalt 60 studiepoeng for å fullføre sin grad, eller yrkesutdanning, eller
+2. emnet er obligatorisk i programmet eller forkunnskapskrav for eitt eller fleire obligatoriske emne i graden, eller
+3. særs tyngande sosiale eller medisinske tilhøve ligg til grunn for at eitt eller fleire av dei tidlegare forsøka ikkje er bestått. Søknaden må vere dokumentert med attest frå lege, psykolog eller annan sakkunnig person. Studenten sin tilstand på eksamenstidspunktet og studenten sin sjanse til å gjennomføre, trekkje seg eller sjukmelde seg frå eksamenen skal gå fram av dokumentasjonen. Studenten sin studieprogresjon og faglege prestasjonar kan telje med i vurderinga av søknaden.
 
 (4) Det kan stillast krav om at studenten må følgje undervisningsopplegget og gjennomføre eventuelle obligatoriske læringsaktivitetar på nytt.
 
 ### § 11-6. Teljande eksamensforsøk
 
-(1) Med teljande eksamensforsøk meiner ein at studenten:har bestått eksamentrekk seg etter fristen, jf. [§ 11-7](forskrift/2025-06-12-1547/§11-7)ikkje møter til eksamen eller eksterne sertifikatkurs, utan dokumentert gyldig fråvær, jf. [§ 11-8](forskrift/2025-06-12-1547/§11-8)ikkje leverer heimeeksamen, oppgåve eller mappe, utan dokumentert gyldig fråvær, jf. [§ 11-8](forskrift/2025-06-12-1547/§11-8)får karakteren F / ikkje beståttfår eksamen annullert på grunn av fusk eller forsøk på fusk.
+(1) Med teljande eksamensforsøk meiner ein at studenten:
+
+1. har bestått eksamen
+2. trekk seg etter fristen, jf. [§ 11-7](forskrift/2025-06-12-1547/§11-7)
+3. ikkje møter til eksamen eller eksterne sertifikatkurs, utan dokumentert gyldig fråvær, jf. [§ 11-8](forskrift/2025-06-12-1547/§11-8)
+4. ikkje leverer heimeeksamen, oppgåve eller mappe, utan dokumentert gyldig fråvær, jf. [§ 11-8](forskrift/2025-06-12-1547/§11-8)
+5. får karakteren F / ikkje bestått
+6. får eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (2) Der utdanninga tilbyr gjennomføring av eksterne sertifikatkurs, som må vere bestått for å kunne utøve yrket, står høgskulen berre ansvarleg for kostnader og gjennomføring av eitt ordinært forsøk. Vidare forsøk må studenten syte for på eige initiativ. Dersom studenten ikkje møter på oppsett kurs eller ikkje består kurset, tel dette som eit ordinært forsøk.
 
 ### § 11-7. Trekk frå eksamen
 
-(1) Studenten kan sjølv trekkje seg frå eksamen i Studentweb. Studenten har sjølv ansvaret for å trekkje seg frå eksamen/praksis dersom denne ikkje skal gjennomførast. Trekk innan fristen vil ikkje telje som eitt eksamensforsøk. Fristen for å trekkje seg frå eksamen er:To veker før eksamen tar til for skuleeksamen og heimeeksamenTo veker før siste innleveringsfrist for oppgåver og mappevurderingTo veker før første eksaminasjonsdag for munnleg og praktisk eksamenTo veker før første praksisdag for praksis.
+(1) Studenten kan sjølv trekkje seg frå eksamen i Studentweb. Studenten har sjølv ansvaret for å trekkje seg frå eksamen/praksis dersom denne ikkje skal gjennomførast. Trekk innan fristen vil ikkje telje som eitt eksamensforsøk. Fristen for å trekkje seg frå eksamen er:
+
+1. To veker før eksamen tar til for skuleeksamen og heimeeksamen
+2. To veker før siste innleveringsfrist for oppgåver og mappevurdering
+3. To veker før første eksaminasjonsdag for munnleg og praktisk eksamen
+4. To veker før første praksisdag for praksis.
 
 (2) Studentar kan berre trekke seg under eksamen på grunn av sjukdom og må dokumentere dette for å få registrert gyldig fråvær.
 
 ### § 11-8. Gyldig fråvær til eksamen
 
-(1) Studentar som ikkje møter til eksamen dei er meldt opp til, men kan dokumentere gyldig fråvær, blir rekna som ikkje å ha framstilt seg til eksamen og har ikkje brukt eitt eksamensforsøk. Gyldig fråvær er:eigen sjukdom og barns sjukdomdødsfall i nær familie eller andre nærståande til studentengravferd eller bisetting til nærståande, jf. førre punktpålegg frå offentleg mynde om at studenten pliktar å møte fram ein annan stadforhold utanfor studenten sin kontroll som gjer det sterkt urimeleg å krevje at studenten gjennomfører ein eksamen.
+(1) Studentar som ikkje møter til eksamen dei er meldt opp til, men kan dokumentere gyldig fråvær, blir rekna som ikkje å ha framstilt seg til eksamen og har ikkje brukt eitt eksamensforsøk. Gyldig fråvær er:
 
-(2) Krav til dokumentasjon av gyldig fråvær frå eksamen:Sjukdom må dokumenterast med attest frå lege, psykolog eller annan sakkunnig person. Attesten må opplyse om at den er gitt i høve fråvær frå eksamen arrangert av Høgskulen på Vestlandet, og at fråværet gjeld ein bestemt dag eller dagar.Ved dødsfall, gravferd eller bisetting må studenten oppgje kven som har gått bort, og kva for relasjon studenten hadde til avdøde.Andre omstende som blir rekna som gyldig fråvær må dokumenterast.Dokumentasjonen skal vere gitt til høgskulen, eller poststempla seinast ei veke etter at eksamen skulle ha vore avlagt eller etter frist for innlevering av skriftleg arbeid.
+1. eigen sjukdom og barns sjukdom
+2. dødsfall i nær familie eller andre nærståande til studenten
+3. gravferd eller bisetting til nærståande, jf. førre punkt
+4. pålegg frå offentleg mynde om at studenten pliktar å møte fram ein annan stad
+5. forhold utanfor studenten sin kontroll som gjer det sterkt urimeleg å krevje at studenten gjennomfører ein eksamen.
+
+(2) Krav til dokumentasjon av gyldig fråvær frå eksamen:
+
+1. Sjukdom må dokumenterast med attest frå lege, psykolog eller annan sakkunnig person. Attesten må opplyse om at den er gitt i høve fråvær frå eksamen arrangert av Høgskulen på Vestlandet, og at fråværet gjeld ein bestemt dag eller dagar.
+2. Ved dødsfall, gravferd eller bisetting må studenten oppgje kven som har gått bort, og kva for relasjon studenten hadde til avdøde.
+3. Andre omstende som blir rekna som gyldig fråvær må dokumenterast.
+4. Dokumentasjonen skal vere gitt til høgskulen, eller poststempla seinast ei veke etter at eksamen skulle ha vore avlagt eller etter frist for innlevering av skriftleg arbeid.
 
 (3) Dersom eit eksamenssvar er innlevert, kan det ikkje registrerast gyldig fråvær i ettertid.
 
@@ -764,7 +850,18 @@ Ved ikkje bestått praksis skal høgskulen og praksisstaden vurdere om det er gr
 
 (3) Emneansvarleg, eller vikar for denne, skal vere fysisk til stades eller tilgjengeleg på annan måte.
 
-(4) Ved gjennomføring av skuleeksamen gjeld følgjande:I eksamenslokalet skal studenten rette seg etter tilvising frå eksamensvaktene.Studenten skal møte i eksamenslokalet seinast 20 minutt før eksamen startar. Studentar som kjem for seint, får berre tilgjenge til eksamen i løpet av den første timen etter at eksamen har starta.Ingen studentar får forlate eksamenslokalet den første timen etter at eksamen har starta.Studenten skal vise gyldig legitimasjon med bilete til eksamensvakt og stadfeste frammøte. Studentkort og studentbevis er ikkje rekna som gyldig legitimasjon.Det er berre tillate å ha lovlege hjelpemiddel, gyldig legitimasjon, skrivesaker, mat og drikke ved pulten under eksamen. Jakker, sekkar, vesker og liknande skal settast på tilvist stad. Mobiltelefon, hovudtelefonar, klokke/smartklokke og anna elektronisk utstyr som ikkje skal brukast under eksamen, skal vere avslått og pakka ned, og skal ikkje oppbevarast i lommer eller ved pulten.Det er ikkje tillate å skrive på utdelt papir før eksamensoppgåvene er delte ut. Det er ikkje tillate å bruke anna papir enn det som er delt ut.Kommunikasjon mellom studentane, eller med andre personar utanom emneansvarleg/vikar og eksamensvakter, under eksamen er ikkje tillate.Studenten kan skrive fram til eksamenstida er ute. Det er studenten sitt ansvar å sørgje for at innleveringa er komplett.Kladdeark kan ikkje leverast inn som ein del av eksamenssvaret.Etter at eksamenssvaret, overflødig eksamenspapir og alle kladdeark er levert, skal studenten forlate eksamenslokalet. Innlevert eksamenssvar blir ikkje under noko omstende levert tilbake til studenten.
+(4) Ved gjennomføring av skuleeksamen gjeld følgjande:
+
+1. I eksamenslokalet skal studenten rette seg etter tilvising frå eksamensvaktene.
+2. Studenten skal møte i eksamenslokalet seinast 20 minutt før eksamen startar. Studentar som kjem for seint, får berre tilgjenge til eksamen i løpet av den første timen etter at eksamen har starta.
+3. Ingen studentar får forlate eksamenslokalet den første timen etter at eksamen har starta.
+4. Studenten skal vise gyldig legitimasjon med bilete til eksamensvakt og stadfeste frammøte. Studentkort og studentbevis er ikkje rekna som gyldig legitimasjon.
+5. Det er berre tillate å ha lovlege hjelpemiddel, gyldig legitimasjon, skrivesaker, mat og drikke ved pulten under eksamen. Jakker, sekkar, vesker og liknande skal settast på tilvist stad. Mobiltelefon, hovudtelefonar, klokke/smartklokke og anna elektronisk utstyr som ikkje skal brukast under eksamen, skal vere avslått og pakka ned, og skal ikkje oppbevarast i lommer eller ved pulten.
+6. Det er ikkje tillate å skrive på utdelt papir før eksamensoppgåvene er delte ut. Det er ikkje tillate å bruke anna papir enn det som er delt ut.
+7. Kommunikasjon mellom studentane, eller med andre personar utanom emneansvarleg/vikar og eksamensvakter, under eksamen er ikkje tillate.
+8. Studenten kan skrive fram til eksamenstida er ute. Det er studenten sitt ansvar å sørgje for at innleveringa er komplett.
+9. Kladdeark kan ikkje leverast inn som ein del av eksamenssvaret.
+10. Etter at eksamenssvaret, overflødig eksamenspapir og alle kladdeark er levert, skal studenten forlate eksamenslokalet. Innlevert eksamenssvar blir ikkje under noko omstende levert tilbake til studenten.
 
 ### § 11-15. Munnleg, justerande munnleg og praktisk eksamen
 
@@ -858,7 +955,19 @@ Ved vurdering av eksamenssvaret skal anonymiteten til studenten takast i vare s�
 
 ### § 12-1. Fusk og forsøk på fusk
 
-(1) Som fusk reknar ein mellom anna:å opptre i strid med gjeldande reglar for den spesifikke eksamenen.å bruke eller ha ulovlege hjelpemiddel tilgjengeleg under eksamen.å legge fram andre sitt arbeid som sitt eige utan tilstrekkelege kjeldetilvisingar eller markering av sitat (plagiat).å vise til fiktive kjelder.å levere arbeid som er heilt eller delvis utarbeidd av andre enn studenten eller studentane sjølv.å sitere eller på annan måte nytte eigne tidlegare arbeid som har gitt utteljing i form av studiepoeng eller rett til å gå opp til eksamen, utan tilstrekkeleg kjeldetilvising.å skaffe seg tilgjenge til eksamen ved å fuske på ein obligatorisk læringsaktivitet, eller på urett grunnlag få godkjent deltaking til slik aktivitet.å tileigne seg fordelar ein ikkje har rett til ved eksamen eller kurs.ulovleg kommunikasjon mellom studentar eller grupper (ulovleg samarbeid).å la ein annan gjennomføre eksamen for seg.fabrikkering eller forfalsking av data.
+(1) Som fusk reknar ein mellom anna:
+
+1. å opptre i strid med gjeldande reglar for den spesifikke eksamenen.
+2. å bruke eller ha ulovlege hjelpemiddel tilgjengeleg under eksamen.
+3. å legge fram andre sitt arbeid som sitt eige utan tilstrekkelege kjeldetilvisingar eller markering av sitat (plagiat).
+4. å vise til fiktive kjelder.
+5. å levere arbeid som er heilt eller delvis utarbeidd av andre enn studenten eller studentane sjølv.
+6. å sitere eller på annan måte nytte eigne tidlegare arbeid som har gitt utteljing i form av studiepoeng eller rett til å gå opp til eksamen, utan tilstrekkeleg kjeldetilvising.
+7. å skaffe seg tilgjenge til eksamen ved å fuske på ein obligatorisk læringsaktivitet, eller på urett grunnlag få godkjent deltaking til slik aktivitet.
+8. å tileigne seg fordelar ein ikkje har rett til ved eksamen eller kurs.
+9. ulovleg kommunikasjon mellom studentar eller grupper (ulovleg samarbeid).
+10. å la ein annan gjennomføre eksamen for seg.
+11. fabrikkering eller forfalsking av data.
 
 (2) Studentar kan reknast for å ha fuska eller forsøkt å fuske frå det tidspunktet eksamenen eller vurderinga har starta. For føresegner om når eksamen har byrja, sjå [§ 11-13](forskrift/2025-06-12-1547/§11-13).
 
@@ -900,9 +1009,16 @@ Innlevert eksamenssvar kan ikkje haldast unna sensur. Det same gjeld for munnleg
 
 (2) Ved sensurering av eksamenar i emne som skal inngå på vitnemålet eller karakterutskrift, bør det oppnemnast to sensorar. Det skal vere ein ekstern sensor på minst 1/3 av desse emna, slik at alle emna i løpet av ein tre-årsperiode har hatt ekstern sensur.
 
-(3) Det skal oppnemnast to sensorar i følgjande tilfelle:Ved sensur av bacheloroppgåve eller liknande sjølvstendig arbeid på lågare grad. Ved sensur av bacheloroppgåve skal minst ein av sensorane vere ekstern. Sensor bør ikkje ha vore rettleiar på bacheloroppgåva.Ved sensur av eksamenar som ikkje lar seg etterprøve.Ved eksamenar som åleine utgjer 15 studiepoeng eller meir.
+(3) Det skal oppnemnast to sensorar i følgjande tilfelle:
 
-(4) Det skal oppnemnast to sensorar, der minst ein er ekstern, i følgjande tilfelle:Ved sensur av studentane sitt sjølvstendige arbeid i høgare grad, som til dømes masteroppgåve. Sensor kan ikkje ha vore rettleiar på masteroppgåva.Ved ny sensur etter [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10) (klagesensur).
+1. Ved sensur av bacheloroppgåve eller liknande sjølvstendig arbeid på lågare grad. Ved sensur av bacheloroppgåve skal minst ein av sensorane vere ekstern. Sensor bør ikkje ha vore rettleiar på bacheloroppgåva.
+2. Ved sensur av eksamenar som ikkje lar seg etterprøve.
+3. Ved eksamenar som åleine utgjer 15 studiepoeng eller meir.
+
+(4) Det skal oppnemnast to sensorar, der minst ein er ekstern, i følgjande tilfelle:
+
+1. Ved sensur av studentane sitt sjølvstendige arbeid i høgare grad, som til dømes masteroppgåve. Sensor kan ikkje ha vore rettleiar på masteroppgåva.
+2. Ved ny sensur etter [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10) (klagesensur).
 
 (5) Ved bruk av ekstern sensor på ordinær eksamen, skal det vere ekstern sensor på påfølgjande ny eksamen.
 
@@ -916,7 +1032,11 @@ Innlevert eksamenssvar kan ikkje haldast unna sensur. Det same gjeld for munnleg
 
 ### § 13-5. Ekstern sensor
 
-Vilkåra for at ein sensor kan vere ekstern, er at sensoren dei siste 12 månadene ikkjehar vore student eller privatist ved Høgskulen på Vestlandet, ellerhar vore tilsett ved Høgskulen på Vestlandet, ellerhar fått løn eller vederlag frå Høgskulen på Vestlandet for anna enn sensurarbeid.
+Vilkåra for at ein sensor kan vere ekstern, er at sensoren dei siste 12 månadene ikkje
+
+1. har vore student eller privatist ved Høgskulen på Vestlandet, eller
+2. har vore tilsett ved Høgskulen på Vestlandet, eller
+3. har fått løn eller vederlag frå Høgskulen på Vestlandet for anna enn sensurarbeid.
 
 ### § 13-6. Godkjenning av eksamensoppgåva og sensorrettleiing
 
@@ -928,7 +1048,11 @@ Vilkåra for at ein sensor kan vere ekstern, er at sensoren dei siste 12 månade
 
 (1) Sensorrettleiing og emneplan skal vere gjort tilgjengeleg for sensor. Ekstern sensor/sensorane skal, etter sensurering, skrive sensorrapport.
 
-(2) Ved usemje ved ordinær sensur og klagesensur:Mellom ekstern og intern sensor avgjer ekstern sensor resultatet.Mellom to interne sensorar avgjer den sensoren som ikkje har undervisningsansvaret.Ved usemje på meir enn to karakterar, skal det oppnemnast ein tredje sensor. Tredje sensor kan få tilgang til informasjon om kva usemja gjeld. Det er den tredje sensoren som avgjer den endelege karakteren.
+(2) Ved usemje ved ordinær sensur og klagesensur:
+
+1. Mellom ekstern og intern sensor avgjer ekstern sensor resultatet.
+2. Mellom to interne sensorar avgjer den sensoren som ikkje har undervisningsansvaret.
+3. Ved usemje på meir enn to karakterar, skal det oppnemnast ein tredje sensor. Tredje sensor kan få tilgang til informasjon om kva usemja gjeld. Det er den tredje sensoren som avgjer den endelege karakteren.
 
 (3) Sensor som avgjer resultat ved usemje har ansvar for eventuell grunngjeving.
 
@@ -970,7 +1094,11 @@ Kunngjering av eksamensresultat skjer på Studentweb.
 
 ### § 13-12. Klagefrist på karakterfastsetjing og trekkfrist
 
-(1) Fristen for å klage på karakterfastsetjing når vurderingsforma er etterprøvbar ernormalt tre veker frå eksamensresultatet er kunngjort, ellertre veker frå studenten har fått grunngjeving for karakteren av sensoren, ellertre veker frå endeleg avgjerd i klagen ligg føre dersom studenten har klaga over formelle feil på eksamen.
+(1) Fristen for å klage på karakterfastsetjing når vurderingsforma er etterprøvbar er
+
+1. normalt tre veker frå eksamensresultatet er kunngjort, eller
+2. tre veker frå studenten har fått grunngjeving for karakteren av sensoren, eller
+3. tre veker frå endeleg avgjerd i klagen ligg føre dersom studenten har klaga over formelle feil på eksamen.
 
 (2) Studenten kan trekkje klage på karakterfastsetting inntil klagen er avgjort. Klagen er avgjort når sensoren har registrert karakter i digitalt sensursystem eller signert vurderingsprotokoll.
 
@@ -1006,7 +1134,14 @@ Kunngjering av eksamensresultat skjer på Studentweb.
 
 (2) Det blir utferda vitnemål for fullført praktisk pedagogisk utdanning og eittårig yrkesdykkarutdanning.
 
-(3) Vitnemålet og karaktergrunnlaget for vitnemålet skal innehalde opplysningar om:personaliaalle emne som går inn i grunnlaget for graden eller yrkesutdanninga, inkludert eventuell praksis og emne frå annan institusjon som eventuelt er godskrive i gradenemnekode, namn på emne, studiepoeng, karakter og karakterfordeling per emne og kva semester eksamen er avlagtsjølvstendig arbeid med eit omfang på minst 15 studiepoengkaraktersystemetStadfesting av praksisopphald i utlandet, i tilfelle der dette ikkje gir studiepoeng og/eller deltaking i internasjonaliseringsaktivitetar heime.
+(3) Vitnemålet og karaktergrunnlaget for vitnemålet skal innehalde opplysningar om:
+
+1. personalia
+2. alle emne som går inn i grunnlaget for graden eller yrkesutdanninga, inkludert eventuell praksis og emne frå annan institusjon som eventuelt er godskrive i graden
+3. emnekode, namn på emne, studiepoeng, karakter og karakterfordeling per emne og kva semester eksamen er avlagt
+4. sjølvstendig arbeid med eit omfang på minst 15 studiepoeng
+5. karaktersystemet
+6. Stadfesting av praksisopphald i utlandet, i tilfelle der dette ikkje gir studiepoeng og/eller deltaking i internasjonaliseringsaktivitetar heime.
 
 (4) Eventuelle emne studenten har tatt ut over det som trengst for å kvalifisere til graden, blir dokumentert med karakterutskrift frå Vitnemålsportalen eller Studentweb.
 
@@ -1030,7 +1165,12 @@ Kunngjering av eksamensresultat skjer på Studentweb.
 
 (1) Vidareutdanning, studieprogram av mindre omfang, emne, ikkje fullført grad eller yrkesutdanning blir dokumentert ved karakterutskrift frå Vitnemålsportalen eller Studentweb.
 
-(2) Alle karakterutskrifter frå Høgskulen på Vestlandet skal innehalde opplysningar om:personalia.emne som er tekne ved Høgskulen på Vestlandet.emnekode, namn på emne, studiepoeng, karakter og karakterfordeling per emne og kva semester eksamen er avlagt.karaktersystemet.
+(2) Alle karakterutskrifter frå Høgskulen på Vestlandet skal innehalde opplysningar om:
+
+1. personalia.
+2. emne som er tekne ved Høgskulen på Vestlandet.
+3. emnekode, namn på emne, studiepoeng, karakter og karakterfordeling per emne og kva semester eksamen er avlagt.
+4. karaktersystemet.
 
 (3) Elev i vidaregåande opplæring kan studere ved Høgskulen på Vestlandet. Eleven får studiepoeng når emnet er fullført og vedkomande tilfredsstiller opptakskrava til høgare utdanning, jf. [universitets- og høyskoleloven § 8-1](lov/2024-03-08-9/§8-1) og [§ 8-2](lov/2024-03-08-9/§8-2). Dersom eksamensforma er vesentleg annleis enn eksamen for ordinære studentar, skal dette gå fram av karakterutskrifta, jf. [universitets- og høyskoleloven § 11-12](lov/2024-03-08-9/§11-12).
 

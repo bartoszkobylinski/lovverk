@@ -24,11 +24,19 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
-I forskriften menes med*vare av edelt metall:* et smykke eller en annen gjenstand som består helt eller delvis av edelt metall*edelt metall:* gull, sølv og platina*finhet:* antall vektenheter edelt metall som finnes per tusen vektenheter legering.
+I forskriften menes med
+
+1. *vare av edelt metall:* et smykke eller en annen gjenstand som består helt eller delvis av edelt metall
+2. *edelt metall:* gull, sølv og platina
+3. *finhet:* antall vektenheter edelt metall som finnes per tusen vektenheter legering.
 
 ## § 2. Finhetsstandard
 
-Finhetsstandarder som tillates påført varer av edelt metall, erfor gull: 999, 916, 750, 585 og 375for sølv: 999, 925, 830 og 800for platina: 999, 950, 900 og 850.
+Finhetsstandarder som tillates påført varer av edelt metall, er
+
+1. for gull: 999, 916, 750, 585 og 375
+2. for sølv: 999, 925, 830 og 800
+3. for platina: 999, 950, 900 og 850.
 
 Finhetsstandarden for en vare av edelt metall med en finhet som ligger mellom to definerte standarder for metallet, skal anses å være den nærmeste lavere definerte standard.
 
@@ -54,7 +62,15 @@ Dersom en vare består av deler av ulike legeringer av samme edle metall, skal f
 
 ## § 5. Bruk av loddemetall for varer av edelt metall som skal merkes med finhet
 
-For varer av edelt metall som skal merkes med finhet, er loddemetall kun tillatt brukt til sammenføyning. Loddemetallet skal være av minst samme finhet som gjenstanden for øvrig, med følgende unntak:Varer av gull med finhet 916 skal ha loddemetall med minst 750 tusendeler gull.Filigransarbeider og urkapsler med finhet 750 skal ha loddemetall med minst 740 tusendeler gull. Varer av hvitt gull med finhet 750 skal ha loddemetall med minst 585 tusendeler gull.Varer av sølv med finhet 925 skal ha loddemetall med minst 650 tusendeler sølv. Varer av sølv med finhet 800 og 830 skal ha loddemetall med minst 550 tusendeler sølv.Varer av platina skal ha loddemetall med minst 800 tusendeler gull, sølv, platina eller palladium.Varer med deler av ulike edelmetallegeringer kan ha loddemetall tillatt for det minst edle metallet.Varer med deler av edelmetallegeringer og deler av uedelt metall kan ha loddemetall av ethvert metall.
+For varer av edelt metall som skal merkes med finhet, er loddemetall kun tillatt brukt til sammenføyning. Loddemetallet skal være av minst samme finhet som gjenstanden for øvrig, med følgende unntak:
+
+1. Varer av gull med finhet 916 skal ha loddemetall med minst 750 tusendeler gull.
+
+   Filigransarbeider og urkapsler med finhet 750 skal ha loddemetall med minst 740 tusendeler gull. Varer av hvitt gull med finhet 750 skal ha loddemetall med minst 585 tusendeler gull.
+2. Varer av sølv med finhet 925 skal ha loddemetall med minst 650 tusendeler sølv. Varer av sølv med finhet 800 og 830 skal ha loddemetall med minst 550 tusendeler sølv.
+3. Varer av platina skal ha loddemetall med minst 800 tusendeler gull, sølv, platina eller palladium.
+4. Varer med deler av ulike edelmetallegeringer kan ha loddemetall tillatt for det minst edle metallet.
+5. Varer med deler av edelmetallegeringer og deler av uedelt metall kan ha loddemetall av ethvert metall.
 
 Andre metoder for sammenføyning er tillatt.
 
@@ -114,7 +130,11 @@ Ved purring som følge av for sen betaling påløper purregebyr etter [lov 13. m
 
 ## § 15. Utmåling av overtredelsesgebyr
 
-Justervesenet kan pålegge overtredelsesgebyr på 10 ganger årsgebyret i [§ 14](forskrift/2011-01-10-12/§14) ved overtredelser av[§ 2](forskrift/2011-01-10-12/§2) til [§ 7](forskrift/2011-01-10-12/§7) og [§ 9](forskrift/2011-01-10-12/§9) til [§ 10](forskrift/2011-01-10-12/§10)[lov 3. september 2010 nr. 52](lov/2010-09-03-52) om varer av edelt metall mv. [§ 3](lov/2010-09-03-52/§3) første ledd, [§ 4](lov/2010-09-03-52/§4) første og annet ledd og [§ 5](lov/2010-09-03-52/§5) første og annet leddenkeltvedtak fastsatt med hjemmel i [lov 3. september 2010 nr. 52](lov/2010-09-03-52) om varer av edelt metall mv. [§ 7](lov/2010-09-03-52/§7) annet ledd og [§ 8](lov/2010-09-03-52/§8).
+Justervesenet kan pålegge overtredelsesgebyr på 10 ganger årsgebyret i [§ 14](forskrift/2011-01-10-12/§14) ved overtredelser av
+
+1. [§ 2](forskrift/2011-01-10-12/§2) til [§ 7](forskrift/2011-01-10-12/§7) og [§ 9](forskrift/2011-01-10-12/§9) til [§ 10](forskrift/2011-01-10-12/§10)
+2. [lov 3. september 2010 nr. 52](lov/2010-09-03-52) om varer av edelt metall mv. [§ 3](lov/2010-09-03-52/§3) første ledd, [§ 4](lov/2010-09-03-52/§4) første og annet ledd og [§ 5](lov/2010-09-03-52/§5) første og annet ledd
+3. enkeltvedtak fastsatt med hjemmel i [lov 3. september 2010 nr. 52](lov/2010-09-03-52) om varer av edelt metall mv. [§ 7](lov/2010-09-03-52/§7) annet ledd og [§ 8](lov/2010-09-03-52/§8).
 
 Fristen for å betale overtredelsesgebyr er fire uker fra pålegget med mindre annet er fastsatt i pålegget. Dersom overtredelsesgebyret ikke blir betalt ved forfall, påløper forsinkelsesrente i samsvar med [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling.
 

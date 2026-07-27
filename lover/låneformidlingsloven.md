@@ -15,7 +15,7 @@ xml_hash: "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -37,7 +37,13 @@ eu_basis:
 
 ### § 1-2. Definisjoner
 
-I denne loven betyrboliglån: låneavtaler som er sikret ved pant eller annen tilsvarende sikkerhetsstillelse i bolig eller fritidsbolig,låneformidlingsforetak: foretak med tillatelse som finansagentforetak eller finansmeglerforetak etter [§ 2-2](lov/2022-12-16-91/§2-2) første ledd,finansagentforetak: låneformidlingsforetak som etter avtale formidler lån på vegne av ett eller flere finansforetak, og som handler på finansforetakets fulle og hele ansvar,finansmeglerforetak: låneformidlingsforetak som formidler lån som uavhengig mellomledd,utpekte representanter (underagenter): fysisk eller juridisk person som driver låneformidlingsvirksomhet, og som handler på vegne av bare ett låneformidlingsforetak og på dennes fulle og hele ansvar.
+I denne loven betyr
+
+1. boliglån: låneavtaler som er sikret ved pant eller annen tilsvarende sikkerhetsstillelse i bolig eller fritidsbolig,
+2. låneformidlingsforetak: foretak med tillatelse som finansagentforetak eller finansmeglerforetak etter [§ 2-2](lov/2022-12-16-91/§2-2) første ledd,
+3. finansagentforetak: låneformidlingsforetak som etter avtale formidler lån på vegne av ett eller flere finansforetak, og som handler på finansforetakets fulle og hele ansvar,
+4. finansmeglerforetak: låneformidlingsforetak som formidler lån som uavhengig mellomledd,
+5. utpekte representanter (underagenter): fysisk eller juridisk person som driver låneformidlingsvirksomhet, og som handler på vegne av bare ett låneformidlingsforetak og på dennes fulle og hele ansvar.
 
 ### § 1-3. Rådgivning
 
@@ -53,7 +59,11 @@ Departementet kan i forskrift gi regler om gjennomføring, utfylling og avgrensn
 
 (1) Låneformidlingsvirksomhet rettet mot forbrukere kan bare drives av låneformidlingsforetak med tillatelse etter [§ 2-2](lov/2022-12-16-91/§2-2), finansagenter som er registrert hos Finanstilsynet etter reglene i [§ 2-3](lov/2022-12-16-91/§2-3), og av foretak med adgang til å drive virksomhet her i riket etter reglene i [kapittel 4](lov/2022-12-16-91/kap4).
 
-(2) Uten hinder av første ledd kan fysiske og juridiske personer formidle andre typer lån enn boliglån til forbrukere uten tillatelse fra Finanstilsynet dersomlåneformidlingen utøves som en tilleggstjeneste til annen næringsvirksomhet,tilleggstjenesten har naturlig tilknytning til den fysiske eller juridiske personens hovedvirksomhet (aksessorisk låneformidling), ogden fysiske eller juridiske personen er registrert etter reglene i [§ 2-4](lov/2022-12-16-91/§2-4).
+(2) Uten hinder av første ledd kan fysiske og juridiske personer formidle andre typer lån enn boliglån til forbrukere uten tillatelse fra Finanstilsynet dersom
+
+1. låneformidlingen utøves som en tilleggstjeneste til annen næringsvirksomhet,
+2. tilleggstjenesten har naturlig tilknytning til den fysiske eller juridiske personens hovedvirksomhet (aksessorisk låneformidling), og
+3. den fysiske eller juridiske personen er registrert etter reglene i [§ 2-4](lov/2022-12-16-91/§2-4).
 
 (3) Annen låneformidlingsvirksomhet enn virksomhet nevnt i første ledd, herunder låneformidling rettet mot næringsdrivende, kan drives av foretak som er registrert etter reglene i [§ 2-4](lov/2022-12-16-91/§2-4).
 
@@ -61,11 +71,23 @@ Departementet kan i forskrift gi regler om gjennomføring, utfylling og avgrensn
 
 ### § 2-2. Tillatelse som låneformidlingsforetak
 
-(1) Finanstilsynet kan etter søknad gi et foretak tillatelse til å drive låneformidlingsvirksomhet. Det kan settes vilkår for tillatelsen. Tillatelse til å drive låneformidlingsvirksomhet kan bare gis til foretak som oppfyller følgende vilkår:Foretaket må være organisert som aksjeselskap eller allmennaksjeselskapForetaket må ha hovedkontor og forretningskontor i NorgeStyret, daglig leder og andre som er ansvarlig for låneformidlingsvirksomheten, må oppfylle kravene i [§§ 5-1](lov/2022-12-16-91/§5-1) og [5-2](lov/2022-12-16-91/§5-2)Foretaket må oppfylle kravene til forsikring i [kapittel 6](lov/2022-12-16-91/kap6).
+(1) Finanstilsynet kan etter søknad gi et foretak tillatelse til å drive låneformidlingsvirksomhet. Det kan settes vilkår for tillatelsen. Tillatelse til å drive låneformidlingsvirksomhet kan bare gis til foretak som oppfyller følgende vilkår:
+
+1. Foretaket må være organisert som aksjeselskap eller allmennaksjeselskap
+2. Foretaket må ha hovedkontor og forretningskontor i Norge
+3. Styret, daglig leder og andre som er ansvarlig for låneformidlingsvirksomheten, må oppfylle kravene i [§§ 5-1](lov/2022-12-16-91/§5-1) og [5-2](lov/2022-12-16-91/§5-2)
+4. Foretaket må oppfylle kravene til forsikring i [kapittel 6](lov/2022-12-16-91/kap6).
 
 (2) Tillatelse etter første ledd gis som enten finansagentforetak eller finansmeglerforetak.
 
-(3) Søknad om tillatelse etter første ledd skal angi hva det søkes om, og skal inneholde opplysninger av betydning for Finanstilsynets vurdering, herunderhvilke typer lån foretaket skal formidle,om foretaket skal drive virksomhet som finansagentforetak eller finansmeglerforetak,hvilke finansforetak foretaket eventuelt skal være agent for,firmaattest og vedtekter,dokumentasjon for at vilkårene i første ledd er oppfylt,redegjørelse for foretakets tiltak for å oppfylle krav fastsatt i eller i medhold av [hvitvaskingsloven](lov/2018-06-01-23).
+(3) Søknad om tillatelse etter første ledd skal angi hva det søkes om, og skal inneholde opplysninger av betydning for Finanstilsynets vurdering, herunder
+
+1. hvilke typer lån foretaket skal formidle,
+2. om foretaket skal drive virksomhet som finansagentforetak eller finansmeglerforetak,
+3. hvilke finansforetak foretaket eventuelt skal være agent for,
+4. firmaattest og vedtekter,
+5. dokumentasjon for at vilkårene i første ledd er oppfylt,
+6. redegjørelse for foretakets tiltak for å oppfylle krav fastsatt i eller i medhold av [hvitvaskingsloven](lov/2018-06-01-23).
 
 (4) Søknaden skal behandles innen seks måneder etter at den er mottatt. Dersom søknaden ikke inneholder de opplysningene som er nødvendige for Finanstilsynets vurdering av søknaden, regnes fristen fra det tidspunktet slike opplysninger ble mottatt av Finanstilsynet.
 
@@ -93,7 +115,15 @@ Låneformidlingsvirksomhet etter reglene i kapittelet her kan ikke igangsettes f
 
 (1) Låneformidlingsforetak som skal drive formidling av boliglån rettet mot forbrukere, kan etter reglene i paragrafen her etablere filial i annen EØS-stat.
 
-(2) Før foretaket kan etablere filialen, skal det gi Finanstilsynet melding med opplysninger omhvilken EØS-stat foretaket har til hensikt å etablere filial i, og filialens adresse,navn på personene som utgjør filialens ledelse,de tjenester som skal ytes gjennom filialen,om foretaket er et finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetakene som foretaket er agent for,en bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for finansagentforetakets virksomhet.Departementet kan i forskrift fastsette regler om hvilke øvrige opplysninger meldingen skal inneholde.
+(2) Før foretaket kan etablere filialen, skal det gi Finanstilsynet melding med opplysninger om
+
+1. hvilken EØS-stat foretaket har til hensikt å etablere filial i, og filialens adresse,
+2. navn på personene som utgjør filialens ledelse,
+3. de tjenester som skal ytes gjennom filialen,
+4. om foretaket er et finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetakene som foretaket er agent for,
+5. en bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for finansagentforetakets virksomhet.
+
+Departementet kan i forskrift fastsette regler om hvilke øvrige opplysninger meldingen skal inneholde.
 
 (3) Finanstilsynet skal sende meldingen om filialetablering til vertsstatens tilsynsmyndighet innen én måned etter at meldingen etter annet ledd er mottatt. Finanstilsynet skal samtidig underrette foretaket om oversendelsen.
 
@@ -105,7 +135,14 @@ Låneformidlingsvirksomhet etter reglene i kapittelet her kan ikke igangsettes f
 
 (1) Låneformidlingsforetak kan drive grensekryssende formidling av boliglån rettet mot forbrukere i annen EØS-stat etter reglene i paragrafen her.
 
-(2) Før foretaket kan tilby grensekryssende tjenester i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger omhvilken stat grensekryssende tjenester skal ytes i,de tjenester som skal ytes grensekryssende,om foretaket er et finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetak som foretaket er agent for,en bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for finansagentforetakets virksomhet.Departementet kan gi forskrift om hvilke øvrige opplysninger meldingen skal inneholde.
+(2) Før foretaket kan tilby grensekryssende tjenester i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om
+
+1. hvilken stat grensekryssende tjenester skal ytes i,
+2. de tjenester som skal ytes grensekryssende,
+3. om foretaket er et finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetak som foretaket er agent for,
+4. en bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for finansagentforetakets virksomhet.
+
+Departementet kan gi forskrift om hvilke øvrige opplysninger meldingen skal inneholde.
 
 (3) Finanstilsynet skal sende meldingen om grensekryssende virksomhet til vertsstatens tilsynsmyndighet innen én måned etter at meldingen etter annet ledd er mottatt. Finanstilsynet skal samtidig underrette foretaket om oversendelsen.
 
@@ -121,7 +158,18 @@ Departementet kan i forskrift gi regler om norske låneformidlingsforetaks adgan
 
 ### § 4-1. Filial av låneformidlingsforetak med hovedsete i annen EØS-stat
 
-(1) Låneformidlingsforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndigheten i hjemstaten, kan drive boliglånsformidling rettet mot forbrukere gjennom filial her i riket. Filialen kan etableres én måned etter at Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat om den planlagte filialetableringen. Meldingen skal inneholde opplysninger omforetakets navn, hovedkontorets adresse og foretakets registreringsnummer,filialens adresse,navn på personene som utgjør filialens ledelse,de tjenester som skal ytes gjennom filialen,nettstedet til tilsynsmyndighetens register med informasjon om boliglånsformidlingsforetaket,bekreftelse på at foretaket bare skal formidle lån fra finansforetak,om foretaket er finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetak som foretaket er agent for,for finansagentforetak, bekreftelse fra finansforetakene som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for agentens virksomhet,datoen foretaket fikk tillatelse i hjemstaten til å drive boliglånsformidling,ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
+(1) Låneformidlingsforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndigheten i hjemstaten, kan drive boliglånsformidling rettet mot forbrukere gjennom filial her i riket. Filialen kan etableres én måned etter at Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat om den planlagte filialetableringen. Meldingen skal inneholde opplysninger om
+
+1. foretakets navn, hovedkontorets adresse og foretakets registreringsnummer,
+2. filialens adresse,
+3. navn på personene som utgjør filialens ledelse,
+4. de tjenester som skal ytes gjennom filialen,
+5. nettstedet til tilsynsmyndighetens register med informasjon om boliglånsformidlingsforetaket,
+6. bekreftelse på at foretaket bare skal formidle lån fra finansforetak,
+7. om foretaket er finansagentforetak, og i tilfelle navn og registreringsnummer til finansforetak som foretaket er agent for,
+8. for finansagentforetak, bekreftelse fra finansforetakene som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvaret for agentens virksomhet,
+9. datoen foretaket fikk tillatelse i hjemstaten til å drive boliglånsformidling,
+10. ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
 
 (2) Fysiske eller juridiske personer som driver låneformidlingsvirksomhet, og som handler på vegne av bare ett låneformidlingsforetak og på dennes fulle og hele ansvar (utpekte representanter), kan ikke drive virksomhet her i riket.
 
@@ -133,7 +181,15 @@ Departementet kan i forskrift gi regler om norske låneformidlingsforetaks adgan
 
 ### § 4-2. Grensekryssende virksomhet fra annen EØS-stat
 
-(1) Låneformidlingsforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive grensekryssende boliglånsformidling rettet mot forbrukere her i riket. Virksomheten kan startes opp én måned etter at Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat om den planlagte virksomheten. Meldingen skal inneholde opplysninger omforetakets navn, adresse på hovedkontoret og registreringsnummer,hvilke tjenester som skal ytes,nettstedet til tilsynsmyndighetens register med informasjon om boliglånsformidlingsforetaket,bekreftelse på at foretaket bare skal formidle lån fra finansforetak,for finansagentforetak, navn og registreringsnummer til finansforetak som foretaket er agent for,for finansagentforetak, bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvar for agentens virksomhet,datoen foretaket fikk tillatelse i hjemstaten til å drive boligformidling.
+(1) Låneformidlingsforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive grensekryssende boliglånsformidling rettet mot forbrukere her i riket. Virksomheten kan startes opp én måned etter at Finanstilsynet har mottatt melding fra tilsynsmyndighetene i foretakets hjemstat om den planlagte virksomheten. Meldingen skal inneholde opplysninger om
+
+1. foretakets navn, adresse på hovedkontoret og registreringsnummer,
+2. hvilke tjenester som skal ytes,
+3. nettstedet til tilsynsmyndighetens register med informasjon om boliglånsformidlingsforetaket,
+4. bekreftelse på at foretaket bare skal formidle lån fra finansforetak,
+5. for finansagentforetak, navn og registreringsnummer til finansforetak som foretaket er agent for,
+6. for finansagentforetak, bekreftelse fra finansforetak som foretaket er agent for, om at disse tar på seg det fulle og ubetingede ansvar for agentens virksomhet,
+7. datoen foretaket fikk tillatelse i hjemstaten til å drive boligformidling.
 
 (2) Fysiske eller juridiske personer som driver låneformidlingsvirksomhet, og som handler på vegne av bare ett låneformidlingsforetak og på dennes fulle og hele ansvar (utpekte representanter), kan ikke drive virksomhet her i riket.
 
@@ -161,7 +217,11 @@ Departementet kan i forskrift gi regler om etablering av filial av låneformidli
 
 ### § 5-2. Krav til ledelsen av foretaket
 
-(1) Låneformidlingsforetak kan ikke ha styremedlemmer, daglig leder eller andre personer i den faktiske ledelsen av låneformidlingsvirksomheten eller deler av denne somikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,er dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
+(1) Låneformidlingsforetak kan ikke ha styremedlemmer, daglig leder eller andre personer i den faktiske ledelsen av låneformidlingsvirksomheten eller deler av denne som
+
+1. ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,
+2. er dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,
+3. i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
 
 (2) Kravene i første ledd bokstav b og c skal dokumenteres gjennom fremleggelse av ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) og bekreftelse fra Brønnøysundregistrene om at personen ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling.
 
@@ -195,7 +255,10 @@ Departementet kan i forskrift gi regler om etablering av filial av låneformidli
 
 (1) Forsikringsforetaket som låneformidlingsforetaket har forsikring i når den skadelidte fremsetter krav om erstatning, er ansvarlig overfor skadelidte.
 
-(2) Et erstatningskrav anses for fremsatt på det tidligste av følgende tidspunkterdet tidspunktet låneformidlingsforetaket eller forsikringsforetaket første gang mottok melding om tapet med krav om erstatning,det tidspunktet låneformidlingsforetaket eller forsikringsforetaket første gang mottok skriftlig melding fra den skadelidte om omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot den sikrede. Dette gjelder også melding fra den sikrede til forsikringsforetaket.
+(2) Et erstatningskrav anses for fremsatt på det tidligste av følgende tidspunkter
+
+1. det tidspunktet låneformidlingsforetaket eller forsikringsforetaket første gang mottok melding om tapet med krav om erstatning,
+2. det tidspunktet låneformidlingsforetaket eller forsikringsforetaket første gang mottok skriftlig melding fra den skadelidte om omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot den sikrede. Dette gjelder også melding fra den sikrede til forsikringsforetaket.
 
 (3) Forsikringsforetaket kan ikke gjøre gjeldende andre innsigelser overfor den skadelidte enn de innsigelser låneformidlingsforetaket selv har overfor den skadelidte.
 
@@ -255,7 +318,12 @@ Et låneformidlingsforetak kan ikke ha agenter eller underagenter.
 
 (2) Taushetsplikten etter første ledd er ikke til hinder for at opplysninger utleveres etter skriftlig samtykke fra den som har krav på taushet.
 
-(3) Taushetsplikten etter første ledd er ikke til hinder for at et låneformidlingsforetak i særlige tilfeller gir et finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersomformålet er å avdekke eller motvirke økonomisk kriminalitet eller annen alvorlig kriminalitet, ellerformålet er å gjennomføre kundeoppdrag eller annen berettiget ivaretakelse av låneformidlingsforetakets eller dets kunders interesser.Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
+(3) Taushetsplikten etter første ledd er ikke til hinder for at et låneformidlingsforetak i særlige tilfeller gir et finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersom
+
+1. formålet er å avdekke eller motvirke økonomisk kriminalitet eller annen alvorlig kriminalitet, eller
+2. formålet er å gjennomføre kundeoppdrag eller annen berettiget ivaretakelse av låneformidlingsforetakets eller dets kunders interesser.
+
+Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
 
 (4) Et låneformidlingsforetak skal ha kontrollordninger for å sikre at kundeopplysninger blir behandlet på en betryggende måte, og at uvedkommende ikke får tilgang eller kjennskap til opplysningene.
 
@@ -269,7 +337,11 @@ Et låneformidlingsforetak kan ikke ha agenter eller underagenter.
 
 ### § 8-1. Registrering av foretak mv.
 
-(1) Finanstilsynet skal føre register over alle fysiske og juridiske personer som driver låneformidlingsvirksomhet her i riket. Registeret skal minst inneholde følgende informasjonnavn på de personene i ledelsen som har ansvar for formidlingsvirksomheten,hvilke medlemsstater låneformidlingsforetaket utøver virksomhet i etter reglene i [kapittel 3](lov/2022-12-16-91/kap3),hvilket finansforetak et finansagentforetak som er registrert etter reglene i [§ 2-3](lov/2022-12-16-91/§2-3), opptrer på vegne av.
+(1) Finanstilsynet skal føre register over alle fysiske og juridiske personer som driver låneformidlingsvirksomhet her i riket. Registeret skal minst inneholde følgende informasjon
+
+1. navn på de personene i ledelsen som har ansvar for formidlingsvirksomheten,
+2. hvilke medlemsstater låneformidlingsforetaket utøver virksomhet i etter reglene i [kapittel 3](lov/2022-12-16-91/kap3),
+3. hvilket finansforetak et finansagentforetak som er registrert etter reglene i [§ 2-3](lov/2022-12-16-91/§2-3), opptrer på vegne av.
 
 (2) Finanstilsynet kan nekte registrering av foretaket dersom foretaket ikke oppfyller vilkårene for registrering.
 
@@ -277,7 +349,12 @@ Et låneformidlingsforetak kan ikke ha agenter eller underagenter.
 
 ### § 8-2. Sletting av registrering
 
-(1) Finanstilsynet kan slette foretak fra registeret nevnt i [§ 8-1](lov/2022-12-16-91/§8-1) dersomforetaket ikke har påbegynt sin virksomhet innen ett år fra den dagen foretaket ble registrert,foretaket i en sammenhengende forutgående periode på minst seks måneder ikke har drevet låneformidlingsvirksomhet,registreringen er gjort på grunnlag av uriktige eller villedende opplysninger eller på annet urettmessig grunnlag,forutsetningene for å være registrert ikke lenger er til stede.
+(1) Finanstilsynet kan slette foretak fra registeret nevnt i [§ 8-1](lov/2022-12-16-91/§8-1) dersom
+
+1. foretaket ikke har påbegynt sin virksomhet innen ett år fra den dagen foretaket ble registrert,
+2. foretaket i en sammenhengende forutgående periode på minst seks måneder ikke har drevet låneformidlingsvirksomhet,
+3. registreringen er gjort på grunnlag av uriktige eller villedende opplysninger eller på annet urettmessig grunnlag,
+4. forutsetningene for å være registrert ikke lenger er til stede.
 
 (2) Foretak som får tilbakekalt tillatelse etter [§ 9-2](lov/2022-12-16-91/§9-2), skal slettes fra registeret.
 
@@ -295,7 +372,16 @@ Et låneformidlingsforetak kan ikke ha agenter eller underagenter.
 
 ### § 9-2. Endring og tilbakekall
 
-Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersomlåneformidlingsforetaket ikke har påbegynt sin virksomhet innen ett år fra den dagen tillatelsen ble gitt,låneformidlingsforetaket uttrykkelig gir avkall på tillatelsen,låneformidlingsforetaket i en sammenhengende forutgående periode på minst seks måneder ikke har drevet konsesjonspliktig virksomhet,tillatelse er gitt på grunnlag av uriktige eller villedende opplysninger, eller på annet urettmessig grunnlag,vilkårene for å få tillatelse i [§ 2-2](lov/2022-12-16-91/§2-2) ikke lenger er oppfylt,foretaket, styret eller ledelsen grovt eller gjentatte ganger har overtrådt bestemmelser gitt i lov eller i medhold av lov som gjelder for foretaket, eller som er satt som konsesjonsvilkår,styret, daglig leder eller annen person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 5-2](lov/2022-12-16-91/§5-2) ikke lenger er oppfylt,låneformidlingsforetaket ikke etterkommer pålegg gitt av Finanstilsynet eller annen tilsynsmyndighet.
+Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom
+
+1. låneformidlingsforetaket ikke har påbegynt sin virksomhet innen ett år fra den dagen tillatelsen ble gitt,
+2. låneformidlingsforetaket uttrykkelig gir avkall på tillatelsen,
+3. låneformidlingsforetaket i en sammenhengende forutgående periode på minst seks måneder ikke har drevet konsesjonspliktig virksomhet,
+4. tillatelse er gitt på grunnlag av uriktige eller villedende opplysninger, eller på annet urettmessig grunnlag,
+5. vilkårene for å få tillatelse i [§ 2-2](lov/2022-12-16-91/§2-2) ikke lenger er oppfylt,
+6. foretaket, styret eller ledelsen grovt eller gjentatte ganger har overtrådt bestemmelser gitt i lov eller i medhold av lov som gjelder for foretaket, eller som er satt som konsesjonsvilkår,
+7. styret, daglig leder eller annen person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 5-2](lov/2022-12-16-91/§5-2) ikke lenger er oppfylt,
+8. låneformidlingsforetaket ikke etterkommer pålegg gitt av Finanstilsynet eller annen tilsynsmyndighet.
 
 ### § 9-3. Pålegg og tvangstiltak
 

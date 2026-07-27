@@ -30,7 +30,10 @@ Formålet med bidragsforskott er å sikre at barn som omfattes av loven her ette
 
 ## § 2. Personkrets
 
-Bidragsforskott ytes til barn under 18 år somer bosatt i riket og oppholder seg her, ogikke bor sammen med begge foreldrene.
+Bidragsforskott ytes til barn under 18 år som
+
+1. er bosatt i riket og oppholder seg her, og
+2. ikke bor sammen med begge foreldrene.
 
 Departementet kan gi forskrift om i hvilke tilfelle vilkårene i første ledd bokstav a og b skal anses oppfylt og om unntak fra vilkåret i bokstav a.
 
@@ -50,7 +53,13 @@ Departementet kan gi forskrift om anvendelsen av bestemmelsene i annet og tredje
 
 ## § 4. Bortfall av retten til bidragsforskott
 
-Retten til bidragsforskott faller bort fra og med den kalendermånedbarnet får rett til barnepensjon etter [folketrygdloven kapittel 18](lov/1997-02-28-19/kap18). Dersom bare en av foreldrene er død, kan forskott likevel ytes dersom barnet ikke bor sammen med gjenlevende,barnet får rett til ytelser etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11), [12](lov/1997-02-28-19/kap12), [13](lov/1997-02-28-19/kap13), [15](lov/1997-02-28-19/kap15) eller [17](lov/1997-02-28-19/kap17) som har til formål å sikre inntekt.barnet får rett til fullt underhold av det offentlige. Dette gjelder likevel ikke underhold etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen.det er truffet vedtak om at underholdsbidrag ikke lenger skal ytes enten fordi barnet har egen inntekt eller fordi barnet har inngått ekteskap.barnet får rett til ytelse til livsopphold fra utlandet, tilsvarende ytelser som nevnt i bokstavene a, b og c.
+Retten til bidragsforskott faller bort fra og med den kalendermåned
+
+1. barnet får rett til barnepensjon etter [folketrygdloven kapittel 18](lov/1997-02-28-19/kap18). Dersom bare en av foreldrene er død, kan forskott likevel ytes dersom barnet ikke bor sammen med gjenlevende,
+2. barnet får rett til ytelser etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11), [12](lov/1997-02-28-19/kap12), [13](lov/1997-02-28-19/kap13), [15](lov/1997-02-28-19/kap15) eller [17](lov/1997-02-28-19/kap17) som har til formål å sikre inntekt.
+3. barnet får rett til fullt underhold av det offentlige. Dette gjelder likevel ikke underhold etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen.
+4. det er truffet vedtak om at underholdsbidrag ikke lenger skal ytes enten fordi barnet har egen inntekt eller fordi barnet har inngått ekteskap.
+5. barnet får rett til ytelse til livsopphold fra utlandet, tilsvarende ytelser som nevnt i bokstavene a, b og c.
 
 Bidragsforskott kan utbetales fram til det tidspunkt hvor ytelser som nevnt i første ledd bokstav a-c faktisk blir utbetalt. Det skal da kreves refusjon i etterbetaling av ytelsene for forskott ytet i etterbetalingsperioden.
 

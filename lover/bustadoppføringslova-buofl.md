@@ -15,7 +15,7 @@ xml_hash: "5eb88b5d7a3f3001870ee7eddf8e0bd9df15d50f1e53b3b5ba4846e49c2e1305"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Verkeområde
 
-Lova gjeld avtalar mellom entreprenør og ein forbrukar om oppføring av ny eigarbustad. Dette omfattaravtale om oppføring av bygning til bustadføremål og avtale om arbeid som vert utført direkte som ledd i slik oppføring, ogavtale om rett til fast eigedom med ny eigarbustad når arbeid som entreprenøren står for, enno ikkje er fullført på avtaletida. Likt med dette skal reknast avtale om vidaresal av slik rett.
+Lova gjeld avtalar mellom entreprenør og ein forbrukar om oppføring av ny eigarbustad. Dette omfattar
+
+1. avtale om oppføring av bygning til bustadføremål og avtale om arbeid som vert utført direkte som ledd i slik oppføring, og
+2. avtale om rett til fast eigedom med ny eigarbustad når arbeid som entreprenøren står for, enno ikkje er fullført på avtaletida. Likt med dette skal reknast avtale om vidaresal av slik rett.
 
 [Kapittel](lov/1997-06-13-43/kapix) IX gjeld avtalar mellom ein konsulent og ein forbrukar om planlegging av oppføring av bygning til bustadføremål eller planlegging av arbeid som vert utført direkte som ledd i slik oppføring.
 
@@ -122,7 +125,11 @@ Er det ikkje avtalt fristar som nemnde i første ledd, skal entreprenøren ta ti
 
 ### § 11. Tilleggsfrist
 
-Entreprenøren kan krevje lenging av avtalte fristar dersomforbrukaren krev endringar eller tilleggsarbeid som seinkar arbeidet,arbeidet blir seinka fordi forbrukaren eller nokon som forbrukaren svarer for, ikkje medverkar i samsvar med avtalen, eller arbeidet blir seinka på grunn av andre omstende som forbrukaren svarer for, ellerarbeidet blir seinka på grunn av ei hindring utanfor entreprenørens kontroll, og det ikkje er rimeleg å vente at entreprenøren kunne ha rekna med hindringa på avtaletida, eller at entreprenøren skal unngå eller overvinne følgjene av hindringa.
+Entreprenøren kan krevje lenging av avtalte fristar dersom
+
+1. forbrukaren krev endringar eller tilleggsarbeid som seinkar arbeidet,
+2. arbeidet blir seinka fordi forbrukaren eller nokon som forbrukaren svarer for, ikkje medverkar i samsvar med avtalen, eller arbeidet blir seinka på grunn av andre omstende som forbrukaren svarer for, eller
+3. arbeidet blir seinka på grunn av ei hindring utanfor entreprenørens kontroll, og det ikkje er rimeleg å vente at entreprenøren kunne ha rekna med hindringa på avtaletida, eller at entreprenøren skal unngå eller overvinne følgjene av hindringa.
 
 Blir arbeidet seinka på grunn av ein underentreprenør som etter avtale med entreprenøren skal utføre arbeidet eller delar av det, har entreprenøren krav på tilleggsfrist dersom underentreprenøren ville ha hatt krav på tilleggsfrist etter første ledd.
 
@@ -168,13 +175,22 @@ Overtaking skjer ved overtakingsforretning.
 
 Er arbeidet fullført, og forbrukaren har flytta inn i bustaden, er ytinga overteke sjølv om det ikkje er halde overtakingsforretning.
 
-Ved overtakingagår vågnaden for ytinga over frå entreprenøren til forbrukaren, jf. [§ 45](lov/1997-06-13-43/§45),tek reklamasjonsfristane til, jf. [§ 30](lov/1997-06-13-43/§30),stansar eventuell dagmulkt, jf. [§ 18](lov/1997-06-13-43/§18),får entreprenøren krav på sluttoppgjer, jf. [§ 46](lov/1997-06-13-43/§46).
+Ved overtakinga
+
+1. går vågnaden for ytinga over frå entreprenøren til forbrukaren, jf. [§ 45](lov/1997-06-13-43/§45),
+2. tek reklamasjonsfristane til, jf. [§ 30](lov/1997-06-13-43/§30),
+3. stansar eventuell dagmulkt, jf. [§ 18](lov/1997-06-13-43/§18),
+4. får entreprenøren krav på sluttoppgjer, jf. [§ 46](lov/1997-06-13-43/§46).
 
 ### § 15. Overtakingsforretning
 
 Etter at entreprenøren har meldt frå til forbrukaren om når arbeidet blir fullført, kan kvar av partane med minst sju dagars varsel kalle inn til overtakingsforretning med synfaring av entreprenørens yting.
 
-Let den eine parten vere å møte til overtakingsforretning utan gyldig grunn, kan den andre parten gjennomføre overtakingsforretning åleine. Er det forbrukaren som uteblir etter innkalling frå entreprenøren, gjeld dette likevel berre dersom det i skriftleg innkalling er gjort merksam påføresegna i første punktum i leddet her,føresegnene i [§ 30](lov/1997-06-13-43/§30) andre ledd om at manglar som forbrukaren burde ha oppdaga ved overtakingsforretninga, må gjerast gjeldande så snart råd er, ogat overtaking har dei verknader som elles er nemnde i [§ 14](lov/1997-06-13-43/§14) tredje ledd.
+Let den eine parten vere å møte til overtakingsforretning utan gyldig grunn, kan den andre parten gjennomføre overtakingsforretning åleine. Er det forbrukaren som uteblir etter innkalling frå entreprenøren, gjeld dette likevel berre dersom det i skriftleg innkalling er gjort merksam på
+
+1. føresegna i første punktum i leddet her,
+2. føresegnene i [§ 30](lov/1997-06-13-43/§30) andre ledd om at manglar som forbrukaren burde ha oppdaga ved overtakingsforretninga, må gjerast gjeldande så snart råd er, og
+3. at overtaking har dei verknader som elles er nemnde i [§ 14](lov/1997-06-13-43/§14) tredje ledd.
 
 Forbrukaren kan nekte å overta ytinga dersom det ligg føre mangel som gjev rimeleg grunn til nektinga.
 
@@ -192,7 +208,12 @@ Vert synfaring etter krav frå entreprenøren ikkje gjennomført fordi forbrukar
 
 Ytinga er forseinka dersom overtaking ikkje kan skje til den tida forbrukaren har rett til å krevje etter [§§ 10](lov/1997-06-13-43/§10) og [11](lov/1997-06-13-43/§11). Det same gjeld dersom arbeidet eller delar av arbeidet ikkje er fullført eller heimelsoverføring ikkje skjer til dei tidene forbrukaren har rett til å krevje.
 
-Er ytinga forseinka, kan forbrukarenkrevje dagmulkt etter [§ 18](lov/1997-06-13-43/§18),heve avtalen etter [§ 20](lov/1997-06-13-43/§20),krevje skadebot etter [§ 19](lov/1997-06-13-43/§19) eller [§ 22](lov/1997-06-13-43/§22),halde attende vederlag etter [§ 24](lov/1997-06-13-43/§24).
+Er ytinga forseinka, kan forbrukaren
+
+1. krevje dagmulkt etter [§ 18](lov/1997-06-13-43/§18),
+2. heve avtalen etter [§ 20](lov/1997-06-13-43/§20),
+3. krevje skadebot etter [§ 19](lov/1997-06-13-43/§19) eller [§ 22](lov/1997-06-13-43/§22),
+4. halde attende vederlag etter [§ 24](lov/1997-06-13-43/§24).
 
 Dersom entreprenøren ikkje i tide oppfyller andre plikter etter avtalen, gjeld føresegnene om forseinking tilsvarande så langt dei høver, likevel ikkje føresegnene om dagmulkt.
 
@@ -208,7 +229,10 @@ Forbrukaren kan krevje dagmulkt utan omsyn til økonomisk tap.
 
 Forbrukaren kan berre krevje skadebot for tap som overstig dagmulkta, dersom tapet kjem av at entreprenøren eller nokon som entreprenøren svarer for, har fare fram grovt aktlaust eller i strid med heider og god tru elles.
 
-I tidsrom når det ikkje vert rekna dagmulkt, kan forbrukaren krevje skadebotfor tap som følgjer av at arbeidet eller delar av arbeidet ikkje er fullført til den tida forbrukaren kan krevje,for tap som følgjer av at heimelsoverføring ikkje skjer til den tida forbrukaren kan krevje.
+I tidsrom når det ikkje vert rekna dagmulkt, kan forbrukaren krevje skadebot
+
+1. for tap som følgjer av at arbeidet eller delar av arbeidet ikkje er fullført til den tida forbrukaren kan krevje,
+2. for tap som følgjer av at heimelsoverføring ikkje skjer til den tida forbrukaren kan krevje.
 
 Skadebota skal dekkje økonomisk tap så langt entreprenøren rimeleg kunne rekne med tapet som ei følgje av forseinkinga. Forsømer forbrukaren å avgrense tapet gjennom rimelege tiltak, blir skadebota sett ned tilsvarande.
 
@@ -218,7 +242,10 @@ For skadebot i hevingstilfella gjeld [§ 22](lov/1997-06-13-43/§22).
 
 Forbrukaren kan heve avtalen dersom forseinkinga inneber eit vesentleg avtalebrot. Forbrukaren kan òg heve avtalen dersom det er klårt at det kjem til å oppstå forseinking som nemnd i første punktum. Forbrukaren kan berre heve avtalen dersom det er gjeve melding til entreprenøren om hevingskravet før overtaking.
 
-Vert avtalen med entreprenøren heva fordi entreprenørens yting er forseinka, kan forbrukaren òg heve avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersomplanlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, ogavtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
+Vert avtalen med entreprenøren heva fordi entreprenørens yting er forseinka, kan forbrukaren òg heve avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersom
+
+1. planlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, og
+2. avtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
 
 I slike tilfelle kan forbrukaren jamvel heve avtalen med entreprenøren dersom avtalen om rett til grunnen blir heva på grunn av forseinking. Blir begge avtalane heva, skal hevingsoppgjeret skje etter [§ 21](lov/1997-06-13-43/§21) tredje ledd.
 
@@ -260,7 +287,10 @@ Mangel ligg òg føre dersom forbrukaren før avtalen vart gjord ikkje har fått
 
 ### § 27. Urette opplysningar
 
-Mangel ligg òg føre dersom resultatet ikkje svarer til opplysningar om eigenskapar eller bruk som er gjevne i samband med avtaleinngåinga eller ved marknadsføringav entreprenøren eller på entreprenørens vegner, ellerav nokan annan i eigenskap av eller på vegner av materialleverandør eller tidlegare salsledd.
+Mangel ligg òg føre dersom resultatet ikkje svarer til opplysningar om eigenskapar eller bruk som er gjevne i samband med avtaleinngåinga eller ved marknadsføring
+
+1. av entreprenøren eller på entreprenørens vegner, eller
+2. av nokan annan i eigenskap av eller på vegner av materialleverandør eller tidlegare salsledd.
 
 Første ledd gjeld likevel berre dersom ein kan gå ut i frå at opplysningane har verka inn på avtalen, og opplysningane ikkje er retta i tide på ein tydeleg måte.
 
@@ -272,7 +302,11 @@ Entreprenøren svarer òg for feil som oppstår seinare, dersom årsaka til feil
 
 ### § 29. Forbrukarens krav som følgje av mangel
 
-Ligg det føre mangel, kan forbrukarenhalde attende vederlag etter [§ 31](lov/1997-06-13-43/§31),krevje mangelen retta etter [§ 32](lov/1997-06-13-43/§32), krevje prisavslag etter [§ 33](lov/1997-06-13-43/§33) eller heve etter [§ 34](lov/1997-06-13-43/§34),krevje skadebot etter [§ 35](lov/1997-06-13-43/§35).
+Ligg det føre mangel, kan forbrukaren
+
+1. halde attende vederlag etter [§ 31](lov/1997-06-13-43/§31),
+2. krevje mangelen retta etter [§ 32](lov/1997-06-13-43/§32), krevje prisavslag etter [§ 33](lov/1997-06-13-43/§33) eller heve etter [§ 34](lov/1997-06-13-43/§34),
+3. krevje skadebot etter [§ 35](lov/1997-06-13-43/§35).
 
 For andre feil ved entreprenørens oppfylling gjeld føresegnene om manglar så langt dei høver.
 
@@ -316,7 +350,10 @@ Forbrukaren kan heve avtalen dersom mangelen inneber eit vesentleg avtalebrot. F
 
 Om verknadene av heving gjeld [§ 21](lov/1997-06-13-43/§21) tilsvarande.
 
-Vert avtalen med entreprenøren heva på grunn av mangel ved entreprenørens yting, kan forbrukaren òg heve avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersomplanlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, ogavtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
+Vert avtalen med entreprenøren heva på grunn av mangel ved entreprenørens yting, kan forbrukaren òg heve avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersom
+
+1. planlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, og
+2. avtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
 
 I slike tilfelle kan forbrukaren jamvel heve avtalen med entreprenøren dersom avtalen om rett til grunnen blir heva på grunn av mangel. Blir begge avtalane heva, skal hevingsoppgjeret skje etter [§ 21](lov/1997-06-13-43/§21) tredje ledd.
 
@@ -384,7 +421,10 @@ Entreprenøren har ikkje krav på tillegg for prisstiging utan at det er avtalt 
 
 Partane kan krevje justering av vederlaget som følgje av endringar og tilleggsarbeid i den mon det følgjer av den opprinnelege avtalen eller er fastsett i særskilt skriftleg avtale om endringane eller tilleggsarbeidet.
 
-Elles kan justering av avtalt vederlag berre krevjastdersom krav på tillegg eller frådrag er framsett i samband med kravet om endringar eller tilleggsarbeid, elleri den mon den andre parten måtte skjøne at endringane eller tilleggsarbeidet ville føre til eit slikt krav.
+Elles kan justering av avtalt vederlag berre krevjast
+
+1. dersom krav på tillegg eller frådrag er framsett i samband med kravet om endringar eller tilleggsarbeid, eller
+2. i den mon den andre parten måtte skjøne at endringane eller tilleggsarbeidet ville føre til eit slikt krav.
 
 Justering av vederlaget etter andre ledd skal skje på grunnlag av nødvendig kostnadsauke eller oppnåeleg innsparing for entreprenøren med tilsvarande endring av entreprenørens påslag.
 
@@ -408,7 +448,11 @@ Det kan avtalast at forbrukaren skal stille garanti eller gje trygd på annan m�
 
 ### § 47. Forskotsbetaling
 
-Avtale om at forbrukaren skal betale avdrag eller forskot på entreprenørens vederlag, gjeld berre så langtverdien av arbeid som er utført på eigedomen, saman med materialar som er tilførte eigedomen, minst svarer til det som til kvar tid er betalt,det ikkje kviler salspant eller andre hefte på materialar som er innbygde eller tilførte eigedomen, og som skal betalast ved avdraget, ogminst ein tiandedel av vederlaget ikkje skal betalast før overtakinga.
+Avtale om at forbrukaren skal betale avdrag eller forskot på entreprenørens vederlag, gjeld berre så langt
+
+1. verdien av arbeid som er utført på eigedomen, saman med materialar som er tilførte eigedomen, minst svarer til det som til kvar tid er betalt,
+2. det ikkje kviler salspant eller andre hefte på materialar som er innbygde eller tilførte eigedomen, og som skal betalast ved avdraget, og
+3. minst ein tiandedel av vederlaget ikkje skal betalast før overtakinga.
 
 Ved avtalar som omfattar rett til grunn (§ 1 første ledd bokstav b), kan det berre avtalast forskotsbetaling etter første ledd dersom betalinga skal skje etter at forbrukaren har fått overført heimelen til eigedomen utan andre hefte enn dei som forbrukaren skal overta, eller det er stilt garanti som nemnd i tredje ledd.
 
@@ -440,7 +484,10 @@ Skal forbrukaren eller nokon forbrukaren svarer for, levere teikningar, skaffe m
 
 ### § 51. Tilleggsfrist
 
-Forbrukaren kan krevje lenging av fristar for betaling og medverknad dersombetalinga eller medverknaden blir seinka på grunn av entreprenørens forhold, ellerbetalinga eller medverknaden blir seinka på grunn av ei hindring utanfor forbrukarens kontroll, og det ikkje er rimeleg å vente at forbrukaren kunne ha rekna med hindringa på avtaletida, eller at forbrukaren skal unngå eller overvinne følgjene av hindringa.
+Forbrukaren kan krevje lenging av fristar for betaling og medverknad dersom
+
+1. betalinga eller medverknaden blir seinka på grunn av entreprenørens forhold, eller
+2. betalinga eller medverknaden blir seinka på grunn av ei hindring utanfor forbrukarens kontroll, og det ikkje er rimeleg å vente at forbrukaren kunne ha rekna med hindringa på avtaletida, eller at forbrukaren skal unngå eller overvinne følgjene av hindringa.
 
 Blir betalinga eller medverknaden seinka på grunn av ein tredjeperson som forbrukaren svarer for, har forbrukaren krav på tilleggsfrist dersom tredjepersonen ville ha hatt krav på tilleggsfrist etter andre leddet.
 
@@ -460,7 +507,10 @@ Skadebot etter tredje ledd kan likevel ikkje krevjast dersom avbestillinga kjem 
 
 [§ 52](lov/1997-06-13-43/§52) andre til fjerde ledd gjeld ikkje når avbestillinga omfattar rett til grunn (jf. [§ 1](lov/1997-06-13-43/§1) første ledd bokstav b). I slike tilfelle kan entreprenøren krevje skadebot for økonomisk tap så langt forbrukaren rimeleg kunne rekne med tapet som ei følgje av avbestillinga. Ved utmålinga gjeld føresegnene i [§ 36](lov/1997-06-13-43/§36) tilsvarande.
 
-Dersom heile ytinga etter avtalen med entreprenøren vert avbestilt, kan forbrukaren òg avbestille ytinga etter avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersomplanlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, ogavtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
+Dersom heile ytinga etter avtalen med entreprenøren vert avbestilt, kan forbrukaren òg avbestille ytinga etter avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren dersom
+
+1. planlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, og
+2. avtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
 
 Retten til avbestilling gjeld utan omsyn til om avtalen om grunnen er oppfylt, men entreprenøren kan setje som vilkår for avbestilling at ytingane etter avtalen om rett til grunnen blir førte attende. Skadebot kan krevjast etter føresegnene i første ledd.
 
@@ -472,7 +522,11 @@ I staden for skadebotansvar etter [§ 52](lov/1997-06-13-43/§52) eller [§ 53](
 
 ### § 55. Entreprenørens krav ved forseinking
 
-Dersom betaling eller medverknad frå forbrukarens side ikkje blir ytt til dei tider entreprenøren kan krevje etter [§§ 46](lov/1997-06-13-43/§46), [47](lov/1997-06-13-43/§47), [50](lov/1997-06-13-43/§50) og [51](lov/1997-06-13-43/§51), kan entreprenørenstanse arbeidet og krevje tilleggsvederlag etter [§ 56](lov/1997-06-13-43/§56), jf. [§ 43](lov/1997-06-13-43/§43),heve avtalen og krevje skadebot etter [§§ 57](lov/1997-06-13-43/§57) og [58](lov/1997-06-13-43/§58),krevje rente og skadebot for rentetap etter [§ 59](lov/1997-06-13-43/§59).
+Dersom betaling eller medverknad frå forbrukarens side ikkje blir ytt til dei tider entreprenøren kan krevje etter [§§ 46](lov/1997-06-13-43/§46), [47](lov/1997-06-13-43/§47), [50](lov/1997-06-13-43/§50) og [51](lov/1997-06-13-43/§51), kan entreprenøren
+
+1. stanse arbeidet og krevje tilleggsvederlag etter [§ 56](lov/1997-06-13-43/§56), jf. [§ 43](lov/1997-06-13-43/§43),
+2. heve avtalen og krevje skadebot etter [§§ 57](lov/1997-06-13-43/§57) og [58](lov/1997-06-13-43/§58),
+3. krevje rente og skadebot for rentetap etter [§ 59](lov/1997-06-13-43/§59).
 
 Omfattar avtalen rett til grunn (§ 1 første ledd bokstav b), har forbrukaren ikkje krav på overtaking eller heimelsoverføring før betaling og medverknad er ytt i samsvar med avtalen, sjå likevel [§ 49](lov/1997-06-13-43/§49) om høve til deponering av omtvista beløp.
 
@@ -514,7 +568,10 @@ Kvar av partane kan seie seg løyst frå avtalen dersom arbeidet må avbrytast e
 
 Føresegnene i [§ 21](lov/1997-06-13-43/§21) gjeld tilsvarande dersom ein av partane seier seg løyst frå avtalen etter første ledd. Partane har ikkje krav på skadebot.
 
-Dersom ein av partane seier seg løyst frå avtalen etter første ledd, kan kvar av partane krevje at ytinga etter avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren, går attende dersomplanlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, ogavtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
+Dersom ein av partane seier seg løyst frå avtalen etter første ledd, kan kvar av partane krevje at ytinga etter avtale om rett til grunnen som er gjort med nokon annan enn entreprenøren, går attende dersom
+
+1. planlegging og oppføring av bustaden er eit vilkår for avtalen om rett til grunnen, og
+2. avtalen med entreprenøren omfattar det hovudsaklege av både planlegging og oppføring av bustaden.
 
 ## Kapittel IX. Skadebotansvar for konsulent
 

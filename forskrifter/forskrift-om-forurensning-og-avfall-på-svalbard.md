@@ -38,7 +38,15 @@ Med de begrensninger som følger av folkeretten, gjelder forskriften for Svalbar
 
 ### § 1-3. (definisjoner)
 
-I denne forskriften menes med*avfall*: det som er definert som avfall i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav b)*farlig avfall*: det som er definert som farlig avfall i [§ 11-2 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall](forskrift/2004-06-01-930/§11-2)*forurensning*: det som er definert som forurensning i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav a)*lovlig avfallsanlegg*: virksomhet som har nødvendig tillatelse eller godkjenning til mottak eller behandling av avfall*planansvarlig*: grunneieren eller den som er bemyndiget som planansvarlig etter [svalbardmiljøloven § 48](lov/2001-06-15-79/§48)*planområde*: område som er definert som planområde i [forskrift 28. juni 2002 nr. 650](forskrift/2002-06-28-650) om konsekvensutredninger og avgrensning av planområdene på Svalbard*tiltakshaver*: den som er definert som tiltakshaver i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav o).
+I denne forskriften menes med
+
+1. *avfall*: det som er definert som avfall i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav b)
+2. *farlig avfall*: det som er definert som farlig avfall i [§ 11-2 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall](forskrift/2004-06-01-930/§11-2)
+3. *forurensning*: det som er definert som forurensning i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav a)
+4. *lovlig avfallsanlegg*: virksomhet som har nødvendig tillatelse eller godkjenning til mottak eller behandling av avfall
+5. *planansvarlig*: grunneieren eller den som er bemyndiget som planansvarlig etter [svalbardmiljøloven § 48](lov/2001-06-15-79/§48)
+6. *planområde*: område som er definert som planområde i [forskrift 28. juni 2002 nr. 650](forskrift/2002-06-28-650) om konsekvensutredninger og avgrensning av planområdene på Svalbard
+7. *tiltakshaver*: den som er definert som tiltakshaver i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav o).
 
 ## Del II. Forurensning
 
@@ -62,7 +70,15 @@ Når terrenginngrep planlegges i områder der det er grunn til å tro at det er 
 
 ### § 2-3. (krav til innhold i søknad om terrenginngrep i forurenset grunn)
 
-Søknad om tillatelse til terrenginngrep i områder med forurenset grunn skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. I søknaden skal det som et minimum redegjøres forde undersøkelsene som er foretatt av forurensning i grunnenhvilke terrenginngrep som skal gjennomføres i forurenset grunn, samt en tidsplan for gjennomføringenen vurdering av risikoen for forurensningsspredning og eventuelle tiltak som anses nødvendige for å unngå spredning av forurensningden fremtidige arealbruken og vurdering av risiko for helse og miljø på kort og lang sikt, med tilhørende forslag til konsentrasjoner av enkeltstoffer som kan aksepteres i grunneneventuelle tiltak som bør gjennomføres som følge av vurderingen i bokstav d), inkludert foreslått tidsplan for gjennomføring av tiltakenehvordan forurenset masse skal disponeres, ogom det er behov for kontroll og overvåking under og etter terrenginngrepet, og i tilfelle hvilke tiltak som vurderes som nødvendige.
+Søknad om tillatelse til terrenginngrep i områder med forurenset grunn skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. I søknaden skal det som et minimum redegjøres for
+
+1. de undersøkelsene som er foretatt av forurensning i grunnen
+2. hvilke terrenginngrep som skal gjennomføres i forurenset grunn, samt en tidsplan for gjennomføringen
+3. en vurdering av risikoen for forurensningsspredning og eventuelle tiltak som anses nødvendige for å unngå spredning av forurensning
+4. den fremtidige arealbruken og vurdering av risiko for helse og miljø på kort og lang sikt, med tilhørende forslag til konsentrasjoner av enkeltstoffer som kan aksepteres i grunnen
+5. eventuelle tiltak som bør gjennomføres som følge av vurderingen i bokstav d), inkludert foreslått tidsplan for gjennomføring av tiltakene
+6. hvordan forurenset masse skal disponeres, og
+7. om det er behov for kontroll og overvåking under og etter terrenginngrepet, og i tilfelle hvilke tiltak som vurderes som nødvendige.
 
 ### § 2-4. (forbud mot mudring)
 
@@ -74,7 +90,10 @@ Med mudring menes enhver forsettlig forflytning av masser fra bunnen, herunder s
 
 Ingen må dumpe avfall eller materiale i sjø uten tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58).
 
-Det kan bare gis tillatelse til å dumpemuddermasser, løsmasser og stein, ellerannet avfall/materiale i helt spesielle situasjoner hvor deponering på land medfører uakseptabel fare eller skade.
+Det kan bare gis tillatelse til å dumpe
+
+1. muddermasser, løsmasser og stein, eller
+2. annet avfall/materiale i helt spesielle situasjoner hvor deponering på land medfører uakseptabel fare eller skade.
 
 Med dumping menes enhver forsettlig disponering av avfall eller annet materiale i sjø med det formål å bringe det av veien. Dumping omfatter ikke disponering av avfall eller annet materiale som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller fiskeri- og oppdrettsnæring, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien.
 
@@ -92,11 +111,23 @@ Med utfylling menes enhver disponering av masser i sjø eller vassdrag som utvid
 
 ### § 2-8. (krav til innhold i søknad om tillatelse til mudring, dumping, plassering av materiale og utfylling)
 
-Søknad om tillatelse til mudring, dumping, plassering av materiale og utfylling i sjø skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. Søknaden skal inneholde opplysninger omformålet med tiltaketbunn- og naturforholdene der det søkes om tillatelseresultater fra undersøkelser av forurensning, dersom det er grunn til å tro at bunnen kan være forurensetfaren for spredning av forurensning og partikler fra tiltaket, ogom det er behov for kontroll og overvåking under og etter tiltaket, og i tilfelle hvilke tiltak som vurderes som nødvendige.
+Søknad om tillatelse til mudring, dumping, plassering av materiale og utfylling i sjø skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. Søknaden skal inneholde opplysninger om
 
-Søknad om mudring skal i tillegg inneholde opplysninger ommengde og areal som ønskes mudret, inkludert kart der tiltaksområdet er inntegnet, ogopplysninger om hvordan muddermasser skal disponeres.
+1. formålet med tiltaket
+2. bunn- og naturforholdene der det søkes om tillatelse
+3. resultater fra undersøkelser av forurensning, dersom det er grunn til å tro at bunnen kan være forurenset
+4. faren for spredning av forurensning og partikler fra tiltaket, og
+5. om det er behov for kontroll og overvåking under og etter tiltaket, og i tilfelle hvilke tiltak som vurderes som nødvendige.
 
-Søknad om dumping, plassering av materiale og utfylling i sjø skal i tillegg inneholde opplysninger ommaterialet som skal dumpes, plasseres eller fylles ut, inkludert kart der området er inntegnet, ogmengde materiale som skal dumpes, plasseres eller fylles ut.
+Søknad om mudring skal i tillegg inneholde opplysninger om
+
+1. mengde og areal som ønskes mudret, inkludert kart der tiltaksområdet er inntegnet, og
+2. opplysninger om hvordan muddermasser skal disponeres.
+
+Søknad om dumping, plassering av materiale og utfylling i sjø skal i tillegg inneholde opplysninger om
+
+1. materialet som skal dumpes, plasseres eller fylles ut, inkludert kart der området er inntegnet, og
+2. mengde materiale som skal dumpes, plasseres eller fylles ut.
 
 ### Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker
 
@@ -104,11 +135,18 @@ Søknad om dumping, plassering av materiale og utfylling i sjø skal i tillegg i
 
 Ingen må lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier i tanker, herunder fat og kanner, uten at det er gitt tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58) eller det er tillatt etter bestemmelsene i dette kapitlet.
 
-Med farlige kjemikalier menesstoffer som er tungt nedbrytbare, som akkumuleres i levende organismer og som kan gi skader selv når stoffet forekommer i lave konsentrasjoner,stoffer som er svært tungt nedbrytbare og svært bioakkumulerende, ogstoffer og stoffblandinger som er klassifisert i henhold til CLP-forordningen artikkel 3, jf. [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften) § 1](forskrift/2012-06-16-622/§1).
+Med farlige kjemikalier menes
+
+1. stoffer som er tungt nedbrytbare, som akkumuleres i levende organismer og som kan gi skader selv når stoffet forekommer i lave konsentrasjoner,
+2. stoffer som er svært tungt nedbrytbare og svært bioakkumulerende, og
+3. stoffer og stoffblandinger som er klassifisert i henhold til CLP-forordningen artikkel 3, jf. [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften) § 1](forskrift/2012-06-16-622/§1).
 
 ### § 3-2. (krav til lagring i tanker under 2 m3 i planområder)
 
-Det er tillatt å lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier uten tillatelse i tanker under 2 m3 i planområder dersomlagringen er forsvarlig, ognødvendige tiltak for å unngå forurensning av miljøet eller skade på mennesker eller dyr iverksettes.
+Det er tillatt å lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier uten tillatelse i tanker under 2 m3 i planområder dersom
+
+1. lagringen er forsvarlig, og
+2. nødvendige tiltak for å unngå forurensning av miljøet eller skade på mennesker eller dyr iverksettes.
 
 Sysselmesteren eller den departementet bemyndiger kan i enkeltvedtak bestemme at lagring etter første ledd likevel må ha tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58).
 
@@ -144,7 +182,12 @@ Vurderingen av miljørisiko etter første ledd skal oppdateres ved endrede lagri
 
 ### § 3-6. (krav til risikoreduserende tiltak)
 
-Den ansvarlige for lagringen skal med utgangspunkt i miljørisikovurderingen sørge for å etablere og vedlikeholde de risikoreduserende tiltakene som er nødvendige for å forhindre forurensning. Følgende tiltak skal som et minimum iverksettes:Personer som deltar i planlegging, drift, inspeksjon, vedlikehold, beredskap, nedleggelse eller andre operasjoner knyttet til tanker som omfattes av kapittelet, skal ha relevant kompetanse.Tanker og tilknyttede rørledninger skal være sikret med nødvendige barrierer for å forhindre hendelser som kan medføre forurensning. En barriere er en teknisk eller organisatorisk funksjon eller et tiltak som er planlagt, etablert og vedlikeholdt for å bryte hendelsesforløp som kan medføre forurensning.Det skal etableres overvåking for å oppdage forurensning eller fare for forurensning ved fylling, tapping og andre aktiviteter tilknyttet tankene, og i perioder uten slike aktiviteter. Overvåkingstiltakene kan være både tekniske og organisatoriske.Tanker og rør skal merkes med innhold og annen relevant informasjon. Merkingen skal være godt synlig og lett forståelig for alle som kan ha befatning med tankene og rørene.
+Den ansvarlige for lagringen skal med utgangspunkt i miljørisikovurderingen sørge for å etablere og vedlikeholde de risikoreduserende tiltakene som er nødvendige for å forhindre forurensning. Følgende tiltak skal som et minimum iverksettes:
+
+1. Personer som deltar i planlegging, drift, inspeksjon, vedlikehold, beredskap, nedleggelse eller andre operasjoner knyttet til tanker som omfattes av kapittelet, skal ha relevant kompetanse.
+2. Tanker og tilknyttede rørledninger skal være sikret med nødvendige barrierer for å forhindre hendelser som kan medføre forurensning. En barriere er en teknisk eller organisatorisk funksjon eller et tiltak som er planlagt, etablert og vedlikeholdt for å bryte hendelsesforløp som kan medføre forurensning.
+3. Det skal etableres overvåking for å oppdage forurensning eller fare for forurensning ved fylling, tapping og andre aktiviteter tilknyttet tankene, og i perioder uten slike aktiviteter. Overvåkingstiltakene kan være både tekniske og organisatoriske.
+4. Tanker og rør skal merkes med innhold og annen relevant informasjon. Merkingen skal være godt synlig og lett forståelig for alle som kan ha befatning med tankene og rørene.
 
 Ved endringer som kan påvirke miljørisikoen, skal de risikoreduserende tiltakene vurderes og om nødvendig tilpasses endringene i miljørisikoen.
 
@@ -180,7 +223,12 @@ Sysselmesteren eller den departementet bemyndiger kan i enkeltvedtak bestemme at
 
 ### § 4-3. (krav til utslipp av gråvann fra hytter i planområder)
 
-Utslipp fra hytter av inntil 3000 liter gråvann per år kan skje uten tillatelse dersomhytta ligger i et område som er avsatt til hytteområde i godkjent plandet ikke er stilt krav om tilknytning til felles avløpsanleggutslippet skjer til grunn som er egnet til å infiltrere vannet, oggråvannet bare har innhold som er vanlig fra husholdninger.
+Utslipp fra hytter av inntil 3000 liter gråvann per år kan skje uten tillatelse dersom
+
+1. hytta ligger i et område som er avsatt til hytteområde i godkjent plan
+2. det ikke er stilt krav om tilknytning til felles avløpsanlegg
+3. utslippet skjer til grunn som er egnet til å infiltrere vannet, og
+4. gråvannet bare har innhold som er vanlig fra husholdninger.
 
 Med gråvann menes den delen av avløpsvannet fra vanlig husholdning som kommer fra kjøkken, bad og vaskerom. Klosettavløp er ikke inkludert.
 
@@ -202,7 +250,13 @@ Tillatelse til utslipp av inntil 500 liter gråvann fra hytter utenfor planområ
 
 ### § 4-5. (krav til utslipp av avløpsvann fra vaskeplass for kjøretøy)
 
-Utslipp av avløpsvann fra fast vaskeplass for kjøretøy o.l. i virksomheter kan i planområder skje uten tillatelse dersomavløpsvannet slippes på felles avløpsanlegg med tillatelse etter [svalbardmiljøloven § 58](lov/2001-06-15-79/§58)avløpsvannet ledes via sandfang eller lignende renseinnretning før det slippes på felles avløpsanlegg, oginnholdet av olje i avløpsvannet som slippes på felles avløpsanlegg ikke overstiger 50 mg/l.Sysselmesteren eller den departementet bemyndiger kan kreve at utslipp omfattet av første ledd likevel skal reguleres gjennom særskilt tillatelse.
+Utslipp av avløpsvann fra fast vaskeplass for kjøretøy o.l. i virksomheter kan i planområder skje uten tillatelse dersom
+
+1. avløpsvannet slippes på felles avløpsanlegg med tillatelse etter [svalbardmiljøloven § 58](lov/2001-06-15-79/§58)
+2. avløpsvannet ledes via sandfang eller lignende renseinnretning før det slippes på felles avløpsanlegg, og
+3. innholdet av olje i avløpsvannet som slippes på felles avløpsanlegg ikke overstiger 50 mg/l.
+
+   Sysselmesteren eller den departementet bemyndiger kan kreve at utslipp omfattet av første ledd likevel skal reguleres gjennom særskilt tillatelse.
 
 > Endret ved [forskrift 22 juni 2021 nr. 2122](forskrift/2021-06-22-2122) (i kraft 1 juli 2021).
 
@@ -210,7 +264,12 @@ Utslipp av avløpsvann fra fast vaskeplass for kjøretøy o.l. i virksomheter ka
 
 I tillegg til eventuelle krav fastsatt i tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58), kan Sysselmesteren eller den departementet bemyndiger i forskrift eller enkeltvedtak fastsette krav til innholdet i, eller nekte påslipp av, avløpsvann som tilføres felles avløpsanlegg.
 
-Krav i medhold av første ledd kan bare fastsettes for å sikre atavløpsanlegget kan overholde utslippskrav,avløpsanlegget ikke skades,driften av avløpsanlegget ikke vanskeliggjøres, ellerfor å beskytte helsen til personalet som arbeider ved anlegget.
+Krav i medhold av første ledd kan bare fastsettes for å sikre at
+
+1. avløpsanlegget kan overholde utslippskrav,
+2. avløpsanlegget ikke skades,
+3. driften av avløpsanlegget ikke vanskeliggjøres, eller
+4. for å beskytte helsen til personalet som arbeider ved anlegget.
 
 Krav etter første ledd kan ikke fastsettes for sanitært avløpsvann.
 
@@ -256,7 +315,12 @@ Planansvarlig skal sørge for at innsamlet og mottatt avfall blir levert videre 
 
 ### § 7-2. (planansvarliges plikt til å utarbeide avfallsplan)
 
-Planansvarlig innenfor hvert av planområdene skal sørge for at det utarbeides en avfallsplan for hvert planområde. Avfallsplanen skal inneholdeen oversikt over hvilke typer og mengder avfall som forventes å oppstå, herunder de ulike avfallskildenehvilke innsamlings- og mottaksordninger som det anses nødvendige å etablere for å oppfylle plikten i [§ 7-1](forskrift/2020-07-03-1517/§7-1)en plan for videre behandling av avfallet, herunder hvor avfallet skal mellomlagres, hvilke avfallsanlegg avfallet skal leveres til og hvor ofte det skal leveres videre, ogtiltak for å begrense mengden avfall som oppstår i planområdet.
+Planansvarlig innenfor hvert av planområdene skal sørge for at det utarbeides en avfallsplan for hvert planområde. Avfallsplanen skal inneholde
+
+1. en oversikt over hvilke typer og mengder avfall som forventes å oppstå, herunder de ulike avfallskildene
+2. hvilke innsamlings- og mottaksordninger som det anses nødvendige å etablere for å oppfylle plikten i [§ 7-1](forskrift/2020-07-03-1517/§7-1)
+3. en plan for videre behandling av avfallet, herunder hvor avfallet skal mellomlagres, hvilke avfallsanlegg avfallet skal leveres til og hvor ofte det skal leveres videre, og
+4. tiltak for å begrense mengden avfall som oppstår i planområdet.
 
 Avfallsplanen skal omfatte både husholdningsavfall og næringsavfall og skal oppdateres ved behov.
 
@@ -300,7 +364,12 @@ Ingen må drive anlegg for behandling av avfall uten tillatelse etter [svalbardm
 
 ### § 7-8. (myndighet til å fatte enkeltvedtak om innsamling, gjenvinning og annen behandling av avfall)
 
-Sysselmesteren eller den departementet bemyndiger kan treffe enkeltvedtak omtiltak for å redusere avfallsmengdeninnlevering, innsamling, mottak, transport, sortering og behandling av avfallat visse slag avfall skal gjenvinnes eller fraktes bort med sikte på gjenvinningat avfall skal fraktes bort for behandling andre steder.
+Sysselmesteren eller den departementet bemyndiger kan treffe enkeltvedtak om
+
+1. tiltak for å redusere avfallsmengden
+2. innlevering, innsamling, mottak, transport, sortering og behandling av avfall
+3. at visse slag avfall skal gjenvinnes eller fraktes bort med sikte på gjenvinning
+4. at avfall skal fraktes bort for behandling andre steder.
 
 > Endret ved [forskrift 22 juni 2021 nr. 2122](forskrift/2021-06-22-2122) (i kraft 1 juli 2021).
 
@@ -346,7 +415,11 @@ Omkostningene forbundet med mottak og videre håndtering av avfall og lastereste
 
 ### § 9-3. (meldeplikt)
 
-For skip, unntatt rutegående skip, fiskefartøy og fritidsbåter godkjent for høyst 12 personer, som anløper Longyearbyen havn, skal skipsføreren gi melding om levering av avfall og lasterester i havnenminst 24 timer før anløp, dersom anløpshavnen er kjent,så snart anløpshavnen er kjent, dersom denne opplysningen først er tilgjengelig mindre enn 24 timer innen anløp, ellersenest ved avgang fra foregående havn, dersom reisen varer mindre enn 24 timer.
+For skip, unntatt rutegående skip, fiskefartøy og fritidsbåter godkjent for høyst 12 personer, som anløper Longyearbyen havn, skal skipsføreren gi melding om levering av avfall og lasterester i havnen
+
+1. minst 24 timer før anløp, dersom anløpshavnen er kjent,
+2. så snart anløpshavnen er kjent, dersom denne opplysningen først er tilgjengelig mindre enn 24 timer innen anløp, eller
+3. senest ved avgang fra foregående havn, dersom reisen varer mindre enn 24 timer.
 
 Melding skal gis i meldingstjenesten SafeSeaNet, og opplysningene skal være tilgjengelige om bord i det minste til neste anløpshavn, og skal kunne forevises Sjøfartsdirektoratet. Skip med hyppige anløp innenfor 24 timer og skip som anløper havner hvor det ikke betales kaiavgift, skal gi melding til den havnen hvor avfall skal leveres. Dersom skipets neste anløpshavn befinner seg utenfor de nordiske landene, skal utfylt melding foreligge på engelsk.
 
@@ -384,7 +457,11 @@ Sysselmesteren fører tilsyn med at havnens plikter etter dette kapitlet overhol
 
 Sysselmesteren eller den departementet bemyndiger kan fastsette forskrift om avløps- eller avfallsgebyrer for et planområde eller deler av et planområde.
 
-Forskrifter om gebyr skal som et minimum fastsettehvem som er pliktig til å betale gebyr jf. [§ 10-2](forskrift/2020-07-03-1517/§10-2)til hvem gebyret skal betales og regler om innkreving av gebyret, ogregler for hvordan gebyrene beregnes.
+Forskrifter om gebyr skal som et minimum fastsette
+
+1. hvem som er pliktig til å betale gebyr jf. [§ 10-2](forskrift/2020-07-03-1517/§10-2)
+2. til hvem gebyret skal betales og regler om innkreving av gebyret, og
+3. regler for hvordan gebyrene beregnes.
 
 > Endret ved [forskrift 22 juni 2021 nr. 2122](forskrift/2021-06-22-2122) (i kraft 1 juli 2021).
 
@@ -422,7 +499,15 @@ Med internkontroll menes systematiske tiltak som skal sikre at virksomhetenes ak
 
 Internkontrollen skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve kravene nevnt i [§ 11-1](forskrift/2020-07-03-1517/§11-1).
 
-Internkontroll innebærer at virksomheten skalsørge for at lovene nevnt i [§ 11-1](forskrift/2020-07-03-1517/§11-1), forskrifter gitt i medhold av disse som gjelder for virksomheten og eventuelle tillatelser og pålegg er tilgjengelige, og ha oversikt over de kravene som er av særlig viktighet for virksomhetensørge for at arbeidstakerne har tilstrekkelig og oppdaterte kunnskaper om og ferdigheter i virksomhetens arbeid med internkontrollfastsette mål for virksomhetens miljøpåvirkningha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med å sikre etterlevelse av kravene i [§ 11-1](forskrift/2020-07-03-1517/§11-1) er fordeltkartlegge farer og problemer, og på denne bakgrunn vurdere risiko, og utarbeide tilhørende planer og tiltak for å redusere risikoforholdeneiverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av lovgivningen nevnt i [§ 11-1](forskrift/2020-07-03-1517/§11-1), ogforeta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontroll innebærer at virksomheten skal
+
+1. sørge for at lovene nevnt i [§ 11-1](forskrift/2020-07-03-1517/§11-1), forskrifter gitt i medhold av disse som gjelder for virksomheten og eventuelle tillatelser og pålegg er tilgjengelige, og ha oversikt over de kravene som er av særlig viktighet for virksomheten
+2. sørge for at arbeidstakerne har tilstrekkelig og oppdaterte kunnskaper om og ferdigheter i virksomhetens arbeid med internkontroll
+3. fastsette mål for virksomhetens miljøpåvirkning
+4. ha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med å sikre etterlevelse av kravene i [§ 11-1](forskrift/2020-07-03-1517/§11-1) er fordelt
+5. kartlegge farer og problemer, og på denne bakgrunn vurdere risiko, og utarbeide tilhørende planer og tiltak for å redusere risikoforholdene
+6. iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av lovgivningen nevnt i [§ 11-1](forskrift/2020-07-03-1517/§11-1), og
+7. foreta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Kravene i første ledd bokstav c til g skal dokumenteres skriftlig.
 

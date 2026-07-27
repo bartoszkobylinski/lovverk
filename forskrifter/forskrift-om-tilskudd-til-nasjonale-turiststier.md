@@ -42,7 +42,15 @@ Det gis et årlig grunntilskudd til autoriserte Nasjonale turiststier fra og med
 
 Det kan i hovedsak tildeles tilskudd til tiltak på og i tilknytning til stiene. Det kan også bli gitt tilskudd til enkelte andre tiltak, blant annet informasjonstiltak og utredninger knyttet til besøksforvaltning.
 
-Det gis tilskudd til:prosjektledelse, planlegging og utredning knyttet til besøksforvaltningtilrettelegging, utbedring og merking av stisikringsbuer og andre beredskapstiltaktilrettelegging av tilkomstsoneretablering av toalett og sanitæranleggetablering av søppelhåndteringinformasjonstiltak, herunder også fjellvakttjeneste, stipatruljer og vertskap ved for eksempel startområdet for stien.
+Det gis tilskudd til:
+
+1. prosjektledelse, planlegging og utredning knyttet til besøksforvaltning
+2. tilrettelegging, utbedring og merking av sti
+3. sikringsbuer og andre beredskapstiltak
+4. tilrettelegging av tilkomstsoner
+5. etablering av toalett og sanitæranlegg
+6. etablering av søppelhåndtering
+7. informasjonstiltak, herunder også fjellvakttjeneste, stipatruljer og vertskap ved for eksempel startområdet for stien.
 
 Det gis ikke tilskudd til driftsutgifter.
 
@@ -66,17 +74,41 @@ Søknader med vekt på helhetlig planlegging og brede samarbeidsrelasjoner mello
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon om:søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktpersonhva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningensøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.egenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 12](forskrift/2023-11-15-1847/§12)om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.en prosjektbeskrivelse som inneholder informasjon omomfanget av besøk på den aktuelle stienbetydningen stien har for lokalt reiselivhva som er utfordringene i områdethvilke tiltak som er gjennomførtplan for hvilke tiltak som kan løse utfordringenehvilke aktører som er med i arbeidethvor tiltak skal utføres, hvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfold.
+Søknaden skal inneholde informasjon om:
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+3. søknadsbeløp
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
+5. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+6. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 12](forskrift/2023-11-15-1847/§12)
+7. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
+8. en prosjektbeskrivelse som inneholder informasjon om
+
+   - omfanget av besøk på den aktuelle stien
+   - betydningen stien har for lokalt reiseliv
+   - hva som er utfordringene i området
+   - hvilke tiltak som er gjennomført
+   - plan for hvilke tiltak som kan løse utfordringene
+   - hvilke aktører som er med i arbeidet
+   - hvor tiltak skal utføres, hvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfold.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 9. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Miljødirektoratet kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 10. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 11. Behandling av søknad om tilskudd
 

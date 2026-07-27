@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66ni (forordning [(EU) 2015/640](eu/32015r0640)) om ytterligere luftdyktighetsspesifikasjoner for en gitt type drift og om endring av forordning [(EU) nr. 965/2012](eu/32012r0965), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.forordning [(EU) 2019/133](eu/32019r0133)forordning [(EU) 2020/1159](eu/32020r1159)forordning [(EU) 2021/97](eu/32021r0097)forordning [(EU) 2022/1254](eu/32022r1254)forordning [(EU) 2024/2954](eu/32024r2954)
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66ni (forordning [(EU) 2015/640](eu/32015r0640)) om ytterligere luftdyktighetsspesifikasjoner for en gitt type drift og om endring av forordning [(EU) nr. 965/2012](eu/32012r0965), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+1. forordning [(EU) 2019/133](eu/32019r0133)
+2. forordning [(EU) 2020/1159](eu/32020r1159)
+3. forordning [(EU) 2021/97](eu/32021r0097)
+4. forordning [(EU) 2022/1254](eu/32022r1254)
+5. forordning [(EU) 2024/2954](eu/32024r2954)
 
 > Endret ved forskrifter [17 sep 2024 nr. 2203](forskrift/2024-09-17-2203), [15 jan 2026 nr. 50](forskrift/2026-01-15-50).
 

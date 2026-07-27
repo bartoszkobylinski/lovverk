@@ -15,7 +15,7 @@ xml_hash: "f0cd897bee4556c4026f32d22d146f29a94af6f1d93fd788fd05187cd506045f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Lovens formål
 
-Loven skalsikre riktige og fullstendige opplysninger om varer som inn- og utføres, som grunnlag for fastsetting av avgifter og til bruk for kartlegging og statistikkbidra til å beskytte samfunnet mot ulovlig inn- og utførsel av varer ved å sikre at restriksjoner gitt av hensyn til blant annet samfunnssikkerhet, beskyttelse av menneskers liv og helse, dyrevelferd, plantevern og miljøvern overholdessikre at Norge overholder sine forpliktelser etter internasjonale avtaler om grensekryssende vareførsel.
+Loven skal
+
+1. sikre riktige og fullstendige opplysninger om varer som inn- og utføres, som grunnlag for fastsetting av avgifter og til bruk for kartlegging og statistikk
+2. bidra til å beskytte samfunnet mot ulovlig inn- og utførsel av varer ved å sikre at restriksjoner gitt av hensyn til blant annet samfunnssikkerhet, beskyttelse av menneskers liv og helse, dyrevelferd, plantevern og miljøvern overholdes
+3. sikre at Norge overholder sine forpliktelser etter internasjonale avtaler om grensekryssende vareførsel.
 
 ### § 1-2. Lovens virkeområde
 
@@ -44,7 +48,16 @@ Loven skalsikre riktige og fullstendige opplysninger om varer som inn- og utfør
 
 ### § 1-3. Definisjoner
 
-I denne loven menes meddeklarasjonspliktig: den som leverer en deklarasjon i eget navn, eller den som deklarasjonen leveres på vegne avdeklarasjon: en melding om at en vare skal underlegges en bestemt tollprosedyrefartøy: ethvert transportmiddel til vannsfører: den som har kommandoen på et transportmiddelinnførsel: at en vare føres inn i tollområdetluftfartøy: ethvert transportmiddel i luftenutførsel: at en vare føres ut av tollområdetvare: alt som omfattes av forskrift om klassifisering av varer.
+I denne loven menes med
+
+1. deklarasjonspliktig: den som leverer en deklarasjon i eget navn, eller den som deklarasjonen leveres på vegne av
+2. deklarasjon: en melding om at en vare skal underlegges en bestemt tollprosedyre
+3. fartøy: ethvert transportmiddel til vanns
+4. fører: den som har kommandoen på et transportmiddel
+5. innførsel: at en vare føres inn i tollområdet
+6. luftfartøy: ethvert transportmiddel i luften
+7. utførsel: at en vare føres ut av tollområdet
+8. vare: alt som omfattes av forskrift om klassifisering av varer.
 
 ### § 1-4. Politiattest og tildeling av myndighet til studenter i praksis
 
@@ -196,7 +209,11 @@ Den som vil disponere over en vare på annen måte enn prosedyren den er deklare
 
 ### § 4-6. Prosedyren midlertidig innførsel
 
-(1) Under prosedyren midlertidig innførsel kan en vare innføres for midlertidig bruk i tollområdet dersom varen innføres for et bestemt formål ogvaren ikke er bestemt til å skulle endres på annen måte enn verdiforringelse som følge av normal brukvaren kan identifiseresvaren gjenutføres innen ett år etter innførselen.
+(1) Under prosedyren midlertidig innførsel kan en vare innføres for midlertidig bruk i tollområdet dersom varen innføres for et bestemt formål og
+
+1. varen ikke er bestemt til å skulle endres på annen måte enn verdiforringelse som følge av normal bruk
+2. varen kan identifiseres
+3. varen gjenutføres innen ett år etter innførselen.
 
 (2) Ved midlertidig innførsel beregnes ikke tollavgift eller andre innførselsavgifter.
 
@@ -204,7 +221,11 @@ Den som vil disponere over en vare på annen måte enn prosedyren den er deklare
 
 ### § 4-7. Prosedyren innenlands bearbeiding av industrivarer
 
-(1) Under prosedyren innenlands bearbeiding av industrivarer kan en vare som skal gjenutføres, innføres for bearbeiding eller reparasjon i tollområdet dersomden opprinnelige varen kan identifiseres i det bearbeidede produktetvaren gjenutføres innen ett år etter innførseleneieren av varen er bosatt eller hjemmehørende i utlandet.
+(1) Under prosedyren innenlands bearbeiding av industrivarer kan en vare som skal gjenutføres, innføres for bearbeiding eller reparasjon i tollområdet dersom
+
+1. den opprinnelige varen kan identifiseres i det bearbeidede produktet
+2. varen gjenutføres innen ett år etter innførselen
+3. eieren av varen er bosatt eller hjemmehørende i utlandet.
 
 (2) Ved bruk av prosedyren innenlands bearbeiding av industrivarer beregnes ikke tollavgift eller andre innførselsavgifter. Det gjelder også for deler eller lignende som enten blir forbrukt i forbindelse med at varen bearbeides eller repareres, eller som gjenutføres sammen med varen.
 
@@ -314,7 +335,26 @@ En vares tollverdi skal fastsettes etter reglene i [§§ 6-3](lov/2022-03-11-9/�
 
 ### § 6-3. Varens transaksjonsverdi
 
-(1) Tollverdien av en vare er transaksjonsverdien, det vil si den prisen som faktisk er betalt eller skal betales for varen ved salg for eksport til Norge, justert i samsvar med [§§ 6-10](lov/2022-03-11-9/§6-10) og [6-11](lov/2022-03-11-9/§6-11), forutsatt atdet ikke er noen andre begrensninger med hensyn til kjøperens råderett over, eller bruk av, varen enn slike somer pålagt eller foreskrevet ved lov eller av norske myndigheterbegrenser det geografiske området hvor varen kan videreselges ellerikke virker vesentlig inn på varens verdi.salget eller prisen ikke er gjenstand for vilkår eller vederlag som det ikke kan fastsettes en verdi foringen del av utbyttet ved kjøperens senere videresalg, rådighet over eller bruk av varen direkte eller indirekte tilfaller selgeren, med mindre det kan foretas tilsvarende justering i samsvar med bestemmelsene i [§ 6-10](lov/2022-03-11-9/§6-10) ogkjøperen og selgeren ikke er avhengige av hverandre, eller hvis de er avhengige av hverandre, at transaksjonsverdien kan godtas som tollverdi etter bestemmelser i forskrift. Avhengighet foreligger dersom en person direkte eller indirekte eier, kontrollerer eller innehar fem prosent eller mer av de stemmeberettigede aksjene hos begge. Avhengighet foreligger også dersom kjøper og selgerer funksjonærer eller ledere i hverandres forretningerjuridisk behandles som forretningspartnereer arbeidsgiver og arbeidstakertilhører samme familiedirekte eller indirekte kontrollerer den andredirekte eller indirekte kontrolleres av samme tredje personsammen, direkte eller indirekte, kontrollerer en tredje person.Kjøper og selger som har et økonomisk interessefellesskap ved at den ene er eneagent, eneforhandler eller eneimportør for den andre, skal anses å være avhengig av hverandre dersom de er omfattet av bokstav d.
+(1) Tollverdien av en vare er transaksjonsverdien, det vil si den prisen som faktisk er betalt eller skal betales for varen ved salg for eksport til Norge, justert i samsvar med [§§ 6-10](lov/2022-03-11-9/§6-10) og [6-11](lov/2022-03-11-9/§6-11), forutsatt at
+
+1. det ikke er noen andre begrensninger med hensyn til kjøperens råderett over, eller bruk av, varen enn slike som
+
+   1. er pålagt eller foreskrevet ved lov eller av norske myndigheter
+   2. begrenser det geografiske området hvor varen kan videreselges eller
+   3. ikke virker vesentlig inn på varens verdi.
+2. salget eller prisen ikke er gjenstand for vilkår eller vederlag som det ikke kan fastsettes en verdi for
+3. ingen del av utbyttet ved kjøperens senere videresalg, rådighet over eller bruk av varen direkte eller indirekte tilfaller selgeren, med mindre det kan foretas tilsvarende justering i samsvar med bestemmelsene i [§ 6-10](lov/2022-03-11-9/§6-10) og
+4. kjøperen og selgeren ikke er avhengige av hverandre, eller hvis de er avhengige av hverandre, at transaksjonsverdien kan godtas som tollverdi etter bestemmelser i forskrift. Avhengighet foreligger dersom en person direkte eller indirekte eier, kontrollerer eller innehar fem prosent eller mer av de stemmeberettigede aksjene hos begge. Avhengighet foreligger også dersom kjøper og selger
+
+   1. er funksjonærer eller ledere i hverandres forretninger
+   2. juridisk behandles som forretningspartnere
+   3. er arbeidsgiver og arbeidstaker
+   4. tilhører samme familie
+   5. direkte eller indirekte kontrollerer den andre
+   6. direkte eller indirekte kontrolleres av samme tredje person
+   7. sammen, direkte eller indirekte, kontrollerer en tredje person.
+
+Kjøper og selger som har et økonomisk interessefellesskap ved at den ene er eneagent, eneforhandler eller eneimportør for den andre, skal anses å være avhengig av hverandre dersom de er omfattet av bokstav d.
 
 (2) Prisen skal omfatte alle betalinger som er en betingelse for salget av varen.
 
@@ -350,13 +390,21 @@ En vares tollverdi skal fastsettes etter reglene i [§§ 6-3](lov/2022-03-11-9/�
 
 (1) Hvis innførte varer eller identiske eller lignende varer blir solgt i Norge i den stand de ble innført, skal tollverdien fastsettes med utgangspunkt i enhetsprisen som de innførte, identiske eller lignende varer er solgt for i størst samlet mengde i første omsetningsledd, på eller omkring innførselstidspunktet for varen som skal verdifastsettes, til personer som ikke er avhengige av selgeren.
 
-(2) Enhetsprisen etter første ledd skal reduseres medprovisjoner som vanligvis betales eller er avtalt skal betales, eller de tillegg som vanligvis gjøres for fortjeneste og alminnelige kostnader i forbindelse med salg i Norge av varer av samme kategori eller slagvanlige kostnader for transport og assuranse i Norge ogtollavgift og andre avgifter som skal svares i Norge.
+(2) Enhetsprisen etter første ledd skal reduseres med
+
+1. provisjoner som vanligvis betales eller er avtalt skal betales, eller de tillegg som vanligvis gjøres for fortjeneste og alminnelige kostnader i forbindelse med salg i Norge av varer av samme kategori eller slag
+2. vanlige kostnader for transport og assuranse i Norge og
+3. tollavgift og andre avgifter som skal svares i Norge.
 
 (3) Departementet kan gi forskrift om fastsetting av tollverdi med utgangspunkt i salgspris i Norge, herunder om de fradrag som kan gjøres i enhetsprisen etter annet ledd.
 
 ### § 6-8. Utregnet tollverdi
 
-(1) Utregnet tollverdi av innført vare er summen avkostnaden eller verdien av materialer, produksjon eller annen bearbeiding ved fremstilling av den innførte varenfortjeneste og alminnelige kostnader som tilsvarer det som vanligvis beregnes av produsenter i eksportlandet ved salg for eksport til Norge av varer av samme kategori eller slag ogtransport- og forsikringskostnaden for den innførte varen frem til innførselsstedet, og kostnader for lasting og håndtering som er forbundet med forannevnte transport av varen, slik som bestemt i [§ 6-10](lov/2022-03-11-9/§6-10) første ledd bokstav e og f.
+(1) Utregnet tollverdi av innført vare er summen av
+
+1. kostnaden eller verdien av materialer, produksjon eller annen bearbeiding ved fremstilling av den innførte varen
+2. fortjeneste og alminnelige kostnader som tilsvarer det som vanligvis beregnes av produsenter i eksportlandet ved salg for eksport til Norge av varer av samme kategori eller slag og
+3. transport- og forsikringskostnaden for den innførte varen frem til innførselsstedet, og kostnader for lasting og håndtering som er forbundet med forannevnte transport av varen, slik som bestemt i [§ 6-10](lov/2022-03-11-9/§6-10) første ledd bokstav e og f.
 
 (2) Departementet kan gi forskrift om utregnet tollverdi.
 
@@ -366,13 +414,37 @@ En vares tollverdi skal fastsettes etter reglene i [§§ 6-3](lov/2022-03-11-9/�
 
 (1) Hvis tollverdien av innført vare ikke kan fastsettes etter [§§ 6-3](lov/2022-03-11-9/§6-3) til [6-8](lov/2022-03-11-9/§6-8), skal tollverdien fastsettes på grunnlag av tilgjengelige opplysninger, og i samsvar med prinsippene i [§§ 6-3](lov/2022-03-11-9/§6-3) til [6-8](lov/2022-03-11-9/§6-8).
 
-(2) Tollverdien etter første ledd skal ikke fastsettes på grunnlag avsalgsprisen i Norge for varer som er produsert heret system som foreskriver at den høyeste av to alternative verdier godtas for tollformålprisen på varer på hjemmemarkedet i eksportlandetproduksjonskostnaden, unntatt beregnede verdier som er fastsatt for identiske eller lignende varer i samsvar med bestemmelsene i [§ 6-8](lov/2022-03-11-9/§6-8)prisen på varer for eksport til et annet land enn Norgeminimumstollverdier ellervilkårlige eller fiktive verdier.
+(2) Tollverdien etter første ledd skal ikke fastsettes på grunnlag av
+
+1. salgsprisen i Norge for varer som er produsert her
+2. et system som foreskriver at den høyeste av to alternative verdier godtas for tollformål
+3. prisen på varer på hjemmemarkedet i eksportlandet
+4. produksjonskostnaden, unntatt beregnede verdier som er fastsatt for identiske eller lignende varer i samsvar med bestemmelsene i [§ 6-8](lov/2022-03-11-9/§6-8)
+5. prisen på varer for eksport til et annet land enn Norge
+6. minimumstollverdier eller
+7. vilkårlige eller fiktive verdier.
 
 (3) Departementet kan gi forskrift om fastsetting av alternativ tollverdi.
 
 ### § 6-10. Poster som inngår i tollverdien fastsatt etter § 6-3
 
-(1) Ved fastsetting av tollverdien etter [§ 6-3](lov/2022-03-11-9/§6-3) skal det til prisen som faktisk er betalt eller skal betales for den innførte varen, leggesfølgende kostnader, i den utstrekning de er pålagt kjøperen, men ikke er tatt med i prisen som faktisk er betalt eller skal betales for varenprovisjoner og meglersalær, unntatt innkjøpsprovisjonerkostnader for emballasje, i den utstrekning emballasjen tollmessig anses som del av varen oginnpakningskostnader, både for arbeid og materialerverdien av følgende varer og tjenester, når kjøperen har levert dem direkte eller indirekte, gratis eller til redusert kostnad, til bruk i forbindelse med produksjonen og salget for eksport av varenmaterialer, komponenter, deler og lignende artikler som inngår i den innførte varenverktøy, matriser, former og lignende artikler som er brukt i produksjonen av varenmaterialer som er medgått i produksjonen av varenkonstruksjonsarbeid, utviklingsarbeid, kunstnerisk arbeid, formgiving, tegninger og skisser utført annensteds enn i Norge, og som er nødvendige for produksjonen av varenvederlag for immaterialrettigheter som er knyttet til varen som skal verdifastsettes og som kjøperen må yte, direkte eller indirekte, som en betingelse for salget. Ytes vederlaget for immaterialrettigheten til en annen enn selger, skal vederlaget også legges til dersom det ytes til en person som står i et avhengighetsforhold til selgerenverdien av utbyttet ved et videresalg, rådighet over eller bruk av den innførte varen, som direkte eller indirekte tilfaller selgerentransport- og forsikringskostnaden for varen til innførselsstedetkostnader for lasting og håndtering som er forbundet med transporten av varen.
+(1) Ved fastsetting av tollverdien etter [§ 6-3](lov/2022-03-11-9/§6-3) skal det til prisen som faktisk er betalt eller skal betales for den innførte varen, legges
+
+1. følgende kostnader, i den utstrekning de er pålagt kjøperen, men ikke er tatt med i prisen som faktisk er betalt eller skal betales for varen
+
+   1. provisjoner og meglersalær, unntatt innkjøpsprovisjoner
+   2. kostnader for emballasje, i den utstrekning emballasjen tollmessig anses som del av varen og
+   3. innpakningskostnader, både for arbeid og materialer
+2. verdien av følgende varer og tjenester, når kjøperen har levert dem direkte eller indirekte, gratis eller til redusert kostnad, til bruk i forbindelse med produksjonen og salget for eksport av varen
+
+   1. materialer, komponenter, deler og lignende artikler som inngår i den innførte varen
+   2. verktøy, matriser, former og lignende artikler som er brukt i produksjonen av varen
+   3. materialer som er medgått i produksjonen av varen
+   4. konstruksjonsarbeid, utviklingsarbeid, kunstnerisk arbeid, formgiving, tegninger og skisser utført annensteds enn i Norge, og som er nødvendige for produksjonen av varen
+3. vederlag for immaterialrettigheter som er knyttet til varen som skal verdifastsettes og som kjøperen må yte, direkte eller indirekte, som en betingelse for salget. Ytes vederlaget for immaterialrettigheten til en annen enn selger, skal vederlaget også legges til dersom det ytes til en person som står i et avhengighetsforhold til selgeren
+4. verdien av utbyttet ved et videresalg, rådighet over eller bruk av den innførte varen, som direkte eller indirekte tilfaller selgeren
+5. transport- og forsikringskostnaden for varen til innførselsstedet
+6. kostnader for lasting og håndtering som er forbundet med transporten av varen.
 
 (2) Tillegg etter første ledd skal bare gjøres når dette kan baseres på grunnlag av objektive og kvantifiserbare opplysninger. Det skal ikke gjøres andre tillegg til prisen som faktisk er betalt eller skal betales, enn de som er nevnt i første ledd.
 
@@ -380,7 +452,15 @@ En vares tollverdi skal fastsettes etter reglene i [§§ 6-3](lov/2022-03-11-9/�
 
 ### § 6-11. Poster som ikke skal inngå i tollverdien fastsatt etter § 6-3
 
-(1) Tollverdien fastsatt etter [§ 6-3](lov/2022-03-11-9/§6-3), jf. [§ 6-10](lov/2022-03-11-9/§6-10), skal ikke omfatte følgende poster, såfremt de er adskilt eller kan adskilles fra prisen som faktisk er betalt eller skal betales for den innførte varen:vederlag for konstruksjon, oppføring, montering, vedlikehold eller teknisk bistand som er utført i Norge på de innførte varenevederlag for transport eller forsikring av varene i Norgetollavgift og andre avgifter i Norgerenter som kjøperen betaler etter skriftlig finansieringsordning for kjøpet av den innførte varen, uansett om finansieringen ytes av selgeren eller andre, dersom kjøperen på anmodning kan påvise at slike varer faktisk selges til den prisen som kjøperen faktisk har betalt eller skal betale, og at den angitte rentesatsen ikke overstiger det rentenivået som er vanlig for slike finansieringsordninger i det landet og på det tidspunktet finansieringen ytesinnkjøpsprovisjonvederlag for retten til å reprodusere de innførte varer i Norgeavgifter pålagt varen i eksportlandet, såfremt det godtgjøres at varen er blitt eller vil bli fritatt fra disse til kjøperens fordel.
+(1) Tollverdien fastsatt etter [§ 6-3](lov/2022-03-11-9/§6-3), jf. [§ 6-10](lov/2022-03-11-9/§6-10), skal ikke omfatte følgende poster, såfremt de er adskilt eller kan adskilles fra prisen som faktisk er betalt eller skal betales for den innførte varen:
+
+1. vederlag for konstruksjon, oppføring, montering, vedlikehold eller teknisk bistand som er utført i Norge på de innførte varene
+2. vederlag for transport eller forsikring av varene i Norge
+3. tollavgift og andre avgifter i Norge
+4. renter som kjøperen betaler etter skriftlig finansieringsordning for kjøpet av den innførte varen, uansett om finansieringen ytes av selgeren eller andre, dersom kjøperen på anmodning kan påvise at slike varer faktisk selges til den prisen som kjøperen faktisk har betalt eller skal betale, og at den angitte rentesatsen ikke overstiger det rentenivået som er vanlig for slike finansieringsordninger i det landet og på det tidspunktet finansieringen ytes
+5. innkjøpsprovisjon
+6. vederlag for retten til å reprodusere de innførte varer i Norge
+7. avgifter pålagt varen i eksportlandet, såfremt det godtgjøres at varen er blitt eller vil bli fritatt fra disse til kjøperens fordel.
 
 (2) Departementet kan gi forskrift om kostnader som ikke skal inngå i tollverdien etter denne paragrafen.
 
@@ -422,7 +502,11 @@ Fristen for å klage over tollmyndighetenes vedtak etter denne loven er seks uke
 
 ### § 7-6. Bindende forhåndsuttalelser
 
-(1) Tollmyndighetene kan etter søknad gi bindende forhåndsuttalelser omklassifisering i henhold til gjeldende tolltariffopprinnelsetollavgift og gebyrer som vil påløpe ved inn- eller utførsel av en vare, eller beregningsmåten for disse.
+(1) Tollmyndighetene kan etter søknad gi bindende forhåndsuttalelser om
+
+1. klassifisering i henhold til gjeldende tolltariff
+2. opprinnelse
+3. tollavgift og gebyrer som vil påløpe ved inn- eller utførsel av en vare, eller beregningsmåten for disse.
 
 (2) Tollmyndighetenes avgjørelse om ikke å gi forhåndsuttalelse kan ikke påklages. En forhåndsuttalelse kan påklages, men ikke prøves i egen sak for domstol. Avgjørelse hvor bindende forhåndsuttalelse er lagt til grunn, kan påklages eller bringes inn for domstolen.
 
@@ -526,7 +610,15 @@ Uten hinder av taushetsplikt skal myndigheter som gir tillatelse til inn- eller 
 
 (1) Aktører i Norge som må ha et identifikasjonsnummer som følge av bruk av EORI-nummer i EU-rettsakter som er innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl) og gjennomført i norsk rett, må registrere seg hos tollmyndighetene.
 
-(2) Følgende opplysninger registreres:organisasjonsnummer med prefikset NOaktørens navnorganisasjonsformadressenæringskode.Telefonnummer og andre elektroniske adresser kan registreres hvis opplysningene er registrert i Enhetsregisteret.
+(2) Følgende opplysninger registreres:
+
+1. organisasjonsnummer med prefikset NO
+2. aktørens navn
+3. organisasjonsform
+4. adresse
+5. næringskode.
+
+Telefonnummer og andre elektroniske adresser kan registreres hvis opplysningene er registrert i Enhetsregisteret.
 
 (3) Ved registreringen tildeler tollmyndighetene identifikasjonsnummeret.
 
@@ -540,17 +632,32 @@ Uten hinder av taushetsplikt skal myndigheter som gir tillatelse til inn- eller 
 
 (1) Tollmyndighetene kan stanse transportmidler, varesendinger og personer, og treffe de tiltak som er nødvendig for å gjennomføre kontroll med varer som føres inn i eller ut av tollområdet. Tollmyndighetene kan gjennomføre tilfeldige og målrettede kontroller. Kontrolltiltakene må stå i forhold til det antatte omfanget av brudd på regler om inn- og utførsel av varer og omstendighetene for øvrig.
 
-(2) Dersom kontrollformål tilsier det, kan tollmyndigheteneta vareprøver uten vederlagåpne og undersøke brev, pakker og annen korrespondanse dersom det er nødvendig for å avklare om forsendelsen inneholder en varebruke hundbruke tollsegl og tollvakt.
+(2) Dersom kontrollformål tilsier det, kan tollmyndighetene
+
+1. ta vareprøver uten vederlag
+2. åpne og undersøke brev, pakker og annen korrespondanse dersom det er nødvendig for å avklare om forsendelsen inneholder en vare
+3. bruke hund
+4. bruke tollsegl og tollvakt.
 
 (3) Departementet kan gi forskrift om gjennomføring av kontroll, herunder om stansing, tiltak, vareprøver, kontroll av brev, pakker og annen korrespondanse, bruk av hund, bruk av hjelpemidler ved kontroll, tollsegl og tollvakt og om dekning av omkostninger ved bruk av tollvakt.
 
 ### § 8-2. Undersøkelse av gjenstander, transportmidler og steder
 
-For å kontrollere varer som føres inn i eller ut av tollområdet, kan tollmyndighetene undersøkebagasje og andre gjenstander som kan frakte varertog, luftfartøy, fartøy og andre transportmidleri bygninger og på steder der varer som er ført inn i tollområdet eller skal føres ut av tollområdet, er losset eller lastet.
+For å kontrollere varer som føres inn i eller ut av tollområdet, kan tollmyndighetene undersøke
+
+1. bagasje og andre gjenstander som kan frakte varer
+2. tog, luftfartøy, fartøy og andre transportmidler
+3. i bygninger og på steder der varer som er ført inn i tollområdet eller skal føres ut av tollområdet, er losset eller lastet.
 
 ### § 8-3. Vilkår for undersøkelse av personer
 
-For å kontrollere varer som føres inn i eller ut av tollområdet, kan tollmyndighetene undersøke personer somer på vei til eller fra grensenmistenkes for å unndra varer fra kontroll, og som eri bygninger eller på steder som nevnt i [§ 8-2](lov/2022-03-11-9/§8-2) bokstav c ellerved ankomst- eller avreisested for luftfartøy, fartøy, buss eller tog med utenlandstrafikk, eller i transportmiddelet.
+For å kontrollere varer som føres inn i eller ut av tollområdet, kan tollmyndighetene undersøke personer som
+
+1. er på vei til eller fra grensen
+2. mistenkes for å unndra varer fra kontroll, og som er
+
+   1. i bygninger eller på steder som nevnt i [§ 8-2](lov/2022-03-11-9/§8-2) bokstav c eller
+   2. ved ankomst- eller avreisested for luftfartøy, fartøy, buss eller tog med utenlandstrafikk, eller i transportmiddelet.
 
 ### § 8-4. Gjennomføring av undersøkelser av personer
 
@@ -632,7 +739,10 @@ Når vilkårene for å pågripe en person etter [straffeprosessloven §§ 171](l
 
 (1) Offentlige myndigheter, innretninger og tjenestepersonell plikter etter krav fra tollmyndighetene å gi opplysninger som kan ha betydning for vareførselskontrollen.
 
-(2) Uten hinder av taushetsplikt som de ellers har, skalskattemyndighetene og folkeregistermyndigheten gi opplysninger av betydning for tollmyndighetenes kontroll med vareførselenveimyndighetene gi opplysninger om motorvogn og førerkort av betydning for tollmyndighetenes kontroll med vareførselen.
+(2) Uten hinder av taushetsplikt som de ellers har, skal
+
+1. skattemyndighetene og folkeregistermyndigheten gi opplysninger av betydning for tollmyndighetenes kontroll med vareførselen
+2. veimyndighetene gi opplysninger om motorvogn og førerkort av betydning for tollmyndighetenes kontroll med vareførselen.
 
 ### § 8-15. Kontrollopplysninger fra tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste
 
@@ -660,7 +770,10 @@ Tollmyndighetene kan pålegge bokføringspliktige som omfattes av [§ 8-13](lov/
 
 ### § 9-2. Særskilt kontrollområde
 
-(1) Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensidig bistand kan det opprettes et særskilt kontrollområdelangs grensen mot annen stat, som tilsvarer et lignende område på denne statens område. Kontrollområdets bredde på norsk område må ikke overstige 15 kilometer.andre steder på norsk område, som omfatter veistrekninger, jernbanestrekninger med ett eller flere stasjonsområder, landingsplasser for luftfartøyer, skipsleder eller havneområder, når samarbeidet om kontroll med vei-, jernbane-, luft- eller sjøtrafikken gjør dette nødvendig.
+(1) Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensidig bistand kan det opprettes et særskilt kontrollområde
+
+1. langs grensen mot annen stat, som tilsvarer et lignende område på denne statens område. Kontrollområdets bredde på norsk område må ikke overstige 15 kilometer.
+2. andre steder på norsk område, som omfatter veistrekninger, jernbanestrekninger med ett eller flere stasjonsområder, landingsplasser for luftfartøyer, skipsleder eller havneområder, når samarbeidet om kontroll med vei-, jernbane-, luft- eller sjøtrafikken gjør dette nødvendig.
 
 (2) [§ 9-1](lov/2022-03-11-9/§9-1), [§ 9-3](lov/2022-03-11-9/§9-3) annet ledd, [§ 9-4](lov/2022-03-11-9/§9-4) første ledd og [§ 9-5](lov/2022-03-11-9/§9-5) gjelder også utenfor kontrollområdene dersom formålet er å undersøke om det er forsøk på ulovlig vareførsel, og forfølgelsen av den mistenkte ut over kontrollområdet skjer i umiddelbar sammenheng med handlingen.
 
@@ -684,9 +797,18 @@ Tollmyndighetene kan pålegge bokføringspliktige som omfattes av [§ 8-13](lov/
 
 ### § 9-5. Overlevering av person til annen stats kontrollmyndighet mv.
 
-(1) Den som i forbindelse med iverksatt eller tilsiktet iverksatt handling pågripes i kontrollområde etter [§ 9-2](lov/2022-03-11-9/§9-2) fordi vedkommende med skjellig grunn mistenkes for brudd på en annen stats bestemmelser, jf. [§ 9-1](lov/2022-03-11-9/§9-1) første ledd, kan umiddelbart overleveres til den andre statens toll- eller politimyndighet dersom det ikke er spesielle grunner mot det ogden mistenkte er ukjent og nekter å oppgi navn og hjemsted, eller det er skjellig grunn til mistanke om at den mistenktes opplysninger er uriktigeden mistenkte ikke har hjemsted i Norge eller i den andre staten, og det er skjellig grunn til å frykte at den mistenkte ved å begi seg til en tredje stat vil unndra seg rettergang og straff, ellerdet ellers med skjellig grunn kan antas at den mistenkte vil unndra seg rettergang og straff eller ved unndragelse av bevis eller på annen måte vil vanskeliggjøre sakens utredning.
+(1) Den som i forbindelse med iverksatt eller tilsiktet iverksatt handling pågripes i kontrollområde etter [§ 9-2](lov/2022-03-11-9/§9-2) fordi vedkommende med skjellig grunn mistenkes for brudd på en annen stats bestemmelser, jf. [§ 9-1](lov/2022-03-11-9/§9-1) første ledd, kan umiddelbart overleveres til den andre statens toll- eller politimyndighet dersom det ikke er spesielle grunner mot det og
 
-(2) Dersom lovbruddet er begått før overlevering som nevnt i første ledd fra annen stat til norsk toll- eller politimyndighet, kan den overleverte ikke straffeforfølges eller straffes for annet lovbrudd enn overtredelse av de bestemmelser som er nevnt i [§ 9-1](lov/2022-03-11-9/§9-1) første ledd. Dette gjelder likevel ikke dersomsærskilt tillatelse er gitt av den staten der den overleverte er pågrepetden overleverte selv i rettsmøte har samtykket i detden overleverte har unnlatt å forlate landet innen én måned etter rettergang og gjennomført straff eller annen reaksjon som er ilagt vedkommende for lovbrudd som har vært årsak til overleveringenden overleverte har vendt tilbake til landet etter å ha forlatt det.
+1. den mistenkte er ukjent og nekter å oppgi navn og hjemsted, eller det er skjellig grunn til mistanke om at den mistenktes opplysninger er uriktige
+2. den mistenkte ikke har hjemsted i Norge eller i den andre staten, og det er skjellig grunn til å frykte at den mistenkte ved å begi seg til en tredje stat vil unndra seg rettergang og straff, eller
+3. det ellers med skjellig grunn kan antas at den mistenkte vil unndra seg rettergang og straff eller ved unndragelse av bevis eller på annen måte vil vanskeliggjøre sakens utredning.
+
+(2) Dersom lovbruddet er begått før overlevering som nevnt i første ledd fra annen stat til norsk toll- eller politimyndighet, kan den overleverte ikke straffeforfølges eller straffes for annet lovbrudd enn overtredelse av de bestemmelser som er nevnt i [§ 9-1](lov/2022-03-11-9/§9-1) første ledd. Dette gjelder likevel ikke dersom
+
+1. særskilt tillatelse er gitt av den staten der den overleverte er pågrepet
+2. den overleverte selv i rettsmøte har samtykket i det
+3. den overleverte har unnlatt å forlate landet innen én måned etter rettergang og gjennomført straff eller annen reaksjon som er ilagt vedkommende for lovbrudd som har vært årsak til overleveringen
+4. den overleverte har vendt tilbake til landet etter å ha forlatt det.
 
 (3) Den overleverte kan bare utleveres til en tredje stat dersom den staten hvor den overleverte er pågrepet, har gitt tillatelse til det.
 
@@ -718,7 +840,15 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 (1) Rettighetshaveren kan søke om at tollmyndighetene skal holde tilbake varer som er under tollmyndighetenes kontroll, dersom det foreligger begrunnet mistanke om at innførsel eller utførsel av varene vil utgjøre et inngrep i en immaterialrettighet som nevnt i [tvisteloven § 28A-1](lov/2005-06-17-90/§28a-1) tredje ledd første punktum eller krenkelse av [markedsføringsloven § 30](lov/2009-01-09-2/§30) eller av [markedsføringsloven §§ 25](lov/2009-01-09-2/§25) og [26](lov/2009-01-09-2/§26), når krenkelsen består i etterligning av en annens produkt, kjennetegn, reklamemidler eller andre frembringelser.
 
-(2) Søknaden skal inneholdesøkerens navn og adressenavn og adresse for eventuell fullmektigen liste over og dokumentasjon for immaterialrettighetene søknaden gjelderopplysninger som gjør det mulig å identifisere autentiske vareri den utstrekning det er kjent for søkeren, opplysninger som gjør det mulig å identifisere varer som utgjør inngrepen erklæring om at søkeren påtar seg ansvaret for kostnader tollmyndighetene påføres i forbindelse med lagring, undersøkelse og ødeleggelse mv. av tilbakeholdte vareropplysning om søkeren ber om bruk av fremgangsmåten for ødeleggelse av småforsendelser etter [§ 10-8](lov/2022-03-11-9/§10-8).
+(2) Søknaden skal inneholde
+
+1. søkerens navn og adresse
+2. navn og adresse for eventuell fullmektig
+3. en liste over og dokumentasjon for immaterialrettighetene søknaden gjelder
+4. opplysninger som gjør det mulig å identifisere autentiske varer
+5. i den utstrekning det er kjent for søkeren, opplysninger som gjør det mulig å identifisere varer som utgjør inngrep
+6. en erklæring om at søkeren påtar seg ansvaret for kostnader tollmyndighetene påføres i forbindelse med lagring, undersøkelse og ødeleggelse mv. av tilbakeholdte varer
+7. opplysning om søkeren ber om bruk av fremgangsmåten for ødeleggelse av småforsendelser etter [§ 10-8](lov/2022-03-11-9/§10-8).
 
 (3) Hvis søknaden ikke oppfyller vilkårene fastsatt i eller i medhold av annet ledd, skal tollmyndighetene gi søkeren melding om dette og informere om virkningene manglene kan få. Søkeren skal gis en rimelig frist for uttalelse og om mulig retting av manglene. Hvis manglene ikke blir rettet, skal søknaden avslås, med mindre tollmyndighetene finner at søkeren bør gis en ny frist for retting.
 
@@ -726,7 +856,13 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 ### § 10-2. Vedtak om bistand, forlengelse
 
-(1) Vedtak fra tollmyndighetene om å innvilge søknad om bistand etter [§ 10-1](lov/2022-03-11-9/§10-1) skal angihvilke immaterialrettigheter vedtaket gjelderhvilke varer tollmyndighetene skal holde tilbakehvor lenge tollmyndighetene skal søke å avdekke slike varer.Tidsperioden etter bokstav c kan ikke overstige ett år. Når vedtaket er fattet, skal tollmyndighetene søke å avdekke varer omfattet av vedtaket som mottas til tollbehandling.
+(1) Vedtak fra tollmyndighetene om å innvilge søknad om bistand etter [§ 10-1](lov/2022-03-11-9/§10-1) skal angi
+
+1. hvilke immaterialrettigheter vedtaket gjelder
+2. hvilke varer tollmyndighetene skal holde tilbake
+3. hvor lenge tollmyndighetene skal søke å avdekke slike varer.
+
+Tidsperioden etter bokstav c kan ikke overstige ett år. Når vedtaket er fattet, skal tollmyndighetene søke å avdekke varer omfattet av vedtaket som mottas til tollbehandling.
 
 (2) Vedtaket kan inneholde pålegg til rettighetshaveren om å stille sikkerhet for mulig erstatning til varens eier eller mottaker. I så fall skal tollmyndighetene ikke søke å avdekke varer i henhold til vedtaket før slik sikkerhet er stilt.
 
@@ -748,7 +884,14 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 (1) Når tollmyndighetene har avdekket varer som skal holdes tilbake på grunnlag av en midlertidig forføyning eller vedtak fra tollmyndighetene etter [§ 10-2](lov/2022-03-11-9/§10-2), skal de straks varsle rettighetshaveren og mottakeren av varene eller dennes representant. Gjelder det en småforsendelse som nevnt i [§ 10-8](lov/2022-03-11-9/§10-8) fjerde ledd, er det ikke nødvendig å varsle rettighetshaveren. Er grunnlaget for tilbakeholdet en midlertidig forføyning, skal også tingretten varsles.
 
-(2) I varselet skal det, i den utstrekning opplysningene er kjent for tollmyndighetene, opplyses omavsenderens og mottakerens navn og adressevarenes art og antallet varertollprosedyren, varenes opprinnelse og bestemmelsesstedat varene holdes tilbake i samsvar med vedtak etter [§ 10-2](lov/2022-03-11-9/§10-2) eller midlertidig forføyning inntil vedtaket eller forføyningen oppheves eller faller bort, eller rettighetshaveren bestemmer noe annet.Er grunnlaget for tilbakeholdet et vedtak etter [§ 10-2](lov/2022-03-11-9/§10-2), skal varselet også opplyse om muligheten for ødeleggelse av varer etter [§§ 10-7](lov/2022-03-11-9/§10-7) eller [10-8](lov/2022-03-11-9/§10-8), herunder om vilkårene for ødeleggelse og mottakerens rettigheter. Rettighetshaveren kan ikke benytte de mottatte opplysningene for andre formål enn håndheving av immaterialrettigheter eller andre forhold nevnt i [§ 10-1](lov/2022-03-11-9/§10-1) første ledd.
+(2) I varselet skal det, i den utstrekning opplysningene er kjent for tollmyndighetene, opplyses om
+
+1. avsenderens og mottakerens navn og adresse
+2. varenes art og antallet varer
+3. tollprosedyren, varenes opprinnelse og bestemmelsessted
+4. at varene holdes tilbake i samsvar med vedtak etter [§ 10-2](lov/2022-03-11-9/§10-2) eller midlertidig forføyning inntil vedtaket eller forføyningen oppheves eller faller bort, eller rettighetshaveren bestemmer noe annet.
+
+Er grunnlaget for tilbakeholdet et vedtak etter [§ 10-2](lov/2022-03-11-9/§10-2), skal varselet også opplyse om muligheten for ødeleggelse av varer etter [§§ 10-7](lov/2022-03-11-9/§10-7) eller [10-8](lov/2022-03-11-9/§10-8), herunder om vilkårene for ødeleggelse og mottakerens rettigheter. Rettighetshaveren kan ikke benytte de mottatte opplysningene for andre formål enn håndheving av immaterialrettigheter eller andre forhold nevnt i [§ 10-1](lov/2022-03-11-9/§10-1) første ledd.
 
 (3) Når retten mottar varsel fra tollmyndighetene om tilbakehold på grunnlag av en midlertidig forføyning etter første og annet ledd, skal den straks sette en kort frist for saksøkeren til å reise søksmål mot mottakeren av varen om det krav forføyningen skal sikre, med mindre retten allerede har fastsatt en slik frist. Er forføyningen besluttet uten innkalling til muntlig forhandling, kan mottakeren av varen og enhver annen som er rammet av forføyningen kreve etterfølgende muntlig forhandling etter [tvisteloven § 32-8](lov/2005-06-17-90/§32-8).
 
@@ -756,7 +899,15 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 (1) Tollmyndighetene kan uten hinder av taushetsplikt varsle rettighetshaveren dersom det er begrunnet mistanke om at innførsel eller utførsel av varer som er under tollmyndighetenes kontroll, vil utgjøre et inngrep i en immaterialrettighet som nevnt i [tvisteloven § 28A-1](lov/2005-06-17-90/§28a-1) tredje ledd første punktum eller ellers er omfattet av [§ 10-1](lov/2022-03-11-9/§10-1) første ledd. Tollmyndighetene kan holde varene tilbake i inntil fem virkedager regnet fra da varselet ble gitt.
 
-(2) Foruten grunnlaget for mistanken, skal det i varselet, i den utstrekning opplysningene er kjent for tollmyndighetene, opplyses omavsenderens og mottakerens navn og adressevarenes art og antallet varervarenes opprinnelse og bestemmelsesstedadgangen til å søke om bistand fra tollmyndighetene etter fjerde leddfremgangsmåten for ødeleggelse av varer etter [§ 10-7](lov/2022-03-11-9/§10-7), herunder om vilkårene for ødeleggelse og mottakerens rettigheter.Rettighetshaveren kan ikke benytte de mottatte opplysningene for andre formål enn håndheving av immaterialrettigheter eller andre forhold omfattet av [§ 10-1](lov/2022-03-11-9/§10-1) første ledd.
+(2) Foruten grunnlaget for mistanken, skal det i varselet, i den utstrekning opplysningene er kjent for tollmyndighetene, opplyses om
+
+1. avsenderens og mottakerens navn og adresse
+2. varenes art og antallet varer
+3. varenes opprinnelse og bestemmelsessted
+4. adgangen til å søke om bistand fra tollmyndighetene etter fjerde ledd
+5. fremgangsmåten for ødeleggelse av varer etter [§ 10-7](lov/2022-03-11-9/§10-7), herunder om vilkårene for ødeleggelse og mottakerens rettigheter.
+
+Rettighetshaveren kan ikke benytte de mottatte opplysningene for andre formål enn håndheving av immaterialrettigheter eller andre forhold omfattet av [§ 10-1](lov/2022-03-11-9/§10-1) første ledd.
 
 (3) Mottakeren eller dennes representant skal varsles når tollmyndighetene varsler rettighetshaver eller holder varer tilbake etter første ledd. Varselet skal opplyse om rettighetshaverens adgang til å søke om bistand fra tollmyndighetene og om fremgangsmåten for ødeleggelse av varer etter [§ 10-7](lov/2022-03-11-9/§10-7), herunder om vilkårene for ødeleggelse og mottakerens rettigheter.
 
@@ -776,7 +927,12 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 ### § 10-7. Forenklet fremgangsmåte for ødeleggelse av varer
 
-(1) Tollmyndighetene kan besørge ødeleggelse av varer som holdes tilbake på grunnlag av et vedtak om bistand, uten at det må innledes rettssak for å få avgjort om det foreligger inngrep i en immaterialrettighet eller andre forhold omfattet av [§ 10-1](lov/2022-03-11-9/§10-1) første ledd, hvisrettighetshaveren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt, bekreftet at det foreligger inngrep og samtykket til ødeleggelse av varene, ogmottakeren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt skriftlig samtykket til ødeleggelse av varene.Hvis mottakeren innen ti virkedager ikke har motsatt seg ødeleggelse av varene, anses samtykke etter bokstav b som gitt, og varene kan ødelegges. [Forvaltningsloven §§ 23](lov/1967-02-10/§23), [24](lov/1967-02-10/§24), [25](lov/1967-02-10/§25) og [27](lov/1967-02-10/§27) gjelder ikke i slike tilfeller.
+(1) Tollmyndighetene kan besørge ødeleggelse av varer som holdes tilbake på grunnlag av et vedtak om bistand, uten at det må innledes rettssak for å få avgjort om det foreligger inngrep i en immaterialrettighet eller andre forhold omfattet av [§ 10-1](lov/2022-03-11-9/§10-1) første ledd, hvis
+
+1. rettighetshaveren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt, bekreftet at det foreligger inngrep og samtykket til ødeleggelse av varene, og
+2. mottakeren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt skriftlig samtykket til ødeleggelse av varene.
+
+Hvis mottakeren innen ti virkedager ikke har motsatt seg ødeleggelse av varene, anses samtykke etter bokstav b som gitt, og varene kan ødelegges. [Forvaltningsloven §§ 23](lov/1967-02-10/§23), [24](lov/1967-02-10/§24), [25](lov/1967-02-10/§25) og [27](lov/1967-02-10/§27) gjelder ikke i slike tilfeller.
 
 (2) Fristen etter første ledd bokstav a og b er tre virkedager for lett bedervelige varer. For andre varer kan tollmyndighetene på begjæring forlenge fristen for rettighetshaveren etter første ledd bokstav a med inntil ti virkedager.
 
@@ -788,7 +944,14 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 ### § 10-8. Småforsendelser
 
-(1) Tollmyndighetene kan besørge ødeleggelse av varer i småforsendelser som holdes tilbake på grunnlag av et vedtak om bistand, hvissøknaden om bistand omfattet anvendelse av fremgangsmåten etter paragrafen her,det er begrunnet mistanke om at innførsel eller utførsel av varene utgjør inngrep i rett til et varemerke eller en design, inngrep i rett til en geografisk betegnelse beskyttet i forskrift etter [matloven](lov/2003-12-19-124), eller inngrep i opphavsrett eller nærstående rettigheter etter [åndsverkloven](lov/2018-06-15-40),varene ikke er lett bedervelige, ogmottakeren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt, skriftlig har samtykket til ødeleggelse av varene.Hvis mottakeren innen ti virkedager ikke har motsatt seg ødeleggelse av varene, anses samtykke etter bokstav d som gitt.
+(1) Tollmyndighetene kan besørge ødeleggelse av varer i småforsendelser som holdes tilbake på grunnlag av et vedtak om bistand, hvis
+
+1. søknaden om bistand omfattet anvendelse av fremgangsmåten etter paragrafen her,
+2. det er begrunnet mistanke om at innførsel eller utførsel av varene utgjør inngrep i rett til et varemerke eller en design, inngrep i rett til en geografisk betegnelse beskyttet i forskrift etter [matloven](lov/2003-12-19-124), eller inngrep i opphavsrett eller nærstående rettigheter etter [åndsverkloven](lov/2018-06-15-40),
+3. varene ikke er lett bedervelige, og
+4. mottakeren er varslet etter [§§ 10-4](lov/2022-03-11-9/§10-4) eller [10-5](lov/2022-03-11-9/§10-5), og innen ti virkedager fra varselet ble gitt, skriftlig har samtykket til ødeleggelse av varene.
+
+Hvis mottakeren innen ti virkedager ikke har motsatt seg ødeleggelse av varene, anses samtykke etter bokstav d som gitt.
 
 (2) På forespørsel kan tollmyndighetene gi rettighetshaveren opplysninger om de ødelagte varenes art og antallet varer.
 
@@ -808,7 +971,11 @@ Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensid
 
 (1) Når retten opphever en midlertidig forføyning etter [tvisteloven § 34-7](lov/2005-06-17-90/§34-7), jf. [§ 10-3](lov/2022-03-11-9/§10-3) i loven her, eller treffer avgjørelse om at en slik midlertidig forføyning er falt bort, skal tollmyndighetene underrettes når avgjørelsen er rettskraftig. I tilfeller som nevnt i [tvisteloven § 34-6](lov/2005-06-17-90/§34-6) kan tollmyndighetene anmode retten om å treffe avgjørelse om at den midlertidige forføyningen er falt bort.
 
-(2) Rettighetshaveren skal umiddelbart melde fra til tollmyndighetene omat en immaterialrettighet omfattet av vedtak om bistand er opphørtat rettighetshaveren av andre grunner ikke lenger er berettiget til å søke om bistandendringer i opplysningene nevnt i [§ 10-1](lov/2022-03-11-9/§10-1) annet ledd.
+(2) Rettighetshaveren skal umiddelbart melde fra til tollmyndighetene om
+
+1. at en immaterialrettighet omfattet av vedtak om bistand er opphørt
+2. at rettighetshaveren av andre grunner ikke lenger er berettiget til å søke om bistand
+3. endringer i opplysningene nevnt i [§ 10-1](lov/2022-03-11-9/§10-1) annet ledd.
 
 (3) Hvis immaterialrettigheten er opphørt eller rettighetshaveren av andre grunner ikke lenger er berettiget til bistand fra tollmyndighetene, skal tollmyndighetene oppheve vedtaket om bistand. Hvis rettighetshaveren ikke oppfyller sine plikter etter kapitlet her, kan tollmyndighetene oppheve vedtaket. Hvis vedtaket oppheves, skal pågående tilbakehold avsluttes og tilbakeholdte varer frigis så snart tollbehandlingen er avsluttet. Rettighetshaveren skal underrettes.
 
@@ -886,7 +1053,15 @@ Varer som kan selges etter [§ 11-2](lov/2022-03-11-9/§11-2) annet ledd og [§ 
 
 ### § 12-2. Overtredelsesgebyr
 
-(1) Tollmyndighetene kan ilegge overtredelsesgebyr overfor den somovertrer plikter etter [kapittel 2](lov/2022-03-11-9/kap2)overtrer plikter etter [kapittel 3](lov/2022-03-11-9/kap3)disponerer over en vare i strid med vilkår som følger av den deklarerte prosedyren etter [kapittel 4](lov/2022-03-11-9/kap4)overtrer plikter etter [kapittel 5](lov/2022-03-11-9/kap5)utsteder eller foranlediger utstedt uriktig eller ufullstendig opprinnelsesbevis, faktura eller annet legitimasjonsdokument i Norge, som er bestemt til å tjene som bevis ved tollbehandling av en vare i et annet landikke oppfyller oppbevaringsplikten etter [§ 7-5](lov/2022-03-11-9/§7-5)ikke medvirker til kontroll etter [8-13](lov/2022-03-11-9/§8-13).
+(1) Tollmyndighetene kan ilegge overtredelsesgebyr overfor den som
+
+1. overtrer plikter etter [kapittel 2](lov/2022-03-11-9/kap2)
+2. overtrer plikter etter [kapittel 3](lov/2022-03-11-9/kap3)
+3. disponerer over en vare i strid med vilkår som følger av den deklarerte prosedyren etter [kapittel 4](lov/2022-03-11-9/kap4)
+4. overtrer plikter etter [kapittel 5](lov/2022-03-11-9/kap5)
+5. utsteder eller foranlediger utstedt uriktig eller ufullstendig opprinnelsesbevis, faktura eller annet legitimasjonsdokument i Norge, som er bestemt til å tjene som bevis ved tollbehandling av en vare i et annet land
+6. ikke oppfyller oppbevaringsplikten etter [§ 7-5](lov/2022-03-11-9/§7-5)
+7. ikke medvirker til kontroll etter [8-13](lov/2022-03-11-9/§8-13).
 
 (2) Overtredelsesgebyr etter første ledd bokstav g kan utgjøre inntil 50 rettsgebyr, jf. [rettsgebyrloven § 1](lov/1982-12-17-86/§1) annet ledd.
 
@@ -914,11 +1089,20 @@ Tollmyndighetene kan bestemme at en tollrepresentant som har opptrådt i strid m
 
 ### § 12-5. Straff for ulovlig vareførsel
 
-Med bot eller fengsel inntil seks måneder eller begge deler straffes den sominn- eller utfører en vare uten å fremlegge varen for tollmyndighetene etter [§ 2-4](lov/2022-03-11-9/§2-4) eller [§ 5-4](lov/2022-03-11-9/§5-4)inn- eller utfører en vare uten å tollbehandle varen etter [§ 3-1](lov/2022-03-11-9/§3-1) eller [§ 5-5](lov/2022-03-11-9/§5-5)disponerer over en vare i strid med vilkår som følger av den deklarerte prosedyren, jf. [kapittel 4](lov/2022-03-11-9/kap4) eller [§ 5-9](lov/2022-03-11-9/§5-9)i Norge utsteder eller foranlediger utstedt uriktig eller ufullstendig opprinnelsesbevis, faktura eller annet uriktig legitimasjonsdokument som er bestemt til å tjene som bevis ved tollbehandling av en vare i et annet land.
+Med bot eller fengsel inntil seks måneder eller begge deler straffes den som
+
+1. inn- eller utfører en vare uten å fremlegge varen for tollmyndighetene etter [§ 2-4](lov/2022-03-11-9/§2-4) eller [§ 5-4](lov/2022-03-11-9/§5-4)
+2. inn- eller utfører en vare uten å tollbehandle varen etter [§ 3-1](lov/2022-03-11-9/§3-1) eller [§ 5-5](lov/2022-03-11-9/§5-5)
+3. disponerer over en vare i strid med vilkår som følger av den deklarerte prosedyren, jf. [kapittel 4](lov/2022-03-11-9/kap4) eller [§ 5-9](lov/2022-03-11-9/§5-9)
+4. i Norge utsteder eller foranlediger utstedt uriktig eller ufullstendig opprinnelsesbevis, faktura eller annet uriktig legitimasjonsdokument som er bestemt til å tjene som bevis ved tollbehandling av en vare i et annet land.
 
 ### § 12-6. Straff for brudd på lås eller segl mv.
 
-(1) Med bot eller fengsel inntil seks måneder eller begge deler straffes den som rettsstridig brytertollmyndighetenes lås eller seglen lås eller et segl påsatt eller godkjent av utenlandsk tollmyndighet som Norge etter en konvensjon er forpliktet til å godta, elleren annen stats tollsegl som er benyttet etter [§ 9-6](lov/2022-03-11-9/§9-6).
+(1) Med bot eller fengsel inntil seks måneder eller begge deler straffes den som rettsstridig bryter
+
+1. tollmyndighetenes lås eller segl
+2. en lås eller et segl påsatt eller godkjent av utenlandsk tollmyndighet som Norge etter en konvensjon er forpliktet til å godta, eller
+3. en annen stats tollsegl som er benyttet etter [§ 9-6](lov/2022-03-11-9/§9-6).
 
 (2) Er en lås eller et segl som nevnt i første ledd rettstridig brutt, straffes den som er ansvarlig for låsen eller seglet med bøter, hvis bruddet skyldes forsømmelse fra vedkommendes side, eller hvis vedkommende ikke etter bruddet har truffet forsvarlige tiltak for å hindre at varer kunne fjernes eller forandres.
 
@@ -936,7 +1120,16 @@ Forsøk på overtredelser som nevnt i [§§ 12-5](lov/2022-03-11-9/§12-5) til [
 
 ### § 12-9. Grov overtredelse
 
-Grov overtredelse som nevnt i [§§ 12-5](lov/2022-03-11-9/§12-5) og [12-6](lov/2022-03-11-9/§12-6) straffes med bot eller fengsel inntil seks år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om denhar stort omfangkunne ha ledet til unndragelse av et betydelig beløp i skatter eller avgifterer utført på en måte som i særlig grad har gjort den vanskelig å oppdagegjelder varer som er underlagt særlige vilkår for inn- og utførseler begått ved flere anledninger eller over lengre tider begått av flere i fellesskap eller har et planmessig eller organisert preger utført ved å misbruke stilling eller tillitsforholder utført under utøvelse av næring eller gjelder en vare som var bestemt til omsetning.
+Grov overtredelse som nevnt i [§§ 12-5](lov/2022-03-11-9/§12-5) og [12-6](lov/2022-03-11-9/§12-6) straffes med bot eller fengsel inntil seks år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den
+
+1. har stort omfang
+2. kunne ha ledet til unndragelse av et betydelig beløp i skatter eller avgifter
+3. er utført på en måte som i særlig grad har gjort den vanskelig å oppdage
+4. gjelder varer som er underlagt særlige vilkår for inn- og utførsel
+5. er begått ved flere anledninger eller over lengre tid
+6. er begått av flere i fellesskap eller har et planmessig eller organisert preg
+7. er utført ved å misbruke stilling eller tillitsforhold
+8. er utført under utøvelse av næring eller gjelder en vare som var bestemt til omsetning.
 
 > Endret ved [lov 20 des 2022 nr. 111](lov/2022-12-20-111).
 
@@ -964,7 +1157,10 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes grovt uakt
 
 (1) Dersom det vurderes å iverksette handelstiltak mot visse vareslag etter dette kapitlet eller å forlenge allerede iverksatte tiltak, kan departementet eller den myndighet departementet bestemmer innhente eller la innhente nærmere opplysninger om priser, produksjon, omsetning, fortjeneste og andre forhold om slike eller lignende vareslag, utenlandske så vel som innenlandske.
 
-(2) Plikt til å legge frem opplysninger som nevnt i første ledd påhviler enhver som innfører, produserer, bearbeider eller omsetter slike varer. Opplysningsplikt har ogsåmyndigheter som har til oppgave å føre kontroll med at bestemmelsene i konkurranselovgivningen overholdesmyndigheter som har til oppgave å gjennomføre regulering og kontroll av vareførselen.
+(2) Plikt til å legge frem opplysninger som nevnt i første ledd påhviler enhver som innfører, produserer, bearbeider eller omsetter slike varer. Opplysningsplikt har også
+
+1. myndigheter som har til oppgave å føre kontroll med at bestemmelsene i konkurranselovgivningen overholdes
+2. myndigheter som har til oppgave å gjennomføre regulering og kontroll av vareførselen.
 
 (3) Opplysningspliktige etter første og annet ledd kan gi opplysninger uten hinder av taushetsplikt. Taushetsplikten er heller ikke til hinder for at regnskapsmateriale, bøker og dokumenter som er hos slike myndigheter, blir kontrollert etter [§ 8-13](lov/2022-03-11-9/§8-13).
 
@@ -990,7 +1186,13 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes grovt uakt
 
 ### § 13-3. Definisjon av dumping
 
-(1) Med dumping menes innførsel av varetil en pris som er lavere enn den under vanlige handelsforhold sammenlignbare prisen ved salg av tilsvarende vare bestemt til forbruk i vedkommende eksportland ellerhvis slik hjemmemarkedspris i eksportlandet ikke foreligger, til en pris som entener lavere enn den under vanlige handelsforhold høyeste sammenlignbare eksportpris for tilsvarende vare som utføres til et annet land, ellerer lavere enn hva det koster å fremstille varen i opprinnelseslandet, med et rimelig tillegg for administrasjons- og salgskostnader og generelle kostnader samt fortjeneste.
+(1) Med dumping menes innførsel av vare
+
+1. til en pris som er lavere enn den under vanlige handelsforhold sammenlignbare prisen ved salg av tilsvarende vare bestemt til forbruk i vedkommende eksportland eller
+2. hvis slik hjemmemarkedspris i eksportlandet ikke foreligger, til en pris som enten
+
+   1. er lavere enn den under vanlige handelsforhold høyeste sammenlignbare eksportpris for tilsvarende vare som utføres til et annet land, eller
+   2. er lavere enn hva det koster å fremstille varen i opprinnelseslandet, med et rimelig tillegg for administrasjons- og salgskostnader og generelle kostnader samt fortjeneste.
 
 (2) Ved sammenligning av prisene skal det tas hensyn til ulikheter i salgs- og leveringsvilkår, transportkostnader, skattlegging og andre forhold av betydning for sammenligningen.
 
@@ -1024,7 +1226,13 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes grovt uakt
 
 ### § 13-6. Definisjon av subsidier
 
-(1) Med subsidier menes økonomisk bidrag fra offentlig myndighet når det gis en fordel ved atdet offentliges praksis innebærer direkte pengeoverføringer (gave, lån, kapitaltilførsel mv.) eller potensielle direkte overføringer av penger eller forpliktelser (lånegarantier mv.)offentlige krav som ellers er forfalt, frafalles eller ikke innkrevesdet offentlige leverer varer eller yter tjenester ut over generell infrastruktur, eller kjøper varerdet offentlige foretar innbetalinger til en finansieringsordning eller overlater til, eller pålegger, en privat aktør en eller flere oppgaver som vanligvis hører under det offentlige, og som er beskrevet i bokstav a til c, og dette uten reell grunn avviker fra den praksis det offentlige vanligvis følgerdet gis en eller annen form for inntekts- eller prisstøtte som direkte eller indirekte fører til økning i eksporten av en vare.
+(1) Med subsidier menes økonomisk bidrag fra offentlig myndighet når det gis en fordel ved at
+
+1. det offentliges praksis innebærer direkte pengeoverføringer (gave, lån, kapitaltilførsel mv.) eller potensielle direkte overføringer av penger eller forpliktelser (lånegarantier mv.)
+2. offentlige krav som ellers er forfalt, frafalles eller ikke innkreves
+3. det offentlige leverer varer eller yter tjenester ut over generell infrastruktur, eller kjøper varer
+4. det offentlige foretar innbetalinger til en finansieringsordning eller overlater til, eller pålegger, en privat aktør en eller flere oppgaver som vanligvis hører under det offentlige, og som er beskrevet i bokstav a til c, og dette uten reell grunn avviker fra den praksis det offentlige vanligvis følger
+5. det gis en eller annen form for inntekts- eller prisstøtte som direkte eller indirekte fører til økning i eksporten av en vare.
 
 (2) Definisjonen i første ledd kan fravikes såfremt utjevningstiltaket iverksettes innenfor folkerettslige rammer som åpner for dette.
 

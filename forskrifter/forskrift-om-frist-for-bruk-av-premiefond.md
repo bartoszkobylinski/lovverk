@@ -15,7 +15,7 @@ xml_hash: "b70cdf0d76eaf06503fa00fee56db8bf95e576ca518d4528799c9dbb0931196a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,4 +26,6 @@ eu_basis: []
 
 2\. Norges Bank tilbakebetaler arbeidsgiveren midler som er innestående pr. 1. desember 1977.
 
-3\. Ved anvendelse av midlene i samsvar med punkt 1 og tilbakebetaling etter punkt 2, kommer de alminnelige regler i loven med tilhørende forskrifter til anvendelse.Disse forskrifter trer i kraft straks.
+3\. Ved anvendelse av midlene i samsvar med punkt 1 og tilbakebetaling etter punkt 2, kommer de alminnelige regler i loven med tilhørende forskrifter til anvendelse.
+
+1. Disse forskrifter trer i kraft straks.

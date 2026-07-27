@@ -22,4 +22,15 @@ eu_basis: []
 
 # Forskrift om bruken av midlar frå Norsk kulturfond.
 
-Ramma for verksemda til fondet er kunst og kulturvern. Dei tiltak som Rådet gjer, bør ha det doble siktemål å stimulere kunsten og kulturvernet, og samstundes gjere kunst og kulturverdiane tilgjengelege for så mange som råd er. Innanfor denne ramma må Rådet til kvar tid vurdere kva for oppgåver som bør prioriterast. Det er føresetnaden at Rådet skal leggje særskilt vekt på:Tiltak til å fremje norske litteratur. Det er utarbeidd særlege reglar for bruk av midlar til slike tiltak.Tiltak til å fremje norsk musikkliv.Tiltak til å fremje norsk biletkunst, og kjøpe inn biletkunst til offentlege kunstsamlingar og til offentleg utsmykking.Tiltak til å fremje norsk filmkunst.Tiltak til å skape betre utdanningsvilkår for norske kunstnarar, såleis òg betre høve til vidare utdanning.Kulturverntiltak, såleis òg vern av samisk kultur.Stønad til finansiering av kulturbygg.Tiltak som er med og skaper eit rikare kulturmiljø i bygd og by, og ei vakrare utforming av omgivnaden vår.Tiltak som kan gi letta tilgjenge til god kunst og skape auka skjønsemd for dei verde den gir.Initiativ og stønad til større kulturelle eingongstiltak, som t.d. kunstnarlege innslag i nasjonale jubilé og minnehøgtider, og større eingongsturnéar frå kunstinstitusjonar.
+Ramma for verksemda til fondet er kunst og kulturvern. Dei tiltak som Rådet gjer, bør ha det doble siktemål å stimulere kunsten og kulturvernet, og samstundes gjere kunst og kulturverdiane tilgjengelege for så mange som råd er. Innanfor denne ramma må Rådet til kvar tid vurdere kva for oppgåver som bør prioriterast. Det er føresetnaden at Rådet skal leggje særskilt vekt på:
+
+1. Tiltak til å fremje norske litteratur. Det er utarbeidd særlege reglar for bruk av midlar til slike tiltak.
+2. Tiltak til å fremje norsk musikkliv.
+3. Tiltak til å fremje norsk biletkunst, og kjøpe inn biletkunst til offentlege kunstsamlingar og til offentleg utsmykking.
+4. Tiltak til å fremje norsk filmkunst.
+5. Tiltak til å skape betre utdanningsvilkår for norske kunstnarar, såleis òg betre høve til vidare utdanning.
+6. Kulturverntiltak, såleis òg vern av samisk kultur.
+7. Stønad til finansiering av kulturbygg.
+8. Tiltak som er med og skaper eit rikare kulturmiljø i bygd og by, og ei vakrare utforming av omgivnaden vår.
+9. Tiltak som kan gi letta tilgjenge til god kunst og skape auka skjønsemd for dei verde den gir.
+10. Initiativ og stønad til større kulturelle eingongstiltak, som t.d. kunstnarlege innslag i nasjonale jubilé og minnehøgtider, og større eingongsturnéar frå kunstinstitusjonar.

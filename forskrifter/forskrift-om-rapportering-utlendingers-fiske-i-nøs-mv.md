@@ -15,7 +15,7 @@ xml_hash: "6d553aa1ca5172551f5b45931512a4a683f0ef11228e560bfadafaf0c4d8ced6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -105,7 +105,10 @@ Fartøy som nevnt i [§ 2](forskrift/2010-08-31-1231/§2) skal sende melding om 
 
 Melding om fangst (DCA) skal sendes uavhengig av om fartøyet har fisket siden forrige melding. Etter at fisket er avsluttet, og melding om avslutning av fiske (COX) eller melding om havneanløp (POR) er sendt, opphører plikten til å sende melding om fangst (DCA). Det er ikke tillatt å drive fiske og fangst etter at melding om avslutning av fiske (COX) eller melding om havneanløp (POR) er sendt.
 
-Melding om fangst (DCA) skal også sendes:ved inspeksjon på sjø, ogsamme dag og før melding om havneanløp (POR), melding om avslutning av fiske (COX) eller melding om fremstilling for kontroll (CON) er sendt.
+Melding om fangst (DCA) skal også sendes:
+
+1. ved inspeksjon på sjø, og
+2. samme dag og før melding om havneanløp (POR), melding om avslutning av fiske (COX) eller melding om fremstilling for kontroll (CON) er sendt.
 
 Opplysninger angitt i blokk B skal angis for hver enkelt fiskeoperasjon og skal registreres fortløpende etter at hver fiskeoperasjon er fullført. Flere fiskeoperasjoner kan registreres parallelt. Med fiskeoperasjon menes perioden fra det tidspunkt et sammenhengende fiskeredskap settes i sjøen til det er tatt opp fra sjøen. Fiskeoperasjonen er fullført når fiskeredskapet er tatt opp av sjøen. Garn- og linefartøy kan angi opplysninger angitt i blokk B per døgn.
 

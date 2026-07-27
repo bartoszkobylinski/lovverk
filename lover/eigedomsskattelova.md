@@ -15,7 +15,7 @@ xml_hash: "55ec7c36536670c064c61937281f11a0e8c892069e46fc8d6d965ffc5ad7030b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,15 @@ Kommunestyret avgjer om det skal skrivast ut eigedomsskatt i kommunen.
 
 ### § 3
 
-Kommunestyret kan skrive ut eigedomsskatt på antenfaste eigedomar i heile kommunen, ellerfaste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, ellerberre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, ellerberre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, ellereigedom både under bokstav b og c, ellereigedom både under bokstav b og d, ellerfaste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum.
+Kommunestyret kan skrive ut eigedomsskatt på anten
+
+1. faste eigedomar i heile kommunen, eller
+2. faste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, eller
+3. berre på kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller
+4. berre på næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller
+5. eigedom både under bokstav b og c, eller
+6. eigedom både under bokstav b og d, eller
+7. faste eigedomar i heile kommunen, unnateke næringseigedom, kraftanlegg, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum.
 
 Til kommunen vert rekna sjøområde ut til grunnlinjene.
 
@@ -58,7 +66,26 @@ Flytande anlegg i sjø for oppdrett av fisk, skjell, skalldyr og andre marine ar
 
 ### § 5
 
-Fri for eigedomsskatt er:Eigedom som staten eig, så langteigedomen vert nytta av Kongen eller kongehuset, Stortinget eller Regjeringaeigedomen vert nytta til kulturelle føremål, slik som idrettsanlegg, musé, teater, skulpturar m.v.eigedomen har historisk bygg eller anleggeigedomen vert nytta av Forsvaret til forsvarsanlegg, avgrensa leirområde eller militært øvingsområdeeigedomen tilhøyrer staten sine samferdselsforetak så langt dei tener ålmennyttige føremåleigedomen er vassfall, fabrikk eller anna føretak som staten eig og som tener ålmennyttige føremålEigedom som høyrer til jernvegar til ålmenn bruk, så langt og så lenge eigedomen vert nytta i verksemda.Kyrkjer.Eigedomar som kommunen sjølv eig.Legasjons- og konsulateigedomar som ein annan stat eig, når den andre staten fritek norsk eigedom for tilsvarande skatt hjå seg.Eigedom som statens lufthamnselskap eig, i same omfang som fritaket for statens eigedom etter bokstav a femte strekpunkt.Eigedom som helseforetak eig, i same omfang som fritaket for statens eigedom etter bokstav a sjette strekpunkt.Eigedom som vert driven som gardsbruk eller skogbruk, herunder gartneri og planteskule tilknytta slik drift, samt anlegg i reindriftsnæringa.Ikkje utbygde delar av Finnmarkseiendommen sin grunn i Finnmark fylke. Dette fritaket gjeld likevel ikkje tomteareal, jamvel om arealet ikkje er utbygd enno.Område som er vedteke verna som nasjonalpark eller naturreservat i medhald av [lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100). Fritaket gjeld også for område verna som nasjonalpark eller naturreservat etter den tidlegare [lov 19. juni 1970 nr. 63 om naturvern](lov/1970-06-19-63). Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.Lavproduktiv grunneigedom som staten eig direkte eller indirekte, så langt den tener ålmennyttige føremål. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.
+Fri for eigedomsskatt er:
+
+1. Eigedom som staten eig, så langt
+
+   - eigedomen vert nytta av Kongen eller kongehuset, Stortinget eller Regjeringa
+   - eigedomen vert nytta til kulturelle føremål, slik som idrettsanlegg, musé, teater, skulpturar m.v.
+   - eigedomen har historisk bygg eller anlegg
+   - eigedomen vert nytta av Forsvaret til forsvarsanlegg, avgrensa leirområde eller militært øvingsområde
+   - eigedomen tilhøyrer staten sine samferdselsforetak så langt dei tener ålmennyttige føremål
+   - eigedomen er vassfall, fabrikk eller anna føretak som staten eig og som tener ålmennyttige føremål
+2. Eigedom som høyrer til jernvegar til ålmenn bruk, så langt og så lenge eigedomen vert nytta i verksemda.
+3. Kyrkjer.
+4. Eigedomar som kommunen sjølv eig.
+5. Legasjons- og konsulateigedomar som ein annan stat eig, når den andre staten fritek norsk eigedom for tilsvarande skatt hjå seg.
+6. Eigedom som statens lufthamnselskap eig, i same omfang som fritaket for statens eigedom etter bokstav a femte strekpunkt.
+7. Eigedom som helseforetak eig, i same omfang som fritaket for statens eigedom etter bokstav a sjette strekpunkt.
+8. Eigedom som vert driven som gardsbruk eller skogbruk, herunder gartneri og planteskule tilknytta slik drift, samt anlegg i reindriftsnæringa.
+9. Ikkje utbygde delar av Finnmarkseiendommen sin grunn i Finnmark fylke. Dette fritaket gjeld likevel ikkje tomteareal, jamvel om arealet ikkje er utbygd enno.
+10. Område som er vedteke verna som nasjonalpark eller naturreservat i medhald av [lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100). Fritaket gjeld også for område verna som nasjonalpark eller naturreservat etter den tidlegare [lov 19. juni 1970 nr. 63 om naturvern](lov/1970-06-19-63). Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.
+11. Lavproduktiv grunneigedom som staten eig direkte eller indirekte, så langt den tener ålmennyttige føremål. Fritaket gjeld ikkje bygning med tomt og tomteareal, jamvel om arealet ikkje er utbygd enno.
 
 Departementet kan gje nærare regler til utfylling og avgrensing av denne bestemmelsen.
 
@@ -70,7 +97,13 @@ Departementet kan gje nærare regler til utfylling og avgrensing av denne bestem
 
 ### § 7
 
-Kommunestyret kan fritaka desse eigedomane heilt eller delvis for eigedomsskatt:Eigedom åt stiftingar eller institusjonar som tek sikte på å gagna ein kommune, eit fylke eller staten.Bygning som har historisk verde.Bygning som heilt eller i nokon mon vert nytta til husvære. Fritaket kan gjelda i opptil 20 år frå den tida bygningen vart ferdig. Formannskapet eller utval som er nemnt i [kommuneloven § 5-7](lov/2018-06-22-83/§5-7), kan få fullmakt til å avgjera einskildsaker om skattefritak.Bygning og grunn i visse luter av kommunen.Fritidsbustader.
+Kommunestyret kan fritaka desse eigedomane heilt eller delvis for eigedomsskatt:
+
+1. Eigedom åt stiftingar eller institusjonar som tek sikte på å gagna ein kommune, eit fylke eller staten.
+2. Bygning som har historisk verde.
+3. Bygning som heilt eller i nokon mon vert nytta til husvære. Fritaket kan gjelda i opptil 20 år frå den tida bygningen vart ferdig. Formannskapet eller utval som er nemnt i [kommuneloven § 5-7](lov/2018-06-22-83/§5-7), kan få fullmakt til å avgjera einskildsaker om skattefritak.
+4. Bygning og grunn i visse luter av kommunen.
+5. Fritidsbustader.
 
 > Endra med lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [16 juni 2006 nr. 25](lov/2006-06-16-25) (f o m skatteåret 2007), [17 juni 2016 nr. 35](lov/2016-06-17-35) (ikr. 1 jan 2017), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)).
 
@@ -116,7 +149,11 @@ Kommunestyret kan fritaka desse eigedomane heilt eller delvis for eigedomsskatt:
 
 (4) Kommunestyret kan i staden for løysinga i andre ledd, utnemne ei sakkunnig nemnd som skal setje taksten på grunnlag av forslag frå tilsette synfaringsmenn.
 
-(5) Omtaksering av ein eigedom skal skje dersom det i tida mellom dei allmenne takseringane, ligg føre ein av dei følgjande grunnane:eigedomen er delt,bygningar på eigedomen er rive eller øydelagt av brann eller liknande, ellerdet er ført opp nye bygningar eller gjort monalege forandringar på eigedomen.
+(5) Omtaksering av ein eigedom skal skje dersom det i tida mellom dei allmenne takseringane, ligg føre ein av dei følgjande grunnane:
+
+1. eigedomen er delt,
+2. bygningar på eigedomen er rive eller øydelagt av brann eller liknande, eller
+3. det er ført opp nye bygningar eller gjort monalege forandringar på eigedomen.
 
 (6) Dersom verdet til ein eigedom er vesentleg forandra i høve til andre eigedomar, kan formannskapet så vel som skattytar krevje særskild taksering i tida mellom dei allmenne takseringane. Skattytar som krev omtaksering etter dette og førre ledd, må sjølv dekkje kostnadene med takseringa. Krav om omtaksering må være stilt innan 1. november i året før skatteåret.
 
@@ -224,7 +261,12 @@ Kommunestyret kan fastsetje botnfrådrag i eigedomsskatten for alle sjølvstendi
 
 ### § 12
 
-Kommunestyret kan fastsetja ulike skattøyre for:Bustaddelen i eigedomar med sjølvstendige bustaddelar.Grunneigedomar som det står hus på, og huslause grunneigedomar.Bygningar og grunn.Avgrensa område som nemnde i [§ 3](lov/1975-06-06-29/§3).
+Kommunestyret kan fastsetja ulike skattøyre for:
+
+1. Bustaddelen i eigedomar med sjølvstendige bustaddelar.
+2. Grunneigedomar som det står hus på, og huslause grunneigedomar.
+3. Bygningar og grunn.
+4. Avgrensa område som nemnde i [§ 3](lov/1975-06-06-29/§3).
 
 > Endra med lover [5 feb 1993 nr. 28](lov/1993-02-05-28), [19 des 2017 nr. 118](lov/2017-12-19-118) (ikr. 1 jan 2019 med verknad frå skatteåret 2019).
 
@@ -396,7 +438,12 @@ Plikt til å gje opplysningar og medverke til synfaring
 
 (3) Eigedomsskattekontoret kan setje frist for å gje opplysningar eller yte medverknad etter nr. 1 og nr. 2. Fristen skal ikkje vere kortare enn fire veker.
 
-(4) Ved brot på pliktene etter nr. 1 eller nr. 2 kan eigedomsskattekontoret påleggje eigaren (skattytar) forseinkingsavgift. Avgifta vert sett på grunnlag av eigedomens skattegrunnlag. Avgifta skal vere:0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,1 promille av skattegrunnlaget når forseinkinga er over ein månad.Avgifta skal ikkje vere lågare enn 200 kroner, og skal når forseinkinga ikkje er over to månader, ikkje vere over 10 000 kroner. Avgifta skal gå til kommunen. Avgift skal ikkje påleggjast når fristoversitjinga er unnskyldeleg på grunn av sjukdom, alderdom, manglande røynsle eller annan grunn.
+(4) Ved brot på pliktene etter nr. 1 eller nr. 2 kan eigedomsskattekontoret påleggje eigaren (skattytar) forseinkingsavgift. Avgifta vert sett på grunnlag av eigedomens skattegrunnlag. Avgifta skal vere:
+
+1. 0,5 promille av skattegrunnlaget når forseinkinga ikkje er over ein månad,
+2. 1 promille av skattegrunnlaget når forseinkinga er over ein månad.
+
+Avgifta skal ikkje vere lågare enn 200 kroner, og skal når forseinkinga ikkje er over to månader, ikkje vere over 10 000 kroner. Avgifta skal gå til kommunen. Avgift skal ikkje påleggjast når fristoversitjinga er unnskyldeleg på grunn av sjukdom, alderdom, manglande røynsle eller annan grunn.
 
 (5) Eigedomsskattekontoret eller dei som utfører takseringa for kommunen, har rett til å ta fotografi av eigedomen til bruk for takseringa.
 

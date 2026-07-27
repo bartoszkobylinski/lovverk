@@ -60,13 +60,20 @@ Finansdepartementet kan fastsette en referanseindeks for obligasjonsfondet.
 
 ### § 3-2. Tillatte instrumenter
 
-(1) Folketrygdfondet kan investere obligasjonsfondet i rentebærende instrumenter og kontantinnskudd som er godkjent i henhold til [§ 4-10](forskrift/2020-03-27-488/§4-10), men begrenset tilomsettelige obligasjoner og andre omsettelige gjeldsinstrumenter utstedt av norske selskap, jf. [foretaksregisterloven § 1-2](lov/1985-06-21-78/§1-2)kontantsinnskudd i den grad det er nødvendig for en effektiv drift av forvaltningenfinansielle derivater og valutainstrumenter som henger naturlig sammen med obligasjoner.
+(1) Folketrygdfondet kan investere obligasjonsfondet i rentebærende instrumenter og kontantinnskudd som er godkjent i henhold til [§ 4-10](forskrift/2020-03-27-488/§4-10), men begrenset til
+
+1. omsettelige obligasjoner og andre omsettelige gjeldsinstrumenter utstedt av norske selskap, jf. [foretaksregisterloven § 1-2](lov/1985-06-21-78/§1-2)
+2. kontantsinnskudd i den grad det er nødvendig for en effektiv drift av forvaltningen
+3. finansielle derivater og valutainstrumenter som henger naturlig sammen med obligasjoner.
 
 (2) Dersom Folketrygdfondet blir eier av finansielle instrumenter som ikke er omfattet av første ledd, skal Folketrygdfondet selge slike finansielle instrumenter på en slik måte at det ivaretar obligasjonsfondets finansielle interesser.
 
 ### § 3-3. Rammer for forvaltningen
 
-(1) Den delen av obligasjonsfondet som er investert i kredittobligasjonsmarkedet, skal investeres i henhold til følgende sektorfordeling:ikke-finansielle selskap: 50–100 prosentbank og finansforetak: 0–50 prosent.
+(1) Den delen av obligasjonsfondet som er investert i kredittobligasjonsmarkedet, skal investeres i henhold til følgende sektorfordeling:
+
+- ikke-finansielle selskap: 50–100 prosent
+- bank og finansforetak: 0–50 prosent.
 
 (2) Obligasjonsfondet kan investeres i obligasjoner denominert i andre valutaer enn norske kroner, likevel begrenset til EUR, GBP, SEK, DKK og USD. Slike investeringer skal valutasikres.
 
@@ -86,7 +93,11 @@ Finansdepartementet kan fastsette en referanseindeks for obligasjonsfondet.
 
 (10) Kjøp i annenhåndsmarkedet som innebærer at obligasjonsfondet blir investert i mer enn 70 pst. av et låns utestående, kan bare finne sted hvis Folketrygdfondet kan dokumentere at kjøpet skjer til markedsmessig pris og vilkår. Det samme gjelder ved enhver transaksjon mellom Statens pensjonsfond Norge og obligasjonsfondet.
 
-(11) Styret skal fastsette supplerende risikorammer for forvaltningen, herunder:rammer for kredittrisiko, både på enkeltutstedernivå og på porteføljenivårammer for motpartseksponering. Rammene skal inkludere grenser for minimum kredittvurdering til motparter for usikrede innskudd, ikke-børsnoterte derivathandler og andre typer kontrakter som påfører Folketrygdfondet motpartsrisikorammer for reinvestering av mottatt kontantsikkerhet. Reinvestering skal ikke gjøres med sikte på å øke obligasjonsfondets økonomiske eksponering mot risikable aktiva.
+(11) Styret skal fastsette supplerende risikorammer for forvaltningen, herunder:
+
+1. rammer for kredittrisiko, både på enkeltutstedernivå og på porteføljenivå
+2. rammer for motpartseksponering. Rammene skal inkludere grenser for minimum kredittvurdering til motparter for usikrede innskudd, ikke-børsnoterte derivathandler og andre typer kontrakter som påfører Folketrygdfondet motpartsrisiko
+3. rammer for reinvestering av mottatt kontantsikkerhet. Reinvestering skal ikke gjøres med sikte på å øke obligasjonsfondets økonomiske eksponering mot risikable aktiva.
 
 (12) Rammene nevnt i ellevte ledd skal legges frem for departementet ved ikrafttredelse. Senere utvidelser av rammene skal legges frem for departementet minst fire uker før planlagt ikrafttredelse, med mindre særlige forhold tilsier kortere frist.
 
@@ -178,11 +189,18 @@ Folketrygdfondet skal fastsette retningslinjer for reinvestering av mottatt kont
 
 ### § 6-2. Rapporteringskrav
 
-(1) Folketrygdfondet skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):verdiutvikling, resultater og risiko i obligasjonsfondetutnyttelsen av rammene gitt i dette mandatet.
+(1) Folketrygdfondet skal halvårlig rapportere om og redegjøre særskilt for (halvårsrapportering):
+
+1. verdiutvikling, resultater og risiko i obligasjonsfondet
+2. utnyttelsen av rammene gitt i dette mandatet.
 
 (2) Halvårsrapporteringen skal videre inneholde utdrag av de deler av Folketrygdfondets regnskap som vedrører forvaltningen av obligasjonsfondet, fastsatt i henhold til de til enhver tid gjeldende regnskapsbestemmelser for Folketrygdfondet.
 
-(3) I tillegg til krav i [§ 6-2](forskrift/2020-03-27-488/§6-2) annet ledd skal Folketrygdfondet årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):styrets vurderinger av resultateneforholdet mellom avkastning og risiko i obligasjonsfondet. Folketrygdfondet skal benytte flere metoder og måltall for å rapportere risikojustert avkastningforvaltningskostnader og anslag på transaksjonskostnader for obligasjonsfondet uttrykt som andel av forvaltet kapital.
+(3) I tillegg til krav i [§ 6-2](forskrift/2020-03-27-488/§6-2) annet ledd skal Folketrygdfondet årlig rapportere om og redegjøre særskilt for følgende (årsrapportering):
+
+1. styrets vurderinger av resultatene
+2. forholdet mellom avkastning og risiko i obligasjonsfondet. Folketrygdfondet skal benytte flere metoder og måltall for å rapportere risikojustert avkastning
+3. forvaltningskostnader og anslag på transaksjonskostnader for obligasjonsfondet uttrykt som andel av forvaltet kapital.
 
 (4) Halvårsrapporteringen skal offentliggjøres senest to måneder etter utløpet av halvåret. Årsrapporteringen skal offentliggjøres senest tre måneder etter utløpet av året. Hovedinnholdet i årsrapporteringen skal gjøres tilgjengelig i trykt form. Øvrig rapportering kan skje i elektronisk form.
 

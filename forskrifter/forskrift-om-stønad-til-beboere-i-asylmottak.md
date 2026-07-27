@@ -38,7 +38,15 @@ En person som ikke har sitt daglige opphold i et asylmottak, men som midlertidig
 
 ## § 3. Definisjoner
 
-I forskriften menes med*asylmottak:* den innkvarteringen etter [utlendingsloven § 95](lov/2008-05-15-35/§95) som blir tilbudt en utlending som har søkt om beskyttelse*enslig mindreårig:* person under 18 år som søker om beskyttelse, og som ikke har foreldre eller andre med foreldreansvar i Norge*familie:* ektepar som bor sammen på asylmottaket, og samboere, med eller uten barn under 18 år, og enslige forsørgere med barn under 18 år*enslig forsørger:* en forelder eller annen voksen som bor alene med barn under 18 år*lønnsinntekt:* lønnsinntekt, lønn for kursdeltagelse eller omsorgslønn, dagpenger, uføretrygd og tilbakebetalt skatt, som en person eller familie mottar, fratrukket skatt og betalt fagforeningskontingent*annen inntekt:* kapitalinntekt, kontantstøtte, fødselspenger, engangsstønad ved fødsel eller annen trygd eller stønad, forsørgerfradrag, underholdsbidrag og bidragsforskudd*formue:* midler eller realiserbare eiendeler som overskrider et fastsatt beløp, unntatt eiendeler med affeksjonsverdi eller til personlig bruk, og voldsoffererstatning.
+I forskriften menes med
+
+1. *asylmottak:* den innkvarteringen etter [utlendingsloven § 95](lov/2008-05-15-35/§95) som blir tilbudt en utlending som har søkt om beskyttelse
+2. *enslig mindreårig:* person under 18 år som søker om beskyttelse, og som ikke har foreldre eller andre med foreldreansvar i Norge
+3. *familie:* ektepar som bor sammen på asylmottaket, og samboere, med eller uten barn under 18 år, og enslige forsørgere med barn under 18 år
+4. *enslig forsørger:* en forelder eller annen voksen som bor alene med barn under 18 år
+5. *lønnsinntekt:* lønnsinntekt, lønn for kursdeltagelse eller omsorgslønn, dagpenger, uføretrygd og tilbakebetalt skatt, som en person eller familie mottar, fratrukket skatt og betalt fagforeningskontingent
+6. *annen inntekt:* kapitalinntekt, kontantstøtte, fødselspenger, engangsstønad ved fødsel eller annen trygd eller stønad, forsørgerfradrag, underholdsbidrag og bidragsforskudd
+7. *formue:* midler eller realiserbare eiendeler som overskrider et fastsatt beløp, unntatt eiendeler med affeksjonsverdi eller til personlig bruk, og voldsoffererstatning.
 
 ## § 4. Stønadsreduksjon på grunn av inntekt og formue
 
@@ -74,7 +82,13 @@ En beboer som gjennomfører straff eller varetekt, og som mottar dagpenger i fen
 
 ## § 7. Tilleggsstønad uten søknad
 
-Uten forutgående søknad skal det gis tilleggsstønad som dekkerutgifter til egenandeler, akutt og skadeforebyggende tannbehandling og transport i forbindelse med nødvendig helsehjelp til beboere på ankomstsenter eller transittmottakutgifter til egenandeler til psykolog, psykiater og fysioterapi når det er en del av en psykisk behandling, inkludert medisiner og nødvendig transportengangsstønad etter fastsatte satser til kjøp av utstyr ved første oppstart i barnehage og ved første oppstart i ordinært grunnskoletilbud etter [opplæringslova](lov/1998-07-17-61)utgifter til månedskort til beboere i integreringsmottak som deltar på integreringsrettede tiltakengangsstønad ved fødsel etter en fastsatt sats for beboere som ikke har krav på engangsstønad etter [folketrygdloven § 4-17](lov/1997-02-28-19/§4-17).
+Uten forutgående søknad skal det gis tilleggsstønad som dekker
+
+1. utgifter til egenandeler, akutt og skadeforebyggende tannbehandling og transport i forbindelse med nødvendig helsehjelp til beboere på ankomstsenter eller transittmottak
+2. utgifter til egenandeler til psykolog, psykiater og fysioterapi når det er en del av en psykisk behandling, inkludert medisiner og nødvendig transport
+3. engangsstønad etter fastsatte satser til kjøp av utstyr ved første oppstart i barnehage og ved første oppstart i ordinært grunnskoletilbud etter [opplæringslova](lov/1998-07-17-61)
+4. utgifter til månedskort til beboere i integreringsmottak som deltar på integreringsrettede tiltak
+5. engangsstønad ved fødsel etter en fastsatt sats for beboere som ikke har krav på engangsstønad etter [folketrygdloven § 4-17](lov/1997-02-28-19/§4-17).
 
 > Endret ved forskrift [27 jan 2026 nr. 94](forskrift/2026-01-27-94).
 
@@ -82,7 +96,20 @@ Uten forutgående søknad skal det gis tilleggsstønad som dekkerutgifter til eg
 
 En beboer kan få tilleggsstønad til dekning av nødvendige utgifter som ikke dekkes av basisstønaden eller andre offentlige stønader. Det gis bare tilleggsstønad dersom rettigheter etter [folketrygdloven](lov/1997-02-28-19) er utnyttet fullt ut, herunder frikort etter [folketrygdloven § 5-3](lov/1997-02-28-19/§5-3).
 
-Som nødvendige utgifter kan regnesutgifter til godkjente egenandeler for helse- og omsorgstjenesterutgifter til tannbehandlingutstyr, inkludert konsultasjon, for å opprettholde funksjonsevnen i dagliglivetlegemidler utskrevet av lege og medisinsk utstyrutgifter til fordyret kosthold tilsvarende [folketrygdloven § 6-3 bokstav f](lov/1997-02-28-19/§6-3/bokstav/f)reiseutgifterutgifter til å skaffe identitetsdokumenter for personer med begrenset oppholdstillatelse etter [utlendingsloven § 38 femte ledd](lov/2008-05-15-35/§38/ledd/5)utgifter til ekstra klær og utstyr når det foreligger et særlig behov, dersom Utlendingsdirektoratet ikke har ekstra klær og utstyr tilgjengelig som naturalytelsegjenanskaffelse av personlige eiendeler som beboeren har tapt, opp til et fastsatt beløputgifter til gravferd for nære familiemedlemmer i Norge og utgifter til å sende urnen til avdødes hjemsted, dersom den skal sendes, alternativt kisten med samme beløpstønad tilsvarende satsene som Statens lånekasse for utdanning gir etter [forskrift om utdanningsstøtte](forskrift/2020-04-15-798), til individuelt utstyr til en beboer i videregående opplæring etter [opplæringslova § 5-1](lov/2023-06-09-30/§5-1), som ikke har slik rett til utdanningsstøttestønad til læremidler ved utdanning på høyskole eller universitet som tilsvarer satsen for stønad til læremidler for enslig mor eller far etter [folketrygdloven § 15-11](lov/1997-02-28-19/§15-11).
+Som nødvendige utgifter kan regnes
+
+1. utgifter til godkjente egenandeler for helse- og omsorgstjenester
+2. utgifter til tannbehandling
+3. utstyr, inkludert konsultasjon, for å opprettholde funksjonsevnen i dagliglivet
+4. legemidler utskrevet av lege og medisinsk utstyr
+5. utgifter til fordyret kosthold tilsvarende [folketrygdloven § 6-3 bokstav f](lov/1997-02-28-19/§6-3/bokstav/f)
+6. reiseutgifter
+7. utgifter til å skaffe identitetsdokumenter for personer med begrenset oppholdstillatelse etter [utlendingsloven § 38 femte ledd](lov/2008-05-15-35/§38/ledd/5)
+8. utgifter til ekstra klær og utstyr når det foreligger et særlig behov, dersom Utlendingsdirektoratet ikke har ekstra klær og utstyr tilgjengelig som naturalytelse
+9. gjenanskaffelse av personlige eiendeler som beboeren har tapt, opp til et fastsatt beløp
+10. utgifter til gravferd for nære familiemedlemmer i Norge og utgifter til å sende urnen til avdødes hjemsted, dersom den skal sendes, alternativt kisten med samme beløp
+11. stønad tilsvarende satsene som Statens lånekasse for utdanning gir etter [forskrift om utdanningsstøtte](forskrift/2020-04-15-798), til individuelt utstyr til en beboer i videregående opplæring etter [opplæringslova § 5-1](lov/2023-06-09-30/§5-1), som ikke har slik rett til utdanningsstøtte
+12. stønad til læremidler ved utdanning på høyskole eller universitet som tilsvarer satsen for stønad til læremidler for enslig mor eller far etter [folketrygdloven § 15-11](lov/1997-02-28-19/§15-11).
 
 Tilleggsstønad etter annet ledd kan gis som engangsbeløp eller som løpende utbetalinger.
 
@@ -94,7 +121,13 @@ Beboere med redusert basisstønad etter [§ 6](forskrift/2022-05-31-948/§6) fje
 
 ## § 9. Forskudd på stønad
 
-En beboer kan få forskudd på stønad etter [§ 6](forskrift/2022-05-31-948/§6) til dekning avreiseutgifter for å flytte til asylmottaketsengetøy og kjøkkenutstyret beløp tilsvarende barnetrygd frem til Arbeids- og velferdsdirektoratet har ferdigbehandlet søknad om barnetrygdutgifter opp til beløpsgrensen i [§ 8](forskrift/2022-05-31-948/§8) fjerde ledd ved søknad om tilleggsstønadandre utgifter dersom særlig tungtveiende grunner tilsier det.
+En beboer kan få forskudd på stønad etter [§ 6](forskrift/2022-05-31-948/§6) til dekning av
+
+1. reiseutgifter for å flytte til asylmottaket
+2. sengetøy og kjøkkenutstyr
+3. et beløp tilsvarende barnetrygd frem til Arbeids- og velferdsdirektoratet har ferdigbehandlet søknad om barnetrygd
+4. utgifter opp til beløpsgrensen i [§ 8](forskrift/2022-05-31-948/§8) fjerde ledd ved søknad om tilleggsstønad
+5. andre utgifter dersom særlig tungtveiende grunner tilsier det.
 
 Utbetales basisstønaden på forskudd, reduseres den fremtidige basisstønaden til forskuddet er tilbakebetalt. Utbetales barnetrygd på forskudd, skal beboeren tilbakebetale det forskutterte beløpet til Utlendingsdirektoratet.
 

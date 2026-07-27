@@ -15,7 +15,7 @@ xml_hash: "f9e398d81e54f746081d6f5bd86e3ac37bc09fae27cbe8352320d511c91c197e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Kommunen skal gi driftstilskudd til private ordinære barnehager per heltidsplas
 
 Kommunen skal gi påslag for pensjons- og administrasjonsutgifter, jf. [§ 4](forskrift/2015-10-09-1166/§4) og [§ 5](forskrift/2015-10-09-1166/§5).
 
-Kommunen skal beregne satsene for driftstilskudd i samsvar med forholdstall for finansiering av plasser for barn over og under tre år. Barn under tre år skal vektes 1,8 ganger høyere enn barn over tre år. Kommunen skal beregne antall heltidsplasser i kommunale barnehager. Kommunen skal gjøre dette på én av følgende måter:De kommunale barnehagenes årsmelding fra året før regnskapsåret og årsmeldingen fra regnskapsåret legges til grunn ved beregningen av heltidsplasser. Årsmeldingen fra året før regnskapsåret vektes med 7/12 og årsmeldingen fra regnskapsåret vektes med 5/12, eller,Kommunen kan beregne heltidsplasser ved bruk av egne tellinger av barn i kommunale barnehager. Kommunens tellinger i regnskapsårets sju første måneder viser antallet heltidsplasser i denne perioden. Kommunens tellinger i regnskapsårets fem siste måneder viser antallet heltidsplasser i denne perioden. Barn som fyller tre år i regnskapsåret, regnes som under tre år i årets sju første måneder og over tre år i årets fem siste måneder.
+Kommunen skal beregne satsene for driftstilskudd i samsvar med forholdstall for finansiering av plasser for barn over og under tre år. Barn under tre år skal vektes 1,8 ganger høyere enn barn over tre år. Kommunen skal beregne antall heltidsplasser i kommunale barnehager. Kommunen skal gjøre dette på én av følgende måter:
+
+1. De kommunale barnehagenes årsmelding fra året før regnskapsåret og årsmeldingen fra regnskapsåret legges til grunn ved beregningen av heltidsplasser. Årsmeldingen fra året før regnskapsåret vektes med 7/12 og årsmeldingen fra regnskapsåret vektes med 5/12, eller,
+2. Kommunen kan beregne heltidsplasser ved bruk av egne tellinger av barn i kommunale barnehager. Kommunens tellinger i regnskapsårets sju første måneder viser antallet heltidsplasser i denne perioden. Kommunens tellinger i regnskapsårets fem siste måneder viser antallet heltidsplasser i denne perioden. Barn som fyller tre år i regnskapsåret, regnes som under tre år i årets sju første måneder og over tre år i årets fem siste måneder.
 
 Kommunen skal fastsette én sats for barn over tre år og én sats for barn under tre år.
 

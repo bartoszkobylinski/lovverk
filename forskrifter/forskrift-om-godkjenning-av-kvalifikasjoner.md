@@ -32,7 +32,12 @@ Forskriften gjelder godkjenning av yrkeskvalifikasjoner fra annen stat for lovre
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med*yrkeskvalifikasjoner*: kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring.*kvalifikasjonsbevis*: vitnemål, attester og annen dokumentasjon utstedt av en myndighet i en stat utpekt i henhold til lover eller forskrifter i staten.*lovregulert yrke*: en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon.*barnehage*: virksomhet som er godkjent i henhold til [barnehageloven § 14](lov/2005-06-17-64/§14) og [§ 15](lov/2005-06-17-64/§15).
+I denne forskriften forstås med
+
+1. *yrkeskvalifikasjoner*: kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring.
+2. *kvalifikasjonsbevis*: vitnemål, attester og annen dokumentasjon utstedt av en myndighet i en stat utpekt i henhold til lover eller forskrifter i staten.
+3. *lovregulert yrke*: en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon.
+4. *barnehage*: virksomhet som er godkjent i henhold til [barnehageloven § 14](lov/2005-06-17-64/§14) og [§ 15](lov/2005-06-17-64/§15).
 
 > Endret ved [forskrifter 8 feb 2018 nr. 178](forskrift/2018-02-08-178), [19 mars 2021 nr. 801](forskrift/2021-03-19-801).
 
@@ -50,7 +55,10 @@ Godkjenning av yrkeskvalifikasjoner fra annen stat etter denne forskriften skal 
 
 Søknad om godkjenning av yrkeskvalifikasjoner skal fremmes på søknadsskjema utarbeidet av Direktoratet for høyere utdanning og kompetanse.
 
-For godkjenning av yrkeskvalifikasjoner skal Direktoratet for høyere utdanning og kompetanse kreve at søker framlegger:bekreftet kopi av kvalifikasjonsbevisbevis for søkerens statsborgerskap.
+For godkjenning av yrkeskvalifikasjoner skal Direktoratet for høyere utdanning og kompetanse kreve at søker framlegger:
+
+1. bekreftet kopi av kvalifikasjonsbevis
+2. bevis for søkerens statsborgerskap.
 
 Direktoratet for høyere utdanning og kompetanse kan kreve bevis for at søker har arbeidserfaring, dersom det er aktuelt å vurdere dette.
 

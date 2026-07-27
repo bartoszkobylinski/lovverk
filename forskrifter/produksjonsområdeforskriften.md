@@ -42,7 +42,21 @@ Forskriften gjelder ikke tillatelser til særlige formål etter [forskrift 7. no
 
 ### § 3. Produksjonsområder
 
-Fra og med 15. oktober 2017 opprettes følgende geografisk avgrensede områder til akvakultur med laks, ørret og regnbueørret:Område 1: Svenskegrensen til JærenOmråde 2: RyfylketOmråde 3: Karmøy til SotraOmråde 4: Nordhordland til StadtOmråde 5: Stadt til HustadvikaOmråde 6: Nordmøre og Sør-TrøndelagOmråde 7: Nord-Trøndelag med BindalOmråde 8: Helgeland til BodøOmråde 9: Vestfjorden og VesterålenOmråde 10: Andøya til SenjaOmråde 11: Kvaløya til LoppaOmråde 12: Vest-FinnmarkOmråde 13: Øst-Finnmark.
+Fra og med 15. oktober 2017 opprettes følgende geografisk avgrensede områder til akvakultur med laks, ørret og regnbueørret:
+
+1. Område 1: Svenskegrensen til Jæren
+2. Område 2: Ryfylket
+3. Område 3: Karmøy til Sotra
+4. Område 4: Nordhordland til Stadt
+5. Område 5: Stadt til Hustadvika
+6. Område 6: Nordmøre og Sør-Trøndelag
+7. Område 7: Nord-Trøndelag med Bindal
+8. Område 8: Helgeland til Bodø
+9. Område 9: Vestfjorden og Vesterålen
+10. Område 10: Andøya til Senja
+11. Område 11: Kvaløya til Loppa
+12. Område 12: Vest-Finnmark
+13. Område 13: Øst-Finnmark.
 
 Produksjonsområdene har den geografiske avgrensningen som følger av vedlegg I.
 
@@ -114,9 +128,22 @@ Når miljøpåvirkningen i et produksjonsområde er akseptabel, skal tillatelser
 
 ### § 12. Tilbud om kapasitetsøkning uavhengig av miljøstatus i produksjonsområdet
 
-Uavhengig av miljøstatus i produksjonsområdet, kan departementet gi tilbud om økt kapasitet til innehaver av tillatelse som har lokaliteterder lakseluslarver ikke slippes ut i frie vannmasser, og det er dokumentert av en upartisk faginstans at lokaliteten tillatelsen er knyttet til er utformet slik at egg og frittsvømmende stadier av lakselus ikke slippes ut i frie vannmasser, ellersom i vesentlig mindre grad enn andre har bidratt til å påvirke smittepresset av lakselus i løpet av en kvalifikasjonsperiode på to år ved å oppfylle gitte vilkår. Kvalifikasjonsperioden går fra og med uke 40 i et oddetallsår til og med uke 39 i neste oddetallsår. For lokaliteten tillatelsen er knyttet til skal følgende vilkår være oppfylt:Det var færre enn 0,1 voksne hunnlus i gjennomsnitt per fisk ved alle tellinger fra og med uke 13 til og med uke 39 i kvalifikasjonsperioden, eller det ikke er sluppet ut flere egg og frittsvømmende stadier av lakselus til miljøet enn det ville vært sluppet ut fra et tilsvarende antall fisk med et lusenivå under 0,1 voksne hunnlus i gjennomsnitt per fisk.Grensene i [forskrift 5. desember 2012 nr. 1140 om bekjempelse av lakselus § 8](forskrift/2012-12-05-1140/§8) har ikke vært brutt fra og med uke 40 til og med uke 12 i kvalifikasjonsperioden. Tilsvarende gjelder brudd på særskilte vilkår om lus i den enkelte tillatelse.Det kan dokumenteres at det har vært gjennomført maksimalt én medikamentell behandling mot lakselus i kvalifikasjonsperioden per lokalitet eller per fisk fra fisken settes i sjø til den slaktes. En medikamentell behandling er bruk av ett preparat forskrevet til lokaliteten, brukt i tråd med preparatomtalen eller i tråd med [(EU) 2019/6](eu/32019r0006) artikkel 114, jf. [forskrift om legemidler til dyr § 1-10](forskrift/2022-09-08-1573/§1-10).Det kan dokumenteres at det har vært gjennomført maksimalt seks ikke-medikamentelle behandlinger mot lakselus i kvalifikasjonsperioden per lokalitet eller per fisk fra fisken settes i sjø til den slaktes. En ikke-medikamentell behandling er fjerning av lus med midler eller metoder som ikke er legemidler, og som innebærer fysisk håndtering av fisken.Det har blitt avsluttet et utsett ved å slakte fisken. Dersom fisken er flyttet til en annen lokalitet, må vilkårene ha vært oppfylt på alle lokaliteter samlet innenfor kvalifikasjonsperioden for den enkelte fisk.Det er ikke fattet vedtak om midlertidig biomassereduksjon etter [forskrift 5. desember 2012 nr. 1140 om bekjempelse av lakselus](forskrift/2012-12-05-1140) med effekt innenfor kvalifikasjonsperioden.
+Uavhengig av miljøstatus i produksjonsområdet, kan departementet gi tilbud om økt kapasitet til innehaver av tillatelse som har lokaliteter
 
-Selv om det observerte lusenivået på en lokalitet overskrider lusegrensen angitt i første ledd bokstav b, nr. 1, kan departementet likevel gi tilbud til innehaver av tillatelse så fremt lokalitetenikke har hatt 0,17 eller flere voksne hunnlus per fisk ved rapporteringspliktige tellinger mer enn én gang fra og med uke 13 til og med uke 39 hvert år i kvalifikasjonsperioden, ogikke har hatt 0,10 eller flere voksne hunnlus per fisk ved fire rapporteringspliktige tellinger på rad.
+1. der lakseluslarver ikke slippes ut i frie vannmasser, og det er dokumentert av en upartisk faginstans at lokaliteten tillatelsen er knyttet til er utformet slik at egg og frittsvømmende stadier av lakselus ikke slippes ut i frie vannmasser, eller
+2. som i vesentlig mindre grad enn andre har bidratt til å påvirke smittepresset av lakselus i løpet av en kvalifikasjonsperiode på to år ved å oppfylle gitte vilkår. Kvalifikasjonsperioden går fra og med uke 40 i et oddetallsår til og med uke 39 i neste oddetallsår. For lokaliteten tillatelsen er knyttet til skal følgende vilkår være oppfylt:
+
+   1. Det var færre enn 0,1 voksne hunnlus i gjennomsnitt per fisk ved alle tellinger fra og med uke 13 til og med uke 39 i kvalifikasjonsperioden, eller det ikke er sluppet ut flere egg og frittsvømmende stadier av lakselus til miljøet enn det ville vært sluppet ut fra et tilsvarende antall fisk med et lusenivå under 0,1 voksne hunnlus i gjennomsnitt per fisk.
+   2. Grensene i [forskrift 5. desember 2012 nr. 1140 om bekjempelse av lakselus § 8](forskrift/2012-12-05-1140/§8) har ikke vært brutt fra og med uke 40 til og med uke 12 i kvalifikasjonsperioden. Tilsvarende gjelder brudd på særskilte vilkår om lus i den enkelte tillatelse.
+   3. Det kan dokumenteres at det har vært gjennomført maksimalt én medikamentell behandling mot lakselus i kvalifikasjonsperioden per lokalitet eller per fisk fra fisken settes i sjø til den slaktes. En medikamentell behandling er bruk av ett preparat forskrevet til lokaliteten, brukt i tråd med preparatomtalen eller i tråd med [(EU) 2019/6](eu/32019r0006) artikkel 114, jf. [forskrift om legemidler til dyr § 1-10](forskrift/2022-09-08-1573/§1-10).
+   4. Det kan dokumenteres at det har vært gjennomført maksimalt seks ikke-medikamentelle behandlinger mot lakselus i kvalifikasjonsperioden per lokalitet eller per fisk fra fisken settes i sjø til den slaktes. En ikke-medikamentell behandling er fjerning av lus med midler eller metoder som ikke er legemidler, og som innebærer fysisk håndtering av fisken.
+   5. Det har blitt avsluttet et utsett ved å slakte fisken. Dersom fisken er flyttet til en annen lokalitet, må vilkårene ha vært oppfylt på alle lokaliteter samlet innenfor kvalifikasjonsperioden for den enkelte fisk.
+   6. Det er ikke fattet vedtak om midlertidig biomassereduksjon etter [forskrift 5. desember 2012 nr. 1140 om bekjempelse av lakselus](forskrift/2012-12-05-1140) med effekt innenfor kvalifikasjonsperioden.
+
+Selv om det observerte lusenivået på en lokalitet overskrider lusegrensen angitt i første ledd bokstav b, nr. 1, kan departementet likevel gi tilbud til innehaver av tillatelse så fremt lokaliteten
+
+1. ikke har hatt 0,17 eller flere voksne hunnlus per fisk ved rapporteringspliktige tellinger mer enn én gang fra og med uke 13 til og med uke 39 hvert år i kvalifikasjonsperioden, og
+2. ikke har hatt 0,10 eller flere voksne hunnlus per fisk ved fire rapporteringspliktige tellinger på rad.
 
 > Endret ved [forskrifter 7 juli 2017 nr. 1161](forskrift/2017-07-07-1161), [20 feb 2019 nr. 216](forskrift/2019-02-20-216), [24 mars 2021 nr. 1001](forskrift/2021-03-24-1001), [28 sep 2023 nr. 1520](forskrift/2023-09-28-1520).
 
@@ -170,7 +197,13 @@ Nedjustert produksjonskapasitet er tilknyttet den enkelte tillatelse og kan beny
 
 ### § 15. Vilkår for bruk av nedjustert produksjonskapasitet
 
-Nedjustert produksjonskapasitet kan utelukkende benyttes i produksjonsenheter som oppfyller følgende vilkår:Produksjonsenheten har minimum én tett barriere som hindrer naturlig vanngjennomstrømning mellom oppdrettsvolum og omkringliggende miljø, ogInntak av vann skal gjøres på en måte som forhindrer inntak av egg og frittsvømmende stadier av lakselus, ogProduksjonsenheten skal være utformet slik at slam og fôrrester kan samles opp, ogProduksjonsenheter der innhegningen består av et stivt skrog må ha dobbel sikring mot rømming rundt inntak, avløp og andre åpninger i skroget. For andre typer innhegninger skal hele produksjonsenheten ha dobbel sikring mot rømming, ogDet er verifisert av en uavhengig og kompetent faginstans at vilkårene i bokstav a–d er oppfylt.
+Nedjustert produksjonskapasitet kan utelukkende benyttes i produksjonsenheter som oppfyller følgende vilkår:
+
+1. Produksjonsenheten har minimum én tett barriere som hindrer naturlig vanngjennomstrømning mellom oppdrettsvolum og omkringliggende miljø, og
+2. Inntak av vann skal gjøres på en måte som forhindrer inntak av egg og frittsvømmende stadier av lakselus, og
+3. Produksjonsenheten skal være utformet slik at slam og fôrrester kan samles opp, og
+4. Produksjonsenheter der innhegningen består av et stivt skrog må ha dobbel sikring mot rømming rundt inntak, avløp og andre åpninger i skroget. For andre typer innhegninger skal hele produksjonsenheten ha dobbel sikring mot rømming, og
+5. Det er verifisert av en uavhengig og kompetent faginstans at vilkårene i bokstav a–d er oppfylt.
 
 Dersom det er nødvendig av hensyn til miljøet kan Fiskeridirektoratet vedta at produksjonsenheter som oppfyller vilkårene i første ledd likevel ikke kan benyttes for nedjustert produksjonskapasitet. Vedtaket kan gjelde både konkrete produksjonsenheter og generelle typer produksjonsenheter. Vedtak kan gjøres tidsbegrenset med vilkår om utbedring.
 
@@ -202,78 +235,147 @@ Denne forskriften trer i kraft straks.
 
 ### Område 1: Svenskegrensa til Jæren
 
-Produksjonsområde 1 avgrenses av norsk økonomisk sone opp til 1 nautisk mil fra grunnlinjen og følgende linjer:Svinesund ved Svinesundsbroen, N 59° 05,64′ Ø 11° 15,12′Jærens rev ved Søre Revtangen, N 58° 45,12′ Ø 5° 29,34′ til åpen sjø N 58° 43,80′ Ø 5° 27,60′.
+Produksjonsområde 1 avgrenses av norsk økonomisk sone opp til 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Svinesund ved Svinesundsbroen, N 59° 05,64′ Ø 11° 15,12′
+2. Jærens rev ved Søre Revtangen, N 58° 45,12′ Ø 5° 29,34′ til åpen sjø N 58° 43,80′ Ø 5° 27,60′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 2: Ryfylke
 
-Produksjonsområde 2 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:Jærens rev ved Søre Revtangen, N 58° 45,12′ Ø 5° 29,34′ til åpen sjø N 58° 41,40′ Ø 5° 24,00′Karmsundet ved Karmsund bro, N 59° 22,50′ Ø 5° 17,76′Karmøy ved Syreneset, N 59° 08,88′ Ø 5° 11,58′ til åpen sjø N 59° 12,60′ Ø 4° 50,04′.
+Produksjonsområde 2 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:
+
+1. Jærens rev ved Søre Revtangen, N 58° 45,12′ Ø 5° 29,34′ til åpen sjø N 58° 41,40′ Ø 5° 24,00′
+2. Karmsundet ved Karmsund bro, N 59° 22,50′ Ø 5° 17,76′
+3. Karmøy ved Syreneset, N 59° 08,88′ Ø 5° 11,58′ til åpen sjø N 59° 12,60′ Ø 4° 50,04′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 3: Karmøy til Sotra
 
-Produksjonsområde 3 avgrenses ved 8 nautiske mil fra grunnlinjen og følgende linjer:Karmøy ved Syreneset, N 59° 08,88′ Ø 5° 11,58′ til åpen sjø N 59° 15,00′ Ø 4° 36,00′,Karmsundet ved Karmsund bro, N 59° 22,50′ Ø 5° 17,76′Herdlefjorden, fra Tertnes N 60° 27,60′ Ø 5° 16,32′ til Strømnes N 60° 27,54′ Ø 5° 14,10Klubben ved Breivik. Askøy N 60° 27,90′ Ø 5° 4,38′Hjeltefjorden, fra Kalvsøyna N 60° 27,54′ Ø 5° 2,22′ til Vindeneskvarven N 60° 27,42′ Ø 4° 59,22′Solsviksundet ved Solsviksundet bro, N 60° 26,46′ Ø 4° 57,96′Svelgen ved Svelgen bro, N 60° 27,42′ Ø 4° 57,30′Skårasund bro, Øygarden, N 60° 27,48′ Ø 4° 56,04′Gloppholmen, Øygarden, N 60° 27,24′ Ø 4° 55,38′Søndagsholmen ved Turøy N 60° 26,76′ Ø 4° 54,24′ til åpen sjø N 60° 27,60′ Ø 4° 32,40′.
+Produksjonsområde 3 avgrenses ved 8 nautiske mil fra grunnlinjen og følgende linjer:
+
+1. Karmøy ved Syreneset, N 59° 08,88′ Ø 5° 11,58′ til åpen sjø N 59° 15,00′ Ø 4° 36,00′,
+2. Karmsundet ved Karmsund bro, N 59° 22,50′ Ø 5° 17,76′
+3. Herdlefjorden, fra Tertnes N 60° 27,60′ Ø 5° 16,32′ til Strømnes N 60° 27,54′ Ø 5° 14,10
+4. Klubben ved Breivik. Askøy N 60° 27,90′ Ø 5° 4,38′
+5. Hjeltefjorden, fra Kalvsøyna N 60° 27,54′ Ø 5° 2,22′ til Vindeneskvarven N 60° 27,42′ Ø 4° 59,22′
+6. Solsviksundet ved Solsviksundet bro, N 60° 26,46′ Ø 4° 57,96′
+7. Svelgen ved Svelgen bro, N 60° 27,42′ Ø 4° 57,30′
+8. Skårasund bro, Øygarden, N 60° 27,48′ Ø 4° 56,04′
+9. Gloppholmen, Øygarden, N 60° 27,24′ Ø 4° 55,38′
+10. Søndagsholmen ved Turøy N 60° 26,76′ Ø 4° 54,24′ til åpen sjø N 60° 27,60′ Ø 4° 32,40′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 4: Nordhordland til Stad
 
-Produksjonsområde 4 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:Søndagsholmen ved Turøy N 60° 26,76′ Ø 4° 54,24′ til åpen sjø N 60° 27,33′ Ø 4° 39,60′Gloppholmen, Fjell 60° 27,24′ Ø 4° 55,38′Skårasund bro, Øygarden, N 60° 27,48′ Ø 4° 56,04′Svelgen ved Svelgen bro, N 60° 27,42′ Ø 4° 57,30′Solsviksundet ved Solsviksundet bro, N 60° 26,46′ Ø 4° 57,96′Hjeltefjorden, fra Kalvsøyna N 60° 27,54′ Ø 5° 2,22′ til Vindeneskvarven N 60° 27,42′ Ø 4° 59,22′Klubben ved Breivik, Askøy N 60° 27,90′ Ø 5° 4,38′Herdlefjorden, fra Tertnes N 60° 27,60′ Ø 5° 16,32′ til Strømnes N 60° 27,54′ Ø 5° 14,10Nobba (Stad) N 62° 11,64′ Ø 5° 06,06 til åpen sjø N 62° 18,00′ Ø 5° 02,40′.
+Produksjonsområde 4 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:
+
+1. Søndagsholmen ved Turøy N 60° 26,76′ Ø 4° 54,24′ til åpen sjø N 60° 27,33′ Ø 4° 39,60′
+2. Gloppholmen, Fjell 60° 27,24′ Ø 4° 55,38′
+3. Skårasund bro, Øygarden, N 60° 27,48′ Ø 4° 56,04′
+4. Svelgen ved Svelgen bro, N 60° 27,42′ Ø 4° 57,30′
+5. Solsviksundet ved Solsviksundet bro, N 60° 26,46′ Ø 4° 57,96′
+6. Hjeltefjorden, fra Kalvsøyna N 60° 27,54′ Ø 5° 2,22′ til Vindeneskvarven N 60° 27,42′ Ø 4° 59,22′
+7. Klubben ved Breivik, Askøy N 60° 27,90′ Ø 5° 4,38′
+8. Herdlefjorden, fra Tertnes N 60° 27,60′ Ø 5° 16,32′ til Strømnes N 60° 27,54′ Ø 5° 14,10
+9. Nobba (Stad) N 62° 11,64′ Ø 5° 06,06 til åpen sjø N 62° 18,00′ Ø 5° 02,40′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 5: Stad til Hustadvika
 
-Produksjonsområde 5 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:Nobba (Stad) N 62° 11,64′ Ø 5° 06,06′ til åpen sjø N 62° 18,00′ Ø 5° 02,40′Taskneset (Fræna) N 62° 59,28′ Ø 7° 06,30′ til åpen sjø N 63° 09,36′ Ø 6° 54,66′.
+Produksjonsområde 5 avgrenses ved 4 nautiske mil fra grunnlinjen og følgende linjer:
+
+1. Nobba (Stad) N 62° 11,64′ Ø 5° 06,06′ til åpen sjø N 62° 18,00′ Ø 5° 02,40′
+2. Taskneset (Fræna) N 62° 59,28′ Ø 7° 06,30′ til åpen sjø N 63° 09,36′ Ø 6° 54,66′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 6: Nordmøre og Sør-Trøndelag
 
-Produksjonsområde 6 avgrenses sør for 64° ved 8 nautiske mil fra grunnlinjen og 1 nautisk mil nord for 64° samt følgende linjer:Taskneset (Fræna) N 62° 59,28′ Ø 7° 06,30′ til åpen sjø N 63° 11,34′ Ø 6° 52,38′Gamle fylkesgrense ved Skjemta, Flatanger, N 64° 25,74′ Ø 10° 30,60′ til åpen sjø N 64° 31,44 Ø 9° 50,88′.
+Produksjonsområde 6 avgrenses sør for 64° ved 8 nautiske mil fra grunnlinjen og 1 nautisk mil nord for 64° samt følgende linjer:
+
+1. Taskneset (Fræna) N 62° 59,28′ Ø 7° 06,30′ til åpen sjø N 63° 11,34′ Ø 6° 52,38′
+2. Gamle fylkesgrense ved Skjemta, Flatanger, N 64° 25,74′ Ø 10° 30,60′ til åpen sjø N 64° 31,44 Ø 9° 50,88′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 7: Nord-Trøndelag og Bindal
 
-Produksjonsområde 7 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Gamle fylkesgrense ved Skjemta, Flatanger, N 64° 25,74′ Ø 10° 30,60′ til åpen sjø N 64° 49,80′ Ø 8° 58,20′Bro over Vennesundet N 65° 13,0′ Ø 12° 2,28′Einvikmoen, N 65° 13,77′ Ø 11° 58,32′Langøya ved Kvaløya (Sømna) N 65° 13,86′ Ø 11° 57,78′ til åpen sjø N 65° 29,40′ Ø 11° 04,80′.
+Produksjonsområde 7 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Gamle fylkesgrense ved Skjemta, Flatanger, N 64° 25,74′ Ø 10° 30,60′ til åpen sjø N 64° 49,80′ Ø 8° 58,20′
+2. Bro over Vennesundet N 65° 13,0′ Ø 12° 2,28′
+3. Einvikmoen, N 65° 13,77′ Ø 11° 58,32′
+4. Langøya ved Kvaløya (Sømna) N 65° 13,86′ Ø 11° 57,78′ til åpen sjø N 65° 29,40′ Ø 11° 04,80′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 8: Helgeland til Bodø
 
-Produksjonsområde 8 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Langøya ved Kvaløya (Sømna) N 65° 13,86′ Ø 11° 57,78′ til åpen sjø N 65° 29,40′ Ø 11° 04,80′Einvikmoen, N 65° 13,77′ Ø 11° 58,32′Bro over Vennesundet N 65° 13,0′ Ø 12° 2,28′Ytre Hernesskagen ved Bodø lufthavn N 67° 15,84′ Ø 14° 18,60′ til knutepunkt i Vestfjorden N 67° 25,80′ Ø 13° 24,00′.
+Produksjonsområde 8 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Langøya ved Kvaløya (Sømna) N 65° 13,86′ Ø 11° 57,78′ til åpen sjø N 65° 29,40′ Ø 11° 04,80′
+2. Einvikmoen, N 65° 13,77′ Ø 11° 58,32′
+3. Bro over Vennesundet N 65° 13,0′ Ø 12° 2,28′
+4. Ytre Hernesskagen ved Bodø lufthavn N 67° 15,84′ Ø 14° 18,60′ til knutepunkt i Vestfjorden N 67° 25,80′ Ø 13° 24,00′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 9: Vestfjorden og Vesterålen
 
-Produksjonsområde 9 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Ytre Hernesskagen ved Bodø lufthavn N 67° 15.84′ Ø 14° 18.60′ til knutepunkt i Vestfjorden N 67° 25.80′ Ø 13° 24.00′Tjeldsundbrua N 68° 37.68′ Ø 16° 34.68′Risøysundet fra Litle Risøya N 68° 57.66′ Ø 15° 39.18′ til N 68° 58.02′ Ø 15° 38.04′Andenes N 69° 19.20′ Ø 16° 07.32′ til åpen sjø N 69° 40.20′ N 69° 21,60′ Ø 16° 06,00′.
+Produksjonsområde 9 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Ytre Hernesskagen ved Bodø lufthavn N 67° 15.84′ Ø 14° 18.60′ til knutepunkt i Vestfjorden N 67° 25.80′ Ø 13° 24.00′
+2. Tjeldsundbrua N 68° 37.68′ Ø 16° 34.68′
+3. Risøysundet fra Litle Risøya N 68° 57.66′ Ø 15° 39.18′ til N 68° 58.02′ Ø 15° 38.04′
+4. Andenes N 69° 19.20′ Ø 16° 07.32′ til åpen sjø N 69° 40.20′ N 69° 21,60′ Ø 16° 06,00′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 10: Andøya til Senja
 
-Produksjonsområde 10 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Andenes N 69° 19,20′ Ø 16° 07,32′ til åpen sjø N 69° 21,60′ Ø 16° 06,00′Risøysundet fra Litle Risøya N 68° 57,66′ Ø 15° 39,18′ til N 68° 58,02′ Ø 15° 38,04′Tjelsundbrua N 68° 37,68′ Ø 16° 34,68′Straumfjorden fra Andstraumneset N 69° 32,64′ Ø 18° 44,52′ til Hella N 69° 33,48′ Ø 18° 44,04′Sommarøybrua, N 69° 37,38′ Ø 18° 02,82′Hillesøybrua, N 69° 38,16′ Ø 18° 00,06′Barden ved Hillesøya N 69° 38,64′ Ø 17° 56,94′ til åpen sjø N 69° 48,00′ Ø 17° 45,00′.
+Produksjonsområde 10 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Andenes N 69° 19,20′ Ø 16° 07,32′ til åpen sjø N 69° 21,60′ Ø 16° 06,00′
+2. Risøysundet fra Litle Risøya N 68° 57,66′ Ø 15° 39,18′ til N 68° 58,02′ Ø 15° 38,04′
+3. Tjelsundbrua N 68° 37,68′ Ø 16° 34,68′
+4. Straumfjorden fra Andstraumneset N 69° 32,64′ Ø 18° 44,52′ til Hella N 69° 33,48′ Ø 18° 44,04′
+5. Sommarøybrua, N 69° 37,38′ Ø 18° 02,82′
+6. Hillesøybrua, N 69° 38,16′ Ø 18° 00,06′
+7. Barden ved Hillesøya N 69° 38,64′ Ø 17° 56,94′ til åpen sjø N 69° 48,00′ Ø 17° 45,00′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 11: Kvaløya til Loppa
 
-Produksjonsområde 11 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Barden ved Hillesøya N 69° 38,64′ Ø 17° 56,94′ til åpen sjø N 69° 48,00′ Ø 17° 45,00Hillesøybrua, N 69° 38,16′ Ø 18° 00,06′Sommarøybrua, N 69° 37,38′ Ø 18° 02,82′Straumfjorden fra Andstraumneset N 69° 32,64′ Ø 18° 44,52′ til Hella N 69° 33,48′ Ø 18° 44,04′Fylkesgrense sør for Andsnes, N 70° 13,38′ Ø 21° 12,00′ til åpen sjø N 70° 34,20′ Ø 20° 55,80′.
+Produksjonsområde 11 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Barden ved Hillesøya N 69° 38,64′ Ø 17° 56,94′ til åpen sjø N 69° 48,00′ Ø 17° 45,00
+2. Hillesøybrua, N 69° 38,16′ Ø 18° 00,06′
+3. Sommarøybrua, N 69° 37,38′ Ø 18° 02,82′
+4. Straumfjorden fra Andstraumneset N 69° 32,64′ Ø 18° 44,52′ til Hella N 69° 33,48′ Ø 18° 44,04′
+5. Fylkesgrense sør for Andsnes, N 70° 13,38′ Ø 21° 12,00′ til åpen sjø N 70° 34,20′ Ø 20° 55,80′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 12: Vest-Finnmark
 
-Produksjonsområde 12 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:Fylkesgrense sør for Andsnes, N 70° 13,38′ Ø 21° 12,00′ til åpen sjø N 70° 34,20′ Ø 20° 55,80′Bispen ved Gamvik, N 71° 05,28′ Ø 28° 03,36′ til åpen sjø N 70° 52,20′ Ø 20° 34,80′.
+Produksjonsområde 12 avgrenses ved 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Fylkesgrense sør for Andsnes, N 70° 13,38′ Ø 21° 12,00′ til åpen sjø N 70° 34,20′ Ø 20° 55,80′
+2. Bispen ved Gamvik, N 71° 05,28′ Ø 28° 03,36′ til åpen sjø N 70° 52,20′ Ø 20° 34,80′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).
 
 ### Område 13: Øst-Finnmark
 
-Produksjonsområde 13 avgrenses av norsk økonomisk sone opp til 1 nautisk mil fra grunnlinjen og følgende linjer:Bispen ved Gamvik, N 71° 05,28′ Ø 28° 03,36′ til åpen sjø N 71° 07,80′ Ø 28° 04,80′Grense mot Russland, sørøst for Skjergardsneset, N 69° 47,22′ Ø 30° 49,20′ til åpen sjø N 69° 59,40′ Ø 30° 58,20′.
+Produksjonsområde 13 avgrenses av norsk økonomisk sone opp til 1 nautisk mil fra grunnlinjen og følgende linjer:
+
+1. Bispen ved Gamvik, N 71° 05,28′ Ø 28° 03,36′ til åpen sjø N 71° 07,80′ Ø 28° 04,80′
+2. Grense mot Russland, sørøst for Skjergardsneset, N 69° 47,22′ Ø 30° 49,20′ til åpen sjø N 69° 59,40′ Ø 30° 58,20′.
 
 > Endret ved forskrift [7 nov 2022 nr. 1928](forskrift/2022-11-07-1928).

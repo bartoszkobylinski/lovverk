@@ -15,7 +15,7 @@ xml_hash: "3e1af14f2b60e93a3b2f8540c1fa0b7d71f50739497c90becfc8b2c7ef03f42c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Norsk [straffelov](lov/2005-05-20-28) får anvendelse på handlinger som nevnt i
 
 ## § 5. Erstatning
 
-Skade som skjer i forbindelse med en aksjon som norske myndigheter foretar ombord på et utenlandsk fartøy i medhold av europarådsavtalen, skal erstattes av norske myndigheter dersom:norske myndigheter har opptrådt uaktsomt når det treffes tiltak etter avtalen art. 9 og 10,tiltak er gjennomført på en måte som ikke er hjemlet i avtalen, ellermistanken om narkotikatrafikk viser seg å være ugrunnet, forutsatt at fartøyet, rederen eller besetningen ikke har foretatt seg noe som gir grunn til mistanken.
+Skade som skjer i forbindelse med en aksjon som norske myndigheter foretar ombord på et utenlandsk fartøy i medhold av europarådsavtalen, skal erstattes av norske myndigheter dersom:
+
+1. norske myndigheter har opptrådt uaktsomt når det treffes tiltak etter avtalen art. 9 og 10,
+2. tiltak er gjennomført på en måte som ikke er hjemlet i avtalen, eller
+3. mistanken om narkotikatrafikk viser seg å være ugrunnet, forutsatt at fartøyet, rederen eller besetningen ikke har foretatt seg noe som gir grunn til mistanken.
 
 Dersom utenlandske myndigheter har anmodet om Norges bistand for å hindre narkotikatrafikk på statens fartøy i samsvar med europarådsavtalen art. 4, er norske myndigheter erstatningsansvarlig for uaktsomt voldt skade.
 

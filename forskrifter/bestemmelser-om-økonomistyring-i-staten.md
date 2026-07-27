@@ -15,7 +15,7 @@ xml_hash: "4667c7e3633265fdc1b1cf788799e76de575f4ee6ada2ff75582e6c3ab1f2d99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,13 +104,29 @@ Bestemmelsene i kapitlet gjelder for styring av alle statlige forvaltningsorgane
 
 Departementet har ansvar for organiseringen av sitt ansvarsområde gjennom opprettelse og avvikling av underliggende virksomheter, og flytting av ansvarsområder mellom underliggende virksomheter.
 
-Statlige virksomheter under departementene må oppfylle følgende kriterier:Departementet har fastsatt instrukser for enheten i tråd med bestemmelsene i [pkt. 1.3](forskrift/2003-12-12-1939/kap1.3).Enheten mottar bevilgninger og/eller andre budsjettfullmakter gitt av Stortinget som et ordinært forvaltningsorgan, et forvaltningsorgan med særskilte fullmakter eller en forvaltningsbedrift.De ansatte er underlagt [lov om statens ansatte mv. (statsansatteloven)](lov/2017-06-16-67) og [lov om offentlige tjenestetvister](lov/1958-07-18-2) og det statlige tariffområdet, med mindre det er fastsatt unntak fra virkeområdet.Enheten mottar tildelingsbrev i tråd med bestemmelsene i [pkt. 1.5](forskrift/2003-12-12-1939/kap1.5).Enheten rapporterer regnskapsopplysninger til statsregnskapet i tråd med bestemmelsene i [pkt. 3.5](forskrift/2003-12-12-1939/kap3.5).Enheten utarbeider egen årsrapport med et årsregnskap i tråd med bestemmelsene i [pkt. 2.3.3](forskrift/2003-12-12-1939/kap2.3.3) og [3.4](forskrift/2003-12-12-1939/kap3.4).Enhetens betalingsformidling skjer gjennom statens konsernkontoordning i tråd med bestemmelsene i pkt. 3.7.1.En virksomhet er direkte underlagt et departement.
+Statlige virksomheter under departementene må oppfylle følgende kriterier:
+
+1. Departementet har fastsatt instrukser for enheten i tråd med bestemmelsene i [pkt. 1.3](forskrift/2003-12-12-1939/kap1.3).
+2. Enheten mottar bevilgninger og/eller andre budsjettfullmakter gitt av Stortinget som et ordinært forvaltningsorgan, et forvaltningsorgan med særskilte fullmakter eller en forvaltningsbedrift.
+3. De ansatte er underlagt [lov om statens ansatte mv. (statsansatteloven)](lov/2017-06-16-67) og [lov om offentlige tjenestetvister](lov/1958-07-18-2) og det statlige tariffområdet, med mindre det er fastsatt unntak fra virkeområdet.
+4. Enheten mottar tildelingsbrev i tråd med bestemmelsene i [pkt. 1.5](forskrift/2003-12-12-1939/kap1.5).
+5. Enheten rapporterer regnskapsopplysninger til statsregnskapet i tråd med bestemmelsene i [pkt. 3.5](forskrift/2003-12-12-1939/kap3.5).
+6. Enheten utarbeider egen årsrapport med et årsregnskap i tråd med bestemmelsene i [pkt. 2.3.3](forskrift/2003-12-12-1939/kap2.3.3) og [3.4](forskrift/2003-12-12-1939/kap3.4).
+7. Enhetens betalingsformidling skjer gjennom statens konsernkontoordning i tråd med bestemmelsene i pkt. 3.7.1.
+8. En virksomhet er direkte underlagt et departement.
 
 De fastsatte kriteriene skal benyttes av departementene ved vurderinger og beslutninger om organiseringen av sitt ansvarsområde. En statlig virksomhet må oppfylle alle kriteriene i bokstavene a til h.
 
 ### 1.3 Myndighet og ansvar
 
-Departementet har overordnet ansvar for atvirksomheten gjennomfører aktiviteter i tråd med Stortingets vedtak og forutsetninger og departementets fastsatte mål og prioriteringervirksomheten bruker ressurser effektivtstyringsdialogen mellom departementet og virksomheten fungerer på en hensiktsmessig måtevirksomheten rapporterer relevant og pålitelig resultat- og regnskapsinformasjondet gjennomføres kontroll med virksomheten og at virksomheten har forsvarlig internkontrollevalueringer gjennomføres.
+Departementet har overordnet ansvar for at
+
+1. virksomheten gjennomfører aktiviteter i tråd med Stortingets vedtak og forutsetninger og departementets fastsatte mål og prioriteringer
+2. virksomheten bruker ressurser effektivt
+3. styringsdialogen mellom departementet og virksomheten fungerer på en hensiktsmessig måte
+4. virksomheten rapporterer relevant og pålitelig resultat- og regnskapsinformasjon
+5. det gjennomføres kontroll med virksomheten og at virksomheten har forsvarlig internkontroll
+6. evalueringer gjennomføres.
 
 Departementet skal fastsette instrukser som beskriver myndighet og ansvar mellom departementet og virksomheten, herunder de innbyrdes forhold mellom departementet, eventuelt styre og virksomhetslederen. Gjeldende instrukser til underliggende virksomheter, herunder eventuelle styreinstrukser, skal være publisert på departementets nettsider.
 
@@ -128,7 +144,14 @@ Departementet skal planlegge sin styring av virksomheten med både ettårig og f
 
 Departementet skal følge opp Stortingets vedtak og forutsetninger i det årlige tildelingsbrevet til virksomheten.
 
-Tildelingsbrevet skal blant annet inneholdeoverordnede mål med angivelse av strategiske utfordringer og satsingsområderstyringsparametere for å kunne vurdere måloppnåelse og resultater, som skal være mest mulig stabile over tidtildelt beløp fordelt på kapitler og poster og beløp som forutsettes inntjentadministrative fullmakter og budsjettmessige fullmakter i henhold til Stortingets vedtak og forutsetningerkrav til innholdet i årsrapporten og til annen rapporteringomtale av eventuelle evalueringer som skal igangsettes.
+Tildelingsbrevet skal blant annet inneholde
+
+1. overordnede mål med angivelse av strategiske utfordringer og satsingsområder
+2. styringsparametere for å kunne vurdere måloppnåelse og resultater, som skal være mest mulig stabile over tid
+3. tildelt beløp fordelt på kapitler og poster og beløp som forutsettes inntjent
+4. administrative fullmakter og budsjettmessige fullmakter i henhold til Stortingets vedtak og forutsetninger
+5. krav til innholdet i årsrapporten og til annen rapportering
+6. omtale av eventuelle evalueringer som skal igangsettes.
 
 Departementet kan holde deler av bevilgningen tilbake som reserve for senere disponering gjennom året.
 
@@ -148,7 +171,14 @@ Departementet skal i samråd med virksomheten definere behov og avtale omfang og
 
 Departementet skal stille nærmere krav til innholdet i årsrapporten fra virksomheten, jf. pkt. 1.5. Kravene må utformes innenfor rammen av bestemmelsene om virksomhetens årsrapport omtalt i dette kapitlet og i kap. 2 og 3.
 
-Årsrapporten skal inneholde seks deler, med følgende benevnelse og rekkefølge:Leders beretningIntroduksjon til virksomheten og hovedtallÅrets aktiviteter og resultaterStyring og kontroll i virksomhetenVurdering av framtidsutsikterÅrsregnskap.
+Årsrapporten skal inneholde seks deler, med følgende benevnelse og rekkefølge:
+
+1. Leders beretning
+2. Introduksjon til virksomheten og hovedtall
+3. Årets aktiviteter og resultater
+4. Styring og kontroll i virksomheten
+5. Vurdering av framtidsutsikter
+6. Årsregnskap.
 
 Frist for virksomhetens oversendelse av årsrapporten til departementet er 15. mars. Departementet kan fastsette en tidligere frist.
 
@@ -182,7 +212,13 @@ Bestemmelsene i kap. 1 om departementets styring av underliggende virksomheter k
 
 ### 2.2 Myndighet og ansvar
 
-Virksomhetens ledelse har ansvaret for ågjennomføre aktiviteter i tråd med Stortingets vedtak og forutsetninger og fastsatte mål og prioriteringer fra departementetfastsette mål og resultatkrav og foreta prioriteringer med ettårig og flerårig perspektiv innenfor eget ansvarsområdesørge for planlegging, gjennomføring og oppfølging, herunder resultat- og regnskapsrapporteringdefinere myndighet og ansvar og fastsette instrukser innenfor eget ansvarsområde for å sikre oppfyllelse av reglementet og bestemmelsene, herunder ansvarsforhold mellom virksomhetslederen og øvrig ledelse, eventuelt styreetablere internkontroll.
+Virksomhetens ledelse har ansvaret for å
+
+1. gjennomføre aktiviteter i tråd med Stortingets vedtak og forutsetninger og fastsatte mål og prioriteringer fra departementet
+2. fastsette mål og resultatkrav og foreta prioriteringer med ettårig og flerårig perspektiv innenfor eget ansvarsområde
+3. sørge for planlegging, gjennomføring og oppfølging, herunder resultat- og regnskapsrapportering
+4. definere myndighet og ansvar og fastsette instrukser innenfor eget ansvarsområde for å sikre oppfyllelse av reglementet og bestemmelsene, herunder ansvarsforhold mellom virksomhetslederen og øvrig ledelse, eventuelt styre
+5. etablere internkontroll.
 
 Systemer og rutiner skal være tilpasset risiko og vesentlighet.
 
@@ -200,7 +236,12 @@ Virksomhetens ledelse skal planlegge og utarbeide strategier med ettårig og fle
 
 Virksomheten har ansvar for at mål og eventuelle resultatkrav fastsatt i tildelingsbrev, andre vedtak og interne styringsdokumenter følges opp og gjennomføres innenfor rammen av tildelte ressurser. Virksomheten skal publisere tildelingsbrevet og eventuelle supplerende tildelingsbrev på sine nettsider så snart de er mottatt.
 
-Det må etableres løpende informasjons- og kommunikasjonsrutiner for rapportering og gjennomføring av planer. Den interne styringen skal være innrettet slik atden tilfredsstiller kravene til resultat- og regnskapsrapportering gitt av overordnet myndighet og andrevirksomheten har nødvendig styringsinformasjon og beslutningsgrunnlag til å følge opp aktivitetene og resultatenevirksomhetens økonomisystem sammen med statistikk, analyser og andre relevante systemer belyser om virksomheten drives effektivt i forhold til kostnader og fastsatte mål og resultatkravutgifter følges opp mot bevilgning for å sikre at det ikke skjer uhjemlede overskridelser og at forutsatte inntekter kommer inn.
+Det må etableres løpende informasjons- og kommunikasjonsrutiner for rapportering og gjennomføring av planer. Den interne styringen skal være innrettet slik at
+
+1. den tilfredsstiller kravene til resultat- og regnskapsrapportering gitt av overordnet myndighet og andre
+2. virksomheten har nødvendig styringsinformasjon og beslutningsgrunnlag til å følge opp aktivitetene og resultatene
+3. virksomhetens økonomisystem sammen med statistikk, analyser og andre relevante systemer belyser om virksomheten drives effektivt i forhold til kostnader og fastsatte mål og resultatkrav
+4. utgifter følges opp mot bevilgning for å sikre at det ikke skjer uhjemlede overskridelser og at forutsatte inntekter kommer inn.
 
 Resultatinformasjonen skal benyttes i virksomhetens planlegging for de påfølgende år.
 
@@ -226,9 +267,23 @@ Plikten til å utarbeide årsrapport gjelder ikke departementene. Det enkelte de
 
 Alle virksomheter skal etablere internkontroll. Virksomhetens ledelse har ansvaret for å påse at internkontrollen er tilpasset risiko og vesentlighet, at den fungerer på en tilfredsstillende måte og at den kan dokumenteres. Internkontroll skal primært være innebygd i virksomhetens interne styring.
 
-Internkontrollen skal forhindre styringssvikt, feil og mangler slik atbeløpsmessige rammer ikke overskrides og at forutsatte inntekter kommer innmåloppnåelse og resultater står i et tilfredsstillende forhold til fastsatte mål og resultatkrav, og at eventuelle vesentlige avvik forebygges, avdekkes og korrigeres i nødvendig utstrekningressursbruken er effektivregnskap og informasjon om resultater er pålitelig og nøyaktigvirksomhetens verdier, herunder fast eiendom, materiell, utstyr, verdipapirer og andre økonomiske verdier, forvaltes på en forsvarlig måteøkonomistyringen er organisert på en forsvarlig måte og utføres i samsvar med gjeldende lover og regler, herunder at transaksjoner er i samsvar med underliggende forholdmisligheter og økonomisk kriminalitet forebygges og avdekkes.
+Internkontrollen skal forhindre styringssvikt, feil og mangler slik at
 
-For å kunne utøve nødvendig internkontroll, skal virksomhetens ledelse etablere systemer, rutiner og tiltak med vekt på blant annet følgende faktorer:ledelsens og ansattes kompetanse og holdning til resultatoppfølging og kontrollidentifisering av risikofaktorer som kan medvirke til at virksomhetens mål ikke nås, og korrigerende tiltak som med rimelighet kan redusere sannsynligheten for manglende måloppnåelsesikring av kvaliteten i den interne styringen, herunder forsvarlig arbeidsdeling, og produktivitet i arbeidsprosesseneinformasjonsrutiner som sikrer at viktig og pålitelig informasjon av betydning for måloppnåelsen kommuniseres på en effektiv måterutiner for behandling og lagring av vesentlig informasjon som sikrer konfidensialitet, integritet og tilgjengelighet.
+1. beløpsmessige rammer ikke overskrides og at forutsatte inntekter kommer inn
+2. måloppnåelse og resultater står i et tilfredsstillende forhold til fastsatte mål og resultatkrav, og at eventuelle vesentlige avvik forebygges, avdekkes og korrigeres i nødvendig utstrekning
+3. ressursbruken er effektiv
+4. regnskap og informasjon om resultater er pålitelig og nøyaktig
+5. virksomhetens verdier, herunder fast eiendom, materiell, utstyr, verdipapirer og andre økonomiske verdier, forvaltes på en forsvarlig måte
+6. økonomistyringen er organisert på en forsvarlig måte og utføres i samsvar med gjeldende lover og regler, herunder at transaksjoner er i samsvar med underliggende forhold
+7. misligheter og økonomisk kriminalitet forebygges og avdekkes.
+
+For å kunne utøve nødvendig internkontroll, skal virksomhetens ledelse etablere systemer, rutiner og tiltak med vekt på blant annet følgende faktorer:
+
+1. ledelsens og ansattes kompetanse og holdning til resultatoppfølging og kontroll
+2. identifisering av risikofaktorer som kan medvirke til at virksomhetens mål ikke nås, og korrigerende tiltak som med rimelighet kan redusere sannsynligheten for manglende måloppnåelse
+3. sikring av kvaliteten i den interne styringen, herunder forsvarlig arbeidsdeling, og produktivitet i arbeidsprosessene
+4. informasjonsrutiner som sikrer at viktig og pålitelig informasjon av betydning for måloppnåelsen kommuniseres på en effektiv måte
+5. rutiner for behandling og lagring av vesentlig informasjon som sikrer konfidensialitet, integritet og tilgjengelighet.
 
 Internkontrollen skal også ha til hensikt å forebygge og avdekke tilsiktede handlinger utført i strid med gjeldende lover og regler, som eksempelvis manipulasjon, forfalskning eller endring av regnskapsdata eller annen resultatinformasjon. [Statens personalhåndbok](litteratur/sph) inneholder retningslinjer for behandling av saker om underslag, korrupsjon, tyveri, bedrageri og utroskap i statstjenesten, herunder at Riksrevisjonen skal underrettes omgående av virksomheten som oppdager mislighetene.
 
@@ -258,7 +313,11 @@ Alle disposisjoner som medfører økonomiske forpliktelser for virksomheten, ska
 
 Delegering av budsjettdisponeringsmyndighet skal være skriftlig. Virksomheten skal ha rutiner for tilfredsstillende oppfølging av delegert budsjettdisponeringsmyndighet.
 
-Før en ansatt med budsjettdisponeringsmyndighet gjennomfører disposisjoner, skal vedkommendepåse at det er hjemmel for disposisjonen i stortingsvedtak, tildelingsbrev eller andre vedtak og at disposisjonen ellers er i overensstemmelse med gjeldende lover og reglerpåse at det er budsjettmessig dekning for utbetalingenpåse at disposisjonen er økonomisk forsvarlig.
+Før en ansatt med budsjettdisponeringsmyndighet gjennomfører disposisjoner, skal vedkommende
+
+1. påse at det er hjemmel for disposisjonen i stortingsvedtak, tildelingsbrev eller andre vedtak og at disposisjonen ellers er i overensstemmelse med gjeldende lover og regler
+2. påse at det er budsjettmessig dekning for utbetalingen
+3. påse at disposisjonen er økonomisk forsvarlig.
 
 Kravet om bekreftelse av en ansatt som har budsjettdisponeringsmyndighet, gjelder også ved utbetalinger som følge av tilbakebetaling av skatter, avgifter, gebyrer, feilinnbetalinger m.m. Kravet om slik bekreftelse gjelder videre ved utbetalinger av lån.
 
@@ -288,7 +347,13 @@ Kontroll av betalingsoppdrag er omtalt i pkt. 3.7.3. Nærmere krav til systemer 
 
 ### 2.5.3 Transaksjonskontroll av inntekter
 
-Det skal normalt utføres transaksjonskontroller i tilknytning tilfastsettelse av krav; rettet mot identifikasjon av aktuelle kravutstedelse av faktura; rettet mot korrekt fakturering av identifiserte kravbokføring; rettet mot bokføringsgrunnlag, kontering og posteringinnbetaling; av reskontroføring av innbetalingeroppfølging; rettet mot innkreving og regnskapsmessig behandling av opphørte krav.
+Det skal normalt utføres transaksjonskontroller i tilknytning til
+
+1. fastsettelse av krav; rettet mot identifikasjon av aktuelle krav
+2. utstedelse av faktura; rettet mot korrekt fakturering av identifiserte krav
+3. bokføring; rettet mot bokføringsgrunnlag, kontering og postering
+4. innbetaling; av reskontroføring av innbetalinger
+5. oppfølging; rettet mot innkreving og regnskapsmessig behandling av opphørte krav.
 
 Transaksjonskontrollene for overføring av data eller kontroll av elektroniske signaturer kan være maskinelle (automatiske). Stikkprøvekontroller kan gjennomføres som alternativ til fullstendig kontroll av enkeltkrav, basert på en vurdering av risiko og vesentlighet.
 
@@ -310,7 +375,11 @@ Virksomheten bestemmer hvordan organiseringen av økonomioppgavene legges opp, i
 
 Virksomhetsleder har et selvstendig ansvar for økonomioppgavene, uavhengig av om deler av oppgavene utføres av andre.
 
-Følgende tre hovedmodeller for arbeidsdeling mellom virksomheten og andre i eller utenfor staten kan benyttes:Andre statlige virksomheter under eget eller et annet departementsområde og som ikke er tjenesteyter, kan utføre deler av økonomioppgavene for virksomheten. Virksomheten skal selv ivareta utøvelse av budsjettdisponeringsmyndighet og påse korrekt fastsetting av inntektskrav, jf. pkt. 2.5. For modell I kan virksomheten etter en vurdering av internkontrollen avtale at attestasjon kan utføres av en annen statlig virksomhet.Private eller statlige tjenesteytere kan gi tilgang for virksomheten til og drifte IKT-infrastruktur og økonomisystem, herunder hjelpesystemer for elektronisk fakturering. Virksomheten skal sende skriftlig melding til Finansdepartementet når slik avtale er inngått, herunder om hvilke tjenester avtalen omfatter.Private eller statlige tjenesteytere godkjent av Finansdepartementet kan utføre integrerte lønns- og økonomitjenester for virksomheten. Virksomheten skal selv ivareta utøvelse av budsjettdisponeringsmyndighet og påse korrekt fastsetting av inntektskrav samt ivareta attestasjon av utgifter, jf. pkt. 2.5.
+Følgende tre hovedmodeller for arbeidsdeling mellom virksomheten og andre i eller utenfor staten kan benyttes:
+
+1. Andre statlige virksomheter under eget eller et annet departementsområde og som ikke er tjenesteyter, kan utføre deler av økonomioppgavene for virksomheten. Virksomheten skal selv ivareta utøvelse av budsjettdisponeringsmyndighet og påse korrekt fastsetting av inntektskrav, jf. pkt. 2.5. For modell I kan virksomheten etter en vurdering av internkontrollen avtale at attestasjon kan utføres av en annen statlig virksomhet.
+2. Private eller statlige tjenesteytere kan gi tilgang for virksomheten til og drifte IKT-infrastruktur og økonomisystem, herunder hjelpesystemer for elektronisk fakturering. Virksomheten skal sende skriftlig melding til Finansdepartementet når slik avtale er inngått, herunder om hvilke tjenester avtalen omfatter.
+3. Private eller statlige tjenesteytere godkjent av Finansdepartementet kan utføre integrerte lønns- og økonomitjenester for virksomheten. Virksomheten skal selv ivareta utøvelse av budsjettdisponeringsmyndighet og påse korrekt fastsetting av inntektskrav samt ivareta attestasjon av utgifter, jf. pkt. 2.5.
 
 For modell I og modell III kan virksomheten etter en vurdering av internkontrollen avtale at en annen statlig virksomhet eller en statlig tjenesteyter gis fullmakt til å autorisere betalingsoppdrag på vegne av virksomheten.
 
@@ -342,7 +411,12 @@ Formålet med kapitlet er å sikre at virksomhetene anvender fullstendige og kon
 
 Stortinget er bevilgende myndighet og vedtar statsbudsjettet, jf. [Grunnloven § 75](lov/1814-05-17/§75). Regjeringen legger fram forslag til statsbudsjett for Stortinget i tråd med [bevilgningsreglementet](forskrift/2005-05-26-876).
 
-Etter [bevilgningsreglementet § 3](forskrift/2005-05-26-876/§3) gjelder følgende grunnleggende prinsipper for statsbudsjettet:Budsjettet vedtas for kalenderåret.Budsjettet skal inneholde alle statlige utgifter og inntekter knyttet til virksomheter og tiltak som får sine utgifter og inntekter fastsatt ved Stortingets bevilgningsvedtak. Bevilgningene skal være basert på realistiske anslag over utgiftene og inntektene.Utgifter og inntekter skal tas med i budsjettet for det året de antas å bli kontant betalt.Utgifter og inntekter skal føres opp i budsjettet med brutto beløp.
+Etter [bevilgningsreglementet § 3](forskrift/2005-05-26-876/§3) gjelder følgende grunnleggende prinsipper for statsbudsjettet:
+
+1. Budsjettet vedtas for kalenderåret.
+2. Budsjettet skal inneholde alle statlige utgifter og inntekter knyttet til virksomheter og tiltak som får sine utgifter og inntekter fastsatt ved Stortingets bevilgningsvedtak. Bevilgningene skal være basert på realistiske anslag over utgiftene og inntektene.
+3. Utgifter og inntekter skal tas med i budsjettet for det året de antas å bli kontant betalt.
+4. Utgifter og inntekter skal føres opp i budsjettet med brutto beløp.
 
 Departementet og underliggende virksomheter skal utarbeide budsjettforslag til Stortinget i samsvar med prinsippene fastsatt i [bevilgningsreglementet §§ 3](forskrift/2005-05-26-876/§3)–[9](forskrift/2005-05-26-876/§9), jf. [reglement for økonomistyring i staten § 5](forskrift/2003-12-12-1938/§5). Budsjettforslaget skal følge statens kontoplan med inndeling i kapitler og poster, jf. Finansdepartementets rundskriv R-101. Arbeidet med budsjettforslaget inklusive budsjettproposisjonen skal utføres i samsvar med retningslinjer fastsatt av Finansdepartementet i årlige rundskriv.
 
@@ -378,7 +452,12 @@ Virksomhetens regnskapsprinsipper skal være dokumentert og konsistent over tid.
 
 Pliktig regnskapsrapportering er avgivelse av historiske regnskapsopplysninger til eksterne parter, gitt i skriftlig form til fastsatt tidspunkt og med et forhåndsdefinert innhold. For statlige virksomheter omfatter dette rapportering til statsregnskapet, med bevilgningsregnskapet og kapitalregnskapet, oversendelse av avlagt årsregnskap til departementet og annen rapportering fastsatt i eller med hjemmel i lov.
 
-Virksomhetens ledelse skal sikre at pliktig regnskapsrapporteringhar tilfredsstillende kvalitet både periodevis og ved årets sluttfølger de til enhver tid gjeldende bestemmelser og eventuelle standarder for regnskapsføring fastsatt av Finansdepartementet i disse bestemmelsene og i rundskriv, herunder overholder fastsatte tidsfrister og krav til form og innholder i samsvar med krav fra overordnet departement, belastningsfullmakter og andre vedtaker i henhold til bestemmelser om bokføring og økonomisystem, jf. [kap. 4](forskrift/2003-12-12-1938/kapIV).
+Virksomhetens ledelse skal sikre at pliktig regnskapsrapportering
+
+1. har tilfredsstillende kvalitet både periodevis og ved årets slutt
+2. følger de til enhver tid gjeldende bestemmelser og eventuelle standarder for regnskapsføring fastsatt av Finansdepartementet i disse bestemmelsene og i rundskriv, herunder overholder fastsatte tidsfrister og krav til form og innhold
+3. er i samsvar med krav fra overordnet departement, belastningsfullmakter og andre vedtak
+4. er i henhold til bestemmelser om bokføring og økonomisystem, jf. [kap. 4](forskrift/2003-12-12-1938/kapIV).
 
 ### 3.3.3 Virksomhetens kontoplan
 
@@ -394,7 +473,11 @@ Departementet må vurdere behovet for å samordne virksomhetenes tilpasninger av
 
 Virksomheten skal ved årets slutt utarbeide og avlegge et årsregnskap med noter i tråd med disse bestemmelsene, rundskriv R-115 fra Finansdepartementet og krav fra overordnet departement. Årsregnskapet skal gi et dekkende bilde av virksomhetens disponible bevilgninger og av regnskapsførte utgifter, inntekter, eiendeler og gjeld. Årsregnskapet skal vise regnskapstall for hele virksomheten samlet.
 
-Virksomhetens årsregnskap skal inneholde tre deler:ledelseskommentareroppstilling av bevilgningsrapporteringoppstilling av artskontorapportering.
+Virksomhetens årsregnskap skal inneholde tre deler:
+
+- ledelseskommentarer
+- oppstilling av bevilgningsrapportering
+- oppstilling av artskontorapportering.
 
 I tillegg skal årsregnskapet inneholde en oppstilling av virksomhetsregnskapet når virksomheten fører regnskapet etter periodiseringsprinsippet i henhold til de statlige regnskapsstandardene (SRS), jf. pkt. 3.3.2.
 
@@ -408,7 +491,12 @@ Plikten til å utarbeide og avlegge et årsregnskap i tråd med disse bestemmels
 
 ### 3.4.2 Grunnleggende prinsipper for årsregnskap
 
-Årsregnskap skal utarbeides i samsvar med følgende grunnleggende prinsipper:Regnskapet skal følge kalenderåret (ettårsprinsippet).Regnskapet skal inneholde alle utgifter og inntekter for regnskapsåret (fullstendighetsprinsippet).Regnskapet skal utarbeides i tråd med kontantprinsippet.Utgifter og inntekter skal føres opp i regnskapet med brutto beløp (bruttoprinsippet).
+Årsregnskap skal utarbeides i samsvar med følgende grunnleggende prinsipper:
+
+1. Regnskapet skal følge kalenderåret (ettårsprinsippet).
+2. Regnskapet skal inneholde alle utgifter og inntekter for regnskapsåret (fullstendighetsprinsippet).
+3. Regnskapet skal utarbeides i tråd med kontantprinsippet.
+4. Utgifter og inntekter skal føres opp i regnskapet med brutto beløp (bruttoprinsippet).
 
 De grunnleggende prinsippene for årsregnskapet er de samme som gjelder for statsbudsjettet og statsregnskapet, jf. pkt. 3.2.1 og pkt. 3.5.2, da regnskapet blant annet skal gi grunnlag for kontroll med disponeringen av gitte bevilgninger, jf. pkt. 3.3.2.
 
@@ -444,17 +532,27 @@ Virksomheter som fører regnskapet etter periodiseringsprinsippet i henhold til 
 
 ### 3.4.4 Spesielle tilpasninger for forvaltningsorganer med særskilte fullmakter
 
-Forvaltningsorganer med særskilte fullmakter til bruttoføring utenfor statsbudsjettet («nettobudsjetterte virksomheter») skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasninger:Oppstillingen av bevilgningsrapporteringen skal settes opp etter en forenklet oppstillingsplan.Oppstillingen av artskontorapporteringen skal ikke inngå i årsregnskapet.Oppstillingen av virksomhetsregnskapet skal utarbeides og presenteres etter de statlige regnskapsstandardene (SRS).
+Forvaltningsorganer med særskilte fullmakter til bruttoføring utenfor statsbudsjettet («nettobudsjetterte virksomheter») skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasninger:
+
+- Oppstillingen av bevilgningsrapporteringen skal settes opp etter en forenklet oppstillingsplan.
+- Oppstillingen av artskontorapporteringen skal ikke inngå i årsregnskapet.
+- Oppstillingen av virksomhetsregnskapet skal utarbeides og presenteres etter de statlige regnskapsstandardene (SRS).
 
 ### 3.4.5 Spesielle tilpasninger for forvaltningsbedrifter
 
-Forvaltningsbedrifter rapporterer til statsregnskapet med noen tilpasninger som fremgår av pkt. 3.5.5. Virksomhetene skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasning:Oppstillingen av bevilgningsrapporteringen skal utarbeides slik at post 24 med underposter og beregning av driftsresultat presenteres samlet.
+Forvaltningsbedrifter rapporterer til statsregnskapet med noen tilpasninger som fremgår av pkt. 3.5.5. Virksomhetene skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasning:
+
+- Oppstillingen av bevilgningsrapporteringen skal utarbeides slik at post 24 med underposter og beregning av driftsresultat presenteres samlet.
 
 ### 3.4.6 Spesielle tilpasninger for statlige fond
 
 Virksomheter som forvalter statlige fond, jf. pkt. 3.6.4, skal avlegge et eget årsregnskap for hvert fond.
 
-Forvaltningen av statlige fond skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasninger:Oppstillingen av bevilgningsrapporteringen skal settes opp etter en forenklet oppstillingsplan med tilhørende note.Oppstillingen av artskontorapporteringen skal ikke inngå i årsregnskapet.Oppstillingen av fondsregnskapet skal vise alle fondets utgifter, inntekter, eiendeler, fondskapital og eventuell gjeld.
+Forvaltningen av statlige fond skal følge bestemmelsene som er gitt i pkt. 3.4.1–3.4.3 om regnskapsføring og årsregnskap, med følgende tilpasninger:
+
+- Oppstillingen av bevilgningsrapporteringen skal settes opp etter en forenklet oppstillingsplan med tilhørende note.
+- Oppstillingen av artskontorapporteringen skal ikke inngå i årsregnskapet.
+- Oppstillingen av fondsregnskapet skal vise alle fondets utgifter, inntekter, eiendeler, fondskapital og eventuell gjeld.
 
 ### 3.5 Rapportering til statsregnskapet
 
@@ -502,21 +600,38 @@ Ved årets slutt skal virksomhetens kapitalposter avstemmes mot statsregnskapet,
 
 ### 3.5.4 Spesielle rapporteringskrav for forvaltningsorganer med særskilte fullmakter
 
-Nettobudsjetterte virksomheter har en forenklet rapportering til statsregnskapet og skal ikke rapportere på kapittel og post. Virksomhetene skal følge bestemmelsene som er gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:Månedlig rapportering skal skje ved at virksomheten sender inn en likvidrapport. Likvidrapporten skal inneholde regnskapsopplysninger om inngående og utgående saldo og endringer i perioden på virksomhetens oppgjørskonto i Norges Bank. Likvidrapporten skal avstemmes med virksomhetsregnskapet før rapporten sendes til statsregnskapet.Virksomheten skal i tillegg månedlig sende inn regnskapsopplysninger etter inndelingen i standard kontoplan på obligatorisk siffernivå, i tråd med retningslinjer i årlig rundskriv fra Finansdepartementet om rapporteringen til statsregnskapet.Ved årets slutt skal virksomheten rapportere saldo på oppgjørskonto i Norges Bank til kapitalregnskapet via overordnet departement.
+Nettobudsjetterte virksomheter har en forenklet rapportering til statsregnskapet og skal ikke rapportere på kapittel og post. Virksomhetene skal følge bestemmelsene som er gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:
+
+- Månedlig rapportering skal skje ved at virksomheten sender inn en likvidrapport. Likvidrapporten skal inneholde regnskapsopplysninger om inngående og utgående saldo og endringer i perioden på virksomhetens oppgjørskonto i Norges Bank. Likvidrapporten skal avstemmes med virksomhetsregnskapet før rapporten sendes til statsregnskapet.
+- Virksomheten skal i tillegg månedlig sende inn regnskapsopplysninger etter inndelingen i standard kontoplan på obligatorisk siffernivå, i tråd med retningslinjer i årlig rundskriv fra Finansdepartementet om rapporteringen til statsregnskapet.
+- Ved årets slutt skal virksomheten rapportere saldo på oppgjørskonto i Norges Bank til kapitalregnskapet via overordnet departement.
 
 ### 3.5.5 Spesielle rapporteringskrav for forvaltningsbedrifter
 
-Forvaltningsbedrifter skal følge bestemmelsene som er gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:Forvaltningsbedrifter skal for post 24 driftsresultat rapportere på underposter for driftsinntekter, driftsutgifter, avskrivninger, renter av statens kapital, renter av mellomværende, investeringer og reguleringsfond.Realinvesteringer, som eksempelvis fast eiendom, maskiner og utstyr, skal oppføres i kapitalregnskapet når de er belastet postene 30–49 på forvaltningsbedriftenes eget kapittel i bevilgningsregnskapet.Rapporteringen til kapitalregnskapet skal inneholde oppstillinger som viser endringen i den faste kapitalen og virksomhetens balanse.
+Forvaltningsbedrifter skal følge bestemmelsene som er gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:
+
+- Forvaltningsbedrifter skal for post 24 driftsresultat rapportere på underposter for driftsinntekter, driftsutgifter, avskrivninger, renter av statens kapital, renter av mellomværende, investeringer og reguleringsfond.
+- Realinvesteringer, som eksempelvis fast eiendom, maskiner og utstyr, skal oppføres i kapitalregnskapet når de er belastet postene 30–49 på forvaltningsbedriftenes eget kapittel i bevilgningsregnskapet.
+- Rapporteringen til kapitalregnskapet skal inneholde oppstillinger som viser endringen i den faste kapitalen og virksomhetens balanse.
 
 ### 3.5.6 Spesielle rapporteringskrav for statlige fond
 
-Virksomheter som forvalter statlige fond, jf. pkt. 3.6.4, skal for fondet følge bestemmelsene gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:Månedlig rapportering skal skje ved innsending av en likvidrapport. Likvidrapporten skal inneholde regnskapsopplysninger om inngående og utgående saldo og endringer i perioden på fondets oppgjørskonto i Norges Bank. Likvidrapporten skal avstemmes med fondets regnskap før rapporten sendes til statsregnskapet.Ved årets slutt skal virksomheten rapportere saldo på fondets oppgjørskonto i Norges Bank til kapitalregnskapet via overordnet departement.
+Virksomheter som forvalter statlige fond, jf. pkt. 3.6.4, skal for fondet følge bestemmelsene gitt i pkt. 3.5.1–3.5.3 om rapportering til statsregnskapet, med følgende tilpasninger:
+
+- Månedlig rapportering skal skje ved innsending av en likvidrapport. Likvidrapporten skal inneholde regnskapsopplysninger om inngående og utgående saldo og endringer i perioden på fondets oppgjørskonto i Norges Bank. Likvidrapporten skal avstemmes med fondets regnskap før rapporten sendes til statsregnskapet.
+- Ved årets slutt skal virksomheten rapportere saldo på fondets oppgjørskonto i Norges Bank til kapitalregnskapet via overordnet departement.
 
 ### 3.6 Forvaltning av finansielle eiendeler og midler
 
 ### 3.6.1 Forvaltning av finansielle eiendeler
 
-Virksomheter som gir lån, har eller anskaffer finansielle eiendeler som eksempelvis aksjer eller gir kapitalinnskudd i statsforetak o.l. i henhold til stortingsvedtak, skal sikre seg atdet inngås skriftlig avtale om transaksjonen beskrevet ovenforstatens risiko om mulig begrenses ved tinglysning av pant eller lignendetransaksjonen gjennomføres som avtalt, jf. krav til transaksjonskontroller i pkt. 2.5innbetaling av avkastning, renter og utbytte mottas i overensstemmelse med avtaler, og vedtak på foretaksmøte og/eller generalforsamling følges oppdet ved manglende oppfyllelse av avtalen straks iverksettes nødvendige tiltak for å rette opp forholdet.
+Virksomheter som gir lån, har eller anskaffer finansielle eiendeler som eksempelvis aksjer eller gir kapitalinnskudd i statsforetak o.l. i henhold til stortingsvedtak, skal sikre seg at
+
+1. det inngås skriftlig avtale om transaksjonen beskrevet ovenfor
+2. statens risiko om mulig begrenses ved tinglysning av pant eller lignende
+3. transaksjonen gjennomføres som avtalt, jf. krav til transaksjonskontroller i pkt. 2.5
+4. innbetaling av avkastning, renter og utbytte mottas i overensstemmelse med avtaler, og vedtak på foretaksmøte og/eller generalforsamling følges opp
+5. det ved manglende oppfyllelse av avtalen straks iverksettes nødvendige tiltak for å rette opp forholdet.
 
 Forvaltning av finansielle eiendeler skal følge bestemmelsene pkt. 5.4.7 Erverv, forvaltning og oppbevaring av verdipapirer.
 
@@ -622,7 +737,17 @@ Bestemmelsene er basert på grunnleggende forutsetninger for bokføring, spesifi
 
 ### 4.2 Grunnleggende forutsetninger for bokføring
 
-Bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger skal skje i samsvar med følgende grunnleggende forutsetninger:Tilgang til økonomisystem: Det skal foreligge et elektronisk økonomisystem som muliggjør produksjon av pliktig regnskapsrapportering, jf. pkt. 3.3.2, og spesifikasjoner, jf. pkt. 4.4.3.Fullstendighet: Alle transaksjoner og andre regnskapsmessige disposisjoner skal bokføres på en fullstendig måte i regnskapssystemet.Realitet: Bokførte opplysninger skal være resultat av faktisk inntrufne hendelser eller regnskapsmessige vurderinger og skal gjelde virksomheten.Nøyaktighet: Opplysninger skal bokføres og spesifiseres korrekt og nøyaktig.Ajourhold: Opplysninger skal bokføres og spesifiseres så ofte som opplysningenes karakter og virksomhetens art og omfang tilsier.Dokumentasjon av bokførte opplysninger: Bokførte opplysninger skal være dokumentert på en måte som gjør etterprøving og kontroll mulig.Sporbarhet: Det skal foreligge toveis kontrollspor mellom dokumentasjon, spesifikasjoner og pliktig regnskapsrapportering.Oppbevaring: Dokumentasjon, bokførte opplysninger og pliktig regnskapsrapportering skal oppbevares i henhold til pkt. 4.4.9 og 4.4.10.Sikring: Regnskapsmaterialet skal sikres på en forsvarlig måte mot urettmessig endring, sletting eller tap.
+Bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger skal skje i samsvar med følgende grunnleggende forutsetninger:
+
+1. Tilgang til økonomisystem: Det skal foreligge et elektronisk økonomisystem som muliggjør produksjon av pliktig regnskapsrapportering, jf. pkt. 3.3.2, og spesifikasjoner, jf. pkt. 4.4.3.
+2. Fullstendighet: Alle transaksjoner og andre regnskapsmessige disposisjoner skal bokføres på en fullstendig måte i regnskapssystemet.
+3. Realitet: Bokførte opplysninger skal være resultat av faktisk inntrufne hendelser eller regnskapsmessige vurderinger og skal gjelde virksomheten.
+4. Nøyaktighet: Opplysninger skal bokføres og spesifiseres korrekt og nøyaktig.
+5. Ajourhold: Opplysninger skal bokføres og spesifiseres så ofte som opplysningenes karakter og virksomhetens art og omfang tilsier.
+6. Dokumentasjon av bokførte opplysninger: Bokførte opplysninger skal være dokumentert på en måte som gjør etterprøving og kontroll mulig.
+7. Sporbarhet: Det skal foreligge toveis kontrollspor mellom dokumentasjon, spesifikasjoner og pliktig regnskapsrapportering.
+8. Oppbevaring: Dokumentasjon, bokførte opplysninger og pliktig regnskapsrapportering skal oppbevares i henhold til pkt. 4.4.9 og 4.4.10.
+9. Sikring: Regnskapsmaterialet skal sikres på en forsvarlig måte mot urettmessig endring, sletting eller tap.
 
 ### 4.3 Funksjonalitet i økonomisystemet
 
@@ -630,11 +755,21 @@ Bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger
 
 Virksomheten skal bruke et elektronisk økonomisystem for registrering og regnskapsføring (bokføring og pliktig regnskapsrapportering) og for betalingsformidling. Systemet skal ha funksjonalitet som ivaretar de oppgavene en virksomhet er pålagt i henhold til dette regelverket og andre gjeldende lover og regler, herunder funksjonalitet som muliggjør en forsvarlig økonomistyring.
 
-Et økonomisystem omfatter:regnskapssystem, med hovedbok og reskontrolønnssystemfakturabehandlingssystemhjelpesystem.
+Et økonomisystem omfatter:
+
+- regnskapssystem, med hovedbok og reskontro
+- lønnssystem
+- fakturabehandlingssystem
+- hjelpesystem.
 
 Et hjelpesystem produserer eller påvirker innholdet i bokførte transaksjoner og andre regnskapsmessige disposisjoner.
 
-Økonomisystemet skal gi grunnlag for åsammenstille økonomisk informasjon slik at virksomheten kan foreta budsjettkontroll og eventuelt oppfølging mot mål og resultater, samt bidra med nødvendig styringsinformasjon til virksomhetsledelsen og overordnet departementlevere rapporter til overordnet departement om regnskapsførte utgifter og inntekter i forhold til bevilgning, som grunnlag for departementets overordnede ansvar for budsjettkontrollrapportere informasjon til overordnet departement om kapitalposter som skal oppføres i kapitalregnskapet, jf. pkt. 3.5.3avgi pliktig regnskapsrapportering, jf. pkt. 3.3.2.
+Økonomisystemet skal gi grunnlag for å
+
+1. sammenstille økonomisk informasjon slik at virksomheten kan foreta budsjettkontroll og eventuelt oppfølging mot mål og resultater, samt bidra med nødvendig styringsinformasjon til virksomhetsledelsen og overordnet departement
+2. levere rapporter til overordnet departement om regnskapsførte utgifter og inntekter i forhold til bevilgning, som grunnlag for departementets overordnede ansvar for budsjettkontroll
+3. rapportere informasjon til overordnet departement om kapitalposter som skal oppføres i kapitalregnskapet, jf. pkt. 3.5.3
+4. avgi pliktig regnskapsrapportering, jf. pkt. 3.3.2.
 
 Fra alle modulene som inngår i økonomisystemet (regnskapssystem, lønnssystem og hjelpesystemer), skal det være mulig å produsere spesifikasjoner i overensstemmelse med pkt. 4.4.3.
 
@@ -642,7 +777,10 @@ Fra alle modulene som inngår i økonomisystemet (regnskapssystem, lønnssystem 
 
 I økonomisystemet skal det kunne registreres data tilknyttet hver enkelt bokført transaksjon eller regnskapsmessig disposisjon og i faste register, som sikrer hensiktsmessig oppfølging og rapportering av økonomisk informasjon. Det må kunne registreres informasjon som ivaretar krav til pliktig regnskapsrapportering, jf. pkt. 3.3.2. Virksomheten skal legge standard kontoplan inn i regnskapssystemet slik at bokføring i kontospesifikasjonen følger de angitte artskontoene, jf. krav til virksomhetens kontoplan i pkt. 3.3.3.
 
-Økonomisystemet skal ha funksjonalitet som tilrettelegger forkontroller som sikrer korrekt bokføringat bokførte transaksjoner og andre regnskapsmessige disposisjoner er nummerert eller identifisert på en annen måte, jf. pkt. 4.4.4.
+Økonomisystemet skal ha funksjonalitet som tilrettelegger for
+
+1. kontroller som sikrer korrekt bokføring
+2. at bokførte transaksjoner og andre regnskapsmessige disposisjoner er nummerert eller identifisert på en annen måte, jf. pkt. 4.4.4.
 
 Når økonomisystemet består av flere moduler, skal systemet sikre korrekt overføring mellom modulene og gjenbruk av registrerte data.
 
@@ -702,7 +840,39 @@ Bank- og kontanttransaksjoner skal registreres daglig, med mindre det foreligger
 
 Virksomheten skal være i stand til å kunne utarbeide spesifikasjon av pliktig regnskapsrapportering i punkt a til g under. Dato for utarbeidelse skal fremgå av spesifikasjonen.
 
-Spesifikasjonene i punkt a til e skal kunne utarbeides månedlig:BokføringsspesifikasjonAlle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare. Det samme gjelder for poster som er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av bokføringsspesifikasjonen.KontospesifikasjonAlle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Virksomheter som har avgiftspliktig omsetning, skal kunne spesifisere inngående og utgående merverdiavgift pr. transaksjon.Virksomheter som inngår i nettoføringsordningen for budsjettering og regnskapsføring av merverdiavgift i statsforvaltningen, skal kunne spesifisere merverdiavgiften pr. transaksjon.Poster i kontospesifikasjonen kan fremkomme som totaler når de er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av kontospesifikasjonen.I tillegg skal det ved årets slutt kunne utarbeides en saldoliste som inneholder en oversikt over alle kontoer. Hver konto skal vise kontokode og kontonavn og utgående saldo.RapporteringsspesifikasjonAlle rapporterte opplysninger i s-rapporten til statsregnskapet, der det for hver kombinasjon av konto i bevilgningsregnskap/kapitalregnskap (kapittel/post, oppgjørskonto i Norges Bank eller mellomværende med statskassen) og artskonto skal fremgå alle poster i ordnet rekkefølge med beløp og dokumentasjonshenvisning.Poster i rapporteringsspesifikasjonen kan fremkomme som totaler når de er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av rapporteringsspesifikasjonen.KundespesifikasjonAlle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.LeverandørspesifikasjonAlle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.Spesifikasjonene i punkt f og g skal kunne utarbeides for hver periode med pliktig regnskapsrapportering:Spesifikasjon av merverdiavgift – avgiftspliktig omsetningVirksomheter som har plikt til å levere skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3), skal kunne spesifisere informasjon om merverdiavgift etter [bokføringsforskriften § 3-1 første ledd nr. 8](forskrift/2004-12-01-1558/§3-1/ledd/1/nummer/8).Spesifikasjon av lønnsopplysningspliktige ytelserLønnsopplysningspliktige ytelser skal spesifiseres pr. periode etter kontoene i regnskapssystemet (konteringssammendrag). Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.
+Spesifikasjonene i punkt a til e skal kunne utarbeides månedlig:
+
+1. Bokføringsspesifikasjon
+
+   Alle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare. Det samme gjelder for poster som er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av bokføringsspesifikasjonen.
+2. Kontospesifikasjon
+
+   Alle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Virksomheter som har avgiftspliktig omsetning, skal kunne spesifisere inngående og utgående merverdiavgift pr. transaksjon.
+
+   Virksomheter som inngår i nettoføringsordningen for budsjettering og regnskapsføring av merverdiavgift i statsforvaltningen, skal kunne spesifisere merverdiavgiften pr. transaksjon.
+
+   Poster i kontospesifikasjonen kan fremkomme som totaler når de er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av kontospesifikasjonen.
+
+   I tillegg skal det ved årets slutt kunne utarbeides en saldoliste som inneholder en oversikt over alle kontoer. Hver konto skal vise kontokode og kontonavn og utgående saldo.
+3. Rapporteringsspesifikasjon
+
+   Alle rapporterte opplysninger i s-rapporten til statsregnskapet, der det for hver kombinasjon av konto i bevilgningsregnskap/kapitalregnskap (kapittel/post, oppgjørskonto i Norges Bank eller mellomværende med statskassen) og artskonto skal fremgå alle poster i ordnet rekkefølge med beløp og dokumentasjonshenvisning.
+
+   Poster i rapporteringsspesifikasjonen kan fremkomme som totaler når de er spesifisert i underliggende journaler eller lignende (eksempelvis fakturajournal). Disse journalene er i slike tilfeller en del av rapporteringsspesifikasjonen.
+4. Kundespesifikasjon
+
+   Alle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+5. Leverandørspesifikasjon
+
+   Alle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+
+   Spesifikasjonene i punkt f og g skal kunne utarbeides for hver periode med pliktig regnskapsrapportering:
+6. Spesifikasjon av merverdiavgift – avgiftspliktig omsetning
+
+   Virksomheter som har plikt til å levere skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3), skal kunne spesifisere informasjon om merverdiavgift etter [bokføringsforskriften § 3-1 første ledd nr. 8](forskrift/2004-12-01-1558/§3-1/ledd/1/nummer/8).
+7. Spesifikasjon av lønnsopplysningspliktige ytelser
+
+   Lønnsopplysningspliktige ytelser skal spesifiseres pr. periode etter kontoene i regnskapssystemet (konteringssammendrag). Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.
 
 ### 4.4.4 Sporbarhet
 
@@ -776,17 +946,41 @@ Det vises ellers til [arkivlova av 20. juni 2025 nr. 96](lov/2025-06-20-96) med 
 
 ### 4.4.10.1 Regnskapsmateriale som skal overleveres Riksarkivet eller statsarkivet
 
-Følgende regnskapsmateriale skal bevares av virksomheten og avleveres til arkivverket, jf. forskrifter om offentlige arkiv:virksomhetens årsrapport med årsregnskap, jf. pkt. 2.3.3 og pkt. 3.4virksomhetens saldoliste, en oppstilling over alle kontoer i regnskapssystemet, der det for hver konto skal vises kontokode og kontonavn og utgående saldo.
+Følgende regnskapsmateriale skal bevares av virksomheten og avleveres til arkivverket, jf. forskrifter om offentlige arkiv:
+
+1. virksomhetens årsrapport med årsregnskap, jf. pkt. 2.3.3 og pkt. 3.4
+2. virksomhetens saldoliste, en oppstilling over alle kontoer i regnskapssystemet, der det for hver konto skal vises kontokode og kontonavn og utgående saldo.
 
 ### 4.4.10.2 Regnskapsmateriale som skal oppbevares i 10 år
 
-Følgende regnskapsmateriale skal oppbevares i minst 10 år etter regnskapsårets slutt:pliktig regnskapsrapportering som ikke dekkes i pkt. 4.4.10.1instrukserspesifikasjoner av pliktig regnskapsrapportering som nevnt i pkt. 4.4.3, eller bokførte opplysninger som er nødvendig for å kunne utarbeide slike spesifikasjoner av pliktig regnskapsrapporteringdokumentasjon av bokførte og slettede opplysninger, herunder:dokumentasjon som lages ved oppdatering av økonomisystemet i forbindelse med innlesing av avregningsretur og konteringsdata fra bankenkontoutskrift fra bank, med underdokumentasjon som eksempelvis giro- og overføringsblanketter som dokumenterer innbetalingerlønnsjournal, spesifikasjon av samtlige transaksjoner pr. ansatt pr. periodekonteringslisteregendeklarasjonerdokumentasjon som viser hvem som har benyttet budsjettdisponeringsmyndighet, ved bestilling, ordrebekreftelse, faktura, tilskuddsbrev eller på annen hensiktsmessig måte.dokumentasjon av balansen (avstemminger) ved årets sluttavtaler som gjelder virksomheten, med unntak av avtaler av mindre betydningkorrespondanse som gir vesentlig tilleggsinformasjon i tilknytning til en bokført opplysninglogg av endringer i økonomisystemetsystemdokumentasjon for økonomisystemet, jf. pkt. 4.3.5, herunder historiske versjoner.
+Følgende regnskapsmateriale skal oppbevares i minst 10 år etter regnskapsårets slutt:
+
+1. pliktig regnskapsrapportering som ikke dekkes i pkt. 4.4.10.1
+2. instrukser
+3. spesifikasjoner av pliktig regnskapsrapportering som nevnt i pkt. 4.4.3, eller bokførte opplysninger som er nødvendig for å kunne utarbeide slike spesifikasjoner av pliktig regnskapsrapportering
+4. dokumentasjon av bokførte og slettede opplysninger, herunder:
+
+   - dokumentasjon som lages ved oppdatering av økonomisystemet i forbindelse med innlesing av avregningsretur og konteringsdata fra banken
+   - kontoutskrift fra bank, med underdokumentasjon som eksempelvis giro- og overføringsblanketter som dokumenterer innbetalinger
+   - lønnsjournal, spesifikasjon av samtlige transaksjoner pr. ansatt pr. periode
+   - konteringslister
+   - egendeklarasjoner
+   - dokumentasjon som viser hvem som har benyttet budsjettdisponeringsmyndighet, ved bestilling, ordrebekreftelse, faktura, tilskuddsbrev eller på annen hensiktsmessig måte.
+5. dokumentasjon av balansen (avstemminger) ved årets slutt
+6. avtaler som gjelder virksomheten, med unntak av avtaler av mindre betydning
+7. korrespondanse som gir vesentlig tilleggsinformasjon i tilknytning til en bokført opplysning
+8. logg av endringer i økonomisystemet
+9. systemdokumentasjon for økonomisystemet, jf. pkt. 4.3.5, herunder historiske versjoner.
 
 Virksomheter kan likevel unnlate å oppbevare papirfakturaer og andre utbetalingsdokumenter i papirform som er knyttet til anskaffelser, dersom transaksjonene er bokført før 1. januar 2011. For papirfakturaer knyttet til store anskaffelser som omtalt i pkt. 5.3.8 (prosjekter), må virksomheten i denne forbindelse vurdere oppbevaringsbehovet spesielt ut fra hensynet til dokumentasjon av prosjektregnskap.
 
 ### 4.4.10.3 Regnskapsmateriale som skal oppbevares i 3 år og 6 måneder
 
-Følgende regnskapsmateriale skal oppbevares i minst 3 år og 6 måneder etter regnskapsårets slutt:fullmakterutgående pakksedler eller tilsvarende dokumentasjon som følger varen eller sendes til kjøper på annen måteprisoversikter som kreves utarbeidet ifølge lov eller forskrift.
+Følgende regnskapsmateriale skal oppbevares i minst 3 år og 6 måneder etter regnskapsårets slutt:
+
+1. fullmakter
+2. utgående pakksedler eller tilsvarende dokumentasjon som følger varen eller sendes til kjøper på annen måte
+3. prisoversikter som kreves utarbeidet ifølge lov eller forskrift.
 
 ### 4.4.10.4 Øvrig dokumentasjon og regnskapsmateriale
 
@@ -812,7 +1006,10 @@ Dersom økonomisystemet har funksjonalitet for å utføre kontrollene angitt i p
 
 ### 5.2.2 Transaksjonskontroll
 
-For lønn og andre lønnsopplysningspliktige ytelser skal transaksjonskontroll i henhold til pkt. 2.5.2 ivaretas ved at*budsjettdisponeringsmyndighet* skal foreligge ved ansettelser og pålegg eller godkjenninger av personellmessige disposisjoner som medfører lønnsopplysningspliktige ytelser*attestasjon* skal foreligge ved lønnsberegningsbekreftelse.
+For lønn og andre lønnsopplysningspliktige ytelser skal transaksjonskontroll i henhold til pkt. 2.5.2 ivaretas ved at
+
+- *budsjettdisponeringsmyndighet* skal foreligge ved ansettelser og pålegg eller godkjenninger av personellmessige disposisjoner som medfører lønnsopplysningspliktige ytelser
+- *attestasjon* skal foreligge ved lønnsberegningsbekreftelse.
 
 I tillegg vil det være kontrollaktiviteter knyttet til produksjon av lønnsberegningsforslag.
 
@@ -840,7 +1037,16 @@ Registrering og endring av registrerte opplysninger om betalingsmottakere skal u
 
 Det skal produseres et lønnsberegningsforslag (lønnsforslag) før endelig lønnsberegningsbekreftelse (lønnsbekreftelse) kan skje. Lønnsberegningsforslaget skal gi grunnlag for å avdekke eventuell feilregistrering eller feilbehandling.
 
-Følgende skal kontrolleres opp mot lønnsberegningsforslaget:eventuelle feillisterendringer i sentrale faste data siden forrige lønnsperiode (minimum satser, lønnstrinn og bankkontonummer)antall lønnsmottakere som mottar utbetalingtotalbeløp til utbetalingstore nettobeløp til utbetalingnegative nettobeløpforslag til konteringssammendrag (spesifikasjon av brutto utgifter pr. konto)forslag til lønnsjournal (stikkprøvekontroll).
+Følgende skal kontrolleres opp mot lønnsberegningsforslaget:
+
+- eventuelle feillister
+- endringer i sentrale faste data siden forrige lønnsperiode (minimum satser, lønnstrinn og bankkontonummer)
+- antall lønnsmottakere som mottar utbetaling
+- totalbeløp til utbetaling
+- store nettobeløp til utbetaling
+- negative nettobeløp
+- forslag til konteringssammendrag (spesifikasjon av brutto utgifter pr. konto)
+- forslag til lønnsjournal (stikkprøvekontroll).
 
 Avdekkede feil og mangler skal korrigeres og nytt lønnsberegningsforslag skal produseres. Ved korrigering skal de samme rutinene følges som ved opprinnelig registrering.
 
@@ -906,7 +1112,11 @@ Dersom virksomheten mottar papirfakturaer, skal fakturaene omgjøres til elektro
 
 ### 5.3.5.2 Attestasjon
 
-Alle utgifter skal være attestert før utbetaling kan finne sted. Den som attesterer, skal påse at nødvendige attestasjonskontroller er utført og ved det bekrefte at utbetalingen skjer på korrekt grunnlag. Følgende attestasjonskontroller skal utføres ved anskaffelser:at fakturaen inneholder opplysninger som viser hva anskaffelsen gjelder, eventuelt med referanse til hvor slik dokumentasjon finnes, og opplysninger for riktig betaling, registrering og kontrollbestillingsdokumentasjon eller avtale mot fakturaen, med henblikk på pris, betalingsforpliktelse og andre relevante bestemmelservaremottak eller tjenesteleveranse mot fakturaen, for å sikre at bestilt vare eller tjeneste er mottatt i samsvar med de spesifikasjoner som er bestilt. Ved kjøp av tjenester, skal det kontrolleres at tjenesten er utført i samsvar med avtale, og at resultatet er tilfredsstillende.
+Alle utgifter skal være attestert før utbetaling kan finne sted. Den som attesterer, skal påse at nødvendige attestasjonskontroller er utført og ved det bekrefte at utbetalingen skjer på korrekt grunnlag. Følgende attestasjonskontroller skal utføres ved anskaffelser:
+
+1. at fakturaen inneholder opplysninger som viser hva anskaffelsen gjelder, eventuelt med referanse til hvor slik dokumentasjon finnes, og opplysninger for riktig betaling, registrering og kontroll
+2. bestillingsdokumentasjon eller avtale mot fakturaen, med henblikk på pris, betalingsforpliktelse og andre relevante bestemmelser
+3. varemottak eller tjenesteleveranse mot fakturaen, for å sikre at bestilt vare eller tjeneste er mottatt i samsvar med de spesifikasjoner som er bestilt. Ved kjøp av tjenester, skal det kontrolleres at tjenesten er utført i samsvar med avtale, og at resultatet er tilfredsstillende.
 
 Attestasjonen av utgifter skal som hovedregel utføres av ansatte i virksomheten, men kan etter en vurdering av internkontrollen også utføres av innleid personell eller av en annen statlig virksomhet (jf. pkt. 2.6). Innleid personell kan ikke attestere utbetalinger til egen arbeidsgiver.
 
@@ -916,7 +1126,15 @@ Dersom det er behov for å endre på innholdet i fakturaen, må det sendes en ny
 
 Virksomhetens systemer og rutiner skal sikre at bokføring og utbetaling skjer mot rett leverandør, til rett tid og med korrekt beløp. Før bokføring og utbetaling kan finne sted, skal det kontrolleres at dokumentasjonen er attestert og at disposisjonen er foretatt av en ansatt med budsjettdisponeringsmyndighet. Videre skal det før bokføringen kontrolleres at dokumentasjonen er riktig kontert, eventuelt skal korrekt konteringsinformasjon registreres.
 
-Den enkelte faktura skal bokføres med følgende informasjon:konteringidentifikasjon av leverandøridentifikasjon av krav (fakturadato, fakturanummer)kundeidentifikasjon (KID) der det er oppgittforfallsdatobeløpleverandørens bankkontonummer.
+Den enkelte faktura skal bokføres med følgende informasjon:
+
+- kontering
+- identifikasjon av leverandør
+- identifikasjon av krav (fakturadato, fakturanummer)
+- kundeidentifikasjon (KID) der det er oppgitt
+- forfallsdato
+- beløp
+- leverandørens bankkontonummer.
 
 Rutinene og kontrollaktivitetene for utbetaling er beskrevet i pkt. 3.7.3.
 
@@ -978,7 +1196,11 @@ Det skal etableres rutiner for tilbakebetaling av beløp som ved en feil blir in
 
 ### 5.4.2.5 Oppfølging av krav som ikke betales som forutsatt
 
-Virksomheten skal ha rutiner for oppfølging av krav som ikke betales ved forfall. Slike rutiner kan inneholde følgende hovedaktiviteter:purring på kravenesikring av krav gjennom utleggrealisering av pant.
+Virksomheten skal ha rutiner for oppfølging av krav som ikke betales ved forfall. Slike rutiner kan inneholde følgende hovedaktiviteter:
+
+- purring på kravene
+- sikring av krav gjennom utlegg
+- realisering av pant.
 
 Innkrevingen må fortsette så lenge det er mulighet for at kravet kan dekkes, helt eller delvis. Det skal blant annet vurderes om det finnes egnede formuesgoder som det kan tas utlegg i, mulighet for utleggstrekk i lønn eller motregning i debitors krav mot staten. Videre skal det vurderes om debitors bo bør begjæres konkurs.
 
@@ -1044,7 +1266,23 @@ Ved utformingen og forvaltningen av tilskuddsordninger og enkeltstående tilskud
 
 ### 6.2.1 Hovedelementene i en tilskuddsordning
 
-Departementet skal utforme hovedelementene i en tilskuddsordning omtalt nedenfor. Utformingen skal skje etter en konkret vurdering for den enkelte ordningen. Hovedelementene skal vurderes i nøye sammenheng med hverandre.Mål og målgruppe for tilskuddsordningenDepartementet skal i tilknytning til bevilgningsforslag utarbeide mål som tydeliggjør hva staten ønsker å oppnå med tilskuddsordningen, og hvilken målgruppe ordningen tar sikte på.Kriterier for måloppnåelseFor å følge med på måloppnåelsen i tilskuddsordningen, skal departementet utarbeide kriterier for måloppnåelse. Måloppnåelsen kan belyses kvalitativt eller kvantitativt, jf. pkt. 6.3.6.TildelingskriterierDepartementet skal utarbeide kriterier for tildeling. Tildelingskriteriene skal gi grunnlag for å avgrense hvem som er potensielle tilskuddsmottakere og fastsette tilskuddsbeløp, samt gi føringer for hva tilskuddet kan brukes til.Opplegg for oppfølging og kontrollDepartementet skal utarbeide et opplegg for kontroll med opplysninger som legges til grunn for tildeling eller inngår i etterfølgende rapportering, jf. pkt. 6.3.8.EvalueringDepartementet har ansvar for at tilskuddsordninger blir evaluert, jf. pkt. 6.5.
+Departementet skal utforme hovedelementene i en tilskuddsordning omtalt nedenfor. Utformingen skal skje etter en konkret vurdering for den enkelte ordningen. Hovedelementene skal vurderes i nøye sammenheng med hverandre.
+
+1. Mål og målgruppe for tilskuddsordningen
+
+   Departementet skal i tilknytning til bevilgningsforslag utarbeide mål som tydeliggjør hva staten ønsker å oppnå med tilskuddsordningen, og hvilken målgruppe ordningen tar sikte på.
+2. Kriterier for måloppnåelse
+
+   For å følge med på måloppnåelsen i tilskuddsordningen, skal departementet utarbeide kriterier for måloppnåelse. Måloppnåelsen kan belyses kvalitativt eller kvantitativt, jf. pkt. 6.3.6.
+3. Tildelingskriterier
+
+   Departementet skal utarbeide kriterier for tildeling. Tildelingskriteriene skal gi grunnlag for å avgrense hvem som er potensielle tilskuddsmottakere og fastsette tilskuddsbeløp, samt gi føringer for hva tilskuddet kan brukes til.
+4. Opplegg for oppfølging og kontroll
+
+   Departementet skal utarbeide et opplegg for kontroll med opplysninger som legges til grunn for tildeling eller inngår i etterfølgende rapportering, jf. pkt. 6.3.8.
+5. Evaluering
+
+   Departementet har ansvar for at tilskuddsordninger blir evaluert, jf. pkt. 6.5.
 
 ### 6.2.2 Presentasjon for Stortinget
 
@@ -1112,7 +1350,13 @@ Vedtak om å tildele tilskudd skal meddeles søkeren i et tilskuddsbrev. Tildeli
 
 Tilskuddsbrev skal sendes hver enkelt mottaker, eller til en instans som er legitimert til å formidle opplysninger om vedtaket videre.
 
-Tilskuddsbrevet med eventuelle vedlegg skal blant annet beskrivehva mottakeren får tilskudd tiltilskuddsbeløputbetalingsordning, herunder om tilskuddet utbetales før, under eller etter tiltaket, samt antall utbetalinger og tidspunkt for utbetalingeneeventuelle vilkår for bruken av midlene, krav til rapportering og kontrolltiltak som kan bli iverksattreaksjoner ved brudd på betingelser og vilkår for tilskuddet.
+Tilskuddsbrevet med eventuelle vedlegg skal blant annet beskrive
+
+- hva mottakeren får tilskudd til
+- tilskuddsbeløp
+- utbetalingsordning, herunder om tilskuddet utbetales før, under eller etter tiltaket, samt antall utbetalinger og tidspunkt for utbetalingene
+- eventuelle vilkår for bruken av midlene, krav til rapportering og kontrolltiltak som kan bli iverksatt
+- reaksjoner ved brudd på betingelser og vilkår for tilskuddet.
 
 Tilskuddsbrev skal hos statlige tilskuddsforvaltere normalt signeres av en ansatt med budsjettdisponeringsmyndighet for den aktuelle tilskuddsbevilgningen, jf. pkt. 2.5. Hvis et kollegialt styre, råd eller tilsvarende har budsjettdisponeringsmyndighet, kan brevet signeres av andre med myndighet til dette.
 
@@ -1130,7 +1374,12 @@ Tilskuddsforvaltere innenfor statsforvaltningen skal følge bestemmelsene om bok
 
 ### 6.3.5 Utbetaling og eventuell tilbakebetaling
 
-Tilskuddsbeløp skal utbetales etter hvert som mottakeren har behov for å dekke de aktuelle utgiftene, i henhold til stortingsvedtak av 8. november 1984:Tilskudd til driften av en virksomhet skal utbetales i terminer (pr. måned, kvartal eller halvår), avpasset etter størrelsen av tilskuddet og de formålene som skal tilgodeses.Tilskudd til lønn skal utbetales så nær tidspunktet for lønnsutbetaling som mulig.Tilskudd til større anskaffelser skal utbetales så nær oppgjørstidspunktet som mulig.Tilskuddene skal utover dette ikke nyttes til å regulere virksomhetens likviditet. Det skal ikke være anledning til å fremskynde utbetalinger, slik at mottakeren kan plassere tilskudd som rentebærende innskudd eller lån for å oppnå inntekter i tillegg til det bevilgede beløpet.
+Tilskuddsbeløp skal utbetales etter hvert som mottakeren har behov for å dekke de aktuelle utgiftene, i henhold til stortingsvedtak av 8. november 1984:
+
+1. Tilskudd til driften av en virksomhet skal utbetales i terminer (pr. måned, kvartal eller halvår), avpasset etter størrelsen av tilskuddet og de formålene som skal tilgodeses.
+2. Tilskudd til lønn skal utbetales så nær tidspunktet for lønnsutbetaling som mulig.
+3. Tilskudd til større anskaffelser skal utbetales så nær oppgjørstidspunktet som mulig.
+4. Tilskuddene skal utover dette ikke nyttes til å regulere virksomhetens likviditet. Det skal ikke være anledning til å fremskynde utbetalinger, slik at mottakeren kan plassere tilskudd som rentebærende innskudd eller lån for å oppnå inntekter i tillegg til det bevilgede beløpet.
 
 For investeringstiltak som det tar tid å gjennomføre, kan utbetaling skje i flere deler etter hvert som det mottas rapport om fremdriften.
 
@@ -1156,7 +1405,14 @@ Tilskuddsforvaltere innenfor statsforvaltningen skal rapportere i tråd med krav
 
 For å sikre korrekt saksbehandling, skal tilskuddsforvalteren ha etablert systemer, rutiner og tiltak som blant annet har til hensikt å forebygge, avdekke og korrigere feil og mangler, jf. pkt. 2.4 om internkontroll.
 
-Tiltakene skal bidra til å sikre korrektregistrering av faste datasøknadsbehandling, herunder dokumentasjon av fastsettelse av tilskuddsbeløpregistrering av vedtak om tilskuddutbetaling av tilskudd til rett mottaker og til rett tidregistrering i regnskapetbehandling av dokumentasjon fra tilskuddsmottakeren.
+Tiltakene skal bidra til å sikre korrekt
+
+- registrering av faste data
+- søknadsbehandling, herunder dokumentasjon av fastsettelse av tilskuddsbeløp
+- registrering av vedtak om tilskudd
+- utbetaling av tilskudd til rett mottaker og til rett tid
+- registrering i regnskapet
+- behandling av dokumentasjon fra tilskuddsmottakeren.
 
 Registrering og endring av opplysninger om betalingsmottakere skal utføres av andre enn den som utøver budsjettdisponeringsmyndighet.
 
@@ -1180,7 +1436,15 @@ For forvaltning av øremerkede tilskudd til kommuner og fylkeskommuner gjelder i
 
 ### 6.4.2 Andre unntak
 
-Bestemmelsene i punkt 6.2 og 6.3 er fastsatt for en normalsituasjon der en tilskuddsbevilgning skal fordeles på flere søkere på grunnlag av åpne søknadsprosesser og kjente tildelingskriterier. Det vil forekomme tilfeller der enkelte av disse bestemmelsene ikke er aktuelle ut fra tilskuddsbevilgningens karakter:Ved enkeltstående tilskudd der tilskuddsmottakeren er navngitt i bevilgningsvedtaket eller omtalt i budsjettproposisjonen på en slik måte at tilskuddsbevilgningen må anses øremerket for vedkommende, kan departementet gjøre unntak fra følgende bestemmelser:pkt. 6.2.1 c, krav om å fastsette tildelingskriterierpkt. 6.2.3, krav om å fastsette tilskuddsregelverkpkt. 6.3.1, krav om utlysning.For tilskudd som staten gir som medlem av en internasjonal organisasjon, etter avtale med andre land om samarbeidstiltak eller etter avtale med internasjonale frivillige organisasjoner, gjelder ikke kravene til utlysning, søknad og utforming av tilskuddsbrev.For tilskuddsordninger til landbruksområdet som ikke er tiltaksrettede, kan det i nødvendig utstrekning gjøres unntak fra bestemmelsene i pkt. 6.2 og 6.3. Det skal gjøres rede for slike unntak i departementets budsjettproposisjon.
+Bestemmelsene i punkt 6.2 og 6.3 er fastsatt for en normalsituasjon der en tilskuddsbevilgning skal fordeles på flere søkere på grunnlag av åpne søknadsprosesser og kjente tildelingskriterier. Det vil forekomme tilfeller der enkelte av disse bestemmelsene ikke er aktuelle ut fra tilskuddsbevilgningens karakter:
+
+1. Ved enkeltstående tilskudd der tilskuddsmottakeren er navngitt i bevilgningsvedtaket eller omtalt i budsjettproposisjonen på en slik måte at tilskuddsbevilgningen må anses øremerket for vedkommende, kan departementet gjøre unntak fra følgende bestemmelser:
+
+   - pkt. 6.2.1 c, krav om å fastsette tildelingskriterier
+   - pkt. 6.2.3, krav om å fastsette tilskuddsregelverk
+   - pkt. 6.3.1, krav om utlysning.
+2. For tilskudd som staten gir som medlem av en internasjonal organisasjon, etter avtale med andre land om samarbeidstiltak eller etter avtale med internasjonale frivillige organisasjoner, gjelder ikke kravene til utlysning, søknad og utforming av tilskuddsbrev.
+3. For tilskuddsordninger til landbruksområdet som ikke er tiltaksrettede, kan det i nødvendig utstrekning gjøres unntak fra bestemmelsene i pkt. 6.2 og 6.3. Det skal gjøres rede for slike unntak i departementets budsjettproposisjon.
 
 ### 6.5 Evaluering av tilskuddsordninger
 
@@ -1210,7 +1474,23 @@ Bestemmelsene i kap. 7 gjelder også for stønader som forvaltes av forvaltnings
 
 ### 7.2.1 Hovedelementene i en stønadsordning
 
-Departementene skal utforme hovedelementene i en stønadsordning omtalt nedenfor. Utformingen skal skje etter en konkret vurdering for den enkelte ordningen. Hovedelementene skal vurderes i nøye sammenheng med hverandre.Mål og målgruppe for stønadsordningenDepartementet skal utarbeide mål som tydeliggjør hva staten ønsker å oppnå med stønadsordningen, og hvilken målgruppe ordningen tar sikte på.Kriterier for måloppnåelseFor å følge med på måloppnåelsen i stønadsordningen, skal departementet utarbeide kriterier for måloppnåelse. Måloppnåelsen kan belyses kvalitativt eller kvantitativt.TildelingskriterierDepartementet skal utarbeide kriterier for tildeling. Tildelingskriteriene skal gi grunnlag for å avgrense hvem som er potensielle stønadsmottakere og fastsette stønadsbeløp.Opplegg for oppfølging og kontrollDepartementet skal utarbeide et opplegg for kontroll med opplysninger som legges til grunn for tildeling eller inngår i eventuell etterfølgende rapportering, jf. pkt. 7.3.7.EvalueringDepartementet har ansvar for at stønadsordninger blir evaluert, jf. pkt. 7.4.
+Departementene skal utforme hovedelementene i en stønadsordning omtalt nedenfor. Utformingen skal skje etter en konkret vurdering for den enkelte ordningen. Hovedelementene skal vurderes i nøye sammenheng med hverandre.
+
+1. Mål og målgruppe for stønadsordningen
+
+   Departementet skal utarbeide mål som tydeliggjør hva staten ønsker å oppnå med stønadsordningen, og hvilken målgruppe ordningen tar sikte på.
+2. Kriterier for måloppnåelse
+
+   For å følge med på måloppnåelsen i stønadsordningen, skal departementet utarbeide kriterier for måloppnåelse. Måloppnåelsen kan belyses kvalitativt eller kvantitativt.
+3. Tildelingskriterier
+
+   Departementet skal utarbeide kriterier for tildeling. Tildelingskriteriene skal gi grunnlag for å avgrense hvem som er potensielle stønadsmottakere og fastsette stønadsbeløp.
+4. Opplegg for oppfølging og kontroll
+
+   Departementet skal utarbeide et opplegg for kontroll med opplysninger som legges til grunn for tildeling eller inngår i eventuell etterfølgende rapportering, jf. pkt. 7.3.7.
+5. Evaluering
+
+   Departementet har ansvar for at stønadsordninger blir evaluert, jf. pkt. 7.4.
 
 ### 7.2.2 Presentasjon for Stortinget
 
@@ -1272,7 +1552,13 @@ Behandlingen av eventuelle søknader om stønad skal følge reglene i [forvaltni
 
 For stønadsordninger der det kreves søknad, skal vedtak om å tildele stønad meddeles søkeren i et stønadsbrev. Tildelingen er som hovedregel et enkeltvedtak etter [forvaltningsloven](lov/1967-02-10), jf. [forvaltningsloven § 2 første ledd bokstav b](lov/1967-02-10/§2/ledd/1/bokstav/b).
 
-Stønadsbrevet med eventuelle vedlegg skal blant annet beskriveformålstønadsbeløputbetalingsordningeventuelle krav til rapporteringreaksjoner ved brudd på betingelser og vilkår for stønaden.
+Stønadsbrevet med eventuelle vedlegg skal blant annet beskrive
+
+- formål
+- stønadsbeløp
+- utbetalingsordning
+- eventuelle krav til rapportering
+- reaksjoner ved brudd på betingelser og vilkår for stønaden.
 
 Stønadsbrev skal hos statlige stønadsforvaltere normalt signeres av en ansatt med budsjettdisponeringsmyndighet, jf. pkt. 2.5. Har et kollegialt styre, råd eller tilsvarende budsjettdisponeringsmyndighet, eller ved masseutsending av stønadsbrev, kan brevet signeres av andre med myndighet til dette.
 
@@ -1310,7 +1596,13 @@ Stønadsforvaltere innenfor statsforvaltningen skal rapportere i tråd med krave
 
 For å sikre korrekt saksbehandling, skal stønadsforvalteren ha etablert systemer, rutiner og tiltak som blant annet har til hensikt å forebygge, avdekke og korrigere feil og mangler, jf. pkt. 2.4 om internkontroll.
 
-Tiltakene skal bidra til å sikre korrektregistrering av faste datatildeling og søknadsbehandling, herunder dokumentasjon av beregningsresultaterutbetaling av stønad til rett mottaker og til rett tidregistrering i regnskapetbehandling av eventuell dokumentasjon fra stønadsmottakeren.
+Tiltakene skal bidra til å sikre korrekt
+
+- registrering av faste data
+- tildeling og søknadsbehandling, herunder dokumentasjon av beregningsresultater
+- utbetaling av stønad til rett mottaker og til rett tid
+- registrering i regnskapet
+- behandling av eventuell dokumentasjon fra stønadsmottakeren.
 
 Registrering og endring av opplysninger om betalingsmottakere skal utføres av andre enn den som utøver budsjettdisponeringsmyndighet.
 
@@ -1350,7 +1642,26 @@ Kapittel 8 gjelder for såkalte reelle garantiordninger, dvs. forhold der staten
 
 ### 8.2.1.1 Hovedelementer
 
-Utforming og vektlegging av hovedelementene i en garantiordning omtalt nedenfor, skal skje etter en konkret vurdering for den enkelte ordningen.Mål for ordningenDepartementet skal i tilknytning til forslag om ny garantifullmakt utarbeide formuleringer som tydeliggjør hva staten ønsker å oppnå med garantiordningen (målet) og hvilken målgruppe den tar sikte på.Hovedvilkår og spesifiserte standardvilkårDepartementet skal utarbeide hovedvilkår for garantitilsagn. Utgangspunktet er de normalvilkår Stortinget har godkjent for garantiordninger i sin alminnelighet (jf. pkt. 8.2.2) med eventuelle unntak fra disse. Dersom garantier skal kunne gis for lån i utenlandsk valuta, må dette omtales, herunder hvilke konsekvenser det skal ha. Departementet skal også sørge for at det blir fastsatt spesifiserte standardvilkår for ordningen, jf. pkt. 8.2.4.Kriterier for tilsagnDepartementet skal utarbeide kriterier for tilsagn om garanti.Oppfølging og kontrollDepartementet skal sørge for at det blir klargjort hvilken informasjon som skal innhentes fra avtalepartene og nødvendig kontroll med korrekthet og fullstendighet av informasjonen som legges til grunn ved garantitilsagn og som inngår i den etterfølgende rapporteringen, jf. punktene 8.3.2, 8.3.3 og 8.3.5.Innfrielse av garantiDepartementet skal sørge for at det blir fastsatt regler for garantiforvalters behandlingsmåte ved krav om innfrielse av statens garantiansvar, jf. pkt. 8.4.EvalueringDepartementet har ansvar for at garantiordninger blir evaluert, jf. pkt. 8.5.
+Utforming og vektlegging av hovedelementene i en garantiordning omtalt nedenfor, skal skje etter en konkret vurdering for den enkelte ordningen.
+
+1. Mål for ordningen
+
+   Departementet skal i tilknytning til forslag om ny garantifullmakt utarbeide formuleringer som tydeliggjør hva staten ønsker å oppnå med garantiordningen (målet) og hvilken målgruppe den tar sikte på.
+2. Hovedvilkår og spesifiserte standardvilkår
+
+   Departementet skal utarbeide hovedvilkår for garantitilsagn. Utgangspunktet er de normalvilkår Stortinget har godkjent for garantiordninger i sin alminnelighet (jf. pkt. 8.2.2) med eventuelle unntak fra disse. Dersom garantier skal kunne gis for lån i utenlandsk valuta, må dette omtales, herunder hvilke konsekvenser det skal ha. Departementet skal også sørge for at det blir fastsatt spesifiserte standardvilkår for ordningen, jf. pkt. 8.2.4.
+3. Kriterier for tilsagn
+
+   Departementet skal utarbeide kriterier for tilsagn om garanti.
+4. Oppfølging og kontroll
+
+   Departementet skal sørge for at det blir klargjort hvilken informasjon som skal innhentes fra avtalepartene og nødvendig kontroll med korrekthet og fullstendighet av informasjonen som legges til grunn ved garantitilsagn og som inngår i den etterfølgende rapporteringen, jf. punktene 8.3.2, 8.3.3 og 8.3.5.
+5. Innfrielse av garanti
+
+   Departementet skal sørge for at det blir fastsatt regler for garantiforvalters behandlingsmåte ved krav om innfrielse av statens garantiansvar, jf. pkt. 8.4.
+6. Evaluering
+
+   Departementet har ansvar for at garantiordninger blir evaluert, jf. pkt. 8.5.
 
 ### 8.2.1.2 Regelverk
 
@@ -1370,7 +1681,11 @@ Departementet skal i sin budsjettproposisjon rapportere til Stortinget om result
 
 ### 8.2.2 Hovedvilkår for statsgaranti
 
-Hovedvilkårene i en garantiordning skal normalt ha følgende innhold, i henhold til Stortingets behandling i 1982 og 1985:En garantiordning skal være selvfinansierende ved innkreving av garantiprovisjon/-gebyr. Det innbetales på et fond som skal dekke både forventede utgifter pga. tap og administrative utgifter.Garantiformen skal bestå i at staten stiller seg som simpel kausjonist, dvs. at statens garanti forfaller først når långiver kan dokumentere manglende betalingsevne hos låntaker.Det skal etableres en risikofordeling på pro rata basis mellom staten og øvrige långivere og garantister. Statens garantiansvar begrenses normalt til maksimalt 50 pst. av tapene.
+Hovedvilkårene i en garantiordning skal normalt ha følgende innhold, i henhold til Stortingets behandling i 1982 og 1985:
+
+1. En garantiordning skal være selvfinansierende ved innkreving av garantiprovisjon/-gebyr. Det innbetales på et fond som skal dekke både forventede utgifter pga. tap og administrative utgifter.
+2. Garantiformen skal bestå i at staten stiller seg som simpel kausjonist, dvs. at statens garanti forfaller først når långiver kan dokumentere manglende betalingsevne hos låntaker.
+3. Det skal etableres en risikofordeling på pro rata basis mellom staten og øvrige långivere og garantister. Statens garantiansvar begrenses normalt til maksimalt 50 pst. av tapene.
 
 En pro rata-fordeling innebærer at det vil være en tapsfordeling i samsvar med den fastsatte pro rata-fordeling, som normalt vil fordeles mellom partene i forhold til den maksimale risiko den enkelte part har påtatt seg. Dette medfører at alle sikkerheter som er stilt for lånet må stilles til gode for alle som deltar i den aktuelle pro rata-fordelingen og i samme forhold. Ingen av deltakerne kan ha tilgang på særskilte sikkerheter som de andre ikke har tilgang til. Staten skal sikres likeverdig adgang til eventuelle fremtidige sidesikkerheter som låntaker eventuelt stiller overfor medgarantistene i den perioden garantien løper.
 
@@ -1414,7 +1729,12 @@ Alle dokumenter skal oppbevares så lenge garantien gjelder.
 
 Vilkår som settes for garantien skal fortrinnsvis nedfelles i en avtale som undertegnes av garantiforvalter, låntaker(e) og långiver(e). Det skal settes en frist for å benytte tilsagn om garanti, hvoretter ubenyttet del av tilsagnet faller bort.
 
-Garantierklæringen/avtalen skal inneholde:Garantiordningens formål samt de vilkår og forutsetninger som staten har fastsatt, jf. pkt. 8.2.2 og 8.2.4.Andre vilkår og bestemmelser som er vanlig å ta inn i den aktuelle type garantier, enten ved henvisning eller direkte innarbeidelse.En løpende informasjonsplikt og krav til periodisk rapportering fra långiver. Låntaker skal normalt pålegges å sende inn regnskap, med revisors beretning og attestasjon, årsberetning og driftsrapporter.Klausuler om konsekvensene av eventuelt mislighold av vilkårene. Det må blant annet angis hvilken aktsomhetsgrad som skal legges til grunn.
+Garantierklæringen/avtalen skal inneholde:
+
+1. Garantiordningens formål samt de vilkår og forutsetninger som staten har fastsatt, jf. pkt. 8.2.2 og 8.2.4.
+2. Andre vilkår og bestemmelser som er vanlig å ta inn i den aktuelle type garantier, enten ved henvisning eller direkte innarbeidelse.
+3. En løpende informasjonsplikt og krav til periodisk rapportering fra långiver. Låntaker skal normalt pålegges å sende inn regnskap, med revisors beretning og attestasjon, årsberetning og driftsrapporter.
+4. Klausuler om konsekvensene av eventuelt mislighold av vilkårene. Det må blant annet angis hvilken aktsomhetsgrad som skal legges til grunn.
 
 Det skal vurderes om det er grunn til å presisere at statens rett til regress reguleres av forutsetningene for stortingsvedtaket og av garantivilkårene, og ikke påvirkes av om det eventuelt gis bevilgninger til å dekke et eventuelt tap.
 
@@ -1450,7 +1770,11 @@ Dersom staten unntaksvis har påtatt seg selvskyldnerkausjon, må garantiforvalt
 
 Når garantiforvalter betaler långiver, får staten rett til regress. For å hindre misforståelser, må dette likevel presiseres i avtalen.
 
-Etter at garantien er innfridd må garantiforvalter blant annet ta stilling tilom regressen skal inndrives eller om det skal inngås nedbetalingsavtalehvilke sikkerheter som bør realiseresanmeldelse av krav innen særskilt fastsatte foreldelsesfrister.
+Etter at garantien er innfridd må garantiforvalter blant annet ta stilling til
+
+- om regressen skal inndrives eller om det skal inngås nedbetalingsavtale
+- hvilke sikkerheter som bør realiseres
+- anmeldelse av krav innen særskilt fastsatte foreldelsesfrister.
 
 ### 8.5 Evaluering av garantiordninger
 

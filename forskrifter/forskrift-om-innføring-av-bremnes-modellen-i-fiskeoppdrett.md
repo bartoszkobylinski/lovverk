@@ -15,7 +15,7 @@ xml_hash: "43c3ceec3099baf1c2fef01c7cdf950772a565f5bcf5312cc028454e46adea2a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,22 @@ Forskriften gir innehavere av tillatelser nevnt i første ledd tilbud om å endr
 
 Tilbudet om å endre avgrensning av tillatelser skal offentliggjøres på Fiskeridirektoratets nettsider når departementet bestemmer. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknad og frist for innsending.Informasjon om vederlag og innbetaling av dette.Informasjon om vilkår.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknad og frist for innsending.
+2. Informasjon om vederlag og innbetaling av dette.
+3. Informasjon om vilkår.
 
 > Endret ved [forskrift 6 juli 2016 nr. 903](forskrift/2016-07-06-903).
 
 ## § 4. Vederlag
 
-For endring av tillatelsens avgrensning etter denne forskriften skal det betales vederlag til staten:For tillatelser i Troms og Finnmark som er avgrenset til 945 tonn, er vederlaget 1 500 000 kroner.For tillatelser i resten av landet som er avgrenset til 780 tonn, er vederlaget 1 500 000 kroner.For tillatelser som er avgrenset på annen måte, er vederlaget 1923 kroner per tonn tillatelsen er avgrenset til.For tillatelser som er tildelt etter 1. august 2016 gjelder bokstavene a til c, men slik at vederlaget inflasjonsjusteres. Vederlagets størrelse reduseres deretter etter hvor lang tid som er igjen av prøveperioden.
+For endring av tillatelsens avgrensning etter denne forskriften skal det betales vederlag til staten:
+
+1. For tillatelser i Troms og Finnmark som er avgrenset til 945 tonn, er vederlaget 1 500 000 kroner.
+2. For tillatelser i resten av landet som er avgrenset til 780 tonn, er vederlaget 1 500 000 kroner.
+3. For tillatelser som er avgrenset på annen måte, er vederlaget 1923 kroner per tonn tillatelsen er avgrenset til.
+4. For tillatelser som er tildelt etter 1. august 2016 gjelder bokstavene a til c, men slik at vederlaget inflasjonsjusteres. Vederlagets størrelse reduseres deretter etter hvor lang tid som er igjen av prøveperioden.
 
 Vederlaget skal betales til Fiskeridirektoratet, Økonomiseksjonen, Postboks 185 Sentrum, 5804 Bergen, kontonummer 7694 05 09048, og være merket med «Vederlag 2016 – [nummer på tillatelsen]».
 

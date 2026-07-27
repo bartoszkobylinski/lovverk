@@ -15,7 +15,7 @@ xml_hash: "9681c0cd29a94bae5210930243ead7f535434d8024349c8c03f355ece971fb17"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,10 @@ Organisasjonen som mottar bidrag til studentbasert internasjonalt hjelpearbeid e
 
 ### § 17. Plikt til å betale semesteravgift
 
-Følgende personer skal betale semesteravgift:En person som er tatt opp til studier ved en eller flere utdanningsinstitusjoner i Norge som til sammen er normert til 15 studiepoeng eller mer per semester.enhver som melder seg opp til eksamen.
+Følgende personer skal betale semesteravgift:
+
+1. En person som er tatt opp til studier ved en eller flere utdanningsinstitusjoner i Norge som til sammen er normert til 15 studiepoeng eller mer per semester.
+2. enhver som melder seg opp til eksamen.
 
 En person som er tatt opp til studier som til sammen er normert til mindre enn 15 studiepoeng per semester, kan velge å betale semesteravgift.
 
@@ -326,7 +329,13 @@ Medlem av styret som er valgt av de ansatte, kan ikke avsettes. Dette følger av
 
 ### Merknader til § 7:
 
-Av hensyn til ulike lokale forhold som kan gjøre seg gjeldende ved forskjellige studentsamskipnader, har departementet funnet det hensiktsmessig at studentsamskipnaden selv gir utfyllende regler. Vedtektsbestemmelsene må være innenfor rammene av lov og forskrift. Denne forskrift gir flere steder uttrykkelig anledning til å fastsette utfyllende eller alternative bestemmelser i vedtektene. Dette gjelder:kortere tjenestetid og begrensinger i samlet funksjonstid, jf. [§ 2](forskrift/2008-07-22-828/§2)annen innkrevingshyppighet for semesteravgiften enn hvert semester, jf. [§ 15](forskrift/2008-07-22-828/§15)krav til hvor mange medlemmer som må være tilstede for at styret skal være beslutningsdyktig, jf. [aksjeloven § 6-24](lov/1997-06-13-44/§6-24)krav til flertall for styrets ulike beslutninger, jf. [aksjeloven § 6-25](lov/1997-06-13-44/§6-25)strengere krav enn tilslutning fra to tredeler av styrets medlemmer ved vedtak om avsetting av studentenes medlemmer i studentsamskipnadens styre, jf. [§ 6](forskrift/2008-07-22-828/§6).
+Av hensyn til ulike lokale forhold som kan gjøre seg gjeldende ved forskjellige studentsamskipnader, har departementet funnet det hensiktsmessig at studentsamskipnaden selv gir utfyllende regler. Vedtektsbestemmelsene må være innenfor rammene av lov og forskrift. Denne forskrift gir flere steder uttrykkelig anledning til å fastsette utfyllende eller alternative bestemmelser i vedtektene. Dette gjelder:
+
+- kortere tjenestetid og begrensinger i samlet funksjonstid, jf. [§ 2](forskrift/2008-07-22-828/§2)
+- annen innkrevingshyppighet for semesteravgiften enn hvert semester, jf. [§ 15](forskrift/2008-07-22-828/§15)
+- krav til hvor mange medlemmer som må være tilstede for at styret skal være beslutningsdyktig, jf. [aksjeloven § 6-24](lov/1997-06-13-44/§6-24)
+- krav til flertall for styrets ulike beslutninger, jf. [aksjeloven § 6-25](lov/1997-06-13-44/§6-25)
+- strengere krav enn tilslutning fra to tredeler av styrets medlemmer ved vedtak om avsetting av studentenes medlemmer i studentsamskipnadens styre, jf. [§ 6](forskrift/2008-07-22-828/§6).
 
 Også på andre områder er ikke lov og forskrift uttømmende, slik at det kan være behov for å fastsette utfyllende regler i vedtekter. Blant annet er det etter aksjeloven generalforsamlingen som bestemmer om det skal velges varamedlemmer, men siden studentsamskipnadene ikke har generalforsamling, er det naturlig at bestemmelser om dette fastsettes i vedtektene.
 

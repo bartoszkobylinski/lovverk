@@ -56,9 +56,28 @@ All omsetning av skoglig formeringsmateriale skal registreres i et nasjonalt reg
 
 ## § 5-2. Varefakta
 
-Ved innenlands omsetning av skoglig formeringsmateriale skal disse opplysningene følge varepartiet:Ansvarlig produsent og leverandørReferansenummerFormeringsmaterialets natur: frø, planter eller plantedelerTreslag og proveniensMengdeEventuell informasjon om plantevernmidler
+Ved innenlands omsetning av skoglig formeringsmateriale skal disse opplysningene følge varepartiet:
 
-Produsenter og leverandører skal med henvisning til referansenr. også kunne dokumentere følgende opplysninger:ProduksjonslandNasjonalt enhetsnummer (nr. i nasjonalt register)For treslag; eventuell underart/varietet, sort, klon, kultivarInnsamlingssted: sankeområde/proveniensregion, lengde- og breddegrad, høyde over havet/høydelag, lokalitet0pprinnelse: stedegen, uviss, ikke stedegen (ev. opprinnelsessted)Kategori av materiale etter OECD-regleneGenerativt eller vegetativt formert materialeFrø: Modningsår og kvalitet. Planter: alder og plantetype (omskoling m.v.)Mengde (vekt eller antall)Behandling (type, varighet, kjemisk middel etc.)Pakningstype og -antall.
+1. Ansvarlig produsent og leverandør
+2. Referansenummer
+3. Formeringsmaterialets natur: frø, planter eller plantedeler
+4. Treslag og proveniens
+5. Mengde
+6. Eventuell informasjon om plantevernmidler
+
+Produsenter og leverandører skal med henvisning til referansenr. også kunne dokumentere følgende opplysninger:
+
+1. Produksjonsland
+2. Nasjonalt enhetsnummer (nr. i nasjonalt register)
+3. For treslag; eventuell underart/varietet, sort, klon, kultivar
+4. Innsamlingssted: sankeområde/proveniensregion, lengde- og breddegrad, høyde over havet/høydelag, lokalitet
+5. 0pprinnelse: stedegen, uviss, ikke stedegen (ev. opprinnelsessted)
+6. Kategori av materiale etter OECD-reglene
+7. Generativt eller vegetativt formert materiale
+8. Frø: Modningsår og kvalitet. Planter: alder og plantetype (omskoling m.v.)
+9. Mengde (vekt eller antall)
+10. Behandling (type, varighet, kjemisk middel etc.)
+11. Pakningstype og -antall.
 
 Ved eksport/import av skoglig formeringsmateriale skal godkjent sertifikat være utstedt og følge forsendelsen. Sertifikatet skal inneholde opplysninger i henhold til punkt a til q ovenfor, samt sertifikatnummer, kontrollmyndighet, dato og underskrift. Departementet godkjenner og/eller utsteder sertifikatet.
 
@@ -104,11 +123,25 @@ Det må tas hensyn til det enkelte treslags utbredelse og egenskaper.
 
 Ved bruk av vegetativt formert materiale skal det tas spesielt hensyn til skogstrærnes genetiske variasjon. Det skal derfor alltid være klonblandinger når det anvendes vegetativt formert materiale og blandinger med frøplanter skal tilstrebes.
 
-Følgende minimumskrav gjelder for bruk av vegetativt formert materiale:*Bulkformert materiale*Bulkformert materiale som skal anvendes på én og samme lokalitet/flate, må stamme fra minst 10 helsøsken- eller halvsøsken-familier.Materialet må være testet og ha som utgangspunkt minst 100 frøplanter fra hver familie. Oppformert materiale av ordinære frø- og plantepartier kan brukes utestet når det er basert på minimum 1000 individer.*Klonformert materiale*Klonformerte planter på samme plantefelt må inneholde minst 30 testede kloner. Plantene/stiklingene må stamme fra minst 10 antatt ubeslektede foreldrepar. Maksimalt 50 planter fra hver klon kan brukes på den enkelte lokalitet.Ved 50% innblanding av frøplanter med stor arvelig variasjon kan antall planter fra hver klon økes til 100.
+Følgende minimumskrav gjelder for bruk av vegetativt formert materiale:
+
+1. *Bulkformert materiale*
+
+   Bulkformert materiale som skal anvendes på én og samme lokalitet/flate, må stamme fra minst 10 helsøsken- eller halvsøsken-familier.
+
+   Materialet må være testet og ha som utgangspunkt minst 100 frøplanter fra hver familie. Oppformert materiale av ordinære frø- og plantepartier kan brukes utestet når det er basert på minimum 1000 individer.
+2. *Klonformert materiale*
+
+   Klonformerte planter på samme plantefelt må inneholde minst 30 testede kloner. Plantene/stiklingene må stamme fra minst 10 antatt ubeslektede foreldrepar. Maksimalt 50 planter fra hver klon kan brukes på den enkelte lokalitet.
+
+   Ved 50% innblanding av frøplanter med stor arvelig variasjon kan antall planter fra hver klon økes til 100.
 
 ## § 6-6. Unntak
 
-Bruk av skoglig formeringsmateriale ut over rammene gitt i [§§ 6-1](forskrift/1996-03-01-291/§6-1) til [6-4](forskrift/1996-03-01-291/§6-4) og av treslag utenfor det naturlige utbredelsesområdet kan skje når:Det i et område ikke fins egnede treslag og provenienserMaterialet er vesentlig bedre.
+Bruk av skoglig formeringsmateriale ut over rammene gitt i [§§ 6-1](forskrift/1996-03-01-291/§6-1) til [6-4](forskrift/1996-03-01-291/§6-4) og av treslag utenfor det naturlige utbredelsesområdet kan skje når:
+
+1. Det i et område ikke fins egnede treslag og provenienser
+2. Materialet er vesentlig bedre.
 
 Slik bruk er aktuell ved skogreising og ved juletre- og pyntegrønt-produksjon.
 
@@ -122,17 +155,35 @@ Det norske Skogfrøverk gir også anbefalinger om bruk av materiale fra frøavls
 
 ## § 7. Oppgaveplikt o.a.
 
-1. Kommunen skal:Gi nødvendige opplysninger om blomstring, frø- og konglesetting o.a. for å sikre forsyningen av skogfrø, i henhold til instrukser fra Det norske Skogfrøverk.Bistå statsforvalteren og Det norske Skogfrøverk med organisering og kontroll av frø- og konglesankingen.
-2. Produsenter og leverandører av skoglig formeringsmateriale skal:Gi statsforvalteren oppgaver over levert og planlagt produksjon.Innhente, oppbevare og gi opplysninger om materialet de markedsfører.
+1. Kommunen skal:
+
+   - Gi nødvendige opplysninger om blomstring, frø- og konglesetting o.a. for å sikre forsyningen av skogfrø, i henhold til instrukser fra Det norske Skogfrøverk.
+   - Bistå statsforvalteren og Det norske Skogfrøverk med organisering og kontroll av frø- og konglesankingen.
+2. Produsenter og leverandører av skoglig formeringsmateriale skal:
+
+   - Gi statsforvalteren oppgaver over levert og planlagt produksjon.
+   - Innhente, oppbevare og gi opplysninger om materialet de markedsfører.
 3. Brukeren av skoglig formeringsmateriale må oppbevare de opplysninger som er gitt av leverandør.
 
 > Endret ved forskrift [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
 ## § 8. Kontroll
 
-1. *Kontrollmyndighet*Landbruksdepartementet har det overordnede kontrollansvar for produksjon og omsetning av skoglig formeringsmateriale.
+1. *Kontrollmyndighet*
 
-Departementet kan bemyndige statsforvalter, kommunen, et kontrollutvalg og/eller andre godkjente organer eller institusjoner til å utføre spesielle kontroll- og godkjenningsoppgaver.*Kontroll av bruk*Statsforvalteren har ansvaret for å kontrollere at treslag og provenienser brukes etter gjeldende regler og at bruken er skogbruksfaglig forsvarlig.*Kommunens kontrollansvar*Kommunen skal bistå statsforvalteren med kontroll- og godkjenningsoppgaver.*Skogeiers ansvar*Skogeier bør kontrollere at han/hun ifølge vedlagte opplysninger har mottatt det bestilte produkt.
+   Landbruksdepartementet har det overordnede kontrollansvar for produksjon og omsetning av skoglig formeringsmateriale.
+
+Departementet kan bemyndige statsforvalter, kommunen, et kontrollutvalg og/eller andre godkjente organer eller institusjoner til å utføre spesielle kontroll- og godkjenningsoppgaver.
+
+1. *Kontroll av bruk*
+
+   Statsforvalteren har ansvaret for å kontrollere at treslag og provenienser brukes etter gjeldende regler og at bruken er skogbruksfaglig forsvarlig.
+2. *Kommunens kontrollansvar*
+
+   Kommunen skal bistå statsforvalteren med kontroll- og godkjenningsoppgaver.
+3. *Skogeiers ansvar*
+
+   Skogeier bør kontrollere at han/hun ifølge vedlagte opplysninger har mottatt det bestilte produkt.
 
 > Endret ved forskrift [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 

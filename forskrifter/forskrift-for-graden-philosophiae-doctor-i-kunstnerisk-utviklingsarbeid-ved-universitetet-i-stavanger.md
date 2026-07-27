@@ -30,7 +30,13 @@ Forskriften gjelder all utdanning som fører frem til graden philosophiae doctor
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med:*Doktorgrad:* Graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid, omtales også som kunstnerisk ph.d.*Kandidat:* Ph.d.-kandidat i kunstnerisk utviklingsarbeid som er omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.*Doktorgradsarbeid:* Det arbeidet som utføres av kandidaten innenfor avtalt periode, opplæringsdelen ikke medregnet. Også kalt prosjektet.*Kunstnerisk doktorgradsresultat:* Både det utøvende og/eller det skapende kunstneriske resultatet og materialet som dokumenterer kunstnerisk og kritisk refleksjon, som også omtales som refleksjonsdelen. Også kalt doktorgradsresultat.*Kunstnerisk resultat:* Det utøvende eller skapende kunstneriske resultatet.
+I denne forskriften menes med:
+
+1. *Doktorgrad:* Graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid, omtales også som kunstnerisk ph.d.
+2. *Kandidat:* Ph.d.-kandidat i kunstnerisk utviklingsarbeid som er omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.
+3. *Doktorgradsarbeid:* Det arbeidet som utføres av kandidaten innenfor avtalt periode, opplæringsdelen ikke medregnet. Også kalt prosjektet.
+4. *Kunstnerisk doktorgradsresultat:* Både det utøvende og/eller det skapende kunstneriske resultatet og materialet som dokumenterer kunstnerisk og kritisk refleksjon, som også omtales som refleksjonsdelen. Også kalt doktorgradsresultat.
+5. *Kunstnerisk resultat:* Det utøvende eller skapende kunstneriske resultatet.
 
 ### § 1-3. Omfang, innhold og målsetting for doktorgradsutdanningen
 
@@ -40,7 +46,13 @@ Utdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse i tråd med n
 
 Utdanningens viktigste komponent er et selvstendig kunstnerisk utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Den kunstneriske doktorgraden tildeles på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent kunstnerisk resultatgodkjent refleksjonsdelgodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
+Den kunstneriske doktorgraden tildeles på grunnlag av:
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent kunstnerisk resultat
+- godkjent refleksjonsdel
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
 
 Doktorgradsutdanningen skal være lagt opp slik at den er mulig å fullføre innenfor normert tidsramme.
 
@@ -116,7 +128,11 @@ Dersom det skal vedtas tvungen avslutning for en stipendiat ansatt ved Universit
 
 ### § 2-8. Tvungen avslutning hvis kandidat i vesentlig grad ikke oppfyller forpliktelser etter doktorgradsavtalen
 
-Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen før avtalt tid kandidaten i vesentlig grad ikke oppfyller forpliktelsene sine etter doktorgradsavtalen, jf. [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2), så som:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 5-1](forskrift/2025-06-12-1280/§5-1).Forsinkelse i fremdriften av doktorgradsarbeidet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
+Fakultetet selv kan vedta tvungen avslutning av doktorgradsutdanningen før avtalt tid kandidaten i vesentlig grad ikke oppfyller forpliktelsene sine etter doktorgradsavtalen, jf. [universitets- og høyskoleloven § 13-2 andre ledd](lov/2024-03-08-9/§13-2/ledd/2), så som:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 5-1](forskrift/2025-06-12-1280/§5-1).
+- Forsinkelse i fremdriften av doktorgradsarbeidet av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
 
 Tvungen avslutning etter denne bestemmelsen kan bare vedtas dersom forsinkelsen eller den manglende fremdriften skyldes forhold som kandidaten selv rår over.
 
@@ -208,7 +224,11 @@ Normalt skal bare arbeider som er produsert etter opptak i et ph.d.-program inng
 
 Det kunstneriske resultatet skal være et kunstnerisk arbeid på høyt nivå når det gjelder originalitet, uttrykk, sammenheng og formidling. Det kunstneriske resultatet skal presenteres offentlig.
 
-Den kunstneriske og kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelderprosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt.bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
+Den kunstneriske og kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder
+
+- prosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
+- plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt.
+- bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
 
 Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon.
 
@@ -252,7 +272,17 @@ Det er hovedveileders ansvar å gjøre fakultetet oppmerksom på at innlevering 
 
 Søknad om å få det kunstneriske doktorgradsresultatet bedømt skal rettes til fakultetet.
 
-Som vedlegg til søknaden skal følge:Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering.Redegjørelse for hvordan opplæringsdelen er oppfylt, og for eventuelt annen faglig skolering eller kompetanse.Dokumentasjon av eventuelle nødvendige tillatelser.Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.Erklæring fra samarbeidspartner hvor dette er påkrevd, jf. [§ 6-2](forskrift/2025-06-12-1280/§6-2).Erklæring om hvorvidt doktorgradsresultatet innleveres til bedømmelse for første eller andre gang.Erklæring om at doktorgradsresultatet ikke er innlevert til bedømmelse ved annen institusjon.Uttalelse fra hovedveileder.
+Som vedlegg til søknaden skal følge:
+
+- Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.
+- Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering.
+- Redegjørelse for hvordan opplæringsdelen er oppfylt, og for eventuelt annen faglig skolering eller kompetanse.
+- Dokumentasjon av eventuelle nødvendige tillatelser.
+- Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.
+- Erklæring fra samarbeidspartner hvor dette er påkrevd, jf. [§ 6-2](forskrift/2025-06-12-1280/§6-2).
+- Erklæring om hvorvidt doktorgradsresultatet innleveres til bedømmelse for første eller andre gang.
+- Erklæring om at doktorgradsresultatet ikke er innlevert til bedømmelse ved annen institusjon.
+- Uttalelse fra hovedveileder.
 
 Søknaden rettes til fakultetet senest fem (5) måneder før det planlagte tidspunktet for presentasjon av det kunstneriske resultatet.
 
@@ -268,7 +298,14 @@ Habilitetsreglene i [forvaltningsloven § 6](lov/2025-06-20-81/§6) til [§ 10](
 
 Fagenhet foreslår bedømmelseskomité. Eksterne medlemmer som oppnevnes kan ikke være ansatt ved Universitetet i Agder. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker doktorgradsresultatets fagfelt. Kandidaten skal underrettes om forslaget til sammensetning av komité, og gis anledning til å innlevere skriftlige merknader til sammensetningen av komitéen senest innen en uke etter at kandidaten har mottatt underretningen.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:forskjellige kjønn er representert.minst ett av medlemmene er ansatt ved universitetet.minst ett av medlemmene er uten tilknytning til universitetet.minst ett av medlemmene har hovedstilling ved utenlandsk institusjon.alle medlemmene har doktorgrad eller tilsvarende kompetanse og minst to av medlemmene har relevant kunstnerisk kompetanse på minimum førsteamanuensisnivå.flertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- forskjellige kjønn er representert.
+- minst ett av medlemmene er ansatt ved universitetet.
+- minst ett av medlemmene er uten tilknytning til universitetet.
+- minst ett av medlemmene har hovedstilling ved utenlandsk institusjon.
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse og minst to av medlemmene har relevant kunstnerisk kompetanse på minimum førsteamanuensisnivå.
+- flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Oppnevnte veiledere og andre som har bidratt til det kunstneriske doktorgradsresultatet, kan ikke være medlem av bedømmelseskomiteen eller administrere den.
 

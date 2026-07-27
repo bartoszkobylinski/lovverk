@@ -15,7 +15,7 @@ xml_hash: "db67093486d2c27c96d8183604f265e5a54dda2421941bdbe3a961a6a084e3ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,11 @@ Kommunen er innkrevingsmyndighet.
 
 (1) Den avgiftspliktige skal på forespørsel gi kommunen de opplysningene som er nødvendige for å kontrollere grunnlaget for beregning, innkreving og betaling av avgiften. Kommunen kan sette en frist for å gi opplysninger etter første punktum. Fristen skal ikke være kortere enn fire uker.
 
-(2) Skattemyndighetenes taushetsplikt etter [skatteforvaltningsloven § 3-1 første ledd](lov/2016-05-27-14/§3-1/ledd/1) er ikke til hinder for at kommunen til bruk i sitt arbeid med innkreving og kontroll av overnattingsavgiften kan motta opplysninger fra skattemyndighetene om:hvilke skattytere som har hatt inntekter fra overnattingstjenester i kommunenhvor stor inntekt fra slike tjenester som er rapportert fra en skattyter og et formidlingsselskap som skattyteren har benyttet seg avadressene til hver av skattyterens utleide enheter.
+(2) Skattemyndighetenes taushetsplikt etter [skatteforvaltningsloven § 3-1 første ledd](lov/2016-05-27-14/§3-1/ledd/1) er ikke til hinder for at kommunen til bruk i sitt arbeid med innkreving og kontroll av overnattingsavgiften kan motta opplysninger fra skattemyndighetene om:
+
+1. hvilke skattytere som har hatt inntekter fra overnattingstjenester i kommunen
+2. hvor stor inntekt fra slike tjenester som er rapportert fra en skattyter og et formidlingsselskap som skattyteren har benyttet seg av
+3. adressene til hver av skattyterens utleide enheter.
 
 ### § 2-7. Tvangsmulkt
 
@@ -124,7 +128,18 @@ Kommunen er innkrevingsmyndighet.
 
 (2) Inntektene fra avgiften kan kun benyttes til å finansiere elementer som nevnt i [§ 1-1 annet ledd](lov/2025-06-20-104/§1-1/ledd/2).
 
-(3) I forskrift etter første ledd kan det fastsettes regler om blant annet:hvilke typer cruisetrafikk og fartøy som omfattes av avgiftenhvem som er ansvarlig for å betale avgiftenavgiftens størrelsehvordan avgiften skal beregnes og betaleshvem som har myndighet til å fastsette og kreve inn avgiften, herunder om myndigheten skal legges til kommunenfritak fra avgiftspliktenopplysningsplikter for den avgiftspliktigeunntak fra taushetsplikt ved utlevering av skatteopplysningertvangsmulkt, tvangsgrunnlag og forsinkelsesrenterklageadgang og betalingsutsettelse.
+(3) I forskrift etter første ledd kan det fastsettes regler om blant annet:
+
+1. hvilke typer cruisetrafikk og fartøy som omfattes av avgiften
+2. hvem som er ansvarlig for å betale avgiften
+3. avgiftens størrelse
+4. hvordan avgiften skal beregnes og betales
+5. hvem som har myndighet til å fastsette og kreve inn avgiften, herunder om myndigheten skal legges til kommunen
+6. fritak fra avgiftsplikten
+7. opplysningsplikter for den avgiftspliktige
+8. unntak fra taushetsplikt ved utlevering av skatteopplysninger
+9. tvangsmulkt, tvangsgrunnlag og forsinkelsesrenter
+10. klageadgang og betalingsutsettelse.
 
 ## Kapittel 4. Besøksbidrag for Longyearbyen
 
@@ -134,7 +149,14 @@ Kommunen er innkrevingsmyndighet.
 
 (2) Besøksbidraget skal finansiere offentlig infrastruktur og offentlige tjenester som er en forutsetning for reiselivsaktivitet i Longyearbyen, og andre tjenester for reiselivet.
 
-(3) I forskrift etter første ledd kan det fastsettes regler om blant annet:beregning av avgiften og avgiftens størrelseinnkrevingtvangsmulkt, tvangsgrunnlag og forsinkelsesrenteropplysningsplikt og unntak fra taushetspliktklage og betalingsutsettelsefritak fra avgiften.
+(3) I forskrift etter første ledd kan det fastsettes regler om blant annet:
+
+1. beregning av avgiften og avgiftens størrelse
+2. innkreving
+3. tvangsmulkt, tvangsgrunnlag og forsinkelsesrenter
+4. opplysningsplikt og unntak fra taushetsplikt
+5. klage og betalingsutsettelse
+6. fritak fra avgiften.
 
 ## Kapittel 5. Sluttbestemmelser
 

@@ -15,7 +15,7 @@ xml_hash: "45d6fa0d68d14a2df0b2a5cfcfee9d14389c151a0e417da61ccd15df02912a35"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ eu_basis: []
 
 1\. Offentlig trafikkskilt, vegoppmerking og trafikklyssignal er gyldig bare når de er plassert etter vedtak av vedkommende myndighet. Offentlig trafikkskilt gjelder etter sitt innhold fra det øyeblikk det er satt opp og avdekket.
 
-2\. Offentlig trafikkskilt, vegoppmerking og trafikklyssignal gjelder for vegen i den tillatte kjøreretning og for den trafikantgruppe som de retter seg mot.Dersom det er flere kjørefelt i kjøreretningen og offentlig trafikkskilt er plassert over midten av et kjørefelt, gjelder skiltet bare for vedkommende felt.Unntak fra bestemmelsene i nummeret her kan være fastsatt for enkelte skilt eller skiltgrupper.
+2\. Offentlig trafikkskilt, vegoppmerking og trafikklyssignal gjelder for vegen i den tillatte kjøreretning og for den trafikantgruppe som de retter seg mot.
+
+Dersom det er flere kjørefelt i kjøreretningen og offentlig trafikkskilt er plassert over midten av et kjørefelt, gjelder skiltet bare for vedkommende felt.
+
+Unntak fra bestemmelsene i nummeret her kan være fastsatt for enkelte skilt eller skiltgrupper.
 
 3\. Offentlig trafikkskilt kan være utført slik at skiltet kan veksle mellom to eller flere forskjellige symboler eller tekster. I slike tilfeller kan utforming og farge avvike fra det som er angitt i denne forskrift.
 
@@ -357,7 +361,13 @@ Skiltene 530-539 har utforming som er tilpasset kjørefeltenes antall og retning
 
 1\. Vegvisningsskilt gir opplysninger om stedsnavn, virksomheter, vegruter, valg av kjørefelt, valg av veg og avstand til reisemål.
 
-2\. Skiltene 701-719 og 725 har følgende farger:For geografiske mål: Blå bunn og hvit tekst for motorveger, gul bunn og sort tekst for andre veger.For andre mål: Hvit bunn og sort tekst.For midlertidig vegvisning: Oransje bunn og sort tekst.For mål av særlig interesse for turisttrafikk kan skiltene ha brun bunn og hvit tekst.
+2\. Skiltene 701-719 og 725 har følgende farger:
+
+- For geografiske mål: Blå bunn og hvit tekst for motorveger, gul bunn og sort tekst for andre veger.
+- For andre mål: Hvit bunn og sort tekst.
+- For midlertidig vegvisning: Oransje bunn og sort tekst.
+
+For mål av særlig interesse for turisttrafikk kan skiltene ha brun bunn og hvit tekst.
 
 3\. Vegvisningsskilt har ikke underskilt. I stedet kan tekst, tall og symboler som beskrevet i denne forskrift, være anbrakt på vegvisningsskiltet. Dersom offentlig trafikkskilt er gjengitt på vegvisningsskilt, betyr det at tilsvarende skilt er satt opp på den veg det vises til.
 
@@ -670,13 +680,23 @@ Langsgående oppmerking nyttes for å dele kjørebanen i kjørefelt eller for å
 
 ### § 25. Anvisning gitt av politiet
 
-Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:Er arm rettet utad, skal trafikant som nærmer seg forfra eller bakfra stanse. Den som nærmer seg fra siden, kan passere.Er arm rettet oppad, skal enhver trafikant stanse. Kjørende som har nådd så langt fram at kjøretøyet ikke uten fare kan stanses, kan fortsette. Trafikant som er i vegkryss, skal forlate krysset.Når lykt med rødt lys svinges fram og tilbake, skal trafikant som ferdes i retning mot lyset stanse.
+Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:
+
+1. Er arm rettet utad, skal trafikant som nærmer seg forfra eller bakfra stanse. Den som nærmer seg fra siden, kan passere.
+2. Er arm rettet oppad, skal enhver trafikant stanse. Kjørende som har nådd så langt fram at kjøretøyet ikke uten fare kan stanses, kan fortsette. Trafikant som er i vegkryss, skal forlate krysset.
+3. Når lykt med rødt lys svinges fram og tilbake, skal trafikant som ferdes i retning mot lyset stanse.
 
 ## Kapittel 13. Skiltmyndigheter m.m.
 
 ### § 26. Myndighet for fartsgrenser m.m.
 
-1\. For bestemt vegstrekning kan Vegdirektoratet treffe vedtak om høyere fartsgrense enn det som følger av [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet ledd.For bestemt vegstrekning eller sone kan det treffes vedtak om lavere fartsgrense enn det som følger av [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet ledd. Slikt vedtak treffes for riksveg, fylkesveg og privat veg av Statens vegvesen og for kommunal veg av kommunen. Dersom en sone også omfatter annen veg enn kommunal veg, treffes vedtaket av Statens vegvesen.Før vedtak treffes etter første eller annet ledd, skal politiet få uttale seg. Før Statens vegvesen treffer vedtak etter annet ledd, skal også fylkeskommunen og kommunen få uttale seg.Ved arbeid på offentlig veg kan det treffes midlertidig vedtak om en lavere fartsgrense etter kapittel 14 i denne forskrift. For privat veg treffes slikt vedtak av Statens vegvesen. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven treffes slikt vedtak av kommunen.
+1\. For bestemt vegstrekning kan Vegdirektoratet treffe vedtak om høyere fartsgrense enn det som følger av [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet ledd.
+
+For bestemt vegstrekning eller sone kan det treffes vedtak om lavere fartsgrense enn det som følger av [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet ledd. Slikt vedtak treffes for riksveg, fylkesveg og privat veg av Statens vegvesen og for kommunal veg av kommunen. Dersom en sone også omfatter annen veg enn kommunal veg, treffes vedtaket av Statens vegvesen.
+
+Før vedtak treffes etter første eller annet ledd, skal politiet få uttale seg. Før Statens vegvesen treffer vedtak etter annet ledd, skal også fylkeskommunen og kommunen få uttale seg.
+
+Ved arbeid på offentlig veg kan det treffes midlertidig vedtak om en lavere fartsgrense etter kapittel 14 i denne forskrift. For privat veg treffes slikt vedtak av Statens vegvesen. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven treffes slikt vedtak av kommunen.
 
 2\. Statens vegvesen kan treffe vedtak om et område skal anses som tettbygd strøk etter [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet ledd og fastsette grensen for det tettbygde strøket. Før Statens vegvesen treffer slikt vedtak, skal politiet og kommunen få uttale seg. Omfatter området bare kommunale veger, treffes slikt vedtak av kommunen etter at Statens vegvesen og politiet har fått uttale seg.
 
@@ -692,11 +712,29 @@ Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:Er arm 
 
 ### § 28. Myndighet for trafikkregulerende skilt
 
-1\. For offentlig og privat veg kan Statens vegvesen treffe vedtak om å sette opp eller å ta nedforbudsskilt og påbudsskilt unntatt skilt som omfattes av bestemmelsene i [§ 26](forskrift/2005-10-07-1219/§26) og [§ 27](forskrift/2005-10-07-1219/§27),skiltene 506 «Tungtrafikkfelt», 507 «Slutt på tungtrafikkfelt», 508 «Kollektivfelt», 509 «Sambruksfelt», 510 «Slutt på kollektivfelt», 511 «Slutt på sambruksfelt», 512 «Holdeplass for buss», 513 «Holdeplass for sporvogn», 514 «Holdeplass for drosje», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 526 «Envegskjøring», 548 «Gågate», 550 «Slutt på gågate» og 552 «Parkering», ogeventuelle underskilt til disse.For kommunal veg kan vedtaksmyndigheten helt eller delvis delegeres til kommune eller politi med god trafikkteknisk kompetanse.Politiet og kommune som har fått delegert vedtaksmyndighet etter annet ledd kan i særlige tilfeller for en enkelt gang gi dispensasjon fra bestemmelsene i skilt 306.1 «Forbudt for motorvogn» eller 548 «Gågate» for bestemt motorvogn. Skiltmyndigheten kan gi dispensasjon til forflytningshemmet fra parkeringsforbud som følger av skilt 372 «Parkering forbudt», 552 «Parkering» eller 376 «Parkeringssone».Statens vegvesen kan gi dispensasjon fra skilt 314 «Høydegrense».
+1\. For offentlig og privat veg kan Statens vegvesen treffe vedtak om å sette opp eller å ta ned
+
+1. forbudsskilt og påbudsskilt unntatt skilt som omfattes av bestemmelsene i [§ 26](forskrift/2005-10-07-1219/§26) og [§ 27](forskrift/2005-10-07-1219/§27),
+2. skiltene 506 «Tungtrafikkfelt», 507 «Slutt på tungtrafikkfelt», 508 «Kollektivfelt», 509 «Sambruksfelt», 510 «Slutt på kollektivfelt», 511 «Slutt på sambruksfelt», 512 «Holdeplass for buss», 513 «Holdeplass for sporvogn», 514 «Holdeplass for drosje», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 526 «Envegskjøring», 548 «Gågate», 550 «Slutt på gågate» og 552 «Parkering», og
+3. eventuelle underskilt til disse.
+
+For kommunal veg kan vedtaksmyndigheten helt eller delvis delegeres til kommune eller politi med god trafikkteknisk kompetanse.
+
+Politiet og kommune som har fått delegert vedtaksmyndighet etter annet ledd kan i særlige tilfeller for en enkelt gang gi dispensasjon fra bestemmelsene i skilt 306.1 «Forbudt for motorvogn» eller 548 «Gågate» for bestemt motorvogn. Skiltmyndigheten kan gi dispensasjon til forflytningshemmet fra parkeringsforbud som følger av skilt 372 «Parkering forbudt», 552 «Parkering» eller 376 «Parkeringssone».
+
+Statens vegvesen kan gi dispensasjon fra skilt 314 «Høydegrense».
 
 2\. For riksveg, fylkesveg og privat veg kan Statens vegvesen treffe vedtak om å sette opp eller å ta ned skiltene 516 «Gangfelt», 524 «Møteplass», 528 «Valgfritt kjørefelt», 530 «Sammenfletting», 531 «Felt for fartsøkning», 532 «Kjørefelt slutter», 534 «Kjørefelt begynner», 536 «Påkjøring fortsetter i eget kjørefelt», 538 «Kjørefeltinndeling», 539 «Endret kjøremønster», 540 «Gatetun», 542 «Slutt på gatetun» og 560 «Opplysningstavle». For kommunal veg kan kommunen treffe slikt vedtak.
 
-3\. Dersom vedtak etter nr. 1 eller nr. 2 er av særlig stor betydning eller i særlig grad berører kommunale interesser, skal kommunen få uttale seg før vedtak treffes. Tilsvarende skal ansvarlig for privat veg få uttale seg dersom vedtaket vil gjelde for den private vegen.Før Statens vegvesen treffer vedtak etter nr. 1 og nr. 2 for riksveg, fylkesveg eller kommunal veg, skal politiet få uttale seg. Før Statens vegvesen eller politiet treffer vedtak etter nr. 1 for kommunal veg, skal kommunen få uttale seg. Før kommunen treffer vedtak, skal Statens vegvesen og politiet få uttale seg.Unntatt fra høring som nevnt i dette nummer, er skiltene 324 «Stopp for angitt formål», 326 «Stopp for toll», 406 «Påbudt rundkjøring», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 524 «Møteplass», 528 «Valgfritt kjørefelt», 530 «Sammenfletting», 531 «Felt for fartsøkning», 532 «Kjørefelt slutter», 534 «Kjørefelt begynner», 536 «Påkjøring fortsetter i eget kjørefelt», 538 «Kjørefeltinndeling», 539 «Endret kjøremønster» og 560 «Opplysningstavle». Høring kreves heller ikke for skiltene 312 «Breddegrense», 314 «Høydegrense», 316 «Lengdegrense», 318 «Totalvektgrense», 320 «Aksellastgrense», 322 «Boggilastgrense», 402 «Påbudt kjøreretning» eller 404 «Påbudt kjørefelt» når reguleringen er en følge av rent tekniske forhold ved vegen.Det kan treffes midlertidig vedtak for et tidsrom av inntil tre måneder uten at det er innhentet uttalelser som nevnt i nummeret her.Politiet kan regulere vegtrafikken med skilt i samsvar med [vegtrafikkloven § 9](lov/1965-06-18-4/§9). Vedkommende myndighet kan regulere vegtrafikken med skilt i samsvar med [vegtrafikkloven § 7](lov/1965-06-18-4/§7) annet ledd. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven, har kommunen denne myndighet.
+3\. Dersom vedtak etter nr. 1 eller nr. 2 er av særlig stor betydning eller i særlig grad berører kommunale interesser, skal kommunen få uttale seg før vedtak treffes. Tilsvarende skal ansvarlig for privat veg få uttale seg dersom vedtaket vil gjelde for den private vegen.
+
+Før Statens vegvesen treffer vedtak etter nr. 1 og nr. 2 for riksveg, fylkesveg eller kommunal veg, skal politiet få uttale seg. Før Statens vegvesen eller politiet treffer vedtak etter nr. 1 for kommunal veg, skal kommunen få uttale seg. Før kommunen treffer vedtak, skal Statens vegvesen og politiet få uttale seg.
+
+Unntatt fra høring som nevnt i dette nummer, er skiltene 324 «Stopp for angitt formål», 326 «Stopp for toll», 406 «Påbudt rundkjøring», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 524 «Møteplass», 528 «Valgfritt kjørefelt», 530 «Sammenfletting», 531 «Felt for fartsøkning», 532 «Kjørefelt slutter», 534 «Kjørefelt begynner», 536 «Påkjøring fortsetter i eget kjørefelt», 538 «Kjørefeltinndeling», 539 «Endret kjøremønster» og 560 «Opplysningstavle». Høring kreves heller ikke for skiltene 312 «Breddegrense», 314 «Høydegrense», 316 «Lengdegrense», 318 «Totalvektgrense», 320 «Aksellastgrense», 322 «Boggilastgrense», 402 «Påbudt kjøreretning» eller 404 «Påbudt kjørefelt» når reguleringen er en følge av rent tekniske forhold ved vegen.
+
+Det kan treffes midlertidig vedtak for et tidsrom av inntil tre måneder uten at det er innhentet uttalelser som nevnt i nummeret her.
+
+Politiet kan regulere vegtrafikken med skilt i samsvar med [vegtrafikkloven § 9](lov/1965-06-18-4/§9). Vedkommende myndighet kan regulere vegtrafikken med skilt i samsvar med [vegtrafikkloven § 7](lov/1965-06-18-4/§7) annet ledd. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven, har kommunen denne myndighet.
 
 > Endret ved forskrifter [14 jan 2013 nr. 40](forskrift/2013-01-14-40), [25 sep 2014 nr. 1241](forskrift/2014-09-25-1241) som endret ved [forskrift 10 des 2014 nr. 1553](forskrift/2014-12-10-1553) (i kraft 1 jan 2015), [5 mai 2017 nr. 531](forskrift/2017-05-05-531), [19 des 2019 nr. 2042](forskrift/2019-12-19-2042) (i kraft 1 jan 2020).
 
@@ -714,7 +752,13 @@ Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:Er arm 
 
 ### § 30. Myndighet for trafikklyssignal og vegoppmerking
 
-1\. Vegdirektoratet kan treffe vedtak om å sette opp eller å ta ned trafikklyssignal for offentlig og privat veg.Før vedtak treffes etter første ledd, skal politiet og kommunen eller den ansvarlige for privat veg få uttale seg.Vedtak om 1096 «Blinkende signal foran jernbane» kan treffes etter at vedkommende banemyndighet har fått uttale seg.Oppsetting av 1092 «Tolyssignal» krever ikke vedtak.
+1\. Vegdirektoratet kan treffe vedtak om å sette opp eller å ta ned trafikklyssignal for offentlig og privat veg.
+
+Før vedtak treffes etter første ledd, skal politiet og kommunen eller den ansvarlige for privat veg få uttale seg.
+
+Vedtak om 1096 «Blinkende signal foran jernbane» kan treffes etter at vedkommende banemyndighet har fått uttale seg.
+
+Oppsetting av 1092 «Tolyssignal» krever ikke vedtak.
 
 2\. Oppsetting av 1098 «Gult blinksignal» krever ikke vedtak, men må bare foretas av den ansvarlige for det lyssignal, trafikkskilt eller den veganordning det nyttes i forbindelse med.
 
@@ -746,7 +790,9 @@ Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:Er arm 
 
 1\. Dette kapittel gjelder for varsling og sikring av alle arbeider og tilstelninger på eller nær offentlig veg. Bestemmelsene gjelder i tillegg til bestemmelsene ellers i denne forskrift.
 
-2\. For riks- og fylkesveg er Statens vegvesen skiltmyndighet for varslingen, og for kommunal veg er kommunen skiltmyndighet. For riks- og fylkesveg hvor kommunen har fått myndighet etter [vegloven § 17](lov/1963-06-21-23/§17) og [§ 18](lov/1963-06-21-23/§18), er kommunen ansvarlig skiltmyndighet etter denne forskrift.Kommune som har fått slik myndighet, kan overføre myndigheten til annen kommune som også selv har slik myndighet.
+2\. For riks- og fylkesveg er Statens vegvesen skiltmyndighet for varslingen, og for kommunal veg er kommunen skiltmyndighet. For riks- og fylkesveg hvor kommunen har fått myndighet etter [vegloven § 17](lov/1963-06-21-23/§17) og [§ 18](lov/1963-06-21-23/§18), er kommunen ansvarlig skiltmyndighet etter denne forskrift.
+
+Kommune som har fått slik myndighet, kan overføre myndigheten til annen kommune som også selv har slik myndighet.
 
 > Endret ved [forskrift 19 des 2019 nr. 2042](forskrift/2019-12-19-2042) (i kraft 1 jan 2020).
 
@@ -802,7 +848,14 @@ Skiltmyndighetenes utgifter i forbindelse med andres arbeidsvarsling kan kreves 
 
 2\. For skilt innenfor kategoriene severdigheter, aktiviteter og rekreasjon, betales egenandel dersom dette gjelder kommersiell virksomhet.
 
-3\. Egenandel pr. skiltKr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.Kr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.Kr 2400,– for hvert symbol som benyttes på serviceskilt eller overhengende vegvisningsskilt.Kr 1200,– for hvert symbol som benyttes på sideplassert vegvisningsskilt.For vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.
+3\. Egenandel pr. skilt
+
+- Kr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.
+- Kr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.
+- Kr 2400,– for hvert symbol som benyttes på serviceskilt eller overhengende vegvisningsskilt.
+- Kr 1200,– for hvert symbol som benyttes på sideplassert vegvisningsskilt.
+
+For vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.
 
 4\. Dersom det benyttes felles skilt eller symbol for flere foretak, deles egenandelen likt mellom foretakene. Vegmyndigheten skal ikke kreve ny, delvis egenandel dersom et nytt foretak kan nyttiggjøre seg eksisterende skilt eller symbol uten øvrige endringer. Det skal derfor ikke tilbakebetales egenandel til de foretak som har betalt egenandel for de samme skiltene.
 
@@ -812,7 +865,13 @@ Skiltmyndighetenes utgifter i forbindelse med andres arbeidsvarsling kan kreves 
 
 1\. Det betales egenandel for skilt som viser til foretak, enten ved navn eller type virksomhet.
 
-2\. Egenandel pr. skiltKr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.Kr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.Kr 1200,– for hvert vegvisningssymbol som benyttes.For vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.
+2\. Egenandel pr. skilt
+
+- Kr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.
+- Kr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.
+- Kr 1200,– for hvert vegvisningssymbol som benyttes.
+
+For vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.
 
 3\. Dersom det benyttes felles skilt eller symbol for flere foretak, deles egenandelen likt mellom foretakene. Vegmyndigheten skal ikke kreve ny, delvis egenandel dersom et nytt foretak kan nyttiggjøre seg eksisterende skilt eller symbol uten øvrige endringer. Det skal derfor ikke tilbakebetales egenandel til de foretak som har betalt egenandel for de samme skiltene.
 
@@ -852,7 +911,9 @@ Alle utgifter til skilt med trafikksikkerhetsinformasjon dekkes av den som er an
 
 ### § 45. Trafikkskilting for private veger
 
-1\. Dersom den ansvarlige for privat veg vil nytte offentlige trafikkskilt, må denne ha tillatelse av Statens vegvesen, som kan sette vilkår for bruken. Utgifter til oppsetting, endring, vedlikehold eller fjerning av offentlige trafikkskilt og feste for slikt for privat veg, bæres i så fall av den ansvarlige for vegen. Statens vegvesen kan i særlige tilfelle helt eller delvis frita den ansvarlige for å dekke utgiftene.Dersom trafikken på privat veg som er åpen for alminnelig ferdsel tilsier det, kan Statens vegvesen bestemme at en bestemt vegstrekning skal skiltes med offentlige trafikkskilt. Utgiftene til dette skal i så fall dekkes av den ansvarlige for den private veg, med mindre Statens vegvesen bestemmer at utgiftene skal dekkes som for skilting av riksveg.
+1\. Dersom den ansvarlige for privat veg vil nytte offentlige trafikkskilt, må denne ha tillatelse av Statens vegvesen, som kan sette vilkår for bruken. Utgifter til oppsetting, endring, vedlikehold eller fjerning av offentlige trafikkskilt og feste for slikt for privat veg, bæres i så fall av den ansvarlige for vegen. Statens vegvesen kan i særlige tilfelle helt eller delvis frita den ansvarlige for å dekke utgiftene.
+
+Dersom trafikken på privat veg som er åpen for alminnelig ferdsel tilsier det, kan Statens vegvesen bestemme at en bestemt vegstrekning skal skiltes med offentlige trafikkskilt. Utgiftene til dette skal i så fall dekkes av den ansvarlige for den private veg, med mindre Statens vegvesen bestemmer at utgiftene skal dekkes som for skilting av riksveg.
 
 2\. Når offentlige trafikkskilt er tillatt eller påbudt brukt for privat veg, skal plassering, anvendelse og utforming av skiltene så vidt mulig skje i samsvar med tekniske retningslinjer etter [§ 35](forskrift/2005-10-07-1219/§35). For den vegstrekning skiltene er nyttet, må det ikke plasseres private skilt eller annen oppmerking som kan forveksles med offentlige trafikkskilt, eller hindre den frie sikt langs vegen eller til slike innretninger for den vegfarende.
 
@@ -864,13 +925,27 @@ Vegdirektoratet kan gi nærmere utfyllende bestemmelser til denne forskrift. Veg
 
 ### § 47. Ikrafttreden og overgangsbestemmelser m.m.
 
-Forskriften trer i kraft 1. juni 2006. Følgende trer likevel i kraft straks:[§ 8](forskrift/2005-10-07-1219/§8) om skilt 310 «Forbudt for motorvogn med flere enn to hjul og med tillatt totalvekt høyere enn angitt».[§ 12](forskrift/2005-10-07-1219/§12) om skiltene 508 «Kollektivfelt», 509 «Sambruksfelt», 511 «Slutt på sambruksfelt», 556 «Automatisk trafikkontroll» og 558 «Videokontroll/-overvåking».[§ 14](forskrift/2005-10-07-1219/§14) om skilt 650.40 «Gardsmat/bygdeturisme».[§ 16](forskrift/2005-10-07-1219/§16) om skiltene 723.71 og 723.72 «Kryssnummer på flerfeltsveg», 723.73 «Kryssnummer på tofeltsveg», 731 «Samleskilt for vegvisning», 765 «Bomveg/brukerbetaling på veg» og 792.11 – 30 «Betalingsmåte i bomstasjon/betalingssystem på veg».[§ 18](forskrift/2005-10-07-1219/§18) om skilt 831 «Parkeringsskive».[§ 20](forskrift/2005-10-07-1219/§20) om skilt 916 «Avstandsmarkering i tunnel».[§ 22](forskrift/2005-10-07-1219/§22) om oppmerkingene 1027 «Fartshump» og 1052 «Sambruksfelt».[§ 32](forskrift/2005-10-07-1219/§32) – § 34 om midlertidig skilting m.m. ved varsling av arbeid og tilstelninger på offentlig veg.[§ 38](forskrift/2005-10-07-1219/§38) – § 44 om betaling av utgifter som vegmyndigheten har til offentlige trafikkskilt, herunder oppmerking eller lyssignal, når skiltingen er gjort av hensyn til noen bestemt persons interesse.Ved utskifting eller nyoppsetting av skilt fastsatt etter [forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) eller tidligere bestemmelser, kan skilt fastsatt i denne forskrift med endret utforming men med samme betydning som tidligere, benyttes.
+Forskriften trer i kraft 1. juni 2006. Følgende trer likevel i kraft straks:
+
+- [§ 8](forskrift/2005-10-07-1219/§8) om skilt 310 «Forbudt for motorvogn med flere enn to hjul og med tillatt totalvekt høyere enn angitt».
+- [§ 12](forskrift/2005-10-07-1219/§12) om skiltene 508 «Kollektivfelt», 509 «Sambruksfelt», 511 «Slutt på sambruksfelt», 556 «Automatisk trafikkontroll» og 558 «Videokontroll/-overvåking».
+- [§ 14](forskrift/2005-10-07-1219/§14) om skilt 650.40 «Gardsmat/bygdeturisme».
+- [§ 16](forskrift/2005-10-07-1219/§16) om skiltene 723.71 og 723.72 «Kryssnummer på flerfeltsveg», 723.73 «Kryssnummer på tofeltsveg», 731 «Samleskilt for vegvisning», 765 «Bomveg/brukerbetaling på veg» og 792.11 – 30 «Betalingsmåte i bomstasjon/betalingssystem på veg».
+- [§ 18](forskrift/2005-10-07-1219/§18) om skilt 831 «Parkeringsskive».
+- [§ 20](forskrift/2005-10-07-1219/§20) om skilt 916 «Avstandsmarkering i tunnel».
+- [§ 22](forskrift/2005-10-07-1219/§22) om oppmerkingene 1027 «Fartshump» og 1052 «Sambruksfelt».
+- [§ 32](forskrift/2005-10-07-1219/§32) – § 34 om midlertidig skilting m.m. ved varsling av arbeid og tilstelninger på offentlig veg.
+- [§ 38](forskrift/2005-10-07-1219/§38) – § 44 om betaling av utgifter som vegmyndigheten har til offentlige trafikkskilt, herunder oppmerking eller lyssignal, når skiltingen er gjort av hensyn til noen bestemt persons interesse.
+- Ved utskifting eller nyoppsetting av skilt fastsatt etter [forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) eller tidligere bestemmelser, kan skilt fastsatt i denne forskrift med endret utforming men med samme betydning som tidligere, benyttes.
 
 [Forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvisninger (skiltforskrifter) oppheves 1. juni 2006.
 
 Trafikkskilt som er satt opp med hjemmel i [forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) eller tidligere bestemmelser, skal fortsatt gjelde, men med den betydning som er tillagt tilsvarende skilt i denne forskrift.
 
-For følgende trafikkskilt, som er satt opp med hjemmel i [forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) eller tidligere bestemmelser, skal fra 1. juni 2006 gjelde:Skilt 306.1 «Forbudt for motorvogn» med underskilt «Gågate» skal ha samme betydning som nytt skilt 548 «Gågate», men uten å ha virkning som soneskilt.Skilt 520 benyttet i forbindelse med sykkelfelt skal ha samme betydning som nytt skilt 521 «Sykkelfelt».
+For følgende trafikkskilt, som er satt opp med hjemmel i [forskrifter 10. oktober 1980 nr. 1](forskrift/1980-10-10-1) eller tidligere bestemmelser, skal fra 1. juni 2006 gjelde:
+
+1. Skilt 306.1 «Forbudt for motorvogn» med underskilt «Gågate» skal ha samme betydning som nytt skilt 548 «Gågate», men uten å ha virkning som soneskilt.
+2. Skilt 520 benyttet i forbindelse med sykkelfelt skal ha samme betydning som nytt skilt 521 «Sykkelfelt».
 
 Nevnte skilt i dette ledd nr. 1 og 2 med gamle symbol og skilt 544 «Tettbygd strøk» og skilt 546 «Slutt på tettbygd strøk» er ugyldige fra 1. januar 2011.
 

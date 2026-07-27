@@ -38,7 +38,12 @@ Det kan kun søkes om rentekompensasjon for prosjekter som ikke er ferdigstilt p
 
 ## § 3. Rentekompensasjon til læringsarenaer, utstyr og inventar
 
-Det kan gis rentekompensasjon ved investeringer i følgende tiltak:Oppgradering av eksisterende læringsarenaer inneOppgradering eller nyetablering av skolens utearealer, eller tilrettelegging av naturområder i skolens nærområdeMindre nybygg knyttet til en eksisterende skoleAnskaffelser av utstyr og inventar.
+Det kan gis rentekompensasjon ved investeringer i følgende tiltak:
+
+1. Oppgradering av eksisterende læringsarenaer inne
+2. Oppgradering eller nyetablering av skolens utearealer, eller tilrettelegging av naturområder i skolens nærområde
+3. Mindre nybygg knyttet til en eksisterende skole
+4. Anskaffelser av utstyr og inventar.
 
 Anskaffelsene må være klassifisert som en investeringsutgift etter [forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 2-2](forskrift/2019-06-07-714/§2-2) og god kommunal regnskapsskikk.
 

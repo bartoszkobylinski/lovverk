@@ -15,7 +15,7 @@ xml_hash: "96d78a0a20e53c59cb30b271ad35671ad70ecb6cb42975f22579a34f6fce9d6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1-1. Virkeområde
 
-(1) Forskriften gjelder bl.a.regler om forvaltning av jernbaneinfrastruktur og for utøvelse av jernbanetransportvirksomhetprinsipper og fremgangsmåter for fastsettelse og innkreving av infrastrukturavgifter og prissetting av jernbanerelaterte tjenesterprinsipper og fremgangsmåter for fordeling av infrastrukturkapasitetregler om kontroll og håndheving av forskriftens bestemmelser av et markedsovervåkingsorganvilkår for utstedelse av lisenser til jernbaneforetak.Oppgaver og ansvar for myndigheter og foretak som utøver aktivitet knyttet til jernbane.
+(1) Forskriften gjelder bl.a.
+
+1. regler om forvaltning av jernbaneinfrastruktur og for utøvelse av jernbanetransportvirksomhet
+2. prinsipper og fremgangsmåter for fastsettelse og innkreving av infrastrukturavgifter og prissetting av jernbanerelaterte tjenester
+3. prinsipper og fremgangsmåter for fordeling av infrastrukturkapasitet
+4. regler om kontroll og håndheving av forskriftens bestemmelser av et markedsovervåkingsorgan
+5. vilkår for utstedelse av lisenser til jernbaneforetak.
+6. Oppgaver og ansvar for myndigheter og foretak som utøver aktivitet knyttet til jernbane.
 
 (2) Forskriften får anvendelse på jernbaneinfrastruktur som brukes til nasjonale og internasjonale jernbanetjenester, men får ikke anvendelse på sporvei, tunnelbane, godsbane, museumsbane og lignende jernbanesystemer.
 
@@ -88,7 +95,13 @@ Statens jernbanetilsyn utsteder lisens etter [jernbaneloven § 6](lov/1993-06-11
 
 (1) Jernbanedirektoratet skal ivareta den strategiske og helhetlige koordineringen og planleggingen av jernbanesektoren, og utøver sine oppgaver gjennom avtaler, som myndighetsorgan og som fagorgan.
 
-(2) Jernbanedirektoratet skal inngå følgende avtaler som bidrag til en effektiv, helhetlig og samordnet måloppnåelse:med infrastrukturforvalter etter [§ 3-2](forskrift/2021-06-30-2315/§3-2),med statens selskap for reiseinformasjon og billetteringstjenester,med statens selskap for tilgang på persontogmateriell,med jernbaneforetak om persontogtjenester som offentlig tjenesteyting etter forordning [(EF) 1370/2007](eu/32007r1370), ogved behov inngå takstsamarbeidsavtaler med fylkeskommuner og kollektivselskaper.
+(2) Jernbanedirektoratet skal inngå følgende avtaler som bidrag til en effektiv, helhetlig og samordnet måloppnåelse:
+
+1. med infrastrukturforvalter etter [§ 3-2](forskrift/2021-06-30-2315/§3-2),
+2. med statens selskap for reiseinformasjon og billetteringstjenester,
+3. med statens selskap for tilgang på persontogmateriell,
+4. med jernbaneforetak om persontogtjenester som offentlig tjenesteyting etter forordning [(EF) 1370/2007](eu/32007r1370), og
+5. ved behov inngå takstsamarbeidsavtaler med fylkeskommuner og kollektivselskaper.
 
 (3) Jernbanedirektoratet er klageinstans for vedtak truffet etter [jernbaneloven § 10](lov/1993-06-11-100/§10) og treffer vedtak om ekspropriasjon til jernbaneformål når det er hjemmel til det i lov.
 
@@ -102,7 +115,37 @@ Statens jernbanetilsyn utsteder lisens etter [jernbaneloven § 6](lov/1993-06-11
 
 ### § 1-7. Definisjoner
 
-I forskriften her forstås med*jernbanenett:* hele jernbaneinfrastrukturen som forvaltes av en infrastrukturforvalter*jernbaneforetak:* ethvert offentlig eller privat foretak som innehar lisens etter [kapittel 12](forskrift/2021-06-30-2315/kap12) og som har som hovedvirksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften*infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig for drift, vedlikehold og fornyelse av jernbaneinfrastruktur på et jernbanenett, så vel som for deltagelse i utviklingen av infrastrukturen som fastsatt i den nasjonale politikken for utvikling og finansiering av infrastruktur*utvikling av jernbaneinfrastrukturen:* nettplanlegging, finansiell planlegging og investeringsplanlegging samt bygging og oppgradering av infrastrukturen*drift av jernbaneinfrastrukturen:* tildeling av ruteleie, trafikkstyring og innkreving av infrastrukturavgifter*vedlikehold av jernbaneinfrastrukturen:* arbeid som har til hensikt å opprettholde den eksisterende infrastrukturens tilstand og kapasitet*fornyelse av infrastrukturen:* større utskiftningsarbeid på den eksisterende infrastrukturen som ikke endrer dens samlede yteevne*oppgradering av jernbaneinfrastrukturen:* større ombyggingsarbeid av infrastrukturen som forbedrer dens samlede yteevne*grunnleggende funksjoner:* i infrastrukturforvaltning beslutningstaking vedrørende tildeling av infrastrukturkapasitet, herunder både fastsettelse og vurdering av tilgjengelighet og tildeling av individuelle ruteleier, og beslutningstaking om infrastrukturavgifter, herunder fastsettelse og innkreving av avgifter i samsvar med avgiftsrammen og rammen for kapasitetstildeling som er fastsatt av nasjonale myndigheter*jernbaneinfrastruktur:* omfatter elementene nevnt i [vedlegg I](forskrift/2021-06-30-2315/vedleggI)*levedyktig alternativ:* tilgang til et annet serviceanlegg som gjør det mulig for jernbaneforetaket å utføre den aktuelle gods- eller persontransport på økonomisk akseptable vilkår*serviceanlegg:* anlegg, herunder grunn, bygninger og utstyr, som er helt eller delvis særlig innrettet med henblikk på å kunne yte en eller flere av tjenestene nevnt i [§ 4-2](forskrift/2021-06-30-2315/§4-2), [§ 4-4](forskrift/2021-06-30-2315/§4-4) og [§ 4-5](forskrift/2021-06-30-2315/§4-5)*den som driver serviceanlegg:* ethvert offentlig eller privat foretak med ansvar for å forvalte et eller flere serviceanlegg eller for å yte en eller flere av tjenestene til jernbaneforetak som nevnt i [§ 4-2](forskrift/2021-06-30-2315/§4-2), [§ 4-4](forskrift/2021-06-30-2315/§4-4) og [§ 4-5](forskrift/2021-06-30-2315/§4-5)*rimelig fortjeneste:* en avkastning på egenkapitalen som tar hensyn til risikoen, herunder for inntektene, eller fraværet av slik risiko som den som driver serviceanlegget pådrar seg, og som er i tråd med de seneste års gjennomsnittlige avkastning for den berørte sektor*fordeling:* en infrastrukturforvalters fordeling av infrastrukturkapasitet*søker:* et jernbaneforetak eller en internasjonal sammenslutning av jernbaneforetak eller fysiske eller juridiske personer, for eksempel vedkommende myndigheter i henhold til forordning [(EF) nr. 1370/2007](eu/32007r1370) og utskipere, speditører og operatører innenfor kombinert transport, som har en allmennyttig eller forretningsmessig interesse av å bli tildelt infrastrukturkapasitet*overbelastet infrastruktur:* en del av en jernbaneinfrastruktur der etterspørselen etter infrastrukturkapasitet ikke kan dekkes fullstendig i visse perioder, selv ikke etter en samordning av de ulike søknadene om kapasitet*kapasitetsforbedringsplan:* et tiltak eller en rekke tiltak med en tidsplan for gjennomføring som tar sikte på å avhjelpe de kapasitetsbegrensninger som har ført til at en del av jernbaneinfrastrukturen blir erklært som «overbelastet infrastruktur»*samordning:* framgangsmåten der infrastrukturforvaltningen og søkerne forsøker å finne en løsning på situasjoner der det finnes innbyrdes motstridende søknader om infrastrukturkapasitet*rammeavtale:* en rettslig bindende generell avtale inngått på offentlig- eller privatrettslig grunnlag som fastsetter rettighetene og pliktene til en søker og infrastrukturforvalter med hensyn til den infrastrukturkapasitet som skal fordeles, og de avgifter som skal innkreves i et tidsrom som er lengre enn en ruteplanperiode*infrastrukturkapasitet:* muligheten til å planlegge ruteleier det søkes om, på en bestemt del av infrastrukturen i en viss periode*netterklæring:* en detaljert oversikt over alminnelige regler, tidsfrister, framgangsmåter og kriterier for avgifter og kapasitetsfordeling og annen nødvendig informasjon for å kunne søke om infrastrukturkapasitet*ruteleie:* den infrastrukturkapasitet som trengs for å kjøre et tog mellom to steder i et gitt tidsrom*ruteplan:* de data som fastlegger alle planlagte bevegelser av tog og rullende materiell i den berørte jernbaneinfrastrukturen, i den tidsperioden ruteplanen er gyldig*hensettingsspor:* spor som er særlig beregnet på midlertidig hensetting av jernbanekjøretøyer mellom to oppdrag*omfattende vedlikehold:* arbeid som ikke utføres rutinemessig som ledd i den daglige drift, og som krever at kjøretøyet tas ut av tjeneste*lisens:* en autorisasjon utstedt av en lisensutstedende myndighet til et foretak, som viser at foretaket er kvalifisert til å yte jernbanetjenester som jernbaneforetak*persontransport med høyhastighetstog:* persontransport med jernbane uten stopp underveis mellom to steder som ligger mer enn 200 km fra hverandre, på spesialbygde høyhastighetslinjer utstyrt for hastigheter på normalt minst 250 km/t, og der det i gjennomsnitt kjøres med slike hastigheter*offentlig-privat partnerskap:* en bindende avtale mellom offentlige organer og ett eller flere andre foretak enn infrastrukturforvalter, som foretakene helt eller delvis bygger og/eller finansierer jernbaneinfrastruktur i henhold til, og/eller skaffer seg rett til å utøve en eller flere av funksjonene til en infrastrukturforvalter i et forhåndsfastsatt tidsrom. Et slikt partnerskap kan ha enhver hensiktsmessig rettslig bindende form etter norsk lov.
+I forskriften her forstås med
+
+1. *jernbanenett:* hele jernbaneinfrastrukturen som forvaltes av en infrastrukturforvalter
+2. *jernbaneforetak:* ethvert offentlig eller privat foretak som innehar lisens etter [kapittel 12](forskrift/2021-06-30-2315/kap12) og som har som hovedvirksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften
+3. *infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig for drift, vedlikehold og fornyelse av jernbaneinfrastruktur på et jernbanenett, så vel som for deltagelse i utviklingen av infrastrukturen som fastsatt i den nasjonale politikken for utvikling og finansiering av infrastruktur
+4. *utvikling av jernbaneinfrastrukturen:* nettplanlegging, finansiell planlegging og investeringsplanlegging samt bygging og oppgradering av infrastrukturen
+5. *drift av jernbaneinfrastrukturen:* tildeling av ruteleie, trafikkstyring og innkreving av infrastrukturavgifter
+6. *vedlikehold av jernbaneinfrastrukturen:* arbeid som har til hensikt å opprettholde den eksisterende infrastrukturens tilstand og kapasitet
+7. *fornyelse av infrastrukturen:* større utskiftningsarbeid på den eksisterende infrastrukturen som ikke endrer dens samlede yteevne
+8. *oppgradering av jernbaneinfrastrukturen:* større ombyggingsarbeid av infrastrukturen som forbedrer dens samlede yteevne
+9. *grunnleggende funksjoner:* i infrastrukturforvaltning beslutningstaking vedrørende tildeling av infrastrukturkapasitet, herunder både fastsettelse og vurdering av tilgjengelighet og tildeling av individuelle ruteleier, og beslutningstaking om infrastrukturavgifter, herunder fastsettelse og innkreving av avgifter i samsvar med avgiftsrammen og rammen for kapasitetstildeling som er fastsatt av nasjonale myndigheter
+10. *jernbaneinfrastruktur:* omfatter elementene nevnt i [vedlegg I](forskrift/2021-06-30-2315/vedleggI)
+11. *levedyktig alternativ:* tilgang til et annet serviceanlegg som gjør det mulig for jernbaneforetaket å utføre den aktuelle gods- eller persontransport på økonomisk akseptable vilkår
+12. *serviceanlegg:* anlegg, herunder grunn, bygninger og utstyr, som er helt eller delvis særlig innrettet med henblikk på å kunne yte en eller flere av tjenestene nevnt i [§ 4-2](forskrift/2021-06-30-2315/§4-2), [§ 4-4](forskrift/2021-06-30-2315/§4-4) og [§ 4-5](forskrift/2021-06-30-2315/§4-5)
+13. *den som driver serviceanlegg:* ethvert offentlig eller privat foretak med ansvar for å forvalte et eller flere serviceanlegg eller for å yte en eller flere av tjenestene til jernbaneforetak som nevnt i [§ 4-2](forskrift/2021-06-30-2315/§4-2), [§ 4-4](forskrift/2021-06-30-2315/§4-4) og [§ 4-5](forskrift/2021-06-30-2315/§4-5)
+14. *rimelig fortjeneste:* en avkastning på egenkapitalen som tar hensyn til risikoen, herunder for inntektene, eller fraværet av slik risiko som den som driver serviceanlegget pådrar seg, og som er i tråd med de seneste års gjennomsnittlige avkastning for den berørte sektor
+15. *fordeling:* en infrastrukturforvalters fordeling av infrastrukturkapasitet
+16. *søker:* et jernbaneforetak eller en internasjonal sammenslutning av jernbaneforetak eller fysiske eller juridiske personer, for eksempel vedkommende myndigheter i henhold til forordning [(EF) nr. 1370/2007](eu/32007r1370) og utskipere, speditører og operatører innenfor kombinert transport, som har en allmennyttig eller forretningsmessig interesse av å bli tildelt infrastrukturkapasitet
+17. *overbelastet infrastruktur:* en del av en jernbaneinfrastruktur der etterspørselen etter infrastrukturkapasitet ikke kan dekkes fullstendig i visse perioder, selv ikke etter en samordning av de ulike søknadene om kapasitet
+18. *kapasitetsforbedringsplan:* et tiltak eller en rekke tiltak med en tidsplan for gjennomføring som tar sikte på å avhjelpe de kapasitetsbegrensninger som har ført til at en del av jernbaneinfrastrukturen blir erklært som «overbelastet infrastruktur»
+19. *samordning:* framgangsmåten der infrastrukturforvaltningen og søkerne forsøker å finne en løsning på situasjoner der det finnes innbyrdes motstridende søknader om infrastrukturkapasitet
+20. *rammeavtale:* en rettslig bindende generell avtale inngått på offentlig- eller privatrettslig grunnlag som fastsetter rettighetene og pliktene til en søker og infrastrukturforvalter med hensyn til den infrastrukturkapasitet som skal fordeles, og de avgifter som skal innkreves i et tidsrom som er lengre enn en ruteplanperiode
+21. *infrastrukturkapasitet:* muligheten til å planlegge ruteleier det søkes om, på en bestemt del av infrastrukturen i en viss periode
+22. *netterklæring:* en detaljert oversikt over alminnelige regler, tidsfrister, framgangsmåter og kriterier for avgifter og kapasitetsfordeling og annen nødvendig informasjon for å kunne søke om infrastrukturkapasitet
+23. *ruteleie:* den infrastrukturkapasitet som trengs for å kjøre et tog mellom to steder i et gitt tidsrom
+24. *ruteplan:* de data som fastlegger alle planlagte bevegelser av tog og rullende materiell i den berørte jernbaneinfrastrukturen, i den tidsperioden ruteplanen er gyldig
+25. *hensettingsspor:* spor som er særlig beregnet på midlertidig hensetting av jernbanekjøretøyer mellom to oppdrag
+26. *omfattende vedlikehold:* arbeid som ikke utføres rutinemessig som ledd i den daglige drift, og som krever at kjøretøyet tas ut av tjeneste
+27. *lisens:* en autorisasjon utstedt av en lisensutstedende myndighet til et foretak, som viser at foretaket er kvalifisert til å yte jernbanetjenester som jernbaneforetak
+28. *persontransport med høyhastighetstog:* persontransport med jernbane uten stopp underveis mellom to steder som ligger mer enn 200 km fra hverandre, på spesialbygde høyhastighetslinjer utstyrt for hastigheter på normalt minst 250 km/t, og der det i gjennomsnitt kjøres med slike hastigheter
+29. *offentlig-privat partnerskap:* en bindende avtale mellom offentlige organer og ett eller flere andre foretak enn infrastrukturforvalter, som foretakene helt eller delvis bygger og/eller finansierer jernbaneinfrastruktur i henhold til, og/eller skaffer seg rett til å utøve en eller flere av funksjonene til en infrastrukturforvalter i et forhåndsfastsatt tidsrom. Et slikt partnerskap kan ha enhver hensiktsmessig rettslig bindende form etter norsk lov.
 
 > Endret ved [forskrift 18 des 2023 nr. 2116](forskrift/2023-12-18-2116) (i kraft 1 jan 2024).
 
@@ -174,7 +217,10 @@ Den som driver serviceanlegg skal gi tilgang til alle jernbaneforetak på rettfe
 
 (2) Medlemmer av infrastrukturforvalters daglige ledelse og styre, og personer som er underordnet disse, skal opptre på en ikke-diskriminerende måte og slik at det ikke foreligger en mulighet for påvirkning som følge av interessekonflikter.
 
-(3) Ingen kan samtidig være utpekt eller ansatt:som medlemmer av infrastrukturforvalters ledelse og som medlemmer av et jernbaneforetaks ledelse, eller tilsvarende organ som utøver kontroll og foretar generelle strategiske beslutninger i de aktuelle selskapenesom personer med ansvar for å treffe beslutninger om grunnleggende funksjoner og som medlemmer av et jernbaneforetaks ledelse.
+(3) Ingen kan samtidig være utpekt eller ansatt:
+
+1. som medlemmer av infrastrukturforvalters ledelse og som medlemmer av et jernbaneforetaks ledelse, eller tilsvarende organ som utøver kontroll og foretar generelle strategiske beslutninger i de aktuelle selskapene
+2. som personer med ansvar for å treffe beslutninger om grunnleggende funksjoner og som medlemmer av et jernbaneforetaks ledelse.
 
 (4) Infrastrukturforvalter skal påse at det ikke oppstår interessekonflikter for personer som ivaretar grunnleggende funksjoner, herunder gjennom jobbskifter, gjennom engasjement, eller på annen måte. Tredje ledd bokstav a får tilsvarende anvendelse for avdelingsledere med ansvar for forvaltning av jernbaneinfrastrukturen og avdelingsledere med ansvar for leveranser av transporttjenester på sporet.
 
@@ -226,7 +272,13 @@ Infrastrukturforvalter skal sikre at vedlikeholdsarbeider og andre midlertidige 
 
 (1) Infrastrukturforvalter skal etablere en koordineringsmekanisme for å sikre samordning mellom infrastrukturforvalter, berørte jernbaneforetak og andre søkere. Innspillene fra berørte jernbaneforetak og andre søkere skal tas i betraktning, og det må gis en begrunnelse dersom de ikke tas til følge. Brukere av gods- og passasjertransport, samt nasjonale og lokale myndigheter, skal også inviteres til å delta i koordineringen. Markedsovervåkingsorganet skal inviteres, og kan delta som observatør.
 
-(2) Følgende spørsmål skal særlig berøres i koordineringsmekanismenSøkeres behov i forbindelse med vedlikehold og utvikling av infrastrukturkapasitetInnholdet i og gjennomføringen av avtalen mellom vedkommende myndighet og infrastrukturforvalter nevnt i [§ 3-2](forskrift/2021-06-30-2315/§3-2), samt innholdet i parameterne etablert gjennom ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6)Innholdet i og gjennomføringen av netterklæringenSpørsmål om intermodalitet og interoperabilitetAndre spørsmål vedrørende betingelsene for tilgang, bruk av infrastrukturen og kvaliteten på infrastrukturforvalters tjenester.
+(2) Følgende spørsmål skal særlig berøres i koordineringsmekanismen
+
+1. Søkeres behov i forbindelse med vedlikehold og utvikling av infrastrukturkapasitet
+2. Innholdet i og gjennomføringen av avtalen mellom vedkommende myndighet og infrastrukturforvalter nevnt i [§ 3-2](forskrift/2021-06-30-2315/§3-2), samt innholdet i parameterne etablert gjennom ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6)
+3. Innholdet i og gjennomføringen av netterklæringen
+4. Spørsmål om intermodalitet og interoperabilitet
+5. Andre spørsmål vedrørende betingelsene for tilgang, bruk av infrastrukturen og kvaliteten på infrastrukturforvalters tjenester.
 
 (3) Infrastrukturforvalter skal i samråd med de nevnte aktørene utarbeide og offentliggjøre nærmere retningslinjer for koordineringen.
 
@@ -238,7 +290,15 @@ Infrastrukturforvalter skal sikre at vedlikeholdsarbeider og andre midlertidige 
 
 ### § 3-9. Europeisk nettverk av infrastrukturforvaltere
 
-Infrastrukturforvalter skal delta og samarbeide i et europeisk nettverk av infrastrukturforvaltere. Dette nettverket møtes regelmessig med henblikk på åutvikle jernbaneinfrastrukturen i EØS-områdetstøtte rettidig og effektiv gjennomføring av det felles europeiske jernbaneområdetutveksle beste praksisovervåke og sammenligne ytelserbidra til markedsovervåking som omhandlet i [§ 1-3 tredje ledd](forskrift/2021-06-30-2315/§1-3/ledd/3).håndtere flaskehalser over landegrensenedrøfte anvendelsen av samarbeid som omhandlet i [§ 6-8](forskrift/2021-06-30-2315/§6-8) og [§ 8-4](forskrift/2021-06-30-2315/§8-4).
+Infrastrukturforvalter skal delta og samarbeide i et europeisk nettverk av infrastrukturforvaltere. Dette nettverket møtes regelmessig med henblikk på å
+
+1. utvikle jernbaneinfrastrukturen i EØS-området
+2. støtte rettidig og effektiv gjennomføring av det felles europeiske jernbaneområdet
+3. utveksle beste praksis
+4. overvåke og sammenligne ytelser
+5. bidra til markedsovervåking som omhandlet i [§ 1-3 tredje ledd](forskrift/2021-06-30-2315/§1-3/ledd/3).
+6. håndtere flaskehalser over landegrensene
+7. drøfte anvendelsen av samarbeid som omhandlet i [§ 6-8](forskrift/2021-06-30-2315/§6-8) og [§ 8-4](forskrift/2021-06-30-2315/§8-4).
 
 Koordineringen i nettverket innskrenker ikke søkeres rettigheter etter [kapittel 11](forskrift/2021-06-30-2315/kap11).
 
@@ -246,11 +306,28 @@ Koordineringen i nettverket innskrenker ikke søkeres rettigheter etter [kapitte
 
 ### § 4-1. Tilgang til den minste pakken med tjenester
 
-Infrastrukturforvalter skal tilby følgende tjenester til alle jernbaneforetak og andre søkere på ikke-diskriminerende vilkår:behandling av søknader om infrastrukturkapasitetretten til å bruke kapasitet som tildelesbruk av jernbaneinfrastruktur, herunder sporveksler og sporkrysstrafikkstyring, herunder signalgiving, regulering, ekspedering samt kommunikasjon og framskaffelse av informasjon om togtrafikkbruk av strømforsyningsutstyr for kjørestrøm, der dette er tilgjengeligalle andre opplysninger som er nødvendige for iverksetting eller drift av tjenesten det er tildelt kapasitet for.
+Infrastrukturforvalter skal tilby følgende tjenester til alle jernbaneforetak og andre søkere på ikke-diskriminerende vilkår:
+
+1. behandling av søknader om infrastrukturkapasitet
+2. retten til å bruke kapasitet som tildeles
+3. bruk av jernbaneinfrastruktur, herunder sporveksler og sporkryss
+4. trafikkstyring, herunder signalgiving, regulering, ekspedering samt kommunikasjon og framskaffelse av informasjon om togtrafikk
+5. bruk av strømforsyningsutstyr for kjørestrøm, der dette er tilgjengelig
+6. alle andre opplysninger som er nødvendige for iverksetting eller drift av tjenesten det er tildelt kapasitet for.
 
 ### § 4-2. Tilgang til serviceanlegg og tjenester i disse
 
-Den som driver serviceanlegg skal gi tilgang, herunder sportilgang, til alle søkere på ikke-diskriminerende vilkår, til følgende anlegg og tjenester som ytes i disse:stasjoner for passasjerer, herunder bygninger og andre anlegg, også for formidling av reiseinformasjon og egnede lokaler for billettsalggodsterminalerskiftestasjoner og skifteanlegghensettingssporvedlikeholdsanlegg, unntatt anlegg for omfattende vedlikehold av høyhastighetstog eller andre typer rullende materiell som krever særskilte anleggandre tekniske anlegg, herunder rengjørings- og vaskeanlegghavneanlegg som er knyttet til jernbanevirksomhetavlastningsanleggpåfyllingsanlegg for drivstoff og forsyning av drivstoff i disse anlegg. Prisene for dette skal angis særskilt på fakturaene.
+Den som driver serviceanlegg skal gi tilgang, herunder sportilgang, til alle søkere på ikke-diskriminerende vilkår, til følgende anlegg og tjenester som ytes i disse:
+
+1. stasjoner for passasjerer, herunder bygninger og andre anlegg, også for formidling av reiseinformasjon og egnede lokaler for billettsalg
+2. godsterminaler
+3. skiftestasjoner og skifteanlegg
+4. hensettingsspor
+5. vedlikeholdsanlegg, unntatt anlegg for omfattende vedlikehold av høyhastighetstog eller andre typer rullende materiell som krever særskilte anlegg
+6. andre tekniske anlegg, herunder rengjørings- og vaskeanlegg
+7. havneanlegg som er knyttet til jernbanevirksomhet
+8. avlastningsanlegg
+9. påfyllingsanlegg for drivstoff og forsyning av drivstoff i disse anlegg. Prisene for dette skal angis særskilt på fakturaene.
 
 ### § 4-3. Behandling av anmodninger om kapasitet i serviceanlegg
 
@@ -266,13 +343,23 @@ Den som driver serviceanlegg skal gi tilgang, herunder sportilgang, til alle sø
 
 ### § 4-4. Tilleggstjenester
 
-(1) Dersom den som driver serviceanlegg tilbyr følgende tjenester, skal tjenestene tilbys på ikke-diskriminerende vilkår til alle søkere som anmoder om dem:kjørestrømforvarming av passasjertogskreddersydde kontrakter om kontroll av transport av farlig gods eller assistanse til drift av spesialtransport.
+(1) Dersom den som driver serviceanlegg tilbyr følgende tjenester, skal tjenestene tilbys på ikke-diskriminerende vilkår til alle søkere som anmoder om dem:
+
+1. kjørestrøm
+2. forvarming av passasjertog
+3. skreddersydde kontrakter om kontroll av transport av farlig gods eller assistanse til drift av spesialtransport.
 
 (2) Avgifter for kjørestrøm skal angis på fakturaene atskilt fra avgiftene for bruk av strømforsyningsutstyr etter [§ 4-1 bokstav e](forskrift/2021-06-30-2315/§4-1/bokstav/e).
 
 ### § 4-5. Ekstratjenester
 
-(1) Søkere kan anmode infrastrukturforvalter eller den som driver serviceanlegg om følgende ekstratjenester:adgang til telekommunikasjonsnettframskaffelse av tilleggsopplysningerteknisk kontroll av rullende materiellbillettsalg på stasjoner for passasjereromfattende vedlikeholdstjenester som leveres i vedlikeholdsanlegg beregnet for høyhastighetstog eller andre typer rullende materiell som krever særskilte anlegg.
+(1) Søkere kan anmode infrastrukturforvalter eller den som driver serviceanlegg om følgende ekstratjenester:
+
+1. adgang til telekommunikasjonsnett
+2. framskaffelse av tilleggsopplysninger
+3. teknisk kontroll av rullende materiell
+4. billettsalg på stasjoner for passasjerer
+5. omfattende vedlikeholdstjenester som leveres i vedlikeholdsanlegg beregnet for høyhastighetstog eller andre typer rullende materiell som krever særskilte anlegg.
 
 (2) Den som driver serviceanlegget er ikke forpliktet til å tilby disse tjenestene. Dersom den som driver serviceanlegget beslutter å tilby noen av disse tjenester til andre, skal den på anmodning tilby dem på ikke-diskriminerende vilkår til alle søkere.
 
@@ -298,7 +385,24 @@ Dersom et serviceanlegg som nevnt i [§ 4-2](forskrift/2021-06-30-2315/§4-2) ik
 
 ### § 5-2. Innhold i netterklæringen
 
-Netterklæringen skal inneholde følgende opplysninger:Et avsnitt som viser hvilken type jernbaneinfrastruktur som står til rådighet for jernbaneforetakene, og vilkårene for å få adgang til denne. Opplysningene i dette avsnittet skal hvert år oppdateres mot eller vise til infrastrukturregisteret.Et avsnitt om avgiftsprinsipper og priser. Dette skal inneholde hensiktsmessige opplysninger om avgiftsordningen og tilstrekkelig informasjon om pris for tjenestene og andre relevante opplysninger om adgang til tjenestene nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4) som ytes av bare en leverandør. Det skal i detalj beskrive de metoder, regler og eventuelt skalaer som brukes for anvendelsen av [kapittel 6](forskrift/2021-06-30-2315/kap6) med hensyn til både kostnader og avgifter. Det skal inneholde opplysninger om allerede vedtatte eller planlagte avgiftsendringer for de neste fem år, dersom disse opplysninger er tilgjengelige.Et avsnitt om prinsipper og kriterier for kapasitetsfordeling. Dette skal redegjøre for de generelle kapasitetsegenskaper ved jernbaneinfrastrukturen som er tilgjengelig for jernbaneforetak, og for eventuelle begrensninger når det gjelder bruk av den, herunder forventet behov for kapasitet til vedlikehold. Det skal også inneholde nærmere opplysninger om framgangsmåter og frister i forbindelse med kapasitetsfordelingsprosessen. Det skal inneholde særlige kriterier som anvendes ved nevnte prosess, særligkjøretekniske planforutsetninger og prinsipper for utforming av ruteplanen, samt framgangsmåtene for inngivelse av søknader om kapasitet til infrastrukturforvalter, herunder krav til innholdet i søknaden, jf. [§ 8-2](forskrift/2021-06-30-2315/§8-2)kravene som stilles til søknadene og søkerne etter [§ 8-2 tredje ledd](forskrift/2021-06-30-2315/§8-2/ledd/3)tidsplanen for søke- og fordelingsprosessene og framgangsmåtene som skal følges for å anmode om opplysninger om ruteplanleggingen og framgangsmåtene for planlagt ruteplanlegging og uforutsett vedlikeholdsarbeidprinsippene for samordningsprosessen og tvisteløsningsordningen som gjøres tilgjengelig som en del av denne prosessenframgangsmåtene som skal følges og kriteriene som skal anvendes når jernbaneinfrastrukturen er overbelastetnærmere opplysninger om begrensninger i bruk av jernbaneinfrastrukturhvordan det skal tas hensyn til tidligere kapasitetsutnyttelsesgrad ved fastsettelse av prioriteringer i fordelingsprosessen.Den skal redegjøre i detalj for hvilke tiltak som er truffet for å sikre en forsvarlig behandling av godstransport, internasjonale transporttjenester og søknader som behandles ad hoc. Den skal inneholde en modell for søknader om kapasitet. Infrastrukturforvalter skal også offentliggjøre detaljerte opplysninger om framgangsmåtene for fordeling av internasjonale ruteleier.Et avsnitt med opplysninger om søknad om lisens og sikkerhetssertifikat som nevnt i [lisensforskriften](forskrift/2016-12-20-1747), eller med opplysninger om et nettsted der slike opplysninger er gratis tilgjengelig elektronisk.Et avsnitt med opplysninger om framgangsmåter for tvisteløsning og klager i forbindelse med spørsmål om adgang til jernbaneinfrastruktur og -tjenester og i forbindelse med ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6).Et avsnitt om opplysninger om adgang til og innkreving av betaling for bruk av serviceanlegg nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4).En avtalemal for inngåelse av rammeavtale mellom en infrastrukturforvalter og en søker i samsvar med [kapittel 7](forskrift/2021-06-30-2315/kap7).
+Netterklæringen skal inneholde følgende opplysninger:
+
+1. Et avsnitt som viser hvilken type jernbaneinfrastruktur som står til rådighet for jernbaneforetakene, og vilkårene for å få adgang til denne. Opplysningene i dette avsnittet skal hvert år oppdateres mot eller vise til infrastrukturregisteret.
+2. Et avsnitt om avgiftsprinsipper og priser. Dette skal inneholde hensiktsmessige opplysninger om avgiftsordningen og tilstrekkelig informasjon om pris for tjenestene og andre relevante opplysninger om adgang til tjenestene nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4) som ytes av bare en leverandør. Det skal i detalj beskrive de metoder, regler og eventuelt skalaer som brukes for anvendelsen av [kapittel 6](forskrift/2021-06-30-2315/kap6) med hensyn til både kostnader og avgifter. Det skal inneholde opplysninger om allerede vedtatte eller planlagte avgiftsendringer for de neste fem år, dersom disse opplysninger er tilgjengelige.
+3. Et avsnitt om prinsipper og kriterier for kapasitetsfordeling. Dette skal redegjøre for de generelle kapasitetsegenskaper ved jernbaneinfrastrukturen som er tilgjengelig for jernbaneforetak, og for eventuelle begrensninger når det gjelder bruk av den, herunder forventet behov for kapasitet til vedlikehold. Det skal også inneholde nærmere opplysninger om framgangsmåter og frister i forbindelse med kapasitetsfordelingsprosessen. Det skal inneholde særlige kriterier som anvendes ved nevnte prosess, særlig
+
+   1. kjøretekniske planforutsetninger og prinsipper for utforming av ruteplanen, samt framgangsmåtene for inngivelse av søknader om kapasitet til infrastrukturforvalter, herunder krav til innholdet i søknaden, jf. [§ 8-2](forskrift/2021-06-30-2315/§8-2)
+   2. kravene som stilles til søknadene og søkerne etter [§ 8-2 tredje ledd](forskrift/2021-06-30-2315/§8-2/ledd/3)
+   3. tidsplanen for søke- og fordelingsprosessene og framgangsmåtene som skal følges for å anmode om opplysninger om ruteplanleggingen og framgangsmåtene for planlagt ruteplanlegging og uforutsett vedlikeholdsarbeid
+   4. prinsippene for samordningsprosessen og tvisteløsningsordningen som gjøres tilgjengelig som en del av denne prosessen
+   5. framgangsmåtene som skal følges og kriteriene som skal anvendes når jernbaneinfrastrukturen er overbelastet
+   6. nærmere opplysninger om begrensninger i bruk av jernbaneinfrastruktur
+   7. hvordan det skal tas hensyn til tidligere kapasitetsutnyttelsesgrad ved fastsettelse av prioriteringer i fordelingsprosessen.
+4. Den skal redegjøre i detalj for hvilke tiltak som er truffet for å sikre en forsvarlig behandling av godstransport, internasjonale transporttjenester og søknader som behandles ad hoc. Den skal inneholde en modell for søknader om kapasitet. Infrastrukturforvalter skal også offentliggjøre detaljerte opplysninger om framgangsmåtene for fordeling av internasjonale ruteleier.
+5. Et avsnitt med opplysninger om søknad om lisens og sikkerhetssertifikat som nevnt i [lisensforskriften](forskrift/2016-12-20-1747), eller med opplysninger om et nettsted der slike opplysninger er gratis tilgjengelig elektronisk.
+6. Et avsnitt med opplysninger om framgangsmåter for tvisteløsning og klager i forbindelse med spørsmål om adgang til jernbaneinfrastruktur og -tjenester og i forbindelse med ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6).
+7. Et avsnitt om opplysninger om adgang til og innkreving av betaling for bruk av serviceanlegg nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4).
+8. En avtalemal for inngåelse av rammeavtale mellom en infrastrukturforvalter og en søker i samsvar med [kapittel 7](forskrift/2021-06-30-2315/kap7).
 
 > Endret ved [forskrifter 18 des 2023 nr. 2116](forskrift/2023-12-18-2116) (i kraft 1 jan 2024), [26 mars 2025 nr. 542](forskrift/2025-03-26-542).
 
@@ -344,7 +448,15 @@ Netterklæringen skal inneholde følgende opplysninger:Et avsnitt som viser hvil
 
 (2) Avgiftsnivået skal ikke være så høyt at et markedssegment som ellers kan betale avgifter fastsatt etter [§ 6-2 tredje ledd](forskrift/2021-06-30-2315/§6-2/ledd/3), hindres i å bruke den aktuelle jernbaneinfrastrukturen.
 
-(3) Før påslag på infrastrukturavgifter fastsettes, skal infrastrukturforvalter analysere hvilke markedssegmenter de er relevante for. Denne analysen må minst omfatte godstransport, persontransport som er omfattet av en offentlig tjenesteytelse og annen persontransport, men markedssegmentene kan deles opp ytterligere ut fra hvilke varer eller passasjerer som transporteres. Markedssegmentene skal analyseres ut fra minst følgende par:persontransport og godstransporttog som transporterer farlig gods og andre godstoginnenlands trafikk og internasjonal trafikkkombinert transport og direktetogpersontransport i byer eller regioner og persontransport mellom byerblokktog og tog hvor vogner lastes eller losses enkeltvisregelmessig og sporadisk togtrafikk.
+(3) Før påslag på infrastrukturavgifter fastsettes, skal infrastrukturforvalter analysere hvilke markedssegmenter de er relevante for. Denne analysen må minst omfatte godstransport, persontransport som er omfattet av en offentlig tjenesteytelse og annen persontransport, men markedssegmentene kan deles opp ytterligere ut fra hvilke varer eller passasjerer som transporteres. Markedssegmentene skal analyseres ut fra minst følgende par:
+
+1. persontransport og godstransport
+2. tog som transporterer farlig gods og andre godstog
+3. innenlands trafikk og internasjonal trafikk
+4. kombinert transport og direktetog
+5. persontransport i byer eller regioner og persontransport mellom byer
+6. blokktog og tog hvor vogner lastes eller losses enkeltvis
+7. regelmessig og sporadisk togtrafikk.
 
 (4) Listen over relevante markedssegmenter skal fremgå av netterklæringen. Listen må revurderes minst hvert femte år. Statens jernbanetilsyn fører tilsyn med listen i samsvar med [kapittel 11](forskrift/2021-06-30-2315/kap11).
 
@@ -524,7 +636,12 @@ Tidsplanen for fordelingsprosessen fremgår av [vedlegg IV](forskrift/2021-06-30
 
 (2) Infrastrukturforvalteren har innenfor rimelige grenser rett til å foreslå infrastrukturkapasitet som er forskjellig fra den det ble søkt om.
 
-(3) Infrastrukturforvalteren skal tilstrebe å finne en løsning på eventuelle konflikter gjennom samråd med de berørte søkerne. Dette samråd skal bygge på at følgende opplysninger vederlagsfritt er lagt fram skriftlig eller elektronisk:ruteleier som alle andre søkere har inngitt søknad om, på samme strekningruteleier som er foreløpig tildelt alle andre søkere på samme strekningalternative ruteleier som er foreslått for de relevante linjer i samsvar med annet leddfullstendige opplysninger om de kriteriene som anvendes i kapasitetsfordelingsprosessen.
+(3) Infrastrukturforvalteren skal tilstrebe å finne en løsning på eventuelle konflikter gjennom samråd med de berørte søkerne. Dette samråd skal bygge på at følgende opplysninger vederlagsfritt er lagt fram skriftlig eller elektronisk:
+
+1. ruteleier som alle andre søkere har inngitt søknad om, på samme strekning
+2. ruteleier som er foreløpig tildelt alle andre søkere på samme strekning
+3. alternative ruteleier som er foreslått for de relevante linjer i samsvar med annet ledd
+4. fullstendige opplysninger om de kriteriene som anvendes i kapasitetsfordelingsprosessen.
 
 (4) I henhold til [forvaltningslovens](lov/1967-02-10) regler om taushetsplikt skal nevnte opplysninger legges fram på en slik måte at andre søkeres identitet ikke avsløres, med mindre de berørte søkere har gitt sitt samtykke til slik avsløring.
 
@@ -554,7 +671,12 @@ Det skal fremgå av netterklæringen hvilke betingelser infrastrukturforvalter s
 
 ### § 9-5. Prioriteringskriterier
 
-(1) Hvis avgifter i henhold til [§ 6-2 annet ledd](forskrift/2021-06-30-2315/§6-2/ledd/2) ikke har blitt innkrevd eller ikke har gitt et tilfredsstillende resultat, og jernbaneinfrastrukturen er blitt erklært overbelastet, skal infrastrukturforvalter prioritere følgende tjenester ved fordeling av infrastrukturkapasitet i synkende rekkefølge:tjenester som inngår i kontrakt med staten om offentlig tjenesteytingnasjonal og internasjonal godstransportbestemte typer trafikk på strekninger som nevnt i [§ 8-8 annet ledd](forskrift/2021-06-30-2315/§8-8/ledd/2)persontransport for øvrig.
+(1) Hvis avgifter i henhold til [§ 6-2 annet ledd](forskrift/2021-06-30-2315/§6-2/ledd/2) ikke har blitt innkrevd eller ikke har gitt et tilfredsstillende resultat, og jernbaneinfrastrukturen er blitt erklært overbelastet, skal infrastrukturforvalter prioritere følgende tjenester ved fordeling av infrastrukturkapasitet i synkende rekkefølge:
+
+1. tjenester som inngår i kontrakt med staten om offentlig tjenesteyting
+2. nasjonal og internasjonal godstransport
+3. bestemte typer trafikk på strekninger som nevnt i [§ 8-8 annet ledd](forskrift/2021-06-30-2315/§8-8/ledd/2)
+4. persontransport for øvrig.
 
 (2) Hvis det er søkt om flere ruteleier enn det er kapasitet til, skal infrastrukturforvalter tildele ruteleier etter en annen rekkefølge enn etter første ledd hvis transporttjenesten har vesentlig større betydning for samfunnet enn andre tjenester som derved utelukkes. Det skal også tas hensyn til virkningene av en slik utelukkelse i andre EØS-stater.
 
@@ -572,7 +694,12 @@ Det skal fremgå av netterklæringen hvilke betingelser infrastrukturforvalter s
 
 (1) Innen seks måneder etter at kapasitetsanalysen er avsluttet, skal infrastrukturforvalteren ha utarbeidet en kapasitetsforbedringsplan.
 
-(2) En kapasitetsforbedringsplan skal utarbeides etter samråd med brukerne av den aktuelle overbelastede jernbaneinfrastrukturen. Den skal angi:årsakene til overbelastningenden sannsynlige framtidige trafikkutviklingbegrensninger på infrastrukturutviklingenmuligheter for og kostnader ved å forbedre kapasiteten, herunder sannsynlige endringer av infrastrukturavgifter.
+(2) En kapasitetsforbedringsplan skal utarbeides etter samråd med brukerne av den aktuelle overbelastede jernbaneinfrastrukturen. Den skal angi:
+
+1. årsakene til overbelastningen
+2. den sannsynlige framtidige trafikkutvikling
+3. begrensninger på infrastrukturutviklingen
+4. muligheter for og kostnader ved å forbedre kapasiteten, herunder sannsynlige endringer av infrastrukturavgifter.
 
 (3) Kapasitetsforbedringsplanen skal også, på grunnlag av en nytte- og kostnadsanalyse av de mulige tiltakene som angis, fastlegge hvilke tiltak som skal treffes for å forbedre infrastrukturkapasiteten, herunder en tidsplan for gjennomføring av tiltakene.
 
@@ -636,7 +763,19 @@ Infrastrukturforvalter skal så snart som mulig underrette de berørte parter om
 
 ### § 11-3. Klage
 
-(1) En søker som mener å ha blitt urettferdig behandlet, utsatt for forskjellsbehandling eller fått sine interesser krenket på annen måte, kan klage til markedsovervåkingsorganet. Dette gjelder særlig beslutninger som er truffet av infrastrukturforvalter, jernbaneforetak eller den som driver serviceanlegg når det gjelder:utkast til og endelig versjon av netterklæringenkriterier som er fastsatt i netterklæringenfordelingsprosessen og resultatet av denneavgiftsordningennivået på eller strukturen til infrastrukturavgifter som søkeren må eller kan komme til å måtte betaleordninger for tilgang i samsvar med [§ 2-1](forskrift/2021-06-30-2315/§2-1), [§ 2-2](forskrift/2021-06-30-2315/§2-2), [§ 2-4](forskrift/2021-06-30-2315/§2-4) og § 2-5.tilgang til tjenester, innkreving av avgifter og betaling for tjenester i samsvar med [§ 13-2](forskrift/2021-06-30-2315/§13-2) og [kapittel 4](forskrift/2021-06-30-2315/kap4)trafikkstyringplanlegging av fornyelser samt planlagt og ikke-planlagt vedlikeholdoverholdelse av kravene i [§ 3-4](forskrift/2021-06-30-2315/§3-4) til [§ 3-7](forskrift/2021-06-30-2315/§3-7)inngåtte rammeavtaler.
+(1) En søker som mener å ha blitt urettferdig behandlet, utsatt for forskjellsbehandling eller fått sine interesser krenket på annen måte, kan klage til markedsovervåkingsorganet. Dette gjelder særlig beslutninger som er truffet av infrastrukturforvalter, jernbaneforetak eller den som driver serviceanlegg når det gjelder:
+
+1. utkast til og endelig versjon av netterklæringen
+2. kriterier som er fastsatt i netterklæringen
+3. fordelingsprosessen og resultatet av denne
+4. avgiftsordningen
+5. nivået på eller strukturen til infrastrukturavgifter som søkeren må eller kan komme til å måtte betale
+6. ordninger for tilgang i samsvar med [§ 2-1](forskrift/2021-06-30-2315/§2-1), [§ 2-2](forskrift/2021-06-30-2315/§2-2), [§ 2-4](forskrift/2021-06-30-2315/§2-4) og § 2-5.
+7. tilgang til tjenester, innkreving av avgifter og betaling for tjenester i samsvar med [§ 13-2](forskrift/2021-06-30-2315/§13-2) og [kapittel 4](forskrift/2021-06-30-2315/kap4)
+8. trafikkstyring
+9. planlegging av fornyelser samt planlagt og ikke-planlagt vedlikehold
+10. overholdelse av kravene i [§ 3-4](forskrift/2021-06-30-2315/§3-4) til [§ 3-7](forskrift/2021-06-30-2315/§3-7)
+11. inngåtte rammeavtaler.
 
 (2) Markedsovervåkingsorganet skal ved behov innhente relevante opplysninger og ta initiativ til høring av alle berørte parter innen en måned etter å ha mottatt klagen. Markedsovervåkingsorganet skal ta stilling til klagen og om nødvendig treffe tiltak for å avhjelpe situasjonen. Markedsovervåkingsorganet skal innen en forhåndsbestemt rimelig frist, og i alle tilfeller innen seks uker etter å ha mottatt alle relevante opplysninger, underrette de berørte parter om sin avgjørelse av klagen. Avgjørelsen skal være begrunnet.
 
@@ -650,7 +789,28 @@ Markedsovervåkingsorganet kan utføre revisjoner og ta initiativ til eksterne r
 
 ### § 11-5. Opplysninger som kan kreves lagt frem ved kontroll med regnskaper
 
-Når markedsovervåkingsorganet utfører revisjoner etter [§ 11-4](forskrift/2021-06-30-2315/§11-4), kan de særlig kreve å få fremlagt opplysninger om følgende:Atskilte regnskaperatskilte resultatregnskaper og balanser for godstrafikk, passasjertrafikk og infrastrukturforvaltningdetaljerte opplysninger om individuelle kilder og anvendelse av offentlige midler og andre former for kompensasjon på en åpen og detaljert måte, herunder en detaljert gjennomgang av virksomhetenes kontantstrømmer slik at det kan fastslås hvordan disse offentlige midler og andre former for kompensasjon er blitt anvendtkostnads- og inntektskategorier som gjør det mulig å fastslå hvorvidt det har forekommet ulovlig kryssubsidiering mellom aktivitetene nevnt i nr. 1hvilken metode som er benyttet til å fordele kostnader på de ulike aktivitetenei tilfelle den regulerte virksomheten utgjør en del av en konsernstruktur, fullstendige opplysninger om betalinger mellom selskapene i konsernet.Avgifter for adgang til jernbanesporulike kostnadskategorier og særlig tilstrekkelige opplysninger om marginale/direkte kostnader i forbindelse med ulike tjenester eller tjenestegruppertilstrekkelige opplysninger til at de individuelle avgifter som er betalt for tjenester (eller tjenestegrupper), kan overvåkes. Markedsovervåkingsorganet kan også kreve at disse opplysninger inneholder data om omfanget av individuelle tjenester, prisene for individuelle tjenester og samlede inntekter for individuelle tjenester som interne og eksterne kunder har betalt forkostnader og inntekter for individuelle tjenester (eller tjenestegrupper) til å identifisere potensielt konkurransevridende prisfastsettelse (kryssubsidiering, aggressiv prising og overprising). Markedsovervåkingsorganet kan kreve bruk av en relevant metode for kostnadsfordeling til dette formålet.Opplysninger om finansielle resultaterredegjørelse for finansielle resultateret kortfattet kostnadsregnskapregnskap over vedlikeholdsutgifterregnskap over driftsutgifterresultatregnskapledsagende noter som ved behov utdyper og redegjør for opplysningene i nr. 1 til 5.
+Når markedsovervåkingsorganet utfører revisjoner etter [§ 11-4](forskrift/2021-06-30-2315/§11-4), kan de særlig kreve å få fremlagt opplysninger om følgende:
+
+1. Atskilte regnskaper
+
+   1. atskilte resultatregnskaper og balanser for godstrafikk, passasjertrafikk og infrastrukturforvaltning
+   2. detaljerte opplysninger om individuelle kilder og anvendelse av offentlige midler og andre former for kompensasjon på en åpen og detaljert måte, herunder en detaljert gjennomgang av virksomhetenes kontantstrømmer slik at det kan fastslås hvordan disse offentlige midler og andre former for kompensasjon er blitt anvendt
+   3. kostnads- og inntektskategorier som gjør det mulig å fastslå hvorvidt det har forekommet ulovlig kryssubsidiering mellom aktivitetene nevnt i nr. 1
+   4. hvilken metode som er benyttet til å fordele kostnader på de ulike aktivitetene
+   5. i tilfelle den regulerte virksomheten utgjør en del av en konsernstruktur, fullstendige opplysninger om betalinger mellom selskapene i konsernet.
+2. Avgifter for adgang til jernbanespor
+
+   1. ulike kostnadskategorier og særlig tilstrekkelige opplysninger om marginale/direkte kostnader i forbindelse med ulike tjenester eller tjenestegrupper
+   2. tilstrekkelige opplysninger til at de individuelle avgifter som er betalt for tjenester (eller tjenestegrupper), kan overvåkes. Markedsovervåkingsorganet kan også kreve at disse opplysninger inneholder data om omfanget av individuelle tjenester, prisene for individuelle tjenester og samlede inntekter for individuelle tjenester som interne og eksterne kunder har betalt for
+   3. kostnader og inntekter for individuelle tjenester (eller tjenestegrupper) til å identifisere potensielt konkurransevridende prisfastsettelse (kryssubsidiering, aggressiv prising og overprising). Markedsovervåkingsorganet kan kreve bruk av en relevant metode for kostnadsfordeling til dette formålet.
+3. Opplysninger om finansielle resultater
+
+   1. redegjørelse for finansielle resultater
+   2. et kortfattet kostnadsregnskap
+   3. regnskap over vedlikeholdsutgifter
+   4. regnskap over driftsutgifter
+   5. resultatregnskap
+   6. ledsagende noter som ved behov utdyper og redegjør for opplysningene i nr. 1 til 5.
 
 > Endret ved [forskrift 24 sep 2021 nr. 2824](forskrift/2021-09-24-2824).
 
@@ -684,7 +844,12 @@ Jernbaneforetak som er etablert i Norge må oppfylle vilkårene til vandel, øko
 
 (1) Eiere av jernbaneforetak må ha god vandel og ikke være slått konkurs. Er eieren en juridisk person må daglig leder oppfylle kravene. Den lisensutstedende myndigheten kan i tillegg stille krav til at andre personer i ledelsen må oppfylle disse kravene.
 
-(2) Kravet til god vandel er oppfylt når personer som nevnt i første ledd:ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig artikke er dømt for alvorlige brudd på transportlovgivningenikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen, eller forpliktelser som følger av tollovgivningen når det dreier seg om et jernbaneforetak som ønsker å utføre grensekryssende godstransport som er underlagt tollprosedyrerikke er blitt dømt for alvorlige forhold som følge av forpliktelser som følger av bindende tariffavtaler.
+(2) Kravet til god vandel er oppfylt når personer som nevnt i første ledd:
+
+1. ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig art
+2. ikke er dømt for alvorlige brudd på transportlovgivningen
+3. ikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen, eller forpliktelser som følger av tollovgivningen når det dreier seg om et jernbaneforetak som ønsker å utføre grensekryssende godstransport som er underlagt tollprosedyrer
+4. ikke er blitt dømt for alvorlige forhold som følge av forpliktelser som følger av bindende tariffavtaler.
 
 (3) For å dokumentere at kravene til vandel er oppfylt, må det fremlegges politiattest for personer nevnt i første ledd.
 
@@ -696,7 +861,14 @@ Jernbaneforetak som er etablert i Norge må oppfylle vilkårene til vandel, øko
 
 (3) For å dokumentere at kravet til økonomisk evne er oppfylt, må jernbaneforetaket fremlegge årsregnskap eller, dersom dette ikke er mulig, årsbalansen.
 
-(4) Jernbaneforetaket må videre fremlegge opplysninger om følgende forhold:disponible midler, herunder tilgodehavende i bank, bevilget kassakreditt og lånkapital og aktiva som kan stilles som sikkerhetdriftskapitalrelevante kostnader, herunder anskaffelseskostnader og à kontobetalinger i forbindelse med kjøretøy, grunn, bygninger, anlegg og rullende materiellkostnader som påhviler jernbaneforetakets aktivaskatter og trygdeavgifter.
+(4) Jernbaneforetaket må videre fremlegge opplysninger om følgende forhold:
+
+1. disponible midler, herunder tilgodehavende i bank, bevilget kassakreditt og lån
+2. kapital og aktiva som kan stilles som sikkerhet
+3. driftskapital
+4. relevante kostnader, herunder anskaffelseskostnader og à kontobetalinger i forbindelse med kjøretøy, grunn, bygninger, anlegg og rullende materiell
+5. kostnader som påhviler jernbaneforetakets aktiva
+6. skatter og trygdeavgifter.
 
 (5) Opplysningene skal dokumenteres gjennom en revisjonsberetning og egnet dokumentasjon fra bank, revisor eller autorisert regnskapsfører.
 
@@ -778,15 +950,115 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 20. des
 
 ## Vedlegg I. Liste over jernbaneinfrastrukturanlegg
 
-Jernbaneinfrastruktur omfatter følgende anlegg, såfremt disse utgjør en del av banelegemet, men ikke spor innenfor reparasjonsverksteder, depoter og lokomotivstaller samt private sidelinjer og sidespor:sidesporgrunnspor og sporunderlag, særlig fyllinger, skjæringer, dreneringskanaler og grøfter, oppmurede grøfter, kulverter, bekledningsmurer, beplantning for beskyttelse av skråninger osv.; perronger og godsramper, herunder på stasjoner for passasjerer og godsterminaler; gangstier og gangveier; sperremurer, hekker, gjerder; branngater, sporvekselvarmer; sporkryss osv.; snøskjermertekniske strukturer: broer, kulverter og andre overganger, tunneler, overdekkede skjæringer og andre underganger; støttemurer, strukturer for vern mot snøskred, steinras osv.planoverganger, herunder sikkerhetsinnretninger for veitrafikkenoverbygning, særlig skinner, rilleskinner og tvangsskinner; jernbanesviller og langsviller, smådeler for spor, ballast inklusive grus og sand; sporveksler og skinnekryss osv.; dreieskiver og skyvebroer (med unntak av slike som er reservert utelukkende for lokomotiver)atkomstveier for passasjerer og gods, herunder atkomst via vei og atkomst for gående passasjerer ved ankomst og avreisesikkerhets-, signal- og telekommunikasjonsutstyr på fri linje, i stasjoner og skiftestasjoner, herunder anlegg for produksjon, omdanning og fordeling av elektrisk strøm for signalgiving og telekommunikasjon; bygninger for slike installasjoner eller anlegg; sporbremserlysanlegg for trafikk- og sikkerhetsformålanlegg for omdanning og overføring av elektrisk strøm for togframdrift: understasjoner, forsyningskabler mellom understasjoner og kontakttråder, bæreliner og stolper; tredjeskinne med stolperbygninger som brukes av infrastrukturforvalter, herunder en del av anleggene for innkreving av transportkostnader.
+Jernbaneinfrastruktur omfatter følgende anlegg, såfremt disse utgjør en del av banelegemet, men ikke spor innenfor reparasjonsverksteder, depoter og lokomotivstaller samt private sidelinjer og sidespor:
+
+- sidespor
+- grunn
+- spor og sporunderlag, særlig fyllinger, skjæringer, dreneringskanaler og grøfter, oppmurede grøfter, kulverter, bekledningsmurer, beplantning for beskyttelse av skråninger osv.; perronger og godsramper, herunder på stasjoner for passasjerer og godsterminaler; gangstier og gangveier; sperremurer, hekker, gjerder; branngater, sporvekselvarmer; sporkryss osv.; snøskjermer
+- tekniske strukturer: broer, kulverter og andre overganger, tunneler, overdekkede skjæringer og andre underganger; støttemurer, strukturer for vern mot snøskred, steinras osv.
+- planoverganger, herunder sikkerhetsinnretninger for veitrafikken
+- overbygning, særlig skinner, rilleskinner og tvangsskinner; jernbanesviller og langsviller, smådeler for spor, ballast inklusive grus og sand; sporveksler og skinnekryss osv.; dreieskiver og skyvebroer (med unntak av slike som er reservert utelukkende for lokomotiver)
+- atkomstveier for passasjerer og gods, herunder atkomst via vei og atkomst for gående passasjerer ved ankomst og avreise
+- sikkerhets-, signal- og telekommunikasjonsutstyr på fri linje, i stasjoner og skiftestasjoner, herunder anlegg for produksjon, omdanning og fordeling av elektrisk strøm for signalgiving og telekommunikasjon; bygninger for slike installasjoner eller anlegg; sporbremser
+- lysanlegg for trafikk- og sikkerhetsformål
+- anlegg for omdanning og overføring av elektrisk strøm for togframdrift: understasjoner, forsyningskabler mellom understasjoner og kontakttråder, bæreliner og stolper; tredjeskinne med stolper
+- bygninger som brukes av infrastrukturforvalter, herunder en del av anleggene for innkreving av transportkostnader.
 
 ## Vedlegg II. Prinsipper for ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6)
 
-Ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6) skal bygge på følgende prinsipper:For å oppnå et avtalt ytelsesnivå uten å bringe en tjenestes økonomiske levedyktighet i fare skal infrastrukturforvalteren avtale med søkeren de viktigste parametrene for ytelsesordningen, særlig verdien av forsinkelser, terskelverdiene for skyldige beløp i henhold til ytelsesordningen både med hensyn til individuelle togavganger og alle togavganger hos et jernbaneforetak i en gitt periode.Infrastrukturforvalteren skal meddele jernbaneforetaket ruteplanen, som skal anvendes som grunnlag for beregning av forsinkelser, minst fem dager før togets avgang. Infrastrukturforvalteren kan benytte en kortere meldingsfrist i tilfelle av force majeure eller sen endring av ruteplanen.Alle forsinkelser skal tilskrives en av følgende kategorier og underkategorier:håndtering av drift/planlegging som kan tilskrives infrastrukturforvalterenutarbeidelse av kjøreplantogsammensetningfeil i driftsprosedyrefeil anvendelse av prioritetsreglenepersonaleandre årsakerjernbaneinfrastrukturanlegg som kan tilskrives infrastrukturforvalterensignalanleggsignalanlegg ved planovergangertelekommunikasjonsanleggstrømforsyningsutstyrsporstrukturerpersonaleandre årsakerårsaker knyttet til anleggsarbeid som kan tilskrives infrastrukturforvalterenplanlagt anleggsarbeiduregelmessigheter ved utførelsen av anleggsarbeidredusert hastighet på grunn av defekt sporandre årsakerårsaker som kan tilskrives andre infrastrukturforvaltereforårsaket av foregående infrastrukturforvalterforårsaket av neste infrastrukturforvalterkommersielle årsaker som kan tilskrives jernbaneforetaketoverskridelse av stopptidanmodning fra jernbaneforetaketlasteoperasjoneruregelmessigheter ved lastingklargjøring av togpersonaleandre årsakerrullende materiell som kan tilskrives jernbaneforetaketplanlegging av vaktliste/omlegging av vaktlistetogsammensetning som utføres av jernbaneforetakproblemer som påvirker passasjervogner (persontransport)problemer som påvirker godsvogner (godstransport)problemer som påvirker vogner, lokomotiver og motorvognerpersonaleandre årsakerårsaker som kan tilskrives andre jernbaneforetakforårsaket av neste jernbaneforetakforårsaket av foregående jernbaneforetakutenforliggende årsaker som verken kan tilskrives infrastrukturforvalteren eller jernbaneforetaketstreikadministrative formaliteterytre påvirkningkonsekvenser av værforhold og naturlige årsakerforsinkelser som skyldes ytre årsaker på etterfølgende nettandre årsakersekundære årsaker som verken kan tilskrives infrastrukturforvalteren eller jernbaneforetaketfarlige hendelser, ulykker og fareropptatt spor på grunn av togets forsinkelseopptatt spor på grunn av et annet togs forsinkelseomløpstidforbindelsebehov for ytterligere undersøkelser.
+Ytelsesordningen nevnt i [§ 6-6](forskrift/2021-06-30-2315/§6-6) skal bygge på følgende prinsipper:
+
+1. For å oppnå et avtalt ytelsesnivå uten å bringe en tjenestes økonomiske levedyktighet i fare skal infrastrukturforvalteren avtale med søkeren de viktigste parametrene for ytelsesordningen, særlig verdien av forsinkelser, terskelverdiene for skyldige beløp i henhold til ytelsesordningen både med hensyn til individuelle togavganger og alle togavganger hos et jernbaneforetak i en gitt periode.
+2. Infrastrukturforvalteren skal meddele jernbaneforetaket ruteplanen, som skal anvendes som grunnlag for beregning av forsinkelser, minst fem dager før togets avgang. Infrastrukturforvalteren kan benytte en kortere meldingsfrist i tilfelle av force majeure eller sen endring av ruteplanen.
+3. Alle forsinkelser skal tilskrives en av følgende kategorier og underkategorier:
+
+   1. håndtering av drift/planlegging som kan tilskrives infrastrukturforvalteren
+
+      1. utarbeidelse av kjøreplan
+      2. togsammensetning
+      3. feil i driftsprosedyre
+      4. feil anvendelse av prioritetsreglene
+      5. personale
+      6. andre årsaker
+   2. jernbaneinfrastrukturanlegg som kan tilskrives infrastrukturforvalteren
+
+      1. signalanlegg
+      2. signalanlegg ved planoverganger
+      3. telekommunikasjonsanlegg
+      4. strømforsyningsutstyr
+      5. spor
+      6. strukturer
+      7. personale
+      8. andre årsaker
+   3. årsaker knyttet til anleggsarbeid som kan tilskrives infrastrukturforvalteren
+
+      1. planlagt anleggsarbeid
+      2. uregelmessigheter ved utførelsen av anleggsarbeid
+      3. redusert hastighet på grunn av defekt spor
+      4. andre årsaker
+   4. årsaker som kan tilskrives andre infrastrukturforvaltere
+
+      1. forårsaket av foregående infrastrukturforvalter
+      2. forårsaket av neste infrastrukturforvalter
+   5. kommersielle årsaker som kan tilskrives jernbaneforetaket
+
+      1. overskridelse av stopptid
+      2. anmodning fra jernbaneforetaket
+      3. lasteoperasjoner
+      4. uregelmessigheter ved lasting
+      5. klargjøring av tog
+      6. personale
+      7. andre årsaker
+   6. rullende materiell som kan tilskrives jernbaneforetaket
+
+      1. planlegging av vaktliste/omlegging av vaktliste
+      2. togsammensetning som utføres av jernbaneforetak
+      3. problemer som påvirker passasjervogner (persontransport)
+      4. problemer som påvirker godsvogner (godstransport)
+      5. problemer som påvirker vogner, lokomotiver og motorvogner
+      6. personale
+      7. andre årsaker
+   7. årsaker som kan tilskrives andre jernbaneforetak
+
+      1. forårsaket av neste jernbaneforetak
+      2. forårsaket av foregående jernbaneforetak
+   8. utenforliggende årsaker som verken kan tilskrives infrastrukturforvalteren eller jernbaneforetaket
+
+      1. streik
+      2. administrative formaliteter
+      3. ytre påvirkning
+      4. konsekvenser av værforhold og naturlige årsaker
+      5. forsinkelser som skyldes ytre årsaker på etterfølgende nett
+      6. andre årsaker
+   9. sekundære årsaker som verken kan tilskrives infrastrukturforvalteren eller jernbaneforetaket
+
+      1. farlige hendelser, ulykker og farer
+      2. opptatt spor på grunn av togets forsinkelse
+      3. opptatt spor på grunn av et annet togs forsinkelse
+      4. omløpstid
+      5. forbindelse
+      6. behov for ytterligere undersøkelser.
 
 ## Vedlegg III. Grunnleggende prinsipper og parametre for avtaler mellom vedkommende myndighet og infrastrukturforvalter
 
-I avtalen skal bestemmelsene i [§ 3-2](forskrift/2021-06-30-2315/§3-2) spesifiseres og omfatte minst følgende elementer:avtalens anvendelsesområde med hensyn til infrastruktur og serviceanlegg, satt opp i samsvar med [kapittel 4](forskrift/2021-06-30-2315/kap4). Det skal omfatte alle aspekter av infrastrukturforvaltning, herunder vedlikehold og fornyelse av infrastruktur som allerede er i bruk. Dersom det er hensiktsmessig, kan det også omfatte oppføring av ny infrastruktur,strukturen for betalinger eller midler fordelt på infrastrukturtjenestene nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4), til vedlikehold og fornyelse og til håndtering av eksisterende vedlikeholds- og fornyelsesetterslep. Dersom det er hensiktsmessig, kan strukturen for betalinger eller midler som er bevilget til ny infrastruktur, tas med,brukerorienterte ytelsesmål i form av indikatorer og kvalitetskriterier, som omfatter elementer somtogytelse, for eksempel med hensyn til linjehastighet og pålitelighet samt kundetilfredshet,nettverkskapasitet,forvaltning av aktiva,virksomhetsvolumer,sikkerhetsnivåer ogmiljøvern.omfanget av eventuelt vedlikeholdsetterslep og aktiva som skal fases ut og følgelig vil utløse andre kapitalstrømmer,stimuleringstiltakene nevnt i [§ 3-2 første ledd](forskrift/2021-06-30-2315/§3-2/ledd/1) siste punktum,infrastrukturforvalters minsteforpliktelser med hensyn til innhold og hyppighet i rapporteringen, herunder opplysninger som skal offentliggjøres årlig,den avtalte løpetiden for avtalen, som skal samordnes med og være i samsvar med løpetiden for infrastrukturforvalters forretningsplan, konsesjon eller lisens der det er relevant, og de avgiftsrammer og -regler som er fastsatt av staten,regler for håndtering av større driftsavbrudd og nødsituasjoner, herunder beredskapsplaner og tidlig heving av avtalen, og informasjon i god tid til brukerne,utbedringstiltak som skal treffes dersom en av partene misligholder sine kontraktfestede forpliktelser, eller dersom ekstraordinære omstendigheter påvirker muligheten for offentlig finansiering; dette omfatter vilkår og framgangsmåter for reforhandling og tidlig heving.
+I avtalen skal bestemmelsene i [§ 3-2](forskrift/2021-06-30-2315/§3-2) spesifiseres og omfatte minst følgende elementer:
+
+1. avtalens anvendelsesområde med hensyn til infrastruktur og serviceanlegg, satt opp i samsvar med [kapittel 4](forskrift/2021-06-30-2315/kap4). Det skal omfatte alle aspekter av infrastrukturforvaltning, herunder vedlikehold og fornyelse av infrastruktur som allerede er i bruk. Dersom det er hensiktsmessig, kan det også omfatte oppføring av ny infrastruktur,
+2. strukturen for betalinger eller midler fordelt på infrastrukturtjenestene nevnt i [kapittel 4](forskrift/2021-06-30-2315/kap4), til vedlikehold og fornyelse og til håndtering av eksisterende vedlikeholds- og fornyelsesetterslep. Dersom det er hensiktsmessig, kan strukturen for betalinger eller midler som er bevilget til ny infrastruktur, tas med,
+3. brukerorienterte ytelsesmål i form av indikatorer og kvalitetskriterier, som omfatter elementer som
+
+   1. togytelse, for eksempel med hensyn til linjehastighet og pålitelighet samt kundetilfredshet,
+   2. nettverkskapasitet,
+   3. forvaltning av aktiva,
+   4. virksomhetsvolumer,
+   5. sikkerhetsnivåer og
+   6. miljøvern.
+4. omfanget av eventuelt vedlikeholdsetterslep og aktiva som skal fases ut og følgelig vil utløse andre kapitalstrømmer,
+5. stimuleringstiltakene nevnt i [§ 3-2 første ledd](forskrift/2021-06-30-2315/§3-2/ledd/1) siste punktum,
+6. infrastrukturforvalters minsteforpliktelser med hensyn til innhold og hyppighet i rapporteringen, herunder opplysninger som skal offentliggjøres årlig,
+7. den avtalte løpetiden for avtalen, som skal samordnes med og være i samsvar med løpetiden for infrastrukturforvalters forretningsplan, konsesjon eller lisens der det er relevant, og de avgiftsrammer og -regler som er fastsatt av staten,
+8. regler for håndtering av større driftsavbrudd og nødsituasjoner, herunder beredskapsplaner og tidlig heving av avtalen, og informasjon i god tid til brukerne,
+9. utbedringstiltak som skal treffes dersom en av partene misligholder sine kontraktfestede forpliktelser, eller dersom ekstraordinære omstendigheter påvirker muligheten for offentlig finansiering; dette omfatter vilkår og framgangsmåter for reforhandling og tidlig heving.
 
 ## Vedlegg IV. Tidsplan for tildelingsprosessen
 
@@ -802,7 +1074,9 @@ I avtalen skal bestemmelsene i [§ 3-2](forskrift/2021-06-30-2315/§3-2) spesifi
 
 (5) Infrastrukturforvalter skal utarbeide et utkast til ruteplan senest fire måneder etter fristen for inngivelse av søknader fra søkerne.
 
-(6) Infrastrukturforvalter skal treffe en beslutning om søknader som mottas etter fristen nevnt i nr. 3 i henhold til en fremgangsmåte beskrevet i netterklæringen.Infrastrukturforvalter kan omfordele et tildelt ruteleie hvis det er nødvendige for å sikre best mulig samsvar mellom alle ruteleiesøknader og hvis det den berørte søker som har blitt tildelt et ruteleie aksepterer dette. Infrastrukturforvalter skal oppdatere utkastet til ruteplan senest en måned før endringene i ruteplanen for å få inn alle tildelte ruteleier etter fristen nevnt i nr. 3.
+(6) Infrastrukturforvalter skal treffe en beslutning om søknader som mottas etter fristen nevnt i nr. 3 i henhold til en fremgangsmåte beskrevet i netterklæringen.
+
+Infrastrukturforvalter kan omfordele et tildelt ruteleie hvis det er nødvendige for å sikre best mulig samsvar mellom alle ruteleiesøknader og hvis det den berørte søker som har blitt tildelt et ruteleie aksepterer dette. Infrastrukturforvalter skal oppdatere utkastet til ruteplan senest en måned før endringene i ruteplanen for å få inn alle tildelte ruteleier etter fristen nevnt i nr. 3.
 
 (7) I tilfeller der tog som krysser fra et jernbanenett til et annet har beregnet ankomst på mindre enn 18 timers forsinkelse, skal ikke infrastrukturforvalteren for det andre jernbanenettet anse dette som et avlyst ruteleie, og skal ikke kreve søknad om et nytt ruteleie. Dette gjelder også hvis det tildeles et nytt ruteleie, hvis ikke søkeren informerer infrastrukturforvalteren om at toget ikke vil krysse dette jernbanenettet. Infrastrukturforvalter skal umiddelbart formidle til søkeren det oppdaterte eller nye ruteleiet og, hvis relevant, forbindelsen mellom det nye eller endrede ruteleienummeret og det opprinnelige ruteleienummeret.
 
@@ -812,7 +1086,15 @@ I avtalen skal bestemmelsene i [§ 3-2](forskrift/2021-06-30-2315/§3-2) spesifi
 
 (10) Når kapasitetsbegrensninger som nevnt i punkt 8 publiseres for første gang, skal infrastrukturforvalter sørge for å konsultere søkere og de største berørte driverne av serviceanlegg om disse kapasitetsbegrensningene. Når det er påkrevd med samordning etter punkt 11 mellom den første og andre publiseringen av kapasitetsbegrensninger, skal infrastrukturforvalterne konsultere på nytt med søkerne og de største berørte driverne av serviceanlegg etter samordningen og før andre gangs publisering av kapasitetsbegrensningene.
 
-(11) Før publisering av kapasitetsbegrensninger nevnt i punkt 8 som får konsekvenser for mer enn ett jernbanenett, skal de involverte infrastrukturforvalterne, inkludert infrastrukturforvaltere som kan bli berørt av omdirigering av tog, koordinere seg imellom om kapasitetsbegrensinger som kan føre til kansellering, omdirigering av et ruteleie eller bruk av andre transportformer.Slik koordinering før den andre publiseringen av kapasitetsbegrensningene skal fullføres:ikke senere enn 18 måneder før endringene i ruteplanen når mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i mer enn 30 sammenhengende dager.ikke senere enn 13 måneder og 15 dager før endringene i ruteplanen når mer enn 30 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i mer enn syv sammenhengende dager.ikke senere enn 13 måneder og 15 dager før endringene i ruteplanen når mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i syv sammenhengende dager eller mindre.Hvis det er nødvendig skal infrastrukturforvalterne invitere søkere som er aktive på de berørte strekningene og de største berørte driverne av serviceanlegg til å involvere seg i koordineringen.
+(11) Før publisering av kapasitetsbegrensninger nevnt i punkt 8 som får konsekvenser for mer enn ett jernbanenett, skal de involverte infrastrukturforvalterne, inkludert infrastrukturforvaltere som kan bli berørt av omdirigering av tog, koordinere seg imellom om kapasitetsbegrensinger som kan føre til kansellering, omdirigering av et ruteleie eller bruk av andre transportformer.
+
+Slik koordinering før den andre publiseringen av kapasitetsbegrensningene skal fullføres:
+
+1. ikke senere enn 18 måneder før endringene i ruteplanen når mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i mer enn 30 sammenhengende dager.
+2. ikke senere enn 13 måneder og 15 dager før endringene i ruteplanen når mer enn 30 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i mer enn syv sammenhengende dager.
+3. ikke senere enn 13 måneder og 15 dager før endringene i ruteplanen når mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning pr. dag er kansellert, omdirigert eller erstattet av andre transportformer i syv sammenhengende dager eller mindre.
+
+Hvis det er nødvendig skal infrastrukturforvalterne invitere søkere som er aktive på de berørte strekningene og de største berørte driverne av serviceanlegg til å involvere seg i koordineringen.
 
 (12) Ved kapasitetsbegrensninger som vil vare i syv sammenhengende dager eller mindre, og som infrastrukturforvalter blir klar over senest seks måneder og 15 dager før endringene i ruteplanen, som ikke behøver å publiseres i medhold av punkt 8 og der mer enn 10 % av den beregnede trafikken på en jernbanestrekning pr. dag blir kansellert, omdirigert eller erstattet av andre transportformer, skal infrastrukturforvalter konsultere de berørte søkerne om de forventede kapasitetsbegrensningene og formidle de oppdaterte kapasitetsbegrensningene senest fire måneder før endringene i ruteplanen. Infrastrukturforvalter skal gi detaljene om de tilbudte ruteleiene for passasjertog senest fire måneder, og for godstog senest en måned, før begynnelsen av kapasitetsbegrensningene, hvis ikke infrastrukturforvalter og de berørte søkerne blir enige om kortere frister.
 
@@ -820,8 +1102,25 @@ I avtalen skal bestemmelsene i [§ 3-2](forskrift/2021-06-30-2315/§3-2) spesifi
 
 (14) Infrastrukturforvalter kan beslutte å ikke følge fristene i punkt 8 til 12 hvis kapasitetsbegrensningene er nødvendige for å gjenopprette sikker togframføring, tidspunktene for begrensningene er utenfor infrastrukturforvalters kontroll, etterlevelse av fristene ikke vil være kostnadseffektive eller kan føre til unødig skade på verdier, eller alle de berørte søkerne samtykker. I slike tilfeller, og i alle andre tilfeller av kapasitetsbegrensninger som ikke er underlagt krav til konsultasjoner i medhold av dette vedlegget, skal infrastrukturforvalter konsultere søkere og større berørte drivere av serviceanlegg på egnet måte.
 
-(15) Når infrastrukturforvalter følger punkt 8, 12 eller 14, skal informasjonen minst omhandle:planlagt dag,tidspunkt på dagen og, så langt det kan fastsettes, start- og endetidspunkt for kapasitetsbegrensningen,hvilken del av strekningen som er berørt av begrensningen, oghvis aktuelt, kapasitet på omkjøringslinjer.Infrastrukturforvalter skal publisere slik oppdatert informasjon, eller en link til slik informasjon, i netterklæringen, jf. [§ 5-2 bokstav c](forskrift/2021-06-30-2315/§5-2/bokstav/c).
+(15) Når infrastrukturforvalter følger punkt 8, 12 eller 14, skal informasjonen minst omhandle:
 
-(16) Ved kapasitetsbegrensninger som varer i mer enn 30 påfølgende dager og som berører mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning, skal infrastrukturforvalter i den første konsultasjonsrunden gi søkere en sammenligning av betingelser for to alternative kapasitetsbegrensninger. Infrastrukturforvalter skal utforme disse alternativene etter innspill fra og i samråd med søkerne når de ber om det.For hvert alternativ skal en slik sammenligning minst inneholde:varigheten på kapasitetsbegrensningen,de forventede infrastrukturavgiftene,tilgjengelig kapasitet på omkjøringsstrekninger,tilgjengelige alternative ruter, ogforventede reisetider.Før det blir truffet en beslutning om alternative kapasitetsbegrensninger, skal infrastrukturforvalter konsultere interesserte søkere og ta hensyn til hvordan disse søkerne og deres kunder blir berørt.
+1. planlagt dag,
+2. tidspunkt på dagen og, så langt det kan fastsettes, start- og endetidspunkt for kapasitetsbegrensningen,
+3. hvilken del av strekningen som er berørt av begrensningen, og
+4. hvis aktuelt, kapasitet på omkjøringslinjer.
+
+Infrastrukturforvalter skal publisere slik oppdatert informasjon, eller en link til slik informasjon, i netterklæringen, jf. [§ 5-2 bokstav c](forskrift/2021-06-30-2315/§5-2/bokstav/c).
+
+(16) Ved kapasitetsbegrensninger som varer i mer enn 30 påfølgende dager og som berører mer enn 50 % av det beregnede trafikkvolumet på en jernbanestrekning, skal infrastrukturforvalter i den første konsultasjonsrunden gi søkere en sammenligning av betingelser for to alternative kapasitetsbegrensninger. Infrastrukturforvalter skal utforme disse alternativene etter innspill fra og i samråd med søkerne når de ber om det.
+
+For hvert alternativ skal en slik sammenligning minst inneholde:
+
+1. varigheten på kapasitetsbegrensningen,
+2. de forventede infrastrukturavgiftene,
+3. tilgjengelig kapasitet på omkjøringsstrekninger,
+4. tilgjengelige alternative ruter, og
+5. forventede reisetider.
+
+Før det blir truffet en beslutning om alternative kapasitetsbegrensninger, skal infrastrukturforvalter konsultere interesserte søkere og ta hensyn til hvordan disse søkerne og deres kunder blir berørt.
 
 (17) Ved kapasitetsbegrensninger som varer i mer enn 30 påfølgende dager og som berører mer enn 50 % av trafikken på en jernbanestrekning, skal infrastrukturforvalter fastsette kriterier for hvilke tog innenfor hver type tjeneste som skal omdirigeres. Det må da tas hensyn til kommersielle og operative konsekvenser, hvis ikke disse konsekvensene er resultat av ledelsesmessige eller organisatoriske beslutninger hos søkeren, og infrastrukturforvalters må ta hensyn til [§ 6-1 første ledd](forskrift/2021-06-30-2315/§6-1/ledd/1). Infrastrukturforvalter skal publisere disse kriteriene i netterklæringen sammen med en foreløpig tildeling av restkapasiteten for ulike typer togtjenester i henhold til punkt 8. Når konsultasjonen er ferdig, og uten at infrastrukturforvalters forpliktelser til å ta inn informasjon i netterklæringen i henhold til [§ 5-2](forskrift/2021-06-30-2315/§5-2) berøres, skal infrastrukturforvalter gi de berørte jernbaneforetakene en foreløpig angivelse av restkapasitet, basert på tilbakemeldingen fra søkerne.

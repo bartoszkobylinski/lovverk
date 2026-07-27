@@ -32,7 +32,13 @@ Forskriften gjelder kontrakter for alle anskaffelser av ferjer og ferjetjenester
 
 ## § 3. Definisjoner
 
-I forskriften menes med:*Ferje:* ferjer i riksvegsamband, fylkesvegsamband og kommunale samband.*Nullutslipp av klimagasser:* bruk av teknologi og energibærere som ikke gir direkte utslipp av CO2, CH4 (metan) og N2O (lystgass) fra skipet.*Ordinær drift:* all drift i henhold til gjeldende rutetabell. Annen drift og forflytning anses ikke som ordinær drift.*Økonomisk gjennomførbarhet:* ferjer og ferjetjenester med en anslått tiltakskostnad under 6000 kroner per tonn redusert CO2-ekvivalenter. Tiltakskostnaden defineres som netto nåverdi av samlet kostnad for oppdragsgiver fra basisår til tiltakets slutt delt på summen av totale CO2-ekvivalenter redusert fra basisår til tiltakets slutt.*Hybride løsninger:* fremdriftsløsninger som kombinerer nullutslippsdrift og fossildrift.
+I forskriften menes med:
+
+1. *Ferje:* ferjer i riksvegsamband, fylkesvegsamband og kommunale samband.
+2. *Nullutslipp av klimagasser:* bruk av teknologi og energibærere som ikke gir direkte utslipp av CO2, CH4 (metan) og N2O (lystgass) fra skipet.
+3. *Ordinær drift:* all drift i henhold til gjeldende rutetabell. Annen drift og forflytning anses ikke som ordinær drift.
+4. *Økonomisk gjennomførbarhet:* ferjer og ferjetjenester med en anslått tiltakskostnad under 6000 kroner per tonn redusert CO2-ekvivalenter. Tiltakskostnaden defineres som netto nåverdi av samlet kostnad for oppdragsgiver fra basisår til tiltakets slutt delt på summen av totale CO2-ekvivalenter redusert fra basisår til tiltakets slutt.
+5. *Hybride løsninger:* fremdriftsløsninger som kombinerer nullutslippsdrift og fossildrift.
 
 ## § 4. Krav om nullutslipp av klimagasser for ferjer og ferjetjenester
 
@@ -40,7 +46,12 @@ Oppdragsgiver som inngår kontrakter om anskaffelse av ferjer og ferjetjenester 
 
 ## § 5. Unntak fra krav om nullutslipp av klimagasser for ferjer og ferjetjenester
 
-Oppdragsgiver kan unnlate å stille krav etter [§ 4](forskrift/2024-11-13-3329/§4) dersom:Ferjen bruker biogass der dette er økonomisk gjennomførbart.Kontrakten er knyttet til ferjesamband der ferjeavløsningsprosjekt er nært forestående og vedtatt utbygd.Oppdragsgiver ikke kan sikre tilstrekkelig tilgang til strømforsyning eller andre bunkringsfasiliteter på land for å oppfylle kravet om nullutslipp av klimagasser.Det ikke er teknisk eller økonomisk gjennomførbart.
+Oppdragsgiver kan unnlate å stille krav etter [§ 4](forskrift/2024-11-13-3329/§4) dersom:
+
+1. Ferjen bruker biogass der dette er økonomisk gjennomførbart.
+2. Kontrakten er knyttet til ferjesamband der ferjeavløsningsprosjekt er nært forestående og vedtatt utbygd.
+3. Oppdragsgiver ikke kan sikre tilstrekkelig tilgang til strømforsyning eller andre bunkringsfasiliteter på land for å oppfylle kravet om nullutslipp av klimagasser.
+4. Det ikke er teknisk eller økonomisk gjennomførbart.
 
 Der det ikke er teknisk eller økonomisk gjennomførbart å følge kravet etter [§ 4](forskrift/2024-11-13-3329/§4) skal bruk av hybride løsninger tilstrebes.
 

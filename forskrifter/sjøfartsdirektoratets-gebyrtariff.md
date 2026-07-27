@@ -15,7 +15,7 @@ xml_hash: "6895fc962f3b22699ccfbc330239b4aa63b113c811f2e905009a1b2ed7b1c5f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,9 @@ Gebyr- og timesatser i denne forskriften gjelder for førstegangsgebyr, årsgeby
 | Uklasset lasteskip ≥ 500 BT og lengde (L) ≥ 80m | 1 213 652 | 1 517 065 | 1 820 478 | 606 826 |
 | Uklasset olje-, gass-, og kjemikalietankskip ≥ 150BT | 1 145 064 | 1 431 330 | 1 717 596 | 572 532 |
 
-4\. *Førstegangsgebyr beredskapsfartøy*Førstegangsgebyr som for lasteskip, med et tillegg på kr 29 245.
+4\. *Førstegangsgebyr beredskapsfartøy*
+
+Førstegangsgebyr som for lasteskip, med et tillegg på kr 29 245.
 
 5\. *Førstegangsgebyr for klassifiserte fiske- og fangstfartøy*
 
@@ -149,7 +151,10 @@ Gebyr- og timesatser i denne forskriften gjelder for førstegangsgebyr, årsgeby
 
 1\. *Passasjerskip*
 
-Passasjerskip som er delegert i henhold til klasseavtalen betaler førstegangsgebyr som klasset lasteskip over 500BT som fastsatt i denne paragraf nr. 3. Alle andre passasjerskip skal betale følgende gebyr:Grunnbeløp kr 5 000,– pluss et tonnasjetillegg på kr 0,50 pr. nettotonn.Utregnet beløp multipliseres med en faktor 2,0030. I tillegg skal det betales gebyr etter samme satser som fastsatt i § 3 nr. 1.
+Passasjerskip som er delegert i henhold til klasseavtalen betaler førstegangsgebyr som klasset lasteskip over 500BT som fastsatt i denne paragraf nr. 3. Alle andre passasjerskip skal betale følgende gebyr:
+
+- Grunnbeløp kr 5 000,– pluss et tonnasjetillegg på kr 0,50 pr. nettotonn.
+- Utregnet beløp multipliseres med en faktor 2,0030. I tillegg skal det betales gebyr etter samme satser som fastsatt i § 3 nr. 1.
 
 2\. *Lasteskip, under 500 BT, samt beredskapsfartøy og forsyningsskip uansett tonnasje*
 
@@ -159,7 +164,12 @@ Passasjerskip som er delegert i henhold til klasseavtalen betaler førstegangsge
 
 3\. *Klasset lasteskip på 500 BT og derover, unntatt beredskapsfartøy og forsyningsskip*
 
-Grunnbeløp kr 12 000,–, pluss følgende tonnasjetillegg:For de første 5 000 nettotonn betales kr 5,– pr. nettotonnFor de neste 5 000 nettotonn betales kr 4,– pr. nettotonnFor de neste 20 000 nettotonn betales kr 3,– pr. nettotonnFor de neste 40 000 nettotonn betales kr. 2,– pr. nettotonn.
+Grunnbeløp kr 12 000,–, pluss følgende tonnasjetillegg:
+
+- For de første 5 000 nettotonn betales kr 5,– pr. nettotonn
+- For de neste 5 000 nettotonn betales kr 4,– pr. nettotonn
+- For de neste 20 000 nettotonn betales kr 3,– pr. nettotonn
+- For de neste 40 000 nettotonn betales kr. 2,– pr. nettotonn.
 
 For skip som er større enn 70 000 nettotonn betales ytterligere kr 1,– pr. nettotonn utover 70 000 nettotonn.
 
@@ -207,7 +217,13 @@ Summen av grunngebyr og alt tilsynsgebyr multipliseres med en faktor på 2,2930
 | Fra og med 500 men under 2 000 | 8 426 | 4 214 |
 | Fra og med 2 000 og over | 16 928 | 8 451 |
 
-2\. *Særskilte sertifikater og tillatelser som ikke dekkes av førstegangsgebyr og årsgebyr*Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl (CLC-sertifikat) kr 2 319,–.Passasjersertifikat for elvefart kr 1 714,–.Sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001 kr 3 563,–Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten-konvensjonen 2002 og Aten-forordningen kr 3 563,–.Sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat) kr 3 563,–.
+2\. *Særskilte sertifikater og tillatelser som ikke dekkes av førstegangsgebyr og årsgebyr*
+
+- Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl (CLC-sertifikat) kr 2 319,–.
+- Passasjersertifikat for elvefart kr 1 714,–.
+- Sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001 kr 3 563,–
+- Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten-konvensjonen 2002 og Aten-forordningen kr 3 563,–.
+- Sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat) kr 3 563,–.
 
 1 Med unntak av § 6 nr. 2.3 og 2.4 gjelder § 6 ikke for klasset lasteskip i NIS på 500 BT og derover som ikke er beredskapsfartøy eller forsyningsskip, jf. [forskrift 2. februar 1996 nr. 115 om oppkreving av gebyr til Statskassen for besiktelser, sertifikatutstedelse mv. § 19 nr. 4](forskrift/1996-02-02-115/§19/nummer/4).
 
@@ -289,15 +305,24 @@ Summen av grunngebyr og alt tilsynsgebyr multipliseres med en faktor på 2,2930
 | ″ | 8 000 ″ | 10 000 ″ | 26 137 | 33 932 | 33 932 |
 | ″ | 10 000 ″ og over |  | 28 180 | 36 380 | 36 380 |
 
-4\. For kjenningsmåling og utstedelse av identitetsbevis unntatt ved førstegangskjenningsmåling jf. § 3 nr. 7 betales:For fartøy med største lengde under 10 m største lengde: kr 1 714,–.For fartøy med største lengde f.o.m. 10 meter men under 15 meter: kr 3 050,–.
+4\. For kjenningsmåling og utstedelse av identitetsbevis unntatt ved førstegangskjenningsmåling jf. § 3 nr. 7 betales:
 
-2 Førstegangsmåling av norske skip er inkludert i førstegangsgebyret.3 Førstegangsmålebrev for norske skip er inkludert i førstegangsgebyret.
+- For fartøy med største lengde under 10 m største lengde: kr 1 714,–.
+- For fartøy med største lengde f.o.m. 10 meter men under 15 meter: kr 3 050,–.
+
+2 Førstegangsmåling av norske skip er inkludert i førstegangsgebyret.
+
+3 Førstegangsmålebrev for norske skip er inkludert i førstegangsgebyret.
 
 > Endret ved [forskrifter 22 des 2010 nr. 1796](forskrift/2010-12-22-1796), [5 jan 2012 nr. 19](forskrift/2012-01-05-19), [11 jan 2013 nr. 38](forskrift/2013-01-11-38), [19 des 2013 nr. 1681](forskrift/2013-12-19-1681) (i kraft 1 jan 2014), [19 des 2014 nr. 1880](forskrift/2014-12-19-1880) (i kraft 1 jan 2015), [15 des 2015 nr. 1674](forskrift/2015-12-15-1674) (i kraft 1 jan 2016), [20 des 2016 nr. 1772](forskrift/2016-12-20-1772) (i kraft 1 jan 2017), [18 des 2017 nr. 2229](forskrift/2017-12-18-2229) (i kraft 1 jan 2018), [20 des 2018 nr. 2180](forskrift/2018-12-20-2180) (i kraft 1 jan 2019), [20 des 2019 nr. 2096](forskrift/2019-12-20-2096) (i kraft 1 jan 2020), [23 des 2020 nr. 3172](forskrift/2020-12-23-3172) (i kraft 1 jan 2021), [21 des 2021 nr. 3835](forskrift/2021-12-21-3835) (i kraft 1 jan 2022), [20 des 2022 nr. 2455](forskrift/2022-12-20-2455) (i kraft 1 jan 2023), [22 des 2023 nr. 2318](forskrift/2023-12-22-2318) (i kraft 1 jan 2024), [23 des 2024 nr. 3621](forskrift/2024-12-23-3621) (i kraft 1 jan 2025), [10 des 2025 nr. 2851](forskrift/2025-12-10-2851) (i kraft 1 jan 2026).
 
 ## § 9. Timesatser for gebyr beregnet etter anvendt tid
 
-For gebyr som skal beregnes etter anvendt tid skal følgende timesatser gjelde:For besiktelser mv. utført i Norge kr 1 714,–.For besiktelser mv. utført i utlandet kr 3 050,–.For overtid i Norge og utlandet kr 1 436–.
+For gebyr som skal beregnes etter anvendt tid skal følgende timesatser gjelde:
+
+- For besiktelser mv. utført i Norge kr 1 714,–.
+- For besiktelser mv. utført i utlandet kr 3 050,–.
+- For overtid i Norge og utlandet kr 1 436–.
 
 Gebyret skal oppkreves i tillegg til ovennevnte satser.
 

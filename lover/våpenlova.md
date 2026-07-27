@@ -15,7 +15,7 @@ xml_hash: "6c942c4ffa5b3accf024f4836eb35cfe3602f3889dcc943dd93d22aa9ed3751c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,16 @@ Føremålet med lova er å trygge samfunnet mot uønskte hendingar med våpen og
 
 ### § 2. Definisjonar
 
-I denne lova meiner ein med:Våpen: reiskap eller innretning som er laga for bruk i kamp eller jakt, eller som er laga for å likne på slike gjenstandar.Skytevåpen: våpen eller andre innretningar som kan skyte ut, eller på annan måte sende ut prosjektil, gass, signallys, stråling, rakettar, eld eller liknande, samt våpen som kan skyte ammunisjon utan prosjektil. Skytevåpen som er deaktiverte etter [§ 27](lov/2018-04-20-7/§27), og gjenstandar som enkelt kan gjerast om til å skyte ut eller på annan måte sende ut prosjektil eller substansar som nemnt i første punktum, vert også rekna for skytevåpen.Våpendelar: gjenstandar som er laga for eller særskild tilpassa for bruk i skytevåpen.Ammunisjon:patroner eller andre gjenstandar som er laga for å verte skotne i skytevåpen,drivmiddel, tennmiddel og prosjektil til gjenstandar som er nemnde i bokstav a,handgranat, bomber, rakettar, miner eller liknande gjenstandar, som er laga for å detonere, deflagrere eller sende ut lys, gass, gift, røyk eller liknande.
+I denne lova meiner ein med:
+
+1. Våpen: reiskap eller innretning som er laga for bruk i kamp eller jakt, eller som er laga for å likne på slike gjenstandar.
+2. Skytevåpen: våpen eller andre innretningar som kan skyte ut, eller på annan måte sende ut prosjektil, gass, signallys, stråling, rakettar, eld eller liknande, samt våpen som kan skyte ammunisjon utan prosjektil. Skytevåpen som er deaktiverte etter [§ 27](lov/2018-04-20-7/§27), og gjenstandar som enkelt kan gjerast om til å skyte ut eller på annan måte sende ut prosjektil eller substansar som nemnt i første punktum, vert også rekna for skytevåpen.
+3. Våpendelar: gjenstandar som er laga for eller særskild tilpassa for bruk i skytevåpen.
+4. Ammunisjon:
+
+   1. patroner eller andre gjenstandar som er laga for å verte skotne i skytevåpen,
+   2. drivmiddel, tennmiddel og prosjektil til gjenstandar som er nemnde i bokstav a,
+   3. handgranat, bomber, rakettar, miner eller liknande gjenstandar, som er laga for å detonere, deflagrere eller sende ut lys, gass, gift, røyk eller liknande.
 
 ## Kapittel 2 Sakleg og stadleg verkeområde
 
@@ -52,7 +61,13 @@ Lova gjeld for Svalbard, Jan Mayen og i dei norske bilanda, jf. [lov 27. februar
 
 Den som vil erverve eller ha skytevåpen, må ha løyve frå politiet. Den som vil avhende skytevåpen, må trygge at den som ervervar skytevåpenet, har løyve frå politiet til å kunne erverve gjenstanden.
 
-Utanom dei tilfella som er nemnde i [§§ 10](lov/2018-04-20-7/§10), [12](lov/2018-04-20-7/§12) eller [13](lov/2018-04-20-7/§13), kan ikkje politiet gje løyve til å erverve, ha, tilverke, importere eller omsette følgjande skytevåpen:heilautomatiske skytevåpen,skytevåpen som er kamuflerte som annan gjenstand,halvautomatiske rifler som opphavleg er konstruerte for heilautomatisk funksjon eller for militæret eller politiet,skytevåpen som vanlegvis vert bruka som krigsvåpen,andre skytevåpen enn dei som er nemnde i nummer 1 til 4, som saknar ein lovleg bruk, eller som har særskilt farlege eigenskapar.
+Utanom dei tilfella som er nemnde i [§§ 10](lov/2018-04-20-7/§10), [12](lov/2018-04-20-7/§12) eller [13](lov/2018-04-20-7/§13), kan ikkje politiet gje løyve til å erverve, ha, tilverke, importere eller omsette følgjande skytevåpen:
+
+1. heilautomatiske skytevåpen,
+2. skytevåpen som er kamuflerte som annan gjenstand,
+3. halvautomatiske rifler som opphavleg er konstruerte for heilautomatisk funksjon eller for militæret eller politiet,
+4. skytevåpen som vanlegvis vert bruka som krigsvåpen,
+5. andre skytevåpen enn dei som er nemnde i nummer 1 til 4, som saknar ein lovleg bruk, eller som har særskilt farlege eigenskapar.
 
 Kongen gjev forskrift om kva skytevåpen som ikkje er tillatne etter andre ledd nr. 5, unnatak frå løyveplikta etter første ledd samt registreringsplikt for skytevåpen som er unnateke frå løyveplikta.
 
@@ -70,7 +85,11 @@ Den som vil erverve eller ha ammunisjon, må enten ha løyve til å ha og bruke 
 
 Den som vil avhende eller overlate ammunisjon, må tryggje at ervervar enten har løyve til å ha og bruke skytevåpen som ammunisjonen passar i, eller har særskilt løyve til erverv frå politiet. Første punktum gjeld ikkje for overlating til bruk i medhald av [§ 18](lov/2018-04-20-7/§18) fjerde ledd. Det kan berre avhendast eller overlatast ammunisjon i mengder som står i rimeleg forhold til det føremålet som grunngjev ervervet.
 
-Utanom dei tilfella som er nemnde i [§§ 10](lov/2018-04-20-7/§10) eller [13](lov/2018-04-20-7/§13), kan ikkje politiet gje løyve til å erverve, ha, tilverke, importere eller omsette følgjande ammunisjonstypar:panserbrytande, brannstiftande og eksplosiv ammunisjon,ammunisjon til pistol eller revolver med sentertenning som har prosjektil med ekspanderande effekt, med unnatak for ammunisjon som vert bruka til sportsskyting,andre ammunisjonstypar enn dei som er nemnde i nr. 1 og 2, når ammunisjonen enten saknar ein lovleg bruk eller gjev skytevåpen særskilt farlege eigenskapar.
+Utanom dei tilfella som er nemnde i [§§ 10](lov/2018-04-20-7/§10) eller [13](lov/2018-04-20-7/§13), kan ikkje politiet gje løyve til å erverve, ha, tilverke, importere eller omsette følgjande ammunisjonstypar:
+
+1. panserbrytande, brannstiftande og eksplosiv ammunisjon,
+2. ammunisjon til pistol eller revolver med sentertenning som har prosjektil med ekspanderande effekt, med unnatak for ammunisjon som vert bruka til sportsskyting,
+3. andre ammunisjonstypar enn dei som er nemnde i nr. 1 og 2, når ammunisjonen enten saknar ein lovleg bruk eller gjev skytevåpen særskilt farlege eigenskapar.
 
 ### § 8. Våpen som ikkje er skytevåpen
 
@@ -106,7 +125,12 @@ Politiet kan gje løyve etter første ledd til å erverve og ha rifler eller hag
 
 Eit løyve etter andre ledd kan på vilkår som er fastsette i medhald av fjerde ledd nr. 1, også omfatte halvautomatiske rifler som nemnt i [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 3 og nærare bestemte våpendelar som er forbodne i medhald av [§ 6](lov/2018-04-20-7/§6) tredje ledd.
 
-Kongen gjev forskrift om:krav til aktivitet og opplæring for erverv av løyvepliktige skytevåpen, våpendelar og ammunisjon etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7), medrekna særskilde krav for erverv av skytevåpen og våpendelar etter tredje ledd,talet på løyvepliktige skytevåpen som kan ervervast til sportsskyting,kva våpendelar som kan ervervast i medhald av tredje ledd,godkjenning av halvautomatiske rifler til sportsskyting, medrekna godkjenning av halvautomatiske rifler som nemnt i [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 3.
+Kongen gjev forskrift om:
+
+1. krav til aktivitet og opplæring for erverv av løyvepliktige skytevåpen, våpendelar og ammunisjon etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7), medrekna særskilde krav for erverv av skytevåpen og våpendelar etter tredje ledd,
+2. talet på løyvepliktige skytevåpen som kan ervervast til sportsskyting,
+3. kva våpendelar som kan ervervast i medhald av tredje ledd,
+4. godkjenning av halvautomatiske rifler til sportsskyting, medrekna godkjenning av halvautomatiske rifler som nemnt i [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 3.
 
 ### § 13. Erverv av skytevåpen, våpendelar og ammunisjon til samling
 
@@ -118,7 +142,13 @@ Politiet kan i samsvar med forskrift fastsett i medhald av femte ledd nr. 4 gje 
 
 Den som har erverva løyvepliktige gjenstandar som nemnde i [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7) etter reglane i denne paragrafen, kan ikkje bruke gjenstandane til andre føremål enn samling.
 
-Kongen gjev forskrift om:vilkår for å rekne samleområde som våpenhistorisk grunngjeve,krav til våpendugleik for erverv til samling,talet på løyvepliktige skytevåpen eller våpendelar etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) som kan ervervast til samling,erverv av løyvepliktig ammunisjon til samling, medrekna ammunisjon som nemnt i [§ 7](lov/2018-04-20-7/§7) tredje ledd,test- og demonstrasjonsskyting med løyvepliktige skytevåpen som er erverva til samling.
+Kongen gjev forskrift om:
+
+1. vilkår for å rekne samleområde som våpenhistorisk grunngjeve,
+2. krav til våpendugleik for erverv til samling,
+3. talet på løyvepliktige skytevåpen eller våpendelar etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) som kan ervervast til samling,
+4. erverv av løyvepliktig ammunisjon til samling, medrekna ammunisjon som nemnt i [§ 7](lov/2018-04-20-7/§7) tredje ledd,
+5. test- og demonstrasjonsskyting med løyvepliktige skytevåpen som er erverva til samling.
 
 > Endra ved lov [7 mai 2021 nr. 33](lov/2021-05-07-33) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415)).
 
@@ -174,7 +204,15 @@ Den som har løyvepliktige skytevåpen, våpendelar eller ammunisjon etter [§§
 
 Løyvepliktige skytevåpen, eller nærare bestemte delar til skytevåpenet, skal oppbevarast nedlåste i godkjent tryggingsskap eller i godkjent våpenrom. Ammunisjon skal oppbevarast nedlåst.
 
-Kongen gjev forskrift om:kva våpendelar som kan oppbevarast nedlåste i staden for komplette skytevåpen,krav til oppbevaring av ammunisjon,krav til godkjenning av tryggingsskap eller våpenrom,særskilde krav til oppbevaring for personar som har løyve til å ha eit nærare fastsett tal løyvepliktige skytevåpen,særskilde krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon for personar som driv næringsverksemd etter [§ 23](lov/2018-04-20-7/§23),særskilde krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon for andre juridiske personar enn næringsdrivande etter [§ 23](lov/2018-04-20-7/§23),oppbevaring av løyvepliktige skytevåpen, våpendelar og ammunisjon etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7) på annan stad enn i fast bustad.
+Kongen gjev forskrift om:
+
+1. kva våpendelar som kan oppbevarast nedlåste i staden for komplette skytevåpen,
+2. krav til oppbevaring av ammunisjon,
+3. krav til godkjenning av tryggingsskap eller våpenrom,
+4. særskilde krav til oppbevaring for personar som har løyve til å ha eit nærare fastsett tal løyvepliktige skytevåpen,
+5. særskilde krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon for personar som driv næringsverksemd etter [§ 23](lov/2018-04-20-7/§23),
+6. særskilde krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon for andre juridiske personar enn næringsdrivande etter [§ 23](lov/2018-04-20-7/§23),
+7. oppbevaring av løyvepliktige skytevåpen, våpendelar og ammunisjon etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7) på annan stad enn i fast bustad.
 
 > Endra ved lov [7 mai 2021 nr. 33](lov/2021-05-07-33) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415)).
 
@@ -188,7 +226,11 @@ Den som mellombels oppbevarer eller transporterer skytevåpen, våpendelar eller
 
 Den som skal føre løyvepliktige skytevåpen, våpendelar eller ammunisjon etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7) inn i eller gjennom norsk tollområde, må ha løyve frå politiet. Første punktum gjeld også for gjenstandar som er deaktiverte i samsvar med reglane etter [§ 27](lov/2018-04-20-7/§27). Politiet kan gje løyve etter første punktum når søkar kan dokumentere at innførselen oppfyller dei vilkåra som er fastsette i medhald av andre ledd.
 
-Kongen gjev forskrift om:vilkår for innførsel av skytevåpen, våpendelar eller ammunisjon i medhald av løyve etter [§ 23](lov/2018-04-20-7/§23),vilkår for innførsel av skytevåpen, våpendelar eller ammunisjon til eige bruk,mellombels innførsel av skytevåpen, våpendelar eller ammunisjon.
+Kongen gjev forskrift om:
+
+1. vilkår for innførsel av skytevåpen, våpendelar eller ammunisjon i medhald av løyve etter [§ 23](lov/2018-04-20-7/§23),
+2. vilkår for innførsel av skytevåpen, våpendelar eller ammunisjon til eige bruk,
+3. mellombels innførsel av skytevåpen, våpendelar eller ammunisjon.
 
 > Endra ved lov [7 mai 2021 nr. 33](lov/2021-05-07-33) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415)).
 
@@ -210,7 +252,10 @@ Det kan berre gjevast løyve etter første ledd til personar som oppfyller krava
 
 Gjeld søknaden om løyve etter første ledd ein juridisk person, må føretaket oppfylle krava til vandel etter [§ 17](lov/2018-04-20-7/§17). Dagleg leiar i organisasjonen, og andre som er ansvarlege for den daglege drifta, må i tillegg oppfylle krava til personlege eigenskapar etter [§ 16](lov/2018-04-20-7/§16) og krava til alder og fagkunnskap som vert gjevne i medhald av fjerde ledd.
 
-Kongen gjev forskrift om:krav til alder og fagkunnskap for å kunne få løyve etter første ledd,krav til opningstid, næringslokale, innreiing, utstyr, dokumentasjon, registrering og rapportering av drift i medhald av løyve etter første ledd.
+Kongen gjev forskrift om:
+
+1. krav til alder og fagkunnskap for å kunne få løyve etter første ledd,
+2. krav til opningstid, næringslokale, innreiing, utstyr, dokumentasjon, registrering og rapportering av drift i medhald av løyve etter første ledd.
 
 ### § 24. Overføring av løyve til å drive næringsverksemd med skytevåpen, våpendelar og ammunisjon til døds- eller konkursbu
 
@@ -246,7 +291,11 @@ Skytevåpen, våpendelar og ammunisjon kan destruerast ved å overlate gjenstand
 
 Skyttar- eller våpensamlarorganisasjonar må vere godkjente av politiet for at dokumentert medlemsskap skal kunne gje grunnlag for løyve til erverv av skytevåpen, våpendelar og ammunisjon etter [§ 12](lov/2018-04-20-7/§12).
 
-Politiet kan godkjenne skyttar- og våpensamlarorganisasjonar når dei:har eit føremål som har sakleg samanheng med skyteaktiviteten,organiserer faste skyte- eller samlaraktivitetar, oghar ein fast organisasjonsstruktur, medrekna eit sentralt medlemsregister.
+Politiet kan godkjenne skyttar- og våpensamlarorganisasjonar når dei:
+
+1. har eit føremål som har sakleg samanheng med skyteaktiviteten,
+2. organiserer faste skyte- eller samlaraktivitetar, og
+3. har ein fast organisasjonsstruktur, medrekna eit sentralt medlemsregister.
 
 Politiet kan etter søknad frå godkjente skyttarorganisasjonar godkjenne skyttarforbunda sine tekniske program i samsvar med krava som er fastsette i medhald av denne lova.
 
@@ -338,7 +387,42 @@ Kongen kan bestemme at det ikkje skal gjevast påtale for brot på kravet til l�
 
 ### § 41. Forskrifter
 
-Kongen kan gje forskrift om mellom anna:definisjon av våpen og gjenstandar som er nemnde i denne lova,lova sitt saklege verkeområde, medrekna reglar om når lova skal gjelde for ammunisjon som høyrer inn under Direktoratet for samfunnssikkerhet og beredskap,unnatak frå våpenlova for skytevåpen, våpendelar eller ammunisjon som skal brukast på boreplattformer, norske skip med vidare, jf. [§ 4](lov/2018-04-20-7/§4),krav til kontroll av ervervar sin identitet og våpenløyve ved distansehandel med skytevåpen, våpendeler og ammunisjon, jf. [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7),sakshandsamingsreglar for søknad om løyve etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7), medrekna utferding av våpenkort og EU sitt våpenpass, kor lenge eit løyve til erverv etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) gjeld, samt unnatak frå løyveplikt etter [§ 7](lov/2018-04-20-7/§7) første ledd,kva ammunisjon som ikkje er tillaten etter [§ 7](lov/2018-04-20-7/§7) tredje ledd nr. 3,kor lenge eit løyve for erverv av ammunisjon kan gjelde, jf. [§ 7](lov/2018-04-20-7/§7) første ledd andre punktum,kva våpen som ikkje er tillatne etter [§ 8](lov/2018-04-20-7/§8),kva endringar som er nemnde i [§ 9](lov/2018-04-20-7/§9) som krev løyve frå politiet,vilkår for fritak etter [§ 10](lov/2018-04-20-7/§10),kva som vert rekna for særskilt behov for erverv av meir enn åtte løyvepliktige skytevåpen til jakt, jf. [§ 11](lov/2018-04-20-7/§11) første ledd, samt vilkår for fritak etter [§ 11](lov/2018-04-20-7/§11) tredje ledd,vilkår for godkjenning av samleområde, jf. [§ 13](lov/2018-04-20-7/§13) første ledd, samt vilkår for erverv av skytevåpen eller våpendelar etter [§ 13](lov/2018-04-20-7/§13) andre ledd, medrekna krav til historisk eller våpenteknisk grunnlag,ervervsgrunnlag etter [§ 14](lov/2018-04-20-7/§14) samt krav til opplæring, kva våpentypar som kan ervervast, og det tal løyvepliktige skytevåpen eller våpendelar etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) som kan ervervast etter [§ 14](lov/2018-04-20-7/§14),vilkår for fritak frå alderskravet i [§ 15](lov/2018-04-20-7/§15) andre og tredje ledd og om aldersgrense for å kunne erverve og ha nærare bestemte våpen som ikkje vert rekna for skytevåpen etter [§ 2](lov/2018-04-20-7/§2),kravet til at søkar må vere skikka etter [§ 16](lov/2018-04-20-7/§16),erverv av skytevåpen, våpendelar eller ammunisjon til juridiske personar, medrekna krav til våpendugleik, jf. [§ 17](lov/2018-04-20-7/§17),kravet til vandel for juridiske personar, jf. [§ 17](lov/2018-04-20-7/§17),krav til overlating og lån av skytevåpen, våpendelar eller ammunisjon, jf. [§ 18](lov/2018-04-20-7/§18),krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon som ikkje er løyvepliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), jf. [§ 19](lov/2018-04-20-7/§19),krav til mellombels oppbevaring, transport og sending av skytevåpen, våpendelar eller ammunisjon, jf. [§ 20](lov/2018-04-20-7/§20),krav til merking og registrering ved mellombels innførsel av skytevåpen, våpendelar eller ammunisjon, jf. [§ 21](lov/2018-04-20-7/§21),løyveplikt for inn- eller utførsel av våpen, skytevåpen, våpendelar eller ammunisjon som ikkje er løyve- eller registreringspliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), jf. [§§ 21](lov/2018-04-20-7/§21) og [22](lov/2018-04-20-7/§22),sakshandsamingsreglar for søknad om løyve til inn- eller utførsel av våpen, skytevåpen, våpendelar eller ammunisjon, jf. [§ 21](lov/2018-04-20-7/§21) og 22,gjennomføring av [§ 23](lov/2018-04-20-7/§23), medrekna kravet til løyve for næringsverksemd med gjenstandar som ikkje er løyvepliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), fritak frå kravet til løyve for godkjente skyttarorganisasjonar sitt sal av ammunisjon, reglar for bytte av dagleg leiar, reglar for overlating av skytevåpen, våpendelar og ammunisjon mellom personar som har løyve etter [§ 23](lov/2018-04-20-7/§23), og sakshandsamingsreglar for søknad om løyve,merking etter [§ 26](lov/2018-04-20-7/§26),tekniske krav for deaktivering samt reglar for kontroll med og dokumentasjon for at skytevåpen er deaktiverte på lovleg måte, jf. [§ 27](lov/2018-04-20-7/§27),krav for godkjenning av skyttar- eller våpensamlarforeiningar samt vilkår for godkjenning av tekniske reglement og skyteprogram, jf. [§ 28](lov/2018-04-20-7/§28),politiet sin kontroll med tildelte løyve, medrekna krav til at sportsskyttarar med løyve etter [§ 12](lov/2018-04-20-7/§12) tredje ledd dokumenterer aktivitet i godkjent skyttarorganisasjon, samt vilkår for å krevje tilkomst til privat bustad, jf. [§ 30](lov/2018-04-20-7/§30),vilkår for tilbakekall av løyve etter [§§ 31](lov/2018-04-20-7/§31) til [33](lov/2018-04-20-7/§33) og pålegg om overlating av skytevåpen etter [§§ 31](lov/2018-04-20-7/§31) og [32](lov/2018-04-20-7/§32),gjennomføring av [§ 36](lov/2018-04-20-7/§36), medrekna reglar om kven som er handsamingsansvarleg, kva for opplysingskategoriar som kan registrerast, kven som har tilgang på opplysingane, informasjonstryggleik og internkontroll, utlevering av opplysingar og klagehandsaming,fastsetting av gebyr, jf. [§ 37](lov/2018-04-20-7/§37),forholdet til [forvaltningsloven](lov/1967-02-10), medrekna sakshandsamingsreglar, reglar knytte til intervju og unnatak frå teieplikta, og bruk av automatiserte avgjerder, jf. [§ 38 første](lov/2018-04-20-7/§38/ledd/1) og [andre ledd](lov/2018-04-20-7/§38/ledd/2),våpenamnesti, jf. [§ 40](lov/2018-04-20-7/§40),overgangsreglar etter [§ 43](lov/2018-04-20-7/§43), medrekna krav ved avhending av skytevåpen som er lovleg deaktiverte før ikraftsetjing av lova her, og reglar for gjennomføring av forboda mot skytevåpen, våpendelar eller ammunisjon som vert forbodne i medhald av [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 5, [§ 6](lov/2018-04-20-7/§6) tredje ledd og [§ 41](lov/2018-04-20-7/§41) nr. 6.
+Kongen kan gje forskrift om mellom anna:
+
+1. definisjon av våpen og gjenstandar som er nemnde i denne lova,
+2. lova sitt saklege verkeområde, medrekna reglar om når lova skal gjelde for ammunisjon som høyrer inn under Direktoratet for samfunnssikkerhet og beredskap,
+3. unnatak frå våpenlova for skytevåpen, våpendelar eller ammunisjon som skal brukast på boreplattformer, norske skip med vidare, jf. [§ 4](lov/2018-04-20-7/§4),
+4. krav til kontroll av ervervar sin identitet og våpenløyve ved distansehandel med skytevåpen, våpendeler og ammunisjon, jf. [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7),
+5. sakshandsamingsreglar for søknad om løyve etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) og [7](lov/2018-04-20-7/§7), medrekna utferding av våpenkort og EU sitt våpenpass, kor lenge eit løyve til erverv etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) gjeld, samt unnatak frå løyveplikt etter [§ 7](lov/2018-04-20-7/§7) første ledd,
+6. kva ammunisjon som ikkje er tillaten etter [§ 7](lov/2018-04-20-7/§7) tredje ledd nr. 3,
+7. kor lenge eit løyve for erverv av ammunisjon kan gjelde, jf. [§ 7](lov/2018-04-20-7/§7) første ledd andre punktum,
+8. kva våpen som ikkje er tillatne etter [§ 8](lov/2018-04-20-7/§8),
+9. kva endringar som er nemnde i [§ 9](lov/2018-04-20-7/§9) som krev løyve frå politiet,
+10. vilkår for fritak etter [§ 10](lov/2018-04-20-7/§10),
+11. kva som vert rekna for særskilt behov for erverv av meir enn åtte løyvepliktige skytevåpen til jakt, jf. [§ 11](lov/2018-04-20-7/§11) første ledd, samt vilkår for fritak etter [§ 11](lov/2018-04-20-7/§11) tredje ledd,
+12. vilkår for godkjenning av samleområde, jf. [§ 13](lov/2018-04-20-7/§13) første ledd, samt vilkår for erverv av skytevåpen eller våpendelar etter [§ 13](lov/2018-04-20-7/§13) andre ledd, medrekna krav til historisk eller våpenteknisk grunnlag,
+13. ervervsgrunnlag etter [§ 14](lov/2018-04-20-7/§14) samt krav til opplæring, kva våpentypar som kan ervervast, og det tal løyvepliktige skytevåpen eller våpendelar etter [§§ 5](lov/2018-04-20-7/§5) og [6](lov/2018-04-20-7/§6) som kan ervervast etter [§ 14](lov/2018-04-20-7/§14),
+14. vilkår for fritak frå alderskravet i [§ 15](lov/2018-04-20-7/§15) andre og tredje ledd og om aldersgrense for å kunne erverve og ha nærare bestemte våpen som ikkje vert rekna for skytevåpen etter [§ 2](lov/2018-04-20-7/§2),
+15. kravet til at søkar må vere skikka etter [§ 16](lov/2018-04-20-7/§16),
+16. erverv av skytevåpen, våpendelar eller ammunisjon til juridiske personar, medrekna krav til våpendugleik, jf. [§ 17](lov/2018-04-20-7/§17),
+17. kravet til vandel for juridiske personar, jf. [§ 17](lov/2018-04-20-7/§17),
+18. krav til overlating og lån av skytevåpen, våpendelar eller ammunisjon, jf. [§ 18](lov/2018-04-20-7/§18),
+19. krav til oppbevaring av skytevåpen, våpendelar eller ammunisjon som ikkje er løyvepliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), jf. [§ 19](lov/2018-04-20-7/§19),
+20. krav til mellombels oppbevaring, transport og sending av skytevåpen, våpendelar eller ammunisjon, jf. [§ 20](lov/2018-04-20-7/§20),
+21. krav til merking og registrering ved mellombels innførsel av skytevåpen, våpendelar eller ammunisjon, jf. [§ 21](lov/2018-04-20-7/§21),
+22. løyveplikt for inn- eller utførsel av våpen, skytevåpen, våpendelar eller ammunisjon som ikkje er løyve- eller registreringspliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), jf. [§§ 21](lov/2018-04-20-7/§21) og [22](lov/2018-04-20-7/§22),
+23. sakshandsamingsreglar for søknad om løyve til inn- eller utførsel av våpen, skytevåpen, våpendelar eller ammunisjon, jf. [§ 21](lov/2018-04-20-7/§21) og 22,
+24. gjennomføring av [§ 23](lov/2018-04-20-7/§23), medrekna kravet til løyve for næringsverksemd med gjenstandar som ikkje er løyvepliktige etter [§§ 5](lov/2018-04-20-7/§5), [6](lov/2018-04-20-7/§6) eller [7](lov/2018-04-20-7/§7), fritak frå kravet til løyve for godkjente skyttarorganisasjonar sitt sal av ammunisjon, reglar for bytte av dagleg leiar, reglar for overlating av skytevåpen, våpendelar og ammunisjon mellom personar som har løyve etter [§ 23](lov/2018-04-20-7/§23), og sakshandsamingsreglar for søknad om løyve,
+25. merking etter [§ 26](lov/2018-04-20-7/§26),
+26. tekniske krav for deaktivering samt reglar for kontroll med og dokumentasjon for at skytevåpen er deaktiverte på lovleg måte, jf. [§ 27](lov/2018-04-20-7/§27),
+27. krav for godkjenning av skyttar- eller våpensamlarforeiningar samt vilkår for godkjenning av tekniske reglement og skyteprogram, jf. [§ 28](lov/2018-04-20-7/§28),
+28. politiet sin kontroll med tildelte løyve, medrekna krav til at sportsskyttarar med løyve etter [§ 12](lov/2018-04-20-7/§12) tredje ledd dokumenterer aktivitet i godkjent skyttarorganisasjon, samt vilkår for å krevje tilkomst til privat bustad, jf. [§ 30](lov/2018-04-20-7/§30),
+29. vilkår for tilbakekall av løyve etter [§§ 31](lov/2018-04-20-7/§31) til [33](lov/2018-04-20-7/§33) og pålegg om overlating av skytevåpen etter [§§ 31](lov/2018-04-20-7/§31) og [32](lov/2018-04-20-7/§32),
+30. gjennomføring av [§ 36](lov/2018-04-20-7/§36), medrekna reglar om kven som er handsamingsansvarleg, kva for opplysingskategoriar som kan registrerast, kven som har tilgang på opplysingane, informasjonstryggleik og internkontroll, utlevering av opplysingar og klagehandsaming,
+31. fastsetting av gebyr, jf. [§ 37](lov/2018-04-20-7/§37),
+32. forholdet til [forvaltningsloven](lov/1967-02-10), medrekna sakshandsamingsreglar, reglar knytte til intervju og unnatak frå teieplikta, og bruk av automatiserte avgjerder, jf. [§ 38 første](lov/2018-04-20-7/§38/ledd/1) og [andre ledd](lov/2018-04-20-7/§38/ledd/2),
+33. våpenamnesti, jf. [§ 40](lov/2018-04-20-7/§40),
+34. overgangsreglar etter [§ 43](lov/2018-04-20-7/§43), medrekna krav ved avhending av skytevåpen som er lovleg deaktiverte før ikraftsetjing av lova her, og reglar for gjennomføring av forboda mot skytevåpen, våpendelar eller ammunisjon som vert forbodne i medhald av [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 5, [§ 6](lov/2018-04-20-7/§6) tredje ledd og [§ 41](lov/2018-04-20-7/§41) nr. 6.
 
 > Endra ved lover [7 mai 2021 nr. 33](lov/2021-05-07-33) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415)), [20 juni 2023 nr. 79](lov/2023-06-20-79) (i kraft 26 jan 2024 iflg. [res. 26 jan 2024 nr. 121](forskrift/2024-01-26-121)), [13 des 2024 nr. 79](lov/2024-12-13-79) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3096](forskrift/2024-12-13-3096)).
 

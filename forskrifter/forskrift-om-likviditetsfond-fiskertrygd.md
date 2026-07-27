@@ -60,7 +60,16 @@ Fondet forvaltes og plasseres under hensyn til sikkerhet, avkastning og likvidit
 
 ### § 6
 
-Fondets midler kan plasseres i:stat- og statsgaranterte obligasjoner og sertifikater og kontoutlån til statskassen,obligasjoner og sertifikater utstedt eller garantert av kommuner og/eller fylkeskommuner,obligasjoner og sertifikater utstedt av eller garantert av banker,obligasjoner og sertifikater utstedt av andre finansinstitusjoner og kredittforeninger,innskudd i bank,andre verdipapirer som etter sin art og den sikkerhet de byr, kan stilles i klasse med de foran nevnte,obligasjoner og sertifikater utstedt av andre institusjoner enn nevnt ovenfor, og andre verdipapirfond som ikke omfattes av bokstav h, ogbørsnoterte aksjer, selskapsandeler, ansvarlige lån, konvertible obligasjoner og andeler i verdipapirfonds som bare investerer i aksjer eller andre verdipapirer som nevnt i denne bokstaven.
+Fondets midler kan plasseres i:
+
+1. stat- og statsgaranterte obligasjoner og sertifikater og kontoutlån til statskassen,
+2. obligasjoner og sertifikater utstedt eller garantert av kommuner og/eller fylkeskommuner,
+3. obligasjoner og sertifikater utstedt av eller garantert av banker,
+4. obligasjoner og sertifikater utstedt av andre finansinstitusjoner og kredittforeninger,
+5. innskudd i bank,
+6. andre verdipapirer som etter sin art og den sikkerhet de byr, kan stilles i klasse med de foran nevnte,
+7. obligasjoner og sertifikater utstedt av andre institusjoner enn nevnt ovenfor, og andre verdipapirfond som ikke omfattes av bokstav h, og
+8. børsnoterte aksjer, selskapsandeler, ansvarlige lån, konvertible obligasjoner og andeler i verdipapirfonds som bare investerer i aksjer eller andre verdipapirer som nevnt i denne bokstaven.
 
 > Endret ved [forskrift 22 mars 2001 nr. 379](forskrift/2001-03-22-379).
 

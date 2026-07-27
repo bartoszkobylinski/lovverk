@@ -15,7 +15,7 @@ xml_hash: "8b9e5618fbee4bd98d8f1ed495844e49581be287dbbb796fff9f1d2cd967a9b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Dersom Stortinget vedtar at det skal svares dokumentavgift til statskassen, gjel
 
 ### § 2
 
-Departementet kan gi forskrifter om:hvem som er ansvarlig for at avgift blir svart,beregning og oppkreving av avgift, herunder avrunding av avgiftsgrunnlag og avgiftsbeløp,kontrollen med at pliktig avgift blir svart,plikt for avgiftspliktige til å føre regnskaper og til å gi kontrollmyndighetene opplysninger som er nødvendig for avgiftsfastsettelsen,betaling av renter av avgift som blir erlagt for sent og rentegodtgjørelse ved tilbakebetaling av avgift,innbetalingsordningen og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger.
+Departementet kan gi forskrifter om:
+
+1. hvem som er ansvarlig for at avgift blir svart,
+2. beregning og oppkreving av avgift, herunder avrunding av avgiftsgrunnlag og avgiftsbeløp,
+3. kontrollen med at pliktig avgift blir svart,
+4. plikt for avgiftspliktige til å føre regnskaper og til å gi kontrollmyndighetene opplysninger som er nødvendig for avgiftsfastsettelsen,
+5. betaling av renter av avgift som blir erlagt for sent og rentegodtgjørelse ved tilbakebetaling av avgift,
+6. innbetalingsordningen og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger.
 
 > Endret ved [lover 10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 11 apr 2005 iflg. [res. 1 apr 2005 nr. 272](forskrift/2005-04-01-272)), [24 juni 2011 nr. 21](lov/2011-06-24-21).
 
@@ -88,7 +95,10 @@ Er eiendoms- eller bruksrett overtatt med hjemmel i lov til åsetespris, gjelder
 
 ### § 8
 
-Fritatt for avgift er:dokument som overfører hjemmel som eier eller bruker til fast eiendom til ektefelle ved den annen ektefelles død eller ved skifte av felleseie i forbindelse med separasjon eller skilsmisse,dokument som overfører hjemmel som eier til fast eiendom fra en ektefelles konkursbo til den annen ektefelle.
+Fritatt for avgift er:
+
+1. dokument som overfører hjemmel som eier eller bruker til fast eiendom til ektefelle ved den annen ektefelles død eller ved skifte av felleseie i forbindelse med separasjon eller skilsmisse,
+2. dokument som overfører hjemmel som eier til fast eiendom fra en ektefelles konkursbo til den annen ektefelle.
 
 Første ledd bokstav a gjelder tilsvarende ved overføring av felles bolig mellom samboere ved samlivsbrudd. Med samboere menes i denne lov to personer som har levd sammen i et ekteskapslignende forhold, og hatt felles folkeregistrert adresse i minst to år forut for samlivsbruddet, eller venter, har eller har hatt felles barn. Dersom opphøret av samlivet skjer som følge av den ene partens død, er det tilstrekkelig at samboerne på dødsfallstidspunktet var folkeregistrert på samme adresse.
 
@@ -98,7 +108,10 @@ Første ledd bokstav a gjelder tilsvarende ved overføring av felles bolig mello
 
 ### § 9
 
-Med aksje forstås i denne lov:en andel av eierkapital i aksjeselskap eller allmennaksjeselskap ogtegningsrettsbevis, tildelingsbevis, interimskvittering eller annet dokument som gir rett til verdipapir som nevnt i punkt a.
+Med aksje forstås i denne lov:
+
+1. en andel av eierkapital i aksjeselskap eller allmennaksjeselskap og
+2. tegningsrettsbevis, tildelingsbevis, interimskvittering eller annet dokument som gir rett til verdipapir som nevnt i punkt a.
 
 > Endret ved [lover 21 juni 1985 nr. 83](lov/1985-06-21-83), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)).
 
@@ -114,7 +127,12 @@ Finner kontrollmyndigheten at den oppgitte verdi åpenbart er lavere enn omsetni
 
 ### § 12
 
-Fritatt for avgift er sluttsedler ved overføring av aksjer:mellom fonds- og aksjemeglere pr. kommisjon,mellom norske og utenlandske fonds- og aksjemeglere for omsetning i utlandet,i boligselskaper hvor aksjene gir rett til leie av bolig ogtil ektefelle ved den annen ektefelles død eller ved skifte av felleseie i forbindelse med separasjon eller skilsmisse.
+Fritatt for avgift er sluttsedler ved overføring av aksjer:
+
+1. mellom fonds- og aksjemeglere pr. kommisjon,
+2. mellom norske og utenlandske fonds- og aksjemeglere for omsetning i utlandet,
+3. i boligselskaper hvor aksjene gir rett til leie av bolig og
+4. til ektefelle ved den annen ektefelles død eller ved skifte av felleseie i forbindelse med separasjon eller skilsmisse.
 
 ## Kap. IV. Firmameldinger.
 

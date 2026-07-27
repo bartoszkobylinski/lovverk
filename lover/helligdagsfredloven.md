@@ -30,7 +30,19 @@ For å verne om det gudstjenestelige liv og den alminnelige fred på helligdager
 
 ## § 2. Helligdager
 
-Følgende dager er helligdag:vanlige søndager,nyttårsdag (1. januar),skjærtorsdag (siste torsdag før første påskedag),langfredag (siste fredag før første påskedag),første påskedag (første søndag etter første fullmåne som inntreffer på eller etter 21. mars),annen påskedag (første mandag etter første påskedag),Kristi Himmelfartsdag (sjette torsdag etter første påskedag),første pinsedag (sjuende søndag etter første påskedag),annen pinsedag (første mandag etter første pinsedag),første juledag (25. desember),annen juledag (26. desember).
+Følgende dager er helligdag:
+
+1. vanlige søndager,
+2. nyttårsdag (1. januar),
+3. skjærtorsdag (siste torsdag før første påskedag),
+4. langfredag (siste fredag før første påskedag),
+5. første påskedag (første søndag etter første fullmåne som inntreffer på eller etter 21. mars),
+6. annen påskedag (første mandag etter første påskedag),
+7. Kristi Himmelfartsdag (sjette torsdag etter første påskedag),
+8. første pinsedag (sjuende søndag etter første påskedag),
+9. annen pinsedag (første mandag etter første pinsedag),
+10. første juledag (25. desember),
+11. annen juledag (26. desember).
 
 > Endret ved [lover 14 mars 2003 nr. 16](lov/2003-03-14-16) (ikr. 1 apr 2003 iflg. [res. 14 mars 2003 nr. 300](forskrift/2003-03-14-300)), [26 aug 2011 nr. 40](lov/2011-08-26-40) (ikr. 1 jan 2012 iflg. [res. 26 aug 2011 nr. 866](forskrift/2011-08-26-866)).
 
@@ -46,7 +58,12 @@ Ved kirke eller gudstjenestested er det mens helligdagsfreden varer ikke tillatt
 
 På helligdag mellom kl 06 og kl 13 er det ikke tillatt å arrangere eller holde offentlige tilstelninger eller forestillinger, sportskonkurranser og sportsstevner.
 
-Forbudet i første ledd skal ikke være til hinder for:Arrangementer i regi av tros- og livssynssamfunn.Utstillinger av kunstnerisk, vitenskapelig eller opplysende art.Sportsarrangementer som ikke er beregnet på å samle tilskuere eller som er så tidkrevende at det er nødvendig å starte før kl 13. Regelen her gjelder ikke motorrace på bane, flygestevner, travløp, galoppløp, veddeløp og profesjonelle sportskonkurranser og sportsstevner.Arrangementer på 1. og 17. mai.
+Forbudet i første ledd skal ikke være til hinder for:
+
+1. Arrangementer i regi av tros- og livssynssamfunn.
+2. Utstillinger av kunstnerisk, vitenskapelig eller opplysende art.
+3. Sportsarrangementer som ikke er beregnet på å samle tilskuere eller som er så tidkrevende at det er nødvendig å starte før kl 13. Regelen her gjelder ikke motorrace på bane, flygestevner, travløp, galoppløp, veddeløp og profesjonelle sportskonkurranser og sportsstevner.
+4. Arrangementer på 1. og 17. mai.
 
 Når særlige grunner foreligger, kan politimesteren for den enkelte anledning tillate arrangement som ellers ville være forbudt etter denne paragraf. Politimesterens vedtak kan påklages til departementet.
 
@@ -56,7 +73,20 @@ Når særlige grunner foreligger, kan politimesteren for den enkelte anledning t
 
 På helligdager skal faste utsalgssteder som selger varer til forbrukere, holde stengt. På jul-, påske- og pinseaften skal de stenge kl. 16.
 
-Dette gjelder ikke forutsalgssteder som i det vesentlige selger kiosk- eller dagligvarer, og som har en samlet salgsflate som ikke overstiger 100 kvmbensinstasjoner med en samlet salgsflate som ikke overstiger 150 kvmutsalgssteder på campingplasser i campingsesongenutsalgssteder på områder som etter vedtak av statsforvalteren regnes som typiske turiststeder, se sjette leddsalg fra serveringsstedsalg ved auksjonsalg av utstilte gjenstander fra kunstgallerier og lignendesalg fra tidsbegrensede utstillinger og varemesser som finner sted i lokaler som normalt ikke blir brukt til salgsvirksomhetutsalgssteder som i det vesentlige selger blomster, planter og andre hageartiklerutsalgssteder som i det vesentlige selger lokale husflids- og suvenirvarerutsalgssteder i bygninger for inn- og utsjekking av passasjerer på lufthavner som har tillatelse til avgiftsfritt salgsalg av varer i tilknytning til produksjonssteder mv. som er tilrettelagt for turisme.
+Dette gjelder ikke for
+
+1. utsalgssteder som i det vesentlige selger kiosk- eller dagligvarer, og som har en samlet salgsflate som ikke overstiger 100 kvm
+2. bensinstasjoner med en samlet salgsflate som ikke overstiger 150 kvm
+3. utsalgssteder på campingplasser i campingsesongen
+4. utsalgssteder på områder som etter vedtak av statsforvalteren regnes som typiske turiststeder, se sjette ledd
+5. salg fra serveringssted
+6. salg ved auksjon
+7. salg av utstilte gjenstander fra kunstgallerier og lignende
+8. salg fra tidsbegrensede utstillinger og varemesser som finner sted i lokaler som normalt ikke blir brukt til salgsvirksomhet
+9. utsalgssteder som i det vesentlige selger blomster, planter og andre hageartikler
+10. utsalgssteder som i det vesentlige selger lokale husflids- og suvenirvarer
+11. utsalgssteder i bygninger for inn- og utsjekking av passasjerer på lufthavner som har tillatelse til avgiftsfritt salg
+12. salg av varer i tilknytning til produksjonssteder mv. som er tilrettelagt for turisme.
 
 Faste utsalgssteder kan holde åpent de tre siste søndagene før julaften mellom kl. 14 og kl. 20.
 

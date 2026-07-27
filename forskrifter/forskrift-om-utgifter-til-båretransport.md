@@ -34,7 +34,11 @@ Transport av båre i forbindelse med obduksjon som er krevet av politi- og lensm
 
 ## § 3.
 
-20 kilometer-grensen i lovens § 7-3 andre ledd kan fravikes nårnærmeste begravelsesbyrå ligger slik til at bårebilen må tilbakelegge en avstand som overstiger 20 kilometer for å nå fram til dødsstedet, ellerdet er nødvendig å benytte ferge og ventetiden av den grunn blir på minst 2 timer, ellerferge må chartres fordi det ikke er mulig å benytte rutegående ferge.
+20 kilometer-grensen i lovens § 7-3 andre ledd kan fravikes når
+
+1. nærmeste begravelsesbyrå ligger slik til at bårebilen må tilbakelegge en avstand som overstiger 20 kilometer for å nå fram til dødsstedet, eller
+2. det er nødvendig å benytte ferge og ventetiden av den grunn blir på minst 2 timer, eller
+3. ferge må chartres fordi det ikke er mulig å benytte rutegående ferge.
 
 ## § 4.
 

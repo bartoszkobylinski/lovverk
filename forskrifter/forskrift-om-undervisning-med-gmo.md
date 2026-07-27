@@ -15,7 +15,7 @@ xml_hash: "ce538616f3a69702f6de0a20eaa005a380651c21f5d833c719602a6eb4faf4dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,20 @@ Den ansvarlige lærer skal føre protokoll over den virksomhet som skal utføres
 
 ### § 5. Sikkerhetstiltak
 
-Ved laboratorieøvelser som faller inn under denne forskrift gjelder følgende inneslutningstiltak og prinsipper for god sikkerhet og hygiene på arbeidsplassen;alt avfall som inneholder genmodifiserte organismer skal inaktiveres ved autoklavering, forbrenning eller andre anerkjente metoder før det kastes, for å sikre at levedyktige organismer ikke slipper ut i miljøet,arbeidsplassen og miljøet skal eksponeres for GMM på et så lavt nivå som mulig. Øvre grense for kulturvolum i en enkeltbeholder som inneholder genmodifiserte mikroorganismer er 10 liter,det skal anvendes tekniske kontrolltiltak ved kilden. Disse tiltakene skal utfylles med hensiktsmessig vernetøy og personlig verneutstyr om nødvendig. Det skal som minimum anvendes laboratoriefrakk,regelmessig prøve og vedlikeholde kontrolltiltak og kontrollutstyr på hensiktsmessig måte,gi personalet hensiktsmessig opplæring,det skal være håndvask i laboratoriet/undervisningsrommet,det skal forbys spising, drikking, røyking, bruk av kosmetikk eller oppbevaring av mat for konsum i arbeidsområdet,det skal forbys pipettering med munnen,det skal være effektive desinfeksjonsmidler og særskilte desinfiseringsprosedyrer tilgjengelig i tilfelle spredning av GMM,det skal sørges for sikker oppbevaring av kontaminert laboratorieutstyr og laboratoriematerialer,arbeidsunderlaget skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lett å rengjøre,det skal være etablert prosedyrer for håndtering av uhell som rammer enkeltpersoner og uhell der større arealer blir kontaminert.
+Ved laboratorieøvelser som faller inn under denne forskrift gjelder følgende inneslutningstiltak og prinsipper for god sikkerhet og hygiene på arbeidsplassen;
+
+1. alt avfall som inneholder genmodifiserte organismer skal inaktiveres ved autoklavering, forbrenning eller andre anerkjente metoder før det kastes, for å sikre at levedyktige organismer ikke slipper ut i miljøet,
+2. arbeidsplassen og miljøet skal eksponeres for GMM på et så lavt nivå som mulig. Øvre grense for kulturvolum i en enkeltbeholder som inneholder genmodifiserte mikroorganismer er 10 liter,
+3. det skal anvendes tekniske kontrolltiltak ved kilden. Disse tiltakene skal utfylles med hensiktsmessig vernetøy og personlig verneutstyr om nødvendig. Det skal som minimum anvendes laboratoriefrakk,
+4. regelmessig prøve og vedlikeholde kontrolltiltak og kontrollutstyr på hensiktsmessig måte,
+5. gi personalet hensiktsmessig opplæring,
+6. det skal være håndvask i laboratoriet/undervisningsrommet,
+7. det skal forbys spising, drikking, røyking, bruk av kosmetikk eller oppbevaring av mat for konsum i arbeidsområdet,
+8. det skal forbys pipettering med munnen,
+9. det skal være effektive desinfeksjonsmidler og særskilte desinfiseringsprosedyrer tilgjengelig i tilfelle spredning av GMM,
+10. det skal sørges for sikker oppbevaring av kontaminert laboratorieutstyr og laboratoriematerialer,
+11. arbeidsunderlaget skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lett å rengjøre,
+12. det skal være etablert prosedyrer for håndtering av uhell som rammer enkeltpersoner og uhell der større arealer blir kontaminert.
 
 ### § 6. Annen undervisningsvirksomhet
 
@@ -60,7 +73,12 @@ Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves [forskrif
 
 De fire forsøkene som er beskrevet nedenfor med genmodifiserte planteceller/-vev dyrket in vitro, eller med de genmodifiserte bakterier og gjær som er oppført i listen nedenfor med tilhørende plasmider, som utføres som et ledd i undervisningen, skal ikke godkjennes og det kreves ingen laboratoriegodkjenning. Det skal imidlertid sendes en melding jf. [§ 2](forskrift/2001-12-21-1601/§2), og vedlegg II, og det forutsetter at sikkerhetstiltakene oppført i [§ 5](forskrift/2001-12-21-1601/§5) blir fulgt opp. Ønsker en i undervisningen å ta i bruk forsøk utover disse, skal de meldes/godkjennes og utføres i et godkjent laboratorium jf. [§ 6](forskrift/2001-12-21-1601/§6).
 
-DNA fragmenter/gener som skal limes inn i vektor for transformering må være velkarakterisert, uten skadelige sekvenser og stamme fra planter, eller fra virus, bakterier eller gjær som ikke forårsaker sykdom hos mennesker, dyr eller planter. Vektor og geninnlegget må være av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter, eller som sannsynligvis vil ha skadelige virkninger for miljøet.Dyrking av genmodifiserte virus, bakterier og gjærTransformasjon av bakterier og gjærTransformasjon av planteceller/-vev, hvor materialet dyrkes in vitroPlasmid isolering, for restriksjonsanalyse, elektroforese etc.
+DNA fragmenter/gener som skal limes inn i vektor for transformering må være velkarakterisert, uten skadelige sekvenser og stamme fra planter, eller fra virus, bakterier eller gjær som ikke forårsaker sykdom hos mennesker, dyr eller planter. Vektor og geninnlegget må være av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter, eller som sannsynligvis vil ha skadelige virkninger for miljøet.
+
+1. Dyrking av genmodifiserte virus, bakterier og gjær
+2. Transformasjon av bakterier og gjær
+3. Transformasjon av planteceller/-vev, hvor materialet dyrkes in vitro
+4. Plasmid isolering, for restriksjonsanalyse, elektroforese etc.
 
 Alt arbeid med DNA utenfor cellen og isolering av DNA fra organismer som på forhånd ikke er genmodifisert, omfattes ikke av genteknologiloven. Det samme vil gjelde dyrking av slike organismer.
 
@@ -70,7 +88,10 @@ E. coli K-12-stammer som kan anvendes:
 
 - DH5α, HB101, JM83, JM101, JM105, JM107, JM109, MC1000
 
-Gjærstammer som kan anvendes:S.cerevisiae M1-2BS.cerevisiae TD28
+Gjærstammer som kan anvendes:
+
+- S.cerevisiae M1-2B
+- S.cerevisiae TD28
 
 Plasmider til transformasjon av bakterier:
 

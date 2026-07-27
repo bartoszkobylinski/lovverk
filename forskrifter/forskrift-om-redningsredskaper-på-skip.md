@@ -15,7 +15,7 @@ xml_hash: "4bfcfdf8f5ddada732aa899bdaca3a63e825b84cc230b993ff3ee01440b73620"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller merskip med passasjersertifikatskip med sikkerhetssertifikat for passasjerskip i utenriksfartlektere som på grunn av sin operasjon har personell om bord utover operasjoner knyttet til fortøyning eller klargjøring til slep.
+Forskriften gjelder for norske
+
+1. lasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller mer
+2. skip med passasjersertifikat
+3. skip med sikkerhetssertifikat for passasjerskip i utenriksfart
+4. lektere som på grunn av sin operasjon har personell om bord utover operasjoner knyttet til fortøyning eller klargjøring til slep.
 
 > Endret ved [forskrifter 14 okt 2016 nr. 1211](forskrift/2016-10-14-1211) (i kraft 17 okt 2016), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
 
@@ -54,7 +59,13 @@ For passasjerskip i innenriksfart sertifisert for 36 eller færre passasjerer og
 
 ## § 5. Redningsredskaper på skip og åpne båter sertifisert for 12 eller færre passasjerer
 
-Skip med passasjersertifikat for 12 eller færre passasjerer skal i stedet for å oppfylle kravene til antall redningsredskaper i SOLAS kapittel III, minst ha om bord følgende antall redningsredskaper:redningsflåte med kapasitet til alle om bordtre fallskjermlys (nødraketter)redningsvester, termiske redningsvester eller termiske drakter i kombinasjon med redningsvest til alle om borden livbøye med lys og flytende redningslineen innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet
+Skip med passasjersertifikat for 12 eller færre passasjerer skal i stedet for å oppfylle kravene til antall redningsredskaper i SOLAS kapittel III, minst ha om bord følgende antall redningsredskaper:
+
+1. redningsflåte med kapasitet til alle om bord
+2. tre fallskjermlys (nødraketter)
+3. redningsvester, termiske redningsvester eller termiske drakter i kombinasjon med redningsvest til alle om bord
+4. en livbøye med lys og flytende redningsline
+5. en innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet
 
 Åpne båter med passasjersertifikat for 12 eller færre passasjerer som går i fart på innsjøer og elver skal føre redningsredskaper nevnt i første ledd bokstav c, d og e.
 
@@ -132,7 +143,12 @@ På lasteskip og passasjerskip sertifisert for fartsområde 3 og mindre, kan MOB
 
 På passasjerskip som har krav om MOB-båt, skal denne være utstyrt med redningsgrind for ombordtaking av personer fra sjøen.
 
-Skip som ikke har krav om å føre MOB-båt skal gjennomføre en risikovurdering som demonstrerer fartøyets evne til å håndtere nødsituasjoner. Slike skip skalvære utstyrt med innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannetha arrangement som gjør det mulig å kunne observere fra broen ved styreposisjon at hjelpeløs person tas om bordha manøvreringsegenskaper til å gå nær opp til og ta om bord personer på en sikker måte fra sjøen under alle forhold ogha en løfteinnretning som plasseres lett tilgjengelig, er klar for øyeblikkelig bruk og er dimensjonert for en statisk belastning på minimum 200 kg hvis fribordet er over 1 meter.
+Skip som ikke har krav om å føre MOB-båt skal gjennomføre en risikovurdering som demonstrerer fartøyets evne til å håndtere nødsituasjoner. Slike skip skal
+
+1. være utstyrt med innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet
+2. ha arrangement som gjør det mulig å kunne observere fra broen ved styreposisjon at hjelpeløs person tas om bord
+3. ha manøvreringsegenskaper til å gå nær opp til og ta om bord personer på en sikker måte fra sjøen under alle forhold og
+4. ha en løfteinnretning som plasseres lett tilgjengelig, er klar for øyeblikkelig bruk og er dimensjonert for en statisk belastning på minimum 200 kg hvis fribordet er over 1 meter.
 
 Sjøfartsdirektoratet kan unnta et passasjerskip med lengde (L) mindre enn 30 meter med fartsområde 2 eller mindre fra kravet om MOB-båt når kravene etter femte ledd er oppfylt.
 
@@ -184,7 +200,10 @@ Sjøfartsdirektoratet kan kreve at redningsredskaper skiftes når direktoratet e
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det dokumenteres at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta en lekter, et skip i innenriksfart eller et lasteskip med bruttotonnasje under 500 i utenriksfart fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta en lekter, et skip i innenriksfart eller et lasteskip med bruttotonnasje under 500 i utenriksfart fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ## § 15. Dokumentasjon
 
@@ -198,7 +217,11 @@ Forskriften trer i kraft 15. september 2014.
 
 Tidligere godkjent eller akseptert utstyr som er tatt om bord før ikrafttredelsen, kan fortsatt brukes inntil redningsredskapene eller redningsinnretningen endres eller skiftes ut.
 
-Ved ikrafttredelsen oppheves samtidig[forskrift 17. desember 2004 nr. 1855](forskrift/2004-12-17-1855) om redningsredskaper på lasteskip,[forskrift 11. oktober 2004 nr. 1341](forskrift/2004-10-11-1341) om redningsredskaper på passasjerskip,[forskrift 15. september 1992 nr. 700](forskrift/1992-09-15-700) om redningsredskaper m.m. på passasjerskip.
+Ved ikrafttredelsen oppheves samtidig
+
+- [forskrift 17. desember 2004 nr. 1855](forskrift/2004-12-17-1855) om redningsredskaper på lasteskip,
+- [forskrift 11. oktober 2004 nr. 1341](forskrift/2004-10-11-1341) om redningsredskaper på passasjerskip,
+- [forskrift 15. september 1992 nr. 700](forskrift/1992-09-15-700) om redningsredskaper m.m. på passasjerskip.
 
 ## SOLAS 74
 
@@ -216,11 +239,22 @@ Generelle bestemmelser
 
 1 Med mindre annet er uttrykkelig fastsatt, får dette kapittelet anvendelse på skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn 1. juli 1998 eller senere.
 
-2 I dette kapittelet menes med uttrykket «tilsvarende byggetrinn» det trinnet der:bygging som kan identifiseres med et bestemt skip, begynner, ogmontering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
+2 I dette kapittelet menes med uttrykket «tilsvarende byggetrinn» det trinnet der:
 
-3 I dette kapitteletmenes med uttrykket «skip bygget» skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinnmenes med uttrykket «alle skip» alle skip bygget før eller etter 1. juli 1998; uttrykkene «alle passasjerskip» og «alle lasteskip» skal forstås i henhold til detteskal et lasteskip, uansett byggetidspunkt, som bygges om til passasjerskip, behandles som et passasjerskip som er bygget på den datoen da en slik ombygging påbegynnes.
+1. bygging som kan identifiseres med et bestemt skip, begynner, og
+2. montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
 
-4 For skip bygget før 1. juli 1998, skal administrasjonenmed forbehold for bestemmelsene i nr. 4.2, sørge for at kravene som er gjeldende i henhold til kapittel III i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1), 1974, og som trådte i kraft før 1. juli 1998, for nye eller eksisterende skip som fastsatt i kapittelet, er oppfyltsørge for at når redningsutstyr eller -arrangementer på slike skip byttes ut, eller slike skip gjennomgår omfattende reparasjoner, ombygginger eller endringer som omfatter utskifting eller utbygging av skipets eksisterende redningsredskaper eller -arrangementer, skal slike redningsredskaper eller -arrangementer, i den grad det er rimelig og praktisk mulig, oppfylle kravene i dette kapittelet. Hvis andre redningsfarkoster enn oppblåsbare redningsflåter erstattes uten at utsettingsarrangementet erstattes, eller omvendt, kan imidlertid redningsfarkosten eller utsettingsarrangementet være av samme type som den som ble erstattet, ogsørge for at kravene i regel 30.3 og 37.3.9 er oppfylt.
+3 I dette kapittelet
+
+1. menes med uttrykket «skip bygget» skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn
+2. menes med uttrykket «alle skip» alle skip bygget før eller etter 1. juli 1998; uttrykkene «alle passasjerskip» og «alle lasteskip» skal forstås i henhold til dette
+3. skal et lasteskip, uansett byggetidspunkt, som bygges om til passasjerskip, behandles som et passasjerskip som er bygget på den datoen da en slik ombygging påbegynnes.
+
+4 For skip bygget før 1. juli 1998, skal administrasjonen
+
+1. med forbehold for bestemmelsene i nr. 4.2, sørge for at kravene som er gjeldende i henhold til kapittel III i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1), 1974, og som trådte i kraft før 1. juli 1998, for nye eller eksisterende skip som fastsatt i kapittelet, er oppfylt
+2. sørge for at når redningsutstyr eller -arrangementer på slike skip byttes ut, eller slike skip gjennomgår omfattende reparasjoner, ombygginger eller endringer som omfatter utskifting eller utbygging av skipets eksisterende redningsredskaper eller -arrangementer, skal slike redningsredskaper eller -arrangementer, i den grad det er rimelig og praktisk mulig, oppfylle kravene i dette kapittelet. Hvis andre redningsfarkoster enn oppblåsbare redningsflåter erstattes uten at utsettingsarrangementet erstattes, eller omvendt, kan imidlertid redningsfarkosten eller utsettingsarrangementet være av samme type som den som ble erstattet, og
+3. sørge for at kravene i regel 30.3 og 37.3.9 er oppfylt.
 
 5 Lastpåhengte utløsingsmekanismer for livbåter, som ikke er i samsvar med punkt 4.4.7.6.4 til 4.4.7.6.6 i LSA-koden, skal på alle skip uten hensyn til nr. 4.2 erstattes av utstyr som er i samsvar med LSA-koden, senest ved første planlagte tørrdokking etter 1. juli 2014, men ikke senere enn 1. juli 2019.1
 
@@ -230,7 +264,10 @@ Generelle bestemmelser
 
 1 Administrasjonen kan, hvis den anser at farvannets skjermede karakter og sjøreisens omstendigheter er slik at anvendelsen av ethvert bestemt krav i dette kapittelet anses som urimelig eller unødvendig, unnta fra disse kravene hvert enkelt skip eller klasser av skip som i løpet av reisen ikke seiler mer enn 20 nautiske mil fra nærmeste land.
 
-2 Når det gjelder passasjerskip som anvendes i spesiell fart til transport av et stort antall passasjerer, som for eksempel pilegrimsfart, kan administrasjonen, hvis den er forvisset om at det i praksis er umulig å forlange kravene i dette kapittelet oppfylt, unnta slike skip fra disse kravene, forutsatt at skipene fullt ut er i samsvar med bestemmelsene i:reglene i vedlegg til Overenskomst om passasjerskip i spesiell fart, 1971, ogreglene i vedlegg til protokollen om krav til rom på passasjerskip i spesiell fart, 1973.
+2 Når det gjelder passasjerskip som anvendes i spesiell fart til transport av et stort antall passasjerer, som for eksempel pilegrimsfart, kan administrasjonen, hvis den er forvisset om at det i praksis er umulig å forlange kravene i dette kapittelet oppfylt, unnta slike skip fra disse kravene, forutsatt at skipene fullt ut er i samsvar med bestemmelsene i:
+
+1. reglene i vedlegg til Overenskomst om passasjerskip i spesiell fart, 1971, og
+2. reglene i vedlegg til protokollen om krav til rom på passasjerskip i spesiell fart, 1973.
 
 ### Regel 3 Definisjoner
 
@@ -249,7 +286,11 @@ Generelle bestemmelser
 - *«Lengde (L)»* er 96 % av hele lengden på en vannlinje ved en dybde tilsvarende 85 prosent av den minste dybden i risset målt fra overkanten av kjølen, eller lengden fra forkant av forstevnen til rorstammens akse på samme vannlinje, hvis denne lengden er større. På skip konstruert med styrlast skal vannlinjen som denne lengden er målt på, være parallell med konstruksjonsvannlinjen.
 - *«Minste seilingsdypgående»* betyr lastetilstanden der skipet er på rett kjøl uten last, med 10 prosent gjenværende forråd og brennstoff og, når det gjelder passasjerskip, med fullt antall passasjerer og besetningsmedlemmer og deres bagasje.
 - *«Marint evakueringssystem (MES)»* betyr et system som skal sørge for rask overføring av personer fra skipets innskipningsdekk til en flytende redningsfarkost.
-- *«Dybde i risset»*Dybde i risset betyr den loddrette avstand målt fra overkanten av kjølen til overkanten av dekksbjelken i borde på fribordsdekket. På tre- og komposittskip måles avstanden fra nederste kant av kjølspunningen. Når formen på den nedre delen av midtskipsseksjonen er hul, eller det forekommer tjukke kjølganger, måles avstanden fra det punktet der den flate delen av bunnen, forlenget innover, skjærer kjølens side.På skip som har runde dekkshjørner, skal dybde i riss måles til skjæringspunktet for de projiserte linjene fra dekk og ytre hudkledning, idet linjene forlenges som om dekkshjørnet skulle være av vinkelformet konstruksjon.Når det er trinn i fribordsdekket og den løftede delen av dekket strekker seg over det punktet der dybden i risset skal bestemmes, skal dybden i risset måles til en referanselinje som går fra den laveste delen av dekket langs en linje som er parallell med den løftede delen.
+- *«Dybde i risset»*
+
+  1. Dybde i risset betyr den loddrette avstand målt fra overkanten av kjølen til overkanten av dekksbjelken i borde på fribordsdekket. På tre- og komposittskip måles avstanden fra nederste kant av kjølspunningen. Når formen på den nedre delen av midtskipsseksjonen er hul, eller det forekommer tjukke kjølganger, måles avstanden fra det punktet der den flate delen av bunnen, forlenget innover, skjærer kjølens side.
+  2. På skip som har runde dekkshjørner, skal dybde i riss måles til skjæringspunktet for de projiserte linjene fra dekk og ytre hudkledning, idet linjene forlenges som om dekkshjørnet skulle være av vinkelformet konstruksjon.
+  3. Når det er trinn i fribordsdekket og den løftede delen av dekket strekker seg over det punktet der dybden i risset skal bestemmes, skal dybden i risset måles til en referanselinje som går fra den laveste delen av dekket langs en linje som er parallell med den løftede delen.
 - *«Ny type eller ny form for redningsredskap eller redningsarrangement»* betyr en type eller form for redningsredskap eller redningsarrangement som omfatter nye trekk som ikke fullt ut omfattes av bestemmelsene i dette kapittelet eller i LSA-koden, men som gir samme eller høyere grad av sikkerhet.
 - *«Positiv stabilitet»* betyr evnen en farkost har til å vende tilbake til sin utgangsstilling når et krengemoment fjernes.
 - *«Ombordtakingstid»* for en MOB-båt betyr den tiden som er nødvendig for å heve båten til en posisjon der personer om bord kan stige om bord på skipets dekk. Ombordtakingstid innbefatter tiden som er nødvendig for å forberede ombordtakingen om bord på MOB-båten, som for eksempel håndtering og sikring av fangline og festing av MOB-båten til utsettingsredskapet, og tiden som går med til å heve MOB-båten. Ombordtakingstid innbefatter ikke tiden som kreves for å låre utsettingsredskapet til en posisjon der MOB-båten kan hentes opp.
@@ -265,9 +306,15 @@ Generelle bestemmelser
 
 1 Med de unntak som følger av nr. 5 og 6, skal redningsredskaper og -arrangementer som er som kreves etter dette kapittelet, være godkjent av administrasjonen.
 
-2 Før administrasjonen godkjenner redningsredskaper og -arrangementer, skal den påse at slike redningsredskaper og -arrangementerprøves for å bekrefte at de oppfyller kravene i dette kapittelet og i LSA-koden, i samsvar med organisasjonens anbefalinger2, ellerhar gjennomgått, til administrasjonens tilfredshet, vellykkede tester som i det vesentlige tilsvarer det som er angitt i disse anbefalingene.
+2 Før administrasjonen godkjenner redningsredskaper og -arrangementer, skal den påse at slike redningsredskaper og -arrangementer
 
-3 Før administrasjonen godkjenner en ny type eller ny form for redningsredskap eller redningsarrangement, skal den sikre at slikeredskaper minst har samme sikkerhetsstandard som kravene i dette kapittelet og LSA-koden, og er vurdert og prøvd basert på retningslinjene utarbeidet av organisasjonen3, ellerarrangementer har gjennomgått og bestått en teknisk analyse, vurdering og godkjenning i samsvar med regel 38.
+1. prøves for å bekrefte at de oppfyller kravene i dette kapittelet og i LSA-koden, i samsvar med organisasjonens anbefalinger2, eller
+2. har gjennomgått, til administrasjonens tilfredshet, vellykkede tester som i det vesentlige tilsvarer det som er angitt i disse anbefalingene.
+
+3 Før administrasjonen godkjenner en ny type eller ny form for redningsredskap eller redningsarrangement, skal den sikre at slike
+
+1. redskaper minst har samme sikkerhetsstandard som kravene i dette kapittelet og LSA-koden, og er vurdert og prøvd basert på retningslinjene utarbeidet av organisasjonen3, eller
+2. arrangementer har gjennomgått og bestått en teknisk analyse, vurdering og godkjenning i samsvar med regel 38.
 
 4 Godkjenningsprosedyrer vedtatt av administrasjonen skal også omfatte betingelser for fortsatt godkjenning eller tilbakekalling av godkjenningen.
 
@@ -338,7 +385,10 @@ Høyttaleranlegget skal kunne høres tydelig gjennom støy i alle rom, fastsatt 
 
 5.3
 
-På passasjerskip bygget 1. juli 1997 eller senereskal høyttaleranlegget ha minst to sløyfer som skal være tilstrekkelig atskilt over hele sin lengde og ha to separate og uavhengige forsterkere, ogskal høyttaleranlegget og dets ytelsesnormer være godkjent av administrasjonen, idet det tas hensyn til anbefalingene som er vedtatt av organisasjonen.10
+På passasjerskip bygget 1. juli 1997 eller senere
+
+1. skal høyttaleranlegget ha minst to sløyfer som skal være tilstrekkelig atskilt over hele sin lengde og ha to separate og uavhengige forsterkere, og
+2. skal høyttaleranlegget og dets ytelsesnormer være godkjent av administrasjonen, idet det tas hensyn til anbefalingene som er vedtatt av organisasjonen.10
 
 5.4
 
@@ -370,7 +420,10 @@ Livbøyer
 
 1.1
 
-Livbøyer som oppfyller kravene i punkt 2.1.1 i LSA-koden, skalvære fordelt på en slik måte at de er lett tilgjengelige på begge sider av skipet og, så vidt praktisk mulig, på alle åpne dekk som strekker seg til skipssiden; og minst én skal være plassert i nærheten av akterstevnen, ogvære stuet slik at de raskt kan kastes løs, og ikke på noen måte være permanent fastgjort.
+Livbøyer som oppfyller kravene i punkt 2.1.1 i LSA-koden, skal
+
+1. være fordelt på en slik måte at de er lett tilgjengelige på begge sider av skipet og, så vidt praktisk mulig, på alle åpne dekk som strekker seg til skipssiden; og minst én skal være plassert i nærheten av akterstevnen, og
+2. være stuet slik at de raskt kan kastes løs, og ikke på noen måte være permanent fastgjort.
 
 1.2
 
@@ -390,7 +443,13 @@ Redningsvester
 
 2.1
 
-Det skal finnes en redningsvest som oppfyller kravene i punkt 2.2.1 eller 2.2.2 i LSA-koden, for hver person om bord, og i tilleggfor passasjerskip på ruter som er kortere enn 24 timer, skal antall redningsvester for spedbarn om bord tilsvare minst 2,5 % av totalt antall passasjerer om bordfor passasjerskip på ruter som varer i 24 timer eller mer, skal det finnes én redningsvest for spedbarn for hvert spedbarn om bordet antall redningsvester som passer for barn, tilsvarende minst 10 prosent av antallet passasjerer om bord, eller det større antall som er nødvendig for å forsyne hvert barn med en redningsvestet tilstrekkelig antall redningsvester for personer på vakt og for bruk ved redningsfarkost-stasjoner som er plassert avsides. Redningsvestene for personer på vakt bør være stuet på broen, i maskinkontrollrommet og ved enhver annen bemannet vaktstasjon, oghvis redningsvestene for voksne som finnes, ikke er designet slik at de passer for personer som veier opptil 140 kg, med et brystmål på opptil 1750 mm, skal det finnes tilstrekkelig med egnet tilbehør om bord til å kunne sikre slike personer.
+Det skal finnes en redningsvest som oppfyller kravene i punkt 2.2.1 eller 2.2.2 i LSA-koden, for hver person om bord, og i tillegg
+
+1. for passasjerskip på ruter som er kortere enn 24 timer, skal antall redningsvester for spedbarn om bord tilsvare minst 2,5 % av totalt antall passasjerer om bord
+2. for passasjerskip på ruter som varer i 24 timer eller mer, skal det finnes én redningsvest for spedbarn for hvert spedbarn om bord
+3. et antall redningsvester som passer for barn, tilsvarende minst 10 prosent av antallet passasjerer om bord, eller det større antall som er nødvendig for å forsyne hvert barn med en redningsvest
+4. et tilstrekkelig antall redningsvester for personer på vakt og for bruk ved redningsfarkost-stasjoner som er plassert avsides. Redningsvestene for personer på vakt bør være stuet på broen, i maskinkontrollrommet og ved enhver annen bemannet vaktstasjon, og
+5. hvis redningsvestene for voksne som finnes, ikke er designet slik at de passer for personer som veier opptil 140 kg, med et brystmål på opptil 1750 mm, skal det finnes tilstrekkelig med egnet tilbehør om bord til å kunne sikre slike personer.
 
 2.2
 
@@ -420,13 +479,21 @@ Det skal finnes en redningsdrakt av passende størrelse som oppfyller kravene i 
 
 3 Alarminstrukser og nødinstrukser som oppfyller kravene i regel 37, skal slås opp på iøynefallende steder over hele skipet, innbefattet kommandobro, maskinrom og mannskapsrom.
 
-4 Illustrasjoner og instruksjon på aktuelle språk skal slås opp i passasjerlugarer og på iøynefallende steder ved mønstringsstasjoner og i andre passasjerrom for å informere passasjerene omderes mønstringsstasjonhvordan de skal forholde seg i en nødsituasjon, oghvordan man tar på seg en redningsvest.
+4 Illustrasjoner og instruksjon på aktuelle språk skal slås opp i passasjerlugarer og på iøynefallende steder ved mønstringsstasjoner og i andre passasjerrom for å informere passasjerene om
+
+1. deres mønstringsstasjon
+2. hvordan de skal forholde seg i en nødsituasjon, og
+3. hvordan man tar på seg en redningsvest.
 
 ### Regel 9 Betjeningsinstrukser
 
 1 Denne regelen får anvendelse på alle skip.
 
-2 Det skal finnes oppslag eller skilt på eller i nærheten av redningsfarkoster og deres betjeningsutstyr for utsetting somillustrerer formålet med betjeningsutstyret og prosedyrene for betjening av redningsredskapet og gir relevante instruksjoner og advarslerlett kan ses under lysforholdene som eksisterer i en nødsituasjon, ogbruker symboler i samsvar med organisasjonens anbefalinger.12
+2 Det skal finnes oppslag eller skilt på eller i nærheten av redningsfarkoster og deres betjeningsutstyr for utsetting som
+
+1. illustrerer formålet med betjeningsutstyret og prosedyrene for betjening av redningsredskapet og gir relevante instruksjoner og advarsler
+2. lett kan ses under lysforholdene som eksisterer i en nødsituasjon, og
+3. bruker symboler i samsvar med organisasjonens anbefalinger.12
 
 12 Det vises til «Symbols related to life-saving appliances and arrangements» (resolusjon A.760(18), som endret ved resolusjon MSC.82(70)).
 
@@ -472,7 +539,13 @@ Utsettingsstasjoner skal være plassert slik at forsvarlig utsetting er sikret, 
 
 ### Regel 13 Stuing av redningsfarkoster
 
-1 Hver redningsfarkost skal være stuetslik at verken redningsfarkosten eller stuingsarrangementene vanskeliggjør betjeningen av noen annen redningsfarkost eller MOB-båt ved noen annen utsettingsstasjonså nær vannflaten som det er sikkert og praktisk mulig å komme og, når det gjelder andre redningsfarkoster enn redningsflåter beregnet for utsetting ved overbordkasting, slik at redningsfarkosten i innskipningsposisjon er minst 2 m over vannlinjen med skipet i fullastet tilstand under ugunstige trimforhold på opptil 10° og med krengning på opptil 20° til hvilken som helst av sidene eller til den vinkelen der kanten av værdekket kommer under vann, når dette inntreffer førsti en tilstand av permanent beredskap slik at to besetningsmedlemmer kan gjøre klart for innskipning og utsetting på mindre enn 5 minutterfullt utstyrt i henhold til dette kapittelet og LSA-koden, også langt det er praktisk mulig, på et sikkert og beskyttet sted og beskyttet mot skade forårsaket av brann og eksplosjon. Særlig skal redningsfarkoster på tankskip, med unntak av redningsflåtene som kreves i henhold til regel 31 nr. 1.4, ikke stues på eller over en lastetank, slopptank eller annen tank som inneholder eksplosjonsfarlig eller annen farlig last.
+1 Hver redningsfarkost skal være stuet
+
+1. slik at verken redningsfarkosten eller stuingsarrangementene vanskeliggjør betjeningen av noen annen redningsfarkost eller MOB-båt ved noen annen utsettingsstasjon
+2. så nær vannflaten som det er sikkert og praktisk mulig å komme og, når det gjelder andre redningsfarkoster enn redningsflåter beregnet for utsetting ved overbordkasting, slik at redningsfarkosten i innskipningsposisjon er minst 2 m over vannlinjen med skipet i fullastet tilstand under ugunstige trimforhold på opptil 10° og med krengning på opptil 20° til hvilken som helst av sidene eller til den vinkelen der kanten av værdekket kommer under vann, når dette inntreffer først
+3. i en tilstand av permanent beredskap slik at to besetningsmedlemmer kan gjøre klart for innskipning og utsetting på mindre enn 5 minutter
+4. fullt utstyrt i henhold til dette kapittelet og LSA-koden, og
+5. så langt det er praktisk mulig, på et sikkert og beskyttet sted og beskyttet mot skade forårsaket av brann og eksplosjon. Særlig skal redningsfarkoster på tankskip, med unntak av redningsflåtene som kreves i henhold til regel 31 nr. 1.4, ikke stues på eller over en lastetank, slopptank eller annen tank som inneholder eksplosjonsfarlig eller annen farlig last.
 
 2 Livbåter som skal låres ned langs skipssiden, skal være stuet så langt forut for propellen som praktisk mulig. På lasteskip med lengde 80 meter eller mer, men mindre enn 120 meter, skal hver livbåt være stuet slik at akterenden av livbåten befinner seg ikke mindre enn en livbåtlengde foran propellen. På lasteskip med lengde 120 meter eller mer og passasjerskip med lengde 80 meter eller mer, skal hver livbåt være stuet slik at livbåtens akterende befinner seg ikke mindre enn 1,5 ganger livbåtlengden foran propellen. Når det er praktisk mulig, skal skipet være innrettet slik at livbåtene i stuet posisjon er beskyttet mot skade på grunn av kraftig sjøgang.
 
@@ -492,7 +565,12 @@ Utsettingsstasjoner skal være plassert slik at forsvarlig utsetting er sikret, 
 
 ### Regel 14 Stuing av MOB-båter
 
-MOB-båter skal være stueti permanent beredskap for utsetting i løpet av 5 minutter eller mindre, og hvis de er oppblåsbare, til enhver tid være ferdig oppblåsti en posisjon som er hensiktsmessig med hensyn til utsetting og ombordtakingslik at verken MOB-båten eller stuingsarrangementene vanskeliggjør betjening av redningsfarkost ved noen annen utsettingsstasjon, oghvis den også er livbåt, i samsvar med kravene i regel 13.
+MOB-båter skal være stuet
+
+1. i permanent beredskap for utsetting i løpet av 5 minutter eller mindre, og hvis de er oppblåsbare, til enhver tid være ferdig oppblåst
+2. i en posisjon som er hensiktsmessig med hensyn til utsetting og ombordtaking
+3. slik at verken MOB-båten eller stuingsarrangementene vanskeliggjør betjening av redningsfarkost ved noen annen utsettingsstasjon, og
+4. hvis den også er livbåt, i samsvar med kravene i regel 13.
 
 ### Regel 15 Stuing av marine evakueringssystem (MES)
 
@@ -506,7 +584,13 @@ MOB-båter skal være stueti permanent beredskap for utsetting i løpet av 5 min
 
 ### Regel 16 Arrangementer for utsetting og ombordtaking av redningsfarkoster
 
-1 Med mindre annet er uttrykkelig fastsatt, skal det finnes utsettings- og innskipningsredskaper som oppfyller kravene i avsnitt 6.1 i LSA-koden for alle redningsfarkoster unntattredningsfarkoster som bordes fra en posisjon på dekk som er mindre enn 4,5 m over vannlinjen ved skipets minste seilingsdypgående, og med en vekt som ikke overstiger 185 kg, ellerredningsfarkoster som bordes fra en posisjon på dekk som er mindre enn 4,5 m over vannlinjen ved skipets minste seilingsdypgående, og som er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side, ellerredningsfarkoster med en vekt som ikke overstiger 185 kg og som føres i tillegg til redningsfarkoster for 200 % av det totale antallet personer om bord på skipet, ellerredningsfarkoster som føres i tillegg til redningsfarkoster for 200 % av det totale antallet personer om bord på skipet, og som er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side, ellerredningsfarkoster som skal benyttes sammen med et MES, som oppfyller kravene i avsnitt 6.2 i LSA-koden og er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side.
+1 Med mindre annet er uttrykkelig fastsatt, skal det finnes utsettings- og innskipningsredskaper som oppfyller kravene i avsnitt 6.1 i LSA-koden for alle redningsfarkoster unntatt
+
+1. redningsfarkoster som bordes fra en posisjon på dekk som er mindre enn 4,5 m over vannlinjen ved skipets minste seilingsdypgående, og med en vekt som ikke overstiger 185 kg, eller
+2. redningsfarkoster som bordes fra en posisjon på dekk som er mindre enn 4,5 m over vannlinjen ved skipets minste seilingsdypgående, og som er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side, eller
+3. redningsfarkoster med en vekt som ikke overstiger 185 kg og som føres i tillegg til redningsfarkoster for 200 % av det totale antallet personer om bord på skipet, eller
+4. redningsfarkoster som føres i tillegg til redningsfarkoster for 200 % av det totale antallet personer om bord på skipet, og som er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side, eller
+5. redningsfarkoster som skal benyttes sammen med et MES, som oppfyller kravene i avsnitt 6.2 i LSA-koden og er stuet for utsetting direkte fra den stuede posisjonen under ugunstige trimforhold på opptil 10° og med en krengning på opptil 20° til hvilken som helst side.
 
 2 Hver livbåt skal være utstyrt med et redskap til å sette den ut og ta om bord livbåten. I tillegg skal det være mulig å henge opp livbåten for å frigjøre utløsingsmekanismen ved vedlikehold.
 
@@ -594,7 +678,17 @@ Båtøvelse
 
 3.4.1
 
-Hver båtøvelse skal bestå i åtilkalle passasjerer og besetning til mønstringsstasjoner ved bruk av alarmen som kreves etter regel 6 nr. 4.2, etterfulgt av annonsering av øvelse over høyttaleranlegget eller ved annet kommunikasjonsmiddel, og sikre at alle er klar over at det er gitt ordre om å forlate skipetrapportere til stasjonene og forberede oppgavene beskrevet i alarminstruksensjekke at passasjerer og besetning er hensiktsmessig påkleddkontrollere at redningsvestene er riktig tatt pålåre minst én livbåt etter eventuell klargjøring til låringstarte og betjene livbåtmotorenbetjene daviter som benyttes til å sette ut redningsflåtegjennomføre simulert leting etter og redning av personer som er innesperret i sine lugarer, oginstruere i bruken av radioredningsredskaper.
+Hver båtøvelse skal bestå i å
+
+1. tilkalle passasjerer og besetning til mønstringsstasjoner ved bruk av alarmen som kreves etter regel 6 nr. 4.2, etterfulgt av annonsering av øvelse over høyttaleranlegget eller ved annet kommunikasjonsmiddel, og sikre at alle er klar over at det er gitt ordre om å forlate skipet
+2. rapportere til stasjonene og forberede oppgavene beskrevet i alarminstruksen
+3. sjekke at passasjerer og besetning er hensiktsmessig påkledd
+4. kontrollere at redningsvestene er riktig tatt på
+5. låre minst én livbåt etter eventuell klargjøring til låring
+6. starte og betjene livbåtmotoren
+7. betjene daviter som benyttes til å sette ut redningsflåte
+8. gjennomføre simulert leting etter og redning av personer som er innesperret i sine lugarer, og
+9. instruere i bruken av radioredningsredskaper.
 
 3.4.2
 
@@ -638,7 +732,14 @@ Brannøvelser bør planlegges på en slik måte at det tas tilstrekkelig hensyn 
 
 3.5.2
 
-Hver brannøvelse skal bestå i årapportere til stasjonene og forberede oppgavene beskrevet i alarminstruksen som kreves etter regel 8starte en brannpumpe der minst de to påkrevde vannstrålene tas i bruk for å vise at systemet er i god stand og driftsklartkontrollere røykdykkerutstyr og annet personlig redningsutstyrkontrollere relevant kommunikasjonsutstyrkontrollere betjeningen av vanntette dører, branndører, brannspjeld og hovedinntak og hovedutløp for ventilasjonssystemer i øvelsesområdet, ogkontrollere de nødvendige arrangementene for påfølgende evakuering av skipet.
+Hver brannøvelse skal bestå i å
+
+1. rapportere til stasjonene og forberede oppgavene beskrevet i alarminstruksen som kreves etter regel 8
+2. starte en brannpumpe der minst de to påkrevde vannstrålene tas i bruk for å vise at systemet er i god stand og driftsklart
+3. kontrollere røykdykkerutstyr og annet personlig redningsutstyr
+4. kontrollere relevant kommunikasjonsutstyr
+5. kontrollere betjeningen av vanntette dører, branndører, brannspjeld og hovedinntak og hovedutløp for ventilasjonssystemer i øvelsesområdet, og
+6. kontrollere de nødvendige arrangementene for påfølgende evakuering av skipet.
 
 3.5.3
 
@@ -654,7 +755,13 @@ Utstyret som benyttes under øvelser, skal umiddelbart etter bruk igjen gjøres 
 
 3.6.2
 
-Hver øvelse for entring av og redning fra lukkede rom skal inkluderekontroll og bruk av personlig verneutstyr nødvendig for entringkontroll og bruk av kommunikasjonsutstyr og -prosedyrerkontroll og bruk av instrumenter for måling av atmosfæren i innelukkede romkontroll og bruk av redningsutstyr og -prosedyrer, oginstrukser i førstehjelp og gjenopplivingsteknikker.
+Hver øvelse for entring av og redning fra lukkede rom skal inkludere
+
+1. kontroll og bruk av personlig verneutstyr nødvendig for entring
+2. kontroll og bruk av kommunikasjonsutstyr og -prosedyrer
+3. kontroll og bruk av instrumenter for måling av atmosfæren i innelukkede rom
+4. kontroll og bruk av redningsutstyr og -prosedyrer, og
+5. instrukser i førstehjelp og gjenopplivingsteknikker.
 
 4
 
@@ -666,7 +773,13 @@ Det skal gis opplæring om bord i bruken av skipets redningsredskaper, innbefatt
 
 4.2
 
-Hvert besetningsmedlem skal få instruksjon som skal omfatte, men ikke nødvendigvis begrenses tilbetjening og bruk av skipets oppblåsbare redningsflåterhypotermiproblemer, førstehjelpsbehandling for hypotermi og andre hensiktsmessige førstehjelps-prosedyrersærskilt instruksjon som er nødvendig for bruk av skipets redningsredskaper under vanskelige vær- og sjøforholdbetjening og bruk av brannslokkingsredskaperrisikoer knyttet til lukkede rom og prosedyrer om bord for trygg entring av slike rom, som skal ta hensyn til eventuell veiledning gitt i retningslinjer utarbeidet av organisasjonen17.
+Hvert besetningsmedlem skal få instruksjon som skal omfatte, men ikke nødvendigvis begrenses til
+
+1. betjening og bruk av skipets oppblåsbare redningsflåter
+2. hypotermiproblemer, førstehjelpsbehandling for hypotermi og andre hensiktsmessige førstehjelps-prosedyrer
+3. særskilt instruksjon som er nødvendig for bruk av skipets redningsredskaper under vanskelige vær- og sjøforhold
+4. betjening og bruk av brannslokkingsredskaper
+5. risikoer knyttet til lukkede rom og prosedyrer om bord for trygg entring av slike rom, som skal ta hensyn til eventuell veiledning gitt i retningslinjer utarbeidet av organisasjonen17.
 
 4.3
 
@@ -728,7 +841,12 @@ Det skal finnes reservedeler og reparasjonsutstyr til redningsredskaper og tilh�
 
 Ukentlig inspeksjon
 
-Følgende prøver og inspeksjoner skal utføres ukentlig og en rapport fra inspeksjonen skal innføres i skipsdagboken:Alle redningsfarkoster, MOB-båter og utsettingsredskaper skal inspiseres visuelt for å sikre at de er klare til bruk. Inspeksjonen skal omfatte, men er ikke begrenset til, krokenes tilstand og festeanordning til livbåten og at on-load-utløserutstyr er forsvarlig og fullstendig tilbakesattalle motorer i livbåter og MOB-båter skal kjøres i et samlet tidsrom på minst tre minutter, forutsatt at omgivelsestemperaturen er over den minimumstemperaturen som kreves for å starte og kjøre motoren. I løpet av dette tidsrommet bør det kontrolleres at girkassen og girkoblingen griper tilfredsstillende. Hvis særskilte karakteristika ved en utenbordsmotor på en MOB-båt skulle hindre kjøring på annen måte enn med propellen i vannet i et tidsrom på tre minutter, kan det tilveiebringes en egnet vanntilførsel. I særskilte tilfeller kan administrasjonen frafalle dette kravet for skip bygget før 1. juli 198livbåter på lasteskip, unntatt fritt fall-livbåter, skal flyttes fra sin stuede posisjon uten at noen er om bord, i den grad det er nødvendig for å demonstrere at utsettingsredskapene virker på en tilfredsstillende måte, hvis vær- og sjøforhold tillater det, oghovedalarmsystemet skal prøves.
+Følgende prøver og inspeksjoner skal utføres ukentlig og en rapport fra inspeksjonen skal innføres i skipsdagboken:
+
+1. Alle redningsfarkoster, MOB-båter og utsettingsredskaper skal inspiseres visuelt for å sikre at de er klare til bruk. Inspeksjonen skal omfatte, men er ikke begrenset til, krokenes tilstand og festeanordning til livbåten og at on-load-utløserutstyr er forsvarlig og fullstendig tilbakesatt
+2. alle motorer i livbåter og MOB-båter skal kjøres i et samlet tidsrom på minst tre minutter, forutsatt at omgivelsestemperaturen er over den minimumstemperaturen som kreves for å starte og kjøre motoren. I løpet av dette tidsrommet bør det kontrolleres at girkassen og girkoblingen griper tilfredsstillende. Hvis særskilte karakteristika ved en utenbordsmotor på en MOB-båt skulle hindre kjøring på annen måte enn med propellen i vannet i et tidsrom på tre minutter, kan det tilveiebringes en egnet vanntilførsel. I særskilte tilfeller kan administrasjonen frafalle dette kravet for skip bygget før 1. juli 198
+3. livbåter på lasteskip, unntatt fritt fall-livbåter, skal flyttes fra sin stuede posisjon uten at noen er om bord, i den grad det er nødvendig for å demonstrere at utsettingsredskapene virker på en tilfredsstillende måte, hvis vær- og sjøforhold tillater det, og
+4. hovedalarmsystemet skal prøves.
 
 7
 
@@ -748,7 +866,10 @@ Ettersyn av oppblåsbare redningsflåter, oppblåsbare redningsvester, MES og ve
 
 8.1
 
-Alle oppblåsbare redningsflåter, oppblåsbare redningsvester og MES skal ettersesmed ikke mer enn 12 måneders mellomrom, men i alle tilfeller der dette er praktisk umulig, kan administrasjonen forlenge tidsrommet til 17 måneder, ogved en godkjent servicestasjon som har den nødvendige kompetansen til å utføre ettersynet, har de nødvendige fasiliteter og som bare bruker behørig opplært personell.19
+Alle oppblåsbare redningsflåter, oppblåsbare redningsvester og MES skal etterses
+
+1. med ikke mer enn 12 måneders mellomrom, men i alle tilfeller der dette er praktisk umulig, kan administrasjonen forlenge tidsrommet til 17 måneder, og
+2. ved en godkjent servicestasjon som har den nødvendige kompetansen til å utføre ettersynet, har de nødvendige fasiliteter og som bare bruker behørig opplært personell.19
 
 8.2
 
@@ -758,7 +879,11 @@ I tillegg til, eller i sammenheng med tidsrommene fastsatt i nr. 8.1 mellom ette
 
 8.3
 
-En administrasjon som i henhold til regel 4 godkjenner nye arrangementer for oppblåsbare redningsflåter med nye egenskaper, kan tillate forlengede tidsrom mellom ettersyn på følgende vilkår:Det nye redningsflåtearrangementet med nye egenskaper, har vist seg å opprettholde samme standard, slik prosedyren for prøving krever, i løpet av det forlengede tidsrommet mellom ettersyn.Redningsflåtesystemet skal kontrolleres om bord av sertifisert personell i samsvar med nr. 8.1.1.Ettersyn med mellomrom som ikke overstiger fem år, skal foretas i samsvar med organisasjonens anbefalinger.20
+En administrasjon som i henhold til regel 4 godkjenner nye arrangementer for oppblåsbare redningsflåter med nye egenskaper, kan tillate forlengede tidsrom mellom ettersyn på følgende vilkår:
+
+1. Det nye redningsflåtearrangementet med nye egenskaper, har vist seg å opprettholde samme standard, slik prosedyren for prøving krever, i løpet av det forlengede tidsrommet mellom ettersyn.
+2. Redningsflåtesystemet skal kontrolleres om bord av sertifisert personell i samsvar med nr. 8.1.1.
+3. Ettersyn med mellomrom som ikke overstiger fem år, skal foretas i samsvar med organisasjonens anbefalinger.20
 
 8.4
 
@@ -772,7 +897,10 @@ En administrasjon som tillater forlengelse av tidsrommet mellom ettersyn av redn
 
 Periodisk ettersyn av hydrostatiske utløserenheter
 
-Hydrostatiske utløserenheter som ikke er hydrostatiske utløserenheter til engangsbruk, skal etterses:med høyst 12 måneders mellomrom, men når det skulle være praktisk umulig, kan administrasjonen forlenge tidsrommet til 17 måneder,21 ogved en servicestasjon som har den nødvendige kompetansen til å utføre ettersynet, har de nødvendige fasiliteter og som bare bruker behørig opplært personell.
+Hydrostatiske utløserenheter som ikke er hydrostatiske utløserenheter til engangsbruk, skal etterses:
+
+1. med høyst 12 måneders mellomrom, men når det skulle være praktisk umulig, kan administrasjonen forlenge tidsrommet til 17 måneder,21 og
+2. ved en servicestasjon som har den nødvendige kompetansen til å utføre ettersynet, har de nødvendige fasiliteter og som bare bruker behørig opplært personell.
 
 10
 
@@ -786,15 +914,25 @@ Vedlikehold, inngående undersøkelse, driftsprøving, overhaling og reparasjon 
 
 11.1
 
-Utsettingsredskapene skalgjennomgå en inngående undersøkelse ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 eller I/8, ognår undersøkelsen nevnt i nr. 11.1.1 er fullført, gjennomgå en dynamisk prøving av vinsjbremsen ved maksimal nedsenkingshastighet. Belastningen som skal påføres, skal være lik redningsfarkostens eller MOB-båtens vekt uten personer om bord. Minst én gang hvert femte år skal prøvingen likevel utføres med en prøvebelastning som er 1,1 ganger redningsfarkostens eller MOB-båtens totale vekt med full last av personer og utstyr.
+Utsettingsredskapene skal
+
+1. gjennomgå en inngående undersøkelse ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 eller I/8, og
+2. når undersøkelsen nevnt i nr. 11.1.1 er fullført, gjennomgå en dynamisk prøving av vinsjbremsen ved maksimal nedsenkingshastighet. Belastningen som skal påføres, skal være lik redningsfarkostens eller MOB-båtens vekt uten personer om bord. Minst én gang hvert femte år skal prøvingen likevel utføres med en prøvebelastning som er 1,1 ganger redningsfarkostens eller MOB-båtens totale vekt med full last av personer og utstyr.
 
 11.2
 
-Utløserutstyr for livbåter og MOB-båter, herunder utløserutstyr for hurtiggående MOB-båter og utløsningssystemer for fritt-fall-livbåter, skalgjennomgå en inngående undersøkelse og driftsprøving ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 og I/8i tilfeller med on-load-utløserutstyr, driftsprøves med en belastning som er 1,1 ganger livbåtens totale vekt med full last av personer og utstyr hver gang utløserutstyret er blitt overhalt. Slik overhaling og driftsprøving skal foretas minst én gang hvert femte år,23 oguten hensyn til nr. 11.2.2 over, skal driftsprøvingen av utløsningssystemer for fritt fall-livbåter utføres enten ved å sette ut livbåten ved fritt fall med kun besetningen om bord, eller ved prøving uten utsetting av livbåt utført iht. «Krav til vedlikehold, inngående undersøkelse, driftsprøving, overhaling og reparasjon».
+Utløserutstyr for livbåter og MOB-båter, herunder utløserutstyr for hurtiggående MOB-båter og utløsningssystemer for fritt-fall-livbåter, skal
+
+1. gjennomgå en inngående undersøkelse og driftsprøving ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 og I/8
+2. i tilfeller med on-load-utløserutstyr, driftsprøves med en belastning som er 1,1 ganger livbåtens totale vekt med full last av personer og utstyr hver gang utløserutstyret er blitt overhalt. Slik overhaling og driftsprøving skal foretas minst én gang hvert femte år,23 og
+3. uten hensyn til nr. 11.2.2 over, skal driftsprøvingen av utløsningssystemer for fritt fall-livbåter utføres enten ved å sette ut livbåten ved fritt fall med kun besetningen om bord, eller ved prøving uten utsetting av livbåt utført iht. «Krav til vedlikehold, inngående undersøkelse, driftsprøving, overhaling og reparasjon».
 
 11.3
 
-Automatiske utløserkroker for redningsflåter som settes ut med daviter, skalgjennomgå en inngående undersøkelse og driftsprøving ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 og I/8, ogdriftsprøves med en belastning som er 1,1 ganger redningsflåtens totale vekt med full last av personer og utstyr hver gang den automatiske utløserkroken er blitt overhalt. Slik overhaling og driftsprøving skal foretas minst én gang hvert femte år.
+Automatiske utløserkroker for redningsflåter som settes ut med daviter, skal
+
+1. gjennomgå en inngående undersøkelse og driftsprøving ved de årlige besiktelsene fastsatt i henholdsvis regel I/7 og I/8, og
+2. driftsprøves med en belastning som er 1,1 ganger redningsflåtens totale vekt med full last av personer og utstyr hver gang den automatiske utløserkroken er blitt overhalt. Slik overhaling og driftsprøving skal foretas minst én gang hvert femte år.
 
 11.4
 
@@ -827,11 +965,17 @@ Redningsfarkost
 
 1.1
 
-Passasjerskip som foretar internasjonale reiser som ikke er korte internasjonale reiser, skalføre delvis eller helt overbygde livbåter som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden og med en samlet kapasitet på hver side av skipet som er tilstrekkelig til å kunne gi plass til minst 50 % av det totale antallet personer om bord. Administrasjonen kan tillate at livbåter erstattes med redningsflåter med tilsvarende samlet kapasitet, forutsatt at det for hver side av skipet aldri er færre livbåter enn at det er nok til å gi plass til 37,5 % av det totale antallet personer om bord. De oppblåsbare eller stive redningsflåtene skal oppfylle kravene i avsnitt 4.2 eller 4.3 i LSA-koden og skal betjenes ved utsettingsredskaper som er likt fordelt på hver side av skipeti tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en samlet kapasitet som er tilstrekkelig til å gi plass til minst 25 % av det totale antallet personer om bord. Disse redningsflåtene skal betjenes ved minst ett utsettingsredskap på hver side, som kan være utsettingsredskapene som er tilveiebrakt i samsvar med kravene i nr. 1.1.1, eller likeverdige godkjente redskaper som kan brukes på begge sider. Stuing av disse redningsflåtene behøver imidlertid ikke være i samsvar med kravene i regel 13 nr. 5.
+Passasjerskip som foretar internasjonale reiser som ikke er korte internasjonale reiser, skal
+
+1. føre delvis eller helt overbygde livbåter som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden og med en samlet kapasitet på hver side av skipet som er tilstrekkelig til å kunne gi plass til minst 50 % av det totale antallet personer om bord. Administrasjonen kan tillate at livbåter erstattes med redningsflåter med tilsvarende samlet kapasitet, forutsatt at det for hver side av skipet aldri er færre livbåter enn at det er nok til å gi plass til 37,5 % av det totale antallet personer om bord. De oppblåsbare eller stive redningsflåtene skal oppfylle kravene i avsnitt 4.2 eller 4.3 i LSA-koden og skal betjenes ved utsettingsredskaper som er likt fordelt på hver side av skipet
+2. i tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en samlet kapasitet som er tilstrekkelig til å gi plass til minst 25 % av det totale antallet personer om bord. Disse redningsflåtene skal betjenes ved minst ett utsettingsredskap på hver side, som kan være utsettingsredskapene som er tilveiebrakt i samsvar med kravene i nr. 1.1.1, eller likeverdige godkjente redskaper som kan brukes på begge sider. Stuing av disse redningsflåtene behøver imidlertid ikke være i samsvar med kravene i regel 13 nr. 5.
 
 1.2
 
-Passasjerskip som foretar korte internasjonale reiser skal førehelt eller delvis overbygde livbåter som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden, og med en slik samlet kapasitet at de gir plass til minst 30 % av det totale antallet personer om bord. Livbåtene skal, så langt det er praktisk mulig, være likt fordelt på hver side av skipet. I tillegg skal det føres oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en slik samlet kapasitet at de sammen med livbåtene vil gi plass til det totale antallet personer om bord. Redningsflåtene skal betjenes ved utsettingsredskaper som er likt fordelt på hver side av skipet, ogi tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en slik samlet kapasitet at de gir plass til minst 25 % av det totale antallet personer om bord. Disse redningsflåtene skal betjenes ved minst ett utsettingsredskap på hver side, som kan være utsettingsredskapene som er tilveiebrakt i samsvar med kravene i nr. 1.2.1, eller likeverdige godkjente redskaper som kan brukes på begge sider. Stuing av disse redningsflåtene behøver imidlertid ikke være i samsvar med kravene i regel 13 nr. 5.
+Passasjerskip som foretar korte internasjonale reiser skal føre
+
+1. helt eller delvis overbygde livbåter som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden, og med en slik samlet kapasitet at de gir plass til minst 30 % av det totale antallet personer om bord. Livbåtene skal, så langt det er praktisk mulig, være likt fordelt på hver side av skipet. I tillegg skal det føres oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en slik samlet kapasitet at de sammen med livbåtene vil gi plass til det totale antallet personer om bord. Redningsflåtene skal betjenes ved utsettingsredskaper som er likt fordelt på hver side av skipet, og
+2. i tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en slik samlet kapasitet at de gir plass til minst 25 % av det totale antallet personer om bord. Disse redningsflåtene skal betjenes ved minst ett utsettingsredskap på hver side, som kan være utsettingsredskapene som er tilveiebrakt i samsvar med kravene i nr. 1.2.1, eller likeverdige godkjente redskaper som kan brukes på begge sider. Stuing av disse redningsflåtene behøver imidlertid ikke være i samsvar med kravene i regel 13 nr. 5.
 
 1.3
 
@@ -839,7 +983,12 @@ Alle redningsfarkoster som kreves for å sørge for at det totale antallet perso
 
 1.4
 
-I stedet for å oppfylle kravene i nr. 1.1 eller 1.2 kan passasjerskip med bruttotonnasje under 500 der det totale antallet personer om bord er under 200, oppfylle følgende:De skal på hver side av skipet føre én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en slik samlet kapasitet at de vil gi plass til det totale antallet personer om bord.Med mindre redningsflåtene som kreves i nr. 1.4.1 er stuet på steder som gjør det mulig å overføre dem raskt fra side til side på skipet på ett enkelt åpent dekksnivå, skal det i tillegg finnes redningsflåter som gjør at den samlede kapasiteten som er tilgjengelig for bruk på hver side av skipet, tilsvarer 150 % av det totale antallet personer om bord.Hvis MOB-båten som kreves i henhold til nr. 2.2, også er en helt overbygd livbåt som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden, kan den regnes med i den samlede kapasiteten som kreves i nr. 1.4.1, forutsatt at den samlede kapasiteten som er tilgjengelig på hver side av skipet, er tilstrekkelig til å gi plass til minst 150 % av det totale antallet personer om bord, ogHvis én av redningsfarkostene havarerer eller blir ubrukelig, skal det være nok redningsfarkoster til rådighet på hver side, herunder enhver farkost som er stuet slik at den lett kan flyttes fra en side av skipet til en annen på ett enkelt dekk, til å gi plass til det totale antallet personer om bord.
+I stedet for å oppfylle kravene i nr. 1.1 eller 1.2 kan passasjerskip med bruttotonnasje under 500 der det totale antallet personer om bord er under 200, oppfylle følgende:
+
+1. De skal på hver side av skipet føre én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en slik samlet kapasitet at de vil gi plass til det totale antallet personer om bord.
+2. Med mindre redningsflåtene som kreves i nr. 1.4.1 er stuet på steder som gjør det mulig å overføre dem raskt fra side til side på skipet på ett enkelt åpent dekksnivå, skal det i tillegg finnes redningsflåter som gjør at den samlede kapasiteten som er tilgjengelig for bruk på hver side av skipet, tilsvarer 150 % av det totale antallet personer om bord.
+3. Hvis MOB-båten som kreves i henhold til nr. 2.2, også er en helt overbygd livbåt som oppfyller kravene i avsnitt 4.5 eller 4.6 i LSA-koden, kan den regnes med i den samlede kapasiteten som kreves i nr. 1.4.1, forutsatt at den samlede kapasiteten som er tilgjengelig på hver side av skipet, er tilstrekkelig til å gi plass til minst 150 % av det totale antallet personer om bord, og
+4. Hvis én av redningsfarkostene havarerer eller blir ubrukelig, skal det være nok redningsfarkoster til rådighet på hver side, herunder enhver farkost som er stuet slik at den lett kan flyttes fra en side av skipet til en annen på ett enkelt dekk, til å gi plass til det totale antallet personer om bord.
 
 1.5
 
@@ -925,7 +1074,10 @@ Redningsdrakter og termisk beskyttelsesutstyr
 
 4.1
 
-Alle passasjerskip skal for hver av skipets livbåter føre minst tre redningsdrakter som oppfyller kravene i avsnitt 2.3 i LSA-koden og, i tillegg, termisk beskyttelsesutstyr som oppfyller kravene i avsnitt 2.5 i LSA-koden for hver person som livbåten er godkjent for og som ikke er forsynt med en redningsdrakt. Disse redningsdraktene og dette termiske beskyttelsesutstyret behøver ikke føresfor personer som skal ha plass i helt eller delvis overbygde livbåter, ellerhvis skipet utelukkende går i fart i varmt klima24 der det etter administrasjonens mening er unødvendig med slikt beskyttelsesutstyr.
+Alle passasjerskip skal for hver av skipets livbåter føre minst tre redningsdrakter som oppfyller kravene i avsnitt 2.3 i LSA-koden og, i tillegg, termisk beskyttelsesutstyr som oppfyller kravene i avsnitt 2.5 i LSA-koden for hver person som livbåten er godkjent for og som ikke er forsynt med en redningsdrakt. Disse redningsdraktene og dette termiske beskyttelsesutstyret behøver ikke føres
+
+1. for personer som skal ha plass i helt eller delvis overbygde livbåter, eller
+2. hvis skipet utelukkende går i fart i varmt klima24 der det etter administrasjonens mening er unødvendig med slikt beskyttelsesutstyr.
 
 4.2
 
@@ -933,7 +1085,10 @@ Bestemmelsene i nr. 4.1.1 gjelder også for delvis eller helt overbyggete livbå
 
 ### Regel 23 Innskipningsarrangementer for redningsfarkoster og MOB-båter
 
-1 På passasjerskip skal innskipningsarrangementene for redningsfarkoster utformes slik atdet er mulig å gå om bord i og sette ut alle livbåtene enten direkte fra stedet der de er plassert eller fra et innskipingsdekk, men ikke begge deler, ogdet er mulig å gå om bord i redningsflåter som settes ut med daviter, fra et tilstøtende sted til stedet der de er plassert eller fra en posisjon som redningsflåten flyttes til før utsetting i samsvar med regel 13 nr. 5.
+1 På passasjerskip skal innskipningsarrangementene for redningsfarkoster utformes slik at
+
+1. det er mulig å gå om bord i og sette ut alle livbåtene enten direkte fra stedet der de er plassert eller fra et innskipingsdekk, men ikke begge deler, og
+2. det er mulig å gå om bord i redningsflåter som settes ut med daviter, fra et tilstøtende sted til stedet der de er plassert eller fra en posisjon som redningsflåten flyttes til før utsetting i samsvar med regel 13 nr. 5.
 
 2 Arrangementene for MOB-båten skal være slik at båten kan bordes og settes ut direkte fra stuet posisjon med det antall personer som er utpekt til å være mannskap på MOB-båten om bord. Uten hensyn til kravene i nr. 1.1 skal arrangementene, hvis MOB-båten også er en livbåt og de andre livbåtene bordes og settes ut fra et innskipningsdekk, være slik at MOB-båten også kan bordes og settes ut fra innskipningsdekket.
 
@@ -945,13 +1100,21 @@ Stuingshøyden for redningsfarkoster på et passasjerskip skal ta hensyn til kra
 
 ### Regel 25 Mønstringsstasjoner
 
-Ethvert passasjerskip skal, i tillegg til å oppfylle kravene i regel 11, ha mønstringsstasjoner for passasjerer som skalvære i nærheten av og gi passasjerene lett atkomst til innskipningsstasjonene, med mindre de er på samme sted, ogha rikelig plass til å samle og instruere passasjerene, men minst 0,35 m2 per passasjer.
+Ethvert passasjerskip skal, i tillegg til å oppfylle kravene i regel 11, ha mønstringsstasjoner for passasjerer som skal
+
+1. være i nærheten av og gi passasjerene lett atkomst til innskipningsstasjonene, med mindre de er på samme sted, og
+2. ha rikelig plass til å samle og instruere passasjerene, men minst 0,35 m2 per passasjer.
 
 ### Regel 26 Tilleggskrav for roro-passasjerskip
 
 1
 
-Denne regelen får anvendelse på alle roro-passasjerskip. Roro-passasjerskip bygget1. juli 1998 eller senere skal oppfylle kravene i nr. 2.3, 2.4, 3.1, 3.2, 3.3, 4 og 51. juli 1986 eller senere og før 1. juli 1998 skal oppfylle kravene i nr. 5 senest på datoen for første periodiske besiktelse etter 1. juli 1998 og kravene i nr. 2.3, 2.4, 3 og 4 senest på datoen for første periodiske besiktelse etter 1. juli 2000før 1. juli 1986 skal oppfylle kravene i nr. 5 senest på datoen for første periodiske besiktelse etter 1. juli 1998 og kravene i nr. 2.1, 2.2, 2.3, 2.4, 3 og 4 senest på datoen for første periodiske besiktelse etter 1. juli 2000, ogfør 1. juli 2004 skal oppfylle kravene i nr. 2.5 senest på datoen for første besiktelse eller senere.
+Denne regelen får anvendelse på alle roro-passasjerskip. Roro-passasjerskip bygget
+
+1. 1\. juli 1998 eller senere skal oppfylle kravene i nr. 2.3, 2.4, 3.1, 3.2, 3.3, 4 og 5
+2. 1\. juli 1986 eller senere og før 1. juli 1998 skal oppfylle kravene i nr. 5 senest på datoen for første periodiske besiktelse etter 1. juli 1998 og kravene i nr. 2.3, 2.4, 3 og 4 senest på datoen for første periodiske besiktelse etter 1. juli 2000
+3. før 1. juli 1986 skal oppfylle kravene i nr. 5 senest på datoen for første periodiske besiktelse etter 1. juli 1998 og kravene i nr. 2.1, 2.2, 2.3, 2.4, 3 og 4 senest på datoen for første periodiske besiktelse etter 1. juli 2000, og
+4. før 1. juli 2004 skal oppfylle kravene i nr. 2.5 senest på datoen for første besiktelse eller senere.
 
 2
 
@@ -995,7 +1158,11 @@ Minst to besetninger for hver hurtiggående MOB-båt skal jevnlig få opplæring
 
 3.4
 
-Når arrangementet eller størrelsen til et roro-passasjerskip bygget før 1. juli 1997, er slik at det hindrer installasjonen av den hurtiggående MOB-båten som kreves etter nr. 3.1, kan den hurtiggående MOB-båten installeres i stedet for en eksisterende livbåt som er godtatt som MOB-båt eller, for skip som er bygget før 1. juli 1986, båter til bruk i en nødssituasjon, forutsatt at alle vilkårene nedenfor er oppfylt:den hurtiggående MOB-båten som er installert, betjenes av et utsettingsredskap som oppfyller bestemmelsene i nr. 3.2kapasiteten til redningsfarkosten som går tapt ved den ovennevnte utskiftingen, oppveies ved at det installeres redningsflåter som kan føre minst et tilsvarende antall personer som får plass i livbåten som skiftes ut, ogslike redningsflåter betjenes av de eksisterende utsettingsredskapene eller MES.
+Når arrangementet eller størrelsen til et roro-passasjerskip bygget før 1. juli 1997, er slik at det hindrer installasjonen av den hurtiggående MOB-båten som kreves etter nr. 3.1, kan den hurtiggående MOB-båten installeres i stedet for en eksisterende livbåt som er godtatt som MOB-båt eller, for skip som er bygget før 1. juli 1986, båter til bruk i en nødssituasjon, forutsatt at alle vilkårene nedenfor er oppfylt:
+
+1. den hurtiggående MOB-båten som er installert, betjenes av et utsettingsredskap som oppfyller bestemmelsene i nr. 3.2
+2. kapasiteten til redningsfarkosten som går tapt ved den ovennevnte utskiftingen, oppveies ved at det installeres redningsflåter som kan føre minst et tilsvarende antall personer som får plass i livbåten som skiftes ut, og
+3. slike redningsflåter betjenes av de eksisterende utsettingsredskapene eller MES.
 
 4
 
@@ -1059,7 +1226,15 @@ Alle redningsvester på roro-passasjerskip skal være utstyrt med et lys som opp
 
 2 På alle passasjerskip skal det på kommandobroen finnes et system til hjelp for skipsførerens beslutninger ved krisehåndtering.
 
-3 Systemet skal minst bestå av én eller flere trykte beredskapsplaner.33 Alle forutsigbare nødsituasjoner skal være identifisert i beredskapsplanen(e), herunder, men ikke begrenset til, følgende hovedgrupper av nødsituasjoner:brannskade på skipforurensningulovlige handlinger som truer skipets, passasjerenes og besetningens sikkerhetulykker der personell er involvertulykker i forbindelse med last, ognødassistanse til andre skip.
+3 Systemet skal minst bestå av én eller flere trykte beredskapsplaner.33 Alle forutsigbare nødsituasjoner skal være identifisert i beredskapsplanen(e), herunder, men ikke begrenset til, følgende hovedgrupper av nødsituasjoner:
+
+1. brann
+2. skade på skip
+3. forurensning
+4. ulovlige handlinger som truer skipets, passasjerenes og besetningens sikkerhet
+5. ulykker der personell er involvert
+6. ulykker i forbindelse med last, og
+7. nødassistanse til andre skip.
 
 4 Nødprosedyrene fastsatt i beredskapsplanen eller -planene skal tjene som grunnlag for skipsførernes beslutninger om håndtering av enhver kombinasjon av nødssituasjoner.
 
@@ -1094,15 +1269,26 @@ Redningsfarkost
 
 1.1
 
-Lasteskip skal føre:én eller flere helt overbygde livbåter som oppfyller kravene i avsnitt 4.6 i LSA-koden, og med en samlet kapasitet på hver side av skipet som er tilstrekkelig til å kunne gi plass til det totale antallet personer om bord, ogi tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en vekt på under 185 kg og som er stuet slik at de lett kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, og med en samlet kapasitet som er tilstrekkelig til å kunne gi plass til det totale antallet personer om bord. Hvis redningsflåten eller -flåtene ikke veier under 185 kg og ikke er stuet slik at de raskt kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, skal den samlede tilgjengelige kapasitet på hver side være tilstrekkelig til å gi plass til det totale antallet personer om bord.
+Lasteskip skal føre:
+
+1. én eller flere helt overbygde livbåter som oppfyller kravene i avsnitt 4.6 i LSA-koden, og med en samlet kapasitet på hver side av skipet som er tilstrekkelig til å kunne gi plass til det totale antallet personer om bord, og
+2. i tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, med en vekt på under 185 kg og som er stuet slik at de lett kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, og med en samlet kapasitet som er tilstrekkelig til å kunne gi plass til det totale antallet personer om bord. Hvis redningsflåten eller -flåtene ikke veier under 185 kg og ikke er stuet slik at de raskt kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, skal den samlede tilgjengelige kapasitet på hver side være tilstrekkelig til å gi plass til det totale antallet personer om bord.
 
 1.2
 
-I stedet for å oppfylle kravene i nr. 1.1 kan lasteskip føreén eller flere fritt fall-livbåter som oppfyller kravene i avsnitt 4.7 i LSA-koden, og som kan settes ut ved fritt fall over skipets akterende, med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord, ogi tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord. Redningsflåtene på minst én side av skipet skal betjenes ved utsettingsredskaper.
+I stedet for å oppfylle kravene i nr. 1.1 kan lasteskip føre
+
+1. én eller flere fritt fall-livbåter som oppfyller kravene i avsnitt 4.7 i LSA-koden, og som kan settes ut ved fritt fall over skipets akterende, med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord, og
+2. i tillegg, én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, på hver side av skipet, med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord. Redningsflåtene på minst én side av skipet skal betjenes ved utsettingsredskaper.
 
 1.3
 
-I stedet for å oppfylle kravene i nr. 1.1 eller 1.2 kan lasteskip på mindre enn 85 meter som ikke er oljetankskip, kjemikalietankskip eller gasstankskip, oppfylle følgende krav:de skal på hver side av skipet føre én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, og som har en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bordmed mindre redningsflåtene som kreves i nr. 1.3.1 har en vekt på under 185 kg og er stuet slik at de lett kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, skal det finnes ytterligere redningsflåter slik at den samlede kapasiteten som er tilgjengelig på hver side, er tilstrekkelig til å gi plass til 150 % av det totale antallet personer om bordhvis MOB-båten som kreves i henhold til nr. 2, også er en helt overbygd livbåt som oppfyller kravene i avsnitt 4.6 i LSA-koden, kan den regnes med i den samlede kapasiteten som kreves i nr. 1.3.1, forutsatt at den samlede kapasiteten som er tilgjengelig på hver side av skipet, er tilstrekkelig til å gi plass til minst 150 % av det totale antallet personer om bord, ogI tilfelle en av redningsfarkostene havarerer eller blir ubrukelig, skal det finnes tilstrekkelig med redningsfarkoster på hver side, herunder enhver farkost med en vekt på under 185 kg som er stuet slik at den lett kan flyttes fra én side av skipet til en annen på ett enkelt dekksnivå, til å gi plass til det totale antallet personer om bord.
+I stedet for å oppfylle kravene i nr. 1.1 eller 1.2 kan lasteskip på mindre enn 85 meter som ikke er oljetankskip, kjemikalietankskip eller gasstankskip, oppfylle følgende krav:
+
+1. de skal på hver side av skipet føre én eller flere oppblåsbare eller stive redningsflåter som oppfyller kravene i avsnitt 4.2 eller 4.3 i LSA-koden, og som har en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord
+2. med mindre redningsflåtene som kreves i nr. 1.3.1 har en vekt på under 185 kg og er stuet slik at de lett kan flyttes fra én side av skipet til den andre på ett enkelt åpent dekksnivå, skal det finnes ytterligere redningsflåter slik at den samlede kapasiteten som er tilgjengelig på hver side, er tilstrekkelig til å gi plass til 150 % av det totale antallet personer om bord
+3. hvis MOB-båten som kreves i henhold til nr. 2, også er en helt overbygd livbåt som oppfyller kravene i avsnitt 4.6 i LSA-koden, kan den regnes med i den samlede kapasiteten som kreves i nr. 1.3.1, forutsatt at den samlede kapasiteten som er tilgjengelig på hver side av skipet, er tilstrekkelig til å gi plass til minst 150 % av det totale antallet personer om bord, og
+4. I tilfelle en av redningsfarkostene havarerer eller blir ubrukelig, skal det finnes tilstrekkelig med redningsfarkoster på hver side, herunder enhver farkost med en vekt på under 185 kg som er stuet slik at den lett kan flyttes fra én side av skipet til en annen på ett enkelt dekksnivå, til å gi plass til det totale antallet personer om bord.
 
 1.4
 
@@ -1132,7 +1318,10 @@ Lasteskip skal føre minst én MOB-båt som oppfyller kravene i avsnitt 5.1 i LS
 
 3
 
-I tillegg til livbåtene skal alle lasteskip bygget før 1. juli 1986føre én eller flere redningsflåter som kan settes ut på begge sider av skipet, og med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord. Redningsflåten(e) skal utstyres med en surring eller et likeverdig middel til sikring av redningsflåten, som automatisk vil frigjøre den fra et synkende skip, ogføre, når den horisontale avstanden fra det ytterste punktet på forstevnen eller akterstevnen til det nærmeste punktet på den nærmeste redningsfarkosten er mer enn 100 meter, en redningsflåte i tillegg til redningsflåtene som kreves i nr. 3.1, stuet så langt forut eller akter, eller én så langt forut og en annen så langt akter, som det er rimelig og praktisk mulig. Uavhengig av kravene i nr. 3.1 kan en slik redningsflåte eller slike redningsflåter være sikkert fastgjort slik at manuell utløsning er mulig.
+I tillegg til livbåtene skal alle lasteskip bygget før 1. juli 1986
+
+1. føre én eller flere redningsflåter som kan settes ut på begge sider av skipet, og med en samlet kapasitet som er tilstrekkelig til å gi plass til det totale antallet personer om bord. Redningsflåten(e) skal utstyres med en surring eller et likeverdig middel til sikring av redningsflåten, som automatisk vil frigjøre den fra et synkende skip, og
+2. føre, når den horisontale avstanden fra det ytterste punktet på forstevnen eller akterstevnen til det nærmeste punktet på den nærmeste redningsfarkosten er mer enn 100 meter, en redningsflåte i tillegg til redningsflåtene som kreves i nr. 3.1, stuet så langt forut eller akter, eller én så langt forut og en annen så langt akter, som det er rimelig og praktisk mulig. Uavhengig av kravene i nr. 3.1 kan en slik redningsflåte eller slike redningsflåter være sikkert fastgjort slik at manuell utløsning er mulig.
 
 34 Det vises til produkter som det kreves åndedrettsbeskyttelse for i kapittel 17 i Det internasjonale regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (IBC-koden) (resolusjon MSC.4(48) med endringer) og i kapittel 19 i Det internasjonale regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (IGC-koden) (resolusjon MSC.5(48) med endringer).
 
@@ -1221,7 +1410,26 @@ Alle redningsredskaper og -arrangementer skal oppfylle relevante krav i LSA-kode
 
 2 Det skal finnes en opplæringshåndbok i samsvar med kravene i nr. 3 i alle messer og fritidsrom for besetningen, eller i hver mannskapslugar.
 
-3 Opplæringshåndboken, som kan bestå av flere bind, skal inneholde instrukser og informasjon i et lett forståelig språk, med illustrasjoner der dette er mulig, om redningsredskapene som finnes på skipet, og om de beste overlevelsesmetodene. Slike opplysninger kan gis i form av audiovisuelle hjelpemidler i stedet for en håndbok. Følgende skal forklares i detalj:hvordan man tar på en redningsvest og eventuelt redningsdrakt/beskyttelsesdraktmønstring ved tildelt mønstringsstasjonbording, utsetting og klargjøring av redningsfarkoster og MOB-båter, herunder bruk av MES der slikt finnesutsettingsmetode innenfra redningsfarkostenfrigjøring fra utsettingsredskapermetoder og bruk av innretninger til beskyttelse i utsettingsområdene, når dette er nødvendigbelysning i utsettingsområdenebruk av alt overlevelsesutstyrbruk av alt lokaliseringsutstyrved hjelp av illustrasjoner: bruk av radioredningsredskaperbruk av drivankrebruk av motor og tilbehørombordtaking av redningsfarkoster og MOB-båter, herunder stuing og sikring om bordfarer når en utsettes for vær og vind og behovet for varme klærden beste bruken av redningsfarkostens fasiliteter for å overlevebergingsmetoder, herunder bruk av helikopterredningsutstyr (stropper, kurver, bårer), redningsstoler og kystbaserte redningsredskaper og skipets linekastende apparateralle andre funksjoner som finnes i alarminstruksen og nødinstruksen, oginstrukser for nødreparasjon av redningsredskaper.
+3 Opplæringshåndboken, som kan bestå av flere bind, skal inneholde instrukser og informasjon i et lett forståelig språk, med illustrasjoner der dette er mulig, om redningsredskapene som finnes på skipet, og om de beste overlevelsesmetodene. Slike opplysninger kan gis i form av audiovisuelle hjelpemidler i stedet for en håndbok. Følgende skal forklares i detalj:
+
+1. hvordan man tar på en redningsvest og eventuelt redningsdrakt/beskyttelsesdrakt
+2. mønstring ved tildelt mønstringsstasjon
+3. bording, utsetting og klargjøring av redningsfarkoster og MOB-båter, herunder bruk av MES der slikt finnes
+4. utsettingsmetode innenfra redningsfarkosten
+5. frigjøring fra utsettingsredskaper
+6. metoder og bruk av innretninger til beskyttelse i utsettingsområdene, når dette er nødvendig
+7. belysning i utsettingsområdene
+8. bruk av alt overlevelsesutstyr
+9. bruk av alt lokaliseringsutstyr
+10. ved hjelp av illustrasjoner: bruk av radioredningsredskaper
+11. bruk av drivankre
+12. bruk av motor og tilbehør
+13. ombordtaking av redningsfarkoster og MOB-båter, herunder stuing og sikring om bord
+14. farer når en utsettes for vær og vind og behovet for varme klær
+15. den beste bruken av redningsfarkostens fasiliteter for å overleve
+16. bergingsmetoder, herunder bruk av helikopterredningsutstyr (stropper, kurver, bårer), redningsstoler og kystbaserte redningsredskaper og skipets linekastende apparater
+17. alle andre funksjoner som finnes i alarminstruksen og nødinstruksen, og
+18. instrukser for nødreparasjon av redningsredskaper.
 
 4 Alle skip som er utstyrt med et MES, skal også ha opplæringshjelpemidler med hensyn til bruken av systemet om bord.
 
@@ -1229,7 +1437,15 @@ Alle redningsredskaper og -arrangementer skal oppfylle relevante krav i LSA-kode
 
 ### Regel 36 Instrukser for vedlikehold om bord
 
-Instruksene for vedlikehold av redningsredskaper om bord skal være lette å forstå og illustrerte der dette er mulig, og skal, der det passer, omfatte følgende for hvert redningsredskap:en sjekkliste til bruk ved utførelse av inspeksjoner som kreves i regel 20 nr. 7instrukser for vedlikehold og reparasjonertidsplan for periodisk vedlikeholddiagram som viser smørepunkter med anbefalte smøremidlerliste over deler som kan skiftes utoversiktsliste for reservedeler, oglogg for registrering av inspeksjoner og vedlikehold.
+Instruksene for vedlikehold av redningsredskaper om bord skal være lette å forstå og illustrerte der dette er mulig, og skal, der det passer, omfatte følgende for hvert redningsredskap:
+
+1. en sjekkliste til bruk ved utførelse av inspeksjoner som kreves i regel 20 nr. 7
+2. instrukser for vedlikehold og reparasjoner
+3. tidsplan for periodisk vedlikehold
+4. diagram som viser smørepunkter med anbefalte smøremidler
+5. liste over deler som kan skiftes ut
+6. oversiktsliste for reservedeler, og
+7. logg for registrering av inspeksjoner og vedlikehold.
 
 ### Regel 37 Alarminstruks og nødinstrukser
 
@@ -1237,13 +1453,29 @@ Instruksene for vedlikehold av redningsredskaper om bord skal være lette å for
 
 2 Hvert passasjerskip skal ha fastsatt prosedyrer for å lokalisere og redde passasjerer som er innesperret i sine lugarer.
 
-3 Alarminstruksen skal vise hvilke plikter de forskjellige medlemmene av besetningen er pålagt, herunderlukking av vanntette dører, branndører, ventiler, spygatt, luker, skylight, lysventiler og andre liknende åpninger i skipeutrustning av redningsfarkostene og andre redningsredskaperklargjøring og utsetting av redningsfarkostengenerell klargjøring av andre redningsredskapermønstring av passasjererbruk av kommunikasjonsutstyrsammensetning av brannlag som skal bekjempe brannsærskilte plikter ved bruk av brannslokkingsutstyr og installasjoner, ogkun for passasjerskip, skadekontroll etter vanninntrenging.
+3 Alarminstruksen skal vise hvilke plikter de forskjellige medlemmene av besetningen er pålagt, herunder
+
+1. lukking av vanntette dører, branndører, ventiler, spygatt, luker, skylight, lysventiler og andre liknende åpninger i skipe
+2. utrustning av redningsfarkostene og andre redningsredskaper
+3. klargjøring og utsetting av redningsfarkosten
+4. generell klargjøring av andre redningsredskaper
+5. mønstring av passasjerer
+6. bruk av kommunikasjonsutstyr
+7. sammensetning av brannlag som skal bekjempe brann
+8. særskilte plikter ved bruk av brannslokkingsutstyr og installasjoner, og
+9. kun for passasjerskip, skadekontroll etter vanninntrenging.
 
 4 Alarminstruksen skal angi hvilke offiserer som er ansvarlige for å sikre at rednings- og brannslokkingsredskaper holdes i god stand og er klare til øyeblikkelig bruk.
 
 5 Alarminstruksen skal angi stedfortredere for nøkkelpersonell som kan bli gjort tjenesteudyktige, idet det tas hensyn til at ulike nødsituasjoner kan gjøre ulike tiltak nødvendige.
 
-6 Alarminstruksen skal vise hvilke plikter besetningsmedlemmene er pålagt i forhold til passasjerene i en nødsituasjon. Disse pliktene skal omfattevarsling av passasjereneå påse at passasjerene er passende kledd og har tatt på seg redningsvest på riktig måtsamling av passasjerene på mønstringsstasjoneneå holde orden i korridorer og trapper og ha generell kontroll med passasjerenes bevegelser, ogå sørge for at det tas med en bunke tepper til redningsfarkosten.
+6 Alarminstruksen skal vise hvilke plikter besetningsmedlemmene er pålagt i forhold til passasjerene i en nødsituasjon. Disse pliktene skal omfatte
+
+1. varsling av passasjerene
+2. å påse at passasjerene er passende kledd og har tatt på seg redningsvest på riktig måt
+3. samling av passasjerene på mønstringsstasjonene
+4. å holde orden i korridorer og trapper og ha generell kontroll med passasjerenes bevegelser, og
+5. å sørge for at det tas med en bunke tepper til redningsfarkosten.
 
 7 Alarminstruksen skal være utarbeidet før skipet forlater havn. Hvis det skjer forandringer i besetningen som gjør det nødvendig å endre alarminstruksen etter at den er utarbeidet, skal skipsføreren enten endre alarminstruksen eller utarbeide en ny.
 
@@ -1276,7 +1508,18 @@ Når den alternative utformingen eller de alternative arrangementene avviker fra
 
 Teknisk analyse
 
-Den tekniske analysen skal utarbeides og fremlegges for administrasjonen, på grunnlag av retningslinjene utarbeidet av organisasjonen37 og skal minst omfatte følgende elementer:fastsettelse av den aktuelle skipstypen, samt redningsredskapet og -arrangementeneidentifisering av forskriftsmessige krav som redningsredskapet eller -arrangementene ikke vil oppfylleidentifisering av grunnen til at den foreslåtte utformingen ikke vil oppfylle de forskriftsmessige kravene, støttet av samsvar med andre anerkjente tekniske standarder eller industristandarderfastsettelse av ytelseskriteriene for skipet og det aktuelle redningsredskapet og -arrangementene som dekkes av de(t) relevante forskriftsmessige krav:ytelseskriteriene skal gi en sikkerhetsgrad som minst er likeverdig med den som oppnås ved å bruke de relevante forskriftsmessige kravene i del B, ogytelseskriteriene skal være kvantifiserbare og målbaredetaljert beskrivelse av de alternative utformingene og arrangementene, herunder en liste med de forutsetningene som er brukt i utformingen og eventuelle foreslåtte driftsmessige begrensninger eller vilkårteknisk begrunnelse med påvisning av at den alternative utformingen og arrangementene oppfyller ytelseskriteriene for sikkerhet, ogrisikoanalyse basert på identifisering av potensielle feil og risikoer knyttet til forslaget.
+Den tekniske analysen skal utarbeides og fremlegges for administrasjonen, på grunnlag av retningslinjene utarbeidet av organisasjonen37 og skal minst omfatte følgende elementer:
+
+1. fastsettelse av den aktuelle skipstypen, samt redningsredskapet og -arrangementene
+2. identifisering av forskriftsmessige krav som redningsredskapet eller -arrangementene ikke vil oppfylle
+3. identifisering av grunnen til at den foreslåtte utformingen ikke vil oppfylle de forskriftsmessige kravene, støttet av samsvar med andre anerkjente tekniske standarder eller industristandarder
+4. fastsettelse av ytelseskriteriene for skipet og det aktuelle redningsredskapet og -arrangementene som dekkes av de(t) relevante forskriftsmessige krav:
+
+   - ytelseskriteriene skal gi en sikkerhetsgrad som minst er likeverdig med den som oppnås ved å bruke de relevante forskriftsmessige kravene i del B, og
+   - ytelseskriteriene skal være kvantifiserbare og målbare
+5. detaljert beskrivelse av de alternative utformingene og arrangementene, herunder en liste med de forutsetningene som er brukt i utformingen og eventuelle foreslåtte driftsmessige begrensninger eller vilkår
+6. teknisk begrunnelse med påvisning av at den alternative utformingen og arrangementene oppfyller ytelseskriteriene for sikkerhet, og
+7. risikoanalyse basert på identifisering av potensielle feil og risikoer knyttet til forslaget.
 
 4
 

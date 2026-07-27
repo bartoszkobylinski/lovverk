@@ -15,7 +15,7 @@ xml_hash: "038a8afcbe168a52076b82204bb66663753c3db25a7cd589655a4052af461fe5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -276,7 +276,9 @@ TRUFFET DENNE BESLUTNINGEN:
 
 ### Artikkel 1
 
-1\. Følgende konsortium utpekes herved til EU-referansesenter for dyrevelferd med ansvar for å støtte Kommisjonens og medlemsstatenes horisontale virksomhet på området krav til dyrevelferd for akvatiske dyr:Konsortium under ledelse av Universitetet på Kreta (Gallos University Campus, 741 00 Rethymno, HELLAS) og som også består av senteret for biologi ved det tsjekkiske vitenskapsakademiet, institutt for parasittologi (Branišovská 1160/31, 370 05 České Budějovice, TSJEKKIA) og Universitat Autònoma de Barcelona (Edifici A – Campus UAB, 08193 Bellaterra, Cerdanyola del Vallès, SPANIA).
+1\. Følgende konsortium utpekes herved til EU-referansesenter for dyrevelferd med ansvar for å støtte Kommisjonens og medlemsstatenes horisontale virksomhet på området krav til dyrevelferd for akvatiske dyr:
+
+Konsortium under ledelse av Universitetet på Kreta (Gallos University Campus, 741 00 Rethymno, HELLAS) og som også består av senteret for biologi ved det tsjekkiske vitenskapsakademiet, institutt for parasittologi (Branišovská 1160/31, 370 05 České Budějovice, TSJEKKIA) og Universitat Autònoma de Barcelona (Edifici A – Campus UAB, 08193 Bellaterra, Cerdanyola del Vallès, SPANIA).
 
 2\. Utpekingen nevnt i nr. 1 skal gjennomgås hvert sjuende år, regnet fra anvendelsesdatoen for denne beslutningen.
 

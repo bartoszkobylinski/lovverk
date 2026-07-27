@@ -15,7 +15,7 @@ xml_hash: "029f6ad99f6f7d0ed216300d031f69632315116b1578f60f3006699019e21da3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,26 @@ Med kollektivporteføljen menes her eiendeler som angitt i forskrift om årsregn
 
 Kapitalavkastningen skal beregnes månedlig.
 
-For hver periode beregnes kapitalavkastningsrenten ved å se på endringer i porteføljens markedsverdi justert for inn- og utbetalinger i hver periode ved bruk av Modifisert Dietz-metode som følger:Avkastning \\(\\left({r_{p}}\\right)=\\left({\\frac{P_{1}-P_{0}-\\displaystyle\\sum\\limits_{i} d_{i}}{P_{0}+{\\frac{\\displaystyle\\sum\\limits_{i} \\left(T-i\\right)\\cdot{d_{i}}}{T}}}}\\right)\\)derP0 = verdien av eiendelene i porteføljen ved periodens startP1 = verdien av eiendelene i porteføljen ved periodens slutt*T* = antall dager i periodeni = dag-nummer i periodendi = total netto inn-/utbetaling (kontantstrøm eksklusive netto inntekter fra investeringer) på dag nr. i.
+For hver periode beregnes kapitalavkastningsrenten ved å se på endringer i porteføljens markedsverdi justert for inn- og utbetalinger i hver periode ved bruk av Modifisert Dietz-metode som følger:
 
-Kvartalsvis, halvårlig og årlig beregning av avkastning fremkommer ved geometrisk sammenkobling av beregnet avkastning for delperiodene:\\(R_{P}=\\left(1+r_{p1}\\right)\\times\\left(1+r_{p2}\\right)\\times\\left(1+r_{p3}\\right)\\times....\\times\\left(1+r_{pn}\\right)-1\\)derRP = avkastning for en periode bestående av flere delperioderrpn = avkastning for delperiode *n*.
+- Avkastning \\(\\left({r_{p}}\\right)=\\left({\\frac{P_{1}-P_{0}-\\displaystyle\\sum\\limits_{i} d_{i}}{P_{0}+{\\frac{\\displaystyle\\sum\\limits_{i} \\left(T-i\\right)\\cdot{d_{i}}}{T}}}}\\right)\\)
+
+der
+
+- P0 = verdien av eiendelene i porteføljen ved periodens start
+- P1 = verdien av eiendelene i porteføljen ved periodens slutt
+- *T* = antall dager i perioden
+- i = dag-nummer i perioden
+- di = total netto inn-/utbetaling (kontantstrøm eksklusive netto inntekter fra investeringer) på dag nr. i.
+
+Kvartalsvis, halvårlig og årlig beregning av avkastning fremkommer ved geometrisk sammenkobling av beregnet avkastning for delperiodene:
+
+- \\(R_{P}=\\left(1+r_{p1}\\right)\\times\\left(1+r_{p2}\\right)\\times\\left(1+r_{p3}\\right)\\times....\\times\\left(1+r_{pn}\\right)-1\\)
+
+der
+
+- RP = avkastning for en periode bestående av flere delperioder
+- rpn = avkastning for delperiode *n*.
 
 > Endret ved forskrift [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 

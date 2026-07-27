@@ -15,7 +15,7 @@ xml_hash: "c89ea2eb09ddeed7eeb8a4d0437f6a1e9724714886d9e4e68af7c69af79731ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014L0094"
@@ -43,7 +43,10 @@ Offentlig tilgjengelige ladepunkter skal gi brukere av elektriske kjøretøy adg
 
 ## § 3. Forskrift om betalingsløsninger og tekniske krav mv.
 
-Departementet kan i forskrift gi nærmere regler ombetalingsløsninger ved lading av elektrisk drevet kjøretøykrav til informasjon på energistasjoner, på ladepunkter, på kjøretøy og hos bilforhandlere.
+Departementet kan i forskrift gi nærmere regler om
+
+1. betalingsløsninger ved lading av elektrisk drevet kjøretøy
+2. krav til informasjon på energistasjoner, på ladepunkter, på kjøretøy og hos bilforhandlere.
 
 Departementet kan også gi forskrift om tekniske spesifikasjoner til anlegg for overføring av alternativt drivstoff til kjøretøy. Med alternativt drivstoff menes drivstoff eller energikilder som helt eller delvis fungerer som en erstatning for fossile oljekilder i energiforsyningen til transport, og som potensielt kan bidra til avkarbonisering og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a. elektrisitet, hydrogen, biodrivstoff, syntetisk og parafinsk drivstoff, naturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) og flytende petroleumsgass (LPG).
 

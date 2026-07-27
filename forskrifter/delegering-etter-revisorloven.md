@@ -22,6 +22,22 @@ eu_basis: []
 
 # Delegering av myndighet til Finans- og tolldepartementet etter lov om revisjon og revisorer (revisorloven).
 
-Kongens myndighet etter følgende bestemmelser delegeres til Finansdepartementet:§ 1-1 fjerde ledd om lovens anvendelse på Svalbard.§ 11-2 om tidspunkt for ikrafttredelse.
+Kongens myndighet etter følgende bestemmelser delegeres til Finansdepartementet:
 
-«Departementet» skal i følgende bestemmelser forstås som «Finansdepartementet»:§ 3-2 fjerde ledd§ 3-3 fjerde ledd annet punktum§ 3-3 syvende ledd§ 3-5 annet ledd første punktum§ 3-6 annet ledd§ 3-7 første ledd nr. 1 og 4§ 4-2 fjerde ledd annet punktum§ 4-7 tredje ledd annet punktum§ 5-5 tredje punktum§ 10-2 første punktum§ 10-5§ 11-1 tredje ledd.
+- § 1-1 fjerde ledd om lovens anvendelse på Svalbard.
+- § 11-2 om tidspunkt for ikrafttredelse.
+
+«Departementet» skal i følgende bestemmelser forstås som «Finansdepartementet»:
+
+- § 3-2 fjerde ledd
+- § 3-3 fjerde ledd annet punktum
+- § 3-3 syvende ledd
+- § 3-5 annet ledd første punktum
+- § 3-6 annet ledd
+- § 3-7 første ledd nr. 1 og 4
+- § 4-2 fjerde ledd annet punktum
+- § 4-7 tredje ledd annet punktum
+- § 5-5 tredje punktum
+- § 10-2 første punktum
+- § 10-5
+- § 11-1 tredje ledd.

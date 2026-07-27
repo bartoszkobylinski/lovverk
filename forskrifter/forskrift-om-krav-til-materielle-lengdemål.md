@@ -15,7 +15,7 @@ xml_hash: "5ddeeefd106ed703c02b8824c7557fbb2fade7f6ff8b485b56f4983644f9898b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Materielle lengdemål:* Et måleredskap med en skalainndeling hvis mål er angitt i lovmessige lengdeenheter*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør det materielle lengdemålets normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor det materielle lengdemålets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket*Materielt mål:* En anordning som vedvarende under bruk er ment å reprodusere eller supplere én av en gitt størrelse*Klimatiske miljøer:* De omgivelser der materielle lengdemål kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med:
+
+1. *Materielle lengdemål:* Et måleredskap med en skalainndeling hvis mål er angitt i lovmessige lengdeenheter
+2. *Målestørrelsen:* Den bestemte størrelsen som skal måles
+3. *Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+4. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør det materielle lengdemålets normale driftsbetingelser
+5. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor det materielle lengdemålets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+6. *Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket
+7. *Materielt mål:* En anordning som vedvarende under bruk er ment å reprodusere eller supplere én av en gitt størrelse
+8. *Klimatiske miljøer:* De omgivelser der materielle lengdemål kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 ### § 3. Krav til materielle lengdemål
 
@@ -101,7 +110,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter materielle lengdemål som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at lengdemålet er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter materielle lengdemål som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel lengdemål montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. Vibrasjon
+2. Mekanisk sjokk.
 
 ### § 12. Elektromagnetiske miljø
 
@@ -115,9 +127,21 @@ Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskreve
 | E2 | Denne klassen omfatter materielle lengdemål som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter materielle lengdemål som får strøm fra batteriet i et kjøretøy. Slike lengdemål skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke lengdemålets nøyaktighet i vesentlig grad.
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke lengdemålets nøyaktighet i vesentlig grad.
 
 ### § 13. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -153,7 +177,12 @@ Et materielt lengdemål skal konstrueres slik at virkningen av en funksjonsfeil 
 
 ### § 20. Egnethet
 
-Et materielt lengdemål skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at lengdemålet er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av lengdemålet. Testprosedyren skal være beskrevet i bruksanvisningenUfølsomt overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom lengdemålet er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+Et materielt lengdemål skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Konstruert slik at målefunksjonen skal kunne kontrolleres etter at lengdemålet er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av lengdemålet. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsomt overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom lengdemålet er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 Et materielt lengdemål skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -171,11 +200,25 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 22. Opplysninger som skal påføres eller følge det materielle lengdemålet
 
-Et materielt lengdemål skal være påført produsentens merke eller navn og opplysninger om dets nøyaktighet. I den grad det er relevant skal følgende opplysninger også påføres lengdemålet:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+Et materielt lengdemål skal være påført produsentens merke eller navn og opplysninger om dets nøyaktighet. I den grad det er relevant skal følgende opplysninger også påføres lengdemålet:
+
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
 
 Dersom lengdemålets dimensjoner er for små eller dets konstruksjon for følsom til at de relevante opplysninger kan påføres, skal disse være påført på eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.
 
-Opplysninger om betjening skal følge det materielle lengdemålet med mindre lengdemålet er så enkelt at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserMekanisk og elektromagnetisk miljøklasseØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+Opplysninger om betjening skal følge det materielle lengdemålet med mindre lengdemålet er så enkelt at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Mekanisk og elektromagnetisk miljøklasse
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske lengdemål er det ikke nødvendig med individuelle bruksanvisninger.
 

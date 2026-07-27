@@ -24,7 +24,11 @@ eu_basis: []
 
 ## 1. Delvis ikrafttredelse av lov 22. desember 1995 nr. 82 om endringer i lovgivningen om industrielt rettsvern
 
-Følgende deler av [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern trer i kraft 1. januar 1997:avsnitt I (endringer i loven om oppfinnelser av betydning for rikets forsvar),avsnitt IV (endringer i patentloven) ogavsnitt V (endringer i mønsterloven).
+Følgende deler av [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern trer i kraft 1. januar 1997:
+
+1. avsnitt I (endringer i loven om oppfinnelser av betydning for rikets forsvar),
+2. avsnitt IV (endringer i patentloven) og
+3. avsnitt V (endringer i mønsterloven).
 
 ## 2. Overgangsregler
 

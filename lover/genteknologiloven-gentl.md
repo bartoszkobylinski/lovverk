@@ -15,7 +15,7 @@ xml_hash: "bd0038ccc9f157e0b1d18dc68c213b07c441806a3331a6a316cb3152aeba68d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32004L0035"
@@ -63,11 +63,25 @@ Kongen kan gi forskrift om meldeplikt for norske personer eller selskap som etab
 
 ### § 4. Definisjoner
 
-I denne lov menes med:mikroorganismer: enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale, herunder virus, viroider og dyre- og planteceller i kulturorganisme: enhver biologisk enhet som kan formere seg eller overføre genmateriale,genmodifisert organisme (GMO): en organisme, unntatt mennesker, der genmaterialet er endret på en måte som ikke forekommer ved naturlig formering eller naturlig rekombinasjonklonet dyr: et dyr som har likt eller tilnærmet likt arvemateriale som et annet dyrkloning av dyr: enhver teknikk for framstilling av dyr med likt eller tilnærmet likt arvemateriale.
+I denne lov menes med:
 
-Teknikker som gir opphav til en genmodifisert organisme etter første ledd bokstav c, omfatter blant annet:teknikker som innebærer rekombinasjon av nukleinsyrer, og teknikker som omfatter dannelse av nye kombinasjoner av genmateriale ved at nukleinsyremolekyler produsert på en hvilken som helst måte utenfor en organisme settes inn i et virus, bakterieplasmid eller annet vektorsystem, samt at de innføres i en vertsorganisme som de ikke naturlig forekommer i, men der de er i stand til videre formeringteknikker som innebærer direkte innføring i en organisme av arvestoff som er laget utenfor organismen, herunder mikroinjeksjon, makroinjeksjon og mikroinnkapslingcellefusjonsteknikker (herunder protoplastfusjon) eller hybridiseringsteknikker der levende celler med nye kombinasjoner av arvbart genmateriale dannes ved fusjon av to eller flere celler ved hjelp av metoder som ikke forekommer naturlig.
+1. mikroorganismer: enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale, herunder virus, viroider og dyre- og planteceller i kultur
+2. organisme: enhver biologisk enhet som kan formere seg eller overføre genmateriale,
+3. genmodifisert organisme (GMO): en organisme, unntatt mennesker, der genmaterialet er endret på en måte som ikke forekommer ved naturlig formering eller naturlig rekombinasjon
+4. klonet dyr: et dyr som har likt eller tilnærmet likt arvemateriale som et annet dyr
+5. kloning av dyr: enhver teknikk for framstilling av dyr med likt eller tilnærmet likt arvemateriale.
 
-Med mindre teknikkene innebærer bruk av rekombinerte nukleinsyremolekyler eller genmodifiserte organismer, gir følgende teknikker ikke opphav til en genmodifisert organisme etter første ledd bokstav c:befruktning in vitro,naturlige prosesser som konjugasjon, transduksjon, transformasjon,frembringing av polyploidi.
+Teknikker som gir opphav til en genmodifisert organisme etter første ledd bokstav c, omfatter blant annet:
+
+1. teknikker som innebærer rekombinasjon av nukleinsyrer, og teknikker som omfatter dannelse av nye kombinasjoner av genmateriale ved at nukleinsyremolekyler produsert på en hvilken som helst måte utenfor en organisme settes inn i et virus, bakterieplasmid eller annet vektorsystem, samt at de innføres i en vertsorganisme som de ikke naturlig forekommer i, men der de er i stand til videre formering
+2. teknikker som innebærer direkte innføring i en organisme av arvestoff som er laget utenfor organismen, herunder mikroinjeksjon, makroinjeksjon og mikroinnkapsling
+3. cellefusjonsteknikker (herunder protoplastfusjon) eller hybridiseringsteknikker der levende celler med nye kombinasjoner av arvbart genmateriale dannes ved fusjon av to eller flere celler ved hjelp av metoder som ikke forekommer naturlig.
+
+Med mindre teknikkene innebærer bruk av rekombinerte nukleinsyremolekyler eller genmodifiserte organismer, gir følgende teknikker ikke opphav til en genmodifisert organisme etter første ledd bokstav c:
+
+1. befruktning in vitro,
+2. naturlige prosesser som konjugasjon, transduksjon, transformasjon,
+3. frembringing av polyploidi.
 
 > Endret ved lover [7 mai 2004 nr. 22](lov/2004-05-07-22) (ikr. 1 juli 2004 iflg. [res. 7 mai 2004 nr. 724](forskrift/2004-05-07-724)), [20 juni 2025 nr. 89](lov/2025-06-20-89) (i kraft 1 okt 2025 iflg. [res. 20 juni 2025 nr. 1126](forskrift/2025-06-20-1126)).
 
@@ -95,7 +109,11 @@ Kongen kan ved forskrift gjøre unntak fra regler i denne bestemmelsen for nærm
 
 Innesluttet bruk av genmodifiserte organismer skal meldes eller godkjennes i samsvar med forskrift gitt av Kongen. Det kan i forskriften gjøres unntak for nærmere bestemte former for undervisningsvirksomhet.
 
-Uansett forskrift etter første ledd, kreves det godkjenning for følgende former for innesluttet bruk:genmodifisering av virveldyr som innebærer arvelige endringer med mindre det gjelder forsøk som er godkjent etter [dyrevelferdsloven § 13](lov/2009-06-19-97/§13)overføring av humant genmateriale til dyr, planter eller mikroorganismer, som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjonerframstilling og bruk av genmodifiserte organismer for omsetning eller annen utnytting i næring.
+Uansett forskrift etter første ledd, kreves det godkjenning for følgende former for innesluttet bruk:
+
+1. genmodifisering av virveldyr som innebærer arvelige endringer med mindre det gjelder forsøk som er godkjent etter [dyrevelferdsloven § 13](lov/2009-06-19-97/§13)
+2. overføring av humant genmateriale til dyr, planter eller mikroorganismer, som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjoner
+3. framstilling og bruk av genmodifiserte organismer for omsetning eller annen utnytting i næring.
 
 Kongen kan i forskrift bestemme at produksjon som nevnt i bokstav c for bestemte typer eller mengder av genmodifiserte organismer i stedet skal være meldepliktig.
 
@@ -115,7 +133,17 @@ Kongen kan kreve at den som søker om godkjenning av innesluttet bruk, skal sør
 
 Med utsetting forstås enhver framstilling og bruk av genmodifiserte organismer som ikke regnes som innesluttet bruk etter [§ 5](lov/1993-04-02-38/§5).
 
-Som en utsetting etter loven regnes bl.a.:utsetting av genmodifiserte organismer i forskningsøyemed (feltforsøk)utsetting av genmodifiserte organismer i næringsøyemed, til opprenskningsformål, o.l.bruk av genmodifiserte organismer i veksthus, akvakulturinnretning, dyrestaller o.l., med mindre slike er godkjent for innesluttet bruk som en del av et godkjent laboratorium eller annet anleggrutineutslipp av genmodifiserte organismer fra innesluttet brukdeponering av avfall som inneholder levende genmodifiserte organismeromsetning av et produkt som består av eller som inneholder genmodifiserte organismerimport av genmodifiserte organismertransport av genmodifiserte organismereksport.
+Som en utsetting etter loven regnes bl.a.:
+
+1. utsetting av genmodifiserte organismer i forskningsøyemed (feltforsøk)
+2. utsetting av genmodifiserte organismer i næringsøyemed, til opprenskningsformål, o.l.
+3. bruk av genmodifiserte organismer i veksthus, akvakulturinnretning, dyrestaller o.l., med mindre slike er godkjent for innesluttet bruk som en del av et godkjent laboratorium eller annet anlegg
+4. rutineutslipp av genmodifiserte organismer fra innesluttet bruk
+5. deponering av avfall som inneholder levende genmodifiserte organismer
+6. omsetning av et produkt som består av eller som inneholder genmodifiserte organismer
+7. import av genmodifiserte organismer
+8. transport av genmodifiserte organismer
+9. eksport.
 
 > Endret ved [lover 23 feb 1996 nr. 8](lov/1996-02-23-8), [17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006).
 
@@ -149,7 +177,11 @@ Søknad om godkjenning av en utsetting etter [§ 10](lov/1993-04-02-38/§10) ska
 
 Kongen kan i tillegg til konsekvensutredningen kreve ytterligere opplysninger og undersøkelser før søknaden avgjøres.
 
-Søknad om utsetting som nevnt i [§ 9 annet ledd bokstav a](lov/1993-04-02-38/§9/ledd/2/bokstav/a) skal inneholdevurdering av miljørelaterte helsekonsekvenservurdering av relevante miljøaspekter slik som spredningspotensialet ogrisikohåndteringstiltak for å begrense helse- og miljøskade fra utsettingen
+Søknad om utsetting som nevnt i [§ 9 annet ledd bokstav a](lov/1993-04-02-38/§9/ledd/2/bokstav/a) skal inneholde
+
+1. vurdering av miljørelaterte helsekonsekvenser
+2. vurdering av relevante miljøaspekter slik som spredningspotensialet og
+3. risikohåndteringstiltak for å begrense helse- og miljøskade fra utsettingen
 
 Godkjenningsmyndigheten kan gjøre helt eller delvis unntak fra kravene til konsekvensutredning når det er i overensstemmelse med anbefalinger fra Vitenskapskomiteen for mat og miljø og Den europeiske myndighet for næringsmiddeltrygghet.
 
@@ -195,9 +227,19 @@ Kongen kan i forskrift fastsette nærmere krav til virksomheten, krav til innhol
 
 [Offentleglova](lov/2006-05-19-16) gjelder for saker som behandles etter denne loven. Selv om opplysninger ellers skal være offentlige etter andre og tredje ledd, gjelder unntakene i [offentleglova §§ 20](lov/2006-05-19-16/§20) og [21](lov/2006-05-19-16/§21).
 
-I saker om innesluttet bruk skal, uten hinder av taushetsplikt, følgende opplysninger alltid være offentlige:beskrivelse av den genmodifiserte organismen, brukerens navn og adresse, formålet med bruken og bruksstedetmetoder og planer for overvåking og beredskapvurderinger av hvilke virkninger som kan forutses.
+I saker om innesluttet bruk skal, uten hinder av taushetsplikt, følgende opplysninger alltid være offentlige:
 
-I saker om utsetting skal opplysningene alltid være offentlige. Etter anmodning fra søkeren kan følgende opplysninger unntas fra innsyn hvis det dokumenteres at innsyn kan skade søkers interesser vesentlig:opplysninger om fremstillings- eller produksjonsprosessen, unntatt opplysninger som er relevante for sikkerhetsvurderingenopplysninger om kommersielle forbindelser mellom en produsent eller importør og søkeren eller innehaveren av godkjenningenopplysninger som viser søkerens anskaffelser, markedsandeler eller forretningsstrategieropplysninger om DNA-sekvenser, unntatt sekvenser som brukes til å påvise, identifisere og kvantifisere transformasjonshendelsen (genmodifiseringshendelsen)opplysninger om avlsmønstre og avlsstrategier.
+1. beskrivelse av den genmodifiserte organismen, brukerens navn og adresse, formålet med bruken og bruksstedet
+2. metoder og planer for overvåking og beredskap
+3. vurderinger av hvilke virkninger som kan forutses.
+
+I saker om utsetting skal opplysningene alltid være offentlige. Etter anmodning fra søkeren kan følgende opplysninger unntas fra innsyn hvis det dokumenteres at innsyn kan skade søkers interesser vesentlig:
+
+1. opplysninger om fremstillings- eller produksjonsprosessen, unntatt opplysninger som er relevante for sikkerhetsvurderingen
+2. opplysninger om kommersielle forbindelser mellom en produsent eller importør og søkeren eller innehaveren av godkjenningen
+3. opplysninger som viser søkerens anskaffelser, markedsandeler eller forretningsstrategier
+4. opplysninger om DNA-sekvenser, unntatt sekvenser som brukes til å påvise, identifisere og kvantifisere transformasjonshendelsen (genmodifiseringshendelsen)
+5. opplysninger om avlsmønstre og avlsstrategier.
 
 Tredje ledd andre punktum gjelder ikke risikovurderinger eller opplysninger som inngår i konklusjonene til relevante vitenskapelige utvalg eller i konklusjonene i vurderingsrapportene, og som gjelder påregnelige virkninger for menneskers helse, dyrehelse eller miljøet. Tredje ledd andre punktum gjelder heller ikke dersom hastetiltak er nødvendige for å beskytte menneskers eller dyrs helse eller miljøet, for eksempel i nødssituasjoner. Departementet kan gi forskrift om at også andre opplysninger kan unntas fra innsyn i saker om utsetting.
 
@@ -223,7 +265,11 @@ I en godkjenning etter [§§ 6](lov/1993-04-02-38/§6) annet ledd, [7](lov/1993-
 
 ### § 16. Endring og tilbakekall av en godkjenning
 
-Vilkårene for en godkjenning kan endres av Kongen, og om nødvendig kan godkjenningen kalles tilbake dersom:det viser seg at den aktuelle bruk medfører større risiko for helse eller miljø enn forutsatt da bruken ble godkjent, ellerny teknologi gjør det mulig å minske risikoen for helse- eller miljømessige skadevirkninger, ellerdet for øvrig følger av ellers gjeldende omgjøringsregler.
+Vilkårene for en godkjenning kan endres av Kongen, og om nødvendig kan godkjenningen kalles tilbake dersom:
+
+1. det viser seg at den aktuelle bruk medfører større risiko for helse eller miljø enn forutsatt da bruken ble godkjent, eller
+2. ny teknologi gjør det mulig å minske risikoen for helse- eller miljømessige skadevirkninger, eller
+3. det for øvrig følger av ellers gjeldende omgjøringsregler.
 
 ### § 17. Tilsyn og internkontroll
 

@@ -30,7 +30,14 @@ Tilsvarende gjelder for godkjente revisjonsselskaper etter [revisorloven § 3-5]
 
 ## § 2.
 
-For utarbeidelse av årsregnskap etter denne forskrift gjelder:[Regnskapsførerloven § 2](lov/1993-06-18-109/§2) annet ledd og [regnskapsførerforskriften § 3-1](forskrift/1999-02-08-196/§3-1) annet og tredje ledd[Regnskapsførerloven § 3](lov/1993-06-18-109/§3) og [regnskapsførerforskriften § 3-2](forskrift/1999-02-08-196/§3-2)[Regnskapsførerloven § 9](lov/1993-06-18-109/§9)[Regnskapsførerloven § 10](lov/1993-06-18-109/§10)[Regnskapsførerloven § 12](lov/1993-06-18-109/§12)[Regnskapsførerloven § 14](lov/1993-06-18-109/§14).
+For utarbeidelse av årsregnskap etter denne forskrift gjelder:
+
+1. [Regnskapsførerloven § 2](lov/1993-06-18-109/§2) annet ledd og [regnskapsførerforskriften § 3-1](forskrift/1999-02-08-196/§3-1) annet og tredje ledd
+2. [Regnskapsførerloven § 3](lov/1993-06-18-109/§3) og [regnskapsførerforskriften § 3-2](forskrift/1999-02-08-196/§3-2)
+3. [Regnskapsførerloven § 9](lov/1993-06-18-109/§9)
+4. [Regnskapsførerloven § 10](lov/1993-06-18-109/§10)
+5. [Regnskapsførerloven § 12](lov/1993-06-18-109/§12)
+6. [Regnskapsførerloven § 14](lov/1993-06-18-109/§14).
 
 ## § 3.
 

@@ -15,7 +15,7 @@ xml_hash: "09dc2d948c6ba5ed8242f7fe89e00372d879fe45b9e983512184c81ac7200d93"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,9 @@ Med medisinsk invaliditet forstår vi den fysiske og/eller psykiske funksjonsned
 | 9 | Betydelig større skadefølger enn |  |
 |  | ved invaliditetsgrad på 100% | 75% av grunnbeløpet |
 
-2\. Har en person tidligere fått utbetalt menerstatning ved yrkesskade som et engangsbeløp, og det inntreffer en ny yrkesskade, utgjør ny årlig menerstatning forskjellen mellom den prosent av grunnbeløpet som samlet invaliditet etter [§ 2](forskrift/1997-04-21-373/§2) nr. 3 i denne forskriften tilsier og den prosent av grunnbeløpet som tidligere er innvilget.Bestemmelsen i første ledd gjelder tilsvarende dersom skadefølgene etter en yrkesskade forverres, og den skadde får rett til høyere menerstatning, se [folketrygdloven § 21-6](lov/1997-02-28-19/§21-6) om endrede forhold.
+2\. Har en person tidligere fått utbetalt menerstatning ved yrkesskade som et engangsbeløp, og det inntreffer en ny yrkesskade, utgjør ny årlig menerstatning forskjellen mellom den prosent av grunnbeløpet som samlet invaliditet etter [§ 2](forskrift/1997-04-21-373/§2) nr. 3 i denne forskriften tilsier og den prosent av grunnbeløpet som tidligere er innvilget.
+
+Bestemmelsen i første ledd gjelder tilsvarende dersom skadefølgene etter en yrkesskade forverres, og den skadde får rett til høyere menerstatning, se [folketrygdloven § 21-6](lov/1997-02-28-19/§21-6) om endrede forhold.
 
 3\. Erstatningsberegningen i nr. 1 og 2 i denne paragrafen kan fravikes dersom individuelle forhold fører til at en skadefølge er vesentlig mer byrdefull enn ved et normaltilfelle. Det kan da gis erstatning en eller to grupper høyere enn den medisinske invaliditeten tilsier.
 
@@ -72,7 +74,9 @@ Med medisinsk invaliditet forstår vi den fysiske og/eller psykiske funksjonsned
 
 3\. Dersom den yrkesskadde ønsker å få kapitalverdien av menerstatningen utbetalt som et engangsbeløp, se [folketrygdloven § 13-17](lov/1997-02-28-19/§13-17) fjerde ledd, fastsettes beløpet etter forskrift om kapitalverdier, se [folketrygdloven § 25-15](lov/1997-02-28-19/§25-15) andre ledd. Engangsbeløpet må omfatte hele menerstatningen som den skadde har rett til regnet fra virkningstidspunktet.
 
-4\. Dersom en yrkesskadd som har fått utbetalt menerstatning i løpende terminer senere ønsker å få utbetalt engangsbeløp, går utbetalte terminbeløp til fradrag i engangsbeløpet.Den som har fått menerstatning utbetalt som et engangsbeløp, kan ikke senere få endret utbetalingen til løpende terminer.
+4\. Dersom en yrkesskadd som har fått utbetalt menerstatning i løpende terminer senere ønsker å få utbetalt engangsbeløp, går utbetalte terminbeløp til fradrag i engangsbeløpet.
+
+Den som har fått menerstatning utbetalt som et engangsbeløp, kan ikke senere få endret utbetalingen til løpende terminer.
 
 5\. Det kan ikke innvilges menerstatning dersom den yrkesskadde dør før varig medisinsk invaliditet kan fastsettes, se [§ 2](forskrift/1997-04-21-373/§2) nr. 1 i denne forskriften. Dør den yrkesskadde før et vedtak om menerstatning iverksettes, skal erstatningen bare omfatte terminer fram til og med dødsmåneden.
 
@@ -696,7 +700,15 @@ Tabellen angir skadefølger og medisinsk invaliditet i prosent (invaliditetsgrad
 
 Ved bilaterale amputasjoner på hendene/fingrene anvendes ren addisjon – ikke kumulativ. Det skal da ikke gjøres fradrag for skade på ikke beste hånd.
 
-I tabellen nedenfor betyr:1 = tap av hele tommelfingeren uten tap av mellomhåndsbenet2 = tap av hele pekefingeren med eller uten tap av mellomhåndsbenet3 = tap av hele langfingeren med eller uten tap av mellomhåndsbenet4 = tap av hele ringfingeren med eller uten tap av mellomhåndsbenet5 = tap av hele lillefingeren med eller uten tap av mellomhåndsbenetym = tap av ytter- og mellomfalangy = tap av ytterfalang
+I tabellen nedenfor betyr:
+
+- 1 = tap av hele tommelfingeren uten tap av mellomhåndsbenet
+- 2 = tap av hele pekefingeren med eller uten tap av mellomhåndsbenet
+- 3 = tap av hele langfingeren med eller uten tap av mellomhåndsbenet
+- 4 = tap av hele ringfingeren med eller uten tap av mellomhåndsbenet
+- 5 = tap av hele lillefingeren med eller uten tap av mellomhåndsbenet
+- ym = tap av ytter- og mellomfalang
+- y = tap av ytterfalang
 
 **Tap av/på en finger, se del II punkt 3.1.**
 

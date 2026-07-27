@@ -15,7 +15,7 @@ xml_hash: "29f12771e2d0de9296c51d40adb297714c8c6569c3a821bb862da6ddefad1f8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,13 @@ Petroleumstilsynet skal ved eget tilsyn, og i samarbeid med andre myndigheter, k
 
 Petroleumstilsynet skal med utgangspunkt i det integrerte regelverket for helse, miljø og sikkerhet i petroleumsvirksomheten på norsk kontinentalsokkel og gjeldende landregelverk, koordinere utarbeidelse og vedlikehold av et helhetlig regelverk for helse, miljø og sikkerhet i petroleumsvirksomheten på norsk kontinentalsokkel og for den samlede virksomheten på de nevnte landanleggene Kårstø, Kollsnes, Sture, Tjeldbergodden, Mongstad, Melkøya og Slagentangen, samt eventuelle fremtidige integrerte anlegg eller andre anlegg av slik type som departementet senere bestemmer.
 
-Koordineringsordningen omfatter saksområder som krever samhandling på myndighetssiden, somKoordinering av behandling av tillatelser, samtykker, godkjenninger og andre vedtak slik som pålegg, unntak med mer, samt klager på vedtak.Samordning av innsending og innhenting av dokumentasjon.Samordning av oppfølging som måtte oppstå i særlige situasjoner, herunder fare- og ulykkessituasjoner.Samordning av oppfølging overfor virksomhetene, herunder planlegging, gjennomføring og rapportering, samt informasjons- og møteaktivitet.Samordning av regelverksutvikling, herunder implementering av EU-regler.
+Koordineringsordningen omfatter saksområder som krever samhandling på myndighetssiden, som
+
+- Koordinering av behandling av tillatelser, samtykker, godkjenninger og andre vedtak slik som pålegg, unntak med mer, samt klager på vedtak.
+- Samordning av innsending og innhenting av dokumentasjon.
+- Samordning av oppfølging som måtte oppstå i særlige situasjoner, herunder fare- og ulykkessituasjoner.
+- Samordning av oppfølging overfor virksomhetene, herunder planlegging, gjennomføring og rapportering, samt informasjons- og møteaktivitet.
+- Samordning av regelverksutvikling, herunder implementering av EU-regler.
 
 En viktig del av sikkerheten i petroleumsvirksomheten er de forebyggende sikkerhetstiltakene og den beredskapen som etableres for å forebygge fare- og ulykkessituasjoner som kan medføre tap av liv eller personskade, forurensning eller stor materiell skade, herunder økonomiske verdier og driftstilgjengelighet, samt begrense omfanget av inntrådte ulykker. Koordineringsordningen omfatter derfor tilsynet på beredskapsområdet.
 
@@ -52,11 +58,23 @@ For å bedre sikkerheten i petroleumsvirksomheten på sokkelen, og i virksomhet 
 
 Koordineringsordningen for virksomheten på kontinentalsokkelen omfatter fire myndigheter med selvstendig myndighet. Disse er Petroleumstilsynet, Statens forurensningstilsyn, helsemyndighetene og Statens strålevern. I tillegg er det inngått avtale med Fiskeridepartementet når det gjelder vedtak etter havne- og farvannsloven.
 
-For virksomheten på land vil ordningen i tillegg til Petroleumstilsynet, Statens forurensningstilsyn, helsemyndighetene og Statens strålevern, også omfattePost- og teletilsynetKystdirektoratetNæringslivets sikkerhetsorganisasjon.
+For virksomheten på land vil ordningen i tillegg til Petroleumstilsynet, Statens forurensningstilsyn, helsemyndighetene og Statens strålevern, også omfatte
+
+- Post- og teletilsynet
+- Kystdirektoratet
+- Næringslivets sikkerhetsorganisasjon.
 
 Petroleumstilsynet skal videre etablere hensiktsmessige samarbeidsrelasjoner med kommunale og fylkeskommunale myndigheter
 
-I tilsynet kan Petroleumstilsynet trekke på sakkyndig bistand fra andre offentlige etater, institusjoner og selskaper som har særskilt kompetanse, i samsvar med inngåtte samarbeids- og bistandsavtaler. Det er inngått avtaler mellom Oljedirektoratet og følgende myndigheter:SjøfartsdirektoratetLuftfartstilsynetDirektoratet for samfunnssikkerhet og beredskapKystdirektoratetDet norske meteorologiske instituttArbeidstilsynetTelenor nett AS.
+I tilsynet kan Petroleumstilsynet trekke på sakkyndig bistand fra andre offentlige etater, institusjoner og selskaper som har særskilt kompetanse, i samsvar med inngåtte samarbeids- og bistandsavtaler. Det er inngått avtaler mellom Oljedirektoratet og følgende myndigheter:
+
+- Sjøfartsdirektoratet
+- Luftfartstilsynet
+- Direktoratet for samfunnssikkerhet og beredskap
+- Kystdirektoratet
+- Det norske meteorologiske institutt
+- Arbeidstilsynet
+- Telenor nett AS.
 
 Avtalene blir videreført av Petroleumstilsynet.
 

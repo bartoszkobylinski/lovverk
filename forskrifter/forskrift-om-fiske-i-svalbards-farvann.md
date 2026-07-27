@@ -15,7 +15,7 @@ xml_hash: "25dd93cacf01fb3f05c0c61464ab6f025241a2640b6510f0e4bf4c3d90f0ae71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,26 @@ eu_basis: []
 
 ## § 1. Reguleringsfullmakter.
 
-Fiskeridepartementet gis fullmakt til å fastsette:Forbud mot å drive fiske i nærmere bestemte områder for å beskytte oppveksten av ungfisk og sikre rekruttering til bestandene.Forbudet gjelder hele året eller deler av året.Bestemmelser om redskapsreguleringer og minstemål for fisk.Største årlige tillatte fangstmengde og fiskeinnsats for hvert enkelt fiskeslag.
+Fiskeridepartementet gis fullmakt til å fastsette:
 
-Fangstmengden og fiskeinnsatsen kan på hensiktsmessig måte fordeles over året, og på land som kan delta i fisket.Bestemmelser om registrering og andre vilkår for å delta i fisket.Bestemmelser om maskevidde, dimensjoner og utforming av fiskeredskaper.Bestemmelser om tillatt bifangst.Forbud mot eller regulering av fangstmåter og bruk av redskaper.Forbud mot en bestemt anvendelse av fangsten.Forbud mot å ha bestemte redskaper om bord og oppbevaring av fiskeredskaper som ikke kan nyttes i det område fartøyet befinner seg.Bestemmelser om plikt til å ha og anvende bestemt utstyr for kontroll, rapportering og posisjonsbestemmelse. Departementet kan bestemme i hvilken utstrekning fartøy skal dekke kostnadene ved anskaffelse, installasjon og bruk av slikt utstyr.Bestemmelser om oppgaveplikt og rapporteringsplikt vedrørende fangstkvantum, fiskeslag, fangsttid, fangstområde, fiskeredskap o.l.Bestemmelser om gjennomføring av kontroll, herunder plikter for fartøyets fører/eier.Bestemmelser om rapporteringsplikt vedrørende omlasting, landing, transport, oppbevaring og ved kontroll av omsetning av fisk.
+1. Forbud mot å drive fiske i nærmere bestemte områder for å beskytte oppveksten av ungfisk og sikre rekruttering til bestandene.
+
+   Forbudet gjelder hele året eller deler av året.
+2. Bestemmelser om redskapsreguleringer og minstemål for fisk.
+3. Største årlige tillatte fangstmengde og fiskeinnsats for hvert enkelt fiskeslag.
+
+Fangstmengden og fiskeinnsatsen kan på hensiktsmessig måte fordeles over året, og på land som kan delta i fisket.
+
+1. Bestemmelser om registrering og andre vilkår for å delta i fisket.
+2. Bestemmelser om maskevidde, dimensjoner og utforming av fiskeredskaper.
+3. Bestemmelser om tillatt bifangst.
+4. Forbud mot eller regulering av fangstmåter og bruk av redskaper.
+5. Forbud mot en bestemt anvendelse av fangsten.
+6. Forbud mot å ha bestemte redskaper om bord og oppbevaring av fiskeredskaper som ikke kan nyttes i det område fartøyet befinner seg.
+7. Bestemmelser om plikt til å ha og anvende bestemt utstyr for kontroll, rapportering og posisjonsbestemmelse. Departementet kan bestemme i hvilken utstrekning fartøy skal dekke kostnadene ved anskaffelse, installasjon og bruk av slikt utstyr.
+8. Bestemmelser om oppgaveplikt og rapporteringsplikt vedrørende fangstkvantum, fiskeslag, fangsttid, fangstområde, fiskeredskap o.l.
+9. Bestemmelser om gjennomføring av kontroll, herunder plikter for fartøyets fører/eier.
+10. Bestemmelser om rapporteringsplikt vedrørende omlasting, landing, transport, oppbevaring og ved kontroll av omsetning av fisk.
 
 > Endret ved [forskrifter 16 sep 1994 nr. 875](forskrift/1994-09-16-875), [19 juli 1996 nr. 705](forskrift/1996-07-19-705), [2 mars 2001 nr. 226](forskrift/2001-03-02-226), [4 mars 2005 nr. 198](forskrift/2005-03-04-198), [6 juni 2008 nr. 552](forskrift/2008-06-06-552).
 

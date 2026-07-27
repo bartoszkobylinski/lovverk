@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder for bemannet luftfartøy som ikke reguleres av det felleseuropeiske regelverket for luftfartøy gjennomtypesertifikat utstedt eller validert av EASASpecific Airworthiness Specification utstedt av EASAflygetillatelse (permit to fly) utstedt etter det felleseuropeiske regelverket.
+Forskriften gjelder for bemannet luftfartøy som ikke reguleres av det felleseuropeiske regelverket for luftfartøy gjennom
+
+1. typesertifikat utstedt eller validert av EASA
+2. Specific Airworthiness Specification utstedt av EASA
+3. flygetillatelse (permit to fly) utstedt etter det felleseuropeiske regelverket.
 
 Forskriften gjelder for amatørbygd luftfartøy som har vært luftdyktig.
 
@@ -34,7 +38,17 @@ Forskriften gjelder ikke for mikrofly og luftfartøy som kun brukes til statsluf
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:*luftfartøy i normalklassen:* luftfartøy som oppfyller kravene i et typesertifikat og som har en typesertifikatholder.*luftfartøy i eksperimental-klassen:* luftfartøy som ikke har et gyldig typesertifikat, eller som fraviker kravene i et typesertifikat, eller ikke oppfyller kravene i et typesertifikat.*typesertifikat:* dokument utstedt av en stat eller luftfartsmyndighet som definerer konstruksjonen av en luftfartøytype, motor eller propell.*luftdyktighetsbevis:* fellesbetegnelse for luftdyktighetsbevis og særskilt luftdyktighetsbevis.*luftdyktighetspåbud:* påbud utstedt av typeansvarlig land (state of design) eller Luftfartstilsynet, om tiltak som må utføres på allerede godkjent luftfartøy, deler og komponenter for å opprettholde luftdyktighet.*N-ARC:* nasjonal ARC (Airworthiness Review Certificate).*N-Part-145:* Part-145 som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal Part-145.*N-CAMO:* CAMO (Continuing Airworthiness Management Organisation) som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal CAMO.*N-CAO:* CAO som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal CAO.
+I denne forskrift forstås med:
+
+1. *luftfartøy i normalklassen:* luftfartøy som oppfyller kravene i et typesertifikat og som har en typesertifikatholder.
+2. *luftfartøy i eksperimental-klassen:* luftfartøy som ikke har et gyldig typesertifikat, eller som fraviker kravene i et typesertifikat, eller ikke oppfyller kravene i et typesertifikat.
+3. *typesertifikat:* dokument utstedt av en stat eller luftfartsmyndighet som definerer konstruksjonen av en luftfartøytype, motor eller propell.
+4. *luftdyktighetsbevis:* fellesbetegnelse for luftdyktighetsbevis og særskilt luftdyktighetsbevis.
+5. *luftdyktighetspåbud:* påbud utstedt av typeansvarlig land (state of design) eller Luftfartstilsynet, om tiltak som må utføres på allerede godkjent luftfartøy, deler og komponenter for å opprettholde luftdyktighet.
+6. *N-ARC:* nasjonal ARC (Airworthiness Review Certificate).
+7. *N-Part-145:* Part-145 som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal Part-145.
+8. *N-CAMO:* CAMO (Continuing Airworthiness Management Organisation) som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal CAMO.
+9. *N-CAO:* CAO som har avgitt selverklæring etter [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy](forskrift/2021-06-25-2247), nasjonal CAO.
 
 ## Kapittel 2. Søknad om luftdyktighetsbevis
 
@@ -44,7 +58,16 @@ Enhver har rett til å be om en forhåndskonferanse for å få en vurdering av o
 
 ### § 4. Søknad
 
-Søknad om luftdyktighetsbevis for luftfartøy skal være på skjema som Luftfartstilsynet har publisert, og må ha vedlagt:beskrivelse av luftfartøyets opprinnelse og dokumentasjon for brukshistorikkliste over teknisk og operativ statusplan for å oppnå luftdyktighetflygehåndboktidligere luftdyktighetsbevis eller eksportluftdyktighetsbevis dersom luftfartøyet er importert og slikt bevis er utstedt av eksportlandetkonstruksjons- og produksjonsattest dersom luftfartøyet er en replikabyggejournal eller annen dokumentasjon for byggeprosess dersom luftfartøyet er amatørbyggetvedlikeholdsrapport.
+Søknad om luftdyktighetsbevis for luftfartøy skal være på skjema som Luftfartstilsynet har publisert, og må ha vedlagt:
+
+1. beskrivelse av luftfartøyets opprinnelse og dokumentasjon for brukshistorikk
+2. liste over teknisk og operativ status
+3. plan for å oppnå luftdyktighet
+4. flygehåndbok
+5. tidligere luftdyktighetsbevis eller eksportluftdyktighetsbevis dersom luftfartøyet er importert og slikt bevis er utstedt av eksportlandet
+6. konstruksjons- og produksjonsattest dersom luftfartøyet er en replika
+7. byggejournal eller annen dokumentasjon for byggeprosess dersom luftfartøyet er amatørbygget
+8. vedlikeholdsrapport.
 
 Med replika menes en kopi av en luftfartøytype med opprinnelig design fra før 1. januar 1955, hvor produksjonen av luftfartøytypen opphørte før 1. januar 1975, og den strukturelle designen er lik den opprinnelige. Dersom det ikke er mulig å fremskaffe konstruksjons- og produksjonsattest, kan annen relevant dokumentasjon vedlegges.
 
@@ -56,7 +79,10 @@ Søknader og dokumentasjon som skal fremlegges for Luftfartstilsynet må være p
 
 ### § 6. Vedlikeholdsrapport
 
-Vedlikeholdsrapport som bekrefter luftdyktighet kan utstedes avN-Part-145, N-CAO eller Part-66 flytekniker, ellergodkjent vedlikeholdsordning for luftfartøyet, jf. [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy § 8](forskrift/2021-06-25-2247/§8) og [§ 19](forskrift/2021-06-25-2247/§19) første ledd bokstav c.
+Vedlikeholdsrapport som bekrefter luftdyktighet kan utstedes av
+
+1. N-Part-145, N-CAO eller Part-66 flytekniker, eller
+2. godkjent vedlikeholdsordning for luftfartøyet, jf. [forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy § 8](forskrift/2021-06-25-2247/§8) og [§ 19](forskrift/2021-06-25-2247/§19) første ledd bokstav c.
 
 En vedlikeholdsrapport må ikke være utstedt mer enn 30 dager før søknadstidspunktet.
 
@@ -104,7 +130,13 @@ For luftfartøy som er teknisk luftdyktig, kan det søkes om særskilt flygetill
 
 Særskilt flygetillatelse gjelder kun for én eller flere bestemte flyginger, med nødvendige mellomlandinger, og kun i norsk luftrom. Luftfartøyet må være registrert i Norges luftfartøyregister og være forsikret etter [luftfartsloven § 11-2](lov/1993-06-11-101/§11-2). Det må foreligge attest i teknisk journal for at luftfartøyet har luftdyktighet for den aktuelle flygingen.
 
-Søknaden må inneholdebeskrivelse av flygeplantidsperiode for når tillatelsen skal benyttesredegjørelse for årsaken til at tillatelse til enkeltflyging er nødvendigredegjørelse for kompenserende tiltak for å sikre luftdyktighet for den aktuelle flygingeninformasjon om operative begrensninger.
+Søknaden må inneholde
+
+1. beskrivelse av flygeplan
+2. tidsperiode for når tillatelsen skal benyttes
+3. redegjørelse for årsaken til at tillatelse til enkeltflyging er nødvendig
+4. redegjørelse for kompenserende tiltak for å sikre luftdyktighet for den aktuelle flygingen
+5. informasjon om operative begrensninger.
 
 ## Kapittel 3. Krav til luftfartøy, komponenter, deler og utstyr
 
@@ -134,7 +166,13 @@ I et luftfartøy skal luftfartøy, motor, propell og gangtidskomponenter være i
 
 ### § 21. Flygehåndbok
 
-Det skal foreligge en oppdatert flygehåndbok som beskriver luftfartøyetstekniske og operative prosedyrer, inkludert sjekklisterbegrensningermerking og skilterinstrumenter og utstyroperasjonsparametere.
+Det skal foreligge en oppdatert flygehåndbok som beskriver luftfartøyets
+
+1. tekniske og operative prosedyrer, inkludert sjekklister
+2. begrensninger
+3. merking og skilter
+4. instrumenter og utstyr
+5. operasjonsparametere.
 
 ### § 22. Vekt og balanse
 
@@ -142,7 +180,11 @@ Maksimal avgangsmasse (MTOM) for et luftfartøy må ikke overstige verdien oppgi
 
 ### § 23. Merking og skilt
 
-Luftfartøyet skal ha merking og skilt i samsvar med flygehåndboken. Luftfartøy med nødfallskjerm skal merkes på halepartiet og i området der nødfallskjermen er plassert. I tillegg skalalle håndtak eller låser for åpning og lukking av cockpit og kabin være merket innvendig og utvendig, inkludert med operasjonsretning for nødbrukfyllingspunkter for drivstoff være merket og angi drivstofftypebagasjerom være merket med maksimal vekt.
+Luftfartøyet skal ha merking og skilt i samsvar med flygehåndboken. Luftfartøy med nødfallskjerm skal merkes på halepartiet og i området der nødfallskjermen er plassert. I tillegg skal
+
+1. alle håndtak eller låser for åpning og lukking av cockpit og kabin være merket innvendig og utvendig, inkludert med operasjonsretning for nødbruk
+2. fyllingspunkter for drivstoff være merket og angi drivstofftype
+3. bagasjerom være merket med maksimal vekt.
 
 ### § 24. Merking av luftfartøyet og tekniske journaler – tilleggskrav for luftfartøy i eksperimental-klassen
 
@@ -150,8 +192,12 @@ Luftfartøyet skal være merket med ordet EXPERIMENTAL i minst 30 mm høye latin
 
 Luftfartøyets tekniske journaler skal være merket med ordet EXPERIMENTAL.
 
-Luftfartøyet skal være utstyrt med varselskilt godt synlig for alle om bord. Teksten skal skrives med store bokstaver, på norsk og engelsk, og skal være:ADVARSEL
-DETTE LUFTFARTØYET ER SERTIFISERT SOM EKSPERIMENTAL OG OPPFYLLER IKKE KRAV TIL LUFTDYKTIGHET I NORMALKLASSENOCCUPANT WARNING
+Luftfartøyet skal være utstyrt med varselskilt godt synlig for alle om bord. Teksten skal skrives med store bokstaver, på norsk og engelsk, og skal være:
+
+ADVARSEL
+DETTE LUFTFARTØYET ER SERTIFISERT SOM EKSPERIMENTAL OG OPPFYLLER IKKE KRAV TIL LUFTDYKTIGHET I NORMALKLASSEN
+
+OCCUPANT WARNING
 THIS AIRCRAFT IS CERTIFIED AS EXPERIMENTAL AND DOES NOT MEET REQUIREMENTS FOR STANDARD AIRWORTHINESS.
 
 ### § 25. Luftdyktighetspåbud
@@ -188,7 +234,15 @@ Prøveflygingsprogrammet skal angi hvor prøveflygingen skal finne sted.
 
 ### § 30. Søknad
 
-Søknad om godkjenning av prøveflygingsprogram og særskilt flygetillatelse for prøveflyging må ha vedlagt vedlikeholdsrapport. Søknaden må i tillegg inneholdeprøveflygingsprogrammetrisikovurdering som inkluderer operative og tekniske forholdoppdaterte masse- og balanseberegningoppdatert status for komponenterflygehåndbok som skal ligge til grunn for prøveflygingenvedlikeholdsprogram som skal ligge til grunn for prøveflygingenstatus for relevante luftdyktighetspåbud.
+Søknad om godkjenning av prøveflygingsprogram og særskilt flygetillatelse for prøveflyging må ha vedlagt vedlikeholdsrapport. Søknaden må i tillegg inneholde
+
+1. prøveflygingsprogrammet
+2. risikovurdering som inkluderer operative og tekniske forhold
+3. oppdaterte masse- og balanseberegning
+4. oppdatert status for komponenter
+5. flygehåndbok som skal ligge til grunn for prøveflygingen
+6. vedlikeholdsprogram som skal ligge til grunn for prøveflygingen
+7. status for relevante luftdyktighetspåbud.
 
 ### § 31. Besiktigelse
 
@@ -238,7 +292,11 @@ Hvis det foreligger opplysninger eller omstendigheter som tyder på at vilkåren
 
 ### § 38. Tilbakekall av luftdyktighetsbevis eller særskilt luftdyktighetsbevis
 
-Luftfartstilsynet kan tilbakekalle luftdyktighetsbevis eller særskilt luftdyktighetsbevis dersomflygehåndbok eller vedlikeholdsprogram ikke holdes oppdatertluftfartøyet har modifikasjoner eller reparasjoner som ikke er utført eller dokumentert etter de krav som gjelderluftfartøyets vedlikehold ikke er utført eller dokumentert etter de krav som gjelder.
+Luftfartstilsynet kan tilbakekalle luftdyktighetsbevis eller særskilt luftdyktighetsbevis dersom
+
+1. flygehåndbok eller vedlikeholdsprogram ikke holdes oppdatert
+2. luftfartøyet har modifikasjoner eller reparasjoner som ikke er utført eller dokumentert etter de krav som gjelder
+3. luftfartøyets vedlikehold ikke er utført eller dokumentert etter de krav som gjelder.
 
 Hvis det foreligger opplysninger som tyder på at luftdyktighetsbevis eller særskilt luftdyktighetsbevis må tilbakekalles, kan Luftfartstilsynet midlertidig tilbakekalle luftdyktighetsbeviset eller det særskilte luftdyktighetsbeviset mens saken utredes.
 
@@ -250,7 +308,12 @@ Luftfartstilsynet kan gi pålegg om overtredelsesgebyr etter [luftfartsloven § 
 
 ### § 40. Ikrafttredelse og oppheving av forskrifter
 
-Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves[forskrift 19. juli 1993 nr. 4047 om begrensning av støy og utslipp fra sivile luftfartøyer](forskrift/1993-07-19-4047)[forskrift 24. februar 2004 nr. 434 om luftfartøyers masse og balanse, (BSL B 1-3)](forskrift/2004-02-24-434)[forskrift 24. februar 2004 nr. 468 om dokumentasjon knyttet til luftdyktighet, (BSL B 1-1)](forskrift/2004-02-24-468)[forskrift 19. januar 2007 nr. 59 om tekniske krav mv. til luftfartøy som er unntatt fra EASA-forskriften (BSL B 2-6)](forskrift/2007-01-19-59).
+Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves
+
+1. [forskrift 19. juli 1993 nr. 4047 om begrensning av støy og utslipp fra sivile luftfartøyer](forskrift/1993-07-19-4047)
+2. [forskrift 24. februar 2004 nr. 434 om luftfartøyers masse og balanse, (BSL B 1-3)](forskrift/2004-02-24-434)
+3. [forskrift 24. februar 2004 nr. 468 om dokumentasjon knyttet til luftdyktighet, (BSL B 1-1)](forskrift/2004-02-24-468)
+4. [forskrift 19. januar 2007 nr. 59 om tekniske krav mv. til luftfartøy som er unntatt fra EASA-forskriften (BSL B 2-6)](forskrift/2007-01-19-59).
 
 ### § 41. Overgangsregler
 

@@ -15,7 +15,7 @@ xml_hash: "092263a5afb4e9584d073624200a6666832e3e181e8009fe5c8917e04b37653e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,11 +128,21 @@ Kongen kan i forskrift gjøre unntak fra bestemmelsene i lovens kapittel I og II
 
 ### § 14. Særskilte forbud
 
-Det er forbudt å:utøve vold mot dyr,hensette dyr i hjelpeløs tilstand,ha seksuell omgang med eller foreta seksuelle handlinger med dyr, ogbruke levende dyr som fôr eller agn.
+Det er forbudt å:
+
+1. utøve vold mot dyr,
+2. hensette dyr i hjelpeløs tilstand,
+3. ha seksuell omgang med eller foreta seksuelle handlinger med dyr, og
+4. bruke levende dyr som fôr eller agn.
 
 ### § 14 a. Fremstilling og fremvisning m.m. av seksuelle overgrep mot dyr
 
-Det er forbudt å:produsere fremstillinger av seksuell omgang med dyr eller seksuelle handlinger med dyr,tilby, overlate til en annen, gjøre tilgjengelig eller på annen måte søke å utbre fremstillinger som nevnt i bokstav a,anskaffe, innføre eller besitte slike fremstillinger som nevnt i bokstav a, eller skaffe seg tilgang til slikt materiale, ellerovervære en fremvisning av seksuell omgang med dyr eller seksuelle handlinger med dyr.
+Det er forbudt å:
+
+1. produsere fremstillinger av seksuell omgang med dyr eller seksuelle handlinger med dyr,
+2. tilby, overlate til en annen, gjøre tilgjengelig eller på annen måte søke å utbre fremstillinger som nevnt i bokstav a,
+3. anskaffe, innføre eller besitte slike fremstillinger som nevnt i bokstav a, eller skaffe seg tilgang til slikt materiale, eller
+4. overvære en fremvisning av seksuell omgang med dyr eller seksuelle handlinger med dyr.
 
 Bestemmelsen rammer ikke fremvisninger eller fremstillinger som må anses forsvarlige ut fra et kunstnerisk, vitenskapelig, informativt eller lignende formål.
 
@@ -198,7 +208,12 @@ Kongen kan gi nærmere forskrifter om krav til dyrs levemiljø, herunder om egne
 
 ### § 24. Tilsyn og stell
 
-Dyreholder skal sikre at dyr får godt tilsyn og stell, herunder sikre at:fôr, beite og vann er av god kvalitet, dekker dyrets behov for næring og væske og fremmer god helse og velferd. Dyr skal ikke tvangsfôres eller tvangsvannes, med mindre det skjer av dyrehelsemessig grunn,dyr beskyttes mot skade, sykdom, parasitter og andre farer. Syke og skadde dyr skal gis forsvarlig behandling og avlives om nødvendig,spredning av smitte begrenses, ogdyr, der det er relevant, blir tilstrekkelig tamme til å kunne håndteres og stelles på dyrevelferdsmessig forsvarlig måte.
+Dyreholder skal sikre at dyr får godt tilsyn og stell, herunder sikre at:
+
+1. fôr, beite og vann er av god kvalitet, dekker dyrets behov for næring og væske og fremmer god helse og velferd. Dyr skal ikke tvangsfôres eller tvangsvannes, med mindre det skjer av dyrehelsemessig grunn,
+2. dyr beskyttes mot skade, sykdom, parasitter og andre farer. Syke og skadde dyr skal gis forsvarlig behandling og avlives om nødvendig,
+3. spredning av smitte begrenses, og
+4. dyr, der det er relevant, blir tilstrekkelig tamme til å kunne håndteres og stelles på dyrevelferdsmessig forsvarlig måte.
 
 Kongen kan gi nærmere forskrifter om krav til omfang av tilsyn og stell og om beskyttelse og behandling av dyr.
 
@@ -206,7 +221,11 @@ Kongen kan gi nærmere forskrifter om krav til omfang av tilsyn og stell og om b
 
 Dyreholdere, oppdrettere, avlsorganisasjoner og raseklubber skal gjennom avl fremme egenskaper som gir robuste dyr med god funksjon og helse.
 
-Det skal ikke drives avl, herunder ved bruk av genteknologiske metoder, som:endrer arveanlegg slik at de påvirker dyrs fysiske eller mentale funksjoner negativt, eller som viderefører slike arveanlegg,reduserer dyrs mulighet til å utøve naturlig atferd, ellervekker allmenne etiske reaksjoner.
+Det skal ikke drives avl, herunder ved bruk av genteknologiske metoder, som:
+
+1. endrer arveanlegg slik at de påvirker dyrs fysiske eller mentale funksjoner negativt, eller som viderefører slike arveanlegg,
+2. reduserer dyrs mulighet til å utøve naturlig atferd, eller
+3. vekker allmenne etiske reaksjoner.
 
 Dyr med arveanlegg som nevnt i andre ledd, skal ikke brukes i videre avl.
 
@@ -216,7 +235,12 @@ Kongen kan gi forskrift om avl i samsvar med prinsippene i denne paragrafen, ogs
 
 ### § 26. Trening, fremvisning, underholdning og konkurranser
 
-Den som trener dyr og den som bruker dyr til fremvisning, underholdning og konkurranser samt arrangør for slike aktiviteter, skal påse at dyr:er i stand til å gjennomføre aktiviteten uten å bli utmattet eller skadet,ikke utsettes for eller er påvirket av midler eller behandling som kan gjøre aktiviteten dyrevelferdsmessig uforsvarlig,ikke med hensikt påføres frykt, skade eller unødige påkjenninger og belastninger, ogikke trenes til eller brukes i kamper mot andre dyr eller mot mennesker.
+Den som trener dyr og den som bruker dyr til fremvisning, underholdning og konkurranser samt arrangør for slike aktiviteter, skal påse at dyr:
+
+1. er i stand til å gjennomføre aktiviteten uten å bli utmattet eller skadet,
+2. ikke utsettes for eller er påvirket av midler eller behandling som kan gjøre aktiviteten dyrevelferdsmessig uforsvarlig,
+3. ikke med hensikt påføres frykt, skade eller unødige påkjenninger og belastninger, og
+4. ikke trenes til eller brukes i kamper mot andre dyr eller mot mennesker.
 
 Kongen kan gi nærmere forskrifter om trening, fremvisning og konkurranser mv., herunder stille krav om særskilt tillatelse eller forby ulike former for slik aktivitet, forby bruk av visse dyrearter og forby visse former for midler og behandling.
 

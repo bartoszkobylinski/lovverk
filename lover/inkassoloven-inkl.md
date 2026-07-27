@@ -15,7 +15,7 @@ xml_hash: "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,11 +70,21 @@ Inkassovirksomhet som gjelder ervervsmessig eller stadig inndriving av forfalte 
 
 ### § 5. Vilkår for inkassobevilling
 
-Inkassobevilling til stadig og ervervsmessig å inndrive forfalte pengekrav for andre kan etter søknad gis til et foretak når:den eller de som faktisk leder inkassovirksomheten har inkassobevilling etter annet ledd,styremedlemmer, daglig leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,styremedlemmer og daglig leder har lagt frem politiattest,inkassovirksomheten drives fra fast forretningssted innenfor EØS,1 ogforetaket har stilt sikkerhet som nevnt i [§ 29](lov/1988-05-13-26/§29).
+Inkassobevilling til stadig og ervervsmessig å inndrive forfalte pengekrav for andre kan etter søknad gis til et foretak når:
+
+1. den eller de som faktisk leder inkassovirksomheten har inkassobevilling etter annet ledd,
+2. styremedlemmer, daglig leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,
+3. styremedlemmer og daglig leder har lagt frem politiattest,
+4. inkassovirksomheten drives fra fast forretningssted innenfor EØS,1 og
+5. foretaket har stilt sikkerhet som nevnt i [§ 29](lov/1988-05-13-26/§29).
 
 Inkassobevilling etter første ledd bokstav a gis etter søknad til personer som anses egnet til å være faktisk leder for foretak som stadig og ervervsmessig inndriver forfalte pengekrav for andre. Søkeren må fremlegge politiattest og godtgjøre å ha minst tre års praktisk erfaring med inndriving av pengekrav i løpet av de siste ti år. For godkjenning av personer med statsborgerskap fra en EØS-stat eller Sveits, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits, samt personer fra tredjeland som omfattes av direktiv [2004/38/EF](eu/32004l0038*), gjelder reglene i yrkeskvalifikasjonsloven.
 
-Bevilling til stadig og ervervsmessig å drive oppkjøp og inndriving av forfalte pengekrav for egen regning kan etter søknad gis til et foretak når:styremedlemmer, daglig leder, faktisk leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,styremedlemmer, daglig leder og faktisk leder har lagt frem politiattest, oginkassovirksomheten drives fra fast forretningssted innenfor EØS.
+Bevilling til stadig og ervervsmessig å drive oppkjøp og inndriving av forfalte pengekrav for egen regning kan etter søknad gis til et foretak når:
+
+1. styremedlemmer, daglig leder, faktisk leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,
+2. styremedlemmer, daglig leder og faktisk leder har lagt frem politiattest, og
+3. inkassovirksomheten drives fra fast forretningssted innenfor EØS.
 
 Det kan settes vilkår i bevilling etter første og tredje ledd, herunder om at foretaket skal være tilsluttet en nemndsordning som nevnt i [§ 22](lov/1988-05-13-26/§22).
 
@@ -116,7 +126,10 @@ Det er i strid med god inkassoskikk å bruke inkassometoder som utsetter noen fo
 
 ### § 9. Inkassovarsel og betalingsfrist
 
-Før en inkassator kan sette i verk inkassotiltak, skal fordringshaveren eller inkassatorenetter kravets forfall ha sendt skyldneren skriftlig varsel om at inkasso vil bli satt i verk, ogi varslet ha gitt skyldneren en betalingsfrist som må ha løpt ut uten at beløpet er betalt.
+Før en inkassator kan sette i verk inkassotiltak, skal fordringshaveren eller inkassatoren
+
+1. etter kravets forfall ha sendt skyldneren skriftlig varsel om at inkasso vil bli satt i verk, og
+2. i varslet ha gitt skyldneren en betalingsfrist som må ha løpt ut uten at beløpet er betalt.
 
 Fristen for betaling etter første ledd skal være minst 14 dager regnet fra det tidspunkt da varslet ble sendt. Betalingen skal anses å ha skjedd innen fristen dersom betalingsoppdraget er mottatt av bank innen fristens utløp.
 
@@ -126,7 +139,14 @@ Fristen for betaling etter første ledd skal være minst 14 dager regnet fra det
 
 Når et krav er mottatt til inkasso og betalingsfristen i inkassovarsel etter [§ 9](lov/1988-05-13-26/§9) er løpt ut, skal inkassatoren sende skyldneren en skriftlig oppfordring (betalingsoppfordring) om enten å betale eller å komme med innsigelser mot kravet innen en frist på minst 14 dager. [§ 9](lov/1988-05-13-26/§9) andre ledd gjelder tilsvarende. Forhold som gir grunn til tvil om kravet er rettmessig, skal være vurdert før en betalingsoppfordring sendes.
 
-Betalingsoppfordringen skal angifordringshaverens navn,hva kravet gjelder,kravets størrelse med særskilt angivelse av hovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnader,hvilken sats for forsinkelsesrente som i tilfelle er brukt og dato det er beregnet forsinkelsesrente fra,at unnlatt betaling kan føre til ytterligere kostnader for skyldneren og til rettslig inndriving, ogretten til å kreve nemndsbehandling etter [§ 22](lov/1988-05-13-26/§22), dersom kravet blir inndrevet av et foretak som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5) første eller tredje ledd.
+Betalingsoppfordringen skal angi
+
+1. fordringshaverens navn,
+2. hva kravet gjelder,
+3. kravets størrelse med særskilt angivelse av hovedkrav og tilleggskrav som krav på forsinkelsesrente og erstatning for inndrivingskostnader,
+4. hvilken sats for forsinkelsesrente som i tilfelle er brukt og dato det er beregnet forsinkelsesrente fra,
+5. at unnlatt betaling kan føre til ytterligere kostnader for skyldneren og til rettslig inndriving, og
+6. retten til å kreve nemndsbehandling etter [§ 22](lov/1988-05-13-26/§22), dersom kravet blir inndrevet av et foretak som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5) første eller tredje ledd.
 
 Fullstendige opplysninger som nevnt i andre ledd bokstavene c og d er det ikke nødvendig å gi dersom beregningen av kravet er særdeles omfattende. Samlet krav må likevel alltid oppgis, og det må opplyses at en fullstendig oppstilling vil bli gitt ved forespørsel.
 
@@ -194,7 +214,10 @@ I forbrukerforhold kan gebyr eller annen godtgjørelse for utstedelse og sending
 
 ### § 19. Forskrift om erstatningsbeløp
 
-Kongen kan ved forskrift fastsette beløp som fordringshavere kan kreve av en erstatningsansvarlig skyldnernår det etter kravets forfall er sendt skriftlig purring, eller inkassovarsel etter [§ 9](lov/1988-05-13-26/§9), ognår fordringshaveren selv har sendt en betalingsoppfordring som tilfredsstiller kravene i [§ 10](lov/1988-05-13-26/§10).
+Kongen kan ved forskrift fastsette beløp som fordringshavere kan kreve av en erstatningsansvarlig skyldner
+
+1. når det etter kravets forfall er sendt skriftlig purring, eller inkassovarsel etter [§ 9](lov/1988-05-13-26/§9), og
+2. når fordringshaveren selv har sendt en betalingsoppfordring som tilfredsstiller kravene i [§ 10](lov/1988-05-13-26/§10).
 
 Kongen kan gi forskrift om høyere beløp som en fordringshaver kan kreve av en erstatningsansvarlig skyldner som erstatning for kostnader ved å drive inn kravet selv, når en advokat som har stilt sikkerhet etter [advokatloven § 5](lov/2022-05-12-28/§5), har den faglige ledelse av inndrivingen.
 
@@ -312,13 +335,21 @@ Det kan kreves gebyr for behandling av klage som angitt i første ledd. Departem
 
 ### § 31. Inndragning av bevilling
 
-En inkassobevilling etter [§ 5](lov/1988-05-13-26/§5) kan inndras dersom det finnes utilrådelig å la inkassovirksomhet drives i medhold av bevillingen fordibevillingshaveren ikke har overholdt sine plikter etter [§ 6](lov/1988-05-13-26/§6),vilkårene for å tildele bevillingen ikke lenger er til stede,inkassoforetaket ikke innen den frist som er fastsatt av tilsynsmyndigheten, oppfyller vilkår om å tilslutte seg nemndsordning som nevnt i [§ 5](lov/1988-05-13-26/§5), ellerdet foreligger andre særlige grunner.
+En inkassobevilling etter [§ 5](lov/1988-05-13-26/§5) kan inndras dersom det finnes utilrådelig å la inkassovirksomhet drives i medhold av bevillingen fordi
+
+1. bevillingshaveren ikke har overholdt sine plikter etter [§ 6](lov/1988-05-13-26/§6),
+2. vilkårene for å tildele bevillingen ikke lenger er til stede,
+3. inkassoforetaket ikke innen den frist som er fastsatt av tilsynsmyndigheten, oppfyller vilkår om å tilslutte seg nemndsordning som nevnt i [§ 5](lov/1988-05-13-26/§5), eller
+4. det foreligger andre særlige grunner.
 
 > Endret ved lov [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), tidligere § 25.
 
 ### § 32. Straff
 
-Med bøter eller fengsel inntil tre måneder, eller begge deler, straffes den som overtrer[§§ 4](lov/1988-05-13-26/§4), 5, 6, 28, forskrifter i medhold av [§§ 6](lov/1988-05-13-26/§6) eller [20](lov/1988-05-13-26/§20), pålegg i medhold av [§ 30](lov/1988-05-13-26/§30) tredje ledd eller forbud i medhold av [§ 30](lov/1988-05-13-26/§30) fjerde ledd, eller[§§ 8](lov/1988-05-13-26/§8), 9, 10 eller 11, forutsatt at disse bestemmelsene er overtrådt gjentatte ganger eller at overtredelsen er grov.
+Med bøter eller fengsel inntil tre måneder, eller begge deler, straffes den som overtrer
+
+1. [§§ 4](lov/1988-05-13-26/§4), 5, 6, 28, forskrifter i medhold av [§§ 6](lov/1988-05-13-26/§6) eller [20](lov/1988-05-13-26/§20), pålegg i medhold av [§ 30](lov/1988-05-13-26/§30) tredje ledd eller forbud i medhold av [§ 30](lov/1988-05-13-26/§30) fjerde ledd, eller
+2. [§§ 8](lov/1988-05-13-26/§8), 9, 10 eller 11, forutsatt at disse bestemmelsene er overtrådt gjentatte ganger eller at overtredelsen er grov.
 
 Den som uaktsomt overtrer første ledd, straffes med bøter.
 

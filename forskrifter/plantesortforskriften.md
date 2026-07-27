@@ -15,7 +15,7 @@ xml_hash: "d31f275dae52a6ca1bce29c6ba58abcbe63706ca885b6213751e157e7355cc53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,19 @@ For bevaringsverdige sorter og tradisjonssorter av grønnsaker som var kjent fø
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*Nyhetsprøving (DUS-test (distinctness, uniformity and stability tests)):* Prøving som gjennomføres for å vise at en sort er skillbar fra andre plantesorter, ensartet og stabil.*Verdiprøving (VCU (value for cultivation and use)):* Prøving som gjennomføres med sikte på å kartlegge om sorten har tilfredsstillende dyrkings- og bruksverdi.(opphevet)*Offisiell norsk sortsliste:* liste utgitt av Mattilsynet over sorter som er godkjent i henhold til denne forskriften.*Prøveinstitusjon:* den institusjon som gjennomfører verdiprøvingsforsøkene for Mattilsynet.*Formeringsmateriale:* materiale til oppformering av sorten som såkorn, frø, settepoteter, planter eller plantedeler.*Landsort:* En samling av populasjoner eller kloner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.*Genetisk erosjon:* Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.*Bevaringsverdig sort:* En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold, og som er truet av genetisk erosjon.*In-situ bevaring:* Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.*Tradisjonssort av grønnsaker:* En grønnsakssort utviklet for dyrking under særlige klimatiske, jordbunnsmessige eller dyrkingstekniske forhold.
+I denne forskrift menes med:
+
+1. *Nyhetsprøving (DUS-test (distinctness, uniformity and stability tests)):* Prøving som gjennomføres for å vise at en sort er skillbar fra andre plantesorter, ensartet og stabil.
+2. *Verdiprøving (VCU (value for cultivation and use)):* Prøving som gjennomføres med sikte på å kartlegge om sorten har tilfredsstillende dyrkings- og bruksverdi.
+3. (opphevet)
+4. *Offisiell norsk sortsliste:* liste utgitt av Mattilsynet over sorter som er godkjent i henhold til denne forskriften.
+5. *Prøveinstitusjon:* den institusjon som gjennomfører verdiprøvingsforsøkene for Mattilsynet.
+6. *Formeringsmateriale:* materiale til oppformering av sorten som såkorn, frø, settepoteter, planter eller plantedeler.
+7. *Landsort:* En samling av populasjoner eller kloner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.
+8. *Genetisk erosjon:* Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.
+9. *Bevaringsverdig sort:* En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold, og som er truet av genetisk erosjon.
+10. *In-situ bevaring:* Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.
+11. *Tradisjonssort av grønnsaker:* En grønnsakssort utviklet for dyrking under særlige klimatiske, jordbunnsmessige eller dyrkingstekniske forhold.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 158](forskrift/2004-01-09-158), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 mars 2025 nr. 395](forskrift/2025-03-05-395).
 
@@ -56,15 +68,28 @@ Nyhetsprøven skal gjennomføres i samsvar med tekniske retningslinjer fastsatt 
 
 En sort skal anses for å ha tilfredsstillende dyrkings- og bruksverdi når den, sammenlignet med andre godkjente sorter, har egenskaper som sett under ett, klart forbedrer enten dyrkingen av sorten eller utnyttelsen av avlingen eller produkter av den, i hvert fall når det gjelder produksjonen i en landsdel. Særlige gunstige egenskaper kan veie opp for enkelte andre ugunstige egenskaper.
 
-Sorter av grønnsaker søkes godkjent i en av følgende to kategorier:såvarer av sorten skal sertifiseres eller kontrolleres som standardfrøsåvarer av sorten skal kontrolleres som standardfrø.
+Sorter av grønnsaker søkes godkjent i en av følgende to kategorier:
 
-Følgende sorter kan godkjennes uten verdiprøving:sorter av arter som i [forskrift om såvarer](forskrift/1999-09-13-1052) er definert i gruppen hagebruksfrø, med unntak av sorter av rotsikori,sorter av gras som ikke er beregnet til bruk som fôrvekst,sorter der frøet skal omsettes i et annet land i EØS-området der sorten allerede er verdiprøvd og godkjent ogsorter, herunder innavlede linjer og hybrider, som kun skal benyttes som komponenter for hybridsorter.
+1. såvarer av sorten skal sertifiseres eller kontrolleres som standardfrø
+2. såvarer av sorten skal kontrolleres som standardfrø.
+
+Følgende sorter kan godkjennes uten verdiprøving:
+
+1. sorter av arter som i [forskrift om såvarer](forskrift/1999-09-13-1052) er definert i gruppen hagebruksfrø, med unntak av sorter av rotsikori,
+2. sorter av gras som ikke er beregnet til bruk som fôrvekst,
+3. sorter der frøet skal omsettes i et annet land i EØS-området der sorten allerede er verdiprøvd og godkjent og
+4. sorter, herunder innavlede linjer og hybrider, som kun skal benyttes som komponenter for hybridsorter.
 
 > Endret ved [forskrifter 1 nov 2004 nr. 1413](forskrift/2004-11-01-1413), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 mars 2025 nr. 395](forskrift/2025-03-05-395).
 
 ## § 4a. Godkjenning av bevaringsverdige sorter og tradisjonssorter av grønnsaker
 
-En plantesort kan godkjennes som bevaringsverdig eller tradisjonssort av grønnsaker når det enten foreligger godkjent nyhetsprøving og verdiprøving i henhold til [§ 4 andre](forskrift/1999-10-01-1069/§4/ledd/2) og [tredje ledd](forskrift/1999-10-01-1069/§4/ledd/3), eller det foreligger tilfredsstillende:betegnelse på sorten,beskrivelse av sorten,resultater fra uoffisielle forsøk ogdokumentasjon fra søker om erfaring fra praktiske forsøk med dyrking, oppformering og bruk.
+En plantesort kan godkjennes som bevaringsverdig eller tradisjonssort av grønnsaker når det enten foreligger godkjent nyhetsprøving og verdiprøving i henhold til [§ 4 andre](forskrift/1999-10-01-1069/§4/ledd/2) og [tredje ledd](forskrift/1999-10-01-1069/§4/ledd/3), eller det foreligger tilfredsstillende:
+
+1. betegnelse på sorten,
+2. beskrivelse av sorten,
+3. resultater fra uoffisielle forsøk og
+4. dokumentasjon fra søker om erfaring fra praktiske forsøk med dyrking, oppformering og bruk.
 
 For bevaringsverdig sort gjelder i tillegg til kravene i første ledd, at sorten er av interesse for bevaring av plantegenetiske ressurser, at sortens opprinnelsesområde kan identifiseres, og at vedlikehold av sorten skal foregå i sortens opprinnelsesområde.
 
@@ -76,7 +101,12 @@ En sort kan ikke godkjennes som bevaringsverdig sort eller tradisjonssort hvis d
 
 ## § 4b. Godkjenning av økologiske plantesorter
 
-En sort kan godkjennes som økologisk sort egnet til økologisk produksjon når følgende krav er oppfylt:den er et resultat av økologisk planteforedling jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), forordning [(EU) 2018/848](eu/32018r0848) artikkel 3 punkt 19den har fått godkjent nyhetsprøving,det er gjennomført verdiprøving med det resultat at sorten anses å ha en tilfredsstillende dyrkings- og bruksverdi i Norge ogden er vurdert å være spesielt godt egnet for økologisk landbruk eller økologisk mat- eller fôrproduksjon.
+En sort kan godkjennes som økologisk sort egnet til økologisk produksjon når følgende krav er oppfylt:
+
+1. den er et resultat av økologisk planteforedling jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), forordning [(EU) 2018/848](eu/32018r0848) artikkel 3 punkt 19
+2. den har fått godkjent nyhetsprøving,
+3. det er gjennomført verdiprøving med det resultat at sorten anses å ha en tilfredsstillende dyrkings- og bruksverdi i Norge og
+4. den er vurdert å være spesielt godt egnet for økologisk landbruk eller økologisk mat- eller fôrproduksjon.
 
 Nyhetsprøven skal gjennomføres i samsvar med tekniske retningslinjer som angitt i [§ 4 andre ledd](forskrift/1999-10-01-1069/§4/ledd/2). For artene listet i vedlegget del A, kan de kjennetegnene som står oppført i vedlegget del B vurderes mindre strengt enn for konvensjonelle sorter når det gjelder krav til ensartethet. For disse kjennetegnene skal graden av ensartethet være tilsvarende som for sammenlignbare sorter allment kjent i EØS-området.
 
@@ -90,7 +120,11 @@ Unntaket fra kravet om verdiprøving i [§ 4 femte ledd](forskrift/1999-10-01-10
 
 Plantesorter som er godkjent etter [§ 4](forskrift/1999-10-01-1069/§4), [§ 4a](forskrift/1999-10-01-1069/§4a) eller [§ 4b](forskrift/1999-10-01-1069/§4b) kan oppføres på offisiell norsk sortsliste dersom sorten har godkjent navn, jf. [§ 2a](forskrift/1999-10-01-1069/§2a), og en ansvarlig vedlikeholder.
 
-Det skal framgå av sortslista:om det er en bevaringsverdig sortom det er en genmodifisert sort jf. definisjonen av genmodifisert organisme i [lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven)](lov/1993-04-02-38)hvilken kategori en grønnsakssort er godkjent i jf. [§ 4 fjerde ledd](forskrift/1999-10-01-1069/§4/ledd/4) eller om det er en tradisjonssort av grønnsaker. For tradisjonssorter skal det framgå at såvarer av sorten bare kontrolleres som standardfrø.
+Det skal framgå av sortslista:
+
+1. om det er en bevaringsverdig sort
+2. om det er en genmodifisert sort jf. definisjonen av genmodifisert organisme i [lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven)](lov/1993-04-02-38)
+3. hvilken kategori en grønnsakssort er godkjent i jf. [§ 4 fjerde ledd](forskrift/1999-10-01-1069/§4/ledd/4) eller om det er en tradisjonssort av grønnsaker. For tradisjonssorter skal det framgå at såvarer av sorten bare kontrolleres som standardfrø.
 
 > Tilføyd ved [forskrift 30 april 2010 nr. 635](forskrift/2010-04-30-635), endret ved [forskrifter 31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 mars 2025 nr. 395](forskrift/2025-03-05-395) (tidligere § 4b).
 
@@ -191,12 +225,94 @@ Denne forskriften trer i kraft straks. Samtidig oppheves forskrift om betaling a
 
 ### Del B – Tekniske protokoller, kjennetegn for ensartethet som kan vurderes mindre strengt for økologiske plantesorter, jf. [§ 4b](forskrift/1999-10-01-1069/§4b)
 
-1. Bygg (*Hordeum vulgare* L.)For sorter av bygg kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 5 Flaggbladører: Styrke av antocyanfargeCPVO nr. 8 Flaggbladslire: voksbeleggCPVO nr. 9 Snerp: styrke av antocyanfarge i spissenCPVO nr. 10 Aks: voksbeleggCPVO nr. 12 Korn: antocyanfarge på ryggnerverCPVO nr. 16 Sterile småaks: stilling/vinkelCPVO nr. 17 Aks: formCPVO nr. 20 Snerp: lengdeCPVO nr. 21 Nedre aksspindelledd: lengdeCPVO nr. 22 Nedre aksspindelledd: krumningCPVO nr. 23 Midtre småaks: lengde på ytteragn i forhold til kornetCPVO nr. 25 Korn: tanning på ryggnerver
-2. Mais (*Zea mays* L.)For sorter av mais kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 1 Første blad: antocyanfarge på bladslireCPVO nr. 2 Første blad: form på bladspissCPVO nr. 8 Kvast: antocyanfarge på ytteragner utenom baseCPVO nr. 9 Kvast: antocyanfarge på støvknapperCPVO nr. 10 Kvast: vinkel mellom hovedstengel og sidegrenerCPVO nr. 11 Kvast: krumming på sidegrenerCPVO nr. 15 Stengel: antocyanfarge på luftrøtter (adventivrøtter)CPVO nr. 16 Kvast: tetthet på småaksCPVO nr. 17 Blad: antocyanfarge på bladslireCPVO nr. 18 Stengel: antocyanfarge på internoderCPVO nr. 19 Kvast: lengde på hovedstengel over nederste sideskuddCPVO nr. 20 Kvast: lengde på hovedstengel over øverste sideskuddCPVO nr. 21 Kvast: sideskudd – lengde
-3. Rug (*Secale cereale* L.)For sorter av rug kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 3 Koleoptile: antocyanfargeCPVO nr. 4 Koleoptile: lengdeCPVO nr. 5 Første blad: bladsliras lengdeCPVO nr. 6 Første blad: bladets lengdeCPVO nr. 8 Flaggblad: voksbelegg på bladsliraCPVO nr. 10 Blad ved siden av flaggblad: bladplatens lengdeCPVO nr. 11 Blad ved siden af flaggblad: bladplatens breddeCPVO nr. 12 Aks: voksbeleggCPVO nr. 13 Stengel: behåring under aks
-4. Hvete (*Triticum aestivum* L. subsp. *aestivum)*For sorter av hvete kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 3 Koleoptile: antocyanfargeCPVO nr. 6 Flaggblad: styrke av antocyanfarge på bladøreCPVO nr. 8 Flaggblad: voksbelegg på bladsliraCPVO nr. 9 Flaggblad: voksbelegg på undersidenCPVO nr. 10 Aks: voksbeleggCPVO nr. 11 Stengel: voksbelegg på øverste internodiumCPVO nr. 20 Aks: form i profilCPVO nr. 21 Øvre aksspindelledd: område med behåring på konveks overflateCPVO nr. 22 Nedre ytteragn: skulderbreddeCPVO nr. 23 Nedre ytteragn: skulderformCPVO nr. 24 Nedre ytteragn: nebblengdeCPVO nr. 25 Nedre ytteragn: nebbformCPVO nr. 26 Nedre ytteragn: område med innvendig behåring
-5. Gulrot (*Daucus carota* L.)For sorter av gulrot kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 4 Blad: grad av oppdeling i flikerCPVO nr. 5 Blad: intensitet på grønnfargeCPVO nr. 19 Rot: kjernens diameter i forhold til rotas diameterCPVO nr. 20 Rot: kjernens fargeCPVO nr. 21 Ikke sorter med hvit kjerne; Rot: intensitet på kjernens fargeCPVO nr. 28 Rot: tidspunkt for farging av spissenCPVO nr. 29 Plante: hovedskjermens høyde på blomstringstidspunktet.
-6. Knutekål (*Brassica oleracea* L.)For sorter av knutekål kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:CPVO nr. 2 Frøplante: intensitet på grønnfarge på frøbladerCPVO nr. 6 Bladstilk: stillingCPVO nr. 8 Bladplate: lengdeCPVO nr. 9 Bladplate: breddeCPVO nr. 10 Bladplate: form på spissCPVO nr. 11 Bladplate: småblad / oppdeling av nederste del av bladetCPVO nr. 12 Bladplate: antall kantsnitt på øverste del av bladetCPVO nr. 13 Bladplate: dybde på kantsnitt på øverste del av bladetCPVO nr. 14 Bladplate: form på tverrsnittetCPVO nr. 19 Knutekål: antall innvendige blader.
+1. Bygg (*Hordeum vulgare* L.)
+
+   For sorter av bygg kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 5 Flaggbladører: Styrke av antocyanfarge
+   - CPVO nr. 8 Flaggbladslire: voksbelegg
+   - CPVO nr. 9 Snerp: styrke av antocyanfarge i spissen
+   - CPVO nr. 10 Aks: voksbelegg
+   - CPVO nr. 12 Korn: antocyanfarge på ryggnerver
+   - CPVO nr. 16 Sterile småaks: stilling/vinkel
+   - CPVO nr. 17 Aks: form
+   - CPVO nr. 20 Snerp: lengde
+   - CPVO nr. 21 Nedre aksspindelledd: lengde
+   - CPVO nr. 22 Nedre aksspindelledd: krumning
+   - CPVO nr. 23 Midtre småaks: lengde på ytteragn i forhold til kornet
+   - CPVO nr. 25 Korn: tanning på ryggnerver
+2. Mais (*Zea mays* L.)
+
+   For sorter av mais kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 1 Første blad: antocyanfarge på bladslire
+   - CPVO nr. 2 Første blad: form på bladspiss
+   - CPVO nr. 8 Kvast: antocyanfarge på ytteragner utenom base
+   - CPVO nr. 9 Kvast: antocyanfarge på støvknapper
+   - CPVO nr. 10 Kvast: vinkel mellom hovedstengel og sidegrener
+   - CPVO nr. 11 Kvast: krumming på sidegrener
+   - CPVO nr. 15 Stengel: antocyanfarge på luftrøtter (adventivrøtter)
+   - CPVO nr. 16 Kvast: tetthet på småaks
+   - CPVO nr. 17 Blad: antocyanfarge på bladslire
+   - CPVO nr. 18 Stengel: antocyanfarge på internoder
+   - CPVO nr. 19 Kvast: lengde på hovedstengel over nederste sideskudd
+   - CPVO nr. 20 Kvast: lengde på hovedstengel over øverste sideskudd
+   - CPVO nr. 21 Kvast: sideskudd – lengde
+3. Rug (*Secale cereale* L.)
+
+   For sorter av rug kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 3 Koleoptile: antocyanfarge
+   - CPVO nr. 4 Koleoptile: lengde
+   - CPVO nr. 5 Første blad: bladsliras lengde
+   - CPVO nr. 6 Første blad: bladets lengde
+   - CPVO nr. 8 Flaggblad: voksbelegg på bladslira
+   - CPVO nr. 10 Blad ved siden av flaggblad: bladplatens lengde
+   - CPVO nr. 11 Blad ved siden af flaggblad: bladplatens bredde
+   - CPVO nr. 12 Aks: voksbelegg
+   - CPVO nr. 13 Stengel: behåring under aks
+4. Hvete (*Triticum aestivum* L. subsp. *aestivum)*
+
+   For sorter av hvete kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 3 Koleoptile: antocyanfarge
+   - CPVO nr. 6 Flaggblad: styrke av antocyanfarge på bladøre
+   - CPVO nr. 8 Flaggblad: voksbelegg på bladslira
+   - CPVO nr. 9 Flaggblad: voksbelegg på undersiden
+   - CPVO nr. 10 Aks: voksbelegg
+   - CPVO nr. 11 Stengel: voksbelegg på øverste internodium
+   - CPVO nr. 20 Aks: form i profil
+   - CPVO nr. 21 Øvre aksspindelledd: område med behåring på konveks overflate
+   - CPVO nr. 22 Nedre ytteragn: skulderbredde
+   - CPVO nr. 23 Nedre ytteragn: skulderform
+   - CPVO nr. 24 Nedre ytteragn: nebblengde
+   - CPVO nr. 25 Nedre ytteragn: nebbform
+   - CPVO nr. 26 Nedre ytteragn: område med innvendig behåring
+5. Gulrot (*Daucus carota* L.)
+
+   For sorter av gulrot kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 4 Blad: grad av oppdeling i fliker
+   - CPVO nr. 5 Blad: intensitet på grønnfarge
+   - CPVO nr. 19 Rot: kjernens diameter i forhold til rotas diameter
+   - CPVO nr. 20 Rot: kjernens farge
+   - CPVO nr. 21 Ikke sorter med hvit kjerne; Rot: intensitet på kjernens farge
+   - CPVO nr. 28 Rot: tidspunkt for farging av spissen
+   - CPVO nr. 29 Plante: hovedskjermens høyde på blomstringstidspunktet.
+6. Knutekål (*Brassica oleracea* L.)
+
+   For sorter av knutekål kan følgende kjennetegn i CPVOs tekniske retningslinjer, avvike når det gjelder krav til ensartethet:
+
+   - CPVO nr. 2 Frøplante: intensitet på grønnfarge på frøblader
+   - CPVO nr. 6 Bladstilk: stilling
+   - CPVO nr. 8 Bladplate: lengde
+   - CPVO nr. 9 Bladplate: bredde
+   - CPVO nr. 10 Bladplate: form på spiss
+   - CPVO nr. 11 Bladplate: småblad / oppdeling av nederste del av bladet
+   - CPVO nr. 12 Bladplate: antall kantsnitt på øverste del av bladet
+   - CPVO nr. 13 Bladplate: dybde på kantsnitt på øverste del av bladet
+   - CPVO nr. 14 Bladplate: form på tverrsnittet
+   - CPVO nr. 19 Knutekål: antall innvendige blader.
 
 ## Forordning
 
@@ -251,45 +367,111 @@ I denne forordningen fastsettes det nærmere regler for anvendelsen av kriterien
 
 1\. Et sortsnavn skal anses som egnet dersom det ikke finnes noen hindring for tildelingen av det.
 
-2\. Det foreligger en hindring for tildelingen av et sortsnavn dersombruken av sortsnavnet på Unionens territorium hindres av at en tredjepart som har en eldre rettighet har gjort innvendinger og fått medhold i disse, som fastsatt i artikkel 3 nr. 1, ►**EØS** eller bruken av et sortsnavn på EFTA-statenes territorier hindres i henhold til den aktuelle EFTA-statens nasjonale regelverk om en tredjeparts eldre rettigheter, ◄**EØS**sortsnavnet er i strid med geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter, som fastsatt i artikkel 3 nr. 2,sortsnavnet kan være vanskelig for brukerne å kjenne igjen eller gjengi, som fastsatt i artikkel 4,sortsnavnet er identisk med eller vil kunne forveksles med et sortsnavn som en annen sort av samme eller en nært beslektet art er oppført med i et offisielt register over plantesorter eller under hvilket en annen sorts materiale er blitt markedsført, som fastsatt i artikkel 5,sortsnavnet vil kunne skape forvirring med hensyn til visuell, fonetisk eller begrepsmessig likhet med navnet på en sort av samme eller nært beslektet art, som fastsatt i artikkel 5,sortsnavnet er identisk med eller vil kunne forveksles med andre betegnelser som er vanlig i bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk, som fastsatt i artikkel 6,sortsnavnet vil kunne villede eller skape forvirring, som fastsatt i artikkel 7.
+2\. Det foreligger en hindring for tildelingen av et sortsnavn dersom
+
+1. bruken av sortsnavnet på Unionens territorium hindres av at en tredjepart som har en eldre rettighet har gjort innvendinger og fått medhold i disse, som fastsatt i artikkel 3 nr. 1, ►**EØS** eller bruken av et sortsnavn på EFTA-statenes territorier hindres i henhold til den aktuelle EFTA-statens nasjonale regelverk om en tredjeparts eldre rettigheter, ◄**EØS**
+2. sortsnavnet er i strid med geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter, som fastsatt i artikkel 3 nr. 2,
+3. sortsnavnet kan være vanskelig for brukerne å kjenne igjen eller gjengi, som fastsatt i artikkel 4,
+4. sortsnavnet er identisk med eller vil kunne forveksles med et sortsnavn som en annen sort av samme eller en nært beslektet art er oppført med i et offisielt register over plantesorter eller under hvilket en annen sorts materiale er blitt markedsført, som fastsatt i artikkel 5,
+5. sortsnavnet vil kunne skape forvirring med hensyn til visuell, fonetisk eller begrepsmessig likhet med navnet på en sort av samme eller nært beslektet art, som fastsatt i artikkel 5,
+6. sortsnavnet er identisk med eller vil kunne forveksles med andre betegnelser som er vanlig i bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk, som fastsatt i artikkel 6,
+7. sortsnavnet vil kunne villede eller skape forvirring, som fastsatt i artikkel 7.
 
 ### Artikkel 3. Eldre rettighet som tilhører tredjepart
 
-1\. Det foreligger en hindring som følge av en tredjeparts eldre rettighet når en tredjepart som er innehaver av et varemerke, gjør innvendinger mot tildelingen av sortsnavnet på Unionens territorium og får medhold i disse innvendingene fra en vedkommende myndighet. Denne hindringen gjelder varemerker somer registrert i en eller flere medlemsstater eller i Unionen før registreringen av sortsnavnet,er identisk med eller ligner sortsnavnet, oger registrert i forbindelse med varer som består av identiske eller nært beslektede arter av den aktuelle sorten.
+1\. Det foreligger en hindring som følge av en tredjeparts eldre rettighet når en tredjepart som er innehaver av et varemerke, gjør innvendinger mot tildelingen av sortsnavnet på Unionens territorium og får medhold i disse innvendingene fra en vedkommende myndighet. Denne hindringen gjelder varemerker som
 
-2\. Dersom en tredjepart har en eldre rettighet til geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler, alkoholsterke drikker, aromatiserte viner og vinprodukter, anses det som en hindring for bruken av et sortsnavn på Unionens territorium når sortsnavnet vil være i strid medartikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)6,artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)7,artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)8,artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)9.►**EØS** Det samme gjelder for EFTA-statene når det gjelder bestemmelsene listet i punkt b til d. Når det gjelder bestemmelsene i punkt a, skal et sortsnavn på EFTA-statenes territorier hindres når sortsnavnet ville være i strid med tilsvarende nasjonale bestemmelser i EFTA-statene som gjelder geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler. ◄**EØS**
+1. er registrert i en eller flere medlemsstater eller i Unionen før registreringen av sortsnavnet,
+2. er identisk med eller ligner sortsnavnet, og
+3. er registrert i forbindelse med varer som består av identiske eller nært beslektede arter av den aktuelle sorten.
+
+2\. Dersom en tredjepart har en eldre rettighet til geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler, alkoholsterke drikker, aromatiserte viner og vinprodukter, anses det som en hindring for bruken av et sortsnavn på Unionens territorium når sortsnavnet vil være i strid med
+
+1. artikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)6,
+2. artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)7,
+3. artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)8,
+4. artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)9.
+
+►**EØS** Det samme gjelder for EFTA-statene når det gjelder bestemmelsene listet i punkt b til d. Når det gjelder bestemmelsene i punkt a, skal et sortsnavn på EFTA-statenes territorier hindres når sortsnavnet ville være i strid med tilsvarende nasjonale bestemmelser i EFTA-statene som gjelder geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler. ◄**EØS**
 
 3\. En hindring for egnetheten av et sortsnavn som følge av en eldre rettighet som nevnt i første ledd, skal ►**EØS** i Unionen ◄**EØS** bortfalle dersom det foreligger en skriftlig tillatelse fra innehaveren av den eldre rettigheten til å anvende sortsnavnet på den aktuelle sorten, forutsatt at tillatelsen ikke kan villede offentligheten med hensyn til produktets virkelige opprinnelse. ►**EØS** Når det gjelder EFTA-statene, vil et sortsnavn kunne hindres av en tredjeparts eldre rettighet i henhold til nasjonalt regelverk i EFTA-statene. ◄**EØS**
 
 4\. Dersom søkeren har en eldre rettighet til hele eller deler av det foreslåtte sortsnavnet, gjelder artikkel 18 nr. 1 i forordning [(EF) nr. 2100/94](eu/31994r2100) tilsvarende med nødvendige endringer. ►**EØS** Dette får ikke anvendelse for EFTA-statene. ◄**EØS**
 
-6 Europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151) av 21. november 2012 om kvalitetsordninger for landbruksvarer og næringsmidler (EUT L 343 av 14.12.2012, s. 1).7 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), [(EØF) nr. 234/79](eu/31979r0234), [(EF) nr. 1037/2001](eu/32001r1037) og [(EF) nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).8 Europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251) av 26. februar 2014 om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på aromatiserte vinprodukter og om oppheving av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601) (EUT L 84 av 20.3.2014, s. 14).9 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, beskyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
+6 Europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151) av 21. november 2012 om kvalitetsordninger for landbruksvarer og næringsmidler (EUT L 343 av 14.12.2012, s. 1).
+
+7 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), [(EØF) nr. 234/79](eu/31979r0234), [(EF) nr. 1037/2001](eu/32001r1037) og [(EF) nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).
+
+8 Europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251) av 26. februar 2014 om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på aromatiserte vinprodukter og om oppheving av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601) (EUT L 84 av 20.3.2014, s. 14).
+
+9 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, beskyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### Artikkel 4. Sortsnavnet er vanskelig å kjenne igjen eller gjengi
 
 1\. Det foreligger en hindring på grunn av vanskeligheter med hensyn til gjenkjennelse eller gjengivelse av et sortsnavn dersom sortsnavnet er vanskelig for brukerne å kjenne igjen eller gjengi.
 
-2\. Sortsnavnet skal anses som vanskelig for brukerne å kjenne igjen eller gjengi i følgende tilfeller:Det består av eller inneholder komparativer eller superlativer.Det består av eller inneholder det botaniske navnet på en art innenfor den gruppen av enten jordbruksvekster eller grønnsakarter som sorten tilhører.Det består av eller inneholder avlstermer og tekniske termer, med mindre disse termene sammen med andre termer ikke hindrer gjenkjennelse av sortsnavnet.Det består utelukkende av et geografisk navn som er blitt kjent for den aktuelle arten.Det består av én enkelt bokstav, ett enkelt tall eller bare tall, med mindre dette utgjør en etablert praksis for å betegne visse sorter.Det består av eller inneholder for mange ord eller elementer, med mindre ordlyden gjør at det lett kan kjennes igjen.Det inneholder et skilletegn eller et annet symbol, en blanding av store og små bokstaver (unntatt når den første bokstaven er stor og de resterende små), senket skrift, hevet skrift eller en tegning eller en figur (unntatt symbolene apostrof (’), komma (,), inntil to ikke-tilstøtende utropstegn (!), punktum (.), bindestrek (-), skråstrek (/) eller omvendt skråstrek (\\)).Det inneholder eller består av senket skrift, hevet skrift eller en tegning, en logo eller en figur.
+2\. Sortsnavnet skal anses som vanskelig for brukerne å kjenne igjen eller gjengi i følgende tilfeller:
+
+1. Det består av eller inneholder komparativer eller superlativer.
+2. Det består av eller inneholder det botaniske navnet på en art innenfor den gruppen av enten jordbruksvekster eller grønnsakarter som sorten tilhører.
+3. Det består av eller inneholder avlstermer og tekniske termer, med mindre disse termene sammen med andre termer ikke hindrer gjenkjennelse av sortsnavnet.
+4. Det består utelukkende av et geografisk navn som er blitt kjent for den aktuelle arten.
+5. Det består av én enkelt bokstav, ett enkelt tall eller bare tall, med mindre dette utgjør en etablert praksis for å betegne visse sorter.
+6. Det består av eller inneholder for mange ord eller elementer, med mindre ordlyden gjør at det lett kan kjennes igjen.
+7. Det inneholder et skilletegn eller et annet symbol, en blanding av store og små bokstaver (unntatt når den første bokstaven er stor og de resterende små), senket skrift, hevet skrift eller en tegning eller en figur (unntatt symbolene apostrof (’), komma (,), inntil to ikke-tilstøtende utropstegn (!), punktum (.), bindestrek (-), skråstrek (/) eller omvendt skråstrek (\\)).
+8. Det inneholder eller består av senket skrift, hevet skrift eller en tegning, en logo eller en figur.
 
 ### Artikkel 5. Sortsnavn som er identisk med eller kan forveksles med navnet på en annen sort
 
-1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom det er identisk med eller kan forveksles medet sortsnavn under hvilket en annen sort av samme eller en nært beslektet art er oppført i et offisielt sortsregister, elleret sortsnavn under hvilket en annen sorts materiale er blitt markedsført i en medlemsstat eller på territoriet til en avtalepart i Den internasjonale union for vern av nye plantesorter (UPOV),unntatt dersom den andre sorten er en sort som ikke lenger finnes og der navnet ikke har fått en særskilt betydning.
+1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom det er identisk med eller kan forveksles med
 
-2\. For å fastslå om det foreligger fare for forveksling i henhold til første ledd skal vedkommende myndighet først analysere hvert av de visuelle, fonetiske og begrepsmessige aspektene separat og deretter foreta en samlet vurdering hvor den også tar hensyn til sortsnavn for samme eller en nært beslektet art, forutsatt at sortene nevnt i dette nummer og i første ledd enten er omfattet av en planteforedlerrett eller en søknad om dette, eller offisielt er blitt godkjente for markedsføring på et av følgende territorier:Unionen.Det europeiske økonomiske samarbeidsområde.En avtalepart i UPOV.Et medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD).
+1. et sortsnavn under hvilket en annen sort av samme eller en nært beslektet art er oppført i et offisielt sortsregister, eller
+2. et sortsnavn under hvilket en annen sorts materiale er blitt markedsført i en medlemsstat eller på territoriet til en avtalepart i Den internasjonale union for vern av nye plantesorter (UPOV),
 
-3\. I denne artikkelen menes med«nært beslektet art» artene oppført i vedlegget,«offisielt sortsregister» en henvisning til den felles sortsliste for jordbruksvekster eller for grønnsakarter, nevnt i artikkel 17 i direktiv [2002/53/EF](eu/32002l0053) eller i artikkel 17 i direktiv [2002/55/EF](eu/32002l0055), til OECDs sortsliste eller til et plantesortsregister hos et UPOV-medlem,«en sort som ikke lenger finnes» en sort hvis materiale ikke lenger finnes,«en sort der navnet ikke har fått en særskilt betydning» en situasjon der et sortsnavn som er blitt oppført i et offisielt sortsregister anses å ha mistet sin særskilte betydning ti år etter at sorten ble slettet fra registeret, med mindre det foreligger særlige omstendigheter.
+unntatt dersom den andre sorten er en sort som ikke lenger finnes og der navnet ikke har fått en særskilt betydning.
+
+2\. For å fastslå om det foreligger fare for forveksling i henhold til første ledd skal vedkommende myndighet først analysere hvert av de visuelle, fonetiske og begrepsmessige aspektene separat og deretter foreta en samlet vurdering hvor den også tar hensyn til sortsnavn for samme eller en nært beslektet art, forutsatt at sortene nevnt i dette nummer og i første ledd enten er omfattet av en planteforedlerrett eller en søknad om dette, eller offisielt er blitt godkjente for markedsføring på et av følgende territorier:
+
+1. Unionen.
+2. Det europeiske økonomiske samarbeidsområde.
+3. En avtalepart i UPOV.
+4. Et medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD).
+
+3\. I denne artikkelen menes med
+
+1. «nært beslektet art» artene oppført i vedlegget,
+2. «offisielt sortsregister» en henvisning til den felles sortsliste for jordbruksvekster eller for grønnsakarter, nevnt i artikkel 17 i direktiv [2002/53/EF](eu/32002l0053) eller i artikkel 17 i direktiv [2002/55/EF](eu/32002l0055), til OECDs sortsliste eller til et plantesortsregister hos et UPOV-medlem,
+3. «en sort som ikke lenger finnes» en sort hvis materiale ikke lenger finnes,
+4. «en sort der navnet ikke har fått en særskilt betydning» en situasjon der et sortsnavn som er blitt oppført i et offisielt sortsregister anses å ha mistet sin særskilte betydning ti år etter at sorten ble slettet fra registeret, med mindre det foreligger særlige omstendigheter.
 
 ### Artikkel 6. Betegnelser som er i vanlig bruk ved markedsføring av varer
 
 1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom sortsnavnet er identisk med eller kan forveksles med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk.
 
-2\. Med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som i henhold til annet regelverk ikke skal brukes, menesvalutabetegnelser,begreper forbundet med vekt og mål,uttrykk og betegnelser som ikke er tillatt brukt til andre formål enn de som er fastsatt i Unionens eller en medlemsstats regelverk.
+2\. Med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som i henhold til annet regelverk ikke skal brukes, menes
+
+1. valutabetegnelser,
+2. begreper forbundet med vekt og mål,
+3. uttrykk og betegnelser som ikke er tillatt brukt til andre formål enn de som er fastsatt i Unionens eller en medlemsstats regelverk.
 
 ### Artikkel 7. Villedende innhold
 
 1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom det vil kunne villede eller skape forvirring med hensyn til sortens egenskaper, verdi eller identitet, dyrkerens identitet eller identiteten til en annen part i saken.
 
-2\. Sortsnavnet anses å kunne villede eller skape forvirring dersomdet gir et falskt inntrykk av at sorten er beslektet med eller avledet fra en annen særskilt sort,det gir et falskt inntrykk av at sorten har en bestemt egenskap eller verdi,det viser til en bestemt egenskap eller verdi på en måte som gir et falskt inntrykk av at bare denne sorten har denne bestemte egenskapen eller verdien, til tross for at andre sorter av den samme arten også kan ha den,det har likheter med et velkjent handelsnavn som ikke er et registrert varemerke eller sortsnavn,det antyder at sorten er en annen,det gir et falskt inntrykk med hensyn til identiteten til søkeren, identiteten til den ansvarlige for sortsvedlikeholdet eller identiteten til planteforedleren,det består av eller inneholderkomparativer eller superlativer som kan være villedende med hensyn til sortens egenskaper,det botaniske eller vanlige navnet på en art innenfor den gruppe av enten jordbruksvekster eller grønnsakarter som sorten tilhører,navnet på en fysisk eller juridisk person eller en henvisning til en slik, som gir et falskt inntrykk med hensyn til identiteten til søkeren, til den ansvarlige for sortsvedlikeholdet eller til planteforedleren,det omfatter et geografisk navn som kan villede brukeren med hensyn til sortens egenskaper, dyrkingsverdi eller bruk.
+2\. Sortsnavnet anses å kunne villede eller skape forvirring dersom
+
+1. det gir et falskt inntrykk av at sorten er beslektet med eller avledet fra en annen særskilt sort,
+2. det gir et falskt inntrykk av at sorten har en bestemt egenskap eller verdi,
+3. det viser til en bestemt egenskap eller verdi på en måte som gir et falskt inntrykk av at bare denne sorten har denne bestemte egenskapen eller verdien, til tross for at andre sorter av den samme arten også kan ha den,
+4. det har likheter med et velkjent handelsnavn som ikke er et registrert varemerke eller sortsnavn,
+5. det antyder at sorten er en annen,
+6. det gir et falskt inntrykk med hensyn til identiteten til søkeren, identiteten til den ansvarlige for sortsvedlikeholdet eller identiteten til planteforedleren,
+7. det består av eller inneholder
+
+   1. komparativer eller superlativer som kan være villedende med hensyn til sortens egenskaper,
+   2. det botaniske eller vanlige navnet på en art innenfor den gruppe av enten jordbruksvekster eller grønnsakarter som sorten tilhører,
+   3. navnet på en fysisk eller juridisk person eller en henvisning til en slik, som gir et falskt inntrykk med hensyn til identiteten til søkeren, til den ansvarlige for sortsvedlikeholdet eller til planteforedleren,
+8. det omfatter et geografisk navn som kan villede brukeren med hensyn til sortens egenskaper, dyrkingsverdi eller bruk.
 
 ### Artikkel 8. Oppheving av forordning (EF) nr. 637/2009
 
@@ -303,14 +485,22 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. januar 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 3. mars 2021.*For Kommisjonen*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 3. mars 2021.
+
+*For Kommisjonen*
 Ursula von der Leyen
 *President*
 
 ### VEDLEGG
 Definisjon av nært beslektede arter i henhold til artikkel 5 nr. 3
 
-Med hensyn til definisjonen av «nært beslektet art» i henhold til artikkel 5 nr. 3, skal følgende gjelde:Dersom flere klasser inngår i en slekt, anvendes listen over klasser i del I.Dersom klasser omfatter mer enn én slekt, anvendes listen over klasser i del II.Generelt gjelder for slekter og arter som ikke omfattes av listene over klasser i del I og II, at slekten anses for å være en klasse.
+Med hensyn til definisjonen av «nært beslektet art» i henhold til artikkel 5 nr. 3, skal følgende gjelde:
+
+1. Dersom flere klasser inngår i en slekt, anvendes listen over klasser i del I.
+2. Dersom klasser omfatter mer enn én slekt, anvendes listen over klasser i del II.
+3. Generelt gjelder for slekter og arter som ikke omfattes av listene over klasser i del I og II, at slekten anses for å være en klasse.
 
 ### DEL I
 KLASSER SOM INNGÅR I EN SLEKT

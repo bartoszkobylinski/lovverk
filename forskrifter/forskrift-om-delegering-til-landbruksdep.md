@@ -24,12 +24,40 @@ eu_basis: []
 
 ## I
 
-Kongens myndighet til å tilsetteoverveterinær ved Norges Veterinærhøgskole og Veterinærinstituttetunderdirektør i Direktoratet for statens skogerstatsentomolog, statsmykolog og ugrasbiolog ved Statens planteverndelegeres til Landbruksdepartementet.
+Kongens myndighet til å tilsette
+
+1. overveterinær ved Norges Veterinærhøgskole og Veterinærinstituttet
+2. underdirektør i Direktoratet for statens skoger
+3. statsentomolog, statsmykolog og ugrasbiolog ved Statens plantevern
+
+delegeres til Landbruksdepartementet.
 
 ## II
 
-Kongens myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon forprofessorat, dosentur og administrative stillinger i medhold av lov om Norges Veterinærhøgskole av [2. april 1976 nr. 16 §§ 14](lov/1976-04-02-16/§14) og 15professorat, dosentur og administrative stillinger i medhold av [lov om Norges Landbrukshøgskole av 29. juni 1962 §§ 15](lov/1962-06-29-1/§15) og [16](lov/1962-06-29-1/§16).fylkesveterinær i medhold av lov om veterinærer m.v. av 10. desember 1948 § 21delegeres til Landbruksdepartementet forsåvidt gjelder konstitusjon i stillinger som professor, dosent og administrative stillinger ved Norges Veterinærhøgskole og Norges Landbrukshøgskole i inntil 2 år og for fylkesveterinær i inntil 1 år.
+Kongens myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon for
+
+1. professorat, dosentur og administrative stillinger i medhold av lov om Norges Veterinærhøgskole av [2. april 1976 nr. 16 §§ 14](lov/1976-04-02-16/§14) og 15
+2. professorat, dosentur og administrative stillinger i medhold av [lov om Norges Landbrukshøgskole av 29. juni 1962 §§ 15](lov/1962-06-29-1/§15) og [16](lov/1962-06-29-1/§16).
+3. fylkesveterinær i medhold av lov om veterinærer m.v. av 10. desember 1948 § 21
+
+delegeres til Landbruksdepartementet forsåvidt gjelder konstitusjon i stillinger som professor, dosent og administrative stillinger ved Norges Veterinærhøgskole og Norges Landbrukshøgskole i inntil 2 år og for fylkesveterinær i inntil 1 år.
 
 ## III
 
-Kongens myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon fordirektør ved Veterinærinstituttetfylkeslandbrukssjefer i Jordbruksetatenfylkesskogsjefer i Skogbruksetatenfylkesjordskiftesjefer, jordskifteoverdommere og jordskiftedommere i Jordskifteverketdirektør ved Statens fagtjeneste for landbruketreindriftssjef ved Reindriftsadministrasjonendirektør og forskningssjef ved Norsk institutt for skogforskningdirektør ved Norges landbruksøkonomiske instituttstatsskogsjef i Direktoratet for statens skogerdirektør i Statens planteverndirektør i Norges landbruksvitenskapelige forskningsråddirektør i Statens landbruksbankdirektør i Statens kornforretningdelegeres til Landbruksdepartementet forsåvidt gjelder konstitusjon i ovennevnte stillinger i inntil 1 år.
+Kongens myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon for
+
+1. direktør ved Veterinærinstituttet
+2. fylkeslandbrukssjefer i Jordbruksetaten
+3. fylkesskogsjefer i Skogbruksetaten
+4. fylkesjordskiftesjefer, jordskifteoverdommere og jordskiftedommere i Jordskifteverket
+5. direktør ved Statens fagtjeneste for landbruket
+6. reindriftssjef ved Reindriftsadministrasjonen
+7. direktør og forskningssjef ved Norsk institutt for skogforskning
+8. direktør ved Norges landbruksøkonomiske institutt
+9. statsskogsjef i Direktoratet for statens skoger
+10. direktør i Statens plantevern
+11. direktør i Norges landbruksvitenskapelige forskningsråd
+12. direktør i Statens landbruksbank
+13. direktør i Statens kornforretning
+
+delegeres til Landbruksdepartementet forsåvidt gjelder konstitusjon i ovennevnte stillinger i inntil 1 år.

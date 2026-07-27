@@ -15,7 +15,7 @@ xml_hash: "a481dd33a89a91486d7aa149b1927da1ad305e7da30a177b195401a6f5ffc78b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Departementet kan gi forskrift om lovens virkeområde.
 
 ## § 3. Definisjoner
 
-I loven menes medulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet.hendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret.alvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke.
+I loven menes med
+
+1. ulykke: en uønsket eller utilsiktet begivenhet, eller en bestemt rekke slike begivenheter, som har skadelige følger. Med skadelige følger menes blant annet tap av menneskeliv, alvorlig personskade, omfattende skade på eller tap av materiell og omfattende skade på eiendom eller miljøet.
+2. hendelse: enhver annen uønsket eller utilsiktet begivenhet enn en ulykke, som har sammenheng med militær virksomhet og som virker inn på sikkerheten i Forsvaret.
+3. alvorlig hendelse: en hendelse som under litt andre omstendigheter kunne ha ført til en ulykke.
 
 ## § 4. Om undersøkelsesmyndigheten
 
@@ -118,7 +122,11 @@ Departementet kan gi forskrift om mandat, arbeid, fremdrift og kompetansekrav fo
 
 ## § 15. Hensikten med undersøkelsen
 
-Hensikten med undersøkelsen er åbringe på det rene skadens art og omfang, hendelsesforløp og årsak,klarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samtuttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden.
+Hensikten med undersøkelsen er å
+
+1. bringe på det rene skadens art og omfang, hendelsesforløp og årsak,
+2. klarlegge hvilke lover, forskrifter, instrukser eller ordre som gjaldt for den virksomhet eller det oppdrag hvor hendelsen inntraff, samt
+3. uttale seg om hva som kan gjøres for å avverge lignende ulykker eller hendelser i fremtiden.
 
 ## § 16. Forklaringsplikt
 
@@ -188,7 +196,11 @@ Opplysninger undersøkelsesmyndigheten mottar etter [§ 16](lov/2016-12-16-92/§
 
 En vernepliktig eller arbeidstaker som avgir forklaring etter [§ 16](lov/2016-12-16-92/§16), skal ikke som følge av dette utsettes for noen form for sanksjoner fra den foresatte eller arbeidsgiveren.
 
-Første ledd gjelder ikketiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner.dersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling.omstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter [§ 16](lov/2016-12-16-92/§16).
+Første ledd gjelder ikke
+
+1. tiltak som den foresatte eller arbeidsgiveren iverksetter med hovedformål å forbedre den vernepliktiges eller arbeidstakerens kvalifikasjoner.
+2. dersom de mottatte opplysningene viser at den vernepliktige eller arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling.
+3. omstendigheter knyttet til den vernepliktige eller arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom dennes forklaring etter [§ 16](lov/2016-12-16-92/§16).
 
 ## § 26. Straff
 

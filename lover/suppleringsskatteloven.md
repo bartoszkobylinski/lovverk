@@ -15,7 +15,7 @@ xml_hash: "937138733663cd24b1e70a96556826d10a8393543368a1cef561b0c3a0b838fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Lov om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskattel
 
 (3) Regler om hvilke enheter i konsernet og i felleskontrollert virksomhet og dens underenheter som er suppleringsskattepliktige, er gitt i [kapittel 2](lov/2024-01-12-1/kap2).
 
-(4) Den effektive skattesatsen før suppleringsskatt fastsettes tilsummen av justerte skatter for hver konsernenhet i jurisdiksjonen, beregnet etter [kapittel 4](lov/2024-01-12-1/kap4), delt påsamlet overskudd for konsernenhetene i jurisdiksjonen, beregnet etter [kapittel 3](lov/2024-01-12-1/kap3).
+(4) Den effektive skattesatsen før suppleringsskatt fastsettes til
+
+1. summen av justerte skatter for hver konsernenhet i jurisdiksjonen, beregnet etter [kapittel 4](lov/2024-01-12-1/kap4), delt på
+2. samlet overskudd for konsernenhetene i jurisdiksjonen, beregnet etter [kapittel 3](lov/2024-01-12-1/kap3).
 
 (5) Suppleringsskatten beregnes etter reglene i [kapittel 5](lov/2024-01-12-1/kap5).
 
@@ -58,9 +61,19 @@ Denne loven gjelder enheter og felleskontrollert virksomhet og dens underenheter
 
 ### § 1-3. Unntatte enheter
 
-(1) Som unntatte enheter regnes:Offentlige enheter,Internasjonale organisasjoner,Ideelle organisasjoner,Pensjonsfond,Investeringsfond, hvis enheten er øverste morselskapInvesteringsenhet som investerer i fast eiendom, hvis enheten er øverste morselskap.
+(1) Som unntatte enheter regnes:
 
-(2) Som unntatte enheter regnes også følgende enheter:Enheter hvor minst 95 prosent av verdien eies direkte eller gjennom en kjede av unntatte enheter, av én eller flere unntatte enheter som nevnt i første ledd og som ikke er en pensjonsforvaltningsenhet, forutsatt at enhetens aktivitet utelukkende eller nesten utelukkende er å eie eiendeler for, eller investere for, enheter som nevnt i første ledd, eller kun er å utføre aktivitet med tilknytning til eierens aktivitet, eller en kombinasjon av disse.Enheter hvor minst 85 prosent av verdien eies direkte eller gjennom en kjede av unntatte enheter, av én eller flere unntatte enheter som nevnt i første ledd og som ikke er en pensjonsforvaltningsenhet, forutsatt at tilnærmet hele enhetens inntekt består av fritatt utbytte eller fritatt egenkapitalgevinst eller -tap som er unntatt ved beregningen av justert resultat, jf. [§ 3-2 første ledd bokstav b](lov/2024-01-12-1/§3-2/ledd/1/bokstav/b) og [c](lov/2024-01-12-1/§3-2/ledd/1/bokstav/c).
+1. Offentlige enheter,
+2. Internasjonale organisasjoner,
+3. Ideelle organisasjoner,
+4. Pensjonsfond,
+5. Investeringsfond, hvis enheten er øverste morselskap
+6. Investeringsenhet som investerer i fast eiendom, hvis enheten er øverste morselskap.
+
+(2) Som unntatte enheter regnes også følgende enheter:
+
+1. Enheter hvor minst 95 prosent av verdien eies direkte eller gjennom en kjede av unntatte enheter, av én eller flere unntatte enheter som nevnt i første ledd og som ikke er en pensjonsforvaltningsenhet, forutsatt at enhetens aktivitet utelukkende eller nesten utelukkende er å eie eiendeler for, eller investere for, enheter som nevnt i første ledd, eller kun er å utføre aktivitet med tilknytning til eierens aktivitet, eller en kombinasjon av disse.
+2. Enheter hvor minst 85 prosent av verdien eies direkte eller gjennom en kjede av unntatte enheter, av én eller flere unntatte enheter som nevnt i første ledd og som ikke er en pensjonsforvaltningsenhet, forutsatt at tilnærmet hele enhetens inntekt består av fritatt utbytte eller fritatt egenkapitalgevinst eller -tap som er unntatt ved beregningen av justert resultat, jf. [§ 3-2 første ledd bokstav b](lov/2024-01-12-1/§3-2/ledd/1/bokstav/b) og [c](lov/2024-01-12-1/§3-2/ledd/1/bokstav/c).
 
 (3) Enheter som, direkte eller indirekte gjennom en kjede av unntatte enheter, er eid av investeringsfond eller investeringsenhet som investerer i fast eiendom, er omfattet av andre ledd selv om investeringsfondet eller investeringsenheten, som følge av unntak fra konsolideringsplikt, ikke er å anse som det øverste morselskapet.
 
@@ -98,7 +111,10 @@ En konsernenhet som er lokalisert i Norge og er det øverste morselskapet i et k
 
 (1) En konsernenhet som er lokalisert i Norge og er et mellomliggende morselskap i et konsern, og som direkte eller indirekte har hatt en eierinteresse i en underbeskattet konsernenhet i løpet av regnskapsåret, er skattepliktig for sin andel av suppleringsskatten fra den underbeskattede konsernenheten. Et slikt morselskap skal også beregne suppleringsskatt for seg selv, og er suppleringsskattepliktig for denne.
 
-(2) Første ledd gjelder ikke hvis:det øverste morselskapet i konsernet er skattepliktig etter en kvalifisert regel om skatteinkludering i regnskapsåret, elleret annet mellomliggende morselskap som har en kontrollerende eierinteresse i det mellomliggende morselskapet, er skattepliktig etter en kvalifisert regel om skatteinkludering i regnskapsåret.
+(2) Første ledd gjelder ikke hvis:
+
+1. det øverste morselskapet i konsernet er skattepliktig etter en kvalifisert regel om skatteinkludering i regnskapsåret, eller
+2. et annet mellomliggende morselskap som har en kontrollerende eierinteresse i det mellomliggende morselskapet, er skattepliktig etter en kvalifisert regel om skatteinkludering i regnskapsåret.
 
 ### § 2-3. Skatteplikt for deleid morselskap
 
@@ -112,7 +128,12 @@ En konsernenhet som er lokalisert i Norge og er det øverste morselskapet i et k
 
 (2) Morselskapets forholdstall for regnskapsåret utgjør den underbeskattede konsernenhetens justerte overskudd for regnskapsåret fratrukket den delen av justert overskudd som skal fordeles til andre eiere, delt på den underbeskattede konsernenhetens justerte overskudd for regnskapsåret.
 
-(3) Den delen av justert overskudd som skal fordeles til andre eiere av en underbeskattet konsernenhet, er det beløpet som ville blitt fordelt til andre eiere etter det aksepterte regnskapsspråket som ble brukt i det øverste morselskapets konsernregnskap, hvis den underbeskattede konsernenhetens regnskapsmessige resultat var lik dens justerte overskudd, ogmorselskapet hadde utarbeidet konsernregnskap i samsvar med dette regnskapsspråket (hypotetisk konsernregnskap),morselskapet hadde en kontrollerende eierinteresse i den underbeskattede konsernenheten, slik at alle inntekter og kostnader i den underbeskattede konsernenheten ble konsolidert linje for linje i morselskapets hypotetiske konsernregnskap,hele det justerte overskuddet til den underbeskattede konsernenheten forutsettes å gjelde transaksjoner med noen som ikke er enheter i samme konsern, ogde eierinteressene som ikke eies direkte eller indirekte av morselskapet, forutsettes å være eid av andre enheter utenfor konsernet.
+(3) Den delen av justert overskudd som skal fordeles til andre eiere av en underbeskattet konsernenhet, er det beløpet som ville blitt fordelt til andre eiere etter det aksepterte regnskapsspråket som ble brukt i det øverste morselskapets konsernregnskap, hvis den underbeskattede konsernenhetens regnskapsmessige resultat var lik dens justerte overskudd, og
+
+1. morselskapet hadde utarbeidet konsernregnskap i samsvar med dette regnskapsspråket (hypotetisk konsernregnskap),
+2. morselskapet hadde en kontrollerende eierinteresse i den underbeskattede konsernenheten, slik at alle inntekter og kostnader i den underbeskattede konsernenheten ble konsolidert linje for linje i morselskapets hypotetiske konsernregnskap,
+3. hele det justerte overskuddet til den underbeskattede konsernenheten forutsettes å gjelde transaksjoner med noen som ikke er enheter i samme konsern, og
+4. de eierinteressene som ikke eies direkte eller indirekte av morselskapet, forutsettes å være eid av andre enheter utenfor konsernet.
 
 (4) For enheter med deltakerfastsetting, skal justert overskudd etter denne paragrafen ikke inkludere inntekt som etter [§ 3-5 første ledd](lov/2024-01-12-1/§3-5/ledd/1) er fordelt til eiere som ikke er enheter i samme konsern.
 
@@ -142,9 +163,15 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 ### § 2-11. Skattefordelingsbeløpet
 
-(1) Konsernets skattefordelingsbeløp utgjørsummen av suppleringsskatt for alle underbeskattede konsernenheter i konsernet for regnskapsåret, beregnet i samsvar med regler tilsvarende [§ 5-1](lov/2024-01-12-1/§5-1), fradrattsummen av suppleringskatt ilagt etter en kvalifisert regel om skatteinkludering.
+(1) Konsernets skattefordelingsbeløp utgjør
 
-(2) For første ledd gjelder:Suppleringsskatt beregnet for en underbeskattet konsernenhet, og som ellers ville inngått i beløpet etter første ledd, skal reduseres til null dersom hele det øverste morselskapets eierinteresse i den underbeskattede konsernenheten direkte eller indirekte innehas av ett eller flere mellomliggende morselskap som må anvende en kvalifisert regel om skatteinkludering i den jurisdiksjonen de er lokalisert i, på suppleringsskatten beregnet for den underbeskattede konsernenheten for regnskapsåret.Der bokstav a ikke får anvendelse, skal suppleringsskatt som er beregnet for en underbeskattet konsernenhet, og som ellers ville inngått i beløpet etter første ledd, reduseres med et morselskaps andel av suppleringsskatten som er beregnet for den underbeskattede konsernenheten og som ilegges etter en kvalifisert regel om skatteinkludering.
+1. summen av suppleringsskatt for alle underbeskattede konsernenheter i konsernet for regnskapsåret, beregnet i samsvar med regler tilsvarende [§ 5-1](lov/2024-01-12-1/§5-1), fradratt
+2. summen av suppleringskatt ilagt etter en kvalifisert regel om skatteinkludering.
+
+(2) For første ledd gjelder:
+
+1. Suppleringsskatt beregnet for en underbeskattet konsernenhet, og som ellers ville inngått i beløpet etter første ledd, skal reduseres til null dersom hele det øverste morselskapets eierinteresse i den underbeskattede konsernenheten direkte eller indirekte innehas av ett eller flere mellomliggende morselskap som må anvende en kvalifisert regel om skatteinkludering i den jurisdiksjonen de er lokalisert i, på suppleringsskatten beregnet for den underbeskattede konsernenheten for regnskapsåret.
+2. Der bokstav a ikke får anvendelse, skal suppleringsskatt som er beregnet for en underbeskattet konsernenhet, og som ellers ville inngått i beløpet etter første ledd, reduseres med et morselskaps andel av suppleringsskatten som er beregnet for den underbeskattede konsernenheten og som ilegges etter en kvalifisert regel om skatteinkludering.
 
 > Tilføyd ved lov [20 des 2024 nr. 92](lov/2024-12-20-92) (i kraft 1 jan 2025, med virkning fra inntektsåret 2025), endret ved lov [22 des 2025 nr. 123](lov/2025-12-22-123) (med virkning fra inntektsåret 2025).
 
@@ -154,7 +181,14 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 (2) Prosentandelen fastsettes for hvert regnskapsår for hvert konsern, og fastsettes til 50 prosent av forholdet mellom antall ansatte i Norge og antall ansatte i alle jurisdiksjoner med en kvalifisert regel om skattefordeling og 50 prosent av forholdet mellom den samlede verdien av fysiske eiendeler i Norge og den samlede verdien av fysiske eiendeler i alle jurisdiksjoner med en kvalifisert regel om skattefordeling.
 
-(3) For beregningen etter andre ledd gjelder:Antallet ansatte i Norge utgjør det samlede antallet ansatte i alle konsernenhetene som er lokalisert i Norge.Det samlede antallet ansatte i alle jurisdiksjoner med en kvalifisert regel om skattefordeling utgjør det samlede antall ansatte i alle konsernenheter som er lokalisert i en jurisdiksjon med en kvalifisert regel om skattefordeling.Den samlede verdien av fysiske eiendeler i Norge utgjør summen av netto bokført verdi av de fysiske eiendelene i alle konsernenhetene som er lokalisert i Norge.Den samlede verdien av fysiske eiendeler i alle jurisdiksjoner utgjør summen av netto bokført verdi av de fysiske eiendelene i alle konsernenhetene som er lokalisert i en jurisdiksjon med en kvalifisert regel om skattefordeling.Ansatte og fysiske eiendeler i investeringsenheter regnes ikke med.Ansatte og fysiske eiendeler i enheter med deltakerfastsetting som ikke tilordnes faste driftssteder, skal tilordnes den konsernenheten som er lokalisert i den jurisdiksjonen som enheten med deltakerfastsetting ble opprettet i. Ansatte og fysiske eiendeler i enheter med deltakerfastsetting som hverken tilordnes faste driftssteder eller tilordnes etter denne bestemmelsen, skal ikke tas med ved beregningen av beløpet etter andre ledd.
+(3) For beregningen etter andre ledd gjelder:
+
+1. Antallet ansatte i Norge utgjør det samlede antallet ansatte i alle konsernenhetene som er lokalisert i Norge.
+2. Det samlede antallet ansatte i alle jurisdiksjoner med en kvalifisert regel om skattefordeling utgjør det samlede antall ansatte i alle konsernenheter som er lokalisert i en jurisdiksjon med en kvalifisert regel om skattefordeling.
+3. Den samlede verdien av fysiske eiendeler i Norge utgjør summen av netto bokført verdi av de fysiske eiendelene i alle konsernenhetene som er lokalisert i Norge.
+4. Den samlede verdien av fysiske eiendeler i alle jurisdiksjoner utgjør summen av netto bokført verdi av de fysiske eiendelene i alle konsernenhetene som er lokalisert i en jurisdiksjon med en kvalifisert regel om skattefordeling.
+5. Ansatte og fysiske eiendeler i investeringsenheter regnes ikke med.
+6. Ansatte og fysiske eiendeler i enheter med deltakerfastsetting som ikke tilordnes faste driftssteder, skal tilordnes den konsernenheten som er lokalisert i den jurisdiksjonen som enheten med deltakerfastsetting ble opprettet i. Ansatte og fysiske eiendeler i enheter med deltakerfastsetting som hverken tilordnes faste driftssteder eller tilordnes etter denne bestemmelsen, skal ikke tas med ved beregningen av beløpet etter andre ledd.
 
 (4) En jurisdiksjons prosentandel av konsernets skattefordelingsbeløp skal uansett settes til null for et regnskapsår dersom andelen av skattefordelingsbeløpet fordelt til jurisdiksjonen etter en skattefordelingsregel for et tidligere regnskapsår ikke har medført at konsernenhetene lokalisert i jurisdiksjonen har blitt ilagt en skatt som tilsvarer hele det fordelte beløpet. Antall ansatte og fysiske eiendeler til en konsernenhet lokalisert i en jurisdiksjon der prosentandelen er null for et regnskapsår, skal holdes utenfor beregningen av fordelingen det aktuelle regnskapsåret.
 
@@ -176,11 +210,21 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 (1) Konsernets skattefordelingsbeløp, jf. § 2-11 første ledd, skal reduseres til null i startfasen av et konserns internasjonale aktivitet.
 
-(2) Et konsern anses å være i startfasen av sin internasjonale aktivitet for et regnskapsår dersom:konsernet har konsernenheter i inntil seks jurisdiksjoner inkludert referansejurisdiksjonen, ogsummen av netto bokført verdi av fysiske eiendeler i alle konsernenheter lokalisert i alle jurisdiksjoner med unntak av referansejurisdiksjonen, ikke overstiger 50 millioner euro.
+(2) Et konsern anses å være i startfasen av sin internasjonale aktivitet for et regnskapsår dersom:
 
-(3) Jurisdiksjoner i andre ledd bokstav a omfatter også jurisdiksjoner der kun minoritetseide konsernenheter er lokalisert, men ikke jurisdiksjoner der kun følgende enheter er lokalisert:statsløse konsernenheterinvesteringsenheter som ikke er unntatte enheterfelleskontrollert virksomhet eller dens underenheter
+1. konsernet har konsernenheter i inntil seks jurisdiksjoner inkludert referansejurisdiksjonen, og
+2. summen av netto bokført verdi av fysiske eiendeler i alle konsernenheter lokalisert i alle jurisdiksjoner med unntak av referansejurisdiksjonen, ikke overstiger 50 millioner euro.
 
-(4) Fysiske eiendeler i andre ledd bokstav b omfatter fysiske eiendeler som tilhører statsløse konsernenheter og minoritetseide konsernenheter. Fysiske eiendeler i andre ledd bokstav b omfatter ikke:fysiske eiendeler som tilhører investeringsenheter som ikke er unntatte enheterfelleskontrollert virksomhet eller dens underenheter.
+(3) Jurisdiksjoner i andre ledd bokstav a omfatter også jurisdiksjoner der kun minoritetseide konsernenheter er lokalisert, men ikke jurisdiksjoner der kun følgende enheter er lokalisert:
+
+1. statsløse konsernenheter
+2. investeringsenheter som ikke er unntatte enheter
+3. felleskontrollert virksomhet eller dens underenheter
+
+(4) Fysiske eiendeler i andre ledd bokstav b omfatter fysiske eiendeler som tilhører statsløse konsernenheter og minoritetseide konsernenheter. Fysiske eiendeler i andre ledd bokstav b omfatter ikke:
+
+1. fysiske eiendeler som tilhører investeringsenheter som ikke er unntatte enheter
+2. felleskontrollert virksomhet eller dens underenheter.
 
 (5) Denne paragrafen gjelder ikke for regnskapsår som starter senere enn fem år etter den første dagen i det første regnskapsåret som konsernet opprinnelig faller innenfor anvendelsesområdet til suppleringsskattereglene. For konsern som er innenfor anvendelsesområdet til suppleringsskattereglene når disse trer i kraft, skal femårsperioden anses å begynne når skattefordelingsregelen trer i kraft.
 
@@ -196,7 +240,12 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 (2) Nasjonal suppleringsskatt beregnes på samme måte som suppleringsskatt etter reglene i og gitt i medhold av denne loven, med mindre annet er presisert. Der [suppleringsskatteloven](lov/2024-01-12-1) eller forskrift til [suppleringsskatteloven](lov/2024-01-12-1) gir konsernet en valgadgang, skal samme valg benyttes ved beregningen av suppleringsskatt og nasjonal suppleringsskatt. Ved beregningen etter [§ 5-1 andre ledd](lov/2024-01-12-1/§5-1/ledd/2) skal beregnet nasjonal suppleringsskatt ikke fradras. Bestemmelsen i [§ 2-14](lov/2024-01-12-1/§2-14) gjelder ikke ved beregningen av nasjonal suppleringsskatt.
 
-(3) Ved beregningen av nasjonal suppleringsskatt skal følgende omfattede skatter ikke medregnes ved beregningen av konsernenhetens effektive skattesats:skatt betalt av konsernenhetens eiende konsernenhet etter regler om beskatning av inntekt i kontrollerte utenlandske selskaper, for inntekt opptjent av konsernenheten,skatt betalt av en hovedenhet for inntekt opptjent av konsernenheten, dersom denne er et fast driftssted,skatt betalt av konsernenhetens eiende konsernenhet, dersom konsernenheten er en hybrid enhet eller omvendt hybrid enhet lokalisert i Norge,skatt betalt av konsernenhetens eiende konsernenhet, unntatt kildeskatter ilagt i Norge, på utdelinger fra konsernenheten.
+(3) Ved beregningen av nasjonal suppleringsskatt skal følgende omfattede skatter ikke medregnes ved beregningen av konsernenhetens effektive skattesats:
+
+1. skatt betalt av konsernenhetens eiende konsernenhet etter regler om beskatning av inntekt i kontrollerte utenlandske selskaper, for inntekt opptjent av konsernenheten,
+2. skatt betalt av en hovedenhet for inntekt opptjent av konsernenheten, dersom denne er et fast driftssted,
+3. skatt betalt av konsernenhetens eiende konsernenhet, dersom konsernenheten er en hybrid enhet eller omvendt hybrid enhet lokalisert i Norge,
+4. skatt betalt av konsernenhetens eiende konsernenhet, unntatt kildeskatter ilagt i Norge, på utdelinger fra konsernenheten.
 
 (4) Den enkelte konsernenheten, samt felleskontrollert virksomhet og dens underenheter, skal svare sin andel av den nasjonale suppleringsskatten for regnskapsåret beregnet etter [§ 5-1 tredje ledd](lov/2024-01-12-1/§5-1/ledd/3).
 
@@ -208,11 +257,19 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 (1) En konsernenhets justerte resultat er regnskapsmessig resultat justert i samsvar med [§§ 3-2](lov/2024-01-12-1/§3-2) til [3-5](lov/2024-01-12-1/§3-5). Endringer i inntekt eller kostnad som skyldes oppkjøpsmetoden for en ervervet virksomhet og som fremgår i konsernregnskapet, skal ikke tas med ved beregningen av en konsernenhets regnskapsmessige resultat. Øvrige inntekter eller kostnader som fremgår i konsernregnskapet, skal kun tas med dersom de på en pålitelig og konsekvent måte kan føres tilbake til den bestemte konsernenheten.
 
-(2) Er det ikke praktisk mulig å beregne konsernenhetens regnskapsmessige resultat på grunnlag av det regnskapsspråket som ble brukt ved utarbeidelsen av det øverste morselskapets konsernregnskap, kan det beregnes ved å benytte et annet akseptert eller autorisert regnskapsspråk, forutsatt at:konsernenhetens regnskap er ført i samsvar med dette regnskapsspråket,informasjonen i regnskapet er pålitelig, ogregnskapsmessig resultat justeres for permanente avvik som overstiger 1 million euro og som skyldes anvendelse av et annet prinsipp eller regnskapsspråk på inntektsposter, kostnadsposter eller transaksjoner. Regnskapsmessig resultat skal justeres i samsvar med det regnskapsspråket som benyttes ved utarbeidelsen av konsernregnskapet.Ved bruk av et autorisert regnskapsspråk, skal det justeres for vesentlig konkurransevridning.
+(2) Er det ikke praktisk mulig å beregne konsernenhetens regnskapsmessige resultat på grunnlag av det regnskapsspråket som ble brukt ved utarbeidelsen av det øverste morselskapets konsernregnskap, kan det beregnes ved å benytte et annet akseptert eller autorisert regnskapsspråk, forutsatt at:
+
+1. konsernenhetens regnskap er ført i samsvar med dette regnskapsspråket,
+2. informasjonen i regnskapet er pålitelig, og
+3. regnskapsmessig resultat justeres for permanente avvik som overstiger 1 million euro og som skyldes anvendelse av et annet prinsipp eller regnskapsspråk på inntektsposter, kostnadsposter eller transaksjoner. Regnskapsmessig resultat skal justeres i samsvar med det regnskapsspråket som benyttes ved utarbeidelsen av konsernregnskapet.
+4. Ved bruk av et autorisert regnskapsspråk, skal det justeres for vesentlig konkurransevridning.
 
 (3) Har det øverste morselskapet ikke utarbeidet sitt konsernregnskap i samsvar med et akseptert regnskapsspråk, skal regnskapsmessig resultat justeres for å forhindre vesentlig konkurransevridning.
 
-(4) Dersom det øverste morselskapet ikke utarbeider konsernregnskap, skal det øverste morselskapets konsernregnskap være det som ville ha blitt utarbeidet dersom det øverste morselskapet hadde vært pliktig til å utarbeide et slikt konsernregnskap i samsvar med:et akseptert regnskapsspråk, elleret autorisert regnskapsspråk, forutsatt at konsernregnskapet justeres for å forhindre vesentlig konkurransevridning.
+(4) Dersom det øverste morselskapet ikke utarbeider konsernregnskap, skal det øverste morselskapets konsernregnskap være det som ville ha blitt utarbeidet dersom det øverste morselskapet hadde vært pliktig til å utarbeide et slikt konsernregnskap i samsvar med:
+
+1. et akseptert regnskapsspråk, eller
+2. et autorisert regnskapsspråk, forutsatt at konsernregnskapet justeres for å forhindre vesentlig konkurransevridning.
 
 (5) Dersom det anvendes et spesielt prinsipp eller en spesiell fremgangsmåte ved bruk av et regnskapsspråk som ikke er et akseptert regnskapsspråk, som resulterer i en vesentlig konkurransevridning, skal den regnskapsmessige behandlingen av en post eller transaksjon som er omfattet av det prinsippet eller den fremgangsmåten, justeres. Justeringen skal skje slik at det blir samsvar med behandlingen etter IFRS (IFRS eller IFRS som vedtatt av EU etter Europaparlaments- og rådsforordning [(EF) nr. 1606/2002](eu/32002r1606) av 19. juli 2002 om anvendelse av internasjonale regnskapsstandarder (IFRS-forordningen)).
 
@@ -220,7 +277,18 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 ### § 3-2. Beregning av justert resultat
 
-(1) En konsernenhets regnskapsmessige resultat skal justeres for følgende forhold:netto skattekostnad,fritatt utbytte,fritatt egenkapitalgevinst eller -tap,gevinst eller tap i henhold til en verdireguleringsmodell,gevinst eller tap fra realisasjon av eiendeler eller forpliktelser som er fritatt etter [§ 6-2](lov/2024-01-12-1/§6-2),asymmetrisk behandling av gevinst eller tap på utenlandsk valuta,ikke anerkjente kostnader,feil i tidligere periode og endring av regnskapsprinsipp,avsatt pensjonskostnad eller -inntekt for en pensjonsplan med pensjonsfond, oginntekt i form av gjeldsettergivelse.
+(1) En konsernenhets regnskapsmessige resultat skal justeres for følgende forhold:
+
+1. netto skattekostnad,
+2. fritatt utbytte,
+3. fritatt egenkapitalgevinst eller -tap,
+4. gevinst eller tap i henhold til en verdireguleringsmodell,
+5. gevinst eller tap fra realisasjon av eiendeler eller forpliktelser som er fritatt etter [§ 6-2](lov/2024-01-12-1/§6-2),
+6. asymmetrisk behandling av gevinst eller tap på utenlandsk valuta,
+7. ikke anerkjente kostnader,
+8. feil i tidligere periode og endring av regnskapsprinsipp,
+9. avsatt pensjonskostnad eller -inntekt for en pensjonsplan med pensjonsfond, og
+10. inntekt i form av gjeldsettergivelse.
 
 (2) Rapporterende konsernenhet kan velge at fradrag for kostnader i forbindelse med aksjebaserte vederlag for konsernenhetene i en jurisdiksjon, skal settes til skattemessige kostnader. Valget om å benytte skattemessige kostnader er et femårsvalg og må anvendes konsekvent for aksjebasert vederlag for alle konsernenheter i jurisdiksjonen inntil valget eventuelt blir opphevet.
 
@@ -232,7 +300,11 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 (6) Den rapporterende konsernenheten kan velge at konsernenhetene i en jurisdiksjon sin samlede netto gevinst fra avhendelse av fast eiendom i jurisdiksjonen til tredjepart utenfor konsernet, skal regnes mot netto tap fra slik avhendelse som konsernenheter i jurisdiksjonen har hatt i det året valget er tatt for og de fire foregående regnskapsårene. Valget er et ettårsvalg.
 
-(7) Det gis ikke fradrag for kostnader knyttet til en finansieringsstruktur der en eller flere konsernenheter gir lån til, eller på annen måte investerer i, en eller flere konsernenheter i det samme konsernet når:konsernenheten er lokalisert i en jurisdiksjon med samlet overskudd der den effektive skattesatsen for konsernet er under 15 prosent, eller ville ha vært under 15 prosent dersom kostnaden ikke hadde påløpt hos konsernenheten,det kan forventes at finansieringsstrukturen over dens forventede varighet, vil øke kostnadene som skal inngå i beregningen av konsernenhetens justerte resultat, uten å medføre en tilsvarende økning i den skattepliktige inntekten til konsernenheten som gir lånet («motparten»), ogmotparten er lokalisert i en jurisdiksjon der den effektive skattesatsen for konsernet er minst 15 prosent, eller ville ha vært minst 15 prosent dersom motparten ikke hadde opptjent inntekten.
+(7) Det gis ikke fradrag for kostnader knyttet til en finansieringsstruktur der en eller flere konsernenheter gir lån til, eller på annen måte investerer i, en eller flere konsernenheter i det samme konsernet når:
+
+1. konsernenheten er lokalisert i en jurisdiksjon med samlet overskudd der den effektive skattesatsen for konsernet er under 15 prosent, eller ville ha vært under 15 prosent dersom kostnaden ikke hadde påløpt hos konsernenheten,
+2. det kan forventes at finansieringsstrukturen over dens forventede varighet, vil øke kostnadene som skal inngå i beregningen av konsernenhetens justerte resultat, uten å medføre en tilsvarende økning i den skattepliktige inntekten til konsernenheten som gir lånet («motparten»), og
+3. motparten er lokalisert i en jurisdiksjon der den effektive skattesatsen for konsernet er minst 15 prosent, eller ville ha vært minst 15 prosent dersom motparten ikke hadde opptjent inntekten.
 
 (8) Det øverste morselskapet kan velge å anvende sin regnskapsføring i samsvar med konsernregnskapet for å eliminere inntekter, kostnader, gevinster og tap ved transaksjoner mellom konsernenheter som er lokalisert i samme jurisdiksjon og som inngår i et konsern med konsolidert skattegrunnlag, ved beregning av konsernenhetenes justerte resultat. Valget er et femårsvalg. For det året valget tas eller oppheves, skal det gjøres korreksjoner slik at inntekt eller underskudd i justert resultat ikke tas med mer enn én gang eller utelates som følge av valget eller at valget oppheves.
 
@@ -264,7 +336,10 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 ### § 3-5. Enhet med deltakerfastsetting
 
-(1) For en konsernenhet som er en enhet med deltakerfastsetting, skal regnskapsmessig resultat reduseres med det beløpet som fordeles til eiere som ikke er enheter i konsernet og som har eierinteresse i enheten med deltakerfastsetting direkte eller indirekte gjennom en skattetransparent struktur, unntatt:dersom enheten med deltakerfastsetting er det øverste morselskapet, elleri den grad enheten med deltakerfastsetting direkte, eller indirekte gjennom en skattetransparent struktur, er eid av det øverste morselskapet, som er en enhet med deltakerfastsetting, og den eksterne eieren har eierinteressen gjennom det øverste morselskapet.
+(1) For en konsernenhet som er en enhet med deltakerfastsetting, skal regnskapsmessig resultat reduseres med det beløpet som fordeles til eiere som ikke er enheter i konsernet og som har eierinteresse i enheten med deltakerfastsetting direkte eller indirekte gjennom en skattetransparent struktur, unntatt:
+
+1. dersom enheten med deltakerfastsetting er det øverste morselskapet, eller
+2. i den grad enheten med deltakerfastsetting direkte, eller indirekte gjennom en skattetransparent struktur, er eid av det øverste morselskapet, som er en enhet med deltakerfastsetting, og den eksterne eieren har eierinteressen gjennom det øverste morselskapet.
 
 (2) Det regnskapsmessige resultatet for en konsernenhet som er en enhet med deltakerfastsetting, skal reduseres med den delen av det regnskapsmessige resultatet som fordeles til en annen konsernenhet.
 
@@ -282,11 +357,26 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 ### § 4-1. Justert skatt
 
-(1) En konsernenhets justerte skatt settes til betalbar skatt som er medregnet i det regnskapsmessige resultatet, for så vidt den gjelder omfattede skatter for regnskapsåret, justert med:netto tillegg og reduksjoner for regnskapsåret etter andre og tredje ledd,utsatt skatt etter [§ 4-2](lov/2024-01-12-1/§4-2), ogøkning eller nedgang i omfattede skatter ført mot egenkapital eller som andre inntekter og kostnader og som er relatert til beløp som er tatt med ved beregningen av justert resultat, og som vil være skattepliktig etter skattereglene i jurisdiksjonen der konsernenheten er lokalisert.
+(1) En konsernenhets justerte skatt settes til betalbar skatt som er medregnet i det regnskapsmessige resultatet, for så vidt den gjelder omfattede skatter for regnskapsåret, justert med:
 
-(2) Ved beregning av justert skatt skal følgende legges til:omfattet skatt som er ført som kostnad i resultatet før skatt i regnskapet,benyttet skattefordel i henhold til et valg om bruk av justert underskudd etter [§ 4-4](lov/2024-01-12-1/§4-4),omfattet skatt som gjelder en usikker skatteposisjon som tidligere er utelatt etter tredje ledd bokstav d, som er betalt i regnskapsåret, ogfradrag eller refusjon for et kvalifisert refunderbart skattefradrag eller et omsettelig skattefradrag som er ført som en reduksjon av betalbar skatt.
+1. netto tillegg og reduksjoner for regnskapsåret etter andre og tredje ledd,
+2. utsatt skatt etter [§ 4-2](lov/2024-01-12-1/§4-2), og
+3. økning eller nedgang i omfattede skatter ført mot egenkapital eller som andre inntekter og kostnader og som er relatert til beløp som er tatt med ved beregningen av justert resultat, og som vil være skattepliktig etter skattereglene i jurisdiksjonen der konsernenheten er lokalisert.
 
-(3) Ved beregning av justert skatt skal følgende trekkes fra:betalbar skatt som gjelder inntekt som er fritatt fra beregningen av justert resultat etter [§§ 3-1](lov/2024-01-12-1/§3-1) til [3-4](lov/2024-01-12-1/§3-4),ikke-kvalifisert refunderbart skattefradrag, ikke-omsettelig skattefradrag og andre skattefradrag som ikke er ført som reduksjon av betalbar skatt,omfattet skatt som er refundert eller kreditert en konsernenhet, og som ikke er ført som reduksjon av betalbar skatt i regnskapet, med mindre den er knyttet til et kvalifisert refunderbart skattefradrag eller et omsettelig skattefradrag,betalbar skatt som gjelder en usikker skatteposisjon, ogbetalbar skatt som ikke forventes å bli betalt innen tre år etter utløpet av regnskapsåret.
+(2) Ved beregning av justert skatt skal følgende legges til:
+
+1. omfattet skatt som er ført som kostnad i resultatet før skatt i regnskapet,
+2. benyttet skattefordel i henhold til et valg om bruk av justert underskudd etter [§ 4-4](lov/2024-01-12-1/§4-4),
+3. omfattet skatt som gjelder en usikker skatteposisjon som tidligere er utelatt etter tredje ledd bokstav d, som er betalt i regnskapsåret, og
+4. fradrag eller refusjon for et kvalifisert refunderbart skattefradrag eller et omsettelig skattefradrag som er ført som en reduksjon av betalbar skatt.
+
+(3) Ved beregning av justert skatt skal følgende trekkes fra:
+
+1. betalbar skatt som gjelder inntekt som er fritatt fra beregningen av justert resultat etter [§§ 3-1](lov/2024-01-12-1/§3-1) til [3-4](lov/2024-01-12-1/§3-4),
+2. ikke-kvalifisert refunderbart skattefradrag, ikke-omsettelig skattefradrag og andre skattefradrag som ikke er ført som reduksjon av betalbar skatt,
+3. omfattet skatt som er refundert eller kreditert en konsernenhet, og som ikke er ført som reduksjon av betalbar skatt i regnskapet, med mindre den er knyttet til et kvalifisert refunderbart skattefradrag eller et omsettelig skattefradrag,
+4. betalbar skatt som gjelder en usikker skatteposisjon, og
+5. betalbar skatt som ikke forventes å bli betalt innen tre år etter utløpet av regnskapsåret.
 
 (4) En omfattet skatt som faller inn under flere av bokstavene under første til tredje ledd, kan bare tas med én gang ved beregningen av justert skatt.
 
@@ -296,21 +386,52 @@ Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhe
 
 ### § 4-2. Utsatt skatt
 
-(1) For denne paragrafen gjelder følgende definisjoner:ikke anerkjent avsetning:en endring i utsatt skattekostnad ført i regnskapet til en konsernenhet, som gjelder en usikker skatteposisjon, ogen endring i utsatt skattekostnad ført i regnskapet til en konsernenhet, som gjelder utdelinger fra en konsernenhet,ukrevd avsetning:en økning i utsatt skatteforpliktelse ført i regnskapet til en konsernenhet for et regnskapsår, som den rapporterende konsernenheten velger å ikke ta med i justeringen for utsatt skatt dette regnskapsåret.
+(1) For denne paragrafen gjelder følgende definisjoner:
+
+1. ikke anerkjent avsetning:
+
+   1. en endring i utsatt skattekostnad ført i regnskapet til en konsernenhet, som gjelder en usikker skatteposisjon, og
+   2. en endring i utsatt skattekostnad ført i regnskapet til en konsernenhet, som gjelder utdelinger fra en konsernenhet,
+2. ukrevd avsetning:
+
+   - en økning i utsatt skatteforpliktelse ført i regnskapet til en konsernenhet for et regnskapsår, som den rapporterende konsernenheten velger å ikke ta med i justeringen for utsatt skatt dette regnskapsåret.
 
 (2) Er skattesatsen som er brukt til å beregne den utsatte skattekostnaden 15 prosent eller lavere, skal justeringen for utsatt skatt som skal legges til en konsernenhets justerte skatter for et regnskapsår etter [§ 4-1 første ledd bokstav b](lov/2024-01-12-1/§4-1/ledd/1/bokstav/b), være den utsatte skattekostnaden som er medregnet i det regnskapsmessige resultatet og som gjelder omfattede skatter, med justeringer etter tredje til sjette ledd. Er skattesatsen som er brukt til å beregne den utsatte skattekostnaden høyere enn 15 prosent, skal den samlede justeringen for utsatt skatt som skal legges til en konsernenhets justerte skatter for et regnskapsår etter [§ 4-1 første ledd bokstav b](lov/2024-01-12-1/§4-1/ledd/1/bokstav/b), være den utsatte skattekostnaden som er ført i regnskapet og som gjelder omfattede skatter, omregnet med en sats på 15 prosent, og med justeringer etter tredje til sjette ledd. Når det i samsvar med denne loven gjøres justeringer som ledd i beregningen av justert resultat, skal nye eller endrede balanseverdier som følge av justeringene legges til grunn ved beregning av justeringen for utsatt skatt, jf. første og andre punktum. Dette gjelder for inneværende og senere regnskapsår.
 
-(3) Justeringen for utsatt skatt skal økes med:ukrevd avsetning som er betalt i regnskapsåret, ogtilbakeført utsatt skatteforpliktelse fastsatt i et tidligere regnskapsår som er reversert i løpet av regnskapsåret.
+(3) Justeringen for utsatt skatt skal økes med:
+
+1. ukrevd avsetning som er betalt i regnskapsåret, og
+2. tilbakeført utsatt skatteforpliktelse fastsatt i et tidligere regnskapsår som er reversert i løpet av regnskapsåret.
 
 (4) Dersom en utsatt skattefordel som skyldes et underskudd i regnskapsåret, ikke balanseføres fordi vilkårene for slik balanseføring ikke er oppfylt, skal justeringen for utsatt skatt reduseres med det beløpet som ville ha redusert justeringen for utsatt skatt, dersom den utsatte skattefordelen hadde vært balanseført.
 
-(5) Justeringen for utsatt skatt skal ikke inkludere:utsatt skattekostnad for poster som er unntatt fra beregningen av justert resultat etter [kapittel 3](lov/2024-01-12-1/kap3),utsatt skattekostnad for ikke anerkjente avsetninger og ukrevde avsetninger,effekten av en verdijustering eller en justering for effekten av en ikke-bokført utsatt skattefordel,utsatt skattekostnad som skyldes en omberegning som følge av en endring av den nasjonale skattesatsen, ogutsatt skattekostnad som gjelder opparbeiding og bruk av skattefradrag. Dette gjelder ikke når bruk av skattefradrag trer i stedet for fremføring av underskudd. Skattefradrag anses for å tre i stedet for fremføring av underskudd dersom:jurisdiksjonen krever at inntekt med kilde i utlandet føres mot innenlands underskudd før kreditfradrag for utenlandsk skatt kan benyttes,konsernenheten har, fra inneværende år eller fremført fra tidligere år, et innenlands underskudd som helt eller delvis er ført til fradrag mot inntekt med kilde i utlandet, ogde interne skattereglene tillater at kreditfradrag for utenlandsk skatt føres til fradrag mot en skatteplikt i et etterfølgende år for inntekt som skal være med i beregningen av konsernenhetens justerte resultat.
+(5) Justeringen for utsatt skatt skal ikke inkludere:
+
+1. utsatt skattekostnad for poster som er unntatt fra beregningen av justert resultat etter [kapittel 3](lov/2024-01-12-1/kap3),
+2. utsatt skattekostnad for ikke anerkjente avsetninger og ukrevde avsetninger,
+3. effekten av en verdijustering eller en justering for effekten av en ikke-bokført utsatt skattefordel,
+4. utsatt skattekostnad som skyldes en omberegning som følge av en endring av den nasjonale skattesatsen, og
+5. utsatt skattekostnad som gjelder opparbeiding og bruk av skattefradrag. Dette gjelder ikke når bruk av skattefradrag trer i stedet for fremføring av underskudd. Skattefradrag anses for å tre i stedet for fremføring av underskudd dersom:
+
+   1. jurisdiksjonen krever at inntekt med kilde i utlandet føres mot innenlands underskudd før kreditfradrag for utenlandsk skatt kan benyttes,
+   2. konsernenheten har, fra inneværende år eller fremført fra tidligere år, et innenlands underskudd som helt eller delvis er ført til fradrag mot inntekt med kilde i utlandet, og
+   3. de interne skattereglene tillater at kreditfradrag for utenlandsk skatt føres til fradrag mot en skatteplikt i et etterfølgende år for inntekt som skal være med i beregningen av konsernenhetens justerte resultat.
 
 (6) Dersom en utsatt skattefordel for et regnskapsår er ført basert på en skattesats som er lavere enn 15 prosent, kan den regnes om med en sats på 15 prosent det regnskapsåret underskuddet blir et justert underskudd, forutsatt at den skattepliktige kan vise at den utsatte skattefordelen er knyttet til et justert underskudd. Økes en utsatt skattefordel i samsvar med første punktum, skal justeringen for utsatt skatt reduseres tilsvarende.
 
 (7) En utsatt skatteforpliktelse som ikke er reversert i løpet av de fem etterfølgende regnskapsårene, skal tilbakeføres i den utstrekning den ble tatt hensyn til i justeringen for utsatt skatt for en konsernenhet. Tilbakeføringen består i at den effektive skattesatsen og suppleringsskatten for det femte foregående regnskapsåret til det inneværende regnskapsåret skal beregnes på nytt i samsvar med [§ 5-4 første ledd](lov/2024-01-12-1/§5-4/ledd/1), uten den tilbakeførte skattekostnaden. Den tilbakeførte utsatte skatteforpliktelsen for inneværende regnskapsår skal tilsvare økningen i kategorien av utsatt skatteforpliktelse som var tatt med i justeringen for utsatt skatt i det femte foregående året som ikke er reversert innen utgangen av regnskapsåret.
 
-(8) Skatteforpliktelse knyttet til poster som nevnt i a til i nedenfor, skal likevel ikke tilbakeføres:fradrag for kostpris på fysiske eiendeler,utgift til lisens eller lignende ordning fra en stat for bruk av fast eiendom eller utnyttelse av naturressurser, som innebærer betydelig investering i fysiske eiendeler,kostnader til forskning og utvikling,kostnader til dekommisjonering og utbedring,regnskapsføring til virkelig verdi ved urealisert netto gevinst,netto gevinst på omregning av utenlandsk valuta,forsikringsreserver og utsatt anskaffelseskost på forsikringspoliser,gevinst fra salg av fysisk eiendom som ligger i samme jurisdiksjon som konsernenheten, og som reinvesteres i fysiske eiendeler i jurisdiksjonen, ogtilleggsbeløp oppstått som følge av endringer i regnskapsprinsipp for postene nevnt under a til h.
+(8) Skatteforpliktelse knyttet til poster som nevnt i a til i nedenfor, skal likevel ikke tilbakeføres:
+
+1. fradrag for kostpris på fysiske eiendeler,
+2. utgift til lisens eller lignende ordning fra en stat for bruk av fast eiendom eller utnyttelse av naturressurser, som innebærer betydelig investering i fysiske eiendeler,
+3. kostnader til forskning og utvikling,
+4. kostnader til dekommisjonering og utbedring,
+5. regnskapsføring til virkelig verdi ved urealisert netto gevinst,
+6. netto gevinst på omregning av utenlandsk valuta,
+7. forsikringsreserver og utsatt anskaffelseskost på forsikringspoliser,
+8. gevinst fra salg av fysisk eiendom som ligger i samme jurisdiksjon som konsernenheten, og som reinvesteres i fysiske eiendeler i jurisdiksjonen, og
+9. tilleggsbeløp oppstått som følge av endringer i regnskapsprinsipp for postene nevnt under a til h.
 
 > Endret ved lover [25 juni 2024 nr. 66](lov/2024-06-25-66) (med virkning fra inntektsåret 2024), [22 des 2025 nr. 123](lov/2025-12-22-123) (med virkning fra inntektsåret 2024).
 
@@ -338,7 +459,12 @@ En rapporterende konsernenhet kan, for en jurisdiksjon med samlet underskudd, ve
 
 (1) Dersom et konserns effektive skattesats i en jurisdiksjon er lavere enn 15 prosent for et regnskapsår, skal konsernet beregne suppleringsskatt for konsernenhetene i jurisdiksjonen.
 
-(2) Suppleringsskatten beregnes samlet for hver jurisdiksjon. Denne utgjør suppleringsskattesatsen multiplisert med det overskytende skattegrunnlaget, tillagt etterberegnet suppleringsskatt og fratrukket nasjonal suppleringsskatt. Ved denne beregningen utgjør:Suppleringsskattesatsen: Differansen mellom 15 prosent og den effektive skattesatsen beregnet etter [§ 5-2](lov/2024-01-12-1/§5-2) første ledd,Det overskytende skattegrunnlaget: Samlet overskudd for jurisdiksjonen, jf. [§ 5-2](lov/2024-01-12-1/§5-2) andre ledd, fratrukket det substansbaserte inntektsfradraget etter [§ 5-3](lov/2024-01-12-1/§5-3),Etterberegnet suppleringsskatt: Beløp beregnet etter [§ 4-1](lov/2024-01-12-1/§4-1) femte ledd og [§ 5-4](lov/2024-01-12-1/§5-4), ogNasjonal suppleringsskatt: Skatten som skal betales etter en kvalifisert nasjonal suppleringsskatt.
+(2) Suppleringsskatten beregnes samlet for hver jurisdiksjon. Denne utgjør suppleringsskattesatsen multiplisert med det overskytende skattegrunnlaget, tillagt etterberegnet suppleringsskatt og fratrukket nasjonal suppleringsskatt. Ved denne beregningen utgjør:
+
+1. Suppleringsskattesatsen: Differansen mellom 15 prosent og den effektive skattesatsen beregnet etter [§ 5-2](lov/2024-01-12-1/§5-2) første ledd,
+2. Det overskytende skattegrunnlaget: Samlet overskudd for jurisdiksjonen, jf. [§ 5-2](lov/2024-01-12-1/§5-2) andre ledd, fratrukket det substansbaserte inntektsfradraget etter [§ 5-3](lov/2024-01-12-1/§5-3),
+3. Etterberegnet suppleringsskatt: Beløp beregnet etter [§ 4-1](lov/2024-01-12-1/§4-1) femte ledd og [§ 5-4](lov/2024-01-12-1/§5-4), og
+4. Nasjonal suppleringsskatt: Skatten som skal betales etter en kvalifisert nasjonal suppleringsskatt.
 
 (3) Med unntak for tilfeller som nevnt i [§ 5-4](lov/2024-01-12-1/§5-4) tredje ledd, skal suppleringsskatten for den enkelte konsernenhet settes til dennes forholdsmessige andel av suppleringsskatten for jurisdiksjonen. Konsernenhetens forholdsmessige andel utgjør dens justerte overskudd delt på summen av alle konsernenheters justerte overskudd i jurisdiksjonen, multiplisert med suppleringsskatten for jurisdiksjonen.
 
@@ -366,7 +492,11 @@ En rapporterende konsernenhet kan, for en jurisdiksjon med samlet underskudd, ve
 
 (2) For en konsernenhet som er et fast driftssted, inngår kvalifiserende lønnskostnader og kvalifiserende fysiske eiendeler som er inkludert i driftsstedets regnskap, forutsatt at de ansatte og eiendelene er lokalisert i samme jurisdiksjon som driftsstedet. Lønnskostnader og eiendeler som danner grunnlag for fradrag i det faste driftsstedet, medregnes ikke ved beregning av fradrag hos hovedenheten. Har det faste driftsstedet inntekter som er holdt utenfor ved beregningen av dets justerte overskudd, skal fradraget reduseres forholdsmessig.
 
-(3) Kvalifiserende lønnskostnader for og kvalifiserende fysiske eiendeler som tilhører en enhet med deltakerfastsetting og som ikke er fordelt etter andre ledd, fordeles slik:til konsernenheten som eier enheten med deltakerfastsetting, dersom denne har fått dens regnskapsmessige resultat fordelt til seg etter [§ 3-5](lov/2024-01-12-1/§3-5) fjerde ledd. Lønnskostnader og fysiske eiendeler fordeles til konsernenheten i samme forhold som fordelingen av inntekt fra enheten med deltakerfastsetting, forutsatt at konsernenheten er lokalisert i jurisdiksjonen de ansatte og fysiske eiendelene er lokalisert,dersom enheten med deltakerfastsetting er det øverste morselskapet, fordeles lønnskostnadene og de fysiske eiendelene til dette, i samme forhold som inntekter er medregnet ved beregningen av justert overskudd, jf. [§ 7-1](lov/2024-01-12-1/§7-1) første ledd, ogøvrige lønnskostnader og fysiske eiendeler holdes utenfor ved beregningen av det substansbaserte inntektsfradraget for konsernet.
+(3) Kvalifiserende lønnskostnader for og kvalifiserende fysiske eiendeler som tilhører en enhet med deltakerfastsetting og som ikke er fordelt etter andre ledd, fordeles slik:
+
+1. til konsernenheten som eier enheten med deltakerfastsetting, dersom denne har fått dens regnskapsmessige resultat fordelt til seg etter [§ 3-5](lov/2024-01-12-1/§3-5) fjerde ledd. Lønnskostnader og fysiske eiendeler fordeles til konsernenheten i samme forhold som fordelingen av inntekt fra enheten med deltakerfastsetting, forutsatt at konsernenheten er lokalisert i jurisdiksjonen de ansatte og fysiske eiendelene er lokalisert,
+2. dersom enheten med deltakerfastsetting er det øverste morselskapet, fordeles lønnskostnadene og de fysiske eiendelene til dette, i samme forhold som inntekter er medregnet ved beregningen av justert overskudd, jf. [§ 7-1](lov/2024-01-12-1/§7-1) første ledd, og
+3. øvrige lønnskostnader og fysiske eiendeler holdes utenfor ved beregningen av det substansbaserte inntektsfradraget for konsernet.
 
 > Endret ved lover [25 juni 2024 nr. 66](lov/2024-06-25-66) (med virkning fra inntektsåret 2024), [22 des 2025 nr. 123](lov/2025-12-22-123) (med virkning fra inntektsåret 2024).
 
@@ -384,7 +514,10 @@ En rapporterende konsernenhet kan, for en jurisdiksjon med samlet underskudd, ve
 
 ### § 5-5. Unntak for bagatellmessig inntekt og resultat
 
-(1) Den rapporterende konsernenheten kan gjøre et ettårsvalg om å sette suppleringsskatten for konsernenhetene i en jurisdiksjon til null for det enkelte regnskapsår, dersom:den gjennomsnittlige samlede inntekten i jurisdiksjonen er mindre enn 10 millioner euro, oggjennomsnittlig samlet resultat i jurisdiksjonen er mindre enn 1 million euro.
+(1) Den rapporterende konsernenheten kan gjøre et ettårsvalg om å sette suppleringsskatten for konsernenhetene i en jurisdiksjon til null for det enkelte regnskapsår, dersom:
+
+1. den gjennomsnittlige samlede inntekten i jurisdiksjonen er mindre enn 10 millioner euro, og
+2. gjennomsnittlig samlet resultat i jurisdiksjonen er mindre enn 1 million euro.
 
 (2) Gjennomsnittet beregnes basert på det inneværende og de to foregående regnskapsårene.
 
@@ -422,7 +555,10 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 (8) Om målselskapet er et morselskap og en enhet i mer enn ett konsern i løpet av transaksjonsåret, skal det anvende reglene i [§§ 2-1](lov/2024-01-12-1/§2-1) til 2-5 separat for sine andeler av suppleringsskatt for underbeskattede enheter i hvert enkelt konsern.
 
-(9) Uavhengig av de foregående leddene i denne paragrafen, skal erverv eller avhendelse av en kontrollerende eierinteresse i en konsernenhet anses som erverv eller avhendelse av konsernenhetens eiendeler og gjeld, dersom jurisdiksjonen hvor konsernenheten er lokalisert, eller jurisdiksjonen hvor konsernenhetens eiendeler befinner seg dersom den er en skattetransparent enhet:behandler avhendelsen eller ervervet av den kontrollerende eierinteressen på samme eller lignende måte som et erverv eller en avhendelse av enhetens eiendeler og gjeld, ogilegger en omfattet skatt på avhenderen som beregnes ut fra differansen mellom eiendelene og gjeldens skattemessige verdi på den ene siden, og vederlaget for eller virkelig verdi av eiendelene og gjelden på den andre.
+(9) Uavhengig av de foregående leddene i denne paragrafen, skal erverv eller avhendelse av en kontrollerende eierinteresse i en konsernenhet anses som erverv eller avhendelse av konsernenhetens eiendeler og gjeld, dersom jurisdiksjonen hvor konsernenheten er lokalisert, eller jurisdiksjonen hvor konsernenhetens eiendeler befinner seg dersom den er en skattetransparent enhet:
+
+1. behandler avhendelsen eller ervervet av den kontrollerende eierinteressen på samme eller lignende måte som et erverv eller en avhendelse av enhetens eiendeler og gjeld, og
+2. ilegger en omfattet skatt på avhenderen som beregnes ut fra differansen mellom eiendelene og gjeldens skattemessige verdi på den ene siden, og vederlaget for eller virkelig verdi av eiendelene og gjelden på den andre.
 
 > Endret ved lov [22 des 2025 nr. 123](lov/2025-12-22-123) (med virkning fra inntektsåret 2024).
 
@@ -434,7 +570,10 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 (3) Første og andre ledd gjelder ikke dersom overføringen er ledd i en omorganisering hvor den overdragende konsernenheten medregner ikke-kvalifiserende gevinst eller tap. I slike tilfeller skal den overdragende konsernenheten medregne gevinsten eller tapet ved beregningen av sitt justerte resultat tilsvarende størrelsen på den ikke-kvalifiserende gevinsten eller tapet. Den overtakende konsernenheten skal videreføre den overdragende konsernenhetens bokførte verdier av eiendeler og gjeld, justert i samsvar med lokale skatteregler for å ta hensyn til den ikke-kvalifiserende gevinsten eller tapet.
 
-(4) Dersom den rapporterende konsernenheten velger det, skal konsernenheter som har internrettslig adgang eller plikt til å oppjustere verdien av eiendeler og gjeld til virkelig verdi for skatteformål, gjøre følgende justeringer:inkludere gevinsten eller tapet på hver eiendel eller gjeld i sitt justerte resultat. Gevinsten eller tapet settes til differansen mellom bokført verdi umiddelbart før hendelsen som utløste justeringen, og virkelig verdi umiddelbart etter, tillagt eller fratrukket eventuell ikke-kvalifiserende gevinst eller tap som oppstod i forbindelse med den utløsende hendelsen. Dette beløpet medregnes i det justerte resultatet i sin helhet i samme regnskapsår, eller fordelt over dette og de fire etterfølgende regnskapsårene,legge til grunn den regnskapsførte virkelige verdien av eiendelen eller gjelden ved beregningen av justert resultat i regnskapsår som avsluttes etter overføringen.
+(4) Dersom den rapporterende konsernenheten velger det, skal konsernenheter som har internrettslig adgang eller plikt til å oppjustere verdien av eiendeler og gjeld til virkelig verdi for skatteformål, gjøre følgende justeringer:
+
+1. inkludere gevinsten eller tapet på hver eiendel eller gjeld i sitt justerte resultat. Gevinsten eller tapet settes til differansen mellom bokført verdi umiddelbart før hendelsen som utløste justeringen, og virkelig verdi umiddelbart etter, tillagt eller fratrukket eventuell ikke-kvalifiserende gevinst eller tap som oppstod i forbindelse med den utløsende hendelsen. Dette beløpet medregnes i det justerte resultatet i sin helhet i samme regnskapsår, eller fordelt over dette og de fire etterfølgende regnskapsårene,
+2. legge til grunn den regnskapsførte virkelige verdien av eiendelen eller gjelden ved beregningen av justert resultat i regnskapsår som avsluttes etter overføringen.
 
 (5) Bestemmelsene i denne paragrafen gjelder overføringer av eiendeler og gjeld i overgangsår og etterfølgende regnskapsår.
 
@@ -474,7 +613,20 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 ### § 7-1. Øverste morselskap er en enhet med deltakerfastsetting
 
-(1) Er øverste morselskap en enhet med deltakerfastsetting, skal justert overskudd for regnskapsåret reduseres med den delen av justert overskudd som tilordnes den enkelte eierinteresse, dersom:eieren skattlegges for sin andel av overskuddet i en skattleggingsperiode som avsluttes senest tolv måneder etter utløpet av det regnskapsåret og,eieren skattlegges for hele sin andel med en nominell sats på minst 15 prosent, der det ved bruk av graderte satser skal ses hen til den høyeste satsen som ville bli brukt på andelen dersom andelen var den eneste inntekten, ellerdet kan forventes at summen av omfattede skatter betalt av det øverste morselskapet og andre enheter som er del av den skattetransparente strukturen, og den skatten eieren må svare på andelen av overskuddet er lik eller høyere enn 15 prosent av andelen av overskuddet, ellereieren er en fysisk person somer skattemessig bosatt i samme jurisdiksjon som det øverste morselskapet, oghar en direkte eierinteresse som gir rett til maksimalt 5 prosent av fortjenesten og eiendelene til det øverste morselskapet, ellereieren er en offentlig enhet, en internasjonal organisasjon, en ideell organisasjon eller et pensjonsfond som,er hjemmehørende i samme jurisdiksjon som det øverste morselskapet, oghar en eierinteresse som gir rett til maksimalt 5 prosent av fortjenesten og eiendelene til det øverste morselskapet.
+(1) Er øverste morselskap en enhet med deltakerfastsetting, skal justert overskudd for regnskapsåret reduseres med den delen av justert overskudd som tilordnes den enkelte eierinteresse, dersom:
+
+1. eieren skattlegges for sin andel av overskuddet i en skattleggingsperiode som avsluttes senest tolv måneder etter utløpet av det regnskapsåret og,
+
+   1. eieren skattlegges for hele sin andel med en nominell sats på minst 15 prosent, der det ved bruk av graderte satser skal ses hen til den høyeste satsen som ville bli brukt på andelen dersom andelen var den eneste inntekten, eller
+   2. det kan forventes at summen av omfattede skatter betalt av det øverste morselskapet og andre enheter som er del av den skattetransparente strukturen, og den skatten eieren må svare på andelen av overskuddet er lik eller høyere enn 15 prosent av andelen av overskuddet, eller
+2. eieren er en fysisk person som
+
+   1. er skattemessig bosatt i samme jurisdiksjon som det øverste morselskapet, og
+   2. har en direkte eierinteresse som gir rett til maksimalt 5 prosent av fortjenesten og eiendelene til det øverste morselskapet, eller
+3. eieren er en offentlig enhet, en internasjonal organisasjon, en ideell organisasjon eller et pensjonsfond som,
+
+   1. er hjemmehørende i samme jurisdiksjon som det øverste morselskapet, og
+   2. har en eierinteresse som gir rett til maksimalt 5 prosent av fortjenesten og eiendelene til det øverste morselskapet.
 
 (2) En enhet som nevnt i første ledd, skal redusere justert underskudd for regnskapsåret med den delen av underskuddet som tilordnes den enkelte eier. Forrige punktum gjelder ikke for så vidt eieren ikke har rett til å utnytte underskuddet ved fastsettelsen av skattepliktig inntekt.
 
@@ -486,7 +638,15 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 ### § 7-2. Øverste morselskap er underlagt regler om fradrag for utbytte
 
-(1) Er øverste morselskap underlagt regler om fradrag for utbytte, skal det for regnskapsåret redusere justert overskudd, inntil null, med fradragsberettiget utbytte som er utdelt innen tolv måneder etter regnskapsårets slutt, dersom:utbyttet skattlegges hos mottaker i en skattleggingsperiode som ender senest tolv måneder etter utløpet av det øverste morselskapets regnskapsår, og:utbyttet skattlegges hos mottaker med en nominell sats på minst 15 prosent,det kan forventes at summen av omfattede skatter betalt av det øverste morselskapet og skatter betalt av mottakeren av utbyttet utgjør minst 15 prosent av den utdelte inntekten, ellermottakeren er en fysisk person, og utbyttet er etterbetaling fra et innkjøpssamvirke, ellermottakeren er en fysisk person som er skattemessig bosatt i den jurisdiksjonen som det øverste morselskapet er lokalisert i, og har en eierinteresse som gir rett til maksimalt fem prosent av fortjenesten og eiendelene til det øverste morselskapet, ellermottakeren er hjemmehørende i øverste morselskaps jurisdiksjon og er en offentlig enhet, en internasjonal organisasjon, en ideell organisasjon eller et pensjonsfond som ikke er en pensjonsenhet.
+(1) Er øverste morselskap underlagt regler om fradrag for utbytte, skal det for regnskapsåret redusere justert overskudd, inntil null, med fradragsberettiget utbytte som er utdelt innen tolv måneder etter regnskapsårets slutt, dersom:
+
+1. utbyttet skattlegges hos mottaker i en skattleggingsperiode som ender senest tolv måneder etter utløpet av det øverste morselskapets regnskapsår, og:
+
+   1. utbyttet skattlegges hos mottaker med en nominell sats på minst 15 prosent,
+   2. det kan forventes at summen av omfattede skatter betalt av det øverste morselskapet og skatter betalt av mottakeren av utbyttet utgjør minst 15 prosent av den utdelte inntekten, eller
+   3. mottakeren er en fysisk person, og utbyttet er etterbetaling fra et innkjøpssamvirke, eller
+2. mottakeren er en fysisk person som er skattemessig bosatt i den jurisdiksjonen som det øverste morselskapet er lokalisert i, og har en eierinteresse som gir rett til maksimalt fem prosent av fortjenesten og eiendelene til det øverste morselskapet, eller
+3. mottakeren er hjemmehørende i øverste morselskaps jurisdiksjon og er en offentlig enhet, en internasjonal organisasjon, en ideell organisasjon eller et pensjonsfond som ikke er en pensjonsenhet.
 
 (2) Det øverste morselskapet skal redusere omfattede skatter, med unntak av skatter på inntekten som utbyttet er fradratt i, forholdsmessig tilsvarende reduksjonen av justert overskudd i henhold til første ledd, og skal redusere sitt justerte resultat med samme beløp. Skatt betalt på ikke-utdelt overskudd i henhold til reglene om fradrag for utdelt utbytte, herunder skatt basert på egenkapital eller beholdt fortjeneste, skal ikke fratrekkes.
 
@@ -500,9 +660,16 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 (1) Rapporterende konsernenhet kan velge at det skal tas med en kalkulert skatt, beregnet i samsvar med andre ledd, ved beregningen av justert skatt for regnskapsåret for en konsernenhet som er underlagt et anerkjent system med skatt ved utdeling. Valget er et ettårsvalg og gjelder for alle konsernenhetene som er lokalisert i jurisdiksjonen.
 
-(2) Den kalkulerte skatten skal tilsvare det minste av:den økningen som er nødvendig for å øke den effektive skattesatsen for regnskapsåret, beregnet for jurisdiksjonen etter [§ 5-2 første ledd](lov/2024-01-12-1/§5-2/ledd/1), til en sats på 15 prosent, ellerden skatten som ville ha påløpt i henhold til det anerkjente systemet for skatt ved utdeling, dersom konsernenhetene som er lokalisert i jurisdiksjonen, i løpet av regnskapsåret hadde delt ut all inntekten som er underlagt det anerkjente systemet med skatt ved utdeling.
+(2) Den kalkulerte skatten skal tilsvare det minste av:
 
-(3) Det skal etableres en konto for tilbakeføring av kalkulert skatt for hvert regnskapsår det er foretatt valg etter første ledd. Kalkulert skatt for jurisdiksjonen skal legges til tilbakeføringskontoen for det regnskapsåret den ble etablert. Ved slutten av hvert etterfølgende regnskapsår, skal utestående balanser på tilbakeføringskontoene etablert for tidligere regnskapsår reduseres i kronologisk rekkefølge, inntil null:først med skatt konsernenhetene har betalt i regnskapsåret i forbindelse med faktiske utdelinger eller disposisjoner som skal behandles som utdelinger,deretter med 15 prosent av eventuelt samlet justert underskudd for jurisdiksjonen, ogtil slutt med fremførbart beløp som kan anvendes for regnskapsåret etter fjerde ledd.
+1. den økningen som er nødvendig for å øke den effektive skattesatsen for regnskapsåret, beregnet for jurisdiksjonen etter [§ 5-2 første ledd](lov/2024-01-12-1/§5-2/ledd/1), til en sats på 15 prosent, eller
+2. den skatten som ville ha påløpt i henhold til det anerkjente systemet for skatt ved utdeling, dersom konsernenhetene som er lokalisert i jurisdiksjonen, i løpet av regnskapsåret hadde delt ut all inntekten som er underlagt det anerkjente systemet med skatt ved utdeling.
+
+(3) Det skal etableres en konto for tilbakeføring av kalkulert skatt for hvert regnskapsår det er foretatt valg etter første ledd. Kalkulert skatt for jurisdiksjonen skal legges til tilbakeføringskontoen for det regnskapsåret den ble etablert. Ved slutten av hvert etterfølgende regnskapsår, skal utestående balanser på tilbakeføringskontoene etablert for tidligere regnskapsår reduseres i kronologisk rekkefølge, inntil null:
+
+1. først med skatt konsernenhetene har betalt i regnskapsåret i forbindelse med faktiske utdelinger eller disposisjoner som skal behandles som utdelinger,
+2. deretter med 15 prosent av eventuelt samlet justert underskudd for jurisdiksjonen, og
+3. til slutt med fremførbart beløp som kan anvendes for regnskapsåret etter fjerde ledd.
 
 (4) Det skal etableres en konto for restbeløp av samlet justert underskudd når beløpet nevnt i tredje ledd bokstav b, overstiger utestående balanse på kontoene for tilbakeføring av kalkulert skatt. Det fremførbare beløpet nevnt i tredje ledd bokstav c, skal tilsvare det overskytende beløpet etter første punktum og skal hensyntas som reduksjon av tilbakeføringskontoene i etterfølgende regnskapsår. Kontoen for restbeløp av samlet justert underskudd skal reduseres med beløp som er benyttet i samsvar med forrige punktum.
 
@@ -510,7 +677,10 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 (6) Skatter som er betalt i løpet av regnskapsåret i forbindelse med faktiske utdelinger eller disposisjoner som skal behandles som utdelinger, skal ikke tas med i justert skatt i den grad de reduserer en tilbakeføringskonto i samsvar med tredje og fjerde ledd.
 
-(7) Dersom en konsernenhet som er omfattet av et valg etter første ledd, forlater konsernet, eller det vesentlige av dens eiendeler overføres ut av konsernet eller ut av jurisdiksjonen, skal utestående balanse på tilbakeføringskontoene i regnskapsår da kontoene ble etablert, behandles som en reduksjon av justert skatt for hvert av regnskapsårene i samsvar med [§ 5-4 første ledd](lov/2024-01-12-1/§5-4/ledd/1). Etterberegnet suppleringsskatt for konsernenheten som forlater konsernet, skal multipliseres med konsernenhetens justerte overskudd dividert med samlet justert overskudd for jurisdiksjonen, for å finne jurisdiksjonens etterberegnede suppleringsskatt, hvor:konsernenhetens justerte overskudd er beregnet i samsvar med [kapittel 3](lov/2024-01-12-1/kap3) for hvert regnskapsår tilbakeføringskontoene i jurisdiksjonen har en utestående balanse, ogsamlet overskudd for jurisdiksjonen er beregnet i samsvar med [§ 5-2 andre ledd](lov/2024-01-12-1/§5-2/ledd/2) for hvert regnskapsår tilbakeføringskontoene i jurisdiksjonen har en utestående balanse.
+(7) Dersom en konsernenhet som er omfattet av et valg etter første ledd, forlater konsernet, eller det vesentlige av dens eiendeler overføres ut av konsernet eller ut av jurisdiksjonen, skal utestående balanse på tilbakeføringskontoene i regnskapsår da kontoene ble etablert, behandles som en reduksjon av justert skatt for hvert av regnskapsårene i samsvar med [§ 5-4 første ledd](lov/2024-01-12-1/§5-4/ledd/1). Etterberegnet suppleringsskatt for konsernenheten som forlater konsernet, skal multipliseres med konsernenhetens justerte overskudd dividert med samlet justert overskudd for jurisdiksjonen, for å finne jurisdiksjonens etterberegnede suppleringsskatt, hvor:
+
+1. konsernenhetens justerte overskudd er beregnet i samsvar med [kapittel 3](lov/2024-01-12-1/kap3) for hvert regnskapsår tilbakeføringskontoene i jurisdiksjonen har en utestående balanse, og
+2. samlet overskudd for jurisdiksjonen er beregnet i samsvar med [§ 5-2 andre ledd](lov/2024-01-12-1/§5-2/ledd/2) for hvert regnskapsår tilbakeføringskontoene i jurisdiksjonen har en utestående balanse.
 
 > Endret ved lover [25 juni 2024 nr. 66](lov/2024-06-25-66) (med virkning fra inntektsåret 2024), [20 des 2024 nr. 92](lov/2024-12-20-92) (med virkning fra inntektsåret 2024), [22 des 2025 nr. 123](lov/2025-12-22-123) (med virkning fra inntektsåret 2024).
 
@@ -544,9 +714,19 @@ Departementet kan gi forskrift til gjennomføring av Safe Harbour-regler som god
 
 (1) Rapporterende konsernenhet kan velge at en konsernenhet som har en eierinteresse i en konsernenhet som er en investeringsenhet eller forsikringsinvesteringsenhet, anvender en metode for skattepliktig utdeling. Valget kan bare foretas dersom det er rimelig å forvente at konsernenheten skattlegges for utdelinger fra investeringsenheten eller forsikringsinvesteringsenheten med en skattesats som er lik eller høyere enn 15 prosent, og konsernenheten ikke selv er en investeringsenhet eller forsikringsinvesteringsenhet.
 
-(2) Under metoden nevnt i første ledd, skal:utdelinger, herunder det som skal anses som utdeling etter lokale skatteregler, tas med ved beregningen av det justerte overskuddet til konsernenheten som mottar utdelingen,omfattede skatter som påløper hos investeringsenheten eller forsikringsinvesteringsenheten og som kan krediteres mot den mottakende konsernenhetens skatt på utdelingen fra investeringsenheten eller forsikringsinvesteringsenheten, tas med ved beregningen av justert overskudd og justert skatt for konsernenheten som mottar utdelingen,konsernenhetens forholdsmessige andel av investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd fra teståret, jf. tredje ledd, skal regnes som justert overskudd for investeringsenheten eller forsikringsinvesteringsenheten for regnskapsåret. Et beløp tilsvarende 15 prosent av det justerte overskuddet, skal utgjøre suppleringsskatt for en underbeskattet konsernenhet for regnskapsåret ved anvendelse av bestemmelsene i [kapittel 2](lov/2024-01-12-1/kap2), ogen investeringsenhets eller forsikringsinvesteringsenhets justerte resultat for regnskapsåret og justerte skatt knyttet til det justerte resultatet skal, med unntak av justeringen nevnt i bokstav b, holdes utenfor beregning av effektiv skattesats etter bestemmelsene i [kapittel 5](lov/2024-01-12-1/kap5) og [§ 7-4](lov/2024-01-12-1/§7-4) andre til femte ledd.
+(2) Under metoden nevnt i første ledd, skal:
 
-(3) Med «akkumulert overskudd» menes i denne paragrafen et beløp tilsvarende investeringsenhetens eller forsikringsinvesteringsenhetens justerte overskudd for det tredje foregående året til regnskapsåret («teståret») redusert, inntil null, med:investeringsenhetens eller forsikringsinvesteringsenhetens omfattede skatter,utdelinger og fikserte utdelinger til andelseiere som ikke er investeringsenheter eller forsikringsinvesteringsenheter, i løpet av perioden som starter med den første dagen i det tredje foregående regnskapsåret og ender med den siste dagen i det regnskapsåret det rapporteres for, hvor andelen ble eid («testperioden»),justerte underskudd oppstått i testperioden, oggjenstående justert underskudd som ikke allerede har redusert investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd for et tidligere testår, kalt det fremførbare investeringsunderskuddet.
+1. utdelinger, herunder det som skal anses som utdeling etter lokale skatteregler, tas med ved beregningen av det justerte overskuddet til konsernenheten som mottar utdelingen,
+2. omfattede skatter som påløper hos investeringsenheten eller forsikringsinvesteringsenheten og som kan krediteres mot den mottakende konsernenhetens skatt på utdelingen fra investeringsenheten eller forsikringsinvesteringsenheten, tas med ved beregningen av justert overskudd og justert skatt for konsernenheten som mottar utdelingen,
+3. konsernenhetens forholdsmessige andel av investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd fra teståret, jf. tredje ledd, skal regnes som justert overskudd for investeringsenheten eller forsikringsinvesteringsenheten for regnskapsåret. Et beløp tilsvarende 15 prosent av det justerte overskuddet, skal utgjøre suppleringsskatt for en underbeskattet konsernenhet for regnskapsåret ved anvendelse av bestemmelsene i [kapittel 2](lov/2024-01-12-1/kap2), og
+4. en investeringsenhets eller forsikringsinvesteringsenhets justerte resultat for regnskapsåret og justerte skatt knyttet til det justerte resultatet skal, med unntak av justeringen nevnt i bokstav b, holdes utenfor beregning av effektiv skattesats etter bestemmelsene i [kapittel 5](lov/2024-01-12-1/kap5) og [§ 7-4](lov/2024-01-12-1/§7-4) andre til femte ledd.
+
+(3) Med «akkumulert overskudd» menes i denne paragrafen et beløp tilsvarende investeringsenhetens eller forsikringsinvesteringsenhetens justerte overskudd for det tredje foregående året til regnskapsåret («teståret») redusert, inntil null, med:
+
+1. investeringsenhetens eller forsikringsinvesteringsenhetens omfattede skatter,
+2. utdelinger og fikserte utdelinger til andelseiere som ikke er investeringsenheter eller forsikringsinvesteringsenheter, i løpet av perioden som starter med den første dagen i det tredje foregående regnskapsåret og ender med den siste dagen i det regnskapsåret det rapporteres for, hvor andelen ble eid («testperioden»),
+3. justerte underskudd oppstått i testperioden, og
+4. gjenstående justert underskudd som ikke allerede har redusert investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd for et tidligere testår, kalt det fremførbare investeringsunderskuddet.
 
 (4) Det akkumulerte overskuddet til en investeringsenhet eller forsikringsinvesteringsenhet skal ikke reduseres med utdelinger eller fikserte utdelinger, som allerede har redusert investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd for et tidligere testår ved anvendelse av tredje ledd bokstav b. Akkumulert overskudd skal ikke reduseres med justert underskudd som allerede har redusert investeringsenhetens eller forsikringsinvesteringsenhetens akkumulerte overskudd for et tidligere testår ved anvendelse av tredje ledd bokstav c.
 

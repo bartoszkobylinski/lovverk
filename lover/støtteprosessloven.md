@@ -15,7 +15,7 @@ xml_hash: "25cca33aa51621b34bbb5b51e1db286f275af982437704b49143e105e6c0d6eb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ Lovens formål er å sikre etterlevelse av Norges EØS-rettslige og andre folker
 
 ## § 2. Virkeområde
 
-Reglene i [§§ 3](lov/2022-03-04-7/§3) til [14](lov/2022-03-04-7/§14) gjelder:Offentlig støtte som oppfyller vilkårene i [EØS-avtalen artikkel 61 nr. 1](lov/1992-11-27-109/eøsl/a61/nummer/1)Bagatellmessig støtte etter reglene i forordning [(EU) nr. 2023/2831](eu/32023r2831), som inntatt i [EØS-avtalens vedlegg XV](avtale/avt-1992-05-02-1-v15) nr. 1eaBagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning etter reglene i forordning [(EU) nr. 2023/2832](eu/32023r2832), som inntatt i [EØS-avtalens vedlegg XV](avtale/avt-1992-05-02-1-v15) nr. 1ha.
+Reglene i [§§ 3](lov/2022-03-04-7/§3) til [14](lov/2022-03-04-7/§14) gjelder:
+
+1. Offentlig støtte som oppfyller vilkårene i [EØS-avtalen artikkel 61 nr. 1](lov/1992-11-27-109/eøsl/a61/nummer/1)
+2. Bagatellmessig støtte etter reglene i forordning [(EU) nr. 2023/2831](eu/32023r2831), som inntatt i [EØS-avtalens vedlegg XV](avtale/avt-1992-05-02-1-v15) nr. 1ea
+3. Bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning etter reglene i forordning [(EU) nr. 2023/2832](eu/32023r2832), som inntatt i [EØS-avtalens vedlegg XV](avtale/avt-1992-05-02-1-v15) nr. 1ha.
 
 Departementet kan gi forskrift om gjennomføring i norsk rett av prosedyreregler for støtte regulert av [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
@@ -52,7 +56,15 @@ Departementet kan gi forskrift om tildeling, kontroll og tilbakeføring av offen
 
 Støttegiveren skal sende melding om ny offentlig støtte til EFTAs overvåkingsorgan (ESA) før støtten iverksettes. Meldingen sendes departementet, som videresender til ESA. Plikten omfatter nye støtteordninger, enkelttildelinger utenfor støtteordninger, enkelttildelinger innenfor en støtteordning der meldeplikten følger uttrykkelig av støtteordningens EØS-rettslige grunnlag, og endringer i eksisterende støtte, slik dette er definert i Avtale mellom EFTA-statene om opprettelse av et overvåkingsorgan og en domstol (ODA) protokoll 3 del II med utfyllende bestemmelser.
 
-Første ledd gjelder ikke offentlig støtte som:var iverksatt før [EØS-avtalen](lov/1992-11-27-109/eøsl) trådte i krafter godkjent av ESA eller av EFTA-statene etter felles overenskomst i henhold til artikkel 1 nr. 2 i del I av Protokoll 3 til ODAanses godkjent i henhold til artikkel 4 nr. 6 i del II av Protokoll 3 til ODAanses som eksisterende støtte etter artikkel 15 i del II av Protokoll 3 til ODAikke utgjorde offentlig støtte da den ble iverksatt, men som uten at den er endret, oppfyller vilkårene for å være offentlig støtte på grunn av utviklingen i EØS-området.Tiltak som blir til offentlig støtte som følge av at en virksomhet liberaliseres av EØS-retten, omfattes av første ledd etter datoen som er satt for liberaliseringen.
+Første ledd gjelder ikke offentlig støtte som:
+
+1. var iverksatt før [EØS-avtalen](lov/1992-11-27-109/eøsl) trådte i kraft
+2. er godkjent av ESA eller av EFTA-statene etter felles overenskomst i henhold til artikkel 1 nr. 2 i del I av Protokoll 3 til ODA
+3. anses godkjent i henhold til artikkel 4 nr. 6 i del II av Protokoll 3 til ODA
+4. anses som eksisterende støtte etter artikkel 15 i del II av Protokoll 3 til ODA
+5. ikke utgjorde offentlig støtte da den ble iverksatt, men som uten at den er endret, oppfyller vilkårene for å være offentlig støtte på grunn av utviklingen i EØS-området.
+
+Tiltak som blir til offentlig støtte som følge av at en virksomhet liberaliseres av EØS-retten, omfattes av første ledd etter datoen som er satt for liberaliseringen.
 
 Departementet kan gi forskrift om hvilke støttetiltak som omfattes av meldeplikten etter første ledd, fristen for å sende melding og hvilke opplysninger som kan kreves fremlagt.
 
@@ -110,7 +122,11 @@ Dersom ESA er i sterk tvil om ESAs vedtak om en enkelttildeling utenfor støtteo
 
 Konkurransetilsynet skal fremsette begjæring om bevissikring etter første ledd for tingretten. Beslutningen treffes uten at den som avgjørelsen gjelder, gis adgang til å uttale seg, og uten at den blir meddelt vedkommende før bevissikringen settes i verk. En anke over beslutningen har ikke oppsettende virkning. [Straffeprosessloven § 200](lov/1981-05-22-25/§200), [§ 201](lov/1981-05-22-25/§201) første ledd, [§§ 117](lov/1981-05-22-25/§117) til [120](lov/1981-05-22-25/§120) jf. [§§ 204](lov/1981-05-22-25/§204), [207](lov/1981-05-22-25/§207), [208](lov/1981-05-22-25/§208), [209](lov/1981-05-22-25/§209), [213](lov/1981-05-22-25/§213) og [kapittel 26](lov/1981-05-22-25/kap26), gjelder tilsvarende.
 
-Dersom ESA krever det, skal støttemottakeren ved slik kontrollgi adgang til sin egen eiendomavgi muntlig forklaring på stedetgi tilgang til og kopier av regnskap og andre forretningsdokumenter.
+Dersom ESA krever det, skal støttemottakeren ved slik kontroll
+
+1. gi adgang til sin egen eiendom
+2. avgi muntlig forklaring på stedet
+3. gi tilgang til og kopier av regnskap og andre forretningsdokumenter.
 
 Departementet kan være til stede ved ESAs kontroll og peke ut representanter for norske myndigheter som deltar ved undersøkelser på stedet. Konkurransetilsynet kan kreve at politiet bistår ESA med å iverksette beslutninger om bevissikring.
 

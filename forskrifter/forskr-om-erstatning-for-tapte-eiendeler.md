@@ -31,7 +31,10 @@ eu_basis: []
 
 ## § 2. Erstatning etter [skipsarbeidsloven § 8-4](lov/2013-06-21-102/§8-4)
 
-1. Med mindre det er fastsatt høyere satser i tariffavtale, utbetales erstatning for eiendeler som er skadet eller tapt under forhold som omhandlet i [skipsarbeidsloven § 8-4](lov/2013-06-21-102/§8-4) med følgende beløp:den som har sitt arbeid om bord på fartøy i utenriks fart, inntil to tredjedeler av grunnbeløpet i [lov om folketrygd 28. februar 1997 nr. 19](lov/1997-02-28-19),den som har sitt arbeid om bord på fartøy i innenriks fart og ruteloser, inntil en halvpart av grunnbeløpet i [folketrygdloven](lov/1997-02-28-19).
+1. Med mindre det er fastsatt høyere satser i tariffavtale, utbetales erstatning for eiendeler som er skadet eller tapt under forhold som omhandlet i [skipsarbeidsloven § 8-4](lov/2013-06-21-102/§8-4) med følgende beløp:
+
+   1. den som har sitt arbeid om bord på fartøy i utenriks fart, inntil to tredjedeler av grunnbeløpet i [lov om folketrygd 28. februar 1997 nr. 19](lov/1997-02-28-19),
+   2. den som har sitt arbeid om bord på fartøy i innenriks fart og ruteloser, inntil en halvpart av grunnbeløpet i [folketrygdloven](lov/1997-02-28-19).
 2. Satsene nevnt i nr. 1 fastsettes ut fra størrelsen av grunnbeløpet på skadetidspunktet og avrundes oppover til nærmeste hele 100 kroner.
 
 > Endret ved [forskrifter 19 aug 2013 nr. 1012](forskrift/2013-08-19-1012) (i kraft 20 aug 2013), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [24 jan 2022 nr. 118](forskrift/2022-01-24-118).

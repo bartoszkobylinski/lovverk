@@ -15,7 +15,7 @@ xml_hash: "125e958f8b43689b4cbb8a9fd5d6c2a3d09921dc4095f60eb167a028c134fc46"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 (1) Forskriften gjelder for opptak, studier og eksamen ved Fagskolen Viken.
 
-(2) Forskriften gjelder for personer somsøker om opptak til studieprogram ved Fagskolen Vikenhar studierett og status som student ved Fagskolen Viken
+(2) Forskriften gjelder for personer som
+
+1. søker om opptak til studieprogram ved Fagskolen Viken
+2. har studierett og status som student ved Fagskolen Viken
 
 > Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
@@ -83,7 +86,11 @@ eu_basis: []
 
 (4) For ettårige (1) utdanninger med minimum 60 stp. som tilbys på heltid eller toårig (2) deltid på normert tid, kan det innvilges inntil ett (1) år forlenget studierett. Det innvilges ikke forlenget studierett for studier av kortere varighet.
 
-(5) Studieretten opphører når studentenskriftlig bekrefter å ha trukket seg fra studieteller når studiet er fullført og vitnemål eller karakterutskrift er utstedteller ved tap av studierett, jf. § 2-8.
+(5) Studieretten opphører når studenten
+
+1. skriftlig bekrefter å ha trukket seg fra studiet
+2. eller når studiet er fullført og vitnemål eller karakterutskrift er utstedt
+3. eller ved tap av studierett, jf. § 2-8.
 
 (6) En student som følger studiet på normert tid, har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres vesentlig. Mindre endringer må ikke medføre at studenten blir forsinket i sin progresjon.
 
@@ -159,7 +166,10 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 (1) Dersom fagskolen misligholder studentenes rettigheter, jf. [§ 2-1](forskrift/2021-06-14-1978/§2-1) og [§ 2-2](forskrift/2021-06-14-1978/§2-2), kan studenten ha rett på kompensasjon.
 
-(2) Dersom fagskolen frivillig eller pålagt brått stanser en utdanning, hvor det er studenter som ikke har fullført utdanningen etter oppsatt plan, vil fagskolen eller skoleeierne (Akershus, Buskerud og Østfold fylkeskommune) sørge for kompensasjon i form av følgende alternativerTilbud om supplerende eller alternative utdanningstilbud ved Fagskolen Vikeneller tilbud om å fullføre tilsvarende utdanning ved annen fagskole i Norge.
+(2) Dersom fagskolen frivillig eller pålagt brått stanser en utdanning, hvor det er studenter som ikke har fullført utdanningen etter oppsatt plan, vil fagskolen eller skoleeierne (Akershus, Buskerud og Østfold fylkeskommune) sørge for kompensasjon i form av følgende alternativer
+
+1. Tilbud om supplerende eller alternative utdanningstilbud ved Fagskolen Viken
+2. eller tilbud om å fullføre tilsvarende utdanning ved annen fagskole i Norge.
 
 (3) Skoleeier bærer helt eller delvis risikoen for skade eller tap studentene påføres dersom fagskolen stanser en utdanning hvor studenter ikke har fullført utdanningen etter oppsatt plan.
 
@@ -201,7 +211,17 @@ Studentens betalingsforpliktelser og fagskolens ulike avgifter henvises til fags
 
 ### § 2-8. Tap av studierett
 
-Studieretten opphører når:studenten etter tre eksamensforsøk ikke har bestått eksamen i samme emne.studenten etter tre ganger ikke har bestått samme emnet med unntak av § 2-8 c.studenten to ganger ikke har bestått det samme praksisemnet eller praksisperiode. Tilsvarende gjelder når hovedoppgave ikke blir innlevert til ordinær eller utsatt frist.studenten ikke har betalt studiekostnaden eller annen avgift som er oppgitt etter fastsatt friststudenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurtstudenten ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptakstudenten er utestengt etter forhold regulert i [fagskoleloven § 25](lov/2018-06-08-28/§25).studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [§ 3-3-3](forskrift/2021-06-14-1978/§3-3-3).studenten ikke har fullført studieprogrammet innen forlenget studieløp, jf. [§ 2-1](forskrift/2021-06-14-1978/§2-1) (3) og (4).
+Studieretten opphører når:
+
+1. studenten etter tre eksamensforsøk ikke har bestått eksamen i samme emne.
+2. studenten etter tre ganger ikke har bestått samme emnet med unntak av § 2-8 c.
+3. studenten to ganger ikke har bestått det samme praksisemnet eller praksisperiode. Tilsvarende gjelder når hovedoppgave ikke blir innlevert til ordinær eller utsatt frist.
+4. studenten ikke har betalt studiekostnaden eller annen avgift som er oppgitt etter fastsatt frist
+5. studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt
+6. studenten ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptak
+7. studenten er utestengt etter forhold regulert i [fagskoleloven § 25](lov/2018-06-08-28/§25).
+8. studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [§ 3-3-3](forskrift/2021-06-14-1978/§3-3-3).
+9. studenten ikke har fullført studieprogrammet innen forlenget studieløp, jf. [§ 2-1](forskrift/2021-06-14-1978/§2-1) (3) og (4).
 
 > Tilføyd ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
@@ -211,7 +231,10 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (1) Krav til opptak er regulert i [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriftens kapittel 2](forskrift/2019-07-11-1005/kap2).
 
-(2) Opptak til Fagskolen Viken organiseres gjennom det samordnede opptaket til fagskoleutdanning ved Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit).Årlig søknadsfrist til fagskolen ved samordnet opptak reguleres av Unit.Etter ordinær søknadsfrist vil søknadsportalen bli åpnet dersom det er ledige studieplasser. Søknad med dokumentasjon og eventuelle vedlegg registreres i portalen til samordna opptak med fortløpende inntak forutsatt ledige studieplasser for søkere som tilfredsstiller opptakskravene.
+(2) Opptak til Fagskolen Viken organiseres gjennom det samordnede opptaket til fagskoleutdanning ved Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit).
+
+1. Årlig søknadsfrist til fagskolen ved samordnet opptak reguleres av Unit.
+2. Etter ordinær søknadsfrist vil søknadsportalen bli åpnet dersom det er ledige studieplasser. Søknad med dokumentasjon og eventuelle vedlegg registreres i portalen til samordna opptak med fortløpende inntak forutsatt ledige studieplasser for søkere som tilfredsstiller opptakskravene.
 
 (3) Fagskolen Viken foretar også lokale opptak på enkelte utdanninger, program og kortere kurs. Her gjelder egne søknadsfrister.
 
@@ -271,7 +294,12 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (1) Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få betinget opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av det påfølgende semesteret.
 
-(2) Søkere som på grunn av spesielle omstendigheter, som sykdom, ulykker eller dødsfall i nær familie ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:Søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak.Søkeren har standpunktkarakteren 2 eller bedre i faget.Søkeren ikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.
+(2) Søkere som på grunn av spesielle omstendigheter, som sykdom, ulykker eller dødsfall i nær familie ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+1. Søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak.
+2. Søkeren har standpunktkarakteren 2 eller bedre i faget.
+3. Søkeren ikke allerede har avsluttende vurdering i faget, og
+4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 (3) Fagskolen skal så langt det er mulig legge til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolen ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
 
@@ -299,11 +327,20 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger må søkere dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [forskrift til integreringsloven (integreringsforskriften)](forskrift/2020-12-15-2912) med endringer 1. januar 2021 [§ 34](forskrift/2020-12-15-2912/§34), samt [lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [forskrift til integreringsloven (integreringsforskriften)](forskrift/2020-12-15-2912) med endringer 1. januar 2021 [§ 34](forskrift/2020-12-15-2912/§34), samt [lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [integreringsloven 6. november 2020 nr. 127 § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -389,7 +426,12 @@ Kravet til behandling av politiattest med merknad er regulert i [fagskoleloven �
 
 (4) En student kan søke fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse. En student kan få fritak for beståtte emner fra annen godkjent fagskoleutdanning/utdanning med samme antall studiepoeng eller minst tilsvarende på samme nivå i Nasjonalt kvalifikasjonsrammeverk (NKR) dersom utdanningen oppfyller de faglige krav for emnet eller emnene det søkes fritak for. Det skal ikke gis dobbel uttelling for samme faginnhold.
 
-(5) Utgangspunktet for vurderinger om godskriving og fritak erlæringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnetsamme antall studiepoeng eller minst tilsvarendeandre vurderinger av omfang, nivå og arbeidsbelastning for aktuelle emnerden kompetanse det søkes om godskriving eller fritak for.
+(5) Utgangspunktet for vurderinger om godskriving og fritak er
+
+1. læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet
+2. samme antall studiepoeng eller minst tilsvarende
+3. andre vurderinger av omfang, nivå og arbeidsbelastning for aktuelle emner
+4. den kompetanse det søkes om godskriving eller fritak for.
 
 (6) Søknad om godkjenning av godskriving eller fritak må framsettes skriftlig til studiestedet innen en måned etter oppstart av emnet og må inneholde nødvendig dokumentasjon.
 
@@ -423,7 +465,10 @@ Kravet til behandling av politiattest med merknad er regulert i [fagskoleloven �
 
 (1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng.
 
-(2) Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
+(2) Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:
+
+1. et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.
+2. hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
 
 (3) Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
 
@@ -461,7 +506,17 @@ Styret skal sørge for at studentenes kunnskaper, ferdigheter og generelle kompe
 
 (2) Det skal foretas sluttvurdering i emne(r), praksis/hovedprosjekt, jf. § 4-4 samt vurdering av gjennomført eksamen, jf. § 4-5 og § 4-6.
 
-(3) Ved eksamen kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet og er beskrevet i den enkelte studieplan:skriftlig eksamen med tilsyn, gjennomføres på studiestedethjemmeeksamenmuntlig eksamenpraktisk eksamenferdighetstesterlaboratorieøvelserprosjektpraksismuntlige presentasjoner.
+(3) Ved eksamen kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet og er beskrevet i den enkelte studieplan:
+
+- skriftlig eksamen med tilsyn, gjennomføres på studiestedet
+- hjemmeeksamen
+- muntlig eksamen
+- praktisk eksamen
+- ferdighetstester
+- laboratorieøvelser
+- prosjekt
+- praksis
+- muntlige presentasjoner.
 
 (4) Ved sammensatt eksamen, må alle eksamensdelene være bestått for at eksamenskarakteren vurderes til bestått/karakteren A–E.
 
@@ -498,7 +553,11 @@ Vurderingsuttrykket ved avsluttende vurdering, eksamen, test, bedømmelse av opp
 
 (6) Fastsetting av emnekarakter er et enkeltvedtak i henhold til [forvaltningsloven § 2](lov/1967-02-10/§2), bokstav b og kan påklages etter bestemmelser regulert i [fagskoleloven § 22](lov/2018-06-08-28/§22). Studenten henvises til fagskolens studenthåndbok for klageadgang. Ved ikke fullført og bestått emne, jf. § 4-4 (7), mister studenten rett på vitnemål. Ved ikke fullført fagskoleutdanning får studenten utdelt karakterutskrift for gjennomførte og beståtte emner.
 
-(7) Tellende forsøk av emne er når studentenhar bestått emnefår karakteren F / ikke beståttfår emne annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
+(7) Tellende forsøk av emne er når studenten
+
+- har bestått emne
+- får karakteren F / ikke bestått
+- får emne annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
 
 > Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
@@ -510,7 +569,15 @@ Vurderingsuttrykket ved avsluttende vurdering, eksamen, test, bedømmelse av opp
 
 (3) Dersom en student ikke får et obligatorisk arbeidskrav godkjent, skal studenten gis anledning til ett (1) nytt forsøk. Nytt forsøk skal som hovedregel gjennomføres før gjeldende eksamen, dersom det er eksamen i emnet. Studenten er selv ansvarlig for å avtale tidspunkt og frist for nytt forsøk med faglærer innen tre uker etter at studenten er gjort kjent med vedtaket. Ved «ikke godkjent» på samme arbeidskrav to (2) ganger, mister studenten retten til sluttvurdering, samt eksamensrett dersom det er eksamen i emnet. Emnet settes til karakteren «F» eller «ikke bestått». Ved tap av eksamensrett skrives et enkeltvedtak iht. [forvaltningsloven § 2, bokstav b](lov/1967-02-10/§2/bokstav/b) og kan påklages etter bestemmelser regulert i [fagskoleloven § 22](lov/2018-06-08-28/§22).
 
-(4) Tellende forsøk av obligatoriske arbeidskrav er når studentenhar bestått arbeidskravfår vurdering «ikke godkjent»Trekker seg etter avmeldingsfristens utløpikke møter til obligatorisk arbeidskravikke leverer obligatorisk arbeidskrav innen fristhar møtt til obligatorisk arbeidskrav, men velger å trekke seg under gjennomføring av arbeidskravfår obligatorisk arbeidskrav annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
+(4) Tellende forsøk av obligatoriske arbeidskrav er når studenten
+
+- har bestått arbeidskrav
+- får vurdering «ikke godkjent»
+- Trekker seg etter avmeldingsfristens utløp
+- ikke møter til obligatorisk arbeidskrav
+- ikke leverer obligatorisk arbeidskrav innen frist
+- har møtt til obligatorisk arbeidskrav, men velger å trekke seg under gjennomføring av arbeidskrav
+- får obligatorisk arbeidskrav annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
 
 > Tilføyd ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
@@ -550,7 +617,15 @@ Vurderingsuttrykket ved avsluttende vurdering, eksamen, test, bedømmelse av opp
 
 (1) En student har rett til å fremstille seg tre ganger til eksamen i det samme emnet. Dersom en student unnlater å møte til eksamen uten gyldig grunn, telles dette som ett eksamensforsøk.
 
-(2) Tellende forsøk er når studentenhar bestått eksamenfår karakteren F / ikke beståttTrekker seg etter avmeldingsfristens utløpikke møter til eksamenikke leverer eksamensbesvarelse innen fristhar møtt til eksamen, men velger å trekke seg under eksamenfår eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden – ikke har gyldig grunn etter [§ 4-5-3](forskrift/2021-06-14-1978/§4-5-3).
+(2) Tellende forsøk er når studenten
+
+- har bestått eksamen
+- får karakteren F / ikke bestått
+- Trekker seg etter avmeldingsfristens utløp
+- ikke møter til eksamen
+- ikke leverer eksamensbesvarelse innen frist
+- har møtt til eksamen, men velger å trekke seg under eksamen
+- får eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden – ikke har gyldig grunn etter [§ 4-5-3](forskrift/2021-06-14-1978/§4-5-3).
 
 (3) Ved flere eksamensforsøk teller beste karakter.
 
@@ -586,7 +661,11 @@ Vurderingsuttrykket ved avsluttende vurdering, eksamen, test, bedømmelse av opp
 
 (7) Ordinære eksamener arrangeres vanligvis ved slutten av hvert semester eller etter fullført emne, med tidspunkter som kan variere avhengig av studieplanen. Konteeksamener arrangeres normalt i begynnelsen av det påfølgende semesteret etter siste ordinære eksamen. Studenter må følge eksamensplanen som publiseres av fagskolen for hvert semester, som inkluderer både ordinære og konteeksamener. Som hovedregel arrangeres det kun en kontinuasjonseksamen per emne i løpet av et studieår, og studentene må selv melde seg opp til denne.
 
-(8)Første gjennomføring av eksamen: Ordinær eksamen.Andre gjennomføring av eksamen: Dette kan inkludere konteeksamen, utsatt eksamen eller forbedringseksamen. Slike eksamener arrangeres normalt i starten av det påfølgende semesteret etter den siste ordinære eksamen.Tredje gjennomføring av eksamen: Dette kan være konteeksamen eller utsatt eksamen. Som hovedregel gjennomføres disse samtidig med den neste ordinære eksamen i emnet.
+(8)
+
+- Første gjennomføring av eksamen: Ordinær eksamen.
+- Andre gjennomføring av eksamen: Dette kan inkludere konteeksamen, utsatt eksamen eller forbedringseksamen. Slike eksamener arrangeres normalt i starten av det påfølgende semesteret etter den siste ordinære eksamen.
+- Tredje gjennomføring av eksamen: Dette kan være konteeksamen eller utsatt eksamen. Som hovedregel gjennomføres disse samtidig med den neste ordinære eksamen i emnet.
 
 > Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
 
@@ -682,7 +761,15 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 (1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen, prøver eller annet arbeid som bedømmes med karakter eller vurderingsuttrykkene «bestått»/«ikke bestått».
 
-(2) Fusk kan være å:bruke hjelpemidler som ikke er tillatt på eksamenutgi andres arbeid som egetsitere kilder uten å benytte kildehenvisning.ulovlig samarbeid med andregjenbruk av egen eksamensbesvarelse uten tilstrekkelig kildehenvisning til sitt eget arbeid, som tidligere har gitt uttelling i et bestått resultatulovlig bruk av kunstig intelligensforfalskning eller fabrikkering av data.
+(2) Fusk kan være å:
+
+1. bruke hjelpemidler som ikke er tillatt på eksamen
+2. utgi andres arbeid som eget
+3. sitere kilder uten å benytte kildehenvisning.
+4. ulovlig samarbeid med andre
+5. gjenbruk av egen eksamensbesvarelse uten tilstrekkelig kildehenvisning til sitt eget arbeid, som tidligere har gitt uttelling i et bestått resultat
+6. ulovlig bruk av kunstig intelligens
+7. forfalskning eller fabrikkering av data.
 
 (3) Dersom det under eksamen, prøver eller annet arbeid som bedømmes med karakter eller vurderingsuttrykkene «bestått»/«ikke bestått», oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte oppgaven.
 
@@ -772,7 +859,12 @@ Det skal foretas løpende skikkethetsvurdering av studenter ved alle utdanninger
 
 ### § 7-5. Vurderingskriterier
 
-En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 7-6. Utestenging og klage
 
@@ -814,7 +906,17 @@ En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
 (4) Styret skal arbeide for å forebygge og forhindre trakassering og seksuell trakassering, jf. [likestillings- og diskrimineringsloven § 13](lov/2017-06-16-51/§13).
 
-(5) Styret har ansvaret for universell utforming med at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge forat lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drivesat lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitetat lokalene blir vedlikeholdt og er rene og ryddigeat lokalene er innredet slik at studentene unngår uheldige fysiske belastningerat virksomheten er planlagt slik at skader og ulykker forebyggesat tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykkerat lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolenat læringsmiljøet er innrettet for studenter av ulike kjønnat læringsmiljøet er utformet etter prinsippet om universell utforming.
+(5) Styret har ansvaret for universell utforming med at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge for
+
+1. at lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drives
+2. at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet
+3. at lokalene blir vedlikeholdt og er rene og ryddige
+4. at lokalene er innredet slik at studentene unngår uheldige fysiske belastninger
+5. at virksomheten er planlagt slik at skader og ulykker forebygges
+6. at tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykker
+7. at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolen
+8. at læringsmiljøet er innrettet for studenter av ulike kjønn
+9. at læringsmiljøet er utformet etter prinsippet om universell utforming.
 
 ### § 8-3. Individuell tilrettelegging
 

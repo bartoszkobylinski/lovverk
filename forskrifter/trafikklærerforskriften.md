@@ -38,7 +38,21 @@ Forskriften gjelder også krav til kursarrangører og andre kurstilbydere av ett
 
 ### § 2. Definisjoner
 
-I denne forskriften menes:*Trafikklærer:*godkjent trafikklærer på grunnlag av [§ 4 andre ledd bokstav c](forskrift/2024-10-15-2556/§4/ledd/2/bokstav/c), ellergodkjent trafikklærer på grunnlag av [§ 4 fjerde](forskrift/2024-10-15-2556/§4/ledd/4) og [femte ledd](forskrift/2024-10-15-2556/§4/ledd/5), ellerpersoner med offentlig godkjenning for å drive trafikkopplæring ved en trafikkskole i henhold til tidligere forskrifter, jf. [trafikkopplæringsforskriften § 31-1 første ledd](forskrift/2004-10-01-1339/§31-1/ledd/1).*Faglig leder:* person med det faglige, administrative og pedagogiske ansvaret ved en trafikkskole.*Trafikkopplæring:* praktisk og teoretisk opplæring for erverv eller fornyelse av førerett som må dokumenteres med førerkort.*Undervisningstime:* 60 minutter.*Godkjenningsperiode:* fem år.*Kursarrangører:* tilbydere av den generelle delen av etterutdanning, jf. § 23 tredje ledd, etterutdanning i tilleggsklassene, jf. [§ 24](forskrift/2024-10-15-2556/§24), og etterutdanning for faglig leder, jf. [§ 25](forskrift/2024-10-15-2556/§25). Med kursarrangører menes utdanningsinstitusjoner for trafikklærere, og bransjeforbund som har minimum femti medlemsskoler.*Kurstilbydere:* Andre arrangører av forhåndsgodkjente etterutdanningskurs og konferanser, jf. [§ 22 fjerde ledd](forskrift/2024-10-15-2556/§22/ledd/4).*Undervisningsplan:* plan som viser hvordan kursarrangør oppfyller forskriftens krav.*TSK-registeret:* Trafikkskole-, sensor- og kursarrangørregisteret.
+I denne forskriften menes:
+
+1. *Trafikklærer:*
+
+   1. godkjent trafikklærer på grunnlag av [§ 4 andre ledd bokstav c](forskrift/2024-10-15-2556/§4/ledd/2/bokstav/c), eller
+   2. godkjent trafikklærer på grunnlag av [§ 4 fjerde](forskrift/2024-10-15-2556/§4/ledd/4) og [femte ledd](forskrift/2024-10-15-2556/§4/ledd/5), eller
+   3. personer med offentlig godkjenning for å drive trafikkopplæring ved en trafikkskole i henhold til tidligere forskrifter, jf. [trafikkopplæringsforskriften § 31-1 første ledd](forskrift/2004-10-01-1339/§31-1/ledd/1).
+2. *Faglig leder:* person med det faglige, administrative og pedagogiske ansvaret ved en trafikkskole.
+3. *Trafikkopplæring:* praktisk og teoretisk opplæring for erverv eller fornyelse av førerett som må dokumenteres med førerkort.
+4. *Undervisningstime:* 60 minutter.
+5. *Godkjenningsperiode:* fem år.
+6. *Kursarrangører:* tilbydere av den generelle delen av etterutdanning, jf. § 23 tredje ledd, etterutdanning i tilleggsklassene, jf. [§ 24](forskrift/2024-10-15-2556/§24), og etterutdanning for faglig leder, jf. [§ 25](forskrift/2024-10-15-2556/§25). Med kursarrangører menes utdanningsinstitusjoner for trafikklærere, og bransjeforbund som har minimum femti medlemsskoler.
+7. *Kurstilbydere:* Andre arrangører av forhåndsgodkjente etterutdanningskurs og konferanser, jf. [§ 22 fjerde ledd](forskrift/2024-10-15-2556/§22/ledd/4).
+8. *Undervisningsplan:* plan som viser hvordan kursarrangør oppfyller forskriftens krav.
+9. *TSK-registeret:* Trafikkskole-, sensor- og kursarrangørregisteret.
 
 > Endret ved forskrift [25 feb 2026 nr. 277](forskrift/2026-02-25-277) (i kraft 1 mars 2026).
 
@@ -66,7 +80,13 @@ Trafikklærer plikter å si ifra til Statens vegvesen dersom vilkårene for å i
 
 Den som skal ha godkjenning som trafikklærer må være edruelig og tilfredsstille kravet i [vegtrafikkloven § 27 første ledd](lov/1965-06-18-4/§27/ledd/1).
 
-I tillegg må den som skal ha godkjenning som trafikklærerha full førerett i den klassen det skal gis undervisning i og ha hatt slik førerett i minst tre år sammenhengende, eventuelt minst ett år dersom vedkommende har hatt førerett begrenset med kode 78 sammenhengende i de to foregående årene,fylle de helsekrav som er fastsatt for å kunne få førerett i klasse D, jf. [førerkortforskriften](forskrift/2004-01-19-298),ha grunnutdanning for trafikklærere og bestått eksamen fra Nord universitet eller tilsvarende ogha tilstrekkelige norskkunnskaper til å kunne utføre yrket sitt på en tilfredsstillende og forsvarlig måte ogvære fylt 21 år.
+I tillegg må den som skal ha godkjenning som trafikklærer
+
+1. ha full førerett i den klassen det skal gis undervisning i og ha hatt slik førerett i minst tre år sammenhengende, eventuelt minst ett år dersom vedkommende har hatt førerett begrenset med kode 78 sammenhengende i de to foregående årene,
+2. fylle de helsekrav som er fastsatt for å kunne få førerett i klasse D, jf. [førerkortforskriften](forskrift/2004-01-19-298),
+3. ha grunnutdanning for trafikklærere og bestått eksamen fra Nord universitet eller tilsvarende og
+4. ha tilstrekkelige norskkunnskaper til å kunne utføre yrket sitt på en tilfredsstillende og forsvarlig måte og
+5. være fylt 21 år.
 
 Godkjenning som trafikklærer gis av Statens vegvesen.
 
@@ -272,7 +292,14 @@ Når denne delen av etterutdanningen er gjennomført, gis ny godkjenning som tra
 
 For å få ny godkjenning som trafikklærer i andre klasser, må klassespesifikk etterutdanning gjennomføres sammenhengende innenfor godkjenningsperioden.
 
-I tillegg til å gjennomføre fem dager generell etterutdanning, jf. § 23, må trafikklærer som ønsker å opprettholde godkjenningen i andre klasser enn klasse B og AM147, gjennomføre etterutdanning i klassene:A1, A2 og AAM 146BEC1, C1E, C, CE, D1, D1E, D og DEST.
+I tillegg til å gjennomføre fem dager generell etterutdanning, jf. § 23, må trafikklærer som ønsker å opprettholde godkjenningen i andre klasser enn klasse B og AM147, gjennomføre etterutdanning i klassene:
+
+1. A1, A2 og A
+2. AM 146
+3. BE
+4. C1, C1E, C, CE, D1, D1E, D og DE
+5. S
+6. T.
 
 Etterutdanning etter andre ledd nr. 1 til nr. 6 skal hver for seg være to dager á sju undervisningstimer, 14 timer totalt. Begge dagene skal gjennomføres hos en kursarrangør. Det åpnes ikke for nettbasert undervisning.
 
@@ -314,7 +341,13 @@ Det må framlegges dokumentasjon som viser at søkeren oppfyller faglige og admi
 
 Det er et vilkår for godkjenning at kursarrangør ikke primært tilbyr trafikkopplæring.
 
-Statens vegvesen godkjenner innholdet i utdanningen. Godkjenning gis etter skriftlig og dokumentert søknad. I søknaden skal det, i tillegg til det som følger av [§ 2 bokstav h](forskrift/2024-10-15-2556/§2/bokstav/h), framgåhvilke deler av etterutdanningen det søkes om godkjenning for,den eller de som skal undervise ved etterutdanningen sine kvalifikasjoner og faglige bakgrunn,opplysninger om kurset som skal gjennomføres, herunder timeplan, faglig innhold og undervisningslokaler,hvilket relevant undervisningsmateriell og utstyr som skal benyttes og som er nødvendig for et faglig godt utbytte hos kursdeltakerne, oghvilken undervisningsform og arbeidsmåte som benyttes, og maksantall for deltakere.
+Statens vegvesen godkjenner innholdet i utdanningen. Godkjenning gis etter skriftlig og dokumentert søknad. I søknaden skal det, i tillegg til det som følger av [§ 2 bokstav h](forskrift/2024-10-15-2556/§2/bokstav/h), framgå
+
+1. hvilke deler av etterutdanningen det søkes om godkjenning for,
+2. den eller de som skal undervise ved etterutdanningen sine kvalifikasjoner og faglige bakgrunn,
+3. opplysninger om kurset som skal gjennomføres, herunder timeplan, faglig innhold og undervisningslokaler,
+4. hvilket relevant undervisningsmateriell og utstyr som skal benyttes og som er nødvendig for et faglig godt utbytte hos kursdeltakerne, og
+5. hvilken undervisningsform og arbeidsmåte som benyttes, og maksantall for deltakere.
 
 Kursarrangør skal ha en undervisningsansvarlig. Den undervisningsansvarliges kompetanse skal være i tråd med etterutdanningens innhold. Manglende formell kompetanse kan kompenseres med realkompetanse.
 

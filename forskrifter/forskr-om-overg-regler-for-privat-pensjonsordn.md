@@ -15,7 +15,7 @@ xml_hash: "69362ac28d42b9f21a7ef5df89639528b901156ffdd2f00e045bf14e4fd30c94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,13 @@ For pensjonsordning opprettet før [lov av 24. mars 2000 nr. 16](lov/2000-03-24-
 
 ### § 1. Private tjenestepensjonsordninger
 
-Privat tjenestepensjonsordning som nevnt i [skatteloven § 6-46](lov/1999-03-26-14/§6-46), jf. tidligere skattelov § 44, første ledd, bokstav k, kan bare være:Pensjonsforsikring som er tegnet under navn av «Tjenestepensjonsforsikring etter skattelovene» i selskap som har tillatelse til å drive livsforsikringsvirksomhet her i landet, ellerPensjonskasse som er forsikringsteknisk oppbygget og godkjent av Forsikringsrådet som «Tjenestepensjonskasse etter skattelovene», ellerPensjonsordning som bygger på avtale mellom organisasjoner for arbeidsgivere og arbeidstakere som er godkjent av Sosialdepartementet som «Tariffestet pensjonsordning etter skattelovene», ellerSuppleringsfond som er godkjent av Forsikringsrådet som «Tjenestepensjonsfond etter skattelovene» ellerOppsamlingsfond i livsforsikringsselskap som nevnt under a hvis fondet av selskapet er betegnet som «Tjenestepensjonsfond etter skattelovene».
+Privat tjenestepensjonsordning som nevnt i [skatteloven § 6-46](lov/1999-03-26-14/§6-46), jf. tidligere skattelov § 44, første ledd, bokstav k, kan bare være:
+
+1. Pensjonsforsikring som er tegnet under navn av «Tjenestepensjonsforsikring etter skattelovene» i selskap som har tillatelse til å drive livsforsikringsvirksomhet her i landet, eller
+2. Pensjonskasse som er forsikringsteknisk oppbygget og godkjent av Forsikringsrådet som «Tjenestepensjonskasse etter skattelovene», eller
+3. Pensjonsordning som bygger på avtale mellom organisasjoner for arbeidsgivere og arbeidstakere som er godkjent av Sosialdepartementet som «Tariffestet pensjonsordning etter skattelovene», eller
+4. Suppleringsfond som er godkjent av Forsikringsrådet som «Tjenestepensjonsfond etter skattelovene» eller
+5. Oppsamlingsfond i livsforsikringsselskap som nevnt under a hvis fondet av selskapet er betegnet som «Tjenestepensjonsfond etter skattelovene».
 
 Pensjonsordning som er nevnt under bokstavene a, b, og c er i disse regler kalt «fast tjenestepensjonsordning».
 
@@ -48,7 +54,12 @@ Livsforsikringsselskapet kan betegne oppsamlingsfond i selskapet som «Tjenestep
 
 ### § 3. Styre. Utskillelse og anbringelse av midler. Regnskap
 
-For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav b og d gjelder:Pensjonsordningen skal ledes av et eget styre. Styret skal ha minst fire medlemmer, hvorav minst to medlemmer med personlige varamenn skal velges av og blant de personer som omfattes av pensjonsordningen. Finanstilsynet kan i særlige tilfelle godkjenne at personer som ikke omfattes av pensjonsordningen oppnevnes.Pensjonsordningens midler må holdes atskilt fra arbeidsgiverens midler og kan ikke hefte for hans forpliktelser. Midlene må ikke i noe tilfelle betales tilbake til arbeidsgiveren eller tilfalle hans kreditorer. Jf. ellers [§ 7](forskrift/2000-12-22-1412/§7).Pensjonsordningen skal anbringe sine midler etter regler som gis av Finanstilsynet.Innen fem måneder etter regnskapsårets slutt skal tjenestepensjonsordningen sende Finanstilsynet revidert regnskap på skjema som Rådet har fastsatt.
+For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav b og d gjelder:
+
+1. Pensjonsordningen skal ledes av et eget styre. Styret skal ha minst fire medlemmer, hvorav minst to medlemmer med personlige varamenn skal velges av og blant de personer som omfattes av pensjonsordningen. Finanstilsynet kan i særlige tilfelle godkjenne at personer som ikke omfattes av pensjonsordningen oppnevnes.
+2. Pensjonsordningens midler må holdes atskilt fra arbeidsgiverens midler og kan ikke hefte for hans forpliktelser. Midlene må ikke i noe tilfelle betales tilbake til arbeidsgiveren eller tilfalle hans kreditorer. Jf. ellers [§ 7](forskrift/2000-12-22-1412/§7).
+3. Pensjonsordningen skal anbringe sine midler etter regler som gis av Finanstilsynet.
+4. Innen fem måneder etter regnskapsårets slutt skal tjenestepensjonsordningen sende Finanstilsynet revidert regnskap på skjema som Rådet har fastsatt.
 
 > Endret ved [forskrift 7 des 2011 nr. 1205](forskrift/2011-12-07-1205).
 
@@ -56,9 +67,19 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 1\. Pensjonsordningen, eventuelt kombinasjon av pensjonsordninger, skal omfatte alle arbeidstakere som er obligatorisk trygdet etter bestemmelsene i lov om folketrygd. Det kan likevel opprettes pensjonsordning som bare omfatter arbeidstakere hvis lønn overstiger et fastsatt beløp, forutsatt at vilkårene i [§ 6](forskrift/2000-12-22-1412/§6) er oppfylt. Bestemmelsene i første punktum er heller ikke til hinder for at det opprettes pensjonsordning bare for arbeidstakere som på grunn av alder pr. 1. januar 1967 ikke kan opptjene full tilleggspensjon i folketrygden.
 
-2\. Bestemmelsene i [punkt](forskrift/2000-12-22-1412/kap1) 1 er ikke til hinder for at det kan settes som alminnelige vilkår for opptakelse i pensjonsordningen at arbeidstakerenhar en arbeidstid som utgjør minst halvparten av full arbeidstid i tilsvarende stilling. Det kan også settes som vilkår at en sesongarbeider bare skal opptas hvis vedkommende har arbeidet hos arbeidsgiveren minst 130 uker i løpet av de siste fem år og ikke mindre enn 20 uker i noe av disse år,har vært i arbeidsgiverens tjeneste en viss tid, høyst fem år. Arbeidstakere som har fylt 25 år skal likevel tas med i pensjonsordningen etter ett års tjeneste,ved opptakelse i pensjonsordningen har en viss tid igjen til pensjonsalderen, høyst ti år,er arbeidsfør. Er arbeidstakeren ikke arbeidsfør på det tidspunkt da han ellers skulle tas opp i pensjonsordningen, skal han tas opp når han blir arbeidsfør igjen,ikke går inn under annen tjenestepensjonsordning som arbeidsgiveren betaler premie eller avgift til og som gir ytelser av minst tilsvarende verdi.
+2\. Bestemmelsene i [punkt](forskrift/2000-12-22-1412/kap1) 1 er ikke til hinder for at det kan settes som alminnelige vilkår for opptakelse i pensjonsordningen at arbeidstakeren
 
-3\. Pensjonsordningen kan ikke omfatte andre personer enn de som er nevnte i [punkt](forskrift/2000-12-22-1412/kap1) 1, samt arbeidsgiver. Dog kan førtidspensjonerte bli stående i pensjonsordningen, forutsatt at medlemskapet opprettholdes for alle førtidspensjonerte. Tilsvarende gjelder for permitterte.Arbeidstakere som blir stående i tjenestepensjonsordningen etter bestemmelsen i første ledd kan sikres inntil samme pensjoner som vedkommende ville fått ved oppnådd pensjonsalder hvis førtidspensjonering/permittering ikke hadde funnet sted. Pensjonsgrunnlaget kan reguleres i takt med lønnsutviklingen for bedriftens arbeidstakere, folketrygdens grunnbeløp, konsumprisindeks o.l.Med samtykke av Finanstilsynet kan annen arbeidstaker enn nevnt i [punkt](forskrift/2000-12-22-1412/kap1) 1 tas med i pensjonsordningen.
+1. har en arbeidstid som utgjør minst halvparten av full arbeidstid i tilsvarende stilling. Det kan også settes som vilkår at en sesongarbeider bare skal opptas hvis vedkommende har arbeidet hos arbeidsgiveren minst 130 uker i løpet av de siste fem år og ikke mindre enn 20 uker i noe av disse år,
+2. har vært i arbeidsgiverens tjeneste en viss tid, høyst fem år. Arbeidstakere som har fylt 25 år skal likevel tas med i pensjonsordningen etter ett års tjeneste,
+3. ved opptakelse i pensjonsordningen har en viss tid igjen til pensjonsalderen, høyst ti år,
+4. er arbeidsfør. Er arbeidstakeren ikke arbeidsfør på det tidspunkt da han ellers skulle tas opp i pensjonsordningen, skal han tas opp når han blir arbeidsfør igjen,
+5. ikke går inn under annen tjenestepensjonsordning som arbeidsgiveren betaler premie eller avgift til og som gir ytelser av minst tilsvarende verdi.
+
+3\. Pensjonsordningen kan ikke omfatte andre personer enn de som er nevnte i [punkt](forskrift/2000-12-22-1412/kap1) 1, samt arbeidsgiver. Dog kan førtidspensjonerte bli stående i pensjonsordningen, forutsatt at medlemskapet opprettholdes for alle førtidspensjonerte. Tilsvarende gjelder for permitterte.
+
+Arbeidstakere som blir stående i tjenestepensjonsordningen etter bestemmelsen i første ledd kan sikres inntil samme pensjoner som vedkommende ville fått ved oppnådd pensjonsalder hvis førtidspensjonering/permittering ikke hadde funnet sted. Pensjonsgrunnlaget kan reguleres i takt med lønnsutviklingen for bedriftens arbeidstakere, folketrygdens grunnbeløp, konsumprisindeks o.l.
+
+Med samtykke av Finanstilsynet kan annen arbeidstaker enn nevnt i [punkt](forskrift/2000-12-22-1412/kap1) 1 tas med i pensjonsordningen.
 
 > Endret ved [forskrift 7 des 2011 nr. 1205](forskrift/2011-12-07-1205).
 
@@ -66,11 +87,19 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 1\. I fast pensjonsordning kan det bare sikres pensjonsytelser for lønn inntil 12 ganger det grunnbeløp i folketrygden som gjelder til enhver tid.
 
-2\. Pensjonsordningen kan bare ytealderspensjon tidligst fra fylte 67 år,pensjon til etterlatt ektefelle, eventuelt til etterlatt fraskilt ektefelle i samsvar med bestemmelsene i ekteskapslovgivningen,barnepensjon til etterlatte barn, herunder stebarn, adoptivbarn og fosterbarn, dog ikke lenger enn til barnet fyller 21 år, eller – dersom barnet er ervervsuført – til uførheten opphører,uførepensjon inntil alderspensjon begynner å løpe,premiefritakelse etter ervervsuførhet.
+2\. Pensjonsordningen kan bare yte
+
+1. alderspensjon tidligst fra fylte 67 år,
+2. pensjon til etterlatt ektefelle, eventuelt til etterlatt fraskilt ektefelle i samsvar med bestemmelsene i ekteskapslovgivningen,
+3. barnepensjon til etterlatte barn, herunder stebarn, adoptivbarn og fosterbarn, dog ikke lenger enn til barnet fyller 21 år, eller – dersom barnet er ervervsuført – til uførheten opphører,
+4. uførepensjon inntil alderspensjon begynner å løpe,
+5. premiefritakelse etter ervervsuførhet.
 
 3\. Departementet kan tillate en lavere pensjonsalder enn 67 år for stillinger som medfører uvanlig fysisk eller psykisk belastning. Det samme gjelder stillinger som stiller spesielle krav til fysiske eller psykiske egenskaper som normalt blir svekket før fylte 67 år. Når vedtaket gjelder større grupper av arbeidstakere eller kan ha prinsipiell betydning, fastsettes laveste tillatte pensjonsalder av Kongen.
 
-4\. Pensjonsordninger som omfatter etterlattepensjon må sikre enke- og enkemannspensjon på like vilkår.En tjenestepensjonsordning kan yte etterlattepensjon med eller uten ervervsprøving. Etterlattepensjonen kan bare være ervervsprøvet for etterlatt ektefelle som ikke har nådd folketrygdens pensjonsalder eller har uførepensjon fra folketrygden. Departementet fastsetter forskrifter for ervervsprøvingen.
+4\. Pensjonsordninger som omfatter etterlattepensjon må sikre enke- og enkemannspensjon på like vilkår.
+
+En tjenestepensjonsordning kan yte etterlattepensjon med eller uten ervervsprøving. Etterlattepensjonen kan bare være ervervsprøvet for etterlatt ektefelle som ikke har nådd folketrygdens pensjonsalder eller har uførepensjon fra folketrygden. Departementet fastsetter forskrifter for ervervsprøvingen.
 
 5\. Er en arbeidstaker tilstått uførepensjon fra folketrygden på grunnlag av minst 75 prosent ervervsuførhet, og er han ikke sikret uførepensjon i pensjonsordningen, kan utbetaling av alderspensjon ta til inntil fem år før pensjonsalderen, eller – dersom pensjonsalderen er høyere enn 67 år – fra fylte 62 år. Pensjonen omregnes i tilfelle på forsikringsteknisk grunnlag.
 
@@ -80,9 +109,19 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 ### § 6. Forholdsmessighet mellom pensjonene i tjenestepensjonsordning
 
-1\. Pensjonen skal i prinsippet fastsettes slik at det blir et rimelig forhold mellom de samlede pensjonsytelser – inklusive ytelser fra folketrygden – som de enkelte arbeidstakere er sikret når det tas hensyn til lønn og tjenestetid hos arbeidsgiveren. For øvrig skal pensjonene fastsettes etter følgende regler:Pensjonsplanen skal være den samme for alle arbeidstakere som går inn under tjenestepensjonsordningen. Det kan likevel fastsettes lavere pensjonsalder for en gruppe arbeidstakere enn for andre grupper, jf. [§ 5](forskrift/2000-12-22-1412/§5) [punkt](forskrift/2000-12-22-1412/kap3) 3. Full alderspensjon før fylte 67 år for den førstnevnte gruppe må i tilfelle ikke settes lavere enn folketrygdens grunnbeløp.Dersom pensjonene beregnes i forhold til lønnen, skal pensjonsgivende lønn fastsettes etter samme prinsipper for alle arbeidstakere. Det kan likevel regnes med normerte pensjonsgrunnlag for en gruppe eller flere grupper arbeidstakere, forutsatt at dette ikke fører til vesentlige avvik fra det resultat man ville fått ved å bygge på den enkelte arbeidstakers faktiske lønn.De samlede pensjonsytelser – inklusive ytelser fra folketrygden – skal ikke utgjøre en større prosentdel av lønnen for en arbeidstaker med høyere lønn enn for en arbeidstaker med lavere lønn.Det skal settes som vilkår for å få fulle pensjonsytelser at arbeidstakeren har en tjenestetid av en viss lengde – minst 30 år – hos arbeidsgiveren. Ved kortere tjenestetid avkortes ytelsene fra pensjonsordningen forholdsmessig.Folketrygdens ytelser beregnes på grunnlag av gjeldende grunnbeløp og på grunnlag av hele eller en prosentvis del av den pensjonsgivende lønn. Det kan regnes med folketrygdens grunnpensjon for enslig uten hensyn til om vedkommende arbeidstaker er gift eller ugift. Ved beregningen av folketrygdens ytelser kan det helt eller delvis sees bort fra ventetillegg.
+1\. Pensjonen skal i prinsippet fastsettes slik at det blir et rimelig forhold mellom de samlede pensjonsytelser – inklusive ytelser fra folketrygden – som de enkelte arbeidstakere er sikret når det tas hensyn til lønn og tjenestetid hos arbeidsgiveren. For øvrig skal pensjonene fastsettes etter følgende regler:
 
-2\. Bestemmelsene i denne paragraf er ikke til hinder forat det regnes med fulle ytelser fra folketrygden også for arbeidstaker som på grunn av alder pr. 1. januar 1967 ikke kan opptjene full tilleggspensjon,at det ved fastsettelsen av pensjonene ses bort fra tjenestetid før pensjonsordningen ble opprettet,at det ved fastsettelsen av pensjonene tas hensyn til ytelser som tidligere er opptjent i annen pensjonsordning.
+1. Pensjonsplanen skal være den samme for alle arbeidstakere som går inn under tjenestepensjonsordningen. Det kan likevel fastsettes lavere pensjonsalder for en gruppe arbeidstakere enn for andre grupper, jf. [§ 5](forskrift/2000-12-22-1412/§5) [punkt](forskrift/2000-12-22-1412/kap3) 3. Full alderspensjon før fylte 67 år for den førstnevnte gruppe må i tilfelle ikke settes lavere enn folketrygdens grunnbeløp.
+2. Dersom pensjonene beregnes i forhold til lønnen, skal pensjonsgivende lønn fastsettes etter samme prinsipper for alle arbeidstakere. Det kan likevel regnes med normerte pensjonsgrunnlag for en gruppe eller flere grupper arbeidstakere, forutsatt at dette ikke fører til vesentlige avvik fra det resultat man ville fått ved å bygge på den enkelte arbeidstakers faktiske lønn.
+3. De samlede pensjonsytelser – inklusive ytelser fra folketrygden – skal ikke utgjøre en større prosentdel av lønnen for en arbeidstaker med høyere lønn enn for en arbeidstaker med lavere lønn.
+4. Det skal settes som vilkår for å få fulle pensjonsytelser at arbeidstakeren har en tjenestetid av en viss lengde – minst 30 år – hos arbeidsgiveren. Ved kortere tjenestetid avkortes ytelsene fra pensjonsordningen forholdsmessig.
+5. Folketrygdens ytelser beregnes på grunnlag av gjeldende grunnbeløp og på grunnlag av hele eller en prosentvis del av den pensjonsgivende lønn. Det kan regnes med folketrygdens grunnpensjon for enslig uten hensyn til om vedkommende arbeidstaker er gift eller ugift. Ved beregningen av folketrygdens ytelser kan det helt eller delvis sees bort fra ventetillegg.
+
+2\. Bestemmelsene i denne paragraf er ikke til hinder for
+
+1. at det regnes med fulle ytelser fra folketrygden også for arbeidstaker som på grunn av alder pr. 1. januar 1967 ikke kan opptjene full tilleggspensjon,
+2. at det ved fastsettelsen av pensjonene ses bort fra tjenestetid før pensjonsordningen ble opprettet,
+3. at det ved fastsettelsen av pensjonene tas hensyn til ytelser som tidligere er opptjent i annen pensjonsordning.
 
 3\. Ved sammenslutning av bedrifter kan Finanstilsynet fravike bestemmelsene i denne paragraf.
 
@@ -90,17 +129,34 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 ### § 7. Premiefond
 
-1\. Tilskudd som nevnt i [landskatteloven § 44](lov/1911-08-18-8/§44), byskatteloven § 38, første ledd, bokstav k, nr. 2 i begge, kan bare innbetales til premiefond for fast tjenestepensjonsordning. Alle beløp som etter forsikringsavtalen eller vedtekter for pensjonskassen skal godskrives arbeidsgiveren, overføres til premiefond.Dersom arbeidsgiveren har opprettet eller sluttet seg til flere tjenestepensjonsordninger, skal midlene i premiefond anses som avsatt for alle tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b, uansett hvilken ordning midlene er innbetalt til.
+1\. Tilskudd som nevnt i [landskatteloven § 44](lov/1911-08-18-8/§44), byskatteloven § 38, første ledd, bokstav k, nr. 2 i begge, kan bare innbetales til premiefond for fast tjenestepensjonsordning. Alle beløp som etter forsikringsavtalen eller vedtekter for pensjonskassen skal godskrives arbeidsgiveren, overføres til premiefond.
 
-2\. Midlene i premiefond nyttes etter arbeidsgiverens bestemmelse til dekning avhans andel av årets premie, eventuelt også arbeidstakerens andel,engangspremie svarende til naturlig premiereserve for oppsatte pensjoner,årlige tillegg til løpende pensjoner i den faste tjenestepensjonsordning eller engangspremie for slike tillegg,pensjon til arbeidstakere som på grunn av høy alder eller arbeidsudyktighet ikke er tatt opp i den faste tjenestepensjonsordning, og pensjon til deres etterlatte,uførepensjon dersom slik pensjon ikke ytes gjennom den faste tjenestepensjonsordning,alderspensjon til arbeidstaker som ennå ikke har nådd den fastsatte pensjonsalder, men som har fylt 67 år eller i tilfelle slik lavere alder som er tillatt som pensjonsalder i vedkommende yrke, jf. [§ 5](forskrift/2000-12-22-1412/§5).Dersom premie som nevnt under punkt a eller b ikke dekkes fullt ut for tjenestepensjonsordningen, skal dekningen skje forholdsmessig for alle arbeidstakere. Det samme gjelder dersom arbeidsgiveren har opprettet eller er tilsluttet flere tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b.Pensjoner og tillegg som nevnt under punkt c, d, e og f skal fastsettes i samsvar med bestemmelsene i [§ 6](forskrift/2000-12-22-1412/§6). Ved fastsettelsen av tillegg til løpende pensjoner kan det tas hensyn til endringer i lønnsnivå eller leveomkostninger etter at de enkelte pensjoner sist ble regulert.
+Dersom arbeidsgiveren har opprettet eller sluttet seg til flere tjenestepensjonsordninger, skal midlene i premiefond anses som avsatt for alle tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b, uansett hvilken ordning midlene er innbetalt til.
+
+2\. Midlene i premiefond nyttes etter arbeidsgiverens bestemmelse til dekning av
+
+1. hans andel av årets premie, eventuelt også arbeidstakerens andel,
+2. engangspremie svarende til naturlig premiereserve for oppsatte pensjoner,
+3. årlige tillegg til løpende pensjoner i den faste tjenestepensjonsordning eller engangspremie for slike tillegg,
+4. pensjon til arbeidstakere som på grunn av høy alder eller arbeidsudyktighet ikke er tatt opp i den faste tjenestepensjonsordning, og pensjon til deres etterlatte,
+5. uførepensjon dersom slik pensjon ikke ytes gjennom den faste tjenestepensjonsordning,
+6. alderspensjon til arbeidstaker som ennå ikke har nådd den fastsatte pensjonsalder, men som har fylt 67 år eller i tilfelle slik lavere alder som er tillatt som pensjonsalder i vedkommende yrke, jf. [§ 5](forskrift/2000-12-22-1412/§5).
+
+Dersom premie som nevnt under punkt a eller b ikke dekkes fullt ut for tjenestepensjonsordningen, skal dekningen skje forholdsmessig for alle arbeidstakere. Det samme gjelder dersom arbeidsgiveren har opprettet eller er tilsluttet flere tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b.
+
+Pensjoner og tillegg som nevnt under punkt c, d, e og f skal fastsettes i samsvar med bestemmelsene i [§ 6](forskrift/2000-12-22-1412/§6). Ved fastsettelsen av tillegg til løpende pensjoner kan det tas hensyn til endringer i lønnsnivå eller leveomkostninger etter at de enkelte pensjoner sist ble regulert.
 
 3\. Hvis premiefondets midler overstiger et beløp svarende til tre ganger arbeidsgiverens andel av årspremien til den faste tjenestepensjonsordning, kan det overskytende beløp helt eller delvis overføres til pensjonsreguleringsfond, jf. [§ 8](forskrift/2000-12-22-1412/§8).
 
 ### § 8. Pensjonsreguleringsfond
 
-1\. Tilskudd som nevnt i [landskattelovens § 44](lov/1911-08-18-8/§44), byskattelovens § 38, første ledd, bokstav k, nr. 3 i begge, kan bare innbetales til pensjonsreguleringsfond for fast tjenestepensjonsordning.Dersom arbeidsgiveren har opprettet eller sluttet seg til flere tjenestepensjonsordninger, skal midlene i pensjonsreguleringsfond anses som avsatt for alle tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b, uansett hvilken ordning midlene er innbetalt til.
+1\. Tilskudd som nevnt i [landskattelovens § 44](lov/1911-08-18-8/§44), byskattelovens § 38, første ledd, bokstav k, nr. 3 i begge, kan bare innbetales til pensjonsreguleringsfond for fast tjenestepensjonsordning.
 
-2\. Midlene i pensjonsreguleringsfond skal etter arbeidsgiverens bestemmelse nyttes til å yte tillegg til de løpende pensjoner i den eller de faste tjenestepensjonsordninger med sikte på å opprettholde den kjøpekraft pensjonene hadde da de begynte å løpe. Dersom midlene er store nok, skal det gis ytterligere tillegg med sikte på standardforbedring av pensjonene så vidt mulig i takt med reallønnsøkningen.Senest når pensjonsreguleringsfondet har nådd en størrelse som svarer til to ganger de aktuelle løpende årlige pensjoner, skal det legges en plan for utbetaling av tillegg som nevnt i foregående ledd. Planen må forelegges Finanstilsynet til godkjennelse og må revideres dersom tilsynet krever det.
+Dersom arbeidsgiveren har opprettet eller sluttet seg til flere tjenestepensjonsordninger, skal midlene i pensjonsreguleringsfond anses som avsatt for alle tjenestepensjonsordninger som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), første ledd, bokstav a og b, uansett hvilken ordning midlene er innbetalt til.
+
+2\. Midlene i pensjonsreguleringsfond skal etter arbeidsgiverens bestemmelse nyttes til å yte tillegg til de løpende pensjoner i den eller de faste tjenestepensjonsordninger med sikte på å opprettholde den kjøpekraft pensjonene hadde da de begynte å løpe. Dersom midlene er store nok, skal det gis ytterligere tillegg med sikte på standardforbedring av pensjonene så vidt mulig i takt med reallønnsøkningen.
+
+Senest når pensjonsreguleringsfondet har nådd en størrelse som svarer til to ganger de aktuelle løpende årlige pensjoner, skal det legges en plan for utbetaling av tillegg som nevnt i foregående ledd. Planen må forelegges Finanstilsynet til godkjennelse og må revideres dersom tilsynet krever det.
 
 3\. Midlene i pensjonsreguleringsfond kan også nyttes som engangspremie for tillegg til de løpende pensjoner i den faste tjenestepensjonsordning. I tilfelle gjelder bestemmelsene i [§ 7](forskrift/2000-12-22-1412/§7), nr. 2, tredje ledd, tilsvarende.
 
@@ -110,7 +166,13 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 ### § 9. Suppleringsfond
 
-1\. Suppleringsfond kan bare ha til formål å yte alderspensjoner og uførepensjoner til personer som ikke kan opptjene fulle tilleggspensjoner i folketrygden, og pensjoner til deres etterlatte ektefeller. Arbeidstakerne må ikke være medlemmer av fast tjenestepensjonsordning som arbeidsgiveren betaler premie til.Senest når fondets kapital har nådd en størrelse som svarer til folketrygdens grunnbeløp multiplisert med antall personer som fondet omfatter, skal pensjonsutbetaling ta til. Fondets styre skal på grunnlag av forsikringsteknisk beregning utarbeide en pensjonsplan som fremlegges for Finanstilsynet til godkjennelse.Når fondets kapital etter forsikringsteknisk beregning antas tilstrekkelig til å dekke en forhøyelse på 50 prosent av de pensjoner som er fastsatt i pensjonsplanen, jf. annet ledd, skal pensjonsplanen revideres. Ytterligere revisjon skal senest skje etter hvert som fondet har midler til nye forhøyelser av pensjonene med 50 prosent.Arbeidsgiver kan bestemme at pensjonen til den enkelte skal fastsettes bare på grunnlag av tilskudd ytet til tjenestepensjonsfondet mens arbeidstakeren var i tjeneste hos arbeidsgiveren.
+1\. Suppleringsfond kan bare ha til formål å yte alderspensjoner og uførepensjoner til personer som ikke kan opptjene fulle tilleggspensjoner i folketrygden, og pensjoner til deres etterlatte ektefeller. Arbeidstakerne må ikke være medlemmer av fast tjenestepensjonsordning som arbeidsgiveren betaler premie til.
+
+Senest når fondets kapital har nådd en størrelse som svarer til folketrygdens grunnbeløp multiplisert med antall personer som fondet omfatter, skal pensjonsutbetaling ta til. Fondets styre skal på grunnlag av forsikringsteknisk beregning utarbeide en pensjonsplan som fremlegges for Finanstilsynet til godkjennelse.
+
+Når fondets kapital etter forsikringsteknisk beregning antas tilstrekkelig til å dekke en forhøyelse på 50 prosent av de pensjoner som er fastsatt i pensjonsplanen, jf. annet ledd, skal pensjonsplanen revideres. Ytterligere revisjon skal senest skje etter hvert som fondet har midler til nye forhøyelser av pensjonene med 50 prosent.
+
+Arbeidsgiver kan bestemme at pensjonen til den enkelte skal fastsettes bare på grunnlag av tilskudd ytet til tjenestepensjonsfondet mens arbeidstakeren var i tjeneste hos arbeidsgiveren.
 
 2\. Dersom arbeidstakeren betaler tilskudd til fondet, skal han og hans etterlatte ha eiendomsrett til minst de tilskudd som han selv har betalt og til et like stort beløp av arbeidsgiverens tilskudd.
 
@@ -118,9 +180,15 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 ### § 10. Oppsamlingsfond
 
-1\. Arbeidsgiver som ikke har opprettet fast tjenestepensjonsordning for vedkommende gruppe av arbeidstakere, kan inngå avtale med et livsforsikringsselskap om innbetaling til et oppsamlingsfond hvis midler skal danne grunnlag for opprettelse av en fast tjenestepensjonsordning.Fast tjenestepensjonsordning skal opprettes senest når fondets midler er tilstrekkelig til å dekke fem årspremier for pensjoner som utgjør 10 prosent av den enkelte arbeidstakers fulle tilleggspensjoner (alders- og etterlattepensjoner) i folketrygden – beregnet for 40 poengår og på grunnlag av den fulle lønn på beregningstidspunktet. Ved premieberegningen nyttes pensjonsalder 70 år, og pensjonene avkortes forholdsmessig ved kortere tjenestetid enn 40 år fra ansettelsen til pensjonsalderen.Den faste tjenestepensjonsordning som opprettes må være i samsvar med gjeldende Regler om private tjenestepensjonsordninger.
+1\. Arbeidsgiver som ikke har opprettet fast tjenestepensjonsordning for vedkommende gruppe av arbeidstakere, kan inngå avtale med et livsforsikringsselskap om innbetaling til et oppsamlingsfond hvis midler skal danne grunnlag for opprettelse av en fast tjenestepensjonsordning.
 
-2\. Når fast tjenestepensjonsordning opprettes, skal midlene i oppsamlingsfondet overføres til et premiefond for ordningen og anvendes i samsvar med bestemmelsene i [§ 7](forskrift/2000-12-22-1412/§7).Dersom fast tjenestepensjonsordning ikke er opprettet innen tre år etter at fondet har nådd den i [punkt](forskrift/2000-12-22-1412/kap1) 1, annet ledd, angitte størrelse, skal livsforsikringsselskapet underrette Finanstilsynet, som bestemmer hvordan midlene i fondet skal anvendes til pensjonsformål for arbeidstakerne.
+Fast tjenestepensjonsordning skal opprettes senest når fondets midler er tilstrekkelig til å dekke fem årspremier for pensjoner som utgjør 10 prosent av den enkelte arbeidstakers fulle tilleggspensjoner (alders- og etterlattepensjoner) i folketrygden – beregnet for 40 poengår og på grunnlag av den fulle lønn på beregningstidspunktet. Ved premieberegningen nyttes pensjonsalder 70 år, og pensjonene avkortes forholdsmessig ved kortere tjenestetid enn 40 år fra ansettelsen til pensjonsalderen.
+
+Den faste tjenestepensjonsordning som opprettes må være i samsvar med gjeldende Regler om private tjenestepensjonsordninger.
+
+2\. Når fast tjenestepensjonsordning opprettes, skal midlene i oppsamlingsfondet overføres til et premiefond for ordningen og anvendes i samsvar med bestemmelsene i [§ 7](forskrift/2000-12-22-1412/§7).
+
+Dersom fast tjenestepensjonsordning ikke er opprettet innen tre år etter at fondet har nådd den i [punkt](forskrift/2000-12-22-1412/kap1) 1, annet ledd, angitte størrelse, skal livsforsikringsselskapet underrette Finanstilsynet, som bestemmer hvordan midlene i fondet skal anvendes til pensjonsformål for arbeidstakerne.
 
 > Endret ved [forskrift 7 des 2011 nr. 1205](forskrift/2011-12-07-1205).
 
@@ -128,7 +196,9 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 1\. Premie til tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), bokstav a og b, skal beregnes under forutsetning av årlig betaling inntil nådd pensjonsalder eller tidligere død. I den utstrekning Finanstilsynet godkjenner det, kan premien likevel beregnes til betaling ut over pensjonsalderen. Er pensjonsalderen for vedkommende gruppe av arbeidstakere satt høyere enn den lavest tillatte pensjonsalder (jf. [§ 5](forskrift/2000-12-22-1412/§5)), kan premien beregnes slik at premiebetalingen opphører ved den lavest tillatte pensjonsalder eller tidligere død.
 
-2\. Arbeidsgivers årlige tilskudd til suppleringsfond som nevnt i [§ 9](forskrift/2000-12-22-1412/§9) kan utgjøre inntil et beløp svarende til halvdelen av folketrygdens grunnbeløp for hver arbeidstaker og pensjonist som går inn under fondet. Dersom arbeidstakerne betaler tilskudd, må arbeidsgiver betale tilskudd av minst samme størrelse. Mulig årlig tilskudd fra arbeidstakerne må ikke for noens vedkommende overstige et beløp svarende til en fjerdedel av folketrygdens grunnbeløp.Finanstilsynet kan på grunnlag av forsikringsteknisk beregning fastsette høyere grensebeløp for det årlige tilskudd enn nevnt i foregående ledd.
+2\. Arbeidsgivers årlige tilskudd til suppleringsfond som nevnt i [§ 9](forskrift/2000-12-22-1412/§9) kan utgjøre inntil et beløp svarende til halvdelen av folketrygdens grunnbeløp for hver arbeidstaker og pensjonist som går inn under fondet. Dersom arbeidstakerne betaler tilskudd, må arbeidsgiver betale tilskudd av minst samme størrelse. Mulig årlig tilskudd fra arbeidstakerne må ikke for noens vedkommende overstige et beløp svarende til en fjerdedel av folketrygdens grunnbeløp.
+
+Finanstilsynet kan på grunnlag av forsikringsteknisk beregning fastsette høyere grensebeløp for det årlige tilskudd enn nevnt i foregående ledd.
 
 3\. Arbeidsgivers årlige tilskudd til oppsamlingsfond som nevnt i [§ 10](forskrift/2000-12-22-1412/§10) kan utgjøre inntil et beløp svarende til en fjerdedel av folketrygdens grunnbeløp for hver arbeidstaker. Arbeidstakerne kan ikke betale tilskudd til slike fond.
 
@@ -138,13 +208,27 @@ For tjenestepensjonsordning som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), f
 
 ### § 13. Eiendomsrett til opptjent pensjon
 
-1\. Den som omfattes av fast tjenestepensjonsordning har til enhver tid eiendomsrett til opptjent pensjon beregnet på grunnlag av den premiereserve som er oppsamlet for vedkommende ved årlig premiebetaling og ved dekning av naturlig premiereserve.Bestemmelsen i første ledd er ikke til hinder for at opptjent pensjon beregnes på grunnlag av det tidsrom medlemsskapet i pensjonsordningen med den til en hver tid fastsatte pensjon har vart, sett i forhold til tidsrommet inntil nådd pensjonsalder. Kapitalverdien av opptjent pensjon kan ikke overstige premiereserve som nevnt i første ledd.Bestemmelsene i første og annet ledd er ikke til hinder for at ytelsene settes ned forutsatt:at dette skjer i samsvar med den fastsatte pensjonsplan og som følge av at det kan gjennomføres en mer nøyaktig tilpasning til folketrygdens ytelser enn det har vært mulig å foreta ved premieberegningen, ellerat det skjer slike vesentlige endringer i folketrygden at de forutsetninger som er lagt til grunn i pensjonsplanen ikke lenger er til stede. Sosialdepartementet avgjør om endringene er av en slik karakter at dette punkt kommer til anvendelse.Bestemmelsene i første og annet ledd er heller ikke til hinder for at det i forsikringsavtale eller vedtekter tas inn bestemmelser om nedsettelse av pensjonsytelsene dersom den pensjonsberettigede mottar sykepenger eller attføringspenger i henhold til lov, eller stønad fra alminnelig sykelønnsordning.
+1\. Den som omfattes av fast tjenestepensjonsordning har til enhver tid eiendomsrett til opptjent pensjon beregnet på grunnlag av den premiereserve som er oppsamlet for vedkommende ved årlig premiebetaling og ved dekning av naturlig premiereserve.
+
+Bestemmelsen i første ledd er ikke til hinder for at opptjent pensjon beregnes på grunnlag av det tidsrom medlemsskapet i pensjonsordningen med den til en hver tid fastsatte pensjon har vart, sett i forhold til tidsrommet inntil nådd pensjonsalder. Kapitalverdien av opptjent pensjon kan ikke overstige premiereserve som nevnt i første ledd.
+
+Bestemmelsene i første og annet ledd er ikke til hinder for at ytelsene settes ned forutsatt:
+
+1. at dette skjer i samsvar med den fastsatte pensjonsplan og som følge av at det kan gjennomføres en mer nøyaktig tilpasning til folketrygdens ytelser enn det har vært mulig å foreta ved premieberegningen, eller
+2. at det skjer slike vesentlige endringer i folketrygden at de forutsetninger som er lagt til grunn i pensjonsplanen ikke lenger er til stede. Sosialdepartementet avgjør om endringene er av en slik karakter at dette punkt kommer til anvendelse.
+
+Bestemmelsene i første og annet ledd er heller ikke til hinder for at det i forsikringsavtale eller vedtekter tas inn bestemmelser om nedsettelse av pensjonsytelsene dersom den pensjonsberettigede mottar sykepenger eller attføringspenger i henhold til lov, eller stønad fra alminnelig sykelønnsordning.
 
 2\. For den som går inn under suppleringsfond, gjelder bestemmelsene i [punkt](forskrift/2000-12-22-1412/kap1) 1 på tilsvarende måte, idet den for fondet gjeldende pensjonsplan legges til grunn ved beregning av størrelsen av den opptjente pensjon, jf. også [§ 9](forskrift/2000-12-22-1412/§9), [punkt](forskrift/2000-12-22-1412/kap2) 2.
 
 3\. For den som slutter i arbeidsgiverens tjeneste uten rett til straks begynnende pensjon, skal kapitalverdien av rettigheter etter [punkt 1](forskrift/2000-12-22-1412/kap1) og [2](forskrift/2000-12-22-1412/kap2) nyttes til å sikre oppsatte ytelser i fast tjenestepensjonsordning eller ved individuell pensjonsforsikring. Finanstilsynet kan bestemme at pensjonskasse som nevnt i [§ 1](forskrift/2000-12-22-1412/§1), bokstav b skal inngå avtale med et livsforsikringsselskap om sikring av slike oppsatte ytelser.
 
-4\. Bestemmelsene i punkt 3 i denne paragraf er ikke til hinder for at det i forsikringsavtale eller vedtekter fastsettes at kapitalverdien skal overføres til ordningens premiefond, eventuelt pensjonsreguleringsfond dersomkapitalverdien av pensjonsrettighetene er mindre enn en fjerdedel av folketrygdens grunnbeløp ved fratredelsen ellermedlemstiden i pensjonsordningen er mindre enn 1/10 av det tidsrom som kreves for full pensjon.I tariffestet pensjonsordning som ikke har pensjonsreguleringsfond eller premiefond, skal midlene anvendes i samsvar med ordningens alminnelige formål.
+4\. Bestemmelsene i punkt 3 i denne paragraf er ikke til hinder for at det i forsikringsavtale eller vedtekter fastsettes at kapitalverdien skal overføres til ordningens premiefond, eventuelt pensjonsreguleringsfond dersom
+
+1. kapitalverdien av pensjonsrettighetene er mindre enn en fjerdedel av folketrygdens grunnbeløp ved fratredelsen eller
+2. medlemstiden i pensjonsordningen er mindre enn 1/10 av det tidsrom som kreves for full pensjon.
+
+I tariffestet pensjonsordning som ikke har pensjonsreguleringsfond eller premiefond, skal midlene anvendes i samsvar med ordningens alminnelige formål.
 
 > Endret ved [forskrift 7 des 2011 nr. 1205](forskrift/2011-12-07-1205).
 
@@ -182,9 +266,21 @@ Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av dis
 
 5\. Arbeidstaker som er opptatt i tjenestepensjonsordning før 1. juli 1968, kan fortsatt sikres engangsstønad ved dødsfall i samsvar med bestemmelsene som gjaldt før 1. juli 1968.
 
-6\. For de midler som er innbetalt til premiefond i tjenestepensjonsordning opprettet før 1. juli 1968, gjelder ikke bestemmelsen i [§ 7](forskrift/2000-12-22-1412/§7), [punkt](forskrift/2000-12-22-1412/kap1) 1, annet ledd.Midler som en arbeidsgiver etter 10. november 1965 har betalt for inntektsårene 1965, 1966 og 1967 til premiefond, kan nyttes helt eller delvis til dekning av arbeidstakerens avgift til folketrygden for den eller de grupper av arbeidstakere som omfattes av tjenestepensjonsordningen.Midler som arbeidsgiveren har innbetalt til premiefond før 10. november 1965 kan nyttes til dekning av arbeidsgiveravgift til folketrygden som nevnt i foregående avsnitt forutsatt at alle arbeidstakere hos arbeidsgiveren først er sikret supplerende pensjonsytelser av en slik størrelse at de samlede pensjonsytelser svarer til folketrygdens ytelser regnet etter tjenestetid hos arbeidsgiveren, eller i tilfelle tjenestepensjonsordningens ytelser dersom disse er høyere.Når en arbeidsgiver har opprettet selvstendig premiefond før 1. juli 1968, kan dette opprettholdes, men det kan ikke betales ytterligere tilskudd til fondet.
+6\. For de midler som er innbetalt til premiefond i tjenestepensjonsordning opprettet før 1. juli 1968, gjelder ikke bestemmelsen i [§ 7](forskrift/2000-12-22-1412/§7), [punkt](forskrift/2000-12-22-1412/kap1) 1, annet ledd.
 
-7\. Midler i pensjonsfond opprettet før 1. juli 1968 skal anvendes til alderspensjon og uførepensjon for pensjonister og arbeidstakere som på grunn av alder ikke vil kunne tjene opp fulle tilleggspensjoner i folketrygden og til etterlattepensjon til deres etterlatte. Pensjonsfond som skulle ha vært fordelt i forbindelse med innføringen av tariffestet pensjon skal likevel fordeles etter Sosialdepartementets forskrifter av 31. august 1962. Pensjonssikringen skal skje i et livsforsikringsselskap eller en pensjonskasse, eventuelt kan midlene overføres til et suppleringsfond, jf. disse reglers [§ 9](forskrift/2000-12-22-1412/§9). Dersom fondet har større midler enn antatt nødvendig for dekning av manglende tilleggspensjoner, skal overskytende midler med Finanstilsynets samtykke overføres til et pensjonsreguleringsfond eller til et premiefond.Finanstilsynet kan fravike bestemmelsene i foregående ledd når særlige grunner tilsier det.Til pensjonsfond opprettet før 1. juli 1968 kan det ikke ytes tilskudd etter 1. juli 1968.Suppleringsfond godkjent av Forsikringsrådet i medhold av tidligere reglers [§ 10](forskrift/2000-12-22-1412/§10), C, kan uten hensyn til bestemmelsene foran fortsette sin virksomhet med uforandrede vedtekter. Finanstilsynet godkjenner det tilskudd som kan ytes til slike fond.
+Midler som en arbeidsgiver etter 10. november 1965 har betalt for inntektsårene 1965, 1966 og 1967 til premiefond, kan nyttes helt eller delvis til dekning av arbeidstakerens avgift til folketrygden for den eller de grupper av arbeidstakere som omfattes av tjenestepensjonsordningen.
+
+Midler som arbeidsgiveren har innbetalt til premiefond før 10. november 1965 kan nyttes til dekning av arbeidsgiveravgift til folketrygden som nevnt i foregående avsnitt forutsatt at alle arbeidstakere hos arbeidsgiveren først er sikret supplerende pensjonsytelser av en slik størrelse at de samlede pensjonsytelser svarer til folketrygdens ytelser regnet etter tjenestetid hos arbeidsgiveren, eller i tilfelle tjenestepensjonsordningens ytelser dersom disse er høyere.
+
+Når en arbeidsgiver har opprettet selvstendig premiefond før 1. juli 1968, kan dette opprettholdes, men det kan ikke betales ytterligere tilskudd til fondet.
+
+7\. Midler i pensjonsfond opprettet før 1. juli 1968 skal anvendes til alderspensjon og uførepensjon for pensjonister og arbeidstakere som på grunn av alder ikke vil kunne tjene opp fulle tilleggspensjoner i folketrygden og til etterlattepensjon til deres etterlatte. Pensjonsfond som skulle ha vært fordelt i forbindelse med innføringen av tariffestet pensjon skal likevel fordeles etter Sosialdepartementets forskrifter av 31. august 1962. Pensjonssikringen skal skje i et livsforsikringsselskap eller en pensjonskasse, eventuelt kan midlene overføres til et suppleringsfond, jf. disse reglers [§ 9](forskrift/2000-12-22-1412/§9). Dersom fondet har større midler enn antatt nødvendig for dekning av manglende tilleggspensjoner, skal overskytende midler med Finanstilsynets samtykke overføres til et pensjonsreguleringsfond eller til et premiefond.
+
+Finanstilsynet kan fravike bestemmelsene i foregående ledd når særlige grunner tilsier det.
+
+Til pensjonsfond opprettet før 1. juli 1968 kan det ikke ytes tilskudd etter 1. juli 1968.
+
+Suppleringsfond godkjent av Forsikringsrådet i medhold av tidligere reglers [§ 10](forskrift/2000-12-22-1412/§10), C, kan uten hensyn til bestemmelsene foran fortsette sin virksomhet med uforandrede vedtekter. Finanstilsynet godkjenner det tilskudd som kan ytes til slike fond.
 
 8\. Bestemmelsene i [§ 13](forskrift/2000-12-22-1412/§13), punkt 4, får ikke anvendelse på rettigheter som er opparbeidet før 1. juli 1968.
 
@@ -340,7 +436,12 @@ Det er ikke noe i veien for at det ved forhøyelse av pensjonsbeløpene bare reg
 
 Det er et vilkår for at ytelsene i tjenestepensjonsordningen skal kunne settes ned ved anvendelse av noen av bestemmelsene i Reglenes [§ 13](forskrift/2000-12-22-1412/§13), [punkt](forskrift/2000-12-22-1412/kap1) 1, tredje og fjerde ledd, at det er tatt forbehold om det i forsikringsavtalen eller i pensjonsordningens vedtekter. Slikt forbehold kan ikke få virkning for pensjoner som allerede er opptjent i pensjonsordningen på det tidspunkt forbeholdet blir tatt.
 
-Ved anvendelse av bestemmelsene i bokstav a) er det en forutsetning at det bare tas hensyn til folketrygdpensjon opptjent ved arbeidsinntekt som er pensjonsgivende i tjenestepensjonsordningen. Videre må angis når og hvordan pensjonen skal settes ned. Nedsettelse kan skje i følgende tilfelle:Pensjon før 70 år kan settes ned når pensjonisten samtidig har rett til pensjon fra folketrygden.Etterlattepensjon kan settes ned under hensyntagen til den gjenlevende ektefelles ervervsevne og ervervsmuligheter. Er det regnet med et ekstra pensjonstillegg til den etterlattes fylte 70 år for at tjenestepensjonsordningen skal kunne yte etterlattepensjon når folketrygdens pensjon settes ned eller faller bort på grunn av forventet ervervsinntekt, gjengifte eller av andre grunner, kan det ekstra pensjonstillegget settes ned eller falle bort i den utstrekning det ikke er nødvendig for å dekke manglende pensjon fra folketrygden.Tjenestepensjon kan settes ned når den tilleggspensjon fra folketrygden som det skal tas hensyn til kan beregnes mer nøyaktig enn tidligere anslått. Nedsettelse som nevnt kan likevel ikke skje når pensjonen allerede er begynt å løpe.Tjenestepensjon kan settes ned når den er fastsatt med utgangspunkt i bestemmelsen i siste punktum i forskriftene til [§ 6](forskrift/2000-12-22-1412/§6), [punkt](forskrift/2000-12-22-1412/kap1) 1, bokstav a) og arbeidstaker på grunn av uførhet eller dødsfall godskrives pensjonspoeng i folketrygden for tiden etter den fastsatte pensjonsalder i tjenestepensjonsordningen.
+Ved anvendelse av bestemmelsene i bokstav a) er det en forutsetning at det bare tas hensyn til folketrygdpensjon opptjent ved arbeidsinntekt som er pensjonsgivende i tjenestepensjonsordningen. Videre må angis når og hvordan pensjonen skal settes ned. Nedsettelse kan skje i følgende tilfelle:
+
+1. Pensjon før 70 år kan settes ned når pensjonisten samtidig har rett til pensjon fra folketrygden.
+2. Etterlattepensjon kan settes ned under hensyntagen til den gjenlevende ektefelles ervervsevne og ervervsmuligheter. Er det regnet med et ekstra pensjonstillegg til den etterlattes fylte 70 år for at tjenestepensjonsordningen skal kunne yte etterlattepensjon når folketrygdens pensjon settes ned eller faller bort på grunn av forventet ervervsinntekt, gjengifte eller av andre grunner, kan det ekstra pensjonstillegget settes ned eller falle bort i den utstrekning det ikke er nødvendig for å dekke manglende pensjon fra folketrygden.
+3. Tjenestepensjon kan settes ned når den tilleggspensjon fra folketrygden som det skal tas hensyn til kan beregnes mer nøyaktig enn tidligere anslått. Nedsettelse som nevnt kan likevel ikke skje når pensjonen allerede er begynt å løpe.
+4. Tjenestepensjon kan settes ned når den er fastsatt med utgangspunkt i bestemmelsen i siste punktum i forskriftene til [§ 6](forskrift/2000-12-22-1412/§6), [punkt](forskrift/2000-12-22-1412/kap1) 1, bokstav a) og arbeidstaker på grunn av uførhet eller dødsfall godskrives pensjonspoeng i folketrygden for tiden etter den fastsatte pensjonsalder i tjenestepensjonsordningen.
 
 Det er heller ikke noe i veien for at tjenestepensjon ved utbetaling settes ned i den utstrekning det fra lovfestet tjenestepensjonsordning eller tariffestet pensjonsordning utbetales pensjon som det ikke har vært mulig å ta nøyaktig hensyn til ved pensjonsfastsettelsen.
 

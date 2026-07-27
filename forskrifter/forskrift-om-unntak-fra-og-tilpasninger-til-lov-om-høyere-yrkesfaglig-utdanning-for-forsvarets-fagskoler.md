@@ -15,7 +15,7 @@ xml_hash: "0f2e67d127a8466f95a8920d7d2576258f15c116fc15477b24fa3ec4169643c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Styremedlemmene ved Forsvarets fagskoler, utenom ansatt- og studentrepresentante
 
 ## § 4. Særskilte opptakskrav
 
-Forsvarets fagskoler kan fastsette særskilte opptakskrav som omfatterkrav til sikkerhetsklareringkrav til gjennomført relevant militær utdanningmedisinske krav
+Forsvarets fagskoler kan fastsette særskilte opptakskrav som omfatter
+
+1. krav til sikkerhetsklarering
+2. krav til gjennomført relevant militær utdanning
+3. medisinske krav
 
 Sikkerhetsklarering på det klareringsnivået som er fastsatt for utdanningen og medisinske krav, skal opprettholdes i hele studieperioden. Fagskolen kan fastsette at også fysiske krav skal opprettholdes i hele studieperioden.
 
@@ -74,7 +78,13 @@ Ett års fagskoleutdanning på heltid tilsvarer inntil 11 måneder. Toårige fag
 
 Klagenemnda for Forsvarets fagskoler oppnevnes av Forsvarsdepartementet.
 
-Klagenemnda skal ha syv medlemmer og være sammensatt slik:Leder og leders varamedlem skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67), og kan ikke være tilsatt i Forsvarsdepartementet eller underliggende etater.To medlemmer med personlige varamedlemmer som er ansatt ved en av Forsvarets fagskoler.Et medlem med personlig varamedlem som er ansatt i Forsvaret med dokumentert erfaring innen utdanningsledelse og kvalitetssikringsarbeid.To medlemmer med personlige varamedlemmer skal være studenter.Et eksternt medlem med personlig varamedlem med kompetanse og erfaring fra sivil fagskolesektor
+Klagenemnda skal ha syv medlemmer og være sammensatt slik:
+
+1. Leder og leders varamedlem skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67), og kan ikke være tilsatt i Forsvarsdepartementet eller underliggende etater.
+2. To medlemmer med personlige varamedlemmer som er ansatt ved en av Forsvarets fagskoler.
+3. Et medlem med personlig varamedlem som er ansatt i Forsvaret med dokumentert erfaring innen utdanningsledelse og kvalitetssikringsarbeid.
+4. To medlemmer med personlige varamedlemmer skal være studenter.
+5. Et eksternt medlem med personlig varamedlem med kompetanse og erfaring fra sivil fagskolesektor
 
 Medlemmene oppnevnes for inntil fire år, med unntak av studentmedlemmene som oppnevnes for inntil to år. Ingen kan oppnevnes for mer enn to perioder som fast medlem.
 
@@ -84,7 +94,14 @@ Ved stemmelikhet avgjør lederens stemme.
 
 ## § 9. Klage til klagenemnda for Forsvarets fagskoler
 
-Klagenemnda for Forsvarets fagskoler er felles klageinstans for enkeltvedtak truffet av Forsvarets fagskoler med hjemmel i følgende bestemmelser i [fagskoleloven](lov/2018-06-08-28)[§ 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid[§ 16a](lov/2018-06-08-28/§16a) om inndragning, annullering og karantenetid[§ 24 fjerde ledd](lov/2018-06-08-28/§24/ledd/4) om annullering[§ 25 femte ledd](lov/2018-06-08-28/§25/ledd/5) om bortvisning og utestengning[§ 26 fjerde ledd](lov/2018-06-08-28/§26/ledd/4) om manglende skikkethet[§ 27 åttende ledd](lov/2018-06-08-28/§27/ledd/8) om politiattest
+Klagenemnda for Forsvarets fagskoler er felles klageinstans for enkeltvedtak truffet av Forsvarets fagskoler med hjemmel i følgende bestemmelser i [fagskoleloven](lov/2018-06-08-28)
+
+1. [§ 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid
+2. [§ 16a](lov/2018-06-08-28/§16a) om inndragning, annullering og karantenetid
+3. [§ 24 fjerde ledd](lov/2018-06-08-28/§24/ledd/4) om annullering
+4. [§ 25 femte ledd](lov/2018-06-08-28/§25/ledd/5) om bortvisning og utestengning
+5. [§ 26 fjerde ledd](lov/2018-06-08-28/§26/ledd/4) om manglende skikkethet
+6. [§ 27 åttende ledd](lov/2018-06-08-28/§27/ledd/8) om politiattest
 
 Klagenemnda for Forsvarets fagskoler er også klageinstans for enkeltvedtak truffet med hjemmel i denne forskriften [§ 5](forskrift/2026-06-19-1140/§5).
 

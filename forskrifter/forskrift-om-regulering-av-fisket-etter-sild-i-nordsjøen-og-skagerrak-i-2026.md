@@ -15,7 +15,7 @@ xml_hash: "95c9012cc24c4668905a43034cc895b9b3828714edef0c26f0f07e39f7c0c550"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,17 @@ eu_basis: []
 
 ### § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande sild i følgende områder i 2026:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholm fyr og Lindesnes fyr, og i EU-sonen og i britisk sone i ICES' statistikkområde 4 og 7d.I Skagerrak, avgrenset i vest av en rett linje gjennom Hanstholm fyr til Lindesnes fyr, og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor fire nautiske mil av de svenske og danske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande sild i følgende områder i 2026:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholm fyr og Lindesnes fyr, og i EU-sonen og i britisk sone i ICES' statistikkområde 4 og 7d.
+2. I Skagerrak, avgrenset i vest av en rett linje gjennom Hanstholm fyr til Lindesnes fyr, og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor fire nautiske mil av de svenske og danske grunnlinjene.
 
 ### § 2. Totalkvote
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2828/§1) kan norske fartøy som har adgang til å delta, fiske og lande:Inntil 89 260 tonn sild i norsk sone i Nordsjøen. Av dette kvantum avsettes 575 tonn til forskings- og undervisningsformål og 200 tonn til rekrutteringskvoter for fartøy i åpen kystgruppe. Av totalkvoten kan inntil 26 078 tonn fiskes i britisk sone i ICES' statistikkområde 4. Av totalkvoten kan inntil 2 700 tonn fiskes i EU-sonen i ICES' statistikkområde 4 og 7d.Inntil 250 tonn sild i Skagerrak.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2828/§1) kan norske fartøy som har adgang til å delta, fiske og lande:
+
+1. Inntil 89 260 tonn sild i norsk sone i Nordsjøen. Av dette kvantum avsettes 575 tonn til forskings- og undervisningsformål og 200 tonn til rekrutteringskvoter for fartøy i åpen kystgruppe. Av totalkvoten kan inntil 26 078 tonn fiskes i britisk sone i ICES' statistikkområde 4. Av totalkvoten kan inntil 2 700 tonn fiskes i EU-sonen i ICES' statistikkområde 4 og 7d.
+2. Inntil 250 tonn sild i Skagerrak.
 
 > Endret ved forskrift [22 mai 2026 nr. 904](forskrift/2026-05-22-904).
 
@@ -50,7 +56,10 @@ Fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse kan fiske og 
 
 ### § 5. Gruppekvote for kystfartøy
 
-Fartøy med adgang til å delta i kystfartøygruppen kan fiske og lande inntil 7 099 tonn sild i norsk sone i Nordsjøen, hvorav 2 086 tonn kan fiskes i britisk sone. Av dette kvantum kan:fartøy med adgang til å delta i lukket gruppe fiske og lande inntil 6 949 tonn sild.fartøy med adgang til å delta i åpen gruppe fiske og lande innenfor en avsetning på 150 tonn sild.
+Fartøy med adgang til å delta i kystfartøygruppen kan fiske og lande inntil 7 099 tonn sild i norsk sone i Nordsjøen, hvorav 2 086 tonn kan fiskes i britisk sone. Av dette kvantum kan:
+
+1. fartøy med adgang til å delta i lukket gruppe fiske og lande inntil 6 949 tonn sild.
+2. fartøy med adgang til å delta i åpen gruppe fiske og lande innenfor en avsetning på 150 tonn sild.
 
 Av kystfartøygruppens kvote kan inntil 250 tonn fiskes i Skagerrak.
 
@@ -129,7 +138,13 @@ Fartøy som i 2025 benytter slumpfiskeordningen i tråd med [forskrift 4. mars 2
 
 ### § 11. Partråling
 
-Uten hinder av forbudet i [§§ 16](forskrift/2025-12-19-2828/§16) og [17](forskrift/2025-12-19-2828/§17) kan fartøy som partråler på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:Fartøyene må være skriftlig påmeldt som partrållag til Norges Sildesalgslag før fisket tar til.Fartøyene i partrållaget må fiske med samme redskap, og to fartøy kan dra med inntil 2 wire i hver sin vinge av trålredskapet. Det er ikke tillatt å nytte tråldører under partråling.Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten per landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.Ved innmelding av fangst til Norges Sildesalgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.Et fartøy kan ikke dele fangst med mer enn tre andre fartøy i løpet av reguleringsåret. Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i partrållaget er utgått av merkeregisteret som følge av en strukturordning.
+Uten hinder av forbudet i [§§ 16](forskrift/2025-12-19-2828/§16) og [17](forskrift/2025-12-19-2828/§17) kan fartøy som partråler på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:
+
+1. Fartøyene må være skriftlig påmeldt som partrållag til Norges Sildesalgslag før fisket tar til.
+2. Fartøyene i partrållaget må fiske med samme redskap, og to fartøy kan dra med inntil 2 wire i hver sin vinge av trålredskapet. Det er ikke tillatt å nytte tråldører under partråling.
+3. Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten per landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.
+4. Ved innmelding av fangst til Norges Sildesalgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.
+5. Et fartøy kan ikke dele fangst med mer enn tre andre fartøy i løpet av reguleringsåret. Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i partrållaget er utgått av merkeregisteret som følge av en strukturordning.
 
 Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektoratet. Fiskeridirektoratet kan kreve at fartøy som meldes som partrållag fremstiller seg for godkjenning. Fiskeridirektoratets klagesaksenhet er klageinstans.
 
@@ -210,7 +225,22 @@ Det er ikke tillatt for fartøy i åpen gruppe å overføre fangst.
 
 ### § 18. Kvotesamarbeidsordning for kystfartøy i lukket gruppe
 
-Uten hinder av forbudene i [§ 16](forskrift/2025-12-19-2828/§16) og [§ 17](forskrift/2025-12-19-2828/§17) kan to fartøy i lukket gruppe som ikke fyller vilkårene for å få tildelt strukturkvote etter [forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten](forskrift/2003-11-07-1309) og som er under 15 meter største lengde inngå et kvotesamarbeid på følgende vilkår:Fiskeridirektoratet må ha mottatt skriftlig melding om kvotesamarbeid senest 1 virkedag før fisket tar til. Det må også gis melding ved endringer i kvotesamarbeidet. Pliktige meldinger skal sendes på eget skjema tilgjengelig på Fiskeridirektoratets internettsider.Fartøyene har adgang til å delta i lukket gruppe i fisket etter nordsjøsild.Et fartøy har ikke adgang til å både delta i et kvotesamarbeid og bruke særlig kvoteordning etter forskrift 7. november nr. 1309 om spesielle kvoteordninger for kystfiskeflåten i fisket etter nordsjøsild i 2026.Ved kvotesamarbeid mellom ulike eiere må begge eierne ha hatt adgang til å delta i fisket med et fartøy i 2024 eller 2025 og begge eierne må ha kvotebelastet et fartøy i ett av årene. Ved kvotesamarbeid med egne fartøy må eieren ha hatt adgang til å delta i fisket med to fartøy i 2024 eller 2025 og kvotebelastet to fartøy i ett av årene.Fartøyeier må stå om bord under fisket og underskrive landings- eller sluttseddel. Dersom fartøyene har ulike eiere må begge fartøyeierne stå om bord under fisket og begge fartøyeierne må underskrive landings- eller sluttseddel. Det skal fylles ut seddel med angivelse av hvilket fartøy som har utøvet fisket og hvilket fartøy i kvotesamarbeidet som skal kvotebelastes. Innenfor hvert enkelt fartøys kvote bestemmer fartøyeierne hvor mye av fangsten av nordsjøsild, samt bifangst, som skal føres på det enkelte fartøyet i kvotesamarbeidet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord dersom:eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan stå om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å stå om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering, ellereier er i vernepliktig førstegangstjeneste.Der et fartøy eies av flere sammen, er det tilstrekkelig at en av disse fyller pliktene som fremgår av bokstav e første punktum.Det passive fartøyet i kvotesamarbeidet kan ikke drive fiske eller lande fangst i den tiden fartøyene er påmeldt kvotesamarbeidet. Det er ikke adgang til å veksle mellom hvilket fartøy som er aktivt og hvilket fartøy som er passivt i kvotesamarbeidet.Fartøy kan bare delta i ett kvotesamarbeid i fisket etter nordsjøsild i løpet av kvoteåret. Ved utskiftning trer erstatningsfartøyet inn i utskiftningsfartøyets kvotesamarbeid i den utstrekning erstatningsfartøyet fyller vilkårene for dette. Deltagelse i kvotesamarbeidsordningen er ikke til hinder for deltagelse i samfiskeordningen etter [høstingsforskriften § 34](forskrift/2021-12-23-3910/§34) flg. Et påmeldt kvotesamarbeid kan kanselleres dersom det ikke er landet fangst på hverken det aktive eller det passive fartøyet i perioden som ifølge påmelding er avsatt til kvotesamarbeid. For å kansellere et kvotesamarbeid må det sendes melding til [postmottak@fiskeridir.no](mailto:postmottak@fiskeridir.no).
+Uten hinder av forbudene i [§ 16](forskrift/2025-12-19-2828/§16) og [§ 17](forskrift/2025-12-19-2828/§17) kan to fartøy i lukket gruppe som ikke fyller vilkårene for å få tildelt strukturkvote etter [forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten](forskrift/2003-11-07-1309) og som er under 15 meter største lengde inngå et kvotesamarbeid på følgende vilkår:
+
+1. Fiskeridirektoratet må ha mottatt skriftlig melding om kvotesamarbeid senest 1 virkedag før fisket tar til. Det må også gis melding ved endringer i kvotesamarbeidet. Pliktige meldinger skal sendes på eget skjema tilgjengelig på Fiskeridirektoratets internettsider.
+2. Fartøyene har adgang til å delta i lukket gruppe i fisket etter nordsjøsild.
+3. Et fartøy har ikke adgang til å både delta i et kvotesamarbeid og bruke særlig kvoteordning etter forskrift 7. november nr. 1309 om spesielle kvoteordninger for kystfiskeflåten i fisket etter nordsjøsild i 2026.
+4. Ved kvotesamarbeid mellom ulike eiere må begge eierne ha hatt adgang til å delta i fisket med et fartøy i 2024 eller 2025 og begge eierne må ha kvotebelastet et fartøy i ett av årene. Ved kvotesamarbeid med egne fartøy må eieren ha hatt adgang til å delta i fisket med to fartøy i 2024 eller 2025 og kvotebelastet to fartøy i ett av årene.
+5. Fartøyeier må stå om bord under fisket og underskrive landings- eller sluttseddel. Dersom fartøyene har ulike eiere må begge fartøyeierne stå om bord under fisket og begge fartøyeierne må underskrive landings- eller sluttseddel. Det skal fylles ut seddel med angivelse av hvilket fartøy som har utøvet fisket og hvilket fartøy i kvotesamarbeidet som skal kvotebelastes. Innenfor hvert enkelt fartøys kvote bestemmer fartøyeierne hvor mye av fangsten av nordsjøsild, samt bifangst, som skal føres på det enkelte fartøyet i kvotesamarbeidet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord dersom:
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan stå om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å stå om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering, eller
+   4. eier er i vernepliktig førstegangstjeneste.
+
+   Der et fartøy eies av flere sammen, er det tilstrekkelig at en av disse fyller pliktene som fremgår av bokstav e første punktum.
+6. Det passive fartøyet i kvotesamarbeidet kan ikke drive fiske eller lande fangst i den tiden fartøyene er påmeldt kvotesamarbeidet. Det er ikke adgang til å veksle mellom hvilket fartøy som er aktivt og hvilket fartøy som er passivt i kvotesamarbeidet.
+7. Fartøy kan bare delta i ett kvotesamarbeid i fisket etter nordsjøsild i løpet av kvoteåret. Ved utskiftning trer erstatningsfartøyet inn i utskiftningsfartøyets kvotesamarbeid i den utstrekning erstatningsfartøyet fyller vilkårene for dette. Deltagelse i kvotesamarbeidsordningen er ikke til hinder for deltagelse i samfiskeordningen etter [høstingsforskriften § 34](forskrift/2021-12-23-3910/§34) flg. Et påmeldt kvotesamarbeid kan kanselleres dersom det ikke er landet fangst på hverken det aktive eller det passive fartøyet i perioden som ifølge påmelding er avsatt til kvotesamarbeid. For å kansellere et kvotesamarbeid må det sendes melding til [postmottak@fiskeridir.no](mailto:postmottak@fiskeridir.no).
 
 I denne bestemmelsen legges eierbegrepet i [deltakerforskriften § 2 bokstav a](forskrift/2025-12-19-2811/§2/bokstav/a) til grunn.
 
@@ -220,7 +250,11 @@ Det er ikke tillatt å ha bifangst av sild i Nordsjøen og Skagerrak ved fiske e
 
 I fisket etter kolmule og øyepål med småmasket trål er det ikke tillatt med mer enn 10 % bifangst av sild i vekt i de enkelte fangster, av hele fangsten om bord og ved landing, selv om bifangsten kan avregnes fartøyets sildekvote.
 
-For fartøy uten adgang til å delta i fisket etter sild er det begrensninger på bifangst av sild i følgende fiskerier:I fisket etter hestmakrell er det ikke tillatt med mer enn 10 % bifangst av sild i vekt i de enkelte fangster, av hele fangsten om bord og ved landing.I fisket etter havbrisling er det ikke tillatt med mer enn 10 % sild i vekt ved landing.I fisket etter makrell er det ikke tillatt med mer enn 10 % bifangst av sild i vekt i de enkelte fangster, av hele fangsten om bord og ved landing.
+For fartøy uten adgang til å delta i fisket etter sild er det begrensninger på bifangst av sild i følgende fiskerier:
+
+- I fisket etter hestmakrell er det ikke tillatt med mer enn 10 % bifangst av sild i vekt i de enkelte fangster, av hele fangsten om bord og ved landing.
+- I fisket etter havbrisling er det ikke tillatt med mer enn 10 % sild i vekt ved landing.
+- I fisket etter makrell er det ikke tillatt med mer enn 10 % bifangst av sild i vekt i de enkelte fangster, av hele fangsten om bord og ved landing.
 
 ### § 20. Avkortning av kvote ved dumping og neddrepning
 

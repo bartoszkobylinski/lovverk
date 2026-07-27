@@ -15,7 +15,7 @@ xml_hash: "d593323a7470410004cfb8ecb7119cbac21048536a71c7fce10d355afc9cb44e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,13 @@ eu_basis: []
 
 Styret ved Sjøforsvarets fagskole har med hjemmel i [lov om høyere yrkesfaglig utdanning (fagskoleloven) § 16](lov/2018-06-08-28/§16), [§ 21](lov/2018-06-08-28/§21) og [§ 26](lov/2018-06-08-28/§26) vedtatt forskrift som regulerer forhold knyttet til opptak, skikkethet, eksamen og klagebehandling ved Sjøforsvarets fagskole.
 
-Kunnskapsdepartementet har godkjent at Sjøforsvarets fagskole får dispensasjon fra deler av [fagskoleloven](lov/2018-06-08-28) og [forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)](forskrift/2019-07-11-1005) i en tidsbegrenset periode (jf. [fagskoleloven § 40](lov/2018-06-08-28/§40)). Dispensasjonen er avgrenset til opptaksprøver ([§ 7](forskrift/2019-07-11-1005/§7)), skikkethetsvurdering ([§ 27](forskrift/2019-07-11-1005/§27), jf. [§ 26](forskrift/2019-07-11-1005/§26) og [§ 29](forskrift/2019-07-11-1005/§29)) og samordna opptak ([§ 3](forskrift/2019-07-11-1005/§3)) i [fagskoleforskriften](forskrift/2019-07-11-1005):Krav til å inneha sikkerhetsklarering før opptak til minedykkerutdanningen ([§ 7](forskrift/2019-07-11-1005/§7))Krav til gjennomført rekruttskole før opptak til minedykkerutdanningen ([§ 7](forskrift/2019-07-11-1005/§7))Særskilte krav til minedykkerutdanningen, samt krav til godkjent sjømannsattest ([§ 7](forskrift/2019-07-11-1005/§7))Unntak for søknad gjennom samordna opptak til minedykkerutdanningen ([§ 3](forskrift/2019-07-11-1005/§3))Sjøforsvarets fagskole kan foreta en skikkethetsvurdering i samsvar med [fagskoleforskriften](forskrift/2019-07-11-1005) ([§ 27](forskrift/2019-07-11-1005/§27), jf. [§ 26](forskrift/2019-07-11-1005/§26) og [§ 29](forskrift/2019-07-11-1005/§29)).
+Kunnskapsdepartementet har godkjent at Sjøforsvarets fagskole får dispensasjon fra deler av [fagskoleloven](lov/2018-06-08-28) og [forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)](forskrift/2019-07-11-1005) i en tidsbegrenset periode (jf. [fagskoleloven § 40](lov/2018-06-08-28/§40)). Dispensasjonen er avgrenset til opptaksprøver ([§ 7](forskrift/2019-07-11-1005/§7)), skikkethetsvurdering ([§ 27](forskrift/2019-07-11-1005/§27), jf. [§ 26](forskrift/2019-07-11-1005/§26) og [§ 29](forskrift/2019-07-11-1005/§29)) og samordna opptak ([§ 3](forskrift/2019-07-11-1005/§3)) i [fagskoleforskriften](forskrift/2019-07-11-1005):
+
+- Krav til å inneha sikkerhetsklarering før opptak til minedykkerutdanningen ([§ 7](forskrift/2019-07-11-1005/§7))
+- Krav til gjennomført rekruttskole før opptak til minedykkerutdanningen ([§ 7](forskrift/2019-07-11-1005/§7))
+- Særskilte krav til minedykkerutdanningen, samt krav til godkjent sjømannsattest ([§ 7](forskrift/2019-07-11-1005/§7))
+- Unntak for søknad gjennom samordna opptak til minedykkerutdanningen ([§ 3](forskrift/2019-07-11-1005/§3))
+- Sjøforsvarets fagskole kan foreta en skikkethetsvurdering i samsvar med [fagskoleforskriften](forskrift/2019-07-11-1005) ([§ 27](forskrift/2019-07-11-1005/§27), jf. [§ 26](forskrift/2019-07-11-1005/§26) og [§ 29](forskrift/2019-07-11-1005/§29)).
 
 ## Kapittel 2. Opptak
 
@@ -46,7 +52,12 @@ Opptak til Sjøforsvarets fagskole krever fag- eller svennebrev, treårig yrkesf
 
 I henhold til [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7) (5) kan det kreves spesielle opptaksprøver etter godkjenning fra styret. Hensikten med opptaksprøvene er å vurdere om søkeren er skikket for yrket.
 
-For å kunne bli tatt opp som student til Sjøforsvarets fagskole/minedykkerutdanningen må søkeren minimum oppfylle følgende betingelser:gjennomført grunnleggende soldatutdanning (rekruttskole)godkjent sjømannsattest (Helseerklæring iht. [forskrift om helseundersøkelse på skip](forskrift/2014-06-05-805)) og andre særskilte krav til minedykkerutdanningenbestått opptaksprøver til Sjøforsvarets fagskoleinneha gyldig sikkerhetsklarering, jf. [sikkerhetsloven § 8-1](lov/2018-06-01-24/§8-1), jf. [§ 8-2](lov/2018-06-01-24/§8-2).
+For å kunne bli tatt opp som student til Sjøforsvarets fagskole/minedykkerutdanningen må søkeren minimum oppfylle følgende betingelser:
+
+- gjennomført grunnleggende soldatutdanning (rekruttskole)
+- godkjent sjømannsattest (Helseerklæring iht. [forskrift om helseundersøkelse på skip](forskrift/2014-06-05-805)) og andre særskilte krav til minedykkerutdanningen
+- bestått opptaksprøver til Sjøforsvarets fagskole
+- inneha gyldig sikkerhetsklarering, jf. [sikkerhetsloven § 8-1](lov/2018-06-01-24/§8-1), jf. [§ 8-2](lov/2018-06-01-24/§8-2).
 
 Detaljert informasjon om særskilte krav til minedykkerutdanningen og opptaksprøvene er nedfelt i studieplanene.
 
@@ -74,7 +85,11 @@ Søknad med dokumentasjon skal sendes til fagskolen innen tre uker etter at tilb
 
 Sjøforsvarets fagskole gjennomfører realkompetansevurdering i tråd med [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 2](forskrift/2019-07-11-1005/§2) b og [§ 2](forskrift/2019-07-11-1005/§2) c. Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevante fagområder. Informasjon om hva som er relevant yrkesutdanning er nedfelt i studieplanene.
 
-Søkere som søker studieplass med bakgrunn i realkompetanse kan være:Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravetSøkere som ikke har fullført videregående opplæringSøkere med utenlandsk utdanning.
+Søkere som søker studieplass med bakgrunn i realkompetanse kan være:
+
+- Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet
+- Søkere som ikke har fullført videregående opplæring
+- Søkere med utenlandsk utdanning.
 
 For å bli realkompetansevurdert må søkere dokumentere kompetanse tilsvarende fullført og bestått videregående opplæring og ha fylt 23 år i søkeåret, jf. [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7).
 
@@ -100,7 +115,14 @@ Sjøforsvaret fagskole skal gi studentene tilstrekkelig og relevant informasjon 
 
 ### § 3-3. Vurderingen av om en student er skikket
 
-Når et eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter [fagskoleforskriften § 26](forskrift/2019-07-11-1005/§26), vil studenten være uskikket for minedykkerutdannelsen og yrket som minedykkeroperatør:Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning.Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.Studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.Studenten viser manglende vilje eller evne til omsorg, forståelse og respekt for barn, unge eller voksne i sårbare situasjoner.Studenten er ilagt refs etter [lov om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1).Studenten har mistet sin autorisasjon eller sikkerhetsklarering.
+Når et eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter [fagskoleforskriften § 26](forskrift/2019-07-11-1005/§26), vil studenten være uskikket for minedykkerutdannelsen og yrket som minedykkeroperatør:
+
+1. Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning.
+2. Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.
+3. Studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+4. Studenten viser manglende vilje eller evne til omsorg, forståelse og respekt for barn, unge eller voksne i sårbare situasjoner.
+5. Studenten er ilagt refs etter [lov om militær disiplinærmyndighet § 1](lov/1988-05-20-32/§1).
+6. Studenten har mistet sin autorisasjon eller sikkerhetsklarering.
 
 Vurderingskriteriene etter første ledd gjelder både for løpende og for særskilt skikkethetsvurdering.
 
@@ -124,7 +146,12 @@ Fagskolens administrasjon fatter vedtak om godskriving og fritak.
 
 ### § 5-1. Rett til å gå opp til eksamen
 
-For å ha rett til å gå opp til eksamen må studenten oppfylle følgende krav:Være tatt opp som student ved Sjøforsvarets fagskole.Deltatt i obligatorisk aktivitet i henhold til fag-, studieplanen eller emnebeskrivelsen.Bestått obligatoriske prøver fastsatt i studieplanen eller emnebeskrivelsen.Oppfylt obligatoriske arbeidskrav fastsatt i studieplanen eller emnebeskrivelsen.
+For å ha rett til å gå opp til eksamen må studenten oppfylle følgende krav:
+
+1. Være tatt opp som student ved Sjøforsvarets fagskole.
+2. Deltatt i obligatorisk aktivitet i henhold til fag-, studieplanen eller emnebeskrivelsen.
+3. Bestått obligatoriske prøver fastsatt i studieplanen eller emnebeskrivelsen.
+4. Oppfylt obligatoriske arbeidskrav fastsatt i studieplanen eller emnebeskrivelsen.
 
 En student må følge studieprogresjonen for studieprogrammets fastsatte emner for det enkelte semester. Avvik kan likevel godkjennes av rektor/assisterende rektor i hvert enkelt tilfelle.
 
@@ -263,7 +290,13 @@ Klagenemnd kan annullere fritak eller godskriving av utdanning og kompetanse som
 
 ### § 6-6. Lokal klagenemnd
 
-Den lokale klagenemnda for Sjøforsvarets fagskole behandler klager på enkeltvedtak som er gjort ved fagskolen. Videre skal klagenemnden i samsvar med delegering fra styret:fatte enkeltvedtak i forbindelse med klage på opptak, eksamen, bortvisning/utestengelse eller skikkethetbehandle klager på formelle feil ved eksamenfatte vedtak om å annullere resultat av eksamen eller fritak/godskrivning ved fusk og forfalskningfatte vedtak om utestengning av en studentfatte vedtak om at en student ikke er skikket for utdanningen og at studenten utestenges for en angitt periode på grunn av dette.
+Den lokale klagenemnda for Sjøforsvarets fagskole behandler klager på enkeltvedtak som er gjort ved fagskolen. Videre skal klagenemnden i samsvar med delegering fra styret:
+
+1. fatte enkeltvedtak i forbindelse med klage på opptak, eksamen, bortvisning/utestengelse eller skikkethet
+2. behandle klager på formelle feil ved eksamen
+3. fatte vedtak om å annullere resultat av eksamen eller fritak/godskrivning ved fusk og forfalskning
+4. fatte vedtak om utestengning av en student
+5. fatte vedtak om at en student ikke er skikket for utdanningen og at studenten utestenges for en angitt periode på grunn av dette.
 
 Den lokale klagenemnda har fem medlemmer med personlige varamedlemmer. Lederen og vara for leder skal fylle lovbestemte krav for lagdommere. Leder og vara for leder skal ikke være ansatt ved fagskolen. To av medlemmene skal være studenter. Mandatet til klagenemnda blir innrettet i henhold til [forvaltningsloven](lov/1967-02-10). Den lokale klagenemnda kan fatte vedtak når leder eller vara for leder og to andre medlemmer er tilstede. Vedtak fattet av den lokale klagenemnda i saker om fagskolen sine enkeltvedtak kan ikke påklages.
 

@@ -28,4 +28,7 @@ Kongens myndighet etter [lov av 23. april 1999 nr. 20](lov/1999-04-23-20) om end
 
 ## II
 
-Med departementet menes Finans- og tolldepartementet i følgende bestemmelser:[Lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling [§ 2-3](lov/1989-06-16-53/§2-3) nytt tredje leddLovvedtaket romertall X annet ledd.
+Med departementet menes Finans- og tolldepartementet i følgende bestemmelser:
+
+- [Lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling [§ 2-3](lov/1989-06-16-53/§2-3) nytt tredje ledd
+- Lovvedtaket romertall X annet ledd.

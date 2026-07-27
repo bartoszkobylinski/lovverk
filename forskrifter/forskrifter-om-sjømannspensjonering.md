@@ -27,12 +27,30 @@ eu_basis: []
 ### § 1-1. Adgang til frivillig pensjonstrygd for arbeidstakere på utenlandsk skip og borefartøy
 
 1. Disse forskrifter omfatter norsk statsborger og person med fast bopel i Norge meldt til folkeregisteret som er tilsatt på skip eller borefartøy innført i utenlandsk skipsregister, men som ikke er pliktig omfattet av pensjonstrygden for sjømenn etter lovens § 1 nr. 2 første ledd bokstav d første punktum.
-2. For å kunne bli frivillig pensjonstrygdet etter disse forskrifter kreves at arbeidstakerenhar medlemskap i folketrygden,påtar seg å svare arbeidstaker- og rederiavgift etter de bestemmelser og satser som gjelder til enhver tid for arbeidstakere som er pliktig omfattet av trygden, ogsøker om det på slik måte som Pensjonstrygden bestemmer.
-3. Pensjonstrygden kan innhente de opplysninger en finner nødvendig for å avgjøre en søknad om frivillig trygd, samt for å kontrollere at vilkårene for trygdedekning er til stede.Pensjonstrygden kan sette som vilkår for å innvilge søknaden at søkeren oppnevner en representant for seg her i riket som trygden godkjenner.
-4. Vedtak om frivillig trygd gjelder fra og med kalendermåneden etter den måned søknaden kom inn eller fra et senere tidspunkt som søknaden angir.Dersom det finnes rimelig, kan vedtaket gis tilbakevirkende kraft. Skal vedtaket gis virkning for lenger tid tilbake enn tre måneder før den kalendermåned søknaden kom inn, må det dreie seg om samme arbeidsforhold, og det skal svares renter etter de regler som gjelder ved for sent betalt pensjonsavgift (forsinkelsesrenter).Pliktige medlemmer av folketrygden etter [ftrl. § 2-2](lov/1997-02-28-19/§2-2) på norsk sokkel kan få medlemskap fra ansettelsestidspunktet.I den utstrekning det ikke følger noe annet av disse forskrifter, har den frivillig trygdede samme rettigheter og plikter etter lov om pensjonstrygd for sjømenn som pliktig trygdede.
-5. Arbeidstaker- og rederiavgift svares normalt i terminer på to måneder, og forfaller til betaling den 20. i påfølgende måned. Dersom det foreligger særlige grunner, kan Pensjonstrygden bestemme at andre terminer og forfallstidspunkt skal benyttes.Arbeidstakeren er selv ansvarlig for at arbeidstakeravgift og rederiavgift betales til trygden, og at betaling skjer til rett tid.Det svares forsinkelsesrenter etter samme regler som ved pliktig trygd.
+2. For å kunne bli frivillig pensjonstrygdet etter disse forskrifter kreves at arbeidstakeren
+
+   1. har medlemskap i folketrygden,
+   2. påtar seg å svare arbeidstaker- og rederiavgift etter de bestemmelser og satser som gjelder til enhver tid for arbeidstakere som er pliktig omfattet av trygden, og
+   3. søker om det på slik måte som Pensjonstrygden bestemmer.
+3. Pensjonstrygden kan innhente de opplysninger en finner nødvendig for å avgjøre en søknad om frivillig trygd, samt for å kontrollere at vilkårene for trygdedekning er til stede.
+
+   Pensjonstrygden kan sette som vilkår for å innvilge søknaden at søkeren oppnevner en representant for seg her i riket som trygden godkjenner.
+4. Vedtak om frivillig trygd gjelder fra og med kalendermåneden etter den måned søknaden kom inn eller fra et senere tidspunkt som søknaden angir.
+
+   Dersom det finnes rimelig, kan vedtaket gis tilbakevirkende kraft. Skal vedtaket gis virkning for lenger tid tilbake enn tre måneder før den kalendermåned søknaden kom inn, må det dreie seg om samme arbeidsforhold, og det skal svares renter etter de regler som gjelder ved for sent betalt pensjonsavgift (forsinkelsesrenter).
+
+   Pliktige medlemmer av folketrygden etter [ftrl. § 2-2](lov/1997-02-28-19/§2-2) på norsk sokkel kan få medlemskap fra ansettelsestidspunktet.
+
+   I den utstrekning det ikke følger noe annet av disse forskrifter, har den frivillig trygdede samme rettigheter og plikter etter lov om pensjonstrygd for sjømenn som pliktig trygdede.
+5. Arbeidstaker- og rederiavgift svares normalt i terminer på to måneder, og forfaller til betaling den 20. i påfølgende måned. Dersom det foreligger særlige grunner, kan Pensjonstrygden bestemme at andre terminer og forfallstidspunkt skal benyttes.
+
+   Arbeidstakeren er selv ansvarlig for at arbeidstakeravgift og rederiavgift betales til trygden, og at betaling skjer til rett tid.
+
+   Det svares forsinkelsesrenter etter samme regler som ved pliktig trygd.
 6. Arbeidstakeren plikter å melde fra dersom trygdedekningen i folketrygden endres eller opphører, og må for øvrig oppfylle de plikter som trygden pålegger vedrørende registrering, meldinger, innsending av avgiftsoppgaver, innbetaling av avgift mv.
-7. Arbeidstakeren kan til enhver tid be om at trygd etter disse forskrifter opphører. Opphør etter krav fra arbeidstakeren kan ikke skje med virkning for tidligere tidsrom som det er betalt avgift for, og hvor vilkårene for frivillig trygd var oppfylt.Pensjonstrygden kan bestemme at frivillig trygd opphører dersom arbeidstakeren ikke oppfyller sine plikter overfor trygden. Skyldes opphøret at det ikke er betalt korrekt avgift, herunder eventuelle forsinkelsesrenter, fastsettes tidsrommet trygdedekningen har vart i forhold til innbetalt avgift. Slik etterfølgende beregning av trygdet tidsrom foretas også i andre tilfelle hvor det viser seg i ettertid at det er betalt for lite avgift, jf. lovens § 3 nr. 1 første punktum.
+7. Arbeidstakeren kan til enhver tid be om at trygd etter disse forskrifter opphører. Opphør etter krav fra arbeidstakeren kan ikke skje med virkning for tidligere tidsrom som det er betalt avgift for, og hvor vilkårene for frivillig trygd var oppfylt.
+
+   Pensjonstrygden kan bestemme at frivillig trygd opphører dersom arbeidstakeren ikke oppfyller sine plikter overfor trygden. Skyldes opphøret at det ikke er betalt korrekt avgift, herunder eventuelle forsinkelsesrenter, fastsettes tidsrommet trygdedekningen har vart i forhold til innbetalt avgift. Slik etterfølgende beregning av trygdet tidsrom foretas også i andre tilfelle hvor det viser seg i ettertid at det er betalt for lite avgift, jf. lovens § 3 nr. 1 første punktum.
 
 > Endret ved [forskrifter 30 nov 2006 nr. 1344](forskrift/2006-11-30-1344), [22 juni 2009 nr. 947](forskrift/2009-06-22-947), [18 juni 2021 nr. 2378](forskrift/2021-06-18-2378).
 
@@ -82,9 +100,19 @@ Ved sammenlegging av tjenestetid etter denne bestemmelse regnes bare med tjenest
 
 ### § 3-3. Inntektsprøvet tillegg
 
-1. Til pensjonist som fyller vilkårene til fartstid for rett til pensjonstillegg etter lovens § 6 kan det ikke ytes tillegg, dersom den pensjonsgivende inntekt (brutto arbeidsinntekt og andre likestilte ytelser etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15)) overstigerto ganger folketrygdens grunnbeløp når det ytes pensjon for hele kalenderåretto ganger folketrygdens grunnbeløp forholdsmessig avkortet når det ytes pensjon for mindre enn 12 måneder i kalenderåret.
-2. Ved praktiseringen gjelder ellers følgende:Eventuell arbeidsinntekt fra utenlandsk hold medregnes likt med pensjonsgivende inntekt i Norge.Den samlede pensjonsgivende inntekt for det enkelte kalenderår avrundes nedover til nærmeste hele 1.000 kroner. Det regnes bare med inntekt for måneder som det ytes sjømannspensjon for i kalenderåret.Ved den endelige vurdering av om vilkårene er oppfylt regnes det med størrelsen på grunnbeløpet ved utgangen av det enkelte kalenderår.
-3. I forbindelse med kontroll av retten til pensjonstillegget, gjelder følgende dersom pensjonisten har dødd før kontrollen gjennomføres:Dersom pensjonisten døde i samme år som etteroppgjøret gjelder for, skal det ikke foretas etterbetaling eller tilbakekreving.Dersom dødsfallet er senere enn det året etteroppgjøret gjelder for, gjennomføres eventuell etterbetaling, men tilbakekreving unnlates.
+1. Til pensjonist som fyller vilkårene til fartstid for rett til pensjonstillegg etter lovens § 6 kan det ikke ytes tillegg, dersom den pensjonsgivende inntekt (brutto arbeidsinntekt og andre likestilte ytelser etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15)) overstiger
+
+   1. to ganger folketrygdens grunnbeløp når det ytes pensjon for hele kalenderåret
+   2. to ganger folketrygdens grunnbeløp forholdsmessig avkortet når det ytes pensjon for mindre enn 12 måneder i kalenderåret.
+2. Ved praktiseringen gjelder ellers følgende:
+
+   1. Eventuell arbeidsinntekt fra utenlandsk hold medregnes likt med pensjonsgivende inntekt i Norge.
+   2. Den samlede pensjonsgivende inntekt for det enkelte kalenderår avrundes nedover til nærmeste hele 1.000 kroner. Det regnes bare med inntekt for måneder som det ytes sjømannspensjon for i kalenderåret.
+   3. Ved den endelige vurdering av om vilkårene er oppfylt regnes det med størrelsen på grunnbeløpet ved utgangen av det enkelte kalenderår.
+3. I forbindelse med kontroll av retten til pensjonstillegget, gjelder følgende dersom pensjonisten har dødd før kontrollen gjennomføres:
+
+   1. Dersom pensjonisten døde i samme år som etteroppgjøret gjelder for, skal det ikke foretas etterbetaling eller tilbakekreving.
+   2. Dersom dødsfallet er senere enn det året etteroppgjøret gjelder for, gjennomføres eventuell etterbetaling, men tilbakekreving unnlates.
 
 > Endret ved forskrifter [19 des 2000 nr. 1667](forskrift/2000-12-19-1667) (i kraft 1 jan 2001), [29 sep 2023 nr. 1645](forskrift/2023-09-29-1645).
 
@@ -96,7 +124,22 @@ Ved sammenlegging av tjenestetid etter denne bestemmelse regnes bare med tjenest
 
 ### § 5-1. Arbeidstakere som omfattes av gruppe 1 (overordnede)
 
-I tillegg til skipsfører, styrmann og maskinist, jf. lovens § 9 nr. 1, skal følgende stillinger omfattes av avgiftsgruppe 1 (overordnede):radiooffiser, rutelos, skipselektriker, purser, forpleiningssjef/stuert, kokk med administrativt ansvar, sjefsmaterialforvalter (sjefstorekeeper), restauratør og bestmann.stillinger på passasjerskip:overkokk, sjefskokk. 1. kokk, proviantmester, purserassistent (regnskapsførerassistent), hotellsjef (hotel manager), purser/controller (chief purser/controller), cruisesjef (cruise manager), kjøkkensjef (chef de cuisine), restaurantsjef (restaurant manager), butikksjef (shop manager), husøkonom (housekeeper), food & beverage manager, soussjef, resepsjonssjef og hovmester.trålbas på forskningsfartøy.stillinger på borefartøyer:plattformsjef, boresjef, teknisk sjef, stabilitetssjef, borer, undervannsutstyrsingeniør, teknisk assistent, boreassistent, kontrollromoperatør (kontrollromvakt I), stabilitetsoperatør, riggmekaniker, elektriker, tårnmann, kontrollromsassistent, radiotelegrafist, sveiser m/sertifikat, forpleiningssjef, maskinromoperatør, sikkerhetsleder, sykepleier, hydraulikkingeniør, dekksoffiser og DP-operatør.toktleder og seismisk personell.radiosondeoperatør på værskip.ROV-personell (personell tilknyttet operasjon av fjernstyrte undervannsfarkoster).dykkerpersonell i stilling som:dykkerleder, assisterende dykkerleder, ledende dykker, dykker, luftdykker, gassmann, kammeroperatør I og II, senior teknikker, teknikker I og II, senior tegner.
+I tillegg til skipsfører, styrmann og maskinist, jf. lovens § 9 nr. 1, skal følgende stillinger omfattes av avgiftsgruppe 1 (overordnede):
+
+1. radiooffiser, rutelos, skipselektriker, purser, forpleiningssjef/stuert, kokk med administrativt ansvar, sjefsmaterialforvalter (sjefstorekeeper), restauratør og bestmann.
+2. stillinger på passasjerskip:
+
+   overkokk, sjefskokk. 1. kokk, proviantmester, purserassistent (regnskapsførerassistent), hotellsjef (hotel manager), purser/controller (chief purser/controller), cruisesjef (cruise manager), kjøkkensjef (chef de cuisine), restaurantsjef (restaurant manager), butikksjef (shop manager), husøkonom (housekeeper), food & beverage manager, soussjef, resepsjonssjef og hovmester.
+3. trålbas på forskningsfartøy.
+4. stillinger på borefartøyer:
+
+   plattformsjef, boresjef, teknisk sjef, stabilitetssjef, borer, undervannsutstyrsingeniør, teknisk assistent, boreassistent, kontrollromoperatør (kontrollromvakt I), stabilitetsoperatør, riggmekaniker, elektriker, tårnmann, kontrollromsassistent, radiotelegrafist, sveiser m/sertifikat, forpleiningssjef, maskinromoperatør, sikkerhetsleder, sykepleier, hydraulikkingeniør, dekksoffiser og DP-operatør.
+5. toktleder og seismisk personell.
+6. radiosondeoperatør på værskip.
+7. ROV-personell (personell tilknyttet operasjon av fjernstyrte undervannsfarkoster).
+8. dykkerpersonell i stilling som:
+
+   dykkerleder, assisterende dykkerleder, ledende dykker, dykker, luftdykker, gassmann, kammeroperatør I og II, senior teknikker, teknikker I og II, senior tegner.
 
 Andre stillinger som har minst samme tarifferte hyre som elektriker eller radiooperatør skal omfattes av gruppe 1 uavhengig av hvilken type skip eller innretning de tilhører.
 
@@ -121,7 +164,14 @@ For reder, partreder og restauratør som omfattes av lovens § 1 nr. 4 bokstav c
 
 For innkreving av avgift til Pensjonstrygden for sjømenn gjelder følgende seks årlige avgiftsterminer og forfallstidspunkter:
 
-Forfallstidspunktene er:1. termin (januar og februar) forfaller 20. mars2. termin (mars og april) forfaller 20. mai3. termin (mai og juni) forfaller 20. juli4. termin (juli og august) forfaller 20. september5. termin (september og oktober) forfaller 20. november6. termin (november og desember) forfaller 20. januar.
+Forfallstidspunktene er:
+
+- 1\. termin (januar og februar) forfaller 20. mars
+- 2\. termin (mars og april) forfaller 20. mai
+- 3\. termin (mai og juni) forfaller 20. juli
+- 4\. termin (juli og august) forfaller 20. september
+- 5\. termin (september og oktober) forfaller 20. november
+- 6\. termin (november og desember) forfaller 20. januar.
 
 > Tilføyd ved [forskrift 25 sep 2001 nr. 1136](forskrift/2001-09-25-1136) (i kraft 1 jan 2002).
 
@@ -149,7 +199,13 @@ Pensjonstrygden kan anvende skjønn for å fastsette skyldig pensjonsavgift, nå
 
 For purringer og betalingsoppfordringer anvendes de gebyrsatser som fremkommer i inkassoforskriften av 14. juli 1989 nr. 562 og forskrift om saksøktes sakskostnadsansvar ved tvangsfullbyrdelse så langt de passer. I andre tilfeller foretas en konkret vurdering av arbeidsmengde, kompleksitet og sammenlignbare saker.
 
-Følgende satser er kun veiledendeArrester, inntil 4 rettsgebyr,Konkursvarsel, 1/3 rettsgebyr,Utleggsbegjæring, 1 rettsgebyr,Konkursbegjæring, 2 rettsgebyr ogTvangssalg av skip, inntil 4 rettsgebyr.
+Følgende satser er kun veiledende
+
+- Arrester, inntil 4 rettsgebyr,
+- Konkursvarsel, 1/3 rettsgebyr,
+- Utleggsbegjæring, 1 rettsgebyr,
+- Konkursbegjæring, 2 rettsgebyr og
+- Tvangssalg av skip, inntil 4 rettsgebyr.
 
 > Tilføyd ved [forskrift 25 sep 2001 nr. 1136](forskrift/2001-09-25-1136) (i kraft 1 jan 2002).
 
@@ -183,7 +239,12 @@ Ved anvendelse av disse forskrifter legges til grunn prinsipper om minnelig beta
 
 1. I tilfelle hvor ytelsen skal utbetales med tilbakevirkning, beregnes utløsningsbeløpet til summen av kapitalverdien av fremtidig pensjon og terminbeløp som er forfalt og ikke foreldet etter bestemmelsene i § 7 i lov om pensjonstrygd for sjømenn.
 2. I tilfelle hvor pensjonisten dør før det tidspunkt Pensjonstrygden for sjømenn legger til grunn for kapitalisering av ytelsen, utbetales den etter reglene i § 7 nr. 2 i lov om pensjonstrygd for sjømenn.
-3. Ved beregning av kapitalverdien nyttesen grunnlagsrente på 8 prosent pro anno for fastlåst pensjon og 6 prosent pro anno for eventuelt krigsfartstillegg.tabeller over dødelighetserfaringene for det norske folk (for perioden 1997 – 1999).ved kapitalisering av enkepensjoner regnes ikke med gjengiftefrekvens.annuiteter (dvs. uten dødsrisiko) for barnepensjoner.
+3. Ved beregning av kapitalverdien nyttes
+
+   1. en grunnlagsrente på 8 prosent pro anno for fastlåst pensjon og 6 prosent pro anno for eventuelt krigsfartstillegg.
+   2. tabeller over dødelighetserfaringene for det norske folk (for perioden 1997 – 1999).
+   3. ved kapitalisering av enkepensjoner regnes ikke med gjengiftefrekvens.
+   4. annuiteter (dvs. uten dødsrisiko) for barnepensjoner.
 
 > Endret ved [forskrift 19 des 2000 nr. 1667](forskrift/2000-12-19-1667) (i kraft 1 jan 2001).
 
@@ -192,5 +253,14 @@ Ved anvendelse av disse forskrifter legges til grunn prinsipper om minnelig beta
 ### § 10-1. Forskriftenes ikrafttreden
 
 1. Disse forskrifter trer i kraft 1. januar 2001.
-2. Fra 1. januar 2001 oppheves følgende forskrifter fastsatt med hjemmel i tidligere bestemmelser i [lov av 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn:[Forskrift av 29. januar 1993 nr. 829](forskrift/1993-01-29-829) om kapitalutløsning av pensjon og overgangsstønad etter [lov av 3.desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 41 nr. 4 tredje ledd.[Forskrift av 24. mars 1993 nr. 830](forskrift/1993-03-24-830) om arbeidstakere som skal omfattes av avgiftsgruppe 1 (overordnede). Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 nr. 1.[Forskrift av 8. september 1993 nr. 845](forskrift/1993-09-08-845) om adgang til frivillig pensjonstrygd for arbeidstakere på utenlandsk skip og borefartøy. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 1 nr. 2 første ledd bokstav d annet punktum.[Forskrift av 25. januar 1995 nr. 85](forskrift/1995-01-25-85) om at rederavgift beregnet etter § 29 nr. 1 første ledd annet punktum skal gjelde som minstebeløp for reder, partreder og restauratør. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 29 nr. 1 annet ledd.[Forskrift av 25. januar 1995 nr. 86](forskrift/1995-01-25-86) om beregning av arbeidstakeravgift av sykepenger. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 nr. 3 tredje ledd.[Forskrift av 6. desember 1995 nr. 1084](forskrift/1995-12-06-1084) om unntak fra pensjonstrygden for sjømenn for croupierer på skip. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 2 nr. 2 tredje ledd bokstav b.Forskrift av 27. oktober 1999 om gruppeføring av visse stillinger på passasjerferger i nord- og østersjøfart. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 første ledd (ikke kunngjort i Norsk Lovtidend).Foreløpige regler av 16. februar 2000 om forenklet fartstidsberegning for tid som det er utbetalt feriegodtgjøring og fritidskompensasjon for før 1. oktober 1975, og som det ikke er betalt avgift for. Fastsatt av styret i Pensjonstrygden for sjømenn i medhold av lovens § 3 nr. 1 annet ledd siste punktum (ikke kunngjort i Norsk Lovtidend).
+2. Fra 1. januar 2001 oppheves følgende forskrifter fastsatt med hjemmel i tidligere bestemmelser i [lov av 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn:
+
+   - [Forskrift av 29. januar 1993 nr. 829](forskrift/1993-01-29-829) om kapitalutløsning av pensjon og overgangsstønad etter [lov av 3.desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 41 nr. 4 tredje ledd.
+   - [Forskrift av 24. mars 1993 nr. 830](forskrift/1993-03-24-830) om arbeidstakere som skal omfattes av avgiftsgruppe 1 (overordnede). Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 nr. 1.
+   - [Forskrift av 8. september 1993 nr. 845](forskrift/1993-09-08-845) om adgang til frivillig pensjonstrygd for arbeidstakere på utenlandsk skip og borefartøy. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 1 nr. 2 første ledd bokstav d annet punktum.
+   - [Forskrift av 25. januar 1995 nr. 85](forskrift/1995-01-25-85) om at rederavgift beregnet etter § 29 nr. 1 første ledd annet punktum skal gjelde som minstebeløp for reder, partreder og restauratør. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 29 nr. 1 annet ledd.
+   - [Forskrift av 25. januar 1995 nr. 86](forskrift/1995-01-25-86) om beregning av arbeidstakeravgift av sykepenger. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 nr. 3 tredje ledd.
+   - [Forskrift av 6. desember 1995 nr. 1084](forskrift/1995-12-06-1084) om unntak fra pensjonstrygden for sjømenn for croupierer på skip. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 2 nr. 2 tredje ledd bokstav b.
+   - Forskrift av 27. oktober 1999 om gruppeføring av visse stillinger på passasjerferger i nord- og østersjøfart. Fastsatt av styret i Pensjonstrygden for sjømenn med hjemmel i lovens § 27 første ledd (ikke kunngjort i Norsk Lovtidend).
+   - Foreløpige regler av 16. februar 2000 om forenklet fartstidsberegning for tid som det er utbetalt feriegodtgjøring og fritidskompensasjon for før 1. oktober 1975, og som det ikke er betalt avgift for. Fastsatt av styret i Pensjonstrygden for sjømenn i medhold av lovens § 3 nr. 1 annet ledd siste punktum (ikke kunngjort i Norsk Lovtidend).
 3. Forskrifter som nevnt i nr. 2 gjelder fortsatt så langt de passer.

@@ -38,7 +38,24 @@ Ved utstedelse av driftstillatelse for taubane der årsgebyret for innebærende 
 
 Ved tilbakekall eller innlevering av driftstillatelse refunderes ikke betalt årsgebyr.
 
-Følgende definisjoner skal legges til grunn for fastsettelse av årsgebyrklasse på taubaner etter denne forskriften:*Svevebane:* et taubaneanlegg der kjøretøyene henger i og trekkes av ett eller flere tau.*Skitrekk:* et taubaneanlegg der passasjerer med egnet utstyr trekkes langs et preparert spor.*Kabelbane:* et taubaneanlegg der kjøretøyene trekkes av ett eller flere tau langs et spor som kan ligge på bakken eller støttes av faste strukturer.*Årsgebyrsatser 2026**Årsgebyrklasser**Satser kr*Svevebaner27 100Stolheis med faste klemmer med lengde mindre eller lik 400 meter12 370Stolheis med faste klemmer med lengde over 400 meter20 840Godstaubaner5 990Skitrekk14 520Skitrekk med lengde mindre eller lik 400 meter7 860Skitau3 980Kabelbane27 100
+Følgende definisjoner skal legges til grunn for fastsettelse av årsgebyrklasse på taubaner etter denne forskriften:
+
+- *Svevebane:* et taubaneanlegg der kjøretøyene henger i og trekkes av ett eller flere tau.
+- *Skitrekk:* et taubaneanlegg der passasjerer med egnet utstyr trekkes langs et preparert spor.
+- *Kabelbane:* et taubaneanlegg der kjøretøyene trekkes av ett eller flere tau langs et spor som kan ligge på bakken eller støttes av faste strukturer.
+
+  *Årsgebyrsatser 2026*
+
+  | *Årsgebyrklasser* | *Satser kr* |
+  | --- | --- |
+  | Svevebaner | 27 100 |
+  | Stolheis med faste klemmer med lengde mindre eller lik 400 meter | 12 370 |
+  | Stolheis med faste klemmer med lengde over 400 meter | 20 840 |
+  | Godstaubaner | 5 990 |
+  | Skitrekk | 14 520 |
+  | Skitrekk med lengde mindre eller lik 400 meter | 7 860 |
+  | Skitau | 3 980 |
+  | Kabelbane | 27 100 |
 
 > Endret ved [forskrifter 15 jan 2018 nr. 53](forskrift/2018-01-15-53), [2 jan 2019 nr. 7](forskrift/2019-01-02-7), [6 des 2019 nr. 1695](forskrift/2019-12-06-1695) (i kraft 1 jan 2020), [11 jan 2021 nr. 73](forskrift/2021-01-11-73) (i kraft 1 jan 2021), [10 mars 2022 nr. 441](forskrift/2022-03-10-441) (i kraft 1 jan 2022), [29 mars 2023 nr. 440](forskrift/2023-03-29-440) (i kraft 1 jan 2023), [16 feb 2024 nr. 341](forskrift/2024-02-16-341) (i kraft 1 jan 2024), [7 nov 2024 nr. 2854](forskrift/2024-11-07-2854) (i kraft 1 jan 2025), [11 nov 2025 nr. 2267](forskrift/2025-11-11-2267) (i kraft 1 jan 2026).
 

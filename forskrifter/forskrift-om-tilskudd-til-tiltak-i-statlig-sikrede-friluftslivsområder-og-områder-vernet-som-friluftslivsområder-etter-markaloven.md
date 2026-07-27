@@ -38,7 +38,11 @@ Kommuner og interkommunale friluftsråd med forvaltningsansvar for statlig sikre
 
 Det kan gis tilskudd til tilretteleggingstiltak og skjøtselstiltak på statlig sikrede friluftslivsområder og i områder vernet som friluftslivsområder etter [markaloven](lov/2009-06-05-35). Det gis ikke tilskudd til ordinære driftsoppgaver.
 
-Det kan gis tilskudd til tilrettelegging som har til formål åminske de fysiske hindringene for friluftsliv og legge til rette for økt friluftslivsaktivitet for alle, blant annet til opparbeiding av atkomstvei og parkeringsplass, turvei eller sti, badeplass og brygge, toalett, søppelstativ og tiltak for økt tilgjengelighet for personer med nedsatt funksjonsevneivareta opplevelseskvalitetene i området og legge til rette for gode naturopplevelser, blant annet gjennom informasjon og formidling av naturmangfold og kulturmiljøhindre at friluftsliv fører til unødige inngrep, slitasje og forstyrring av plante- og dyreliv og ødelegging av kulturminner og kulturmiljø, for eksempel gjennom kanaliserende tiltak og skjøtsel.
+Det kan gis tilskudd til tilrettelegging som har til formål å
+
+1. minske de fysiske hindringene for friluftsliv og legge til rette for økt friluftslivsaktivitet for alle, blant annet til opparbeiding av atkomstvei og parkeringsplass, turvei eller sti, badeplass og brygge, toalett, søppelstativ og tiltak for økt tilgjengelighet for personer med nedsatt funksjonsevne
+2. ivareta opplevelseskvalitetene i området og legge til rette for gode naturopplevelser, blant annet gjennom informasjon og formidling av naturmangfold og kulturmiljø
+3. hindre at friluftsliv fører til unødige inngrep, slitasje og forstyrring av plante- og dyreliv og ødelegging av kulturminner og kulturmiljø, for eksempel gjennom kanaliserende tiltak og skjøtsel.
 
 ## § 5. Krav for å kunne tildeles tilskudd
 
@@ -48,7 +52,12 @@ For områder vernet som friluftslivsområde etter [markaloven](lov/2009-06-05-35
 
 ## § 6. Prioriteringer for tilskuddordningen
 
-Tilskuddsordningen prioriterer friluftslivsområder somligger i eller ved byer og tettstederblir eller har potensial for å bli mye bruktligger i områder med lite tilgjengelig strandsone og stort press på arealeneligger i tilknytning til innlandsvassdrag.
+Tilskuddsordningen prioriterer friluftslivsområder som
+
+1. ligger i eller ved byer og tettsteder
+2. blir eller har potensial for å bli mye brukt
+3. ligger i områder med lite tilgjengelig strandsone og stort press på arealene
+4. ligger i tilknytning til innlandsvassdrag.
 
 Tiltak som også finansieres gjennom egenfinansiering eller egen arbeidsinnsats (dugnad) blir prioritert.
 
@@ -56,17 +65,33 @@ Tiltak som også finansieres gjennom egenfinansiering eller egen arbeidsinnsats 
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon om:søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktpersonhva det søkes om tilskudd til, nøyaktig stedfestelse og om tiltaket inngår i forvaltningsplan eller er i samsvar med [markaloven](lov/2009-06-05-35) og verneforskrifthvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfoldsøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer fremegenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1848/§11)om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
+Søknaden skal inneholde informasjon om:
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+2. hva det søkes om tilskudd til, nøyaktig stedfestelse og om tiltaket inngår i forvaltningsplan eller er i samsvar med [markaloven](lov/2009-06-05-35) og verneforskrift
+3. hvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfold
+4. søknadsbeløp
+5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
+6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1848/§11)
+8. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 8. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Miljødirektoratet og fylkeskommunen kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet og fylkeskommunen kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 9. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 10. Behandling av søknad om tilskudd
 

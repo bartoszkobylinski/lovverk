@@ -112,7 +112,12 @@ Første og annet ledd er ikke til hinder for at finansforetaket gir avdragsutset
 
 ### § 10. Refinansiering
 
-Denne forskriften er ikke til hinder for at lån med pant i bolig kan erstattes med nytt lån (refinansiering) der det nye lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5), [§ 6](forskrift/2020-12-09-2648/§6), [§ 7](forskrift/2020-12-09-2648/§7) og [§ 9](forskrift/2020-12-09-2648/§9), men der det refinansierte lånet:ikke overstiger det eksisterende lånets størrelse på refinansieringstidspunktet,har pant i samme bolig, eller på refinansieringstidspunktet ikke har høyere belåningsgrad enn det eksisterende lånet,har en løpetid som ikke er lengre enn gjenværende løpetid på det eksisterende lånet, oghar samme eller strengere krav til avdragsbetaling som eksisterende lån.
+Denne forskriften er ikke til hinder for at lån med pant i bolig kan erstattes med nytt lån (refinansiering) der det nye lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5), [§ 6](forskrift/2020-12-09-2648/§6), [§ 7](forskrift/2020-12-09-2648/§7) og [§ 9](forskrift/2020-12-09-2648/§9), men der det refinansierte lånet:
+
+1. ikke overstiger det eksisterende lånets størrelse på refinansieringstidspunktet,
+2. har pant i samme bolig, eller på refinansieringstidspunktet ikke har høyere belåningsgrad enn det eksisterende lånet,
+3. har en løpetid som ikke er lengre enn gjenværende løpetid på det eksisterende lånet, og
+4. har samme eller strengere krav til avdragsbetaling som eksisterende lån.
 
 > Endret ved forskrift [9 des 2022 nr. 2120](forskrift/2022-12-09-2120) (i kraft 1 jan 2023).
 
@@ -144,7 +149,10 @@ Første ledd er ikke til hinder for at finansforetaket gir avdragsutsettelse på
 
 ### § 14. Refinansiering
 
-Denne forskriften er ikke til hinder for at forbrukslån kan erstattes med nytt lån (refinansiering), selv om det refinansierte lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5), [§ 6](forskrift/2020-12-09-2648/§6) og [§ 13](forskrift/2020-12-09-2648/§13), men der det refinansierte lånet:ikke overstiger det eksisterende lånet eller lånenes størrelse på refinansieringstidspunktet ogikke øker summen av renter, gebyrer og andre kostnader som kunden skal betale i forhold til summen av kostnadene ved nedbetaling av eksisterende gjeld.
+Denne forskriften er ikke til hinder for at forbrukslån kan erstattes med nytt lån (refinansiering), selv om det refinansierte lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5), [§ 6](forskrift/2020-12-09-2648/§6) og [§ 13](forskrift/2020-12-09-2648/§13), men der det refinansierte lånet:
+
+1. ikke overstiger det eksisterende lånet eller lånenes størrelse på refinansieringstidspunktet og
+2. ikke øker summen av renter, gebyrer og andre kostnader som kunden skal betale i forhold til summen av kostnadene ved nedbetaling av eksisterende gjeld.
 
 ### § 15. Fleksibilitet
 
@@ -162,7 +170,10 @@ Finansforetaket skal hvert kvartal rapportere til styret eller ledelsen for uten
 
 ### § 16. Refinansiering
 
-Denne forskriften er ikke til hinder for at lån med pant i andre eiendeler enn bolig kan erstattes med nytt lån (refinansiering), selv om det refinansierte lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5) og [§ 6](forskrift/2020-12-09-2648/§6), men der det refinansierte lånet:ikke overstiger det eksisterende lånet eller lånenes størrelse på refinansieringstidspunktet ogikke øker summen av renter, gebyrer og andre kostnader som kunden skal betale i forhold til summen av kostnadene ved nedbetaling av eksisterende gjeld.
+Denne forskriften er ikke til hinder for at lån med pant i andre eiendeler enn bolig kan erstattes med nytt lån (refinansiering), selv om det refinansierte lånet ikke oppfyller ett eller flere av vilkårene i [§ 5](forskrift/2020-12-09-2648/§5) og [§ 6](forskrift/2020-12-09-2648/§6), men der det refinansierte lånet:
+
+1. ikke overstiger det eksisterende lånet eller lånenes størrelse på refinansieringstidspunktet og
+2. ikke øker summen av renter, gebyrer og andre kostnader som kunden skal betale i forhold til summen av kostnadene ved nedbetaling av eksisterende gjeld.
 
 > Tilføyd ved forskrift [9 des 2022 nr. 2120](forskrift/2022-12-09-2120) (i kraft 1 jan 2023, se endringsforskriften for overgangsregel).
 

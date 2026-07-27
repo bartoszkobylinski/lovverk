@@ -15,7 +15,7 @@ xml_hash: "1a91560a996ed75a2abe672940a444118723bb09fa5bee63e201c1444038fa92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,15 +28,113 @@ Forskriften skal sikre forsvarlig offentlig saksbehandling og at bygge- og anleg
 
 ## § 2. Plan- og bygningslovens anvendelse
 
-I plan- og bygningsloven gjelder følgende paragrafer for Longyearbyen planområde:§ 1-6 Tiltak§ 1-9 Forholdet til forvaltningsloven og klage§ 2-1 Kart og stedfestet informasjonKapittel 17 UtbyggingsavtalerKapittel 18 med unntak av § 18-7 andre ledd§ 19-1 Søknad om dispensasjon§ 19-2 Dispensasjonsvedtaket§ 19-3 Midlertidig dispensasjon§ 20-1 Tiltak som omfattes av byggesaksbestemmelsene§ 20-2 Søknadsplikt med unntak av henvisningene i § 20-2 første ledd til § 20-6 og § 20-7§ 20-3 Søknadsplikt med krav om ansvarlige foretak med unntak av henvisningene i § 20-3første ledd til § 20-6 og § 20-7§ 20-4 Søknadspliktige tiltak som kan forestås av tiltakshaver§ 20-5 Tiltak som er unntatt fra søknadsplikt første ledd bokstav c til g og andre til femte ledd§ 20-8 Unntak fra søknadsplikt for skjermingsverdige byggKapittel 21 Krav til innhold og behandling av søknader med unntak av § 21-3 femte leddKapittel 22 Godkjenning av foretak for ansvarsrettKapittel 23 Ansvar i byggesaker med unntak av § 23-3b Midlertidige tjenesteytereKapittel 24 Kvalitetssikring og kontroll med prosjektering og utførelse av tiltakKapittel 25 TilsynKapittel 26 Opprettelse og endring av eiendom§ 27-1 Vannforsyning§ 27-2 Avløp§ 27-3 Tilknytning til eksisterende private anlegg§ 27-4 Atkomst§ 28-1 Byggegrunn, miljøformål mv.§ 28-2 Sikringstiltak ved byggearbeid mv.§ 28-3 Tiltak på nabogrunn§ 28-5 Orden på og bruk av ubebygd areal. Sikringstiltak ved byggverk mv.§ 28-6 Sikring av basseng, brønn og dam§ 28-7 Den ubebygde del av tomta andre til femte ledd§ 29-1 Utforming av tiltak§ 29-2 Visuelle kvaliteter§ 29-3 Krav til universell utforming og forsvarlighet andre ledd§ 29-4 Bygningens plassering, høyde og avstand fra nabogrense§ 29-5 Tekniske krav§ 29-6 Tekniske installasjoner og anlegg første ledd første punktum og andre til femte ledd§ 29-7 Krav til produkter til byggverk§ 29-7a Tilsyn med produkter til byggverk§ 29-7b Tvangsmulkt§ 29-7c Overtredelsesgebyr§ 29-9 Heis, rulletrapp og rullende fortau første ledd første punktum og andre til syvende ledd§ 29-11 Forhold i strid med gitt byggetillatelse på annen eiendom§ 30-2 Byggverk og virksomhet som kan medføre fare eller særlig ulempe§ 30-3 Skilt- og reklameinnretninger§ 30-4 Andre varige konstruksjoner eller anlegg. Vesentlige terrenginngrep mv.§ 30-5 Midlertidige bygninger, konstruksjoner eller anlegg§ 30-6 FritidsbebyggelseKapittel 31 Krav til eksisterende byggverkKapittel 32 UlovlighetsoppfølgingKapittel 33 Gebyr og undersøkelse på fast eiendom.
+I plan- og bygningsloven gjelder følgende paragrafer for Longyearbyen planområde:
+
+- § 1-6 Tiltak
+- § 1-9 Forholdet til forvaltningsloven og klage
+- § 2-1 Kart og stedfestet informasjon
+- Kapittel 17 Utbyggingsavtaler
+- Kapittel 18 med unntak av § 18-7 andre ledd
+- § 19-1 Søknad om dispensasjon
+- § 19-2 Dispensasjonsvedtaket
+- § 19-3 Midlertidig dispensasjon
+- § 20-1 Tiltak som omfattes av byggesaksbestemmelsene
+- § 20-2 Søknadsplikt med unntak av henvisningene i § 20-2 første ledd til § 20-6 og § 20-7
+- § 20-3 Søknadsplikt med krav om ansvarlige foretak med unntak av henvisningene i § 20-3
+- første ledd til § 20-6 og § 20-7
+- § 20-4 Søknadspliktige tiltak som kan forestås av tiltakshaver
+- § 20-5 Tiltak som er unntatt fra søknadsplikt første ledd bokstav c til g og andre til femte ledd
+- § 20-8 Unntak fra søknadsplikt for skjermingsverdige bygg
+- Kapittel 21 Krav til innhold og behandling av søknader med unntak av § 21-3 femte ledd
+- Kapittel 22 Godkjenning av foretak for ansvarsrett
+- Kapittel 23 Ansvar i byggesaker med unntak av § 23-3b Midlertidige tjenesteytere
+- Kapittel 24 Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak
+- Kapittel 25 Tilsyn
+- Kapittel 26 Opprettelse og endring av eiendom
+- § 27-1 Vannforsyning
+- § 27-2 Avløp
+- § 27-3 Tilknytning til eksisterende private anlegg
+- § 27-4 Atkomst
+- § 28-1 Byggegrunn, miljøformål mv.
+- § 28-2 Sikringstiltak ved byggearbeid mv.
+- § 28-3 Tiltak på nabogrunn
+- § 28-5 Orden på og bruk av ubebygd areal. Sikringstiltak ved byggverk mv.
+- § 28-6 Sikring av basseng, brønn og dam
+- § 28-7 Den ubebygde del av tomta andre til femte ledd
+- § 29-1 Utforming av tiltak
+- § 29-2 Visuelle kvaliteter
+- § 29-3 Krav til universell utforming og forsvarlighet andre ledd
+- § 29-4 Bygningens plassering, høyde og avstand fra nabogrense
+- § 29-5 Tekniske krav
+- § 29-6 Tekniske installasjoner og anlegg første ledd første punktum og andre til femte ledd
+- § 29-7 Krav til produkter til byggverk
+- § 29-7a Tilsyn med produkter til byggverk
+- § 29-7b Tvangsmulkt
+- § 29-7c Overtredelsesgebyr
+- § 29-9 Heis, rulletrapp og rullende fortau første ledd første punktum og andre til syvende ledd
+- § 29-11 Forhold i strid med gitt byggetillatelse på annen eiendom
+- § 30-2 Byggverk og virksomhet som kan medføre fare eller særlig ulempe
+- § 30-3 Skilt- og reklameinnretninger
+- § 30-4 Andre varige konstruksjoner eller anlegg. Vesentlige terrenginngrep mv.
+- § 30-5 Midlertidige bygninger, konstruksjoner eller anlegg
+- § 30-6 Fritidsbebyggelse
+- Kapittel 31 Krav til eksisterende byggverk
+- Kapittel 32 Ulovlighetsoppfølging
+- Kapittel 33 Gebyr og undersøkelse på fast eiendom.
 
 ## § 3. Byggesaksforskriftens anvendelse
 
-[Forskrift 26. mars 2010 nr. 488](forskrift/2010-03-26-488) om byggesak gjelder for Longyearbyen planområde med unntak av§ 1-4 Virkeområdet for bestemmelser som omhandler utvalgte naturtyper§ 3-2 Alminnelige driftsbygninger i landbruket§ 4-1 Tiltak som ikke krever søknad og tillatelse første ledd bokstav a og b§ 4-2 Unntak for plassering av særskilt bygning, konstruksjon eller anlegg§ 4-3 Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover første ledd, andre ledd bokstav a og b, tredje og fjerde ledd§ 5-2 Varsel til naboer og gjenboere tredje og fjerde ledd§ 6-4 Rammetillatelse første ledd bokstav f§ 9-2 Foretak og andre som kan gis godkjenning andre og tredje ledd§ 15-3 Tidsavgrensede krav om tilsyn første ledd første strekpunkt§ 16-1 Forhold som kan medføre overtredelsesgebyr første ledd bokstav c§ 17-4 Forslag til fordeling av utgifter tredje ledd.
+[Forskrift 26. mars 2010 nr. 488](forskrift/2010-03-26-488) om byggesak gjelder for Longyearbyen planområde med unntak av
+
+- § 1-4 Virkeområdet for bestemmelser som omhandler utvalgte naturtyper
+- § 3-2 Alminnelige driftsbygninger i landbruket
+- § 4-1 Tiltak som ikke krever søknad og tillatelse første ledd bokstav a og b
+- § 4-2 Unntak for plassering av særskilt bygning, konstruksjon eller anlegg
+- § 4-3 Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover første ledd, andre ledd bokstav a og b, tredje og fjerde ledd
+- § 5-2 Varsel til naboer og gjenboere tredje og fjerde ledd
+- § 6-4 Rammetillatelse første ledd bokstav f
+- § 9-2 Foretak og andre som kan gis godkjenning andre og tredje ledd
+- § 15-3 Tidsavgrensede krav om tilsyn første ledd første strekpunkt
+- § 16-1 Forhold som kan medføre overtredelsesgebyr første ledd bokstav c
+- § 17-4 Forslag til fordeling av utgifter tredje ledd.
 
 ## § 4. Byggteknisk forskrifts anvendelse
 
-[Forskrift 26. mars 2010 nr. 489](forskrift/2010-03-26-489) om tekniske krav til byggverk gjelder for Longyearbyen planområde med unntak av§ 1-2 Forskriftens anvendelse på særskilte tiltak første og tredje ledd§ 7-4 Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred§ 8-2 Uteareal med krav om universell utforming§ 8-4 Uteoppholdsareal femte ledd§ 8-5 Generelle krav til gangatkomst og ganglinjer andre ledd§ 8-6 Gangatkomst til byggverk andre, tredje og fjerde ledd§ 8-7 Gangatkomst til uteoppholdsareal med krav om universell utforming§ 8-9 Parkerings- og annen oppstillingsplass tredje og fjerde ledd§ 8-10 Trapp i uteareal andre ledd§ 9-4 Utvalgte naturtyper§ 9-6 Avfallsplan§ 9-7 Kartlegging av farlig avfall og miljøsaneringsbeskrivelse§ 9-8 Avfallssortering§ 9-9 Sluttrapport for faktisk disponering av avfall§ 12-1 Krav om universell utforming av byggverk§ 12-2 Krav om tilgjengelig boenhet§ 12-3 Krav om heis i byggverk andre ledd§ 12-4 Inngangsparti andre ledd§ 12-6 Kommunikasjonsvei fjerde og femte ledd§ 12-7 Krav til rom og annet oppholdsareal andre, tredje, fjerde og femte ledd§ 12-8 Entre og garderobe§ 12-9 Bad og toalett andre og tredje ledd§ 12-10 Bod og oppbevaringsplass (jf. § 2-6)§ 12-11 Balkong og terrasse mv. tredje ledd§ 12-12 Avfallssystem og kildesortering andre ledd§ 12-13 Badstue, kjølerom og fryserom andre ledd§ 12-15 Dør, port mv. andre ledd bokstav c, tredje og fjerde ledd§ 12-16 Trapp tredje ledd§ 12-17 Rekkverk femte ledd§ 12-20 Vindu og andre glassfelt første ledd bokstav b første punktum§ 12-21 Skilt, styrings- og betjeningspanel, håndtak, armaturer mv. andre ledd siste punktum og tredje ledd§ 13-10 Lyd- og taleoverføringsutstyr§ 14-8 Fjernvarme (jf. § 2-4).
+[Forskrift 26. mars 2010 nr. 489](forskrift/2010-03-26-489) om tekniske krav til byggverk gjelder for Longyearbyen planområde med unntak av
+
+- § 1-2 Forskriftens anvendelse på særskilte tiltak første og tredje ledd
+- § 7-4 Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred
+- § 8-2 Uteareal med krav om universell utforming
+- § 8-4 Uteoppholdsareal femte ledd
+- § 8-5 Generelle krav til gangatkomst og ganglinjer andre ledd
+- § 8-6 Gangatkomst til byggverk andre, tredje og fjerde ledd
+- § 8-7 Gangatkomst til uteoppholdsareal med krav om universell utforming
+- § 8-9 Parkerings- og annen oppstillingsplass tredje og fjerde ledd
+- § 8-10 Trapp i uteareal andre ledd
+- § 9-4 Utvalgte naturtyper
+- § 9-6 Avfallsplan
+- § 9-7 Kartlegging av farlig avfall og miljøsaneringsbeskrivelse
+- § 9-8 Avfallssortering
+- § 9-9 Sluttrapport for faktisk disponering av avfall
+- § 12-1 Krav om universell utforming av byggverk
+- § 12-2 Krav om tilgjengelig boenhet
+- § 12-3 Krav om heis i byggverk andre ledd
+- § 12-4 Inngangsparti andre ledd
+- § 12-6 Kommunikasjonsvei fjerde og femte ledd
+- § 12-7 Krav til rom og annet oppholdsareal andre, tredje, fjerde og femte ledd
+- § 12-8 Entre og garderobe
+- § 12-9 Bad og toalett andre og tredje ledd
+- § 12-10 Bod og oppbevaringsplass (jf. § 2-6)
+- § 12-11 Balkong og terrasse mv. tredje ledd
+- § 12-12 Avfallssystem og kildesortering andre ledd
+- § 12-13 Badstue, kjølerom og fryserom andre ledd
+- § 12-15 Dør, port mv. andre ledd bokstav c, tredje og fjerde ledd
+- § 12-16 Trapp tredje ledd
+- § 12-17 Rekkverk femte ledd
+- § 12-20 Vindu og andre glassfelt første ledd bokstav b første punktum
+- § 12-21 Skilt, styrings- og betjeningspanel, håndtak, armaturer mv. andre ledd siste punktum og tredje ledd
+- § 13-10 Lyd- og taleoverføringsutstyr
+- § 14-8 Fjernvarme (jf. § 2-4).
 
 ## § 5. Når område- og detaljregulering gjelder
 
@@ -52,7 +150,11 @@ I bygninger som benyttes til bolig, kontor eller næring stilles det krav om ser
 
 ## § 8. Krav til oppbevaringsplass i boenheter
 
-Hver boenhet skal ha tilstrekkelig plass for oppbevaring av klær, mat, sykler, barnevogner, sportsutstyr, hagemøbler mv., og skal minst haoppbevaringsplass for mat og klærinnvending oppbevaringsplass eller bod på minimum 3,0 m2 BRA for boenheter med inntil 2 rom, minimum 3,5 m2 BRA for boenheter med 3 rom og minimum 4,5 m2 BRA for boenheter med 4 rom eller meroppbevaringsplass eller bod på minimum 5 m2 BRA for sykler, sportsutstyr, barnevogner m.m.
+Hver boenhet skal ha tilstrekkelig plass for oppbevaring av klær, mat, sykler, barnevogner, sportsutstyr, hagemøbler mv., og skal minst ha
+
+1. oppbevaringsplass for mat og klær
+2. innvending oppbevaringsplass eller bod på minimum 3,0 m2 BRA for boenheter med inntil 2 rom, minimum 3,5 m2 BRA for boenheter med 3 rom og minimum 4,5 m2 BRA for boenheter med 4 rom eller mer
+3. oppbevaringsplass eller bod på minimum 5 m2 BRA for sykler, sportsutstyr, barnevogner m.m.
 
 ## § 9. Longyearbyen lokalstyres myndighet
 
@@ -90,7 +192,11 @@ Vurderingen av om tiltaket er i samsvar med arealbruk og bestemmelser i godkjent
 
 ### 1.2 Lokal tilpasning
 
-Lokal tilpasning kan skje ved krav til dokumentasjon i tilknytning til søknad, utøvelse av fritt skjønn ved saksbehandling eller ved tolkning av regelverket. Eksempler på forhold der det kreves tilleggsdokumentasjon kan trekkes frem her:Ved søknad om tillatelse til tiltak, skal tilleggsskjema om tilknytning til vann, avløp, fjernvarme og elektrisitet fylles ut og sendes inn. Skjemaet finnes på Longyearbyen lokalstyres hjemmesider på internett.Longyearbyen har en fargeplan som skal følges ved nybygg og oppmaling av eksisterende bygg, det vil si at Longyearbyen lokalstyre skal godkjenne alle fargevalg på fasader, tak og detaljering. Kravet er hjemlet i utfyllende bestemmelser til arealplan for Longyearbyen planområde. Søker/tiltakshaver skal bruke Longyearbyen lokalstyres fargekonsulent for fargesetting av nye bygg. Kostnadene for dette dekkes av Longyearbyen lokalstyre. Kontaktinformasjon finnes på Longyearbyen lokalstyres hjemmesider på internett.Ved byggetiltak oppfordres det til energieffektive tiltak. Av hensyn til lokale forhold skal det fremlegges dokumentasjon for at bygget tilfredsstiller kravene i kapittel 14 i Byggteknisk forskrift (TEK 10).
+Lokal tilpasning kan skje ved krav til dokumentasjon i tilknytning til søknad, utøvelse av fritt skjønn ved saksbehandling eller ved tolkning av regelverket. Eksempler på forhold der det kreves tilleggsdokumentasjon kan trekkes frem her:
+
+1. Ved søknad om tillatelse til tiltak, skal tilleggsskjema om tilknytning til vann, avløp, fjernvarme og elektrisitet fylles ut og sendes inn. Skjemaet finnes på Longyearbyen lokalstyres hjemmesider på internett.
+2. Longyearbyen har en fargeplan som skal følges ved nybygg og oppmaling av eksisterende bygg, det vil si at Longyearbyen lokalstyre skal godkjenne alle fargevalg på fasader, tak og detaljering. Kravet er hjemlet i utfyllende bestemmelser til arealplan for Longyearbyen planområde. Søker/tiltakshaver skal bruke Longyearbyen lokalstyres fargekonsulent for fargesetting av nye bygg. Kostnadene for dette dekkes av Longyearbyen lokalstyre. Kontaktinformasjon finnes på Longyearbyen lokalstyres hjemmesider på internett.
+3. Ved byggetiltak oppfordres det til energieffektive tiltak. Av hensyn til lokale forhold skal det fremlegges dokumentasjon for at bygget tilfredsstiller kravene i kapittel 14 i Byggteknisk forskrift (TEK 10).
 
 ### 1.3 Om Longyearbyen planområde og arealplan
 
@@ -272,7 +378,9 @@ Av særlig betydning er § 29-7a tredje ledd. Bestemmelsen gir lokalstyret plikt
 
 ### § 3 Byggesaksforskriftens anvendelse
 
-[Forskrift 26. mars 2010 nr. 488](forskrift/2010-03-26-488) om byggesak (byggesaksforskriften) gjelder med unntak av:Byggesaksforskriften gjelder med unntak av enkelte regler. Herunder omtales enkelte av de bestemmelsene som skal gjelde for Longyearbyen:
+[Forskrift 26. mars 2010 nr. 488](forskrift/2010-03-26-488) om byggesak (byggesaksforskriften) gjelder med unntak av:
+
+Byggesaksforskriften gjelder med unntak av enkelte regler. Herunder omtales enkelte av de bestemmelsene som skal gjelde for Longyearbyen:
 
 *§ 4-1 Tiltak som ikke krever søknad og tillatelse*
 
@@ -292,7 +400,11 @@ Av særlig betydning er § 29-7a tredje ledd. Bestemmelsen gir lokalstyret plikt
 
 TEK [kapittel 2](forskrift/2016-11-15-1329/kap2) (konstruksjonssikkerhet). Fundamentering i permafrost er ikke omtalt i TEK eller NS. Det kan benyttes relevant litteratur fra andre land som grunnlag for beregninger der det ikke er tilsvarende tilgjengelig i Norge. Litteraturen som i dag blir benyttet i Longyearbyen har sin opprinnelse fra Alaska. Det eksisterer tilsvarende for Sibir (Barentsburg).
 
-Aktuell litteratur:Anderland O.B. and Landanyi, B. (1994): An introduction to frozen ground engineering. Chapman & Hall, New YorkInstanes, A. and Instanes, D. (1999): Pile design in saline permafrost at Longyearbyen. Proceedings of the 10th International Conference on Cold Regions Engeneering, Lincoln, NH, USA, August 16-19 1999, pp. 222–231Instanes, B. (2000): Permafrost engineering on Svalbard. Proceedings of the International Conference on Permafrost Engineering, Longyearbyen, Norway, June 18–21 2000, pp. 1–24.
+Aktuell litteratur:
+
+- Anderland O.B. and Landanyi, B. (1994): An introduction to frozen ground engineering. Chapman & Hall, New York
+- Instanes, A. and Instanes, D. (1999): Pile design in saline permafrost at Longyearbyen. Proceedings of the 10th International Conference on Cold Regions Engeneering, Lincoln, NH, USA, August 16-19 1999, pp. 222–231
+- Instanes, B. (2000): Permafrost engineering on Svalbard. Proceedings of the International Conference on Permafrost Engineering, Longyearbyen, Norway, June 18–21 2000, pp. 1–24.
 
 TEK [kapittel 3](forskrift/2016-11-15-1329/kap3) (dokumentasjon av produkter). EØS-avtalen gjelder ikke på Svalbard. Der det er henvist til EØS, råds- eller parlamentsdirektiv, skal dette kun oppfattes som veiledende.
 

@@ -28,7 +28,13 @@ eu_basis: []
 
 ### § 1. Forskriftens virkeområde
 
-Denne forskrift gjelder omsetning til allmennheten av reseptfrie legemidler og reseptpliktige legemidler unntatt reseptplikt, herunder:legemidler omfattet av en liste fastsatt med hjemmel i forskriften [§ 6](forskrift/2003-08-14-1053/§6),legemidler som etter [forskrift om legemidler § 3-15](forskrift/2009-12-18-1839/§3-15) eller [§ 3-16](forskrift/2009-12-18-1839/§3-15) er godkjent av Direktoratet for medisinske produkter som naturlegemiddel eller tradisjonelt plantebasert legemiddel,legemidler med innhold av nikotin til bruk ved røykeavvenning (nikotinholdige legemidler),homøopatiske legemidler som er registrert hos Direktoratet for medisinske produkter i samsvar med [forskrift om legemidler § 3-21](forskrift/2009-12-18-1839/§3-21), [§ 3-22](forskrift/2009-12-18-1839/§3-22), [§ 3-22A](forskrift/2009-12-18-1839/§3-22a), [§ 3-23](forskrift/2009-12-18-1839/§3-23), ogLegemidler unntatt fra kravet om markedsføringstillatelse i henhold til [forskrift om legemidler til dyr § 4-6](forskrift/2022-09-08-1573/§4-6).
+Denne forskrift gjelder omsetning til allmennheten av reseptfrie legemidler og reseptpliktige legemidler unntatt reseptplikt, herunder:
+
+1. legemidler omfattet av en liste fastsatt med hjemmel i forskriften [§ 6](forskrift/2003-08-14-1053/§6),
+2. legemidler som etter [forskrift om legemidler § 3-15](forskrift/2009-12-18-1839/§3-15) eller [§ 3-16](forskrift/2009-12-18-1839/§3-15) er godkjent av Direktoratet for medisinske produkter som naturlegemiddel eller tradisjonelt plantebasert legemiddel,
+3. legemidler med innhold av nikotin til bruk ved røykeavvenning (nikotinholdige legemidler),
+4. homøopatiske legemidler som er registrert hos Direktoratet for medisinske produkter i samsvar med [forskrift om legemidler § 3-21](forskrift/2009-12-18-1839/§3-21), [§ 3-22](forskrift/2009-12-18-1839/§3-22), [§ 3-22A](forskrift/2009-12-18-1839/§3-22a), [§ 3-23](forskrift/2009-12-18-1839/§3-23), og
+5. Legemidler unntatt fra kravet om markedsføringstillatelse i henhold til [forskrift om legemidler til dyr § 4-6](forskrift/2022-09-08-1573/§4-6).
 
 Direktoratet for medisinske produkter kan dersom hensynet til folkehelsen eller dyrehelsen tilsier det bestemme at legemidler som omfattes av første ledd bokstav b) og d) ikke kan omsettes i henhold til denne forskriften. Direktoratet for medisinske produkter offentliggjør liste over disse legemidlene.
 
@@ -72,7 +78,12 @@ Utsalgsstedet skal etablere internkontroll for legemiddelomsetningen og må kunn
 
 Direktoratet for medisinske produkter fastsetter hvilke legemidler, utover de som er nevnt i [§ 1](forskrift/2003-08-14-1053/§1) første ledd bokstav b, c, d og e, som kan omsettes etter denne forskriften, og offentliggjør lister over disse.
 
-I vurderingen etter første ledd skal det tas hensyn til om det er særlig behov for enkel tilgang til veiledning fra farmasøyt, herunder om:den enkelte forbruker har tilstrekkelig mulighet til selv å diagnostisere symptomer og tilstand og vurdere indikasjon for behandling, terapeutisk effekt og sikkerhet,informasjon om bruk og sikkerhet er lett tilgjengelig på pakningen og i pakningsvedlegget,opplysningene på pakning og pakningsvedlegg må anses tilstrekkelige for sikker bruk,legemidlets kontraindikasjoner (når legemidlet ikke må brukes) er omfattende eller kompliserte.
+I vurderingen etter første ledd skal det tas hensyn til om det er særlig behov for enkel tilgang til veiledning fra farmasøyt, herunder om:
+
+1. den enkelte forbruker har tilstrekkelig mulighet til selv å diagnostisere symptomer og tilstand og vurdere indikasjon for behandling, terapeutisk effekt og sikkerhet,
+2. informasjon om bruk og sikkerhet er lett tilgjengelig på pakningen og i pakningsvedlegget,
+3. opplysningene på pakning og pakningsvedlegg må anses tilstrekkelige for sikker bruk,
+4. legemidlets kontraindikasjoner (når legemidlet ikke må brukes) er omfattende eller kompliserte.
 
 Det skal også tas hensyn til hvor stor faren er for overforbruk eller misbruk av det enkelte legemiddel.
 
@@ -114,7 +125,11 @@ Direktoratet for medisinske produkter kan fastsette at forhandlere av legemidler
 
 Legemidler som i henhold til [§ 1](forskrift/2003-08-14-1053/§1) kan omsettes etter denne forskriften, skal oppbevares bak disk, i avlåst skap eller på annen måte fysisk utilgjengelig for utsalgsstedets kunder. Legemidlene skal bare selges etter forespørsel fra kunden og utleveres av utsalgsstedets betjening. Automatisert utlevering og annen utlevering etter at kunden har levert et substitutt for legemidlet til betjeningen, sidestilles med utlevering fra betjeningen i den grad de samme kontrolloppgavene ivaretas tilfredsstillende.
 
-Direktoratet for medisinske produkter fastsetter liste over legemidler som kan plasseres i selvvalg på utsalgsstedet. Disse legemidlene skal på utsalgsstedet:plasseres på en slik måte at de er adskilt fra andre varer på utsalgsstedet ogplasseres slik at de ikke er tilgjengelig for mindreårige ogplasseres slik at de er under oppsyn av utsalgsstedets betjening.
+Direktoratet for medisinske produkter fastsetter liste over legemidler som kan plasseres i selvvalg på utsalgsstedet. Disse legemidlene skal på utsalgsstedet:
+
+1. plasseres på en slik måte at de er adskilt fra andre varer på utsalgsstedet og
+2. plasseres slik at de ikke er tilgjengelig for mindreårige og
+3. plasseres slik at de er under oppsyn av utsalgsstedets betjening.
 
 Ved vurderingen av hvilke legemidler som kan føres opp på listen som nevnt i andre ledd legges vekt på om legemidlene kan misbrukes eller om det av andre grunner bør føres særskilt tilsyn med legemidlene.
 
@@ -124,9 +139,17 @@ Ved vurderingen av hvilke legemidler som kan føres opp på listen som nevnt i a
 
 Med salg av legemidler over Internett menes i denne forskrift salg av legemidler når avtale om kjøp formidles elektronisk og inngås uten at kunden er fysisk tilstede i utsalgsstedet.
 
-Utsalgssted som selger legemidler over Internett, plikter å gi Direktoratet for medisinske produkter oppdaterte opplysninger om følgende:adressen til det stedet som legemidlene skal utleveres fra,tidspunktet for når salg av legemidler over Internett påbegynnes, ogadressen til det nettstedet som skal benyttes og andre relevante opplysninger som er nødvendige for å kunne identifisere nettstedet.
+Utsalgssted som selger legemidler over Internett, plikter å gi Direktoratet for medisinske produkter oppdaterte opplysninger om følgende:
 
-Nettstedet skal inneholde følgende:en logo, fastsatt av Direktoratet for medisinske produkter, på hver side i nettstedet, som identifiserer hvor selgeren av legemidlene er etablert,en lenke til Direktoratet for medisinske produkters informasjonsside på Internett om salg av legemidler over Internett, ogen lenke fra logo som nevnt i bokstav a), til Direktoratet for medisinske produkters elektroniske liste over aktører som har tillatelse til å selge legemidler over Internett.
+1. adressen til det stedet som legemidlene skal utleveres fra,
+2. tidspunktet for når salg av legemidler over Internett påbegynnes, og
+3. adressen til det nettstedet som skal benyttes og andre relevante opplysninger som er nødvendige for å kunne identifisere nettstedet.
+
+Nettstedet skal inneholde følgende:
+
+1. en logo, fastsatt av Direktoratet for medisinske produkter, på hver side i nettstedet, som identifiserer hvor selgeren av legemidlene er etablert,
+2. en lenke til Direktoratet for medisinske produkters informasjonsside på Internett om salg av legemidler over Internett, og
+3. en lenke fra logo som nevnt i bokstav a), til Direktoratet for medisinske produkters elektroniske liste over aktører som har tillatelse til å selge legemidler over Internett.
 
 > Tilføyd ved [forskrift 17 des 2015 nr. 1708](forskrift/2015-12-17-1708) (i kraft 1 jan 2016), endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -150,7 +173,10 @@ Annet og tredje ledd gjelder ikke for naturlegemidler og tradisjonelle plantebas
 
 ### § 12. Veiledning og informasjon
 
-Utsalgsstedets personale skal ikke gi muntlig informasjon om valg av legemiddel eller om legemidlenes egenskaper og bruk. Ved behov for veiledning om bruk av legemidlene eller valg mellom disse skal kunden henvises til:lege eller apotek,veiledningen på legemidlets pakning eller i pakningsvedlegget.
+Utsalgsstedets personale skal ikke gi muntlig informasjon om valg av legemiddel eller om legemidlenes egenskaper og bruk. Ved behov for veiledning om bruk av legemidlene eller valg mellom disse skal kunden henvises til:
+
+1. lege eller apotek,
+2. veiledningen på legemidlets pakning eller i pakningsvedlegget.
 
 Direktoratet for medisinske produkter kan etter søknad tillate at farmasøyt veileder utsalgets kunder om legemidlene.
 
@@ -202,7 +228,11 @@ Direktoratet for medisinske produkter og Mattilsynet fører tilsyn med omsetning
 
 ### § 19. Forvaltningsmessige sanksjoner
 
-Ved brudd på forskriftens bestemmelser kan tilsynsorganene:gi advarsel,gi pålegg om retting,nedlegge midlertidig forbud mot omsetning.
+Ved brudd på forskriftens bestemmelser kan tilsynsorganene:
+
+1. gi advarsel,
+2. gi pålegg om retting,
+3. nedlegge midlertidig forbud mot omsetning.
 
 Direktoratet for medisinske produkter kan ilegge tvangsmulkt etter [legemiddelloven § 28](lov/1992-12-04-132/§28) dersom pålegg om retting ikke overholdes.
 

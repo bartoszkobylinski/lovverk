@@ -26,7 +26,11 @@ eu_basis: []
 
 Begjæring om registrering som gruppemedlem i et gruppesøksmål etter [tvisteloven § 35-6](lov/2005-06-17-90/§35-6), settes fram for den domstolen som behandler gruppesøksmålet.
 
-Begjæringen kan være skriftlig eller muntlig. Muntlig begjæring inngis ved personlig oppmøte i den domstolen som behandler gruppesøksmålet. Begjæringen må angi de opplysningene som er nødvendig for å avgjøre om vilkårene for registrering som gruppemedlemmer er oppfylt:søkerens navn, adresse og person- eller organisasjonsnummergruppesøksmålet begjæringen gjelder ogdet krav som gjøres gjeldende, og det faktiske grunnlaget for kravet.
+Begjæringen kan være skriftlig eller muntlig. Muntlig begjæring inngis ved personlig oppmøte i den domstolen som behandler gruppesøksmålet. Begjæringen må angi de opplysningene som er nødvendig for å avgjøre om vilkårene for registrering som gruppemedlemmer er oppfylt:
+
+1. søkerens navn, adresse og person- eller organisasjonsnummer
+2. gruppesøksmålet begjæringen gjelder og
+3. det krav som gjøres gjeldende, og det faktiske grunnlaget for kravet.
 
 ## § 2. Grupperegisteret
 

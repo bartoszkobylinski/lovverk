@@ -15,7 +15,7 @@ xml_hash: "5b29ec77263f82660c08841a552b84de349629d7131170f30e5f53c9aa5344f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32002L0022"
@@ -29,7 +29,20 @@ eu_basis:
 
 ### § 1-1. Definisjoner
 
-I denne lov menes med:*Kringkasting:* utsending av tale, musikk, bilder og liknende via elektroniske kommunikasjonsnett, ment eller egnet til å ses eller høres direkte og samtidig av allmennheten.*Lokalkringkasting:* kringkasting innenfor geografisk avgrensede områder.*Fjernsyn:* tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som er ment eller egnet til å ses direkte og samtidig på grunnlag av en programoversikt og som distribueres til allmennheten via elektroniske kommunikasjonsnett.*Audiovisuelle bestillingstjenester:* tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som kan ses på et tidspunkt seeren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett.*Bildeprogrammer:* et sett av levende bilder med eller uten lyd som utgjør ett enkelt innslag.*Tjenestetilbyder/kringkaster:* fysisk eller juridisk person som i ervervsvirksomhet utøver effektiv redaksjonell kontroll med utvelgelsen og organiseringen av lyd- eller bildeprogrammene.*Reklame:* enhver form for markedsføring av en vare, tjeneste, sak eller idé mot betaling eller annen form for godtgjøring. Med reklame menes også innslag i fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformtjenester som har til formål å fremme tjenestetilbyderens egen virksomhet.*Sponsing:* ethvert bidrag som gis til finansiering av radio, fjernsyn, audiovisuelle bestillingstjenester, videodelingsplattformtjenester, programmer eller brukergenererte videoer fra en fysisk eller juridisk person som ikke selv tilbyr eller produserer disse tjenestene, programmene eller brukergenererte videoene, med sikte på å fremme sponsors navn, varemerke, omdømme, virksomhet, produkt eller tjeneste.*Produktplassering:* å direkte eller indirekte fremme varer, tjenester eller omdømmet til en fysisk eller juridisk person ved å la en vare, en tjeneste eller et varemerke inngå i et program eller en brukergenerert video mot betaling eller liknende vederlag, eller mot slikt vederlag vise til en vare, en tjeneste eller et varemerke i et program eller en brukergenerert video. Gratis levering av varer eller tjenester som ikke har en betydelig verdi, regnes ikke som produktplassering.*Videodelingsplattformtjeneste:* tjeneste eller atskilt del av en tjeneste der hovedformålet eller en vesentlig funksjon er å tilby bildeprogrammer eller brukergenererte videoer som tilbyderen organiserer, men ikke har redaksjonell kontroll over, og som distribueres til allmennheten via elektroniske kommunikasjonsnett.*Tilbyder av videodelingsplattform:* fysisk eller juridisk person som i ervervsvirksomhet tilbyr en videodelingsplattformtjeneste.*Brukergenerert video:* levende bilder med eller uten lyd som utgjør ett enkelt innslag, uansett lengde, og som skapes av en bruker og lastes opp på en videodelingsplattformtjeneste av denne brukeren eller en annen bruker.
+I denne lov menes med:
+
+1. *Kringkasting:* utsending av tale, musikk, bilder og liknende via elektroniske kommunikasjonsnett, ment eller egnet til å ses eller høres direkte og samtidig av allmennheten.
+2. *Lokalkringkasting:* kringkasting innenfor geografisk avgrensede områder.
+3. *Fjernsyn:* tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som er ment eller egnet til å ses direkte og samtidig på grunnlag av en programoversikt og som distribueres til allmennheten via elektroniske kommunikasjonsnett.
+4. *Audiovisuelle bestillingstjenester:* tjeneste som tilbys av en tjenestetilbyder hvor hovedformålet er å tilby bildeprogrammer som kan ses på et tidspunkt seeren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett.
+5. *Bildeprogrammer:* et sett av levende bilder med eller uten lyd som utgjør ett enkelt innslag.
+6. *Tjenestetilbyder/kringkaster:* fysisk eller juridisk person som i ervervsvirksomhet utøver effektiv redaksjonell kontroll med utvelgelsen og organiseringen av lyd- eller bildeprogrammene.
+7. *Reklame:* enhver form for markedsføring av en vare, tjeneste, sak eller idé mot betaling eller annen form for godtgjøring. Med reklame menes også innslag i fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformtjenester som har til formål å fremme tjenestetilbyderens egen virksomhet.
+8. *Sponsing:* ethvert bidrag som gis til finansiering av radio, fjernsyn, audiovisuelle bestillingstjenester, videodelingsplattformtjenester, programmer eller brukergenererte videoer fra en fysisk eller juridisk person som ikke selv tilbyr eller produserer disse tjenestene, programmene eller brukergenererte videoene, med sikte på å fremme sponsors navn, varemerke, omdømme, virksomhet, produkt eller tjeneste.
+9. *Produktplassering:* å direkte eller indirekte fremme varer, tjenester eller omdømmet til en fysisk eller juridisk person ved å la en vare, en tjeneste eller et varemerke inngå i et program eller en brukergenerert video mot betaling eller liknende vederlag, eller mot slikt vederlag vise til en vare, en tjeneste eller et varemerke i et program eller en brukergenerert video. Gratis levering av varer eller tjenester som ikke har en betydelig verdi, regnes ikke som produktplassering.
+10. *Videodelingsplattformtjeneste:* tjeneste eller atskilt del av en tjeneste der hovedformålet eller en vesentlig funksjon er å tilby bildeprogrammer eller brukergenererte videoer som tilbyderen organiserer, men ikke har redaksjonell kontroll over, og som distribueres til allmennheten via elektroniske kommunikasjonsnett.
+11. *Tilbyder av videodelingsplattform:* fysisk eller juridisk person som i ervervsvirksomhet tilbyr en videodelingsplattformtjeneste.
+12. *Brukergenerert video:* levende bilder med eller uten lyd som utgjør ett enkelt innslag, uansett lengde, og som skapes av en bruker og lastes opp på en videodelingsplattformtjeneste av denne brukeren eller en annen bruker.
 
 Kongen avgjør tvilstilfelle etter denne paragrafen. Kongen eller den Kongen bemyndiger kan i særlige tilfeller helt eller delvis unnta en tjeneste fra loven.
 
@@ -155,7 +168,14 @@ Medietilsynet kan innhente skriftlig bekreftelse fra kringkaster eller tilbyder 
 
 Medietilsynet eller Medieklagenemnda kan fatte vedtak etter første ledd annet punktum med midlertidig virkning dersom det er rimelig grunn til å anta at det foreligger brudd på bestemmelser som Medietilsynet fører tilsyn med etter [markedsføringsloven § 47](lov/2009-01-09-2/§47), og det foreligger en risiko for alvorlig skade på forbrukernes interesser. Tiltaket skal være proporsjonalt og ikke gå lenger enn det som er nødvendig for å nå målet om å stanse overtredelsen. Et vedtak med midlertidig virkning skal gjelde for en bestemt tid som ikke kan overstige tre uker fra virkningstidspunktet. Vedtaket kan fornyes dersom vilkårene i dette ledd er oppfylt.
 
-Dersom en overtredelse av bestemmelser som Medietilsynet fører tilsyn med etter [markedsføringsloven § 47](lov/2009-01-09-2/§47) første ledd, medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Medietilsynet påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Medietilsynet.Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, saksøktes interesser samt mulighetene for mindre inngripende tiltak.
+Dersom en overtredelse av bestemmelser som Medietilsynet fører tilsyn med etter [markedsføringsloven § 47](lov/2009-01-09-2/§47) første ledd, medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Medietilsynet pålegge
+
+1. en vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,
+2. en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,
+3. en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,
+4. en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Medietilsynet.
+
+Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, saksøktes interesser samt mulighetene for mindre inngripende tiltak.
 
 Ved pålegg etter tredje ledd gjelder [markedsføringsloven §§ 43 a](lov/2009-01-09-2/§43a) til [43 c](lov/2009-01-09-2/§43c) tilsvarende.
 
@@ -199,7 +219,10 @@ I saker av prinsipiell eller stor samfunnsmessig betydning kan Kongen i statsrå
 
 ### § 2-16. Identifikasjon av tilbydere av fjernsyn og audiovisuelle bestillingstjenester
 
-Tilbydere av fjernsyn og audiovisuelle bestillingstjenester skal til enhver tid sørge for at seerne på en enkel og direkte måte har tilgang til opplysninger om:navn, gateadresse, postadresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyterenat tjenestetilbyderen er underlagt norsk jurisdiksjon og relevante reguleringsmyndigheter eller tilsynsorganer på det audiovisuelle området.
+Tilbydere av fjernsyn og audiovisuelle bestillingstjenester skal til enhver tid sørge for at seerne på en enkel og direkte måte har tilgang til opplysninger om:
+
+1. navn, gateadresse, postadresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren
+2. at tjenestetilbyderen er underlagt norsk jurisdiksjon og relevante reguleringsmyndigheter eller tilsynsorganer på det audiovisuelle området.
 
 Kongen kan gi nærmere forskrifter om kravene til identifikasjon.
 
@@ -207,7 +230,12 @@ Kongen kan gi nærmere forskrifter om kravene til identifikasjon.
 
 ### § 2-17. Anmodning om å følge nasjonal rett i andre EØS-land
 
-Medietilsynet skal anmode fjernsynsselskap som faller inn under norsk jurisdiksjon om å følge regler fastsatt i medhold av EØS-avtalen vedlegg XI nr. 5p (direktiv [2010/13/EU](eu/32010l0013*)) om samordning av visse bestemmelser om innføring av audiovisuelle medietjenester, fastsatt ved lov eller forskrift i medlemsstatene og som er strengere eller mer detaljerte enn tilsvarende norske regler dersom:det er innkommet en begrunnet anmodning om dette fra relevante myndigheter i et annet EØS-land,reglene er fastsatt i samsvar med allmennhetens interesse,sendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land, ogandre norske regler fastsatt i lov eller forskrift ikke er til hinder for å følge regelverket i vedkommende EØS-land.
+Medietilsynet skal anmode fjernsynsselskap som faller inn under norsk jurisdiksjon om å følge regler fastsatt i medhold av EØS-avtalen vedlegg XI nr. 5p (direktiv [2010/13/EU](eu/32010l0013*)) om samordning av visse bestemmelser om innføring av audiovisuelle medietjenester, fastsatt ved lov eller forskrift i medlemsstatene og som er strengere eller mer detaljerte enn tilsvarende norske regler dersom:
+
+1. det er innkommet en begrunnet anmodning om dette fra relevante myndigheter i et annet EØS-land,
+2. reglene er fastsatt i samsvar med allmennhetens interesse,
+3. sendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land, og
+4. andre norske regler fastsatt i lov eller forskrift ikke er til hinder for å følge regelverket i vedkommende EØS-land.
 
 Ved vurderingen av om sendingen er helt eller hovedsakelig rettet mot vedkommende EØS-land etter første ledd bokstav c skal det legges vekt på sendingens språk, hvor reklame- og abonnementsinntekter hovedsakelig kommer fra og om det finnes programmer eller reklamesendinger spesifikt rettet mot seere i vedkommende EØS-land.
 
@@ -271,7 +299,11 @@ Det kan ikke sendes reklameinnslag i tilknytning til barneprogram eller reklamei
 
 Kringkastere kan ikke sende reklame for livssyn eller politiske budskap i fjernsyn. Dette gjelder også tekstfjernsyn.
 
-Kongen kan gi forskrift omutsending av, innholdet i, omfanget av og tilsynet med reklamesendingervarigheten av meldinger fra kringkastere i forbindelse med egne programmer og tilleggsprodukter direkte avledet av disse programmene, meldinger om offentlige tjenester og vederlagsfrie innslag om veldedige formålforbud mot å avbryte program for å sende andre meldinger eller utdrag av andre program.
+Kongen kan gi forskrift om
+
+1. utsending av, innholdet i, omfanget av og tilsynet med reklamesendinger
+2. varigheten av meldinger fra kringkastere i forbindelse med egne programmer og tilleggsprodukter direkte avledet av disse programmene, meldinger om offentlige tjenester og vederlagsfrie innslag om veldedige formål
+3. forbud mot å avbryte program for å sende andre meldinger eller utdrag av andre program.
 
 > Endret ved [lover 17 des 1993 nr. 126](lov/1993-12-17-126), [25 juni 1999 nr. 51](lov/1999-06-25-51) (ikr. 1 juli 1999 iflg. [res. 25 juni 1999 nr. 704](forskrift/1999-06-25-704)), [14 jan 2000 nr. 5](lov/2000-01-14-5) (ikr. 20 jan 2000 iflg. [res. 14 jan 2000 nr. 30](forskrift/2000-01-14-30)), [14 des 2012 nr. 91](lov/2012-12-14-91) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1245](forskrift/2012-12-14-1245)), [6 feb 2015 nr. 7](lov/2015-02-06-7) (ikr. 1 juli 2015 iflg. [res. 12 juni 2015 nr. 633](forskrift/2015-06-12-633)), [16 juni 2017 nr. 68](lov/2017-06-16-68) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 765](forskrift/2017-06-16-765)), [21 juni 2019 nr. 58](lov/2019-06-21-58) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 812](forskrift/2019-06-21-812)), [20 des 2019 nr. 110](lov/2019-12-20-110) (ikr. 1 jan 2020).
 
@@ -327,7 +359,14 @@ Kongen kan gi forskrift om produktplassering.
 
 ### § 3-7. Krav til programmer som inneholder produktplassering
 
-Programmer som inneholder produktplassering, skal oppfylle følgende krav:Programmets innhold og organisering i en programoversikt ved kringkasting eller i en katalog ved audiovisuelle bestillingstjenester skal ikke under noen omstendigheter påvirkes på en slik måte at det innvirker på ansvaret og den redaksjonelle uavhengigheten til kringkasteren eller tjenestetilbyderen.Produktplasseringen skal ikke direkte oppfordre til kjøp eller leie av varer eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike varer eller tjenester.Produktplassering skal ikke gi vedkommende vare eller tjeneste en unødig fremtredende rolle.For å unngå at publikum villedes skal programmer som inneholder produktplassering identifiseres på en tydelig og nøytral måte ved begynnelsen og slutten av programmet, samt når programmet fortsetter etter et reklameavbrudd.Programmer som er produsert eller bestilt av tjenestetilbydere underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering av produkter eller tjenester som er av særlig interesse for barn eller av våpen, modeller av våpen eller leketøysutgaver av våpen.Programmer som er produsert eller bestilt av kringkastingsforetak underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering finansiert av politiske partiorganisasjoner.
+Programmer som inneholder produktplassering, skal oppfylle følgende krav:
+
+1. Programmets innhold og organisering i en programoversikt ved kringkasting eller i en katalog ved audiovisuelle bestillingstjenester skal ikke under noen omstendigheter påvirkes på en slik måte at det innvirker på ansvaret og den redaksjonelle uavhengigheten til kringkasteren eller tjenestetilbyderen.
+2. Produktplasseringen skal ikke direkte oppfordre til kjøp eller leie av varer eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike varer eller tjenester.
+3. Produktplassering skal ikke gi vedkommende vare eller tjeneste en unødig fremtredende rolle.
+4. For å unngå at publikum villedes skal programmer som inneholder produktplassering identifiseres på en tydelig og nøytral måte ved begynnelsen og slutten av programmet, samt når programmet fortsetter etter et reklameavbrudd.
+5. Programmer som er produsert eller bestilt av tjenestetilbydere underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering av produkter eller tjenester som er av særlig interesse for barn eller av våpen, modeller av våpen eller leketøysutgaver av våpen.
+6. Programmer som er produsert eller bestilt av kringkastingsforetak underlagt norsk jurisdiksjon eller tilknyttede foretak, kan ikke inneholde produktplassering finansiert av politiske partiorganisasjoner.
 
 Kravet i bokstav d gjelder ikke for programmer som verken er produsert eller bestilt av tjenestetilbyderen eller tilknyttede foretak.
 
@@ -381,7 +420,12 @@ Kongen kan i forskrift gi regler om fremgangsmåte m.v. ved valg av kringkasting
 
 ### § 4-5. Pålegg om å midlertidig hindre eller vanskeliggjøre tilgang til skadelig eller ulovlig innhold mv.
 
-Medietilsynet kan gi pålegg om å midlertidig hindre eller vanskeliggjøre tilgangen til utenlandske fjernsynskanaler som:sender reklame i strid med norsk lovsender innhold som kan være skadelig eller alvorlig skadelig for mindreårige, med mindre det ved valg av sendetid eller ved egnede tekniske tiltak har blitt sørget for at mindreårige beskyttes mot slikt innholdsender program som norsk rett har funnet stridende mot [straffeloven](lov/2005-05-20-28) [§ 185](lov/2005-05-20-28/§185)er etablert i en annen EØS-stat for å omgå bestemmelser som ellers ville fått anvendelse dersom fjernsynsselskapet hadde vært etablert i Norge.
+Medietilsynet kan gi pålegg om å midlertidig hindre eller vanskeliggjøre tilgangen til utenlandske fjernsynskanaler som:
+
+1. sender reklame i strid med norsk lov
+2. sender innhold som kan være skadelig eller alvorlig skadelig for mindreårige, med mindre det ved valg av sendetid eller ved egnede tekniske tiltak har blitt sørget for at mindreårige beskyttes mot slikt innhold
+3. sender program som norsk rett har funnet stridende mot [straffeloven](lov/2005-05-20-28) [§ 185](lov/2005-05-20-28/§185)
+4. er etablert i en annen EØS-stat for å omgå bestemmelser som ellers ville fått anvendelse dersom fjernsynsselskapet hadde vært etablert i Norge.
 
 Første ledd bokstav a gjelder ikke for fjernsynskanaler som tilbys av tjenestetilbydere som er etablert i andre EØS-stater eller stater som har ratifisert Europarådets konvensjon om fjernsyn over landegrensene. Bestemmelsen gjelder likevel for fjernsynskanaler som tilbys av tjenestetilbydere som er etablert utenfor EØS-området og som har ratifisert Europarådets konvensjon om fjernsyn over landegrensene dersom kanalen sender reklame som er særskilt og jevnlig rettet mot norske seere.
 
@@ -475,7 +519,14 @@ Kongen kan gi forskrift om reklame, sponsing og produktplassering som markedsfø
 
 ### § 5 A-6. Reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbydere av videodelingsplattformer
 
-Tilbydere av videodelingsplattformer skal treffe hensiktsmessige tiltak for å sikre at reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbyderne, og som inngår i eller følger med bildeprogrammer eller brukergenererte videoer, oppfyller kravene i:[§ 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1) og [§§ 3-3](lov/1992-12-04-127/§3-3), [3-4](lov/1992-12-04-127/§3-4), [3-6](lov/1992-12-04-127/§3-6) og [3-7](lov/1992-12-04-127/§3-7) i loven her[markedsføringsloven § 2](lov/2009-01-09-2/§2)[alkoholloven §§ 9-1](lov/1989-06-02-27/§9-1) og [9-2](lov/1989-06-02-27/§9-2) og forskrifter fastsatt i medhold av disse paragrafene[tobakksskadeloven §§ 22](lov/1973-03-09-14/§22) og [23](lov/2010-05-28-16/§23) og forskrifter fastsatt i medhold av disse paragrafene[pengespilloven § 6](lov/2022-03-18-12/§6)forskrifter fastsatt i medhold av [legemiddelloven § 19 andre ledd](lov/1992-12-04-132/§19/ledd/2).
+Tilbydere av videodelingsplattformer skal treffe hensiktsmessige tiltak for å sikre at reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbyderne, og som inngår i eller følger med bildeprogrammer eller brukergenererte videoer, oppfyller kravene i:
+
+1. [§ 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1) og [§§ 3-3](lov/1992-12-04-127/§3-3), [3-4](lov/1992-12-04-127/§3-4), [3-6](lov/1992-12-04-127/§3-6) og [3-7](lov/1992-12-04-127/§3-7) i loven her
+2. [markedsføringsloven § 2](lov/2009-01-09-2/§2)
+3. [alkoholloven §§ 9-1](lov/1989-06-02-27/§9-1) og [9-2](lov/1989-06-02-27/§9-2) og forskrifter fastsatt i medhold av disse paragrafene
+4. [tobakksskadeloven §§ 22](lov/1973-03-09-14/§22) og [23](lov/2010-05-28-16/§23) og forskrifter fastsatt i medhold av disse paragrafene
+5. [pengespilloven § 6](lov/2022-03-18-12/§6)
+6. forskrifter fastsatt i medhold av [legemiddelloven § 19 andre ledd](lov/1992-12-04-132/§19/ledd/2).
 
 Kongen kan gi forskrift om reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbydere av videodelingsplattformer.
 

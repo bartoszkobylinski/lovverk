@@ -38,7 +38,11 @@ Tiltaksdeltakeren og arbeidsgiver skal få individuelt tilpasset oppfølging fra
 
 ## § 4. Personkrets
 
-Tilskudd kan gis til arbeidsgivere som ansetter personer somikke har fylt 30 år ved tildelingen av tiltaket,som har nedsatt arbeidsevne eller varig nedsatt arbeidsevne på grunn av helsemessige eller sosial grunner,og som har utfordringer med å få ordinært arbeid uten tilskudd fra Arbeids- og velferdsetaten.
+Tilskudd kan gis til arbeidsgivere som ansetter personer som
+
+1. ikke har fylt 30 år ved tildelingen av tiltaket,
+2. som har nedsatt arbeidsevne eller varig nedsatt arbeidsevne på grunn av helsemessige eller sosial grunner,
+3. og som har utfordringer med å få ordinært arbeid uten tilskudd fra Arbeids- og velferdsetaten.
 
 Arbeids- og velferdsetaten må gjennomføre en behovs- og arbeidsevnevurdering etter [Nav-loven § 14a](lov/2006-06-16-20/§14a), før fireårig lønnstilskudd kan innvilges.
 

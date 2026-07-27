@@ -32,7 +32,13 @@ Innsamling og behandling av helseopplysninger i Medisinsk fødselsregister kan s
 
 ### § 1-2. (Innholdet i Medisinsk fødselsregister)
 
-Medisinsk fødselsregister inneholder personidentifiserende opplysninger om:alle fødte i Norge og deres foreldre. Med fødte menes i denne forskriften alle som er født etter avsluttede svangerskap etter 22 fullgåtte svangerskapsuker, dvs. etter 154 dager,kvinner som har spontanabortert etter 12 fullgåtte svangerskapsuker, dvs. etter 84 dager,kvinner hvor svangerskapet etter utgangen av 18. svangerskapsuke er avbrutt som følge av sannsynlighet for at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet, eller kort tid etter fødsel, jf. [abortloven § 3 andre ledd bokstav c](lov/2024-12-20-96/§3/ledd/2/bokstav/c),kvinner hvor svangerskapet etter utgangen av 18. svangerskapsuke er avbrutt fordi medisinske forhold ved fosteret, eventuelt i kombinasjon med forhold ved den gravide eller den gravides livssituasjon, gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende, jf. [abortloven § 3 andre ledd bokstav d](lov/2024-12-20-96/§3/ledd/2/bokstav/d),kvinner hvor svangerskapet er avbrutt fordi det har ført til akutt og alvorlig fare for den gravides liv eller helse, jf. [abortloven § 5](lov/2024-12-20-96/§5).
+Medisinsk fødselsregister inneholder personidentifiserende opplysninger om:
+
+1. alle fødte i Norge og deres foreldre. Med fødte menes i denne forskriften alle som er født etter avsluttede svangerskap etter 22 fullgåtte svangerskapsuker, dvs. etter 154 dager,
+2. kvinner som har spontanabortert etter 12 fullgåtte svangerskapsuker, dvs. etter 84 dager,
+3. kvinner hvor svangerskapet etter utgangen av 18. svangerskapsuke er avbrutt som følge av sannsynlighet for at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet, eller kort tid etter fødsel, jf. [abortloven § 3 andre ledd bokstav c](lov/2024-12-20-96/§3/ledd/2/bokstav/c),
+4. kvinner hvor svangerskapet etter utgangen av 18. svangerskapsuke er avbrutt fordi medisinske forhold ved fosteret, eventuelt i kombinasjon med forhold ved den gravide eller den gravides livssituasjon, gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende, jf. [abortloven § 3 andre ledd bokstav d](lov/2024-12-20-96/§3/ledd/2/bokstav/d),
+5. kvinner hvor svangerskapet er avbrutt fordi det har ført til akutt og alvorlig fare for den gravides liv eller helse, jf. [abortloven § 5](lov/2024-12-20-96/§5).
 
 Direkte personidentifiserende opplysninger om kvinnen hvor svangerskapet er avbrutt etter første ledd nr. 3 og 4, kan bare registreres permanent, dersom kvinnen ikke motsetter seg det. Direkte personidentifiserende opplysninger kan oppbevares midlertidig slik at opplysningene kan kvalitetssikres, og mulige flerregistreringer av samme abort kan avdekkes.
 
@@ -48,7 +54,17 @@ Med avidentifiserte opplysninger forstås i denne forskriften helseopplysninger 
 
 ### § 1-3. (Registerets formål)
 
-Formålet med Medisinsk fødselsregister er åinnsamle og innenfor forskriftens rammer behandle data om fødsler og avsluttede svangerskap i Norge for å overvåke hyppighet av og studere årsaksforhold ved:sykdom og dødsfall blant kvinner i forbindelse med svangerskap, fødsel og i barselperioden,svangerskap og fødsel som kan tenkes å medføre at barn kan bli særlig utsatt for å utvikle fysiske eller psykiske defekter eller funksjonshemninger,avvikende fødselsvekt, lidelser, misdannelser og skader blant fødte og barn under ett år,fosterdød og dødsfall blant barn under ett år,drive, fremme og gi grunnlag for forskning med sikte på å bedre kvaliteten innen svangerskapsomsorg, fødselshjelp og nyfødtomsorg ved identifisering og overvåking av kvalitetsindikatorer,gi faglig grunnlag for råd om helsehjelp mot fosterdød og dødsfall blant barn under ett år og andre forhold som nevnt under punkt 1,gi faglig grunnlag for råd og informasjon til øvrig forvaltning og befolkningen om tiltak som kan forebygge forhold som nevnt i punkt 1.
+Formålet med Medisinsk fødselsregister er å
+
+1. innsamle og innenfor forskriftens rammer behandle data om fødsler og avsluttede svangerskap i Norge for å overvåke hyppighet av og studere årsaksforhold ved:
+
+   - sykdom og dødsfall blant kvinner i forbindelse med svangerskap, fødsel og i barselperioden,
+   - svangerskap og fødsel som kan tenkes å medføre at barn kan bli særlig utsatt for å utvikle fysiske eller psykiske defekter eller funksjonshemninger,
+   - avvikende fødselsvekt, lidelser, misdannelser og skader blant fødte og barn under ett år,
+   - fosterdød og dødsfall blant barn under ett år,
+2. drive, fremme og gi grunnlag for forskning med sikte på å bedre kvaliteten innen svangerskapsomsorg, fødselshjelp og nyfødtomsorg ved identifisering og overvåking av kvalitetsindikatorer,
+3. gi faglig grunnlag for råd om helsehjelp mot fosterdød og dødsfall blant barn under ett år og andre forhold som nevnt under punkt 1,
+4. gi faglig grunnlag for råd og informasjon til øvrig forvaltning og befolkningen om tiltak som kan forebygge forhold som nevnt i punkt 1.
 
 Medisinsk fødselsregister skal også bidra til kunnskap om årsaker til abort etter 18 fullgåtte svangerskapsuker ved utviklingsavvik hos fosteret.
 
@@ -76,25 +92,95 @@ Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsam
 
 ### § 1-7. (Opplysninger i Medisinsk fødselsregister om moren)
 
-Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om moren til den fødte, samt om kvinner som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2) og [5](forskrift/2001-12-21-1483/§1-2/ledd/5) i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand,eventuelt slektskap mellom barnets foreldre,administrative opplysninger:institusjon/virksomhet,inn- og utskrivingsdato,andre relevante administrative data,medisinske opplysninger om:tidligere svangerskap,siste menstruasjons første blødningsdag,ultralyd og annen prenatal diagnostikk,relevante funn ved prenatal diagnostikk,bruk av kosttilskudd, legemidler, eventuell annen medisinsk eller kirurgisk behandling under svangerskapet,spesielle helseforhold før svangerskapet,spesielle helseforhold under svangerskapet,opplysninger om fødselen:type fødsel, tidspunkt for fødselens start,inngrep og behandling under fødselen,forhold ved fostervann, navlesnor og placenta,eventuelle komplikasjoner.
+Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om moren til den fødte, samt om kvinner som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2) og [5](forskrift/2001-12-21-1483/§1-2/ledd/5) i den utstrekning det er nødvendig for å nå formålet med registeret:
 
-Medisinsk fødselsregister kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde opplysninger om kvinnensyrkesmessige forhold,røykevaner,bruk av alkohol og andre rusmidler i svangerskapet.
+1. personopplysninger:
+
+   - navn og fødselsnummer,
+   - adresse og bostedskommune,
+   - sivilstand,
+   - eventuelt slektskap mellom barnets foreldre,
+2. administrative opplysninger:
+
+   - institusjon/virksomhet,
+   - inn- og utskrivingsdato,
+   - andre relevante administrative data,
+3. medisinske opplysninger om:
+
+   - tidligere svangerskap,
+   - siste menstruasjons første blødningsdag,
+   - ultralyd og annen prenatal diagnostikk,
+   - relevante funn ved prenatal diagnostikk,
+   - bruk av kosttilskudd, legemidler, eventuell annen medisinsk eller kirurgisk behandling under svangerskapet,
+   - spesielle helseforhold før svangerskapet,
+   - spesielle helseforhold under svangerskapet,
+4. opplysninger om fødselen:
+
+   - type fødsel, tidspunkt for fødselens start,
+   - inngrep og behandling under fødselen,
+   - forhold ved fostervann, navlesnor og placenta,
+   - eventuelle komplikasjoner.
+
+Medisinsk fødselsregister kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde opplysninger om kvinnens
+
+1. yrkesmessige forhold,
+2. røykevaner,
+3. bruk av alkohol og andre rusmidler i svangerskapet.
 
 > Endret ved forskrift [15 mai 2025 nr. 805](forskrift/2025-05-15-805) (i kraft 1 juni 2025). **Endres** ved forskrift [11 juni 2021 nr. 1877](forskrift/2021-06-11-1877) (i kraft fra den tid departementet bestemmer, endring endret ved forskrift [21 juni 2024 nr. 1104](forskrift/2024-06-21-1104), endring endres ved forskrift [15 mai 2025 nr. 805](forskrift/2025-05-15-805)).
 
 ### § 1-8. (Særskilt om kunstig befruktning)
 
-Medisinsk fødselsregister kan, hvis paret ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde følgende opplysninger om kunstig befruktning i den utstrekning det er nødvendig for å nå formålet med registeret:årsaker til infertilitet, med spesifisering av hovedårsak,hvor lenge paret har vært infertilt,behandlingsmetode,antall embryoer innsatt,antall behandlingsforsøk,dato for innsettelse av embryo og ultralydundersøkelse i første trimester,status ved ultralydundersøkelse i første trimester,antall fostre, herav med sikker hjerteaksjon.
+Medisinsk fødselsregister kan, hvis paret ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde følgende opplysninger om kunstig befruktning i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+1. årsaker til infertilitet, med spesifisering av hovedårsak,
+2. hvor lenge paret har vært infertilt,
+3. behandlingsmetode,
+4. antall embryoer innsatt,
+5. antall behandlingsforsøk,
+6. dato for innsettelse av embryo og ultralydundersøkelse i første trimester,
+7. status ved ultralydundersøkelse i første trimester,
+8. antall fostre, herav med sikker hjerteaksjon.
 
 > **Endres** ved forskrift [11 juni 2021 nr. 1877](forskrift/2021-06-11-1877) (i kraft fra den tid departementet bestemmer).
 
 ### § 1-9. (Opplysninger i Medisinsk fødselsregister om barnet)
 
-Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om fødte i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysningernavn og fødselsnummer, tidspunkt for fødselen,kjønn,adresse og bostedskommune,administrative opplysninger:fødested,andre relevante administrative data,opplysninger om helseforhold:svangerskapets lengde ved fødselen,levendefødt, dødfødt, dødsårsak og eventuelt tidspunkt,tegn på asfyksi, apgar score etter 1 og 5 min.,lengde, vekt og hodeomkrets,enkeltfødt eller flerfødt,screening eller andre undersøkelser i nyfødtperioden,neonatal diagnose,tegn til misdannelser eller skader,behandling den nyfødte har mottatt, hvilke metode som er benyttet og eventuelle komplikasjoner eller bivirkninger av behandlingen.
+Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om fødte i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+1. personopplysninger
+
+   - navn og fødselsnummer, tidspunkt for fødselen,
+   - kjønn,
+   - adresse og bostedskommune,
+2. administrative opplysninger:
+
+   - fødested,
+   - andre relevante administrative data,
+3. opplysninger om helseforhold:
+
+   - svangerskapets lengde ved fødselen,
+   - levendefødt, dødfødt, dødsårsak og eventuelt tidspunkt,
+   - tegn på asfyksi, apgar score etter 1 og 5 min.,
+   - lengde, vekt og hodeomkrets,
+   - enkeltfødt eller flerfødt,
+   - screening eller andre undersøkelser i nyfødtperioden,
+   - neonatal diagnose,
+   - tegn til misdannelser eller skader,
+   - behandling den nyfødte har mottatt, hvilke metode som er benyttet og eventuelle komplikasjoner eller bivirkninger av behandlingen.
 
 Om fostre ved avsluttet svangerskap som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2) til [5](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/5), kan Medisinsk fødselsregister inneholde administrative opplysninger og relevante opplysninger om helseforhold.
 
-Medisinsk fødselsregister kan videre inneholde følgende opplysninger om barnet i dets første leveår for tilstander som var tilstede ved fødselen:administrative opplysninger:sykehus, avdeling eller poliklinikk hvor barnet har mottatt helsehjelp,inn- og utskrivningsdato,medisinske opplysninger:barnets hoveddiagnose og bidiagnose,behandling barnet har mottatt, hvilken metode som er benyttet og eventuelle komplikasjoner eller bivirkninger av behandlingen.
+Medisinsk fødselsregister kan videre inneholde følgende opplysninger om barnet i dets første leveår for tilstander som var tilstede ved fødselen:
+
+1. administrative opplysninger:
+
+   - sykehus, avdeling eller poliklinikk hvor barnet har mottatt helsehjelp,
+   - inn- og utskrivningsdato,
+2. medisinske opplysninger:
+
+   - barnets hoveddiagnose og bidiagnose,
+   - behandling barnet har mottatt, hvilken metode som er benyttet og eventuelle komplikasjoner eller bivirkninger av behandlingen.
 
 > Endret ved forskrift [15 mai 2025 nr. 805](forskrift/2025-05-15-805) (i kraft 1 juni 2025).
 
@@ -102,13 +188,33 @@ Medisinsk fødselsregister kan videre inneholde følgende opplysninger om barnet
 
 Medisinsk fødselsregister kan uten samtykke inneholde opplysninger om navn, fødselsnummer og adresse til faren til den fødte. Medisinsk fødselsregister kan også inneholde slike opplysninger om faren til fostre der svangerskapet er avbrutt på grunn av forhold som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2) og [5](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/5).
 
-Etter samtykke kan Medisinsk fødselsregister dessuten inneholde opplysninger om farensyrkesmessige forhold,røykevaner.
+Etter samtykke kan Medisinsk fødselsregister dessuten inneholde opplysninger om farens
+
+1. yrkesmessige forhold,
+2. røykevaner.
 
 > Endret ved forskrift [15 mai 2025 nr. 805](forskrift/2025-05-15-805) (i kraft 1 juni 2025). **Endres** ved forskrift [11 juni 2021 nr. 1877](forskrift/2021-06-11-1877) (i kraft fra den tid departementet bestemmer, endring endres ved forskrift [15 mai 2025 nr. 805](forskrift/2025-05-15-805)).
 
 ### § 1-11. (Opplysninger om nemndbehandlede svangerskapsbrudd)
 
-Medisinsk fødselsregister kan inneholde følgende opplysninger om kvinnen der hvor svangerskapet er avbrutt etter [abortloven § 3 andre ledd](lov/2024-12-20-96/§3/ledd/2), med de unntak som følger av [§ 1-2 annet](forskrift/2001-12-21-1483/§1-2/ledd/2) og [tredje ledd](forskrift/2001-12-21-1483/§1-2/ledd/3):personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand, arbeid og skolegang,administrative opplysninger:inn- og utskrivningsdato,andre relevante administrative data,opplysninger om helseforhold:tidligere svangerskap,tidligere sykdommer av betydning,grunnlaget for abortinngrepet,type abort, inngrep og annen behandling i forbindelse med aborten,fosterdiagnostikk og sykelighet ved fosteret.
+Medisinsk fødselsregister kan inneholde følgende opplysninger om kvinnen der hvor svangerskapet er avbrutt etter [abortloven § 3 andre ledd](lov/2024-12-20-96/§3/ledd/2), med de unntak som følger av [§ 1-2 annet](forskrift/2001-12-21-1483/§1-2/ledd/2) og [tredje ledd](forskrift/2001-12-21-1483/§1-2/ledd/3):
+
+1. personopplysninger:
+
+   1. navn og fødselsnummer,
+   2. adresse og bostedskommune,
+   3. sivilstand, arbeid og skolegang,
+2. administrative opplysninger:
+
+   1. inn- og utskrivningsdato,
+   2. andre relevante administrative data,
+3. opplysninger om helseforhold:
+
+   1. tidligere svangerskap,
+   2. tidligere sykdommer av betydning,
+   3. grunnlaget for abortinngrepet,
+   4. type abort, inngrep og annen behandling i forbindelse med aborten,
+   5. fosterdiagnostikk og sykelighet ved fosteret.
 
 Ved avbrutte svangerskap etter [abortloven § 3 andre ledd bokstav a](lov/2024-12-20-96/§3/ledd/2/bokstav/a), [b](lov/2024-12-20-96/§3/ledd/2/bokstav/b) og [bokstav d](lov/2024-12-20-96/§3/ledd/2/bokstav/d) dersom aborten skyldes forhold ved den gravide eller den gravides livssituasjon, jf. [tredje ledd](forskrift/2001-12-21-1483/§1-2/ledd/3), skal personopplysninger som nevnt i første ledd nummer 1.1 og 1.2 slettes etter at opplysningene er kvalitetssikret og mulige flerregistreringer er avdekket senest seks måneder etter innsamlingen av opplysningene.
 
@@ -206,7 +312,22 @@ Databehandlere som behandler helseopplysninger på vegne av den dataansvarlige, 
 
 ### § 4-4. (Internkontrollens innhold)
 
-Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-11](forskrift/2001-12-21-1483/§1-11) og [§ 2-4](forskrift/2001-12-21-1483/§2-4),oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2001-12-21-1483/§5-1),hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2001-12-21-1483/§3-1),rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   - oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   - dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-11](forskrift/2001-12-21-1483/§1-11) og [§ 2-4](forskrift/2001-12-21-1483/§2-4),
+   - oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2001-12-21-1483/§5-1),
+   - hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2001-12-21-1483/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.
 

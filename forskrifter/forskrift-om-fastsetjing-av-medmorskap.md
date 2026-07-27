@@ -52,7 +52,11 @@ Søknad om fastsetting av medmorskap skal setjast fram på fastsett blankett ell
 
 Minst ein av partane skal underteikne søknaden eller identifisera seg elektronisk på ein sikker måte.
 
-Vedlagt søknaden skal følgjesamtykke til assistert befruktning frå mors ektefelle eller sambuardokumentasjon frå godkjent helsestell i tråd med [§ 2](forskrift/2008-12-15-1362/§2). Dokumentasjonen skal stadfeste at assistert befruktning har funne staddokumentasjon som viser at barnet som er fødd etter assistert befruktning, ved fylte 18 år har rett til å få opplysningar om sædgivars identitet. Det må gå fram at det finst prosedyrar eller registre som gjer at denne retten kan oppfyllast.
+Vedlagt søknaden skal følgje
+
+1. samtykke til assistert befruktning frå mors ektefelle eller sambuar
+2. dokumentasjon frå godkjent helsestell i tråd med [§ 2](forskrift/2008-12-15-1362/§2). Dokumentasjonen skal stadfeste at assistert befruktning har funne stad
+3. dokumentasjon som viser at barnet som er fødd etter assistert befruktning, ved fylte 18 år har rett til å få opplysningar om sædgivars identitet. Det må gå fram at det finst prosedyrar eller registre som gjer at denne retten kan oppfyllast.
 
 > Endra ved forskrift [1 des 2020 nr. 2576](forskrift/2020-12-01-2576) (i kraft 1 jan 2021).
 

@@ -15,7 +15,7 @@ xml_hash: "ddd33b12c15837635f4433de000d4c3af2a813d27bbeb15736e50354c577b8ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Forskriften gjelder ikke for Statens kartverk (Kartverket), Forsvarsdepartemente
 
 ## § 2. Definisjoner
 
-I forskriften menes med:*informasjon om bunnforhold:* dybdedata, batymetri, hardhetsdata og annen informasjon som sier noe om havbunnens fysiske egenskaper*opptak:* innhenting av informasjon som lagres på et medium til senere bruk*annen bruk av informasjon:* alle andre former for behandling av informasjon, som å mangfoldiggjøre, systematisere, direkteoverføre eller på annen måte videreformidle informasjonen til andre.
+I forskriften menes med:
+
+1. *informasjon om bunnforhold:* dybdedata, batymetri, hardhetsdata og annen informasjon som sier noe om havbunnens fysiske egenskaper
+2. *opptak:* innhenting av informasjon som lagres på et medium til senere bruk
+3. *annen bruk av informasjon:* alle andre former for behandling av informasjon, som å mangfoldiggjøre, systematisere, direkteoverføre eller på annen måte videreformidle informasjonen til andre.
 
 Bruk av Voyage Data Recorder, ekkolodd og andre navigasjonshjelpemidler i samsvar med forskrift 9. mai 2014 nr. 11571 om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger regnes ikke som opptak etter første ledd bokstav b.
 
@@ -42,7 +46,10 @@ Opptak av informasjon om bunnforhold skal meldes til Kartverket senest to uker f
 
 ## § 4. Hvilken informasjon som omfattes av forbudet mot opptak og bruk av informasjon om bunnforhold – sikkerhetsgradering av informasjonen
 
-Følgende informasjon om bunnforhold fra dypere enn 30 meter, regnet ut fra sjøkartnull i norske sjøkart, er omfattet av forbudet mot opptak eller annen bruk av informasjon om bunnforhold i [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 4](lov/2017-06-21-88/§4) første ledd:informasjon som går fram av kart, bilder eller film med en høyere oppløsning enn 50 meter ganger 50 metertilsvarende presis informasjon som går fram av tekst, tallmateriale eller digitale eller fysiske modeller.
+Følgende informasjon om bunnforhold fra dypere enn 30 meter, regnet ut fra sjøkartnull i norske sjøkart, er omfattet av forbudet mot opptak eller annen bruk av informasjon om bunnforhold i [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 4](lov/2017-06-21-88/§4) første ledd:
+
+1. informasjon som går fram av kart, bilder eller film med en høyere oppløsning enn 50 meter ganger 50 meter
+2. tilsvarende presis informasjon som går fram av tekst, tallmateriale eller digitale eller fysiske modeller.
 
 Informasjon som angitt i første ledd bokstav a med høyere oppløsning enn 25 meter ganger 25 meter og tilsvarende presis informasjon som nevnt i første ledd bokstav b, er sikkerhetsgradert KONFIDENSIELT etter [sikkerhetsloven § 5-3](lov/2018-06-01-24/§5-3) første ledd andre punktum bokstav c. Informasjon som angitt i første ledd bokstav a med oppløsning mellom 50 meter ganger 50 meter og 25 meter ganger 25 meter og tilsvarende presis informasjon som angitt i første ledd bokstav b, er sikkerhetsgradert BEGRENSET etter [sikkerhetsloven § 5-3](lov/2018-06-01-24/§5-3) første ledd andre punktum bokstav d.
 
@@ -56,7 +63,17 @@ Forsvaret kan gi tillatelse til opptak av eller annen bruk av informasjon om bun
 
 Forsvaret kan bestemme at sikkerhetsgradert informasjon om bunnforhold skal omgraderes etter virksomhetssikkerhetsforskriften. Dersom informasjonen avgraderes, kan den underlegges taushetsplikt. Dersom tillatelse etter første ledd innebærer at søkeren skal håndtere sikkerhetsgradert informasjon, skal det treffes vedtak etter [sikkerhetsloven § 1-3](lov/2018-06-01-24/§1-3) ovenfor søkeren, og søkeren må oppfylle [sikkerhetslovens](lov/2018-06-01-24) krav til håndtering av informasjonen.
 
-I vurderingen av om det skal gis tillatelse etter første ledd, skal det legges vekt påområdets størrelse og geografiske plasseringom området er innenfor eller i nærheten av Forsvarets forbudsområder fastsatt etter [forskrift 20. desember 2018 nr. 2058 om militære forbudsområder innen Sjøforsvaret](forskrift/2018-12-20-2058), skjermingsverdige objekter eller infrastruktur og områder av særlig betydning for Forsvarets operative evnehvor høy oppløsning eller hvilket presisjonsnivå informasjonen harhvilket formål informasjonen skal brukes tilhvem som skal ha tilgang til informasjonenhvor lenge informasjonen skal lagreshvor det skal gis tilgang til informasjonen, og hvor den skal lagreshvilke systemer som brukes for å gi tilgang til og for å lagre informasjonenom søker og den som skal ha tilgang til informasjonen, har tilknytning til stater som Norge ikke har et sikkerhetsmessig samarbeid med.
+I vurderingen av om det skal gis tillatelse etter første ledd, skal det legges vekt på
+
+1. områdets størrelse og geografiske plassering
+2. om området er innenfor eller i nærheten av Forsvarets forbudsområder fastsatt etter [forskrift 20. desember 2018 nr. 2058 om militære forbudsområder innen Sjøforsvaret](forskrift/2018-12-20-2058), skjermingsverdige objekter eller infrastruktur og områder av særlig betydning for Forsvarets operative evne
+3. hvor høy oppløsning eller hvilket presisjonsnivå informasjonen har
+4. hvilket formål informasjonen skal brukes til
+5. hvem som skal ha tilgang til informasjonen
+6. hvor lenge informasjonen skal lagres
+7. hvor det skal gis tilgang til informasjonen, og hvor den skal lagres
+8. hvilke systemer som brukes for å gi tilgang til og for å lagre informasjonen
+9. om søker og den som skal ha tilgang til informasjonen, har tilknytning til stater som Norge ikke har et sikkerhetsmessig samarbeid med.
 
 Forsvaret kan stille vilkår for tillatelsen for å redusere risikoen for at informasjonen blir kjent for uvedkommende, og for å sikre at informasjonen brukes i samsvar med formålet. Det kan også stilles vilkår om at informasjonen skal avleveres til Forsvaret og Kartverket.
 
@@ -68,7 +85,19 @@ Kartverket kan etter avtale med Forsvaret utlevere informasjon som er omfattet a
 
 ## § 7. Søknad om tillatelse til å gjøre opptak av eller bruke på annen måte informasjon om bunnforhold
 
-Søknader om tillatelse etter [§ 5](forskrift/2023-12-15-2061/§5) skal sendes til Kartverket og opplyse omstørrelsen på og den geografiske plasseringen til området det skal gjøres opptak av eller på annen måte bruke informasjon frahvor høy oppløsning eller hvilket presisjonsnivå informasjonen harhva som er formålet med opptaket eller annen bruk av informasjoneni hvilket tidsrom det skal gjøres opptak eller informasjonen skal brukes på annen måtehvor lenge informasjonen skal lagreshvilket utstyr som skal brukes til å gjøre opptak, lagre informasjonen eller bruke informasjonen på annen måtehvor informasjonen skal lagres og være tilgjengelignavn, fødselsnummer og statsborgerskap på den som er ansvarlig for å gjøre opptaket eller bruke informasjonen på annen måtenavn, fødselsnummer og statsborgerskap på de som skal ha tilgang til opptaket eller informasjonenhvilket fartøy som skal gjennomføre opptaket (med IMO-nummer dersom fartøyet har det)andre forhold som har betydning for opptaket eller annen behandling av informasjonen.
+Søknader om tillatelse etter [§ 5](forskrift/2023-12-15-2061/§5) skal sendes til Kartverket og opplyse om
+
+1. størrelsen på og den geografiske plasseringen til området det skal gjøres opptak av eller på annen måte bruke informasjon fra
+2. hvor høy oppløsning eller hvilket presisjonsnivå informasjonen har
+3. hva som er formålet med opptaket eller annen bruk av informasjonen
+4. i hvilket tidsrom det skal gjøres opptak eller informasjonen skal brukes på annen måte
+5. hvor lenge informasjonen skal lagres
+6. hvilket utstyr som skal brukes til å gjøre opptak, lagre informasjonen eller bruke informasjonen på annen måte
+7. hvor informasjonen skal lagres og være tilgjengelig
+8. navn, fødselsnummer og statsborgerskap på den som er ansvarlig for å gjøre opptaket eller bruke informasjonen på annen måte
+9. navn, fødselsnummer og statsborgerskap på de som skal ha tilgang til opptaket eller informasjonen
+10. hvilket fartøy som skal gjennomføre opptaket (med IMO-nummer dersom fartøyet har det)
+11. andre forhold som har betydning for opptaket eller annen behandling av informasjonen.
 
 Er søkeren en virksomhet, skal det i tillegg opplyses om virksomhetens navn, adresse og eierstruktur. Det skal opplyses om hvilke virksomheter og personer som er registrert som eiere i virksomheten, med navn, fødselsnummer eller selskapsnummer og statsborgerskap eller hvilket land virksomheten er registrert i.
 

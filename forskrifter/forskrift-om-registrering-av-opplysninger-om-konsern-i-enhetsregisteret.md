@@ -24,11 +24,18 @@ eu_basis: []
 
 ## § 1. Enheter i konsern
 
-En enhet regnes for å inngå i konsern etter denne forskriften dersomenheten inngår i konsern etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3), ellerenhetens årsregnskap etter lov eller i medhold av lov skal inngå i et konsernregnskap. Dette gjelder selv om offentlig myndighet har gitt enheten unntak fra plikt som nevnt i første punktum.
+En enhet regnes for å inngå i konsern etter denne forskriften dersom
+
+1. enheten inngår i konsern etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3), eller
+2. enhetens årsregnskap etter lov eller i medhold av lov skal inngå i et konsernregnskap. Dette gjelder selv om offentlig myndighet har gitt enheten unntak fra plikt som nevnt i første punktum.
 
 ## § 2. Plikt til å melde opplysninger om konsern
 
-(1) Et morforetak i konsern etter [§ 1](forskrift/2025-10-24-2096/§1), skal melde opplysninger om egne datterforetak for registrering i Enhetsregisteret. Det skal meldes følgende opplysninger:enhetens eget organisasjonsnummer og foretaksnavn eller navnorganisasjonsnummer og foretaksnavn eller navn til egne datterforetakangivelse av grunnlaget for meldeplikten (størrelse på eierandel, avtale, stemmerettigheter mv.).
+(1) Et morforetak i konsern etter [§ 1](forskrift/2025-10-24-2096/§1), skal melde opplysninger om egne datterforetak for registrering i Enhetsregisteret. Det skal meldes følgende opplysninger:
+
+1. enhetens eget organisasjonsnummer og foretaksnavn eller navn
+2. organisasjonsnummer og foretaksnavn eller navn til egne datterforetak
+3. angivelse av grunnlaget for meldeplikten (størrelse på eierandel, avtale, stemmerettigheter mv.).
 
 (2) Opplysninger som nevnt i første ledd skal meldes til Enhetsregisteret uten ugrunnet opphold etter at konsernforholdet oppstår. Hvis det skjer endringer i forhold som er registrert i Enhetsregisteret, skal morforetaket uten ugrunnet opphold melde dette til Enhetsregisteret.
 
@@ -42,7 +49,12 @@ Alle enheter som inngår i konsern, jf. [§ 1](forskrift/2025-10-24-2096/§1), h
 
 ## § 4. Plikt til å melde opplysninger om utenlandske morforetak og utenlandske datterforetak
 
-(1) En enhet som er hjemmehørende i Norge skal melde opplysninger om eget utenlandsk morforetak og egne utenlandske datterforetak for registrering i Enhetsregisteret, dersom det utenlandske foretaket hadde inngått i konsernet etter [§ 1](forskrift/2025-10-24-2096/§1) hvis det var hjemmehørende i Norge. Det skal meldes følgende opplysninger:enhetens eget organisasjonsnummer og foretaksnavn eller navnforetaksnavn eller navn til det utenlandske foretaketorganisasjonsnummer til det utenlandske foretaket, hvis det utenlandske foretaket har organisasjonsnummerangivelse av grunnlaget for meldeplikten (størrelse på eierandel, avtale, stemmerettigheter mv.).
+(1) En enhet som er hjemmehørende i Norge skal melde opplysninger om eget utenlandsk morforetak og egne utenlandske datterforetak for registrering i Enhetsregisteret, dersom det utenlandske foretaket hadde inngått i konsernet etter [§ 1](forskrift/2025-10-24-2096/§1) hvis det var hjemmehørende i Norge. Det skal meldes følgende opplysninger:
+
+1. enhetens eget organisasjonsnummer og foretaksnavn eller navn
+2. foretaksnavn eller navn til det utenlandske foretaket
+3. organisasjonsnummer til det utenlandske foretaket, hvis det utenlandske foretaket har organisasjonsnummer
+4. angivelse av grunnlaget for meldeplikten (størrelse på eierandel, avtale, stemmerettigheter mv.).
 
 (2) Hvis det utenlandske foretaket ikke har organisasjonsnummer, skal foretakets organisasjonsform og adresse meldes for registrering i Enhetsregisteret. Det skal også meldes og registreres om det utenlandske foretaket er registrert i et offentlig foretaksregister i sin hjemstat, og i så fall dette registerets navn og adresse samt foretakets registreringsnummer. I tillegg skal det meldes og registreres e-postadresse som elektronisk varslingsadresse, jf. [enhetsregisterloven § 4-1 første ledd bokstav e](lov/2025-06-20-105/§4-1/ledd/1/bokstav/e), for det utenlandske foretaket.
 

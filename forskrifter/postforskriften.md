@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Registreringsplikt
 
-Tilbyderen skal ved registrering etter [postloven § 20](lov/2015-09-04-91/§20) oversende følgende opplysninger til Nasjonal kommunikasjonsmyndighet:firmanavn, postadresse, kontaktperson, telefonnummer og e-postadresseoriginal firmaattestinformasjon om virksomhetens art og omfang, herunder geografisk virkeområde og om det tilbys posttjeneste til utlandet.
+Tilbyderen skal ved registrering etter [postloven § 20](lov/2015-09-04-91/§20) oversende følgende opplysninger til Nasjonal kommunikasjonsmyndighet:
+
+1. firmanavn, postadresse, kontaktperson, telefonnummer og e-postadresse
+2. original firmaattest
+3. informasjon om virksomhetens art og omfang, herunder geografisk virkeområde og om det tilbys posttjeneste til utlandet.
 
 Tilbyderen skal også oversende opplysninger til Nasjonal kommunikasjonsmyndighet om system for håndtering av ikke-leverbar postsending etter [postloven § 27](lov/2015-09-04-91/§27).
 
@@ -34,9 +38,21 @@ Endringer i opplysninger nevnt i første og annet ledd skal meldes til Nasjonal 
 
 Tilbyderen skal ved utarbeidelse og offentliggjøring av leveringsvilkår for formidling av postsending etter [postloven § 22](lov/2015-09-04-91/§22) sørge for at informasjon er oppdatert og oversiktlig. Informasjonen skal offentliggjøres på egnet måte, for eksempel gjennom faste ekspedisjonssteder, landpostruter, innleveringspostkasser og internett.
 
-Leveringsvilkårene skal blant annet inneholde opplysninger om:firmanavn, postadresse, telefonnummer, e-postadresse og eventuell nettadressetjenestetilbud, herunder opplysninger om frister for innlevering og om fremsendingstidgeografisk dekningsområdepriser, rabatter og vilkår for rabatterklageadgang og klageordninghvordan brukerne får informasjon om hvilke dager én eller flere adresser mottar postdistribusjon.
+Leveringsvilkårene skal blant annet inneholde opplysninger om:
 
-Tilbyderen skal i tillegg informere brukerne om erstatningsvilkår. Slik informasjon skal minst inneholde opplysninger om:ansvar for tap, skade og forsinkelse av registrert postsendingerstatningssatsermetode for erstatningsutmålingreklamasjonsregler.
+1. firmanavn, postadresse, telefonnummer, e-postadresse og eventuell nettadresse
+2. tjenestetilbud, herunder opplysninger om frister for innlevering og om fremsendingstid
+3. geografisk dekningsområde
+4. priser, rabatter og vilkår for rabatter
+5. klageadgang og klageordning
+6. hvordan brukerne får informasjon om hvilke dager én eller flere adresser mottar postdistribusjon.
+
+Tilbyderen skal i tillegg informere brukerne om erstatningsvilkår. Slik informasjon skal minst inneholde opplysninger om:
+
+1. ansvar for tap, skade og forsinkelse av registrert postsending
+2. erstatningssatser
+3. metode for erstatningsutmåling
+4. reklamasjonsregler.
 
 > Endret ved [forskrift 24 juni 2020 nr. 1401](forskrift/2020-06-24-1401) (i kraft 1 juli 2020).
 
@@ -52,7 +68,12 @@ Tilbyderen skal for å sikre at uvedkommende ikke får tilgang til postsendinger
 
 Tilbyderen skal etter [postloven § 32](lov/2015-09-04-91/§32) informere brukerne på en hensiktsmessig måte om hvilket innhold som ikke er tillatt å sende.
 
-Følgende er forbudt å sende innenlands og på tvers av landegrenser:eksplosiver og brannfarlige stoffer eller annet farlig godsetterlikninger av granater, miner, eksplosive innretninger, røykbomber og liknendepostsendinger som har et innhold som er ulovlig i avsender- eller mottakerlandpostsendinger som etter sitt innhold eller mangelfulle emballering kan utsette tilbyders personale eller allmennheten for fare, eller som kan skade andre postsendinger eller postnettet.
+Følgende er forbudt å sende innenlands og på tvers av landegrenser:
+
+1. eksplosiver og brannfarlige stoffer eller annet farlig gods
+2. etterlikninger av granater, miner, eksplosive innretninger, røykbomber og liknende
+3. postsendinger som har et innhold som er ulovlig i avsender- eller mottakerland
+4. postsendinger som etter sitt innhold eller mangelfulle emballering kan utsette tilbyders personale eller allmennheten for fare, eller som kan skade andre postsendinger eller postnettet.
 
 Levende dyr skal ikke sendes som postsending. Dette gjelder ikke for igler, bier, silkeormer og fluer av Drosophilidaefamilien.
 
@@ -88,7 +109,10 @@ Tilbyderen skal informere Nasjonal kommunikasjonsmyndighet om innholdet i klageo
 
 ## § 9. Erstatning for tap, skade eller forsinkelse av registrert postsending
 
-Tilbyderen skal betale erstatning etter [postloven § 28](lov/2015-09-04-91/§28) for den registrerte postsendingens økonomiske verdi ved tap eller skade. Ved delvis tap eller skade skal en forholdsmessig andel erstattes. Erstatningsbeløpet ved fullstendig tap eller skade eller delvis tap eller skade begrenses oppad til:kr 1 000 for registrert postsending med vekt inntil 2 kgkr 10 000 for registrert postsending inntil 31,5 kg.
+Tilbyderen skal betale erstatning etter [postloven § 28](lov/2015-09-04-91/§28) for den registrerte postsendingens økonomiske verdi ved tap eller skade. Ved delvis tap eller skade skal en forholdsmessig andel erstattes. Erstatningsbeløpet ved fullstendig tap eller skade eller delvis tap eller skade begrenses oppad til:
+
+1. kr 1 000 for registrert postsending med vekt inntil 2 kg
+2. kr 10 000 for registrert postsending inntil 31,5 kg.
 
 Tilbyderen skal også betale erstatning for portokostnadene ved tap eller skade.
 
@@ -100,7 +124,11 @@ Tilbyderen kan fastsette høyere erstatningsnivå enn det som følger av første
 
 ## § 10. Vilkår for tilgang til utleveringspostkasse og postboksanlegg
 
-Ved tildeling av tillatelse etter [postloven § 33](lov/2015-09-04-91/§33) til tilbyder for tilgang til utleveringspostkasse eller postboksanlegg som ikke er tilgjengelig for allmennheten, kan Nasjonal kommunikasjonsmyndighet blant annet sette vilkår om:plikt til å ha system for sikker oppbevaring og distribusjon av nøkler, adgangskort eller -koderinternkontroll for å hindre uautorisert bruk av adgangsløsningerplikt til årlig rapportering ved misbruk eller tap av nøkler, adgangskort eller -koder.
+Ved tildeling av tillatelse etter [postloven § 33](lov/2015-09-04-91/§33) til tilbyder for tilgang til utleveringspostkasse eller postboksanlegg som ikke er tilgjengelig for allmennheten, kan Nasjonal kommunikasjonsmyndighet blant annet sette vilkår om:
+
+1. plikt til å ha system for sikker oppbevaring og distribusjon av nøkler, adgangskort eller -koder
+2. internkontroll for å hindre uautorisert bruk av adgangsløsninger
+3. plikt til årlig rapportering ved misbruk eller tap av nøkler, adgangskort eller -koder.
 
 Tilbydere som får tilgang til avlåste utleveringspostkasser eller postboksanlegg skal dekke kostnader for eventuelle nye nøkkelsystem, ekstra nøkler til eiendom, postkasser og postboksanlegg mv.
 
@@ -108,7 +136,11 @@ Tillatelsen kan trekkes tilbake ved brudd på vilkårene i tillatelsen, jf. [pos
 
 ## § 11. Plassering av utleveringspostkasse
 
-Ved plassering av utleveringspostkasse etter [postloven § 19](lov/2015-09-04-91/§19) kan tilbyder med leveringsplikt anmode eier om at den plasseres på et nærmere angitt sted, men innenfor følgende maksimalavstander:i tettbygd strøk ved port eller innkjøring til eiendom eller inntil 100 meter fra port/innkjøringi spredtbygd strøk ved port eller innkjøring til eiendom eller inntil 250 meter fra port/innkjøringi boligblokker og bygårder ved felles inngang dersom ikke annet er mer hensiktsmessig for postombæringen.
+Ved plassering av utleveringspostkasse etter [postloven § 19](lov/2015-09-04-91/§19) kan tilbyder med leveringsplikt anmode eier om at den plasseres på et nærmere angitt sted, men innenfor følgende maksimalavstander:
+
+1. i tettbygd strøk ved port eller innkjøring til eiendom eller inntil 100 meter fra port/innkjøring
+2. i spredtbygd strøk ved port eller innkjøring til eiendom eller inntil 250 meter fra port/innkjøring
+3. i boligblokker og bygårder ved felles inngang dersom ikke annet er mer hensiktsmessig for postombæringen.
 
 Ved anmodning etter første ledd skal det gis tilstrekkelig tid for postkasseeier til å innrette seg.
 
@@ -158,7 +190,11 @@ Varsling skal skje på hensiktsmessig måte. Varsling kan unnlates dersom omlegg
 
 ## § 17. Ettersending og oppbevaring
 
-Tilbyder med leveringsplikt skal tilby bruker:oppbevaring av postsending i en periode på inntil tre månederettersending av postsending til midlertidig adresseettersending av postsending i inntil ett år ved varig adresseendring.
+Tilbyder med leveringsplikt skal tilby bruker:
+
+1. oppbevaring av postsending i en periode på inntil tre måneder
+2. ettersending av postsending til midlertidig adresse
+3. ettersending av postsending i inntil ett år ved varig adresseendring.
 
 Første ledd er ikke til hinder for at det avtales lengre perioder for oppbevaring og ettersending.
 
@@ -180,13 +216,21 @@ Departementet skal avtale eller gjennom enkeltvedtak fastsette vilkår for avisd
 
 ## § 20. Tjenester til blinde, svaksynte, krigsfanger og sivilt internerte
 
-Tilbyder med leveringsplikt etter [postloven § 7](lov/2015-09-04-91/§7) første ledd nummer 6 skal sikre landsdekkende vederlagsfri formidling av følgende tjenester:postsendinger for blinde og svaksynte sendt til eller fra en blindeorganisasjon eller til eller fra en blind eller svaksynt person, og som omfatter korrespondanse, litteratur i alle format inkludert lydopptak, og utstyr laget eller tilpasset for å avhjelpe funksjonshemningen.brevpost inntil 2 kg og lettgods inntil 5 kg, eller inntil 10 kg dersom innholdet ikke kan deles opp, adressert til eller sendt av krigsfanger eller sivilt internerte.
+Tilbyder med leveringsplikt etter [postloven § 7](lov/2015-09-04-91/§7) første ledd nummer 6 skal sikre landsdekkende vederlagsfri formidling av følgende tjenester:
+
+1. postsendinger for blinde og svaksynte sendt til eller fra en blindeorganisasjon eller til eller fra en blind eller svaksynt person, og som omfatter korrespondanse, litteratur i alle format inkludert lydopptak, og utstyr laget eller tilpasset for å avhjelpe funksjonshemningen.
+2. brevpost inntil 2 kg og lettgods inntil 5 kg, eller inntil 10 kg dersom innholdet ikke kan deles opp, adressert til eller sendt av krigsfanger eller sivilt internerte.
 
 Etter første ledd kan det kreves vederlag fra avsender for ekstrakostnader ved flytransport til utlandet.
 
 ## § 21. Pris- og regnskapsregulering
 
-Nasjonal kommunikasjonsmyndighet kan pålegge bestemte metoder for prisregulering, herunder maksimalprisordning for å sikre at tilbud om leveringspliktig tjeneste skjer på åpne, objektive og ikke-diskriminerende vilkår, til kostnadsorienterte og overkommelige priser, jf. [postloven § 10](lov/2015-09-04-91/§10). Maksimalprisordning kan utformes blant annet på grunnlag av:krav til prisutvikling og/eller prisnivå for leveringspliktige tjenester i en bestemt periodeulike indekser som inflasjonsmål i beregningen av pristak, herunder konsumprisindeks og lønnsindeksfradrag for antatt økning i produktiviteten i beregningen av pristakhvilke leveringspliktige tjenester pristak skal gjelde for.
+Nasjonal kommunikasjonsmyndighet kan pålegge bestemte metoder for prisregulering, herunder maksimalprisordning for å sikre at tilbud om leveringspliktig tjeneste skjer på åpne, objektive og ikke-diskriminerende vilkår, til kostnadsorienterte og overkommelige priser, jf. [postloven § 10](lov/2015-09-04-91/§10). Maksimalprisordning kan utformes blant annet på grunnlag av:
+
+1. krav til prisutvikling og/eller prisnivå for leveringspliktige tjenester i en bestemt periode
+2. ulike indekser som inflasjonsmål i beregningen av pristak, herunder konsumprisindeks og lønnsindeks
+3. fradrag for antatt økning i produktiviteten i beregningen av pristak
+4. hvilke leveringspliktige tjenester pristak skal gjelde for.
 
 ## § 22. Gjennomføring av postnummerendringer
 
@@ -214,13 +258,37 @@ Trer i kraft når departementet bestemmer.
 
 ## § 24. Utvekslingskontor
 
-Nasjonal kommunikasjonsmyndighet kan gi tillatelse til å etablere utvekslingskontor som drives av eller på vegne av utenlandske tilbydere. Følgende vilkår må være oppfylt for at tillatelse kan gis:avtale med tilbyder med leveringsplikt om dekning av kostnader for retur og videresending av postsendingersystem for merking av alle postsendinger som formidles via et utvekslingskontor. Merking skal vise utvekslingskontorets navn og lokalisering, samt hvilken tilbyder som driver utvekslingskontoret.
+Nasjonal kommunikasjonsmyndighet kan gi tillatelse til å etablere utvekslingskontor som drives av eller på vegne av utenlandske tilbydere. Følgende vilkår må være oppfylt for at tillatelse kan gis:
+
+1. avtale med tilbyder med leveringsplikt om dekning av kostnader for retur og videresending av postsendinger
+2. system for merking av alle postsendinger som formidles via et utvekslingskontor. Merking skal vise utvekslingskontorets navn og lokalisering, samt hvilken tilbyder som driver utvekslingskontoret.
 
 Ved tildeling av tillatelse etter første ledd, kan Nasjonal kommunikasjonsmyndighet sette vilkår som pålegger relevante bestemmelser fra Verdenspostforeningens regelverk for grensekryssende postsendinger.
 
 ## § 25. Politiattestens innhold
 
-Politiattest etter [postloven § 31](lov/2015-09-04-91/§31) skal vise om vedkommende er siktet, tiltalt, ilagt forelegg eller dømt for overtredelse avAlmindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10:kapittel 8 Forbrytelser mod Statens Selvstendighed og Sikkerhed § 90, § 91 og § 91akapittel 9 Forbrydelser mod Norges Statsforfatning og Statsoverhoved § 104akapittel 13 Forbrydelser mod den almindelige Orden og Fred § 145, § 145b og § 147kapittel 14 Almenfarlige Forbrydelser § 147a til § 150, § 151a, § 152, § 152a, § 153, § 153a og § 161 til § 162ckapittel 17 Pengefalsk § 174 til § 178kapittel 18 Dokumentfalsk § 182 til § 186, § 189 og § 190kapittel 24 Underslag, Tjueri og ulovlig bruk § 255 til § 258 og § 261kapittel 25 Udpresning og Ran § 266, § 267 og § 269kapittel 26 Bedrageri, utroskap og korrupsjon § 270 til § 272 og § 275 til § 276bkapittel 31 Heleri og hvitvasking § 317 og § 318.[Lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff:Kapittel 17 Vern av Norges selvstendighet og andre grunnleggende nasjonale interesser § 121 til § 124, § 126, § 128 og § 129Kapittel 18 Terrorhandlinger og terrorrelaterte handlinger § 131 til § 136 og § 139Kapittel 20 Vern av den offentlige ro, orden og sikkerhet § 190, § 191, § 191a, § 191b, § 192 og § 198Kapittel 23 Vern av folkehelsen og det ytre miljø § 231, § 232, § 234 og § 235Kapittel 27 Vinningslovbrudd og lignende krenkelser av eiendomsretten § 321 til § 327, § 329 til § 335 og § 337 til § 340Kapittel 29 Vern om tilliten til penger og visse dokumenter § 371, § 372, § 374 til § 376, § 387, § 388 og § 390 til § 394.
+Politiattest etter [postloven § 31](lov/2015-09-04-91/§31) skal vise om vedkommende er siktet, tiltalt, ilagt forelegg eller dømt for overtredelse av
+
+1. Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10:
+
+   1. kapittel 8 Forbrytelser mod Statens Selvstendighed og Sikkerhed § 90, § 91 og § 91a
+   2. kapittel 9 Forbrydelser mod Norges Statsforfatning og Statsoverhoved § 104a
+   3. kapittel 13 Forbrydelser mod den almindelige Orden og Fred § 145, § 145b og § 147
+   4. kapittel 14 Almenfarlige Forbrydelser § 147a til § 150, § 151a, § 152, § 152a, § 153, § 153a og § 161 til § 162c
+   5. kapittel 17 Pengefalsk § 174 til § 178
+   6. kapittel 18 Dokumentfalsk § 182 til § 186, § 189 og § 190
+   7. kapittel 24 Underslag, Tjueri og ulovlig bruk § 255 til § 258 og § 261
+   8. kapittel 25 Udpresning og Ran § 266, § 267 og § 269
+   9. kapittel 26 Bedrageri, utroskap og korrupsjon § 270 til § 272 og § 275 til § 276b
+   10. kapittel 31 Heleri og hvitvasking § 317 og § 318.
+2. [Lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff:
+
+   1. Kapittel 17 Vern av Norges selvstendighet og andre grunnleggende nasjonale interesser § 121 til § 124, § 126, § 128 og § 129
+   2. Kapittel 18 Terrorhandlinger og terrorrelaterte handlinger § 131 til § 136 og § 139
+   3. Kapittel 20 Vern av den offentlige ro, orden og sikkerhet § 190, § 191, § 191a, § 191b, § 192 og § 198
+   4. Kapittel 23 Vern av folkehelsen og det ytre miljø § 231, § 232, § 234 og § 235
+   5. Kapittel 27 Vinningslovbrudd og lignende krenkelser av eiendomsretten § 321 til § 327, § 329 til § 335 og § 337 til § 340
+   6. Kapittel 29 Vern om tilliten til penger og visse dokumenter § 371, § 372, § 374 til § 376, § 387, § 388 og § 390 til § 394.
 
 Uttømmende og utvidet politiattest etter [politiregisterloven § 41](lov/2010-05-28-16/§41) kan bare kreves fremlagt ved ansettelse i særlig betrodde stillinger. Med særlig betrodde stillinger menes terminalsjefer, lederstillinger innen sikkerhetsarbeid og ledere med personalansvar for personell som det kreves ordinær politiattest av etter [politiregisterloven § 40](lov/2010-05-28-16/§40).
 
@@ -228,9 +296,21 @@ Uttømmende og utvidet politiattest etter [politiregisterloven § 41](lov/2010-0
 
 ## § 26. Rapporteringsplikt
 
-Tilbyderen skal årlig rapportere til myndigheten om:antall klager fordelt på kategorisystem for ikke-leverbare postsendingersystem for opplæring av ansatte om regler om taushetsplikt.
+Tilbyderen skal årlig rapportere til myndigheten om:
 
-Tilbyder med leveringsplikt skal i tillegg rapportere om:utleveringshyppighetomfanget av unntak fra leveringspliktenantall utleveringspostkasser med avvikende plassering etter [§ 12](forskrift/2015-09-18-1063/§12) og [§ 13](forskrift/2015-09-18-1063/§13), og hvilke løsninger som er valgt for hvert tilfelleantall faste og mobile ekspedisjonsstederfremsendingstider for leveringspliktige postsendingerinnleveringspunkter og innleveringsfrister.endringer i postnummersystemet etter [postloven § 35a](lov/2015-09-04-91/§35a), herunder antall anmodninger som er behandlet og hvem som har anmodet om endringer.
+1. antall klager fordelt på kategori
+2. system for ikke-leverbare postsendinger
+3. system for opplæring av ansatte om regler om taushetsplikt.
+
+Tilbyder med leveringsplikt skal i tillegg rapportere om:
+
+1. utleveringshyppighet
+2. omfanget av unntak fra leveringsplikten
+3. antall utleveringspostkasser med avvikende plassering etter [§ 12](forskrift/2015-09-18-1063/§12) og [§ 13](forskrift/2015-09-18-1063/§13), og hvilke løsninger som er valgt for hvert tilfelle
+4. antall faste og mobile ekspedisjonssteder
+5. fremsendingstider for leveringspliktige postsendinger
+6. innleveringspunkter og innleveringsfrister.
+7. endringer i postnummersystemet etter [postloven § 35a](lov/2015-09-04-91/§35a), herunder antall anmodninger som er behandlet og hvem som har anmodet om endringer.
 
 Tilbyder med leveringsplikt skal dokumentere målemetode for fremsendingstider, og dekke kostnadene ved målingene. Måleresultatene skal være offentlige.
 
@@ -250,9 +330,18 @@ Tilbyder med leveringsplikt skal dokumentere målemetode for fremsendingstider, 
 
 Ved utmåling av overtredelsesgebyr etter [postloven § 49](lov/2015-09-04-91/§49) skal det legges særlig vekt på overtredelsens grovhet, overtredelsens varighet, utvist skyld og foretakets omsetning.
 
-Ved vurdering av overtredelsens grovhet skal det særlig tas hensyn til:overtredelsens artforetakets gevinstovertredelsens faktiske innvirkning på markedetstørrelsen på det berørte markedetom overtrederen har hatt en ledende eller passiv rolle i overtredelsen.
+Ved vurdering av overtredelsens grovhet skal det særlig tas hensyn til:
 
-Ved utmåling av overtredelsesgebyr kan formildende omstendigheter tillegges vekt, blant annet om:foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak har forsøkt å forebygge overtredelsenforetaket har bistått myndigheten i forbindelse med avdekking av overtredelsen.
+1. overtredelsens art
+2. foretakets gevinst
+3. overtredelsens faktiske innvirkning på markedet
+4. størrelsen på det berørte markedet
+5. om overtrederen har hatt en ledende eller passiv rolle i overtredelsen.
+
+Ved utmåling av overtredelsesgebyr kan formildende omstendigheter tillegges vekt, blant annet om:
+
+1. foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak har forsøkt å forebygge overtredelsen
+2. foretaket har bistått myndigheten i forbindelse med avdekking av overtredelsen.
 
 Nasjonal kommunikasjonsmyndighet kan ilegge overtredelsesgebyr på inntil 10 prosent av foretakets omsetning dersom foretak eller noen som handler på vegne av foretaket forsettlig eller uaktsomt begår overtredelser som nevnt i [postloven § 49](lov/2015-09-04-91/§49).
 
@@ -266,8 +355,21 @@ Nasjonal kommunikasjonsmyndighet kan i særlig tilfelle eller når anvendelse vi
 
 Denne forskriften trer i kraft 1. januar 2016 med unntak av [§ 22](forskrift/2015-09-18-1063/§22) og [§ 23](forskrift/2015-09-18-1063/§23) som iverksettes når departementet bestemmer.
 
-Fra den tid forskriften trer i kraft oppheves:[forskrift 1. juli 1997 nr. 658](forskrift/1997-07-01-658) om formidling av landsdekkende postsendingerdelegering 10. november 1997 nr. 1156 av myndighet til å gi fritak fra taushetsplikten for ansatte hos postoperatør til Post- og teletilsynetdelegering 1. juli 1998 nr. 688 av myndighet til å føre register over postoperatører.
+Fra den tid forskriften trer i kraft oppheves:
+
+1. [forskrift 1. juli 1997 nr. 658](forskrift/1997-07-01-658) om formidling av landsdekkende postsendinger
+2. delegering 10. november 1997 nr. 1156 av myndighet til å gi fritak fra taushetsplikten for ansatte hos postoperatør til Post- og teletilsynet
+3. delegering 1. juli 1998 nr. 688 av myndighet til å føre register over postoperatører.
 
 ## § 30. Endring i andre forskrifter
 
-Når forskriften trer i kraft gjøres følgende endringer i andre forskrifter:Begrepet «postoperatør» utgår og erstattes av begrepet «posttilbyder» i:[forskrift 11. oktober 1985 nr. 1810](forskrift/1985-10-11-1810) om postforkynning [§ 6](forskrift/1985-10-11-1810/§6) tredje ledd[forskrift 21. desember 2005 nr. 1720](forskrift/2005-12-21-1720) om forvaltning av tilskudd til sysselsetting av sjøfolk [§ 17](forskrift/2005-12-21-1720/§17) annet ledd[forskrift 31. mai 2011 nr. 697](forskrift/2011-05-31-697) om studier og eksamen ved Politihøgskolen [§ 24](forskrift/2011-05-31-697/§24) nr. 3.Når forskriften trer i kraft gjøres følgende endringer i andre forskrifter:I [forskrift 21. februar 2005 nr. 168](forskrift/2005-02-21-168) om gebyr til Post- og teletilsynet gjøres følgende endringer: – – –
+Når forskriften trer i kraft gjøres følgende endringer i andre forskrifter:
+
+1. Begrepet «postoperatør» utgår og erstattes av begrepet «posttilbyder» i:
+
+   1. [forskrift 11. oktober 1985 nr. 1810](forskrift/1985-10-11-1810) om postforkynning [§ 6](forskrift/1985-10-11-1810/§6) tredje ledd
+   2. [forskrift 21. desember 2005 nr. 1720](forskrift/2005-12-21-1720) om forvaltning av tilskudd til sysselsetting av sjøfolk [§ 17](forskrift/2005-12-21-1720/§17) annet ledd
+   3. [forskrift 31. mai 2011 nr. 697](forskrift/2011-05-31-697) om studier og eksamen ved Politihøgskolen [§ 24](forskrift/2011-05-31-697/§24) nr. 3.
+2. Når forskriften trer i kraft gjøres følgende endringer i andre forskrifter:
+
+   I [forskrift 21. februar 2005 nr. 168](forskrift/2005-02-21-168) om gebyr til Post- og teletilsynet gjøres følgende endringer: – – –

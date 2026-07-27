@@ -15,7 +15,7 @@ xml_hash: "a06a524bf280edda79d4de806c9974f355cb019be0bf58fb6a09119be241f04d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,12 @@ Forskriften gjelder private universiteter og høyskoler med akkreditering etter 
 
 ## § 3. Krav til noter i årsregnskapet
 
-Årsregnskapet som fastsettes i henhold til [regnskapsloven § 3-1](lov/1998-07-17-56/§3-1), skal i tillegg til de notekrav som følger av regnskapsloven, ha følgende noteopplysninger:segmentregnskap for hvert av ansvarsstedene pålagt etter denne forskrift [§ 2](forskrift/2017-12-21-2383/§2), med en inndeling som minst viser sum inntekter, sum kostnader, driftsresultat, sum netto finansposter og årsresultat.oversikt over statlige tilskudd og egenbetaling fra studenter.endring i opptjent og innskutt egenkapital, fordelt på segment.transaksjoner med nærstående parter hvor verdien av institusjonens ytelse utgjør 50 000 kroner eller mer, fordelt på segment. Opplysningene skal omfatte transaksjonenes beløp og en beskrivelse av hva slags forhold det er mellom institusjonen og den nærstående part.
+Årsregnskapet som fastsettes i henhold til [regnskapsloven § 3-1](lov/1998-07-17-56/§3-1), skal i tillegg til de notekrav som følger av regnskapsloven, ha følgende noteopplysninger:
+
+1. segmentregnskap for hvert av ansvarsstedene pålagt etter denne forskrift [§ 2](forskrift/2017-12-21-2383/§2), med en inndeling som minst viser sum inntekter, sum kostnader, driftsresultat, sum netto finansposter og årsresultat.
+2. oversikt over statlige tilskudd og egenbetaling fra studenter.
+3. endring i opptjent og innskutt egenkapital, fordelt på segment.
+4. transaksjoner med nærstående parter hvor verdien av institusjonens ytelse utgjør 50 000 kroner eller mer, fordelt på segment. Opplysningene skal omfatte transaksjonenes beløp og en beskrivelse av hva slags forhold det er mellom institusjonen og den nærstående part.
 
 ## § 4. Oppbevaringsplikt for regnskapsmateriale mv.
 

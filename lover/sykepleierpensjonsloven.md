@@ -15,7 +15,7 @@ xml_hash: "b45e2e7dedc9ab6c7bbf4ef1f781ae414a45bd2533b734b13eb80d222266cfce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,29 @@ eu_basis: []
 
 ### § 1
 
-Offentlig godkjente sykepleiere ansatt i privat, fylkeskommunal eller statlig virksomhet omfattet av [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. og [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m., skal være medlemmer i pensjonsordningen for sykepleiere. Herunder omfattes blant annet ansatte ved:sykehussykestuefødehjemspesialsykehjemsykehotellmedisinsk laboratoriumrøntgeninstituttprivat forpleiningsstedopptreningsinstitusjondaginstitusjonprivatpraktiserende legespesialistprivatpraktiserende psykologvirksomhet som yter ambulansetjenestevirksomhet som yter medisinsk nødmeldetjeneste.
+Offentlig godkjente sykepleiere ansatt i privat, fylkeskommunal eller statlig virksomhet omfattet av [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. og [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m., skal være medlemmer i pensjonsordningen for sykepleiere. Herunder omfattes blant annet ansatte ved:
 
-Offentlig godkjente sykepleiere ansatt i stilling knyttet til helse- og omsorgstjenesten i henhold til helse- og omsorgstjenesteloven skal være medlemmer i pensjonsordningen for sykepleiere. Herunder omfattes blant annet ansatte ved:privat sykehjem hvor eier har inngått avtale med kommune om utgiftsgodtgjøringprivat omsorgsbolig hvor eier har inngått avtale med kommune om utgiftsgodtgjøringallmennpraktiserende lege med fastlegeavtaleprivatpraktiserende fysioterapeut med avtale om driftstilskudd fra kommune.
+1. sykehus
+2. sykestue
+3. fødehjem
+4. spesialsykehjem
+5. sykehotell
+6. medisinsk laboratorium
+7. røntgeninstitutt
+8. privat forpleiningssted
+9. opptreningsinstitusjon
+10. daginstitusjon
+11. privatpraktiserende legespesialist
+12. privatpraktiserende psykolog
+13. virksomhet som yter ambulansetjeneste
+14. virksomhet som yter medisinsk nødmeldetjeneste.
+
+Offentlig godkjente sykepleiere ansatt i stilling knyttet til helse- og omsorgstjenesten i henhold til helse- og omsorgstjenesteloven skal være medlemmer i pensjonsordningen for sykepleiere. Herunder omfattes blant annet ansatte ved:
+
+1. privat sykehjem hvor eier har inngått avtale med kommune om utgiftsgodtgjøring
+2. privat omsorgsbolig hvor eier har inngått avtale med kommune om utgiftsgodtgjøring
+3. allmennpraktiserende lege med fastlegeavtale
+4. privatpraktiserende fysioterapeut med avtale om driftstilskudd fra kommune.
 
 Pensjonsordningens styre kan bestemme at offentlig godkjente sykepleiere som er i annen sykepleietjeneste enn nevnt i første og andre ledd, skal være medlemmer av pensjonsordningen.
 
@@ -136,7 +156,10 @@ Departementet kan gi nærmere forskrifter for fastsetting av pensjonsgrunnlaget 
 
 ### § 9
 
-Det årlige beløp av en alderspensjon beregnes slik:Har medlemmet en pensjonsgivende tjenestetid på 30 år eller mer, får vedkommende full alderspensjon. Denne skal være 66 pst. av pensjonsgrunnlaget.Har medlemmet en pensjonsgivende tjenestetid på mindre enn 30 år, skal vedkommende ha en avkortet alderspensjon, som utgjør så mange trettideler av full pensjon som vedkommende har tjenesteår.
+Det årlige beløp av en alderspensjon beregnes slik:
+
+1. Har medlemmet en pensjonsgivende tjenestetid på 30 år eller mer, får vedkommende full alderspensjon. Denne skal være 66 pst. av pensjonsgrunnlaget.
+2. Har medlemmet en pensjonsgivende tjenestetid på mindre enn 30 år, skal vedkommende ha en avkortet alderspensjon, som utgjør så mange trettideler av full pensjon som vedkommende har tjenesteår.
 
 Alderspensjonen skal levealdersjusteres etter bestemmelsene i [§§ 10 a](lov/1962-06-22-12/§10a) og [10 b](lov/1962-06-22-12/§10b).
 
@@ -162,7 +185,11 @@ Oppsatt alderspensjon skal levealdersjusteres etter bestemmelsene i [§§ 10 a](
 
 ### § 10 a
 
-Alderspensjonen skal levealdersjusteres, slik at den enkeltes pensjon justeres for endringer i befolkningens levealder. Levealdersjusteringen gjennomføres ved hjelp av justeringstall, som fastsettes slik:For årskull fra og med 1943-kullet til og med 1953-kullet tilsvarer justeringstallene de forholdstallene som fastsettes av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 19-6](lov/1997-02-28-19/§19-6) og [19-7](lov/1997-02-28-19/§19-7).For årskull fra og med 1963-kullet beregnes det justeringstall med utgangspunkt i delingstall fastsatt av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 20-12](lov/1997-02-28-19/§20-12) og [20-13](lov/1997-02-28-19/§20-13). Justeringstallene framkommer ved å dividere delingstallene med 13,42.For årskull fra og med 1954-kullet til og med 1962-kullet benyttes det justeringstall både etter bokstav a og bokstav b, se [§ 10 b](lov/1962-06-22-12/§10b).
+Alderspensjonen skal levealdersjusteres, slik at den enkeltes pensjon justeres for endringer i befolkningens levealder. Levealdersjusteringen gjennomføres ved hjelp av justeringstall, som fastsettes slik:
+
+1. For årskull fra og med 1943-kullet til og med 1953-kullet tilsvarer justeringstallene de forholdstallene som fastsettes av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 19-6](lov/1997-02-28-19/§19-6) og [19-7](lov/1997-02-28-19/§19-7).
+2. For årskull fra og med 1963-kullet beregnes det justeringstall med utgangspunkt i delingstall fastsatt av Arbeids- og velferdsdirektoratet, jf. [folketrygdloven §§ 20-12](lov/1997-02-28-19/§20-12) og [20-13](lov/1997-02-28-19/§20-13). Justeringstallene framkommer ved å dividere delingstallene med 13,42.
+3. For årskull fra og med 1954-kullet til og med 1962-kullet benyttes det justeringstall både etter bokstav a og bokstav b, se [§ 10 b](lov/1962-06-22-12/§10b).
 
 Alderspensjonen skal levealdersjusteres tidligst fra fylte 67 år. Dette gjelder også dersom det er utbetalt alderspensjon fra et tidligere tidspunkt. Pensjonen divideres med justeringstallet som gjelder ved fylte 67 år.
 
@@ -176,7 +203,10 @@ Departementet gir forskrift om anvendelsen av justeringstall.
 
 ### § 10 b
 
-Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusteringen gjennomføres slik:Det skal foretas en beregning etter [§ 10 a](lov/1962-06-22-12/§10a) med justeringstall fastsatt henholdsvis etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b.Personer som er født i 1954, får 9/10 av pensjonen levealdersjustert ved bruk av justeringstallet etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og 1/10 etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b. Andelen beregnet etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a reduseres med 1/10 for hvert senere årskull, slik at personer født i 1962 får 1/10 av pensjonen levealdersjustert etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og 9/10 levealdersjustert etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b.
+Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusteringen gjennomføres slik:
+
+1. Det skal foretas en beregning etter [§ 10 a](lov/1962-06-22-12/§10a) med justeringstall fastsatt henholdsvis etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b.
+2. Personer som er født i 1954, får 9/10 av pensjonen levealdersjustert ved bruk av justeringstallet etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og 1/10 etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b. Andelen beregnet etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a reduseres med 1/10 for hvert senere årskull, slik at personer født i 1962 får 1/10 av pensjonen levealdersjustert etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav a og 9/10 levealdersjustert etter [§ 10 a](lov/1962-06-22-12/§10a) første ledd bokstav b.
 
 > Tilføyd ved lov [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)).
 
@@ -184,9 +214,16 @@ Dersom pensjonisten er født i årene fra 1954 til 1962, skal levealdersjusterin
 
 Medlemmer som er født i 1958 eller tidligere, skal ha et garantert pensjonsnivå etter reglene i paragrafen her.
 
-Garantien gjelder tidligst fra fylte 67 år og anvendes på summen avalderspensjon etter loven her, samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, ogalderspensjon fra folketrygden.
+Garantien gjelder tidligst fra fylte 67 år og anvendes på summen av
 
-Alderspensjon fra folketrygden som inngår i beregningen etter andre ledd bokstav b, fastsettes slik:Dersom pensjonene tas ut samtidig, anvendes alderspensjonen fra folketrygden.Dersom alderspensjonen fra folketrygden er tatt ut før pensjon etter loven her, benyttes det en alderspensjon fra folketrygden beregnet som om den var tatt ut på samme tidspunkt som tjenestepensjonen.For medlemmer som har fratrådt sin stilling med alderspensjon etter loven her før fylte 67 år, skal denne pensjonen anses å være tatt ut ved fylte 67 år ved anvendelse av bokstavene a og b.
+1. alderspensjon etter loven her, samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, og
+2. alderspensjon fra folketrygden.
+
+Alderspensjon fra folketrygden som inngår i beregningen etter andre ledd bokstav b, fastsettes slik:
+
+1. Dersom pensjonene tas ut samtidig, anvendes alderspensjonen fra folketrygden.
+2. Dersom alderspensjonen fra folketrygden er tatt ut før pensjon etter loven her, benyttes det en alderspensjon fra folketrygden beregnet som om den var tatt ut på samme tidspunkt som tjenestepensjonen.
+3. For medlemmer som har fratrådt sin stilling med alderspensjon etter loven her før fylte 67 år, skal denne pensjonen anses å være tatt ut ved fylte 67 år ved anvendelse av bokstavene a og b.
 
 For medlemmer som har 30 års tjenestetid eller mer, utgjør det garanterte pensjonsnivået 66 prosent av pensjonsgrunnlaget. For medlemmer som har mindre enn 30 års tjenestetid, jf. [§ 9](lov/1962-06-22-12/§9) første ledd bokstav b, utgjør det garanterte pensjonsnivået et forholdsmessig beløp.
 
@@ -298,7 +335,10 @@ Medlemmer med tjenestetid før 2020 har rett til oppsatt alderspensjon dersom sa
 
 Pensjonen beregnes av medlemmets pensjonsgrunnlag 31. desember 2019. Har medlemmet 31. desember 2019 lenger tjenestetid enn 30 år, skal gjennomsnittlig stillingsandel beregnes med utgangspunkt i de 30 årene med høyest stillingsandel.
 
-Den årlige alderspensjonen beregnes slik:Har medlemmet 31. desember 2019 full tjenestetid, eller mer, får medlemmet full alderspensjon. Full tjenestetid er den tjenestetiden medlemmet ville hatt fra den dagen vedkommende ble medlem av pensjonsordningen og fram til det laveste av aldersgrensen eller 70 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Pensjonen skal utgjøre 66 prosent av pensjonsgrunnlaget.Har medlemmet 31. desember 2019 ikke full tjenestetid, skal medlemmet ha en avkortet alderspensjon som utgjør en så stor andel av full pensjon som tjenestetiden 31. desember 2019 utgjør av full tjenestetid.
+Den årlige alderspensjonen beregnes slik:
+
+1. Har medlemmet 31. desember 2019 full tjenestetid, eller mer, får medlemmet full alderspensjon. Full tjenestetid er den tjenestetiden medlemmet ville hatt fra den dagen vedkommende ble medlem av pensjonsordningen og fram til det laveste av aldersgrensen eller 70 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år. Pensjonen skal utgjøre 66 prosent av pensjonsgrunnlaget.
+2. Har medlemmet 31. desember 2019 ikke full tjenestetid, skal medlemmet ha en avkortet alderspensjon som utgjør en så stor andel av full pensjon som tjenestetiden 31. desember 2019 utgjør av full tjenestetid.
 
 Forsørger medlemmet barn under 18 år, skal det for hvert barn ytes et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full tjenestetid. Er pensjonen beregnet etter kortere enn full tjenestetid, skal det foretas en forholdsmessig avkorting. Barnetillegg betales ut den måneden barnet fyller 18 år eller i tilfelle måneden etter barnets død.
 
@@ -460,7 +500,11 @@ Rett til uførepensjon etter kapitlet her har også den som har minst tre års s
 
 ### § 13
 
-Ved beregning av midlertidig uførepensjon og uførepensjon tas det hensyn til hvor stor del av inntektsevnen som er tapt (uføregraden) og medlemmets tjenestetid. Har medlemmet tapt hele inntektsevnen, utgjør full pensjon summen av25 prosent av folketrygdens grunnbeløp, likevel ikke mer enn 6 prosent av pensjonsgrunnlaget,3 prosent av pensjonsgrunnlaget opp til 6 ganger grunnbeløpet og69 prosent av den delen av pensjonsgrunnlaget som er mellom 6 og 12 ganger grunnbeløpet.
+Ved beregning av midlertidig uførepensjon og uførepensjon tas det hensyn til hvor stor del av inntektsevnen som er tapt (uføregraden) og medlemmets tjenestetid. Har medlemmet tapt hele inntektsevnen, utgjør full pensjon summen av
+
+1. 25 prosent av folketrygdens grunnbeløp, likevel ikke mer enn 6 prosent av pensjonsgrunnlaget,
+2. 3 prosent av pensjonsgrunnlaget opp til 6 ganger grunnbeløpet og
+3. 69 prosent av den delen av pensjonsgrunnlaget som er mellom 6 og 12 ganger grunnbeløpet.
 
 Dersom inntektsevnen er nedsatt, men ikke i en slik grad at medlemmet har rett til arbeidsavklaringspenger eller uføretrygd fra folketrygden, beregnes pensjonen etter første ledd og tillegges 66 prosent av pensjonsgrunnlaget opp til 6 ganger folketrygdens grunnbeløp. Det samme gjelder når medlemmet får avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav a](lov/1957-07-06-26/§1/ledd/1/bokstav/a), og ikke lenger har rett til arbeidsavklaringspenger fra folketrygden. Dersom medlemmet får avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d) eller livsvarig avtalefestet pensjon, skal pensjonen likevel beregnes etter første ledd i paragrafen her, jf. tredje til sjuende ledd.
 
@@ -570,7 +614,11 @@ Dersom avdøde mottok avtalefestet pensjon eller alderspensjon, legges samlet fa
 
 ### § 19 b
 
-Det ytes enke- og enkemannspensjon til gjenlevende ektefelle etter denne paragrafen når:medlemmet døde før 1. januar 2001,medlemmet døde mellom 1. januar 2001 og 1. februar 2010 og gjenlevende er enke eller enkemann etter medlem med medlemskap før 1. oktober 1976, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000, ellermedlemmet døde etter 31. januar 2010 og gjenlevende er født før 1. januar 1955 og avdøde ble medlem første gang før 1. oktober 1976 og ekteskapet ble inngått før 1. januar 2010, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000.
+Det ytes enke- og enkemannspensjon til gjenlevende ektefelle etter denne paragrafen når:
+
+1. medlemmet døde før 1. januar 2001,
+2. medlemmet døde mellom 1. januar 2001 og 1. februar 2010 og gjenlevende er enke eller enkemann etter medlem med medlemskap før 1. oktober 1976, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000, eller
+3. medlemmet døde etter 31. januar 2010 og gjenlevende er født før 1. januar 1955 og avdøde ble medlem første gang før 1. oktober 1976 og ekteskapet ble inngått før 1. januar 2010, og ellers når gjenlevende er født før 1. juli 1950 og avdøde ble medlem før 1. juli 2000.
 
 Full årlig ektefellepensjon skal utgjøre 39,6 prosent av det pensjonsgrunnlaget som det avdøde medlemmet hadde (bruttopensjon). Bestemmelsene i [§ 19 a](lov/1962-06-22-12/§19a) første ledd fjerde punktum, andre og tredje ledd gjelder tilsvarende.
 
@@ -584,7 +632,16 @@ Gjenlevende ektefelle som er født i 1954 eller senere, og som omfattes av parag
 
 ### § 20
 
-Enke- og enkemannspensjon fastsatt etter reglene i [§ 19 b](lov/1962-06-22-12/§19b) skal reduseres i henhold til reglene i bokstav a og b nedenfor. Dersom ekteskapet ble inngått før 1. januar 2010, gjelder dette likevel ikke for pensjon til enke etter mannlig medlem som ble medlem første gang før 1. oktober 1976, og heller ikke for annen gjenlevende ektefelle etter medlem med medlemskap før 1. oktober 1976 for tjenestetid opptjent etter 31. desember 1993.Dersom den gjenlevende ektefellen samtidig har alderspensjon etter [kapittel 4](lov/1962-06-22-12/kap4), tidligpensjon etter [kapittel 4 b](lov/1962-06-22-12/kap4b) eller midlertidig uførepensjon eller uførepensjon etter [kapittel 5](lov/1962-06-22-12/kap5) eller tilsvarende pensjon fra en annen tjenestepensjonsordning, skal enke- eller enkemannspensjonen reduseres etter bestemmelsene her.Har den gjenlevende ektefellen alderspensjon, skal pensjonene ikke overstige et beløp som svarer til 60 prosent av summen av den gjenlevendes og den avdødes alderspensjoner. Avdødes alderspensjon regnes av samme pensjonsgrunnlag og tjenestetid som er lagt til grunn for enke- eller enkemannspensjonen. Det overskytende beløpet skal gå til fradrag i enke- eller enkemannspensjonen.Har den gjenlevende ektefellen midlertidig uførepensjon eller uførepensjon, skal enke- eller enkemannspensjonen utgjøre det beløpet som framkommer etter bokstav a annet ledd når en benytter en beregnet alderspensjon for den gjenlevende ektefellen med samme pensjonsgrunnlag og tjenestetid som den midlertidige uførepensjonen eller uførepensjonen. Dersom den midlertidige uførepensjonen eller uførepensjonen er gradert, skal den beregnede alderspensjonen graderes tilsvarende.Når den gjenlevende ektefelle ut fra alder og ervervsevne, foreliggende ervervsmuligheter og omstendighetene for øvrig kan ventes å få en årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet i folketrygden, skal ektefellepensjonen reduseres. Reduksjonen skal utgjøre 40 prosent av den del av forventet årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet. Skjer det en vesentlig endring i de forhold som har vært avgjørende for fastsettelsen av ektefellepensjonen, kan saken prøves på nytt og pensjonen endres eller falle bort.Inntekten som er lagt til grunn i folketrygden, legges også til grunn etter paragrafen her. Har gjenlevende ektefelle fylt 67 år, skal ektefellepensjonen ikke avkortes med mindre vedkommende har ervervsinntekt. Har gjenlevende fylt 70 år, reduseres ikke pensjonen på grunn av ervervsinntekt.
+Enke- og enkemannspensjon fastsatt etter reglene i [§ 19 b](lov/1962-06-22-12/§19b) skal reduseres i henhold til reglene i bokstav a og b nedenfor. Dersom ekteskapet ble inngått før 1. januar 2010, gjelder dette likevel ikke for pensjon til enke etter mannlig medlem som ble medlem første gang før 1. oktober 1976, og heller ikke for annen gjenlevende ektefelle etter medlem med medlemskap før 1. oktober 1976 for tjenestetid opptjent etter 31. desember 1993.
+
+1. Dersom den gjenlevende ektefellen samtidig har alderspensjon etter [kapittel 4](lov/1962-06-22-12/kap4), tidligpensjon etter [kapittel 4 b](lov/1962-06-22-12/kap4b) eller midlertidig uførepensjon eller uførepensjon etter [kapittel 5](lov/1962-06-22-12/kap5) eller tilsvarende pensjon fra en annen tjenestepensjonsordning, skal enke- eller enkemannspensjonen reduseres etter bestemmelsene her.
+
+   Har den gjenlevende ektefellen alderspensjon, skal pensjonene ikke overstige et beløp som svarer til 60 prosent av summen av den gjenlevendes og den avdødes alderspensjoner. Avdødes alderspensjon regnes av samme pensjonsgrunnlag og tjenestetid som er lagt til grunn for enke- eller enkemannspensjonen. Det overskytende beløpet skal gå til fradrag i enke- eller enkemannspensjonen.
+
+   Har den gjenlevende ektefellen midlertidig uførepensjon eller uførepensjon, skal enke- eller enkemannspensjonen utgjøre det beløpet som framkommer etter bokstav a annet ledd når en benytter en beregnet alderspensjon for den gjenlevende ektefellen med samme pensjonsgrunnlag og tjenestetid som den midlertidige uførepensjonen eller uførepensjonen. Dersom den midlertidige uførepensjonen eller uførepensjonen er gradert, skal den beregnede alderspensjonen graderes tilsvarende.
+2. Når den gjenlevende ektefelle ut fra alder og ervervsevne, foreliggende ervervsmuligheter og omstendighetene for øvrig kan ventes å få en årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet i folketrygden, skal ektefellepensjonen reduseres. Reduksjonen skal utgjøre 40 prosent av den del av forventet årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet. Skjer det en vesentlig endring i de forhold som har vært avgjørende for fastsettelsen av ektefellepensjonen, kan saken prøves på nytt og pensjonen endres eller falle bort.
+
+   Inntekten som er lagt til grunn i folketrygden, legges også til grunn etter paragrafen her. Har gjenlevende ektefelle fylt 67 år, skal ektefellepensjonen ikke avkortes med mindre vedkommende har ervervsinntekt. Har gjenlevende fylt 70 år, reduseres ikke pensjonen på grunn av ervervsinntekt.
 
 Dersom begge reduksjonsbestemmelsene skal anvendes, reduseres pensjonen først etter bokstav a.
 

@@ -15,7 +15,7 @@ xml_hash: "26519362b7aac778b0276a6117ceaccb9d6fdf3367e889e7cd6a46661fc6c9e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,13 @@ Ein samfunnsgagnleg bruk inneber at ein tek omsyn til at ressursane skal dispone
 
 ### § 2. Virkeområde
 
-Denne lova gjeld for heile landet. Føresegnene i [§§ 9](lov/1995-05-12-23/§9) og [12](lov/1995-05-12-23/§12) gjeld likevel ikkje for område som:I reguleringsplan er lagt ut til anna føremål enn landbruk eller hensynssone som med tilhørende bestemmelse fastlegger faresone, jf. plan- og [bygningsloven § 12-6](lov/2008-06-27-71/§12-6).I bindande arealdel av kommuneplan er lagt ut tilbebyggelse og anlegg, ellerlandbruks-, natur- og friluftsområde samt reindrift der grunnutnyttinga er i samsvar med føresegner om spreidd utbygging som krev at det ligg føre reguleringsplan før deling og utbygging kan skje.
+Denne lova gjeld for heile landet. Føresegnene i [§§ 9](lov/1995-05-12-23/§9) og [12](lov/1995-05-12-23/§12) gjeld likevel ikkje for område som:
+
+1. I reguleringsplan er lagt ut til anna føremål enn landbruk eller hensynssone som med tilhørende bestemmelse fastlegger faresone, jf. plan- og [bygningsloven § 12-6](lov/2008-06-27-71/§12-6).
+2. I bindande arealdel av kommuneplan er lagt ut til
+
+   1. bebyggelse og anlegg, eller
+   2. landbruks-, natur- og friluftsområde samt reindrift der grunnutnyttinga er i samsvar med føresegner om spreidd utbygging som krev at det ligg føre reguleringsplan før deling og utbygging kan skje.
 
 Ved vedtak eller godkjenning av kommuneplan eller reguleringsplan kan det gjerast vedtak av planmyndigheitene om at føresegnene i [§§ 9](lov/1995-05-12-23/§9) og [12](lov/1995-05-12-23/§12) skal gjelde for planområda eller avgrensa deler av dei.
 

@@ -15,7 +15,7 @@ xml_hash: "810f44b44de4f91a9c908e57d1fd63c2dbc1006220d3aadb74e5686a805824df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller mer, inkludert fritidsfartøy med største lengde 24 meter eller merpassasjerskipflyttbare innretninger. Flyttbare innretninger uten egen framdrift skal følge [kapittel 5](forskrift/2014-09-05-1157/kap5) og [6](forskrift/2014-09-05-1157/kap6), [§ 2](forskrift/2014-09-05-1157/§2), [§ 5](forskrift/2014-09-05-1157/§5), [§ 6](forskrift/2014-09-05-1157/§6), [§ 9](forskrift/2014-09-05-1157/§9) og [§ 10](forskrift/2014-09-05-1157/§10)lektere.
+(1) Forskriften gjelder for norske
+
+1. lasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller mer, inkludert fritidsfartøy med største lengde 24 meter eller mer
+2. passasjerskip
+3. flyttbare innretninger. Flyttbare innretninger uten egen framdrift skal følge [kapittel 5](forskrift/2014-09-05-1157/kap5) og [6](forskrift/2014-09-05-1157/kap6), [§ 2](forskrift/2014-09-05-1157/§2), [§ 5](forskrift/2014-09-05-1157/§5), [§ 6](forskrift/2014-09-05-1157/§6), [§ 9](forskrift/2014-09-05-1157/§9) og [§ 10](forskrift/2014-09-05-1157/§10)
+4. lektere.
 
 (2) Skip med sikkerhetssertifikat for hurtiggående fartøy skal følge [kapittel 2](forskrift/2014-09-05-1157/kap2), [3](forskrift/2014-09-05-1157/kap3), [5](forskrift/2014-09-05-1157/kap5) og [6](forskrift/2014-09-05-1157/kap6) og [§ 2](forskrift/2014-09-05-1157/§2) og [§ 22](forskrift/2014-09-05-1157/§22).
 
@@ -82,7 +87,15 @@ Skip med bruttotonnasje 500 eller mer og flyttbare innretninger på internasjona
 
 ### § 8. Operasjonsbegrensninger for passasjerskip i utenriksfart
 
-Passasjerskip i utenriksfart skal ha en engelsk oppdatert liste over alle skipets begrensninger lett tilgjengelig om bord. Listen skal blant annet omfatte:dispensasjonerbegrensninger som gjelder operasjonsområdeværbegrensningerbølgebegrensningertillatte lastertrimhastighet.
+Passasjerskip i utenriksfart skal ha en engelsk oppdatert liste over alle skipets begrensninger lett tilgjengelig om bord. Listen skal blant annet omfatte:
+
+1. dispensasjoner
+2. begrensninger som gjelder operasjonsområde
+3. værbegrensninger
+4. bølgebegrensninger
+5. tillatte laster
+6. trim
+7. hastighet.
 
 > Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
 
@@ -94,7 +107,14 @@ Skip og flyttbare innretninger som i issesongen passerer gjennom farvann som ove
 
 ### § 10. Farevarsler
 
-(1) Skipsfører skal varsle fartøy i nærheten og relevante myndigheterom områder med farlig is, farlig vrakgods eller andre farer for navigeringenved tropisk stormved temperatur under 0 °C kombinert med kuling som kan føre til isingved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarselom observasjon av flytende transportcontainere i sjøenved tap av én eller flere transportcontainere. Dersom skipet forlates, eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
+(1) Skipsfører skal varsle fartøy i nærheten og relevante myndigheter
+
+1. om områder med farlig is, farlig vrakgods eller andre farer for navigeringen
+2. ved tropisk storm
+3. ved temperatur under 0 °C kombinert med kuling som kan føre til ising
+4. ved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarsel
+5. om observasjon av flytende transportcontainere i sjøen
+6. ved tap av én eller flere transportcontainere. Dersom skipet forlates, eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
 
 (2) Varsler etter første ledd skal gis på engelsk eller i samsvar med den internasjonale signalhåndboken. Informasjonen i varselet skal være i samsvar med [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS)](traktat/1974-11-01-1) kapittel V regel 32, fastsatt ved resolusjon MSC.99(73), som endret ved resolusjon MSC.550 (108).
 
@@ -110,7 +130,17 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 (1) Styremaskinen skal kontrolleres og prøves av besetningen tidligst 12 timer før avgang. For skip som regelmessig brukes på reiser som ikke overstiger 1000 nautiske mil mellom avgangshavnen og den endelige ankomsthavnen, er det tilstrekkelig å kontrollere og prøve styremaskinen minst én gang i uken.
 
-(2) Styremaskinens funksjon prøves i samsvar med skipets prosedyre, og prosedyren skal omfattehovedstyremaskinenhjelpestyremaskinenestyreposisjoner som ikke er på broenstyreposisjonene på broennødkrafttilførselenrorindikatorene i forhold til rorets faktiske stillingalarm for svikt i krafttilførsel til fjernopererte kontrollsystemer for styremaskinenalarm for svikt i krafttilførsel til kraftenhetene i styremaskinenautomatiske isolasjonsarrangementer og annet automatisk utstyr.
+(2) Styremaskinens funksjon prøves i samsvar med skipets prosedyre, og prosedyren skal omfatte
+
+1. hovedstyremaskinen
+2. hjelpestyremaskinene
+3. styreposisjoner som ikke er på broen
+4. styreposisjonene på broen
+5. nødkrafttilførselen
+6. rorindikatorene i forhold til rorets faktiske stilling
+7. alarm for svikt i krafttilførsel til fjernopererte kontrollsystemer for styremaskinen
+8. alarm for svikt i krafttilførsel til kraftenhetene i styremaskinen
+9. automatiske isolasjonsarrangementer og annet automatisk utstyr.
 
 (3) Prøvingen etter annet ledd skal vise at roret har full bevegelse i samsvar med styremaskinens spesifikasjoner, og at kommunikasjonsutstyret mellom bro og styremaskinrom fungerer. I tillegg skal styremaskinens tilslutninger kontrolleres visuelt.
 
@@ -134,11 +164,29 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 ### § 14. Sikt fra broen
 
-(1) Skip og flyttbare innretninger bygget 1. juli 1998 eller senere skalfra kommandoposisjonen ha sikt til havoverflaten ikke hindret med mer enn to skipslengder og aldri mer enn 500 meter rett forover og til 10° på hver side, og ikke ha enkelte blindsektorer større enn 5° uavhengig av skipets dypgående, trim og dekkslastikke ha blindsektor større enn 10° som skyldes last, laste- og losseinnretninger eller andre gjenstander utenfor styrehuset forenfor tvers, og som begrenser sikten til havoverflaten fra kommandoposisjonen. Den totale buen av blindsektorer skal ikke være større enn 20°, og den uhindrede sektoren mellom to blindsektorer skal være minst 5°ha horisontal sikt fra kommandoposisjonen som utgjør en bue på minst 225°, det vil si fra rett forut til minst 22,5° aktenfor tvers på hver side av skipetha horisontal sikt fra hver broving som utgjør en bue på minst 225°, det vil si fra minst 45° på motsatt baug og gjennom rett forut, og så fra rett forut til rett akterut i 180° på samme side av skipetha horisontal sikt fra hovedstyreposisjonen som utgjør en bue fra rett forut til minst 60° på hver side av skipetha skipssiden synlig fra brovingenha den nedre kanten av frontvinduene på broen plassert så lavt over brodekket som mulig, og ikke i noe tilfelle slik at sikten forover blokkeresha overkanten av frontvinduene på broen slik at den tillater sikt forover mot horisonten for en person med øyehøyde på 1800 mm over brodekket ved kommandoposisjonen når skipet stamper i høy sjø, eller 1600 mm der det er konstruksjonsmessig upraktisk med 1800 mmha frontvinduene på broen vertikalt skråstilt med overkanten minst 10° og maksimalt 25° forenfor underkantenha minimale karmer mellom vinduene på broen. Karmene kan ikke være plassert rett foran en arbeidsstasjonikke ha polariserte og fargede vinduerha klar sikt fra minst to av frontvinduene på broen, og det skal avhengig av broutformingen i tillegg være et tilstrekkelig antall vinduer til å gi klar sikt til sidene.
+(1) Skip og flyttbare innretninger bygget 1. juli 1998 eller senere skal
+
+1. fra kommandoposisjonen ha sikt til havoverflaten ikke hindret med mer enn to skipslengder og aldri mer enn 500 meter rett forover og til 10° på hver side, og ikke ha enkelte blindsektorer større enn 5° uavhengig av skipets dypgående, trim og dekkslast
+2. ikke ha blindsektor større enn 10° som skyldes last, laste- og losseinnretninger eller andre gjenstander utenfor styrehuset forenfor tvers, og som begrenser sikten til havoverflaten fra kommandoposisjonen. Den totale buen av blindsektorer skal ikke være større enn 20°, og den uhindrede sektoren mellom to blindsektorer skal være minst 5°
+3. ha horisontal sikt fra kommandoposisjonen som utgjør en bue på minst 225°, det vil si fra rett forut til minst 22,5° aktenfor tvers på hver side av skipet
+4. ha horisontal sikt fra hver broving som utgjør en bue på minst 225°, det vil si fra minst 45° på motsatt baug og gjennom rett forut, og så fra rett forut til rett akterut i 180° på samme side av skipet
+5. ha horisontal sikt fra hovedstyreposisjonen som utgjør en bue fra rett forut til minst 60° på hver side av skipet
+6. ha skipssiden synlig fra brovingen
+7. ha den nedre kanten av frontvinduene på broen plassert så lavt over brodekket som mulig, og ikke i noe tilfelle slik at sikten forover blokkeres
+8. ha overkanten av frontvinduene på broen slik at den tillater sikt forover mot horisonten for en person med øyehøyde på 1800 mm over brodekket ved kommandoposisjonen når skipet stamper i høy sjø, eller 1600 mm der det er konstruksjonsmessig upraktisk med 1800 mm
+9. ha frontvinduene på broen vertikalt skråstilt med overkanten minst 10° og maksimalt 25° forenfor underkanten
+10. ha minimale karmer mellom vinduene på broen. Karmene kan ikke være plassert rett foran en arbeidsstasjon
+11. ikke ha polariserte og fargede vinduer
+12. ha klar sikt fra minst to av frontvinduene på broen, og det skal avhengig av broutformingen i tillegg være et tilstrekkelig antall vinduer til å gi klar sikt til sidene.
 
 (2) Skip bygget før 1. juli 1998 skal oppfylle kravene i første ledd bokstav a og b, med mindre dette krever konstruksjonsendringer eller tilleggsutstyr.
 
-(3) Følgende skip og flyttbare innretninger som etter Sjøfartsdirektoratets vurdering ikke kan oppfylle kravene etter første ledd, skal ha arrangement som sikrer sikt fra broen som så nær opp til kravene som praktisk mulig:skip og flyttbare innretninger med ukonvensjonell utformingskip som utelukkende går i fartsområde 2 eller mindre fartsområdeskip med bruttotonnasje under 500 i innenriksfartskip med bruttotonnasje under 150.
+(3) Følgende skip og flyttbare innretninger som etter Sjøfartsdirektoratets vurdering ikke kan oppfylle kravene etter første ledd, skal ha arrangement som sikrer sikt fra broen som så nær opp til kravene som praktisk mulig:
+
+1. skip og flyttbare innretninger med ukonvensjonell utforming
+2. skip som utelukkende går i fartsområde 2 eller mindre fartsområde
+3. skip med bruttotonnasje under 500 i innenriksfart
+4. skip med bruttotonnasje under 150.
 
 (4) Uavhengig av kravene i første ledd bokstav a, c, d og e kan ballastvannoperasjoner gjennomføres når skipsfører har vurdert at det er sikkert, og det tas hensyn til økte blindsektorer og redusert horisontal sikt for å sikre forsvarlig utkikk til enhver tid. Operasjonen skal gjennomføres i samsvar med ballastvannplanen til skipet eller den flyttbare innretningen.
 
@@ -187,7 +235,11 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 (5) Skip bygget før 1. juli 2002 som ikke oppfyller første ledd fullt ut, skal i stedet for første ledd oppfylle kravene i vedlegg I.
 
-(6) Kravet om brovaktalarm gjelder ikke for følgende skip i fartsområde 4 eller mindre fartsområder eller skip med bruttotonnasje under 500 i liten kystfart:passasjerskip som går i fast rute og der overfartstiden ikke overstiger 12 minutterpassasjerskip med kontinuerlig brovakt bestående av minst to personerskip med passasjersertifikat som fører 12 eller færre passasjerer, og som ikke er hurtiggående fartøy.
+(6) Kravet om brovaktalarm gjelder ikke for følgende skip i fartsområde 4 eller mindre fartsområder eller skip med bruttotonnasje under 500 i liten kystfart:
+
+1. passasjerskip som går i fast rute og der overfartstiden ikke overstiger 12 minutter
+2. passasjerskip med kontinuerlig brovakt bestående av minst to personer
+3. skip med passasjersertifikat som fører 12 eller færre passasjerer, og som ikke er hurtiggående fartøy.
 
 (7) Kravet om peileinnretning til gyrokompass gjelder ikke skip i fartsområde 4 eller mindre fartsområder. For skip med bruttotonnasje under 1600 gjelder kravet bare så langt det er praktisk gjennomførbart.
 
@@ -209,7 +261,13 @@ Containerskip og bulkskip, som definert i SOLAS regel V/2.8 og regel V/2.9, med 
 
 (1) Alle skip og flyttbare innretninger skal ha oppdaterte offisielle sjøkart og nautiske publikasjoner for den planlagte reisen om bord, slik at posisjonene kan plottes og overvåkes under hele reisen. Elektronisk visnings- og informasjonssystem for sjøkart (ECDIS) med reservesystem kan benyttes for å oppfylle kravet om oppdaterte offisielle sjøkart. De nautiske publikasjonene i første punktum kan være digitale, jf. SLS.14/Circ.213.
 
-(2) ECDIS med reservesystem skal installeres på følgende skip og flyttbare innretninger i utenriksfart:passasjerskip med bruttotonnasje 500 eller mertankskip med bruttotonnasje 3000 eller merlasteskip, som ikke er tankskip, med bruttotonnasje 10 000 eller merlasteskip, som ikke er tankskip, og flyttbare innretninger med bruttotonnasje 3000 til 10 000 bygget 1. juli 2014 eller senereflyttbare innretninger med bruttotonnasje 10 000 eller mer.
+(2) ECDIS med reservesystem skal installeres på følgende skip og flyttbare innretninger i utenriksfart:
+
+1. passasjerskip med bruttotonnasje 500 eller mer
+2. tankskip med bruttotonnasje 3000 eller mer
+3. lasteskip, som ikke er tankskip, med bruttotonnasje 10 000 eller mer
+4. lasteskip, som ikke er tankskip, og flyttbare innretninger med bruttotonnasje 3000 til 10 000 bygget 1. juli 2014 eller senere
+5. flyttbare innretninger med bruttotonnasje 10 000 eller mer.
 
 > Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
 
@@ -253,7 +311,12 @@ Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er 
 
 ### § 21. Ferdsskriver (VDR)
 
-(1) Følgende skip og flyttbare innretninger skal ha ferdsskriver (VDR):passasjerskip i utenriksfartpassasjerskip i innenriksfart i klasse Ahurtiggående passasjerfartøy med bruttotonnasje 150 eller merlasteskip med bruttotonnasje 3000 eller mer og flyttbare innretninger.
+(1) Følgende skip og flyttbare innretninger skal ha ferdsskriver (VDR):
+
+1. passasjerskip i utenriksfart
+2. passasjerskip i innenriksfart i klasse A
+3. hurtiggående passasjerfartøy med bruttotonnasje 150 eller mer
+4. lasteskip med bruttotonnasje 3000 eller mer og flyttbare innretninger.
 
 (2) Lasteskip med bruttotonnasje 3000 eller mer bygget før 1. juli 2002 kan i stedet ha S-VDR.
 
@@ -269,11 +332,18 @@ Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er 
 
 ### § 22. Globalt system for identifisering og sporing av fartøy (LRIT)
 
-(1) Informasjon om identitet og posisjon (lengde- og breddegrad) samt dato og tid for gitt posisjon skal sendes automatisk i LRIT-systemet for:passasjerskip i utenriksfartlasteskip med bruttotonnasje 300 eller mer i utenriksfartflyttbare innretninger.
+(1) Informasjon om identitet og posisjon (lengde- og breddegrad) samt dato og tid for gitt posisjon skal sendes automatisk i LRIT-systemet for:
+
+1. passasjerskip i utenriksfart
+2. lasteskip med bruttotonnasje 300 eller mer i utenriksfart
+3. flyttbare innretninger.
 
 (2) Kravet i første ledd gjelder ikke skip og flyttbare innretninger utstyrt med AIS som utelukkende opererer i radiodekningsområde A1.
 
-(3) System og utstyr som benyttes for å møte LRIT-kravene, skal kunne slås av om bord eller være i stand til å avbryte sending av LRIT-informasjon nårinternasjonale avtaler har bestemmelser om beskyttelse av navigasjonsopplysninger, ellerskipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.
+(3) System og utstyr som benyttes for å møte LRIT-kravene, skal kunne slås av om bord eller være i stand til å avbryte sending av LRIT-informasjon når
+
+1. internasjonale avtaler har bestemmelser om beskyttelse av navigasjonsopplysninger, eller
+2. skipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.
 
 (4) Dersom sending av LRIT-informasjon avbrytes i samsvar med tredje ledd bokstav b, skal skipsføreren informere Sjøfartsdirektoratet.
 
@@ -303,9 +373,19 @@ Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er 
 
 ### § 25. Entringskrav
 
-(1) Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkomst til en losleider som er plassert og sikret slik atlosleideren går klar av ethvert utslipp fra skipetlosleideren er innenfor utstrekningen av skipets parallelle sider og så langt det er mulig innenfor skipets halve lengde midtskipshvert trinn på losleideren hviler fast mot skipssiden. Hvis skipets konstruksjon hindrer trinnene på losleideren i å hvile fast mot skipssiden, skal andre anordninger sikre at losen trygt kan entre og forlate skipeten enkelt leiderlengde når vannflaten fra det sted losen entrer og forlater skipet også med en ugunstig slagside på 15°, og uansett skipets laste- og trimforholdfestepunktene, sjaklene og sikringstauene er minst like sterke som holdetauene.
+(1) Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkomst til en losleider som er plassert og sikret slik at
 
-(2) Når skipet entres mer enn 9 meter over vannflaten, skal atkomsten sikres med losleider i kombinasjon med fallrep som skalplasseres slik at det vender akterover og går klar av alle utslippbrukes slik at den nedre enden av fallrepet sikres inntil skipssiden innenfor utstrekningen av skipets parallelle sider, og så langt det er mulig hviler innenfor skipets halve lengde midtskipsbrukes slik at losleider og fallrepstau sikres til skipets side 1,5 meter over bunnplattformen av fallrepet.
+1. losleideren går klar av ethvert utslipp fra skipet
+2. losleideren er innenfor utstrekningen av skipets parallelle sider og så langt det er mulig innenfor skipets halve lengde midtskips
+3. hvert trinn på losleideren hviler fast mot skipssiden. Hvis skipets konstruksjon hindrer trinnene på losleideren i å hvile fast mot skipssiden, skal andre anordninger sikre at losen trygt kan entre og forlate skipet
+4. en enkelt leiderlengde når vannflaten fra det sted losen entrer og forlater skipet også med en ugunstig slagside på 15°, og uansett skipets laste- og trimforhold
+5. festepunktene, sjaklene og sikringstauene er minst like sterke som holdetauene.
+
+(2) Når skipet entres mer enn 9 meter over vannflaten, skal atkomsten sikres med losleider i kombinasjon med fallrep som skal
+
+1. plasseres slik at det vender akterover og går klar av alle utslipp
+2. brukes slik at den nedre enden av fallrepet sikres inntil skipssiden innenfor utstrekningen av skipets parallelle sider, og så langt det er mulig hviler innenfor skipets halve lengde midtskips
+3. brukes slik at losleider og fallrepstau sikres til skipets side 1,5 meter over bunnplattformen av fallrepet.
 
 (3) Brukes det et kombinasjonsarrangement med inngang i nedre plattform av fallrepet, skal losleider og fallrepstau settes opp fra inngangen til plattform og forlenges til over høyden på rekkverket.
 
@@ -323,17 +403,30 @@ Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er 
 
 (4) Utstyret skal testes før bruk.
 
-(5) Det skal sikres trygg, praktisk og uhindret passasje for enhver som går om bord eller fra borde mellom toppen av losleideren eller toppen av fallrepet eller en hvilken som helst annen innretning og skipets dekk. Når slik passasje eren port i rekken eller skansekledningen, skal det være forsvarlig håndtak på begge sider av åpningenen rekketrapp, skal det finnes to rekkestøtter som er fast sikret til skipets konstruksjon ved eller nær nederste ende og høyere oppe. Rekketrappen skal være forsvarlig festet til skipet for å hindre at den tipper.
+(5) Det skal sikres trygg, praktisk og uhindret passasje for enhver som går om bord eller fra borde mellom toppen av losleideren eller toppen av fallrepet eller en hvilken som helst annen innretning og skipets dekk. Når slik passasje er
+
+1. en port i rekken eller skansekledningen, skal det være forsvarlig håndtak på begge sider av åpningen
+2. en rekketrapp, skal det finnes to rekkestøtter som er fast sikret til skipets konstruksjon ved eller nær nederste ende og høyere oppe. Rekketrappen skal være forsvarlig festet til skipet for å hindre at den tipper.
 
 > Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
 
 ### § 27. Utstyr og belysning
 
-(1) Følgende utstyr skal være tilgjengelig for umiddelbar bruk:to håndtau med diameter på 28 mm til 32 mm sikret til skipetfallrep festet til ringplaten på dekket når losen ankommer og forlater skipet, og når losen anmoder om detteen livbøye utstyrt med selvtennende lysen hiveline.
+(1) Følgende utstyr skal være tilgjengelig for umiddelbar bruk:
+
+1. to håndtau med diameter på 28 mm til 32 mm sikret til skipet
+2. fallrep festet til ringplaten på dekket når losen ankommer og forlater skipet, og når losen anmoder om dette
+3. en livbøye utstyrt med selvtennende lys
+4. en hiveline.
 
 (2) Atkomstmidlene og stedet på dekket der en person entrer og forlater skipet, skal lyses tilstrekkelig opp.
 
-(3) Atkomstmidlene skalvedlikeholdes og holdes renevære forsvarlig stuetinspiseres regelmessigkun brukes til å entre og forlate skipet.
+(3) Atkomstmidlene skal
+
+1. vedlikeholdes og holdes rene
+2. være forsvarlig stuet
+3. inspiseres regelmessig
+4. kun brukes til å entre og forlate skipet.
 
 (4) Datoen da losleideren ble tatt i bruk første gang, og reparasjonsdatoer skal registreres i vedlikeholdssystemet.
 
@@ -347,7 +440,10 @@ Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er 
 
 (1) Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften, når det dokumenteres at løsningene er likeverdige med forskriftens krav.
 
-(2) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet gi dispensasjon fra krav i forskriften når det ikke strider mot krav i direktiv [2002/59/EF](eu/32002l0059) vedlegg II, ogdet dokumenteres at kravet ikke er vesentlig, og at unntaket vurderes sikkerhetsmessig forsvarlig, ellerdet dokumenteres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(2) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet gi dispensasjon fra krav i forskriften når det ikke strider mot krav i direktiv [2002/59/EF](eu/32002l0059) vedlegg II, og
+
+1. det dokumenteres at kravet ikke er vesentlig, og at unntaket vurderes sikkerhetsmessig forsvarlig, eller
+2. det dokumenteres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (3) Sjøfartsdirektoratet kan unnta et skip som drives fram ved hjelp av seil, selv om det er utstyrt med mekanisk framdrift til bruk som hjelpekraft og i nødssituasjoner (seilskip) og lektere fra kravene i § 7, § 11, § 12, § 13, § 14, § 15 (unntatt kravet om radarreflektor), § 16, § 17, § 18, § 19, § 20, § 21 og § 23.
 

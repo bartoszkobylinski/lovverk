@@ -15,7 +15,7 @@ xml_hash: "1e2072ea298278639faf6d3e1b217b0a3838e7e24eb19f0e5b1a4afe6f5e71b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,20 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*catchvekt:* en automatisk vekt som veier enkeltmengder. Enkeltmengdene kan være på forhånd oppsamlede enkeltmengder (f.eks. ferdigpakninger) eller utgjøre en del av en større mengde (bulkprodukt). Vekten kan sortere eller kontrollere enkeltmengder basert på forhåndsinnstilte verdier. Oftest utfører «catchvekter» dynamisk veiing. Begrepet «catchvekter» omfatter bl.a. automatiske sjekkvekter, sorteringsvekter (gradere), prismerkevekter, merkevekter, vekter som veier pakker/brev automatisk, og automatiske vekter påmontert hjullastere og søppelbiler;*automatisk vekt:* et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet;*målestørrelsen:* den bestemte størrelsen som skal måles;*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør catchvektens normale driftsbetingelser;*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor catchvektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;*kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket*direktesalg:* en handelstransaksjon er direktesalg dersommåleresultatet danner grunnlaget for prisen som betales;minst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, ogalle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer;*Klimatisk miljø:* de omgivelser der catchvekten kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med
+
+1. *catchvekt:* en automatisk vekt som veier enkeltmengder. Enkeltmengdene kan være på forhånd oppsamlede enkeltmengder (f.eks. ferdigpakninger) eller utgjøre en del av en større mengde (bulkprodukt). Vekten kan sortere eller kontrollere enkeltmengder basert på forhåndsinnstilte verdier. Oftest utfører «catchvekter» dynamisk veiing. Begrepet «catchvekter» omfatter bl.a. automatiske sjekkvekter, sorteringsvekter (gradere), prismerkevekter, merkevekter, vekter som veier pakker/brev automatisk, og automatiske vekter påmontert hjullastere og søppelbiler;
+2. *automatisk vekt:* et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet;
+3. *målestørrelsen:* den bestemte størrelsen som skal måles;
+4. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør catchvektens normale driftsbetingelser;
+5. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor catchvektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;
+6. *kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket
+7. *direktesalg:* en handelstransaksjon er direktesalg dersom
+
+   1. måleresultatet danner grunnlaget for prisen som betales;
+   2. minst en av de involverte parter i transaksjonen i forbindelse med målingen er en kunde eller en annen part som krever et lignende beskyttelsesnivå, og
+   3. alle parter i transaksjonen godtar måleresultatet på den tid og det sted transaksjonen skjer;
+8. *Klimatisk miljø:* de omgivelser der catchvekten kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -123,9 +136,21 @@ Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet ned
 | E2 | Denne klassen omfatter catchvekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende de man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter catchvekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt tilleggskrav til toleranse for til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:spenningsvariasjonvariasjoner i nettfrekvensnettgenererte magnetiske feltandre størrelser som kan påvirke catchvektens nøyaktighet i vesentlig grad.
+1. spenningsavbrudd
+2. kortvarig redusert spenning
+3. elektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledninger
+4. høyfrekvente elektromagnetiske felt
+5. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. spenningsvariasjon
+2. variasjoner i nettfrekvens
+3. nettgenererte magnetiske felt
+4. andre størrelser som kan påvirke catchvektens nøyaktighet i vesentlig grad.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -167,7 +192,12 @@ En catchvekt skal konstrueres slik at virkningen av en funksjonsfeil som medfør
 
 ### § 19. Egnethet
 
-En catchvekt skal væreegnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser og det ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat;robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser;konstruert slik at målefunksjonen skal kunne kontrolleres etter at catchvekten er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av vekten. Testprosedyren skal være beskrevet i bruksanvisningen;ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom vekten er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En catchvekt skal være
+
+1. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser og det ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat;
+2. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser;
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at catchvekten er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av vekten. Testprosedyren skal være beskrevet i bruksanvisningen;
+4. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom vekten er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En catchvekt skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -189,9 +219,23 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene og m
 
 ### § 21. Opplysninger som skal påføres eller følge catchvekten
 
-En catchvekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vekten:relevante opplysninger om bruksbetingelsermålekapasitetmåleområdeidentitetsmerkenummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om hvorvidt tilleggsutstyr som gir måleresultaterer i samsvar med bestemmelsene i fastsatte forskrifter som gjelder lovregulert måleteknisk kontroll.
+En catchvekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vekten:
 
-Opplysninger om betjening skal følge catchvekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:angitte driftsbetingelserelektromagnetisk miljøøvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs brukanvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingeranvisninger for korrekt betjening og eventuelle særlige bruksvilkårvilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+1. relevante opplysninger om bruksbetingelser
+2. målekapasitet
+3. måleområde
+4. identitetsmerke
+5. nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om hvorvidt tilleggsutstyr som gir måleresultaterer i samsvar med bestemmelsene i fastsatte forskrifter som gjelder lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge catchvekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. angitte driftsbetingelser
+2. elektromagnetisk miljø
+3. øvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs bruk
+4. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
 
@@ -227,7 +271,18 @@ En catchvekt skal være konstruert slik at det lett kan vurderes om den er i sam
 
 ### § 26. Angitte driftsbetingelser
 
-Produsenten skal angi nominelle bruksforhold for catchvekter som følger:for målestørrelsen: måleområdet i form av største og minste last;for påvirkende størrelser fra elektrisitetsforsyning:for vekselstrømforsyning: nominell vekselstrømspenning, eller grenser for vekselstrømspenningfor likestrømforsyning: nominell og minste likestrømspenning, eller grenser for likestrømspenning;for mekaniske og klimatiske påvirkende størrelser: minste temperaturintervall er 30 °C. For catchvekter som brukes under spesiell mekanisk belastning, f.eks. catchvekter som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdene;for andre påvirkende størrelser (om relevant):arbeidshastighetegenskaper ved produkt til veiing.
+Produsenten skal angi nominelle bruksforhold for catchvekter som følger:
+
+1. for målestørrelsen: måleområdet i form av største og minste last;
+2. for påvirkende størrelser fra elektrisitetsforsyning:
+
+   1. for vekselstrømforsyning: nominell vekselstrømspenning, eller grenser for vekselstrømspenning
+   2. for likestrømforsyning: nominell og minste likestrømspenning, eller grenser for likestrømspenning;
+3. for mekaniske og klimatiske påvirkende størrelser: minste temperaturintervall er 30 °C. For catchvekter som brukes under spesiell mekanisk belastning, f.eks. catchvekter som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdene;
+4. for andre påvirkende størrelser (om relevant):
+
+   1. arbeidshastighet
+   2. egenskaper ved produkt til veiing.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -353,7 +408,16 @@ En anordning for dynamisk innstilling som kompenserer for de dynamiske virkninge
 
 ### § 34. Testytelse under påvirkningsfaktorer og elektromagnetiske forstyrrelser
 
-Maksimal tillatt feil som følge av påvirkningsfaktorer erfor catchvekter i kategori X:for automatisk drift, som angitt i tabell 4 og 5for statisk veiing i ikke-automatisk drift, som angitt i tabell 4for catchvekter i kategori Y:for hver belastning i automatisk drift, som angitt i tabell 4for statisk veiing i ikke-automatisk drift, som angitt for kategori X i tabell 4.
+Maksimal tillatt feil som følge av påvirkningsfaktorer er
+
+1. for catchvekter i kategori X:
+
+   1. for automatisk drift, som angitt i tabell 4 og 5
+   2. for statisk veiing i ikke-automatisk drift, som angitt i tabell 4
+2. for catchvekter i kategori Y:
+
+   1. for hver belastning i automatisk drift, som angitt i tabell 4
+   2. for statisk veiing i ikke-automatisk drift, som angitt for kategori X i tabell 4.
 
 Den kritiske endringsverdien som følge av en forstyrrelse, er en deling.
 

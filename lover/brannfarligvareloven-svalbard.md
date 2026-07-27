@@ -15,7 +15,7 @@ xml_hash: "103081fe5923899d2a457d5cabe906d7dbe464d254f65e308ca5da2d8870a955"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ For Svalbard gjelder loven med de begrensninger Kongen fastsetter.
 
 ### § 2. Brannfarlige varer.
 
-Brannfarlig vare er etter denne lov:Vare i flytende eller halvfast form som har et flammepunkt ved høyst + 55° C samt – uansett flammepunkt – motorbrensel og fyringsolje (brannfarlig væske).Gass som etter antennelse kan forbrenne i luft, (brannfarlig gass).Annen vare enn nevnt under bokstav a) og b) når Kongen fastsetter at den skal regnes som brannfarlig vare.
+Brannfarlig vare er etter denne lov:
+
+1. Vare i flytende eller halvfast form som har et flammepunkt ved høyst + 55° C samt – uansett flammepunkt – motorbrensel og fyringsolje (brannfarlig væske).
+2. Gass som etter antennelse kan forbrenne i luft, (brannfarlig gass).
+3. Annen vare enn nevnt under bokstav a) og b) når Kongen fastsetter at den skal regnes som brannfarlig vare.
 
 Som brannfarlig vare etter denne paragrafs første ledd bokstav a eller b regnes ikke vare som går inn under lov om eksplosive varer samt brennevin som kan selges eller skjenkes etter alkohollovens regler.
 
@@ -96,7 +100,9 @@ Produkt som er produsert og kontrollert i overensstemmelse med regelverk som Nor
 
 > Endret ved [lover 11 juni 1993 nr. 88](lov/1993-06-11-88), [27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994).
 
-1 Loven gjelder bare for Svalbard.2 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2).
+1 Loven gjelder bare for Svalbard.
+
+2 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2).
 
 ### § 7. Undersøkelse av brannfarlig vare, innhenting av prøver o.l.
 
@@ -116,7 +122,13 @@ En tillatelse faller bort når den ikke blir nyttet innen den frist som måtte v
 
 Blir gyldig tillatelse ikke lenger nyttet, skal innehaveren sende melding om dette til den myndighet som ga tillatelsen. Tillatelse som ikke blir nyttet, faller bort to år etter opphøret hvis ikke kortere frist er fastsatt i tillatelsen.
 
-En tillatelse kan tilbakekallesnår det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,når de vilkår som er fastsatt i tillatelsen ikke blir overholdt,når den blir nyttet på en måte som er i strid med denne lov eller med vedtak som er gjort med hjemmel i loven,når forhold på stedet av sikkerhetsmessig betydning på noe vesentlig punkt har endret seg etter at tillatelsen ble gitt,når de sikkerhetsmessige krav som ble stilt, da tillatelsen ble gitt, på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
+En tillatelse kan tilbakekalles
+
+1. når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,
+2. når de vilkår som er fastsatt i tillatelsen ikke blir overholdt,
+3. når den blir nyttet på en måte som er i strid med denne lov eller med vedtak som er gjort med hjemmel i loven,
+4. når forhold på stedet av sikkerhetsmessig betydning på noe vesentlig punkt har endret seg etter at tillatelsen ble gitt,
+5. når de sikkerhetsmessige krav som ble stilt, da tillatelsen ble gitt, på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
 
 En godkjenning kan tilbakekalles på samme vilkår som nevnt i fjerde ledd. Typegodkjenning etter [§ 6](lov/1971-05-21-47/§6) kan dessuten tilbakekalles dersom typegodkjent innretning ikke blir utført i samsvar med godkjenningen.
 
@@ -274,7 +286,10 @@ Tillatelse til oppbevaring som ikke kan gis av kommunestyret, gis av departement
 
 ### § 23. Hva det forstås med behandling.
 
-Med behandling forstås i denne lov:Tilvirkning, bearbeiding, forbruk eller annen bruk av brannfarlig vare.Fylling eller tapping av brannfarlig vare til eller fra beholder, apparat eller annen innretning.
+Med behandling forstås i denne lov:
+
+1. Tilvirkning, bearbeiding, forbruk eller annen bruk av brannfarlig vare.
+2. Fylling eller tapping av brannfarlig vare til eller fra beholder, apparat eller annen innretning.
 
 1 Loven gjelder bare for Svalbard.
 
@@ -424,7 +439,11 @@ Dersom pålegg ikke oppfylles innen fristen kan tilsynsmyndigheten helt eller de
 
 ### § 38. Klage.
 
-Klageinstans for vedtak etter loven med forskrifter og vedtekter er:Kommunestyret for så vidt avgjørelsen er truffet av brannvesenets eller feiervesenets tjenestemenn.Direktoratet for brann- og eksplosjonsvern for så vidt avgjørelsen er truffet av kommunestyret. Dersom kommunestyret har delegert sin myndighet til en kommunal nemnd, eller brannsjefen, er Direktoratet for brann- og eksplosjonsvern klageinstans for vedkommende vedtak.Departementet for så vidt avgjørelsen er truffet av Direktoratet for brann- og eksplosjonsvern.
+Klageinstans for vedtak etter loven med forskrifter og vedtekter er:
+
+1. Kommunestyret for så vidt avgjørelsen er truffet av brannvesenets eller feiervesenets tjenestemenn.
+2. Direktoratet for brann- og eksplosjonsvern for så vidt avgjørelsen er truffet av kommunestyret. Dersom kommunestyret har delegert sin myndighet til en kommunal nemnd, eller brannsjefen, er Direktoratet for brann- og eksplosjonsvern klageinstans for vedkommende vedtak.
+3. Departementet for så vidt avgjørelsen er truffet av Direktoratet for brann- og eksplosjonsvern.
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [5 juni 1987 nr. 26](lov/1987-06-05-26), [11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
@@ -524,9 +543,13 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 
 ### § 47. Overgangsbestemmelser.
 
-– – –Tillatelser til oppbevaring av brannfarlig væske og tillatelser vedrørende beholderes størrelse og innretning som er gitt etter lov 3 mai 1871 ang. Behandling af ildsfarlige Gjenstande [§§ 16](lov/1971-05-21-47/§16) og [17](lov/1971-05-21-47/§17) blir fortsatt gjeldende. Det samme gjelder godkjenning og tillatelse som er gitt etter forskrifter om lagring og forhandling av kalciumkarbid og fremstilling av acetylengass m.v., fastsatt ved kongelig resolusjon 4 juni 1910, godkjenning gitt etter forskrifter angående beholdere med komprimert acetylen (dissousgass), fastsatt 18 mars 1920, samt godkjenning og tillatelse som er gitt etter forskrifter for lagring, transport og bruk av lette, kondenserte kullvannstoffer, fastsatt 20 april 1953. Reglene i denne lovs § 8 annet ledd, tredje ledd annet punktum, fjerde ledd og femte ledd første punktum, får anvendelse på tillatelse og godkjenning som er gitt før lovens ikrafttreden.
+– – –
 
-– – –Forskrifter og andre alminnelige bestemmelser om brannfarlig væske gitt med hjemmel i lov 3 mai 1871 ang. Behandling af ildsfarlige Gjenstande, gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller mot bestemmelser gitt i medhold av loven. Det samme gjelder forskrifter om lagring og forhandling av kalciumkarbid og fremstilling av acetylengass m.v., fastsatt ved kongelig resolusjon av 4 juni 1910, samt forskrifter angående beholdere med komprimert acetylen (dissousgass), fastsatt 18 mars 1920.
+1. Tillatelser til oppbevaring av brannfarlig væske og tillatelser vedrørende beholderes størrelse og innretning som er gitt etter lov 3 mai 1871 ang. Behandling af ildsfarlige Gjenstande [§§ 16](lov/1971-05-21-47/§16) og [17](lov/1971-05-21-47/§17) blir fortsatt gjeldende. Det samme gjelder godkjenning og tillatelse som er gitt etter forskrifter om lagring og forhandling av kalciumkarbid og fremstilling av acetylengass m.v., fastsatt ved kongelig resolusjon 4 juni 1910, godkjenning gitt etter forskrifter angående beholdere med komprimert acetylen (dissousgass), fastsatt 18 mars 1920, samt godkjenning og tillatelse som er gitt etter forskrifter for lagring, transport og bruk av lette, kondenserte kullvannstoffer, fastsatt 20 april 1953. Reglene i denne lovs § 8 annet ledd, tredje ledd annet punktum, fjerde ledd og femte ledd første punktum, får anvendelse på tillatelse og godkjenning som er gitt før lovens ikrafttreden.
+
+– – –
+
+1. Forskrifter og andre alminnelige bestemmelser om brannfarlig væske gitt med hjemmel i lov 3 mai 1871 ang. Behandling af ildsfarlige Gjenstande, gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller mot bestemmelser gitt i medhold av loven. Det samme gjelder forskrifter om lagring og forhandling av kalciumkarbid og fremstilling av acetylengass m.v., fastsatt ved kongelig resolusjon av 4 juni 1910, samt forskrifter angående beholdere med komprimert acetylen (dissousgass), fastsatt 18 mars 1920.
 
 – – –
 
@@ -540,4 +563,6 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 2. Fra samme tid oppheves: – – –
 3. Fra samme tid gjøres følgende endringer – – –
 
-1 Loven trådte ikr. 1 jan 1975 iflg. res. 6 des 1974.2 Ved [res. 30 okt 1987 nr. 840](forskrift/1987-10-30-840) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt ikr. for Svalbard fra 1 jan 1988, med endringer i medhold av [lovens § 1](lov/1971-05-21-47/§1), siste ledd. – Se [lov 17 juli 1925 nr. 11 § 1](lov/1925-07-17-11/§1) (2).
+1 Loven trådte ikr. 1 jan 1975 iflg. res. 6 des 1974.
+
+2 Ved [res. 30 okt 1987 nr. 840](forskrift/1987-10-30-840) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt ikr. for Svalbard fra 1 jan 1988, med endringer i medhold av [lovens § 1](lov/1971-05-21-47/§1), siste ledd. – Se [lov 17 juli 1925 nr. 11 § 1](lov/1925-07-17-11/§1) (2).

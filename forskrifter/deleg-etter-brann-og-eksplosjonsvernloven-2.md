@@ -22,7 +22,10 @@ eu_basis: []
 
 # Delegering av myndighet til å godkjenne og kontrollere fyrverkeri etter brann- og eksplosjonsvernloven § 31 tredje ledd til Sintef Norges branntekniske laboratorium as.
 
-Direktoratet for samfunnssikkerhet og beredskap (DSB) har i dag fattet følgende vedtak om delegering av myndighet til Sintef Norges branntekniske laboratorium as (NBL) med hjemmel i [lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 31 tredje ledd i forhold til godkjenning og kontroll av fyrverkeri slik dette er definert i [forskrift av 26. juni 2002 nr 922](forskrift/2002-06-26-922) om håndtering av eksplosjonsfarlig stoff [§ 1-3](forskrift/2002-06-26-922/§1-3).NBL delegeres myndighet til å godkjenne fyrverkeri i henhold til [forskrift om håndtering av eksplosjonsfarlig stoff § 2-6](forskrift/2002-06-26-922/§2-6) første ledd.NBL delegeres myndighet til å foreta stikkprøvekontroller av fyrverkeriartikler, herunder kontroll med transportklassifisering for fyrverkeri og med importørenes mottakskontroll i henhold til [forskrift om håndtering av eksplosjonsfarlig stoff § 5-4](forskrift/2002-06-26-922/§5-4).
+Direktoratet for samfunnssikkerhet og beredskap (DSB) har i dag fattet følgende vedtak om delegering av myndighet til Sintef Norges branntekniske laboratorium as (NBL) med hjemmel i [lov av 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 31 tredje ledd i forhold til godkjenning og kontroll av fyrverkeri slik dette er definert i [forskrift av 26. juni 2002 nr 922](forskrift/2002-06-26-922) om håndtering av eksplosjonsfarlig stoff [§ 1-3](forskrift/2002-06-26-922/§1-3).
+
+1. NBL delegeres myndighet til å godkjenne fyrverkeri i henhold til [forskrift om håndtering av eksplosjonsfarlig stoff § 2-6](forskrift/2002-06-26-922/§2-6) første ledd.
+2. NBL delegeres myndighet til å foreta stikkprøvekontroller av fyrverkeriartikler, herunder kontroll med transportklassifisering for fyrverkeri og med importørenes mottakskontroll i henhold til [forskrift om håndtering av eksplosjonsfarlig stoff § 5-4](forskrift/2002-06-26-922/§5-4).
 
 Myndighet delegert til NBL kan ikke delegeres videre.
 

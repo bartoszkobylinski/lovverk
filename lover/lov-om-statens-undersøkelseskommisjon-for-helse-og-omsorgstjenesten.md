@@ -15,7 +15,7 @@ xml_hash: "a8b271996bc9f5fd901bd54c871963dde0dac26874ca83ad160422ae384e6e20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Departementet kan gi forskrift om at loven og forskrifter med hjemmel i loven he
 
 ## § 3. Definisjoner
 
-I loven menes medalvorlig hendelse: dødsfall eller svært alvorlig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.alvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser.
+I loven menes med
+
+1. alvorlig hendelse: dødsfall eller svært alvorlig skade på pasient eller bruker hvor utfallet er uventet ut fra påregnelig risiko.
+2. alvorlige forhold: omstendigheter eller sammenhenger som antas å kunne føre til alvorlige hendelser.
 
 > Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)).
 
@@ -144,7 +147,12 @@ Opplysninger undersøkelseskommisjonen mottar i medhold av [§ 10](lov/2017-06-1
 
 En arbeidstaker som avgir forklaring etter [§ 10](lov/2017-06-16-56/§10) skal ikke som følge av dette utsettes for noen form for sanksjoner fra arbeidsgiverens side.
 
-Første ledd gjelder ikketiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjonerdersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stillingdersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdetdersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter [§ 10](lov/2017-06-16-56/§10).
+Første ledd gjelder ikke
+
+1. tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner
+2. dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling
+3. dersom de mottatte opplysningene viser at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den alvorlige hendelsen eller det alvorlige forholdet
+4. dersom omstendigheter knyttet til arbeidstakeren eller dennes handlinger eller unnlatelser er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter [§ 10](lov/2017-06-16-56/§10).
 
 ## § 19. Forholdet til helseregisterloven
 

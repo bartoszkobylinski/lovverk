@@ -15,7 +15,7 @@ xml_hash: "64879b2b8f7b017fec1dd358e84286cc31b4cc75b43f899e016ea9f08b28f5a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,8 +39,14 @@ Formålet med forskriften er å gi regler om EUs klimakvotesystem, klimagassutsl
 ### § 1-2. (definisjoner)
 
 1. *anlegg:* en stasjonær teknisk enhet hvor en eller flere av aktivitetene som nevnt i [§ 1-3](forskrift/2004-12-23-1851/§1-3) utføres, og andre direkte tilknyttede aktiviteter som har en teknisk forbindelse med aktivitetene på stedet, og som kan ha innvirkning på utslipp og forurensning.
-2. *eksisterende anlegg:*for 2021–2025: anlegg som har utført aktivitet nevnt i [§ 1-3](forskrift/2004-12-23-1851/§1-3) siden før 30. juni 2019, og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) før dette tidspunktet.for 2026–2030: anlegg som har utført aktivitet nevnt i § 1-3 siden før 30. juni 2024, og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) før dette tidspunktet.
-3. *nye anlegg:*for 2021–2025: anlegg som starter aktivitet nevnt i § 1-3 og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) etter 30. juni 2019.for 2026–2030: anlegg som starter aktivitet nevnt i § 1-3 og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) etter 30. juni 2024.
+2. *eksisterende anlegg:*
+
+   1. for 2021–2025: anlegg som har utført aktivitet nevnt i [§ 1-3](forskrift/2004-12-23-1851/§1-3) siden før 30. juni 2019, og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) før dette tidspunktet.
+   2. for 2026–2030: anlegg som har utført aktivitet nevnt i § 1-3 siden før 30. juni 2024, og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) før dette tidspunktet.
+3. *nye anlegg:*
+
+   1. for 2021–2025: anlegg som starter aktivitet nevnt i § 1-3 og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) etter 30. juni 2019.
+   2. for 2026–2030: anlegg som starter aktivitet nevnt i § 1-3 og har fått tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) etter 30. juni 2024.
 4. *femårsperiode:* femårsperioden fra 1. januar 2021 til 31. desember 2025, og hver etterfølgende femårsperiode.
 5. *avfallsforbrenningsanlegg:* anlegg som definert i [avfallsforskriften § 10-3 bokstav e](forskrift/2004-06-01-930/§10-3/bokstav/e).
 6. *kommunalt avfall:* husholdningsavfall, jf. [forurensningsloven § 27a første ledd](lov/1981-03-13-6/§27a/ledd/1), og næringsavfall, jf. [forurensningsloven § 27a andre ledd](lov/1981-03-13-6/§27a/ledd/2), som i art og sammensetning ligner på husholdningsavfall.
@@ -56,9 +62,15 @@ Formålet med forskriften er å gi regler om EUs klimakvotesystem, klimagassutsl
 16. *brensel:* ethvert energiprodukt som skal tilbys, tilbys eller brukes som motorbrensel eller som brensel til varmeproduksjon, herunder til elproduksjon. Som brensel regnes også stoffer som tilsettes motorbrensel. Trekull, faste biobrensler, torv, brensel hvor utslippsfaktoren er null og farlig avfall og kommunalt avfall regnes ikke som brensel i denne forskriften.
 17. *tilgjengeliggjøring av brensel for forbruk*: alle former for plassering av brensel på det norske markedet med tanke på forbruk. For registrerte virksomheter etter [forskrift om særavgifter](forskrift/2001-12-11-1451) omfatter dette ikke lagring på godkjente lager etter [§ 5-7](forskrift/2001-12-11-1451/§5-7) eller avgiftsfri overføring etter [§ 2-2 i forskrift om særavgifter](forskrift/2001-12-11-1451/§2-2).
 18. *endelig forbruker*: endelig forbruker som definert i forordning [(EU) 2018/2066](eu/32018r2066) artikkel 3 (69).
-19. *bygningssektoren*:produksjon av varme ved varmeverk og kraftvarmeverk, levert enten direkte eller gjennom fjernvarmenett, til offentlige bygninger, boliger og næringsbygninger, med unntak av næringsbygninger brukt til landbruk, akvakultur og fiskeri.offentlige bygninger, næringsbygninger og private bygg, og ikke-veigående motorkjøretøy og øvrige arbeidsmaskiner, med unntak av næringsbygninger til bruk i landbruk, akvakultur og fiskeri. Bygninger til militære formål er heller ikke omfattet.
+19. *bygningssektoren*:
+
+    1. produksjon av varme ved varmeverk og kraftvarmeverk, levert enten direkte eller gjennom fjernvarmenett, til offentlige bygninger, boliger og næringsbygninger, med unntak av næringsbygninger brukt til landbruk, akvakultur og fiskeri.
+    2. offentlige bygninger, næringsbygninger og private bygg, og ikke-veigående motorkjøretøy og øvrige arbeidsmaskiner, med unntak av næringsbygninger til bruk i landbruk, akvakultur og fiskeri. Bygninger til militære formål er heller ikke omfattet.
 20. *veitransportsektoren*: veitransport med blant annet person- og varebiler, lastebiler, busser, mopeder og motorsykler. Landbruksbrukskjøretøy på asfaltert vei og militær transport er ikke omfattet.
-21. *andre sektorer*:industriell produksjon, bygg og anleggsvirksomhet, og ikke-veigående motorkjøretøy og øvrige arbeidsmaskiner innen disse virksomheteneenergiproduksjon utover produksjon nevnt i bokstav i.
+21. *andre sektorer*:
+
+    1. industriell produksjon, bygg og anleggsvirksomhet, og ikke-veigående motorkjøretøy og øvrige arbeidsmaskiner innen disse virksomhetene
+    2. energiproduksjon utover produksjon nevnt i bokstav i.
 22. *utslipp:* frigivelse av klimagasser fra kilder i anlegg med aktivitetene i [§ 1-3](forskrift/2004-12-23-1851/§1-3) og fra aktivitetene i [§§ 1-4](forskrift/2004-12-23-1851/§1-4), [1-5](forskrift/2004-12-23-1851/§1-5) og [1-6](forskrift/2004-12-23-1851/§1-6).
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [25 juni 2024 nr. 1375](forskrift/2024-06-25-1375) (i kraft 1 juli 2024), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360), [29 sep 2025 nr. 1968](forskrift/2025-09-29-1968), [4 feb 2026 nr. 143](forskrift/2026-02-04-143) (i kraft 1 mars 2026).
@@ -100,7 +112,11 @@ Kategorier av aktiviteter og relevante klimagasser som omfattes av EUs klimakvot
 | 27 | transport av klimagasser for lagring i en geologisk formasjon godkjent av kompetente myndigheter, med unntak av utslipp som faller inn under andre aktiviteter i denne forskriften | Karbondioksid (CO2) |
 | 28 | lagring av klimagasser i en geologisk formasjon godkjent av kompetente myndigheter | Karbondioksid (CO2) |
 
-I vurderingen av om et anlegg overstiger kapasitetsgrensene angitt i tabellen i første ledd skal:kapasiteten i alle aktiviteter som tilhører samme aktivitetskategori legges sammenaktivitet hvor terskelverdien ikke er uttrykt i nominell innfyrt termisk effekt ha forrang foran aktiviteter hvor terskelverdien er uttrykt i nominell innfyrt termisk effektden nominelle innfyrte termiske effekten i alle anleggets tekniske enheter som forbrenner brensler legges sammen når man tar stilling til om kapasitetsgrensen på 20 MW er oversteget. Forbrenningsenheter med nominell innfyrt termisk effekt under 3 MW skal likevel ikke regnes med i denne vurderingen. Frem til 31. desember 2025 skal heller ikke enheter som kun forbrenner biomasse regnes med.
+I vurderingen av om et anlegg overstiger kapasitetsgrensene angitt i tabellen i første ledd skal:
+
+1. kapasiteten i alle aktiviteter som tilhører samme aktivitetskategori legges sammen
+2. aktivitet hvor terskelverdien ikke er uttrykt i nominell innfyrt termisk effekt ha forrang foran aktiviteter hvor terskelverdien er uttrykt i nominell innfyrt termisk effekt
+3. den nominelle innfyrte termiske effekten i alle anleggets tekniske enheter som forbrenner brensler legges sammen når man tar stilling til om kapasitetsgrensen på 20 MW er oversteget. Forbrenningsenheter med nominell innfyrt termisk effekt under 3 MW skal likevel ikke regnes med i denne vurderingen. Frem til 31. desember 2025 skal heller ikke enheter som kun forbrenner biomasse regnes med.
 
 Dersom det er fastslått at kapasitetsgrensen for en av aktivitetene i [§ 1-3](forskrift/2004-12-23-1851/§1-3) er overskredet, skal alle enheter hvor brensler forbrennes inkluderes i tillatelsen etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2). Dette gjelder likevel ikke enheter som har til hovedformål å varmebehandle farlig avfall eller kommunalt avfall.
 
@@ -110,7 +126,12 @@ Når et anlegg som er omfattet av [klimakvoteloven](lov/2004-12-17-99) som følg
 
 ### § 1-3a. (anlegg. Unntak)
 
-[Klimakvoteloven](lov/2004-12-17-99) gjelder likevel ikke for:anlegg, eller deler av anlegg, som hovedsakelig benyttes til forskning, utvikling og testing av nye produkter og prosesser.forbrenning av brensler i avfallsforbrenningsanlegg som hovedsakelig forbrenner farlig avfall.anlegg som kun forbrenner biomasse. Unntaket gjelder frem til 31. desember 2025.fra 1. januar 2026: anlegg som har utslipp fra forbrenning av biomasse som oppfyller kravene i forordning (EU) 2018/2066 artikkel 38 (5), og hvor disse utslippene i gjennomsnitt bidrar til mer enn 95 prosent av de totale gjennomsnittlige klimagassutslippene i relevant periode.
+[Klimakvoteloven](lov/2004-12-17-99) gjelder likevel ikke for:
+
+1. anlegg, eller deler av anlegg, som hovedsakelig benyttes til forskning, utvikling og testing av nye produkter og prosesser.
+2. forbrenning av brensler i avfallsforbrenningsanlegg som hovedsakelig forbrenner farlig avfall.
+3. anlegg som kun forbrenner biomasse. Unntaket gjelder frem til 31. desember 2025.
+4. fra 1. januar 2026: anlegg som har utslipp fra forbrenning av biomasse som oppfyller kravene i forordning (EU) 2018/2066 artikkel 38 (5), og hvor disse utslippene i gjennomsnitt bidrar til mer enn 95 prosent av de totale gjennomsnittlige klimagassutslippene i relevant periode.
 
 For avfallsforbrenningsanlegg som faller inn under aktivitet nr. 1 i tabellen i [§ 1-3](forskrift/2004-12-23-1851/§1-3), og hovedsakelig forbrenner kommunalt avfall, kommer [klimakvoteloven](lov/2004-12-17-99) og denne forskriftens regler om overvåking, rapportering, verifikasjon og akkreditering av CO2-utslipp til anvendelse.
 
@@ -120,7 +141,19 @@ For avfallsforbrenningsanlegg som faller inn under aktivitet nr. 1 i tabellen i 
 
 [Klimakvotelovens](lov/2004-12-17-99) regler om EUs klimakvotesystem gjelder for utslipp av karbondioksid (CO2) og ikke-CO2-effekter i forbindelse med flygninger til og fra lufthavner i EØS-området.
 
-Følgende luftfartsaktiviteter er likevel ikke omfattet av [klimakvotelovens](lov/2004-12-17-99) regler om EUs klimakvotesystem:Flygninger utført utelukkende for transport av regjerende monarker og vedkommendes nærstående familie, statsoverhoder og ministre, på offentlig oppdrag fra land utenfor EØS-området, og hvor dette er avmerket med passende statusindikator i reiseplanen. Dette unntaket gjelder likevel ikke for vurderingen i bokstav j.Militære flygninger utført av militært luftfartøy, og toll- og politiflygninger.Flygninger utført i forbindelse med søk- og redning, brannslukking, humanitært arbeid, medisinsk nødhjelp og som er autorisert til disse formål av relevant myndighet.Flygninger utført utelukkende under visuelle flygningsregler (VFR).Flygninger som uten mellomlanding avsluttes på samme sted som de begynte.Opplæringsflygninger utført for å skaffe sertifikat, eller bevis dersom det er tale om flybesetning. Flygningen må være avmerket med passende statusindikator i reiseplanen, og må ikke innebære transport av passasjerer eller frakt, eller posisjonering eller transportering av flyet.Flygninger utført utelukkende med sikte på vitenskapelig forskning, hvor forskningen helt eller delvis foregår under flygningen, eller flygninger med det formål å teste eller sertifisere luftfartøy eller utstyr.Flygninger utført med luftfartøy med sertifisert maksimal take-off vekt på mindre enn 5 700 kg.Flygninger som utføres innenfor rammen av forpliktelse til offentlig tjenesteytelse (FOT) på ruter innenfor fjerntliggende regioner eller på ruter hvor tilbudt kapasitet ikke overstiger 50 000 seter per år.Flygninger som utføres av kommersiell luftfartøysoperatør som enten utfører mindre enn 243 flygninger per tertial i tre etterfølgende tertialer innenfor en rapporteringsperiode eller hvis flygninger utgjør mindre enn 10 000 tonn årlig utslipp av CO2. Flygninger som omfattes av bokstav a skal i denne forbindelse regnes med.Flygninger som utføres i perioden 1. januar 2013 til 31. desember 2030 av en ikke-kommersiell luftfartøysoperatør med totale årlige utslipp under 1 000 tonn CO2 per år.
+Følgende luftfartsaktiviteter er likevel ikke omfattet av [klimakvotelovens](lov/2004-12-17-99) regler om EUs klimakvotesystem:
+
+1. Flygninger utført utelukkende for transport av regjerende monarker og vedkommendes nærstående familie, statsoverhoder og ministre, på offentlig oppdrag fra land utenfor EØS-området, og hvor dette er avmerket med passende statusindikator i reiseplanen. Dette unntaket gjelder likevel ikke for vurderingen i bokstav j.
+2. Militære flygninger utført av militært luftfartøy, og toll- og politiflygninger.
+3. Flygninger utført i forbindelse med søk- og redning, brannslukking, humanitært arbeid, medisinsk nødhjelp og som er autorisert til disse formål av relevant myndighet.
+4. Flygninger utført utelukkende under visuelle flygningsregler (VFR).
+5. Flygninger som uten mellomlanding avsluttes på samme sted som de begynte.
+6. Opplæringsflygninger utført for å skaffe sertifikat, eller bevis dersom det er tale om flybesetning. Flygningen må være avmerket med passende statusindikator i reiseplanen, og må ikke innebære transport av passasjerer eller frakt, eller posisjonering eller transportering av flyet.
+7. Flygninger utført utelukkende med sikte på vitenskapelig forskning, hvor forskningen helt eller delvis foregår under flygningen, eller flygninger med det formål å teste eller sertifisere luftfartøy eller utstyr.
+8. Flygninger utført med luftfartøy med sertifisert maksimal take-off vekt på mindre enn 5 700 kg.
+9. Flygninger som utføres innenfor rammen av forpliktelse til offentlig tjenesteytelse (FOT) på ruter innenfor fjerntliggende regioner eller på ruter hvor tilbudt kapasitet ikke overstiger 50 000 seter per år.
+10. Flygninger som utføres av kommersiell luftfartøysoperatør som enten utfører mindre enn 243 flygninger per tertial i tre etterfølgende tertialer innenfor en rapporteringsperiode eller hvis flygninger utgjør mindre enn 10 000 tonn årlig utslipp av CO2. Flygninger som omfattes av bokstav a skal i denne forbindelse regnes med.
+11. Flygninger som utføres i perioden 1. januar 2013 til 31. desember 2030 av en ikke-kommersiell luftfartøysoperatør med totale årlige utslipp under 1 000 tonn CO2 per år.
 
 > Tilføyd ved [forskrift 14 sep 2007 nr. 1093](forskrift/2007-09-14-1093), endret ved [forskrifter 26 okt 2012 nr. 992](forskrift/2012-10-26-992) (gjelder for utslipp fra 1 jan 2013), [15 juni 2018 nr. 902](forskrift/2018-06-15-902), [14 sep 2021 nr. 2748](forskrift/2021-09-14-2748), [10 feb 2022 nr. 248](forskrift/2022-02-10-248), [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024, tidligere § 1-2), [4 feb 2026 nr. 143](forskrift/2026-02-04-143) (i kraft 1 mars 2026).
 
@@ -140,7 +173,11 @@ For flygninger fra Storbritannia til EØS-området gjelder ikke forpliktelsene i
 
 ### § 1-4c. (luftfart. Gjennomføring av forordninger om unntak)
 
-Følgende forordninger inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) gjelder som forskrift:forordning [(EU) nr. 421/2014](eu/32014r0421) om endring av direktiv [2003/87/EF](eu/32003l0087) om opprettelse av en ordning for handel med utslippskvoter for klimagasser, i lys av implementeringen av en internasjonal avtale om et globalt markedsbasert virkemiddel for å redusere klimagassutslipp fra internasjonal luftfart, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alforordning [(EU) 2017/2392](eu/32017r2392) om endring av direktiv [2003/87/EF](eu/32003l0087) for å forlenge de någjeldende innskrenkningene i omfanget av kvotesystemet for luftfartsaktiviteter og for å forberede implementeringen av et globalt markedsbasert virkemiddel fra 2021, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alforordning [(EU) 2021/1416](eu/32021r1416) om endring av direktiv [2003/87/EF](eu/32003l0087) for å ekskludere innkommende flygninger fra Storbritannia fra EUs kvotesystem, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21al.
+Følgende forordninger inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) gjelder som forskrift:
+
+1. forordning [(EU) nr. 421/2014](eu/32014r0421) om endring av direktiv [2003/87/EF](eu/32003l0087) om opprettelse av en ordning for handel med utslippskvoter for klimagasser, i lys av implementeringen av en internasjonal avtale om et globalt markedsbasert virkemiddel for å redusere klimagassutslipp fra internasjonal luftfart, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21al
+2. forordning [(EU) 2017/2392](eu/32017r2392) om endring av direktiv [2003/87/EF](eu/32003l0087) for å forlenge de någjeldende innskrenkningene i omfanget av kvotesystemet for luftfartsaktiviteter og for å forberede implementeringen av et globalt markedsbasert virkemiddel fra 2021, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21al
+3. forordning [(EU) 2021/1416](eu/32021r1416) om endring av direktiv [2003/87/EF](eu/32003l0087) for å ekskludere innkommende flygninger fra Storbritannia fra EUs kvotesystem, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21al.
 
 Forordningene gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -148,13 +185,24 @@ Forordningene gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1
 
 ### § 1-4d. (luftfart. Midlertidige unntak for forpliktelser for visse flygninger tilknyttet fjerntliggende regioner)
 
-Frem til og med 31. desember 2030 gjelder ikke forpliktelsene i EUs klimakvotesystem for følgende flygninger:flygninger mellom lufthavner i samme fjerntliggende regionflygninger mellom lufthavner i ulike fjerntliggende regioner i samme EØS-landflygninger mellom en lufthavn i en fjerntliggende region og en lufthavn i samme EØS-land.
+Frem til og med 31. desember 2030 gjelder ikke forpliktelsene i EUs klimakvotesystem for følgende flygninger:
+
+1. flygninger mellom lufthavner i samme fjerntliggende region
+2. flygninger mellom lufthavner i ulike fjerntliggende regioner i samme EØS-land
+3. flygninger mellom en lufthavn i en fjerntliggende region og en lufthavn i samme EØS-land.
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024).
 
 ### § 1-5. (maritim transport. Aktiviteter og klimagasser omfattet av EUs klimakvotesystem)
 
-[Klimakvoteloven](lov/2004-12-17-99) gjelder utslipp av karbondioksid (CO2) fra skip med bruttotonnasje 5000 eller mer som transporterer passasjerer eller last for kommersielle formål, og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området. Følgende skip er likevel unntatt loven:Fiskefangst- eller fiskeforedlingsskipkrigsskipforsvarets logistikk- og støttefartøytreskip av primitiv konstruksjonskip som ikke drives frem med mekaniske midlerstatseide skip brukt til ikke-kommersielle formål.
+[Klimakvoteloven](lov/2004-12-17-99) gjelder utslipp av karbondioksid (CO2) fra skip med bruttotonnasje 5000 eller mer som transporterer passasjerer eller last for kommersielle formål, og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området. Følgende skip er likevel unntatt loven:
+
+1. Fiskefangst- eller fiskeforedlingsskip
+2. krigsskip
+3. forsvarets logistikk- og støttefartøy
+4. treskip av primitiv konstruksjon
+5. skip som ikke drives frem med mekaniske midler
+6. statseide skip brukt til ikke-kommersielle formål.
 
 Fra 1. januar 2026 omfatter [klimakvoteloven](lov/2004-12-17-99) utslipp av metan (CH4) og lystgass (N2O) fra aktiviteter som nevnt i første ledd.
 
@@ -166,7 +214,11 @@ Fra 1. januar 2027 omfatter [klimakvoteloven](lov/2004-12-17-99) utslipp av karb
 
 For utslipp fra reiser mellom anløpshavner innad i EØS-området, og utslipp fra skip som oppholder seg i anløpshavn i EØS-området, skal det svares kvoter for 100 prosent av utslippstallet for det foregående rapporteringsåret. For reiser mellom en anløpshavn utenfor EØS-området og en anløpshavn i EØS-området, svares det kvoter for 50 prosent av utslippstallet for det foregående rapporteringsåret.
 
-Skipsoperatørens ansvar for å svare kvoter etter første ledd økes på følgende måte:For rapporteringsåret 2024 skal det svares kvoter for 40 prosent av den kvotepliktige andelen av utslippstalletFor rapporteringsåret 2025 skal det svares kvoter for 70 prosent av den kvotepliktige andelen av utslippstalletFra og med rapporteringsåret 2026 skal det svares kvoter for 100 prosent av den kvotepliktige andelen av utslippstallet.
+Skipsoperatørens ansvar for å svare kvoter etter første ledd økes på følgende måte:
+
+1. For rapporteringsåret 2024 skal det svares kvoter for 40 prosent av den kvotepliktige andelen av utslippstallet
+2. For rapporteringsåret 2025 skal det svares kvoter for 70 prosent av den kvotepliktige andelen av utslippstallet
+3. Fra og med rapporteringsåret 2026 skal det svares kvoter for 100 prosent av den kvotepliktige andelen av utslippstallet.
 
 For utslipp fra skip med isklasse IA eller IA Super eller tilsvarende isklasse fastsatt på grunnlag av HELCOM-anbefaling 25/7, kan skipsoperatøren frem til og med rapporteringsåret 2030 velge å svare 5 prosent færre kvoter enn kvoteplikten som følger av første og andre ledd.
 
@@ -192,13 +244,21 @@ Forordning [(EU) 2023/2297](eu/32023r2297) om nærliggende containeromlastningsh
 
 [Klimakvoteloven](lov/2004-12-17-99) gjelder for tilgjengeliggjøring av brensel som brukes til forbrenning i bygningssektoren, veitransportsektoren og andre sektorer. [Klimakvoteloven § 4](lov/2004-12-17-99/§4) om kvoteplikt gjelder likevel ikke før 1. januar 2027.
 
-Følgende aktivitet er likevel ikke omfattet av [klimakvotelovens](lov/2004-12-17-99) regler om EUs klimakvotesystem:tilgjengeliggjøring av brensel til forbrenning i aktiviteter som nevnt i tabellen i [§ 1-3](forskrift/2004-12-23-1851/§1-3), unntatt hvis brenslet brukes til forbrenning i forbindelse med aktivitet 27 transport av klimagasser for lagring i godkjent geologisk formasjon,tilgjengeliggjøring av brensel til forbrenning i aktiviteter som nevnt i [§§ 1-4](forskrift/2004-12-23-1851/§1-4) og [1-5](forskrift/2004-12-23-1851/§1-5),tilgjengeliggjøring av brensel til eget forbruk som endelig forbruker.
+Følgende aktivitet er likevel ikke omfattet av [klimakvotelovens](lov/2004-12-17-99) regler om EUs klimakvotesystem:
+
+1. tilgjengeliggjøring av brensel til forbrenning i aktiviteter som nevnt i tabellen i [§ 1-3](forskrift/2004-12-23-1851/§1-3), unntatt hvis brenslet brukes til forbrenning i forbindelse med aktivitet 27 transport av klimagasser for lagring i godkjent geologisk formasjon,
+2. tilgjengeliggjøring av brensel til forbrenning i aktiviteter som nevnt i [§§ 1-4](forskrift/2004-12-23-1851/§1-4) og [1-5](forskrift/2004-12-23-1851/§1-5),
+3. tilgjengeliggjøring av brensel til eget forbruk som endelig forbruker.
 
 > Tilføyd ved forskrift [25 juni 2024 nr. 1375](forskrift/2024-06-25-1375) (i kraft 1 juli 2024), endret ved forskrift [29 sep 2025 nr. 1968](forskrift/2025-09-29-1968).
 
 ### § 1-6a. (tilgjengeliggjøring av brensel for forbruk. Valg av brenselsoperatør)
 
-Når flere utøver aktivitet som nevnt i [§ 1-6](forskrift/2004-12-23-1851/§1-6) for det samme brenselet, skal som hovedregel brenselsoperatøren være:en som er registrert virksomhet og som er ansvarlig for å betale særavgift for brenselet etter forskrift om særavgifthvis ikke i er aktuell, den som importerer brensel til forbruk i Norge eller den som i Norge produserer brensel til forbruk i Norgehvis ikke i eller ii er aktuell, enhver annen som utfører aktivitet som nevnt i [§ 1-6](forskrift/2004-12-23-1851/§1-6).
+Når flere utøver aktivitet som nevnt i [§ 1-6](forskrift/2004-12-23-1851/§1-6) for det samme brenselet, skal som hovedregel brenselsoperatøren være:
+
+1. en som er registrert virksomhet og som er ansvarlig for å betale særavgift for brenselet etter forskrift om særavgift
+2. hvis ikke i er aktuell, den som importerer brensel til forbruk i Norge eller den som i Norge produserer brensel til forbruk i Norge
+3. hvis ikke i eller ii er aktuell, enhver annen som utfører aktivitet som nevnt i [§ 1-6](forskrift/2004-12-23-1851/§1-6).
 
 Klimakvotemyndigheten kan i enkeltvedtak gjøre unntak fra rekkefølgen av i til iii og bestemme hvem som skal være brenselsoperatør.
 
@@ -212,7 +272,12 @@ Departementet kan i forskrift gi unntak fra kvoteplikten i [klimakvoteloven § 4
 
 ### § 1-7. (unntak fra kvoteplikt for utslipp som er fanget og for utslipp fra fornybare og resirkulerte kilder)
 
-Operatører skal ikke svare kvoter for utslippsom er verifisert som fanget og transportert til permanent lagring i et lager med tillatelse etter [forurensningsforskriften § 35-4](forskrift/2004-06-01-931/§35-4)som er fanget og permanent kjemisk bundet i et produkt som er listet opp i vedlegg I til forordning [(EU) 2024/2620](eu/32024r2620) (forordning om klimagasser bundet i produkter)fra brensel som har krav til, og oppfyller, bærekrafts- og utslippsreduksjonskriteriene og tilhørende krav til dokumentasjon i forordning [(EU) 2018/2066](eu/32018r2066) artikkel 38 nr. 5, 39 og 39afra biomasse som ikke hovedsakelig brukes til energiformål.
+Operatører skal ikke svare kvoter for utslipp
+
+1. som er verifisert som fanget og transportert til permanent lagring i et lager med tillatelse etter [forurensningsforskriften § 35-4](forskrift/2004-06-01-931/§35-4)
+2. som er fanget og permanent kjemisk bundet i et produkt som er listet opp i vedlegg I til forordning [(EU) 2024/2620](eu/32024r2620) (forordning om klimagasser bundet i produkter)
+3. fra brensel som har krav til, og oppfyller, bærekrafts- og utslippsreduksjonskriteriene og tilhørende krav til dokumentasjon i forordning [(EU) 2018/2066](eu/32018r2066) artikkel 38 nr. 5, 39 og 39a
+4. fra biomasse som ikke hovedsakelig brukes til energiformål.
 
 Første ledd bokstav a gjelder ikke for brenselsoperatører.
 
@@ -228,7 +293,10 @@ Forordning [(EU) 2024/2620](eu/32024r2620) om krav til når klimagasser anses pe
 
 Norge er administrerende stat for de luftfartøysoperatører som følger av listen som angir hvilken stat som administrerer de enkelte luftfartøysoperatørene i EUs klimakvotesystem jf. [EØS-avtalen vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21as (forordning [(EF) nr. 748/2009](eu/32009r0748) som endret ved forordning [(EU) 2024/1030](eu/32024r1030)) om listen over luftfartøyoperatører som utfører luftfartsvirksomhet nevnt i vedlegg I til direktiv [2003/87/EF](eu/32003l0087) med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
 
-Norge er administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i listen i første ledd:luftfartøysoperatører som har fått lisens og/eller driftstillatelse utstedt av norsk myndighet til å drive ervervsmessig lufttransport av passasjerer og godsluftfartøysoperatører som ikke har fått lisens og/eller driftstillatelse fra en EØS-stat, og hvis største andel utslipp i det første kalenderåret hvor luftfartøysoperatøren hadde flygninger som nevnt i [§ 1-4](forskrift/2004-12-23-1851/§1-4) tilskrives Norge. Utslipp som tilskrives Norge er utslipp fra flygninger fra en lufthavn i Norge og flygninger fra en lufthavn utenfor EØS-området til en lufthavn i Norge.
+Norge er administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i listen i første ledd:
+
+1. luftfartøysoperatører som har fått lisens og/eller driftstillatelse utstedt av norsk myndighet til å drive ervervsmessig lufttransport av passasjerer og gods
+2. luftfartøysoperatører som ikke har fått lisens og/eller driftstillatelse fra en EØS-stat, og hvis største andel utslipp i det første kalenderåret hvor luftfartøysoperatøren hadde flygninger som nevnt i [§ 1-4](forskrift/2004-12-23-1851/§1-4) tilskrives Norge. Utslipp som tilskrives Norge er utslipp fra flygninger fra en lufthavn i Norge og flygninger fra en lufthavn utenfor EØS-området til en lufthavn i Norge.
 
 Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot luftfartsaktiviteter omfattet av EUs klimakvotesystem, gjelder for luftfartøysoperatørene som omfattes av første og andre ledd.
 
@@ -238,7 +306,11 @@ Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter se
 
 Norge er administrerende stat for de skipsoperatørene som følger av listen som angir hvilken stat som administrerer de enkelte skipsoperatørene i tråd med EUs klimakvotesystem jf. [EØS-avtalen vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alv (beslutning [(EU) 2024/411](eu/32024d0411)) om liste over administrerende myndighet for skipsoperatører, med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
 
-Norge er administrerende stat for følgende skipsoperatører som ikke er inntatt i listen i første ledd:skipsoperatører registrert i Norgeskipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene har flest havneanløp fra sine skip i EØS i Norgeskipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene ikke har hatt havneanløp fra sine skip i EØS, hvor første havneanløp i EØS er i Norge.
+Norge er administrerende stat for følgende skipsoperatører som ikke er inntatt i listen i første ledd:
+
+1. skipsoperatører registrert i Norge
+2. skipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene har flest havneanløp fra sine skip i EØS i Norge
+3. skipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene ikke har hatt havneanløp fra sine skip i EØS, hvor første havneanløp i EØS er i Norge.
 
 Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot maritim transportaktivitet gjelder for skipsoperatørene som omfattes av første og andre ledd.
 
@@ -252,13 +324,28 @@ Forordning [(EU) 2023/2599](eu/32023r2599) om administrasjon av skipsoperatører
 
 ### § 2-1. (forordninger om overvåking og rapportering av utslipp av klimagasser fra anlegg, luftfart og tilgjengeliggjøring av brensel)
 
-Forordning [(EU) 2018/2066](eu/32018r2066) om overvåking og rapportering av utslipp av klimagasser under direktiv [2003/87/EF](eu/32003l0087), som inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21apj, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2020/2085](eu/32020r2085)forordning [(EU) 2022/388](eu/32022r0388)forordning [(EU) 2023/2122](eu/32023r2122)forordning [(EU) 2024/2493](eu/32024r2493).
+Forordning [(EU) 2018/2066](eu/32018r2066) om overvåking og rapportering av utslipp av klimagasser under direktiv [2003/87/EF](eu/32003l0087), som inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21apj, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2020/2085](eu/32020r2085)
+- forordning [(EU) 2022/388](eu/32022r0388)
+- forordning [(EU) 2023/2122](eu/32023r2122)
+- forordning [(EU) 2024/2493](eu/32024r2493).
 
 > Endret ved forskrifter [14 jan 2013 nr. 37](forskrift/2013-01-14-37), [17 sep 2014 nr. 1206](forskrift/2014-09-17-1206), [26 jan 2015 nr. 69](forskrift/2015-01-26-69), [9 jan 2020 nr. 12](forskrift/2020-01-09-12), [23 des 2021 nr. 3918](forskrift/2021-12-23-3918), [4 nov 2022 nr. 1919](forskrift/2022-11-04-1919), [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), [25 juni 2024 nr. 1375](forskrift/2024-06-25-1375) (i kraft 1 juli 2024), [29 sep 2025 nr. 1968](forskrift/2025-09-29-1968), [4 feb 2026 nr. 143](forskrift/2026-02-04-143) (i kraft 1 mars 2026).
 
 ### § 2-1a. (forordninger om overvåking og rapportering av utslipp av klimagasser fra maritim transport)
 
-Følgende forordninger inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) gjelder som forskrift med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig:forordning [(EU) 2015/757](eu/32015r0757) om overvåking, rapportering og kontroll av karbondioksidutslipp fra sjøtransport og om endring av direktiv [2009/16/EF](eu/32009l0016), jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21aw, med endringene som følger avforordning [(EU) 2016/2071](eu/32016r2071)forordning [(EU) 2023/957](eu/32023r0957)forordning [(EU) 2023/2776](eu/32023r2776)forordning [(EU) 2024/3214](eu/32024r3214)forordning [(EU) 2023/2449](eu/32023r2449) om maler for overvåkingsplaner, utslippsrapporter og samsvarsdokumenter, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awbforordning [(EU) 2023/2849](eu/32023r2849) om rapporteringsregler for aggregerte utslippsdata på skipsoperatørnivå, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awdforordning [(EU) 2016/1928](eu/32016r1928) om bestemmelse av last fraktet med andre kategorier av fartøyer enn passasjerfartøyer, rorofartøyer og containerskip, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awc.
+Følgende forordninger inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) gjelder som forskrift med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig:
+
+1. forordning [(EU) 2015/757](eu/32015r0757) om overvåking, rapportering og kontroll av karbondioksidutslipp fra sjøtransport og om endring av direktiv [2009/16/EF](eu/32009l0016), jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21aw, med endringene som følger av
+
+   - forordning [(EU) 2016/2071](eu/32016r2071)
+   - forordning [(EU) 2023/957](eu/32023r0957)
+   - forordning [(EU) 2023/2776](eu/32023r2776)
+   - forordning [(EU) 2024/3214](eu/32024r3214)
+2. forordning [(EU) 2023/2449](eu/32023r2449) om maler for overvåkingsplaner, utslippsrapporter og samsvarsdokumenter, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awb
+3. forordning [(EU) 2023/2849](eu/32023r2849) om rapporteringsregler for aggregerte utslippsdata på skipsoperatørnivå, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awd
+4. forordning [(EU) 2016/1928](eu/32016r1928) om bestemmelse av last fraktet med andre kategorier av fartøyer enn passasjerfartøyer, rorofartøyer og containerskip, jf. [vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21awc.
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [18 juni 2024 nr. 1109](forskrift/2024-06-18-1109), [10 mars 2026 nr. 379](forskrift/2026-03-10-379).
 
@@ -290,9 +377,21 @@ Operatørene skal benytte skjema anvist av klimakvotemyndigheten.
 
 Brenselsoperatører må ha tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) fra 1. januar 2025 for å kunne drive aktiviteten i § 1-6 første ledd. Brenselsoperatører må søke om tillatelse etter [forurensningsloven § 11 andre ledd](lov/1981-03-13-6/§11/ledd/2) til klimakvotemyndighetene innen 15. september 2024. For brenselsoperatører som har oppstart etter 1. januar 2025, skal det søkes om tillatelse i god tid før oppstart.
 
-For søknad om tillatelse skal det benyttes skjema som anvist av klimakvotemyndigheten. Søknad om tillatelse skal minst inneholde en beskrivelse av:Den som er brenselsoperatørDen type brensel som går over til forbruk og som brukes til forbrenning i de sektorene som er omfattet av § 1-6 og på hvilke måter brenselsproduktene går over til forbrukDet eller de endelige anvendelsesformål for de brenselsproduktene som forbrennes i de sektorene som er omfattet av § 1-6En plan for overvåking og rapportering av klimagassutslipp i samsvar med kravene som følger av forordning [(EU) 2018/2066](eu/32018r2066)Et ikke-teknisk sammendrag av opplysningene i bokstav a til d.
+For søknad om tillatelse skal det benyttes skjema som anvist av klimakvotemyndigheten. Søknad om tillatelse skal minst inneholde en beskrivelse av:
 
-Tillatelse skal minst inneholde:Benselsoperatørs navn og adresseEn beskrivelse av hvordan brenselsoperatør tilgjengeliggjør brenselsprodukter til forbruk i de sektorene definert i § 1-6En liste over de brenselsproduktene som brenselsoperatør tilgjengeliggjør brenselsprodukter til forbruk i de sektorene definert i § 1-6Overvåkingsplan som oppfyller kravene i forordning [(EU) 2018/2066](eu/32018r2066)Rapporteringskrav som er i tråd med reglene i forordning [(EU) 2018/2066](eu/32018r2066).
+1. Den som er brenselsoperatør
+2. Den type brensel som går over til forbruk og som brukes til forbrenning i de sektorene som er omfattet av § 1-6 og på hvilke måter brenselsproduktene går over til forbruk
+3. Det eller de endelige anvendelsesformål for de brenselsproduktene som forbrennes i de sektorene som er omfattet av § 1-6
+4. En plan for overvåking og rapportering av klimagassutslipp i samsvar med kravene som følger av forordning [(EU) 2018/2066](eu/32018r2066)
+5. Et ikke-teknisk sammendrag av opplysningene i bokstav a til d.
+
+Tillatelse skal minst inneholde:
+
+1. Benselsoperatørs navn og adresse
+2. En beskrivelse av hvordan brenselsoperatør tilgjengeliggjør brenselsprodukter til forbruk i de sektorene definert i § 1-6
+3. En liste over de brenselsproduktene som brenselsoperatør tilgjengeliggjør brenselsprodukter til forbruk i de sektorene definert i § 1-6
+4. Overvåkingsplan som oppfyller kravene i forordning [(EU) 2018/2066](eu/32018r2066)
+5. Rapporteringskrav som er i tråd med reglene i forordning [(EU) 2018/2066](eu/32018r2066).
 
 Brenselsoperatør må underrette klimakvotemyndigheten om alle planlagte endringer i arten av dens aktivitet eller av de brenselsprodukter den tilgjengeliggjøring for forbruk, og som kan kreve en endring av tillatelsen.
 
@@ -316,7 +415,10 @@ Anleggsoperatør som søker om forenklet verifikasjon av utslippsrapport og tild
 
 ### § 2-6. (forenklede krav til verifisering for luftfartøysoperatører med små utslipp)
 
-I tillegg til reglene om forenklet verifikasjon for luftfartøysoperatører med små utslipp i forordning [(EU) 2018/2067](eu/32018r2067), skal følgende årlige utslippstall fra luftfartøysoperatører anses som verifiserte dersom utslippstallet er fastsatt ved bruk av estimeringsverktøy angitt i forordning [(EU) 2018/2066](eu/32018r2066) artikkel 55:Årlige utslipp på under 25 000 tonn CO2 fra flygninger til og fra lufthavner i EØS-området. Flygninger fra Sveits til EØS-området og flygninger fra Storbritannia til EØS-området skal ikke medregnes.Årlige utslipp på under 3 000 tonn CO2 fra flygninger innad i EØS-området, fra EØS-området til Sveits og fra EØS-området til Storbritannia.
+I tillegg til reglene om forenklet verifikasjon for luftfartøysoperatører med små utslipp i forordning [(EU) 2018/2067](eu/32018r2067), skal følgende årlige utslippstall fra luftfartøysoperatører anses som verifiserte dersom utslippstallet er fastsatt ved bruk av estimeringsverktøy angitt i forordning [(EU) 2018/2066](eu/32018r2066) artikkel 55:
+
+1. Årlige utslipp på under 25 000 tonn CO2 fra flygninger til og fra lufthavner i EØS-området. Flygninger fra Sveits til EØS-området og flygninger fra Storbritannia til EØS-området skal ikke medregnes.
+2. Årlige utslipp på under 3 000 tonn CO2 fra flygninger innad i EØS-området, fra EØS-området til Sveits og fra EØS-området til Storbritannia.
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrift [19 des 2025 nr. 2810](forskrift/2025-12-19-2810).
 
@@ -340,7 +442,13 @@ Klimakvotemyndigheten skal føre kontroll med utslippsrapporter i tråd med [kli
 
 EU-kommisjonen skal hvert år publisere utslippsinformasjon som nevnt i artikkel 14 nr. 6 første avsnitt i direktiv [2003/87/EF](eu/32003l0087) for hver luftfartøysoperatør og for flygninger mellom to lufthavner i EØS-området.
 
-Luftfartøysoperatør kan anmode klimakvotemyndigheten om at informasjonen i første ledd skal publiseres på et høyere aggregert nivå enn på luftfartøysoperatørnivå. Luftfartøysoperatøren bør i anmodningen redegjøre for hvorfor publiseringen av informasjonen på luftfartøysoperatørnivå kan skade luftfartøysoperatørens kommersielle interesser, herunder at luftfartøysoperatøren har flygninger mellom et svært begrenset antall:Par av lufthavner,Par av land som er underlagt kompensasjonsplikt under CORSIA, ellerPar av land som ikke er underlagt kompensasjonsplikt under CORSIA.Med flygninger mellom et par av lufthavner menes flygninger mellom en spesifikk avgangslufthavn og en spesifikk ankomstlufthavn. Med flygninger mellom et par av land menes flygninger mellom et spesifikt avgangsland og et spesifikt ankomstland.
+Luftfartøysoperatør kan anmode klimakvotemyndigheten om at informasjonen i første ledd skal publiseres på et høyere aggregert nivå enn på luftfartøysoperatørnivå. Luftfartøysoperatøren bør i anmodningen redegjøre for hvorfor publiseringen av informasjonen på luftfartøysoperatørnivå kan skade luftfartøysoperatørens kommersielle interesser, herunder at luftfartøysoperatøren har flygninger mellom et svært begrenset antall:
+
+1. Par av lufthavner,
+2. Par av land som er underlagt kompensasjonsplikt under CORSIA, eller
+3. Par av land som ikke er underlagt kompensasjonsplikt under CORSIA.
+
+Med flygninger mellom et par av lufthavner menes flygninger mellom en spesifikk avgangslufthavn og en spesifikk ankomstlufthavn. Med flygninger mellom et par av land menes flygninger mellom et spesifikt avgangsland og et spesifikt ankomstland.
 
 Klimakvotemyndigheten kan vedta at luftfartøysoperatørens anmodning ikke tas til følge. Dersom klimakvotemyndigheten tar luftfartøysoperatørens anmodning til følge, kan klimakvotemyndigheten anmode EU-kommisjonen om å offentliggjøre informasjonen på et høyere aggregert nivå enn på luftfartøysoperatørnivå.
 
@@ -357,7 +465,14 @@ Kapitlet opphevet ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265
 
 ### § 4-1. (forordninger og beslutninger om tildeling av vederlagsfrie kvoter for perioden 2021–2030)
 
-Følgende forordninger og beslutninger inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) gjelder som forskrift:forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 (tildelingsforordningen), jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21all, med endringene som følger av forordning [(EU) 2024/873](eu/32024r0873)beslutning [(EU) 2019/708](eu/32019d0708) om sektorer utsatt for karbonlekkasje for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21almforordning [(EU) 2019/1842](eu/32019r1842) om justering av tildeling av vederlagsfrie kvoter for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21aplforordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alobeslutning [(EU) 2021/927](eu/32021d0927) om fastsettelsen av en felleseuropeisk korreksjonsfaktor om justering av vederlagsfri tildeling av klimakvoter for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alpforordning [(EU) 2023/2441](eu/32023r2441) om innhold i og format av klimanøytralitetsplaner, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alx.
+Følgende forordninger og beslutninger inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) gjelder som forskrift:
+
+1. forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 (tildelingsforordningen), jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21all, med endringene som følger av forordning [(EU) 2024/873](eu/32024r0873)
+2. beslutning [(EU) 2019/708](eu/32019d0708) om sektorer utsatt for karbonlekkasje for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alm
+3. forordning [(EU) 2019/1842](eu/32019r1842) om justering av tildeling av vederlagsfrie kvoter for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21apl
+4. forordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alo
+5. beslutning [(EU) 2021/927](eu/32021d0927) om fastsettelsen av en felleseuropeisk korreksjonsfaktor om justering av vederlagsfri tildeling av klimakvoter for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alp
+6. forordning [(EU) 2023/2441](eu/32023r2441) om innhold i og format av klimanøytralitetsplaner, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alx.
 
 Forordningene og beslutningene gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -433,7 +548,10 @@ Dersom det ikke fastsettes en felleseuropeisk korreksjonsfaktor skal endelig til
 
 ### § 4-7a. (særlige beregningsregler for tildeling av vederlagsfrie kvoter til nye anlegg)
 
-Ved tildeling av vederlagsfrie kvoter til nye anlegg skal tildelingen i tillegg beregnes med en lineær reduksjonsfaktor. Den lineære reduksjonsfaktoren er4,3 prosent per år i perioden 2024–20274,4 prosent per år fra og med 2028.
+Ved tildeling av vederlagsfrie kvoter til nye anlegg skal tildelingen i tillegg beregnes med en lineær reduksjonsfaktor. Den lineære reduksjonsfaktoren er
+
+1. 4,3 prosent per år i perioden 2024–2027
+2. 4,4 prosent per år fra og med 2028.
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024).
 
@@ -533,7 +651,12 @@ Kommersielle luftfartøysoperatører kan årlig søke om tildeling av vederlagsf
 
 Et flydrivstoff er støtteberettiget dersom flydrivstoffet omfattes av en av drivstoffkategoriene i vedlegget til forordning [(EU) 2025/723](eu/32025r0723).
 
-Luftfartøysoperatører kan få tildeling for 100 % av prisforskjellen mellom fossil jetparafin og støtteberettigede flydrivstoff påfylt på lufthavnersom hadde maksimalt 800 000 passasjerer forrige kalenderår, eller hvor frakttrafikken var på maksimalt 100 000 tonn forrige kalenderårpå øyer som er mindre enn 10 000 km2 og som ikke har vei- eller jernbaneforbindelse til fastlandetpå Islandi en fjerntliggende region.
+Luftfartøysoperatører kan få tildeling for 100 % av prisforskjellen mellom fossil jetparafin og støtteberettigede flydrivstoff påfylt på lufthavner
+
+1. som hadde maksimalt 800 000 passasjerer forrige kalenderår, eller hvor frakttrafikken var på maksimalt 100 000 tonn forrige kalenderår
+2. på øyer som er mindre enn 10 000 km2 og som ikke har vei- eller jernbaneforbindelse til fastlandet
+3. på Island
+4. i en fjerntliggende region.
 
 For støtteberettigede flydrivstoff påfylt på andre lufthavner, kan luftfartøysoperatører få tildeling for den prosentandelen av prisforskjellen mellom fossil jetparafin og det støtteberettigede flydrivstoffet som er angitt i vedlegget til forordning [(EU) 2025/723](eu/32025r0723). Prisforskjellen mellom fossil jetparafin og et støtteberettiget flydrivstoff fastsettes i henhold til forordning [(EU) 2025/723](eu/32025r0723) artikkel 4.
 
@@ -565,7 +688,12 @@ Tildeling av vederlagsfrie kvoter for bruk av støtteberettigede flydrivstoff er
 
 ### § 7-1. (gjennomføring av registerforordningen)
 
-Forordning [(EU) 2019/1122](eu/32019r1122) om drift av unionsregisteret (registerforordningen), som inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21anb, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2019/1124](eu/32019r1124)forordning [(EU) 2023/1642](eu/32023r1642)forordning [(EU) 2023/2904](eu/32023r2904)forordning [(EU) 2025/1253](eu/32025r1253).
+Forordning [(EU) 2019/1122](eu/32019r1122) om drift av unionsregisteret (registerforordningen), som inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21anb, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2019/1124](eu/32019r1124)
+- forordning [(EU) 2023/1642](eu/32023r1642)
+- forordning [(EU) 2023/2904](eu/32023r2904)
+- forordning [(EU) 2025/1253](eu/32025r1253).
 
 > Endret ved [forskrifter 17 sep 2014 nr. 1206](forskrift/2014-09-17-1206), [14 des 2015 nr. 1696](forskrift/2015-12-14-1696), [15 juni 2018 nr. 902](forskrift/2018-06-15-902), [27 juni 2019 nr. 928](forskrift/2019-06-27-928), [7 april 2021 nr. 1097](forskrift/2021-04-07-1097), [28 mai 2021 nr. 1713](forskrift/2021-05-28-1713), [20 feb 2024 nr. 305](forskrift/2024-02-20-305), [21 mars 2024 nr. 529](forskrift/2024-03-21-529), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360), [21 okt 2025 nr. 2066](forskrift/2025-10-21-2066), [8 april 2026 nr. 558](forskrift/2026-04-08-558).
 
@@ -653,7 +781,15 @@ Ved anvendelse av registerforordningen skal nasjonale fri- og helligdager ikke r
 
 ### § 8-1. (Auksjonering av klimakvoter)
 
-Forordning [(EU) nr. 1031/2010](eu/32010r1031) om auksjonering av klimakvoter under direktiv [2003/87/EF](eu/32003l0087), som inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21ala, gjelder som forskrift, med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig. Forordningen gjelder med endringene som følger avforordning [(EU) nr. 784/2012](eu/32012r0784)forordning [(EU) nr. 1042/2012](eu/32012r1042)forordning [(EU) nr. 1143/2013](eu/32013r1143)forordning [(EU) nr. 176/2014](eu/32014r0176)forordning [(EU) 2017/1902](eu/32017r1902)forordning [(EU) 2019/7](eu/32019r0007)forordning [(EU) 2019/1868](eu/32019r1868).
+Forordning [(EU) nr. 1031/2010](eu/32010r1031) om auksjonering av klimakvoter under direktiv [2003/87/EF](eu/32003l0087), som inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21ala, gjelder som forskrift, med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig. Forordningen gjelder med endringene som følger av
+
+1. forordning [(EU) nr. 784/2012](eu/32012r0784)
+2. forordning [(EU) nr. 1042/2012](eu/32012r1042)
+3. forordning [(EU) nr. 1143/2013](eu/32013r1143)
+4. forordning [(EU) nr. 176/2014](eu/32014r0176)
+5. forordning [(EU) 2017/1902](eu/32017r1902)
+6. forordning [(EU) 2019/7](eu/32019r0007)
+7. forordning [(EU) 2019/1868](eu/32019r1868).
 
 > Tilføyd ved [forskrift 25 mai 2012 nr. 470](forskrift/2012-05-25-470), endret ved [forskrifter 1 aug 2013 nr. 941](forskrift/2013-08-01-941), [17 sep 2014 nr. 1206](forskrift/2014-09-17-1206), [27 juni 2019 nr. 928](forskrift/2019-06-27-928), [2 des 2019 nr. 1596](forskrift/2019-12-02-1596), [10 feb 2022 nr. 248](forskrift/2022-02-10-248), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360).
 
@@ -733,9 +869,16 @@ Når særlige grunner foreligger kan klimakvotemyndigheten og registermyndighete
 
 ### § 10-1. (maritim transport. Tvangstiltak ved brudd på plikt til å overføre kvoter til oppgjør)
 
-Klimakvotemyndigheten kan, dersom en skipsoperatør har misligholdt sine forpliktelser i henhold til [klimakvotelovens § 12](lov/2004-12-17-99/§12) de to foregående rapporteringsårene:bortvise utenlandske skip under skipsoperatørens ansvar fra norsk havntilbakeholde norske skip under skiperoperatørens ansvar i norsk havn.
+Klimakvotemyndigheten kan, dersom en skipsoperatør har misligholdt sine forpliktelser i henhold til [klimakvotelovens § 12](lov/2004-12-17-99/§12) de to foregående rapporteringsårene:
 
-Klimakvotemyndigheten skal, dersom et EØS-land har truffet vedtak om bortvisning eller tilbakehold for et skip under skipsoperatørens ansvar for brudd på plikten til å overføre kvoter til oppgjør:bortvise utenlandske skip under skipsoperatørens ansvar fra norsk havnnekte utenlandske skip under skipsoperatørens ansvar adgang til norsk havntilbakeholde norske skip under skipsoperatørens ansvar i norsk havn.
+1. bortvise utenlandske skip under skipsoperatørens ansvar fra norsk havn
+2. tilbakeholde norske skip under skiperoperatørens ansvar i norsk havn.
+
+Klimakvotemyndigheten skal, dersom et EØS-land har truffet vedtak om bortvisning eller tilbakehold for et skip under skipsoperatørens ansvar for brudd på plikten til å overføre kvoter til oppgjør:
+
+1. bortvise utenlandske skip under skipsoperatørens ansvar fra norsk havn
+2. nekte utenlandske skip under skipsoperatørens ansvar adgang til norsk havn
+3. tilbakeholde norske skip under skipsoperatørens ansvar i norsk havn.
 
 > Tilføyd ved [forskrift 25 mai 2012 nr. 470](forskrift/2012-05-25-470), endret ved forskrifter [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [5 des 2016 nr. 1446](forskrift/2016-12-05-1446), [9 feb 2021 nr. 405](forskrift/2021-02-09-405), [23 des 2021 nr. 3918](forskrift/2021-12-23-3918), [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024).
 
@@ -779,11 +922,22 @@ Anleggsoperatører, luftfartøysoperatører, skipsoperatører og brenselsoperat�
 
 ### § 11-1. (internasjonale luftfartsaktiviteter omfattet av CORSIA)
 
-Bestemmelsene i dette kapittelet gjelder for utslipp av karbondioksid (CO2) fra fly i forbindelse med flygninger mellom lufthavner i to land, utført av luftfartøysoperatører somenten har godkjenningssertifikat for luftfartsselskap (Air Operator Certificate) utstedt av et EØS-land eller som er registrert i et EØS-land, oghar årlige CO2-utslipp på mer enn 10 000 tonn fra flygninger mellom lufthavner i to land.
+Bestemmelsene i dette kapittelet gjelder for utslipp av karbondioksid (CO2) fra fly i forbindelse med flygninger mellom lufthavner i to land, utført av luftfartøysoperatører som
+
+1. enten har godkjenningssertifikat for luftfartsselskap (Air Operator Certificate) utstedt av et EØS-land eller som er registrert i et EØS-land, og
+2. har årlige CO2-utslipp på mer enn 10 000 tonn fra flygninger mellom lufthavner i to land.
 
 Definisjonene i [§ 1-2 bokstav j](forskrift/2004-12-23-1851/§1-2/bokstav/j) (definisjon av flygning) og [bokstav l](forskrift/2004-12-23-1851/§1-2/bokstav/l) (definisjon av lufthavn) gjelder.
 
-Utslipp fra følgende flygninger skal ikke omfattes av dette kapittelet:Flygninger utført med fly med sertifisert maksimal take-off vekt på 5 700 kg eller mindreStatlige flygningerMilitære flygningerFlygninger utført i forbindelse med humanitært arbeidMedisinske flygningerFlygninger utført i forbindelse med brannslukkingFlygninger utført før eller etter flygninger i bokstav d til f, dersom flygningen ble utført med samme luftfartøy, og flygningen var nødvendig for å oppnå aktiviteten i bokstav d til f eller for å reposisjonere luftfartøyet for sin neste aktivitet.
+Utslipp fra følgende flygninger skal ikke omfattes av dette kapittelet:
+
+1. Flygninger utført med fly med sertifisert maksimal take-off vekt på 5 700 kg eller mindre
+2. Statlige flygninger
+3. Militære flygninger
+4. Flygninger utført i forbindelse med humanitært arbeid
+5. Medisinske flygninger
+6. Flygninger utført i forbindelse med brannslukking
+7. Flygninger utført før eller etter flygninger i bokstav d til f, dersom flygningen ble utført med samme luftfartøy, og flygningen var nødvendig for å oppnå aktiviteten i bokstav d til f eller for å reposisjonere luftfartøyet for sin neste aktivitet.
 
 > Tilføyd ved forskrift [16 aug 2024 nr. 1994](forskrift/2024-08-16-1994), endret ved forskrift [26 mai 2025 nr. 893](forskrift/2025-05-26-893).
 
@@ -795,7 +949,11 @@ Forordning [(EU) 2025/927](eu/32025r0927) om overvåking, rapportering og verifi
 
 ### § 11-3. (forordninger med liste over land som EU anser at deltar i CORSIA)
 
-Følgende forordninger inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) gjelder som forskrift med tilpasningene som følger av [vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII), protokoll 1 til avtalen og avtalen for øvrig:forordning [(EU) 2024/622](eu/32024r0622) om liste over land som EU anser at deltar i CORSIA i 2023, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21aluforordning [(EU) 2024/2850](eu/32024r2850) om liste over land som EU anser at deltar i CORSIA i 2024, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21aluaforordning [(EU) 2025/1500](eu/32025r1500) om liste over land som EU anser at deltar i CORSIA i 2025, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alub.
+Følgende forordninger inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) gjelder som forskrift med tilpasningene som følger av [vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII), protokoll 1 til avtalen og avtalen for øvrig:
+
+1. forordning [(EU) 2024/622](eu/32024r0622) om liste over land som EU anser at deltar i CORSIA i 2023, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alu
+2. forordning [(EU) 2024/2850](eu/32024r2850) om liste over land som EU anser at deltar i CORSIA i 2024, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alua
+3. forordning [(EU) 2025/1500](eu/32025r1500) om liste over land som EU anser at deltar i CORSIA i 2025, jf. [vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alub.
 
 > Tilføyd ved forskrift [16 aug 2024 nr. 1994](forskrift/2024-08-16-1994), endret ved forskrift [10 mars 2026 nr. 379](forskrift/2026-03-10-379).
 
@@ -819,7 +977,16 @@ Nye luftfartøysoperatører får først kompensasjonsplikt når ett av vilkåren
 
 I år hvor luftfartøysoperatører har kompensasjonsplikt etter [§ 11-4](forskrift/2004-12-23-1851/§11-4), skal den administrerende myndigheten samtidig vedta hvor store utslipp den enkelte luftfartøysoperatør skal kompensere for det foregående året etter regelen i andre ledd.
 
-Hvor store utslipp den enkelte luftfartøysoperatør skal kompensere for det aktuelle året, beregnes ved at en årlig vekstratefaktor multipliseres med luftfartøysoperatørens CO2-utslipp fra følgende flygninger, i henhold til forordning [(EU) 2024/1879](eu/32024r1879) artikkel 3 nr. 3:flygninger mellom lufthavner i to forskjellige land som er inntatt på listen over land som EU anser at anvender CORSIA for formålene til EUs klimakvotesystem i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3)flygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og land i EØS-områdetflygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og Sveitsflygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og Storbritanniaflygninger mellom lufthavner i to forskjellige oversjøiske land eller territorier tilknyttet EUflygninger mellom lufthavner i oversjøiske land eller territorier tilknyttet EU og land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3), land i EØS-området, Sveits og Storbritannia.Med oversjøiske land og territorier tilknyttet EU menes landene eller territoriene Grønland, Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten, Fransk Polynesia, De franske besittelser i de sørlige og antarktiske områder, Ny Caledonia, Saint-Barthélemy, Saint Pierre og Miquelon, og Wallis og Futuna.
+Hvor store utslipp den enkelte luftfartøysoperatør skal kompensere for det aktuelle året, beregnes ved at en årlig vekstratefaktor multipliseres med luftfartøysoperatørens CO2-utslipp fra følgende flygninger, i henhold til forordning [(EU) 2024/1879](eu/32024r1879) artikkel 3 nr. 3:
+
+1. flygninger mellom lufthavner i to forskjellige land som er inntatt på listen over land som EU anser at anvender CORSIA for formålene til EUs klimakvotesystem i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3)
+2. flygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og land i EØS-området
+3. flygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og Sveits
+4. flygninger mellom lufthavner i land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3) og Storbritannia
+5. flygninger mellom lufthavner i to forskjellige oversjøiske land eller territorier tilknyttet EU
+6. flygninger mellom lufthavner i oversjøiske land eller territorier tilknyttet EU og land som er inntatt i den relevante forordningen i [§ 11-3](forskrift/2004-12-23-1851/§11-3), land i EØS-området, Sveits og Storbritannia.
+
+Med oversjøiske land og territorier tilknyttet EU menes landene eller territoriene Grønland, Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten, Fransk Polynesia, De franske besittelser i de sørlige og antarktiske områder, Ny Caledonia, Saint-Barthélemy, Saint Pierre og Miquelon, og Wallis og Futuna.
 
 Innen 30. november 2027 skal den administrerende myndigheten i tråd med forordning [(EU) 2024/1879](eu/32024r1879) artikkel 4 vedta luftfartøysoperatørens samlede kompensasjonsplikt for årene 2024 til 2026.
 
@@ -841,7 +1008,11 @@ Luftfartøysoperatører skal innen 30. april 2028 levere inn en verifisert rappo
 
 Regelen om norsk administrerende stat i [§ 1A-1 første ledd](forskrift/2004-12-23-1851/§1A-1/ledd/1) gjelder.
 
-Norge er i tillegg administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i listen i [§ 1A-1 første ledd](forskrift/2004-12-23-1851/§1A-1/ledd/1):Luftfartøysoperatører med ICAO-kode utstedt på forespørsel fra NorgeLuftfartøysoperatører som ikke har ICAO-kode, men som har godkjenningssertifikat for luftfartsselskap (Air Operator Certificate) utstedt av norske myndigheterLuftfartøysoperatører som hverken har ICAO-kode eller godkjenningssertifikat for luftfartsselskap (Air Operator Certificate), men som er registrert i Norge.
+Norge er i tillegg administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i listen i [§ 1A-1 første ledd](forskrift/2004-12-23-1851/§1A-1/ledd/1):
+
+1. Luftfartøysoperatører med ICAO-kode utstedt på forespørsel fra Norge
+2. Luftfartøysoperatører som ikke har ICAO-kode, men som har godkjenningssertifikat for luftfartsselskap (Air Operator Certificate) utstedt av norske myndigheter
+3. Luftfartøysoperatører som hverken har ICAO-kode eller godkjenningssertifikat for luftfartsselskap (Air Operator Certificate), men som er registrert i Norge.
 
 Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot luftfartsaktiviteter omfattet av CORSIA, gjelder for luftfartøysoperatørene som omfattes av første og andre ledd.
 
@@ -859,7 +1030,11 @@ Regelen om at luftfartøysoperatører kan anmode den administrerende myndigheten
 
 ### § 11A-1. (virkeområde)
 
-Følgende aktiviteter og klimagasser omfattes av dette kapitlet:fra 1. januar 2024 til og med 31. desember 2025: utslipp fra skip med bruttotonnasje 5000 eller mer, som transporterer passasjerer eller last for kommersielle formål og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene metan (CH4) og lystgass (N2O)fra 1. januar 2025 til og med 31. desember 2026: utslipp fra offshoreskip med bruttotonnasje 5000 eller mer og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O)fra 1. januar 2025: utslipp fra stykkgodsskip som transporterer last for kommersielle formål med bruttotonnasje mellom 400–4999 og offshoreskip med bruttotonnasje mellom 400–4999, og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O).
+Følgende aktiviteter og klimagasser omfattes av dette kapitlet:
+
+1. fra 1. januar 2024 til og med 31. desember 2025: utslipp fra skip med bruttotonnasje 5000 eller mer, som transporterer passasjerer eller last for kommersielle formål og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene metan (CH4) og lystgass (N2O)
+2. fra 1. januar 2025 til og med 31. desember 2026: utslipp fra offshoreskip med bruttotonnasje 5000 eller mer og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O)
+3. fra 1. januar 2025: utslipp fra stykkgodsskip som transporterer last for kommersielle formål med bruttotonnasje mellom 400–4999 og offshoreskip med bruttotonnasje mellom 400–4999, og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O).
 
 Første ledd gjelder likevel ikke utslipp fra fiskefangst- eller fiskeforedlingsskip, krigsskip, forsvarets logistikk- og støttefartøy, treskip av primitiv konstruksjon, skip som ikke drives frem med mekaniske midler, og statseide skip brukt til ikke-kommersielle formål.
 
@@ -867,7 +1042,11 @@ Første ledd gjelder likevel ikke utslipp fra fiskefangst- eller fiskeforedlings
 
 ### § 11A-2. (krav til overvåking og rapportering)
 
-Følgende bestemmelser om overvåking og rapportering gjelder for de som omfattes av dette kapittelet:[§ 1-2. bokstav m](forskrift/2004-12-23-1851/§1-2/bokstav/m) (definisjon av anløpshavn)[§ 2-1](forskrift/2004-12-23-1851/§2-1)a. (forordning [(EU) 2015/757](eu/32015r0757))[§ 2-2a](forskrift/2004-12-23-1851/§2-2a). (forordning [(EU) 2016/2072](eu/32016r2072)).
+Følgende bestemmelser om overvåking og rapportering gjelder for de som omfattes av dette kapittelet:
+
+1. [§ 1-2. bokstav m](forskrift/2004-12-23-1851/§1-2/bokstav/m) (definisjon av anløpshavn)
+2. [§ 2-1](forskrift/2004-12-23-1851/§2-1)a. (forordning [(EU) 2015/757](eu/32015r0757))
+3. [§ 2-2a](forskrift/2004-12-23-1851/§2-2a). (forordning [(EU) 2016/2072](eu/32016r2072)).
 
 For kontroll og saksbehandling av utslippsrapport i henhold til [§ 2-1a](forskrift/2004-12-23-1851/§2-1a) gjelder [§ 9-2](forskrift/2004-12-23-1851/§9-2).
 
@@ -909,7 +1088,12 @@ Forordning [(EU) 2019/856](eu/32019r0856) om tillegg til direktiv [2003/87/EF](e
 
 ### § 13-1. (myndighet etter loven)
 
-Myndighet i henhold til [klimakvoteloven](lov/2004-12-17-99) og denne forskrift er:Klimakvotemyndigheten: Miljødirektoratet, med mindre annet følger av delegering fra departementetRegistermyndigheten: MiljødirektoratetAdministrerende myndighet etter [klimakvotelovens](lov/2004-12-17-99) og denne forskriftens regler om CORSIA: MiljødirektoratetMyndighet som nasjonalt akkrediteringsorgan i henhold til forordning [(EU) 2018/2067](eu/32018r2067) og forordning [(EU) 2016/2072](eu/32016r2072): Norsk akkreditering
+Myndighet i henhold til [klimakvoteloven](lov/2004-12-17-99) og denne forskrift er:
+
+1. Klimakvotemyndigheten: Miljødirektoratet, med mindre annet følger av delegering fra departementet
+2. Registermyndigheten: Miljødirektoratet
+3. Administrerende myndighet etter [klimakvotelovens](lov/2004-12-17-99) og denne forskriftens regler om CORSIA: Miljødirektoratet
+4. Myndighet som nasjonalt akkrediteringsorgan i henhold til forordning [(EU) 2018/2067](eu/32018r2067) og forordning [(EU) 2016/2072](eu/32016r2072): Norsk akkreditering
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrift [26 mai 2025 nr. 893](forskrift/2025-05-26-893).
 
@@ -1015,7 +1199,12 @@ Energirevisjonen skal utføres på en uavhengig og kostnadseffektiv måte av kva
 
 ### 1. Minimumskriterier for energirevisjon
 
-Energirevisjonen skal baseres på følgende retningslinjer:den skal baseres på ajourførte, målte og sporbare driftsdata om energiforbruk og (for elektrisitet) forbruksprofilden skal omfatte en detaljert gjennomgang av energiforbruksprofilen i bygninger eller grupper av bygninger, industrielle aktiviteter eller anlegg, herunder transportden skal, når det er mulig, bygge på en analyse av livssykluskostnader istedenfor enkle tilbakebetalingsperioder for å ta hensyn til langsiktig sparing, restverdier av langsiktige investeringer og diskonteringsrenterden skal være forholdsmessig og tilstrekkelig representativ for å kunne gi et troverdig bilde av samlet energiytelse og på en pålitelig måte kunne identifisere de viktigste mulighetene for forbedringer.
+Energirevisjonen skal baseres på følgende retningslinjer:
+
+1. den skal baseres på ajourførte, målte og sporbare driftsdata om energiforbruk og (for elektrisitet) forbruksprofil
+2. den skal omfatte en detaljert gjennomgang av energiforbruksprofilen i bygninger eller grupper av bygninger, industrielle aktiviteter eller anlegg, herunder transport
+3. den skal, når det er mulig, bygge på en analyse av livssykluskostnader istedenfor enkle tilbakebetalingsperioder for å ta hensyn til langsiktig sparing, restverdier av langsiktige investeringer og diskonteringsrenter
+4. den skal være forholdsmessig og tilstrekkelig representativ for å kunne gi et troverdig bilde av samlet energiytelse og på en pålitelig måte kunne identifisere de viktigste mulighetene for forbedringer.
 
 Energirevisjonen skal gi mulighet for detaljerte og validerte beregninger for de foreslåtte tiltakene slik at det kan oppnås nøyaktige opplysninger om potensiell/mulig sparing. Dataene som anvendes i energirevisjonen skal kunne oppbevares med tanke på historisk analyse og oppfølging av resultater.
 

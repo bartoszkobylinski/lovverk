@@ -40,11 +40,21 @@ Opptak til grunnutdanninger reguleres av [forskrift om opptak til høgare utdann
 
 (3) Søkere med utenlandsk utdanning fra land utenfor Norden må dokumentere at de oppfyller krav til norsk- og engelskkunnskaper i henhold til krav i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13). Krav til norskkunnskaper gjelder ikke dersom både obligatoriske deler av studiet og den aktuelle spesialiseringen i sin helhet foregår på engelsk.
 
-(4) Søkere som er 25 år eller eldre i opptaksåret, og som ikke dekker opptakskravet gjennom formell utdanning, kan få vurdert om de er kvalifiserte for et bestemt studium på grunnlag av realkompetanse. Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.Spesielle opptakskrav gitt i forskrift, rammeplan eller programplan som regulerer opptaket til det aktuelle studiet, gjelder også for søkere som blir kvalifisert for opptak på grunnlag av realkompetanse.Dersom det åpnes for opptak på grunnlag av realkompetanse må retningslinjer for realkompetansevurdering fastsettes i programplanen.
+(4) Søkere som er 25 år eller eldre i opptaksåret, og som ikke dekker opptakskravet gjennom formell utdanning, kan få vurdert om de er kvalifiserte for et bestemt studium på grunnlag av realkompetanse. Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.
 
-(5) Ved beregningen av det faglige grunnlaget for opptak til masterstudier benyttes karakterene fra de enkelte emnene i det faglige grunnlaget, med vekting ut fra emnenes omfang i studiepoeng. Det faglige grunnlaget defineres i programplanen.Annen relevant utdanning kan regnes inn i det faglige grunnlaget. Programplanen skal definere prinsippet for hva som er relevant utdanning.
+Spesielle opptakskrav gitt i forskrift, rammeplan eller programplan som regulerer opptaket til det aktuelle studiet, gjelder også for søkere som blir kvalifisert for opptak på grunnlag av realkompetanse.
 
-(6) For opptak til masterstudier må søker har karaktersnitt C eller bedre i det faglige grunnlaget for opptak.For søkere med bokstavkarakterer er tallverdien for det faglige minstekravet for opptak 2,5, jf. [§ 10](forskrift/2015-12-15-1681/§10). For søkere med karakterer fra gammel norsk karakterskala er minstekravet for opptak 2,75.Der det faglige grunnlaget er vurdert med både tallkarakterer og bokstavkarakterer og ikke begge grunnlag tilfredsstiller karakterkravet, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.Der det faglige grunnlaget ikke kan poengberegnes, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
+Dersom det åpnes for opptak på grunnlag av realkompetanse må retningslinjer for realkompetansevurdering fastsettes i programplanen.
+
+(5) Ved beregningen av det faglige grunnlaget for opptak til masterstudier benyttes karakterene fra de enkelte emnene i det faglige grunnlaget, med vekting ut fra emnenes omfang i studiepoeng. Det faglige grunnlaget defineres i programplanen.
+
+Annen relevant utdanning kan regnes inn i det faglige grunnlaget. Programplanen skal definere prinsippet for hva som er relevant utdanning.
+
+(6) For opptak til masterstudier må søker har karaktersnitt C eller bedre i det faglige grunnlaget for opptak.
+
+1. For søkere med bokstavkarakterer er tallverdien for det faglige minstekravet for opptak 2,5, jf. [§ 10](forskrift/2015-12-15-1681/§10). For søkere med karakterer fra gammel norsk karakterskala er minstekravet for opptak 2,75.
+2. Der det faglige grunnlaget er vurdert med både tallkarakterer og bokstavkarakterer og ikke begge grunnlag tilfredsstiller karakterkravet, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
+3. Der det faglige grunnlaget ikke kan poengberegnes, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
 
 (7) For opptak til erfaringsbaserte masterstudier i samsvar med [forskrift om krav til mastergrad § 5](forskrift/2005-12-01-1392/§5), kreves i tillegg minst 2 års relevant yrkespraksis. Det fastsettes i programplanen hva som er relevant yrkespraksis. Det kan i programplanen fastsettes krav om mer enn 2 års yrkespraksis. Yrkespraksis skal være gjennomført etter endt grunnutdanning, med mindre annet fremgår av programplanen.
 
@@ -90,7 +100,10 @@ For opptak til enkeltemner gjelder de generelle krav for opptak til det programm
 
 ## § 8. Innpassingsopptak
 
-(1) Innpassingsopptak kan brukes i følgende tilfeller:Fra og med 2. studieår i grunnutdanninger med ledig kapasitetFor søknader fra søkere som har bestått deler av masterprogrammet det søkes opptak til.
+(1) Innpassingsopptak kan brukes i følgende tilfeller:
+
+1. Fra og med 2. studieår i grunnutdanninger med ledig kapasitet
+2. For søknader fra søkere som har bestått deler av masterprogrammet det søkes opptak til.
 
 (2) Søkere til innpassingsopptak må dekke de gjeldende opptakskrav til studiet de søker opptak til.
 
@@ -116,9 +129,15 @@ Der opptakskravet er generell studiekompetanse beregnes karakterpoeng og tillegg
 
 ## § 11. Rangering
 
-(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne innbyrdes på følgende måte:Søkere som konkurrerer med karakterpoeng uten tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget.Søkere som konkurrerer med tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget pluss oppnådde tilleggspoeng.
+(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne innbyrdes på følgende måte:
 
-(2) Søkere med høy poengsum rangeres foran søkere med lav poengsum. Ved lik poengsum gjelder følgende:Ved for øvrig lik poengsum rangeres eldre søkere foran yngre.Det kan fastsettes i studiets programplan at det underrepresenterte kjønn skal prioriteres først.
+1. Søkere som konkurrerer med karakterpoeng uten tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget.
+2. Søkere som konkurrerer med tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget pluss oppnådde tilleggspoeng.
+
+(2) Søkere med høy poengsum rangeres foran søkere med lav poengsum. Ved lik poengsum gjelder følgende:
+
+1. Ved for øvrig lik poengsum rangeres eldre søkere foran yngre.
+2. Det kan fastsettes i studiets programplan at det underrepresenterte kjønn skal prioriteres først.
 
 (3) Søkere som har flere mulige rangeringsgrunnlag, skal poengberegnes på den måten som gir gunstigst resultat for søkeren.
 

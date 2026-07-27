@@ -15,7 +15,7 @@ xml_hash: "d8036f042aab8c23efb82efd546cef42205bccb65a6556b1276f343925159042"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,20 @@ Graden bachelor oppnås på grunnlag av fullførte studieprogram eller emnegrupp
 
 ## § 4. Krav til innhold
 
-Graden bachelor oppnås når innholdet av studiet er en av følgende:*Profesjonsbachelor*Integrert yrkesrettet utdanning med omfang på minst 180 studiepoeng.*Yrkesrettet bachelor med faglig fordypning*Fullført studieprogram med omfang på minst 120 studiepoeng samt fordypning innen samme fagområde på minst 60 studiepoeng.*Yrkesrettet tverrfaglig bachelor*Fullført studieprogram med omfang på minst 120 studiepoeng, samt fullførte tverrfaglige studieprogram/emnegrupper på til sammen 60 studiepoeng.*Tverrfaglig bachelor*Fullført studieprogram med omfang på minst 90 studiepoeng sammen med et studieprogram/emnegruppe innen et annet område på minst 30 studiepoeng. De resterende 60 studiepoengene kan tas innen studieprogram/emnegrupper som hver har et omfang på minst 10 studiepoeng. Ex.phil./ex.fac. er obligatorisk studieprogram i slik grad.
+Graden bachelor oppnås når innholdet av studiet er en av følgende:
+
+1. *Profesjonsbachelor*
+
+   Integrert yrkesrettet utdanning med omfang på minst 180 studiepoeng.
+2. *Yrkesrettet bachelor med faglig fordypning*
+
+   Fullført studieprogram med omfang på minst 120 studiepoeng samt fordypning innen samme fagområde på minst 60 studiepoeng.
+3. *Yrkesrettet tverrfaglig bachelor*
+
+   Fullført studieprogram med omfang på minst 120 studiepoeng, samt fullførte tverrfaglige studieprogram/emnegrupper på til sammen 60 studiepoeng.
+4. *Tverrfaglig bachelor*
+
+   Fullført studieprogram med omfang på minst 90 studiepoeng sammen med et studieprogram/emnegruppe innen et annet område på minst 30 studiepoeng. De resterende 60 studiepoengene kan tas innen studieprogram/emnegrupper som hver har et omfang på minst 10 studiepoeng. Ex.phil./ex.fac. er obligatorisk studieprogram i slik grad.
 
 ## § 5. Krav til innpassing
 

@@ -26,11 +26,19 @@ eu_basis: []
 
 Forskriften gjelder for saksøktes ansvar for saksøkerens sakskostnader i saker om tvangsfullbyrdelse etter tvangsfullbyrdelsesloven.
 
-Forskriften gjelder ikke for:saker om tvangsdekning etter [tvangsfullbyrdelsesloven kapittel 10](lov/1992-06-26-86/kap10) avsnitt V og VIsaker om tvangsdekning etter tvangsfullbyrdelsesloven kapittel 11 i andre realregistrerte formuesgoder enn fast eiendom og registrerte borettslagsandeler, samt saker om tvangsbruksaker om fravikelse av fast eiendom etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) på grunnlag av særlig tvangsgrunnlag etter annen lov og tvangsgrunnlag som nevnt i [tvangsfullbyrdelsesloven § 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstav d og esaker om tvangsfullbyrdelse av krav om sikkerhetsstillelse, handleplikter og unnlatelses- og tåleplikter etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) avsnitt IV, V og VI.
+Forskriften gjelder ikke for:
+
+1. saker om tvangsdekning etter [tvangsfullbyrdelsesloven kapittel 10](lov/1992-06-26-86/kap10) avsnitt V og VI
+2. saker om tvangsdekning etter tvangsfullbyrdelsesloven kapittel 11 i andre realregistrerte formuesgoder enn fast eiendom og registrerte borettslagsandeler, samt saker om tvangsbruk
+3. saker om fravikelse av fast eiendom etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) på grunnlag av særlig tvangsgrunnlag etter annen lov og tvangsgrunnlag som nevnt i [tvangsfullbyrdelsesloven § 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstav d og e
+4. saker om tvangsfullbyrdelse av krav om sikkerhetsstillelse, handleplikter og unnlatelses- og tåleplikter etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) avsnitt IV, V og VI.
 
 ## § 2. Hovedregel
 
-Når en saksøker skal tilkjennes erstatning for nødvendige sakskostnader ved tvangsfullbyrdelse, jf. [tvangsfullbyrdelsesloven § 3-1](lov/1992-06-26-86/§3-1), kan saksøkeren ikke tilkjennes mer enngebyret for tvangsfullbyrdelsen etter [rettsgebyrloven § 14](lov/1982-12-17-86/§14)et beløp lik en halv gang rettsgebyret for kostnader ved skriving av begjæringen og andre alminnelige sakskostnader.
+Når en saksøker skal tilkjennes erstatning for nødvendige sakskostnader ved tvangsfullbyrdelse, jf. [tvangsfullbyrdelsesloven § 3-1](lov/1992-06-26-86/§3-1), kan saksøkeren ikke tilkjennes mer enn
+
+1. gebyret for tvangsfullbyrdelsen etter [rettsgebyrloven § 14](lov/1982-12-17-86/§14)
+2. et beløp lik en halv gang rettsgebyret for kostnader ved skriving av begjæringen og andre alminnelige sakskostnader.
 
 Dersom hele eller mer enn halvparten av saksøkerens krav ikke skriver seg fra virksomhet som er merverdiavgiftspliktig, forhøyes satsen etter første ledd bokstav b med et beløp tilsvarende den generelle satsen for merverdiavgift.
 

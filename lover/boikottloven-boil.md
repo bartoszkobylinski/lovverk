@@ -15,7 +15,7 @@ xml_hash: "0bc11b514424c9ca72f0aebddfa5bbeb22515423adf7e0cc138d2ec88bfd3219"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Med boikott mener denne lov en oppfordring, avtale eller liknende tiltak som for
 
 ## § 2.
 
-Boikott er rettsstridig:når den har et rettsstridig formål eller ikke kan nå sitt mål uten å føre til et rettsbrudd;når den blir foretatt eller holdt vedlike ved rettsstridige midler eller på en unødig opphissende eller krenkende måte eller ved usanne eller misvisende opplysninger;når den vil skade vesentlige samfunnsinteresser eller virke utilbørlig, eller når det ikke er noe rimelig forhold mellom den interesse som skal fremmes ved boikotten og den skade som den vil føre med seg;når den blir foretatt uten at den som boikotten er rettet mot har fått rimelig varsel, eller uten at det på forhånd overfor ham og dem som en boikottoppfordring er rettet til, er gjort fyllestgjørende rede for grunnen til boikotten.
+Boikott er rettsstridig:
+
+1. når den har et rettsstridig formål eller ikke kan nå sitt mål uten å føre til et rettsbrudd;
+2. når den blir foretatt eller holdt vedlike ved rettsstridige midler eller på en unødig opphissende eller krenkende måte eller ved usanne eller misvisende opplysninger;
+3. når den vil skade vesentlige samfunnsinteresser eller virke utilbørlig, eller når det ikke er noe rimelig forhold mellom den interesse som skal fremmes ved boikotten og den skade som den vil føre med seg;
+4. når den blir foretatt uten at den som boikotten er rettet mot har fått rimelig varsel, eller uten at det på forhånd overfor ham og dem som en boikottoppfordring er rettet til, er gjort fyllestgjørende rede for grunnen til boikotten.
 
 ## § 3.
 

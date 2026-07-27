@@ -28,7 +28,10 @@ Formålet med tilskottet er å gi støtte til tiltak som hindrer eller reduserer
 
 ## § 2. Tiltak.
 
-Det kan gis tilskott til fellesprosjekter med Norges Vassdrags- og Energiverk (NVE) der hensikten er åhindre utgraving/erosjon av jordbruksarealsikre jordbruksareal og -bebyggelse mot oversvømmelse ved flom og isgang
+Det kan gis tilskott til fellesprosjekter med Norges Vassdrags- og Energiverk (NVE) der hensikten er å
+
+- hindre utgraving/erosjon av jordbruksareal
+- sikre jordbruksareal og -bebyggelse mot oversvømmelse ved flom og isgang
 
 ## § 3. Definisjon.
 
@@ -54,7 +57,9 @@ Kommunen må godta NVE's skjemavedtak. Det er kommunens ansvar å sørge for eve
 
 1. Tilskott
 
-Tilskott kan gis med inntil 60 % av godkjent tilskottsgrunnlag når dette er minst 100.000 kroner. Dersom tiltaket har stor betydning for jordbruksinteressene, men er kostbart for interessentene, kan det gis tilskott med inntil 70 % av tilskottsgrunnlaget.Tilskottsgrunnlag
+Tilskott kan gis med inntil 60 % av godkjent tilskottsgrunnlag når dette er minst 100.000 kroner. Dersom tiltaket har stor betydning for jordbruksinteressene, men er kostbart for interessentene, kan det gis tilskott med inntil 70 % av tilskottsgrunnlaget.
+
+1. Tilskottsgrunnlag
 
 Landbruksdirektoratet fastsetter i samråd med NVE's kostnadsfordelingen på henholdsvis NVE og Landbrukets utbyggingsfond. Øvrige vilkår for tilskott fastsettes av Landbruksdirektoratet.
 

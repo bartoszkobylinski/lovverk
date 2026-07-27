@@ -54,7 +54,16 @@ Forhold som at bindende avtaler er inngått, at varene er ankommet til Norge ell
 
 ### § 5
 
-Unntatt fra lisensplikten i [§ 1](forskrift/1998-08-18-818/§1) er:varer inntil en verdi av kr. 5.000,-.Unntaket gjelder bare enkeltforsendelser. Masseforsendelser til en eller flere adressater i Norge tillates således ikke innført uten at lisens foreligger.varer i direkte transitt.Unntaket gjelder ikke våpen, ammunisjon og annet krigsutstyr.varer som av tollmyndighetene tillates innført toll- og avgiftsfritt.varer som av tollmyndighetene tillates innført midlertidig toll- og avgiftsfritt. I de tilfeller gjenutførsel ikke finner sted må innførselslisens legges fram for tollvesenet ved fortollingen dersom varen er lisenspliktig etter [§ 1](forskrift/1998-08-18-818/§1).
+Unntatt fra lisensplikten i [§ 1](forskrift/1998-08-18-818/§1) er:
+
+- varer inntil en verdi av kr. 5.000,-.
+
+  Unntaket gjelder bare enkeltforsendelser. Masseforsendelser til en eller flere adressater i Norge tillates således ikke innført uten at lisens foreligger.
+- varer i direkte transitt.
+
+  Unntaket gjelder ikke våpen, ammunisjon og annet krigsutstyr.
+- varer som av tollmyndighetene tillates innført toll- og avgiftsfritt.
+- varer som av tollmyndighetene tillates innført midlertidig toll- og avgiftsfritt. I de tilfeller gjenutførsel ikke finner sted må innførselslisens legges fram for tollvesenet ved fortollingen dersom varen er lisenspliktig etter [§ 1](forskrift/1998-08-18-818/§1).
 
 ## Søknad om innførselslisens
 
@@ -82,7 +91,13 @@ Innførselslisens kan ikke overdras til andre uten etter tillatelse fra Utenriks
 
 Innførselslisens skal legges fram for tollvesenet i original (ikke fotokopi e.l.).
 
-Importøren skal påse:at de varer som deklareres er i samsvar med innvilget lisens,at varenes opprinnelse er i samsvar med innvilget lisens,at det vareparti som deklareres ikke overstiger det kvantum lisensen er innvilget for,at innførselen skjer innen den gyldighetsfrist som er satt i lisensen,at særlige vilkår som er satt i lisensen er oppfylt.
+Importøren skal påse:
+
+- at de varer som deklareres er i samsvar med innvilget lisens,
+- at varenes opprinnelse er i samsvar med innvilget lisens,
+- at det vareparti som deklareres ikke overstiger det kvantum lisensen er innvilget for,
+- at innførselen skjer innen den gyldighetsfrist som er satt i lisensen,
+- at særlige vilkår som er satt i lisensen er oppfylt.
 
 ### § 10
 

@@ -15,7 +15,7 @@ xml_hash: "dc002eaeda7cc009530710c0390719273e754bc3d6edd3738f9a9b3edfccdb25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Målet med tilskuddsordningen er å sikre drift, bidra til mangfold og skape hø
 
 Prosjekter og organisasjoner som får tilskudd skal støtte opp under målet med tilskuddsordningen. Om målet er nådd vurderes ut fra om, eller i hvilken grad, tilskuddsmottaker har gjennomført aktivitetene som forutsatt i søknaden og tilskuddsbrevet.
 
-Tilskuddsordningen skal legge til rette for at frivillige organisasjoner får anledning til åsette dagsordensupplere og korrigere det offentliges familie- og likestillingspolitiske arbeidutvikle demokratietbidra til at flere grupper deltar i arbeid med å fremme likestilling og motvirke diskriminering knyttet til kjønn og familiebidra til økt kunnskap, debatt og holdningsendringer i organisasjoner og samfunnslivbidra til å motvirke begrensende kjønnsstereotyper, bidra til å bygge ned samfunnsskapte barrierer og motvirke diskriminering.
+Tilskuddsordningen skal legge til rette for at frivillige organisasjoner får anledning til å
+
+- sette dagsorden
+- supplere og korrigere det offentliges familie- og likestillingspolitiske arbeid
+- utvikle demokratiet
+- bidra til at flere grupper deltar i arbeid med å fremme likestilling og motvirke diskriminering knyttet til kjønn og familie
+- bidra til økt kunnskap, debatt og holdningsendringer i organisasjoner og samfunnsliv
+- bidra til å motvirke begrensende kjønnsstereotyper, bidra til å bygge ned samfunnsskapte barrierer og motvirke diskriminering.
 
 Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -54,7 +61,15 @@ For å kunne få driftstilskudd må organisasjonene ha minst 50 tellende medlemm
 
 Med kontingent menes et beløp som blir betalt for inntil ett kalenderårs medlemskap i en organisasjon. Ved innbetaling må det komme klart frem hvilket år og hvem kontingenten gjelder for. Kontingenten må være betalt innen 31. desember i grunnlagsåret. Kontingenten kan ikke være betalt tidligere enn et halvt år før grunnlagsåret. Det er ikke tillatt å regne med gave-, æres- eller livstidsmedlemskap.
 
-Driftstilskuddet består av et basistilskudd og et variabelt tilskudd. Direktoratet fastsetter størrelsen på basistilskuddet for hvert tilskuddsår. Det variable tilskuddet regnes ut på bakgrunn av organisasjonens antall betalende medlemmer etter følgende poengberegning:1 til og med 199 medlemmer: 30 poeng per medlem,200 til og med 499 medlemmer: 15 poeng per medlem,500 til og med 1 999 medlemmer: 10 poeng per medlem,2 000 til og med 4 999 medlemmer: 2 poeng per medlem,5 000 medlemmer og over: 1 poeng per medlem.Ved utmåling av tilskuddet tar Bufdir utgangspunkt i totalsummen som settes av til driftstilskudd. Av denne summen reserveres midler til dekning av basistilskuddet. Restsummen divideres med summen av totalpoeng, og deretter fremkommer kroneverdien for ett totalpoeng. Det variable tilskuddet for en organisasjon fremkommer således ved at kronebeløpet per totalpoeng multipliseres med organisasjonens totale poengsum. Summen av det basistilskuddet og det variable tilskuddet utgjør så organisasjonens driftstilskudd.
+Driftstilskuddet består av et basistilskudd og et variabelt tilskudd. Direktoratet fastsetter størrelsen på basistilskuddet for hvert tilskuddsår. Det variable tilskuddet regnes ut på bakgrunn av organisasjonens antall betalende medlemmer etter følgende poengberegning:
+
+- 1 til og med 199 medlemmer: 30 poeng per medlem,
+- 200 til og med 499 medlemmer: 15 poeng per medlem,
+- 500 til og med 1 999 medlemmer: 10 poeng per medlem,
+- 2 000 til og med 4 999 medlemmer: 2 poeng per medlem,
+- 5 000 medlemmer og over: 1 poeng per medlem.
+
+Ved utmåling av tilskuddet tar Bufdir utgangspunkt i totalsummen som settes av til driftstilskudd. Av denne summen reserveres midler til dekning av basistilskuddet. Restsummen divideres med summen av totalpoeng, og deretter fremkommer kroneverdien for ett totalpoeng. Det variable tilskuddet for en organisasjon fremkommer således ved at kronebeløpet per totalpoeng multipliseres med organisasjonens totale poengsum. Summen av det basistilskuddet og det variable tilskuddet utgjør så organisasjonens driftstilskudd.
 
 Organisasjonen må kunne dokumentere antallet tellende medlemmer. Som dokumentasjon av medlemstall kreves et sentralt medlemsregister. Med sentralt medlemsregister menes en elektronisk eller manuell oversikt over alle medlemmene i organisasjonen, der det skilles mellom betalende og andre medlemmer. Det sentrale medlemsregisteret skal inneholde opplysninger om navn, adresse og betaling av kontingent for hvert medlem pr. 31. desember i grunnlagsåret.
 
@@ -72,7 +87,15 @@ Det kan søkes om prosjekttilskudd for inntil tre år. Midlene utbetales for ett
 
 Prosjekttilskudd gis ikke til driftsformål, det vil si oppgaver som normalt inngår i organisasjonens interne og eksterne kjernevirksomhet i henhold til vedtekter, formål og aktivitetsplaner.
 
-Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen av bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte tiltaket,tiltakets mulighet til å oppnå målet med ordningen, se [§ 1](forskrift/2022-01-14-70/§1) og [§ 2](forskrift/2022-01-14-70/§2),målgruppe og nedslagsfelt,tiltakets størrelse og varighet, ogegenfinansiering. Som egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
+Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen av bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:
+
+1. de søknader som er innkommet for tilskuddsåret,
+2. prosjektbeskrivelse og budsjett,
+3. kvaliteten på det planlagte tiltaket,
+4. tiltakets mulighet til å oppnå målet med ordningen, se [§ 1](forskrift/2022-01-14-70/§1) og [§ 2](forskrift/2022-01-14-70/§2),
+5. målgruppe og nedslagsfelt,
+6. tiltakets størrelse og varighet, og
+7. egenfinansiering. Som egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
 
 *Prioriterte tiltak:*
 
@@ -132,7 +155,16 @@ Bufdir og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter for
 
 ## § 10. Sanksjoner ved brudd på regelverket
 
-Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet,mottakeren ikke bruker opp hele tilskuddet,mottakeren ikke gjennomfører tiltaket,mottakeren ikke sender inn rapport og regnskap innen fristen,rapport og regnskap ikke blir godkjent av Bufdir, ellerBufdir ved en feil utbetaler for høyt tilskudd.
+Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:
+
+- mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+- mottakeren ikke bruker midlene i samsvar med vilkårene som står i regelverket og tilskuddsbrevet,
+- mottakeren ikke bruker opp hele tilskuddet,
+- mottakeren ikke gjennomfører tiltaket,
+- mottakeren ikke sender inn rapport og regnskap innen fristen,
+- rapport og regnskap ikke blir godkjent av Bufdir, eller
+- Bufdir ved en feil utbetaler for høyt tilskudd.
 
 En tilskuddsmottaker som har brutt regelverket, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved denne vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
 

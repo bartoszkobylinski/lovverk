@@ -28,7 +28,11 @@ Tilskuddsordningen skal fremme arbeidet med klimatilpasning i kommuner og fylkes
 
 ## § 2. Tildelingskriterier
 
-Kommuner og fylkeskommuner kan få tilskudd til tiltak som:bidrar til å heve kunnskapen om hvordan klimaendringer påvirker kommunens og fylkeskommunens ansvarsområder eller gjør kommunene bedre rustet til å møte klimaendringene.gir kunnskap om klimatilpasning som kan bidra i utarbeidelsen av kommunale eller regionale planer eller myndighetsutøvelse.gir kunnskap og erfaringer som bidrar til å styrke den interne klimatilpasningskompetansen i kommunen eller fylkeskommunen.
+Kommuner og fylkeskommuner kan få tilskudd til tiltak som:
+
+1. bidrar til å heve kunnskapen om hvordan klimaendringer påvirker kommunens og fylkeskommunens ansvarsområder eller gjør kommunene bedre rustet til å møte klimaendringene.
+2. gir kunnskap om klimatilpasning som kan bidra i utarbeidelsen av kommunale eller regionale planer eller myndighetsutøvelse.
+3. gir kunnskap og erfaringer som bidrar til å styrke den interne klimatilpasningskompetansen i kommunen eller fylkeskommunen.
 
 ## § 3. Krav til søknaden
 

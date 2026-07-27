@@ -48,7 +48,13 @@ Enhver som deltar eller har deltatt i Norges vassdrags- og energiverk (NVE) sitt
 
 ### § 2-1. Opplysninger om tekniske data, eierforhold og skattested
 
-Eier av særskilt driftsmiddel i kraftanlegg plikter å gi NVE opplysninger om følgende:Tekniske data av betydning for beregning av driftsmidlets gjenanskaffelsesverdi.Tidspunkt for driftsmidlets levering eller ferdigstillelse.Tidspunkt for og omfang av påkostninger foretatt etter opprinnelig levering eller ferdigstillelse, jf [§ 2-3](forskrift/1997-01-20-79/§2-3).Fullstendige eierforhold til kraftanlegget.Hvilke kommuner det foreligger skatteplikt til for inntekt av kraftproduksjonen i anlegget.
+Eier av særskilt driftsmiddel i kraftanlegg plikter å gi NVE opplysninger om følgende:
+
+1. Tekniske data av betydning for beregning av driftsmidlets gjenanskaffelsesverdi.
+2. Tidspunkt for driftsmidlets levering eller ferdigstillelse.
+3. Tidspunkt for og omfang av påkostninger foretatt etter opprinnelig levering eller ferdigstillelse, jf [§ 2-3](forskrift/1997-01-20-79/§2-3).
+4. Fullstendige eierforhold til kraftanlegget.
+5. Hvilke kommuner det foreligger skatteplikt til for inntekt av kraftproduksjonen i anlegget.
 
 Opplysningene gis innen 15. april 1997 på særskilt skjema fastsatt av NVE. Godtgjør noen at det av særlige grunner vil skape betydelige vanskeligheter å levere skjema innen fristen, kan NVE gi fristutsettelse.
 

@@ -42,9 +42,14 @@ Forskriften gir norske særbestemmelser til relevante standarder i ICAO Annex 10
 
 ## § 5. Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.1.7
 
-I tillegg til det som følger av punkt 5.2.1.7.1.2 kan følgende tjeneste og betegnelse benyttes:Vektorering for sluttinnlegget – DIRECTOR
+I tillegg til det som følger av punkt 5.2.1.7.1.2 kan følgende tjeneste og betegnelse benyttes:
 
-I tillegg til det som følger av punkt 5.2.1.7 gjelder følgende for kallesignal på radiotelefoni for kjøretøy og bakkepersonell:Den enkelte lufthavn skal utarbeide et system for kallesignal for identifisering av kjøretøy og bakkepersonell som skal ha radiokommunikasjon med lufttrafikktjenesten.Kallesignal for kjøretøy og bakkepersonell skal ikke forkortes.
+Vektorering for sluttinnlegget – DIRECTOR
+
+I tillegg til det som følger av punkt 5.2.1.7 gjelder følgende for kallesignal på radiotelefoni for kjøretøy og bakkepersonell:
+
+1. Den enkelte lufthavn skal utarbeide et system for kallesignal for identifisering av kjøretøy og bakkepersonell som skal ha radiokommunikasjon med lufttrafikktjenesten.
+2. Kallesignal for kjøretøy og bakkepersonell skal ikke forkortes.
 
 ## § 6. Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.2.1.2 og 5.2.2.1.3
 

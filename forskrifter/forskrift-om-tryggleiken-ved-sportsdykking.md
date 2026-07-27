@@ -30,7 +30,10 @@ Denne forskrifta har til formål å førebyggje at sportsdykking fører til hels
 
 ### § 2. Verkeområde
 
-Forskrifta omfattar:Sportsdykkarutstyr som ikkje er personleg verneutstyr.Opplæring av sportsdykkarar.
+Forskrifta omfattar:
+
+1. Sportsdykkarutstyr som ikkje er personleg verneutstyr.
+2. Opplæring av sportsdykkarar.
 
 Forskrifta rettar seg mot produsentar, importørar, distributørar, detaljistar og andre som har med omsetning eller bruk av sportsdykkarutstyr å gjere.
 
@@ -130,9 +133,19 @@ Den totale tida i vatnet, for alle dykka til saman, skal minst vere 90 minutt. K
 
 Berre luft skal brukast som pustegass. Nitrox eller andre gassblandingar skal ikkje nyttast.
 
-Kandidaten skal ha kunnskap om og demonstrere forståing for:kva funksjon utstyret har, og korleis det skal haldast ved likegrunnleggjande dykkefysikk: lyd, lys, oppdrift, trykk/gasslover og temperaturgrunnleggjande dykkemedisinulike faremoment, særleg ved vrakdykking og ved å dykke for djuptver, vind og straumtilhøve.
+Kandidaten skal ha kunnskap om og demonstrere forståing for:
 
-Kandidaten skal ha kunnskap om og i påsyn av kvalifisert personell utvise nødvendig dugleik i praktisk sjødykking, medrekna:meistring av stressituasjonar, så som ulike løysingar av ein tom-for-luft situasjon, tap av maske i kaldt vatn, og gjenfinning og tømming av pusteventiloppdriftskontroll på ulike djuporientering ved bruk av kompass.
+- kva funksjon utstyret har, og korleis det skal haldast ved like
+- grunnleggjande dykkefysikk: lyd, lys, oppdrift, trykk/gasslover og temperatur
+- grunnleggjande dykkemedisin
+- ulike faremoment, særleg ved vrakdykking og ved å dykke for djupt
+- ver, vind og straumtilhøve.
+
+Kandidaten skal ha kunnskap om og i påsyn av kvalifisert personell utvise nødvendig dugleik i praktisk sjødykking, medrekna:
+
+- meistring av stressituasjonar, så som ulike løysingar av ein tom-for-luft situasjon, tap av maske i kaldt vatn, og gjenfinning og tømming av pusteventil
+- oppdriftskontroll på ulike djup
+- orientering ved bruk av kompass.
 
 Når tilhøva krev det, skal ein gi ein introduksjon til mørkedykking. Denne treninga skal det leggjast vekt på når det kan ventast at kandidaten vil praktisere slik dykking.
 

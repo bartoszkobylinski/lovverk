@@ -36,7 +36,11 @@ Pilotprosjektet skal etableres i utvalgte fylker over hele landet. Arbeids- og v
 
 ## § 4. Deltakere
 
-Pilotprosjektet omfatteralle personer som innvilges varig tilrettelagt arbeid i ordinære virksomheter etter [tiltaksforskriftens kapittel 14](forskrift/2015-12-11-1598/kap14) i fylkene som deltar i pilotprosjektet,ordinære virksomheter som gir varig tilrettelagt arbeid til deltakere nevnt i bokstav a, ogNAV-kontor som gir oppfølging til personer nevnt i bokstav a og til ordinære virksomheter nevnt i bokstav b.
+Pilotprosjektet omfatter
+
+1. alle personer som innvilges varig tilrettelagt arbeid i ordinære virksomheter etter [tiltaksforskriftens kapittel 14](forskrift/2015-12-11-1598/kap14) i fylkene som deltar i pilotprosjektet,
+2. ordinære virksomheter som gir varig tilrettelagt arbeid til deltakere nevnt i bokstav a, og
+3. NAV-kontor som gir oppfølging til personer nevnt i bokstav a og til ordinære virksomheter nevnt i bokstav b.
 
 ## § 5. Innhold
 

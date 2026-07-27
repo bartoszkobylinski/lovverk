@@ -88,7 +88,11 @@ Alle vedtak om opptak av studenter foretas av opptakskomité utnevnt av studiead
 
 (4) Realkompetansevurderingen gjøres av opptakskomiteen.
 
-(5) Aktuell praksis og/eller relevant utdanning for realkompetansevurdering:Fotokunst arbeidspraksis og/eller annen relevant praksis som for eksempel: Egen fotografisk næring, foto kunstprosjekter, eiendomsfoto, pressefoto arbeid i avis eller militæret, avansert amatørfotograf, foto klubbaktivitet.Kurs og workshop fra hele eller deler av fagfeltetLinjer/fag fra Videregående skole – Folkehøgskoler, Fagskoler, og andre norske eller utenlandske utdanninger med relevante fag
+(5) Aktuell praksis og/eller relevant utdanning for realkompetansevurdering:
+
+1. Fotokunst arbeidspraksis og/eller annen relevant praksis som for eksempel: Egen fotografisk næring, foto kunstprosjekter, eiendomsfoto, pressefoto arbeid i avis eller militæret, avansert amatørfotograf, foto klubbaktivitet.
+2. Kurs og workshop fra hele eller deler av fagfeltet
+3. Linjer/fag fra Videregående skole – Folkehøgskoler, Fagskoler, og andre norske eller utenlandske utdanninger med relevante fag
 
 ### § 2-4. Unntak
 
@@ -116,7 +120,12 @@ Norsk Fotofagskole kan ta inn et begrenset antall søkere mellom 19 og 23 år ut
 
 (1) Norsk Fotofagskole kan godskrive beståtte emner fra annen godkjent fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige krav for emnet eller emnene det søkes innpassing for.
 
-(2) Godskriving kan bare skje mellom fagskoleutdanninger på samme eller nært beslektet fagområde. Det skal ikke gis dobbel uttelling for samme faginnhold. Søkere med beståtte relevante/tilsvarende emner fra andre typer utdanning eller realkompetanse kan søke fritak for deler av studiet. Annen relevant utdanning/kompetanse er for eksempel utenlandsk utdanning, folkehøgskole, voksenopplæring, eller høyere utdanning på samme eller beslektet fagområde. Søknaden må inneholde dokumentasjon og søkers begrunnelse. Eksempler på dokumentasjon:Vitnemål – Kursbevis – AttesterPortfolio/arbeidsmappeEventuell studieplanRealkompetanse.
+(2) Godskriving kan bare skje mellom fagskoleutdanninger på samme eller nært beslektet fagområde. Det skal ikke gis dobbel uttelling for samme faginnhold. Søkere med beståtte relevante/tilsvarende emner fra andre typer utdanning eller realkompetanse kan søke fritak for deler av studiet. Annen relevant utdanning/kompetanse er for eksempel utenlandsk utdanning, folkehøgskole, voksenopplæring, eller høyere utdanning på samme eller beslektet fagområde. Søknaden må inneholde dokumentasjon og søkers begrunnelse. Eksempler på dokumentasjon:
+
+- Vitnemål – Kursbevis – Attester
+- Portfolio/arbeidsmappe
+- Eventuell studieplan
+- Realkompetanse.
 
 (3) Utgangspunktet for vurdering om godskriving eller fritak skal være læringsutbyttebeskrivelsene for den aktuell utdanningen eller det aktuelle emnet og fagskolepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes om innpassing eller fritak for.
 
@@ -158,7 +167,11 @@ Vedtak om godskriving og fritak er enkeltvedtak og kan påklages til den lokale 
 
 (3) Bestått emne gir studiepoeng i henhold til gjeldende studieplan.
 
-(4) Skolen dokumenterer fullført og bestått fagskoleutdanning med vitnemål.Utstedelse av vitnemål forutsetter at studieavgiften er betalt i sin helhet.Skolen utsteder kun ett vitnemål til hver student.En avgift vil påløpe ved bestilling av nytt vitnemål (duplikat).
+(4) Skolen dokumenterer fullført og bestått fagskoleutdanning med vitnemål.
+
+1. Utstedelse av vitnemål forutsetter at studieavgiften er betalt i sin helhet.
+2. Skolen utsteder kun ett vitnemål til hver student.
+3. En avgift vil påløpe ved bestilling av nytt vitnemål (duplikat).
 
 (5) Dersom kun deler av utdanningen er fullført har student rett til å få karakterutskrift.
 
@@ -166,11 +179,22 @@ Vedtak om godskriving og fritak er enkeltvedtak og kan påklages til den lokale 
 
 (7) Eksamenskarakterene vil normalt bli offentliggjort elektronisk på læringsplattformen innen tre uker etter avholdt eksamen.
 
-(8) Norsk Fotofagskole har fastsatt følgende generelle beskrivelser for lovens graderte karakterskala:*A Fremragende.* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.*B Meget god.* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.*C God.* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.*D Nokså god.* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.*E Tilstrekkelig.* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.*F Ikke bestått.* Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(8) Norsk Fotofagskole har fastsatt følgende generelle beskrivelser for lovens graderte karakterskala:
+
+1. *A Fremragende.* Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.
+2. *B Meget god.* Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.
+3. *C God.* Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.
+4. *D Nokså god.* En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.
+5. *E Tilstrekkelig.* Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.
+6. *F Ikke bestått.* Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
 
 ### § 4-3. Vilkår for å avlegge eksamen
 
-Studenten har rett til å avlegge avsluttende eksamen når han/hun har:Akseptert studiekontrakten og kjøpsbetingelser ved å akseptere tilbud om studieplassBetalt forfalt registreringsavgift og forfalte skolepengerBestått alle obligatoriske arbeidskrav slik de er beskrevet i studieplanen og/eller emnebeskrivelsen senest 14 dager før eksamen.
+Studenten har rett til å avlegge avsluttende eksamen når han/hun har:
+
+1. Akseptert studiekontrakten og kjøpsbetingelser ved å akseptere tilbud om studieplass
+2. Betalt forfalt registreringsavgift og forfalte skolepenger
+3. Bestått alle obligatoriske arbeidskrav slik de er beskrevet i studieplanen og/eller emnebeskrivelsen senest 14 dager før eksamen.
 
 ### § 4-4. Informasjon om eksamen og oppmelding til eksamen
 

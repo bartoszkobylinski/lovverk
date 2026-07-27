@@ -34,7 +34,10 @@ Utsatte barn og unge og deres familie som er, har vært eller kan komme i kontak
 
 Prosjekter som får tilskudd, skal støtte opp under målet med tilskuddsordningen.
 
-Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet nås:Det er utviklet og utprøvd nye tiltak og innsatser for bedre dialog og samhandling mellom ulike tjenester og aktører på barnevernsfeltet.Relevante aktører har fått tilgang til ny kunnskap og informasjon eller systematiserte erfaringer.
+Følgende kriterier for måloppnåelse er sentrale med tanke på å vurdere om målet nås:
+
+- Det er utviklet og utprøvd nye tiltak og innsatser for bedre dialog og samhandling mellom ulike tjenester og aktører på barnevernsfeltet.
+- Relevante aktører har fått tilgang til ny kunnskap og informasjon eller systematiserte erfaringer.
 
 Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -48,11 +51,29 @@ Det kan søkes om prosjekttilskudd til tidsavgrensede satsinger og tiltak med st
 
 Det kan søkes om tilskudd for inntil tre år. Midlene utbetales for ett år av gangen, med forbehold om Stortingets årlige budsjettvedtak. For søknader som innvilges tilskudd for flere år er det ikke nødvendig å søke om midler hvert år.
 
-Størrelsen på tilskuddene blir fastsatt etter en helhetlig og skjønnsmessig vurdering av:Stortingets budsjettvedtak,de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte prosjektet,prosjektets mulighet til å oppnå målet med ordningen, se [§ 1](forskrift/2022-11-22-2034/§1) og [§ 3](forskrift/2022-11-22-2034/§3),målgruppe og nedslagsfelt,prosjektets størrelse og varighet, ogegenfinansiering, det vil si økonomiske midler som søker stiller til disposisjon for prosjektet.
+Størrelsen på tilskuddene blir fastsatt etter en helhetlig og skjønnsmessig vurdering av:
 
-Prosjekter som retter seg mot følgende vil bli prioritert:Brukermedvirkning, med prioritet for barn med erfaring fra barnevern.Dialogarbeid mellom barnevernet og minoritetsbefolkningen, herunder urbefolkning og nasjonale minoriteter.Legge til rette for involvering av utsatte barns slekt og nettverk.
+1. Stortingets budsjettvedtak,
+2. de søknader som er innkommet for tilskuddsåret,
+3. prosjektbeskrivelse og budsjett,
+4. kvaliteten på det planlagte prosjektet,
+5. prosjektets mulighet til å oppnå målet med ordningen, se [§ 1](forskrift/2022-11-22-2034/§1) og [§ 3](forskrift/2022-11-22-2034/§3),
+6. målgruppe og nedslagsfelt,
+7. prosjektets størrelse og varighet, og
+8. egenfinansiering, det vil si økonomiske midler som søker stiller til disposisjon for prosjektet.
 
-Tilskudd prioriteres ikke tilforskningsoppdrag, utredninger og lignendedriftsoppgaver som inngår som en del av søkers kjernevirksomhetlokale aktiviteter som har karakter av hjelpetiltak for enkeltpersonerregelmessige aktiviteter og prosjekter som innebærer generelt faglig samarbeid uten konkrete utviklingsmål.
+Prosjekter som retter seg mot følgende vil bli prioritert:
+
+- Brukermedvirkning, med prioritet for barn med erfaring fra barnevern.
+- Dialogarbeid mellom barnevernet og minoritetsbefolkningen, herunder urbefolkning og nasjonale minoriteter.
+- Legge til rette for involvering av utsatte barns slekt og nettverk.
+
+Tilskudd prioriteres ikke til
+
+- forskningsoppdrag, utredninger og lignende
+- driftsoppgaver som inngår som en del av søkers kjernevirksomhet
+- lokale aktiviteter som har karakter av hjelpetiltak for enkeltpersoner
+- regelmessige aktiviteter og prosjekter som innebærer generelt faglig samarbeid uten konkrete utviklingsmål.
 
 ## § 6. Bruk av tilskuddet
 
@@ -96,7 +117,16 @@ Bufdir og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter for
 
 ## § 11. Sanksjoner ved brudd på forskriften
 
-Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker midlene i samsvar med vilkårene som står i forskriften og tilskuddsbrevet,mottakeren ikke bruker opp hele tilskuddet,mottakeren ikke gjennomfører prosjektet,mottakeren ikke sender inn rapport og regnskap innen fristen,rapport og regnskap ikke blir godkjent av Bufdir, ellerBufdir ved en feil utbetaler for høyt tilskudd.
+Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:
+
+- mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+- mottakeren ikke bruker midlene i samsvar med vilkårene som står i forskriften og tilskuddsbrevet,
+- mottakeren ikke bruker opp hele tilskuddet,
+- mottakeren ikke gjennomfører prosjektet,
+- mottakeren ikke sender inn rapport og regnskap innen fristen,
+- rapport og regnskap ikke blir godkjent av Bufdir, eller
+- Bufdir ved en feil utbetaler for høyt tilskudd.
 
 En tilskuddsmottaker som har brutt forskriften, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved denne vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
 

@@ -40,7 +40,18 @@ Som distributør av ein film eller eit videogram reknast i denne forskrifta den 
 
 ### § 2-1. Unntak frå krav om løyve
 
-Det krevst ikkje kommunalt løyve for:framsyning av film eller videogram der det ikkje krevst særskild betaling for framsyninga,framsyning eller omsetning av film eller videogram i hotellrom,omsetning av videogram som berre inneheldopptak frå offentlege arrangement, framsyningar eller tilstellingar,musikk- eller idrettsstoff,dokumentar-, aktualitets- eller nyhendestoff,forskings- eller hobbystoff,opplysnings- eller undervisningsstoff til bruk i undervisninga ved skolar, universitet og høgskolar og ved vaksenopplæring i organisasjonar og institusjonar som er godkjende etter [lov 28. mai 1976 nr. 35](lov/1976-05-28-35) om voksenopplæring,informasjon om, og reklame for, varer og tenester.
+Det krevst ikkje kommunalt løyve for:
+
+1. framsyning av film eller videogram der det ikkje krevst særskild betaling for framsyninga,
+2. framsyning eller omsetning av film eller videogram i hotellrom,
+3. omsetning av videogram som berre inneheld
+
+   - opptak frå offentlege arrangement, framsyningar eller tilstellingar,
+   - musikk- eller idrettsstoff,
+   - dokumentar-, aktualitets- eller nyhendestoff,
+   - forskings- eller hobbystoff,
+   - opplysnings- eller undervisningsstoff til bruk i undervisninga ved skolar, universitet og høgskolar og ved vaksenopplæring i organisasjonar og institusjonar som er godkjende etter [lov 28. mai 1976 nr. 35](lov/1976-05-28-35) om voksenopplæring,
+   - informasjon om, og reklame for, varer og tenester.
 
 > Endra ved [forskrift 8 feb 2008 nr. 115](forskrift/2008-02-08-115) (tidlegare § 2-2).
 

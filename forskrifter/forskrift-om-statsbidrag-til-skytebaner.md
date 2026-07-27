@@ -24,8 +24,18 @@ eu_basis: []
 
 ## I. Betingelser for å kunne oppnå bidrag.
 
-1. Til kjøp eller leie av grunn til skytebane, samt til anlegg og ombygging av skytebane (unntatt skytterhus), kan det ytes statsbidrag med inntil halvparten av de påløpne utgifter.Den del av omkostningene som ikke dekkes av statsbidraget, skal på forhånd være skaffet til veie av kommunen eller vedkommende skytterlag.Skytterlaget plikter å vedlikeholde banen.Skytterlag bør om mulig sikre at Forsvaret kan bruke baneanlegget mot en rimelig godtgjørelse eller mot at Forsvaret bærer sin forholdsmessige del av vedlikeholdsutgiftene eller utfører tilsvarende arbeider.Det er et vilkår for ytelse av statsbidrag at skytterlaget er tilsluttet Det frivillige skyttervesen, at det er i virksomhet og i sin siste årsberetning har oppført minst 20 aktive skyttere.
-2. Valg av baneområde og kjøp eller leie av grunn, samt byggearbeidets planlegging foretas av et utvalg som består av like mange medlemmer, valgt av skytterlaget og kommunestyret. Antall medlemmer bestemmes av kommunestyret.Utvalgets beslutninger forelegges, sammen med en erklæring fra kommunestyret, for Justisdepartementet som sikkerhetsmessig skal godkjenne planene for anlegget.
+1. Til kjøp eller leie av grunn til skytebane, samt til anlegg og ombygging av skytebane (unntatt skytterhus), kan det ytes statsbidrag med inntil halvparten av de påløpne utgifter.
+
+   Den del av omkostningene som ikke dekkes av statsbidraget, skal på forhånd være skaffet til veie av kommunen eller vedkommende skytterlag.
+
+   Skytterlaget plikter å vedlikeholde banen.
+
+   Skytterlag bør om mulig sikre at Forsvaret kan bruke baneanlegget mot en rimelig godtgjørelse eller mot at Forsvaret bærer sin forholdsmessige del av vedlikeholdsutgiftene eller utfører tilsvarende arbeider.
+
+   Det er et vilkår for ytelse av statsbidrag at skytterlaget er tilsluttet Det frivillige skyttervesen, at det er i virksomhet og i sin siste årsberetning har oppført minst 20 aktive skyttere.
+2. Valg av baneområde og kjøp eller leie av grunn, samt byggearbeidets planlegging foretas av et utvalg som består av like mange medlemmer, valgt av skytterlaget og kommunestyret. Antall medlemmer bestemmes av kommunestyret.
+
+   Utvalgets beslutninger forelegges, sammen med en erklæring fra kommunestyret, for Justisdepartementet som sikkerhetsmessig skal godkjenne planene for anlegget.
 
 ## II. Grunnlag for bidrag.
 
@@ -37,16 +47,26 @@ eu_basis: []
 
 ## III. Fremgangsmåten ved søknad om bidrag og utbetaling av dette.
 
-1. Bidrag som nevnt under II a) og b) fastsettes av Skytterstyret etter søknad fra de respektive lag. Bidragets størrelse reguleres etter antall skiver lagene er berettiget til etter de regler som til enhver tid gjelder innen Det frivillige skyttervesen. Dog kan Skytterstyret unntaksvis fravike disse normer når hensynet til skyttersakens trivsel og veksten i et distrikt tilsier at større støtte bør ytes.Søknader sendes skytterkontoret gjennom vedkommende skyttersamlag, som skal uttale seg om prosjektet sett på bakgrunn av samlagets behov og planer for baneanlegg i samlagsområdet. Søkanden skal være vedlagt baneutvalgets innstilling med kommunestyrets uttalelse, dokumenter vedkommende eie eller leie av banegrunn, bekreftelse fra politimesteren om at han finner å kunne godkjenne prosjektet sikkerhetsmessig, samt kart i målestokk 1 : 50.000 (eller større) med baneprosjektet inntegnet.
+1. Bidrag som nevnt under II a) og b) fastsettes av Skytterstyret etter søknad fra de respektive lag. Bidragets størrelse reguleres etter antall skiver lagene er berettiget til etter de regler som til enhver tid gjelder innen Det frivillige skyttervesen. Dog kan Skytterstyret unntaksvis fravike disse normer når hensynet til skyttersakens trivsel og veksten i et distrikt tilsier at større støtte bør ytes.
+
+   Søknader sendes skytterkontoret gjennom vedkommende skyttersamlag, som skal uttale seg om prosjektet sett på bakgrunn av samlagets behov og planer for baneanlegg i samlagsområdet. Søkanden skal være vedlagt baneutvalgets innstilling med kommunestyrets uttalelse, dokumenter vedkommende eie eller leie av banegrunn, bekreftelse fra politimesteren om at han finner å kunne godkjenne prosjektet sikkerhetsmessig, samt kart i målestokk 1 : 50.000 (eller større) med baneprosjektet inntegnet.
 2. Skytterstyret kan i særlige tilfelle forskuttere bidraget etter skriftlig henvendelse fra samlagsformannen. Med henvendelsen skal følge erklæring fra politimesteren om at baneprosjektet er sikkerhetsmessig godkjent av ham. Bidrag som forskutteres til materialkjøp, må bare utbetales mot kvittert regning fra firmaet hvor materialene er kjøpt. Før det samlede bidrag utbetales, skal det normalt foreligge tinglyste dokumenter vedkommende eie eller leie av banegrunnen.
 3. Bidrag som nevnt under II c) utbetales av Skytterkontoret mot faktura eller kvittert regning fra produsenten.
 4. Bidrag som nevnt under II d) utbetales av Skytterkontoret når endelig skjønn er avholdt. Bekreftet utskrift av skjønnet må tilstilles kontoret før utbetaling kan skje.
 
 ## IV. Sikkerhet og kontroll.
 
-1. For at statsbidrag skal kunne ytes må banen fylle de krav til ytre og indre sikkerhet som til enhver tid gjelder for sivile skytebaner og for øvrig være i overensstemmelse med de retningslinjer for banebygging som gis av Det frivillige skyttervesen.Regler for sikkerhetsmessig kontroll med og godkjenning av sivile skytebaner fastsettes av Justisdepartementet, jfr. § 28 i våpenloven av 9. juni 1961 og kgl.res. av 25. januar 1963, II, punkt 13.Skytterstyret skal påse at sikkerhetsbestemmelsene er kjent og overholdes av de enkelte skytterlag.
-2. Hvert skytterlag som disponerer bane skal utarbeide instruks for bruk av banen, hvor blant annet de sikkerhetsmessige tiltak skal være klart angitt.Skytterlagets formann er ansvarlig for at denne instruks er kjent av alle som benytter banen.
-3. Skytterkontoret ved generalsekretæren er sakkyndig instans i skytebanespørsmål innen Det frivillige skyttervesen og bistår Justisdepartementet i tekniske spørsmål om skytebaneforhold.Er Justisdepartementet, etter å ha innhentet uttalelse fra Skytterkontoret, i tvil med hensyn til vurderingen av en skytebanes ytre eller indre sikkerhet, kan skyteteknisk sakkyndige tilkalles gjennom Forsvarsdepartementet.
+1. For at statsbidrag skal kunne ytes må banen fylle de krav til ytre og indre sikkerhet som til enhver tid gjelder for sivile skytebaner og for øvrig være i overensstemmelse med de retningslinjer for banebygging som gis av Det frivillige skyttervesen.
+
+   Regler for sikkerhetsmessig kontroll med og godkjenning av sivile skytebaner fastsettes av Justisdepartementet, jfr. § 28 i våpenloven av 9. juni 1961 og kgl.res. av 25. januar 1963, II, punkt 13.
+
+   Skytterstyret skal påse at sikkerhetsbestemmelsene er kjent og overholdes av de enkelte skytterlag.
+2. Hvert skytterlag som disponerer bane skal utarbeide instruks for bruk av banen, hvor blant annet de sikkerhetsmessige tiltak skal være klart angitt.
+
+   Skytterlagets formann er ansvarlig for at denne instruks er kjent av alle som benytter banen.
+3. Skytterkontoret ved generalsekretæren er sakkyndig instans i skytebanespørsmål innen Det frivillige skyttervesen og bistår Justisdepartementet i tekniske spørsmål om skytebaneforhold.
+
+   Er Justisdepartementet, etter å ha innhentet uttalelse fra Skytterkontoret, i tvil med hensyn til vurderingen av en skytebanes ytre eller indre sikkerhet, kan skyteteknisk sakkyndige tilkalles gjennom Forsvarsdepartementet.
 
 ## V. Ikrafttreden.
 

@@ -30,7 +30,11 @@ Forskriften gjelder folkebibliotek i kommunen og fylkeskommunen jf. [lov 20. des
 
 Biblioteksjefen er den faglige og administrative leder for kommunens samlede folkebibliotekvirksomhet. Når stillingen som biblioteksjef i kommunen lyses ut skal det stilles krav om fagutdanning.
 
-Fagutdannet biblioteksjef i kommunen og bibliotekfaglig leder i fylkeskommunen skal ha en av følgende utdanninger:bachelor- eller høyere grad med minst 120 studiepoeng i bibliotekspesifikke fagbachelor- eller høyere grad med minst 60 studiepoeng i bibliotekspesifikk påbygningtilsvarende utdanning.
+Fagutdannet biblioteksjef i kommunen og bibliotekfaglig leder i fylkeskommunen skal ha en av følgende utdanninger:
+
+1. bachelor- eller høyere grad med minst 120 studiepoeng i bibliotekspesifikke fag
+2. bachelor- eller høyere grad med minst 60 studiepoeng i bibliotekspesifikk påbygning
+3. tilsvarende utdanning.
 
 ## § 3. Unntak fra kravet om fagutdannet biblioteksjef i kommuner
 

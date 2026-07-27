@@ -15,7 +15,7 @@ xml_hash: "ead7baa901a8972f84f50bd5c384452092334d56450f04476411e26c269ac523"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,18 @@ eu_basis: []
 
 Loven gjelder adgangen til å føre regnskap i næring for andre.
 
-Loven gjelder også når:et regnskapsforetak i tilknytning til et regnskapsoppdrag har adgang til å belaste oppdragsgivers bankkonto med utbetalinger,et regnskapsforetak i tilknytning til et regnskapsoppdrag oppbevarer oppdragsgivers midler på regnskapsforetakets konto (klientkonto),et regnskapsforetak utfører bokføring eller utarbeider årsregnskap for en oppdragsgiver som ikke har plikter som nevnt i [§ 1-2 første ledd](lov/2022-12-16-90/§1-2/ledd/1),et regnskapsforetak utarbeider regnskapsrapportering som er unntatt som pliktig regnskapsrapportering i medhold av [bokføringsloven § 3](lov/2004-11-19-73/§3), oget regnskapsforetak eller en statsautorisert regnskapsfører avgir en bekreftelse i henhold til lov, forskrift eller krav fra offentlig myndighet.
+Loven gjelder også når:
 
-Loven gjelder ikkeregnskapsføring for et annet foretak i samme konsern eller en gruppe av foretak hvor eierforholdene er av vesentlig samme karakter som i et konsernregnskapsføring for annen virksomhet i en gruppe av samarbeidende virksomheter hvor felles regnskapsføring er en mindre del av et samarbeid for å ivareta andre interesser for deltakerne.
+1. et regnskapsforetak i tilknytning til et regnskapsoppdrag har adgang til å belaste oppdragsgivers bankkonto med utbetalinger,
+2. et regnskapsforetak i tilknytning til et regnskapsoppdrag oppbevarer oppdragsgivers midler på regnskapsforetakets konto (klientkonto),
+3. et regnskapsforetak utfører bokføring eller utarbeider årsregnskap for en oppdragsgiver som ikke har plikter som nevnt i [§ 1-2 første ledd](lov/2022-12-16-90/§1-2/ledd/1),
+4. et regnskapsforetak utarbeider regnskapsrapportering som er unntatt som pliktig regnskapsrapportering i medhold av [bokføringsloven § 3](lov/2004-11-19-73/§3), og
+5. et regnskapsforetak eller en statsautorisert regnskapsfører avgir en bekreftelse i henhold til lov, forskrift eller krav fra offentlig myndighet.
+
+Loven gjelder ikke
+
+1. regnskapsføring for et annet foretak i samme konsern eller en gruppe av foretak hvor eierforholdene er av vesentlig samme karakter som i et konsern
+2. regnskapsføring for annen virksomhet i en gruppe av samarbeidende virksomheter hvor felles regnskapsføring er en mindre del av et samarbeid for å ivareta andre interesser for deltakerne.
 
 Departementet kan i forskrift gi regler om gjennomføring, utfylling og avgrensning av loven. Finanstilsynet kan i forskrift eller ved enkeltvedtak fastsette unntak fra loven. Finanstilsynet kan i tvilstilfeller bestemme om loven skal gjelde.
 
@@ -46,7 +55,10 @@ Med «regnskapsoppdrag» menes oppdrag om regnskapsføring.
 
 Med «regnskapsfører» menes regnskapsforetaket som har påtatt seg et regnskapsoppdrag, og den regnskapsføreren som er utpekt som ansvarlig for oppdraget.
 
-Med «regnskapsforetak» menesgodkjent regnskapsselskap, jf. [§ 2-2](lov/2022-12-16-90/§2-2)statsautorisert regnskapsfører, jf. [§ 2-3](lov/2022-12-16-90/§2-3), som påtar seg regnskapsoppdrag i eget navn og har registrert enkeltpersonforetaket i Foretaksregisteret.
+Med «regnskapsforetak» menes
+
+1. godkjent regnskapsselskap, jf. [§ 2-2](lov/2022-12-16-90/§2-2)
+2. statsautorisert regnskapsfører, jf. [§ 2-3](lov/2022-12-16-90/§2-3), som påtar seg regnskapsoppdrag i eget navn og har registrert enkeltpersonforetaket i Foretaksregisteret.
 
 ## Kapittel 2 Godkjenning mv.
 
@@ -56,7 +68,11 @@ Regnskapsføring i næring for andre kan bare utføres av regnskapsforetak.
 
 ### § 2-2. Regnskapsselskap
 
-Finanstilsynet gir godkjenning som regnskapsselskap til selskap eller annen juridisk personsom har som formål å føre regnskap for andresom er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller, oghvor styremedlemmer, eiere og de som står for den daglige ledelsen, oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) om å være skikket.
+Finanstilsynet gir godkjenning som regnskapsselskap til selskap eller annen juridisk person
+
+1. som har som formål å føre regnskap for andre
+2. som er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller, og
+3. hvor styremedlemmer, eiere og de som står for den daglige ledelsen, oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) om å være skikket.
 
 Eiere som nevnt i første ledd bokstav c omfatter eiere eller deltakere som direkte eier eller representerer 10 prosent eller mer av kapitalen eller eierandelene i et autorisert regnskapsselskap.
 
@@ -80,9 +96,17 @@ Finanstilsynet skal gi godkjenningen som statsautorisert regnskapsfører tilbake
 
 Finanstilsynet fører et offentlig register over statsautoriserte regnskapsførere og regnskapsforetak.
 
-Registeret skal inneholde følgende opplysninger om statsautoriserte regnskapsførerenavn og adressefødselsnummerdato for godkjenning.
+Registeret skal inneholde følgende opplysninger om statsautoriserte regnskapsførere
 
-Registeret skal inneholde følgende opplysninger om regnskapsforetaknavn og forretningsadresseorganisasjonsnummerdato for godkjenning som regnskapsselskap.
+1. navn og adresse
+2. fødselsnummer
+3. dato for godkjenning.
+
+Registeret skal inneholde følgende opplysninger om regnskapsforetak
+
+1. navn og forretningsadresse
+2. organisasjonsnummer
+3. dato for godkjenning som regnskapsselskap.
 
 Fødselsnummer skal ikke være offentlig.
 
@@ -120,15 +144,27 @@ Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkj
 
 ### § 3-3. Vilkår om å være skikket
 
-Godkjenning som statsautorisert regnskapsfører skal ikke gis til personer somikke er myndigeikke er i stand til å oppfylle sine forpliktelser etter hvert som de forfallerer dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måtehar utvist en atferd som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte.
+Godkjenning som statsautorisert regnskapsfører skal ikke gis til personer som
 
-Ved vurderingen etter første ledd bokstav d skal det særlig tas hensyn til om atferden harmedført tilbakekall av en offentlig godkjenning eller tilsynsmessige sanksjonerbestått i regelbrudd som er konstatert ved forvaltningsvedtak eller rettsavgjørelsegitt grunnlag for at vedkommende er ilagt konkurskarantene eller annet virksomhetsforbud.
+1. ikke er myndige
+2. ikke er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller
+3. er dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte
+4. har utvist en atferd som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte.
+
+Ved vurderingen etter første ledd bokstav d skal det særlig tas hensyn til om atferden har
+
+1. medført tilbakekall av en offentlig godkjenning eller tilsynsmessige sanksjoner
+2. bestått i regelbrudd som er konstatert ved forvaltningsvedtak eller rettsavgjørelse
+3. gitt grunnlag for at vedkommende er ilagt konkurskarantene eller annet virksomhetsforbud.
 
 Søkeren skal legge frem ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40).
 
 ### § 3-4. Etterutdanning
 
-En statsautorisert regnskapsfører skal gjennomføre minst 80 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Som relevant etterutdanning regnesstrukturert opplæring og undervisning innenfor fagkretsen for utdanning som nevnt i [§ 3-1](lov/2022-12-16-90/§3-1) første leddutarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet innenfor den samme fagkretsen med inntil 20 timer.
+En statsautorisert regnskapsfører skal gjennomføre minst 80 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Som relevant etterutdanning regnes
+
+1. strukturert opplæring og undervisning innenfor fagkretsen for utdanning som nevnt i [§ 3-1](lov/2022-12-16-90/§3-1) første ledd
+2. utarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet innenfor den samme fagkretsen med inntil 20 timer.
 
 Etterutdanningen må omfatte tilstrekkelig opplæring innenfor fagemnene finansregnskap, skatte- og avgiftsrett, foretaksrett og regnskapsføring.
 
@@ -156,7 +192,13 @@ En statsautorisert regnskapsfører skal ha ansvar for kvalitetsstyringen.
 
 Et regnskapsforetak plikter å hindre at uvedkommende får adgang eller kjennskap til opplysninger som mottas i forbindelse med foretakets virksomhet, med mindre regnskapsfører i medhold av lov er gitt plikt eller adgang til å gi taushetsbelagte opplysninger.
 
-En regnskapsfører kan uten hinder av taushetspliktgi opplysninger og adgang til dokumentasjon etter samtykke fra den som opplysningene gjeldergi opplysninger og dokumentasjon til ny regnskapsfører når denne regnskapsføreren ber om dette og dette har betydning for regnskapsoppdragetgi opplysninger og adgang til dokumentasjon til en statsautorisert regnskapsfører som foretar kontroll av regnskapsførers oppdragunderrette politiet om forhold som gir grunn til mistanke om straffbar handlingavgi forklaring og fremlegge dokumentasjon vedrørende regnskapsføreroppdrag eller andre tjenester for en domstol eller for politiet når det er åpnet etterforskning i en straffesak.
+En regnskapsfører kan uten hinder av taushetsplikt
+
+1. gi opplysninger og adgang til dokumentasjon etter samtykke fra den som opplysningene gjelder
+2. gi opplysninger og dokumentasjon til ny regnskapsfører når denne regnskapsføreren ber om dette og dette har betydning for regnskapsoppdraget
+3. gi opplysninger og adgang til dokumentasjon til en statsautorisert regnskapsfører som foretar kontroll av regnskapsførers oppdrag
+4. underrette politiet om forhold som gir grunn til mistanke om straffbar handling
+5. avgi forklaring og fremlegge dokumentasjon vedrørende regnskapsføreroppdrag eller andre tjenester for en domstol eller for politiet når det er åpnet etterforskning i en straffesak.
 
 Også den som foretar kontrollen etter annet ledd bokstav c, har taushetsplikt etter første ledd. Taushetsplikten etter første ledd og unntakene etter annet ledd bokstav a til e gjelder tilsvarende for tillitsvalgte, ansatte og andre som deltar i utførelsen av regnskapsforetakets regnskapsoppdrag.
 
@@ -206,13 +248,19 @@ Departementet kan i forskrift fastsette nærmere regler om utføring av bekrefte
 
 ### § 6-1. Tilbakekall og suspensjon av godkjenning som statsautorisert regnskapsfører
 
-Finanstilsynet kan kalle tilbake godkjenningen hvis en statsautorisert regnskapsførerikke lenger oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) elleranses uskikket fordi vedkommende har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.
+Finanstilsynet kan kalle tilbake godkjenningen hvis en statsautorisert regnskapsfører
+
+1. ikke lenger oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) eller
+2. anses uskikket fordi vedkommende har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.
 
 Finanstilsynet kan suspendere godkjenningen hvis en statsautorisert regnskapsfører er siktet for et forhold som kan medføre tilbakekall av godkjenningen, inntil straffesaken er avsluttet.
 
 ### § 6-2. Tilbakekall og suspensjon av godkjenningen som regnskapsselskap
 
-Finanstilsynet kan kalle tilbake godkjenningen hvis et regnskapsselskapikke lenger oppfyller vilkårene i [§ 2-2](lov/2022-12-16-90/§2-2) elleranses uskikket fordi regnskapsselskapet har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.
+Finanstilsynet kan kalle tilbake godkjenningen hvis et regnskapsselskap
+
+1. ikke lenger oppfyller vilkårene i [§ 2-2](lov/2022-12-16-90/§2-2) eller
+2. anses uskikket fordi regnskapsselskapet har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.
 
 Finanstilsynet kan suspendere godkjenningen hvis et regnskapsselskap er siktet for et forhold som kan medføre tilbakekall, inntil straffesaken er avsluttet.
 
@@ -224,7 +272,14 @@ For juridiske personer kan det fastsettes overtredelsesgebyr på inntil 2 prosen
 
 ### § 6-4. Momenter ved vedtak om overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges, og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn tilovertredelsens grovhet og varighetgrad av skyldøkonomisk evnehvor stor vinning som er oppnådd, eller hvor stort tap som er unngått, ved overtredelseni hvilken grad overtrederen har samarbeidet med Finanstilsynettidligere overtredelser.
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges, og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. grad av skyld
+3. økonomisk evne
+4. hvor stor vinning som er oppnådd, eller hvor stort tap som er unngått, ved overtredelsen
+5. i hvilken grad overtrederen har samarbeidet med Finanstilsynet
+6. tidligere overtredelser.
 
 ### § 6-5. Foreldelse mv.
 

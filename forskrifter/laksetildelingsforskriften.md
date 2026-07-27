@@ -36,7 +36,23 @@ Forskriften gjelder tildeling, endring og opphør av tillatelse til akvakultur a
 
 ### § 1-3. Legaldefinisjoner
 
-I forskriften her menes med:*Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.*Akvakulturtillatelse:* tillatelse gitt i medhold av [akvakulturloven](lov/2005-06-17-79), som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang, på en eller flere bestemte lokaliteter. Tillatelsen består av tilsagn og vedtak om klarering av lokalitet.*Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kilogram eller tonn).*Lokalitet:* geografisk avgrenset område på land eller i vann som akvakulturtillatelse er gitt for eller søkt gitt for.*Matfisk:* fisk som produseres med sikte på slakting til konsum, og som ikke omfattes av bokstav f og g.*Settefisk:* rogn og fisk som produseres med sikte på flytting til andre lokaliteter eller annen type produksjon. Fisk som er planlagt flyttet i medhold av godkjent driftsplan etter [forskrift om drift av akvakulturanlegg § 40](forskrift/2008-06-17-822/§40) anses ikke som settefisk.*Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.*Rensefisk:* fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.*Tilsagn:* vedtak om tildeling av produksjonskapasitet til akvakultur.*Klarering av lokalitet:* vedtak om tillatelse til bruk av et geografisk område til akvakultur avsagt etter nødvendige tillatelser og godkjennelser og en helhetlig vurdering gjort av tildelingsmyndigheten.*Lokalitet til havs:* geografisk avgrenset område i sjø utenfor produksjonsområdene.*Utlysningsområder:* geografisk avgrensede områder som åpnes for konkurranse om tildeling av områdetilsagn for havbruk til havs.*Områdetilsagn:* vedtak om rett og plikt til å utarbeide områdeplan for et utlysningsområde.*Områdeplan:* plan for etablering, utbygging, drift og avvikling av havbruk til havs innenfor areal tildelt ved områdetilsagn, inkludert en konsekvensutredningsdel.*Prosjektspesifikk konsekvensutredning:* konsekvensutredning av etablering, utbygging, drift og avvikling i utlysningsområdet, inkludert de aktuelle lokalitetene til havs.
+I forskriften her menes med:
+
+1. *Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.
+2. *Akvakulturtillatelse:* tillatelse gitt i medhold av [akvakulturloven](lov/2005-06-17-79), som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang, på en eller flere bestemte lokaliteter. Tillatelsen består av tilsagn og vedtak om klarering av lokalitet.
+3. *Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kilogram eller tonn).
+4. *Lokalitet:* geografisk avgrenset område på land eller i vann som akvakulturtillatelse er gitt for eller søkt gitt for.
+5. *Matfisk:* fisk som produseres med sikte på slakting til konsum, og som ikke omfattes av bokstav f og g.
+6. *Settefisk:* rogn og fisk som produseres med sikte på flytting til andre lokaliteter eller annen type produksjon. Fisk som er planlagt flyttet i medhold av godkjent driftsplan etter [forskrift om drift av akvakulturanlegg § 40](forskrift/2008-06-17-822/§40) anses ikke som settefisk.
+7. *Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.
+8. *Rensefisk:* fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.
+9. *Tilsagn:* vedtak om tildeling av produksjonskapasitet til akvakultur.
+10. *Klarering av lokalitet:* vedtak om tillatelse til bruk av et geografisk område til akvakultur avsagt etter nødvendige tillatelser og godkjennelser og en helhetlig vurdering gjort av tildelingsmyndigheten.
+11. *Lokalitet til havs:* geografisk avgrenset område i sjø utenfor produksjonsområdene.
+12. *Utlysningsområder:* geografisk avgrensede områder som åpnes for konkurranse om tildeling av områdetilsagn for havbruk til havs.
+13. *Områdetilsagn:* vedtak om rett og plikt til å utarbeide områdeplan for et utlysningsområde.
+14. *Områdeplan:* plan for etablering, utbygging, drift og avvikling av havbruk til havs innenfor areal tildelt ved områdetilsagn, inkludert en konsekvensutredningsdel.
+15. *Prosjektspesifikk konsekvensutredning:* konsekvensutredning av etablering, utbygging, drift og avvikling i utlysningsområdet, inkludert de aktuelle lokalitetene til havs.
 
 > Endret ved forskrifter [2 feb 2024 nr. 163](forskrift/2024-02-02-163), [7 feb 2024 nr. 226](forskrift/2024-02-07-226), [14 jan 2026 nr. 58](forskrift/2026-01-14-58).
 
@@ -118,7 +134,15 @@ Et område som det er besluttet at skal utlyses etter [§ 4-2](forskrift/2022-11
 
 Departementet lyser ut områder som nevnt i [§ 4-4](forskrift/2022-11-07-1929/§4-4) i egen områdetildelingsforskrift.
 
-For deltakelse i konkurranse om tildeling av utlysningsområder vil det som minimum bli stilt krav om at aktøren har:kompetanse om biologi, særlig med vekt på fiskehelse, fiskevelferd og smittespredningteknisk og akvakulturfaglig kompetanse, med særlig vekt på planlegging og drift i åpne sjøområder og rømmingssikringkompetanse og kapasitet innen helse, miljø og sikkerhet for å ivareta arbeidsmiljø og et høyt nivå av sikkerhetkompetanse om risikostyring og tilstrekkelige styringssystemerkompetanse om havmiljø og miljøeffekter av industri til havsfinansiell styrkeerfaring med prosjektstyring fra større prosjekter som petroleum, havenergi, eksponert havbruk eller tilsvarende.
+For deltakelse i konkurranse om tildeling av utlysningsområder vil det som minimum bli stilt krav om at aktøren har:
+
+- kompetanse om biologi, særlig med vekt på fiskehelse, fiskevelferd og smittespredning
+- teknisk og akvakulturfaglig kompetanse, med særlig vekt på planlegging og drift i åpne sjøområder og rømmingssikring
+- kompetanse og kapasitet innen helse, miljø og sikkerhet for å ivareta arbeidsmiljø og et høyt nivå av sikkerhet
+- kompetanse om risikostyring og tilstrekkelige styringssystemer
+- kompetanse om havmiljø og miljøeffekter av industri til havs
+- finansiell styrke
+- erfaring med prosjektstyring fra større prosjekter som petroleum, havenergi, eksponert havbruk eller tilsvarende.
 
 Aktøren må legge en realistisk plan for hvilken kompetanse som er nødvendig i de ulike fasene av prosjektet.
 
@@ -186,7 +210,18 @@ Søknaden skal behandles av de relevante sektormyndighetene. Endelig vedtak fatt
 
 Fiskeridirektoratet kan gi tillatelse til akvakultur av matfisk til havs på en bestemt lokalitet.
 
-Tillatelse kan kun gis dersomtiltakshaver er gitt et områdetilsagn etter [§ 4-7](forskrift/2022-11-07-1929/§4-7),tiltakshaver har fått godkjent områdeplan etter [§ 4-8](forskrift/2022-11-07-1929/§4-8)det er miljømessig forsvarlig,det er foretatt en avveining av arealinteresser, ogdet er gitt tillatelser som kreves etter[Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv](lov/2003-12-19-124).,[Lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall (forurensningsloven)](lov/1981-03-13-6),[Lov 21. juni 2019 nr. 70 om havner og farvann (havne og farvannsloven)](lov/2019-06-21-70),[Lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97).
+Tillatelse kan kun gis dersom
+
+1. tiltakshaver er gitt et områdetilsagn etter [§ 4-7](forskrift/2022-11-07-1929/§4-7),
+2. tiltakshaver har fått godkjent områdeplan etter [§ 4-8](forskrift/2022-11-07-1929/§4-8)
+3. det er miljømessig forsvarlig,
+4. det er foretatt en avveining av arealinteresser, og
+5. det er gitt tillatelser som kreves etter
+
+   1. [Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv](lov/2003-12-19-124).,
+   2. [Lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall (forurensningsloven)](lov/1981-03-13-6),
+   3. [Lov 21. juni 2019 nr. 70 om havner og farvann (havne og farvannsloven)](lov/2019-06-21-70),
+   4. [Lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97).
 
 Det kan kun tildeles én tillatelse per lokalitet.
 
@@ -220,9 +255,17 @@ Endringer på akvakulturanlegget skal meldes til Fiskeridirektoratet.
 
 Ved større endringer på akvakulturanlegget, kan Fiskeridirektoratet kreve søknad om ny akvakulturtillatelse for matfisk a på lokaliteter til havs. I vurderingen av om endringene er søknadspliktig etter første punktum, skal det bl.a. legges vekt på om endringen kan ha slike virkninger for miljø, dyrevelferd og HMS, at vesentlige forutsetninger som ligger til grunn for tildelingsvedtaket etter [§ 4-11](forskrift/2022-11-07-1929/§4-11), er endret. Det skal særlig legges vekt på i hvilken utstrekning virkninger som nevnt i annet punktum er vurdert i den prosjektspesifikke konsekvensvurderingen etter [§ 4-9](forskrift/2022-11-07-1929/§4-9). Utskifting av hele anlegg med nytt regnes alltid som større endring etter første punktum.
 
-Fattes vedtak om ny tillatelse etter annet ledd, bortfaller tillatelsen som det endrede eller utskiftede anlegget var knyttet til etter [§ 4-13](forskrift/2022-11-07-1929/§4-13) annet ledd. Tillatelsen bortfaller ogsåved større endringer som Fiskeridirektoratet ikke har vurdert etter andre ledd som følge av manglende melding etter første ledd,ved brudd på [§ 4-14](forskrift/2022-11-07-1929/§4-14) om innehavers rådighet over tillatelsen og akvakulturanlegget, ognår tillatelsens tidsavgrensning er utløpt etter [§ 4-17](forskrift/2022-11-07-1929/§4-17) første punktum.
+Fattes vedtak om ny tillatelse etter annet ledd, bortfaller tillatelsen som det endrede eller utskiftede anlegget var knyttet til etter [§ 4-13](forskrift/2022-11-07-1929/§4-13) annet ledd. Tillatelsen bortfaller også
 
-Fiskeridirektoratet skal i vedtaket etter andre ledd gi tillatelse med samme innhold som tillatelsen som falt bort etter tredje ledd første punktum, så langtbestemmelsene i [§ 4-7](forskrift/2022-11-07-1929/§4-7) til [§ 4-11](forskrift/2022-11-07-1929/§4-11) er oppfylt, med unntak av [§ 4-11](forskrift/2022-11-07-1929/§4-11) første ledd nr. 1 om forhåndstilsagnbestemmelser i eller i medhold av [akvakulturloven § 9](lov/2005-06-17-79/§9) som gjelder for akvakultur av matfisk til havs ikke tilsier at søknaden skal eller bør få et annet utfall, ogFiskeridirektoratet ikke ellers finner at anleggsendringen gjør det nødvendig å endre innholdet.
+1. ved større endringer som Fiskeridirektoratet ikke har vurdert etter andre ledd som følge av manglende melding etter første ledd,
+2. ved brudd på [§ 4-14](forskrift/2022-11-07-1929/§4-14) om innehavers rådighet over tillatelsen og akvakulturanlegget, og
+3. når tillatelsens tidsavgrensning er utløpt etter [§ 4-17](forskrift/2022-11-07-1929/§4-17) første punktum.
+
+Fiskeridirektoratet skal i vedtaket etter andre ledd gi tillatelse med samme innhold som tillatelsen som falt bort etter tredje ledd første punktum, så langt
+
+1. bestemmelsene i [§ 4-7](forskrift/2022-11-07-1929/§4-7) til [§ 4-11](forskrift/2022-11-07-1929/§4-11) er oppfylt, med unntak av [§ 4-11](forskrift/2022-11-07-1929/§4-11) første ledd nr. 1 om forhåndstilsagn
+2. bestemmelser i eller i medhold av [akvakulturloven § 9](lov/2005-06-17-79/§9) som gjelder for akvakultur av matfisk til havs ikke tilsier at søknaden skal eller bør få et annet utfall, og
+3. Fiskeridirektoratet ikke ellers finner at anleggsendringen gjør det nødvendig å endre innholdet.
 
 > Endret ved forskrift [14 jan 2026 nr. 58](forskrift/2026-01-14-58) (tidligere § 4-15).
 
@@ -276,7 +319,10 @@ Akvakultur av stamfisk skal bidra til produksjon av rogn og melke av sykdomsfri 
 
 ### § 6-2. Midlertidig stopp i muligheten til å søke om tillatelse til visningsformål og fiskepark
 
-[§ 6-4](forskrift/2022-11-07-1929/§6-4) gjelder med følgende begrensninger:Fra og med 1. juli 2021 kan det ikke søkes om nye tillatelser til akvakultur av matfisk til visningsformål og fiskepark. Søknader som er kommet inn til Fiskeridirektoratet før stansen ble iverksatt 8. mars 2021 kl. 10:00 skal behandles i tråd med forskriftens bestemmelser.Dersom det innvilges fornyelse av tillatelser til visningsformål, kan dette ikke gis for mer enn 5 år fra tillatelsesdokument er utstedt.
+[§ 6-4](forskrift/2022-11-07-1929/§6-4) gjelder med følgende begrensninger:
+
+- Fra og med 1. juli 2021 kan det ikke søkes om nye tillatelser til akvakultur av matfisk til visningsformål og fiskepark. Søknader som er kommet inn til Fiskeridirektoratet før stansen ble iverksatt 8. mars 2021 kl. 10:00 skal behandles i tråd med forskriftens bestemmelser.
+- Dersom det innvilges fornyelse av tillatelser til visningsformål, kan dette ikke gis for mer enn 5 år fra tillatelsesdokument er utstedt.
 
 ### § 6-3. Søknadsbehandling
 
@@ -388,7 +434,14 @@ Søknad om akvakulturtillatelse som nevnt i [§ 7-2](forskrift/2022-11-07-1929/�
 
 ### § 7-2. Tildeling av akvakulturtillatelse på land
 
-Det kan kun gis tillatelse til akvakultur på land dersom anlegget ligger på fast grunn eller utfylte masser på område som normalt ikke er dekket av vannpå en bestemt lokalitet, ogenten tilakvakultur av settefisk,akvakultur av matfisk, ellerakvakultur av stamfisk.
+Det kan kun gis tillatelse til akvakultur på land dersom anlegget ligger på fast grunn eller utfylte masser på område som normalt ikke er dekket av vann
+
+1. på en bestemt lokalitet, og
+2. enten til
+
+   1. akvakultur av settefisk,
+   2. akvakultur av matfisk, eller
+   3. akvakultur av stamfisk.
 
 Tillatelsen avgrenses i maksimalt tillatt biomasse på samme måte som etter [§ 3-3](forskrift/2022-11-07-1929/§3-3). Ved utvidelse av tillatelsens biomasseavgrensning, må innehaver søke om ny lokalitetsklarering etter [kapittel 8](forskrift/2022-11-07-1929/kap8).
 
@@ -414,7 +467,27 @@ Søknad om klarering av lokalitet sendes og behandles som nevnt i [§ 3-1](forsk
 
 ### § 8-3. Generelle vilkår for klarering av lokalitet
 
-Lokalitet for akvakultur kan klareres dersomdet er miljømessig forsvarlig;det er foretatt en avveining av arealinteresser med særlig vekt påsøkers behov for areal til planlagt akvakultur,alternativ bruk av området til annen akvakultur,annen bruk av området, ogverneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38 om viltet](lov/1981-05-29-38);det er gitt tillatelse som kreves etter[lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv](lov/2003-12-19-124).,[lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall](lov/1981-03-13-6),[lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70),[lov 24. november 2000 nr. 82 om vassdrag og grunnvann](lov/2000-11-24-82) og[lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97); ogdet ikke er i strid medvedtatte arealplaner etter [plan- og bygningsloven](lov/2008-06-27-71),vedtatte vernetiltak etter [kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold](lov/2009-06-19-100/kapV), ellervedtatte vernetiltak etter [lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50).
+Lokalitet for akvakultur kan klareres dersom
+
+1. det er miljømessig forsvarlig;
+2. det er foretatt en avveining av arealinteresser med særlig vekt på
+
+   1. søkers behov for areal til planlagt akvakultur,
+   2. alternativ bruk av området til annen akvakultur,
+   3. annen bruk av området, og
+   4. verneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38 om viltet](lov/1981-05-29-38);
+3. det er gitt tillatelse som kreves etter
+
+   1. [lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv](lov/2003-12-19-124).,
+   2. [lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall](lov/1981-03-13-6),
+   3. [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70),
+   4. [lov 24. november 2000 nr. 82 om vassdrag og grunnvann](lov/2000-11-24-82) og
+   5. [lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97); og
+4. det ikke er i strid med
+
+   1. vedtatte arealplaner etter [plan- og bygningsloven](lov/2008-06-27-71),
+   2. vedtatte vernetiltak etter [kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold](lov/2009-06-19-100/kapV), eller
+   3. vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50).
 
 Fylkeskommunens vedtak om klarering av lokalitet i sjø og ferskvann skal minst omfatte akvakulturanlegget, areal i overflaten, vannsøylen og arealet på bunn. Vedtaket skal også omfatte fortøyningspunkter og flåte med tilknytningspunkter mellom flåte og produksjonsenhetene er det er aktuelt.
 
@@ -456,7 +529,15 @@ Ved søknad om ny klarering av lokalitet for tillatelser til særlige formål sk
 
 Søknad om klarering av lokalitet i sjø skal inneholde en eller flere rapporter fra en forundersøkelse som er utført i løpet av de siste tre år før søknadsdato.
 
-Forundersøkelsen skal gjennomføres i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm, og skal minimum omfatte:utarbeidelse av kartdokumentasjonpartikkelanalyse for å beskrive bunnsubstratetstrømmålingerhydrografimålinger i hele vannsøylen på den dypeste stasjon i overgangssonen og i eventuelle dypområder med risiko for oksygenmangel utenfor overgangssonenundersøkelse av kjemiske og sensoriske parametere etter metodikken for B-undersøkelsebunndyrsundersøkelser etter metodikken for C-undersøkelse på minst tre stasjoneranalyse av sedimentprøver fra minst to av stasjonene som nevnt i bokstav f for å avklare om og i hvilken grad sedimentene inneholder stoffer som det er grunn til å tro vil bli sluppet ut på lokaliteten og som enten er nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C eller D nr. 2 eller er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
+Forundersøkelsen skal gjennomføres i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm, og skal minimum omfatte:
+
+1. utarbeidelse av kartdokumentasjon
+2. partikkelanalyse for å beskrive bunnsubstratet
+3. strømmålinger
+4. hydrografimålinger i hele vannsøylen på den dypeste stasjon i overgangssonen og i eventuelle dypområder med risiko for oksygenmangel utenfor overgangssonen
+5. undersøkelse av kjemiske og sensoriske parametere etter metodikken for B-undersøkelse
+6. bunndyrsundersøkelser etter metodikken for C-undersøkelse på minst tre stasjoner
+7. analyse av sedimentprøver fra minst to av stasjonene som nevnt i bokstav f for å avklare om og i hvilken grad sedimentene inneholder stoffer som det er grunn til å tro vil bli sluppet ut på lokaliteten og som enten er nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C eller D nr. 2 eller er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
 
 Undersøkelser som nevnt i andre ledd bokstav a, b, d og f skal i tillegg gjennomføres på en referansestasjon minimum 1 km fra omsøkt.
 
@@ -464,7 +545,11 @@ Der undersøkelser etter andre ledd bokstav b, e, f og g vanskelig lar seg gjenn
 
 Forundersøkelsen skal utføres av organer som kan dokumentere relevant faglig kompetanse og er uavhengig oppdragsgiver. Bunndyrsundersøkelser etter andre ledd bokstav f og tredje ledd og analyse av sedimentprøver etter andre ledd bokstav g skal utføres av organer som er akkreditert for oppgaven.
 
-Rapporten eller rapportene som nevnt i første ledd skal inneholdeen sammenfatning av resultateneen begrunnet vurdering eller modellering av grensene for anleggssone og overgangssone og forslag til plassering av prøvestasjoner for miljøovervåking, inkludert en referansestasjon, ogalle originaldata.
+Rapporten eller rapportene som nevnt i første ledd skal inneholde
+
+1. en sammenfatning av resultatene
+2. en begrunnet vurdering eller modellering av grensene for anleggssone og overgangssone og forslag til plassering av prøvestasjoner for miljøovervåking, inkludert en referansestasjon, og
+3. alle originaldata.
 
 Tidligere utført forundersøkelse eller miljøovervåking kan danne tilstrekkelig kunnskapsgrunnlag ved søknad om klarering av lokalitet.
 

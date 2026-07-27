@@ -36,9 +36,23 @@ Forskriften gjelder arbeid knyttet til elektriske anlegg og elektrisk utstyr.
 
 Bestemmelsene om foretak gjelder alt arbeid som forutsettes utført av et foretak, uavhengig av hvordan den enkelte har valgt å organisere arbeidet. Med foretak menes også underenheter til et foretak.
 
-Forskriften gjelder ikke arbeid knyttet tilelektriske anlegg og elektrisk utstyr på faste innretninger for utnyttelse av petroleumsforekomster plassert i indre norske farvann, norsk sjøterritorium og på kontinentalsokkelenelektriske anlegg og elektrisk utstyr på enkelte integrerte petroleumsanlegg og tilknyttede rørledningssystemer på landelektriske anlegg og elektrisk utstyr i luftfartøyerelektroniske telekommunikasjons- og informasjonssystemerelektriske anlegg med så lav spenning eller strøm at anlegget ikke kan frambringe fare for skade på liv, helse eller materielle verdierelektriske anlegg og elektrisk utstyr som omfattes av kjøretøyforskriftenelektriske tavler når arbeidet utføres hos tavleprodusentenelektriske anlegg på maskiner som omfattes av [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, [forskrift 6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) eller [forskrift 6. desember 2011 nr. 1359](forskrift/2011-12-06-1359) om konstruksjon, utforming og fremstilling av arbeidsutstyr som ikke dekkes av forskrift om maskiner (produsentforskriften)bygningsmessige og bærende konstruksjoner for elektriske forsyningsanlegg.
+Forskriften gjelder ikke arbeid knyttet til
 
-Forskriften gjelder heller ikke fordrift av elektriske anlegg og elektrisk utstyr som tilfredsstiller relevante installasjons- og utstyrsnormer og som er konstruert for bruk av ikke-elektrofagfolkreparasjon av elektrisk utstyr når dette utføres av produsent eller dennes representant i Norgedrift og vedlikehold av elektriske anlegg om bord i norske skip, fiskefartøy og flyttbare innretninger.
+1. elektriske anlegg og elektrisk utstyr på faste innretninger for utnyttelse av petroleumsforekomster plassert i indre norske farvann, norsk sjøterritorium og på kontinentalsokkelen
+2. elektriske anlegg og elektrisk utstyr på enkelte integrerte petroleumsanlegg og tilknyttede rørledningssystemer på land
+3. elektriske anlegg og elektrisk utstyr i luftfartøyer
+4. elektroniske telekommunikasjons- og informasjonssystemer
+5. elektriske anlegg med så lav spenning eller strøm at anlegget ikke kan frambringe fare for skade på liv, helse eller materielle verdier
+6. elektriske anlegg og elektrisk utstyr som omfattes av kjøretøyforskriften
+7. elektriske tavler når arbeidet utføres hos tavleprodusenten
+8. elektriske anlegg på maskiner som omfattes av [forskrift 20. mai 2009 nr. 544](forskrift/2009-05-20-544) om maskiner, [forskrift 6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) eller [forskrift 6. desember 2011 nr. 1359](forskrift/2011-12-06-1359) om konstruksjon, utforming og fremstilling av arbeidsutstyr som ikke dekkes av forskrift om maskiner (produsentforskriften)
+9. bygningsmessige og bærende konstruksjoner for elektriske forsyningsanlegg.
+
+Forskriften gjelder heller ikke for
+
+1. drift av elektriske anlegg og elektrisk utstyr som tilfredsstiller relevante installasjons- og utstyrsnormer og som er konstruert for bruk av ikke-elektrofagfolk
+2. reparasjon av elektrisk utstyr når dette utføres av produsent eller dennes representant i Norge
+3. drift og vedlikehold av elektriske anlegg om bord i norske skip, fiskefartøy og flyttbare innretninger.
 
 > Endret ved [forskrift 12 des 2018 nr. 2157](forskrift/2018-12-12-2157).
 
@@ -48,7 +62,14 @@ Forskriften gjelder heller ikke fordrift av elektriske anlegg og elektrisk utsty
 
 Den som tilbyr å utføre eller utfører arbeid knyttet til elektriske anlegg og reparasjon av elektrisk utstyr, skal registreres som foretak i Elvirksomhetsregisteret. Registreringsplikten gjelder også for alle underenheter til et foretak, som utfører arbeid knyttet til elektriske anlegg og reparasjon av elektrisk utstyr. Registreringsplikten gjelder ikke den som kun utfører arbeid knyttet til egne elektriske forsyningsanlegg, anlegg i egen bolig og fritidsbolig eller er pålagt å ha lokalt elektrisitetstilsyn.
 
-Registreringen skal inneholde opplysninger omden registreringspliktiges navn, adresse og organisasjonsnummerarbeidsoppgaver som den registreringspliktige tilbyranleggs- og utstyrstyper som den registreringspliktige arbeider pånavn og fødselsnummer på den som utøver det faglige ansvaret for arbeidetreferanser til dokumenterte kvalifikasjoner for den som utøver det faglige ansvaret for arbeidetantall ansatte som arbeider med elektrofaglige oppgaver.
+Registreringen skal inneholde opplysninger om
+
+1. den registreringspliktiges navn, adresse og organisasjonsnummer
+2. arbeidsoppgaver som den registreringspliktige tilbyr
+3. anleggs- og utstyrstyper som den registreringspliktige arbeider på
+4. navn og fødselsnummer på den som utøver det faglige ansvaret for arbeidet
+5. referanser til dokumenterte kvalifikasjoner for den som utøver det faglige ansvaret for arbeidet
+6. antall ansatte som arbeider med elektrofaglige oppgaver.
 
 For registrering i Elvirksomhetsregisteret skal saksbehandlingsfristen som nevnt i [tjenesteloven § 11](lov/2009-06-19-103/§11) første ledd være én måned. [Tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke.
 
@@ -114,7 +135,13 @@ Den som har det faglige ansvaret for kontroll av elektriske anlegg skal oppfylle
 
 ### § 10. Kvalifikasjonskrav ved offentlig tilsyn med elektriske anlegg og elektrisk utstyr
 
-Den som utfører offentlig tilsyn med elektriske anlegg og elektrisk utstyr, skal oppfylle vilkårene i [§ 7](forskrift/2013-06-19-739/§7) første ledd, og ha kunnskap omrelevant regelverk og tolkninger av dettekunnskap om forvaltningsloven, arkivloven, offentleglova og instrukser fra Direktoratet for samfunnssikkerhet og beredskaptilsyns- og revisjonsmetodikkmåleteknikkbrann- og ulykkesgranskning.
+Den som utfører offentlig tilsyn med elektriske anlegg og elektrisk utstyr, skal oppfylle vilkårene i [§ 7](forskrift/2013-06-19-739/§7) første ledd, og ha kunnskap om
+
+1. relevant regelverk og tolkninger av dette
+2. kunnskap om forvaltningsloven, arkivloven, offentleglova og instrukser fra Direktoratet for samfunnssikkerhet og beredskap
+3. tilsyns- og revisjonsmetodikk
+4. måleteknikk
+5. brann- og ulykkesgranskning.
 
 Den som har det faglige ansvaret for offentlig tilsyn med elektriske anlegg skal oppfylle vilkårene i første ledd og [§ 7](forskrift/2013-06-19-739/§7) annet ledd.
 
@@ -186,7 +213,17 @@ Gebyrets størrelse reguleres i de årlige statsbudsjettene, i takt med lønns- 
 
 Den som forsettlig eller uaktsomt overtrer [§ 3](forskrift/2013-06-19-739/§3), [§ 4](forskrift/2013-06-19-739/§4) eller [§ 5](forskrift/2013-06-19-739/§5) første ledd, kan ilegges overtredelsesgebyr.
 
-Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, kan det blant annet tas hensyn tilovertredelsens grovhetgraden av skyldom det foreligger gjentakelseom foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget hendelsenom overtredelsen er begått for å fremme foretakets interesserom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsenom andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av detforetakets økonomiske evnesanksjonens preventive effekt.
+Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, kan det blant annet tas hensyn til
+
+1. overtredelsens grovhet
+2. graden av skyld
+3. om det foreligger gjentakelse
+4. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget hendelsen
+5. om overtredelsen er begått for å fremme foretakets interesser
+6. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen
+7. om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det
+8. foretakets økonomiske evne
+9. sanksjonens preventive effekt.
 
 Vedtak om overtredelsesgebyr treffes av Direktoratet for samfunnssikkerhet og beredskap.
 

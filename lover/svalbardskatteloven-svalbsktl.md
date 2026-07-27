@@ -62,7 +62,10 @@ Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov.
 
 Personer som er bosatt på Svalbard, skal svare skatt av hele sin formue og inntekt når ikke annet følger av denne lov. En person anses som bosatt på Svalbard når vedkommende har tatt varig opphold der. Opphold av minst 12 måneders varighet regnes som bosettelse fra begynnelsen av oppholdet.
 
-For personer som før oppholdet på Svalbard ikke har vært skattemessig bosatt i Norge (herunder Svalbard) i løpet av de siste 10 årene, gjelder følgende:De første 5 årene vedkommende anses bosatt på Svalbard, er skattepliktens omfang begrenset tilsvarende som etter [§ 2-2](lov/1996-11-29-68/§2-2).Dersom begrensningen i skatteplikt etter dette ledd leder til at et betydelig beløp unntas fra beskatning til Svalbard i et inntektsår, kan skattekontoret velge å sette begrensningen til side for det aktuelle året. Som betydelig beløp regnes 12 ganger folketrygdens grunnbeløp.
+For personer som før oppholdet på Svalbard ikke har vært skattemessig bosatt i Norge (herunder Svalbard) i løpet av de siste 10 årene, gjelder følgende:
+
+1. De første 5 årene vedkommende anses bosatt på Svalbard, er skattepliktens omfang begrenset tilsvarende som etter [§ 2-2](lov/1996-11-29-68/§2-2).
+2. Dersom begrensningen i skatteplikt etter dette ledd leder til at et betydelig beløp unntas fra beskatning til Svalbard i et inntektsår, kan skattekontoret velge å sette begrensningen til side for det aktuelle året. Som betydelig beløp regnes 12 ganger folketrygdens grunnbeløp.
 
 Skatteplikten etter denne paragraf faller bort fra og med det inntektsår personen har oppholdt seg utenfor Svalbard mer enn 183 dager i en tolvmånedersperiode.
 
@@ -118,7 +121,11 @@ I [skatteloven](lov/1999-03-26-14) unntas fra anvendelse bestemmelsene om vilkå
 
 Departementet kan gi nærmere regler om at forretningsbygg på Svalbard og bygg med kort levetid kan avskrives med inntil dobbel prosentsats.
 
-For enkeltpersonforetak mv. gjelder følgende:Ved fastsettelsen av alminnelig inntekt fra enkeltpersonforetak gis det fradrag for renter på gjeld til finansinstitusjoner og gjeld som knytter seg til mengdegjeldsbrev. Fradrag gis i den utstrekning gjelden ikke overstiger verdien av eiendelene i virksomheten. Ved fastsettelsen av verdien av eiendelene i virksomheten, gjelder [skatteloven § 12-12](lov/1999-03-26-14/§12-12) annet ledd tilsvarende, med unntak av [§ 12-12](lov/1999-03-26-14/§12-12) annet ledd bokstav c.Skatt av alminnelig inntekt fra enkeltpersonforetak beregnes med en prosentvis fastsatt del av denne inntekten og med samme satser som er fastsatt for lønnsinntekt, jf. [§ 3-1](lov/1996-11-29-68/§3-1). Slik inntekt inngår ikke ved fastsettelsen av ordinær alminnelig inntekt. Særskilt godtgjørelse etter [selskapsloven § 2-26](lov/1985-06-21-83/§2-26) første ledd skattlegges på tilsvarende måte.Underskudd i enkeltpersonforetak fremføres til fradrag i senere års inntekt fra enkeltpersonforetak. Når det ved opphør av virksomhet i enkeltpersonforetak er udekket underskudd, kan slikt underskudd kreves avregnet mot alminnelig inntekt ved bruk av en avregningsfaktor på 0,5.
+For enkeltpersonforetak mv. gjelder følgende:
+
+1. Ved fastsettelsen av alminnelig inntekt fra enkeltpersonforetak gis det fradrag for renter på gjeld til finansinstitusjoner og gjeld som knytter seg til mengdegjeldsbrev. Fradrag gis i den utstrekning gjelden ikke overstiger verdien av eiendelene i virksomheten. Ved fastsettelsen av verdien av eiendelene i virksomheten, gjelder [skatteloven § 12-12](lov/1999-03-26-14/§12-12) annet ledd tilsvarende, med unntak av [§ 12-12](lov/1999-03-26-14/§12-12) annet ledd bokstav c.
+2. Skatt av alminnelig inntekt fra enkeltpersonforetak beregnes med en prosentvis fastsatt del av denne inntekten og med samme satser som er fastsatt for lønnsinntekt, jf. [§ 3-1](lov/1996-11-29-68/§3-1). Slik inntekt inngår ikke ved fastsettelsen av ordinær alminnelig inntekt. Særskilt godtgjørelse etter [selskapsloven § 2-26](lov/1985-06-21-83/§2-26) første ledd skattlegges på tilsvarende måte.
+3. Underskudd i enkeltpersonforetak fremføres til fradrag i senere års inntekt fra enkeltpersonforetak. Når det ved opphør av virksomhet i enkeltpersonforetak er udekket underskudd, kan slikt underskudd kreves avregnet mot alminnelig inntekt ved bruk av en avregningsfaktor på 0,5.
 
 > Endret ved [lover 26 mars 1999 nr. 14](lov/1999-03-26-14) (ikr. 1 jan 2000), [17 des 1999 nr. 91](lov/1999-12-17-91) (f o m inntektsåret 2000), [21 des 2000 nr. 110](lov/2000-12-21-110) (f o m inntektsåret 2000 for skattytere som nevnt i § 1-3 annet ledd, f o m inntektsåret 2001 for skattytere som nevnt i [§ 1-3](lov/1996-11-29-68/§1-3) første ledd), [9 des 2005 nr. 110](lov/2005-12-09-110) (f o m inntektsåret 2006), [14 des 2007 nr. 104](lov/2007-12-14-104) (f o m inntektsåret 2008), [10 des 2010 nr. 64](lov/2010-12-10-64) (f o m inntektsåret 2010), [18 des 2015 nr. 113](lov/2015-12-18-113) (f o m inntektsåret 2016), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531), tidligere § 3-1), [18 juni 2021 nr. 104](lov/2021-06-18-104).
 
@@ -140,7 +147,10 @@ Ungdom som ved utløpet av inntektsåret er fra og med 13 til og med 19 år, ska
 
 ### § 4-2. Særlige bestemmelser for visse grupper skattepliktige
 
-Departementet kan fastsette nærmere regler omforenklet felles skatteoppgjør for prosjektgrupper mv. med kortere opphold på Svalbard,krav til registrering og dokumentasjon av regnskapsopplysninger, årsregnskap og årsberetning for næringsdrivende selskaper, eller for grupper av slike.
+Departementet kan fastsette nærmere regler om
+
+1. forenklet felles skatteoppgjør for prosjektgrupper mv. med kortere opphold på Svalbard,
+2. krav til registrering og dokumentasjon av regnskapsopplysninger, årsregnskap og årsberetning for næringsdrivende selskaper, eller for grupper av slike.
 
 > Endret ved [lover 14 des 2007 nr. 104](lov/2007-12-14-104) (ikr. 1 jan 2008), [19 des 2014 nr. 78](lov/2014-12-19-78) (ikr. 1 juli 2016 iflg. [res. 22 jan 2016 nr. 43](forskrift/2016-01-22-43)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
@@ -230,6 +240,10 @@ Ved forenklet felles skatteoppgjør i overgangsperioden benyttes skattesatser fa
 
 ### § 6-4. Avvikling av særskilt praksis for pendlere
 
-Denne paragraf gjelder for ansatte som ikke er bosatt på Svalbard, og som er ansatt i stillinger som har gått inn under særskilt praksis for skatt til Svalbard for pendlere. Gjeldende praksis videreføres ut inntektsåret 2014, og avsluttes deretter. Følgende vilkår må være oppfylt for den enkelte ansatte:det første arbeidsoppholdet på Svalbard varer sammenhengende i 30 dager, ogpåfølgende arbeidsopphold er ledd i en turnusordning med regelmessige arbeidsopphold på Svalbard, ogvedkommende har ikke inntekt fra selvstendige arbeidsforhold utenfor Svalbard.
+Denne paragraf gjelder for ansatte som ikke er bosatt på Svalbard, og som er ansatt i stillinger som har gått inn under særskilt praksis for skatt til Svalbard for pendlere. Gjeldende praksis videreføres ut inntektsåret 2014, og avsluttes deretter. Følgende vilkår må være oppfylt for den enkelte ansatte:
+
+1. det første arbeidsoppholdet på Svalbard varer sammenhengende i 30 dager, og
+2. påfølgende arbeidsopphold er ledd i en turnusordning med regelmessige arbeidsopphold på Svalbard, og
+3. vedkommende har ikke inntekt fra selvstendige arbeidsforhold utenfor Svalbard.
 
 > Tilføyd ved [lov 10 des 2010 nr. 64](lov/2010-12-10-64) (f o m inntektsåret 2011).

@@ -15,7 +15,7 @@ xml_hash: "1672acfb364f707b2b3858c37d41cdef59c765e53d715c97901a682bf2ea7661"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Det er forbudt for norske fartøy å fiske og lande torsk, hyse og sei nord for 
 
 ### § 2. Totalkvote
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2826/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:139 827 tonn torsk i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen,78 289 tonn hyse i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen, og150 770 tonn sei i Norges territorialfarvann og Norges økonomiske sone nord for 62° N.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2826/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:
+
+1. 139 827 tonn torsk i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen,
+2. 78 289 tonn hyse i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen, og
+3. 150 770 tonn sei i Norges territorialfarvann og Norges økonomiske sone nord for 62° N.
 
 Av kvantaene i første ledd avsettes 880 tonn torsk, 319 tonn hyse og 156 tonn sei til forsknings- og undervisningskvoter, 7 000 tonn torsk, 300 tonn hyse og 2 000 tonn sei til dekning av fangst innenfor ungdoms- og rekreasjonsfiske (fritids- og turistfiske), 3 000 tonn torsk til kystfiskeordningen, 350 tonn sei til agnformål, 500 tonn torsk til dekning av kvotebonus ved levendelagring, 2 543 tonn torsk, 953 tonn hyse og 1 397 tonn sei til rekrutteringskvoter for fartøy i lukket gruppe og 450 tonn torsk, 50 tonn hyse og 255 tonn sei til rekrutteringskvoter i åpen gruppe.
 
@@ -40,7 +44,10 @@ Av kvantaene i første ledd avsettes 880 tonn torsk, 319 tonn hyse og 156 tonn s
 
 Fartøy med tråltillatelse kan fiske og lande inntil 32 535 tonn torsk, 29 415 tonn hyse og 54 246 tonn sei, hvorav 500 tonn sei avsettes til dekning av bifangst i fisket for fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse.
 
-Kvantaene i første ledd fordeles som følger:Fartøy med torsketråltillatelse kan fiske og lande inntil 31 785 tonn torsk, 28 665 tonn hyse og 43 397 tonn sei, ogFartøy med seitråltillatelse kan fiske og lande inntil 750 tonn torsk, 750 tonn hyse og 10 349 tonn sei.
+Kvantaene i første ledd fordeles som følger:
+
+1. Fartøy med torsketråltillatelse kan fiske og lande inntil 31 785 tonn torsk, 28 665 tonn hyse og 43 397 tonn sei, og
+2. Fartøy med seitråltillatelse kan fiske og lande inntil 750 tonn torsk, 750 tonn hyse og 10 349 tonn sei.
 
 > Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
@@ -54,9 +61,18 @@ Notfartøy kan fiske og lande inntil 36 653 tonn sei.
 
 Fartøy med adgang til å fiske med konvensjonelle redskap kan fiske og lande inntil 92 919 tonn torsk, 47 252 tonn hyse og 55 713 tonn sei.
 
-Kvantaene i første ledd fordeles som følger:Konvensjonelle havfiskefartøy kan fiske og lande inntil 10 717 tonn torsk, 8 647 tonn hyse og 6 128 tonn sei, hvorav 500 tonn sei avsettes til bifangst.Fartøy i lukket gruppe kan fiske og lande inntil 72 945 tonn torsk, 34 837 tonn hyse og 41 785 tonn sei. Av gruppekvoten av torsk avsettes 7 085 tonn til ferskfiskordningen.Fartøy i åpen gruppe kan fiske og lande inntil 9 257 tonn torsk, 3 768 tonn hyse og 7 800 tonn sei. Av gruppekvoten av torsk avsettes 865 tonn til ferskfiskordningen.
+Kvantaene i første ledd fordeles som følger:
 
-Utover avsetninger til ferskfiskordningen fordeles kvantaene av torsk, hyse og sei nevnt i annet ledd bokstav b som følger:Fartøy med hjemmelslengde under 11 meter kan fiske og lande inntil 19 164 tonn torsk, 9 573 tonn hyse og 11 476 tonn sei. Gruppekvotene inkluderer 835 tonn torsk, 306 tonn hyse og 435 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 11 meter til og med 14,99 meter kan fiske og lande inntil 19 036 tonn torsk, 9 948 tonn hyse og 11 835 tonn sei. Gruppekvotene inkluderer 1 708 tonn torsk, 647 tonn hyse og 962 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 15 meter til og med 20,99 meter kan fiske og lande inntil 17 407 tonn torsk, 9 754 tonn hyse og 10 473 tonn sei.Fartøy med hjemmelslengde fra og med 21 meter til og med 27,99 meter kan fiske og lande inntil 12 796 tonn torsk, 6 515 tonn hyse og 9 398 tonn sei.
+1. Konvensjonelle havfiskefartøy kan fiske og lande inntil 10 717 tonn torsk, 8 647 tonn hyse og 6 128 tonn sei, hvorav 500 tonn sei avsettes til bifangst.
+2. Fartøy i lukket gruppe kan fiske og lande inntil 72 945 tonn torsk, 34 837 tonn hyse og 41 785 tonn sei. Av gruppekvoten av torsk avsettes 7 085 tonn til ferskfiskordningen.
+3. Fartøy i åpen gruppe kan fiske og lande inntil 9 257 tonn torsk, 3 768 tonn hyse og 7 800 tonn sei. Av gruppekvoten av torsk avsettes 865 tonn til ferskfiskordningen.
+
+Utover avsetninger til ferskfiskordningen fordeles kvantaene av torsk, hyse og sei nevnt i annet ledd bokstav b som følger:
+
+1. Fartøy med hjemmelslengde under 11 meter kan fiske og lande inntil 19 164 tonn torsk, 9 573 tonn hyse og 11 476 tonn sei. Gruppekvotene inkluderer 835 tonn torsk, 306 tonn hyse og 435 tonn sei til rekrutteringskvoter.
+2. Fartøy med hjemmelslengde fra og med 11 meter til og med 14,99 meter kan fiske og lande inntil 19 036 tonn torsk, 9 948 tonn hyse og 11 835 tonn sei. Gruppekvotene inkluderer 1 708 tonn torsk, 647 tonn hyse og 962 tonn sei til rekrutteringskvoter.
+3. Fartøy med hjemmelslengde fra og med 15 meter til og med 20,99 meter kan fiske og lande inntil 17 407 tonn torsk, 9 754 tonn hyse og 10 473 tonn sei.
+4. Fartøy med hjemmelslengde fra og med 21 meter til og med 27,99 meter kan fiske og lande inntil 12 796 tonn torsk, 6 515 tonn hyse og 9 398 tonn sei.
 
 > Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
@@ -381,7 +397,19 @@ Det er ikke adgang til å ha bifangst av torsk utover de fastsatte kvotene.
 
 Merkeregistrerte fartøy i åpen gruppe med eier som er bosatt i de områder som er nevnt i annet ledd kan, i tillegg til kvoten i [§ 21](forskrift/2025-12-19-2826/§21), fiske og lande en fartøykvote på 3,5 tonn torsk. Eierbegrepet i [deltakerforskriften § 2 bokstav a](forskrift/2025-12-19-2811/§2/bokstav/a) skal legges til grunn.
 
-Kvotetillegget tildeles fartøy med eiere bosatt i følgende kommuner eller deler av kommune:Finnmark:Alta, Berlevåg, Båtsfjord, Gamvik, Hammerfest, Hasvik, Karasjok, Kautokeino, Lebesby, Loppa, Måsøy, Nesseby, Nordkapp, Porsanger, Sør-Varanger, Tana, Vadsø og Vardø.Troms:Balsfjord, Gratangen, Karlsøy, Kvænangen, Kåfjord, Lavangen, Lyngen, Nordreisa, Salangen, Skjervøy, Storfjord, Sørreisa og Tjeldsund.For merkeregistrerte fartøy i Tromsø kommune må eier av fartøy være bosatt i en av grunnkretsene Jøvik, Olderbakken, Lakselvbukt, Lakselvdalen, Sjøvassbotn, Stordal, Sjursnes, Reiervik, Breivika eller Ullsfjordmoane.Nordland:Evenes, Hamarøy og Lødingen.For merkeregistrerte fartøy i Narvik kommune må eier av fartøy være bosatt i område som i 2019 var en del av daværende Narvik eller Tysfjord kommune.
+Kvotetillegget tildeles fartøy med eiere bosatt i følgende kommuner eller deler av kommune:
+
+1. Finnmark:
+
+   - Alta, Berlevåg, Båtsfjord, Gamvik, Hammerfest, Hasvik, Karasjok, Kautokeino, Lebesby, Loppa, Måsøy, Nesseby, Nordkapp, Porsanger, Sør-Varanger, Tana, Vadsø og Vardø.
+2. Troms:
+
+   - Balsfjord, Gratangen, Karlsøy, Kvænangen, Kåfjord, Lavangen, Lyngen, Nordreisa, Salangen, Skjervøy, Storfjord, Sørreisa og Tjeldsund.
+   - For merkeregistrerte fartøy i Tromsø kommune må eier av fartøy være bosatt i en av grunnkretsene Jøvik, Olderbakken, Lakselvbukt, Lakselvdalen, Sjøvassbotn, Stordal, Sjursnes, Reiervik, Breivika eller Ullsfjordmoane.
+3. Nordland:
+
+   - Evenes, Hamarøy og Lødingen.
+   - For merkeregistrerte fartøy i Narvik kommune må eier av fartøy være bosatt i område som i 2019 var en del av daværende Narvik eller Tysfjord kommune.
 
 Før oppstart av fisket på tilleggskvoten, skal det sendes skriftlig melding til Fiskeridirektoratet med alle nødvendige opplysninger om organisasjonsnummer, kommune, startdato, fartøy, registreringsmerke samt eiers navn og bostedsadresse. Pliktig melding sendes på skjema tilgjengelig fra Fiskeridirektoratets internettsider.
 
@@ -467,7 +495,31 @@ Når et salgslag i medhold av [fiskesalslagslova § 13](lov/2013-06-21-75/§13) 
 
 ### § 31. Kvotesamarbeidsordning i fisket etter torsk, hyse og sei for fartøy i lukket gruppe
 
-Uten hinder av forbudene i [§ 29](forskrift/2025-12-19-2826/§29) og [§ 30](forskrift/2025-12-19-2826/§30) kan to fartøy med ulike eiere i lukket gruppe med hjemmelslengde under 11 meter inngå et kvotesamarbeid på følgende vilkår:Fiskeridirektoratet må ha mottatt skriftlig melding om kvotesamarbeid før fisket tar til. Det må også gis melding ved endringer i kvotesamarbeidet. Pliktige meldinger skal sendes på eget skjema fra Fiskeridirektoratets internettsider.Fartøyene har samme adgang til å delta i lukket gruppe i fisket etter torsk, hyse og sei nord for 62° N.Begge eiere må ha hatt adgang til å delta i fisket med et fartøy i 2024 eller 2025 og begge eiere må ha kvotebelastet et fartøy med følgende minimumskvantum av torsk i ett av årene:*Hjemmelslengde**Minimumskvantum for ett av årene 2024 eller 2025*Under 7 meter4 tonn7–7,9 meter5 tonn8–8,9 meter6 tonn9–9,9 meter7 tonn10–10,9 meter8 tonnFiskeridirektoratet kan dispensere fra aktivitetskravet.Begge fartøyeiere må stå om bord under fisket og begge fartøyeiere må underskrive landings- eller sluttseddel. Det skal fylles ut seddel med angivelse av hvilket fartøy som har utøvet fisket og hvilket fartøy i kvotesamarbeidet som skal kvotebelastes. Innenfor hvert enkelt fartøys kvote bestemmer fartøyeierne hvor mye av fangsten av torsk, hyse og sei, samt bifangst, som skal føres på det enkelte fartøyet i kvotesamarbeidet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord dersom:eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan stå om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å stå om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering, ellereier er i vernepliktig førstegangstjeneste.Der et fartøy eies av flere sammen, er det tilstrekkelig at en av disse fyller pliktene som frem går av bokstav d første punktum.Det passive fartøyet i kvotesamarbeidet kan ikke drive fiske eller lande fangst i den tiden fartøyene er påmeldt kvotesamarbeidet.Fartøy kan bare delta i ett kvotesamarbeid i fisket etter torsk, hyse og sei i løpet av kvoteåret. Ved utskiftning trer erstatningsfartøyet inn i utskiftningsfartøyets kvotesamarbeid i den utstrekning erstatningsfartøyet fyller vilkårene for dette. Et påmeldt kvotesamarbeid kan kanselleres dersom det ikke er landet fangst på hverken det aktive eller det passive fartøyet i perioden som ifølge påmelding er avsatt til kvotesamarbeid. For å kansellere et kvotesamarbeid må det sendes melding til postmottak@fiskeridir.no.
+Uten hinder av forbudene i [§ 29](forskrift/2025-12-19-2826/§29) og [§ 30](forskrift/2025-12-19-2826/§30) kan to fartøy med ulike eiere i lukket gruppe med hjemmelslengde under 11 meter inngå et kvotesamarbeid på følgende vilkår:
+
+1. Fiskeridirektoratet må ha mottatt skriftlig melding om kvotesamarbeid før fisket tar til. Det må også gis melding ved endringer i kvotesamarbeidet. Pliktige meldinger skal sendes på eget skjema fra Fiskeridirektoratets internettsider.
+2. Fartøyene har samme adgang til å delta i lukket gruppe i fisket etter torsk, hyse og sei nord for 62° N.
+3. Begge eiere må ha hatt adgang til å delta i fisket med et fartøy i 2024 eller 2025 og begge eiere må ha kvotebelastet et fartøy med følgende minimumskvantum av torsk i ett av årene:
+
+   | *Hjemmelslengde* | *Minimumskvantum for ett av årene 2024 eller 2025* |
+   | --- | --- |
+   | Under 7 meter | 4 tonn |
+   | 7–7,9 meter | 5 tonn |
+   | 8–8,9 meter | 6 tonn |
+   | 9–9,9 meter | 7 tonn |
+   | 10–10,9 meter | 8 tonn |
+
+   Fiskeridirektoratet kan dispensere fra aktivitetskravet.
+4. Begge fartøyeiere må stå om bord under fisket og begge fartøyeiere må underskrive landings- eller sluttseddel. Det skal fylles ut seddel med angivelse av hvilket fartøy som har utøvet fisket og hvilket fartøy i kvotesamarbeidet som skal kvotebelastes. Innenfor hvert enkelt fartøys kvote bestemmer fartøyeierne hvor mye av fangsten av torsk, hyse og sei, samt bifangst, som skal føres på det enkelte fartøyet i kvotesamarbeidet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord dersom:
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan stå om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å stå om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering, eller
+   4. eier er i vernepliktig førstegangstjeneste.
+
+   Der et fartøy eies av flere sammen, er det tilstrekkelig at en av disse fyller pliktene som frem går av bokstav d første punktum.
+5. Det passive fartøyet i kvotesamarbeidet kan ikke drive fiske eller lande fangst i den tiden fartøyene er påmeldt kvotesamarbeidet.
+6. Fartøy kan bare delta i ett kvotesamarbeid i fisket etter torsk, hyse og sei i løpet av kvoteåret. Ved utskiftning trer erstatningsfartøyet inn i utskiftningsfartøyets kvotesamarbeid i den utstrekning erstatningsfartøyet fyller vilkårene for dette. Et påmeldt kvotesamarbeid kan kanselleres dersom det ikke er landet fangst på hverken det aktive eller det passive fartøyet i perioden som ifølge påmelding er avsatt til kvotesamarbeid. For å kansellere et kvotesamarbeid må det sendes melding til postmottak@fiskeridir.no.
 
 Når det aktive fartøyet i kvotesamarbeidet tilhører en annen lengdegruppe enn det passive fartøyet, får det passive fartøyet redusert overregulering som om det tilhørte samme lengdegruppe som det aktive fartøyet. Dette gjelder kun dersom det passive fartøyet har høyere overregulering enn det aktive fartøyet. Redusert overregulering for det passive fartøyets kvote gjelder fra oppstart av kvotesamarbeidet og ut kvoteåret. Dette gjelder også etter at kvotesamarbeidet er avsluttet.
 
@@ -489,7 +541,11 @@ Fiskeridirektoratet kan midlertidig forby fiske etter torsk i bestemte områder 
 
 Fra og med 1. mars til og med 31. mai er alt fiske forbudt i et område i Borgundfjorden som er angitt i vedlegg til forskriften nevnt i første ledd, også etter andre arter enn torsk, hyse og sei. Forbudet gjelder likevel ikke fiske med håndsnøre, fiskestang eller fiske etter sjøkreps med teiner med sirkelformede inngangskalver som ikke er større en 80 mm i diameter. Fiskeridirektoratet kan gjøre unntak fra forbudet for fartøy som fisker med andre konvensjonelle redskap enn snurrevad dersom det anses å være vesentlige konsentrasjoner av skrei i området.
 
-Fra og med 1. mars til og med 31. mai er det videre forbudt å fiske med stolpesatte garn i et område øst for en linje trukket mellom følgende posisjoner (Heissafjorden):N 62° 28,18′ Ø 06° 05,42′ TunesetN 62° 28,16′ Ø 06° 03,91′ ErknefluaN 62° 26,21′ Ø 06° 03,35′ Eltraneset.
+Fra og med 1. mars til og med 31. mai er det videre forbudt å fiske med stolpesatte garn i et område øst for en linje trukket mellom følgende posisjoner (Heissafjorden):
+
+1. N 62° 28,18′ Ø 06° 05,42′ Tuneset
+2. N 62° 28,16′ Ø 06° 03,91′ Erkneflua
+3. N 62° 26,21′ Ø 06° 03,35′ Eltraneset.
 
 Det er likevel tillatt med stolpesatte garn når høyde på strukket maske i garn og stolper totalt er mindre enn 23 meter.
 
@@ -509,7 +565,10 @@ Levende fisk skal røktes minst en gang hvert døgn. Ved rømming skal fisker st
 
 Ved førstehåndsomsetning skal sluttseddel fylles ut. Kvantumet belastes kvote dersom det ikke er skrevet landingsseddel for fisken tidligere.
 
-Dersom det tidligere er skrevet landingsseddel for fisken, skal kvantumet på sluttseddelen representere kvotebelastning i følgende tilfeller:Når avviket mellom kvanta på landingsseddel og sluttseddel ikke er større enn det som følger av naturlige sesongmessige variasjoner i fiskens kondisjon, og/ellerNår avviket skyldes rømming som er en følge av en hendelse utenfor fiskers kontroll eller noen som handler på hans vegne. Kvantumet på sluttseddelen gjelder bare dersom fisker sannsynliggjør hva som er årsaken, omfanget og at hendelsen ligger utenfor fiskers kontroll eller noen som handler på hans vegne.
+Dersom det tidligere er skrevet landingsseddel for fisken, skal kvantumet på sluttseddelen representere kvotebelastning i følgende tilfeller:
+
+- Når avviket mellom kvanta på landingsseddel og sluttseddel ikke er større enn det som følger av naturlige sesongmessige variasjoner i fiskens kondisjon, og/eller
+- Når avviket skyldes rømming som er en følge av en hendelse utenfor fiskers kontroll eller noen som handler på hans vegne. Kvantumet på sluttseddelen gjelder bare dersom fisker sannsynliggjør hva som er årsaken, omfanget og at hendelsen ligger utenfor fiskers kontroll eller noen som handler på hans vegne.
 
 For torsk som er fisket fra og med 1. februar 2026, og som har vært eller skal settes i mellomlagringsmerd, skal endelig kvotebelastning utgjøre 60 % av kvantumet på sluttseddelen. Fangst skal lagres minimum tre uker i merd for å få utløst redusert kvotebelastning. Kvotetype «bonuskvote ved levende lagring» skal angis på landings- og sluttseddel.
 

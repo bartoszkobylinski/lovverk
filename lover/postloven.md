@@ -15,7 +15,7 @@ xml_hash: "fa4a4a09f1627e810ecf01a7e33230f429f47ee4f8f9c17662933ec7954df591"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31997L0067"
@@ -43,7 +43,18 @@ Loven gjelder for norsk landterritorium, herunder Svalbard. Loven gjelder ikke f
 
 ### § 4. Definisjoner
 
-I loven menes med:*posttjeneste*: tilbud til allmennheten om regelmessig innsamling, sortering, transport og utdeling av postsending mot vederlag*postnett*: den samlede organisasjon, arbeidskraft, infrastruktur og produksjonsutstyr som er nødvendig for å formidle postsending*postsending*: brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 31,5 kg som er påført mottakerens navn og adresse eller annen entydig identifikasjon, herunder som er adressert i henhold til liste*uregistrert postsending*: postsending som det ikke gis kvittering for ved inn- og utlevering*registrert postsending*: postsending som det gis kvittering for ved innlevering og som utleveres mot kvittering*rekommandert postsending*: postsending som det gis kvittering for ved innlevering og som mottaker får utlevert mot fremvisning av gyldig legitimasjon eller annen entydig identifikasjon og signatur*tilbyder*: enhver som tilbyr posttjeneste*bruker*: fysisk eller juridisk person som benytter posttjeneste, enten som avsender eller som mottaker.*sonenøkkel*: systemnøkler eller andre adgangsmekanismer som i en bestemt geografisk sone åpner hovedlokk i et postkasseanlegg eller inngangsdør som fører til postkasseanlegg*sonenøkkelsystem*: et system som administrerer, vedlikeholder og drifter bruk av sonenøkler, herunder inndeler i soner, fastsetter tekniske løsninger og rutiner for bruk og oppbevaring av sonenøkler
+I loven menes med:
+
+1. *posttjeneste*: tilbud til allmennheten om regelmessig innsamling, sortering, transport og utdeling av postsending mot vederlag
+2. *postnett*: den samlede organisasjon, arbeidskraft, infrastruktur og produksjonsutstyr som er nødvendig for å formidle postsending
+3. *postsending*: brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 31,5 kg som er påført mottakerens navn og adresse eller annen entydig identifikasjon, herunder som er adressert i henhold til liste
+4. *uregistrert postsending*: postsending som det ikke gis kvittering for ved inn- og utlevering
+5. *registrert postsending*: postsending som det gis kvittering for ved innlevering og som utleveres mot kvittering
+6. *rekommandert postsending*: postsending som det gis kvittering for ved innlevering og som mottaker får utlevert mot fremvisning av gyldig legitimasjon eller annen entydig identifikasjon og signatur
+7. *tilbyder*: enhver som tilbyr posttjeneste
+8. *bruker*: fysisk eller juridisk person som benytter posttjeneste, enten som avsender eller som mottaker.
+9. *sonenøkkel*: systemnøkler eller andre adgangsmekanismer som i en bestemt geografisk sone åpner hovedlokk i et postkasseanlegg eller inngangsdør som fører til postkasseanlegg
+10. *sonenøkkelsystem*: et system som administrerer, vedlikeholder og drifter bruk av sonenøkler, herunder inndeler i soner, fastsetter tekniske løsninger og rutiner for bruk og oppbevaring av sonenøkler
 
 > Endret ved lover [9 juni 2017 nr. 41](lov/2017-06-09-41) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 720](forskrift/2017-06-09-720)), [16 juni 2023 nr. 76](lov/2023-06-16-76) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 987](forskrift/2023-06-16-987)).
 
@@ -71,7 +82,14 @@ Myndigheten kan gi forskrift og fatte enkeltvedtak om utvelgelse av leveringspli
 
 ### § 7. Leveringspliktige posttjenester
 
-Tilbyder med leveringsplikt skal sikre et landsdekkende tilbud av følgende leveringspliktige posttjenester:formidling av brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 20 kg,én innsamling av postsendinger minst fem dager i uken,én utlevering av postsendinger annenhver dag, mandag til fredag, i en to-ukers syklus, til enhver juridisk eller fysisk persons forretningssted eller faste helårlige bosted,formidling av rekommandert postsending og verdipostsending, begge inntil 2 kg,innenlands formidling av postsendinger til og fra utlandet ogvederlagsfri formidling av nærmere fastsatte posttjenester til blinde, svaksynte, krigsfanger og sivilt internerte.
+Tilbyder med leveringsplikt skal sikre et landsdekkende tilbud av følgende leveringspliktige posttjenester:
+
+1. formidling av brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 20 kg,
+2. én innsamling av postsendinger minst fem dager i uken,
+3. én utlevering av postsendinger annenhver dag, mandag til fredag, i en to-ukers syklus, til enhver juridisk eller fysisk persons forretningssted eller faste helårlige bosted,
+4. formidling av rekommandert postsending og verdipostsending, begge inntil 2 kg,
+5. innenlands formidling av postsendinger til og fra utlandet og
+6. vederlagsfri formidling av nærmere fastsatte posttjenester til blinde, svaksynte, krigsfanger og sivilt internerte.
 
 Myndigheten kan gi forskrift og fatte enkeltvedtak om leveringspliktige tjenester, herunder om krav til tjenesteomfang, geografisk dekningsområde, service og kvalitet, innsamlingsordning, og antall og plassering av ekspedisjonssteder. Myndigheten kan også gi forskrift og fatte enkeltvedtak om kompenserende tiltak. Kompenserende tiltak kan blant annet gjelde utlevering av aviser i abonnement på lørdag til mottakere som ikke har annen avisdistribusjon, tilbud innenfor dekningsområdet til alle faste ekspedisjonssteder om leie av postboks med plikt for leveringspliktig tilbyder til daglig utlevering av postsendinger mandag til fredag og krav til flere postboksanlegg eller omdelingsdager i lokale områder med særlige behov eller til brukere med særlige behov.
 
@@ -251,7 +269,12 @@ Myndigheten kan ved forskrift fastsette krav til hvilke vilkår som kan fastsett
 
 ### § 29. Ansvarsbegrensning
 
-Tilbyderen er ikke erstatningspliktig for tap, skade eller forsinkelse etter [§ 28](lov/2015-09-04-91/§28) som skyldes:feil eller forsømmelse fra den skadelidtes sidepostsendingens beskaffenhetmangelfull emballering ellerforhold og følger som tilbyder ikke kunne unngå eller avverge.
+Tilbyderen er ikke erstatningspliktig for tap, skade eller forsinkelse etter [§ 28](lov/2015-09-04-91/§28) som skyldes:
+
+1. feil eller forsømmelse fra den skadelidtes side
+2. postsendingens beskaffenhet
+3. mangelfull emballering eller
+4. forhold og følger som tilbyder ikke kunne unngå eller avverge.
 
 Skyldes tap, skade eller forsinkelse en tredjepart som tilbyderen benytter for helt eller delvis å formidle postsending, er tilbyderen bare ansvarsfri om også tredjeparten vil være ansvarsfri etter første ledd.
 
@@ -263,7 +286,13 @@ Myndigheten kan gi forskrift om ansvarsbegrensning.
 
 ### § 30. Taushetsplikt
 
-Tilbyderen og enhver som utfører arbeid eller tjeneste for tilbyderen, plikter å bevare taushet om informasjon som vedkommende gjennom sin virksomhet får kjennskap til. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten. Taushetsplikten gjelder informasjon om:avsender og mottakers bruk av posttjeneste,avsender og mottakers forretningsmessige eller personlige forhold oginnhold i postsending.Informasjonen kan ikke, utover lovlige behandlingsformål, nyttes i egen virksomhet.
+Tilbyderen og enhver som utfører arbeid eller tjeneste for tilbyderen, plikter å bevare taushet om informasjon som vedkommende gjennom sin virksomhet får kjennskap til. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten. Taushetsplikten gjelder informasjon om:
+
+1. avsender og mottakers bruk av posttjeneste,
+2. avsender og mottakers forretningsmessige eller personlige forhold og
+3. innhold i postsending.
+
+Informasjonen kan ikke, utover lovlige behandlingsformål, nyttes i egen virksomhet.
 
 Tilbyderen plikter å gjennomføre tiltak for å hindre at uvedkommende får kjennskap til informasjonen.
 
@@ -305,7 +334,15 @@ Av hensyn til sikkerhet og personvern for gårdeiere og postkasseeiere kreves ti
 
 Tilbydere som deltar i sonenøkkelsystem, skal dekke kostnadene til etablering, utvikling og daglig drift av sonenøkkelsystemet forholdsmessig mellom seg. Tilbyder som er ansvarlig for omkoding eller utskifting av nøkkelsylinder i en sone, skal bære kostnadene for dette. Når ansvaret ikke kan fastslås, skal kostnadene fordeles forholdsmessig mellom tilbyderne i sonen som deltar i sonenøkkelsystemet.
 
-Myndigheten kan gi forskrift og fatte enkeltvedtak om organisering og drift av felles sonenøkkelsystem, om tilgangen til sonenøkkelsystem og om krav til tilbydere som gis tilgang til slike system, herunder om:samarbeid, drift, sikkerhet, interne rutiner og kontrollsystemerfinansiering av felles sonenøkkelforvaltning på system- og sonenivå, fordeling av kostnader mellom tilbydere, herunder for å tre inn og ut av systemet, og soliditet og sikkerhetsstillelseendring og oppgraderingovergang til elektroniske adgangssystemer, herunder tilrettelegging av sonenøkkelsystemetetablering av tillatelsesordninger for tilgang til sonenøkkelsystemrapporteringsordningeransvar og ansvarsbegrensning
+Myndigheten kan gi forskrift og fatte enkeltvedtak om organisering og drift av felles sonenøkkelsystem, om tilgangen til sonenøkkelsystem og om krav til tilbydere som gis tilgang til slike system, herunder om:
+
+1. samarbeid, drift, sikkerhet, interne rutiner og kontrollsystemer
+2. finansiering av felles sonenøkkelforvaltning på system- og sonenivå, fordeling av kostnader mellom tilbydere, herunder for å tre inn og ut av systemet, og soliditet og sikkerhetsstillelse
+3. endring og oppgradering
+4. overgang til elektroniske adgangssystemer, herunder tilrettelegging av sonenøkkelsystemet
+5. etablering av tillatelsesordninger for tilgang til sonenøkkelsystem
+6. rapporteringsordninger
+7. ansvar og ansvarsbegrensning
 
 Myndigheten kan også gi forskrift og fatte enkeltvedtak om tilgang til nøkler og andre adgangsmekanismer som åpner postkasseanlegg som ikke er tilgjengelige for allmennheten, men som ikke er en del av sonenøkkelsystemer.
 
@@ -417,7 +454,13 @@ Myndigheten kan gi forskrift om omfang, innhold, rapportering og organisering av
 
 ### § 41. Klage til myndigheten
 
-Nasjonal kommunikasjonsmyndighet skal behandle klagerfra brukere i tvister om posttjeneste med unntak av klager fra forbrukere der saken har sitt grunnlag i kjøpsavtale og derfor behandles av forbrukermyndigheten, saker om postkasseplassering og klager som er åpenbart useriøse eller grunnløse,i tvister mellom registrerte tilbydere av posttjeneste,i tvister mellom eier av postboksanlegg etter [§ 33 a](lov/2015-09-04-91/§33a) og tilbyder av posttjeneste,fra registrerte tilbydere på avgjørelse etter [§ 35 a](lov/2015-09-04-91/§35a),fra gårdeiere og postkasseeiere om misbruk av sonenøkler etter behandling etter [§ 39](lov/2015-09-04-91/§39) annet ledd.
+Nasjonal kommunikasjonsmyndighet skal behandle klager
+
+1. fra brukere i tvister om posttjeneste med unntak av klager fra forbrukere der saken har sitt grunnlag i kjøpsavtale og derfor behandles av forbrukermyndigheten, saker om postkasseplassering og klager som er åpenbart useriøse eller grunnløse,
+2. i tvister mellom registrerte tilbydere av posttjeneste,
+3. i tvister mellom eier av postboksanlegg etter [§ 33 a](lov/2015-09-04-91/§33a) og tilbyder av posttjeneste,
+4. fra registrerte tilbydere på avgjørelse etter [§ 35 a](lov/2015-09-04-91/§35a),
+5. fra gårdeiere og postkasseeiere om misbruk av sonenøkler etter behandling etter [§ 39](lov/2015-09-04-91/§39) annet ledd.
 
 Før klageadgangen etter første ledd nr. 1 og nr. 5 kan benyttes, må klageren rette klagen til tilbyderen etter [§ 39](lov/2015-09-04-91/§39).
 
@@ -483,7 +526,12 @@ Myndigheten kan gi forskrift og fatte enkeltvedtak om etablering av interne kont
 
 ### § 49. Overtredelsesgebyr
 
-Myndigheten kan ilegge en fysisk person eller et foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt:overtrer [§§ 7](lov/2015-09-04-91/§7), [13](lov/2015-09-04-91/§13), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [23](lov/2015-09-04-91/§23), [26](lov/2015-09-04-91/§26), [30](lov/2015-09-04-91/§30), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [43](lov/2015-09-04-91/§43) eller [44](lov/2015-09-04-91/§44)overtrer forskrift gitt med hjemmel [§§ 5 a](lov/2015-09-04-91/§5a), [7](lov/2015-09-04-91/§7), [9](lov/2015-09-04-91/§9), [10](lov/2015-09-04-91/§10), [12](lov/2015-09-04-91/§12), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [21](lov/2015-09-04-91/§21), [23](lov/2015-09-04-91/§23), [24](lov/2015-09-04-91/§24), [25](lov/2015-09-04-91/§25), [26](lov/2015-09-04-91/§26), [27](lov/2015-09-04-91/§27), [28](lov/2015-09-04-91/§28), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [42](lov/2015-09-04-91/§42) eller [44](lov/2015-09-04-91/§44)unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i [§§ 7](lov/2015-09-04-91/§7), [10](lov/2015-09-04-91/§10), [16](lov/2015-09-04-91/§16), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [23](lov/2015-09-04-91/§23), [26](lov/2015-09-04-91/§26), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [42](lov/2015-09-04-91/§42), [44](lov/2015-09-04-91/§44), [46](lov/2015-09-04-91/§46) eller [48](lov/2015-09-04-91/§48)gir uriktige eller ufullstendige opplysninger til myndigheten.
+Myndigheten kan ilegge en fysisk person eller et foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt:
+
+1. overtrer [§§ 7](lov/2015-09-04-91/§7), [13](lov/2015-09-04-91/§13), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [23](lov/2015-09-04-91/§23), [26](lov/2015-09-04-91/§26), [30](lov/2015-09-04-91/§30), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [43](lov/2015-09-04-91/§43) eller [44](lov/2015-09-04-91/§44)
+2. overtrer forskrift gitt med hjemmel [§§ 5 a](lov/2015-09-04-91/§5a), [7](lov/2015-09-04-91/§7), [9](lov/2015-09-04-91/§9), [10](lov/2015-09-04-91/§10), [12](lov/2015-09-04-91/§12), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [21](lov/2015-09-04-91/§21), [23](lov/2015-09-04-91/§23), [24](lov/2015-09-04-91/§24), [25](lov/2015-09-04-91/§25), [26](lov/2015-09-04-91/§26), [27](lov/2015-09-04-91/§27), [28](lov/2015-09-04-91/§28), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [42](lov/2015-09-04-91/§42) eller [44](lov/2015-09-04-91/§44)
+3. unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i [§§ 7](lov/2015-09-04-91/§7), [10](lov/2015-09-04-91/§10), [16](lov/2015-09-04-91/§16), [17](lov/2015-09-04-91/§17), [18](lov/2015-09-04-91/§18), [23](lov/2015-09-04-91/§23), [26](lov/2015-09-04-91/§26), [32](lov/2015-09-04-91/§32), [33](lov/2015-09-04-91/§33), [33 a](lov/2015-09-04-91/§33a), [34](lov/2015-09-04-91/§34), [42](lov/2015-09-04-91/§42), [44](lov/2015-09-04-91/§44), [46](lov/2015-09-04-91/§46) eller [48](lov/2015-09-04-91/§48)
+4. gir uriktige eller ufullstendige opplysninger til myndigheten.
 
 Ved fastsettelse av overtredelsesgebyrets størrelse skal det særlig legges vekt på overtredelsens grovhet og varighet, utvist skyld og foretakets omsetning.
 
@@ -505,7 +553,12 @@ Myndigheten kan gi forskrift om ileggelse av, størrelse, utmåling og frafall a
 
 ### § 51. Straff
 
-Med bøter eller fengsel inntil seks måneder straffes den som forsettlig eller uaktsomt:overtrer [§§ 18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [23](lov/2015-09-04-91/§23), [32](lov/2015-09-04-91/§32), [37](lov/2015-09-04-91/§37), [43](lov/2015-09-04-91/§43), [44](lov/2015-09-04-91/§44) eller [46](lov/2015-09-04-91/§46)overtrer forskrift gitt med hjemmel i [§§ 5 a](lov/2015-09-04-91/§5a), [20](lov/2015-09-04-91/§20), [21](lov/2015-09-04-91/§21), [33](lov/2015-09-04-91/§33) eller [44](lov/2015-09-04-91/§44)unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i [§§ 33](lov/2015-09-04-91/§33), [44](lov/2015-09-04-91/§44) eller [46](lov/2015-09-04-91/§46)gir uriktige eller ufullstendige opplysninger til myndigheten, jf. [§ 44](lov/2015-09-04-91/§44).
+Med bøter eller fengsel inntil seks måneder straffes den som forsettlig eller uaktsomt:
+
+1. overtrer [§§ 18](lov/2015-09-04-91/§18), [20](lov/2015-09-04-91/§20), [23](lov/2015-09-04-91/§23), [32](lov/2015-09-04-91/§32), [37](lov/2015-09-04-91/§37), [43](lov/2015-09-04-91/§43), [44](lov/2015-09-04-91/§44) eller [46](lov/2015-09-04-91/§46)
+2. overtrer forskrift gitt med hjemmel i [§§ 5 a](lov/2015-09-04-91/§5a), [20](lov/2015-09-04-91/§20), [21](lov/2015-09-04-91/§21), [33](lov/2015-09-04-91/§33) eller [44](lov/2015-09-04-91/§44)
+3. unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i [§§ 33](lov/2015-09-04-91/§33), [44](lov/2015-09-04-91/§44) eller [46](lov/2015-09-04-91/§46)
+4. gir uriktige eller ufullstendige opplysninger til myndigheten, jf. [§ 44](lov/2015-09-04-91/§44).
 
 > Endret ved lover [9 juni 2017 nr. 41](lov/2017-06-09-41) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 720](forskrift/2017-06-09-720)), [16 juni 2023 nr. 76](lov/2023-06-16-76).
 

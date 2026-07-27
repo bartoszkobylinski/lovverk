@@ -36,33 +36,48 @@ Endringen av [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjelove
 
 Søknader om dispensasjon etter [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) som er kommet inn til departementet før ikrafttredelse av endringen av [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77), behandles av departementet etter de tidligere reglene i [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og forskrift fastsatt i medhold av bestemmelsen.
 
-For søknader som nevnt i første ledd, er dispensasjon etter tidligere [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) femte ledd ikke nødvendig dersom:[aksjeloven § 8-10](lov/1997-06-13-44/§8-10) første, tredje og fjerde ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) er oppfylt, ogsaksbehandlingsreglene i tidligere [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) annet til fjerde ledd er fulgt.
+For søknader som nevnt i første ledd, er dispensasjon etter tidligere [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) femte ledd ikke nødvendig dersom:
+
+1. [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) første, tredje og fjerde ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) er oppfylt, og
+2. saksbehandlingsreglene i tidligere [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) annet til fjerde ledd er fulgt.
 
 ## Kapittel 2. Overgangsregler for bruk av mellombalanser mv.
 
 ### § 4
 
-Inntil endringen av [aksjeloven § 3-8](lov/1997-06-13-44/§3-8) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Terskelverdien etter [aksjeloven § 3-8](lov/1997-06-13-44/§3-8) første ledd første punktum kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen styret godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
+Inntil endringen av [aksjeloven § 3-8](lov/1997-06-13-44/§3-8) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Terskelverdien etter [aksjeloven § 3-8](lov/1997-06-13-44/§3-8) første ledd første punktum kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen styret godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
 
 ### § 5
 
-Inntil endringen av [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Beregningen av det beløp som kan ytes etter [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen generalforsamlingen godkjenner styrets vedtak om finansiell bistand.
+Inntil endringen av [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Beregningen av det beløp som kan ytes etter [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen generalforsamlingen godkjenner styrets vedtak om finansiell bistand.
 
 ### § 6
 
-Inntil endringen av [allmennaksjeloven § 3-8](lov/1997-06-13-45/§3-8) tredje ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Terskelverdien etter [allmennaksjeloven § 3-8](lov/1997-06-13-45/§3-8) annet ledd første punktum kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen styret godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
+Inntil endringen av [allmennaksjeloven § 3-8](lov/1997-06-13-45/§3-8) tredje ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Terskelverdien etter [allmennaksjeloven § 3-8](lov/1997-06-13-45/§3-8) annet ledd første punktum kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen styret godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
 
 ### § 7
 
-Inntil [allmennaksjeloven § 3-11](lov/1997-06-13-45/§3-11) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Terskelverdien etter [allmennaksjeloven § 3-11](lov/1997-06-13-45/§3-11) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen generalforsamlingen godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
+Inntil [allmennaksjeloven § 3-11](lov/1997-06-13-45/§3-11) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Terskelverdien etter [allmennaksjeloven § 3-11](lov/1997-06-13-45/§3-11) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen generalforsamlingen godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
 
 ### § 8
 
-Inntil [allmennaksjeloven § 3-19](lov/1997-06-13-45/§3-19) annet ledd annet og tredje punktum ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Terskelverdien etter [allmennaksjeloven § 3-19](lov/1997-06-13-45/§3-19) annet ledd første punktum kan bygge på en mellombalanse som morselskapet har fått utarbeidet og revidert etter reglene for årsregnskap og som er godkjent av generalforsamlingen i morselskapet. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen avtalen er godkjent i datterselskapet. Har morselskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som morselskapet har utstedt.
+Inntil [allmennaksjeloven § 3-19](lov/1997-06-13-45/§3-19) annet ledd annet og tredje punktum ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Terskelverdien etter [allmennaksjeloven § 3-19](lov/1997-06-13-45/§3-19) annet ledd første punktum kan bygge på en mellombalanse som morselskapet har fått utarbeidet og revidert etter reglene for årsregnskap og som er godkjent av generalforsamlingen i morselskapet. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen avtalen er godkjent i datterselskapet. Har morselskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som morselskapet har utstedt.
 
 ### § 9
 
-Inntil endringen av [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:Beregningen av det beløp som kan ytes etter [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake lenger i tid enn seks måneder før dagen generalforsamlingen godkjenner styrets vedtak om finansiell bistand.
+Inntil endringen av [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) annet ledd ved [lov 6. desember 2019 nr. 77](lov/2019-12-06-77) trer i kraft, gjelder følgende:
+
+Beregningen av det beløp som kan ytes etter [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake lenger i tid enn seks måneder før dagen generalforsamlingen godkjenner styrets vedtak om finansiell bistand.
 
 ## Kapittel 3. Ikrafttredelse
 

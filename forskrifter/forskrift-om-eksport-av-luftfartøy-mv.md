@@ -34,7 +34,12 @@ Luftfartstilsynet behandler søknad om eksportluftdyktighetsbevis for luftfartø
 
 I søknaden skal det oppgis hvordan luftfartøyet skal transporteres til importlandet. Ved overføringsflyging skal det oppgis om flygingen skal skje med norsk eller utenlandsk registreringsmerke.
 
-Søknad om luftdyktighetsbevis for luftfartøy skal ha vedlagtførste side av flygehåndbokamasse- og balansedokumentvedlikeholdsrapport som ikke er eldre enn 30 dageroversikt over gjeldende luftdyktighetspåbud, modifikasjoner og reparasjoner samt når de er utført.
+Søknad om luftdyktighetsbevis for luftfartøy skal ha vedlagt
+
+1. første side av flygehåndboka
+2. masse- og balansedokument
+3. vedlikeholdsrapport som ikke er eldre enn 30 dager
+4. oversikt over gjeldende luftdyktighetspåbud, modifikasjoner og reparasjoner samt når de er utført.
 
 Luftfartstilsynet kan kreve ytterligere dokumentasjon.
 
@@ -62,7 +67,11 @@ Dersom det i luftfartøyet installeres spesielt utstyr for overføringsflygingen
 
 ## § 7. Tilbakekall av eksportluftdyktighetsbevis
 
-Luftfartstilsynet kan endre og om nødvendig kalle tilbake eksportluftdyktighetsbevis dersomeier av luftfartøyet overtrer bestemmelsene i denne forskrift,eier av luftfartøyet gir uriktige opplysninger eller tilbakeholder opplysninger til Luftfartstilsynet,det ellers følger av regler om omgjøring.
+Luftfartstilsynet kan endre og om nødvendig kalle tilbake eksportluftdyktighetsbevis dersom
+
+1. eier av luftfartøyet overtrer bestemmelsene i denne forskrift,
+2. eier av luftfartøyet gir uriktige opplysninger eller tilbakeholder opplysninger til Luftfartstilsynet,
+3. det ellers følger av regler om omgjøring.
 
 ## § 8. Eksport uten eksportluftdyktighetsbevis
 

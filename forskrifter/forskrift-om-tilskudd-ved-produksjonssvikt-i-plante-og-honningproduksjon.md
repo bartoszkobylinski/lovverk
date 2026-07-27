@@ -30,7 +30,12 @@ Formålet med forskriften er å redusere økonomiske tap som oppstår ved produk
 
 ## § 2. Vilkår
 
-Tilskudd etter denne forskriften kan gis til foretak somhar hatt svikt i plante- eller honningproduksjonen forårsaket av klimatiske forhold,på skadetidspunktet oppfyller vilkårene for å kunne motta produksjonstilskudd etter [forskrift 19. desember 2014 nr. 1817](forskrift/2014-12-19-1817) om produksjonstilskudd og avløsertilskudd i jordbruket,ikke kan få dekket tapet gjennom en allment tilgjengelig forsikringsordning eller på annen måte, oguten ugrunnet opphold har gitt melding til kommunen om at skade har oppstått, eller vil kunne oppstå.
+Tilskudd etter denne forskriften kan gis til foretak som
+
+1. har hatt svikt i plante- eller honningproduksjonen forårsaket av klimatiske forhold,
+2. på skadetidspunktet oppfyller vilkårene for å kunne motta produksjonstilskudd etter [forskrift 19. desember 2014 nr. 1817](forskrift/2014-12-19-1817) om produksjonstilskudd og avløsertilskudd i jordbruket,
+3. ikke kan få dekket tapet gjennom en allment tilgjengelig forsikringsordning eller på annen måte, og
+4. uten ugrunnet opphold har gitt melding til kommunen om at skade har oppstått, eller vil kunne oppstå.
 
 > Endret ved [forskrifter 19 des 2014 nr. 1817](forskrift/2014-12-19-1817) (i kraft 1 jan 2015), [15 jan 2016 nr. 28](forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](forskrift/2022-09-21-1622).
 
@@ -44,7 +49,10 @@ Vilkårene i [§ 2](forskrift/2012-01-17-56/§2) nr. 2 t.o.m. nr. 4 gjelder tils
 
 ## § 3. Tilskudd
 
-Tilskudd kan gis forsvikt i avling på rot av mat- og fôrvekster i forhold til gjennomsnittsavling i vekstgruppen, ogsvikt i honningmengde i forhold til gjennomsnittsproduksjon i kg per bikube i produksjon.
+Tilskudd kan gis for
+
+1. svikt i avling på rot av mat- og fôrvekster i forhold til gjennomsnittsavling i vekstgruppen, og
+2. svikt i honningmengde i forhold til gjennomsnittsproduksjon i kg per bikube i produksjon.
 
 I vekstsesongen 2023 kan det gis tilskudd for korn som blir avvist av kornmottak eller resulterer i et nulloppgjør.
 
@@ -64,7 +72,10 @@ Krav på tilskudd kan ikke overdras eller pantsettes.
 
 ## § 6. Egenrisiko, minsteutbetaling og toppavgrensning
 
-Tilskudd etter [§ 3](forskrift/2012-01-17-56/§3) kan bare gis for produksjonssvikt ut over 30 prosent avgjennomsnittsproduksjon per vekstgruppe ved avlingssvikt i planteproduksjon, oggjennomsnittsproduksjon ved svikt i honningproduksjon.
+Tilskudd etter [§ 3](forskrift/2012-01-17-56/§3) kan bare gis for produksjonssvikt ut over 30 prosent av
+
+1. gjennomsnittsproduksjon per vekstgruppe ved avlingssvikt i planteproduksjon, og
+2. gjennomsnittsproduksjon ved svikt i honningproduksjon.
 
 For vekstgruppene grovfôr og korn og annet frø til modning utbetales ikke beregnet tilskudd ut over 900 000 kroner per vekstgruppe. For vekstgruppene frukt, bær, grønnsaker og poteter utbetales ikke beregnet tilskudd ut over 1 800 000 kroner per vekstgruppe. For honningproduksjon utbetales ikke beregnet tilskudd ut over 900 000 kr. For skadeåret 2023 kan det likevel utbetales inntil 1 800 000 kroner i tilskudd innenfor hver enkelt av vekstgruppene grovfôr og korn og annet frø til modning.
 
@@ -90,7 +101,11 @@ Statsforvalteren og Landbruksdirektoratet kan rette feil i utbetalt tilskudd, en
 
 ## § 9. Avkorting
 
-Hele eller deler av tilskuddet kan avkortes dersom foretaketikke har drevet på en faglig forsvarlig måte og har gjort det som normalt kan forventes for å forebygge tap, elleri henhold til forvaltningsvedtak eller dom driver eller har drevet sin virksomhet i strid med regelverk for jord- og hagebruksvirksomhet eller birøkt, og det er utvist uaktsomhet eller forsett, elleruaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet.
+Hele eller deler av tilskuddet kan avkortes dersom foretaket
+
+1. ikke har drevet på en faglig forsvarlig måte og har gjort det som normalt kan forventes for å forebygge tap, eller
+2. i henhold til forvaltningsvedtak eller dom driver eller har drevet sin virksomhet i strid med regelverk for jord- og hagebruksvirksomhet eller birøkt, og det er utvist uaktsomhet eller forsett, eller
+3. uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet.
 
 > Endret ved [forskrifter 15 jan 2016 nr. 28](forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](forskrift/2022-09-21-1622).
 

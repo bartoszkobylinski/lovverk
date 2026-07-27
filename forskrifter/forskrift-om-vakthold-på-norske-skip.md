@@ -15,7 +15,7 @@ xml_hash: "68ac0a63bd1942980a3c7439e846f5975d4257188d348014590e8f68f2dd677d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,7 +110,11 @@ Skipets fører og enhver som deltar i brovaktholdet skal nøye overholde bestemm
 
 2.1.
 
-De forskjellige brovaktfunksjoner består bl.a. av:navigering, manøvrering og kommunikasjon,styring, ogutkikk.
+De forskjellige brovaktfunksjoner består bl.a. av:
+
+- navigering, manøvrering og kommunikasjon,
+- styring, og
+- utkikk.
 
 2.2.
 
@@ -128,7 +132,14 @@ På skip som både benytter godkjent selvstyreranlegg og godkjent purre- og kall
 
 4.2.
 
-Når det forekommer:tåke eller nedsatt sikt, ellertrangt eller urent farvann, ellersterk trafikk, ellerandre spesielle farer,skal det på ethvert skip enten skiftes til manuell styring eller være vedvarende overvåking av kurs og kontroll av skipets selvstyring.
+Når det forekommer:
+
+- tåke eller nedsatt sikt, eller
+- trangt eller urent farvann, eller
+- sterk trafikk, eller
+- andre spesielle farer,
+
+skal det på ethvert skip enten skiftes til manuell styring eller være vedvarende overvåking av kurs og kontroll av skipets selvstyring.
 
 I slike tilfeller skal et kvalifisert besetningsmedlem styre skipet eller overvåke kursen på selvstyreanlegget. Når skipets fører har overtatt kommandoen kan denne beordre vakthavende offiser til å utføre oppgavene, jfr. Vedlegg A, kapittel I nr. 8.1.2.
 
@@ -314,7 +325,13 @@ situasjonen er blitt nøye vurdert og det er godtgjort at dette utvilsomt er for
 
 9.2.2.
 
-alle relevante forhold fullt ut er tatt i betraktning, innbefattet, men ikke begrenset til:værforholdsikttrafikktetthetnærhet av farer for navigeringenden oppmerksomhet som er påkrevet ved navigering i eller i nærheten av trafikkseparasjonssystemer;
+alle relevante forhold fullt ut er tatt i betraktning, innbefattet, men ikke begrenset til:
+
+- værforhold
+- sikt
+- trafikktetthet
+- nærhet av farer for navigeringen
+- den oppmerksomhet som er påkrevet ved navigering i eller i nærheten av trafikkseparasjonssystemer;
 
 9.2.3.
 
@@ -426,7 +443,9 @@ forhold og farer som rimeligvis kan påtreffes i løpet av vakten;
 
 7.4.5.
 
-mulige virkninger av krengning, trim, vannets saltholdighet og «squat»1 på klaring under kjølen.1 «Squat»: Den minskning av klaringen under kjølen som oppstår når skipet beveger seg gjennom vannet, og som er forårsaket av så vel skrogets nedsynkning som trimforandring. Virkningen blir forsterket i grunne farvann og reduseres med avtagende fart.
+mulige virkninger av krengning, trim, vannets saltholdighet og «squat»1 på klaring under kjølen.
+
+1 «Squat»: Den minskning av klaringen under kjølen som oppstår når skipet beveger seg gjennom vannet, og som er forårsaket av så vel skrogets nedsynkning som trimforandring. Virkningen blir forsterket i grunne farvann og reduseres med avtagende fart.
 
 8\.
 
@@ -648,7 +667,9 @@ ta forholdsregler for å beskytte miljøet mot forurensning fra skipet og følge
 
 1\.
 
-Denne rekommandasjon gjelder for et skip som er sikkert fortøyd eller sikkert oppankret under normale forhold i havn. For skip på utsatt ankerplass må henvisning skje til de ytterligere forsiktighetsregler som finnes i kapittel I:«Grunnprinsipper som skal iakttas ved vakthold på broen» og i [kapittel IV](forskrift/1987-06-30-580/kapiv) «Rekommandasjon om driftsveiledning for ansvarshavende vaktoffiser på broen.» Særkrav kan være nødvendig for spesielle typer skip eller last.
+Denne rekommandasjon gjelder for et skip som er sikkert fortøyd eller sikkert oppankret under normale forhold i havn. For skip på utsatt ankerplass må henvisning skje til de ytterligere forsiktighetsregler som finnes i kapittel I:
+
+- «Grunnprinsipper som skal iakttas ved vakthold på broen» og i [kapittel IV](forskrift/1987-06-30-580/kapiv) «Rekommandasjon om driftsveiledning for ansvarshavende vaktoffiser på broen.» Særkrav kan være nødvendig for spesielle typer skip eller last.
 
 2\.
 

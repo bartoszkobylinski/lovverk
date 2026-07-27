@@ -50,63 +50,138 @@ Kandidaten kan ha oppgaver som omfatter undervisning og veiledning av pasienter 
 
 ### § 3. Kompetanseområder
 
-Masterutdanning i avansert klinisk allmennsykepleie skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1454/kap2) til [5](forskrift/2025-07-04-1454/kap5) under følgende kompetanseområder:Klinisk vurderings-, beslutnings- og handlingskompetanseHelsekompetanse, pasientopplæring og veiledningFaglig ledelse og koordineringKunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon.
+Masterutdanning i avansert klinisk allmennsykepleie skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1454/kap2) til [5](forskrift/2025-07-04-1454/kap5) under følgende kompetanseområder:
+
+- Klinisk vurderings-, beslutnings- og handlingskompetanse
+- Helsekompetanse, pasientopplæring og veiledning
+- Faglig ledelse og koordinering
+- Kunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet klinisk vurderings-, beslutnings- og handlingskompetanse
 
 ### § 4. Klinisk vurderings-, beslutnings- og handlingskompetanse – Kunnskap
 
-Kandidatenhar bred kunnskap om anatomi, fysiologi, patofysiologi og mikrobiologihar bred kunnskap om smittestoffer, smitterisiko, antibiotikabruk, resistensutvikling og infeksjonsforebyggende tiltakhar inngående kunnskap om de vanligste akutte og kroniske sykdommer og helseproblemer hos pasienter i kommunale helse- og omsorgstjenesterhar bred kunnskap om farmakologi, legemiddelbehandling og legemiddelhåndtering, inklusive bivirkninger, legemiddelinteraksjoner og systematisk legemiddelgjennomganghar bred kunnskap om hvordan, aktuell livssituasjon, livsstil og sosioøkonomiske forhold og språklig og kulturell bakgrunn påvirker helse, sykdom, behandling og sykepleiehar bred kunnskap om systematiske kliniske undersøkelsesmetoder og standardiserte vurderingsverktøy av relevans for yrkesutøvelsenhar inngående kunnskap om overganger i pasientforløpet og hvordan disse kan sikres på en god måtehar inngående kunnskap om forebyggende og rehabiliterende sykepleietiltakhar inngående kunnskap om sykepleiefaglig palliasjon ved livsforkortende sykdom gjennom hele sykdomsforløpet.
+Kandidaten
+
+1. har bred kunnskap om anatomi, fysiologi, patofysiologi og mikrobiologi
+2. har bred kunnskap om smittestoffer, smitterisiko, antibiotikabruk, resistensutvikling og infeksjonsforebyggende tiltak
+3. har inngående kunnskap om de vanligste akutte og kroniske sykdommer og helseproblemer hos pasienter i kommunale helse- og omsorgstjenester
+4. har bred kunnskap om farmakologi, legemiddelbehandling og legemiddelhåndtering, inklusive bivirkninger, legemiddelinteraksjoner og systematisk legemiddelgjennomgang
+5. har bred kunnskap om hvordan, aktuell livssituasjon, livsstil og sosioøkonomiske forhold og språklig og kulturell bakgrunn påvirker helse, sykdom, behandling og sykepleie
+6. har bred kunnskap om systematiske kliniske undersøkelsesmetoder og standardiserte vurderingsverktøy av relevans for yrkesutøvelsen
+7. har inngående kunnskap om overganger i pasientforløpet og hvordan disse kan sikres på en god måte
+8. har inngående kunnskap om forebyggende og rehabiliterende sykepleietiltak
+9. har inngående kunnskap om sykepleiefaglig palliasjon ved livsforkortende sykdom gjennom hele sykdomsforløpet.
 
 ### § 5. Klinisk vurderings-, beslutnings- og handlingskompetanse – Ferdigheter
 
-Kandidatenkan gjennomføre systematiske og sykepleiefaglige relevante undersøkelser og vurdere helsetilstanden til pasienterkan identifisere, vurdere og analysere tegn til endring i pasientens helsetilstand og gjøre kvalifiserte vurderinger, føre faglige resonnement i bedømmingen av helsetilstanden og iverksette relevante sykepleiefaglige tiltakkan analysere sammensatte og komplekse pasientsituasjoner for å kunne planlegge og gjennomføre helhetlig sykepleie, sikre nødvendig helsehjelp og foreslå oppfølgingstiltak i samarbeid med andre faggrupperkan analysere og forholde seg kritisk til kulturkompetanse og kulturforståelse som begreper i vurdering, planlegging, gjennomføring og evaluering av sykepleiekan håndtere akutte helsesituasjoner på en sikker og trygg måte i samarbeid med andre profesjoner og tjenester.
+Kandidaten
+
+1. kan gjennomføre systematiske og sykepleiefaglige relevante undersøkelser og vurdere helsetilstanden til pasienter
+2. kan identifisere, vurdere og analysere tegn til endring i pasientens helsetilstand og gjøre kvalifiserte vurderinger, føre faglige resonnement i bedømmingen av helsetilstanden og iverksette relevante sykepleiefaglige tiltak
+3. kan analysere sammensatte og komplekse pasientsituasjoner for å kunne planlegge og gjennomføre helhetlig sykepleie, sikre nødvendig helsehjelp og foreslå oppfølgingstiltak i samarbeid med andre faggrupper
+4. kan analysere og forholde seg kritisk til kulturkompetanse og kulturforståelse som begreper i vurdering, planlegging, gjennomføring og evaluering av sykepleie
+5. kan håndtere akutte helsesituasjoner på en sikker og trygg måte i samarbeid med andre profesjoner og tjenester.
 
 ### § 6. Klinisk vurderings-, beslutnings- og handlingskompetanse – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter som kreves til yrkesrollen som avansert klinisk allmennsykepleier, og beslutte og gjennomføre sykepleietiltak, samt kunne iverksette tiltak i samarbeid med andre og følge opp etter at diagnostikk og behandling er fastsattkan innhente spesialisert kunnskap fra relevante fagområder og tilpasse og anvende kunnskapen i utøvelsen av yrkesrollen.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter som kreves til yrkesrollen som avansert klinisk allmennsykepleier, og beslutte og gjennomføre sykepleietiltak, samt kunne iverksette tiltak i samarbeid med andre og følge opp etter at diagnostikk og behandling er fastsatt
+2. kan innhente spesialisert kunnskap fra relevante fagområder og tilpasse og anvende kunnskapen i utøvelsen av yrkesrollen.
 
 ## Kapittel 3. Helsekompetanse, pasientopplæring og veiledning
 
 ### § 7. Helsekompetanse, pasientopplæring og veiledning – Kunnskap
 
-Kandidatenhar kunnskap om pasienters, brukeres og pårørendes vanlige reaksjoner og behov ved sykdom i et alders-, kjønns-, sosialt- og flerkulturelt perspektivhar inngående kunnskap om inkludering, likestilling og ikke-diskriminering, for å bidra til likeverdige helse- og omsorgstjenester for alle grupper i samfunnet, inklusive nasjonale minoriteter og samers rettigheter som urfolkhar kunnskap om helsepedagogikk, inklusive hvordan kartlegge og aktivere helseressurser hos brukere, pasienter og pårørende, og inngående kunnskap om effektive mestringsstøttende tiltakhar inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomsforståelse, sykdomshåndtering, mestring og egenomsorg.
+Kandidaten
+
+1. har kunnskap om pasienters, brukeres og pårørendes vanlige reaksjoner og behov ved sykdom i et alders-, kjønns-, sosialt- og flerkulturelt perspektiv
+2. har inngående kunnskap om inkludering, likestilling og ikke-diskriminering, for å bidra til likeverdige helse- og omsorgstjenester for alle grupper i samfunnet, inklusive nasjonale minoriteter og samers rettigheter som urfolk
+3. har kunnskap om helsepedagogikk, inklusive hvordan kartlegge og aktivere helseressurser hos brukere, pasienter og pårørende, og inngående kunnskap om effektive mestringsstøttende tiltak
+4. har inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomsforståelse, sykdomshåndtering, mestring og egenomsorg.
 
 ### § 8. Helsekompetanse, pasientopplæring og veiledning – Ferdigheter
 
-Kandidatenkan bruke kartleggingsverktøy for å vurdere ressurser, helsekompetanse og grad av psykisk, fysisk og sosial mestringkan analysere pasienters, levevaner, ressurser, mestringsevne og sosiale situasjon i lys av blant annet deres språklige og kulturelle bakgrunn, og iverksette tiltak for å kunne fremme helse og forebygge eller begrense helsesvikt.
+Kandidaten
+
+1. kan bruke kartleggingsverktøy for å vurdere ressurser, helsekompetanse og grad av psykisk, fysisk og sosial mestring
+2. kan analysere pasienters, levevaner, ressurser, mestringsevne og sosiale situasjon i lys av blant annet deres språklige og kulturelle bakgrunn, og iverksette tiltak for å kunne fremme helse og forebygge eller begrense helsesvikt.
 
 ### § 9. Helsekompetanse, pasientopplæring og veiledning – Generell kompetanse
 
-Kandidatenkan anvende kommunikasjons- og samhandlingsmetoder for å sikre at pasienter, brukere og pårørendes medbestemmelse og autonomi ivaretas i alle leddkan anvende kunnskapsbaserte og helsepedagogiske metoder for å undervise og veilede pasienter, brukere og pårørende, tilpasset deres helsekompetanse, for å støtte pasientene i å ta velinformerte beslutninger og fremme mestring, funksjon og livskvalitetkan anvende sine kunnskaper om hvordan diagnose og behandling kan påvirke seksualitet, fysisk og psykisk, og veilede pasienter og pårørende om dette.
+Kandidaten
+
+1. kan anvende kommunikasjons- og samhandlingsmetoder for å sikre at pasienter, brukere og pårørendes medbestemmelse og autonomi ivaretas i alle ledd
+2. kan anvende kunnskapsbaserte og helsepedagogiske metoder for å undervise og veilede pasienter, brukere og pårørende, tilpasset deres helsekompetanse, for å støtte pasientene i å ta velinformerte beslutninger og fremme mestring, funksjon og livskvalitet
+3. kan anvende sine kunnskaper om hvordan diagnose og behandling kan påvirke seksualitet, fysisk og psykisk, og veilede pasienter og pårørende om dette.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet faglig ledelse og koordinering
 
 ### § 10. Faglig ledelse og koordinering – Kunnskap
 
-Kandidatenhar inngående kunnskap om helse- og omsorgstjenestens oppbygning, organisering, rammer og styring, og om relevant lovverkhar inngående kunnskap til hva som kjennetegner helhetlige pasientforløp og risikofylte overgangerhar inngående kunnskap om samhandling, tverrsektorielt samarbeid og tjenestekoordinering som er relevant for yrkesutøvelsenhar avansert kunnskap om pasientsikkerhet, deriblant kunnskap om samers rett til språklig og kulturelt tilrettelagte tjenesterhar avansert kunnskap om faglig ledelse og veiledning som er relevant for yrkesutøvelsenkan analysere faglige problemstillinger med utgangspunkt i fagområdets kunnskapsgrunnlag, historie, tradisjon, rolle og funksjon i samfunnet.
+Kandidaten
+
+1. har inngående kunnskap om helse- og omsorgstjenestens oppbygning, organisering, rammer og styring, og om relevant lovverk
+2. har inngående kunnskap til hva som kjennetegner helhetlige pasientforløp og risikofylte overganger
+3. har inngående kunnskap om samhandling, tverrsektorielt samarbeid og tjenestekoordinering som er relevant for yrkesutøvelsen
+4. har avansert kunnskap om pasientsikkerhet, deriblant kunnskap om samers rett til språklig og kulturelt tilrettelagte tjenester
+5. har avansert kunnskap om faglig ledelse og veiledning som er relevant for yrkesutøvelsen
+6. kan analysere faglige problemstillinger med utgangspunkt i fagområdets kunnskapsgrunnlag, historie, tradisjon, rolle og funksjon i samfunnet.
 
 ### § 11. Faglig ledelse og koordinering – Ferdigheter
 
-Kandidatenkan bruke relevante metoder for involvering i beslutninger som omhandler pasienten, vise forståelse for kompleksiteten i brukermedvirkning og kunne bidra til økt brukermedvirkning i tjenestene, deriblant bidra til samers rett til språklig og kulturelt tilrettelagte tjenesterkan bruke anerkjente pedagogiske prinsipper til å veilede og undervise personell i komplekse pasientsituasjoner.
+Kandidaten
+
+1. kan bruke relevante metoder for involvering i beslutninger som omhandler pasienten, vise forståelse for kompleksiteten i brukermedvirkning og kunne bidra til økt brukermedvirkning i tjenestene, deriblant bidra til samers rett til språklig og kulturelt tilrettelagte tjenester
+2. kan bruke anerkjente pedagogiske prinsipper til å veilede og undervise personell i komplekse pasientsituasjoner.
 
 ### § 12. Faglig ledelse og koordinering – Generell kompetanse
 
-Kandidatenkan kommunisere om faglige problemstillinger med leger, annet helsepersonell og andre faggrupper, for å bidra til forsvarlige og kvalitativt gode helse- og omsorgstjenester til pasientenekan bidra til koordinering og kontinuitet på tvers av tjenester og sektorer for å medvirke til helhetlige pasientforløp og pasientsikkerhetkan bidra til hensiktsmessig involvering av pasienter, brukere, pårørende og sosialt nettverk på individ- og systemnivåkan anvende sine kunnskaper og ferdigheter til å lede og å arbeide effektivt i team, ha god forståelse for grensene for egen kompetanse og innsikt i andre profesjoners kompetanse og vite når disse bør involvereskan innhente og anvende kunnskap for å utvikle egen kompetanse og dermed bidra til høy kvalitet på eget klinisk arbeidkan analysere faglige problemstillinger og bidra i diskusjoner om utvikling av yrkesrollen, inklusive veilede studenterkan analysere og anvende relevante etiske teorier og prinsipper i yrkesutøvelsen, inklusive drøfte problemstillinger knyttet til prioritering av helsehjelpkan anvende sine kunnskaper og ferdigheter for å gjennomføre og å begrunne faglig forsvarlige prioriteringer av helsehjelp i lys av nytte, tilgjengelige ressurser og alvorlighet, herunder ta hensyn til helseøkonomiske vurderingerkan kommunisere med leger og annet helsepersonell, spesielt i akutte og ustabile situasjoner, på en måte som ivaretar personvern og pasientsikkerhetkan anvende sine kunnskaper og ferdigheter til å koordinere tjenester, lede tverrfaglige team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser.
+Kandidaten
+
+1. kan kommunisere om faglige problemstillinger med leger, annet helsepersonell og andre faggrupper, for å bidra til forsvarlige og kvalitativt gode helse- og omsorgstjenester til pasientene
+2. kan bidra til koordinering og kontinuitet på tvers av tjenester og sektorer for å medvirke til helhetlige pasientforløp og pasientsikkerhet
+3. kan bidra til hensiktsmessig involvering av pasienter, brukere, pårørende og sosialt nettverk på individ- og systemnivå
+4. kan anvende sine kunnskaper og ferdigheter til å lede og å arbeide effektivt i team, ha god forståelse for grensene for egen kompetanse og innsikt i andre profesjoners kompetanse og vite når disse bør involveres
+5. kan innhente og anvende kunnskap for å utvikle egen kompetanse og dermed bidra til høy kvalitet på eget klinisk arbeid
+6. kan analysere faglige problemstillinger og bidra i diskusjoner om utvikling av yrkesrollen, inklusive veilede studenter
+7. kan analysere og anvende relevante etiske teorier og prinsipper i yrkesutøvelsen, inklusive drøfte problemstillinger knyttet til prioritering av helsehjelp
+8. kan anvende sine kunnskaper og ferdigheter for å gjennomføre og å begrunne faglig forsvarlige prioriteringer av helsehjelp i lys av nytte, tilgjengelige ressurser og alvorlighet, herunder ta hensyn til helseøkonomiske vurderinger
+9. kan kommunisere med leger og annet helsepersonell, spesielt i akutte og ustabile situasjoner, på en måte som ivaretar personvern og pasientsikkerhet
+10. kan anvende sine kunnskaper og ferdigheter til å koordinere tjenester, lede tverrfaglige team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet kunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon
 
 ### § 13. Kunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon – Kunnskap
 
-Kandidatenhar inngående kunnskap om prinsipper for kunnskapsbasert praksis, inklusive metoder for systematisk innhenting, vurdering og implementering av ny kunnskaphar avansert kunnskap om sentrale sykepleievitenskapelige perspektiver som er relevant for å kunne utøve og videreutvikle yrkesrollenhar inngående kunnskap om vitenskapsteori, metode og forskningsetikkhar spesialisert innsikt i et valgt fordypningsområde innenfor avansert klinisk allmennsykepleiehar avansert kunnskap om pasientsikkerhet, faglig ledelse og veiledning i arbeid med tjenesteforbedring og innovasjonsprosesserhar inngående kunnskap om systematisk arbeid med kvalitetsforbedring og forutsetninger for vellykkede endringsprosesserhar bred kunnskap om brukermedvirkning i forskning, utviklings- og forbedringsarbeid.
+Kandidaten
+
+1. har inngående kunnskap om prinsipper for kunnskapsbasert praksis, inklusive metoder for systematisk innhenting, vurdering og implementering av ny kunnskap
+2. har avansert kunnskap om sentrale sykepleievitenskapelige perspektiver som er relevant for å kunne utøve og videreutvikle yrkesrollen
+3. har inngående kunnskap om vitenskapsteori, metode og forskningsetikk
+4. har spesialisert innsikt i et valgt fordypningsområde innenfor avansert klinisk allmennsykepleie
+5. har avansert kunnskap om pasientsikkerhet, faglig ledelse og veiledning i arbeid med tjenesteforbedring og innovasjonsprosesser
+6. har inngående kunnskap om systematisk arbeid med kvalitetsforbedring og forutsetninger for vellykkede endringsprosesser
+7. har bred kunnskap om brukermedvirkning i forskning, utviklings- og forbedringsarbeid.
 
 ### § 14. Kunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon – Ferdigheter
 
-Kandidatenkan analysere kliniske, faglige og etiske problemstillinger innenfor eget fagområdekan analysere relevante teorier, metoder og fortolkninger, og gjennomføre et avgrenset vitenskapelig arbeid i tråd med forskningsetiske retningslinjer under veiledningkan bruke relevante metoder for å innhente, systematisk vurdere og anvende kunnskap i fagutvikling og forbedringsarbeidkan bruke relevante metoder for å vurdere pasientsikkerhet og behov for forbedring av tjenestenekan gjennomføre utviklings- og forbedringsarbeid med utgangspunkt i relevant fag- og forskningskunnskap, brukerkunnskap og erfaringskunnskap.
+Kandidaten
+
+1. kan analysere kliniske, faglige og etiske problemstillinger innenfor eget fagområde
+2. kan analysere relevante teorier, metoder og fortolkninger, og gjennomføre et avgrenset vitenskapelig arbeid i tråd med forskningsetiske retningslinjer under veiledning
+3. kan bruke relevante metoder for å innhente, systematisk vurdere og anvende kunnskap i fagutvikling og forbedringsarbeid
+4. kan bruke relevante metoder for å vurdere pasientsikkerhet og behov for forbedring av tjenestene
+5. kan gjennomføre utviklings- og forbedringsarbeid med utgangspunkt i relevant fag- og forskningskunnskap, brukerkunnskap og erfaringskunnskap.
 
 ### § 15. Kunnskapsbasert fagutvikling, tjenesteforbedring og innovasjon – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å implementere kunnskapsbasert praksis for å oppnå ønskede effekterkan analysere og delta i relevant innovasjons- og forskningsarbeid for å forbedre helse- og omsorgstjenestetilbudet generelt og sykepleietilbudet spesielt, til alle pasienter og brukere i de kommunale helse- og omsorgstjenestene, herunder pasienter med sammensatte og langvarige sykdommerkan vurdere og bidra til at implementering av velferdsteknologi er faglig forsvarlig og til forsvarlig bruk av medisinsk teknisk utstyr i samarbeid med pasient og pårørende.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å implementere kunnskapsbasert praksis for å oppnå ønskede effekter
+2. kan analysere og delta i relevant innovasjons- og forskningsarbeid for å forbedre helse- og omsorgstjenestetilbudet generelt og sykepleietilbudet spesielt, til alle pasienter og brukere i de kommunale helse- og omsorgstjenestene, herunder pasienter med sammensatte og langvarige sykdommer
+3. kan vurdere og bidra til at implementering av velferdsteknologi er faglig forsvarlig og til forsvarlig bruk av medisinsk teknisk utstyr i samarbeid med pasient og pårørende.
 
 ## Kapittel 6. Studiets oppbygning og praksisstudier
 

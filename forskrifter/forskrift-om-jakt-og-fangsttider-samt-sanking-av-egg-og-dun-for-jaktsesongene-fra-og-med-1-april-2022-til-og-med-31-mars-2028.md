@@ -15,7 +15,7 @@ xml_hash: "d7937554127be61e5598a64446815a46c148aec2b5d9fa84731165a3b7ce5ad9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -107,10 +107,28 @@ Jaktbare arter er alle arter med jakttid etter § 2. Jakttidsrammen tilsvarer ja
 
 ## § 3. Delegering av myndighet
 
-1. Følgende myndighet til å fastsette forskrift er delegert til statsforvalteren:Fra og med Rana og Rødøy kommuner i Nordland fylke og sørover kan statsforvalteren åpne for jakt på grågås inntil 20 dager før ordinær jaktstart når det foreligger en godkjent lokal forvaltningsplan. I denne perioden fastsetter statsforvalteren jakttiden innenfor et tidsrom fra kl. 24.00 til kl. 10.00 eller fra kl. 16.00 til kl. 22.00. De første fem dagene av 20-dagersperioden skal jakten være begrenset til flyvende fugl over aktivt drevne innmarksarealer.Nord for Rana og Rødøy kommuner kan statsforvalteren åpne for jakt på grågås inntil 15 dager før ordinær jaktstart når det foreligger en godkjent lokal forvaltningsplan. I denne perioden fastsetter statsforvalteren jakttiden innenfor et tidsrom fra kl. 24.00 til kl. 10.00 eller fra kl. 16.00 til kl. 22.00.I fylkene Vestfold, Telemark, Østfold, Akershus, Buskerud og Oslo kan statsforvalteren åpne for jakt på grågås i januar når det foreligger en godkjent lokal forvaltningsplan.Statsforvalteren i Trøndelag skal innkorte jakttiden for kortnebbgås i Trøndelag fylke mellom 15. oktober og 23. desember når bestandsforholdene krever det.
-2. Følgende myndighet til å fastsette forskrift er delegert til fylkeskommunen:Fylkeskommunen kan på eget initiativ eller etter forslag fra kommunen innskrenke jakttiden på elg og/eller hjort. Startdato kan endres til 5. oktober og/eller sluttdato kan endres til 31. oktober eller 30. november for hele, eller en avgrenset del, av en kommune når ett eller flere av følgende punkter er oppfylt:Elg- og/eller hjortejakt antas å hindre annen friluftslivsutøvelse.Elg- og/eller hjortejakt reduserer muligheten for annen jaktutøvelse.Kommunen har arealer som er viktige for reindriftsnæring i jaktperioden.Fylkeskommunen må påse at nærliggende kommuner vurderes i sammenheng.Fylkeskommunen kan åpne for jakt på kanadagås og stripegås inntil 15 dager i forkant av ordinær jakttid og i inntil to måneder i etterkant av ordinær jakttid.
-3. Følgende myndighet til å fastsette forskrift er delegert til kommunen:Utvide jakttiden for bever med inntil 15 dager i etterkant for hele eller deler av kommunen der is- og snøforhold vanskeliggjør en bestandsmessig forsvarlig forvaltning innenfor ordinær jakttid.
-4. Følgende myndighet til å fastsette forskrift er delegert til villreinnemnda:Utvide jakttiden for villrein i sitt villreinområde med inntil 14 dager i løpet av oktober måned når særlige bestandsmessige behov foreligger.
+1. Følgende myndighet til å fastsette forskrift er delegert til statsforvalteren:
+
+   1. Fra og med Rana og Rødøy kommuner i Nordland fylke og sørover kan statsforvalteren åpne for jakt på grågås inntil 20 dager før ordinær jaktstart når det foreligger en godkjent lokal forvaltningsplan. I denne perioden fastsetter statsforvalteren jakttiden innenfor et tidsrom fra kl. 24.00 til kl. 10.00 eller fra kl. 16.00 til kl. 22.00. De første fem dagene av 20-dagersperioden skal jakten være begrenset til flyvende fugl over aktivt drevne innmarksarealer.
+   2. Nord for Rana og Rødøy kommuner kan statsforvalteren åpne for jakt på grågås inntil 15 dager før ordinær jaktstart når det foreligger en godkjent lokal forvaltningsplan. I denne perioden fastsetter statsforvalteren jakttiden innenfor et tidsrom fra kl. 24.00 til kl. 10.00 eller fra kl. 16.00 til kl. 22.00.
+   3. I fylkene Vestfold, Telemark, Østfold, Akershus, Buskerud og Oslo kan statsforvalteren åpne for jakt på grågås i januar når det foreligger en godkjent lokal forvaltningsplan.
+   4. Statsforvalteren i Trøndelag skal innkorte jakttiden for kortnebbgås i Trøndelag fylke mellom 15. oktober og 23. desember når bestandsforholdene krever det.
+2. Følgende myndighet til å fastsette forskrift er delegert til fylkeskommunen:
+
+   1. Fylkeskommunen kan på eget initiativ eller etter forslag fra kommunen innskrenke jakttiden på elg og/eller hjort. Startdato kan endres til 5. oktober og/eller sluttdato kan endres til 31. oktober eller 30. november for hele, eller en avgrenset del, av en kommune når ett eller flere av følgende punkter er oppfylt:
+
+      1. Elg- og/eller hjortejakt antas å hindre annen friluftslivsutøvelse.
+      2. Elg- og/eller hjortejakt reduserer muligheten for annen jaktutøvelse.
+      3. Kommunen har arealer som er viktige for reindriftsnæring i jaktperioden.
+
+      Fylkeskommunen må påse at nærliggende kommuner vurderes i sammenheng.
+   2. Fylkeskommunen kan åpne for jakt på kanadagås og stripegås inntil 15 dager i forkant av ordinær jakttid og i inntil to måneder i etterkant av ordinær jakttid.
+3. Følgende myndighet til å fastsette forskrift er delegert til kommunen:
+
+   - Utvide jakttiden for bever med inntil 15 dager i etterkant for hele eller deler av kommunen der is- og snøforhold vanskeliggjør en bestandsmessig forsvarlig forvaltning innenfor ordinær jakttid.
+4. Følgende myndighet til å fastsette forskrift er delegert til villreinnemnda:
+
+   - Utvide jakttiden for villrein i sitt villreinområde med inntil 14 dager i løpet av oktober måned når særlige bestandsmessige behov foreligger.
 
 > Endret ved forskrift [5 april 2024 nr. 568](forskrift/2024-04-05-568).
 

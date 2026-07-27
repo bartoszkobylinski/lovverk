@@ -34,7 +34,10 @@ Forskriften gjelder for avlyste, stengte eller nedskalerte kulturarrangementer i
 
 ### § 3. Kompensasjonsperioder
 
-Kompensasjonsperioder etter denne forskriften er:1. januar til 31. mars 20211. april til 30. juni 2021.
+Kompensasjonsperioder etter denne forskriften er:
+
+1. 1\. januar til 31. mars 2021
+2. 1\. april til 30. juni 2021.
 
 ## Kapittel 2 – Kompensasjon til arrangører
 
@@ -42,11 +45,21 @@ Kompensasjonsperioder etter denne forskriften er:1. januar til 31. mars 20211. a
 
 (1) Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten, kan tildeles kompensasjon. Arrangøren må ha sin hovedvirksomhet i Norge og må være registrert i Enhetsregisteret før 12. mars 2020.
 
-(2) Kompensasjon kan ikke gis til arrangører som:er under konkursbehandling,mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019er registrert i Frivillighetsregisteret, ellerpå tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014 artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
+(2) Kompensasjon kan ikke gis til arrangører som:
+
+1. er under konkursbehandling,
+2. mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019
+3. er registrert i Frivillighetsregisteret, eller
+4. på tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014 artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
 
 ### § 5. Hva det kan gis kompensasjon for
 
-(1) Det kan gis kompensasjon på inntil 95 prosent av en arrangørs uunngåelige økonomiske forpliktelser knyttet til et realistisk planlagt kulturarrangement dersom følgende vilkår er oppfylt:Kulturarrangementet ble eller skulle ha blitt avholdt i perioden 1. januar til 30. juni 2021Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddetKulturarrangementet var eller skulle vært billettert og åpent for allmennhetenKulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
+(1) Det kan gis kompensasjon på inntil 95 prosent av en arrangørs uunngåelige økonomiske forpliktelser knyttet til et realistisk planlagt kulturarrangement dersom følgende vilkår er oppfylt:
+
+1. Kulturarrangementet ble eller skulle ha blitt avholdt i perioden 1. januar til 30. juni 2021
+2. Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet
+3. Kulturarrangementet var eller skulle vært billettert og åpent for allmennheten
+4. Kulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
 
 (2) Det gis ikke kompensasjon dersom arrangøren har mottatt støtte til samme arrangement i henhold til [forskrift 28. januar 2021 nr. 273 om midlertidig tilskudd til kulturarrangementer første halvår 2021 som følge av covid-19](forskrift/2021-01-28-273) (stimuleringsordningen). Dersom en arrangør har mottatt støtte til et arrangement fra stimuleringsordningen og senere tilbakebetalt støtten, kan arrangørens kompensasjon for det avlyste, stengte eller nedskalerte arrangementet etter denne ordningen ikke overstige støttebeløpet som ble utbetalt gjennom stimuleringsordningen.
 
@@ -72,7 +85,11 @@ Kompensasjonsperioder etter denne forskriften er:1. januar til 31. mars 20211. a
 
 (1) Norsk kulturråd skal avkorte kompensasjonsbeløpet eller avslå søknaden dersom arrangøren ikke har hatt realistiske planer for arrangementet det søkes kompensasjon for.
 
-(2) I vurderingen av om arrangøren har hatt realistiske planer for arrangementet kan Norsk kulturråd bl.a. vektlegge:om arrangøren har planlagt gjennomføring av arrangementet med et realistisk antall publikummere sett i lys av smittevernsituasjonen,om arrangementets budsjett og aktiviteter har tatt høyde for at arrangøren med stor sannsynlighet kan klare å gjennomføre et nedskalert arrangement,om arrangøren har tatt høyde for at planene for arrangementet kunne justeres i lys av smittesituasjonen og gjennomført tilpasninger når det har vært nødvendig.
+(2) I vurderingen av om arrangøren har hatt realistiske planer for arrangementet kan Norsk kulturråd bl.a. vektlegge:
+
+- om arrangøren har planlagt gjennomføring av arrangementet med et realistisk antall publikummere sett i lys av smittevernsituasjonen,
+- om arrangementets budsjett og aktiviteter har tatt høyde for at arrangøren med stor sannsynlighet kan klare å gjennomføre et nedskalert arrangement,
+- om arrangøren har tatt høyde for at planene for arrangementet kunne justeres i lys av smittesituasjonen og gjennomført tilpasninger når det har vært nødvendig.
 
 ### § 9. Øvre grenser for kompensasjon
 
@@ -90,15 +107,28 @@ Beregnet kompensasjon, jf. § 6, justert i samsvar med øvrige bestemmelser i de
 
 ### § 11. Hvilke underleverandører som kan tildeles kompensasjon
 
-(1) Underleverandører til kulturarrangement kan tildeles kompensasjon når følgende vilkår er oppfylt:Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene i kompensasjonsperioden, sammenlignet med tilsvarende måned i 2020 for perioden januar og februar og tilsvarende måned i 2019 for perioden mars til juni. Underleverandører som er etablert etter 31. desember 2018 kan alternativt bruke gjennomsnittlig månedlig omsetning i kalendermånedene januar og februar 2020 som grunnlag for beregning av omsetningsfallet.
+(1) Underleverandører til kulturarrangement kan tildeles kompensasjon når følgende vilkår er oppfylt:
 
-(2) Kompensasjon kan ikke gis til underleverandører som:er under konkursbehandling,mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019er registrert i Frivillighetsregisteret, ellerpå tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014 artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
+1. Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020
+2. Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene i kompensasjonsperioden, sammenlignet med tilsvarende måned i 2020 for perioden januar og februar og tilsvarende måned i 2019 for perioden mars til juni. Underleverandører som er etablert etter 31. desember 2018 kan alternativt bruke gjennomsnittlig månedlig omsetning i kalendermånedene januar og februar 2020 som grunnlag for beregning av omsetningsfallet.
+
+(2) Kompensasjon kan ikke gis til underleverandører som:
+
+1. er under konkursbehandling,
+2. mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019
+3. er registrert i Frivillighetsregisteret, eller
+4. på tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014 artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
 
 (3) Med underleverandør menes aktører innenfor lys, lyd, bilde og rigg, artister, management, booking og filmdistributører som leverer tjenester eller innhold til et kulturarrangement, og aktører som leier ut lokaler der det skal gjennomføres et kulturarrangement.
 
 ### § 12. Hva det kan gis kompensasjon for
 
-Det kan gis kompensasjon på inntil 50 prosent av tapte inntekter og merutgifter knyttet til kulturarrangement som underleverandøren skulle levere eller leverte tjenester eller innhold til når følgende vilkår er oppfylt:Kulturarrangementet ble eller skulle ha blitt avholdt i perioden fra og med 1. januar til og med 30. juni 2021.Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.Kulturarrangementet var eller skulle vært åpent for allmennhetenKulturarrangementet var planlagt av arrangøren før senest 15 dager før gjennomføringsdato.
+Det kan gis kompensasjon på inntil 50 prosent av tapte inntekter og merutgifter knyttet til kulturarrangement som underleverandøren skulle levere eller leverte tjenester eller innhold til når følgende vilkår er oppfylt:
+
+1. Kulturarrangementet ble eller skulle ha blitt avholdt i perioden fra og med 1. januar til og med 30. juni 2021.
+2. Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.
+3. Kulturarrangementet var eller skulle vært åpent for allmennheten
+4. Kulturarrangementet var planlagt av arrangøren før senest 15 dager før gjennomføringsdato.
 
 ### § 13. Hvordan kompensasjonen skal beregnes
 

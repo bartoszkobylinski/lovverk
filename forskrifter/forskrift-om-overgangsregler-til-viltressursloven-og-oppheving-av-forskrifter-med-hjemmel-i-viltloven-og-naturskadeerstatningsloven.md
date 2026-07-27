@@ -30,7 +30,11 @@ Eksisterende avtaler, flertallsvedtak og offentlige vedtak med hjemmel i [viltlo
 
 ## II
 
-Følgende forskrifter oppheves:[Forskrift 24. oktober 1984 nr. 1878 om gjennomføringen av bestemmelsene om sammenslåing av eiendommer til felles viltområde i viltlovens § 37](forskrift/1984-10-24-1878)[Forskrift 24. oktober 1984 nr. 1879 om gjennomføringen av bestemmelsene om sammenslåing for å oppnå minsteareal for hjorteviltjakt i viltlovens § 38](forskrift/1984-10-24-1879)[Forskrift 18. september 2023 nr. 1440 om forenklet saksbehandling av søknader om naturskadeerstatning etter flomhendelsene høsten 2023](forskrift/2023-09-18-1440).
+Følgende forskrifter oppheves:
+
+1. [Forskrift 24. oktober 1984 nr. 1878 om gjennomføringen av bestemmelsene om sammenslåing av eiendommer til felles viltområde i viltlovens § 37](forskrift/1984-10-24-1878)
+2. [Forskrift 24. oktober 1984 nr. 1879 om gjennomføringen av bestemmelsene om sammenslåing for å oppnå minsteareal for hjorteviltjakt i viltlovens § 38](forskrift/1984-10-24-1879)
+3. [Forskrift 18. september 2023 nr. 1440 om forenklet saksbehandling av søknader om naturskadeerstatning etter flomhendelsene høsten 2023](forskrift/2023-09-18-1440).
 
 ## III
 

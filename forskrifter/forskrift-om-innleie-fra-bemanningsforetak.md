@@ -44,7 +44,10 @@ Forsettlig eller uaktsom overtredelse av denne bestemmelsen straffes med bøter,
 
 ### § 3
 
-Innleie fra bemanningsforetak er tillatt uavhengig av vilkårene i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) når det gjelder:Innleie av helsepersonell for å sikre forsvarlig drift av helse- og omsorgstjenester. Slik innleie er tillatt i samme utstrekning som det kan avtales midlertidig ansettelse etter [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9) andre ledd bokstav a. Før det tas beslutning om innleie etter bestemmelsen, skal arbeidsgiver drøfte behovet for innleie med de tillitsvalgte.Innleie av arbeidstakere med spesialkompetanse som skal utføre rådgivnings- og konsulenttjeneste i klart avgrenset prosjekt.
+Innleie fra bemanningsforetak er tillatt uavhengig av vilkårene i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) når det gjelder:
+
+1. Innleie av helsepersonell for å sikre forsvarlig drift av helse- og omsorgstjenester. Slik innleie er tillatt i samme utstrekning som det kan avtales midlertidig ansettelse etter [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9) andre ledd bokstav a. Før det tas beslutning om innleie etter bestemmelsen, skal arbeidsgiver drøfte behovet for innleie med de tillitsvalgte.
+2. Innleie av arbeidstakere med spesialkompetanse som skal utføre rådgivnings- og konsulenttjeneste i klart avgrenset prosjekt.
 
 Med helsepersonell menes personell som omfattes av [helsepersonelloven § 3](lov/1999-07-02-64/§3). Med rådgivnings- og konsulenttjeneste menes levering av spesialisert kunnskap og rådgivning innenfor et bestemt fagområde.
 
@@ -56,7 +59,15 @@ Innleier skal dokumentere grunnlaget for innleie etter denne bestemmelsen når t
 
 Innleie fra bemanningsforetak til bygningsarbeid på byggeplasser i Oslo, Akershus, Østfold, Buskerud og Vestfold er ikke tillatt.
 
-Med bygningsarbeid menesoppføring av bygninger,innrednings-, utsmykkings-, og installasjonsarbeid,montering og demontering av prefabrikkerte elementer,riving, demontering, ombygging og istandsetting,sanering og vedlikehold, utenom arbeid som er rutinemessig eller mindre omfattende,graving, sprenging og annet grunnarbeid i tilknytning byggeplass, ogannet arbeid som utføres i tilknytning til byggearbeid.
+Med bygningsarbeid menes
+
+1. oppføring av bygninger,
+2. innrednings-, utsmykkings-, og installasjonsarbeid,
+3. montering og demontering av prefabrikkerte elementer,
+4. riving, demontering, ombygging og istandsetting,
+5. sanering og vedlikehold, utenom arbeid som er rutinemessig eller mindre omfattende,
+6. graving, sprenging og annet grunnarbeid i tilknytning byggeplass, og
+7. annet arbeid som utføres i tilknytning til byggearbeid.
 
 Med *byggeplass* menes enhver arbeidsplass hvor det utføres midlertidig eller skiftende bygningsarbeid av et visst omfang.
 

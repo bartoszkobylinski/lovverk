@@ -15,7 +15,7 @@ xml_hash: "5e7865c619b2a8fd49f4e6a6cf44d0cafb7401a0c673717b94ffde181e044db2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Under fisket skal fisker ha med seg kvittering for betalt fiskeravgift, eller di
 
 ### § 3. Registreringsplikt ved fiske med kilenot og lakseverp
 
-Den som skal fiske etter anadrome laksefisk med kilenot eller lakseverp i sjøen, skal, seinest 15. mai det året vedkommende skal fiske, sende følgende opplysninger til Miljødirektoratet ved hjelp av elektronisk skjema:fiskers navn og kontaktinformasjonkommune og annen angivelse av stedet der fiske skal skjenår fisket starterøvrige opplysninger som framgår av skjema.
+Den som skal fiske etter anadrome laksefisk med kilenot eller lakseverp i sjøen, skal, seinest 15. mai det året vedkommende skal fiske, sende følgende opplysninger til Miljødirektoratet ved hjelp av elektronisk skjema:
+
+1. fiskers navn og kontaktinformasjon
+2. kommune og annen angivelse av stedet der fiske skal skje
+3. når fisket starter
+4. øvrige opplysninger som framgår av skjema.
 
 Registrering av redskap skal, som hovedregel, nektes påfølgende fiskesesong dersom fisker ikke har sendt inn fangstoppgave fra forrige sesong vedkommende fisket.
 
@@ -142,11 +147,38 @@ Lakseverp stenges ved at selve nota tas på land, eller ved at gjeren blir dratt
 
 ### § 17. Stenging av enkel kilenot
 
-Enkle kilenøter skal stenges på en av måtene som er nevnt i punktene 1 til 3 nedenfor.Ledegarnet bindes fra eller deles, og enden føres til notspissen og bindes fast der. For at garnet ikke skal bli liggende inn på nota, kan det hales stramt med et tau som blir festet omtrent midt på garnet. Dersom ledegarnet blir delt, skal den delen som står igjen ikke i noe tilfelle nå nærmere noen del av nota enn største bredden av nota.Dersom ledegarnet er over fire ganger så langt som nota, skal også tunga bindes kloss til den motsatte side av nota.Ikke noen del av ledegarnet, som blir ført til nota, skal være grunnere enn halve dybden av nota der den er dypest. Det er forbudt å ta bort søkkene på noen del av ledegarnet som blir ført til nota. Det er likeledes forbudt å ha så mye søkke på at ikke hele garnet kavlflyter (flåa er synlig over sjøen).*Figur 7. Stengingsmåte nr. 1 for enkel kilenot*Dersom ledegarnet blir delt, kan enden bindes fast til en av stengene i stedet for til snyta. Ytre del av ledegarnet skal da legges over inngangen og kloss til nota. Den delen av ledegarnet som står igjen skal ikke i noe tilfelle være nærmere nota enn største bredde av nota, jf. punkt 1.*Figur 8. Stengingsmåte nr. 2 for enkel kilenot.*Hele ledegarnet, eller minst så stor del som det dobbelte av notas største bredde regnet fra fjordveggen, tas opp av sjøen. Tunga bindes kloss til motsatte side av nota.
+Enkle kilenøter skal stenges på en av måtene som er nevnt i punktene 1 til 3 nedenfor.
+
+1. Ledegarnet bindes fra eller deles, og enden føres til notspissen og bindes fast der. For at garnet ikke skal bli liggende inn på nota, kan det hales stramt med et tau som blir festet omtrent midt på garnet. Dersom ledegarnet blir delt, skal den delen som står igjen ikke i noe tilfelle nå nærmere noen del av nota enn største bredden av nota.
+
+   Dersom ledegarnet er over fire ganger så langt som nota, skal også tunga bindes kloss til den motsatte side av nota.
+
+   Ikke noen del av ledegarnet, som blir ført til nota, skal være grunnere enn halve dybden av nota der den er dypest. Det er forbudt å ta bort søkkene på noen del av ledegarnet som blir ført til nota. Det er likeledes forbudt å ha så mye søkke på at ikke hele garnet kavlflyter (flåa er synlig over sjøen).
+
+   *Figur 7. Stengingsmåte nr. 1 for enkel kilenot*
+2. Dersom ledegarnet blir delt, kan enden bindes fast til en av stengene i stedet for til snyta. Ytre del av ledegarnet skal da legges over inngangen og kloss til nota. Den delen av ledegarnet som står igjen skal ikke i noe tilfelle være nærmere nota enn største bredde av nota, jf. punkt 1.
+
+   *Figur 8. Stengingsmåte nr. 2 for enkel kilenot.*
+3. Hele ledegarnet, eller minst så stor del som det dobbelte av notas største bredde regnet fra fjordveggen, tas opp av sjøen. Tunga bindes kloss til motsatte side av nota.
 
 ### § 18. Stenging av dobbel kilenot
 
-Doble kilenøter skal stenges på en av måtene som er nevnt i punktene 1 til 4 nedenfor.Hele ledegarnet, eller så mye av dette, regnet fra fjordveggen, som to og en halv ganger største bredden av nota, tas opp av sjøen. Begge tungene, og likedan mulige forlengelser på disse, bindes kloss til fjordveggen.*Figur 9. Stengingsmåte nr. 1 for dobbel kilenot.*I stedet for å binde tungene til fjordveggen, kan inngangen til nota sperres med et sperregarn som bindes fast til storstengene eller småstengene. Dette garnet skal overalt være minst like dypt som nota. Som sperregarn kan benyttes ytterste del av ledegarnet dersom dette blir delt. Stenges nota med sperregarn, må avstanden mellom noen del av ledegarnet eller nota ikke være mindre enn en og en halv ganger største bredden av nota.*Figur 10. Stengingsmåte nr. 2 for dobbel kilenot.*Ledegarnet løses fra land og endene bindes kloss til begge spissene på nota. For at garnet ikke skal bli liggende inn på nota, kan det hales stramt ved hjelp av tau som blir festet omtrent midt på garnet.*Figur 11. Stengingsmåte nr. 3 for dobbel kilenot.*Dersom garnet er over dobbelt så langt som nota, skal, i tillegg til det som er fastsatt i punkt 3, tungene bindes kloss til fjordveggen.Ikke noe av ledegarnet som blir ført til nota, skal være grunnere enn halve dybden av nota der den er dypest. Det er forbudt å ta bort søkkene på noen del av ledegarnet som blir ført til nota. Det er likeledes forbudt å ha så mye søkke på at ikke hele garnet kavlflyter (flåa er synlig over sjøen).*Figur 12. Stengingsmåte nr. 4 for dobbel kilenot.*
+Doble kilenøter skal stenges på en av måtene som er nevnt i punktene 1 til 4 nedenfor.
+
+1. Hele ledegarnet, eller så mye av dette, regnet fra fjordveggen, som to og en halv ganger største bredden av nota, tas opp av sjøen. Begge tungene, og likedan mulige forlengelser på disse, bindes kloss til fjordveggen.
+
+   *Figur 9. Stengingsmåte nr. 1 for dobbel kilenot.*
+2. I stedet for å binde tungene til fjordveggen, kan inngangen til nota sperres med et sperregarn som bindes fast til storstengene eller småstengene. Dette garnet skal overalt være minst like dypt som nota. Som sperregarn kan benyttes ytterste del av ledegarnet dersom dette blir delt. Stenges nota med sperregarn, må avstanden mellom noen del av ledegarnet eller nota ikke være mindre enn en og en halv ganger største bredden av nota.
+
+   *Figur 10. Stengingsmåte nr. 2 for dobbel kilenot.*
+3. Ledegarnet løses fra land og endene bindes kloss til begge spissene på nota. For at garnet ikke skal bli liggende inn på nota, kan det hales stramt ved hjelp av tau som blir festet omtrent midt på garnet.
+
+   *Figur 11. Stengingsmåte nr. 3 for dobbel kilenot.*
+4. Dersom garnet er over dobbelt så langt som nota, skal, i tillegg til det som er fastsatt i punkt 3, tungene bindes kloss til fjordveggen.
+
+   Ikke noe av ledegarnet som blir ført til nota, skal være grunnere enn halve dybden av nota der den er dypest. Det er forbudt å ta bort søkkene på noen del av ledegarnet som blir ført til nota. Det er likeledes forbudt å ha så mye søkke på at ikke hele garnet kavlflyter (flåa er synlig over sjøen).
+
+   *Figur 12. Stengingsmåte nr. 4 for dobbel kilenot.*
 
 ### § 19. Stenging av dobbeltvirkende kilenot
 
@@ -164,7 +196,15 @@ Dersom storm, sjøgang, strøm, flom eller lignende naturhindringer gjør at det
 
 Den som har fisket etter anadrome laksefisk med kilenot eller lakseverp i sjøen, skal levere oppgave over fangsten av slik fisk til Miljødirektoratet.
 
-Fisker skal levere fangstoppgave hver uke det er åpnet for fiske, og seinest innen utgangen av påfølgende mandag etter avsluttet fiskeuke. Fangstoppgaven skal inneholde følgende opplysninger:fiskerens navn, kontaktinformasjon og registreringsnummertidspunkt for fisketype og antall redskaperantall avlivet fisk per fiskedag, per redskap, fordelt på art og vektantall gjenutsatt fisk per fiskedag, per redskap, fordelt på art og vekteventuell nullfangst per fiskedag, per redskapøvrige opplysninger som framgår av skjema.
+Fisker skal levere fangstoppgave hver uke det er åpnet for fiske, og seinest innen utgangen av påfølgende mandag etter avsluttet fiskeuke. Fangstoppgaven skal inneholde følgende opplysninger:
+
+1. fiskerens navn, kontaktinformasjon og registreringsnummer
+2. tidspunkt for fiske
+3. type og antall redskaper
+4. antall avlivet fisk per fiskedag, per redskap, fordelt på art og vekt
+5. antall gjenutsatt fisk per fiskedag, per redskap, fordelt på art og vekt
+6. eventuell nullfangst per fiskedag, per redskap
+7. øvrige opplysninger som framgår av skjema.
 
 Fangstoppgave skal leveres ved hjelp av elektronisk skjema.
 
@@ -172,7 +212,16 @@ Fangstoppgave skal leveres ved hjelp av elektronisk skjema.
 
 Fiskerettshavere i vassdrag der det er åpnet for fiske etter anadrome laksefisk, skal levere oppgave over fangsten av slik fisk til Miljødirektoratet.
 
-Fangstoppgaven skal leveres innen to uker etter siste fiskedag for anadrome laksefisk i vassdraget, og skal inneholde følgende opplysninger:navn og kontaktinformasjon til den som rapporterernavn på vassdrag og rapporteringsenhettidsrommet det har vært fisketantall avlivet fisk, fordelt på art og vektantall gjenutsatt fisk, fordelt på art og vekteventuell nullfangstfiskeinnsatsøvrige opplysninger som framgår av skjema.
+Fangstoppgaven skal leveres innen to uker etter siste fiskedag for anadrome laksefisk i vassdraget, og skal inneholde følgende opplysninger:
+
+1. navn og kontaktinformasjon til den som rapporterer
+2. navn på vassdrag og rapporteringsenhet
+3. tidsrommet det har vært fisket
+4. antall avlivet fisk, fordelt på art og vekt
+5. antall gjenutsatt fisk, fordelt på art og vekt
+6. eventuell nullfangst
+7. fiskeinnsats
+8. øvrige opplysninger som framgår av skjema.
 
 Fangstoppgaven skal leveres ved hjelp av elektronisk skjema.
 
@@ -194,7 +243,15 @@ Fangstoppgaven etter første og andre ledd skal minst inneholde opplysningene ne
 
 Den som har fisket etter anadrome laksefisk med stang og håndsnøre i sjø, skal levere oppgave over fangsten av slik fisk til Miljødirektoratet ved hjelp av elektronisk skjema.
 
-Fisker skal levere fangstoppgave etter hver dag vedkommende har fisket, og den skal inneholde følgende opplysninger:kommunen det er fisket itidspunkt for fisketype redskapantall avlivet fisk, fordelt på art og vektantall gjenutsatt fisk, fordelt på art og vektom det fisket fra båt eller fra landøvrige opplysninger som framgår av skjema.
+Fisker skal levere fangstoppgave etter hver dag vedkommende har fisket, og den skal inneholde følgende opplysninger:
+
+1. kommunen det er fisket i
+2. tidspunkt for fiske
+3. type redskap
+4. antall avlivet fisk, fordelt på art og vekt
+5. antall gjenutsatt fisk, fordelt på art og vekt
+6. om det fisket fra båt eller fra land
+7. øvrige opplysninger som framgår av skjema.
 
 ## Kapittel 6. Avsluttende bestemmelser
 

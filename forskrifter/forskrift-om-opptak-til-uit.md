@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Forskriftens virkeområde
 
-(1) Forskriften gjelder for opptak til mastergradsprogram,praktisk-pedagogisk utdanning,forkurs for ingeniør- og sivilingeniørutdanning,realfagskurs,etter- og videreutdanning,enkeltemner oggrunnutdanninger dersom søkeren vil ha opptak på grunnlag av realkompetanse, Y-vei eller tresemesterordningen.
+(1) Forskriften gjelder for opptak til mastergradsprogram,
+
+1. praktisk-pedagogisk utdanning,
+2. forkurs for ingeniør- og sivilingeniørutdanning,
+3. realfagskurs,
+4. etter- og videreutdanning,
+5. enkeltemner og
+6. grunnutdanninger dersom søkeren vil ha opptak på grunnlag av realkompetanse, Y-vei eller tresemesterordningen.
 
 (2) Universitetet kan i avtale eller ved vedtak fastsette egne regelverk for opptak til fellesgrader.
 
@@ -56,9 +63,15 @@ eu_basis: []
 
 ## § 5. Dispensasjon fra søknadsfrister
 
-(1) Selv om søknaden om opptak er fremsatt for sent, kan det gis dispensasjon fra søknadsfristen dersomsøkeren ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med å søke til etter fristen, ellersærlige grunner gjør det rimelig at søknaden blir behandlet.
+(1) Selv om søknaden om opptak er fremsatt for sent, kan det gis dispensasjon fra søknadsfristen dersom
 
-(2) Eksempler på at særlige grunner gjør det rimelig at søknaden blir behandlet erat søkeren var syk på dagen for fristens utløp (dette må være dokumentert ved legeattest) ellerat søkeren vil fullføre en grad ved UiT dersom søkeren får opptak og består eksamen.
+1. søkeren ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med å søke til etter fristen, eller
+2. særlige grunner gjør det rimelig at søknaden blir behandlet.
+
+(2) Eksempler på at særlige grunner gjør det rimelig at søknaden blir behandlet er
+
+1. at søkeren var syk på dagen for fristens utløp (dette må være dokumentert ved legeattest) eller
+2. at søkeren vil fullføre en grad ved UiT dersom søkeren får opptak og består eksamen.
 
 (3) Frist for å søke om dispensasjon fra søknadsfrist er 3 uker etter ordinær søknadsfrist.
 
@@ -114,7 +127,10 @@ Universitetet kan lyse ut ledige studieplasser på et høyere årskull. Universi
 
 ## § 12. Opptakskrav til mastergradsprogram
 
-(1) For å få opptak til et mastergradsprogram må søkeren ha en bachelorgrad eller en tilsvarende utdanning. Bachelorgraden eller den tilsvarende utdanningen må enten inneholdeen faglig fordypning på minst 80 studiepoeng i mastergradsprogrammets fagområde elleren integrert, yrkesrettet utdanning på minst 120 studiepoeng i mastergradsprogrammets fagområde.
+(1) For å få opptak til et mastergradsprogram må søkeren ha en bachelorgrad eller en tilsvarende utdanning. Bachelorgraden eller den tilsvarende utdanningen må enten inneholde
+
+1. en faglig fordypning på minst 80 studiepoeng i mastergradsprogrammets fagområde eller
+2. en integrert, yrkesrettet utdanning på minst 120 studiepoeng i mastergradsprogrammets fagområde.
 
 (2) Krav til bestemte fag eller emner kan være fastsatt i mastergradsprogrammets studieplan.
 
@@ -134,7 +150,10 @@ Universitetet kan lyse ut ledige studieplasser på et høyere årskull. Universi
 
 ## § 14. Opptak på visse vilkår til mastergradsprogram uten venteliste
 
-(1) Det kan gis opptak på visse vilkår til et mastergradsprogram uten venteliste til søkere somventer på sensur for emner som skal inngå i opptaksgrunnlaget ellermangler inntil ett emne eller inntil 10 studiepoeng for å ha fullført en bachelorgrad.
+(1) Det kan gis opptak på visse vilkår til et mastergradsprogram uten venteliste til søkere som
+
+1. venter på sensur for emner som skal inngå i opptaksgrunnlaget eller
+2. mangler inntil ett emne eller inntil 10 studiepoeng for å ha fullført en bachelorgrad.
 
 (2) For et mastergradsprogram uten venteliste i teknologi kan det gis opptak til søkere som mangler et tilleggskrav i matematikk og/eller fysikk på inntil 10 studiepoeng.
 
@@ -174,7 +193,17 @@ Kvalifiserte søkere til etter- og videreutdanningsemner rangeres etter loddtrek
 
 ## § 20. Opptak til forkurs for ingeniør- og sivilingeniørutdanning
 
-(1) For å få opptak til forkurs for ingeniør- og sivilingeniørutdanning må søkeren enten haAvlagt og bestått godkjent fag- eller svenneprøve, ellerBestått Vg1 og Vg2 yrkesfag i norsk/nordisk videregående skole, ellerRealkompetanse. For å få godkjent realkompetanse til fullt forkurs må søkeren oppfylle følgende vilkår:Søkere må fylle 18 år eller mer det året de søker om opptak.Søkere må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole.Søkere fra land utenfor Norden må i tillegg normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. nasjonal [forskrift om opptak til høgare utdanning § 2-2](forskrift/2017-01-06-13/§2-2), ellerGenerell studiekompetanse.
+(1) For å få opptak til forkurs for ingeniør- og sivilingeniørutdanning må søkeren enten ha
+
+1. Avlagt og bestått godkjent fag- eller svenneprøve, eller
+2. Bestått Vg1 og Vg2 yrkesfag i norsk/nordisk videregående skole, eller
+3. Realkompetanse. For å få godkjent realkompetanse til fullt forkurs må søkeren oppfylle følgende vilkår:
+
+   - Søkere må fylle 18 år eller mer det året de søker om opptak.
+   - Søkere må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole.
+
+   Søkere fra land utenfor Norden må i tillegg normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. nasjonal [forskrift om opptak til høgare utdanning § 2-2](forskrift/2017-01-06-13/§2-2), eller
+4. Generell studiekompetanse.
 
 > Endret ved forskrift [20 jan 2022 nr. 116](forskrift/2022-01-20-116).
 
@@ -204,21 +233,35 @@ Kvalifiserte søkere til realfagskurs rangeres etter oppnådde karakterpoeng. S�
 
 ## § 24. Opptak til Y-vei
 
-For å få opptak til studieprogrammer innen ingeniørfag via Y-veiordningen må søkeren hafagbrev innenfor et relevant fagområde og12 måneder med relevant praksis eller læretid i bedrift.
+For å få opptak til studieprogrammer innen ingeniørfag via Y-veiordningen må søkeren ha
+
+1. fagbrev innenfor et relevant fagområde og
+2. 12 måneder med relevant praksis eller læretid i bedrift.
 
 > Endret ved forskrifter [16 des 2020 nr. 3323](forskrift/2020-12-16-3323), [10 des 2020 nr. 2942](forskrift/2020-12-10-2942) (i kraft 1 jan 2021), [11 feb 2025 nr. 220](forskrift/2025-02-11-220) (tidligere § 22).
 
 ## § 25. Rangering av søkere til ingeniørstudier via Y-veiordningen
 
-Kvalifiserte søkere til ingeniørstudier via Y-veiordningen rangeres først etter karakterpoeng fra Vg1 og Vg2. Videre gis det følgende tilleggspoeng:3 tilleggspoeng for «bestått meget godt» på fag- eller svenneprøve.2 tilleggspoeng for kvinnelige søkere.
+Kvalifiserte søkere til ingeniørstudier via Y-veiordningen rangeres først etter karakterpoeng fra Vg1 og Vg2. Videre gis det følgende tilleggspoeng:
+
+1. 3 tilleggspoeng for «bestått meget godt» på fag- eller svenneprøve.
+2. 2 tilleggspoeng for kvinnelige søkere.
 
 > Endret ved forskrift [11 feb 2025 nr. 220](forskrift/2025-02-11-220) (tidligere § 23).
 
 ## § 26. Opptak på visse vilkår til Y-vei
 
-(1) Det kan gis opptak på visse vilkår til åpne ingeniørstudier via Y-veiordningen til søkere somventer på vitnemål/utskrift/bekreftelse på bestått fag-/svenneprøve,ikke får avlagt fag-/svenneprøve før etter fristen for ettersending ellerennå ikke har fullført lærlingetiden til tross for avlagt fag-/svenneprøve.
+(1) Det kan gis opptak på visse vilkår til åpne ingeniørstudier via Y-veiordningen til søkere som
 
-(2) Opptak på visse vilkår forutsetter at søkeren kan dokumentere ovenstående forhold i form avbekreftelse på bestått fagprøve,bekreftelse på oppmelding til fagprøven med angitt dato fra opplæringskontor ellerlærlingekontrakt som viser lærlinge-perioden.
+1. venter på vitnemål/utskrift/bekreftelse på bestått fag-/svenneprøve,
+2. ikke får avlagt fag-/svenneprøve før etter fristen for ettersending eller
+3. ennå ikke har fullført lærlingetiden til tross for avlagt fag-/svenneprøve.
+
+(2) Opptak på visse vilkår forutsetter at søkeren kan dokumentere ovenstående forhold i form av
+
+1. bekreftelse på bestått fagprøve,
+2. bekreftelse på oppmelding til fagprøven med angitt dato fra opplæringskontor eller
+3. lærlingekontrakt som viser lærlinge-perioden.
 
 (3) Studenter som har fått opptak på visse vilkår og som ikke oppfyller betingelsene for opptak innen fastsatt frist, mister studieretten.
 
@@ -246,7 +289,12 @@ Reglene om unntak fra kravet om generell studiekompetanse for å få opptak til 
 
 ## § 30. Rangering av søkere til praktisk-pedagogisk utdanning etter forskrift om rammeplan for PPU § 6
 
-(1) Søkerne som er kvalifisert til praktisk-pedagogisk utdanning etter [forskrift om rammeplan for PPU § 6](forskrift/2015-12-21-1771/§6) rangeres etter følgende kriterier i prioritert rekkefølge:Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringsloven § 17-3](lov/2023-06-09-30/§17-3).Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.Etter hvor mange undervisningsfag søkeren har.Etter hvor mange måneder søkeren har med fagpraksis etter endt fagutdanning.
+(1) Søkerne som er kvalifisert til praktisk-pedagogisk utdanning etter [forskrift om rammeplan for PPU § 6](forskrift/2015-12-21-1771/§6) rangeres etter følgende kriterier i prioritert rekkefølge:
+
+1. Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringsloven § 17-3](lov/2023-06-09-30/§17-3).
+2. Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.
+3. Etter hvor mange undervisningsfag søkeren har.
+4. Etter hvor mange måneder søkeren har med fagpraksis etter endt fagutdanning.
 
 (2) Kvalifiserte søkere til praktisk-pedagogisk utdanning etter forskrift om rammeplan for PPU om bachelorgrad i utøvende eller skapende kunstfag, rangeres ved loddtrekning.
 
@@ -260,7 +308,11 @@ Reglene om opptak til praktisk-pedagogisk utdanning etter forskrift om rammeplan
 
 ## § 32. Rangering av søkere til praktisk-pedagogisk utdanning etter forskrift om rammeplan for PPU for yrkesfag § 5
 
-Kvalifiserte søkere til praktisk-pedagogisk utdanning etter forskrift om rammeplan for PPU for yrkesfag § 5 rangeres etter følgende kriterier i prioritert rekkefølge:Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringsloven § 10-6a](lov/1998-07-17-61/§10-6a).Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.Øvrige kvalifiserte søkere rangeres ved loddtrekning.
+Kvalifiserte søkere til praktisk-pedagogisk utdanning etter forskrift om rammeplan for PPU for yrkesfag § 5 rangeres etter følgende kriterier i prioritert rekkefølge:
+
+1. Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringsloven § 10-6a](lov/1998-07-17-61/§10-6a).
+2. Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.
+3. Øvrige kvalifiserte søkere rangeres ved loddtrekning.
 
 > Endret ved forskrift [11 feb 2025 nr. 220](forskrift/2025-02-11-220) (tidligere § 30).
 

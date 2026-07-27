@@ -28,7 +28,11 @@ Formålet med ordningen er å motvirke negative konsekvenser av de høye strømp
 
 ## § 2. Hvem kan søke
 
-Følgende organisasjoner har rett til å søke:Virksomheter som er registrert i FrivillighetsregisteretVirksomheter som ikke er i Frivillighetsregisteret, kan søke dersom eiere/medlemmer med bestemmende innflytelse er registrert i FrivillighetsregisteretAndre frivillige virksomheter som ikke dekkes under a. og b. kan motta støtte dersom virksomheten hovedsakelig drives av frivillig arbeidsinnsats og hvor det ikke er anledning for privatpersoner eller kommersielle foretak å oppnå økonomiske fordeler fra virksomheten. Frivillig arbeidsinnsats skal forstås som mennesker som bidrar uten lønn eller annen form for økonomisk motytelse, verken nå eller i fremtiden.
+Følgende organisasjoner har rett til å søke:
+
+1. Virksomheter som er registrert i Frivillighetsregisteret
+2. Virksomheter som ikke er i Frivillighetsregisteret, kan søke dersom eiere/medlemmer med bestemmende innflytelse er registrert i Frivillighetsregisteret
+3. Andre frivillige virksomheter som ikke dekkes under a. og b. kan motta støtte dersom virksomheten hovedsakelig drives av frivillig arbeidsinnsats og hvor det ikke er anledning for privatpersoner eller kommersielle foretak å oppnå økonomiske fordeler fra virksomheten. Frivillig arbeidsinnsats skal forstås som mennesker som bidrar uten lønn eller annen form for økonomisk motytelse, verken nå eller i fremtiden.
 
 Søker må ha organisasjonsnummer.
 
@@ -36,7 +40,12 @@ Søker må ha organisasjonsnummer.
 
 Tilskuddsordningen vil kun gjelde strømforbruk med strømpris på over 75 øre per kWt. Terskelverdien endres til 77 øre per kWt for strømforbruk fra og med 1. januar 2026.
 
-Følgende skal ikke kompenseres:Strømforbruk knyttet til utføring av offentlig lovpålagte oppgaver på oppdrag fra stat, fylkeskommune eller kommune.Økonomisk virksomhet hvor kompensasjon til denne virksomheten er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.Strømutgifter som allerede er kompensert gjennom de statlige strømstøtteordningene for husholdninger eller landbruket.Strømutgifter til virksomheter som er under konkursbehandling.
+Følgende skal ikke kompenseres:
+
+1. Strømforbruk knyttet til utføring av offentlig lovpålagte oppgaver på oppdrag fra stat, fylkeskommune eller kommune.
+2. Økonomisk virksomhet hvor kompensasjon til denne virksomheten er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
+3. Strømutgifter som allerede er kompensert gjennom de statlige strømstøtteordningene for husholdninger eller landbruket.
+4. Strømutgifter til virksomheter som er under konkursbehandling.
 
 > Endret ved forskrifter [12 jan 2024 nr. 64](forskrift/2024-01-12-64), [10 jan 2025 nr. 22](forskrift/2025-01-10-22), [7 jan 2026 nr. 9](forskrift/2026-01-07-9).
 

@@ -15,7 +15,7 @@ xml_hash: "88ad107a0d4a6d75471d0a7f7762fd9142d3c89e09e89cbcc9bfcb8b6fbbc6a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,21 +68,51 @@ Godkjenning som spesialist i odontologi gis etter regler for spesialistgodkjenni
 
 ## § 8. Eldre regler av betydning for turnusleger
 
-Inntil nye regler er vedtatt og trer i kraft skal følgende regler med senere endringer, gjelde så langt de passer:«Krav om kursdeltagelse, undervisning i spesialistutdannelsen» vedtatt 8. desember 1972.«Regler for gjennomføring av prøver i tilknytning til obligatoriske kurs» vedtatt 14. februar 1991.«Retningslinjer for vurdering av kurs i relasjon til legers videre- og etterutdanning» vedtatt 20. februar 1995.«Retningslinjer for godkjenning av psykoterapiveiledere i barne- og ungdomspsykiatri» vedtatt 23. februar 1988.«Retningslinjer for godkjenning av veiledere i psykoterapi i relasjon til spesialistreglene i psykiatri».«Retningslinjer for godkjenning av veileder i allmennmedisin/arbeidsmedisin/samfunnsmedisin».
+Inntil nye regler er vedtatt og trer i kraft skal følgende regler med senere endringer, gjelde så langt de passer:
+
+1. «Krav om kursdeltagelse, undervisning i spesialistutdannelsen» vedtatt 8. desember 1972.
+2. «Regler for gjennomføring av prøver i tilknytning til obligatoriske kurs» vedtatt 14. februar 1991.
+3. «Retningslinjer for vurdering av kurs i relasjon til legers videre- og etterutdanning» vedtatt 20. februar 1995.
+4. «Retningslinjer for godkjenning av psykoterapiveiledere i barne- og ungdomspsykiatri» vedtatt 23. februar 1988.
+5. «Retningslinjer for godkjenning av veiledere i psykoterapi i relasjon til spesialistreglene i psykiatri».
+6. «Retningslinjer for godkjenning av veileder i allmennmedisin/arbeidsmedisin/samfunnsmedisin».
 
 > Endret ved [forskrift 1 des 2012 nr. 1119](forskrift/2012-12-01-1119).
 
 ## § 9. Vilkår for tilsetting i stilling som er en del av spesialistutdanningen
 
-Autorisasjon som lege skal senest dokumenteres når en stilling som er en del av spesialistutdanningen i sykehus eller kommune tiltres. Ett av følgende vilkår skal også dokumenteres:godkjent turnustjeneste etter [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18) eller etter [forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning,godkjent alternativ veiledet tjeneste etter departementets retningslinjer i rundskriv [I-2008-1](rundskriv/i-2008-1) som er påbegynt før 1. desember 2012,tidligere tilsetting i stilling som er en del av norsk spesialistutdanning i sykehus eller kommune.
+Autorisasjon som lege skal senest dokumenteres når en stilling som er en del av spesialistutdanningen i sykehus eller kommune tiltres. Ett av følgende vilkår skal også dokumenteres:
 
-Kravet til dokumentasjon i andre ledd gjelder ikke den somer tildelt autorisasjon før 1. desember 2012, ellerhar autorisasjon på grunnlag av gjennomført grunnleggende legeutdanning i andre EØS-land.
+1. godkjent turnustjeneste etter [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18) eller etter [forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning,
+2. godkjent alternativ veiledet tjeneste etter departementets retningslinjer i rundskriv [I-2008-1](rundskriv/i-2008-1) som er påbegynt før 1. desember 2012,
+3. tidligere tilsetting i stilling som er en del av norsk spesialistutdanning i sykehus eller kommune.
+
+Kravet til dokumentasjon i andre ledd gjelder ikke den som
+
+1. er tildelt autorisasjon før 1. desember 2012, eller
+2. har autorisasjon på grunnlag av gjennomført grunnleggende legeutdanning i andre EØS-land.
 
 > Endret ved [forskrift 1 des 2012 nr. 1119](forskrift/2012-12-01-1119).
 
 ## § 10. Bestemmelser om turnustjenesten som er felles med overgangsordning
 
-[Forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning følgende paragrafer gjelder for turnusstillinger etter [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18):[§ 1](forskrift/2000-12-21-1384/§1) om formålet med turnustjenesten og krav til forsvarlig tilrettelegging og gjennomføring av turnustjenesten[§ 3](forskrift/2000-12-21-1384/§3) med definisjoner[§ 4](forskrift/2000-12-21-1384/§4) om gjennomføring av og innholdet i turnustjenesten[§ 10](forskrift/2000-12-21-1384/§10) om opprettelse og fordeling av turnusplasser[§ 11](forskrift/2000-12-21-1384/§11) om pålegg om mottak og tilsetting av turnusleger[§ 13](forskrift/2000-12-21-1384/§13) om turnusstedets plikter[§ 14](forskrift/2000-12-21-1384/§14) om at turnuslegen er arbeidstaker og turnusstedet er arbeidsgiver[§ 14](forskrift/2000-12-21-1384/§14)a om krav til kunnskaper i norsk språk[§ 15](forskrift/2000-12-21-1384/§15) tredje ledd om varslingsplikt ved uteblitt oppmøte[§ 16](forskrift/2000-12-21-1384/§16) første ledd om tiltak for å hjelpe turnuslegen til rette[§ 17](forskrift/2000-12-21-1384/§17) om turnustilskudd til kommunene[§ 20](forskrift/2000-12-21-1384/§20) om godkjenning av turnustjenesten§ 21 om adgangen til å gi retningslinjer og gjøre unntak§ 22 om klageadgang§ 23 om forsøksordninger.
+[Forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning følgende paragrafer gjelder for turnusstillinger etter [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18):
+
+1. [§ 1](forskrift/2000-12-21-1384/§1) om formålet med turnustjenesten og krav til forsvarlig tilrettelegging og gjennomføring av turnustjenesten
+2. [§ 3](forskrift/2000-12-21-1384/§3) med definisjoner
+3. [§ 4](forskrift/2000-12-21-1384/§4) om gjennomføring av og innholdet i turnustjenesten
+4. [§ 10](forskrift/2000-12-21-1384/§10) om opprettelse og fordeling av turnusplasser
+5. [§ 11](forskrift/2000-12-21-1384/§11) om pålegg om mottak og tilsetting av turnusleger
+6. [§ 13](forskrift/2000-12-21-1384/§13) om turnusstedets plikter
+7. [§ 14](forskrift/2000-12-21-1384/§14) om at turnuslegen er arbeidstaker og turnusstedet er arbeidsgiver
+8. [§ 14](forskrift/2000-12-21-1384/§14)a om krav til kunnskaper i norsk språk
+9. [§ 15](forskrift/2000-12-21-1384/§15) tredje ledd om varslingsplikt ved uteblitt oppmøte
+10. [§ 16](forskrift/2000-12-21-1384/§16) første ledd om tiltak for å hjelpe turnuslegen til rette
+11. [§ 17](forskrift/2000-12-21-1384/§17) om turnustilskudd til kommunene
+12. [§ 20](forskrift/2000-12-21-1384/§20) om godkjenning av turnustjenesten
+13. § 21 om adgangen til å gi retningslinjer og gjøre unntak
+14. § 22 om klageadgang
+15. § 23 om forsøksordninger.
 
 > Tilføyd ved [forskrift 1 des 2012 nr. 1119](forskrift/2012-12-01-1119).
 
@@ -98,7 +128,10 @@ Søknadsfristen for turnusstillinger skal formidles i god tid og skal ikke være
 
 ## § 12. Kobling av stilling i sykehus og kommune
 
-Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut turnuslegestillinger koblet, slik at den som tilsettes får anledning til å gjennomføre turnustjeneste. Stillingene kan kobles på en av følgende måter:Søkeren tilsettes samtidig i en stilling ved et sykehus, eller et helseforetak, og i en stilling i en bestemt kommune.Søkeren tilsettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal tilsettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
+Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut turnuslegestillinger koblet, slik at den som tilsettes får anledning til å gjennomføre turnustjeneste. Stillingene kan kobles på en av følgende måter:
+
+1. Søkeren tilsettes samtidig i en stilling ved et sykehus, eller et helseforetak, og i en stilling i en bestemt kommune.
+2. Søkeren tilsettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal tilsettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
 
 Tilsettingen i sykehuset og tilsettingen i kommunen er to ulike arbeidsforhold.
 
@@ -120,9 +153,15 @@ Søkernes frist for å akseptere et tilbud etter første tilbudsrunde, skal ikke
 
 ## § 14. Vilkår for tilsetting i turnusstilling
 
-Ved tilsetting i turnusstilling skal søkeren senest når tjenesten tiltres, dokumentereautorisasjon som lege eller turnuslegelisenstilstrekkelige norskkunnskaper for en forsvarlig yrkesutøvelse.
+Ved tilsetting i turnusstilling skal søkeren senest når tjenesten tiltres, dokumentere
 
-En lege kan ikke tilsettes i en turnusstilling hvis hun eller hanallerede har fått godkjent praktisk tjeneste i turnusstilling etter [§ 11](forskrift/2000-12-21-1384/§11) til [§ 19](forskrift/2000-12-21-1384/§19) eller etter [forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning [§ 20](forskrift/2001-12-20-1549/§20) ellerhar akseptert et tilbud om en turnusstilling som har vært lyst ut tidligere i samme halvår.
+1. autorisasjon som lege eller turnuslegelisens
+2. tilstrekkelige norskkunnskaper for en forsvarlig yrkesutøvelse.
+
+En lege kan ikke tilsettes i en turnusstilling hvis hun eller han
+
+1. allerede har fått godkjent praktisk tjeneste i turnusstilling etter [§ 11](forskrift/2000-12-21-1384/§11) til [§ 19](forskrift/2000-12-21-1384/§19) eller etter [forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning [§ 20](forskrift/2001-12-20-1549/§20) eller
+2. har akseptert et tilbud om en turnusstilling som har vært lyst ut tidligere i samme halvår.
 
 > Tilføyd ved [forskrift 1 des 2012 nr. 1119](forskrift/2012-12-01-1119).
 
@@ -172,7 +211,11 @@ I grunnlaget for et vedtak om godkjenning av turnustjeneste skal Helsedirektorat
 
 ## § 19. Overgangsregler
 
-Fra 1. mars 2017 gjelder forskriften bare i følgende tilfeller:For leger som før 1. mars 2017 har fått tilbud om turnusstilling, gjelder [§ 8](forskrift/2000-12-21-1384/§8) og [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18).For leger som før 1. mars 2019 har fått tilbud om stilling som lege i spesialisering, gjelder [§ 1](forskrift/2000-12-21-1384/§1), [§ 3](forskrift/2000-12-21-1384/§3), [§ 4](forskrift/2000-12-21-1384/§4), [§ 9](forskrift/2000-12-21-1384/§9) og regler gitt i medhold av [§ 3](forskrift/2000-12-21-1384/§3).For leger som omfattes av overgangsordningen i [spesialistforskriften § 32](forskrift/2016-12-08-1482/§32) andre ledd bokstav d, gjelder [§ 1](forskrift/2016-12-08-1482/§1), [§ 3](forskrift/2016-12-08-1482/§3), [§ 4](forskrift/2016-12-08-1482/§4), [§ 7](forskrift/2016-12-08-1482/§7), [§ 9](forskrift/2016-12-08-1482/§9) og regler gitt i medhold av [§ 3](forskrift/2016-12-08-1482/§3).
+Fra 1. mars 2017 gjelder forskriften bare i følgende tilfeller:
+
+1. For leger som før 1. mars 2017 har fått tilbud om turnusstilling, gjelder [§ 8](forskrift/2000-12-21-1384/§8) og [§ 10](forskrift/2000-12-21-1384/§10) til [§ 18](forskrift/2000-12-21-1384/§18).
+2. For leger som før 1. mars 2019 har fått tilbud om stilling som lege i spesialisering, gjelder [§ 1](forskrift/2000-12-21-1384/§1), [§ 3](forskrift/2000-12-21-1384/§3), [§ 4](forskrift/2000-12-21-1384/§4), [§ 9](forskrift/2000-12-21-1384/§9) og regler gitt i medhold av [§ 3](forskrift/2000-12-21-1384/§3).
+3. For leger som omfattes av overgangsordningen i [spesialistforskriften § 32](forskrift/2016-12-08-1482/§32) andre ledd bokstav d, gjelder [§ 1](forskrift/2016-12-08-1482/§1), [§ 3](forskrift/2016-12-08-1482/§3), [§ 4](forskrift/2016-12-08-1482/§4), [§ 7](forskrift/2016-12-08-1482/§7), [§ 9](forskrift/2016-12-08-1482/§9) og regler gitt i medhold av [§ 3](forskrift/2016-12-08-1482/§3).
 
 > Tilføyd ved [forskrift 1 des 2012 nr. 1119](forskrift/2012-12-01-1119), endret ved [forskrifter 6 nov 2014 nr. 1446](forskrift/2014-11-06-1446) (i kraft 1 jan 2015), [8 des 2016 nr. 1482](forskrift/2016-12-08-1482) (i kraft 1 mars 2017), [16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017).
 

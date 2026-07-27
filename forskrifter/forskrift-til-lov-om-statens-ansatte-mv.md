@@ -28,7 +28,22 @@ Forskriften gjelder for arbeidstakere i staten. For embetsmenn og statsansatte g
 
 ## § 2. Unntak fra statsansatteloven
 
-(1) Unntatt fra statsansatteloven er:lokalt ansatte arbeidstakere ved norske utenriksstasjoner og tjenestesteder i utlandetarbeidstakere som deltar i midlertidige arbeidsmarkedstiltak som helt eller delvis finansieres over statsbudsjettet. Arbeidstakere som ansettes i ordinær stilling med lønnstilskudd er likevel ikke unntatt fra statsansattelovenlærlinger, praksisbrevkandidater og lærekandidater etter [opplæringslova § 4-1](lov/1998-07-17-61/§4-1)ansatte i Norges forskningsrådforelesere, hjelpelærere, øvingslærere, timelærere og praksisveiledere med mindre enn 37,5 prosent av full stilling, eksamenssensorer og eksamensinspektørerundervisningspersonale i statlige videregående skoleroverenskomstlønnede arbeidstakere ved Forsvarets verkstederarbeidstakere som påtar seg å utføre et mindre arbeid eller oppdrag for Forsvaret i tillegg til sitt vanlige arbeidintervjuere i Statistisk sentralbyråmeteorologiske observatørerhydrologiske observatørerturnépersonale ved Riksteatereteksterne medlemmer av Klagenemnden for industrielle rettigheterarbeidstakere som gjør tjeneste på pensjonistvilkår.
+(1) Unntatt fra statsansatteloven er:
+
+1. lokalt ansatte arbeidstakere ved norske utenriksstasjoner og tjenestesteder i utlandet
+2. arbeidstakere som deltar i midlertidige arbeidsmarkedstiltak som helt eller delvis finansieres over statsbudsjettet. Arbeidstakere som ansettes i ordinær stilling med lønnstilskudd er likevel ikke unntatt fra statsansatteloven
+3. lærlinger, praksisbrevkandidater og lærekandidater etter [opplæringslova § 4-1](lov/1998-07-17-61/§4-1)
+4. ansatte i Norges forskningsråd
+5. forelesere, hjelpelærere, øvingslærere, timelærere og praksisveiledere med mindre enn 37,5 prosent av full stilling, eksamenssensorer og eksamensinspektører
+6. undervisningspersonale i statlige videregående skoler
+7. overenskomstlønnede arbeidstakere ved Forsvarets verksteder
+8. arbeidstakere som påtar seg å utføre et mindre arbeid eller oppdrag for Forsvaret i tillegg til sitt vanlige arbeid
+9. intervjuere i Statistisk sentralbyrå
+10. meteorologiske observatører
+11. hydrologiske observatører
+12. turnépersonale ved Riksteateret
+13. eksterne medlemmer av Klagenemnden for industrielle rettigheter
+14. arbeidstakere som gjør tjeneste på pensjonistvilkår.
 
 (2) Dersom statsansatte mot særskilt godtgjørelse overtar eller blir pålagt å utføre arbeid i staten i tillegg til deres vanlige arbeid, regnes ikke dette arbeidet som et eget ansettelsesforhold, med mindre noe annet er uttrykkelig bestemt.
 
@@ -44,7 +59,10 @@ Forskriften gjelder for arbeidstakere i staten. For embetsmenn og statsansatte g
 
 (1) Ledige stillinger knyttet til Forsvarets etterretningsvirksomhet kan unntas fra kravet til offentlig utlysning i [statsansatteloven § 4](lov/2017-06-16-67/§4), dersom særlige hensyn til sikkerhet og konfidensialitet tilsier dette.
 
-(2) Det kan gjøres unntak fra kravet om offentlig utlysning i [statsansatteloven § 4](lov/2017-06-16-67/§4) dersom det ansettes en personsom har gjennomført traineeprogram etter [§ 5](forskrift/2017-06-21-838/§5) andre ledd i samme virksomhet og som er kvalifisert for stillingen, elleri midlertidig stilling i inntil to år med midlertidig lønnstilskudd som har funksjonsnedsettelse etter [§ 4](forskrift/2017-06-21-838/§4) eller fravær fra arbeid, utdanning eller opplæring etter [§ 4a](forskrift/2017-06-21-838/§4a).
+(2) Det kan gjøres unntak fra kravet om offentlig utlysning i [statsansatteloven § 4](lov/2017-06-16-67/§4) dersom det ansettes en person
+
+1. som har gjennomført traineeprogram etter [§ 5](forskrift/2017-06-21-838/§5) andre ledd i samme virksomhet og som er kvalifisert for stillingen, eller
+2. i midlertidig stilling i inntil to år med midlertidig lønnstilskudd som har funksjonsnedsettelse etter [§ 4](forskrift/2017-06-21-838/§4) eller fravær fra arbeid, utdanning eller opplæring etter [§ 4a](forskrift/2017-06-21-838/§4a).
 
 > Tilføyd ved [forskrift 13 des 2019 nr. 1750](forskrift/2019-12-13-1750) (i kraft 1 jan 2020), endret ved forskrift [22 juni 2022 nr. 1113](forskrift/2022-06-22-1113) (i kraft 1 juli 2022).
 
@@ -86,7 +104,18 @@ Forskriften gjelder for arbeidstakere i staten. For embetsmenn og statsansatte g
 
 (2) Åremålsperiodene for statsansatt som er øverste leder i en virksomhet, og for embetsmann, skal være seks år. Det kan fastsettes en kortere periode i særlige tilfeller. Ansettelse på åremål kan bare gjentas én gang for hver statsansatt i samme stilling og for hver embetsmann i samme embete.
 
-(3) Som utdanningsstilling etter [statsansatteloven § 9](lov/2017-06-16-67/§9) første ledd bokstav d), regnes:spesialistkandidatstipendiatvitenskapelig assistentdommerfullmektigrettsfullmektig.Nærmere regler om varighet, arbeidets omfang og innhold i stillingene, og om adgangen til å forlenge ansettelsesforholdet, kan gis av:Justis- og beredskapsdepartementet for stilling som dommerfullmektig, jf. [domstolloven § 55g](lov/1915-08-13-5/§55g)Arbeids- og sosialdepartementet for stilling som rettsfullmektig, jf. [trygderettsloven § 3](lov/1966-12-16-9/§3) fjerde ledd.
+(3) Som utdanningsstilling etter [statsansatteloven § 9](lov/2017-06-16-67/§9) første ledd bokstav d), regnes:
+
+1. spesialistkandidat
+2. stipendiat
+3. vitenskapelig assistent
+4. dommerfullmektig
+5. rettsfullmektig.
+
+Nærmere regler om varighet, arbeidets omfang og innhold i stillingene, og om adgangen til å forlenge ansettelsesforholdet, kan gis av:
+
+- Justis- og beredskapsdepartementet for stilling som dommerfullmektig, jf. [domstolloven § 55g](lov/1915-08-13-5/§55g)
+- Arbeids- og sosialdepartementet for stilling som rettsfullmektig, jf. [trygderettsloven § 3](lov/1966-12-16-9/§3) fjerde ledd.
 
 (4) Ansettelse på åremål kan benyttes for postdoktorstillinger, jf. [statsansatteloven § 10](lov/2017-06-16-67/§10) tredje ledd.
 
@@ -100,15 +129,39 @@ Forskriften gjelder for arbeidstakere i staten. For embetsmenn og statsansatte g
 
 ## § 7. Nærmere regler om annen passende stilling
 
-(1) Som annen passende stilling etter [statsansatteloven § 19](lov/2017-06-16-67/§19), [§ 20](lov/2017-06-16-67/§20) og [§ 27](lov/2017-06-16-67/§27) regnes ikke:embeter eller stillinger som besettes av Kongen i statsrådstilling som øverste leder i en virksomhetåremålsstillingerutdanningsstillingerstilling som omfattes av begrepet praksisarbeidstilling som er høyere rangert, eller som adskiller seg vesentlig fra den stillingen som vedkommende må fratrestilling som professor, dosent, førsteamanuensis eller førstelektor, med mindre arbeidstakeren allerede er ansatt i en slik stilling.
+(1) Som annen passende stilling etter [statsansatteloven § 19](lov/2017-06-16-67/§19), [§ 20](lov/2017-06-16-67/§20) og [§ 27](lov/2017-06-16-67/§27) regnes ikke:
 
-(2) Arbeidsgivers tilbud om annen passende stilling gjelder ikke den som blir sagt opp fra:åremålsstillingerutdanningsstillingerstillinger som omfattes av begrepet praksisarbeidstillinger i Forsvaret som befal og grenader/konstabel.
+1. embeter eller stillinger som besettes av Kongen i statsråd
+2. stilling som øverste leder i en virksomhet
+3. åremålsstillinger
+4. utdanningsstillinger
+5. stilling som omfattes av begrepet praksisarbeid
+6. stilling som er høyere rangert, eller som adskiller seg vesentlig fra den stillingen som vedkommende må fratre
+7. stilling som professor, dosent, førsteamanuensis eller førstelektor, med mindre arbeidstakeren allerede er ansatt i en slik stilling.
+
+(2) Arbeidsgivers tilbud om annen passende stilling gjelder ikke den som blir sagt opp fra:
+
+1. åremålsstillinger
+2. utdanningsstillinger
+3. stillinger som omfattes av begrepet praksisarbeid
+4. stillinger i Forsvaret som befal og grenader/konstabel.
 
 ## § 8. Nærmere regler om fortrinnsrett
 
 (1) Fortrinnsrett etter [statsansatteloven § 13](lov/2017-06-16-67/§13) og [§ 24](lov/2017-06-16-67/§24) kan ikke gjøres gjeldende av midlertidig ansatt, inkludert ansatt i åremåls- eller utdanningsstilling. Fortrinnsrett etter [§ 13](lov/2017-06-16-67/§13) kan likevel gjøres gjeldende av midlertidig ansatt til ekstravakter og lignende i virksomheten.
 
-(2) Fortrinnsrett til annen passende stilling i staten etter [statsansatteloven § 24](lov/2017-06-16-67/§24) gjelder ikke ansettelse i:Stortinget, Riksrevisjonen, eller andre organer under Stortinget eller hos Stortingets ombudsmennSametingetstilling som jurist i ikke-dømmende stillinger i Høyesterettstilling som øverste leder i en virksomhetutdanningsstillingeråremålsstillingerstilling som traineestilling som er høyere rangert, eller med arbeidsinnhold eller funksjoner som adskiller seg vesentlig fra tidligere stillingstilling hvor stillingsbrøken er mer enn 10 prosentpoeng større enn tidligere stillingstilling som professor, dosent, førsteamanuensis eller førstelektor, med mindre arbeidstakeren er sagt opp fra slik stilling.
+(2) Fortrinnsrett til annen passende stilling i staten etter [statsansatteloven § 24](lov/2017-06-16-67/§24) gjelder ikke ansettelse i:
+
+1. Stortinget, Riksrevisjonen, eller andre organer under Stortinget eller hos Stortingets ombudsmenn
+2. Sametinget
+3. stilling som jurist i ikke-dømmende stillinger i Høyesterett
+4. stilling som øverste leder i en virksomhet
+5. utdanningsstillinger
+6. åremålsstillinger
+7. stilling som trainee
+8. stilling som er høyere rangert, eller med arbeidsinnhold eller funksjoner som adskiller seg vesentlig fra tidligere stilling
+9. stilling hvor stillingsbrøken er mer enn 10 prosentpoeng større enn tidligere stilling
+10. stilling som professor, dosent, førsteamanuensis eller førstelektor, med mindre arbeidstakeren er sagt opp fra slik stilling.
 
 (3) Hvis flere statsansatte eller embetsmenn med fortrinnsrett er søkere til samme stilling, og de er kvalifiserte i samsvar med [statsansatteloven § 24](lov/2017-06-16-67/§24), gjelder ikke fortrinnsretten i forholdet mellom dem. Ansettelsesorganet skal da i valget mellom dem legge til grunn de samme vurderinger som benyttes i valget mellom søkere uten fortrinnsrett.
 

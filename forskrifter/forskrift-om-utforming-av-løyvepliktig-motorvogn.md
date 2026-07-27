@@ -32,7 +32,12 @@ Forskriften gjelder for løyvepliktig persontransport i rute og i løyvepliktig 
 
 Definisjonene i [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil (bilforskriften) gjelder så langt de passer.
 
-Ellers gjelder følgende definisjoner for denne forskriften:*Bil for transport for personer med nedsatt funksjonsevne:* Motorvogn i løyvepliktig transport som er spesielt utformet eller utstyrt for transport for funksjonshemmede.*Passasjerplass:* Plass som er beregnet for transport av passasjerer.*Sitteplass:* Plass beregnet for sittende passasjerer i faste eller demonterbare stoler.*Rullestolplass:* Plass beregnet for passasjer sittende i rullestol.
+Ellers gjelder følgende definisjoner for denne forskriften:
+
+1. *Bil for transport for personer med nedsatt funksjonsevne:* Motorvogn i løyvepliktig transport som er spesielt utformet eller utstyrt for transport for funksjonshemmede.
+2. *Passasjerplass:* Plass som er beregnet for transport av passasjerer.
+3. *Sitteplass:* Plass beregnet for sittende passasjerer i faste eller demonterbare stoler.
+4. *Rullestolplass:* Plass beregnet for passasjer sittende i rullestol.
 
 > Endret ved [forskrift 13 aug 2020 nr. 1637](forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).
 
@@ -50,7 +55,10 @@ Dokumentasjon som nevnt i første og andre ledd skal utstedes av fabrikanten av 
 
 Buss som er omfattet av forskriften skal oppfylle kravene i ECE-regulativ 107.05, vedlegg 8.
 
-I tillegg skal buss som benyttes i løyvepliktig persontransport i rute ha:Automatisk holdeplassannonsering med tale og elektronisk tavle inne i bussen plassert slik at den kan ses tydelig fra reservert plass.Utvendig utroperanlegg (lydfyr) som annonserer hvilken buss det er som ankommer holdeplassen.
+I tillegg skal buss som benyttes i løyvepliktig persontransport i rute ha:
+
+1. Automatisk holdeplassannonsering med tale og elektronisk tavle inne i bussen plassert slik at den kan ses tydelig fra reservert plass.
+2. Utvendig utroperanlegg (lydfyr) som annonserer hvilken buss det er som ankommer holdeplassen.
 
 Valg av ombordstigningsinnretning må baseres på bussens konstruksjon. Det skal være minst en rullestolplass i hver buss.
 
@@ -66,7 +74,14 @@ Buss i klasse I, II og III som omfattes av forskriften og som førstegangsregist
 
 ## § 6. Krav til personbil
 
-Personbil skal tilfredsstille kravene i direktiv [2007/46/EF](eu/32007l0046) vedlegg XI tillegg 3 under overskrift «Supplerende krav for testing av festeanordning til rullestolen og rullestolbrukeren». I tillegg gjelder følgende:Rullestolplass skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.6.1.Sitteplass i tilknytning til rullestolområdet skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.7.Belysning skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.6.12.Heis, ramper og lignende skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.11.Plass for brannslukningsapparat og førstehjelpsutstyr skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.5.4.Arbeidslys skal være i henhold til [kjøretøyforskriften § 28-5](forskrift/1994-10-04-918/§28-5) [pkt](forskrift/1994-10-04-918/kap8). 8.
+Personbil skal tilfredsstille kravene i direktiv [2007/46/EF](eu/32007l0046) vedlegg XI tillegg 3 under overskrift «Supplerende krav for testing av festeanordning til rullestolen og rullestolbrukeren». I tillegg gjelder følgende:
+
+1. Rullestolplass skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.6.1.
+2. Sitteplass i tilknytning til rullestolområdet skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.7.
+3. Belysning skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.6.12.
+4. Heis, ramper og lignende skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.11.
+5. Plass for brannslukningsapparat og førstehjelpsutstyr skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.5.4.
+6. Arbeidslys skal være i henhold til [kjøretøyforskriften § 28-5](forskrift/1994-10-04-918/§28-5) [pkt](forskrift/1994-10-04-918/kap8). 8.
 
 > Endret ved [forskrift 13 aug 2020 nr. 1637](forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).
 

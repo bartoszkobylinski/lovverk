@@ -15,7 +15,7 @@ xml_hash: "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonoverfor alle norske statsborgere uansett hvor de befinner segoverfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningoverfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Denne forskriften med vedlegg kommer til anvendelse:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle luftfartøy eller fartøy under norsk jurisdiksjon
+3. overfor alle norske statsborgere uansett hvor de befinner seg
+4. overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
+5. overfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 > Endret ved [forskrifter 18 april 2007 nr. 579](forskrift/2007-04-18-579), [17 aug 2009 nr. 1094](forskrift/2009-08-17-1094), [28 mars 2014 nr. 335](forskrift/2014-03-28-335).
 
@@ -32,7 +38,11 @@ Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inklu
 
 (1) Forordning [(EU) 2017/1509](eu/32017r1509*) om restriktive tiltak mot Den demokratiske folkerepublikken Korea, med senere endringer, gjelder som forskrift i sin vedlagte form, og med de tilpasninger som følger av denne bestemmelsen.
 
-(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak:«EUs felles liste over militært materiell» i artikkel 7 nr. 1 og 9 nr. 1 skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I til [forskrift 19. juni 2013 nr. 718](forskrift/2013-06-19-718) om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)«EU og EUs medlemsstater» i artikkel 7 nr. 2 skal forstås som også å omfatte NorgeHenvisningene til medlemsstatene og EU i artikkel 34 nr. 4 tredje ledd bokstav b skal ikke forstås som «Norge».
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak:
+
+1. «EUs felles liste over militært materiell» i artikkel 7 nr. 1 og 9 nr. 1 skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I til [forskrift 19. juni 2013 nr. 718](forskrift/2013-06-19-718) om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)
+2. «EU og EUs medlemsstater» i artikkel 7 nr. 2 skal forstås som også å omfatte Norge
+3. Henvisningene til medlemsstatene og EU i artikkel 34 nr. 4 tredje ledd bokstav b skal ikke forstås som «Norge».
 
 (3) Henvisningene til «artikkel 1» i artikkel 21 og 30 skal forstås som henvisninger til [§ 1](forskrift/2006-12-15-1405/§1) i denne forskriften.
 
@@ -64,7 +74,29 @@ Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 34 nr.
 
 > Tilføyd ved [forskrift 17 aug 2009 nr. 1094](forskrift/2009-08-17-1094), endret ved [forskrifter 28 mars 2014 nr. 335](forskrift/2014-03-28-335), [21 nov 2017 nr. 1853](forskrift/2017-11-21-1853).
 
-1 *Resolusjon 1730 (2006)*Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006Fremgangsmåte ved avlistingSikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.Kontaktpunktet skal ha følgende oppgaver:Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.Informere søker omat Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, ellerat komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
+1 *Resolusjon 1730 (2006)*
+
+Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006
+
+Fremgangsmåte ved avlisting
+
+Sikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.
+
+Kontaktpunktet skal ha følgende oppgaver:
+
+1. Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).
+2. Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.
+3. Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.
+4. Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.
+5. Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.
+6. 1. Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.
+   2. Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.
+   3. Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.
+7. Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.
+8. Informere søker om
+
+   1. at Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, eller
+   2. at komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
 
 ## § 4. Straff
 
@@ -103,7 +135,13 @@ Definisjoner
 
 ### Artikkel 1
 
-Denne forordning får anvendelsepå EUs territorium,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordning får anvendelse
+
+1. på EUs territorium,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 2
 
@@ -111,9 +149,18 @@ I denne forordning menes med
 
 1\. «filial av en finans- eller kredittinstitusjon»: et forretningssted som utgjør en juridisk avhengig del av en finans- eller kredittinstitusjon, og som direkte utfører alle eller noen av transaksjonene som hører inn under finans- eller kredittinstitusjoners forretningsvirksomhet,
 
-2\. «formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
+2\. «formidlingstjenester»:
 
-3\. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, eller
+2. salg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
+
+3\. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+1. krav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+4. motkrav,
+5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
 
 4\. «kompetente myndigheter»: de kompetente myndigheter som angitt på nettsidene oppført i vedlegg I,
 
@@ -125,17 +172,41 @@ I denne forordning menes med
 
 8\. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, faktiske eller potensielle, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester, herunder fartøyer, for eksempel havgående fartøyer,
 
-9\. «finansinstitusjon»:et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),3 herunder virksomhet som vekslekontor,et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),4 i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),5et foretak for kollektiv investering som markedsfører sine enheter eller andeler,en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)6 når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,filialer, når de befinner seg i EU, av finansinstitusjoner omtalt i bokstav a)–e), uansett om deres hovedkontor befinner seg i en medlemsstat eller i et tredjeland,
+9\. «finansinstitusjon»:
+
+1. et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),3 herunder virksomhet som vekslekontor,
+2. et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),4 i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,
+3. et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),5
+4. et foretak for kollektiv investering som markedsfører sine enheter eller andeler,
+5. en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)6 når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,
+6. filialer, når de befinner seg i EU, av finansinstitusjoner omtalt i bokstav a)–e), uansett om deres hovedkontor befinner seg i en medlemsstat eller i et tredjeland,
 
 10\. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
 
 11\. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
 
-12\. «penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,
+12\. «penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset til
+
+1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+6. remburser, konnossementer og pantebrev,
+7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
 
 13\. «forsikring»: et tilsagn om eller en forpliktelse for en eller flere fysiske eller juridiske personer til, mot betaling og i tilfelle forsikringsbegivenheten inntrer, å yte en eller flere andre personer erstatning eller en fordel som presisert i tilsagnet eller forpliktelsen,
 
-14\. «investeringstjenester»: følgende tjenester og virksomhet:mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,effektuering av ordrer på vegne av kunder,handel for egen regning,porteføljeforvaltning,investeringsrådgivning,garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,plassering av finansielle instrumenter uten fast forpliktelse,enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem,
+14\. «investeringstjenester»: følgende tjenester og virksomhet:
+
+1. mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,
+2. effektuering av ordrer på vegne av kunder,
+3. handel for egen regning,
+4. porteføljeforvaltning,
+5. investeringsrådgivning,
+6. garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,
+7. plassering av finansielle instrumenter uten fast forpliktelse,
+8. enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem,
 
 15\. «mottaker»: en fysisk eller juridisk person som pengene er ment overført til,
 
@@ -153,18 +224,54 @@ I denne forordning menes med
 
 22\. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom,
 
-23\. «pengeoverføring»:enhver transaksjon som i det minste delvis utføres med elektroniske midler på betalers vegne gjennom en betalingsformidler for å stille penger til disposisjon for mottaker hos en betalingsformidler, uansett om betaler og mottaker er en og samme person, og uansett om betalers og mottakers betalingsformidler er en og samme tjenesteyter, herunderen kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),9en direkte debitering som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 260/2012](eu/32012r0260),en pengeoverføring som definert i artikkel 4 nr. 13 i direktiv [2007/64/EF](eu/32007l0064*), enten innenlands eller over landegrenser,en overføring som utføres med et betalingskort, et elektronisk pengeinstrument eller en mobiltelefon eller med andre digitale eller IT-baserte innretninger med lignende egenskaper, enten den betales på forskudd eller etterskudd, ogenhver transaksjon som utføres med ikke-elektroniske midler, som kontanter, sjekker eller betalingsanvisninger, for å stille penger til disposisjon for mottaker, uansett om betaler og mottaker er en og samme person.
+23\. «pengeoverføring»:
 
-24\. «fartøy som bemannes av Nord-Korea»:et fartøy hvis besetning kontrolleres aven fysisk person med nordkoreansk statsborgerskap, elleren juridisk person, en enhet eller et organ etablert eller stiftet i henhold til nordkoreansk lovgivning,et fartøy hvis besetning utelukkende består av nordkoreanske statsborgere.
+1. enhver transaksjon som i det minste delvis utføres med elektroniske midler på betalers vegne gjennom en betalingsformidler for å stille penger til disposisjon for mottaker hos en betalingsformidler, uansett om betaler og mottaker er en og samme person, og uansett om betalers og mottakers betalingsformidler er en og samme tjenesteyter, herunder
 
-2 Europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*) av 26. juni 2013 om tilsynskrav for kredittinstitusjoner og verdipapirforetak og om endring av forordning [(EU) nr. 648/2012](eu/32012r0648) (EUT L 176 av 27.6.2013, s. 1).3 Europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*) av 26. juni 2013 om adgang til å utøve virksomhet som kredittinstitusjon og om tilsyn med kredittinstitusjoner og verdipapirforetak, om endring av direktiv [2002/87/EF](eu/32002l0087) og om oppheving av direktiv [2006/48/EF](eu/32006l0048) og [2006/49/EF](eu/32006l0049) (EUT L 176 av 27.6.2013, s. 338).4 Europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*) av 25. november 2009 om adgang til å starte og utøve virksomhet innen forsikring og gjenforsikring (Solvens II) (EUT L 335 av 17.12.2009, s. 1).5 Europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*) av 21. april 2004 om markeder for finansielle instrumenter, om endring av rådsdirektiv [85/611/EØF](eu/31985l0611) og [93/6/EØF](eu/31993l0006) og europaparlaments- og rådsdirektiv [2000/12/EF](eu/32000l0012*) og om oppheving av rådsdirektiv [93/22/EØF](eu/31993l0022*) (EUT L 145 av 30.4.2004, s. 1).6 Europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092) av 9. desember 2002 om forsikringsformidling (EUT L 9 av 15.1.2003, s. 3).7 Europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*) av 13. november 2007 om betalingstjenester i det indre marked og om endring av direktiv [97/7/EF](eu/31997l0007), [2002/65/EF](eu/32002l0065), [2005/60/EF](eu/32005*0060) og [2006/48/EF](eu/32006*0048) samt oppheving av direktiv [97/5/EF](eu/31997l0005) (EUT L 319 av 5.12.2007, s. 1).8 Europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110) av 16. september 2009 om adgang til å starte og utøve virksomhet som e-pengeforetak og om tilsyn med slik virksomhet, om endring av direktiv [2005/60/EF](eu/32005l0060) og [2006/48/EF](eu/32006*0048) og om oppheving av direktiv [2000/46/EF](eu/32000l0046) (EUT L 267 av 10.10.2009, s. 7).9 Europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260) av 14. mars 2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro og om endring av forordning [(EF) nr. 924/2009](eu/32009r0924) (EUT L 94 av 30.3.2012, s. 22).
+   1. en kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),9
+   2. en direkte debitering som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 260/2012](eu/32012r0260),
+   3. en pengeoverføring som definert i artikkel 4 nr. 13 i direktiv [2007/64/EF](eu/32007l0064*), enten innenlands eller over landegrenser,
+   4. en overføring som utføres med et betalingskort, et elektronisk pengeinstrument eller en mobiltelefon eller med andre digitale eller IT-baserte innretninger med lignende egenskaper, enten den betales på forskudd eller etterskudd, og
+2. enhver transaksjon som utføres med ikke-elektroniske midler, som kontanter, sjekker eller betalingsanvisninger, for å stille penger til disposisjon for mottaker, uansett om betaler og mottaker er en og samme person.
+
+24\. «fartøy som bemannes av Nord-Korea»:
+
+1. et fartøy hvis besetning kontrolleres av
+
+   1. en fysisk person med nordkoreansk statsborgerskap, eller
+   2. en juridisk person, en enhet eller et organ etablert eller stiftet i henhold til nordkoreansk lovgivning,
+2. et fartøy hvis besetning utelukkende består av nordkoreanske statsborgere.
+
+2 Europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*) av 26. juni 2013 om tilsynskrav for kredittinstitusjoner og verdipapirforetak og om endring av forordning [(EU) nr. 648/2012](eu/32012r0648) (EUT L 176 av 27.6.2013, s. 1).
+
+3 Europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*) av 26. juni 2013 om adgang til å utøve virksomhet som kredittinstitusjon og om tilsyn med kredittinstitusjoner og verdipapirforetak, om endring av direktiv [2002/87/EF](eu/32002l0087) og om oppheving av direktiv [2006/48/EF](eu/32006l0048) og [2006/49/EF](eu/32006l0049) (EUT L 176 av 27.6.2013, s. 338).
+
+4 Europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*) av 25. november 2009 om adgang til å starte og utøve virksomhet innen forsikring og gjenforsikring (Solvens II) (EUT L 335 av 17.12.2009, s. 1).
+
+5 Europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*) av 21. april 2004 om markeder for finansielle instrumenter, om endring av rådsdirektiv [85/611/EØF](eu/31985l0611) og [93/6/EØF](eu/31993l0006) og europaparlaments- og rådsdirektiv [2000/12/EF](eu/32000l0012*) og om oppheving av rådsdirektiv [93/22/EØF](eu/31993l0022*) (EUT L 145 av 30.4.2004, s. 1).
+
+6 Europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092) av 9. desember 2002 om forsikringsformidling (EUT L 9 av 15.1.2003, s. 3).
+
+7 Europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*) av 13. november 2007 om betalingstjenester i det indre marked og om endring av direktiv [97/7/EF](eu/31997l0007), [2002/65/EF](eu/32002l0065), [2005/60/EF](eu/32005*0060) og [2006/48/EF](eu/32006*0048) samt oppheving av direktiv [97/5/EF](eu/31997l0005) (EUT L 319 av 5.12.2007, s. 1).
+
+8 Europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110) av 16. september 2009 om adgang til å starte og utøve virksomhet som e-pengeforetak og om tilsyn med slik virksomhet, om endring av direktiv [2005/60/EF](eu/32005l0060) og [2006/48/EF](eu/32006*0048) og om oppheving av direktiv [2000/46/EF](eu/32000l0046) (EUT L 267 av 10.10.2009, s. 7).
+
+9 Europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260) av 14. mars 2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro og om endring av forordning [(EF) nr. 924/2009](eu/32009r0924) (EUT L 94 av 30.3.2012, s. 22).
 
 ### KAPITTEL II
 Eksport- og importrestriksjoner
 
 ### Artikkel 3
 
-1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, herunder programvare, oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å selge, levere, overføre eller eksportere flydrivstoff oppført i vedlegg III til Nord-Korea eller å transportere flydrivstoff til Nord-Korea om bord i fartøyer eller luftfartøyer som fører en medlemsstats flagg, enten det har sin opprinnelse på en medlemsstats territorium eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea varer og teknologi oppført i vedlegg II, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea gull, titanmalm, vanadiummalm og sjeldne jordmetaller oppført i vedlegg IV, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kull, jern og jernmalm oppført i vedlegg V, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea petroleumsprodukter oppført i vedlegg VI, enten de har sin opprinnelse i Nord-Korea eller ikke, ogdirekte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kobber, nikkel, sølv og sink oppført i vedlegg VII, enten de har sin opprinnelse i Nord-Korea eller ikke.
+1\. Det er forbudt
+
+1. direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, herunder programvare, oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,
+2. direkte eller indirekte å selge, levere, overføre eller eksportere flydrivstoff oppført i vedlegg III til Nord-Korea eller å transportere flydrivstoff til Nord-Korea om bord i fartøyer eller luftfartøyer som fører en medlemsstats flagg, enten det har sin opprinnelse på en medlemsstats territorium eller ikke,
+3. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea varer og teknologi oppført i vedlegg II, enten de har sin opprinnelse i Nord-Korea eller ikke,
+4. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea gull, titanmalm, vanadiummalm og sjeldne jordmetaller oppført i vedlegg IV, enten de har sin opprinnelse i Nord-Korea eller ikke,
+5. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kull, jern og jernmalm oppført i vedlegg V, enten de har sin opprinnelse i Nord-Korea eller ikke,
+6. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea petroleumsprodukter oppført i vedlegg VI, enten de har sin opprinnelse i Nord-Korea eller ikke, og
+7. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kobber, nikkel, sølv og sink oppført i vedlegg VII, enten de har sin opprinnelse i Nord-Korea eller ikke.
 
 2\. Vedlegg II del I omfatter alle typer produkter, materialer, utstyr, varer og teknologi, herunder programvare, som er flerbruksvarer eller teknologi som definert i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*). 10
 Vedlegg II del II omfatter andre typer produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
@@ -195,19 +302,31 @@ Vedlegg VII omfatter kobber, nikkel, sølv og sink omtalt i nr. 1 bokstav g).
 
 ### Artikkel 5
 
-1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere til Nord-Korea ethvert produkt, med unntak av matvarer og medisiner, dersom eksportøren har kjennskap til eller har rimelig grunn til å anta atproduktet direkte eller indirekte er bestemt for Nord-Koreas væpnede styrker, ellereksport av produktet kan bidra til å støtte eller styrke den operasjonelle kapasiteten til de væpnede styrkene fra en annen stat enn Nord-Korea.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere til Nord-Korea ethvert produkt, med unntak av matvarer og medisiner, dersom eksportøren har kjennskap til eller har rimelig grunn til å anta at
+
+1. produktet direkte eller indirekte er bestemt for Nord-Koreas væpnede styrker, eller
+2. eksport av produktet kan bidra til å støtte eller styrke den operasjonelle kapasiteten til de væpnede styrkene fra en annen stat enn Nord-Korea.
 
 2\. Det er forbudt å importere, kjøpe eller transportere produkter omtalt i nr. 1 fra Nord-Korea dersom importøren eller transportøren har kjennskap til eller har rimelig grunn til å anta at ett av vilkårene i nr. 1 bokstav a) eller b) er oppfylt.
 
 ### Artikkel 6
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 5 og gi tillatelse til salg, levering, overføring eller eksport av et produkt til Nord-Korea eller til import, kjøp eller transport av et produkt fra Nord-Korea dersomproduktet ikke er forbundet med fremstilling, utvikling, vedlikehold eller bruk av varer til militære formål eller til utvikling eller underhold av militært personell, og den kompetente myndigheten har fastslått at produktet ikke direkte vil bidra til å utvikle den operasjonelle kapasiteten til Nord-Koreas væpnede styrker eller til eksport som støtter eller styrker den operasjonelle kapasiteten til væpnede styrker fra et annet tredjeland enn Nord-Korea,Sanksjonskomiteen har fastslått at bestemte leveranser, salg eller overføringer ikke vil være i strid med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), ellermedlemsstatens kompetente myndighet finner det godtgjort at virksomheten utelukkende tjener humanitære eller livsnødvendige formål, ikke vil bli brukt av nordkoreanske personer, enheter eller organer til å generere inntekter og ikke er forbundet med noen form for virksomhet som er forbudt etter FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), forutsatt at medlemsstaten på forhånd underretter Sanksjonskomiteen om at dette er fastslått, og samtidig informerer komiteen om de tiltak som er truffet for å forhindre at produktet anvendes til forbudte formål.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 5 og gi tillatelse til salg, levering, overføring eller eksport av et produkt til Nord-Korea eller til import, kjøp eller transport av et produkt fra Nord-Korea dersom
+
+1. produktet ikke er forbundet med fremstilling, utvikling, vedlikehold eller bruk av varer til militære formål eller til utvikling eller underhold av militært personell, og den kompetente myndigheten har fastslått at produktet ikke direkte vil bidra til å utvikle den operasjonelle kapasiteten til Nord-Koreas væpnede styrker eller til eksport som støtter eller styrker den operasjonelle kapasiteten til væpnede styrker fra et annet tredjeland enn Nord-Korea,
+2. Sanksjonskomiteen har fastslått at bestemte leveranser, salg eller overføringer ikke vil være i strid med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), eller
+3. medlemsstatens kompetente myndighet finner det godtgjort at virksomheten utelukkende tjener humanitære eller livsnødvendige formål, ikke vil bli brukt av nordkoreanske personer, enheter eller organer til å generere inntekter og ikke er forbundet med noen form for virksomhet som er forbudt etter FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), forutsatt at medlemsstaten på forhånd underretter Sanksjonskomiteen om at dette er fastslått, og samtidig informerer komiteen om de tiltak som er truffet for å forhindre at produktet anvendes til forbudte formål.
 
 2\. Den berørte medlemsstaten skal minst en uke i forveien underrette de øvrige medlemsstatene og Kommisjonen om at tillatelse vil bli gitt i henhold til denne artikkel.
 
 ### Artikkel 7
 
-1\. Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta faglig bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
+1\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,
+3. direkte eller indirekte å motta faglig bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,
+4. direkte eller indirekte å motta finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
 
 2\. Forbudene fastsatt i nr. 1 gjelder ikke ikke-stridende kjøretøyer som er produsert eller utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er ment for beskyttende bruk av personell fra EU og EUs medlemsstater i Nord-Korea.
 
@@ -227,11 +346,18 @@ Vedlegg VII omfatter kobber, nikkel, sølv og sink omtalt i nr. 1 bokstav g).
 
 2\. De obligatoriske tilleggsopplysningene skal sendes inn i form av en elektronisk tolldeklarasjon eller i en annen elektronisk eller skriftlig form dersom det ikke foreligger tolldeklarasjon.
 
-11 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).12 Delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*) av 28. juli 2015 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om nærmere regler for visse bestemmelser i Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 1).13 Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*) av 24. november 2015 om fastsettelse av nærmere regler for gjennomføring av visse bestemmelser i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om fastsettelse av Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 558).
+11 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).
+
+12 Delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*) av 28. juli 2015 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om nærmere regler for visse bestemmelser i Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 1).
+
+13 Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*) av 24. november 2015 om fastsettelse av nærmere regler for gjennomføring av visse bestemmelser i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om fastsettelse av Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 558).
 
 ### Artikkel 10
 
-1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere luksusvarer oppført i vedlegg VIII til Nord-Korea,direkte eller indirekte å importere, kjøpe eller overføre luksusvarer oppført i vedlegg VIII fra Nord-Korea, enten de har sin opprinnelse i Nord-Korea eller ikke,
+1\. Det er forbudt
+
+1. direkte eller indirekte å selge, levere, overføre eller eksportere luksusvarer oppført i vedlegg VIII til Nord-Korea,
+2. direkte eller indirekte å importere, kjøpe eller overføre luksusvarer oppført i vedlegg VIII fra Nord-Korea, enten de har sin opprinnelse i Nord-Korea eller ikke,
 
 2\. Forbudet nevnt i nr. 1 bokstav b) gjelder ikke reisendes personlige effekter eller varer av ikke-kommersiell art til personlig bruk i deres bagasje.
 
@@ -241,7 +367,11 @@ Vedlegg VII omfatter kobber, nikkel, sølv og sink omtalt i nr. 1 bokstav g).
 
 ### Artikkel 11
 
-Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere gull, edle metaller og diamanter oppført i vedlegg IX, enten de har sin opprinnelse i EU eller ikke, til eller for Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,direkte eller indirekte å importere, kjøpe eller transportere gull, edle metaller og diamanter oppført i vedlegg IX, enten de har sin opprinnelse i Nord-Korea eller ikke, fra Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,direkte eller indirekte å yte faglig bistand eller formidlingstjenester, finansiering eller finansiell bistand knyttet til varene omtalt i bokstav a) og b) til Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem.
+Det er forbudt
+
+1. direkte eller indirekte å selge, levere, overføre eller eksportere gull, edle metaller og diamanter oppført i vedlegg IX, enten de har sin opprinnelse i EU eller ikke, til eller for Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,
+2. direkte eller indirekte å importere, kjøpe eller transportere gull, edle metaller og diamanter oppført i vedlegg IX, enten de har sin opprinnelse i Nord-Korea eller ikke, fra Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,
+3. direkte eller indirekte å yte faglig bistand eller formidlingstjenester, finansiering eller finansiell bistand knyttet til varene omtalt i bokstav a) og b) til Nord-Koreas regjering, offentlige organer, foretak og etater, Nord-Koreas sentralbank og personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller enheter eller organer som eies eller kontrolleres av dem.
 
 ### Artikkel 12
 
@@ -283,7 +413,12 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 ### Artikkel 16e
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16d og gi tillatelse til transaksjoner i raffinerte petroleumsprodukter som det er fastslått utelukkende tjener humanitære formål, forutsatt at alle følgende vilkår er oppfylt:transaksjonene involverer ikke personer eller enheter som er forbundet med Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), herunder personer, enheter og organer oppført i vedlegg XIII, XV, XVI og XVII,transaksjonen har ikke til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017),Sanksjonskomiteen har ikke underrettet medlemsstatene om at 90% av den samlede årlige tillatte mengde er nådd, ogden berørte medlemsstaten underretter Sanksjonskomiteen hver 30. dag om mengde eksportert og om alle som er part i transaksjonen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16d og gi tillatelse til transaksjoner i raffinerte petroleumsprodukter som det er fastslått utelukkende tjener humanitære formål, forutsatt at alle følgende vilkår er oppfylt:
+
+1. transaksjonene involverer ikke personer eller enheter som er forbundet med Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), herunder personer, enheter og organer oppført i vedlegg XIII, XV, XVI og XVII,
+2. transaksjonen har ikke til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017),
+3. Sanksjonskomiteen har ikke underrettet medlemsstatene om at 90% av den samlede årlige tillatte mengde er nådd, og
+4. den berørte medlemsstaten underretter Sanksjonskomiteen hver 30. dag om mengde eksportert og om alle som er part i transaksjonen.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
@@ -293,7 +428,10 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 ### Artikkel 16g
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16f og gi tillatelse til transaksjoner i råolje, forutsatt at alle følgende vilkår er oppfylt:medlemsstatens kompetente myndighet har fastslått at transaksjonen utelukkende tjener humanitære formål, ogmedlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle, i samsvar med punkt 4 i FNs sikkerhetsrådsresolusjon 2397 (2017).
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16f og gi tillatelse til transaksjoner i råolje, forutsatt at alle følgende vilkår er oppfylt:
+
+1. medlemsstatens kompetente myndighet har fastslått at transaksjonen utelukkende tjener humanitære formål, og
+2. medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle, i samsvar med punkt 4 i FNs sikkerhetsrådsresolusjon 2397 (2017).
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
@@ -305,7 +443,10 @@ Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra 
 
 1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler senest innen 10. desember 2017, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 11. september 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 24. januar 2018.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler senest innen 10. desember 2017, forutsatt at
+
+1. importen, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 11. september 2017, og
+2. den berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 24. januar 2018.
 
 3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
@@ -331,7 +472,10 @@ Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra 
 
 ### Artikkel 16o
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 16j–16n og gi tillatelse til import, kjøp eller overføring av produktene omtalt i disse artiklene senest innen 21. januar 2018, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 22. desember 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 5. februar 2018.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 16j–16n og gi tillatelse til import, kjøp eller overføring av produktene omtalt i disse artiklene senest innen 21. januar 2018, forutsatt at
+
+1. importen, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 22. desember 2017, og
+2. den berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 5. februar 2018.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
@@ -350,9 +494,21 @@ Restriksjoner på visse former for næringsvirksomhet
 
 ### Artikkel 17
 
-1\. Det er forbudt å godta eller godkjenne investeringer i næringsvirksomhet på EUs territorium når investeringene foretas avfysiske eller juridiske personer, enheter eller organer under Nord-Koreas regjering,Koreas arbeiderparti,nordkoreanske statsborgere,juridiske personer, enheter eller organer etablert eller stiftet i henhold til nordkoreansk lovgivning,fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra personer, enheter eller organer omtalt i bokstav a)–d), ogfysiske eller juridiske personer, enheter eller organer som eies eller kontrolleres av fysiske eller juridiske personer, enheter eller organer omtalt i bokstav a)–d).
+1\. Det er forbudt å godta eller godkjenne investeringer i næringsvirksomhet på EUs territorium når investeringene foretas av
 
-2\. Det er forbudtå opprette, videreføre eller drive et fellesforetak eller samvirkeforetak med fysiske eller juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea eller å erverve, videreføre eller utvide en eierskapsinteresse, herunder gjennom en fullstendig overtakelse eller ved å erverve andeler og andre verdipapirer som har karakter av kapitalinteresse, i juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea, eller i virksomhet eller aktiva i Nord-Korea,å yte finansiering eller finansiell bistand til fysiske eller juridiske personer, enheter eller organer omtalt i nr. 1 bokstav d)–f) eller med det dokumenterte formål å finansiere slike fysiske eller juridiske personer, enheter eller organer,å levere investeringstjenester som er direkte eller indirekte knyttet til virksomheten nevnt i bokstav a) og b) ovenfor, ogdirekte eller indirekte å delta i fellesforetak eller annen form for forretningsvirksomhet med enheter oppført i vedlegg XIII og med fysiske eller juridiske personer, enheter eller organer som handler på deres vegne eller på deres instruks.
+1. fysiske eller juridiske personer, enheter eller organer under Nord-Koreas regjering,
+2. Koreas arbeiderparti,
+3. nordkoreanske statsborgere,
+4. juridiske personer, enheter eller organer etablert eller stiftet i henhold til nordkoreansk lovgivning,
+5. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra personer, enheter eller organer omtalt i bokstav a)–d), og
+6. fysiske eller juridiske personer, enheter eller organer som eies eller kontrolleres av fysiske eller juridiske personer, enheter eller organer omtalt i bokstav a)–d).
+
+2\. Det er forbudt
+
+1. å opprette, videreføre eller drive et fellesforetak eller samvirkeforetak med fysiske eller juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea eller å erverve, videreføre eller utvide en eierskapsinteresse, herunder gjennom en fullstendig overtakelse eller ved å erverve andeler og andre verdipapirer som har karakter av kapitalinteresse, i juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea, eller i virksomhet eller aktiva i Nord-Korea,
+2. å yte finansiering eller finansiell bistand til fysiske eller juridiske personer, enheter eller organer omtalt i nr. 1 bokstav d)–f) eller med det dokumenterte formål å finansiere slike fysiske eller juridiske personer, enheter eller organer,
+3. å levere investeringstjenester som er direkte eller indirekte knyttet til virksomheten nevnt i bokstav a) og b) ovenfor, og
+4. direkte eller indirekte å delta i fellesforetak eller annen form for forretningsvirksomhet med enheter oppført i vedlegg XIII og med fysiske eller juridiske personer, enheter eller organer som handler på deres vegne eller på deres instruks.
 
 3\. Eksisterende fellesforetak eller samvirkeforetak omtalt i nr. 2 bokstav a) skal stenges senest 9. januar 2018 eller innen 120 dager etter at Sanksjonskomiteen har avslått en anmodning om godkjenning.
 
@@ -360,7 +516,9 @@ Restriksjoner på visse former for næringsvirksomhet
 
 1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet, særlig virksomhet som gjelder fellesforetak eller samvirkeforetak, og som er ikke-kommersielle infrastrukturprosjekter for offentlige tjenester som ikke genererer fortjeneste, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet dersom denne ikke gjelder fellesforetak eller samvirkeforetak, og forutsatt at medlemsstaten har fastslått at virksomheten utelukkende tjener humanitære formål og ikke finner sted innenfor gruvedrift, raffinering, kjemisk industri, metallurgi eller metallbearbeiding, romfartsindustri eller konvensjonell våpenindustri.Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 eller 2.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet dersom denne ikke gjelder fellesforetak eller samvirkeforetak, og forutsatt at medlemsstaten har fastslått at virksomheten utelukkende tjener humanitære formål og ikke finner sted innenfor gruvedrift, raffinering, kjemisk industri, metallurgi eller metallbearbeiding, romfartsindustri eller konvensjonell våpenindustri.
+
+Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 eller 2.
 
 ### Artikkel 17b
 
@@ -368,7 +526,10 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i arti
 
 ### Artikkel 18
 
-1\. Det er forbudtdirekte eller indirekte å levere tjenester i tilknytning til gruvedrift eller i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering, som nevnt i vedlegg XII del A, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea, ogdirekte eller indirekte å levere datatjenester og tilknyttede tjenester nevnt i vedlegg XII del B til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
+1\. Det er forbudt
+
+1. direkte eller indirekte å levere tjenester i tilknytning til gruvedrift eller i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering, som nevnt i vedlegg XII del A, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea, og
+2. direkte eller indirekte å levere datatjenester og tilknyttede tjenester nevnt i vedlegg XII del B til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
 
 2\. Forbudet i nr. 1 bokstav b) gjelder ikke levering av datatjenester og tilknyttede tjenester dersom tjenestene er forutsatt benyttet utelukkende til offisielle formål på en utenriksstasjon eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
 
@@ -382,7 +543,14 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i arti
 
 ### Artikkel 20
 
-1\. Det er forbudtdirekte eller indirekte å leie ut fast eiendom til eller på annen måte stille slik eiendom til rådighet for personer, enheter eller organer under Nord-Koreas regjering til andre formål enn diplomatisk eller konsulær virksomhet i henhold til Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963,](traktat/1963-04-24-1)direkte eller indirekte å leie fast eiendom av personer, enheter eller organer under Nord-Koreas regjering, ogå ta del i virksomhet knyttet til bruk av fast eiendom som personer, enheter eller organer under Nord-Koreas regjering eier, leier eller på annen måte har rett til å bruke, unntatt til levering av varer og tjenestersom er nødvendige for at diplomatiske og konsulære stasjoner skal fungere i henhold til Wien-konvensjonene av 1961 og 1963, ogsom ikke kan brukes direkte eller indirekte til å generere inntekter eller fortjeneste for Nord-Koreas regjering.
+1\. Det er forbudt
+
+1. direkte eller indirekte å leie ut fast eiendom til eller på annen måte stille slik eiendom til rådighet for personer, enheter eller organer under Nord-Koreas regjering til andre formål enn diplomatisk eller konsulær virksomhet i henhold til Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963,](traktat/1963-04-24-1)
+2. direkte eller indirekte å leie fast eiendom av personer, enheter eller organer under Nord-Koreas regjering, og
+3. å ta del i virksomhet knyttet til bruk av fast eiendom som personer, enheter eller organer under Nord-Koreas regjering eier, leier eller på annen måte har rett til å bruke, unntatt til levering av varer og tjenester
+
+   1. som er nødvendige for at diplomatiske og konsulære stasjoner skal fungere i henhold til Wien-konvensjonene av 1961 og 1963, og
+   2. som ikke kan brukes direkte eller indirekte til å generere inntekter eller fortjeneste for Nord-Koreas regjering.
 
 2\. I denne artikkel menes med «fast eiendom» grunn, bygninger og tilhørende deler som befinner seg utenfor Nord-Koreas territorium.
 
@@ -393,19 +561,37 @@ Restriksjoner på overføring av penger og finansielle tjenester
 
 1\. Det er forbudt å overføre penger, herunder gjennom clearing, til eller fra Nord-Korea.
 
-2\. Det er forbudt for kreditt- og finansinstitusjoner å innlede eller videreføre transaksjoner medkreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som ikke omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea, som omfattes av artikkel 1 og som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea og heller ikke omfattes av artikkel 1, men som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea.
+2\. Det er forbudt for kreditt- og finansinstitusjoner å innlede eller videreføre transaksjoner med
+
+1. kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,
+2. filialer og datterselskaper som omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,
+3. filialer og datterselskaper som ikke omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,
+4. kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea, som omfattes av artikkel 1 og som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea,
+5. kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea og heller ikke omfattes av artikkel 1, men som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea.
 
 3\. Forbudene i nr. 1 og 2 gjelder ikke pengeoverføringer eller transaksjoner som er nødvendige for offisielle formål på en medlemsstats utenriksstasjon i Nord-Korea eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
 
-4\. Forbudene i nr. 1 og 2 gjelder ikke følgende transaksjoner, forutsatt at de omfatter overføring av beløp lik eller under 15 000 euro eller tilsvarende:transaksjoner som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller som er beregnet til landbruksformål eller humanitære formål,transaksjoner i forbindelse med gjennomføring av unntakene fastsatt i denne forordning,transaksjoner i forbindelse med en bestemt handelskontrakt som ikke er forbudt i henhold til denne forordning,transaksjoner som er nødvendige utelukkende for å gjennomføre prosjekter som EU eller EUs medlemsstater finansierer for utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning, ogtransaksjoner som gjelder en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom transaksjonene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+4\. Forbudene i nr. 1 og 2 gjelder ikke følgende transaksjoner, forutsatt at de omfatter overføring av beløp lik eller under 15 000 euro eller tilsvarende:
+
+1. transaksjoner som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller som er beregnet til landbruksformål eller humanitære formål,
+2. transaksjoner i forbindelse med gjennomføring av unntakene fastsatt i denne forordning,
+3. transaksjoner i forbindelse med en bestemt handelskontrakt som ikke er forbudt i henhold til denne forordning,
+4. transaksjoner som er nødvendige utelukkende for å gjennomføre prosjekter som EU eller EUs medlemsstater finansierer for utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning, og
+5. transaksjoner som gjelder en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom transaksjonene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
 5\. Forbudene i nr. 1 og 2 gjelder ikke transaksjoner som gjelder private pengeforsendelser, forutsatt at de omfatter overføring av beløp lik eller under 5 000 euro eller tilsvarende.
 
 ### Artikkel 22
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse tiltransaksjonene nevnt i artikkel 21 nr. 4 bokstav a)–e) når de har en verdi på over 15 000 euro eller tilsvarende, ogtransaksjonene nevnt i artikkel 21 nr. 5 når de har en verdi på over 5 000 euro eller tilsvarende.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse til
 
-2\. Kravet om tillatelse nevnt i nr. 1 gjelder uansett om pengeoverføringen gjennomføres som en enkelt operasjon eller som flere operasjoner som tilsynelatende er forbundet med hverandre. I denne forordning omfatter «operasjoner som tilsynelatende er forbundet med hverandre»en serie påfølgende overføringer fra eller til samme kreditt- eller finansinstitusjon som omfattes av artikkel 21 nr. 2, eller fra eller til samme nordkoreanske person, enhet eller organ som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, og der hver enkelt overføring er på under 15 000 euro for transaksjoner nevnt i artikkel 21 nr. 4 eller 5 000 euro for transaksjoner nevnt i artikkel 21 nr. 5, men der det samlede beløpet oppfyller kriteriene for tillatelse, ogen rekke overføringer som involverer ulike betalingsformidlere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
+1. transaksjonene nevnt i artikkel 21 nr. 4 bokstav a)–e) når de har en verdi på over 15 000 euro eller tilsvarende, og
+2. transaksjonene nevnt i artikkel 21 nr. 5 når de har en verdi på over 5 000 euro eller tilsvarende.
+
+2\. Kravet om tillatelse nevnt i nr. 1 gjelder uansett om pengeoverføringen gjennomføres som en enkelt operasjon eller som flere operasjoner som tilsynelatende er forbundet med hverandre. I denne forordning omfatter «operasjoner som tilsynelatende er forbundet med hverandre»
+
+1. en serie påfølgende overføringer fra eller til samme kreditt- eller finansinstitusjon som omfattes av artikkel 21 nr. 2, eller fra eller til samme nordkoreanske person, enhet eller organ som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, og der hver enkelt overføring er på under 15 000 euro for transaksjoner nevnt i artikkel 21 nr. 4 eller 5 000 euro for transaksjoner nevnt i artikkel 21 nr. 5, men der det samlede beløpet oppfyller kriteriene for tillatelse, og
+2. en rekke overføringer som involverer ulike betalingsformidlere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
 
 3\. Medlemsstatene skal underrette hverandre og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
@@ -413,15 +599,30 @@ Restriksjoner på overføring av penger og finansielle tjenester
 
 ### Artikkel 23
 
-1\. Når kreditt- og finansinstitusjoner utøver sin virksomhet, herunder clearing, med kreditt- og finansinstitusjoner omtalt i artikkel 21 nr. 2, skal deanvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),14sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),15kreve at opplysninger om betalere og mottakere som skal følge med pengeoverføringer, gis slik forordning [(EU) 2015/847](eu/32015r0847) krever, og avslå å behandle transaksjonen dersom noen av disse opplysningene mangler eller er ufullstendige,oppbevare opplysninger om transaksjonene i samsvar med artikkel 40 bokstav b) i direktiv (EU) [2015/849](eu/32015l0849),dersom det er rimelig grunn til å anta at pengene kan bidra til Nord-Koreas programmer eller virksomhet knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen (heretter kalt «finansiering av spredning»), omgående underrette vedkommende enhet for økonomisk etterretning, som definert i direktiv (EU) [2015/849](eu/32015l0849), eller en annen kompetent myndighet utpekt av den berørte medlemsstaten, uten at det berører artikkel 7 nr. 1 eller artikkel 33 i denne forordning,omgående melde fra om alle mistenkelige transaksjoner, herunder forsøk på transaksjoner,avstå fra å utføre transaksjoner som de har rimelig grunn til å anta kan være forbundet med finansiering av spredning, inntil de har gjennomført de tiltak som kreves i henhold til bokstav e), og har fulgt instruksene fra den berørte enheten for økonomisk etterretning eller kompetente myndighet.
+1\. Når kreditt- og finansinstitusjoner utøver sin virksomhet, herunder clearing, med kreditt- og finansinstitusjoner omtalt i artikkel 21 nr. 2, skal de
+
+1. anvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),14
+2. sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),15
+3. kreve at opplysninger om betalere og mottakere som skal følge med pengeoverføringer, gis slik forordning [(EU) 2015/847](eu/32015r0847) krever, og avslå å behandle transaksjonen dersom noen av disse opplysningene mangler eller er ufullstendige,
+4. oppbevare opplysninger om transaksjonene i samsvar med artikkel 40 bokstav b) i direktiv (EU) [2015/849](eu/32015l0849),
+5. dersom det er rimelig grunn til å anta at pengene kan bidra til Nord-Koreas programmer eller virksomhet knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen (heretter kalt «finansiering av spredning»), omgående underrette vedkommende enhet for økonomisk etterretning, som definert i direktiv (EU) [2015/849](eu/32015l0849), eller en annen kompetent myndighet utpekt av den berørte medlemsstaten, uten at det berører artikkel 7 nr. 1 eller artikkel 33 i denne forordning,
+6. omgående melde fra om alle mistenkelige transaksjoner, herunder forsøk på transaksjoner,
+7. avstå fra å utføre transaksjoner som de har rimelig grunn til å anta kan være forbundet med finansiering av spredning, inntil de har gjennomført de tiltak som kreves i henhold til bokstav e), og har fulgt instruksene fra den berørte enheten for økonomisk etterretning eller kompetente myndighet.
 
 2\. For formålet i nr. 1 skal enheten for økonomisk etterretning eller en annen kompetent myndighet som fungerer som nasjonalt senter for mottak og analyse av mistenkelige transaksjoner, motta rapporter om mulig finansiering av spredning og ha rask direkte eller indirekte tilgang til opplysninger om finansielle forhold, administrasjon og rettshåndheving som er relevante og nødvendige for å utføre oppgaven forsvarlig, blant annet analyse av rapporter om mistenkelige transaksjoner.
 
-14 Europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849) av 20. mai 2015 om tiltak for å hindre at det finansielle system brukes til hvitvasking av penger eller finansiering av terrorisme, om endring av europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648) og om oppheving av europaparlaments- og rådsdirektiv [2005/60/EF](eu/32005l0060) og kommisjonsdirektiv [2006/70/EF](eu/32006l0070) (EUT L 141 av 5.6.2015, s. 73).15 Europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847) av 20. mai 2015 om opplysninger som skal følge pengeoverføringer, og om oppheving av forordning [(EF) nr. 1781/2006](eu/32006r1781*) (EUT L 141 av 5.6.2015, s. 1).
+14 Europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849) av 20. mai 2015 om tiltak for å hindre at det finansielle system brukes til hvitvasking av penger eller finansiering av terrorisme, om endring av europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648) og om oppheving av europaparlaments- og rådsdirektiv [2005/60/EF](eu/32005l0060) og kommisjonsdirektiv [2006/70/EF](eu/32006l0070) (EUT L 141 av 5.6.2015, s. 73).
+
+15 Europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847) av 20. mai 2015 om opplysninger som skal følge pengeoverføringer, og om oppheving av forordning [(EF) nr. 1781/2006](eu/32006r1781*) (EUT L 141 av 5.6.2015, s. 1).
 
 ### Artikkel 24
 
-Det er forbudt for kreditt- og finansinstitusjonerå åpne konto hos kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,å opprette en korrespondentbankforbindelse med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,å åpne representasjonskontorer i Nord-Korea eller å opprette en ny filial eller et nytt datterselskap i Nord-Korea, ogå opprette fellesforetak med eller erverve eierskapsinteresser i kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2.
+Det er forbudt for kreditt- og finansinstitusjoner
+
+1. å åpne konto hos kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,
+2. å opprette en korrespondentbankforbindelse med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,
+3. å åpne representasjonskontorer i Nord-Korea eller å opprette en ny filial eller et nytt datterselskap i Nord-Korea, og
+4. å opprette fellesforetak med eller erverve eierskapsinteresser i kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2.
 
 ### Artikkel 25
 
@@ -431,7 +632,13 @@ Det er forbudt for kreditt- og finansinstitusjonerå åpne konto hos kreditt- el
 
 ### Artikkel 26
 
-I samsvar med kravene i FNs sikkerhetsrådsresolusjon 2270 (2016) skal kreditt- og finansinstitusjoner senest 31. mai 2016avslutte alle konti hos kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,avbryte enhver korrespondentbankforbindelse med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,stenge representasjonskontorer, filialer og datterselskaper i Nord-Korea,avvikle fellesforetak med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2, oggi avkall på enhver eierskapsinteresse i kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2.
+I samsvar med kravene i FNs sikkerhetsrådsresolusjon 2270 (2016) skal kreditt- og finansinstitusjoner senest 31. mai 2016
+
+1. avslutte alle konti hos kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,
+2. avbryte enhver korrespondentbankforbindelse med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,
+3. stenge representasjonskontorer, filialer og datterselskaper i Nord-Korea,
+4. avvikle fellesforetak med kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2, og
+5. gi avkall på enhver eierskapsinteresse i kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2.
 
 ### Artikkel 27
 
@@ -449,7 +656,12 @@ I samsvar med kravene i FNs sikkerhetsrådsresolusjon 2270 (2016) skal kreditt- 
 
 1\. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra forbudet i artikkel 28 nr. 1 og gi tillatelse til at det opprettes én konto per stasjon og medlem, forutsatt at stasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten.
 
-2\. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra bestemmelsen i artikkel 28 nr. 2 og gi tillatelse til at en konto videreføres, forutsatt at medlemsstaten har fastslått atstasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten, ogstasjonen eller medlemmet ikke innehar andre konti i medlemsstaten.Dersom stasjonen eller det nordkoreanske medlemmet innehar flere enn én konto i medlemsstaten, kan stasjonen eller medlemmet angi hvilken konto som skal beholdes.
+2\. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra bestemmelsen i artikkel 28 nr. 2 og gi tillatelse til at en konto videreføres, forutsatt at medlemsstaten har fastslått at
+
+1. stasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten, og
+2. stasjonen eller medlemmet ikke innehar andre konti i medlemsstaten.
+
+Dersom stasjonen eller det nordkoreanske medlemmet innehar flere enn én konto i medlemsstaten, kan stasjonen eller medlemmet angi hvilken konto som skal beholdes.
 
 3\. Med forbehold for de gjeldende regler i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963](traktat/1963-04-24-1) skal medlemsstatene senest 13. mars 2017 informere de øvrige medlemsstatene og Kommisjonen om navn på og identifikasjonsopplysninger om alle nordkoreanske medlemmer av diplomatiske og konsulære stasjoner som er akkreditert til vedkommende medlemsstat, og innen en uke informere om senere ajourføringer.
 
@@ -459,11 +671,27 @@ I samsvar med kravene i FNs sikkerhetsrådsresolusjon 2270 (2016) skal kreditt- 
 
 ### Artikkel 30
 
-Det er forbudtå gi tillatelse til at det åpnes et representasjonskontor eller opprettes en filial eller et datterselskap i EU av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2,å inngå avtaler for eller på vegne av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 om å åpne representasjonskontor eller opprette filial eller datterselskap i EU,å gi et representasjonskontor, en filial eller et datterselskap av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 tillatelse til å starte opp og utøve virksomhet som kredittinstitusjon eller annen virksomhet som krever forhåndstillatelse, dersom representasjonskontoret, filialen eller datterselskapet ikke var i drift innen 19. februar 2013,for en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 å erverve eller utvide en andel eller å erverve andre eierskapsinteresser i en kreditt- eller finansinstitusjon som omfattes av artikkel 1, ogå drive eller fremme driften av et representasjonskontor, en filial eller et datterselskap av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2.
+Det er forbudt
+
+1. å gi tillatelse til at det åpnes et representasjonskontor eller opprettes en filial eller et datterselskap i EU av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2,
+2. å inngå avtaler for eller på vegne av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 om å åpne representasjonskontor eller opprette filial eller datterselskap i EU,
+3. å gi et representasjonskontor, en filial eller et datterselskap av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 tillatelse til å starte opp og utøve virksomhet som kredittinstitusjon eller annen virksomhet som krever forhåndstillatelse, dersom representasjonskontoret, filialen eller datterselskapet ikke var i drift innen 19. februar 2013,
+4. for en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2 å erverve eller utvide en andel eller å erverve andre eierskapsinteresser i en kreditt- eller finansinstitusjon som omfattes av artikkel 1, og
+5. å drive eller fremme driften av et representasjonskontor, en filial eller et datterselskap av en kreditt- eller finansinstitusjon omtalt i artikkel 21 nr. 2.
 
 ### Artikkel 31
 
-Det er forbudtdirekte eller indirekte å selge eller kjøpe statsobligasjoner eller statsgaranterte obligasjoner utstedt etter 19. februar 2013 til eller fraNord-Korea eller Nord-Koreas regjering og landets offentlige organer, foretak og etater,Nord-Koreas sentralbank,kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra juridiske personer, enheter eller organer omtalt i punkt i) eller ii),juridiske personer, enheter eller organer som eies eller kontrolleres av personer, enheter eller organer omtalt i punkt i), ii) eller iii),å yte formidlingstjenester til personer, enheter eller organer omtalt i bokstav a) i forbindelse med statsobligasjoner eller statsgaranterte obligasjoner utstedt etter 19. februar 2013,å bistå personer, enheter eller organer omtalt i bokstav a) med å utstede statsobligasjoner eller statsgaranterte obligasjoner ved å yte formidlingstjenester, markedsføringstjenester eller andre tjenester i forbindelse med slike obligasjoner.
+Det er forbudt
+
+1. direkte eller indirekte å selge eller kjøpe statsobligasjoner eller statsgaranterte obligasjoner utstedt etter 19. februar 2013 til eller fra
+
+   1. Nord-Korea eller Nord-Koreas regjering og landets offentlige organer, foretak og etater,
+   2. Nord-Koreas sentralbank,
+   3. kreditt- eller finansinstitusjoner omtalt i artikkel 21 nr. 2,
+   4. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra juridiske personer, enheter eller organer omtalt i punkt i) eller ii),
+   5. juridiske personer, enheter eller organer som eies eller kontrolleres av personer, enheter eller organer omtalt i punkt i), ii) eller iii),
+2. å yte formidlingstjenester til personer, enheter eller organer omtalt i bokstav a) i forbindelse med statsobligasjoner eller statsgaranterte obligasjoner utstedt etter 19. februar 2013,
+3. å bistå personer, enheter eller organer omtalt i bokstav a) med å utstede statsobligasjoner eller statsgaranterte obligasjoner ved å yte formidlingstjenester, markedsføringstjenester eller andre tjenester i forbindelse med slike obligasjoner.
 
 ### Artikkel 32
 
@@ -486,7 +714,15 @@ Frysing av penger og formuesgoder
 
 3\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i vedlegg XIII, XV, XVI og XVII.
 
-4\. Vedlegg XIII omfatter personer, enheter og organer listeført av Sanksjonskomiteen eller FNs sikkerhetsråd i henhold til punkt 8 bokstav d) i FNs sikkerhetsrådsresolusjon 1718 (2006) og punkt 8 i sikkerhetsrådsresolusjon 2094 (2013).Vedlegg XIV omfatter de fartøyer som Sanksjonskomiteen har listeført i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2321 (2016) og punkt 8 i sikkerhetsrådsresolusjon 2375 (2017).Vedlegg XV omfatter personer, enheter og organer som ikke står oppført i vedlegg XIII og XIV, og som i henhold til artikkel 27 nr. 1 bokstav b) i beslutning (FUSP) 2016/849 eller en tilsvarende etterfølgende bestemmelse av Rådet anses forå være ansvarlige for, herunder ved å støtte eller fremme, Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, herunder ved ulovlige midler,å levere finansielle tjenester eller sørge for overføring av økonomiske eller andre aktiva eller formuesgoder som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, til, gjennom eller fra EUs territorium eller med deltakelse av medlemsstatenes statsborgere eller enheter etablert i henhold til deres lovgivning eller personer eller finansinstitusjoner på EUs territorium, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, ellerå være involvert i, herunder ved å yte finansielle tjenester, levering av våpen og alle typer tilhørende materiell til eller fra Nord-Korea eller av produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
+4\. Vedlegg XIII omfatter personer, enheter og organer listeført av Sanksjonskomiteen eller FNs sikkerhetsråd i henhold til punkt 8 bokstav d) i FNs sikkerhetsrådsresolusjon 1718 (2006) og punkt 8 i sikkerhetsrådsresolusjon 2094 (2013).
+
+Vedlegg XIV omfatter de fartøyer som Sanksjonskomiteen har listeført i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2321 (2016) og punkt 8 i sikkerhetsrådsresolusjon 2375 (2017).
+
+Vedlegg XV omfatter personer, enheter og organer som ikke står oppført i vedlegg XIII og XIV, og som i henhold til artikkel 27 nr. 1 bokstav b) i beslutning (FUSP) 2016/849 eller en tilsvarende etterfølgende bestemmelse av Rådet anses for
+
+1. å være ansvarlige for, herunder ved å støtte eller fremme, Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, herunder ved ulovlige midler,
+2. å levere finansielle tjenester eller sørge for overføring av økonomiske eller andre aktiva eller formuesgoder som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, til, gjennom eller fra EUs territorium eller med deltakelse av medlemsstatenes statsborgere eller enheter etablert i henhold til deres lovgivning eller personer eller finansinstitusjoner på EUs territorium, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, eller
+3. å være involvert i, herunder ved å yte finansielle tjenester, levering av våpen og alle typer tilhørende materiell til eller fra Nord-Korea eller av produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
 
 5\. Vedlegg XVI omfatter personer, enheter eller organer som ikke omfattes av vedlegg XIII, XIV eller XV, og som handler på vegne av eller på instruks fra personer, enheter eller organer oppført i vedlegg XIII, XIV eller XV, eller personer som medvirker til å omgå sanksjoner eller bryter bestemmelsene i denne forordning.
 
@@ -496,23 +732,51 @@ Frysing av penger og formuesgoder
 
 8\. Bestemmelsen i nr. 3 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette de kompetente myndighetene om slike transaksjoner.
 
-9\. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med nr. 1, gjelder bestemmelsen i nr. 3 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ogbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i denne artikkel ble listeført.
+9\. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med nr. 1, gjelder bestemmelsen i nr. 3 ikke beløp som tilføres frosne konti i form av
 
-10\. Nr. 1 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller avandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg XIII, XVI og XVII, og av Rådet når det gjelder vedlegg XV.
+1. renter eller annen avkastning på disse kontiene, og
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i denne artikkel ble listeført.
+
+10\. Nr. 1 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller av
+6. andre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg XIII, XVI og XVII, og av Rådet når det gjelder vedlegg XV.
 
 ### Artikkel 35
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt atmyndighetene har fastslått at pengene eller formuesgodene er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter samt betalinger som utelukkende skal gå tilbetaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, ellerbetaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har kommet med innsigelser mot det innen fem virkedager etter at underretning er gitt.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt at
 
-2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og Sanksjonskomiteen har godkjent det,den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII, minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse.
+1. myndighetene har fastslått at pengene eller formuesgodene er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter samt betalinger som utelukkende skal gå til
+
+   1. betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, eller
+   2. betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, og
+2. den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har kommet med innsigelser mot det innen fem virkedager etter at underretning er gitt.
+
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at
+
+1. den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og Sanksjonskomiteen har godkjent det,
+2. den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII, minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse.
 
 3\. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 36
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig avgjørelse fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 34 ble listeført, eller for en rettslig, administrativ eller voldgiftsmessig heftelse fastsatt før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik avgjørelse eller anerkjent som gyldige i henhold til en slik heftelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen eller heftelsen ikke er til fordel for personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII,anerkjennelse av avgjørelsen eller heftelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten,den berørte medlemsstaten har underrettet Sanksjonskomiteen om avgjørelsen eller heftelsen som omfatter personer, enheter og organer oppført i vedlegg XIII.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
 
-2\. I tilfeller der personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende person, enhet eller organ har inngått eller pådratt seg før datoen da de ble listeført, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atkontrakten ikke har tilknytning til noen av produktene, operasjonene, tjenestene eller transaksjonene omtalt i artikkel 3 nr. 1 bokstav a), artikkel 3 nr. 3 eller artikkel 7, ogbetalingen ikke mottas direkte eller indirekte av personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII.
+1. pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig avgjørelse fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 34 ble listeført, eller for en rettslig, administrativ eller voldgiftsmessig heftelse fastsatt før denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik avgjørelse eller anerkjent som gyldige i henhold til en slik heftelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. avgjørelsen eller heftelsen ikke er til fordel for personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII,
+4. anerkjennelse av avgjørelsen eller heftelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten,
+5. den berørte medlemsstaten har underrettet Sanksjonskomiteen om avgjørelsen eller heftelsen som omfatter personer, enheter og organer oppført i vedlegg XIII.
+
+2\. I tilfeller der personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende person, enhet eller organ har inngått eller pådratt seg før datoen da de ble listeført, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått at
+
+1. kontrakten ikke har tilknytning til noen av produktene, operasjonene, tjenestene eller transaksjonene omtalt i artikkel 3 nr. 1 bokstav a), artikkel 3 nr. 3 eller artikkel 7, og
+2. betalingen ikke mottas direkte eller indirekte av personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII.
 
 3\. Den berørte medlemsstaten skal minst ti dager før den gir tillatelse etter nr. 2, underrette de øvrige medlemsstatene og Kommisjonen om sin beslutning og om at tillatelse vil bli gitt.
 
@@ -525,9 +789,19 @@ Transportrestriksjoner
 
 ### Artikkel 38
 
-1\. Forsendelser, herunder personlig og innsjekket bagasje, innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, som omtalt i artikkel 243–249 i forordning [(EU) nr. 952/2013](eu/32013r0952*), skal kunne inspiseres for å sikre at de ikke inneholder produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017) eller til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea,forsendelsen er formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av personer eller enheter som handler på deres vegne eller på deres instruks, eller av enheter som eies eller kontrolleres av dem,forsendelsen er blitt formidlet eller tilrettelagt av personer, enheter eller organer oppført i vedlegg XIII,forsendelsen transporteres om bord i et fartøy som fører nordkoreansk flagg, i et luftfartøy registrert i Nord-Korea eller i et statsløst fartøy eller luftfartøy.
+1\. Forsendelser, herunder personlig og innsjekket bagasje, innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, som omtalt i artikkel 243–249 i forordning [(EU) nr. 952/2013](eu/32013r0952*), skal kunne inspiseres for å sikre at de ikke inneholder produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017) eller til denne forordning, såfremt
 
-2\. Dersom forsendelsen faller utenfor virkeområdet for nr. 1, skal forsendelser innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, kunne inspiseres dersom det er rimelig grunn til å anta at de kan inneholde produkter som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea, ellerforsendelsen er blitt formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av enkeltpersoner eller enheter som handler på deres vegne.
+1. forsendelsen har opprinnelse i Nord-Korea,
+2. forsendelsens bestemmelsessted er Nord-Korea,
+3. forsendelsen er formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av personer eller enheter som handler på deres vegne eller på deres instruks, eller av enheter som eies eller kontrolleres av dem,
+4. forsendelsen er blitt formidlet eller tilrettelagt av personer, enheter eller organer oppført i vedlegg XIII,
+5. forsendelsen transporteres om bord i et fartøy som fører nordkoreansk flagg, i et luftfartøy registrert i Nord-Korea eller i et statsløst fartøy eller luftfartøy.
+
+2\. Dersom forsendelsen faller utenfor virkeområdet for nr. 1, skal forsendelser innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, kunne inspiseres dersom det er rimelig grunn til å anta at de kan inneholde produkter som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forordning, såfremt
+
+1. forsendelsen har opprinnelse i Nord-Korea,
+2. forsendelsens bestemmelsessted er Nord-Korea, eller
+3. forsendelsen er blitt formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av enkeltpersoner eller enheter som handler på deres vegne.
 
 3\. Bestemmelsene i nr. 1 og 2 berører ikke den ukrenkelighet og det vern som gjelder for diplomatpost som fastsatt i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963.](traktat/1963-04-24-1)
 
@@ -535,13 +809,28 @@ Transportrestriksjoner
 
 ### Artikkel 39
 
-1\. Det er forbudt å gi adgang til havner på EUs territorium til fartøyersom eies, drives eller bemannes av Nord-Korea,som fører nordkoreansk flagg,når det er rimelig grunn til å anta at fartøyet direkte eller indirekte eies eller kontrolleres av en person eller enhet oppført i vedlegg XIII, XV, XVI eller XVII,når det er rimelig grunn til å anta at fartøyet fører produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning,som har nektet å la seg inspisere etter at fartøyets flaggstat eller registreringsstat har gitt tillatelse til slik inspeksjon,som er statsløst og har nektet å la seg inspisere i samsvar med artikkel 38 nr. 1, ellersom er oppført i vedlegg XIV, dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
+1\. Det er forbudt å gi adgang til havner på EUs territorium til fartøyer
 
-2\. Nr. 1 får ikke anvendelsei nødsituasjoner,når fartøyet returnerer til sin opprinnelseshavn,når fartøyet anløper en havn for inspeksjon, dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e).
+1. som eies, drives eller bemannes av Nord-Korea,
+2. som fører nordkoreansk flagg,
+3. når det er rimelig grunn til å anta at fartøyet direkte eller indirekte eies eller kontrolleres av en person eller enhet oppført i vedlegg XIII, XV, XVI eller XVII,
+4. når det er rimelig grunn til å anta at fartøyet fører produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning,
+5. som har nektet å la seg inspisere etter at fartøyets flaggstat eller registreringsstat har gitt tillatelse til slik inspeksjon,
+6. som er statsløst og har nektet å la seg inspisere i samsvar med artikkel 38 nr. 1, eller
+7. som er oppført i vedlegg XIV, dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
+
+2\. Nr. 1 får ikke anvendelse
+
+1. i nødsituasjoner,
+2. når fartøyet returnerer til sin opprinnelseshavn,
+3. når fartøyet anløper en havn for inspeksjon, dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e).
 
 ### Artikkel 40
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e), ogSanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016), ellermedlemsstaten på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i denne forordning.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e), og
+
+1. Sanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016), eller
+2. medlemsstaten på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i denne forordning.
 
 2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsen i nr. 1 bokstav f) og Sanksjonskomiteen har besluttet det.
 
@@ -551,7 +840,10 @@ Transportrestriksjoner
 
 1\. Det er forbudt for luftfartøyer som drives av nordkoreanske luftfartsselskaper eller har opprinnelse i Nord-Korea, å ta av fra, lande på eller fly over EUs territorium.
 
-2\. Nr. 1 får ikke anvendelsedersom luftfartøyet lander for inspeksjon,ved en eventuell nødlanding.
+2\. Nr. 1 får ikke anvendelse
+
+1. dersom luftfartøyet lander for inspeksjon,
+2. ved en eventuell nødlanding.
 
 ### Artikkel 42
 
@@ -559,7 +851,14 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel
 
 ### Artikkel 43
 
-1\. Det er forbudtå leie eller befrakte fartøyer eller luftfartøyer eller levere besetningstjenester til Nord-Korea, til personer eller enheter oppført i vedlegg XIII, XV, XVI eller XVII, til andre nordkoreanske enheter, til andre personer eller enheter som har medvirket til brudd på bestemmelsene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), eller til personer eller enheter som handler på vegne av eller på instruks fra slike personer eller enheter, og til enheter som eies eller kontrolleres av dem,å skaffe besetningstjenester fra Nord-Korea til fartøyer eller luftfartøyer,å eie, leie, drive, befrakte, forsikre eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg,å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII,å søke om eller bistå med å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, fartøyer som er oppført i vedlegg XVIII, eller som er avregistrert i en annen stat i henhold til punkt 24 i FNs sikkerhetsrådsresolusjon 2321 (2016), punkt 8 i sikkerhetsrådsresolusjon 2375 (2017) eller punkt 12 i sikkerhetsrådsresolusjon 2397 (2017), ellerå levere forsikrings- eller gjenforsikringstjenester til fartøyer som eies, kontrolleres eller drives av Nord-Korea, eller fartøyer som er oppført i vedlegg XVIII.
+1\. Det er forbudt
+
+1. å leie eller befrakte fartøyer eller luftfartøyer eller levere besetningstjenester til Nord-Korea, til personer eller enheter oppført i vedlegg XIII, XV, XVI eller XVII, til andre nordkoreanske enheter, til andre personer eller enheter som har medvirket til brudd på bestemmelsene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), eller til personer eller enheter som handler på vegne av eller på instruks fra slike personer eller enheter, og til enheter som eies eller kontrolleres av dem,
+2. å skaffe besetningstjenester fra Nord-Korea til fartøyer eller luftfartøyer,
+3. å eie, leie, drive, befrakte, forsikre eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg,
+4. å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII,
+5. å søke om eller bistå med å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, fartøyer som er oppført i vedlegg XVIII, eller som er avregistrert i en annen stat i henhold til punkt 24 i FNs sikkerhetsrådsresolusjon 2321 (2016), punkt 8 i sikkerhetsrådsresolusjon 2375 (2017) eller punkt 12 i sikkerhetsrådsresolusjon 2397 (2017), eller
+6. å levere forsikrings- eller gjenforsikringstjenester til fartøyer som eies, kontrolleres eller drives av Nord-Korea, eller fartøyer som er oppført i vedlegg XVIII.
 
 2\. Vedlegg XVIII omfatter de fartøyer som ikke står oppført i vedlegg XIV, men som Rådet har grunn til å anta har vært involvert i virksomhet eller i transport av produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017).
 
@@ -598,7 +897,13 @@ Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 46
 
-Kommisjonen har fullmakt tilå endre vedlegg I på grunnlag av informasjon fra medlemsstatene,å endre del II, III, IV, V, VI, VII, VIII og IX i vedlegg II samt vedlegg VI, VII, IX, X, XI, XIa, XIb, XIc, XId, XIe, XIf, XIg, XIh, XIi, XIj, XIk og XIl på grunnlag av beslutninger truffet enten i Sanksjonskomiteen eller i FNs sikkerhetsråd, og til å oppdatere koder fra den kombinerte nomenklatur som fastsatt i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658*),å endre vedlegg VIII for å justere eller tilpasse varelisten i vedlegget, samtidig som den tar hensyn til eventuelle definisjoner eller retningslinjer som Sanksjonskomiteen måtte vedta, eller til å oppdatere koder fra den kombinerte nomenklatur som fastsatt i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658*),å endre vedlegg III, IV og V på grunnlag av beslutninger truffet i Sanksjonskomiteen eller i FNs sikkerhetsråd eller beslutninger om disse vedleggene i beslutning (FUSP) 2016/849,å endre vedlegg XII for å justere eller tilpasse tjenestelisten i vedlegget, samtidig som den tar hensyn til opplysninger som medlemsstatene har gitt, samt eventuelle definisjoner eller retningslinjer som FNs statistikkontor har utstedt, eller for å legge til referansenumre hentet fra den sentrale produktgruppering for varer og tjenester fastsatt av FNs statistikkontor.
+Kommisjonen har fullmakt til
+
+1. å endre vedlegg I på grunnlag av informasjon fra medlemsstatene,
+2. å endre del II, III, IV, V, VI, VII, VIII og IX i vedlegg II samt vedlegg VI, VII, IX, X, XI, XIa, XIb, XIc, XId, XIe, XIf, XIg, XIh, XIi, XIj, XIk og XIl på grunnlag av beslutninger truffet enten i Sanksjonskomiteen eller i FNs sikkerhetsråd, og til å oppdatere koder fra den kombinerte nomenklatur som fastsatt i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658*),
+3. å endre vedlegg VIII for å justere eller tilpasse varelisten i vedlegget, samtidig som den tar hensyn til eventuelle definisjoner eller retningslinjer som Sanksjonskomiteen måtte vedta, eller til å oppdatere koder fra den kombinerte nomenklatur som fastsatt i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658*),
+4. å endre vedlegg III, IV og V på grunnlag av beslutninger truffet i Sanksjonskomiteen eller i FNs sikkerhetsråd eller beslutninger om disse vedleggene i beslutning (FUSP) 2016/849,
+5. å endre vedlegg XII for å justere eller tilpasse tjenestelisten i vedlegget, samtidig som den tar hensyn til opplysninger som medlemsstatene har gitt, samt eventuelle definisjoner eller retningslinjer som FNs statistikkontor har utstedt, eller for å legge til referansenumre hentet fra den sentrale produktgruppering for varer og tjenester fastsatt av FNs statistikkontor.
 
 ### Artikkel 47
 
@@ -632,7 +937,10 @@ Kommisjonen og medlemsstatene skal umiddelbart underrette hverandre om tiltak de
 
 ### Artikkel 50
 
-1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 34, til de kompetente myndighetene i medlemsstatene der de er bosatt eller befinner seg, og omgående gi opplysningene, direkte eller gjennom de berørte medlemsstatene, til Kommisjonen, ogsamarbeide med de kompetente myndighetene om en eventuell verifisering av disse opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer
+
+1. umiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 34, til de kompetente myndighetene i medlemsstatene der de er bosatt eller befinner seg, og omgående gi opplysningene, direkte eller gjennom de berørte medlemsstatene, til Kommisjonen, og
+2. samarbeide med de kompetente myndighetene om en eventuell verifisering av disse opplysningene.
 
 2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal omgående stilles til rådighet for den berørte medlemsstaten.
 
@@ -648,7 +956,11 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 53
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avlisteførte personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII eller eiere av fartøyer oppført i vedlegg XIV eller vedlegg XVIII,andre nordkoreanske personer, enheter eller organer, herunder Nord-Koreas regjering, offentlige organer, foretak og etater,personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a) og b).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes av
+
+1. listeførte personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII eller eiere av fartøyer oppført i vedlegg XIV eller vedlegg XVIII,
+2. andre nordkoreanske personer, enheter eller organer, herunder Nord-Koreas regjering, offentlige organer, foretak og etater,
+3. personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a) og b).
 
 2\. Oppfyllelsen av en kontrakt eller gjennomføringen av en transaksjon anses å være påvirket av tiltakene som pålegges gjennom denne forordning, når kravets eksistens eller innhold direkte eller indirekte er et resultat av disse tiltakene.
 
@@ -1022,29 +1334,50 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 
 *(a) Nuclear- and/or Missile-usable Items*
 
-(1) Ring MagnetsPermanent magnet materials having both the following characteristics:Ring-shaped magnet with a relation between outer and inner diameter smaller or equal to 1.6:1; andMade of any of the following magnetic materials: aluminium-nickel-cobalt, ferrites, samarium-cobalt, or neodymium-iron-boron.
-ex 8505 11 00
-ex 8505 19 10
-ex 8505 19 90
-ex 8505 90 90
+(1) Ring Magnets
 
-(2) Maraging SteelMaraging steel having both the following characteristics:'capable of' an ultimate tensile strength of 1 500 MPa or more at 293 K (20 °C).In bar or tube form, with an outer diameter of 75 mm or greater.
-ex 7304 49 10
-ex 7304 51 81
-ex 7304 51 89
-ex 7304 59 92
-ex 7304 59 93
-ex 7304 59 99
+Permanent magnet materials having both the following characteristics:
 
-(3) Magnetic alloy materials in sheet or thin strip form having both of the following characteristics:Thickness of 0,05 mm or less; or height of 25 mm or less, andMade of any of the following magnetic alloy materials: iron-chromium-cobalt, iron-cobalt-vanadium, iron-chromium-cobalt-vanadium, or iron-chromium.
-ex 7326 19 10
-ex 7326 19 90
-ex 7326 90 92
-ex 7326 90 94
-ex 7326 90 96
-ex 7326 90 98
+1. Ring-shaped magnet with a relation between outer and inner diameter smaller or equal to 1.6:1; and
+2. Made of any of the following magnetic materials: aluminium-nickel-cobalt, ferrites, samarium-cobalt, or neodymium-iron-boron.
+   ex 8505 11 00
+   ex 8505 19 10
+   ex 8505 19 90
+   ex 8505 90 90
 
-(4) Frequency Changers (also known as converters or inverters)Frequency changers, other than those specified in entries 0B001.b.13 or 3A225 of Annex II, having all of the following characteristics, and specially designed software therefore:Multiphase frequency output;Capable of providing a power of 40 W or greater; andCapable of operating anywhere (at any one point or more) within the frequency range of between 600 and 2 000 Hz.*Technical Notes:*
+(2) Maraging Steel
+
+Maraging steel having both the following characteristics:
+
+1. 'capable of' an ultimate tensile strength of 1 500 MPa or more at 293 K (20 °C).
+2. In bar or tube form, with an outer diameter of 75 mm or greater.
+   ex 7304 49 10
+   ex 7304 51 81
+   ex 7304 51 89
+   ex 7304 59 92
+   ex 7304 59 93
+   ex 7304 59 99
+
+(3) Magnetic alloy materials in sheet or thin strip form having both of the following characteristics:
+
+1. Thickness of 0,05 mm or less; or height of 25 mm or less, and
+2. Made of any of the following magnetic alloy materials: iron-chromium-cobalt, iron-cobalt-vanadium, iron-chromium-cobalt-vanadium, or iron-chromium.
+   ex 7326 19 10
+   ex 7326 19 90
+   ex 7326 90 92
+   ex 7326 90 94
+   ex 7326 90 96
+   ex 7326 90 98
+
+(4) Frequency Changers (also known as converters or inverters)
+
+Frequency changers, other than those specified in entries 0B001.b.13 or 3A225 of Annex II, having all of the following characteristics, and specially designed software therefore:
+
+1. Multiphase frequency output;
+2. Capable of providing a power of 40 W or greater; and
+3. Capable of operating anywhere (at any one point or more) within the frequency range of between 600 and 2 000 Hz.
+
+*Technical Notes:*
 
 (1) Frequency changers are also known as converters or inverters.
 
@@ -1057,98 +1390,127 @@ ex 8537 10 98
 ex 8537 20 91
 ex 8537 20 99
 
-(5) High-strength Aluminium AlloyAluminium alloys having both the following characteristics:'capable of' an ultimate tensile of strength of 415 MPa or more at 293 K (20 °C) andIn bar or tube form, with an outer diameter of 75 mm or greater.*Technical Note:*The phrase 'capable of' encompasses aluminium alloy before or after heat treatment.
+(5) High-strength Aluminium Alloy
+
+Aluminium alloys having both the following characteristics:
+
+1. 'capable of' an ultimate tensile of strength of 415 MPa or more at 293 K (20 °C) and
+2. In bar or tube form, with an outer diameter of 75 mm or greater.
+
+*Technical Note:*
+
+The phrase 'capable of' encompasses aluminium alloy before or after heat treatment.
 ex 7601 20 80
 ex 7604 29 10
 ex 7608 20 20
 ex 7608 20 81
 ex 7608 20 89
 
-(6) Fibrous or Filamentary Materials'Fibrous or filamentary materials' and prepregs, as follows:Carbon, aramid, or glass 'fibrous or filamentary materials' having both of the following characteristics:A 'specific modulus' exceeding 3,18 × 106 m; andA 'specific tensile strength' exceeding 76,2 × 103 m;Prepregs: Thermoset resin-impregnated continuous 'yarns', 'rovings', 'tows' or 'tapes' with a width of 30 mm or less, made from carbon, aramid, or glass 'fibrous or filamentary materials' controlled in (a) above.
-ex 5402 11 00
-ex 5402 19 00
-ex 5402 31 00
-ex 5402 32 00
-ex 5404 90 90
-ex 5407 10 00
-ex 5407 20 90
-ex 5407 41 00
-ex 5407 42 00
-ex 5407 43 00
-ex 5407 44 00
-ex 5501 10 00
-ex 5501 90 00
-ex 5503 11 00
-ex 5503 19 00
-ex 5503 20 00
-ex 5503 90 00
-ex 5506 10 00
-ex 5506 90 00
-ex 5509 11 00
-ex 5509 12 00
-ex 5604 90 10
-ex 5607 50 11
-ex 5607 50 19
-ex 5607 50 30
-ex 5607 50 90
-ex 5609 00 00
-ex 5902 10 10
-ex 5902 10 90
-ex 5902 20 90
-ex 5902 90 10
-ex 5902 90 90
-ex 5903 10 10
-ex 5903 10 90
-ex 5903 20 10
-ex 5903 20 90
-ex 5903 90 10
-ex 5903 90 91
-ex 5903 90 99
-ex 6815 10 10
-ex 6815 99 00
-ex 7019 12 00
-ex 7019 19 10
-ex 7019 19 90
-ex 7019 51 00
-ex 7019 59 00
-ex 7019 90 00
+(6) Fibrous or Filamentary Materials
 
-(7) Filament Winding Machines and Related EquipmentFilament winding machines and related equipment, as follows:Filament winding machines having all of the following characteristics:Having motions for positioning, wrapping, and winding fibres coordinated and programmed in two or more axes;Specially designed to fabricate composite structures or laminates from 'fibrous or filamentary materials'; andCapable of winding cylindrical tubes of diameter of 75 mm or greater;Coordinating and programming controls for filament winding machines specified in (a) above;Mandrels for filament winding machines specified in (a) above.
-ex 8419 89 30
-ex 8419 89 98
-ex 8419 90 85
-ex 8444 00 10
-ex 8444 00 90
-ex 8446 10 00
-ex 8446 21 00
-ex 8446 29 00
-ex 8446 30 00
-ex 8447 11 00
-ex 8447 12 00
-ex 8447 20 20
-ex 8447 20 80
-ex 8447 90 00
-ex 8448 19 00
-ex 8448 20 00
-ex 8448 39 00
-ex 8448 42 00
-ex 8448 49 00
-ex 8448 59 00
-ex 8479 89 97
-ex 8479 90 20
-ex 8479 90 70
-ex 8537 10 10
-ex 8537 10 91
-ex 8537 10 95
-ex 8537 10 98
-ex 8538 10 00
-ex 9022 12 00
-ex 9022 19 00
-ex 9022 90 00
-ex 9031 80 80
-ex 9031 90 00
+'Fibrous or filamentary materials' and prepregs, as follows:
 
-(8) Flow-forming MachinesAs described in INFCIRC/254/Rev.9/Part2 and S/2014/253
+1. Carbon, aramid, or glass 'fibrous or filamentary materials' having both of the following characteristics:
+
+   1. A 'specific modulus' exceeding 3,18 × 106 m; and
+   2. A 'specific tensile strength' exceeding 76,2 × 103 m;
+2. Prepregs: Thermoset resin-impregnated continuous 'yarns', 'rovings', 'tows' or 'tapes' with a width of 30 mm or less, made from carbon, aramid, or glass 'fibrous or filamentary materials' controlled in (a) above.
+   ex 5402 11 00
+   ex 5402 19 00
+   ex 5402 31 00
+   ex 5402 32 00
+   ex 5404 90 90
+   ex 5407 10 00
+   ex 5407 20 90
+   ex 5407 41 00
+   ex 5407 42 00
+   ex 5407 43 00
+   ex 5407 44 00
+   ex 5501 10 00
+   ex 5501 90 00
+   ex 5503 11 00
+   ex 5503 19 00
+   ex 5503 20 00
+   ex 5503 90 00
+   ex 5506 10 00
+   ex 5506 90 00
+   ex 5509 11 00
+   ex 5509 12 00
+   ex 5604 90 10
+   ex 5607 50 11
+   ex 5607 50 19
+   ex 5607 50 30
+   ex 5607 50 90
+   ex 5609 00 00
+   ex 5902 10 10
+   ex 5902 10 90
+   ex 5902 20 90
+   ex 5902 90 10
+   ex 5902 90 90
+   ex 5903 10 10
+   ex 5903 10 90
+   ex 5903 20 10
+   ex 5903 20 90
+   ex 5903 90 10
+   ex 5903 90 91
+   ex 5903 90 99
+   ex 6815 10 10
+   ex 6815 99 00
+   ex 7019 12 00
+   ex 7019 19 10
+   ex 7019 19 90
+   ex 7019 51 00
+   ex 7019 59 00
+   ex 7019 90 00
+
+(7) Filament Winding Machines and Related Equipment
+
+Filament winding machines and related equipment, as follows:
+
+1. Filament winding machines having all of the following characteristics:
+
+   1. Having motions for positioning, wrapping, and winding fibres coordinated and programmed in two or more axes;
+   2. Specially designed to fabricate composite structures or laminates from 'fibrous or filamentary materials'; and
+   3. Capable of winding cylindrical tubes of diameter of 75 mm or greater;
+2. Coordinating and programming controls for filament winding machines specified in (a) above;
+3. Mandrels for filament winding machines specified in (a) above.
+   ex 8419 89 30
+   ex 8419 89 98
+   ex 8419 90 85
+   ex 8444 00 10
+   ex 8444 00 90
+   ex 8446 10 00
+   ex 8446 21 00
+   ex 8446 29 00
+   ex 8446 30 00
+   ex 8447 11 00
+   ex 8447 12 00
+   ex 8447 20 20
+   ex 8447 20 80
+   ex 8447 90 00
+   ex 8448 19 00
+   ex 8448 20 00
+   ex 8448 39 00
+   ex 8448 42 00
+   ex 8448 49 00
+   ex 8448 59 00
+   ex 8479 89 97
+   ex 8479 90 20
+   ex 8479 90 70
+   ex 8537 10 10
+   ex 8537 10 91
+   ex 8537 10 95
+   ex 8537 10 98
+   ex 8538 10 00
+   ex 9022 12 00
+   ex 9022 19 00
+   ex 9022 90 00
+   ex 9031 80 80
+   ex 9031 90 00
+
+(8) Flow-forming Machines
+
+As described in INFCIRC/254/Rev.9/Part2 and S/2014/253
 ex 8463 90 00
 ex 8466 94 00
 
@@ -1228,118 +1590,132 @@ ex 2850 00 20
 | N,N-Dimethylaniline (121-69-7) | ex | 2921 42 00 |
 | Pyridine (110-86-1) | ex | 2933 31 00 |
 
-(2) Reaction vessels, reactors, agitators, heat exchangers, condensers, pumps, valves, storage tanks, containers, receivers, and distillation or absorption columns that meet performance parameters described in S/2006/853 and S/2006/853/corr.1.Single-seal pumps with manufacturer's specified maximum flow-rate greater than 0,6m3 /h and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemical(s) being processed are made from any of the following materials:nickel or alloys with more than 40 % nickel by weight;alloys with more than 25 % nickel and 20 % chromium by weight;fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);glass or glass-lined (including vitrified or enamelled coating);graphite or carbon-graphite;tantalum or tantalum alloys;titanium or titanium alloys;zirconium or zirconium alloys;ceramics;ferrosilicon (high silicon iron alloys); orniobium (columbium) or niobium alloys.
-ex 3925 10 00
-ex 3925 90 80
-ex 3926 90 92
-ex 3926 90 97
-ex 4009 21 00
-ex 4009 22 00
-ex 4009 41 00
-ex 4009 42 00
-ex 4016 93 00
-ex 6909 11 00
-ex 6909 12 00
-ex 6909 19 00
-ex 6909 90 00
-ex 6914 90 00
-ex 7020 00 10
-ex 7020 00 30
-ex 7020 00 80
-ex 7304 41 00
-ex 7304 49 93
-ex 7304 49 95
-ex 7304 49 99
-ex 7304 51 81
-ex 7304 51 89
-ex 7304 59 92
-ex 7304 59 93
-ex 7304 59 99
-ex 7306 40 20
-ex 7306 40 80
-ex 7306 50 20
-ex 7306 50 80
-ex 7306 69 10
-ex 7306 69 90
-ex 7306 90 00
-ex 7309 00 10
-ex 7309 00 30
-ex 7309 00 51
-ex 7309 00 59
-ex 7309 00 90
-ex 7310 10 00
-ex 7310 29 10
-ex 7310 29 90
-ex 7311 00 00
-ex 7326 90 92
-ex 7326 90 94
-ex 7326 90 96
-ex 7326 90 98
-ex 7507 11 00
-ex 7507 12 00
-ex 7507 20 00
-ex 7508 90 00
-ex 8103 90 90
-ex 8108 90 50
-ex 8108 90 60
-ex 8108 90 90
-ex 8109 90 00
-ex 8112 99 30
-ex 8401 20 00
-ex 8401 40 00
-ex 8401 10 00
-ex 8412 90 20
-ex 8413 50 40
-ex 8413 60 39
-ex 8413 60 61
-ex 8413 60 69
-ex 8413 60 70
-ex 8413 60 80
-ex 8413 70 21
-ex 8413 70 29
-ex 8413 70 45
-ex 8413 70 51
-ex 8413 70 59
-ex 8413 70 65
-ex 8413 70 75
-ex 8413 70 81
-ex 8413 70 89
-ex 8413 81 00
-ex 8413 82 00
-ex 8413 91 00
-ex 8414 10 25
-ex 8414 10 81
-ex 8414 10 89
-ex 8414 40 10
-ex 8414 40 90
-ex 8414 59 15
-ex 8414 59 25
-ex 8414 59 23
-ex 8414 59 95
-ex 8414 80 11
-ex 8418 99 10
-ex 8414 80 19
-ex 8414 80 59
-ex 8414 80 73
-ex 8414 80 75
-ex 8414 80 78
-ex 8414 80 80
-ex 8414 90 00
-ex 8417 80 30
-ex 8417 80 50
-ex 8417 80 70
-ex 8418 69 00
-ex 8419 40 00
-ex 8419 50 00
-ex 8419 89 10
-ex 8419 89 30
-ex 8419 89 98
-ex 8419 90 85
-ex 8477 80 93
-ex 8477 80 99
-ex 8479 82 00
-ex 8479 89 97
-ex 8479 90 70
+(2) Reaction vessels, reactors, agitators, heat exchangers, condensers, pumps, valves, storage tanks, containers, receivers, and distillation or absorption columns that meet performance parameters described in S/2006/853 and S/2006/853/corr.1.
+
+- Single-seal pumps with manufacturer's specified maximum flow-rate greater than 0,6m3 /h and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemical(s) being processed are made from any of the following materials:
+
+  1. nickel or alloys with more than 40 % nickel by weight;
+  2. alloys with more than 25 % nickel and 20 % chromium by weight;
+  3. fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);
+  4. glass or glass-lined (including vitrified or enamelled coating);
+  5. graphite or carbon-graphite;
+  6. tantalum or tantalum alloys;
+  7. titanium or titanium alloys;
+  8. zirconium or zirconium alloys;
+  9. ceramics;
+  10. ferrosilicon (high silicon iron alloys); or
+  11. niobium (columbium) or niobium alloys.
+      ex 3925 10 00
+      ex 3925 90 80
+      ex 3926 90 92
+      ex 3926 90 97
+      ex 4009 21 00
+      ex 4009 22 00
+      ex 4009 41 00
+      ex 4009 42 00
+      ex 4016 93 00
+      ex 6909 11 00
+      ex 6909 12 00
+      ex 6909 19 00
+      ex 6909 90 00
+      ex 6914 90 00
+      ex 7020 00 10
+      ex 7020 00 30
+      ex 7020 00 80
+      ex 7304 41 00
+      ex 7304 49 93
+      ex 7304 49 95
+      ex 7304 49 99
+      ex 7304 51 81
+      ex 7304 51 89
+      ex 7304 59 92
+      ex 7304 59 93
+      ex 7304 59 99
+      ex 7306 40 20
+      ex 7306 40 80
+      ex 7306 50 20
+      ex 7306 50 80
+      ex 7306 69 10
+      ex 7306 69 90
+      ex 7306 90 00
+      ex 7309 00 10
+      ex 7309 00 30
+      ex 7309 00 51
+      ex 7309 00 59
+      ex 7309 00 90
+      ex 7310 10 00
+      ex 7310 29 10
+      ex 7310 29 90
+      ex 7311 00 00
+      ex 7326 90 92
+      ex 7326 90 94
+      ex 7326 90 96
+      ex 7326 90 98
+      ex 7507 11 00
+      ex 7507 12 00
+      ex 7507 20 00
+      ex 7508 90 00
+      ex 8103 90 90
+      ex 8108 90 50
+      ex 8108 90 60
+      ex 8108 90 90
+      ex 8109 90 00
+      ex 8112 99 30
+      ex 8401 20 00
+      ex 8401 40 00
+      ex 8401 10 00
+      ex 8412 90 20
+      ex 8413 50 40
+      ex 8413 60 39
+      ex 8413 60 61
+      ex 8413 60 69
+      ex 8413 60 70
+      ex 8413 60 80
+      ex 8413 70 21
+      ex 8413 70 29
+      ex 8413 70 45
+      ex 8413 70 51
+      ex 8413 70 59
+      ex 8413 70 65
+      ex 8413 70 75
+      ex 8413 70 81
+      ex 8413 70 89
+      ex 8413 81 00
+      ex 8413 82 00
+      ex 8413 91 00
+      ex 8414 10 25
+      ex 8414 10 81
+      ex 8414 10 89
+      ex 8414 40 10
+      ex 8414 40 90
+      ex 8414 59 15
+      ex 8414 59 25
+      ex 8414 59 23
+      ex 8414 59 95
+      ex 8414 80 11
+      ex 8418 99 10
+      ex 8414 80 19
+      ex 8414 80 59
+      ex 8414 80 73
+      ex 8414 80 75
+      ex 8414 80 78
+      ex 8414 80 80
+      ex 8414 90 00
+      ex 8417 80 30
+      ex 8417 80 50
+      ex 8417 80 70
+      ex 8418 69 00
+      ex 8419 40 00
+      ex 8419 50 00
+      ex 8419 89 10
+      ex 8419 89 30
+      ex 8419 89 98
+      ex 8419 90 85
+      ex 8477 80 93
+      ex 8477 80 99
+      ex 8479 82 00
+      ex 8479 89 97
+      ex 8479 90 70
 
 (3) Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA filter units that could be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities.
 ex 8414 51 00

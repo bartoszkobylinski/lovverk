@@ -15,7 +15,7 @@ xml_hash: "92a8e3bb7b21ab9177972c9874ea706bd2ee1ea736985968dd85c8d5fb4e681f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Loven gjelder for Svalbard. Kongen kan gi forskrift om lovens anvendelse på Sva
 
 ### § 3. Definisjoner
 
-I denne loven menes medstatistikk: tallfestede opplysninger om en gruppe eller et fenomen, og som fremkommer ved en sammenstilling og bearbeidelse av opplysninger om de enkelte enhetene i gruppen eller et utvalg av disse enhetene, eller ved systematisk observasjon av fenomenetoffisiell statistikk: statistikk som omfattes av nasjonalt statistikkprogram som nevnt i [§ 4](lov/2019-06-21-32/§4).
+I denne loven menes med
+
+1. statistikk: tallfestede opplysninger om en gruppe eller et fenomen, og som fremkommer ved en sammenstilling og bearbeidelse av opplysninger om de enkelte enhetene i gruppen eller et utvalg av disse enhetene, eller ved systematisk observasjon av fenomenet
+2. offisiell statistikk: statistikk som omfattes av nasjonalt statistikkprogram som nevnt i [§ 4](lov/2019-06-21-32/§4).
 
 ## Kapittel 2 Offisiell statistikk
 

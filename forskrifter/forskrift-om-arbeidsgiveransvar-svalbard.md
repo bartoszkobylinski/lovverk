@@ -15,7 +15,7 @@ xml_hash: "8d9a4f7bfd442fdb7be580da52e949e45301bc90fa0bacb1a78b89d44f4365c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,7 +41,11 @@ Fri lægehjelp blir å yde så lenge sykdommen varer for så vidt ikke [§ 6](fo
 
 Medfører sykdommen hel arbeidsudyktighet, plikter arbeidsgiveren derhos å yde dagpenger med kr 3,00 pr virkedag samt fri kost og fritt losji.
 
-Er arbeideren familieforsørger, plikter arbeidsgiveren dessuten å yte følgende beløp pr virkedag i familiepenger:for første forsørgede kr 6,67for annen forsørgede kr 2,-for hver av de øvrige forsørgede kr 1,-.
+Er arbeideren familieforsørger, plikter arbeidsgiveren dessuten å yte følgende beløp pr virkedag i familiepenger:
+
+1. for første forsørgede kr 6,67
+2. for annen forsørgede kr 2,-
+3. for hver av de øvrige forsørgede kr 1,-.
 
 ### § 4
 
@@ -53,7 +57,11 @@ Nødvendiggjør sykdommen kur og pleie på sykehus, isolasjon, desinfeksjon elle
 
 ### § 6
 
-Arbeidsgiverens forpliktelser i henhold til foranstående paragrafer bortfaller såfremt den syke efter lægens bestemmelser kan bli sendt til sin bopel i hjemlandet eller hvis han ingen fast bopel har, til sin hjemstavnskommune. Arbeidsgiveren skal i så fall sørge for og bekoste hjemsendelse helt fram. Arbeidsgiveren kan i følgende tilfelle søke sine utgifter refundert hos den syke:Såfremt denne var lidende av sykdommen allerede ved avreisen til Svalbard.Hvis den syke ikke retter sig efter lægens bestemmelser eller utviser grov skjødesløshet med hensyn til sin helbred.Hvis sykdommen er pådratt med forsett, ved beruselse eller ved forsettlig overtredelse av arbeidsreglement o.l.
+Arbeidsgiverens forpliktelser i henhold til foranstående paragrafer bortfaller såfremt den syke efter lægens bestemmelser kan bli sendt til sin bopel i hjemlandet eller hvis han ingen fast bopel har, til sin hjemstavnskommune. Arbeidsgiveren skal i så fall sørge for og bekoste hjemsendelse helt fram. Arbeidsgiveren kan i følgende tilfelle søke sine utgifter refundert hos den syke:
+
+1. Såfremt denne var lidende av sykdommen allerede ved avreisen til Svalbard.
+2. Hvis den syke ikke retter sig efter lægens bestemmelser eller utviser grov skjødesløshet med hensyn til sin helbred.
+3. Hvis sykdommen er pådratt med forsett, ved beruselse eller ved forsettlig overtredelse av arbeidsreglement o.l.
 
 ### § 7
 

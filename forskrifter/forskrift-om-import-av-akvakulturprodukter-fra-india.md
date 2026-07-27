@@ -38,7 +38,10 @@ Forskriften gjelder produkter fra akvakulturanlegg i India ment til konsum.
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*restmengder av farmakologisk virksomme stoffer:* farmakologiske virksomme stoffer, uttrykt i mg/kg eller µg/kg våtvekt, som er igjen i næringsmidler av animalsk opprinnelse, enten det er aktive stoffer, hjelpestoffer eller nedbrytningsstoffer og deres metabolitter*forsendelse:* enhver forsendelse fra India av produkter fra akvakulturanlegg som er beregnet på konsum.
+I denne forskrift menes med:
+
+1. *restmengder av farmakologisk virksomme stoffer:* farmakologiske virksomme stoffer, uttrykt i mg/kg eller µg/kg våtvekt, som er igjen i næringsmidler av animalsk opprinnelse, enten det er aktive stoffer, hjelpestoffer eller nedbrytningsstoffer og deres metabolitter
+2. *forsendelse:* enhver forsendelse fra India av produkter fra akvakulturanlegg som er beregnet på konsum.
 
 > Endret ved [forskrift 6 okt 2016 nr. 1176](forskrift/2016-10-06-1176) (i kraft 26 okt 2016).
 
@@ -54,7 +57,10 @@ Forsendelser kan tillates importert uten helsesertifikat i samsvar med [§ 4](fo
 
 ## § 6. Veterinær grensekontroll
 
-Forsendelser som omfattes av denne forskriften, skal prøvetas av Mattilsynet på følgende måte:det skal tas prøver av 50 % av forsendelsene som ankommer grensekontrollstasjonene. I de tilfellene der en forsendelse består av akvakulturprodukter fra mer enn en virksomhet skal det tas prøver av akvakulturprodukter fra hver av virksomhetene.prøvene som tas skal undersøkes for forekomst av restmengder av farmakologisk virksomme stoffer som angitt i [forskrift 10. oktober 1996 nr. 997](forskrift/1996-10-10-997) om grenseverdier for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse (veterinærpreparatrestforskriften) [§ 2](forskrift/1996-10-10-997/§2), og særskilt for klorampenikol, tetracyklin, oksytetracyklin, klortetracyklin og metabolitter av nitrofuraner.
+Forsendelser som omfattes av denne forskriften, skal prøvetas av Mattilsynet på følgende måte:
+
+1. det skal tas prøver av 50 % av forsendelsene som ankommer grensekontrollstasjonene. I de tilfellene der en forsendelse består av akvakulturprodukter fra mer enn en virksomhet skal det tas prøver av akvakulturprodukter fra hver av virksomhetene.
+2. prøvene som tas skal undersøkes for forekomst av restmengder av farmakologisk virksomme stoffer som angitt i [forskrift 10. oktober 1996 nr. 997](forskrift/1996-10-10-997) om grenseverdier for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse (veterinærpreparatrestforskriften) [§ 2](forskrift/1996-10-10-997/§2), og særskilt for klorampenikol, tetracyklin, oksytetracyklin, klortetracyklin og metabolitter av nitrofuraner.
 
 > Endret ved [forskrifter 8 nov 2012 nr. 1044](forskrift/2012-11-08-1044) (i kraft 9 nov 2012), [6 okt 2016 nr. 1176](forskrift/2016-10-06-1176) (i kraft 26 okt 2016).
 

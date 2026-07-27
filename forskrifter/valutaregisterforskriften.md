@@ -94,25 +94,152 @@ Fysisk inn- og utførsel av betalingsmidler mellom Norge og Svalbard er rapporte
 
 ## § 9. Overføring av betalingsmidler gjennom bank og andre finansinstitusjoner
 
-Når betalingsmidler overføres gjennom bank eller andre finansinstitusjoner, skal den rapporteringspliktige rapportere følgende:For avsender eller mottaker i Norge:fødselsnummer, organisasjonsnummer eller D-nummernavnadressepostnummerpoststedlandavsender-/mottakerbankkontonummer for transaksjoner som går via konto.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer, skal rapporten identifisere vedkommende ved kortnummer, kontonummer, passnummer eller fødselsdato. For banktransaksjoner skal det her i tillegg rapporteres kundenummer 999999999.For avsender eller mottaker utenfor Norge, tilgjengelige opplysninger om:navnadressepostnummerpoststedlandavsender-/mottakerbankkontonummerland hvor konto er registrert.For den som rapporterer om overføringen:identifikasjon av den enhet som gjennomfører transaksjonentransaksjonstype.For hver overføring skal følgende rapporteres:overføringens referanse (den rapporteringspliktiges unike identifikasjon for overføringen)overføringstidspunktbeløp i NOKbeløp i fremmed valuta (dersom fremmed valuta er benyttet)valutakode (dersom fremmed valuta er benyttet)om overføringen har gått ut av eller inn i Norge.For bankoverføring fra Norge av beløp over NOK 100 000 eller tilsvarende i annen valuta skal det rapporteres hva overføringen gjelder og betalingsart. Skattedirektoratet fastsetter koder for betalingsart.
+Når betalingsmidler overføres gjennom bank eller andre finansinstitusjoner, skal den rapporteringspliktige rapportere følgende:
+
+1. For avsender eller mottaker i Norge:
+
+   - fødselsnummer, organisasjonsnummer eller D-nummer
+   - navn
+   - adresse
+   - postnummer
+   - poststed
+   - land
+   - avsender-/mottakerbank
+   - kontonummer for transaksjoner som går via konto.
+
+   For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer, skal rapporten identifisere vedkommende ved kortnummer, kontonummer, passnummer eller fødselsdato. For banktransaksjoner skal det her i tillegg rapporteres kundenummer 999999999.
+2. For avsender eller mottaker utenfor Norge, tilgjengelige opplysninger om:
+
+   - navn
+   - adresse
+   - postnummer
+   - poststed
+   - land
+   - avsender-/mottakerbank
+   - kontonummer
+   - land hvor konto er registrert.
+3. For den som rapporterer om overføringen:
+
+   - identifikasjon av den enhet som gjennomfører transaksjonen
+   - transaksjonstype.
+4. For hver overføring skal følgende rapporteres:
+
+   - overføringens referanse (den rapporteringspliktiges unike identifikasjon for overføringen)
+   - overføringstidspunkt
+   - beløp i NOK
+   - beløp i fremmed valuta (dersom fremmed valuta er benyttet)
+   - valutakode (dersom fremmed valuta er benyttet)
+   - om overføringen har gått ut av eller inn i Norge.
+5. For bankoverføring fra Norge av beløp over NOK 100 000 eller tilsvarende i annen valuta skal det rapporteres hva overføringen gjelder og betalingsart. Skattedirektoratet fastsetter koder for betalingsart.
 
 > Endret ved [forskrifter 13 des 2005 nr. 1457](forskrift/2005-12-13-1457), [25 mai 2009 nr. 543](forskrift/2009-05-25-543), [15 des 2015 nr. 1671](forskrift/2015-12-15-1671) (i kraft 1 jan 2016).
 
 ## § 10. Overføring av betalingsmidler ved bruk av norskutstedte betalings- eller kredittkort utenfor Norge
 
-Når betalingsmidler overføres ved bruk av norskutstedt betalings- eller kredittkort utenfor Norge, skal den rapporteringspliktige rapportere følgende:For enkeltoverføringer større enn NOK 25 000 eller tilsvarende i annen valuta:rapporteringspliktiges organisasjonsnummertransaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakodekortholders fødselsnummer, D-nummer eller organisasjonsnummerkortholders navn, adresse, postnummer, poststed og landkortnummertransaksjonsdatokorttypereferanse på transaksjonentilgjengelig transaksjonstypebrukerstedets navn, land og brukerstedsidentitettilgjengelig opplysninger og brukerstedets adresse, postnummer, poststed og kode.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per kort:rapporteringspliktiges organisasjonsnummermånedssum per kort per landperiode for aggregeringenantall overføringer som inngår i aggregeringenkortholders fødselsnummer, D-nummer eller organisasjonsnummerkortholders navn, adresse, postnummer, poststed og landkortnummerkorttype.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per brukersted:rapporteringspliktiges organisasjonsnummerbrukerstedets navn, land og brukerstedsidentitettilgjengelige opplysninger om brukerstedets adresse, poststed og kodemånedssum per brukerstedperiode for aggregeringenantall overføringer som inngår i aggregeringen.
+Når betalingsmidler overføres ved bruk av norskutstedt betalings- eller kredittkort utenfor Norge, skal den rapporteringspliktige rapportere følgende:
+
+1. For enkeltoverføringer større enn NOK 25 000 eller tilsvarende i annen valuta:
+
+   - rapporteringspliktiges organisasjonsnummer
+   - transaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakode
+   - kortholders fødselsnummer, D-nummer eller organisasjonsnummer
+   - kortholders navn, adresse, postnummer, poststed og land
+   - kortnummer
+   - transaksjonsdato
+   - korttype
+   - referanse på transaksjonen
+   - tilgjengelig transaksjonstype
+   - brukerstedets navn, land og brukerstedsidentitet
+   - tilgjengelig opplysninger og brukerstedets adresse, postnummer, poststed og kode.
+
+   For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.
+2. For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per kort:
+
+   - rapporteringspliktiges organisasjonsnummer
+   - månedssum per kort per land
+   - periode for aggregeringen
+   - antall overføringer som inngår i aggregeringen
+   - kortholders fødselsnummer, D-nummer eller organisasjonsnummer
+   - kortholders navn, adresse, postnummer, poststed og land
+   - kortnummer
+   - korttype.
+
+   For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.
+3. For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per brukersted:
+
+   - rapporteringspliktiges organisasjonsnummer
+   - brukerstedets navn, land og brukerstedsidentitet
+   - tilgjengelige opplysninger om brukerstedets adresse, poststed og kode
+   - månedssum per brukersted
+   - periode for aggregeringen
+   - antall overføringer som inngår i aggregeringen.
 
 > Endret ved forskrifter [25 mai 2009 nr. 543](forskrift/2009-05-25-543), [24 feb 2023 nr. 262](forskrift/2023-02-24-262) (i kraft 1 sep 2023).
 
 ## § 11. Overføring av betalingsmidler ved bruk av utenlandskutstedte betalings- eller kredittkort i Norge
 
-Når betalingsmidler overføres ved bruk av utenlandskutstedt betalings- eller kredittkort i Norge, skal den rapporteringspliktige rapportere følgende:For enkeltoverføringer større enn NOK 25.000 eller tilsvarende i annen valuta:rapporteringspliktiges organisasjonsnummertransaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakodetransaksjonsdatokorttypereferanse på transaksjonenbrukerstedets organisasjonsnummer og eventuelt fødselsnummerbrukerstedets navn, adresse, postnummer og poststedbrukerstedets kode og brukerstedsidentitetkortholders kortnummer og landtilgjengelig transaksjonstype.For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. kort:totalt beløp overført pr. måned pr. kortrapporteringspliktiges organisasjonsnummerkortholders kortnummer og landkorttypeperiode for aggregeringenantall overføringer som inngår i aggregeringen.For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. brukersted:totalt beløp overført pr. måned pr. brukersted pr. korttyperapporteringspliktiges organisasjonsnummer og eventuelt fødselsnummerkorttypebrukerstedets organisasjonsnummerbrukerstedets navn, adresse, postnummer og poststedbrukerstedets kode og brukerstedsidentitetperiode for aggregeringenantall overføringer som inngår i aggregeringen.Kontantuttak av beløp over NOK 5.000 eller tilsvarende i annen valuta.rapporteringspliktiges organisasjonsnummerbrukerstedets organisasjonsnummerbrukerstedets navn, adresse, postnummer, poststedbrukerstedets kode og brukerstedsidentitetbeløp i valutavalutakodebeløp (omregnet i NOK)kortholders kortnummer og land.
+Når betalingsmidler overføres ved bruk av utenlandskutstedt betalings- eller kredittkort i Norge, skal den rapporteringspliktige rapportere følgende:
+
+1. For enkeltoverføringer større enn NOK 25.000 eller tilsvarende i annen valuta:
+
+   - rapporteringspliktiges organisasjonsnummer
+   - transaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakode
+   - transaksjonsdato
+   - korttype
+   - referanse på transaksjonen
+   - brukerstedets organisasjonsnummer og eventuelt fødselsnummer
+   - brukerstedets navn, adresse, postnummer og poststed
+   - brukerstedets kode og brukerstedsidentitet
+   - kortholders kortnummer og land
+   - tilgjengelig transaksjonstype.
+2. For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. kort:
+
+   - totalt beløp overført pr. måned pr. kort
+   - rapporteringspliktiges organisasjonsnummer
+   - kortholders kortnummer og land
+   - korttype
+   - periode for aggregeringen
+   - antall overføringer som inngår i aggregeringen.
+3. For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. brukersted:
+
+   - totalt beløp overført pr. måned pr. brukersted pr. korttype
+   - rapporteringspliktiges organisasjonsnummer og eventuelt fødselsnummer
+   - korttype
+   - brukerstedets organisasjonsnummer
+   - brukerstedets navn, adresse, postnummer og poststed
+   - brukerstedets kode og brukerstedsidentitet
+   - periode for aggregeringen
+   - antall overføringer som inngår i aggregeringen.
+4. Kontantuttak av beløp over NOK 5.000 eller tilsvarende i annen valuta.
+
+   - rapporteringspliktiges organisasjonsnummer
+   - brukerstedets organisasjonsnummer
+   - brukerstedets navn, adresse, postnummer, poststed
+   - brukerstedets kode og brukerstedsidentitet
+   - beløp i valuta
+   - valutakode
+   - beløp (omregnet i NOK)
+   - kortholders kortnummer og land.
 
 ## § 12. Valutaveksling
 
 Valutaveksling for kunder av beløp større enn NOK 5.000 eller tilsvarende i annen valuta, skal rapporteres til registeret av vekslingsstedet. Der det benyttes betalings- eller kredittkort utstedt av rapporteringspliktig virksomhet, skal denne foreta rapporteringen.
 
-Følgende opplysninger skal rapporteres:rapporteringspliktiges organisasjonsnummervekslingsstedets organisasjonsnummer, navn, adresse, postnummer og poststedautomatnummervekslingsstedets referansevekslingsdatokundens fødselsnummer, D-nummer eller organisasjonsnummerkundens navn, adresse, postnummer, poststed og landstatsborgerskap (dersom dette avviker fra kundens land)kundens kontonummer ved kontobrukkundens kortnummer ved kortbrukbeløp og valutatype for både kjøpt og solgt valutabeløp omregnet i norske kroneridentifikasjon av den enhet som gjennomfører transaksjonen.
+Følgende opplysninger skal rapporteres:
+
+- rapporteringspliktiges organisasjonsnummer
+- vekslingsstedets organisasjonsnummer, navn, adresse, postnummer og poststed
+- automatnummer
+- vekslingsstedets referanse
+- vekslingsdato
+- kundens fødselsnummer, D-nummer eller organisasjonsnummer
+- kundens navn, adresse, postnummer, poststed og land
+- statsborgerskap (dersom dette avviker fra kundens land)
+- kundens kontonummer ved kontobruk
+- kundens kortnummer ved kortbruk
+- beløp og valutatype for både kjøpt og solgt valuta
+- beløp omregnet i norske kroner
+- identifikasjon av den enhet som gjennomfører transaksjonen.
 
 For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer dersom kontonummer er tilgjengelig.
 
@@ -120,7 +247,10 @@ Ved manuell behandling skal kundens navn, fødselsnummer, D-nummer, eventuelt pa
 
 ## § 13. Fysisk inn- og utførsel av betalingsmidler
 
-Deklareringspliktig inn-/utførsel av betalingsmidler skal rapporteres av Toll- og avgiftsetaten. Følgende opplysninger skal registreres:deklarantens fødselsnummer, D-nummer eller organisasjonsnummer, eventuelt passnummer eller annen entydig identifikasjonskodedeklarantens navn og statsborgerskap.
+Deklareringspliktig inn-/utførsel av betalingsmidler skal rapporteres av Toll- og avgiftsetaten. Følgende opplysninger skal registreres:
+
+- deklarantens fødselsnummer, D-nummer eller organisasjonsnummer, eventuelt passnummer eller annen entydig identifikasjonskode
+- deklarantens navn og statsborgerskap.
 
 Dersom deklarasjon utføres på vegne av en annen, skal oppdragsgiver identifiseres ved fødselsnummer, D-nummer eller organisasjonsnummer.
 

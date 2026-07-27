@@ -15,7 +15,7 @@ xml_hash: "ec94886cfcb230dde0a5e18ccf09beed562ceb0bb5f044b549a4637eee0d4170"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,11 +80,19 @@ Når tillatelse til å utføre flyging meddeles uten at særlige vilkår er angi
 
 2.1.3
 
-Charterflyginger til/fra Norge skal oppfylle følgende krav:Hele luftfartøyets utnyttede kapasitet skal være innleiet av en eller flere chartrere.Bestemmelsesstedet for flygingen skal være bestemt av chartreren/chartrerne.Billetter må ikke tilbys offentligheten direkte fra luftfartsselskapet eller dennes agenter.
+Charterflyginger til/fra Norge skal oppfylle følgende krav:
+
+1. Hele luftfartøyets utnyttede kapasitet skal være innleiet av en eller flere chartrere.
+2. Bestemmelsesstedet for flygingen skal være bestemt av chartreren/chartrerne.
+3. Billetter må ikke tilbys offentligheten direkte fra luftfartsselskapet eller dennes agenter.
 
 2.1.4
 
-For å få tillatelse til å utføre charterflyging mellom Norge og et annet land må luftfartsselskapet være lisensiert avnorske luftfartsmyndigheter, ellerluftfartsmyndigheten i et annet EØS-land, ellerluftfartsmyndigheten i det landet flygingen skal gå til eller fra.
+For å få tillatelse til å utføre charterflyging mellom Norge og et annet land må luftfartsselskapet være lisensiert av
+
+1. norske luftfartsmyndigheter, eller
+2. luftfartsmyndigheten i et annet EØS-land, eller
+3. luftfartsmyndigheten i det landet flygingen skal gå til eller fra.
 
 2.1.4.1
 
@@ -152,14 +160,23 @@ For charterflyging mellom Norge og USA: se [kapittel 6](forskrift/1999-02-05-195
 
 3.1.1
 
-Søknad om tillatelse til å utføre charterflyging til eller fra Norge skal sendes Luftfartsverket.Postadresse: Postboks 8124 Dep, 0032 Oslo.
+Søknad om tillatelse til å utføre charterflyging til eller fra Norge skal sendes Luftfartsverket.
+
+Postadresse: Postboks 8124 Dep, 0032 Oslo.
 Telefax nr: 22 94 23 90
 Telex nr: 71032 ENFB N
 AFTN: ENCAYAYX.
 
 3.1.2
 
-Søknaden skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Informasjon om forsikringsforhold, jf. punkt 2.4.Dato, ruteplan og rutenummer.Charterkategori.Chartrerens/chartrernes navn og adresse(r).
+Søknaden skal inneholde følgende opplysninger:
+
+1. Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.
+2. Luftfartøyets type og registreringsbetegnelse.
+3. Informasjon om forsikringsforhold, jf. punkt 2.4.
+4. Dato, ruteplan og rutenummer.
+5. Charterkategori.
+6. Chartrerens/chartrernes navn og adresse(r).
 
 3.1.3
 
@@ -187,7 +204,12 @@ Søknaden skal inneholde opplysninger som dokumenterer flygingens karakter av se
 
 3.2.3.1
 
-En selskapsreiseflyging skal oppfylle følgende betingelser:Reisearrangementet skal omfatte transport til og fra bestemmelsesstedet og skal minst omfatte enten to netter i tillegg til reisetiden, eller natten mellom lørdag og søndag.Transport med fly kreves kun i én retning.Innkvartering skal være inkludert i hele den periode som inngår i reisearrangementet.Deltagerne i selskapsreisen skal betale for hele reisearrangementet. Tilbakebetaling for eventuelle deler av arrangementet som deltagerne frivillig ikke har benyttet, kan ikke finne sted.
+En selskapsreiseflyging skal oppfylle følgende betingelser:
+
+1. Reisearrangementet skal omfatte transport til og fra bestemmelsesstedet og skal minst omfatte enten to netter i tillegg til reisetiden, eller natten mellom lørdag og søndag.
+2. Transport med fly kreves kun i én retning.
+3. Innkvartering skal være inkludert i hele den periode som inngår i reisearrangementet.
+4. Deltagerne i selskapsreisen skal betale for hele reisearrangementet. Tilbakebetaling for eventuelle deler av arrangementet som deltagerne frivillig ikke har benyttet, kan ikke finne sted.
 
 3.2.3.2
 
@@ -203,7 +225,12 @@ Et luftfartsselskap som ifølge charterkontrakten skal besørge hjemreise med ch
 
 3.2.4*Seat only*
 
-Med «seat only» menes transport på selskapsreiseflyginger av passasjerer som har en avtale med en chartrer om kun transport. Slik transport kan finne sted på følgende betingelser:Sammenlagt kan høyst 30% av luftfartøyets totale setekapasitet utnyttes for chartrerens «seat only»-passasjerer. Denne andel kan ikke akkumuleres.Befordring av «seat only»-passasjerer kan foretas både på utreise og på hjemreise i forbindelse med en selskapsreiseflyging og uten tur-returkrav.Luftfartsverket kan kreve ytterligere opplysninger om fartsselskapets «seat only»-operasjoner.Betingelsene i punkt 3.2.3.4 om luftfartsselskapets ansvar for returtransport gjelder også «seat only»-passasjerer når de har kjøpt et arrangement som omfatter tur-retur.
+Med «seat only» menes transport på selskapsreiseflyginger av passasjerer som har en avtale med en chartrer om kun transport. Slik transport kan finne sted på følgende betingelser:
+
+1. Sammenlagt kan høyst 30% av luftfartøyets totale setekapasitet utnyttes for chartrerens «seat only»-passasjerer. Denne andel kan ikke akkumuleres.
+2. Befordring av «seat only»-passasjerer kan foretas både på utreise og på hjemreise i forbindelse med en selskapsreiseflyging og uten tur-returkrav.
+3. Luftfartsverket kan kreve ytterligere opplysninger om fartsselskapets «seat only»-operasjoner.
+4. Betingelsene i punkt 3.2.3.4 om luftfartsselskapets ansvar for returtransport gjelder også «seat only»-passasjerer når de har kjøpt et arrangement som omfatter tur-retur.
 
 3.3*Flyging til eget bruk*
 
@@ -283,7 +310,12 @@ For charterflyging med frakt, inklusive frakt i forbindelse med passasjercharter
 
 4.2
 
-Søknaden skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Informasjon om forsikringsforhold, jf. punkt 2.4.Dato, ruteplan og rutenummer.
+Søknaden skal inneholde følgende opplysninger:
+
+1. Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.
+2. Luftfartøyets type og registreringsbetegnelse.
+3. Informasjon om forsikringsforhold, jf. punkt 2.4.
+4. Dato, ruteplan og rutenummer.
 
 4.3
 
@@ -319,7 +351,14 @@ Luftfartsselskaper som er utpekt (designert) til å utføre charterflyging mello
 
 6.2
 
-Notifiseringen skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Chartrerens/chartrernes navn og adresse(r).Dato, ruteplan og rutenummer.Flygingens art (passasjer- og/eller fraktcharter).Informasjon om forsikringsforhold, jf. punkt 2.4.
+Notifiseringen skal inneholde følgende opplysninger:
+
+1. Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.
+2. Luftfartøyets type og registreringsbetegnelse.
+3. Chartrerens/chartrernes navn og adresse(r).
+4. Dato, ruteplan og rutenummer.
+5. Flygingens art (passasjer- og/eller fraktcharter).
+6. Informasjon om forsikringsforhold, jf. punkt 2.4.
 
 6.3
 

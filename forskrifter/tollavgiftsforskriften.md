@@ -15,7 +15,7 @@ xml_hash: "5ae957d78a0aca42f03adda3d35b5e1c67f598f50033ec6acd02a718a7323d0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Ved disponering over medbragt proviant i strid med [merverdiavgiftsforskriften �
 
 ### § 2-7-1. Vare som sendes i henhold til internasjonal avtale om forenklinger ved grensekryssende vareførsel
 
-Følgende konvensjonsbestemmelser gjelder som forskrift med de reservasjoner som er tatt med hjemmel i konvensjonene:[Transitteringskonvensjonen](https://www.toll.no/no/verktoy/regelverk/avtaler/konvensjoner/transitteringskonvensjonen/) (konvensjon 20. mai 1987 nr. 1 om en felles transitteringsprosedyre) vedlegg I artiklene 114–119[TIR-konvensjonen](https://unece.org/DAM/tir/handbook/english/newtirhand/TIR-6Rev11e.pdf) (konvensjon 14. november 1975 nr. 1 om internasjonal transport av varer som dekkes av TIR carnet) artiklene 6–11 med tilhørende vedlegg[ATA-konvensjonen](https://www.toll.no/no/verktoy/regelverk/avtaler/konvensjoner/ata-konvensjonen/) (konvensjon 6. desember 1961 om ATA-carnet for midlertidig innførsel av varer) artiklene 6–8
+Følgende konvensjonsbestemmelser gjelder som forskrift med de reservasjoner som er tatt med hjemmel i konvensjonene:
+
+1. [Transitteringskonvensjonen](https://www.toll.no/no/verktoy/regelverk/avtaler/konvensjoner/transitteringskonvensjonen/) (konvensjon 20. mai 1987 nr. 1 om en felles transitteringsprosedyre) vedlegg I artiklene 114–119
+2. [TIR-konvensjonen](https://unece.org/DAM/tir/handbook/english/newtirhand/TIR-6Rev11e.pdf) (konvensjon 14. november 1975 nr. 1 om internasjonal transport av varer som dekkes av TIR carnet) artiklene 6–11 med tilhørende vedlegg
+3. [ATA-konvensjonen](https://www.toll.no/no/verktoy/regelverk/avtaler/konvensjoner/ata-konvensjonen/) (konvensjon 6. desember 1961 om ATA-carnet for midlertidig innførsel av varer) artiklene 6–8
 
 ## Kapittel 3. Satser og beregningsgrunnlag for tollavgift
 
@@ -46,11 +50,23 @@ Satser fastsatt i medhold av § 3-1 skal kunngjøres i forskrift om klassifiseri
 
 ### § 3-1-2. Preferansetollavgift omfattet av GSP-ordningen
 
-(1) Et produkt fra et GSP-land kan oppnå preferansetollavgift i henhold til GSP-ordningen dersomproduktet har opprinnelse i et GSP-land, jf. § 4-1-7 til § 4-1-14,kravet til ikke-endring er oppfylt, jf. § 4-1-15 og § 4-1-16, ogopprinnelsen er dokumentert, jf. § 4-1-18 til § 4-1-19.
+(1) Et produkt fra et GSP-land kan oppnå preferansetollavgift i henhold til GSP-ordningen dersom
 
-(2) Innenfor GSP-ordningen har følgende kategorier land og områder hver sin ordning for preferansetollavgift etter OECDs DAC-liste, jf. tredje og fjerde ledd:minst utviklede land og andre lavinntektsland med befolkning med mindre enn 75 millioner innbyggerelavere mellominntektsland med mindre enn 75 millioner innbyggereøvrige land etter OECDs DAC-liste.
+1. produktet har opprinnelse i et GSP-land, jf. § 4-1-7 til § 4-1-14,
+2. kravet til ikke-endring er oppfylt, jf. § 4-1-15 og § 4-1-16, og
+3. opprinnelsen er dokumentert, jf. § 4-1-18 til § 4-1-19.
 
-(3) Ved endring av inntektskategori gjelder følgende overgangsordninger:For land som etter revisjonen av listen flyttes til en høyere inntektskategori endres preferansetollavgiften først etter at landet har vært oppført i den høyere kategorien etter to revisjoner. Preferansetollavgiften for den høyere kategorien iverksettes fra første årsskifte etter revisjonen.For land som flyttes ned i en lavere inntektskategori, iverksettes preferansetollavgiften for den lavere kategorien fra første årsskifte etter revisjonen.Land som utgår fra listen mister sin GSP-status fra første årsskifte etter revisjonen.
+(2) Innenfor GSP-ordningen har følgende kategorier land og områder hver sin ordning for preferansetollavgift etter OECDs DAC-liste, jf. tredje og fjerde ledd:
+
+1. minst utviklede land og andre lavinntektsland med befolkning med mindre enn 75 millioner innbyggere
+2. lavere mellominntektsland med mindre enn 75 millioner innbyggere
+3. øvrige land etter OECDs DAC-liste.
+
+(3) Ved endring av inntektskategori gjelder følgende overgangsordninger:
+
+1. For land som etter revisjonen av listen flyttes til en høyere inntektskategori endres preferansetollavgiften først etter at landet har vært oppført i den høyere kategorien etter to revisjoner. Preferansetollavgiften for den høyere kategorien iverksettes fra første årsskifte etter revisjonen.
+2. For land som flyttes ned i en lavere inntektskategori, iverksettes preferansetollavgiften for den lavere kategorien fra første årsskifte etter revisjonen.
+3. Land som utgår fra listen mister sin GSP-status fra første årsskifte etter revisjonen.
 
 (4) Hvilke land og områder som omfattes av den enkelte ordning følger av vedlegg 1.
 
@@ -64,11 +80,21 @@ Satser fastsatt i medhold av § 3-1 skal kunngjøres i forskrift om klassifiseri
 
 ### § 3-1-4. Krav til myndighetene i GSP-landet
 
-Det er vilkår for preferansetollavgift at GSP-landethar notifisert myndighetene i Norge, Den europeiske union eller Sveits om navn og adresse på de myndighetene som er ansvarlig for verifikasjon av opprinnelsesbevis, og navn og adresse på de myndighetene som er ansvarlig for å registrere eksportører i Registered Exporter system (REX),har representanter som har gjennomgått tilstrekkelig opplæring i REX,har oppnevnt lokale administratorer som fra myndighetene i Norge, Den europeiske union eller Sveits er tildelt rettigheter til å registrere lokale brukere av REX, ogbistår norske tollmyndigheter med å kontrollere opprinnelsesbevis.
+Det er vilkår for preferansetollavgift at GSP-landet
+
+1. har notifisert myndighetene i Norge, Den europeiske union eller Sveits om navn og adresse på de myndighetene som er ansvarlig for verifikasjon av opprinnelsesbevis, og navn og adresse på de myndighetene som er ansvarlig for å registrere eksportører i Registered Exporter system (REX),
+2. har representanter som har gjennomgått tilstrekkelig opplæring i REX,
+3. har oppnevnt lokale administratorer som fra myndighetene i Norge, Den europeiske union eller Sveits er tildelt rettigheter til å registrere lokale brukere av REX, og
+4. bistår norske tollmyndigheter med å kontrollere opprinnelsesbevis.
 
 ### § 3-1-5. Kvoteregulert preferansetollavgift for landbruksprodukter fra EU
 
-(1) Tollmyndighetene kan gi tollavgiftsfritak eller nedsettelse av tollavgift for følgende produkter for nærmere angitte mengder eller verdier (kvoteregulert preferansetollavgift) i henhold til den bilaterale avtalen om landbruksvarer mellom Norge og Den europeiske union:stiklinger uten rot, til bruk i gartnerierenkelte blomstrende potteplantergrønne potteplantergress i ruller eller plater (plen).
+(1) Tollmyndighetene kan gi tollavgiftsfritak eller nedsettelse av tollavgift for følgende produkter for nærmere angitte mengder eller verdier (kvoteregulert preferansetollavgift) i henhold til den bilaterale avtalen om landbruksvarer mellom Norge og Den europeiske union:
+
+1. stiklinger uten rot, til bruk i gartnerier
+2. enkelte blomstrende potteplanter
+3. grønne potteplanter
+4. gress i ruller eller plater (plen).
 
 (2) For å oppnå kvoteregulert preferansetollavgift må kvoten være tilgjengelig på tidspunktet for varens overgang til fri disponering. Kvoteregulert preferansetollavgift for de aktuelle produktene gjelder inntil den fastsatte tollavgiftskvoten i henhold til Stortingets tollavgiftsvedtak er nyttet fullt ut. Kvotene tildeles fortløpende etter «først-til-mølla-prinsippet».
 
@@ -104,7 +130,45 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 ### § 4-1-1. Opprinnelsesprodukter
 
-(1) Vilkårene i følgende frihandelsavtaler for at produkter skal anses som opprinnelsesprodukter, gjelder som forskrift:[avtalen om opprettelse av Det europeiske økonomiske samarbeidsområde (EØS-avtalen) protokoll 4](avtale/avt-1992-05-02-1-p4)[konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA) vedlegg A](https://www.efta.int/sites/default/files/uploads/2024-04/EFTA%20Convention%20Annex%20A.pdf)[avtale mellom Norge og Det europeiske økonomiske fellesskap (EØF) protokoll 3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22021D1905)[frihandelsavtalen EFTA–Albania protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/albania/annexes-protocols/EFTA-Albania-JCD1_2021-PROTOCOL-B.pdf)[frihandelsavtalen EFTA-Bosnia-Hercegovina, vedlegg IX](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/bosnia-and-herzegovina/annexes-protocol/EFTA_BiH_FTA_Annex%20IX.pdf)[frihandelsavtalen EFTA–Canada vedlegg C](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/canada/oversettelse_vedlegg-c---opprinnelse-juli09.pdf)[frihandelsavtalen EFTA–Chile vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/chile/roo1.pdf)[frihandelsavtalen EFTA–Colombia vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/columbia/5_columbia_frihandel_vedlegg_v_opprinnelse.pdf)[frihandelsavtalen EFTA–Costa Rica og Panama vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/costa-rica-og-panama/vedlegg-1-opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Ecuador vedlegg I](https://www.toll.no/contentassets/04a008fb29eb4590b36c7eac5c1f31ac/efta-ecuador---opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Egypt protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/egypt/Annexes%20and%20Protocols/EFTA%20EG%20FTA%20-%20Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA–Filippinene vedlegg I](https://www.toll.no/files/59d23fc72bd937371544714a4fa10fa1512daba6.pdf)[frihandelsavtalen EFTA-Georgia, vedlegg II](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/georgia/GE_FTA-Annex_II-Rules_of_Origin.pdf)[frihandelsavtalen EFTA–GCC (Gulf Co-operation Council) vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/gcc/vedlegg-1.pdf)[avtale mellom Norge og Danmark om handelen mellom Norge og Grønland artikkel 4](https://www.toll.no/files/9ec9bf8c4976acdff7b684c3a61d12e9d3dcc159.pdf) jf. [§ 4-1-1 første ledd nr. 2](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/2) og [3](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/3).[frihandelsavtalen EFTA–Hongkong vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/hong-kong/vedlegg_1---opprinnelsesregler.pdf)[frihandelsavtalen EFTA-India vedlegg 2.A](https://www.regjeringen.no/contentassets/36e8e1ca786e4733bcdee261bf16f2fa/no/sved/01no.pdf)[frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)[frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA-Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)[frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)[frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)[frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)[frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)[frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)[frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)[frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)[interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)[frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)[frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)[frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)[frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)[frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)[frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)[frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)[frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)[frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
+(1) Vilkårene i følgende frihandelsavtaler for at produkter skal anses som opprinnelsesprodukter, gjelder som forskrift:
+
+1. [avtalen om opprettelse av Det europeiske økonomiske samarbeidsområde (EØS-avtalen) protokoll 4](avtale/avt-1992-05-02-1-p4)
+2. [konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA) vedlegg A](https://www.efta.int/sites/default/files/uploads/2024-04/EFTA%20Convention%20Annex%20A.pdf)
+3. [avtale mellom Norge og Det europeiske økonomiske fellesskap (EØF) protokoll 3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22021D1905)
+4. [frihandelsavtalen EFTA–Albania protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/albania/annexes-protocols/EFTA-Albania-JCD1_2021-PROTOCOL-B.pdf)
+5. [frihandelsavtalen EFTA-Bosnia-Hercegovina, vedlegg IX](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/bosnia-and-herzegovina/annexes-protocol/EFTA_BiH_FTA_Annex%20IX.pdf)
+6. [frihandelsavtalen EFTA–Canada vedlegg C](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/canada/oversettelse_vedlegg-c---opprinnelse-juli09.pdf)
+7. [frihandelsavtalen EFTA–Chile vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/chile/roo1.pdf)
+8. [frihandelsavtalen EFTA–Colombia vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/columbia/5_columbia_frihandel_vedlegg_v_opprinnelse.pdf)
+9. [frihandelsavtalen EFTA–Costa Rica og Panama vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/costa-rica-og-panama/vedlegg-1-opprinnelsesreglene.pdf)
+10. [frihandelsavtalen EFTA–Ecuador vedlegg I](https://www.toll.no/contentassets/04a008fb29eb4590b36c7eac5c1f31ac/efta-ecuador---opprinnelsesreglene.pdf)
+11. [frihandelsavtalen EFTA–Egypt protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/egypt/Annexes%20and%20Protocols/EFTA%20EG%20FTA%20-%20Protocol%20B%20-%20Rules%20of%20Origin.pdf)
+12. [frihandelsavtalen EFTA–Filippinene vedlegg I](https://www.toll.no/files/59d23fc72bd937371544714a4fa10fa1512daba6.pdf)
+13. [frihandelsavtalen EFTA-Georgia, vedlegg II](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/georgia/GE_FTA-Annex_II-Rules_of_Origin.pdf)
+14. [frihandelsavtalen EFTA–GCC (Gulf Co-operation Council) vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/gcc/vedlegg-1.pdf)
+15. [avtale mellom Norge og Danmark om handelen mellom Norge og Grønland artikkel 4](https://www.toll.no/files/9ec9bf8c4976acdff7b684c3a61d12e9d3dcc159.pdf) jf. [§ 4-1-1 første ledd nr. 2](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/2) og [3](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/3).
+16. [frihandelsavtalen EFTA–Hongkong vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/hong-kong/vedlegg_1---opprinnelsesregler.pdf)
+17. [frihandelsavtalen EFTA-India vedlegg 2.A](https://www.regjeringen.no/contentassets/36e8e1ca786e4733bcdee261bf16f2fa/no/sved/01no.pdf)
+18. [frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)
+19. [frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)
+20. [frihandelsavtalen EFTA-Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)
+21. [frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)
+22. [frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)
+23. [frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)
+24. [frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)
+25. [frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)
+26. [frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)
+27. [frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)
+28. [interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)
+29. [frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)
+30. [frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)
+31. [frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)
+32. [frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)
+33. [frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)
+34. [frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)
+35. [frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)
+36. [frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)
+37. [frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
@@ -114,7 +178,12 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 (1) Preferansetollavgift skal oppgis i tollavgiftsmeldingen etter § 9-2-1. Preferansetollavgift kan oppgis senere ved levering av endringsmelding etter § 9-4 dersom det dokumenteres at de aktuelle produktene fylte vilkårene for preferansetollavgift på tidspunktet for varens overgang til fri disponering.
 
-(2) Rett til preferansetollavgift skal, i samsvar med den aktuelle frihandelsavtalen, dokumenteres medgyldig varesertifikat (EUR.1 eller EUR-MED), attestert av kompetent myndighet i eksportlandet,opprinnelseserklæring påført av eksportøren på en faktura eller et annet handelsdokument, jf. [§ 4-1-3](forskrift/2022-10-27-1938/§4-1-3),erklæring om produktenes opprinnelse fra importør, jf. [§ 4-1-4](forskrift/2022-10-27-1938/§4-1-4), ellerannet gyldig opprinnelsesbevis slik det er beskrevet i den aktuelle frihandelsavtalen.
+(2) Rett til preferansetollavgift skal, i samsvar med den aktuelle frihandelsavtalen, dokumenteres med
+
+1. gyldig varesertifikat (EUR.1 eller EUR-MED), attestert av kompetent myndighet i eksportlandet,
+2. opprinnelseserklæring påført av eksportøren på en faktura eller et annet handelsdokument, jf. [§ 4-1-3](forskrift/2022-10-27-1938/§4-1-3),
+3. erklæring om produktenes opprinnelse fra importør, jf. [§ 4-1-4](forskrift/2022-10-27-1938/§4-1-4), eller
+4. annet gyldig opprinnelsesbevis slik det er beskrevet i den aktuelle frihandelsavtalen.
 
 (3) For produkter som er innført i strid med bestemmelsene som er gitt i eller i medhold av [tollavgiftsloven](lov/2022-03-11-8) eller [vareførselsloven](lov/2022-03-11-9) og som underlegges prosedyren overgang til fri disponering i ettertid, kan preferansetollavgift bare innvilges dersom vilkårene i første og annet ledd er oppfylt, og overtredelsen ikke har avskåret tollmyndighetene fra å kontrollere opprinnelsen.
 
@@ -124,13 +193,19 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 ### § 4-1-3. Opprinnelseserklæring
 
-(1) Rett til preferansetollavgift kan dokumenteres med opprinnelseserklæring eller opprinnelseserklæring EUR-MED etter § 4-1-2 annet ledd bokstav b dersomverdien av opprinnelsesproduktene i sendingen ikke overstiger eventuell beløpsgrense fastsatt i den aktuelle frihandelsavtalen, ellereksportøren er autorisert av eksportlandets tollmyndigheter som godkjent eksportør.
+(1) Rett til preferansetollavgift kan dokumenteres med opprinnelseserklæring eller opprinnelseserklæring EUR-MED etter § 4-1-2 annet ledd bokstav b dersom
+
+1. verdien av opprinnelsesproduktene i sendingen ikke overstiger eventuell beløpsgrense fastsatt i den aktuelle frihandelsavtalen, eller
+2. eksportøren er autorisert av eksportlandets tollmyndigheter som godkjent eksportør.
 
 (2) For opprinnelsesprodukter nevnt i § 4-1-4 bokstav a som innføres per post, kan opprinnelseserklæring på deklarasjon CN22 eller CN23 benyttes som dokumentasjon for preferansetollavgift.
 
 ### § 4-1-4. Erklæring fra importøren
 
-Ved innførsel til private formål kan preferansetollavgift dokumenteres med erklæring om produktets opprinnelse fra importøren forsmåsendinger fra privatperson til privatperson med verdi til og med kr 5 600reisendes personlige bagasje med verdi til og med kr 13 000.
+Ved innførsel til private formål kan preferansetollavgift dokumenteres med erklæring om produktets opprinnelse fra importøren for
+
+1. småsendinger fra privatperson til privatperson med verdi til og med kr 5 600
+2. reisendes personlige bagasje med verdi til og med kr 13 000.
 
 > Endret ved forskrift [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026).
 
@@ -152,11 +227,27 @@ Ved innførsel til private formål kan preferansetollavgift dokumenteres med erk
 
 ### § 4-1-7. Definisjoner
 
-I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbeiding eller foredling, herunder sammensetting*materiale:* enhver bestanddel, råmateriale, komponent, del mv. som er brukt i fremstillingen av et produkt*fungible materialer:* materialer, som er av samme art og kommersielle kvalitet, har de samme tekniske og fysiske kjennetegn, og som ikke kan skilles fra hverandre når de inngår i det ferdige produkt*produkt:* det produktet som fremstilles, selv om det er bestemt for senere bruk i en annen produksjonsprosess*vare:* både materialer og produkter*tollverdi:* verdien av varen fastsatt på grunnlag av bestemmelsene i [vareførselsloven kapittel 6](lov/2022-03-11-9/kap6)*materialers verdi:* tollverdien på innførselstidspunktet av anvendte materialer uten opprinnelsesstatus og med opprinnelsesstatus eller, dersom denne ikke er kjent og ikke kan påvises, den første påviselige prisen som er betalt for materialene i produksjonslandet*pris fra fabrikk:* prisen som betales til produsenten i det foretaket der den siste bearbeidingen eller foredlingen av produktet er utført, forutsatt at prisen innbefatter verdien av alle anvendte materialer, men fratrukket eventuelle avgifter som er eller kan bli tilbakebetalt når det fremstilte produktet utføres. Hvis den faktiske prisen ikke avspeiler alle kostnader som er påløpt i GSP-landet, forstås med pris fra fabrikk alle disse kostnadene, men fratrukket eventuelle avgifter som er eller kan bli tilbakebetalt når det fremstilte produktet utføres.*vekt:* varens nettovekt uten noen form for emballasjemateriale eller innpakning*kapitler, posisjoner og underposisjoner:* kapitler, posisjoner og underposisjoner (fire- eller sekssifret kode) som benyttes i nomenklaturen som utgjør Det harmoniserte system for beskrivelse og koding av varer, med endringer som følger av Tollsamarbeidsrådets rekommandasjon av 26. juni 2004*klassifisert:* et produkts eller et materiales klassifisering under en bestemt posisjon eller underposisjon*sending:* produkter som enten er sendt samtidig fra en eksportør til en mottaker, eller produkter omfattet av ett enkelt transportdokument omfattende forsendelsen fra eksportøren til mottakeren, eller, i mangel av slikt transportdokument, av en enkel faktura.
+I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med
+
+1. *fremstilling:* all slags bearbeiding eller foredling, herunder sammensetting
+2. *materiale:* enhver bestanddel, råmateriale, komponent, del mv. som er brukt i fremstillingen av et produkt
+3. *fungible materialer:* materialer, som er av samme art og kommersielle kvalitet, har de samme tekniske og fysiske kjennetegn, og som ikke kan skilles fra hverandre når de inngår i det ferdige produkt
+4. *produkt:* det produktet som fremstilles, selv om det er bestemt for senere bruk i en annen produksjonsprosess
+5. *vare:* både materialer og produkter
+6. *tollverdi:* verdien av varen fastsatt på grunnlag av bestemmelsene i [vareførselsloven kapittel 6](lov/2022-03-11-9/kap6)
+7. *materialers verdi:* tollverdien på innførselstidspunktet av anvendte materialer uten opprinnelsesstatus og med opprinnelsesstatus eller, dersom denne ikke er kjent og ikke kan påvises, den første påviselige prisen som er betalt for materialene i produksjonslandet
+8. *pris fra fabrikk:* prisen som betales til produsenten i det foretaket der den siste bearbeidingen eller foredlingen av produktet er utført, forutsatt at prisen innbefatter verdien av alle anvendte materialer, men fratrukket eventuelle avgifter som er eller kan bli tilbakebetalt når det fremstilte produktet utføres. Hvis den faktiske prisen ikke avspeiler alle kostnader som er påløpt i GSP-landet, forstås med pris fra fabrikk alle disse kostnadene, men fratrukket eventuelle avgifter som er eller kan bli tilbakebetalt når det fremstilte produktet utføres.
+9. *vekt:* varens nettovekt uten noen form for emballasjemateriale eller innpakning
+10. *kapitler, posisjoner og underposisjoner:* kapitler, posisjoner og underposisjoner (fire- eller sekssifret kode) som benyttes i nomenklaturen som utgjør Det harmoniserte system for beskrivelse og koding av varer, med endringer som følger av Tollsamarbeidsrådets rekommandasjon av 26. juni 2004
+11. *klassifisert:* et produkts eller et materiales klassifisering under en bestemt posisjon eller underposisjon
+12. *sending:* produkter som enten er sendt samtidig fra en eksportør til en mottaker, eller produkter omfattet av ett enkelt transportdokument omfattende forsendelsen fra eksportøren til mottakeren, eller, i mangel av slikt transportdokument, av en enkel faktura.
 
 ### § 4-1-8. Vilkår for preferansetollavgift
 
-(1) Følgende produkter anses å ha opprinnelse i et GSP-land:produkt som er fremstilt i sin helhet i landet, jf. § 4-1-9produkt som er fremstilt i landet av andre produkter enn de som er nevnt under bokstav a, dersom disse er tilstrekkelig bearbeidet eller foredlet i landet, jf. § 4-1-10 til § 4-1-14.
+(1) Følgende produkter anses å ha opprinnelse i et GSP-land:
+
+1. produkt som er fremstilt i sin helhet i landet, jf. § 4-1-9
+2. produkt som er fremstilt i landet av andre produkter enn de som er nevnt under bokstav a, dersom disse er tilstrekkelig bearbeidet eller foredlet i landet, jf. § 4-1-10 til § 4-1-14.
 
 (2) Produkt med opprinnelse i Norge, Den europeiske union, Sveits eller Tyrkia, og som utføres til et GSP-land, skal anses å ha opprinnelse i GSP-landet dersom produktet er bearbeidet eller foredlet der i større grad enn det som er nevnt i [§ 4-1-11](forskrift/2022-10-27-1938/§4-1-11).
 
@@ -166,9 +257,29 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 ### § 4-1-9. Produkt fremstilt i sin helhet i et GSP-land
 
-(1) Følgende varer anses som fremstilt i sin helhet i GSP-landet:mineralske produkter utvunnet av landets jord eller havbunnplanter og vegetabilske produkter, dyrket eller høstet derlevende dyr født og alet derprodukter fra levende dyr alet derprodukter fra slaktede dyr som er født og alet derprodukter fra jakt og fiske drevet derakvakulturprodukter hvor angjeldende/aktuelle fisk, krepsdyr eller bløtdyr er født og alet derprodukter fra sjøfiske og andre produkter fra havet, tatt opp av landets fartøyer utenfor landets territorialfarvannprodukter fremstilt på landets fabrikkskip utelukkende av produkter nevnt i bokstav hbrukte gjenstander innsamlet der, og som bare er egnet til gjenvinning av råmaterialeravfall og skrap fra produksjonsvirksomhet som har funnet sted derprodukter utvunnet fra havbunnen eller havundergrunnen utenfor landets sjøterritorium, forutsatt at landet har enerett til å utnytte denne havbunnen eller havundergrunnenvarer som er fremstilt der utelukkende av produkter nevnt i bokstav a til l.
+(1) Følgende varer anses som fremstilt i sin helhet i GSP-landet:
 
-(2) Uttrykkene «landets fartøyer» og «landets fabrikkskip» i første ledd bokstav h og i omfatter bare fartøy eller skip somer registrert i GSP-landet eller Norge og fører GSP-landets eller Norges flagg, ogeies avstatsborgere i GSP-landet eller Norge med minst 50 prosent, elleret selskap som har hovedsete og viktigste forretningssted i GSP-landet eller Norge, og som eies med minst 50 % av GSP-landet eller Norge, eller av offentlige institusjoner i GSP-landet eller Norge.
+1. mineralske produkter utvunnet av landets jord eller havbunn
+2. planter og vegetabilske produkter, dyrket eller høstet der
+3. levende dyr født og alet der
+4. produkter fra levende dyr alet der
+5. produkter fra slaktede dyr som er født og alet der
+6. produkter fra jakt og fiske drevet der
+7. akvakulturprodukter hvor angjeldende/aktuelle fisk, krepsdyr eller bløtdyr er født og alet der
+8. produkter fra sjøfiske og andre produkter fra havet, tatt opp av landets fartøyer utenfor landets territorialfarvann
+9. produkter fremstilt på landets fabrikkskip utelukkende av produkter nevnt i bokstav h
+10. brukte gjenstander innsamlet der, og som bare er egnet til gjenvinning av råmaterialer
+11. avfall og skrap fra produksjonsvirksomhet som har funnet sted der
+12. produkter utvunnet fra havbunnen eller havundergrunnen utenfor landets sjøterritorium, forutsatt at landet har enerett til å utnytte denne havbunnen eller havundergrunnen
+13. varer som er fremstilt der utelukkende av produkter nevnt i bokstav a til l.
+
+(2) Uttrykkene «landets fartøyer» og «landets fabrikkskip» i første ledd bokstav h og i omfatter bare fartøy eller skip som
+
+1. er registrert i GSP-landet eller Norge og fører GSP-landets eller Norges flagg, og
+2. eies av
+
+   - statsborgere i GSP-landet eller Norge med minst 50 prosent, eller
+   - et selskap som har hovedsete og viktigste forretningssted i GSP-landet eller Norge, og som eies med minst 50 % av GSP-landet eller Norge, eller av offentlige institusjoner i GSP-landet eller Norge.
 
 (3) Hver av betingelsene i annet ledd kan være oppfylt i Norge eller i forskjellige GSP-land, i den utstrekning alle GSP-landene kan anvende regional kumulasjon i henhold til § 4-1-12. I så tilfelle anses produktet å ha opprinnelse fartøyets eller skipets flaggstat, jf. annet ledd bokstav a.
 
@@ -178,7 +289,10 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 (2) Hvis et produkt som har oppnådd opprinnelsesstatus i et land i samsvar med første ledd, brukes som materiale ved fremstilling av et annet produkt, skal det ikke tas hensyn til ikke-opprinnelsesmaterialene som kan ha blitt brukt i fremstillingen.
 
-(3) Selv om vilkårene i første ledd ikke er oppfylt, kan materialer uten opprinnelse likevel brukes i fremstilling av et produkt dersom materialenes samlede verdi eller vekt ikke overstiger15 prosent av produktets totale vekt for produkter i kapittel 2 og 4 til 24 i Det harmoniserte system, unntatt bearbeidede eller foredlede fiskeprodukter i kapittel 16,15 prosent av produktets pris fra fabrikk for andre produkter, unntatt for produkter som hører under kapittel 50 til 63, der toleransene nevnt i note 6 og 7 i del I i vedlegg 2 skal gjelde.
+(3) Selv om vilkårene i første ledd ikke er oppfylt, kan materialer uten opprinnelse likevel brukes i fremstilling av et produkt dersom materialenes samlede verdi eller vekt ikke overstiger
+
+1. 15 prosent av produktets totale vekt for produkter i kapittel 2 og 4 til 24 i Det harmoniserte system, unntatt bearbeidede eller foredlede fiskeprodukter i kapittel 16,
+2. 15 prosent av produktets pris fra fabrikk for andre produkter, unntatt for produkter som hører under kapittel 50 til 63, der toleransene nevnt i note 6 og 7 i del I i vedlegg 2 skal gjelde.
 
 (4) Tredje ledd skal ikke medføre at prosentsatser fastsatt i prosesslisten overskrides.
 
@@ -194,7 +308,25 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 ### § 4-1-11. Utilstrekkelig bearbeiding eller foredling
 
-(1) Følgende behandlinger anses som utilstrekkelig bearbeiding eller foredling selv om vilkårene i § 4-1-10 er oppfylt:behandling som har til hensikt å sikre at produktets tilstand ikke forringes under transport eller lagringdeling eller sammenstilling av kollivasking, rensing, fjerning av støv, oksydering, olje, maling eller andre beleggstryking eller pressing av tekstilerenkel maling og poleringavskalling og hel eller delvis sliping av ris; polering og glasering av korn og risfarging av eller tilsetting av smaksstoffer til sukker eller fremstilling av sukkerbiter; hel eller delvis formaling av krystallsukkerskrelling, fjerning av steiner og avskalling/utbelging av frukt, nøtter og grønnsakerskjerping, enkel sliping eller enkel oppskjæringsikting, sortering, klassifisering, gradering, tilpassing; (innbefattet sammenstilling av varer til sett)enkel fylling i flasker, bokser, flakonger, sekker, kasser, esker, festing til plater eller planker, og all annen enkel emballeringanbringelse eller trykking av merker, etiketter, logoer eller andre lignende kjennemerker på varer eller deres emballasjeenkel blanding av produkter, også av forskjellige slag; blanding av sukker med ethvert materialeenkel tilsetning av vann eller fortynning eller dehydrering eller denaturering av produkterenkel montering av deler av artikler til et komplett produkt eller demontering av produkter til delerslakting av dyrkombinasjon av to eller flere av de behandlinger som er angitt i bokstav a til p.
+(1) Følgende behandlinger anses som utilstrekkelig bearbeiding eller foredling selv om vilkårene i § 4-1-10 er oppfylt:
+
+1. behandling som har til hensikt å sikre at produktets tilstand ikke forringes under transport eller lagring
+2. deling eller sammenstilling av kolli
+3. vasking, rensing, fjerning av støv, oksydering, olje, maling eller andre belegg
+4. stryking eller pressing av tekstiler
+5. enkel maling og polering
+6. avskalling og hel eller delvis sliping av ris; polering og glasering av korn og ris
+7. farging av eller tilsetting av smaksstoffer til sukker eller fremstilling av sukkerbiter; hel eller delvis formaling av krystallsukker
+8. skrelling, fjerning av steiner og avskalling/utbelging av frukt, nøtter og grønnsaker
+9. skjerping, enkel sliping eller enkel oppskjæring
+10. sikting, sortering, klassifisering, gradering, tilpassing; (innbefattet sammenstilling av varer til sett)
+11. enkel fylling i flasker, bokser, flakonger, sekker, kasser, esker, festing til plater eller planker, og all annen enkel emballering
+12. anbringelse eller trykking av merker, etiketter, logoer eller andre lignende kjennemerker på varer eller deres emballasje
+13. enkel blanding av produkter, også av forskjellige slag; blanding av sukker med ethvert materiale
+14. enkel tilsetning av vann eller fortynning eller dehydrering eller denaturering av produkter
+15. enkel montering av deler av artikler til et komplett produkt eller demontering av produkter til deler
+16. slakting av dyr
+17. kombinasjon av to eller flere av de behandlinger som er angitt i bokstav a til p.
 
 (2) For formålene i første ledd skal en behandling anses som «enkel» når den verken krever spesielle ferdigheter eller maskiner, apparater eller utstyr som er produsert eller installert spesielt for å utføre den aktuelle behandlingen.
 
@@ -220,7 +352,10 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 (1) Ved bruk av bestemmelsene i § 4-1-7 til § 4-1-15 skal den kvalifiserende enhet være det bestemte produktet som gir produktet dets karakter ved bestemmelse av klassifisering i henhold til Det harmoniserte system.
 
-(2) Det følger atnår et produkt bestående av en gruppe eller samling av artikler er klassifisert i henhold til Det harmoniserte system i én posisjon, utgjør alt den kvalifiserende enhet,når en sending består av et antall like produkter som klassifiseres under samme posisjon i Det harmoniserte system, må hvert enkelt produkt vurderes hver for seg ved bruk av bestemmelsene i forskriften.
+(2) Det følger at
+
+1. når et produkt bestående av en gruppe eller samling av artikler er klassifisert i henhold til Det harmoniserte system i én posisjon, utgjør alt den kvalifiserende enhet,
+2. når en sending består av et antall like produkter som klassifiseres under samme posisjon i Det harmoniserte system, må hvert enkelt produkt vurderes hver for seg ved bruk av bestemmelsene i forskriften.
 
 (3) Når emballasje er inkludert sammen med produktet i klassifiseringsøyemed i henhold til alminnelige fortolkningsregel 5 i Det harmoniserte system, skal også denne tas med ved bestemmelse av opprinnelse.
 
@@ -230,7 +365,12 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 (2) Produkter som etter Det harmoniserte systems alminnelige fortolkningsregler er i sett, anses som opprinnelsesprodukt dersom alle komponentene i settet er opprinnelsesprodukter. Sett som består av både opprinnelsesprodukter og produkter uten opprinnelse, anses som opprinnelsesprodukt dersom verdien av produkter uten opprinnelse ikke overstiger 15 prosent av settets pris fra fabrikk.
 
-(3) Ved vurderingen av produktets opprinnelse, skal det ikke tas hensyn til følgende elementer som er brukt ved fremstillingen og bearbeidingen av produktet:energi og drivstoffanlegg og utstyrmaskiner og verktøyandre varer som ikke inngår og som ikke er forutsatt å inngå i det endelige produktet eller i den endelige sammensetningen av produktet.
+(3) Ved vurderingen av produktets opprinnelse, skal det ikke tas hensyn til følgende elementer som er brukt ved fremstillingen og bearbeidingen av produktet:
+
+1. energi og drivstoff
+2. anlegg og utstyr
+3. maskiner og verktøy
+4. andre varer som ikke inngår og som ikke er forutsatt å inngå i det endelige produktet eller i den endelige sammensetningen av produktet.
 
 ### § 4-1-15. Ikke-endring
 
@@ -246,21 +386,44 @@ I § 4-1-8 til § 4-1-17 og vedlegg 2 menes med*fremstilling:* all slags bearbei
 
 ### § 4-1-16. Gjeninnførsel av produkt
 
-Produkt som utføres fra et GSP-land eller fra Norge til et annet land, og som senere gjeninnføres, anses ikke som opprinnelsesprodukt med mindre det overfor tollmyndighetene eller andre kompetente myndigheter kan dokumenteres atvilkårene i § 4-1-12 er oppfylt, ellerdet gjeninnførte produktet er det samme som det produktet som ble utført, og at det ikke har gjennomgått andre behandlinger enn de som er tillatt etter § 4-1-15 første til tredje ledd.
+Produkt som utføres fra et GSP-land eller fra Norge til et annet land, og som senere gjeninnføres, anses ikke som opprinnelsesprodukt med mindre det overfor tollmyndighetene eller andre kompetente myndigheter kan dokumenteres at
+
+1. vilkårene i § 4-1-12 er oppfylt, eller
+2. det gjeninnførte produktet er det samme som det produktet som ble utført, og at det ikke har gjennomgått andre behandlinger enn de som er tillatt etter § 4-1-15 første til tredje ledd.
 
 ### § 4-1-17. Unntak fra opprinnelsesbestemmelsene
 
-(1) Tollmyndighetene kan etter søknad gi en eksportør i et minst utviklet land, jf. vedlegg 1, unntak fra opprinnelsesbestemmelsene i § 4-1-8 første ledd bokstav b dersom utviklingen av eksisterende industri eller etableringen av ny industri i landet tilsier dette. Tillatelse kan gis for en periode på inntil to år. Ved vurderingen av om det skal gis unntak, skal det blant annet legges vekt påhvilke muligheter eksisterende industri har til å videreføre eksporten til Norgeom det er fare for nedleggelse av eksisterende industri i det aktuelle GSP-landetom unntak vil medføre betydelige investeringer i GSP-landets industri og om slike investeringer vil muliggjøre at prosessreglene kan oppfylles etter noen tidde økonomiske og sosiale virkningene av et unntak, særlig når det gjelder sysselsettingen i det aktuelle GSP-landet og i Norge.
+(1) Tollmyndighetene kan etter søknad gi en eksportør i et minst utviklet land, jf. vedlegg 1, unntak fra opprinnelsesbestemmelsene i § 4-1-8 første ledd bokstav b dersom utviklingen av eksisterende industri eller etableringen av ny industri i landet tilsier dette. Tillatelse kan gis for en periode på inntil to år. Ved vurderingen av om det skal gis unntak, skal det blant annet legges vekt på
 
-(2) Søknad om unntak skal, foruten en beskrivelse av det ferdige produktet, inneholde opplysninger omtype og mengde av materialer med opprinnelse i et annet landproduksjonsprosesstilført merverdiantall sysselsatte i den berørte virksomhetenforventet utførselsvolum til Norgeandre mulige forsyningskilder for materialerhvor lang tid det søkes unntak for og årsakene til dette.
+1. hvilke muligheter eksisterende industri har til å videreføre eksporten til Norge
+2. om det er fare for nedleggelse av eksisterende industri i det aktuelle GSP-landet
+3. om unntak vil medføre betydelige investeringer i GSP-landets industri og om slike investeringer vil muliggjøre at prosessreglene kan oppfylles etter noen tid
+4. de økonomiske og sosiale virkningene av et unntak, særlig når det gjelder sysselsettingen i det aktuelle GSP-landet og i Norge.
+
+(2) Søknad om unntak skal, foruten en beskrivelse av det ferdige produktet, inneholde opplysninger om
+
+1. type og mengde av materialer med opprinnelse i et annet land
+2. produksjonsprosess
+3. tilført merverdi
+4. antall sysselsatte i den berørte virksomheten
+5. forventet utførselsvolum til Norge
+6. andre mulige forsyningskilder for materialer
+7. hvor lang tid det søkes unntak for og årsakene til dette.
 
 ### § 4-1-18. Fremleggelse av opprinnelsesbevis
 
 (1) Preferansetollavgift skal oppgis i tollavgiftsmeldingen etter § 9-2-1. Preferansetollavgift kan oppgis senere ved levering av endringsmelding etter § 9-4 dersom det dokumenteres at de aktuelle produktene fylte vilkårene for preferansetollavgift på tidspunktet for varens overgang til fri disponering.
 
-(2) Ved innførsel av produkt fra GSP-land kan preferansetollavgift dokumenteres medopprinnelseserklæring utferdiget av eksportøren, jf. § 4-1-19 første ledd,erklæring om produktenes opprinnelse fra importør, jf. § 4-1-19 annet ledd, ellererstatningsopprinnelseserklæring utstedt av en videresender som er registrert i REX av kompetent myndighet i Den europeiske union, Sveits eller Tyrkia.
+(2) Ved innførsel av produkt fra GSP-land kan preferansetollavgift dokumenteres med
 
-(3) Ved innførsel av produkt fra Kina og Guatemala kan preferansetollavgift dokumenteres medgyldig opprinnelsessertifikat formular A utstedt av eksportøren og attestert av kompetente myndigheter, elleropprinnelseserklæring utferdiget av eksportøren, jf. § 4-1-19 første ledd bokstav a.
+1. opprinnelseserklæring utferdiget av eksportøren, jf. § 4-1-19 første ledd,
+2. erklæring om produktenes opprinnelse fra importør, jf. § 4-1-19 annet ledd, eller
+3. erstatningsopprinnelseserklæring utstedt av en videresender som er registrert i REX av kompetent myndighet i Den europeiske union, Sveits eller Tyrkia.
+
+(3) Ved innførsel av produkt fra Kina og Guatemala kan preferansetollavgift dokumenteres med
+
+1. gyldig opprinnelsessertifikat formular A utstedt av eksportøren og attestert av kompetente myndigheter, eller
+2. opprinnelseserklæring utferdiget av eksportøren, jf. § 4-1-19 første ledd bokstav a.
 
 (4) Tollmyndighetene kan i særlige tilfeller gjøre unntak fra kravene til fremleggelse av opprinnelsesbevis i annet ledd.
 
@@ -270,9 +433,15 @@ Produkt som utføres fra et GSP-land eller fra Norge til et annet land, og som s
 
 ### § 4-1-19. Opprinnelseserklæring og erklæring fra importøren
 
-(1) Ved innførsel av produkter fra GSP-land kan preferansetollavgift dokumenteres med opprinnelseserklæringdersom verdien av opprinnelsesproduktene i sendingen ikke overstiger 6 000 euro, ellereksportøren er registrert i REX av eksportlandets myndigheter, jf. § 3-1-3.
+(1) Ved innførsel av produkter fra GSP-land kan preferansetollavgift dokumenteres med opprinnelseserklæring
 
-(2) Ved innførsel til private formål fra GSP-land kan preferansetollavgift dokumenteres med erklæring om produktets opprinnelse fra importøren for produkter ismåsendinger fra privatperson til privatperson med verdi til og med 500 euroreisendes personlige bagasje med verdi til og med 1 200 euro.
+1. dersom verdien av opprinnelsesproduktene i sendingen ikke overstiger 6 000 euro, eller
+2. eksportøren er registrert i REX av eksportlandets myndigheter, jf. § 3-1-3.
+
+(2) Ved innførsel til private formål fra GSP-land kan preferansetollavgift dokumenteres med erklæring om produktets opprinnelse fra importøren for produkter i
+
+1. småsendinger fra privatperson til privatperson med verdi til og med 500 euro
+2. reisendes personlige bagasje med verdi til og med 1 200 euro.
 
 ### § 4-1-20. Gyldighet av opprinnelsesbevis
 
@@ -322,9 +491,19 @@ Tollavgiftsfritaket for vare til vitenskapelig bruk omfatter også teknisk mater
 
 ### § 6-4-3. Vare av utdannende, vitenskapelig og kulturell art
 
-(1) Følgende varer omfattet av avtale om import av materiell av utdannende, vitenskapelig og kulturell art (UNESCO-overenskomsten) 22. november 1950 nr. 1 kan innføres tollavgiftsfritt uten forhåndsgodkjennelse:bøker, publikasjoner og dokumenter som nevnt i overenskomstens vedlegg A punkt I til XIkunstverk og museumsgjenstander som nevnt i overenskomstens vedlegg B punkt I, II, III, V og VIbilled- og lydmateriell m.m. utarbeidet av FN som nevnt i overenskomstens vedlegg C punkt IV.
+(1) Følgende varer omfattet av avtale om import av materiell av utdannende, vitenskapelig og kulturell art (UNESCO-overenskomsten) 22. november 1950 nr. 1 kan innføres tollavgiftsfritt uten forhåndsgodkjennelse:
 
-(2) Følgende varer omfattet av avtale om import av materiell av utdannende, vitenskapelig og kulturell art (UNESCO-overenskomsten) 22. november 1950 nr. 1 kan innføres tollavgiftsfritt av godkjente institusjoner:publikasjoner som nevnt i overenskomstens vedlegg A punkt XIIkunst- og museumsgjenstander som nevnt i overenskomstens vedlegg B punkt IVbilled- og lydmateriell av utdannende, vitenskapelig og kulturell art som nevnt i overenskomstens vedlegg C punkt I, II, III og Vvitenskapelige instrumenter og apparater som nevnt i overenskomstens vedlegg Dvarer til blinde, som nevnt i overenskomstens vedlegg E.
+1. bøker, publikasjoner og dokumenter som nevnt i overenskomstens vedlegg A punkt I til XI
+2. kunstverk og museumsgjenstander som nevnt i overenskomstens vedlegg B punkt I, II, III, V og VI
+3. billed- og lydmateriell m.m. utarbeidet av FN som nevnt i overenskomstens vedlegg C punkt IV.
+
+(2) Følgende varer omfattet av avtale om import av materiell av utdannende, vitenskapelig og kulturell art (UNESCO-overenskomsten) 22. november 1950 nr. 1 kan innføres tollavgiftsfritt av godkjente institusjoner:
+
+1. publikasjoner som nevnt i overenskomstens vedlegg A punkt XII
+2. kunst- og museumsgjenstander som nevnt i overenskomstens vedlegg B punkt IV
+3. billed- og lydmateriell av utdannende, vitenskapelig og kulturell art som nevnt i overenskomstens vedlegg C punkt I, II, III og V
+4. vitenskapelige instrumenter og apparater som nevnt i overenskomstens vedlegg D
+5. varer til blinde, som nevnt i overenskomstens vedlegg E.
 
 (3) Tollmyndighetene godkjenner institusjoner etter annet ledd. Det er et vilkår for kunst- og museumsgjenstander at varene innlemmes i institusjonens samlinger og at institusjonen mottar bidrag til driften fra staten, fylkeskommune eller kommune.
 
@@ -334,13 +513,24 @@ Med bakkeutstyr menes spesialutstyr utelukkende til bruk på sivil lufthavn, her
 
 ### § 6-4-5. Luftfartøyer og utstyr og deler til disse
 
-Tollavgiftsfritaket for vare til luftfart omfatterluftfartøydel, komponent, instrument og lignende til luftfartøymotor til luftfartøy og deler til denneforbruksvare til bruk i luftfartøy som i det alt vesentlige blir nyttet til internasjonal luftfart.
+Tollavgiftsfritaket for vare til luftfart omfatter
+
+1. luftfartøy
+2. del, komponent, instrument og lignende til luftfartøy
+3. motor til luftfartøy og deler til denne
+4. forbruksvare til bruk i luftfartøy som i det alt vesentlige blir nyttet til internasjonal luftfart.
 
 ### § 6-4-6. Vare til F-16-programmet
 
-(1) Vare til bruk ved gjennomføringen av F-16-programmet kan innføres tollavgiftsfritt. Tollavgiftsfritaket gjelder for virksomhet somhar kontrakt med amerikansk eller annet utenlandsk firma om leveranser under F-16-programmethar kontrakt med virksomhet som nevnt under bokstav a.
+(1) Vare til bruk ved gjennomføringen av F-16-programmet kan innføres tollavgiftsfritt. Tollavgiftsfritaket gjelder for virksomhet som
 
-(2) Tollavgiftsfritaket omfattervare til bruk som komponent og del i en vare som skal inngå i F-16-flyenemaskiner, verktøy (unntatt standard håndverktøy) og annet produksjonsutstyr som utelukkende eller for den overveiende del skal anvendes i forbindelse med industriproduksjon under F-16-programmet.
+1. har kontrakt med amerikansk eller annet utenlandsk firma om leveranser under F-16-programmet
+2. har kontrakt med virksomhet som nevnt under bokstav a.
+
+(2) Tollavgiftsfritaket omfatter
+
+1. vare til bruk som komponent og del i en vare som skal inngå i F-16-flyene
+2. maskiner, verktøy (unntatt standard håndverktøy) og annet produksjonsutstyr som utelukkende eller for den overveiende del skal anvendes i forbindelse med industriproduksjon under F-16-programmet.
 
 (3) Forbruksvare omfattes ikke av tollavgiftsfritaket. Som forbruksvare regnes standard håndverktøy, komponenter, deler, rekvisita og lignende i forbindelse med rutinemessig vedlikehold.
 
@@ -356,7 +546,11 @@ Departementet kan treffe enkeltvedtak om tollavgiftsfritak ved innførsel av var
 
 (1) Refusjon kan innvilges selv om varen er innført av en annen enn den som utfører varen. Dette gjelder også dersom bearbeidingen, reparasjonen eller fremstillingen har foregått av inntil tre næringsdrivende i fellesskap.
 
-(2) Det er et vilkår for refusjon at det ikke er eller vil bli utstedt opprinnelsesbevis etter [forskrift til vareførselsloven § 5-11-3](forskrift/2022-10-27-1901/§5-11-3) for den bearbeidede varen. Dette gjelder likevel ikke dersomde innførte innsatsmaterialene ikke er omfattet av vareomfanget i den frihandelsavtalen som den utførte varen (ferdigvaren) er underlagt,de innførte innsatsmaterialene er innført som opprinnelsesvarer med nedsatt tollavgiftssats i henhold til frihandelsavtalen, ellerfrihandelsavtalen tillater refusjon selv om det utstedes opprinnelsesbevis.
+(2) Det er et vilkår for refusjon at det ikke er eller vil bli utstedt opprinnelsesbevis etter [forskrift til vareførselsloven § 5-11-3](forskrift/2022-10-27-1901/§5-11-3) for den bearbeidede varen. Dette gjelder likevel ikke dersom
+
+1. de innførte innsatsmaterialene ikke er omfattet av vareomfanget i den frihandelsavtalen som den utførte varen (ferdigvaren) er underlagt,
+2. de innførte innsatsmaterialene er innført som opprinnelsesvarer med nedsatt tollavgiftssats i henhold til frihandelsavtalen, eller
+3. frihandelsavtalen tillater refusjon selv om det utstedes opprinnelsesbevis.
 
 ### § 7-2. Refusjon av tollavgift ved gjenutførsel av vare i uendret tilstand mv.
 
@@ -368,7 +562,10 @@ Varer innlagt på tollavgiftsfritt utsalg på lufthavn (tollager C) anses som be
 
 ### § 7-4-1. Refusjon ved feil mv.
 
-Tollavgift kan refunderes for vare som gjenutføres fordi den er feilsendt, feilbestilt, levert for sent eller ikke i samsvar med bestillingen dersom selgeren harlevert gratis erstatningsleveranse for varen og erstatningsleveransen er deklarert for tollprosedyren overgang til fri disponering, ellerakseptert at varen ikke er i samsvar med inngått avtale mellom selger og kjøper.
+Tollavgift kan refunderes for vare som gjenutføres fordi den er feilsendt, feilbestilt, levert for sent eller ikke i samsvar med bestillingen dersom selgeren har
+
+1. levert gratis erstatningsleveranse for varen og erstatningsleveransen er deklarert for tollprosedyren overgang til fri disponering, eller
+2. akseptert at varen ikke er i samsvar med inngått avtale mellom selger og kjøper.
 
 ### § 7-5. Generelle bestemmelser om refusjon av tollavgift
 
@@ -386,7 +583,21 @@ Tollavgift kan refunderes for vare som gjenutføres fordi den er feilsendt, feil
 
 (1) Ved vurderingen av om kravet til forholdsmessighet i [tollavgiftsloven § 8-2](lov/2022-03-11-8/§8-2) annet ledd er oppfylt, skal det legges vekt på om mottakerorganet vil settes i stand til å treffe en riktig avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om det ikke hadde mottatt opplysningene. Det skal også legges vekt på formålet med behandlingen av opplysninger hos mottakeren, om mottakeren er underlagt taushetsplikt, hvilke opplysninger som skal utleveres og antallet personer som får tilgang til opplysningene.
 
-(2) Opplysninger kan uansett utleverestil offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midlertil offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformåltil offentlig myndighet for bruk til statistikkformåltil offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysningertil offentlig oppnevnt granskningskommisjontil politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningenei forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningentil landbruksmyndighetene til bruk for arbeid med markedsovervåking av handelen med landbruksvarer.
+(2) Opplysninger kan uansett utleveres
+
+1. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midler
+2. til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformål
+3. til offentlig myndighet for bruk til statistikkformål
+4. til offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysninger
+5. til offentlig oppnevnt granskningskommisjon
+6. til politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.
+7. til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)
+8. til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene
+9. i forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)
+10. til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+11. til offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+12. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen
+13. til landbruksmyndighetene til bruk for arbeid med markedsovervåking av handelen med landbruksvarer.
 
 > Endret ved forskrift [2 des 2022 nr. 2080](forskrift/2022-12-02-2080) (i kraft 1 jan 2023).
 
@@ -402,9 +613,20 @@ Tollrepresentant som leverer melding for tollavgift etter [§ 9-2](forskrift/202
 
 ### § 9-2-1. Opplysninger i melding for tollavgift
 
-(1) I melding for tollavgift skal det blant annet gis opplysninger omvareslag, samlet mengde og verdi i norske kronerpreferansetollavgiftleveringsvilkår mv.
+(1) I melding for tollavgift skal det blant annet gis opplysninger om
 
-(2) Ved ervervsmessig innførsel skal det også gis følgende opplysninger om hvert vareslag forsendelsen omfatterkode for avsenderland og opprinnelseslandvarenummer i samsvar med tolltariffentollavgiftssats, herunder krav om tollavgiftsnedsettelsermengde i henhold til tolltariffenvarens tollverdibeløp som skal betales
+1. vareslag, samlet mengde og verdi i norske kroner
+2. preferansetollavgift
+3. leveringsvilkår mv.
+
+(2) Ved ervervsmessig innførsel skal det også gis følgende opplysninger om hvert vareslag forsendelsen omfatter
+
+1. kode for avsenderland og opprinnelsesland
+2. varenummer i samsvar med tolltariffen
+3. tollavgiftssats, herunder krav om tollavgiftsnedsettelser
+4. mengde i henhold til tolltariffen
+5. varens tollverdi
+6. beløp som skal betales
 
 (3) [Vareførselsforskriften § 4-1-1](forskrift/2022-10-27-1901/§4-1-1) tredje og fjerde ledd gjelder tilsvarende for melding om tollavgift.
 
@@ -606,7 +828,12 @@ Dette vedlegget fastsetter opprinnelsesreglene i GSP-ordningen for alle produkte
 
 1.2
 
-Dette vedlegget fastsetter betingelser som skal oppfylles for at produkter kan anses å ha opprinnelse i det nevnte preferanseberettigede land. Det er fire forskjellige typer regler, som varierer alt etter produktet:ved bearbeiding eller foredling må et maksimalt innhold av materialer uten opprinnelse ikke overstigesved bearbeiding eller foredling endres de fremstilte produkters 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte system i forhold til de anvendte materialers henholdsvis 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte systemdet er foretatt en spesifikk bearbeiding eller foredlingdet er foretatt bearbeiding eller foredling av materialer som er fremstilt i sin helhet.
+Dette vedlegget fastsetter betingelser som skal oppfylles for at produkter kan anses å ha opprinnelse i det nevnte preferanseberettigede land. Det er fire forskjellige typer regler, som varierer alt etter produktet:
+
+1. ved bearbeiding eller foredling må et maksimalt innhold av materialer uten opprinnelse ikke overstiges
+2. ved bearbeiding eller foredling endres de fremstilte produkters 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte system i forhold til de anvendte materialers henholdsvis 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte system
+3. det er foretatt en spesifikk bearbeiding eller foredling
+4. det er foretatt bearbeiding eller foredling av materialer som er fremstilt i sin helhet.
 
 ### Anmerkning 2 – Listens struktur:
 
@@ -694,7 +921,40 @@ Når det for et bestemt produkt er henvist til denne anmerkningen, skal vilkåre
 
 Toleranseregelen nevnt i anmerking 6.1 kan imidlertid bare anvendes for blandede produkter som er fremstilt av to eller flere basistekstilmaterialer.
 
-Følgende materialer er basistekstilmaterialer:natursilkeullgrove dyrehårfine dyrehårhestehårbomullmaterialer til papirfremstilling og papirlinhampjute og andre tekstilfibre av bastsisal og andre tekstilfibre av slekten Agavekokos, abaca-, rami- og andre vegetabilske tekstilfibresyntetiske filamenterkunstige filamenterstrømledende filamentersyntetiske stapelfibre av polypropylensyntetiske stapelfibre av polyestersyntetiske stapelfibre av polyamidsyntetiske stapelfibre av polyakrylonitrilsyntetiske stapelfibre av polyamidsyntetiske stapelfibre av polytetrafluoretylensyntetiske stapelfibre av polyfenylensulfidsyntetiske stapelfibre av polyvinylkloridandre syntetiske stapelfibrekunstige stapelfibre av viskoseandre kunstige stapelfibregarn fremstilt av polyuretan, segmentert med fleksible segmenter av polyeter, også omspunnetgarn fremstilt av polyuretan, segmentert med fleksible segmenter av polyester, også omspunnetprodukter fra posisjon 56.05 (metallisert garn) som inneholder strimler med en kjerne av aluminiumsfolie eller en kjerne av plastfilm også dekket av aluminiumspulver, med bredde høyst 5 mm, limt mellom to plastfilmer med gjennomsiktig eller farget limandre produkter under posisjon 56.05glassfibremetallfibre.
+Følgende materialer er basistekstilmaterialer:
+
+- natursilke
+- ull
+- grove dyrehår
+- fine dyrehår
+- hestehår
+- bomull
+- materialer til papirfremstilling og papir
+- lin
+- hamp
+- jute og andre tekstilfibre av bast
+- sisal og andre tekstilfibre av slekten Agave
+- kokos, abaca-, rami- og andre vegetabilske tekstilfibre
+- syntetiske filamenter
+- kunstige filamenter
+- strømledende filamenter
+- syntetiske stapelfibre av polypropylen
+- syntetiske stapelfibre av polyester
+- syntetiske stapelfibre av polyamid
+- syntetiske stapelfibre av polyakrylonitril
+- syntetiske stapelfibre av polyamid
+- syntetiske stapelfibre av polytetrafluoretylen
+- syntetiske stapelfibre av polyfenylensulfid
+- syntetiske stapelfibre av polyvinylklorid
+- andre syntetiske stapelfibre
+- kunstige stapelfibre av viskose
+- andre kunstige stapelfibre
+- garn fremstilt av polyuretan, segmentert med fleksible segmenter av polyeter, også omspunnet
+- garn fremstilt av polyuretan, segmentert med fleksible segmenter av polyester, også omspunnet
+- produkter fra posisjon 56.05 (metallisert garn) som inneholder strimler med en kjerne av aluminiumsfolie eller en kjerne av plastfilm også dekket av aluminiumspulver, med bredde høyst 5 mm, limt mellom to plastfilmer med gjennomsiktig eller farget lim
+- andre produkter under posisjon 56.05
+- glassfibre
+- metallfibre.
 
 *Eksempel:* Garn under posisjon 52.05 som er fremstilt av bomullsfibre fra posisjon 52.03 og syntetiske stapelfibre under posisjon 55.06 er et blandingsgarn. Derfor kan syntetiske stapelfibre som ikke oppfyller opprinnelsesreglene anvendes i en mengde opp til 10 % av vekten av garnet.
 
@@ -730,11 +990,37 @@ Materialer som ikke klassifiseres under kapittel 50–63, kan anvendes fritt til
 
 8.1
 
-Som «spesielle prosesser» under posisjon ex. 27.07 og 27.13 menes følgende:vakuumdestillasjonomdestillasjon ved en meget nøyaktig fraksjoneringsprosesskrakkingreformeringekstraksjon ved hjelp av selektive løsningsmidleren prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxittpolymerisasjonalkyleringisomerisasjon.
+Som «spesielle prosesser» under posisjon ex. 27.07 og 27.13 menes følgende:
+
+1. vakuumdestillasjon
+2. omdestillasjon ved en meget nøyaktig fraksjoneringsprosess
+3. krakking
+4. reformering
+5. ekstraksjon ved hjelp av selektive løsningsmidler
+6. en prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxitt
+7. polymerisasjon
+8. alkylering
+9. isomerisasjon.
 
 8.2
 
-Som «spesielle prosesser» under posisjon ex. 27.10, 27.11 og 27.12 anses følgende:vakuumdestillasjonomdestillasjon ved en meget nøyaktig fraksjoneringsprosesskrakkingreformeringekstraksjon ved hjelp av selektive løsningsmidleren prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxittpolymerisasjonalkyleringisomerisasjongjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: avsvovling med hydrogen som innebærer minst 85 % reduksjon av svovelinnholdet i det bearbeidede produkt (metode ASTM D 1266-59 T)gjelder kun for produkter som klassifiseres under 27.10: avparafinering (avvoksing) på annen måte enn ved filtreringgjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: behandling med hydrogen ved et trykk på over 20 bar og en temperatur på over 250 °C med bruk av en katalysator, dersom hydrogenet danner et aktivt element i en kjemisk reaksjon og ikke bare anvendes som middel til avsvovling. Videre hydrering av smøreoljer under posisjon ex. 27.10 (for eksempel hydrofinishing eller avfarging) for særlig å forberede farge eller stabilitet, skal imidlertid ikke regnes som en spesiell prosessgjelder kun for fyringsoljer som klassifiseres under ex. 27.10: atmosfærisk destillasjon, under forutsetning av at mindre enn 30 volumprosent av disse produktene destillerer (inklusive destilleringstap) ved 300 °C i henhold til ASTM D 86-metodengjelder kun for andre tungoljer enn gassoljer eller fyringsoljer som klassifiseres under posisjon ex 27.10: bearbeiding gjennom elektrisk høyfrekvensutladninggjelder kun for produkter av råolje (andre enn vaselin, ozokeritt, montanvoks, torvvoks, parafinvoks som inneholder mindre enn 0,75 vektprosent olje) som klassifiseres under posisjon ex. 27.12, fjerning av olje ved fraksjonert krystallisasjon.
+Som «spesielle prosesser» under posisjon ex. 27.10, 27.11 og 27.12 anses følgende:
+
+1. vakuumdestillasjon
+2. omdestillasjon ved en meget nøyaktig fraksjoneringsprosess
+3. krakking
+4. reformering
+5. ekstraksjon ved hjelp av selektive løsningsmidler
+6. en prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxitt
+7. polymerisasjon
+8. alkylering
+9. isomerisasjon
+10. gjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: avsvovling med hydrogen som innebærer minst 85 % reduksjon av svovelinnholdet i det bearbeidede produkt (metode ASTM D 1266-59 T)
+11. gjelder kun for produkter som klassifiseres under 27.10: avparafinering (avvoksing) på annen måte enn ved filtrering
+12. gjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: behandling med hydrogen ved et trykk på over 20 bar og en temperatur på over 250 °C med bruk av en katalysator, dersom hydrogenet danner et aktivt element i en kjemisk reaksjon og ikke bare anvendes som middel til avsvovling. Videre hydrering av smøreoljer under posisjon ex. 27.10 (for eksempel hydrofinishing eller avfarging) for særlig å forberede farge eller stabilitet, skal imidlertid ikke regnes som en spesiell prosess
+13. gjelder kun for fyringsoljer som klassifiseres under ex. 27.10: atmosfærisk destillasjon, under forutsetning av at mindre enn 30 volumprosent av disse produktene destillerer (inklusive destilleringstap) ved 300 °C i henhold til ASTM D 86-metoden
+14. gjelder kun for andre tungoljer enn gassoljer eller fyringsoljer som klassifiseres under posisjon ex 27.10: bearbeiding gjennom elektrisk høyfrekvensutladning
+15. gjelder kun for produkter av råolje (andre enn vaselin, ozokeritt, montanvoks, torvvoks, parafinvoks som inneholder mindre enn 0,75 vektprosent olje) som klassifiseres under posisjon ex. 27.12, fjerning av olje ved fraksjonert krystallisasjon.
 
 8.3
 

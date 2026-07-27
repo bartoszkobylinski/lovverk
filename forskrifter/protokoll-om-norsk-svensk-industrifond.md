@@ -15,7 +15,7 @@ xml_hash: "59031aac172fa1c3636635cb1fe73ecfd5ab2832ea4ccbf56a493a0801909e0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,9 @@ Denne protokoll er utferdiget i to eksemplarer på det norske og svenske språk.
 
 ### Vilkår for lån fra «Fonden för svenskt-norskt industriellt samarbete».
 
-1\. For å fremme industrielt utviklingssamarbeid mellom norske og svenske bedrifter kan det gis støtte fra fondet.Støtten gis i form av lån for finansiering av større prosjekter som har teknisk eller markedsmessig utviklingsarbeid som formål.
+1\. For å fremme industrielt utviklingssamarbeid mellom norske og svenske bedrifter kan det gis støtte fra fondet.
+
+Støtten gis i form av lån for finansiering av større prosjekter som har teknisk eller markedsmessig utviklingsarbeid som formål.
 
 2\. Lån kan gis til prosjekter som fra et kommersielt eller tekniskt synspunkt innebærer høy risiko og som på relativt kort sikt kan gi bedriftøkonomisk lønnsomhet.
 
@@ -90,7 +92,9 @@ Denne protokoll er utferdiget i to eksemplarer på det norske og svenske språk.
 
 ### Størrelsen på lån
 
-5\. Lån kan gis med høyst 50 pst. av kostnaden for det utviklingsprosjekt lånet gjelder. Hensyn skal tas til om annen norsk eller svensk statlig støtte er blitt gitt for samme formål. Om helt særlige grunner foreligger, kan et lån gis til en større del av kostnaden. Lån til ett prosjekt får dog ikke overstige 50 mill. svenske kroner. Et lån kan ikke gis med større beløp enn det som er nødvendig for å oppnå formålet med støtten.Prosjekter hvis totale kostnader er mindre enn 3 mill. svenske kroner skal ikke støttes. Prosjekter som gjelder utvinning av olje og gass skal ikke støttes.
+5\. Lån kan gis med høyst 50 pst. av kostnaden for det utviklingsprosjekt lånet gjelder. Hensyn skal tas til om annen norsk eller svensk statlig støtte er blitt gitt for samme formål. Om helt særlige grunner foreligger, kan et lån gis til en større del av kostnaden. Lån til ett prosjekt får dog ikke overstige 50 mill. svenske kroner. Et lån kan ikke gis med større beløp enn det som er nødvendig for å oppnå formålet med støtten.
+
+Prosjekter hvis totale kostnader er mindre enn 3 mill. svenske kroner skal ikke støttes. Prosjekter som gjelder utvinning av olje og gass skal ikke støttes.
 
 ### Låne- og tilbakebetalingsvilkår
 
@@ -108,9 +112,17 @@ Denne protokoll er utferdiget i to eksemplarer på det norske og svenske språk.
 
 ### Oppsigelse av lån
 
-12\. Et lån kan sies opp til umiddelbar betaling dersom:låntageren gjennom uriktige eller vil ledende opplysninger har foranlediget at lånet er blitt bevilget,låntageren ikke oppfyller sine forpliktelser i henhold til de vilkår eller forskrifter som gjelder for lånet, ellerslike forhold har inntruffet at låntageren med hensyn til formålet for lånet åpenbart ikke lenger bør gis anledning til å opprettholde lånet.
+12\. Et lån kan sies opp til umiddelbar betaling dersom:
 
-13\. En søknad om lån skal være skriftlig og oversendes til fondet gjennom det norske Industrifondet respektive den svenske «Fonden för industriellt utvecklingsarbete». En søknad skal inneholde innformasjoner omde bedrifter som søknaden gjelder, deres virksomhet og økonomiske stilling,formålet med lånet og øvrige grunner som påberopes for søknaden, ognorsk eller svensk statlig støtte i annen form er søkt eller er blitt bevilget for det prosjekt som søknaden gjelder. Søkeren skal forøvrig bringe til veie det grunnlagsmateriale som stiftelsen måtte finne nødvendig.
+1. låntageren gjennom uriktige eller vil ledende opplysninger har foranlediget at lånet er blitt bevilget,
+2. låntageren ikke oppfyller sine forpliktelser i henhold til de vilkår eller forskrifter som gjelder for lånet, eller
+3. slike forhold har inntruffet at låntageren med hensyn til formålet for lånet åpenbart ikke lenger bør gis anledning til å opprettholde lånet.
+
+13\. En søknad om lån skal være skriftlig og oversendes til fondet gjennom det norske Industrifondet respektive den svenske «Fonden för industriellt utvecklingsarbete». En søknad skal inneholde innformasjoner om
+
+1. de bedrifter som søknaden gjelder, deres virksomhet og økonomiske stilling,
+2. formålet med lånet og øvrige grunner som påberopes for søknaden, og
+3. norsk eller svensk statlig støtte i annen form er søkt eller er blitt bevilget for det prosjekt som søknaden gjelder. Søkeren skal forøvrig bringe til veie det grunnlagsmateriale som stiftelsen måtte finne nødvendig.
 
 14\. Stiftelsen skal følge virksomheten hos dem som har mottatt lån og derved ha tilsyn med at lånevilkårene blir overholdt.
 
@@ -168,7 +180,13 @@ Stiftelsens firma tegnes, foruten av styret og administrerende direktør, av den
 
 ### § 10
 
-Styret avgjør spørsmål om:planlegging av stiftelsens virksomhet,bevilging av lån,rentevilkår, tilbakebetaling samt i hvilken valuta lån skal ytes,ansettelse av administrerende direktør etter forslag fra de norske styremedlemmene,andre spørsmål som administrerende direktør legger fram for styret.
+Styret avgjør spørsmål om:
+
+1. planlegging av stiftelsens virksomhet,
+2. bevilging av lån,
+3. rentevilkår, tilbakebetaling samt i hvilken valuta lån skal ytes,
+4. ansettelse av administrerende direktør etter forslag fra de norske styremedlemmene,
+5. andre spørsmål som administrerende direktør legger fram for styret.
 
 Beslutningen om ansettelse av administrerende direktør skal forelegges den norske og svenske regjering for godkjennelse.
 

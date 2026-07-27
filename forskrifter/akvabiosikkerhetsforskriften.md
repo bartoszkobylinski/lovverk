@@ -15,7 +15,7 @@ xml_hash: "1720dc371e32418a03d0cffa9ece8dec793a04185a3b2629e59fb1abbf944750"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Saklig virkeområde
 
-Forskriften utfyller bestemmelsene i [forskrift 6. april 2022 nr. 631 om dyrehelse](forskrift/2022-04-06-631), som gjennomfører forordning [(EU) 2016/429](eu/32016r0429), og inneholder utfyllende bestemmelser om:Registrering, godkjenning, journalføring og offentlig register.Forflytninger i EØS av akvatiske dyr og produkter av akvatiske dyr, herunder krav til helsesertifikat, egenerklæring og melding om forflytning.Unntak fra krav til registrering og journalføring.
+Forskriften utfyller bestemmelsene i [forskrift 6. april 2022 nr. 631 om dyrehelse](forskrift/2022-04-06-631), som gjennomfører forordning [(EU) 2016/429](eu/32016r0429), og inneholder utfyllende bestemmelser om:
+
+1. Registrering, godkjenning, journalføring og offentlig register.
+2. Forflytninger i EØS av akvatiske dyr og produkter av akvatiske dyr, herunder krav til helsesertifikat, egenerklæring og melding om forflytning.
+3. Unntak fra krav til registrering og journalføring.
 
 ### § 2. Stedlig virkeområde
 
@@ -203,7 +207,14 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 1\. Denne forordningen utfyller reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til registrerte og godkjente akvakulturanlegg der det holdes akvakulturdyr, og transportører av akvatiske dyr.
 
-2\. I del II fastsettes følgende krav:I avdeling I kapittel 1, krav til vedkommende myndighets godkjenning av akvakulturanlegg som utgjør en vesentlig risiko for sykdommer som rammer akvatiske dyr, og visse unntak for driftsansvarlige for anlegg som utgjør en ubetydelig risiko for disse sykdommene.I avdeling I kapittel 2, krav til akvakulturanlegg og grupper av akvakulturanlegg, og vedkommende myndighets godkjenning.I avdeling II kapittel 1, krav til vedkommende myndighets opplysningsplikt når det gjelder registre over akvakulturanlegg som er registrert i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429).I avdeling II kapittel 2, krav til vedkommende myndighets opplysningsplikt når det gjelder registre over godkjente akvakulturanlegg.I avdeling III kapittel 1, krav til journalføringsplikten for driftsansvarlige som driver akvakulturanlegg, og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er registrert eller godkjent av vedkommende myndighet, i tillegg til kravene som er fastsatt i artikkel 186 nr. 1 og 187 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).I avdeling III kapittel 2, krav til journalføringsplikten for transportører av akvatiske dyr, i tillegg til kravene fastsatt i artikkel 188 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
+2\. I del II fastsettes følgende krav:
+
+1. I avdeling I kapittel 1, krav til vedkommende myndighets godkjenning av akvakulturanlegg som utgjør en vesentlig risiko for sykdommer som rammer akvatiske dyr, og visse unntak for driftsansvarlige for anlegg som utgjør en ubetydelig risiko for disse sykdommene.
+2. I avdeling I kapittel 2, krav til akvakulturanlegg og grupper av akvakulturanlegg, og vedkommende myndighets godkjenning.
+3. I avdeling II kapittel 1, krav til vedkommende myndighets opplysningsplikt når det gjelder registre over akvakulturanlegg som er registrert i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429).
+4. I avdeling II kapittel 2, krav til vedkommende myndighets opplysningsplikt når det gjelder registre over godkjente akvakulturanlegg.
+5. I avdeling III kapittel 1, krav til journalføringsplikten for driftsansvarlige som driver akvakulturanlegg, og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er registrert eller godkjent av vedkommende myndighet, i tillegg til kravene som er fastsatt i artikkel 186 nr. 1 og 187 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
+6. I avdeling III kapittel 2, krav til journalføringsplikten for transportører av akvatiske dyr, i tillegg til kravene fastsatt i artikkel 188 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
 
 3\. I del III fastsettes visse overgangstiltak med hensyn til direktiv [2006/88/EF](eu/32006l0088) og vedtak [2008/392/EF](eu/32008d0392) i forbindelse med registrering og godkjenning av akvakulturanlegg.
 
@@ -211,7 +222,25 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 I denne forordningen får definisjonene fastsatt i artikkel 1 i gjennomføringsforordning (EU) 2018/1882 anvendelse.
 
-Videre menes med«ekstensiv dam» en tradisjonell dam eller lagune som er naturlig eller kunstig, og der næringskilden til dyrene som holdes i disse dammene eller lagunene, er naturlig, unntatt under ekstraordinære omstendigheter, og der det ikke treffes tiltak for å øke produksjonen utover miljøets naturlige kapasitet,«rensesentral» et anlegg med tanker som tilføres rent sjøvann, der bløtdyr plasseres den tiden som er nødvendig for å redusere forurensning, slik at de blir egnet til konsum,«ekspedisjonssentral» et landbasert eller flytende anlegg for mottak, kondisjonering, spyling, rengjøring, sortering, innpakking og emballering av bløtdyr beregnet på konsum,«gjenutleggingsområde» et ferskvanns-, hav-, elvemunnings-, fastlands- eller laguneområde som er klart avgrenset og merket med bøyer, påler eller andre faste innretninger, og som brukes bare til naturlig rensing av bløtdyr,«i isolasjon» når akvakulturdyr holdes i et akvakulturanlegg der de ikke kommer i kontakt med andre arter av akvatiske dyr enten direkte gjennom å dele habitat eller indirekte gjennom vannforsyningen,«lukket anlegg» et akvakulturanlegg der spillvannet før det slippes ut i åpent vann gjennomgår en behandling som kan inaktivere agenser som forårsaker listeførte eller nye sykdommer,«åpent anlegg» et akvakulturanlegg der spillvannet slippes direkte ut i åpent vann uten å gjennomgå en behandling som kan inaktivere agenser som forårsaker listeførte eller nye sykdommer,«epidemiologisk område» et avgrenset geografisk område der de akvatiske dyrene har samme helsestatus og utsettes for samme risiko for å bli rammet av en listeført eller ny sykdom,«biosikkerhetsplan» en dokumentert plan som identifiserer hvordan en sykdomsagens kan komme seg inn i et akvakulturanlegg, spre seg i anlegget og overføres fra det; planen tar hensyn til særtrekkene ved anlegget og fastslår hvilke tiltak som vil redusere de biosikkerhetsrisikoene som er identifisert,«felles biosikkerhetstiltak» tiltakene i en biosikkerhetsplan som er utarbeidet for og gjennomført av hvert akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 177 i forordning [(EU) 2016/429](eu/32016r0429),«unikt registreringsnummer» et nummer som tildeles et registrert akvakulturanlegg eller en gruppe av akvakulturanlegg som fastsatt i artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),«unikt godkjenningsnummer» et nummer som vedkommende myndighet tildeler et akvakulturanlegg eller en gruppe av akvakulturanlegg som den har godkjent i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),«IMO-identifikasjonsnummer» et unikt nummer som Den internasjonale sjøfartsorganisasjon (IMO) tildeler sjøgående fartøyer,«hygienebarriere» fotbad, håndvask, klesskift eller andre biosikkerhetstiltak som skal skape barrierer mot spredning av sykdom til, i eller fra et akvakulturanlegg,«produksjonsenheter» klekkebakker, dammer, lengdestrømsrenner, tanker, bur, merder eller lignende strukturer som inneholder grupper av akvakulturdyr i et akvakulturanlegg,«økt dødelighet» uavklart dødelighet som er høyere enn det som under de rådende forhold anses som normalt for akvakulturanlegget eller gruppen av akvakulturanlegg,«overvåkingsprogram» et frivillig program for testing og kontrolltiltak som gjennomføres i forbindelse med en kategori C-sykdom i et akvakulturanlegg som ikke deltar i et utryddelsesprogram for å oppnå sykdomsfri status, men der testing viser at akvakulturanlegget ikke er infisert med denne kategori C-sykdommen.
+Videre menes med
+
+1. «ekstensiv dam» en tradisjonell dam eller lagune som er naturlig eller kunstig, og der næringskilden til dyrene som holdes i disse dammene eller lagunene, er naturlig, unntatt under ekstraordinære omstendigheter, og der det ikke treffes tiltak for å øke produksjonen utover miljøets naturlige kapasitet,
+2. «rensesentral» et anlegg med tanker som tilføres rent sjøvann, der bløtdyr plasseres den tiden som er nødvendig for å redusere forurensning, slik at de blir egnet til konsum,
+3. «ekspedisjonssentral» et landbasert eller flytende anlegg for mottak, kondisjonering, spyling, rengjøring, sortering, innpakking og emballering av bløtdyr beregnet på konsum,
+4. «gjenutleggingsområde» et ferskvanns-, hav-, elvemunnings-, fastlands- eller laguneområde som er klart avgrenset og merket med bøyer, påler eller andre faste innretninger, og som brukes bare til naturlig rensing av bløtdyr,
+5. «i isolasjon» når akvakulturdyr holdes i et akvakulturanlegg der de ikke kommer i kontakt med andre arter av akvatiske dyr enten direkte gjennom å dele habitat eller indirekte gjennom vannforsyningen,
+6. «lukket anlegg» et akvakulturanlegg der spillvannet før det slippes ut i åpent vann gjennomgår en behandling som kan inaktivere agenser som forårsaker listeførte eller nye sykdommer,
+7. «åpent anlegg» et akvakulturanlegg der spillvannet slippes direkte ut i åpent vann uten å gjennomgå en behandling som kan inaktivere agenser som forårsaker listeførte eller nye sykdommer,
+8. «epidemiologisk område» et avgrenset geografisk område der de akvatiske dyrene har samme helsestatus og utsettes for samme risiko for å bli rammet av en listeført eller ny sykdom,
+9. «biosikkerhetsplan» en dokumentert plan som identifiserer hvordan en sykdomsagens kan komme seg inn i et akvakulturanlegg, spre seg i anlegget og overføres fra det; planen tar hensyn til særtrekkene ved anlegget og fastslår hvilke tiltak som vil redusere de biosikkerhetsrisikoene som er identifisert,
+10. «felles biosikkerhetstiltak» tiltakene i en biosikkerhetsplan som er utarbeidet for og gjennomført av hvert akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 177 i forordning [(EU) 2016/429](eu/32016r0429),
+11. «unikt registreringsnummer» et nummer som tildeles et registrert akvakulturanlegg eller en gruppe av akvakulturanlegg som fastsatt i artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),
+12. «unikt godkjenningsnummer» et nummer som vedkommende myndighet tildeler et akvakulturanlegg eller en gruppe av akvakulturanlegg som den har godkjent i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),
+13. «IMO-identifikasjonsnummer» et unikt nummer som Den internasjonale sjøfartsorganisasjon (IMO) tildeler sjøgående fartøyer,
+14. «hygienebarriere» fotbad, håndvask, klesskift eller andre biosikkerhetstiltak som skal skape barrierer mot spredning av sykdom til, i eller fra et akvakulturanlegg,
+15. «produksjonsenheter» klekkebakker, dammer, lengdestrømsrenner, tanker, bur, merder eller lignende strukturer som inneholder grupper av akvakulturdyr i et akvakulturanlegg,
+16. «økt dødelighet» uavklart dødelighet som er høyere enn det som under de rådende forhold anses som normalt for akvakulturanlegget eller gruppen av akvakulturanlegg,
+17. «overvåkingsprogram» et frivillig program for testing og kontrolltiltak som gjennomføres i forbindelse med en kategori C-sykdom i et akvakulturanlegg som ikke deltar i et utryddelsesprogram for å oppnå sykdomsfri status, men der testing viser at akvakulturanlegget ikke er infisert med denne kategori C-sykdommen.
 
 ### DEL II
 REGISTRERING, GODKJENNING, REGISTRE OG FØRING AV JOURNALER
@@ -227,15 +256,39 @@ Godkjenning av akvakulturanlegg som utgjør en vesentlig risiko for spredning av
 
 Unntak fra kravet om at driftsansvarlige skal søke vedkommende myndighet om godkjenning for akvakulturanlegg
 
-1\. Som unntak fra artikkel 176 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429) skal driftsansvarlige for følgende typer akvakulturanlegg ikke være forpliktet til å søke vedkommende myndighet om godkjenning av akvakulturanleggene sine:Akvakulturanlegg der akvakulturdyr holdes utelukkende for utsetting i naturen.Ekstensive dammer der akvakulturdyr holdes for direkte konsum eller for utsetting i naturen.Rensesentraler somer godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 ogmottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.Ekspedisjonssentraler somer godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 ogmottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.Gjenutleggingsområder somer godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 ogmottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.
+1\. Som unntak fra artikkel 176 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429) skal driftsansvarlige for følgende typer akvakulturanlegg ikke være forpliktet til å søke vedkommende myndighet om godkjenning av akvakulturanleggene sine:
 
-2\. Unntak fra kravet om å søke vedkommende myndighet om godkjenning som er fastsatt i nr. 1 i denne artikkelen, får bare anvendelse på akvakulturanlegg som akvakulturdyr ikke flyttes fra til en annen medlemsstat, unntatt bløtdyr for direkte konsum, og når vedkommende myndighet har foretatt en risikovurderingsom tar hensyn til minst risikofaktorene angitt i del I kapittel 2 bokstav a) og b) i vedlegg VI til delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689), ogder risikoen for at akvakulturdyrene i akvakulturanlegget skal rammes av eller spre en listeført eller ny sykdom er funnet å være ubetydelig.
+1. Akvakulturanlegg der akvakulturdyr holdes utelukkende for utsetting i naturen.
+2. Ekstensive dammer der akvakulturdyr holdes for direkte konsum eller for utsetting i naturen.
+3. Rensesentraler som
+
+   1. er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 og
+   2. mottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.
+4. Ekspedisjonssentraler som
+
+   1. er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 og
+   2. mottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.
+5. Gjenutleggingsområder som
+
+   1. er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004 og
+   2. mottar bløtdyr bare fra det epidemiologiske området som anlegget ligger i.
+
+2\. Unntak fra kravet om å søke vedkommende myndighet om godkjenning som er fastsatt i nr. 1 i denne artikkelen, får bare anvendelse på akvakulturanlegg som akvakulturdyr ikke flyttes fra til en annen medlemsstat, unntatt bløtdyr for direkte konsum, og når vedkommende myndighet har foretatt en risikovurdering
+
+1. som tar hensyn til minst risikofaktorene angitt i del I kapittel 2 bokstav a) og b) i vedlegg VI til delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689), og
+2. der risikoen for at akvakulturdyrene i akvakulturanlegget skal rammes av eller spre en listeført eller ny sykdom er funnet å være ubetydelig.
 
 ###### Artikkel 4
 
 Typer akvakulturanlegg som skal godkjennes av vedkommende myndighet
 
-Driftsansvarlige for følgende typer akvakulturanlegg skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 176 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429):Karanteneanlegg for akvakulturdyr.Akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer.Akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko.Akvakulturanlegg der akvariedyr holdes i åpne anlegg.Fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold.
+Driftsansvarlige for følgende typer akvakulturanlegg skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 176 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429):
+
+1. Karanteneanlegg for akvakulturdyr.
+2. Akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer.
+3. Akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko.
+4. Akvakulturanlegg der akvariedyr holdes i åpne anlegg.
+5. Fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold.
 
 ###### KAPITTEL 2
 
@@ -245,7 +298,11 @@ Krav til og godkjenning av akvakulturanlegg
 
 Krav om at godkjente akvakulturanlegg og grupper av akvakulturanlegg skal ha en biosikkerhetsplan
 
-Vedkommende myndighet skal godkjenne akvakulturanlegg nevnt i artikkel 7 og artikkel 9–19 eller grupper av akvakulturanlegg nevnt i artikkel 8 bare dersom de driftsansvarlige har utarbeidet og dokumentert en biosikkerhetsplan som oppfyller følgende krav:Den identifiserer hvordan en sykdomsagens kan komme seg inn i et akvakulturanlegg eller en gruppe av akvakulturanlegg, spre seg i anlegget og overføres fra det til miljøet eller til andre akvakulturanlegg.Den tar hensyn til særtrekkene ved hvert enkelt akvakulturanlegg eller hver enkelt gruppe av akvakulturanlegg og fastslår risikoreduserende tiltak for hver biosikkerhetsrisiko som er identifisert.Den driftsansvarlige vurderer eller tar hensyn til elementene som er angitt i del 1–7 nr. 1 bokstav a), del 9–12 nr. 1 bokstav a) og del 8 nr. 1 bokstav b) i vedlegg I, dersom det er relevant, når planen for akvakulturanlegget eller gruppen av akvakulturanlegg utarbeides.
+Vedkommende myndighet skal godkjenne akvakulturanlegg nevnt i artikkel 7 og artikkel 9–19 eller grupper av akvakulturanlegg nevnt i artikkel 8 bare dersom de driftsansvarlige har utarbeidet og dokumentert en biosikkerhetsplan som oppfyller følgende krav:
+
+1. Den identifiserer hvordan en sykdomsagens kan komme seg inn i et akvakulturanlegg eller en gruppe av akvakulturanlegg, spre seg i anlegget og overføres fra det til miljøet eller til andre akvakulturanlegg.
+2. Den tar hensyn til særtrekkene ved hvert enkelt akvakulturanlegg eller hver enkelt gruppe av akvakulturanlegg og fastslår risikoreduserende tiltak for hver biosikkerhetsrisiko som er identifisert.
+3. Den driftsansvarlige vurderer eller tar hensyn til elementene som er angitt i del 1–7 nr. 1 bokstav a), del 9–12 nr. 1 bokstav a) og del 8 nr. 1 bokstav b) i vedlegg I, dersom det er relevant, når planen for akvakulturanlegget eller gruppen av akvakulturanlegg utarbeides.
 
 ###### Artikkel 6
 
@@ -255,85 +312,138 @@ Krav om at godkjente akvakulturanlegg og grupper av akvakulturanlegg skal delta 
 
 2\. Vedkommende myndighet skal bare godkjenne grupper av akvakulturanlegg som er nevnt i artikkel 8 i denne forordningen, dersom de driftsansvarlige oppfyller kravene til risikobasert overvåking som vedkommende myndighet utfører i samsvar med artikkel 26 i forordning [(EU) 2016/429](eu/32016r0429), i form av et program for risikobasert overvåking som angitt i del 1 og del 2 nr. 2 i vedlegg II til denne forordningen.
 
-3\. Når vedkommende myndighet godkjenner akvakulturanlegg eller grupper av akvakulturanlegg som fastsatt i nr. 1 og 2, skal den ta hensyn til følgende elementer og inkludere dem i programmet for risikobasert overvåking:Resultatet av overvåkingen som utføres av den driftsansvarlige i samsvar med artikkel 24 i forordning [(EU) 2016/429](eu/32016r0429).Opplysningene som innhentes gjennom dyrehelsebesøk som en veterinær avlegger i samsvar med artikkel 25 i forordning [(EU) 2016/429](eu/32016r0429), når de driftsansvarlige gjør disse opplysningene tilgjengelige.
+3\. Når vedkommende myndighet godkjenner akvakulturanlegg eller grupper av akvakulturanlegg som fastsatt i nr. 1 og 2, skal den ta hensyn til følgende elementer og inkludere dem i programmet for risikobasert overvåking:
+
+1. Resultatet av overvåkingen som utføres av den driftsansvarlige i samsvar med artikkel 24 i forordning [(EU) 2016/429](eu/32016r0429).
+2. Opplysningene som innhentes gjennom dyrehelsebesøk som en veterinær avlegger i samsvar med artikkel 25 i forordning [(EU) 2016/429](eu/32016r0429), når de driftsansvarlige gjør disse opplysningene tilgjengelige.
 
 ###### Artikkel 7
 
 Krav til godkjenning av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som det er fastsatt særlige krav for i artikkel 12–19
 
-Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som det er fastsatt særlige krav for i artikkel 12–19, oppfyller kravene iartikkel 6 nr. 1 når det gjelder risikobasert overvåking,del 1 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 1 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som det er fastsatt særlige krav for i artikkel 12–19, oppfyller kravene i
+
+1. artikkel 6 nr. 1 når det gjelder risikobasert overvåking,
+2. del 1 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+3. del 1 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 8
 
 Krav til godkjenning av grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr
 
-Ved godkjenningen skal vedkommende myndighet sikre at grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, oppfyller kravene iartikkel 6 nr. 2 når det gjelder risikobasert overvåking,del 2 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak for akvakulturanleggene i gruppen,del 2 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, oppfyller kravene i
+
+1. artikkel 6 nr. 2 når det gjelder risikobasert overvåking,
+2. del 2 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak for akvakulturanleggene i gruppen,
+3. del 2 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 9
 
 Krav til godkjenning av avgrensede akvakulturanlegg
 
-Ved godkjenningen skal vedkommende myndighet sikre at avgrensede akvakulturanlegg oppfyller kravene iartikkel 10 når det gjelder ordninger for lokaler der kontroll post mortem foretas, og når det gjelder en veterinær som anlegget skal knytte til seg,del 3 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 3 nr. 2 i vedlegg I når det gjelder overvåking og kontroll,del 3 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at avgrensede akvakulturanlegg oppfyller kravene i
+
+1. artikkel 10 når det gjelder ordninger for lokaler der kontroll post mortem foretas, og når det gjelder en veterinær som anlegget skal knytte til seg,
+2. del 3 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+3. del 3 nr. 2 i vedlegg I når det gjelder overvåking og kontroll,
+4. del 3 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 10
 
 Forpliktelser for driftsansvarlige for avgrensede akvakulturanlegg
 
-Før vedkommende myndighet godkjenner anlegget skal driftsansvarlige for avgrensede akvakulturanlegginnføre ordninger for å foreta veterinærkontroll post mortem i egnede lokaler i det avgrensede akvakulturanlegget eller i et laboratoriumgjennom kontrakt eller et annet juridisk virkemiddel knytte til seg en anleggsveterinær som skal ha ansvar for åovervåke virksomheten i det avgrensede akvakulturanlegget og oppfylle kravene til godkjenning som er fastsatt i artikkel 9,gjennomgå planen for sykdomsovervåking som er nevnt i del 3 nr. 2 bokstav a) i vedlegg 1, minst én gang i året.
+Før vedkommende myndighet godkjenner anlegget skal driftsansvarlige for avgrensede akvakulturanlegg
+
+1. innføre ordninger for å foreta veterinærkontroll post mortem i egnede lokaler i det avgrensede akvakulturanlegget eller i et laboratorium
+2. gjennom kontrakt eller et annet juridisk virkemiddel knytte til seg en anleggsveterinær som skal ha ansvar for å
+
+   1. overvåke virksomheten i det avgrensede akvakulturanlegget og oppfylle kravene til godkjenning som er fastsatt i artikkel 9,
+   2. gjennomgå planen for sykdomsovervåking som er nevnt i del 3 nr. 2 bokstav a) i vedlegg 1, minst én gang i året.
 
 ###### Artikkel 11
 
 Krav til godkjenning av næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr
 
-Ved godkjenningen skal vedkommende myndighet sikre at næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, oppfyller kravene idel 4 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 4 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, oppfyller kravene i
+
+1. del 4 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 4 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 12
 
 Krav til godkjenning av rensesentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav c)
 
-Ved godkjenningen skal vedkommende myndighet sikre at rensesentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav c), oppfyller kravene idel 5 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 5 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at rensesentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav c), oppfyller kravene i
+
+1. del 5 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 5 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 13
 
 Krav til godkjenning av ekspedisjonssentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav d)
 
-Ved godkjenningen skal vedkommende myndighet sikre at ekspedisjonssentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav d), oppfyller kravene idel 6 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 6 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at ekspedisjonssentraler, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav d), oppfyller kravene i
+
+1. del 6 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 6 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 14
 
 Krav til godkjenning av gjenutleggingsområder, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav e)
 
-Ved godkjenningen skal vedkommende myndighet sikre at gjenutleggingsområder, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav e), oppfyller kravene idel 7 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 7 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at gjenutleggingsområder, unntatt dem som er nevnt i artikkel 3 nr. 1 bokstav e), oppfyller kravene i
+
+1. del 7 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 7 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 15
 
 Krav til godkjenning av karanteneanlegg
 
-Ved godkjenningen skal vedkommende myndighet sikre at karanteneanlegg oppfyller kravene idel 8 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 8 nr. 2 i vedlegg I når det gjelder overvåkings- og kontrolltiltak,del 8 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at karanteneanlegg oppfyller kravene i
+
+1. del 8 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 8 nr. 2 i vedlegg I når det gjelder overvåkings- og kontrolltiltak,
+3. del 8 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 16
 
 Krav til godkjenning av akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer
 
-Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, oppfyller kravene idel 9 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 9 nr. 2 i vedlegg I når det gjelder overvåkings- og kontrolltiltak,del 9 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, oppfyller kravene i
+
+1. del 9 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 9 nr. 2 i vedlegg I når det gjelder overvåkings- og kontrolltiltak,
+3. del 9 nr. 3 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 17
 
 Krav til godkjenning av akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko
 
-Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, oppfyller kravene iartikkel 6 nr. 1 når det gjelder risikobasert overvåking,del 10 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 10 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, oppfyller kravene i
+
+1. artikkel 6 nr. 1 når det gjelder risikobasert overvåking,
+2. del 10 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+3. del 10 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 18
 
 Krav til godkjenning av akvakulturanlegg som er åpne anlegg der det holdes akvariedyr
 
-Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, oppfyller kravene iartikkel 6 nr. 1 når det gjelder risikobasert overvåking,del 11 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 11 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, oppfyller kravene i
+
+1. artikkel 6 nr. 1 når det gjelder risikobasert overvåking,
+2. del 11 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+3. del 11 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ###### Artikkel 19
 
 Krav til godkjenning av fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold
 
-Ved godkjenningen skal vedkommende myndighet sikre at fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, oppfyller kravene idel 12 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,del 12 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
+Ved godkjenningen skal vedkommende myndighet sikre at fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, oppfyller kravene i
+
+1. del 12 nr. 1 i vedlegg I når det gjelder biosikkerhetstiltak,
+2. del 12 nr. 2 i vedlegg I når det gjelder lokaler og utstyr.
 
 ### AVDELING II
 REGISTRE OVER REGISTRERTE OG GODKJENTE AKVAKULTURANLEGG SOM SKAL FØRES AV VEDKOMMENDE MYNDIGHET
@@ -346,7 +456,16 @@ Registre over akvakulturanlegg som føres av vedkommende myndighet
 
 Vedkommende myndighets opplysningsplikt når det gjelder registeret over registrerte akvakulturanlegg
 
-I tillegg til opplysningene som kreves i artikkel 185 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet for hvert akvakulturanlegg den registrerer, føre inn følgende opplysninger i registeret over akvakulturanlegg fastsatt i artikkel 185 nr. 1 bokstav a) i nevnte forordning:Det unike registreringsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Datoen for vedkommende myndighets registrering.Akvakulturanleggets adresse og geografiske koordinater (breddegrad og lengdegrad).En beskrivelse av lokaler og utstyr.Kategorier av akvakulturdyr som holdes i akvakulturanlegget.Omtrentlig antall og/eller største tillatte biomasse av akvakulturdyr som kan holdes i akvakulturanlegget.Tidsrommet der det holdes akvakulturdyr i akvakulturanlegget dersom det ikke er i bruk kontinuerlig, herunder opplysninger om sesongbestemt bruk eller bruk ved særlige hendelser, dersom det er relevant.Datoen for opphør av virksomheten dersom den driftsansvarlige har underrettet vedkommende myndighet om dette.
+I tillegg til opplysningene som kreves i artikkel 185 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet for hvert akvakulturanlegg den registrerer, føre inn følgende opplysninger i registeret over akvakulturanlegg fastsatt i artikkel 185 nr. 1 bokstav a) i nevnte forordning:
+
+1. Det unike registreringsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Datoen for vedkommende myndighets registrering.
+3. Akvakulturanleggets adresse og geografiske koordinater (breddegrad og lengdegrad).
+4. En beskrivelse av lokaler og utstyr.
+5. Kategorier av akvakulturdyr som holdes i akvakulturanlegget.
+6. Omtrentlig antall og/eller største tillatte biomasse av akvakulturdyr som kan holdes i akvakulturanlegget.
+7. Tidsrommet der det holdes akvakulturdyr i akvakulturanlegget dersom det ikke er i bruk kontinuerlig, herunder opplysninger om sesongbestemt bruk eller bruk ved særlige hendelser, dersom det er relevant.
+8. Datoen for opphør av virksomheten dersom den driftsansvarlige har underrettet vedkommende myndighet om dette.
 
 ###### KAPITTEL 2
 
@@ -356,9 +475,25 @@ Registre over akvakulturanlegg som er godkjent av vedkommende myndighet
 
 Vedkommende myndighets opplysningsplikt når det gjelder registeret over godkjente akvakulturanlegg
 
-1\. I tillegg til opplysningene som kreves i artikkel 185 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet for hvert akvakulturanlegg eller hver gruppe av akvakulturanlegg den godkjenner, føre inn følgende opplysninger i registeret over godkjente akvakulturanlegg som er fastsatt i artikkel 185 nr. 1 bokstav b) og c) i nevnte forordning:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Datoen for vedkommende myndighets godkjenning eller for vedkommende myndighets eventuelle midlertidige oppheving eller tilbaketrekking av godkjenningen.Adressen og de geografiske koordinatene (breddegrad og lengdegrad) til det godkjente akvakulturanlegget eller den godkjente gruppen av akvakulturanlegg.En beskrivelse av relevante lokaler og utstyr.Kategorier av akvakulturdyr som holdes i akvakulturanlegget eller gruppen av akvakulturanlegg.Omtrentlig antall og/eller største tillatte biomasse av akvakulturdyr som kan holdes i akvakulturanlegget eller gruppen av akvakulturanlegg.Tidsrommet der det holdes akvakulturdyr i akvakulturanlegget eller gruppen av akvakulturanlegg dersom anlegget ikke er i bruk kontinuerlig, herunder opplysninger om sesongbestemt bruk eller bruk ved særlige hendelser, dersom det er relevant.Datoen for opphør av virksomheten dersom den driftsansvarlige har underrettet vedkommende myndighet om dette.
+1\. I tillegg til opplysningene som kreves i artikkel 185 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet for hvert akvakulturanlegg eller hver gruppe av akvakulturanlegg den godkjenner, føre inn følgende opplysninger i registeret over godkjente akvakulturanlegg som er fastsatt i artikkel 185 nr. 1 bokstav b) og c) i nevnte forordning:
 
-2\. I tillegg til opplysningene som kreves i artikkel 185 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet legge ut ajourførte opplysninger om helsestatusen til akvakulturdyrene som holdes i akvakulturanlegg eller grupper av akvakulturanlegg som er godkjent i samsvar med artikkel 181 nr. 1 i nevnte forordning, på en Internett-basert informasjonsside som er offentlig tilgjengelig.Disse ajourførte helseopplysningene skal minst angi helsestatusen til akvakulturanlegget eller gruppen av akvakulturanlegg for hver relevant, listeført sykdom og hver relevant sykdomskategori ved å angiom anlegget er fritt for en kategori B-sykdom eller en kategori C-sykdom,om anlegget deltar i et program for utryddelse av en kategori B-sykdom eller en kategori C-sykdom,om anlegget deltar i et program for frivillig overvåking av en kategori C-sykdom, elleralle andre opplysninger som gjelder en kategori B-, kategori C- eller kategori D-sykdom, enn opplysningene som er angitt i bokstav a), b) og c).
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Datoen for vedkommende myndighets godkjenning eller for vedkommende myndighets eventuelle midlertidige oppheving eller tilbaketrekking av godkjenningen.
+3. Adressen og de geografiske koordinatene (breddegrad og lengdegrad) til det godkjente akvakulturanlegget eller den godkjente gruppen av akvakulturanlegg.
+4. En beskrivelse av relevante lokaler og utstyr.
+5. Kategorier av akvakulturdyr som holdes i akvakulturanlegget eller gruppen av akvakulturanlegg.
+6. Omtrentlig antall og/eller største tillatte biomasse av akvakulturdyr som kan holdes i akvakulturanlegget eller gruppen av akvakulturanlegg.
+7. Tidsrommet der det holdes akvakulturdyr i akvakulturanlegget eller gruppen av akvakulturanlegg dersom anlegget ikke er i bruk kontinuerlig, herunder opplysninger om sesongbestemt bruk eller bruk ved særlige hendelser, dersom det er relevant.
+8. Datoen for opphør av virksomheten dersom den driftsansvarlige har underrettet vedkommende myndighet om dette.
+
+2\. I tillegg til opplysningene som kreves i artikkel 185 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende myndighet legge ut ajourførte opplysninger om helsestatusen til akvakulturdyrene som holdes i akvakulturanlegg eller grupper av akvakulturanlegg som er godkjent i samsvar med artikkel 181 nr. 1 i nevnte forordning, på en Internett-basert informasjonsside som er offentlig tilgjengelig.
+
+Disse ajourførte helseopplysningene skal minst angi helsestatusen til akvakulturanlegget eller gruppen av akvakulturanlegg for hver relevant, listeført sykdom og hver relevant sykdomskategori ved å angi
+
+1. om anlegget er fritt for en kategori B-sykdom eller en kategori C-sykdom,
+2. om anlegget deltar i et program for utryddelse av en kategori B-sykdom eller en kategori C-sykdom,
+3. om anlegget deltar i et program for frivillig overvåking av en kategori C-sykdom, eller
+4. alle andre opplysninger som gjelder en kategori B-, kategori C- eller kategori D-sykdom, enn opplysningene som er angitt i bokstav a), b) og c).
 
 ### AVDELING III
 DRIFTSANSVARLIGES JORUNALFØRINGSPLIKT UTOVER FORPLIKTELSENE FASTSATT I FORORDNING (EU) 2016/429
@@ -371,19 +506,56 @@ Journaler som skal føres av driftsansvarlige for registrerte eller godkjente ak
 
 Journalføringsplikt for driftsansvarlige for registrerte akvakulturanlegg
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for registrerte akvakulturanlegg journalføre og oppbevare følgende opplysninger:Det unike registreringsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Nærmere opplysninger om eventuelle undersøkelser som ble foretatt etter forekomst av økt dødelighet eller mistanke om forekomst av sykdom.Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med slike forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for registrerte akvakulturanlegg journalføre og oppbevare følgende opplysninger:
+
+1. Det unike registreringsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Nærmere opplysninger om eventuelle undersøkelser som ble foretatt etter forekomst av økt dødelighet eller mistanke om forekomst av sykdom.
+3. Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med slike forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.
+4. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 23
 
 Journalføringsplikt for driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som er nevnt i artikkel 27–34
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som er nevnt i artikkel 27–34 i denne forordningen, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Gjeldende risikokategori for akvakulturanlegget, som fastsatt av vedkommende myndighet.Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1.Nærmere opplysninger om forflytninger til akvakulturanlegget, herunderdet unike godkjennings- eller registreringsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, ellerbeliggenheten til habitatet som de viltlevende akvatiske dyrene ble hentet fra før de ble sendt til akvakulturanlegget.Nærmere opplysninger om forflytninger fra akvakulturanlegget, herunderakvakulturdyr og produkter av animalsk opprinnelse fra akvakulturdyr, og ved forflytning av akvakulturdyr, også det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, ellerved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra anlegget.Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, unntatt akvakulturanlegg som er nevnt i artikkel 27–34 i denne forordningen, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Gjeldende risikokategori for akvakulturanlegget, som fastsatt av vedkommende myndighet.
+3. Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1.
+4. Nærmere opplysninger om forflytninger til akvakulturanlegget, herunder
+
+   1. det unike godkjennings- eller registreringsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, eller
+   2. beliggenheten til habitatet som de viltlevende akvatiske dyrene ble hentet fra før de ble sendt til akvakulturanlegget.
+5. Nærmere opplysninger om forflytninger fra akvakulturanlegget, herunder
+
+   1. akvakulturdyr og produkter av animalsk opprinnelse fra akvakulturdyr, og ved forflytning av akvakulturdyr, også det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, eller
+   2. ved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.
+6. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra anlegget.
+7. Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.
+8. Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.
+9. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 24
 
 Journalføringsplikt for driftsansvarlige for en godkjent gruppe av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr
 
-1\. I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Gjeldende risikokategori for gruppen av akvakulturanlegg, som fastsatt av vedkommende myndighet.Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 2.Nærmere opplysninger om forflytninger til akvakulturanlegget, herunderdet unike godkjennings- eller registreringsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et akvakulturanlegg utenfor gruppen, ellerbeliggenheten til habitatet som de viltlevende akvatiske dyrene ble hentet fra før de ble sendt til akvakulturanlegget.Nærmere opplysninger om forflytninger fra gruppen av akvakulturanlegg, herunderakvakulturdyr og produkter av animalsk opprinnelse fra akvakulturdyr, og ved forflytning av akvakulturdyr, også det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, dersom akvakulturdyrene sendes til et annet anlegg utenfor gruppen, ellerved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra akvakulturanlegget.Nærmere opplysninger om biosikkerhetsplanen som anvendes, og dokumentasjon på at planen gjennomføres.Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+1\. I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Gjeldende risikokategori for gruppen av akvakulturanlegg, som fastsatt av vedkommende myndighet.
+3. Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 2.
+4. Nærmere opplysninger om forflytninger til akvakulturanlegget, herunder
+
+   1. det unike godkjennings- eller registreringsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et akvakulturanlegg utenfor gruppen, eller
+   2. beliggenheten til habitatet som de viltlevende akvatiske dyrene ble hentet fra før de ble sendt til akvakulturanlegget.
+5. Nærmere opplysninger om forflytninger fra gruppen av akvakulturanlegg, herunder
+
+   1. akvakulturdyr og produkter av animalsk opprinnelse fra akvakulturdyr, og ved forflytning av akvakulturdyr, også det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, dersom akvakulturdyrene sendes til et annet anlegg utenfor gruppen, eller
+   2. ved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.
+6. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra akvakulturanlegget.
+7. Nærmere opplysninger om biosikkerhetsplanen som anvendes, og dokumentasjon på at planen gjennomføres.
+8. Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra akvakulturanlegget, etter hva som er relevant.
+9. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 2\. Den driftsansvarlige for en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429), skal føre journal over eller oppbevare opplysningene angitt i nr. 1 bokstav a)–i) i denne artikkelen på vegne av hvert akvakulturanlegg i gruppen.
 
@@ -391,61 +563,156 @@ Journalføringsplikt for driftsansvarlige for en godkjent gruppe av akvakulturan
 
 Journalføringsplikt for driftsansvarlige for godkjente avgrensede akvakulturanlegg
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente avgrensede akvakulturanlegg føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt det avgrensede akvakulturanlegget.Nærmere opplysninger om forflytninger til og fra det avgrensede akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelses- eller bestemmelsesanlegget for alle akvakulturdyr som mottas fra eller sendes til et annet akvakulturanlegg.Navn på og adresse til transportører som leverer akvakulturdyr til eller henter akvakulturdyr fra det avgrensede akvakulturanlegget.Nærmere opplysninger om gjennomføringen og resultatene av planen for sykdomsovervåking som er fastsatt i del 3 nr. 2 i vedlegg I.Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som foretas når økt dødelighet eller mistanke om forekomst av sykdom undersøkes.Nærmere opplysninger om vaksinasjon eller behandling av akvakulturdyr som er fastsatt i del 3 nr. 2 bokstav c) i vedlegg I, dersom det er relevant.Nærmere opplysninger om isolasjon av eller karantene for innkommende akvakulturdyr, eventuelle instruksjoner fra vedkommende myndighet når det gjelder isolasjon og karantene samt relevante observasjoner som ble gjort i en eventuell isolasjons- eller karantenetid.Biosikkerhetsplanen for det avgrensede akvakulturanlegget.Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente avgrensede akvakulturanlegg føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt det avgrensede akvakulturanlegget.
+2. Nærmere opplysninger om forflytninger til og fra det avgrensede akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelses- eller bestemmelsesanlegget for alle akvakulturdyr som mottas fra eller sendes til et annet akvakulturanlegg.
+3. Navn på og adresse til transportører som leverer akvakulturdyr til eller henter akvakulturdyr fra det avgrensede akvakulturanlegget.
+4. Nærmere opplysninger om gjennomføringen og resultatene av planen for sykdomsovervåking som er fastsatt i del 3 nr. 2 i vedlegg I.
+5. Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som foretas når økt dødelighet eller mistanke om forekomst av sykdom undersøkes.
+6. Nærmere opplysninger om vaksinasjon eller behandling av akvakulturdyr som er fastsatt i del 3 nr. 2 bokstav c) i vedlegg I, dersom det er relevant.
+7. Nærmere opplysninger om isolasjon av eller karantene for innkommende akvakulturdyr, eventuelle instruksjoner fra vedkommende myndighet når det gjelder isolasjon og karantene samt relevante observasjoner som ble gjort i en eventuell isolasjons- eller karantenetid.
+8. Biosikkerhetsplanen for det avgrensede akvakulturanlegget.
+9. Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
 
 ###### Artikkel 26
 
 Journalføringsplikt for driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr
 
-I tillegg til opplysningene som kreves i artikkel 187 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.Biosikkerhetsplanen for næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, og dokumentasjon på at planen gjennomføres.Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.Dokumentasjon for å verifisere virkningen av systemet for vannrensing.Navn på og adresse til transportører som leverer akvatiske dyr til næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 187 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+2. Biosikkerhetsplanen for næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, og dokumentasjon på at planen gjennomføres.
+3. Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+4. Dokumentasjon for å verifisere virkningen av systemet for vannrensing.
+5. Navn på og adresse til transportører som leverer akvatiske dyr til næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+6. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 27
 
 Journalføringsplikt for driftsansvarlige for godkjente rensesentraler
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente rensesentraler føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt den godkjente rensesentralen.Biosikkerhetsplanen for den godkjente rensesentralen og dokumentasjon på at planen gjennomføres.Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i den godkjente rensesentralen.Dokumentasjon for å verifisere virkningen av systemet for vannrensing.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente rensesentraler føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt den godkjente rensesentralen.
+2. Biosikkerhetsplanen for den godkjente rensesentralen og dokumentasjon på at planen gjennomføres.
+3. Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i den godkjente rensesentralen.
+4. Dokumentasjon for å verifisere virkningen av systemet for vannrensing.
+5. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 28
 
 Journalføringsplikt for driftsansvarlige for godkjente ekspedisjonssentraler
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente ekspedisjonssentraler føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt den godkjente ekspedisjonssentralen.Biosikkerhetsplanen for den godkjente ekspedisjonssentralen og dokumentasjon på at planen gjennomføres.Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i den godkjente ekspedisjonssentralen.Dokumentasjon for å verifisere virkningen av systemet for vannrensing.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente ekspedisjonssentraler føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt den godkjente ekspedisjonssentralen.
+2. Biosikkerhetsplanen for den godkjente ekspedisjonssentralen og dokumentasjon på at planen gjennomføres.
+3. Vedlikeholdsdokumentasjon for systemet for rensing av spillvann som brukes i den godkjente ekspedisjonssentralen.
+4. Dokumentasjon for å verifisere virkningen av systemet for vannrensing.
+5. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 29
 
 Journalføringsplikt for driftsansvarlige for godkjente gjenutleggingsområder
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente gjenutleggingsområder føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt det godkjente gjenutleggingsområdet.Biosikkerhetsplanen for det godkjente gjenutleggingsområdet og dokumentasjon på at planen gjennomføres.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente gjenutleggingsområder føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt det godkjente gjenutleggingsområdet.
+2. Biosikkerhetsplanen for det godkjente gjenutleggingsområdet og dokumentasjon på at planen gjennomføres.
+3. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 30
 
 Journalføringsplikt for driftsansvarlige for godkjente karanteneanlegg for akvakulturdyr
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente karanteneanlegg for akvakulturdyr føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt karanteneanlegget.Nærmere opplysninger om forflytninger til det godkjente karanteneanlegget, herunderdet unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, ellerbeliggenheten til habitatet som de akvatiske dyrene ble hentet fra før de ble sendt til det godkjente karanteneanlegget.Nærmere opplysninger om forflytninger fra det godkjente karanteneanlegget, herunderdet unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget ellerbeliggenheten til habitatet der akvakulturdyrene er satt ut i naturen.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente karanteneanlegget.Nærmere opplysninger om gjennomføringen og resultatene av sykdomsovervåkingen som er fastsatt i del 8 nr. 2 i vedlegg I.Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som er fastsatt i del 8 nr. 2 i vedlegg I.Eventuelle instruksjoner fra vedkommende myndighet når det gjelder observasjoner som ble gjort i en eventuell isolasjons- eller karantenetid.Biosikkerhetsplanen for det godkjente karanteneanlegget og dokumentasjon på at planen gjennomføres.Dokumentasjon på at miljøparametrene i det godkjente karanteneanlegget bidrar til at tegn på relevante listeførte eller nye sykdommer vises.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente karanteneanlegg for akvakulturdyr føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt karanteneanlegget.
+2. Nærmere opplysninger om forflytninger til det godkjente karanteneanlegget, herunder
+
+   1. det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, eller
+   2. beliggenheten til habitatet som de akvatiske dyrene ble hentet fra før de ble sendt til det godkjente karanteneanlegget.
+3. Nærmere opplysninger om forflytninger fra det godkjente karanteneanlegget, herunder
+
+   1. det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget eller
+   2. beliggenheten til habitatet der akvakulturdyrene er satt ut i naturen.
+4. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente karanteneanlegget.
+5. Nærmere opplysninger om gjennomføringen og resultatene av sykdomsovervåkingen som er fastsatt i del 8 nr. 2 i vedlegg I.
+6. Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som er fastsatt i del 8 nr. 2 i vedlegg I.
+7. Eventuelle instruksjoner fra vedkommende myndighet når det gjelder observasjoner som ble gjort i en eventuell isolasjons- eller karantenetid.
+8. Biosikkerhetsplanen for det godkjente karanteneanlegget og dokumentasjon på at planen gjennomføres.
+9. Dokumentasjon på at miljøparametrene i det godkjente karanteneanlegget bidrar til at tegn på relevante listeførte eller nye sykdommer vises.
+10. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 31
 
 Journalføringsplikt for driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunderdet unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, ellerbeliggenheten til habitatet som de akvatiske dyrene ble hentet fra før de ble sendt til det godkjente akvakulturanlegget.Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunderdet unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget ellerved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget.Nærmere opplysninger om gjennomføringen og resultatene av sykdomsovervåkingen som er fastsatt i del 9 nr. 2 i vedlegg I.Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som er fastsatt i del 9 nr. 2 i vedlegg I.Eventuelle instruksjoner fra vedkommende myndighet når det gjelder observasjoner som ble gjort i isolasjonstiden på 90 dager nevnt i del 9 nr. 2 i vedlegg I.Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunder
+
+   1. det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg, eller
+   2. beliggenheten til habitatet som de akvatiske dyrene ble hentet fra før de ble sendt til det godkjente akvakulturanlegget.
+3. Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunder
+
+   1. det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget eller
+   2. ved utsetting i naturen, nærmere opplysninger om habitatet som akvakulturdyrene vil bli satt ut i.
+4. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget.
+5. Nærmere opplysninger om gjennomføringen og resultatene av sykdomsovervåkingen som er fastsatt i del 9 nr. 2 i vedlegg I.
+6. Resultatene av kliniske undersøkelser, laboratorieundersøkelser og kontroll post mortem som er fastsatt i del 9 nr. 2 i vedlegg I.
+7. Eventuelle instruksjoner fra vedkommende myndighet når det gjelder observasjoner som ble gjort i isolasjonstiden på 90 dager nevnt i del 9 nr. 2 i vedlegg I.
+8. Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.
+9. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 32
 
 Journalføringsplikt for driftsansvarlige for godkjente akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Gjeldende risikokategori for det godkjente akvakulturanlegget, som fastsatt av vedkommende myndighet.Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1, dersom det er relevant.Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg.Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, unntatt når det gjelder forflytninger til husholdninger.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget, unntatt når det gjelder forflytninger til husholdninger.Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til det godkjente akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra det godkjente akvakulturanlegget, etter hva som er relevant.Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Gjeldende risikokategori for det godkjente akvakulturanlegget, som fastsatt av vedkommende myndighet.
+3. Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1, dersom det er relevant.
+4. Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg.
+5. Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, unntatt når det gjelder forflytninger til husholdninger.
+6. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget, unntatt når det gjelder forflytninger til husholdninger.
+7. Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.
+8. Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til det godkjente akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra det godkjente akvakulturanlegget, etter hva som er relevant.
+9. Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
 
 ###### Artikkel 33
 
 Journalføringsplikt for driftsansvarlige for godkjente akvakulturanlegg som er åpne anlegg der det holdes akvariedyr
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.Gjeldende risikokategori for det godkjente akvakulturanlegget, som fastsatt av vedkommende myndighet.Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1, dersom det er relevant.Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg.Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, unntatt når det gjelder forflytninger til husholdninger.Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget, unntatt når det gjelder forflytninger til husholdninger.Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til det godkjente akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra det godkjente akvakulturanlegget, etter hva som er relevant.Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt akvakulturanlegget.
+2. Gjeldende risikokategori for det godkjente akvakulturanlegget, som fastsatt av vedkommende myndighet.
+3. Nærmere opplysninger om gjennomføringen og resultatene av den risikobaserte overvåkingen som er fastsatt i artikkel 6 nr. 1, dersom det er relevant.
+4. Nærmere opplysninger om forflytninger til det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til opprinnelsesanlegget for alle akvakulturdyr som mottas fra et annet akvakulturanlegg.
+5. Nærmere opplysninger om forflytninger fra det godkjente akvakulturanlegget, herunder det unike registrerings- eller godkjenningsnummeret til bestemmelsesanlegget, unntatt når det gjelder forflytninger til husholdninger.
+6. Navn på og adresse til transportører som leverer akvatiske dyr til eller henter akvakulturdyr fra det godkjente akvakulturanlegget, unntatt når det gjelder forflytninger til husholdninger.
+7. Biosikkerhetsplanen for det godkjente akvakulturanlegget og dokumentasjon på at planen gjennomføres.
+8. Egenerklæringsdokumenter utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), som ble mottatt sammen med forsendelser av akvakulturdyr som er kommet til det godkjente akvakulturanlegget, eller som ble sendt med forsendelser som er sendt fra det godkjente akvakulturanlegget, etter hva som er relevant.
+9. Alle andre dokumenter som følger med de akvatiske dyrene, dersom det er relevant.
 
 ###### Artikkel 34
 
 Journalføringsplikt for driftsansvarlige for godkjente fartøyer eller andre godkjente mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold
 
-I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, føre journal over og oppbevare følgende opplysninger:Det unike godkjenningsnummeret som vedkommende myndighet har tildelt fartøyet eller andre mobile anlegg.Dato og klokkeslett for når akvakulturdyrene ble lastet om bord på det godkjente fartøyet eller inn i andre godkjente mobile anlegg.Navn, adresse og unikt registrerings- eller godkjenningsnummer for hvert akvakulturanlegg der det ble lastet og losset akvakulturdyr, dersom det er relevant.Datoen når og stedet hvor fartøyet eller andre mobile anlegg ble fylt med vann før lasting, og dersom det er relevant, vannet ble skiftet ut mellom lasting og lossing.Nærmere opplysninger om ruten fra et akvakulturanlegg til et annet, dersom det er relevant.Nærmere opplysninger om hver behandling eller hver prosedyre knyttet til dyrehold som finner sted på det godkjente fartøyet eller i andre godkjente mobile anlegg.Biosikkerhetsplanen for det godkjente fartøyet eller andre godkjente mobile anlegg og dokumentasjon på at planen gjennomføres.Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
+I tillegg til opplysningene som kreves i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal driftsansvarlige for godkjente fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, føre journal over og oppbevare følgende opplysninger:
+
+1. Det unike godkjenningsnummeret som vedkommende myndighet har tildelt fartøyet eller andre mobile anlegg.
+2. Dato og klokkeslett for når akvakulturdyrene ble lastet om bord på det godkjente fartøyet eller inn i andre godkjente mobile anlegg.
+3. Navn, adresse og unikt registrerings- eller godkjenningsnummer for hvert akvakulturanlegg der det ble lastet og losset akvakulturdyr, dersom det er relevant.
+4. Datoen når og stedet hvor fartøyet eller andre mobile anlegg ble fylt med vann før lasting, og dersom det er relevant, vannet ble skiftet ut mellom lasting og lossing.
+5. Nærmere opplysninger om ruten fra et akvakulturanlegg til et annet, dersom det er relevant.
+6. Nærmere opplysninger om hver behandling eller hver prosedyre knyttet til dyrehold som finner sted på det godkjente fartøyet eller i andre godkjente mobile anlegg.
+7. Biosikkerhetsplanen for det godkjente fartøyet eller andre godkjente mobile anlegg og dokumentasjon på at planen gjennomføres.
+8. Alle andre dokumenter som følger med akvakulturdyrene, dersom det er relevant.
 
 ###### KAPITTEL 2
 
@@ -455,7 +722,16 @@ Journaler som skal føres av transportører
 
 Journalføringsplikt for transportører av akvatiske dyr
 
-I tillegg til opplysningene som kreves i artikkel 188 i forordning [(EU) 2016/429](eu/32016r0429), skal transportører av akvatiske dyr føre journal over og oppbevare følgende opplysninger for hvert transportmiddel som brukes til å flytte akvatiske dyr:Kjennemerket når det gjelder veitransport, IMO-identifikasjonsnummeret når det gjelder sjøtransport, eller andre identifikasjonsmerker som entydig identifiserer andre transportmidler som brukes til transport av akvatiske dyr.Dato og klokkeslett for når de akvatiske dyrene ble lastet i akvakulturanlegget eller opprinnelseshabitatet.Navn, adresse og unikt registerings- eller godkjenningsnummer for hvert akvakulturanlegg der transportmiddelet har vært.Beliggenheten til hvert habitat som de viltlevende akvatiske dyrene er hentet fra.Dato og klokkeslett for når de akvatiske dyrene ble losset i akvakulturanlegget eller bestemmelseshabitatet.Dato, klokkeslett og sted for eventuell utskifting av vann.Biosikkerhetsplanen for transportmiddelet og dokumentasjon på at planen gjennomføres.Referansenumrene på dokumentene som følger forsendelsene av akvatiske dyr.
+I tillegg til opplysningene som kreves i artikkel 188 i forordning [(EU) 2016/429](eu/32016r0429), skal transportører av akvatiske dyr føre journal over og oppbevare følgende opplysninger for hvert transportmiddel som brukes til å flytte akvatiske dyr:
+
+1. Kjennemerket når det gjelder veitransport, IMO-identifikasjonsnummeret når det gjelder sjøtransport, eller andre identifikasjonsmerker som entydig identifiserer andre transportmidler som brukes til transport av akvatiske dyr.
+2. Dato og klokkeslett for når de akvatiske dyrene ble lastet i akvakulturanlegget eller opprinnelseshabitatet.
+3. Navn, adresse og unikt registerings- eller godkjenningsnummer for hvert akvakulturanlegg der transportmiddelet har vært.
+4. Beliggenheten til hvert habitat som de viltlevende akvatiske dyrene er hentet fra.
+5. Dato og klokkeslett for når de akvatiske dyrene ble losset i akvakulturanlegget eller bestemmelseshabitatet.
+6. Dato, klokkeslett og sted for eventuell utskifting av vann.
+7. Biosikkerhetsplanen for transportmiddelet og dokumentasjon på at planen gjennomføres.
+8. Referansenumrene på dokumentene som følger forsendelsene av akvatiske dyr.
 
 ### DEL III
 OVERGANGS- OG SLUTTBESTEMMELSER
@@ -476,7 +752,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 30. januar 2020.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 30. januar 2020.
 
 |  |  |
 | --- | --- |
@@ -492,79 +770,351 @@ KRAV TIL GODKJENNING AV AKVAKULTURANLEGG, SOM NEVNT I DEL II AVDELING I KAPITTEL
 ### DEL 1
 Krav til godkjenning av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, som nevnt i artikkel 7
 
-1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, som nevnt i artikkel 7 bokstav b):Driftsansvarlige skal gjennomføre en biosikkerhetsplan i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.Dersom følgende funksjonelle enheter finnes i samme akvakulturanlegg, skal de holdes atskilt med egnede hygienebarrierer:Klekkeenheter.Oppfôringsenheter.Foredlingsenheter.Ekspedisjonssentral.Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal en egnet protokoll for rengjøring og desinfisering av utstyret følges.Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres på akvakulturanlegget, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig samtidig som det skal være praktisk mulig med tanke på den anvendte produksjonsmetoden, og skal sluttbehandles i samsvar med artikkel 13 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)8.Utstyr i akvakulturanlegget skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.Dersom akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvatiske dyr lastes eller losses i akvakulturanlegget.Driftsansvarlige skal utpeke en navngitt person som skal ha ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg, som nevnt i artikkel 7 bokstav c):Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i akvakulturanlegget.Akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, som nevnt i artikkel 7 bokstav b):
+
+   1. Driftsansvarlige skal gjennomføre en biosikkerhetsplan i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.
+      2. Dersom følgende funksjonelle enheter finnes i samme akvakulturanlegg, skal de holdes atskilt med egnede hygienebarrierer:
+
+         - Klekkeenheter.
+         - Oppfôringsenheter.
+         - Foredlingsenheter.
+         - Ekspedisjonssentral.
+      3. Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      4. Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal en egnet protokoll for rengjøring og desinfisering av utstyret følges.
+      5. Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på akvakulturanlegget, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      6. Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig samtidig som det skal være praktisk mulig med tanke på den anvendte produksjonsmetoden, og skal sluttbehandles i samsvar med artikkel 13 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)8.
+      7. Utstyr i akvakulturanlegget skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.
+      8. Dersom akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.
+      9. Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvatiske dyr lastes eller losses i akvakulturanlegget.
+   2. Driftsansvarlige skal utpeke en navngitt person som skal ha ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg, som nevnt i artikkel 7 bokstav c):
+
+   1. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i akvakulturanlegget.
+   2. Akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.
+   3. Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.
+   5. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
 
 8 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
 
 ### DEL 2
 Krav til godkjenning av grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr, som nevnt i artikkel 8
 
-1. Følgende krav gjelder biosikkerhetstiltak for grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra, som nevnt i artikkel 8 bokstav b):Driftsansvarlige skal gjennomføre en biosikkerhetsplan i samsvar med artikkel 5, og når de utarbeider biosikkerhetsplanen, skal de ta hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i hvert akvakulturanlegg i gruppen.Dersom følgende funksjonelle enheter finnes i samme akvakulturanlegg, skal de holdes atskilt med egnede hygienebarrierer:Klekkeenheter.Oppfôringsenheter.Foredlingsenheter.Ekspedisjonssentral.Personalets arbeidstøy og arbeidssko skal brukes utelukkende i det enkelte akvakulturanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal en egnet protokoll for rengjøring og desinfisering av utstyret følges.Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres på hvert akvakulturanlegg, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Døde akvakulturdyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig samtidig som det skal være praktisk mulig med tanke på den anvendte produksjonsmetoden, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Utstyr i hvert akvakulturanlegg skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.Dersom akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvakulturdyr lastes eller losses i akvakulturanlegget.Ansvaret for å gjennomføre tiltakene angitt i biosikkerhetsplanen skal ligge hosden driftsansvarlige for hvert enkelt akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),den driftsansvarlige for en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429).
-2. Følgende krav gjelder lokaler og utstyr i grupper av akvakulturanlegg, som nevnt i artikkel 8 bokstav c):Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i hvert akvakulturanlegg i gruppen.Hvert akvakulturanlegg i gruppen skal ha gode hygieniske forhold, og det skal være mulig å foreta helseovervåking.Utstyr og lokaler i hvert akvakulturanlegg i gruppen skal være framstilt av materialer som lett kan rengjøres og desinfiseres.Det skal være innført egnede tiltak for å bekjempe predatorer i hvert akvakulturanlegg i gruppen, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler i hvert akvakulturanlegg i gruppen.
+1. Følgende krav gjelder biosikkerhetstiltak for grupper av akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra, som nevnt i artikkel 8 bokstav b):
+
+   1. Driftsansvarlige skal gjennomføre en biosikkerhetsplan i samsvar med artikkel 5, og når de utarbeider biosikkerhetsplanen, skal de ta hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i hvert akvakulturanlegg i gruppen.
+      2. Dersom følgende funksjonelle enheter finnes i samme akvakulturanlegg, skal de holdes atskilt med egnede hygienebarrierer:
+
+         - Klekkeenheter.
+         - Oppfôringsenheter.
+         - Foredlingsenheter.
+         - Ekspedisjonssentral.
+      3. Personalets arbeidstøy og arbeidssko skal brukes utelukkende i det enkelte akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      4. Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal en egnet protokoll for rengjøring og desinfisering av utstyret følges.
+      5. Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på hvert akvakulturanlegg, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      6. Døde akvakulturdyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig samtidig som det skal være praktisk mulig med tanke på den anvendte produksjonsmetoden, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+      7. Utstyr i hvert akvakulturanlegg skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.
+      8. Dersom akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.
+      9. Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvakulturdyr lastes eller losses i akvakulturanlegget.
+   2. Ansvaret for å gjennomføre tiltakene angitt i biosikkerhetsplanen skal ligge hos
+
+      1. den driftsansvarlige for hvert enkelt akvakulturanlegg i en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),
+      2. den driftsansvarlige for en gruppe av akvakulturanlegg som er godkjent i samsvar med artikkel 177 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429).
+2. Følgende krav gjelder lokaler og utstyr i grupper av akvakulturanlegg, som nevnt i artikkel 8 bokstav c):
+
+   1. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i hvert akvakulturanlegg i gruppen.
+   2. Hvert akvakulturanlegg i gruppen skal ha gode hygieniske forhold, og det skal være mulig å foreta helseovervåking.
+   3. Utstyr og lokaler i hvert akvakulturanlegg i gruppen skal være framstilt av materialer som lett kan rengjøres og desinfiseres.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer i hvert akvakulturanlegg i gruppen, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.
+   5. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler i hvert akvakulturanlegg i gruppen.
 
 ### DEL 3
 Krav til godkjenning av avgrensede akvakulturanlegg, som nevnt i artikkel 9
 
-1. Følgende krav gjelder biosikkerhetstiltak for avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav b):Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i det avgrensede akvakulturanlegget.Dersom det finnes ulike funksjonelle enheter i samme avgrensede akvakulturanlegg, skal de holdes atskilt med hygienebarrierer.Personalets arbeidstøy og arbeidssko skal oppbevares i det avgrensede akvakulturanlegget og rengjøres og desinfiseres regelmessig.Besøkende skal bruke vernetøy og vernesko som utleveres av den driftsansvarlige.Utstyr skal ikke deles med andre akvakulturanlegg.Døde dyr skal fjernes hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Utstyret i det avgrensede akvakulturanlegget skal rengjøres og desinfiseres tilstrekkelig hyppig.Dersom avgrensede akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig og ikke påvirker forskningsmålene, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvakulturdyr lastes eller losses i anlegget.Driftsansvarlige skal utpeke en navngitt person som skal ha ansvar for å gjennomføre det avgrensede akvakulturanleggets biosikkerhetsplan, og annet personale skal rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder overvåkings- og kontrolltiltak for avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav c):En plan for sykdomsovervåking skal gjennomføres, og den skal omfatte egnede tiltak for å bekjempe sykdom hos akvakulturdyr og skal ajourføres etter hvor mange og hvilke arter av akvakulturdyr som finnes i det avgrensede akvakulturanlegget, og den epidemiologiske situasjonen i og omkring det avgrensede akvakulturanlegget når det gjelder listeførte og nye sykdommer.Akvakulturdyr som mistenkes å være smittet av agenser som forårsaker listeførte eller nye sykdommer, skal gjennomgå kliniske undersøkelser, laboratorieundersøkelser eller kontroll post mortem.Akvakulturdyr skal vaksineres og behandles mot smittsomme sykdommer etter behov.
-3. Følgende krav gjelder lokaler og utstyr i avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav d):akvakulturanlegg skal være tydelig avgrenset, og akvatiske dyrs og menneskers adgang til lokaler for dyr skal holdes under kontroll.Det skal om nødvendig finnes egnede lokaler til å sette akvakulturdyr som innføres fra andre anlegg, i karantene.Det skal være mulig å holde akvakulturdyr i isolasjon.Tanker og andre beholdere skal ha tilfredsstillende standard og være utformet slik atkontakt med akvatiske dyr utenfor disse forhindres, og slik at det lett kan gjennomføres kontroll og eventuell nødvendig behandling,gulv, vegger og alt annet materiale eller utstyr lett kan rengjøres og desinfiseres.Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i det avgrensede akvakulturanlegget.Det avgrensede akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra det avgrensede akvakulturanlegget, behandles på en måte som sikrer at eventuelle smittsomme agenser som forårsaker listeførte eller nye sykdommer, er fullstendig inaktivert før spillvannet slippes ut.
+1. Følgende krav gjelder biosikkerhetstiltak for avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav b):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i det avgrensede akvakulturanlegget.
+      2. Dersom det finnes ulike funksjonelle enheter i samme avgrensede akvakulturanlegg, skal de holdes atskilt med hygienebarrierer.
+      3. Personalets arbeidstøy og arbeidssko skal oppbevares i det avgrensede akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      4. Besøkende skal bruke vernetøy og vernesko som utleveres av den driftsansvarlige.
+      5. Utstyr skal ikke deles med andre akvakulturanlegg.
+      6. Døde dyr skal fjernes hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+      7. Utstyret i det avgrensede akvakulturanlegget skal rengjøres og desinfiseres tilstrekkelig hyppig.
+      8. Dersom avgrensede akvakulturanlegg mottar befruktede egg fra andre anlegg, skal disse eggene dersom det er biologisk mulig og ikke påvirker forskningsmålene, desinfiseres på en hensiktsmessig måte ved ankomst, og all emballasje skal desinfiseres eller sluttbehandles på en biosikker måte.
+      9. Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før akvakulturdyr lastes eller losses i anlegget.
+   2. Driftsansvarlige skal utpeke en navngitt person som skal ha ansvar for å gjennomføre det avgrensede akvakulturanleggets biosikkerhetsplan, og annet personale skal rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder overvåkings- og kontrolltiltak for avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav c):
+
+   1. En plan for sykdomsovervåking skal gjennomføres, og den skal omfatte egnede tiltak for å bekjempe sykdom hos akvakulturdyr og skal ajourføres etter hvor mange og hvilke arter av akvakulturdyr som finnes i det avgrensede akvakulturanlegget, og den epidemiologiske situasjonen i og omkring det avgrensede akvakulturanlegget når det gjelder listeførte og nye sykdommer.
+   2. Akvakulturdyr som mistenkes å være smittet av agenser som forårsaker listeførte eller nye sykdommer, skal gjennomgå kliniske undersøkelser, laboratorieundersøkelser eller kontroll post mortem.
+   3. Akvakulturdyr skal vaksineres og behandles mot smittsomme sykdommer etter behov.
+3. Følgende krav gjelder lokaler og utstyr i avgrensede akvakulturanlegg, som nevnt i artikkel 9 bokstav d):
+
+   1. akvakulturanlegg skal være tydelig avgrenset, og akvatiske dyrs og menneskers adgang til lokaler for dyr skal holdes under kontroll.
+   2. Det skal om nødvendig finnes egnede lokaler til å sette akvakulturdyr som innføres fra andre anlegg, i karantene.
+   3. Det skal være mulig å holde akvakulturdyr i isolasjon.
+   4. Tanker og andre beholdere skal ha tilfredsstillende standard og være utformet slik at
+
+      1. kontakt med akvatiske dyr utenfor disse forhindres, og slik at det lett kan gjennomføres kontroll og eventuell nødvendig behandling,
+      2. gulv, vegger og alt annet materiale eller utstyr lett kan rengjøres og desinfiseres.
+   5. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i det avgrensede akvakulturanlegget.
+   6. Det avgrensede akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.
+   7. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   8. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+   9. Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra det avgrensede akvakulturanlegget, behandles på en måte som sikrer at eventuelle smittsomme agenser som forårsaker listeførte eller nye sykdommer, er fullstendig inaktivert før spillvannet slippes ut.
 
 ### DEL 4
 Krav til godkjenning av næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som nevnt i artikkel 11
 
-1. Følgende krav gjelder biosikkerhetstiltak for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som nevnt i artikkel 11 bokstav a):Driftsansvarlige skal gjennomføre biosikkerhetsplanen for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, i samsvar med artikkel 5, der det skal tas hensyn til minst følgende elementer når dyr som er smittet av en listeført eller ny sykdom, slaktes eller foredles i foretakets lokaler:Besøk til foretaket skal unngås, men dersom det er uunngåelig, skal de besøkende kontrolleres, og den driftsansvarlige skal utlevere vernetøy og vernesko som sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.Personalet ved næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal bruke vernetøy og vernesko som skal rengjøres og desinfiseres tilstrekkelig hyppig.Foretaket skal ha et egnet desinfeksjonssystem for å sikre at spillvann fra næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, behandles på en måte som sikrer at eventuelle sykdomsagenser er inaktivert før spillvannet slippes ut.Foretaket skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter; slike biprodukter skal bearbeides som kategori 1- eller kategori 2-materiale i samsvar med artikkel 12 eller artikkel 13 i forordning (EF) nr. 1069/2009.Tilstrekkelig rengjøring og desinfisering skal være foretatt før nye forsendelser av akvatiske dyr beregnet på foredling ankommer foretaket.Det skal være innført egnede tiltak for å sikre at alle transportmidler og tilhørende containere som brukes til å levere akvatiske dyr til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, rengjøres og desinfiseres før de forlater foretaket.
-2. Følgende krav gjelder lokaler og utstyr i næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som nevnt i artikkel 11 bokstav b):Gulv, vegger og alt annet materiale eller utstyr skal lett kunne rengjøres og desinfiseres.Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, behandles på en måte som sikrer at eventuelle smittsomme agenser som forårsaker listeførte eller nye sykdommer, er fullstendig inaktivert før spillvannet slippes ut.Det skal finnes egnet utstyr som er forenlig med foretakets type produksjonsvirksomhet, til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+1. Følgende krav gjelder biosikkerhetstiltak for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som nevnt i artikkel 11 bokstav a):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, i samsvar med artikkel 5, der det skal tas hensyn til minst følgende elementer når dyr som er smittet av en listeført eller ny sykdom, slaktes eller foredles i foretakets lokaler:
+
+      1. Besøk til foretaket skal unngås, men dersom det er uunngåelig, skal de besøkende kontrolleres, og den driftsansvarlige skal utlevere vernetøy og vernesko som sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.
+      2. Personalet ved næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal bruke vernetøy og vernesko som skal rengjøres og desinfiseres tilstrekkelig hyppig.
+      3. Foretaket skal ha et egnet desinfeksjonssystem for å sikre at spillvann fra næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, behandles på en måte som sikrer at eventuelle sykdomsagenser er inaktivert før spillvannet slippes ut.
+      4. Foretaket skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter; slike biprodukter skal bearbeides som kategori 1- eller kategori 2-materiale i samsvar med artikkel 12 eller artikkel 13 i forordning (EF) nr. 1069/2009.
+      5. Tilstrekkelig rengjøring og desinfisering skal være foretatt før nye forsendelser av akvatiske dyr beregnet på foredling ankommer foretaket.
+      6. Det skal være innført egnede tiltak for å sikre at alle transportmidler og tilhørende containere som brukes til å levere akvatiske dyr til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, rengjøres og desinfiseres før de forlater foretaket.
+2. Følgende krav gjelder lokaler og utstyr i næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som nevnt i artikkel 11 bokstav b):
+
+   1. Gulv, vegger og alt annet materiale eller utstyr skal lett kunne rengjøres og desinfiseres.
+   2. Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, behandles på en måte som sikrer at eventuelle smittsomme agenser som forårsaker listeførte eller nye sykdommer, er fullstendig inaktivert før spillvannet slippes ut.
+   3. Det skal finnes egnet utstyr som er forenlig med foretakets type produksjonsvirksomhet, til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
 
 ### DEL 5
 Krav til godkjenning av rensesentraler, som nevnt i artikkel 12
 
-1. Følgende krav gjelder biosikkerhetstiltak for rensesentraler, som nevnt i artikkel 12 bokstav a):Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder på rensesentralen.Personalets arbeidstøy og arbeidssko skal brukes utelukkende på rensesentralen og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom anlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.Besøkende til rensesentralen skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres på rensesentralen, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til rensesentralen, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra rensesentralen.Utstyr på rensesentralen skal rengjøres og desinfiseres etter rensesyklusen.Spillvann fra rensesentralen skal ikke slippes ut direkte til vannforekomster uten tilstrekkelig behandling dersom de akvatiske dyrenes helsestatus kan settes i fare av listeførte eller nye sykdommer.
-2. Følgende krav gjelder lokaler og utstyr på rensesentraler, som nevnt i artikkel 12 bokstav b):Rensesentralen skal ha gode hygieniske forhold.Utstyr og lokaler skal være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra rensesentralen, behandles ved behov for å sikre at eventuelle agenser som forårsaker listeførte eller nye sykdommer, er inaktivert før avløpsvannet slippes ut.
+1. Følgende krav gjelder biosikkerhetstiltak for rensesentraler, som nevnt i artikkel 12 bokstav a):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder på rensesentralen.
+      2. Personalets arbeidstøy og arbeidssko skal brukes utelukkende på rensesentralen og rengjøres og desinfiseres regelmessig.
+      3. Utstyr skal ikke deles mellom anlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.
+      4. Besøkende til rensesentralen skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på rensesentralen, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til rensesentralen, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra rensesentralen.
+      5. Utstyr på rensesentralen skal rengjøres og desinfiseres etter rensesyklusen.
+      6. Spillvann fra rensesentralen skal ikke slippes ut direkte til vannforekomster uten tilstrekkelig behandling dersom de akvatiske dyrenes helsestatus kan settes i fare av listeførte eller nye sykdommer.
+2. Følgende krav gjelder lokaler og utstyr på rensesentraler, som nevnt i artikkel 12 bokstav b):
+
+   1. Rensesentralen skal ha gode hygieniske forhold.
+   2. Utstyr og lokaler skal være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   3. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+   5. Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra rensesentralen, behandles ved behov for å sikre at eventuelle agenser som forårsaker listeførte eller nye sykdommer, er inaktivert før avløpsvannet slippes ut.
 
 ### DEL 6
 Krav til godkjenning av ekspedisjonssentraler, som nevnt i artikkel 13
 
-1. Følgende krav gjelder biosikkerhetstiltak for ekspedisjonssentraler, som nevnt i artikkel 13 bokstav a):Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder på ekspedisjonssentralen.Personalets arbeidstøy og arbeidssko skal brukes utelukkende på ekspedisjonssentralen og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom anlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.Besøkende til ekspedisjonssentralen skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres på anlegget, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til anlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Utstyr på ekspedisjonssentralen skal rengjøres og desinfiseres etter ekspedisjonsprosessen.Spillvann fra ekspedisjonssentralen skal ikke slippes ut direkte til vannforekomster uten tilstrekkelig behandling dersom de akvatiske dyrenes helsestatus kan settes i fare av listeførte eller nye sykdommer.
-2. Følgende krav gjelder lokaler og utstyr på ekspedisjonssentraler, som nevnt i artikkel 13 bokstav b):Ekspedisjonssentralen skal ha gode hygieniske forhold.Utstyr og lokaler skal være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra ekspedisjonssentralen, behandles ved behov for å sikre at eventuelle agenser som forårsaker listeførte eller nye sykdommer, er inaktivert før spillvannet slippes ut.
+1. Følgende krav gjelder biosikkerhetstiltak for ekspedisjonssentraler, som nevnt i artikkel 13 bokstav a):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder på ekspedisjonssentralen.
+      2. Personalets arbeidstøy og arbeidssko skal brukes utelukkende på ekspedisjonssentralen og rengjøres og desinfiseres regelmessig.
+      3. Utstyr skal ikke deles mellom anlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.
+      4. Besøkende til ekspedisjonssentralen skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på anlegget, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til anlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      5. Utstyr på ekspedisjonssentralen skal rengjøres og desinfiseres etter ekspedisjonsprosessen.
+      6. Spillvann fra ekspedisjonssentralen skal ikke slippes ut direkte til vannforekomster uten tilstrekkelig behandling dersom de akvatiske dyrenes helsestatus kan settes i fare av listeførte eller nye sykdommer.
+2. Følgende krav gjelder lokaler og utstyr på ekspedisjonssentraler, som nevnt i artikkel 13 bokstav b):
+
+   1. Ekspedisjonssentralen skal ha gode hygieniske forhold.
+   2. Utstyr og lokaler skal være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   3. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+   5. Det skal finnes egnet desinfeksjonsutstyr for å sikre at alt spillvann som slippes ut fra ekspedisjonssentralen, behandles ved behov for å sikre at eventuelle agenser som forårsaker listeførte eller nye sykdommer, er inaktivert før spillvannet slippes ut.
 
 ### DEL 7
 Krav til godkjenning av gjenutleggingsområder, som nevnt i artikkel 14
 
-1. Følgende krav gjelder biosikkerhetstiltak for gjenutleggingsområder, som nevnt i artikkel 14 bokstav a):Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i gjenutleggingsområdet.Personalets arbeidstøy og arbeidssko skal brukes utelukkende i gjenutleggingsområdet og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.Besøkende til gjenutleggingsområdet skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres i gjenutleggingsområdet, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til gjenutleggingsområdet, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra gjenutleggingsområdet.Utstyr i gjenutleggingsområdet skal så langt det er mulig rengjøres og desinfiseres etter hver rensesyklus.
-2. Følgende krav gjelder lokaler og utstyr i gjenutleggingsområder, som nevnt i artikkel 14 bokstav b):Gjenutleggingsområdet skal så langt det er mulig ha gode hygieniske forhold.Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, dersom det er relevant, og utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og gjenutleggingsområdets miljømessige begrensninger.
+1. Følgende krav gjelder biosikkerhetstiltak for gjenutleggingsområder, som nevnt i artikkel 14 bokstav a):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i gjenutleggingsområdet.
+      2. Personalets arbeidstøy og arbeidssko skal brukes utelukkende i gjenutleggingsområdet og rengjøres og desinfiseres regelmessig.
+      3. Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.
+      4. Besøkende til gjenutleggingsområdet skal kontrolleres dersom de utgjør en risiko for spredning av sykdom, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres i gjenutleggingsområdet, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til gjenutleggingsområdet, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra gjenutleggingsområdet.
+      5. Utstyr i gjenutleggingsområdet skal så langt det er mulig rengjøres og desinfiseres etter hver rensesyklus.
+2. Følgende krav gjelder lokaler og utstyr i gjenutleggingsområder, som nevnt i artikkel 14 bokstav b):
+
+   1. Gjenutleggingsområdet skal så langt det er mulig ha gode hygieniske forhold.
+   2. Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   3. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, dersom det er relevant, og utstyr og transportmidler.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør, og gjenutleggingsområdets miljømessige begrensninger.
 
 ### DEL 8
 Krav til godkjenning av karanteneanlegg, som nevnt i artikkel 15
 
-1. Følgende krav gjelder biosikkerhetstiltak for karanteneanlegg for akvatiske dyr, som nevnt i artikkel 15 bokstav a):Karanteneanlegget skal ligge i sikker avstand fra andre karanteneanlegg, akvakulturanlegg eller grupper av akvakulturanlegg med en avstand som vedkommende myndighet fastsetter på grunnlag av en risikovurdering der det skal tas hensyn til de relevante listeførte og nye sykdommenes epidemiologi.Den driftsansvarlige skal gjennomføre biosikkerhetsplanen som er fastsatt i artikkel 5, og som skal omfatte minst følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder som er angitt i biosikkerhetsplanen.Dersom det finnes flere karanteneenheter i samme karanteneanlegg, skal det treffes tiltak for å sikre at enhetene er epidemiologisk atskilt.Personalets arbeidstøy og arbeidssko skal oppbevares i karanteneanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom karanteneenheter i et karanteneanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret. Utstyr skal ikke deles med andre anlegg.Bare personer med adgangstillatelse skal ha adgang til karanteneanlegget.Personer som går inn i karanteneanlegget, skal bruke det vernetøyet og de verneskoene som blir utlevert, og dette skal sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.Døde dyr skal fjernes fra alle karanteneenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med artikkel 12 eller 13 i forordning (EF) nr. 1069/2009.Alt utstyr i karanteneanleggene skal rengjøres og desinfiseres når karantenetiden er over.Den påkrevde karantenetiden skal begynne når det siste akvatiske dyret i kohorten som skal settes i karantene, innføres.Hver karanteneenhet skal tømmes for dyr, rengjøres og desinfiseres etter karantenetiden og holdes tom for dyr i minst sju dager før nye akvatiske dyr innføres.Det skal tas forholdsregler for å hindre krysskontaminering mellom innkommende og utgående forsendelser av akvatiske dyr.Dyr som frigis fra karanteneanlegget, skal oppfylle kravene til forflytning av akvakulturdyr mellom medlemsstater.En navngitt person skal ha ansvar for å gjennomføre karanteneanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder overvåkings- og kontrolltiltak for karanteneanlegg for akvakulturdyr, som nevnt i artikkel 15 bokstav b):Miljøforhold som ligger til rette for at de kliniske tegnene på de relevante listeførte eller nye sykdommene uttrykkes, skal opprettholdes i karanteneanlegget i hele karantenetiden.Alle akvakulturdyr som dør eller har symptomer på sykdom i karantenetiden, skal undersøkes klinisk av en veterinær, og det skal foretas testing av prøver ved et laboratorium som vedkommende myndighet har utpekt for dette formålet.Fisk, bløtdyr og krepsdyr av listeførte arter skal settes i karantene under forholdene angitt i bokstav a) i minst 90 dager.Innen 15 dager etter karantenetidens utløp skal det tas prøver fra det antallet akvakulturdyr som vil sikre at det relevante patogenet påvises med et konfidensnivå på 95 % dersom målprevalensen er 2 %. Disse akvakulturdyrene kan tas fra kohorten som er satt i karantene, eller fra kontrollakvakulturdyr som deler habitat og som er mottakelige for den relevante listeførte eller nye sykdommen og brukes som diagnostisk hjelpemiddel under karantenen.
-3. Følgende krav gjelder lokaler og utstyr i karanteneanlegg for akvakulturdyr, som nevnt i artikkel 15 bokstav c):Karanteneanleggets vannforsyning skal være fri for agenser som forårsaker den relevante listeførte eller nye sykdommen.Spillvann fra karanteneanlegget skal behandles på en måte som sikrer at smittsomme agenser som forårsaker listeførte og nye sykdommer, er inaktivert før spillvannet slippes ut.Systemet for rensing av spillvann skal være utstyrt med et feilsikkert reservesystem som sikrer kontinuerlig drift og fullstendig inneslutning av de relevante smittsomme agensene.Karanteneanleggene skal være tydelig avgrenset, og dyrs og menneskers adgang skal holdes under kontroll.Personale som har ansvar for å foreta veterinærkontroll, skal ha lokaler med tilstrekkelig utstyr til rådighet, om nødvendig med garderober og dusjer.Det skal være mulig å holde akvakulturdyr i isolasjon ved behov.Gulv, vegger og alt annet materiale eller utstyr skal være utformet slik at de/det kan rengjøres og desinfiseres på en hensiktsmessig måte.Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.Den delen av karanteneanlegget der akvakulturdyrene holdes, skal ha tilfredsstillende standard og være utformet slik at kontakt med vann og dyr utenfor denne delen forhindres, og slik at kontroll og andre nødvendige prosedyrer knyttet til dyrehold lett kan utføres.
+1. Følgende krav gjelder biosikkerhetstiltak for karanteneanlegg for akvatiske dyr, som nevnt i artikkel 15 bokstav a):
+
+   1. Karanteneanlegget skal ligge i sikker avstand fra andre karanteneanlegg, akvakulturanlegg eller grupper av akvakulturanlegg med en avstand som vedkommende myndighet fastsetter på grunnlag av en risikovurdering der det skal tas hensyn til de relevante listeførte og nye sykdommenes epidemiologi.
+   2. Den driftsansvarlige skal gjennomføre biosikkerhetsplanen som er fastsatt i artikkel 5, og som skal omfatte minst følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder som er angitt i biosikkerhetsplanen.
+      2. Dersom det finnes flere karanteneenheter i samme karanteneanlegg, skal det treffes tiltak for å sikre at enhetene er epidemiologisk atskilt.
+      3. Personalets arbeidstøy og arbeidssko skal oppbevares i karanteneanlegget og rengjøres og desinfiseres regelmessig.
+      4. Utstyr skal ikke deles mellom karanteneenheter i et karanteneanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret. Utstyr skal ikke deles med andre anlegg.
+      5. Bare personer med adgangstillatelse skal ha adgang til karanteneanlegget.
+      6. Personer som går inn i karanteneanlegget, skal bruke det vernetøyet og de verneskoene som blir utlevert, og dette skal sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.
+      7. Døde dyr skal fjernes fra alle karanteneenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med artikkel 12 eller 13 i forordning (EF) nr. 1069/2009.
+      8. Alt utstyr i karanteneanleggene skal rengjøres og desinfiseres når karantenetiden er over.
+      9. Den påkrevde karantenetiden skal begynne når det siste akvatiske dyret i kohorten som skal settes i karantene, innføres.
+      10. Hver karanteneenhet skal tømmes for dyr, rengjøres og desinfiseres etter karantenetiden og holdes tom for dyr i minst sju dager før nye akvatiske dyr innføres.
+      11. Det skal tas forholdsregler for å hindre krysskontaminering mellom innkommende og utgående forsendelser av akvatiske dyr.
+      12. Dyr som frigis fra karanteneanlegget, skal oppfylle kravene til forflytning av akvakulturdyr mellom medlemsstater.
+   3. En navngitt person skal ha ansvar for å gjennomføre karanteneanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder overvåkings- og kontrolltiltak for karanteneanlegg for akvakulturdyr, som nevnt i artikkel 15 bokstav b):
+
+   1. Miljøforhold som ligger til rette for at de kliniske tegnene på de relevante listeførte eller nye sykdommene uttrykkes, skal opprettholdes i karanteneanlegget i hele karantenetiden.
+   2. Alle akvakulturdyr som dør eller har symptomer på sykdom i karantenetiden, skal undersøkes klinisk av en veterinær, og det skal foretas testing av prøver ved et laboratorium som vedkommende myndighet har utpekt for dette formålet.
+   3. Fisk, bløtdyr og krepsdyr av listeførte arter skal settes i karantene under forholdene angitt i bokstav a) i minst 90 dager.
+   4. Innen 15 dager etter karantenetidens utløp skal det tas prøver fra det antallet akvakulturdyr som vil sikre at det relevante patogenet påvises med et konfidensnivå på 95 % dersom målprevalensen er 2 %. Disse akvakulturdyrene kan tas fra kohorten som er satt i karantene, eller fra kontrollakvakulturdyr som deler habitat og som er mottakelige for den relevante listeførte eller nye sykdommen og brukes som diagnostisk hjelpemiddel under karantenen.
+3. Følgende krav gjelder lokaler og utstyr i karanteneanlegg for akvakulturdyr, som nevnt i artikkel 15 bokstav c):
+
+   1. Karanteneanleggets vannforsyning skal være fri for agenser som forårsaker den relevante listeførte eller nye sykdommen.
+   2. Spillvann fra karanteneanlegget skal behandles på en måte som sikrer at smittsomme agenser som forårsaker listeførte og nye sykdommer, er inaktivert før spillvannet slippes ut.
+   3. Systemet for rensing av spillvann skal være utstyrt med et feilsikkert reservesystem som sikrer kontinuerlig drift og fullstendig inneslutning av de relevante smittsomme agensene.
+   4. Karanteneanleggene skal være tydelig avgrenset, og dyrs og menneskers adgang skal holdes under kontroll.
+   5. Personale som har ansvar for å foreta veterinærkontroll, skal ha lokaler med tilstrekkelig utstyr til rådighet, om nødvendig med garderober og dusjer.
+   6. Det skal være mulig å holde akvakulturdyr i isolasjon ved behov.
+   7. Gulv, vegger og alt annet materiale eller utstyr skal være utformet slik at de/det kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   8. Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+   9. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+   10. Den delen av karanteneanlegget der akvakulturdyrene holdes, skal ha tilfredsstillende standard og være utformet slik at kontakt med vann og dyr utenfor denne delen forhindres, og slik at kontroll og andre nødvendige prosedyrer knyttet til dyrehold lett kan utføres.
 
 ### DEL 9
 Krav til godkjenning av akvakulturanlegg der akvakulturdyr av vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16
 
-1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav a):Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5 som skal omfatte minst følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.Dersom det finnes flere isolasjonsenheter i samme akvakulturanlegg, skal det treffes egnede tiltak for å sikre at enhetene er epidemiologisk atskilt.Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom isolasjonsenheter i et akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret. Utstyr skal ikke deles med andre anlegg.Bare personer med adgangstillatelse skal ha adgang til akvakulturanlegget.Personer som går inn i akvakulturanlegget, skal bruke det vernetøyet og de verneskoene som blir utlevert, og dette skal sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.Døde dyr skal fjernes fra alle produksjonsenheter i anlegget hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Alt utstyr i akvakulturanlegget, eller i den relevante isolasjonsenheten dersom akvakulturanlegget består av mer enn én slik enhet, skal rengjøres og desinfiseres når isolasjonstiden er over.Isolasjonstiden nevnt i nr. 2 skal begynne først når det siste dyret i kohorten plasseres i akvakulturanlegget, men dersom det er flere isolasjonsenheter i akvakulturenheten, skal isolasjonstiden begynne først når det siste dyret i kohorten plasseres i isolasjonsenheten.Hver isolasjonsenhet i akvakulturanlegget skal tømmes for dyr og rengjøres og desinfiseres når isolasjonstiden er over.Det skal tas forholdsregler for å hindre krysskontaminering mellom innkommende og utgående forsendelser av akvatiske dyr.Dyr som frigis fra akvakulturanlegget der de har vært i isolasjon, skal oppfylle kravene til forflytning av akvatiske dyr mellom medlemsstater.Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder overvåkings- og kontrolltiltak for akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav b):Fisk, bløtdyr og krepsdyr av listeførte arter skal holdes i isolasjon i minst 90 dager.Alle akvakulturdyr som dør eller har symptomer på sykdom i isolasjonstiden på 90 dager, skal undersøkes klinisk av en veterinær, og det skal foretas testing av prøver ved et laboratorium som vedkommende myndighet har utpekt for dette formålet.
-3. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav c):Det skal være mulig å holde akvakulturdyr i isolasjon.Akvakulturanleggets vannforsyning skal være fri for listeførte arter og agenser som forårsaker de relevante listeførte eller nye sykdommene.Dersom det er nødvendig for ikke å sette resipientens helsestatus i fare, skal spillvann fra akvakulturanlegget behandles på en måte som sikrer at smittsomme agenser som forårsaker listeførte og nye sykdommer, er inaktivert før spillvannet slippes ut.Dyrs adgang til akvakulturanlegget skal holdes under kontroll.Gulv, vegger og alt annet materiale eller utstyr skal være utformet slik at de/det kan rengjøres og desinfiseres på en hensiktsmessig måte.Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav a):
+
+   1. Driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5 som skal omfatte minst følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.
+      2. Dersom det finnes flere isolasjonsenheter i samme akvakulturanlegg, skal det treffes egnede tiltak for å sikre at enhetene er epidemiologisk atskilt.
+      3. Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      4. Utstyr skal ikke deles mellom isolasjonsenheter i et akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret. Utstyr skal ikke deles med andre anlegg.
+      5. Bare personer med adgangstillatelse skal ha adgang til akvakulturanlegget.
+      6. Personer som går inn i akvakulturanlegget, skal bruke det vernetøyet og de verneskoene som blir utlevert, og dette skal sluttbehandles eller rengjøres og desinfiseres på en sikker måte etter bruk.
+      7. Døde dyr skal fjernes fra alle produksjonsenheter i anlegget hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+      8. Alt utstyr i akvakulturanlegget, eller i den relevante isolasjonsenheten dersom akvakulturanlegget består av mer enn én slik enhet, skal rengjøres og desinfiseres når isolasjonstiden er over.
+      9. Isolasjonstiden nevnt i nr. 2 skal begynne først når det siste dyret i kohorten plasseres i akvakulturanlegget, men dersom det er flere isolasjonsenheter i akvakulturenheten, skal isolasjonstiden begynne først når det siste dyret i kohorten plasseres i isolasjonsenheten.
+      10. Hver isolasjonsenhet i akvakulturanlegget skal tømmes for dyr og rengjøres og desinfiseres når isolasjonstiden er over.
+      11. Det skal tas forholdsregler for å hindre krysskontaminering mellom innkommende og utgående forsendelser av akvatiske dyr.
+      12. Dyr som frigis fra akvakulturanlegget der de har vært i isolasjon, skal oppfylle kravene til forflytning av akvatiske dyr mellom medlemsstater.
+   2. Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder overvåkings- og kontrolltiltak for akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav b):
+
+   1. Fisk, bløtdyr og krepsdyr av listeførte arter skal holdes i isolasjon i minst 90 dager.
+   2. Alle akvakulturdyr som dør eller har symptomer på sykdom i isolasjonstiden på 90 dager, skal undersøkes klinisk av en veterinær, og det skal foretas testing av prøver ved et laboratorium som vedkommende myndighet har utpekt for dette formålet.
+3. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg der akvakulturdyr av listeførte vektorarter holdes i isolasjon inntil de ikke lenger anses som vektorer, som nevnt i artikkel 16 bokstav c):
+
+   1. Det skal være mulig å holde akvakulturdyr i isolasjon.
+   2. Akvakulturanleggets vannforsyning skal være fri for listeførte arter og agenser som forårsaker de relevante listeførte eller nye sykdommene.
+   3. Dersom det er nødvendig for ikke å sette resipientens helsestatus i fare, skal spillvann fra akvakulturanlegget behandles på en måte som sikrer at smittsomme agenser som forårsaker listeførte og nye sykdommer, er inaktivert før spillvannet slippes ut.
+   4. Dyrs adgang til akvakulturanlegget skal holdes under kontroll.
+   5. Gulv, vegger og alt annet materiale eller utstyr skal være utformet slik at de/det kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   6. Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+   7. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
 
 ### DEL 10
 Krav til godkjenning av akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, som nevnt i artikkel 17
 
-1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, som nevnt i artikkel 17:Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i anlegget.Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko. Disse besøkende skal entenbruke vernetøy og vernesko som utleveres på akvakulturanlegget, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.En navngitt person skal ha ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, som nevnt i artikkel 17 bokstav c):Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de dyrene som holdes i anlegget.Akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta helseovervåking.Utstyr og lokaler skal være framstilt av materialer som lett kan rengjøres og desinfiseres.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, som nevnt i artikkel 17:
+
+   1. Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i anlegget.
+      2. Personalets arbeidstøy og arbeidssko skal brukes utelukkende i akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      3. Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko. Disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på akvakulturanlegget, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      4. Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+   2. En navngitt person skal ha ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg som er lukkede anlegg der det holdes akvariedyr, og der forflytningsmønstrene utgjør en vesentlig sykdomsrisiko, som nevnt i artikkel 17 bokstav c):
+
+   1. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de dyrene som holdes i anlegget.
+   2. Akvakulturanlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta helseovervåking.
+   3. Utstyr og lokaler skal være framstilt av materialer som lett kan rengjøres og desinfiseres.
+   4. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   5. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen for spredning av sykdommer som disse predatorene utgjør.
+   6. Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
 
 ### DEL 11
 Krav til godkjenning av akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, som nevnt i artikkel 18
 
-1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, som nevnt i artikkel 18 bokstav b):Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.Dersom det finnes ulike funksjonelle enheter i samme akvakulturanlegg, skal de holdes atskilt ved hjelp av egnede hygienetiltak.Personalets arbeidstøy og arbeidssko skal oppbevares i akvakulturanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko. Disse besøkende skal entenbruke vernetøy og vernesko som utleveres på akvakulturanlegget, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Utstyr i akvakulturanlegget skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før dyr lastes eller losses i akvakulturanlegget.Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, som nevnt i artikkel 18 bokstav c):Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de dyrene som holdes i akvakulturanlegget.Anlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+1. Følgende krav gjelder biosikkerhetstiltak for akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, som nevnt i artikkel 18 bokstav b):
+
+   1. Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Desinfiseringsstasjoner skal installeres på kritiske steder i akvakulturanlegget.
+      2. Dersom det finnes ulike funksjonelle enheter i samme akvakulturanlegg, skal de holdes atskilt ved hjelp av egnede hygienetiltak.
+      3. Personalets arbeidstøy og arbeidssko skal oppbevares i akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      4. Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret.
+      5. Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko. Disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på akvakulturanlegget, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      6. Døde dyr skal fjernes fra alle produksjonsenheter hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+      7. Utstyr i akvakulturanlegget skal så langt det er mulig rengjøres og desinfiseres etter hver produksjonssyklus.
+      8. Transportørenes dokumentasjon av rengjøring og desinfisering skal verifiseres før dyr lastes eller losses i akvakulturanlegget.
+   2. Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre akvakulturanleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder lokaler og utstyr i akvakulturanlegg som er åpne anlegg der det holdes akvariedyr, som nevnt i artikkel 18 bokstav c):
+
+   1. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de dyrene som holdes i akvakulturanlegget.
+   2. Anlegget skal ha gode hygieniske forhold, og det skal være mulig å foreta tilfredsstillende helseovervåking.
+   3. Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som kan rengjøres og desinfiseres på en hensiktsmessig måte.
+   4. Det skal være innført egnede tiltak for å bekjempe predatorer, der det er tatt hensyn til den risikoen som disse predatorene utgjør, og akvakulturanleggets miljømessige begrensninger.
+   5. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, utstyr og transportmidler.
+   6. Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
 
 ### DEL 12
 Krav til godkjenning av fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, som nevnt i artikkel 19
 
-1. Følgende krav gjelder biosikkerhetstiltak for fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, som nevnt i artikkel 19 bokstav a):Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:Fartøyet eller det mobile anlegget og alt utstyr som er brukt i behandlingsprosessen, skal rengjøres og desinfiseres etter behandlingen og før fartøyet eller det mobile anlegget flyttes til et annet akvakulturanlegg.Personalets arbeidstøy og arbeidssko skal oppbevares i akvakulturanlegget og rengjøres og desinfiseres regelmessig.Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret, og det skal dokumenteres at protokollen gjennomføres.Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal entenbruke vernetøy og vernesko som utleveres på akvakulturanlegget, ellerrengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.Årsaken til eventuell dødelighet under en behandling skal registreres, og døde dyr skal fjernes fra akvakulturanlegget hyppig nok til at infeksjonstrykket blir så lavt som mulig samtidig som det skal være praktisk mulig med tanke på behandlingsplanen for de aktuelle akvakulturdyrene.Døde dyr skal fjernes hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre anleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
-2. Følgende krav gjelder lokaler og utstyr på fartøyer eller i andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, som nevnt i artikkel 19 bokstav b):Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i anlegget.Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som lett kan rengjøres og desinfiseres.Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler og utstyr.Dersom det brukes automatiserte systemer for rengjøring og desinfisering, skal virkningen av systemene valideres før de tas i bruk og deretter med hensiktsmessig hyppighet.Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+1. Følgende krav gjelder biosikkerhetstiltak for fartøyer eller andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, som nevnt i artikkel 19 bokstav a):
+
+   1. Den driftsansvarlige skal gjennomføre biosikkerhetsplanen i samsvar med artikkel 5, der det skal tas hensyn til følgende elementer:
+
+      1. Fartøyet eller det mobile anlegget og alt utstyr som er brukt i behandlingsprosessen, skal rengjøres og desinfiseres etter behandlingen og før fartøyet eller det mobile anlegget flyttes til et annet akvakulturanlegg.
+      2. Personalets arbeidstøy og arbeidssko skal oppbevares i akvakulturanlegget og rengjøres og desinfiseres regelmessig.
+      3. Utstyr skal ikke deles mellom akvakulturanlegg, men dersom dette ikke kan unngås, skal det innføres en egnet protokoll for rengjøring og desinfisering av utstyret, og det skal dokumenteres at protokollen gjennomføres.
+      4. Besøkende til akvakulturanlegget skal kontrolleres dersom de utgjør en sykdomsrisiko, og disse besøkende skal enten
+
+         - bruke vernetøy og vernesko som utleveres på akvakulturanlegget, eller
+         - rengjøre og desinfisere vernetøy og vernesko som de har med seg, når de kommer til akvakulturanlegget, og dersom det gjelder tøy og sko til flergangsbruk, når de drar fra anlegget.
+      5. Årsaken til eventuell dødelighet under en behandling skal registreres, og døde dyr skal fjernes fra akvakulturanlegget hyppig nok til at infeksjonstrykket blir så lavt som mulig samtidig som det skal være praktisk mulig med tanke på behandlingsplanen for de aktuelle akvakulturdyrene.
+      6. Døde dyr skal fjernes hyppig nok til å sikre at infeksjonstrykket holdes så lavt som mulig, og skal sluttbehandles i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+   2. Driftsansvarlige skal sikre at en navngitt person har ansvar for å gjennomføre anleggets biosikkerhetsplan, og annet personale skal ved behov rapportere til denne personen når det gjelder biosikkerhetsspørsmål.
+2. Følgende krav gjelder lokaler og utstyr på fartøyer eller i andre mobile anlegg der akvakulturdyr holdes midlertidig for å behandles eller gjennomgå andre prosedyrer knyttet til dyrehold, som nevnt i artikkel 19 bokstav b):
+
+   1. Egnet utstyr og egnede lokaler skal være tilgjengelig med henblikk på å opprettholde forsvarlige forhold for husdyrhold for de akvakulturdyrene som holdes i anlegget.
+   2. Utstyr og lokaler skal så langt det er mulig være framstilt av materialer som lett kan rengjøres og desinfiseres.
+   3. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler og utstyr.
+   4. Dersom det brukes automatiserte systemer for rengjøring og desinfisering, skal virkningen av systemene valideres før de tas i bruk og deretter med hensiktsmessig hyppighet.
+   5. Anlegget skal ha et egnet system for innsamling og hensiktsmessig sluttbehandling av animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
 
 ### VEDLEGG II
 RISIKOBASERT OVERVÅKING SOM SKAL GJENNOMFØRES I VISSE GODKJENTE ANLEGG
@@ -572,13 +1122,36 @@ RISIKOBASERT OVERVÅKING SOM SKAL GJENNOMFØRES I VISSE GODKJENTE ANLEGG
 ### DEL 1
 Risikobasert overvåking i akvakulturanlegg og grupper av akvakulturanlegg nevnt i artikkel 7, 8, 17 og 18
 
-Risikobasert overvåking i akvakulturanlegg og grupper av akvakulturanlegg som er nevnt i artikkel 7, 8, 17 og 18, skal gjennomføres på følgende måte:Akvakulturanlegg der det holdes andre listeførte arter av akvakulturdyr enn artene nevnt i bokstav b) ii) i denne delen, skal gjennomføre risikobasert overvåking alt etter om risikoen ved anlegget er klassifisert som «høy», «middels» eller «lav» på grunnlag av en risikovurdering foretatt i samsvar med del I i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).Akvakulturanlegg der det holdes arter av akvakulturdyr nevnt i punkt i) og ii), skal gjennomføre risikobasert overvåking dersom risikoen ved anlegget er klassifisert som «høy» på grunnlag av en risikovurdering foretatt i samsvar med del I i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689):Arter som ikke er listeført.Listeførte arter nevnt i fjerde kolonne i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), men disse listeførte artene må være i kontakt med de listeførte artene nevnt i tredje kolonne i nevnte tabell for å bli klassifisert som vektorarter, og denne kontakten har ikke funnet sted.
+Risikobasert overvåking i akvakulturanlegg og grupper av akvakulturanlegg som er nevnt i artikkel 7, 8, 17 og 18, skal gjennomføres på følgende måte:
+
+1. Akvakulturanlegg der det holdes andre listeførte arter av akvakulturdyr enn artene nevnt i bokstav b) ii) i denne delen, skal gjennomføre risikobasert overvåking alt etter om risikoen ved anlegget er klassifisert som «høy», «middels» eller «lav» på grunnlag av en risikovurdering foretatt i samsvar med del I i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).
+2. Akvakulturanlegg der det holdes arter av akvakulturdyr nevnt i punkt i) og ii), skal gjennomføre risikobasert overvåking dersom risikoen ved anlegget er klassifisert som «høy» på grunnlag av en risikovurdering foretatt i samsvar med del I i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689):
+
+   1. Arter som ikke er listeført.
+   2. Listeførte arter nevnt i fjerde kolonne i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), men disse listeførte artene må være i kontakt med de listeførte artene nevnt i tredje kolonne i nevnte tabell for å bli klassifisert som vektorarter, og denne kontakten har ikke funnet sted.
 
 ### DEL 2
 Innholdet i risikobasert overvåking i akvakulturanlegg eller grupper av akvakulturanlegg som gjennomføres i samsvar med artikkel 26 i forordning (EU) 2016/429
 
-1. Kontroll av journaler, kliniske undersøkelser og laboratorieundersøkelser ved de godkjente akvakulturanleggene som er nevnt i artikkel 7, 17 og 18, skal gjennomføres på følgende måte:De relevante journalene som føres i samsvar med journalføringsplikten i henhold til artikkel 186 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 23, 32 og 33 i denne forordningen, skal undersøkes for å vurdere om det er tegn på økt dødelighet eller forekomst av en listeført eller ny sykdom i akvakulturanlegget som det skal tas hensyn til ved et veterinærbesøk.Alle deler av akvakulturanlegget skal undersøkes, og det skal rettes særlig oppmerksomhet mot de produksjonsenhetene som det er angitt økt dødelighet for i journalene nevnt i bokstav a).Dersom det etter en undersøkelse av journalene eller etter en klinisk undersøkelse av alle produksjonsenheter ikke er funnet tegn på forekomst av en listeført eller ny sykdom, skal det ikke være nødvendig å ta prøver til laboratorieundersøkelse.Dersom det oppdages nylig døde eller døende akvakulturdyr, skal et representativt utvalg av disse akvakultudyrene undersøkes klinisk både utvendig og innvendig med henblikk på å fastslå om det forekommer patologiske endringer. Denne undersøkelsen skal særlig ta sikte på å påvise listeførte eller nye sykdommer.Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en slik listeført eller ny sykdom i et akvakulturanlegg i en medlemsstat, en sone eller et segment der et utryddelsesprogram gjennomføres, eller som er erklært fri(tt) for den aktuelle sykdommen, skal det tas en prøve av akvakulturdyr fra nevnte akvakulturanlegg, og prøven skal undersøkes i et laboratorium i samsvar med det relevante kapittelet i del II i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en listeført sykdom i et akvakulturanlegg i en medlemsstat der et overvåkingsprogram gjennomføres for den aktuelle kategori C-sykdommen, skal det tas en prøve av akvakulturdyr fra akvakulturanlegget, og prøven skal undersøkes i et laboratorium i samsvar med det relevante kapittelet i del III i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en ny sykdom, skal det tas en prøve av akvakulturdyr fra akvakulturanlegget, og prøven skal undersøkes i et laboratorium med det formål å påvise den aktuelle nye sykdommen.
-2. Kontroll av journaler, kliniske undersøkelser og laboratorieundersøkelser ved de godkjente gruppene av akvakulturanlegg som er nevnt i artikkel 8, skal gjennomføres på følgende måte:De relevante journalene som føres av eller på vegne av hvert akvakulturanlegg i gruppen av akvakulturanlegg i samsvar med artikkel 186 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 24 i denne forordningen, skal undersøkes for å vurdere om det er tegn på økt dødelighet eller forekomst av en listeført eller ny sykdom som det skal tas hensyn til når det avgjøres hvilket akvakulturanlegg i gruppen som skal besøkes i forbindelse med risikobasert overvåking.Dersom undersøkelsen av journaler nevnt i bokstav a) tyder på økt dødelighet eller forekomst av en listeført eller ny sykdom i et bestemt akvakulturanlegg i gruppen, skal anlegget besøkes i forbindelse med risikobasert overvåking, og trinnene som er beskrevet i nr. 1 bokstav b)–g), skal følges under besøket.Dersom undersøkelsen av journaler nevnt i bokstav a) ikke tyder på økt dødelighet eller forekomst av en listeført eller ny sykdom i et akvakulturanlegg i gruppen, skal besøket eller besøkene i forbindelse med risikobasert overvåking gjennomføres entenetter en risikovurdering, i det akvakulturanlegget eller de akvakulturanleggene i gruppen som utgjør størst risiko for innførsel av sykdom, elleri det anlegget som har hatt størst antall forflytninger av akvakulturdyr til videre oppdrett siden siste besøk i forbindelse med risikobasert overvåking.I begge tilfeller skal trinnene som er beskrevet i nr. 1 bokstav c)–g), følges under besøket i forbindelse med risikobasert overvåking.
+1. Kontroll av journaler, kliniske undersøkelser og laboratorieundersøkelser ved de godkjente akvakulturanleggene som er nevnt i artikkel 7, 17 og 18, skal gjennomføres på følgende måte:
+
+   1. De relevante journalene som føres i samsvar med journalføringsplikten i henhold til artikkel 186 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 23, 32 og 33 i denne forordningen, skal undersøkes for å vurdere om det er tegn på økt dødelighet eller forekomst av en listeført eller ny sykdom i akvakulturanlegget som det skal tas hensyn til ved et veterinærbesøk.
+   2. Alle deler av akvakulturanlegget skal undersøkes, og det skal rettes særlig oppmerksomhet mot de produksjonsenhetene som det er angitt økt dødelighet for i journalene nevnt i bokstav a).
+   3. Dersom det etter en undersøkelse av journalene eller etter en klinisk undersøkelse av alle produksjonsenheter ikke er funnet tegn på forekomst av en listeført eller ny sykdom, skal det ikke være nødvendig å ta prøver til laboratorieundersøkelse.
+   4. Dersom det oppdages nylig døde eller døende akvakulturdyr, skal et representativt utvalg av disse akvakultudyrene undersøkes klinisk både utvendig og innvendig med henblikk på å fastslå om det forekommer patologiske endringer. Denne undersøkelsen skal særlig ta sikte på å påvise listeførte eller nye sykdommer.
+   5. Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en slik listeført eller ny sykdom i et akvakulturanlegg i en medlemsstat, en sone eller et segment der et utryddelsesprogram gjennomføres, eller som er erklært fri(tt) for den aktuelle sykdommen, skal det tas en prøve av akvakulturdyr fra nevnte akvakulturanlegg, og prøven skal undersøkes i et laboratorium i samsvar med det relevante kapittelet i del II i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).
+   6. Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en listeført sykdom i et akvakulturanlegg i en medlemsstat der et overvåkingsprogram gjennomføres for den aktuelle kategori C-sykdommen, skal det tas en prøve av akvakulturdyr fra akvakulturanlegget, og prøven skal undersøkes i et laboratorium i samsvar med det relevante kapittelet i del III i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689).
+   7. Dersom resultatet av den kliniske undersøkelsen fastsatt i bokstav d) gir mistanke om forekomst av en ny sykdom, skal det tas en prøve av akvakulturdyr fra akvakulturanlegget, og prøven skal undersøkes i et laboratorium med det formål å påvise den aktuelle nye sykdommen.
+2. Kontroll av journaler, kliniske undersøkelser og laboratorieundersøkelser ved de godkjente gruppene av akvakulturanlegg som er nevnt i artikkel 8, skal gjennomføres på følgende måte:
+
+   1. De relevante journalene som føres av eller på vegne av hvert akvakulturanlegg i gruppen av akvakulturanlegg i samsvar med artikkel 186 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 24 i denne forordningen, skal undersøkes for å vurdere om det er tegn på økt dødelighet eller forekomst av en listeført eller ny sykdom som det skal tas hensyn til når det avgjøres hvilket akvakulturanlegg i gruppen som skal besøkes i forbindelse med risikobasert overvåking.
+   2. Dersom undersøkelsen av journaler nevnt i bokstav a) tyder på økt dødelighet eller forekomst av en listeført eller ny sykdom i et bestemt akvakulturanlegg i gruppen, skal anlegget besøkes i forbindelse med risikobasert overvåking, og trinnene som er beskrevet i nr. 1 bokstav b)–g), skal følges under besøket.
+   3. Dersom undersøkelsen av journaler nevnt i bokstav a) ikke tyder på økt dødelighet eller forekomst av en listeført eller ny sykdom i et akvakulturanlegg i gruppen, skal besøket eller besøkene i forbindelse med risikobasert overvåking gjennomføres enten
+
+      1. etter en risikovurdering, i det akvakulturanlegget eller de akvakulturanleggene i gruppen som utgjør størst risiko for innførsel av sykdom, eller
+      2. i det anlegget som har hatt størst antall forflytninger av akvakulturdyr til videre oppdrett siden siste besøk i forbindelse med risikobasert overvåking.
+
+      I begge tilfeller skal trinnene som er beskrevet i nr. 1 bokstav c)–g), følges under besøket i forbindelse med risikobasert overvåking.
 
 ### Forordning (EU) 2020/990 om forflytninger av akvatiske dyr og produkter av akvatiske dyr
 
@@ -650,13 +1223,29 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 Denne forordningen utfyller reglene fastsatt i del IV avdeling II kapittel 2 og 3 i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen.
 
-Særlig fastsettes regler forforpliktelsene driftsansvarlige, herunder transportører, har ved transport av akvatiske dyr,utfyllende krav til dyrehelse ved forflytning av akvatiske dyr beregnet på særlig bruk eller særlige formål, herunder krav til utstedelse av sertifikater og krav til meldinger,produksjon, foredling og distribusjon av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr.
+Særlig fastsettes regler for
+
+1. forpliktelsene driftsansvarlige, herunder transportører, har ved transport av akvatiske dyr,
+2. utfyllende krav til dyrehelse ved forflytning av akvatiske dyr beregnet på særlig bruk eller særlige formål, herunder krav til utstedelse av sertifikater og krav til meldinger,
+3. produksjon, foredling og distribusjon av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr.
 
 ### Artikkel 2. Definisjoner
 
 I denne forordningen får definisjonene i artikkel 4 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 2 i delegert forordning [(EU) 2020/691](eu/32020r0691) anvendelse.
 
-Videre menes med«container» en kasse, boks, beholder eller annen stiv konstruksjon som brukes til transport av akvatiske dyr eller egg fra akvatiske dyr, men som ikke er et transportmiddel,«brønnbåt» et fartøy som har en brønn eller tank til oppbevaring, transport eller behandling av levende akvakulturdyr i vann,«vektorarter» arter som er oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og som oppfyller vilkårene for å anses som vektorer som angitt i kolonne 3 i vedlegg I til denne forordningen,«agn» et akvatisk dyr som brukes til å lokke til seg eller fange et annet akvatisk dyr,«nasjonale tiltak» nasjonale tiltak som har som formål å begrense følgene av andre sykdommer enn listeførte sykdommer, som nevnt i artikkel 226 i forordning [(EU) 2016/429](eu/32016r0429),«habitat» områder i vann som kjennetegnes ved geografiske, abiotiske og biotiske særtrekk, uansett om de er helt eller delvis naturlige,«sykdomsfri medlemsstat, sykdomsfri sone eller sykdomsfritt segment» en medlemsstat, en sone eller et segment som er erklært sykdomsfri(tt) i samsvar med artikkel 36 nr. 4 eller artikkel 37 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429),«utryddelsesprogram» et obligatorisk utryddelsesprogram som er fastsatt i samsvar med artikkel 31 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), eller et frivillig utryddelsesprogram som er fastsatt i samsvar med artikkel 31 nr. 2 i samme forordning,«registrert akvakulturanlegg» et anlegg som er registrert av vedkommende myndighet i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),«godkjent akvakulturanlegg» et anlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 176 i forordning [(EU) 2016/429](eu/32016r0429),«godkjent gruppe av akvakulturanlegg» en gruppe av akvakulturanlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 177 i forordning [(EU) 2016/429](eu/32016r0429).
+Videre menes med
+
+1. «container» en kasse, boks, beholder eller annen stiv konstruksjon som brukes til transport av akvatiske dyr eller egg fra akvatiske dyr, men som ikke er et transportmiddel,
+2. «brønnbåt» et fartøy som har en brønn eller tank til oppbevaring, transport eller behandling av levende akvakulturdyr i vann,
+3. «vektorarter» arter som er oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og som oppfyller vilkårene for å anses som vektorer som angitt i kolonne 3 i vedlegg I til denne forordningen,
+4. «agn» et akvatisk dyr som brukes til å lokke til seg eller fange et annet akvatisk dyr,
+5. «nasjonale tiltak» nasjonale tiltak som har som formål å begrense følgene av andre sykdommer enn listeførte sykdommer, som nevnt i artikkel 226 i forordning [(EU) 2016/429](eu/32016r0429),
+6. «habitat» områder i vann som kjennetegnes ved geografiske, abiotiske og biotiske særtrekk, uansett om de er helt eller delvis naturlige,
+7. «sykdomsfri medlemsstat, sykdomsfri sone eller sykdomsfritt segment» en medlemsstat, en sone eller et segment som er erklært sykdomsfri(tt) i samsvar med artikkel 36 nr. 4 eller artikkel 37 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429),
+8. «utryddelsesprogram» et obligatorisk utryddelsesprogram som er fastsatt i samsvar med artikkel 31 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), eller et frivillig utryddelsesprogram som er fastsatt i samsvar med artikkel 31 nr. 2 i samme forordning,
+9. «registrert akvakulturanlegg» et anlegg som er registrert av vedkommende myndighet i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429),
+10. «godkjent akvakulturanlegg» et anlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 176 i forordning [(EU) 2016/429](eu/32016r0429),
+11. «godkjent gruppe av akvakulturanlegg» en gruppe av akvakulturanlegg som er godkjent av vedkommende myndighet i samsvar med artikkel 177 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### DEL II
 FORFLYTNING AV AKVATISKE DYR
@@ -668,9 +1257,15 @@ Alminnelige krav til driftsansvarlige ved transport av akvatiske dyr
 
 Alminnelige forpliktelser for driftsansvarlige med hensyn til krav til biosikkerhet ved transport av akvatiske dyr
 
-1\. Driftsansvarlige, inkludert transportører, skal sikre at akvatiske dyrlastes og transporteres i vann som ikke endrer helsestatusen deres,ikke transporteres i samme vann eller i samme container som akvatiske dyr med lavere helsestatus, fra de lastes til de ankommer bestemmelsesstedet.
+1\. Driftsansvarlige, inkludert transportører, skal sikre at akvatiske dyr
 
-2\. Driftsansvarlige, inkludert transportører, skal sikre attransportmidler og containere er utformet og konstruert slik at de kan rengjøres og desinfiseres på en effektiv måte mellom hver forsendelse, og slik at helsestatusen til de akvatiske dyrene ikke settes i fare under transport,containeren, dersom den ikke er til engangsbruk, eller fartøyet og annet transportutstyr rengjøres og desinfiseres mellom hver forsendelse.
+1. lastes og transporteres i vann som ikke endrer helsestatusen deres,
+2. ikke transporteres i samme vann eller i samme container som akvatiske dyr med lavere helsestatus, fra de lastes til de ankommer bestemmelsesstedet.
+
+2\. Driftsansvarlige, inkludert transportører, skal sikre at
+
+1. transportmidler og containere er utformet og konstruert slik at de kan rengjøres og desinfiseres på en effektiv måte mellom hver forsendelse, og slik at helsestatusen til de akvatiske dyrene ikke settes i fare under transport,
+2. containeren, dersom den ikke er til engangsbruk, eller fartøyet og annet transportutstyr rengjøres og desinfiseres mellom hver forsendelse.
 
 3\. Driftsansvarlige, inkludert transportører, skal sikre at rengjøringen og desinfiseringen som kreves i nr. 2 bokstav b), gjennomføres i samsvar med en protokoll som er godkjent av vedkommende myndighet på opprinnelsesstedet, og som skal inneholde nærmere opplysninger om når og hvor rengjøringen og desinfiseringen skal finne sted, og hvilken type desinfeksjonsmidler som skal brukes.
 
@@ -678,7 +1273,10 @@ Alminnelige forpliktelser for driftsansvarlige med hensyn til krav til biosikker
 
 Alminnelige forpliktelser for driftsansvarlige med hensyn til krav til utskifting og utslipp av vann under transport av akvatiske dyr
 
-1\. Driftsansvarlige, inkludert transportører, skal sikre at vannet skiftes ut dersom det er nødvendig, men bare som følger:Ved transport på land: på utskiftingssteder der utskiftingen ikke endrer helsestatusen til de akvatiske dyrene som transporteres, eller til akvatiske dyr som befinner seg på bestemmelsesstedet eller er underveis til dette bestemmelsesstedet.Ved transport med brønnbåt: minst 10 km fra alle akvakulturanlegg som ligger på ruten mellom lastestedet og bestemmelsesstedet.
+1\. Driftsansvarlige, inkludert transportører, skal sikre at vannet skiftes ut dersom det er nødvendig, men bare som følger:
+
+1. Ved transport på land: på utskiftingssteder der utskiftingen ikke endrer helsestatusen til de akvatiske dyrene som transporteres, eller til akvatiske dyr som befinner seg på bestemmelsesstedet eller er underveis til dette bestemmelsesstedet.
+2. Ved transport med brønnbåt: minst 10 km fra alle akvakulturanlegg som ligger på ruten mellom lastestedet og bestemmelsesstedet.
 
 2\. Driftsansvarlige, inkludert transportører, skal sikre at utskiftingen av vann som er nevnt i nr. 1, ikke foregår i områder som er omfattet av forflytningsrestriksjoner eller nødtiltak.
 
@@ -686,7 +1284,10 @@ Alminnelige forpliktelser for driftsansvarlige med hensyn til krav til utskiftin
 
 Forpliktelser for driftsansvarlige med hensyn til særlige krav til transport og merking av transportmidler og containere som akvatiske dyr transporteres i
 
-1\. Driftsansvarlige, inkludert transportører, med ansvar for forsendelser av akvatiske dyr som følges av et helsesertifikat som nevnt i artikkel 208 eller artikkel 209 i forordning [(EU) 2016/429](eu/32016r0429), skal sikre at transportmidlene eller containerne som de akvatiske dyrene transporteres i, er identifisert ved hjelp av en leselig etikett som skalvære plassert på et synlig sted på containeren eller transportmiddelet, alt etter hva som er praktisk mulig,inneholde de opplysningene som er nødvendige for at forsendelsen tydelig kan knyttes til helsesertifikatet.
+1\. Driftsansvarlige, inkludert transportører, med ansvar for forsendelser av akvatiske dyr som følges av et helsesertifikat som nevnt i artikkel 208 eller artikkel 209 i forordning [(EU) 2016/429](eu/32016r0429), skal sikre at transportmidlene eller containerne som de akvatiske dyrene transporteres i, er identifisert ved hjelp av en leselig etikett som skal
+
+1. være plassert på et synlig sted på containeren eller transportmiddelet, alt etter hva som er praktisk mulig,
+2. inneholde de opplysningene som er nødvendige for at forsendelsen tydelig kan knyttes til helsesertifikatet.
 
 2\. Som unntak fra nr. 1 bokstav b) kan etiketten ved transport med brønnbåt erstattes av en oppføring i skipsmanifestet som inneholder de opplysningene som er nødvendige for at forsendelsen tydelig kan knyttes til helsesertifikatet nevnt i nr. 1.
 
@@ -701,13 +1302,21 @@ Forflytning av akvatiske dyr beregnet på akvakulturanlegg eller utsetting i nat
 
 Unntak fra kravet om at akvakulturdyr av listeførte arter skal ha opprinnelse i en sykdomsfri medlemsstat, en sykdomsfri sone eller et sykdomsfritt segment
 
-Som unntak fra artikkel 197 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429) kan driftsansvarlige, inkludert transportører, flytte akvakulturdyr av listeførte arter som er relevante for de kategori B-sykdommene eller kategori C-sykdommene som medlemsstaten, sonen eller segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for, fra medlemsstater, soner eller segmenter som ikke er frie for disse listeførte sykdommene, dersom en av følgende omstendigheter foreligger:Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de anses ikke som vektorer for de aktuelle kategori B- eller kategori C-sykdommene.Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, men de anses som frie for de aktuelle kategori B- eller kategori C-sykdommene, ettersom de har vært i karantene i et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 8 nr. 2 i vedlegget til nevnte delegerte forordning.Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, men de er blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer for de aktuelle kategori B- eller kategori C-sykdommene.Akvakulturdyrene er beregnet på et avgrenset anlegg for vitenskapelige formål.
+Som unntak fra artikkel 197 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429) kan driftsansvarlige, inkludert transportører, flytte akvakulturdyr av listeførte arter som er relevante for de kategori B-sykdommene eller kategori C-sykdommene som medlemsstaten, sonen eller segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for, fra medlemsstater, soner eller segmenter som ikke er frie for disse listeførte sykdommene, dersom en av følgende omstendigheter foreligger:
+
+1. Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de anses ikke som vektorer for de aktuelle kategori B- eller kategori C-sykdommene.
+2. Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, men de anses som frie for de aktuelle kategori B- eller kategori C-sykdommene, ettersom de har vært i karantene i et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 8 nr. 2 i vedlegget til nevnte delegerte forordning.
+3. Akvakulturdyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, men de er blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer for de aktuelle kategori B- eller kategori C-sykdommene.
+4. Akvakulturdyrene er beregnet på et avgrenset anlegg for vitenskapelige formål.
 
 ###### Artikkel 7
 
 Forpliktelser for driftsansvarlige med hensyn til sykdomsforebygging og risikoreduserende tiltak ved forflytning av viltlevende akvatiske dyr til akvakulturanlegg
 
-Som unntak fra artikkel 197 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429) sammenholdt med artikkel 200 nr. 1 i samme forordning kan driftsansvarlige, inkludert transportører, flytte viltlevende akvatiske dyr av listeførte arter som er relevante for de kategori B- eller kategori C-sykdommene som medlemsstaten, sonen eller segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for, fra medlemsstater, soner eller segmenter som ikke er frie for disse listeførte sykdommene, forutsatt at disse viltlevende akvatiske dyrene er beregnet på et akvakulturanlegg og en av følgende omstendigheter foreligger:De anses som frie for de aktuelle kategori B- eller kategori C-sykdommene, ettersom de har vært i karantene i et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 8 nr. 2 i vedlegget til nevnte delegerte forordning.Dersom det gjelder viltlevende akvatiske dyr som tilhører artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, er de blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer.
+Som unntak fra artikkel 197 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429) sammenholdt med artikkel 200 nr. 1 i samme forordning kan driftsansvarlige, inkludert transportører, flytte viltlevende akvatiske dyr av listeførte arter som er relevante for de kategori B- eller kategori C-sykdommene som medlemsstaten, sonen eller segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for, fra medlemsstater, soner eller segmenter som ikke er frie for disse listeførte sykdommene, forutsatt at disse viltlevende akvatiske dyrene er beregnet på et akvakulturanlegg og en av følgende omstendigheter foreligger:
+
+1. De anses som frie for de aktuelle kategori B- eller kategori C-sykdommene, ettersom de har vært i karantene i et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 8 nr. 2 i vedlegget til nevnte delegerte forordning.
+2. Dersom det gjelder viltlevende akvatiske dyr som tilhører artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og er vektorer, er de blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer.
 
 ###### Avsnitt 2
 
@@ -717,7 +1326,13 @@ Forflytning av levende akvatiske dyr beregnet på konsum
 
 Unntak fra kravene til forflytning av levende akvatiske dyr av listeførte arter beregnet på konsum i en medlemsstat, en sone eller et segment som har oppnådd status som sykdomsfri eller er omfattet av et utryddelsesprogram
 
-Som unntak fra artikkel 201 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) sammenholdt med artikkel 202 nr. 1 i samme forordning kan medlemsstatene når det gjelder levende akvatiske dyr beregnet på konsum, tillate at driftsansvarlige flytter dyr av listeførte arter for kategori B- eller kategori C-sykdommer som medlemsstaten, sonen eller segmentet har fått sykdomsfri status for eller er omfattet av et utryddelsesprogram for, dersom en eller flere av følgende omstendigheter foreligger:De levende akvatiske dyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de er ikke vektorer for de aktuelle kategori B- eller kategori C-sykdommene.De levende akvatiske dyrene er beregnet på slakting og videreforedling i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, og har opprinnelse i et område som er omfattet av forflytningsrestriksjoner eller nødtiltak som nevnt i artikkel 191 nr. 2 bokstav b) i) og ii) i forordning [(EU) 2016/429](eu/32016r0429), og der vedkommende myndighet har tillatt slik forflytning, og den foregår på vilkårene angitt i denne tillatelsen.De levende akvatiske dyrene er bløtdyr eller krepsdyr som er emballert og merket for konsum i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004, og de vil ikke lenger kunne overleve som levende dyr dersom de gjenutsettes i vannmiljøet.De levende akvatiske dyrene er bløtdyr eller krepsdyr som er emballert og merket for konsum i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004, og de er beregnet på videreforedling uten midlertidig lagring på foredlingsstedet.De levende akvatiske dyrene er bløtdyr eller krepsdyr beregnet på konsum uten videreforedling, og de er emballert for detaljsalg i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004.
+Som unntak fra artikkel 201 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) sammenholdt med artikkel 202 nr. 1 i samme forordning kan medlemsstatene når det gjelder levende akvatiske dyr beregnet på konsum, tillate at driftsansvarlige flytter dyr av listeførte arter for kategori B- eller kategori C-sykdommer som medlemsstaten, sonen eller segmentet har fått sykdomsfri status for eller er omfattet av et utryddelsesprogram for, dersom en eller flere av følgende omstendigheter foreligger:
+
+1. De levende akvatiske dyrene tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de er ikke vektorer for de aktuelle kategori B- eller kategori C-sykdommene.
+2. De levende akvatiske dyrene er beregnet på slakting og videreforedling i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, og har opprinnelse i et område som er omfattet av forflytningsrestriksjoner eller nødtiltak som nevnt i artikkel 191 nr. 2 bokstav b) i) og ii) i forordning [(EU) 2016/429](eu/32016r0429), og der vedkommende myndighet har tillatt slik forflytning, og den foregår på vilkårene angitt i denne tillatelsen.
+3. De levende akvatiske dyrene er bløtdyr eller krepsdyr som er emballert og merket for konsum i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004, og de vil ikke lenger kunne overleve som levende dyr dersom de gjenutsettes i vannmiljøet.
+4. De levende akvatiske dyrene er bløtdyr eller krepsdyr som er emballert og merket for konsum i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004, og de er beregnet på videreforedling uten midlertidig lagring på foredlingsstedet.
+5. De levende akvatiske dyrene er bløtdyr eller krepsdyr beregnet på konsum uten videreforedling, og de er emballert for detaljsalg i samsvar med de særlige kravene til disse dyrene angitt i avsnitt VII og VIII i vedlegg III til forordning (EF) nr. 853/2004.
 
 ###### Avsnitt 3
 
@@ -729,7 +1344,15 @@ Krav til dyrehelse ved forflytning av akvakulturdyr til avgrensede anlegg
 
 1\. Driftsansvarlige skal flytte akvakulturdyr av listeførte arter fra et avgrenset anlegg til et avgrenset anlegg i en annen medlemsstat bare dersom disse dyrene ikke utgjør en vesentlig risiko for spredning av sykdommer som de er listeført for, på grunnlag av resultatene av overvåkingsplanen nevnt i artikkel 9 bokstav c) i delegert forordning [(EU) 2020/691](eu/32020r0691).
 
-2\. Driftsansvarlige skal flytte akvakulturdyr av listeførte arter som er relevante for kategori D-sykdommer, fra andre akvakulturanlegg enn avgrensede anlegg til avgrensede anlegg bare dersom disse akvakulturdyrene oppfyller ett eller flere av følgende krav:De har opprinnelse i en sykdomsfri medlemsstat, en sykdomsfri sone eller et sykdomsfritt segment.De holdes i karantene under egnede forhold i et av følgende anlegg:Et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691).En karanteneanlegg i et annet avgrenset anlegg.Karanteneanlegget i det avgrensede anlegget på det endelige bestemmelsesstedet.De er akvakulturdyr som tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de er vektorer, men de er blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer.
+2\. Driftsansvarlige skal flytte akvakulturdyr av listeførte arter som er relevante for kategori D-sykdommer, fra andre akvakulturanlegg enn avgrensede anlegg til avgrensede anlegg bare dersom disse akvakulturdyrene oppfyller ett eller flere av følgende krav:
+
+1. De har opprinnelse i en sykdomsfri medlemsstat, en sykdomsfri sone eller et sykdomsfritt segment.
+2. De holdes i karantene under egnede forhold i et av følgende anlegg:
+
+   1. Et karanteneanlegg som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691).
+   2. En karanteneanlegg i et annet avgrenset anlegg.
+   3. Karanteneanlegget i det avgrensede anlegget på det endelige bestemmelsesstedet.
+3. De er akvakulturdyr som tilhører en av artene oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og de er vektorer, men de er blitt holdt i et akvakulturanlegg som er godkjent i samsvar med artikkel 16 i delegert forordning [(EU) 2020/691](eu/32020r0691), i henhold til kravene angitt i del 9 nr. 2 i vedlegg I til nevnte delegerte forordning, og anses ikke lenger som vektorer.
 
 3\. Som unntak fra nr. 2 kan driftsansvarlige flytte akvakulturdyr som ikke oppfyller kravene fastsatt i nevnte nummer, til et avgrenset anlegg for vitenskapelige formål.
 
@@ -737,7 +1360,11 @@ Krav til dyrehelse ved forflytning av akvakulturdyr til avgrensede anlegg
 
 Utfyllende krav til utsetting av akvatiske dyr i naturen
 
-Driftsansvarlige skal bare flytte akvatiske dyr som er beregnet på utsetting i naturen i en medlemsstat som har truffet tiltak i samsvar med artikkel 199 i forordning [(EU) 2016/429](eu/32016r0429), og der disse akvatiske dyrene er beregnet på sportsfiske, herunder agn, som nevnt i artikkel 205 nr. 2 bokstav a) iii) i samme forordning, dersom de har opprinnelse i en medlemsstat, en sone eller et segment med sykdomsfri status, og de oppfyller følgende krav:Bestemmelsesmedlemsstaten har underrettet Kommisjonen og andre medlemsstater om at den anvender tiltak i samsvar med artikkel 199 i forordning [(EU) 2016/429](eu/32016r0429) for akvatiske dyr til sportsfiske, herunder agn, som nevnt i artikkel 205 nr. 2 bokstav a) iii) i samme forordning.Vedkommende myndighet i opprinnelsesmedlemsstaten har tillatt forflytningen.Vedkommende myndigheter i opprinnelsesmedlemsstaten og bestemmelsesmedlemsstaten har truffet tiltak for å sikre at de akvatiske dyrene som flyttes i samsvar med denne artikkelen, kan spores.
+Driftsansvarlige skal bare flytte akvatiske dyr som er beregnet på utsetting i naturen i en medlemsstat som har truffet tiltak i samsvar med artikkel 199 i forordning [(EU) 2016/429](eu/32016r0429), og der disse akvatiske dyrene er beregnet på sportsfiske, herunder agn, som nevnt i artikkel 205 nr. 2 bokstav a) iii) i samme forordning, dersom de har opprinnelse i en medlemsstat, en sone eller et segment med sykdomsfri status, og de oppfyller følgende krav:
+
+1. Bestemmelsesmedlemsstaten har underrettet Kommisjonen og andre medlemsstater om at den anvender tiltak i samsvar med artikkel 199 i forordning [(EU) 2016/429](eu/32016r0429) for akvatiske dyr til sportsfiske, herunder agn, som nevnt i artikkel 205 nr. 2 bokstav a) iii) i samme forordning.
+2. Vedkommende myndighet i opprinnelsesmedlemsstaten har tillatt forflytningen.
+3. Vedkommende myndigheter i opprinnelsesmedlemsstaten og bestemmelsesmedlemsstaten har truffet tiltak for å sikre at de akvatiske dyrene som flyttes i samsvar med denne artikkelen, kan spores.
 
 ###### Artikkel 11
 
@@ -756,7 +1383,12 @@ Alminnelige regler for utstedelse av helsesertifikat
 
 Unntak fra kravet om helsesertifikat for visse arter av akvakulturdyr
 
-Som unntak fra kravene til utstedelse av helsesertifikat som er fastsatt i artikkel 208 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), kan driftsansvarlige flytte akvakulturdyr av listeførte arter som er relevante for kategori C-sykdommer, uten et helsesertifikat, forutsatt at følgende vilkår er oppfylt:Vedkommende myndighet i bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slik forflytning er tillatt på de vilkårene som er fastsatt i bokstav c) og d).Vedkommende myndighet i opprinnelsesmedlemsstaten har tillatt forflytningen.Den aktuelle kategori C-sykdommen har aldri forekommet i verken opprinnelsesmedlemsstaten eller bestemmelsesmedlemsstaten.Vedkommende myndighet både i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten har innført systemer for å sikre at akvakulturdyrene som flyttes i samsvar med vilkårene fastsatt i bokstav a) b) og c), kan spores.
+Som unntak fra kravene til utstedelse av helsesertifikat som er fastsatt i artikkel 208 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), kan driftsansvarlige flytte akvakulturdyr av listeførte arter som er relevante for kategori C-sykdommer, uten et helsesertifikat, forutsatt at følgende vilkår er oppfylt:
+
+1. Vedkommende myndighet i bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slik forflytning er tillatt på de vilkårene som er fastsatt i bokstav c) og d).
+2. Vedkommende myndighet i opprinnelsesmedlemsstaten har tillatt forflytningen.
+3. Den aktuelle kategori C-sykdommen har aldri forekommet i verken opprinnelsesmedlemsstaten eller bestemmelsesmedlemsstaten.
+4. Vedkommende myndighet både i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten har innført systemer for å sikre at akvakulturdyrene som flyttes i samsvar med vilkårene fastsatt i bokstav a) b) og c), kan spores.
 
 ###### Avsnitt 2
 
@@ -766,19 +1398,51 @@ Regler for innholdet i helsesertifikater og egenerklæringsdokumenter for akvati
 
 Regler for innholdet i helsesertifikater for de ulike artene og kategoriene av akvatiske dyr av listeførte arter
 
-1\. Driftsansvarlige skal sikre at helsesertifikatene som er nevnt i artikkel 208 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) for akvakulturdyr og i artikkel 209 i samme forordning for andre akvatiske dyr enn akvakulturdyr, inneholder følgende:De generelle opplysningene angitt i del A nr. 1 eller 2 i vedlegg II som er relevante for akvakulturdyr eller viltlevende akvatiske dyr.De særlige dyrehelsegarantiene i samsvar med nr. 2 i denne artikkelen som er relevante for den aktuelle arten og kategorien av akvatiske dyr.Nærmere opplysninger om formålet som de akvatiske dyrene skal brukes til, i samsvar med del A nr. 3 i vedlegg II.
+1\. Driftsansvarlige skal sikre at helsesertifikatene som er nevnt i artikkel 208 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) for akvakulturdyr og i artikkel 209 i samme forordning for andre akvatiske dyr enn akvakulturdyr, inneholder følgende:
 
-2\. De særlige dyrehelsegarantiene for akvatiske dyr av relevante arter som er nevnt i nr. 1 bokstav b), skal være som følger:De akvatiske dyrene som flyttes, har ingen symptomer på sykdom, og de har opprinnelse iet akvakulturanlegg eller et habitat der det ikke forekommer økt dødelighet av ubestemt årsak, elleren del av akvakulturanlegget eller habitatet som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, dersom det er relevant, vedkommende myndighet i eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen, elleret akvakulturanlegg som er omfattet av forflytningsrestriksjonene eller nødtiltakene som er angitt i artikkel 191 nr. 2 bokstav b) i) og ii) i forordning [(EU) 2016/429](eu/32016r0429), og vedkommende myndighet tillater et unntak fra disse forflytningsrestriksjonene eller nødtiltakene og forflytningen finner sted i samsvar med vilkårene i denne tillatelsen.De akvatiske dyrene som flyttes, har opprinnelse i en medlemsstat, en sone eller et segment som oppfyller ett av følgende vilkår:Den eller det har sykdomsfri status for kategori B- eller kategori C-sykdommer som bestemmelsesmedlemsstaten, -sonen eller -segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for.Den eller det er omfattet av et utryddelsesprogram for en kategori B- eller kategori C-sykdom, dersom de akvatiske dyrene er beregnet på et akvakulturanlegg som også er omfattet av et utryddelsesprogram for samme kategori B- eller kategori C-sykdom.Dersom bestemmelsesmedlemsstaten har truffet nasjonale tiltak, oppfyller de akvatiske dyrene av de relevante artene de helsegarantiene som er nødvendige for å overholde disse nasjonale tiltakene.Dersom akvakulturdyrene flyttes fra andre akvakulturanlegg enn dem som er nevnt i nr. 2 bokstav a) iii), er det foretatt dokumentkontroll av akvakulturanleggets journaler over dødelighet, forflytninger, helse og produksjon, og kontrollen viser at det ikke er mistanke om en listeført eller ny sykdom i akvakulturanlegget.
+1. De generelle opplysningene angitt i del A nr. 1 eller 2 i vedlegg II som er relevante for akvakulturdyr eller viltlevende akvatiske dyr.
+2. De særlige dyrehelsegarantiene i samsvar med nr. 2 i denne artikkelen som er relevante for den aktuelle arten og kategorien av akvatiske dyr.
+3. Nærmere opplysninger om formålet som de akvatiske dyrene skal brukes til, i samsvar med del A nr. 3 i vedlegg II.
+
+2\. De særlige dyrehelsegarantiene for akvatiske dyr av relevante arter som er nevnt i nr. 1 bokstav b), skal være som følger:
+
+1. De akvatiske dyrene som flyttes, har ingen symptomer på sykdom, og de har opprinnelse i
+
+   1. et akvakulturanlegg eller et habitat der det ikke forekommer økt dødelighet av ubestemt årsak, eller
+   2. en del av akvakulturanlegget eller habitatet som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom vedkommende myndighet i bestemmelsesmedlemsstaten og, dersom det er relevant, vedkommende myndighet i eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen, eller
+   3. et akvakulturanlegg som er omfattet av forflytningsrestriksjonene eller nødtiltakene som er angitt i artikkel 191 nr. 2 bokstav b) i) og ii) i forordning [(EU) 2016/429](eu/32016r0429), og vedkommende myndighet tillater et unntak fra disse forflytningsrestriksjonene eller nødtiltakene og forflytningen finner sted i samsvar med vilkårene i denne tillatelsen.
+2. De akvatiske dyrene som flyttes, har opprinnelse i en medlemsstat, en sone eller et segment som oppfyller ett av følgende vilkår:
+
+   1. Den eller det har sykdomsfri status for kategori B- eller kategori C-sykdommer som bestemmelsesmedlemsstaten, -sonen eller -segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for.
+   2. Den eller det er omfattet av et utryddelsesprogram for en kategori B- eller kategori C-sykdom, dersom de akvatiske dyrene er beregnet på et akvakulturanlegg som også er omfattet av et utryddelsesprogram for samme kategori B- eller kategori C-sykdom.
+3. Dersom bestemmelsesmedlemsstaten har truffet nasjonale tiltak, oppfyller de akvatiske dyrene av de relevante artene de helsegarantiene som er nødvendige for å overholde disse nasjonale tiltakene.
+4. Dersom akvakulturdyrene flyttes fra andre akvakulturanlegg enn dem som er nevnt i nr. 2 bokstav a) iii), er det foretatt dokumentkontroll av akvakulturanleggets journaler over dødelighet, forflytninger, helse og produksjon, og kontrollen viser at det ikke er mistanke om en listeført eller ny sykdom i akvakulturanlegget.
 
 ###### Artikkel 14
 
 Opplysninger som skal inngå i egenerklæringsdokumenter for forskjellige arter og kategorier av akvakulturdyr
 
-1\. Driftsansvarlige skal sikre at egenerklæringsdokumenter til bruk ved forflytning av akvakulturdyr fra opprinnelsesstedet i én medlemsstat til bestemmelsesstedet i en annen medlemsstat, utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), inneholder følgende opplysninger:De særlige opplysningene nevnt i nr. 2 og 3 i denne artikkelen som er relevante for den aktuelle kategorien av akvakulturdyr.De generelle opplysningene angitt i del B nr. 1 i vedlegg II.Nærmere opplysninger om formålet som akvakulturdyrene skal brukes til, i samsvar med del B nr. 2 i vedlegg II.
+1\. Driftsansvarlige skal sikre at egenerklæringsdokumenter til bruk ved forflytning av akvakulturdyr fra opprinnelsesstedet i én medlemsstat til bestemmelsesstedet i en annen medlemsstat, utstedt i samsvar med artikkel 218 i forordning [(EU) 2016/429](eu/32016r0429), inneholder følgende opplysninger:
 
-2\. I tillegg til kravene i nr. 1 skal driftsansvarlige sikre at egenerklæringsdokumenter for akvakulturdyr av listeførte arter inneholder følgende særlige opplysninger:En erklæring om at akvakulturdyrene som flyttes, ikke har symptomer på sykdom, og at de har opprinnelse iet akvakulturanlegg der det ikke forekommer økt dødelighet av ubestemt årsak, elleren del av akvakulturanlegget som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom bestemmelsesmedlemsstaten og, dersom det er relevant, eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen.Dersom akvakulturdyrene er beregnet på et akvakulturanlegg som deltar i et overvåkingsprogram for en angitt kategori C-sykdom, en erklæring om at akvakulturdyrene har opprinnelse i et akvakulturanleggsom deltar i et overvåkingsprogram for den angitte kategori C-sykdommen, ogder det ikke har vært mistanke om eller bekreftet forekomst av den angitte kategori C-sykdommen, og dette underbygges av prøvetakings- og laboratoriedataene nevnt i del B nr. 1 bokstav f) i vedlegg II.
+1. De særlige opplysningene nevnt i nr. 2 og 3 i denne artikkelen som er relevante for den aktuelle kategorien av akvakulturdyr.
+2. De generelle opplysningene angitt i del B nr. 1 i vedlegg II.
+3. Nærmere opplysninger om formålet som akvakulturdyrene skal brukes til, i samsvar med del B nr. 2 i vedlegg II.
 
-3\. I tillegg til kravene i nr. 1 i denne artikkelen skal driftsansvarlige sikre at egenerklæringsdokumenter for akvakulturdyr av arter som ikke er listeført, og akvakulturdyr av arter som er oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og ikke anses som vektorer for den relevante kategori C-sykdommen, inneholder opplysninger om at akvakulturdyrene som flyttes, ikke har symptomer på sykdom, og at de har opprinnelse iet akvakulturanlegg eller et habitat der det ikke forekommer økt dødelighet av ubestemt årsak, elleren del av akvakulturanlegget som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom bestemmelsesmedlemsstaten og, dersom det er relevant, eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen.
+2\. I tillegg til kravene i nr. 1 skal driftsansvarlige sikre at egenerklæringsdokumenter for akvakulturdyr av listeførte arter inneholder følgende særlige opplysninger:
+
+1. En erklæring om at akvakulturdyrene som flyttes, ikke har symptomer på sykdom, og at de har opprinnelse i
+
+   1. et akvakulturanlegg der det ikke forekommer økt dødelighet av ubestemt årsak, eller
+   2. en del av akvakulturanlegget som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom bestemmelsesmedlemsstaten og, dersom det er relevant, eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen.
+2. Dersom akvakulturdyrene er beregnet på et akvakulturanlegg som deltar i et overvåkingsprogram for en angitt kategori C-sykdom, en erklæring om at akvakulturdyrene har opprinnelse i et akvakulturanlegg
+
+   1. som deltar i et overvåkingsprogram for den angitte kategori C-sykdommen, og
+   2. der det ikke har vært mistanke om eller bekreftet forekomst av den angitte kategori C-sykdommen, og dette underbygges av prøvetakings- og laboratoriedataene nevnt i del B nr. 1 bokstav f) i vedlegg II.
+
+3\. I tillegg til kravene i nr. 1 i denne artikkelen skal driftsansvarlige sikre at egenerklæringsdokumenter for akvakulturdyr av arter som ikke er listeført, og akvakulturdyr av arter som er oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) og ikke anses som vektorer for den relevante kategori C-sykdommen, inneholder opplysninger om at akvakulturdyrene som flyttes, ikke har symptomer på sykdom, og at de har opprinnelse i
+
+1. et akvakulturanlegg eller et habitat der det ikke forekommer økt dødelighet av ubestemt årsak, eller
+2. en del av akvakulturanlegget som er uavhengig av den epidemiologiske enheten der det har forekommet økt dødelighet eller andre symptomer på sykdom, dersom bestemmelsesmedlemsstaten og, dersom det er relevant, eventuelle transittmedlemsstater, har gitt samtykke til denne forflytningen.
 
 ###### Avsnitt 3
 
@@ -788,21 +1452,40 @@ Regler for vedkommende myndighets ansvar for utstedelse av helsesertifikat
 
 Regler for vedkommende myndighets ansvar for utstedelse av helsesertifikat
 
-1\. Før den offentlige veterinæren undertegner et helsesertifikat som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende foreta følgende kontrollerer og undersøkelser i akvakulturanlegget:Dokumentkontroll av akvakulturanleggets journaler over dødelighet, forflytninger, helse og produksjon.Klinisk kontroll og, dersom det er relevant, en klinisk undersøkelse avde akvakulturdyrene som skal flyttes,alle døende akvakulturdyr som oppdages i andre produksjonsenheter enn enhetene der akvakulturdyrene nevnt i punkt i) holdes,akvakulturdyr fra en produksjonsenhet i akvakulturanlegget der dokumentkontrollen har vekket mistanke om forekomst av en listeført eller ny sykdom.
+1\. Før den offentlige veterinæren undertegner et helsesertifikat som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), skal vedkommende foreta følgende kontrollerer og undersøkelser i akvakulturanlegget:
 
-2\. Som unntak fra nr. 1 bokstav b) kan klinisk kontroll av egg og bløtdyr sløyfes dersom en forsendelse skal flyttes fra akvakulturanlegget innen fire uker fra datoen for siste kliniske kontroll, forutsatt at dokumentkontrollen nevnt i nr. 1 bokstav a) foretas i løpet av de siste 72 timene før forsendelsen flyttes, og denne dokumentkontrollen viser atingen listeførte arter er flyttet til akvakulturanlegget siden siste kliniske kontroll, ogdet er ikke mistanke om listeførte eller nye sykdommer i akvakulturanlegget.
+1. Dokumentkontroll av akvakulturanleggets journaler over dødelighet, forflytninger, helse og produksjon.
+2. Klinisk kontroll og, dersom det er relevant, en klinisk undersøkelse av
+
+   1. de akvakulturdyrene som skal flyttes,
+   2. alle døende akvakulturdyr som oppdages i andre produksjonsenheter enn enhetene der akvakulturdyrene nevnt i punkt i) holdes,
+   3. akvakulturdyr fra en produksjonsenhet i akvakulturanlegget der dokumentkontrollen har vekket mistanke om forekomst av en listeført eller ny sykdom.
+
+2\. Som unntak fra nr. 1 bokstav b) kan klinisk kontroll av egg og bløtdyr sløyfes dersom en forsendelse skal flyttes fra akvakulturanlegget innen fire uker fra datoen for siste kliniske kontroll, forutsatt at dokumentkontrollen nevnt i nr. 1 bokstav a) foretas i løpet av de siste 72 timene før forsendelsen flyttes, og denne dokumentkontrollen viser at
+
+1. ingen listeførte arter er flyttet til akvakulturanlegget siden siste kliniske kontroll, og
+2. det er ikke mistanke om listeførte eller nye sykdommer i akvakulturanlegget.
 
 3\. Den offentlige veterinæren skal etter å ha utført kontrollen og, dersom det er relevant, undersøkelsene fastsatt i nr. 1 utstede et helsesertifikat for forsendelsen av akvakulturdyr eller egg i løpet av de siste 72 timene før forsendelsen sendes fra opprinnelsesenheten.
 
-4\. Helsesertifikatet, som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), skal være gyldig i ti dager fra den datoen det ble utstedt av den offentlige veterinæren.Som unntak fra første ledd kan dette tidsrommet på ti dager, dersom akvakulturdyrene transporteres på vannveier eller til sjøs, forlenges med varigheten av reisen på vannveier eller til sjøs.
+4\. Helsesertifikatet, som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), skal være gyldig i ti dager fra den datoen det ble utstedt av den offentlige veterinæren.
+
+Som unntak fra første ledd kan dette tidsrommet på ti dager, dersom akvakulturdyrene transporteres på vannveier eller til sjøs, forlenges med varigheten av reisen på vannveier eller til sjøs.
 
 ###### Artikkel 16
 
 Unntak fra visse krav til kliniske undersøkelser og utstedelse av sertifikat før forflytning
 
-1\. Som unntak fra artikkel 15 nr. 3 kan det tidsrommet som den offentlige veterinæren har til rådighet for å foreta den kliniske kontrollen og, dersom det er relevant, den kliniske undersøkelsen, og utstede et helsesertifikat for andre akvakulturdyr av listeførte arter enn dem som er nevnt i artikkel 15 nr. 2, forlenges fra 72 timer til sju dager før den datoen forsendelsen sendes fra opprinnelsesanlegget, under følgende omstendigheter:Flere forflytninger av samme art av akvakulturdyr finner sted fra samme opprinnelsesanlegg til samme bestemmelsesanlegg med høyst sju dagers mellomrom mellom forflytningene.Det foretas dokumentkontroll av journalene over dødelighet, forflytninger, helse og produksjon før hver forsendelse flyttes, og det foretas en klinisk kontroll og ved behov en klinisk undersøkelse i løpet av de siste 72 timene før den første forflytningen og deretter minst hver sjuende dag til den siste av forflytningene nevnt i bokstav a) har funnet sted.Alle forsendelser er fullt ut sporbare.
+1\. Som unntak fra artikkel 15 nr. 3 kan det tidsrommet som den offentlige veterinæren har til rådighet for å foreta den kliniske kontrollen og, dersom det er relevant, den kliniske undersøkelsen, og utstede et helsesertifikat for andre akvakulturdyr av listeførte arter enn dem som er nevnt i artikkel 15 nr. 2, forlenges fra 72 timer til sju dager før den datoen forsendelsen sendes fra opprinnelsesanlegget, under følgende omstendigheter:
 
-2\. Den offentlige veterinæren skal utstede et helsesertifikat som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429) for hver forsendelse som flyttes i løpet av perioden på sju dager mellom de kliniske kontrollene nevnt i nr. 1 i denne artikkelen, forutsatt at følgende vilkår er oppfylt:Ingen listeførte arter er flyttet til akvakulturanlegget siden siste kliniske kontroll.Det er ikke mistanke om en listeført eller ny sykdom i akvakulturanlegget.
+1. Flere forflytninger av samme art av akvakulturdyr finner sted fra samme opprinnelsesanlegg til samme bestemmelsesanlegg med høyst sju dagers mellomrom mellom forflytningene.
+2. Det foretas dokumentkontroll av journalene over dødelighet, forflytninger, helse og produksjon før hver forsendelse flyttes, og det foretas en klinisk kontroll og ved behov en klinisk undersøkelse i løpet av de siste 72 timene før den første forflytningen og deretter minst hver sjuende dag til den siste av forflytningene nevnt i bokstav a) har funnet sted.
+3. Alle forsendelser er fullt ut sporbare.
+
+2\. Den offentlige veterinæren skal utstede et helsesertifikat som fastsatt i artikkel 216 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429) for hver forsendelse som flyttes i løpet av perioden på sju dager mellom de kliniske kontrollene nevnt i nr. 1 i denne artikkelen, forutsatt at følgende vilkår er oppfylt:
+
+1. Ingen listeførte arter er flyttet til akvakulturanlegget siden siste kliniske kontroll.
+2. Det er ikke mistanke om en listeført eller ny sykdom i akvakulturanlegget.
 
 ###### Avsnitt 4
 
@@ -818,13 +1501,20 @@ Driftsansvarlige for anlegg som gjennomfører et overvåkingsprogram for en angi
 
 Driftsansvarliges opplysningsplikt i forbindelse med melding om forflytning av akvatiske dyr til en annen medlemsstat
 
-Driftsansvarlige som er pålagt å underrette vedkommende myndighet i opprinnelsesmedlemsstaten om forflytning av forsendelser av akvatiske dyr til en annen medlemsstat i samsvar med artikkel 219 i forordning [(EU) 2016/429](eu/32016r0429), skal gi nevnte vedkommende myndighet følgende opplysninger om slike forsendelser som angitt idel A nr. 1 og 3 i vedlegg II når det gjelder andre akvakulturdyr enn dem som er nevnt i bokstav c) i denne artikkelen, som skal flyttes til en annen medlemsstat,del A nr. 2 og 3 i vedlegg II når det gjelder viltlevende akvatiske dyr som skal flyttes til en annen medlemsstat,del B i vedlegg II når det gjelder akvakulturdyr nevnt i artikkel 17 som skal flyttes til en annen medlemsstat.
+Driftsansvarlige som er pålagt å underrette vedkommende myndighet i opprinnelsesmedlemsstaten om forflytning av forsendelser av akvatiske dyr til en annen medlemsstat i samsvar med artikkel 219 i forordning [(EU) 2016/429](eu/32016r0429), skal gi nevnte vedkommende myndighet følgende opplysninger om slike forsendelser som angitt i
+
+1. del A nr. 1 og 3 i vedlegg II når det gjelder andre akvakulturdyr enn dem som er nevnt i bokstav c) i denne artikkelen, som skal flyttes til en annen medlemsstat,
+2. del A nr. 2 og 3 i vedlegg II når det gjelder viltlevende akvatiske dyr som skal flyttes til en annen medlemsstat,
+3. del B i vedlegg II når det gjelder akvakulturdyr nevnt i artikkel 17 som skal flyttes til en annen medlemsstat.
 
 ###### Artikkel 19
 
 Vedkommende myndighets opplysningsplikt i forbindelse med melding om forflytning av akvatiske dyr til en annen medlemsstat
 
-1\. Vedkommende myndighet i opprinnelsesmedlemsstaten som er pålagt å underrette vedkommende myndighet i bestemmelsesmedlemsstaten om forflytning av forsendelser av akvatiske dyr til en annen medlemsstat i samsvar med artikkel 220 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gi nevnte vedkommende myndighet følgende opplysninger om slike forsendelser som angitt idel A nr. 1 og 3 i vedlegg II når det gjelder andre akvakulturdyr enn dem som er nevnt i bokstav c) i artikkel 18, som skal flyttes til en annen medlemsstat,del A nr. 2 og 3 i vedlegg II når det gjelder viltlevende akvatiske dyr som skal flyttes til en annen medlemsstat.
+1\. Vedkommende myndighet i opprinnelsesmedlemsstaten som er pålagt å underrette vedkommende myndighet i bestemmelsesmedlemsstaten om forflytning av forsendelser av akvatiske dyr til en annen medlemsstat i samsvar med artikkel 220 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gi nevnte vedkommende myndighet følgende opplysninger om slike forsendelser som angitt i
+
+1. del A nr. 1 og 3 i vedlegg II når det gjelder andre akvakulturdyr enn dem som er nevnt i bokstav c) i artikkel 18, som skal flyttes til en annen medlemsstat,
+2. del A nr. 2 og 3 i vedlegg II når det gjelder viltlevende akvatiske dyr som skal flyttes til en annen medlemsstat.
 
 2\. Vedkommende myndighet i opprinnelsesmedlemsstaten skal underrette vedkommende myndighet i bestemmelsesmedlemsstaten om forflytning av akvakulturdyrene nevnt i artikkel 17, bekrefte at akvakulturanlegget deltar i overvåkingsprogrammet nevnt i samme artikkel og gi de opplysningene som er angitt i del B i vedlegg II.
 
@@ -840,7 +1530,12 @@ Utpeking av regioner til forvaltning av meldinger om forflytning
 
 Medlemsstatene skal utpeke regioner innenfor sitt territorium til forvaltning av meldinger om forflytning av akvatiske dyr til andre medlemsstater, som fastsatt i artikkel 17, 18 og 19.
 
-Når medlemsstatene utpeker disse regionene, skal de sikre atalle deler av deres territorium er dekket av minst én utpekt region,hver utpekt region hører inn under ansvarsområdet til en vedkommende myndighet som er utpekt for utstedelse av helsesertifikat i denne utpekte regionen,vedkommende myndighet som er ansvarlig for den utpekte regionen, har tilgang til TRACES,personalet fra vedkommende myndighet som er ansvarlig for den utpekte regionen, har relevant kompetanse og kunnskap, og har fått særskilt opplæring eller har tilsvarende praktisk erfaring i bruken av TRACES til utarbeiding, håndtering og oversending av opplysningene fastsatt i artikkel 17, 18 og 19.
+Når medlemsstatene utpeker disse regionene, skal de sikre at
+
+1. alle deler av deres territorium er dekket av minst én utpekt region,
+2. hver utpekt region hører inn under ansvarsområdet til en vedkommende myndighet som er utpekt for utstedelse av helsesertifikat i denne utpekte regionen,
+3. vedkommende myndighet som er ansvarlig for den utpekte regionen, har tilgang til TRACES,
+4. personalet fra vedkommende myndighet som er ansvarlig for den utpekte regionen, har relevant kompetanse og kunnskap, og har fått særskilt opplæring eller har tilsvarende praktisk erfaring i bruken av TRACES til utarbeiding, håndtering og oversending av opplysningene fastsatt i artikkel 17, 18 og 19.
 
 ### DEL III
 PRODUKSJON, FOREDLING OG DISTRIBUSJON AV PRODUKTER AV ANIMALSK OPPRINNELSE FRA ANDRE AKVAKULTURDYR ENN LEVENDE AKVAKULTURDYR
@@ -849,23 +1544,40 @@ PRODUKSJON, FOREDLING OG DISTRIBUSJON AV PRODUKTER AV ANIMALSK OPPRINNELSE FRA A
 
 1\. Dersom produktene er beregnet på videreforedling, skal driftsansvarlige bare flytte produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr av arter som er oppført i kolonne 3 i tabellen i vedlegget til gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) for kategori B- eller kategori C-sykdommer som medlemsstaten, sonen eller segmentet har oppnådd status som sykdomsfri for eller er omfattet av et utryddelsesprogram for, dersom de har opprinnelse i en medlemsstat, en sone eller et segment som er fri(tt) for de aktuelle sykdommene.
 
-2\. Som unntak fra nr. 1 trenger følgende produkter av animalsk opprinnelse fra andre akvakulturdyr av listeførte arter enn levende akvakulturdyr, ikke å oppfylle kravene i nr. 1:Fisk beregnet på konsum som slaktes og sløyes før forflytningen.Produkter av animalsk opprinnelse som er beregnet på et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+2\. Som unntak fra nr. 1 trenger følgende produkter av animalsk opprinnelse fra andre akvakulturdyr av listeførte arter enn levende akvakulturdyr, ikke å oppfylle kravene i nr. 1:
+
+1. Fisk beregnet på konsum som slaktes og sløyes før forflytningen.
+2. Produkter av animalsk opprinnelse som er beregnet på et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
 
 ### Artikkel 23. Forpliktelser for driftsansvarlige som flytter produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, fra visse anlegg og soner
 
-Driftsansvarlige skal bare flytte produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr med opprinnelse i anlegg og soner som er omfattet av de nødtiltakene for listeførte og nye sykdommer som er nevnt i artikkel 222 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), eller de forflytningsrestriksjonene som er nevnt i artikkel 222 nr. 2 bokstav b) i samme forordning, til en annen medlemsstat, en annen sone eller et annet segment, dersom følgende vilkår er oppfylt:Vedkommende myndighet på bestemmelsesstedet har tillatt forflytningene.De aktuelle produktene av animalsk opprinnelse oppfyller vilkårene som er knyttet til tillatelsen nevnt i bokstav a).
+Driftsansvarlige skal bare flytte produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr med opprinnelse i anlegg og soner som er omfattet av de nødtiltakene for listeførte og nye sykdommer som er nevnt i artikkel 222 nr. 2 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), eller de forflytningsrestriksjonene som er nevnt i artikkel 222 nr. 2 bokstav b) i samme forordning, til en annen medlemsstat, en annen sone eller et annet segment, dersom følgende vilkår er oppfylt:
+
+1. Vedkommende myndighet på bestemmelsesstedet har tillatt forflytningene.
+2. De aktuelle produktene av animalsk opprinnelse oppfyller vilkårene som er knyttet til tillatelsen nevnt i bokstav a).
 
 ### Artikkel 24. Særlige krav til transport og merking av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr
 
-Driftsansvarlige, inkludert transportører, skal sikre at forsendelser av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, som nevnt i artikkel 22 og 23 i denne forordningen, som skal følges av et helsesertifikat i samsvar med artikkel 223 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), oppfyller følgende krav:Forsendelsene kan spores under transport.Forsendelsene er identifisert ved hjelp av en leselig etikett som er plassert på et synlig sted på transportmiddelet eller containeren, alt etter hva som er praktisk mulig, eller når det gjelder sjøtransport, ved en oppføring i skipsmanifestet, og etiketten eller manifestet inneholder de opplysningene som er nødvendige for at forsendelsen kan knyttes til helsesertifikatet.
+Driftsansvarlige, inkludert transportører, skal sikre at forsendelser av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, som nevnt i artikkel 22 og 23 i denne forordningen, som skal følges av et helsesertifikat i samsvar med artikkel 223 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), oppfyller følgende krav:
+
+1. Forsendelsene kan spores under transport.
+2. Forsendelsene er identifisert ved hjelp av en leselig etikett som er plassert på et synlig sted på transportmiddelet eller containeren, alt etter hva som er praktisk mulig, eller når det gjelder sjøtransport, ved en oppføring i skipsmanifestet, og etiketten eller manifestet inneholder de opplysningene som er nødvendige for at forsendelsen kan knyttes til helsesertifikatet.
 
 ### Artikkel 25. Innholdet i helsesertifikater for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, som nevnt i artikkel 22
 
-Helsesertifikatet som vedkommende myndighet utsteder ved forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr i samsvar med artikkel 223 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429), skal for produktene nevnt i artikkel 22 i denne forordningen i tillegg til opplysningene angitt i artikkel 224 i nevnte forordning inneholde følgende opplysninger:De generelle opplysningene angitt i nr. 1 i vedlegg III.Nærmere opplysninger om formålet som produktene av animalsk opprinnelse skal brukes til, i samsvar med nr. 2 i vedlegg III.En erklæring undertegnet av den offentlige veterinæren som bekrefter at produktene av animalsk opprinnelse fra de aktuelle akvakulturdyrene oppfyller kravene fastsatt i artikkel 22 nr. 1.
+Helsesertifikatet som vedkommende myndighet utsteder ved forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr i samsvar med artikkel 223 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429), skal for produktene nevnt i artikkel 22 i denne forordningen i tillegg til opplysningene angitt i artikkel 224 i nevnte forordning inneholde følgende opplysninger:
+
+1. De generelle opplysningene angitt i nr. 1 i vedlegg III.
+2. Nærmere opplysninger om formålet som produktene av animalsk opprinnelse skal brukes til, i samsvar med nr. 2 i vedlegg III.
+3. En erklæring undertegnet av den offentlige veterinæren som bekrefter at produktene av animalsk opprinnelse fra de aktuelle akvakulturdyrene oppfyller kravene fastsatt i artikkel 22 nr. 1.
 
 ### Artikkel 26. Innholdet i helsesertifikater for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr, som nevnt i artikkel 23
 
-Helsesertifikatet som vedkommende myndighet i opprinnelsesmedlemsstaten utsteder ved forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr i samsvar med artikkel 223 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429), skal i tillegg til opplysningene angitt i artikkel 224 i nevnte forordning inneholde følgende opplysninger:De generelle opplysningene angitt i nr. 1 i vedlegg III.Nærmere opplysninger om formålet som produktene av animalsk opprinnelse skal brukes til, i samsvar med nr. 2 i vedlegg III.En erklæring undertegnet av den offentlige veterinæren som nevnt i nr. 3 i vedlegg III som bekrefter at kravene fastsatt i artikkel 23 bokstav b) er oppfylt.
+Helsesertifikatet som vedkommende myndighet i opprinnelsesmedlemsstaten utsteder ved forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr i samsvar med artikkel 223 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429), skal i tillegg til opplysningene angitt i artikkel 224 i nevnte forordning inneholde følgende opplysninger:
+
+1. De generelle opplysningene angitt i nr. 1 i vedlegg III.
+2. Nærmere opplysninger om formålet som produktene av animalsk opprinnelse skal brukes til, i samsvar med nr. 2 i vedlegg III.
+3. En erklæring undertegnet av den offentlige veterinæren som nevnt i nr. 3 i vedlegg III som bekrefter at kravene fastsatt i artikkel 23 bokstav b) er oppfylt.
 
 ### Artikkel 27. Driftsansvarliges opplysningsplikt i forbindelse med melding om forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr mellom medlemsstater
 
@@ -888,7 +1600,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 28. april 2020.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 28. april 2020.
 
 |  |  |
 | --- | --- |
@@ -921,22 +1635,104 @@ Vektorarter oppført i kolonne 4 i tabellen i vedlegget til gjennomføringsforor
 
 ### A. Opplysninger som skal inngå i helsesertifikater for akvatiske dyr eller meldinger om akvatiske dyr
 
-1. Helsesertifikater for akvakulturdyr eller meldinger om akvakulturdyr skal inneholde minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Opprinnelsesanleggets navn og adresse, ogdersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bestemmelsesanleggets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,dersom bestemmelsesstedet er et habitat, det stedet der dyrene skal losses.Transportørens navn og adresse.Artens vitenskapelige navn og akvakulturdyrenes antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.Dersom det er relevant, bekreftelse på at vedkommende myndighet i mottakermedlemsstaten har gitt sitt samtykke.
-2. Helsesertifikater eller meldinger ved forflytning av viltlevende akvatiske dyr skal inneholde minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Det stedet der dyrene ble fanget og lastet for avsendelse.Bestemmelsesstedet og,dersom bestemmelsesstedet er et habitat, det stedet der dyrene skal losses, eller,dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,Transportørens navn og adresse.Artens vitenskapelige navn og de viltlevende akvatiske dyrenes antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.Dersom det er relevant, bekreftelse på at vedkommende myndighet i mottakermedlemsstaten har gitt sitt samtykke.
-3. Helsesertifikater eller meldinger ved forflytning av akvatiske dyr skal inneholde nærmere opplysninger om hvilket formål de akvatiske dyrene er beregnet på, og angi ett av følgende formål:Fortsatt dyrehold.Utsetting i naturen.Gjenutlegging.Karantene.Prydformål.Agn.Destruering eller slakting dersom dyrene har opprinnelse i et område som er omfattet av tiltak for sykdomsbekjempelse.Slakting og videreforedling.Konsum.Rensesentraler.Ekspedisjonssentraler.Forskning.Annet (*angis nærmere*).
+1. Helsesertifikater for akvakulturdyr eller meldinger om akvakulturdyr skal inneholde minst følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Opprinnelsesanleggets navn og adresse, og
+
+      1. dersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   3. Bestemmelsesanleggets navn og adresse, og
+
+      1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,
+      3. dersom bestemmelsesstedet er et habitat, det stedet der dyrene skal losses.
+   4. Transportørens navn og adresse.
+   5. Artens vitenskapelige navn og akvakulturdyrenes antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.
+   6. Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.
+   7. Dersom det er relevant, bekreftelse på at vedkommende myndighet i mottakermedlemsstaten har gitt sitt samtykke.
+2. Helsesertifikater eller meldinger ved forflytning av viltlevende akvatiske dyr skal inneholde minst følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Det stedet der dyrene ble fanget og lastet for avsendelse.
+   3. Bestemmelsesstedet og,
+
+      1. dersom bestemmelsesstedet er et habitat, det stedet der dyrene skal losses, eller,
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,
+   4. Transportørens navn og adresse.
+   5. Artens vitenskapelige navn og de viltlevende akvatiske dyrenes antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.
+   6. Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.
+   7. Dersom det er relevant, bekreftelse på at vedkommende myndighet i mottakermedlemsstaten har gitt sitt samtykke.
+3. Helsesertifikater eller meldinger ved forflytning av akvatiske dyr skal inneholde nærmere opplysninger om hvilket formål de akvatiske dyrene er beregnet på, og angi ett av følgende formål:
+
+   1. Fortsatt dyrehold.
+   2. Utsetting i naturen.
+   3. Gjenutlegging.
+   4. Karantene.
+   5. Prydformål.
+   6. Agn.
+   7. Destruering eller slakting dersom dyrene har opprinnelse i et område som er omfattet av tiltak for sykdomsbekjempelse.
+   8. Slakting og videreforedling.
+   9. Konsum.
+   10. Rensesentraler.
+   11. Ekspedisjonssentraler.
+   12. Forskning.
+   13. Annet (*angis nærmere*).
 
 ### B. Opplysninger som skal inngå i egenerklæringsdokumentet for akvakulturdyr som flyttes til en annen medlemsstat
 
-1. Egenerklæringsdokumentet for akvakulturdyr, herunder akvakulturdyr beregnet på konsum, skal inneholde minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Opprinnelsesanleggets navn og adresse, ogdersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bestemmelsesanleggets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,Transportørens navn og adresse.Akvakulturdyrenes art, og antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.Datoen da den siste prøven ble tatt i samsvar med del III i vedlegg VI til delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689), og resultatene av prøven dersom akvakulturdyrene er beregnet på et anlegg i en annen medlemsstat som gjennomfører et overvåkingsprogram for en eller flere kategori C-sykdommer.Avsendelsesdato og -tidspunkt for forsendelsen.
-2. Egenerklæringsdokumentene til bruk ved forflytning av akvakulturdyr, herunder akvakulturdyr beregnet på konsum, skal inneholde nærmere opplysninger om hvilket formål akvakulturdyrene er beregnet på, og angi ett av følgende formål:Fortsatt dyrehold.Utsetting i naturen.Gjenutlegging.Karantene.Prydformål.Slakting og videreforedling.Konsum.Rensesentraler.Ekspedisjonssentraler.Forskning.Annet (*angis nærmere*).
+1. Egenerklæringsdokumentet for akvakulturdyr, herunder akvakulturdyr beregnet på konsum, skal inneholde minst følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Opprinnelsesanleggets navn og adresse, og
+
+      1. dersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   3. Bestemmelsesanleggets navn og adresse, og
+
+      1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,
+   4. Transportørens navn og adresse.
+   5. Akvakulturdyrenes art, og antall, volum eller vekt, alt etter hva som er relevant med tanke på dyrenes livsstadium.
+   6. Datoen da den siste prøven ble tatt i samsvar med del III i vedlegg VI til delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689), og resultatene av prøven dersom akvakulturdyrene er beregnet på et anlegg i en annen medlemsstat som gjennomfører et overvåkingsprogram for en eller flere kategori C-sykdommer.
+   7. Avsendelsesdato og -tidspunkt for forsendelsen.
+2. Egenerklæringsdokumentene til bruk ved forflytning av akvakulturdyr, herunder akvakulturdyr beregnet på konsum, skal inneholde nærmere opplysninger om hvilket formål akvakulturdyrene er beregnet på, og angi ett av følgende formål:
+
+   1. Fortsatt dyrehold.
+   2. Utsetting i naturen.
+   3. Gjenutlegging.
+   4. Karantene.
+   5. Prydformål.
+   6. Slakting og videreforedling.
+   7. Konsum.
+   8. Rensesentraler.
+   9. Ekspedisjonssentraler.
+   10. Forskning.
+   11. Annet (*angis nærmere*).
 
 ### VEDLEGG III
 Opplysninger som skal inngå i helsesertifikater for eller meldinger om produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr
 
-1. Helsesertifikater for eller meldinger om produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr skal inneholde minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Opprinnelsesanleggets eller -stedets navn og adresse, ogdersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.Bestemmelsesanleggets eller -stedets navn og adresse, ogdersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, ellerdersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,Vitenskapelig navn på arten akvakulturdyr som produktene av animalsk opprinnelse stammer fra, og antall, volum eller vekt av produktene av animalsk opprinnelse, alt etter hva som er relevant.Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.
-2. Helsesertifikater eller meldinger om forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr skal inneholde nærmere opplysninger om hvilket formål akvakulturdyrene er beregnet på, og angi ett av følgende formål:Direkte konsum.Foredling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.Annet (*angis nærmere*).
+1. Helsesertifikater for eller meldinger om produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr skal inneholde minst følgende opplysninger:
+
+   1. Avsenderens og mottakerens navn og adresse.
+   2. Opprinnelsesanleggets eller -stedets navn og adresse, og
+
+      1. dersom opprinnelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom opprinnelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer.
+   3. Bestemmelsesanleggets eller -stedets navn og adresse, og
+
+      1. dersom bestemmelsesanlegget er et godkjent anlegg, anleggets unike godkjenningsnummer, eller
+      2. dersom bestemmelsesanlegget er et registrert anlegg, anleggets unike registreringsnummer,
+   4. Vitenskapelig navn på arten akvakulturdyr som produktene av animalsk opprinnelse stammer fra, og antall, volum eller vekt av produktene av animalsk opprinnelse, alt etter hva som er relevant.
+   5. Dato, tid og sted for utstedelse av helsesertifikatet og dets gyldighetstid, den offentlige veterinærens navn, stilling og underskrift samt stempel fra vedkommende myndighet på forsendelsens opprinnelsessted.
+2. Helsesertifikater eller meldinger om forflytning av produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr skal inneholde nærmere opplysninger om hvilket formål akvakulturdyrene er beregnet på, og angi ett av følgende formål:
+
+   1. Direkte konsum.
+   2. Foredling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+   3. Annet (*angis nærmere*).
 3. Erklæringen som skal inngå i helsesertifikatet for produkter av animalsk opprinnelse fra andre akvakulturdyr enn levende akvakulturdyr som skal flyttes fra en restriksjonssone, skal lyde:
-«Produkter av animalsk opprinnelse som oppfyller vilkårene i tillatelsen [*xxx, inkludert tittel og dato for offentliggjøring av den relevante rettsakten*] når det gjelder tiltak for sykdomsbekjempelse av [*angi den relevante sykdommens navn*] i [*angi opprinnelsesrestriksjonssonen*]».
+   «Produkter av animalsk opprinnelse som oppfyller vilkårene i tillatelsen [*xxx, inkludert tittel og dato for offentliggjøring av den relevante rettsakten*] når det gjelder tiltak for sykdomsbekjempelse av [*angi den relevante sykdommens navn*] i [*angi opprinnelsesrestriksjonssonen*]».
 
 ### Forordning [(EU) 2021/2037](eu/32021r2037) om unntak fra krav til registering og journalføring
 
@@ -972,7 +1768,10 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-Denne forordningen fastsetter regler forhvilke typer akvakulturanlegg som utgjør en ubetydelig risiko, og som medlemsstatene kan unnta fra registreringskravet i samsvar med artikkel 174 i forordning [(EU) 2016/429](eu/32016r0429),hvilke typer akvakulturanlegg og transportører som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, og som medlemsstatene kan unnta fra journalføringskravene i artikkel 186 og 188 i forordning [(EU) 2016/429](eu/32016r0429).
+Denne forordningen fastsetter regler for
+
+1. hvilke typer akvakulturanlegg som utgjør en ubetydelig risiko, og som medlemsstatene kan unnta fra registreringskravet i samsvar med artikkel 174 i forordning [(EU) 2016/429](eu/32016r0429),
+2. hvilke typer akvakulturanlegg og transportører som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, og som medlemsstatene kan unnta fra journalføringskravene i artikkel 186 og 188 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### Artikkel 2. Definisjoner
 
@@ -980,19 +1779,37 @@ I denne forordningen får definisjonene fastsatt i artikkel 2 i delegert forordn
 
 ### Artikkel 3. Typer av akvakulturanlegg som medlemsstatene kan unnta fra registreringskravet
 
-Medlemsstatene kan unnta følgende typer akvakulturanlegg fra registreringskravet i samsvar med artikkel 174 i forordning [(EU) 2016/429](eu/32016r0429):Akvakulturanlegg som er lukkede anlegg, eller som ikke slipper ut avløpsvann direkte i naturlige vannmasser, og som ikke flytter akvakulturdyr til andre akvakulturanlegg eller slipper dem ut i naturen, og som er én av følgende typer akvakulturanlegg:Steder der pryddyr stilles ut i akvarier eller holdes i dammer som kjæledyr.Restauranter der akvakulturdyr stilles ut i akvarier eller dammer i påvente av konsum.Anlegg der akvakulturdyr holdes for veterinærbehandling og andre lignende formål.Detaljforretninger som holder akvakulturdyr beregnet på prydformål, som leveres direkte fra et akvakulturanlegg eller grupper av akvakulturanlegg som er godkjent i samsvar med artikkel 176 eller 177 i forordning [(EU) 2016/429](eu/32016r0429) («godkjent akvakulturanlegg»), og som selges direkte til den endelige kjæledyrholderen.Utendørs rekreasjonsanlegg der akvakulturdyr holdes i dammer for estetiske formål eller for å bedre vannkvaliteten, og dyrene leveres direkte fra et godkjent akvakulturanlegg.Husholdninger der akvakulturdyr holdes utendørs i dammer eller tanker utelukkende for eget konsum, og dyrene leveres direkte fra et godkjent akvakulturanlegg.Akvakulturanlegg som består av merder eller andre strukturer der tidligere viltlevende akvatiske dyr holdes midlertidig i naturlige vannmasser i samme epidemiologiske enhet som der de ble fanget, i påvente av at de tas ut for konsum.
+Medlemsstatene kan unnta følgende typer akvakulturanlegg fra registreringskravet i samsvar med artikkel 174 i forordning [(EU) 2016/429](eu/32016r0429):
+
+1. Akvakulturanlegg som er lukkede anlegg, eller som ikke slipper ut avløpsvann direkte i naturlige vannmasser, og som ikke flytter akvakulturdyr til andre akvakulturanlegg eller slipper dem ut i naturen, og som er én av følgende typer akvakulturanlegg:
+
+   1. Steder der pryddyr stilles ut i akvarier eller holdes i dammer som kjæledyr.
+   2. Restauranter der akvakulturdyr stilles ut i akvarier eller dammer i påvente av konsum.
+   3. Anlegg der akvakulturdyr holdes for veterinærbehandling og andre lignende formål.
+   4. Detaljforretninger som holder akvakulturdyr beregnet på prydformål, som leveres direkte fra et akvakulturanlegg eller grupper av akvakulturanlegg som er godkjent i samsvar med artikkel 176 eller 177 i forordning [(EU) 2016/429](eu/32016r0429) («godkjent akvakulturanlegg»), og som selges direkte til den endelige kjæledyrholderen.
+   5. Utendørs rekreasjonsanlegg der akvakulturdyr holdes i dammer for estetiske formål eller for å bedre vannkvaliteten, og dyrene leveres direkte fra et godkjent akvakulturanlegg.
+   6. Husholdninger der akvakulturdyr holdes utendørs i dammer eller tanker utelukkende for eget konsum, og dyrene leveres direkte fra et godkjent akvakulturanlegg.
+2. Akvakulturanlegg som består av merder eller andre strukturer der tidligere viltlevende akvatiske dyr holdes midlertidig i naturlige vannmasser i samme epidemiologiske enhet som der de ble fanget, i påvente av at de tas ut for konsum.
 
 ### Artikkel 4. Typer av akvakulturanlegg og transportører som medlemsstatene kan unnta fra visse journalføringskrav
 
-1\. De typene av akvakulturanlegg som medlemsstatene i henhold til artikkel 186 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429) kan unnta fra kravet om å journalføre alle eller noen av opplysningene angitt i artikkel 186 nr. 1 bokstav c, d og e i nevnte forordning, skal være akvakulturanlegg eller grupper av akvakulturanlegg som oppfyller følgende vilkår:De er registrert av vedkommende myndighet i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429).De flytter ikke akvakulturdyr til andre akvakulturanlegg eller slipper dem ut i naturen.
+1\. De typene av akvakulturanlegg som medlemsstatene i henhold til artikkel 186 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429) kan unnta fra kravet om å journalføre alle eller noen av opplysningene angitt i artikkel 186 nr. 1 bokstav c, d og e i nevnte forordning, skal være akvakulturanlegg eller grupper av akvakulturanlegg som oppfyller følgende vilkår:
 
-2\. Transportørene som medlemsstatene i henhold til artikkel 188 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429) kan unnta fra kravet om å journalføre alle eller noen av opplysningene angitt i artikkel 188 nr. 1 i nevnte forordning, skal være transportører av følgende kategorier av akvatiske dyr, forutsatt at de akvatiske dyrene flyttes i forseglede og lekkasjesikre beholdere som forblir uåpnede og intakte fra tidspunktet de lastes inn, til tidspunktet de losses på det endelige bestemmelsesstedet:Akvakulturdyr som er beregnet på prydformål.Egg og gameter fra akvatiske dyr som er beregnet på akvakultur eller utsetting i naturen.
+1. De er registrert av vedkommende myndighet i samsvar med artikkel 173 i forordning [(EU) 2016/429](eu/32016r0429).
+2. De flytter ikke akvakulturdyr til andre akvakulturanlegg eller slipper dem ut i naturen.
+
+2\. Transportørene som medlemsstatene i henhold til artikkel 188 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429) kan unnta fra kravet om å journalføre alle eller noen av opplysningene angitt i artikkel 188 nr. 1 i nevnte forordning, skal være transportører av følgende kategorier av akvatiske dyr, forutsatt at de akvatiske dyrene flyttes i forseglede og lekkasjesikre beholdere som forblir uåpnede og intakte fra tidspunktet de lastes inn, til tidspunktet de losses på det endelige bestemmelsesstedet:
+
+1. Akvakulturdyr som er beregnet på prydformål.
+2. Egg og gameter fra akvatiske dyr som er beregnet på akvakultur eller utsetting i naturen.
 
 ### Artikkel 5. Ikrafttredelse
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 22. november 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 22. november 2021.
 
 |  |  |
 | --- | --- |

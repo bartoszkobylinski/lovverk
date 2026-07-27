@@ -15,7 +15,7 @@ xml_hash: "506bc84c34540dd41f75be4d22b4717e34076fe4c46a5d49873efa205a4b3f03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 I [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v.](lov/1993-06-04-58) skal [§ 2](lov/1993-06-04-58/§2) nr. 4 lyde:
 
-4\. *(Svalbard)*Loven gjelder for Svalbard.
+4\. *(Svalbard)*
+
+Loven gjelder for Svalbard.
 
 ## II
 

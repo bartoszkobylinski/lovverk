@@ -22,7 +22,23 @@ eu_basis: []
 
 # Delegering av myndighet og overføring av oppgaver etter lov om laksefisk og innlandsfisk m.v. til kommunene
 
-Miljøverndepartementet delegerer herved følgende myndighet til kommunene:*Myndighet hjemlet direkte i lov*[§ 12](lov/1992-05-15-47/§12) første ledd (Tiltak i krisesituasjoner)[§ 25](lov/1992-05-15-47/§25) andre ledd siste punktum, tredje og femte ledd (felles forvaltning, driftsplan og bruksordning for vassdrag)[§ 27](lov/1992-05-15-47/§27) første ledd andre punktum og tredje ledd (gi pålegg om salg av fiskekort)[§ 28](lov/1967-02-10/§28) andre og fjerde ledd (pålegg om fiskekulturtiltak)[§ 31](lov/1992-05-15-47/§31) første ledd, bokstav a–d og andre ledd tilsvarende (fastsetting av grenser m.v.)[§ 36](lov/1992-05-15-47/§36) tredje ledd (pålegg om gjenoppretting av friløp)*Myndighet hjemlet i sentral forskrift*[Forskrift 15. juni 1993 nr. 532 om fiskeravgift § 3](forskrift/1993-06-15-532/§3) (dispensere fra avgiftsplikten)*I tillegg legges følgende oppgaver til kommunene:*[§ 15](lov/1992-05-15-47/§15) andre ledd første setning (merking av sonegrenser i elv)[§ 47](lov/1992-05-15-47/§47) andre ledd (ta vare på verdien av ulovlig fanget fisk)
+Miljøverndepartementet delegerer herved følgende myndighet til kommunene:
+
+- *Myndighet hjemlet direkte i lov*
+
+  - [§ 12](lov/1992-05-15-47/§12) første ledd (Tiltak i krisesituasjoner)
+  - [§ 25](lov/1992-05-15-47/§25) andre ledd siste punktum, tredje og femte ledd (felles forvaltning, driftsplan og bruksordning for vassdrag)
+  - [§ 27](lov/1992-05-15-47/§27) første ledd andre punktum og tredje ledd (gi pålegg om salg av fiskekort)
+  - [§ 28](lov/1967-02-10/§28) andre og fjerde ledd (pålegg om fiskekulturtiltak)
+  - [§ 31](lov/1992-05-15-47/§31) første ledd, bokstav a–d og andre ledd tilsvarende (fastsetting av grenser m.v.)
+  - [§ 36](lov/1992-05-15-47/§36) tredje ledd (pålegg om gjenoppretting av friløp)
+- *Myndighet hjemlet i sentral forskrift*
+
+  - [Forskrift 15. juni 1993 nr. 532 om fiskeravgift § 3](forskrift/1993-06-15-532/§3) (dispensere fra avgiftsplikten)
+- *I tillegg legges følgende oppgaver til kommunene:*
+
+  - [§ 15](lov/1992-05-15-47/§15) andre ledd første setning (merking av sonegrenser i elv)
+  - [§ 47](lov/1992-05-15-47/§47) andre ledd (ta vare på verdien av ulovlig fanget fisk)
 
 Departementet anser at en overføring av myndighet og oppgaver som angitt i dette brevet vil styrke forvaltningen ved at en del beslutninger tas i de lokalmiljøer som er direkte berørt. Vi ser det imidlertid som ønskelig at det holdes nær kontakt med fylkesmennenes miljøvernavdelinger. I den forbindelse vises til pågående arbeid med utvikling av rapporteringsrutiner fra kommunene til fylkesmennene innenfor miljøvern. Vi vil i samråd med Kommunenes Sentralforbund komme tilbake til dette.
 

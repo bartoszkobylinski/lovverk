@@ -15,7 +15,7 @@ xml_hash: "5d2914384b738122715d208c748312480829d177bdc40986e6b72a171368c043"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,30 @@ Forskriften skal også bidra til å verne liv, helse, miljø og materielle verdi
 
 Forskriften gjelder tilgjengeliggjøring, innførsel, utførsel, besittelse og bruk av utgangsstoffer for eksplosiver underlagt restriksjoner og regulerte utgangsstoffer for eksplosiver.
 
-Utgangsstoffer for eksplosiver underlagt restriksjoner (Liste 1) er:salpetersyre, over 3 vektprosenthydrogenperoksid, over 12 vektprosentsvovelsyre, over 15 vektprosentnitrometan, over 16 vektprosentammoniumnitrat, over 16 vektprosent nitrogen fra ammoniumnitratkaliumklorat, over 40 vektprosentkaliumperklorat, over 40 vektprosentnatriumklorat, over 40 vektprosentnatriumperklorat, over 40 vektprosent.
+Utgangsstoffer for eksplosiver underlagt restriksjoner (Liste 1) er:
 
-Regulerte utgangsstoffer for eksplosiver (Liste 2) er:utgangsstoffer for eksplosiver underlagt restriksjoner uavhengig av konsentrasjonsgrensenheksaminacetonkaliumnitratnatriumnitratkalsiumnitratkalsiumammoniumnitratmagnesiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer)magnesiumnitratheksahydrataluminiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer).
+- salpetersyre, over 3 vektprosent
+- hydrogenperoksid, over 12 vektprosent
+- svovelsyre, over 15 vektprosent
+- nitrometan, over 16 vektprosent
+- ammoniumnitrat, over 16 vektprosent nitrogen fra ammoniumnitrat
+- kaliumklorat, over 40 vektprosent
+- kaliumperklorat, over 40 vektprosent
+- natriumklorat, over 40 vektprosent
+- natriumperklorat, over 40 vektprosent.
+
+Regulerte utgangsstoffer for eksplosiver (Liste 2) er:
+
+- utgangsstoffer for eksplosiver underlagt restriksjoner uavhengig av konsentrasjonsgrensen
+- heksamin
+- aceton
+- kaliumnitrat
+- natriumnitrat
+- kalsiumnitrat
+- kalsiumammoniumnitrat
+- magnesiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer)
+- magnesiumnitratheksahydrat
+- aluminiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer).
 
 Forskriften gjelder også stoffblandinger av regulerte utgangsstoffer for eksplosiver, med unntak for homogene blandinger med mer enn 5 bestanddeler der konsentrasjonen av hver av de regulerte utgangsstoffene for eksplosiver er under 1 vektprosent.
 
@@ -46,7 +67,19 @@ Forskriften gjelder ikke produkter, pyrotekniske artikler eller legemidler, slik
 
 ## § 4. Definisjoner
 
-I forskriften menes med*stoff:* et kjemisk grunnstoff og dets forbindelser, i naturlig tilstand eller framkommet ved en fremstillingsprosess, herunder ethvert tilsetningsstoff som er nødvendig for å bevare stoffets stabilitet, samt enhver urenhet som følger av prosessen som benyttes, men med unntak av ethvert løsemiddel som kan utskilles uten å påvirke stoffets stabilitet eller endre dets sammensetning*stoffblanding:* en blanding eller løsning som består av to eller flere stoffer*produkt:* en gjenstand som i produksjon gis en spesiell form, overflate eller utforming som i større grad enn dens kjemiske sammensetning bestemmer dens funksjon*tilgjengeliggjøring:* enhver forsyning enten mot betaling eller gratis*bruk:* enhver form for bearbeiding, sammensetning, forbruk, lagring, oppbevaring, behandling, påfylling i beholdere, overføring fra én beholder til en annen, blanding, produksjon av et produkt eller enhver annen utnytting*mistenkelig transaksjon:* enhver transaksjon som gjelder regulerte utgangsstoffer for eksplosiver der det er rimelig grunn til mistanke, etter at alle relevante faktorer er tatt i betraktning, om at det aktuelle stoffet eller den aktuelle stoffblandingen er beregnet på ulovlig fremstilling av eksplosiver*medlem av allmennheten*: enhver fysisk eller juridisk person som opptrer med formål som ikke er knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet*yrkesbruker*: enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer eller enheter som har et påviselig behov for et utgangsstoff for eksplosiver underlagt restriksjoner til formål knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet, herunder landbruksvirksomhet, som utøves enten på heltid eller deltid og ikke nødvendigvis er knyttet til størrelsen på landarealet der landbruksvirksomheten utøves, forutsatt at disse formålene ikke omfatter det å gjøre dette utgangsstoffet for eksplosiver underlagt restriksjoner tilgjengelig for en annen person*markedsdeltaker:* enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer og/eller enheter som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig på markedet, på internett eller utenfor internett, herunder på nettbaserte markedsplasser*nettbasert markedsplass:* et mellomledd som yter tjenester som gjør det mulig for markedsdeltakere på den ene siden og medlemmer av allmennheten, yrkesbrukere eller andre markedsdeltakere på den andre siden å gjennomføre transaksjoner som gjelder regulerte utgangsstoffer for eksplosiver gjennom nettbasert salgs- eller tjenesteavtaler, enten på den nettbaserte markedsplassens nettsted eller på en markedsdeltakers nettsted som bruker databehandlingstjenester som tilbys av den nettbaserte markedsplassen*jordbruksvirksomhet*: produksjon, avl eller dyrking av jordbruksprodukter, herunder innhøsting, melking, oppdrett og hold av dyr for jordbruksformål, eller for å holde jordbruksarealet i god jordbruksmessig og miljømessig stand som fastsatt i norsk rett.
+I forskriften menes med
+
+1. *stoff:* et kjemisk grunnstoff og dets forbindelser, i naturlig tilstand eller framkommet ved en fremstillingsprosess, herunder ethvert tilsetningsstoff som er nødvendig for å bevare stoffets stabilitet, samt enhver urenhet som følger av prosessen som benyttes, men med unntak av ethvert løsemiddel som kan utskilles uten å påvirke stoffets stabilitet eller endre dets sammensetning
+2. *stoffblanding:* en blanding eller løsning som består av to eller flere stoffer
+3. *produkt:* en gjenstand som i produksjon gis en spesiell form, overflate eller utforming som i større grad enn dens kjemiske sammensetning bestemmer dens funksjon
+4. *tilgjengeliggjøring:* enhver forsyning enten mot betaling eller gratis
+5. *bruk:* enhver form for bearbeiding, sammensetning, forbruk, lagring, oppbevaring, behandling, påfylling i beholdere, overføring fra én beholder til en annen, blanding, produksjon av et produkt eller enhver annen utnytting
+6. *mistenkelig transaksjon:* enhver transaksjon som gjelder regulerte utgangsstoffer for eksplosiver der det er rimelig grunn til mistanke, etter at alle relevante faktorer er tatt i betraktning, om at det aktuelle stoffet eller den aktuelle stoffblandingen er beregnet på ulovlig fremstilling av eksplosiver
+7. *medlem av allmennheten*: enhver fysisk eller juridisk person som opptrer med formål som ikke er knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet
+8. *yrkesbruker*: enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer eller enheter som har et påviselig behov for et utgangsstoff for eksplosiver underlagt restriksjoner til formål knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet, herunder landbruksvirksomhet, som utøves enten på heltid eller deltid og ikke nødvendigvis er knyttet til størrelsen på landarealet der landbruksvirksomheten utøves, forutsatt at disse formålene ikke omfatter det å gjøre dette utgangsstoffet for eksplosiver underlagt restriksjoner tilgjengelig for en annen person
+9. *markedsdeltaker:* enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer og/eller enheter som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig på markedet, på internett eller utenfor internett, herunder på nettbaserte markedsplasser
+10. *nettbasert markedsplass:* et mellomledd som yter tjenester som gjør det mulig for markedsdeltakere på den ene siden og medlemmer av allmennheten, yrkesbrukere eller andre markedsdeltakere på den andre siden å gjennomføre transaksjoner som gjelder regulerte utgangsstoffer for eksplosiver gjennom nettbasert salgs- eller tjenesteavtaler, enten på den nettbaserte markedsplassens nettsted eller på en markedsdeltakers nettsted som bruker databehandlingstjenester som tilbys av den nettbaserte markedsplassen
+11. *jordbruksvirksomhet*: produksjon, avl eller dyrking av jordbruksprodukter, herunder innhøsting, melking, oppdrett og hold av dyr for jordbruksformål, eller for å holde jordbruksarealet i god jordbruksmessig og miljømessig stand som fastsatt i norsk rett.
 
 For øvrig gjelder definisjonene i forordning [(EU) 2019/1148](eu/32019r1148) artikkel 3.
 
@@ -112,7 +145,10 @@ Markedsdeltakeren, som selger til andre markedsdeltakere, og yrkesbrukere, skal 
 
 En markedsdeltaker og en yrkesbruker, skal oppbevare regulerte utgangsstoffer for eksplosiver forsvarlig sikret. De skal ha kontroll på hvem som har adgang til de regulerte utgangsstoffene.
 
-Markedsdeltakeren og yrkesbrukeren skal oppbevare utgangsstoffer for eksplosiver underlagt restriksjoner utilgjengelig for uvedkommende ogforsvarlig innelåst i egnet bygning, rom, skap eller annen innretning ellerinnenfor et adgangskontrollert og inngjerdet område.
+Markedsdeltakeren og yrkesbrukeren skal oppbevare utgangsstoffer for eksplosiver underlagt restriksjoner utilgjengelig for uvedkommende og
+
+1. forsvarlig innelåst i egnet bygning, rom, skap eller annen innretning eller
+2. innenfor et adgangskontrollert og inngjerdet område.
 
 På utsalgssteder skal utgangsstoffer for eksplosiver underlagt restriksjoner oppbevares på områder som er utilgjengelig for kundene.
 
@@ -122,7 +158,12 @@ Stoffer eller stoffblandinger med ammoniumnitrat som skal brukes til lovlig prod
 
 ## § 14. Unntak for jordbrukeres oppbevaring av gjødsel
 
-Er det uforholdsmessig byrdefullt for en jordbruker å oppbevare gjødsel med 16 til 28 vektprosent nitrogen fra ammoniumnitrat på en måte som tilfredsstiller kravene i [§ 13](forskrift/2024-08-28-2049/§13), skal gjødselen som minimum oppbevares på en av følgende måter:under daglig oppsyn på et område som er skjermet fra offentlig vei, og som ikke er lett synlig eller tilgjengelig for uvedkommendeunder jevnlig oppsyn avlåst i en egnet bygning uten tilgang for uvedkommendeunder jevnlig oppsyn på et avlåst område som ikke er lett tilgjengelig for uvedkommendeunder jevnlig oppsyn i en annen egnet låsbar innretning som ikke er lett tilgjengelig for uvedkommende.
+Er det uforholdsmessig byrdefullt for en jordbruker å oppbevare gjødsel med 16 til 28 vektprosent nitrogen fra ammoniumnitrat på en måte som tilfredsstiller kravene i [§ 13](forskrift/2024-08-28-2049/§13), skal gjødselen som minimum oppbevares på en av følgende måter:
+
+1. under daglig oppsyn på et område som er skjermet fra offentlig vei, og som ikke er lett synlig eller tilgjengelig for uvedkommende
+2. under jevnlig oppsyn avlåst i en egnet bygning uten tilgang for uvedkommende
+3. under jevnlig oppsyn på et avlåst område som ikke er lett tilgjengelig for uvedkommende
+4. under jevnlig oppsyn i en annen egnet låsbar innretning som ikke er lett tilgjengelig for uvedkommende.
 
 Dersom risikovurderingen etter [§ 12](forskrift/2024-08-28-2049/§12) tilsier det, skal jordbrukeren innføre ytterligere sikringstiltak, for eksempel kameraovervåkning, vakthold, alarm eller annen ekstra innbruddssikring.
 
@@ -152,7 +193,15 @@ Direktoratet for samfunnssikkerhet og beredskap kan la andre offentlige eller pr
 
 Direktoratet for samfunnssikkerhet og beredskap kan etter søknad i særlige tilfeller dispensere fra forbudet i [§ 6](forskrift/2024-08-28-2049/§6).
 
-I vurderingen skal det særlig legges vekt påom det finnes alternative egnede lovlige stoffer eller stoffblandinger, eller alternative metoder uten bruk av utgangsstoffer underlagt restriksjonerom søkeren er skikket til å håndtere utgangsstoffeneom søkeren har dokumentert et legitimt behov for stoffetom søkeren har kompetansen som trengs for å bruke utgangsstoffethvilken mengde og konsentrasjon det søkes omhvor lenge det søkes dispensasjon forsøkerens mulighet til å oppfylle kravene etter [§ 9](forskrift/2024-08-28-2049/§9), [§ 12](forskrift/2024-08-28-2049/§12), [§ 13](forskrift/2024-08-28-2049/§13) og [§ 15](forskrift/2024-08-28-2049/§15) i tillegg til å gi markedsaktøren de nødvendige opplysningene etter [§ 7](forskrift/2024-08-28-2049/§7).
+I vurderingen skal det særlig legges vekt på
+
+1. om det finnes alternative egnede lovlige stoffer eller stoffblandinger, eller alternative metoder uten bruk av utgangsstoffer underlagt restriksjoner
+2. om søkeren er skikket til å håndtere utgangsstoffene
+3. om søkeren har dokumentert et legitimt behov for stoffet
+4. om søkeren har kompetansen som trengs for å bruke utgangsstoffet
+5. hvilken mengde og konsentrasjon det søkes om
+6. hvor lenge det søkes dispensasjon for
+7. søkerens mulighet til å oppfylle kravene etter [§ 9](forskrift/2024-08-28-2049/§9), [§ 12](forskrift/2024-08-28-2049/§12), [§ 13](forskrift/2024-08-28-2049/§13) og [§ 15](forskrift/2024-08-28-2049/§15) i tillegg til å gi markedsaktøren de nødvendige opplysningene etter [§ 7](forskrift/2024-08-28-2049/§7).
 
 Direktoratet for samfunnssikkerhet og beredskap kan stille nødvendige vilkår for dispensasjonen og trekke dispensasjonen tilbake dersom vilkårene ikke oppfylles.
 

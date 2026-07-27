@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Terskelverdier for driftsinntekter og balansesum
 
-For beslutning om å unnlate revisjon etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) gjelder følgende terskelverdier for driftsinntekter og balansesum etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) første ledd første punktum nr. 1 og 2:Driftsinntektene av den samlede virksomheten må være mindre enn 7 millioner kroner.Selskapets balansesum må være mindre enn 27 millioner kroner.
+For beslutning om å unnlate revisjon etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) gjelder følgende terskelverdier for driftsinntekter og balansesum etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) første ledd første punktum nr. 1 og 2:
+
+1. Driftsinntektene av den samlede virksomheten må være mindre enn 7 millioner kroner.
+2. Selskapets balansesum må være mindre enn 27 millioner kroner.
 
 Terskelverdiene etter første ledd nr. 1 og 2 skal baseres på årsregnskapet for siste regnskapsår.
 
@@ -32,7 +35,9 @@ Terskelverdiene etter første ledd nr. 1 og 2 skal baseres på årsregnskapet fo
 
 ## § 2. Terskelverdi for aksjeinnskudd
 
-Har selskapet ikke fastsatt sitt første årsregnskap, gjelder følgende terskelverdi for aksjeinnskudd etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) annet ledd annet punktum:Aksjeinnskuddene i forbindelse med stiftelsen må være mindre enn 27 millioner kroner.
+Har selskapet ikke fastsatt sitt første årsregnskap, gjelder følgende terskelverdi for aksjeinnskudd etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) annet ledd annet punktum:
+
+- Aksjeinnskuddene i forbindelse med stiftelsen må være mindre enn 27 millioner kroner.
 
 > Endret ved forskrift [13 feb 2023 nr. 186](forskrift/2023-02-13-186) (i kraft 1 mai 2023).
 

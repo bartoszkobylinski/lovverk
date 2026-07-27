@@ -15,7 +15,7 @@ xml_hash: "903c2d37641a45976fe3a8dab8f7e7d84693256c31760f2206281554189e158e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 ### § 1. Gjennomføring av forordning (EU) 2018/1139
 
-Forordning [(EU) 2018/1139](eu/32018r1139) om felles regler for sivil luftfart og om opprettelse av Den europeiske unions flysikkerhetsbyrå, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zb, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, der særlig kan nevnes:Til artikkel 84: Myndigheten til å ilegge en fysisk eller juridisk person som Byrået har utstedt et sertifikat til, eller som har avgitt en erklæring til det, bøter og tvangsmulkter i samsvar med denne forordningen, skal, i tilfeller der den fysiske eller juridiske personen har sitt hovedforetak i en EFTA-stat eller, dersom vedkommende ikke har noe hovedforetak, der personen har sitt bosted eller etableringssted i en EFTA-stat, ligge hos EFTAs overvåkingsorgan, og med endringene som følger av forordning [(EU) 2021/1087](eu/32021r1087) og forordning [(EU) 2025/870](eu/32025r0870).
+Forordning [(EU) 2018/1139](eu/32018r1139) om felles regler for sivil luftfart og om opprettelse av Den europeiske unions flysikkerhetsbyrå, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zb, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, der særlig kan nevnes:
+
+1. Til artikkel 84: Myndigheten til å ilegge en fysisk eller juridisk person som Byrået har utstedt et sertifikat til, eller som har avgitt en erklæring til det, bøter og tvangsmulkter i samsvar med denne forordningen, skal, i tilfeller der den fysiske eller juridiske personen har sitt hovedforetak i en EFTA-stat eller, dersom vedkommende ikke har noe hovedforetak, der personen har sitt bosted eller etableringssted i en EFTA-stat, ligge hos EFTAs overvåkingsorgan, og med endringene som følger av forordning [(EU) 2021/1087](eu/32021r1087) og forordning [(EU) 2025/870](eu/32025r0870).
 
 > Endret ved forskrift [15 jan 2026 nr. 49](forskrift/2026-01-15-49).
 

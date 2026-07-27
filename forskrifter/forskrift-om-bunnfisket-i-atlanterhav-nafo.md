@@ -30,7 +30,12 @@ Formålet med denne forskrift er å beskytte sårbare marine økosystemer, og gj
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med:bunnredskap, redskap som ved normalt fiske sannsynligvis vil komme i kontakt med havbunnen.eksisterende fiskeområder, områder som er identifisert av den nordvestatlantiske fiskeriorganisasjon (NAFO) til å være eksisterende fiskeområder. Koordinatene for disse områdene finnes på hjemmesidene til organisasjonen; [http://www.nafo.int/fisheries/regulations/nafo-footprint.pdf](https://www.nafo.int/fisheries/regulations/nafo-footprint.pdf).nye fiskeområder, områder som ligger utenfor eksisterende fiskeområder.sammenstøt, tilfeller når mengden per fangst (trålhal, line- eller garnsetting) overstiger 7 kilogram sjøfjær, 60 kilogram andre levende koraller og 300 kilogram svamp.
+I denne forskrift forstås med:
+
+1. bunnredskap, redskap som ved normalt fiske sannsynligvis vil komme i kontakt med havbunnen.
+2. eksisterende fiskeområder, områder som er identifisert av den nordvestatlantiske fiskeriorganisasjon (NAFO) til å være eksisterende fiskeområder. Koordinatene for disse områdene finnes på hjemmesidene til organisasjonen; [http://www.nafo.int/fisheries/regulations/nafo-footprint.pdf](https://www.nafo.int/fisheries/regulations/nafo-footprint.pdf).
+3. nye fiskeområder, områder som ligger utenfor eksisterende fiskeområder.
+4. sammenstøt, tilfeller når mengden per fangst (trålhal, line- eller garnsetting) overstiger 7 kilogram sjøfjær, 60 kilogram andre levende koraller og 300 kilogram svamp.
 
 > Endret ved [forskrifter 18 nov 2009 nr. 1382](forskrift/2009-11-18-1382), [10 jan 2012 nr. 27](forskrift/2012-01-10-27), [21 mars 2013 nr. 294](forskrift/2013-03-21-294).
 
@@ -38,7 +43,10 @@ I denne forskrift forstås med:bunnredskap, redskap som ved normalt fiske sannsy
 
 Fartøy skal for hver fangst beregne kvantum indikatorer på sårbare marine økosystem.
 
-Dersom beregningen viser et sammenstøt, skal fartøyet uten ugrunnet opphold gjennomføre følgende prosedyre:rapportere hendelsen til Fiskeridirektoratet, hvor beliggenhet og type berørt økosystem fremgår, ogstoppe fisket og flytte minst 2 nautiske mil fra den posisjon som, basert på all tilgjengelig informasjon, mest sannsynlig er nærmest det identifiserte sårbare marine økosystem.
+Dersom beregningen viser et sammenstøt, skal fartøyet uten ugrunnet opphold gjennomføre følgende prosedyre:
+
+1. rapportere hendelsen til Fiskeridirektoratet, hvor beliggenhet og type berørt økosystem fremgår, og
+2. stoppe fisket og flytte minst 2 nautiske mil fra den posisjon som, basert på all tilgjengelig informasjon, mest sannsynlig er nærmest det identifiserte sårbare marine økosystem.
 
 > Endret ved [forskrifter 19 jan 2011 nr. 58](forskrift/2011-01-19-58), [21 mars 2013 nr. 294](forskrift/2013-03-21-294).
 
@@ -46,13 +54,21 @@ Dersom beregningen viser et sammenstøt, skal fartøyet uten ugrunnet opphold gj
 
 I tillegg til den tillatelse som eventuelt er gitt i medhold av [forskrift 4. mars 1998 nr. 173](forskrift/1998-03-04-173) om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon, må fartøy ha en spesialtillatelse fra Fiskeridirektoratet for prøvefiske i nye fiskeområder.
 
-Slik spesialtillatelse kan bare gis dersom fartøyet har forelagt for Fiskeridirektoratet til godkjennelse:en detaljert protokoll for prøvefiske som inkluderer en fangstplan om fiskeredskaper, fiskeslag, bifangst, tidspunkt og områder, ogen plan for å unngå skade på sårbare marine økosystem, ogen plan for dagbokføring og rapportering, ogen plan for innsamling av data om sårbare marine økosystem.
+Slik spesialtillatelse kan bare gis dersom fartøyet har forelagt for Fiskeridirektoratet til godkjennelse:
+
+1. en detaljert protokoll for prøvefiske som inkluderer en fangstplan om fiskeredskaper, fiskeslag, bifangst, tidspunkt og områder, og
+2. en plan for å unngå skade på sårbare marine økosystem, og
+3. en plan for dagbokføring og rapportering, og
+4. en plan for innsamling av data om sårbare marine økosystem.
 
 Fiske i nye områder er forbudt uten observatør om bord, godkjent av Fiskeridirektoratet. Kostnadene ved å ha observatør om bord, herunder utgifter til lønn, inklusive renter ved forsinket betaling, transport til og fra fartøy, kost og losji til havs skal dekkes av fartøyet.
 
 Fartøy skal for hver fangst beregne kvantum indikatorer på sårbare marine økosystem.
 
-Dersom beregningen viser et sammenstøt, skal fartøyet uten ugrunnet opphold gjennomføre følgende prosedyre:rapportere hendelsen til Fiskeridirektoratet, hvor beliggenhet og type berørt økosystem fremgår, ogstoppe fisket og flytte minst 2 nautiske mil fra den posisjon som, basert på all tilgjengelig informasjon, mest sannsynlig er nærmest det identifiserte sårbare marine økosystem.
+Dersom beregningen viser et sammenstøt, skal fartøyet uten ugrunnet opphold gjennomføre følgende prosedyre:
+
+1. rapportere hendelsen til Fiskeridirektoratet, hvor beliggenhet og type berørt økosystem fremgår, og
+2. stoppe fisket og flytte minst 2 nautiske mil fra den posisjon som, basert på all tilgjengelig informasjon, mest sannsynlig er nærmest det identifiserte sårbare marine økosystem.
 
 > Endret ved [forskrifter 19 jan 2011 nr. 58](forskrift/2011-01-19-58), [21 mars 2013 nr. 294](forskrift/2013-03-21-294).
 

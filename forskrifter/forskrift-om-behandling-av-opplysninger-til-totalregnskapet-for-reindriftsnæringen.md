@@ -32,7 +32,11 @@ Forskriften gjelder behandling av alle grunnlagsdata for Totalregnskapet for rei
 
 ## § 3. Opplysninger som kan behandles
 
-Til bruk i Totalregnskapet for reindriftsnæringen kan Landbruksdirektoratet behandle nødvendige opplysninger om siidaandelsleder og siidaandelsleders ektefelle/samboer, herunder:personnummer,næringsspesifikasjoner,skattemeldinger.
+Til bruk i Totalregnskapet for reindriftsnæringen kan Landbruksdirektoratet behandle nødvendige opplysninger om siidaandelsleder og siidaandelsleders ektefelle/samboer, herunder:
+
+1. personnummer,
+2. næringsspesifikasjoner,
+3. skattemeldinger.
 
 ## § 4. Behandling av opplysninger
 

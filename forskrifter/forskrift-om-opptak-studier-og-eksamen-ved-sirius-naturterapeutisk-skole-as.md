@@ -50,7 +50,22 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 (3) Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 23 år i løpet av året det søkes opptak. Opptakskomite som består av rektor og daglig leder foretar realkompetansevurdering. Rektor fatter vedtak om opptak på bakgrunn av realkompetanse. Realkompetansen vurderes opp mot læringsutbytte på nivå 4A i Nasjonalt kvalifikasjonsrammeverk for livslang læring.
 
-(4) Utforming av realkompetansesøknad gjøres ved å benytte søknadsskjema på skolens hjemmeside og dokumentasjon legges ved. All dokumentasjon skal være skriftlig. Realkompetansevurdering skjer etter følgende retningslinjer:Søkere må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.Dokumentasjon må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og fellesfagene på vg1 og vg2 i yrkesfaglige programområder.Realkompetansen kan være oppnådd både gjennom utdanning og praktisk yrkeserfaring over 5 år. Det oppgis i studieplanen for det enkelte studie hva slags realkompetanse som kvalifiserer for opptak.Søkeren må ha kompetanse i norsk hovedmål og norsk muntlig tilsvarende Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring. Dokumentasjon av formell kompetanse i norskkunnskaper må fremlegges i form av karakterutskrift enten fra Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglig utdanningsprogram i videregående opplæring.Søkere som ikke har formell kompetanse i norskkunnskaper må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring.Søkere med utenlandsk utdanning/annet morsmål enn norsk/nordisk, må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring eller dokumentere kunnskaper i norsk på minimum nivå B1 med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven) [§ 19](lov/2003-07-04-80/§19) andre ledd.Innlevert dokumentasjon må oppfylle følgende kravrelevant yrkespraksis fra det fagområdet fagskolen omfatter i form av arbeidsattest eller arbeidsbekreftelse som angir start- og ev. sluttidspunkt for arbeidsforholdet, stillingsprosent og/eller arbeidstimer i sum eller per uke/månedutdanning og kurs i form av vitnemål, kursbevis, kompetansebevisrelevant erfaring fra blant annet organisasjonsliv, verv og fritidsinteresser. Dokumentasjon legges ved dersom dokumentbare forhold.All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold som er detaljert beskrevet og som kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.Dersom det fremlegges dokumentasjon som ikke oppfyller disse kravene kan skolen se bort fra den kompetansen dokumentasjonen omhandler.Vedtak om tilkjenning av realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
+(4) Utforming av realkompetansesøknad gjøres ved å benytte søknadsskjema på skolens hjemmeside og dokumentasjon legges ved. All dokumentasjon skal være skriftlig. Realkompetansevurdering skjer etter følgende retningslinjer:
+
+1. Søkere må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.
+2. Dokumentasjon må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte fagbrev, svennebrev eller vitnemål fra definerte utdanningsprogram for formell kompetanse og fellesfagene på vg1 og vg2 i yrkesfaglige programområder.
+3. Realkompetansen kan være oppnådd både gjennom utdanning og praktisk yrkeserfaring over 5 år. Det oppgis i studieplanen for det enkelte studie hva slags realkompetanse som kvalifiserer for opptak.
+4. Søkeren må ha kompetanse i norsk hovedmål og norsk muntlig tilsvarende Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring. Dokumentasjon av formell kompetanse i norskkunnskaper må fremlegges i form av karakterutskrift enten fra Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglig utdanningsprogram i videregående opplæring.
+5. Søkere som ikke har formell kompetanse i norskkunnskaper må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring.
+6. Søkere med utenlandsk utdanning/annet morsmål enn norsk/nordisk, må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring eller dokumentere kunnskaper i norsk på minimum nivå B1 med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven) [§ 19](lov/2003-07-04-80/§19) andre ledd.
+7. Innlevert dokumentasjon må oppfylle følgende krav
+
+   1. relevant yrkespraksis fra det fagområdet fagskolen omfatter i form av arbeidsattest eller arbeidsbekreftelse som angir start- og ev. sluttidspunkt for arbeidsforholdet, stillingsprosent og/eller arbeidstimer i sum eller per uke/måned
+   2. utdanning og kurs i form av vitnemål, kursbevis, kompetansebevis
+   3. relevant erfaring fra blant annet organisasjonsliv, verv og fritidsinteresser. Dokumentasjon legges ved dersom dokumentbare forhold.
+8. All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Attester for praksis må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold som er detaljert beskrevet og som kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i utdanningsprogrammet for formell kompetanse, nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. Attester må videre være datert for å komme i betraktning. Attester regnes bare fram til datoen de er skrevet ut, selv om søkeren selv opplyser at arbeidsforholdet fortsatte utover dette tidspunkt.
+9. Dersom det fremlegges dokumentasjon som ikke oppfyller disse kravene kan skolen se bort fra den kompetansen dokumentasjonen omhandler.
+10. Vedtak om tilkjenning av realkompetanse gjelder i utgangspunktet også for senere år. Vedtaket har likevel bare gyldighet i henhold til studiet slik det gjennomføres på vurderingstidspunktet. Ved betydelige endringer i fag-, studie- eller rammeplaner forbeholder skolen seg rett til å foreta ny vurdering, og eventuelt endre vedtaket.
 
 (5) Søkere kan søke om studieplass på fagskoleutdanning før alle eksamener i fag som kreves for opptak er avlagt. Standpunktkarakterer fra siste terminoppgjør legges ved søknaden. Slike søkere vil eventuelt få betinget opptak i påvente av eksamensresultatene. Vitnemål/bekreftelse på tilstrekkelig kvalifikasjoner må sendes Sirius Naturterapeutisk skole AS etter at eksamensresultatene er klare og innen studiestart.
 
@@ -76,7 +91,11 @@ Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med r
 
 (1) Etter skriftlig søknad kan en student gis godskriving i fagskoleutdanning. Godskriving kan gis når en student dokumenterer å ha bestått emner fra en annen akkreditert fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige krav for emnet eller emnene det søkes om godskriving for. I dokumentasjonen må det oppgis omfang og om nivået er på fagskole 1 eller fagskole 2 i tillegg til hvor stor arbeidsbelastning det er for emnet eller emnene det søkes godskriving for. Godskriving kan bare skje mellom fagskoleutdanninger på samme eller nært beslektet fagområde. Det gis ikke dobbel uttelling for samme faginnhold. Utgangspunktet for vurderinger om godskriving er læringsutbyttebeskrivelsen for den aktuelle utdanningen eller det aktuelle emnet eller emnene det søkes om godskriving for i tillegg til studiepoeng, omfang, nivå og arbeidsbelastning.
 
-(2) Ett av punktene alene eller flere av punktene sammen nedenfor gjelder som krav til dokumentasjon:Eksamensresultater eller annen vurdering fra emne det søkes godskriving for i tillegg til beskrivelse av læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.Vitnemål sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.Emnebevis sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.
+(2) Ett av punktene alene eller flere av punktene sammen nedenfor gjelder som krav til dokumentasjon:
+
+1. Eksamensresultater eller annen vurdering fra emne det søkes godskriving for i tillegg til beskrivelse av læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.
+2. Vitnemål sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.
+3. Emnebevis sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for emne det søkes godskriving for i tillegg til omfang, arbeidsbelastning og nivå.
 
 (3) Søknad om godskriving må være mottatt innen 14 dager før skolestart. Svarfrist for søker er 7 dager fra datoen tilbudet om godskriving er mottatt. Opptakskomiteen behandler søknader om godskriving. Studenten får begrunnelsen for vedtaket som fattes av rektor.
 
@@ -86,7 +105,13 @@ Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med r
 
 (1) Etter skriftlig søknad kan en student gis fritak for deler av et utdanningstilbud. Fritaket gis da på grunnlag av dokumentert oppnådd likeverdig kompetanse. Søknad om fritak må inneholde nødvendig dokumentasjon av omfang, nivå, arbeidsbelastning og innhold i fag som ønskes godskrevet. En slik søknad fremsettes til Sirius Naturterapeutisk skole AS v/rektor.
 
-(2) Ett av punktene alene eller flere av punktene sammen nedenfor gjelder som krav til dokumentasjon:Eksamensresultater eller annen vurdering fra faget det søkes fritak for i tillegg til beskrivelse av læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.Vitnemål sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.Kursbevis sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.Attester med arbeidsbeskrivelse som samsvarer med læringsutbytte for fag det søkes fritak for.Portfolio/arbeidsmappe som samsvarer med læringsutbytte for fag det søkes fritak for.
+(2) Ett av punktene alene eller flere av punktene sammen nedenfor gjelder som krav til dokumentasjon:
+
+1. Eksamensresultater eller annen vurdering fra faget det søkes fritak for i tillegg til beskrivelse av læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.
+2. Vitnemål sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.
+3. Kursbevis sammen med vedlagt læreplan som beskriver læringsutbytte og som samsvarer med faglig innhold og læringsutbytte for fag det søkes fritak for i tillegg til omfang, arbeidsbelastning og nivå.
+4. Attester med arbeidsbeskrivelse som samsvarer med læringsutbytte for fag det søkes fritak for.
+5. Portfolio/arbeidsmappe som samsvarer med læringsutbytte for fag det søkes fritak for.
 
 (3) Søknad om fritak må være mottatt innen 14 dager før skolestart. Svarfrist for søker er 7 dager fra datoen tilbudet om fritak er mottatt. Opptakskomiteen behandler søknader om fritak. Studenten får begrunnelsen for vedtaket som fattes av rektor.
 
@@ -124,7 +149,19 @@ Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med r
 
 ### § 3-2. Tilrettelegging for studenter med funksjonsnedsettelse og studenter med særskilte behov
 
-(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for fagskolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:medisinske eller andre årsakerfunksjonsnedsettelselese- og skrivevansker.Skriftlig søknad må fremsettes til Sirius Naturterapeutisk skole AS v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.Egnet individuell tilrettelegging ved eksamen kan være:forlengelse av tid til å gjennomføre oppgaver og prosjekterspesielle hjelpemidler/hjelpetiltak.Skriftlig søknad må fremsette til Sirius Naturterapeutisk skole AS v/rektor innen 1 (en) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for fagskolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
+
+1. Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:
+
+   - medisinske eller andre årsaker
+   - funksjonsnedsettelse
+   - lese- og skrivevansker.
+2. Skriftlig søknad må fremsettes til Sirius Naturterapeutisk skole AS v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+3. Egnet individuell tilrettelegging ved eksamen kan være:
+
+   - forlengelse av tid til å gjennomføre oppgaver og prosjekter
+   - spesielle hjelpemidler/hjelpetiltak.
+4. Skriftlig søknad må fremsette til Sirius Naturterapeutisk skole AS v/rektor innen 1 (en) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
 
 (2) En student har klagerett på vedtak som er beskrevet i [punkt](forskrift/2019-08-22-1094/kap1) 1. Klagen må være framsatt skriftlig og må være rektor ved Sirius Naturterapeutisk skole AS i hende senest 3 (tre) uker etter at studenten er underrettet om vedtaket og om begrunnelsen for vedtaket. Klagen bør være begrunnet. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be studentrepresentanten om hjelp og støtte i forbindelse med klage. Blir vedtaket ikke omgjort av rektor oversendes klagen til Sirius Naturterapeutisk skole AS' klagenemnd som behandler klagen, tar en avgjørelse i saken og gir et begrunnet svar på klagen. Studenten har krav på et begrunnet svar innen 3 uker fra klagen ble mottatt. Avgjørelsen er endelig og kan ikke ankes.
 
@@ -148,17 +185,39 @@ Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med r
 
 (2) Eksamens- og vurderingsformer som benyttes er muntlig og/eller skriftlig eksamen som beskrevet i studieplanen for fagskoleutdanningen.
 
-(3) Obligatoriske oppgaver og innleveringerAlle emner har oppgaver med karakter fra A til F (A er høyeste karakter og E er laveste karakter, F er ikke bestått) eller bestått/ikke bestått.Oppgavene er et verktøy i oppfølgingen av studentenes faglige progresjon. Til disse oppgavene mottar de en skriftlig tilbakemelding samt en bokstavkarakter eller bestått/ikke bestått.Ved ikke bestått og karakteren F, får studentene anledning til å levere en ny forbedret oppgave til vurdering. Studentene gis inntil to forsøk på å forbedre oppgaven. Resultatet gjøres kjent innen 3 uker etter at oppgaven ble mottatt. Studenten får skriftlig begrunnelse for karakter på alle oppgaver.
+(3) Obligatoriske oppgaver og innleveringer
+
+1. Alle emner har oppgaver med karakter fra A til F (A er høyeste karakter og E er laveste karakter, F er ikke bestått) eller bestått/ikke bestått.
+2. Oppgavene er et verktøy i oppfølgingen av studentenes faglige progresjon. Til disse oppgavene mottar de en skriftlig tilbakemelding samt en bokstavkarakter eller bestått/ikke bestått.
+3. Ved ikke bestått og karakteren F, får studentene anledning til å levere en ny forbedret oppgave til vurdering. Studentene gis inntil to forsøk på å forbedre oppgaven. Resultatet gjøres kjent innen 3 uker etter at oppgaven ble mottatt. Studenten får skriftlig begrunnelse for karakter på alle oppgaver.
 
 (4) Praksis vurderes til bestått/ikke bestått. Resultatet vil bli gjort kjent for den enkelte student innen 1 uke etter gjennomført praksis. Ved ikke bestått praksis gis studenten mulighet til ny praksis inntil 2 ganger. En student som ikke har gjennomført obligatorisk praksis som planlagt, har rett til å få tildelt praksis på nytt. Dette er i de tilfeller studenten dokumenterer gyldig fravær, for eksempel sykdom eller fødsel, eller hvis det er alvorlig sykdom i nærmeste familie som egne barn, ektefelle, samboer eller foreldre, eller dødsfall i nærmeste familie. Gyldig dokumentasjon er bekreftelse eller sykemelding fra lege. Gyldig dokumentasjon må være Sirius Naturterapeutisk skole AS i hende senest 3 dager etter planlagt praksis.
 
-(5) Gjennomføring av avsluttende eksamen er beskrevet i studieplanen til fagskoleutdanningen.Det er læringsutbyttet for utdanningen som vurderes i avsluttende eksamen.Eksamensoppgaven som inngår i avsluttende eksamen blir evaluert med bokstavkarakterene: A, B, C, D, E, F hvor A er beste og F betyr ikke bestått og er dårligste karakter. Eksamensoppgaven gjenspeiler i størst mulig grad læringsutbyttet og de oppgaver som studentene møter i arbeidslivet.Karakterskala – kriterier for bokstavkarakterAFremragendeFremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet.BMeget godtMeget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+(5) Gjennomføring av avsluttende eksamen er beskrevet i studieplanen til fagskoleutdanningen.
+
+1. Det er læringsutbyttet for utdanningen som vurderes i avsluttende eksamen.
+2. Eksamensoppgaven som inngår i avsluttende eksamen blir evaluert med bokstavkarakterene: A, B, C, D, E, F hvor A er beste og F betyr ikke bestått og er dårligste karakter. Eksamensoppgaven gjenspeiler i størst mulig grad læringsutbyttet og de oppgaver som studentene møter i arbeidslivet.
+3. Karakterskala – kriterier for bokstavkarakter
+
+   |  |  |  |
+   | --- | --- | --- |
+   | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet. |
+   | B | Meget godt | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet. |
+   | C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+   | D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+   | E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+   | F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 ### § 4-3. Adgang til å avlegge avsluttende eksamen
 
 (1) En student har rett til å avlegge eksamen inntil 3 (tre) ganger.
 
-(2) Studentene har adgang til å avlegge eksamen dersom:de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamende har vært til stede minst 90 % i undervisningende har bestått alle emnerde har bestått praksis når det er obligatorisk.
+(2) Studentene har adgang til å avlegge eksamen dersom:
+
+1. de har signert studiekontrakten og har betalt forfalt studieavgift samt avgift for eksamen
+2. de har vært til stede minst 90 % i undervisningen
+3. de har bestått alle emner
+4. de har bestått praksis når det er obligatorisk.
 
 (3) Når det kan være fare for at en student ikke får ta eksamen skal studenten gis beskjed så snart skolen ser at dette kan skje og innen 14 dager før eksamen.
 
@@ -166,7 +225,10 @@ Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med r
 
 ### § 4-4. Kandidaters rett til å fremstille seg til eksamen
 
-Kandidaters rett til å fremstille seg til eksamen avgrenses til 3 (tre) forsøk. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:har møtt til eksamen.er oppmeldt til eksamen men har uteblivelse uten gyldig forfall.
+Kandidaters rett til å fremstille seg til eksamen avgrenses til 3 (tre) forsøk. Et forsøk regnes som fremmøte til eksamen ved at kandidaten:
+
+1. har møtt til eksamen.
+2. er oppmeldt til eksamen men har uteblivelse uten gyldig forfall.
 
 ### § 4-5. Spesiell tilrettelegging ved eksamen
 
@@ -192,13 +254,25 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) Eksamensavgiften for det enkelte fagskolestudie er oppgitt på hjemmesiden.
 
-(2) Ny prøve:Ny eksamen kan avlegges mot å betale eksamensavgiften.Forbedring av eksamen kan avlegges mot å betale eksamensavgiften.
+(2) Ny prøve:
+
+1. Ny eksamen kan avlegges mot å betale eksamensavgiften.
+2. Forbedring av eksamen kan avlegges mot å betale eksamensavgiften.
 
 ### § 4-9. Fusk
 
-(1) Følgende regnes som fusk:Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+(1) Følgende regnes som fusk:
 
-(2) Eksempler på fusk er:å levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.å levere en besvarelse som helt eller delvis er utarbeidet av en annen person.å levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.å innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av dette er gjengivelse/sitater.plagiering.
+1. Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved eksamen.
+2. Handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og betryggende måte.
+
+(2) Eksempler på fusk er:
+
+1. å levere en besvarelse som er hentet ut fra internett og helt eller delvis utgitt som egen besvarelse.
+2. å levere en besvarelse som helt eller delvis er utarbeidet av en annen person.
+3. å levere en besvarelse som helt eller delvis er brukt av studenten selv ved en tidligere vurdering.
+4. å innta i en besvarelse gjengivelser/sitater fra lærebøker, andre fagbøker, andres oppgaver eller stoff som er hentet fra internett uten kildehenvisning og uten klar markering av dette er gjengivelse/sitater.
+5. plagiering.
 
 (3) Fusk eller forsøk på fusk vil medføre at eksamen annulleres.
 
@@ -220,11 +294,30 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (3) Ved bestilling av nytt vitnemål, utstedes duplikat som tildeles studenten mot fastsatt avgift.
 
-(4) På vitnemål føres:studentens navnstudentens personaliafagskoleutdanningens navn og omfangfagskoleutdanningens nivå i NKR og om kvalifikasjonen som oppnås er fagskole 1 eller fagskole 2gradsbetegnelse for fagskoleutdanningenfagskoleutdanningens overordnede læringsutbyttebeskrivelserfagskoleutdanningens emnerstudiepoeng for hvert emneeksamenskarakter som vurderes etter karakterskala fra A til Ffagskolens navndato og underskrift.
+(4) På vitnemål føres:
+
+1. studentens navn
+2. studentens personalia
+3. fagskoleutdanningens navn og omfang
+4. fagskoleutdanningens nivå i NKR og om kvalifikasjonen som oppnås er fagskole 1 eller fagskole 2
+5. gradsbetegnelse for fagskoleutdanningen
+6. fagskoleutdanningens overordnede læringsutbyttebeskrivelser
+7. fagskoleutdanningens emner
+8. studiepoeng for hvert emne
+9. eksamenskarakter som vurderes etter karakterskala fra A til F
+10. fagskolens navn
+11. dato og underskrift.
 
 (5) Studenter som består emneeksamen mottar bevis for dette.
 
-(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:studentens navnstudentens personaliafagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgittfagskolens navndato og underskriftstudiepoeng for emne/emner som er bestått.
+(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:
+
+1. studentens navn
+2. studentens personalia
+3. fagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgitt
+4. fagskolens navn
+5. dato og underskrift
+6. studiepoeng for emne/emner som er bestått.
 
 (7) I de tilfeller det er gitt godskriving eller fritak for et eller flere emner, vil dette stå oppført i vitnemålet.
 
@@ -232,7 +325,21 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) En student kan klage på karakter gitt på skriftlige eksamener.
 
-(2) For klager på karakter gitt på skriftlige eksamener gjelder:I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen 3 (tre) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen 2 (to) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.Klage på karakter skal skje skriftlig til Sirius Naturterapeutisk skole AS.En klage må fremsettes innen 3 (tre) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.Klage på karakter fører til ny vurdering hos sensor.Når en klage på karakter eller sensur blir tatt til følge, oppnevner styret ny(e) sensor(er).De nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.Ved mistanke om plagiat ved første sensurering, skal skolen ikke gjøre sensorene oppmerksom på dette.Ny vurdering kan justere karakteren både opp og ned og til stryk.Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.Studenten kan ikke klage på vurderingen av muntlige eksamener.Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-13](forskrift/2019-08-22-1094/§4-13).
+(2) For klager på karakter gitt på skriftlige eksamener gjelder:
+
+1. I forbindelse med klage har studenten rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Kravet må fremsettes innen 3 (tre) uker fra karakteren ble kunngjort. Begrunnelsen skal være gitt innen 2 (to) uker etter at kandidaten har bedt om dette. Begrunnelsen gis skriftlig.
+2. Klage på karakter skal skje skriftlig til Sirius Naturterapeutisk skole AS.
+3. En klage må fremsettes innen 3 (tre) uker etter at begrunnelse for karakterfastsettingen ble mottatt. Klagen bør begrunnes. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten.
+4. Klage på karakter fører til ny vurdering hos sensor.
+5. Når en klage på karakter eller sensur blir tatt til følge, oppnevner styret ny(e) sensor(er).
+6. De nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur.
+7. Ved mistanke om plagiat ved første sensurering, skal skolen ikke gjøre sensorene oppmerksom på dette.
+8. Ny vurdering kan justere karakteren både opp og ned og til stryk.
+9. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.
+10. Bedømmelse av muntlig prestasjon og vurdering av praksis som ikke lar seg etterprøve, kan ikke påklages.
+11. Karakterfastsetting ved ny sensur etter klage på karakter er endelig og kan ikke påklages.
+12. Studenten kan ikke klage på vurderingen av muntlige eksamener.
+13. Studenten kan imidlertid klage på formelle feil ved muntlige eksamener. Slik klage behandles etter reglene i [§ 4-13](forskrift/2019-08-22-1094/§4-13).
 
 (3) Studenten har krav på en kort begrunnelse for vurderingen av en muntlig eksamen. En slik begrunnelse må studenten be om umiddelbart etter at vedkommende er gjort kjent med resultatet av vurderingen.
 
@@ -240,7 +347,12 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) Studenter som har avlagt eksamen har rett til å klage over formelle feil ved oppgaver og over avviklingen av eksamen. Som formelle feil kan regnes feil som har hatt betydning for studentens prestasjon eller bedømmelsen av denne, eksempelvis feil ved oppgavegiving, avvikling eller gjennomføring av sensur.
 
-(2) Den skriftlige klagen skal inneholde:hvem som klager (navn og adresse)det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)hva klagen gjelderdato og underskrift.
+(2) Den skriftlige klagen skal inneholde:
+
+1. hvem som klager (navn og adresse)
+2. det vedtak det klages over (dato for eksamen, utdanningens navn, karakter, sensurvedtak)
+3. hva klagen gjelder
+4. dato og underskrift.
 
 (3) Klage på formelle feil ved eksamen må fremsettes skriftlig til Sirius Naturterapeutisk skole AS senest innen 3 (tre) uker etter at studenten er eller burde være kjent med det forholdet som begrunner klagen. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be om hjelp og støtte fra studentrepresentanten. Rektor innhenter nødvendig opplysninger fra den ansvarlige for eksamen. Disse opplysningene oversendes Sirius Naturterapeutisk skole AS' styre som behandler saken og vurderer om det er blitt foretatt formelle feil.
 
@@ -278,9 +390,20 @@ Alle studenter som er påmeldt fagskolestudie er automatisk oppmeldt til eksamen
 
 (1) Vurderingen av skikkethet skal gjennomføres for utdanningen Myoterapi. Skikkethetsvurderingen foregår gjennom hele utdanningen og skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. I tilfelle det er tvil om en student er skikket, skal det foretas en særskilt skikkethetsvurdering.
 
-(2) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(2) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
-(3) Styret selv oppnevner en skikkethetsnemnd som består av:faglig lederto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen.
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+
+(3) Styret selv oppnevner en skikkethetsnemnd som består av:
+
+1. faglig leder
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen.
 
 (4) Skikkethetsnemndas medlemmer oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder er nemndas leder og har dobbeltstemme.
 

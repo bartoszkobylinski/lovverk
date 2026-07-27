@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for foretak som driver virksomhet innen utvinningsindustrien eller skogsdrift innen ikke-beplantet skog, som har regnskapsplikt etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) nr. 1, 3, 4, 5, 6 eller nr. 13, og som på balansedagen tilfredsstiller minst to av følgende tre vilkår:årlig salgsinntekt mer enn 320 millioner kroner,balansesum mer enn 160 millioner kroner,gjennomsnittlig antall ansatte gjennom regnskapsåret mer enn 250,eller er regnskapspliktig etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) nr. 2, eller er utsteder med Norge som hjemstat etter [verdipapirhandelloven § 5-4](lov/2007-06-29-75/§5-4) annet til fjerde ledd.
+Forskriften gjelder for foretak som driver virksomhet innen utvinningsindustrien eller skogsdrift innen ikke-beplantet skog, som har regnskapsplikt etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) nr. 1, 3, 4, 5, 6 eller nr. 13, og som på balansedagen tilfredsstiller minst to av følgende tre vilkår:
+
+1. årlig salgsinntekt mer enn 320 millioner kroner,
+2. balansesum mer enn 160 millioner kroner,
+3. gjennomsnittlig antall ansatte gjennom regnskapsåret mer enn 250,
+
+eller er regnskapspliktig etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) nr. 2, eller er utsteder med Norge som hjemstat etter [verdipapirhandelloven § 5-4](lov/2007-06-29-75/§5-4) annet til fjerde ledd.
 
 Forskriften gjelder også foretak som er utsteder eller er regnskapspliktig og enten alene eller sammen med datterselskapene tilfredsstiller størrelseskriteriene i første ledd, som har ett eller flere datterselskaper som driver virksomhet innen utvinningsindustrien eller skogsdrift innen ikke-beplantet skog.
 
@@ -40,16 +46,34 @@ Formålet med rapportering etter [regnskapskapsloven § 2-10](lov/1998-07-17-56/
 
 1. Med «virksomhet innen utvinningsindustrien» menes virksomhet som omfatter leting etter, prospektering etter, funn av, utvikling av og utvinning av mineraler, olje, naturgassforekomster eller andre materialer innenfor næringsgrenene oppført i næringshovedgruppe 05-08 under næringshovedområde B i EØS-regler som svarer til vedlegg I til Europaparlaments- og rådsforordning [(EF) nr. 1893/2006](eu/32006r1893), jf. forskrift om gjennomføring av EØS-rettsakter om europeisk statistikk [§ 2](forskrift/2013-12-20-1682/§2).
 2. Med «skogsdrift innen ikke-beplantet skog» menes virksomhet innen ikke-beplantet skog som oppført i næringshovedgruppe 2.2 under næringshovedområde A i EØS-regler som svarer til vedlegg I til Europaparlaments- og rådsforordning [(EF) nr. 1893/2006](eu/32006r1893), jf. forskrift om gjennomføring av EØS-rettsakter om europeisk statistikk [§ 2](forskrift/2013-12-20-1682/§2).
-3. Med «myndighet» menes enhver nasjonal, regional eller lokal myndighet. Begrepet omfatter også organer og foretak som en eller flere myndigheter har bestemmende innflytelse over. Bestemmende innflytelse skal anses å foreligge dersom myndigheten:har slik innflytelse over foretaket som angitt i [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3) annet ledd annet punktum.er nærstående part til foretaket. Definisjonen av nærstående fastsatt i medhold av [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b) gjelder tilsvarende så langt den passer.
+3. Med «myndighet» menes enhver nasjonal, regional eller lokal myndighet. Begrepet omfatter også organer og foretak som en eller flere myndigheter har bestemmende innflytelse over. Bestemmende innflytelse skal anses å foreligge dersom myndigheten:
+
+   1. har slik innflytelse over foretaket som angitt i [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3) annet ledd annet punktum.
+   2. er nærstående part til foretaket. Definisjonen av nærstående fastsatt i medhold av [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b) gjelder tilsvarende så langt den passer.
 4. Med «prosjekt» menes operasjonell virksomhet som reguleres av en enkelt kontrakt, lisens, leieavtale, konsesjon eller lignende juridisk avtale, og som danner grunnlaget for betalingsforpliktelser overfor en myndighet. Dersom flere slike avtaler er tett knyttet sammen, skal disse likevel anses som ett prosjekt.
-5. Med «betaling» menes følgende typer overføringer, enten i form av penger eller in natura, for virksomhet som nevnt i nr. 1 og 2:produksjon som avgis til myndighet, herunder finansielle instrumenter som gir rett til produksjon eller produksjonens verdi,skatter og avgifter som pålegges foretakets inntekt, produksjon eller resultat, unntatt skatter og avgifter som pålegges forbruk, for eksempel merverdiavgift, inntektsskatt for personer eller omsetningsavgift,royaltyer,utbytte,signatur-, funn- og produksjonsbonuser,lisens-, leie- og adgangsgebyr, samt andre vederlag for lisenser og/eller konsesjoner,betaling for forbedret infrastruktur, ogaksjer, andeler eller andre eierrettigheter som myndigheten får i foretaket eller i foretakets datterselskaper eller i nærstående parter til foretaket, jf. [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b).
-6. Med «tilsvarende utenlandsk regelverk» menes:Nasjonal lovgivning i EØS-stat som gjennomfører direktiv [2013/34/EU](eu/32013l0034).Tilsvarende nasjonal lovgivning i Canada som gjelder for foretak innen utvinningsindustrien.
+5. Med «betaling» menes følgende typer overføringer, enten i form av penger eller in natura, for virksomhet som nevnt i nr. 1 og 2:
+
+   1. produksjon som avgis til myndighet, herunder finansielle instrumenter som gir rett til produksjon eller produksjonens verdi,
+   2. skatter og avgifter som pålegges foretakets inntekt, produksjon eller resultat, unntatt skatter og avgifter som pålegges forbruk, for eksempel merverdiavgift, inntektsskatt for personer eller omsetningsavgift,
+   3. royaltyer,
+   4. utbytte,
+   5. signatur-, funn- og produksjonsbonuser,
+   6. lisens-, leie- og adgangsgebyr, samt andre vederlag for lisenser og/eller konsesjoner,
+   7. betaling for forbedret infrastruktur, og
+   8. aksjer, andeler eller andre eierrettigheter som myndigheten får i foretaket eller i foretakets datterselskaper eller i nærstående parter til foretaket, jf. [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b).
+6. Med «tilsvarende utenlandsk regelverk» menes:
+
+   1. Nasjonal lovgivning i EØS-stat som gjennomfører direktiv [2013/34/EU](eu/32013l0034).
+   2. Tilsvarende nasjonal lovgivning i Canada som gjelder for foretak innen utvinningsindustrien.
 
 > Endret ved [forskrift 22 des 2016 nr. 1861](forskrift/2016-12-22-1861) (i kraft 1 jan 2017, tidligere § 2).
 
 ## § 4. Rapport
 
-Foretakene skal utarbeide en rapport som nevnt i [regnskapsloven § 2-10](lov/1998-07-17-56/§2-10) og [verdipapirhandelloven § 5-5a](lov/2007-06-29-75/§5-5a), som minst skal inneholde følgende opplysninger om betalinger til myndigheter:Den samlede betaling til hver myndighet i løpet av regnskapsåret, fordelt per land og fordelt per type betaling som nevnt i [§ 3 nr. 5 bokstav a](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/a)) til [h](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/h)).Betalinger knyttet til et prosjekt skal også rapporteres per prosjekt og per type betaling som nevnt i [§ 3 nr. 5 bokstav a](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/a)) til [h](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/h)).
+Foretakene skal utarbeide en rapport som nevnt i [regnskapsloven § 2-10](lov/1998-07-17-56/§2-10) og [verdipapirhandelloven § 5-5a](lov/2007-06-29-75/§5-5a), som minst skal inneholde følgende opplysninger om betalinger til myndigheter:
+
+1. Den samlede betaling til hver myndighet i løpet av regnskapsåret, fordelt per land og fordelt per type betaling som nevnt i [§ 3 nr. 5 bokstav a](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/a)) til [h](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/h)).
+2. Betalinger knyttet til et prosjekt skal også rapporteres per prosjekt og per type betaling som nevnt i [§ 3 nr. 5 bokstav a](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/a)) til [h](forskrift/2013-12-20-1682/§3/nummer/5/bokstav/h)).
 
 Opplysningskravet i første ledd gjelder ikke for betalinger som tilsvarer mindre enn 800 000 kroner, som gjøres enkeltvis eller som flere sammenhørende betalinger innenfor samme regnskapsår.
 
@@ -65,9 +89,25 @@ For betalinger in natura til en myndighet skal både verdi og, når relevant, me
 
 Foretak som nevnt i [§ 1](forskrift/2013-12-20-1682/§1) annet ledd skal utarbeide en konsernrapport med konsolidert oppstilling av de opplysningene som kreves etter [§ 4](forskrift/2013-12-20-1682/§4) første ledd og [§ 4](forskrift/2013-12-20-1682/§4) tredje ledd første punktum, hvor de foretakene i konsernet som driver virksomhet innen utvinningsindustrien eller skogdrift innen ikke-beplantet skog, vises som en enhet.
 
-Datterselskap kan utelates fra den konsoliderte oppstillingen etter første ledd dersomalvorlige langvarige restriksjoner hindrer morselskapet i vesentlig grad i å utøve sine rettigheter over datterselskapet,de opplysninger som er nødvendige for å utarbeide den konsoliderte rapporten i samsvar med denne forskrift, i svært sjeldne tilfeller ikke kan innhentes innen rimelig tid eller uten uforholdsmessig store kostnader, elleraksjer eller andeler i datterselskapet eies midlertidig og skal klassifiseres som omløpsmidler etter [regnskapsloven § 5-1](lov/1998-07-17-56/§5-1),og tilsvarende unntak også gjøres gjeldende for konsernregnskapet. Dersom unntak etter dette ledd benyttes, skal det gis en nærmere forklaring på hvorfor unntaket er benyttet, hvilket datterselskap det gjelder, samt hvilke tiltak som er iverksatt for å forhindre at tilsvarende unntak benyttes for senere rapportering.
+Datterselskap kan utelates fra den konsoliderte oppstillingen etter første ledd dersom
 
-Konsernrapporten skal, uavhengig av om det er plikt til å gi opplysninger om betalinger til myndigheter, i en separat del minst inneholde følgende opplysninger om hvert av foretakets datterselskap:hvor datterselskapet er hjemmehørende,antall ansatte,rentekostnad til andre foretak i samme konsern som er hjemmehørende i andre jurisdiksjoner enn datterselskapet,en kortfattet beskrivelse av datterselskapets aktiviteter,netto omsetning, inkludert omsetning med foretak i samme konsern,resultat før skatt,inntektsskatt i regnskapsåret som beregnet av den skattepliktiges overskudd eller underskudd i regnskapsåret,inntektsskatt som er betalt i løpet av det aktuelle regnskapsåret av datterselskapet, ogakkumulert fortjeneste.
+1. alvorlige langvarige restriksjoner hindrer morselskapet i vesentlig grad i å utøve sine rettigheter over datterselskapet,
+2. de opplysninger som er nødvendige for å utarbeide den konsoliderte rapporten i samsvar med denne forskrift, i svært sjeldne tilfeller ikke kan innhentes innen rimelig tid eller uten uforholdsmessig store kostnader, eller
+3. aksjer eller andeler i datterselskapet eies midlertidig og skal klassifiseres som omløpsmidler etter [regnskapsloven § 5-1](lov/1998-07-17-56/§5-1),
+
+og tilsvarende unntak også gjøres gjeldende for konsernregnskapet. Dersom unntak etter dette ledd benyttes, skal det gis en nærmere forklaring på hvorfor unntaket er benyttet, hvilket datterselskap det gjelder, samt hvilke tiltak som er iverksatt for å forhindre at tilsvarende unntak benyttes for senere rapportering.
+
+Konsernrapporten skal, uavhengig av om det er plikt til å gi opplysninger om betalinger til myndigheter, i en separat del minst inneholde følgende opplysninger om hvert av foretakets datterselskap:
+
+1. hvor datterselskapet er hjemmehørende,
+2. antall ansatte,
+3. rentekostnad til andre foretak i samme konsern som er hjemmehørende i andre jurisdiksjoner enn datterselskapet,
+4. en kortfattet beskrivelse av datterselskapets aktiviteter,
+5. netto omsetning, inkludert omsetning med foretak i samme konsern,
+6. resultat før skatt,
+7. inntektsskatt i regnskapsåret som beregnet av den skattepliktiges overskudd eller underskudd i regnskapsåret,
+8. inntektsskatt som er betalt i løpet av det aktuelle regnskapsåret av datterselskapet, og
+9. akkumulert fortjeneste.
 
 Opplysningene skal så vidt mulig hentes fra årsregnskapet, og eventuelle forskjeller skal forklares.
 

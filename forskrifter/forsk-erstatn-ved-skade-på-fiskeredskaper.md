@@ -30,7 +30,12 @@ Erstatning kan gis når skadevoldende fartøy er identifisert og for hvert skade
 
 ## § 2.
 
-Forskottserstatning utbetales ikke i følgende tilfeller:Ved skade på ringnot.Ved skade på drivgarn, unntatt for skade forårsaket av identifisert marinefartøy fra Nato land.Når redskapene ikke var forskriftsmessig merket eller når skadelidte selv kan ha skyld i det inntrufne.Når faststående redskaper er satt ut i et trålfelt.
+Forskottserstatning utbetales ikke i følgende tilfeller:
+
+1. Ved skade på ringnot.
+2. Ved skade på drivgarn, unntatt for skade forårsaket av identifisert marinefartøy fra Nato land.
+3. Når redskapene ikke var forskriftsmessig merket eller når skadelidte selv kan ha skyld i det inntrufne.
+4. Når faststående redskaper er satt ut i et trålfelt.
 
 ## § 3.
 

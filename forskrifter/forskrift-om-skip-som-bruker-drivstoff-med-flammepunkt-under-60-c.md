@@ -15,7 +15,7 @@ xml_hash: "53c6d00eca7181ffc00bfc834876ce06677ede222bd2166dc20b30bd2dbb656c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,16 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder for norske skip og fartøy som bruker drivstoff med flammepunkt under 60 °C, når slike skip og fartøy skal ha:fartøyinstruksfartssertifikatpassasjersertifikatsikkerhetssertifikat (EU) for passasjerskip klasse B, C og Dsikkerhetssertifikat for hurtiggående fartøysikkerhetssertifikat (EU) for passasjerskip klasse Asikkerhetssertifikat for konstruksjon av lasteskipsikkerhetssertifikat for passasjerskip.
+Forskriften gjelder for norske skip og fartøy som bruker drivstoff med flammepunkt under 60 °C, når slike skip og fartøy skal ha:
+
+1. fartøyinstruks
+2. fartssertifikat
+3. passasjersertifikat
+4. sikkerhetssertifikat (EU) for passasjerskip klasse B, C og D
+5. sikkerhetssertifikat for hurtiggående fartøy
+6. sikkerhetssertifikat (EU) for passasjerskip klasse A
+7. sikkerhetssertifikat for konstruksjon av lasteskip
+8. sikkerhetssertifikat for passasjerskip.
 
 Forskriften gjelder ikke for lasteskip som er bygget eller tilpasset og brukt for å frakte i bulk de flytende produktene som er oppført i kapittel 19 i IGC-koden og bruker lasten som drivstoff.
 
@@ -38,11 +47,22 @@ Med fartøy menes fiskefartøy eller hurtiggående fartøy.
 
 Skip og fartøy skal oppfylle et anerkjent klasseselskaps regler om skip som bruker drivstoff med flammepunkt under 60 °C.
 
-IMO Res. MSC.391(95) «International Code of safety for ships using gases or other low-flashpoint fuels» som endret ved IMO Res. MSC.422(98), MSC.458(101), MSC.475(102), MSC.524 (106) og MSC.551(108) gjelder som forskrift for skip eller fartøy som skal ha sertifikat nevnt i [§ 1 første ledd bokstav a](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/a) til [e](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/e)med byggekontrakt inngått 1. januar 2017 eller seneresom det ikke er inngått byggekontrakt for, men som er kjølstrukket eller er på et tilsvarende byggetrinn 1. juli 2017 eller seneresom leveres 1. januar 2021 eller seneresom 1. januar 2017 eller senere bygges om til å bruke drivstoff med flammepunkt under 60 °C.
+IMO Res. MSC.391(95) «International Code of safety for ships using gases or other low-flashpoint fuels» som endret ved IMO Res. MSC.422(98), MSC.458(101), MSC.475(102), MSC.524 (106) og MSC.551(108) gjelder som forskrift for skip eller fartøy som skal ha sertifikat nevnt i [§ 1 første ledd bokstav a](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/a) til [e](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/e)
 
-Skip og fartøy som leveres før 1. januar 2021 skal oppfylle kravene i IMO Res. MSC.285(86) «Interim guidelines on safety for natural gas-fuelled engine installations in ships» eller kravene i del B i denne forskriften dersombyggekontrakten er inngått 1. juni 2009 eller senere, men før 1. januar 2017, ellerdet ikke er inngått byggekontrakt, men skipet er kjølstrukket eller var på et tilsvarende byggetrinn 1. desember 2009 eller senere, men før 1. juli 2017.
+1. med byggekontrakt inngått 1. januar 2017 eller senere
+2. som det ikke er inngått byggekontrakt for, men som er kjølstrukket eller er på et tilsvarende byggetrinn 1. juli 2017 eller senere
+3. som leveres 1. januar 2021 eller senere
+4. som 1. januar 2017 eller senere bygges om til å bruke drivstoff med flammepunkt under 60 °C.
 
-Skip og fartøy som leveres før 1. januar 2021 skal oppfylle kravene i del B i denne forskriften dersombyggekontrakten er inngått før 1. juni 2009, ellerdet ikke er inngått byggekontrakt, men som ble kjølstrukket eller var på et tilsvarende byggetrinn før 1. desember 2009.
+Skip og fartøy som leveres før 1. januar 2021 skal oppfylle kravene i IMO Res. MSC.285(86) «Interim guidelines on safety for natural gas-fuelled engine installations in ships» eller kravene i del B i denne forskriften dersom
+
+1. byggekontrakten er inngått 1. juni 2009 eller senere, men før 1. januar 2017, eller
+2. det ikke er inngått byggekontrakt, men skipet er kjølstrukket eller var på et tilsvarende byggetrinn 1. desember 2009 eller senere, men før 1. juli 2017.
+
+Skip og fartøy som leveres før 1. januar 2021 skal oppfylle kravene i del B i denne forskriften dersom
+
+1. byggekontrakten er inngått før 1. juni 2009, eller
+2. det ikke er inngått byggekontrakt, men som ble kjølstrukket eller var på et tilsvarende byggetrinn før 1. desember 2009.
 
 Skip som omfattes av bestemmelsene i tredje eller fjerde ledd i paragrafen her, skal også oppfylle kravene i del C i denne forskriften.
 
@@ -50,7 +70,11 @@ Skip som omfattes av bestemmelsene i tredje eller fjerde ledd i paragrafen her, 
 
 ### § 3. Akseptert utstyr
 
-Utstyr som utgjør eller inngår som en del av tank- eller drivstoffsystemet, skal være akseptert. Med akseptert utstyr menes utstyr akseptert av Sjøfartsdirektoratet basert på godkjenning eller typegodkjenning fraanerkjent klasseselskapannen offentlig eller privat institusjonadministrasjonen i en stat som har ratifisert Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs ([SOLAS 1974) med](traktat/1974-11-01-1) senere endringer.
+Utstyr som utgjør eller inngår som en del av tank- eller drivstoffsystemet, skal være akseptert. Med akseptert utstyr menes utstyr akseptert av Sjøfartsdirektoratet basert på godkjenning eller typegodkjenning fra
+
+1. anerkjent klasseselskap
+2. annen offentlig eller privat institusjon
+3. administrasjonen i en stat som har ratifisert Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs ([SOLAS 1974) med](traktat/1974-11-01-1) senere endringer.
 
 ### § 4. Dokumentasjon
 
@@ -68,11 +92,26 @@ Sjøfartsdirektoratet kan kreve ytterligere dokumentasjon og praktiske prøver s
 
 ### § 5. Funksjonskrav
 
-Eksplosjon i eksplosjonsfarlig område skal ikkeskade innredning slik at passasjerer eller mannskap blir skadetføre til skade på annet enn det aktuelle rommetskade skipet slik at det oppstår vanninntrengning under hoveddekk, enten direkte eller ved progressiv fyllingsette brannbekjempelsesutstyr utenfor eksplosjonsskadet rom ut av funksjonskade utstyr eller systemer i andre områder som kan påvirke skipets framdrift eller kraftforsyningskade redningsmateriell med utsettingsarrangementer.
+Eksplosjon i eksplosjonsfarlig område skal ikke
+
+1. skade innredning slik at passasjerer eller mannskap blir skadet
+2. føre til skade på annet enn det aktuelle rommet
+3. skade skipet slik at det oppstår vanninntrengning under hoveddekk, enten direkte eller ved progressiv fylling
+4. sette brannbekjempelsesutstyr utenfor eksplosjonsskadet rom ut av funksjon
+5. skade utstyr eller systemer i andre områder som kan påvirke skipets framdrift eller kraftforsyning
+6. skade redningsmateriell med utsettingsarrangementer.
 
 På passasjerskip skal alt utstyr tilknyttet gassinstallasjonen om bord dimensjoneres for å kunne tåle en belastning tilsvarende at skipet ved 2/3 av operasjonell hastighet treffer rett på et objekt som ikke deformeres, og som strekker seg loddrett i hele skipets høyde, uten at dette fører til en følgeulykke om bord på grunn av gassutslipp.
 
-Passasjerskip skal kunne tåle en kinetisk energi som ved et sammenstøt ikke skal være mindre enn:E= ½(Δ+m)v2der:Δ = skipets deplasement, i tonn, som middelverdi av lettskipsvekt og deplasement ved full nedlastingm = tilleggsmasse, i tonn, for skip pga. medfølgende vannmasser, settes lik 0,1Δ.v = kollisjonshastighet, i meter per sekund, settes lik 2/3 av operasjonell hastighet, minimum 10 knop (5,1 m/s).
+Passasjerskip skal kunne tåle en kinetisk energi som ved et sammenstøt ikke skal være mindre enn:
+
+- E= ½(Δ+m)v2
+
+  der:
+
+  - Δ = skipets deplasement, i tonn, som middelverdi av lettskipsvekt og deplasement ved full nedlasting
+  - m = tilleggsmasse, i tonn, for skip pga. medfølgende vannmasser, settes lik 0,1Δ.
+  - v = kollisjonshastighet, i meter per sekund, settes lik 2/3 av operasjonell hastighet, minimum 10 knop (5,1 m/s).
 
 For å beregne kreftene som gassinstallasjonen utsettes for, skal det lages beregninger som viser passasjerskipets deformasjonslengde ved sammenstøt. Beregningene skal sendes til Sjøfartsdirektoratet.
 
@@ -94,7 +133,11 @@ Risikoanalysen skal sikre en helhetlig sikkerhetsvurdering av drivstoffkonseptet
 
 Risikoanalysen for hurtiggående fartøy skal gjennomføres med spesielt fokus på skrogstyrke, hastighet og skadeinntrengning ved sammenstøt.
 
-Risikoanalysen skal omfatte skipets systemer for bruk og behandling av drivstoff og systemenes innvirkning på skipet og omgivelsene ved uønskede hendelser. Analysen skal inneholde følgende delanalyser som beskrevet i vedlegg 1:konseptanalyseberedskapsanalyseeksplosjonsanalyse.
+Risikoanalysen skal omfatte skipets systemer for bruk og behandling av drivstoff og systemenes innvirkning på skipet og omgivelsene ved uønskede hendelser. Analysen skal inneholde følgende delanalyser som beskrevet i vedlegg 1:
+
+1. konseptanalyse
+2. beredskapsanalyse
+3. eksplosjonsanalyse.
 
 Risikoanalysen kan utarbeides som en samlet trykksak eller i delanalyser.
 
@@ -108,9 +151,15 @@ Risikoanalysen som kreves etter første ledd, skal oppdateres ved endringer av u
 
 ### § 7. Klassifisering av eksplosjonsfarlige områder
 
-Eksplosjonsfarlige områder på skipet som klassifiseres som sone 1, er:tankrom/kaldboksventilasjonssjaktbunkringsstasjon.
+Eksplosjonsfarlige områder på skipet som klassifiseres som sone 1, er:
 
-Eksplosjonsfarlige områder på skipet som klassifiseres som sone 2, er:gassmaskinrom.
+1. tankrom/kaldboks
+2. ventilasjonssjakt
+3. bunkringsstasjon.
+
+Eksplosjonsfarlige områder på skipet som klassifiseres som sone 2, er:
+
+1. gassmaskinrom.
 
 Andre områder om bord klassifiseres i det enkelte tilfellet.
 
@@ -146,13 +195,20 @@ Det dimensjonerende overtrykket som gassmaskinrom skal tåle, skal bestemmes ut 
 
 ### § 10. Nødkraftkilde
 
-Nødkraftkilde som kreves installert skal samtidig kunne betjenestyring av gassventilarrangementetventilasjon av eksplosjonsfarlige områder.
+Nødkraftkilde som kreves installert skal samtidig kunne betjene
+
+1. styring av gassventilarrangementet
+2. ventilasjon av eksplosjonsfarlige områder.
 
 ### § 11. Tankrom og bunkerstanker
 
 Med unntak av sikkerhetsventiler, skal alle ventiler for innløp og utløp på bunkerstanker kunne stenges fra kontrollrom, bro og lokalt. Feil på kontrollsystemet skal utløse alarm. Ved nødstengning skal gassrørsystemet trykkavlastes til gassmast.
 
-Bunkerstanker for komprimert gass skal fysisk sikres mot overfylling ved forvarselsalarm for trykk. Maksimalt fyllingstrykk skalutløse alarmautomatisk stenge fylleventileravlaste gasstrykket til gassmast.
+Bunkerstanker for komprimert gass skal fysisk sikres mot overfylling ved forvarselsalarm for trykk. Maksimalt fyllingstrykk skal
+
+1. utløse alarm
+2. automatisk stenge fylleventiler
+3. avlaste gasstrykket til gassmast.
 
 Maksimal fylling skal ikke overstige maksimalt fyllingstrykk som er satt etter anbefaling fra gassleverandør og klasseselskap.
 
@@ -258,7 +314,10 @@ Alt gassteknisk utstyr og alle arrangementer skal testes i henhold til spesifika
 
 ### § 20. Test av gassmotorer
 
-Følgende funksjoner og prosedyrer for gassmotoranlegget skal testes om bord:startsperre satt i gang av ventilasjonsstopp i maskinromøvrige sikringsfunksjoner for gassmotoranleggene med arrangementer.
+Følgende funksjoner og prosedyrer for gassmotoranlegget skal testes om bord:
+
+1. startsperre satt i gang av ventilasjonsstopp i maskinrom
+2. øvrige sikringsfunksjoner for gassmotoranleggene med arrangementer.
 
 På skip med redundante maskinrom, skal det gjennomføres tester som viser at hvert maskinrom kan sikre manøverevne, ventilasjon og kraftproduksjon.
 
@@ -290,7 +349,11 @@ Alle gassrør skal kontrolleres for lekkasje med inertgass.
 
 Ved anlegg for flytende gass skal bunkersstasjonens tilkoblinger og ventilarrangement testes ved fylling med flytende nitrogen i henhold til leverandørens prosedyrer.
 
-I tillegg til testene etter første ledd, skal følgende gjennomføres:lekkasjetester ved reell temperaturtesting av overfyllingsverntesting av ventiler for nødstengning ved avbrutt fylling og tømming av bunkerstank og gassfriing.
+I tillegg til testene etter første ledd, skal følgende gjennomføres:
+
+1. lekkasjetester ved reell temperatur
+2. testing av overfyllingsvern
+3. testing av ventiler for nødstengning ved avbrutt fylling og tømming av bunkerstank og gassfriing.
 
 ### § 24. Ventilasjon
 
@@ -358,7 +421,10 @@ Inertering skal utføres med for eksempel nitrogen, CO2 eller argon før ventile
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Rederiet godtgjør at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarligRederiet godtgjør at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:
+
+1. Rederiet godtgjør at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig
+2. Rederiet godtgjør at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ### § 31. Ikrafttredelse
 
@@ -385,12 +451,25 @@ Gjennomføring av risikoanalyse for bygging og drift av skip som bruker drivstof
 
 ### § 3. Generelle krav til risikoanalysen
 
-Risikoanalysen skal utføres av foretak som kan dokumentere kunnskap om og har erfaring fra utførelse av risikoanalyse samt har kjennskap til skipets konstruksjon, tekniske og operasjonelle systemer.Risikoanalysen skal oppfylle kravene som er fastsatt i § 6 i forskrift her og spesifisert i dette vedlegg samt de krav til risikoanalysen som er nevnt i andre paragrafer.Analysen skal dokumentere at en eventuell gasseksplosjon blir styrt slik at personer, utstyr og skip ikke skades jf. forskriftens [§ 5](forskrift/2016-12-27-1883/§5).Analysens omfang kan reduseres dersom tilfredsstillende risikonivå for identiske konstruksjoner og systemer med samme gasstype tidligere er dokumentert overfor Sjøfartsdirektoratet.I tillegg til teknisk funksjonssvikt og lignende skal også menneskelig feilhandling tas med i analysen.
+Risikoanalysen skal utføres av foretak som kan dokumentere kunnskap om og har erfaring fra utførelse av risikoanalyse samt har kjennskap til skipets konstruksjon, tekniske og operasjonelle systemer.
+
+1. Risikoanalysen skal oppfylle kravene som er fastsatt i § 6 i forskrift her og spesifisert i dette vedlegg samt de krav til risikoanalysen som er nevnt i andre paragrafer.
+2. Analysen skal dokumentere at en eventuell gasseksplosjon blir styrt slik at personer, utstyr og skip ikke skades jf. forskriftens [§ 5](forskrift/2016-12-27-1883/§5).
+3. Analysens omfang kan reduseres dersom tilfredsstillende risikonivå for identiske konstruksjoner og systemer med samme gasstype tidligere er dokumentert overfor Sjøfartsdirektoratet.
+4. I tillegg til teknisk funksjonssvikt og lignende skal også menneskelig feilhandling tas med i analysen.
 
 ### § 4. Delanalyser
 
-1. *Konseptanalyse*Konseptanalysen skal omfatte alle skipets gassrelaterte arrangementer og systemer, deres plassering i forhold til hverandre samt eventuell redundans. Analysen skal inkludere en pålitelighets- og sårbarhetsanalyse der menneskelig feilhandling, konstruksjonsbegrensninger, funksjons- og systemsvikt, m.m. tas med. Alle leverandører av utstyr og systemer for gassanlegg om bord skal være underlagt en slik sårbarhetsanalyse.1Resultatet av hele konseptanalysen skal være retningsgivende ved valg av konstruksjonsløsninger for skip og utstyr, slik at gjeldende funksjonskrav tilfredsstilles. Risiko- og konsekvensreduserende tiltak skal kun omfatte forhold vedrørende gassdrift. Tiltakene skal identifiseres og sammenfattes i analysen. Identifiseringen skal vise hvilke strukturelle og operasjonelle tiltak som forutsettes iverksatt for å få sikkerhetsnivået på minst samme nivå som for dieseldrevne skip.
-2. *Beredskapsanalyse*Denne analysen skal utføres på grunnlag av ulykkeshendelser og dimensjonerende eksplosjonshendelser som kan oppstå om bord. Skipets sikkerhetsfunksjoner, sikrings- og bekjempelsessystemer, samt besetningens posisjoner og oppgaver i en alarmsituasjon skal legges til grunn i beredskapsanalysen. Beredskapsanalysen skal angi eventuelle spesifikke beredskapstiltak knyttet til gassdriften. Resultatene fra beredskapsanalysen skal innarbeides i skipets beredskapsplan.
-3. *Eksplosjonsanalyse*Eksplosjonsanalysen skal bestemme sannsynligheten for at en eksplosiv gassblanding kan oppstå, sannsynligheten for at gassen kan antennes samt konsekvensene av en eventuell eksplosjon. Analysen skal vise om skipet tilfredsstiller de krav som stilles i forskriftens [§ 5](forskrift/2016-12-27-1883/§5) og [§ 6](forskrift/2016-12-27-1883/§6). Analysen skal blant annet bekrefte dimensjonene av eksplosjonspanel/kanal/luker i eksplosjonsfarlige rom samt styrke av de eksplosjonsfarlige rommene. Maksimaltrykk skal beregnes ut fra dimensjonerende eksplosjonshendelse. Eksplosjonstrykkavlastning til friluft eller trykkavlastningsrom skal tas med i beregningen.
+1. *Konseptanalyse*
+
+   Konseptanalysen skal omfatte alle skipets gassrelaterte arrangementer og systemer, deres plassering i forhold til hverandre samt eventuell redundans. Analysen skal inkludere en pålitelighets- og sårbarhetsanalyse der menneskelig feilhandling, konstruksjonsbegrensninger, funksjons- og systemsvikt, m.m. tas med. Alle leverandører av utstyr og systemer for gassanlegg om bord skal være underlagt en slik sårbarhetsanalyse.1
+
+   Resultatet av hele konseptanalysen skal være retningsgivende ved valg av konstruksjonsløsninger for skip og utstyr, slik at gjeldende funksjonskrav tilfredsstilles. Risiko- og konsekvensreduserende tiltak skal kun omfatte forhold vedrørende gassdrift. Tiltakene skal identifiseres og sammenfattes i analysen. Identifiseringen skal vise hvilke strukturelle og operasjonelle tiltak som forutsettes iverksatt for å få sikkerhetsnivået på minst samme nivå som for dieseldrevne skip.
+2. *Beredskapsanalyse*
+
+   Denne analysen skal utføres på grunnlag av ulykkeshendelser og dimensjonerende eksplosjonshendelser som kan oppstå om bord. Skipets sikkerhetsfunksjoner, sikrings- og bekjempelsessystemer, samt besetningens posisjoner og oppgaver i en alarmsituasjon skal legges til grunn i beredskapsanalysen. Beredskapsanalysen skal angi eventuelle spesifikke beredskapstiltak knyttet til gassdriften. Resultatene fra beredskapsanalysen skal innarbeides i skipets beredskapsplan.
+3. *Eksplosjonsanalyse*
+
+   Eksplosjonsanalysen skal bestemme sannsynligheten for at en eksplosiv gassblanding kan oppstå, sannsynligheten for at gassen kan antennes samt konsekvensene av en eventuell eksplosjon. Analysen skal vise om skipet tilfredsstiller de krav som stilles i forskriftens [§ 5](forskrift/2016-12-27-1883/§5) og [§ 6](forskrift/2016-12-27-1883/§6). Analysen skal blant annet bekrefte dimensjonene av eksplosjonspanel/kanal/luker i eksplosjonsfarlige rom samt styrke av de eksplosjonsfarlige rommene. Maksimaltrykk skal beregnes ut fra dimensjonerende eksplosjonshendelse. Eksplosjonstrykkavlastning til friluft eller trykkavlastningsrom skal tas med i beregningen.
 
 1 Retningslinjer vedrørende sårbarhetsanalyse gis eksempelvis i boken System Reliability Theory; Models, Statistical Methods and Applications (ISBN 0-471-4713).

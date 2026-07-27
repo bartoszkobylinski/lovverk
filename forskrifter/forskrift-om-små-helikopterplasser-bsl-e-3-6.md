@@ -15,7 +15,7 @@ xml_hash: "3496bcae6dc0a53571c4d1f28e3a3488b242132936f699404fafa639e5757718"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,11 @@ I denne forskrift menes med:
 
 (1) For en helikopterplass skal det fastsettes minst to inn- og utflygingsflater. Senterlinjene på de to flatene skal være separert med minst 150°. For helikopterplass som benyttes til HEMS-operasjoner bør inn- og utflygingsflatene være separert med 180°. En av flatenes senterlinjer skal legges mest mulig langs den fremherskende vindretning, og flatene skal dessuten om mulig legges slik at nødlanding kan gjennomføres.
 
-(2) En inn- og utflygingsflate skal bestå av tre seksjoner og skal begrenses av:en innerkant som er horisontal og like lang som FATO/TLOF pluss sikkerhetsområdet, og plassert vinkelrett på flatens senterlinje og slik at den tangerer sikkerhetsområdets ytterkant,to sidekanter som divergerer i forhold til, eventuelt er parallelle med, flatens senterlinje, ogen ytterkant parallell med innerkanten.
+(2) En inn- og utflygingsflate skal bestå av tre seksjoner og skal begrenses av:
+
+1. en innerkant som er horisontal og like lang som FATO/TLOF pluss sikkerhetsområdet, og plassert vinkelrett på flatens senterlinje og slik at den tangerer sikkerhetsområdets ytterkant,
+2. to sidekanter som divergerer i forhold til, eventuelt er parallelle med, flatens senterlinje, og
+3. en ytterkant parallell med innerkanten.
 
 (3) Første seksjon av en inn- og utflygingsflate skal ha en divergens på 10% for helikopterplasser som skal godkjennes for flyging i dagslys, og 15% for plasser som skal godkjennes for flyging i mørke. Seksjonen skal ha en lengde på 245 m og en positiv helning i forhold til horisontalplanet på 8%.
 
@@ -272,9 +276,17 @@ Alle hinder skal merkes dersom de ikke har en utforming eller farge som gjør at
 
 (2) Vindpølsen eller vindpølsene skal plasseres godt synlig fra helikopter i luften på FATO/TLOF. Vindpølsene skal dessuten plasseres slik at de minst mulig blir påvirket av forstyrrende luftstrømmer fra objekter eller terreng.
 
-(3) Vindpølse skal utformes etter følgende krav:vindpølsen skal gi presis indikasjon på vindretning og grov indikasjon på vindstyrke,vindpølsen skal være traktformet og åpen i begge ender,lengden på vindpølsen skal være minst 2,4 meter,den største åpningen på vindpølsen skal ikke være mindre enn 0,6 m, og den minste åpningen ikke mindre enn 0,3 m, ogvindpølsen skal være oransje eller oransje og hvit.
+(3) Vindpølse skal utformes etter følgende krav:
 
-(4) Dersom vindpølsen gjennomtrenger en hinderflate skal den utformes slik at skader på luftfartøy reduseres i størst mulig grad.(5) Dersom helikopterplassen skal brukes for flyging i mørke, skal minst én vindpølse være belyst.
+1. vindpølsen skal gi presis indikasjon på vindretning og grov indikasjon på vindstyrke,
+2. vindpølsen skal være traktformet og åpen i begge ender,
+3. lengden på vindpølsen skal være minst 2,4 meter,
+4. den største åpningen på vindpølsen skal ikke være mindre enn 0,6 m, og den minste åpningen ikke mindre enn 0,3 m, og
+5. vindpølsen skal være oransje eller oransje og hvit.
+
+(4) Dersom vindpølsen gjennomtrenger en hinderflate skal den utformes slik at skader på luftfartøy reduseres i størst mulig grad.
+
+(5) Dersom helikopterplassen skal brukes for flyging i mørke, skal minst én vindpølse være belyst.
 
 ### § 25. Inngjerding med mer
 
@@ -306,7 +318,14 @@ Helikopterplassens høyde over havet skal måles i hele fot. Med helikopterplass
 
 ### § 30. Utforming
 
-(1) Følgende data skal måles og beskrives som relevant for helikopterplassen:om helikopterplassen er av typen på bakken eller på bygning,rettvisende retning til inn- og utflygingsflatene senterlinjer i grader og hundredelsgrader for inn- og utflygingsretninger,diameter, alternativt lengde og bredde i hele meter, samt største helning i hele og tiendedels prosent, type overflate, og bæreevne i hele tonn for FATO/TLOF,sikkerhetsområdets diameter eller lengde og bredde i hele meter, og type overflate,type og plassering av merking, jf. [kapittel 4](forskrift/2004-04-16-629/kap4), ogtype og plassering av lysanlegg, jf. [kapittel 5](forskrift/2004-04-16-629/kap5).
+(1) Følgende data skal måles og beskrives som relevant for helikopterplassen:
+
+1. om helikopterplassen er av typen på bakken eller på bygning,
+2. rettvisende retning til inn- og utflygingsflatene senterlinjer i grader og hundredelsgrader for inn- og utflygingsretninger,
+3. diameter, alternativt lengde og bredde i hele meter, samt største helning i hele og tiendedels prosent, type overflate, og bæreevne i hele tonn for FATO/TLOF,
+4. sikkerhetsområdets diameter eller lengde og bredde i hele meter, og type overflate,
+5. type og plassering av merking, jf. [kapittel 4](forskrift/2004-04-16-629/kap4), og
+6. type og plassering av lysanlegg, jf. [kapittel 5](forskrift/2004-04-16-629/kap5).
 
 (2) Plassering av merking og lys skal angis på tegning i passende målestokk.
 
@@ -320,13 +339,20 @@ Helikopterplassens høyde over havet skal måles i hele fot. Med helikopterplass
 
 ### § 32. Restriksjoner og merknader
 
-Helikopterplassens innehaver skal fremskaffe følgende data:helikopterplassens bruksområde (jf. godkjenningsvilkårene),alle avvik fra godkjenningsvilkårene, herunder fra denne og andre aktuelle forskrifter,alle dispensasjoner og kompenserende tiltak i medhold av [§ 34](forskrift/2004-04-16-629/§34), ogandre opplysninger av flysikkerhetsmessig betydning.
+Helikopterplassens innehaver skal fremskaffe følgende data:
+
+1. helikopterplassens bruksområde (jf. godkjenningsvilkårene),
+2. alle avvik fra godkjenningsvilkårene, herunder fra denne og andre aktuelle forskrifter,
+3. alle dispensasjoner og kompenserende tiltak i medhold av [§ 34](forskrift/2004-04-16-629/§34), og
+4. andre opplysninger av flysikkerhetsmessig betydning.
 
 ## Kapittel 8. Avsluttende bestemmelser
 
 ### § 33. Dispensasjon
 
-(1) Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskrift når særlige grunner foreligger.Ved vurderingen av om slike særlige grunner foreligger, skal det bl.a. ses hen til kostnadene forbundet med fysisk utbedring av avvik sammenholdt med den sikkerhetsmessige gevinst slik utbedring antas å gi, og muligheten for å avhjelpe avvik gjennom fastsettelse av kompenserende tiltak, jf. [§ 34](forskrift/2004-04-16-629/§34). Dersom det etter en slik vurdering fremstår som overveiende sannsynlig at fysisk utbedring ikke gir sikkerhetsgevinst eller bare helt ubetydelig sikkerhetsgevinst, kan slik utbedring unnlates.
+(1) Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskrift når særlige grunner foreligger.
+
+Ved vurderingen av om slike særlige grunner foreligger, skal det bl.a. ses hen til kostnadene forbundet med fysisk utbedring av avvik sammenholdt med den sikkerhetsmessige gevinst slik utbedring antas å gi, og muligheten for å avhjelpe avvik gjennom fastsettelse av kompenserende tiltak, jf. [§ 34](forskrift/2004-04-16-629/§34). Dersom det etter en slik vurdering fremstår som overveiende sannsynlig at fysisk utbedring ikke gir sikkerhetsgevinst eller bare helt ubetydelig sikkerhetsgevinst, kan slik utbedring unnlates.
 
 (2) Det er en forutsetning for innvilgelse av dispensasjon at helikopterplassens innehaver godtgjør at fysisk utbedring er vurdert, og viser til slike vurderinger med begrunnelser, samt eventuelle forslag til kompenserende tiltak, jf. [§ 34](forskrift/2004-04-16-629/§34).
 
@@ -338,7 +364,12 @@ Helikopterplassens innehaver skal fremskaffe følgende data:helikopterplassens b
 
 (3) Avgjørelse om fastsettelse av kompenserende tiltak og det nærmere innhold av slike tiltak treffes i alle tilfelle av Luftfartstilsynet, etter en konkret vurdering for den enkelte helikopterplass. Helikopterplassens innehaver skal gis anledning til å utarbeide forslag til kompenserende tiltak, som skal vurderes av Luftfartstilsynet før avgjørelse treffes.
 
-(4) Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:operasjonelle begrensninger ved helikopterplassen, f.eks. slik at spesielle fartøytyper ikke skal kunne benytte helikopterplassen,spesielle inn- og utflygningsprosedyrer,særlige krav til operatører og fartøysjefer, ellerfor hinder; spesielle krav til hinderets høyde, masse og brekkbarhet.
+(4) Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:
+
+1. operasjonelle begrensninger ved helikopterplassen, f.eks. slik at spesielle fartøytyper ikke skal kunne benytte helikopterplassen,
+2. spesielle inn- og utflygningsprosedyrer,
+3. særlige krav til operatører og fartøysjefer, eller
+4. for hinder; spesielle krav til hinderets høyde, masse og brekkbarhet.
 
 ### § 35. Ikrafttredelse
 

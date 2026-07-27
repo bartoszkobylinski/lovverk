@@ -15,7 +15,7 @@ xml_hash: "39defda4d3ac5c32f20b6d722832be130d557e5b44e809f03c6f24482ebebf13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -99,7 +99,13 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
-I denne forordningen menes med«klinisk utprøving» en klinisk utprøving som definert i artikkel 2 bokstav a) i direktiv [2001/20/EF](eu/32001l0020),«sponsor» en sponsor som definert i artikkel 2 bokstav e) i direktiv [2001/20/EF](eu/32001l0020),«utprøvingspreparat» et utprøvingspreparat som definert i artikkel 2 bokstav d) i direktiv [2001/20/EF](eu/32001l0020),«legemiddel» et legemiddel som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083),«genmodifisert organisme» eller «GMO» en genmodifisert organisme som definert i artikkel 2 nr. 2 i direktiv [2001/18/EF](eu/32001l0018).
+I denne forordningen menes med
+
+1. «klinisk utprøving» en klinisk utprøving som definert i artikkel 2 bokstav a) i direktiv [2001/20/EF](eu/32001l0020),
+2. «sponsor» en sponsor som definert i artikkel 2 bokstav e) i direktiv [2001/20/EF](eu/32001l0020),
+3. «utprøvingspreparat» et utprøvingspreparat som definert i artikkel 2 bokstav d) i direktiv [2001/20/EF](eu/32001l0020),
+4. «legemiddel» et legemiddel som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083),
+5. «genmodifisert organisme» eller «GMO» en genmodifisert organisme som definert i artikkel 2 nr. 2 i direktiv [2001/18/EF](eu/32001l0018).
 
 ### Artikkel 2
 
@@ -111,7 +117,11 @@ I denne forordningen menes med«klinisk utprøving» en klinisk utprøving som d
 
 ### Artikkel 3
 
-1\. Artikkel 6–11 og 13–24 i direktiv [2001/18/EF](eu/32001l0018) samt artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) får ikke anvendelse på aktiviteter knyttet til utlevering og bruk av legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon eller administrering, med unntak av framstilling av legemidlene, i følgende tilfeller:Dersom en medlemsstat har unntatt slike legemidler fra bestemmelsene i direktiv [2001/83/EF i](eu/32001l0083) henhold til artikkel 5 nr. 1 i nevnte direktiv.Dersom en medlemsstat har gitt midlertidig tillatelse til slike legemidler i henhold til artikkel 5 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).Dersom en medlemsstat gjør slike legemidler tilgjengelig i henhold til artikkel 83 nr. 1 i forordning [(EF) nr. 726/2004](eu/32004r0726).
+1\. Artikkel 6–11 og 13–24 i direktiv [2001/18/EF](eu/32001l0018) samt artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) får ikke anvendelse på aktiviteter knyttet til utlevering og bruk av legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon eller administrering, med unntak av framstilling av legemidlene, i følgende tilfeller:
+
+1. Dersom en medlemsstat har unntatt slike legemidler fra bestemmelsene i direktiv [2001/83/EF i](eu/32001l0083) henhold til artikkel 5 nr. 1 i nevnte direktiv.
+2. Dersom en medlemsstat har gitt midlertidig tillatelse til slike legemidler i henhold til artikkel 5 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).
+3. Dersom en medlemsstat gjør slike legemidler tilgjengelig i henhold til artikkel 83 nr. 1 i forordning [(EF) nr. 726/2004](eu/32004r0726).
 
 2\. Dersom det er mulig, skal medlemsstatene treffe egnede tiltak for å minimere forutsigbare negative miljøvirkninger som følge av tilsiktet eller utilsiktet utslipp av legemiddelet i miljøet.
 

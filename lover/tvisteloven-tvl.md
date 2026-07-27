@@ -15,7 +15,7 @@ xml_hash: "3dba59f702062cb0cdc8de7979719a802d8b169e2f2565a19ca4b74d5339650a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,15 @@ eu_basis: []
 
 (1) Loven skal legge til rette for en rettferdig, forsvarlig, rask, effektiv og tillitskapende behandling av rettstvister gjennom offentlig rettergang for uavhengige og upartiske domstoler. Loven skal ivareta den enkeltes behov for å få håndhevet sine rettigheter og løst sine tvister og samfunnets behov for å få respektert og avklart rettsreglene.
 
-(2) For å oppnå formålene etter første ledd, skalpartene få argumentere for sin sak og føre bevis,partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,partene på ett trinn av saken kunne redegjøre muntlig for den og føre sine bevis umiddelbart for retten,saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning,ulikheter i ressurser hos partene ikke være avgjørende for sakens utfall,viktige avgjørelser begrunnes, ogavgjørelser av vesentlig betydning kunne overprøves.
+(2) For å oppnå formålene etter første ledd, skal
+
+- partene få argumentere for sin sak og føre bevis,
+- partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,
+- partene på ett trinn av saken kunne redegjøre muntlig for den og føre sine bevis umiddelbart for retten,
+- saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning,
+- ulikheter i ressurser hos partene ikke være avgjørende for sakens utfall,
+- viktige avgjørelser begrunnes, og
+- avgjørelser av vesentlig betydning kunne overprøves.
 
 ### § 1-2. Folkerettens betydning for anvendelsen av loven
 
@@ -52,7 +60,14 @@ Loven gjelder med de begrensninger som er anerkjent i folkeretten eller følger 
 
 ### § 1-4 a. Tvister mellom stat og kommune eller fylkeskommune om gyldigheten av statlig organs avgjørelse
 
-(1) En kommune eller en fylkeskommune kan reise søksmål mot staten om gyldigheten av et statlig organs avgjørelse somopphever eller endrer kommunens eller fylkeskommunens enkeltvedtak etter klage,omgjør kommunens eller fylkeskommunens enkeltvedtak uten klage,opphever kommunens eller fylkeskommunens avgjørelse etter lovlighetskontroll, jf. [kommuneloven kapittel 27](lov/2018-06-22-83/kap27).pålegger kommunen eller fylkeskommunen å betale sakskostnader til en part etter [forvaltningsloven § 36](lov/1967-02-10/§36),pålegger kommunen eller fylkeskommunen plikter etter tilsyn,fordeler rettigheter eller plikter mellom kommuner eller fylkeskommuner.
+(1) En kommune eller en fylkeskommune kan reise søksmål mot staten om gyldigheten av et statlig organs avgjørelse som
+
+1. opphever eller endrer kommunens eller fylkeskommunens enkeltvedtak etter klage,
+2. omgjør kommunens eller fylkeskommunens enkeltvedtak uten klage,
+3. opphever kommunens eller fylkeskommunens avgjørelse etter lovlighetskontroll, jf. [kommuneloven kapittel 27](lov/2018-06-22-83/kap27).
+4. pålegger kommunen eller fylkeskommunen å betale sakskostnader til en part etter [forvaltningsloven § 36](lov/1967-02-10/§36),
+5. pålegger kommunen eller fylkeskommunen plikter etter tilsyn,
+6. fordeler rettigheter eller plikter mellom kommuner eller fylkeskommuner.
 
 (2) Første ledd gjelder ikke enkeltvedtak som er truffet i medhold av [barnevernsloven](lov/2021-06-18-97).
 
@@ -76,9 +91,22 @@ Søksmål om gyldigheten av forvaltningsvedtak reises mot den myndighet som har 
 
 ### § 2-1. Partsevne
 
-(1) Partsevne harenhver fysisk person,stat, kommuner og fylkeskommuner,selskaper, herunder aksjeselskaper, ansvarlige selskaper og kommandittselskaper,samvirkeforetak, sparebanker og stiftelser,konkursboer og dødsboer under offentlig skifte,andre sammenslutninger og selvstendige offentlige virksomheter, når det er særlig bestemt i lov.
+(1) Partsevne har
 
-(2) Andre sammenslutninger enn etter første ledd har partsevne så langt dette følger av en samlet vurdering hvor det særlig legges vekt påom sammenslutningen har en fast organisasjonsform,om det er et styre eller annet organ som representerer sammenslutningen utad,om sammenslutningen har en formalisert medlemskapsordning,om sammenslutningen har egne midler, ogsammenslutningens formål og hva søksmålet gjelder.
+1. enhver fysisk person,
+2. stat, kommuner og fylkeskommuner,
+3. selskaper, herunder aksjeselskaper, ansvarlige selskaper og kommandittselskaper,
+4. samvirkeforetak, sparebanker og stiftelser,
+5. konkursboer og dødsboer under offentlig skifte,
+6. andre sammenslutninger og selvstendige offentlige virksomheter, når det er særlig bestemt i lov.
+
+(2) Andre sammenslutninger enn etter første ledd har partsevne så langt dette følger av en samlet vurdering hvor det særlig legges vekt på
+
+- om sammenslutningen har en fast organisasjonsform,
+- om det er et styre eller annet organ som representerer sammenslutningen utad,
+- om sammenslutningen har en formalisert medlemskapsordning,
+- om sammenslutningen har egne midler, og
+- sammenslutningens formål og hva søksmålet gjelder.
 
 > Endret ved lover [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [25 mai 2012 nr. 28](lov/2012-05-25-28) (ikr. 1 juli 2012 iflg. [res. 25 mai 2012 nr. 449](forskrift/2012-05-25-449)), [22 apr 2016 nr. 4](lov/2016-04-22-4) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1552](forskrift/2019-11-22-1552)), [11 mai 2023 nr. 13](lov/2023-05-11-13) (i kraft 1 jan 2024 iflg. [res. 11 mai 2023 nr. 683](forskrift/2023-05-11-683)).
 
@@ -316,9 +344,21 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 ### § 6-2. Saker som behandles av forliksrådet
 
-(1) Forliksrådet kan behandle saker som kan anlegges ved stevning til tingretten etter reglene for allmennprosess eller småkravprosess i denne loven. Forliksrådet behandler likevel ikkefamiliesaker, unntatt saker som bare gjelder deling av reisekostnader ved samvær,saker mot offentlig myndighet, institusjon eller tjenestemann om forhold som ikke er av utelukkende privatrettslig art,saker om patenter, kretsmønstre til integrerte kretser, planteforedlerretter, varemerker og design,saker om gyldigheten av en voldgiftsdom eller et rettsforlik,saker avgjort av en nemnd når det er bestemt ved lov at nemndas vedtak er bindende for partene hvis saken ikke bringes inn for domstolene, ellerandre saker hvor det er bestemt i lov at mekling i forliksrådet ikke finner sted.
+(1) Forliksrådet kan behandle saker som kan anlegges ved stevning til tingretten etter reglene for allmennprosess eller småkravprosess i denne loven. Forliksrådet behandler likevel ikke
 
-(2) Før en sak om formuesverdier kan tas til behandling i tingretten, skal forliksrådet behandle saken når vilkårene i første ledd er oppfylt. Denne regelen gjelder likevel ikke nårtvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,utenrettslig mekling etter [kapittel 7](lov/2005-06-17-90/kap7) er gjennomført,tvisten er blitt realitetsbehandlet i klage- eller reklamasjonsnemnd etter samtykke fra den annen part eller i en slik nemnd som er offentlig godkjent etter særskilt lovbestemmelse, ellerdet etter reglene i [§§ 15-1](lov/2005-06-17-90/§15-1) til [15-3](lov/2005-06-17-90/§15-3) bringes inn et nytt krav eller en ny part i saken.
+1. familiesaker, unntatt saker som bare gjelder deling av reisekostnader ved samvær,
+2. saker mot offentlig myndighet, institusjon eller tjenestemann om forhold som ikke er av utelukkende privatrettslig art,
+3. saker om patenter, kretsmønstre til integrerte kretser, planteforedlerretter, varemerker og design,
+4. saker om gyldigheten av en voldgiftsdom eller et rettsforlik,
+5. saker avgjort av en nemnd når det er bestemt ved lov at nemndas vedtak er bindende for partene hvis saken ikke bringes inn for domstolene, eller
+6. andre saker hvor det er bestemt i lov at mekling i forliksrådet ikke finner sted.
+
+(2) Før en sak om formuesverdier kan tas til behandling i tingretten, skal forliksrådet behandle saken når vilkårene i første ledd er oppfylt. Denne regelen gjelder likevel ikke når
+
+1. tvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,
+2. utenrettslig mekling etter [kapittel 7](lov/2005-06-17-90/kap7) er gjennomført,
+3. tvisten er blitt realitetsbehandlet i klage- eller reklamasjonsnemnd etter samtykke fra den annen part eller i en slik nemnd som er offentlig godkjent etter særskilt lovbestemmelse, eller
+4. det etter reglene i [§§ 15-1](lov/2005-06-17-90/§15-1) til [15-3](lov/2005-06-17-90/§15-3) bringes inn et nytt krav eller en ny part i saken.
 
 > Endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3), [12 des 2008 nr. 85](lov/2008-12-12-85) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1354](forskrift/2008-12-12-1354)), [17 april 2020 nr. 26](lov/2020-04-17-26) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 807](forskrift/2020-04-17-807), se denne for overgangsbestemmelser), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [11 mai 2023 nr. 13](lov/2023-05-11-13) (i kraft 1 jan 2024 iflg. [res. 11 mai 2023 nr. 683](forskrift/2023-05-11-683)).
 
@@ -326,7 +366,12 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (1) Sak for forliksrådet reises ved forliksklage. Forliksklagen inngis skriftlig eller muntlig til forliksrådet etter reglene i [kapittel 12](lov/2005-06-17-90/kap12).
 
-(2) Forliksklagen skal angiforliksrådet,navn og adresse på parter, eventuelle stedfortredere etter [§§ 2-3](lov/2005-06-17-90/§2-3) til [2-5](lov/2005-06-17-90/§2-5) og prosessfullmektiger,det krav som gjøres gjeldende, og en påstand som bestemt angir det resultat klageren i tilfelle krever ved dom, ogen begrunnelse som alltid må angi en konsentrert beskrivelse av de faktiske forhold kravet direkte bygger på.
+(2) Forliksklagen skal angi
+
+1. forliksrådet,
+2. navn og adresse på parter, eventuelle stedfortredere etter [§§ 2-3](lov/2005-06-17-90/§2-3) til [2-5](lov/2005-06-17-90/§2-5) og prosessfullmektiger,
+3. det krav som gjøres gjeldende, og en påstand som bestemt angir det resultat klageren i tilfelle krever ved dom, og
+4. en begrunnelse som alltid må angi en konsentrert beskrivelse av de faktiske forhold kravet direkte bygger på.
 
 (3) Kopi av dokumenter kravet direkte bygger på, bør vedlegges. Hvis klageren krever erstatning for kostnader ved utenrettslig inndriving, skal betalingsoppfordringen etter [inkassoloven § 10](lov/1988-05-13-26/§10), jf. [§ 12](lov/1988-05-13-26/§12), vedlegges.
 
@@ -368,11 +413,24 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 ### § 6-7. Prosessfullmektiger og medhjelpere
 
-(1) Som prosessfullmektig for forliksrådet kan partene brukeadvokat og autorisert advokatfullmektig,jurist,inkassobevillingshaver med inkassooppdrag for saken,ektefelle eller samboer, slektning i rett opp- eller nedstigende linje eller søsken,ansatt eller annen person med tilknytning til næringsvirksomhet saken gjelder,en skikket myndig person etter tillatelse fra forliksrådet i den enkelte sak.
+(1) Som prosessfullmektig for forliksrådet kan partene bruke
 
-(2) Som prosessfullmektig under møte kan partene dessuten brukemyndig person som er ansatt hos og står under faglig ledelse av en prosessfullmektig etter første ledd bokstav a til c, ellermedlem av utvalget av faste møtefullmektiger etter sjette ledd.
+1. advokat og autorisert advokatfullmektig,
+2. jurist,
+3. inkassobevillingshaver med inkassooppdrag for saken,
+4. ektefelle eller samboer, slektning i rett opp- eller nedstigende linje eller søsken,
+5. ansatt eller annen person med tilknytning til næringsvirksomhet saken gjelder,
+6. en skikket myndig person etter tillatelse fra forliksrådet i den enkelte sak.
 
-(3) Som prosessfullmektig for forliksrådet kan ikke brukes en person somutfører arbeid eller verv for forliksrådet, ellerdriver ervervsmessig eller stadig rettshjelpsvirksomhet uten å være omfattet av første eller annet ledd.
+(2) Som prosessfullmektig under møte kan partene dessuten bruke
+
+1. myndig person som er ansatt hos og står under faglig ledelse av en prosessfullmektig etter første ledd bokstav a til c, eller
+2. medlem av utvalget av faste møtefullmektiger etter sjette ledd.
+
+(3) Som prosessfullmektig for forliksrådet kan ikke brukes en person som
+
+1. utfører arbeid eller verv for forliksrådet, eller
+2. driver ervervsmessig eller stadig rettshjelpsvirksomhet uten å være omfattet av første eller annet ledd.
 
 (4) Som rettslig medhjelper under møte kan partene la seg bistå av en som kan være prosessfullmektig for forliksrådet.
 
@@ -414,7 +472,10 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (2) Gjelder saken formuesverdier med tvistesum under kr 200 000, kan forliksrådet avsi dom når en av partene ber om det.
 
-(3) Etter begjæring fra klageren kan forliksrådet dessuten avsi dom hvisvilkårene for fraværsdom er oppfylt, ellerklagemotparten i sak om pengekrav ikke gjør gjeldende annet enn manglende betalingsevne eller andre åpenbart uholdbare innsigelser.
+(3) Etter begjæring fra klageren kan forliksrådet dessuten avsi dom hvis
+
+1. vilkårene for fraværsdom er oppfylt, eller
+2. klagemotparten i sak om pengekrav ikke gjør gjeldende annet enn manglende betalingsevne eller andre åpenbart uholdbare innsigelser.
 
 (4) Forliksrådet kan bare avsi dom hvis medlemmene er enige om at grunnlaget er tilstrekkelig.
 
@@ -430,7 +491,11 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (4) En part kan kreve behandlingen innstilt når rettsmøtet ikke er avsluttet innen tre timer. Behandlingen innstilles ved krav fra en part hvis saken ikke er avsluttet innen tre måneder etter at forliksklagen ble forkynt. Retten til å sette fram slike krav kan frafalles.
 
-(5) En sak som er innstilt, kan bare bringes inn for forliksrådet på nynår det er gått ett år,hvis motparten på forhånd har samtykket, ellerhvis nemndbehandling som nevnt i annet ledd er avsluttet.
+(5) En sak som er innstilt, kan bare bringes inn for forliksrådet på ny
+
+1. når det er gått ett år,
+2. hvis motparten på forhånd har samtykket, eller
+3. hvis nemndbehandling som nevnt i annet ledd er avsluttet.
 
 > Endret ved lov [11 mai 2023 nr. 13](lov/2023-05-11-13) (i kraft 1 jan 2024 iflg. [res. 11 mai 2023 nr. 683](forskrift/2023-05-11-683)).
 
@@ -448,7 +513,13 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 ### § 6-13. Sakskostnader
 
-(1) Erstatning for sakskostnader i forliksrådet gis bare for følgende poster:gebyr for behandlingen i forliksrådet, samt gebyret for utleggsbegjæringen når en sak behandles i forliksrådet etter [tvangsfullbyrdelsesloven § 7-7](lov/1992-06-26-86/§7-7),reiseutgifter for parter med personlig møteplikt,et beløp inntil halvt rettsgebyr for utgifter til møte for parter uten personlig møteplikt,et beløp inntil fire ganger rettsgebyret for rettshjelp ved forliksklage eller tilsvar og saksforberedelse ellers, men inntil et halvt rettsgebyr dersom klageren i tillegg krever erstatning for kostnader ved utenrettslig inndriving etter annet ledd, oget tillegg til beløpene i bokstav c og d for den generelle satsen for merverdiavgift når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.
+(1) Erstatning for sakskostnader i forliksrådet gis bare for følgende poster:
+
+1. gebyr for behandlingen i forliksrådet, samt gebyret for utleggsbegjæringen når en sak behandles i forliksrådet etter [tvangsfullbyrdelsesloven § 7-7](lov/1992-06-26-86/§7-7),
+2. reiseutgifter for parter med personlig møteplikt,
+3. et beløp inntil halvt rettsgebyr for utgifter til møte for parter uten personlig møteplikt,
+4. et beløp inntil fire ganger rettsgebyret for rettshjelp ved forliksklage eller tilsvar og saksforberedelse ellers, men inntil et halvt rettsgebyr dersom klageren i tillegg krever erstatning for kostnader ved utenrettslig inndriving etter annet ledd, og
+5. et tillegg til beløpene i bokstav c og d for den generelle satsen for merverdiavgift når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.
 
 (2) Krav om erstatning for kostnader ved utenrettslig inndriving (inkasso) regnes ikke som sakskostnader etter denne paragrafen.
 
@@ -462,7 +533,10 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (1) Dommer av forliksrådet kan overprøves ved søksmål for tingretten etter reglene i [kapittel 9](lov/2005-06-17-90/kap9) og [10](lov/2005-06-17-90/kap10). Fristen for stevning er én måned. Det kan gis oppfriskning for oversittelse av fristen. Om forenklet stevning gjelder [§ 9-2](lov/2005-06-17-90/§9-2) fjerde ledd.
 
-(2) Anke er bare tillatt over avgjørelser omsakskostnader, rettsgebyr eller salærfastsettelse, ellerendring av en dom i videre utstrekning enn [§ 19-8](lov/2005-06-17-90/§19-8) eller [§ 19-9](lov/2005-06-17-90/§19-9) tillater.
+(2) Anke er bare tillatt over avgjørelser om
+
+1. sakskostnader, rettsgebyr eller salærfastsettelse, eller
+2. endring av en dom i videre utstrekning enn [§ 19-8](lov/2005-06-17-90/§19-8) eller [§ 19-9](lov/2005-06-17-90/§19-9) tillater.
 
 (3) Anken inngis til tingretten, som treffer ny realitetsavgjørelse om det som skal overprøves. Første ledd fjerde punktum om forenklet utforming gjelder tilsvarende for ankeerklæringen. Saken skal for øvrig behandles etter reglene for anke til lagmannsrett over beslutninger.
 
@@ -588,7 +662,15 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 (1) Sak reises ved stevning til retten. Stevningen inngis skriftlig eller muntlig etter [§ 12-1](lov/2005-06-17-90/§12-1) annet ledd.
 
-(2) Stevningen skal angidomstolen,navn og adresse på parter, stedfortredere og prosessfullmektiger,det krav som gjøres gjeldende, og en påstand som angir det domsresultat saksøkeren krever,den faktiske og rettslige begrunnelse for kravet,de bevis som vil bli ført,grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette, ogsaksøkerens syn på den videre behandling av saken, herunder avtaler som kan få betydning for behandlingen.
+(2) Stevningen skal angi
+
+1. domstolen,
+2. navn og adresse på parter, stedfortredere og prosessfullmektiger,
+3. det krav som gjøres gjeldende, og en påstand som angir det domsresultat saksøkeren krever,
+4. den faktiske og rettslige begrunnelse for kravet,
+5. de bevis som vil bli ført,
+6. grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette, og
+7. saksøkerens syn på den videre behandling av saken, herunder avtaler som kan få betydning for behandlingen.
 
 (3) Stevningen skal gi grunnlag for en forsvarlig behandling av saken for partene og retten. Krav, påstand samt faktisk og rettslig begrunnelse skal være slik angitt at saksøkte kan ta stilling til kravene og forberede saken. Saksøkerens argumentasjon skal ikke gå lenger enn det som er nødvendig for å ivareta disse hensyn. Stevningen skal gi retten grunnlag for å vurdere sin domsmyndighet og gi de nødvendige opplysninger for å få den forkynt og for å få kontaktet partene.
 
@@ -600,7 +682,12 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 (2) I tilsvaret skal saksøkte opplyse om det framsatte krav godtas eller bestrides, eller om det gjøres gjeldende innsigelser mot at retten behandler saken.
 
-(3) Tilsvaret bør angisaksøktes påstand, som angir det domsresultat saksøkte krever,den faktiske og rettslige begrunnelse for påstanden,de bevis som vil bli ført, ogsaksøktes syn på den videre behandling av saken.
+(3) Tilsvaret bør angi
+
+1. saksøktes påstand, som angir det domsresultat saksøkte krever,
+2. den faktiske og rettslige begrunnelse for påstanden,
+3. de bevis som vil bli ført, og
+4. saksøktes syn på den videre behandling av saken.
 
 (4) Saksøktes argumentasjon skal ikke gå lenger enn det som er nødvendig for å gi et tilstrekkelig grunnlag for den videre saksforberedelse.
 
@@ -608,7 +695,18 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 (1) Retten skal aktivt og planmessig styre saksforberedelsen for å oppnå en rask, prosessøkonomisk og forsvarlig behandling. Retten skal virke for at tvistespørsmål blir klarlagt under saksforberedelsen.
 
-(2) Straks tilsvar er inngitt etter [§ 9-3](lov/2005-06-17-90/§9-3), skal retten legge opp en plan for den videre behandlingen etter drøfting med partene og herunder fastsette frister og treffe nødvendige beslutninger. Dette omfatterom det bør gjennomføres rettsmekling eller mekling i rettsmøte,om saken bør behandles etter særlige regler,om rettsmøter skal holdes under saksforberedelsen, og om det kan være hensiktsmessig å avgjøre saken etter et slikt rettsmøte,om det skal inngis skriftlige innlegg som en del av avgjørelsesgrunnlaget,om behandlingen av saken bør deles opp,gjennomgåelse av bevisføringen, herunder om det kreves befaring eller tilgang til eller framleggelse av bevis, om bevis skal sikres, om det bør oppnevnes sakkyndig, og om bevisføringen bør begrenses ut fra proporsjonalitet,om sluttinnlegg skal inngis,berammelse av hovedforhandling, som bare hvis særlige grunner gjør det nødvendig kan settes til et tidspunkt senere enn seks måneder etter at stevning ble inngitt i saken,om det skal være fagkyndige eller alminnelige meddommere, ogandre forhold av betydning for saksforberedelsen.
+(2) Straks tilsvar er inngitt etter [§ 9-3](lov/2005-06-17-90/§9-3), skal retten legge opp en plan for den videre behandlingen etter drøfting med partene og herunder fastsette frister og treffe nødvendige beslutninger. Dette omfatter
+
+1. om det bør gjennomføres rettsmekling eller mekling i rettsmøte,
+2. om saken bør behandles etter særlige regler,
+3. om rettsmøter skal holdes under saksforberedelsen, og om det kan være hensiktsmessig å avgjøre saken etter et slikt rettsmøte,
+4. om det skal inngis skriftlige innlegg som en del av avgjørelsesgrunnlaget,
+5. om behandlingen av saken bør deles opp,
+6. gjennomgåelse av bevisføringen, herunder om det kreves befaring eller tilgang til eller framleggelse av bevis, om bevis skal sikres, om det bør oppnevnes sakkyndig, og om bevisføringen bør begrenses ut fra proporsjonalitet,
+7. om sluttinnlegg skal inngis,
+8. berammelse av hovedforhandling, som bare hvis særlige grunner gjør det nødvendig kan settes til et tidspunkt senere enn seks måneder etter at stevning ble inngitt i saken,
+9. om det skal være fagkyndige eller alminnelige meddommere, og
+10. andre forhold av betydning for saksforberedelsen.
 
 (3) Drøfting etter annet ledd skal skje i rettsmøte, som kan være et fjernmøte. Hvis sakens framdrift tilsier det, eller drøfting i rettsmøte åpenbart er unødvendig, kan retten be om partenes skriftlige uttalelse eller få den nødvendige avklaring på annen måte.
 
@@ -684,7 +782,10 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 (3) De fagkyndige meddommerne oppnevnes slik at de har fagkyndighet tilpasset saken. Det kan oppnevnes meddommere med ulik fagkyndighet. Som meddommer med juridisk kyndighet kan bare oppnevnes en person som begge parter har foreslått.
 
-(4) Domstollederen i tingretten kan beslutte at retten under hovedforhandlingen skal settes med mer enn én fagdommer dersomsaken reiser særlig kompliserte faktiske eller rettslige spørsmål, eller andre forhold tilsier det, ellerpartene har avtalt en slik behandling og etter avtalen har frafalt retten til anke og sakens tvistegjenstand ligger over grensen for anke til lagmannsrett etter [§ 29-13](lov/2005-06-17-90/§29-13).
+(4) Domstollederen i tingretten kan beslutte at retten under hovedforhandlingen skal settes med mer enn én fagdommer dersom
+
+1. saken reiser særlig kompliserte faktiske eller rettslige spørsmål, eller andre forhold tilsier det, eller
+2. partene har avtalt en slik behandling og etter avtalen har frafalt retten til anke og sakens tvistegjenstand ligger over grensen for anke til lagmannsrett etter [§ 29-13](lov/2005-06-17-90/§29-13).
 
 (5) Dersom tingretten skal settes med mer enn én fagdommer, deltar tre fagdommere. Skal det også være med meddommere, settes retten med to fagdommere og tre meddommere. Dommerfullmektiger kan ikke delta i avgjørelsen av en sak som settes med mer enn én fagdommer. Er det færre faste fagdommere ved domstolen enn det antall som skal delta i behandlingen av saken, tilkaller domstolen en dommer etter reglene i [domstolloven § 19](lov/1915-08-13-5/§19) annet ledd. Domstollederen avgjør hvem som skal være rettens leder.
 
@@ -726,7 +827,11 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 ### § 9-16. Endring i krav, påstand, påstandsgrunnlag og bevis
 
-(1) Etter avsluttet saksforberedelse kan en part ikke mot motpartens protest sette fram nye krav, utvide påstanden til et framsatt krav, sette fram et nytt påstandsgrunnlag eller tilby nye bevis med mindre det skjer før hovedforhandlingen og er foranlediget av motpartens prosesskriv som parten ikke med rimelighet kunne besvart tidligere, eller retten tillater det. Slik tillatelse skal gis nårparten ikke kan bebreides at endringen ikke er foretatt tidligere, og det vil være urimelig å nekte endringen,motparten har tilstrekkelig grunnlag for, uten utsettelse, å ivareta sine interesser etter endringen, ellernektelse vil kunne påføre parten et urimelig tap.
+(1) Etter avsluttet saksforberedelse kan en part ikke mot motpartens protest sette fram nye krav, utvide påstanden til et framsatt krav, sette fram et nytt påstandsgrunnlag eller tilby nye bevis med mindre det skjer før hovedforhandlingen og er foranlediget av motpartens prosesskriv som parten ikke med rimelighet kunne besvart tidligere, eller retten tillater det. Slik tillatelse skal gis når
+
+1. parten ikke kan bebreides at endringen ikke er foretatt tidligere, og det vil være urimelig å nekte endringen,
+2. motparten har tilstrekkelig grunnlag for, uten utsettelse, å ivareta sine interesser etter endringen, eller
+3. nektelse vil kunne påføre parten et urimelig tap.
 
 (2) Retten kan, selv om vilkårene etter første ledd ikke er oppfylt, tillate endring på det vilkår at parten pålegges å godtgjøre motpartens merutgifter ved at endringen skjer etter fristen for endringer, dersom ikke andre vesentlige hensyn for motparten taler mot dette.
 
@@ -746,9 +851,18 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 (1) Småkravprosessen er den ordinære behandlingsmåten for små krav i saker for tingretten, med særlig vekt på at behandlingen er tilpasset betydningen av tvisten.
 
-(2) Ved småkravprosess behandlesalle saker hvor tvistesummen er under kr 250 000,saker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, ogsaker som ikke gjelder formuesverdier dersom retten finner at småkravprosessen vil være forsvarlig og hensiktsmessig, og ikke begge parter motsetter seg slik behandling.
+(2) Ved småkravprosess behandles
 
-(3) Ved småkravprosess behandles likevel ikkegruppesøksmål etter [kapittel 35](lov/2005-06-17-90/kap35),saker etter spesialprosess med mindre det er bestemt i vedkommende lov,søksmål om rettsforhold hvor partenes rådighet er begrenset, jf. [§ 11-4](lov/2005-06-17-90/§11-4), ellersaker etter annet ledd bokstav a hvor saken for en part har vesentlig betydning ut over den konkrete tvist, eller hensynet til forsvarlig behandling nødvendiggjør behandling ved allmennprosess.
+1. alle saker hvor tvistesummen er under kr 250 000,
+2. saker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og
+3. saker som ikke gjelder formuesverdier dersom retten finner at småkravprosessen vil være forsvarlig og hensiktsmessig, og ikke begge parter motsetter seg slik behandling.
+
+(3) Ved småkravprosess behandles likevel ikke
+
+1. gruppesøksmål etter [kapittel 35](lov/2005-06-17-90/kap35),
+2. saker etter spesialprosess med mindre det er bestemt i vedkommende lov,
+3. søksmål om rettsforhold hvor partenes rådighet er begrenset, jf. [§ 11-4](lov/2005-06-17-90/§11-4), eller
+4. saker etter annet ledd bokstav a hvor saken for en part har vesentlig betydning ut over den konkrete tvist, eller hensynet til forsvarlig behandling nødvendiggjør behandling ved allmennprosess.
 
 (4) Tvist om en sak skal behandles ved småkravprosess, avgjøres ved kjennelse. Treffes det uten saksøkerens samtykke avgjørelse etter tredje ledd bokstav d om at saken ikke skal behandles ved småkravprosess, kan saksøkeren frafalle saken uten å oppgi kravet og uten ansvar for motpartens sakskostnader.
 
@@ -796,7 +910,12 @@ Kapitlet gjelder for behandlingen i tingretten og for behandlingen i lagmannsret
 
 ### § 10-5. Sakskostnader
 
-(1) Erstatning for sakskostnader gis bare for disse poster:partens reise til rettsmøte,rettsgebyr,bevisføring som ikke anses unødvendig eller uforholdsmessig, ogrettshjelp og fagkyndige meddommere.
+(1) Erstatning for sakskostnader gis bare for disse poster:
+
+1. partens reise til rettsmøte,
+2. rettsgebyr,
+3. bevisføring som ikke anses unødvendig eller uforholdsmessig, og
+4. rettshjelp og fagkyndige meddommere.
 
 (2) Når det ses bort fra merverdiavgift, kan kostnader etter første ledd bokstav d bare erstattes med inntil 20 prosent av sakens tvistesum, likevel alltid inntil kr 2 500 og aldri mer enn kr 50 000. Merverdiavgift av kostnad som er erstattet etter første punktum, kan erstattes når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.
 
@@ -888,7 +1007,13 @@ I saker om personstatus, barns rettsforhold etter barneloven, administrative tva
 
 ### § 12-2. Utforming av prosesskriv
 
-(1) Prosesskriv skal nevnedomstolen,sakens nummer,partene,prosessfullmektigene ogbilag som følger med, og om de kreves unntatt fra innsynsrett etter [§ 14-4](lov/2005-06-17-90/§14-4).
+(1) Prosesskriv skal nevne
+
+- domstolen,
+- sakens nummer,
+- partene,
+- prosessfullmektigene og
+- bilag som følger med, og om de kreves unntatt fra innsynsrett etter [§ 14-4](lov/2005-06-17-90/§14-4).
 
 (2) Prosesskriv skal være undertegnet.
 
@@ -918,7 +1043,10 @@ Retten sørger for at prosesskriv som innleder en sak, bringer nye krav inn i sa
 
 (2) Med fjernmøte menes et møte der ikke alle deltakerne er til stede, men deltar ved hjelp av fjernmøteteknikk.
 
-(3) Rettsmøter kan helt eller delvis holdes som fjernmøter nårdet er særskilt bestemt, ellerdet er hensiktsmessig og forsvarlig.
+(3) Rettsmøter kan helt eller delvis holdes som fjernmøter når
+
+1. det er særskilt bestemt, eller
+2. det er hensiktsmessig og forsvarlig.
 
 (4) Før retten treffer avgjørelse om fjernmøte etter tredje ledd bokstav b, skal partene gis anledning til å uttale seg. Partene bør gis anledning til å uttale seg før retten treffer avgjørelse om fjernmøte etter tredje ledd bokstav a.
 
@@ -966,7 +1094,16 @@ I rettsmøte skal det føres rettsbok i samsvar med [§ 13-6](lov/2005-06-17-90/
 
 ### § 13-6. Rettsbokens innhold
 
-(1) Rettsboken skal angidomstolen, tiden og stedet for møtet, dommernes og partenes navn, sakens nummer og møtets tema,om partene møter personlig, hvem som møter for dem, og navnene på vitner og sakkyndige,partenes påstander,de bevis som er gjennomgått,begjæringer og innsigelser om saksbehandlingen, ogrettslige avgjørelser og pålegg dersom disse ikke utferdiges som selvstendige dokumenter.Opplysninger som er gitt skriftlig til retten etter [§ 24-8](lov/2005-06-17-90/§24-8) annet eller tredje ledd, skal ikke føres inn i rettsboken.
+(1) Rettsboken skal angi
+
+1. domstolen, tiden og stedet for møtet, dommernes og partenes navn, sakens nummer og møtets tema,
+2. om partene møter personlig, hvem som møter for dem, og navnene på vitner og sakkyndige,
+3. partenes påstander,
+4. de bevis som er gjennomgått,
+5. begjæringer og innsigelser om saksbehandlingen, og
+6. rettslige avgjørelser og pålegg dersom disse ikke utferdiges som selvstendige dokumenter.
+
+Opplysninger som er gitt skriftlig til retten etter [§ 24-8](lov/2005-06-17-90/§24-8) annet eller tredje ledd, skal ikke føres inn i rettsboken.
 
 (2) Forhandlingens gang nedtegnes etter hvert. En part som setter fram et forlikstilbud, kan kreve det inntatt i rettsboken.
 
@@ -980,7 +1117,11 @@ I rettsmøte skal det føres rettsbok i samsvar med [§ 13-6](lov/2005-06-17-90/
 
 (1) Under hoved- og ankeforhandling skal det foretas opptak av parts- og vitneforklaringer. Retten kan beslutte at det skal foretas opptak også av andre deler av forhandlingene og under andre rettsmøter.
 
-(2) Opptak kan unnlates nårsaken behandles etter reglene i [kapittel 10](lov/2005-06-17-90/kap10),retten ikke har tilgjengelig nødvendig utstyr for opptak, ellerforklaringene innføres i rettsboken, jf. [§ 13-8](lov/2005-06-17-90/§13-8).
+(2) Opptak kan unnlates når
+
+1. saken behandles etter reglene i [kapittel 10](lov/2005-06-17-90/kap10),
+2. retten ikke har tilgjengelig nødvendig utstyr for opptak, eller
+3. forklaringene innføres i rettsboken, jf. [§ 13-8](lov/2005-06-17-90/§13-8).
 
 (3) Den som skal avhøres, skal varsles om at forklaringen blir tatt opp.
 
@@ -1022,7 +1163,12 @@ I rettsmøte skal det føres rettsbok i samsvar med [§ 13-6](lov/2005-06-17-90/
 
 (1) Allmennheten har rett til innsyn i rettsbøker, rettsmeklingsprotokoller, rettsavgjørelser og sakskostnadsoppgaver etter [§ 20-5](lov/2005-06-17-90/§20-5).
 
-(2) I saker som ikke fullt ut behandles skriftlig, har allmennheten også rett til innsyn i disse dokumentene:sluttinnlegg etter [§ 9-10](lov/2005-06-17-90/§9-10),innlegg etter [§ 9-9](lov/2005-06-17-90/§9-9) annet til fjerde ledd, [§ 15-8](lov/2005-06-17-90/§15-8) annet ledd, [§ 29-16](lov/2005-06-17-90/§29-16) tredje til femte ledd, [§ 30-10](lov/2005-06-17-90/§30-10) annet og fjerde ledd og [§ 30-13](lov/2005-06-17-90/§30-13) annet ledd,bevis som er påberopt under muntlige forhandlinger eller i innlegg som nevnt i bokstav b,hjelpedokumenter etter [§ 9-14](lov/2005-06-17-90/§9-14) annet ledd.
+(2) I saker som ikke fullt ut behandles skriftlig, har allmennheten også rett til innsyn i disse dokumentene:
+
+1. sluttinnlegg etter [§ 9-10](lov/2005-06-17-90/§9-10),
+2. innlegg etter [§ 9-9](lov/2005-06-17-90/§9-9) annet til fjerde ledd, [§ 15-8](lov/2005-06-17-90/§15-8) annet ledd, [§ 29-16](lov/2005-06-17-90/§29-16) tredje til femte ledd, [§ 30-10](lov/2005-06-17-90/§30-10) annet og fjerde ledd og [§ 30-13](lov/2005-06-17-90/§30-13) annet ledd,
+3. bevis som er påberopt under muntlige forhandlinger eller i innlegg som nevnt i bokstav b,
+4. hjelpedokumenter etter [§ 9-14](lov/2005-06-17-90/§9-14) annet ledd.
 
 (3) Når det er truffet realitetsavgjørelse eller avgjørelse om sakskostnader i sak som behandles fullt ut skriftlig, gjelder annet ledd tilsvarende.
 
@@ -1034,11 +1180,31 @@ I rettsmøte skal det føres rettsbok i samsvar med [§ 13-6](lov/2005-06-17-90/
 
 ### § 14-4. Unntak fra allmennhetens innsynsrett i andre saksdokumenter
 
-(1) Retten til innsyn i saksdokumentene gjelder ikke forsaker etter ekteskapsloven,saker etter barneloven,saker mellom personer som er eller har vært samboere, om fordeling eller tildeling av formuen, ogsaker etter [denne lov kapittel 36](lov/2005-06-17-90/kap36).Retten kan ved særlige grunner beslutte at innsyn helt eller delvis skal gis.
+(1) Retten til innsyn i saksdokumentene gjelder ikke for
 
-(2) Innsyn i saksdokumentene kan avslås nårhensynet til statens forhold til en fremmed stat krever det,hensynet til privatlivets fred eller strengt personlige forhold krever det,særlige forhold gir grunn til frykt for at offentlighet vil vanskeliggjøre sakens opplysning, og det derfor er påkrevd å nekte innsyn, elleri krigstid hensynet til militære operasjoner eller militære avdelingers sikkerhet eller andre særlige grunner krever det.Dersom det likevel gis innsyn, kan retten ved kjennelse helt eller delvis forby offentlig gjengivelse.
+1. saker etter ekteskapsloven,
+2. saker etter barneloven,
+3. saker mellom personer som er eller har vært samboere, om fordeling eller tildeling av formuen, og
+4. saker etter [denne lov kapittel 36](lov/2005-06-17-90/kap36).
 
-(3) Retten skal nekte innsyn i bevis som kan kreves ført for lukkede dører etter [kapittel 22](lov/2005-06-17-90/kap22) omforretningshemmeligheter,opplysninger av betydning for rikets sikkerhet eller forholdet til fremmed stat,forhold undergitt lovbestemt taushetsplikt,rettsforhandlinger hvor det er gitt pålegg om hemmelighold, ellerbetroelser til særlige yrkesutøvere.
+Retten kan ved særlige grunner beslutte at innsyn helt eller delvis skal gis.
+
+(2) Innsyn i saksdokumentene kan avslås når
+
+1. hensynet til statens forhold til en fremmed stat krever det,
+2. hensynet til privatlivets fred eller strengt personlige forhold krever det,
+3. særlige forhold gir grunn til frykt for at offentlighet vil vanskeliggjøre sakens opplysning, og det derfor er påkrevd å nekte innsyn, eller
+4. i krigstid hensynet til militære operasjoner eller militære avdelingers sikkerhet eller andre særlige grunner krever det.
+
+Dersom det likevel gis innsyn, kan retten ved kjennelse helt eller delvis forby offentlig gjengivelse.
+
+(3) Retten skal nekte innsyn i bevis som kan kreves ført for lukkede dører etter [kapittel 22](lov/2005-06-17-90/kap22) om
+
+1. forretningshemmeligheter,
+2. opplysninger av betydning for rikets sikkerhet eller forholdet til fremmed stat,
+3. forhold undergitt lovbestemt taushetsplikt,
+4. rettsforhandlinger hvor det er gitt pålegg om hemmelighold, eller
+5. betroelser til særlige yrkesutøvere.
 
 (4) Innsyn i psykiatriske erklæringer kan bare gis i den utstrekning det er fastsatt av Kongen i forskrift.
 
@@ -1052,7 +1218,10 @@ I rettsmøte skal det føres rettsbok i samsvar med [§ 13-6](lov/2005-06-17-90/
 
 ### § 14-6. Saksbehandling ved tvist om innsyn
 
-(1) Når innsyn er begjært, skal retten ta stilling til om innsyn skal nektesnår en part motsetter seg innsyn,når det av hensyn til andre enn sakens parter kan gjelde regler om taushetsplikt eller taushetsrett.
+(1) Når innsyn er begjært, skal retten ta stilling til om innsyn skal nektes
+
+1. når en part motsetter seg innsyn,
+2. når det av hensyn til andre enn sakens parter kan gjelde regler om taushetsplikt eller taushetsrett.
 
 (2) Retten til innsyn bedømmes for hvert enkelt dokument eller del av dokument.
 
@@ -1068,7 +1237,11 @@ Kongen kan gi forskrift om gjennomføring av innsynsrett etter dette kapitlet.
 
 ### § 15-1. Flere krav
 
-(1) Saksøkeren kan i én sak sette fram flere krav mot samme saksøkte dersomkravene hører under norsk domsmyndighet,domstolen er rett verneting for ett av kravene, ogkravene kan behandles av retten med samme sammensetning og hovedsakelig etter de samme saksbehandlingsregler. Det er ikke til hinder for at flere krav settes fram i saken, at retten på grunn av behandlingen av ett av kravene skal settes med meddommere eller flere fagdommere. Hvis saken da deles etter [§ 16-1](lov/2005-06-17-90/§16-1), settes retten bare med meddommere eller flere fagdommere for de krav hvor dette er særskilt begrunnet.
+(1) Saksøkeren kan i én sak sette fram flere krav mot samme saksøkte dersom
+
+1. kravene hører under norsk domsmyndighet,
+2. domstolen er rett verneting for ett av kravene, og
+3. kravene kan behandles av retten med samme sammensetning og hovedsakelig etter de samme saksbehandlingsregler. Det er ikke til hinder for at flere krav settes fram i saken, at retten på grunn av behandlingen av ett av kravene skal settes med meddommere eller flere fagdommere. Hvis saken da deles etter [§ 16-1](lov/2005-06-17-90/§16-1), settes retten bare med meddommere eller flere fagdommere for de krav hvor dette er særskilt begrunnet.
 
 (2) Saksøkte kan sette fram krav mot saksøkeren dersom vilkårene etter første ledd bokstav a og c er oppfylt.
 
@@ -1080,7 +1253,10 @@ Kongen kan gi forskrift om gjennomføring av innsynsrett etter dette kapitlet.
 
 ### § 15-2. Flere parter som saksøkere eller saksøkte
 
-(1) Flere parter kan saksøke eller saksøkes i én sak dersomvilkårene i [§ 15-1](lov/2005-06-17-90/§15-1) første ledd bokstav a til c er oppfylt, ogingen parter har innsigelser, eller det er så nær sammenheng mellom kravene at de bør behandles i samme sak.
+(1) Flere parter kan saksøke eller saksøkes i én sak dersom
+
+1. vilkårene i [§ 15-1](lov/2005-06-17-90/§15-1) første ledd bokstav a til c er oppfylt, og
+2. ingen parter har innsigelser, eller det er så nær sammenheng mellom kravene at de bør behandles i samme sak.
 
 (2) Under saken kan en eller flere parter trekke inn krav mot tredjeperson dersom vilkårene i [§ 15-1](lov/2005-06-17-90/§15-1) første ledd bokstav a og c og [§ 15-2](lov/2005-06-17-90/§15-2) første ledd bokstav b er oppfylt.
 
@@ -1092,7 +1268,10 @@ Kongen kan gi forskrift om gjennomføring av innsynsrett etter dette kapitlet.
 
 ### § 15-3. Tredjeperson trer inn som part
 
-(1) Tredjeperson kan tre inn som part i en sak dersomvilkårene i [§ 15-1](lov/2005-06-17-90/§15-1) første ledd bokstav a og c er oppfylt, ogtredjeperson vil nedlegge selvstendig påstand om det som er tvistegjenstand i saken, eller vil fremme et krav som har så nær sammenheng med det opprinnelige kravet at det bør behandles i saken.
+(1) Tredjeperson kan tre inn som part i en sak dersom
+
+1. vilkårene i [§ 15-1](lov/2005-06-17-90/§15-1) første ledd bokstav a og c er oppfylt, og
+2. tredjeperson vil nedlegge selvstendig påstand om det som er tvistegjenstand i saken, eller vil fremme et krav som har så nær sammenheng med det opprinnelige kravet at det bør behandles i saken.
 
 (2) [§ 15-2](lov/2005-06-17-90/§15-2) tredje til femte ledd gjelder tilsvarende.
 
@@ -1114,7 +1293,10 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 ### § 15-7. Partshjelp
 
-(1) Partshjelp skal tillates forden som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, ogforeninger og stiftelser, samt offentlige organer med oppgave å fremme særskilte interesser, i sak som ligger innenfor deres formål og naturlige virkeområde etter [§ 1-4](lov/2005-06-17-90/§1-4).
+(1) Partshjelp skal tillates for
+
+1. den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og
+2. foreninger og stiftelser, samt offentlige organer med oppgave å fremme særskilte interesser, i sak som ligger innenfor deres formål og naturlige virkeområde etter [§ 1-4](lov/2005-06-17-90/§1-4).
 
 (2) Partshjelp må erklæres i prosesskriv eller i rettsmøte før saken er rettskraftig avgjort. Erklæringen skal angi det som er grunnlaget for partshjelpen. Den meddeles partene med frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. En kjennelse som tillater partshjelp, kan ikke ankes. Avgjørelsen er bare bindende for behandlingen i instansen. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp utøve prosessuelle rettigheter etter tredje og fjerde ledd.
 
@@ -1124,7 +1306,10 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 ### § 15-8. Skriftlig innlegg til belysning av allmenne interesser
 
-(1) Skriftlig innlegg til å belyse allmenne interesser som en sak reiser, kan gis avforeninger og stiftelser innenfor rammen av deres formål og naturlige virkeområde, elleret offentlig organ innenfor sitt ansvarsområde.
+(1) Skriftlig innlegg til å belyse allmenne interesser som en sak reiser, kan gis av
+
+1. foreninger og stiftelser innenfor rammen av deres formål og naturlige virkeområde, eller
+2. et offentlig organ innenfor sitt ansvarsområde.
 
 (2) Innlegget gis ved prosesskriv. Retten kan ved kjennelse tilbakevise innlegget hvis det i form, omfang eller innhold er dårlig egnet til å belyse allmenne interesser i saken. Blir innlegget ikke tilbakevist, inngår det i avgjørelsesgrunnlaget i saken og oversendes partene.
 
@@ -1142,7 +1327,10 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 (1) Retten kan bestemme at det skal forhandles særskilt om ett eller noen av flere krav i saken eller om ett eller flere tvistepunkter for et krav.
 
-(2) Retten kan avgjøre særskilt ett eller noen av flere krav i saken eller en del av ett krav. Avgjørelsen av erstatningskrav eller andre krav hvor omfanget er omtvistet, kan deles slik at avgjørelsen av omfanget utsettes. Hvis retten er enstemmig eller partene samtykker i det, kan den også treffe særskilt avgjørelse ompåstandsgrunnlag som ikke leder til avgjørelse av et krav,hvilket lands rett et krav skal bedømmes etter.
+(2) Retten kan avgjøre særskilt ett eller noen av flere krav i saken eller en del av ett krav. Avgjørelsen av erstatningskrav eller andre krav hvor omfanget er omtvistet, kan deles slik at avgjørelsen av omfanget utsettes. Hvis retten er enstemmig eller partene samtykker i det, kan den også treffe særskilt avgjørelse om
+
+1. påstandsgrunnlag som ikke leder til avgjørelse av et krav,
+2. hvilket lands rett et krav skal bedømmes etter.
 
 (3) Avgjøres et krav særskilt og motparten har fremmet et krav mot dette som ikke avgjøres samtidig, kan avgjørelsen ikke fullbyrdes uten at det er bestemt av retten. Retten kan sette som vilkår for fullbyrdelse at det stilles sikkerhet.
 
@@ -1188,7 +1376,13 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 ### § 16-7. Fristoversitting og fristforelegg
 
-(1) Det betyr fravær i saken at en part oversitter fristen forbetaling av rettsgebyr og nødvendige sideutgifter etter rettsgebyrloven,sikkerhetsstillelse etter [§ 20-11](lov/2005-06-17-90/§20-11),skriftlig tilsvar i søksmål etter [§ 9-3](lov/2005-06-17-90/§9-3),anke eller andre rettsmidler, ellerførste innlegg i skriftlig ankesak etter [§ 29-16](lov/2005-06-17-90/§29-16) femte ledd og [§ 30-10](lov/2005-06-17-90/§30-10) fjerde ledd.
+(1) Det betyr fravær i saken at en part oversitter fristen for
+
+1. betaling av rettsgebyr og nødvendige sideutgifter etter rettsgebyrloven,
+2. sikkerhetsstillelse etter [§ 20-11](lov/2005-06-17-90/§20-11),
+3. skriftlig tilsvar i søksmål etter [§ 9-3](lov/2005-06-17-90/§9-3),
+4. anke eller andre rettsmidler, eller
+5. første innlegg i skriftlig ankesak etter [§ 29-16](lov/2005-06-17-90/§29-16) femte ledd og [§ 30-10](lov/2005-06-17-90/§30-10) fjerde ledd.
 
 (2) Har en part unnlatt å foreta en annen prosesshandling som er av vesentlig betydning for motparten eller nødvendig for forsvarlig behandling av saken, kan retten ved forelegg til parten bestemme at det vil bety fravær i saken om prosesshandlingen ikke foretas innen en bestemt angitt siste frist. Skal prosesshandlingen foretas etter krav fra motparten, utstedes forelegg bare etter begjæring fra denne.
 
@@ -1198,13 +1392,21 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 ### § 16-8. Møtefravær
 
-(1) Det betyr fravær i saken at en part ikke møter vedrettsmøter for sluttbehandling av saken, ellerrettsmøte for muntlig tilsvar etter [§ 9-5](lov/2005-06-17-90/§9-5) første ledd.
+(1) Det betyr fravær i saken at en part ikke møter ved
+
+1. rettsmøter for sluttbehandling av saken, eller
+2. rettsmøte for muntlig tilsvar etter [§ 9-5](lov/2005-06-17-90/§9-5) første ledd.
 
 (2) For andre rettsmøter kan retten hvis det er særlig viktig at partene deltar, beslutte at det vil bety fravær i saken om de ikke møter.
 
 (3) Hvis en part med personlig møteplikt unnlater å møte, betyr det fravær i saken selv om prosessfullmektigen møter.
 
-(4) Første til tredje ledd gjelder tilsvarende hvis en partforlater møtet uten rettens tillatelse,nekter å forhandle om det som er tema for møtet,fratas ordet eller vises ut etter [domstolloven § 133](lov/1915-08-13-5/§133), elleri strid med pålegg etter [§ 3-2](lov/2005-06-17-90/§3-2) ikke møter med prosessfullmektig.
+(4) Første til tredje ledd gjelder tilsvarende hvis en part
+
+1. forlater møtet uten rettens tillatelse,
+2. nekter å forhandle om det som er tema for møtet,
+3. fratas ordet eller vises ut etter [domstolloven § 133](lov/1915-08-13-5/§133), eller
+4. i strid med pålegg etter [§ 3-2](lov/2005-06-17-90/§3-2) ikke møter med prosessfullmektig.
 
 ### § 16-9. Avvisning ved fravær
 
@@ -1270,7 +1472,11 @@ Saker som reiser likeartede spørsmål, og som skal behandles med samme sammense
 
 ### § 16-16. Stansing etter loven
 
-(1) Saken stanser fra det tidspunktdomstolens virksomhet avbrytes av krigstilstand eller av andre grunner,en part eller stedfortreder dør, ellerboet til parten som anla saken, blir tatt under konkursbehandling, dersom tvistegjenstanden inngår i bomassen.
+(1) Saken stanser fra det tidspunkt
+
+1. domstolens virksomhet avbrytes av krigstilstand eller av andre grunner,
+2. en part eller stedfortreder dør, eller
+3. boet til parten som anla saken, blir tatt under konkursbehandling, dersom tvistegjenstanden inngår i bomassen.
 
 (2) En sak som er stanset etter første ledd bokstav a, bringer retten i gang når domstolen trer i funksjon. En sak som er stanset etter første ledd bokstav b og c bringer retten i gang på begjæring fra rette vedkommende eller motparten.
 
@@ -1364,7 +1570,11 @@ Reises det ny sak mellom samme parter om et krav som allerede er tvistegjenstand
 
 (1) Når et krav i saken er forkynt for motparten eller satt fram i rettsmøte, blir kravet å regne som oppgitt dersom det trekkes tilbake fra behandling før rettens avgjørelse er truffet. Motparten kan kreve at saken tas opp til rettslig avgjørelse etter [§ 9-7](lov/2005-06-17-90/§9-7).
 
-(2) Kravet kan trekkes fra behandling uten at det oppgis hvis motpartensamtykker i dette,ikke har inngitt tilsvar, ellerhar påstått behandlingen av kravet avvist.
+(2) Kravet kan trekkes fra behandling uten at det oppgis hvis motparten
+
+1. samtykker i dette,
+2. ikke har inngitt tilsvar, eller
+3. har påstått behandlingen av kravet avvist.
 
 (3) Ved behandling i forliksrådet kan kravet alltid trekkes fra videre behandling uten at det oppgis, inntil kravet er avgjort av forliksrådet.
 
@@ -1376,11 +1586,24 @@ Reises det ny sak mellom samme parter om et krav som allerede er tvistegjenstand
 
 ### § 19-1. Dommer, kjennelser og beslutninger
 
-(1) Ved dom treffes avgjørelse avkrav som er tvistegjenstand i søksmål,tvist som nevnt i [§ 16-1](lov/2005-06-17-90/§16-1) annet ledd tredje punktum, elleranke over dom.
+(1) Ved dom treffes avgjørelse av
 
-(2) Ved kjennelse treffes avgjørelsersom avviser en sak fordi vilkår for å ta den under behandling ikke er oppfylt, eller som fremmer saken etter særskilt behandling av en påstand om avvisning,som hever en sak som av andre grunner enn nevnt i bokstav a bortfaller uten realitetsavgjørelse,av anke over kjennelse eller beslutning,ved tvist om bevis, ellersom etter loven skal treffes i denne form.
+1. krav som er tvistegjenstand i søksmål,
+2. tvist som nevnt i [§ 16-1](lov/2005-06-17-90/§16-1) annet ledd tredje punktum, eller
+3. anke over dom.
 
-(3) Ved beslutning treffes avgjørelser omsaksbehandlingen som ikke etter loven krever kjennelse, ellerå samtykke til eller nekte anke.
+(2) Ved kjennelse treffes avgjørelser
+
+1. som avviser en sak fordi vilkår for å ta den under behandling ikke er oppfylt, eller som fremmer saken etter særskilt behandling av en påstand om avvisning,
+2. som hever en sak som av andre grunner enn nevnt i bokstav a bortfaller uten realitetsavgjørelse,
+3. av anke over kjennelse eller beslutning,
+4. ved tvist om bevis, eller
+5. som etter loven skal treffes i denne form.
+
+(3) Ved beslutning treffes avgjørelser om
+
+1. saksbehandlingen som ikke etter loven krever kjennelse, eller
+2. å samtykke til eller nekte anke.
 
 (4) At en avgjørelse er truffet i uriktig form, er uten betydning for dens rettsvirkninger eller for adgangen til overprøving. Ved anke følges reglene for den avgjørelsestype som retten skulle ha brukt.
 
@@ -1392,7 +1615,12 @@ Reises det ny sak mellom samme parter om et krav som allerede er tvistegjenstand
 
 (2) Avgjørelser om saksbehandlingen under saksforberedelsen treffes av forberedende dommer. Er forberedende dommer avskåret fra raskt å treffe avgjørelsen, kan den treffes av domstolens leder eller en annen dommer som domstollederen utpeker. Forberedende dommer i saker for Høyesterett kan henvise avgjørelsen til Høyesteretts ankeutvalg.
 
-(3) Forberedende dommer i ankesaker kan ikke treffe avgjørelse om åavvise anken, eller fremme anken der det er tvist om dette,heve anken eller saken der det er tvist om dette,oppheve den påankede avgjørelsen, ellersamtykke til eller nekte anke.
+(3) Forberedende dommer i ankesaker kan ikke treffe avgjørelse om å
+
+1. avvise anken, eller fremme anken der det er tvist om dette,
+2. heve anken eller saken der det er tvist om dette,
+3. oppheve den påankede avgjørelsen, eller
+4. samtykke til eller nekte anke.
 
 ### § 19-3. Rådslagning og avstemning
 
@@ -1436,7 +1664,11 @@ Reises det ny sak mellom samme parter om et krav som allerede er tvistegjenstand
 
 (3) Det skal opplyses om avgjørelsen er enstemmig. Ved dissens skal det opplyses hvem som er uenig, og hvilke punkter uenigheten gjelder.
 
-(4) Dommer og kjennelser skal begrunnes. Begrunnelsen skal omfatteframstilling av saken,partenes påstander med påstandsgrunnlag, ogrettens vurdering.
+(4) Dommer og kjennelser skal begrunnes. Begrunnelsen skal omfatte
+
+1. framstilling av saken,
+2. partenes påstander med påstandsgrunnlag, og
+3. rettens vurdering.
 
 (5) Saksframstillingen og redegjørelsen for påstandsgrunnlagene skal konsentrert beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurdering og rettsanvendelse avgjørelsen er bygd på. Overordnede domstoler kan i sin begrunnelse henholde seg helt eller delvis til de underordnede domstolers begrunnelse i saken.
 
@@ -1556,7 +1788,11 @@ Reises det ny sak mellom samme parter om et krav som allerede er tvistegjenstand
 
 (2) Saken er vunnet hvis parten har fått medhold fullt ut eller i det vesentlige, eller hvis motpartens sak er avvist eller hevet fordi den er frafalt eller ikke hører under domstolene. Gjelder saken flere krav mellom samme parter, er det samlede utfallet avgjørende.
 
-(3) Motparten kan helt eller delvis fritas for erstatningsansvar hvis tungtveiende grunner gjør det rimelig. Det legges særlig vekt påom det var god grunn til å få saken prøvd fordi den var tvilsom eller først ble bevismessig avklart etter saksanlegget,om den vinnende part kan bebreides at det kom til sak eller har avslått et rimelig forlikstilbud, ellerom saken er av velferdsmessig betydning og styrkeforholdet partene imellom tilsier slikt fritak.
+(3) Motparten kan helt eller delvis fritas for erstatningsansvar hvis tungtveiende grunner gjør det rimelig. Det legges særlig vekt på
+
+1. om det var god grunn til å få saken prøvd fordi den var tvilsom eller først ble bevismessig avklart etter saksanlegget,
+2. om den vinnende part kan bebreides at det kom til sak eller har avslått et rimelig forlikstilbud, eller
+3. om saken er av velferdsmessig betydning og styrkeforholdet partene imellom tilsier slikt fritak.
 
 ### § 20-3. Sakskostnader til en part som har fått medhold av betydning
 
@@ -1564,7 +1800,11 @@ En part som har fått medhold av betydning uten å vinne saken, jf. [§ 20-2](lo
 
 ### § 20-4. Sakskostnader uavhengig av utfallet
 
-En part kan uavhengig av sakens utfall helt eller delvis tilkjennes sakskostnadernår saken er reist uten fyllestgjørende grunn, og parten snarest godtar kravet,når saken heves på grunn av forhold utenfor partens kontroll, og det er klart at parten ellers hadde vunnet saken, elleri den utstrekning kostnadene skyldes motpartens forsømmelser.
+En part kan uavhengig av sakens utfall helt eller delvis tilkjennes sakskostnader
+
+1. når saken er reist uten fyllestgjørende grunn, og parten snarest godtar kravet,
+2. når saken heves på grunn av forhold utenfor partens kontroll, og det er klart at parten ellers hadde vunnet saken, eller
+3. i den utstrekning kostnadene skyldes motpartens forsømmelser.
 
 ### § 20-5. Utmåling av erstatning for sakskostnader
 
@@ -1572,7 +1812,11 @@ En part kan uavhengig av sakens utfall helt eller delvis tilkjennes sakskostnade
 
 (2) I forliksrådet gis erstatning for sakskostnader bare innenfor rammen av [§ 6-13](lov/2005-06-17-90/§6-13), og for saker behandlet etter reglene for småkravprosess bare innenfor rammen av [§ 10-5](lov/2005-06-17-90/§10-5). Tredje til sjette ledd gjelder ikke for forliksrådet.
 
-(3) I saker som avgjøres etter muntlig forhandling, skal en part inngi oppgave over sakskostnader når de kreves erstattet. Oppgaven skal inngis ved rettsmøtets avslutning. Dersom størrelsen på noen av postene ikke er kjent, skal oppgaven suppleres innen den frist retten fastsetter. Utgiftspostene skal spesifiseres og begrunnes slik at retten har tilstrekkelig grunnlag for å foreta utmålingen. For salærutgifter skal det alltid angis hvor store beløp og hvor mange timers arbeid som knytter seg til disse stadier av saken:fram til det blir inngitt stevning eller tilsvar, eventuelt anke eller anketilsvar,fram til hovedforhandling eller muntlig sluttbehandling, eventuelt ankeforhandling, tar til, ogfram til sakens avslutning for instansen.
+(3) I saker som avgjøres etter muntlig forhandling, skal en part inngi oppgave over sakskostnader når de kreves erstattet. Oppgaven skal inngis ved rettsmøtets avslutning. Dersom størrelsen på noen av postene ikke er kjent, skal oppgaven suppleres innen den frist retten fastsetter. Utgiftspostene skal spesifiseres og begrunnes slik at retten har tilstrekkelig grunnlag for å foreta utmålingen. For salærutgifter skal det alltid angis hvor store beløp og hvor mange timers arbeid som knytter seg til disse stadier av saken:
+
+1. fram til det blir inngitt stevning eller tilsvar, eventuelt anke eller anketilsvar,
+2. fram til hovedforhandling eller muntlig sluttbehandling, eventuelt ankeforhandling, tar til, og
+3. fram til sakens avslutning for instansen.
 
 (4) I saker uten muntlig forhandling kan ikke salærutgifter erstattes med mer enn kr 15 000 uten at det er inngitt kostnadsoppgave etter tredje ledd.
 
@@ -1636,7 +1880,12 @@ Prosessfullmektigen har fortrinnsrett foran sin parts øvrige fordringshavere ti
 
 ### § 20-12. Statens ansvar for partenes sakskostnader
 
-(1) En part som er påført sakskostnader på grunn av feil ved rettens behandling av saken, kan kreve tapet erstattet av staten dersom feilenubetinget skal tillegges virkning etter [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd bokstav b eller etter bokstav d fordi parten ikke var lovlig innkalt, ellerskyldes at retten er vesentlig å bebreide.Er partens sakskostnader påført ved at feilen har fått virkning for en avgjørelse i saken, må også vilkårene i [domstolloven § 200](lov/1915-08-13-5/§200) tredje ledd være oppfylt.
+(1) En part som er påført sakskostnader på grunn av feil ved rettens behandling av saken, kan kreve tapet erstattet av staten dersom feilen
+
+1. ubetinget skal tillegges virkning etter [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd bokstav b eller etter bokstav d fordi parten ikke var lovlig innkalt, eller
+2. skyldes at retten er vesentlig å bebreide.
+
+Er partens sakskostnader påført ved at feilen har fått virkning for en avgjørelse i saken, må også vilkårene i [domstolloven § 200](lov/1915-08-13-5/§200) tredje ledd være oppfylt.
 
 (2) Staten ved Domstoladministrasjonen er motpart for krav om erstatning etter første ledd, med mindre kravet gjelder feil ved forliksrådets behandling av saken, jf. [§ 6-13](lov/2005-06-17-90/§6-13) tredje ledd annet punktum. Før kravet settes fram for domstolen, skal parten skriftlig varsle motparten om kravet. Reglene i [§§ 5-2](lov/2005-06-17-90/§5-2) til [5-4](lov/2005-06-17-90/§5-4) om plikter før sak reises gjelder tilsvarende så langt de passer.
 
@@ -1690,7 +1939,11 @@ Enhver plikter å gi forklaring om faktiske forhold og gi tilgang til gjenstande
 
 (1) Partene kan bare føre bevis om faktiske forhold som kan være av betydning for den avgjørelse som skal treffes.
 
-(2) Retten kan nekte ført bevis somikke er klarlagt som bestemt i [§ 21-6](lov/2005-06-17-90/§21-6) annet ledd,ikke er egnet til å styrke avgjørelsesgrunnlaget nevneverdig, ellerretten finner det nødvendig å føre på annen måte.
+(2) Retten kan nekte ført bevis som
+
+1. ikke er klarlagt som bestemt i [§ 21-6](lov/2005-06-17-90/§21-6) annet ledd,
+2. ikke er egnet til å styrke avgjørelsesgrunnlaget nevneverdig, eller
+3. retten finner det nødvendig å føre på annen måte.
 
 ### § 21-8. Begrensning ut fra proporsjonalitet
 
@@ -1714,7 +1967,11 @@ I saker som behandles muntlig, skal bevisene føres direkte for den dømmende re
 
 ### § 21-11. Bevisopptak
 
-(1) Til bruk for avgjørelsen i saker som behandles muntlig, kan det ved bevisopptak etter reglene i [kapittel 27](lov/2005-06-17-90/kap27) foretas rettslig avhør av parter, vitner og sakkyndige og undersøkelse av realbevis dersomdet må antas at beviset vil bli sikrere enn om det skal føres for den dømmende rett, og det ikke vil påløpe uforholdsmessige merkostnader,det er en nærliggende risiko for at beviset ikke vil kunne føres for den dømmende rett, ellerføring av beviset for den dømmende rett vil medføre kostnader eller ulemper som ikke står i et rimelig forhold til bevisets eller sakens betydning.
+(1) Til bruk for avgjørelsen i saker som behandles muntlig, kan det ved bevisopptak etter reglene i [kapittel 27](lov/2005-06-17-90/kap27) foretas rettslig avhør av parter, vitner og sakkyndige og undersøkelse av realbevis dersom
+
+1. det må antas at beviset vil bli sikrere enn om det skal føres for den dømmende rett, og det ikke vil påløpe uforholdsmessige merkostnader,
+2. det er en nærliggende risiko for at beviset ikke vil kunne føres for den dømmende rett, eller
+3. føring av beviset for den dømmende rett vil medføre kostnader eller ulemper som ikke står i et rimelig forhold til bevisets eller sakens betydning.
 
 (2) Bevisopptak etter første ledd kan føres ved den muntlige forhandling hvis partene har hatt muligheter for å ivareta sine interesser eller vilkårene i [§ 21-12](lov/2005-06-17-90/§21-12) er oppfylt. Bevis som på annet grunnlag er opptatt eller sikret i samme sak, kan føres hvis ingen av partene har krevd beviset ført direkte for den dømmende rett, eller hvis vilkårene i [§ 21-12](lov/2005-06-17-90/§21-12) er oppfylt.
 
@@ -1810,7 +2067,12 @@ Retten kan i særlige tilfeller nekte føring av bevis som er skaffet til veie p
 
 ### § 22-9. Bevisfritak for belastende personopplysninger
 
-(1) En part eller et vitne kan nekte å gi tilgang til bevis som kan medføre straff forvedkommende selv,slektning nevnt i [§ 22-8](lov/2005-06-17-90/§22-8) første ledd og dennes ektefelle eller samboer,nåværende og tidligere ektefelle eller samboer og dennes slektninger i rett opp- og nedstigende linje samt søsken, ellerperson som er gift eller samboer med noen som er omfattet av bokstav c.
+(1) En part eller et vitne kan nekte å gi tilgang til bevis som kan medføre straff for
+
+1. vedkommende selv,
+2. slektning nevnt i [§ 22-8](lov/2005-06-17-90/§22-8) første ledd og dennes ektefelle eller samboer,
+3. nåværende og tidligere ektefelle eller samboer og dennes slektninger i rett opp- og nedstigende linje samt søsken, eller
+4. person som er gift eller samboer med noen som er omfattet av bokstav c.
 
 (2) Retten kan gi pålegg til en part eller vitne om å forklare seg i tilfelle som nevnt i første ledd, når det er rimelig etter en samlet vurdering av sakens art, forklaringens betydning for sakens opplysning og følgene for parten eller vitnet av å gi forklaring.
 
@@ -1830,7 +2092,10 @@ En part eller et vitne kan nekte å gi tilgang til bevis som ikke kan gjøres ti
 
 (2) Når vektige samfunnsinteresser tilsier at opplysning etter første ledd gis, og det er av vesentlig betydning for sakens oppklaring, kan retten etter en samlet vurdering likevel gi pålegg om at beviset skal framlegges eller at navnet skal opplyses. Dersom forfatteren eller kilden har avdekket forhold som det var av samfunnsmessig betydning å få gjort kjent, kan slikt pålegg bare gis når det er særlig påkrevd at navnet gjøres kjent.
 
-(3) Reglene i denne paragraf gjelder tilsvarende forandre som har fått kjennskap til forfatteren eller kilden gjennom sitt arbeid for vedkommende forlag, redaksjon, pressebyrå eller trykkeri, ogmedarbeidere i kringkasting eller annen medievirksomhet som i hovedtrekk har samme formål som aviser og kringkasting.
+(3) Reglene i denne paragraf gjelder tilsvarende for
+
+1. andre som har fått kjennskap til forfatteren eller kilden gjennom sitt arbeid for vedkommende forlag, redaksjon, pressebyrå eller trykkeri, og
+2. medarbeidere i kringkasting eller annen medievirksomhet som i hovedtrekk har samme formål som aviser og kringkasting.
 
 > Endret ved lov [21 des 2007 nr. 127](lov/2007-12-21-127).
 
@@ -2140,9 +2405,19 @@ For gjennomføringen av bevissikring gjelder reglene om tilgang til realbevis og
 
 ### § 28 A-1. Rett til informasjon ved inngrep i immaterialrettigheter m.m.
 
-(1) Når det er rimelig grunn til å tro at det er gjort inngrep i en immaterialrettighet, kan retten etter begjæring fra rettighetshaveren pålegge inngriperen å opplyse om opprinnelse og distribusjonsnettverk for varer eller tjenester som inngrepet gjelder (informasjonspålegg). Slike opplysninger kan også kreves fra den som:har medvirket til inngrep,har vært i besittelse av en vare som gjør inngrep som ledd i næringsvirksomhet,har brukt en tjeneste som gjør inngrep som ledd i næringsvirksomhet,har ytt en tjeneste som har blitt brukt ved et inngrep som ledd i næringsvirksomhet, ellerer utpekt av inngriperen eller noen som nevnt i bokstav a til d, som involvert i produksjon eller distribusjon av en vare, eller leveringen av en tjeneste, som inngrepet gjelder.
+(1) Når det er rimelig grunn til å tro at det er gjort inngrep i en immaterialrettighet, kan retten etter begjæring fra rettighetshaveren pålegge inngriperen å opplyse om opprinnelse og distribusjonsnettverk for varer eller tjenester som inngrepet gjelder (informasjonspålegg). Slike opplysninger kan også kreves fra den som:
 
-(2) Opplysninger om opprinnelse og distribusjonsnettverk omfatter blant annet:navn og adresse til produsenter, distributører, leverandører og andre som har hatt varene i sin besittelse, eller levert eller mottatt tjenestene,navn og adresse til tiltenkte grossister og detaljhandlere, ogopplysninger om hvor mye som har blitt produsert, levert, mottatt eller bestilt, og om hvilken pris som er blitt betalt og oppnådd for varene eller tjenestene.
+1. har medvirket til inngrep,
+2. har vært i besittelse av en vare som gjør inngrep som ledd i næringsvirksomhet,
+3. har brukt en tjeneste som gjør inngrep som ledd i næringsvirksomhet,
+4. har ytt en tjeneste som har blitt brukt ved et inngrep som ledd i næringsvirksomhet, eller
+5. er utpekt av inngriperen eller noen som nevnt i bokstav a til d, som involvert i produksjon eller distribusjon av en vare, eller leveringen av en tjeneste, som inngrepet gjelder.
+
+(2) Opplysninger om opprinnelse og distribusjonsnettverk omfatter blant annet:
+
+1. navn og adresse til produsenter, distributører, leverandører og andre som har hatt varene i sin besittelse, eller levert eller mottatt tjenestene,
+2. navn og adresse til tiltenkte grossister og detaljhandlere, og
+3. opplysninger om hvor mye som har blitt produsert, levert, mottatt eller bestilt, og om hvilken pris som er blitt betalt og oppnådd for varene eller tjenestene.
 
 (3) Immaterialrettigheter omfatter opphavsrett og andre rettigheter etter åndsverkloven, patent, supplerende beskyttelsessertifikater som nevnt i [patentloven §§ 62 a](lov/1967-12-15-9/§62a) og [62 b](lov/1967-12-15-9/§62b), rett til foretaksnavn og andre forretningskjennetegn, kretsmønsterrett, planteforedlerrett, designrett, varemerkerett, betegnelse som er beskyttet etter [forskrift 5. juli 2002 nr. 698](forskrift/2002-07-05-698) om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på næringsmidler, samt geografiske betegnelse som er beskyttet etter [markedsføringsloven §§ 25](lov/2009-01-09-2/§25), [26](lov/2009-01-09-2/§26) eller [31](lov/2009-01-09-2/§31). Kapitlet her gjelder tilsvarende ved overtredelse av [markedsføringsloven § 30](lov/2009-01-09-2/§30), og ved overtredelse av [markedsføringsloven §§ 25](lov/2009-01-09-2/§25) og [26](lov/2009-01-09-2/§26) som består i etterligning av annens produkt, kjennetegn, reklamemidler eller andre frembringelser.
 
@@ -2222,7 +2497,13 @@ Lagmannsretten er ankeinstans for avgjørelser av tingrettene og domstoler som s
 
 (1) En anke kan gjelde krav som er avgjort ved den avgjørelse som ankes.
 
-(2) Når kravet kan behandles etter vesentlig de samme saksbehandlingsregler, kan en anke i tillegg til krav etter første ledd omfattekrav som er knyttet til krav etter første ledd, og som ikke kan fremmes i egen sak,krav som har sammenheng med krav etter første ledd når endringen er knyttet til forhold som er inntruffet så sent, eller blitt kjent så sent, at kravet ikke kunne ha vært trukket inn i saken tidligere,krav som har sammenheng med krav etter første ledd når motparten ikke motsetter seg utvidelsen og retten ikke finner at vesentlige hensyn taler mot utvidelsen,krav ellers som har sammenheng med krav etter første ledd når retten finner at det nye kravet kan behandles forsvarlig i ankesaken, og tungtveiende hensyn tilsier at det bør tillates behandlet,nye krav som settes fram som motregningsinnsigelse når innsigelsen ikke kunne vært fremmet tidligere, eller motparten samtykker.
+(2) Når kravet kan behandles etter vesentlig de samme saksbehandlingsregler, kan en anke i tillegg til krav etter første ledd omfatte
+
+1. krav som er knyttet til krav etter første ledd, og som ikke kan fremmes i egen sak,
+2. krav som har sammenheng med krav etter første ledd når endringen er knyttet til forhold som er inntruffet så sent, eller blitt kjent så sent, at kravet ikke kunne ha vært trukket inn i saken tidligere,
+3. krav som har sammenheng med krav etter første ledd når motparten ikke motsetter seg utvidelsen og retten ikke finner at vesentlige hensyn taler mot utvidelsen,
+4. krav ellers som har sammenheng med krav etter første ledd når retten finner at det nye kravet kan behandles forsvarlig i ankesaken, og tungtveiende hensyn tilsier at det bør tillates behandlet,
+5. nye krav som settes fram som motregningsinnsigelse når innsigelsen ikke kunne vært fremmet tidligere, eller motparten samtykker.
 
 (3) Påstanden for et avgjort krav kan bare utvides hvis motparten samtykker, eller endringen er begrunnet i forhold som først er blitt kjent for parten etter hovedforhandlingen i tingretten. For saker som er ført etter allmennprosessen, kan endringen også begrunnes i forhold som parten ikke kan bebreides for ikke å ha blitt kjent med før etter avslutningen av saksforberedelsen, dersom tingretten har nektet å tillate endringen.
 
@@ -2232,7 +2513,11 @@ Lagmannsretten er ankeinstans for avgjørelser av tingrettene og domstoler som s
 
 (1) Fristen for å anke er én måned når ikke annet er bestemt ved lov.
 
-(2) Retten kan fastsette en ankefrist på én uke foravgjørelser som pålegger eller nekter tilgang til bevis eller spørsmål om bevis,avgjørelser som gir pålegg om å avgi forsikring, ogavgjørelser om å oppnevne eller ikke oppnevne sakkyndige.
+(2) Retten kan fastsette en ankefrist på én uke for
+
+1. avgjørelser som pålegger eller nekter tilgang til bevis eller spørsmål om bevis,
+2. avgjørelser som gir pålegg om å avgi forsikring, og
+3. avgjørelser om å oppnevne eller ikke oppnevne sakkyndige.
 
 (3) For avgjørelse etter annet ledd bokstav a og b om tilgang til bevis eller avgivelse av forsikring, som etter [§ 19-13](lov/2005-06-17-90/§19-13) annet ledd ikke kan fullbyrdes før den er rettskraftig, kan retten kreve anke inngitt straks om den som kan anke avgjørelsen, er til stede i retten.
 
@@ -2266,7 +2551,18 @@ Lagmannsretten er ankeinstans for avgjørelser av tingrettene og domstoler som s
 
 (2) Anken inngis skriftlig eller muntlig etter reglene i [§ 12-1](lov/2005-06-17-90/§12-1) annet ledd til den domstol som har truffet avgjørelsen som ankes.
 
-(3) Ankeerklæringen skal angiankedomstolen,navn og adresse på parter, stedfortredere og prosessfullmektiger,den avgjørelse som ankes,om anken gjelder hele avgjørelsen eller bare bestemte deler av den,det krav ankesaken gjelder, og en påstand som angir det resultat den ankende part krever,de feil som gjøres gjeldende ved den avgjørelse som ankes,den faktiske og rettslige begrunnelse for at det foreligger feil,de bevis som vil bli ført,grunnlaget for at retten kan behandle anken dersom det kan være tvil om dette, ogden ankende parts syn på den videre behandling av anken.
+(3) Ankeerklæringen skal angi
+
+1. ankedomstolen,
+2. navn og adresse på parter, stedfortredere og prosessfullmektiger,
+3. den avgjørelse som ankes,
+4. om anken gjelder hele avgjørelsen eller bare bestemte deler av den,
+5. det krav ankesaken gjelder, og en påstand som angir det resultat den ankende part krever,
+6. de feil som gjøres gjeldende ved den avgjørelse som ankes,
+7. den faktiske og rettslige begrunnelse for at det foreligger feil,
+8. de bevis som vil bli ført,
+9. grunnlaget for at retten kan behandle anken dersom det kan være tvil om dette, og
+10. den ankende parts syn på den videre behandling av anken.
 
 (4) Ankeerklæringen skal gi grunnlag for en forsvarlig behandling av saken for partene og retten. Det skal særlig påpekes hva som bestrides i den påankede avgjørelsen, og hva som i tilfelle er ny faktisk eller rettslig begrunnelse eller nye bevis. For øvrig gjelder [§ 9-2](lov/2005-06-17-90/§9-2) tredje ledd så langt den passer.
 
@@ -2288,7 +2584,11 @@ Lagmannsretten er ankeinstans for avgjørelser av tingrettene og domstoler som s
 
 ### § 29-12. Avvisning og opphevelse under saksforberedelsen
 
-(1) Lagmannsretten kan under saksforberedelsenavvise en anke hvor det foreligger feil som må lede til avvisning,heve en sak eller en del av den fordi den ikke hører under domstolene eller er rettskraftig avgjort, ogoppheve en avgjørelse som er anket hvor det foreligger feil som ubetinget skal tillegges virkning, jf. [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd.
+(1) Lagmannsretten kan under saksforberedelsen
+
+1. avvise en anke hvor det foreligger feil som må lede til avvisning,
+2. heve en sak eller en del av den fordi den ikke hører under domstolene eller er rettskraftig avgjort, og
+3. oppheve en avgjørelse som er anket hvor det foreligger feil som ubetinget skal tillegges virkning, jf. [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd.
 
 (2) I anke over dom etter forenklet domsbehandling eller småkravprosess kan lagmannsretten, i stedet for å fremme anken til behandling, oppheve dommen hvis det foreligger feil i rettsanvendelsen eller vesentlige feil ved saksbehandlingen, og videre behandling av saken heller bør finne sted i tingretten.
 
@@ -2366,13 +2666,22 @@ Når anke over dom ikke skal avgjøres etter en fullt ut skriftlig behandling, k
 
 (1) Feil ved saksbehandlingen skal tillegges virkning hvis det er nærliggende at feilen kan ha hatt betydning for den avgjørelse som er anket.
 
-(2) Følgende feil skal ubetinget tillegges virkningat tvingende vilkår for å fremme saken eller avgjøre kravet var tilsidesatt,at retten ikke var lovlig sammensatt,at det er mangler ved avgjørelsen som ikke kan rettes etter [§§ 19-8](lov/2005-06-17-90/§19-8) og [19-9](lov/2005-06-17-90/§19-9), og som hindrer prøving av anken, ellerat avgjørelse er avsagt mot en part som ikke har møtt og som ikke har vært lovlig innkalt eller som har hatt gyldig fravær.
+(2) Følgende feil skal ubetinget tillegges virkning
+
+1. at tvingende vilkår for å fremme saken eller avgjøre kravet var tilsidesatt,
+2. at retten ikke var lovlig sammensatt,
+3. at det er mangler ved avgjørelsen som ikke kan rettes etter [§§ 19-8](lov/2005-06-17-90/§19-8) og [19-9](lov/2005-06-17-90/§19-9), og som hindrer prøving av anken, eller
+4. at avgjørelse er avsagt mot en part som ikke har møtt og som ikke har vært lovlig innkalt eller som har hatt gyldig fravær.
 
 ### § 29-22. Særskilt behandling og avgjørelse av anke over saksbehandlingen
 
 (1) Er det anket både over saksbehandlingen og realiteten, avgjøres som regel anken over saksbehandlingen først.
 
-(2) Selv om det foreligger saksbehandlingsfeil som skal tillegges virkning etter [§ 29-21](lov/2005-06-17-90/§29-21), kan lagmannsretten fremme saken til realitetsavgjørelse hvislagmannsretten er rett domstol ved overprøving av det krav ankesaken gjelder,tingretten har avgjort kravet i realiteten, oghensynet til partene ikke tilsier at kravet bør prøves på nytt der.
+(2) Selv om det foreligger saksbehandlingsfeil som skal tillegges virkning etter [§ 29-21](lov/2005-06-17-90/§29-21), kan lagmannsretten fremme saken til realitetsavgjørelse hvis
+
+1. lagmannsretten er rett domstol ved overprøving av det krav ankesaken gjelder,
+2. tingretten har avgjort kravet i realiteten, og
+3. hensynet til partene ikke tilsier at kravet bør prøves på nytt der.
 
 (3) Fremmes saken til realitetsavgjørelse, kan det ikke ankes særskilt.
 
@@ -2420,7 +2729,12 @@ Når anke over dom ikke skal avgjøres etter en fullt ut skriftlig behandling, k
 
 (1) For anker til Høyesterett gjelder [§§ 29-2](lov/2005-06-17-90/§29-2) til [29-11](lov/2005-06-17-90/§29-11) og [§§ 29-19](lov/2005-06-17-90/§29-19) til [29-24](lov/2005-06-17-90/§29-24) tilsvarende med de endringer som følger av bestemmelsene i dette kapittel.
 
-(2) Høyesteretts ankeutvalg kanavvise en anke hvor det foreligger feil som må lede til avvisning,heve en sak eller en del av den fordi den ikke hører under domstolene eller er rettskraftig avgjort,oppheve en avgjørelse som er anket hvor det foreligger feil som ubetinget skal tillegges virkning, jf. [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd, ogoppheve en avgjørelse av andre grunner dersom ankeutvalget enstemmig finner det klart at det er grunnlag for oppheving.
+(2) Høyesteretts ankeutvalg kan
+
+1. avvise en anke hvor det foreligger feil som må lede til avvisning,
+2. heve en sak eller en del av den fordi den ikke hører under domstolene eller er rettskraftig avgjort,
+3. oppheve en avgjørelse som er anket hvor det foreligger feil som ubetinget skal tillegges virkning, jf. [§ 29-21](lov/2005-06-17-90/§29-21) annet ledd, og
+4. oppheve en avgjørelse av andre grunner dersom ankeutvalget enstemmig finner det klart at det er grunnlag for oppheving.
 
 (3) Ved avgjørelser etter annet ledd gjelder [§ 9-6](lov/2005-06-17-90/§9-6) tilsvarende.
 
@@ -2440,7 +2754,12 @@ En anke over kjennelse eller beslutning kan nektes fremmet dersom den ikke reise
 
 ### § 30-6. Særlige begrensninger i retten til videre anke over kjennelser
 
-Når en anke til lagmannsrett er avgjort ved kjennelse, kan avgjørelsen ikke ankes videre. Det gjelder likevel ikke nården avviser en sak fra tingretten fordi saken ikke hører under domstolene, eller fordi den er rettskraftig avgjort,anken gjelder saksbehandlingen ved lagmannsretten,anken gjelder den generelle rettslige forståelse av en skreven rettsregel, elleranken gjelder en avgjørelse om tilgang til bevis etter [§ 22-11](lov/2005-06-17-90/§22-11).
+Når en anke til lagmannsrett er avgjort ved kjennelse, kan avgjørelsen ikke ankes videre. Det gjelder likevel ikke når
+
+1. den avviser en sak fra tingretten fordi saken ikke hører under domstolene, eller fordi den er rettskraftig avgjort,
+2. anken gjelder saksbehandlingen ved lagmannsretten,
+3. anken gjelder den generelle rettslige forståelse av en skreven rettsregel, eller
+4. anken gjelder en avgjørelse om tilgang til bevis etter [§ 22-11](lov/2005-06-17-90/§22-11).
 
 ### § 30-7. Nye krav, utvidet påstand, nytt faktisk grunnlag og nye bevis
 
@@ -2530,7 +2849,13 @@ Når en sak eller et rettsspørsmål etter [domstolloven § 5](lov/1915-08-13-5/
 
 ### § 31-3. Gjenåpning på grunn av feil ved rettergangen
 
-(1) Gjenåpning kan begjæreshvis en dommer som etter loven ikke kunne gjøre tjeneste, har deltatt i behandlingen av saken,hvis en dommer, noen som har utført arbeid eller oppdrag for domstolen, motparten eller noen som har handlet i saken for motparten, med skjellig grunn kan mistenkes for en straffbar handling i forbindelse med behandling av saken,hvis et vitne med skjellig grunn mistenkes for uriktig forklaring,hvis det i klagesak mot Norge i samme saksforhold er fastslått at saksbehandlingen har krenket en konvensjon som etter menneskerettsloven gjelder som norsk lov, ellernår parten ikke møtte ved behandlingen av saken fordi parten ikke var lovlig innkalt eller hadde gyldig fravær.
+(1) Gjenåpning kan begjæres
+
+1. hvis en dommer som etter loven ikke kunne gjøre tjeneste, har deltatt i behandlingen av saken,
+2. hvis en dommer, noen som har utført arbeid eller oppdrag for domstolen, motparten eller noen som har handlet i saken for motparten, med skjellig grunn kan mistenkes for en straffbar handling i forbindelse med behandling av saken,
+3. hvis et vitne med skjellig grunn mistenkes for uriktig forklaring,
+4. hvis det i klagesak mot Norge i samme saksforhold er fastslått at saksbehandlingen har krenket en konvensjon som etter menneskerettsloven gjelder som norsk lov, eller
+5. når parten ikke møtte ved behandlingen av saken fordi parten ikke var lovlig innkalt eller hadde gyldig fravær.
 
 (2) Et straffbart forhold som siktede er frifunnet for, kan ikke påberopes med mindre retten har funnet det bevist at siktede har foretatt den rettsstridige handlingen.
 
@@ -2538,7 +2863,10 @@ Når en sak eller et rettsspørsmål etter [domstolloven § 5](lov/1915-08-13-5/
 
 ### § 31-4. Gjenåpning på grunn av feil ved avgjørelsen
 
-Gjenåpning kan begjæreshvis opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen, ellerhvis en bindende avgjørelse av en internasjonal domstol eller en uttalelse fra FNs menneskerettskomité i samme saksforhold tilsier at avgjørelsen var basert på uriktig anvendelse av folkeretten.
+Gjenåpning kan begjæres
+
+1. hvis opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen, eller
+2. hvis en bindende avgjørelse av en internasjonal domstol eller en uttalelse fra FNs menneskerettskomité i samme saksforhold tilsier at avgjørelsen var basert på uriktig anvendelse av folkeretten.
 
 ### § 31-5. Alminnelige begrensninger i retten til gjenåpning
 
@@ -2558,7 +2886,19 @@ Gjenåpning kan begjæreshvis opplysninger om faktiske forhold som var ukjent da
 
 (1) Begjæring om gjenåpning inngis til en domstol som etter [§ 31-1](lov/2005-06-17-90/§31-1) annet til fjerde ledd kan behandle begjæringen.
 
-(2) Begjæringen skal angidomstolen,navn og adresse på parter, stedfortredere og prosessfullmektiger,den avgjørelse som kreves gjenåpnet,om begjæringen gjelder hele avgjørelsen eller bare deler av den,grunnlaget for gjenåpning etter [§§ 31-3](lov/2005-06-17-90/§31-3) og [31-4](lov/2005-06-17-90/§31-4),en faktisk og rettslig begrunnelse for at grunnlaget gir rett til gjenåpning,de bevis som vil bli ført for retten til gjenåpning,det krav som vil bli gjort gjeldende i gjenåpningssaken, og en påstand som angir det resultat saksøkeren krever for begjæringen og for gjenåpningssaken,de bevis som vil bli ført i gjenåpningssaken,grunnlaget for at retten kan behandle begjæringen dersom det kan være tvil om dette, ogsaksøkerens syn på den videre behandling av saken.
+(2) Begjæringen skal angi
+
+1. domstolen,
+2. navn og adresse på parter, stedfortredere og prosessfullmektiger,
+3. den avgjørelse som kreves gjenåpnet,
+4. om begjæringen gjelder hele avgjørelsen eller bare deler av den,
+5. grunnlaget for gjenåpning etter [§§ 31-3](lov/2005-06-17-90/§31-3) og [31-4](lov/2005-06-17-90/§31-4),
+6. en faktisk og rettslig begrunnelse for at grunnlaget gir rett til gjenåpning,
+7. de bevis som vil bli ført for retten til gjenåpning,
+8. det krav som vil bli gjort gjeldende i gjenåpningssaken, og en påstand som angir det resultat saksøkeren krever for begjæringen og for gjenåpningssaken,
+9. de bevis som vil bli ført i gjenåpningssaken,
+10. grunnlaget for at retten kan behandle begjæringen dersom det kan være tvil om dette, og
+11. saksøkerens syn på den videre behandling av saken.
 
 (3) [§ 9-2](lov/2005-06-17-90/§9-2) tredje ledd gjelder tilsvarende.
 
@@ -2646,7 +2986,11 @@ Dersom retten av eget tiltak skal avvise saken, treffer den straks avgjørelse o
 
 ### § 32-9. Samtidig pådømmelse av hovedkravet
 
-(1) I sak om midlertidig sikring kan saksøkeren eller saksøkte for tingretten trekke inn hovedkravet til pådømmelse dersom detteforsvarlig kan avgjøres samtidig med begjæringen om midlertidig sikring,ikke vil forsinke avgjørelsen av den midlertidige sikringen ogdet ikke nødvendiggjør annen saksforberedelse.
+(1) I sak om midlertidig sikring kan saksøkeren eller saksøkte for tingretten trekke inn hovedkravet til pådømmelse dersom dette
+
+1. forsvarlig kan avgjøres samtidig med begjæringen om midlertidig sikring,
+2. ikke vil forsinke avgjørelsen av den midlertidige sikringen og
+3. det ikke nødvendiggjør annen saksforberedelse.
 
 (2) En begjæring om å trekke inn hovedkravet til pådømmelse avgjøres ved beslutning. En beslutning som tillater kravet trukket inn, kan senere omgjøres om det viser seg at vilkårene etter første ledd ikke er til stede.
 
@@ -2756,7 +3100,14 @@ Sjøloven § 95 annet og tredje ledd gjelder tilsvarende ved arrest i luftfartø
 
 ### § 33-10. Bortfall av arrest og forlengelse av frister
 
-(1) Arresten faller bort uten opphevelse:når det blir tatt utlegg for saksøkerens krav i det arresterte formuesgode,når saksøkeren er gitt en frist for å stille sikkerhet eller for å reise søksmål om eller begjære tvangsfullbyrdelse av kravet, og fristen oversittes,når det ikke er satt frist for søksmål eller begjæring om tvangsfullbyrdelse, og søksmål ikke er reist eller tvangsfullbyrdelse begjært ett år etter avsigelsen av arrestkjennelsen,når saksøkte oppfyller pengekravet, eller det faller bort på annen måte, eller saksøkte rettskraftig er frifunnet for kravet,når saksøkeren gir avkall på sin rett etter arresten, ellernår saksøkeren har fått fullbyrdelsesdom for kravet og utlegg ikke blir begjært innen en måned etter at dommen ble rettskraftig.
+(1) Arresten faller bort uten opphevelse:
+
+1. når det blir tatt utlegg for saksøkerens krav i det arresterte formuesgode,
+2. når saksøkeren er gitt en frist for å stille sikkerhet eller for å reise søksmål om eller begjære tvangsfullbyrdelse av kravet, og fristen oversittes,
+3. når det ikke er satt frist for søksmål eller begjæring om tvangsfullbyrdelse, og søksmål ikke er reist eller tvangsfullbyrdelse begjært ett år etter avsigelsen av arrestkjennelsen,
+4. når saksøkte oppfyller pengekravet, eller det faller bort på annen måte, eller saksøkte rettskraftig er frifunnet for kravet,
+5. når saksøkeren gir avkall på sin rett etter arresten, eller
+6. når saksøkeren har fått fullbyrdelsesdom for kravet og utlegg ikke blir begjært innen en måned etter at dommen ble rettskraftig.
 
 (2) Fristene i første ledd bokstav b, c og f kan på begjæring forlenges. [§ 33-9](lov/2005-06-17-90/§33-9) annet ledd gjelder tilsvarende. Forlengelse kan bare gis dersom begjæringen kommer inn innen utløpet av fristen. Forlengelse kan etter samme regler gis på ny.
 
@@ -2786,7 +3137,10 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 ### § 34-1. Sikringsgrunn
 
-(1) Midlertidig forføyning kan besluttes:når saksøktes adferd gjør det nødvendig med en midlertidig sikring av kravet fordi forfølgningen eller gjennomføringen av kravet ellers vil bli vesentlig vanskeliggjort, ellernår det finnes nødvendig for å få en midlertidig ordning i et omtvistet rettsforhold for å avverge en vesentlig skade eller ulempe, eller for å hindre voldsomheter som saksøktes adferd gir grunn til å frykte for.
+(1) Midlertidig forføyning kan besluttes:
+
+1. når saksøktes adferd gjør det nødvendig med en midlertidig sikring av kravet fordi forfølgningen eller gjennomføringen av kravet ellers vil bli vesentlig vanskeliggjort, eller
+2. når det finnes nødvendig for å få en midlertidig ordning i et omtvistet rettsforhold for å avverge en vesentlig skade eller ulempe, eller for å hindre voldsomheter som saksøktes adferd gir grunn til å frykte for.
 
 (2) Midlertidig forføyning kan ikke besluttes dersom den skade eller ulempe som saksøkte blir påført står i åpenbart misforhold til den interesse saksøkeren har i at forføyning blir besluttet.
 
@@ -2832,7 +3186,13 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 ### § 34-6. Bortfall av midlertidig forføyning og forlengelse av frister
 
-(1) Midlertidig forføyning faller bort uten opphevelse:når en fastsatt tid for forføyningen er løpt ut,når saksøkeren er gitt en frist for å stille sikkerhet eller for å reise søksmål om kravet, og fristen oversittes,når kravet er avgjort ved rettskraftig dom,når saksøkte oppfyller kravet, eller det faller bort på annen måte, ellernår saksøkeren gir avkall på sin rett etter forføyningen.
+(1) Midlertidig forføyning faller bort uten opphevelse:
+
+1. når en fastsatt tid for forføyningen er løpt ut,
+2. når saksøkeren er gitt en frist for å stille sikkerhet eller for å reise søksmål om kravet, og fristen oversittes,
+3. når kravet er avgjort ved rettskraftig dom,
+4. når saksøkte oppfyller kravet, eller det faller bort på annen måte, eller
+5. når saksøkeren gir avkall på sin rett etter forføyningen.
 
 (2) Fristene i første ledd bokstav a og b kan på begjæring forlenges. [§ 34-5](lov/2005-06-17-90/§34-5) tredje ledd gjelder tilsvarende. Forlengelse kan bare gis dersom begjæring kommer inn innen utløpet av fristen. Forlengelse kan etter samme regler gis på ny.
 
@@ -2878,13 +3238,21 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 ### § 35-2. Vilkår for gruppesøksmål
 
-(1) Gruppesøksmål kan bare reises hvisflere rettssubjekter har krav eller forpliktelser på samme eller vesentlig likt faktisk og rettslig grunnlag,kravene ellers kan behandles av retten med samme sammensetning og hovedsakelig etter de samme saksbehandlingsregler,gruppeprosess er den beste behandlingsmåten, ogdet er grunnlag for å utpeke grupperepresentant etter [§ 35-9](lov/2005-06-17-90/§35-9).
+(1) Gruppesøksmål kan bare reises hvis
+
+1. flere rettssubjekter har krav eller forpliktelser på samme eller vesentlig likt faktisk og rettslig grunnlag,
+2. kravene ellers kan behandles av retten med samme sammensetning og hovedsakelig etter de samme saksbehandlingsregler,
+3. gruppeprosess er den beste behandlingsmåten, og
+4. det er grunnlag for å utpeke grupperepresentant etter [§ 35-9](lov/2005-06-17-90/§35-9).
 
 (2) Bare de som kunne reist eller sluttet seg til et ordinært søksmål for norske domstoler, kan være gruppemedlemmer.
 
 ### § 35-3. Saken reises
 
-(1) Gruppesøksmål kan reises avenhver som fyller vilkårene for å være gruppemedlem hvis søksmålet fremmes, ellerforeninger og stiftelser, samt offentlige organer med oppgave å fremme særskilte interesser, når søksmålet ligger innenfor deres formål og naturlige virkeområde etter [§ 1-4](lov/2005-06-17-90/§1-4).
+(1) Gruppesøksmål kan reises av
+
+1. enhver som fyller vilkårene for å være gruppemedlem hvis søksmålet fremmes, eller
+2. foreninger og stiftelser, samt offentlige organer med oppgave å fremme særskilte interesser, når søksmålet ligger innenfor deres formål og naturlige virkeområde etter [§ 1-4](lov/2005-06-17-90/§1-4).
 
 (2) Saken innledes ved stevning til en tingrett der en som kan være gruppemedlem, kunne ha reist et vanlig søksmål.
 
@@ -2894,7 +3262,13 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 (1) Retten skal så tidlig som mulig avgjøre om gruppesøksmålet skal fremmes eller avvises.
 
-(2) Fremmes gruppesøksmålet, skal retten i avgjørelsen om dettebeskrive rammen for krav som kan omfattes av gruppesøksmålet,avgjøre om gruppesøksmålet skal fremmes etter [§ 35-6](lov/2005-06-17-90/§35-6) eller [§ 35-7](lov/2005-06-17-90/§35-7),i gruppesøksmål etter [§ 35-6](lov/2005-06-17-90/§35-6) fastsette en frist for registrering i grupperegisteret,fastsette et eventuelt maksimalt ansvar og eventuell forskuddsbetaling etter [§ 35-6](lov/2005-06-17-90/§35-6) tredje ledd, ogutpeke grupperepresentant.
+(2) Fremmes gruppesøksmålet, skal retten i avgjørelsen om dette
+
+1. beskrive rammen for krav som kan omfattes av gruppesøksmålet,
+2. avgjøre om gruppesøksmålet skal fremmes etter [§ 35-6](lov/2005-06-17-90/§35-6) eller [§ 35-7](lov/2005-06-17-90/§35-7),
+3. i gruppesøksmål etter [§ 35-6](lov/2005-06-17-90/§35-6) fastsette en frist for registrering i grupperegisteret,
+4. fastsette et eventuelt maksimalt ansvar og eventuell forskuddsbetaling etter [§ 35-6](lov/2005-06-17-90/§35-6) tredje ledd, og
+5. utpeke grupperepresentant.
 
 (3) Viser sakens videre behandling at det er klart uhensiktsmessig at søksmålet føres etter reglene for gruppeprosess, eller at rammen for de krav som omfattes av gruppesøksmålet bør få en annen avgrensning, kan retten av eget tiltak omgjøre eller endre avgjørelsen. De som ikke lenger omfattes av gruppesøksmålet, kan innen én måned etter at avgjørelsen om omgjøring eller endring er rettskraftig, kreve at retten fortsetter behandlingen av deres krav som individuelle søksmål.
 
@@ -2920,7 +3294,10 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 ### § 35-7. Gruppesøksmål som ikke krever registrering av gruppemedlemmer
 
-(1) Retten kan bestemme at de som har krav innenfor rammen for gruppesøksmålet, skal være gruppemedlemmer uten registrering i grupperegisteret dersom kraveneenkeltvis gjelder så små verdier eller interesser at et betydelig flertall av dem ikke kan forventes fremmet ved individuelle søksmål, ogikke antas å reise spørsmål som krever individuell behandling.
+(1) Retten kan bestemme at de som har krav innenfor rammen for gruppesøksmålet, skal være gruppemedlemmer uten registrering i grupperegisteret dersom kravene
+
+1. enkeltvis gjelder så små verdier eller interesser at et betydelig flertall av dem ikke kan forventes fremmet ved individuelle søksmål, og
+2. ikke antas å reise spørsmål som krever individuell behandling.
 
 (2) De som ikke vil delta i gruppesøksmålet, kan tre ut etter [§ 35-8](lov/2005-06-17-90/§35-8). Det føres utmeldingsregister. Reglene i [§ 35-6](lov/2005-06-17-90/§35-6) fjerde ledd gjelder tilsvarende.
 
@@ -3070,7 +3447,12 @@ Staten bærer alle kostnadene ved saken når ikke annet følger av særskilt lov
 
 (2) Ved anke over dom gjelder [§ 36-2](lov/2005-06-17-90/§36-2) tredje ledd om oppsettende virkning tilsvarende. Ved anke over dom som går ut på at tvangsvedtaket skal opphøre, kan den rett som har ankesaken, ved kjennelse bestemme at tvangsvedtaket likevel skal stå ved lag til det foreligger en rettskraftig avgjørelse. Avgjørelse etter [§ 36-9](lov/2005-06-17-90/§36-9) annet ledd kan ved kjennelse omgjøres av den rett som har ankesaken.
 
-(3) Anke over tingrettens dom i sak om barneverns- og helsenemndas vedtak etter [barnevernsloven](lov/2021-06-18-97) kan ikke fremmes uten lagmannsrettens samtykke. Samtykke kan bare gis nåranken gjelder spørsmål som har betydning utenfor den foreliggende sak,det er grunn til å behandle saken på ny fordi det er framkommet nye opplysninger,det er vesentlige svakheter ved tingrettens avgjørelse eller saksbehandling, ellerdommen går ut på tvang som ikke er vedtatt av nemnda.
+(3) Anke over tingrettens dom i sak om barneverns- og helsenemndas vedtak etter [barnevernsloven](lov/2021-06-18-97) kan ikke fremmes uten lagmannsrettens samtykke. Samtykke kan bare gis når
+
+1. anken gjelder spørsmål som har betydning utenfor den foreliggende sak,
+2. det er grunn til å behandle saken på ny fordi det er framkommet nye opplysninger,
+3. det er vesentlige svakheter ved tingrettens avgjørelse eller saksbehandling, eller
+4. dommen går ut på tvang som ikke er vedtatt av nemnda.
 
 (4) Under muntlig ankeforhandling i lagmannsretten settes retten med to meddommere, hvorav én lek og én fagkyndig. For ankebehandlingen gjelder for øvrig reglene i kapitlet her så langt de passer.
 
@@ -3112,7 +3494,12 @@ MENER at det for dette formål er nødvendig å fastlegge domstolenes internasjo
 
 ER KLAR OVER de bånd som forener dem og som på det økonomiske område er befestet gjennom frihandelsavtalene mellom Det europeiske fellesskap og visse medlemsstater i Det europeiske frihandelsforbund,
 
-TAR HENSYN TIL:Brusselkonvensjonen av 27. september 1968 om domsmyndighet og fullbyrdelse av dommer i sivile og kommersielle saker, slik denne konvensjon er blitt endret gjennom tiltredelseskonvensjonene ved de forskjellige utvidelser av Den europeiske union,Luganokonvensjonen av 16. september 1988 om domsmyndighet og fullbyrdelse av dommer i sivile og kommersielle saker, som utvider anvendelsen av reglene i Brusselkonvensjonen av 1968 til å omfatte visse medlemsstater i Det europeiske frihandelsforbund,Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) av 22. desember 2000 om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, som har erstattet den ovennevnte Brusselkonvensjonen,avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, undertegnet i Brussel 19. oktober 2005,
+TAR HENSYN TIL:
+
+- Brusselkonvensjonen av 27. september 1968 om domsmyndighet og fullbyrdelse av dommer i sivile og kommersielle saker, slik denne konvensjon er blitt endret gjennom tiltredelseskonvensjonene ved de forskjellige utvidelser av Den europeiske union,
+- Luganokonvensjonen av 16. september 1988 om domsmyndighet og fullbyrdelse av dommer i sivile og kommersielle saker, som utvider anvendelsen av reglene i Brusselkonvensjonen av 1968 til å omfatte visse medlemsstater i Det europeiske frihandelsforbund,
+- Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) av 22. desember 2000 om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, som har erstattet den ovennevnte Brusselkonvensjonen,
+- avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, undertegnet i Brussel 19. oktober 2005,
 
 ER OVERBEVIST OM at en utvidelse av prinsippene i forordning [(EF) nr. 44/2001](eu/32001r0044*) til å omfatte partene i konvensjonen her, vil styrke det juridiske og økonomiske samarbeidet,
 
@@ -3128,11 +3515,22 @@ ER BLITT ENIGE OM FØLGENDE:
 
 1\. Konvensjonen her gjelder i sivile og kommersielle saker uansett hva slags domstol saken bringes inn for. Den omfatter således blant annet ikke skattesaker, tollsaker eller forvaltningsrettslige saker.
 
-2\. Konvensjonen gjelder ikke:fysiske personers rettslige status,1 rettsevne og rettslige handleevne, formuerettigheter som følge av ekteskap, testament og arv;2konkurs, avvikling av insolvente selskaper, foreninger og stiftelser, offentlige gjeldsforhandlinger (akkord) og liknende ordninger;3sosiale trygdesaker;voldgift.4
+2\. Konvensjonen gjelder ikke:
+
+1. fysiske personers rettslige status,1 rettsevne og rettslige handleevne, formuerettigheter som følge av ekteskap, testament og arv;2
+2. konkurs, avvikling av insolvente selskaper, foreninger og stiftelser, offentlige gjeldsforhandlinger (akkord) og liknende ordninger;3
+3. sosiale trygdesaker;
+4. voldgift.4
 
 3\. I konvensjonen her menes med uttrykket «konvensjonsstat», enhver stat som er part i konvensjonen her, eller som er en medlemsstat i Det europeiske fellesskap. Det kan også bety Det europeiske fellesskap.
 
-1 Jf. nordisk familierettslig konvensjon 6 feb 1931.2 Jf. nordisk konvensjon 19 nov 1934 om arv og dødsboskifte.3 Jf. nordisk konvensjon 7 nov 1933 om konkurs.4 Jf. New York-konvensjonen 10 juni 1958 om anerkjennelse og fullbyrdelse av voldgiftsavgjørelser.
+1 Jf. nordisk familierettslig konvensjon 6 feb 1931.
+
+2 Jf. nordisk konvensjon 19 nov 1934 om arv og dødsboskifte.
+
+3 Jf. nordisk konvensjon 7 nov 1933 om konkurs.
+
+4 Jf. New York-konvensjonen 10 juni 1958 om anerkjennelse og fullbyrdelse av voldgiftsavgjørelser.
 
 ### Kapittel II. Domsmyndighet
 
@@ -3144,7 +3542,9 @@ ER BLITT ENIGE OM FØLGENDE:
 
 2\. Personer som ikke er statsborgere i den konvensjonsstat der de har sitt bosted, skal være underlagt de samme vernetingsreglene som denne statens egne statsborgere.
 
-1 Jf. art. 5 til art. 24.2 Jf. art. 59 og art. 60.
+1 Jf. art. 5 til art. 24.
+
+2 Jf. art. 59 og art. 60.
 
 ### Art 3
 
@@ -3164,15 +3564,44 @@ ER BLITT ENIGE OM FØLGENDE:
 
 ### Art 5
 
-En person som har bosted i en konvensjonsstat, kan i en annen konvensjonsstat saksøkes:i saker om kontraktforhold, ved domstolen for det sted hvor den forpliktelse tvisten gjelder, skal oppfylles;1ved anvendelsen av denne bestemmelse skal, med mindre noe annet er avtalt, oppfyllelsesstedet for den forpliktelse tvisten gjelder, være:ved kjøp av løsøre, det sted i en konvensjonsstat der varene er levert, eller skulle vært levert, i henhold til avtalen,ved utførelse av tjenester, det sted i en konvensjonsstat der tjenestene er utført, eller skulle vært utført, i henhold til avtalen;dersom bokstav b) ikke får anvendelse, skal bokstav a) gjelde;i saker om underholdsplikt,ved domstolen for det sted der den bidragsberettigede har sitt bosted eller faste opphold, ellerved den domstolen som ifølge sine egne rettsregler har kompetanse i en sak om en persons rettslige status, dersom spørsmålet om underholdsplikt avgjøres i en slik sak, unntatt når kompetansen bare grunner seg på statsborgerskapet til en av partene, ellerved den domstol som ifølge sine egne rettsregler har kompetanse i en sak om foreldreansvar, dersom spørsmålet om underholdsplikt avgjøres i en slik sak, unntatt når kompetansen bare grunner seg på statsborgerskapet til en av partene;i saker om erstatning utenfor kontraktforhold, ved domstolen for det sted der skaden ble voldt eller oppsto, eller der dette kan komme til å skje;når det gjelder sivile krav som følge av en straffbar handling, ved den domstol som avgjør straffesaken, forutsatt at den domstolen ifølge sine egne rettsregler er kompetent til å behandle sivile krav;i saker som gjelder tvist vedrørende virksomheten til en filial, agentur eller liknende forretningskontor, ved domstolen for det sted hvor filialen, agenturet eller forretningskontoret ligger;i egenskap av stifter, styrer («trustee») eller begunstiget av en «trust» opprettet i medhold av lov eller skriftlig, eller muntlig med skriftlig bekreftelse, ved domstolene i den konvensjonsstat hvor trusten har sitt bosted;i saker om bergelønn for berging av skipslast eller frakt, ved den domstol som:har besluttet arrest i vedkommende last eller frakt til sikkerhet for kravet, ellerkunne ha besluttet en slik arrest om det ikke var blitt stilt kausjon eller annen sikkerhet,men bare når det hevdes at saksøkte har en interesse i lasten eller frakten eller hadde en slik interesse på bergingstidspunktet.
+En person som har bosted i en konvensjonsstat, kan i en annen konvensjonsstat saksøkes:
+
+1. 1. i saker om kontraktforhold, ved domstolen for det sted hvor den forpliktelse tvisten gjelder, skal oppfylles;1
+   2. ved anvendelsen av denne bestemmelse skal, med mindre noe annet er avtalt, oppfyllelsesstedet for den forpliktelse tvisten gjelder, være:
+
+      - ved kjøp av løsøre, det sted i en konvensjonsstat der varene er levert, eller skulle vært levert, i henhold til avtalen,
+      - ved utførelse av tjenester, det sted i en konvensjonsstat der tjenestene er utført, eller skulle vært utført, i henhold til avtalen;
+   3. dersom bokstav b) ikke får anvendelse, skal bokstav a) gjelde;
+2. i saker om underholdsplikt,
+
+   1. ved domstolen for det sted der den bidragsberettigede har sitt bosted eller faste opphold, eller
+   2. ved den domstolen som ifølge sine egne rettsregler har kompetanse i en sak om en persons rettslige status, dersom spørsmålet om underholdsplikt avgjøres i en slik sak, unntatt når kompetansen bare grunner seg på statsborgerskapet til en av partene, eller
+   3. ved den domstol som ifølge sine egne rettsregler har kompetanse i en sak om foreldreansvar, dersom spørsmålet om underholdsplikt avgjøres i en slik sak, unntatt når kompetansen bare grunner seg på statsborgerskapet til en av partene;
+3. i saker om erstatning utenfor kontraktforhold, ved domstolen for det sted der skaden ble voldt eller oppsto, eller der dette kan komme til å skje;
+4. når det gjelder sivile krav som følge av en straffbar handling, ved den domstol som avgjør straffesaken, forutsatt at den domstolen ifølge sine egne rettsregler er kompetent til å behandle sivile krav;
+5. i saker som gjelder tvist vedrørende virksomheten til en filial, agentur eller liknende forretningskontor, ved domstolen for det sted hvor filialen, agenturet eller forretningskontoret ligger;
+6. i egenskap av stifter, styrer («trustee») eller begunstiget av en «trust» opprettet i medhold av lov eller skriftlig, eller muntlig med skriftlig bekreftelse, ved domstolene i den konvensjonsstat hvor trusten har sitt bosted;
+7. i saker om bergelønn for berging av skipslast eller frakt, ved den domstol som:
+
+   1. har besluttet arrest i vedkommende last eller frakt til sikkerhet for kravet, eller
+   2. kunne ha besluttet en slik arrest om det ikke var blitt stilt kausjon eller annen sikkerhet,
+
+   men bare når det hevdes at saksøkte har en interesse i lasten eller frakten eller hadde en slik interesse på bergingstidspunktet.
 
 1 Jf. art. 60 (3).
 
 ### Art 6
 
-En person som har bosted i en konvensjonsstat kan også saksøkes:om han er en av flere saksøkte, ved domstolene for det sted hvor en av de saksøkte har bosted,1 forutsatt at kravene er så nært forbundet at det er ønskelig å forene dem til felles behandling og til felles avgjørelse for å unngå risiko for uforenlige avgjørelser som en følge av separat behandling;når han på grunn av regressplikt eller av andre grunner innstevnes som tredjemann i en sak av noen av de opprinnelige parter,2 ved den domstol som behandler det opprinnelige søksmål – forutsatt at dette ikke ble reist utelukkende for å unndra saken fra den domstol som ellers ville ha vært kompetent i hans sak;når det gjelder et motkrav vedrørende det samme kontraktforhold eller saksforhold som det opprinnelige krav var basert på, ved den domstol som behandler det opprinnelige krav;i saker om kontraktforhold, når søksmålet kan forenes med et søksmål vedrørende tinglige rettigheter i fast eiendom og er rettet mot samme saksøkte, ved domstolen i den konvensjonsstat der den faste eiendom ligger.
+En person som har bosted i en konvensjonsstat kan også saksøkes:
 
-1 Jf. art. 59 og art. 60.2 Jf. protokoll 1 art. II.
+1. om han er en av flere saksøkte, ved domstolene for det sted hvor en av de saksøkte har bosted,1 forutsatt at kravene er så nært forbundet at det er ønskelig å forene dem til felles behandling og til felles avgjørelse for å unngå risiko for uforenlige avgjørelser som en følge av separat behandling;
+2. når han på grunn av regressplikt eller av andre grunner innstevnes som tredjemann i en sak av noen av de opprinnelige parter,2 ved den domstol som behandler det opprinnelige søksmål – forutsatt at dette ikke ble reist utelukkende for å unndra saken fra den domstol som ellers ville ha vært kompetent i hans sak;
+3. når det gjelder et motkrav vedrørende det samme kontraktforhold eller saksforhold som det opprinnelige krav var basert på, ved den domstol som behandler det opprinnelige krav;
+4. i saker om kontraktforhold, når søksmålet kan forenes med et søksmål vedrørende tinglige rettigheter i fast eiendom og er rettet mot samme saksøkte, ved domstolen i den konvensjonsstat der den faste eiendom ligger.
+
+1 Jf. art. 59 og art. 60.
+
+2 Jf. protokoll 1 art. II.
 
 ### Art 7
 
@@ -3188,11 +3617,17 @@ I forsikringssaker bestemmes vernetinget av reglene i avsnittet her, men likevel
 
 ### Art 9
 
-1\. En forsikringsgiver med bosted i en konvensjonsstat kan saksøkes:ved domstolene i bostedsstaten,1 elleri en annen konvensjonsstat, i tilfeller der søksmålet anlegges av forsikringstakeren, den forsikrede eller en begunstiget, ved domstolene der saksøkeren har sitt bosted, ellerom han er en koassurandør, ved domstolene i en konvensjonsstat der det reises søksmål mot den ledende assurandør.
+1\. En forsikringsgiver med bosted i en konvensjonsstat kan saksøkes:
+
+1. ved domstolene i bostedsstaten,1 eller
+2. i en annen konvensjonsstat, i tilfeller der søksmålet anlegges av forsikringstakeren, den forsikrede eller en begunstiget, ved domstolene der saksøkeren har sitt bosted, eller
+3. om han er en koassurandør, ved domstolene i en konvensjonsstat der det reises søksmål mot den ledende assurandør.
 
 2\. En forsikringsgiver uten bosted i noen konvensjonsstat, men med en filial, agentur eller liknende forretningskontor i en konvensjonsstat, skal regnes å ha bosted i den sistnevnte stat når det gjelder tvister oppstått som følge av driften av filialen, agenturet eller forretningskontoret.2
 
-1 Se art. 2.2 Jf. art. 5 (5).
+1 Se art. 2.
+
+2 Jf. art. 5 (5).
 
 ### Art 10
 
@@ -3216,29 +3651,59 @@ Gjelder saken ansvarsforsikring eller forsikring av fast eiendom, kan forsikring
 
 2\. Reglene i avsnittet her hindrer ikke at motkrav reises ved den domstol som i samsvar med avsnittet her behandler det opprinnelige krav.2
 
-1 Jf. art. 2.2 Jf. art. 6 (3).
+1 Jf. art. 2.
+
+2 Jf. art. 6 (3).
 
 ### Art 13
 
-Reglene i avsnittet her kan bare fravikes i en avtale:1som er inngått etter at tvisten oppsto, ellersom tillater forsikringstakeren, den forsikrede eller en begunstiget å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her, ellersom er inngått mellom en forsikringstaker og en forsikringsgiver som begge på avtaletiden har bosted eller fast opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente selv om skaden skulle oppstå i utlandet, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten,2 ellersom er inngått med en forsikringstaker som ikke har bosted i noen konvensjonsstat, unntatt når forsikringen er tvungen eller gjelder fast eiendom i en konvensjonsstat, ellersom gjelder en forsikringsavtale som dekker en eller flere av de risikoer som er nevnt i artikkel 14.
+Reglene i avsnittet her kan bare fravikes i en avtale:1
 
-1 Jf. art. 23.2 Jf. art. 10 og 11 (1).
+1. som er inngått etter at tvisten oppsto, eller
+2. som tillater forsikringstakeren, den forsikrede eller en begunstiget å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her, eller
+3. som er inngått mellom en forsikringstaker og en forsikringsgiver som begge på avtaletiden har bosted eller fast opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente selv om skaden skulle oppstå i utlandet, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten,2 eller
+4. som er inngått med en forsikringstaker som ikke har bosted i noen konvensjonsstat, unntatt når forsikringen er tvungen eller gjelder fast eiendom i en konvensjonsstat, eller
+5. som gjelder en forsikringsavtale som dekker en eller flere av de risikoer som er nevnt i artikkel 14.
+
+1 Jf. art. 23.
+
+2 Jf. art. 10 og 11 (1).
 
 ### Art 14
 
-Artikkel 13 nr. 5 viser til følgende risikoer:ethvert tap av eller skade på:sjøgående skip, installasjoner offshore eller på det åpne hav, eller luftfartøyer, når tapet eller skaden har sammenheng med fare ved deres bruk for kommersielle formål;gods under forsendelse, unntatt passasjerers bagasje, når forsendelsen helt eller delvis skjer med slikt skip eller luftfartøy;ethvert ansvar, unntatt personskade på passasjer eller tap av eller skade på passasjerbagasje:som oppstår ved bruken eller driften av skip, installasjoner eller luftfartøy som nevnt i nr. 1 bokstav a) såframt, hva angår sistnevnte, rettsreglene i den konvensjonsstat hvor luftfartøyet er registrert ikke forbyr vernetingsavtaler i forbindelse med forsikring mot slike skaderisikoer;for tap eller skade forårsaket av gods under forsendelse som nevnt i nr. 1 bokstav b);ethvert økonomisk tap i forbindelse med bruk eller drift av skip, installasjoner eller luftfartøy som nevnt i nr. 1 bokstav a), herunder særlig tap av frakt eller befraktningsinntekter;enhver risiko eller interesse i forbindelse med dem som er nevnt i nr. 1 til 3;uansett nr. 1 til 4, alle store risikoer.
+Artikkel 13 nr. 5 viser til følgende risikoer:
+
+1. ethvert tap av eller skade på:
+
+   1. sjøgående skip, installasjoner offshore eller på det åpne hav, eller luftfartøyer, når tapet eller skaden har sammenheng med fare ved deres bruk for kommersielle formål;
+   2. gods under forsendelse, unntatt passasjerers bagasje, når forsendelsen helt eller delvis skjer med slikt skip eller luftfartøy;
+2. ethvert ansvar, unntatt personskade på passasjer eller tap av eller skade på passasjerbagasje:
+
+   1. som oppstår ved bruken eller driften av skip, installasjoner eller luftfartøy som nevnt i nr. 1 bokstav a) såframt, hva angår sistnevnte, rettsreglene i den konvensjonsstat hvor luftfartøyet er registrert ikke forbyr vernetingsavtaler i forbindelse med forsikring mot slike skaderisikoer;
+   2. for tap eller skade forårsaket av gods under forsendelse som nevnt i nr. 1 bokstav b);
+3. ethvert økonomisk tap i forbindelse med bruk eller drift av skip, installasjoner eller luftfartøy som nevnt i nr. 1 bokstav a), herunder særlig tap av frakt eller befraktningsinntekter;
+4. enhver risiko eller interesse i forbindelse med dem som er nevnt i nr. 1 til 3;
+5. uansett nr. 1 til 4, alle store risikoer.
 
 ### Avsnitt 4. Verneting i saker om forbrukerkontrakter
 
 ### Art 15
 
-1\. I saker om kontrakt sluttet av en person, forbrukeren, for formål som må anses å ligge utenfor hans yrke eller ervervsmessige virksomhet, bestemmes vernetinget av reglene i avsnittet her, med forbehold for artikkel 4 og artikkel 5 nr. 5,1 dersom:det gjelder en kontrakt om kjøp av løsøre hvor kjøpesummen skal betales i rater, ellerdet gjelder en kontrakt om lån som skal betales tilbake i rater, eller om noen annen form for kreditt, gitt for å finansiere løsørekjøp, elleri alle andre tilfeller, når kontrakten er inngått med en person som utøver kommersiell eller ervervsmessig virksomhet i den konvensjonsstat der forbrukeren har bosted, eller på en hvilken som helst annen måte retter slik virksomhet mot denne stat eller mot flere stater inklusive denne stat, og kontrakten er omfattet av denne virksomhet.
+1\. I saker om kontrakt sluttet av en person, forbrukeren, for formål som må anses å ligge utenfor hans yrke eller ervervsmessige virksomhet, bestemmes vernetinget av reglene i avsnittet her, med forbehold for artikkel 4 og artikkel 5 nr. 5,1 dersom:
+
+1. det gjelder en kontrakt om kjøp av løsøre hvor kjøpesummen skal betales i rater, eller
+2. det gjelder en kontrakt om lån som skal betales tilbake i rater, eller om noen annen form for kreditt, gitt for å finansiere løsørekjøp, eller
+3. i alle andre tilfeller, når kontrakten er inngått med en person som utøver kommersiell eller ervervsmessig virksomhet i den konvensjonsstat der forbrukeren har bosted, eller på en hvilken som helst annen måte retter slik virksomhet mot denne stat eller mot flere stater inklusive denne stat, og kontrakten er omfattet av denne virksomhet.
 
 2\. Har forbrukerens medkontrahent ikke bosted i noen konvensjonsstat, men har en filial, et agentur eller liknende forretningskontor2 i en konvensjonsstat, skal medkontrahenten anses å ha bosted i den sistnevnte stat i forhold til tvister som springer ut av driften av filialen, agenturet eller forretningskontoret.
 
 3\. Avsnittet her gjelder ikke for transportkontrakter,3 bortsett fra kontrakter som har bestemmelser om en kombinasjon av reise og opphold til en samlet pris.
 
-1 Jf. art. 24.2 Jf. art. 5 (5).3 Jf. art. 2 og 5 (1).
+1 Jf. art. 24.
+
+2 Jf. art. 5 (5).
+
+3 Jf. art. 2 og 5 (1).
 
 ### Art 16
 
@@ -3250,7 +3715,11 @@ Artikkel 13 nr. 5 viser til følgende risikoer:ethvert tap av eller skade på:sj
 
 ### Art 17
 
-Reglene i avsnittet her kan bare fravikes i en avtale:som er inngått etter at tvisten oppsto, ellersom tillater forbrukeren å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her, ellersom er inngått mellom en forbruker og en kontraktpart som begge på avtaletiden har sitt bosted eller faste opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten.
+Reglene i avsnittet her kan bare fravikes i en avtale:
+
+1. som er inngått etter at tvisten oppsto, eller
+2. som tillater forbrukeren å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her, eller
+3. som er inngått mellom en forbruker og en kontraktpart som begge på avtaletiden har sitt bosted eller faste opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten.
 
 ### Avsnitt 5. Verneting i saker om individuelle arbeidsavtaler
 
@@ -3262,7 +3731,13 @@ Reglene i avsnittet her kan bare fravikes i en avtale:som er inngått etter at t
 
 ### Art 19
 
-En arbeidsgiver med bosted i en konvensjonsstat kan saksøkes:ved domstolene i bostedstaten, elleri en annen konvensjonsstat:ved domstolene for det sted hvor arbeidstakeren til vanlig utfører sitt arbeid, eller ved domstolene for det siste sted han gjorde det, ellerdersom arbeidstakeren til vanlig ikke utfører eller har utført sitt arbeid i et bestemt land, ved domstolene for det sted hvor virksomheten som ansatte arbeidstakeren, ligger eller har ligget.
+En arbeidsgiver med bosted i en konvensjonsstat kan saksøkes:
+
+1. ved domstolene i bostedstaten, eller
+2. i en annen konvensjonsstat:
+
+   1. ved domstolene for det sted hvor arbeidstakeren til vanlig utfører sitt arbeid, eller ved domstolene for det siste sted han gjorde det, eller
+   2. dersom arbeidstakeren til vanlig ikke utfører eller har utført sitt arbeid i et bestemt land, ved domstolene for det sted hvor virksomheten som ansatte arbeidstakeren, ligger eller har ligget.
 
 ### Art 20
 
@@ -3272,21 +3747,42 @@ En arbeidsgiver med bosted i en konvensjonsstat kan saksøkes:ved domstolene i b
 
 ### Art 21
 
-Reglene i avsnittet her kan bare fravikes i en vernetingsavtale:som er inngått etter at tvisten oppsto, ellersom tillater arbeidstakeren å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her.
+Reglene i avsnittet her kan bare fravikes i en vernetingsavtale:
+
+1. som er inngått etter at tvisten oppsto, eller
+2. som tillater arbeidstakeren å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her.
 
 ### Avsnitt 6. Eksklusivt verneting
 
 ### Art 22
 
-Følgende domstoler skal være enekompetente,1 uten hensyn til bosted:i saker om tinglige rettigheter i fast eiendom eller om leie av fast eiendom, domstolene i den konvensjonsstat der eiendommen ligger.Men i saker om midlertidig leie av fast eiendom til privat bruk for høyst seks på hverandre følgende måneder er også domstolene i den konvensjonsstat der saksøkte har sitt bosted kompetente, forutsatt at leietakeren er en fysisk person og at utleier og leietaker har bosted i samme konvensjonsstat;i saker om gyldigheten, ugyldigheten eller oppløsningen av selskaper eller andre juridiske personer eller sammenslutninger av fysiske eller juridiske personer eller om gyldigheten av vedtak i deres styrende organer, domstolene i den konvensjonsstat der selskapet, foreningen eller den juridiske person eller sammenslutningen har sitt sete. For å avgjøre hvor setet er, skal domstolen anvende sin egen internasjonale privatrett;i saker om gyldigheten av en innføring i et offentlig register, domstolene i den konvensjonsstat der registeret føres;i saker om registrering eller gyldigheten av patenter, varemerker, design eller liknende rettigheter som forutsetter deponering eller registrering, uansett om spørsmålet reises som søksmål eller forsvar, domstolene i den konvensjonsstat der det søkes om deponering eller registrering, eller der deponering eller registrering er skjedd eller ifølge en fellesskapsrettsakt eller en internasjonal konvensjon skal anses å ha skjedd.2Med forbehold for den kompetanse som Det europeiske patentverket er tillagt i konvensjonen om meddelelse av europeiske patenter undertegnet i München 5. oktober 1973, skal domstolene i den enkelte konvensjonsstat ha eksklusiv kompetanse, uansett bosted, i saker som gjelder registrering eller gyldighet av et europeisk patent som er meddelt i denne stat, og uansett om spørsmålet reises som søksmål eller forsvar.i saker om fullbyrdelse av dommer, domstolene i den konvensjonsstat der dommen skal fullbyrdes eller er blitt fullbyrdet.3
+Følgende domstoler skal være enekompetente,1 uten hensyn til bosted:
 
-1 Jf. art. 24 i.f.2 Jf. art. 67.3 Jf. art. 31.
+1. i saker om tinglige rettigheter i fast eiendom eller om leie av fast eiendom, domstolene i den konvensjonsstat der eiendommen ligger.
+
+   Men i saker om midlertidig leie av fast eiendom til privat bruk for høyst seks på hverandre følgende måneder er også domstolene i den konvensjonsstat der saksøkte har sitt bosted kompetente, forutsatt at leietakeren er en fysisk person og at utleier og leietaker har bosted i samme konvensjonsstat;
+2. i saker om gyldigheten, ugyldigheten eller oppløsningen av selskaper eller andre juridiske personer eller sammenslutninger av fysiske eller juridiske personer eller om gyldigheten av vedtak i deres styrende organer, domstolene i den konvensjonsstat der selskapet, foreningen eller den juridiske person eller sammenslutningen har sitt sete. For å avgjøre hvor setet er, skal domstolen anvende sin egen internasjonale privatrett;
+3. i saker om gyldigheten av en innføring i et offentlig register, domstolene i den konvensjonsstat der registeret føres;
+4. i saker om registrering eller gyldigheten av patenter, varemerker, design eller liknende rettigheter som forutsetter deponering eller registrering, uansett om spørsmålet reises som søksmål eller forsvar, domstolene i den konvensjonsstat der det søkes om deponering eller registrering, eller der deponering eller registrering er skjedd eller ifølge en fellesskapsrettsakt eller en internasjonal konvensjon skal anses å ha skjedd.2
+
+   Med forbehold for den kompetanse som Det europeiske patentverket er tillagt i konvensjonen om meddelelse av europeiske patenter undertegnet i München 5. oktober 1973, skal domstolene i den enkelte konvensjonsstat ha eksklusiv kompetanse, uansett bosted, i saker som gjelder registrering eller gyldighet av et europeisk patent som er meddelt i denne stat, og uansett om spørsmålet reises som søksmål eller forsvar.
+5. i saker om fullbyrdelse av dommer, domstolene i den konvensjonsstat der dommen skal fullbyrdes eller er blitt fullbyrdet.3
+
+1 Jf. art. 24 i.f.
+
+2 Jf. art. 67.
+
+3 Jf. art. 31.
 
 ### Avsnitt 7. Vernetingsavtaler
 
 ### Art 23
 
-1\. Har partene, når minst en av dem har bosted i en konvensjonsstat, avtalt at en domstol eller domstolene i en konvensjonsstat skal være kompetente til å avgjøre noen tvist som har oppstått eller måtte oppstå i et bestemt rettsforhold, er den eller disse domstolene kompetente. En slik kompetanse skal være eksklusiv, med mindre partene har avtalt noe annet. En slik vernetingsavtale skal være enten:skriftlig eller muntlig og bekreftet skriftlig, ellerinngått i en form som er i samsvar med en praksis som disse parter har etablert seg imellom, elleri internasjonal handel, i en form som er i samsvar med en handelsbruk som partene kjente eller burde ha kjent, og som i slik handel er allment kjent blant og regelmessig fulgt av dem som inngår slike kontrakter i tilsvarende type handelsforhold.1
+1\. Har partene, når minst en av dem har bosted i en konvensjonsstat, avtalt at en domstol eller domstolene i en konvensjonsstat skal være kompetente til å avgjøre noen tvist som har oppstått eller måtte oppstå i et bestemt rettsforhold, er den eller disse domstolene kompetente. En slik kompetanse skal være eksklusiv, med mindre partene har avtalt noe annet. En slik vernetingsavtale skal være enten:
+
+1. skriftlig eller muntlig og bekreftet skriftlig, eller
+2. inngått i en form som er i samsvar med en praksis som disse parter har etablert seg imellom, eller
+3. i internasjonal handel, i en form som er i samsvar med en handelsbruk som partene kjente eller burde ha kjent, og som i slik handel er allment kjent blant og regelmessig fulgt av dem som inngår slike kontrakter i tilsvarende type handelsforhold.1
 
 2\. Enhver elektronisk meddelelse som gir en varig dokumentasjon av avtalen om verneting, skal sidestilles med «skriftlig».
 
@@ -3318,7 +3814,9 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 4\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 20002 eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende bestemmelsen i forordningens artikkel 19 såframt det innledende prosesskriv i saken, eller et tilsvarende dokument, skulle oversendes i samsvar med den forordningen eller den avtalen.
 
-1 Ratifisert av Norge, jf. [dl. § 180](lov/1915-08-13-5/§180), og alle EU- og EFTA-stater unntatt Østerrike. Jf. Luganokonvensjonen 2007 protokoll 1 art. I.2 Erstattet av forordning [nr. 1393/2007](eu/32007r1393) av 13 nov 2007 (ikr. 13 nov 2008).
+1 Ratifisert av Norge, jf. [dl. § 180](lov/1915-08-13-5/§180), og alle EU- og EFTA-stater unntatt Østerrike. Jf. Luganokonvensjonen 2007 protokoll 1 art. I.
+
+2 Erstattet av forordning [nr. 1393/2007](eu/32007r1393) av 13 nov 2007 (ikr. 13 nov 2008).
 
 ### Avsnitt 9. Litispendens – konnekse krav
 
@@ -3344,11 +3842,16 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 Hører kravene inn under flere domstolers eksklusive kompetanse,1 skal alle andre domstoler enn den som søksmål først er reist ved,2 erklære seg inkompetente til fordel for den første domstol.
 
-1 Jf. art. 8-24.2 Jf. art. 30.
+1 Jf. art. 8-24.
+
+2 Jf. art. 30.
 
 ### Art 30
 
-I avsnittet her anses en sak som reist ved en domstol:på det tidspunktet da det innledende prosesskriv i saken, eller et tilsvarende dokument inngis til domstolen, forutsatt at saksøker ikke deretter har unnlatt å treffe de tiltak som krevdes av ham for å få dokumentet forkynt for saksøkte, ellerdersom det innledende prosesskriv i saken, eller et tilsvarende dokument, skal forkynnes før det inngis til domstolen, på det tidspunktet da det mottas av den myndighet som har ansvaret for forkynnelsen, forutsatt at saksøker ikke deretter har unnlatt å treffe de tiltak som krevdes av ham for å få dokumentet inngitt til domstolen.
+I avsnittet her anses en sak som reist ved en domstol:
+
+1. på det tidspunktet da det innledende prosesskriv i saken, eller et tilsvarende dokument inngis til domstolen, forutsatt at saksøker ikke deretter har unnlatt å treffe de tiltak som krevdes av ham for å få dokumentet forkynt for saksøkte, eller
+2. dersom det innledende prosesskriv i saken, eller et tilsvarende dokument, skal forkynnes før det inngis til domstolen, på det tidspunktet da det mottas av den myndighet som har ansvaret for forkynnelsen, forutsatt at saksøker ikke deretter har unnlatt å treffe de tiltak som krevdes av ham for å få dokumentet inngitt til domstolen.
 
 ### Avsnitt 10. Midlertidig sikring m.m.
 
@@ -3374,13 +3877,24 @@ I konvensjonen her menes med «dom» enhver avgjørelse truffet av en domstol1 i
 
 3\. Har anerkjennelsen betydning for utfallet av en sak som verserer for en domstol i en konvensjonsstat, er denne domstol kompetent til å avgjøre spørsmålet om anerkjennelse.
 
-1 Jf. art. 32.2 Jf. art. 37.
+1 Jf. art. 32.
+
+2 Jf. art. 37.
 
 ### Art 34
 
-En dom1 skal ikke anerkjennes dersom:anerkjennelse åpenbart vil virke støtende på rettsordenen («ordre public») i mottakerstaten;2den er en fraværsdom og saksøkte ikke fikk forkynt det innledende prosesskriv, eller et tilsvarende dokument i tilstrekkelig tid og på en slik måte at han har kunnet forberede sitt forsvar, med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det;3den er uforenlig med en dom avsagt i en tvist mellom de samme parter i mottakerstaten;den er uforenlig med en tidligere dom som har den samme tvistegjenstand, hviler på det samme grunnlag og er avsagt i en annen konvensjonsstat eller i en tredjestat mellom de samme parter, såframt den tidligere dommen fyller vilkårene for anerkjennelse i mottakerstaten.
+En dom1 skal ikke anerkjennes dersom:
 
-1 Jf. art. 32.2 Jf. art. 35 (3).3 Jf. art. 26 (2)-(4) og protokoll 1 art. III.
+1. anerkjennelse åpenbart vil virke støtende på rettsordenen («ordre public») i mottakerstaten;2
+2. den er en fraværsdom og saksøkte ikke fikk forkynt det innledende prosesskriv, eller et tilsvarende dokument i tilstrekkelig tid og på en slik måte at han har kunnet forberede sitt forsvar, med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det;3
+3. den er uforenlig med en dom avsagt i en tvist mellom de samme parter i mottakerstaten;
+4. den er uforenlig med en tidligere dom som har den samme tvistegjenstand, hviler på det samme grunnlag og er avsagt i en annen konvensjonsstat eller i en tredjestat mellom de samme parter, såframt den tidligere dommen fyller vilkårene for anerkjennelse i mottakerstaten.
+
+1 Jf. art. 32.
+
+2 Jf. art. 35 (3).
+
+3 Jf. art. 26 (2)-(4) og protokoll 1 art. III.
 
 ### Art 35
 
@@ -3404,7 +3918,9 @@ Ikke i noe tilfelle kan den utenlandske dommen etterprøves når det gjelder rea
 
 2\. Den domstol i en konvensjonsstat som behandler spørsmålet om anerkjennelse av en dom avsagt i Irland eller Storbritannia, kan utsette behandlingen dersom tvangskraften er utsatt i opphavsstaten fordi det er anvendt rettsmidler mot dommen.
 
-1 Jf. art. 46.2 Jf. art. 33 (3).
+1 Jf. art. 46.
+
+2 Jf. art. 33 (3).
 
 ### Avsnitt 2. Fullbyrdelse
 
@@ -3434,7 +3950,9 @@ Ikke i noe tilfelle kan den utenlandske dommen etterprøves når det gjelder rea
 
 Dommen skal erklæres tvangskraftig så snart formalitetene omhandlet i artikkel 53 er oppfylt, uten prøving etter artiklene 34 og 35.1 Den part som fullbyrdelse begjæres overfor har ikke rett til å sette fram merknader på dette stadium.2
 
-1 Se også art. 61.2 Jf. art. 36.
+1 Se også art. 61.
+
+2 Jf. art. 36.
 
 ### Art 42
 
@@ -3498,7 +4016,9 @@ En utenlandsk dom på tvangsmulkt kan bare fullbyrdes i mottakerstaten hvis mulk
 
 2\. Den som begjærer fullbyrdelse av en avgjørelse om underholdsplikt truffet av et forvaltningsorgan i Danmark, Island eller Norge2 skal i mottakerstaten nyte godt av den støtte og de fritak som er nevnt i første ledd dersom han legger fram en erklæring fra henholdsvis det danske, det islandske eller det norske justisministerium om at han oppfyller vilkårene for helt eller delvis fri sakførsel eller rettshjelp, herunder eventuelt gebyrfritak.
 
-1 Jf. art. 54 og Vedlegg V, se [lov 13 juni 1980 nr. 35](lov/1980-06-13-35).2 Jf. art. 62.
+1 Jf. art. 54 og Vedlegg V, se [lov 13 juni 1980 nr. 35](lov/1980-06-13-35).
+
+2 Jf. art. 62.
 
 ### Art 51
 
@@ -3562,7 +4082,11 @@ Et forlik som er inngått for retten under behandlingen av tvistemålet og som h
 
 ### Art 60
 
-1\. I konvensjonen her har et selskap eller annen juridisk person eller sammenslutning av fysiske eller juridiske personer bosted der hvor det har sitt:vedtektsbestemte sete, ellerhovedadministrasjon, ellerhovedforretningssted.
+1\. I konvensjonen her har et selskap eller annen juridisk person eller sammenslutning av fysiske eller juridiske personer bosted der hvor det har sitt:
+
+1. vedtektsbestemte sete, eller
+2. hovedadministrasjon, eller
+3. hovedforretningssted.
 
 2\. For Storbritannia og Irland menes med «vedtektsbestemt sete» registrert forretningskontor eller, dersom det ikke finnes, stedet der selskapet er registrert eller, dersom det ikke finnes, stedet i henhold til hvis rettsregler stiftelsen fant sted.
 
@@ -3584,7 +4108,10 @@ I konvensjonen her omfatter uttrykket «domstol» enhver myndighet som en konven
 
 1\. Konvensjonen her får bare anvendelse på søksmål som er reist og offentlig bekreftede dokumenter som er utstedt som autentiske etter at konvensjonen har trådt i kraft i opphavsstaten, og ved anerkjennelse eller fullbyrdelse av en dom eller et autentisk offentlig bekreftet dokument, i mottakerstaten.
 
-2\. Om saken ble reist i opphavsstaten før konvensjonen her trådte i kraft, skal dommer avsagt etter det tidspunkt anerkjennes og fullbyrdes i samsvar med reglene i [kapittel III](lov/2005-06-17-90/kapiii):dersom saken ble reist i opphavsstaten etter at Luganokonvensjonen av 16. september 1988 trådte i kraft både i opphavsstaten og i mottakerstaten;i alle andre tilfeller, dersom domstolenes kompetanse bygde på regler som er i samsvar med reglene i enten [kapittel II](lov/2005-06-17-90/kapii) eller i en konvensjon som var i kraft mellom opphavsstaten og mottakerstaten da saken ble reist.
+2\. Om saken ble reist i opphavsstaten før konvensjonen her trådte i kraft, skal dommer avsagt etter det tidspunkt anerkjennes og fullbyrdes i samsvar med reglene i [kapittel III](lov/2005-06-17-90/kapiii):
+
+1. dersom saken ble reist i opphavsstaten etter at Luganokonvensjonen av 16. september 1988 trådte i kraft både i opphavsstaten og i mottakerstaten;
+2. i alle andre tilfeller, dersom domstolenes kompetanse bygde på regler som er i samsvar med reglene i enten [kapittel II](lov/2005-06-17-90/kapii) eller i en konvensjon som var i kraft mellom opphavsstaten og mottakerstaten da saken ble reist.
 
 ### Kapittel VII. Forholdet til rådsforordning (EF) nr. 44/20011 og andre instrumenter
 
@@ -3594,11 +4121,17 @@ I konvensjonen her omfatter uttrykket «domstol» enhver myndighet som en konven
 
 1\. Konvensjonen her er ikke til hinder for at medlemsstatene i Det europeiske fellesskap anvender rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, med eventuelle endringer,1 konvensjonen om jurisdiksjon og fullbyrdelse av dommer i sivile og kommersielle saker, inngått i Brussel 27. september 1968, samt protokollen om tolking av den konvensjonen ved De europeiske fellesskaps domstol, inngått i Luxembourg 3. juni 1971, som endret ved konvensjoner om tilslutning til nevnte konvensjon og protokoll inngått mellom medlemsstatene i De europeiske fellesskap, så vel som avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, undertegnet i Brussel 19. oktober 2005.
 
-2\. Konvensjonen her skal likevel alltid anvendes:i spørsmål om domstolenes kompetanse, når saksøkte har bosted i en stat der konvensjonen her får anvendelse, men ikke et instrument nevnt i nr. 1, eller der artiklene 22 eller 23 i konvensjonen her overfører kompetansen til domstolene i en slik stat;i spørsmål om litispendens eller konnekse krav som nevnt i artiklene 27 og 28, når sak reises i en stat der konvensjonen her får anvendelse, men ikke et instrument nevnt i nr. 1, og i en stat der konvensjonen her får anvendelse, så vel som et instrument nevnt i nr. 1;i spørsmål om anerkjennelse og fullbyrdelse, når enten opphavsstaten eller mottakerstaten ikke anvender et instrument nevnt i nr. 1.
+2\. Konvensjonen her skal likevel alltid anvendes:
+
+1. i spørsmål om domstolenes kompetanse, når saksøkte har bosted i en stat der konvensjonen her får anvendelse, men ikke et instrument nevnt i nr. 1, eller der artiklene 22 eller 23 i konvensjonen her overfører kompetansen til domstolene i en slik stat;
+2. i spørsmål om litispendens eller konnekse krav som nevnt i artiklene 27 og 28, når sak reises i en stat der konvensjonen her får anvendelse, men ikke et instrument nevnt i nr. 1, og i en stat der konvensjonen her får anvendelse, så vel som et instrument nevnt i nr. 1;
+3. i spørsmål om anerkjennelse og fullbyrdelse, når enten opphavsstaten eller mottakerstaten ikke anvender et instrument nevnt i nr. 1.
 
 3\. Foruten av de grunner som er nevnt i [kapittel III](lov/2005-06-17-90/kapiii) kan anerkjennelse eller fullbyrdelse nektes når det kompetansegrunnlag dommen bygger på, avviker fra det som ville følge av konvensjonen her, og anerkjennelse eller fullbyrdelse begjæres overfor en part som har bosted i en stat der konvensjonen her, men ikke et instrument nevnt i nr. 1 får anvendelse, med mindre dommen etter de rettsregler som ellers måtte gjelde i mottakerstaten likevel kan anerkjennes eller fullbyrdes.2
 
-1 Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) er erstattet av rådsforordning [(EF) nr. 1215/2012](eu/32012r1215) (ikr. 10 jan 2015).2 Jf. art. 35 (1).
+1 Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) er erstattet av rådsforordning [(EF) nr. 1215/2012](eu/32012r1215) (ikr. 10 jan 2015).
+
+2 Jf. art. 35 (1).
 
 ### Art 65
 
@@ -3622,13 +4155,18 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 5\. Har både opphavsstaten og mottakerstaten sluttet seg til en konvensjon om et særskilt avgrenset saksfelt og den konvensjonen inneholder egne vilkår for anerkjennelse eller fullbyrdelse av dommer, skal disse vilkår anvendes. I alle tilfelle kan bestemmelsene i konvensjonen her om framgangsmåten ved anerkjennelse og fullbyrdelse anvendes.
 
-1 Jf. protokoll 3.2 Jf. art. 35 (1).
+1 Jf. protokoll 3.
+
+2 Jf. art. 35 (1).
 
 ### Art 68
 
 1\. Konvensjonen her skal ikke berøre avtaler der konvensjonsstatene, før konvensjonen trer i kraft, har forpliktet seg til ikke å anerkjenne dommer avsagt i en annen konvensjonsstat mot saksøkte med bosted eller fast opphold i en tredjestat, når det gjelder tilfelle som nevnt i artikkel 4 og dommen bare kunne avsies på grunnlag av en kompetanseregel som angitt i artikkel 3 nr. 2. Med forbehold for de forpliktelser som følger av andre avtaler mellom visse konvensjonsparter, skal konvensjonen her ikke være til hinder for at konvensjonspartene inngår slike konvensjoner.
 
-2\. En konvensjonspart kan likevel ikke forplikte seg overfor en tredje stat til ikke å anerkjenne en dom avsagt i en annen konvensjonsstat av en domstol som har bygd sin domskompetanse på at saksøkte har et formuesgode i den staten, eller på at saksøker har fått utlegg eller arrest i et formuesgode som befant seg der:dersom søksmålet gjaldt eiendomsretten eller besittelsesretten til formuesgodet, råderetten over det eller en annen tvist vedrørende formuesgodet, ellerdersom formuesgodet er stilt til sikkerhet for en gjeld som er sakens gjenstand.
+2\. En konvensjonspart kan likevel ikke forplikte seg overfor en tredje stat til ikke å anerkjenne en dom avsagt i en annen konvensjonsstat av en domstol som har bygd sin domskompetanse på at saksøkte har et formuesgode i den staten, eller på at saksøker har fått utlegg eller arrest i et formuesgode som befant seg der:
+
+1. dersom søksmålet gjaldt eiendomsretten eller besittelsesretten til formuesgodet, råderetten over det eller en annen tvist vedrørende formuesgodet, eller
+2. dersom formuesgodet er stilt til sikkerhet for en gjeld som er sakens gjenstand.
 
 ### Kapittel VIII. Sluttbestemmelser
 
@@ -3648,11 +4186,17 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 7\. Hva angår forholdet mellom medlemsstatene i Det europeiske fellesskap og territorier utenfor Europa omhandlet i artikkel 70 nr. 1 bokstav b), skal konvensjonen erstatte konvensjonen om jurisdiksjon og fullbyrdelse av dommer i sivile og kommersielle saker, inngått i Brussel 27. september 1968, samt protokollen om tolking av den konvensjonen ved De europeiske fellesskaps domstol, inngått i Luxembourg 3. juni 1971, endret ved konvensjoner om tiltredelse til nevnte konvensjon og protokoll av de stater som har tiltrådt De europeiske fellesskap, fra den dag konvensjonen her trer i kraft for disse territorier i samsvar med artikkel 73 nr. 2.
 
-1 1 jan 2010 for Norge, EU og Danmark.2 1 jan 2011 for Sveits og 1 mai 2011 for Island.
+1 1 jan 2010 for Norge, EU og Danmark.
+
+2 1 jan 2011 for Sveits og 1 mai 2011 for Island.
 
 ### Art 70
 
-1\. Etter at konvensjonen har trådt i kraft, er den åpen for tiltredelse av:De stater som etter at konvensjonen er åpnet for undertegning, blir medlemmer av Det europeiske frihandelsforbund, på de vilkår som er fastlagt i artikkel 71;Medlemsstater i Det europeiske fellesskap som handler på vegne av visse territorier utenfor Europa som er en del av vedkommende medlemsstats territorium, eller for hvis internasjonale forbindelser vedkommende medlemsstat er ansvarlig, på de vilkår som er fastlagt i artikkel 71;enhver annen stat, på de vilkår som er fastlagt i artikkel 72.1
+1\. Etter at konvensjonen har trådt i kraft, er den åpen for tiltredelse av:
+
+1. De stater som etter at konvensjonen er åpnet for undertegning, blir medlemmer av Det europeiske frihandelsforbund, på de vilkår som er fastlagt i artikkel 71;
+2. Medlemsstater i Det europeiske fellesskap som handler på vegne av visse territorier utenfor Europa som er en del av vedkommende medlemsstats territorium, eller for hvis internasjonale forbindelser vedkommende medlemsstat er ansvarlig, på de vilkår som er fastlagt i artikkel 71;
+3. enhver annen stat, på de vilkår som er fastlagt i artikkel 72.1
 
 2\. Stater nevnt i nr. 1 som ønsker å bli part i konvensjonen her, skal rette søknaden til depositaren. Med søknaden, herunder informasjon som er nevnt i artiklene 71 og 72, skal det følge en oversettelse til engelsk og fransk.
 
@@ -3660,13 +4204,24 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 ### Art 71
 
-1\. Enhver stat som er nevnt i artikkel 70 nr. 1 bokstav a) og b), og som ønsker å bli part i konvensjonen her,skal sende inn de opplysninger som kreves i henhold til konvensjonen her;kan avgi erklæringer i samsvar med artiklene I og III i protokoll 1.
+1\. Enhver stat som er nevnt i artikkel 70 nr. 1 bokstav a) og b), og som ønsker å bli part i konvensjonen her,
+
+1. skal sende inn de opplysninger som kreves i henhold til konvensjonen her;
+2. kan avgi erklæringer i samsvar med artiklene I og III i protokoll 1.
 
 2\. Depositaren skal oversende all informasjon mottatt i henhold til nr. 1, til de øvrige konvensjonsparter før vedkommende stat deponerer tiltredelsesdokumentet.
 
 ### Art 72
 
-1\. Enhver stat som er nevnt i artikkel 70 nr. 1 bokstav c), og som ønsker å bli part i konvensjonen her,skal sende inn den informasjonen som kreves for å anvende konvensjonen her;kan avgi erklæringer i samsvar med artiklene I og III i protokoll 1; ogskal især gi depositaren informasjon om:sitt rettssystem, herunder informasjon om utnevnelse av dommere og om deres uavhengighet;sin interne rett hva angår sivil rettergang og fullbyrdelse av dommer; ogsin internasjonale privatrett hva angår sivil rettergang.
+1\. Enhver stat som er nevnt i artikkel 70 nr. 1 bokstav c), og som ønsker å bli part i konvensjonen her,
+
+1. skal sende inn den informasjonen som kreves for å anvende konvensjonen her;
+2. kan avgi erklæringer i samsvar med artiklene I og III i protokoll 1; og
+3. skal især gi depositaren informasjon om:
+
+   1. sitt rettssystem, herunder informasjon om utnevnelse av dommere og om deres uavhengighet;
+   2. sin interne rett hva angår sivil rettergang og fullbyrdelse av dommer; og
+   3. sin internasjonale privatrett hva angår sivil rettergang.
 
 2\. Depositaren skal oversende all informasjon mottatt i henhold til nr. 1, til de øvrige konvensjonsparter før vedkommende stat innbys til å tiltre i samsvar med nr. 3.
 
@@ -3692,7 +4247,17 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 ### Art 75
 
-Med konvensjonen her følger:en protokoll 1, om visse spørsmål om domsmyndighet, saksbehandling og fullbyrdelse;en protokoll 2, om domstolenes ensartete tolking av konvensjonen her og om den permanente komité;en protokoll 3, om anvendelsen av artikkel 67 i konvensjonen her;vedlegg I til IV og vedlegg VII, med informasjon om anvendelsen av konvensjonen her;vedlegg V og VI, som inneholder de bekreftelser som er nevnt i artiklene 54, 58 og 57 i konvensjonen her;vedlegg VIII, som angir gyldige språk som nevnt i artikkel 79 i konvensjonen her; ogvedlegg IX, om anvendelsen av artikkel II i protokoll 1.Disse protokoller og vedlegg skal utgjøre en integrert del av konvensjonen her.
+Med konvensjonen her følger:
+
+- en protokoll 1, om visse spørsmål om domsmyndighet, saksbehandling og fullbyrdelse;
+- en protokoll 2, om domstolenes ensartete tolking av konvensjonen her og om den permanente komité;
+- en protokoll 3, om anvendelsen av artikkel 67 i konvensjonen her;
+- vedlegg I til IV og vedlegg VII, med informasjon om anvendelsen av konvensjonen her;
+- vedlegg V og VI, som inneholder de bekreftelser som er nevnt i artiklene 54, 58 og 57 i konvensjonen her;
+- vedlegg VIII, som angir gyldige språk som nevnt i artikkel 79 i konvensjonen her; og
+- vedlegg IX, om anvendelsen av artikkel II i protokoll 1.
+
+Disse protokoller og vedlegg skal utgjøre en integrert del av konvensjonen her.
 
 ### Art 76
 
@@ -3708,7 +4273,12 @@ For det formål skal depositaren sammenkalle den permanente komité som fastsatt
 
 ### Art 78
 
-1\. Depositaren skal underrette konvensjonspartene om:deponeringen av ethvert ratifikasjons- eller tiltredelsesdokument;datoene for ikrafttredelsen av konvensjonen her i forhold til konvensjonspartene;enhver erklæring mottatt i henhold til artiklene I til IV i protokoll 1;enhver meddelelse etter artikkel 74 nr. 2, artikkel 77 nr. 1 og punkt 4 i protokoll 3.
+1\. Depositaren skal underrette konvensjonspartene om:
+
+1. deponeringen av ethvert ratifikasjons- eller tiltredelsesdokument;
+2. datoene for ikrafttredelsen av konvensjonen her i forhold til konvensjonspartene;
+3. enhver erklæring mottatt i henhold til artiklene I til IV i protokoll 1;
+4. enhver meddelelse etter artikkel 74 nr. 2, artikkel 77 nr. 1 og punkt 4 i protokoll 3.
 
 2\. Meddelelsene skal ledsages av oversettelser til engelsk og fransk.
 
@@ -3730,7 +4300,9 @@ KONVENSJONSPARTENE ER ENIGE OM FØLGENDE:
 
 3\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 20002 eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende den forordningen og den avtalen.
 
-1 Jf. [dl. § 180](lov/1915-08-13-5/§180) og Luganokonvensjonen 2007 art. 26 (3) med henv. i note 1.2 Se Luganokonvensjonen 2007 art. 26 note 2.
+1 Jf. [dl. § 180](lov/1915-08-13-5/§180) og Luganokonvensjonen 2007 art. 26 (3) med henv. i note 1.
+
+2 Se Luganokonvensjonen 2007 art. 26 note 2.
 
 ### Art II
 
@@ -3742,9 +4314,16 @@ KONVENSJONSPARTENE ER ENIGE OM FØLGENDE:
 
 ### Art III
 
-1\. Sveits forbeholder seg rett til å erklære på ratifikasjonstidspunktet at det ikke vil anvende følgende del av bestemmelsen i artikkel 34 nr. 2:«med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det».Dersom Sveits avgir en slik erklæring, skal de øvrige konvensjonsparter ta det samme forbeholdet med hensyn til dommer avsagt ved domstolene i Sveits.
+1\. Sveits forbeholder seg rett til å erklære på ratifikasjonstidspunktet at det ikke vil anvende følgende del av bestemmelsen i artikkel 34 nr. 2:
 
-2\. Konvensjonspartene kan, med hensyn til dommer avsagt i en tiltredende stat som nevnt i artikkel 70 nr. 1 bokstav c), ved erklæring forbeholde seg:den rett som er nevnt i nr. 1, ogretten for en myndighet som nevnt i artikkel 39, uten hensyn til bestemmelsene i artikkel 41, til å undersøke av eget tiltak om noen av grunnene til å nekte anerkjennelse og fullbyrdelse av en dom er til stede eller ikke.
+- «med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det».
+
+Dersom Sveits avgir en slik erklæring, skal de øvrige konvensjonsparter ta det samme forbeholdet med hensyn til dommer avsagt ved domstolene i Sveits.
+
+2\. Konvensjonspartene kan, med hensyn til dommer avsagt i en tiltredende stat som nevnt i artikkel 70 nr. 1 bokstav c), ved erklæring forbeholde seg:
+
+1. den rett som er nevnt i nr. 1, og
+2. retten for en myndighet som nevnt i artikkel 39, uten hensyn til bestemmelsene i artikkel 41, til å undersøke av eget tiltak om noen av grunnene til å nekte anerkjennelse og fullbyrdelse av en dom er til stede eller ikke.
 
 3\. Dersom en konvensjonspart har tatt et slikt forbehold overfor en tiltredende stat som nevnt i nr. 2, kan denne tiltredende stat ved erklæring forbeholde seg den samme retten med hensyn til dommer avsagt ved vedkommende konvensjonsparts domstoler.
 
@@ -3792,7 +4371,9 @@ Enhver konvensjonsstat som ikke er en medlemsstat i Det europeiske fellesskap, h
 
 ### Art 3
 
-1\. Kommisjonen for De europeiske fellesskap skal etablere et system for utveksling av informasjon om relevante dommer avsagt etter konvensjonen her, så vel som relevante dommer avsagt etter Luganokonvensjonen av 1988 og de instrumenter som er nevnt i artikkel 64 nr. 1 i konvensjonen her. Systemet skal være åpent for allmennheten og inneholde dommer avsagt av domstoler i siste instans og av De europeiske fellesskaps domstol så vel som dommer av særlig betydning som er blitt endelige og er avsagt i henhold konvensjonen her, Luganokonvensjonen av 1988 og de instrumenter som er nevnt i artikkel 64 nr. 1 i konvensjonen her. Dommene skal klassifiseres og være forsynt med et sammendrag.Systemet skal bestå av dommer som omhandlet ovenfor som Kommisjonen mottar fra de kompetente myndigheter i konvensjonsstatene og som er avsagt av domstolene i disse stater.
+1\. Kommisjonen for De europeiske fellesskap skal etablere et system for utveksling av informasjon om relevante dommer avsagt etter konvensjonen her, så vel som relevante dommer avsagt etter Luganokonvensjonen av 1988 og de instrumenter som er nevnt i artikkel 64 nr. 1 i konvensjonen her. Systemet skal være åpent for allmennheten og inneholde dommer avsagt av domstoler i siste instans og av De europeiske fellesskaps domstol så vel som dommer av særlig betydning som er blitt endelige og er avsagt i henhold konvensjonen her, Luganokonvensjonen av 1988 og de instrumenter som er nevnt i artikkel 64 nr. 1 i konvensjonen her. Dommene skal klassifiseres og være forsynt med et sammendrag.
+
+Systemet skal bestå av dommer som omhandlet ovenfor som Kommisjonen mottar fra de kompetente myndigheter i konvensjonsstatene og som er avsagt av domstolene i disse stater.
 
 2\. Rettsskriveren ved De europeiske fellesskaps domstol vil foreta et utvalg av saker av særlig interesse for at konvensjonen skal virke på en tilfredsstillende måte, og presentere denne rettspraksis på ekspertmøter i samsvar med artikkel 5 i denne protokoll.
 
@@ -3802,7 +4383,16 @@ Enhver konvensjonsstat som ikke er en medlemsstat i Det europeiske fellesskap, h
 
 1\. En permanent komité skal opprettes, sammensatt av representanter for konvensjonspartene.
 
-2\. På begjæring fra en konvensjonspart skal depositaren for konvensjonen sammenkalle til møter i komiteen for å:drøfte forholdet mellom konvensjonen her og andre internasjonale instrumenter;drøfte anvendelsen av artikkel 67, herunder tilsiktede tiltredelser til instrumenter om særskilt avgrensede saksfelter i samsvar med artikkel 67 nr. 1 og lovforslag i samsvar med protokoll 3;vurdere tiltredelse av nye stater. Komiteen kan særlig stille tiltredende stater som omhandlet i artikkel 70 nr. 1 bokstav c) spørsmål om deres rettssystem og gjennomføringen av konvensjonen. Komiteen kan også vurdere mulige endringer av konvensjonen som eventuelt må til for at den skal kunne anvendes i de tiltredende stater;godkjenne nye, gyldige språkversjoner i henhold til artikkel 73 nr. 3 i konvensjonen her og de nødvendige endringer av vedlegg VIII;drøfte revisjon av konvensjonen etter artikkel 76;drøfte endringer av vedlegg I til IV og vedlegg VII etter artikkel 77 nr. 1;vedta endringer av vedlegg V og VI etter artikkel 77 nr. 2;trekke tilbake forbehold og erklæringer fra konvensjonspartene etter protokoll 1 og nødvendige endringer av vedlegg IX.
+2\. På begjæring fra en konvensjonspart skal depositaren for konvensjonen sammenkalle til møter i komiteen for å:
+
+- drøfte forholdet mellom konvensjonen her og andre internasjonale instrumenter;
+- drøfte anvendelsen av artikkel 67, herunder tilsiktede tiltredelser til instrumenter om særskilt avgrensede saksfelter i samsvar med artikkel 67 nr. 1 og lovforslag i samsvar med protokoll 3;
+- vurdere tiltredelse av nye stater. Komiteen kan særlig stille tiltredende stater som omhandlet i artikkel 70 nr. 1 bokstav c) spørsmål om deres rettssystem og gjennomføringen av konvensjonen. Komiteen kan også vurdere mulige endringer av konvensjonen som eventuelt må til for at den skal kunne anvendes i de tiltredende stater;
+- godkjenne nye, gyldige språkversjoner i henhold til artikkel 73 nr. 3 i konvensjonen her og de nødvendige endringer av vedlegg VIII;
+- drøfte revisjon av konvensjonen etter artikkel 76;
+- drøfte endringer av vedlegg I til IV og vedlegg VII etter artikkel 77 nr. 1;
+- vedta endringer av vedlegg V og VI etter artikkel 77 nr. 2;
+- trekke tilbake forbehold og erklæringer fra konvensjonspartene etter protokoll 1 og nødvendige endringer av vedlegg IX.
 
 3\. Komiteen skal fastsette en forretningsorden for sin virksomhet og beslutningstaking. Disse reglene skal åpne for muligheten for å drøfte og treffe beslutninger ved skriftlig prosedyre.
 
@@ -3825,21 +4415,163 @@ KONVENSJONSPARTENE ER ENIGE OM FØLGENDE:
 
 ### Vedlegg I
 
-Vernetingsreglene nevnt i konvensjonen artikkel 3 nr. 2 og artikkel 4 nr. 2 er som følger:i Belgia: artikkel 5 til 14 i lov 16. juli 2004 om internasjonal privatrett,i Bulgaria: artikkel 4 nr. 1 og nr. 2 i lov om internasjonal privatrett,i Danmark: artikkel 246 nr. 2 og 3 i lov om rettspleie (Lov om rettens pleje),i Estland: artikkel 86 i sivilprosessloven (tsiviilkohtumenetluse seadustik),i Finland: artikkel 18 første ledd nr. 1 og 2 i kapittel 10 i lov om rettspleie (oikeudenkäymiskaari/rättegångsbalken),i Frankrike: artiklene 14 og 15 i sivillovboken (Code civil),i Hellas: artikkel 40 i sivilprosessloven (κδικας Πoλι τικoς Δικo ν μoας),i Irland: reglene om verneting basert på at stevning ble forkynt for eller meddelt saksøkte under hans midlertidige opphold i Irland,i Island: artikkel 32 nr. 4 i sivilprosessloven (Lög um meðferð einkamála nr. 91/1991),i Italia: artiklene 3 og 4 i lov 218 av 31. mai 1995,i Kypros: paragraf 21 nr. 2 i domstolloven nr. 14 av 1960, med endringer,i Latvia: paragraf 27 og paragraf 28 nr. 3, 5, 6 og 9 i sivilprosessloven (Civilprocesa likums),i Litauen: artikkel 31 i sivilprosessloven (Civilinio proceso kodeksas),i Luxembourg: artiklene 14 og 15 i sivillovboken (Code civil),i Malta: artiklene 742, 743 og 744 i organisasjons- og sivilprosessloven – [kap. 12](lov/2005-06-17-90/kap12) (Kodiċi ta' Organizzazzjoni u Procedura Ċivili – [Kap](lov/2005-06-17-90/kap12). 12) og artikkel 549 i handelsloven – kap. 13 (Kodiċi tal-kummerc – kap. 13),i Norge: Paragraf 4-3 nr. 21 annet punktum i tvisteloven,i Polen: artikkel 1103 nr. 4 i sivilprosessloven (Kodeks postępowania cywilnego),i Portugal: artikkel 65 nr. 1b i sivilprosessloven (Código de Processo Civil) for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolene der filialen, agenturet eller lignende forretningskontor er (hvis beliggende i Portugal) når stevningen ble forkynt for hovedadministrasjonen (hvis beliggende i en annen stat), og artikkel 10 i arbeidsprosessloven (Código de Processo de Trabalho), for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolen der saksøkeren har sitt bosted i saker om individuelle arbeidskontrakter når arbeidstakeren reiser søksmål mot arbeidsgiveren.i Romania: artiklene 148 til 157 i lov nr. 105/1992 om internasjonal privatrettslige forhold,i Slovakia: artiklene 37 til 37e i lov 97/1963 om internasjonal privatrett og tilknyttede prosedyreregler,i Slovenia: artikkel 48 nr. 2 i lov om internasjonal privatrett og rettergang (Zakon o mednarodnem zasebnem pravu i postopku) sammenholdt med artikkel 47 nr. 2 i sivilprosessloven (Zakon o pravdnem postopku) og artikkel 58 i lov om internasjonal privatrett og rettergang (Zakon o mednarodnem zasebnem pravu i postopku) sammenholdt med artikkel 59 i sivilprosessloven (Zakon o pravdnem postopku),i Storbritannia: reglene om verneting basert på:at stevning ble forkynt for eller meddelt saksøkte under hans midlertidige opphold i Storbritannia, ellerat saksøkte har eiendeler i Storbritannia; ellerat namsmyndigheten har tatt beslag i eiendeler i Storbritannia,i Sveits: artikkel 4 i den føderale loven om internasjonal privatrett (Gerichtsstand des Arrestortes/for du lieu du séquestre/foro del luogo del sequestro),i Sverige: kapittel 10 paragraf 3 første ledd første punktum i lov om rettspleie (rättegångsbalken),i Tsjekkia: artikkel 86 i lov 99/1963 Coll., sivilprosessloven (občanský soudní řád), med endringer,i Tyskland: artikkel 23 i sivilprosessloven (Zivilprozessordnung),i Ungarn: artikkel 57 i lovdekret nr. 13 av 1979 om internasjonal privatrett (a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet),i Østerrike: artikkel 99 i lov om domsmyndighet (Jurisdiktionsnorm).
+Vernetingsreglene nevnt i konvensjonen artikkel 3 nr. 2 og artikkel 4 nr. 2 er som følger:
+
+- i Belgia: artikkel 5 til 14 i lov 16. juli 2004 om internasjonal privatrett,
+- i Bulgaria: artikkel 4 nr. 1 og nr. 2 i lov om internasjonal privatrett,
+- i Danmark: artikkel 246 nr. 2 og 3 i lov om rettspleie (Lov om rettens pleje),
+- i Estland: artikkel 86 i sivilprosessloven (tsiviilkohtumenetluse seadustik),
+- i Finland: artikkel 18 første ledd nr. 1 og 2 i kapittel 10 i lov om rettspleie (oikeudenkäymiskaari/rättegångsbalken),
+- i Frankrike: artiklene 14 og 15 i sivillovboken (Code civil),
+- i Hellas: artikkel 40 i sivilprosessloven (κδικας Πoλι τικoς Δικo ν μoας),
+- i Irland: reglene om verneting basert på at stevning ble forkynt for eller meddelt saksøkte under hans midlertidige opphold i Irland,
+- i Island: artikkel 32 nr. 4 i sivilprosessloven (Lög um meðferð einkamála nr. 91/1991),
+- i Italia: artiklene 3 og 4 i lov 218 av 31. mai 1995,
+- i Kypros: paragraf 21 nr. 2 i domstolloven nr. 14 av 1960, med endringer,
+- i Latvia: paragraf 27 og paragraf 28 nr. 3, 5, 6 og 9 i sivilprosessloven (Civilprocesa likums),
+- i Litauen: artikkel 31 i sivilprosessloven (Civilinio proceso kodeksas),
+- i Luxembourg: artiklene 14 og 15 i sivillovboken (Code civil),
+- i Malta: artiklene 742, 743 og 744 i organisasjons- og sivilprosessloven – [kap. 12](lov/2005-06-17-90/kap12) (Kodiċi ta' Organizzazzjoni u Procedura Ċivili – [Kap](lov/2005-06-17-90/kap12). 12) og artikkel 549 i handelsloven – kap. 13 (Kodiċi tal-kummerc – kap. 13),
+- i Norge: Paragraf 4-3 nr. 21 annet punktum i tvisteloven,
+- i Polen: artikkel 1103 nr. 4 i sivilprosessloven (Kodeks postępowania cywilnego),
+- i Portugal: artikkel 65 nr. 1b i sivilprosessloven (Código de Processo Civil) for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolene der filialen, agenturet eller lignende forretningskontor er (hvis beliggende i Portugal) når stevningen ble forkynt for hovedadministrasjonen (hvis beliggende i en annen stat), og artikkel 10 i arbeidsprosessloven (Código de Processo de Trabalho), for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolen der saksøkeren har sitt bosted i saker om individuelle arbeidskontrakter når arbeidstakeren reiser søksmål mot arbeidsgiveren.
+- i Romania: artiklene 148 til 157 i lov nr. 105/1992 om internasjonal privatrettslige forhold,
+- i Slovakia: artiklene 37 til 37e i lov 97/1963 om internasjonal privatrett og tilknyttede prosedyreregler,
+- i Slovenia: artikkel 48 nr. 2 i lov om internasjonal privatrett og rettergang (Zakon o mednarodnem zasebnem pravu i postopku) sammenholdt med artikkel 47 nr. 2 i sivilprosessloven (Zakon o pravdnem postopku) og artikkel 58 i lov om internasjonal privatrett og rettergang (Zakon o mednarodnem zasebnem pravu i postopku) sammenholdt med artikkel 59 i sivilprosessloven (Zakon o pravdnem postopku),
+- i Storbritannia: reglene om verneting basert på:
+
+  1. at stevning ble forkynt for eller meddelt saksøkte under hans midlertidige opphold i Storbritannia, eller
+  2. at saksøkte har eiendeler i Storbritannia; eller
+  3. at namsmyndigheten har tatt beslag i eiendeler i Storbritannia,
+- i Sveits: artikkel 4 i den føderale loven om internasjonal privatrett (Gerichtsstand des Arrestortes/for du lieu du séquestre/foro del luogo del sequestro),
+- i Sverige: kapittel 10 paragraf 3 første ledd første punktum i lov om rettspleie (rättegångsbalken),
+- i Tsjekkia: artikkel 86 i lov 99/1963 Coll., sivilprosessloven (občanský soudní řád), med endringer,
+- i Tyskland: artikkel 23 i sivilprosessloven (Zivilprozessordnung),
+- i Ungarn: artikkel 57 i lovdekret nr. 13 av 1979 om internasjonal privatrett (a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet),
+- i Østerrike: artikkel 99 i lov om domsmyndighet (Jurisdiktionsnorm).
 
 1 Inkurie: Skal være annet ledd.
 
 ### Vedlegg II
 
-Domstol eller kompetent myndighet som mottar begjæring som nevnt i konvensjonen artikkel 39, er som følger:i Belgia: «tribunal de première instance» eller «rechtbank van eerste aanleg» eller «erstinstanzliches Gericht»,i Bulgaria: «Oкрьжнцям cьд»,i Danmark: «byret»,i Estland: «maakohus» (fylkesretten),i Finland: «käräjäoikeus/tingsrätt»,i Frankrike:«greffier en chef du tribunal de grande instance»,«président de la chambre départementale des notaires» med hensyn til en begjæring om en avgjørelse som erklærer et autentisk offentlig bekreftet dokument for tvangskraftig,i Hellas: «Moνoμελες Πρωτoδικεío»,i Irland: «the High Court»,i Island: «héraðsdómur»,i Italia: «corte d'appello»,i Kypros: «Eπαρχιακó Δικαστήριo» eller, for dom på underholdsbidrag, «Oικoγενειακó Δικαστήριo»,i Latvia: «rajona (pilsētas) tiesa»,i Litauen: «Lietuvos apeliacinis teismas»,i Luxembourg: rettsformannen i «tribunal d'arrondissement»,i Malta: «Prim' Awla tal-Qorti Ċivili» eller «Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha», eller, for dom på underholdsbidrag, «Reġistratur tal-Qorti» ved framsending gjennom «Ministru responsabbli ġħall-Ġustizzja»,i Nederland: «voorzieningenrechter van de rechtbank»,i Norge: «tingretten»,i Polen: «sąd okręgowy»,i Portugal: «Tribunal de Comarca»,i Romania: «Tribunal»,i Slovakia: «okresný súd»,i Slovenia: «okrožno sodišče»,i Spania: «Juzgado de Primera Instancia»,i Storbritannia:i England og Wales, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «the Secretary of State»,i Skottland, «the Court of Session» eller, for dom på underholdsbidrag, «the Sheriff Court» ved framsending gjennom «the Scottish Ministers»,i Nord-Irland, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «the Secretary of State»,i Gibraltar, «the Supreme Court of Gibraltar» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «Attorney General of Gibraltar»,i Sveits: «beim kantonalen Vollstreckungsgericht/tribunal cantonal de l'exécution/guidice cantonale dell'esecuzione»i Sverige: «Svea hovrätt»,i Tsjekkia: «okresní soud» eller «soudní exekutor»,i Tyskland:en kammerpresident i «Landgericht»,en notarius publicus med hensyn til å erklære et autentisk offentlig bekreftet dokument for tvangskraftig,i Ungarn: «megyei bíróság székhelyén működő helyi bíróság», og i Budapest «Budai Központi Kerületi Bíróság»,i Østerrike: «Bezirksgericht».
+Domstol eller kompetent myndighet som mottar begjæring som nevnt i konvensjonen artikkel 39, er som følger:
+
+- i Belgia: «tribunal de première instance» eller «rechtbank van eerste aanleg» eller «erstinstanzliches Gericht»,
+- i Bulgaria: «Oкрьжнцям cьд»,
+- i Danmark: «byret»,
+- i Estland: «maakohus» (fylkesretten),
+- i Finland: «käräjäoikeus/tingsrätt»,
+- i Frankrike:
+
+  1. «greffier en chef du tribunal de grande instance»,
+  2. «président de la chambre départementale des notaires» med hensyn til en begjæring om en avgjørelse som erklærer et autentisk offentlig bekreftet dokument for tvangskraftig,
+- i Hellas: «Moνoμελες Πρωτoδικεío»,
+- i Irland: «the High Court»,
+- i Island: «héraðsdómur»,
+- i Italia: «corte d'appello»,
+- i Kypros: «Eπαρχιακó Δικαστήριo» eller, for dom på underholdsbidrag, «Oικoγενειακó Δικαστήριo»,
+- i Latvia: «rajona (pilsētas) tiesa»,
+- i Litauen: «Lietuvos apeliacinis teismas»,
+- i Luxembourg: rettsformannen i «tribunal d'arrondissement»,
+- i Malta: «Prim' Awla tal-Qorti Ċivili» eller «Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha», eller, for dom på underholdsbidrag, «Reġistratur tal-Qorti» ved framsending gjennom «Ministru responsabbli ġħall-Ġustizzja»,
+- i Nederland: «voorzieningenrechter van de rechtbank»,
+- i Norge: «tingretten»,
+- i Polen: «sąd okręgowy»,
+- i Portugal: «Tribunal de Comarca»,
+- i Romania: «Tribunal»,
+- i Slovakia: «okresný súd»,
+- i Slovenia: «okrožno sodišče»,
+- i Spania: «Juzgado de Primera Instancia»,
+- i Storbritannia:
+
+  1. i England og Wales, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «the Secretary of State»,
+  2. i Skottland, «the Court of Session» eller, for dom på underholdsbidrag, «the Sheriff Court» ved framsending gjennom «the Scottish Ministers»,
+  3. i Nord-Irland, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «the Secretary of State»,
+  4. i Gibraltar, «the Supreme Court of Gibraltar» eller, for dom på underholdsbidrag, «the Magistrates' Court» ved framsending gjennom «Attorney General of Gibraltar»,
+- i Sveits: «beim kantonalen Vollstreckungsgericht/tribunal cantonal de l'exécution/guidice cantonale dell'esecuzione»
+- i Sverige: «Svea hovrätt»,
+- i Tsjekkia: «okresní soud» eller «soudní exekutor»,
+- i Tyskland:
+
+  1. en kammerpresident i «Landgericht»,
+  2. en notarius publicus med hensyn til å erklære et autentisk offentlig bekreftet dokument for tvangskraftig,
+- i Ungarn: «megyei bíróság székhelyén működő helyi bíróság», og i Budapest «Budai Központi Kerületi Bíróság»,
+- i Østerrike: «Bezirksgericht».
 
 ### Vedlegg III
 
-Domstoler som innsigelser (appeller) som nevnt i konvensjonens artikkel 43 nr. 2 skal inngis til, er som følger:i Belgia:med hensyn til innsigelse (appell) reist av saksøkte, «tribunal de première instance» eller «rechtbank van eerste aanleg»eller «erstinstanzliche Gericht»,med hensyn til innsigelse (appell) reist av saksøker: the «cour d'appel»eller «hof van beroep»,i Bulgaria: «Aпeлативeн cъд – Coфия»,i Danmark: «landsret»,i Estland: «ringkonnakohus»,i Finland: «hovioikeus/hovrätt»,i Frankrike:«cour d'appel» for avgjørelser der begjæringen tas til følge,rettsformannen i «tribunal de grande instance», for avgjørelser der begjæringen avvises,i Hellas: «Eφετείo »,i Irland: «the High Court»,i Island: «héraðsdómur»,i Italia: «corte d'appello»,i Kypros: «Eπαρχιακó Δικαστήριo» eller, for dom på underholdsbidrag, «Oικoγενειακó Δικαστήριo»,i Latvia: «Apgabaltiesa» via «rajona (pilsētas) tiesa»,i Litauen: «Lietuvos apeliacinis teismas»,i Luxembourg: «Cour supérieure de justice» som appellinstans i sivile saker,i Malta: «Qorti ta' l-Appell» i samsvar med framgangsmåten fastsatt for innsigelser (appeller) i Kodiċi ta' Organizzazzjoni u Proċedura Ċivili – [kap. 12](lov/2005-06-17-90/kap12) eller, for dom på underholdsbidrag, av «ċitazzjoni» for «Prim' Awla tal-Qorti ivili jew il-Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha»,i Nederland: «rechtbank»,i Norge: «lagmannsretten »,i Polen: «sąd apelacyjny» via «sąd okręgowy»,i Portugal: «Tribunal da Relação», er kompetent domstol. Innsigelsen (appellen) framsettes i samsvar med gjeldende nasjonal rett ved anmodning til den domstol som avsa den bestridte avgjørelsen,i Romania: «Curte de Apel»,i Slovakia: Ankedomstolen via distriktsdomstolen som avsa den påankede avgjørelsen,i Slovenia: «okrožno sodišče»,i Spania: den «Juzgado de Primera Instancia» som avsa kjennelsen det er reist innsigelse (appell) mot, til videre behandling i «Audiencia Provincial»,i Storbritannia:i England og Wales, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court»,i Skottland, «the Court of Session» eller, for dom på underholdsbidrag, «the Sheriff Court»,i Nord-Irland, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court»,i Gibraltar, «the Supreme Court of Gibraltar» eller, for dom på underholdsbidrag, «the Magistrates' Court»,i Sveits: «den høyere domstolen i kantonen»,i Sverige: «Svea hovrätt»,i Tsjekkia: ankedomstolen via distriktsdomstolen,i Tyskland: «Oberlandesgericht»,i Ungarn: den lokale domstolen ved fylkesretten (i Budapest, Buda sentrale distriktsdomstol); innsigelsen (appellen) avgjøres av fylkesretten (i Budapest, Hovedretten),i Østerrike: «Landesgericht» via «Bezirksgericht».
+Domstoler som innsigelser (appeller) som nevnt i konvensjonens artikkel 43 nr. 2 skal inngis til, er som følger:
+
+- i Belgia:
+
+  1. med hensyn til innsigelse (appell) reist av saksøkte, «tribunal de première instance» eller «rechtbank van eerste aanleg»eller «erstinstanzliche Gericht»,
+  2. med hensyn til innsigelse (appell) reist av saksøker: the «cour d'appel»eller «hof van beroep»,
+- i Bulgaria: «Aпeлативeн cъд – Coфия»,
+- i Danmark: «landsret»,
+- i Estland: «ringkonnakohus»,
+- i Finland: «hovioikeus/hovrätt»,
+- i Frankrike:
+
+  1. «cour d'appel» for avgjørelser der begjæringen tas til følge,
+  2. rettsformannen i «tribunal de grande instance», for avgjørelser der begjæringen avvises,
+- i Hellas: «Eφετείo »,
+- i Irland: «the High Court»,
+- i Island: «héraðsdómur»,
+- i Italia: «corte d'appello»,
+- i Kypros: «Eπαρχιακó Δικαστήριo» eller, for dom på underholdsbidrag, «Oικoγενειακó Δικαστήριo»,
+- i Latvia: «Apgabaltiesa» via «rajona (pilsētas) tiesa»,
+- i Litauen: «Lietuvos apeliacinis teismas»,
+- i Luxembourg: «Cour supérieure de justice» som appellinstans i sivile saker,
+- i Malta: «Qorti ta' l-Appell» i samsvar med framgangsmåten fastsatt for innsigelser (appeller) i Kodiċi ta' Organizzazzjoni u Proċedura Ċivili – [kap. 12](lov/2005-06-17-90/kap12) eller, for dom på underholdsbidrag, av «ċitazzjoni» for «Prim' Awla tal-Qorti ivili jew il-Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha»,
+- i Nederland: «rechtbank»,
+- i Norge: «lagmannsretten »,
+- i Polen: «sąd apelacyjny» via «sąd okręgowy»,
+- i Portugal: «Tribunal da Relação», er kompetent domstol. Innsigelsen (appellen) framsettes i samsvar med gjeldende nasjonal rett ved anmodning til den domstol som avsa den bestridte avgjørelsen,
+- i Romania: «Curte de Apel»,
+- i Slovakia: Ankedomstolen via distriktsdomstolen som avsa den påankede avgjørelsen,
+- i Slovenia: «okrožno sodišče»,
+- i Spania: den «Juzgado de Primera Instancia» som avsa kjennelsen det er reist innsigelse (appell) mot, til videre behandling i «Audiencia Provincial»,
+- i Storbritannia:
+
+  1. i England og Wales, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court»,
+  2. i Skottland, «the Court of Session» eller, for dom på underholdsbidrag, «the Sheriff Court»,
+  3. i Nord-Irland, «the High Court of Justice» eller, for dom på underholdsbidrag, «the Magistrates' Court»,
+  4. i Gibraltar, «the Supreme Court of Gibraltar» eller, for dom på underholdsbidrag, «the Magistrates' Court»,
+- i Sveits: «den høyere domstolen i kantonen»,
+- i Sverige: «Svea hovrätt»,
+- i Tsjekkia: ankedomstolen via distriktsdomstolen,
+- i Tyskland: «Oberlandesgericht»,
+- i Ungarn: den lokale domstolen ved fylkesretten (i Budapest, Buda sentrale distriktsdomstol); innsigelsen (appellen) avgjøres av fylkesretten (i Budapest, Hovedretten),
+- i Østerrike: «Landesgericht» via «Bezirksgericht».
 
 ### Vedlegg IV
 
-Innsigelser (appeller) som kan reises i henhold til konvensjonens artikkel 44, er som følger:i Belgia: Hellas, Spania, Frankrike, Italia, Luxembourg og i Nederland, ved en kassasjonsappell,i Bulgaria: «oбжαлвαнe прeд Bърxoвния каcациoнeн cъд»i Danmark: ved en innsigelse (appell) til «højesteret», med tillatelse fra «Procesbevillingsnævnet»,i Estland: en «kassatsioonikaebus»,i Finland: ved innsigelse (appell) til «korkein oikeus/högsta domstolen»,i Irland: ved en appell om et rettsspørsmål til høyesterett,i Island: ved innsigelse (appell) til «Hæstiréttur»,i Kypros: ved innsigelse (appell) til høyesterett,i Latvia: ved innsigelse (appell) til «Augstākās tiesas Senāts» via «Apgabaltiesa»,i Litauen: ved innsigelse (appell) til «Lietuvos Aukšèiausiasis Teismas»,i Malta: ingen videre innsigelse (appell) kan fremmes for en annen domstol; for dom på underholdsbidrag, «Qorti ta' l-Appell» i samsvar med framgangsmåten fastsatt for innsigelser (appeller) i «kodiċi ta' Organizzazzjoni u Procedura Ċivili – [kap. 12](lov/2005-06-17-90/kap12)»,i Norge: ved anke til «Høyesterett»,i Polen: «skarga kasacyjna»,i Portugal: ved en innsigelse (appell) om et rettsspørsmål,i Romania: en «contestatie i anulare» eller en «revizuire»,i Slovakia: «dovolanie»,i Slovenia: ved innsigelse (appell) til «Vrhovno sodišče Republike Slovenije»,i Storbritannia: ved en enkelt videre innsigelse (appell) om et rettsspørsmål,i Sveits: en «recours devant le Tribunal fédéral»/«Beschwerde beim Bundesgericht»/«ricorso davanti al Tribunale federale»,i Sverige: ved innsigelse (appell) til «Högsta domstolen»,i Tsjekkia: en «dovolání» og en «žaloba pro zmatečnost»,i Tyskland: en «Rechtsbeschwerde»,i Ungarn: «felülvizsgálati kérelem»,i Østerrike: en «Revisionsrekurs».
+Innsigelser (appeller) som kan reises i henhold til konvensjonens artikkel 44, er som følger:
+
+- i Belgia: Hellas, Spania, Frankrike, Italia, Luxembourg og i Nederland, ved en kassasjonsappell,
+- i Bulgaria: «oбжαлвαнe прeд Bърxoвния каcациoнeн cъд»
+- i Danmark: ved en innsigelse (appell) til «højesteret», med tillatelse fra «Procesbevillingsnævnet»,
+- i Estland: en «kassatsioonikaebus»,
+- i Finland: ved innsigelse (appell) til «korkein oikeus/högsta domstolen»,
+- i Irland: ved en appell om et rettsspørsmål til høyesterett,
+- i Island: ved innsigelse (appell) til «Hæstiréttur»,
+- i Kypros: ved innsigelse (appell) til høyesterett,
+- i Latvia: ved innsigelse (appell) til «Augstākās tiesas Senāts» via «Apgabaltiesa»,
+- i Litauen: ved innsigelse (appell) til «Lietuvos Aukšèiausiasis Teismas»,
+- i Malta: ingen videre innsigelse (appell) kan fremmes for en annen domstol; for dom på underholdsbidrag, «Qorti ta' l-Appell» i samsvar med framgangsmåten fastsatt for innsigelser (appeller) i «kodiċi ta' Organizzazzjoni u Procedura Ċivili – [kap. 12](lov/2005-06-17-90/kap12)»,
+- i Norge: ved anke til «Høyesterett»,
+- i Polen: «skarga kasacyjna»,
+- i Portugal: ved en innsigelse (appell) om et rettsspørsmål,
+- i Romania: en «contestatie i anulare» eller en «revizuire»,
+- i Slovakia: «dovolanie»,
+- i Slovenia: ved innsigelse (appell) til «Vrhovno sodišče Republike Slovenije»,
+- i Storbritannia: ved en enkelt videre innsigelse (appell) om et rettsspørsmål,
+- i Sveits: en «recours devant le Tribunal fédéral»/«Beschwerde beim Bundesgericht»/«ricorso davanti al Tribunale federale»,
+- i Sverige: ved innsigelse (appell) til «Högsta domstolen»,
+- i Tsjekkia: en «dovolání» og en «žaloba pro zmatečnost»,
+- i Tyskland: en «Rechtsbeschwerde»,
+- i Ungarn: «felülvizsgálati kérelem»,
+- i Østerrike: en «Revisionsrekurs».
 
 > Rettet i henhold til meddelelse fra depositaren 16 jan 2009.
 
@@ -3909,7 +4641,20 @@ Underskrift og/eller stempel
 
 ### Vedlegg VII
 
-Konvensjoner som erstattes i henhold til konvensjonen artikkel 65, er særlig følgende:Traktaten mellom Spania og Sveits om gjensidig fullbyrdelse av dommer på sivil- og handelsrettens område, undertegnet i Madrid 19. november 1896,Konvensjonen mellom Den tsjekkoslovakiske republikken og Sveits om anerkjennelse og fullbyrdelse av dommer med tilleggsprotokoll, undertegnet i Bern 21. desember 1926,Konvensjonen mellom Sveits og Det tyske rike om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Bern 2. november 1929,Konvensjon mellom Norge, Danmark, Finland, Island og Sverige om anerkjennelse og fullbyrdelse av dommer, undertegnet i København 16. mars 1932,Konvensjonen mellom Italia og Sveits om anerkjennelse og fullbyrdelse av dommer, undertegnet i Roma 3. januar 1933,Konvensjonen mellom Sverige og Sveits om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Stockholm 15. januar 1936,Konvensjonen mellom Belgia og Sveits om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Bern 29. april 1959,Konvensjonen mellom Østerrike og Sveits om anerkjennelse og fullbyrdelse av dommer, undertegnet i Bern 16. desember 1960,Overenskomst mellom Norge og Storbritannia om gjensidig anerkjennelse og fullbyrdelse av dommer i sivile saker, undertegnet i London 12. juni 1961,Overenskomst mellom Norge og Forbundsrepublikken Tyskland om anerkjennelse og fullbyrding av rettsavgjørelser og andre tvangsgrunnlag i sivile saker og handelssaker undertegnet i Oslo 17. juni 1977,Konvensjonen mellom Norge, Danmark, Finland, Island og Sverige om anerkjennelse og fullbyrding av avgjørelser på privatrettens område, undertegnet i København 11. oktober 1977, ogOverenskomst mellom Norge og Østerrike om anerkjennelse og fullbyrding av rettsavgjørelser i sivile saker, undertegnet i Wien 21. mai 1984.
+Konvensjoner som erstattes i henhold til konvensjonen artikkel 65, er særlig følgende:
+
+- Traktaten mellom Spania og Sveits om gjensidig fullbyrdelse av dommer på sivil- og handelsrettens område, undertegnet i Madrid 19. november 1896,
+- Konvensjonen mellom Den tsjekkoslovakiske republikken og Sveits om anerkjennelse og fullbyrdelse av dommer med tilleggsprotokoll, undertegnet i Bern 21. desember 1926,
+- Konvensjonen mellom Sveits og Det tyske rike om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Bern 2. november 1929,
+- Konvensjon mellom Norge, Danmark, Finland, Island og Sverige om anerkjennelse og fullbyrdelse av dommer, undertegnet i København 16. mars 1932,
+- Konvensjonen mellom Italia og Sveits om anerkjennelse og fullbyrdelse av dommer, undertegnet i Roma 3. januar 1933,
+- Konvensjonen mellom Sverige og Sveits om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Stockholm 15. januar 1936,
+- Konvensjonen mellom Belgia og Sveits om anerkjennelse og fullbyrdelse av dommer og voldgiftsavgjørelser, undertegnet i Bern 29. april 1959,
+- Konvensjonen mellom Østerrike og Sveits om anerkjennelse og fullbyrdelse av dommer, undertegnet i Bern 16. desember 1960,
+- Overenskomst mellom Norge og Storbritannia om gjensidig anerkjennelse og fullbyrdelse av dommer i sivile saker, undertegnet i London 12. juni 1961,
+- Overenskomst mellom Norge og Forbundsrepublikken Tyskland om anerkjennelse og fullbyrding av rettsavgjørelser og andre tvangsgrunnlag i sivile saker og handelssaker undertegnet i Oslo 17. juni 1977,
+- Konvensjonen mellom Norge, Danmark, Finland, Island og Sverige om anerkjennelse og fullbyrding av avgjørelser på privatrettens område, undertegnet i København 11. oktober 1977, og
+- Overenskomst mellom Norge og Østerrike om anerkjennelse og fullbyrding av rettsavgjørelser i sivile saker, undertegnet i Wien 21. mai 1984.
 
 ### Vedlegg VIII
 
@@ -3917,4 +4662,13 @@ Språkene omhandlet i konvensjonens artikkel 79 er bulgarsk, dansk, engelsk, est
 
 ### Vedlegg IX
 
-De stater og regler som er nevnt i protokoll 1 artikkel II, er som følger:Estland: artikkel 214 nr. 3 og nr. 4 og artikkel 216 i sivilprosessloven (tsiviilkohtumenetluse seadustik) om prosessunderretning,Latvia: artikkel 78, 79, 80 og 81 i sivilprosessloven (Civilprocesa likums) om prosessunderretning,Litauen: artikkel 47 i sivilprosessloven (Civilinio proceso kodeksas),Polen: artikkel 84 og 85 i sivilprosessloven (Kodeks postępowania cywilnego om prosessunderretning /(przypozwanie),Slovenia: artikkel 204 i sivilprosessloven (Zakon o pravdnem postopku) om prosessunderretning,Tyskland: artikkel 68, 72, 73 og 74 i sivilprosessloven (Zivilprozessordnung) om prosessunderretning,Ungarn: artikkel 58 til 60 i sivilprosessloven (Polgári perrendtartás) om prosessunderretning,Østerrike: artikkel 21 i sivilprosessloven (Zivilprozessordnung) om prosessunderretning.
+De stater og regler som er nevnt i protokoll 1 artikkel II, er som følger:
+
+- Estland: artikkel 214 nr. 3 og nr. 4 og artikkel 216 i sivilprosessloven (tsiviilkohtumenetluse seadustik) om prosessunderretning,
+- Latvia: artikkel 78, 79, 80 og 81 i sivilprosessloven (Civilprocesa likums) om prosessunderretning,
+- Litauen: artikkel 47 i sivilprosessloven (Civilinio proceso kodeksas),
+- Polen: artikkel 84 og 85 i sivilprosessloven (Kodeks postępowania cywilnego om prosessunderretning /(przypozwanie),
+- Slovenia: artikkel 204 i sivilprosessloven (Zakon o pravdnem postopku) om prosessunderretning,
+- Tyskland: artikkel 68, 72, 73 og 74 i sivilprosessloven (Zivilprozessordnung) om prosessunderretning,
+- Ungarn: artikkel 58 til 60 i sivilprosessloven (Polgári perrendtartás) om prosessunderretning,
+- Østerrike: artikkel 21 i sivilprosessloven (Zivilprozessordnung) om prosessunderretning.

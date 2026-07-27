@@ -77,7 +77,13 @@ NTNUs styre kan regulere adgangen til studieprogram eller enkeltemner ved å fas
 
 ### § 8. Rangering basert på karakterer
 
-(1) Når et lokalt opptak ved NTNU bruker gjennomsnittet av bokstavkarakterene for to eller flere emner som rangeringskriterium, skal det regnes ut på følgende måte:Hver bokstavkarakter erstattes av en tallekvivalent, A = 5, B = 4, C = 3, D = 2, E = 1.Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.Kvotienten regnes ut som en desimal.Gjennomsnittskarakteren blir den bokstavkarakter som har heltallet i kvotienten som tall-ekvivalent, etter at vanlig forhøyningsregel er brukt.
+(1) Når et lokalt opptak ved NTNU bruker gjennomsnittet av bokstavkarakterene for to eller flere emner som rangeringskriterium, skal det regnes ut på følgende måte:
+
+1. Hver bokstavkarakter erstattes av en tallekvivalent, A = 5, B = 4, C = 3, D = 2, E = 1.
+2. Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.
+3. Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.
+4. Kvotienten regnes ut som en desimal.
+5. Gjennomsnittskarakteren blir den bokstavkarakter som har heltallet i kvotienten som tall-ekvivalent, etter at vanlig forhøyningsregel er brukt.
 
 (2) Dersom det er nødvendig for å skille søkerne til opptaket, kan utregnet tallekvivalent med én desimal brukes som rangeringskriterium.
 
@@ -137,7 +143,12 @@ Rektor kan i særskilte tilfeller gjøre unntak fra kravet om generell studiekom
 
 (1) Frist for tidlig opptak fastsettes av rektor. Tidlig opptak kan gis til søkere som på søknadstidspunktet fyller opptakskravene. For å få tidlig opptak til et studium der det var poenggrenser ved forrige opptak, må søker ha en poengsum som ville vært i øvre halvdel blant søkerne som ble tatt opp til studiet da.
 
-(2) For å få tidlig opptak må søkeren ha dokumentert vektige grunner. Som vektig grunn regnes for eksempellang oppsigelsestid fra jobbbarn som har behov for skifte av skole/barnehage på grunn av flytting til studiestedetbehov for tilrettelegging på studiestedet som tar lang tidbosted utenfor EU/EØS-området og søknad om oppholdstillatelse i god tid.
+(2) For å få tidlig opptak må søkeren ha dokumentert vektige grunner. Som vektig grunn regnes for eksempel
+
+- lang oppsigelsestid fra jobb
+- barn som har behov for skifte av skole/barnehage på grunn av flytting til studiestedet
+- behov for tilrettelegging på studiestedet som tar lang tid
+- bosted utenfor EU/EØS-området og søknad om oppholdstillatelse i god tid.
 
 ### § 17. Betinget tilbud – studier på høyere grads nivå
 
@@ -173,11 +184,18 @@ Opptakskrav for studieprogram framgår av studieprogrammets studieplan. Forkunns
 
 (1) NTNUs styre fastsetter hvor mange plasser på adgangsregulerte emner som skal tilbys studenter som er tatt opp til studier ved NTNU.
 
-(2) Ved opptak til adgangsregulerte emner vurderes søkerne etter følgende prioriteringer:De som har emnet som obligatorisk del av studieprogrammet. Studentene må melde seg til undervisning innen de frister/regler som er fastsatt.De som har emnet som valgfri del av sitt studieprogram. Studentene må melde seg til undervisning innen de frister/regler som er fastsatt.Alle andre studenter som har søkt om opptak til emnet.
+(2) Ved opptak til adgangsregulerte emner vurderes søkerne etter følgende prioriteringer:
+
+1. De som har emnet som obligatorisk del av studieprogrammet. Studentene må melde seg til undervisning innen de frister/regler som er fastsatt.
+2. De som har emnet som valgfri del av sitt studieprogram. Studentene må melde seg til undervisning innen de frister/regler som er fastsatt.
+3. Alle andre studenter som har søkt om opptak til emnet.
 
 ### § 23. Rangering ved opptak til adgangsregulerte emner
 
-Studenter som allerede er tatt opp til studier ved NTNU, rangeres for opptak til adgangsregulerte emner etter disse rangeringsreglene i prioritert rekkefølge:Gjennomsnittskarakter for alle emner avlagt ved NTNU.Alder, med den eldste først, spesifisert etter fødselsdato.
+Studenter som allerede er tatt opp til studier ved NTNU, rangeres for opptak til adgangsregulerte emner etter disse rangeringsreglene i prioritert rekkefølge:
+
+1. Gjennomsnittskarakter for alle emner avlagt ved NTNU.
+2. Alder, med den eldste først, spesifisert etter fødselsdato.
 
 ### § 24. Opptak til studieretninger
 
@@ -189,7 +207,17 @@ Studenter som allerede er tatt opp til studier ved NTNU, rangeres for opptak til
 
 ### § 25. Opptak og rangering til 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag
 
-(1) For å være kvalifisert for forkurs må en av følgende fagkombinasjoner være oppfylt:Avlagt og bestått fag- eller svenneprøve. Alle fag-/svennebrev er likestilt uansett hvordan det er oppnådd og lengden på opplæringen i skolen.Bestått Vg1 og Vg2 yrkesfag i norsk/nordisk videregående opplæring.Realkompetanse. For å få godkjent realkompetanse må søkeren oppfylle følgende vilkår:søker må fylle 18 år eller mer i søknadsåretsøker må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole.Søkere fra land utenfor Norden må i tillegg normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).Generell studiekompetanse.
+(1) For å være kvalifisert for forkurs må en av følgende fagkombinasjoner være oppfylt:
+
+1. Avlagt og bestått fag- eller svenneprøve. Alle fag-/svennebrev er likestilt uansett hvordan det er oppnådd og lengden på opplæringen i skolen.
+2. Bestått Vg1 og Vg2 yrkesfag i norsk/nordisk videregående opplæring.
+3. Realkompetanse. For å få godkjent realkompetanse må søkeren oppfylle følgende vilkår:
+
+   - søker må fylle 18 år eller mer i søknadsåret
+   - søker må dokumentere minst 5 års fulltids arbeidspraksis og/eller utdanning på nivå over grunnskole.
+
+   Søkere fra land utenfor Norden må i tillegg normalt dokumentere kunnskaper i norsk og engelsk tilsvarende kravene for generell studiekompetanse, jf. [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
+4. Generell studiekompetanse.
 
 (2) Søkere i gruppe 1 og 2 beregnes etter karakterpoeng fra Vg1 og Vg2. Kvalifiserte søkere som ikke kan poengberegnes, rangeres etter en skjønnsmessig vurdering.
 
@@ -211,7 +239,10 @@ Studenter som allerede er tatt opp til studier ved NTNU, rangeres for opptak til
 
 ### § 27. Opptak og rangering til treterminordningen for ingeniørutdanning (TRES)
 
-(1) For å være kvalifisert for TRES må én av følgende kravkombinasjoner være oppfylt:generell studiekompetansefullført og bestått 2-årig teknisk fagskole (rammeplan av 1998/99 eller tidligere ordninger) eller nyere godkjent teknisk fagskole etter [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28).
+(1) For å være kvalifisert for TRES må én av følgende kravkombinasjoner være oppfylt:
+
+1. generell studiekompetanse
+2. fullført og bestått 2-årig teknisk fagskole (rammeplan av 1998/99 eller tidligere ordninger) eller nyere godkjent teknisk fagskole etter [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28).
 
 (2) Ved opptak til TRES rangeres søkerne etter bestemmelsene gitt i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
 
@@ -223,7 +254,10 @@ Studenter som allerede er tatt opp til studier ved NTNU, rangeres for opptak til
 
 (1) Søkere må dokumentere yrkesfaglig utdanning, relevant fagbrev og minst 12 måneders relevant praksis. Læretid i bedrift på minimum 12 måneder vil oppfylle kravet til praksis, forutsatt at den er relevant.
 
-(2) Ved opptak til spesielt tilrettelagte studieprogram med grunnlag i fag-/svennebrev, rangeres søkere først etter karakterpoeng fra VG1 og VG 2. Videre gis det følgende tilleggspoeng:Det gis 3 tilleggspoeng for «meget godt» på fag-/svennebrev.Ved fortsatt poenglikhet rangeres søkerne etter alder, med den eldste først, spesifisert etter fødselsdato.
+(2) Ved opptak til spesielt tilrettelagte studieprogram med grunnlag i fag-/svennebrev, rangeres søkere først etter karakterpoeng fra VG1 og VG 2. Videre gis det følgende tilleggspoeng:
+
+- Det gis 3 tilleggspoeng for «meget godt» på fag-/svennebrev.
+- Ved fortsatt poenglikhet rangeres søkerne etter alder, med den eldste først, spesifisert etter fødselsdato.
 
 (3) Det gis tilleggspoeng for underrepresentert kjønn i samsvar med det som er fastsatt ved ordinært opptak.
 
@@ -241,7 +275,11 @@ For opptak og rangering til grunnutdanninger gjelder bestemmelsene gitt i [forsk
 
 (3) For videreutdanning som ikke er regulert av nasjonal rammeplan, gjelder de krav som er fastsatt for opptak i studieplanen eller emnebeskrivelsen.
 
-(4) Dersom det er flere søkere enn antall studieplasser, rangeres søkerne innbyrdes etter oppnådde konkurransepoeng. Konkurransepoeng er summen av:Poeng for minstekravsutdanning – karakterpoeng. Karakterpoeng gis ut fra en vektet gjennomsnittskarakter i henhold til [§ 8](forskrift/2025-03-06-376/§8). Gjennomsnittskarakteren skal multipliseres med 10.Poeng for høyere utdanning utover minstekravet – utdanningspoeng. Det gis 1 tilleggspoeng per 60 studiepoeng for fullført og bestått utdanning utover minstekravet for opptak. Det gis 0,5 tilleggspoeng for fullført og bestått utdanning av 30 studiepoengs omfang. Det gis 0,25 tilleggspoeng for fullført og bestått utdanning av 15 studiepoengs omfang. Det gis inntil 3 poeng for slik utdanning utover minstekravet.Poeng for praksis utover minstekravet – praksispoeng. Det gis 1 tilleggspoeng per år for inntil 5 års relevant yrkespraksis etter fullført og bestått høyere utdanning utover minstekravet for opptak. Deltidsarbeid gjøres om til andel av heltid.
+(4) Dersom det er flere søkere enn antall studieplasser, rangeres søkerne innbyrdes etter oppnådde konkurransepoeng. Konkurransepoeng er summen av:
+
+1. Poeng for minstekravsutdanning – karakterpoeng. Karakterpoeng gis ut fra en vektet gjennomsnittskarakter i henhold til [§ 8](forskrift/2025-03-06-376/§8). Gjennomsnittskarakteren skal multipliseres med 10.
+2. Poeng for høyere utdanning utover minstekravet – utdanningspoeng. Det gis 1 tilleggspoeng per 60 studiepoeng for fullført og bestått utdanning utover minstekravet for opptak. Det gis 0,5 tilleggspoeng for fullført og bestått utdanning av 30 studiepoengs omfang. Det gis 0,25 tilleggspoeng for fullført og bestått utdanning av 15 studiepoengs omfang. Det gis inntil 3 poeng for slik utdanning utover minstekravet.
+3. Poeng for praksis utover minstekravet – praksispoeng. Det gis 1 tilleggspoeng per år for inntil 5 års relevant yrkespraksis etter fullført og bestått høyere utdanning utover minstekravet for opptak. Deltidsarbeid gjøres om til andel av heltid.
 
 (5) Når flere søkere har lik poengsum, avgjøres rekkefølgen ved alder, med den eldste først, spesifisert etter fødselsdato.
 
@@ -255,13 +293,28 @@ For opptak og rangering til grunnutdanninger gjelder bestemmelsene gitt i [forsk
 
 ### § 32. Opptakskrav til masterprogram som bygger på fullført lavere grad
 
-(1) For opptak til mastergrad av 120 studiepoengs omfang må et av følgende utdanningsløp være fullført eller bestått:bachelorgrad (minimum 180 studiepoeng)cand.mag.-gradannen grad eller yrkesutdanning av minimum 3 års omfangutdanning som i henhold til [§ 9-4 i universitets- og høyskoleloven](lov/2024-03-08-9/§9-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+(1) For opptak til mastergrad av 120 studiepoengs omfang må et av følgende utdanningsløp være fullført eller bestått:
 
-(2) Innenfor grunnlaget for opptak må det inngå:fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang innenfor fagområdet for mastergraden ellerintegrert yrkesrettet utdanning av minimum 120 studiepoengs omfang innenfor fagområdet for mastergraden.
+- bachelorgrad (minimum 180 studiepoeng)
+- cand.mag.-grad
+- annen grad eller yrkesutdanning av minimum 3 års omfang
+- utdanning som i henhold til [§ 9-4 i universitets- og høyskoleloven](lov/2024-03-08-9/§9-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+
+(2) Innenfor grunnlaget for opptak må det inngå:
+
+- fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang innenfor fagområdet for mastergraden eller
+- integrert yrkesrettet utdanning av minimum 120 studiepoengs omfang innenfor fagområdet for mastergraden.
 
 (3) Øvrige opptakskrav fastsatt i studieplanen for masterprogrammet må være oppfylt.
 
-(4) For opptak til erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang må et av følgende utdanningsløp være fullført og bestått:bachelorgrad (minimum 180 studiepoeng)cand.mag.-gradannen grad eller yrkesutdanning av minimum 3 års omfangutdanning som i henhold til [§ 9-4 i lov om universiteter og høyskoler](lov/2024-03-08-9/§9-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.I tillegg kreves minst 2 års relevant yrkespraksis.
+(4) For opptak til erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang må et av følgende utdanningsløp være fullført og bestått:
+
+- bachelorgrad (minimum 180 studiepoeng)
+- cand.mag.-grad
+- annen grad eller yrkesutdanning av minimum 3 års omfang
+- utdanning som i henhold til [§ 9-4 i lov om universiteter og høyskoler](lov/2024-03-08-9/§9-4) er godkjent som jevngod med ovennevnte grader eller utdanningsløp.
+
+I tillegg kreves minst 2 års relevant yrkespraksis.
 
 (5) Rektor kan i spesielle tilfeller godkjenne andre dokumenterte kvalifikasjoner som er helt eller delvis likeverdig med utdanningsløpene nevnt ovenfor.
 
@@ -271,7 +324,10 @@ For opptak og rangering til grunnutdanninger gjelder bestemmelsene gitt i [forsk
 
 ### § 33. Rangering til adgangsregulerte masterprogram som bygger på fullført lavere grad
 
-(1) De kvalifiserte søkerne rangeres etter følgende kriterier:Vektet gjennomsnittskarakter av alle emnene som inngår i bachelorgraden eller tilsvarende, jf. [§ 8](forskrift/2025-03-06-376/§8).Alder, med den eldste først, spesifisert etter fødselsdato.
+(1) De kvalifiserte søkerne rangeres etter følgende kriterier:
+
+1. Vektet gjennomsnittskarakter av alle emnene som inngår i bachelorgraden eller tilsvarende, jf. [§ 8](forskrift/2025-03-06-376/§8).
+2. Alder, med den eldste først, spesifisert etter fødselsdato.
 
 (2) Dersom søker har utdanning i tillegg til bachelorgraden, og hvor både bachelorgrad og tilleggsutdanning samlet gjør søker kvalifisert for studiet, benyttes både bachelorgrad og tilleggsutdanning ved rangering.
 
@@ -305,13 +361,23 @@ Eksterne søkere må dokumentere mastergrad eller tilsvarende, eller bekrefte op
 
 ### § 38. Opptakskrav til praktisk-pedagogisk utdanning (PPU), heltid
 
-(1) Opptakskravene er utarbeidet i henhold til [forskrift 21. desember 2015 nr 1771 om rammeplan for praktisk pedagogisk utdanning](forskrift/2015-12-21-1771) (PPU). For opptak til PPU heltid kreves:en mastergrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, eller en bachelorgrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, i eller i tillegg til graden, og minst to års relevant arbeidserfaring fra grunnskolen eller den videregående skolen, elleren bachelorgrad i utøvende eller skapende kunstfag med minimum 180 studiepoeng i kunstfaget, elleren bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskolen, hvorav minimum 60 studiepoeng er relevant for et skolefag som utdanningen tilbyr fagdidaktikk i. Krav til oppbygging av bachelorgraden: ett av fagene kan erstattes av drama/teaterfag. Det må inngå fordypning på minst 120 studiepoeng i ett fag. Øvrige fag må ha et omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden.
+(1) Opptakskravene er utarbeidet i henhold til [forskrift 21. desember 2015 nr 1771 om rammeplan for praktisk pedagogisk utdanning](forskrift/2015-12-21-1771) (PPU). For opptak til PPU heltid kreves:
+
+- en mastergrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, eller en bachelorgrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, i eller i tillegg til graden, og minst to års relevant arbeidserfaring fra grunnskolen eller den videregående skolen, eller
+- en bachelorgrad i utøvende eller skapende kunstfag med minimum 180 studiepoeng i kunstfaget, eller
+- en bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskolen, hvorav minimum 60 studiepoeng er relevant for et skolefag som utdanningen tilbyr fagdidaktikk i. Krav til oppbygging av bachelorgraden: ett av fagene kan erstattes av drama/teaterfag. Det må inngå fordypning på minst 120 studiepoeng i ett fag. Øvrige fag må ha et omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden.
 
 (2) Det kan gis opptak til PPU for søker som har en bachelorgrad i praktiske og estetiske fag etter første avsnitt, tredje strekpunkt, fram til og med våren 2029.
 
 ### § 39. Rangering av søkere til praktisk-pedagogisk utdanning, heltid
 
-Ved opptak til PPU heltid skal kvalifiserte søkere rangeres (i prioritert rekkefølge) etter følgende kriterier innenfor kvoten i hvert skolefag jf. [§ 38](forskrift/2025-03-06-376/§38).Søkere med ph.d.-grad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.Søkere med mastergrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.Søkere med bachelorgrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag (gjelder kun for opptak til skolefag med unntak fra krav om mastergrad, jf. [§ 38](forskrift/2025-03-06-376/§38)).Søkere som er rangert likt med grad og antall skolefag, rangeres deretter ut ifra avlagte studiepoeng inklusive eksamen i søknadssemesteret hvor sensur ikke har falt ved opptak.Søkere som er rangert likt med grad, antall skolefag og studiepoeng, rangeres deretter ut ifra en totalvurdering hvor antall studiepoeng i skolefaget og karakterer i skolefaget er avgjørende.
+Ved opptak til PPU heltid skal kvalifiserte søkere rangeres (i prioritert rekkefølge) etter følgende kriterier innenfor kvoten i hvert skolefag jf. [§ 38](forskrift/2025-03-06-376/§38).
+
+1. Søkere med ph.d.-grad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.
+2. Søkere med mastergrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.
+3. Søkere med bachelorgrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag (gjelder kun for opptak til skolefag med unntak fra krav om mastergrad, jf. [§ 38](forskrift/2025-03-06-376/§38)).
+4. Søkere som er rangert likt med grad og antall skolefag, rangeres deretter ut ifra avlagte studiepoeng inklusive eksamen i søknadssemesteret hvor sensur ikke har falt ved opptak.
+5. Søkere som er rangert likt med grad, antall skolefag og studiepoeng, rangeres deretter ut ifra en totalvurdering hvor antall studiepoeng i skolefaget og karakterer i skolefaget er avgjørende.
 
 ### § 40. Opptakskrav for søkere til fleksibel praktisk-pedagogisk utdanning (FPPU), deltid med allmennfaglig utdanningsbakgrunn
 
@@ -319,23 +385,41 @@ For opptak til fleksibel praktisk-pedagogisk utdanning (FPPU) gjelder de samme o
 
 ### § 41. Rangering av søkere til fleksibel praktisk-pedagogisk utdanning (FPPU), deltid med allmennfaglig utdanningsbakgrunn
 
-Ved opptak til FPPU deltid skal kvalifiserte søkere rangeres (i prioritert rekkefølge) etter følgende kriterier innenfor kvoten i hvert skolefag:Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis.Søkere med ph.d.-grad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.Søkere med mastergrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.Søkere med bachelorgrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag (gjelder kun for opptak til skolefag med unntak fra krav om mastergrad jf. [§ 40](forskrift/2025-03-06-376/§40)).Søkere som er rangert likt med grad og antall skolefag, rangeres deretter ut ifra avlagte studiepoeng inklusive eksamen i søknadssemesteret hvor sensur ikke har falt ved opptak.Søkere som er rangert likt med grad, antall skolefag og studiepoeng, rangeres deretter ut ifra en totalvurdering hvor antall studiepoeng i skolefaget og karakterer i skolefaget er avgjørende.
+Ved opptak til FPPU deltid skal kvalifiserte søkere rangeres (i prioritert rekkefølge) etter følgende kriterier innenfor kvoten i hvert skolefag:
+
+1. Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis.
+2. Søkere med ph.d.-grad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.
+3. Søkere med mastergrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag.
+4. Søkere med bachelorgrad, hvor søkere med flere skolefag rangeres foran søkere med færre skolefag (gjelder kun for opptak til skolefag med unntak fra krav om mastergrad jf. [§ 40](forskrift/2025-03-06-376/§40)).
+5. Søkere som er rangert likt med grad og antall skolefag, rangeres deretter ut ifra avlagte studiepoeng inklusive eksamen i søknadssemesteret hvor sensur ikke har falt ved opptak.
+6. Søkere som er rangert likt med grad, antall skolefag og studiepoeng, rangeres deretter ut ifra en totalvurdering hvor antall studiepoeng i skolefaget og karakterer i skolefaget er avgjørende.
 
 ### § 42. Opptak til fleksibel praktisk-pedagogisk utdanning (FPPU), deltid med yrkesfaglig utdanningsbakgrunn
 
-(1) Opptakskravene er utarbeidet i henhold til [forskrift 18. mars 2013 nr. 289 om rammeplan for praktisk-pedagogisk utdanning for yrkesfag for trinn 8-13](forskrift/2013-03-18-289). For opptak til FPPU deltid for yrkesfag kreves:fullført treårig relevant profesjonsrettet bachelorgrad og minimum to års relevant yrkespraksis ellerfag-/svennebrev eller annen fullført treårig yrkesutdanning på videregående nivå, generell studiekompetanse, to års relevant yrkesteoretisk utdanning utover videregående opplærings nivå og fire års yrkespraksis.
+(1) Opptakskravene er utarbeidet i henhold til [forskrift 18. mars 2013 nr. 289 om rammeplan for praktisk-pedagogisk utdanning for yrkesfag for trinn 8-13](forskrift/2013-03-18-289). For opptak til FPPU deltid for yrkesfag kreves:
+
+- fullført treårig relevant profesjonsrettet bachelorgrad og minimum to års relevant yrkespraksis eller
+- fag-/svennebrev eller annen fullført treårig yrkesutdanning på videregående nivå, generell studiekompetanse, to års relevant yrkesteoretisk utdanning utover videregående opplærings nivå og fire års yrkespraksis.
 
 (2) I de tilfeller der det kreves autorisasjon for å praktisere i yrket, må søker også ha autorisasjon for å få opptak til fleksibel praktisk-pedagogisk utdanning for yrkesfag.
 
 ### § 43. Rangering av søkere til fleksibel praktisk pedagogisk utdanning (FPPU), deltid med yrkesfaglig utdanningsbakgrunn
 
-Søkere til FPPU deltid for yrkesfag rangeres i opptaket etter følgende kriterier i prioritert rekkefølge:Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringslova](lov/2023-06-09-30).Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.Antall måneder fagpraksis etter endt fagutdanning.
+Søkere til FPPU deltid for yrkesfag rangeres i opptaket etter følgende kriterier i prioritert rekkefølge:
+
+1. Søkere med dokumentert tilsetting på vilkår i henhold til bestemmelser om dette i [opplæringslova](lov/2023-06-09-30).
+2. Søkere med dokumentasjon på tilsettingsforhold i undervisningsstilling i skolen innenfor de tre siste årene. Søkerne rangeres etter antall måneder relevant undervisningspraksis etter endt fagutdanning.
+3. Antall måneder fagpraksis etter endt fagutdanning.
 
 ## Kapittel 4. Intern overgang mellom grunnutdanninger
 
 ### § 44. Overgang mellom grunnutdanninger
 
-(1) Rektor fastsetter, i samråd med fakultetene, hvilke studieprogram det skal kunne søkes intern overgang til for studenter som er tildelt studierett til et studieprogram innenfor grunnutdanning ved NTNU. Studenter som søker overgang til flere studieprogram, må prioritere søknadene. Rektor kan innvilge søknaden dersomstudenten har fått studierett ved NTNU gjennom ordinært opptak og semesterregistrert seg på det studieprogrammet han/hun ble tatt opp tildet er ledige plasser til å ta opp flere i studieprogrammet totalt, eventuelt avgrenset til det årskurset studenten har søkt overgang tilstudenten fyller opptakskravet (kvalifikasjonskravet) til studieprogrammet.
+(1) Rektor fastsetter, i samråd med fakultetene, hvilke studieprogram det skal kunne søkes intern overgang til for studenter som er tildelt studierett til et studieprogram innenfor grunnutdanning ved NTNU. Studenter som søker overgang til flere studieprogram, må prioritere søknadene. Rektor kan innvilge søknaden dersom
+
+- studenten har fått studierett ved NTNU gjennom ordinært opptak og semesterregistrert seg på det studieprogrammet han/hun ble tatt opp til
+- det er ledige plasser til å ta opp flere i studieprogrammet totalt, eventuelt avgrenset til det årskurset studenten har søkt overgang til
+- studenten fyller opptakskravet (kvalifikasjonskravet) til studieprogrammet.
 
 (2) Rektor fastsetter frist for å søke om overgang. Fakultetet kan ut fra faglige hensyn bestemme at det bare er fram til et visst nivå i studieprogrammet det er anledning til å komme inn i studieløpet fra et annet studieprogram.
 
@@ -349,7 +433,11 @@ Søkere til FPPU deltid for yrkesfag rangeres i opptaket etter følgende kriteri
 
 ### § 45. Overgang til 5-årig master i teknologi
 
-For å kvalifisere for søknad om overgang til 5-årig master i teknologi, gjelder følgende krav:søker må være tatt opp til et studieprogram innenfor 5-årig master i teknologi ogsøker må kunne plasseres i 2. årskurs eller høyere ogsøker må fylle konkurransepoenggrensen i ordinær kvote eller kvote for førstegangsvitnemål ved siste års opptak.
+For å kvalifisere for søknad om overgang til 5-årig master i teknologi, gjelder følgende krav:
+
+- søker må være tatt opp til et studieprogram innenfor 5-årig master i teknologi og
+- søker må kunne plasseres i 2. årskurs eller høyere og
+- søker må fylle konkurransepoenggrensen i ordinær kvote eller kvote for førstegangsvitnemål ved siste års opptak.
 
 ### § 46. Overgang til 5-årig master (lektorutdanning)
 
@@ -369,13 +457,30 @@ For å kvalifisere for søknad om overgang til et 3-årig ingeniørprogram må s
 
 ### § 49. Opptak til trinndelte norskkurs
 
-(1) SøkergrupperVitenskapelig ansatte (inkludert ph.d.-er og postdoktorer)Fast teknisk-administrativt ansatteEktefeller / samboere / registrerte partnere av fast vitenskapelig ansatte (heretter kalt «partnere»)UtvekslingsstudenterInternasjonale masterstudenterEksterne søkere.
+(1) Søkergrupper
 
-(2) OpptakskravAlle søkere må fylle kravene til generell studiekompetanse jf. [§ 2-1](forskrift/2017-01-06-13/§2-1) [(1)](forskrift/2025-03-06-376/§1) i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13), med unntak av norskkravet. Alle søkere må ha oppholdstillatelse som er gyldig ut semesteret kurset går.Søkere i søkergruppe 1, 2 og 3, dvs. ansatte ved NTNU og partnere av fast vitenskapelig ansatte, må legge ved bekreftelse på at institutt eller annen enhet på NTNU vil dekke kostnaden for kursplassen.Søkere som ikke kan dokumentere tilstrekkelige norskkunnskaper for opptak til trinn 2 og 3, må ta NTNUs innplasseringstest til videregående norskkurs. Forkunnskapskravene til de enkelte trinnene fastsettes av Det humanistiske fakultet.
+1. Vitenskapelig ansatte (inkludert ph.d.-er og postdoktorer)
+2. Fast teknisk-administrativt ansatte
+3. Ektefeller / samboere / registrerte partnere av fast vitenskapelig ansatte (heretter kalt «partnere»)
+4. Utvekslingsstudenter
+5. Internasjonale masterstudenter
+6. Eksterne søkere.
+
+(2) Opptakskrav
+
+- Alle søkere må fylle kravene til generell studiekompetanse jf. [§ 2-1](forskrift/2017-01-06-13/§2-1) [(1)](forskrift/2025-03-06-376/§1) i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13), med unntak av norskkravet. Alle søkere må ha oppholdstillatelse som er gyldig ut semesteret kurset går.
+- Søkere i søkergruppe 1, 2 og 3, dvs. ansatte ved NTNU og partnere av fast vitenskapelig ansatte, må legge ved bekreftelse på at institutt eller annen enhet på NTNU vil dekke kostnaden for kursplassen.
+- Søkere som ikke kan dokumentere tilstrekkelige norskkunnskaper for opptak til trinn 2 og 3, må ta NTNUs innplasseringstest til videregående norskkurs. Forkunnskapskravene til de enkelte trinnene fastsettes av Det humanistiske fakultet.
 
 ### § 50. Rangering og prioritering av søkere til trinndelte norskkurs
 
-(1) Søkere prioriteres og rangeres på følgende måte for trinn 1 til 3:Vitenskapelig ansatte med dokumentert finansiering fra institutt eller annen enhet på NTNU er garantert plass.Fast teknisk-administrativt ansatte med dokumentert finansiering tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.Partnere av fast vitenskapelig ansatte med dokumentert finansiering tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.Internasjonale masterstudenter tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.Eksterne søkere tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.
+(1) Søkere prioriteres og rangeres på følgende måte for trinn 1 til 3:
+
+1. Vitenskapelig ansatte med dokumentert finansiering fra institutt eller annen enhet på NTNU er garantert plass.
+2. Fast teknisk-administrativt ansatte med dokumentert finansiering tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.
+3. Partnere av fast vitenskapelig ansatte med dokumentert finansiering tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.
+4. Internasjonale masterstudenter tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.
+5. Eksterne søkere tilbys plass såframt det er ledige plasser. Rangering skjer ved loddtrekning.
 
 (2) Rangering til trinn 4: Søkergruppe 1 prioriteres. Øvrige søkere har lik prioritet. Søkerne rangeres etter karakter på trinn 3. Søkere med direkte innplassering til trinn 4, som dokumenterer kunnskap i norsk med språkprøver jf. [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13), rangeres etter resultat. Ved karakterlikhet foretas loddtrekning.
 

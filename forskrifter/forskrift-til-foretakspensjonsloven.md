@@ -15,7 +15,7 @@ xml_hash: "2a3e8ae3a2a20abacd53adddbc5f6f3c27eead49a1e0aa3217cfd5355dd20101"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,7 +142,13 @@ eu_basis: []
 
 (1) Arbeidstakere skal unntas fra medlemskap i en foretakspensjonsordning dersom de er medlemmer av en kollektiv pensjonsordning utenfor foretakspensjonsloven, som foretaket betaler premie eller avgift til og som gir ytelser av minst tilsvarende verdi. Foretakets adgang til å ha parallelle pensjonsordninger reguleres av [foretakspensjonsloven § 2-9](lov/2000-03-24-16/§2-9) flg.
 
-(2) Med kollektiv pensjonsordning utenfor foretakspensjonsloven menes:Pensjonsordning i Statens Pensjonskasse,Andre lovbestemte pensjonsordninger,Kommunale pensjonsordninger som omfattes av [lov 10. juni 2005 nr. 44](lov/2005-06-10-44) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. [kapittel 10](lov/2005-06-10-44/kap10),Annen offentlig pensjonsordning i pensjonskasse eller livsforsikringsselskap hvor ytelsene i hovedsak svarer til ytelsene i Statens Pensjonskasse,Annen privat kollektiv pensjonsordning i pensjonskasse, livsforsikringsselskap, bank eller forvaltningsselskap for verdipapirfond.
+(2) Med kollektiv pensjonsordning utenfor foretakspensjonsloven menes:
+
+1. Pensjonsordning i Statens Pensjonskasse,
+2. Andre lovbestemte pensjonsordninger,
+3. Kommunale pensjonsordninger som omfattes av [lov 10. juni 2005 nr. 44](lov/2005-06-10-44) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. [kapittel 10](lov/2005-06-10-44/kap10),
+4. Annen offentlig pensjonsordning i pensjonskasse eller livsforsikringsselskap hvor ytelsene i hovedsak svarer til ytelsene i Statens Pensjonskasse,
+5. Annen privat kollektiv pensjonsordning i pensjonskasse, livsforsikringsselskap, bank eller forvaltningsselskap for verdipapirfond.
 
 (3) Unntak fra medlemskap i foretakspensjonsordning kan bare gjøres for arbeidstakere som er medlem av pensjonsordning etter annet ledd på tidspunktet for opprettelse av ny foretakspensjonsordning. Dette gjelder likevel ikke når medlemskapet i pensjonsordning etter annet ledd er lovpålagt.
 
@@ -236,7 +242,11 @@ Reglene i dette kapitlet trer i kraft 1. mars 2010.
 
 (1) Pensjonsinnretningen kan benytte en teknisk rente i beregningen av alderspensjonsutbetalinger for å endre utbetalingsprofilen dersom utbetalingsprofilen ellers ville blitt uhensiktsmessig sterkt stigende for alderspensjonistene. Bruk av en teknisk rente innebærer ingen garanti fra pensjonsinnretningen.
 
-(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,alderspensjonen sikres i hele utbetalingsperioden ogat det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:
+
+1. alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,
+2. alderspensjonen sikres i hele utbetalingsperioden og
+3. at det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
 
 (3) Den tekniske renten kan ikke settes høyere enn den høyeste tillatte avkastningsgaranti etter [tjenestepensjonsloven § 5-7](lov/2013-12-13-106/§5-7) annet ledd annet punktum eller forskrift fastsatt av Finanstilsynet med hjemmel i [tjenestepensjonsloven § 5-7](lov/2013-12-13-106/§5-7) annet ledd tredje punktum.
 

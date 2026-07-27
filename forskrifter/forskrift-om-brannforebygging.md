@@ -30,7 +30,12 @@ Forskriften skal bidra til å redusere sannsynligheten for brann, og begrense ko
 
 ### § 2. Virkeområde
 
-Forskriften gjelder plikter for:enhver til å vise aktsomhet ved brannfarlig aktiviteteiere og brukere av byggverk til å forebygge brannkommunene til å forebygge brannde som omsetter bærbart brannslokkeutstyr.
+Forskriften gjelder plikter for:
+
+1. enhver til å vise aktsomhet ved brannfarlig aktivitet
+2. eiere og brukere av byggverk til å forebygge brann
+3. kommunene til å forebygge brann
+4. de som omsetter bærbart brannslokkeutstyr.
 
 ### § 3. Generelle krav til aktsomhet
 
@@ -38,9 +43,16 @@ Enhver plikter å vise aktsomhet ved gjennomføring av aktivitet som kan føre t
 
 Det er forbudt å gjøre opp ild eller behandle brannfarlige gjenstander utendørs under slike forhold eller på en slik måte at det kan føre til brann. Oppgjort ild må ikke forlates før den er fullstendig slokket.
 
-Det er i tidsrommet 15. april til 15. september forbudt å gjøre opp ild eller behandle brannfarlige gjenstander i eller i nærheten av skog og annen utmark. Det er likevel tillatt å gjøre opp ild nårkommunen har gitt tillatelse ellerkommunestyret selv gjennom lokal forskrift har tillatt dette fordi lokale forhold tilsier det ellerdet er åpenbart at brann ikke kan oppstå.
+Det er i tidsrommet 15. april til 15. september forbudt å gjøre opp ild eller behandle brannfarlige gjenstander i eller i nærheten av skog og annen utmark. Det er likevel tillatt å gjøre opp ild når
 
-Når brannfaren er spesielt stor eller det foreligger andre ekstraordinære forhold, kan kommunen innføre forbud mot å gjøre opp ild eller behandle brannfarlige gjenstander når som helst i løpet av året og alle steder utendørs i kommunen. Forbudet skal klart avgrensesgeografisk til hele kommunen eller områder i kommunen ogtidsmessig for en periode på maksimalt 60 dager.
+1. kommunen har gitt tillatelse eller
+2. kommunestyret selv gjennom lokal forskrift har tillatt dette fordi lokale forhold tilsier det eller
+3. det er åpenbart at brann ikke kan oppstå.
+
+Når brannfaren er spesielt stor eller det foreligger andre ekstraordinære forhold, kan kommunen innføre forbud mot å gjøre opp ild eller behandle brannfarlige gjenstander når som helst i løpet av året og alle steder utendørs i kommunen. Forbudet skal klart avgrenses
+
+1. geografisk til hele kommunen eller områder i kommunen og
+2. tidsmessig for en periode på maksimalt 60 dager.
 
 Forbudet skal oppheves så snart brannfaren eller de ekstraordinære forholdene er over. Forbudet kan vedtas som forskrift uten forhåndsvarsling og kunngjøring etter [forvaltningsloven § 37](lov/1967-02-10/§37) andre ledd og [§ 38](lov/1967-02-10/§38) første ledd bokstav c). Kommunen skal sørge for å gjøre forbudet alminnelig kjent på stedet det gjelder.
 
@@ -58,7 +70,10 @@ Eieren skal gjøre den som har rett til å bruke byggverket kjent med kravene so
 
 ### § 5. Kontroll og vedlikehold av bygningsdeler og sikkerhetsinnretninger
 
-Eieren av et byggverk skal sørge for at bygningsdeler, installasjoner og utstyr i byggverket som skal oppdage brann eller begrense konsekvensene av brann, blir kontrollert og vedlikeholdt slik at de fungerer som forutsatt. Kontrollen skal avklare om sikkerhetsinnretningene:oppfyller kravene til brannsikkerhet som gjelder for byggverketfungerer hver for seg og sammen med hverandre.
+Eieren av et byggverk skal sørge for at bygningsdeler, installasjoner og utstyr i byggverket som skal oppdage brann eller begrense konsekvensene av brann, blir kontrollert og vedlikeholdt slik at de fungerer som forutsatt. Kontrollen skal avklare om sikkerhetsinnretningene:
+
+1. oppfyller kravene til brannsikkerhet som gjelder for byggverket
+2. fungerer hver for seg og sammen med hverandre.
 
 Kontrollens omfang og hyppighet skal være tilpasset sikkerhetsinnretningene og byggverkets størrelse, kompleksitet, bruk og risiko.
 
@@ -74,7 +89,13 @@ Etter å ha mottatt et varsel om feiing eller tilsyn, skal eieren sørge for at 
 
 Eieren av boliger og fritidsboliger skal sørge for at byggverkene har brannalarmanlegg eller et tilstrekkelig antall røykvarslere. Det skal være minst én detektor eller røykvarsler i hver etasje, som skal dekke kjøkken, stue, sone utenfor soverom og sone utenfor tekniske rom. Alarmen skal kunne høres tydelig på oppholdsrom og soverom når dørene mellom rommene er lukket.
 
-Eieren skal sørge for at boliger og fritidsboliger er utstyrt med minst ett av følgende slokkeutstyr som kan brukes i alle rom:formfast brannslange med innvendig diameter på minst 10 mm fast tilkoblet vannforsyningsnettpulverapparat på minst 6 kg med ABC-pulverskum- eller vannapparat på minst 9 literskum- eller vannapparat på minst 6 liter med effektivitetsklasse på minst 21Aannet manuelt slokkeutstyr med tilsvarende slokkekapasitet.
+Eieren skal sørge for at boliger og fritidsboliger er utstyrt med minst ett av følgende slokkeutstyr som kan brukes i alle rom:
+
+1. formfast brannslange med innvendig diameter på minst 10 mm fast tilkoblet vannforsyningsnett
+2. pulverapparat på minst 6 kg med ABC-pulver
+3. skum- eller vannapparat på minst 9 liter
+4. skum- eller vannapparat på minst 6 liter med effektivitetsklasse på minst 21A
+5. annet manuelt slokkeutstyr med tilsvarende slokkekapasitet.
 
 Eieren skal sørge for at røykvarslere og manuelt slokkeutstyr i boliger og fritidsboliger blir kontrollert ved funksjonsprøve eller ettersyn i samsvar med leverandørens anvisninger, og at de vedlikeholdes slik at de fungerer som forutsatt.
 
@@ -84,7 +105,11 @@ Eieren av et byggverk skal sørge for å oppgradere sikkerhetsnivået i byggverk
 
 ### § 9. Eierens systematiske sikkerhetsarbeid
 
-En virksomhet som eier et byggverk skal fastsette mål og iverksette planer og tiltak for å sikre byggverket mot brann. Virksomheten skal iverksette:rutiner som sikrer at kravene til brannsikkerhet som gjelder for byggverket blir overholdtrutiner for å avdekke, rette opp og forebygge mangler ved bygningsdeler, installasjoner og utstyr som skal oppdage brann eller begrense konsekvensene av brannrutiner for å avdekke, rette opp og forebygge mangler ved det systematiske sikkerhetsarbeidet.
+En virksomhet som eier et byggverk skal fastsette mål og iverksette planer og tiltak for å sikre byggverket mot brann. Virksomheten skal iverksette:
+
+1. rutiner som sikrer at kravene til brannsikkerhet som gjelder for byggverket blir overholdt
+2. rutiner for å avdekke, rette opp og forebygge mangler ved bygningsdeler, installasjoner og utstyr som skal oppdage brann eller begrense konsekvensene av brann
+3. rutiner for å avdekke, rette opp og forebygge mangler ved det systematiske sikkerhetsarbeidet.
 
 Det systematiske sikkerhetsarbeidet skal være tilpasset byggverkets størrelse, kompleksitet, bruk og risiko.
 
@@ -96,11 +121,22 @@ En virksomhet som eier et byggverk skal dokumentere at virksomhetens plikter ett
 
 ### § 11. Brannsikker bruk av byggverk
 
-Den som har rett til å bruke et byggverk skal:sørge for at byggverket brukes i samsvar med kravene til brannsikkerhet som gjelder for byggverketunngå unødig risiko for brann, og sørge for at rømningsveiene opprettholder sin funksjon, herunder at fremkommeligheten ikke reduseresinformere eieren om endringer, forfall og skader i byggverket eller sikkerhetsinnretningene som kan påvirke sikkerheten mot brannved forhold som vesentlig reduserer brannsikkerheten, straks gjennomføre ekstraordinære tiltak inntil risikoen er normalisert.
+Den som har rett til å bruke et byggverk skal:
+
+1. sørge for at byggverket brukes i samsvar med kravene til brannsikkerhet som gjelder for byggverket
+2. unngå unødig risiko for brann, og sørge for at rømningsveiene opprettholder sin funksjon, herunder at fremkommeligheten ikke reduseres
+3. informere eieren om endringer, forfall og skader i byggverket eller sikkerhetsinnretningene som kan påvirke sikkerheten mot brann
+4. ved forhold som vesentlig reduserer brannsikkerheten, straks gjennomføre ekstraordinære tiltak inntil risikoen er normalisert.
 
 ### § 12. Brukerens systematiske sikkerhetsarbeid
 
-En virksomhet som har rett til å bruke et byggverk skal fastsette mål og iverksette planer og tiltak for å redusere risikoen for brann i byggverket. Virksomheten skal iverksette:rutiner som sikrer at byggverket brukes i samsvar med kravene til brannsikkerhet som gjelder for byggverketrutiner for evakuering og redning ved brann i byggverketrutiner som sikrer at personer med arbeidsplass i byggverket har tilstrekkelige kunnskaper og ferdigheter i å forebygge og bekjempe brannrutiner som sikrer at alle som oppholder seg i byggverket får tilstrekkelig informasjon om hvordan de skal unngå brann og opptre ved brannrutiner for å avdekke, rette opp og forebygge mangler ved det systematiske sikkerhetsarbeidet.
+En virksomhet som har rett til å bruke et byggverk skal fastsette mål og iverksette planer og tiltak for å redusere risikoen for brann i byggverket. Virksomheten skal iverksette:
+
+1. rutiner som sikrer at byggverket brukes i samsvar med kravene til brannsikkerhet som gjelder for byggverket
+2. rutiner for evakuering og redning ved brann i byggverket
+3. rutiner som sikrer at personer med arbeidsplass i byggverket har tilstrekkelige kunnskaper og ferdigheter i å forebygge og bekjempe brann
+4. rutiner som sikrer at alle som oppholder seg i byggverket får tilstrekkelig informasjon om hvordan de skal unngå brann og opptre ved brann
+5. rutiner for å avdekke, rette opp og forebygge mangler ved det systematiske sikkerhetsarbeidet.
 
 Det systematiske sikkerhetsarbeidet skal være tilpasset risikoen for brann som følge av virksomhetens bruk av byggverket.
 
@@ -130,7 +166,13 @@ Kommunen skal sørge for at det ved behov blir ført tilsyn med fyringsanlegg so
 
 ### § 18. Risikobasert tilsyn
 
-Tilsyn etter brann- og [eksplosjonsvernloven § 13](lov/2002-06-14-20/§13) skal gjennomføres og prioriteres på bakgrunn av:risikoen for tap av liv og helserisikoen for tap av materielle og kulturhistoriske verdierrisikoen for samfunnsmessige konsekvenserrisikoen for brudd på forebyggende pliktereffekten av tilsyn sammenlignet med andre brannforebyggende tiltak.
+Tilsyn etter brann- og [eksplosjonsvernloven § 13](lov/2002-06-14-20/§13) skal gjennomføres og prioriteres på bakgrunn av:
+
+1. risikoen for tap av liv og helse
+2. risikoen for tap av materielle og kulturhistoriske verdier
+3. risikoen for samfunnsmessige konsekvenser
+4. risikoen for brudd på forebyggende plikter
+5. effekten av tilsyn sammenlignet med andre brannforebyggende tiltak.
 
 ### § 19. Andre tiltak mot brann
 
@@ -138,7 +180,12 @@ Kommunen skal motivere og samarbeide med aktuelle aktører for at de skal bidra 
 
 Kommunen skal fremme brannsikkerhet gjennom kommunale og regionale planleggings- og beslutningsprosesser.
 
-Kommunen skal bidra til å innhente og formidle kunnskap om:hvordan branner starter og sprer segkjennetegn ved personer som omkommer eller blir skadet i brannerkjennetegn ved byggverk og bygningsmiljø som blir involvert i brannerhvilke forebyggende og beredskapsmessige tiltak som påvirker forløpet og utfallet av branner.
+Kommunen skal bidra til å innhente og formidle kunnskap om:
+
+1. hvordan branner starter og sprer seg
+2. kjennetegn ved personer som omkommer eller blir skadet i branner
+3. kjennetegn ved byggverk og bygningsmiljø som blir involvert i branner
+4. hvilke forebyggende og beredskapsmessige tiltak som påvirker forløpet og utfallet av branner.
 
 ### § 20. Evaluering av det forebyggende arbeidet
 

@@ -32,7 +32,11 @@ Det automatiske identifikasjonssystemet skal være i gang så lenge fartøyet er
 
 ## § 3. Overgangsregler
 
-Forskriften kommer slik til anvendelse for fiskefartøy bygget før 30. april 2012 med største lengde fra og med:24 meter men mindre enn 45 meter fra 31. november 201218 meter men mindre enn 24 meter fra 31. mai 201315 meter men mindre enn 18 meter fra 31. mai 2014.
+Forskriften kommer slik til anvendelse for fiskefartøy bygget før 30. april 2012 med største lengde fra og med:
+
+1. 24 meter men mindre enn 45 meter fra 31. november 2012
+2. 18 meter men mindre enn 24 meter fra 31. mai 2013
+3. 15 meter men mindre enn 18 meter fra 31. mai 2014.
 
 ## § 4. Ikrafttredelse
 

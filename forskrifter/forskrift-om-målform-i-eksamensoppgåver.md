@@ -36,7 +36,11 @@ Lærestadene kan skaffe seg oversikt over målønska til kandidatane, t.d. ved b
 
 ## § 3.
 
-Lærestaden kan gjere unntak frå reglane i [§ 2](forskrift/1987-07-07-4148/§2) første og andre ledd nårdet er klart at alle kandidatanene har ønskt same målformadet gjeld særleg omfattande eksamensoppgåverfagterminologi manglar eller er ukjend for kandidatane i ei målform, og det derfor kan vere fare for mistydinger.
+Lærestaden kan gjere unntak frå reglane i [§ 2](forskrift/1987-07-07-4148/§2) første og andre ledd når
+
+1. det er klart at alle kandidatanene har ønskt same målforma
+2. det gjeld særleg omfattande eksamensoppgåver
+3. fagterminologi manglar eller er ukjend for kandidatane i ei målform, og det derfor kan vere fare for mistydinger.
 
 Også elles kan lærestaden gjere unntak i særlge tilfelle, til dømes dersom særleg omfattande eksamensoppgåver må lagast på svært kort tid på grunn av nye reglar eller andre spesielle tilhøve.
 

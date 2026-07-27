@@ -15,7 +15,7 @@ xml_hash: "f02e7f9f6ff597d91cc01e99536c26f5b4ef5da2dc679001de212ae32cfbab48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,15 +30,33 @@ eu_basis: []
 
 (1) Loven skal legge til rette for en betryggende, rask og tillitskapende behandling av trygde- og pensjonstvister av en uavhengig og upartisk Trygderett.
 
-(2) For å oppnå formålene i første ledd skalTrygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,partene likebehandles og få den nødvendige veiledning,Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,viktige avgjørelser begrunnes, ogsaksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning.
+(2) For å oppnå formålene i første ledd skal
+
+- Trygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,
+- partene få innsyn i og mulighet for å imøtegå motpartens argumentasjon og bevis,
+- partene likebehandles og få den nødvendige veiledning,
+- Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,
+- viktige avgjørelser begrunnes, og
+- saksbehandlingen og kostnadene stå i et rimelig forhold til sakens betydning.
 
 > Endret ved lover 19 juni 1969 nr. 62, 19 des 1969 nr. 82, [9 juni 1972 nr. 40](lov/1972-06-09-40), [21 des 1990 nr. 80](lov/1990-12-21-80), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [10 des 1999 nr. 84](lov/1999-12-10-84), [18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)).
 
 ### § 2. Trygderettens saklige virkeområde. Ankerett
 
-(1) Vedtak om individuelle rettigheter og plikter etter følgende regelverk kan ankes inn for Trygderetten av den vedtaket gjelder, i loven her kalt den ankende part:folketrygdlovenbarnetrygdlovenlovgivningen om krigspensjoneringbestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortingetsamordningslovensærlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten.
+(1) Vedtak om individuelle rettigheter og plikter etter følgende regelverk kan ankes inn for Trygderetten av den vedtaket gjelder, i loven her kalt den ankende part:
 
-(2) Kongen kan bestemme at ankerett etter første ledd også skal gjelde vedtak om individuelle rettigheter og plikter isupplerende pensjonsordninger for kommunale arbeidstakere1supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter ogsupplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser.
+1. folketrygdloven
+2. barnetrygdloven
+3. lovgivningen om krigspensjonering
+4. bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget
+5. samordningsloven
+6. særlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten.
+
+(2) Kongen kan bestemme at ankerett etter første ledd også skal gjelde vedtak om individuelle rettigheter og plikter i
+
+1. supplerende pensjonsordninger for kommunale arbeidstakere1
+2. supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og
+3. supplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser.
 
 (3) For tilleggstrygder kan departementet etter søknad treffe slik bestemmelse som nevnt i andre ledd.
 
@@ -146,7 +164,10 @@ Trygderettens leder kan gi nærmere regler om saksforberedelse og om rettens sam
 
 ### § 10. Beregning av ankefristen
 
-(1) For at en anke skal være framsatt i tide, er det tilstrekkelig at ankeerklæringen før utløpet av fristener avgitt til tilbyder av posttjenester i Norge som skal sørge for å få sendingen frem til mottaker, ellerat den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke.
+(1) For at en anke skal være framsatt i tide, er det tilstrekkelig at ankeerklæringen før utløpet av fristen
+
+1. er avgitt til tilbyder av posttjenester i Norge som skal sørge for å få sendingen frem til mottaker, eller
+2. at den er kommet fram til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke.
 
 (2) Kommer ankeerklæringen ikke fram, må den settes fram på nytt innen en uke etter at vedkommende forsto eller burde ha forstått at erklæringen ikke har kommet fram.
 
@@ -160,7 +181,14 @@ Trygderettens leder kan gi nærmere regler om saksforberedelse og om rettens sam
 
 (2) Anken kan settes fram skriftlig eller muntlig. Ved muntlig anke skal mottaker sørge for å sette opp anken skriftlig og underskrive den sammen med den ankende part.
 
-(3) Erklæringen om anke må være underskrevet og nevne:at den er en anke til Trygderetten,navn, fødselsdag og fødselsår samt adresse til den ankende part,det vedtak som påankes,den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,erklæringer og andre bevis som påberopes,bilag som følger anken.
+(3) Erklæringen om anke må være underskrevet og nevne:
+
+1. at den er en anke til Trygderetten,
+2. navn, fødselsdag og fødselsår samt adresse til den ankende part,
+3. det vedtak som påankes,
+4. den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,
+5. erklæringer og andre bevis som påberopes,
+6. bilag som følger anken.
 
 (4) Hvis en skriftlig anke er ufullstendig eller uklar, skal den ankende part gjøres oppmerksom på eventuelle mangler ved anken eller andre forhold som kan ha betydning i saken, og gis en frist for å rette opp eller supplere anken.
 
@@ -278,7 +306,10 @@ En part som er nektet innsyn, kan påklage Trygderettens beslutning til departem
 
 (4) Andre kjennelser skal begrunnes som dommer. Det kan i begrunnelsen siteres fra tidligere vedtak eller oversendelsesbrev.
 
-(5) Kjennelser nevnt i fjerde ledd, skal for øvrig inneholde:en saksframstilling og redegjørelse for påstandsgrunnlagene som konsentrert beskriver rettsforholdet som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsenen redegjørelse for bevisvurderingen og rettsanvendelsen avgjørelsen bygger på.
+(5) Kjennelser nevnt i fjerde ledd, skal for øvrig inneholde:
+
+1. en saksframstilling og redegjørelse for påstandsgrunnlagene som konsentrert beskriver rettsforholdet som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen
+2. en redegjørelse for bevisvurderingen og rettsanvendelsen avgjørelsen bygger på.
 
 (6) Når retten avgjør realiteten i saken, kan avgjørelsen gå ut på stadfestelse eller omgjøring. Hvis det ikke foreligger et forsvarlig grunnlag for å avgjøre realiteten, kan retten oppheve vedtaket og henvise saken til ny behandling. Dersom det er grunnlag for det, kan retten også henvise til ny behandling uten å oppheve vedtaket.
 
@@ -342,7 +373,10 @@ En part som er nektet innsyn, kan påklage Trygderettens beslutning til departem
 
 (1) Trygderettens kjennelse kan gjenopptas etter begjæring fra en av partene i saken.
 
-(2) Det er et vilkår for gjenopptak atdet er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, ellerdet foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.
+(2) Det er et vilkår for gjenopptak at
+
+1. det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller
+2. det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.
 
 (3) Begjæring om gjenopptak må settes fram innen seks måneder etter at parten ble kjent med det forholdet som begjæringen bygger på. Retten kan se bort fra at fristen er oversittet når det foreligger særlige grunner.
 

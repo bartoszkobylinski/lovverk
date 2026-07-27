@@ -15,7 +15,7 @@ xml_hash: "939fa2e7d595020db044ae14ed14ef3d21a4a03687a4e43f3782079d66bc05a5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,12 @@ Vedlegg 4: Omregningsfaktorer for matriseberegning
 
 ### Vedlegg 1 – Vareomfang
 
-For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise, deklarasjon og fast nedsatt tollavgiftssats, som anvist i tabellen nedenfor.*MX1:* Tollavgiftssats etter matrise jf. [paragraf 2, andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).*MX2:* Tollavgiftssats etter matrise, jf. [paragraf 2 andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).*D1:* Tollavgiftssats etter deklarasjon jf. [paragraf 2, tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2).*D2:* Tollavgiftssats etter deklarasjon jf. [paragraf 2 tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2)
+For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise, deklarasjon og fast nedsatt tollavgiftssats, som anvist i tabellen nedenfor.
+
+- *MX1:* Tollavgiftssats etter matrise jf. [paragraf 2, andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).
+- *MX2:* Tollavgiftssats etter matrise, jf. [paragraf 2 andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).
+- *D1:* Tollavgiftssats etter deklarasjon jf. [paragraf 2, tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2).
+- *D2:* Tollavgiftssats etter deklarasjon jf. [paragraf 2 tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2)
 
 | *1* | *2* | *3* | *4* | *5* |
 | --- | --- | --- | --- | --- |

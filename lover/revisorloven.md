@@ -15,7 +15,7 @@ xml_hash: "41ceb3a3bc8ac0e7f7aa32cd543e90573df5b033ec37ada3729679221a577f89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32006L0043"
@@ -41,19 +41,41 @@ eu_basis:
 
 (2) Med revisjonsforetak menes revisjonsselskap og statsautorisert revisor som utfører lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering i eget navn.
 
-(3) Med lovfestet revisjon menes:revisjon av revisjonspliktiges årsregnskaprevisjon av årsregnskap for noen som ikke er revisjonspliktig, hvis et revisjonsselskap eller en statsautorisert revisor i revisjonsberetning eller på annen måte gir uttrykk for at regnskapet er revidert.
+(3) Med lovfestet revisjon menes:
 
-(4) Med revisorbekreftelse menes bekreftelse eller tilsvarende uttalelse avgitt av et revisjonsselskap eller en statsautorisert revisor i henhold tillov eller forskriftkrav fra offentlig myndighetavtale når uttalelsen er ment til bruk overfor andre enn oppdragsgiverenavtale når uttalelsen kun er ment til bruk for oppdragsgiveren og det ikke fremkommer av uttalelsen at revisorloven ikke gjelder for oppdraget.
+1. revisjon av revisjonspliktiges årsregnskap
+2. revisjon av årsregnskap for noen som ikke er revisjonspliktig, hvis et revisjonsselskap eller en statsautorisert revisor i revisjonsberetning eller på annen måte gir uttrykk for at regnskapet er revidert.
+
+(4) Med revisorbekreftelse menes bekreftelse eller tilsvarende uttalelse avgitt av et revisjonsselskap eller en statsautorisert revisor i henhold til
+
+1. lov eller forskrift
+2. krav fra offentlig myndighet
+3. avtale når uttalelsen er ment til bruk overfor andre enn oppdragsgiveren
+4. avtale når uttalelsen kun er ment til bruk for oppdragsgiveren og det ikke fremkommer av uttalelsen at revisorloven ikke gjelder for oppdraget.
 
 (5) Med revisors nettverk menes foretak som har avtale med revisor om bruk av likelydende navn, overskudds- eller kostnadsdeling, felles eierskap, kontroll eller ledelse, eller deling av vesentlige faglige eller forretningsmessige ressurser, og nettverket fremstår som et fellesskap.
 
-(6) Med foretak av allmenn interesse menes:foretak som har utstedt omsettelige verdipapirer som er opptatt til handel på et regulert marked i et EØS-landbankerkredittforetakforsikringsforetak.
+(6) Med foretak av allmenn interesse menes:
+
+1. foretak som har utstedt omsettelige verdipapirer som er opptatt til handel på et regulert marked i et EØS-land
+2. banker
+3. kredittforetak
+4. forsikringsforetak.
 
 > Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
 ### § 1-3. Uavhengige tilbydere av attestasjonstjenester for bærekraftsrapportering
 
-Departementet kan i forskrift gi nærmere regler om uavhengige tilbydere av attestasjonstjenester for bærekraftsrapportering som akkrediteres etter [EØS-vareloven §§ 2](lov/2013-04-12-13/§2) og [3](lov/2013-04-12-13/§3). Forskriften kan inneholde nærmere regler om anvendelsen av loven her, herunder krav til blant annet:teoretisk og praktisk opplæring og eksamen som sikrer at uavhengige tilbydere av attestasjonstjenester tilegner seg nødvendig kunnskap om bærekraftsrapportering og attestasjon av bærekraftsrapportering,etterutdanning,systemer for kvalitetsstyring,yrkesetikk, uavhengighet, objektivitet, konfidensialitet og taushetsplikt,valg og avsettelse av revisor,tilsyn og sanksjoner,organiseringen av arbeidet til den uavhengige tilbyderen av attestasjonstjenester, særlig når det gjelder tilstrekkelige ressurser og personell og oppdragsdokumentasjon, ograpportering av uregelmessigheter.
+Departementet kan i forskrift gi nærmere regler om uavhengige tilbydere av attestasjonstjenester for bærekraftsrapportering som akkrediteres etter [EØS-vareloven §§ 2](lov/2013-04-12-13/§2) og [3](lov/2013-04-12-13/§3). Forskriften kan inneholde nærmere regler om anvendelsen av loven her, herunder krav til blant annet:
+
+1. teoretisk og praktisk opplæring og eksamen som sikrer at uavhengige tilbydere av attestasjonstjenester tilegner seg nødvendig kunnskap om bærekraftsrapportering og attestasjon av bærekraftsrapportering,
+2. etterutdanning,
+3. systemer for kvalitetsstyring,
+4. yrkesetikk, uavhengighet, objektivitet, konfidensialitet og taushetsplikt,
+5. valg og avsettelse av revisor,
+6. tilsyn og sanksjoner,
+7. organiseringen av arbeidet til den uavhengige tilbyderen av attestasjonstjenester, særlig når det gjelder tilstrekkelige ressurser og personell og oppdragsdokumentasjon, og
+8. rapportering av uregelmessigheter.
 
 > Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -63,7 +85,14 @@ Departementet kan i forskrift gi nærmere regler om uavhengige tilbydere av atte
 
 (1) Revisjonspliktige skal påse at årsregnskapet blir revidert av ett eller flere revisjonsforetak.
 
-(2) Følgende foretak er revisjonspliktige:aksjeselskaper, bortsett fra aksjeselskaper som i samsvar med [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) ikke har revisjon av årsregnskapetallmennaksjeselskaperstiftelserforetak mv. som føres tilsyn med etter [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2)øvrige regnskapspliktige hvis driftsinntektene av den samlede virksomheten eller foretakets balansesum er lik eller over terskelverdiene fastsatt i medhold av [aksjeloven § 7-6](lov/1997-06-13-44/§7-6), eller gjennomsnittlig antall ansatte utgjør ti årsverk eller merandre som er revisjonspliktige etter annen lov eller forskrift.
+(2) Følgende foretak er revisjonspliktige:
+
+1. aksjeselskaper, bortsett fra aksjeselskaper som i samsvar med [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) ikke har revisjon av årsregnskapet
+2. allmennaksjeselskaper
+3. stiftelser
+4. foretak mv. som føres tilsyn med etter [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2)
+5. øvrige regnskapspliktige hvis driftsinntektene av den samlede virksomheten eller foretakets balansesum er lik eller over terskelverdiene fastsatt i medhold av [aksjeloven § 7-6](lov/1997-06-13-44/§7-6), eller gjennomsnittlig antall ansatte utgjør ti årsverk eller mer
+6. andre som er revisjonspliktige etter annen lov eller forskrift.
 
 (3) Terskelverdiene i annet ledd bokstav e skal baseres på årsregnskapet for siste regnskapsår. Viser et årsregnskap driftsinntekter, balansesum eller årsverk som er lik eller over terskelverdiene, skal årsregnskapet for påfølgende regnskapsår revideres. For morforetak gjelder terskelverdiene for konsernet sett som en enhet.
 
@@ -139,7 +168,12 @@ En revisjonspliktig eller et foretak som har plikt til å utarbeide bærekraftsr
 
 ### § 3-4. Vilkår om å være skikket
 
-(1) Godkjenning som statsautorisert revisor skal ikke gis til personer somikke er myndigikke er i stand til å oppfylle sine forpliktelser etter hvert som de forfallerer dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måtehar utvist en atferd som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte.
+(1) Godkjenning som statsautorisert revisor skal ikke gis til personer som
+
+1. ikke er myndig
+2. ikke er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller
+3. er dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte
+4. har utvist en atferd som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte.
 
 (2) Ved vurderingen etter første ledd bokstav d skal det særlig tas hensyn til om atferden har medført tilbakekall av en offentlig godkjenning eller tilsynsmessige reaksjoner, bestått i regelbrudd som er konstatert ved forvaltningsvedtak eller rettsavgjørelse eller gitt grunnlag for at vedkommende er ilagt konkurskarantene eller annet virksomhetsforbud.
 
@@ -157,7 +191,11 @@ En revisjonspliktig eller et foretak som har plikt til å utarbeide bærekraftsr
 
 ### § 3-6. Godkjenning av revisorer fra land utenfor EØS
 
-(1) Finanstilsynet gir godkjenning som statsautorisert revisor til revisorer med revisorgodkjenning fra andre land enn et EØS-land eller Sveits dersomvedkommende består en egnethetsprøve som angitt i [§ 3-5](lov/2020-11-20-128/§3-5),kravene til utdanning og praksis som vedkommende måtte oppfylle for å bli godkjent som revisor i hjemlandet, bestått egnethetsprøve og den yrkeserfaring vedkommende kan dokumentere, samlet sett innebærer kvalifikasjoner på minst samme nivå som etter [§ 3-2](lov/2020-11-20-128/§3-2) og [§ 3-3](lov/2020-11-20-128/§3-3), ogvedkommende oppfyller vilkårene i [§ 3-4](lov/2020-11-20-128/§3-4).
+(1) Finanstilsynet gir godkjenning som statsautorisert revisor til revisorer med revisorgodkjenning fra andre land enn et EØS-land eller Sveits dersom
+
+1. vedkommende består en egnethetsprøve som angitt i [§ 3-5](lov/2020-11-20-128/§3-5),
+2. kravene til utdanning og praksis som vedkommende måtte oppfylle for å bli godkjent som revisor i hjemlandet, bestått egnethetsprøve og den yrkeserfaring vedkommende kan dokumentere, samlet sett innebærer kvalifikasjoner på minst samme nivå som etter [§ 3-2](lov/2020-11-20-128/§3-2) og [§ 3-3](lov/2020-11-20-128/§3-3), og
+3. vedkommende oppfyller vilkårene i [§ 3-4](lov/2020-11-20-128/§3-4).
 
 (2) Godkjenning etter første ledd kan bare gis hvis statsautoriserte revisorer har tilsvarende adgang til godkjenning i det aktuelle landet.
 
@@ -181,7 +219,12 @@ Finanstilsynet skal gi godkjenningen som statsautorisert revisor og i tilfelle b
 
 ### § 4-1. Godkjenning av revisjonsselskaper
 
-(1) Finanstilsynet gir godkjenning som revisjonsselskap til foretaksom er organisert som ansvarlig selskap, kommandittselskap, aksjeselskap, allmennaksjeselskap eller samvirkeforetak,som har et styre hvor et flertall av både medlemmene og varamedlemmene i styret er revisorer som er godkjent etter denne lov, av myndighetene i et annet EØS-land eller av et land Norge har inngått avtale om gjensidig godkjenning av revisorer med,hvor godkjente revisorer eller godkjente revisjonsselskap innehar mer enn halvparten av stemmene i selskapets øverste organ,som er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
+(1) Finanstilsynet gir godkjenning som revisjonsselskap til foretak
+
+1. som er organisert som ansvarlig selskap, kommandittselskap, aksjeselskap, allmennaksjeselskap eller samvirkeforetak,
+2. som har et styre hvor et flertall av både medlemmene og varamedlemmene i styret er revisorer som er godkjent etter denne lov, av myndighetene i et annet EØS-land eller av et land Norge har inngått avtale om gjensidig godkjenning av revisorer med,
+3. hvor godkjente revisorer eller godkjente revisjonsselskap innehar mer enn halvparten av stemmene i selskapets øverste organ,
+4. som er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
 
 (2) I et revisjonsselskap der de ansatte har rett til å velge styremedlemmer, skal flertallskravet i første ledd bokstav b også oppfylles blant de styremedlemmene som ikke er valgt av de ansatte.
 
@@ -201,7 +244,10 @@ Finanstilsynet skal gi godkjenningen som statsautorisert revisor og i tilfelle b
 
 ### § 5-1. Krav til etterutdanning
 
-(1) En statsautorisert revisor skal ha gjennomført minst 120 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Etterutdanningen skal være innenfor fagkretsen for en mastergrad i regnskap og revisjon, jf. [§ 3-2](lov/2020-11-20-128/§3-2) første ledd. Som relevant etterutdanning regnesstrukturert opplæring og undervisningutarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet med inntil 30 timer.
+(1) En statsautorisert revisor skal ha gjennomført minst 120 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Etterutdanningen skal være innenfor fagkretsen for en mastergrad i regnskap og revisjon, jf. [§ 3-2](lov/2020-11-20-128/§3-2) første ledd. Som relevant etterutdanning regnes
+
+1. strukturert opplæring og undervisning
+2. utarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet med inntil 30 timer.
 
 (2) Etterutdanningen etter første ledd bokstav a) skal være tilstrekkelig og må minst dekke fagområdene finansregnskap, revisjon, verdsettelse og analyse, skatte- og avgiftsrett og foretaksrett.
 
@@ -233,7 +279,12 @@ Finanstilsynet skal gi godkjenningen som statsautorisert revisor og i tilfelle b
 
 ### § 6-2. Opplysninger om statsautoriserte revisorer
 
-Revisor- og attestantregisteret skal inneholde følgende opplysninger om statsautoriserte revisorer:navn, adresse og revisorregisternummer tildelt av Finanstilsynetnavn, adresse, nettstedadresse og organisasjonsnummer på revisjonsforetak som revisoren er tilknyttet som partner, ansatt eller på annen måteom revisoren er godkjent som bærekraftsrevisorom revisoren er registrert i et annet land, om registreringen omfatter revisjon av årsregnskap, attestasjon av pliktig bærekraftsrapportering eller begge deler, navn på tilsynsmyndigheten og revisorregisternummer tildelt i landet.
+Revisor- og attestantregisteret skal inneholde følgende opplysninger om statsautoriserte revisorer:
+
+1. navn, adresse og revisorregisternummer tildelt av Finanstilsynet
+2. navn, adresse, nettstedadresse og organisasjonsnummer på revisjonsforetak som revisoren er tilknyttet som partner, ansatt eller på annen måte
+3. om revisoren er godkjent som bærekraftsrevisor
+4. om revisoren er registrert i et annet land, om registreringen omfatter revisjon av årsregnskap, attestasjon av pliktig bærekraftsrapportering eller begge deler, navn på tilsynsmyndigheten og revisorregisternummer tildelt i landet.
 
 > Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -243,7 +294,17 @@ En statsautorisert revisor som utfører lovfestet revisjon i eget navn, skal reg
 
 ### § 6-4. Opplysninger om revisjonsforetak
 
-Revisor- og attestantregisteret skal inneholde følgende opplysninger om revisjonsforetak:navn, kontoradresse, postadresse og organisasjonsnummerrevisorregisternummer tildelt av Finanstilsynetnavn og registernummer på statsautoriserte revisorer som er tilknyttet revisjonsforetaket som innehaver, partner, ansatt eller på annen måte. Det skal angis hvilke statsautoriserte revisorer som har godkjenning som bærekraftsrevisornavn på kontaktperson og revisjonsforetakets nettstedsadressenavn og adresse til hvert avdelingskontor i Norgenavn og adresse på de andre foretakene i revisors nettverk eller opplysning om hvor slik informasjon er allment tilgjengeligom revisjonsforetaket er registrert i andre land, navn på tilsynsmyndighet, revisorregisternummer og organisasjonsnummer i landet, og om registreringen omfatter revisjon av årsregnskap, attestasjon av pliktig bærekraftsrapportering eller begge delernavn og adresse på medlemmer og varamedlemmer i styret og på daglig ledernavn og adresse på aksjeeiere eller deltakere i revisjonsselskap.
+Revisor- og attestantregisteret skal inneholde følgende opplysninger om revisjonsforetak:
+
+1. navn, kontoradresse, postadresse og organisasjonsnummer
+2. revisorregisternummer tildelt av Finanstilsynet
+3. navn og registernummer på statsautoriserte revisorer som er tilknyttet revisjonsforetaket som innehaver, partner, ansatt eller på annen måte. Det skal angis hvilke statsautoriserte revisorer som har godkjenning som bærekraftsrevisor
+4. navn på kontaktperson og revisjonsforetakets nettstedsadresse
+5. navn og adresse til hvert avdelingskontor i Norge
+6. navn og adresse på de andre foretakene i revisors nettverk eller opplysning om hvor slik informasjon er allment tilgjengelig
+7. om revisjonsforetaket er registrert i andre land, navn på tilsynsmyndighet, revisorregisternummer og organisasjonsnummer i landet, og om registreringen omfatter revisjon av årsregnskap, attestasjon av pliktig bærekraftsrapportering eller begge deler
+8. navn og adresse på medlemmer og varamedlemmer i styret og på daglig leder
+9. navn og adresse på aksjeeiere eller deltakere i revisjonsselskap.
 
 > Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -255,7 +316,14 @@ Revisor- og attestantregisteret skal inneholde følgende opplysninger om revisjo
 
 (2) Kvalitetsstyringen skal omfatte et system for å sikre kvaliteten på lovfestet revisjon, attestasjon av pliktig bærekraftsrapportering og oppdrag om revisorbekreftelser. Systemet skal minst omfatte retningslinjer og rutiner for utførelsen av lovfestet revisjon, attestasjon av pliktig bærekraftsrapportering og oppdrag om revisorbekreftelser, veiledning, kontroll og gjennomgang av arbeidet til medarbeiderne på slike oppdrag og oppdragsdokumentasjon. I et revisjonsselskap skal en statsautorisert revisor ha ansvar for systemet for kvalitetsstyring. Systemet skal evalueres årlig. Funn fra evalueringen og forslag om endringer i systemet skal dokumenteres.
 
-(3) Kvalitetsstyringen skal omfatte retningslinjer og rutiner for å sikre ataksjeeierne eller deltakerne i et revisjonsselskap, samt medlemmer av styret i selskapet eller i et selskap som er knyttet til revisjonsselskapet gjennom felles eierskap, kontroll eller ledelse, ikke griper inn i utførelsen av en lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering på en måte som kan skape tvil om uavhengigheten og objektiviteten til den oppdragsansvarlige revisorenmedarbeidere og andre som deltar i lovfestet revisjon, attestasjon av pliktig bærekraftsrapportering eller oppdrag om revisorbekreftelser har nødvendig kunnskap og erfaring til å utføre sine oppgaverutkontraktering av funksjoner ikke svekker kvalitetsstyringen eller muligheten til å føre tilsyn med virksomhetenforhold som kan true revisors uavhengighet håndteres forsvarligbruk av systemer og rutiner samt tilgang på ressurser gir kontinuerlig og rettidig utførelse av oppdrag om lovfestet revisjon og attestasjon av pliktig bærekraftsrapporteringhendelser som har eller kan få alvorlige konsekvenser for lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering håndteres og dokumenteres.
+(3) Kvalitetsstyringen skal omfatte retningslinjer og rutiner for å sikre at
+
+1. aksjeeierne eller deltakerne i et revisjonsselskap, samt medlemmer av styret i selskapet eller i et selskap som er knyttet til revisjonsselskapet gjennom felles eierskap, kontroll eller ledelse, ikke griper inn i utførelsen av en lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering på en måte som kan skape tvil om uavhengigheten og objektiviteten til den oppdragsansvarlige revisoren
+2. medarbeidere og andre som deltar i lovfestet revisjon, attestasjon av pliktig bærekraftsrapportering eller oppdrag om revisorbekreftelser har nødvendig kunnskap og erfaring til å utføre sine oppgaver
+3. utkontraktering av funksjoner ikke svekker kvalitetsstyringen eller muligheten til å føre tilsyn med virksomheten
+4. forhold som kan true revisors uavhengighet håndteres forsvarlig
+5. bruk av systemer og rutiner samt tilgang på ressurser gir kontinuerlig og rettidig utførelse av oppdrag om lovfestet revisjon og attestasjon av pliktig bærekraftsrapportering
+6. hendelser som har eller kan få alvorlige konsekvenser for lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering håndteres og dokumenteres.
 
 (4) Revisjonsselskap skal ha retningslinjer for fastsettelse av lønn, annen godtgjørelse og overskuddsdeling som er tilstrekkelige til å sikre kvalitet ved utførelsen av lovfestet revisjon og attestasjon av pliktig bærekraftsrapportering. Honorar fra det reviderte foretaket for andre tjenester enn revisjon eller attestasjon av pliktig bærekraftsrapportering skal ikke gi grunnlag for fastsettelse av vederlaget til noen som deltar i eller kan påvirke utfallet av revisjonen eller attestasjonen av pliktig bærekraftsrapportering.
 
@@ -267,7 +335,14 @@ Revisor- og attestantregisteret skal inneholde følgende opplysninger om revisjo
 
 ### § 7-2. Klientregister
 
-(1) Revisjonsforetak skal registrere følgende opplysninger om klienter som det utfører lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering for:navnadresseoppdragsansvarlig revisorhonorar for lovfestet revisjon for hvert regnskapsårhonorar for attestasjon av pliktig bærekraftsrapportering for hvert regnskapsår oghonorar for andre tjenester for hvert regnskapsår.
+(1) Revisjonsforetak skal registrere følgende opplysninger om klienter som det utfører lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering for:
+
+1. navn
+2. adresse
+3. oppdragsansvarlig revisor
+4. honorar for lovfestet revisjon for hvert regnskapsår
+5. honorar for attestasjon av pliktig bærekraftsrapportering for hvert regnskapsår og
+6. honorar for andre tjenester for hvert regnskapsår.
 
 (2) Ved konsernrevisjon og attestasjon av pliktig konsolidert bærekraftsrapportering skal revisjonsforetaket som er konsernrevisor, også registrere opplysninger om oppdragsansvarlige revisorer for vesentlige datterforetak hvor det samme revisjonsforetaket er valgt revisor eller attesterer bærekraftsrapporteringen.
 
@@ -307,9 +382,18 @@ Revisor- og attestantregisteret skal inneholde følgende opplysninger om revisjo
 
 ### § 8-2. Finansielle forbindelser til den reviderte
 
-(1) Revisor kan ikke ha en vesentlig og direkte eier- eller avkastningsinteresse i finansielle instrumenter utstedt eller garantert av den reviderte eller aktivt handle med slike instrumenter, unntatt finansielle instrumenter eiet gjennom diversifiserte ordninger for kollektive investeringer. Det samme gjelder forforetak i revisors nettverkoppdragsansvarlige revisorer i samme revisjonsselskapnoen som deltar i eller kan påvirke utfallet av revisjonen.
+(1) Revisor kan ikke ha en vesentlig og direkte eier- eller avkastningsinteresse i finansielle instrumenter utstedt eller garantert av den reviderte eller aktivt handle med slike instrumenter, unntatt finansielle instrumenter eiet gjennom diversifiserte ordninger for kollektive investeringer. Det samme gjelder for
 
-(2) Første ledd gjelder også for revisors nærstående eller nærstående av de som er nevnt i første ledd bokstav a til c. Med nærstående menesektefelle og en person som vedkommende bor sammen med i ekteskapslignende forholdmindreårige barn til vedkommende selv og til person som nevnt i bokstav a, som vedkommende bor sammen medslektninger som vedkommende bor sammen med og har bodd sammen med i minst ett årforetak som vedkommende selv eller noen som er nevnt i bokstav a til c har bestemmende innflytelse over eller sammenfallende økonomiske interesser med.
+1. foretak i revisors nettverk
+2. oppdragsansvarlige revisorer i samme revisjonsselskap
+3. noen som deltar i eller kan påvirke utfallet av revisjonen.
+
+(2) Første ledd gjelder også for revisors nærstående eller nærstående av de som er nevnt i første ledd bokstav a til c. Med nærstående menes
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold
+2. mindreårige barn til vedkommende selv og til person som nevnt i bokstav a, som vedkommende bor sammen med
+3. slektninger som vedkommende bor sammen med og har bodd sammen med i minst ett år
+4. foretak som vedkommende selv eller noen som er nevnt i bokstav a til c har bestemmende innflytelse over eller sammenfallende økonomiske interesser med.
 
 (3) Revisor kan ikke eie finansielle instrumenter utstedt av et foretak i samme konsern som den reviderte eller et foretak med lignende tilknytning, hvis eierskapet kan medføre eller oppfattes å medføre en interessekonflikt, unntatt finansielle instrumenter eiet gjennom diversifiserte ordninger for kollektive investeringer. Det samme gjelder for de som er nevnt i første ledd bokstav a og c.
 
@@ -387,7 +471,13 @@ Revisor kan ikke avtale betinget honorar. Honoraret kan heller ikke være helt e
 
 (2) Revisor skal vurdere om årsberetningen omfatter de opplysninger som skal gis i henhold til gjeldende lovkrav, med unntak av bærekraftsrapporteringen som er gitt i årsberetningen i henhold til [regnskapsloven §§ 2-3](lov/1998-07-17-56/§2-3) til [2-7](lov/1998-07-17-56/§2-7). Revisor skal også vurdere om årsberetningen er konsistent med årsregnskapet, og om revisor, basert på kunnskapen opparbeidet gjennom revisjonen av årsregnskapet, har avdekket vesentlig feilinformasjon i årsberetningen.
 
-(3) Revisor skal utføre lovfestet revisjon i samsvar med god revisjonsskikk. Dette innebærer blant annet at revisor skalopparbeide seg en forståelse av virksomheten, den interne kontrollen og andre forhold som kan være av betydning for revisjonen, herunder gjeldende lovkrav for virksomhetenvurdere om ledelsen har oppfylt sin plikt til å sørge for at foretakets bokføring er i samsvar med gjeldende lovkravidentifisere risikoene for vesentlig feilinformasjon i regnskapet, enten de skyldes misligheter eller utilsiktede feil, herunder som følge av brudd på gjeldende lovkravutforme og gjennomføre revisjonshandlinger for å håndtere de identifiserte risikoeneinnhente tilstrekkelig og hensiktsmessig revisjonsbevis som grunnlag for sin uttalelse i revisjonsberetningen.
+(3) Revisor skal utføre lovfestet revisjon i samsvar med god revisjonsskikk. Dette innebærer blant annet at revisor skal
+
+1. opparbeide seg en forståelse av virksomheten, den interne kontrollen og andre forhold som kan være av betydning for revisjonen, herunder gjeldende lovkrav for virksomheten
+2. vurdere om ledelsen har oppfylt sin plikt til å sørge for at foretakets bokføring er i samsvar med gjeldende lovkrav
+3. identifisere risikoene for vesentlig feilinformasjon i regnskapet, enten de skyldes misligheter eller utilsiktede feil, herunder som følge av brudd på gjeldende lovkrav
+4. utforme og gjennomføre revisjonshandlinger for å håndtere de identifiserte risikoene
+5. innhente tilstrekkelig og hensiktsmessig revisjonsbevis som grunnlag for sin uttalelse i revisjonsberetningen.
 
 (4) Revisor skal utføre revisjonen med profesjonell skepsis, herunder være oppmerksom på muligheten for vesentlig feilinformasjon i årsregnskapet som skyldes misligheter eller utilsiktede feil. Revisor skal særlig utvise profesjonell skepsis ved vurdering av regnskapsestimater knyttet til virkelige verdier, nedskrivninger av eiendeler, avsetninger, transaksjoner med nærstående parter og fremtidige kontantstrømmer av betydning for foretakets evne til fortsatt drift.
 
@@ -401,7 +491,12 @@ Revisor kan ikke avtale betinget honorar. Honoraret kan heller ikke være helt e
 
 (1) Revisor skal vurdere om bærekraftsrapporteringen er utarbeidet i samsvar med gjeldende lovkrav.
 
-(2) Revisor skal utføre attestasjon av pliktig bærekraftsrapportering i samsvar med god revisjonsskikk for attestasjon av pliktig bærekraftsrapportering. Dette innebærer blant annet at revisor skalopparbeide seg en forståelse av virksomheten, den interne kontrollen og andre forhold som kan være av betydning for attestasjonen av bærekraftsrapporteringen,identifisere risikoene for vesentlig feilinformasjon i bærekraftsrapporteringen, enten det skyldes misligheter eller utilsiktede feil,utforme og gjennomføre attestasjonshandlinger for å håndtere de identifiserte risikoene,innhente tilstrekkelig og hensiktsmessig bevis for sin attestasjonsuttalelse om bærekraftsrapporteringen.
+(2) Revisor skal utføre attestasjon av pliktig bærekraftsrapportering i samsvar med god revisjonsskikk for attestasjon av pliktig bærekraftsrapportering. Dette innebærer blant annet at revisor skal
+
+1. opparbeide seg en forståelse av virksomheten, den interne kontrollen og andre forhold som kan være av betydning for attestasjonen av bærekraftsrapporteringen,
+2. identifisere risikoene for vesentlig feilinformasjon i bærekraftsrapporteringen, enten det skyldes misligheter eller utilsiktede feil,
+3. utforme og gjennomføre attestasjonshandlinger for å håndtere de identifiserte risikoene,
+4. innhente tilstrekkelig og hensiktsmessig bevis for sin attestasjonsuttalelse om bærekraftsrapporteringen.
 
 (3) Revisor skal utføre attestasjonen av bærekraftsrapporteringen med profesjonell skepsis, herunder være oppmerksom på muligheten for vesentlig feilinformasjon som skyldes misligheter eller utilsiktede feil.
 
@@ -429,7 +524,16 @@ Revisor har plikt til å trekke seg fra et oppdrag om lovfestet revisjon eller a
 
 (1) Revisor skal avgi en revisjonsberetning som viser resultatet av den lovfestede revisjonen. Revisjonsberetningen skal være skriftlig, datert, signert av oppdragsansvarlig revisor og angi hvor revisor er etablert. Revisjonsberetningen skal være på norsk eller samme språk som den revidertes årsregnskap. Revisjonsberetningen skal avgis uten ugrunnet opphold etter at årsregnskapet er utarbeidet.
 
-(2) I revisjonsberetningen skal revisornavngi den reviderte, hvilket årsregnskap som er revidert, og hvilket regnskapsregelverk som er anvendt ved utarbeidelsen av årsregnskapetgi en beskrivelse av hva revisjonen har omfattet, der det minst skal opplyses hvilke revisjonsstandarder som er anvendtuttale seg om årsregnskapet etter revisors mening gir et rettvisende bilde i samsvar med det regnskapsregelverket som er benyttet og om det oppfyller gjeldende lovkrav. Revisors konklusjon skal enten være uten forbehold, med forbehold eller negativ. Hvis revisor ikke har grunnlag for å konkludere, skal det opplyses at revisor ikke kan uttale segved bruk av presisering vise til forhold i årsregnskapet som revisor mener bør fremheves uten å ta forbeholdopplyse om andre forhold som revisor på grunnlag av revisjonen anser at brukerne av revisjonsberetningen bør gjøres kjent med, herunder om det foreligger forhold som kan føre til ansvar for medlem av styret, bedriftsforsamlingen, representantskapet eller daglig lederuttale seg om årsberetningen etter revisors mening er konsistent med årsregnskapet og, basert på kunnskapen opparbeidet gjennom revisjonen av årsregnskapet, angi om det er avdekket vesentlig feilinformasjon i årsberetningen og opplyse om arten av slik feilinformasjonuttale seg om årsberetningen inneholder de opplysninger som skal gis i henhold til gjeldende lovkrav. Dette gjelder ikke for bærekraftsrapportering som er gitt i årsberetningen i henhold til [regnskapsloven §§ 2-3](lov/1998-07-17-56/§2-3) til [2-7](lov/1998-07-17-56/§2-7).uttale seg hvis det er vesentlig usikkerhet knyttet til hendelser eller forhold som kan gi grunnlag for betydelig tvil om den revidertes evne til fortsatt drift.
+(2) I revisjonsberetningen skal revisor
+
+1. navngi den reviderte, hvilket årsregnskap som er revidert, og hvilket regnskapsregelverk som er anvendt ved utarbeidelsen av årsregnskapet
+2. gi en beskrivelse av hva revisjonen har omfattet, der det minst skal opplyses hvilke revisjonsstandarder som er anvendt
+3. uttale seg om årsregnskapet etter revisors mening gir et rettvisende bilde i samsvar med det regnskapsregelverket som er benyttet og om det oppfyller gjeldende lovkrav. Revisors konklusjon skal enten være uten forbehold, med forbehold eller negativ. Hvis revisor ikke har grunnlag for å konkludere, skal det opplyses at revisor ikke kan uttale seg
+4. ved bruk av presisering vise til forhold i årsregnskapet som revisor mener bør fremheves uten å ta forbehold
+5. opplyse om andre forhold som revisor på grunnlag av revisjonen anser at brukerne av revisjonsberetningen bør gjøres kjent med, herunder om det foreligger forhold som kan føre til ansvar for medlem av styret, bedriftsforsamlingen, representantskapet eller daglig leder
+6. uttale seg om årsberetningen etter revisors mening er konsistent med årsregnskapet og, basert på kunnskapen opparbeidet gjennom revisjonen av årsregnskapet, angi om det er avdekket vesentlig feilinformasjon i årsberetningen og opplyse om arten av slik feilinformasjon
+7. uttale seg om årsberetningen inneholder de opplysninger som skal gis i henhold til gjeldende lovkrav. Dette gjelder ikke for bærekraftsrapportering som er gitt i årsberetningen i henhold til [regnskapsloven §§ 2-3](lov/1998-07-17-56/§2-3) til [2-7](lov/1998-07-17-56/§2-7).
+8. uttale seg hvis det er vesentlig usikkerhet knyttet til hendelser eller forhold som kan gi grunnlag for betydelig tvil om den revidertes evne til fortsatt drift.
 
 (3) Annet ledd bokstav f og g gjelder på samme måte for informasjon som er publisert separat og henvist til i årsberetningen i henhold til [regnskapsloven § 2-9](lov/1998-07-17-56/§2-9) om redegjørelse om foretaksstyring og eventuelt [§ 2-10](lov/1998-07-17-56/§2-10) om rapportering om betalinger til myndigheter mv.
 
@@ -443,7 +547,15 @@ Revisor har plikt til å trekke seg fra et oppdrag om lovfestet revisjon eller a
 
 (2) Attestasjonsuttalelsen skal være skriftlig, datert, signert av oppdragsansvarlig bærekraftsrevisor og angi hvor revisor er etablert. Attestasjonsuttalelsen skal være på norsk eller samme språk som bærekraftsrapporteringen.
 
-(3) I attestasjonsuttalelsen skal revisornavngi foretaket som har utarbeidet bærekraftsrapporteringen, og angi hvilken bærekraftsrapportering som er attestert og hvilket regelverk som er anvendt ved utarbeidelsen av bærekraftsrapporteringen,gi en beskrivelse av hva attestasjonen har omfattet, der det minst skal opplyses hvilke attestasjonsstandarder som er anvendt,gi uttrykk for en mening på grunnlag av et attestasjonsoppdrag som skal gi moderat eller betryggende sikkerhet, ombærekraftsrapporteringen er i samsvar med kravene i [regnskapsloven kapittel 2](lov/1998-07-17-56/kap2), inkludert standardene for bærekraftsrapportering, og i samsvar med rapporteringskravene i taksonomiforordningen artikkel 8,prosessen som foretaket har gjennomført for å identifisere informasjonen som er rapportert i henhold til standardene, ogoverholdelsen av kravet om å merke bærekraftsrapporteringen i samsvar med kravene til elektronisk rapporteringsformat etter [regnskapsloven § 2-7](lov/1998-07-17-56/§2-7).
+(3) I attestasjonsuttalelsen skal revisor
+
+1. navngi foretaket som har utarbeidet bærekraftsrapporteringen, og angi hvilken bærekraftsrapportering som er attestert og hvilket regelverk som er anvendt ved utarbeidelsen av bærekraftsrapporteringen,
+2. gi en beskrivelse av hva attestasjonen har omfattet, der det minst skal opplyses hvilke attestasjonsstandarder som er anvendt,
+3. gi uttrykk for en mening på grunnlag av et attestasjonsoppdrag som skal gi moderat eller betryggende sikkerhet, om
+
+   1. bærekraftsrapporteringen er i samsvar med kravene i [regnskapsloven kapittel 2](lov/1998-07-17-56/kap2), inkludert standardene for bærekraftsrapportering, og i samsvar med rapporteringskravene i taksonomiforordningen artikkel 8,
+   2. prosessen som foretaket har gjennomført for å identifisere informasjonen som er rapportert i henhold til standardene, og
+   3. overholdelsen av kravet om å merke bærekraftsrapporteringen i samsvar med kravene til elektronisk rapporteringsformat etter [regnskapsloven § 2-7](lov/1998-07-17-56/§2-7).
 
 (4) Attestasjonsuttalelsen kan inntas i revisjonsberetningen eller gis som en separat uttalelse.
 
@@ -505,7 +617,12 @@ Revisor har plikt til å trekke seg fra et oppdrag om lovfestet revisjon eller a
 
 (1) Et revisjonsforetak plikter å hindre at uvedkommende får adgang eller kjennskap til opplysninger som mottas i forbindelse med foretakets virksomhet, med mindre revisor i eller i medhold av lov er gitt plikt eller adgang til å gi taushetsbelagte opplysninger.
 
-(2) Revisor kan uten hinder av taushetspliktgi opplysninger og adgang til dokumentasjon etter samtykke fra den som opplysningene gjeldergi opplysninger og adgang til dokumentasjon til en annen revisor som foretar kontroll av revisors oppdragunderrette politiet om forhold som gir grunn til mistanke om straffbar handlingavgi forklaring og utlevere dokumentasjon til politiet når det er åpnet etterforskning i en straffesak.
+(2) Revisor kan uten hinder av taushetsplikt
+
+1. gi opplysninger og adgang til dokumentasjon etter samtykke fra den som opplysningene gjelder
+2. gi opplysninger og adgang til dokumentasjon til en annen revisor som foretar kontroll av revisors oppdrag
+3. underrette politiet om forhold som gir grunn til mistanke om straffbar handling
+4. avgi forklaring og utlevere dokumentasjon til politiet når det er åpnet etterforskning i en straffesak.
 
 (3) Taushetsplikten etter første ledd og unntakene i annet ledd bokstav a og d gjelder tilsvarende for tillitsvalgte, partnere og ansatte, og for andre som deltar i utførelsen eller kontroll av revisjonsforetakets oppdrag.
 
@@ -563,7 +680,10 @@ En statsautorisert revisor eller et revisjonsselskap kan uten hinder av revisjon
 
 ### § 12-4 a. Forbud mot å levere visse tjenester for den som attesterer bærekraftsrapportering
 
-(1) En revisor som attesterer bærekraftsrapporteringen til et foretak av allmenn interesse eller til et foretak i samme nettverk som revisoren, skal ikke, verken direkte eller indirekte, yte tjenester som nevnt i revisjonsforordningen artikkel 5 nr. 1 annet ledd bokstav b, c og e til k til foretaket som revisor attesterer bærekraftsrapporteringen til. Første punktum gjelder tilsvarende for tjenester til dette foretakets morforetak eller dets kontrollerte foretak i EØS. Første og annet punktum gjelder likevel bare i følgende tidsperioder:perioden mellom starten på den perioden den attesterte bærekraftsrapporteringen gjelder for og avgivelsen av attestasjonsuttalelsen, ogregnskapsåret umiddelbart før perioden nevnt i bokstav a når det gjelder tjenestene nevnt i revisjonsforordningen artikkel 5 nr. 1 annet ledd bokstav e.
+(1) En revisor som attesterer bærekraftsrapporteringen til et foretak av allmenn interesse eller til et foretak i samme nettverk som revisoren, skal ikke, verken direkte eller indirekte, yte tjenester som nevnt i revisjonsforordningen artikkel 5 nr. 1 annet ledd bokstav b, c og e til k til foretaket som revisor attesterer bærekraftsrapporteringen til. Første punktum gjelder tilsvarende for tjenester til dette foretakets morforetak eller dets kontrollerte foretak i EØS. Første og annet punktum gjelder likevel bare i følgende tidsperioder:
+
+1. perioden mellom starten på den perioden den attesterte bærekraftsrapporteringen gjelder for og avgivelsen av attestasjonsuttalelsen, og
+2. regnskapsåret umiddelbart før perioden nevnt i bokstav a når det gjelder tjenestene nevnt i revisjonsforordningen artikkel 5 nr. 1 annet ledd bokstav e.
 
 (2) En revisor som attesterer bærekraftsrapporteringen til et foretak av allmenn interesse, og medlemmer av revisors nettverk, kan yte andre tjenester enn revisjon, som ikke er forbudte tjenester som nevnt i første ledd, til foretaket som revisor attesterer bærekraftsrapporteringen til, dets morforetak eller dets kontrollerte foretak. For å kunne yte slike tjenester må revisjonsutvalget ha godkjent dette etter å ha foretatt en behørig vurdering av uavhengigheten og tiltak for å sikre uavhengigheten som revisor har iverksatt etter [§ 8-5 første ledd](lov/2020-11-20-128/§8-5/ledd/1).
 
@@ -629,7 +749,10 @@ Finanstilsynet har overordnet ansvar for tilsyn med fastsetting av standarder om
 
 ### § 14-1. Tilbakekall og suspensjon av godkjenningen til en statsautorisert revisor
 
-(1) Finanstilsynet kan kalle tilbake godkjenningen hvis en statsautorisert revisor må anses uskikket fordi vedkommendehar overtrådt revisors plikter etter gjeldende lovkrav og overtredelsen er grov eller flere overtredelser til sammen er grove, ellerikke lenger oppfyller vilkårene i [§ 3-4](lov/2020-11-20-128/§3-4).
+(1) Finanstilsynet kan kalle tilbake godkjenningen hvis en statsautorisert revisor må anses uskikket fordi vedkommende
+
+1. har overtrådt revisors plikter etter gjeldende lovkrav og overtredelsen er grov eller flere overtredelser til sammen er grove, eller
+2. ikke lenger oppfyller vilkårene i [§ 3-4](lov/2020-11-20-128/§3-4).
 
 (2) Finanstilsynet kan suspendere godkjenningen hvis en statsautorisert revisor er siktet for et forhold som kan medføre tilbakekall, inntil straffesaken er avsluttet.
 
@@ -637,7 +760,10 @@ Finanstilsynet har overordnet ansvar for tilsyn med fastsetting av standarder om
 
 ### § 14-2. Tilbakekall og suspensjon av godkjenningen til et revisjonsselskap
 
-(1) Finanstilsynet kan kalle tilbake godkjenningen hvis et revisjonsselskapikke lenger oppfyller vilkårene i [§ 4-1](lov/2020-11-20-128/§4-1) ellermå anses uskikket fordi revisjonsselskapet har overtrådt sine plikter etter gjeldende lovkrav og overtredelsen er grov eller flere overtredelser til sammen er grove.
+(1) Finanstilsynet kan kalle tilbake godkjenningen hvis et revisjonsselskap
+
+1. ikke lenger oppfyller vilkårene i [§ 4-1](lov/2020-11-20-128/§4-1) eller
+2. må anses uskikket fordi revisjonsselskapet har overtrådt sine plikter etter gjeldende lovkrav og overtredelsen er grov eller flere overtredelser til sammen er grove.
 
 (2) Finanstilsynet kan suspendere godkjenningen hvis et revisjonsselskap er siktet for et forhold som kan medføre tilbakekall, inntil straffesaken er avsluttet.
 
@@ -667,7 +793,17 @@ Finanstilsynet har overordnet ansvar for tilsyn med fastsetting av standarder om
 
 ### § 14-5. Overtredelsesgebyr
 
-(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av[§ 7-1](lov/2020-11-20-128/§7-1)§[§ 8-1](lov/2020-11-20-128/§8-1) til [8-7](lov/2020-11-20-128/§8-7)§[§ 9-2](lov/2020-11-20-128/§9-2) til [9-10](lov/2020-11-20-128/§9-10)§[§ 8-8](lov/2020-11-20-128/§8-8) eller [12-5](lov/2020-11-20-128/§12-5)revisjonsforordningen artikkel 4, jf. [§ 12-3](lov/2020-11-20-128/§12-3), om revisjonshonorarartikkel 5, jf. [§ 12-4](lov/2020-11-20-128/§12-4), om forbud mot å levere visse tjenester[§ 12-4 a](lov/2020-11-20-128/§12-4a)artikkel 8 om gjennomgang av revisjonsoppdraget av en revisor som ikke har deltatt i revisjonenvedtak fattet med hjemmel i [§ 14-3](lov/2020-11-20-128/§14-3) eller [§ 14-4](lov/2020-11-20-128/§14-4).
+(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av
+
+1. [§ 7-1](lov/2020-11-20-128/§7-1)
+2. §[§ 8-1](lov/2020-11-20-128/§8-1) til [8-7](lov/2020-11-20-128/§8-7)
+3. §[§ 9-2](lov/2020-11-20-128/§9-2) til [9-10](lov/2020-11-20-128/§9-10)
+4. §[§ 8-8](lov/2020-11-20-128/§8-8) eller [12-5](lov/2020-11-20-128/§12-5)
+5. revisjonsforordningen artikkel 4, jf. [§ 12-3](lov/2020-11-20-128/§12-3), om revisjonshonorar
+6. artikkel 5, jf. [§ 12-4](lov/2020-11-20-128/§12-4), om forbud mot å levere visse tjenester
+7. [§ 12-4 a](lov/2020-11-20-128/§12-4a)
+8. artikkel 8 om gjennomgang av revisjonsoppdraget av en revisor som ikke har deltatt i revisjonen
+9. vedtak fattet med hjemmel i [§ 14-3](lov/2020-11-20-128/§14-3) eller [§ 14-4](lov/2020-11-20-128/§14-4).
 
 (2) Fysiske personer kan ilegges overtredelsesgebyr bare for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, har overtrådt bestemmelsene nevnt i første ledd.
 
@@ -681,7 +817,15 @@ Finanstilsynet har overordnet ansvar for tilsyn med fastsetting av standarder om
 
 ### § 14-6. Momenter ved vedtak om overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evnehvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsentap påført tredjeperson som følge av overtredelseni hvilken grad overtrederen har samarbeidet med Finanstilsynettidligere overtredelser.
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. overtrederens grad av skyld
+3. overtrederens økonomiske evne
+4. hvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsen
+5. tap påført tredjeperson som følge av overtredelsen
+6. i hvilken grad overtrederen har samarbeidet med Finanstilsynet
+7. tidligere overtredelser.
 
 ### § 14-7. Foreldelse mv.
 

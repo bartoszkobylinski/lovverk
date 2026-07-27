@@ -34,7 +34,9 @@ Ved konflikt mellom denne forskriften og forordningen i § 2, gjelder forordning
 
 ## § 2a. Forordning som utfyller forordning (EU) 2020/741
 
-[EØS-avtalens vedlegg XX kapittel II](avtale/avt-1992-05-02-1-v20/kapII) med følgende forordning gjelder som forskrift med de tilpasningene som følger av [vedlegg XX kapittel II](avtale/avt-1992-05-02-1-v20/kapII), protokoll 1 til avtalen og avtalen for øvrig:forordning [(EU) 2024/1765](eu/32024r1765) om tekniske spesifikasjoner for viktige risikostyringselementer i forbindelse med gjenbruk av vann.
+[EØS-avtalens vedlegg XX kapittel II](avtale/avt-1992-05-02-1-v20/kapII) med følgende forordning gjelder som forskrift med de tilpasningene som følger av [vedlegg XX kapittel II](avtale/avt-1992-05-02-1-v20/kapII), protokoll 1 til avtalen og avtalen for øvrig:
+
+- forordning [(EU) 2024/1765](eu/32024r1765) om tekniske spesifikasjoner for viktige risikostyringselementer i forbindelse med gjenbruk av vann.
 
 > Tilføyd ved forskrift [16 juni 2025 nr. 1034](forskrift/2025-06-16-1034).
 

@@ -28,7 +28,11 @@ Det er forbudt for norske fartøy å fiske i Færøyenes fiskerisone i 2026.
 
 ## § 2. Totalkvoter
 
-Uten hensyn til forbudet i [§ 1](forskrift/2026-01-05-4/§1) kan fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy og fartøy som har adgang til å delta i lukket gruppe i kystfartøygruppens fiske etter lange og brosme, fiske og lande følgende kvanta:2 100 tonn lange/blålange1 800 tonn brosme600 tonn andre arter som bifangst.
+Uten hensyn til forbudet i [§ 1](forskrift/2026-01-05-4/§1) kan fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy og fartøy som har adgang til å delta i lukket gruppe i kystfartøygruppens fiske etter lange og brosme, fiske og lande følgende kvanta:
+
+1. 2 100 tonn lange/blålange
+2. 1 800 tonn brosme
+3. 600 tonn andre arter som bifangst.
 
 Fiskeridirektoratet kan endre deltakerbegrensningen i første ledd dersom kvotene ikke blir utnyttet.
 

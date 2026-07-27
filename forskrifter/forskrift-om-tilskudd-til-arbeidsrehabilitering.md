@@ -24,11 +24,17 @@ eu_basis: []
 
 ## § 1. Formål
 
-Tilskuddsordningen skal gjennom støtte til implementering av de kunnskapsbaserte arbeidsrehabiliteringsmetodene individuell jobbstøtte og jobbmestrende oppfølging, bidra til atpersoner med moderate til alvorlige psykiske lidelser og rusmiddelproblemer kan utnytte sin arbeidsevne i ordinært arbeidarbeidsdeltakelse inkluderes som et ledd i utredning og behandling av personer med moderate til alvorlige psykiske lidelser og personer med rusmiddelproblemer som ønsker deltakelse i arbeidslivet.
+Tilskuddsordningen skal gjennom støtte til implementering av de kunnskapsbaserte arbeidsrehabiliteringsmetodene individuell jobbstøtte og jobbmestrende oppfølging, bidra til at
+
+1. personer med moderate til alvorlige psykiske lidelser og rusmiddelproblemer kan utnytte sin arbeidsevne i ordinært arbeid
+2. arbeidsdeltakelse inkluderes som et ledd i utredning og behandling av personer med moderate til alvorlige psykiske lidelser og personer med rusmiddelproblemer som ønsker deltakelse i arbeidslivet.
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*individuell jobbstøtte:* En kunnskapsbasert metode innen arbeidsrehabilitering utviklet spesielt for personer med alvorlige psykiske lidelser, hvor behandling i helse- og omsorgstjenesten og arbeidsrettet oppfølging foregår parallelt.*jobbmestrende oppfølging:* En norsk kunnskapsbasert samarbeids- og oppfølgingsmodell som omfatter deltaker (jobbsøker), arbeidskonsulent, NAV og behandler i helse- og omsorgstjenesten.
+I denne forskriften menes med
+
+1. *individuell jobbstøtte:* En kunnskapsbasert metode innen arbeidsrehabilitering utviklet spesielt for personer med alvorlige psykiske lidelser, hvor behandling i helse- og omsorgstjenesten og arbeidsrettet oppfølging foregår parallelt.
+2. *jobbmestrende oppfølging:* En norsk kunnskapsbasert samarbeids- og oppfølgingsmodell som omfatter deltaker (jobbsøker), arbeidskonsulent, NAV og behandler i helse- og omsorgstjenesten.
 
 ## § 3. Hvem og hva det kan gis tilskudd til
 
@@ -40,7 +46,18 @@ Det gis tilskudd til implementering av individuell jobbstøtte og jobbmestrende 
 
 Søknad om tilskudd skal sendes Helsedirektoratet på fastsatt skjema via Altinn. Søknaden skal sendes innen fristen som fremgår i utlysingen av tilskuddsordningen.
 
-Søknaden skalangi søkers kontaktinformasjonbeskrive tiltak det søkes om tilskudd til, med mål og fremdriftsplanangi tiltaksbeløpinneholde et budsjett for tiltaksperiodenangi tilskudd søkeren har fått innvilget eller har søkt om fra andre instanserangi egenfinansiering av tiltaketbeskrive søkerens organisasjonsform med fullstendig organisasjonsoversikt som viser moder-, søster- og datterorganisasjonerangi eventuelt samarbeid med andre aktører om gjennomføringen av tiltaketoppgi planlagte interne og eksterne kontrolltiltak for å sikre korrekt rapportering og måloppnåelsedokumentere at rapporteringen er foretatt i tråd med kravene i [§ 8](forskrift/2019-03-04-185/§8), dersom søkeren fikk tilskudd foregående år.
+Søknaden skal
+
+1. angi søkers kontaktinformasjon
+2. beskrive tiltak det søkes om tilskudd til, med mål og fremdriftsplan
+3. angi tiltaksbeløp
+4. inneholde et budsjett for tiltaksperioden
+5. angi tilskudd søkeren har fått innvilget eller har søkt om fra andre instanser
+6. angi egenfinansiering av tiltaket
+7. beskrive søkerens organisasjonsform med fullstendig organisasjonsoversikt som viser moder-, søster- og datterorganisasjoner
+8. angi eventuelt samarbeid med andre aktører om gjennomføringen av tiltaket
+9. oppgi planlagte interne og eksterne kontrolltiltak for å sikre korrekt rapportering og måloppnåelse
+10. dokumentere at rapporteringen er foretatt i tråd med kravene i [§ 8](forskrift/2019-03-04-185/§8), dersom søkeren fikk tilskudd foregående år.
 
 ## § 5. Søknadsbehandlingen
 
@@ -60,7 +77,10 @@ Søknader som kommer inn etter søknadsfristen kan avvises. For øvrig gjelder f
 
 Tilskuddsmottakeren skal uten unødig opphold varsle Helsedirektoratet om endringer i adresse, bankkontonummer eller organisasjonsnummer etter at tilskudd er innvilget.
 
-Før et tilskudd utbetales, skal søkeren bekrefte at virksomhetenikke driver økonomisk aktivitet ellerhar opprettet separate regnskaper for økonomisk og ikke-økonomisk aktivitet som oppfyller kravene i [forskrift 7. september 2006 nr. 1062](forskrift/2006-09-07-1062) til utfylling og gjennomføring mv. av regnskapsloven av 17. juli 1998 nr. 56 § 9-1-3 og at inntekter og utgifter allokeres på relevant regnskap.
+Før et tilskudd utbetales, skal søkeren bekrefte at virksomheten
+
+1. ikke driver økonomisk aktivitet eller
+2. har opprettet separate regnskaper for økonomisk og ikke-økonomisk aktivitet som oppfyller kravene i [forskrift 7. september 2006 nr. 1062](forskrift/2006-09-07-1062) til utfylling og gjennomføring mv. av regnskapsloven av 17. juli 1998 nr. 56 § 9-1-3 og at inntekter og utgifter allokeres på relevant regnskap.
 
 Tilskuddet kan utbetales som enkeltbeløp eller i terminer.
 
@@ -68,7 +88,17 @@ Fikk tilskuddsmottakeren tilskudd også foregående år, kan det nye tilskuddet 
 
 ## § 8. Tilskuddsmottakers oppfølging og rapportering
 
-Tilskuddsmottaker skal innen 1. mars året etter det året tilskuddet gjelder for, rapportere til Helsedirektoratet elektronisk på fastsatt skjema via Altinn. Rapporteringen skal inneholde:Rapport med informasjon om måloppnåelse ut fraAntall deltakere i arbeid eller under utdanningPoengsum på kvalitetsskalaen for IPSBruk av kognitive teknikker i arbeidsrehabiliteringKompetanseheving av ansatteOmfanget av samarbeid med arbeidsgivereÅrsregnskap som er stilt opp slik at det kan sammenlignes med budsjettRevisorattestasjon og revisorkontroll dersom spesifisert i kunngjøring eller tilskuddsbrev.
+Tilskuddsmottaker skal innen 1. mars året etter det året tilskuddet gjelder for, rapportere til Helsedirektoratet elektronisk på fastsatt skjema via Altinn. Rapporteringen skal inneholde:
+
+1. Rapport med informasjon om måloppnåelse ut fra
+
+   1. Antall deltakere i arbeid eller under utdanning
+   2. Poengsum på kvalitetsskalaen for IPS
+   3. Bruk av kognitive teknikker i arbeidsrehabilitering
+   4. Kompetanseheving av ansatte
+   5. Omfanget av samarbeid med arbeidsgivere
+2. Årsregnskap som er stilt opp slik at det kan sammenlignes med budsjett
+3. Revisorattestasjon og revisorkontroll dersom spesifisert i kunngjøring eller tilskuddsbrev.
 
 I tillegg kan tilskuddsforvalter i kunngjøringen eller tilskuddsbrevet kreve ytterligere opplysninger i rapporteringen, eventuelt også når rapporteringen behandles.
 
@@ -78,7 +108,11 @@ Helsedirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i
 
 ## § 10. Stans i utbetaling av tilskudd og krav om tilbakebetaling
 
-Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkertilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtakettilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
+Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersom
+
+1. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søker
+2. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket
+3. tilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
 
 ## § 11. Ikrafttredelse
 

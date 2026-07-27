@@ -15,7 +15,7 @@ xml_hash: "e5e2ce2dd4cd27dd6fdb24d53e29ec0ef3117f6cd428b46a0decf79986bffdcf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,7 +114,10 @@ Domstolene kan legge ut rettsavgjørelser på åpne nettsider for allmennheten o
 
 Rettsavgjørelser kan ikke legges ut dersom det foreligger forbud mot å gi utskrift, eller så langt det foreligger forbud mot offentlig gjengivelse.
 
-På åpne nettsider gjelder i tillegg følgende begrensninger:I straffesaker hvor siktelsen ikke er allment kjent, skal rettsavgjørelsen anonymiseres så langt det er nødvendig for å hindre identifisering av siktede. Opplysninger som kan identifisere fornærmede, kan bare legges ut dersom dette finnes ubetenkelig.I sivile saker som gjelder forhold av særlig sensitiv karakter, kan rettsavgjørelsen bare legges ut i anonymisert form.
+På åpne nettsider gjelder i tillegg følgende begrensninger:
+
+1. I straffesaker hvor siktelsen ikke er allment kjent, skal rettsavgjørelsen anonymiseres så langt det er nødvendig for å hindre identifisering av siktede. Opplysninger som kan identifisere fornærmede, kan bare legges ut dersom dette finnes ubetenkelig.
+2. I sivile saker som gjelder forhold av særlig sensitiv karakter, kan rettsavgjørelsen bare legges ut i anonymisert form.
 
 Uanonymiserte rettsavgjørelser skal fjernes fra åpne og lukkede nettsider innen tre måneder. Unntak kan gjøres for avgjørelser i sivile saker som ikke berører forhold av særlig sensitiv karakter.
 
@@ -222,9 +225,17 @@ Når utskrift gis foreligger ingen plikt til å sladde personopplysninger. Men i
 
 Retten til utskrift av kjennelser er underlagt de samme betingelser og unntak som dommer, jf. henvisningen i fjerde ledd til [straffeprosessloven § 28](lov/1981-05-22-25/§28).
 
-Dette betyr at kravet om utskrift kan avslåshvis man ikke identifiserer kjennelsen tilstrekkelig. Man har bare krav på utskrift av kjennelser i bestemte straffesaker, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) tredje ledd første punktum. Kjennelsen må identifiseres på en slik måte at det er uproblematisk for domstolen å finne dem frem. Enklest skjer dette ved å oppgi saksnummer. Men en kombinasjon av andre opplysninger (dato for avsigelsen av kjennelsen, dommerens/aktors/forsvarers navn, nærmere opplysninger om siktelsen/tiltalen, kjennelsen etc.) kan også være tilstrekkelig. Det er ikke tilstrekkelig å bare oppgi siktedes navn, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) tredje ledd annet punktum. Utskriftsretten skal ikke kunne benyttes av noen til det formål å få frem forhold knyttet til bestemte, navngitte enkeltpersoner, uten at man har noe kjennskap til forholdet fra før. Domstolen må derfor kunne forlange at det gis en omtrentlig angivelse av noe av det saken dreier seg om.hvis kjennelsen er forbudt offentlig gjengitt. Domstolen kan etter en konkret vurdering likevel gi utskrift av kjennelsen. I så fall må domstolen gi påskrift om forbudet eller på annen måte gjøre mottakeren kjent med forbudet mot offentlig gjengivelse. Hvis domstolen avslår anmodningen om utskrift, har allmennheten likevel krav på innsyn i kjennelsens slutning.hvis kjennelsen er eldre enn fem år.
+Dette betyr at kravet om utskrift kan avslås
 
-Utskrift ikke skal gisdersom det er grunn til å frykte at utskriften vil bli nyttet på urettmessig vis.når pålegg om hemmelighold er gitt.når det av hensyn til rikets sikkerhet eller forhold til fremmed stat vil være betenkelig å gi utskrift.
+- hvis man ikke identifiserer kjennelsen tilstrekkelig. Man har bare krav på utskrift av kjennelser i bestemte straffesaker, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) tredje ledd første punktum. Kjennelsen må identifiseres på en slik måte at det er uproblematisk for domstolen å finne dem frem. Enklest skjer dette ved å oppgi saksnummer. Men en kombinasjon av andre opplysninger (dato for avsigelsen av kjennelsen, dommerens/aktors/forsvarers navn, nærmere opplysninger om siktelsen/tiltalen, kjennelsen etc.) kan også være tilstrekkelig. Det er ikke tilstrekkelig å bare oppgi siktedes navn, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) tredje ledd annet punktum. Utskriftsretten skal ikke kunne benyttes av noen til det formål å få frem forhold knyttet til bestemte, navngitte enkeltpersoner, uten at man har noe kjennskap til forholdet fra før. Domstolen må derfor kunne forlange at det gis en omtrentlig angivelse av noe av det saken dreier seg om.
+- hvis kjennelsen er forbudt offentlig gjengitt. Domstolen kan etter en konkret vurdering likevel gi utskrift av kjennelsen. I så fall må domstolen gi påskrift om forbudet eller på annen måte gjøre mottakeren kjent med forbudet mot offentlig gjengivelse. Hvis domstolen avslår anmodningen om utskrift, har allmennheten likevel krav på innsyn i kjennelsens slutning.
+- hvis kjennelsen er eldre enn fem år.
+
+Utskrift ikke skal gis
+
+- dersom det er grunn til å frykte at utskriften vil bli nyttet på urettmessig vis.
+- når pålegg om hemmelighold er gitt.
+- når det av hensyn til rikets sikkerhet eller forhold til fremmed stat vil være betenkelig å gi utskrift.
 
 Dersom utskrift nektes av de tre sistnevnte grunner, har allmennheten likevel krav på innsyn i kjennelsens slutning. Det samme gjelder når utskrift nektes fordi kjennelsen er forbudt offentlig gjengitt, se ovenfor. Innsyn kan gis ved gjennomsyn på rettens kontor, eller ved utskrift av slutningen, alt etter hva domstolen finner hensiktsmessig.
 

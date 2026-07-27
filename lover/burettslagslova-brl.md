@@ -15,7 +15,7 @@ xml_hash: "540e62dfe2215084b7c06cda05160dfe24ec38e8e081810f82864359e0533069"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,13 @@ I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn
 
 ### § 2-2. Minstekrav til vedtektene. Føretaksnamn
 
-(1) Vedtektene skal minst innehalde føresegner omføretaksnamn for laget,kommunen i riket der laget skal ha forretningskontor,pålydande verdi på andelane,lågaste og høgaste tal på styremedlemmer,kva saker som skal opp på den ordinære generalforsamlinga.
+(1) Vedtektene skal minst innehalde føresegner om
+
+1. føretaksnamn for laget,
+2. kommunen i riket der laget skal ha forretningskontor,
+3. pålydande verdi på andelane,
+4. lågaste og høgaste tal på styremedlemmer,
+5. kva saker som skal opp på den ordinære generalforsamlinga.
 
 (2) Namnet på burettslaget (føretaksnamnet) skal innhalde ordet burettslag eller avkortinga BRL.
 
@@ -108,7 +114,12 @@ Stiftingsdokumentet skal elles opplyse om namn eller føretaksnamn, adresse og f
 
 ### § 2-4. Forbod mot særlege rettar
 
-Det kan ikkje takast inn vilkår i stiftingsdokumentet omoppgjer av andelar med anna enn pengar,om plikt for laget til å dekkje stiftingsutgiftene,at laget skal ha plikt til å overta eignedelar eller bli part i avtale,at nokon skal ha særlege rettar eller fordelar i laget på grunnlag av stiftinga.
+Det kan ikkje takast inn vilkår i stiftingsdokumentet om
+
+1. oppgjer av andelar med anna enn pengar,
+2. om plikt for laget til å dekkje stiftingsutgiftene,
+3. at laget skal ha plikt til å overta eignedelar eller bli part i avtale,
+4. at nokon skal ha særlege rettar eller fordelar i laget på grunnlag av stiftinga.
 
 ### § 2-5. Opningsbalanse
 
@@ -254,7 +265,14 @@ Om ikkje anna følgjer av kapittelet her, kan kvar andelseigar berre eige ein an
 
 ### § 4-2. Juridiske personar o.a. som kan eige andelar utan omsyn til vedtektene
 
-(1) Desse kan til saman eige andel eller andelar som gir rett til minst ein bustad og opp til ti prosent av bustadene i lag med fem eller fleire andelar:stat,fylkeskommune,kommune,selskap som har til føremål å skaffe bustader og som blir leidd og kontrollert av stat, fylkeskommune eller kommune,stiftingar som har til føremål å skaffe bustader og som er oppretta av staten, ein fylkeskommune eller kommune,selskap, stifting eller andre som har inngått samarbeidsavtale med stat, fylkeskommune eller kommune om å skaffe bustader til vanskelegstilte.
+(1) Desse kan til saman eige andel eller andelar som gir rett til minst ein bustad og opp til ti prosent av bustadene i lag med fem eller fleire andelar:
+
+1. stat,
+2. fylkeskommune,
+3. kommune,
+4. selskap som har til føremål å skaffe bustader og som blir leidd og kontrollert av stat, fylkeskommune eller kommune,
+5. stiftingar som har til føremål å skaffe bustader og som er oppretta av staten, ein fylkeskommune eller kommune,
+6. selskap, stifting eller andre som har inngått samarbeidsavtale med stat, fylkeskommune eller kommune om å skaffe bustader til vanskelegstilte.
 
 (2) Utan hinder av første ledd og [§ 4-1](lov/2003-06-06-39/§4-1) kan ein kreditor eige ein eller fleire andelar i opp til to år for å berge krav som er sikra med pant i andelen eller andelane. Det same gjeld der nokon tek over ein eller fleire andelar som elles ikkje kunne seljast på lang tid.
 
@@ -326,7 +344,11 @@ Vedtektsføresegn som går ut på at den som lovleg er blitt eigar av ein andel,
 
 ### § 4-10. Utløysing
 
-(1) Tingretten kan påleggje laget å løyse ut ein andelseigar dersom tungtvegande grunnar talar for utløysing som følgje av atlaget har mishalde pliktene i høve til andelseigaren vesentleg, ellerstyre, generalforsamling eller nokon som representerer laget har handla i strid med [§§ 7-13](lov/2003-06-06-39/§7-13) eller [8-15](lov/2003-06-06-39/§8-15), ellerdet har oppstått eit alvorleg og varig motsetningsforhold mellom andelseigaren og andre andelseigarar når det gjeld drifta av laget.
+(1) Tingretten kan påleggje laget å løyse ut ein andelseigar dersom tungtvegande grunnar talar for utløysing som følgje av at
+
+1. laget har mishalde pliktene i høve til andelseigaren vesentleg, eller
+2. styre, generalforsamling eller nokon som representerer laget har handla i strid med [§§ 7-13](lov/2003-06-06-39/§7-13) eller [8-15](lov/2003-06-06-39/§8-15), eller
+3. det har oppstått eit alvorleg og varig motsetningsforhold mellom andelseigaren og andre andelseigarar når det gjeld drifta av laget.
 
 (2) Ein påstand om utløysing kan ikkje takast til følgje dersom utløysing vil verke urimeleg mot laget. Sak med påstand om utløysing må reisast innan rimeleg tid.
 
@@ -466,7 +488,12 @@ Med godkjenning frå styret kan andelseigaren overlate bruken av heile bustaden 
 
 ### § 5-6. Overlating av bruken med særleg grunn
 
-(1) Andelseigaren kan elles med godkjenning frå styret overlate bruken av heile bustaden dersomandelseigaren er ein juridisk person, ellerandelseigaren skal vere borte mellombels som følgje av arbeid, utdanning, militærteneste, sjukdom eller andre tungtvegande grunnar, ellerein medlem av brukarhusstanden er andelseigarens ektemake eller slektning i rett opp- eller nedstigande linje eller fosterbarn av andelseigaren eller ektemaken, ellerdet gjeld bruksrett som nokon har krav på etter [ekteskapsloven § 68](lov/1991-07-04-47/§68) eller [husstandsfellesskapsloven § 3](lov/1991-07-04-45/§3) andre ledd.
+(1) Andelseigaren kan elles med godkjenning frå styret overlate bruken av heile bustaden dersom
+
+1. andelseigaren er ein juridisk person, eller
+2. andelseigaren skal vere borte mellombels som følgje av arbeid, utdanning, militærteneste, sjukdom eller andre tungtvegande grunnar, eller
+3. ein medlem av brukarhusstanden er andelseigarens ektemake eller slektning i rett opp- eller nedstigande linje eller fosterbarn av andelseigaren eller ektemaken, eller
+4. det gjeld bruksrett som nokon har krav på etter [ekteskapsloven § 68](lov/1991-07-04-47/§68) eller [husstandsfellesskapsloven § 3](lov/1991-07-04-45/§3) andre ledd.
 
 (2) Godkjenning kan berre nektast dersom brukarens forhold gir sakleg grunn til det. I tilfelle som nemnt i første ledd, kan godkjenning nektast dersom brukaren ikkje kunne blitt andelseigar, jf. [§ 4-4](lov/2003-06-06-39/§4-4).
 
@@ -552,7 +579,11 @@ Laget kan gjere sitt krav som følgje av mishald gjeldande mot ein tidlegare avt
 
 (1) Dersom andre andelseigarar lir tap som følgje av at andelseigaren ikkje oppfyller pliktene sine etter [§ 5-12](lov/2003-06-06-39/§5-12), kan dei krevje skadebot av andelseigaren etter [§ 5-13](lov/2003-06-06-39/§5-13) første ledd om ikkje tapet er omfatta av skadebotkrav frå laget.
 
-(2) For indirekte tap kan dei andre andelseigarane berre krevje skadebot dersom mishaldet kjem av feil eller forsøming på andelseigarens side. Som indirekte tap blir reknatap i næring,tap som følgje av avbrot i bruken av eigedommen eller delar av eigedommen, men ikkje kostnader med nødvendig innlosjering for andelseigaren eller annan brukar av bustaden,tap som følgje av skade på anna enn bustad og vanleg tilhøyrsle til bustad.
+(2) For indirekte tap kan dei andre andelseigarane berre krevje skadebot dersom mishaldet kjem av feil eller forsøming på andelseigarens side. Som indirekte tap blir rekna
+
+1. tap i næring,
+2. tap som følgje av avbrot i bruken av eigedommen eller delar av eigedommen, men ikkje kostnader med nødvendig innlosjering for andelseigaren eller annan brukar av bustaden,
+3. tap som følgje av skade på anna enn bustad og vanleg tilhøyrsle til bustad.
 
 (3) Føresegnene i [§ 5-13](lov/2003-06-06-39/§5-13) andre, fjerde og femte ledd og [§ 5-14](lov/2003-06-06-39/§5-14) gjeld tilsvarande.
 
@@ -578,7 +609,11 @@ Laget kan gjere sitt krav som følgje av mishald gjeldande mot ein tidlegare avt
 
 (1) Andelseigaren kan krevje skadebot for tap som følgje av at laget ikkje oppfyller pliktene sine etter [§ 5-17](lov/2003-06-06-39/§5-17). Føresegnene i [§ 5-13](lov/2003-06-06-39/§5-13) første, andre, fjerde og femte ledd og [§ 5-14](lov/2003-06-06-39/§5-14) gjeld tilsvarande.
 
-(2) For indirekte tap kan andelseigaren berre krevje skadebot dersom mishaldet kjem av feil eller forsøming på lagets side. Som indirekte tap blir reknatap i næring,tap som følgje av avbrot i bruken av eigedommen eller delar av eigedommen, men ikkje kostnader med nødvendig innlosjering for andelseigaren eller annan brukar av bustaden,tap som følgje av skade på anna enn bustad og vanleg tilhøyrsle til bustad.
+(2) For indirekte tap kan andelseigaren berre krevje skadebot dersom mishaldet kjem av feil eller forsøming på lagets side. Som indirekte tap blir rekna
+
+1. tap i næring,
+2. tap som følgje av avbrot i bruken av eigedommen eller delar av eigedommen, men ikkje kostnader med nødvendig innlosjering for andelseigaren eller annan brukar av bustaden,
+3. tap som følgje av skade på anna enn bustad og vanleg tilhøyrsle til bustad.
 
 ### V Dekning av felleskostnader
 
@@ -730,7 +765,10 @@ Berre sikring etter [§§ 5-26](lov/2003-06-06-39/§5-26) til [5-29](lov/2003-06
 
 ### § 6-6. Unntak frå prioritetsreglane o.a.
 
-(1) Eit eldre rettserverv går utan omsyn til reglane i [§ 6-5](lov/2003-06-06-39/§6-5) framom eit yngre dersomdet yngre ervervet byggjer på avtale eller anna grunnlag som for ervervaren står i liknande stilling, og ervervaren kjende eller burde kjenne det eldre ervervet på registreringsdagen, ellerdet yngre ervervet er skjedd ved arv.
+(1) Eit eldre rettserverv går utan omsyn til reglane i [§ 6-5](lov/2003-06-06-39/§6-5) framom eit yngre dersom
+
+1. det yngre ervervet byggjer på avtale eller anna grunnlag som for ervervaren står i liknande stilling, og ervervaren kjende eller burde kjenne det eldre ervervet på registreringsdagen, eller
+2. det yngre ervervet er skjedd ved arv.
 
 (2) For lovfastsette rettar har ikkje registrering noko å seie om ikkje anna er fastsett i lov.
 
@@ -780,7 +818,11 @@ Når ikkje anna er avtala eller følgjer av stiftingsgrunnlaget eller av [§ 6-1
 
 (1) Blir eit rettserverv ført feil inn i grunnboka, kan det likevel gjerast gjeldande i forhold til eit seinare registrert rettserverv.
 
-(2) Ved dom kan det avgjerast at eit seinare registrert erverv som byggjer på avtale eller anna grunnlag som for ervervaren står i liknande stilling, skal gå framom det ervervet som tidlegare var ført feil inn i registeret. Vilkåra for dette erat ervervaren av den seinare registrerte retten var i god tru da retten blei registrert,at ervervaren utan eiga skyld ville lide tap ved å lite på registeret om retten skulle stå tilbake for den som var ført feil inn, ogat tapet for ervervaren av den seinare registrerte retten ville vere vesentleg større enn for den andre parten om den retten måtte vike, eller at det ville føre til vesentleg skipling av seinare registrerte rettsforhold om retten som var ført feil inn, skulle gå framom.
+(2) Ved dom kan det avgjerast at eit seinare registrert erverv som byggjer på avtale eller anna grunnlag som for ervervaren står i liknande stilling, skal gå framom det ervervet som tidlegare var ført feil inn i registeret. Vilkåra for dette er
+
+1. at ervervaren av den seinare registrerte retten var i god tru da retten blei registrert,
+2. at ervervaren utan eiga skyld ville lide tap ved å lite på registeret om retten skulle stå tilbake for den som var ført feil inn, og
+3. at tapet for ervervaren av den seinare registrerte retten ville vere vesentleg større enn for den andre parten om den retten måtte vike, eller at det ville føre til vesentleg skipling av seinare registrerte rettsforhold om retten som var ført feil inn, skulle gå framom.
 
 > Endra ved lov [17 juni 2005 nr. 94](lov/2005-06-17-94) (ikr. 15 aug 2005 iflg. [res. 1 juli 2005 nr. 753](forskrift/2005-07-01-753)).
 
@@ -828,7 +870,12 @@ For klage på avgjerder av registerføraren gjeld reglane i tinglysingslova så 
 
 ### § 6-17. Skadebotansvar
 
-(1) Staten skal bøte tap som nokon lir utan eiga skuld på grunn av registreringsfeil ved:å lite på ein attest om registrering eller sletting eller på ei attestert registerutskrift,at eit rettserverv ikkje blir registrert eller blir registrert eller endeleg registrert for seint,at eit rettserverv må stå attende etter [§ 6-12](lov/2003-06-06-39/§6-12) for eit erverv som er registrert seinare, ellerat registrering er skjedd på grunnlag av eit dokument som nemnd i [§ 6-13](lov/2003-06-06-39/§6-13) andre ledd, og nokon i god tru har fått registrert ein rett som byggjer på avtale, i tillit til det registrerte.
+(1) Staten skal bøte tap som nokon lir utan eiga skuld på grunn av registreringsfeil ved:
+
+1. å lite på ein attest om registrering eller sletting eller på ei attestert registerutskrift,
+2. at eit rettserverv ikkje blir registrert eller blir registrert eller endeleg registrert for seint,
+3. at eit rettserverv må stå attende etter [§ 6-12](lov/2003-06-06-39/§6-12) for eit erverv som er registrert seinare, eller
+4. at registrering er skjedd på grunnlag av eit dokument som nemnd i [§ 6-13](lov/2003-06-06-39/§6-13) andre ledd, og nokon i god tru har fått registrert ein rett som byggjer på avtale, i tillit til det registrerte.
 
 > Føyd til ved lov [17 juni 2005 nr. 94](lov/2005-06-17-94) (ikr. 15 aug 2005 iflg. [res. 1 juli 2005 nr. 753](forskrift/2005-07-01-753)), endra ved lov [20 juni 2014 nr. 45](lov/2014-06-20-45) – sjå dens IV (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)).
 
@@ -892,7 +939,12 @@ Generalforsamlinga har øvste myndet i laget.
 
 ### § 7-8. Om kva saker generalforsamlinga skal og kan behandle
 
-Generalforsamlinga kan ikkje gjere vedtak i andre saker enn dei som er nemnde i innkallinga, om ikkje alle andelseigarane i laget samtykkjer, og ikkje anna følgjer av særleg lovføresegn. At saka ikkje er nemnd i innkallinga, hindrar likevel ikkje atden ordinære generalforsamlinga avgjer saker som etter lova eller vedtektene skal takast opp på kvar ordinær generalforsamling,den ordinære generalforsamlinga avgjer krav om gransking som nemnd i [§ 7-14](lov/2003-06-06-39/§7-14),det blir valt styremedlemmer der nokon står på val,det blir vedteke å kalle inn ny generalforsamling til å avgjere framlegg som er gjorde i møtet.
+Generalforsamlinga kan ikkje gjere vedtak i andre saker enn dei som er nemnde i innkallinga, om ikkje alle andelseigarane i laget samtykkjer, og ikkje anna følgjer av særleg lovføresegn. At saka ikkje er nemnd i innkallinga, hindrar likevel ikkje at
+
+1. den ordinære generalforsamlinga avgjer saker som etter lova eller vedtektene skal takast opp på kvar ordinær generalforsamling,
+2. den ordinære generalforsamlinga avgjer krav om gransking som nemnd i [§ 7-14](lov/2003-06-06-39/§7-14),
+3. det blir valt styremedlemmer der nokon står på val,
+4. det blir vedteke å kalle inn ny generalforsamling til å avgjere framlegg som er gjorde i møtet.
 
 ### IV Møtereglar
 
@@ -926,7 +978,12 @@ Generalforsamlinga kan ikkje gjere vedtak i andre saker enn dei som er nemnde i 
 
 ### § 7-12. Vedtektsveto
 
-Med tilslutning frå alle andelseigarar kan det fastsetjast i vedtektene at ein tredjeperson skal godkjenne endring av desse vedtektsføresegnene for at endringa skal vere gyldigføresegn som gjeld vilkår for å vere andelseigar i laget,føresegn om forkjøpsrett til andel i laget,føresegn om pris ved overføring av andel,føresegn etter leddet her om godkjenning av vedtektsendring.
+Med tilslutning frå alle andelseigarar kan det fastsetjast i vedtektene at ein tredjeperson skal godkjenne endring av desse vedtektsføresegnene for at endringa skal vere gyldig
+
+1. føresegn som gjeld vilkår for å vere andelseigar i laget,
+2. føresegn om forkjøpsrett til andel i laget,
+3. føresegn om pris ved overføring av andel,
+4. føresegn etter leddet her om godkjenning av vedtektsendring.
 
 ### § 7-13. Misbruk av mynde
 
@@ -1008,7 +1065,14 @@ Styret skal leie verksemda i laget i samsvar med lov, vedtekter og vedtak i gene
 
 ### § 8-9. Vedtak som krev samtykke frå generalforsamlinga
 
-Styret kan ikkje utan at generalforsamlinga har gitt samtykke med minst to tredjedels fleirtal, gjere vedtak omombygging, påbygging eller andre endringar av bygg eller grunn som etter tilhøva i laget går ut over vanleg forvaltning og vedlikehald,å auke talet på andelar eller å knyte andelar til bustader som før har vore tenkt brukt til utleige, jf. [§ 3-2](lov/2003-06-06-39/§3-2) andre ledd,sal eller kjøp av fast eigedom,å ta opp lån som skal sikrast med pant med prioritet framfor innskota,andre rettslege disposisjonar over fast eigedom som går ut over vanleg forvaltning,tiltak elles som går ut over vanleg forvaltning, når tiltaket fører med seg økonomisk ansvar eller utlegg for laget på meir enn fem prosent av dei årlege felleskostnadene.
+Styret kan ikkje utan at generalforsamlinga har gitt samtykke med minst to tredjedels fleirtal, gjere vedtak om
+
+1. ombygging, påbygging eller andre endringar av bygg eller grunn som etter tilhøva i laget går ut over vanleg forvaltning og vedlikehald,
+2. å auke talet på andelar eller å knyte andelar til bustader som før har vore tenkt brukt til utleige, jf. [§ 3-2](lov/2003-06-06-39/§3-2) andre ledd,
+3. sal eller kjøp av fast eigedom,
+4. å ta opp lån som skal sikrast med pant med prioritet framfor innskota,
+5. andre rettslege disposisjonar over fast eigedom som går ut over vanleg forvaltning,
+6. tiltak elles som går ut over vanleg forvaltning, når tiltaket fører med seg økonomisk ansvar eller utlegg for laget på meir enn fem prosent av dei årlege felleskostnadene.
 
 ### II Forretningsførar
 
@@ -1150,7 +1214,13 @@ Revisor skal møte i generalforsamlinga når det skal behandlast saker som gjer 
 
 ### § 10-7. Plan for delinga og godkjenning av planen
 
-(1) Styret skal utarbeide ein plan som minst viserframlegg til vedtektsendringar i det overdragande laget,vedtekter, opningsbalanse og byggje- og finansieringsplan for det nye laget, jf. [§§ 2-2](lov/2003-06-06-39/§2-2) og [2-5](lov/2003-06-06-39/§2-5),tidspunktet for samanslåinga,fordelinga av eignedelar, rettar og skyldnader mellom dei laga som er med i delinga, ogeventuelt vederlag til andelseigarar.
+(1) Styret skal utarbeide ein plan som minst viser
+
+1. framlegg til vedtektsendringar i det overdragande laget,
+2. vedtekter, opningsbalanse og byggje- og finansieringsplan for det nye laget, jf. [§§ 2-2](lov/2003-06-06-39/§2-2) og [2-5](lov/2003-06-06-39/§2-5),
+3. tidspunktet for samanslåinga,
+4. fordelinga av eignedelar, rettar og skyldnader mellom dei laga som er med i delinga, og
+5. eventuelt vederlag til andelseigarar.
 
 (2) Siste årsrekneskap, årsmelding og revisjonsmelding skal leggjast ved planen.
 
@@ -1376,13 +1446,20 @@ Avtale om at tvist mellom andelseigaren og laget skal avgjerast ved skilsdom ell
 
 > Endra ved lov [17 juni 2005 nr. 94](lov/2005-06-17-94) (ikr. 15 aug 2005 iflg. [res. 1 juli 2005 nr. 753](forskrift/2005-07-01-753)).
 
-1 Med [res. 19 des 2003 nr. 1766](forskrift/2003-12-19-1766) vart § 1-5, § 14-12 nr. 11 ny § 3a i eigarseksjonslova, og § 14-12 nr. 13 sett ikr. 1 jan 2004. Etter [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603) trådte lova ikr. 15 aug 2005, med unntak av § 2-13, § 5-20, § 5-21 (4), [§ 5-23](lov/2003-06-06-39/§5-23) (2), kapittel 6, [§ 13-5](lov/2003-06-06-39/§13-5), [§ 14-5](lov/2003-06-06-39/§14-5) (2), [§ 14-6](lov/2003-06-06-39/§14-6) (2), [§ 14-8](lov/2003-06-06-39/§14-8) (6), [§ 14-9](lov/2003-06-06-39/§14-9), [§ 14-12](lov/2003-06-06-39/§14-12) nr. 3, [§ 14-12](lov/2003-06-06-39/§14-12) nr. 8. Med [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626) er desse paragrafene sett ikr. 1 juli 2006.2 Frå 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603).
+1 Med [res. 19 des 2003 nr. 1766](forskrift/2003-12-19-1766) vart § 1-5, § 14-12 nr. 11 ny § 3a i eigarseksjonslova, og § 14-12 nr. 13 sett ikr. 1 jan 2004. Etter [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603) trådte lova ikr. 15 aug 2005, med unntak av § 2-13, § 5-20, § 5-21 (4), [§ 5-23](lov/2003-06-06-39/§5-23) (2), kapittel 6, [§ 13-5](lov/2003-06-06-39/§13-5), [§ 14-5](lov/2003-06-06-39/§14-5) (2), [§ 14-6](lov/2003-06-06-39/§14-6) (2), [§ 14-8](lov/2003-06-06-39/§14-8) (6), [§ 14-9](lov/2003-06-06-39/§14-9), [§ 14-12](lov/2003-06-06-39/§14-12) nr. 3, [§ 14-12](lov/2003-06-06-39/§14-12) nr. 8. Med [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626) er desse paragrafene sett ikr. 1 juli 2006.
+
+2 Frå 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603).
 
 ### II Overgangsreglar
 
 ### § 14-2. Tilknytte lag
 
-I burettslag som etter tidlegare gjeldande reglar er tilknytte eit bustadbyggjelag, gjeld desse særreglane:Det skal reknast som eit vilkår for å vere andelseigar at vedkomande er andelseigar i bustadbyggjelaget, og laget skal reknast som eit tilknytt lag etter [§ 1-3](lov/2003-06-06-39/§1-3), om ikkje anna blir fastsett i vedtektene med samtykke frå bustadbyggjelaget.Eldre vedtektsføresegn om at endring av vedtektene ikkje er gyldig utan samtykke frå bustadbyggjelaget, gjeld berre for endring av vedtektsføresegner som nemnde i [§ 7-12](lov/2003-06-06-39/§7-12) dersom endringa blir vedteken etter at lova her blei sett i kraft.Forretningsføraravtale mellom bustadbyggjelag og tilknytt burettslag som er gjord før lova tok til å gjelde, og som etter sitt innhald er uoppseieleg i meir enn fem år eller berre kan seiast opp på visse vilkår, kan burettslaget seie opp med seks månaders varsel når det er gått fem år frå lova her blei sett i kraft, og minst ti år frå burettslaget blei stifta. Oppseiing kan berre skje dersom generalforsamlinga i burettslaget gir samtykke til det med to tredjedels fleirtal, og bustadbyggjelaget har fått høve til å uttale seg skriftleg om spørsmålet til kvar andelseigar i burettslaget seinast samtidig med innkalling til generalforsamlinga.Tingretten kan setje ei oppseiing etter nummer 3 til side dersom oppseiinga vil verke urimeleg, og bustadbyggjelaget har reist søksmål innan 30 dagar etter at skriftleg oppseiing kom fram til laget.
+I burettslag som etter tidlegare gjeldande reglar er tilknytte eit bustadbyggjelag, gjeld desse særreglane:
+
+1. Det skal reknast som eit vilkår for å vere andelseigar at vedkomande er andelseigar i bustadbyggjelaget, og laget skal reknast som eit tilknytt lag etter [§ 1-3](lov/2003-06-06-39/§1-3), om ikkje anna blir fastsett i vedtektene med samtykke frå bustadbyggjelaget.
+2. Eldre vedtektsføresegn om at endring av vedtektene ikkje er gyldig utan samtykke frå bustadbyggjelaget, gjeld berre for endring av vedtektsføresegner som nemnde i [§ 7-12](lov/2003-06-06-39/§7-12) dersom endringa blir vedteken etter at lova her blei sett i kraft.
+3. Forretningsføraravtale mellom bustadbyggjelag og tilknytt burettslag som er gjord før lova tok til å gjelde, og som etter sitt innhald er uoppseieleg i meir enn fem år eller berre kan seiast opp på visse vilkår, kan burettslaget seie opp med seks månaders varsel når det er gått fem år frå lova her blei sett i kraft, og minst ti år frå burettslaget blei stifta. Oppseiing kan berre skje dersom generalforsamlinga i burettslaget gir samtykke til det med to tredjedels fleirtal, og bustadbyggjelaget har fått høve til å uttale seg skriftleg om spørsmålet til kvar andelseigar i burettslaget seinast samtidig med innkalling til generalforsamlinga.
+4. Tingretten kan setje ei oppseiing etter nummer 3 til side dersom oppseiinga vil verke urimeleg, og bustadbyggjelaget har reist søksmål innan 30 dagar etter at skriftleg oppseiing kom fram til laget.
 
 ### § 14-3. Stifting
 
@@ -1436,7 +1513,10 @@ Burettslag som er stifta før lova her blei sett i kraft, kan registrerast i Fø
 
 ### § 14-9. Registrering i grunnboka
 
-(1) Seinast seks månader etter at kapittel 6 i lova her er sett i verk, skal styret sende melding til registerføraren for tinglysing av andelar i burettslag om registrering av andelane. Meldinga skal minst innehalde:Oversyn over andelane i laget med opplysning om kva bustad som er knytt til kvar andel, og namn, adresse og fødselsnummer eller organisasjonsnummer for andelseigarane.Oversyn over uinnfridde panterettar laget har fått melding om for kvar andel, med namn og adresse på panthavaren og opplysning om kven som sit med andelsbrevet.
+(1) Seinast seks månader etter at kapittel 6 i lova her er sett i verk, skal styret sende melding til registerføraren for tinglysing av andelar i burettslag om registrering av andelane. Meldinga skal minst innehalde:
+
+1. Oversyn over andelane i laget med opplysning om kva bustad som er knytt til kvar andel, og namn, adresse og fødselsnummer eller organisasjonsnummer for andelseigarane.
+2. Oversyn over uinnfridde panterettar laget har fått melding om for kvar andel, med namn og adresse på panthavaren og opplysning om kven som sit med andelsbrevet.
 
 (2) Dei panterettane som går fram av meldinga frå styret, skal registrerast på andelen, og registerføraren skal sende melding til panthavaren om registreringa.
 

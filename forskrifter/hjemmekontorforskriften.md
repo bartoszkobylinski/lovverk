@@ -34,7 +34,16 @@ Arbeidsmiljøloven gjelder med de presiseringer og unntak som følger av denne f
 
 ## § 2. Skriftlig avtale
 
-I tillegg til den skriftlige arbeidsavtalen etter [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) skal det inngås skriftlig avtale om hjemmearbeidet som minst omfatter:omfanget av hjemmearbeidetarbeidstid for hjemmearbeideteventuelle bestemmelser om når arbeidstaker skal være tilgjengelig for arbeidsgiverdersom avtalen er midlertidig; forventet varigheteventuelle bestemmelser om retten til å endre eller si opp avtalen om hjemmearbeid, frister for slik oppsigelse mv.eventuelle bestemmelser om prøvetid for hjemmearbeidsordningeneiendomsrett, drift og vedlikehold av utstyreventuelle bestemmelser om saksbehandling, taushetsplikt og oppbevaring av dokumenter.
+I tillegg til den skriftlige arbeidsavtalen etter [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) skal det inngås skriftlig avtale om hjemmearbeidet som minst omfatter:
+
+- omfanget av hjemmearbeidet
+- arbeidstid for hjemmearbeidet
+- eventuelle bestemmelser om når arbeidstaker skal være tilgjengelig for arbeidsgiver
+- dersom avtalen er midlertidig; forventet varighet
+- eventuelle bestemmelser om retten til å endre eller si opp avtalen om hjemmearbeid, frister for slik oppsigelse mv.
+- eventuelle bestemmelser om prøvetid for hjemmearbeidsordningen
+- eiendomsrett, drift og vedlikehold av utstyr
+- eventuelle bestemmelser om saksbehandling, taushetsplikt og oppbevaring av dokumenter.
 
 Endringer i hjemmearbeidsforholdet skal gjenspeiles i avtalen.
 

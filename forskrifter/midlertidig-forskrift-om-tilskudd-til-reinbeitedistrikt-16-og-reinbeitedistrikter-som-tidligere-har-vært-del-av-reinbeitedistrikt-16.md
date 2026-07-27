@@ -30,17 +30,34 @@ Tilskudd til beredskapfond skal legge til rette for reinbeitedistriktenes nødve
 
 ## § 2. Tilskuddsmottakere
 
-Tilskuddsmottakere etter denne forskrift er reinbeitedistriktene:Jáhkenjárga,Láhtin,MarBolon,Máhkarávju,Njeaiddán,Rávdol,Skáiddeduottar,Skuohtanjárga, ogVuorji.
+Tilskuddsmottakere etter denne forskrift er reinbeitedistriktene:
+
+1. Jáhkenjárga,
+2. Láhtin,
+3. MarBolon,
+4. Máhkarávju,
+5. Njeaiddán,
+6. Rávdol,
+7. Skáiddeduottar,
+8. Skuohtanjárga, og
+9. Vuorji.
 
 I tillegg kan det ytes distriktstilskudd til fellesbeiteområdet reinbeitedistrikt 16, jf. [§ 5 andre ledd](forskrift/2026-05-08-769/§5/ledd/2).
 
 ## § 3. Vilkår for distriktstilskudd
 
-For tilskuddsåret 2025/2026 kan distriktstilskudd innvilges dersom reinbeitedistriktet har:distriktsstyre, jf. [reindriftsloven § 46](lov/2007-06-15-40/§46),distriktskasse, jf. [reindriftsloven § 46](lov/2007-06-15-40/§46), ogreindriftsfond, jf. [reindriftsloven § 47](lov/2007-06-15-40/§47).
+For tilskuddsåret 2025/2026 kan distriktstilskudd innvilges dersom reinbeitedistriktet har:
+
+1. distriktsstyre, jf. [reindriftsloven § 46](lov/2007-06-15-40/§46),
+2. distriktskasse, jf. [reindriftsloven § 46](lov/2007-06-15-40/§46), og
+3. reindriftsfond, jf. [reindriftsloven § 47](lov/2007-06-15-40/§47).
 
 ## § 4. Vilkår for tilskudd til beredskapsfond
 
-For tilskuddsåret 2025/2026 kan tilskudd til beredskapsfond innvilges dersom:reinbeitedistriktet innvilges distriktstilskudd etter denne forskrift, ogreinbeitedistriktet har en egen bankkonto for beredskapsfondet.
+For tilskuddsåret 2025/2026 kan tilskudd til beredskapsfond innvilges dersom:
+
+1. reinbeitedistriktet innvilges distriktstilskudd etter denne forskrift, og
+2. reinbeitedistriktet har en egen bankkonto for beredskapsfondet.
 
 Tilskudd til beredskapsfond kan ikke innvilges til fellesbeiteområdet reinbeitedistrikt 16.
 

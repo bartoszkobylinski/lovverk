@@ -28,7 +28,13 @@ Forskriften skal fremme god velferd og respekt for dyr i forbindelse med omsetni
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for næringsvirksomheter som driver følgende aktiviteter:Salg, utleie og utlån av dyr til og fra dyreforretning,Salg, utleie og utlån av dyr fra handelsfjøs eller lignende,Dyrepensjonat,Lufting, mosjonering og trening av andres dyr og/ellerDaghjem for dyr.
+Forskriften gjelder for næringsvirksomheter som driver følgende aktiviteter:
+
+1. Salg, utleie og utlån av dyr til og fra dyreforretning,
+2. Salg, utleie og utlån av dyr fra handelsfjøs eller lignende,
+3. Dyrepensjonat,
+4. Lufting, mosjonering og trening av andres dyr og/eller
+5. Daghjem for dyr.
 
 Forskriften gjelder videre for både kommersielle, ikke-kommersielle og ideelle virksomheter som driver omplassering av dyr.
 
@@ -38,7 +44,12 @@ Krav i særskilte forskrifter om hold og velferd for dyr gjelder i tillegg til b
 
 ## § 3. Melding om virksomhet
 
-Virksomheter som omfattes av forskriften, skal meldes til Mattilsynet på fastsatt skjema. Meldingen skal inneholde nødvendige og relevante opplysninger omden ansvarlige for virksomhetendatoen for oppstartvirksomhetens aktivitetkompetansen i virksomheten, jf. [§ 4](forskrift/2015-08-11-958/§4) første ledd.
+Virksomheter som omfattes av forskriften, skal meldes til Mattilsynet på fastsatt skjema. Meldingen skal inneholde nødvendige og relevante opplysninger om
+
+1. den ansvarlige for virksomheten
+2. datoen for oppstart
+3. virksomhetens aktivitet
+4. kompetansen i virksomheten, jf. [§ 4](forskrift/2015-08-11-958/§4) første ledd.
 
 Mattilsynet kan spesifisere i meldesystemet hva som er nødvendige og relevante opplysninger om forhold nevnt i første ledd.
 
@@ -52,9 +63,25 @@ Dyr skal ikke omsettes eller overlates til personer som det er grunn til å tro 
 
 ## § 5. Dokumentasjon
 
-Det skal finnes en oversikt med nødvendige og relevante opplysninger om hvert dyr, blant annetdyrearten, kjønnet, id-nummeret og navnetdatoen for ankomsten og for tilbakeleveringen eller omsetningennavnet og adressen til eieren eller den som leverer dyretnavnet og adressen til den som dyret er omsatt til, hvis det er et produksjonsdyrat dyr som omsettes, kommer fra dyrehold uten mistanke om eller påvist smittsom dyresykdomom behandling utført av veterinær, avlivning og død.
+Det skal finnes en oversikt med nødvendige og relevante opplysninger om hvert dyr, blant annet
 
-Det skal utarbeides skriftlige rutiner for etterlevelse av forskriftsfestede krav om å ivareta dyrenes velferd, blant annet omkompetansefôring og stellaktivisering og mosjontilrettelegging for utøvelse av naturlig atferdtiltak for å hindre smitte til og mellom dyrberedskap for å ivareta dyr i tilfelle brann eller andre nødssituasjonerkontroll og vedlikehold av utstyr og tekniske innretninger av betydning for dyrenes velferd, inkludert brannvarslingsanleggvedlikehold og rengjøring av anlegget.
+1. dyrearten, kjønnet, id-nummeret og navnet
+2. datoen for ankomsten og for tilbakeleveringen eller omsetningen
+3. navnet og adressen til eieren eller den som leverer dyret
+4. navnet og adressen til den som dyret er omsatt til, hvis det er et produksjonsdyr
+5. at dyr som omsettes, kommer fra dyrehold uten mistanke om eller påvist smittsom dyresykdom
+6. om behandling utført av veterinær, avlivning og død.
+
+Det skal utarbeides skriftlige rutiner for etterlevelse av forskriftsfestede krav om å ivareta dyrenes velferd, blant annet om
+
+1. kompetanse
+2. fôring og stell
+3. aktivisering og mosjon
+4. tilrettelegging for utøvelse av naturlig atferd
+5. tiltak for å hindre smitte til og mellom dyr
+6. beredskap for å ivareta dyr i tilfelle brann eller andre nødssituasjoner
+7. kontroll og vedlikehold av utstyr og tekniske innretninger av betydning for dyrenes velferd, inkludert brannvarslingsanlegg
+8. vedlikehold og rengjøring av anlegget.
 
 Utformingen av rutinene skal være tilpasset virksomhetens egenart.
 
@@ -72,7 +99,18 @@ Dyr som omsettes til privatpersoner, skal ledsages av skriftlig informasjon til 
 
 ## § 8. Anlegg
 
-Anlegg for midlertidig hold av dyr skalvære utformet og innredet slik at dyrene ikke kommer i fare for å bli skadet eller påføre andre dyr skadevære sikret mot at dyrene kan rømme, om nødvendig med gjerde eller sluseha underlag som er egnet for artenvære tilstrekkelig sikret mot skadedyrha egnet plass hvor fôret kan oppbevares på en hygienisk forsvarlig måteha tilgjengelig plass hvor fôrkar, liggeunderlag og annet utstyr som kommer i kontakt med dyrene, kan rengjøresvære egnet for å holdes rentha et nødvendig antall oppholdssteder for å isolere syke dyr, dyr med ukjent smittestatus og dyr som av annen grunn krever særskilt skjerming og oppfølgingha et tilstrekkelig antall rømningsveier og brannslukningsutstyr som er hensiktsmessig plassertha et egnet brannvarslingsanlegg hvis det ikke er åpenbart unødvendig.
+Anlegg for midlertidig hold av dyr skal
+
+1. være utformet og innredet slik at dyrene ikke kommer i fare for å bli skadet eller påføre andre dyr skade
+2. være sikret mot at dyrene kan rømme, om nødvendig med gjerde eller sluse
+3. ha underlag som er egnet for arten
+4. være tilstrekkelig sikret mot skadedyr
+5. ha egnet plass hvor fôret kan oppbevares på en hygienisk forsvarlig måte
+6. ha tilgjengelig plass hvor fôrkar, liggeunderlag og annet utstyr som kommer i kontakt med dyrene, kan rengjøres
+7. være egnet for å holdes rent
+8. ha et nødvendig antall oppholdssteder for å isolere syke dyr, dyr med ukjent smittestatus og dyr som av annen grunn krever særskilt skjerming og oppfølging
+9. ha et tilstrekkelig antall rømningsveier og brannslukningsutstyr som er hensiktsmessig plassert
+10. ha et egnet brannvarslingsanlegg hvis det ikke er åpenbart unødvendig.
 
 Skadedyr skal bekjempes hvis det er nødvendig.
 

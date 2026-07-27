@@ -48,7 +48,26 @@ Kravene i standardene kan også oppfylles ved å følge europeisk standard, nasj
 
 ### § 4. Definisjoner
 
-I denne forskrift menes med;*Avdeling:* del av landbasert akvakulturanlegg, bygget for å produsere fisk, som på bakgrunn av for eksempel funksjon, vannstrøm, alder eller tilstand skal forståes som en egen enhet i tilstandsanalyser etter denne forskrift.*Brukerhåndbok:* dokument som beskriver korrekt identifikasjon av deler, transport, lagring, håndtering, montering, grensesnitt, drift av og begrensninger til komponenter i akvakulturanlegget, i tillegg til bruk og vedlikehold.*Dimensjonerende brukstid:* den forutsatte tidsperioden en konstruksjon eller deler av denne, med et tiltenkt formål og med antatt vedlikehold, skal kunne brukes uten at det skal være nødvendig med omfattende reparasjon.*Fellesfunksjon:* en del av et landbasert akvakulturanlegg som skal forstås som en egen enhet i tilstandsanalyser etter denne forskrift, som enten er felles for flere avdelinger eller ikke naturlig inngår i en avdeling, som for eksempel leveringssystem, vaksinasjonsbygg, kaianlegg eller felles hovedavløpssperre.*Komponent:* del som er relevant for rømming av fisk, for eksempel kar, sil, rør, slange, dødfisksystem, hovedavløpssperre, alarmsystem, oversvømmingssperre og leverings- og fortøyningssystem.*Kar:* Separat beholder som benyttes til produksjon av fisk.*Landbasert akvakulturanlegg:* produksjonsanlegg for akvakultur med fisk som er plassert på land.*Leverandør av komponent:* enhver som selger, leier ut eller på annen måte leverer komponenter, enten enkeltvis eller som en helhet, til akvakulturnæringen.*Leveringssystem:* slanger og rørsystemer fra et sikret område på det landbaserte akvakulturanlegget for fisk frem til mottak i brønnbåt, bil eller liknende.*Produktsertifikat:* sertifikat som angir at produktet er i samsvar med nasjonal eller internasjonal standard eller annen teknisk spesifikasjon, og at produksjonen er underlagt løpende kvalitetskontroll.*Prosjekterende foretak:* bygningskyndig foretak som utformer, dimensjonerer og planlegger (prosjekterer) landbaserte akvakulturanlegg for fisk etter denne forskrift.*Prosjektering:* utforming, dimensjonering og planlegging av utførelse.*Referansenivå:* en beskrivelse av ønsket tilstand for et byggverk, en bygningsdel eller et objekt. Dersom en tilstand er dårligere enn referansenivået, regnes det som et avvik.*Rømmingsteknisk rapport:* en sammenstilling av dokumenter som angir et landbasert akvakulturanlegg for fisk sin rømmingstekniske tilstand.*Tilstandsgrad (TG):* uttrykk for tilstanden et komponent har i forhold til referansenivået.*Utførende foretak:* bygningskyndig foretak som forestår oppføring, tilbygg og/eller påbygg av landbaserte akvakulturanlegg for fisk.*Vedlikeholdsplan:* et strukturert og dokumentert sett med oppgaver som omfatter aktivitetene, prosedyrene, ressursene og tidsforbruket som kreves for å utføre vedlikehold.*Vedlikehold:* kombinasjon av alle tekniske, administrative og styringsrelaterte tiltak gjennom livssyklusen til en enhet, som har til hensikt å bevare den i eller tilbakeføre den til en tilstand der den kan oppfylle nødvendige funksjonskrav.
+I denne forskrift menes med;
+
+1. *Avdeling:* del av landbasert akvakulturanlegg, bygget for å produsere fisk, som på bakgrunn av for eksempel funksjon, vannstrøm, alder eller tilstand skal forståes som en egen enhet i tilstandsanalyser etter denne forskrift.
+2. *Brukerhåndbok:* dokument som beskriver korrekt identifikasjon av deler, transport, lagring, håndtering, montering, grensesnitt, drift av og begrensninger til komponenter i akvakulturanlegget, i tillegg til bruk og vedlikehold.
+3. *Dimensjonerende brukstid:* den forutsatte tidsperioden en konstruksjon eller deler av denne, med et tiltenkt formål og med antatt vedlikehold, skal kunne brukes uten at det skal være nødvendig med omfattende reparasjon.
+4. *Fellesfunksjon:* en del av et landbasert akvakulturanlegg som skal forstås som en egen enhet i tilstandsanalyser etter denne forskrift, som enten er felles for flere avdelinger eller ikke naturlig inngår i en avdeling, som for eksempel leveringssystem, vaksinasjonsbygg, kaianlegg eller felles hovedavløpssperre.
+5. *Komponent:* del som er relevant for rømming av fisk, for eksempel kar, sil, rør, slange, dødfisksystem, hovedavløpssperre, alarmsystem, oversvømmingssperre og leverings- og fortøyningssystem.
+6. *Kar:* Separat beholder som benyttes til produksjon av fisk.
+7. *Landbasert akvakulturanlegg:* produksjonsanlegg for akvakultur med fisk som er plassert på land.
+8. *Leverandør av komponent:* enhver som selger, leier ut eller på annen måte leverer komponenter, enten enkeltvis eller som en helhet, til akvakulturnæringen.
+9. *Leveringssystem:* slanger og rørsystemer fra et sikret område på det landbaserte akvakulturanlegget for fisk frem til mottak i brønnbåt, bil eller liknende.
+10. *Produktsertifikat:* sertifikat som angir at produktet er i samsvar med nasjonal eller internasjonal standard eller annen teknisk spesifikasjon, og at produksjonen er underlagt løpende kvalitetskontroll.
+11. *Prosjekterende foretak:* bygningskyndig foretak som utformer, dimensjonerer og planlegger (prosjekterer) landbaserte akvakulturanlegg for fisk etter denne forskrift.
+12. *Prosjektering:* utforming, dimensjonering og planlegging av utførelse.
+13. *Referansenivå:* en beskrivelse av ønsket tilstand for et byggverk, en bygningsdel eller et objekt. Dersom en tilstand er dårligere enn referansenivået, regnes det som et avvik.
+14. *Rømmingsteknisk rapport:* en sammenstilling av dokumenter som angir et landbasert akvakulturanlegg for fisk sin rømmingstekniske tilstand.
+15. *Tilstandsgrad (TG):* uttrykk for tilstanden et komponent har i forhold til referansenivået.
+16. *Utførende foretak:* bygningskyndig foretak som forestår oppføring, tilbygg og/eller påbygg av landbaserte akvakulturanlegg for fisk.
+17. *Vedlikeholdsplan:* et strukturert og dokumentert sett med oppgaver som omfatter aktivitetene, prosedyrene, ressursene og tidsforbruket som kreves for å utføre vedlikehold.
+18. *Vedlikehold:* kombinasjon av alle tekniske, administrative og styringsrelaterte tiltak gjennom livssyklusen til en enhet, som har til hensikt å bevare den i eller tilbakeføre den til en tilstand der den kan oppfylle nødvendige funksjonskrav.
 
 > Endret ved [forskrifter 5 nov 2019 nr. 1544](forskrift/2019-11-05-1544), [19 okt 2020 nr. 2117](forskrift/2020-10-19-2117).
 
@@ -80,7 +99,15 @@ Ved manglende eller mangelfull dokumentasjon på at landbasert akvakulturanlegg 
 
 Dokumentasjon av det prosjekterende foretaks systemer og kompetanse i henhold til denne forskrifts [§ 5](forskrift/2017-06-19-941/§5) og [§ 6](forskrift/2017-06-19-941/§6) må foreligge.
 
-Det prosjekterende og det utførende foretaket skal dokumentere at anlegget, avdeling eller fellesfunksjoner er bygget i henhold til NS 9416:2013 og tilfredsstiller kravene i [kapittel 5](forskrift/2017-06-19-941/kap5) og [6](forskrift/2017-06-19-941/kap6) i denne forskriften før det tas i bruk til akvakultur, herunder at;det er gjennomført risikovurdering i samsvar med standarden,fundamenteringen er i henhold til standarden,det foreligger produktsertifikat for kar, rør og slanger,akvakulturanlegget og dets komponenter er plassert og montert som prosjektert, og i henhold til teknisk spesifikasjon. Eventuelle avvik i plassering og montering skal beskrives,alle komponentene er dimensjonert og i henhold til delelistene for anlegget. Komponentene skal være merket og sporbare til produsent,komponentene er uskadd etter montering,brukerhåndbok foreligger og er tilgjengelig for videre daglig drift.
+Det prosjekterende og det utførende foretaket skal dokumentere at anlegget, avdeling eller fellesfunksjoner er bygget i henhold til NS 9416:2013 og tilfredsstiller kravene i [kapittel 5](forskrift/2017-06-19-941/kap5) og [6](forskrift/2017-06-19-941/kap6) i denne forskriften før det tas i bruk til akvakultur, herunder at;
+
+1. det er gjennomført risikovurdering i samsvar med standarden,
+2. fundamenteringen er i henhold til standarden,
+3. det foreligger produktsertifikat for kar, rør og slanger,
+4. akvakulturanlegget og dets komponenter er plassert og montert som prosjektert, og i henhold til teknisk spesifikasjon. Eventuelle avvik i plassering og montering skal beskrives,
+5. alle komponentene er dimensjonert og i henhold til delelistene for anlegget. Komponentene skal være merket og sporbare til produsent,
+6. komponentene er uskadd etter montering,
+7. brukerhåndbok foreligger og er tilgjengelig for videre daglig drift.
 
 Dokumentasjonen skal gjøres tilgjengelig for innehaver av akvakulturtillatelsen.
 
@@ -152,7 +179,19 @@ Når akkreditert sertifiseringsorgan har fastslått at produktet tilfredsstiller
 
 ### § 18. Krav til produktsertifikat
 
-Produktsertifikat skal inneholde følgende opplysninger;sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,akkrediteringsmerket til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan,et unikt nummer,produktnavn og produkttype,hvilke standarder produktet samsvarer med,produsentens navn og adresse,navn og adresse til eventuell leverandør av det sertifiserte produktet,dato for utstedelse av produktsertifikat,nærmere beskrivelse av produktet, herunder dimensjonerende brukstid,dato og gyldighetsperiode for sertifiseringen,kriterier for gyldighet av sertifiseringen.
+Produktsertifikat skal inneholde følgende opplysninger;
+
+1. sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,
+2. akkrediteringsmerket til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan,
+3. et unikt nummer,
+4. produktnavn og produkttype,
+5. hvilke standarder produktet samsvarer med,
+6. produsentens navn og adresse,
+7. navn og adresse til eventuell leverandør av det sertifiserte produktet,
+8. dato for utstedelse av produktsertifikat,
+9. nærmere beskrivelse av produktet, herunder dimensjonerende brukstid,
+10. dato og gyldighetsperiode for sertifiseringen,
+11. kriterier for gyldighet av sertifiseringen.
 
 En liste over relevant teknisk dokumentasjon skal vedlegges sertifikatet. Akkreditert sertifiseringsorgan skal oppbevare en kopi av denne.
 
@@ -160,7 +199,13 @@ En liste over relevant teknisk dokumentasjon skal vedlegges sertifikatet. Akkred
 
 Produsent av komponenter som skal produktsertifiseres skal kunne fremlegge dokumentasjon av sitt kvalitetssystem. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige tiltak, rutiner og instruksjoner. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Dokumentasjonen skal særlig omfatte en god beskrivelse av;kvalitetsmålene, organisasjonsplanen, ledernes ansvar og myndighet hva produktkvalitet angår,produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,undersøkelsene og prøvingen som vil bli utført før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje,kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt.
+Dokumentasjonen skal særlig omfatte en god beskrivelse av;
+
+1. kvalitetsmålene, organisasjonsplanen, ledernes ansvar og myndighet hva produktkvalitet angår,
+2. produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,
+3. undersøkelsene og prøvingen som vil bli utført før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje,
+4. kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,
+5. mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt.
 
 Akkreditert sertifiseringsorgan skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene i denne bestemmelsen før produktsertifikat kan utstedes.
 
@@ -208,7 +253,12 @@ Tilstandsanalysen skal gjennomføres med et analysenivå som er tilpasset risiko
 
 Fastsetting av konsekvensgrad som følge av tilstandsgraden skal gjøres på bakgrunn av hvordan de ulike barrierene på anlegget samlet bidrar til å hindre rømming. Når risikoen vurderes, skal usikkerheten tas i betraktning.
 
-Tilstandsanalysen skal inneholde:hvilke kriterier som representerer rammeverket ved fastsetting av tilstandsgrad for den enkelte komponent og komponentene samlet,fastsetting av tilstandsgrad 0, 1, 2 eller 3 for den enkelte komponent og komponentene samlet, herunder beskrivelse av avvik,vurdering av årsak til registrerte avvik, fastsetting av konsekvensgrad og risiko for komponenter i tilstandsgrad 2, 3 og tilstandsgrad ikke undersøkt (TGIU),vurdering, anbefaling og prioritering av tiltak for å sikre forsvarlig teknisk standard for rømmingssikkerheten.
+Tilstandsanalysen skal inneholde:
+
+1. hvilke kriterier som representerer rammeverket ved fastsetting av tilstandsgrad for den enkelte komponent og komponentene samlet,
+2. fastsetting av tilstandsgrad 0, 1, 2 eller 3 for den enkelte komponent og komponentene samlet, herunder beskrivelse av avvik,
+3. vurdering av årsak til registrerte avvik, fastsetting av konsekvensgrad og risiko for komponenter i tilstandsgrad 2, 3 og tilstandsgrad ikke undersøkt (TGIU),
+4. vurdering, anbefaling og prioritering av tiltak for å sikre forsvarlig teknisk standard for rømmingssikkerheten.
 
 > Endret ved [forskrifter 5 nov 2019 nr. 1544](forskrift/2019-11-05-1544), [19 okt 2020 nr. 2117](forskrift/2020-10-19-2117).
 
@@ -216,7 +266,14 @@ Tilstandsanalysen skal inneholde:hvilke kriterier som representerer rammeverket 
 
 Innehaveren av akvakulturtillatelsen skal sørge for at det til enhver tid foreligger en oppdatert rømmingsteknisk rapport for akvakulturanlegget. Rapporten skal være tilgjengelig for tilsyn.
 
-Den rømmingstekniske rapporten skal inneholde:en tilstandsanalyse av anlegget i samsvar med denne forskrifts [§ 22](forskrift/2017-06-19-941/§22),en plantegning og prosessdiagram over avløpssystem og leveringssystem i anlegget,en risikovurdering av drift og levering av fisk,informasjon om anleggets oppbygning og funksjon,en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,en vedlikeholdsplan for anlegget.
+Den rømmingstekniske rapporten skal inneholde:
+
+1. en tilstandsanalyse av anlegget i samsvar med denne forskrifts [§ 22](forskrift/2017-06-19-941/§22),
+2. en plantegning og prosessdiagram over avløpssystem og leveringssystem i anlegget,
+3. en risikovurdering av drift og levering av fisk,
+4. informasjon om anleggets oppbygning og funksjon,
+5. en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,
+6. en vedlikeholdsplan for anlegget.
 
 > Endret ved [forskrift 19 okt 2020 nr. 2117](forskrift/2020-10-19-2117).
 
@@ -236,7 +293,11 @@ Foretaket som utfører tilstandsanalysen skal ikke ha personlig eller økonomisk
 
 Innehaveren av akvakulturtillatelsen skal sende tilstandsanalyser utført etter [§ 22](forskrift/2017-06-19-941/§22) til Fiskeridirektoratet innen to uker etter at tilstandsgrad er fastsatt. Tilstandsanalyser med tilstandsgrad for anleggets avdelinger og fellesfunksjoner skal sendes på den måten Fiskeridirektoratet bestemmer.
 
-Innehaveren av akvakulturtillatelse for landbaserte akvakulturanlegg for fisk som ble prosjektert før 1. januar 2018 skal i tillegg sende Fiskeridirektoratet;en plantegning og prosessdiagram av avløps- og leveringsrør,en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,overordnet informasjon om anleggets oppbygning og funksjon.
+Innehaveren av akvakulturtillatelse for landbaserte akvakulturanlegg for fisk som ble prosjektert før 1. januar 2018 skal i tillegg sende Fiskeridirektoratet;
+
+1. en plantegning og prosessdiagram av avløps- og leveringsrør,
+2. en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,
+3. overordnet informasjon om anleggets oppbygning og funksjon.
 
 Informasjonen skal sendes innen 1. januar 2022. For innehavere av anlegg nevnt i vedlegg 1 skal informasjonen sendes innen 1. januar 2023.
 
@@ -286,7 +347,12 @@ Innehaver av akvakulturtillatelse er ansvarlig for at det foreligger nødvendig 
 
 ### § 31. Krav til loggføring og oppbevaring
 
-Innehaver av akvakulturtillatelse er ansvarlig for at alle endringer og utskiftninger fortløpende loggføres i egen journal, og at dette oppbevares og gjøres tilgjengelig for kontroll på anlegget, til enhver tid. Journalen skal minimum inneholde opplysninger om;utført handling, herunder type ettersyn, vedlikehold eller reparasjon, med henvisning til plan og prosedyre,nødvendig oppfølging som konklusjon etter utført handling,dato for utført handling,underskrift fra den som utførte handlingen.
+Innehaver av akvakulturtillatelse er ansvarlig for at alle endringer og utskiftninger fortløpende loggføres i egen journal, og at dette oppbevares og gjøres tilgjengelig for kontroll på anlegget, til enhver tid. Journalen skal minimum inneholde opplysninger om;
+
+1. utført handling, herunder type ettersyn, vedlikehold eller reparasjon, med henvisning til plan og prosedyre,
+2. nødvendig oppfølging som konklusjon etter utført handling,
+3. dato for utført handling,
+4. underskrift fra den som utførte handlingen.
 
 Slik journal skal oppbevares på anlegget i minst 10 år.
 
@@ -320,6 +386,10 @@ Forskriftens [§ 23](forskrift/2017-06-19-941/§23) trer i kraft 1. januar 2022.
 
 ## Vedlegg 1
 
-Akvakulturtillatelser for landbaserte akvakulturanlegg med ferskvann for:Akvakultur av røye i kommunene Flekkefjord, Bjerkreim, Tydal, Brønnøy, Hemnes, Hattfjelldal og Sør-Varanger.Akvakultur av ørret i kommunene Elverum, Nord-Aurdal, Søndre Land, Flekkefjord, Bjerkreim, Ullensvang og Sogndal.Akvakultur av regnbueørret i kommunene Elverum, Engerdal, Nord-Aurdal og Vestre Slidre.
+Akvakulturtillatelser for landbaserte akvakulturanlegg med ferskvann for:
+
+1. Akvakultur av røye i kommunene Flekkefjord, Bjerkreim, Tydal, Brønnøy, Hemnes, Hattfjelldal og Sør-Varanger.
+2. Akvakultur av ørret i kommunene Elverum, Nord-Aurdal, Søndre Land, Flekkefjord, Bjerkreim, Ullensvang og Sogndal.
+3. Akvakultur av regnbueørret i kommunene Elverum, Engerdal, Nord-Aurdal og Vestre Slidre.
 
 > Tilføyd ved forskrift [21 des 2021 nr. 3869](forskrift/2021-12-21-3869).

@@ -34,7 +34,15 @@ Forskriften gjelder for norsk landterritorium, med unntak for Svalbard, Jan Maye
 
 ### § 3. Definisjoner
 
-I forskriften menes med:*Funksjonell internettilgang:* bredbåndstilbud med mulighet til tilkobling til internett som gir sluttbruker minimum 30 Mbit/s nedlastingshastighet og 5 Mbit/s opplastingshastighet og som oppfyller minimumskrav til bruksområder som følger av [§ 9](forskrift/2025-09-25-1997/§9).*Søker:* privatpersoner og små og mellomstore foretak som ikke har et tilbud om funksjonell internettilgang.*Små og mellomstore foretak:* foretak med under 100 ansatte.*Sesongbasert næringsvirksomhet:* næringsvirksomhet som er stedbunden og har en nødvendig tilknytning til den aktuelle adressen, er knyttet til årstider, drives kun deler av året, men minst tre måneder, og har en årlig omsetning på minst 1 million kroner fra virksomheten som drives på stedet.*Fast tilholdssted:* privatpersoners folkeregistrerte adresse eller små og mellomstore foretaks faste driftssted for helårlig eller sesongbasert næringsvirksomhet.*Leverandør:* tilbyder av offentlig elektronisk kommunikasjonstjeneste som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang.*Støtte:* Med støtte menes at Nasjonal kommunikasjonsmyndighet inngår avtale med tilbyder om etablering av funksjonell internettilgang til en søker.
+I forskriften menes med:
+
+1. *Funksjonell internettilgang:* bredbåndstilbud med mulighet til tilkobling til internett som gir sluttbruker minimum 30 Mbit/s nedlastingshastighet og 5 Mbit/s opplastingshastighet og som oppfyller minimumskrav til bruksområder som følger av [§ 9](forskrift/2025-09-25-1997/§9).
+2. *Søker:* privatpersoner og små og mellomstore foretak som ikke har et tilbud om funksjonell internettilgang.
+3. *Små og mellomstore foretak:* foretak med under 100 ansatte.
+4. *Sesongbasert næringsvirksomhet:* næringsvirksomhet som er stedbunden og har en nødvendig tilknytning til den aktuelle adressen, er knyttet til årstider, drives kun deler av året, men minst tre måneder, og har en årlig omsetning på minst 1 million kroner fra virksomheten som drives på stedet.
+5. *Fast tilholdssted:* privatpersoners folkeregistrerte adresse eller små og mellomstore foretaks faste driftssted for helårlig eller sesongbasert næringsvirksomhet.
+6. *Leverandør:* tilbyder av offentlig elektronisk kommunikasjonstjeneste som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang.
+7. *Støtte:* Med støtte menes at Nasjonal kommunikasjonsmyndighet inngår avtale med tilbyder om etablering av funksjonell internettilgang til en søker.
 
 ### § 4. Hva det kan gis støtte til
 
@@ -74,7 +82,19 @@ Nasjonal kommunikasjonsmyndighet kan stille ytterligere krav til tjenesten som s
 
 ### § 9. Krav til bruksområder og stabilitet i tjenesten
 
-Søker skal som et minimum kunne benytte funksjonell internettilgang til:e-post,søkemotorer for å finne frem til informasjon,grunnleggende nettbaserte verktøy for opplæring og videreutdanning,aviser og nyheter på nett,kjøp eller bestilling av varer og tjenester på nett,jobbsøking og verktøy for jobbsøking,ervervsmessig nettverksbygging,digitale banktjenester,offentlige digitale tjenester,sosiale medier og direktemeldinger, oggjennomføre tale- og videosamtaler med standard kvalitet.
+Søker skal som et minimum kunne benytte funksjonell internettilgang til:
+
+1. e-post,
+2. søkemotorer for å finne frem til informasjon,
+3. grunnleggende nettbaserte verktøy for opplæring og videreutdanning,
+4. aviser og nyheter på nett,
+5. kjøp eller bestilling av varer og tjenester på nett,
+6. jobbsøking og verktøy for jobbsøking,
+7. ervervsmessig nettverksbygging,
+8. digitale banktjenester,
+9. offentlige digitale tjenester,
+10. sosiale medier og direktemeldinger, og
+11. gjennomføre tale- og videosamtaler med standard kvalitet.
 
 Tilbudet som etableres gjennom ordningen, skal gi stabil tilgang med minst 30 Mbit/s nedlastningshastighet og 5 Mbit/s opplastingshastighet for sluttbruker i travel time.
 
@@ -90,7 +110,12 @@ Tjenesten som etableres gjennom ordningen skal gi sluttbruker tilbud om en abonn
 
 ### § 12. Leverandørens plikter
 
-Leverandører som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang etter en anskaffelsesprosess etter [§ 15 tredje ledd](forskrift/2025-09-25-1997/§15/ledd/3) skalopprettholde tilbudet til sluttbruker i minimum to år med opsjon for sluttbruker på forlengelse i inntil fem år,tilby funksjonell internettilgang i samsvar med [§§ 9](forskrift/2025-09-25-1997/§9) til [11](forskrift/2025-09-25-1997/§11).rette feil på tjenesten uten ugrunnet opphold etter at sluttbruker har meldt fra til leverandøren eller leverandøren selv har oppdaget feilen.som et minimum tilby betjent kundeservice på norsk, tilgjengelig per telefon i tidsrommet 0800–1600 på hverdager.
+Leverandører som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang etter en anskaffelsesprosess etter [§ 15 tredje ledd](forskrift/2025-09-25-1997/§15/ledd/3) skal
+
+1. opprettholde tilbudet til sluttbruker i minimum to år med opsjon for sluttbruker på forlengelse i inntil fem år,
+2. tilby funksjonell internettilgang i samsvar med [§§ 9](forskrift/2025-09-25-1997/§9) til [11](forskrift/2025-09-25-1997/§11).
+3. rette feil på tjenesten uten ugrunnet opphold etter at sluttbruker har meldt fra til leverandøren eller leverandøren selv har oppdaget feilen.
+4. som et minimum tilby betjent kundeservice på norsk, tilgjengelig per telefon i tidsrommet 0800–1600 på hverdager.
 
 ### § 13. Leverandørens rettigheter
 
@@ -102,7 +127,15 @@ Leverandøren som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveran
 
 Søknad om støtte skal være skriftlig og sendes til Nasjonal kommunikasjonsmyndighet.
 
-Søknaden skal blant annet inneholde informasjon om:søkers navn og adresse,søkers personnummer eller organisasjonsnummer,søkers kontaktinformasjon,elforsyning til bygningen søknaden angår,beskrivelse av bygningens beliggenhet i forhold til nærmeste vei for biltrafikk,beskrivelse av siktforhold og omgivelsene rundt bygningen som kan ha betydning for mobildekning eller fremføring av kabler, ogopplysninger om eventuell tidligere kontakt mellom søker og leverandører om mulig etablering av bredbåndstilgang, herunder tilgang til satellittbredbånd.
+Søknaden skal blant annet inneholde informasjon om:
+
+1. søkers navn og adresse,
+2. søkers personnummer eller organisasjonsnummer,
+3. søkers kontaktinformasjon,
+4. elforsyning til bygningen søknaden angår,
+5. beskrivelse av bygningens beliggenhet i forhold til nærmeste vei for biltrafikk,
+6. beskrivelse av siktforhold og omgivelsene rundt bygningen som kan ha betydning for mobildekning eller fremføring av kabler, og
+7. opplysninger om eventuell tidligere kontakt mellom søker og leverandører om mulig etablering av bredbåndstilgang, herunder tilgang til satellittbredbånd.
 
 Dokumentasjon på at vilkåret etter [§ 4 første ledd](forskrift/2025-09-25-1997/§4/ledd/1) om fast tilholdssted er oppfylt, skal vedlegges søknaden.
 

@@ -15,7 +15,7 @@ xml_hash: "299ae9aa245d67606bfb410ce17f9033c1d045e5c72da4af5ec3aa886db625a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1-1. Lovens formål
 
-Lovens formål er særlig å:forebygge, behandle og tilrettelegge for mestring av sykdom, skade, lidelse og nedsatt funksjonsevne,fremme sosial trygghet, bedre levevilkårene for vanskeligstilte, bidra til likeverd og likestilling og forebygge sosiale problemer,sikre at den enkelte får mulighet til å leve og bo selvstendig og til å ha en aktiv og meningsfylt tilværelse i fellesskap med andre,sikre tjenestetilbudets kvalitet og et likeverdig tjenestetilbud,sikre samhandling og at tjenestetilbudet blir tilgjengelig for pasient og bruker, sikre nødvendig opplæring av pasient, bruker og pårørende, samt sikre at tilbudet er tilpasset den enkeltes behov,sikre at tjenestetilbudet tilrettelegges med respekt for den enkeltes integritet og verdighet ogbidra til at ressursene utnyttes best mulig.
+Lovens formål er særlig å:
+
+1. forebygge, behandle og tilrettelegge for mestring av sykdom, skade, lidelse og nedsatt funksjonsevne,
+2. fremme sosial trygghet, bedre levevilkårene for vanskeligstilte, bidra til likeverd og likestilling og forebygge sosiale problemer,
+3. sikre at den enkelte får mulighet til å leve og bo selvstendig og til å ha en aktiv og meningsfylt tilværelse i fellesskap med andre,
+4. sikre tjenestetilbudets kvalitet og et likeverdig tjenestetilbud,
+5. sikre samhandling og at tjenestetilbudet blir tilgjengelig for pasient og bruker, sikre nødvendig opplæring av pasient, bruker og pårørende, samt sikre at tilbudet er tilpasset den enkeltes behov,
+6. sikre at tjenestetilbudet tilrettelegges med respekt for den enkeltes integritet og verdighet og
+7. bidra til at ressursene utnyttes best mulig.
 
 > Endret ved lov [16 juni 2017 nr. 55](lov/2017-06-16-55) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 777](forskrift/2017-06-16-777)).
 
@@ -74,7 +82,27 @@ Tjenester som nevnt i første ledd, kan ytes av kommunen selv eller ved at kommu
 
 ### § 3-2. Kommunens ansvar for helse- og omsorgstjenester
 
-For å oppfylle ansvaret etter [§ 3-1](lov/2011-06-24-30/§3-1) skal kommunen blant annet tilby følgende:Helsefremmende og forebyggende tjenester, herunder:helsetjeneste i skoler oghelsestasjonstjenesteSvangerskaps- og barselomsorgstjenesterHjelp ved ulykker og andre akutte situasjoner, herunder:legevakt,heldøgns medisinsk akuttberedskap,medisinsk nødmeldetjeneste, ogpsykososial beredskap og oppfølging.Utredning, diagnostisering og behandling, herunder fastlegeordningSosial, psykososial og medisinsk habilitering og rehabiliteringAndre helse- og omsorgstjenester, herunder:helsetjenester i hjemmet,personlig assistanse, herunder praktisk bistand og opplæring og støttekontakt ogplass i institusjon, herunder sykehjem.Dagaktivitetstilbud til hjemmeboende personer med demens.
+For å oppfylle ansvaret etter [§ 3-1](lov/2011-06-24-30/§3-1) skal kommunen blant annet tilby følgende:
+
+1. Helsefremmende og forebyggende tjenester, herunder:
+
+   1. helsetjeneste i skoler og
+   2. helsestasjonstjeneste
+2. Svangerskaps- og barselomsorgstjenester
+3. Hjelp ved ulykker og andre akutte situasjoner, herunder:
+
+   1. legevakt,
+   2. heldøgns medisinsk akuttberedskap,
+   3. medisinsk nødmeldetjeneste, og
+   4. psykososial beredskap og oppfølging.
+4. Utredning, diagnostisering og behandling, herunder fastlegeordning
+5. Sosial, psykososial og medisinsk habilitering og rehabilitering
+6. Andre helse- og omsorgstjenester, herunder:
+
+   1. helsetjenester i hjemmet,
+   2. personlig assistanse, herunder praktisk bistand og opplæring og støttekontakt og
+   3. plass i institusjon, herunder sykehjem.
+7. Dagaktivitetstilbud til hjemmeboende personer med demens.
 
 For å oppfylle ansvaret etter [§ 3-1](lov/2011-06-24-30/§3-1) skal kommunen ha knyttet til seg lege, sykepleier, fysioterapeut, jordmor, helsesykepleier, ergoterapeut og psykolog. Kongen i statsråd kan i forskrift gi nærmere bestemmelser om krav til innhold i tjenestene etter bestemmelsen her, herunder bestemmelser om kompetansekrav for ulike typer tjenester.
 
@@ -136,7 +164,11 @@ Kongen i statsråd kan i forskrift fastsette nærmere bestemmelser om innholdet 
 
 ### § 3-6. Kommunens ansvar overfor pårørende
 
-Til personer med særlig tyngende omsorgsarbeid skal kommunen tilby nødvendig pårørendestøtte blant annet i form av:opplæring og veiledningavlastningstiltakomsorgsstønad
+Til personer med særlig tyngende omsorgsarbeid skal kommunen tilby nødvendig pårørendestøtte blant annet i form av:
+
+1. opplæring og veiledning
+2. avlastningstiltak
+3. omsorgsstønad
 
 > Endret ved lov [2 juni 2017 nr. 34](lov/2017-06-02-34) (ikr. 1 okt 2017).
 
@@ -192,7 +224,12 @@ Kommuner innenfor forvaltningsområdet for samisk språk, jf. [sameloven § 3-1]
 
 ### § 4-1. Forsvarlighet
 
-Helse- og omsorgstjenester som tilbys eller ytes etter loven her skal være forsvarlige. Kommunen skal tilrettelegge tjenestene slik at:den enkelte pasient eller bruker gis et helhetlig og koordinert helse- og omsorgstjenestetilbud,den enkelte pasient eller bruker gis et verdig tjenestetilbud,helse- og omsorgstjenesten og personell som utfører tjenestene blir i stand til å overholde sine lovpålagte plikter ogtilstrekkelig fagkompetanse sikres i tjenestene.
+Helse- og omsorgstjenester som tilbys eller ytes etter loven her skal være forsvarlige. Kommunen skal tilrettelegge tjenestene slik at:
+
+1. den enkelte pasient eller bruker gis et helhetlig og koordinert helse- og omsorgstjenestetilbud,
+2. den enkelte pasient eller bruker gis et verdig tjenestetilbud,
+3. helse- og omsorgstjenesten og personell som utfører tjenestene blir i stand til å overholde sine lovpålagte plikter og
+4. tilstrekkelig fagkompetanse sikres i tjenestene.
 
 Kongen i statsråd kan i forskrift gi nærmere bestemmelser om kommunens plikt etter første ledd bokstav d.
 
@@ -310,7 +347,21 @@ Pasient- og brukererfaringer skal inngå i vurderingsgrunnlaget ved utarbeidelse
 
 ### § 6-2. Krav til avtalens innhold
 
-Avtalen skal som et minimum omfatte:enighet om hvilke helse- og omsorgsoppgaver forvaltningsnivåene er pålagt ansvaret for og en felles oppfatning av hvilke tiltak partene til enhver tid skal utføre,retningslinjer for samarbeid i tilknytning til innleggelse, utskrivning, habilitering, rehabilitering og lærings- og mestringstilbud for å sikre helhetlige og sammenhengende helse- og omsorgstjenester til pasienter med behov for koordinerte tjenester,retningslinjer for innleggelse i sykehus,beskrivelse av kommunens tilbud om døgnopphold for øyeblikkelig hjelp etter [§ 3-5](lov/2011-06-24-30/§3-5) tredje ledd,retningslinjer for samarbeid om utskrivningsklare pasienter som antas å ha behov for kommunale tjenester etter utskrivning fra institusjon,retningslinjer for gjensidig kunnskapsoverføring og informasjonsutveksling og for faglige nettverk og hospitering,samarbeid om forskning, utdanning, praksis og læretid,samarbeid om jordmortjenester,samarbeid om IKT-løsninger lokalt,samarbeid om forebygging,omforente beredskapsplaner og planer for den akuttmedisinske kjeden,konkret beskrivelse av hvordan partene sammen skal utvikle og planlegge tjenestene ogsamarbeid om ytelse av helse- og omsorgstjenester til barn og unge med sammensatte vansker og lidelser, og som derfor mottar tjenester fra begge forvaltningsnivåene.
+Avtalen skal som et minimum omfatte:
+
+1. enighet om hvilke helse- og omsorgsoppgaver forvaltningsnivåene er pålagt ansvaret for og en felles oppfatning av hvilke tiltak partene til enhver tid skal utføre,
+2. retningslinjer for samarbeid i tilknytning til innleggelse, utskrivning, habilitering, rehabilitering og lærings- og mestringstilbud for å sikre helhetlige og sammenhengende helse- og omsorgstjenester til pasienter med behov for koordinerte tjenester,
+3. retningslinjer for innleggelse i sykehus,
+4. beskrivelse av kommunens tilbud om døgnopphold for øyeblikkelig hjelp etter [§ 3-5](lov/2011-06-24-30/§3-5) tredje ledd,
+5. retningslinjer for samarbeid om utskrivningsklare pasienter som antas å ha behov for kommunale tjenester etter utskrivning fra institusjon,
+6. retningslinjer for gjensidig kunnskapsoverføring og informasjonsutveksling og for faglige nettverk og hospitering,
+7. samarbeid om forskning, utdanning, praksis og læretid,
+8. samarbeid om jordmortjenester,
+9. samarbeid om IKT-løsninger lokalt,
+10. samarbeid om forebygging,
+11. omforente beredskapsplaner og planer for den akuttmedisinske kjeden,
+12. konkret beskrivelse av hvordan partene sammen skal utvikle og planlegge tjenestene og
+13. samarbeid om ytelse av helse- og omsorgstjenester til barn og unge med sammensatte vansker og lidelser, og som derfor mottar tjenester fra begge forvaltningsnivåene.
 
 Når det avtales samarbeidstiltak, må avtalen klargjøre ansvarsforholdene, herunder må arbeidsgiveransvaret avklares. Videre må det avtales hvordan samarbeidstiltaket skal organiseres og finansieres.
 
@@ -356,7 +407,13 @@ Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilken kompetans
 
 For familier som har eller venter barn med alvorlig sykdom, skade eller nedsatt funksjonsevne, og som vil ha behov for langvarige og sammensatte eller koordinerte helse- og omsorgstjenester og andre velferdstjenester, skal kommunen oppnevne en barnekoordinator dersom foreldrene eller den som samtykker på vegne av barnet, ønsker dette.
 
-Barnekoordinatoren skal sørge forkoordinering av det samlede tjenestetilbudet,å ha oversikt over og bidra aktivt til å ivareta kommunens ansvar for nødvendig oppfølging og tilrettelegging for familien og barnet i form av tilbud om eller ytelse av helse- og omsorgstjenester og andre velferdstjenester,at familien og barnet får nødvendig informasjon og helhetlig veiledning om helse- og omsorgstjenestetilbudet,at familien og barnet får nødvendig informasjon og helhetlig veiledning om andre velferdstjenester og relevante pasient- og brukerorganisasjoner, at familien og barnet gis veiledning i deres kontakt med disse, og at det formidles kontakt eller henvisning videre til slike tjenester eller organisasjoner ogfremdrift i arbeidet med individuell plan.
+Barnekoordinatoren skal sørge for
+
+1. koordinering av det samlede tjenestetilbudet,
+2. å ha oversikt over og bidra aktivt til å ivareta kommunens ansvar for nødvendig oppfølging og tilrettelegging for familien og barnet i form av tilbud om eller ytelse av helse- og omsorgstjenester og andre velferdstjenester,
+3. at familien og barnet får nødvendig informasjon og helhetlig veiledning om helse- og omsorgstjenestetilbudet,
+4. at familien og barnet får nødvendig informasjon og helhetlig veiledning om andre velferdstjenester og relevante pasient- og brukerorganisasjoner, at familien og barnet gis veiledning i deres kontakt med disse, og at det formidles kontakt eller henvisning videre til slike tjenester eller organisasjoner og
+5. fremdrift i arbeidet med individuell plan.
 
 Kommunens plikt til å oppnevne barnekoordinator gjelder frem til barnet fyller 18 år.
 
@@ -366,7 +423,11 @@ Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilken kompetans
 
 ### § 7-2 b. Midlertidige unntak fra plikter
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at den kommunale helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 7-1](lov/2011-06-24-30/§7-1) om individuell plan[§ 7-2](lov/2011-06-24-30/§7-2) om koordinator[§ 7-2 a](lov/2011-06-24-30/§7-2a) om barnekoordinator.
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at den kommunale helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:
+
+1. [§ 7-1](lov/2011-06-24-30/§7-1) om individuell plan
+2. [§ 7-2](lov/2011-06-24-30/§7-2) om koordinator
+3. [§ 7-2 a](lov/2011-06-24-30/§7-2a) om barnekoordinator.
 
 > Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
@@ -440,7 +501,11 @@ Andre løsninger enn bruk av tvang eller makt skal være prøvd før tiltak ette
 
 Tvang og makt kan bare brukes når det er faglig og etisk forsvarlig. I vurderingen skal det legges særlig vekt på hvor inngripende tiltaket er for den enkelte bruker eller pasient. Tiltakene må ikke gå lenger enn det som er nødvendig for formålet, og må stå i forhold til det formålet som skal ivaretas. Tvang og makt kan bare brukes for å hindre eller begrense vesentlig skade.
 
-Det kan anvendes tvang og makt i følgende tilfeller:skadeavvergende tiltak i nødssituasjonerplanlagte skadeavvergende tiltak i gjentatte nødssituasjonertiltak for å dekke brukerens eller pasientens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet, herunder opplærings- og treningstiltak.
+Det kan anvendes tvang og makt i følgende tilfeller:
+
+1. skadeavvergende tiltak i nødssituasjoner
+2. planlagte skadeavvergende tiltak i gjentatte nødssituasjoner
+3. tiltak for å dekke brukerens eller pasientens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet, herunder opplærings- og treningstiltak.
 
 ### § 9-6. Særlige grenser for bruk av enkelte tiltak
 
@@ -456,7 +521,17 @@ Beslutning om bruk av tvang og makt etter [§ 9-5](lov/2011-06-24-30/§9-5) tred
 
 Vedtak i medhold av [§ 9-5](lov/2011-06-24-30/§9-5) tredje ledd bokstav b og c treffes av den som har det overordnete faglige ansvaret for tjenesten. Vedtak kan treffes for inntil tolv måneder om gangen. Spesialisthelsetjenesten skal bistå ved utformingen av tiltakene.
 
-Vedtaket skal settes opp skriftlig og inneholde:brukerens eller pasientens navn og tid og sted for vedtaket,beskrivelse av brukerens eller pasientens situasjon og en faglig vurdering av denne,beskrivelse av de tiltakene som skal settes i verk og den faglige begrunnelsen for disse,fastsettelse av tidsramme for tiltakene,bekreftelse på at vilkårene i kapitlet er oppfylt, herunder begrunnelse etter [§ 9-5](lov/2011-06-24-30/§9-5) første ledd annet punktum,opplysning om hvilken holdning brukeren eller pasienten og dennes representant har til tiltaket,angivelse av faglig ansvarlig for gjennomføringen av tiltaket,opplysning om statsforvalterens overprøvingsmyndighet og adgang til å uttale seg i saker som skal overprøves etter [§ 9-8](lov/2011-06-24-30/§9-8), ogopplysning om tilsynsmyndighet.
+Vedtaket skal settes opp skriftlig og inneholde:
+
+1. brukerens eller pasientens navn og tid og sted for vedtaket,
+2. beskrivelse av brukerens eller pasientens situasjon og en faglig vurdering av denne,
+3. beskrivelse av de tiltakene som skal settes i verk og den faglige begrunnelsen for disse,
+4. fastsettelse av tidsramme for tiltakene,
+5. bekreftelse på at vilkårene i kapitlet er oppfylt, herunder begrunnelse etter [§ 9-5](lov/2011-06-24-30/§9-5) første ledd annet punktum,
+6. opplysning om hvilken holdning brukeren eller pasienten og dennes representant har til tiltaket,
+7. angivelse av faglig ansvarlig for gjennomføringen av tiltaket,
+8. opplysning om statsforvalterens overprøvingsmyndighet og adgang til å uttale seg i saker som skal overprøves etter [§ 9-8](lov/2011-06-24-30/§9-8), og
+9. opplysning om tilsynsmyndighet.
 
 Vedtaket skal sendes statsforvalteren til overprøving etter [§ 9-8](lov/2011-06-24-30/§9-8). Vedtaket skal samtidig sendes spesialisthelsetjenesten, verge og pårørende som kan avgi uttalelse til statsforvalteren. Frist for å avgi slik uttalelse er en uke fra vedtaket er mottatt. Vedtaket kan ikke iverksettes før det er godkjent av statsforvalteren. Dersom vedtaket er påklaget etter [§ 9-11](lov/2011-06-24-30/§9-11) andre ledd, kan vedtaket ikke iverksettes før barneverns- og helsenemnda har godkjent vedtaket.
 
@@ -658,7 +733,10 @@ Dersom et barns interesser tilsier det, kan statsforvalteren eller departementet
 
 ### § 12-2. Legefordeling til kommunens helse- og omsorgstjeneste
 
-Departementet fastsetter hvert år en samlet ramme forantall nye legestillinger som kan opprettes i den kommunale helse- og omsorgstjenesten ogantall nye avtalehjemler for privat allmennlegevirksomhet.
+Departementet fastsetter hvert år en samlet ramme for
+
+1. antall nye legestillinger som kan opprettes i den kommunale helse- og omsorgstjenesten og
+2. antall nye avtalehjemler for privat allmennlegevirksomhet.
 
 Departementet kan i forskrift gi nærmere bestemmelser om innhold og gjennomføring av legefordeling til den kommunale helse- og omsorgstjenesten.
 
@@ -686,7 +764,18 @@ Beboerne skal gis adgang til å bevege seg både i og utenfor institusjonen med 
 
 Det er ikke tillatt å bruke innelåsing i enerom, andre tvangstiltak eller å føre kontroll med beboernes korrespondanse, med mindre det er tillatt ved lov eller forskrifter som nevnt i fjerde ledd.
 
-Kongen kan gi forskrift om gjennomføringen av opphold ved institusjon. Det kan herunder gis regler om fastsettelse av husordensregler, rusmiddeltesting av pasientens eller brukerens biologiske materiale, forvaltning av pasientens eller brukerens midler, pasientens eller brukerens rettigheter og plikter, saksbehandling og klage og vern om pasientens eller brukerens personlige integritet. Det kan dessuten gis regler om følgende tvangstiltak:kontroll av pasientens eller brukerens postforbud mot rusmidler, legemidler, skadelige stoffer og farlige gjenstander i institusjonenbeslaglegging og tilintetgjøring av rusmidler, legemidler, skadelige stoffer og farlige gjenstanderkroppsvisitasjon, undersøkelse av munnhulen og undersøkelse av pasientens eller brukerens rom og eiendeler når dette er nødvendig for å oppnå formålet med oppholdet, herunder rutinekontroll ved innleggelse eller etter opphold utenfor institusjonenadgang til å nekte besøkadgang til å nekte permisjoner og annet fraværbeslag av pasientens eller brukerens egne elektroniske kommunikasjonsmidler dersom kamera- eller lydopptaksfunksjon gjør beslag nødvendig av hensyn til andre pasienters eller brukeres eller ansattes personvernbruk av tvang i nødssituasjoner i tråd med alminnelige nødretts- og nødvergebetraktninger.Kongens myndighet gjelder også private institusjoner for personer med rusmiddelproblemer uten avtale med kommunen.
+Kongen kan gi forskrift om gjennomføringen av opphold ved institusjon. Det kan herunder gis regler om fastsettelse av husordensregler, rusmiddeltesting av pasientens eller brukerens biologiske materiale, forvaltning av pasientens eller brukerens midler, pasientens eller brukerens rettigheter og plikter, saksbehandling og klage og vern om pasientens eller brukerens personlige integritet. Det kan dessuten gis regler om følgende tvangstiltak:
+
+1. kontroll av pasientens eller brukerens post
+2. forbud mot rusmidler, legemidler, skadelige stoffer og farlige gjenstander i institusjonen
+3. beslaglegging og tilintetgjøring av rusmidler, legemidler, skadelige stoffer og farlige gjenstander
+4. kroppsvisitasjon, undersøkelse av munnhulen og undersøkelse av pasientens eller brukerens rom og eiendeler når dette er nødvendig for å oppnå formålet med oppholdet, herunder rutinekontroll ved innleggelse eller etter opphold utenfor institusjonen
+5. adgang til å nekte besøk
+6. adgang til å nekte permisjoner og annet fravær
+7. beslag av pasientens eller brukerens egne elektroniske kommunikasjonsmidler dersom kamera- eller lydopptaksfunksjon gjør beslag nødvendig av hensyn til andre pasienters eller brukeres eller ansattes personvern
+8. bruk av tvang i nødssituasjoner i tråd med alminnelige nødretts- og nødvergebetraktninger.
+
+Kongens myndighet gjelder også private institusjoner for personer med rusmiddelproblemer uten avtale med kommunen.
 
 > Endret ved lov [20 mai 2016 nr. 10](lov/2016-05-20-10) (ikr. 1 nov 2016 iflg. [res. 26 aug 2016 nr. 1002](forskrift/2016-08-26-1002)).
 
@@ -706,7 +795,13 @@ En kommune må oppfylle et vedtak fra et statlig forvaltningsorgan som gir en pr
 
 ### § 12-7. Godkjenning av virksomheter og tjenesteytere
 
-Departementet kan gi forskrift om krav til og vilkår for godkjenning av private virksomheter og tjenester som omfattes av denne loven, for å ivareta ett eller flere av følgende hensyn:tjenestetilbudets kvalitetpasientsikkerhetå sikre nødvendige helsepersonellressurser for et forsvarlig offentlig tilbud av spesialisthelsetjenester eller kommunale helse- og omsorgstjenestersamfunnssikkerhetberedskap.
+Departementet kan gi forskrift om krav til og vilkår for godkjenning av private virksomheter og tjenester som omfattes av denne loven, for å ivareta ett eller flere av følgende hensyn:
+
+1. tjenestetilbudets kvalitet
+2. pasientsikkerhet
+3. å sikre nødvendige helsepersonellressurser for et forsvarlig offentlig tilbud av spesialisthelsetjenester eller kommunale helse- og omsorgstjenester
+4. samfunnssikkerhet
+5. beredskap.
 
 Departementet kan tilbakekalle godkjenning når virksomheten som er tildelt godkjenningen, ikke fyller kravene som er satt i forskrift.
 

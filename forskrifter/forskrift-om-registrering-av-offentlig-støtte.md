@@ -46,7 +46,20 @@ Støttebeløpets størrelse i euro beregnes etter den offisielle valutakursen fa
 
 ## § 2. Støttegivers meldeplikt og hvilke opplysninger som skal meldes
 
-Støttegiver skal melde støttetildelinger etter [§ 1a](forskrift/2023-01-02-2/§1a) til registeret og opplyse omstøttegivers navn og organisasjonsnummerstøttemottakers navn og organisasjonsnummer, fødselsnummer eller d-nummerom støttemottaker er et lite, mellomstort eller stort foretak, slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) vedlegg I, bare dersom det er et vilkår for å tildele støtten. For bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning er det ikke krav om å gi informasjon om støttemottakers størrelsetildelingsdatoenstøttebeløpet i norske kroner eller i intervaller i euro dersom støttetildelingen gis i form av en skatte- eller avgiftsfordel. Bagatellmessig støtte gitt i form av skatte- og avgiftsfordeler skal oppgis i norske kroner i eksakte beløphvilken støtteordning tildelingen hører inn under, alternativt om tildelingen er ad hoc-støtte, og ID-nummeret for støtteordningen eller ad hoc-støtten hos EFTAs overvåkingsorgan. Kravet om ID-nummer fra EFTAs overvåkningsorgan gjelder ikke for bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydningdet EØS-rettslige grunnlaget for å gi støttentypen støtteinstrument, som tilskudd, garanti, lån, skatteordninger og andre typer støtteregionnæringssektorformålfor bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, om støtten er gitt for å dekke spesifikke kostnader eller om støtten er gitt som uspesifisert støtte.
+Støttegiver skal melde støttetildelinger etter [§ 1a](forskrift/2023-01-02-2/§1a) til registeret og opplyse om
+
+1. støttegivers navn og organisasjonsnummer
+2. støttemottakers navn og organisasjonsnummer, fødselsnummer eller d-nummer
+3. om støttemottaker er et lite, mellomstort eller stort foretak, slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) vedlegg I, bare dersom det er et vilkår for å tildele støtten. For bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning er det ikke krav om å gi informasjon om støttemottakers størrelse
+4. tildelingsdatoen
+5. støttebeløpet i norske kroner eller i intervaller i euro dersom støttetildelingen gis i form av en skatte- eller avgiftsfordel. Bagatellmessig støtte gitt i form av skatte- og avgiftsfordeler skal oppgis i norske kroner i eksakte beløp
+6. hvilken støtteordning tildelingen hører inn under, alternativt om tildelingen er ad hoc-støtte, og ID-nummeret for støtteordningen eller ad hoc-støtten hos EFTAs overvåkingsorgan. Kravet om ID-nummer fra EFTAs overvåkningsorgan gjelder ikke for bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning
+7. det EØS-rettslige grunnlaget for å gi støtten
+8. typen støtteinstrument, som tilskudd, garanti, lån, skatteordninger og andre typer støtte
+9. region
+10. næringssektor
+11. formål
+12. for bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, om støtten er gitt for å dekke spesifikke kostnader eller om støtten er gitt som uspesifisert støtte.
 
 Skatteetaten er ansvarlig for å melde inn offentlig støtte i form av skatte- og avgiftsfordeler.
 

@@ -33,7 +33,11 @@ Forskriften gjelder for forflytning av militært materiell, inkludert kjøretøy
 
 ## § 3. Opprettelse av Cold Response-sone i Norge og beskrivelse av sonen i Sverige og Finland
 
-Det opprettes en Cold Response-sone for militærøvelse i perioden 1. januar 2026 til og med 31. mars 2026 der den norske delen av sonen omfatter følgende geografiske områder:Finnmark fylke, unntatt kommunene Lebesby, Gamvik, Tana, Berlevåg, Båtsfjord, Vardø, Vadsø, Nesseby og Sør-VarangerTroms fylkekommunene Narvik, Evenes, Andøy i Nordland fylke.
+Det opprettes en Cold Response-sone for militærøvelse i perioden 1. januar 2026 til og med 31. mars 2026 der den norske delen av sonen omfatter følgende geografiske områder:
+
+- Finnmark fylke, unntatt kommunene Lebesby, Gamvik, Tana, Berlevåg, Båtsfjord, Vardø, Vadsø, Nesseby og Sør-Varanger
+- Troms fylke
+- kommunene Narvik, Evenes, Andøy i Nordland fylke.
 
 Cold Response-sonen i Sverige omfatter Norrbottens län, unntatt kommunene Piteå, Luleå og Älvsbyn. Sonen i Finland omfatter Lappland fylke, unntatt kommunene Kemi, Kemijärvi, Keminmaa, Pelkosenniemi, Posio, Ranua, Salla, Savukoski, Simo og Tervola.
 
@@ -65,13 +69,23 @@ Kravene i første og andre ledd gjelder ikke for materiell som utelukkende bruke
 
 Dokumentasjon som angitt i [§ 4](forskrift/2025-11-21-2316/§4) skal til enhver tid følge alt militært materiell i den norske delen av Cold Response-sonen. Dette gjelder likevel ikke for norsk militært materiell som enten aldri er brukt utenfor Norge eller som tidligere er sanert ved siste retur til Norge i henhold til [forskrift 2. juli 1991 nr. 507 om forbud mot innførsel av dyr og smitteførende gjenstander](forskrift/1991-07-02-507).
 
-Forsvaret skal ha oppdatert, dokumenterbar oversikt overalt militært materiell som er kontrollert inn i sonen, med nasjonalitet og dato for godkjent sanering.alt norsk militært materiell og kjøretøy som er brukt i de svenske og finske delene av sonen.bevegelsene til ulike avdelinger i sonen.bevegelsene til ulike avdelinger ut av sonen etter endt øvelse.
+Forsvaret skal ha oppdatert, dokumenterbar oversikt over
+
+1. alt militært materiell som er kontrollert inn i sonen, med nasjonalitet og dato for godkjent sanering.
+2. alt norsk militært materiell og kjøretøy som er brukt i de svenske og finske delene av sonen.
+3. bevegelsene til ulike avdelinger i sonen.
+4. bevegelsene til ulike avdelinger ut av sonen etter endt øvelse.
 
 Dokumentasjonen omtalt i denne paragrafen skal legges frem for Mattilsynet på forespørsel.
 
 ## § 8. Meldeplikt
 
-Ved brudd på regelverket, skal Forsvarets personell melde avviket til Mattilsynet så snart som mulig, og senest første virkedag etter at avviket ble oppdaget. Meldingen skal inneholde opplysninger omhvilken bestemmelse som er brutthvor utstyret har blitt flyttet fra og tilhvilken nasjonalitet og avdeling som er ansvarlig for utstyrethvilke tiltak som er igangsatt.
+Ved brudd på regelverket, skal Forsvarets personell melde avviket til Mattilsynet så snart som mulig, og senest første virkedag etter at avviket ble oppdaget. Meldingen skal inneholde opplysninger om
+
+1. hvilken bestemmelse som er brutt
+2. hvor utstyret har blitt flyttet fra og til
+3. hvilken nasjonalitet og avdeling som er ansvarlig for utstyret
+4. hvilke tiltak som er igangsatt.
 
 ## § 9. Krav om sanering av materiell og kjøretøy før flytting ut av sonen under og etter øvelsen
 

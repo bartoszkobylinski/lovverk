@@ -34,7 +34,27 @@ Forskriften skal også sikre at bompengesystemer i Norge virker sammen med den e
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*AutoPASS Samvirke:* nettverket for elektronisk betaling avbompenger på det offentlige vegnettet ogferjebillett på offentlige ferjesamband i Norge*AutoPASS-utsteder:* selskap eller annen juridisk person som etter godkjenning i henhold til [§ 21](forskrift/2018-12-14-1917/§21) eller driftsgodkjenning i henhold til [§ 22](forskrift/2018-12-14-1917/§22) inngår avtaler med operatørene og brukerne for å tilby tjenester for betaling av bompasseringer og ferjetransport gjennom AutoPASS Samvirke*avtalepassering:* en bompassering eller en ferjebetaling som er registrert og tilordnet en brukeravtale hos en AutoPASS-utsteder*bompengeselskap:* et selskap som har inngått avtale med departementet eller Statens vegvesen om å kreve inn bompenger, og som inngår i AutoPASS Samvirke*bruker:* fysisk eller juridisk person som har en brukeravtale med en AutoPASS-utsteder*brukeravtale:* avtale mellom AutoPASS-utsteder og bruker som gjelder betaling i AutoPASS Samvirke*EETS:* det europeiske elektroniske rammeverket for samvirke mellom europeiske utstedertjenester, jf. Europaparlamentets- og Rådsdirektiv [(EU) 2019/520](eu/32019l0520) av 19. mars 2019, art 2.*EETS-gjennomføringsforordningen:* forordning [(EU) 2020/204](eu/32020r0204) av 28. november 2019 om detaljerte forpliktelser for tilbydere av europeiske elektroniske bompengetjenester*EETS-delegasjonsforordningen:* forordning [(EU) 2020/203](eu/32020r0203) av 28. november 2019 om klassifisering av kjøretøyer*EETS-område:* områder i Europa, hvor det drives elektronisk innkreving på det offentlige vegnettet og innkrevingen er innenfor virkeområdet etter EETS*EETS-utsteder:* norsk eller utenlandsk selskap eller annen juridisk person som er godkjent som EETS-utsteder i sitt hjemland*ferjeselskap:* selskap eller annen juridisk person som i henhold til løyve, eller på vegne av en med løyve driver rutetransport med bilførende fartøy i tilknytning til det offentlige vegnettet jf. [yrkestransportloven § 7](lov/2002-06-21-45/§7), og som inngår i AutoPASS Samvirke etter avtale med Statens vegvesen*operatør:* fellesbetegnelse for bompengeselskaper og ferjeselskaper som inngår i AutoPASS Samvirke*utstederavtale:* avtale mellom operatøren og AutoPASS-utstederen, jf. [§ 5](forskrift/2018-12-14-1917/§5)*utstedervirksomhet:* tjenester for betaling av bompasseringer og ferjetransport som drives av AutoPASS-utsteder gjennom AutoPASS Samvirke, inkludert inngåelse og administrasjon av brukeravtaler, utstedelse av elektroniske brikker og annen service overfor brukerne og operatører i denne sammenheng.*elektronisk brikke:* en elektronisk enhet for identifikasjon av avtalepasseringer.
+I denne forskrift menes med:
+
+1. *AutoPASS Samvirke:* nettverket for elektronisk betaling av
+
+   1. bompenger på det offentlige vegnettet og
+   2. ferjebillett på offentlige ferjesamband i Norge
+2. *AutoPASS-utsteder:* selskap eller annen juridisk person som etter godkjenning i henhold til [§ 21](forskrift/2018-12-14-1917/§21) eller driftsgodkjenning i henhold til [§ 22](forskrift/2018-12-14-1917/§22) inngår avtaler med operatørene og brukerne for å tilby tjenester for betaling av bompasseringer og ferjetransport gjennom AutoPASS Samvirke
+3. *avtalepassering:* en bompassering eller en ferjebetaling som er registrert og tilordnet en brukeravtale hos en AutoPASS-utsteder
+4. *bompengeselskap:* et selskap som har inngått avtale med departementet eller Statens vegvesen om å kreve inn bompenger, og som inngår i AutoPASS Samvirke
+5. *bruker:* fysisk eller juridisk person som har en brukeravtale med en AutoPASS-utsteder
+6. *brukeravtale:* avtale mellom AutoPASS-utsteder og bruker som gjelder betaling i AutoPASS Samvirke
+7. *EETS:* det europeiske elektroniske rammeverket for samvirke mellom europeiske utstedertjenester, jf. Europaparlamentets- og Rådsdirektiv [(EU) 2019/520](eu/32019l0520) av 19. mars 2019, art 2.
+8. *EETS-gjennomføringsforordningen:* forordning [(EU) 2020/204](eu/32020r0204) av 28. november 2019 om detaljerte forpliktelser for tilbydere av europeiske elektroniske bompengetjenester
+9. *EETS-delegasjonsforordningen:* forordning [(EU) 2020/203](eu/32020r0203) av 28. november 2019 om klassifisering av kjøretøyer
+10. *EETS-område:* områder i Europa, hvor det drives elektronisk innkreving på det offentlige vegnettet og innkrevingen er innenfor virkeområdet etter EETS
+11. *EETS-utsteder:* norsk eller utenlandsk selskap eller annen juridisk person som er godkjent som EETS-utsteder i sitt hjemland
+12. *ferjeselskap:* selskap eller annen juridisk person som i henhold til løyve, eller på vegne av en med løyve driver rutetransport med bilførende fartøy i tilknytning til det offentlige vegnettet jf. [yrkestransportloven § 7](lov/2002-06-21-45/§7), og som inngår i AutoPASS Samvirke etter avtale med Statens vegvesen
+13. *operatør:* fellesbetegnelse for bompengeselskaper og ferjeselskaper som inngår i AutoPASS Samvirke
+14. *utstederavtale:* avtale mellom operatøren og AutoPASS-utstederen, jf. [§ 5](forskrift/2018-12-14-1917/§5)
+15. *utstedervirksomhet:* tjenester for betaling av bompasseringer og ferjetransport som drives av AutoPASS-utsteder gjennom AutoPASS Samvirke, inkludert inngåelse og administrasjon av brukeravtaler, utstedelse av elektroniske brikker og annen service overfor brukerne og operatører i denne sammenheng.
+16. *elektronisk brikke:* en elektronisk enhet for identifikasjon av avtalepasseringer.
 
 > Endret ved forskrift [10 feb 2025 nr. 170](forskrift/2025-02-10-170) (i kraft 1 aug 2025 jf. meddelelse [28 aug 2025 nr. 1734](forskrift/2025-08-28-1734)), [7 nov 2025 nr. 2230](forskrift/2025-11-07-2230) (i kraft 1 mars 2026).
 
@@ -58,7 +78,16 @@ AutoPASS-utstederne skal inngå utstederavtale med alle operatørene i AutoPASS 
 
 Vilkårene i utstederavtalene skal være likelydende på alle vesentlige punkter. Den enkelte operatøren skal ikke uten saklig grunn forskjellsbehandle AutoPASS-utstedere. Partene skal ikke inngå andre avtaler som er i strid med utstederavtalen.
 
-Utstederavtalen skal som et minimum regulere følgende forhold:utsteders rett og plikt til å kreve inn betaling for avtalepasseringer med frigjørende virkning for bruker etter [§ 6 første ledd](forskrift/2018-12-14-1917/§6/ledd/1)utsteders betalingsplikt overfor operatøren etter [§ 6 andre ledd](forskrift/2018-12-14-1917/§6/ledd/2) og betingelser for oppgjøretutsteders krav på utstedergodtgjørelse etter [§ 7](forskrift/2018-12-14-1917/§7)AutoPASS-utstederens plikt til å stille finansielle garantier og innretningen av disse garantiene etter [§ 8](forskrift/2018-12-14-1917/§8)AutoPASS-utstederens plikt til å gjøre korrekt informasjon om brukerens kjøretøy tilgjengelig for operatøren, jf. [§ 6 fjerde ledd](forskrift/2018-12-14-1917/§6/ledd/4)tekniske og operasjonelle krav til partene etter [§ 13](forskrift/2018-12-14-1917/§13) og [§ 21 første ledd bokstav a](forskrift/2018-12-14-1917/§21/ledd/1/bokstav/a)), inkludert krav om testing, jf. [§ 10](forskrift/2018-12-14-1917/§10) og [§ 11](forskrift/2018-12-14-1917/§11)partenes behandling av brukernes personopplysninger, inkludert bruk av databehandleravtaler etter [personopplysningsloven](lov/2018-06-15-38)mekling og tvisteløsning, jf. [§ 34](forskrift/2018-12-14-1917/§34).
+Utstederavtalen skal som et minimum regulere følgende forhold:
+
+1. utsteders rett og plikt til å kreve inn betaling for avtalepasseringer med frigjørende virkning for bruker etter [§ 6 første ledd](forskrift/2018-12-14-1917/§6/ledd/1)
+2. utsteders betalingsplikt overfor operatøren etter [§ 6 andre ledd](forskrift/2018-12-14-1917/§6/ledd/2) og betingelser for oppgjøret
+3. utsteders krav på utstedergodtgjørelse etter [§ 7](forskrift/2018-12-14-1917/§7)
+4. AutoPASS-utstederens plikt til å stille finansielle garantier og innretningen av disse garantiene etter [§ 8](forskrift/2018-12-14-1917/§8)
+5. AutoPASS-utstederens plikt til å gjøre korrekt informasjon om brukerens kjøretøy tilgjengelig for operatøren, jf. [§ 6 fjerde ledd](forskrift/2018-12-14-1917/§6/ledd/4)
+6. tekniske og operasjonelle krav til partene etter [§ 13](forskrift/2018-12-14-1917/§13) og [§ 21 første ledd bokstav a](forskrift/2018-12-14-1917/§21/ledd/1/bokstav/a)), inkludert krav om testing, jf. [§ 10](forskrift/2018-12-14-1917/§10) og [§ 11](forskrift/2018-12-14-1917/§11)
+7. partenes behandling av brukernes personopplysninger, inkludert bruk av databehandleravtaler etter [personopplysningsloven](lov/2018-06-15-38)
+8. mekling og tvisteløsning, jf. [§ 34](forskrift/2018-12-14-1917/§34).
 
 ### § 6. Betaling for avtalepasseringer
 
@@ -122,7 +151,22 @@ Statens vegvesen kan ikke gi godkjenning etter første ledd uten samtykke fra EF
 
 ### § 15. Brukeravtalen
 
-Brukeravtalen skal gi AutoPASS-utsteder rett og plikt til å kreve inn betalinger for brukerens avtalepasseringer i AutoPASS Samvirke. Avtalevilkårene skal være offentlig tilgjengelige og skal oppfylle minstekravene fastsatt av Statens vegvesen for følgende forhold:hvilke områder avtalen gjelder og fra hvilket tidspunkthvordan bompengetakster og ferjeregulativ blir fastsatt og endret, og informasjon om rabatter som følge av avtalenbrukers plikt til å gi AutoPASS-utsteder riktig og fullstendig informasjon som grunnlag for korrekt prising av passeringerbrukers betalingsplikt ovenfor utsteder og at betaling til utsteder er frigjørendebrukers plikt til å følge de instruksjoner som gjelder for riktig bruk av avtalen og teknisk utstyrinformasjon om lokale avtaler, jf. [§ 9](forskrift/2018-12-14-1917/§9)informasjon om hvordan feil hos operatør og AutoPASS-utsteder håndteres, jf. [§ 16](forskrift/2018-12-14-1917/§16)informasjon om behandling av personopplysninger, inkludert hvilke rettigheter brukeren har etter den til enhver tid gjeldende personvernlovgivningeninformasjon om bruk av data til statistiske formål, jf. [§ 32](forskrift/2018-12-14-1917/§32)informasjon om brukers rettigheter knyttet til klageadganginformasjon om AutoPASS-utsteders rett til å foreta endringer i avtalenbrukerens rett til å si opp avtaleninformasjon om AutoPASS-utsteders rett til å overføre brukeravtalen til annen AutoPASS-utstederAutoPASS-utsteders rett til å heve avtalen.
+Brukeravtalen skal gi AutoPASS-utsteder rett og plikt til å kreve inn betalinger for brukerens avtalepasseringer i AutoPASS Samvirke. Avtalevilkårene skal være offentlig tilgjengelige og skal oppfylle minstekravene fastsatt av Statens vegvesen for følgende forhold:
+
+1. hvilke områder avtalen gjelder og fra hvilket tidspunkt
+2. hvordan bompengetakster og ferjeregulativ blir fastsatt og endret, og informasjon om rabatter som følge av avtalen
+3. brukers plikt til å gi AutoPASS-utsteder riktig og fullstendig informasjon som grunnlag for korrekt prising av passeringer
+4. brukers betalingsplikt ovenfor utsteder og at betaling til utsteder er frigjørende
+5. brukers plikt til å følge de instruksjoner som gjelder for riktig bruk av avtalen og teknisk utstyr
+6. informasjon om lokale avtaler, jf. [§ 9](forskrift/2018-12-14-1917/§9)
+7. informasjon om hvordan feil hos operatør og AutoPASS-utsteder håndteres, jf. [§ 16](forskrift/2018-12-14-1917/§16)
+8. informasjon om behandling av personopplysninger, inkludert hvilke rettigheter brukeren har etter den til enhver tid gjeldende personvernlovgivningen
+9. informasjon om bruk av data til statistiske formål, jf. [§ 32](forskrift/2018-12-14-1917/§32)
+10. informasjon om brukers rettigheter knyttet til klageadgang
+11. informasjon om AutoPASS-utsteders rett til å foreta endringer i avtalen
+12. brukerens rett til å si opp avtalen
+13. informasjon om AutoPASS-utsteders rett til å overføre brukeravtalen til annen AutoPASS-utsteder
+14. AutoPASS-utsteders rett til å heve avtalen.
 
 AutoPASS-utstederen skal varsle brukeren minst 14 dager før AutoPASS-utstederen hever avtalen, avtalen faller bort, ved overføring av avtalen til annen AutoPASS-utsteder, eller lignende.
 
@@ -146,7 +190,13 @@ AutoPASS-utstederen skal som en administrativ tjeneste for operatøren utstede s
 
 ### § 19. Gebyrer mv.
 
-AutoPASS-utstedere med en vesentlig markedsandel i Norge skal tilby brukerne en avtale uten å ilegge gebyrer eller andre tilleggskostnader utover følgende:gebyrer som følger av forskrift til inkassolovengebyr for betalingsmiddel eller betalingsinstrument etter reglene i [finansavtaleloven](lov/2020-12-18-146).gebyr for utstedelse og erstatning av elektronisk brikke, som ikke kan overstige utsteders innkjøpskostnad og kostnad for å sende brikken til brukeren.forsinkelsesrenter som følger av [forsinkelsesrenteloven](lov/1976-12-17-100)krav til økonomisk sikkerhet etter [§ 17 tredje ledd](forskrift/2018-12-14-1917/§17/ledd/3).
+AutoPASS-utstedere med en vesentlig markedsandel i Norge skal tilby brukerne en avtale uten å ilegge gebyrer eller andre tilleggskostnader utover følgende:
+
+1. gebyrer som følger av forskrift til inkassoloven
+2. gebyr for betalingsmiddel eller betalingsinstrument etter reglene i [finansavtaleloven](lov/2020-12-18-146).
+3. gebyr for utstedelse og erstatning av elektronisk brikke, som ikke kan overstige utsteders innkjøpskostnad og kostnad for å sende brikken til brukeren.
+4. forsinkelsesrenter som følger av [forsinkelsesrenteloven](lov/1976-12-17-100)
+5. krav til økonomisk sikkerhet etter [§ 17 tredje ledd](forskrift/2018-12-14-1917/§17/ledd/3).
 
 Som AutoPASS-utstedere med vesentlig markedsandel etter første ledd regnes AutoPASS-utstedere som har en andel på minst 10 prosent av årlig innkrevd beløp i AutoPASS Samvirke.
 
@@ -156,11 +206,22 @@ Bestemmelsen i første ledd er ikke til hinder for at en AutoPASS-utsteder kan t
 
 ### § 20. AutoPASS-utsteders behandling av personopplysninger
 
-AutoPASS-utsteder kan behandle personopplysninger med det formål å kreve inn betaling fra bruker for avtalepasseringer etter [§ 6](forskrift/2018-12-14-1917/§6). Følgende personopplysninger kan behandles, herunder mottas fra operatøren og Statens vegvesen:identifikasjonsnummer for elektronisk brikkested, dato og klokkeslett for passeringprisklasse og pris for passeringkjøretøyets registreringsnummerbilde av kjøretøyetregistrert eier i Motorvognregisteret.
+AutoPASS-utsteder kan behandle personopplysninger med det formål å kreve inn betaling fra bruker for avtalepasseringer etter [§ 6](forskrift/2018-12-14-1917/§6). Følgende personopplysninger kan behandles, herunder mottas fra operatøren og Statens vegvesen:
+
+1. identifikasjonsnummer for elektronisk brikke
+2. sted, dato og klokkeslett for passering
+3. prisklasse og pris for passering
+4. kjøretøyets registreringsnummer
+5. bilde av kjøretøyet
+6. registrert eier i Motorvognregisteret.
 
 AutoPASS-utsteder kan i tillegg behandle de personopplysninger som er nødvendige for å gjennomføre brukeravtalen med den enkelte bruker etter [§ 15](forskrift/2018-12-14-1917/§15).
 
-AutoPASS-utsteder kan utlevere opplysninger om brukerens kjøretøy og brukeravtale, herunder personopplysninger, til operatøren og Statens vegvesen i den utstrekning som er nødvendig for å:fastsette riktig takstbehandle henvendelser fra brukerenoverføre ansvaret for betalingen til AutoPASS-utsteder etter [§ 6](forskrift/2018-12-14-1917/§6).
+AutoPASS-utsteder kan utlevere opplysninger om brukerens kjøretøy og brukeravtale, herunder personopplysninger, til operatøren og Statens vegvesen i den utstrekning som er nødvendig for å:
+
+1. fastsette riktig takst
+2. behandle henvendelser fra brukeren
+3. overføre ansvaret for betalingen til AutoPASS-utsteder etter [§ 6](forskrift/2018-12-14-1917/§6).
 
 I tilfeller der en brukeravtale overføres fra en AutoPASS-utsteder til en annen, kan de personopplysninger som er nødvendige for å gjennomføre brukeravtalen utleveres.
 
@@ -170,7 +231,12 @@ I tilfeller der en brukeravtale overføres fra en AutoPASS-utsteder til en annen
 
 ### § 21. Godkjenning av selskap eller andre juridiske personer som AutoPASS-utsteder
 
-Statens vegvesen kan etter søknad godkjenne et selskap eller annen juridisk person som AutoPASS-utsteder i AutoPASS Samvirke dersom det:har teknisk utstyr som oppfyller gjeldende krav og kan dokumentere tilfredsstillende tekniske tester hos alle relevante operatører i AutoPASS Samvirkehar tilfredsstillende kompetanse innenfor elektronisk trafikantbetaling eller andre relevante områderhar tilfredsstillende økonomisk evne oghar et godt omdømme.
+Statens vegvesen kan etter søknad godkjenne et selskap eller annen juridisk person som AutoPASS-utsteder i AutoPASS Samvirke dersom det:
+
+1. har teknisk utstyr som oppfyller gjeldende krav og kan dokumentere tilfredsstillende tekniske tester hos alle relevante operatører i AutoPASS Samvirke
+2. har tilfredsstillende kompetanse innenfor elektronisk trafikantbetaling eller andre relevante områder
+3. har tilfredsstillende økonomisk evne og
+4. har et godt omdømme.
 
 Bompengeselskaper eller selskaper som et bompengeselskap er deltaker i, kan ikke godkjennes som AutoPASS-utsteder.
 
@@ -198,7 +264,14 @@ Operatørene i AutoPASS Samvirke plikter å bistå Statens vegvesen ved godkjenn
 
 ### § 24. Godkjenning av norske selskap eller andre juridiske personer som EETS-utsteder
 
-Statens vegvesen kan etter søknad godkjenne et norsk selskap og andre norske juridiske personer som EETS-utsteder, dersom det:er sertifisert etter EN ISO 9001 eller annen standard av likeverdig kvalitethar teknisk utstyr og samsvarserklæringen eller attesten for Samvirkekomponenter det er krav om i vedlegg III i EETS-gjennomføringsforordninghar tilfredsstillende kompetanse innenfor elektronisk trafikantbetaling eller andre relevante områderhar tilfredsstillende økonomisk evnehar en overordnet risikohåndteringsplan som skal revideres minst annet hvert århar et godt omdømme.
+Statens vegvesen kan etter søknad godkjenne et norsk selskap og andre norske juridiske personer som EETS-utsteder, dersom det:
+
+1. er sertifisert etter EN ISO 9001 eller annen standard av likeverdig kvalitet
+2. har teknisk utstyr og samsvarserklæringen eller attesten for Samvirkekomponenter det er krav om i vedlegg III i EETS-gjennomføringsforordning
+3. har tilfredsstillende kompetanse innenfor elektronisk trafikantbetaling eller andre relevante områder
+4. har tilfredsstillende økonomisk evne
+5. har en overordnet risikohåndteringsplan som skal revideres minst annet hvert år
+6. har et godt omdømme.
 
 Bompengeselskaper eller selskaper som et bompengeselskap er deltaker i, kan ikke godkjennes som EETS-utsteder.
 
@@ -254,11 +327,23 @@ Før Statens vegvesen endrer disse vilkårene, skal operatørene og AutoPASS-uts
 
 ### § 30. Områdeerklæring for AutoPASS Samvirke
 
-Statens vegvesen skal utarbeide og ajourføre en områdeerklæring for AutoPASS Samvirke som omfatter samtlige av operatørene som er en del av samvirket. Områdeerklæringen skal være offentlig tilgjengelig og skal inneholde følgende informasjon:prinsipper for kostnadsfordeling forbundet med utsteders tilknytning til og deltakelse i AutoPASS Samvirkekrav til utsteder om bankgarantier eller tilsvarende finansielle instrumenterprinsipper for håndtering av passeringertekniske og operasjonelle krav, herunder eventuelle tjenestenivåavtaler (SLA)fakturerings- og betalingsvilkårforretningsvilkår, herunder utstedergodtgjørelse.
+Statens vegvesen skal utarbeide og ajourføre en områdeerklæring for AutoPASS Samvirke som omfatter samtlige av operatørene som er en del av samvirket. Områdeerklæringen skal være offentlig tilgjengelig og skal inneholde følgende informasjon:
+
+1. prinsipper for kostnadsfordeling forbundet med utsteders tilknytning til og deltakelse i AutoPASS Samvirke
+2. krav til utsteder om bankgarantier eller tilsvarende finansielle instrumenter
+3. prinsipper for håndtering av passeringer
+4. tekniske og operasjonelle krav, herunder eventuelle tjenestenivåavtaler (SLA)
+5. fakturerings- og betalingsvilkår
+6. forretningsvilkår, herunder utstedergodtgjørelse.
 
 ### § 31. Register
 
-Statens vegvesen skal føre et elektronisk register over alle operatørene og AutoPASS-utstederne og EETS-utstedere som er godkjent eller driftsgodkjent etter [kapittel 4](forskrift/2018-12-14-1917/kap4) og [5](forskrift/2018-12-14-1917/kap5). Registeret skal være offentlig tilgjengelig og inneholde oppdaterte og riktige opplysninger om:innkrevingsteknologiinnkrevingsdataområdeerklæringen, jf. [§ 30](forskrift/2018-12-14-1917/§30)informasjon om oppfølgingen av EETS-utstederne, jf. [§ 27](forskrift/2018-12-14-1917/§27).
+Statens vegvesen skal føre et elektronisk register over alle operatørene og AutoPASS-utstederne og EETS-utstedere som er godkjent eller driftsgodkjent etter [kapittel 4](forskrift/2018-12-14-1917/kap4) og [5](forskrift/2018-12-14-1917/kap5). Registeret skal være offentlig tilgjengelig og inneholde oppdaterte og riktige opplysninger om:
+
+1. innkrevingsteknologi
+2. innkrevingsdata
+3. områdeerklæringen, jf. [§ 30](forskrift/2018-12-14-1917/§30)
+4. informasjon om oppfølgingen av EETS-utstederne, jf. [§ 27](forskrift/2018-12-14-1917/§27).
 
 ### § 32. Statistikk
 

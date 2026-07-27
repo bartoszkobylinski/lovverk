@@ -30,7 +30,11 @@ Forskriften skal legge til rette for framstilling av entydige og forståelige ar
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*plandata*: arealformål, bestemmelser, hensynssoner og arealsoner, samt planens geografiske avgrensning (planområdet)*basiskart*: geodata i plankart som ikke er gjenstand for vedtak*nasjonal arealplan-ID*: et landsdekkende entydig og unikt kjennetegn (identifikasjon) på en arealplan.
+I denne forskriften menes med
+
+1. *plandata*: arealformål, bestemmelser, hensynssoner og arealsoner, samt planens geografiske avgrensning (planområdet)
+2. *basiskart*: geodata i plankart som ikke er gjenstand for vedtak
+3. *nasjonal arealplan-ID*: et landsdekkende entydig og unikt kjennetegn (identifikasjon) på en arealplan.
 
 ### § 3. Datasikkerhet
 
@@ -74,13 +78,24 @@ Tilsvarende krav gjelder også for geodata som leveres i forbindelse med konsekv
 
 ### § 9. Arealplan
 
-Med arealplan menes en reguleringsplan, arealdelen til kommuneplanen eller en regional plan med arealsoner. En arealplan omfatteret eller flere plankartet eller flere dokumenter med bestemmelser som ikke framgår av plankartet, herunder eventuelle vedlegg eller illustrasjoner som er gjort bindende.
+Med arealplan menes en reguleringsplan, arealdelen til kommuneplanen eller en regional plan med arealsoner. En arealplan omfatter
+
+1. et eller flere plankart
+2. et eller flere dokumenter med bestemmelser som ikke framgår av plankartet, herunder eventuelle vedlegg eller illustrasjoner som er gjort bindende.
 
 Arealplanen skal framstilles med plandata angitt som separate og entydige objekter kodet i samsvar med Nasjonal produktspesifikasjon for arealplan og digitalt planregister. Arealplanen skal ha navn og nasjonal arealplan-ID i samsvar med produktspesifikasjonen. Forslag til arealplan skal tildeles nasjonal arealplan-ID senest ved varsel om oppstart av planarbeidet.
 
 Plandata skal være stedfestet med så stor nøyaktighet, sammenholdt med basiskartet, at vedtatte formålsgrenser kan legges til grunn for søknad om tillatelse til kommunen uten ytterligere undersøkelser.
 
-En arealplan som inneholder flere vertikalnivåer, skal organiseres slik at hvert vertikalnivå kan konstrueres og framstilles som selvstendige plankart. Arealplanen kan inneholde ett eller flere av følgende vertikalnivåer:under grunnenpå grunnen eller vannoverflatenover grunnenpå bunneni vannsøylen.Ett og samme vertikalnivå kan inndeles i flere lag.
+En arealplan som inneholder flere vertikalnivåer, skal organiseres slik at hvert vertikalnivå kan konstrueres og framstilles som selvstendige plankart. Arealplanen kan inneholde ett eller flere av følgende vertikalnivåer:
+
+1. under grunnen
+2. på grunnen eller vannoverflaten
+3. over grunnen
+4. på bunnen
+5. i vannsøylen.
+
+Ett og samme vertikalnivå kan inndeles i flere lag.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
@@ -108,7 +123,13 @@ Kommunen kan ved digitalisering av vedtatte analoge planer, gjøre rene tekniske
 
 ### § 12. Planregister
 
-Kommunen skal sørge for at opplysninger om nye vedtak føres i planregisteret straks vedtaket foreligger. Krever vedtaket kunngjøring, skal det være ført inn i registeret før kunngjøringen finner sted. Kommunen skalfør varsel om oppstart blir gitt, registrere opplysninger om hvor det skal fremmes forslag til ny plan eller endring av plan (planområdet), nasjonal arealplan-ID og dokumentasjon om planstatusetter at planen er vedtatt, registrere opplysninger om arealplanen med arealformål, bestemmelser, hensynssoner inkludert bestemmelser og retningslinjer som ivaretar det hensynet sonene viser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato, planstatus og identifisering av planens vertikalnivåerregistrere eventuelle innsigelser eller klager til vedtak som nevnt i bokstav b, inkludert om det er vedtatt utsatt iverksetting av vedtaket, om det er vedtatt at deler av en plan skal ha rettsvirkning selv om det er fremmet innsigelse, og om det endelige vedtaket etter at klagen eller innsigelsen er avgjortregistrere midlertidig forbud mot tiltak etter [plan- og bygningsloven kapittel 13](lov/2008-06-27-71/kap13), inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID på planer som berøres av forbudet, samt opplysninger om forbudet er opphevet, endret, forlenget eller falt bortregistrere varige og midlertidige dispensasjoner etter [plan- og bygningsloven § 19-2](lov/2008-06-27-71/§19-2), inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID til den arealplanen som det dispenseres fra, hva dispensasjonen gjelder og hvor.
+Kommunen skal sørge for at opplysninger om nye vedtak føres i planregisteret straks vedtaket foreligger. Krever vedtaket kunngjøring, skal det være ført inn i registeret før kunngjøringen finner sted. Kommunen skal
+
+1. før varsel om oppstart blir gitt, registrere opplysninger om hvor det skal fremmes forslag til ny plan eller endring av plan (planområdet), nasjonal arealplan-ID og dokumentasjon om planstatus
+2. etter at planen er vedtatt, registrere opplysninger om arealplanen med arealformål, bestemmelser, hensynssoner inkludert bestemmelser og retningslinjer som ivaretar det hensynet sonene viser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato, planstatus og identifisering av planens vertikalnivåer
+3. registrere eventuelle innsigelser eller klager til vedtak som nevnt i bokstav b, inkludert om det er vedtatt utsatt iverksetting av vedtaket, om det er vedtatt at deler av en plan skal ha rettsvirkning selv om det er fremmet innsigelse, og om det endelige vedtaket etter at klagen eller innsigelsen er avgjort
+4. registrere midlertidig forbud mot tiltak etter [plan- og bygningsloven kapittel 13](lov/2008-06-27-71/kap13), inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID på planer som berøres av forbudet, samt opplysninger om forbudet er opphevet, endret, forlenget eller falt bort
+5. registrere varige og midlertidige dispensasjoner etter [plan- og bygningsloven § 19-2](lov/2008-06-27-71/§19-2), inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID til den arealplanen som det dispenseres fra, hva dispensasjonen gjelder og hvor.
 
 Kommunen skal på tilsvarende måte føre opplysninger om statlige arealplaner vedtatt etter [plan- og bygningsloven § 6-4](lov/2008-06-27-71/§6-4). Statlige myndigheter skal sende opplysninger som nevnt i første ledd, straks disse er vedtatt eller vedtatt endret til vedkommende kommune.
 
@@ -138,31 +159,255 @@ Fra samme tidspunkt oppheves [forskrift 26. juni 2009 nr. 861 om kart, stedfeste
 
 ### 1. Bebyggelse og anlegg
 
-Områder for bebyggelse og anlegg, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 1](lov/2008-06-27-71/§12-5/ledd/2/nummer/1), kan angis som ett av følgende formål:Bebyggelse og anleggBoligbebyggelseBoligbebyggelse, frittliggende småhusBoligbebyggelse, konsentrerte småhusBoligbebyggelse, blokkerStudentboligerGarasjeanlegg for bolig- eller fritidsbebyggelseFritidsbebyggelseFrittliggende fritidsbebyggelseKonsentrert fritidsbebyggelseFritidsbebyggelse, blokkerKolonihageSentrumsformålKjøpesenterForretningerBebyggelse for offentlig eller privat tjenesteytingBarnehageUndervisningForsamlingslokaleHelse eller omsorgsinstitusjonKulturinstitusjonForsamlingslokale for tro- og livssynsutøvelseAdministrasjonNærmere angitt offentlig eller privat tjenesteytingFritids- og turistformålUtleiehytterFornøyelsespark eller temaparkCampingplassLeirplassRåstoffutvinningSteinbrudd og masseuttakMassemottakNæringsbebyggelseKontorHotell og overnattingBevertningIndustriKraftkrevende industriDatasenterLagerBensinstasjon eller vegserviceanleggNærmere angitt næringIdrettsanleggSkianleggSkiløypetraséIdrettsstadionNærmiljøanleggGolfbaneMotorsportanleggSkytebaneNærmere angitt idrettsanleggAndre typer anleggGodsterminalGodslagerEnergianleggFjernvarmeanleggVindkraftanleggSolkraftanleggVann- og avløpsanleggVannforsyningsanleggAvløpsanleggOvervannsanleggRenovasjonsanleggNærmere angitt kommunalteknisk anleggTelekommunikasjonsanleggSmåbåtanlegg i sjø og vassdragSmåbåtanlegg i sjø og vassdrag med tilhørende strandsoneUthus, naust eller badehusNærmere angitte andre typer anleggUteoppholdsarealerLekeplassGårdsplassParsellhageUrbant landbrukNærmere angitte uteoppholdsarealerGravplassKrematoriumBygg og anlegg for gravplassKombinert bolig og forretningKombinert bolig, forretning og kontorKombinert bolig og tjenesteytingKombinert bolig og kontorKombinert forretning og kontorKombinert forretning, kontor og industriKombinert forretning og industriKombinert forretning, kontor og tjenesteytingKombinert forretning og tjenesteytingKombinert næring og tjenesteytingKombinert kontor og lagerKombinert industri og lagerKombinert kontor og industriKombinert kontor og tjenesteytingBebyggelse og anlegg kombinert i samsvar med angitte bestemmelserBebyggelse og anlegg kombinert med andre angitte hovedformål.
+Områder for bebyggelse og anlegg, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 1](lov/2008-06-27-71/§12-5/ledd/2/nummer/1), kan angis som ett av følgende formål:
+
+- Bebyggelse og anlegg
+- Boligbebyggelse
+- Boligbebyggelse, frittliggende småhus
+- Boligbebyggelse, konsentrerte småhus
+- Boligbebyggelse, blokker
+- Studentboliger
+- Garasjeanlegg for bolig- eller fritidsbebyggelse
+- Fritidsbebyggelse
+- Frittliggende fritidsbebyggelse
+- Konsentrert fritidsbebyggelse
+- Fritidsbebyggelse, blokker
+- Kolonihage
+- Sentrumsformål
+- Kjøpesenter
+- Forretninger
+- Bebyggelse for offentlig eller privat tjenesteyting
+- Barnehage
+- Undervisning
+- Forsamlingslokale
+- Helse eller omsorgsinstitusjon
+- Kulturinstitusjon
+- Forsamlingslokale for tro- og livssynsutøvelse
+- Administrasjon
+- Nærmere angitt offentlig eller privat tjenesteyting
+- Fritids- og turistformål
+- Utleiehytter
+- Fornøyelsespark eller temapark
+- Campingplass
+- Leirplass
+- Råstoffutvinning
+- Steinbrudd og masseuttak
+- Massemottak
+- Næringsbebyggelse
+- Kontor
+- Hotell og overnatting
+- Bevertning
+- Industri
+- Kraftkrevende industri
+- Datasenter
+- Lager
+- Bensinstasjon eller vegserviceanlegg
+- Nærmere angitt næring
+- Idrettsanlegg
+- Skianlegg
+- Skiløypetrasé
+- Idrettsstadion
+- Nærmiljøanlegg
+- Golfbane
+- Motorsportanlegg
+- Skytebane
+- Nærmere angitt idrettsanlegg
+- Andre typer anlegg
+- Godsterminal
+- Godslager
+- Energianlegg
+- Fjernvarmeanlegg
+- Vindkraftanlegg
+- Solkraftanlegg
+- Vann- og avløpsanlegg
+- Vannforsyningsanlegg
+- Avløpsanlegg
+- Overvannsanlegg
+- Renovasjonsanlegg
+- Nærmere angitt kommunalteknisk anlegg
+- Telekommunikasjonsanlegg
+- Småbåtanlegg i sjø og vassdrag
+- Småbåtanlegg i sjø og vassdrag med tilhørende strandsone
+- Uthus, naust eller badehus
+- Nærmere angitte andre typer anlegg
+- Uteoppholdsarealer
+- Lekeplass
+- Gårdsplass
+- Parsellhage
+- Urbant landbruk
+- Nærmere angitte uteoppholdsarealer
+- Gravplass
+- Krematorium
+- Bygg og anlegg for gravplass
+- Kombinert bolig og forretning
+- Kombinert bolig, forretning og kontor
+- Kombinert bolig og tjenesteyting
+- Kombinert bolig og kontor
+- Kombinert forretning og kontor
+- Kombinert forretning, kontor og industri
+- Kombinert forretning og industri
+- Kombinert forretning, kontor og tjenesteyting
+- Kombinert forretning og tjenesteyting
+- Kombinert næring og tjenesteyting
+- Kombinert kontor og lager
+- Kombinert industri og lager
+- Kombinert kontor og industri
+- Kombinert kontor og tjenesteyting
+- Bebyggelse og anlegg kombinert i samsvar med angitte bestemmelser
+- Bebyggelse og anlegg kombinert med andre angitte hovedformål.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
 ### 2. Samferdselsanlegg og teknisk infrastruktur
 
-Områder for samferdselsanlegg og teknisk infrastruktur, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 2](lov/2008-06-27-71/§12-5/ledd/2/nummer/2), kan angis som ett av følgende formål:Samferdselsanlegg og teknisk infrastrukturVegKjørevegFortauTorgGatetunGang- og sykkelvegGangveg, gangareal eller gågateSykkelanleggFaunapassasjeAnnen veggrunn, teknisk anleggAnnen veggrunn, grøntarealBaneJernbaneSporvegTaubaneStasjons- eller terminalbyggHoldeplass eller plattformLeskur eller plattformtakTekniske bygninger og konstruksjonerAnnen banegrunn, tekniske anleggAnnen banegrunn, grøntarealLufthavnLufthavn, banesystemLufthavn, bygningerLandingsplass for helikopter o.a.HavnKaiHavneterminalerHavnelagerMoloNavigasjonsinstallasjonHovednett for sykkelKollektivnettTrasé for nærmere angitt kollektivtransportKollektivknutepunktKollektivanleggKollektivterminalKollektivholdeplassPendler- eller innfartsparkeringParkeringRasteplassParkeringsplasserParkeringshus eller -anleggTeknisk infrastrukturKraftledning, energinettFjernvarmenettVann- og avløpsnettVannforsyningsnettAvløpsnettTrasé for overvannTrasé for avfallssugTelekommunikasjonsnettSikringsanleggTrasé for nærmere angitt teknisk infrastrukturKombinerte tekniske infrastrukturtraseerSamferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelserSamferdselsanlegg eller teknisk infrastruktur kombinert med andre angitte hovedformål.
+Områder for samferdselsanlegg og teknisk infrastruktur, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 2](lov/2008-06-27-71/§12-5/ledd/2/nummer/2), kan angis som ett av følgende formål:
+
+- Samferdselsanlegg og teknisk infrastruktur
+- Veg
+- Kjøreveg
+- Fortau
+- Torg
+- Gatetun
+- Gang- og sykkelveg
+- Gangveg, gangareal eller gågate
+- Sykkelanlegg
+- Faunapassasje
+- Annen veggrunn, teknisk anlegg
+- Annen veggrunn, grøntareal
+- Bane
+- Jernbane
+- Sporveg
+- Taubane
+- Stasjons- eller terminalbygg
+- Holdeplass eller plattform
+- Leskur eller plattformtak
+- Tekniske bygninger og konstruksjoner
+- Annen banegrunn, tekniske anlegg
+- Annen banegrunn, grøntareal
+- Lufthavn
+- Lufthavn, banesystem
+- Lufthavn, bygninger
+- Landingsplass for helikopter o.a.
+- Havn
+- Kai
+- Havneterminaler
+- Havnelager
+- Molo
+- Navigasjonsinstallasjon
+- Hovednett for sykkel
+- Kollektivnett
+- Trasé for nærmere angitt kollektivtransport
+- Kollektivknutepunkt
+- Kollektivanlegg
+- Kollektivterminal
+- Kollektivholdeplass
+- Pendler- eller innfartsparkering
+- Parkering
+- Rasteplass
+- Parkeringsplasser
+- Parkeringshus eller -anlegg
+- Teknisk infrastruktur
+- Kraftledning, energinett
+- Fjernvarmenett
+- Vann- og avløpsnett
+- Vannforsyningsnett
+- Avløpsnett
+- Trasé for overvann
+- Trasé for avfallssug
+- Telekommunikasjonsnett
+- Sikringsanlegg
+- Trasé for nærmere angitt teknisk infrastruktur
+- Kombinerte tekniske infrastrukturtraseer
+- Samferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelser
+- Samferdselsanlegg eller teknisk infrastruktur kombinert med andre angitte hovedformål.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
 ### 3. Grønnstruktur
 
-Områder for grønnstruktur, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 3](lov/2008-06-27-71/§12-5/ledd/2/nummer/3), kan angis som ett av følgende formål:GrønnstrukturBlågrønnstrukturNaturområdeTurdragTurvegFriområdeBadeplass eller -områdeParkVegetasjonsskjermVannspeilOvervannstiltakInfiltrasjon, fordrøyning eller avledningGrønnstruktur kombinert i samsvar med angitte bestemmelserGrønnstruktur kombinert med andre angitte hovedformål.
+Områder for grønnstruktur, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 3](lov/2008-06-27-71/§12-5/ledd/2/nummer/3), kan angis som ett av følgende formål:
+
+- Grønnstruktur
+- Blågrønnstruktur
+- Naturområde
+- Turdrag
+- Turveg
+- Friområde
+- Badeplass eller -område
+- Park
+- Vegetasjonsskjerm
+- Vannspeil
+- Overvannstiltak
+- Infiltrasjon, fordrøyning eller avledning
+- Grønnstruktur kombinert i samsvar med angitte bestemmelser
+- Grønnstruktur kombinert med andre angitte hovedformål.
 
 ### 4. Forsvaret
 
-Områder for Forsvaret, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 4](lov/2008-06-27-71/§12-5/ledd/2/nummer/4), kan angis som ett av følgende formål:ForsvaretUlike typer militære formålSkytefelt eller øvingsområdeForlegning eller leirOmråder for Forsvaret kombinert i samsvar med angitte bestemmelserOmråder for Forsvaret kombinert med andre angitte hovedformål.
+Områder for Forsvaret, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 4](lov/2008-06-27-71/§12-5/ledd/2/nummer/4), kan angis som ett av følgende formål:
+
+- Forsvaret
+- Ulike typer militære formål
+- Skytefelt eller øvingsområde
+- Forlegning eller leir
+- Områder for Forsvaret kombinert i samsvar med angitte bestemmelser
+- Områder for Forsvaret kombinert med andre angitte hovedformål.
 
 ### 5. Landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg
 
-Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. [plan- og bygningsloven § 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5), kan angis som ett av følgende formål:LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlagLandbrukJordbrukSkogbrukSeterområdeGartneriNaturformålFriluftsformålReindriftNaturvernJordvernSærlige landskapshensynVern av kulturmiljø eller kulturminneLNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse mv.Spredt boligbebyggelseSpredt fritidsbebyggelseSpredt næringsbebyggelseOmråder for landbruks-, natur- og friluftsformål samt reindrift (LNFR) kombinert med andre angitte hovedformål.
+Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. [plan- og bygningsloven § 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5), kan angis som ett av følgende formål:
+
+- LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag
+- Landbruk
+- Jordbruk
+- Skogbruk
+- Seterområde
+- Gartneri
+- Naturformål
+- Friluftsformål
+- Reindrift
+- Naturvern
+- Jordvern
+- Særlige landskapshensyn
+- Vern av kulturmiljø eller kulturminne
+- LNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse mv.
+- Spredt boligbebyggelse
+- Spredt fritidsbebyggelse
+- Spredt næringsbebyggelse
+- Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR) kombinert med andre angitte hovedformål.
 
 ### 6. Bruk og vern av sjø og vassdrag, med tilhørende strandsone
 
-Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 6](lov/2008-06-27-71/§12-5/ledd/2/nummer/6), kan angis som ett av følgende formål:Bruk og vern av sjø og vassdrag med tilhørende strandsoneFerdselAnkringsområdeOpplagsområdeRiggområdeMassedeponi i sjø og vassdragFarlederHoved- og biledHavneområde i sjøSmåbåthavnBøyehavnFiskeFiskeområdeLåssettingsplasserGytefelt eller oppvekstområde for yngelAkvakulturAkvakulturanlegg i sjø og vassdragAkvakulturanlegg i sjø og vassdrag med tilhørende landanleggFangstbasert levendelagringDrikkevannNaturområde i sjø og vassdragNaturområde i sjø og vassdrag med tilhørende strandsoneFriluftsområde i sjø og vassdragFriluftsområde i sjø og vassdrag med tilhørende strandsoneIdrett og vannsportBadeområdeBruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelserBruk og vern av sjø og vassdrag med eller uten tilhørende strandsone kombinert med andre angitte hovedformål.
+Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [plan- og bygningsloven § 12-5 andre ledd nr. 6](lov/2008-06-27-71/§12-5/ledd/2/nummer/6), kan angis som ett av følgende formål:
+
+- Bruk og vern av sjø og vassdrag med tilhørende strandsone
+- Ferdsel
+- Ankringsområde
+- Opplagsområde
+- Riggområde
+- Massedeponi i sjø og vassdrag
+- Farleder
+- Hoved- og biled
+- Havneområde i sjø
+- Småbåthavn
+- Bøyehavn
+- Fiske
+- Fiskeområde
+- Låssettingsplasser
+- Gytefelt eller oppvekstområde for yngel
+- Akvakultur
+- Akvakulturanlegg i sjø og vassdrag
+- Akvakulturanlegg i sjø og vassdrag med tilhørende landanlegg
+- Fangstbasert levendelagring
+- Drikkevann
+- Naturområde i sjø og vassdrag
+- Naturområde i sjø og vassdrag med tilhørende strandsone
+- Friluftsområde i sjø og vassdrag
+- Friluftsområde i sjø og vassdrag med tilhørende strandsone
+- Idrett og vannsport
+- Badeområde
+- Bruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelser
+- Bruk og vern av sjø og vassdrag med eller uten tilhørende strandsone kombinert med andre angitte hovedformål.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
@@ -170,31 +415,124 @@ Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [
 
 ### 1. Bebyggelse og anlegg
 
-Områder for bebyggelse og anlegg, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 1](lov/2008-06-27-71/§11-7/ledd/2/nummer/1), kan angis som ett av følgende formål:Bebyggelse og anleggBoligbebyggelseStudentboligerFritidsbebyggelseSentrumsformålKjøpesenterForretningerBebyggelse for offentlig eller privat tjenesteytingFritids- og turistformålRåstoffutvinningMassemottakNæringsbebyggelseIdrettsanleggAndre typer anleggVindkraftanleggSolkraftanleggUteoppholdsarealerUrbant landbrukGravplassBebyggelse og anlegg kombinert i samsvar med angitte bestemmelser.
+Områder for bebyggelse og anlegg, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 1](lov/2008-06-27-71/§11-7/ledd/2/nummer/1), kan angis som ett av følgende formål:
+
+- Bebyggelse og anlegg
+- Boligbebyggelse
+- Studentboliger
+- Fritidsbebyggelse
+- Sentrumsformål
+- Kjøpesenter
+- Forretninger
+- Bebyggelse for offentlig eller privat tjenesteyting
+- Fritids- og turistformål
+- Råstoffutvinning
+- Massemottak
+- Næringsbebyggelse
+- Idrettsanlegg
+- Andre typer anlegg
+- Vindkraftanlegg
+- Solkraftanlegg
+- Uteoppholdsarealer
+- Urbant landbruk
+- Gravplass
+- Bebyggelse og anlegg kombinert i samsvar med angitte bestemmelser.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
 ### 2. Samferdselsanlegg og teknisk infrastruktur
 
-Områder for samferdselsanlegg og teknisk infrastruktur, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 2](lov/2008-06-27-71/§11-7/ledd/2/nummer/2), kan angis som ett av følgende formål:Samferdselsanlegg og teknisk infrastrukturVegVegkryssFjernvegHovedvegSamlevegAdkomstvegGang- og sykkelvegSykkelvegGangvegSkitrekkBaneJernbaneSporvegTaubaneLufthavnHavnMoloFarledSmåbåtledHovednett for sykkelKollektivnettTrasé for nærmere angitt kollektivtransportKollektivknutepunktParkeringTeknisk infrastrukturKraftledning, energinettVannforsyningsnettAvløpsnettTrasé for overvannTrasé for nærmere angitt teknisk infrastrukturSamferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelser.
+Områder for samferdselsanlegg og teknisk infrastruktur, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 2](lov/2008-06-27-71/§11-7/ledd/2/nummer/2), kan angis som ett av følgende formål:
+
+- Samferdselsanlegg og teknisk infrastruktur
+- Veg
+- Vegkryss
+- Fjernveg
+- Hovedveg
+- Samleveg
+- Adkomstveg
+- Gang- og sykkelveg
+- Sykkelveg
+- Gangveg
+- Skitrekk
+- Bane
+- Jernbane
+- Sporveg
+- Taubane
+- Lufthavn
+- Havn
+- Molo
+- Farled
+- Småbåtled
+- Hovednett for sykkel
+- Kollektivnett
+- Trasé for nærmere angitt kollektivtransport
+- Kollektivknutepunkt
+- Parkering
+- Teknisk infrastruktur
+- Kraftledning, energinett
+- Vannforsyningsnett
+- Avløpsnett
+- Trasé for overvann
+- Trasé for nærmere angitt teknisk infrastruktur
+- Samferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelser.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
 ### 3. Grønnstruktur
 
-Områder for grønnstruktur, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 3](lov/2008-06-27-71/§11-7/ledd/2/nummer/3), kan angis som ett av følgende formål:GrønnstrukturBlågrønnstrukturNaturområdeTurdragFriområdeParkOvervannstiltakGrønnstruktur kombinert i samsvar med angitte bestemmelser.
+Områder for grønnstruktur, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 3](lov/2008-06-27-71/§11-7/ledd/2/nummer/3), kan angis som ett av følgende formål:
+
+- Grønnstruktur
+- Blågrønnstruktur
+- Naturområde
+- Turdrag
+- Friområde
+- Park
+- Overvannstiltak
+- Grønnstruktur kombinert i samsvar med angitte bestemmelser.
 
 ### 4. Forsvaret
 
-Områder for Forsvaret, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 4](lov/2008-06-27-71/§11-7/ledd/2/nummer/4), kan angis som ett av følgende formål:ForsvaretUlike typer militære formålSkytefelt eller øvingsområdeForlegning eller leirOmråder for Forsvaret kombinert i samsvar med angitte bestemmelser.
+Områder for Forsvaret, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 4](lov/2008-06-27-71/§11-7/ledd/2/nummer/4), kan angis som ett av følgende formål:
+
+- Forsvaret
+- Ulike typer militære formål
+- Skytefelt eller øvingsområde
+- Forlegning eller leir
+- Områder for Forsvaret kombinert i samsvar med angitte bestemmelser.
 
 ### 5. Landbruks-, natur- og friluftsformål samt reindrift
 
-Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. [plan- og bygningsloven § 11-7 andre ledd nr. 5](lov/2008-06-27-71/§11-7/ledd/2/nummer/5), kan angis som ett av følgende formål:LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlagLNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse, mv.Spredt boligbebyggelseSpredt fritidsbebyggelseSpredt næringsbebyggelse.
+Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. [plan- og bygningsloven § 11-7 andre ledd nr. 5](lov/2008-06-27-71/§11-7/ledd/2/nummer/5), kan angis som ett av følgende formål:
+
+- LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag
+- LNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse, mv.
+- Spredt boligbebyggelse
+- Spredt fritidsbebyggelse
+- Spredt næringsbebyggelse.
 
 ### 6. Bruk og vern av sjø og vassdrag, med tilhørende strandsone
 
-Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 6](lov/2008-06-27-71/§11-7/ledd/2/nummer/6), kan angis som ett av følgende formål:Bruk og vern av sjø og vassdrag med tilhørende strandsoneFerdselAnkringsområdeOpplagsområdeRiggområdeFarlederHoved- og biledHavneområde i sjøSmåbåthavnFiskeAkvakulturDrikkevannNaturområde i sjø og vassdragNaturområde i sjø og vassdrag med tilhørende strandsoneFriluftsområde i sjø og vassdragFriluftsområde i sjø og vassdrag med tilhørende strandsoneBruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelser.
+Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [plan- og bygningsloven § 11-7 andre ledd nr. 6](lov/2008-06-27-71/§11-7/ledd/2/nummer/6), kan angis som ett av følgende formål:
+
+- Bruk og vern av sjø og vassdrag med tilhørende strandsone
+- Ferdsel
+- Ankringsområde
+- Opplagsområde
+- Riggområde
+- Farleder
+- Hoved- og biled
+- Havneområde i sjø
+- Småbåthavn
+- Fiske
+- Akvakultur
+- Drikkevann
+- Naturområde i sjø og vassdrag
+- Naturområde i sjø og vassdrag med tilhørende strandsone
+- Friluftsområde i sjø og vassdrag
+- Friluftsområde i sjø og vassdrag med tilhørende strandsone
+- Bruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelser.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
@@ -202,70 +540,250 @@ Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. [
 
 ### 1. Sikringssone
 
-Sikringssoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Nedslagsfelt drikkevannOmråde for grunnvannsforsyningSikringssone transport (byggeforbud rundt veg, bane og flyplass)FrisiktAndre sikringssoner.
+Sikringssoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Nedslagsfelt drikkevann
+- Område for grunnvannsforsyning
+- Sikringssone transport (byggeforbud rundt veg, bane og flyplass)
+- Frisikt
+- Andre sikringssoner.
 
 ### 2. Støysone
 
-Støysoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Rød støysoneGul støysoneStille områder (grønn sone)Andre støysoner.
+Støysoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Rød støysone
+- Gul støysone
+- Stille områder (grønn sone)
+- Andre støysoner.
 
 > Endret ved forskrift [22 jan 2026 nr. 67](forskrift/2026-01-22-67).
 
 ### 3. Faresone
 
-Faresoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Ras- og skredfareFlomfareRadonfareBrann- og eksplosjonsfareSkytebaneHøyspenningsanlegg (inkl. høyspentkabler)Sone for militær virksomhetAnnen fare.
+Faresoner, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav a](lov/2008-06-27-71/§11-8/ledd/3/bokstav/a) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Ras- og skredfare
+- Flomfare
+- Radonfare
+- Brann- og eksplosjonsfare
+- Skytebane
+- Høyspenningsanlegg (inkl. høyspentkabler)
+- Sone for militær virksomhet
+- Annen fare.
 
 ### 4. Sone med særlige krav til infrastruktur
 
-Soner med særlige krav til infrastruktur, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav b](lov/2008-06-27-71/§11-8/ledd/3/bokstav/b) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Krav vedrørende infrastrukturRekkefølgekrav infrastrukturRekkefølgekrav samfunnsserviceRekkefølgekrav grønnstruktur.
+Soner med særlige krav til infrastruktur, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav b](lov/2008-06-27-71/§11-8/ledd/3/bokstav/b) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Krav vedrørende infrastruktur
+- Rekkefølgekrav infrastruktur
+- Rekkefølgekrav samfunnsservice
+- Rekkefølgekrav grønnstruktur.
 
 ### 5. Sone med angitte særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø
 
-Soner med særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav c](lov/2008-06-27-71/§11-8/ledd/3/bokstav/c) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Hensyn landbrukHensyn reindriftHensyn mineralressurserHensyn friluftslivHensyn grønnstrukturHensyn landskapBevaring naturmiljøBevaring kulturmiljøRandområder til nasjonalpark eller landskapsvernområde.
+Soner med særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav c](lov/2008-06-27-71/§11-8/ledd/3/bokstav/c) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Hensyn landbruk
+- Hensyn reindrift
+- Hensyn mineralressurser
+- Hensyn friluftsliv
+- Hensyn grønnstruktur
+- Hensyn landskap
+- Bevaring naturmiljø
+- Bevaring kulturmiljø
+- Randområder til nasjonalpark eller landskapsvernområde.
 
 ### 6. Sone for båndlegging
 
-Soner for båndlegging, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav d](lov/2008-06-27-71/§11-8/ledd/3/bokstav/d) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Båndlegging for regulering etter [plan- og bygningsloven](lov/2008-06-27-71)Båndlegging etter lov om naturmangfoldBåndlegging etter [lov om kulturminner](lov/1978-06-09-50)Båndlegging etter andre loverBåndlegging i forhold til avkjøringsklasser etter [vegloven](lov/1963-06-21-23).
+Soner for båndlegging, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav d](lov/2008-06-27-71/§11-8/ledd/3/bokstav/d) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Båndlegging for regulering etter [plan- og bygningsloven](lov/2008-06-27-71)
+- Båndlegging etter lov om naturmangfold
+- Båndlegging etter [lov om kulturminner](lov/1978-06-09-50)
+- Båndlegging etter andre lover
+- Båndlegging i forhold til avkjøringsklasser etter [vegloven](lov/1963-06-21-23).
 
 ### 7. Sone med krav om felles planlegging for flere eiendommer mv.
 
-Soner som gjelder felles planlegging for flere eiendommer, fortetting, omforming og fornyelse og bruk av særskilte gjennomføringsvirkemidler, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav e](lov/2008-06-27-71/§11-8/ledd/3/bokstav/e) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:Krav om felles planleggingKrav om fortetting, omforming og fornyelse, og bruk av særskilte gjennomføringsvirkemidler.
+Soner som gjelder felles planlegging for flere eiendommer, fortetting, omforming og fornyelse og bruk av særskilte gjennomføringsvirkemidler, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav e](lov/2008-06-27-71/§11-8/ledd/3/bokstav/e) og [§ 12-6 første ledd](lov/2008-06-27-71/§12-6/ledd/1), kan angis som en av følgende soner:
+
+- Krav om felles planlegging
+- Krav om fortetting, omforming og fornyelse, og bruk av særskilte gjennomføringsvirkemidler.
 
 > Endret ved forskrift [22 jan 2026 nr. 67](forskrift/2026-01-22-67).
 
 ### 7a. Sone med krav om grunneierfinansiering av infrastruktur mv.
 
-Soner med krav om grunneierfinansiering av infrastruktur mv., jf. [plan- og bygningsloven kapittel 12A](lov/2008-06-27-71/kap12A), kan angis som en av følgende soner:Krav om grunneierfinansiering av infrastruktur etter [§ 12A-1](lov/2008-06-27-71/§12A-1)Krav om flytting av infrastruktur for å frigjøre areal til utbyggingsformål etter [§ 12A-13](lov/2008-06-27-71/§12A-13).
+Soner med krav om grunneierfinansiering av infrastruktur mv., jf. [plan- og bygningsloven kapittel 12A](lov/2008-06-27-71/kap12A), kan angis som en av følgende soner:
+
+- Krav om grunneierfinansiering av infrastruktur etter [§ 12A-1](lov/2008-06-27-71/§12A-1)
+- Krav om flytting av infrastruktur for å frigjøre areal til utbyggingsformål etter [§ 12A-13](lov/2008-06-27-71/§12A-13).
 
 > Tilføyd ved forskrift [22 jan 2026 nr. 67](forskrift/2026-01-22-67).
 
 ### 8. Sone som angir hvor gjeldende reguleringsplan skal gjelde uendret
 
-I kommuneplanens arealdel og i reguleringsplan utarbeidet som områderegulering, kan det fastsettes følgende sone som angir hvor gjeldende reguleringsplan fortsatt skal gjelde uendret, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav f](lov/2008-06-27-71/§11-8/ledd/3/bokstav/f) og [§ 12-6 andre ledd](lov/2008-06-27-71/§12-6/ledd/2):Gjeldende reguleringsplan skal gjelde uendret.
+I kommuneplanens arealdel og i reguleringsplan utarbeidet som områderegulering, kan det fastsettes følgende sone som angir hvor gjeldende reguleringsplan fortsatt skal gjelde uendret, jf. [plan- og bygningsloven § 11-8 tredje ledd bokstav f](lov/2008-06-27-71/§11-8/ledd/3/bokstav/f) og [§ 12-6 andre ledd](lov/2008-06-27-71/§12-6/ledd/2):
+
+- Gjeldende reguleringsplan skal gjelde uendret.
 
 ## Vedlegg IV. Stedfesting av bestemmelser i plankart til reguleringsplan
 
-Følgende betegnelser kan benyttes i plankart til reguleringsplan for å angi og stedfeste bestemmelser, jf. [plan- og bygningsloven § 12-7](lov/2008-06-27-71/§12-7):BestemmelsesområdeRegulert høydeRegulert eiendomsgrenseEiendomsgrense som skal opphevesBygg, kulturminner m.m. som skal bevaresByggegrensePlanlagt bebyggelseBebyggelse som inngår i planenBebyggelse som forutsettes fjernetBruTunnelRegulert senterlinjeFrisiktlinjeRegulert kant kjørebaneRegulert kjørefeltRegulert parkeringsfeltRegulert fotgjengerfeltRegulert støyskjermRegulert støttemurSikringsgjerdeMåle og avstandslinjeStrandlinje sjøStrandlinje vassdragMidtlinje vassdragVegstengning eller fysisk kjøresperreStenging av avkjørselAvkjørselInnkjøringUtkjøringBrukarTunnelåpningEksisterende tre som skal bevaresRegulert nytt treRegulert møneretning.
+Følgende betegnelser kan benyttes i plankart til reguleringsplan for å angi og stedfeste bestemmelser, jf. [plan- og bygningsloven § 12-7](lov/2008-06-27-71/§12-7):
+
+- Bestemmelsesområde
+- Regulert høyde
+- Regulert eiendomsgrense
+- Eiendomsgrense som skal oppheves
+- Bygg, kulturminner m.m. som skal bevares
+- Byggegrense
+- Planlagt bebyggelse
+- Bebyggelse som inngår i planen
+- Bebyggelse som forutsettes fjernet
+- Bru
+- Tunnel
+- Regulert senterlinje
+- Frisiktlinje
+- Regulert kant kjørebane
+- Regulert kjørefelt
+- Regulert parkeringsfelt
+- Regulert fotgjengerfelt
+- Regulert støyskjerm
+- Regulert støttemur
+- Sikringsgjerde
+- Måle og avstandslinje
+- Strandlinje sjø
+- Strandlinje vassdrag
+- Midtlinje vassdrag
+- Vegstengning eller fysisk kjøresperre
+- Stenging av avkjørsel
+- Avkjørsel
+- Innkjøring
+- Utkjøring
+- Brukar
+- Tunnelåpning
+- Eksisterende tre som skal bevares
+- Regulert nytt tre
+- Regulert møneretning.
 
 ## Vedlegg V. Stedfesting av bestemmelser i plankart til kommuneplanens arealdel
 
-Følgende betegnelser kan benyttes i plankart til kommuneplanens arealdel for å angi og stedfeste bestemmelser, jf. [plan- og bygningsloven § 11-9](lov/2008-06-27-71/§11-9) til [§ 11-11](lov/2008-06-27-71/§11-11):BestemmelsesområdeRegulert høydeByggegrenseForbudsgrense sjøForbudsgrense vassdragStrandlinje sjøStrandlinje vassdragMidtlinje vassdrag.
+Følgende betegnelser kan benyttes i plankart til kommuneplanens arealdel for å angi og stedfeste bestemmelser, jf. [plan- og bygningsloven § 11-9](lov/2008-06-27-71/§11-9) til [§ 11-11](lov/2008-06-27-71/§11-11):
+
+- Bestemmelsesområde
+- Regulert høyde
+- Byggegrense
+- Forbudsgrense sjø
+- Forbudsgrense vassdrag
+- Strandlinje sjø
+- Strandlinje vassdrag
+- Midtlinje vassdrag.
 
 > Endret ved forskrift [23 juni 2025 nr. 1258](forskrift/2025-06-23-1258) (i kraft 1 juli 2025).
 
 ## Vedlegg VI. Arealsoner i plankart til regional plan
 
-Arealsoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:Bebyggelse og anleggBoligbebyggelseFritidsbebyggelseTurist- og reiselivsanleggSentrumsfunksjonerHandelsfunksjonerKjøpesenterOffentlig og privat tjenesteytingIdrettsanleggKulturanleggRåstoffutvinningNæringsarealerIndustriEnergianlegg, herunder kraftverk, småkraftanleggLangsiktig utviklingsgrenseUtviklingsretningSamferdselsanlegg og teknisk infrastrukturVegtraséSykkeltraséTrasé for tog og t-baneTrasé for kollektivtransportKollektivknutepunktFlyplassTrasé for motorferdsel i utmarkTrasé for overføringskablerHavnGrønnstrukturBlågrønnsoneRekreasjonssoneTrasé for turdragForsvaretLandbruks-, natur- og friluftssone samt reindriftKjerneområde landbrukSærverdiområde reindriftKjerneområde naturmangfold – genereltPrioriterte villreinområderViktige økologiske funksjonsområderKjerneområde friluftslivLandskapssoneKulturmiljøsoneReinbeitedistriktBuffersone av hensyn til reindrift, villrein, nasjonalpark o.l.Flyttlei for reindriftTrekkvei på land for villrein, hjort, elg o.l.Landbruks-, natur- og friluftssone med spredt boligbebyggelseLandbruks-, natur- og friluftssone med spredt fritidsbebyggelseLandbruks-, natur- og friluftssone med spredt næringsbebyggelseSjø og vassdragStrandlinje sjø og vassdragTrasé for farledTrekkvei i sjø samt vassdrag for reindrift, villrein, hjort, elg og likendeFritidsbåthavnKystsoneFiskeAkvakulturDrikkevannNaturmangfold sjøViktige økologiske funksjonsområder i sjøFerdsel i sjøEnergianlegg i sjø.
+Arealsoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:
+
+1. Bebyggelse og anlegg
+
+   - Boligbebyggelse
+   - Fritidsbebyggelse
+   - Turist- og reiselivsanlegg
+   - Sentrumsfunksjoner
+   - Handelsfunksjoner
+   - Kjøpesenter
+   - Offentlig og privat tjenesteyting
+   - Idrettsanlegg
+   - Kulturanlegg
+   - Råstoffutvinning
+   - Næringsarealer
+   - Industri
+   - Energianlegg, herunder kraftverk, småkraftanlegg
+   - Langsiktig utviklingsgrense
+   - Utviklingsretning
+2. Samferdselsanlegg og teknisk infrastruktur
+
+   - Vegtrasé
+   - Sykkeltrasé
+   - Trasé for tog og t-bane
+   - Trasé for kollektivtransport
+   - Kollektivknutepunkt
+   - Flyplass
+   - Trasé for motorferdsel i utmark
+   - Trasé for overføringskabler
+   - Havn
+3. Grønnstruktur
+
+   - Blågrønnsone
+   - Rekreasjonssone
+   - Trasé for turdrag
+4. Forsvaret
+5. Landbruks-, natur- og friluftssone samt reindrift
+
+   - Kjerneområde landbruk
+   - Særverdiområde reindrift
+   - Kjerneområde naturmangfold – generelt
+   - Prioriterte villreinområder
+   - Viktige økologiske funksjonsområder
+   - Kjerneområde friluftsliv
+   - Landskapssone
+   - Kulturmiljøsone
+   - Reinbeitedistrikt
+   - Buffersone av hensyn til reindrift, villrein, nasjonalpark o.l.
+   - Flyttlei for reindrift
+   - Trekkvei på land for villrein, hjort, elg o.l.
+   - Landbruks-, natur- og friluftssone med spredt boligbebyggelse
+   - Landbruks-, natur- og friluftssone med spredt fritidsbebyggelse
+   - Landbruks-, natur- og friluftssone med spredt næringsbebyggelse
+6. Sjø og vassdrag
+
+   - Strandlinje sjø og vassdrag
+   - Trasé for farled
+   - Trekkvei i sjø samt vassdrag for reindrift, villrein, hjort, elg og likende
+   - Fritidsbåthavn
+   - Kystsone
+   - Fiske
+   - Akvakultur
+   - Drikkevann
+   - Naturmangfold sjø
+   - Viktige økologiske funksjonsområder i sjø
+   - Ferdsel i sjø
+   - Energianlegg i sjø.
 
 ## Vedlegg VII. Faresoner, restriksjonssoner eller sikringssoner og båndleggingssoner i plankart til regional plan
 
 ### 1. Regional faresone
 
-Faresoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:Ras- og skredfareFlomfareRadonBrann- eller eksplosjonsfareSkytebaneHøyspenningsanlegg (inkl. høyspenningskabler)Militær virksomhetNærmere angitt fare.
+Faresoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:
+
+- Ras- og skredfare
+- Flomfare
+- Radon
+- Brann- eller eksplosjonsfare
+- Skytebane
+- Høyspenningsanlegg (inkl. høyspenningskabler)
+- Militær virksomhet
+- Nærmere angitt fare.
 
 ### 2. Regional restriksjonssone eller regional sikringssone
 
-Restriksjonssoner og sikringssoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:FriluftslivsoneBlågrønnsoneSammenhengende natursoneSone med forbud mot motorferdsel i utmark.
+Restriksjonssoner og sikringssoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:
+
+- Friluftslivsone
+- Blågrønnsone
+- Sammenhengende natursone
+- Sone med forbud mot motorferdsel i utmark.
 
 ### 3. Regional båndleggingssone
 
-Båndleggingssoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:Båndlegging for regulering etter [plan- og bygningsloven](lov/2008-06-27-71)Båndlegging etter lov om naturmangfoldBåndlegging etter [lov om kulturminner](lov/1978-06-09-50)Båndlegging etter [lov om naturområder i Oslo og nærliggende kommuner](lov/2009-06-05-35)Båndlegging med bakgrunn i avkjøringsklasser etter [vegloven](lov/1963-06-21-23)Båndlegging etter nærmere angitte lover.
+Båndleggingssoner som skal framgå av plankart til regional plan, jf. [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kan angis med en av følgende betegnelser:
+
+- Båndlegging for regulering etter [plan- og bygningsloven](lov/2008-06-27-71)
+- Båndlegging etter lov om naturmangfold
+- Båndlegging etter [lov om kulturminner](lov/1978-06-09-50)
+- Båndlegging etter [lov om naturområder i Oslo og nærliggende kommuner](lov/2009-06-05-35)
+- Båndlegging med bakgrunn i avkjøringsklasser etter [vegloven](lov/1963-06-21-23)
+- Båndlegging etter nærmere angitte lover.

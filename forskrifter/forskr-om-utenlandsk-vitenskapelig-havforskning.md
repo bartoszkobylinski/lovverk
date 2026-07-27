@@ -15,7 +15,7 @@ xml_hash: "e8a2d58a66a3df1802ab166ae6330ddab196b337391c02fd11b34de3c730720b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,19 @@ Stilltiende samtykke anses gitt i de tilfeller som er beskrevet i denne forskrif
 
 ### § 7
 
-Reglene i denne forskrift berører ikke søkerens plikter etter[lov av 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter,[lov av 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster,[lov av 17. juni 1966 nr. 19](lov/1966-06-17-19) om Norges fiskerigrense og om forbud mot at utlendinger driver fiske m.v. innenfor fiskerigrensen,[lov av 3. juni 1983 nr. 40](lov/1983-06-03-40) om saltvannsfiske m.v.,[lov av 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her,[lov av 16. juni 1989 nr. 59](lov/1989-06-16-59) om losvesenet m.v.,[lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,[lov av 13. juni 1997 nr. 42](lov/1997-06-13-42) om Kystvakten (kystvaktloven),[forskrift av 1. juni 1973 nr. 3780](forskrift/1973-06-01-3780) om opprettelse av fuglereservater og større naturvernområder på Svalbard,[forskrift av 21. desember 1990 nr. 1028](forskrift/1990-12-21-1028) om utlendingers adgang til riket og deres opphold her,[forskrift av 23. desember 1994 nr. 1130](forskrift/1994-12-23-1130) om fremmede ikke-militære fartøyers anløp av og ferdsel i norsk territorialfarvann under fredsforhold.
+Reglene i denne forskrift berører ikke søkerens plikter etter
+
+- [lov av 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter,
+- [lov av 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster,
+- [lov av 17. juni 1966 nr. 19](lov/1966-06-17-19) om Norges fiskerigrense og om forbud mot at utlendinger driver fiske m.v. innenfor fiskerigrensen,
+- [lov av 3. juni 1983 nr. 40](lov/1983-06-03-40) om saltvannsfiske m.v.,
+- [lov av 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her,
+- [lov av 16. juni 1989 nr. 59](lov/1989-06-16-59) om losvesenet m.v.,
+- [lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,
+- [lov av 13. juni 1997 nr. 42](lov/1997-06-13-42) om Kystvakten (kystvaktloven),
+- [forskrift av 1. juni 1973 nr. 3780](forskrift/1973-06-01-3780) om opprettelse av fuglereservater og større naturvernområder på Svalbard,
+- [forskrift av 21. desember 1990 nr. 1028](forskrift/1990-12-21-1028) om utlendingers adgang til riket og deres opphold her,
+- [forskrift av 23. desember 1994 nr. 1130](forskrift/1994-12-23-1130) om fremmede ikke-militære fartøyers anløp av og ferdsel i norsk territorialfarvann under fredsforhold.
 
 ### § 8
 
@@ -66,7 +78,13 @@ Søknad om vitenskapelig havforskning skal sendes til Fiskeridirektoratet av den
 
 ### § 9
 
-Søknaden om vitenskapelig havforskning skal inneholde en fullstendig beskrivelse avnasjonalitet og navn på den institusjon som er ansvarlig for prosjektet, dens direktør og prosjektleder,prosjektets art og formål,den metode og de midler som skal anvendes, herunder fartøyets navn, eier, registreringsstat, ansvarsforsikring, tonnasje, type og klasse samt en beskrivelse av vitenskapelig utstyr,de nøyaktige geografiske områder hvor prosjektet skal gjennomføres, antatt dato for forskningsfartøyets første ankomst og siste avreise, eller eventuelt utplassering og fjerning av utstyret,i hvilken grad det antas at kyststaten bør kunne delta eller være representert i prosjektet.
+Søknaden om vitenskapelig havforskning skal inneholde en fullstendig beskrivelse av
+
+1. nasjonalitet og navn på den institusjon som er ansvarlig for prosjektet, dens direktør og prosjektleder,
+2. prosjektets art og formål,
+3. den metode og de midler som skal anvendes, herunder fartøyets navn, eier, registreringsstat, ansvarsforsikring, tonnasje, type og klasse samt en beskrivelse av vitenskapelig utstyr,
+4. de nøyaktige geografiske områder hvor prosjektet skal gjennomføres, antatt dato for forskningsfartøyets første ankomst og siste avreise, eller eventuelt utplassering og fjerning av utstyret,
+5. i hvilken grad det antas at kyststaten bør kunne delta eller være representert i prosjektet.
 
 Et særskilt skjema skal benyttes til søknaden. Skjemaet er vedlegg til denne forskrift og oppdateres av Fiskeridirektoratet. Søknaden skrives på engelsk.
 
@@ -74,15 +92,28 @@ Et særskilt skjema skal benyttes til søknaden. Skjemaet er vedlegg til denne f
 
 Søknad om vitenskapelig havforskning er innvilget når Fiskeridirektoratet gir søkeren meddelelse om dette.
 
-Søknaden er også å anse som innvilget fire måneder etter mottakelsen av søknaden, med mindre Fiskeridirektoratet innen denne tid har informert forskerstaten eller den internasjonale organisasjon om atsøknaden ikke innvilges,de opplysninger som er gitt ikke stemmer med helt åpenbare faktiske forhold,det bes om tilleggsopplysninger ellerdet gjenstår uoppfylte forpliktelser etter et tidligere vitenskapelig havforskningsprosjekt som vedkommende stat eller internasjonale organisasjon har gjennomført i Norges indre farvann, sjøterritorium, økonomiske sone eller på kontinentalsokkelen.
+Søknaden er også å anse som innvilget fire måneder etter mottakelsen av søknaden, med mindre Fiskeridirektoratet innen denne tid har informert forskerstaten eller den internasjonale organisasjon om at
 
-Andre ledd gjelder ikkedersom annet følger av regler gitt i eller i medhold av lover som nevnt i denne forskriftens [§ 7](forskrift/2001-03-30-360/§7) ellerforskning i indre farvann og i territorialfarvann.
+1. søknaden ikke innvilges,
+2. de opplysninger som er gitt ikke stemmer med helt åpenbare faktiske forhold,
+3. det bes om tilleggsopplysninger eller
+4. det gjenstår uoppfylte forpliktelser etter et tidligere vitenskapelig havforskningsprosjekt som vedkommende stat eller internasjonale organisasjon har gjennomført i Norges indre farvann, sjøterritorium, økonomiske sone eller på kontinentalsokkelen.
+
+Andre ledd gjelder ikke
+
+1. dersom annet følger av regler gitt i eller i medhold av lover som nevnt i denne forskriftens [§ 7](forskrift/2001-03-30-360/§7) eller
+2. forskning i indre farvann og i territorialfarvann.
 
 ## Vilkår for tillatelse
 
 ### § 11
 
-Fiskeridirektoratet kan knytte følgende vilkår til en tillatelse til å drive vitenskapelig havforskning:norske myndigheter eller forskere som de utpeker, skal ha rett til å delta eller være representert i det vitenskapelige havforskningsprosjekt, særlig om bord i forskningsfartøy og andre fartøyer eller innretninger for vitenskapelig forskning, når det er praktisk gjennomførlig, uten betaling av noe vederlag til kyststatens forskere, og uten forpliktelse til å bidra til dekning av prosjektets utgifter,norske myndigheter skal, dersom de anmoder om det, og så raskt det lar seg gjøre, skaffes foreløpige rapporter, samt de endelige resultater og konklusjoner etter at forskningen er avsluttet,norske myndigheter skal, dersom de anmoder om det, gis tilgang til alle data og prøver fra det vitenskapelige havforskningsprosjekt, og likeledes forsynes med data som kan kopieres, og prøver som kan deles opp uten at deres vitenskapelige verdi forringes,norske myndigheter skal, dersom de anmoder om det, gis en vurdering av slike data, prøver og forskningsresultater som er omtalt i [punkt c](forskrift/2001-03-30-360/kapc)), eller bistås i vurderingen eller tolkningen av dem.
+Fiskeridirektoratet kan knytte følgende vilkår til en tillatelse til å drive vitenskapelig havforskning:
+
+1. norske myndigheter eller forskere som de utpeker, skal ha rett til å delta eller være representert i det vitenskapelige havforskningsprosjekt, særlig om bord i forskningsfartøy og andre fartøyer eller innretninger for vitenskapelig forskning, når det er praktisk gjennomførlig, uten betaling av noe vederlag til kyststatens forskere, og uten forpliktelse til å bidra til dekning av prosjektets utgifter,
+2. norske myndigheter skal, dersom de anmoder om det, og så raskt det lar seg gjøre, skaffes foreløpige rapporter, samt de endelige resultater og konklusjoner etter at forskningen er avsluttet,
+3. norske myndigheter skal, dersom de anmoder om det, gis tilgang til alle data og prøver fra det vitenskapelige havforskningsprosjekt, og likeledes forsynes med data som kan kopieres, og prøver som kan deles opp uten at deres vitenskapelige verdi forringes,
+4. norske myndigheter skal, dersom de anmoder om det, gis en vurdering av slike data, prøver og forskningsresultater som er omtalt i [punkt c](forskrift/2001-03-30-360/kapc)), eller bistås i vurderingen eller tolkningen av dem.
 
 ## Plikter knyttet til forskningen
 
@@ -102,7 +133,10 @@ Forskerstaten eller den internasjonale organisasjon skal umiddelbart underrette 
 
 Forsker, forskningsinstitusjon og internasjonal organisasjon har plikt til å imøtekomme Kystvaktens anmodning om inspeksjon av forskningsfartøy eller innretning.
 
-Inspeksjon kan gjennomføres ved tvang dersom fartøyet eller innretningen benyttes tilaktivitet som er omfattet av norske suverene rettigheter etter [Havrettskonvensjonens del](traktat/1982-12-10-1) V og VI ellerforskning innenfor territorialgrensen.
+Inspeksjon kan gjennomføres ved tvang dersom fartøyet eller innretningen benyttes til
+
+1. aktivitet som er omfattet av norske suverene rettigheter etter [Havrettskonvensjonens del](traktat/1982-12-10-1) V og VI eller
+2. forskning innenfor territorialgrensen.
 
 ### § 16
 

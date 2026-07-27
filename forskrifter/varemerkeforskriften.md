@@ -15,7 +15,7 @@ xml_hash: "8aa4a9cd3f22d4751b6b22600c153b4d5e7b87c3cce7c60d3edaf9bd0c4cd6ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Søknad om registrering av varemerke leveres på særskilt søknadsskjema. Skjem
 
 ### § 2. Søknadens innhold
 
-Søknaden skal inneholde:søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresseopplysning om prioritet om dette er krevd, jf. [§ 13](forskrift/2010-06-25-937/§13) til [§ 16](forskrift/2010-06-25-937/§16)en klar og tydelig gjengivelse av varemerket, jf. [§ 8](forskrift/2010-06-25-937/§8)en liste over varer og tjenester (varefortegnelse) som merket søkes registrert for, jf. [§ 10](forskrift/2010-06-25-937/§10).Søknaden skal være signert av søkeren eller dennes fullmektig.
+Søknaden skal inneholde:
+
+1. søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse
+2. opplysning om prioritet om dette er krevd, jf. [§ 13](forskrift/2010-06-25-937/§13) til [§ 16](forskrift/2010-06-25-937/§16)
+3. en klar og tydelig gjengivelse av varemerket, jf. [§ 8](forskrift/2010-06-25-937/§8)
+4. en liste over varer og tjenester (varefortegnelse) som merket søkes registrert for, jf. [§ 10](forskrift/2010-06-25-937/§10).
+
+Søknaden skal være signert av søkeren eller dennes fullmektig.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -74,7 +81,21 @@ Gjengivelsen av merket kan følges av en beskrivelse, som skal stemme overens me
 
 Det skal angis i søknaden hvilken type merke som søkes registrert, jf. fjerde ledd nr. 1 til 10, og om merket er i farger. Hvis gjengivelsen av merket er i sort-hvitt eller gråtoner, anses merket for å være uten farger.
 
-Gjengivelsen og den angitte merketypen skal stemme overens med følgende:*Ordmerke*: Et varemerke som utelukkende består av ord, bokstaver, tall, andre faste typografiske standardtegn eller en kombinasjon av disse, skal angis som ordmerke, og gjengivelsen skal gjengi tegnet med standardskrift og -layout, uten grafisk fremstilling eller farge.*Figurmerke eller kombinert merke*: Et varemerke der det brukes tegn, stil eller layout som ikke er standard, eller en grafisk fremstilling eller farger, inkludert merker som utelukkende består av figurative elementer eller av en kombinasjon av verbale og figurative elementer, skal angis som figurmerke eller kombinert merke, og gjengivelsen skal inneholde alle merkets elementer og eventuelle farger.*Tredimensjonalt merke*: Et varemerke som består av eller omfatter en tredimensjonal form, herunder beholdere, emballasje, varen selv eller dens utseende, skal angis som tredimensjonalt merke, og gjengivelsen skal bestå av en grafisk gjengivelse av formen eller en fotografisk gjengivelse. Gjengivelsen kan inneholde forskjellige synsvinkler. Hvis gjengivelsen ikke innleveres elektronisk, kan den inneholde opp til seks forskjellige synsvinkler.*Plasseringsmerke*: Et varemerke som består av måten merket er anbrakt eller festet på varen, skal angis som plasseringsmerke, og gjengivelsen skal på egnet måte vise merkets plassering og dets størrelse og proporsjoner i forhold til varene. Elementer som ikke omfattes av registreringen, skal skilles ut ved bruk av stiplede linjer eller lignende. Gjengivelsen kan ledsages av en beskrivelse med nærmere opplysninger om hvordan tegnet er anbrakt eller festet på varene.*Mønstermerke*: Et varemerke som utelukkende består av et sett elementer som gjentas regelmessig, skal angis som mønstermerke, og gjengivelsen skal vise gjentakelsen. Gjengivelsen kan ledsages av en beskrivelse med nærmere opplysninger om hvordan elementene gjentas regelmessig.*Fargemerke*:Et varemerke som utelukkende består av én enkelt farge uten konturer, skal angis som fargemerke, og gjengivelsen skal gjengi fargen og henvise til en alminnelig anerkjent fargekode.Et varemerke som utelukkende består av en kombinasjon av farger uten konturer, skal angis som fargemerke, og gjengivelsen skal vise fargenes systematiske plassering på en ensartet og forutbestemt måte samt henvise til alminnelige anerkjente fargekoder. Det kan i tillegg vedlegges en nærmere beskrivelse av hvordan fargene er plassert systematisk på en ensartet og forutbestemt måte.*Lydmerke*: Et varemerke som består utelukkende av en lyd eller en kombinasjon av lyder, skal gjengis ved en lydfil som gjengir lyden eller ved en nøyaktig gjengivelse av lyden i et notesystem.*Bevegelsesmerke*: Et varemerke som består av eller omfatter en bevegelse eller en endring i plasseringen av varemerkets elementer, skal angis som bevegelsesmerke, og gjengis ved et videoklipp eller stillbilder som viser bevegelsen eller endringen av plasseringen. Stillbilder kan være nummerert eller ledsaget av en beskrivelse som forklarer sekvensen.*Multimediamerke*: Et varemerke som består av eller dannes av en kombinasjon av bilde og lyd, skal angis som multimediamerke, og gjengis ved en audiovisuell fil som viser kombinasjonen av bilde og lyd.*Hologrammerke*: Et varemerke som består av elementer av holografisk art, skal angis som hologrammerke, og gjengis ved en videofil eller en grafisk eller fotografisk gjengivelse med de synsvinkler som er nødvendige for i tilstrekkelig grad å vise hologrammet i sin helhet.
+Gjengivelsen og den angitte merketypen skal stemme overens med følgende:
+
+1. *Ordmerke*: Et varemerke som utelukkende består av ord, bokstaver, tall, andre faste typografiske standardtegn eller en kombinasjon av disse, skal angis som ordmerke, og gjengivelsen skal gjengi tegnet med standardskrift og -layout, uten grafisk fremstilling eller farge.
+2. *Figurmerke eller kombinert merke*: Et varemerke der det brukes tegn, stil eller layout som ikke er standard, eller en grafisk fremstilling eller farger, inkludert merker som utelukkende består av figurative elementer eller av en kombinasjon av verbale og figurative elementer, skal angis som figurmerke eller kombinert merke, og gjengivelsen skal inneholde alle merkets elementer og eventuelle farger.
+3. *Tredimensjonalt merke*: Et varemerke som består av eller omfatter en tredimensjonal form, herunder beholdere, emballasje, varen selv eller dens utseende, skal angis som tredimensjonalt merke, og gjengivelsen skal bestå av en grafisk gjengivelse av formen eller en fotografisk gjengivelse. Gjengivelsen kan inneholde forskjellige synsvinkler. Hvis gjengivelsen ikke innleveres elektronisk, kan den inneholde opp til seks forskjellige synsvinkler.
+4. *Plasseringsmerke*: Et varemerke som består av måten merket er anbrakt eller festet på varen, skal angis som plasseringsmerke, og gjengivelsen skal på egnet måte vise merkets plassering og dets størrelse og proporsjoner i forhold til varene. Elementer som ikke omfattes av registreringen, skal skilles ut ved bruk av stiplede linjer eller lignende. Gjengivelsen kan ledsages av en beskrivelse med nærmere opplysninger om hvordan tegnet er anbrakt eller festet på varene.
+5. *Mønstermerke*: Et varemerke som utelukkende består av et sett elementer som gjentas regelmessig, skal angis som mønstermerke, og gjengivelsen skal vise gjentakelsen. Gjengivelsen kan ledsages av en beskrivelse med nærmere opplysninger om hvordan elementene gjentas regelmessig.
+6. *Fargemerke*:
+
+   1. Et varemerke som utelukkende består av én enkelt farge uten konturer, skal angis som fargemerke, og gjengivelsen skal gjengi fargen og henvise til en alminnelig anerkjent fargekode.
+   2. Et varemerke som utelukkende består av en kombinasjon av farger uten konturer, skal angis som fargemerke, og gjengivelsen skal vise fargenes systematiske plassering på en ensartet og forutbestemt måte samt henvise til alminnelige anerkjente fargekoder. Det kan i tillegg vedlegges en nærmere beskrivelse av hvordan fargene er plassert systematisk på en ensartet og forutbestemt måte.
+7. *Lydmerke*: Et varemerke som består utelukkende av en lyd eller en kombinasjon av lyder, skal gjengis ved en lydfil som gjengir lyden eller ved en nøyaktig gjengivelse av lyden i et notesystem.
+8. *Bevegelsesmerke*: Et varemerke som består av eller omfatter en bevegelse eller en endring i plasseringen av varemerkets elementer, skal angis som bevegelsesmerke, og gjengis ved et videoklipp eller stillbilder som viser bevegelsen eller endringen av plasseringen. Stillbilder kan være nummerert eller ledsaget av en beskrivelse som forklarer sekvensen.
+9. *Multimediamerke*: Et varemerke som består av eller dannes av en kombinasjon av bilde og lyd, skal angis som multimediamerke, og gjengis ved en audiovisuell fil som viser kombinasjonen av bilde og lyd.
+10. *Hologrammerke*: Et varemerke som består av elementer av holografisk art, skal angis som hologrammerke, og gjengis ved en videofil eller en grafisk eller fotografisk gjengivelse med de synsvinkler som er nødvendige for i tilstrekkelig grad å vise hologrammet i sin helhet.
 
 For et varemerke som ikke faller inn under noen av kategoriene i fjerde ledd, skal gjengivelsen følges av en beskrivelse og oppfylle kravene i første til tredje ledd. Levering av en prøve eller modell oppfyller ikke kravene til gjengivelse av varemerket.
 
@@ -92,7 +113,15 @@ Gjengivelsen av merket skal være av en slik kvalitet at den kan reduseres eller
 
 ### § 9. Endring av søkt varemerke
 
-Krav om endring i søkt varemerke etter [varemerkeloven § 13](lov/2010-03-26-8/§13) leveres Patentstyret og skal inneholde:søkerens navn eller foretaksnavn og adresse, eventuelt også fullmektigens navn eller foretaksnavn og adresseeventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)søknadsnummer til merket som kreves endretden endringen av merket som ønskes foretatten gjengivelse av merket i endret form som oppfyller kravene etter [§ 8](forskrift/2010-06-25-937/§8).Skjema med eventuelle vedlegg skal utfylles med trykt skrift og være signert av søker eller innehaver, eller dennes fullmektig.
+Krav om endring i søkt varemerke etter [varemerkeloven § 13](lov/2010-03-26-8/§13) leveres Patentstyret og skal inneholde:
+
+1. søkerens navn eller foretaksnavn og adresse, eventuelt også fullmektigens navn eller foretaksnavn og adresse
+2. eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)
+3. søknadsnummer til merket som kreves endret
+4. den endringen av merket som ønskes foretatt
+5. en gjengivelse av merket i endret form som oppfyller kravene etter [§ 8](forskrift/2010-06-25-937/§8).
+
+Skjema med eventuelle vedlegg skal utfylles med trykt skrift og være signert av søker eller innehaver, eller dennes fullmektig.
 
 Et krav om endring kan bare inneholde ett nytt varemerke. Vurderingen av om vilkårene for å endre et søkt varemerke etter [varemerkeloven § 13](lov/2010-03-26-8/§13) første ledd er oppfylt skal alltid foretas i forhold til det opprinnelig søkte merket.
 
@@ -238,7 +267,15 @@ Innehaveren kan kreve at Patentstyret helt eller delvis slår sammen tidligere a
 
 ### § 23. Innsigelsens form og innhold
 
-Innsigelse etter [varemerkeloven § 26](lov/2010-03-26-8/§26) leveres til Patentstyret og skal inneholde:innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresseangivelse av hvilken registrering innsigelsen gjelderde grunner innsigelsen bygger påopplysning om hvilke varer og tjenester innsigelsen gjelder, alternativt hvilke varer og tjenester som er uberørt av innsigelsen, hvis registreringen kreves bare delvis opphevetnødvendig dokumentasjon av forhold som påberopes til støtte for innsigelsen.Innsigelsen skal være signert av innsigeren eller dennes fullmektig. Om adresse for korrespondanse med innsigeren, jf. [varemerkeloven § 77](lov/2010-03-26-8/§77), gjelder § 3 i forskriften tilsvarende. Hvis innsigelsen begrunnes i flere eldre rettigheter, jf. første punktum nr. 3, må disse tilhøre samme innehaver.
+Innsigelse etter [varemerkeloven § 26](lov/2010-03-26-8/§26) leveres til Patentstyret og skal inneholde:
+
+1. innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse
+2. angivelse av hvilken registrering innsigelsen gjelder
+3. de grunner innsigelsen bygger på
+4. opplysning om hvilke varer og tjenester innsigelsen gjelder, alternativt hvilke varer og tjenester som er uberørt av innsigelsen, hvis registreringen kreves bare delvis opphevet
+5. nødvendig dokumentasjon av forhold som påberopes til støtte for innsigelsen.
+
+Innsigelsen skal være signert av innsigeren eller dennes fullmektig. Om adresse for korrespondanse med innsigeren, jf. [varemerkeloven § 77](lov/2010-03-26-8/§77), gjelder § 3 i forskriften tilsvarende. Hvis innsigelsen begrunnes i flere eldre rettigheter, jf. første punktum nr. 3, må disse tilhøre samme innehaver.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -256,7 +293,15 @@ Patentstyret skal gi merkehaver og innsiger melding om utfallet av innsigelsessa
 
 ### § 27. Administrativ overprøving
 
-Krav om administrativ overprøving etter [varemerkeloven § 40](lov/2010-03-26-8/§40) leveres til Patentstyret og skal inneholde:navn eller foretaksnavn og adresse til den som har levert kravet, og eventuelt også fullmektigens navn eller foretaksnavn og adresseangivelse av hvilken registrering kravet gjelderde grunner kravet bygger påopplysning om hvilke varer og tjenester kravet om overprøving gjelder, alternativt hvilke varer og tjenester som er uberørt av kravet, hvis registreringen kreves bare delvis overprøvdnødvendig dokumentasjon av forhold som påberopes til støtte for kravet.Et krav om administrativ overprøving skal være signert av den som krever overprøving eller dennes fullmektig. Om adresse for korrespondanse med den som har krevd overprøving, jf. [varemerkeloven § 77](lov/2010-03-26-8/§77), gjelder § 3 i forskriften tilsvarende. Hvis kravet er begrunnet i flere eldre rettigheter, jf. første punktum nr. 3, må disse tilhøre samme innehaver.
+Krav om administrativ overprøving etter [varemerkeloven § 40](lov/2010-03-26-8/§40) leveres til Patentstyret og skal inneholde:
+
+1. navn eller foretaksnavn og adresse til den som har levert kravet, og eventuelt også fullmektigens navn eller foretaksnavn og adresse
+2. angivelse av hvilken registrering kravet gjelder
+3. de grunner kravet bygger på
+4. opplysning om hvilke varer og tjenester kravet om overprøving gjelder, alternativt hvilke varer og tjenester som er uberørt av kravet, hvis registreringen kreves bare delvis overprøvd
+5. nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+
+Et krav om administrativ overprøving skal være signert av den som krever overprøving eller dennes fullmektig. Om adresse for korrespondanse med den som har krevd overprøving, jf. [varemerkeloven § 77](lov/2010-03-26-8/§77), gjelder § 3 i forskriften tilsvarende. Hvis kravet er begrunnet i flere eldre rettigheter, jf. første punktum nr. 3, må disse tilhøre samme innehaver.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -278,7 +323,48 @@ Patentstyret skal gi merkehaver og den som har krevd administrativ overprøving 
 
 Patentstyret fører et register over leverte søknader og registrerte varemerker. For internasjonale registreringer hvor Norge er utpekt gjelder [§ 30](forskrift/2010-06-25-937/§30). Opplysningene i varemerkeregisteret er tilgjengelige for enhver.
 
-Registeret skal inneholde følgende opplysninger om søknaden og registreringen:søknadens og registreringens nummersøkerens eller innehaverens navn eller foretaksnavn og adressefullmektigens navn eller foretaksnavn og adresseeventuell særskilt adresse for korrespondanse, jf. [§ 3](forskrift/2010-06-25-937/§3) og [varemerkeloven § 77](lov/2010-03-26-8/§77)søknadsdag for søknadenom prioritet er krevd, og i tilfelle grunnlaget for prioritet og opplysninger som nevnt i [kapittel 2](forskrift/2010-06-25-937/kap2)om søknaden eller registreringen er basis for internasjonal søknad eller registrering gjennom protokollen 27. juni 1989 nr. 1 til overenskomsten 14. april 1891 om internasjonal registrering av varemerker (Madridprotokollen)gjengivelse av varemerket, herunder merketype, i samsvar med [§ 8](forskrift/2010-06-25-937/§8)varefortegnelsenom søknaden er en utskilt eller avdelt søknad, og i tilfelle den opprinnelige søknadens nummerom registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummerom det ved utskilling fra eller deling av en søknad eller registrering er fremkommet nye søknader eller registreringer, med opplysning om de nye søknads- eller registreringsnumreneom søknaden eller registreringen er sammenslått med en annen søknad eller registrering, og i tilfelle den opprinnelige søknadens eller registreringens nummer og leveringsdagden dag merket ble registrertden dag registreringen ble kunngjortdato for registrerings- eller eventuelt fornyelsesperiodens utløpandre beslutninger som er truffet i saken og sakens statusunntaksanmerkningens ordlyd, hvis merket er registrert med slik anmerkning, jf. [§ 11](forskrift/2010-06-25-937/§11)bestemmelser som er fastsatt for bruken av merket, hvis merket er et fellesmerke eller garanti- eller kontrollmerke, jf. [§ 4](forskrift/2010-06-25-937/§4)mottatte og sendte dokumenter i sakenbetalte, utestående og eventuelt tilbakebetalte avgifter og gebyrerat det er inngitt innsigelse og avgjørelse i innsigelsessakenom varemerket er fornyet etter [varemerkeloven § 33](lov/2010-03-26-8/§33) eller dato for opphørom retten til varemerket er overført etter [varemerkeloven § 21](lov/2010-03-26-8/§21) eller [§ 28](lov/2010-03-26-8/§28)om et søkt eller registrert merke er endret, jf. [§ 9](forskrift/2010-06-25-937/§9) og [§ 57](forskrift/2010-06-25-937/§57)om registreringen er opphevet etter [varemerkeloven § 30](lov/2010-03-26-8/§30) eller [§ 45](lov/2010-03-26-8/§45), eller slettet etter [§ 36](lov/2010-03-26-8/§36), [§ 37](lov/2010-03-26-8/§37), [§ 43](lov/2010-03-26-8/§43) eller [§ 46](lov/2010-03-26-8/§46), og dato for slik oppheving eller slettelseom krav om at fristoversittelse ikke skal få virkning og avgjørelse av slikt krav, jf. [varemerkeloven § 80](lov/2010-03-26-8/§80)at det er inngitt krav om administrativ overprøving og avgjørelse i slik sakat det er reist søksmål om ugyldigkjennelse, sletting eller overføring av merketat det er levert klage til Klagenemnden for industrielle rettigheterat det er reist søksmål etter [varemerkeloven § 52](lov/2010-03-26-8/§52)at utskrift av dom er sendt til Patentstyret, og utfallet av saken når dommen er rettskraftigat det er tatt utlegg eller arrest i merketny fullmektig ved endring i fullmektigforholdom overdragelse eller lisensom søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endretom pantdatoen da femårsperioden for å ta merket i bruk etter [varemerkeloven § 37](lov/2010-03-26-8/§37) begynner å løpe.Melding om endringer etter nr. 33 til 37 leveres på et særskilt skjema som Patentstyret fastsetter. Skjema med eventuelle vedlegg skal utfylles med trykt skrift. Det kan leveres felles melding for flere søknader eller registreringer.
+Registeret skal inneholde følgende opplysninger om søknaden og registreringen:
+
+1. søknadens og registreringens nummer
+2. søkerens eller innehaverens navn eller foretaksnavn og adresse
+3. fullmektigens navn eller foretaksnavn og adresse
+4. eventuell særskilt adresse for korrespondanse, jf. [§ 3](forskrift/2010-06-25-937/§3) og [varemerkeloven § 77](lov/2010-03-26-8/§77)
+5. søknadsdag for søknaden
+6. om prioritet er krevd, og i tilfelle grunnlaget for prioritet og opplysninger som nevnt i [kapittel 2](forskrift/2010-06-25-937/kap2)
+7. om søknaden eller registreringen er basis for internasjonal søknad eller registrering gjennom protokollen 27. juni 1989 nr. 1 til overenskomsten 14. april 1891 om internasjonal registrering av varemerker (Madridprotokollen)
+8. gjengivelse av varemerket, herunder merketype, i samsvar med [§ 8](forskrift/2010-06-25-937/§8)
+9. varefortegnelsen
+10. om søknaden er en utskilt eller avdelt søknad, og i tilfelle den opprinnelige søknadens nummer
+11. om registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummer
+12. om det ved utskilling fra eller deling av en søknad eller registrering er fremkommet nye søknader eller registreringer, med opplysning om de nye søknads- eller registreringsnumrene
+13. om søknaden eller registreringen er sammenslått med en annen søknad eller registrering, og i tilfelle den opprinnelige søknadens eller registreringens nummer og leveringsdag
+14. den dag merket ble registrert
+15. den dag registreringen ble kunngjort
+16. dato for registrerings- eller eventuelt fornyelsesperiodens utløp
+17. andre beslutninger som er truffet i saken og sakens status
+18. unntaksanmerkningens ordlyd, hvis merket er registrert med slik anmerkning, jf. [§ 11](forskrift/2010-06-25-937/§11)
+19. bestemmelser som er fastsatt for bruken av merket, hvis merket er et fellesmerke eller garanti- eller kontrollmerke, jf. [§ 4](forskrift/2010-06-25-937/§4)
+20. mottatte og sendte dokumenter i saken
+21. betalte, utestående og eventuelt tilbakebetalte avgifter og gebyrer
+22. at det er inngitt innsigelse og avgjørelse i innsigelsessaken
+23. om varemerket er fornyet etter [varemerkeloven § 33](lov/2010-03-26-8/§33) eller dato for opphør
+24. om retten til varemerket er overført etter [varemerkeloven § 21](lov/2010-03-26-8/§21) eller [§ 28](lov/2010-03-26-8/§28)
+25. om et søkt eller registrert merke er endret, jf. [§ 9](forskrift/2010-06-25-937/§9) og [§ 57](forskrift/2010-06-25-937/§57)
+26. om registreringen er opphevet etter [varemerkeloven § 30](lov/2010-03-26-8/§30) eller [§ 45](lov/2010-03-26-8/§45), eller slettet etter [§ 36](lov/2010-03-26-8/§36), [§ 37](lov/2010-03-26-8/§37), [§ 43](lov/2010-03-26-8/§43) eller [§ 46](lov/2010-03-26-8/§46), og dato for slik oppheving eller slettelse
+27. om krav om at fristoversittelse ikke skal få virkning og avgjørelse av slikt krav, jf. [varemerkeloven § 80](lov/2010-03-26-8/§80)
+28. at det er inngitt krav om administrativ overprøving og avgjørelse i slik sak
+29. at det er reist søksmål om ugyldigkjennelse, sletting eller overføring av merket
+30. at det er levert klage til Klagenemnden for industrielle rettigheter
+31. at det er reist søksmål etter [varemerkeloven § 52](lov/2010-03-26-8/§52)
+32. at utskrift av dom er sendt til Patentstyret, og utfallet av saken når dommen er rettskraftig
+33. at det er tatt utlegg eller arrest i merket
+34. ny fullmektig ved endring i fullmektigforhold
+35. om overdragelse eller lisens
+36. om søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endret
+37. om pant
+38. datoen da femårsperioden for å ta merket i bruk etter [varemerkeloven § 37](lov/2010-03-26-8/§37) begynner å løpe.
+
+Melding om endringer etter nr. 33 til 37 leveres på et særskilt skjema som Patentstyret fastsetter. Skjema med eventuelle vedlegg skal utfylles med trykt skrift. Det kan leveres felles melding for flere søknader eller registreringer.
 
 > Endret ved forskrifter [1 mars 2013 nr. 246](forskrift/2013-03-01-246) (i kraft 1 april 2013), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019), [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -286,7 +372,29 @@ Registeret skal inneholde følgende opplysninger om søknaden og registreringen:
 
 Internasjonale registreringer hvor Norge er utpekt føres i registeret nevnt i [§ 29](forskrift/2010-06-25-937/§29). Opplysningene i registeret er tilgjengelige for enhver.
 
-Registret skal inneholde følgende opplysninger om den internasjonale registreringen:internasjonalt registreringsnummerinnehaverens navn eller foretaksnavn og adresseeventuell fullmektigs navn eller foretaksnavn og adresseeventuell særskilt adresse for korrespondanse, jf. [§ 54](forskrift/2010-06-25-937/§54) og [varemerkeloven § 77](lov/2010-03-26-8/§77)dato for internasjonal registreringdato for notifikasjon fra Det internasjonale byrået ved Verdensorganisasjonen for immateriell eiendomsrett (WIPO) om utpeking av Norgeom prioritet er krevd, og i tilfelle hvor den påberopte søknaden er levert, samt søknadsdag og søknadsnummer for dennedato for utpeking eller ytterligere utpeking av Norgedato for beslutning om virkning i Norgegjengivelse av varemerket, herunder merketype, i samsvar med [§ 8](forskrift/2010-06-25-937/§8)unntaksanmerkningens ordlyd, hvis merket er registrert med slik anmerkning, jf. [§ 11](forskrift/2010-06-25-937/§11)varefortegnelsen som merket er gitt virkning for i Norge på engelskdato for kunngjøring av internasjonal registrering, og beslutning om vern i Norgedato for registrerings- eller eventuelt fornyelsesperiodens utløpbestemmelser som er fastsatte for bruken av merket, hvis merket er et fellesmerke eller garanti- eller kontrollmerke, jf. [§ 4](forskrift/2010-06-25-937/§4)melding om erstatning av nasjonal registrering eller om omdanning til nasjonal registreringopplysninger svarende til dem som er nevnt i [§ 29](forskrift/2010-06-25-937/§29) nr. 20 til 22, 24 og 26 til 38andre opplysninger som mottas fra Det internasjonale byrået om internasjonal registrering som gjelder i Norge når opplysningene har betydning for retten til, rettigheter i eller vernet av merket i Norgeom registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummerom det ved deling av en registrering er fremkommet nye registreringer, med opplysning om de nye søknads- eller registreringsnumreneom registreringen er sammenslått med en annen registrering, og i tilfelle den opprinnelige registreringens nummer og søknadsdag.
+Registret skal inneholde følgende opplysninger om den internasjonale registreringen:
+
+1. internasjonalt registreringsnummer
+2. innehaverens navn eller foretaksnavn og adresse
+3. eventuell fullmektigs navn eller foretaksnavn og adresse
+4. eventuell særskilt adresse for korrespondanse, jf. [§ 54](forskrift/2010-06-25-937/§54) og [varemerkeloven § 77](lov/2010-03-26-8/§77)
+5. dato for internasjonal registrering
+6. dato for notifikasjon fra Det internasjonale byrået ved Verdensorganisasjonen for immateriell eiendomsrett (WIPO) om utpeking av Norge
+7. om prioritet er krevd, og i tilfelle hvor den påberopte søknaden er levert, samt søknadsdag og søknadsnummer for denne
+8. dato for utpeking eller ytterligere utpeking av Norge
+9. dato for beslutning om virkning i Norge
+10. gjengivelse av varemerket, herunder merketype, i samsvar med [§ 8](forskrift/2010-06-25-937/§8)
+11. unntaksanmerkningens ordlyd, hvis merket er registrert med slik anmerkning, jf. [§ 11](forskrift/2010-06-25-937/§11)
+12. varefortegnelsen som merket er gitt virkning for i Norge på engelsk
+13. dato for kunngjøring av internasjonal registrering, og beslutning om vern i Norge
+14. dato for registrerings- eller eventuelt fornyelsesperiodens utløp
+15. bestemmelser som er fastsatte for bruken av merket, hvis merket er et fellesmerke eller garanti- eller kontrollmerke, jf. [§ 4](forskrift/2010-06-25-937/§4)
+16. melding om erstatning av nasjonal registrering eller om omdanning til nasjonal registrering
+17. opplysninger svarende til dem som er nevnt i [§ 29](forskrift/2010-06-25-937/§29) nr. 20 til 22, 24 og 26 til 38
+18. andre opplysninger som mottas fra Det internasjonale byrået om internasjonal registrering som gjelder i Norge når opplysningene har betydning for retten til, rettigheter i eller vernet av merket i Norge
+19. om registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummer
+20. om det ved deling av en registrering er fremkommet nye registreringer, med opplysning om de nye søknads- eller registreringsnumrene
+21. om registreringen er sammenslått med en annen registrering, og i tilfelle den opprinnelige registreringens nummer og søknadsdag.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -302,39 +410,103 @@ Når den internasjonale registreringen helt eller delvis har fått virkning i No
 
 ### § 33. Kunngjøring av innkomne innsigelser
 
-Kunngjøring etter [varemerkeloven § 26](lov/2010-03-26-8/§26) skal inneholde:registreringsnummer, varemerket og vareklasserinnehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 23](forskrift/2010-06-25-937/§23) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)dato for innsigelsenhvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
+Kunngjøring etter [varemerkeloven § 26](lov/2010-03-26-8/§26) skal inneholde:
+
+1. registreringsnummer, varemerket og vareklasser
+2. innehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)
+3. innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 23](forskrift/2010-06-25-937/§23) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)
+4. dato for innsigelsen
+5. hvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
 
 ### § 34. Kunngjøring av endelig avgjørelse i innsigelsessak
 
-Kunngjøring av at en innsigelse er endelig avgjort av Patentstyret, jf. [varemerkeloven § 29](lov/2010-03-26-8/§29), skal inneholde:registreringsnummer, varemerket og vareklasserinnehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 23](forskrift/2010-06-25-937/§23) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)dato for innsigelsenutfallet av innsigelsessakenhvilket nummer av Norsk varemerketidende registreringen og innsigelsen ble kunngjort iden dag avgjørelsen ble endelig.Ved delvis oppheving kunngjøres hele den nye varefortegnelsen.
+Kunngjøring av at en innsigelse er endelig avgjort av Patentstyret, jf. [varemerkeloven § 29](lov/2010-03-26-8/§29), skal inneholde:
+
+1. registreringsnummer, varemerket og vareklasser
+2. innehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)
+3. innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 23](forskrift/2010-06-25-937/§23) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)
+4. dato for innsigelsen
+5. utfallet av innsigelsessaken
+6. hvilket nummer av Norsk varemerketidende registreringen og innsigelsen ble kunngjort i
+7. den dag avgjørelsen ble endelig.
+
+Ved delvis oppheving kunngjøres hele den nye varefortegnelsen.
 
 ### § 35. Kunngjøring av krav om administrativ overprøving
 
-Kunngjøring etter [varemerkeloven § 40](lov/2010-03-26-8/§40) skal inneholde:registreringsnummer, varemerket og klasserinnehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 27](forskrift/2010-06-25-937/§27) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)dato for kravet om administrativ overprøvinghvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
+Kunngjøring etter [varemerkeloven § 40](lov/2010-03-26-8/§40) skal inneholde:
+
+1. registreringsnummer, varemerket og klasser
+2. innehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)
+3. navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 27](forskrift/2010-06-25-937/§27) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)
+4. dato for kravet om administrativ overprøving
+5. hvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
 
 ### § 36. Kunngjøring av endelig avgjørelse ved administrativ overprøving
 
-Kunngjøring av endelig avgjørelse i sak om administrativ overprøving skal inneholde:registreringsnummer, varemerket og vareklasserinnehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)navn eller foretaksnavn og adresse til den som har levert krav om administrativ overprøving, og eventuelt også fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 27](forskrift/2010-06-25-937/§27) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)dato for kravet om administrativ overprøvinghvilket nummer av Norsk varemerketidende registreringen ble kunngjort iutfallet av den administrative overprøvingenden dag avgjørelsen ble endelig.Ved delvis overprøving kunngjøres den nye varefortegnelsen.
+Kunngjøring av endelig avgjørelse i sak om administrativ overprøving skal inneholde:
+
+1. registreringsnummer, varemerket og vareklasser
+2. innehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 3](forskrift/2010-06-25-937/§3)
+3. navn eller foretaksnavn og adresse til den som har levert krav om administrativ overprøving, og eventuelt også fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 27](forskrift/2010-06-25-937/§27) fjerde punktum jf. [§ 3](forskrift/2010-06-25-937/§3)
+4. dato for kravet om administrativ overprøving
+5. hvilket nummer av Norsk varemerketidende registreringen ble kunngjort i
+6. utfallet av den administrative overprøvingen
+7. den dag avgjørelsen ble endelig.
+
+Ved delvis overprøving kunngjøres den nye varefortegnelsen.
 
 ### § 37. Kunngjøring av beslutning etter varemerkeloven § 80
 
-Kunngjøring etter [varemerkeloven § 80](lov/2010-03-26-8/§80) skal innholde:opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkningopplysninger som nevnt i [§ 29](forskrift/2010-06-25-937/§29) annet ledd nr. 1 til 2.
+Kunngjøring etter [varemerkeloven § 80](lov/2010-03-26-8/§80) skal innholde:
+
+1. opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkning
+2. opplysninger som nevnt i [§ 29](forskrift/2010-06-25-937/§29) annet ledd nr. 1 til 2.
 
 ### § 38. Kunngjøring av fornyelse
 
-Kunngjøring av fornyelse etter [varemerkeloven § 33](lov/2010-03-26-8/§33) skal inneholde:opplysninger som nevnt i [§ 29](forskrift/2010-06-25-937/§29) annet ledd nr. 1 til 4dato for utløpet av fornyelsesperioden.
+Kunngjøring av fornyelse etter [varemerkeloven § 33](lov/2010-03-26-8/§33) skal inneholde:
+
+1. opplysninger som nevnt i [§ 29](forskrift/2010-06-25-937/§29) annet ledd nr. 1 til 4
+2. dato for utløpet av fornyelsesperioden.
 
 ### § 39. Kunngjøring av overføring av retten til varemerket
 
-Kunngjøring av overføring av retten til varemerket skal inneholde:opplysning om at retten til varemerket er overført etter [varemerkeloven § 21](lov/2010-03-26-8/§21) eller [§ 28](lov/2010-03-26-8/§28)søknads- eller registreringsnummernavn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn, samt eventuell særskilt korrespondanseadresse, jf. [§ 3](forskrift/2010-06-25-937/§3), for begge parter i overføringssakenden dag avgjørelsen om overføringen ble endelig.
+Kunngjøring av overføring av retten til varemerket skal inneholde:
+
+1. opplysning om at retten til varemerket er overført etter [varemerkeloven § 21](lov/2010-03-26-8/§21) eller [§ 28](lov/2010-03-26-8/§28)
+2. søknads- eller registreringsnummer
+3. navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn, samt eventuell særskilt korrespondanseadresse, jf. [§ 3](forskrift/2010-06-25-937/§3), for begge parter i overføringssaken
+4. den dag avgjørelsen om overføringen ble endelig.
 
 ### § 40. Kunngjøring av ny varefortegnelse
 
-Kunngjøring av endring av varefortegnelse i et registrert varemerke, jf. [§ 58](forskrift/2010-06-25-937/§58), skal inneholde:registreringsnummer, varemerket og vareklasserinnehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt adresse etter § jf. [§ 3](forskrift/2010-06-25-937/§3)dato for anmerkning av endring i varefortegnelsenden nye varefortegnelsenhvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
+Kunngjøring av endring av varefortegnelse i et registrert varemerke, jf. [§ 58](forskrift/2010-06-25-937/§58), skal inneholde:
+
+1. registreringsnummer, varemerket og vareklasser
+2. innehaverens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt adresse etter § jf. [§ 3](forskrift/2010-06-25-937/§3)
+3. dato for anmerkning av endring i varefortegnelsen
+4. den nye varefortegnelsen
+5. hvilket nummer av Norsk varemerketidende registreringen ble kunngjort i.
 
 ### § 41. Andre kunngjøringer
 
-Patentstyret skal for øvrig kunngjøre:deling av registrering, med angivelse av det opprinnelige registreringsnummeret, de avdelte registreringenes numre, samt opplysning om hvilke varer og tjenester med tilhørende vareklasser som den opprinnelige og den eller de avdelte registreringene skal omfattesammenslåing av registreringer, med angivelse av de avdelte registreringenes numre og det nye registreringsnummeret, samt opplysning om hvilke varer og tjenester med tilhørende vareklasser som registreringen omfatterat registreringen er opphevet etter [varemerkeloven § 30](lov/2010-03-26-8/§30) eller [§ 45](lov/2010-03-26-8/§45), satt til side som ugyldig etter [§ 35](lov/2010-03-26-8/§35) eller slettet etter [§ 36](lov/2010-03-26-8/§36), [§ 37](lov/2010-03-26-8/§37), [§ 43](lov/2010-03-26-8/§43) eller [§ 46](lov/2010-03-26-8/§46)at registreringen er opphørt etter [varemerkeloven § 33](lov/2010-03-26-8/§33)merkeendring etter [varemerkeloven § 34](lov/2010-03-26-8/§34), med angivelse av registreringsnummeret og merket i endret formmelding om overdragelsemelding om lisensmelding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt eventuell endring av særskilt korrespondanseadressemelding om oppnevning, endring og sletting av fullmektigpant, utlegg og arrest i varemerketopphør av virkning for internasjonal registrering hvor Norge er utpekterstatning av en norsk varemerkeregistrering med en internasjonal registrering, jf. [varemerkeloven § 73](lov/2010-03-26-8/§73).Kunngjøring av melding som nevnt i første punktum nr. 6 til 10 skal inneholde dato for da meldingen kom inn til Patentstyret.
+Patentstyret skal for øvrig kunngjøre:
+
+1. deling av registrering, med angivelse av det opprinnelige registreringsnummeret, de avdelte registreringenes numre, samt opplysning om hvilke varer og tjenester med tilhørende vareklasser som den opprinnelige og den eller de avdelte registreringene skal omfatte
+2. sammenslåing av registreringer, med angivelse av de avdelte registreringenes numre og det nye registreringsnummeret, samt opplysning om hvilke varer og tjenester med tilhørende vareklasser som registreringen omfatter
+3. at registreringen er opphevet etter [varemerkeloven § 30](lov/2010-03-26-8/§30) eller [§ 45](lov/2010-03-26-8/§45), satt til side som ugyldig etter [§ 35](lov/2010-03-26-8/§35) eller slettet etter [§ 36](lov/2010-03-26-8/§36), [§ 37](lov/2010-03-26-8/§37), [§ 43](lov/2010-03-26-8/§43) eller [§ 46](lov/2010-03-26-8/§46)
+4. at registreringen er opphørt etter [varemerkeloven § 33](lov/2010-03-26-8/§33)
+5. merkeendring etter [varemerkeloven § 34](lov/2010-03-26-8/§34), med angivelse av registreringsnummeret og merket i endret form
+6. melding om overdragelse
+7. melding om lisens
+8. melding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt eventuell endring av særskilt korrespondanseadresse
+9. melding om oppnevning, endring og sletting av fullmektig
+10. pant, utlegg og arrest i varemerket
+11. opphør av virkning for internasjonal registrering hvor Norge er utpekt
+12. erstatning av en norsk varemerkeregistrering med en internasjonal registrering, jf. [varemerkeloven § 73](lov/2010-03-26-8/§73).
+
+Kunngjøring av melding som nevnt i første punktum nr. 6 til 10 skal inneholde dato for da meldingen kom inn til Patentstyret.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 
@@ -444,7 +616,13 @@ Patentstyret skal varsle innehaver om fristen etter [varemerkeloven § 33](lov/2
 
 Hvis kravet om fornyelse ikke oppfyller vilkårene i [varemerkeloven § 33](lov/2010-03-26-8/§33) første ledd, skal Patentstyret gi innehaveren en frist for retting av forholdet. Rettes ikke forholdet innen fristen avslås kravet.
 
-Blir registreringen fornyet, skal Patentstyret utstede fornyelsesbrev som skal inneholde:registreringsnummerregistreringsdagen og dato for utløpet av fornyelsesperiodeninnehaverens navn eller foretaksnavn og adresse, eventuelt også navn eller foretaksnavn på dennes fullmektig.Fornyelsesbrevet sendes innehaveren eller dennes fullmektig. Hvis det er oppført mer enn én innehaver til det registrerte merket, skal det sendes et fornyelsesbrev til samtlige av disse. For øvrig gjelder [§ 3](forskrift/2010-06-25-937/§3) tilsvarende.
+Blir registreringen fornyet, skal Patentstyret utstede fornyelsesbrev som skal inneholde:
+
+1. registreringsnummer
+2. registreringsdagen og dato for utløpet av fornyelsesperioden
+3. innehaverens navn eller foretaksnavn og adresse, eventuelt også navn eller foretaksnavn på dennes fullmektig.
+
+Fornyelsesbrevet sendes innehaveren eller dennes fullmektig. Hvis det er oppført mer enn én innehaver til det registrerte merket, skal det sendes et fornyelsesbrev til samtlige av disse. For øvrig gjelder [§ 3](forskrift/2010-06-25-937/§3) tilsvarende.
 
 > Endret ved forskrift [17 feb 2023 nr. 261](forskrift/2023-02-17-261) (i kraft 1 mars 2023).
 

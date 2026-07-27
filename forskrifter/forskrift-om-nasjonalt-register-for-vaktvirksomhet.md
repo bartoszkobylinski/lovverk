@@ -32,7 +32,18 @@ Politidirektoratet er behandlingsansvarlig for vaktvirksomhetsregisteret.
 
 ## § 3. Opplysninger som kan registreres
 
-I vaktvirksomhetsregisteret kan det registreres opplysninger som er nødvendige for formålene som nevnt i [§ 1](lov/2001-01-05-1/§1), herunder opplysninger om virksomheter og personer som omhandles i [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3) og [§ 8](lov/2001-01-05-1/§8), somnavn, adresse, fødselsnummer, kjønn, førerkort, statsborgerskap og utlendingsidentifikasjonutdanningarbeidsforhold og vekterens ID-kortopplysninger om gjennomføring og utfallet av vandelskontrollopplysninger om gjennomføring og utfallet av skikkethetsvurdering av personer som nevnt i [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3)opplysninger om resultat av kontroll av virksomheteropplysninger som mottas etter meldeplikten i [vaktvirksomhetsloven § 17](lov/2001-01-05-1/§17)at opplysninger er utlevert etter varslingsplikten i [vaktvirksomhetsloven § 8](lov/2001-01-05-1/§8) tredje ledd eller etter [politiregisterloven § 31](lov/2010-05-28-16/§31), jf. [politiregisterforskriften § 9-7](forskrift/2013-09-20-1097/§9-7) første ledd nr. 6 med tilhørende saksnummer i politiets saksbehandlingssystemopplysninger som gis til andre offentlige myndigheter for at disse skal kunne ivareta meldeplikten etter [vaktvirksomhetsloven § 17](lov/2001-01-05-1/§17)opplysninger som er nødvendige for kontrollfunksjonen etter [vaktvirksomhetsloven § 7](lov/2001-01-05-1/§7).
+I vaktvirksomhetsregisteret kan det registreres opplysninger som er nødvendige for formålene som nevnt i [§ 1](lov/2001-01-05-1/§1), herunder opplysninger om virksomheter og personer som omhandles i [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3) og [§ 8](lov/2001-01-05-1/§8), som
+
+1. navn, adresse, fødselsnummer, kjønn, førerkort, statsborgerskap og utlendingsidentifikasjon
+2. utdanning
+3. arbeidsforhold og vekterens ID-kort
+4. opplysninger om gjennomføring og utfallet av vandelskontroll
+5. opplysninger om gjennomføring og utfallet av skikkethetsvurdering av personer som nevnt i [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3)
+6. opplysninger om resultat av kontroll av virksomheter
+7. opplysninger som mottas etter meldeplikten i [vaktvirksomhetsloven § 17](lov/2001-01-05-1/§17)
+8. at opplysninger er utlevert etter varslingsplikten i [vaktvirksomhetsloven § 8](lov/2001-01-05-1/§8) tredje ledd eller etter [politiregisterloven § 31](lov/2010-05-28-16/§31), jf. [politiregisterforskriften § 9-7](forskrift/2013-09-20-1097/§9-7) første ledd nr. 6 med tilhørende saksnummer i politiets saksbehandlingssystem
+9. opplysninger som gis til andre offentlige myndigheter for at disse skal kunne ivareta meldeplikten etter [vaktvirksomhetsloven § 17](lov/2001-01-05-1/§17)
+10. opplysninger som er nødvendige for kontrollfunksjonen etter [vaktvirksomhetsloven § 7](lov/2001-01-05-1/§7).
 
 ## § 4. Tilgang (adgang til direkte søk)
 

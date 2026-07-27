@@ -28,13 +28,29 @@ Denne forskriften gjelder tinglysings- og matrikkelmyndighetenes utlevering av o
 
 ## § 2. Definisjoner
 
-I denne forskriften betyr:*grunnboken:* statens offisielle register over tinglyste dokumenter som gjelder fast eiendom, samt rettsstiftelser som gjelder borettslagsandeler, jf. [tinglysingsforskriften § 10](forskrift/1995-11-03-875/§10) første ledd*matrikkelen*: statens offisielle register over fast eiendom, herunder bygninger, boliger og adresser, jf. [matrikkellova § 3](lov/2005-06-17-101/§3) bokstav a)*registerenhet:* enhet registrert i matrikkelen eller grunnboken med eget matrikkelnummer eller egen andel i borettslag*virksomhet:* selskap, stiftelse, enkeltpersonforetak eller offentlig organ registrert i enhetsregisteret, unntatt Statens kartverk*behandling av opplysninger*: enhver bruk av opplysninger hentet fra grunnboken og matrikkelen, som f.eks. sammenstilling, lagring, visning, viderebruk og utlevering eller en kombinasjon av slike bruksmåter*tilgangskontroll*: et system for å identifisere og autentisere brukere*skjermingsverdige bygningstyper:* kraftstasjon, transformatorstasjon, annen energiforsyningsbygning eller bygning som har nær tilknytning til eller tjener slik bygning, silobygning, telekommunikasjonsbygning, fengselsbygning eller bygning som har nær tilknytning til eller tjener slik bygning, stasjon for radarovervåking av fly eller skipstrafikk, tilfluktsrom eller bunker, annen beredskapsbygning eller bygning som har nær tilknytning til eller tjener slik bygning.
+I denne forskriften betyr:
+
+1. *grunnboken:* statens offisielle register over tinglyste dokumenter som gjelder fast eiendom, samt rettsstiftelser som gjelder borettslagsandeler, jf. [tinglysingsforskriften § 10](forskrift/1995-11-03-875/§10) første ledd
+2. *matrikkelen*: statens offisielle register over fast eiendom, herunder bygninger, boliger og adresser, jf. [matrikkellova § 3](lov/2005-06-17-101/§3) bokstav a)
+3. *registerenhet:* enhet registrert i matrikkelen eller grunnboken med eget matrikkelnummer eller egen andel i borettslag
+4. *virksomhet:* selskap, stiftelse, enkeltpersonforetak eller offentlig organ registrert i enhetsregisteret, unntatt Statens kartverk
+5. *behandling av opplysninger*: enhver bruk av opplysninger hentet fra grunnboken og matrikkelen, som f.eks. sammenstilling, lagring, visning, viderebruk og utlevering eller en kombinasjon av slike bruksmåter
+6. *tilgangskontroll*: et system for å identifisere og autentisere brukere
+7. *skjermingsverdige bygningstyper:* kraftstasjon, transformatorstasjon, annen energiforsyningsbygning eller bygning som har nær tilknytning til eller tjener slik bygning, silobygning, telekommunikasjonsbygning, fengselsbygning eller bygning som har nær tilknytning til eller tjener slik bygning, stasjon for radarovervåking av fly eller skipstrafikk, tilfluktsrom eller bunker, annen beredskapsbygning eller bygning som har nær tilknytning til eller tjener slik bygning.
 
 ## § 3. Retten til å få oppgitt hva som er registrert i grunnboken og matrikkelen
 
-(1) Statens kartverk skal på forespørselopplyse om hva som er registrert i grunnboken om en bestemt registerenhet, med unntak av opplysninger om personers fødselsnummer og D-nummeropplyse om hva en avdød står registrert med i grunnboken når den som ber om opplysningene kan dokumentere ved skifteattest, formuesfullmakt, bobestyrerattest eller annen nødvendig fullmakt at vedkommende er arving eller kan opptre på vegne av arving.
+(1) Statens kartverk skal på forespørsel
 
-(2) Statens kartverk skal på forespørsel gi følgende opplysninger fra matrikkelen om bestemte matrikkelenheter, adresser eller bygninger:matrikkelnummer, matrikkelenhetstype, areal, grenselinjer, grensepunkt, hjelpelinjer og hjelpepunkt, kulturminner, forurensning i grunnen, referanser til stedfestingsavtaler, avtale eller vedtak om erverv av grunn til offentlig veg eller jernbane og framsatt krav om sak for jordskifteretten,bygningsnummer, næringsgruppe, bygningsstatus og bygningstype med unntak av skjermingsverdige bygningstyper, fredningsvedtak knyttet til SEFRAK-registrert bygning,offisiell adresse og opplysninger om grunnkrets, stemmekrets, kirkesokn, tettsted og postnummer,tilhørende koordinater og sammenheng mellom matrikkelenheter, adresser og bygninger.
+1. opplyse om hva som er registrert i grunnboken om en bestemt registerenhet, med unntak av opplysninger om personers fødselsnummer og D-nummer
+2. opplyse om hva en avdød står registrert med i grunnboken når den som ber om opplysningene kan dokumentere ved skifteattest, formuesfullmakt, bobestyrerattest eller annen nødvendig fullmakt at vedkommende er arving eller kan opptre på vegne av arving.
+
+(2) Statens kartverk skal på forespørsel gi følgende opplysninger fra matrikkelen om bestemte matrikkelenheter, adresser eller bygninger:
+
+1. matrikkelnummer, matrikkelenhetstype, areal, grenselinjer, grensepunkt, hjelpelinjer og hjelpepunkt, kulturminner, forurensning i grunnen, referanser til stedfestingsavtaler, avtale eller vedtak om erverv av grunn til offentlig veg eller jernbane og framsatt krav om sak for jordskifteretten,
+2. bygningsnummer, næringsgruppe, bygningsstatus og bygningstype med unntak av skjermingsverdige bygningstyper, fredningsvedtak knyttet til SEFRAK-registrert bygning,
+3. offisiell adresse og opplysninger om grunnkrets, stemmekrets, kirkesokn, tettsted og postnummer,
+4. tilhørende koordinater og sammenheng mellom matrikkelenheter, adresser og bygninger.
 
 (3) Statens kartverk skal gi den som har berettiget interesse etter [matrikkellova § 30 annet ledd](lov/2005-06-17-101/§30/ledd/2) følgende opplysninger fra matrikkelen: hvem som står oppført som registrert eier og registrert fester og hva som er grunnlaget for oppføringen, bebygd areal, byggeår, antall etasjer og deres bruksareal, heis, bygningshistoriske opplysninger, vannforsyning, avløp, energikilder og oppvarming og pålegg som gjelder bruk av grunn eller bygninger.
 
@@ -50,7 +66,21 @@ I denne forskriften betyr:*grunnboken:* statens offisielle register over tinglys
 
 (2) Tilgang gis på standardvilkår fastsatt av Statens kartverk til virksomhet som har hjemmel til å behandle opplysningene etter denne forskriften.
 
-(3) Følgende virksomheter og virksomheter som videreformidler opplysninger til disse, kan få elektronisk tilgang via et maskinlesbart grensesnitt til alle opplysninger fra grunnboken og matrikkelen, med mindre annet er bestemt i denne forskrift:advokater og jurister som yter rettslig bistand som ledd i næringsvirksomhet og har stilt sikkerhet etter [advokatloven § 68 første ledd](lov/2022-05-12-28/§68/ledd/1),banker,forsikringsselskap,finansieringsforetak,person eller foretak som driver inkassovirksomhet etter [inkassoloven § 4](lov/1988-05-13-26/§4) første ledd,kredittopplysningsforetak,namsmyndighet,staten, kommuner, fylkeskommuner,eiendomsmeglerforetak,statsautoriserte og registrerte revisorer,domstoler,presseorgan etter [medieansvarsloven § 2 første ledd](lov/2020-05-29-59/§2/ledd/1) for bruk til journalistiske formål,andre etter særskilt samtykke fra Statens kartverk.
+(3) Følgende virksomheter og virksomheter som videreformidler opplysninger til disse, kan få elektronisk tilgang via et maskinlesbart grensesnitt til alle opplysninger fra grunnboken og matrikkelen, med mindre annet er bestemt i denne forskrift:
+
+1. advokater og jurister som yter rettslig bistand som ledd i næringsvirksomhet og har stilt sikkerhet etter [advokatloven § 68 første ledd](lov/2022-05-12-28/§68/ledd/1),
+2. banker,
+3. forsikringsselskap,
+4. finansieringsforetak,
+5. person eller foretak som driver inkassovirksomhet etter [inkassoloven § 4](lov/1988-05-13-26/§4) første ledd,
+6. kredittopplysningsforetak,
+7. namsmyndighet,
+8. staten, kommuner, fylkeskommuner,
+9. eiendomsmeglerforetak,
+10. statsautoriserte og registrerte revisorer,
+11. domstoler,
+12. presseorgan etter [medieansvarsloven § 2 første ledd](lov/2020-05-29-59/§2/ledd/1) for bruk til journalistiske formål,
+13. andre etter særskilt samtykke fra Statens kartverk.
 
 (4) Virksomhet som kan dokumentere berettiget interesse eller som videreformidler opplysninger til noen med slik interesse, kan gis elektronisk tilgang via et maskinlesbart grensesnitt til opplysninger fra grunnboken, med unntak av fødselsnummer, D-nummer og pengeheftelser som er knyttet til slike nummer. Undervisnings- eller forskningsformål anses som berettiget interesse.
 
@@ -116,7 +146,11 @@ I denne forskriften betyr:*grunnboken:* statens offisielle register over tinglys
 
 ## § 9. Klage
 
-(1) Følgende vedtak fattet av Statens kartverk, kan påklages til departementet etter kapittel IV til VI i [forvaltningsloven:](lov/1967-02-10/kapiv)avslag på tilgang til opplysninger fra grunnboken og matrikkelen etter [§ 3](forskrift/2013-12-18-1599/§3), [§ 4](forskrift/2013-12-18-1599/§4) og [§ 5](forskrift/2013-12-18-1599/§5),stenging av tilgang til opplysninger etter [§ 6](forskrift/2013-12-18-1599/§6) ogfastsetting av betaling etter [§ 8](forskrift/2013-12-18-1599/§8) når betalingen ikke framgår av regulativ godkjent av departementet.
+(1) Følgende vedtak fattet av Statens kartverk, kan påklages til departementet etter kapittel IV til VI i [forvaltningsloven:](lov/1967-02-10/kapiv)
+
+1. avslag på tilgang til opplysninger fra grunnboken og matrikkelen etter [§ 3](forskrift/2013-12-18-1599/§3), [§ 4](forskrift/2013-12-18-1599/§4) og [§ 5](forskrift/2013-12-18-1599/§5),
+2. stenging av tilgang til opplysninger etter [§ 6](forskrift/2013-12-18-1599/§6) og
+3. fastsetting av betaling etter [§ 8](forskrift/2013-12-18-1599/§8) når betalingen ikke framgår av regulativ godkjent av departementet.
 
 > Endret ved [forskrifter 31 mars 2014 nr. 375](forskrift/2014-03-31-375), [27 feb 2019 nr. 158](forskrift/2019-02-27-158) (i kraft 1 april 2019).
 

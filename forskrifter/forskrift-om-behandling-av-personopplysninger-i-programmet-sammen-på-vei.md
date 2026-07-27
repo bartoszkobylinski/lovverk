@@ -26,7 +26,13 @@ eu_basis: []
 
 Programmet Sammen på vei skal gi tilpasset sosial- og helsemessig oppfølging, veiledning, råd og emosjonell støtte til foreldre i en sårbar situasjon slik at de kan utvikle seg til å bli gode, trygge og omsorgsfulle foreldre. Programmet skal gjennom dette også bidra til å fremme sunne svangerskap, fremme barns helse og utvikling og forbedre familiens livssituasjon.
 
-Formålet med behandling av personopplysninger i utprøvingen av programmet Sammen på vei er åutføre den helsemessige oppfølgingen og veiledningstjenesten som programmet består i, jf. første leddkunne tilpasse tilbudet til den enkelte families behov og forutsetningerutarbeide anonymisert statistikk og rapporteroppfylle de dokumentasjons- og rapporteringskravene som følger av lisensenevaluere gjennomføringen og effekten av programmet i Norge gjennom forskning.
+Formålet med behandling av personopplysninger i utprøvingen av programmet Sammen på vei er å
+
+1. utføre den helsemessige oppfølgingen og veiledningstjenesten som programmet består i, jf. første ledd
+2. kunne tilpasse tilbudet til den enkelte families behov og forutsetninger
+3. utarbeide anonymisert statistikk og rapporter
+4. oppfylle de dokumentasjons- og rapporteringskravene som følger av lisensen
+5. evaluere gjennomføringen og effekten av programmet i Norge gjennom forskning.
 
 ## § 2. Behandlingsansvarlig og databehandlere
 
@@ -42,7 +48,30 @@ Den som gjennomfører forskning i henhold til [§ 1](forskrift/2024-06-13-1053/�
 
 ## § 4. Behandling av personopplysninger i programmet Sammen på vei
 
-Personopplysninger om deltakerne i programmet og deres barn, herunder særlige kategorier av personopplysninger jf. [personvernforordningens artikkel 9](lov/2018-06-15-38/gdpr/a9), kan behandles når det er nødvendig for å oppnå formålet etter [§ 1](forskrift/2024-06-13-1053/§1) andre ledd bokstav a til e. Følgende personopplysninger kan behandles:navnadressefødselsdatokontaktinformasjonbakgrunnsinformasjon/familiehistoriefamilie og bekjentskapskretsskolegang, utdannelse og arbeidfremtidsønsker og utsikterøkonomiske forhold og forutsetningeropplysninger om relasjoner mellom foreldre, foreldre og barn og foreldre og andrevideoopptak av forelder og barnomsorgsevne/kompetanse, mestringsfølelseoppfølging av og innstilling til programmetantall hjemmebesøkdemografiske opplysningerhelseopplysninger om foreldre, herunder opplysninger om røyking, alkohol og andre rusmidler, samt opplysninger om uhell/ulykkerhelseopplysninger om barnet, herunder skaderoppfølgingstjenester fra det offentligeseksuelle forholdetnisk opprinnelseadferdsopplysningerstraffedommer og lovovertredelser, jf. [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10).
+Personopplysninger om deltakerne i programmet og deres barn, herunder særlige kategorier av personopplysninger jf. [personvernforordningens artikkel 9](lov/2018-06-15-38/gdpr/a9), kan behandles når det er nødvendig for å oppnå formålet etter [§ 1](forskrift/2024-06-13-1053/§1) andre ledd bokstav a til e. Følgende personopplysninger kan behandles:
+
+1. navn
+2. adresse
+3. fødselsdato
+4. kontaktinformasjon
+5. bakgrunnsinformasjon/familiehistorie
+6. familie og bekjentskapskrets
+7. skolegang, utdannelse og arbeid
+8. fremtidsønsker og utsikter
+9. økonomiske forhold og forutsetninger
+10. opplysninger om relasjoner mellom foreldre, foreldre og barn og foreldre og andre
+11. videoopptak av forelder og barn
+12. omsorgsevne/kompetanse, mestringsfølelse
+13. oppfølging av og innstilling til programmet
+14. antall hjemmebesøk
+15. demografiske opplysninger
+16. helseopplysninger om foreldre, herunder opplysninger om røyking, alkohol og andre rusmidler, samt opplysninger om uhell/ulykker
+17. helseopplysninger om barnet, herunder skader
+18. oppfølgingstjenester fra det offentlige
+19. seksuelle forhold
+20. etnisk opprinnelse
+21. adferdsopplysninger
+22. straffedommer og lovovertredelser, jf. [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10).
 
 For behandling av personopplysninger som nevnt i første ledd om andre enn deltakerne og deres barn, kreves også at slik behandling er nødvendig for å belyse situasjonen til deltakeren og barnet. Det må blant annet vurderes om det er nødvendig å spesifisere hvem opplysningene gjelder.
 

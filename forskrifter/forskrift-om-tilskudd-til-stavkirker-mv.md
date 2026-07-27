@@ -44,13 +44,22 @@ Det kan gis tilskudd til konservering, dokumentasjon, skjøtsel, vedlikehold ell
 
 Fylkeskommunen fastsetter tilskuddet etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å opprettholde eller forbedre ruinenes tilstand. For samiske kulturminner fastsetter Sametinget tilskuddet tilsvarende. Tilskudd til tiltak som gjelder middelalderruiner i Oslo, Tønsberg, Bergen og Trondheim, fastsettes av Riksantikvaren.
 
-Ved fastsettelsen av tilskuddet skal det særlig legges vekt på omruinene er i en tilstand der ordinært vedlikehold er tilstrekkeligdet er utarbeidet oppdaterte planer og avtaler for skjøtsel, vedlikehold og overvåking av ruinenedet foreligger oppdatert dokumentasjon av de enkelte ruineneruinene er tilgjengelige for besøkende og det er knyttet oppdatert informasjon til stedetdet finnes relevant og oppdatert kompetanse om konservering og murskjøtsel i regionen.
+Ved fastsettelsen av tilskuddet skal det særlig legges vekt på om
+
+1. ruinene er i en tilstand der ordinært vedlikehold er tilstrekkelig
+2. det er utarbeidet oppdaterte planer og avtaler for skjøtsel, vedlikehold og overvåking av ruinene
+3. det foreligger oppdatert dokumentasjon av de enkelte ruinene
+4. ruinene er tilgjengelige for besøkende og det er knyttet oppdatert informasjon til stedet
+5. det finnes relevant og oppdatert kompetanse om konservering og murskjøtsel i regionen.
 
 Tiltak som allerede er igangsatt, skal prioriteres. Det skal legges til rette for tiltak som bidrar til å opprettholde kompetanse om konservering og skjøtsel av mur.
 
 ### § 4. Istandsetting av fredete middelalderhus fra før 1537
 
-Det kan gis tilskudd tilsikring, istandsetting og tyngre vedlikehold av fredete middelalderhus fra før 1537 som bidrar til å ivareta et normalt vedlikeholdsnivå, samtidig som bygningenes kildeverdi blir ivaretatttiltak som bidrar til dokumentasjon, kunnskapsutvikling eller forskning om middelalderbygninger.
+Det kan gis tilskudd til
+
+1. sikring, istandsetting og tyngre vedlikehold av fredete middelalderhus fra før 1537 som bidrar til å ivareta et normalt vedlikeholdsnivå, samtidig som bygningenes kildeverdi blir ivaretatt
+2. tiltak som bidrar til dokumentasjon, kunnskapsutvikling eller forskning om middelalderbygninger.
 
 Fylkeskommunen fastsetter tilskuddet etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å bringe middelalderhusene til et normalt vedlikeholdsnivå og ivareta bygningenes kildeverdi. For samiske kulturminner fastsetter Sametinget tilskuddet tilsvarende.
 
@@ -68,7 +77,12 @@ Riksantikvaren kan innenfor årlige budsjettvedtak gjøre nærmere prioriteringe
 
 Det kan gis tilskudd til bygg og anlegg innenfor tette trehusområder av kulturhistorisk verdi, til tiltak som bidrar til at brann oppdages raskt, hindrer spredning og tilrettelegger for enkel slukking, herunder til å utarbeide brannsikringsplan.
 
-Fylkeskommunen, eller Sametinget for samiske kulturminner, fastsetter tilskuddet ut fra følgende prioriteringer:den kulturhistoriske verdien til trehusområdenehvor tilgjengelig området er for brannvesenet, og risikoen for at en brann vil spre seghvor effektive tiltakene anses å være for å oppdage, hindre spredning og slukke brann, særlig i områder der det er stor avstand til brannvesenetom det prøves ut nye metoder som har overføringsverdi til andre områder.
+Fylkeskommunen, eller Sametinget for samiske kulturminner, fastsetter tilskuddet ut fra følgende prioriteringer:
+
+1. den kulturhistoriske verdien til trehusområdene
+2. hvor tilgjengelig området er for brannvesenet, og risikoen for at en brann vil spre seg
+3. hvor effektive tiltakene anses å være for å oppdage, hindre spredning og slukke brann, særlig i områder der det er stor avstand til brannvesenet
+4. om det prøves ut nye metoder som har overføringsverdi til andre områder.
 
 ### § 7. Brannsikring av middelalderkirker i stein
 
@@ -82,7 +96,10 @@ Riksantikvaren kan innenfor årlige budsjettvedtak gjøre nærmere prioriteringe
 
 Det kan gis tilskudd til prosjektering, sikring, konservering, reise og opphold, transport, forsikring, rapportering og formidling av kirkekunst som ledd i konserverings- og sikringsarbeid der en fagutdannet konservator er gitt oppdrag. Med kirkekunst menes inventar, kunst og dekor i kirkebygg.
 
-Riksantikvaren fastsetter tilskuddet på grunnlag avkunstens verdi, alder og tilstandi hvilken grad tiltaket bidrar til å ivareta kirkekunst og til å sikre at kunsten er på et ordinært vedlikeholdsnivå.
+Riksantikvaren fastsetter tilskuddet på grunnlag av
+
+1. kunstens verdi, alder og tilstand
+2. i hvilken grad tiltaket bidrar til å ivareta kirkekunst og til å sikre at kunsten er på et ordinært vedlikeholdsnivå.
 
 Riksantikvaren kan innenfor årlige budsjettvedtak gjøre nærmere prioriteringer av innsatsområder som omfattes av tilskuddsordningen.
 
@@ -92,19 +109,41 @@ Riksantikvaren kan innenfor årlige budsjettvedtak gjøre nærmere prioriteringe
 
 Søknad etter [§ 3](forskrift/2021-08-13-2510/§3), [§ 4](forskrift/2021-08-13-2510/§4) og [§ 6](forskrift/2021-08-13-2510/§6) skal sendes til fylkeskommunen. For samiske kulturminner skal søknad etter [§ 3](forskrift/2021-08-13-2510/§3), [§ 4](forskrift/2021-08-13-2510/§4) og [§ 6](forskrift/2021-08-13-2510/§6) sendes til Sametinget. Søknad etter [§ 2](forskrift/2021-08-13-2510/§2), [§ 5](forskrift/2021-08-13-2510/§5), [§ 7](forskrift/2021-08-13-2510/§7) og [§ 8](forskrift/2021-08-13-2510/§8), samt søknad etter [§ 3](forskrift/2021-08-13-2510/§3) om tilskudd til tiltak som gjelder middelalderruiner i Oslo, Tønsberg, Bergen og Trondheim, skal sendes til Riksantikvaren. Søknadsfristen er 1. november hvert år.
 
-Søknaden skal angisøkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersoninformasjon om kulturminnet og prosjektet det søkes tilskudd tilhvilke arbeider som planlegges gjennomført, hvordan de planlegges gjennomført og hvilke antikvariske hensyn som skal ivaretasplan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplankostnadsoverslag og budsjettom og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende årom søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+Søknaden skal angi
+
+1. søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. informasjon om kulturminnet og prosjektet det søkes tilskudd til
+3. hvilke arbeider som planlegges gjennomført, hvordan de planlegges gjennomført og hvilke antikvariske hensyn som skal ivaretas
+4. plan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplan
+5. kostnadsoverslag og budsjett
+6. om og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende år
+7. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 
 ### § 10. Rett til å innhente ytterligere opplysninger. Søkers opplysningsplikt
 
-Riksantikvaren, fylkeskommunen eller Sametinget kan som søknadsmottakerkreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereforeta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Riksantikvaren, fylkeskommunen eller Sametinget kan som søknadsmottaker
+
+1. kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. foreta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ### § 11. Tilskuddsbrevet
 
-Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse omtilskuddsbeløpethva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddetkrav til rapportering og dokumentasjon etter [§ 14](forskrift/2021-08-13-2510/§14)tilskuddsmottakerens plikter etter [§ 12](forskrift/2021-08-13-2510/§12)reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
+Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse om
+
+1. tilskuddsbeløpet
+2. hva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddet
+3. krav til rapportering og dokumentasjon etter [§ 14](forskrift/2021-08-13-2510/§14)
+4. tilskuddsmottakerens plikter etter [§ 12](forskrift/2021-08-13-2510/§12)
+5. reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
 
 ### § 12. Tilskuddsmottakerens plikter
 
-Tilskuddsmottaker skalinformere Riksantikvaren, fylkeskommunen eller Sametinget som tilskuddsgiver om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaketgjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddetoppbevare regnskap med bilag i 3 år etter siste utbetaling.
+Tilskuddsmottaker skal
+
+1. informere Riksantikvaren, fylkeskommunen eller Sametinget som tilskuddsgiver om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaket
+2. gjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet
+3. oppbevare regnskap med bilag i 3 år etter siste utbetaling.
 
 Tilskuddsmottakere skal bare bruke tilskuddet til aktiviteter tildelingsvedtaket omfatter. Tilskuddsmottakere som driver økonomisk aktivitet, skal føre separat regnskap for de aktivitetene det ytes tilskudd til.
 
@@ -114,13 +153,22 @@ Tilskudd betales som hovedregel ut etterskuddsvis for dokumenterte utgifter på 
 
 ### § 14. Rapporteringsplikter
 
-Etter at tiltaket er gjennomført, skal tilskuddsmottaker levere en sluttrapport til Riksantikvaren, fylkeskommunen eller Sametinget som tilskuddsgiver, som påser at arbeidene er utført i samsvar med vilkårene for tilskuddet. Sluttrapporten skal foreligge senest tre måneder etter at tiltaket er gjennomført, og skal inneholderegnskapsoversikt over kostnader og finansiering, oppsatt i henhold til omsøkt budsjett, og hvor avvik er forklartorientering om tiltaket er gjennomført i henhold til vilkår for tilskuddetredegjørelse for hele prosjektet og rapport for utført arbeiddokumentasjon av tiltaket fra før, under og etter arbeidet.
+Etter at tiltaket er gjennomført, skal tilskuddsmottaker levere en sluttrapport til Riksantikvaren, fylkeskommunen eller Sametinget som tilskuddsgiver, som påser at arbeidene er utført i samsvar med vilkårene for tilskuddet. Sluttrapporten skal foreligge senest tre måneder etter at tiltaket er gjennomført, og skal inneholde
+
+1. regnskapsoversikt over kostnader og finansiering, oppsatt i henhold til omsøkt budsjett, og hvor avvik er forklart
+2. orientering om tiltaket er gjennomført i henhold til vilkår for tilskuddet
+3. redegjørelse for hele prosjektet og rapport for utført arbeid
+4. dokumentasjon av tiltaket fra før, under og etter arbeidet.
 
 Det kan gjøres unntak fra kravet om frist for sluttrapport dersom særlige grunner taler for det.
 
 ### § 15. Kontroll med betingelser og vilkår – rett til opplysninger
 
-Riksantikvaren, fylkeskommunen eller Sametinget kan som tilskuddsgiver kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom åkreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenegjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
+Riksantikvaren, fylkeskommunen eller Sametinget kan som tilskuddsgiver kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom å
+
+1. kreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
 
 ### § 16. Kontroll med fylkeskommunen og Sametinget som tilskuddsforvalter
 

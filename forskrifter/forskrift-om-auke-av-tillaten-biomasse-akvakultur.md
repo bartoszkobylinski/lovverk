@@ -36,7 +36,11 @@ Tilbodet skal offentleggjerast på fylkeskommunane og Fiskeridirektoratet sine i
 
 Fylkeskommunane skal også seinast 5. juli 2015 kunngjere tilbodet i brev til innehavarar av akvakulturløyve som står i akvakulturregisteret på det tidspunktet. Brevet kan sendast elektronisk.
 
-Kunngjeringa skal minimum innehalde følgjande:Krav til søknad og frist for innsending.Informasjon om vederlag og innbetaling av dette.Informasjon om vilkår for utviding av løyve.
+Kunngjeringa skal minimum innehalde følgjande:
+
+1. Krav til søknad og frist for innsending.
+2. Informasjon om vederlag og innbetaling av dette.
+3. Informasjon om vilkår for utviding av løyve.
 
 ## § 4. Søknad
 
@@ -46,7 +50,11 @@ Det skal ikkje betalast søknadsgebyr for søknad etter denne forskrifta.
 
 ## § 5. Vederlag
 
-For utviding av løyve etter denne forskrifta skal det betalast vederlag til staten:For løyve i Troms og Finnmark som er avgrensa til 945 tonn er vederlaget 1 000 000 kroner.For løyve i resten av landet, som er avgrensa til 780 tonn, er vederlaget 1 000 000 kroner.For løyve med anna avgrensing enn nemnd i bokstav a og b, er vederlaget 25 500 kroner per tonn løyvet blir utvida med.
+For utviding av løyve etter denne forskrifta skal det betalast vederlag til staten:
+
+1. For løyve i Troms og Finnmark som er avgrensa til 945 tonn er vederlaget 1 000 000 kroner.
+2. For løyve i resten av landet, som er avgrensa til 780 tonn, er vederlaget 1 000 000 kroner.
+3. For løyve med anna avgrensing enn nemnd i bokstav a og b, er vederlaget 25 500 kroner per tonn løyvet blir utvida med.
 
 Vederlaget skal betalast til Fiskeridirektorat, Økonomiseksjonen, Postboks 185 Sentrum, 5804 Bergen, kontonummer 7694 05 09048, og vere merka «Vederlag 2015 – [nummer på løyve]». Frist for innbetaling er den same som for innsending av melding etter [§ 8](forskrift/2015-06-17-817/§8) tredje ledd.
 
@@ -64,7 +72,11 @@ Søknaden skal førast på fastsette skjema og minimum innehalde informasjon om 
 
 ## § 7. Vilkår
 
-Løyve nemnd i [§ 6](forskrift/2015-06-17-817/§6) siste ledd får følgjande vilkår, dersom fylkeskommunen gjer positivt vedtak etter [§ 8](forskrift/2015-06-17-817/§8) andre ledd:Det skal heile tida vere færre enn 0,2 vaksne holus av lakselus (*Lepeophtheirus salmonis*) i gjennomsnitt per fisk.[Forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg gjeld, med unnatak for [§ 6](forskrift/2012-12-05-1140/§6) andre ledd siste punktum, då teljing av lakselus skal gjennomførast i samsvar med vedlegg 1 til denne forskrifta.Grensa i bokstav a skal haldast ved bruk av maksimalt 2 medikamentelle behandlingar mot lakselus per produksjonssyklus.
+Løyve nemnd i [§ 6](forskrift/2015-06-17-817/§6) siste ledd får følgjande vilkår, dersom fylkeskommunen gjer positivt vedtak etter [§ 8](forskrift/2015-06-17-817/§8) andre ledd:
+
+1. Det skal heile tida vere færre enn 0,2 vaksne holus av lakselus (*Lepeophtheirus salmonis*) i gjennomsnitt per fisk.
+2. [Forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg gjeld, med unnatak for [§ 6](forskrift/2012-12-05-1140/§6) andre ledd siste punktum, då teljing av lakselus skal gjennomførast i samsvar med vedlegg 1 til denne forskrifta.
+3. Grensa i bokstav a skal haldast ved bruk av maksimalt 2 medikamentelle behandlingar mot lakselus per produksjonssyklus.
 
 Krava i bokstavane a) til c) gjeld på alle lokalitetar som er knytt til løyve som har fått auka MTB etter denne forskrifta. Grensa gjeld fram til lokaliteten blir lagd brakk etter avslutta produksjonssyklus, sjølv om løyve som har fått auka MTB etter denne forskrifta ikkje lenger er knytt til lokaliteten.
 
@@ -100,7 +112,10 @@ Dette gjeld uavhengig av kor mange lokalitetar brota har skjedd på. Vederlag so
 
 Brot på vilkår etter [§ 7](forskrift/2015-06-17-817/§7) kan bli møtt med reaksjonar og sanksjonar etter [lov 17. juni 2005 nr. 79](lov/2005-06-17-79) om akvakultur.
 
-Det er brot på vilkåra i [§ 7](forskrift/2015-06-17-817/§7) når det etter teljemetoden som er skildra i vedlegg 1 er:meir enn 0,20, men mindre enn 0,30, vaksne holus i snitt i tre veker etter kvarandre.0,3 eller fleire vaksne holus ved ei teljing.
+Det er brot på vilkåra i [§ 7](forskrift/2015-06-17-817/§7) når det etter teljemetoden som er skildra i vedlegg 1 er:
+
+1. meir enn 0,20, men mindre enn 0,30, vaksne holus i snitt i tre veker etter kvarandre.
+2. 0,3 eller fleire vaksne holus ved ei teljing.
 
 Lovbrotsgebyr skal ikkje overstige 15 gongar grunnsummen til folketrygda. Det blir teke utgangspunkt i grunnsummen til folketrygda på tidspunktet for brotet.
 
@@ -116,7 +131,11 @@ Denne forskrifta tek til å gjelde straks.
 
 ## Vedlegg 1. Krav til rutinar for teljing av lakselus
 
-1. Det skal teljast lakselus i følgjande tre stadiegrupper:vaksen holus,bevegelege stadium, ogfastsitjande stadium.
+1. Det skal teljast lakselus i følgjande tre stadiegrupper:
+
+   1. vaksen holus,
+   2. bevegelege stadium, og
+   3. fastsitjande stadium.
 2. I akvakulturanlegg med fleire enn tre merdar skal minst halvparten av merdane undersøkjast kvar gong, og på ein slik måte at ein gjennom to ordinære teljingar får undersøkt alle merdane i akvakulturanlegget. Dersom akvakulturanlegget har tre eller færre merdar, skal alle merdar undersøkjast ved kvar teljing.
 3. Det skal teljast lakselus på minst 20 tilfeldige fisk frå alle dei utvalde merdane i akvakulturanlegget ved kvar teljing. Fisken skal fangast inn med orkastnot eller annan metode som sikrar eit representativt utval av fisk. Fisken skal bedøvast før teljinga. Det skal vere maksimalt fem fiskar om gongen i bedøvingskaret.
 4. Fisken er tilstrekkeleg bedøvd når han ikkje slår med halen når ein løftar han. Ein og ein fisk skal takast opp og undersøkjast nøye.

@@ -32,7 +32,19 @@ Bestemmelsene i avtalen 2. april 2019 om ordninger for borgernes rettigheter mel
 
 ## § 3. Derogasjonsadgang
 
-Bestemmelsene i følgende lover kan fravikes i den utstrekning det er nødvendig for gjennomføringen av [§ 2](forskrift/2019-04-10-476/§2):[lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn[lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse[lov 28. juni 1957 nr. 12](lov/1957-06-28-12) om pensjonstrygd for fiskere[lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere[lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd[lov 26. juni 1998 nr. 41](lov/1998-06-26-41) om kontantstøtte til småbarnsforeldre[lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m.[lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter[lov 8. mars 2002 nr. 4](lov/2002-03-08-4) om barnetrygd[lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m.[lov 21. juni 2013 nr. 102](lov/2013-06-21-102) om stillingsvern mv. for arbeidstakere på skip.
+Bestemmelsene i følgende lover kan fravikes i den utstrekning det er nødvendig for gjennomføringen av [§ 2](forskrift/2019-04-10-476/§2):
+
+1. [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn
+2. [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse
+3. [lov 28. juni 1957 nr. 12](lov/1957-06-28-12) om pensjonstrygd for fiskere
+4. [lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere
+5. [lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd
+6. [lov 26. juni 1998 nr. 41](lov/1998-06-26-41) om kontantstøtte til småbarnsforeldre
+7. [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m.
+8. [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter
+9. [lov 8. mars 2002 nr. 4](lov/2002-03-08-4) om barnetrygd
+10. [lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m.
+11. [lov 21. juni 2013 nr. 102](lov/2013-06-21-102) om stillingsvern mv. for arbeidstakere på skip.
 
 ## § 4. Ikrafttredelse
 

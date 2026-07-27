@@ -40,7 +40,11 @@ Forskriften gjelder også for virksomheter som ikke sysselsetter arbeidstakere.
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med:*arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,*bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold,*gamle traktorer:* traktorer som brukes eller ventelig vil bli brukt i virksomhet som kommer inn under arbeidsmiljøloven, som veier 500 kg eller mer, og som er levert før 1. september 1964 eller importert utenom forhandler før 1. januar 1967.
+I denne forskriften menes med:
+
+1. *arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,
+2. *bruk av arbeidsutstyr:* arbeidsoperasjoner som igangsetting, stans, montering og demontering, transport, bruk, overvåking, ettersyn, reparasjon, vedlikehold, pass og renhold,
+3. *gamle traktorer:* traktorer som brukes eller ventelig vil bli brukt i virksomhet som kommer inn under arbeidsmiljøloven, som veier 500 kg eller mer, og som er levert før 1. september 1964 eller importert utenom forhandler før 1. januar 1967.
 
 ## Kapittel 2. Godkjenning av bedriftshelsetjeneste
 
@@ -50,7 +54,13 @@ Bedriftshelsetjeneste som skal bistå arbeidsgiver jf. [forskrift om organiserin
 
 ### § 2-2. Krav for å bli godkjent
 
-For å bli godkjent må bedriftshelsetjenesten:samlet sett være i stand til å gi en helhetlig, forebyggende og risikobasert bistand i det systematiske helse-, miljø- og sikkerhetsarbeidet, jf. [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3) og [forskrift om organisering, ledelse og medvirkning kapittel 13](forskrift/2011-12-06-1355/kap13)ha et kvalitetssystem som sikrer at bedriftshelsetjenesten bistår arbeidsgiver som beskrevet i [forskrift om organisering, ledelse og medvirkning kapittel 13](forskrift/2011-12-06-1355/kap13) på tilfredsstillende måteha et kvalitetssystem som sikrer kompetanseutvikling for bedriftshelsetjenestens personaleha en sammensetning og et faglig personale som er i stand til å gi rådgivning innen følgende kompetanseområder: arbeidsmedisin/arbeidshelse, yrkeshygiene, ergonomi, psykososialt og organisatorisk arbeidsmiljø og systematisk HMS-arbeidha et faglig personale som dekker minimum tre årsverk. De enkelte fagområder (arbeidsmedisin, yrkeshygiene, ergonomi og psykososialt-organisatorisk) må være dekket med minimum 30 % av et årsverk.
+For å bli godkjent må bedriftshelsetjenesten:
+
+1. samlet sett være i stand til å gi en helhetlig, forebyggende og risikobasert bistand i det systematiske helse-, miljø- og sikkerhetsarbeidet, jf. [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3) og [forskrift om organisering, ledelse og medvirkning kapittel 13](forskrift/2011-12-06-1355/kap13)
+2. ha et kvalitetssystem som sikrer at bedriftshelsetjenesten bistår arbeidsgiver som beskrevet i [forskrift om organisering, ledelse og medvirkning kapittel 13](forskrift/2011-12-06-1355/kap13) på tilfredsstillende måte
+3. ha et kvalitetssystem som sikrer kompetanseutvikling for bedriftshelsetjenestens personale
+4. ha en sammensetning og et faglig personale som er i stand til å gi rådgivning innen følgende kompetanseområder: arbeidsmedisin/arbeidshelse, yrkeshygiene, ergonomi, psykososialt og organisatorisk arbeidsmiljø og systematisk HMS-arbeid
+5. ha et faglig personale som dekker minimum tre årsverk. De enkelte fagområder (arbeidsmedisin, yrkeshygiene, ergonomi og psykososialt-organisatorisk) må være dekket med minimum 30 % av et årsverk.
 
 Arbeidstilsynet kan i særlige tilfeller godkjenne en bedriftshelsetjeneste som ikke oppfyller kravene i første ledd bokstav d og e.
 
@@ -58,7 +68,10 @@ Arbeidstilsynet kan i særlige tilfeller godkjenne en bedriftshelsetjeneste som 
 
 ### § 2-3. Krav til obligatorisk opplæring om bedriftshelsetjenestens formål og rolle
 
-Bedriftshelsetjenesten skal sørge for at bedriftshelsetjenestens personale, herunder innleid personale og selvstendige, får obligatorisk opplæring om bedriftshelsetjenestens formål og rolle. Opplæringen skalgi bedriftshelsetjenestens personale forståelse for det juridiske grunnlaget for bedriftshelsetjenestengi bedriftshelsetjenestens personale forståelse for bedriftshelsetjenestens oppdrag og kjerneoppgaver.
+Bedriftshelsetjenesten skal sørge for at bedriftshelsetjenestens personale, herunder innleid personale og selvstendige, får obligatorisk opplæring om bedriftshelsetjenestens formål og rolle. Opplæringen skal
+
+1. gi bedriftshelsetjenestens personale forståelse for det juridiske grunnlaget for bedriftshelsetjenesten
+2. gi bedriftshelsetjenestens personale forståelse for bedriftshelsetjenestens oppdrag og kjerneoppgaver.
 
 Annen utdanning eller opplæring med tilsvarende innhold kan erstatte den obligatoriske opplæringen.
 
@@ -248,7 +261,16 @@ Arbeidstilsynet godtar teknisk kontrollorgan som skal typegodkjenne førervernet
 
 Arbeidstilsynet skal utpeke sertifiseringsorgan som skal sertifisere opplæringsvirksomhet for bruk av arbeidsutstyr.
 
-For å bli utpekt som sertifiseringsorgan, skal følgende krav oppfylles:sertifiseringsorganet skal ha det nødvendige personale til rådighet, og skal ha de hjelpemidler som trengs for å kunne utføre administrative og tekniske oppgaver i forbindelse med sertifiseringen på forsvarlig måte,sertifiseringsorganet skal utføre sertifiseringen med størst mulig faglig integritet og dyktighet. Personalet skal ikke la seg utsette for noen form for påtrykk eller tilskyndelser, særlig av økonomisk art, som kan påvirke vurderingen eller resultatene av sertifiseringen,sertifiseringsorganet, dets leder og personalet som skal utføre sertifiseringen, skal ikke drive opplæringsvirksomhet eller delta i opplæring,sertifiseringsorganet skal ha prosedyrer for å kunne bedømme, innvilge, opprettholde, utvide, oppheve og trekke tilbake sertifisering,det personalet som skal utføre sertifiseringen skal ha god teknisk og faglig bakgrunn, tilstrekkelig kjennskap til og erfaring med bruk av det arbeidsutstyret som sikkerhetsopplæringen omfatter og den ferdighet som kreves for å kunne utferdige sertifikater,sertifiseringsorganets personale skal være upartiske og objektive. Personalets avlønning skal ikke være avhengig av antall sertifiseringer som blir utført, eller av resultatene,sertifiseringsorganet skal tegne ansvarsforsikring,sertifiseringsorganet har taushetsplikt med hensyn til alle opplysninger det får kjennskap til under utførelsen av sitt arbeid. Dette gjelder ikke overfor de myndigheter som fører tilsyn med forskriften.
+For å bli utpekt som sertifiseringsorgan, skal følgende krav oppfylles:
+
+1. sertifiseringsorganet skal ha det nødvendige personale til rådighet, og skal ha de hjelpemidler som trengs for å kunne utføre administrative og tekniske oppgaver i forbindelse med sertifiseringen på forsvarlig måte,
+2. sertifiseringsorganet skal utføre sertifiseringen med størst mulig faglig integritet og dyktighet. Personalet skal ikke la seg utsette for noen form for påtrykk eller tilskyndelser, særlig av økonomisk art, som kan påvirke vurderingen eller resultatene av sertifiseringen,
+3. sertifiseringsorganet, dets leder og personalet som skal utføre sertifiseringen, skal ikke drive opplæringsvirksomhet eller delta i opplæring,
+4. sertifiseringsorganet skal ha prosedyrer for å kunne bedømme, innvilge, opprettholde, utvide, oppheve og trekke tilbake sertifisering,
+5. det personalet som skal utføre sertifiseringen skal ha god teknisk og faglig bakgrunn, tilstrekkelig kjennskap til og erfaring med bruk av det arbeidsutstyret som sikkerhetsopplæringen omfatter og den ferdighet som kreves for å kunne utferdige sertifikater,
+6. sertifiseringsorganets personale skal være upartiske og objektive. Personalets avlønning skal ikke være avhengig av antall sertifiseringer som blir utført, eller av resultatene,
+7. sertifiseringsorganet skal tegne ansvarsforsikring,
+8. sertifiseringsorganet har taushetsplikt med hensyn til alle opplysninger det får kjennskap til under utførelsen av sitt arbeid. Dette gjelder ikke overfor de myndigheter som fører tilsyn med forskriften.
 
 Arbeidstilsynet kan gi pålegg om retting innen en fastsatt frist eller trekke tilbake utpekingen, dersom et sertifiseringsorgan ikke lenger oppfyller kravene som er nevnt i første ledd eller på annen måte opptrer i strid med regelverket.
 
@@ -256,7 +278,16 @@ Arbeidstilsynet kan gi pålegg om retting innen en fastsatt frist eller trekke t
 
 ### § 7-2. Utpeking av og krav til sertifiseringsorgan som skal sertifisere sakkyndig virksomhet – arbeidsutstyr
 
-Arbeidstilsynet skal utpeke sertifiseringsorgan som skal sertifisere sakkyndig virksomhet. For å bli utpekt som sertifiseringsorgan, skal følgende krav oppfylles:sertifiseringsorganet skal ha det nødvendige personale til rådighet, og skal ha de hjelpemidler som trengs for å kunne utføre administrative og tekniske oppgaver i forbindelse med sertifiseringen på forsvarlig måte,sertifiseringsorganet skal utføre sertifiseringen med størst mulig faglig integritet og dyktighet. Personalet skal ikke la seg utsette for noen form for påtrykk eller tilskyndelser, særlig av økonomisk art, som kan påvirke vurderingen eller resultatene av sertifiseringen,sertifiseringsorganet, dets leder og personalet som skal utføre sertifiseringen, skal ikke være sakkyndig virksomhet eller delta i sakkyndig kontroll,sertifiseringsorganet skal ha prosedyrer for å bedømme, innvilge, opprettholde, utvide, oppheve og trekke tilbake sertifisering,det personalet som skal utføre sertifiseringen, skal ha god teknisk og faglig bakgrunn, tilstrekkelig teoretisk kunnskap og praktisk erfaring med bruk og vedlikehold av det arbeidsutstyret som den sakkyndige virksomheten skal kontrollere, den ferdighet som kreves for å kunne utferdige sertifikater,sertifiseringsorganets personale skal være upartiske og objektive. Personalets avlønning skal ikke være avhengig av antall sertifiseringer som blir utført, eller av resultatene,sertifiseringsorganet skal tegne ansvarsforsikring,sertifiseringsorganet har taushetsplikt med hensyn til alle opplysninger det får kjennskap til under utførelsen av sitt arbeid. Dette gjelder ikke overfor de myndigheter som fører tilsyn med forskriften.
+Arbeidstilsynet skal utpeke sertifiseringsorgan som skal sertifisere sakkyndig virksomhet. For å bli utpekt som sertifiseringsorgan, skal følgende krav oppfylles:
+
+1. sertifiseringsorganet skal ha det nødvendige personale til rådighet, og skal ha de hjelpemidler som trengs for å kunne utføre administrative og tekniske oppgaver i forbindelse med sertifiseringen på forsvarlig måte,
+2. sertifiseringsorganet skal utføre sertifiseringen med størst mulig faglig integritet og dyktighet. Personalet skal ikke la seg utsette for noen form for påtrykk eller tilskyndelser, særlig av økonomisk art, som kan påvirke vurderingen eller resultatene av sertifiseringen,
+3. sertifiseringsorganet, dets leder og personalet som skal utføre sertifiseringen, skal ikke være sakkyndig virksomhet eller delta i sakkyndig kontroll,
+4. sertifiseringsorganet skal ha prosedyrer for å bedømme, innvilge, opprettholde, utvide, oppheve og trekke tilbake sertifisering,
+5. det personalet som skal utføre sertifiseringen, skal ha god teknisk og faglig bakgrunn, tilstrekkelig teoretisk kunnskap og praktisk erfaring med bruk og vedlikehold av det arbeidsutstyret som den sakkyndige virksomheten skal kontrollere, den ferdighet som kreves for å kunne utferdige sertifikater,
+6. sertifiseringsorganets personale skal være upartiske og objektive. Personalets avlønning skal ikke være avhengig av antall sertifiseringer som blir utført, eller av resultatene,
+7. sertifiseringsorganet skal tegne ansvarsforsikring,
+8. sertifiseringsorganet har taushetsplikt med hensyn til alle opplysninger det får kjennskap til under utførelsen av sitt arbeid. Dette gjelder ikke overfor de myndigheter som fører tilsyn med forskriften.
 
 Arbeidstilsynet kan gi pålegg om retting innen en fastsatt frist eller trekke tilbake utpekingen, dersom et sertifiseringsorgan ikke lenger oppfyller kravene som er nevnt i første ledd eller på annen måte opptrer i strid med regelverket.
 
@@ -272,7 +303,22 @@ Arbeidstilsynet kan gi pålegg om retting innen en fastsatt frist eller trekke t
 
 Virksomhet som skal drive sertifisert sikkerhetsopplæring i henhold til forskrift om utførelse av arbeid [kapittel 10](forskrift/2011-12-06-1357/kap10), skal være sertifisert av et sertifiseringsorgan.
 
-Virksomheten skal oppfylle minst følgende krav:opplæringen skal drives i henhold til planer for sikkerhetsopplæring,kravene i [forskrift om utførelse av arbeid § 10-2](forskrift/2011-12-06-1357/§10-2) skal oppfylles,den som skal utføre sikkerhetsopplæringen, skal ha nødvendige kunnskaper og erfaring for å gjennomføre opplæringen,den skal ha kunnskap om gjeldende lover, forskrifter og standarder på det aktuelle området,den skal bare bruke arbeidsutstyr under sikkerhetsopplæringen som er i samsvar med kravene i denne forskriften,den skal ha kapasitet for sikkerhetsopplæringen,sikkerhetsopplæringen skal organiseres uavhengig av virksomhetens øvrige aktivitet,den skal disponere nødvendige lokaler og utstyr,den skal så langt det er rimelig og mulig kunne tilrettelegge opplæringen slik at personer med funksjonshemming også kan gis sikkerhetsopplæring hvis funksjonshemmingen ikke er til hinder for å utføre arbeidet,den skal kunne avholde egnethetsprøve og prøveperiode for borger fra annet EØS-land eller Sveits som søker Arbeidstilsynet om tillatelse etter [§ 9-1](forskrift/2011-12-06-1360/§9-1) og [§ 9-2](forskrift/2011-12-06-1360/§9-2),den skal avholde avsluttende prøver etter gjennomgått sikkerhetsopplæring,den skal ha de nødvendige forutsetninger for å kunne utstede dokumentasjon for bestått sikkerhetsopplæring,den skal sørge for å registrere opplærte personer i registre med nødvendig konsesjon,den skal ha forsikring for personskade som kan oppstå i forbindelse med sikkerhetsopplæringen.
+Virksomheten skal oppfylle minst følgende krav:
+
+1. opplæringen skal drives i henhold til planer for sikkerhetsopplæring,
+2. kravene i [forskrift om utførelse av arbeid § 10-2](forskrift/2011-12-06-1357/§10-2) skal oppfylles,
+3. den som skal utføre sikkerhetsopplæringen, skal ha nødvendige kunnskaper og erfaring for å gjennomføre opplæringen,
+4. den skal ha kunnskap om gjeldende lover, forskrifter og standarder på det aktuelle området,
+5. den skal bare bruke arbeidsutstyr under sikkerhetsopplæringen som er i samsvar med kravene i denne forskriften,
+6. den skal ha kapasitet for sikkerhetsopplæringen,
+7. sikkerhetsopplæringen skal organiseres uavhengig av virksomhetens øvrige aktivitet,
+8. den skal disponere nødvendige lokaler og utstyr,
+9. den skal så langt det er rimelig og mulig kunne tilrettelegge opplæringen slik at personer med funksjonshemming også kan gis sikkerhetsopplæring hvis funksjonshemmingen ikke er til hinder for å utføre arbeidet,
+10. den skal kunne avholde egnethetsprøve og prøveperiode for borger fra annet EØS-land eller Sveits som søker Arbeidstilsynet om tillatelse etter [§ 9-1](forskrift/2011-12-06-1360/§9-1) og [§ 9-2](forskrift/2011-12-06-1360/§9-2),
+11. den skal avholde avsluttende prøver etter gjennomgått sikkerhetsopplæring,
+12. den skal ha de nødvendige forutsetninger for å kunne utstede dokumentasjon for bestått sikkerhetsopplæring,
+13. den skal sørge for å registrere opplærte personer i registre med nødvendig konsesjon,
+14. den skal ha forsikring for personskade som kan oppstå i forbindelse med sikkerhetsopplæringen.
 
 Oppfyllelse av kravene i annet ledd skal dokumenteres.
 
@@ -282,25 +328,59 @@ Oppfyllelse av kravene i annet ledd skal dokumenteres.
 
 Virksomhet som driver sikkerhetsopplæring i bruk av arbeidsutstyr som nevnt i [forskrift om utførelse av arbeid § 10-3](forskrift/2011-12-06-1357/§10-3), skal sørge for at det blir utstedt kompetansebevis til den som er opplært.
 
-Kompetansebeviset skal være ensartet, i hendig format og vanskelig å forfalske. Det skal inneholde minst følgende:navn på opplæringsvirksomheten,navn og fødselsdato på den som er opplært,fotografi av den som er opplært,type arbeidsutstyr som det er gitt opplæring i,utstedelsesdato,navn og signatur til den som utsteder kompetansebeviset.
+Kompetansebeviset skal være ensartet, i hendig format og vanskelig å forfalske. Det skal inneholde minst følgende:
+
+1. navn på opplæringsvirksomheten,
+2. navn og fødselsdato på den som er opplært,
+3. fotografi av den som er opplært,
+4. type arbeidsutstyr som det er gitt opplæring i,
+5. utstedelsesdato,
+6. navn og signatur til den som utsteder kompetansebeviset.
 
 Virksomheten skal sørge for oppbevaring av dokumentasjon på at sikkerhetsopplæring er gitt. Ved opphør av virksomhet som fører register, skal dokumentasjonen overføres til annet norsk register eller til Arbeidstilsynet hvis slikt register ikke finnes.
 
 ### § 8-3. Krav til opplæringsvirksomhet som skal drive sikkerhetsopplæring av arbeidstakere som skal delta i arbeid under vann eller økt omgivende trykk
 
-Virksomhet som skal drive sikkerhetsopplæring i utførelse av arbeid under vann eller økt omgivende trykk, skal minst sørge for og kunne dokumentere:at opplæring gis i samsvar med kravene i [forskrift om organisering, ledelse og medvirkning kapittel 8](forskrift/2011-12-06-1355/kap8) og [forskrift om utførelse av arbeid § 26-21](forskrift/2011-12-06-1357/§26-21), [§ 26-22](forskrift/2011-12-06-1357/§26-22) og [§ 26-23](forskrift/2011-12-06-1357/§26-23)utarbeidelse av egne planer for sikkerhetsopplæringat opplæringen følger planene for sikkerhetsopplæringnødvendig kunnskap og erfaring hos den som utfører sikkerhetsopplæringen, jf. § 26-17nødvendig kunnskap om gjeldende lover og forskrifter på områdetnødvendig opplæring i utarbeidelse og anvendelse av risikovurderingertilstrekkelig kapasitet for sikkerhetsopplæringat sikkerhetsopplæringen organiseres uavhengig av virksomhetens øvrige aktivitetnødvendige lokaler og utstyrat det avholdes avsluttende prøver etter gjennomgått sikkerhetsopplæringnødvendige forutsetninger for å kunne utstede dykkerbevis for bestått sikkerhetsopplæring innen dykkingføring av register over opplærte personerforsikring for personskade som kan oppstå i forbindelse med sikkerhetsopplæringen.
+Virksomhet som skal drive sikkerhetsopplæring i utførelse av arbeid under vann eller økt omgivende trykk, skal minst sørge for og kunne dokumentere:
+
+1. at opplæring gis i samsvar med kravene i [forskrift om organisering, ledelse og medvirkning kapittel 8](forskrift/2011-12-06-1355/kap8) og [forskrift om utførelse av arbeid § 26-21](forskrift/2011-12-06-1357/§26-21), [§ 26-22](forskrift/2011-12-06-1357/§26-22) og [§ 26-23](forskrift/2011-12-06-1357/§26-23)
+2. utarbeidelse av egne planer for sikkerhetsopplæring
+3. at opplæringen følger planene for sikkerhetsopplæring
+4. nødvendig kunnskap og erfaring hos den som utfører sikkerhetsopplæringen, jf. § 26-17
+5. nødvendig kunnskap om gjeldende lover og forskrifter på området
+6. nødvendig opplæring i utarbeidelse og anvendelse av risikovurderinger
+7. tilstrekkelig kapasitet for sikkerhetsopplæring
+8. at sikkerhetsopplæringen organiseres uavhengig av virksomhetens øvrige aktivitet
+9. nødvendige lokaler og utstyr
+10. at det avholdes avsluttende prøver etter gjennomgått sikkerhetsopplæring
+11. nødvendige forutsetninger for å kunne utstede dykkerbevis for bestått sikkerhetsopplæring innen dykking
+12. føring av register over opplærte personer
+13. forsikring for personskade som kan oppstå i forbindelse med sikkerhetsopplæringen.
 
 > Endret ved [forskrifter 19 des 2012 nr. 1375](forskrift/2012-12-19-1375) (i kraft 1 jan 2013), [14 des 2018 nr. 1977](forskrift/2018-12-14-1977) (i kraft 1 jan 2019).
 
 ### § 8-4. Utstedelse av dykkerbevis
 
-Virksomhet som driver sikkerhetsopplæring skal utstede dykkerbevis. Dykkerbeviset kan bare utstedes til den som:har fylt 18 år,ved helseerklæring er funnet skikket til dykking,har gjennomgått praktisk og teoretisk sikkerhetsopplæring, og bestått avsluttende prøver.
+Virksomhet som driver sikkerhetsopplæring skal utstede dykkerbevis. Dykkerbeviset kan bare utstedes til den som:
+
+1. har fylt 18 år,
+2. ved helseerklæring er funnet skikket til dykking,
+3. har gjennomgått praktisk og teoretisk sikkerhetsopplæring, og bestått avsluttende prøver.
 
 > Tilføyd ved [forskrift 19 des 2012 nr. 1375](forskrift/2012-12-19-1375) (i kraft 1 jan 2013).
 
 ### § 8-5. Krav til dykkerbevis
 
-Dykkerbevis skal være ensartet, i hendig format og vanskelig å forfalske. Det skal inneholde:navn og logo på opplæringsvirksomheten samt nasjonalitetskjennetegn for Norgenavn, fødselsdato og nasjonalitet på den som har gjennomgått sikkerhetsopplæringenfotografi av den som er opplærtbevisinnehaverens signaturklassen for den opplæring som er fullførtbevisnummerutstedelsesdatosetningen: «Dykkerbeviset er kun gyldig sammen med gyldig helseerklæring».
+Dykkerbevis skal være ensartet, i hendig format og vanskelig å forfalske. Det skal inneholde:
+
+1. navn og logo på opplæringsvirksomheten samt nasjonalitetskjennetegn for Norge
+2. navn, fødselsdato og nasjonalitet på den som har gjennomgått sikkerhetsopplæringen
+3. fotografi av den som er opplært
+4. bevisinnehaverens signatur
+5. klassen for den opplæring som er fullført
+6. bevisnummer
+7. utstedelsesdato
+8. setningen: «Dykkerbeviset er kun gyldig sammen med gyldig helseerklæring».
 
 Den som skal utføre redningsdykking skal dokumentere fagopplæringen i tillegg til dykkerbeviset.
 
@@ -314,9 +394,20 @@ Sakkyndig virksomhet skal ha tilstrekkelige teoretiske kunnskaper og praktisk er
 
 Sakkyndig virksomhet skal utføre arbeidet med faglig integritet, teknisk dyktighet og uavhengighet. Arbeidet skal tilrettelegges slik at virksomheten eller virksomhetens tilsatte ikke kan la seg påvirke av press eller tilskyndelser som kan påvirke resultatet av den kontrollen de skal utføre.
 
-For å utføre sine oppgaver fullt forsvarlig skal sakkyndig virksomhet ha:en organisasjon som er tilpasset den virksomhet som skal drives,nødvendig kompetent personale,nødvendig utstyr og hjelpemidler,tilgang til utstyr som de selv ikke har, og som er nødvendig for å kunne gjennomføre kontrollen,beskrivelse av rutinene for den sakkyndige kontrollen.
+For å utføre sine oppgaver fullt forsvarlig skal sakkyndig virksomhet ha:
 
-Det personalet som skal utføre kontrollen, skal ha:god teknisk bakgrunn,kunnskap om gjeldende lover, forskrifter og standarder,kunnskap og erfaring med den kontrollen som skal utføres,den ferdighet som kreves for å utarbeide dokumentasjon for utført kontroll.
+1. en organisasjon som er tilpasset den virksomhet som skal drives,
+2. nødvendig kompetent personale,
+3. nødvendig utstyr og hjelpemidler,
+4. tilgang til utstyr som de selv ikke har, og som er nødvendig for å kunne gjennomføre kontrollen,
+5. beskrivelse av rutinene for den sakkyndige kontrollen.
+
+Det personalet som skal utføre kontrollen, skal ha:
+
+1. god teknisk bakgrunn,
+2. kunnskap om gjeldende lover, forskrifter og standarder,
+3. kunnskap og erfaring med den kontrollen som skal utføres,
+4. den ferdighet som kreves for å utarbeide dokumentasjon for utført kontroll.
 
 Sakkyndig virksomhet har taushetsplikt om tekniske forhold og forretningsforhold, som det av konkurransemessige grunner er av betydning å hemmeligholde.
 
@@ -330,7 +421,12 @@ Oppfyllelse av kravene i denne paragraf skal dokumenteres.
 
 Sakkyndig virksomhet skal kontrollere at arbeidsutstyret er i samsvar med kravene til arbeidsutstyr i [forskrift om utførelse av arbeid § 10-6](forskrift/2011-12-06-1357/§10-6), og er fullt forsvarlig montert, oppstilt og vedlikeholdt.
 
-Den sakkyndige kontroll skal særlig omfatte:kontroll av de deler av arbeidsutstyret som har betydning for sikkerheten og arbeidsmiljøet og som vil være utsatt for slitasje, sprekker, skader, korrosjon og lignende,funksjonskontroll med passende last,kontroll av verneinnretninger,kontroll av at de instruksjoner for bruk, drift og vedlikehold som er av betydning for sikkerheten, er tilstede.
+Den sakkyndige kontroll skal særlig omfatte:
+
+1. kontroll av de deler av arbeidsutstyret som har betydning for sikkerheten og arbeidsmiljøet og som vil være utsatt for slitasje, sprekker, skader, korrosjon og lignende,
+2. funksjonskontroll med passende last,
+3. kontroll av verneinnretninger,
+4. kontroll av at de instruksjoner for bruk, drift og vedlikehold som er av betydning for sikkerheten, er tilstede.
 
 Sakkyndig virksomhet skal dokumentere kontrollen og attestere at det er fullt forsvarlig å bruke arbeidsutstyret.
 
@@ -342,7 +438,10 @@ Sakkyndig virksomhet skal dokumentere kontrollen og attestere at det er fullt fo
 
 ### § 9-1. Krav til yrkeskvalifikasjoner for borger fra annet EØS-land eller Sveits som skal etablere seg i Norge og bruke arbeidsutstyr
 
-Borger fra annet EØS-land eller Sveits som skal etablere seg i Norge og bruke arbeidsutstyr som nevnt i [forskrift om utførelse av arbeid § 10-3](forskrift/2011-12-06-1357/§10-3) skal søke Arbeidstilsynet om tillatelse før oppstart av slikt arbeid. Tillatelse gis dersom søkeren fremlegger:bevis for nasjonalitetkompetansebevis eller kvalifikasjonsbevis som kreves for bruk av det aktuelle arbeidsutstyret i annet EØS-land eller Sveits.
+Borger fra annet EØS-land eller Sveits som skal etablere seg i Norge og bruke arbeidsutstyr som nevnt i [forskrift om utførelse av arbeid § 10-3](forskrift/2011-12-06-1357/§10-3) skal søke Arbeidstilsynet om tillatelse før oppstart av slikt arbeid. Tillatelse gis dersom søkeren fremlegger:
+
+- bevis for nasjonalitet
+- kompetansebevis eller kvalifikasjonsbevis som kreves for bruk av det aktuelle arbeidsutstyret i annet EØS-land eller Sveits.
 
 Tillatelse skal også gis til den som har utøvd yrket på heltid i ett år i løpet av de siste ti årene i et annet EØS-land eller Sveits som ikke lovregulerer det aktuelle yrket, forutsatt at de innehar et eller flere kompetansebevis eller kvalifikasjonsbevis som bevitner at søkeren er kompetent til å bruke det aktuelle arbeidsutstyret. Kravet om ett års praksis gjelder ikke dersom søker har kompetansebevis eller kvalifikasjonsbevis fra en lovregulert utdanning.
 
@@ -458,7 +557,11 @@ I tillegg til de opplysninger som kreves i søknadsskjemaet, kan Arbeidstilsynet
 
 ### § 12-2. Vilkår for samtykke
 
-Arbeidstilsynet kan sette som vilkår for samtykke etter [arbeidsmiljøloven § 18-9](lov/2005-06-17-62/§18-9):at det utføres tiltak til bedring av arbeidsmiljøet ut over de endringer som er nevnt i søknaden,at Arbeidstilsynet holdes løpende orientert ved prosjekter som er av en slik karakter at detaljplaner ikke kan fremlegges på forhånd og at disse må forelegges og godkjennes etter hvert som de foreligger. Arbeidstilsynet kan i slike tilfeller også kreve å bli holdt løpende orientert om eventuelle merknader fra arbeidsmiljøutvalg eller verneombud etter hvert som disse behandler planene,at det foretas kontroll eller prøving som Arbeidstilsynet finner nødvendig før endret anlegg, produksjonsprosesser eller utstyr tas i bruk.
+Arbeidstilsynet kan sette som vilkår for samtykke etter [arbeidsmiljøloven § 18-9](lov/2005-06-17-62/§18-9):
+
+1. at det utføres tiltak til bedring av arbeidsmiljøet ut over de endringer som er nevnt i søknaden,
+2. at Arbeidstilsynet holdes løpende orientert ved prosjekter som er av en slik karakter at detaljplaner ikke kan fremlegges på forhånd og at disse må forelegges og godkjennes etter hvert som de foreligger. Arbeidstilsynet kan i slike tilfeller også kreve å bli holdt løpende orientert om eventuelle merknader fra arbeidsmiljøutvalg eller verneombud etter hvert som disse behandler planene,
+3. at det foretas kontroll eller prøving som Arbeidstilsynet finner nødvendig før endret anlegg, produksjonsprosesser eller utstyr tas i bruk.
 
 Arbeidstilsynet kan samtykke i at et bygningsarbeid eller annen endring settes i gang før planene er ferdigbehandlet av tilsynet, dersom det finner at dette er ubetenkelig ut fra arbeidsmiljøhensyn. Tilsynet kan sette vilkår for tillatelsen.
 
@@ -470,7 +573,13 @@ Arbeidstilsynet kan samtykke i at et bygningsarbeid eller annen endring settes i
 
 ### § 13-1. Godkjenning, etterprøving, dokumentasjon mv. av arbeidsutstyr
 
-Arbeidstilsynet kan, når det anses påkrevd for å oppnå at arbeidsutstyr blir konstruert og forsynt med verneutstyr i samsvar med de krav arbeidsmiljøloven med tilhørende forskrifter setter, kreve:typegodkjenning av arbeidsutstyr før bruk i Norge,etterprøving av arbeidsutstyr for å få godtgjort at den svarer til typegodkjent modell,godkjenning av teknisk innretning ved Arbeidstilsynet, ved sakkyndig institusjon eller sakkyndig person godkjent av Arbeidstilsynet,dokumentasjon som godtgjør at arbeidsutstyr er godkjent av utenlandsk myndighet eller prøvingsinstitusjon,egenkontroll av arbeidsutstyr som godtgjøres ved rapport om kontrolltiltak eller annen dokumentasjon.
+Arbeidstilsynet kan, når det anses påkrevd for å oppnå at arbeidsutstyr blir konstruert og forsynt med verneutstyr i samsvar med de krav arbeidsmiljøloven med tilhørende forskrifter setter, kreve:
+
+1. typegodkjenning av arbeidsutstyr før bruk i Norge,
+2. etterprøving av arbeidsutstyr for å få godtgjort at den svarer til typegodkjent modell,
+3. godkjenning av teknisk innretning ved Arbeidstilsynet, ved sakkyndig institusjon eller sakkyndig person godkjent av Arbeidstilsynet,
+4. dokumentasjon som godtgjør at arbeidsutstyr er godkjent av utenlandsk myndighet eller prøvingsinstitusjon,
+5. egenkontroll av arbeidsutstyr som godtgjøres ved rapport om kontrolltiltak eller annen dokumentasjon.
 
 Arbeidstilsynet kan, i forbindelse med godkjenningsordningene som er nevnt i første ledd, kreve at produsent av arbeidsutstyr har personale med nødvendige faglige kvalifikasjoner, og at produsenten fører kontroll med materialer, komponenter, tilvirking og det ferdige produkt.
 
@@ -492,7 +601,13 @@ Arbeidstilsynet kan trekke tilbake godkjenningen og kontrollstemplet.
 
 ### § 14-1. Gebyrer for byggesaksbehandling etter arbeidsmiljøloven § 18-9
 
-Arbeidstilsynet skal beregne og kreve gebyr for behandling av søknad om samtykke etter [arbeidsmiljøloven § 18-9 første ledd](lov/2005-06-17-62/§18-9/ledd/1). Gebyret skal ikke overstige selvkost ved tjenesten. Arbeidstilsynet kan indeksregulere satsene årlig i samsvar med justeringene i statsbudsjettet for lønns- og prisvekst. Gebyrsatsene fastsettes etter en inndeling i fem kategorier av type bygg og antall kvadratmeter:Kategori 1: Publikumsbygg og yrkesbygg uten faste arbeidsplasser; maks gebyr 4480 kroner.Kategori 2: Yrkesbygg med faste arbeidsplasser uten maskinelle prosesser og forurensninger; maks gebyr 13 440 kroner.Kategori 3: Yrkesbygg med faste arbeidsplasser og med maskinelle prosesser og fare for forurensninger; maks gebyr 26 875 kroner.Kategori 4: Større byggekomplekser, for eksempel flyplassutbygging og butikksenter, som krever vesentlig mer arbeid enn det som fastsettes i de enkelte kategorier; gebyret vurderes i det enkelte tilfellet.Kategori 5: Enkeltsaker som ikke går inn under noen av de ovenfor nevnte kategorier, for eksempel ventilasjonssaker og bygningstekniske installasjoner; maks gebyr 1295 kroner.
+Arbeidstilsynet skal beregne og kreve gebyr for behandling av søknad om samtykke etter [arbeidsmiljøloven § 18-9 første ledd](lov/2005-06-17-62/§18-9/ledd/1). Gebyret skal ikke overstige selvkost ved tjenesten. Arbeidstilsynet kan indeksregulere satsene årlig i samsvar med justeringene i statsbudsjettet for lønns- og prisvekst. Gebyrsatsene fastsettes etter en inndeling i fem kategorier av type bygg og antall kvadratmeter:
+
+- Kategori 1: Publikumsbygg og yrkesbygg uten faste arbeidsplasser; maks gebyr 4480 kroner.
+- Kategori 2: Yrkesbygg med faste arbeidsplasser uten maskinelle prosesser og forurensninger; maks gebyr 13 440 kroner.
+- Kategori 3: Yrkesbygg med faste arbeidsplasser og med maskinelle prosesser og fare for forurensninger; maks gebyr 26 875 kroner.
+- Kategori 4: Større byggekomplekser, for eksempel flyplassutbygging og butikksenter, som krever vesentlig mer arbeid enn det som fastsettes i de enkelte kategorier; gebyret vurderes i det enkelte tilfellet.
+- Kategori 5: Enkeltsaker som ikke går inn under noen av de ovenfor nevnte kategorier, for eksempel ventilasjonssaker og bygningstekniske installasjoner; maks gebyr 1295 kroner.
 
 Bestemmelsen kommer ikke til anvendelse på Svalbard.
 

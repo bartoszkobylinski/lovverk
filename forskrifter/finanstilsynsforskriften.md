@@ -62,7 +62,10 @@ Taushetsplikt etter [finanstilsynsloven § 2-7](lov/2024-06-21-41/§2-7) og [for
 
 ### § 4-2. Vilkår for utveksling av opplysninger med tilsynsmyndigheter fra et annet land i eller utenfor EØS
 
-(1) Ved utlevering av opplysninger til tilsynsmyndigheter som nevnt i [finanstilsynsloven § 2-7](lov/2024-06-21-41/§2-7) eller denne forskrift [§ 4-1](forskrift/2025-03-27-543/§4-1) skal Finanstilsynet stille følgende vilkår:Opplysningen kan bare brukes til å utføre tilsynsoppgaver ovenfor foretak som nevnt i [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2).Opplysningene skal være undergitt taushetsplikt hos mottaker. Opplysningene kan bare formidles videre med samtykke fra Finanstilsynet og bare for de formål samtykket omfatter.
+(1) Ved utlevering av opplysninger til tilsynsmyndigheter som nevnt i [finanstilsynsloven § 2-7](lov/2024-06-21-41/§2-7) eller denne forskrift [§ 4-1](forskrift/2025-03-27-543/§4-1) skal Finanstilsynet stille følgende vilkår:
+
+1. Opplysningen kan bare brukes til å utføre tilsynsoppgaver ovenfor foretak som nevnt i [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2).
+2. Opplysningene skal være undergitt taushetsplikt hos mottaker. Opplysningene kan bare formidles videre med samtykke fra Finanstilsynet og bare for de formål samtykket omfatter.
 
 (2) Opplysninger som Finanstilsynet har mottatt fra andre lands tilsynsmyndigheter, kan bare formidles videre med samtykke fra vedkommende myndighet og bare for de formål samtykket omfatter.
 
@@ -86,7 +89,10 @@ Taushetsplikt etter [finanstilsynsloven § 2-7](lov/2024-06-21-41/§2-7) og [for
 
 ### § 5-2. Opphør av verv som medlem av nemnda
 
-(1) Departementet kan løse et medlem fra vervet når medlemmetber om det av personlige grunnergrovt har krenket plikter som følger med vervet.
+(1) Departementet kan løse et medlem fra vervet når medlemmet
+
+1. ber om det av personlige grunner
+2. grovt har krenket plikter som følger med vervet.
 
 (2) I særlige tilfeller kan departementet løse ett eller flere medlemmer fra vervet hvis det er nødvendig for at nemnda skal ivareta sine oppgaver.
 
@@ -182,7 +188,20 @@ Finanstilsynets utgifter til tilsynet med overholdelsen av [lov om betalingssyst
 
 ### § 6-13. Gebyr og årsavgift ved søknad om konsesjon mv.
 
-(1) Følgende foretak skal betale gebyr for å få søknader om konsesjon mv. behandlet:betalingsforetake-pengeforetakopplysningsfullmektigernorske agenter av betalingsforetak etablert i annet EØS-landnorske agenter av forsikringsforetak etablert i annet EØS-landforvaltere av alternative investeringsfond som skal markedsføre alternativt investeringsfond der forvalter eller fond er etablert utenfor EØSforvaltningsselskap i annet EØS-land som melder om markedsføring av verdipapirfond i Norgeforvaltere av alternative investeringsfond i annet EØS-land som melder om markedsføring av fond i Norgenorske agenter som er tilknyttet verdipapirforetak etablert i annet EØS-landrevisjonsforetak hjemmehørende i et land utenfor EØS som reviderer årsregnskapet til et foretak som er etablert utenfor EØS og som har utstedt omsettelige verdipapirer som er tatt opp til handel på et regulert marked i Norgetilbydere av virksomhetstjenestertilbydere av vekslingstjenester mellom virtuell valuta og offisiell valuta og tilbydere av oppbevaringstjenester for virtuell valuta.
+(1) Følgende foretak skal betale gebyr for å få søknader om konsesjon mv. behandlet:
+
+1. betalingsforetak
+2. e-pengeforetak
+3. opplysningsfullmektiger
+4. norske agenter av betalingsforetak etablert i annet EØS-land
+5. norske agenter av forsikringsforetak etablert i annet EØS-land
+6. forvaltere av alternative investeringsfond som skal markedsføre alternativt investeringsfond der forvalter eller fond er etablert utenfor EØS
+7. forvaltningsselskap i annet EØS-land som melder om markedsføring av verdipapirfond i Norge
+8. forvaltere av alternative investeringsfond i annet EØS-land som melder om markedsføring av fond i Norge
+9. norske agenter som er tilknyttet verdipapirforetak etablert i annet EØS-land
+10. revisjonsforetak hjemmehørende i et land utenfor EØS som reviderer årsregnskapet til et foretak som er etablert utenfor EØS og som har utstedt omsettelige verdipapirer som er tatt opp til handel på et regulert marked i Norge
+11. tilbydere av virksomhetstjenester
+12. tilbydere av vekslingstjenester mellom virtuell valuta og offisiell valuta og tilbydere av oppbevaringstjenester for virtuell valuta.
 
 (2) Finanstilsynet fastsetter gebyrene for hvert kalenderår. Gebyrene skal ikke være lavere enn kr 5 000 og ikke høyere enn kr 30 000. Gebyret skal være innbetalt før søknad eller melding behandles.
 
@@ -192,23 +211,50 @@ Finanstilsynets utgifter til tilsynet med overholdelsen av [lov om betalingssyst
 
 ### § 6-14. Fordeling etter størrelsen på forvaltningskapital
 
-(1) For følgende grupper skal utgiftene fordeles etter størrelsen på foretakenes forvaltningskapital:forretningsbankersparebankerfinansieringsforetakkredittforetakpensjonsforetakfinansstiftelser og sparebankstiftelser.
+(1) For følgende grupper skal utgiftene fordeles etter størrelsen på foretakenes forvaltningskapital:
+
+1. forretningsbanker
+2. sparebanker
+3. finansieringsforetak
+4. kredittforetak
+5. pensjonsforetak
+6. finansstiftelser og sparebankstiftelser.
 
 (2) For filial av banker, finansieringsselskap og kredittforetak fra andre EØS-land, beregnes avgiften ut fra 40 prosent av forvaltningskapitalen. For systemviktige filialer av banker beregnes avgiften ut fra 60 prosent av forvaltningskapitalen.
 
 ### § 6-15. Fordeling etter bruttopremier
 
-(1) For følgende grupper skal utgiftene fordeles etter opptjente bruttopremier:skadeforsikringsforetaksjøtrygdelag.
+(1) For følgende grupper skal utgiftene fordeles etter opptjente bruttopremier:
 
-(2) For følgende grupper skal utgiftene fordeles etter forfalte bruttopremier:livsforsikringsforetak.
+1. skadeforsikringsforetak
+2. sjøtrygdelag.
+
+(2) For følgende grupper skal utgiftene fordeles etter forfalte bruttopremier:
+
+1. livsforsikringsforetak.
 
 (3) For filial fra andre EØS-land beregnes avgiften ut fra 40 prosent av forfalte bruttopremier.
 
 ### § 6-16. Fordeling etter inntekt
 
-(1) For følgende grupper skal utgiftene fordeles etter størrelsen på inntekt fra den konsesjonspliktige virksomheten:revisorer og revisjonsselskaperforsikringsformidlereinkassoforetakeiendomsmeglerforetakbetalingsforetak og e-pengeforetakinfrastrukturforetak (verdipapirsentraler, sentrale motparter, børser og andre regulerte markeder).opplysningsfullmektigerlåneformidlereadministrator av finansielle referanseverdier.
+(1) For følgende grupper skal utgiftene fordeles etter størrelsen på inntekt fra den konsesjonspliktige virksomheten:
 
-(2) For følgende grupper skal utgiftene fordeles etter størrelsen på inntekt fra den konsesjonspliktige virksomheten og tilleggstjenester:verdipapirforetakforvaltningsselskap for verdipapirfondforvaltere av alternative investeringsfondkryptoeiendelstjenesteytere.
+1. revisorer og revisjonsselskaper
+2. forsikringsformidlere
+3. inkassoforetak
+4. eiendomsmeglerforetak
+5. betalingsforetak og e-pengeforetak
+6. infrastrukturforetak (verdipapirsentraler, sentrale motparter, børser og andre regulerte markeder).
+7. opplysningsfullmektiger
+8. låneformidlere
+9. administrator av finansielle referanseverdier.
+
+(2) For følgende grupper skal utgiftene fordeles etter størrelsen på inntekt fra den konsesjonspliktige virksomheten og tilleggstjenester:
+
+1. verdipapirforetak
+2. forvaltningsselskap for verdipapirfond
+3. forvaltere av alternative investeringsfond
+4. kryptoeiendelstjenesteytere.
 
 (3) For filial fra andre EØS-land av foretak nevnt i annet ledd beregnes avgiften ut fra 60 prosent av inntektene fra den konsesjonspliktige virksomheten og tilleggstjenester.
 
@@ -216,7 +262,12 @@ Finanstilsynets utgifter til tilsynet med overholdelsen av [lov om betalingssyst
 
 ### § 6-17. Lik fordeling per enhet
 
-(1) For følgende grupper skal utgiftene fordeles med samme beløp på de som inngår i gruppen:regnskapsførereadvokater med eiendomsmeglerbevillingutstederforetakgjeldsinformasjonsforetak
+(1) For følgende grupper skal utgiftene fordeles med samme beløp på de som inngår i gruppen:
+
+1. regnskapsførere
+2. advokater med eiendomsmeglerbevilling
+3. utstederforetak
+4. gjeldsinformasjonsforetak
 
 (2) For utstederforetak skal utgiftene fordeles med 80 prosent på de foretak som har noterte egenkapitalinstrumenter og 20 prosent på de øvrige, med unntak av utgiftene knyttet til Finanstilsynets arbeid som tilbudsmyndighet etter [verdipapirhandelloven kapittel 6](lov/2007-06-29-75/kap6), som kun fordeles på utstederforetak med aksjer notert på regulert marked i EØS med Norge som hjemstat.
 
@@ -230,12 +281,26 @@ Forskriften trer i kraft 1. april 2025.
 
 ### § 7-2. Overgangsbestemmelser
 
-Ved ikrafttredelse av [lov 21. juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven)](lov/2024-06-21-41) gjelder følgende overgangsregler:Vedtak fra Finanstilsynet som er påklaget, men ikke ferdigbehandlet av klageinstansen når loven trer i kraft, skal overføres til Finanstilsynsklagenemnda for behandling.Utlikningen for 2025 fastsettes av Finanstilsynet i samsvar med [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven)](lov/1956-12-07-1) med tilhørende [forskrift 18. desember 2015 nr. 1776 om utlikning av utgifter ved tilsyn](forskrift/2015-12-18-1776).
+Ved ikrafttredelse av [lov 21. juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven)](lov/2024-06-21-41) gjelder følgende overgangsregler:
+
+1. Vedtak fra Finanstilsynet som er påklaget, men ikke ferdigbehandlet av klageinstansen når loven trer i kraft, skal overføres til Finanstilsynsklagenemnda for behandling.
+2. Utlikningen for 2025 fastsettes av Finanstilsynet i samsvar med [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven)](lov/1956-12-07-1) med tilhørende [forskrift 18. desember 2015 nr. 1776 om utlikning av utgifter ved tilsyn](forskrift/2015-12-18-1776).
 
 ### § 7-3. Endringer i andre forskrifter
 
-Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter:I [forskrift 21. desember 2011 nr. 1467 til verdipapirfondloven](forskrift/2011-12-21-1467) oppheves henvisningen i hjemmelsfeltet til [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven) § 4](lov/1956-12-07-1/§4).[Forskrift 29. juni 2007 nr. 876 til verdipapirhandelloven (verdipapirforskriften)](forskrift/2007-06-29-876) endres som følger: – – –
+Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter:
+
+1. I [forskrift 21. desember 2011 nr. 1467 til verdipapirfondloven](forskrift/2011-12-21-1467) oppheves henvisningen i hjemmelsfeltet til [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv. (finanstilsynsloven) § 4](lov/1956-12-07-1/§4).
+2. [Forskrift 29. juni 2007 nr. 876 til verdipapirhandelloven (verdipapirforskriften)](forskrift/2007-06-29-876) endres som følger: – – –
 
 ### § 7-4. Oppheving av eldre forskrifter
 
-Fra den tid forskriften trer i kraft oppheves[forskrift 30. november 1998 nr. 1102 om utveksling av opplysninger med tilsynsmyndigheter fra land i og utenfor EØS-området](forskrift/1998-11-30-1102)[forskrift 22. oktober 2001 nr. 1709 om forsikringsselskapers rapportering av eksponeringer mot konsernselskaper og tilknyttede selskaper](forskrift/2001-10-22-1709)[forskrift 31. desember 2005 nr. 1809 om kvartalsoppgave for forvaltningsselskap for verdipapirfond](forskrift/2005-12-31-1809)[forskrift 15. september 2006 nr. 1067 om forbud mot aksjehandel mv. og rapporteringsplikt for handel i finansielle instrumenter for tjenestemenn i Finanstilsynet](forskrift/2006-09-15-1067)[forskrift 1. februar 2012 nr. 111 om klagenemnd for revisor-, regnskapsfører- og inkassosaker](forskrift/2012-02-01-111)[forskrift 18. desember 2015 nr. 1776 om utlikning av utgifter ved tilsyn](forskrift/2015-12-18-1776)[forskrift 12. april 2019 nr. 505 om unntak fra krav i MiFIR-forskriften om gjennomsiktighet før og etter handel for Bank of England](forskrift/2019-04-12-505).
+Fra den tid forskriften trer i kraft oppheves
+
+1. [forskrift 30. november 1998 nr. 1102 om utveksling av opplysninger med tilsynsmyndigheter fra land i og utenfor EØS-området](forskrift/1998-11-30-1102)
+2. [forskrift 22. oktober 2001 nr. 1709 om forsikringsselskapers rapportering av eksponeringer mot konsernselskaper og tilknyttede selskaper](forskrift/2001-10-22-1709)
+3. [forskrift 31. desember 2005 nr. 1809 om kvartalsoppgave for forvaltningsselskap for verdipapirfond](forskrift/2005-12-31-1809)
+4. [forskrift 15. september 2006 nr. 1067 om forbud mot aksjehandel mv. og rapporteringsplikt for handel i finansielle instrumenter for tjenestemenn i Finanstilsynet](forskrift/2006-09-15-1067)
+5. [forskrift 1. februar 2012 nr. 111 om klagenemnd for revisor-, regnskapsfører- og inkassosaker](forskrift/2012-02-01-111)
+6. [forskrift 18. desember 2015 nr. 1776 om utlikning av utgifter ved tilsyn](forskrift/2015-12-18-1776)
+7. [forskrift 12. april 2019 nr. 505 om unntak fra krav i MiFIR-forskriften om gjennomsiktighet før og etter handel for Bank of England](forskrift/2019-04-12-505).

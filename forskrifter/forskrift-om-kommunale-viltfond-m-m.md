@@ -34,18 +34,40 @@ Kommunale og fylkeskommunale viltfond: bundne driftsfond som utelukkende kan for
 
 ## § 3. Inntekter til kommunale viltfond
 
-1. Som inntekter skal regnes:Offentlig fellingsavgift for elg og hjort fastsatt av kommunen, jf. [§ 5](forskrift/2011-05-15-537/§5).Tilskudd fra det statlige viltfondet.Fondets årlige avkastning.
-2. Som inntekter til fondet kan regnes:Inntekter fra omsetning av ulovlig felt vilt og fallvilt av hjortevilt og bever samt hjortevilt og bever som felles etter tillatelse gitt i medhold av [naturmangfoldloven § 18](lov/2009-06-19-100/§18).Eventuelle kommunale avsetninger.Eventuelt andre midler.
+1. Som inntekter skal regnes:
+
+   - Offentlig fellingsavgift for elg og hjort fastsatt av kommunen, jf. [§ 5](forskrift/2011-05-15-537/§5).
+   - Tilskudd fra det statlige viltfondet.
+   - Fondets årlige avkastning.
+2. Som inntekter til fondet kan regnes:
+
+   - Inntekter fra omsetning av ulovlig felt vilt og fallvilt av hjortevilt og bever samt hjortevilt og bever som felles etter tillatelse gitt i medhold av [naturmangfoldloven § 18](lov/2009-06-19-100/§18).
+   - Eventuelle kommunale avsetninger.
+   - Eventuelt andre midler.
 
 ## § 4. Inntekter til fylkeskommunale viltfond
 
-1. Som inntekter skal regnes:Tilskudd fra det statlige viltfondet.Fondets årlige avkastning.
-2. Som inntekter til fondet kan regnes:Eventuelle fylkeskommunale avsetninger.Eventuelt andre midler.
+1. Som inntekter skal regnes:
+
+   - Tilskudd fra det statlige viltfondet.
+   - Fondets årlige avkastning.
+2. Som inntekter til fondet kan regnes:
+
+   - Eventuelle fylkeskommunale avsetninger.
+   - Eventuelt andre midler.
 
 ## § 5. Disponering av fylkeskommunale og kommunale viltfond
 
-1. Fondet kan brukes til:Tilskudd til tiltak for å fremme viltforvaltning, styrke kunnskapen om viltet, jaktorganisering m.m. i kommunen og nabokommuner gjennom samarbeid i regi av organisasjoner, enkeltpersoner eller kommunen selv.Å dekke kommunens utgifter til ettersøk og håndtering av skadd vilt og fallvilt i kommunen.Tiltak for å forebygge skader på landbruksnæring voldt av hjortevilt.
-2. Fondet kan ikke brukes til:Kommunal og fylkeskommunal administrasjon av viltforvaltningen (faste utgifter til lønn, møtegodtgjørelser, reiser mv.).Å erstatte skader voldt av vilt.Skuddpremier.
+1. Fondet kan brukes til:
+
+   - Tilskudd til tiltak for å fremme viltforvaltning, styrke kunnskapen om viltet, jaktorganisering m.m. i kommunen og nabokommuner gjennom samarbeid i regi av organisasjoner, enkeltpersoner eller kommunen selv.
+   - Å dekke kommunens utgifter til ettersøk og håndtering av skadd vilt og fallvilt i kommunen.
+   - Tiltak for å forebygge skader på landbruksnæring voldt av hjortevilt.
+2. Fondet kan ikke brukes til:
+
+   - Kommunal og fylkeskommunal administrasjon av viltforvaltningen (faste utgifter til lønn, møtegodtgjørelser, reiser mv.).
+   - Å erstatte skader voldt av vilt.
+   - Skuddpremier.
 
 ## § 6. Om fellingsavgifter
 

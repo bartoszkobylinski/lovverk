@@ -15,7 +15,7 @@ xml_hash: "1382bc6c8bc6b4ae3696fec7e5e1b9b1f8477109c8445c390a3409ffb217a1e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
 
 *c) Omlastingsmelding*
 
@@ -149,7 +151,11 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Etter hva som er relevant.3 Valgfritt ved meldinger sendt av mottaksfartøyet etter omlastingen.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Etter hva som er relevant.
+
+3 Valgfritt ved meldinger sendt av mottaksfartøyet etter omlastingen.
 
 *d) Melding om havneanløp*
 
@@ -175,7 +181,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
 
 *e) Melding om avslutning av fiske*
 
@@ -199,7 +207,11 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.3 Påkrevd dersom det skal landes i havn som ikke er norsk eller russisk.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
+
+3 Påkrevd dersom det skal landes i havn som ikke er norsk eller russisk.
 
 *f) Gjennomføring*
 

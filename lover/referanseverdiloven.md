@@ -15,7 +15,7 @@ xml_hash: "9f92e14484bd06af56632927da277e5f721f8046bbf5ffb8c7a7bca40af8080d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016R1011"
@@ -59,7 +59,12 @@ Finanstilsynet kan kreve at bidragsytere til referanseverdier som nevnt i refera
 
 (1) Dersom Finanstilsynet har mistanke om overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan enhver pålegges å gi de opplysninger Finanstilsynet krever, herunder stille til muntlig forklaring.
 
-(2) Opplysningsplikten i første ledd gjelder uten hinder av taushetsplikt, med unntak av opplysninger som vedkommende ville vært forhindret fra å gi i en straffesak. Opplysningsplikten gjelder uansett uten hinder av:lovbestemt taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,taushetsplikt etter folkeregisterloven,taushetsplikt etter valutaregisterloven,taushetsplikt som nevnt i [ekomloven § 3-10](lov/2024-12-13-76/§3-10) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse.
+(2) Opplysningsplikten i første ledd gjelder uten hinder av taushetsplikt, med unntak av opplysninger som vedkommende ville vært forhindret fra å gi i en straffesak. Opplysningsplikten gjelder uansett uten hinder av:
+
+1. lovbestemt taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,
+2. taushetsplikt etter folkeregisterloven,
+3. taushetsplikt etter valutaregisterloven,
+4. taushetsplikt som nevnt i [ekomloven § 3-10](lov/2024-12-13-76/§3-10) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse.
 
 (3) Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist og kan nedtegnes eller lagres som lydopptak. Den som innkalles til muntlig forklaring, har rett til å la seg bistå av advokat.
 
@@ -71,7 +76,11 @@ Finanstilsynet kan kreve at bidragsytere til referanseverdier som nevnt i refera
 
 ## § 6. Bevissikring
 
-(1) For å søke etter bevis kan Finanstilsynet når det er rimelig grunn til å anta at bestemmelser i eller fastsatt i medhold av denne loven er overtrådt, eller det er nødvendig for å oppfylle Norges avtaleforpliktelser overfor annen stat, kreveå få adgang til lokaler, eiendommer og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,å ta med ting, herunder kopi av dokumenter og annen informasjon og teknisk lagret informasjon som kan ha betydning som bevis for nærmere granskning, og å forsegle forretningslokaler, bøker, forretningspapirer eller teknisk lagringsmedium så lenge undersøkelsen varer og dette anses nødvendig.
+(1) For å søke etter bevis kan Finanstilsynet når det er rimelig grunn til å anta at bestemmelser i eller fastsatt i medhold av denne loven er overtrådt, eller det er nødvendig for å oppfylle Norges avtaleforpliktelser overfor annen stat, kreve
+
+1. å få adgang til lokaler, eiendommer og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,
+2. å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,
+3. å ta med ting, herunder kopi av dokumenter og annen informasjon og teknisk lagret informasjon som kan ha betydning som bevis for nærmere granskning, og å forsegle forretningslokaler, bøker, forretningspapirer eller teknisk lagringsmedium så lenge undersøkelsen varer og dette anses nødvendig.
 
 (2) Begjæring om adgang til bevissikring fremsettes av Finanstilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning før bevissikringen settes i verk. Den begjæringen retter seg mot, skal ikke varsles om begjæringen eller beslutningen. Anke over beslutningen har ikke oppsettende virkning. [Straffeprosessloven §§ 117](lov/1981-05-22-25/§117) til [120](lov/1981-05-22-25/§120), [§ 200](lov/1981-05-22-25/§200), [§ 201](lov/1981-05-22-25/§201) første ledd, §§ 204, 207, 208, 209 og 213 og kapittel 26 og [forvaltningsloven § 15](lov/1967-02-10/§15) annet og tredje ledd gjelder så langt de passer.
 
@@ -155,7 +164,15 @@ Ved pålegg etter [§§ 7](lov/2015-12-04-95/§7) og [8](lov/2015-12-04-95/§8) 
 
 ## § 13. Momenter ved ileggelse av overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av gebyr kan det blant annet tas hensyn tilovertredelsens grovhet og varighetgraden av skyld hos overtrederenovertrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeleroppnådd fortjeneste eller unngått taptap påført tredjeperson som følge av overtredelsenvilje til å samarbeide med myndighetenetidligere overtredelser
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av gebyr kan det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. graden av skyld hos overtrederen
+3. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeler
+4. oppnådd fortjeneste eller unngått tap
+5. tap påført tredjeperson som følge av overtredelsen
+6. vilje til å samarbeide med myndighetene
+7. tidligere overtredelser
 
 > Tilføyd ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)).
 

@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Fastsettelse for visse grupper ved arbeid eller opphold i Norge, på norsk kontinentalsokkel og norskregistrerte skip
 
-(1) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for følgende medlemmer i folketrygden som ikke er skattepliktige til Norge for lønn, pensjon eller næringsinntekt:gjesteforelesere, forskere, lærere og studenter i Norge,personer ansatt ved internasjonale organisasjoner/skoler i Norge,personer ansatt ved utenlandske ambassader i Norge,personer som utøver næringsvirksomhet i Norge ogarbeidstakere som ikke oppholder seg mer enn 183 dager i Norge og som er ansatt av en utenlandsk arbeidsgiver som ikke har fast driftssted i Norge.
+(1) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for følgende medlemmer i folketrygden som ikke er skattepliktige til Norge for lønn, pensjon eller næringsinntekt:
+
+1. gjesteforelesere, forskere, lærere og studenter i Norge,
+2. personer ansatt ved internasjonale organisasjoner/skoler i Norge,
+3. personer ansatt ved utenlandske ambassader i Norge,
+4. personer som utøver næringsvirksomhet i Norge og
+5. arbeidstakere som ikke oppholder seg mer enn 183 dager i Norge og som er ansatt av en utenlandsk arbeidsgiver som ikke har fast driftssted i Norge.
 
 (2) Første ledd gjelder både når inntekten ikke er skattepliktig etter norsk intern rett, og når norsk beskatningsrett er begrenset i skatteavtale eller annen folkerettslig overenskomst.
 

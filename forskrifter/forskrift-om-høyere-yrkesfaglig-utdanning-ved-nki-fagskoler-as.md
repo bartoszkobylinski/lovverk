@@ -15,7 +15,7 @@ xml_hash: "748a77bcd665f8528b5e4abd83c190a62c6fc990e6202537d951afb031e5415f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,11 +72,16 @@ Opptaksgrunnlaget til fagskoleutdanning er fullført og bestått videregående o
 
 ### § 2-3. Opptak på grunnlag av realkompetanse
 
-(1) Søkere som ikke fyller det formelle opptakskravet er:søkere som ikke har fullført videregående opplæringsøkere med utdanning fra andre land enn Norge.
+(1) Søkere som ikke fyller det formelle opptakskravet er:
+
+1. søkere som ikke har fullført videregående opplæring
+2. søkere med utdanning fra andre land enn Norge.
 
 (2) Søkere som ikke tilfredsstiller det formelle opptakskravet og som mener at de har relevant praksis av en viss varighet, kan søke om opptak basert på realkompetansevurdering. Søkere som ønsker å bli realkompetansevurdert må være 23 år eller eldre i opptaksåret.
 
-(3) Realkompetanse vurderes opp mot relevant kompetanse tilsvarende videregående opplæring. Dette gjelder også søkere med utenlandsk utdanning.Hvilken realkompetanse som ansees som relevant for opptak til den enkelte utdanning finnes i studieplanen og på skolens hjemmeside under de enkelte utdanningene.
+(3) Realkompetanse vurderes opp mot relevant kompetanse tilsvarende videregående opplæring. Dette gjelder også søkere med utenlandsk utdanning.
+
+Hvilken realkompetanse som ansees som relevant for opptak til den enkelte utdanning finnes i studieplanen og på skolens hjemmeside under de enkelte utdanningene.
 
 ### § 2-4. Opptak for søkere med utenlandsk utdannelse/annet morsmål
 
@@ -136,7 +141,10 @@ Ved søknader der kravene til dokumentasjon ikke er tilfredsstilt, kan søker gi
 
 Når det foreligger saklige grunner, kan skolen nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak.
 
-Som saklig grunn regnes blant annet:Søkeren er bortvist eller utestengt fra skolen eller andre lærestederSøkeren tidligere har misligholdt betalingsforpliktelser overfor skolen. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
+Som saklig grunn regnes blant annet:
+
+1. Søkeren er bortvist eller utestengt fra skolen eller andre læresteder
+2. Søkeren tidligere har misligholdt betalingsforpliktelser overfor skolen. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
 
 ### § 2-13. Klagerett på avslag om opptak
 
@@ -192,7 +200,18 @@ En student som får barn under studiene, har rett til permisjon fra studiene und
 
 (1) Skolen skal sørge for at studentenes kunnskap, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte. Eksamens- og vurderingsordningene skal være egnet til å vurdere om læringsutbyttene er oppnådd, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21) (1). Det gjennomføres eksterne evalueringer av vurderinger og vurderingsordninger.
 
-(2) Skolen benytter følgende vurderingsordninger:EksamensformerSkriftlig eksamenMuntlig eksamenPraktisk eksamenMappevurdering (flere innleveringer i en samlet vurdering)Kombinasjoner av ovennevnte (kombinasjonseksamen).Andre vurderingsformerArbeidskrav.
+(2) Skolen benytter følgende vurderingsordninger:
+
+- Eksamensformer
+
+  - Skriftlig eksamen
+  - Muntlig eksamen
+  - Praktisk eksamen
+  - Mappevurdering (flere innleveringer i en samlet vurdering)
+  - Kombinasjoner av ovennevnte (kombinasjonseksamen).
+- Andre vurderingsformer
+
+  - Arbeidskrav.
 
 (3) Arbeidskrav er alle former for obligatoriske arbeid/prøve/aktivitet som settes som vilkår for å avlegge eksamen. Arbeidskrav kan være både individuelle og i gruppe, og kan omfatte bl.a. skriftlige arbeider, muntlige framføringer, flervalgprøver, mappearbeider, laboratorierapport, praksis, eller annet som er fastsatt i studieplanen. Arbeidskrav skal ikke inngå i grunnlaget for karaktersetting. Vurderingsuttrykket for arbeidskrav skal være godkjent/ikke godkjent.
 
@@ -222,7 +241,12 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 ### § 6-4. Eksamensrett
 
-(1) Kandidaten har adgang til å avlegge en eksamen når følgende betingelser er oppfylt:Har studiekontrakt som hjemler adgang til den aktuelle eksamen.Oppfyller faglige eller andre krav som gjelder deltakelse i den aktuelle eksamen.Er registrert som oppmeldt til eksamen ved fristens utløp.Er innenfor antall eksamensforsøk for den aktuelle eksamen, jf. § 6-12 (1).
+(1) Kandidaten har adgang til å avlegge en eksamen når følgende betingelser er oppfylt:
+
+1. Har studiekontrakt som hjemler adgang til den aktuelle eksamen.
+2. Oppfyller faglige eller andre krav som gjelder deltakelse i den aktuelle eksamen.
+3. Er registrert som oppmeldt til eksamen ved fristens utløp.
+4. Er innenfor antall eksamensforsøk for den aktuelle eksamen, jf. § 6-12 (1).
 
 (2) Vedtak om å nekte en kandidat å gå opp til eksamen kan påklages til den enhet som har fattet vedtaket. Fristen for å klage er 3 uker fra det tidspunkt vedtaket er gjort kjent for studenten. Hvis klagen ikke tas til følge, skal klagen oversendes lokal klagenemnd ved skolen.
 
@@ -232,7 +256,13 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 (1) Studenter som har krav på tilrettelegging, jf. [fagskoleloven § 15](lov/2018-06-08-28/§15) (5), må sende skriftlig søknad om tilrettelegging til skolens administrasjon senest 6 uker før eksamen. Søknaden skal inneholde attest fra spesialist, som lege, logoped, eller psykolog, samt en beskrivelse av hva studenten trenger tilrettelagt. Avhengig av årsaken det søkes tilrettelegging for, kan skolen innvilge tilrettelegging for hele studieløpet innenfor rammene av [fagskoleloven § 15](lov/2018-06-08-28/§15) (5).
 
-(2) Formålet med tilrettelegging av eksamen er å kompensere for de ulempene kandidaters spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene, jf. [fagskoleloven § 15](lov/2018-06-08-28/§15) (5).Eksempler på tilrettelegging er:Utvidet tid til eksamenBruk av spesielle hjelpemidlerAlternativ eksamensform.
+(2) Formålet med tilrettelegging av eksamen er å kompensere for de ulempene kandidaters spesielle behov medfører. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene, jf. [fagskoleloven § 15](lov/2018-06-08-28/§15) (5).
+
+- Eksempler på tilrettelegging er:
+
+  - Utvidet tid til eksamen
+  - Bruk av spesielle hjelpemidler
+  - Alternativ eksamensform.
 
 (3) Det tilrettelegges ikke med utvidet frist på arbeidskrav eller større innleveringsoppgaver som prosjektoppgaver, praksisrapporter, eller semesteroppgaver.
 
@@ -324,9 +354,18 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 ### § 6-12. Fusk
 
-(1) Handlinger eller forhold som tar sikte på å gi kandidaten, eller en medstudent, et uberettiget fortrinn regnes som fusk eller forsøk på fusk. Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi kandidaten et uberettiget fortrinn ved vurderingen, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), for eksempel at:kandidatens kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måtekandidaten har fått kjennskap til eksamensoppgaver før eksamen starterkandidaten har manipulert eksamensbesvarelsen etter at den er levert.
+(1) Handlinger eller forhold som tar sikte på å gi kandidaten, eller en medstudent, et uberettiget fortrinn regnes som fusk eller forsøk på fusk. Som fusk regnes også andre uredelige handlinger eller forhold som tar sikte på å gi kandidaten et uberettiget fortrinn ved vurderingen, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), for eksempel at:
 
-(2) Hovedområder som betraktes som fusk eller forsøk på fusk:Bruk av, eller uberettiget tilgang til, ulovlige hjelpemidlerUlovlig samarbeid mellom enkeltpersoner eller grupperPlagiatManglende eller feilaktig kildebruk slik at teksten fremstår som kandidatens egen. Studentene plikter å sette seg inn i de ulike studienes krav til kildebruk.
+1. kandidatens kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte
+2. kandidaten har fått kjennskap til eksamensoppgaver før eksamen starter
+3. kandidaten har manipulert eksamensbesvarelsen etter at den er levert.
+
+(2) Hovedområder som betraktes som fusk eller forsøk på fusk:
+
+1. Bruk av, eller uberettiget tilgang til, ulovlige hjelpemidler
+2. Ulovlig samarbeid mellom enkeltpersoner eller grupper
+3. Plagiat
+4. Manglende eller feilaktig kildebruk slik at teksten fremstår som kandidatens egen. Studentene plikter å sette seg inn i de ulike studienes krav til kildebruk.
 
 (3) For at en eksamen skal kunne annulleres på grunn av fusk, må handlingen være forsettlig eller grovt uaktsom. Imidlertid har kandidaten meget streng aktsomhetsplikt knyttet til å være kjent med eksamensreglementet, hvilke hjelpemidler som er tillatt brukt under selve eksamen og et særlig ansvar for å forsikre seg om at det bare er lovlige hjelpemidler tilgjengelig.
 
@@ -363,7 +402,15 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 (1) Skolen dokumenterer fullført og bestått fagskoleutdanning med vitnemål. Skolen utsteder kun ett vitnemål per utdanning. En avgift påløper ved bestilling av duplikat.
 
-(2) Vitnemålet inneholder informasjon om:Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnåsAngivelse av karaktersystemetAntall studiepoeng og eventuell betegnelse for fagskolegradKarakter/karaktererTilbyders, fagskolens, utdannings, og kandidatens navn.
+(2) Vitnemålet inneholder informasjon om:
+
+1. Det overordnede læringsutbyttet
+2. Emner og eventuell praksis
+3. Kvalifikasjonsnivået som oppnås
+4. Angivelse av karaktersystemet
+5. Antall studiepoeng og eventuell betegnelse for fagskolegrad
+6. Karakter/karakterer
+7. Tilbyders, fagskolens, utdannings, og kandidatens navn.
 
 (3) Karakterutskrift kan utstedes til studenter som har fullført deler av utdanningen.
 
@@ -371,7 +418,12 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 ### § 6-15. Forutsetning for utstedelse av vitnemål
 
-(1) Utstedelse av vitnemål forutsetter at:Studieavgiften er betalt i sin helhet eller at studenten følger en avtalt betalingsplan.Alle eksamener som beskrevet i studieplanen er fullført og bestått.Udokumentert fravær ikke overstiger 25 %Eventuell obligatorisk praksis er gjennomført og bestått.
+(1) Utstedelse av vitnemål forutsetter at:
+
+1. Studieavgiften er betalt i sin helhet eller at studenten følger en avtalt betalingsplan.
+2. Alle eksamener som beskrevet i studieplanen er fullført og bestått.
+3. Udokumentert fravær ikke overstiger 25 %
+4. Eventuell obligatorisk praksis er gjennomført og bestått.
 
 (2) Skolen beholder alle eksamensbesvarelser og innleveringer/arbeidskrav, og kan fremvise disse i undervisningsøyemed i anonymisert stand. I enkelte emner vil studentene likevel ha behov for å beholde disse, for eksempel til porteføljer eller søknader om autorisasjon. I slike tilfeller må materiellet hentes på skolen fra og med den datoen klagefristen har gått ut og innen 3 uker. Skolen kan destruere materiell som ikke er hentet innen 3 uker etter klagefristen.
 
@@ -395,7 +447,15 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 (2) Lokal klagenemnd kan som førsteinstans, med minst 2/3 flertall, fatte enkeltvedtak om utestengelse fra all utdanning ved skolen og fratas retten til å gå opp til eksamen i inntil ett år dersom studenten har gjort ett eller flere grove tillitsbrudd mot skolen. Det kan også fattes vedtak om å avslutte studentens studiekontrakt.
 
-(3) Som grove tillitsbrudd regnes blant annet:Fusk eller forsøk på fuskKjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolens lokaler/områderTydelig beruset eller bruk av alkohol på skolens områder innenfor skoletidenUtøvelse av vold eller hærverkTrakassering av og/eller trusler mot medstudenter eller ansatteTyveri fra skolen, ansatte eller medstudenterBenyttet falsk vitnemål eller andre falske dokumenter.
+(3) Som grove tillitsbrudd regnes blant annet:
+
+1. Fusk eller forsøk på fusk
+2. Kjøp/salg/bruk/oppbevaring av narkotiske stoffer uten resept i skolens lokaler/områder
+3. Tydelig beruset eller bruk av alkohol på skolens områder innenfor skoletiden
+4. Utøvelse av vold eller hærverk
+5. Trakassering av og/eller trusler mot medstudenter eller ansatte
+6. Tyveri fra skolen, ansatte eller medstudenter
+7. Benyttet falsk vitnemål eller andre falske dokumenter.
 
 (4) Lokal klagenemnd kan som førsteinstans, med minst 2/3 flertall, fatte enkeltvedtak om å utestenge studenten fra utdanningen i inntil ett år hvis studenten ikke har etterkommet vedtak om bortvisning, jf. [§ 7-1](forskrift/2019-11-18-2264/§7-1) (1).
 

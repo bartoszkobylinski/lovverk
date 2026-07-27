@@ -46,7 +46,13 @@ Foretak som tidligere har kunnet benytte [regnskapslovens](lov/1998-07-17-56) fo
 
 ### § 1-5-2. Tilpasninger ved overgang fra kategorien små foretak til øvrige foretak – virkning av prinsippendringer
 
-I inngående balanse ved overgang til regnskapslovens hovedregler kan det gjøres følgende unntak fra kravet etter [regnskapsloven § 4-3](lov/1998-07-17-56/§4-3) annet ledd om å føre virkning av prinsippendringer direkte mot egenkapitalen:Leieavtaler som ikke tidligere har vært balanseført, kan unnlates balanseført.Ombyttbare finansielle eiendeler kan tilordnes anskaffelseskost etter FIFO-metoden.Kostnadsførte faste tilvirkningskostnader på egentilvirkede driftsmidler som er ferdigstilt før tidspunkt for inngående balanse, kan unnlates balanseført.Regnskapsmessig gjennomførte fusjoner eller fisjoner som er videreført til balanseførte verdier kan unnlates å omarbeides.Inngåtte avtaler om aksjebasert avlønning som ikke tidligere har vært kostnadsført kan regnskapsføres til virkelig verdi på datoen for inngående balanse ved overgang til regnskapslovens hovedregler.
+I inngående balanse ved overgang til regnskapslovens hovedregler kan det gjøres følgende unntak fra kravet etter [regnskapsloven § 4-3](lov/1998-07-17-56/§4-3) annet ledd om å føre virkning av prinsippendringer direkte mot egenkapitalen:
+
+1. Leieavtaler som ikke tidligere har vært balanseført, kan unnlates balanseført.
+2. Ombyttbare finansielle eiendeler kan tilordnes anskaffelseskost etter FIFO-metoden.
+3. Kostnadsførte faste tilvirkningskostnader på egentilvirkede driftsmidler som er ferdigstilt før tidspunkt for inngående balanse, kan unnlates balanseført.
+4. Regnskapsmessig gjennomførte fusjoner eller fisjoner som er videreført til balanseførte verdier kan unnlates å omarbeides.
+5. Inngåtte avtaler om aksjebasert avlønning som ikke tidligere har vært kostnadsført kan regnskapsføres til virkelig verdi på datoen for inngående balanse ved overgang til regnskapslovens hovedregler.
 
 Anvendelse av bestemmelsen i første ledd skal skje på en ensartet og konsistent måte slik at alle like poster de siste fire år av betydning for fremtidige regnskapsperioder behandles likt. Velger den regnskapspliktige en lengre periode, gjelder kravet til ensartethet og konsistens tilsvarende for hele den valgte perioden.
 
@@ -54,7 +60,11 @@ Anvendelse av bestemmelsen i første ledd skal skje på en ensartet og konsisten
 
 ### § 1-5-3. Tilpasninger ved overgang fra kategorien små foretak til øvrige foretak – sammenligningstall
 
-Ved overgang til regnskapslovens hovedregler kan den regnskapspliktige ved utarbeidelsen av årsregnskapet som gjelder overgangsåret gjøre følgende unntak fra [regnskapsloven § 6-6](lov/1998-07-17-56/§6-6):Unnlate å utarbeide sammenligningstall til kontantstrømoppstillingen dersom den regnskapspliktige tidligere ikke har utarbeidet kontantstrømoppstilling.Unnlate å utarbeide sammenligningstall til resultatregnskapet i konsernregnskapet dersom den regnskapspliktige ikke tidligere har utarbeidet konsernregnskap.Unnlate å omarbeide sammenligningstall til resultatregnskapet, kontantstrømoppstillingen og noteopplysninger.
+Ved overgang til regnskapslovens hovedregler kan den regnskapspliktige ved utarbeidelsen av årsregnskapet som gjelder overgangsåret gjøre følgende unntak fra [regnskapsloven § 6-6](lov/1998-07-17-56/§6-6):
+
+1. Unnlate å utarbeide sammenligningstall til kontantstrømoppstillingen dersom den regnskapspliktige tidligere ikke har utarbeidet kontantstrømoppstilling.
+2. Unnlate å utarbeide sammenligningstall til resultatregnskapet i konsernregnskapet dersom den regnskapspliktige ikke tidligere har utarbeidet konsernregnskap.
+3. Unnlate å omarbeide sammenligningstall til resultatregnskapet, kontantstrømoppstillingen og noteopplysninger.
 
 Unntaket for noteopplysninger i første ledd nr. 3 gjelder ikke for noteopplysninger til tall i balansen. Unntaket gjelder likevel for noteopplysninger til balansen som tidligere ikke har vært gitt i samsvar med de forenklede kravene til noteopplysninger for små foretak.
 
@@ -74,9 +84,28 @@ Konsernregnskap som nevnt i [regnskapsloven § 3-7](lov/1998-07-17-56/§3-7) fø
 
 ### § 7-30b-1. Definisjon av nærstående parter
 
-En part er en nærstående part til foretaket (det «rapporterende foretaket») i følgende tilfeller:En person eller et nært medlem av en persons familie er nærstående til et rapporterende foretak dersom personen:har kontroll eller felles kontroll over det rapporterende foretaket,har betydelig innflytelse over det rapporterende foretaket, ellerer styremedlem eller ledende ansatt i det rapporterende foretaket eller dets morforetak.Et foretak og et rapporterende foretak er nærstående parter dersom et av følgende vilkår er oppfylt:Foretaket og det rapporterende foretaket er medlemmer av samme konsern (som betyr at hvert morforetak, datterforetak eller søsterforetak er nærstående til de andre).Et foretak er det andre foretakets tilknyttede foretak eller felleskontrollerte virksomhet (eller et tilknyttet foretak eller en felleskontrollert virksomhet til et konsernforetak som det andre foretaket er en del av).Begge foretak er samme tredjemanns felleskontrollerte virksomheter.Et foretak er et tredje foretaks felleskontrollerte virksomhet, og det andre foretaket er det tredje foretakets tilknyttede foretak.Foretaket er en pensjonsordning for de ansatte enten i det rapporterende foretaket eller i et foretak som er nærstående til det rapporterende foretaket. Dersom det rapporterende foretaket selv er en slik ordning, er den arbeidsgiver som finansierer ordningen, også nærstående til det rapporterende foretaket.En person som nevnt i bokstav a har kontroll eller felles kontroll over foretaket.En person som nevnt i bokstav a i har betydelig innflytelse over foretaket eller er en av nøkkelpersonene i foretakets (eller foretakets morforetaks) ledelse.
+En part er en nærstående part til foretaket (det «rapporterende foretaket») i følgende tilfeller:
 
-Nære medlemmer av en persons familie er familiemedlemmer som kan forventes å påvirke eller blir påvirket av denne personen i deres forretninger med foretaket. Slike familiemedlemmer kan omfatte:personens partner og barn,barn av personens partner, ogpersoner som forsørges av personen eller dennes ektefelle eller partner.
+1. En person eller et nært medlem av en persons familie er nærstående til et rapporterende foretak dersom personen:
+
+   1. har kontroll eller felles kontroll over det rapporterende foretaket,
+   2. har betydelig innflytelse over det rapporterende foretaket, eller
+   3. er styremedlem eller ledende ansatt i det rapporterende foretaket eller dets morforetak.
+2. Et foretak og et rapporterende foretak er nærstående parter dersom et av følgende vilkår er oppfylt:
+
+   1. Foretaket og det rapporterende foretaket er medlemmer av samme konsern (som betyr at hvert morforetak, datterforetak eller søsterforetak er nærstående til de andre).
+   2. Et foretak er det andre foretakets tilknyttede foretak eller felleskontrollerte virksomhet (eller et tilknyttet foretak eller en felleskontrollert virksomhet til et konsernforetak som det andre foretaket er en del av).
+   3. Begge foretak er samme tredjemanns felleskontrollerte virksomheter.
+   4. Et foretak er et tredje foretaks felleskontrollerte virksomhet, og det andre foretaket er det tredje foretakets tilknyttede foretak.
+   5. Foretaket er en pensjonsordning for de ansatte enten i det rapporterende foretaket eller i et foretak som er nærstående til det rapporterende foretaket. Dersom det rapporterende foretaket selv er en slik ordning, er den arbeidsgiver som finansierer ordningen, også nærstående til det rapporterende foretaket.
+   6. En person som nevnt i bokstav a har kontroll eller felles kontroll over foretaket.
+   7. En person som nevnt i bokstav a i har betydelig innflytelse over foretaket eller er en av nøkkelpersonene i foretakets (eller foretakets morforetaks) ledelse.
+
+Nære medlemmer av en persons familie er familiemedlemmer som kan forventes å påvirke eller blir påvirket av denne personen i deres forretninger med foretaket. Slike familiemedlemmer kan omfatte:
+
+1. personens partner og barn,
+2. barn av personens partner, og
+3. personer som forsørges av personen eller dennes ektefelle eller partner.
 
 Ved vurdering av et mulig forhold mellom nærstående parter skal oppmerksomheten rettes mot det reelle innholdet i forholdet og ikke bare mot forholdets juridiske form.
 
@@ -84,9 +113,16 @@ Ved vurdering av et mulig forhold mellom nærstående parter skal oppmerksomhete
 
 ### § 7-30b-2. Foretak som står det offentlige nær
 
-Kravene til opplysninger etter [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b), gjelder ikke for transaksjoner med:en myndighet som har bestemmende innflytelse, betydelig innflytelse eller felles kontroll over det rapporterende foretaket, oget annet foretak som er en nærstående part fordi den samme offentlige myndighet har kontroll, felles kontroll eller betydelig innflytelse over både det rapporterende foretaket og det andre foretaket.
+Kravene til opplysninger etter [regnskapsloven § 7-30b](lov/1998-07-17-56/§7-30b), gjelder ikke for transaksjoner med:
 
-Foretak som benytter unntaket i første ledd skal i stedet gi følgende opplysninger:navnet på den offentlige myndigheten og forholdet til det rapporterende foretaket (kontroll, felles kontroll eller betydelig innflytelse),arten og omfanget av betydelige transaksjoner, ogfor transaksjoner som samlet, men ikke hver for seg, er betydelige, skal det gis en kvalitativ eller kvantitativ indikasjon på deres omfang.
+1. en myndighet som har bestemmende innflytelse, betydelig innflytelse eller felles kontroll over det rapporterende foretaket, og
+2. et annet foretak som er en nærstående part fordi den samme offentlige myndighet har kontroll, felles kontroll eller betydelig innflytelse over både det rapporterende foretaket og det andre foretaket.
+
+Foretak som benytter unntaket i første ledd skal i stedet gi følgende opplysninger:
+
+1. navnet på den offentlige myndigheten og forholdet til det rapporterende foretaket (kontroll, felles kontroll eller betydelig innflytelse),
+2. arten og omfanget av betydelige transaksjoner, og
+3. for transaksjoner som samlet, men ikke hver for seg, er betydelige, skal det gis en kvalitativ eller kvantitativ indikasjon på deres omfang.
 
 > Tilføyd ved [forskrift 21 okt 2014 nr. 1316](forskrift/2014-10-21-1316) (fom regnskapsår påbegynt 1 jan 2014 eller senere).
 
@@ -112,7 +148,11 @@ Regnskapspliktige som utleverer årsregnskap mv. i form av papirkopier eller ele
 
 Dokumenter som etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2) første ledd skal sendes til Regnskapsregisteret, skal sendes inn elektronisk via Altinn ( [http://www.altinn.no](https://www.altinn.no)). Dokumenter som nevnt i første punktum skal sendes inn samlet og være tydelig lesbare. Plikten etter første punktum gjelder ikke for regnskapspliktige som er indre selskaper, eller regnskapspliktige som er setter opp sine årsregnskap i samsvar med internasjonale regnskapsstandarder etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9), hvor resultatregnskap og balanse avviker fra oppstillingsplanene etter [regnskapsloven kapittel 6](lov/1998-07-17-56/kap6). Regnskapspliktige som nevnt i tredje punktum skal sende inn dokumenter som nevnt i første punktum i et ikke direkte redigerbart pdf-format per e-post til Regnskapsregisteret.
 
-Dokumentene skal vedlegges et oversendelsesbrev på blankett fastsatt av Regnskapsregisteret som angir den regnskapspliktiges organisasjonsnummer, foretaksnavn, forretningsadresse, regnskapsåret og dato for fastsettelse av årsregnskapet. Det skal opplyses om den regnskapspliktige er morselskap i konsern. For aksjeselskaper skal det i oversendelsesbrevet dessuten opplyses om:selskapet har truffet beslutning om at selskapets årsregnskap ikke skal revideres,årsregnskapet er utarbeidet av ekstern autorisert regnskapsfører,ekstern autorisert regnskapsfører i løpet av regnskapsåret har bistått ved den løpende regnskapsføringen eller utført andre tjenester for selskapet enn å utarbeide årsregnskapet.
+Dokumentene skal vedlegges et oversendelsesbrev på blankett fastsatt av Regnskapsregisteret som angir den regnskapspliktiges organisasjonsnummer, foretaksnavn, forretningsadresse, regnskapsåret og dato for fastsettelse av årsregnskapet. Det skal opplyses om den regnskapspliktige er morselskap i konsern. For aksjeselskaper skal det i oversendelsesbrevet dessuten opplyses om:
+
+- selskapet har truffet beslutning om at selskapets årsregnskap ikke skal revideres,
+- årsregnskapet er utarbeidet av ekstern autorisert regnskapsfører,
+- ekstern autorisert regnskapsfører i løpet av regnskapsåret har bistått ved den løpende regnskapsføringen eller utført andre tjenester for selskapet enn å utarbeide årsregnskapet.
 
 > Endret ved [forskrifter 15 april 2011 nr. 403](forskrift/2011-04-15-403) (i kraft 1 mai 2011 og 1 jan 2012), [3 juli 2014 nr. 937](forskrift/2014-07-03-937) (i kraft 1 jan 2015).
 
@@ -128,7 +168,11 @@ Registerfører kan fastsette nærmere krav til oversendelse til Regnskapsregiste
 
 ### § 8-3-1. Beregning av forsinkelsesgebyr
 
-Forsinkelsesgebyret fastsettes til ett eller flere rettsgebyr (R) etter følgende satser:ett R pr. uke de første åtte ukerto R pr. uke de neste ti ukerderetter tre R pr. uke de neste åtte uker.
+Forsinkelsesgebyret fastsettes til ett eller flere rettsgebyr (R) etter følgende satser:
+
+1. ett R pr. uke de første åtte uker
+2. to R pr. uke de neste ti uker
+3. deretter tre R pr. uke de neste åtte uker.
 
 Gebyret ilegges for hele uker slik at del av en uke regnes som full uke. Gebyr ilegges til årsregnskapet, årsberetningen, revisjonsberetningen og andre innsendingspliktige dokumenter er mottatt av Regnskapsregisteret, men ikke for mer enn 26 uker. Dersom de innsendte dokumentene har mangler som gjør at de ikke kan godkjennes som årsregnskap mv., ilegges gebyr til manglene er rettet opp.
 
@@ -158,13 +202,32 @@ Fristene i første ledd gjelder for regnskapsår avsluttet på en dato fra 1. ju
 
 ### § 9-1-1. Plikt til å utarbeide adskilte regnskaper – virkeområde
 
-Dette kapittelet gjelder for foretak som i tillegg til å drive annen virksomhet:er gitt en særlig eller eksklusiv rettighet etter EØS-avtalen artikkel 59 første ledd ellerer blitt tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning etter EØS-avtalen artikkel 59 annet ledd og samtidig mottar kompensasjon i en eller annen form knyttet til denne tjenesten.
+Dette kapittelet gjelder for foretak som i tillegg til å drive annen virksomhet:
 
-Med mindre departementet ved enkeltvedtak bestemmer noe annet, gjelder bestemmelsene i dette kapittelet likevel ikke for:foretak som har mindre enn et beløp i norske kroner som svarer til 40 millioner euro i årlig salgsinntekt i de to regnskapsårene før kravene i [§ 9-1-1](forskrift/2006-09-07-1062/§9-1-1) er oppfylt. For offentlige kredittinstitusjoner skal imidlertid den tilsvarende terskelen være en balansesum på et beløp i norske kroner som svarer til 800 millioner euro,foretak som er tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning etter EØS-avtalen artikkel 59 annet ledd, dersom den kompensasjonen de mottar i en eller annen form, ble fastsatt for en passende periode etter en åpen og oversiktlig framgangsmåte uten forskjellsbehandling, ellerforetak som departementet unntar fra forskriften i samsvar med EØS-regler som svarer til direktiv [80/723/EØF](eu/31980l0723), som endret ved direktiv [2000/52/EF](eu/32000l0052), artiklene 1 nr. 2, 3a nr. 2 og 4 nr. 2 bokstav a.
+1. er gitt en særlig eller eksklusiv rettighet etter EØS-avtalen artikkel 59 første ledd eller
+2. er blitt tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning etter EØS-avtalen artikkel 59 annet ledd og samtidig mottar kompensasjon i en eller annen form knyttet til denne tjenesten.
+
+Med mindre departementet ved enkeltvedtak bestemmer noe annet, gjelder bestemmelsene i dette kapittelet likevel ikke for:
+
+1. foretak som har mindre enn et beløp i norske kroner som svarer til 40 millioner euro i årlig salgsinntekt i de to regnskapsårene før kravene i [§ 9-1-1](forskrift/2006-09-07-1062/§9-1-1) er oppfylt. For offentlige kredittinstitusjoner skal imidlertid den tilsvarende terskelen være en balansesum på et beløp i norske kroner som svarer til 800 millioner euro,
+2. foretak som er tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning etter EØS-avtalen artikkel 59 annet ledd, dersom den kompensasjonen de mottar i en eller annen form, ble fastsatt for en passende periode etter en åpen og oversiktlig framgangsmåte uten forskjellsbehandling, eller
+3. foretak som departementet unntar fra forskriften i samsvar med EØS-regler som svarer til direktiv [80/723/EØF](eu/31980l0723), som endret ved direktiv [2000/52/EF](eu/32000l0052), artiklene 1 nr. 2, 3a nr. 2 og 4 nr. 2 bokstav a.
 
 ### § 9-1-2. Plikt til å utarbeide adskilte regnskaper – definisjoner
 
-I dette kapittelet menes med:«De forskjellige deler av virksomheten»:alle varer eller tjenester foretaket har fått en særlig eller eksklusiv rettighet til å levere eller yte, eller alle tjenester av allmenn økonomisk betydning foretaket er tillagt oppgaven med å yte, ogenhver annen vare eller tjeneste som omfattes av foretakets virksomhet.«Eksklusiv rettighet»: en rettighet som et bestemt foretak er gitt ved lov, forskrift eller enkeltvedtak og som gir foretaket enerett til å yte en tjeneste eller drive en virksomhet innenfor et bestemt geografisk område.«Særlig rettighet»: en rettighet som et begrenset antall foretak er gitt ved lov, forskrift eller enkeltvedtak og som innenfor et bestemt geografisk område:begrenser antallet av slike foretak som har tillatelse til å yte en tjeneste eller drive en virksomhet til to eller flere, på annen måte enn etter kriterier som er objektive, forholdsmessige og ikke innebærer forskjellsbehandling,på annen måte enn etter ovenfor nevnte kriterier gir flere konkurrerende foretak tillatelse til å yte en tjeneste eller drive en virksomhet, ellerpå annen måte enn etter ovenfor nevnte kriterier gir ett eller flere foretak rettslige fordeler som i betydelig grad påvirker andre foretaks evne til innenfor samme geografiske område å yte samme tjeneste på vilkår som i all hovedsak er like.«Departementet»: Finansdepartementet samt det departement som har ansvar for den ordningen som gjør at det eller de aktuelle foretakene omfattes av bestemmelsene i dette kapittelet jf. [§ 9-1-1](forskrift/2006-09-07-1062/§9-1-1) første ledd.
+I dette kapittelet menes med:
+
+1. «De forskjellige deler av virksomheten»:
+
+   - alle varer eller tjenester foretaket har fått en særlig eller eksklusiv rettighet til å levere eller yte, eller alle tjenester av allmenn økonomisk betydning foretaket er tillagt oppgaven med å yte, og
+   - enhver annen vare eller tjeneste som omfattes av foretakets virksomhet.
+2. «Eksklusiv rettighet»: en rettighet som et bestemt foretak er gitt ved lov, forskrift eller enkeltvedtak og som gir foretaket enerett til å yte en tjeneste eller drive en virksomhet innenfor et bestemt geografisk område.
+3. «Særlig rettighet»: en rettighet som et begrenset antall foretak er gitt ved lov, forskrift eller enkeltvedtak og som innenfor et bestemt geografisk område:
+
+   - begrenser antallet av slike foretak som har tillatelse til å yte en tjeneste eller drive en virksomhet til to eller flere, på annen måte enn etter kriterier som er objektive, forholdsmessige og ikke innebærer forskjellsbehandling,
+   - på annen måte enn etter ovenfor nevnte kriterier gir flere konkurrerende foretak tillatelse til å yte en tjeneste eller drive en virksomhet, eller
+   - på annen måte enn etter ovenfor nevnte kriterier gir ett eller flere foretak rettslige fordeler som i betydelig grad påvirker andre foretaks evne til innenfor samme geografiske område å yte samme tjeneste på vilkår som i all hovedsak er like.
+4. «Departementet»: Finansdepartementet samt det departement som har ansvar for den ordningen som gjør at det eller de aktuelle foretakene omfattes av bestemmelsene i dette kapittelet jf. [§ 9-1-1](forskrift/2006-09-07-1062/§9-1-1) første ledd.
 
 ### § 9-1-3. Plikt til å utarbeide adskilte regnskaper – pliktens innhold
 
@@ -238,7 +301,19 @@ Finansdepartementet kan ved enkeltvedtak gjøre unntak fra plikten til å utarbe
 
 Denne forskriften trer i kraft 1. januar 2007.
 
-Fra samme tid oppheves følgende forskrifter:[Forskrift 16. desember 1998 nr. 1234](forskrift/1998-12-16-1234) om innsending av årsregnskap m.v. til Regnskapsregisteret og rett til innsyn i årsregnskap m.v.[Forskrift 16. desember 1998 nr. 1236](forskrift/1998-12-16-1236) om overgangsregler til lov om årsregnskap m.v. (regnskapsloven)[Forskrift 16. desember 1998 nr. 1237](forskrift/1998-12-16-1237) om årsregnskap for utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land[Forskrift 16. desember 1998 nr. 1238](forskrift/1998-12-16-1238) om unntak fra konsernregnskapsplikt for morselskap i underkonsern[Forskrift 6. mai 1999 nr. 544](forskrift/1999-05-06-544) om regnskapssystem, registrering, dokumentasjon og oppbevaring av regnskapsopplysninger[Forskrift 19. juli 1999 nr. 816](forskrift/1999-07-19-816) om avvikende regnskapsår for filial og datterselskap av utenlandsk foretak som anvender avvikende regnskapsår[Vedtak 24. september 1999 nr. 1066](forskrift/1999-09-24-1066) om ikrafttredelse og overgangsbestemmelser til [lov av 18. juni 1999 nr. 41](lov/1999-06-18-41) om endringer i regnskapsloven m.v.[Forskrift 3. november 1999 nr. 1140](forskrift/1999-11-03-1140) om adgang til å unnta visse utenlandske foretak fra regnskapsplikt i Norge[Forskrift 10. mars 2000 nr. 218](forskrift/2000-03-10-218) om summarisk omregning av registrerte regnskapsopplysninger i utenlandsk valuta til norsk valuta for føring i årsregnskapet i henhold til [regnskapsloven § 3-4](lov/1998-07-17-56/§3-4)[Forskrift 19. desember 2003 nr. 1642](forskrift/2003-12-19-1642) om regnskapsføring av finansielle instrumenter[Forskrift 4. juli 2003 nr. 897](forskrift/2003-07-04-897) om atskilte regnskaper for foretak som er gitt særlige eller eksklusive rettigheter eller som utfører tjenester av allmenn økonomisk betydning.
+Fra samme tid oppheves følgende forskrifter:
+
+1. [Forskrift 16. desember 1998 nr. 1234](forskrift/1998-12-16-1234) om innsending av årsregnskap m.v. til Regnskapsregisteret og rett til innsyn i årsregnskap m.v.
+2. [Forskrift 16. desember 1998 nr. 1236](forskrift/1998-12-16-1236) om overgangsregler til lov om årsregnskap m.v. (regnskapsloven)
+3. [Forskrift 16. desember 1998 nr. 1237](forskrift/1998-12-16-1237) om årsregnskap for utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land
+4. [Forskrift 16. desember 1998 nr. 1238](forskrift/1998-12-16-1238) om unntak fra konsernregnskapsplikt for morselskap i underkonsern
+5. [Forskrift 6. mai 1999 nr. 544](forskrift/1999-05-06-544) om regnskapssystem, registrering, dokumentasjon og oppbevaring av regnskapsopplysninger
+6. [Forskrift 19. juli 1999 nr. 816](forskrift/1999-07-19-816) om avvikende regnskapsår for filial og datterselskap av utenlandsk foretak som anvender avvikende regnskapsår
+7. [Vedtak 24. september 1999 nr. 1066](forskrift/1999-09-24-1066) om ikrafttredelse og overgangsbestemmelser til [lov av 18. juni 1999 nr. 41](lov/1999-06-18-41) om endringer i regnskapsloven m.v.
+8. [Forskrift 3. november 1999 nr. 1140](forskrift/1999-11-03-1140) om adgang til å unnta visse utenlandske foretak fra regnskapsplikt i Norge
+9. [Forskrift 10. mars 2000 nr. 218](forskrift/2000-03-10-218) om summarisk omregning av registrerte regnskapsopplysninger i utenlandsk valuta til norsk valuta for føring i årsregnskapet i henhold til [regnskapsloven § 3-4](lov/1998-07-17-56/§3-4)
+10. [Forskrift 19. desember 2003 nr. 1642](forskrift/2003-12-19-1642) om regnskapsføring av finansielle instrumenter
+11. [Forskrift 4. juli 2003 nr. 897](forskrift/2003-07-04-897) om atskilte regnskaper for foretak som er gitt særlige eller eksklusive rettigheter eller som utfører tjenester av allmenn økonomisk betydning.
 
 > Endret ved [forskrift 15 nov 2006 nr. 1258](forskrift/2006-11-15-1258).
 

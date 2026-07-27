@@ -15,7 +15,7 @@ xml_hash: "f31251a63074fa8db8666bef92587dfb2b374dbf45781d648ac3281c316c4e68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32015L1535"
@@ -37,7 +37,15 @@ Loven skal motvirke ulovlige handelshindringer og bidra til fri bevegelighet i E
 
 ### § 2. Saklig og stedlig virkeområde
 
-Loven gjelder for elektronisk administrativt samarbeid i EØS og statlige forvaltningsorganers utarbeidelse og vedtakelse av tekniske regler. Loven gjelder likevel ikke for tekniske regler somgjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av [EØS-avtalen](lov/1992-11-27-109/eøsl),er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv [2001/95/EF artikkel 12](eu/32001l0095/a12) nr. 1.
+Loven gjelder for elektronisk administrativt samarbeid i EØS og statlige forvaltningsorganers utarbeidelse og vedtakelse av tekniske regler. Loven gjelder likevel ikke for tekniske regler som
+
+1. gjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,
+2. utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,
+3. utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,
+4. utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,
+5. utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,
+6. utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av [EØS-avtalen](lov/1992-11-27-109/eøsl),
+7. er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv [2001/95/EF artikkel 12](eu/32001l0095/a12) nr. 1.
 
 Bortsett fra [§ 13](lov/2004-12-17-101/§13) gjelder loven heller ikke tekniske regler om investeringstjenester i forbindelse med verdipapirer, som etter sitt innhold er identiske med direktiv [2004/39/EF](eu/32004l0039), eller om markeder eller organer som utfører oppgaver i forbindelse med oppgjør for slike markeder.
 
@@ -51,8 +59,18 @@ Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen, 
 
 ### § 3. Definisjoner
 
-1. Med *tekniske regler* menes i denne lov:tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,regler som forbyr produksjon, import, omsetning eller bruk av et produkt,regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste.Som tekniske regler regnes også vilkår i avtaler med det offentlige om overholdelse av tekniske spesifikasjoner eller andre krav, med unntak av anbudsgrunnlag ved offentlige innkjøp, og regler om økonomiske tiltak som påvirker forbruket av produkter eller informasjonssamfunnstjenester ved å motivere til å følge slike krav.
-2. Med *tekniske spesifikasjoner* menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:produkter beregnet på konsum, fôrvarer samt legemidler som definert i [legemiddelloven § 2](lov/1992-12-04-132/§2), ogandre produkter når kravene påvirker produktenes egenskaper.
+1. Med *tekniske regler* menes i denne lov:
+
+   1. tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,
+   2. krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,
+   3. regler som forbyr produksjon, import, omsetning eller bruk av et produkt,
+   4. regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste.
+
+   Som tekniske regler regnes også vilkår i avtaler med det offentlige om overholdelse av tekniske spesifikasjoner eller andre krav, med unntak av anbudsgrunnlag ved offentlige innkjøp, og regler om økonomiske tiltak som påvirker forbruket av produkter eller informasjonssamfunnstjenester ved å motivere til å følge slike krav.
+2. Med *tekniske spesifikasjoner* menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:
+
+   1. produkter beregnet på konsum, fôrvarer samt legemidler som definert i [legemiddelloven § 2](lov/1992-12-04-132/§2), og
+   2. andre produkter når kravene påvirker produktenes egenskaper.
 3. Med *andre krav* menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning.
 4. Med *produkt* menes industriprodukter og landbruksprodukter som omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl).
 5. Med *informasjonssamfunnstjenester* menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv [(EU) 2015/1535](eu/32015l1535) vedlegg I.
@@ -66,7 +84,11 @@ Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen, 
 
 Forslag til tekniske regler skal meldes til EFTAs overvåkingsorgan gjennom departementet.
 
-Det skal gis ny melding etter første ledd dersom det gjøres endringer som i vesentlig gradendrer virkeområdet,forkorter tidsplanen for gjennomføring, ellerinnfører nye eller strengere krav.
+Det skal gis ny melding etter første ledd dersom det gjøres endringer som i vesentlig grad
+
+1. endrer virkeområdet,
+2. forkorter tidsplanen for gjennomføring, eller
+3. innfører nye eller strengere krav.
 
 ### § 5. Krav til meldingens innhold mv.
 
@@ -88,11 +110,18 @@ Forslag til tekniske regler som skal meldes etter [§ 4](lov/2004-12-17-101/§4)
 
 Dersom en EØS-stat, Sveits, EFTAs overvåkingsorgan eller Europakommisjonen gir kommentarer til et forslag til teknisk regel, skal det så langt det er mulig tas hensyn til disse.
 
-Dersom departementet innen tre måneder regnet fra det tidspunkt EFTAs overvåkingsorgan mottar meldingen, mottar en utførlig uttalelse fra en EØS EFTA-stat, Sveits eller EFTAs overvåkingsorgan om at det planlagte tiltaket kan skape hindringer for den frie bevegeligheten av varer eller informasjonssamfunnstjenester, eller for etablering av slike tjenester, skal vedtakelsen utsettes med ytterligereen måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i [§ 3](lov/2004-12-17-101/§3) nr. 1 annet ledd, ogtre måneder for andre forslag til tekniske regler.
+Dersom departementet innen tre måneder regnet fra det tidspunkt EFTAs overvåkingsorgan mottar meldingen, mottar en utførlig uttalelse fra en EØS EFTA-stat, Sveits eller EFTAs overvåkingsorgan om at det planlagte tiltaket kan skape hindringer for den frie bevegeligheten av varer eller informasjonssamfunnstjenester, eller for etablering av slike tjenester, skal vedtakelsen utsettes med ytterligere
+
+1. en måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i [§ 3](lov/2004-12-17-101/§3) nr. 1 annet ledd, og
+2. tre måneder for andre forslag til tekniske regler.
 
 ### § 7. Unntak fra stillstandsplikten ved behov for umiddelbar vedtakelse
 
-Stillstandsplikten etter [§ 6](lov/2004-12-17-101/§6) får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet tilvern av folkehelsen, dyrs helse eller plantelivet,offentlig sikkerhet, elleroffentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige.
+Stillstandsplikten etter [§ 6](lov/2004-12-17-101/§6) får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet til
+
+1. vern av folkehelsen, dyrs helse eller plantelivet,
+2. offentlig sikkerhet, eller
+3. offentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige.
 
 Stillstandsplikten etter [§ 6](lov/2004-12-17-101/§6) får heller ikke anvendelse når regler om finansielle tjenester må vedtas og settes i kraft umiddelbart på grunn av en alvorlig situasjon knyttet til det økonomiske systems sikkerhet og integritet, herunder særlig regler til vern av innskytere, investorer og forsikrede.
 
@@ -100,13 +129,19 @@ Meldingen etter [kapittel II](lov/2004-12-17-101/kapii) skal angi grunnen til at
 
 ### § 8. Andre unntak fra stillstandsplikten
 
-Stillstandsplikten etter [§ 6](lov/2004-12-17-101/§6) kommer ikke til anvendelse påtekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, ogtekniske regler om økonomiske tiltak som nevnt i [§ 3](lov/2004-12-17-101/§3) nr. 1 annet ledd.
+Stillstandsplikten etter [§ 6](lov/2004-12-17-101/§6) kommer ikke til anvendelse på
+
+1. tekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og
+2. tekniske regler om økonomiske tiltak som nevnt i [§ 3](lov/2004-12-17-101/§3) nr. 1 annet ledd.
 
 ## Kapittel IV. Rettsvirkninger ved brudd på loven
 
 ### § 9. Uanvendelighet
 
-Tekniske regler som er vedtatt uten behandling i samsvar med [kapittel II](lov/2004-12-17-101/kapii) og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med [§ 10](lov/2004-12-17-101/§10), så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøreproduksjon, import, omsetning eller bruk av et produkt, ellerytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester.
+Tekniske regler som er vedtatt uten behandling i samsvar med [kapittel II](lov/2004-12-17-101/kapii) og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med [§ 10](lov/2004-12-17-101/§10), så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøre
+
+1. produksjon, import, omsetning eller bruk av et produkt, eller
+2. ytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester.
 
 ### § 10. Melding og stadfestelse etter vedtakelse
 
@@ -168,9 +203,21 @@ For [§§ 17](lov/2004-12-17-101/§17) og [18](lov/2004-12-17-101/§18) skal [tj
 
 ### § 17. Meldeplikt for visse krav til tjenestevirksomhet i riket
 
-Forslag til følgende krav til å starte og utøve tjenestevirksomhet i riket skal meldes til EFTAs overvåkingsorgan gjennom departementet:kvantitative eller geografiske begrensninger,plikt for tjenesteyter til å ha en bestemt juridisk form,krav knyttet til eierskap i et foretak,krav om at en tjeneste bare kan ytes av tjenesteytere innenfor et bestemt yrke, unntatt krav som gjelder lovregulerte yrker som reguleres av [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) punkt 1 (direktiv [2005/36/EF](eu/32005l0036)) om godkjenning av yrkeskvalifikasjoner.krav om minste antall ansatte,krav om minstepriser eller høyeste priser for en tjeneste, ogkrav om å yte andre nærmere angitte tjenester sammen med hovedytelsen.
+Forslag til følgende krav til å starte og utøve tjenestevirksomhet i riket skal meldes til EFTAs overvåkingsorgan gjennom departementet:
 
-Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravetverken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,er begrunnet ut fra tvingende allmenne hensyn, oger egnet og nødvendig for å oppnå formålet med kravet.
+1. kvantitative eller geografiske begrensninger,
+2. plikt for tjenesteyter til å ha en bestemt juridisk form,
+3. krav knyttet til eierskap i et foretak,
+4. krav om at en tjeneste bare kan ytes av tjenesteytere innenfor et bestemt yrke, unntatt krav som gjelder lovregulerte yrker som reguleres av [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) punkt 1 (direktiv [2005/36/EF](eu/32005l0036)) om godkjenning av yrkeskvalifikasjoner.
+5. krav om minste antall ansatte,
+6. krav om minstepriser eller høyeste priser for en tjeneste, og
+7. krav om å yte andre nærmere angitte tjenester sammen med hovedytelsen.
+
+Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravet
+
+1. verken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,
+2. er begrunnet ut fra tvingende allmenne hensyn, og
+3. er egnet og nødvendig for å oppnå formålet med kravet.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)).
 
@@ -178,7 +225,11 @@ Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at k
 
 Forslag til krav som kan gjøres gjeldende overfor en tjenesteyter fra en annen EØS-stat i henhold til [tjenesteloven §§ 16](lov/2009-06-19-103/§16) og [17](lov/2009-06-19-103/§17), skal meldes til EFTAs overvåkingsorgan gjennom departementet.
 
-Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravetverken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,er begrunnet ut fra hensynet til offentlig orden og sikkerhet, folkehelsen eller miljøvern, oger egnet og nødvendig for å oppnå formålet med kravet.
+Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravet
+
+1. verken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,
+2. er begrunnet ut fra hensynet til offentlig orden og sikkerhet, folkehelsen eller miljøvern, og
+3. er egnet og nødvendig for å oppnå formålet med kravet.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)).
 

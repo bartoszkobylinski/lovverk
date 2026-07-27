@@ -15,7 +15,7 @@ xml_hash: "5bc94cd46b2066ed70cba12aab0e70ba51fda87861b2298d49ec18f84c79aace"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32003L0004"
@@ -31,7 +31,16 @@ Denne loven har til formål å sikre allmennheten tilgang til miljøinformasjon 
 
 ### § 2. Hva som forstås med miljøinformasjon
 
-(1) Med miljøinformasjon menes faktiske opplysninger og vurderinger ommiljøet,faktorer som påvirker eller kan påvirke miljøet, herunderplanlagte og iverksatte tiltak eller aktiviteter i miljøet,produkters egenskaper eller innhold,forhold ved drift av virksomhet, ogadministrative avgjørelser og tiltak, herunder enkeltavgjørelser, avtaler, regelverk, planer, strategier og programmer, samt tilhørende analyser, beregninger og forutsetninger,menneskers helse, sikkerhet og levevilkår i den grad de påvirkes eller kan bli påvirket av tilstanden i miljøet eller faktorer som nevnt i bokstav b.
+(1) Med miljøinformasjon menes faktiske opplysninger og vurderinger om
+
+1. miljøet,
+2. faktorer som påvirker eller kan påvirke miljøet, herunder
+
+   - planlagte og iverksatte tiltak eller aktiviteter i miljøet,
+   - produkters egenskaper eller innhold,
+   - forhold ved drift av virksomhet, og
+   - administrative avgjørelser og tiltak, herunder enkeltavgjørelser, avtaler, regelverk, planer, strategier og programmer, samt tilhørende analyser, beregninger og forutsetninger,
+3. menneskers helse, sikkerhet og levevilkår i den grad de påvirkes eller kan bli påvirket av tilstanden i miljøet eller faktorer som nevnt i bokstav b.
 
 (2) Med miljøet forstås det ytre miljø inkludert kulturminner og kulturmiljø.
 
@@ -53,7 +62,11 @@ Denne loven har til formål å sikre allmennheten tilgang til miljøinformasjon 
 
 ### § 5. Definisjon av offentlig organ og rekkevidden av kapittel 3 og 4
 
-(1) Bestemmelsene i [kapittel 3](lov/2003-05-09-31/kap3) kommer til anvendelse på offentlige organer. Med offentlig organ menesethvert forvaltningsorgan som er omfattet av [offentleglova § 2](lov/2006-05-19-16/§2).rettssubjekter som utøver offentlige funksjoner eller tilbyr tjenester til allmennheten, og som er kontrollert av et organ som faller inn under bokstav a. Dette gjelder likevel ikke for aktiviteter som drives i konkurranse med private. Offentlig kontroll foreligger når organet som faller inn under bokstav a, oppnevner mer enn halvparten av medlemmene av rettssubjektets styrende organer eller på annen måte har bestemmende innflytelse over rettssubjektet,rettssubjekter som ved lov, forskrift eller på oppdrag fra organer som faller inn under bokstav a eller b, har til oppgave å utføre offentlige funksjoner eller tilby tjenester til allmennheten som vedrører miljøet. Dette gjelder bare for miljøinformasjon som knytter seg til disse funksjonene eller tjenestene.
+(1) Bestemmelsene i [kapittel 3](lov/2003-05-09-31/kap3) kommer til anvendelse på offentlige organer. Med offentlig organ menes
+
+1. ethvert forvaltningsorgan som er omfattet av [offentleglova § 2](lov/2006-05-19-16/§2).
+2. rettssubjekter som utøver offentlige funksjoner eller tilbyr tjenester til allmennheten, og som er kontrollert av et organ som faller inn under bokstav a. Dette gjelder likevel ikke for aktiviteter som drives i konkurranse med private. Offentlig kontroll foreligger når organet som faller inn under bokstav a, oppnevner mer enn halvparten av medlemmene av rettssubjektets styrende organer eller på annen måte har bestemmende innflytelse over rettssubjektet,
+3. rettssubjekter som ved lov, forskrift eller på oppdrag fra organer som faller inn under bokstav a eller b, har til oppgave å utføre offentlige funksjoner eller tilby tjenester til allmennheten som vedrører miljøet. Dette gjelder bare for miljøinformasjon som knytter seg til disse funksjonene eller tjenestene.
 
 (2) Bestemmelsene i [kapittel 4](lov/2003-05-09-31/kap4) kommer til anvendelse på all annen offentlig eller privat virksomhet, herunder næringsvirksomhet og annen organisert virksomhet.
 
@@ -85,7 +98,10 @@ Enhver virksomhet som omfattes av [kapittel 3](lov/2003-05-09-31/kap3) eller 4, 
 
 (1) Enhver har rett til å få miljøinformasjon fra et offentlig organ, så framt informasjonen foreligger hos vedkommende organ eller omfattes av organets kunnskapsplikt etter [§§ 8](lov/2003-05-09-31/§8) eller [9](lov/2003-05-09-31/§9), og det ikke er gjort unntak fra informasjonsretten etter loven her.
 
-(2) Miljøinformasjonen foreligger hos vedkommende organ når informasjonener i det offentlige organets besittelse, elleroppbevares av en fysisk eller juridisk person på vegne av det offentlige organet.
+(2) Miljøinformasjonen foreligger hos vedkommende organ når informasjonen
+
+1. er i det offentlige organets besittelse, eller
+2. oppbevares av en fysisk eller juridisk person på vegne av det offentlige organet.
 
 (3) Et krav om miljøinformasjon kan avvises dersom det er for generelt formulert eller ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder. Før et krav avvises, skal informasjonssøkeren i rimelig grad gis veiledning til å utforme kravet på en måte som gjør at det kan behandles.
 
@@ -103,7 +119,11 @@ Enhver virksomhet som omfattes av [kapittel 3](lov/2003-05-09-31/kap3) eller 4, 
 
 ### § 12. Miljøinformasjon som alltid skal utleveres
 
-Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) alltid få informasjon omhelseskadelig forurensning eller forurensning som kan forårsake alvorlig skade på miljøet,forholdsregler for å hindre eller redusere skade som nevnt i bokstav a, ogulovlige inngrep i eller ulovlige skader på miljøet.
+Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) alltid få informasjon om
+
+1. helseskadelig forurensning eller forurensning som kan forårsake alvorlig skade på miljøet,
+2. forholdsregler for å hindre eller redusere skade som nevnt i bokstav a, og
+3. ulovlige inngrep i eller ulovlige skader på miljøet.
 
 ### § 13. Saksbehandling
 
@@ -131,7 +151,11 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 (1) Avslag på krav om miljøinformasjon kan påklages til nærmeste overordnede forvaltningsorgan. Det samme gjelder avvisning av krav etter [§ 10](lov/2003-05-09-31/§10) tredje ledd. Klagefristen er tre uker fra det tidspunkt underretning om avgjørelsen er kommet fram til vedkommende. Dersom svar ikke er kommet fram innen to måneder etter at kravet om informasjon ble mottatt hos det offentlige organet, anses dette som avslag som kan påklages. Har informasjonssøker bedt om å få oppgitt nærmere begrunnelse for avslaget etter [§ 13](lov/2003-05-09-31/§13) siste ledd, avbrytes klagefristen.
 
-(2) For klage over avslag fra offentlig organ som omfattes av [§ 5](lov/2003-05-09-31/§5) første ledd bokstav b eller c, er klageinstansen det forvaltningsorganet somkontrollerer organet,har gitt oppdrag til organet eller kontrollerer organet som har gitt oppdrag til organet, ellerhar vedtatt forskriften eller har ansvar for loven som virksomheten tilbyr tjenesten i medhold av.
+(2) For klage over avslag fra offentlig organ som omfattes av [§ 5](lov/2003-05-09-31/§5) første ledd bokstav b eller c, er klageinstansen det forvaltningsorganet som
+
+1. kontrollerer organet,
+2. har gitt oppdrag til organet eller kontrollerer organet som har gitt oppdrag til organet, eller
+3. har vedtatt forskriften eller har ansvar for loven som virksomheten tilbyr tjenesten i medhold av.
 
 (3) Reglene i offentlighetsloven1 om klage gjelder så langt de passer for klage over avslag på krav om miljøinformasjon fra offentlig organ.
 
@@ -149,7 +173,11 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 ### § 17. Unntak
 
-(1) Krav om miljøinformasjon kan avslås dersomunntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse,kravet er åpenbart urimelig, ellerinformasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
+(1) Krav om miljøinformasjon kan avslås dersom
+
+1. unntak er påkrevd fordi offentlighet ville lette gjennomføringen av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse,
+2. kravet er åpenbart urimelig, eller
+3. informasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
 
 (2) Miljøinformasjon som er nevnt i [§ 12](lov/2003-05-09-31/§12), skal alltid utleveres. Reglene i [§ 14](lov/2003-05-09-31/§14) annet og tredje ledd gjelder tilsvarende så langt de passer.
 
@@ -189,7 +217,12 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 (1) Offentlige myndigheter skal i forbindelse med arbeidet med utformingen av regelverk, planer og programmer som kan ha betydning for miljøet, gi allmennheten mulighet til å komme med innspill. Dette skal gjøres på stadier og med tidsrammer som sikrer reell mulighet til å påvirke beslutningene. Allmennheten skal i denne forbindelse gis nødvendig informasjon.
 
-(2) For regelverk, planer eller programmer som kan ha vesentlige konsekvenser for miljøet, skal det gjennomføres en offentlig høring. Slik høring skal gjennomføres i god tid før saken blir avgjort. Ved høringen skal det foreligge en redegjørelse for forslagets virkninger for miljøet. Offentlig høring kan unnlates i den grad:andre former for medvirkningstiltak vurderes som mer egnet til å ivareta allmennhetens rett til deltakelse i beslutningsprosessen,høring ikke vil være praktisk gjennomførlig,høring kan vanskeliggjøre gjennomføring av vedkommende sak eller svekke dens effektivitet, ellerhøring må anses åpenbart unødvendig.
+(2) For regelverk, planer eller programmer som kan ha vesentlige konsekvenser for miljøet, skal det gjennomføres en offentlig høring. Slik høring skal gjennomføres i god tid før saken blir avgjort. Ved høringen skal det foreligge en redegjørelse for forslagets virkninger for miljøet. Offentlig høring kan unnlates i den grad:
+
+1. andre former for medvirkningstiltak vurderes som mer egnet til å ivareta allmennhetens rett til deltakelse i beslutningsprosessen,
+2. høring ikke vil være praktisk gjennomførlig,
+3. høring kan vanskeliggjøre gjennomføring av vedkommende sak eller svekke dens effektivitet, eller
+4. høring må anses åpenbart unødvendig.
 
 (3) Utkast til meldinger og proposisjoner til Stortinget kan unntas fra offentlig høring.
 

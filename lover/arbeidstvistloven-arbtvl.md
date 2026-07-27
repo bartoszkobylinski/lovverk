@@ -15,7 +15,7 @@ xml_hash: "1d50dcccea9e1cf0c69544faac4ca8b88564e4316320c9de5e1b5523e2b28887"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,19 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne lov menes med:*arbeidstaker*: enhver som utfører arbeid for og underordnet en annen, og som ikke går inn under [lov om offentlige tjenestetvister](lov/1958-07-18-2).*arbeidsgiver*: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.*fagforening*: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.*arbeidsgiverforening*: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.*tariffavtale*: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.*streik*: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.*lockout*: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.*plassoppsigelse*: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.*rettstvist*: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.*interessetvist*: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.*virkedag*: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.
+I denne lov menes med:
+
+1. *arbeidstaker*: enhver som utfører arbeid for og underordnet en annen, og som ikke går inn under [lov om offentlige tjenestetvister](lov/1958-07-18-2).
+2. *arbeidsgiver*: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.
+3. *fagforening*: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.
+4. *arbeidsgiverforening*: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.
+5. *tariffavtale*: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.
+6. *streik*: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.
+7. *lockout*: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.
+8. *plassoppsigelse*: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.
+9. *rettstvist*: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.
+10. *interessetvist*: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.
+11. *virkedag*: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.
 
 > Endret ved lover [19 juni 2020 nr. 71](lov/2020-06-19-71) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1235](forskrift/2020-06-19-1235)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
 
@@ -120,7 +132,13 @@ Ingen må gjøre tjeneste som mekler før de har avlagt skriftlig forsikring om 
 
 (1) Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren.
 
-(2) Meldingen skal inneholde:kopi av plassoppsigelsen,redegjørelse for hva tvisten gjelder,opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,opplysninger om når plassoppsigelsesfristen løper ut,opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.
+(2) Meldingen skal inneholde:
+
+1. kopi av plassoppsigelsen,
+2. redegjørelse for hva tvisten gjelder,
+3. opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,
+4. opplysninger om når plassoppsigelsesfristen løper ut,
+5. opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.
 
 (3) Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren.
 
@@ -356,7 +374,16 @@ Ingen må gjøre tjeneste som dommer i Arbeidsretten før de har avlagt skriftli
 
 (1) Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar.
 
-(2) Stevningen skal inneholde:navn og adresse på parter og prosessfullmektiger,en fremstilling av saken og de krav som gjøres gjeldende,en påstand som angir det domsresultat saksøker krever,den faktiske og rettslige begrunnelse for saksøkerens krav,oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,saksøkerens syn på den videre behandling av saken.
+(2) Stevningen skal inneholde:
+
+1. navn og adresse på parter og prosessfullmektiger,
+2. en fremstilling av saken og de krav som gjøres gjeldende,
+3. en påstand som angir det domsresultat saksøker krever,
+4. den faktiske og rettslige begrunnelse for saksøkerens krav,
+5. oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,
+6. oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,
+7. grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,
+8. saksøkerens syn på den videre behandling av saken.
 
 (3) Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker.
 
@@ -372,7 +399,10 @@ Ingen må gjøre tjeneste som dommer i Arbeidsretten før de har avlagt skriftli
 
 ### § 46. Partshjelp
 
-(1) Partshjelp kan tillates forden som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, ogarbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.
+(1) Partshjelp kan tillates for
+
+1. den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og
+2. arbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.
 
 (2) Medlem eller underavdeling som ikke har søksmålsrett etter [§ 35](lov/2012-01-27-9/§35) første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.
 

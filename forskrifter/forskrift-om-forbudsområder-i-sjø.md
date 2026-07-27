@@ -28,7 +28,9 @@ Forskriften skal gi en effektiv kontroll med ferdsel og aktivitet i og omkring v
 
 ## § 2. Definisjoner
 
-I forskriften menes med*strandlinje*: middel høyvannslinje angitt i sjø- og landkart.
+I forskriften menes med
+
+1. *strandlinje*: middel høyvannslinje angitt i sjø- og landkart.
 
 ## § 3. Koordinater
 
@@ -46,7 +48,10 @@ Forsvaret kan dispensere fra forbudet. I vurdering av en dispensasjonssøknad sk
 
 ## § 6. Horten (Horten kommune)
 
-Ved de militære områdene Mellomøya, Østøya og Vealøs er forbudsområdet en 50 meters sone ut fra strandlinjen. I Strømsund, sundet mellom Mellomøya og Østøya, er forbudsområdet syd av linjen mellom posisjonene59° 26,92′ N 010° 27,75′ Ø59° 27,04′ N 010° 28,50′ Ø.
+Ved de militære områdene Mellomøya, Østøya og Vealøs er forbudsområdet en 50 meters sone ut fra strandlinjen. I Strømsund, sundet mellom Mellomøya og Østøya, er forbudsområdet syd av linjen mellom posisjonene
+
+1. 59° 26,92′ N 010° 27,75′ Ø
+2. 59° 27,04′ N 010° 28,50′ Ø.
 
 ## § 7. Rauøy (Fredrikstad kommune)
 
@@ -58,7 +63,15 @@ Ved det militære området på Ulsnes/Hundvåg er forbudsområdet en 50 meters s
 
 ## § 9. Bangavågen/Hundvåg (Stavanger kommune)
 
-Forbudsområdet ved Bangavågen/Hundvåg er begrenset av rette linjer gjennom posisjonene58° 59,47′ N 005° 43,18′ Ø58° 59,42′ N 005° 43,21′ Ø58° 59,37′ N 005° 43,06′ Ø58° 59,24′ N 005° 43,02′ Ø58° 59,23′ N 005° 42,80′ Ø58° 59,33′ N 005° 42,65′ Ø58° 59,45′ N 005° 42,62′ Ø.
+Forbudsområdet ved Bangavågen/Hundvåg er begrenset av rette linjer gjennom posisjonene
+
+1. 58° 59,47′ N 005° 43,18′ Ø
+2. 58° 59,42′ N 005° 43,21′ Ø
+3. 58° 59,37′ N 005° 43,06′ Ø
+4. 58° 59,24′ N 005° 43,02′ Ø
+5. 58° 59,23′ N 005° 42,80′ Ø
+6. 58° 59,33′ N 005° 42,65′ Ø
+7. 58° 59,45′ N 005° 42,62′ Ø.
 
 Forbudsområdets utstrekning i sjøen ved Bangavågen/Hundvåg følger strandlinjen. Landområdet innenfor strandlinjen omfattes ikke av forbudsområdet.
 
@@ -66,7 +79,14 @@ Fartøy kan følge naturlig seilingsled gjennom området. Ved militær aktivitet
 
 ## § 10. Rennesøy, Talje og Brimse (Stavanger kommune)
 
-I Brimsefjorden er forbudsområdet begrenset av rette linjer gjennom posisjonene59° 06,800′ N 005° 46,600′ Ø59° 06,800′ N 005° 47,900′ Ø59° 06,000′ N 005° 50,500′ Ø59° 04,800′ N 005° 49,700′ Ø59° 04,687′ N 005° 48,770′ Ø59° 04,400′ N 005° 46,400′ Ø.
+I Brimsefjorden er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 59° 06,800′ N 005° 46,600′ Ø
+2. 59° 06,800′ N 005° 47,900′ Ø
+3. 59° 06,000′ N 005° 50,500′ Ø
+4. 59° 04,800′ N 005° 49,700′ Ø
+5. 59° 04,687′ N 005° 48,770′ Ø
+6. 59° 04,400′ N 005° 46,400′ Ø.
 
 Forbudsområdets utstrekning i sjøen ved Rennesøy, Talje og Brimse følger strandlinjen. Landområdet innenfor strandlinjen omfattes ikke av forbudsområdet.
 
@@ -74,7 +94,18 @@ Fartøy tillates å følge naturlig seilingsled gjennom området. Ved militær a
 
 ## § 11. Mastrafjorden (Stavanger kommune)
 
-I Mastrafjorden nord av Åmøy er forbudsområdet begrenset av rette linjer gjennom posisjonene59° 02,8′ N 005° 41,9′ Ø59° 03,0′ N 005° 41,8′ Ø59° 04,0′ N 005° 44,3′ Ø59° 03,8′ N 005° 44,8′ Ø59° 03,1′ N 005° 44,7′ Ø59° 03,1′ N 005° 43,6′ Ø59° 02,8′ N 005° 43,4′ Ø59° 02,53′ N 005° 42,23′ Ø59° 02,64′ N 005° 42,03′ Ø59° 02,7′ N 005° 42,0′ Ø.
+I Mastrafjorden nord av Åmøy er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 59° 02,8′ N 005° 41,9′ Ø
+2. 59° 03,0′ N 005° 41,8′ Ø
+3. 59° 04,0′ N 005° 44,3′ Ø
+4. 59° 03,8′ N 005° 44,8′ Ø
+5. 59° 03,1′ N 005° 44,7′ Ø
+6. 59° 03,1′ N 005° 43,6′ Ø
+7. 59° 02,8′ N 005° 43,4′ Ø
+8. 59° 02,53′ N 005° 42,23′ Ø
+9. 59° 02,64′ N 005° 42,03′ Ø
+10. 59° 02,7′ N 005° 42,0′ Ø.
 
 Landområdene på Rossholmen og Espholmen er ikke inkluderte og grensen følger strandlinjen.
 
@@ -82,7 +113,15 @@ Fartøy tillates å følge naturlig seilingsled gjennom området, men de skal pa
 
 ## § 12. Bokna- og Talgjefjorden (Stavanger kommune)
 
-I Bokna- og Talgjefjorden nord av Rennesøy er forbudsområdet begrenset av rette linjer gjennom posisjonene59° 08,5′ N 005° 35,9′ Ø59° 10,5′ N 005° 32,8′ Ø59° 12,6′ N 005° 37,4′ Ø59° 12,8′ N 005° 41,1′ Ø59° 09,5′ N 005° 41,1′ Ø59° 08,8′ N 005° 42,3′ Ø59° 08,0′ N 005° 42,0′ Ø.
+I Bokna- og Talgjefjorden nord av Rennesøy er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 59° 08,5′ N 005° 35,9′ Ø
+2. 59° 10,5′ N 005° 32,8′ Ø
+3. 59° 12,6′ N 005° 37,4′ Ø
+4. 59° 12,8′ N 005° 41,1′ Ø
+5. 59° 09,5′ N 005° 41,1′ Ø
+6. 59° 08,8′ N 005° 42,3′ Ø
+7. 59° 08,0′ N 005° 42,0′ Ø.
 
 Fartøy tillates å følge naturlig seilingsled gjennom området. Ved militær aktivitet skal fartøy stoppe på anrop og rette seg etter de anvisningene som blir gitt.
 
@@ -92,17 +131,44 @@ Ved det militære området på Korsnes er forbudsområdet en 50 meters sone ut f
 
 ## § 14. Haakonsvern med Knappen (Bergen kommune)
 
-Ved de militære områdene Haakonsvern og Knappen er forbudsområdet begrenset av rette linjer gjennom posisjonene60° 19,8′ N 005° 12,6′ Ø60° 19,5′ N 005° 13,6′ Ø60° 19,6′ N 005° 14,5′ Ø60° 19,3′ N 005° 15,3′ Ø60° 19,7′ N 005° 15,1′ Ø60° 20,2′ N 005° 14,5′ Ø60° 20,8′ N 005° 14,1′ Ø60° 20,9′ N 005° 13,7′ Ø60° 20,7′ N 005° 13,3′ Ø.
+Ved de militære områdene Haakonsvern og Knappen er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 60° 19,8′ N 005° 12,6′ Ø
+2. 60° 19,5′ N 005° 13,6′ Ø
+3. 60° 19,6′ N 005° 14,5′ Ø
+4. 60° 19,3′ N 005° 15,3′ Ø
+5. 60° 19,7′ N 005° 15,1′ Ø
+6. 60° 20,2′ N 005° 14,5′ Ø
+7. 60° 20,8′ N 005° 14,1′ Ø
+8. 60° 20,9′ N 005° 13,7′ Ø
+9. 60° 20,7′ N 005° 13,3′ Ø.
 
 Lystfartøy som har fast brygge- eller ankerplass innenfor forbudsområdet, kan seile gjennom det forbudte området. Fartøyene skal nytte korteste vei inn og ut av området. Fartøyene skal seile langs Bjørgelandet minst 100 meter fra det militære området på Knappen og minst 100 meter fra kaiene på Haakonsvern. Nord for Hestbakken lykt skal fartøyene holde øst av overrettmerkene, merket på Tømmervikneset. Fartøyene skal stoppe på anrop og rette seg etter de anvisningene som blir gitt.
 
 ## § 15. Laksevåg (Bergen kommune)
 
-Ved ubåtbunkeren på Laksevåg er forbudsområdet begrenset av rette linjer gjennom posisjonene60° 23,525′ N 005° 17,210′ Ø60° 23,555′ N 005° 17,200′ Ø60° 23,490′ N 005° 17,035′ Ø60° 23,473′ N 005° 17,088′ Ø.
+Ved ubåtbunkeren på Laksevåg er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 60° 23,525′ N 005° 17,210′ Ø
+2. 60° 23,555′ N 005° 17,200′ Ø
+3. 60° 23,490′ N 005° 17,035′ Ø
+4. 60° 23,473′ N 005° 17,088′ Ø.
 
 ## § 16. Herdla (Askøy kommune)
 
-Ved Forsvarets målestasjon ved Herdla er forbudsområdet begrenset av rette linjer gjennom posisjonene60° 34,6′ N 004° 56,6′ Ø60° 34,4′ N 004° 56,7′ Ø60° 34,3′ N 004° 56,5′ Ø60° 33,3′ N 004° 56,7′ Ø60° 33,3′ N 004° 55,3′ Ø60° 36,1′ N 004° 54,5′ Ø60° 36,1′ N 004° 56,0′ Ø60° 35,4′ N 004° 56,3′ Ø60° 35,4′ N 004° 57,5′ Ø60° 34,9′ N 004° 57,8′ Ø60° 34,6′ N 004° 57,2′ Ø.
+Ved Forsvarets målestasjon ved Herdla er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 60° 34,6′ N 004° 56,6′ Ø
+2. 60° 34,4′ N 004° 56,7′ Ø
+3. 60° 34,3′ N 004° 56,5′ Ø
+4. 60° 33,3′ N 004° 56,7′ Ø
+5. 60° 33,3′ N 004° 55,3′ Ø
+6. 60° 36,1′ N 004° 54,5′ Ø
+7. 60° 36,1′ N 004° 56,0′ Ø
+8. 60° 35,4′ N 004° 56,3′ Ø
+9. 60° 35,4′ N 004° 57,5′ Ø
+10. 60° 34,9′ N 004° 57,8′ Ø
+11. 60° 34,6′ N 004° 57,2′ Ø.
 
 Forbudsområdet er begrenset av rette linjer mellom posisjonene fra 1 til 10, for så å følge strandlinjen nord for linjene mellom posisjonene 10 og 11, og mellom posisjonene 11 og 1.
 
@@ -112,15 +178,35 @@ Fartøy kan følge naturlig seilingsled gjennom området. Ved militær aktivitet
 
 ## § 17. Hegerneset (Askøy/Alver kommune)
 
-Ved Forsvarets målestasjon på Hegerneset er forbudsområdet en rett linje mellom posisjonene60° 31,57′ N 005° 09,18′ Ø60° 30,69′ N 005° 08,19′ Ø.
+Ved Forsvarets målestasjon på Hegerneset er forbudsområdet en rett linje mellom posisjonene
 
-Området avgrenses deretter av strandlinjen til den rette linjen mellom posisjonene60° 31,69′ N 005° 03,20′ Ø60° 32,47′ N 005° 02,94′ Øfor så å følge strandlinjen tilbake til posisjon 1.
+1. 60° 31,57′ N 005° 09,18′ Ø
+2. 60° 30,69′ N 005° 08,19′ Ø.
+
+Området avgrenses deretter av strandlinjen til den rette linjen mellom posisjonene
+
+1. 60° 31,69′ N 005° 03,20′ Ø
+2. 60° 32,47′ N 005° 02,94′ Ø
+
+for så å følge strandlinjen tilbake til posisjon 1.
 
 Fartøy kan følge naturlig seilingsled gjennom området. Ved militær aktivitet skal fartøy stoppe på anrop og rette seg etter de anvisningene som blir gitt.
 
 ## § 18. Hasselvika (Indre Fosen kommune)
 
-Ved det militære området i Hasselvika er forbudsområdet begrenset av rette linjer gjennom posisjonene63° 38,330′ N 009° 50,330′ Ø63° 38,245′ N 009° 50,340′ Ø63° 38,054′ N 009° 49,668′ Ø63° 38,020′ N 009° 49,575′ Ø63° 38,025′ N 009° 49,565′ Ø63° 38,004′ N 009° 49,498′ Ø63° 38,004′ N 009° 49,422′ Ø63° 38,025′ N 009° 49,421′ Ø63° 38,040′ N 009° 49,373′ Ø63° 38,004′ N 009° 48,960′ Ø63° 38,320′ N 009° 48,950′ Ø.
+Ved det militære området i Hasselvika er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 63° 38,330′ N 009° 50,330′ Ø
+2. 63° 38,245′ N 009° 50,340′ Ø
+3. 63° 38,054′ N 009° 49,668′ Ø
+4. 63° 38,020′ N 009° 49,575′ Ø
+5. 63° 38,025′ N 009° 49,565′ Ø
+6. 63° 38,004′ N 009° 49,498′ Ø
+7. 63° 38,004′ N 009° 49,422′ Ø
+8. 63° 38,025′ N 009° 49,421′ Ø
+9. 63° 38,040′ N 009° 49,373′ Ø
+10. 63° 38,004′ N 009° 48,960′ Ø
+11. 63° 38,320′ N 009° 48,950′ Ø.
 
 Fartøy kan følge naturlig seilingsled gjennom området. Ved militær aktivitet skal fartøy stoppe på anrop og rette seg etter de anvisningene som blir gitt.
 
@@ -140,13 +226,25 @@ Ved det militære området ved Stangnes er forbudsområdet en 50 meters sone ut 
 
 ## § 22. Sortland (Sortland kommune)
 
-Ved det militære området ved Sortland er forbudsområdet begrenset av rette linjer gjennom posisjonene68°42,275′ N 015°24,916′ Ø68°42,155′ N 015°24,946′ Ø68°42,130′ N 015°24,941′ Ø68°42,123′ N 015°24,956′ Ø68°42,123′ N 015°25,226′ Ø68°42,275′ N 015°25,226′ Ø.
+Ved det militære området ved Sortland er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 68°42,275′ N 015°24,916′ Ø
+2. 68°42,155′ N 015°24,946′ Ø
+3. 68°42,130′ N 015°24,941′ Ø
+4. 68°42,123′ N 015°24,956′ Ø
+5. 68°42,123′ N 015°25,226′ Ø
+6. 68°42,275′ N 015°25,226′ Ø.
 
 Fartøy skal stoppe på anrop og rette seg etter de anvisninger som blir gitt.
 
 ## § 23. Andenes (Andøy kommune)
 
-Ved Andøya flystasjon er forbudsområdet begrenset av rette linjer gjennom posisjonene69° 19,1′ N 016° 08,0′ Ø69° 19,0′ N 016° 12,0′ Ø69° 17,2′ N 016° 13,6′ Ø69° 17,2′ N 016° 10,8′ Ø.
+Ved Andøya flystasjon er forbudsområdet begrenset av rette linjer gjennom posisjonene
+
+1. 69° 19,1′ N 016° 08,0′ Ø
+2. 69° 19,0′ N 016° 12,0′ Ø
+3. 69° 17,2′ N 016° 13,6′ Ø
+4. 69° 17,2′ N 016° 10,8′ Ø.
 
 ## § 24. Påbud og håndheving
 

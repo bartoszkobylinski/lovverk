@@ -17,7 +17,7 @@ xml_hash: "8d0aa6c03f7e65604acb4fb22946f3163aef72852e07f6c2828e0140a94acf70"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,7 +83,14 @@ under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/320
 ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter regler for hvordan vedkommende myndigheter i medlemsstatene skal gjennomføre offentlige kontroller og annen offentlig virksomhet, særlig for å sikre at Unionens regelverk for næringsmiddel- og fôrtrygghet overholdes ved forsendelser fra tredjeland eller regioner i tredjeland, av dyr og varer beregnet på konsum.
-2. Ved forordning [(EU) 2017/625](eu/32017r0625) gis Kommisjonen myndighet til å vedta delegerte rettsakter for å utfylle vilkårene fastsatt i nevnte forordning for innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon og visse varer. Disse vilkårene kan omfatte tilleggskrav, nemlig muligheten til å tillate innførsel av dyr og varer bare fra tredjeland som er oppført på lister utarbeidet av Kommisjonen for dette formålet. Disse tilleggskravene omfatter garantier for overholdelse avtiltak for å overvåke stoffer og grupper av restmengder i dyr og varer beregnet på konsum, i samsvar med rådsdirektiv [96/23/EF](eu/31996l0023)2 og [96/22/EF](eu/31996l0022)3,reglene for forebygging, bekjempelse og utryddelse av overførbar spongiform encefalopati i levende dyr og produkter av animalsk opprinnelse, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)4,de allmenne prinsippene og kravene som gjelder næringsmidler generelt og næringsmiddeltrygghet spesielt på unionsplan og nasjonalt plan, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)5,de alminnelige reglene for næringsmiddelhygiene for driftsansvarlige for næringsmiddelforetak i samsvar med europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)6,de særlige hygienereglene for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)7,de særlige reglene for offentlig kontroll som gjennomføres, og for tiltak som treffes, av vedkommende myndigheter i forbindelse med produksjon av visse dyr og produkter av animalsk opprinnelse beregnet på konsum, i samsvar med delegert kommisjonsforordning [(EU) 2019/624](eu/32019r0624)8 og Kommisjonens gjennomføringsforordning [(EU) 2019/627](eu/32019r0627)9.
+2. Ved forordning [(EU) 2017/625](eu/32017r0625) gis Kommisjonen myndighet til å vedta delegerte rettsakter for å utfylle vilkårene fastsatt i nevnte forordning for innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon og visse varer. Disse vilkårene kan omfatte tilleggskrav, nemlig muligheten til å tillate innførsel av dyr og varer bare fra tredjeland som er oppført på lister utarbeidet av Kommisjonen for dette formålet. Disse tilleggskravene omfatter garantier for overholdelse av
+
+   - tiltak for å overvåke stoffer og grupper av restmengder i dyr og varer beregnet på konsum, i samsvar med rådsdirektiv [96/23/EF](eu/31996l0023)2 og [96/22/EF](eu/31996l0022)3,
+   - reglene for forebygging, bekjempelse og utryddelse av overførbar spongiform encefalopati i levende dyr og produkter av animalsk opprinnelse, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)4,
+   - de allmenne prinsippene og kravene som gjelder næringsmidler generelt og næringsmiddeltrygghet spesielt på unionsplan og nasjonalt plan, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)5,
+   - de alminnelige reglene for næringsmiddelhygiene for driftsansvarlige for næringsmiddelforetak i samsvar med europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)6,
+   - de særlige hygienereglene for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)7,
+   - de særlige reglene for offentlig kontroll som gjennomføres, og for tiltak som treffes, av vedkommende myndigheter i forbindelse med produksjon av visse dyr og produkter av animalsk opprinnelse beregnet på konsum, i samsvar med delegert kommisjonsforordning [(EU) 2019/624](eu/32019r0624)8 og Kommisjonens gjennomføringsforordning [(EU) 2019/627](eu/32019r0627)9.
 3. Delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625)10 fastsetter slike tilleggskrav og har hatt anvendelse siden 14. desember 2019. Den omfatter ikke kravene som allerede er fastsatt i direktiv [96/23/EF](eu/31996l0023).
 4. Tredjeland som det er tillatt å innføre dyr og produkter av animalsk opprinnelse til Unionen fra, basert på Unionens regler om folkehelse, er i dag tatt med og oppført på lister som er utarbeidet på grunnlag av ulike krav, blant annet at det skal finnes en kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer som fastsetter garantier for overvåking av visse grupper av stoffer og deres restmengder og forurensende stoffer, i samsvar med kravene i direktiv [96/23/EF](eu/31996l0023).
 5. Forordning [(EU) 2017/625](eu/32017r0625) opphevet direktiv [96/23/EF](eu/31996l0023) med virkning fra 14. desember 2019 og fastsatte at visse bestemmelser i nevnte direktiv fortsatt skulle ha anvendelse i en overgangsperiode fram til 14. desember 2022.
@@ -172,15 +179,99 @@ VIRKEOMRÅDE OG DEFINISJONER
 
 1\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til kravene ved innførsel til Unionen av forsendelser av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum fra tredjeland eller regioner i tredjeland for å sikre at de oppfyller de gjeldende kravene i artikkel 1 nr. 2 bokstav a) i forordning (EU) 2017/625, eller krav som anses for å være minst likeverdige.
 
-2\. Kravene nevnt i nr. 1 omfatter følgende:Identifikasjon av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum som omfattes av følgende krav ved innførsel til Unionen:Kravet om at disse dyrene bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal komme fra et tredjeland eller en region i et tredjeland som er oppført på en liste i samsvar med artikkel 126 nr. 2 bokstav a) i forordning (EU) 2017/625.Kravet om at disse dyrene bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de gjeldende kravene nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, eller krav som anses for å være minst likeverdige, og som står på lister som utarbeides og ajourføres i samsvar med artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625).Kravet om at hver forsendelse av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav a) i forordning (EU) 2017/625, for eksempel en privat erklæring, i samsvar med artikkel 126 nr. 2 bokstav c) i forordning (EU) 2017/625.Krav ved innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum fra et tredjeland eller en region i et tredjeland som er oppført på en liste i samsvar med artikkel 127 nr. 2 i forordning (EU) 2017/625.Krav om at forsendelser av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum fra tredjeland skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de gjeldende kravene nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, eller krav som anses for å være minst likeverdige, og som står på lister som utarbeides og ajourføres i samsvar med artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625).Krav ved innførsel til Unionen for å bringe følgende særlige varer i omsetning, i tillegg til kravene fastsatt i artikkel 126 i forordning (EU) 2017/625:Ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt, kjøttprodukter, mekanisk utbeinet kjøtt og råstoffer beregnet på produksjon av gelatin og kollagen.Levende muslinger, pigghuder, sekkedyr og sjøsnegler.Fiskerivarer.Sammensatte produkter.Tilleggskrav for de offisielle sertifikatene, offisielle attestasjonene og private erklæringene som skal ledsage dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum ved innførsel til Unionen.Krav til bruk av farmakologisk virksomme stoffer på dyr bestemt til næringsmiddelproduksjon og restmengdene av disse og til nivåene av forurensende stoffer og rester av plantevernmidler i produkter av animalsk opprinnelse og sammensatte produkter, når disse dyrene bestemt til næringsmiddelproduksjon, produktene av animalsk opprinnelse og sammensatte produktene innføres til Unionen fra tredjeland og er beregnet på omsetning i Unionen, og disse kravene er nødvendige for å sikre at slik dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter gir et beskyttelsesnivå for menneskers helse som tilsvarer det som er fastsatt i de relevante unionsreglene om næringsmiddeltrygghet.Kravet om at dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter bare skal innføres til Unionen fra tredjeland som framlegger en kontrollplan som dokumentasjon på og garantier for overholdelse av kravene i denne forordningen.
+2\. Kravene nevnt i nr. 1 omfatter følgende:
 
-3\. Denne forordningen får ikke anvendelse pådyr og varer som ikke er beregnet på konsum, men dersom bestemmelsesstedet for dyrene og varene ikke er fastsatt ved innførsel til Unionen, og konsum ikke kan utelukkes, får denne forordningen anvendelse,dyr og varer beregnet på konsum som bare skal sendes i transitt gjennom Unionen uten å bringes i omsetning,varer beregnet på konsum når det dreier seg om prøver med sikte på produktanalyse og kvalitetsprøving, uten at de bringes i omsetning.
+1. Identifikasjon av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum som omfattes av følgende krav ved innførsel til Unionen:
+
+   1. Kravet om at disse dyrene bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal komme fra et tredjeland eller en region i et tredjeland som er oppført på en liste i samsvar med artikkel 126 nr. 2 bokstav a) i forordning (EU) 2017/625.
+   2. Kravet om at disse dyrene bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de gjeldende kravene nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, eller krav som anses for å være minst likeverdige, og som står på lister som utarbeides og ajourføres i samsvar med artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625).
+   3. Kravet om at hver forsendelse av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav a) i forordning (EU) 2017/625, for eksempel en privat erklæring, i samsvar med artikkel 126 nr. 2 bokstav c) i forordning (EU) 2017/625.
+2. Krav ved innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum fra et tredjeland eller en region i et tredjeland som er oppført på en liste i samsvar med artikkel 127 nr. 2 i forordning (EU) 2017/625.
+3. Krav om at forsendelser av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum fra tredjeland skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de gjeldende kravene nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, eller krav som anses for å være minst likeverdige, og som står på lister som utarbeides og ajourføres i samsvar med artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625).
+4. Krav ved innførsel til Unionen for å bringe følgende særlige varer i omsetning, i tillegg til kravene fastsatt i artikkel 126 i forordning (EU) 2017/625:
+
+   1. Ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt, kjøttprodukter, mekanisk utbeinet kjøtt og råstoffer beregnet på produksjon av gelatin og kollagen.
+   2. Levende muslinger, pigghuder, sekkedyr og sjøsnegler.
+   3. Fiskerivarer.
+   4. Sammensatte produkter.
+5. Tilleggskrav for de offisielle sertifikatene, offisielle attestasjonene og private erklæringene som skal ledsage dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum ved innførsel til Unionen.
+6. Krav til bruk av farmakologisk virksomme stoffer på dyr bestemt til næringsmiddelproduksjon og restmengdene av disse og til nivåene av forurensende stoffer og rester av plantevernmidler i produkter av animalsk opprinnelse og sammensatte produkter, når disse dyrene bestemt til næringsmiddelproduksjon, produktene av animalsk opprinnelse og sammensatte produktene innføres til Unionen fra tredjeland og er beregnet på omsetning i Unionen, og disse kravene er nødvendige for å sikre at slik dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter gir et beskyttelsesnivå for menneskers helse som tilsvarer det som er fastsatt i de relevante unionsreglene om næringsmiddeltrygghet.
+7. Kravet om at dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter bare skal innføres til Unionen fra tredjeland som framlegger en kontrollplan som dokumentasjon på og garantier for overholdelse av kravene i denne forordningen.
+
+3\. Denne forordningen får ikke anvendelse på
+
+1. dyr og varer som ikke er beregnet på konsum, men dersom bestemmelsesstedet for dyrene og varene ikke er fastsatt ved innførsel til Unionen, og konsum ikke kan utelukkes, får denne forordningen anvendelse,
+2. dyr og varer beregnet på konsum som bare skal sendes i transitt gjennom Unionen uten å bringes i omsetning,
+3. varer beregnet på konsum når det dreier seg om prøver med sikte på produktanalyse og kvalitetsprøving, uten at de bringes i omsetning.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«innføres til Unionen» eller «innførsel til Unionen» innføres til Unionen eller innførsel til Unionen som definert i artikkel 3 nr. 40 i forordning [(EU) 2017/625](eu/32017r0625),«forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625),«dyr» dyr som definert i artikkel 3 nr. 9 i forordning [(EU) 2017/625](eu/32017r0625),«varer» varer som definert i artikkel 3 nr. 11 i forordning [(EU) 2017/625](eu/32017r0625),«likeverdig» likeverdig som definert i artikkel 2 nr. 1 bokstav e) i forordning [(EF) nr. 852/2004](eu/32004r0852),«virksomhet» en virksomhet som definert i artikkel 2 nr. 1 bokstav c) i forordning [(EF) nr. 852/2004](eu/32004r0852),«offisielt sertifikat» et offisielt sertifikat som definert i artikkel 3 nr. 27 i forordning [(EU) 2017/625](eu/32017r0625),«offisiell attestasjon» en offisiell attestasjon som definert i artikkel 3 nr. 28 i forordning [(EU) 2017/625](eu/32017r0625),«privat erklæring» en erklæring undertegnet av den driftsansvarlige for næringsmiddelforetaket som fører varer inn i Unionen,«bringe i omsetning» omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),«ferskt kjøtt» ferskt kjøtt som definert i nr. 1.10 i vedlegg I til forordning (EF) nr. 853/2004,«kvernet kjøtt» kvernet kjøtt som definert i nr. 1.13 i vedlegg I til forordning (EF) nr. 853/2004,«tilberedt kjøtt» tilberedt kjøtt som definert i nr. 1.15 i vedlegg I til forordning (EF) nr. 853/2004,«kjøttprodukter» kjøttprodukter som definert i nr. 7.1 i vedlegg I til forordning (EF) nr. 853/2004,«mekanisk utbeinet kjøtt» mekanisk utbeinet kjøtt som definert i nr. 1.14 i vedlegg I til forordning (EF) nr. 853/2004,«gelatin» gelatin som definert i nr. 7.7 i vedlegg I til forordning (EF) nr. 853/2004,«kollagen» kollagen som definert i nr. 7.8 i vedlegg I til forordning (EF) nr. 853/2004,«høyt foredlede produkter av animalsk opprinnelse» høyt foredlede produkter nevnt i avsnitt XVI nr. 1 i vedlegg III til forordning (EF) nr. 853/2004,«muslinger» muslinger som definert i nr. 2.1 i vedlegg I til forordning (EF) nr. 853/2004,«fiskerivarer» fiskerivarer som definert i nr. 3.1 i vedlegg I til forordning (EF) nr. 853/2004,«sammensatt produkt» et næringsmiddel som inneholder både produkter av vegetabilsk opprinnelse og bearbeidede produkter av animalsk opprinnelse,«farmakologisk virksomt stoff» et farmakologisk virksomt stoff som definert i artikkel 2 bokstav a) i delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)25,«forurensende stoff» et forurensende stoff som definert i artikkel 1 nr. 1 andre ledd i forordning [(EØF) nr. 315/93](eu/31993r0315)26,«rester av plantevernmidler» rester av plantevernmidler som definert i artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396),«produkter av animalsk opprinnelse» produkter av animalsk opprinnelse som definert i nr. 8.1 i vedlegg I til forordning (EF) nr. 853/2004,«kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer» en kontrollplan for bruk av farmakologisk virksomme stoffer, øvre grenseverdier for rester av farmakologisk virksomme stoffer, øvre grenseverdier for rester av plantevernmidler og øvre grenseverdier for forurensende stoffer i dyr bestemt til næringsmiddelproduksjon og produkter av animalsk opprinnelse, herunder de som brukes i sammensatte produkter,«insekter» næringsmidler som består av, er isolert fra eller er framstilt av insekter eller deler av disse, herunder alle livsstadier av insekter beregnet på konsum som, når det er relevant, er godkjent i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283)27 og oppført på EU-listen over nye næringsmidler fastsatt ved Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470)28 («EU-listen over nye næringsmidler»),«transitt» transitt som definert i artikkel 3 nr. 44 i forordning [(EU) 2017/625](eu/32017r0625),«krypdyrkjøtt» de spiselige delene, ubearbeidede eller bearbeidede, av oppdrettede krypdyr som tilhører artene *Alligator mississippiensis*, *Crocodylus johnstoni*, *Crocodylus niloticus*, *Crocodylus porosus*, *Timon lepidus*, *Python reticulatus*, *Python molurus bivittatus* eller *Pelodiscus sinensis*, som når det er relevant, er godkjent i samsvar med forordning [(EU) 2015/2283](eu/32015r2283) og oppført på EU-listen over nye næringsmidler,«snegler» snegler som definert i nr. 6.2 i vedlegg I til forordning (EF) nr. 853/2004, og alle andre sneglearter av familien Helicidae, Hygromiidae eller Sphincterochilidae som er beregnet på konsum,«næringsmidler» næringsmidler som definert i artikkel 2 i forordning (EF) nr. 178/2002,«fôr» eller «fôrvarer» fôr eller fôrvarer som definert i artikkel 3 nr. 4 i forordning [(EF) nr. 178/2002](eu/32002r0178),«revisjon» revisjon som definert i artikkel 3 nr. 30 i forordning [(EU) 2017/625](eu/32017r0625),«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),►**M2**«honning» forstås som honning i henhold til rådsdirektiv [2001/110/EF](eu/32001l0110)\*, herunder med hensyn til hovedtyper av honning,«biavlsprodukter» honning, bivoks, dronninggelé, propolis eller pollen beregnet på konsum,◄**M2**«spirer» spirer som definert i artikkel 2 bokstav a) i Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208)29,«primærproduksjon» primærproduksjon som definert i artikkel 3 nr. 17 i forordning [(EF) nr. 178/2002](eu/32002r0178),«slakteri» et slakteri som definert i nr. 1.16 i vedlegg I til forordning (EF) nr. 853/2004,«viltbehandlingsanlegg» et viltbehandlingsanlegg som definert i nr. 1.18 i vedlegg I til forordning (EF) nr. 853/2004,«nedskjæringsanlegg» et nedskjæringsanlegg som definert i nr. 1.17 i vedlegg I til forordning (EF) nr. 853/2004,«produksjonsområde» et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning (EF) nr. 853/2004,«fabrikkskip» et fabrikkskip som definert i nr. 3.2 i vedlegg I til forordning (EF) nr. 853/2004,«frysefartøy» et frysefartøy som definert i nr. 3.3 i vedlegg I til forordning (EF) nr. 853/2004,«kjøleskip» et fartøy som er utstyrt for å oppbevare og transportere varer på paller eller i bulk i temperaturregulerte lasterom eller kamre,«melkeprodukter» melkeprodukter som definert i nr. 7.2 i vedlegg I til forordning (EF) nr. 853/2004,«eggprodukter» eggprodukter som definert i nr. 7.3 i vedlegg I til forordning (EF) nr. 853/2004,«driftsansvarlig for næringsmiddelforetak» en driftsansvarlig for et næringsmiddelforetak som definert i artikkel 3 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178),«driftsansvarlig» en driftsansvarlig som definert i artikkel 3 nr. 29 i forordning [(EU) 2017/625](eu/32017r0625),«grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i forordning [(EU) 2017/625](eu/32017r0625).
+I denne forordningen menes med
 
-25 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).26 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).27 Europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) av 25. november 2015 om nye næringsmidler og om endring av europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) og oppheving av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) og kommisjonsforordning [(EF) nr. 1852/2001](eu/32001r1852) (EUT L 327 av 11.12.2015, s. 1).28 Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72).29 Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208) av 11. mars 2013 om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer (EUT L 68 av 12.3.2013, s. 16).
+- «innføres til Unionen» eller «innførsel til Unionen» innføres til Unionen eller innførsel til Unionen som definert i artikkel 3 nr. 40 i forordning [(EU) 2017/625](eu/32017r0625),
+- «forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625),
+- «dyr» dyr som definert i artikkel 3 nr. 9 i forordning [(EU) 2017/625](eu/32017r0625),
+- «varer» varer som definert i artikkel 3 nr. 11 i forordning [(EU) 2017/625](eu/32017r0625),
+- «likeverdig» likeverdig som definert i artikkel 2 nr. 1 bokstav e) i forordning [(EF) nr. 852/2004](eu/32004r0852),
+- «virksomhet» en virksomhet som definert i artikkel 2 nr. 1 bokstav c) i forordning [(EF) nr. 852/2004](eu/32004r0852),
+- «offisielt sertifikat» et offisielt sertifikat som definert i artikkel 3 nr. 27 i forordning [(EU) 2017/625](eu/32017r0625),
+- «offisiell attestasjon» en offisiell attestasjon som definert i artikkel 3 nr. 28 i forordning [(EU) 2017/625](eu/32017r0625),
+- «privat erklæring» en erklæring undertegnet av den driftsansvarlige for næringsmiddelforetaket som fører varer inn i Unionen,
+- «bringe i omsetning» omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+- «ferskt kjøtt» ferskt kjøtt som definert i nr. 1.10 i vedlegg I til forordning (EF) nr. 853/2004,
+- «kvernet kjøtt» kvernet kjøtt som definert i nr. 1.13 i vedlegg I til forordning (EF) nr. 853/2004,
+- «tilberedt kjøtt» tilberedt kjøtt som definert i nr. 1.15 i vedlegg I til forordning (EF) nr. 853/2004,
+- «kjøttprodukter» kjøttprodukter som definert i nr. 7.1 i vedlegg I til forordning (EF) nr. 853/2004,
+- «mekanisk utbeinet kjøtt» mekanisk utbeinet kjøtt som definert i nr. 1.14 i vedlegg I til forordning (EF) nr. 853/2004,
+- «gelatin» gelatin som definert i nr. 7.7 i vedlegg I til forordning (EF) nr. 853/2004,
+- «kollagen» kollagen som definert i nr. 7.8 i vedlegg I til forordning (EF) nr. 853/2004,
+- «høyt foredlede produkter av animalsk opprinnelse» høyt foredlede produkter nevnt i avsnitt XVI nr. 1 i vedlegg III til forordning (EF) nr. 853/2004,
+- «muslinger» muslinger som definert i nr. 2.1 i vedlegg I til forordning (EF) nr. 853/2004,
+- «fiskerivarer» fiskerivarer som definert i nr. 3.1 i vedlegg I til forordning (EF) nr. 853/2004,
+- «sammensatt produkt» et næringsmiddel som inneholder både produkter av vegetabilsk opprinnelse og bearbeidede produkter av animalsk opprinnelse,
+- «farmakologisk virksomt stoff» et farmakologisk virksomt stoff som definert i artikkel 2 bokstav a) i delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)25,
+- «forurensende stoff» et forurensende stoff som definert i artikkel 1 nr. 1 andre ledd i forordning [(EØF) nr. 315/93](eu/31993r0315)26,
+- «rester av plantevernmidler» rester av plantevernmidler som definert i artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396),
+- «produkter av animalsk opprinnelse» produkter av animalsk opprinnelse som definert i nr. 8.1 i vedlegg I til forordning (EF) nr. 853/2004,
+- «kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer» en kontrollplan for bruk av farmakologisk virksomme stoffer, øvre grenseverdier for rester av farmakologisk virksomme stoffer, øvre grenseverdier for rester av plantevernmidler og øvre grenseverdier for forurensende stoffer i dyr bestemt til næringsmiddelproduksjon og produkter av animalsk opprinnelse, herunder de som brukes i sammensatte produkter,
+- «insekter» næringsmidler som består av, er isolert fra eller er framstilt av insekter eller deler av disse, herunder alle livsstadier av insekter beregnet på konsum som, når det er relevant, er godkjent i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283)27 og oppført på EU-listen over nye næringsmidler fastsatt ved Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470)28 («EU-listen over nye næringsmidler»),
+- «transitt» transitt som definert i artikkel 3 nr. 44 i forordning [(EU) 2017/625](eu/32017r0625),
+- «krypdyrkjøtt» de spiselige delene, ubearbeidede eller bearbeidede, av oppdrettede krypdyr som tilhører artene *Alligator mississippiensis*, *Crocodylus johnstoni*, *Crocodylus niloticus*, *Crocodylus porosus*, *Timon lepidus*, *Python reticulatus*, *Python molurus bivittatus* eller *Pelodiscus sinensis*, som når det er relevant, er godkjent i samsvar med forordning [(EU) 2015/2283](eu/32015r2283) og oppført på EU-listen over nye næringsmidler,
+- «snegler» snegler som definert i nr. 6.2 i vedlegg I til forordning (EF) nr. 853/2004, og alle andre sneglearter av familien Helicidae, Hygromiidae eller Sphincterochilidae som er beregnet på konsum,
+- «næringsmidler» næringsmidler som definert i artikkel 2 i forordning (EF) nr. 178/2002,
+- «fôr» eller «fôrvarer» fôr eller fôrvarer som definert i artikkel 3 nr. 4 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+- «revisjon» revisjon som definert i artikkel 3 nr. 30 i forordning [(EU) 2017/625](eu/32017r0625),
+- «vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),
+
+  ►**M2**
+- «honning» forstås som honning i henhold til rådsdirektiv [2001/110/EF](eu/32001l0110)\*, herunder med hensyn til hovedtyper av honning,
+- «biavlsprodukter» honning, bivoks, dronninggelé, propolis eller pollen beregnet på konsum,
+
+  ◄**M2**
+- «spirer» spirer som definert i artikkel 2 bokstav a) i Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208)29,
+- «primærproduksjon» primærproduksjon som definert i artikkel 3 nr. 17 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+- «slakteri» et slakteri som definert i nr. 1.16 i vedlegg I til forordning (EF) nr. 853/2004,
+- «viltbehandlingsanlegg» et viltbehandlingsanlegg som definert i nr. 1.18 i vedlegg I til forordning (EF) nr. 853/2004,
+- «nedskjæringsanlegg» et nedskjæringsanlegg som definert i nr. 1.17 i vedlegg I til forordning (EF) nr. 853/2004,
+- «produksjonsområde» et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning (EF) nr. 853/2004,
+- «fabrikkskip» et fabrikkskip som definert i nr. 3.2 i vedlegg I til forordning (EF) nr. 853/2004,
+- «frysefartøy» et frysefartøy som definert i nr. 3.3 i vedlegg I til forordning (EF) nr. 853/2004,
+- «kjøleskip» et fartøy som er utstyrt for å oppbevare og transportere varer på paller eller i bulk i temperaturregulerte lasterom eller kamre,
+- «melkeprodukter» melkeprodukter som definert i nr. 7.2 i vedlegg I til forordning (EF) nr. 853/2004,
+- «eggprodukter» eggprodukter som definert i nr. 7.3 i vedlegg I til forordning (EF) nr. 853/2004,
+- «driftsansvarlig for næringsmiddelforetak» en driftsansvarlig for et næringsmiddelforetak som definert i artikkel 3 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+- «driftsansvarlig» en driftsansvarlig som definert i artikkel 3 nr. 29 i forordning [(EU) 2017/625](eu/32017r0625),
+- «grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i forordning [(EU) 2017/625](eu/32017r0625).
+
+25 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).
+
+26 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).
+
+27 Europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) av 25. november 2015 om nye næringsmidler og om endring av europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) og oppheving av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) og kommisjonsforordning [(EF) nr. 1852/2001](eu/32001r1852) (EUT L 327 av 11.12.2015, s. 1).
+
+28 Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72).
+
+29 Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208) av 11. mars 2013 om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer (EUT L 68 av 12.3.2013, s. 16).
 
 ►**M2**
 
@@ -193,25 +284,74 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL OPPRINNELSESTREDJELAND ELLER R
 
 ### Artikkel 3. Dyr bestemt til næringsmiddelproduksjon og varer som skal komme fra tredjeland eller regioner i tredjeland, som er oppført på listen nevnt i artikkel 126 nr. 2 bokstav a) i forordning (EU) 2017/625
 
-Forsendelser av følgende dyr bestemt til næringsmiddelproduksjon og varer beregnet på konsum skal bare innføres til Unionen fra et tredjeland eller en region i et tredjeland som er oppført på listen over disse dyrene og varene fastsatt i gjennomføringsforordning [(EU) 2021/405](eu/32021r0405):Levende dyr som det er fastsatt koder for i Den kombinerte nomenklatur («KN-koder») i del II kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658), når disse levende dyrene er dyr bestemt til næringsmiddelproduksjon.Produkter av animalsk opprinnelse, herunder krypdyrkjøtt og døde hele insekter, deler av insekter eller bearbeidede insekter, beregnet på konsum, som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):KN-koder i kapittel 2–5, 15, 16 eller 29a.►**M3**Posisjoner i Det harmoniserte system («HS-posisjoner») 0901, 1301, 1702, 1806, 2105, 2106, 2301, 3001, 3002, 3203, 3204, 3302, 3501, 3502, 3503, 3504, 3507, 3823, 3824, 3913, 3926, 4101, 4102, 4103 eller 9602, og KN-kodene 2202 99 og 3917 10 10b.◄**M3**Levende snegler, unntatt sjøsnegler, med KN-kode 0307 60 00 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)c.Bipollen som hører inn under KN-kode ex 1212 99 95 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)d.
+Forsendelser av følgende dyr bestemt til næringsmiddelproduksjon og varer beregnet på konsum skal bare innføres til Unionen fra et tredjeland eller en region i et tredjeland som er oppført på listen over disse dyrene og varene fastsatt i gjennomføringsforordning [(EU) 2021/405](eu/32021r0405):
 
-a Norske tollposisjoner: Kap. 2 til 5, 15, 16 eller 29.b ►**M3** Norske underposisjoner: 09.01, 13.01, 17.02, 18.06, 21.05, 21.06, 23.01, 30.01, 30.02, 32.03, 32.04, 33.02, 35.01, 35.02, 35.03, 35.04, 35.07, 38.23, 38.24, 39.13, 39.26, 41.01, 41.02, 41.03 eller 96.02, og varenumrene 22.02.99 og 39.17.1000. ◄**M3**c Norsk varenummer: 03.07.6000.d Norsk varenummer: ex 12.12.9900.
+1. Levende dyr som det er fastsatt koder for i Den kombinerte nomenklatur («KN-koder») i del II kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658), når disse levende dyrene er dyr bestemt til næringsmiddelproduksjon.
+2. Produkter av animalsk opprinnelse, herunder krypdyrkjøtt og døde hele insekter, deler av insekter eller bearbeidede insekter, beregnet på konsum, som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):
+
+   1. KN-koder i kapittel 2–5, 15, 16 eller 29a.
+
+      ►**M3**
+   2. Posisjoner i Det harmoniserte system («HS-posisjoner») 0901, 1301, 1702, 1806, 2105, 2106, 2301, 3001, 3002, 3203, 3204, 3302, 3501, 3502, 3503, 3504, 3507, 3823, 3824, 3913, 3926, 4101, 4102, 4103 eller 9602, og KN-kodene 2202 99 og 3917 10 10b.
+
+      ◄**M3**
+3. Levende snegler, unntatt sjøsnegler, med KN-kode 0307 60 00 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)c.
+4. Bipollen som hører inn under KN-kode ex 1212 99 95 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)d.
+
+a Norske tollposisjoner: Kap. 2 til 5, 15, 16 eller 29.
+
+b ►**M3** Norske underposisjoner: 09.01, 13.01, 17.02, 18.06, 21.05, 21.06, 23.01, 30.01, 30.02, 32.03, 32.04, 33.02, 35.01, 35.02, 35.03, 35.04, 35.07, 38.23, 38.24, 39.13, 39.26, 41.01, 41.02, 41.03 eller 96.02, og varenumrene 22.02.99 og 39.17.1000. ◄**M3**
+
+c Norsk varenummer: 03.07.6000.
+
+d Norsk varenummer: ex 12.12.9900.
 
 ### Artikkel 4. Tilleggskrav ved innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon og varer fra et tredjeland eller en region i et tredjeland
 
-I tillegg til kravene fastsatt i artikkel 127 nr. 3 i forordning (EU) 2017/625 skal Kommisjonen bare treffe beslutning om oppføring av tredjeland eller regioner i tredjeland på listen nevnt i artikkel 126 nr. 2 bokstav a) i samme forordning dersom Kommisjonen anser at følgende krav er minst likeverdige med de relevante kravene i Unionen for dyr bestemt til næringsmiddelproduksjon og varer som er nevnt i artikkel 3:Tredjelandets lovgivning omproduksjon av produkter av animalsk opprinnelse,bruk av legemidler til dyr, herunder bestemmelser om forbud eller godkjenning, distribusjon og omsetning av slike legemidler samt regler for administrering og inspeksjon,tilberedning og bruk av fôr, herunder framgangsmåter for bruk av tilsetningsstoffer, og tilberedning og bruk av medisinfôr samt hygienekvaliteten på det råstoffet som brukes til å tilberede fôr, og på sluttproduktet.De hygienevilkårene som for tiden benyttes ved produksjon, framstilling, håndtering, lagring og forsendelse av produkter av animalsk opprinnelse beregnet på Unionen.Erfaring med markedsføring av produktene av animalsk opprinnelse fra tredjelandet og resultatene av eventuelle offentlige kontroller som er utført ved innførsel til Unionen.Dersom de er tilgjengelige, resultatene av revisjoner som Kommisjonen har gjennomført i tredjelandet i forbindelse med andre dyr bestemt til næringsmiddelproduksjon og varer som tredjelandet allerede er oppført på listen for, i samsvar med artikkel 127 nr. 2 i forordning (EU) 2017/625, særlig resultatene av vurderingen av vedkommende myndigheter i det tredjelandet som har vært gjenstand for revisjon, og de tiltakene som vedkommende myndigheter har truffet på bakgrunn av eventuelle anbefalinger de har fått etter Kommisjonens revisjoner.Forekomsten, gjennomføringen og meddelelsen av et program for bekjempelse av zoonoser som er godkjent av Kommisjonen når det er relevant.Tredjelandets krav med hensyn til farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, i samsvar med artikkel 6.
+I tillegg til kravene fastsatt i artikkel 127 nr. 3 i forordning (EU) 2017/625 skal Kommisjonen bare treffe beslutning om oppføring av tredjeland eller regioner i tredjeland på listen nevnt i artikkel 126 nr. 2 bokstav a) i samme forordning dersom Kommisjonen anser at følgende krav er minst likeverdige med de relevante kravene i Unionen for dyr bestemt til næringsmiddelproduksjon og varer som er nevnt i artikkel 3:
+
+1. Tredjelandets lovgivning om
+
+   1. produksjon av produkter av animalsk opprinnelse,
+   2. bruk av legemidler til dyr, herunder bestemmelser om forbud eller godkjenning, distribusjon og omsetning av slike legemidler samt regler for administrering og inspeksjon,
+   3. tilberedning og bruk av fôr, herunder framgangsmåter for bruk av tilsetningsstoffer, og tilberedning og bruk av medisinfôr samt hygienekvaliteten på det råstoffet som brukes til å tilberede fôr, og på sluttproduktet.
+2. De hygienevilkårene som for tiden benyttes ved produksjon, framstilling, håndtering, lagring og forsendelse av produkter av animalsk opprinnelse beregnet på Unionen.
+3. Erfaring med markedsføring av produktene av animalsk opprinnelse fra tredjelandet og resultatene av eventuelle offentlige kontroller som er utført ved innførsel til Unionen.
+4. Dersom de er tilgjengelige, resultatene av revisjoner som Kommisjonen har gjennomført i tredjelandet i forbindelse med andre dyr bestemt til næringsmiddelproduksjon og varer som tredjelandet allerede er oppført på listen for, i samsvar med artikkel 127 nr. 2 i forordning (EU) 2017/625, særlig resultatene av vurderingen av vedkommende myndigheter i det tredjelandet som har vært gjenstand for revisjon, og de tiltakene som vedkommende myndigheter har truffet på bakgrunn av eventuelle anbefalinger de har fått etter Kommisjonens revisjoner.
+5. Forekomsten, gjennomføringen og meddelelsen av et program for bekjempelse av zoonoser som er godkjent av Kommisjonen når det er relevant.
+6. Tredjelandets krav med hensyn til farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, i samsvar med artikkel 6.
 
 ### Artikkel 5. Dyr og produkter som omfattes av artikkel 6–12
 
-1\. Kravene fastsatt i artikkel 6–12 får anvendelse på følgende dyr og produkter:Levende dyr som det er fastsatt KN-koder for i del II avsnitt I kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658), når disse dyrene er dyr bestemt til næringsmiddelproduksjon.Produkter av animalsk opprinnelse som det er fastsatt KN-koder for i del II kapittel 2–5, 15 og 16 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)e, og som det er fastsatt underposisjoner for i det harmoniserte system («HS-underposisjoner») under HS-posisjon 0901, 2105, 3501, 3502 og 3504f.Sammensatte produkter som det er fastsatt KN-koder for i del II avsnitt III kapittel 15 og avsnitt IV kapittel 16–22 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)g.
+1\. Kravene fastsatt i artikkel 6–12 får anvendelse på følgende dyr og produkter:
 
-2\. Kravene fastsatt i artikkel 6–12 får ikke anvendelse pågelatin og råstoffer for produksjon av gelatin som nevnt i avsnitt XIV kapittel I nr. 1 i vedlegg III til forordning (EF) nr. 853/2004,kollagen og råstoffer for produksjon av kollagen som nevnt i avsnitt XV kapittel I nr. 1 i vedlegg III til nevnte forordning,høyt foredlede produkter av animalsk opprinnelse, og►**M2**fiskerivarer fra villfangst, insekter, frosker, froskelår, snegler, reptiler og reptilkjøtt◄**M2**
+1. Levende dyr som det er fastsatt KN-koder for i del II avsnitt I kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658), når disse dyrene er dyr bestemt til næringsmiddelproduksjon.
+2. Produkter av animalsk opprinnelse som det er fastsatt KN-koder for i del II kapittel 2–5, 15 og 16 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)e, og som det er fastsatt underposisjoner for i det harmoniserte system («HS-underposisjoner») under HS-posisjon 0901, 2105, 3501, 3502 og 3504f.
+3. Sammensatte produkter som det er fastsatt KN-koder for i del II avsnitt III kapittel 15 og avsnitt IV kapittel 16–22 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)g.
 
-e Norske tollposisjoner: Kap. 2 til 5, 15 og 16.f Norske underposisjoner: 09.01, 21.05, 35.01, 35.02 og 35.04.g Norske tollposisjoner: Kap. 15 og kap. 16–22.
+2\. Kravene fastsatt i artikkel 6–12 får ikke anvendelse på
+
+- gelatin og råstoffer for produksjon av gelatin som nevnt i avsnitt XIV kapittel I nr. 1 i vedlegg III til forordning (EF) nr. 853/2004,
+- kollagen og råstoffer for produksjon av kollagen som nevnt i avsnitt XV kapittel I nr. 1 i vedlegg III til nevnte forordning,
+- høyt foredlede produkter av animalsk opprinnelse, og
+
+  ►**M2**
+- fiskerivarer fra villfangst, insekter, frosker, froskelår, snegler, reptiler og reptilkjøtt
+
+  ◄**M2**
+
+e Norske tollposisjoner: Kap. 2 til 5, 15 og 16.
+
+f Norske underposisjoner: 09.01, 21.05, 35.01, 35.02 og 35.04.
+
+g Norske tollposisjoner: Kap. 15 og kap. 16–22.
 
 ### Artikkel 6. Tilleggskrav ved innførsel til Unionen av dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter med hensyn til farmakologisk virksomme stoffer og restmengder av disse, forurensende stoffer og rester av plantevernmidler
 
-1\. I tillegg til kravene fastsatt i forordning [(EU) 2017/625](eu/32017r0625) skal forsendelser av dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter bare innføres til Unionen fra et tredjeland som har en kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer som fastsetter garantier med hensyn til overholdelse avUnionens krav til bruk av farmakologisk virksomme stoffer, øvre grenseverdier for restmengder av farmakologisk virksomme stoffer, øvre grenseverdier for rester av plantevernmidler og øvre grenseverdier for forurensende stoffer.Tilleggskravene angitt i artikkel 9–12 i denne forordningen.
+1\. I tillegg til kravene fastsatt i forordning [(EU) 2017/625](eu/32017r0625) skal forsendelser av dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter bare innføres til Unionen fra et tredjeland som har en kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer som fastsetter garantier med hensyn til overholdelse av
+
+1. Unionens krav til bruk av farmakologisk virksomme stoffer, øvre grenseverdier for restmengder av farmakologisk virksomme stoffer, øvre grenseverdier for rester av plantevernmidler og øvre grenseverdier for forurensende stoffer.
+2. Tilleggskravene angitt i artikkel 9–12 i denne forordningen.
 
 2\. I tillegg til kravene fastsatt i artikkel 127 nr. 3 i forordning (EU) 2017/625 skal Kommisjonen treffe beslutning om oppføring av et tredjeland på listen nevnt i artikkel 126 nr. 2 bokstav a) i samme forordning, bare dersom tredjelandet framlegger dokumentasjon på og garantier for samsvar med kravene fastsatt i nr. 1 i denne artikkelen, sammen med opplysningene oppført i del II i vedlegg I til denne forordningen, i anmodningen om oppføring på listen over tredjeland som det tredjelandet skal framlegge i henhold til artikkel 127 nr. 2 i forordning (EU) 2017/625.
 
@@ -256,7 +396,10 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL BRUK AV FARMAKOLOGISK VIRKSOMM
 
 1\. Dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter skal bare innføres til Unionen fra tredjeland som gir garantier for overholdelse av forbudet mot bruk av beta-agonister og eventuelle stilben, tyreostatiske, østrogen-, androgen- og gestageniske stoffer hos landbruksdyr fastsatt i direktiv [96/22/EF](eu/31996l0022), og av forbudet mot bruk av stoffene oppført i tabell 2 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037).
 
-2\. Dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter fra tredjeland som tillater bruk av stoffene nevnt i nr. 1 på dyr bestemt til næringsmiddelproduksjon, eller som ikke har regler for bruk av disse stoffene, skal bare innføres til Unionen i den grad disse tredjelandene gir garantier for atde har innført et atskilt produksjonssystem for å sikre at dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter beregnet på innførsel til Unionen ikke behandles med stoffene nevnt i nr. 1, ogde har opprettet et hensiktsmessig system for identifisering og sporing av dyr, samt et system for kontroll av distribusjonen av stoffene nevnt i nr. 1 og for journalføring av administreringen av legemidler til dyr.
+2\. Dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter fra tredjeland som tillater bruk av stoffene nevnt i nr. 1 på dyr bestemt til næringsmiddelproduksjon, eller som ikke har regler for bruk av disse stoffene, skal bare innføres til Unionen i den grad disse tredjelandene gir garantier for at
+
+1. de har innført et atskilt produksjonssystem for å sikre at dyr bestemt til næringsmiddelproduksjon, produkter av animalsk opprinnelse og sammensatte produkter beregnet på innførsel til Unionen ikke behandles med stoffene nevnt i nr. 1, og
+2. de har opprettet et hensiktsmessig system for identifisering og sporing av dyr, samt et system for kontroll av distribusjonen av stoffene nevnt i nr. 1 og for journalføring av administreringen av legemidler til dyr.
 
 ### Artikkel 11. Krav med hensyn til rester av plantevernmidler i produkter av animalsk opprinnelse og sammensatte produkter
 
@@ -271,19 +414,57 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL VIRKSOMHETER
 
 ### Artikkel 13. Krav til virksomheter
 
-1\. Forsendelser av følgende varer skal innføres til Unionen bare dersom de er sendt fra, og er framstilt eller tilberedt i, virksomheter oppført på lister utarbeidet og ajourført i samsvar artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625):Produkter av animalsk opprinnelse, som det er fastsatt krav til i vedlegg III til forordning (EF) nr. 853/2004, og som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):KN-koder i kapittel 2–5, 15 eller 16h, eller►**M3**underposisjoner til posisjoner i Det harmoniserte system 1702, 1806, 2105, 2106, 2301, 2932, 3001, 3002, 3501, 3502, 3503, 3504, 4101, 4102 eller 4103, og KN-kodene 2202 99 og 3917 10 10i.◄**M3**Spirer som omfattes av følgende HS-underposisjoner: 0704 90, 0706 90, 0708 10, 0708 20, 0708 90 eller 1214 90 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)j.►**M2**honning og andre biavlsprodukter som det er fastsatt følgende HS-posisjoner for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658): 0409, 0410, 1212, 1521 eller 1702aa.◄**M2**
+1\. Forsendelser av følgende varer skal innføres til Unionen bare dersom de er sendt fra, og er framstilt eller tilberedt i, virksomheter oppført på lister utarbeidet og ajourført i samsvar artikkel 127 nr. 3 bokstav e) ii) og iii) i forordning [(EU) 2017/625](eu/32017r0625):
 
-2\. Virksomheter nevnt i nr. 1 i denne artikkelen kan føres opp på listene nevnt i artikkel 127 nr. 3 bokstav e) i forordning (EU) 2017/625 bare dersom tredjelandet der virksomhetene er etablert garanterer følgende, i tillegg til garantiene fastsatt i artikkel 127 nr. 3 bokstav e) ii) og iv) i forordning [(EU) 2017/625](eu/32017r0625):Slike virksomheter, sammen med alle virksomheter som håndterer råstoffer av animalsk opprinnelse som brukes til framstilling av de aktuelle produktene av animalsk opprinnelse nevnt i nr. 1 bokstav a), oppfyller gjeldende krav nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, særlig kravene i forordning [(EF) nr. 853/2004](eu/32004r0853), eller krav som anses for å være minst likeverdige.Slike virksomheter håndterer, når det er relevant, bare råstoffer av animalsk opprinnelse som kommer fra tredjeland med en godkjent plan for overvåking av restmengder for denne produktkategorien i samsvar med delegert forordning [(EU) 2022/1644](eu/32022r1644) og gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), eller fra medlemsstater.Det har faktisk myndighet til å hindre slike virksomheter i å innføre produkter av animalsk opprinnelse til Unionen dersom virksomhetene ikke oppfyller de relevante EU-kravene eller krav som anses for å være minst likeverdige.
+1. Produkter av animalsk opprinnelse, som det er fastsatt krav til i vedlegg III til forordning (EF) nr. 853/2004, og som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):
+
+   1. KN-koder i kapittel 2–5, 15 eller 16h, eller
+
+      ►**M3**
+   2. underposisjoner til posisjoner i Det harmoniserte system 1702, 1806, 2105, 2106, 2301, 2932, 3001, 3002, 3501, 3502, 3503, 3504, 4101, 4102 eller 4103, og KN-kodene 2202 99 og 3917 10 10i.
+
+      ◄**M3**
+2. Spirer som omfattes av følgende HS-underposisjoner: 0704 90, 0706 90, 0708 10, 0708 20, 0708 90 eller 1214 90 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)j.
+
+   ►**M2**
+3. honning og andre biavlsprodukter som det er fastsatt følgende HS-posisjoner for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658): 0409, 0410, 1212, 1521 eller 1702aa.
+
+   ◄**M2**
+
+2\. Virksomheter nevnt i nr. 1 i denne artikkelen kan føres opp på listene nevnt i artikkel 127 nr. 3 bokstav e) i forordning (EU) 2017/625 bare dersom tredjelandet der virksomhetene er etablert garanterer følgende, i tillegg til garantiene fastsatt i artikkel 127 nr. 3 bokstav e) ii) og iv) i forordning [(EU) 2017/625](eu/32017r0625):
+
+1. Slike virksomheter, sammen med alle virksomheter som håndterer råstoffer av animalsk opprinnelse som brukes til framstilling av de aktuelle produktene av animalsk opprinnelse nevnt i nr. 1 bokstav a), oppfyller gjeldende krav nevnt i artikkel 126 nr. 1 i forordning (EU) 2017/625, særlig kravene i forordning [(EF) nr. 853/2004](eu/32004r0853), eller krav som anses for å være minst likeverdige.
+2. Slike virksomheter håndterer, når det er relevant, bare råstoffer av animalsk opprinnelse som kommer fra tredjeland med en godkjent plan for overvåking av restmengder for denne produktkategorien i samsvar med delegert forordning [(EU) 2022/1644](eu/32022r1644) og gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), eller fra medlemsstater.
+3. Det har faktisk myndighet til å hindre slike virksomheter i å innføre produkter av animalsk opprinnelse til Unionen dersom virksomhetene ikke oppfyller de relevante EU-kravene eller krav som anses for å være minst likeverdige.
 
 3\. Kommisjonen skal meddele medlemsstatene alle nye og ajourførte lister som den mottar fra vedkommende myndigheter i tredjelandet i samsvar med artikkel 127 nr. 3 bokstav e) iii) i forordning [(EU) 2017/625](eu/32017r0625), og skal offentliggjøre disse listene på sitt nettsted.
 
 4\. Medlemsstatene skal bare tillate innførsel til Unionen av forsendelsene nevnt i nr. 1 hvis de offisielle sertifikatene som skal ledsage slike forsendelser i samsvar med gjeldende EU-regler, er utstedt av vedkommende myndigheter i tredjelandet fra og med datoen for Kommisjonens offentliggjøring av listene over virksomheter nevnt i nr. 1.
 
-h Norske tollposisjoner: Kap. 2 til 5, 15 og 16.i ►**M3** Norske underposisjoner: 17.02, 21.05, 21.06, 23.01, 29.32, 30.01, 30.02, 35.01, 35.02, 35.03, 35.04, 41.01, 41.02 eller 41.0., og varenumrene 22.02.99 og 39.17.1000. ◄**M3**j Norske underposisjoner: 07.04.90, 07.06.90, 07.08.10, 07.08.20, 07.08.90 eller 12.14.90.aa ►**M2** Norske underposisjoner: 04.09, 04.10, 12.12, 15.21 eller 17.02. ◄**M2**
+h Norske tollposisjoner: Kap. 2 til 5, 15 og 16.
+
+i ►**M3** Norske underposisjoner: 17.02, 21.05, 21.06, 23.01, 29.32, 30.01, 30.02, 35.01, 35.02, 35.03, 35.04, 41.01, 41.02 eller 41.0., og varenumrene 22.02.99 og 39.17.1000. ◄**M3**
+
+j Norske underposisjoner: 07.04.90, 07.06.90, 07.08.10, 07.08.20, 07.08.90 eller 12.14.90.
+
+aa ►**M2** Norske underposisjoner: 04.09, 04.10, 12.12, 15.21 eller 17.02. ◄**M2**
 
 ### Artikkel 14. Virksomheter som ikke omfattes av kravene i artikkel 13 nr. 1
 
-Kravene fastsatt i artikkel 13 nr. 1 får ikke anvendelse på virksomheter som bare utfører følgende aktiviteter:Primærproduksjon.Transport.Lagring av produkter av animalsk opprinnelse som ikke krever temperaturregulerte lagringsforhold.►**M2**Produksjon av høyt foredlede produkter av animalsk opprinnelse med HS-posisjon 2932, eller 3503 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)k.◄**M2**–►**M2**
+Kravene fastsatt i artikkel 13 nr. 1 får ikke anvendelse på virksomheter som bare utfører følgende aktiviteter:
+
+1. Primærproduksjon.
+2. Transport.
+3. Lagring av produkter av animalsk opprinnelse som ikke krever temperaturregulerte lagringsforhold.
+
+   ►**M2**
+4. Produksjon av høyt foredlede produkter av animalsk opprinnelse med HS-posisjon 2932, eller 3503 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)k.
+
+   ◄**M2**
+
+   –
+
+   ►**M2**
 
 k ►**M2** Norske underposisjoner: 29.32 eller 35.03. ◄**M2**
 
@@ -310,7 +491,10 @@ Forsendelser av følgende produkter av animalsk opprinnelse skal innføres til U
 
 1\. Uten hensyn til artikkel 14 i denne forordningen skal forsendelser av levende muslinger, pigghuder, sekkedyr og sjøsnegler som det er fastsatt KN-koder for underposisjon 0307 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)m, innføres til Unionen bare fra produksjonsområder i tredjeland som er oppført på lister som er utarbeidet av vedkommende myndigheter i tredjelandet i samsvar med artikkel 127 nr. 3 bokstav e) i forordning (EU) 2017/625 og offentliggjort av Kommisjonen.
 
-2\. Følgende produkter kan innføres til Unionen også dersom de er høstet fra produksjonsområder som ikke er klassifisert av vedkommende myndigheter i tredjelandet i samsvar med artikkel 18 nr. 6 i forordning (EU) 2017/625:Kamskjell (pectinidae), unntatt dersom data fra overvåkingsprogrammer som fastsatt i artikkel 57 i gjennomføringsforordning (EU) 2019/627 gjør det mulig for vedkommende myndigheter å klassifisere fiskefelt i samsvar med avsnitt VII kapittel IX nr. 2 i vedlegg III til forordning (EF) nr. 853/2004.Sjøsnegler som ikke er næringsfiltrerende, og pigghuder som ikke er næringsfiltrerende.
+2\. Følgende produkter kan innføres til Unionen også dersom de er høstet fra produksjonsområder som ikke er klassifisert av vedkommende myndigheter i tredjelandet i samsvar med artikkel 18 nr. 6 i forordning (EU) 2017/625:
+
+1. Kamskjell (pectinidae), unntatt dersom data fra overvåkingsprogrammer som fastsatt i artikkel 57 i gjennomføringsforordning (EU) 2019/627 gjør det mulig for vedkommende myndigheter å klassifisere fiskefelt i samsvar med avsnitt VII kapittel IX nr. 2 i vedlegg III til forordning (EF) nr. 853/2004.
+2. Sjøsnegler som ikke er næringsfiltrerende, og pigghuder som ikke er næringsfiltrerende.
 
 m Norsk underposisjon: 03.07.
 
@@ -330,21 +514,40 @@ n Norske underposisjoner: 03.01, 03.02, 03.03, 03.04, 03.05, 03.06, 03.07, 03.08
 
 ### Artikkel 19. Særlige krav til oppføring av fartøy
 
-1\. Et fartøy kan føres opp på de listene over virksomheter som er nevnt i artikkel 127 nr. 3 bokstav e) ii) i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at vedkommende myndigheter i tredjelandet hvis flagg fartøyet fører, og vedkommende myndigheter i et annet tredjeland, som førstnevnte vedkommende myndigheter har overdratt ansvaret for inspeksjon av det aktuelle fartøyet til, gir Kommisjonen en felles underretning om at alle følgende krav er oppfylt:Begge tredjelandene er oppført på listen over tredjeland eller regioner i tredjeland utarbeidet i samsvar med artikkel 127 nr. 3 i forordning (EU) 2017/625, som det er tillatt å innføre fiskerivarer fra.Alle fiskerivarer fra det aktuelle fartøyet som er beregnet på å bringes i omsetning i Unionen, ilandføres direkte i det tredjelandet som det tredjelandet hvis flagg fartøyet fører, har overdratt ansvaret for inspeksjon av det berørte fartøyet til.De delegerte vedkommende myndighetene har inspisert fartøyet og har erklært at det oppfyller gjeldende EU-krav.De delegerte vedkommende myndighetene har erklært at de vil inspisere fartøyet regelmessig for å sikre at det fortsatt oppfyller gjeldende EU-krav.
+1\. Et fartøy kan føres opp på de listene over virksomheter som er nevnt i artikkel 127 nr. 3 bokstav e) ii) i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at vedkommende myndigheter i tredjelandet hvis flagg fartøyet fører, og vedkommende myndigheter i et annet tredjeland, som førstnevnte vedkommende myndigheter har overdratt ansvaret for inspeksjon av det aktuelle fartøyet til, gir Kommisjonen en felles underretning om at alle følgende krav er oppfylt:
 
-2\. Et fartøy kan føres opp på de listene over virksomheter som er nevnt i artikkel 127 nr. 3 bokstav e) ii) i forordning [(EU) 2017/625](eu/32017r0625), på grunnlag av en felles underretning fra vedkommende myndigheter i tredjelandet hvis flagg fartøyet fører, og fra vedkommende myndigheter i en medlemsstat som førstnevnte vedkommende myndigheter har overdratt ansvaret for inspeksjon av det aktuelle fartøyet til, dersom alle følgende krav er oppfylt:Alle fiskerivarer fra det aktuelle fartøyet som er beregnet på å bringes i omsetning i Unionen, ilandføres direkte i den medlemsstaten som tredjelandet hvis flagg fartøyet fører, har overdratt ansvaret for inspeksjon av fartøyet til.De delegerte vedkommende myndighetene har inspisert fartøyet og har erklært at det oppfyller gjeldende EU-krav.De delegerte vedkommende myndighetene har erklært at de vil inspisere fartøyet regelmessig for å sikre at det fortsatt oppfyller gjeldende EU-krav.
+1. Begge tredjelandene er oppført på listen over tredjeland eller regioner i tredjeland utarbeidet i samsvar med artikkel 127 nr. 3 i forordning (EU) 2017/625, som det er tillatt å innføre fiskerivarer fra.
+2. Alle fiskerivarer fra det aktuelle fartøyet som er beregnet på å bringes i omsetning i Unionen, ilandføres direkte i det tredjelandet som det tredjelandet hvis flagg fartøyet fører, har overdratt ansvaret for inspeksjon av det berørte fartøyet til.
+3. De delegerte vedkommende myndighetene har inspisert fartøyet og har erklært at det oppfyller gjeldende EU-krav.
+4. De delegerte vedkommende myndighetene har erklært at de vil inspisere fartøyet regelmessig for å sikre at det fortsatt oppfyller gjeldende EU-krav.
+
+2\. Et fartøy kan føres opp på de listene over virksomheter som er nevnt i artikkel 127 nr. 3 bokstav e) ii) i forordning [(EU) 2017/625](eu/32017r0625), på grunnlag av en felles underretning fra vedkommende myndigheter i tredjelandet hvis flagg fartøyet fører, og fra vedkommende myndigheter i en medlemsstat som førstnevnte vedkommende myndigheter har overdratt ansvaret for inspeksjon av det aktuelle fartøyet til, dersom alle følgende krav er oppfylt:
+
+1. Alle fiskerivarer fra det aktuelle fartøyet som er beregnet på å bringes i omsetning i Unionen, ilandføres direkte i den medlemsstaten som tredjelandet hvis flagg fartøyet fører, har overdratt ansvaret for inspeksjon av fartøyet til.
+2. De delegerte vedkommende myndighetene har inspisert fartøyet og har erklært at det oppfyller gjeldende EU-krav.
+3. De delegerte vedkommende myndighetene har erklært at de vil inspisere fartøyet regelmessig for å sikre at det fortsatt oppfyller gjeldende EU-krav.
 
 ### Artikkel 20. Krav til forsendelser av sammensatte produkter
 
 1\. Forsendelser av sammensatte produkter oppført under KN-kode 1517, 1518, 1601 00, 1602, 1603 00, 1604, 1605, 1702, 1704, 1806, 1901, 1902, 1904, 1905, 2001, 2004, 2005, 2008, 2101, 2103, 2104, 2105 00, 2106, 2202 eller 2208 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)o skal innføres til Unionen for å bringes i omsetning bare dersom hvert bearbeidet produkt av animalsk opprinnelse som inngår i de sammensatte produktene, enten ble produsert i virksomheter som ligger i tredjeland eller i regioner i tredjeland og har tillatelse til å innføre disse bearbeidede produktene av animalsk opprinnelse til Unionen i samsvar med artikkel 13 i denne forordningen, eller i virksomheter som ligger i medlemsstater.
 
-2\. I påvente av at Kommisjonen utarbeider en særlig liste over tredjeland eller regioner i tredjeland som har tillatelse til å innføre sammensatte produkter til Unionen, kan forsendelser av sammensatte produkter fra tredjeland eller regioner i tredjeland innføres til Unionen, dersom følgende regler overholdes:Sammensatte produkter nevnt i nr. 1 som må transporteres eller lagres under kontrollerte temperaturforhold, skal ha opprinnelse i tredjeland eller regioner i tredjeland som i henhold til artikkel 3 har tillatelse til å innføre til Unionen hvert bearbeidede produkt av animalsk opprinnelse som inngår i de sammensatte produktene.Sammensatte produkter nevnt i nr. 1 som ikke må transporteres eller lagres under kontrollerte temperaturforhold, og som inneholder en hvilken som helst mengde råmelkbaserte produkter eller kjøttprodukter, skal ha opprinnelse i tredjeland eller regioner i tredjeland som i henhold til artikkel 3 har tillatelse til å innføre til Unionen de råmelkbaserte produktene eller kjøttproduktene som inngår i de sammensatte produktene.Sammensatte produkter nevnt i nr. 1 som ikke behøver å transporteres eller lagres under kontrollerte temperaturforhold, og som inneholder andre bearbeidede produkter av animalsk opprinnelse enn råmelkbaserte produkter eller kjøttprodukter, og som det er fastsatt krav til i vedlegg III til forordning (EF) nr. 853/2004, skal ha opprinnelse i et tredjeland eller regioner i tredjeland som i henhold til artikkel 3 i denne forordningen har tillatelse til å innføre til Unionen kjøttprodukter, melkeprodukter, fiskerivarer eller eggprodukter på grunnlag av Unionens krav til dyrehelse og folkehelse, og som er oppført på listen for minst ett av disse produktene av animalsk opprinnelse.
+2\. I påvente av at Kommisjonen utarbeider en særlig liste over tredjeland eller regioner i tredjeland som har tillatelse til å innføre sammensatte produkter til Unionen, kan forsendelser av sammensatte produkter fra tredjeland eller regioner i tredjeland innføres til Unionen, dersom følgende regler overholdes:
+
+1. Sammensatte produkter nevnt i nr. 1 som må transporteres eller lagres under kontrollerte temperaturforhold, skal ha opprinnelse i tredjeland eller regioner i tredjeland som i henhold til artikkel 3 har tillatelse til å innføre til Unionen hvert bearbeidede produkt av animalsk opprinnelse som inngår i de sammensatte produktene.
+2. Sammensatte produkter nevnt i nr. 1 som ikke må transporteres eller lagres under kontrollerte temperaturforhold, og som inneholder en hvilken som helst mengde råmelkbaserte produkter eller kjøttprodukter, skal ha opprinnelse i tredjeland eller regioner i tredjeland som i henhold til artikkel 3 har tillatelse til å innføre til Unionen de råmelkbaserte produktene eller kjøttproduktene som inngår i de sammensatte produktene.
+3. Sammensatte produkter nevnt i nr. 1 som ikke behøver å transporteres eller lagres under kontrollerte temperaturforhold, og som inneholder andre bearbeidede produkter av animalsk opprinnelse enn råmelkbaserte produkter eller kjøttprodukter, og som det er fastsatt krav til i vedlegg III til forordning (EF) nr. 853/2004, skal ha opprinnelse i et tredjeland eller regioner i tredjeland som i henhold til artikkel 3 i denne forordningen har tillatelse til å innføre til Unionen kjøttprodukter, melkeprodukter, fiskerivarer eller eggprodukter på grunnlag av Unionens krav til dyrehelse og folkehelse, og som er oppført på listen for minst ett av disse produktene av animalsk opprinnelse.
 
 3\. Tredjeland eller regioner i tredjeland som innfører sammensatte produkter til Unionen, skal være oppført i vedlegg I til gjennomføringsforordning [(EU) 2021/405](eu/32021r0405) som tredjeland eller regioner i tredjeland som har en godkjent kontrollplan, i samsvar med artikkel 6 i denne forordningen, for de artene eller varene som brukes til å framstille de bearbeidede produktene av animalsk opprinnelse som inngår i de sammensatte produktene, med unntak av kollagen, gelatin og høyt foredlede produkter av animalsk opprinnelse.
 
 4\. Nr. 2 og 3 får ikke anvendelse på langtidsholdbare sammensatte produkter som bare inneholder bearbeidede produkter av animalsk opprinnelse eller sammensatte produkter som omfattes av virkeområdet for europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)32, europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333)33, europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334)34, eller som bare inneholder vitamin D3.
 
-32 Europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258) (EUT L 354 av 31.12.2008, s. 7).33 Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler (EUT L 354 av 31.12.2008, s. 16).34 Europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601), forordning [(EF) nr. 2232/96](eu/31996r2232), forordning [(EF) nr. 110/2008](eu/32008r0110) og direktiv [2000/13/EF](eu/32000l0013) (EUT L 354 av 31.12.2008, s. 34).o Norske underposisjoner: 15.17, 15.18, 16.01.00, 16.02, 16.03.00, 16.04, 16.05, 17.02, 17.04, 18.06, 19.01, 19.02, 19.04, 19.05, 20.01, 20.04, 20.05, 20.08, 21.01, 21.03, 21.04, 21.05.00, 21.06, 22.02 eller 22.08.
+32 Europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258) (EUT L 354 av 31.12.2008, s. 7).
+
+33 Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler (EUT L 354 av 31.12.2008, s. 16).
+
+34 Europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601), forordning [(EF) nr. 2232/96](eu/31996r2232), forordning [(EF) nr. 110/2008](eu/32008r0110) og direktiv [2000/13/EF](eu/32000l0013) (EUT L 354 av 31.12.2008, s. 34).
+
+o Norske underposisjoner: 15.17, 15.18, 16.01.00, 16.02, 16.03.00, 16.04, 16.05, 17.02, 17.04, 18.06, 19.01, 19.02, 19.04, 19.05, 20.01, 20.04, 20.05, 20.08, 21.01, 21.03, 21.04, 21.05.00, 21.06, 22.02 eller 22.08.
 
 ### KAPITTEL VI
 VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL SERTIFISERING OG ATTESTERING
@@ -358,11 +561,29 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL SERTIFISERING OG ATTESTERING
 ◄**M2**
 
 1. Levende dyr som det er fastsatt KN-koder for i del II avsnitt I kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658), når disse levende dyrene er dyr bestemt til næringsmiddelproduksjon.
-2. Produkter av animalsk opprinnelse beregnet på konsum som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):KN-koder i kapittel 2–5, 15, 16 eller 29p.►**M3**Posisjoner i Det harmoniserte system («HS-posisjoner») 0901, 1702, 1806, 2105, 2106, 2301, 3001, 3002, 3302, 3501, 3502, 3503, 3504, 3507, 3913, 3926, 4101, 4102, 4103 eller 9602, og KN-kodene 2202 99 og 3917 10 10q.◄**M3**►**M2**
-3. Spirer og frø som er beregnet på produksjon av spirer, og med følgende HS-underposisjoner: 0704 90, 0706 90, 0708 10, 0708 20, 0708 90, 0713 10, 0713 33, 0713 34, 0713 35, 0713 39, 0713 40, 0713 50, 0713 60, 0713 90, 0910 99, 1201 10, 1201 90, 1207 50, 1207 99, 1209 10, 1209 21, 1209 91 eller 1214 90 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)r.◄**M2**
+2. Produkter av animalsk opprinnelse beregnet på konsum som det er fastsatt følgende koder for i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658):
+
+   1. KN-koder i kapittel 2–5, 15, 16 eller 29p.
+
+      ►**M3**
+   2. Posisjoner i Det harmoniserte system («HS-posisjoner») 0901, 1702, 1806, 2105, 2106, 2301, 3001, 3002, 3302, 3501, 3502, 3503, 3504, 3507, 3913, 3926, 4101, 4102, 4103 eller 9602, og KN-kodene 2202 99 og 3917 10 10q.
+
+      ◄**M3**
+
+   ►**M2**
+3. Spirer og frø som er beregnet på produksjon av spirer, og med følgende HS-underposisjoner: 0704 90, 0706 90, 0708 10, 0708 20, 0708 90, 0713 10, 0713 33, 0713 34, 0713 35, 0713 39, 0713 40, 0713 50, 0713 60, 0713 90, 0910 99, 1201 10, 1201 90, 1207 50, 1207 99, 1209 10, 1209 21, 1209 91 eller 1214 90 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)r.
+
+   ◄**M2**
 4. Bipollen med KN-kode 1212 99 95 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)s.
-5. Levende snegler, unntatt sjøsnegler, med KN-kode 0307 60 00 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)t.►**M2**
-6. Sammensatte produkter nevnt i artikkel 20 nr. 2 bokstav a) og b), med unntak av langtidsholdbare sammensatte produkter som ikke inneholder andre kjøttprodukter enngelatin eller kollagen som ikke er framstilt av bein fra drøvtyggerehøyt foredlede produkter som beskrevet i avsnitt XVI i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), beregnet på konsum.◄**M2**
+5. Levende snegler, unntatt sjøsnegler, med KN-kode 0307 60 00 i del II i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)t.
+
+   ►**M2**
+6. Sammensatte produkter nevnt i artikkel 20 nr. 2 bokstav a) og b), med unntak av langtidsholdbare sammensatte produkter som ikke inneholder andre kjøttprodukter enn
+
+   1. gelatin eller kollagen som ikke er framstilt av bein fra drøvtyggere
+   2. høyt foredlede produkter som beskrevet i avsnitt XVI i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), beregnet på konsum.
+
+   ◄**M2**
 
 2\. Når forsendelser av fiskerivarer innføres til Unionen direkte fra et kjøleskip, et fabrikkskip eller et frysefartøy som fører et tredjelands flagg, kan det offisielle sertifikatet nevnt i artikkel 14 nr. 3 i gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) underskrives av fartøysjefen.
 
@@ -372,7 +593,10 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL SERTIFISERING OG ATTESTERING
 
 ◄**M2**
 
-4\. De offisielle sertifikatene nevnt i nr. 1 skal attestere at produktene oppfyllerkravene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), [(EF) nr. 852/2004](eu/32004r0852) og [(EF) nr. 853/2004](eu/32004r0853), eller bestemmelser som anses som likeverdige med disse kravene,alle særlige krav ved innførsel til Unionen fastsatt i denne forordningen.
+4\. De offisielle sertifikatene nevnt i nr. 1 skal attestere at produktene oppfyller
+
+1. kravene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), [(EF) nr. 852/2004](eu/32004r0852) og [(EF) nr. 853/2004](eu/32004r0853), eller bestemmelser som anses som likeverdige med disse kravene,
+2. alle særlige krav ved innførsel til Unionen fastsatt i denne forordningen.
 
 5\. De offisielle sertifikatene nevnt i nr. 1 kan inneholde nærmere opplysninger som kreves i henhold til andre deler av Unionens regelverk om menneskers eller dyrs helse.
 
@@ -380,21 +604,52 @@ VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL SERTIFISERING OG ATTESTERING
 
 7\. De vedkommende myndighetene i avsendertredjelandet kan sertifisere forsendelser av produkter av animalsk opprinnelse som bare krever hygieneattestasjon, eller forsendelser av spirer, som kommer fra et annet tredjeland, dersom vedkommende myndigheter i avsendertredjelandet kan sørge for at forsendelsene oppfyller kravene ved innførsel til Unionen som er fastsatt i denne forordningen.
 
-p KN-koder i kapittel 2–5, 15, 16 eller 29.q ►**M3** Norske underposisjoner: 09.01, 17.02, 18.06, 21.05, 21.06, 23.01, 30.01, 30.02, 33.02, 35.01, 35.02, 35.03, 35.04, 35.07, 39.13, 39.26, 41.01, 41.02, 41.03 eller 96.02, og varenumrene 22.02.99 og 39.17.1000. ◄**M3**r ►**M2** Norske underposisjoner: 07.04.90, 07.06.90, 07.08.10, *07.08.20, 07.08.90, 07.13.10, 07.13.33, 07.13.34, 07.13.35, 07.13.39, 07.13.40, 07.13.50, 07.13.60, 07.13.90,* 09.10.99, 12.01.10, 12.01.90, 12.07.50, 12.07.99, 12.09.10, 12.09.21, 12.09.91 eller 12.14.90. ◄**M2**s Norsk varenummer: 12.12.9900.t Norsk varenummer: 03.07.6000.bb ►**M2** Norske underposisjoner: 39.33, 39.26 eller 96.02. ◄**M2**
+p KN-koder i kapittel 2–5, 15, 16 eller 29.
+
+q ►**M3** Norske underposisjoner: 09.01, 17.02, 18.06, 21.05, 21.06, 23.01, 30.01, 30.02, 33.02, 35.01, 35.02, 35.03, 35.04, 35.07, 39.13, 39.26, 41.01, 41.02, 41.03 eller 96.02, og varenumrene 22.02.99 og 39.17.1000. ◄**M3**
+
+r ►**M2** Norske underposisjoner: 07.04.90, 07.06.90, 07.08.10, *07.08.20, 07.08.90, 07.13.10, 07.13.33, 07.13.34, 07.13.35, 07.13.39, 07.13.40, 07.13.50, 07.13.60, 07.13.90,* 09.10.99, 12.01.10, 12.01.90, 12.07.50, 12.07.99, 12.09.10, 12.09.21, 12.09.91 eller 12.14.90. ◄**M2**
+
+s Norsk varenummer: 12.12.9900.
+
+t Norsk varenummer: 03.07.6000.
+
+bb ►**M2** Norske underposisjoner: 39.33, 39.26 eller 96.02. ◄**M2**
 
 ### Artikkel 22. Privat erklæring
 
-1\. En privat erklæring som bekrefter at forsendelsen oppfyller gjeldende krav nevnt i artikkel 126 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625), utarbeidet og undertegnet av den driftsansvarlige for næringsmiddelforetaket som innfører varer til Unionen, skal ledsage:forsendelser av sammensatte produkter nevnt i artikkel 20 nr. 2 bokstav b) i denne forordningen, dersom de sammensatte produktene ikke inneholder råmelkbaserte produkter eller annet bearbeidet kjøtt enn gelatin, kollagen eller høyt foredlede produkter av animalsk opprinnelse, ogforsendelser av de sammensatte produktene nevnt i artikkel 20 nr. 2 bokstav c) i denne forordningen.
+1\. En privat erklæring som bekrefter at forsendelsen oppfyller gjeldende krav nevnt i artikkel 126 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625), utarbeidet og undertegnet av den driftsansvarlige for næringsmiddelforetaket som innfører varer til Unionen, skal ledsage:
+
+1. forsendelser av sammensatte produkter nevnt i artikkel 20 nr. 2 bokstav b) i denne forordningen, dersom de sammensatte produktene ikke inneholder råmelkbaserte produkter eller annet bearbeidet kjøtt enn gelatin, kollagen eller høyt foredlede produkter av animalsk opprinnelse, og
+2. forsendelser av de sammensatte produktene nevnt i artikkel 20 nr. 2 bokstav c) i denne forordningen.
 
 ►**M3**
 
-2\. Som unntak fra nr. 1 i denne artikkelen:For sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner, i samsvar med artikkel 48 bokstav h) i forordning [(EU) 2017/625](eu/32017r0625), skal den private erklæringen ledsage de sammensatte produktene på det tidspunktet de bringes i omsetning, unntatt for produkter nevnt i artikkel 20 nr. 4 i denne forordningen, som det ikke kreves en privat erklæring for.Det kreves ikke en privat erklæring ved innførsel til Unionen av sammensatte produkter, dersom det eneste bearbeidede animalske produktet er gelatinkapsler, som ikke er fremstilt av knokler fra drøvtyggere.
+2\. Som unntak fra nr. 1 i denne artikkelen:
+
+1. For sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner, i samsvar med artikkel 48 bokstav h) i forordning [(EU) 2017/625](eu/32017r0625), skal den private erklæringen ledsage de sammensatte produktene på det tidspunktet de bringes i omsetning, unntatt for produkter nevnt i artikkel 20 nr. 4 i denne forordningen, som det ikke kreves en privat erklæring for.
+2. Det kreves ikke en privat erklæring ved innførsel til Unionen av sammensatte produkter, dersom det eneste bearbeidede animalske produktet er gelatinkapsler, som ikke er fremstilt av knokler fra drøvtyggere.
 
 ◄**M3**
 
-3\. Den private erklæringen nevnt i nr. 1 skal sikre forsendelsens sporbarhet og inneholdeopplysninger om avsenderen og mottakeren av varene som er innført til Unionen,listen over produkter av vegetabilsk opprinnelse og bearbeidede produkter av animalsk opprinnelse som inngår i de sammensatte produktene, angitt i fallende orden etter vekt som notert på tidspunktet for deres bruk i framstillingen av de sammensatte produktene,godkjenningsnummeret som virksomhetene som framstiller de bearbeidede produktene av animalsk opprinnelse som inngår i de sammensatte produktene, ble tildelt etter å ha fått godkjenning i henhold til artikkel 4 nr. 3 i forordning [(EF) nr. 853/2004](eu/32004r0853), som angitt av driftsansvarlig for næringsmiddelforetaket som innfører varer til Unionen.
+3\. Den private erklæringen nevnt i nr. 1 skal sikre forsendelsens sporbarhet og inneholde
 
-4\. Den private erklæringen nevnt i nr. 1 skal attestere attredjelandet eller regionen i tredjelandet som produserer de sammensatte produktene, er oppført på listen for minst én av følgende kategorier av produkter av animalsk opprinnelse:Kjøttprodukter.Melkeprodukter eller råmelkbaserte produkter.Fiskerivarer.Eggprodukter.virksomheten som produserer de sammensatte produktene, oppfyller hygienestandarder som anses som likeverdige med dem som kreves i forordning [(EF) nr. 852/2004](eu/32004r0852),de sammensatte produktene behøver ikke å lagres eller transporteres under kontrollerte temperaturforhold,de bearbeidede produktene av animalsk opprinnelse som inngår i de sammensatte produktene, har opprinnelse i tredjeland eller regioner i tredjeland som har tillatelse til å innføre til Unionen hvert bearbeidede produkt av animalsk opprinnelse, eller i medlemsstatene, og kommer fra listeførte virksomheter,de bearbeidede produktene av animalsk opprinnelse som brukes i de sammensatte produktene, har gjennomgått minst en av behandlingene nevnt i artikkel 163 nr. 1 i kommisjonsforordning [(EU) 2020/692](eu/32020r0692), med en kort beskrivelse av alle gjennomførte prosesser og temperaturer som er anvendt på det sammensatte produktet.
+1. opplysninger om avsenderen og mottakeren av varene som er innført til Unionen,
+2. listen over produkter av vegetabilsk opprinnelse og bearbeidede produkter av animalsk opprinnelse som inngår i de sammensatte produktene, angitt i fallende orden etter vekt som notert på tidspunktet for deres bruk i framstillingen av de sammensatte produktene,
+3. godkjenningsnummeret som virksomhetene som framstiller de bearbeidede produktene av animalsk opprinnelse som inngår i de sammensatte produktene, ble tildelt etter å ha fått godkjenning i henhold til artikkel 4 nr. 3 i forordning [(EF) nr. 853/2004](eu/32004r0853), som angitt av driftsansvarlig for næringsmiddelforetaket som innfører varer til Unionen.
+
+4\. Den private erklæringen nevnt i nr. 1 skal attestere at
+
+1. tredjelandet eller regionen i tredjelandet som produserer de sammensatte produktene, er oppført på listen for minst én av følgende kategorier av produkter av animalsk opprinnelse:
+
+   1. Kjøttprodukter.
+   2. Melkeprodukter eller råmelkbaserte produkter.
+   3. Fiskerivarer.
+   4. Eggprodukter.
+2. virksomheten som produserer de sammensatte produktene, oppfyller hygienestandarder som anses som likeverdige med dem som kreves i forordning [(EF) nr. 852/2004](eu/32004r0852),
+3. de sammensatte produktene behøver ikke å lagres eller transporteres under kontrollerte temperaturforhold,
+4. de bearbeidede produktene av animalsk opprinnelse som inngår i de sammensatte produktene, har opprinnelse i tredjeland eller regioner i tredjeland som har tillatelse til å innføre til Unionen hvert bearbeidede produkt av animalsk opprinnelse, eller i medlemsstatene, og kommer fra listeførte virksomheter,
+5. de bearbeidede produktene av animalsk opprinnelse som brukes i de sammensatte produktene, har gjennomgått minst en av behandlingene nevnt i artikkel 163 nr. 1 i kommisjonsforordning [(EU) 2020/692](eu/32020r0692), med en kort beskrivelse av alle gjennomførte prosesser og temperaturer som er anvendt på det sammensatte produktet.
 
 ### KAPITTEL VII
 SLUTTBESTEMMELSER
@@ -415,7 +670,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den eu
 
 Den får anvendelse fra 15. desember 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 6. september 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 6. september 2022.
 
 |  |  |
 | --- | --- |
@@ -462,7 +719,15 @@ Tredjelandenes kontrollplan for farmakologisk virksomme stoffer, plantevernmidle
 ###### C. Farmakologisk virksomme stoffer
 
 1. De kravene som oppfylles gjennom kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, særlig hvorvidt slike krav er de som er nevnt i artikkel 4 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), eller tilsvarende krav. I sistnevnte tilfelle skal det gis ytterligere opplysninger om hvordan disse kravene dekker alle punktene oppført i del II bokstav C til K i dette vedlegget.
-2. Listen over grupper av stoffer som omfattes av kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer for hver dyreart og produkt som angitt i►**M2**del A.1 i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644) for stoffer i gruppe A nevnt i vedlegg I til delegert forordning [(EU) 2022/1644](eu/32022r1644)◄**M2**del B.1 i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644) for stoffer i gruppe B nevnt i vedlegg I til delegert forordning [(EU) 2022/1644](eu/32022r1644). For stoffer i gruppe B skal utvelgelsen av grupper som omfattes av kontrollplanen, ta hensyn til godkjenning og bruk av slike stoffer og risikoen for restmengder i dyr og produkter av animalsk opprinnelse beregnet på innførsel til Unionen.
+2. Listen over grupper av stoffer som omfattes av kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer for hver dyreart og produkt som angitt i
+
+   ►**M2**
+
+   1. del A.1 i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644) for stoffer i gruppe A nevnt i vedlegg I til delegert forordning [(EU) 2022/1644](eu/32022r1644)
+
+   ◄**M2**
+
+   1. del B.1 i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644) for stoffer i gruppe B nevnt i vedlegg I til delegert forordning [(EU) 2022/1644](eu/32022r1644). For stoffer i gruppe B skal utvelgelsen av grupper som omfattes av kontrollplanen, ta hensyn til godkjenning og bruk av slike stoffer og risikoen for restmengder i dyr og produkter av animalsk opprinnelse beregnet på innførsel til Unionen.
 3. Innenfor gruppene av stoffer som omfattes av kontrollplanen, listen over stoffer og deres restmarkører som skal analyseres med tanke på de spesifikke dyreartene og produktene i de spesifikke matrisene, herunder en begrunnelse for utvalget basert på risikokriteriene fastsatt i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644).
 4. Antall prøver per dyreart og produkter for hver av stoffgruppene som omfattes av kontrollplanen, basert på kontrollfrekvensene fastsatt i vedlegg I til gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), eller tilsvarende garantier. En beskrivelse av kriteriene for utvelgelse av prøvetakingssteder og dyr eller produkter av animalsk opprinnelse som det skal tas prøver av, basert på kriteriene fastsatt i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644).
 5. En beskrivelse av utvalgsstrategien som forklarer hvordan den håndterer bestemmelsene i vedlegg III til delegert forordning [(EU) 2022/1644](eu/32022r1644).
@@ -485,7 +750,14 @@ Tredjelandenes kontrollplan for farmakologisk virksomme stoffer, plantevernmidle
 2. Akkrediteringsstatus, herunder omfanget av akkreditering, for hvert av de offisielle laboratoriene som utfører analyser i forbindelse med kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer.
 3. En liste, for hvert av laboratoriene, over alle metodene som brukes i kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, med en angivelse av om de er inkludert eller ikke i omfanget av akkreditering for de spesifikke matrisene som omfattes av kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer.
 4. En liste, for hvert av laboratoriene, over metodene som brukes i kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, med en angivelse av om de er validert i samsvar med de relevante EU-reglene eller tilsvarende regler, eller om de ikke er validert, for de spesifikke matrisene som omfattes av kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, med angivelse av hvilken standard som brukes til validering.
-5. En liste, for hvert av stoffene som det testes for i kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, over de analysemetodene og reguleringsstandardene som brukes til å tolke analyseresultatene og ytelseskravene til analysemetodene, herunder informasjon omdet analyserte stoffet og restmarkører,de analyserte matrisene,identifikasjon av analysemetoden (f.eks. ELISA, LC-MS/MS, AAS),analysemetodetypen (screening eller bekreftende),screening- og bekreftelsesmetodene som brukes, påvisningsgrensene og grenser for mengdebestemmelse eller, hvis det er relevant, beslutningsgrensen for bekreftelse (CCα) og påvisningsevnen ved screening (CCß) som definert i artikkel 2 andre ledd nr. 14 og 15 i gjennomføringsforordning [(EU) 2021/808](eu/32021r0808),over hvilken konsentrasjon et resultat anses for å ikke være i samsvar med formålet med kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer. Det skal særlig angis forskjeller i forhold til grensene fastsatt i Unionens regelverk.
+5. En liste, for hvert av stoffene som det testes for i kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer, over de analysemetodene og reguleringsstandardene som brukes til å tolke analyseresultatene og ytelseskravene til analysemetodene, herunder informasjon om
+
+   1. det analyserte stoffet og restmarkører,
+   2. de analyserte matrisene,
+   3. identifikasjon av analysemetoden (f.eks. ELISA, LC-MS/MS, AAS),
+   4. analysemetodetypen (screening eller bekreftende),
+   5. screening- og bekreftelsesmetodene som brukes, påvisningsgrensene og grenser for mengdebestemmelse eller, hvis det er relevant, beslutningsgrensen for bekreftelse (CCα) og påvisningsevnen ved screening (CCß) som definert i artikkel 2 andre ledd nr. 14 og 15 i gjennomføringsforordning [(EU) 2021/808](eu/32021r0808),
+   6. over hvilken konsentrasjon et resultat anses for å ikke være i samsvar med formålet med kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer. Det skal særlig angis forskjeller i forhold til grensene fastsatt i Unionens regelverk.
 
 ###### G. Farmakologisk virksomme stoffer som er godkjent i legemidler til dyr eller som tilsetningsstoffer i fôr til dyr bestemt til næringsmiddelproduksjon, og forbud mot bruk på slike dyr
 
@@ -513,7 +785,11 @@ Tredjelandenes kontrollplan for farmakologisk virksomme stoffer, plantevernmidle
 
 ###### K. Spesifikke opplysninger for dyr av hestefamilien
 
-1. En beskrivelse av systemet som er innført for å sikre at dyr av hestefamilien som er behandlet med stoffer som er forbudt eller ikke godkjent i Unionen for bruk på dyr bestemt til næringsmiddelproduksjon og produkter til konsum som er framstilt av slike dyr, ikke kan innføres til Unionen. Følgende elementer i et slikt system skal beskrives:Identifikasjon og sporbarhet av dyr av hestefamilien.Journalføring av administrering av legemidler til dyr.Rapporter med alle behandlinger med farmakologisk virksomme stoffer.
+1. En beskrivelse av systemet som er innført for å sikre at dyr av hestefamilien som er behandlet med stoffer som er forbudt eller ikke godkjent i Unionen for bruk på dyr bestemt til næringsmiddelproduksjon og produkter til konsum som er framstilt av slike dyr, ikke kan innføres til Unionen. Følgende elementer i et slikt system skal beskrives:
+
+   1. Identifikasjon og sporbarhet av dyr av hestefamilien.
+   2. Journalføring av administrering av legemidler til dyr.
+   3. Rapporter med alle behandlinger med farmakologisk virksomme stoffer.
 2. Dersom dyr av hestefamilien behandles med stoffer som anses som vesentlige i henhold til Unionens regler, en beskrivelse av systemet som er innført for å sikre at næringsmidler som er framstilt av slike dyr, ikke kan innføres til Unionen før det er gått seks måneder siden siste behandling.
 3. Hestedyr bestemt til næringsmiddelproduksjon som kan innføres til Unionen, skal ha opprinnelse i tredjelandet som har til hensikt å innføre hestedyr til Unionen, eller i andre tredjeland som gjennomfører en kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer godkjent av Kommisjonen.
 

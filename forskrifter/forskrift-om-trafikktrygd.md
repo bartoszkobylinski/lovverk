@@ -15,7 +15,7 @@ xml_hash: "41c8ba23a2a489331b5135d49c6422f2a396c56bb876cd23be66030429fd8680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ Utenlandske motorvogner og motorvogner som skal være særskilt registrert, skal
 
 Utenlandske motorvogner som ikke er trygdet på forhånd som angitt nedenfor og motorvogner som skal være særskilt registrert, må trygdes i Trafikkforsikringsforeningen, som er det norske nasjonale forsikringsbyrå. Slik trygd skal gjelde for alle motorvogner som omfattes av bilansvarsloven.
 
-Som bevis for trafikktrygd godtas:Grønt kort (internasjonalt forsikringsbevis) utferdiget på vegne av utenlandsk nasjonalt forsikringsbyrå i samsvar med avtale med Trafikkforsikringsforeningen eller av Trafikkforsikringsforeningen eller dennes agenter. Grønt kort utferdiget av Trafikkforsikringsforeningen eller dens agenter skal ha dekning som nevnt i [§ 1a](forskrift/1974-04-01-3/§1a) nr. 4.Forutsatt full gjensidighet, vognkort eller annet bevis for at vognen er registrert eller vanligvis hjemmehørende i stat som er medlem i Det europeiske økonomiske samarbeidsområdet (EØS) eller i enhver annen stat hvis nasjonale forsikringsbyrå slutter seg til Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III. Tilsvarende gjelder også for andre motorvogner som innpasserer fra EØS-stat.
+Som bevis for trafikktrygd godtas:
+
+1. Grønt kort (internasjonalt forsikringsbevis) utferdiget på vegne av utenlandsk nasjonalt forsikringsbyrå i samsvar med avtale med Trafikkforsikringsforeningen eller av Trafikkforsikringsforeningen eller dennes agenter. Grønt kort utferdiget av Trafikkforsikringsforeningen eller dens agenter skal ha dekning som nevnt i [§ 1a](forskrift/1974-04-01-3/§1a) nr. 4.
+2. Forutsatt full gjensidighet, vognkort eller annet bevis for at vognen er registrert eller vanligvis hjemmehørende i stat som er medlem i Det europeiske økonomiske samarbeidsområdet (EØS) eller i enhver annen stat hvis nasjonale forsikringsbyrå slutter seg til Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III. Tilsvarende gjelder også for andre motorvogner som innpasserer fra EØS-stat.
 
 > Endret ved [forskrifter 16 juni 1995 nr. 562](forskrift/1995-06-16-562), [6 mai 2004 nr. 710](forskrift/2004-05-06-710).
 
@@ -60,7 +63,10 @@ Bestemmelsene i [§ 1f](forskrift/1974-04-01-3/§1f) gis i tillegg anvendelse p�
 
 Trygdelag som nevnt i [§ 1a](forskrift/1974-04-01-3/§1a) skal utpeke en skadebehandlingsrepresentant i alle andre EØS-stater enn den der foretaket har fått sin tillatelse. Skadebehandlingsrepresentanten skal være bosatt eller etablert i den EØS-stat der vedkommende blir oppnevnt, og skal kunne behandle saken på denne EØS-statens offisielle språk. Skadebehandlingsrepresentanten skal behandle og avgjøre erstatningskrav som følge av ulykker som nevnt i [§ 1b](forskrift/1974-04-01-3/§1b). Representanten skal ha tilstrekkelig myndighet til å representere trygdelaget overfor skadelidte og til fullt ut å imøtekomme skadelidtes krav. Representanten skal innhente alle opplysninger som er nødvendige for å avvikle skadesaken, og skal ta de skritt som er nødvendige for å forhandle frem et erstatningsoppgjør.
 
-Senest tre måneder etter den dato skadelidte fremsatte sitt erstatningskrav, enten direkte overfor skadevolderens trygdelag eller dets skadebehandlingsrepresentant, skal skadevolders trygdelag eller dettes representant:fremsette et begrunnet erstatningstilbud, ellergi et begrunnet svar på erstatningskravet dersom kravet avvises, kravet ikke er klarlagt, eller skadelidtes tap ikke er endelig kvantifisert.
+Senest tre måneder etter den dato skadelidte fremsatte sitt erstatningskrav, enten direkte overfor skadevolderens trygdelag eller dets skadebehandlingsrepresentant, skal skadevolders trygdelag eller dettes representant:
+
+1. fremsette et begrunnet erstatningstilbud, eller
+2. gi et begrunnet svar på erstatningskravet dersom kravet avvises, kravet ikke er klarlagt, eller skadelidtes tap ikke er endelig kvantifisert.
 
 Utpekelsen av skadebehandlingsrepresentant fratar ikke skadelidte eller dennes trygdelag retten til å reise krav direkte mot skadevolder eller dennes trygdelag.
 
@@ -72,11 +78,22 @@ Dersom tilbud ikke fremsettes innenfor tremånedersfristen, skal det fra denne f
 
 Trafikkforsikringsforeningen anerkjennes som informasjonssenter i henhold til direktiv [2000/26/EF](eu/32000l0026) art. 5 og sentralorgan i henhold til direktiv [2005/14/EF](eu/32005l0014) art. 5.
 
-Informasjonssenteret skal føre et register over, eller koordinere innsamling og formidling av, samt bistå berettigede personer med å få følgende opplysninger:registreringsnummer på de motorvogner som er hjemmehørende i landet,polisenummeret på motorvognens trafikktrygd etter [bilansvarslova § 15](lov/1961-02-03/§15),dersom gyldigheten av trygden som nevnt i bokstav b er utløpt, datoen for trygdens opphør,– – –de motorvogner som er unntatt fra plikten til å ha ansvarsforsikring, jf. direktiv [72/166/EØF](eu/31972l0166) art. 4 bokstav a og bokstav b, ogen oversikt over hvilke trygdelag som nevnt i [§ 1a](forskrift/1974-04-01-3/§1a) som finnes og hvilke skaderepresentanter disse har utpekt etter [§ 1c](forskrift/1974-04-01-3/§1c).
+Informasjonssenteret skal føre et register over, eller koordinere innsamling og formidling av, samt bistå berettigede personer med å få følgende opplysninger:
+
+1. registreringsnummer på de motorvogner som er hjemmehørende i landet,
+2. polisenummeret på motorvognens trafikktrygd etter [bilansvarslova § 15](lov/1961-02-03/§15),
+3. dersom gyldigheten av trygden som nevnt i bokstav b er utløpt, datoen for trygdens opphør,
+4. – – –
+5. de motorvogner som er unntatt fra plikten til å ha ansvarsforsikring, jf. direktiv [72/166/EØF](eu/31972l0166) art. 4 bokstav a og bokstav b, og
+6. en oversikt over hvilke trygdelag som nevnt i [§ 1a](forskrift/1974-04-01-3/§1a) som finnes og hvilke skaderepresentanter disse har utpekt etter [§ 1c](forskrift/1974-04-01-3/§1c).
 
 Opplysningene oppbevares i sju år etter at motorvognen er slettet fra kjøretøyregisteret eller etter trygdeavtalens opphør.
 
-I en periode på sju år etter uhellet har skadelidte rett til å få følgende opplysninger fra informasjonssenteret i den EØS-stat hvor skadelidte er bosatt, den EØS-stat hvor kjøretøyet er hjemmehørende eller den EØS-stat hvor uhellet fant sted:trygdelagets navn og adresse,polisenummeret på trygden, ognavn og adresse på trygdelagets skadebehandlingsrepresentant i den EØS-stat skadelidte er bosatt.
+I en periode på sju år etter uhellet har skadelidte rett til å få følgende opplysninger fra informasjonssenteret i den EØS-stat hvor skadelidte er bosatt, den EØS-stat hvor kjøretøyet er hjemmehørende eller den EØS-stat hvor uhellet fant sted:
+
+1. trygdelagets navn og adresse,
+2. polisenummeret på trygden, og
+3. navn og adresse på trygdelagets skadebehandlingsrepresentant i den EØS-stat skadelidte er bosatt.
 
 Informasjonssenteret opplyser skadelidte om eierens, den sedvanlige førers eller den registrerte innehavers navn og adresse, dersom skadelidte har en berettiget interesse i å få disse opplysninger. Informasjonssenteret kan henvende seg til trygdelaget eller kjøretøyregisteret for å få disse opplysningene.
 
@@ -92,7 +109,10 @@ Sentralorganet skal treffe alle egnede tiltak for å lette de skadelidtes, deres
 
 Trafikkforsikringsforeningen anerkjennes som erstatningsorgan i henhold til direktiv [2000/26/EF](eu/32000l0026) art. 6.
 
-Skadelidte kan fremme erstatningskrav overfor erstatningsorganet i de skadetilfeller som omfattes av [§ 1b](forskrift/1974-04-01-3/§1b) dersom:trygdelaget eller skadebehandlingsrepresentanten ikke har oppfylt sin plikt etter [§ 1c](forskrift/1974-04-01-3/§1c) tredje ledd, ellertrygdelaget ikke har utpekt skadebehandlingsrepresentant etter [§ 1c](forskrift/1974-04-01-3/§1c) første ledd. Skadelidte kan i dette tilfellet ikke fremme krav overfor erstatningsorganet dersom de har fremmet erstatningskrav direkte overfor skadevolders trygdelag, og har mottatt et begrunnet svar innen tre måneder etter at kravet ble fremmet.
+Skadelidte kan fremme erstatningskrav overfor erstatningsorganet i de skadetilfeller som omfattes av [§ 1b](forskrift/1974-04-01-3/§1b) dersom:
+
+1. trygdelaget eller skadebehandlingsrepresentanten ikke har oppfylt sin plikt etter [§ 1c](forskrift/1974-04-01-3/§1c) tredje ledd, eller
+2. trygdelaget ikke har utpekt skadebehandlingsrepresentant etter [§ 1c](forskrift/1974-04-01-3/§1c) første ledd. Skadelidte kan i dette tilfellet ikke fremme krav overfor erstatningsorganet dersom de har fremmet erstatningskrav direkte overfor skadevolders trygdelag, og har mottatt et begrunnet svar innen tre måneder etter at kravet ble fremmet.
 
 De skadelidte kan imidlertid ikke fremme krav overfor erstatningsorganet dersom de har tatt rettslige skritt direkte mot forsikringsforetaket.
 
@@ -110,7 +130,11 @@ Dersom motorvognen er ukjent eller det ikke innen to måneder etter uhellet er m
 
 Erstatning ytes i henhold til [bilansvarslova § 10](lov/1961-02-03/§10).
 
-Erstatningsorganet skal deretter, på samme vilkår som fastsatt i [§ 1e](forskrift/1974-04-01-3/§1e) sjette ledd, ha et krav når:trygdelaget ikke kan identifiseres: mot garantifondet i den EØS-stat hvor motorvognen er hjemmehørende,motorvognen er ukjent: mot garantifondet i den EØS-stat hvor uhellet er skjedd, ellerhvis motorvognen er hjemmehørende i et tredjeland: mot garantifondet i den EØS-stat hvor uhellet er skjedd.
+Erstatningsorganet skal deretter, på samme vilkår som fastsatt i [§ 1e](forskrift/1974-04-01-3/§1e) sjette ledd, ha et krav når:
+
+1. trygdelaget ikke kan identifiseres: mot garantifondet i den EØS-stat hvor motorvognen er hjemmehørende,
+2. motorvognen er ukjent: mot garantifondet i den EØS-stat hvor uhellet er skjedd, eller
+3. hvis motorvognen er hjemmehørende i et tredjeland: mot garantifondet i den EØS-stat hvor uhellet er skjedd.
 
 > Tilføyd ved [forskrift 24 juni 2002 nr. 711](forskrift/2002-06-24-711) (i kraft 1 jan 2003).
 

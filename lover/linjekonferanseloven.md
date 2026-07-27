@@ -15,7 +15,7 @@ xml_hash: "de9a7a63ea82cc9584781e733dcb1bd86073f24d441210c7dd1dbec5fad0ff5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Lovens formål.
 
-1. Lovens formål er å gjennomføre regelverket i konvensjonen, jfr. [§ 2](lov/1984-06-08-55/§2), i norsk rett i tråd med retningslinjene for tilsvarende lovgivning i Finland, Sverige, Danmark og de øvrige EF-stater samt andre OECD-stater, samt å:bidra til å sikre at de forretningsmessige prinsipper som er anvendt av linjerederiene fra OECD-statene og i skipsfarten mellom OECD-statene, fortsatt kommer til anvendelse;sikre en rimelig balanse mellom transportør- og transportbrukerinteressene i linjefarten; ogmotvirke handlemåter som innebærer urimelig forskjellsbehandling av linjerederier eller transportbrukere;sikre at linjerederier som står utenfor konferansen, ikke hindres i å drive linjefart basert på prinsippet om tilbørlig konkurranse på forretningsmessig grunnlag; ogsikre at transportbrukere etter eget valg kan benytte såvel utenforstående linjerederier som linjerederier som er medlem av en konferanse.
+1. Lovens formål er å gjennomføre regelverket i konvensjonen, jfr. [§ 2](lov/1984-06-08-55/§2), i norsk rett i tråd med retningslinjene for tilsvarende lovgivning i Finland, Sverige, Danmark og de øvrige EF-stater samt andre OECD-stater, samt å:
+
+   1. bidra til å sikre at de forretningsmessige prinsipper som er anvendt av linjerederiene fra OECD-statene og i skipsfarten mellom OECD-statene, fortsatt kommer til anvendelse;
+   2. sikre en rimelig balanse mellom transportør- og transportbrukerinteressene i linjefarten; og
+   3. motvirke handlemåter som innebærer urimelig forskjellsbehandling av linjerederier eller transportbrukere;
+   4. sikre at linjerederier som står utenfor konferansen, ikke hindres i å drive linjefart basert på prinsippet om tilbørlig konkurranse på forretningsmessig grunnlag; og
+   5. sikre at transportbrukere etter eget valg kan benytte såvel utenforstående linjerederier som linjerederier som er medlem av en konferanse.
 2. Kongen fastsetter nærmere forskrifter til gjennomføring av denne lovens formål, herunder regler om linjekonferansers, linjerederiers, transportbrukeres og transportbrukerorganisasjoners opplysningsplikt overfor norske myndigheter.
 3. Kongen kan i medhold av loven også fastsette forskrifter for internasjonal linjefart med skip som ikke er undergitt konvensjonen, når dette skjer til gjennomføring av tiltak som regjeringene i Norge og andre stater som nevnt i første ledd er blitt enige om.
 
@@ -38,7 +44,15 @@ eu_basis: []
 
 ## § 2. Definisjoner.
 
-I loven forstås med«Konvensjonen»: De forente nasjoners konvensjon 6. april 1974 om et regelverk for linjekonferansers virksomhet;«konvensjonsstat»: en stat som er bundet av konvensjonen;«EF-stat»: en stat som er medlem av Det europeiske fellesskap;«OECD-stat»: en stat som er medlem av Organisasjonen for økonomisk samarbeid og utvikling;«linjekonferanse» eller «konferanse»: to eller flere linjerederier som driver internasjonal linjefart for godsbefordring i en eller flere bestemte ruter innenfor et avgrenset geografisk område, og som driver virksomheten under ensartede eller felles fraktrater og andre omforente vilkår for slik linjefart;«transportbrukerorganisasjon»: en sammenslutning som fremmer, representerer og ivaretar transportbrukernes interesser, og som om nødvendig er godkjent som sådan av offentlig myndighet i staten hvor de transportbrukere det gjelder, hører hjemme. Departementet kan ved enkeltvedtak eller forskrift fastsette hva som skal forstås med transportbrukerorganisasjon; og«internasjonal megling»: internasjonal tvungen megling som omhandlet i kapittel VI i konvensjonen.
+I loven forstås med
+
+1. «Konvensjonen»: De forente nasjoners konvensjon 6. april 1974 om et regelverk for linjekonferansers virksomhet;
+2. «konvensjonsstat»: en stat som er bundet av konvensjonen;
+3. «EF-stat»: en stat som er medlem av Det europeiske fellesskap;
+4. «OECD-stat»: en stat som er medlem av Organisasjonen for økonomisk samarbeid og utvikling;
+5. «linjekonferanse» eller «konferanse»: to eller flere linjerederier som driver internasjonal linjefart for godsbefordring i en eller flere bestemte ruter innenfor et avgrenset geografisk område, og som driver virksomheten under ensartede eller felles fraktrater og andre omforente vilkår for slik linjefart;
+6. «transportbrukerorganisasjon»: en sammenslutning som fremmer, representerer og ivaretar transportbrukernes interesser, og som om nødvendig er godkjent som sådan av offentlig myndighet i staten hvor de transportbrukere det gjelder, hører hjemme. Departementet kan ved enkeltvedtak eller forskrift fastsette hva som skal forstås med transportbrukerorganisasjon; og
+7. «internasjonal megling»: internasjonal tvungen megling som omhandlet i kapittel VI i konvensjonen.
 
 ## § 3. Virkeområde.
 
@@ -52,7 +66,12 @@ Departementet kan bestemme at en part som hører hjemme i en annen konvensjonsst
 
 ## § 5. Norsk jurisdiksjon. Foreldelse.
 
-Tvist som gjelder anvendelsen av loven med tilhørende forskrifter eller som utspringer av rettsforhold som der er omhandlet, kan reises her i riket når denvedrører en konferanse som betjener norsk utenrikshandel;reises mot en part som har alminnelig verneting her;ifølge avtale skal avgjøres her; ellerfor øvrig har så nær tilknytning til norske forhold at den bør kunne kreves avgjort her.
+Tvist som gjelder anvendelsen av loven med tilhørende forskrifter eller som utspringer av rettsforhold som der er omhandlet, kan reises her i riket når den
+
+1. vedrører en konferanse som betjener norsk utenrikshandel;
+2. reises mot en part som har alminnelig verneting her;
+3. ifølge avtale skal avgjøres her; eller
+4. for øvrig har så nær tilknytning til norske forhold at den bør kunne kreves avgjort her.
 
 En tvist kan likevel avvises dersom den på grunn av sin tilknytning til annen stat eller forholdene ellers er lite egnet for avgjørelse her.
 
@@ -90,7 +109,12 @@ Den som forsettlig eller uaktsomt overtrer forskrifter fastsatt eller vedtak utf
 
 ## § 10. Forholdet til konkurranseloven m.m.
 
-Dersom en linjekonferanse eller noen av dens medlemmer på utilbørlig måte søker å hindre et utenforstående rederi i å konkurrere innenfor konferanseområdet, kan departementetnedlegge forbud mot at medlemmene av konferansen fortsatt driver sin virksomhet etter konferanseavtalen med tilhørende regelverk;bestemme at søknader om medlemskap i konferansen skal avgjøres etter objektive forhold uten urimelig forskjellsbehandling;bestemme at transportbrukernes forpliktelser etter konferansens eksklusivordninger helt eller delvis skal settes til side for et angitt tidsrom; ellernedlegge forbud mot handlemåter som har slik konkurransebegrensning til formål.
+Dersom en linjekonferanse eller noen av dens medlemmer på utilbørlig måte søker å hindre et utenforstående rederi i å konkurrere innenfor konferanseområdet, kan departementet
+
+1. nedlegge forbud mot at medlemmene av konferansen fortsatt driver sin virksomhet etter konferanseavtalen med tilhørende regelverk;
+2. bestemme at søknader om medlemskap i konferansen skal avgjøres etter objektive forhold uten urimelig forskjellsbehandling;
+3. bestemme at transportbrukernes forpliktelser etter konferansens eksklusivordninger helt eller delvis skal settes til side for et angitt tidsrom; eller
+4. nedlegge forbud mot handlemåter som har slik konkurransebegrensning til formål.
 
 Reglene i første ledd gjelder tilsvarende dersom konferansen eller noen av medlemmene ved sin virksomhet hindrer utenforstående rederier i å konkurrere innenfor konferanseområdet om en trafikkdel av betydning, eller på annen måte misbruker sin dominerende markedsstilling. Dette gjelder selv om virksomheten foregår i samsvar med lovgivningen eller vedtak av offentlig myndighet i stat innenfor konferanseområdet.
 

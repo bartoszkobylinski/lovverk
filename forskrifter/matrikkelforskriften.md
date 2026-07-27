@@ -32,7 +32,35 @@ Statens kartverk er sentral matrikkelstyresmakt.
 
 ### § 2. Definisjoner
 
-I forskriften menes med*matrikkelenhet av eldre type*, matrikkelenhet som er tildelt matrikkelnummer etter tidligere regelverk, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) tredje ledd, uten å være grunneiendom, anleggseiendom, eierseksjon, jordsameie eller festegrunn;*registrert eier* av en matrikkelenhet,den eller de som har grunnbokshjemmel som eier til matrikkelenheten, når matrikkelenheten er registrert i grunnboken,den eller de som har grunnbokshjemmel til seksjonene, når matrikkelenheten er seksjonert og eierseksjonssameiet ikke er etablert på festet eiendom,den eller de som har registrert seg som eier av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd, når matrikkelenheten ikke er registrert i grunnboken,samt den eller de som av skattemyndighetene er oppført som eier av matrikkelenheten, når opplysninger om dette er tatt inn i matrikkelen;*registrert fester* av en matrikkelenhet,den eller de som har grunnbokshjemmel som fester til matrikkelenheten, når matrikkelenheten er registrert i grunnboken,den eller de som har grunnbokshjemmel til seksjonene, når matrikkelenheten er seksjonert og eierseksjonssameiet er etablert på festet eiendom,den eller de som har registrert seg som fester av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd, når matrikkelenheten ikke er registrert i grunnboken,samt den eller de som av skattemyndighetene er oppført som fester av matrikkelenheten, når opplysninger om dette er tatt inn i matrikkelen;*offisiell adresse*, den fullstendige adressen for en bygning, bygningsdel, bruksenhet, eiendom eller annet objekt som er registrert med adresse i matrikkelen;*adressenavn*, navn på gate, veg, sti, plass eller område, brukt som del av den offisielle adressen;*adressenummer*, et nummer og en eventuell bokstav som entydig identifiserer eiendommer, anlegg, bygninger eller innganger til bygninger innenfor en adresserbar gate, veg, sti, plass eller område;*bruksenhetsnummer (bolignummer)*, en bokstav og fire siffer som entydig identifiserer den enkelte bruksenheten innenfor en adresserbar bygning eller bygningsdel;*adressetilleggsnavn*, nedarvet bruksnavn, navn på en institusjon eller bygning, grendenavn eller annet stedsnavn, brukt som del av den offisielle adressen;*vegadresse*, adresse i form av et adressenavn og et adressenummer;*matrikkeladresse*, adresse i form av et gårds- og bruksnummer og et eventuelt festenummer, eventuelt også et undernummer;*matrikkeladressenavn*, stedsnavn knyttet til en offisiell adresse som er gitt som en matrikkeladresse som ikke er tildelt adressetilleggsnavn;*umatrikulert grunn*, grunneiendom eller festegrunn som var lovlig opprettet før grunneiendomsdelen av grunneiendoms- adresse- og bygningsregisteret (GAB-registeret) ble satt i kraft i vedkommende kommune og som ikke er tildelt eget matrikkelnummer;*autorisert eiendomslandmåler*, person med gyldig landmålerbrev;*landmåleren*, vedkommende autoriserte eiendomslandmåler som er pekt ut til å bestyre oppmålingsforretningen i samsvar med [matrikkellova § 35](lov/2005-06-17-101/§35) andre ledd;*stedfestingsavtale*, en avtale om eksisterende grense for matrikkelenhet, lokalisering av eksisterende punktfeste, eller stedfesting av stedbunden rettighet som gjelder en del av en matrikkelenhet;*teig*, en lukket mangekant i matrikkelens kartplan med sider som følger grensene der en grunneiendom, en anleggseiendom, en festegrunn, et jordsameie, et uteareal til en eierseksjon eller en matrikkelenhet av eldre type, skjærer jordoverflaten;*anleggsprojeksjonsflate*, projeksjonen av en anleggseiendom i matrikkelens kartplan.
+I forskriften menes med
+
+1. *matrikkelenhet av eldre type*, matrikkelenhet som er tildelt matrikkelnummer etter tidligere regelverk, jf. [matrikkellova § 5](lov/2005-06-17-101/§5) tredje ledd, uten å være grunneiendom, anleggseiendom, eierseksjon, jordsameie eller festegrunn;
+2. *registrert eier* av en matrikkelenhet,
+
+   - den eller de som har grunnbokshjemmel som eier til matrikkelenheten, når matrikkelenheten er registrert i grunnboken,
+   - den eller de som har grunnbokshjemmel til seksjonene, når matrikkelenheten er seksjonert og eierseksjonssameiet ikke er etablert på festet eiendom,
+   - den eller de som har registrert seg som eier av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd, når matrikkelenheten ikke er registrert i grunnboken,
+   - samt den eller de som av skattemyndighetene er oppført som eier av matrikkelenheten, når opplysninger om dette er tatt inn i matrikkelen;
+3. *registrert fester* av en matrikkelenhet,
+
+   - den eller de som har grunnbokshjemmel som fester til matrikkelenheten, når matrikkelenheten er registrert i grunnboken,
+   - den eller de som har grunnbokshjemmel til seksjonene, når matrikkelenheten er seksjonert og eierseksjonssameiet er etablert på festet eiendom,
+   - den eller de som har registrert seg som fester av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd, når matrikkelenheten ikke er registrert i grunnboken,
+   - samt den eller de som av skattemyndighetene er oppført som fester av matrikkelenheten, når opplysninger om dette er tatt inn i matrikkelen;
+4. *offisiell adresse*, den fullstendige adressen for en bygning, bygningsdel, bruksenhet, eiendom eller annet objekt som er registrert med adresse i matrikkelen;
+5. *adressenavn*, navn på gate, veg, sti, plass eller område, brukt som del av den offisielle adressen;
+6. *adressenummer*, et nummer og en eventuell bokstav som entydig identifiserer eiendommer, anlegg, bygninger eller innganger til bygninger innenfor en adresserbar gate, veg, sti, plass eller område;
+7. *bruksenhetsnummer (bolignummer)*, en bokstav og fire siffer som entydig identifiserer den enkelte bruksenheten innenfor en adresserbar bygning eller bygningsdel;
+8. *adressetilleggsnavn*, nedarvet bruksnavn, navn på en institusjon eller bygning, grendenavn eller annet stedsnavn, brukt som del av den offisielle adressen;
+9. *vegadresse*, adresse i form av et adressenavn og et adressenummer;
+10. *matrikkeladresse*, adresse i form av et gårds- og bruksnummer og et eventuelt festenummer, eventuelt også et undernummer;
+11. *matrikkeladressenavn*, stedsnavn knyttet til en offisiell adresse som er gitt som en matrikkeladresse som ikke er tildelt adressetilleggsnavn;
+12. *umatrikulert grunn*, grunneiendom eller festegrunn som var lovlig opprettet før grunneiendomsdelen av grunneiendoms- adresse- og bygningsregisteret (GAB-registeret) ble satt i kraft i vedkommende kommune og som ikke er tildelt eget matrikkelnummer;
+13. *autorisert eiendomslandmåler*, person med gyldig landmålerbrev;
+14. *landmåleren*, vedkommende autoriserte eiendomslandmåler som er pekt ut til å bestyre oppmålingsforretningen i samsvar med [matrikkellova § 35](lov/2005-06-17-101/§35) andre ledd;
+15. *stedfestingsavtale*, en avtale om eksisterende grense for matrikkelenhet, lokalisering av eksisterende punktfeste, eller stedfesting av stedbunden rettighet som gjelder en del av en matrikkelenhet;
+16. *teig*, en lukket mangekant i matrikkelens kartplan med sider som følger grensene der en grunneiendom, en anleggseiendom, en festegrunn, et jordsameie, et uteareal til en eierseksjon eller en matrikkelenhet av eldre type, skjærer jordoverflaten;
+17. *anleggsprojeksjonsflate*, projeksjonen av en anleggseiendom i matrikkelens kartplan.
 
 > Endret ved forskrifter [18 sep 2015 nr. 1060](forskrift/2015-09-18-1060) (i kraft 1 jan 2016), [8 juni 2020 nr. 1163](forskrift/2020-06-08-1163) (i kraft 1 jan 2021), [20 des 2022 nr. 2398](forskrift/2022-12-20-2398) (i kraft 1 juli 2023), [27 juni 2025 nr. 1479](forskrift/2025-06-27-1479) (i kraft 1 aug 2025).
 
@@ -40,7 +68,34 @@ I forskriften menes med*matrikkelenhet av eldre type*, matrikkelenhet som er til
 
 ### § 3. Innhold i matrikkelen
 
-(1) Matrikkelen omfatter opplysninger ommatrikkelenheter, herundermatrikkelnummer, matrikkelenhetstype, samlet fast eiendomnavn, postadresse, og fødsels-, d- eller organisasjonsnummer til registrerte eiere og festere, og hvordan disse opplysningene er hentet innkontaktpersons navn, postadresse, og fødsels-, d- eller organisasjonsnummerareal, grenselinjer og grensepunkt med kvalitetsangivelsehjelpelinjer og hjelpepunktkulturminnerforurensninger i grunnenhistorikk, bl.a. opplysninger om tidligere oppmålingsforretningerreferanser til stedfestingsavtaleravtale eller vedtak om erverv av grunn til offentlig veg eller jernbaneframsatt krav om sak for jordskifterettenbygninger, herunderbygningsnummer, bygningstype, næringsgruppe, bebygd arealantall etasjer og deres bruksareal og bruttoareal, heisbygningsstatus, og bygningshistoriske opplysningerkontaktpersons navn, postadresse, og fødsels-, d- eller organisasjonsnummerbruksenheter i bygning, herunderbruksenhetsnummer, bruksenhetstype, bruksareal og byggeårantall rom, bad, wc, kjøkkentilgangvannforsyning, avløp, energikilder og oppvarmingpålegg som gjelder bruk av grunn eller bygningeradresser til matrikkelenheter, bygninger og bruksenheter, herunder opplysninger om grunnkrets, stemmekrets, kirkesokn, tettsted, postnummer og poststedsnavn.
+(1) Matrikkelen omfatter opplysninger om
+
+1. matrikkelenheter, herunder
+
+   - matrikkelnummer, matrikkelenhetstype, samlet fast eiendom
+   - navn, postadresse, og fødsels-, d- eller organisasjonsnummer til registrerte eiere og festere, og hvordan disse opplysningene er hentet inn
+   - kontaktpersons navn, postadresse, og fødsels-, d- eller organisasjonsnummer
+   - areal, grenselinjer og grensepunkt med kvalitetsangivelse
+   - hjelpelinjer og hjelpepunkt
+   - kulturminner
+   - forurensninger i grunnen
+   - historikk, bl.a. opplysninger om tidligere oppmålingsforretninger
+   - referanser til stedfestingsavtaler
+   - avtale eller vedtak om erverv av grunn til offentlig veg eller jernbane
+   - framsatt krav om sak for jordskifteretten
+2. bygninger, herunder
+
+   - bygningsnummer, bygningstype, næringsgruppe, bebygd areal
+   - antall etasjer og deres bruksareal og bruttoareal, heis
+   - bygningsstatus, og bygningshistoriske opplysninger
+   - kontaktpersons navn, postadresse, og fødsels-, d- eller organisasjonsnummer
+3. bruksenheter i bygning, herunder
+
+   - bruksenhetsnummer, bruksenhetstype, bruksareal og byggeår
+   - antall rom, bad, wc, kjøkkentilgang
+   - vannforsyning, avløp, energikilder og oppvarming
+4. pålegg som gjelder bruk av grunn eller bygninger
+5. adresser til matrikkelenheter, bygninger og bruksenheter, herunder opplysninger om grunnkrets, stemmekrets, kirkesokn, tettsted, postnummer og poststedsnavn.
 
 (2) Matrikkelen skal videre omfatte stedfesting av opplysningene med koordinater, arkivreferanser og opplysninger om sammenheng mellom matrikkelenheter, adresser og bygninger. Matrikkelen skal også inneholde opplysninger som identifiserer den som har endret eller egenregistrert opplysninger i matrikkelen, og grunnlaget for føringen, herunder tidspunktet for føringen.
 
@@ -120,11 +175,21 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 (1) Kommunen skal utstede matrikkelbrev ved opprettelse av ny matrikkelenhet, sammenslåing, endring av festegrunn eller eierseksjon og arealoverføring i samsvar med [matrikkellova § 24](lov/2005-06-17-101/§24) tredje ledd første punktum.
 
-(2) Kommunen skal også utstede matrikkelbrev i sak som gjeldergrunn til offentlig veg- eller jernbanematrikulering av umatrikulert grunneiendom eller umatrikulert festegrunnregistrering av jordsameie eller endring i sameiefordelingen for registrert jordsameiegrensejusteringklarlegging av eksisterende grense m.m. etter [matrikkellova § 17](lov/2005-06-17-101/§17) med de unntak som framgår av forskriften her [§ 36](forskrift/2009-06-26-864/§36) tredje ledd.
+(2) Kommunen skal også utstede matrikkelbrev i sak som gjelder
+
+1. grunn til offentlig veg- eller jernbane
+2. matrikulering av umatrikulert grunneiendom eller umatrikulert festegrunn
+3. registrering av jordsameie eller endring i sameiefordelingen for registrert jordsameie
+4. grensejustering
+5. klarlegging av eksisterende grense m.m. etter [matrikkellova § 17](lov/2005-06-17-101/§17) med de unntak som framgår av forskriften her [§ 36](forskrift/2009-06-26-864/§36) tredje ledd.
 
 (3) Kommunen skal sende matrikkelbrevet til den som har rekvirert oppmålingsforretningen. I sak som gjelder seksjonering eller reseksjonering, som ikke krever oppmålingsforretning, skal kommunen sende matrikkelbrevet til den som har begjært seksjonering eller reseksjonering. I sak som gjelder sammenslåing, skal kommunen sende matrikkelbrevet til den som har krevd sammenslåing.
 
-(4) Kommunen skal utstede matrikkelbrev når dette kreves avnoen som har gjort det sannsynlig at de eier eller fester, alene eller sammen med andre, vedkommende matrikkelenhetstaten, fylkeskommunen eller kommunenandre som er nevnt i [matrikkellova § 9](lov/2005-06-17-101/§9), jf. [matrikkellova § 29](lov/2005-06-17-101/§29) andre ledd.
+(4) Kommunen skal utstede matrikkelbrev når dette kreves av
+
+1. noen som har gjort det sannsynlig at de eier eller fester, alene eller sammen med andre, vedkommende matrikkelenhet
+2. staten, fylkeskommunen eller kommunen
+3. andre som er nevnt i [matrikkellova § 9](lov/2005-06-17-101/§9), jf. [matrikkellova § 29](lov/2005-06-17-101/§29) andre ledd.
 
 (5) Matrikkelbrev skal være datert og vise hva som er registrert om enheten på vedkommende tidspunkt. Matrikkelbrev omfatter ikke opplysninger lagret i kommunal tilleggsdel av matrikkelen. Matrikkelbrev skal sendes med elektronisk kommunikasjon dersom mottakeren har bedt om dette. Slikt brev trenger ikke egen signering dersom oversendelsen følger kravene til elektronisk kommunikasjon og arkivering. Matrikkelbrev skal ellers være skriftlig og attestert med underskrift eller stempel av kommunen, og følge et standardisert oppsett godkjent av Statens kartverk.
 
@@ -148,7 +213,13 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 (4) Sletting av anleggseiendom knyttet til planlagt tiltak når tillatelsen til tiltaket er gyldig, kan bare skje på begjæring av den som har grunnbokshjemmel som eier.
 
-(5) Sletting av eierseksjon kan skje etter:kommunalt vedtak om reseksjonering ved sammenslåing av eierseksjoner etter [eierseksjonsloven § 20](lov/2017-06-16-65/§20) og [§ 21](lov/2017-06-16-65/§21) første leddkommunalt vedtak om sletting av et eierseksjonssameie etter [eierseksjonsloven § 22](lov/2017-06-16-65/§22) andre ledd, jf. [matrikkellova § 26](lov/2005-06-17-101/§26) andre leddbegjæring fra sameierne om oppløsning av et eierseksjonssameie.Ved sletting etter første punktum bokstav a og c må det legges fram samtykke fra eventuelle panthavere.
+(5) Sletting av eierseksjon kan skje etter:
+
+1. kommunalt vedtak om reseksjonering ved sammenslåing av eierseksjoner etter [eierseksjonsloven § 20](lov/2017-06-16-65/§20) og [§ 21](lov/2017-06-16-65/§21) første ledd
+2. kommunalt vedtak om sletting av et eierseksjonssameie etter [eierseksjonsloven § 22](lov/2017-06-16-65/§22) andre ledd, jf. [matrikkellova § 26](lov/2005-06-17-101/§26) andre ledd
+3. begjæring fra sameierne om oppløsning av et eierseksjonssameie.
+
+Ved sletting etter første punktum bokstav a og c må det legges fram samtykke fra eventuelle panthavere.
 
 (6) Kommunen kan legge til, endre eller forenkle opplysninger om hjelpelinjer og hjelpepunkt når dette er mer dekkende for matrikkelenhetens antatte beliggenhet og naboforhold.
 
@@ -158,7 +229,11 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 ### § 10a. Omregistrering
 
-(1) Eksisterende matrikkelenhet som er gitt offisiell betegnelse før iverksettingen av matrikkellova, og som ved etableringen av matrikkelen ble registrert med feil matrikkelenhetstype, kan registreres som henholdsvisgrunneiendomjordsameiematrikkelenhet av eldre type.
+(1) Eksisterende matrikkelenhet som er gitt offisiell betegnelse før iverksettingen av matrikkellova, og som ved etableringen av matrikkelen ble registrert med feil matrikkelenhetstype, kan registreres som henholdsvis
+
+1. grunneiendom
+2. jordsameie
+3. matrikkelenhet av eldre type.
 
 (2) Kommunen skal varsle registrerte eiere og festere av matrikkelenheten med frist på minst tre uker for eventuelle merknader før omregistreringen.
 
@@ -168,7 +243,10 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 ### § 10b. Føring av opplysninger om eksisterende matrikkelenhet fra eldre dokumenter
 
-(1) Kommunen kan føre inn opplysninger om eksisterende grenser og teiger basert på opplysninger fra målebrev, jordskiftekart eller liknende offentlige dokumenter som redegjør for grensen på en etterrettelig måte, så lengedet ikke er referert noen avtale om grensen etter [matrikkellova § 19](lov/2005-06-17-101/§19)det ikke allerede er matrikkelført en oppmålingsforretning eller tilsvarende forretning om grensen.
+(1) Kommunen kan føre inn opplysninger om eksisterende grenser og teiger basert på opplysninger fra målebrev, jordskiftekart eller liknende offentlige dokumenter som redegjør for grensen på en etterrettelig måte, så lenge
+
+1. det ikke er referert noen avtale om grensen etter [matrikkellova § 19](lov/2005-06-17-101/§19)
+2. det ikke allerede er matrikkelført en oppmålingsforretning eller tilsvarende forretning om grensen.
 
 (2) Føringen kan bare gjelde matrikkelførte enheter og kan ikke innebære en reell endring av grenser eller punktfeste.
 
@@ -250,7 +328,12 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 (1) Gebyr for arbeid etter matrikkellova skal betales etter regler og satser som gjelder den dagen saken blir fremmet for kommunen. Kommunen kan i tillegg kreve dekket nødvendige tinglysingsgebyr og eventuell dokumentavgift.
 
-(2) Kommunen skal ikke kreve gebyr forsammenslåing av eksisterende matrikkelenheterfastsetting av samlet fast eiendomfastsetting av adresseføring av opplysninger i matrikkelen i andre saker uten oppmålingsforretning med unntak av saker etter [matrikkellova § 19](lov/2005-06-17-101/§19).
+(2) Kommunen skal ikke kreve gebyr for
+
+1. sammenslåing av eksisterende matrikkelenheter
+2. fastsetting av samlet fast eiendom
+3. fastsetting av adresse
+4. føring av opplysninger i matrikkelen i andre saker uten oppmålingsforretning med unntak av saker etter [matrikkellova § 19](lov/2005-06-17-101/§19).
 
 (3) Kommunen skal heller ikke kreve gebyr etter matrikkellova for opprettelse eller endring av eierseksjon. Kommunen kan likevel ta gebyr for oppmålingsforretning ved opprettelse av eierseksjon som omfatter uteareal, eller ved nytt eller endret uteareal til eksisterende eierseksjon, jf. [eierseksjonsloven § 15](lov/2017-06-16-65/§15) første ledd.
 
@@ -288,7 +371,14 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 ### § 19. Frister i saker som ikke krever oppmålingsforretning
 
-(1) Kommunen skal behandle og eventuelt matrikkelføre følgende krav om matrikkelføring innen seks uker:sammenslåing av eksisterende matrikkelenheter,referanse til stedfestingsavtale når slikt krav ikke fremmes i forbindelse med oppmålingsforretning,fastsetting av samlet fast eiendom,gjennomført sak for jordskifteretten og andre rettsinstanser.Det samme gjelder krav om retting, endring eller tilføying av opplysninger i matrikkelen mv. som ikke krever oppmålingsforretning.
+(1) Kommunen skal behandle og eventuelt matrikkelføre følgende krav om matrikkelføring innen seks uker:
+
+1. sammenslåing av eksisterende matrikkelenheter,
+2. referanse til stedfestingsavtale når slikt krav ikke fremmes i forbindelse med oppmålingsforretning,
+3. fastsetting av samlet fast eiendom,
+4. gjennomført sak for jordskifteretten og andre rettsinstanser.
+
+Det samme gjelder krav om retting, endring eller tilføying av opplysninger i matrikkelen mv. som ikke krever oppmålingsforretning.
 
 (2) Krav fra jordskifteretten om opprettelse, sammenslåing eller sletting av matrikkelenhet mens sak for jordskifteretten pågår, skal matrikkelføres innen to uker. Det samme gjelder krav fra jordskifteretten om arealoverføring, endring av festegrunn, matrikulering av umatrikulert grunn og registrering av uregistrert jordsameie og endring i sameiefordelingen for registrert jordsameie.
 
@@ -302,7 +392,11 @@ Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om 
 
 ### § 20. Klageorgan
 
-(1) Statsforvalteren er klageorgan forkommunale enkeltvedtak etter matrikkellova og andre kommunale avgjørelser som kan påklages med hjemmel i [matrikkellova § 46](lov/2005-06-17-101/§46)avgjørelser fattet av Statens kartverk etter [§ 4](forskrift/2009-06-26-864/§4) fjerde og femte ledd i forskriften heravgjørelser som kan påklages med hjemmel i [matrikkellova § 46](lov/2005-06-17-101/§46), fattet av Statens kartverk på grunnlag av statsforvalterens avgjørelse etter [§ 26](forskrift/2009-06-26-864/§26) tredje ledd i forskriften her.
+(1) Statsforvalteren er klageorgan for
+
+1. kommunale enkeltvedtak etter matrikkellova og andre kommunale avgjørelser som kan påklages med hjemmel i [matrikkellova § 46](lov/2005-06-17-101/§46)
+2. avgjørelser fattet av Statens kartverk etter [§ 4](forskrift/2009-06-26-864/§4) fjerde og femte ledd i forskriften her
+3. avgjørelser som kan påklages med hjemmel i [matrikkellova § 46](lov/2005-06-17-101/§46), fattet av Statens kartverk på grunnlag av statsforvalterens avgjørelse etter [§ 26](forskrift/2009-06-26-864/§26) tredje ledd i forskriften her.
 
 (2) Departementet er klageorgan for vedtak om tildeling og tilbaketrekking av landmålerbrev, jf. [matrikkellova § 46](lov/2005-06-17-101/§46) første ledd bokstav m.
 
@@ -316,9 +410,16 @@ Klagefristen løper fra det tidspunktet parten har mottatt underretning om avgj�
 
 ### § 22. Supplerende regler om klage m.m.
 
-(1) I tillegg til saker som nevnt i [matrikkellova § 46](lov/2005-06-17-101/§46) kan det også klages etter forvaltningsloven VI over avgjørelser omomregistrering etter [§ 10a](forskrift/2009-06-26-864/§10a) i forskriften herføring av opplysninger om eksisterende matrikkelenhet fra eldre dokumenter etter [§ 10b](forskrift/2009-06-26-864/§10b) i forskriften her.
+(1) I tillegg til saker som nevnt i [matrikkellova § 46](lov/2005-06-17-101/§46) kan det også klages etter forvaltningsloven VI over avgjørelser om
 
-(2) Ved klage over tildeling eller endring av offisiell adresse er klageretten begrenset tilhvilken gate, veg eller liknende som en bygning eller eiendom skal ha adresse tilhvilket adressetilleggsnavn eller matrikkeladressenavn som er tildelt adressenfeil ved tildelingen av adressenummer eller bruksenhetsnummer.
+1. omregistrering etter [§ 10a](forskrift/2009-06-26-864/§10a) i forskriften her
+2. føring av opplysninger om eksisterende matrikkelenhet fra eldre dokumenter etter [§ 10b](forskrift/2009-06-26-864/§10b) i forskriften her.
+
+(2) Ved klage over tildeling eller endring av offisiell adresse er klageretten begrenset til
+
+1. hvilken gate, veg eller liknende som en bygning eller eiendom skal ha adresse til
+2. hvilket adressetilleggsnavn eller matrikkeladressenavn som er tildelt adressen
+3. feil ved tildelingen av adressenummer eller bruksenhetsnummer.
 
 (3) En klage eller omgjøring som gjelder føring av ny grense, jf. matrikkellova 33 tredje ledd, skal behandles etter reglene om fastsetting av ny grense selv om dette gjør at fristen på to år etter [§ 25](forskrift/2009-06-26-864/§25) fjerde ledd i forskriften her blir overskredet. Blir klagen framsatt eller omgjøringsavgjørelsen fattet mer enn ett år etter at matrikkelbrevet er utstedt, skal saken behandles etter reglene om klarlegging av eksisterende grense.
 
@@ -342,7 +443,14 @@ Klagefristen løper fra det tidspunktet parten har mottatt underretning om avgj�
 
 (3) Ved begjæring om seksjonering der eierseksjoner skal ha uteareal, eller reseksjonering som endrer uteareal tilhørende eierseksjoner, skal det ligge ved rekvisisjon av oppmålingsforretning over utearealet.
 
-(4) En rekvisisjon av oppmålingsforretning skal ha en form som er godkjent av Statens kartverk. Rekvisisjonen skal være underskrevet av rekvirenten, og gi opplysninger omhva som blir rekvirerthjemmelsgrunnlaget for kravet om matrikuleringmatrikkelnummeret til matrikkelenheten forretningen gjelderberørt areal og berørte grenser og naboenheter vist på kart med tilstrekkelig klarhet og nøyaktighetreferanser til offentlige tillatelser og vedtak som må foreligge for at forretningen skal kunne matrikkelføresannen dokumentasjon som kommunen trenger for å gjennomføre og matrikkelføre forretningen.
+(4) En rekvisisjon av oppmålingsforretning skal ha en form som er godkjent av Statens kartverk. Rekvisisjonen skal være underskrevet av rekvirenten, og gi opplysninger om
+
+1. hva som blir rekvirert
+2. hjemmelsgrunnlaget for kravet om matrikulering
+3. matrikkelnummeret til matrikkelenheten forretningen gjelder
+4. berørt areal og berørte grenser og naboenheter vist på kart med tilstrekkelig klarhet og nøyaktighet
+5. referanser til offentlige tillatelser og vedtak som må foreligge for at forretningen skal kunne matrikkelføres
+6. annen dokumentasjon som kommunen trenger for å gjennomføre og matrikkelføre forretningen.
 
 (5) Ved matrikulering av umatrikulert grunn skal rekvisisjonen også omfatte dokumentasjon som bekrefter eiendomsretten eller festeretten. Ved krav om matrikulering etter [matrikkellova § 9](lov/2005-06-17-101/§9) første ledd bokstav b til h skal rekvisisjonen også omfatte dokumentasjon som bekrefter grunnlaget for kravet.
 
@@ -394,9 +502,24 @@ Rekvirenten kan trekke rekvisisjonen fram til oppmålingsforretning er avsluttet
 
 ### § 27. Dokumentasjon og felles vilkår for matrikkelføring i saker som krever oppmålingsforretning
 
-(1) Ved matrikkelføring av sak som krever oppmålingsforretning, skal kommunen kontrollere at alle nødvendige offentlige tillatelser, andre vedtak og annen nødvendig dokumentasjon foreligger, herunderprotokoll for gjennomføring av forretningen, med et innhold som oppfyller vilkårene i [§ 38](forskrift/2009-06-26-864/§38)redegjørelse for eventuelle tilpasninger eller mindre avvik fra offentlige tillatelser eller andre vedtak som ligger til grunn for oppmålingsforretningenhvilke matrikkelenheter en ny matrikkelenhet opprettes fra eller påerklæring fra landmåleren om at matrikkelen og grunnboken og andre dokumenter som er lagt fram under forretningen, er undersøkt for de berørte arealene når det gjelder grenser, bruksretter og servitutterat partene er informert om hvorvidt landmåleren eller andre som har utført arbeid med oppmålingsforretningen, er personlig eller økonomisk knyttet til noen av partenekart og koordinater over grenser og grensemerker for den matrikkelenhet eller grensestrekning som saken gjelder, måledata, beregninger og andre opplysninger som kreves for føring av matrikkelenhvilke grenser som er nye eller endret, og hvilke eksisterende grenser som inngår i forretningen uten endringerklæring fra landmåleren om at oppmålingsforretningen er utført i samsvar med god landmålerskikk, og at oppgaver utført på landmålerens vegne er kontrollert og funnet i orden.
+(1) Ved matrikkelføring av sak som krever oppmålingsforretning, skal kommunen kontrollere at alle nødvendige offentlige tillatelser, andre vedtak og annen nødvendig dokumentasjon foreligger, herunder
 
-(2) Kommunen skal også kontrollere omrekvirenten på tidspunktet for matrikkelføringen fortsatt har hjemmel til å rekvirere oppmålingsforretning eller til å kreve matrikkelføringdet foreligger fullmakt fra part som er representert ved fullmektig, og om det går fram at fullmektigen på vegne av parten kan ta stilling til de forholdene som kreves matrikkelførtdet foreligger dokumenter som er nødvendig for å oppfylle vilkår fastsatt i kommunale tillatelser eller andre vedtakdet foreligger dokumenter vedrørende rettigheter som partene ønsker tinglyst samtidig med matrikkelføringendet foreligger en begrunnelse som oppfyller vilkårene for eventuelt ikke å merke eller måle alle grensene.
+1. protokoll for gjennomføring av forretningen, med et innhold som oppfyller vilkårene i [§ 38](forskrift/2009-06-26-864/§38)
+2. redegjørelse for eventuelle tilpasninger eller mindre avvik fra offentlige tillatelser eller andre vedtak som ligger til grunn for oppmålingsforretningen
+3. hvilke matrikkelenheter en ny matrikkelenhet opprettes fra eller på
+4. erklæring fra landmåleren om at matrikkelen og grunnboken og andre dokumenter som er lagt fram under forretningen, er undersøkt for de berørte arealene når det gjelder grenser, bruksretter og servitutter
+5. at partene er informert om hvorvidt landmåleren eller andre som har utført arbeid med oppmålingsforretningen, er personlig eller økonomisk knyttet til noen av partene
+6. kart og koordinater over grenser og grensemerker for den matrikkelenhet eller grensestrekning som saken gjelder, måledata, beregninger og andre opplysninger som kreves for føring av matrikkelen
+7. hvilke grenser som er nye eller endret, og hvilke eksisterende grenser som inngår i forretningen uten endring
+8. erklæring fra landmåleren om at oppmålingsforretningen er utført i samsvar med god landmålerskikk, og at oppgaver utført på landmålerens vegne er kontrollert og funnet i orden.
+
+(2) Kommunen skal også kontrollere om
+
+1. rekvirenten på tidspunktet for matrikkelføringen fortsatt har hjemmel til å rekvirere oppmålingsforretning eller til å kreve matrikkelføring
+2. det foreligger fullmakt fra part som er representert ved fullmektig, og om det går fram at fullmektigen på vegne av parten kan ta stilling til de forholdene som kreves matrikkelført
+3. det foreligger dokumenter som er nødvendig for å oppfylle vilkår fastsatt i kommunale tillatelser eller andre vedtak
+4. det foreligger dokumenter vedrørende rettigheter som partene ønsker tinglyst samtidig med matrikkelføringen
+5. det foreligger en begrunnelse som oppfyller vilkårene for eventuelt ikke å merke eller måle alle grensene.
 
 (3) Stedfestingsavtaler som gjelder stedbundne rettigheter, kan refereres i matrikkelen etter reglene i [§ 44](forskrift/2009-06-26-864/§44) som ledd i matrikkelføringen av en oppmålingsforretning. Rekvirenten må angi hvilke stedfestingsavtaler som blir krevd referert på denne måten. Dersom begjæringen gjelder rettigheter som forutsettes tinglyst sammen med forretningen, skal kommunen behandle kravet om å referere vedkommende stedfestingsavtale når kommunen får saken tilbake fra tinglysingsmyndigheten.
 
@@ -426,7 +549,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 (4) Festegrunn kan ikke inngå som del av anleggseiendom.
 
-(5) Anleggseiendom kan ikke opprettes på en slik måte atdet dannes anleggseiendom som består av flere separate volum ellerdel av grunneiendom som overlappes av anleggseiendommens anleggsprojeksjonsflate, ikke kan nyttes som grunneiendom på en hensiktsmessig måte.
+(5) Anleggseiendom kan ikke opprettes på en slik måte at
+
+1. det dannes anleggseiendom som består av flere separate volum eller
+2. del av grunneiendom som overlappes av anleggseiendommens anleggsprojeksjonsflate, ikke kan nyttes som grunneiendom på en hensiktsmessig måte.
 
 (6) Innretninger som kan registreres i petroleumsregisteret eller i akvakulturregisteret, kan ikke etableres som anleggseiendom.
 
@@ -434,7 +560,12 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 30. Unntak fra kravet om matrikulering av grunn som kan festes bort
 
-(1) Et dokument om forpakting eller annen leie av grunn kan tinglyses uten at grunnen blir matrikulert som egen matrikkelenhet, når forholdet ikke er i strid med [jordlova § 12](lov/1995-05-12-23/§12) om deling av eiendom som benyttes eller kan benyttes til jord- eller skogbruk, og ett av følgende vilkår er oppfylt:Bruksretten gir ikke rett til eksklusiv bruk av et bestemt areal.Arealet er mindre enn 12m2 .Bruksretten gjelder anlegg av ledninger over eller under bakken.Bruksretten er ikke til hinder for at bruken av retten kan flyttes til et annet sted på matrikkelenheten, og slik flytting kan skje uten ulempe for leier, bortleier eller panthaver.
+(1) Et dokument om forpakting eller annen leie av grunn kan tinglyses uten at grunnen blir matrikulert som egen matrikkelenhet, når forholdet ikke er i strid med [jordlova § 12](lov/1995-05-12-23/§12) om deling av eiendom som benyttes eller kan benyttes til jord- eller skogbruk, og ett av følgende vilkår er oppfylt:
+
+1. Bruksretten gir ikke rett til eksklusiv bruk av et bestemt areal.
+2. Arealet er mindre enn 12m2 .
+3. Bruksretten gjelder anlegg av ledninger over eller under bakken.
+4. Bruksretten er ikke til hinder for at bruken av retten kan flyttes til et annet sted på matrikkelenheten, og slik flytting kan skje uten ulempe for leier, bortleier eller panthaver.
 
 (2) Tinglysingsmyndigheten kan likevel bestemme at forholdet ikke kan tinglyses før grunnen er matrikulert som egen matrikkelenhet.
 
@@ -452,7 +583,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 32. Registrering av jordsameie
 
-(1) Ved registrering av uregistrert jordsameie skal dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) også omfatte en erklæring omhvilke grunneiendommer som har andel i jordsameiet, og størrelsen på andelenehvorvidt noen har motsatt seg at jordsameiet registreres.
+(1) Ved registrering av uregistrert jordsameie skal dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) også omfatte en erklæring om
+
+1. hvilke grunneiendommer som har andel i jordsameiet, og størrelsen på andelene
+2. hvorvidt noen har motsatt seg at jordsameiet registreres.
 
 (2) Ved registrering av uregistrert jordsameie skal det være sannsynliggjort at arealet som skal registreres, faller innenfor definisjonen av jordsameie gitt i matrikkellova.
 
@@ -470,7 +604,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 (4) Fra en seksjonert grunneiendom eller anleggseiendom kan det bare overføres areal eller volum som er registrert som fellesareal.
 
-(5) Arealoverføring kan gjennomføres i samsvar med [matrikkellova § 9](lov/2005-06-17-101/§9) første ledd bokstav f også når arealet overføres fraet jordsameie som ikke er registrert i matrikkelen eller i grunnbokenet område med flere matrikkelenheter hvor grensene mellom enhetene ikke er kjent. Arealet som overføres fra hver enhet, kan angis som en brøkdel av samlet overført areal.
+(5) Arealoverføring kan gjennomføres i samsvar med [matrikkellova § 9](lov/2005-06-17-101/§9) første ledd bokstav f også når arealet overføres fra
+
+1. et jordsameie som ikke er registrert i matrikkelen eller i grunnboken
+2. et område med flere matrikkelenheter hvor grensene mellom enhetene ikke er kjent. Arealet som overføres fra hver enhet, kan angis som en brøkdel av samlet overført areal.
 
 (6) Ved arealoverføring skal dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) også omfatte en erklæring om eiendomsoverdragelse av det areal som overføres samt erklæringer fra eventuelle panthavere om pantefrafall. Når den eller de som har grunnbokshjemmel som eier, er den samme for begge matrikkelenhetene, skal det ikke foreligge erklæring om eiendomsoverdragelse.
 
@@ -492,13 +629,20 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 (1) Ved endring av festegrunn kan grunn tilføres eller fratrekkes festegrunnen, slik at den blir en større eller mindre del av vedkommende grunneiendom eller jordsameie. Grunn som tilføres eller fratrekkes, kan ikke omfatte uteareal til eierseksjon. Dersom endringen ikke overskrider skrankene for grensejustering, kan den regnes som grensejustering og behandles etter bestemmelsene om dette.
 
-(2) Som endring av festegrunn regnes ogsåoverføring av areal mellom to festegrunner som begge er del av samme grunneiendom eller jordsameiesplitting av festegrunn i to festegrunner når grunneiendommen eller jordsameiet som festegrunnen er en del av, ikke samtidig tilføres eller fratrekkes areal, og saken ikke gjelder punktfeste eller omfatter grensejusteringeromgjøring av punktfeste til festegrunn med bestemte grenser. Grensene skal merkes og måles i samsvar med [matrikkellova § 34](lov/2005-06-17-101/§34) første ledd og [§ 41](forskrift/2009-06-26-864/§41) i forskriften her.
+(2) Som endring av festegrunn regnes også
+
+1. overføring av areal mellom to festegrunner som begge er del av samme grunneiendom eller jordsameie
+2. splitting av festegrunn i to festegrunner når grunneiendommen eller jordsameiet som festegrunnen er en del av, ikke samtidig tilføres eller fratrekkes areal, og saken ikke gjelder punktfeste eller omfatter grensejusteringer
+3. omgjøring av punktfeste til festegrunn med bestemte grenser. Grensene skal merkes og måles i samsvar med [matrikkellova § 34](lov/2005-06-17-101/§34) første ledd og [§ 41](forskrift/2009-06-26-864/§41) i forskriften her.
 
 (3) Dersom partene ønsker det, er det tilstrekkelig å vise eksisterende grense på kart.
 
 (4) Krever endringen samtykke etter [jordlova § 12](lov/1995-05-12-23/§12), konsesjon etter konsesjonsloven eller egenerklæring om konsesjonsfrihet, må dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) i forskriften her også omfatte nødvendig samtykke, konsesjon eller egenerklæring.
 
-(5) Dersom festegrunnen er festet bort, skal dokumentasjonen også omfatte samtykke fra dem som har grunnbokshjemmel som fester. Er festegrunnen seksjonert, må det foreligge samtykke fra dem som har grunnbokshjemlene til seksjonene. For festegrunner som ikke innført i grunnboken, må det foreligge samtykke fra dem som har registrert seg i matrikkelen som fester av festegrunnen etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd. Når flere fester matrikkelenheten i fellesskap, gjelder [§ 23 andre ledd](forskrift/2009-06-26-864/§23/ledd/2) tilsvarende. Samtykke er ikke nødvendig når rekvirenten har lovlig rett til grunnen etter [matrikkellova § 9 første ledd bokstav f](lov/2005-06-17-101/§9/ledd/1/bokstav/f). Dersom festegrunn som er festet bort, får redusert deler av arealet, må det også foreligge dokumentasjon for at pantefrafall og avlysing av stedbundne rettigheter ikke er nødvendig, eller erklæring ompantefrafall fra den som har tinglyst pant i festerettenavlysing av stedbunden rettighet i det aktuelle arealet fra den som har tinglyst slik rettighet i festeretten.
+(5) Dersom festegrunnen er festet bort, skal dokumentasjonen også omfatte samtykke fra dem som har grunnbokshjemmel som fester. Er festegrunnen seksjonert, må det foreligge samtykke fra dem som har grunnbokshjemlene til seksjonene. For festegrunner som ikke innført i grunnboken, må det foreligge samtykke fra dem som har registrert seg i matrikkelen som fester av festegrunnen etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd. Når flere fester matrikkelenheten i fellesskap, gjelder [§ 23 andre ledd](forskrift/2009-06-26-864/§23/ledd/2) tilsvarende. Samtykke er ikke nødvendig når rekvirenten har lovlig rett til grunnen etter [matrikkellova § 9 første ledd bokstav f](lov/2005-06-17-101/§9/ledd/1/bokstav/f). Dersom festegrunn som er festet bort, får redusert deler av arealet, må det også foreligge dokumentasjon for at pantefrafall og avlysing av stedbundne rettigheter ikke er nødvendig, eller erklæring om
+
+1. pantefrafall fra den som har tinglyst pant i festeretten
+2. avlysing av stedbunden rettighet i det aktuelle arealet fra den som har tinglyst slik rettighet i festeretten.
 
 (6) Tinglysingsmyndigheten skal motta dokumenter for endringen og alle nødvendige tilleggsdokumenter i en samlet forsendelse. Ved tinglysing av splitting av festegrunn skal alle heftelser i bestående festegrunn overføres til de nye festegrunnene.
 
@@ -508,7 +652,11 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 34. Grensejustering
 
-(1) Ved grensejusteringer skal dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) også omfattearealregnskap for involverte matrikkelenheter og overførte arealer, og eventuelt tidligere grensejusteringerdokument fra kommunen som viser at grensejusteringen ikke fører til deling i strid med [jordlova § 12](lov/1995-05-12-23/§12)verdianslag for involverte matrikkelenheter.
+(1) Ved grensejusteringer skal dokumentasjonen nevnt i [§ 27](forskrift/2009-06-26-864/§27) også omfatte
+
+1. arealregnskap for involverte matrikkelenheter og overførte arealer, og eventuelt tidligere grensejusteringer
+2. dokument fra kommunen som viser at grensejusteringen ikke fører til deling i strid med [jordlova § 12](lov/1995-05-12-23/§12)
+3. verdianslag for involverte matrikkelenheter.
 
 (2) En grensejustering skal gjelde eksisterende felles grense. Grensejusteringer kan utføres mellom grunneiendommer, anleggseiendommer, uteareal til eierseksjoner, jordsameie og festegrunn som ikke er punktfeste. En grensejustering kan også gjelde grenser for en matrikkelenhet av eldre type. En grensejustering kan ikke endre en matrikkelenhet på en måte som gjør at enheten ikke oppfyller kravene som gjelder vedkommende matrikkelenhetstype.
 
@@ -532,7 +680,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 36. Klarlegging av eksisterende grense, punktfeste og stedbunden rettighet
 
-(1) I tillegg til de som er nevnt i [matrikkellova § 17](lov/2005-06-17-101/§17) første ledd, kan følgende kreve at klarlegging av eksisterende grense, punktfeste eller stedbunden rettighet kan holdes som en egen oppmålingsforretning:de som kan sannsynliggjøre at de eier, fester eller har stedbundne rettigheter i fast eiendom som berøres av vedkommende grense, punktfeste eller rettighettingretten, namsmannen eller medhjelper ved tvangssalg.
+(1) I tillegg til de som er nevnt i [matrikkellova § 17](lov/2005-06-17-101/§17) første ledd, kan følgende kreve at klarlegging av eksisterende grense, punktfeste eller stedbunden rettighet kan holdes som en egen oppmålingsforretning:
+
+1. de som kan sannsynliggjøre at de eier, fester eller har stedbundne rettigheter i fast eiendom som berøres av vedkommende grense, punktfeste eller rettighet
+2. tingretten, namsmannen eller medhjelper ved tvangssalg.
 
 (2) Kommunen kan kreve at den som får klarlagt eksisterende grense, punktfeste eller stedbunden rettighet, eller vedkommendes representant under oppmålingsforretningen, kvitterer for klarleggingen.
 
@@ -546,7 +697,13 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 37. Varsel om oppmålingsforretning
 
-(1) Varsel om oppmålingsforretning skal sendes tilrekvirentenregistrerte eiere og festere av matrikkelenhetene som forretningen gjelder og tilstøtende matrikkelenheter. Dersom forretningen berører uteareal til eierseksjon, skal varselet sendes både til registrerte eiere og festere av eierseksjonssameiet og registrerte eiere av berørte seksjonerregistrerte eiere og festere av matrikkelenheter på motsatt side av veg, dersom grenseforløpet, kombinert med en bestemt vegbredde fastlagt av kommunen, får betydning for matrikkelenhetenden som har godtgjort å være eier eller fester av berørt grunnden som står oppført som rettighetshaver til stedbunden rettighet i grunnboken, dersom rettigheten berøres av endrede grenser i oppmålingsforretningen, eller den som har godgjort å ha slik rettighet.
+(1) Varsel om oppmålingsforretning skal sendes til
+
+1. rekvirenten
+2. registrerte eiere og festere av matrikkelenhetene som forretningen gjelder og tilstøtende matrikkelenheter. Dersom forretningen berører uteareal til eierseksjon, skal varselet sendes både til registrerte eiere og festere av eierseksjonssameiet og registrerte eiere av berørte seksjoner
+3. registrerte eiere og festere av matrikkelenheter på motsatt side av veg, dersom grenseforløpet, kombinert med en bestemt vegbredde fastlagt av kommunen, får betydning for matrikkelenheten
+4. den som har godtgjort å være eier eller fester av berørt grunn
+5. den som står oppført som rettighetshaver til stedbunden rettighet i grunnboken, dersom rettigheten berøres av endrede grenser i oppmålingsforretningen, eller den som har godgjort å ha slik rettighet.
 
 (2) Ved opprettelse av anleggseiendom i eierløs undergrunn eller luftrom skal registrerte eiere og festere av matrikkelenheter som ligger nærmere enn 20 meter fra anlegget, varsles. Ved opprettelse av anleggseiendom i eierløst område i sjø skal registrerte eiere og festere av matrikkelenheter som ligger nærmere enn 250 meter fra anlegget, varsles. Varslet skal i tillegg kunngjøres i minst to aviser alminnelig lest på stedet.
 
@@ -554,9 +711,21 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 (4) Varselet skal gis på dokumenterbar måte senest to uker før oppmålingsforretningen. De som skal varsles, kan godta kortere frist og annen varsling.
 
-(5) Varselet skal opplyse omtid og sted for forretningenhvilken matrikkelenhet forretningen gjelder (matrikkelenhet, hjemmelsforhold)hva forretningen gjelderhvem som er landmålerenhvem som blir varslet, og i hvilken egenskap (rekvirent, nabo m.m.)den videre saksgangenhvilke dokumenter landmåleren har som grunnlag for forretningenklageadgang, klagefrist og til hvem en eventuell klage skal settes fram.
+(5) Varselet skal opplyse om
 
-(6) Varselet skal anmode partene om åpeke ut sine grenser og stedbundne rettigheter under forretningengi melding til kommunen så snart som mulig dersom en kjenner til at andre enn dem som er nevnt i varselet, kan bli berørt av forretningen.
+1. tid og sted for forretningen
+2. hvilken matrikkelenhet forretningen gjelder (matrikkelenhet, hjemmelsforhold)
+3. hva forretningen gjelder
+4. hvem som er landmåleren
+5. hvem som blir varslet, og i hvilken egenskap (rekvirent, nabo m.m.)
+6. den videre saksgangen
+7. hvilke dokumenter landmåleren har som grunnlag for forretningen
+8. klageadgang, klagefrist og til hvem en eventuell klage skal settes fram.
+
+(6) Varselet skal anmode partene om å
+
+1. peke ut sine grenser og stedbundne rettigheter under forretningen
+2. gi melding til kommunen så snart som mulig dersom en kjenner til at andre enn dem som er nevnt i varselet, kan bli berørt av forretningen.
 
 (7) Gjelder en oppmålingsforretning samtlige grenser i en del av kommunen, kan innkalling til orienterende møte skje ved annonser, oppslag e.l. Til senere møter gjelder reglene om varsling i første til sjuende ledd.
 
@@ -566,7 +735,31 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 38. Protokoll
 
-(1) Protokollen fra oppmålingsforretningen skal inneholde opplysninger ombakgrunnen for oppmålingsforretningen, inkludertsaksreferanse, dato og sted for forretningenforretningens formålhvilke matrikkelenheter forretningen gjelderhvem som rekvirerte forretningennår oppmålingsforretningen er rekvirertvedtak om utsatt oppmålingsforretningvarsling og oppmøte, inkludertdato for varsling, varslingsmåten og eventuelle merknader til varslingenhvem som er varslet, og eventuelle parter som ikke er varslet, og hvilken matrikkelenhet eller rettighet vedkommende representererdeltakernes navn og signatur og i hvilken egenskap vedkommende møternavn og signatur for den som utfører oppmålingsforretningenforretningens gang, inkludertframlagte dokumenter som beskriver aktuelle grenser og rettsforholdbeskrivelse av grenser og grensemerker, [punkt](forskrift/2009-06-26-864) for punktfester, inngåtte forlik, voldgift og spesielle partspåstanderavtaler om grensejusteringer med partenes underskriftbeskrivelse av rettighetsforhold, hvordan rettighetsforholdene skal være etter forretning, inngåtte forlik, avtaler om avløsning eller flytting, voldgift og spesielle partspåstanderhvilke punkter og linjer som den som utførte forretningen, stedfestet på grunnlag av opplysninger i matrikkelen, andre dokumenter eller partenes påstanderredegjørelse for eventuelle avvik fra tillatelsen etter plan- og bygningsloven, vedtak om seksjonering eller annet grunnlag for utsetting av nye grenserom landmåleren eller andre som har utført arbeid med oppmålingsforretningen, står i noe personlig eller økonomisk forhold til noen av partene, og hvordan partene eventuelt er informert om dette.
+(1) Protokollen fra oppmålingsforretningen skal inneholde opplysninger om
+
+1. bakgrunnen for oppmålingsforretningen, inkludert
+
+   - saksreferanse, dato og sted for forretningen
+   - forretningens formål
+   - hvilke matrikkelenheter forretningen gjelder
+   - hvem som rekvirerte forretningen
+   - når oppmålingsforretningen er rekvirert
+   - vedtak om utsatt oppmålingsforretning
+2. varsling og oppmøte, inkludert
+
+   - dato for varsling, varslingsmåten og eventuelle merknader til varslingen
+   - hvem som er varslet, og eventuelle parter som ikke er varslet, og hvilken matrikkelenhet eller rettighet vedkommende representerer
+   - deltakernes navn og signatur og i hvilken egenskap vedkommende møter
+   - navn og signatur for den som utfører oppmålingsforretningen
+3. forretningens gang, inkludert
+
+   - framlagte dokumenter som beskriver aktuelle grenser og rettsforhold
+   - beskrivelse av grenser og grensemerker, [punkt](forskrift/2009-06-26-864) for punktfester, inngåtte forlik, voldgift og spesielle partspåstander
+   - avtaler om grensejusteringer med partenes underskrift
+   - beskrivelse av rettighetsforhold, hvordan rettighetsforholdene skal være etter forretning, inngåtte forlik, avtaler om avløsning eller flytting, voldgift og spesielle partspåstander
+   - hvilke punkter og linjer som den som utførte forretningen, stedfestet på grunnlag av opplysninger i matrikkelen, andre dokumenter eller partenes påstander
+   - redegjørelse for eventuelle avvik fra tillatelsen etter plan- og bygningsloven, vedtak om seksjonering eller annet grunnlag for utsetting av nye grenser
+4. om landmåleren eller andre som har utført arbeid med oppmålingsforretningen, står i noe personlig eller økonomisk forhold til noen av partene, og hvordan partene eventuelt er informert om dette.
 
 (2) Protokollen skal inneholde et kart med påtegninger som tydelig viser hvor grenser og grensemerker ligger i forhold til hverandre og tilstøtende matrikkelenheter. Ukjente eller ubestemte grenselinjer som inngår i oppmålingsforretningen, skal angis. Kartet skal være basert på en utskrift fra matrikkelen på tidspunktet for oppmålingsforretningen.
 
@@ -584,7 +777,15 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 40. Oppmålingsforretning uten oppmøte i marka
 
-(1) Dersom partene ønsker det, kan følgende oppmålingsforretninger gjennomføres uten oppmøte i marka:forretninger der uteareal til eierseksjon er entydig fastsatt med koordinatermatrikulering av eksisterende umatrikulert grunnregistrering av uregistrert jordsameieomgjøring av festegrunn til grunneiendom eller fradeling av hel teig når grensene er tilfredsstillende merket og koordinatbestemt i tidligere oppmålingsforretning eller tilsvarende forretningmatrikulering av ny grunneiendom eller ny festegrunn, med areal mindre enn 30m2 og som opprettes i samsvar med [§ 27](forskrift/2009-06-26-864/§27) femte leddendring i sameiefordelingen for registrert jordsameieopprettelse av nytt punktfeste hvor den tilhørende bygningen allerede er oppført, dersom landmåleren finner at stedfestingen kan utføres på betryggende måte.
+(1) Dersom partene ønsker det, kan følgende oppmålingsforretninger gjennomføres uten oppmøte i marka:
+
+1. forretninger der uteareal til eierseksjon er entydig fastsatt med koordinater
+2. matrikulering av eksisterende umatrikulert grunn
+3. registrering av uregistrert jordsameie
+4. omgjøring av festegrunn til grunneiendom eller fradeling av hel teig når grensene er tilfredsstillende merket og koordinatbestemt i tidligere oppmålingsforretning eller tilsvarende forretning
+5. matrikulering av ny grunneiendom eller ny festegrunn, med areal mindre enn 30m2 og som opprettes i samsvar med [§ 27](forskrift/2009-06-26-864/§27) femte ledd
+6. endring i sameiefordelingen for registrert jordsameie
+7. opprettelse av nytt punktfeste hvor den tilhørende bygningen allerede er oppført, dersom landmåleren finner at stedfestingen kan utføres på betryggende måte.
 
 (2) Den som utfører forretningen, skal legge fram kart som grunnlag for forretningen, som viser hvordan grensene vil bli lagt inn i matrikkelen.
 
@@ -616,9 +817,19 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 43. Sammenslåing av eksisterende matrikkelenheter
 
-(1) Krav om sammenslåing av eksisterende matrikkelenheter skal sendes kommunen skriftlig eller i likeverdig digitalt dokument. Med kravet skal følgekart over grenser og grensemerker for de matrikkelenheter eller grensestrekninger som saken gjelderbekreftelse på at eventuell hjemmelshaver til bruksrett er varsletdokumenter som skal tinglyses sammen med sammenslåingen.
+(1) Krav om sammenslåing av eksisterende matrikkelenheter skal sendes kommunen skriftlig eller i likeverdig digitalt dokument. Med kravet skal følge
 
-(2) Matrikkelenheter som skal slås sammen, skal i etterkant utgjøre en sammenhengende matrikkelenhet. Kommunen kan gjøre unntak fra dette når ett av følgende vilkår er oppfylt:det følger av krav med hjemmel i [jordlova](lov/1995-05-12-23), [eierseksjonsloven](lov/2017-06-16-65), [jordskiftelova](lov/2013-06-21-100) eller [plan- og bygningsloven](lov/2008-06-27-71)en eller flere av matrikkelenhetene som skal slås sammen, har flere teigerkommunen finner at sammenslåing vil gi mer oversiktlige eiendomsforhold.Slikt unntak kan ikke gjøres når den sammenslåtte enheten skal bli anleggseiendom.
+1. kart over grenser og grensemerker for de matrikkelenheter eller grensestrekninger som saken gjelder
+2. bekreftelse på at eventuell hjemmelshaver til bruksrett er varslet
+3. dokumenter som skal tinglyses sammen med sammenslåingen.
+
+(2) Matrikkelenheter som skal slås sammen, skal i etterkant utgjøre en sammenhengende matrikkelenhet. Kommunen kan gjøre unntak fra dette når ett av følgende vilkår er oppfylt:
+
+1. det følger av krav med hjemmel i [jordlova](lov/1995-05-12-23), [eierseksjonsloven](lov/2017-06-16-65), [jordskiftelova](lov/2013-06-21-100) eller [plan- og bygningsloven](lov/2008-06-27-71)
+2. en eller flere av matrikkelenhetene som skal slås sammen, har flere teiger
+3. kommunen finner at sammenslåing vil gi mer oversiktlige eiendomsforhold.
+
+Slikt unntak kan ikke gjøres når den sammenslåtte enheten skal bli anleggseiendom.
 
 (3) Matrikkelenheter kan ikke slås sammen i strid med en rettslig bindende arealplan uten at det er gitt dispensasjon etter plan- og bygningsloven. Kommunen kan nekte sammenslåing av matrikkelenheter med forskjellig gårdsnummer.
 
@@ -642,7 +853,14 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 44. Referanse til stedfestingsavtale
 
-(1) Kommunen kan matrikkelføre referanse til stedfestingsavtale omeksisterende grense for grunneiendom, festegrunn eller jordsameie når grensen ikke tidligere er fastlagt i oppmålingsforretning eller tilsvarende forretninglokalisering av eksisterende punktfeste når dette ikke tidligere er fastlagt i oppmålingsforretning eller tilsvarende forretningstedfesting av stedbunden rettighet til grunn som gjelder del av eksisterende grunneiendom, anleggseiendom, jordsameie, festegrunn eller uteareal til eierseksjonstedfesting av stedbunden rettighet til konstruksjonselementer som er del av konstruksjon eller bygning matrikulert som anleggseiendom, herunder atkomst til slike elementer.Avtalen må gjelde matrikkelførte enheter, og må omfatte alle som har grunnbokshjemmel som eier eller fester til de berørte matrikkelenhetene. For matrikkelenheter som ikke er innført i grunnboken, må avtalen omfatte alle som har registrert seg som eier og alle som har registrert seg som fester av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd.
+(1) Kommunen kan matrikkelføre referanse til stedfestingsavtale om
+
+1. eksisterende grense for grunneiendom, festegrunn eller jordsameie når grensen ikke tidligere er fastlagt i oppmålingsforretning eller tilsvarende forretning
+2. lokalisering av eksisterende punktfeste når dette ikke tidligere er fastlagt i oppmålingsforretning eller tilsvarende forretning
+3. stedfesting av stedbunden rettighet til grunn som gjelder del av eksisterende grunneiendom, anleggseiendom, jordsameie, festegrunn eller uteareal til eierseksjon
+4. stedfesting av stedbunden rettighet til konstruksjonselementer som er del av konstruksjon eller bygning matrikulert som anleggseiendom, herunder atkomst til slike elementer.
+
+Avtalen må gjelde matrikkelførte enheter, og må omfatte alle som har grunnbokshjemmel som eier eller fester til de berørte matrikkelenhetene. For matrikkelenheter som ikke er innført i grunnboken, må avtalen omfatte alle som har registrert seg som eier og alle som har registrert seg som fester av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd.
 
 (2) En stedfestingsavtale som nevnt i første ledd bokstav a og b, kan bare tinglyses dersom den har referanse i matrikkelen.
 
@@ -654,9 +872,17 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 (6) En stedfestingsavtale som nevnt i første ledd bokstav c og d, må gjelde i mer enn tre år. Et krav om å få referert stedfestingsavtalen kan settes fram separat eller i forbindelse med en oppmålingsforretning eller sammenslåing. Rettigheten må være tinglyst før den kan refereres i matrikkelen. En avtale som innebærer at en del av grunneiendom eller jordsameie blir festet bort når festet kan gjelde i mer enn 10 år, at en bruksenhet i et eierseksjonssameie skal omfatte ubebygde deler, eller på annen måte krever oppmålingsforretning før forholdet kan føres i matrikkelen, kan ikke få referanse i matrikkelen etter paragrafen her. En avtale som innebærer sammenslåing av matrikkelenheter, jf. [matrikkellova § 18](lov/2005-06-17-101/§18), eller bestemmelser om samlet fast eiendom, jf. [matrikkellova § 20](lov/2005-06-17-101/§20), kan ikke få referanse i matrikkelen etter paragrafen her.
 
-(7) En stedfestingsavtale som nevnt i første ledd bokstav c kan ikke gjelderettigheter som gjelder bygninger eller konstruksjoneren vedtektsfestet enerett til bruk av fellesareal i et eierseksjonssameie.
+(7) En stedfestingsavtale som nevnt i første ledd bokstav c kan ikke gjelde
 
-(8) Krav om matrikkelføring skal dokumenteres medstedfestingsavtalen som skal refereres, og at vilkårene som nevnt i første til sjuende ledd er oppfylthvilke matrikkelenheter stedfestingsavtalen omfatteroversikt over alle avtalepartene og hvilke matrikkelenheter og rettigheter disse representererkart over henholdsvis grenser og grensemerker, punkt for punktfeste eller stedbunden rettighet som stedfestingsavtalen gjelder.
+1. rettigheter som gjelder bygninger eller konstruksjoner
+2. en vedtektsfestet enerett til bruk av fellesareal i et eierseksjonssameie.
+
+(8) Krav om matrikkelføring skal dokumenteres med
+
+1. stedfestingsavtalen som skal refereres, og at vilkårene som nevnt i første til sjuende ledd er oppfylt
+2. hvilke matrikkelenheter stedfestingsavtalen omfatter
+3. oversikt over alle avtalepartene og hvilke matrikkelenheter og rettigheter disse representerer
+4. kart over henholdsvis grenser og grensemerker, punkt for punktfeste eller stedbunden rettighet som stedfestingsavtalen gjelder.
 
 (9) Kravet skal for stedfestingsavtaler som nevnt i første ledd bokstav c og d, henvise til dokumentnummeret for tinglysingen av vedkommende rettighet, eller omfatte avtale om rettigheten med fullmakt for kommunen til å tinglyse rettigheten.
 
@@ -672,7 +898,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 45. Fastsetting av samlet fast eiendom
 
-(1) Kommunen kan fastsette at to eller flere matrikkelenheter som i økonomisk sammenheng står fram som én eiendom, skal registreres i matrikkelen som en samlet fast eiendom. Kommunen skal kreve at enhetene oppfyller ett av følgende vilkår:svarer for kommunale avgifter eller eiendomsskatt som én eiendomtilfredsstiller kravet til hva som kan regnes som egen driftsenhet etter [jordlova § 12 sjette ledd](lov/1995-05-12-23/§12/ledd/6).
+(1) Kommunen kan fastsette at to eller flere matrikkelenheter som i økonomisk sammenheng står fram som én eiendom, skal registreres i matrikkelen som en samlet fast eiendom. Kommunen skal kreve at enhetene oppfyller ett av følgende vilkår:
+
+1. svarer for kommunale avgifter eller eiendomsskatt som én eiendom
+2. tilfredsstiller kravet til hva som kan regnes som egen driftsenhet etter [jordlova § 12 sjette ledd](lov/1995-05-12-23/§12/ledd/6).
 
 (2) Alle matrikkelenhetene må ha samme eier. Er noen av matrikkelenhetene festet bort, må alle enhetene som skal inngå i samlet fast eiendom, ha samme fester. Som eier, henholdsvis fester, regnes etter denne bestemmelsen den som har grunnbokshjemmelen som eier, henholdsvis fester, og når matrikkelenheten ikke er registrert i grunnboken, den som har registrert seg som eier, henholdsvis fester, av matrikkelenheten etter [§ 62b](forskrift/2009-06-26-864/§62b) andre eller tredje ledd. Eieren eller festeren kan kreve registrering når vilkårene er til stede.
 
@@ -696,7 +925,10 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 47. Matrikkelføring av sak utført av jordskifteretten
 
-(1) Jordskifteretten skal rapportere om resultat av sak, jf. [jordskiftelova § 6-30](lov/2013-06-21-100/§6-30), i form av et krav om matrikkelføring av sak utført av jordskifteretten. Kravet skal være skriftlig eller i likeverdig digitalt dokument i samsvar med spesifikasjonene som gjelder for matrikkelen, og omfattekart over grenser og grensemerker for de matrikkelenheter eller grensestrekninger som saken gjelder, måledata, beregninger og andre opplysninger som kreves for føring av matrikkelen. Det skal gå fram hvilke grenser som er nye, endret, utgått og hvilke eksisterende grenser som inngår i forretningen uten endring;dokument som ligger til grunn for endringene.
+(1) Jordskifteretten skal rapportere om resultat av sak, jf. [jordskiftelova § 6-30](lov/2013-06-21-100/§6-30), i form av et krav om matrikkelføring av sak utført av jordskifteretten. Kravet skal være skriftlig eller i likeverdig digitalt dokument i samsvar med spesifikasjonene som gjelder for matrikkelen, og omfatte
+
+1. kart over grenser og grensemerker for de matrikkelenheter eller grensestrekninger som saken gjelder, måledata, beregninger og andre opplysninger som kreves for føring av matrikkelen. Det skal gå fram hvilke grenser som er nye, endret, utgått og hvilke eksisterende grenser som inngår i forretningen uten endring;
+2. dokument som ligger til grunn for endringene.
 
 (2) Kommunen skal matrikkelføre jordskifterettens avgjørelse så langt den tilfredsstiller vilkårene for matrikkelføring.
 
@@ -706,7 +938,13 @@ Nytt jordsameie kan bare opprettes av jordskifteretten.
 
 ### § 48. Avtale eller vedtak om erverv av grunn til offentlig veg eller jernbane
 
-(1) En offentlig virksomhet som inngår avtale om erverv eller rett til bruk av grunn til offentlig veg eller jernbane for del av en eksisterende matrikkelenhet, eller som lovlig har overtatt slik rett ved ekspropriasjon, skal gi melding om dette til kommunen. Kommunen skal på berørt matrikkelenhet føre inn navn på erverver og referanse til saken. Meldingen skal inneholde opplysninger ommatrikkelenhet ervervet gjelderhvem som er erverver eller eksproprianthvem som er avtalemotpart, og erklæring om at avtalemotpart er informert om føringenreferanse til plan ervervet skjer i medhold avreferanse og dato for ekspropriasjonsvedtak eller dato for avtale om erverv eller rett til bruk.
+(1) En offentlig virksomhet som inngår avtale om erverv eller rett til bruk av grunn til offentlig veg eller jernbane for del av en eksisterende matrikkelenhet, eller som lovlig har overtatt slik rett ved ekspropriasjon, skal gi melding om dette til kommunen. Kommunen skal på berørt matrikkelenhet føre inn navn på erverver og referanse til saken. Meldingen skal inneholde opplysninger om
+
+1. matrikkelenhet ervervet gjelder
+2. hvem som er erverver eller ekspropriant
+3. hvem som er avtalemotpart, og erklæring om at avtalemotpart er informert om føringen
+4. referanse til plan ervervet skjer i medhold av
+5. referanse og dato for ekspropriasjonsvedtak eller dato for avtale om erverv eller rett til bruk.
 
 (2) Når resultatet av oppmålingsforretningen over det ervervede arealet er matrikkelført, skal kommunen samtidig føre inn opplysninger om gjennomføringen av ervervet og oppheve den tidligere merkingen om ervervet fra matrikkelenheten.
 
@@ -850,7 +1088,11 @@ Kommunen skal føre opplysninger i matrikkelen om forholdet til konsesjonsregelv
 
 (1) Statens kartverk fører opplysninger om registrerte eiere og festere basert på opplysninger utlevert fra grunnboken og skattemyndighetene.
 
-(2) For matrikkelenheter som ikke er innført i grunnboken, skal kommunen registrere opplysninger om registrert eier og registrert fester basert på hvem som i oppmålingsforretning har sannsynliggjort at de eier eller fester enheten, ved matrikkelføring av oppmålingsforretning overumatrikulert grunneiendom og festegrunn, jf. [matrikkellova § 6 første ledd bokstav b](lov/2005-06-17-101/§6/ledd/1/bokstav/b) og [§ 13](lov/2005-06-17-101/§13)registrering av uregistrert jordsameieendring i sameiefordelingen for registrert jordsameie som ikke er registrert i grunnboken.
+(2) For matrikkelenheter som ikke er innført i grunnboken, skal kommunen registrere opplysninger om registrert eier og registrert fester basert på hvem som i oppmålingsforretning har sannsynliggjort at de eier eller fester enheten, ved matrikkelføring av oppmålingsforretning over
+
+1. umatrikulert grunneiendom og festegrunn, jf. [matrikkellova § 6 første ledd bokstav b](lov/2005-06-17-101/§6/ledd/1/bokstav/b) og [§ 13](lov/2005-06-17-101/§13)
+2. registrering av uregistrert jordsameie
+3. endring i sameiefordelingen for registrert jordsameie som ikke er registrert i grunnboken.
 
 (3) For offentlig eid veg- eller jernbanegrunn som er registrert som egen matrikkelenhet, men som ikke er innført i grunnboken, kan kommunen føre vedkommende virksomhet som er satt til å forvalte vegen eller jernbanen, som registrert eier av matrikkelenheten, når virksomheten bekrefter sitt eierforhold med egenerklæring. Gjelder føringen matrikkelenheter i flere kommuner, kan føringen utføres av Statens kartverk.
 
@@ -880,7 +1122,10 @@ Kommunen skal føre opplysninger i matrikkelen om forholdet til konsesjonsregelv
 
 (1) Oppmålingsarbeid, herunder etablering av fastmerke og signal, kan utføres på privat og offentlig grunn i samsvar med [matrikkellova § 41](lov/2005-06-17-101/§41). Dette gjelder ikke vedvarende oppmålingsarbeid i forbindelse med oppsetting av bygning eller gjennomføring av andre anleggs- eller konstruksjonstiltak. Oppmålingsarbeid som krever adgang til bygning eller sperret område, kan bare utføres etter avtale med rettighetshaver.
 
-(2) Bestemmelsene om oppmålingsarbeid i eller med hjemmel i matrikkellova gjelder også for tilsvarende arbeideretter [jordskiftelova](lov/2013-06-21-100)i forbindelse med tiltak som er konsesjonspliktige etter energiloven.
+(2) Bestemmelsene om oppmålingsarbeid i eller med hjemmel i matrikkellova gjelder også for tilsvarende arbeider
+
+1. etter [jordskiftelova](lov/2013-06-21-100)
+2. i forbindelse med tiltak som er konsesjonspliktige etter energiloven.
 
 > Endret ved forskrift [13 nov 2020 nr. 2372](forskrift/2020-11-13-2372) (i kraft 1 jan 2021)
 
@@ -974,7 +1219,10 @@ Kommunen skal føre opplysninger i matrikkelen om forholdet til konsesjonsregelv
 
 ### § 69. Overgangsordning for matrikulering av umatrikulert offentlig veg- og jernbanegrunn
 
-(1) Eksisterende umatrikulert grunn som benyttes til offentlig veg eller jernbane, kan matrikuleres uten at det avholdes oppmålingsforretning dersom den som hevder å være eier av enheten, setter fram krav om det og matrikuleringen er fullført innen 31. desember 2012. Med krav skal det følgeegenerklæring for å være eier av enhetenkart som viser enheten som kreves matrikulert, og informasjon om grenseforløp for enheten når dette mangler eller er ufullstendig i matrikkelen.
+(1) Eksisterende umatrikulert grunn som benyttes til offentlig veg eller jernbane, kan matrikuleres uten at det avholdes oppmålingsforretning dersom den som hevder å være eier av enheten, setter fram krav om det og matrikuleringen er fullført innen 31. desember 2012. Med krav skal det følge
+
+1. egenerklæring for å være eier av enheten
+2. kart som viser enheten som kreves matrikulert, og informasjon om grenseforløp for enheten når dette mangler eller er ufullstendig i matrikkelen.
 
 (2) Er vilkårene oppfylt, matrikulerer kommunen enheten og utsteder matrikkelbrev til den som har satt fram kravet.
 

@@ -193,19 +193,39 @@ I denne forordning er det fastsatt harmoniserte fellesskapsbestemmelser om grens
 
 1\. Denne forordning får anvendelse på produkter av vegetabilsk og animalsk opprinnelse eller deler av disse som omfattes av vedlegg I, som får anvendelse som ferske, bearbeidede og/eller sammensatte næringsmidler eller fôr som det kan forekomme restmengder av plantevernmidler i eller på.
 
-2\. Denne forordning får ikke anvendelse på produkter som er omfattet av vedlegg I, når det på en betryggende måte kan fastslås at de er beregnet på:framstilling av andre produkter enn næringsmidler eller fôr, ellersåing eller planting; ellervirksomhet som er godkjent i henhold til nasjonal lovgivning for prøving av virksomme stoffer.
+2\. Denne forordning får ikke anvendelse på produkter som er omfattet av vedlegg I, når det på en betryggende måte kan fastslås at de er beregnet på:
+
+1. framstilling av andre produkter enn næringsmidler eller fôr, eller
+2. såing eller planting; eller
+3. virksomhet som er godkjent i henhold til nasjonal lovgivning for prøving av virksomme stoffer.
 
 3\. De grenseverdiene for plantevernmidler som er fastsatt i samsvar med denne forordning, får ikke anvendelse på produkter som omfattes av vedlegg I, og er beregnet på eksport til tredjestater og som er blitt behandlet før eksport, dersom det på en betryggende måte er godtgjort at mottakertredjestaten krever eller samtykker i denne særlige behandlingen for å hindre at skadelige organismer kommer inn på dets territorium.
 
 4\. Denne forordning direktiv får anvendelse uten at direktiv [98/8/EF](eu/31998l0008*),1 [2002/32/EF](eu/32002l0032) og forordning [(EØF) nr. 2377/90](eu/31990r2377)2 berøres.
 
-1 Europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om omsetning av biocidholdige produkter (EFT L nr. 123 av 24.4.1998, s. 1). Direktivet endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).2 Rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse (EFT L 224 av 18.8.1990, s. 1). Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1875/2004](eu/32004r1875) (EUT L 326 av 29.10.2004, s. 19).
+1 Europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om omsetning av biocidholdige produkter (EFT L nr. 123 av 24.4.1998, s. 1). Direktivet endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+2 Rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse (EFT L 224 av 18.8.1990, s. 1). Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1875/2004](eu/32004r1875) (EUT L 326 av 29.10.2004, s. 19).
 
 ### Artikkel 3. Definisjoner
 
 1\. I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r0178) og definisjonene fastsatt i artikkel 4 nr.1 og 4 i direktiv [91/414/EØF](eu/31991l0414*) anvendelse.
 
-2\. I dette direktiv menes videre med:«god landbrukspraksis» (GAP): den nasjonalt anbefalte, godkjente eller registrerte sikre bruk av plantefarmasøytiske produkter under virkelige forhold på alle trinn i produksjonen, lagringen, transporten, distribusjonen og bearbeidingen av næringsmidler og fôr. God landbrukspraksis omfatter også at prinsippene om integrert bekjempelse av skadedyr i en gitt klimasone er i samsvar med direktiv [91/414/EØF](eu/31991l0414*), samt at det brukes så små mengder av plantevernmidler som mulig, og at grenseverdier for restmengder/midlertidige grenseverdier for restmengder fastsettes med lavest mulig verdi for å kunne oppnå ønsket virkning,«kritisk GAP»: den GAP som gir den høyeste akseptable verdien for rester av plantevernmidler hos en behandlet avling og som danner grunnlaget for å fastsette grenseverdien for restmengder, dersom det finnes mer enn én GAP for en kombinasjon av virksomt stoff/produkt,«rester av plantevernmidler»: rester, herunder virksomme stoffer, metabolitter og/eller nedbrytnings- eller reaksjonsprodukter av virksomme stoffer som anvendes nå eller ble anvendt tidligere i plantefarmasøytiske produkter som definert i artikkel 2 nr. 1 i direktiv [91/414/EØF](eu/31991l0414*), som forekommer i eller på produkter omfattet av vedlegg I til denne forordning, herunder særlig dem som kan oppstå som følge av bruk i plantevern, veterinærmedisin og som biocid,«grenseverdi for restmengder»: høyeste lovbestemte konsentrasjonsverdi for en restmengde av et plantevernmiddel i eller på næringsmidler eller fôr fastsatt i samsvar med denne forordning på grunnlag av god landbrukspraksis og lavest mulig forbrukereksponering som er nødvendig for å verne sårbare forbrukere,«CXL-grenseverdi»: en grenseverdi for restmengder fastsatt av Codex Alimentarius-kommisjonen,«bestemmelsesgrensen» (LOQ): den laveste tillatte restkonsentrasjonen som kan måles og rapporteres ved rutinemessig overvåking med godkjente kontrollmetoder,«importtoleranse»: en grenseverdi for restmengder for importerte produkter for å oppfylle behovene i internasjonal handel når:bruken av det virksomme stoffet i et plantefarmasøytisk produkt på et bestemt produkt ikke er godkjent i Fellesskapet av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken, ellerdet er nødvendig med en annen verdi ettersom gjeldende fellesskapsgrenseverdi for restmengder ble fastsatt av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken,«egnethetsprøving»: en sammenlignende prøving der flere laboratorier utfører analyser av identiske prøver slik at det kan foretas en kvalitetsvurdering av den analysen som utføres på hvert laboratorium,«akutt referansedose»: en antatt mengde av et stoff i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til opplysninger fra relevante undersøkelser og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas på kort tid, normalt i løpet av en enkelt dag, uten at det innebærer noen nevneverdig risiko for forbrukeren,«akseptabelt daglig inntak»: en antatt mengde stoffer i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til alle kjente opplysninger på vurderingstidspunktet og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas daglig hele livet uten at det innebærer noen nevneverdig risiko for noen forbruker.
+2\. I dette direktiv menes videre med:
+
+1. «god landbrukspraksis» (GAP): den nasjonalt anbefalte, godkjente eller registrerte sikre bruk av plantefarmasøytiske produkter under virkelige forhold på alle trinn i produksjonen, lagringen, transporten, distribusjonen og bearbeidingen av næringsmidler og fôr. God landbrukspraksis omfatter også at prinsippene om integrert bekjempelse av skadedyr i en gitt klimasone er i samsvar med direktiv [91/414/EØF](eu/31991l0414*), samt at det brukes så små mengder av plantevernmidler som mulig, og at grenseverdier for restmengder/midlertidige grenseverdier for restmengder fastsettes med lavest mulig verdi for å kunne oppnå ønsket virkning,
+2. «kritisk GAP»: den GAP som gir den høyeste akseptable verdien for rester av plantevernmidler hos en behandlet avling og som danner grunnlaget for å fastsette grenseverdien for restmengder, dersom det finnes mer enn én GAP for en kombinasjon av virksomt stoff/produkt,
+3. «rester av plantevernmidler»: rester, herunder virksomme stoffer, metabolitter og/eller nedbrytnings- eller reaksjonsprodukter av virksomme stoffer som anvendes nå eller ble anvendt tidligere i plantefarmasøytiske produkter som definert i artikkel 2 nr. 1 i direktiv [91/414/EØF](eu/31991l0414*), som forekommer i eller på produkter omfattet av vedlegg I til denne forordning, herunder særlig dem som kan oppstå som følge av bruk i plantevern, veterinærmedisin og som biocid,
+4. «grenseverdi for restmengder»: høyeste lovbestemte konsentrasjonsverdi for en restmengde av et plantevernmiddel i eller på næringsmidler eller fôr fastsatt i samsvar med denne forordning på grunnlag av god landbrukspraksis og lavest mulig forbrukereksponering som er nødvendig for å verne sårbare forbrukere,
+5. «CXL-grenseverdi»: en grenseverdi for restmengder fastsatt av Codex Alimentarius-kommisjonen,
+6. «bestemmelsesgrensen» (LOQ): den laveste tillatte restkonsentrasjonen som kan måles og rapporteres ved rutinemessig overvåking med godkjente kontrollmetoder,
+7. «importtoleranse»: en grenseverdi for restmengder for importerte produkter for å oppfylle behovene i internasjonal handel når:
+
+   - bruken av det virksomme stoffet i et plantefarmasøytisk produkt på et bestemt produkt ikke er godkjent i Fellesskapet av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken, eller
+   - det er nødvendig med en annen verdi ettersom gjeldende fellesskapsgrenseverdi for restmengder ble fastsatt av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken,
+8. «egnethetsprøving»: en sammenlignende prøving der flere laboratorier utfører analyser av identiske prøver slik at det kan foretas en kvalitetsvurdering av den analysen som utføres på hvert laboratorium,
+9. «akutt referansedose»: en antatt mengde av et stoff i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til opplysninger fra relevante undersøkelser og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas på kort tid, normalt i løpet av en enkelt dag, uten at det innebærer noen nevneverdig risiko for forbrukeren,
+10. «akseptabelt daglig inntak»: en antatt mengde stoffer i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til alle kjente opplysninger på vurderingstidspunktet og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas daglig hele livet uten at det innebærer noen nevneverdig risiko for noen forbruker.
 
 ### Artikkel 4. Liste over produktgrupper der harmoniserte grenseverdier for restmengder skal få anvendelse
 
@@ -241,7 +261,19 @@ Søknader
 
 Krav som gjelder for søknader om grenseverdier for restmengder
 
-1\. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:navn og adresse på søkeren,en presentasjon av dokumentasjonen for søknaden, herunder:et sammendrag av søknaden,de viktigste saksforholdene,en innholdsfortegnelse for dokumentasjonen,en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
+1\. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:
+
+1. navn og adresse på søkeren,
+2. en presentasjon av dokumentasjonen for søknaden, herunder:
+
+   1. et sammendrag av søknaden,
+   2. de viktigste saksforholdene,
+   3. en innholdsfortegnelse for dokumentasjonen,
+   4. en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,
+3. en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,
+4. opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.
+
+Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
 
 2\. Den medlemsstaten som foretar vurderingen, kan om nødvendig kreve at søkeren skal framlegge utfyllende opplysninger i tillegg til de opplysningene som kreves i henhold til nr. 1, innenfor en tidsfrist som fastsettes av medlemsstaten. Denne fristen må ikke under noen omstendigheter overskride to år.
 
@@ -272,7 +304,12 @@ Myndighetens behandling av søknader om grenseverdier for restmengder
 
 Myndighetens uttalelse om søknader om grenseverdier for restmengder
 
-1\. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,alle andre faktorer som er relevante for risikovurderingen.
+1\. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:
+
+1. en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,
+2. den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,
+3. en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,
+4. alle andre faktorer som er relevante for risikovurderingen.
 
 2\. Myndigheten skal sende sin grunngitte uttalelse til søkeren, Kommisjonen og medlemsstatene. Den grunngitte uttalelsen skal nøye redegjøre for grunnlaget for de enkelte konklusjoner.
 
@@ -282,7 +319,9 @@ Myndighetens uttalelse om søknader om grenseverdier for restmengder
 
 Frister for myndighetens uttalelse om søknader om grenseverdier for restmengder
 
-1\. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
+1\. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.
+
+I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
 
 2\. Når myndigheten krever utfyllende opplysninger, skal tidsfristen fastsatt i nr. 1 forlenges, inntil disse opplysningene er framlagt. Slike forlengelser er underlagt artikkel 13.
 
@@ -290,7 +329,12 @@ Frister for myndighetens uttalelse om søknader om grenseverdier for restmengder
 
 Myndighetens vurdering av eksisterende grenseverdier for restmengder
 
-1\. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](eu/31991l0414*), om:eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
+1\. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](eu/31991l0414*), om:
+
+1. eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,
+2. behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,
+3. bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,
+4. de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
 
 2\. For stoffer omfattet av vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) før denne forordning trer i kraft, skal den grunngitte uttalelsen nevnt i nr. 1 i denne artikkel, avgis senest tolv måneder etter at denne forordning er trådt i kraft.
 
@@ -313,7 +357,14 @@ Beslutninger vedrørende søknader om grenseverdier for restmengder
 
 1\. Når Kommisjonen har mottatt myndighetens uttalelse og idet den tar hensyn til denne uttalelsen, utarbeider Kommisjonen umiddelbart og senest innen tre måneder en forordning om fastsettelse, endring og stryking av en grenseverdi for restmengder eller et vedtak om avslag på søknaden og framlegger denne rettsakten for vedtakelse i henhold til framgangsmåten nevnt i artikkel 45 nr. 2.
 
-2\. Følgende skal tas med i betraktningen med hensyn til rettsaktene nevnt i nr.1:tilgjengelig vitenskapelig og teknisk kunnskap,mulig forekomst av rester av plantevernmidler fra andre kilder enn nåværende bruk av virksomme stoffer som plantevernmiddel, og deres kjente kumulative virkninger og synergivirkninger, når det finnes metoder for å vurdere slike virkninger,resultatene av en vurdering av risikoene for forbrukere med stort inntak og høy sårbarhet, samt eventuelt for dyr,resultatene av vurderinger og beslutninger om å endre bruken av plantefarmasøytiske produkter,en CXL-grenseverdi eller en GAP som er innført i en tredjestat for lovlig bruk av et virksomt stoff i denne staten,andre berettigede faktorer som er relevante for det aktuelle tilfellet.
+2\. Følgende skal tas med i betraktningen med hensyn til rettsaktene nevnt i nr.1:
+
+1. tilgjengelig vitenskapelig og teknisk kunnskap,
+2. mulig forekomst av rester av plantevernmidler fra andre kilder enn nåværende bruk av virksomme stoffer som plantevernmiddel, og deres kjente kumulative virkninger og synergivirkninger, når det finnes metoder for å vurdere slike virkninger,
+3. resultatene av en vurdering av risikoene for forbrukere med stort inntak og høy sårbarhet, samt eventuelt for dyr,
+4. resultatene av vurderinger og beslutninger om å endre bruken av plantefarmasøytiske produkter,
+5. en CXL-grenseverdi eller en GAP som er innført i en tredjestat for lovlig bruk av et virksomt stoff i denne staten,
+6. andre berettigede faktorer som er relevante for det aktuelle tilfellet.
 
 3\. Kommisjonen kan til enhver tid kreve at søkeren eller myndigheten framlegger utfyllende opplysninger. Kommisjonen skal stille alle utfyllende opplysninger som den har mottatt, til rådighet for medlemsstatene og myndigheten.
 
@@ -321,7 +372,11 @@ Beslutninger vedrørende søknader om grenseverdier for restmengder
 
 Oppføring av nye eller endrede grenseverdier for restmengder i vedlegg II og III
 
-1\. Forordningen som er nevnt i artikkel 14 nr. 1 skal:fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
+1\. Forordningen som er nevnt i artikkel 14 nr. 1 skal:
+
+1. fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), eller
+2. fastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), eller
+3. fastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
 
 2\. Når det fastsettes en midlertidig grenseverdi for restmengder i samsvar med nr. 1 bokstav b, skal den strykes i vedlegg III gjennom en forordning ett år etter datoen for når det berørte virksomme stoffet ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF i](eu/31991l0414*) samsvar med artikkel 45 nr. 2 i denne forordning. Dersom en eller flere medlemsstater anmoder om det, kan den imidlertid opprettholdes i ytterligere ett år i påvente av en bekreftelse om at vitenskapelige undersøkelser som er nødvendige som underlag for en søknad for å fastsette en grenseverdi for restmengder, er blitt gjennomført. I de tilfeller der en slik bekreftelse foreligger, skal den midlertidige grenseverdien for restmengder opprettholdes for ytterligere to år, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
 
@@ -329,9 +384,20 @@ Oppføring av nye eller endrede grenseverdier for restmengder i vedlegg II og II
 
 Framgangsmåte for å fastsette midlertidige grenseverdier for restmengder under visse omstendigheter
 
-1\. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*), ellernår de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, ellerfor honning, ellerfor urtete, ellernår viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellernår nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+1\. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:
 
-2\. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
+1. unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*), eller
+2. når de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, eller
+3. for honning, eller
+4. for urtete, eller
+5. når viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), eller
+6. når nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+
+2\. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.
+
+De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.
+
+Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
 
 ###### Artikkel 17
 
@@ -344,11 +410,23 @@ Grenseverdier for restmengder for produkter av vegetabilsk og animalsk opprinnel
 
 ### Artikkel 18. Overholdelse av grenseverdier for restmengder
 
-1\. Fra og med den datoen de produktene som er omfattet av vedlegg I, bringes i omsetning som næringsmidler eller fôr eller gis som fôr til dyr, får de ikke inneholde noen rester av plantevernmidler som overstiger:de grenseverdiene for restmengder for disse produktene som er oppført i vedlegg II og III,0,01 mg/kg for de produktene der det ikke er oppført noen bestemt grenseverdi for restmengder i vedlegg II eller III, eller for virksomme stoffer oppført i vedlegg IV, med mindre det fastsettes ulike standardverdier for et virksomt stoff i henhold til framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til tilgjengelige rutinemessige analysemetoder. Slike standardverdier skal oppføres i vedlegg V.
+1\. Fra og med den datoen de produktene som er omfattet av vedlegg I, bringes i omsetning som næringsmidler eller fôr eller gis som fôr til dyr, får de ikke inneholde noen rester av plantevernmidler som overstiger:
 
-2\. Medlemsstatene kan ikke forby eller forhindre at produktene som er omfattet av vedlegg I, bringes i omsetning eller gis som fôr til dyr bestemt til næringsmiddelproduksjon på deres territorier, med den grunngitte uttalelsen at de inneholder rester av plantevernmidler, forutsatt at:slike produkter samsvarer med nr. 1 og artikkel 20, ellerdet virksomme stoffet er oppført i vedlegg IV.
+1. de grenseverdiene for restmengder for disse produktene som er oppført i vedlegg II og III,
+2. 0,01 mg/kg for de produktene der det ikke er oppført noen bestemt grenseverdi for restmengder i vedlegg II eller III, eller for virksomme stoffer oppført i vedlegg IV, med mindre det fastsettes ulike standardverdier for et virksomt stoff i henhold til framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til tilgjengelige rutinemessige analysemetoder. Slike standardverdier skal oppføres i vedlegg V.
 
-3\. Som unntak fra nr. 1 kan medlemsstatene ved behandling etter høsting med fumiganter på sitt territorium tillate restmengder av et virksomt stoff som overstiger grenseverdiene i vedlegg II og III for et produkt omfattet av vedlegg I, dersom kombinasjonene av virksomt stoff/produkt er oppført i vedlegg VII, forutsatt at:slike produkter ikke skal forbrukes med én gang,det finnes egnede kontroller for å sikre at slike produkter ikke kan gjøres tilgjengelige for sluttbruker eller forbruker, dersom de leveres direkte til disse, før restmengdene ikke lenger overstiger de grenseverdiene som er fastsatt i vedlegg II eller III,de andre medlemsstatene og Kommisjonen er blitt underrettet om de tiltakene som er truffet.Kombinasjonene av virksomt stoff/produkt som er oppført i vedlegg VII, skal fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+2\. Medlemsstatene kan ikke forby eller forhindre at produktene som er omfattet av vedlegg I, bringes i omsetning eller gis som fôr til dyr bestemt til næringsmiddelproduksjon på deres territorier, med den grunngitte uttalelsen at de inneholder rester av plantevernmidler, forutsatt at:
+
+1. slike produkter samsvarer med nr. 1 og artikkel 20, eller
+2. det virksomme stoffet er oppført i vedlegg IV.
+
+3\. Som unntak fra nr. 1 kan medlemsstatene ved behandling etter høsting med fumiganter på sitt territorium tillate restmengder av et virksomt stoff som overstiger grenseverdiene i vedlegg II og III for et produkt omfattet av vedlegg I, dersom kombinasjonene av virksomt stoff/produkt er oppført i vedlegg VII, forutsatt at:
+
+1. slike produkter ikke skal forbrukes med én gang,
+2. det finnes egnede kontroller for å sikre at slike produkter ikke kan gjøres tilgjengelige for sluttbruker eller forbruker, dersom de leveres direkte til disse, før restmengdene ikke lenger overstiger de grenseverdiene som er fastsatt i vedlegg II eller III,
+3. de andre medlemsstatene og Kommisjonen er blitt underrettet om de tiltakene som er truffet.
+
+Kombinasjonene av virksomt stoff/produkt som er oppført i vedlegg VII, skal fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
 
 4\. Unntaksvis og særlig ved bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*) eller som følge av forpliktelser i direktiv [2000/29/EF](eu/32000l0029*),1 kan en medlemsstat tillate at behandlede næringsmidler eller behandlet fôr som ikke samsvarer med nr. 1, bringes i omsetning og/eller gis som fôr til dyr på sitt territorium, forutsatt at slike næringsmidler eller slikt fôr ikke utgjør en uakseptabel risiko. Slike tillatelser skal umiddelbart meddeles til de andre medlemsstatene, Kommisjonen og myndigheten sammen med en relevant risikovurdering, slik at de uten unødige forsinkelser kan behandles i samsvar med framgangsmåten nevnt i artikkel 45 nr.2, for at det skal kunne fastsettes en midlertidig grenseverdi for restmengder for en bestemt periode eller treffes eventuelle andre nødvendige tiltak med hensyn til slike produkter.
 
@@ -375,17 +453,27 @@ Særlige bestemmelser om innarbeiding av eksisterende grenseverdier for restmeng
 
 ### Artikkel 22. Første fastsettelse av midlertidige grenseverdier for restmengder
 
-1\. Midlertidige grenseverdier for restmengder for virksomme stoffer som det ennå ikke er truffet noen beslutning om hvorvidt de skal oppføres eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), skal først fastsettes og oppføres i vedlegg III til denne forordning, med mindre de ikke allerede er oppført i vedlegg II i denne forordning, i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til opplysningene framlagt av medlemsstatene og eventuelt den grunngitte uttalelsen nevnt i artikkel 24, faktorene nevnt i artikkel 14 nr. 2 og følgende grenseverdier for restmengder:de resterende grenseverdiene for restmengder i vedlegget til direktiv [76/895/EØF](eu/31976l0895*), ognasjonale grenseverdier for restmengder som ennå ikke er blitt harmonisert.
+1\. Midlertidige grenseverdier for restmengder for virksomme stoffer som det ennå ikke er truffet noen beslutning om hvorvidt de skal oppføres eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), skal først fastsettes og oppføres i vedlegg III til denne forordning, med mindre de ikke allerede er oppført i vedlegg II i denne forordning, i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til opplysningene framlagt av medlemsstatene og eventuelt den grunngitte uttalelsen nevnt i artikkel 24, faktorene nevnt i artikkel 14 nr. 2 og følgende grenseverdier for restmengder:
+
+1. de resterende grenseverdiene for restmengder i vedlegget til direktiv [76/895/EØF](eu/31976l0895*), og
+2. nasjonale grenseverdier for restmengder som ennå ikke er blitt harmonisert.
 
 2\. Vedlegg III skal først utarbeides senest tolv måneder etter at denne forordning er trådt i kraft i samsvar med artikkel 23, 24 og 25.
 
 ### Artikkel 23. Opplysninger som medlemsstatene skal framlegge om nasjonale grenseverdier for restmengder
 
-Når et virksomt stoff ennå ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), og en medlemsstat senest på datoen for når vedlegg I til denne forordning er trådt i kraft, har fastsatt en nasjonal grenseverdi for restmengder for dette virksomme stoffet for et produkt omfattet av vedlegg I til denne forordning, eller har besluttet at det ikke er behov for noen grenseverdi for restmengder for dette virksomme stoffet, skal den berørte medlemsstaten i et format og innen en dato som fastsettes i samsvar med framgangsmåten i artikkel 45 nr. 2, meddele Kommisjonen om den nasjonale grenseverdien for restmengder eller om at det ikke er behov for en grenseverdi for restmengder for det virksomme stoffet, samt ved behov og på anmodning fra Kommisjonen meddele om følgende:god landbrukspraksis (GAP),kort sammendrag av eventuelle kontrollerte forsøk og/eller overvåkingsopplysninger, dersom kritisk GAP anvendes i medlemsstaten,det akseptable daglige inntaket og den eventuelle akutte referansedosen som er benyttet i den nasjonale risikovurderingen, samt resultatet av vurderingen.
+Når et virksomt stoff ennå ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), og en medlemsstat senest på datoen for når vedlegg I til denne forordning er trådt i kraft, har fastsatt en nasjonal grenseverdi for restmengder for dette virksomme stoffet for et produkt omfattet av vedlegg I til denne forordning, eller har besluttet at det ikke er behov for noen grenseverdi for restmengder for dette virksomme stoffet, skal den berørte medlemsstaten i et format og innen en dato som fastsettes i samsvar med framgangsmåten i artikkel 45 nr. 2, meddele Kommisjonen om den nasjonale grenseverdien for restmengder eller om at det ikke er behov for en grenseverdi for restmengder for det virksomme stoffet, samt ved behov og på anmodning fra Kommisjonen meddele om følgende:
+
+1. god landbrukspraksis (GAP),
+2. kort sammendrag av eventuelle kontrollerte forsøk og/eller overvåkingsopplysninger, dersom kritisk GAP anvendes i medlemsstaten,
+3. det akseptable daglige inntaket og den eventuelle akutte referansedosen som er benyttet i den nasjonale risikovurderingen, samt resultatet av vurderingen.
 
 ### Artikkel 24. Myndighetens uttalelse om de opplysninger som ligger til grunn for nasjonale grenseverdier for restmengder
 
-1\. Myndigheten skal framlegge en grunngitt uttalelse for Kommisjonen om eventuelle risikoer for forbrukerens helse som følge av:midlertidige grenseverdier for restmengder som kan oppføres i vedlegg III,virksomme stoffer som kan oppføres i vedlegg IV.
+1\. Myndigheten skal framlegge en grunngitt uttalelse for Kommisjonen om eventuelle risikoer for forbrukerens helse som følge av:
+
+1. midlertidige grenseverdier for restmengder som kan oppføres i vedlegg III,
+2. virksomme stoffer som kan oppføres i vedlegg IV.
 
 2\. Når myndigheten utarbeider sin grunngitte uttalelse nevnt i nr. 1, skal den ta hensyn til tilgjengelig vitenskapelig og teknisk kunnskap og særlig til opplysninger som er framlagt av medlemsstatene i samsvar med artikkel 23.
 
@@ -458,7 +546,13 @@ Opplysninger fra medlemsstatene og årlig rapport
 
 Opplysninger fra medlemsstatene
 
-1\. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
+1\. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:
+
+1. resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,
+2. de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,
+3. opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,
+4. opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),
+5. opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
 
 2\. Gjennomføringstiltakene for de opplysningene som medlemsstatene skal framlegge, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2 etter samråd med myndigheten.
 
@@ -468,7 +562,12 @@ Den årlige rapporten om rester av plantevernmidler
 
 1\. Myndigheten skal utarbeide en årlig rapport om rester av plantevernmidler på grunnlag av de opplysningene som medlemsstatene framlegger i samsvar med artikkel 31 nr. 1.
 
-2\. Myndigheten skal minst opplyse om følgende i den årlige rapporten:en analyse av resultatene av kontrollene i henhold til artikkel 26 nr. 2,en redegjørelse for eventuelle årsaker til at grenseverdiene for restmengder er overskredet, sammen med relevante merknader om risikohåndteringsalternativer,en analyse av kroniske og akutte risikoer for forbrukernes helse som følge av rester av plantevernmidler,en vurdering av forbrukereksponeringen med hensyn til rester av plantevernmidler på grunnlag av opplysningene i bokstav a) og alle andre relevante opplysninger, herunder rapporter som er framlagt i henhold til direktiv [96/23/EF](eu/31996l0023).
+2\. Myndigheten skal minst opplyse om følgende i den årlige rapporten:
+
+1. en analyse av resultatene av kontrollene i henhold til artikkel 26 nr. 2,
+2. en redegjørelse for eventuelle årsaker til at grenseverdiene for restmengder er overskredet, sammen med relevante merknader om risikohåndteringsalternativer,
+3. en analyse av kroniske og akutte risikoer for forbrukernes helse som følge av rester av plantevernmidler,
+4. en vurdering av forbrukereksponeringen med hensyn til rester av plantevernmidler på grunnlag av opplysningene i bokstav a) og alle andre relevante opplysninger, herunder rapporter som er framlagt i henhold til direktiv [96/23/EF](eu/31996l0023).
 
 3\. Når en medlemsstat ikke har framlagt opplysninger i samsvar med artikkel 31, kan myndigheten se bort fra opplysningene fra nevnte medlemsstat når den utarbeider den årlige rapporten.
 
@@ -509,7 +608,13 @@ Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 
 ### Artikkel 36. Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 
-1\. Støttetiltak med hensyn til harmoniserte grenseverdier for restmengder av plantevernmidler skal innføres på fellesskapsplan, herunder:en database som sammenfatter Fellesskapets regelverk for grenseverdier for restmengder av plantevernmidler, som er tilgjengelig for offentligheten,Fellesskapets egnethetsprøvinger som nevnt i artikkel 28 nr. 3,undersøkelser og andre tiltak som er nødvendige for å utarbeide og utvikle lovgivning og tekniske retningslinjer om rester av plantevernmidler, som særlig tar sikte på å utvikle og bruke metoder for å vurdere sammenlagte og kumulative virkninger, samt synergivirkninger,undersøkelser som er nødvendige for å vurdere forbrukeres og dyrs eksponering for rester av plantevernmidler,undersøkelser som er nødvendige for å understøtte kontrollaboratoriene, når analysemetoder ikke kan kontrollere de fastsatte grenseverdiene for restmengder.
+1\. Støttetiltak med hensyn til harmoniserte grenseverdier for restmengder av plantevernmidler skal innføres på fellesskapsplan, herunder:
+
+1. en database som sammenfatter Fellesskapets regelverk for grenseverdier for restmengder av plantevernmidler, som er tilgjengelig for offentligheten,
+2. Fellesskapets egnethetsprøvinger som nevnt i artikkel 28 nr. 3,
+3. undersøkelser og andre tiltak som er nødvendige for å utarbeide og utvikle lovgivning og tekniske retningslinjer om rester av plantevernmidler, som særlig tar sikte på å utvikle og bruke metoder for å vurdere sammenlagte og kumulative virkninger, samt synergivirkninger,
+4. undersøkelser som er nødvendige for å vurdere forbrukeres og dyrs eksponering for rester av plantevernmidler,
+5. undersøkelser som er nødvendige for å understøtte kontrollaboratoriene, når analysemetoder ikke kan kontrollere de fastsatte grenseverdiene for restmengder.
 
 2\. Alle nødvendige gjennomføringsbestemmelser om de tiltakene som er nevnt i nr 1, skal vedtas i samsvar med framgangsmåten i artikkel 45 nr. 2.
 
@@ -532,7 +637,10 @@ Hver medlemsstat skal underrette Kommisjonen og myndigheten om navn og adresser 
 
 ### Artikkel 39. Myndighetens samordning av opplysninger om grenseverdier for restmengder
 
-Myndigheten skal:samordne sitt arbeid med rapporterende medlemsstat som er utpekt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) med hensyn til et virksomt stoff,samordne sitt arbeid med medlemsstatene og Kommisjonen med hensyn til grenseverdier for restmengder, særlig med sikte på å oppfylle kravene i artikkel 41.
+Myndigheten skal:
+
+1. samordne sitt arbeid med rapporterende medlemsstat som er utpekt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) med hensyn til et virksomt stoff,
+2. samordne sitt arbeid med medlemsstatene og Kommisjonen med hensyn til grenseverdier for restmengder, særlig med sikte på å oppfylle kravene i artikkel 41.
 
 ### Artikkel 40. Opplysninger fra medlemsstatene
 
@@ -546,7 +654,12 @@ Med forbehold for de relevante bestemmelsene i Fellesskapets regelverk og nasjon
 
 1\. Medlemsstatene kan dekke kostnadene knyttet til arbeidet med å fastsette, endre eller stryke grenseverdier for restmengder eller alt annet arbeid som følge av forpliktelsene i denne forordning ved å innkreve et gebyr eller en avgift.
 
-2\. Medlemsstatene skal sikre at gebyret eller avgiften nevnt i nr. 1:fastsettes på en måte som sikrer innsyn, ogsvarer til de faktiske kostnadene for det aktuelle arbeidet.Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
+2\. Medlemsstatene skal sikre at gebyret eller avgiften nevnt i nr. 1:
+
+1. fastsettes på en måte som sikrer innsyn, og
+2. svarer til de faktiske kostnadene for det aktuelle arbeidet.
+
+Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
 
 ### Kapittel IX
 Gjennomføring
@@ -565,13 +678,20 @@ Kommisjonen eller medlemsstaten kan anmode myndigheten om en vitenskapelig uttal
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»).
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 46. Gjennomføringstiltak
 
-I henhold til framgangsmåten i artikkel 45 nr. 2 kan følgende eventuelt fastsettes eller endres, idet det tas hensyn til myndighetens uttalelse:gjennomføringstiltak som skal sikre en ensartet anvendelse av denne forordning,datoene i artikkel 23, artikkel 29 nr. 2, artikkel 30 nr. 2, artikkel 31 nr. 1 og artikkel 32 nr. 5,tekniske retningslinjer for å anvende denne forordning,nærmere bestemmelser om vitenskapelige opplysninger som er nødvendige for å fastsette grenseverdier for restmengder.
+I henhold til framgangsmåten i artikkel 45 nr. 2 kan følgende eventuelt fastsettes eller endres, idet det tas hensyn til myndighetens uttalelse:
+
+1. gjennomføringstiltak som skal sikre en ensartet anvendelse av denne forordning,
+2. datoene i artikkel 23, artikkel 29 nr. 2, artikkel 30 nr. 2, artikkel 31 nr. 1 og artikkel 32 nr. 5,
+3. tekniske retningslinjer for å anvende denne forordning,
+4. nærmere bestemmelser om vitenskapelige opplysninger som er nødvendige for å fastsette grenseverdier for restmengder.
 
 ### Artikkel 47. Rapport om gjennomføringen av denne forordning
 
@@ -584,15 +704,21 @@ Sluttbestemmelser
 
 1\. Direktiv [76/895/EØF](eu/31976l0895*), [86/362/EØF](eu/31986l0362), [86/363/EØF](eu/31986l0363) og [90/642/EØF](eu/31990l0642) oppheves med virkning fra den datoen som er nevnt i artikkel 50 annet ledd.
 
-2\. Artikkel 4 nr. 1 bokstav f) i direktiv [91/414/EØF](eu/31991l0414*) erstattes med følgende:grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, er fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396),\* der det er relevant»
+2\. Artikkel 4 nr. 1 bokstav f) i direktiv [91/414/EØF](eu/31991l0414*) erstattes med følgende:
+
+1. grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, er fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396),\* der det er relevant»
 
 \* EUT L 70 av 16.3.2005, s. 1.
 
 ### Artikkel 49. Overgangstiltak
 
-1\. Kravene i kapittel III får ikke anvendelse på produkter som er lovlig produsert eller importert til Fellesskapet før den datoen som er nevnt i artikkel 50 annet ledd.For å sikre et høyt nivå av forbrukervern kan det imidlertid treffes egnede tiltak for disse produktene i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+1\. Kravene i kapittel III får ikke anvendelse på produkter som er lovlig produsert eller importert til Fellesskapet før den datoen som er nevnt i artikkel 50 annet ledd.
 
-2\. Når det er nødvendig, kan ytterligere overgangstiltak fastsettes for å gjennomføre bestemte grenseverdier for restmengder som fastsatt i artikkel 15, 16, 21, 22 og 25, for å sikre at produktene markedsføres, bearbeides og forbrukes på en normal måte.Disse tiltakene, med forbehold for forpliktelsen om å sikre et høyt nivå av forbrukervern, kan vedtas i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+For å sikre et høyt nivå av forbrukervern kan det imidlertid treffes egnede tiltak for disse produktene i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+
+2\. Når det er nødvendig, kan ytterligere overgangstiltak fastsettes for å gjennomføre bestemte grenseverdier for restmengder som fastsatt i artikkel 15, 16, 21, 22 og 25, for å sikre at produktene markedsføres, bearbeides og forbrukes på en normal måte.
+
+Disse tiltakene, med forbehold for forpliktelsen om å sikre et høyt nivå av forbrukervern, kan vedtas i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
 
 ### Artikkel 50. Ikrafttredelse
 

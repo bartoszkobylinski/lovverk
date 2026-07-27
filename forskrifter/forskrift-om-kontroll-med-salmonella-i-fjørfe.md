@@ -16,7 +16,7 @@ xml_hash: "2b081f069789af75f69f6c216b06e37a99fa356bb956ccf39ce84e3551f6add2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,13 +37,24 @@ Forskriften gjelder for virksomhet hvor fjørfe klekkes, holdes eller slaktes, v
 
 Forskriften gjelder i tillegg for laboratorier som analyserer prøver tatt som ledd i den ovennevnte kartleggingen og kontrollen.
 
-Forskriften gjelder ikke for:virksomhet som holder fjørfe på hobbybasis der eventuelle produkter fra besetningen kun benyttes i egen husholdning,virksomhet som holder fjørfe for direkte levering av små mengder råvarer eller ferskt kjøtt direkte til den endelige forbruker eller til lokal detaljist som igjen leverer direkte til den endelige forbruker.
+Forskriften gjelder ikke for:
+
+- virksomhet som holder fjørfe på hobbybasis der eventuelle produkter fra besetningen kun benyttes i egen husholdning,
+- virksomhet som holder fjørfe for direkte levering av små mengder råvarer eller ferskt kjøtt direkte til den endelige forbruker eller til lokal detaljist som igjen leverer direkte til den endelige forbruker.
 
 > Endret ved [forskrift 5 jan 2010 nr. 8](forskrift/2010-01-05-8).
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Fjørfe:* høns, kalkuner, perlehøns, ender og gjess som oppdrettes eller holdes i fangenskap for produksjon av kjøtt eller egg samt avl av høns, kalkuner, perlehøns, ender og gjess for slik produksjon.*Flokk:* alt fjørfe med samme helsestatus som holdes innen samme inngjerding eller i samme rom, og som utgjør en epidemiologisk enhet. For fjørfe holdt i bursystemer, gjelder dette alle fugler som deler felles luftrom.*Nasjonalt referanselaboratorium:* laboratorium oppnevnt av Mattilsynet.*Nasjonalt Salmonella kontrollprogram:* program for kartlegging av og kontroll med *Salmonella* basert på prøvetaking i denne forskriften.*Offisielt laboratorium:* laboratorium godkjent av Mattilsynet for å utføre analyser i regi av nasjonalt *Salmonella* kontrollprogram.*Positiv prøve:* prøve der *Salmonella* er påvist etter analyse ved en metode spesifisert i [§ 19](forskrift/2007-06-08-603/§19), og bekreftet positiv av nasjonalt referanselaboratorium.*Salmonella:* alle serovar av *Salmonella enterica*.
+I denne forskriften menes med:
+
+1. *Fjørfe:* høns, kalkuner, perlehøns, ender og gjess som oppdrettes eller holdes i fangenskap for produksjon av kjøtt eller egg samt avl av høns, kalkuner, perlehøns, ender og gjess for slik produksjon.
+2. *Flokk:* alt fjørfe med samme helsestatus som holdes innen samme inngjerding eller i samme rom, og som utgjør en epidemiologisk enhet. For fjørfe holdt i bursystemer, gjelder dette alle fugler som deler felles luftrom.
+3. *Nasjonalt referanselaboratorium:* laboratorium oppnevnt av Mattilsynet.
+4. *Nasjonalt Salmonella kontrollprogram:* program for kartlegging av og kontroll med *Salmonella* basert på prøvetaking i denne forskriften.
+5. *Offisielt laboratorium:* laboratorium godkjent av Mattilsynet for å utføre analyser i regi av nasjonalt *Salmonella* kontrollprogram.
+6. *Positiv prøve:* prøve der *Salmonella* er påvist etter analyse ved en metode spesifisert i [§ 19](forskrift/2007-06-08-603/§19), og bekreftet positiv av nasjonalt referanselaboratorium.
+7. *Salmonella:* alle serovar av *Salmonella enterica*.
 
 > Endret ved [forskrift 5 jan 2010 nr. 8](forskrift/2010-01-05-8).
 

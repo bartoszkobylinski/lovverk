@@ -15,7 +15,7 @@ xml_hash: "1c3cd97f2e03b4d5520311cf57dffc3c683371cacd775f845d1c9ffb07ae5efa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L1148"
@@ -31,7 +31,10 @@ Loven skal bidra til å sikre grunnleggende krav til digital sikkerhet i virksom
 
 ### § 2. Saklig virkeområde
 
-Loven gjelder fortilbydere av samfunnsviktige tjenester etter [§ 6](lov/2023-12-20-108/§6) i sektorene energi, transport, helse, vannforsyning, bank, finansmarkedsinfrastruktur og digital infrastrukturtilbydere av digitale tjenester etter [§ 9](lov/2023-12-20-108/§9).
+Loven gjelder for
+
+1. tilbydere av samfunnsviktige tjenester etter [§ 6](lov/2023-12-20-108/§6) i sektorene energi, transport, helse, vannforsyning, bank, finansmarkedsinfrastruktur og digital infrastruktur
+2. tilbydere av digitale tjenester etter [§ 9](lov/2023-12-20-108/§9).
 
 Loven gjelder ikke for virksomheter som er omfattet av [lov om elektroniske tillitstjenester](lov/2018-06-15-44).
 
@@ -39,13 +42,24 @@ Kongen kan gi forskrift med nærmere bestemmelser om og unntak fra lovens virkeo
 
 ### § 3. Geografisk virkeområde
 
-Loven gjelder fortilbydere av samfunnsviktige tjenester som er etablert i Norgetilbydere av digitale tjenester som har sitt hovedkontor i Norge, eller som har eller skal ha en representant i Norge etter [§ 12](lov/2023-12-20-108/§12).
+Loven gjelder for
+
+1. tilbydere av samfunnsviktige tjenester som er etablert i Norge
+2. tilbydere av digitale tjenester som har sitt hovedkontor i Norge, eller som har eller skal ha en representant i Norge etter [§ 12](lov/2023-12-20-108/§12).
 
 Kongen kan gi forskrift om lovens anvendelse for Svalbard, Jan Mayen og bilandene og fastsette særlige regler som er nødvendige av hensyn til de stedlige forholdene.
 
 ### § 4. Definisjoner
 
-I denne loven menes mednettverks- og informasjonssystemer:elektronisk kommunikasjonsnett som nevnt i [ekomloven § 1-5 nr. 2](lov/2003-07-04-83/§1-5/nummer/2)en enhet eller en gruppe av sammenkoblede eller beslektede enheter som behandler digitale data automatisk ved hjelp av et programdigitale data som lagres, behandles, innhentes eller overføres ved hjelp av elementer som nevnt i bokstav a eller b for at dataene skal kunne driftes, vernes, beskyttes eller vedlikeholdes.sikkerheten i nettverks- og informasjonssystemer: evnen nettverk eller informasjonssystemer har til å tåle, på et gitt tillitsnivå, enhver handling som går ut over tilgjengeligheten, autentisiteten, integriteten eller tilliten til lagrede, overførte eller behandlede data eller tilknyttede tjenester som tilbys eller er tilgjengelige via slike nettverks- og informasjonssystemerhendelse: enhver hendelse med negativ virkning på sikkerheten i nettverks- og informasjonssystemer.
+I denne loven menes med
+
+1. nettverks- og informasjonssystemer:
+
+   1. elektronisk kommunikasjonsnett som nevnt i [ekomloven § 1-5 nr. 2](lov/2003-07-04-83/§1-5/nummer/2)
+   2. en enhet eller en gruppe av sammenkoblede eller beslektede enheter som behandler digitale data automatisk ved hjelp av et program
+   3. digitale data som lagres, behandles, innhentes eller overføres ved hjelp av elementer som nevnt i bokstav a eller b for at dataene skal kunne driftes, vernes, beskyttes eller vedlikeholdes.
+2. sikkerheten i nettverks- og informasjonssystemer: evnen nettverk eller informasjonssystemer har til å tåle, på et gitt tillitsnivå, enhver handling som går ut over tilgjengeligheten, autentisiteten, integriteten eller tilliten til lagrede, overførte eller behandlede data eller tilknyttede tjenester som tilbys eller er tilgjengelige via slike nettverks- og informasjonssystemer
+3. hendelse: enhver hendelse med negativ virkning på sikkerheten i nettverks- og informasjonssystemer.
 
 ### § 5. Forholdet til andre lover som stiller krav om sikkerhet og varsling
 
@@ -55,9 +69,21 @@ Kravene om sikkerhet og varsling i [§§ 7](lov/2023-12-20-108/§7), [8](lov/202
 
 ### § 6. Tilbydere av samfunnsviktige tjenester
 
-Som tilbyder av en samfunnsviktig tjeneste regnes virksomheter somleverer en tjeneste som er viktig for å opprettholde kritiske samfunnsmessige eller økonomiske aktiviteterer avhengig av nettverks- og informasjonssystemer for å levere tjenesten, ogkan få tjenesteleveransen betydelig forstyrret av en hendelse.
+Som tilbyder av en samfunnsviktig tjeneste regnes virksomheter som
 
-Ved vurderingen av om en hendelse kan betydelig forstyrre en tjenesteleveranse, skal det særlig legges vekt påantallet brukere som er avhengig av tjenesteni hvilken grad andre samfunnssektorer som er nevnt i [§ 2](lov/2023-12-20-108/§2), er avhengig av tjenestenhvilken virkning en hendelse kan ha i form av omfang og varighet for økonomiske og samfunnsmessige aktiviteter eller samfunnssikkerhetenvirksomhetens markedsandelstørrelsen på det geografiske området som kan bli påvirket av en hendelseden berørte virksomhetens betydning for at det er tilstrekkelig tilgang på tjenesten, tatt i betraktning hvilke alternativer som finnessærlige sektorspesifikke forhold.
+1. leverer en tjeneste som er viktig for å opprettholde kritiske samfunnsmessige eller økonomiske aktiviteter
+2. er avhengig av nettverks- og informasjonssystemer for å levere tjenesten, og
+3. kan få tjenesteleveransen betydelig forstyrret av en hendelse.
+
+Ved vurderingen av om en hendelse kan betydelig forstyrre en tjenesteleveranse, skal det særlig legges vekt på
+
+1. antallet brukere som er avhengig av tjenesten
+2. i hvilken grad andre samfunnssektorer som er nevnt i [§ 2](lov/2023-12-20-108/§2), er avhengig av tjenesten
+3. hvilken virkning en hendelse kan ha i form av omfang og varighet for økonomiske og samfunnsmessige aktiviteter eller samfunnssikkerheten
+4. virksomhetens markedsandel
+5. størrelsen på det geografiske området som kan bli påvirket av en hendelse
+6. den berørte virksomhetens betydning for at det er tilstrekkelig tilgang på tjenesten, tatt i betraktning hvilke alternativer som finnes
+7. særlige sektorspesifikke forhold.
 
 Kongen kan gi forskrift om hvilke virksomheter som skal regnes som tilbydere av samfunnsviktige tjenester.
 
@@ -91,7 +117,13 @@ Kongen kan gi forskrift om hvilke virksomheter som skal regnes som tilbydere av 
 
 En tilbyder av en digital tjeneste skal gjennomføre en risikovurdering av nettverks- og informasjonssystemer som benyttes for å levere tjenesten.
 
-Tilbyderen skal iverksette hensiktsmessige og proporsjonale tekniske og organisatoriske sikkerhetstiltak som samlet skal sørge for et sikkerhetsnivå som er tilpasset risikoen. Ved vurderingen av hva som er et forsvarlig sikkerhetsnivå, skal det blant annet ses hen til den teknologiske utviklingen og tas hensyn tilsikkerheten i systemer, utstyr og anlegghendelseshåndteringstyring av opprettholdelse av tjenesteleveransenovervåking, revisjon og testinganerkjente internasjonale standarder.
+Tilbyderen skal iverksette hensiktsmessige og proporsjonale tekniske og organisatoriske sikkerhetstiltak som samlet skal sørge for et sikkerhetsnivå som er tilpasset risikoen. Ved vurderingen av hva som er et forsvarlig sikkerhetsnivå, skal det blant annet ses hen til den teknologiske utviklingen og tas hensyn til
+
+1. sikkerheten i systemer, utstyr og anlegg
+2. hendelseshåndtering
+3. styring av opprettholdelse av tjenesteleveransen
+4. overvåking, revisjon og testing
+5. anerkjente internasjonale standarder.
 
 Tilbyderen skal iverksette proporsjonale tiltak for å forebygge, avdekke og redusere konsekvensene av hendelser, slik at tjenesteleveransen kan opprettholdes.
 
@@ -137,13 +169,26 @@ Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelse
 
 ### § 18. Forskrifter
 
-Kongen kan gi forskrift omkrav til sikkerhet og varsling i samsvar med [§§ 7](lov/2023-12-20-108/§7), [8](lov/2023-12-20-108/§8), [10](lov/2023-12-20-108/§10) og [11](lov/2023-12-20-108/§11), herunder hva som regnes som tilsvarende krav etter [§ 5](lov/2023-12-20-108/§5)gjennomføring av tilsyn med tilbydere underlagt lovenopplysningsplikt og tilgang til lokaler og utstyr etter [§ 14](lov/2023-12-20-108/§14)ileggelse og utmåling av tvangsmulkt og overtredelsesgebyrat den som forsettlig eller uaktsomt overtrer forskrift gitt i medhold av bokstav a, kan ilegges overtredelsesgebyrgjennomføring av forpliktelser som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre internasjonale avtaler, og som understøtter lovens regler eller formålbehandling av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, viderebehandling, utlevering og slettingnasjonalt kontaktpunkt for sikkerhet i nettverks- og informasjonssystemer.
+Kongen kan gi forskrift om
+
+1. krav til sikkerhet og varsling i samsvar med [§§ 7](lov/2023-12-20-108/§7), [8](lov/2023-12-20-108/§8), [10](lov/2023-12-20-108/§10) og [11](lov/2023-12-20-108/§11), herunder hva som regnes som tilsvarende krav etter [§ 5](lov/2023-12-20-108/§5)
+2. gjennomføring av tilsyn med tilbydere underlagt loven
+3. opplysningsplikt og tilgang til lokaler og utstyr etter [§ 14](lov/2023-12-20-108/§14)
+4. ileggelse og utmåling av tvangsmulkt og overtredelsesgebyr
+5. at den som forsettlig eller uaktsomt overtrer forskrift gitt i medhold av bokstav a, kan ilegges overtredelsesgebyr
+6. gjennomføring av forpliktelser som følger av [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre internasjonale avtaler, og som understøtter lovens regler eller formål
+7. behandling av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, viderebehandling, utlevering og sletting
+8. nasjonalt kontaktpunkt for sikkerhet i nettverks- og informasjonssystemer.
 
 ## Kapittel 6. Sikkerhetssertifisering
 
 ### § 19. Sikkerhetssertifisering av informasjons- og kommunikasjonsteknologi
 
-Kongen kan gi forskrift om sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesser for å gjennomføre forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl). Dette omfatter ogsåutpeking av sertifiseringsmyndighettilsyn med sertifiseringsorganer som tilbyr sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesserpålegg om retting, tvangsmulkt og overtredelsesgebyr ved overtredelse av krav til sikkerhetssertifisering.
+Kongen kan gi forskrift om sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesser for å gjennomføre forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl). Dette omfatter også
+
+1. utpeking av sertifiseringsmyndighet
+2. tilsyn med sertifiseringsorganer som tilbyr sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesser
+3. pålegg om retting, tvangsmulkt og overtredelsesgebyr ved overtredelse av krav til sikkerhetssertifisering.
 
 ## Kapittel 7. Sluttbestemmelser
 

@@ -15,7 +15,7 @@ xml_hash: "47ad8d17fcc4ca20230eddccf68527b0c6da9233037d717bc7938f498d338db3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,13 @@ Fylkeskommunen skal bidra med transportfaglige råd, og på anmodning fra depart
 
 ## § 4. Alminnelige plikter
 
-Fylkeskommunen skal:Avklare fylkets transportberedskapsbehov ved å avdekke hvilke kriser som kan utløse transportbehov, hvilke typer transportbehov det dreier seg om og hvordan organiseringen gjøres mest hensiktsmessig. Avklaring basert på risiko- og sårbarhetsanalyse (ROS-analyse) etter nærmere retningslinjer gitt av Samferdselsdepartementet anses tilstrekkelig.Utpeke og føre oversikt over løyvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller målepliktig fartøy og verksteder, herunder deres personell og transportmateriell, som kan ha en særskilt rolle innen den sivile transportberedskapen.Årlig avholde kontaktmøter med aktører som nevnt i bokstav b) og andre samarbeidsparter.Delta i beredskapsøvelser etter anmodning fra departement, statsforvalter, politiet eller Forsvaret.Orientere Samferdselsdepartementet om eventuelle avtaler som er inngått med aktører som nevnt i bokstav b) for planlegging og utførelsen av beredskapsoppdrag.
+Fylkeskommunen skal:
+
+1. Avklare fylkets transportberedskapsbehov ved å avdekke hvilke kriser som kan utløse transportbehov, hvilke typer transportbehov det dreier seg om og hvordan organiseringen gjøres mest hensiktsmessig. Avklaring basert på risiko- og sårbarhetsanalyse (ROS-analyse) etter nærmere retningslinjer gitt av Samferdselsdepartementet anses tilstrekkelig.
+2. Utpeke og føre oversikt over løyvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller målepliktig fartøy og verksteder, herunder deres personell og transportmateriell, som kan ha en særskilt rolle innen den sivile transportberedskapen.
+3. Årlig avholde kontaktmøter med aktører som nevnt i bokstav b) og andre samarbeidsparter.
+4. Delta i beredskapsøvelser etter anmodning fra departement, statsforvalter, politiet eller Forsvaret.
+5. Orientere Samferdselsdepartementet om eventuelle avtaler som er inngått med aktører som nevnt i bokstav b) for planlegging og utførelsen av beredskapsoppdrag.
 
 > Endret ved forskrift [10 des 2020 nr. 3342](forskrift/2020-12-10-3342) (i kraft 1 juni 2021).
 

@@ -28,13 +28,19 @@ Dersom petroleumsforekomst som dekkes av flere utvinningstillatelser omfordeles,
 
 Det samme gjelder dersom det inngås avtale om samordnet utnytting av petroleumsforekomster som dekkes av flere utvinningstillatelser, eller slik samordning bestemmes av offentlig myndighet med hjemmel i petroleumsloven § 16.
 
-Med omfordeling etter denne forskriften menes en ny fastsetting av deltakernes prosentvise andel av en petroleumsforekomst hvor følgende vilkår er oppfylt:fastsettingen er krevet på grunnlag av forutgående avtale mellom deltakerne, ogfastsettingen skal gis virkning enten for forekomstens levetid eller fra tidspunkt for samordning som nevnt i annet ledd eller fra tidspunkt for siste tidligere omfordeling, ogfastsettingen er basert på den kunnskap om forekomsten som er tilgjengelig på tidspunkt for omfordeling.
+Med omfordeling etter denne forskriften menes en ny fastsetting av deltakernes prosentvise andel av en petroleumsforekomst hvor følgende vilkår er oppfylt:
+
+1. fastsettingen er krevet på grunnlag av forutgående avtale mellom deltakerne, og
+2. fastsettingen skal gis virkning enten for forekomstens levetid eller fra tidspunkt for samordning som nevnt i annet ledd eller fra tidspunkt for siste tidligere omfordeling, og
+3. fastsettingen er basert på den kunnskap om forekomsten som er tilgjengelig på tidspunkt for omfordeling.
 
 ## § 2.
 
 Den som får redusert sin andel, skal i året for samordningen eller omfordelingen:
 
-(1) Redusere grunnlag for avskrivninger og grunnlag for friinntekt med de beløp som forholdsmessig tilsvarer reduksjonen i andelen.For driftsmidler som avskrives etter saldometode, jf. [skatteloven § 14-40](lov/1999-03-26-14/§14-40), skal reduksjonen foretas i det opprinnelige saldogrunnlag.
+(1) Redusere grunnlag for avskrivninger og grunnlag for friinntekt med de beløp som forholdsmessig tilsvarer reduksjonen i andelen.
+
+For driftsmidler som avskrives etter saldometode, jf. [skatteloven § 14-40](lov/1999-03-26-14/§14-40), skal reduksjonen foretas i det opprinnelige saldogrunnlag.
 
 (2) Redusere akkumulerte avskrivninger og akkumulert friinntekt med de beløp som tilsvarer henholdsvis det som er avskrevet for meget, og det som er gitt for meget i friinntekt i tidligere år basert på grunnlagene etter samordningen eller omfordelingen. Reduksjonene som skal gjøres etter forrige punktum skal tillegges deltagernes respektive inntektsgrunnlag.
 
@@ -46,7 +52,9 @@ Den som får redusert sin andel, skal i året for samordningen eller omfordeling
 
 Den som får øket sin andel, skal i året for samordningen eller omfordelingen:
 
-(1) Øke grunnlaget for avskrivninger og grunnlaget for friinntekt med de beløp som forholdsmessig tilsvarer økningen i andelen.For driftsmidler som avskrives etter saldometode, jf. [skatteloven § 14-40](lov/1999-03-26-14/§14-40), skal økningen foretas i det opprinnelige saldogrunnlag.
+(1) Øke grunnlaget for avskrivninger og grunnlaget for friinntekt med de beløp som forholdsmessig tilsvarer økningen i andelen.
+
+For driftsmidler som avskrives etter saldometode, jf. [skatteloven § 14-40](lov/1999-03-26-14/§14-40), skal økningen foretas i det opprinnelige saldogrunnlag.
 
 (2) Øke avskrivninger og friinntekt med beløp som tilsvarer henholdsvis det som er avskrevet for lite og det som er gitt for lite i friinntekt i tidligere år basert på grunnlagene etter samordningen eller omfordelingen.
 

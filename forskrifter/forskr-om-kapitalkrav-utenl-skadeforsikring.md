@@ -38,7 +38,12 @@ Kapitalen som nevnt i § 1 første ledd kan ikke være lavere enn de beløp som 
 
 ## § 3. Garanti
 
-Inntil halvparten av den kapital som kreves etter denne forskrift, kan erstattes av bank- eller forsikringsgaranti stillet overfor og godkjent av Finanstilsynet dersom garantien:er utstedt av bank eller kredittforsikringsselskap som ikke tilhører det konsern filialen inngår ier undergitt norsk rettkan gjøres gjeldende ved påkravtvist om dekning i garantien kan avgjøres ved søksmål her i riket.
+Inntil halvparten av den kapital som kreves etter denne forskrift, kan erstattes av bank- eller forsikringsgaranti stillet overfor og godkjent av Finanstilsynet dersom garantien:
+
+1. er utstedt av bank eller kredittforsikringsselskap som ikke tilhører det konsern filialen inngår i
+2. er undergitt norsk rett
+3. kan gjøres gjeldende ved påkrav
+4. tvist om dekning i garantien kan avgjøres ved søksmål her i riket.
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 

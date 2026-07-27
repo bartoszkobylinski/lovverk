@@ -15,7 +15,7 @@ xml_hash: "15059a6f0dca95232f25f2fdef5b433d90e2b635d07d0cac3ba5a07658562d03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,25 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med denne loven er åivareta rettssikkerheten for dem som kommer i kontakt med vektere,sikre god kvalitet på vakttjenester,legge forholdene til rette for en effektiv offentlig kontroll av virksomheten, oghindre vaktvirksomhet som på grunn av sin militære eller annen sikkerhetsmessige karakter er uforenlig med vaktvirksomhet etter denne loven, eller for øvrig er ulovlig eller i strid med internasjonal rett.
+Formålet med denne loven er å
+
+1. ivareta rettssikkerheten for dem som kommer i kontakt med vektere,
+2. sikre god kvalitet på vakttjenester,
+3. legge forholdene til rette for en effektiv offentlig kontroll av virksomheten, og
+4. hindre vaktvirksomhet som på grunn av sin militære eller annen sikkerhetsmessige karakter er uforenlig med vaktvirksomhet etter denne loven, eller for øvrig er ulovlig eller i strid med internasjonal rett.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 85](lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](forskrift/2011-04-01-342)).
 
 ## § 2. Virkeområde
 
-Loven gjelder for ervervsmessig vaktvirksomhet og egenvakthold. Med ervervsmessig vaktvirksomhet forstås i loven her virksomhet som går ut på å utføre vakttjenester mot vederlag. Med egenvakthold menes vakttjenester av egen privat eiendom og egne statlige og kommunale eiendommer, med tilliggende bygninger og ansatte, så lenge vaktholdet utføres av virksomhetens egne ansatte. Med vakttjenester forstås tjenester der det ved bruk av personer, TV-overvåking, elektronisk overvåking eller på annen måte:utføres tilsyn med privat område eller offentlig område,utføres kontrolltjenester,utføres verditransporter,utføres ledsagertjenester,mottas og behandles alarmsignaler fra overfalls- eller innbruddsalarmanlegg eller utrykning etter slike signaler etter avtale, elleropplæring i vakttjenester.
+Loven gjelder for ervervsmessig vaktvirksomhet og egenvakthold. Med ervervsmessig vaktvirksomhet forstås i loven her virksomhet som går ut på å utføre vakttjenester mot vederlag. Med egenvakthold menes vakttjenester av egen privat eiendom og egne statlige og kommunale eiendommer, med tilliggende bygninger og ansatte, så lenge vaktholdet utføres av virksomhetens egne ansatte. Med vakttjenester forstås tjenester der det ved bruk av personer, TV-overvåking, elektronisk overvåking eller på annen måte:
+
+1. utføres tilsyn med privat område eller offentlig område,
+2. utføres kontrolltjenester,
+3. utføres verditransporter,
+4. utføres ledsagertjenester,
+5. mottas og behandles alarmsignaler fra overfalls- eller innbruddsalarmanlegg eller utrykning etter slike signaler etter avtale, eller
+6. opplæring i vakttjenester.
 
 Loven gjelder ervervsmessig vaktvirksomhet og egenvakthold som drives av private eller forvaltningsorgan. Med forvaltningsorgan forstås i loven her ethvert organ for stat eller kommune.
 
@@ -46,11 +58,20 @@ For å utøve ervervsmessig vaktvirksomhet eller egenvakthold i henhold til [§ 
 
 Foretaket må være registrert i Foretaksregisteret før tillatelse gis. Foretaket må ha fast forretningssted i riket. Tillatelsen kan gis til selskap, stiftelse eller annen sammenslutning når samtlige medlemmer av styret i et aksjeselskap eller annen sammenslutning med begrenset ansvar oppfyller kravene i tredje ledd bokstav a til d, og samtlige fullt ansvarlige deltakere i ansvarlig selskap eller kommandittselskap oppfyller kravene i tredje ledd bokstav a til d.
 
-Enpersonsforetak må være registrert i Enhetsregisteret før innehaveren kan gis tillatelse. Organisasjonsnummer må oppgis i søknaden. Innehaveren må dessuten:være fylt 21 år,ha tilfredsstillende vandel,være statsborger i stat som er part i EØS-avtalen, ogfor øvrig inneha nødvendig tillit og ikke anses uskikket til å utøve vaktvirksomhet på forsvarlig måte.
+Enpersonsforetak må være registrert i Enhetsregisteret før innehaveren kan gis tillatelse. Organisasjonsnummer må oppgis i søknaden. Innehaveren må dessuten:
+
+1. være fylt 21 år,
+2. ha tilfredsstillende vandel,
+3. være statsborger i stat som er part i EØS-avtalen, og
+4. for øvrig inneha nødvendig tillit og ikke anses uskikket til å utøve vaktvirksomhet på forsvarlig måte.
 
 Dersom foretaket eller enpersonsforetaket har daglig leder, må også denne fylle vilkårene i tredje ledd bokstav a til d.
 
-Personer som har vesentlig innflytelse på virksomheten, må fylle kravet til tilfredsstillende vandel. Personer som eier en vesentlig del av virksomheten eller av foretak som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, vil alltid anses å ha vesentlig innflytelse på virksomheten. I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,slektninger i rett oppstigende eller nedstigende linje samt søsken,ektefelle til person som nevnt i punkt b eller personer som bor i ekteskapslignende forhold sammen med person som nevnt i punkt b.
+Personer som har vesentlig innflytelse på virksomheten, må fylle kravet til tilfredsstillende vandel. Personer som eier en vesentlig del av virksomheten eller av foretak som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, vil alltid anses å ha vesentlig innflytelse på virksomheten. I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:
+
+1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. slektninger i rett oppstigende eller nedstigende linje samt søsken,
+3. ektefelle til person som nevnt i punkt b eller personer som bor i ekteskapslignende forhold sammen med person som nevnt i punkt b.
 
 Det kan i særlige tilfeller gjøres unntak fra kravet til alder i tredje ledd bokstav a.
 
@@ -98,7 +119,13 @@ Politiet har plikt til å varsle vaktforetaket om ansatte, som skal utføre vakt
 
 ## § 9. Krav til utdanning
 
-Den som skal utføre ansvarlig vakttjeneste, må ha gjennomført godkjent utdanning for vektere. Slik utdanning skal bestå aven teoretisk del gjennomført før ansettelse,praksisopplæring i vakttjeneste, herunder objektopplæring,oppsummerende teorikurs og avsluttende eksamen,eventuell tilleggsutdannelse for utførelse av spesialtjeneste ogbestått regodkjenning hvert 4 år.
+Den som skal utføre ansvarlig vakttjeneste, må ha gjennomført godkjent utdanning for vektere. Slik utdanning skal bestå av
+
+1. en teoretisk del gjennomført før ansettelse,
+2. praksisopplæring i vakttjeneste, herunder objektopplæring,
+3. oppsummerende teorikurs og avsluttende eksamen,
+4. eventuell tilleggsutdannelse for utførelse av spesialtjeneste og
+5. bestått regodkjenning hvert 4 år.
 
 > Endret ved [lov 19 juni 2009 nr. 85](lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](forskrift/2011-04-01-342), tidligere § 8).
 
@@ -176,7 +203,14 @@ Fortegnelsen over godkjente vaktforetak skal være offentlig.
 
 Departementet skal gi forskrifter om egenvakthold, krav til uttømmende og utvidet politiattest for personer som nevnt i [§ 3](lov/2001-01-05-1/§3), den nærmere gjennomføringen av [§ 4](lov/2001-01-05-1/§4) første ledd annet punktum (årlig kontroll), [§ 8](lov/2001-01-05-1/§8) første ledd første og annet punktum (kravet om tilfredsstillende vandel og om politiattest), [§ 9](lov/2001-01-05-1/§9) (krav til utdanning, herunder om dispensasjon fra utdanningskravet og om godkjenning av utenlandske utdanninger), [§ 10](lov/2001-01-05-1/§10) (uniformering), [§ 11](lov/2001-01-05-1/§11) (legitimasjon), [§ 13](lov/2001-01-05-1/§13) (bruk av hund) og [§ 16](lov/2001-01-05-1/§16) (opplysnings- og rapporteringsplikt).
 
-Før en behandling etter § 18 kan iverksettes, skal departementet i forskrift fastsette nærmere bestemmelser omformålet med behandlingen,hvem som er behandlingsansvarlig,hvilke opplysningskategorier som skal registreres,hvem i politiet som har tilgang til opplysningene,og adgangen til å utlevere opplysningene, ogde nærmere regler for retting, sperring og sletting av opplysninger.
+Før en behandling etter § 18 kan iverksettes, skal departementet i forskrift fastsette nærmere bestemmelser om
+
+1. formålet med behandlingen,
+2. hvem som er behandlingsansvarlig,
+3. hvilke opplysningskategorier som skal registreres,
+4. hvem i politiet som har tilgang til opplysningene,
+5. og adgangen til å utlevere opplysningene, og
+6. de nærmere regler for retting, sperring og sletting av opplysninger.
 
 Departementet kan i forskrift gi nærmere regler om gjennomføringen av [§ 14](lov/2001-01-05-1/§14) (plikt til å tegne forsikring), herunder frita forvaltningsorganer som driver vaktvirksomhet fra plikten til å tegne ansvarsforsikring.
 

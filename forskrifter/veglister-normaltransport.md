@@ -26,10 +26,39 @@ eu_basis: []
 
 For gjeldende bestemmelser om vekter og dimensjoner vises til [forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy kapittel 5](forskrift/1990-01-25-92/kap5).
 
-Veglister for normaltransport på riks-, fylkes- og kommunale veger:Agder: [pdf-fil](static/SF/sf-20231024-1694-01-27.pdf)Akershus: [pdf-fil](static/SF/sf-20231024-1694-02-28.pdf)Buskerud: [pdf-fil](static/SF/sf-20231024-1694-03-28.pdf)Finnmark: [pdf-fil](static/SF/sf-20231024-1694-04-16.pdf)Innlandet: [pdf-fil](static/SF/sf-20231024-1694-05-28.pdf)Møre og Romsdal: [pdf-fil](static/SF/sf-20231024-1694-06-28.pdf)Nordland: [pdf-fil](static/SF/sf-20231024-1694-07-28.pdf)Oslo: [pdf-fil](static/SF/sf-20231024-1694-08-9.pdf)Rogaland: [pdf-fil](static/SF/sf-20231024-1694-09-27.pdf)Telemark: [pdf-fil](static/SF/sf-20231024-1694-10-23.pdf)Troms: [pdf-fil](static/SF/sf-20231024-1694-11-25.pdf)Trøndelag: [pdf-fil](static/SF/sf-20231024-1694-12-28.pdf)Vestfold: [pdf-fil](static/SF/sf-20231024-1694-13-23.pdf)Vestland: [pdf-fil](static/SF/sf-20231024-1694-14-26.pdf)Østfold: [pdf-fil](static/SF/sf-20231024-1694-15-25.pdf)
+Veglister for normaltransport på riks-, fylkes- og kommunale veger:
+
+1. Agder: [pdf-fil](static/SF/sf-20231024-1694-01-27.pdf)
+2. Akershus: [pdf-fil](static/SF/sf-20231024-1694-02-28.pdf)
+3. Buskerud: [pdf-fil](static/SF/sf-20231024-1694-03-28.pdf)
+4. Finnmark: [pdf-fil](static/SF/sf-20231024-1694-04-16.pdf)
+5. Innlandet: [pdf-fil](static/SF/sf-20231024-1694-05-28.pdf)
+6. Møre og Romsdal: [pdf-fil](static/SF/sf-20231024-1694-06-28.pdf)
+7. Nordland: [pdf-fil](static/SF/sf-20231024-1694-07-28.pdf)
+8. Oslo: [pdf-fil](static/SF/sf-20231024-1694-08-9.pdf)
+9. Rogaland: [pdf-fil](static/SF/sf-20231024-1694-09-27.pdf)
+10. Telemark: [pdf-fil](static/SF/sf-20231024-1694-10-23.pdf)
+11. Troms: [pdf-fil](static/SF/sf-20231024-1694-11-25.pdf)
+12. Trøndelag: [pdf-fil](static/SF/sf-20231024-1694-12-28.pdf)
+13. Vestfold: [pdf-fil](static/SF/sf-20231024-1694-13-23.pdf)
+14. Vestland: [pdf-fil](static/SF/sf-20231024-1694-14-26.pdf)
+15. Østfold: [pdf-fil](static/SF/sf-20231024-1694-15-25.pdf)
 
 > Endret ved forskrifter [27 feb 2024 nr. 342](forskrift/2024-02-27-342) (i kraft 1 mars 2024), [22 mars 2024 nr. 503](forskrift/2024-03-22-503) (i kraft 1 april 2024), [25 april 2024 nr. 695](forskrift/2024-04-25-695) (i kraft 1 mai 2024), [24 mai 2024 nr. 852](forskrift/2024-05-24-852) (i kraft 1 juni 2024), [26 juni 2024 nr. 1355](forskrift/2024-06-26-1355) (i kraft 1 juli 2024), [26 juli 2024 nr. 1838](forskrift/2024-07-26-1838) (i kraft 1 aug 2024), [26 aug 2024 nr. 2027](forskrift/2024-08-26-2027) (i kraft 1 sep 2024), [27 sep 2024 nr. 2318](forskrift/2024-09-27-2318) (i kraft 1 okt 2024), [10 okt 2024 nr. 2448](forskrift/2024-10-10-2448), [25 okt 2024 nr. 2557](forskrift/2024-10-25-2557) (i kraft 1 nov 2024), [26 nov 2024 nr. 2875](forskrift/2024-11-26-2875) (i kraft 1 des 2024), [27 jan 2025 nr. 88](forskrift/2025-01-27-88) (i kraft 1 feb 2025), [26 feb 2025 nr. 322](forskrift/2025-02-26-322) (i kraft 1 mars 2025), [25 mars 2025 nr. 532](forskrift/2025-03-25-532) (i kraft 1 april 2025), [28 april 2025 nr. 700](forskrift/2025-04-28-700) (i kraft 1 mai 2025), [28 april 2025 nr. 700](forskrift/2025-04-28-700) (i kraft 1 mai 2025), [26 mai 2025 nr. 871](forskrift/2025-05-26-871) (i kraft 1 juni 2025), [25 juni 2025 nr. 1314](forskrift/2025-06-25-1314) (i kraft 1 juli 2025), [28 juli 2025 nr. 1563](forskrift/2025-07-28-1563) (i kraft 1 aug 2025), [26 aug 2025 nr. 1728](forskrift/2025-08-26-1728) (i kraft 1 sep 2025), [25 sep 2025 nr. 1946](forskrift/2025-09-25-1946) (i kraft 1 okt 2025), [27 okt 2025 nr. 2109](forskrift/2025-10-27-2109) (i kraft 1 nov 2025), [25 nov 2025 nr. 2342](forskrift/2025-11-25-2342) (i kraft 1 des 2025), [26 jan 2026 nr. 96](forskrift/2026-01-26-96) (i kraft 1 feb 2026), [26 feb 2026 nr. 301](forskrift/2026-02-26-301) (i kraft 1 mars 2026), [25 mars 2026 nr. 488](forskrift/2026-03-25-488) (i kraft 1 april 2026), [27 april 2026 nr. 657](forskrift/2026-04-27-657) (i kraft 1 mai 2026), [26 mai 2026 nr. 942](forskrift/2026-05-26-942) (i kraft 1 juni 2026), [25 juni 2026 nr. 1364](forskrift/2026-06-25-1364) (i kraft 1 juli 2026).
 
 ## § 2. Ikrafttredelse
 
-Forskriften trer i kraft 1. november 2023. Fra samme tidspunkt oppheves:[Forskrift 21. april 2023 nr. 533 om normaltransport på riksveger (vegliste riksveger normaltransport)](forskrift/2023-04-21-533)[Forskrift 7. juni 2023 nr. 826 om normaltransport på fylkes- og kommunale veger, Agder](forskrift/2023-06-07-826)[Forskrift 21. april 2023 nr. 546 om normaltransport på fylkes- og kommunale veger, Innlandet](forskrift/2023-04-21-546)[Forskrift 21. april 2023 nr. 599 om normaltransport på fylkes- og kommunale vegar, Møre og Romsdal](forskrift/2023-04-21-599)[Forskrift 21. april 2023 nr. 547 om normaltransport på fylkes- og kommunale veger, Nordland](forskrift/2023-04-21-547)[Forskrift 21. april 2023 nr. 553 om normaltransport på kommunale veger, Oslo](forskrift/2023-04-21-553)[Forskrift 21. april 2023 nr. 548 om normaltransport på fylkes- og kommunale veger, Rogaland](forskrift/2023-04-21-548)[Forskrift 21. april 2023 nr. 549 om normaltransport på fylkes- og kommunale veger, Troms og Finnmark](forskrift/2023-04-21-549)[Forskrift 21. april 2023 nr. 550 om normaltransport på fylkes- og kommunale veger, Trøndelag](forskrift/2023-04-21-550)[Forskrift 21. april 2023 nr. 551 om normaltransport på fylkes- og kommunale veger, Vestfold og Telemark](forskrift/2023-04-21-551)[Forskrift 21. april 2023 nr. 600 om normaltransport på fylkes- og kommunale vegar, Vestland](forskrift/2023-04-21-600)[Forskrift 21. april 2023 nr. 552 om normaltransport på fylkes- og kommunale veger, Viken](forskrift/2023-04-21-552).
+Forskriften trer i kraft 1. november 2023. Fra samme tidspunkt oppheves:
+
+1. [Forskrift 21. april 2023 nr. 533 om normaltransport på riksveger (vegliste riksveger normaltransport)](forskrift/2023-04-21-533)
+2. [Forskrift 7. juni 2023 nr. 826 om normaltransport på fylkes- og kommunale veger, Agder](forskrift/2023-06-07-826)
+3. [Forskrift 21. april 2023 nr. 546 om normaltransport på fylkes- og kommunale veger, Innlandet](forskrift/2023-04-21-546)
+4. [Forskrift 21. april 2023 nr. 599 om normaltransport på fylkes- og kommunale vegar, Møre og Romsdal](forskrift/2023-04-21-599)
+5. [Forskrift 21. april 2023 nr. 547 om normaltransport på fylkes- og kommunale veger, Nordland](forskrift/2023-04-21-547)
+6. [Forskrift 21. april 2023 nr. 553 om normaltransport på kommunale veger, Oslo](forskrift/2023-04-21-553)
+7. [Forskrift 21. april 2023 nr. 548 om normaltransport på fylkes- og kommunale veger, Rogaland](forskrift/2023-04-21-548)
+8. [Forskrift 21. april 2023 nr. 549 om normaltransport på fylkes- og kommunale veger, Troms og Finnmark](forskrift/2023-04-21-549)
+9. [Forskrift 21. april 2023 nr. 550 om normaltransport på fylkes- og kommunale veger, Trøndelag](forskrift/2023-04-21-550)
+10. [Forskrift 21. april 2023 nr. 551 om normaltransport på fylkes- og kommunale veger, Vestfold og Telemark](forskrift/2023-04-21-551)
+11. [Forskrift 21. april 2023 nr. 600 om normaltransport på fylkes- og kommunale vegar, Vestland](forskrift/2023-04-21-600)
+12. [Forskrift 21. april 2023 nr. 552 om normaltransport på fylkes- og kommunale veger, Viken](forskrift/2023-04-21-552).

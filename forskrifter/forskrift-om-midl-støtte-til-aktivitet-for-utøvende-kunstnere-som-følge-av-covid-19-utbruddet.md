@@ -32,7 +32,11 @@ Målgruppen er profesjonelle utøvende kunstnere som er rammet av covid-19-utbru
 
 ## § 3. Generelle vilkår
 
-Det kan etter søknad gis støtte når følgende vilkår er oppfylt:Søkeren er utøvende kunstner og har dette som hovederverv som frilanser, personlig næringsdrivende eller ansatt i egen virksomhet.Kunstneren bor og har hovedsakelig sitt virke i Norge.Kunstneren har oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet.
+Det kan etter søknad gis støtte når følgende vilkår er oppfylt:
+
+1. Søkeren er utøvende kunstner og har dette som hovederverv som frilanser, personlig næringsdrivende eller ansatt i egen virksomhet.
+2. Kunstneren bor og har hovedsakelig sitt virke i Norge.
+3. Kunstneren har oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet.
 
 ## § 4. Hva det kan gis støtte til
 
@@ -48,7 +52,13 @@ Tildelt støtte utbetales ikke dersom det innen utbetalingen blir åpnet konkurs
 
 ## § 6. Krav til søknaden
 
-Søknaden skal blant annet inneholde følgende opplysninger:Erklæring om at vilkårene i [§ 3](forskrift/2020-07-01-1462/§3) er oppfylt.Beskrivelse av kunstnerisk aktivitet som det søkes om støtte til etter [§ 4](forskrift/2020-07-01-1462/§4).Opplysning om hvorvidt søker har mottatt støtte eller kompensasjonsytelser utenfor denne ordningen, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd tredje punktum.Opplysning om søkerens oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd fjerde punktum.Erklæring om at søker ikke er under konkursbehandling.
+Søknaden skal blant annet inneholde følgende opplysninger:
+
+1. Erklæring om at vilkårene i [§ 3](forskrift/2020-07-01-1462/§3) er oppfylt.
+2. Beskrivelse av kunstnerisk aktivitet som det søkes om støtte til etter [§ 4](forskrift/2020-07-01-1462/§4).
+3. Opplysning om hvorvidt søker har mottatt støtte eller kompensasjonsytelser utenfor denne ordningen, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd tredje punktum.
+4. Opplysning om søkerens oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd fjerde punktum.
+5. Erklæring om at søker ikke er under konkursbehandling.
 
 Fond for utøvende kunstnere kan be om ytterligere opplysninger som er nødvendige for behandling av søknader etter denne forskriften.
 

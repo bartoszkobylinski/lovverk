@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Denne lova gjeld samkvem med:Stat som Noreg er i krig med (fiendestat).Fysisk person som bur eller har fast tilhald på fiendeområde.Juridisk person (selskap, lag, korporasjon eller stifting), privat eller offentleg, som har setet sitt på fiendeområde eller er under kontroll av rettssubjekt som nemnt i litra a, b eller d.Andre offentlege eller private rettssubjekt når Kongen eller den han gjev fullmakt så fastset.
+Denne lova gjeld samkvem med:
+
+1. Stat som Noreg er i krig med (fiendestat).
+2. Fysisk person som bur eller har fast tilhald på fiendeområde.
+3. Juridisk person (selskap, lag, korporasjon eller stifting), privat eller offentleg, som har setet sitt på fiendeområde eller er under kontroll av rettssubjekt som nemnt i litra a, b eller d.
+4. Andre offentlege eller private rettssubjekt når Kongen eller den han gjev fullmakt så fastset.
 
 Med fiendeområde er i denne lova meint område som fiendestat har høgste retten (suvereniteten) over og som ikkje er hersett av norske eller allierte styrker og dessutan område som ein fiendestat har hersett. Det same gjeld område som Kongen eller den han gjev fullmakt har fastsett skal reknast for fiendeområde.
 
@@ -32,7 +37,13 @@ Med fiendeområde er i denne lova meint område som fiendestat har høgste rette
 
 Det er forbode å ha samkvem med rettssubjekt som nemnt i [§ 1](lov/1950-12-15-3/§1) eller fara fram på ein måte som er eigna til å skaffe slikt rettssubjekt føremon.
 
-Det er soleis m.a. forbode:Å gjere avtale med eller til føremon for slikt rettssubjekt.Å ta på seg skyldnad andsynes eller til føremon for slikt rettssubjekt.Å yta teneste, levera gods eller verdepapir, betala pengar, skipa eller overføra rettar av kva slag det så er til slikt rettssubjekt eller til føremon for slikt rettssubjekt.Å ta mot teneste, gods, verdepapir eller anna yting frå slikt rettssubjekt.På kva måte det så er beinveges eller ved mellommann å senda melding av kva slag det måtte vera til slikt rettssubjekt.
+Det er soleis m.a. forbode:
+
+1. Å gjere avtale med eller til føremon for slikt rettssubjekt.
+2. Å ta på seg skyldnad andsynes eller til føremon for slikt rettssubjekt.
+3. Å yta teneste, levera gods eller verdepapir, betala pengar, skipa eller overføra rettar av kva slag det så er til slikt rettssubjekt eller til føremon for slikt rettssubjekt.
+4. Å ta mot teneste, gods, verdepapir eller anna yting frå slikt rettssubjekt.
+5. På kva måte det så er beinveges eller ved mellommann å senda melding av kva slag det måtte vera til slikt rettssubjekt.
 
 Forbodet gjeld ikkje gjerningar som er gjorde i offentleg ærend.
 

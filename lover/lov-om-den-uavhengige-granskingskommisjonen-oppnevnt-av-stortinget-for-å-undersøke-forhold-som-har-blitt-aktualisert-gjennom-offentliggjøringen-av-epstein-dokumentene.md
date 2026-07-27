@@ -102,7 +102,13 @@ Kommisjonen kan innenfor sitt mandat anmode EOS-utvalget om å innhente opplysni
 
 ### § 14. Dokumentinnsyn og møteoffentlighet
 
-Retten til innsyn etter [offentleglova](lov/2006-05-19-16) gjelder for kommisjonens arbeid med følgende unntak og presiseringer:Kommisjonen kan bestemme at krav om innsyn i dokument som er oversendt fra organ som er omfattet av [offentleglova](lov/2006-05-19-16) eller annen regulering av offentlighet og innsyn, og som gjelder forhold som er omfattet av mandatet til kommisjonen, skal behandles av avsenderorganet. Er et slikt dokument påført påtegning om at det er unntatt fra innsyn etter [offentleglova](lov/2006-05-19-16) eller andre regler om offentlighet og innsyn, kan det i kommisjonen uten videre unntas fra innsyn. Ved avslag på innsyn etter denne bestemmelsen skal det informeres om at innsynskrav kan rettes til avsenderorganet.Forklaringer gitt til kommisjonen er unntatt fra innsyn.Henvendelser om kritikkverdige forhold som faller innenfor kommisjonens mandat og kommisjonens svar på slike henvendelser, kan unntas fra innsyn.Dokumenter eller opplysninger kan, når særlige grunner tilsier det, unntas fra innsyn dersom det er nødvendig av hensyn til gjennomføringen av granskingen.Dokumenter som utveksles mellom Stortinget og kommisjonen, og som gjelder kommisjonens budsjett og interne administrasjon, kan unntas offentlighet. Unntaksadgangen for budsjettdokumenter gjelder bare frem til Stortinget har vedtatt budsjettet.
+Retten til innsyn etter [offentleglova](lov/2006-05-19-16) gjelder for kommisjonens arbeid med følgende unntak og presiseringer:
+
+1. Kommisjonen kan bestemme at krav om innsyn i dokument som er oversendt fra organ som er omfattet av [offentleglova](lov/2006-05-19-16) eller annen regulering av offentlighet og innsyn, og som gjelder forhold som er omfattet av mandatet til kommisjonen, skal behandles av avsenderorganet. Er et slikt dokument påført påtegning om at det er unntatt fra innsyn etter [offentleglova](lov/2006-05-19-16) eller andre regler om offentlighet og innsyn, kan det i kommisjonen uten videre unntas fra innsyn. Ved avslag på innsyn etter denne bestemmelsen skal det informeres om at innsynskrav kan rettes til avsenderorganet.
+2. Forklaringer gitt til kommisjonen er unntatt fra innsyn.
+3. Henvendelser om kritikkverdige forhold som faller innenfor kommisjonens mandat og kommisjonens svar på slike henvendelser, kan unntas fra innsyn.
+4. Dokumenter eller opplysninger kan, når særlige grunner tilsier det, unntas fra innsyn dersom det er nødvendig av hensyn til gjennomføringen av granskingen.
+5. Dokumenter som utveksles mellom Stortinget og kommisjonen, og som gjelder kommisjonens budsjett og interne administrasjon, kan unntas offentlighet. Unntaksadgangen for budsjettdokumenter gjelder bare frem til Stortinget har vedtatt budsjettet.
 
 Kommisjonens avslag på innsynskrav kan ikke påklages.
 

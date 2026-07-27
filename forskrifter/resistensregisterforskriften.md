@@ -15,7 +15,7 @@ xml_hash: "f2016b2ed923e6032c5475cf2be0f1a7ba048e9ac2bfc3f2dc9da5a398117615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,13 +40,29 @@ Innsamling og behandling av helseopplysninger i NORM og RAVN kan skje manuelt og
 
 NORM inneholder avidentifiserte helseopplysninger om personer som har avgitt prøve med nærmere bestemte bakterie- og sopparter, opplysninger om disse mikroorganismene og om deres resistens mot antibiotika og antimykotika. RAVN inneholder avidentifiserte helseopplysninger om personer som har avgitt prøve med nærmere bestemte virus, opplysninger om disse virus og om deres resistens mot antiviralia.
 
-Den databehandlingsansvarlige bestemmer i samråd med fagmiljøene hvilke bakterie- og sopparter og antibiotika og antimykotika og hvilke virus og antiviralia, jf. første ledd, som skal inkluderes i NORM og RAVN. Ved valg av bakterie- og sopparter i NORM skal det blant annet tas hensyn til:klinisk viktige bakterie- og sopparter, for eksempel bakterier og sopp som ofte fører til sykdom, som gir særlig alvorlig sykdom eller som man har få antibiotika eller antimykotika mot,bakterie- og sopparter som man frykter vil bli resistente i nær fremtid, eller som har utviklet resistens i andre land,bakterie- og sopparter som kan forekomme i næringsmidler eller som ofte er importert,bakterie- og sopparter som lett erverver resistens og dermed tidlig signaliserer at det foreligger et uheldig seleksjonspress, men som ikke nødvendigvis er sykdomsfremkallende (indikatormikrober).
+Den databehandlingsansvarlige bestemmer i samråd med fagmiljøene hvilke bakterie- og sopparter og antibiotika og antimykotika og hvilke virus og antiviralia, jf. første ledd, som skal inkluderes i NORM og RAVN. Ved valg av bakterie- og sopparter i NORM skal det blant annet tas hensyn til:
 
-Ved valg av antibiotika og antimykotika i NORM, skal det blant annet tas hensyn til:klinisk viktige antibiotika og antimykotika, dvs. antibiotika og antimykotika som vanligvis benyttes i empirisk behandling av infeksjoner med de aktuelle bakterier og sopper, og som er representative for de aktuelle gruppene av antibiotika og antimykotika, ogantibiotika og antimykotika som det ofte utvikles resistens mot tidlig, eller som indikerer prinsipielt viktige resistensmekanismer (indikatorantibiotika, indikatorantimykotika).
+- klinisk viktige bakterie- og sopparter, for eksempel bakterier og sopp som ofte fører til sykdom, som gir særlig alvorlig sykdom eller som man har få antibiotika eller antimykotika mot,
+- bakterie- og sopparter som man frykter vil bli resistente i nær fremtid, eller som har utviklet resistens i andre land,
+- bakterie- og sopparter som kan forekomme i næringsmidler eller som ofte er importert,
+- bakterie- og sopparter som lett erverver resistens og dermed tidlig signaliserer at det foreligger et uheldig seleksjonspress, men som ikke nødvendigvis er sykdomsfremkallende (indikatormikrober).
 
-Ved valg av virus i RAVN skal det blant annet tas hensyn til:klinisk viktige virus som har folkehelsemessig betydning og som det finnes antiviralia mot,virus som man frykter vil bli resistente i fremtiden, eller som har utviklet resistens i andre land,virus som kan skape helseproblemer i dyreoppdrett og ha humanmedisinsk betydning.
+Ved valg av antibiotika og antimykotika i NORM, skal det blant annet tas hensyn til:
 
-Ved valg av antiviralia i RAVN skal det blant annet tas hensyn til:klinisk viktige antiviralia, spesielt de som benyttes i empirisk behandling av virusinfeksjoner,antiviralia som det ofte utvikles resistens mot tidlig i behandlingsforløpet,resistens som indikerer prinsipielt viktige resistensmekanismer for eksempel mot grupper av antiviralia.
+- klinisk viktige antibiotika og antimykotika, dvs. antibiotika og antimykotika som vanligvis benyttes i empirisk behandling av infeksjoner med de aktuelle bakterier og sopper, og som er representative for de aktuelle gruppene av antibiotika og antimykotika, og
+- antibiotika og antimykotika som det ofte utvikles resistens mot tidlig, eller som indikerer prinsipielt viktige resistensmekanismer (indikatorantibiotika, indikatorantimykotika).
+
+Ved valg av virus i RAVN skal det blant annet tas hensyn til:
+
+- klinisk viktige virus som har folkehelsemessig betydning og som det finnes antiviralia mot,
+- virus som man frykter vil bli resistente i fremtiden, eller som har utviklet resistens i andre land,
+- virus som kan skape helseproblemer i dyreoppdrett og ha humanmedisinsk betydning.
+
+Ved valg av antiviralia i RAVN skal det blant annet tas hensyn til:
+
+- klinisk viktige antiviralia, spesielt de som benyttes i empirisk behandling av virusinfeksjoner,
+- antiviralia som det ofte utvikles resistens mot tidlig i behandlingsforløpet,
+- resistens som indikerer prinsipielt viktige resistensmekanismer for eksempel mot grupper av antiviralia.
 
 > Endret ved [forskrift 25 april 2014 nr. 588](forskrift/2014-04-25-588) (i kraft 1 juli 2014).
 
@@ -58,9 +74,19 @@ Med avidentifiserte opplysninger forstås i denne forskriften helseopplysninger 
 
 ### § 1-3. (Formålet med NORM og RAVN)
 
-Formålet med NORM er å:innsamle og behandle data om bakterie- og soppisolaters resistens mot antibiotika og antimykotika for å kartlegge forekomst og utbredelse av resistens mot slike midler og belyse endringer over tid,drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til bakteriers og sopps utvikling av resistens mot antibiotika og antimykotika, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av bakterier og sopp,bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antibiotika og antimykotika,gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.
+Formålet med NORM er å:
 
-Formålet med RAVN er å:innsamle og behandle data om virusresistens mot antiviralia for å kartlegge forekomst og utbredelse av resistens mot antiviralia og belyse endringer over tid,drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til virus utvikling av resistens mot antiviralia, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot antiviral resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av virus,bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antiviralia,gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.
+1. innsamle og behandle data om bakterie- og soppisolaters resistens mot antibiotika og antimykotika for å kartlegge forekomst og utbredelse av resistens mot slike midler og belyse endringer over tid,
+2. drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til bakteriers og sopps utvikling av resistens mot antibiotika og antimykotika, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av bakterier og sopp,
+3. bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antibiotika og antimykotika,
+4. gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.
+
+Formålet med RAVN er å:
+
+1. innsamle og behandle data om virusresistens mot antiviralia for å kartlegge forekomst og utbredelse av resistens mot antiviralia og belyse endringer over tid,
+2. drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til virus utvikling av resistens mot antiviralia, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot antiviral resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av virus,
+3. bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antiviralia,
+4. gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.
 
 > Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [25 april 2014 nr. 588](forskrift/2014-04-25-588) (i kraft 1 juli 2014).
 
@@ -86,7 +112,23 @@ Folkehelseinstituttet skal inngå skriftlig avtale med databehandler om innsamli
 
 ### § 1-7. (Opplysninger i NORM og RAVN)
 
-NORM og RAVN kan inneholde følgende opplysninger om personer som har avgitt prøve med bakterier, sopp eller virus, som er bestemt inkludert i NORM eller RAVN, jf. [§ 1-2](forskrift/2003-11-14-1353/§1-2) annet ledd:avidentifiserte personopplysninger:mikrobiologiske laboratoriums løpenummer til bakterie- eller soppisolatet eller viruset,pasientens bostedskommune,pasientens alder og kjønn,administrative opplysninger:virksomhet som har innsendt opplysningene om prøven som inneholdt bakterie- eller soppisolatet eller viruset,mikrobiologisk laboratorium som har påvist bakterie- eller soppisolatet eller viruset og undersøkt det med hensyn til resistens mot antibiotika, antimykotika og antiviralia, samt tidspunkt for slik isolasjon eller påvisning og undersøkelse,om bakterie- eller soppisolatet eller viruset:hvilken type bakterie, sopp eller virus som er isolert eller påvist,smittested dersom dette er relevant for den påviste bakterie, sopp eller virus,hvilken type prøvemateriale bakterie, sopp eller virus er isolert eller påvist fra,hvilke egenskaper bakterie- eller soppisolatet eller viruset har ved undersøkelse av resistens mot antibiotika, antimykotika eller antiviralia og opplysninger om hvilken metode som er brukt ved denne undersøkelsen.
+NORM og RAVN kan inneholde følgende opplysninger om personer som har avgitt prøve med bakterier, sopp eller virus, som er bestemt inkludert i NORM eller RAVN, jf. [§ 1-2](forskrift/2003-11-14-1353/§1-2) annet ledd:
+
+1. avidentifiserte personopplysninger:
+
+   - mikrobiologiske laboratoriums løpenummer til bakterie- eller soppisolatet eller viruset,
+   - pasientens bostedskommune,
+   - pasientens alder og kjønn,
+2. administrative opplysninger:
+
+   - virksomhet som har innsendt opplysningene om prøven som inneholdt bakterie- eller soppisolatet eller viruset,
+   - mikrobiologisk laboratorium som har påvist bakterie- eller soppisolatet eller viruset og undersøkt det med hensyn til resistens mot antibiotika, antimykotika og antiviralia, samt tidspunkt for slik isolasjon eller påvisning og undersøkelse,
+3. om bakterie- eller soppisolatet eller viruset:
+
+   - hvilken type bakterie, sopp eller virus som er isolert eller påvist,
+   - smittested dersom dette er relevant for den påviste bakterie, sopp eller virus,
+   - hvilken type prøvemateriale bakterie, sopp eller virus er isolert eller påvist fra,
+   - hvilke egenskaper bakterie- eller soppisolatet eller viruset har ved undersøkelse av resistens mot antibiotika, antimykotika eller antiviralia og opplysninger om hvilken metode som er brukt ved denne undersøkelsen.
 
 > Endret ved [forskrift 25 april 2014 nr. 588](forskrift/2014-04-25-588) (i kraft 1 juli 2014).
 
@@ -174,7 +216,20 @@ Databehandler som behandler helseopplysninger på vegne av Folkehelseinstituttet
 
 Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem det måtte angå.
 
-Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-8](forskrift/2003-11-14-1353/§1-8),hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2003-11-14-1353/§3-1),rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   - dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-8](forskrift/2003-11-14-1353/§1-8),
+   - hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2003-11-14-1353/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet. Tilsynsmyndigheten kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.
 
@@ -240,7 +295,13 @@ Forskrift legger databehandlingsansvaret for NORM og RAVN til Nasjonalt folkehel
 
 Bestemmelsen legger databehandlerfunksjonen for NORM til Universitetssykehuset i Nord-Norge HF (UNN). Databehandlerfunksjonen for RAVN legges til Nasjonalt folkehelseinstitutt. Databehandler er i [helseregisterloven § 2](lov/2014-06-20-43/§2) nr. 9 definert som den som behandler helseopplysninger på vegne av den databehandlingsansvarlige. Det følger av [helseregisterloven § 18](lov/2014-06-20-43/§18) at en databehandler ikke kan behandle helseopplysninger på annen måte enn det som er skriftlig avtalt med den databehandlingsansvarlige. Opplysningene kan heller ikke uten slik avtale overlates til noen andre for lagring eller bearbeidelse.
 
-Nasjonalt folkehelseinstitutt skal inngå skriftlig avtale med UNN om innsamling og behandling av opplysninger i NORM. Avtalen skal omfatte og beskrive organiseringen av NORM med hensyn til blant annet:Økonomistyring og finansiering inkludert rutiner for regnskap og revisjon.Forholdet mellom databehandler og deltagerlaboratoriene.Planlegging av aktiviteter i NORM.Daglig drift av NORM, rapportering og formidling av resultater fra NORM.Utlevering av data i henhold til forskriften.
+Nasjonalt folkehelseinstitutt skal inngå skriftlig avtale med UNN om innsamling og behandling av opplysninger i NORM. Avtalen skal omfatte og beskrive organiseringen av NORM med hensyn til blant annet:
+
+- Økonomistyring og finansiering inkludert rutiner for regnskap og revisjon.
+- Forholdet mellom databehandler og deltagerlaboratoriene.
+- Planlegging av aktiviteter i NORM.
+- Daglig drift av NORM, rapportering og formidling av resultater fra NORM.
+- Utlevering av data i henhold til forskriften.
 
 Avtalen forelegges Helse- og omsorgsdepartementet før den trer i kraft.
 
@@ -302,7 +363,12 @@ Bestemmelsen pålegger den databehandlingsansvarlige for NORM og RAVN å føre o
 
 ### Til § 4-1 Informasjonssikkerhet
 
-Første ledd viser til [helseregisterloven § 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Nasjonalt folkehelseinstitutt og UNN som databehandler for NORM å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
+Første ledd viser til [helseregisterloven § 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Nasjonalt folkehelseinstitutt og UNN som databehandler for NORM å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:
+
+- sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,
+- sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+- sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,
+- sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
 
 Tilfredsstillende informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn ved sikkerhetsarbeidet. De tiltak som etableres, skal være både organisatoriske og tekniske. Sikkerhetstiltakene og selve informasjonssystemet skal kunne dokumenteres.
 

@@ -22,5 +22,7 @@ eu_basis: []
 
 # Delegering av fullmakt til Kulturdepartementet etter lov om stadnamn m.m.
 
-1. Dei fullmaktene Kongen har etter § 8 etter [lov 18. mai 1990 nr. 11](lov/1990-05-18-11) om stadnamn til å oppnemne klagenemnd og [§ 12](lov/1990-05-18-11/§12) til å gi forskrifter, blir delegerte til departementet.Departementet får vidare fullmakt til å fastsetje reglar for gebyr for utskrifter, avskrifter og kopiar frå det sentrale stadnamnregisteret.
+1. Dei fullmaktene Kongen har etter § 8 etter [lov 18. mai 1990 nr. 11](lov/1990-05-18-11) om stadnamn til å oppnemne klagenemnd og [§ 12](lov/1990-05-18-11/§12) til å gi forskrifter, blir delegerte til departementet.
+
+   Departementet får vidare fullmakt til å fastsetje reglar for gebyr for utskrifter, avskrifter og kopiar frå det sentrale stadnamnregisteret.
 2. Frå den tid dei nye forskriftene trer i kraft, blir føresegner om stadnamn fastsette ved Kronprinsreg.res. av 31. mai 1957 oppheva.

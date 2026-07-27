@@ -38,7 +38,12 @@ Forskriften [§ 6](forskrift/2022-01-20-102/§6), [§ 7](forskrift/2022-01-20-10
 
 Jernbanevirksomhetene skal ha beredskap for å kunne bidra med jernbanetjenester i ekstraordinære hendelser, krise og krig.
 
-Beredskapen skal være tilpasset virksomhetenes drift og ressurser, og være beskrevet i beredskapsplaner. Beredskapen skal minimum omfatte:oversikt over kompetent og øvet personell,oversikt over utstyr og materiell,oversikt over hvilke andre relevante aktører med beredskapsressurser som jernbanevirksomheten er avhengig av,et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner.
+Beredskapen skal være tilpasset virksomhetenes drift og ressurser, og være beskrevet i beredskapsplaner. Beredskapen skal minimum omfatte:
+
+1. oversikt over kompetent og øvet personell,
+2. oversikt over utstyr og materiell,
+3. oversikt over hvilke andre relevante aktører med beredskapsressurser som jernbanevirksomheten er avhengig av,
+4. et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner.
 
 Jernbanevirksomheten skal samordne sine beredskapsplaner med andre relevante aktører og offentlige myndigheter.
 

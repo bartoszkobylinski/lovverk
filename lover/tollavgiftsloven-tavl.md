@@ -15,7 +15,7 @@ xml_hash: "1a06af278222276b7fa4dde1aaac24983529aea99a356a0549b91777ab4ca15d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,13 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-I denne loven menes meddeklarasjonspliktig: den som leverer en deklarasjon i eget navn, eller den som deklarasjonen leveres på vegne avdeklarasjon: en melding om at en vare skal underlegges en bestemt tollprosedyreinnførsel: at en vare føres inn i tollområdetutførsel: at en vare føres ut av tollområdetvare: alt som er omfattet av forskrift om klassifisering av varer.
+I denne loven menes med
+
+1. deklarasjonspliktig: den som leverer en deklarasjon i eget navn, eller den som deklarasjonen leveres på vegne av
+2. deklarasjon: en melding om at en vare skal underlegges en bestemt tollprosedyre
+3. innførsel: at en vare føres inn i tollområdet
+4. utførsel: at en vare føres ut av tollområdet
+5. vare: alt som er omfattet av forskrift om klassifisering av varer.
 
 ### § 1-3. Samarbeid med annen stat
 
@@ -102,7 +108,11 @@ Den som erverver en vare som er innført med nedsatt tollavgift etter [§ 5-3](l
 
 ### § 3-1. Satser for tollavgift – tolltariffen
 
-(1) Følgende satser fastsettes i Stortingets vedtak om tollavgift:ordinær tollavgiftssats for varerpreferansetollavgiftsats for varer med opprinnelse i land Norge har frihandelsavtale medpreferansetollavgiftsats for varer med opprinnelse i utviklingsland som Norge ensidig gir tollbegunstigelse (GSP).
+(1) Følgende satser fastsettes i Stortingets vedtak om tollavgift:
+
+1. ordinær tollavgiftssats for varer
+2. preferansetollavgiftsats for varer med opprinnelse i land Norge har frihandelsavtale med
+3. preferansetollavgiftsats for varer med opprinnelse i utviklingsland som Norge ensidig gir tollbegunstigelse (GSP).
 
 (2) Kongen kan fastsette særskilt sats for tollavgift etter [vareførselsloven kapittel 13](lov/2022-03-11-9/kap13) om handelstiltak.
 
@@ -126,9 +136,18 @@ For å legge til rette for innførsel av landbruksvarer som supplement til norsk
 
 ### § 3-4. Beregningsgrunnlag for vare som gjeninnføres etter bearbeiding eller reparasjon mv. (utenlands bearbeiding)
 
-(1) Dersom en vare som tidligere er gått over til fri disponering eller har norsk opprinnelse, blir gjeninnført etter at den er bearbeidet, reparert eller brukt til fremstilling av annen vare utenfor landet, skal beregningsgrunnlaget fastsettes slik:Dersom tollavgift skal beregnes på grunnlag av verdi, svares tollavgift av kostnaden ved at varen ble reparert eller bearbeidet, tillagt transportkostnaden.Dersom tollavgift skal beregnes på grunnlag av vekt, volum eller stykk, beregnes tollavgift med åtte prosent av beregningsgrunnlaget som nevnt i bokstav a.Dersom reparasjon eller bearbeiding er utført uten vederlag, settes beregningsgrunnlaget til null.
+(1) Dersom en vare som tidligere er gått over til fri disponering eller har norsk opprinnelse, blir gjeninnført etter at den er bearbeidet, reparert eller brukt til fremstilling av annen vare utenfor landet, skal beregningsgrunnlaget fastsettes slik:
 
-(2) Vilkår for beregning etter første ledd er atvaren gjeninnføres innen ett år etter utførselengjeninnførselen foretas av den samme fysiske eller juridiske person som utførte varendet ikke er refundert tollavgift ved utførselen ogeventuelt krav om refusjon av tollavgift frafalles.
+1. Dersom tollavgift skal beregnes på grunnlag av verdi, svares tollavgift av kostnaden ved at varen ble reparert eller bearbeidet, tillagt transportkostnaden.
+2. Dersom tollavgift skal beregnes på grunnlag av vekt, volum eller stykk, beregnes tollavgift med åtte prosent av beregningsgrunnlaget som nevnt i bokstav a.
+3. Dersom reparasjon eller bearbeiding er utført uten vederlag, settes beregningsgrunnlaget til null.
+
+(2) Vilkår for beregning etter første ledd er at
+
+1. varen gjeninnføres innen ett år etter utførselen
+2. gjeninnførselen foretas av den samme fysiske eller juridiske person som utførte varen
+3. det ikke er refundert tollavgift ved utførselen og
+4. eventuelt krav om refusjon av tollavgift frafalles.
 
 (3) For landbruksvarer som gjeninnføres etter bearbeiding i utlandet, beregnes tollavgift i samsvar med bestemmelser fastsatt av departementet i forskrift.
 
@@ -210,7 +229,14 @@ Departementet kan i forskrift bestemme at det ikke skal beregnes tollavgift ved 
 
 ### § 6-4. Andre tollavgiftsfritak
 
-(1) Det skal ikke beregnes tollavgift ved innførsel avvare som er fremstilt her i landet eller tidligere er innført under prosedyren overgang til fri disponering etter [vareførselsloven § 4-1](lov/2022-03-11-9/§4-1) og som gjeninnføres i uforandret stand, dersom tollavgift ikke er refundert ved utførselenlandbruksvarer til teknisk brukvare til undervisning og vitenskapelig bruk ved universiteter, høyskoler og Meteorologisk institutt og dets stasjonervare av utdannende, vitenskapelig og kulturell artbakkeutstyr, undervisningsmateriell, flysimulatorer og deler til disseluftfartøyer og utstyr og deler til disse.
+(1) Det skal ikke beregnes tollavgift ved innførsel av
+
+1. vare som er fremstilt her i landet eller tidligere er innført under prosedyren overgang til fri disponering etter [vareførselsloven § 4-1](lov/2022-03-11-9/§4-1) og som gjeninnføres i uforandret stand, dersom tollavgift ikke er refundert ved utførselen
+2. landbruksvarer til teknisk bruk
+3. vare til undervisning og vitenskapelig bruk ved universiteter, høyskoler og Meteorologisk institutt og dets stasjoner
+4. vare av utdannende, vitenskapelig og kulturell art
+5. bakkeutstyr, undervisningsmateriell, flysimulatorer og deler til disse
+6. luftfartøyer og utstyr og deler til disse.
 
 (2) Varer som er omfattet av fritak etter første ledd bokstav b til d kan bare benyttes av berettiget bruker og kan ikke overdras til andre.
 
@@ -220,7 +246,11 @@ Departementet kan i forskrift bestemme at det ikke skal beregnes tollavgift ved 
 
 ### § 7-1. Refusjon av tollavgift ved gjenutførsel av vare benyttet ved reparasjon eller bearbeiding
 
-(1) Tollavgift kan refunderes for vare som næringsdrivende tidligere har innført under prosedyren overgang til fri disponering, dersom varen benyttes som råvare, hjelpestoff eller halvfabrikata i næringsvirksomhet i forbindelse med virksomhetens fremstilling, reparasjon eller bearbeiding av ferdigvare, og ferdigvarenutføres under prosedyren utførsel etter [vareførselsloven § 5-9](lov/2022-03-11-9/§5-9)deklareres for prosedyren tollager etter [vareførselsloven § 4-4](lov/2022-03-11-9/§4-4), når varen er bestemt for slik utførsel som nevnt i denne paragrafen ellerutføres til bruk utenfor tollområdet som angitt i [§ 7-2](lov/2022-03-11-8/§7-2/ledd/1/bokstav/b) første ledd bokstav b og c.
+(1) Tollavgift kan refunderes for vare som næringsdrivende tidligere har innført under prosedyren overgang til fri disponering, dersom varen benyttes som råvare, hjelpestoff eller halvfabrikata i næringsvirksomhet i forbindelse med virksomhetens fremstilling, reparasjon eller bearbeiding av ferdigvare, og ferdigvaren
+
+1. utføres under prosedyren utførsel etter [vareførselsloven § 5-9](lov/2022-03-11-9/§5-9)
+2. deklareres for prosedyren tollager etter [vareførselsloven § 4-4](lov/2022-03-11-9/§4-4), når varen er bestemt for slik utførsel som nevnt i denne paragrafen eller
+3. utføres til bruk utenfor tollområdet som angitt i [§ 7-2](lov/2022-03-11-8/§7-2/ledd/1/bokstav/b) første ledd bokstav b og c.
 
 (2) Refusjonen skal svare til den tollavgiften som er betalt for de anvendte varene som nevnt i første ledd. Tollavgift kan også refunderes for svinn dersom svinnet ikke kan utnyttes for andre formål. Tollavgift kan refunderes også der det er benyttet andre varer enn de som er dokumentert innført, dersom varene er av samme slag som de innførte.
 
@@ -228,7 +258,11 @@ Departementet kan i forskrift bestemme at det ikke skal beregnes tollavgift ved 
 
 ### § 7-2. Refusjon av tollavgift ved gjenutførsel av vare i uendret tilstand mv.
 
-(1) Tollavgift kan refunderes for vare som er innført under prosedyren overgang til fri disponering, dersom varen i uendret og ubrukt tilstand gjenutføres etter tollprosedyren utførseli forbindelse med salg til kjøper utenfor tollområdettil bruk eller salg om bord i fartøy eller luftfartøy dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift ellertil bruk i forbindelse med utforskning og utnyttelse av undersjøiske naturforekomster i havområder utenfor tollområdet dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift.
+(1) Tollavgift kan refunderes for vare som er innført under prosedyren overgang til fri disponering, dersom varen i uendret og ubrukt tilstand gjenutføres etter tollprosedyren utførsel
+
+1. i forbindelse med salg til kjøper utenfor tollområdet
+2. til bruk eller salg om bord i fartøy eller luftfartøy dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift eller
+3. til bruk i forbindelse med utforskning og utnyttelse av undersjøiske naturforekomster i havområder utenfor tollområdet dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift.
 
 (2) Tollavgift kan også refunderes når varen deklareres for prosedyren tollager etter [vareførselsloven § 4-4](lov/2022-03-11-9/§4-4), og varen er bestemt for utførsel som nevnt i denne paragrafen.
 
@@ -404,7 +438,10 @@ Den som leverer en melding for tollavgift etter [§ 9-2](lov/2022-03-11-8/§9-2)
 
 ### § 11-3. Unntak fra fristene for å ta opp tollavgiftsfastsetting mv. til endring
 
-Fristene i [§ 11-2](lov/2022-03-11-8/§11-2) er ikke til hinder for at fastsettingen tas opp til endringnår endringen følger av, eller forutsettes i, utfallet av et søksmålsom følge av uttalelsen fra Stortingets ombud for kontroll med forvaltningen, i en sak der tollavgiftspliktig eller medansvarlig er part.
+Fristene i [§ 11-2](lov/2022-03-11-8/§11-2) er ikke til hinder for at fastsettingen tas opp til endring
+
+1. når endringen følger av, eller forutsettes i, utfallet av et søksmål
+2. som følge av uttalelsen fra Stortingets ombud for kontroll med forvaltningen, i en sak der tollavgiftspliktig eller medansvarlig er part.
 
 > Endret ved lov [22 juni 2022 nr. 78](lov/2022-06-22-78).
 
@@ -448,7 +485,12 @@ Tollmyndighetene kan treffe enkeltvedtak om nedsettelse av tollavgift dersom det
 
 ### § 12-4. Unntak fra tilleggsavgift
 
-(1) Tilleggsavgift fastsettes ikkenår de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeilnår den tollavgiftspliktige frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan fastsettes riktig tollavgift. Dette gjelder ikke hvis rettingen kan anses fremkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som tollmyndighetene har fått fra andre.når den tollavgiftspliktige er dødnår tilleggsavgiften for det enkelte forhold vil bli under 1 000 kroner.
+(1) Tilleggsavgift fastsettes ikke
+
+1. når de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeil
+2. når den tollavgiftspliktige frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan fastsettes riktig tollavgift. Dette gjelder ikke hvis rettingen kan anses fremkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som tollmyndighetene har fått fra andre.
+3. når den tollavgiftspliktige er død
+4. når tilleggsavgiften for det enkelte forhold vil bli under 1 000 kroner.
 
 (2) Tollmyndighetene kan unnlate å ilegge tilleggsavgift når tollavgift er fastsatt med satser som er betydelig høyere enn det som er nødvendig for å ivareta nasjonale beskyttelsesbehov, og tollavgiften er av en slik størrelse at det er urimelig å ilegge tilleggsavgift.
 

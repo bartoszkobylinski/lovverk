@@ -15,7 +15,7 @@ xml_hash: "d12b264d718feb001df65b8fc8738d469dc19b5d2759d9993dfb272d3b3f436e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,15 +26,36 @@ eu_basis: []
 
 ### § 1. Pliktig trygd.
 
-1\. Pliktig trygdet etter denne lov er:Den som her i landet arbeider i annens tjeneste for lønn, eller godtgjørelse som helt eller delvis består i penger, hvis arbeidsforholdet etter dets art kan få en varighet av minst 6 dager og vedkommendes aktuelle lønn eller godtgjørelse svarer til en årlig arbeidsinntekt på over 2.000 kroner. Det kreves ikke at arbeidstiden er sammenhengende eller utgjør hele dagsverk.Vilkåret om arbeidsforholdets varighet gjelder ikke for den som utfører arbeid for en arbeidsgiver i hans næring. Departementet kan ellers fravike vilkårene i første ledd for enkelte grupper arbeidstakere hvis særlige grunner taler for det.den som utenfor landet arbeider i annens tjeneste på norsk skip, norsk fangstekspedisjon, norsk fangststasjon eller som flygende personell eller stasjonsbetjening i norsk sivilt luftfartsselskap.reder i stilling ombord på norsk fartøy på 100 tonnasjeenheter/registertonn brutto eller mer eller på 8 meter største lengde eller mer dersom det vesentlig går i passasjerfart. Det samme gjelder den som er lott-taker eller som driver virksomhet for egen regning ombord på slikt fartøy.den som er på reise til eller fra fartøy som nevnt i bokstav b for å tiltre eller fratre tjenesten ombord dersom reisen bekostes av statskassen eller rederen.den som er under opplæring til sjømannsyrket i statsunderstøttede kurs på skoleskip og øvelsesfartøy.fiskere, fangstmenn m.v. som er tatt opp i det manntall som er nevnt i [§ 4](lov/1958-12-12-10/§4).elever og studenter ved stats-, kommunal- eller fylkeskommunal skole eller kurs, som har alminnelig undervisning eller yrkesopplæring som formål, samt ved privat skole med samme formål hvis skolen har eksamensrett eller får bidrag av staten til driften.den som er utskrevet til tjeneste i brannvesenet i medhold av [brannlovens § 11](lov/2002-06-14-20/§11) annet ledd eller som på forlangende eller tilsigelse yter hjelp etter samme lovs [§ 31](lov/2002-06-14-20/§31) første ledd eller [§ 32](lov/2002-06-14-20/§32) nr. 2.den som søker å redde menneskeliv eller avverge større kulturelle eller materielle tap. Departementet gir nærmere bestemmelser om hvem som skal anses trygdet.norske militærpersoner (befal og menige), vernepliktige etter lov av 17. juni 1937 om vernepliktige civilarbeidere, tjenestepliktige etter [lov om tjenesteplikt i politiet av 21. november 1952](lov/1952-11-21-3), og tjenestepliktige etter [lov om sivilforsvaret av 17. juli 1953](lov/1953-07-17-9).
+1\. Pliktig trygdet etter denne lov er:
 
-2\. Kongen kan bestemme at personer som er innsatt i kriminalomsorgens anstalter skal omfattes av trygden med rett til stønad etter nærmere fastsatte regler. Det samme gjelder personer som under opphold på sykehus eller lignende har arbeidsterapeutisk behandling.Kongen kan videre bestemme at også andre grupper av personer i Forsvarets tjeneste enn de som er nevnt under pkt. 1,k, skal omfattes av trygden med rett til stønad etter nærmere fastsatte regler.
+1. Den som her i landet arbeider i annens tjeneste for lønn, eller godtgjørelse som helt eller delvis består i penger, hvis arbeidsforholdet etter dets art kan få en varighet av minst 6 dager og vedkommendes aktuelle lønn eller godtgjørelse svarer til en årlig arbeidsinntekt på over 2.000 kroner. Det kreves ikke at arbeidstiden er sammenhengende eller utgjør hele dagsverk.
+
+   Vilkåret om arbeidsforholdets varighet gjelder ikke for den som utfører arbeid for en arbeidsgiver i hans næring. Departementet kan ellers fravike vilkårene i første ledd for enkelte grupper arbeidstakere hvis særlige grunner taler for det.
+2. den som utenfor landet arbeider i annens tjeneste på norsk skip, norsk fangstekspedisjon, norsk fangststasjon eller som flygende personell eller stasjonsbetjening i norsk sivilt luftfartsselskap.
+3. reder i stilling ombord på norsk fartøy på 100 tonnasjeenheter/registertonn brutto eller mer eller på 8 meter største lengde eller mer dersom det vesentlig går i passasjerfart. Det samme gjelder den som er lott-taker eller som driver virksomhet for egen regning ombord på slikt fartøy.
+4. den som er på reise til eller fra fartøy som nevnt i bokstav b for å tiltre eller fratre tjenesten ombord dersom reisen bekostes av statskassen eller rederen.
+5. den som er under opplæring til sjømannsyrket i statsunderstøttede kurs på skoleskip og øvelsesfartøy.
+6. fiskere, fangstmenn m.v. som er tatt opp i det manntall som er nevnt i [§ 4](lov/1958-12-12-10/§4).
+7. elever og studenter ved stats-, kommunal- eller fylkeskommunal skole eller kurs, som har alminnelig undervisning eller yrkesopplæring som formål, samt ved privat skole med samme formål hvis skolen har eksamensrett eller får bidrag av staten til driften.
+8. den som er utskrevet til tjeneste i brannvesenet i medhold av [brannlovens § 11](lov/2002-06-14-20/§11) annet ledd eller som på forlangende eller tilsigelse yter hjelp etter samme lovs [§ 31](lov/2002-06-14-20/§31) første ledd eller [§ 32](lov/2002-06-14-20/§32) nr. 2.
+9. den som søker å redde menneskeliv eller avverge større kulturelle eller materielle tap. Departementet gir nærmere bestemmelser om hvem som skal anses trygdet.
+10. norske militærpersoner (befal og menige), vernepliktige etter lov av 17. juni 1937 om vernepliktige civilarbeidere, tjenestepliktige etter [lov om tjenesteplikt i politiet av 21. november 1952](lov/1952-11-21-3), og tjenestepliktige etter [lov om sivilforsvaret av 17. juli 1953](lov/1953-07-17-9).
+
+2\. Kongen kan bestemme at personer som er innsatt i kriminalomsorgens anstalter skal omfattes av trygden med rett til stønad etter nærmere fastsatte regler. Det samme gjelder personer som under opphold på sykehus eller lignende har arbeidsterapeutisk behandling.
+
+Kongen kan videre bestemme at også andre grupper av personer i Forsvarets tjeneste enn de som er nevnt under pkt. 1,k, skal omfattes av trygden med rett til stønad etter nærmere fastsatte regler.
 
 > Endret ved [lover 9 juni 1961 nr. 19](lov/1961-06-09-19), [21 mai 1964 nr. 1](lov/1964-05-21-1) (se dens II), [16 des 1966 nr. 11](lov/1966-12-16-11), [29 mai 1970 nr. 32](lov/1970-05-29-32), [16 des 1983 nr. 72](lov/1983-12-16-72), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
 
 ### § 2. Unntak fra trygden.
 
-1\. Unntatt fra trygden er:– – –den som er fremmed stats tjenestemann og ikke er norsk statsborger,den som er i tjeneste hos fremmed stats tjenestemann og ikke er norsk statsborger,den som ifølge utenlandsk lov er sikret stønad ved yrkesskade under sitt opphold her i landet.arbeidstaker som på særlige vilkår gjør tjeneste ombord istedenfor eller i tillegg til vanlig mannskap og som er ansatt spesielt for tjeneste i den tid skipet går i fart på det fjerne østen eller i tropiske farvann. Arbeidstakeren har likevel rett til sykehusbehandling etter denne lov, såfremt slik behandling ikke skjer for folketrygdens regning. Likeledes har rederen rett til å få godtgjort av arbeids- og velferdsetaten utlegg til begravelse etter reglene i [folketrygdloven](lov/1997-02-28-19) dersom han etter [skipsarbeidsloven § 8-2](lov/2013-06-21-102/§8-2) første ledd har måttet bekoste begravelsen.
+1\. Unntatt fra trygden er:
+
+1. – – –
+2. den som er fremmed stats tjenestemann og ikke er norsk statsborger,
+3. den som er i tjeneste hos fremmed stats tjenestemann og ikke er norsk statsborger,
+4. den som ifølge utenlandsk lov er sikret stønad ved yrkesskade under sitt opphold her i landet.
+5. arbeidstaker som på særlige vilkår gjør tjeneste ombord istedenfor eller i tillegg til vanlig mannskap og som er ansatt spesielt for tjeneste i den tid skipet går i fart på det fjerne østen eller i tropiske farvann. Arbeidstakeren har likevel rett til sykehusbehandling etter denne lov, såfremt slik behandling ikke skjer for folketrygdens regning. Likeledes har rederen rett til å få godtgjort av arbeids- og velferdsetaten utlegg til begravelse etter reglene i [folketrygdloven](lov/1997-02-28-19) dersom han etter [skipsarbeidsloven § 8-2](lov/2013-06-21-102/§8-2) første ledd har måttet bekoste begravelsen.
 
 2\. Personer som nevnt i punkt 1 b-d kan opptas i trygden etter nærmere regler som departementet fastsetter.
 
@@ -54,13 +75,18 @@ Arbeids- og velferdsdirektoratet kan gi nærmere regler om hvem som ellers skal 
 
 ### § 4. Manntall over fiskere, fangstmenn m.v.
 
-1\. Hver kommune skal innen 1. november hvert år sette opp og legge ut manntall over følgende personer over 15 år som bor i kommunen:fiskere og fangstmenn som har saltvannsfiske eller dyrefangst i havet som næring, alene eller sammen med annen næring, dersom det fartøy som nyttes er under 100 tonnasjeenheter/registertonn brutto. Det samme gjelder mannskapet på slike fartøy.personer som helt eller delvis ernærer seg ved arbeid i småskipsfart eller transportbedrift med lekter dersom fartøyet er på 8 meter største lengde eller mer, men under 100 tonnasjeenheter/registertonn brutto. Manntallet gjelder for det følgende kalenderår.
+1\. Hver kommune skal innen 1. november hvert år sette opp og legge ut manntall over følgende personer over 15 år som bor i kommunen:
+
+1. fiskere og fangstmenn som har saltvannsfiske eller dyrefangst i havet som næring, alene eller sammen med annen næring, dersom det fartøy som nyttes er under 100 tonnasjeenheter/registertonn brutto. Det samme gjelder mannskapet på slike fartøy.
+2. personer som helt eller delvis ernærer seg ved arbeid i småskipsfart eller transportbedrift med lekter dersom fartøyet er på 8 meter største lengde eller mer, men under 100 tonnasjeenheter/registertonn brutto. Manntallet gjelder for det følgende kalenderår.
 
 2\. Den som med urette er tatt opp i eller utelatt av manntallet, kan innen 30. november samme år forlange å bli strøket eller tatt opp.
 
 3\. Personer som nevnt i punkt 1 kan når som helst kreve å bli tatt opp i manntallet mot å betale premie etter denne lov. Trygden løper i tilfelle fra den dag kravet blir fremsatt og ut det kalenderår som manntallet gjelder for.
 
-4\. En kommunes vedtak om å nekte noen tatt opp eller strøket i manntallet kan vedkommende klage inn for Arbeids- og velferdsdirektoratet. Direktoratet kan av eget tiltak eller etter henvendelse fra et underliggende organ omgjøre et slikt vedtak. Klagefristen er tre uker fra det tidspunkt vedtaket er meddelt vedkommende.Dersom særlige grunner foreligger, kan det ses bort fra klagefristen.
+4\. En kommunes vedtak om å nekte noen tatt opp eller strøket i manntallet kan vedkommende klage inn for Arbeids- og velferdsdirektoratet. Direktoratet kan av eget tiltak eller etter henvendelse fra et underliggende organ omgjøre et slikt vedtak. Klagefristen er tre uker fra det tidspunkt vedtaket er meddelt vedkommende.
+
+Dersom særlige grunner foreligger, kan det ses bort fra klagefristen.
 
 5\. Er noen av grunner som etter forholdene ikke kan tilregnes ham, ikke blitt tatt opp i manntallet, kan Arbeids- og velferdsdirektoratet etter søknad bestemme at han likevel skal omfattes av trygden.
 
@@ -70,7 +96,10 @@ Arbeids- og velferdsdirektoratet kan gi nærmere regler om hvem som ellers skal 
 
 ### § 5. Frivillig trygd.
 
-1.Selvstendig næringsdrivende som i sin ervervsmessige virksomhet har en antatt årlig arbeidsinntekt på over 2.000 kroner, kan tegne frivillig trygd.Skoler og kurs som ikke går inn under [§ 1](lov/1958-12-12-10/§1), punkt 1 g, kan tegne frivillig trygd for sine elever.
+1\.
+
+1. Selvstendig næringsdrivende som i sin ervervsmessige virksomhet har en antatt årlig arbeidsinntekt på over 2.000 kroner, kan tegne frivillig trygd.
+2. Skoler og kurs som ikke går inn under [§ 1](lov/1958-12-12-10/§1), punkt 1 g, kan tegne frivillig trygd for sine elever.
 
 2\. Arbeids- og velferdsdirektoratet fastsetter nærmere bestemmelser om den frivillige trygd.
 
@@ -104,7 +133,22 @@ Utgiftene til trygdens administrasjon utredes av statskassen med refusjon av fol
 
 ### § 9. Vilkår for rett til stønad.
 
-1\. Stønad etter denne lov ytes for yrkesskade, jfr. [§ 10](lov/1958-12-12-10/§10), som er påført:pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 a og b, mens han er i arbeid på arbeidsstedet i arbeidstiden.Den som er ansatt ombord på skip på 100 tonnasjeenheter/registertonn brutto eller mer eller er flygende personell, anses for å være i arbeid for sin arbeidsgiver sammenhengende i tidsrommet fra tiltredelsen til fratredelsen, herunder medregnet tidsrom som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 d.Det samme gjelder den som utenfor landet er knyttet til norsk fangstekspedisjon eller norsk fangststasjon,pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 c, i den tid han er ombord. Punkt 1 a, annet ledd gjelder tilsvarende,pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 e, i den tid han er ombord,pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 f, under utøvelse av slik næring som betinger opptakelse i manntallet, eller under seilas utenfor næringen dersom den trygdede dør som følge av skaden. For pliktig trygdet ombord på fiske- eller fangstfartøy under 100 tonnasjeenheter/registertonn brutto som ikke er tatt opp i manntallet, gjelder det samme for det tidsrom hvori han er knyttet til vedkommende fartøy.pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 g, på undervisningsstedet i undervisningstiden. Ved internatskole gjelder trygden hele det tidsrom eleven er under skolens eller internatets tilsyn,pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 h, i tidsrom hvori han utfører pålagt hjelp eller bistand,pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 i, under redningsaksjonen,frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5), punkt 1 a, under utøvelsen av den ervervsmessige virksomhet,frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5), punkt 1 b, på undervisningsstedet i undervisningstiden.pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), k, under tjenestegjøringen.
+1\. Stønad etter denne lov ytes for yrkesskade, jfr. [§ 10](lov/1958-12-12-10/§10), som er påført:
+
+1. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 a og b, mens han er i arbeid på arbeidsstedet i arbeidstiden.
+
+   Den som er ansatt ombord på skip på 100 tonnasjeenheter/registertonn brutto eller mer eller er flygende personell, anses for å være i arbeid for sin arbeidsgiver sammenhengende i tidsrommet fra tiltredelsen til fratredelsen, herunder medregnet tidsrom som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 d.
+
+   Det samme gjelder den som utenfor landet er knyttet til norsk fangstekspedisjon eller norsk fangststasjon,
+2. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 c, i den tid han er ombord. Punkt 1 a, annet ledd gjelder tilsvarende,
+3. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 e, i den tid han er ombord,
+4. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 f, under utøvelse av slik næring som betinger opptakelse i manntallet, eller under seilas utenfor næringen dersom den trygdede dør som følge av skaden. For pliktig trygdet ombord på fiske- eller fangstfartøy under 100 tonnasjeenheter/registertonn brutto som ikke er tatt opp i manntallet, gjelder det samme for det tidsrom hvori han er knyttet til vedkommende fartøy.
+5. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 g, på undervisningsstedet i undervisningstiden. Ved internatskole gjelder trygden hele det tidsrom eleven er under skolens eller internatets tilsyn,
+6. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 h, i tidsrom hvori han utfører pålagt hjelp eller bistand,
+7. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 i, under redningsaksjonen,
+8. frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5), punkt 1 a, under utøvelsen av den ervervsmessige virksomhet,
+9. frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5), punkt 1 b, på undervisningsstedet i undervisningstiden.
+10. pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), k, under tjenestegjøringen.
 
 2\. Departementet kan gi nærmere bestemmelser om vilkårene i denne paragraf.
 
@@ -112,7 +156,9 @@ Utgiftene til trygdens administrasjon utredes av statskassen med refusjon av fol
 
 ### § 10. Yrkesskade.
 
-1\. Med yrkesskade forstås legemsskade eller sykdom forårsaket av arbeidsulykke. For så vidt angår trygdede som nevnt i [§ 1](lov/1958-12-12-10/§1), pkt. 1, k, likestilles med yrkesskade også legemsskade eller sykdom som er påført eller oppstått under tjenestegjøringen.Kongen kan bestemme at andre skader og sykdommer, herunder yrkessykdommer, klimasykdommer og epidemiske sykdommer skal likestilles med yrkesskade.
+1\. Med yrkesskade forstås legemsskade eller sykdom forårsaket av arbeidsulykke. For så vidt angår trygdede som nevnt i [§ 1](lov/1958-12-12-10/§1), pkt. 1, k, likestilles med yrkesskade også legemsskade eller sykdom som er påført eller oppstått under tjenestegjøringen.
+
+Kongen kan bestemme at andre skader og sykdommer, herunder yrkessykdommer, klimasykdommer og epidemiske sykdommer skal likestilles med yrkesskade.
 
 2\. Dersom en trygdet dør under deltakelse i fangstekspedisjon med overvintring i ishavsstrøk, anses dødsfallet forårsaket av yrkesskade uten omsyn til dødsårsaken.
 
@@ -126,21 +172,43 @@ Utgiftene til trygdens administrasjon utredes av statskassen med refusjon av fol
 
 1\. Stønad som omhandlet i [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5), ytes etter nevnte lovs bestemmelser, derunder de særregler som gjelder for yrkesskade.
 
-2\. Stønad som omhandlet i [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8), ytes etter nevnte lovs bestemmelser, derunder de særregler som gjelder for yrkesskade.Må skadekuren fortsette utover 52 uker med sykepenger etter nevnte lovs kapittel 8, medregnet tidsrom med sykepenger etter tidligere lov av 2. mars 1956 om syketrygd, ytes dog sykepenger som svarer til full uførepensjon etter samordning, med tillegg etter bestemmelsen i [§ 13](lov/1958-12-12-10/§13). I sykepenger etter denne bestemmelse gjøres fradrag med et beløp tilsvarende de sykepenger som nevnt i første ledd som vedkommende eventuelt måtte ha rett til for samme tidsrom.Får en skadet som har eller har hatt stønad etter [§ 12](lov/1958-12-12-10/§12), tilbakefall (forverrelse), gis stønad etter bestemmelsene i annet ledd inntil den nye skadekuren er avsluttet.
+2\. Stønad som omhandlet i [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8), ytes etter nevnte lovs bestemmelser, derunder de særregler som gjelder for yrkesskade.
+
+Må skadekuren fortsette utover 52 uker med sykepenger etter nevnte lovs kapittel 8, medregnet tidsrom med sykepenger etter tidligere lov av 2. mars 1956 om syketrygd, ytes dog sykepenger som svarer til full uførepensjon etter samordning, med tillegg etter bestemmelsen i [§ 13](lov/1958-12-12-10/§13). I sykepenger etter denne bestemmelse gjøres fradrag med et beløp tilsvarende de sykepenger som nevnt i første ledd som vedkommende eventuelt måtte ha rett til for samme tidsrom.
+
+Får en skadet som har eller har hatt stønad etter [§ 12](lov/1958-12-12-10/§12), tilbakefall (forverrelse), gis stønad etter bestemmelsene i annet ledd inntil den nye skadekuren er avsluttet.
 
 3\. Det som er fastsatt i [folketrygdloven § 22-3](lov/1997-02-28-19/§22-3), om arbeidsgiverens rett til å kreve den trygdedes sykepenger utbetalt til seg, gjelder tilsvarende i forhold til sykepenger etter bestemmelsen i [pkt](lov/1997-02-28-19/kap2). 2, annet og tredje ledd ovenfor.
 
-4\. Til enslig person som har rett til pensjon etter denne lov eller sykepenger etter bestemmelsene i pkt. 2, annet eller tredje ledd og som er innlagt i institusjon med fri kost og losji under statlig ansvar eller i anstalt under kriminalomsorgen, skal det fra og med den fjerde kalendermåneden etter den måneden da forpleiningen tok til bare utbetales en så stor del av nevnte ytelser etter denne lov som sammen med de sykepenger, arbeidsavklaringspenger og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter [lov om folketrygd](lov/1997-02-28-19/kap2), svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp.Til person som forsørger ektefelle eller barn skal det i tilfelle som nevnt i første ledd bare utbetales en så stor del av pensjon eller sykepenger etter denne lov, som sammen med de sykepenger, arbeidsavklaringspenger og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter [lov om folketrygd](lov/1997-02-28-19), svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp, samt pensjon etter [§§ 19](lov/1958-12-12-10/§19) og [22 i](lov/1958-12-12-10/§22) denne lov.Bestemmelsene i første og andre ledd gjelder ikke for opphold i somatiske sykehusavdelinger.Departementet fastsetter nærmere forskrifter om retten til – og utbetaling av – ytelser etter denne lov til person som er innlagt i institusjon. Forskriftene skal så langt som mulig svare til de forskrifter som er fastsatt om tilsvarende spørsmål i henhold til [lov om folketrygd](lov/1997-02-28-19).
+4\. Til enslig person som har rett til pensjon etter denne lov eller sykepenger etter bestemmelsene i pkt. 2, annet eller tredje ledd og som er innlagt i institusjon med fri kost og losji under statlig ansvar eller i anstalt under kriminalomsorgen, skal det fra og med den fjerde kalendermåneden etter den måneden da forpleiningen tok til bare utbetales en så stor del av nevnte ytelser etter denne lov som sammen med de sykepenger, arbeidsavklaringspenger og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter [lov om folketrygd](lov/1997-02-28-19/kap2), svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp.
+
+Til person som forsørger ektefelle eller barn skal det i tilfelle som nevnt i første ledd bare utbetales en så stor del av pensjon eller sykepenger etter denne lov, som sammen med de sykepenger, arbeidsavklaringspenger og den pensjon eller overgangsstønad som vedkommende eventuelt har rett til etter [lov om folketrygd](lov/1997-02-28-19), svarer til 10 prosent av full og ikke samordnet pensjon etter denne lov, tillagt 15 prosent av folketrygdens grunnbeløp, samt pensjon etter [§§ 19](lov/1958-12-12-10/§19) og [22 i](lov/1958-12-12-10/§22) denne lov.
+
+Bestemmelsene i første og andre ledd gjelder ikke for opphold i somatiske sykehusavdelinger.
+
+Departementet fastsetter nærmere forskrifter om retten til – og utbetaling av – ytelser etter denne lov til person som er innlagt i institusjon. Forskriftene skal så langt som mulig svare til de forskrifter som er fastsatt om tilsvarende spørsmål i henhold til [lov om folketrygd](lov/1997-02-28-19).
 
 > Endret ved [lover 9 juni 1961 nr. 19](lov/1961-06-09-19), [16 des 1966 nr. 11](lov/1966-12-16-11), [16 juni 1971 nr. 71](lov/1971-06-16-71), [18 des 1981 nr. 94](lov/1981-12-18-94), [11 juli 1986 nr. 55](lov/1986-07-11-55), [16 juni 1994 nr. 22](lov/1994-06-16-22), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
 
 ### § 12. Uførepensjon.
 
-1\. Har yrkesskaden ført med seg fullstendig tap av ervervsevnen, har den skadede rett til full årlig uførepensjon svarende til 60 prosent av den trygdede arbeidsinntekt han hadde da skaden inntraff, jfr. [§ 25](lov/1958-12-12-10/§25).Ved delvis tap av ervervsevnen gis en tilsvarende avkortet uførepensjon. Skadede har likevel ikke rett til uførepensjon dersom ervervsevnen er nedsatt med mindre enn 15 prosent.
+1\. Har yrkesskaden ført med seg fullstendig tap av ervervsevnen, har den skadede rett til full årlig uførepensjon svarende til 60 prosent av den trygdede arbeidsinntekt han hadde da skaden inntraff, jfr. [§ 25](lov/1958-12-12-10/§25).
+
+Ved delvis tap av ervervsevnen gis en tilsvarende avkortet uførepensjon. Skadede har likevel ikke rett til uførepensjon dersom ervervsevnen er nedsatt med mindre enn 15 prosent.
 
 2\. Ved bedømmelsen av tapet av ervervsevnen tas omsyn til skadedes muligheter for ervervsmessig inntekt før og etter skaden. Det kan også tas særskilt omsyn til skadens medisinske art og størrelse.
 
-3\. Har den skadede tidligere uførepensjon etter nærværende lov, en av lovene om ulykkestrygd eller etter en av lovene om krigspensjonering, skal pensjonen for det siste skadetilfelle fastsettes på grunnlag av forskjellen mellom den samlede ervervsuførhet etter den siste skade, og den som det tidligere er fastsatt pensjon for.Dersom den skadede etter lov om folketrygd har rett til pensjon som inneholder tilleggspensjon, skal den delen av tilleggspensjonen som svarer til uføregraden på grunn av yrkesskade, gå til fradrag i uførepensjon etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn trygdet arbeidsinntekt, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av trygdet arbeidsinntekt. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24).Bestemmelsene i annet ledd får tilsvarende anvendelse dersom den skadede har tatt ut avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d.For arbeidsavklaringspenger og uføretrygd gjelder andre ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til overgangsstønad eller pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.Dersom det ytes uførepensjon etter bestemmelsen i nr. 1 samtidig med sykepenger etter lov om folketrygd, kommer sykepengene til fradrag i den utstrekning ytelsene dekker samme tap av ervervsevne.
+3\. Har den skadede tidligere uførepensjon etter nærværende lov, en av lovene om ulykkestrygd eller etter en av lovene om krigspensjonering, skal pensjonen for det siste skadetilfelle fastsettes på grunnlag av forskjellen mellom den samlede ervervsuførhet etter den siste skade, og den som det tidligere er fastsatt pensjon for.
+
+Dersom den skadede etter lov om folketrygd har rett til pensjon som inneholder tilleggspensjon, skal den delen av tilleggspensjonen som svarer til uføregraden på grunn av yrkesskade, gå til fradrag i uførepensjon etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn trygdet arbeidsinntekt, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av trygdet arbeidsinntekt. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24).
+
+Bestemmelsene i annet ledd får tilsvarende anvendelse dersom den skadede har tatt ut avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d.
+
+For arbeidsavklaringspenger og uføretrygd gjelder andre ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.
+
+Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til overgangsstønad eller pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.
+
+Dersom det ytes uførepensjon etter bestemmelsen i nr. 1 samtidig med sykepenger etter lov om folketrygd, kommer sykepengene til fradrag i den utstrekning ytelsene dekker samme tap av ervervsevne.
 
 4\. Uførepensjon fastsettes i alminnelighet fra den første dag i måneden etter at skadekuren er slutt. Den kan fastsettes foreløpig for bestemte tidsrom. Trygdede som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 g og [§ 5](lov/1958-12-12-10/§5), punkt 1 b, har først rett til uførepensjon fra og med den måned de fyller 18 år. Dersom særlige grunner taler for det, kan det gis hel eller delvis uførepensjon fra et tidligere tidspunkt.
 
@@ -150,7 +218,11 @@ Utgiftene til trygdens administrasjon utredes av statskassen med refusjon av fol
 
 ### § 13. Tillegg til uførepensjon.
 
-1\. Til full pensjon gis tillegg på 900 kroner året for hvert barn under 18 år som den skadede forsørger (forsørgingstillegg). Har begge ektefeller rett til uførepensjon etter denne lov, kan tilleggene for hvert barn ikke overstige 900 kroner.Ved delvis tap av ervervsevnen avkortes forsørgingstilleggene tilsvarende. Tillegg kan ikke gis dersom skadedes ervervsevne er nedsatt med mindre enn 30 prosent.Forsørgingstillegg gis tidligst fra den første dag i måneden etter at barnet er født. Tillegget løper ut den måned hvori retten til dette opphører. Ved dødsfall løper tillegget ut måneden etter vedkommendes død.
+1\. Til full pensjon gis tillegg på 900 kroner året for hvert barn under 18 år som den skadede forsørger (forsørgingstillegg). Har begge ektefeller rett til uførepensjon etter denne lov, kan tilleggene for hvert barn ikke overstige 900 kroner.
+
+Ved delvis tap av ervervsevnen avkortes forsørgingstilleggene tilsvarende. Tillegg kan ikke gis dersom skadedes ervervsevne er nedsatt med mindre enn 30 prosent.
+
+Forsørgingstillegg gis tidligst fra den første dag i måneden etter at barnet er født. Tillegget løper ut den måned hvori retten til dette opphører. Ved dødsfall løper tillegget ut måneden etter vedkommendes død.
 
 2\. Trenger den skadede særlig tilsyn og pleie, kan vedkommende tilstås hjelpestønad etter reglene i [folketrygdloven § 6-4](lov/1997-02-28-19/§6-4).
 
@@ -190,17 +262,30 @@ Har yrkesskaden ført med seg døden, gir trygden pensjon til avdødes etterlatt
 
 ### § 19. Enkepensjon.
 
-1\. Enke som har omsorg for barn under 18 år med rett til pensjon, får pensjon fra og med den måned mannen dør. Enkepensjonen utgjør 40 prosent av den trygdede arbeidsinntekt mannen hadde, jfr. [§ 25](lov/1958-12-12-10/§25).Dersom enken etter lov om folketrygd har rett til pensjon som inneholder tilleggspensjon eller har rett til avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og tilleggspensjonen i den avtalefestede pensjonen gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn trygdet arbeidsinntekt, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av trygdet arbeidsinntekt. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24) og [§ 24 d](lov/1957-07-06-26/§24d).Dersom enken har rett til arbeidsavklaringspenger eller uføretrygd, gjelder andre ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.
+1\. Enke som har omsorg for barn under 18 år med rett til pensjon, får pensjon fra og med den måned mannen dør. Enkepensjonen utgjør 40 prosent av den trygdede arbeidsinntekt mannen hadde, jfr. [§ 25](lov/1958-12-12-10/§25).
+
+Dersom enken etter lov om folketrygd har rett til pensjon som inneholder tilleggspensjon eller har rett til avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og tilleggspensjonen i den avtalefestede pensjonen gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn trygdet arbeidsinntekt, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av trygdet arbeidsinntekt. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24) og [§ 24 d](lov/1957-07-06-26/§24d).
+
+Dersom enken har rett til arbeidsavklaringspenger eller uføretrygd, gjelder andre ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.
+
+Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.
 
 2\. Enke som ved mannens død ikke har omsorg for barn med rett til pensjon, får pensjon fra og med den måned hun fyller 40 år. Er enken yngre ved mannens død, får hun en overgangsstønad som svarer til 2 års pensjon, i tilfelle forholdsmessig avkortet dersom hun er eldre enn 38 år.
 
-3\. Det kan tilstås hel eller delvis pensjon til:ervervsufør enke som etter punkt 2 ikke har rett til pensjon,kvinne som ikke var gift med avdøde, hvis hun har omsorg for avdødes barn og var underholdt av ham,hustru, hvis ekteskapet er oppløst ved dom fordi mannen er forsvunnet,enke som ikke tilkommer pensjon etter punkt 2, hvis hun har omsorg for varig ervervsuført barn over 18 år.
+3\. Det kan tilstås hel eller delvis pensjon til:
+
+1. ervervsufør enke som etter punkt 2 ikke har rett til pensjon,
+2. kvinne som ikke var gift med avdøde, hvis hun har omsorg for avdødes barn og var underholdt av ham,
+3. hustru, hvis ekteskapet er oppløst ved dom fordi mannen er forsvunnet,
+4. enke som ikke tilkommer pensjon etter punkt 2, hvis hun har omsorg for varig ervervsuført barn over 18 år.
 
 4\. – – –
 
 5\. Rett til enkepensjon inntrer ikke dersom ekteskapet er inngått etter at yrkesskaden inntraff. I slike tilfeller kan det tilstås hel eller delvis pensjon dersom særlige grunner taler for det.
 
-6\. Enkemann som er varig ervervsufør og var forsørget av hustruen, får pensjon fra og med den måned hustruen dør, med 40 prosent av hennes trygdede arbeidsinntekt, jfr. [§ 25](lov/1958-12-12-10/§25). Det kan tilstås delvis pensjon eller i særlige tilfeller hel pensjon til enkemann som ved hustruens død var delvis ervervsufør og var avhengig av underhold fra hustruen.Bestemmelsene i punkt 1 annet og tredje ledd gjelder på tilsvarende måte.
+6\. Enkemann som er varig ervervsufør og var forsørget av hustruen, får pensjon fra og med den måned hustruen dør, med 40 prosent av hennes trygdede arbeidsinntekt, jfr. [§ 25](lov/1958-12-12-10/§25). Det kan tilstås delvis pensjon eller i særlige tilfeller hel pensjon til enkemann som ved hustruens død var delvis ervervsufør og var avhengig av underhold fra hustruen.
+
+Bestemmelsene i punkt 1 annet og tredje ledd gjelder på tilsvarende måte.
 
 > Endret ved lover 18 des 1959 nr. 13, [16 des 1966 nr. 11](lov/1966-12-16-11), 19 des 1969 nr. 90, 17 mars 1972 nr. 8, [18 mai 1973 nr. 23](lov/1973-05-18-23), 8 juni 1973 nr. 54, [23 des 1988 nr. 110](lov/1988-12-23-110), [16 juni 1994 nr. 22](lov/1994-06-16-22), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)).
 
@@ -220,7 +305,13 @@ Bestemmelsene i denne paragraf gjelder tilsvarende for enkemannspensjon.
 
 ### § 22. Barnepensjon.
 
-1\. Barn under 18 år har rett til pensjon fra og med den måned forsørgeren dør.Pensjonen for første barn utgjer 40 prosent av folketrygdens grunnbeløp, og pensjonen for hvert av de øvrige barn 25 prosent av grunnbeløpet.Er begge foreldrene døde, skal pensjonen for det første barn svare til enkepensjonen. Pensjonen for neste barn utgjør 40 prosent av grunnbeløpet, og pensjonen for hvert av de øvrige barn 25 prosent av grunnbeløpet.Er begge foreldrene døde som følge av yrkesskade som går inn under denne lov, har barna rett til pensjon etter den av foreldrene hvis arbeidsinntekt betinger den høyeste pensjon.
+1\. Barn under 18 år har rett til pensjon fra og med den måned forsørgeren dør.
+
+Pensjonen for første barn utgjer 40 prosent av folketrygdens grunnbeløp, og pensjonen for hvert av de øvrige barn 25 prosent av grunnbeløpet.
+
+Er begge foreldrene døde, skal pensjonen for det første barn svare til enkepensjonen. Pensjonen for neste barn utgjør 40 prosent av grunnbeløpet, og pensjonen for hvert av de øvrige barn 25 prosent av grunnbeløpet.
+
+Er begge foreldrene døde som følge av yrkesskade som går inn under denne lov, har barna rett til pensjon etter den av foreldrene hvis arbeidsinntekt betinger den høyeste pensjon.
 
 2\. Det kan tilstås barnepensjon også etter barnets 18. år, men ikke utover den måned da det fyller 21 år, dersom det finnes rimelig av omsyn til barnets utdannelse. Det samme gjelder når den trygdede dør etter at barnet er fylt 18 år.
 
@@ -248,7 +339,14 @@ Dersom trygdet får legemsskade eller dør som følge av krigsulykke som ikke g�
 
 ### § 25
 
-1\. Trygdet arbeidsinntekt kan ikke overstige 30.000 kroner. Den fastsettes slik:For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt 1 a-d og punkt 1 h-k, skal trygdet arbeidsinntekt svare til den antatte årlige arbeidsinntekt. For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt 1 k, skal trygdet arbeidsinntekt ikke settes lavere enn 21.000 kroner. For trygdet som er ombord på fiske- eller fangstfartøy på 100 tonnasjeenheter/registertonn brutto eller mer og som ikke hører til det egentlige skipsmannskap, skal trygdet arbeidsinntekt være 18.000 kroner, i tilfelle med tillegg av beløp som det måtte være tegnet frivillig tilleggstrygd for etter [§ 6](lov/1958-12-12-10/§6).For ungdom som på grunn av ufullendt utdannelse, manglende praksis eller liknende hadde liten inntekt på skadetidspunktet, skal trygdet arbeidsinntekt være 14.000 kroner og etter hvert forhøyes i samsvar med den arbeidsinntekt som det må antas at han ville oppnådd dersom yrkesskaden ikke var inntruffet.For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 f, skal trygdet arbeidsinntekt være 14.000 kroner, med tillegg av det beløp som det måtte være tegnet frivillig tilleggstrygd for etter [§ 6](lov/1958-12-12-10/§6). Det samme gjelder for pliktig trygdet på fiske- eller fangstfartøyer under 100 tonnasjeenheter/registertonn brutto, selv om vedkommende ikke går inn under [§ 1](lov/1958-12-12-10/§1) punkt 1 f.For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt e og g, og for frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5) punkt 1 b, skal trygdet arbeidsinntekt fastsettes på tilsvarende måte som bestemt for ungdom i punkt 1 a tredje ledd. For elever som ikke får opplæring i noe bestemt yrke, skal trygdet arbeidsinntekt settes til 14.000 kroner fra fylte 18 år, stigende med 3.500 kroner for hvert år til 21.000 kroner.For frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5) punkt 1 a, skal trygdet arbeidsinntekt svare til den antatte årlige arbeidsinntekt i den ervervsmessige virksomhet.
+1\. Trygdet arbeidsinntekt kan ikke overstige 30.000 kroner. Den fastsettes slik:
+
+1. For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt 1 a-d og punkt 1 h-k, skal trygdet arbeidsinntekt svare til den antatte årlige arbeidsinntekt. For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt 1 k, skal trygdet arbeidsinntekt ikke settes lavere enn 21.000 kroner. For trygdet som er ombord på fiske- eller fangstfartøy på 100 tonnasjeenheter/registertonn brutto eller mer og som ikke hører til det egentlige skipsmannskap, skal trygdet arbeidsinntekt være 18.000 kroner, i tilfelle med tillegg av beløp som det måtte være tegnet frivillig tilleggstrygd for etter [§ 6](lov/1958-12-12-10/§6).
+
+   For ungdom som på grunn av ufullendt utdannelse, manglende praksis eller liknende hadde liten inntekt på skadetidspunktet, skal trygdet arbeidsinntekt være 14.000 kroner og etter hvert forhøyes i samsvar med den arbeidsinntekt som det må antas at han ville oppnådd dersom yrkesskaden ikke var inntruffet.
+2. For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1), punkt 1 f, skal trygdet arbeidsinntekt være 14.000 kroner, med tillegg av det beløp som det måtte være tegnet frivillig tilleggstrygd for etter [§ 6](lov/1958-12-12-10/§6). Det samme gjelder for pliktig trygdet på fiske- eller fangstfartøyer under 100 tonnasjeenheter/registertonn brutto, selv om vedkommende ikke går inn under [§ 1](lov/1958-12-12-10/§1) punkt 1 f.
+3. For pliktig trygdet som nevnt i [§ 1](lov/1958-12-12-10/§1) punkt e og g, og for frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5) punkt 1 b, skal trygdet arbeidsinntekt fastsettes på tilsvarende måte som bestemt for ungdom i punkt 1 a tredje ledd. For elever som ikke får opplæring i noe bestemt yrke, skal trygdet arbeidsinntekt settes til 14.000 kroner fra fylte 18 år, stigende med 3.500 kroner for hvert år til 21.000 kroner.
+4. For frivillig trygdet som nevnt i [§ 5](lov/1958-12-12-10/§5) punkt 1 a, skal trygdet arbeidsinntekt svare til den antatte årlige arbeidsinntekt i den ervervsmessige virksomhet.
 
 2\. Består en del av arbeidsinntekten av naturalytelser, skal disse verdsettes etter samme regler som er fastsatt med hjemmel i § 28 i lov om syketrygd. Departementet kan ellers bestemme hva som skal anses som trygdet arbeidsinntekt.
 
@@ -354,7 +452,9 @@ Departementet kan gi bestemmelser om bortfall av ytelser etter denne lov for per
 
 ### § 38. Uriktige opplysninger og tilbakevirkning m.v.
 
-1\. Krav om ytelser etter denne lov kan avslås og tilkjente ytelser kan tilbakeholdes helt eller delvis dersom den trygdede mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter og plikter etter denne lov, eller uten rimelig grunn unnlater å etterkomme påbud som er gitt med hjemmel i denne lov.Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å delta på arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.
+1\. Krav om ytelser etter denne lov kan avslås og tilkjente ytelser kan tilbakeholdes helt eller delvis dersom den trygdede mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter og plikter etter denne lov, eller uten rimelig grunn unnlater å etterkomme påbud som er gitt med hjemmel i denne lov.
+
+Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å delta på arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.
 
 2\. [folketrygdloven § 22-15](lov/1997-02-28-19/§22-15) gjelder tilsvarende for ytelser etter loven her.
 
@@ -446,15 +546,33 @@ Departementet kan gi nærmere regler om gjennomføringen av denne lov.
 
 ### § 53. Stønader for skader påført før lovens ikrafttreden.
 
-1\. Invaliderenter, enkerenter og barnerenter for skadetilfelle som går inn underlov om ulykkesforsikring for arbeidere i fabrikker m.v. av 23. juli 1894, lov om ulykkesforsikring for industriarbeidere m.v, av 13. august 1915 og lov om ulykkestrygd for industriarbeidere m.v. av 24. juni 1931,lov om ulykkesforsikring for sjømenn av 18. august 1911 og lov om ulykkestrygd for sjømenn av 24. juni 1931,lov om ulukketrygding for fiskarar frå 10. desember 1920,regnes om til pensjoner etter satsene i denne lov. For slike skadetilfelle får §§ 12-14, 16, 17 og 19-22 anvendelse.Bestemmelsene i [§ 13](lov/1958-12-12-10/§13), punkt 1 og 4 og [§ 22](lov/1958-12-12-10/§22) gjelder selv om forsørgingstillegg eller barnerente er bortfalt før denne lovs ikrafttreden fordi barnet er fylt 16 år.Når særlige forhold tilsier det, kan det istedenfor ascendentrente gis ascendentpensjon etter bestemmelsene i [§ 23](lov/1958-12-12-10/§23).
+1\. Invaliderenter, enkerenter og barnerenter for skadetilfelle som går inn under
 
-2\. Det skjer ingen omregning etter punkt 1, hvisuføregrad etter fastsettelse som nevnt i punkt 3 b er lavere enn 30 prosent,den skadede ved denne lovs ikrafttreden er fylt 70 år.
+1. lov om ulykkesforsikring for arbeidere i fabrikker m.v. av 23. juli 1894, lov om ulykkesforsikring for industriarbeidere m.v, av 13. august 1915 og lov om ulykkestrygd for industriarbeidere m.v. av 24. juni 1931,
+2. lov om ulykkesforsikring for sjømenn av 18. august 1911 og lov om ulykkestrygd for sjømenn av 24. juni 1931,
+3. lov om ulukketrygding for fiskarar frå 10. desember 1920,
 
-3\. Ved omregningen skalden arbeidsinntekt som opprinnelig ble lagt til grunn ved fastsettelsen av rentebeløpet, justeres under omsyn til senere endringer i lønnsnivået. Kongen fastsetter nærmere regler for justeringen,uføregraden (invaliditetsgraden) fastsettes på nytt etter bestemmelsene i [§ 12](lov/1958-12-12-10/§12), punktene 2 og 3.
+regnes om til pensjoner etter satsene i denne lov. For slike skadetilfelle får §§ 12-14, 16, 17 og 19-22 anvendelse.
+
+Bestemmelsene i [§ 13](lov/1958-12-12-10/§13), punkt 1 og 4 og [§ 22](lov/1958-12-12-10/§22) gjelder selv om forsørgingstillegg eller barnerente er bortfalt før denne lovs ikrafttreden fordi barnet er fylt 16 år.
+
+Når særlige forhold tilsier det, kan det istedenfor ascendentrente gis ascendentpensjon etter bestemmelsene i [§ 23](lov/1958-12-12-10/§23).
+
+2\. Det skjer ingen omregning etter punkt 1, hvis
+
+1. uføregrad etter fastsettelse som nevnt i punkt 3 b er lavere enn 30 prosent,
+2. den skadede ved denne lovs ikrafttreden er fylt 70 år.
+
+3\. Ved omregningen skal
+
+1. den arbeidsinntekt som opprinnelig ble lagt til grunn ved fastsettelsen av rentebeløpet, justeres under omsyn til senere endringer i lønnsnivået. Kongen fastsetter nærmere regler for justeringen,
+2. uføregraden (invaliditetsgraden) fastsettes på nytt etter bestemmelsene i [§ 12](lov/1958-12-12-10/§12), punktene 2 og 3.
 
 4\. Ved omregning etter bestemmelsene i denne paragraf kan pensjonsbeløpet ikke settes lavere enn det som følger av den lovgivning som er nevnt i punkt 1 a-c og lov av 17. juli 1953 om omregning av ytelser til visse rentenytere etter lovgivningen om ulykkestrygd for industriarbeidere m.v., fiskere og sjømenn.
 
-5\. I saker som går inn under lovgivningen som nevnt i punkt 1 a til c og hvor invaliditetsgraden er endelig fastsatt, kan renten etter søknad fra den skadede løses ut en gang for alle med et beløp som svarer til kapitalverdien med fradrag av 20 prosent. Dette gjelder dog ikke dersom uføregraden etter punkt 3 b fastsettes til 30 prosent eller mer.Utløsningsbeløpet kan betales i en sum eller i terminer etter Arbeids- og velferdsetatens bestemmelse i det enkelte tilfelle.
+5\. I saker som går inn under lovgivningen som nevnt i punkt 1 a til c og hvor invaliditetsgraden er endelig fastsatt, kan renten etter søknad fra den skadede løses ut en gang for alle med et beløp som svarer til kapitalverdien med fradrag av 20 prosent. Dette gjelder dog ikke dersom uføregraden etter punkt 3 b fastsettes til 30 prosent eller mer.
+
+Utløsningsbeløpet kan betales i en sum eller i terminer etter Arbeids- og velferdsetatens bestemmelse i det enkelte tilfelle.
 
 > Endret ved lov 18 des 1959 nr. 13. Jf. [lover 26 apr 1963 nr. 3](lov/1963-04-26-3), [8 juni 1973 nr. 52](lov/1973-06-08-52), [4 apr 1975 nr. 13](lov/1975-04-04-13), [19 des 1975 nr. 75](lov/1975-12-19-75), [17 des 1976 nr. 104](lov/1976-12-17-104), [9 des 1977 nr. 89](lov/1977-12-09-89), [15 des 1978 nr. 88](lov/1978-12-15-88), [16 mai 1980 nr. 10](lov/1980-05-16-10), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
@@ -488,7 +606,14 @@ Blir uføregraden i henhold til [§ 53](lov/1958-12-12-10/§53) punkt 3 bokstav 
 
 ### § 57
 
-1\. Fra 1. januar 2011 reguleres følgende satser med lønnsveksten fram til fylte 67 år:satsene for uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldrene er døde, forutsatt at skadetilfellet enten er inntruffet i tidsrommet 1. januar 1960 – 31. desember 1970, eller går inn under loven her ved omregning etter § 53 punkt 1 eller etter kapittel II i [endringsloven 9. juni 1961 nr. 19](lov/1961-06-09-19).satsene for invaliderenter med forsørgingstillegg og hjelpeløshetstillegg til en skadd som var fylt 70 år før 1. januar 1960, forutsatt at skadetilfellet går inn under en av lovene nevnt i [§ 53](lov/1958-12-12-10/§53) punkt 1 bokstavene a-c, og arbeidsevnen er nedsatt med minst 30 prosent.Fra 67 år reguleres de nevnte satsene i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første regulering etter fylte 67 år gjelder bestemmelsen i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 42](lov/1949-07-28-26/§42) første ledd andre punktum tilsvarende.Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.
+1\. Fra 1. januar 2011 reguleres følgende satser med lønnsveksten fram til fylte 67 år:
+
+1. satsene for uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldrene er døde, forutsatt at skadetilfellet enten er inntruffet i tidsrommet 1. januar 1960 – 31. desember 1970, eller går inn under loven her ved omregning etter § 53 punkt 1 eller etter kapittel II i [endringsloven 9. juni 1961 nr. 19](lov/1961-06-09-19).
+2. satsene for invaliderenter med forsørgingstillegg og hjelpeløshetstillegg til en skadd som var fylt 70 år før 1. januar 1960, forutsatt at skadetilfellet går inn under en av lovene nevnt i [§ 53](lov/1958-12-12-10/§53) punkt 1 bokstavene a-c, og arbeidsevnen er nedsatt med minst 30 prosent.
+
+Fra 67 år reguleres de nevnte satsene i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første regulering etter fylte 67 år gjelder bestemmelsen i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 42](lov/1949-07-28-26/§42) første ledd andre punktum tilsvarende.
+
+Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.
 
 2\. Bestemmelsene i nr. 1 gjelder ikke invaliderenter for skadetilfeller inntruffet før 1. januar 1960, dersom uføregraden er fastsatt lavere enn 30 prosent etter reglene i loven her. Bestemmelsene får heller ikke anvendelse på barnetillegg, pleietillegg, bevilgede enke- og enkemannspensjoner og ascendentpensjoner.
 
@@ -502,7 +627,11 @@ Blir uføregraden i henhold til [§ 53](lov/1958-12-12-10/§53) punkt 3 bokstav 
 
 1\. Jernbanens ulykkestrygd i medhold av [lovens § 54](lov/1958-12-12-10/§54) annet ledd annet og tredje punktum oppheves.
 
-2\. Den som oppebærer løpende ytelser fra Jernbanens ulykkestrygd, skal fra det tidspunkt paragrafen her trer i kraft, omfattes av bestemmelsene i lov om yrkesskadetrygd eller lov om ulykkestrygd for industriarbeidere. Ytelsene beregnes etter bestemmelsene i disse lover, likevel slik at de ikke reduseres, som følge av omregningen.Dersom det etter opphevelsen fremsettes krav om pensjon eller trygdeytelser på grunn av yrkesskade eller yrkessykdom påført ved arbeidsulykke eller skadelig påvirkning i arbeid ved statsbanenes drift før 1971 uten at saken tidligere er meldt, skal kravet avgjøres etter lover nevnt i første ledd.Den som oppebærer livrente etter § 7 i lov av 15. februar 1918 om offentlige tjenstemenn som følge av tjenesteulykke i arbeid ved statsbanens drift før 1971, skal fra det tidspunkt paragrafen her trer i kraft få ytelsene regnet om etter lover nevnt i første ledd. Dersom ytelsene går ned som følge av omberegningen, skal den skadede få løst ut differansen mellom tidligere ytelse og den omberegnede ytelse med et beløp som svarer til kapitalverdien. Bestemmelsen gjelder tilsvarende for den som etter individuelt tilsagn oppebærer terminvis stønad av statskassen som følge av slik arbeidsskade eller sykdom ved statsbanenes drift før 1971.
+2\. Den som oppebærer løpende ytelser fra Jernbanens ulykkestrygd, skal fra det tidspunkt paragrafen her trer i kraft, omfattes av bestemmelsene i lov om yrkesskadetrygd eller lov om ulykkestrygd for industriarbeidere. Ytelsene beregnes etter bestemmelsene i disse lover, likevel slik at de ikke reduseres, som følge av omregningen.
+
+Dersom det etter opphevelsen fremsettes krav om pensjon eller trygdeytelser på grunn av yrkesskade eller yrkessykdom påført ved arbeidsulykke eller skadelig påvirkning i arbeid ved statsbanenes drift før 1971 uten at saken tidligere er meldt, skal kravet avgjøres etter lover nevnt i første ledd.
+
+Den som oppebærer livrente etter § 7 i lov av 15. februar 1918 om offentlige tjenstemenn som følge av tjenesteulykke i arbeid ved statsbanens drift før 1971, skal fra det tidspunkt paragrafen her trer i kraft få ytelsene regnet om etter lover nevnt i første ledd. Dersom ytelsene går ned som følge av omberegningen, skal den skadede få løst ut differansen mellom tidligere ytelse og den omberegnede ytelse med et beløp som svarer til kapitalverdien. Bestemmelsen gjelder tilsvarende for den som etter individuelt tilsagn oppebærer terminvis stønad av statskassen som følge av slik arbeidsskade eller sykdom ved statsbanenes drift før 1971.
 
 > Tilføyd ved [lov 23 des 1988 nr. 109](lov/1988-12-23-109).
 

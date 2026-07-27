@@ -15,7 +15,7 @@ xml_hash: "3a21ff8c9f12937b7e723ad20766b59ab2550568d64104c9e010e84a4d003798"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,37 @@ eu_basis: []
 
 (1) Unntaket fra plikten til å avgi forhåndsvarsel i [vareførselsloven § 2-1 annet ledd](lov/2022-03-11-9/§2-1/ledd/2) gjelder ikke dersom varene ankommer tollområdet til Den europeiske union, Sveits og dens tollenklaver eller Liechtenstein fra et tredjeland, varene har tollområdet som endelig bestemmelsessted og den som avgir opplysninger i et forhåndsvarsel eller minimumsdatasett etter [§ 2-1-1](forskrift/2022-10-27-1901/§2-1-1) annet ledd ikke kjenner til hvor varene først ankommer. I slike tilfeller skal opplysninger i forhåndsvarsel eller minimumsdatasett etter [§ 2-1-1](forskrift/2022-10-27-1901/§2-1-1) annet ledd avgis til norske tollmyndigheter.
 
-(2) Plikten til forhåndsvarsel ved innførsel gjelder ikkeelektrisk kraft,vare som innføres via rørledning,brev, postkort, brev i punktskrift og trykksaker som ikke er avgiftspliktige ved import,vare etter [EØS-avtalen protokoll 10 om forenkling av kontroll og formaliteter i forbindelse med godstransport](avtale/avt-1992-05-02-1-p10) vedlegg 1 artikkel 2 bokstav e,reisegods til personlig bruk som bringes med i forbindelse med reise til tollområdet,vare som er dekket av ATA- eller CPD-carnet, forutsatt at transporten ikke utføres under en transportavtale,vare til ambassader, konsulater mv. i henhold til Wien-konvensjonene om diplomatiske og konsulære forhold og FN-konvensjonen om spesielle oppdrag,våpen og militært utstyr som bringes inn til tollområdet av forsvarsmyndighetene og utelukkende er til bruk for disse,følgende vare som innføres til tollområdet direkte fra offshoreinstallasjoner som drives av et foretak som er etablert i Norge, Den europeiske union, Sveits eller Liechtenstein:vare som har inngått i slike offshoreinstallasjoner som en del av deres konstruksjon, reparasjon, vedlikehold eller ombygging, ogvare som har vært brukt til å montere eller utruste de nevnte offshoreinstallasjonene, andre forsyninger som brukes eller konsumeres på de nevnte offshoreinstallasjonene og ikke-farlige avfallsprodukter fra de nevnte offshoreinstallasjonene.vare fra NATO etter formular 302,vare som transporteres gjennom tollområdet med fartøy eller luftfartøy uten å stoppe innenfor tollområdet,gavesending til privatperson, forutsatt at transporten ikke utføres under en transportavtale,dyr på beite,midlertidig innførsel av produksjons- og kringkastingsutstyr for radio og fjernsyn, forutsatt at transporten ikke utføres under en transportavtale,midlertidig innførsel av medisinsk utstyr til bruk på pasienter som venter på en transplantasjon, forutsatt at transporten ikke utføres under en transportavtale,velferdsmateriell som er tollavgiftsfritt etter [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav k,vare fra Ceuta og Melilla, Helgoland, Republikken San Marino, Vatikanstaten, kommunen Livigno og de sveitsiske tollenklavene Samnaun og Sampuoi,følgende varer om bord på fartøy eller luftfartøy:vare som er blitt levert for innlemmelse eller som ekstrautstyr i nevnte fartøyer og luftfartøyer,vare til drift av motorer, maskiner eller annet utstyr i nevnte fartøyer eller luftfartøyer, ogmatvarer og andre varer som skal konsumeres eller selges om bord.produkter fra havfiske eller andre produkter hentet opp fra havet utenfor tollområdet av fiskefartøy fra Norge, Den europeiske union, Sveits eller Liechtenstein,fartøyer, og varer som transporteres om bord på slike fartøy, som ankommer territorialfarvannet kun med det formål å ta om bord forsyninger uten å koble seg til noen av havnefasilitetene,innbo og løsøre, forutsatt at transporten ikke utføres under en transportavtale, ellervarer som sendes til Norge fra tollområdet til Den europeiske union, Liechtenstein eller Sveits eller dens tollenklaver til sjøs eller med luftfartøy og som under transporten passerer gjennom andre tollområder uten å stoppe.
+(2) Plikten til forhåndsvarsel ved innførsel gjelder ikke
+
+1. elektrisk kraft,
+2. vare som innføres via rørledning,
+3. brev, postkort, brev i punktskrift og trykksaker som ikke er avgiftspliktige ved import,
+4. vare etter [EØS-avtalen protokoll 10 om forenkling av kontroll og formaliteter i forbindelse med godstransport](avtale/avt-1992-05-02-1-p10) vedlegg 1 artikkel 2 bokstav e,
+5. reisegods til personlig bruk som bringes med i forbindelse med reise til tollområdet,
+6. vare som er dekket av ATA- eller CPD-carnet, forutsatt at transporten ikke utføres under en transportavtale,
+7. vare til ambassader, konsulater mv. i henhold til Wien-konvensjonene om diplomatiske og konsulære forhold og FN-konvensjonen om spesielle oppdrag,
+8. våpen og militært utstyr som bringes inn til tollområdet av forsvarsmyndighetene og utelukkende er til bruk for disse,
+9. følgende vare som innføres til tollområdet direkte fra offshoreinstallasjoner som drives av et foretak som er etablert i Norge, Den europeiske union, Sveits eller Liechtenstein:
+
+   1. vare som har inngått i slike offshoreinstallasjoner som en del av deres konstruksjon, reparasjon, vedlikehold eller ombygging, og
+   2. vare som har vært brukt til å montere eller utruste de nevnte offshoreinstallasjonene, andre forsyninger som brukes eller konsumeres på de nevnte offshoreinstallasjonene og ikke-farlige avfallsprodukter fra de nevnte offshoreinstallasjonene.
+10. vare fra NATO etter formular 302,
+11. vare som transporteres gjennom tollområdet med fartøy eller luftfartøy uten å stoppe innenfor tollområdet,
+12. gavesending til privatperson, forutsatt at transporten ikke utføres under en transportavtale,
+13. dyr på beite,
+14. midlertidig innførsel av produksjons- og kringkastingsutstyr for radio og fjernsyn, forutsatt at transporten ikke utføres under en transportavtale,
+15. midlertidig innførsel av medisinsk utstyr til bruk på pasienter som venter på en transplantasjon, forutsatt at transporten ikke utføres under en transportavtale,
+16. velferdsmateriell som er tollavgiftsfritt etter [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav k,
+17. vare fra Ceuta og Melilla, Helgoland, Republikken San Marino, Vatikanstaten, kommunen Livigno og de sveitsiske tollenklavene Samnaun og Sampuoi,
+18. følgende varer om bord på fartøy eller luftfartøy:
+
+    1. vare som er blitt levert for innlemmelse eller som ekstrautstyr i nevnte fartøyer og luftfartøyer,
+    2. vare til drift av motorer, maskiner eller annet utstyr i nevnte fartøyer eller luftfartøyer, og
+    3. matvarer og andre varer som skal konsumeres eller selges om bord.
+19. produkter fra havfiske eller andre produkter hentet opp fra havet utenfor tollområdet av fiskefartøy fra Norge, Den europeiske union, Sveits eller Liechtenstein,
+20. fartøyer, og varer som transporteres om bord på slike fartøy, som ankommer territorialfarvannet kun med det formål å ta om bord forsyninger uten å koble seg til noen av havnefasilitetene,
+21. innbo og løsøre, forutsatt at transporten ikke utføres under en transportavtale, eller
+22. varer som sendes til Norge fra tollområdet til Den europeiske union, Liechtenstein eller Sveits eller dens tollenklaver til sjøs eller med luftfartøy og som under transporten passerer gjennom andre tollområder uten å stoppe.
 
 > Endret ved forskrifter [22 feb 2023 nr. 252](forskrift/2023-02-22-252) (i kraft 1 mars 2023), [28 feb 2023 nr. 271](forskrift/2023-02-28-271) (i kraft 1 mars 2023), [1 juni 2023 nr. 788](forskrift/2023-06-01-788), [23 mai 2024 nr. 820](forskrift/2024-05-23-820), [23 mai 2024 nr. 820](forskrift/2024-05-23-820) (i kraft 3 juni 2024).
 
@@ -64,9 +94,17 @@ eu_basis: []
 
 ### § 2-1-4. Frister for forhåndsvarsel ved innførsel
 
-(1) Ved innførsel av varer med fartøy skal forhåndsvarsel gis innen følgende frister:For varer i container – minst 24 timer før lasting i avgangshavn.For bulklast og last i partier – minst 4 timer før ankomst i første havn i tollområdet.For varer som ankommer Norge fra Grønland, Færøyene og, Island, samt havner i Østersjøen, Nordsjøen, Svartehavet, Middelhavet og Marokko – minst 2 timer før ankomst i første havn i tollområdet,For varer som ankommer Norge fra havner i Storbritannia, med unntak av havner i Nord-Irland, og havner på Kanaløyene og Man – minst 2 timer før ankomst i første havn i tollområdet.
+(1) Ved innførsel av varer med fartøy skal forhåndsvarsel gis innen følgende frister:
 
-(2) Ved innførsel av varer med luftfartøy skal minimumsdatasett som nevnt i [§ 2-1-1 første ledd andre punktum](forskrift/2022-10-27-1901/§2-1-1/ledd/1/setning/2) gis så snart som mulig og senest før varene lastes om bord i luftfartøyet. I tilfeller hvor det ikke er gitt et minimumsdatasett eller minimumsdatasettet ikke anses som fullstendig forhåndsvarsel skal fullstendig forhåndsvarsel gis så snart som mulig og innen følgende frister:for flyginger på over 4 timer – minst 4 timer før ankomst til første lufthavn i tollområdet,for flyginger på under 4 timer – senest ved avgang i utlandet.
+1. For varer i container – minst 24 timer før lasting i avgangshavn.
+2. For bulklast og last i partier – minst 4 timer før ankomst i første havn i tollområdet.
+3. For varer som ankommer Norge fra Grønland, Færøyene og, Island, samt havner i Østersjøen, Nordsjøen, Svartehavet, Middelhavet og Marokko – minst 2 timer før ankomst i første havn i tollområdet,
+4. For varer som ankommer Norge fra havner i Storbritannia, med unntak av havner i Nord-Irland, og havner på Kanaløyene og Man – minst 2 timer før ankomst i første havn i tollområdet.
+
+(2) Ved innførsel av varer med luftfartøy skal minimumsdatasett som nevnt i [§ 2-1-1 første ledd andre punktum](forskrift/2022-10-27-1901/§2-1-1/ledd/1/setning/2) gis så snart som mulig og senest før varene lastes om bord i luftfartøyet. I tilfeller hvor det ikke er gitt et minimumsdatasett eller minimumsdatasettet ikke anses som fullstendig forhåndsvarsel skal fullstendig forhåndsvarsel gis så snart som mulig og innen følgende frister:
+
+1. for flyginger på over 4 timer – minst 4 timer før ankomst til første lufthavn i tollområdet,
+2. for flyginger på under 4 timer – senest ved avgang i utlandet.
 
 (3) Ved innførsel av varer med motorvogn skal forhåndsvarsel gis minst 1 time før grensepassering.
 
@@ -94,13 +132,31 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 
 (1) I tilfeller hvor opplysninger i et forhåndsvarsel ved innførsel avgis av andre personer enn transportøren, skal de involverte personene underrette hverandre og tollmyndighetene i henhold til reglene i andre til fjerde ledd.
 
-(2) Ved innførsel av varer med luftfartøy hvor en eller flere andre personer enn transportøren har inngått en eller flere transportavtaler som omfattes av et eller flere flyfraktbrev skal:person som utsteder et flyfraktbrev underrette den vedkommende har inngått en transportavtale med om utstedelsen,person som utsteder et flyfraktbrev underrette de vedkommende har inngått en samlastingsordning med om utstedelsen,transportør og person som utsteder et flyfraktbrev i forhåndsvarselet oppgi identiteten til personer som ikke gjør alle opplysningene som kreves i forhåndsvarselet tilgjengelig for dem, ogperson som utsteder flyfraktbrev, dersom vedkommende ikke har gjort detaljene som kreves i forhåndsvarselet tilgjengelig for sin kontraktspartner som utsteder et flyfraktbrev til vedkommende, eller for sin kontraktspartner som vedkommende har inngått en samlastingsordning med, framlegge opplysningene for tollmyndighetene.
+(2) Ved innførsel av varer med luftfartøy hvor en eller flere andre personer enn transportøren har inngått en eller flere transportavtaler som omfattes av et eller flere flyfraktbrev skal:
 
-(3) Ved innførsel av varer i postforsendelse hvor tilbyder av posttjenester ikke gjør opplysninger som kreves i forhåndsvarselet tilgjengelig for transportøren skal:norsk tilbyder av posttjenester avgi de aktuelle opplysningene til tollmyndighetene, forutsatt at varen har Norge som endelig bestemmelsessted eller transitteres gjennom Norge uten først å ha vært i Den europeiske union, Sveits og dens tollenklaver eller Liechtenstein og uten å ha noen av disse landene som endelig bestemmelsessted, ogtransportøren i forhåndsvarselet oppgi identiteten til den tilbyderen av posttjenester som ikke gjør opplysningene tilgjengelig for vedkommende.
+1. person som utsteder et flyfraktbrev underrette den vedkommende har inngått en transportavtale med om utstedelsen,
+2. person som utsteder et flyfraktbrev underrette de vedkommende har inngått en samlastingsordning med om utstedelsen,
+3. transportør og person som utsteder et flyfraktbrev i forhåndsvarselet oppgi identiteten til personer som ikke gjør alle opplysningene som kreves i forhåndsvarselet tilgjengelig for dem, og
+4. person som utsteder flyfraktbrev, dersom vedkommende ikke har gjort detaljene som kreves i forhåndsvarselet tilgjengelig for sin kontraktspartner som utsteder et flyfraktbrev til vedkommende, eller for sin kontraktspartner som vedkommende har inngått en samlastingsordning med, framlegge opplysningene for tollmyndighetene.
 
-(4) Ved innførsel av varer i ekspressforsendelse med luftfartøy hvor ekspresselskapet ikke gjør opplysninger som kreves i forhåndsvarselet tilgjengelig for transportøren skal:ekspresselskapet avgi de aktuelle opplysningene til tollmyndighetene, ogtransportøren i forhåndsvarselet oppgi identiteten til det ekspresselskapet som ikke gjør opplysningene tilgjengelig for vedkommende.
+(3) Ved innførsel av varer i postforsendelse hvor tilbyder av posttjenester ikke gjør opplysninger som kreves i forhåndsvarselet tilgjengelig for transportøren skal:
 
-(5) Ved innførsel av vare med fartøy hvor en eller flere andre enn transportøren har inngått en eller flere tilleggstransportavtaler som omfattes av et eller flere konnossementer skal:person som utsteder konnossement underrette den vedkommende har inngått en transportavtale med om utstedelsen av konnossementet,person som utsteder konnossement underrette person som vedkommende har inngått en samlastingsordning med om utstedelsen av konnossementet,transportør og person som utsteder konnossement i forhåndsvarselet oppgi identiteten til personer vedkommende har inngått en transportavtale med og som ikke gjør opplysningene som kreves i et forhåndsvarsel tilgjengelig for dem,person som utsteder konnossement i forhåndsvarselet oppgi identiteten til mottakeren angitt i konnossementet dersom denne ikke selv har noen underliggende konnossementer og ikke har gjort opplysningene som kreves i et forhåndsvarsel tilgjengelige,person som utsteder konnossement, dersom vedkommende ikke har gjort opplysninger som kreves i et forhåndsvarsel tilgjengelig for sine kontraktsparter som utsteder et konnossement til vedkommende eller som vedkommende har inngått en samlastingsordning med, avgi opplysningene til tollmyndighetene, ogmottaker angitt i et konnossement, dersom vedkommende ikke selv har noen underliggende konnossementer og ikke gjør opplysningene som kreves i et forhåndsvarsel tilgjengelig for personen som utsteder konnossementet, avgi opplysningene til tollmyndighetene.
+1. norsk tilbyder av posttjenester avgi de aktuelle opplysningene til tollmyndighetene, forutsatt at varen har Norge som endelig bestemmelsessted eller transitteres gjennom Norge uten først å ha vært i Den europeiske union, Sveits og dens tollenklaver eller Liechtenstein og uten å ha noen av disse landene som endelig bestemmelsessted, og
+2. transportøren i forhåndsvarselet oppgi identiteten til den tilbyderen av posttjenester som ikke gjør opplysningene tilgjengelig for vedkommende.
+
+(4) Ved innførsel av varer i ekspressforsendelse med luftfartøy hvor ekspresselskapet ikke gjør opplysninger som kreves i forhåndsvarselet tilgjengelig for transportøren skal:
+
+1. ekspresselskapet avgi de aktuelle opplysningene til tollmyndighetene, og
+2. transportøren i forhåndsvarselet oppgi identiteten til det ekspresselskapet som ikke gjør opplysningene tilgjengelig for vedkommende.
+
+(5) Ved innførsel av vare med fartøy hvor en eller flere andre enn transportøren har inngått en eller flere tilleggstransportavtaler som omfattes av et eller flere konnossementer skal:
+
+1. person som utsteder konnossement underrette den vedkommende har inngått en transportavtale med om utstedelsen av konnossementet,
+2. person som utsteder konnossement underrette person som vedkommende har inngått en samlastingsordning med om utstedelsen av konnossementet,
+3. transportør og person som utsteder konnossement i forhåndsvarselet oppgi identiteten til personer vedkommende har inngått en transportavtale med og som ikke gjør opplysningene som kreves i et forhåndsvarsel tilgjengelig for dem,
+4. person som utsteder konnossement i forhåndsvarselet oppgi identiteten til mottakeren angitt i konnossementet dersom denne ikke selv har noen underliggende konnossementer og ikke har gjort opplysningene som kreves i et forhåndsvarsel tilgjengelige,
+5. person som utsteder konnossement, dersom vedkommende ikke har gjort opplysninger som kreves i et forhåndsvarsel tilgjengelig for sine kontraktsparter som utsteder et konnossement til vedkommende eller som vedkommende har inngått en samlastingsordning med, avgi opplysningene til tollmyndighetene, og
+6. mottaker angitt i et konnossement, dersom vedkommende ikke selv har noen underliggende konnossementer og ikke gjør opplysningene som kreves i et forhåndsvarsel tilgjengelig for personen som utsteder konnossementet, avgi opplysningene til tollmyndighetene.
 
 > Tilføyd ved [forskrift 22 feb 2023 nr. 252](forskrift/2023-02-22-252) (i kraft 1 mars 2023), endret ved forskrift [23 mai 2024 nr. 820](forskrift/2024-05-23-820) (i kraft 3 juni 2024).
 
@@ -112,9 +168,16 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 
 (2) Fører av norsk marinefartøy skal gå direkte til sjømilitær stasjon eller sted hvor tollmyndighetene er stasjonert.
 
-(3) Fører av fritidsfartøy er unntatt fra plikten til å gå direkte til sted hvor tollmyndighetene er stasjonert dersom fartøyet er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a. Det er et vilkår for unntaket at det i fartøyet eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og somer unntatt fra deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-13](forskrift/2022-10-27-1901/§4-1-13),innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, ellerer deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+(3) Fører av fritidsfartøy er unntatt fra plikten til å gå direkte til sted hvor tollmyndighetene er stasjonert dersom fartøyet er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a. Det er et vilkår for unntaket at det i fartøyet eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og som
 
-(4) Fører av norsk fartøy som har vare fra fiske og fangst om bord er unntatt fra plikten til å gå til sted der tollmyndighetene er stasjonert dersomfartøyet ikke har andre varer om bord som ikke har gått over i fri disponering, ogfartøyet ikke har anløpt havn utenfor tollområdet.
+1. er unntatt fra deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-13](forskrift/2022-10-27-1901/§4-1-13),
+2. innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, eller
+3. er deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+
+(4) Fører av norsk fartøy som har vare fra fiske og fangst om bord er unntatt fra plikten til å gå til sted der tollmyndighetene er stasjonert dersom
+
+1. fartøyet ikke har andre varer om bord som ikke har gått over i fri disponering, og
+2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
 (5) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord er unntatt fra plikten til å gå til sted hvor tollmyndighetene er stasjonert. Vilkårene i fjerde ledd gjelder tilsvarende.
 
@@ -126,7 +189,11 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 
 (2) Luftfartøy med høyeste tillatte startvekt til og med 5700 kg og som er godkjent for maksimalt ti passasjerer, kan bruke de landingsplassene for småfly som nevnt i [vedlegg 3](forskrift/2022-10-27-1901/vedlegg3). Disse landingsplassene kan bare brukes ved private flyginger og taxiflyginger i trafikk mellom Norge og øvrige Schengen-land. Reiseplan skal legges frem for tollmyndighetene senest fire timer før ankomst.
 
-(3) I luftfartøy som skal bruke landingsplassene som nevnt i annet ledd, kan det bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og somer unntatt fra deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-15](forskrift/2022-10-27-1901/§4-1-15),innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, ellerer deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+(3) I luftfartøy som skal bruke landingsplassene som nevnt i annet ledd, kan det bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og som
+
+1. er unntatt fra deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-15](forskrift/2022-10-27-1901/§4-1-15),
+2. innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, eller
+3. er deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
 
 (4) Personer som ankommer med luftfartøyet, skal ikke forlate dette før ankomsttiden som er oppgitt til tollmyndighetene. Medbrakt vare skal heller ikke fjernes fra luftfartøyet før dette tidspunktet.
 
@@ -136,7 +203,11 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 
 (1) Fører av motorvogn skal ved ankomst til tollområdet følge vei hvor tollmyndighetene er stasjonert og sørge for at motorvognen går direkte til nærmeste ekspedisjonssted i tollområdet. Fører av motorvogn som er underveis til tollområdet fra Sverige eller Finland skal sørge for at motorvognen går til tollsted på henholdsvis svensk eller finsk side av riksgrensen dersom tollstedet utfører tolltjeneste for norsk regning.
 
-(2) Pliktene i første ledd gjelder ikke dersom motorvognen er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a, så lenge det i motorvognen eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og somer unntatt deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-15](forskrift/2022-10-27-1901/§4-1-15),innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, ellerer deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+(2) Pliktene i første ledd gjelder ikke dersom motorvognen er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a, så lenge det i motorvognen eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og som
+
+1. er unntatt deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-15](forskrift/2022-10-27-1901/§4-1-15),
+2. innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, eller
+3. er deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
 
 ### § 2-2-4. Bestemmelsessted ved ankomst med tog
 
@@ -148,7 +219,11 @@ Fører av transportmiddel, som i nødstilfelle har måttet gå til eller stoppe 
 
 ### § 2-2-6. Unntak fra kravet om ankomststed
 
-(1) Tollmyndighetene kan etter søknad gi transportør generell tillatelse til at transportmiddelet kan gå direkte til sted hvor tollmyndighetene ikke er stasjonert eller til lufthavn uten internasjonal status. Tollmyndighetene kan begrense tillatelsen til å gjeldeankomst til enkelte tider og på enkelte stedertransport av enkelte vareslagvarer til enkelte mottakere.
+(1) Tollmyndighetene kan etter søknad gi transportør generell tillatelse til at transportmiddelet kan gå direkte til sted hvor tollmyndighetene ikke er stasjonert eller til lufthavn uten internasjonal status. Tollmyndighetene kan begrense tillatelsen til å gjelde
+
+1. ankomst til enkelte tider og på enkelte steder
+2. transport av enkelte vareslag
+3. varer til enkelte mottakere.
 
 (2) [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet til fjerde ledd og [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) gjelder tilsvarende.
 
@@ -164,19 +239,34 @@ Fører av transportmiddel, som i nødstilfelle har måttet gå til eller stoppe 
 
 ### § 2-3-1. Meldeplikt ved ankomst med fartøy
 
-(1) Fører av et fartøy som skal ankomme sted i tollområdet, plikter å melde fra til tollmyndighetene om ankomsten minst 24 timer på forhånd, ellersenest når fartøyet forlater forrige havn der reisen varer mindre enn 24 timer, ellerhvis ankomsthavnen eller ankomsttidspunktet er ukjent eller endres under reisen, så snart opplysningene er kjent.
+(1) Fører av et fartøy som skal ankomme sted i tollområdet, plikter å melde fra til tollmyndighetene om ankomsten minst 24 timer på forhånd, eller
+
+1. senest når fartøyet forlater forrige havn der reisen varer mindre enn 24 timer, eller
+2. hvis ankomsthavnen eller ankomsttidspunktet er ukjent eller endres under reisen, så snart opplysningene er kjent.
 
 (2) Melding etter første ledd skal gis elektronisk i SafeSeaNet Norway. Melding kan gis av andre på førerens vegne.
 
-(3) Fører av fritidsfartøy er unntatt fra melde- og opplysningsplikt etter [vareførselsloven § 2-3](lov/2022-03-11-9/§2-3) dersom transportmiddelet er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a. Det er et vilkår for unntaket at det i fartøyet eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og somer unntatt deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-13](forskrift/2022-10-27-1901/§4-1-13),innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, ellerer deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+(3) Fører av fritidsfartøy er unntatt fra melde- og opplysningsplikt etter [vareførselsloven § 2-3](lov/2022-03-11-9/§2-3) dersom transportmiddelet er unntatt fra deklareringsplikt etter [§ 4-1-9](forskrift/2022-10-27-1901/§4-1-9) eller [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) annet ledd eller innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav a. Det er et vilkår for unntaket at det i fartøyet eller av medfølgende passasjerer bare medbringes reisegods som kan innføres uten tillatelser fra andre myndigheter og som
 
-(4) Fører av norsk fartøy som har vare fra fiske og fangst om bord og fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra melde- og opplysningsplikt etter [vareførselsloven § 2-3](lov/2022-03-11-9/§2-3) dersomfartøyet ikke har andre varer som ikke er gått over i fri disponering om bord, ogfartøyet ikke har anløpt havn utenfor tollområdet.
+1. er unntatt deklareringsplikt etter [§ 4-1-10](forskrift/2022-10-27-1901/§4-1-10) til [§ 4-1-13](forskrift/2022-10-27-1901/§4-1-13),
+2. innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a, eller
+3. er deklarert ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd.
+
+(4) Fører av norsk fartøy som har vare fra fiske og fangst om bord og fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra melde- og opplysningsplikt etter [vareførselsloven § 2-3](lov/2022-03-11-9/§2-3) dersom
+
+1. fartøyet ikke har andre varer som ikke er gått over i fri disponering om bord, og
+2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
 > Endret ved [forskrift 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023). **Endres** ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-3-2. Opplysninger ved melding om ankomst med fartøy
 
-(1) Når melding gis etter [§ 2-3-1](forskrift/2022-10-27-1901/§2-3-1) skal det overføres opplysninger til tollmyndighetene i SafeSeaNet Norway om:fartøylastvarer medbragt av besetningenproviant.
+(1) Når melding gis etter [§ 2-3-1](forskrift/2022-10-27-1901/§2-3-1) skal det overføres opplysninger til tollmyndighetene i SafeSeaNet Norway om:
+
+1. fartøy
+2. last
+3. varer medbragt av besetningen
+4. proviant.
 
 (2) Førerens opplysningsplikt etter første ledd bokstav b omfatter ikke varer som fartøyets passasjerer har med og som det ikke betales særskilt frakt for.
 
@@ -188,7 +278,10 @@ Fører av transportmiddel, som i nødstilfelle har måttet gå til eller stoppe 
 
 (6) I tillegg til opplysningene som nevnt i første ledd, skal opplysninger om vare i fartøyet som uten lossing skal følge transportmiddelet ut igjen av tollområdet overføres i SafeSeaNet Norway dersom tollmyndighetene krever det.
 
-(7) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra plikten til å overføre opplysninger etter første ledd dersomfartøyet ikke har proviant om bord som ikke har gått over i fri disponering, ogfartøyet ikke har anløpt havn utenfor tollområdet.
+(7) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord, er unntatt fra plikten til å overføre opplysninger etter første ledd dersom
+
+1. fartøyet ikke har proviant om bord som ikke har gått over i fri disponering, og
+2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
 (8) Fører av turistfartøy (flytende hoteller og lignende) i cruisefart er unntatt fra plikten til å overføre opplysninger om besetning og proviant etter første ledd, dersom fartøyet ikke bringer med vare som skal losses her i landet. Tollmyndighetene kan kreve å følge fartøyet på rederiets bekostning mens det er i tollområdet.
 
@@ -292,7 +385,14 @@ Besetningsmedlemmer på fartøy skal gi opplysninger til fører over hvilke vare
 
 ### § 2-4-5. Unntak fra fremleggelsesplikt
 
-Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan innføres uten tillatelser fra andre myndigheter:vare som deklareres ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd. Gyldig kvittering må kunne fremvises ved grensepasseringenvare som etter [kapittel 4](forskrift/2022-10-27-1901/kap4) er unntatt fra deklareringsplikt ved prosedyren overgang til fri disponering, unntatt vare nevnt i [§ 4-1-24](forskrift/2022-10-27-1901/§4-1-24), [§ 4-1-25](forskrift/2022-10-27-1901/§4-1-25) og [§ 4-1-29](forskrift/2022-10-27-1901/§4-1-29).vare som innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a og b og annet ledd bokstav a til felektrisk kraftgass som innføres via rørledningvare som deklareres etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) åttende ledd.
+Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan innføres uten tillatelser fra andre myndigheter:
+
+1. vare som deklareres ved bruk av tollapplikasjon mv. etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) første ledd. Gyldig kvittering må kunne fremvises ved grensepasseringen
+2. vare som etter [kapittel 4](forskrift/2022-10-27-1901/kap4) er unntatt fra deklareringsplikt ved prosedyren overgang til fri disponering, unntatt vare nevnt i [§ 4-1-24](forskrift/2022-10-27-1901/§4-1-24), [§ 4-1-25](forskrift/2022-10-27-1901/§4-1-25) og [§ 4-1-29](forskrift/2022-10-27-1901/§4-1-29).
+3. vare som innføres midlertidig etter [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav a og b og annet ledd bokstav a til f
+4. elektrisk kraft
+5. gass som innføres via rørledning
+6. vare som deklareres etter [§ 4-1-6](forskrift/2022-10-27-1901/§4-1-6) åttende ledd.
 
 > Endret ved [forskrifter 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023), [21 des 2023 nr. 2280](forskrift/2023-12-21-2280) (i kraft 1 jan 2024).
 
@@ -304,11 +404,26 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan innføres uten 
 
 ### § 2-4-7. Unntak fra kravet til vareførsel på vei med åpent tollsted
 
-(1) Tollmyndighetene kan etter søknad gi transportør generell tillatelse til vareførsel på vei hvor det ikke er norsk, svensk eller finsk tollsted. Det kan også gis generell tillatelse til vareførsel utenom åpningstid på vei hvor det er tollsted. Tollmyndighetene kan begrense tillatelsen til å gjeldegrensepassering til enkelte tider og på enkelte stedertransport av enkelte vareslagvarer til enkelte mottakere.
+(1) Tollmyndighetene kan etter søknad gi transportør generell tillatelse til vareførsel på vei hvor det ikke er norsk, svensk eller finsk tollsted. Det kan også gis generell tillatelse til vareførsel utenom åpningstid på vei hvor det er tollsted. Tollmyndighetene kan begrense tillatelsen til å gjelde
 
-(2) Det er vilkår for tillatelse atsøkeren er registrert i Foretaksregisteret. Tollmyndighetene kan i særlige tilfeller gjøre unntak fra dette vilkåret,søkeren, personer i ledelsen i foretaket, foretakets juridiske representanter og personer i foretaket som er ansvarlig for oppgaver relatert til tollbehandling av varer ikke har begått alvorlige eller gjentatte overtredelser av vareførsels-, tollavgift-, skatte- og avgiftslovgivningen de siste tre år,søkeren har internkontroll som forebygger overtredelser av vareførsels- og tollavgiftslovgivningen,søkeren oppbevarer all informasjon som har sammenheng med lettelsene i samsvar med [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) og [§ 7-5-2](forskrift/2022-10-27-1901/§7-5-2), ogaktivitetene som lettelsene angår har et vesentlig omfang.
+1. grensepassering til enkelte tider og på enkelte steder
+2. transport av enkelte vareslag
+3. varer til enkelte mottakere.
 
-(3) Det kan settes som vilkår for tillatelsen at søkerener kredittverdig etter [skattebetalingsforskriften § 14-20-3](forskrift/2007-12-21-1766/§14-20-3) annet leddstiller sikkerhet for det ansvar søkeren kan komme i etter [tollavgiftsloven kapittel 2](lov/2022-03-11-8/kap2)er registrert for merverdiavgiftbruker de elektroniske systemer som tollmyndighetene bestemmer.
+(2) Det er vilkår for tillatelse at
+
+1. søkeren er registrert i Foretaksregisteret. Tollmyndighetene kan i særlige tilfeller gjøre unntak fra dette vilkåret,
+2. søkeren, personer i ledelsen i foretaket, foretakets juridiske representanter og personer i foretaket som er ansvarlig for oppgaver relatert til tollbehandling av varer ikke har begått alvorlige eller gjentatte overtredelser av vareførsels-, tollavgift-, skatte- og avgiftslovgivningen de siste tre år,
+3. søkeren har internkontroll som forebygger overtredelser av vareførsels- og tollavgiftslovgivningen,
+4. søkeren oppbevarer all informasjon som har sammenheng med lettelsene i samsvar med [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) og [§ 7-5-2](forskrift/2022-10-27-1901/§7-5-2), og
+5. aktivitetene som lettelsene angår har et vesentlig omfang.
+
+(3) Det kan settes som vilkår for tillatelsen at søkeren
+
+1. er kredittverdig etter [skattebetalingsforskriften § 14-20-3](forskrift/2007-12-21-1766/§14-20-3) annet ledd
+2. stiller sikkerhet for det ansvar søkeren kan komme i etter [tollavgiftsloven kapittel 2](lov/2022-03-11-8/kap2)
+3. er registrert for merverdiavgift
+4. bruker de elektroniske systemer som tollmyndighetene bestemmer.
 
 (4) Søknad om tillatelse sendes tollmyndighetene. Tillatelsen gjelder i fem år dersom det i tillatelsen ikke er fastsatt noe annet.
 
@@ -374,7 +489,10 @@ Fører av fartøy med varer som ikke er gått over til fri disponering, skal ved
 
 ### § 3-1-2. Unntak fra kravet til umiddelbar tollbehandling ved innførsel
 
-(1) Tollmyndighetene kan gi generell tillatelse til lettelser i plikten til umiddelbar tollbehandling ved grensepassering. Tollmyndighetene kan begrense tillatelsen til å gjeldeenkelte vareslag og begrenset vareverdivarer fra enkelte avsendere.
+(1) Tollmyndighetene kan gi generell tillatelse til lettelser i plikten til umiddelbar tollbehandling ved grensepassering. Tollmyndighetene kan begrense tillatelsen til å gjelde
+
+1. enkelte vareslag og begrenset vareverdi
+2. varer fra enkelte avsendere.
 
 (2) [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet til fjerde ledd og [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) gjelder tilsvarende.
 
@@ -428,7 +546,18 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 ### § 4-1-1. Opplysninger i deklarasjonen mv. ved prosedyren overgang til fri disponering
 
-(1) Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde og verdi i norske kronerkollienes merker, numre og antallleveringsvilkår mv.den deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.kode for avsenderland og opprinnelseslandvarenummer i samsvar med tolltariffenmengde i henhold til tolltariffenvarens tollverdieventuelle tillatelser som kreves fra andre myndigheter ved innførselandre statistiske opplysninger som kreves for innførselsstatistikken.
+(1) Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. vareslag, samlet mengde og verdi i norske kroner
+2. kollienes merker, numre og antall
+3. leveringsvilkår mv.
+4. den deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.
+5. kode for avsenderland og opprinnelsesland
+6. varenummer i samsvar med tolltariffen
+7. mengde i henhold til tolltariffen
+8. varens tollverdi
+9. eventuelle tillatelser som kreves fra andre myndigheter ved innførsel
+10. andre statistiske opplysninger som kreves for innførselsstatistikken.
 
 (2) For vare til privat bruk, og hvor privatperson leverer deklarasjon på egne vegne, kan det gjøres unntak fra enkelte av opplysningskravene fastsatt i første ledd.
 
@@ -440,7 +569,11 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 (6) Tollmyndighetene kan gi tillatelse til at den som innfører varer hvor fullstendige opplysninger ikke er kjent ved innførsel og disse fastsettes i ettertid, kan levere foreløpig deklarasjon. Tillatelsen gis på forhånd for en bestemt tidsperiode og for spesifikke varenummer i tolltariffen.
 
-(7) For å kunne levere foreløpig deklarasjon etter femte og sjette ledd måeventuelle tillatelser som kreves fra andre myndigheter foreligge,varen ikke være kjørt direkte til varemottaker og lagret der i medhold av [§ 4-4-14](forskrift/2022-10-27-1901/§4-4-14), ogrubrikkene 6, 8, 14, 15a, 30, 31, 34a, 35, 44 og 49 i deklarasjonen være utfylt. Rubrikk 33 må være utfylt dersom tollkreditt benyttes.
+(7) For å kunne levere foreløpig deklarasjon etter femte og sjette ledd må
+
+1. eventuelle tillatelser som kreves fra andre myndigheter foreligge,
+2. varen ikke være kjørt direkte til varemottaker og lagret der i medhold av [§ 4-4-14](forskrift/2022-10-27-1901/§4-4-14), og
+3. rubrikkene 6, 8, 14, 15a, 30, 31, 34a, 35, 44 og 49 i deklarasjonen være utfylt. Rubrikk 33 må være utfylt dersom tollkreditt benyttes.
 
 (8) Det kan settes som vilkår for tillatelse etter sjette ledd at den deklarasjonspliktige som ikke er registrert i Merverdiavgiftsregisteret, har tollkreditt. Det samme gjelder den deklarasjonspliktige som er registrert i Merverdiavgiftsregisteret, dersom det ved innførsel av vare skal svares tollavgift eller særavgifter.
 
@@ -452,7 +585,12 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 ### § 4-1-2. Fremleggelse av dokumenter mv. ved prosedyren overgang til fri disponering
 
-(1) Ved prosedyren overgang til fri disponering skal alle dokumenter som er utstedt i forbindelse med innførsel av varen legges frem, herunder:faktura som er utstedt i forbindelse med kjøp av varenkonnossement, fraktbrev og lignende fraktdokumenter som er utstedt i forbindelse med transport av vareneventuelle tillatelser som kreves fra andre myndigheter ved innførselandre dokumenter som tollmyndighetene finner nødvendig blant annet for å kunne bestemme varens opprinnelse, klassifisering, vekt, mengde og verdi.
+(1) Ved prosedyren overgang til fri disponering skal alle dokumenter som er utstedt i forbindelse med innførsel av varen legges frem, herunder:
+
+1. faktura som er utstedt i forbindelse med kjøp av varen
+2. konnossement, fraktbrev og lignende fraktdokumenter som er utstedt i forbindelse med transport av varen
+3. eventuelle tillatelser som kreves fra andre myndigheter ved innførsel
+4. andre dokumenter som tollmyndighetene finner nødvendig blant annet for å kunne bestemme varens opprinnelse, klassifisering, vekt, mengde og verdi.
 
 (2) Ved ervervsmessig innførsel skal fakturaen påføres opplysninger om varenummer for hver post i fakturaen som ligger til grunn for overgang til fri disponering. Dersom det skal svares spesifikk tollavgift, skal også vekt og antall varer føres på fakturaen. Det skal også gis de statistiske opplysninger og gjøres de henvisninger til eventuelle tollavgiftsnedsettelser som kreves. Opplysningene skal ikke påføres fakturaen dersom alle varene hører under samme varenummer.
 
@@ -468,13 +606,21 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 ### § 4-1-4. Unntak fra kravet til én forsendelse per deklarasjon
 
-(1) Tollmyndighetene kan gi generell tillatelse til at flere forsendelser kan deklareres på samme deklarasjon. Tollmyndighetene kan begrense tillatelsen til å gjeldeenkelte vareslagvarer fra enkelte avsenderedeklarering innenfor enkelte tidsintervaller.
+(1) Tollmyndighetene kan gi generell tillatelse til at flere forsendelser kan deklareres på samme deklarasjon. Tollmyndighetene kan begrense tillatelsen til å gjelde
+
+1. enkelte vareslag
+2. varer fra enkelte avsendere
+3. deklarering innenfor enkelte tidsintervaller.
 
 (2) [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet til fjerde ledd og [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) gjelder tilsvarende.
 
 ### § 4-1-5. Unntak fra kravet til én mottaker per deklarasjon
 
-(1) Tollmyndighetene kan gi tollagerholder generell tillatelse til lettelser i opplysnings- og dokumentasjonspliktene i [§ 4-1-1](forskrift/2022-10-27-1901/§4-1-1) og [§ 4-1-2](forskrift/2022-10-27-1901/§4-1-2) ved at varer til flere mottakere kan deklareres på samme deklarasjon. Lettelsene gjelder bare varesendinger med verdi til og med 3000 kr til privatpersoner. Tollmyndighetene kan begrense tillatelsen til å gjeldevare som ikke er avhengig av tillatelser fra andre myndigheterenkelte vareslagdeklarering innen enkelte tidsintervaller.
+(1) Tollmyndighetene kan gi tollagerholder generell tillatelse til lettelser i opplysnings- og dokumentasjonspliktene i [§ 4-1-1](forskrift/2022-10-27-1901/§4-1-1) og [§ 4-1-2](forskrift/2022-10-27-1901/§4-1-2) ved at varer til flere mottakere kan deklareres på samme deklarasjon. Lettelsene gjelder bare varesendinger med verdi til og med 3000 kr til privatpersoner. Tollmyndighetene kan begrense tillatelsen til å gjelde
+
+1. vare som ikke er avhengig av tillatelser fra andre myndigheter
+2. enkelte vareslag
+3. deklarering innen enkelte tidsintervaller.
 
 (2) [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet til fjerde ledd og [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) gjelder tilsvarende.
 
@@ -504,7 +650,11 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 ### § 4-1-7. Forenklet ordning for overgang til fri disponering for reisende
 
-(1) Den som ankommer tollområdet fra utlandet, Svalbard og Jan Mayen kan deklarere følgende varer (reisegods) muntlig eller ved bruk av tollapplikasjon mv.:Tobakksvarer, e-væske og andre nikotinvarer som kan avgiftsberegnes etter [særavgiftsforskriften § 3-1-2 sjette](forskrift/2001-12-11-1451/§3-1-2/ledd/6) og [syvende ledd](forskrift/2001-12-11-1451/§3-1-2/ledd/7) og [merverdiavgiftsforskriften § 5-1-1](forskrift/2009-12-15-1540/§5-1-1) første ledd. Vilkår for deklarering av tobakksvarer, e-væske og andre nikotinvarer er at den reisende er fylt 18 år.Alkoholholdige drikkevarer som kan avgiftsberegnes etter [særavgiftsforskriften § 3-2-2 fjerde](forskrift/2001-12-11-1451/§3-2-2/ledd/4) og [femte ledd](forskrift/2001-12-11-1451/§3-2-2/ledd/5) og merverdiavgiftsforskriften § 5-1-1 første ledd. Vilkår for deklarering av alkoholholdige drikkevarer er at den reisende er fylt 18 år. For varer med alkoholstyrke over 22 volumprosent må den reisende være fylt 20 år.Andre varer enn de som er nevnt i bokstav a eller b med samlet verdi under 20 000 norske kroner og som kan avgiftsberegnes etter merverdiavgiftsforskriften § 5-1-1 annet ledd. Dette gjelder ikke næringsmidler, særavgiftspliktige varer, varer som er avhengige av tillatelser fra andre myndigheter og landbruksvarer. Med næringsmidler menes enhver mat- eller drikkevare og enhver annen vare som er bestemt til å konsumeres av mennesker. Med landbruksvarer menes varer som hører under kapittel 1 til 24 og posisjonene 35.01, 35.02, 35.05 og 38.23 i tolltariffen.
+(1) Den som ankommer tollområdet fra utlandet, Svalbard og Jan Mayen kan deklarere følgende varer (reisegods) muntlig eller ved bruk av tollapplikasjon mv.:
+
+1. Tobakksvarer, e-væske og andre nikotinvarer som kan avgiftsberegnes etter [særavgiftsforskriften § 3-1-2 sjette](forskrift/2001-12-11-1451/§3-1-2/ledd/6) og [syvende ledd](forskrift/2001-12-11-1451/§3-1-2/ledd/7) og [merverdiavgiftsforskriften § 5-1-1](forskrift/2009-12-15-1540/§5-1-1) første ledd. Vilkår for deklarering av tobakksvarer, e-væske og andre nikotinvarer er at den reisende er fylt 18 år.
+2. Alkoholholdige drikkevarer som kan avgiftsberegnes etter [særavgiftsforskriften § 3-2-2 fjerde](forskrift/2001-12-11-1451/§3-2-2/ledd/4) og [femte ledd](forskrift/2001-12-11-1451/§3-2-2/ledd/5) og merverdiavgiftsforskriften § 5-1-1 første ledd. Vilkår for deklarering av alkoholholdige drikkevarer er at den reisende er fylt 18 år. For varer med alkoholstyrke over 22 volumprosent må den reisende være fylt 20 år.
+3. Andre varer enn de som er nevnt i bokstav a eller b med samlet verdi under 20 000 norske kroner og som kan avgiftsberegnes etter merverdiavgiftsforskriften § 5-1-1 annet ledd. Dette gjelder ikke næringsmidler, særavgiftspliktige varer, varer som er avhengige av tillatelser fra andre myndigheter og landbruksvarer. Med næringsmidler menes enhver mat- eller drikkevare og enhver annen vare som er bestemt til å konsumeres av mennesker. Med landbruksvarer menes varer som hører under kapittel 1 til 24 og posisjonene 35.01, 35.02, 35.05 og 38.23 i tolltariffen.
 
 (2) Første ledd gjelder for varer som reisende innfører utover avgiftsfri kvote og som er til personlig bruk. Første ledd gjelder ikke for varer som innføres for videresalg eller annet ervervsmessig formål og heller ikke for varer som er kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
@@ -512,7 +662,12 @@ Tollmyndighetene kan kreve at den deklarasjonspliktige dekker omkostninger knytt
 
 ### § 4-1-8. Forenklede ordninger for flyfrakt
 
-En operatør av anlegg for flyfrakt kan søke tollmyndighetene om å innføre eller opprettholde ordninger som muliggjør hurtig frigjøring av ekspressendinger som innpasserer gjennom søkerens luftfraktanlegg. Tollmyndighetene kan kreve at søkeren, som vilkår for at prosedyren skal få anvendelse på hans ekspressendinger, bl.a. skalsørge for egnet infrastruktur og betale tollmyndighetenes kostnader knyttet til behandling av ekspressendinger i tilfeller der søkeren oppfyller tollmyndighetenes krav for at behandling som nevnt kan skje på eget anleggfør en ekspressending ankommer, legge fram de opplysninger som er nødvendige for å frigjøre sendingenføre en høy grad av kontroll med ekspressendinger ved hjelp av intern sikkerhet, logistikk og sporingsteknologi fra henting til leveringha god historikk med hensyn til etterlevelse av tollavgifts- og [vareførselsloven](lov/2022-03-11-9) og andre beslektede lover og forskrifter.
+En operatør av anlegg for flyfrakt kan søke tollmyndighetene om å innføre eller opprettholde ordninger som muliggjør hurtig frigjøring av ekspressendinger som innpasserer gjennom søkerens luftfraktanlegg. Tollmyndighetene kan kreve at søkeren, som vilkår for at prosedyren skal få anvendelse på hans ekspressendinger, bl.a. skal
+
+1. sørge for egnet infrastruktur og betale tollmyndighetenes kostnader knyttet til behandling av ekspressendinger i tilfeller der søkeren oppfyller tollmyndighetenes krav for at behandling som nevnt kan skje på eget anlegg
+2. før en ekspressending ankommer, legge fram de opplysninger som er nødvendige for å frigjøre sendingen
+3. føre en høy grad av kontroll med ekspressendinger ved hjelp av intern sikkerhet, logistikk og sporingsteknologi fra henting til levering
+4. ha god historikk med hensyn til etterlevelse av tollavgifts- og [vareførselsloven](lov/2022-03-11-9) og andre beslektede lover og forskrifter.
 
 *Unntak fra deklareringsplikt for transportmidler og reisegods*
 
@@ -548,13 +703,23 @@ Transportmidler er unntatt deklareringsplikt dersom transportmiddelet tidligere 
 
 (1) Innenfor verdigrensene i [§ 4-1-11](forskrift/2022-10-27-1901/§4-1-11) gjelder unntaket fra deklareringsplikt bare for til sammen 10 kg kjøttvarer, ost og fôrvarer. Hunde- og kattemat er ikke omfattet av begrensningen på 10 kg.
 
-(2) For unntak fra deklareringsplikt for alkohol-, tobakks- og nikotinvarer gjelder følgende begrensninger:1 liter drikk med alkoholstyrke over 22 til og med 60 volumprosent og 1,5 liter drikk med alkoholstyrke over 2,5 til og med 22 volumprosent, eller 3 liter drikk med alkoholstyrke over 2,5 til og med 22 volumprosent2 liter øl med alkoholstyrke over 2,5 volumprosent eller annen drikk med alkoholstyrke over 2,5 til og med 4,7 volumprosent100 sigaretter, 125 gram andre tobakksvarer, 10 milliliter e-væske med nikotin eller 100 gram andre nikotinvarer100 blad sigarettpapir.Ved opphold i utlandet, på Svalbard eller Jan Mayen i mindre enn 24 timer gjelder unntaket fra deklareringsplikt for alkohol-, tobakks- og nikotinvarer bare varer som er kjøpt i beskattet stand i et EØS-land.
+(2) For unntak fra deklareringsplikt for alkohol-, tobakks- og nikotinvarer gjelder følgende begrensninger:
+
+1. 1 liter drikk med alkoholstyrke over 22 til og med 60 volumprosent og 1,5 liter drikk med alkoholstyrke over 2,5 til og med 22 volumprosent, eller 3 liter drikk med alkoholstyrke over 2,5 til og med 22 volumprosent
+2. 2 liter øl med alkoholstyrke over 2,5 volumprosent eller annen drikk med alkoholstyrke over 2,5 til og med 4,7 volumprosent
+3. 100 sigaretter, 125 gram andre tobakksvarer, 10 milliliter e-væske med nikotin eller 100 gram andre nikotinvarer
+4. 100 blad sigarettpapir.
+
+Ved opphold i utlandet, på Svalbard eller Jan Mayen i mindre enn 24 timer gjelder unntaket fra deklareringsplikt for alkohol-, tobakks- og nikotinvarer bare varer som er kjøpt i beskattet stand i et EØS-land.
 
 (3) Reisende som ikke er bosatt i Norge, men er besøkende turister som definert i konvensjon av 4. juni 1954 om tollettelser for turister, kan som reisegods innføre en utvidet mengde tobakks- og nikotinvarer uten at det deklareres for tollmyndighetene. Den utvidede mengde er det dobbelte av mengden tobakks- og nikotinvarer i annet ledd bokstav c og d.
 
 (4) I tillegg til varer innenfor verdigrensene i [§ 4-1-11](forskrift/2022-10-27-1901/§4-1-11) kan det innføres 600 liter drivstoff i transportmiddelets normale drivstofftanker uten at det deklareres for tollmyndighetene. Med normale drivstofftanker menes tanker produsenten har bygd inn i alle transportmidler av samme type, og hvor drivstoffet brukes direkte til transportmiddelets fremdrift, drift av kjølesystem eller lignende. For hvert transportmiddel kan det i tillegg innføres 10 liter drivstoff på godkjent reservekanne.
 
-(5) Følgende reisegods er ikke unntatt deklareringsplikt:motorvogn som omfattes av Stortingets vedtak om engangsavgift på motorvogner m.m.hester.
+(5) Følgende reisegods er ikke unntatt deklareringsplikt:
+
+1. motorvogn som omfattes av Stortingets vedtak om engangsavgift på motorvogner m.m.
+2. hester.
 
 > Endret ved forskrifter [20 des 2022 nr. 2346](forskrift/2022-12-20-2346), [21 des 2022 nr. 2434](forskrift/2022-12-21-2434), [1 juni 2023 nr. 788](forskrift/2023-06-01-788).
 
@@ -574,7 +739,11 @@ Transportmidler er unntatt deklareringsplikt dersom transportmiddelet tidligere 
 
 ### § 4-1-14. Reisegods for personer i tjeneste på transportmidler
 
-Personer som i løpet av reisen til Norge er i tjeneste på transportmiddel i internasjonal trafikk og personer på norske marinefartøy kan én gang innenfor en 24-timers periode innføre følgende varer uten å deklarere varene for tollmyndighetene:40 sigaretter, 100 gram andre tobakksvarer, 4 milliliter e-væske med nikotin eller 40 gram andre nikotinvarer,100 blad sigarettpapir, ogandre varer enn alkohol til en verdi av 500 kr.
+Personer som i løpet av reisen til Norge er i tjeneste på transportmiddel i internasjonal trafikk og personer på norske marinefartøy kan én gang innenfor en 24-timers periode innføre følgende varer uten å deklarere varene for tollmyndighetene:
+
+1. 40 sigaretter, 100 gram andre tobakksvarer, 4 milliliter e-væske med nikotin eller 40 gram andre nikotinvarer,
+2. 100 blad sigarettpapir, og
+3. andre varer enn alkohol til en verdi av 500 kr.
 
 ### § 4-1-15. Reisegods for personer i tjeneste om bord på oljeplattformer mv.
 
@@ -624,7 +793,11 @@ Deklareringsplikten gjelder ikke for forbruksvare som medbringes og forbrukes om
 
 ### § 4-1-22. Unntak fra deklareringsplikt for deler mv. i fartøy og luftfartøy som berges til tollområdet
 
-(1) Deklareringsplikten gjelder ikke for deler, inventargjenstander og redskaper som innføres dersom vareneer berget hit til landet og har tilhørt forulykket fartøy,er berget fra fartøy som er strandet ved den norske kysten, ellerhar tilhørt norsk fartøy som er strandet eller lovlig kjent sjøudyktig utenfor tollområdet og innføres av fartøyets reder eller assurandør.
+(1) Deklareringsplikten gjelder ikke for deler, inventargjenstander og redskaper som innføres dersom varene
+
+1. er berget hit til landet og har tilhørt forulykket fartøy,
+2. er berget fra fartøy som er strandet ved den norske kysten, eller
+3. har tilhørt norsk fartøy som er strandet eller lovlig kjent sjøudyktig utenfor tollområdet og innføres av fartøyets reder eller assurandør.
 
 (2) Første ledd gjelder tilsvarende for luftfartøy.
 
@@ -650,7 +823,10 @@ Deklareringsplikten gjelder ikke for gave til personlig bruk som er fritatt for 
 
 (1) Deklareringsplikten gjelder ikke for emballasje og lastepall, og utstyr for beskyttelse av last i transportmidler, som brukes til inn- og utførsel av varer.
 
-(2) Unntaket for emballasje omfatter alle gjenstander som brukes som innpakning, herunderbeholdere som brukes som ytre eller indre innpakning for vareinnlegg som vare er blitt eller skal rulles eller foldes i eller er festet til.
+(2) Unntaket for emballasje omfatter alle gjenstander som brukes som innpakning, herunder
+
+1. beholdere som brukes som ytre eller indre innpakning for vare
+2. innlegg som vare er blitt eller skal rulles eller foldes i eller er festet til.
 
 (3) Unntaket omfatter både emballasje som brukes ved innførsel av vare og emballasje som skal brukes ved utførsel av vare. Emballasje som innføres til innenlandsk bruk omfattes ikke.
 
@@ -664,13 +840,20 @@ Deklareringsplikten gjelder ikke for gave til personlig bruk som er fritatt for 
 
 (2) Deklareringsplikten gjelder ikke for petroleumsprodukter som innføres direkte fra norsk del av kontinentalsokkelen.
 
-(3) Deklareringsplikten gjelder ikke for:avfall, arbeidsklær o.l. for rengjøring og retur, brevpost uten tollavgiftspliktig innhold som kan innføres uten tillatelser fra andre myndigheter, seismiske og geologiske prøver og som innføres direkte fra norsk del av kontinentalsokkelen, og som legges inn på tollager,norske varer og varer som tidligere har gått over i fri disponering som kommer i retur fra norsk del av kontinentalsokkelen, dersom importør og eksportør er samme person og tollavgift ikke er refundert ved utførsel, og varen legges inn på tollager.
+(3) Deklareringsplikten gjelder ikke for:
+
+1. avfall, arbeidsklær o.l. for rengjøring og retur, brevpost uten tollavgiftspliktig innhold som kan innføres uten tillatelser fra andre myndigheter, seismiske og geologiske prøver og som innføres direkte fra norsk del av kontinentalsokkelen, og som legges inn på tollager,
+2. norske varer og varer som tidligere har gått over i fri disponering som kommer i retur fra norsk del av kontinentalsokkelen, dersom importør og eksportør er samme person og tollavgift ikke er refundert ved utførsel, og varen legges inn på tollager.
 
 > Endret ved [forskrift 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023).
 
 ### § 4-1-28. Unntak fra deklareringsplikt for vare til grenseboere
 
-(1) Jordbruker og skogbruker som bor i norsk grensekommune og som også driver jordbruk eller skogbruk i svensk eller finsk grensekommune, kan innføre følgende varer uten å deklarere dem for tollmyndighetene:Avlinger, naturgjødsel, skogsvirke og gårdsprodukter. Vilkår for fritaket er at nevnte varer skal benyttes til eget behov i egen husholdning. Vare som er ment for salg eller annet ervervsmessig formål er ikke omfattet av unntaket fra deklareringsplikt.Maskiner og redskaper som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for maskiner og redskaper som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.Husdyr som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for husdyr som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.
+(1) Jordbruker og skogbruker som bor i norsk grensekommune og som også driver jordbruk eller skogbruk i svensk eller finsk grensekommune, kan innføre følgende varer uten å deklarere dem for tollmyndighetene:
+
+1. Avlinger, naturgjødsel, skogsvirke og gårdsprodukter. Vilkår for fritaket er at nevnte varer skal benyttes til eget behov i egen husholdning. Vare som er ment for salg eller annet ervervsmessig formål er ikke omfattet av unntaket fra deklareringsplikt.
+2. Maskiner og redskaper som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for maskiner og redskaper som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.
+3. Husdyr som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for husdyr som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.
 
 (2) Første ledd gjelder tilsvarende for jordbruker og skogbruker som bor i svensk eller finsk grensekommune og som også driver jordbruk eller skogbruk i norsk grensekommune.
 
@@ -704,7 +887,15 @@ Deklareringsplikten gjelder ikke for brev, postkort, dokumenter, trykket materia
 
 ### § 4-2-2. Opplysninger i deklarasjon for prosedyren forpassing ved forpassing mellom ekspedisjonssteder
 
-(1) Deklarasjonen skal inneholde opplysninger om blant annetavsenders navn, adresse og kode for avsenderlandvarebeskrivelsemottakers navn, adresse og landtransportmidlets identitetmengde, vekt og verdiavgangstollstedbestemmelsestollsted.
+(1) Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. avsenders navn, adresse og kode for avsenderland
+2. varebeskrivelse
+3. mottakers navn, adresse og land
+4. transportmidlets identitet
+5. mengde, vekt og verdi
+6. avgangstollsted
+7. bestemmelsestollsted.
 
 (2) Tillatelse til forpassing forutsetter at eventuelle tillatelser som kreves fra andre myndigheter ved innførsel er fremlagt.
 
@@ -738,9 +929,51 @@ TIR-konvensjonen artiklene 1 til 5 og 12 til 64 med tilhørende vedlegg gjelder 
 
 ### § 4-4-1. Opplysninger i deklarasjon for prosedyren tollager
 
-(1) For varer som lagres på tollager A eller B, skal deklarasjonen inneholde opplysninger omtollprosedyreavsenderantall varelinjerantall kollideklarasjonspliktigtollrepresentantavsenderlandcontainerlagringsstedvarebeskrivelsevarelinjenummervarenummer (8 siffer)opprinnelseslandbruttovektprosedyrekodemengde i annen enhettillatelser som skal foreligge ved grensepasseringgodsnummer.
+(1) For varer som lagres på tollager A eller B, skal deklarasjonen inneholde opplysninger om
 
-(2) For varer som lagres på tollager C eller D, skal deklarasjonen inneholde opplysninger omtollprosedyreavsenderantall varelinjerantall kollideklarasjonspliktigtollrepresentantavsenderlandcontainerdet aktive transportmidlets identitet og nasjonalitet ved grensepasseringfakturert valuta og totalbeløptransportmåte ved grensenlagringsstedvarebeskrivelsevarelinjenummervarenummer (8 siffer)opprinnelseslandbruttovektprosedyrekodemengde i annen enhettillatelser som skal foreligge ved grensepasseringstatistisk verdigodsnummer.
+1. tollprosedyre
+2. avsender
+3. antall varelinjer
+4. antall kolli
+5. deklarasjonspliktig
+6. tollrepresentant
+7. avsenderland
+8. container
+9. lagringssted
+10. varebeskrivelse
+11. varelinjenummer
+12. varenummer (8 siffer)
+13. opprinnelsesland
+14. bruttovekt
+15. prosedyrekode
+16. mengde i annen enhet
+17. tillatelser som skal foreligge ved grensepassering
+18. godsnummer.
+
+(2) For varer som lagres på tollager C eller D, skal deklarasjonen inneholde opplysninger om
+
+1. tollprosedyre
+2. avsender
+3. antall varelinjer
+4. antall kolli
+5. deklarasjonspliktig
+6. tollrepresentant
+7. avsenderland
+8. container
+9. det aktive transportmidlets identitet og nasjonalitet ved grensepassering
+10. fakturert valuta og totalbeløp
+11. transportmåte ved grensen
+12. lagringssted
+13. varebeskrivelse
+14. varelinjenummer
+15. varenummer (8 siffer)
+16. opprinnelsesland
+17. bruttovekt
+18. prosedyrekode
+19. mengde i annen enhet
+20. tillatelser som skal foreligge ved grensepassering
+21. statistisk verdi
+22. godsnummer.
 
 (3) For vare til privat bruk, og hvor privatperson leverer deklarasjon på egne vegne, kan det gjøres unntak fra enkelte av opplysningskravene fastsatt i første ledd.
 
@@ -792,7 +1025,18 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 ### § 4-4-8. Tollagerregnskap
 
-(1) Tollagerholderen skal føre regnskap over varer på tollageret (tollagerregnskap). Tollagerregnskapet skal føres elektronisk. Tollagerregnskapet skal være oversiktlig og til enhver tid være oppdatert. Det skal inneholde opplysninger omalle innlegg og uttak av varer fra tollagerethvor varene er lagretmidlertidig uttak av varer fra tollageret som nevnt i [§ 4-4-9](forskrift/2022-10-27-1901/§4-4-9) fjerde og femte leddnår og hvor tollbehandling har funnet sted, med henvisning til deklarasjonervarens art, vekt og verdi, samt andre opplysninger som er nødvendige for å identifisere varenden behandling eller bearbeiding som varen eventuelt har gjennomgått på tollageret eller på sted utenfor tollageretvaremottakerens navn og adresseavgangstollsted og transitteringsnummer (MRN-nummer)transportmidlets kjennetegn eller navnhvorvidt uoverensstemmelser som nevnt i tredje ledd er ført i merknadsjournal.
+(1) Tollagerholderen skal føre regnskap over varer på tollageret (tollagerregnskap). Tollagerregnskapet skal føres elektronisk. Tollagerregnskapet skal være oversiktlig og til enhver tid være oppdatert. Det skal inneholde opplysninger om
+
+1. alle innlegg og uttak av varer fra tollageret
+2. hvor varene er lagret
+3. midlertidig uttak av varer fra tollageret som nevnt i [§ 4-4-9](forskrift/2022-10-27-1901/§4-4-9) fjerde og femte ledd
+4. når og hvor tollbehandling har funnet sted, med henvisning til deklarasjoner
+5. varens art, vekt og verdi, samt andre opplysninger som er nødvendige for å identifisere varen
+6. den behandling eller bearbeiding som varen eventuelt har gjennomgått på tollageret eller på sted utenfor tollageret
+7. varemottakerens navn og adresse
+8. avgangstollsted og transitteringsnummer (MRN-nummer)
+9. transportmidlets kjennetegn eller navn
+10. hvorvidt uoverensstemmelser som nevnt i tredje ledd er ført i merknadsjournal.
 
 (2) Tollagerholderen skal avstemme regnskapet minst én gang i året.
 
@@ -826,7 +1070,12 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 ### § 4-4-11. Tollavgiftsfritt utsalg på lufthavn (tollager C)
 
-(1) På tollavgiftsfritt utsalg på lufthavn (taxfree) kan det legges inn følgende varer:alkoholholdig drikk over 0,7 volumprosenttobakksvarer i originalpakningersjokolade- og sukkervarerparfyme, kosmetikk og toalettartikler som hører under tolltariffens kapittel 33 og posisjon 34.01.
+(1) På tollavgiftsfritt utsalg på lufthavn (taxfree) kan det legges inn følgende varer:
+
+1. alkoholholdig drikk over 0,7 volumprosent
+2. tobakksvarer i originalpakninger
+3. sjokolade- og sukkervarer
+4. parfyme, kosmetikk og toalettartikler som hører under tolltariffens kapittel 33 og posisjon 34.01.
 
 (2) Salg fra tollavgiftsfritt utsalg på lufthavn skal ikke skje til reisende på vei til eller fra Svalbard, Jan Mayen eller installasjoner og innretninger til bruk i petroleumsvirksomhet.
 
@@ -852,9 +1101,20 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 (1) Varer som underlegges prosedyren tollager er unntatt deklareringsplikt.
 
-(2) Følgende varer skal likevel deklareres:varer nevnt i [§ 4-4-9](forskrift/2022-10-27-1901/§4-4-9) annet leddnorske varer nevnt i [§ 4-4-10](forskrift/2022-10-27-1901/§4-4-10) annet leddvarer nevnt i [§ 4-4-11](forskrift/2022-10-27-1901/§4-4-11) første leddvarer nevnt i [§ 4-4-12](forskrift/2022-10-27-1901/§4-4-12) annet ledd annet punktumvarer som legges inn på et bearbeidingstollager, dersom varen er underlagt en prosedyre som opphører ved ankomst til lageretvarer med krav om felles innførselsdokument om helse (CHED) fra land utenfor EØS-området eller Sveits.
+(2) Følgende varer skal likevel deklareres:
 
-(3) Følgende varer er alltid unntatt deklareringsplikt ved innlegg på tollager:avfall, arbeidsklær o.l. for rengjøring og retur, brevpost uten tollavgiftspliktig innhold som kan innføres uten tillatelser fra andre myndigheter, seismiske og geologiske prøver og som innføres direkte fra norsk del av kontinentalsokkelennorske varer og varer som tidligere har gått over i fri disponering som kommer i retur fra norsk del av kontinentalsokkelen, dersom importør og eksportør er samme person og tollavgift ikke er refundert ved utførselenvare som tidligere har blitt utført fra tollager til norsk del av kontinentalsokkelen, og deretter har blitt returnert til tollageret. Unntaket gjelder vare til bruk på norsk del av kontinentalsokkelen og vare til bruk om bord i norskeide fartøy som opererer på norsk del av kontinentalsokkelen. Unntaket gjelder ikke proviant og forbruksvarer.
+1. varer nevnt i [§ 4-4-9](forskrift/2022-10-27-1901/§4-4-9) annet ledd
+2. norske varer nevnt i [§ 4-4-10](forskrift/2022-10-27-1901/§4-4-10) annet ledd
+3. varer nevnt i [§ 4-4-11](forskrift/2022-10-27-1901/§4-4-11) første ledd
+4. varer nevnt i [§ 4-4-12](forskrift/2022-10-27-1901/§4-4-12) annet ledd annet punktum
+5. varer som legges inn på et bearbeidingstollager, dersom varen er underlagt en prosedyre som opphører ved ankomst til lageret
+6. varer med krav om felles innførselsdokument om helse (CHED) fra land utenfor EØS-området eller Sveits.
+
+(3) Følgende varer er alltid unntatt deklareringsplikt ved innlegg på tollager:
+
+1. avfall, arbeidsklær o.l. for rengjøring og retur, brevpost uten tollavgiftspliktig innhold som kan innføres uten tillatelser fra andre myndigheter, seismiske og geologiske prøver og som innføres direkte fra norsk del av kontinentalsokkelen
+2. norske varer og varer som tidligere har gått over i fri disponering som kommer i retur fra norsk del av kontinentalsokkelen, dersom importør og eksportør er samme person og tollavgift ikke er refundert ved utførselen
+3. vare som tidligere har blitt utført fra tollager til norsk del av kontinentalsokkelen, og deretter har blitt returnert til tollageret. Unntaket gjelder vare til bruk på norsk del av kontinentalsokkelen og vare til bruk om bord i norskeide fartøy som opererer på norsk del av kontinentalsokkelen. Unntaket gjelder ikke proviant og forbruksvarer.
 
 > Tilføyd ved [forskrift 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023). **Endres** ved forskrift [22 nov 2023 nr. 1915](forskrift/2023-11-22-1915) (i kraft 1 mars 2027, endring endret ved forskrifter [18 des 2024 nr. 3266](forskrift/2024-12-18-3266) og [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
@@ -878,7 +1138,17 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 (2) Varer fra tredjeland med krav om felles innførselsdokument om helse (CHED) kan ikke lagres på tollager E. Det samme gjelder for andre varer som krever godkjenning ved ankomst til tollområdet og varer underlagt sanksjoner for innførsel.
 
-(3) For varer som lagres på tollager E, skal deklarasjonen inneholde opplysninger omvarelinjeantall kollideklarasjonspliktigtollrepresentantlagringsstedsamlevarenummerbruttovektprosedyrekodegodsnummer.
+(3) For varer som lagres på tollager E, skal deklarasjonen inneholde opplysninger om
+
+1. varelinje
+2. antall kolli
+3. deklarasjonspliktig
+4. tollrepresentant
+5. lagringssted
+6. samlevarenummer
+7. bruttovekt
+8. prosedyrekode
+9. godsnummer.
 
 (4) Alle varer som er omfattet av én deklarasjon for innlegg på tollager E må deklareres samlet for en ny tollprosedyre.
 
@@ -900,13 +1170,31 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 ### § 4-6-1. Opplysninger i deklarasjonen mv. ved prosedyren midlertidig innførsel
 
-Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde og verdi i norske kronerkollienes merker, numre og antallpreferansetollavgiftdeklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravetkode for avsenderland og opprinnelseslandvarenummer i samsvar med tolltariffentollavgiftssats, herunder krav om tollavgiftsnedsettelsermengde i henhold til tolltariffenvarens tollverdieventuelle tillatelser som kreves fra andre myndigheter ved innførselandre statistiske opplysninger som kreves for innførselsstatistikken.
+Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. vareslag, samlet mengde og verdi i norske kroner
+2. kollienes merker, numre og antall
+3. preferansetollavgift
+4. deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet
+5. kode for avsenderland og opprinnelsesland
+6. varenummer i samsvar med tolltariffen
+7. tollavgiftssats, herunder krav om tollavgiftsnedsettelser
+8. mengde i henhold til tolltariffen
+9. varens tollverdi
+10. eventuelle tillatelser som kreves fra andre myndigheter ved innførsel
+11. andre statistiske opplysninger som kreves for innførselsstatistikken.
 
 ### § 4-6-2. Andre typer deklarering ved bruk av prosedyren midlertidig innførsel
 
-(1) Følgende varer kan deklareres ved at ATA-carnet etter ATA-konvensjonen eller CPD-carnet (Taiwan) legges frem:reservedeler og lignende som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav gvare som oppfyller vilkårene i [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav a til e, i og j.
+(1) Følgende varer kan deklareres ved at ATA-carnet etter ATA-konvensjonen eller CPD-carnet (Taiwan) legges frem:
 
-(2) Følgende varer kan deklareres ved at det legges frem en liste over utstyret:produksjons- og kringkastingsutstyr som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav cvarer som innføres i forbindelse med større ulykker, naturkatastrofer og beredskapsøvelser som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav d.
+1. reservedeler og lignende som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) annet ledd bokstav g
+2. vare som oppfyller vilkårene i [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav a til e, i og j.
+
+(2) Følgende varer kan deklareres ved at det legges frem en liste over utstyret:
+
+1. produksjons- og kringkastingsutstyr som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav c
+2. varer som innføres i forbindelse med større ulykker, naturkatastrofer og beredskapsøvelser som oppfyller vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav d.
 
 (3) Ved bruk av ATA-carnet gjelder vilkårene i ATA-konvensjonen. Konvensjonen gjelder som forskrift med de reservasjoner som er tatt med hjemmel i konvensjonen.
 
@@ -916,15 +1204,41 @@ Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde 
 
 ### § 4-6-3. Midlertidig innførsel mot sikkerhetsstillelse
 
-(1) Følgende varer kan midlertidig innføres mot depositum eller annen sikkerhetsstillelse:yrkesutstyr av en samlet verdi utover det som kan innføres i medhold av [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav b. Vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav b, tredje og fjerde ledd gjelder tilsvarende.vareprøver, modeller, mønstre og lignende som utelukkende innføres for fremvisning eller demonstrasjon med sikte på opptak av bestillinger av tilsvarende varer fra utlandetutstyr for sirkus, tivoli eller lignende virksomhet, som innføres av omreisende artisterutstyr og materiell som innføres til bruk ved teaterforestillinger og internasjonale kongresser, offisielle festligheter, idrettsstevner og lignende arrangementer av internasjonal karaktervarer som innføres for prøving, kontroll, testing og lignende i forbindelse med godkjenning av varer, og varer som innføres for prøving og testing av varer som skal utføresspesialverktøy, spesialinstrumenter, modeller og mønstre som innføres til bruk ved fremstilling av en bestemt vare eller vareparti som skal utføres, forutsatt at varene er stilt til disposisjon uten vederlag av vedkommende utenlandske kjøper av varen eller varepartietinstrumenter, apparater og lignende som innføres til bruk ved vitenskapelige forsøkdyr for avlsformålpositiv kinematografisk film, filmkopi og tilsvarende medium, som innføres utelukkende for fremvisning for sensurmyndighet eller eventuell kjøper eller leiervarer som er bestemt til fremvisning eller demonstrasjon eller som skal brukes ved utstillinger, varemesser og lignende. Det kan ikke midlertidig innføres varer som stilles ut i butikklokaler og på varemesser som arrangeres i den hensikt å selge innførte varer, eller alkoholholdige drikkevarer, tobakksvarer eller brensel.velferdsmateriell, herunder lesestoff, audiovisuelt materiale, sportsutstyr, hobbymateriell og utstyr for religionsutøvelse, som innføres til bruk om bord i skip i internasjonal trafikk, eller ved velferdsstasjoner for utenlandske sjøfolk. Adgangen til å innføre velferdsmateriell gjelder også velferdsstasjoner drevet av statlige, religiøse eller andre organisasjoner. Det er et vilkår at velferdsstasjonen ikke er drevet med sikte på fortjeneste. Besetningen kan ta velferdsmateriell midlertidig i land, men må bringe det tilbake til fartøyet før avgang.
+(1) Følgende varer kan midlertidig innføres mot depositum eller annen sikkerhetsstillelse:
+
+1. yrkesutstyr av en samlet verdi utover det som kan innføres i medhold av [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav b. Vilkårene i [§ 4-6-4](forskrift/2022-10-27-1901/§4-6-4) første ledd bokstav b, tredje og fjerde ledd gjelder tilsvarende.
+2. vareprøver, modeller, mønstre og lignende som utelukkende innføres for fremvisning eller demonstrasjon med sikte på opptak av bestillinger av tilsvarende varer fra utlandet
+3. utstyr for sirkus, tivoli eller lignende virksomhet, som innføres av omreisende artister
+4. utstyr og materiell som innføres til bruk ved teaterforestillinger og internasjonale kongresser, offisielle festligheter, idrettsstevner og lignende arrangementer av internasjonal karakter
+5. varer som innføres for prøving, kontroll, testing og lignende i forbindelse med godkjenning av varer, og varer som innføres for prøving og testing av varer som skal utføres
+6. spesialverktøy, spesialinstrumenter, modeller og mønstre som innføres til bruk ved fremstilling av en bestemt vare eller vareparti som skal utføres, forutsatt at varene er stilt til disposisjon uten vederlag av vedkommende utenlandske kjøper av varen eller varepartiet
+7. instrumenter, apparater og lignende som innføres til bruk ved vitenskapelige forsøk
+8. dyr for avlsformål
+9. positiv kinematografisk film, filmkopi og tilsvarende medium, som innføres utelukkende for fremvisning for sensurmyndighet eller eventuell kjøper eller leier
+10. varer som er bestemt til fremvisning eller demonstrasjon eller som skal brukes ved utstillinger, varemesser og lignende. Det kan ikke midlertidig innføres varer som stilles ut i butikklokaler og på varemesser som arrangeres i den hensikt å selge innførte varer, eller alkoholholdige drikkevarer, tobakksvarer eller brensel.
+11. velferdsmateriell, herunder lesestoff, audiovisuelt materiale, sportsutstyr, hobbymateriell og utstyr for religionsutøvelse, som innføres til bruk om bord i skip i internasjonal trafikk, eller ved velferdsstasjoner for utenlandske sjøfolk. Adgangen til å innføre velferdsmateriell gjelder også velferdsstasjoner drevet av statlige, religiøse eller andre organisasjoner. Det er et vilkår at velferdsstasjonen ikke er drevet med sikte på fortjeneste. Besetningen kan ta velferdsmateriell midlertidig i land, men må bringe det tilbake til fartøyet før avgang.
 
 (2) Midlertidig innførsel etter første ledd bokstav a til i er betinget av at varen eies av person bosatt eller hjemmehørende utenfor tollområdet.
 
 ### § 4-6-4. Midlertidig innførsel uten sikkerhetsstillelse og unntak fra deklarasjon
 
-(1) Følgende varer kan midlertidig innføres uten sikkerhetsstillelse:reisegods til personlig bruk, som innføres av personer bosatt utenfor tollområdet som skal oppholde seg i tollområdet i inntil ett år og som gjenutføres ved utreisen. Adgangen til midlertidig innførsel omfatter den mengde varer som det med rimelighet kan være behov for under oppholdet.yrkesutstyr av mindre verdi, dersom varen eies og innføres av person bosatt eller hjemmehørende utenfor tollområdet og utstyret skal brukes til oppdrag i tollområdet av importøren selv eller under dennes ledelse. Med unntak av håndverktøy, kan det ikke midlertidig innføres utstyr som skal benyttes i transport i tollområdet, til industriell produksjon, emballering av varer, utnyttelse av naturrikdommer, eller til oppføring, reparasjon og vedlikehold av bygninger, eller til anleggsarbeid og lignende.produksjons- og kringkastingsutstyr for radio og fjernsyn, dersom varen eies og innføres av person bosatt eller hjemmehørende utenfor tollområdet, og utstyret skal brukes til oppdrag i tollområdet av importøren selv eller under dennes ledelsevarer som innføres i forbindelse med større ulykker og naturkatastrofer hvor det er behov for øyeblikkelig hjelp. Det samme gjelder varer som innføres til bruk for beredskapsøvelser til situasjoner som nevnt i første punktum. Tollmyndighetene kan frafalle kravet om gjenutførsel for varer som er forbrukt under bergingsforetaket eller øvelsenutstyr, herunder våpen, som eies eller disponeres av annen stats politimyndighet og benyttes ved utrykning og andre hasteoppdrag.
+(1) Følgende varer kan midlertidig innføres uten sikkerhetsstillelse:
 
-(2) Følgende transportmidler og -utstyr kan midlertidig innføres uten sikkerhetsstillelse:motorvogn, tilhenger, campingvogn, fartøy og luftfartøy, dersom disse ikke er registrert i Norge, og kun er til personlig bruk, og som innføres av person som har fast oppholdssted i et annet land, eller som for øvrig er gitt anledning til slik innførsel. For motorvogn, tilhenger og campingvogn gjelder [forskrift 20. juni 1991 nr. 381 om midlertidig bruk av utenlandsregistrert motorvogn i Norge](forskrift/1991-06-20-381). For fartøy og luftfartøy gjelder vilkårene i [§ 4-6-5](forskrift/2022-10-27-1901/§4-6-5) til [§ 4-6-8](forskrift/2022-10-27-1901/§4-6-8).motorvogn og tilhenger, der transportmiddelet er registrert i utlandet, dersom det brukes til ervervsmessig vare- eller persontransport, fra sted i utlandet til sted i tollområdet, eller fra sted i tollområdet til sted i utlandet. Transportmiddel som er registrert i et annet EØS-land, kan likevel brukes til ervervsmessig vare- eller persontransport i tollområdet, hvis det foreligger en tillatelse til dette utstedt av rette myndighet i registreringslandet. Transportmiddelet kan ikke eies eller føres av person bosatt i tollområdet. Vilkåret om at transportmidlet ikke må føres av person bosatt i tollområdet, gjelder ikke utenlandsregistrerte tilhengere (herunder semitrailere), som trekkes av norskregistrerte motorvogner. Tilhengeren må være utstyrt med kjennetegn som gjør det mulig å identifisere den, og tilhengeren må gjenutføres senest 90 dager etter innpassering.fartøy og luftfartøy som brukes til transport av varer og personer til og fra tollområdetjernbanemateriell til transport av varer og personer til eller fra tollområdet, dersom det ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med materiellets inn- og utførselcontainere til transport av varer til eller fra tollområdet, dersom containeren ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med inn- og utførselenutstyr som benyttes til sporing av last og andre innretninger som er en del av fraktprosessen, dersom utstyret ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med inn- og utførselenreservedeler og lignende som er bestemt til reparasjon av transportmiddel og utstyr nevnt i bokstav a til e, og som etter avsluttet reparasjon skal gjenutføres sammen med transportmiddelet.
+1. reisegods til personlig bruk, som innføres av personer bosatt utenfor tollområdet som skal oppholde seg i tollområdet i inntil ett år og som gjenutføres ved utreisen. Adgangen til midlertidig innførsel omfatter den mengde varer som det med rimelighet kan være behov for under oppholdet.
+2. yrkesutstyr av mindre verdi, dersom varen eies og innføres av person bosatt eller hjemmehørende utenfor tollområdet og utstyret skal brukes til oppdrag i tollområdet av importøren selv eller under dennes ledelse. Med unntak av håndverktøy, kan det ikke midlertidig innføres utstyr som skal benyttes i transport i tollområdet, til industriell produksjon, emballering av varer, utnyttelse av naturrikdommer, eller til oppføring, reparasjon og vedlikehold av bygninger, eller til anleggsarbeid og lignende.
+3. produksjons- og kringkastingsutstyr for radio og fjernsyn, dersom varen eies og innføres av person bosatt eller hjemmehørende utenfor tollområdet, og utstyret skal brukes til oppdrag i tollområdet av importøren selv eller under dennes ledelse
+4. varer som innføres i forbindelse med større ulykker og naturkatastrofer hvor det er behov for øyeblikkelig hjelp. Det samme gjelder varer som innføres til bruk for beredskapsøvelser til situasjoner som nevnt i første punktum. Tollmyndighetene kan frafalle kravet om gjenutførsel for varer som er forbrukt under bergingsforetaket eller øvelsen
+5. utstyr, herunder våpen, som eies eller disponeres av annen stats politimyndighet og benyttes ved utrykning og andre hasteoppdrag.
+
+(2) Følgende transportmidler og -utstyr kan midlertidig innføres uten sikkerhetsstillelse:
+
+1. motorvogn, tilhenger, campingvogn, fartøy og luftfartøy, dersom disse ikke er registrert i Norge, og kun er til personlig bruk, og som innføres av person som har fast oppholdssted i et annet land, eller som for øvrig er gitt anledning til slik innførsel. For motorvogn, tilhenger og campingvogn gjelder [forskrift 20. juni 1991 nr. 381 om midlertidig bruk av utenlandsregistrert motorvogn i Norge](forskrift/1991-06-20-381). For fartøy og luftfartøy gjelder vilkårene i [§ 4-6-5](forskrift/2022-10-27-1901/§4-6-5) til [§ 4-6-8](forskrift/2022-10-27-1901/§4-6-8).
+2. motorvogn og tilhenger, der transportmiddelet er registrert i utlandet, dersom det brukes til ervervsmessig vare- eller persontransport, fra sted i utlandet til sted i tollområdet, eller fra sted i tollområdet til sted i utlandet. Transportmiddel som er registrert i et annet EØS-land, kan likevel brukes til ervervsmessig vare- eller persontransport i tollområdet, hvis det foreligger en tillatelse til dette utstedt av rette myndighet i registreringslandet. Transportmiddelet kan ikke eies eller føres av person bosatt i tollområdet. Vilkåret om at transportmidlet ikke må føres av person bosatt i tollområdet, gjelder ikke utenlandsregistrerte tilhengere (herunder semitrailere), som trekkes av norskregistrerte motorvogner. Tilhengeren må være utstyrt med kjennetegn som gjør det mulig å identifisere den, og tilhengeren må gjenutføres senest 90 dager etter innpassering.
+3. fartøy og luftfartøy som brukes til transport av varer og personer til og fra tollområdet
+4. jernbanemateriell til transport av varer og personer til eller fra tollområdet, dersom det ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med materiellets inn- og utførsel
+5. containere til transport av varer til eller fra tollområdet, dersom containeren ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med inn- og utførselen
+6. utstyr som benyttes til sporing av last og andre innretninger som er en del av fraktprosessen, dersom utstyret ikke benyttes til annen transport i tollområdet enn den som skjer i forbindelse med inn- og utførselen
+7. reservedeler og lignende som er bestemt til reparasjon av transportmiddel og utstyr nevnt i bokstav a til e, og som etter avsluttet reparasjon skal gjenutføres sammen med transportmiddelet.
 
 (3) Yrkesutstyr omfatter utstyr som er nødvendig for en persons stilling, virksomhet eller yrke, dersom yrkesutøveren midlertidig oppholder seg i Norge for å utføre en nærmere bestemt oppgave. Yrkesutstyr omfatter også reservedeler og lignende som innføres for å reparere yrkesutstyret, og utstyr til filmopptak dersom utstyret er nødvendig for å lage en eller flere bestemte filmer.
 
@@ -938,7 +1252,10 @@ Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde 
 
 ### § 4-6-5. Fartøy og luftfartøy til personlig bruk
 
-(1) Fartøy og luftfartøy kan midlertidig innføres til personlig bruk dersom den som innfører transportmiddelet harfast opphold utenfor Norge, jf. [§ 4-6-6](forskrift/2022-10-27-1901/§4-6-6), ellermidlertidig opphold i Norge, jf. [§ 4-6-7](forskrift/2022-10-27-1901/§4-6-7).
+(1) Fartøy og luftfartøy kan midlertidig innføres til personlig bruk dersom den som innfører transportmiddelet har
+
+1. fast opphold utenfor Norge, jf. [§ 4-6-6](forskrift/2022-10-27-1901/§4-6-6), eller
+2. midlertidig opphold i Norge, jf. [§ 4-6-7](forskrift/2022-10-27-1901/§4-6-7).
 
 (2) Det er et vilkår at transportmiddelet mens det er i Norge ikke disponeres av personer som har fast oppholdssted i Norge.
 
@@ -950,11 +1267,17 @@ Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde 
 
 (3) Ervervsmessig tilknytning foreligger for den som har fast arbeid, følger undervisning ved universitet/skole eller mottar pensjon som kan likestilles med inntekt fra fast arbeid utenfor Norge. Vedkommende kan ikke være registrert som bosatt i Norge eller ha familiemessig tilknytning til Norge.
 
-(4) Personlig tilknytning foreligger for den som har regelmessig døgnhvile i bolig utenfor Norge, som vedkommende selv eier eller leier med helårs leiekontrakt. Med regelmessig døgnhvile menes at vedkommende enten daglig reiser frem og tilbake mellom Norge og det annet land, eller har oppholdt seg eller har til hensikt å oppholde seg i det annet land i minst 185 dager i løpet av en tolvmåneders periode. Vedkommende kan ikkevære registrert som bosatt i Norge eller som midlertidig fraværende, med unntak for norske embets- og tjenestemenn (herunder militært personell) som er beordret til tjeneste i utlandet og som ikke kan få meldt flytting fra landet, ellerha familiemessig tilknytning til Norge.
+(4) Personlig tilknytning foreligger for den som har regelmessig døgnhvile i bolig utenfor Norge, som vedkommende selv eier eller leier med helårs leiekontrakt. Med regelmessig døgnhvile menes at vedkommende enten daglig reiser frem og tilbake mellom Norge og det annet land, eller har oppholdt seg eller har til hensikt å oppholde seg i det annet land i minst 185 dager i løpet av en tolvmåneders periode. Vedkommende kan ikke
+
+1. være registrert som bosatt i Norge eller som midlertidig fraværende, med unntak for norske embets- og tjenestemenn (herunder militært personell) som er beordret til tjeneste i utlandet og som ikke kan få meldt flytting fra landet, eller
+2. ha familiemessig tilknytning til Norge.
 
 ### § 4-6-7. Midlertidig opphold i Norge
 
-(1) Midlertidig opphold i Norge foreligger dersomoppholdet ikke overstiger ett år fra innreisetidspunktet, ellertollmyndighetene har forlenget gjenutførselsfristen etter [§ 4-6-10](forskrift/2022-10-27-1901/§4-6-10).
+(1) Midlertidig opphold i Norge foreligger dersom
+
+1. oppholdet ikke overstiger ett år fra innreisetidspunktet, eller
+2. tollmyndighetene har forlenget gjenutførselsfristen etter [§ 4-6-10](forskrift/2022-10-27-1901/§4-6-10).
 
 (2) Midlertidig opphold i Norge foreligger ikke dersom den som innfører transportmiddelet har oppholdt seg her eller har vært registrert i folkeregisteret som bosatt i Norge i mer enn 365 dager i løpet av de to siste år før innreisetidspunktet.
 
@@ -992,11 +1315,26 @@ Tollmyndighetene kan frafalle vilkår om gjenutførsel dersom varen blir destrue
 
 ### § 4-7-1. Opplysninger i deklarasjonen ved prosedyren innenlands bearbeiding av industrivarer
 
-Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde og verdi i norske kronerkollienes merker, numre og antallpreferansetollavgiftden deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.kode for avsenderland og opprinnelseslandvarenummer i samsvar med tolltariffentollavgiftssats, herunder krav om tollavgiftsnedsettelsermengde i henhold til tolltariffenvarens tollverdieventuelle tillatelser som kreves fra andre myndigheter ved innførselandre statistiske opplysninger som kreves for innførselsstatistikken.
+Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. vareslag, samlet mengde og verdi i norske kroner
+2. kollienes merker, numre og antall
+3. preferansetollavgift
+4. den deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.
+5. kode for avsenderland og opprinnelsesland
+6. varenummer i samsvar med tolltariffen
+7. tollavgiftssats, herunder krav om tollavgiftsnedsettelser
+8. mengde i henhold til tolltariffen
+9. varens tollverdi
+10. eventuelle tillatelser som kreves fra andre myndigheter ved innførsel
+11. andre statistiske opplysninger som kreves for innførselsstatistikken.
 
 ### § 4-7-2. Gjenutførsel av vare av samme slag
 
-Ved innførsel av vare til reparasjon kan vilkåret om gjenutførsel av den reparerte varen fravikes dersom detinnen ett år fra innførselstidspunktet utføres tilsvarende mengde vare av samme slag som den innførte varen, ellerfør innførselen er utført tilsvarende mengde vare av samme slag som den innførte varen.
+Ved innførsel av vare til reparasjon kan vilkåret om gjenutførsel av den reparerte varen fravikes dersom det
+
+1. innen ett år fra innførselstidspunktet utføres tilsvarende mengde vare av samme slag som den innførte varen, eller
+2. før innførselen er utført tilsvarende mengde vare av samme slag som den innførte varen.
 
 ### § 4-7-3. Forlengelse av gjenutførselsfristen
 
@@ -1030,7 +1368,19 @@ Tollmyndighetene kan frafalle vilkår om gjenutførsel dersom varen blir destrue
 
 ### § 4-8-2. Opplysninger i deklarasjonen ved prosedyren innenlands bearbeiding av landbruksvarer
 
-Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde og verdi i norske kronerkollienes merker, numre og antallpreferansetollavgiftden deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.kode for avsenderland og opprinnelseslandvarenummer i samsvar med tolltariffentollavgiftssats, herunder krav om tollavgiftsnedsettelsermengde i henhold til tolltariffenvarens tollverdieventuelle tillatelser som kreves fra andre myndigheter ved innførselandre statistiske opplysninger som kreves for innførselsstatistikken.
+Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. vareslag, samlet mengde og verdi i norske kroner
+2. kollienes merker, numre og antall
+3. preferansetollavgift
+4. den deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.
+5. kode for avsenderland og opprinnelsesland
+6. varenummer i samsvar med tolltariffen
+7. tollavgiftssats, herunder krav om tollavgiftsnedsettelser
+8. mengde i henhold til tolltariffen
+9. varens tollverdi
+10. eventuelle tillatelser som kreves fra andre myndigheter ved innførsel
+11. andre statistiske opplysninger som kreves for innførselsstatistikken.
 
 ### § 4-8-3. Gjenutførselsfrist
 
@@ -1058,7 +1408,41 @@ Tollmyndighetene kan frafalle vilkår om gjenutførsel dersom varen blir destrue
 
 ### § 5-1-2. Unntak fra plikten til forhåndsvarsel ved utførsel
 
-Plikten til forhåndsvarsel ved utførsel gjelder ikkeelektrisk kraftvare som utføres via rørledningbrev, postkort, brev i punktskrift og trykksaker som ikke er avgiftspliktige ved eksportvare som sendes i henhold til Verdenspostkonvensjonenvare etter [EØS-avtalen protokoll 10 om forenkling av kontroll og formaliteter i forbindelse med godstransport](avtale/avt-1992-05-02-1-p10) vedlegg 1 artikkel 19 bokstav ereisegods til personlig bruk som bringes med i forbindelse med reise fra tollområdetvare som er dekket av ATA- eller CPD-carnetvare fra ambassader, konsulater mv. i henhold til Wien-konvensjonene om diplomatiske og konsulære forhold og FN-konvensjonen om spesielle oppdragvåpen og militært utstyr som bringes ut av tollområdet av forsvarsmyndighetene og utelukkende er til bruk for dissefølgende vare som utføres fra tollområdet direkte til offshoreinstallasjoner som drives av et foretak som er etablert i Norge, Den europeiske union, Sveits eller Liechtenstein:vare som inngår i slike offshoreinstallasjoner som en del av deres konstruksjon, reparasjon, vedlikehold eller ombygging, ogvare som blir brukt til å montere på eller utruste de nevnte offshoreinstallasjonene og andre forsyninger som benyttes eller konsumeres på de nevnte offshoreinstallasjonene.innbo og løsøre, forutsatt at transporten ikke utføres under en transportavtalevare fra NATO etter formular 302vare som transporteres gjennom tollområdet med fartøy eller luftfartøy uten å stoppe innenfor tollområdetgavesending til privatpersondyr på beitemidlertidig utførsel av produksjons- og kringkastingsutstyr for radio og fjernsynmidlertidig utførsel av medisinsk utstyr til bruk på pasienter som venter på en transplantasjonvelferdsmateriell som nevnt i [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav kvare til Ceuta og Melilla, Helgoland, Republikken San Marino, Vatikanstaten, kommunen Livigno og de sveitsiske tollenklavene Samnaun og Sampuoirvarer som leveres for innarbeiding som deler eller tilbehør til fartøy eller luftfartøy, til drift av motorer, maskiner eller annet utstyr i fartøy eller luftfartøy, og matvarer og andre varer som skal konsumeres eller selges om bord på fartøy eller luftfartøyvare som blir om bord på fartøy eller luftfartøy under transport mellom Norge og Den europeiske union, Sveits eller Liechtenstein, når transportmiddelet har et midlertidig stopp utenfor disses tollområdervare som blir om bord på fartøy eller luftfartøy som ankommer og forlater tollområdet uten at varene blir lossetvare som blir om bord på fartøy eller luftfartøy som ankommer havn eller lufthavn fra et annet sted i tollområdet, før transportmiddelet forlater tollområdetvare som utføres til annet tollområde, avvises av tollmyndighetene i dette tollområdet og umiddelbart returnerer til norsk tollområdevare om bord i fartøy eller luftfartøy som transporteres mellom tollområdene til Norge, Den europeiske union, Sveits eller Liechtenstein uten mellomanløp utenfor disses tollområdervare som innføres til tollområdet og som forblir på tollager, frisone eller frihavn under tollmyndighetenes kontroll til varen utføres, dersomutførselen skjer i løpet av 14 dager etter innførselen. Tollmyndighetene kan etter søknad forlenge fristen,informasjon om varen er gjort tilgjengelig for tollmyndighetene, ogvarens bestemmelsessted eller varemottaker, etter transportørens kunnskap, er uendret.
+Plikten til forhåndsvarsel ved utførsel gjelder ikke
+
+1. elektrisk kraft
+2. vare som utføres via rørledning
+3. brev, postkort, brev i punktskrift og trykksaker som ikke er avgiftspliktige ved eksport
+4. vare som sendes i henhold til Verdenspostkonvensjonen
+5. vare etter [EØS-avtalen protokoll 10 om forenkling av kontroll og formaliteter i forbindelse med godstransport](avtale/avt-1992-05-02-1-p10) vedlegg 1 artikkel 19 bokstav e
+6. reisegods til personlig bruk som bringes med i forbindelse med reise fra tollområdet
+7. vare som er dekket av ATA- eller CPD-carnet
+8. vare fra ambassader, konsulater mv. i henhold til Wien-konvensjonene om diplomatiske og konsulære forhold og FN-konvensjonen om spesielle oppdrag
+9. våpen og militært utstyr som bringes ut av tollområdet av forsvarsmyndighetene og utelukkende er til bruk for disse
+10. følgende vare som utføres fra tollområdet direkte til offshoreinstallasjoner som drives av et foretak som er etablert i Norge, Den europeiske union, Sveits eller Liechtenstein:
+
+    1. vare som inngår i slike offshoreinstallasjoner som en del av deres konstruksjon, reparasjon, vedlikehold eller ombygging, og
+    2. vare som blir brukt til å montere på eller utruste de nevnte offshoreinstallasjonene og andre forsyninger som benyttes eller konsumeres på de nevnte offshoreinstallasjonene.
+11. innbo og løsøre, forutsatt at transporten ikke utføres under en transportavtale
+12. vare fra NATO etter formular 302
+13. vare som transporteres gjennom tollområdet med fartøy eller luftfartøy uten å stoppe innenfor tollområdet
+14. gavesending til privatperson
+15. dyr på beite
+16. midlertidig utførsel av produksjons- og kringkastingsutstyr for radio og fjernsyn
+17. midlertidig utførsel av medisinsk utstyr til bruk på pasienter som venter på en transplantasjon
+18. velferdsmateriell som nevnt i [§ 4-6-3](forskrift/2022-10-27-1901/§4-6-3) første ledd bokstav k
+19. vare til Ceuta og Melilla, Helgoland, Republikken San Marino, Vatikanstaten, kommunen Livigno og de sveitsiske tollenklavene Samnaun og Sampuoir
+20. varer som leveres for innarbeiding som deler eller tilbehør til fartøy eller luftfartøy, til drift av motorer, maskiner eller annet utstyr i fartøy eller luftfartøy, og matvarer og andre varer som skal konsumeres eller selges om bord på fartøy eller luftfartøy
+21. vare som blir om bord på fartøy eller luftfartøy under transport mellom Norge og Den europeiske union, Sveits eller Liechtenstein, når transportmiddelet har et midlertidig stopp utenfor disses tollområder
+22. vare som blir om bord på fartøy eller luftfartøy som ankommer og forlater tollområdet uten at varene blir losset
+23. vare som blir om bord på fartøy eller luftfartøy som ankommer havn eller lufthavn fra et annet sted i tollområdet, før transportmiddelet forlater tollområdet
+24. vare som utføres til annet tollområde, avvises av tollmyndighetene i dette tollområdet og umiddelbart returnerer til norsk tollområde
+25. vare om bord i fartøy eller luftfartøy som transporteres mellom tollområdene til Norge, Den europeiske union, Sveits eller Liechtenstein uten mellomanløp utenfor disses tollområder
+26. vare som innføres til tollområdet og som forblir på tollager, frisone eller frihavn under tollmyndighetenes kontroll til varen utføres, dersom
+
+    1. utførselen skjer i løpet av 14 dager etter innførselen. Tollmyndighetene kan etter søknad forlenge fristen,
+    2. informasjon om varen er gjort tilgjengelig for tollmyndighetene, og
+    3. varens bestemmelsessted eller varemottaker, etter transportørens kunnskap, er uendret.
 
 ### § 5-1-3. Ansvar for forhåndsvarsel ved utførsel
 
@@ -1068,7 +1452,11 @@ Plikten til forhåndsvarsel ved utførsel gjelder ikkeelektrisk kraftvare som ut
 
 ### § 5-1-4. Frister for forhåndsvarsel ved utførsel
 
-(1) Ved utførsel av varer med fartøy skal forhåndsvarsel gis innen følgende frister:for varer i container som transporteres til Grønland, Færøyene og Island, samt havner i Østersjøen, Nordsjøen, Svartehavet, Middelhavet, Marokko, Det forente kongerike Storbritannia og Nord-Irland, med unntak av havner i Nord-Irland, og havner på Kanaløyene og Man – minst 2 timer før avgang fra siste havn i tollområdet.for andre varer i container – minst 24 timer før lasting i avgangshavn.for transport som ikke omfatter containerlast – minst 2 timer før avgang fra siste havn i tollområdet.
+(1) Ved utførsel av varer med fartøy skal forhåndsvarsel gis innen følgende frister:
+
+1. for varer i container som transporteres til Grønland, Færøyene og Island, samt havner i Østersjøen, Nordsjøen, Svartehavet, Middelhavet, Marokko, Det forente kongerike Storbritannia og Nord-Irland, med unntak av havner i Nord-Irland, og havner på Kanaløyene og Man – minst 2 timer før avgang fra siste havn i tollområdet.
+2. for andre varer i container – minst 24 timer før lasting i avgangshavn.
+3. for transport som ikke omfatter containerlast – minst 2 timer før avgang fra siste havn i tollområdet.
 
 (2) Ved utførsel av varer med luftfartøy skal forhåndsvarsel gis minst 30 minutter før avgang.
 
@@ -1084,7 +1472,11 @@ Forhåndsvarselet skal inneholde de opplysninger som er fastsatt i [vedlegg 1](f
 
 ### § 5-1-6. Endring av forhåndsvarsel ved utførsel
 
-Opplysningene i et forhåndsvarsel etter [§ 5-1-4](forskrift/2022-10-27-1901/§5-1-4) kan endres med mindre tollmyndighetenehar varslet at varene skal kontrolleres,har avdekket at det er feil i forhåndsvarselet, ellerhar gitt tillatelse til videre transport i tollområdet.
+Opplysningene i et forhåndsvarsel etter [§ 5-1-4](forskrift/2022-10-27-1901/§5-1-4) kan endres med mindre tollmyndighetene
+
+1. har varslet at varene skal kontrolleres,
+2. har avdekket at det er feil i forhåndsvarselet, eller
+3. har gitt tillatelse til videre transport i tollområdet.
 
 ### § 5-2. Lasting
 
@@ -1104,7 +1496,10 @@ Ved lasting av vare som ikke er gått over i fri disponering og vare som det sø
 
 (4) Fører av marinefartøy er unntatt fra kravet om melding til tollmyndighetene før avgang.
 
-(5) Fører av norsk fiskefartøy og fører av fartøy som skal til norsk del av kontinentalsokkelen, er unntatt fra meldeplikt etter [vareførselsloven § 5-3](lov/2022-03-11-9/§5-3) dersomfartøyet kun medbringer varer som har gått over i fri disponering, ogfartøyet ikke skal anløpe havn utenfor tollområdet.
+(5) Fører av norsk fiskefartøy og fører av fartøy som skal til norsk del av kontinentalsokkelen, er unntatt fra meldeplikt etter [vareførselsloven § 5-3](lov/2022-03-11-9/§5-3) dersom
+
+1. fartøyet kun medbringer varer som har gått over i fri disponering, og
+2. fartøyet ikke skal anløpe havn utenfor tollområdet.
 
 (6) Fører av småfly (luftfartøy med høyeste tillatte startvekt til og med 5700 kg og som er godkjent for maksimalt ti passasjerer), skal gi melding til tollmyndighetene om avreise senest fire timer før avgang. [§ 2-3-3](forskrift/2022-10-27-1901/§2-3-3) syvende ledd om levering og endring av reiseplan gjelder tilsvarende.
 
@@ -1112,7 +1507,10 @@ Ved lasting av vare som ikke er gått over i fri disponering og vare som det sø
 
 ### § 5-3-2. Dokumenter ved avreise med fartøy
 
-(1) Når melding gis etter [§ 5-3-1](forskrift/2022-10-27-1901/§5-3-1) skal det overføres opplysninger til tollmyndighetene i SafeSeaNet Norway om:fartøylast.
+(1) Når melding gis etter [§ 5-3-1](forskrift/2022-10-27-1901/§5-3-1) skal det overføres opplysninger til tollmyndighetene i SafeSeaNet Norway om:
+
+1. fartøy
+2. last.
 
 (2) [§ 2-3-2](forskrift/2022-10-27-1901/§2-3-2) annet og femte ledd om førers opplysningsplikt gjelder tilsvarende for utførsel av vare med fartøy.
 
@@ -1136,7 +1534,12 @@ Ved lasting av vare som ikke er gått over i fri disponering og vare som det sø
 
 ### § 5-4-2. Unntak fra fremleggelsesplikt ved utførsel av vare
 
-Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten tillatelser fra andre myndighetervare som ved utførsel er unntatt deklareringsplikt etter [§ 5-9-5](forskrift/2022-10-27-1901/§5-9-5)gass som utføres via rørledningelektrisk kraftvare som deklareres etter [§ 5-9-4](forskrift/2022-10-27-1901/§5-9-4) annet ledd.
+Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten tillatelser fra andre myndigheter
+
+1. vare som ved utførsel er unntatt deklareringsplikt etter [§ 5-9-5](forskrift/2022-10-27-1901/§5-9-5)
+2. gass som utføres via rørledning
+3. elektrisk kraft
+4. vare som deklareres etter [§ 5-9-4](forskrift/2022-10-27-1901/§5-9-4) annet ledd.
 
 > Endret ved [forskrift 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023).
 
@@ -1162,7 +1565,10 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten t
 
 ### § 5-5-1. Unntak fra kravet til tollbehandling før utførsel
 
-(1) Tollmyndighetene kan gi generell tillatelse til at vare kan utføres før den er tollbehandlet. Tollmyndighetene kan begrense tillatelsen til å gjeldeenkelte vareslagvarer til enkelte mottakere.
+(1) Tollmyndighetene kan gi generell tillatelse til at vare kan utføres før den er tollbehandlet. Tollmyndighetene kan begrense tillatelsen til å gjelde
+
+1. enkelte vareslag
+2. varer til enkelte mottakere.
 
 (2) [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet til fjerde ledd og [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) gjelder tilsvarende.
 
@@ -1182,7 +1588,14 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten t
 
 ### § 5-9-1. Opplysninger i deklarasjon mv. ved prosedyren utførsel
 
-(1) Deklarasjonen skal inneholde opplysninger om blant annetvareslag, samlet mengde og verdi i norske kronervarenummer i samsvar med tolltariffenopprinnelsesbevis etter [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3) første ledd bokstav a og b eller [§ 5-11-8](forskrift/2022-10-27-1901/§5-11-8)kollienes merker, numre og antallleveringsvilkår mv.deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.
+(1) Deklarasjonen skal inneholde opplysninger om blant annet
+
+1. vareslag, samlet mengde og verdi i norske kroner
+2. varenummer i samsvar med tolltariffen
+3. opprinnelsesbevis etter [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3) første ledd bokstav a og b eller [§ 5-11-8](forskrift/2022-10-27-1901/§5-11-8)
+4. kollienes merker, numre og antall
+5. leveringsvilkår mv.
+6. deklarasjonspliktiges organisasjons- eller fødselsnummer. Tollmyndighetene kan i særlige tilfeller fravike dette kravet.
 
 (2) For delsendinger skal det gis opplysninger om sluttproduktet som delsendingen er en del av, avtale- eller kontraktsnummer og eventuelt saksnummer.
 
@@ -1190,7 +1603,10 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten t
 
 (4) Tollmyndighetene kan gi tillatelse til at den som utfører varer hvor fullstendige opplysninger ikke er kjent ved utførsel og disse fastsettes i ettertid kan legge frem foreløpig deklarasjon. Tillatelsen gis på forhånd for en bestemt tidsperiode og for spesifikke varenummer i tolltariffen.
 
-(5) For å kunne legge frem foreløpig deklarasjon etter tredje og fjerde ledd måeventuelle tillatelser som kreves fra andre myndigheter foreligge, ogrubrikkene 2, 6, 14, 17a, 29, 31, 34a, 44 og 48 i deklarasjonen være utfylt. Rubrikk 48 må være utfylt dersom tollkreditt benyttes. Rubrikk 33 må være utfylt dersom tillatelse er gitt etter tredje ledd.
+(5) For å kunne legge frem foreløpig deklarasjon etter tredje og fjerde ledd må
+
+1. eventuelle tillatelser som kreves fra andre myndigheter foreligge, og
+2. rubrikkene 2, 6, 14, 17a, 29, 31, 34a, 44 og 48 i deklarasjonen være utfylt. Rubrikk 48 må være utfylt dersom tollkreditt benyttes. Rubrikk 33 må være utfylt dersom tillatelse er gitt etter tredje ledd.
 
 (6) Det kan settes som vilkår i tillatelse etter fjerde ledd at deklarasjonspliktig har tollkreditt.
 
@@ -1202,13 +1618,22 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten t
 
 ### § 5-9-2. Fremleggelse av dokumenter mv. ved utførsel
 
-(1) Ved prosedyren utførsel skal alle dokumenter som er utstedt i forbindelse med utførselen av varen legges frem, herunderfaktura som er utstedt i forbindelse med salg av varenkonnossement, fraktbrev og lignende fraktdokumenter som er utstedt i forbindelse med transport av vareneventuelle tillatelser som kreves fra andre myndigheter ved utførselandre dokumenter som tollmyndighetene finner nødvendig blant annet for å kunne bestemme varenes opprinnelse, klassifisering, vekt, mengde og verdi.
+(1) Ved prosedyren utførsel skal alle dokumenter som er utstedt i forbindelse med utførselen av varen legges frem, herunder
+
+1. faktura som er utstedt i forbindelse med salg av varen
+2. konnossement, fraktbrev og lignende fraktdokumenter som er utstedt i forbindelse med transport av varen
+3. eventuelle tillatelser som kreves fra andre myndigheter ved utførsel
+4. andre dokumenter som tollmyndighetene finner nødvendig blant annet for å kunne bestemme varenes opprinnelse, klassifisering, vekt, mengde og verdi.
 
 (2) Ved elektronisk levering av deklarasjon gjelder ikke plikten til å legge frem grunnlagsdokumentasjon med mindre tollmyndighetene ber om det.
 
 (3) Deklarasjonspliktig skal skaffe attest for utførsel fra transportøren.
 
-(4) I følgende tilfeller skal det skaffes attest for utførsel fra tollmyndighetene:dersom deklarasjonspliktig selv foretar transporten av varen til grensendersom utførselen foregår med en transportør som ikke er registrert i Norgeved utførsel av landbruksvare der det skal søkes om refusjon etter [tollavgiftsloven § 7-1](lov/2022-03-11-8/§7-1).
+(4) I følgende tilfeller skal det skaffes attest for utførsel fra tollmyndighetene:
+
+1. dersom deklarasjonspliktig selv foretar transporten av varen til grensen
+2. dersom utførselen foregår med en transportør som ikke er registrert i Norge
+3. ved utførsel av landbruksvare der det skal søkes om refusjon etter [tollavgiftsloven § 7-1](lov/2022-03-11-8/§7-1).
 
 ### § 5-9-3. Unntak fra kravet til én forsendelse per deklarasjon
 
@@ -1224,11 +1649,22 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan utføres uten t
 
 ### § 5-9-5. Unntak fra deklareringsplikt ved utførsel
 
-(1) Følgende varer er unntatt fra deklareringsplikt ved utførsel dersom de er gått over i fri disponering eller er fremstilt her i landet.reisegods til personlig bruktransportmidler til personlig eller ervervsmessig bruk dersom utførselen er midlertidigforbruksvare som leveres til bruk eller salg om bord i transportmidleremballasje, lastepall og utstyr for beskyttelse av last i transportmidler som brukes til transport av varer til og fra tollområdet, jf. [§ 4-1-26](forskrift/2022-10-27-1901/§4-1-26)vare til grensebefolkningen på de vilkår som følger av [§ 4-1-28](forskrift/2022-10-27-1901/§4-1-28)vare som uføres til bruk for forskning og meteorologi i havområder utenfor tollområdet og i forbindelse med utforskning og utnyttelse av undersjøiske naturforekomster på norsk del av kontinentalsokkelenvarer med verdi til og med 5000 norske kroner per sending
+(1) Følgende varer er unntatt fra deklareringsplikt ved utførsel dersom de er gått over i fri disponering eller er fremstilt her i landet.
+
+1. reisegods til personlig bruk
+2. transportmidler til personlig eller ervervsmessig bruk dersom utførselen er midlertidig
+3. forbruksvare som leveres til bruk eller salg om bord i transportmidler
+4. emballasje, lastepall og utstyr for beskyttelse av last i transportmidler som brukes til transport av varer til og fra tollområdet, jf. [§ 4-1-26](forskrift/2022-10-27-1901/§4-1-26)
+5. vare til grensebefolkningen på de vilkår som følger av [§ 4-1-28](forskrift/2022-10-27-1901/§4-1-28)
+6. vare som uføres til bruk for forskning og meteorologi i havområder utenfor tollområdet og i forbindelse med utforskning og utnyttelse av undersjøiske naturforekomster på norsk del av kontinentalsokkelen
+7. varer med verdi til og med 5000 norske kroner per sending
 
 (2) Vare som nevnt i [§ 4-6-4 første ledd bokstav a](forskrift/2022-10-27-1901/§4-6-4/ledd/1/bokstav/a) og [b](forskrift/2022-10-27-1901/§4-6-4/ledd/1/bokstav/b) og [annet ledd bokstav a](forskrift/2022-10-27-1901/§4-6-4/ledd/2/bokstav/a) til [f](forskrift/2022-10-27-1901/§4-6-4/ledd/2/bokstav/f) som utføres midlertidig eller gjenutføres etter midlertidig innførsel er unntatt deklareringsplikt ved utførsel.
 
-(3) Vare som omfattes av unntakene etter første og andre ledd skal alltid deklareres nårvaren er avhengig av tillatelser fra andre myndigheter.varen utføres fra tollager og som ikke er gått over til fri disponering, med unntak av vare som tidligere har blitt utført fra tollager til norsk del av kontinentalsokkelen, og deretter har blitt returnert til tollageret. Unntaket gjelder vare til bruk på norsk del av kontinentalsokkelen og vare til bruk om bord i norskeide fartøy som opererer på norsk del av kontinentalsokkelen. Unntaket gjelder ikke proviant og forbruksvarer.
+(3) Vare som omfattes av unntakene etter første og andre ledd skal alltid deklareres når
+
+1. varen er avhengig av tillatelser fra andre myndigheter.
+2. varen utføres fra tollager og som ikke er gått over til fri disponering, med unntak av vare som tidligere har blitt utført fra tollager til norsk del av kontinentalsokkelen, og deretter har blitt returnert til tollageret. Unntaket gjelder vare til bruk på norsk del av kontinentalsokkelen og vare til bruk om bord i norskeide fartøy som opererer på norsk del av kontinentalsokkelen. Unntaket gjelder ikke proviant og forbruksvarer.
 
 (4) Vare som omfattes av unntakene for deklarasjonsplikt etter første og andre ledd kan deklareres dersom dette er nødvendig av hensyn til refusjon, fritak for eller avskrivning av innførselsavgifter eller for senere avgiftsfri gjeninnførsel av varen.
 
@@ -1256,7 +1692,22 @@ Deklarasjonspliktig skal straks melde fra til tollmyndighetene dersom varen ikke
 
 (1) Mat-, drikke- og tobakksvarer (proviant) kan forbrukes tollavgiftsfritt om bord i fartøy av besetning og passasjerer.
 
-(2) Det er følgende begrensninger for bruk av alkoholholdige drikkevarer og tobakksvarer om bord innenfor tollområdet:for fartøyets fører:400 sigaretter eller 400 gram andre tobakksvarer og 200 blad sigarettpapir, og2 liter brennevin av høyst 60 volumprosent alkohol eller vin.for hvert besetningsmedlem for øvrig:200 sigaretter eller 250 gram andre tobakksvarer og 200 blad sigarettpapir, og1 liter brennevin av høyst 60 volumprosent alkohol og 1 liter vin.for hver passasjer som følger med fartøyet til utlandet, Svalbard eller Jan Mayen:20 sigaretter eller 20 gram andre tobakksvarer og 20 blad sigarettpapir per dag dersom passasjeren har fylt 18 år, og¼ liter brennevin av høyst 60 volumprosent alkohol eller ¼ liter vin per dag dersom passasjeren har fylt 20 år.Begrensningene gjelder ikke bruk på turistfartøyer i cruisefart.
+(2) Det er følgende begrensninger for bruk av alkoholholdige drikkevarer og tobakksvarer om bord innenfor tollområdet:
+
+1. for fartøyets fører:
+
+   1. 400 sigaretter eller 400 gram andre tobakksvarer og 200 blad sigarettpapir, og
+   2. 2 liter brennevin av høyst 60 volumprosent alkohol eller vin.
+2. for hvert besetningsmedlem for øvrig:
+
+   1. 200 sigaretter eller 250 gram andre tobakksvarer og 200 blad sigarettpapir, og
+   2. 1 liter brennevin av høyst 60 volumprosent alkohol og 1 liter vin.
+3. for hver passasjer som følger med fartøyet til utlandet, Svalbard eller Jan Mayen:
+
+   1. 20 sigaretter eller 20 gram andre tobakksvarer og 20 blad sigarettpapir per dag dersom passasjeren har fylt 18 år, og
+   2. ¼ liter brennevin av høyst 60 volumprosent alkohol eller ¼ liter vin per dag dersom passasjeren har fylt 20 år.
+
+Begrensningene gjelder ikke bruk på turistfartøyer i cruisefart.
 
 (3) Tollavgiftsfritaket opphører fra den tid fartøyet går over i innenriks trafikk eller blir værende i tollområdet over lengre tid. Det kan tillates at fartøyet kan gå i kombinert innen- og utenriks fart uten at tollavgiftsfritaket opphører. Fritaket forutsetter at tollavgifts- og avgiftspliktig omsetning av provianterte varer til innenlandsreisende ikke overstiger 5 % av fartøyets totale omsetning av slike varer i løpet av et regnskapsår. Ved servering om bord plikter rederiet å ha kassesystemer som skiller mellom omsetning til innenlands- og utenlandsreisende. Omsetning til innenlandsreisende skal tollavgifts- og avgiftsberegnes i sin helhet. Tollmyndighetene fastsetter nærmere retningslinjer om avgiftsberegningen.
 
@@ -1264,9 +1715,22 @@ Deklarasjonspliktig skal straks melde fra til tollmyndighetene dersom varen ikke
 
 ### § 5-9-9. Fartøy mv. – tilleggsvilkår for tillatelse til proviantering
 
-(1) Tillatelse til proviantering til fartøy, installasjoner og innretninger gis dersom fartøyet mv. entengår til utenlandsk havn, Svalbard eller Jan Mayen,har oppdrag som medfører et sammenhengende opphold utenfor tollområdet på minst 14 dager,er fast installasjon eller er flyttbar innretning tilknyttet petroleumsvirksomheten til havs som opererer utenfor tollområdet, ellerer fartøy tilknyttet petroleumsvirksomheten til havs som opererer utenfor tollområdet.Dersom sammenhengende opphold utenfor tollområdet under bokstav b blir kortere enn 14 dager, og dette skyldes force majeure eller lignende uforutsette hendelser, medfører dette ikke bortfall av gitt tillatelse til proviantering.
+(1) Tillatelse til proviantering til fartøy, installasjoner og innretninger gis dersom fartøyet mv. enten
 
-(2) For alkoholholdige drikkevarer og tobakksvarer som skal brukes av eller selges til besetning gjelder følgende begrensninger:1 liter drikk med alkoholstyrke over 22 til og med 60 volumprosent per person per uke2 liter drikk med alkoholstyrke over 4,7 til og med 22 volumprosent per person per uke25 gram tobakksvarer per person per døgn.Det gis ikke tillatelse til proviantering av alkoholholdige drikkevarer og tobakksvarer for fartøy, installasjoner og innretninger som faller inn under første ledd bokstav c og d. Slik tillatelse kan likevel gis dersom disse også faller inn under første ledd bokstav a eller b.
+1. går til utenlandsk havn, Svalbard eller Jan Mayen,
+2. har oppdrag som medfører et sammenhengende opphold utenfor tollområdet på minst 14 dager,
+3. er fast installasjon eller er flyttbar innretning tilknyttet petroleumsvirksomheten til havs som opererer utenfor tollområdet, eller
+4. er fartøy tilknyttet petroleumsvirksomheten til havs som opererer utenfor tollområdet.
+
+Dersom sammenhengende opphold utenfor tollområdet under bokstav b blir kortere enn 14 dager, og dette skyldes force majeure eller lignende uforutsette hendelser, medfører dette ikke bortfall av gitt tillatelse til proviantering.
+
+(2) For alkoholholdige drikkevarer og tobakksvarer som skal brukes av eller selges til besetning gjelder følgende begrensninger:
+
+1. 1 liter drikk med alkoholstyrke over 22 til og med 60 volumprosent per person per uke
+2. 2 liter drikk med alkoholstyrke over 4,7 til og med 22 volumprosent per person per uke
+3. 25 gram tobakksvarer per person per døgn.
+
+Det gis ikke tillatelse til proviantering av alkoholholdige drikkevarer og tobakksvarer for fartøy, installasjoner og innretninger som faller inn under første ledd bokstav c og d. Slik tillatelse kan likevel gis dersom disse også faller inn under første ledd bokstav a eller b.
 
 ### § 5-9-10. Fartøy i rutetrafikk – særlige bestemmelser for tillatelse til proviantering
 
@@ -1278,7 +1742,12 @@ Deklarasjonspliktig skal straks melde fra til tollmyndighetene dersom varen ikke
 
 (4) For salg om bord på korte ruter kan det bare gis tillatelse til proviantering av tobakksvarer, sjokolade- og sukkervarer. Med korte ruter menes fartøysruter mellom norske havner fra og med Risør i vest til svenskegrensen i øst, og svenske havner fra og med norskegrensen i nord til og med Lysekil i sør. Tollmyndighetene kan etter søknad gi tillatelse til at korte ruter likevel kan proviantere varer som nevnt i tredje ledd. Dette gjelder bare fartøy som går i rute mellom norsk havn fra og med Risør i vest til og med Sandefjord i øst og svensk havn fra og med Strømstad i nord til og med Lysekil i sør. Det er videre et vilkår for slik tillatelse at fartøyet går i helårs rutetrafikk etter en fast, regelmessig rutetabell, har kapasitet til å transportere gods og motorvogner i betydelig omfang og at det er lagt til rette for tilfredsstillende tollkontroll.
 
-(5) Det stilles følgende vilkår for tillatelse til proviantering til fartøy i rutetrafikk:at salg etter tredje og fjerde ledd bare skjer fra kiosk eller lignende utsalgssted, og bare til passasjerer med gyldig billettat selger merker billettene slik at passasjerene ikke får kjøpt mer enn den mengde som kan innføres tollavgiftsfritt etter gjeldende bestemmelser for reisende i de land ruten omfatterat passasjerene ved oppslag om bord blir gjort oppmerksom på gjeldende bestemmelser for reisende for de land ruten omfatterat det føres separate regnskap for varer som selges til passasjerer fra kiosk eller lignende utsalgssted, og varer som serveres om bord.
+(5) Det stilles følgende vilkår for tillatelse til proviantering til fartøy i rutetrafikk:
+
+1. at salg etter tredje og fjerde ledd bare skjer fra kiosk eller lignende utsalgssted, og bare til passasjerer med gyldig billett
+2. at selger merker billettene slik at passasjerene ikke får kjøpt mer enn den mengde som kan innføres tollavgiftsfritt etter gjeldende bestemmelser for reisende i de land ruten omfatter
+3. at passasjerene ved oppslag om bord blir gjort oppmerksom på gjeldende bestemmelser for reisende for de land ruten omfatter
+4. at det føres separate regnskap for varer som selges til passasjerer fra kiosk eller lignende utsalgssted, og varer som serveres om bord.
 
 (6) For alle reisende til Norge er det den utvidede mengden tobakks- og nikotinvarer etter [§ 4-1-12](forskrift/2022-10-27-1901/§4-1-12) tredje ledd som etter femte ledd bokstav b kan kjøpes om bord.
 
@@ -1286,7 +1755,11 @@ Deklarasjonspliktig skal straks melde fra til tollmyndighetene dersom varen ikke
 
 ### § 5-9-11. Marinefartøy på tokt – særlige bestemmelser for tillatelse til proviantering
 
-Til marinefartøy som skal til utlandet, Svalbard eller Jan Mayen, gis tillatelse til proviantering av mat-, drikke- og tobakksvarer, og toalettartikler til besetningens personlige bruk om bord under toktet. For alkoholholdige drikkevarer og tobakksvarer gjelder følgende begrensinger:drikk med alkoholstyrke over 4,7 volumprosent: en halv liter per uke per person unntatt personell inne til førstegangstjenestetobakksvarer: 25 gram per person per døgnalkoholholdige drikkevarer og tobakksvarer til representasjon i utenlandsk havn: en kvart liter drikk med alkoholstyrke over 4,7 volumprosent og 25 gram tobakksvarer per person som ifølge program skal delta i den enkelte mottakelse.
+Til marinefartøy som skal til utlandet, Svalbard eller Jan Mayen, gis tillatelse til proviantering av mat-, drikke- og tobakksvarer, og toalettartikler til besetningens personlige bruk om bord under toktet. For alkoholholdige drikkevarer og tobakksvarer gjelder følgende begrensinger:
+
+1. drikk med alkoholstyrke over 4,7 volumprosent: en halv liter per uke per person unntatt personell inne til førstegangstjeneste
+2. tobakksvarer: 25 gram per person per døgn
+3. alkoholholdige drikkevarer og tobakksvarer til representasjon i utenlandsk havn: en kvart liter drikk med alkoholstyrke over 4,7 volumprosent og 25 gram tobakksvarer per person som ifølge program skal delta i den enkelte mottakelse.
 
 > Endret ved forskrift [1 juni 2023 nr. 788](forskrift/2023-06-01-788).
 
@@ -1298,7 +1771,13 @@ Til norske fiske- og fangstfartøy som har oppdrag som medfører et sammenhengen
 
 (1) Til luftfartøy kan det tillates proviantering til bruk og salg til passasjerer. Det er et vilkår at luftfartøyet er godkjent med faste seter for befordring av minst sju passasjerer, og at det går fra lufthavn med internasjonal status.
 
-(2) Dersom luftfartøyet går til utlandet kan det tillates proviantering av følgende varer til bruk om bord eller salg:alkoholholdige drikkevarer og tobakksvarerparfyme, kosmetikk og toalettartiklersmåartikler til personlig bruk.I tillegg kan det leveres matvarer og andre drikkevarer til bruk om bord av passasjerer og besetning.
+(2) Dersom luftfartøyet går til utlandet kan det tillates proviantering av følgende varer til bruk om bord eller salg:
+
+1. alkoholholdige drikkevarer og tobakksvarer
+2. parfyme, kosmetikk og toalettartikler
+3. småartikler til personlig bruk.
+
+I tillegg kan det leveres matvarer og andre drikkevarer til bruk om bord av passasjerer og besetning.
 
 (3) Dersom luftfartøyet går til Svalbard eller Jan Mayen kan det tillates proviantering av mat- og drikkevarer til bruk om bord. Det kan også tillates proviantering av sjokolade- og sukkervarer, parfyme, kosmetikk og toalettartikler til salg om bord.
 
@@ -1312,7 +1791,45 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 ### § 5-11-1. Opprinnelsesprodukter – frihandelsavtale
 
-(1) Vilkårene i følgende frihandelsavtaler for at produkter skal anses som opprinnelsesprodukter, gjelder som forskrift:[avtalen om opprettelse av Det europeiske økonomiske samarbeidsområde (EØS-avtalen) protokoll 4](avtale/avt-1992-05-02-1-p4)[konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA) vedlegg A](https://www.efta.int/sites/default/files/uploads/2024-04/EFTA%20Convention%20Annex%20A.pdf)[avtale mellom Norge og Det europeiske økonomiske fellesskap (EØF) protokoll 3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22021D1905)[frihandelsavtalen EFTA–Albania protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/albania/annexes-protocols/EFTA-Albania-JCD1_2021-PROTOCOL-B.pdf)[frihandelsavtalen EFTA-Bosnia-Hercegovina, vedlegg IX](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/bosnia-and-herzegovina/annexes-protocol/EFTA_BiH_FTA_Annex%20IX.pdf)[frihandelsavtalen EFTA–Canada vedlegg C](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/canada/oversettelse_vedlegg-c---opprinnelse-juli09.pdf)[frihandelsavtalen EFTA–Chile vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/chile/roo1.pdf)[frihandelsavtalen EFTA–Colombia vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/columbia/5_columbia_frihandel_vedlegg_v_opprinnelse.pdf)[frihandelsavtalen EFTA–Costa Rica og Panama vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/costa-rica-og-panama/vedlegg-1-opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Ecuador vedlegg I](https://www.toll.no/contentassets/04a008fb29eb4590b36c7eac5c1f31ac/efta-ecuador---opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Egypt protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/egypt/Annexes%20and%20Protocols/EFTA%20EG%20FTA%20-%20Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA–Filippinene vedlegg I](https://www.toll.no/files/59d23fc72bd937371544714a4fa10fa1512daba6.pdf)[frihandelsavtalen EFTA-Georgia, vedlegg II](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/georgia/GE_FTA-Annex_II-Rules_of_Origin.pdf)[frihandelsavtalen EFTA–GCC (Gulf Co-operation Council) vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/gcc/vedlegg-1.pdf)[avtale mellom Norge og Danmark om handelen mellom Norge og Grønland artikkel 4](https://www.toll.no/files/9ec9bf8c4976acdff7b684c3a61d12e9d3dcc159.pdf), jf. [§ 5-11-1 første ledd nr. 2](forskrift/2022-10-27-1901/§5-11-1/ledd/1/nummer/2) og [3](forskrift/2022-10-27-1901/§5-11-1/ledd/1/nummer/3).[frihandelsavtalen EFTA–Hongkong vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/hong-kong/vedlegg_1---opprinnelsesregler.pdf)[frihandelsavtalen EFTA-India vedlegg 2.A](https://www.regjeringen.no/contentassets/36e8e1ca786e4733bcdee261bf16f2fa/no/sved/01no.pdf)[frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)[frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA–Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)[frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)[frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)[frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)[frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)[frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)[frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)[frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)[interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)[frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)[frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)[frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)[frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)[frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)[frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)[frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)[frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)[frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
+(1) Vilkårene i følgende frihandelsavtaler for at produkter skal anses som opprinnelsesprodukter, gjelder som forskrift:
+
+1. [avtalen om opprettelse av Det europeiske økonomiske samarbeidsområde (EØS-avtalen) protokoll 4](avtale/avt-1992-05-02-1-p4)
+2. [konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA) vedlegg A](https://www.efta.int/sites/default/files/uploads/2024-04/EFTA%20Convention%20Annex%20A.pdf)
+3. [avtale mellom Norge og Det europeiske økonomiske fellesskap (EØF) protokoll 3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22021D1905)
+4. [frihandelsavtalen EFTA–Albania protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/albania/annexes-protocols/EFTA-Albania-JCD1_2021-PROTOCOL-B.pdf)
+5. [frihandelsavtalen EFTA-Bosnia-Hercegovina, vedlegg IX](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/bosnia-and-herzegovina/annexes-protocol/EFTA_BiH_FTA_Annex%20IX.pdf)
+6. [frihandelsavtalen EFTA–Canada vedlegg C](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/canada/oversettelse_vedlegg-c---opprinnelse-juli09.pdf)
+7. [frihandelsavtalen EFTA–Chile vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/chile/roo1.pdf)
+8. [frihandelsavtalen EFTA–Colombia vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/columbia/5_columbia_frihandel_vedlegg_v_opprinnelse.pdf)
+9. [frihandelsavtalen EFTA–Costa Rica og Panama vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/costa-rica-og-panama/vedlegg-1-opprinnelsesreglene.pdf)
+10. [frihandelsavtalen EFTA–Ecuador vedlegg I](https://www.toll.no/contentassets/04a008fb29eb4590b36c7eac5c1f31ac/efta-ecuador---opprinnelsesreglene.pdf)
+11. [frihandelsavtalen EFTA–Egypt protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/egypt/Annexes%20and%20Protocols/EFTA%20EG%20FTA%20-%20Protocol%20B%20-%20Rules%20of%20Origin.pdf)
+12. [frihandelsavtalen EFTA–Filippinene vedlegg I](https://www.toll.no/files/59d23fc72bd937371544714a4fa10fa1512daba6.pdf)
+13. [frihandelsavtalen EFTA-Georgia, vedlegg II](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/georgia/GE_FTA-Annex_II-Rules_of_Origin.pdf)
+14. [frihandelsavtalen EFTA–GCC (Gulf Co-operation Council) vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/gcc/vedlegg-1.pdf)
+15. [avtale mellom Norge og Danmark om handelen mellom Norge og Grønland artikkel 4](https://www.toll.no/files/9ec9bf8c4976acdff7b684c3a61d12e9d3dcc159.pdf), jf. [§ 5-11-1 første ledd nr. 2](forskrift/2022-10-27-1901/§5-11-1/ledd/1/nummer/2) og [3](forskrift/2022-10-27-1901/§5-11-1/ledd/1/nummer/3).
+16. [frihandelsavtalen EFTA–Hongkong vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/hong-kong/vedlegg_1---opprinnelsesregler.pdf)
+17. [frihandelsavtalen EFTA-India vedlegg 2.A](https://www.regjeringen.no/contentassets/36e8e1ca786e4733bcdee261bf16f2fa/no/sved/01no.pdf)
+18. [frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)
+19. [frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)
+20. [frihandelsavtalen EFTA–Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)
+21. [frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)
+22. [frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)
+23. [frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)
+24. [frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)
+25. [frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)
+26. [frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)
+27. [frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)
+28. [interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)
+29. [frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)
+30. [frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)
+31. [frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)
+32. [frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)
+33. [frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)
+34. [frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)
+35. [frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)
+36. [frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)
+37. [frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
@@ -1324,11 +1841,18 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 (2) Tillatelse til bokføringsmessig atskillelse innebærer at eksportøren kan utstede opprinnelsesbevis for fremstilte produkter tilsvarende den mengden materialer med opprinnelsesstatus etter [§ 5-11-1](forskrift/2022-10-27-1901/§5-11-1) som produksjonsenheten til enhver tid har tilgjengelig.
 
-(3) Det er vilkår for å få tillatelse til bokføringsmessig atskillelse atproduksjonsenheten foretar bearbeiding eller foredling av materialer i større grad enn det som er nevnt i frihandelsavtalenes bestemmelser om utilstrekkelig bearbeiding eller foredling,atskilt lagring vil medføre store kostnader eller betydelige ulemper ut fra produksjonsforholdene, varespekter mv. ved produksjonsenheten, ogdet foreligger et logistikksystem og et regnskapssystem som sikrer tollmyndighetenes muligheter for kontroll.
+(3) Det er vilkår for å få tillatelse til bokføringsmessig atskillelse at
+
+1. produksjonsenheten foretar bearbeiding eller foredling av materialer i større grad enn det som er nevnt i frihandelsavtalenes bestemmelser om utilstrekkelig bearbeiding eller foredling,
+2. atskilt lagring vil medføre store kostnader eller betydelige ulemper ut fra produksjonsforholdene, varespekter mv. ved produksjonsenheten, og
+3. det foreligger et logistikksystem og et regnskapssystem som sikrer tollmyndighetenes muligheter for kontroll.
 
 (4) Materialer med ulik opprinnelsesstatus må atskilles regnskapsmessig (bokføringsmessig atskillelse). Regnskapet skal enten føres slik at beholdningen av fremstilte produkter regnskapsføres ved ferdigstillelsen av produktet eller ved at beholdningen av fremstilte produkter regnskapsføres ved utstedelse av opprinnelsesbeviset tilknyttet produktet.
 
-(5) Søknad om tillatelse til bokføringsmessig atskillelse må i tillegg til opplysninger om vilkårene i tredje ledd inneholde opplysninger omeksportøren ønsker å regnskapsføre fremstilte produkter med opprinnelse i forbindelse med produksjon eller salg, jf. fjerde leddproduksjonsenheten ønsker å benytte frihandelsavtalenes toleranseregel.
+(5) Søknad om tillatelse til bokføringsmessig atskillelse må i tillegg til opplysninger om vilkårene i tredje ledd inneholde opplysninger om
+
+1. eksportøren ønsker å regnskapsføre fremstilte produkter med opprinnelse i forbindelse med produksjon eller salg, jf. fjerde ledd
+2. produksjonsenheten ønsker å benytte frihandelsavtalenes toleranseregel.
 
 (6) Underliggende dokumentasjon av opplysningene i regnskapet for bokføringsmessig atskillelse skal oppbevares som fastsatt i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-2](forskrift/2022-10-27-1901/§7-5-2).
 
@@ -1336,11 +1860,19 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 ### § 5-11-3. Opprinnelsesbevis ved utførsel – frihandelsavtale
 
-(1) Ved utførsel kan eksportøren, i samsvar med bestemmelsene i den aktuelle frihandelsavtalen, utstede følgende dokumentasjon for produktets opprinnelse:varesertifikat (EUR.1 eller EUR-MED), jf. annet til femte leddopprinnelseserklæring (herunder opprinnelseserklæring EUR-MED), jf. sjette leddleverandørerklæring der ikke-opprinnelsesmaterialer fra eksportøren kan benyttes materialer i en videre produksjon i importlandet på linje med materialer fra importlandet (full kumulasjon)opprinnelseserklæring på tolldeklarasjon CN22 eller CN23 for småsendinger som utføres pr. post, jf. [tollavgiftsforskriften § 4-1-4](forskrift/2022-10-27-1938/§4-1-4) bokstav a.
+(1) Ved utførsel kan eksportøren, i samsvar med bestemmelsene i den aktuelle frihandelsavtalen, utstede følgende dokumentasjon for produktets opprinnelse:
+
+1. varesertifikat (EUR.1 eller EUR-MED), jf. annet til femte ledd
+2. opprinnelseserklæring (herunder opprinnelseserklæring EUR-MED), jf. sjette ledd
+3. leverandørerklæring der ikke-opprinnelsesmaterialer fra eksportøren kan benyttes materialer i en videre produksjon i importlandet på linje med materialer fra importlandet (full kumulasjon)
+4. opprinnelseserklæring på tolldeklarasjon CN22 eller CN23 for småsendinger som utføres pr. post, jf. [tollavgiftsforskriften § 4-1-4](forskrift/2022-10-27-1938/§4-1-4) bokstav a.
 
 (2) Varesertifikat EUR.1 eller EUR-MED utstedes av eksportøren, og attesteres av tollmyndighetene før utførsel. Tollmyndighetenes attestering kan skje elektronisk.
 
-(3) Varesertifikat kan utstedes etter at produktet er utført dersomsertifikatet ikke ble utstedt på utførselstidspunktet på grunn av feil, utilsiktede forsømmelser eller på grunn av spesielle forhold, elleret utstedt varesertifikat ikke ble akseptert ved innførselen av tekniske årsaker.
+(3) Varesertifikat kan utstedes etter at produktet er utført dersom
+
+1. sertifikatet ikke ble utstedt på utførselstidspunktet på grunn av feil, utilsiktede forsømmelser eller på grunn av spesielle forhold, eller
+2. et utstedt varesertifikat ikke ble akseptert ved innførselen av tekniske årsaker.
 
 (4) Tollmyndighetene kan etter søknad, og i den utstrekning det fremgår av den aktuelle frihandelsavtalen, utstede et duplikat ved tyveri, tap eller ødeleggelse av et varesertifikat. Duplikatet skal påføres datoen for utstedelse av det originale varesertifikatet og skal ha gyldighet fra samme dato.
 
@@ -1352,7 +1884,12 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 (1) Tollmyndighetene kan gi en eksportør generell autorisasjon til å utstede opprinnelseserklæring, jf. [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3) første ledd bokstav b, på de vilkår som fremgår av den aktuelle tollpreferanseordningen (godkjent eksportør). Autorisasjonen kan inneholde unntak fra kravet til underskrift, jf. [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3) sjette ledd. Opprinnelseserklæringer som avgis i henhold til autorisasjonen, skal inneholde tollmyndighetenes autorisasjonsnummer.
 
-(2) Autorisasjonen kan gis på følgende vilkår:søknaden må være fremsatt på skjema RD 0003eventuelle vilkår i den aktuelle preferanseordningen må være oppfyltsøkeren må dokumentere kunnskap om relevante opprinnelsesreglervilkårene i [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet ledd må være oppfylt.
+(2) Autorisasjonen kan gis på følgende vilkår:
+
+1. søknaden må være fremsatt på skjema RD 0003
+2. eventuelle vilkår i den aktuelle preferanseordningen må være oppfylt
+3. søkeren må dokumentere kunnskap om relevante opprinnelsesregler
+4. vilkårene i [§ 2-4-7](forskrift/2022-10-27-1901/§2-4-7) annet ledd må være oppfylt.
 
 (3) For tilbaketrekking og endring av autorisasjonen gjelder [§ 2-4-8](forskrift/2022-10-27-1901/§2-4-8) tilsvarende.
 
@@ -1374,13 +1911,27 @@ Alternativet EØS-preferanseopprinnelse skal brukes dersom produktet har opprinn
 
 ### § 5-11-6. Oppbevaring av dokumentasjon for opprinnelse – frihandelsavtale
 
-Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-2](forskrift/2022-10-27-1901/§7-5-2) gjelder tilsvarende foreksportør som utsteder varesertifikat EUR.1 eller EUR-MED, opprinnelseserklæring eller leverandørerklæring etter [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3)leverandør som utsteder leverandørerklæring etter [§ 5-11-5](forskrift/2022-10-27-1901/§5-11-5).
+Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-2](forskrift/2022-10-27-1901/§7-5-2) gjelder tilsvarende for
+
+1. eksportør som utsteder varesertifikat EUR.1 eller EUR-MED, opprinnelseserklæring eller leverandørerklæring etter [§ 5-11-3](forskrift/2022-10-27-1901/§5-11-3)
+2. leverandør som utsteder leverandørerklæring etter [§ 5-11-5](forskrift/2022-10-27-1901/§5-11-5).
 
 ### § 5-11-7. Opprinnelsesbevis ved videresending av produkt med GSP-opprinnelse
 
-(1) En videresender av varer som har GSP-opprinnelse, kan utstede en erstatningsopprinnelseserklæring dersomvideresenderen er registrert i det elektroniske systemet for eksportørers egensertifisering av opprinnelse, REX-systemet, uten hensyn til verdien av opprinnelsesproduktene i den originale forsendelsen,opprinnelsen er dokumentert med opprinnelsesdokumentasjon som nevnt i [tollavgiftsforskriften § 4-1-18](forskrift/2022-10-27-1938/§4-1-18) annet ledd bokstav a eller b, ogproduktet i Norge ikke er endret, omdannet på noen måte eller gjort til gjenstand for andre behandlinger enn de som er tillatt etter [tollavgiftsforskriften § 4-1-15](forskrift/2022-10-27-1938/§4-1-15) første til tredje ledd.
+(1) En videresender av varer som har GSP-opprinnelse, kan utstede en erstatningsopprinnelseserklæring dersom
 
-(2) Videresenderen skal angi følgende på hver erstatningsopprinnelseserklæring:alle opplysninger om de videresendte produktene som finnes i den originale opprinnelseserklæringendatoen da den originale opprinnelseserklæringen ble utferdigetopplysninger om den originale opprinnelseserklæringen, herunder eventuell informasjon om kumulasjon som anvendes på varer omfattet av opprinnelseserklæringennavn, adresse og sitt registrerte eksportørnummermottakerens navn og adresse i Den europeiske union, Sveits eller Tyrkiadato og sted for utferdigelse av opprinnelseserklæringen.
+1. videresenderen er registrert i det elektroniske systemet for eksportørers egensertifisering av opprinnelse, REX-systemet, uten hensyn til verdien av opprinnelsesproduktene i den originale forsendelsen,
+2. opprinnelsen er dokumentert med opprinnelsesdokumentasjon som nevnt i [tollavgiftsforskriften § 4-1-18](forskrift/2022-10-27-1938/§4-1-18) annet ledd bokstav a eller b, og
+3. produktet i Norge ikke er endret, omdannet på noen måte eller gjort til gjenstand for andre behandlinger enn de som er tillatt etter [tollavgiftsforskriften § 4-1-15](forskrift/2022-10-27-1938/§4-1-15) første til tredje ledd.
+
+(2) Videresenderen skal angi følgende på hver erstatningsopprinnelseserklæring:
+
+1. alle opplysninger om de videresendte produktene som finnes i den originale opprinnelseserklæringen
+2. datoen da den originale opprinnelseserklæringen ble utferdiget
+3. opplysninger om den originale opprinnelseserklæringen, herunder eventuell informasjon om kumulasjon som anvendes på varer omfattet av opprinnelseserklæringen
+4. navn, adresse og sitt registrerte eksportørnummer
+5. mottakerens navn og adresse i Den europeiske union, Sveits eller Tyrkia
+6. dato og sted for utferdigelse av opprinnelseserklæringen.
 
 (3) Hver erstatningsopprinnelseserklæring skal merkes med «Replacement statement» eller «Attestation de remplacement».
 
@@ -1388,7 +1939,11 @@ Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-
 
 (5) Erstatningsopprinnelseserklæringer skal utarbeides på engelsk eller fransk.
 
-(6) Videresenderen skal angi følgende på den originale opprinnelseserklæringen:dato for utferdigelse av erstatningsopprinnelseserklæringen samt mengden varer som omfattesvideresenderens navn og adressemottakerens eller mottakernes navn og adresse i Den europeiske union, Sveits eller Tyrkia.
+(6) Videresenderen skal angi følgende på den originale opprinnelseserklæringen:
+
+1. dato for utferdigelse av erstatningsopprinnelseserklæringen samt mengden varer som omfattes
+2. videresenderens navn og adresse
+3. mottakerens eller mottakernes navn og adresse i Den europeiske union, Sveits eller Tyrkia.
 
 (7) Videresenderen skal oppbevare de originale opprinnelseserklæringene og kopier av erstatningsopprinnelseserklæringene i minst tre år fra slutten av kalenderåret da erstatningsopprinnelseserklæringene ble utstedt.
 
@@ -1398,7 +1953,10 @@ Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-
 
 (1) Ved utførsel av produkt med norsk opprinnelse til et GSP-land med sikte på bearbeiding eller foredling kan det utstedes opprinnelseserklæring for eventuell senere innførsel av det fremstilte produktet til Norge, Den europeiske union, Sveits eller Tyrkia. Opprinnelsen bestemmes etter de reglene som følger av [tollavgiftsforskriften § 4-1-7](forskrift/2022-10-27-1938/§4-1-7) til [§ 4-1-14](forskrift/2022-10-27-1938/§4-1-14). Dersom det fremstilte produktet sendes fra GSP-landet til Den europeiske union, Sveits eller Tyrkia, gjelder dette ikke for utførsel av produkter omfattet av tolltariffen kapittel 1 til og med 24.
 
-(2) Opprinnelseserklæring kan utstedes dersomeksportøren er registrert i REX, jf. [§ 5-11-7](forskrift/2022-10-27-1901/§5-11-7) første ledd bokstav a, ellerverdien av opprinnelsesproduktene i sendingen ikke overstiger 6 000 euro.
+(2) Opprinnelseserklæring kan utstedes dersom
+
+1. eksportøren er registrert i REX, jf. [§ 5-11-7](forskrift/2022-10-27-1901/§5-11-7) første ledd bokstav a, eller
+2. verdien av opprinnelsesproduktene i sendingen ikke overstiger 6 000 euro.
 
 (3) Tollmyndighetene kan kreve at eksportøren dokumenterer at produktet som det er utstedt opprinnelsesbevis for, er et opprinnelsesprodukt, jf. [tollavgiftsforskriften § 4-1-7](forskrift/2022-10-27-1938/§4-1-7) til [§ 4-1-14](forskrift/2022-10-27-1938/§4-1-14).
 
@@ -1408,13 +1966,19 @@ Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-
 
 ### § 5-12-1. Opprinnelsesprodukter – definisjon
 
-(1) Følgende produkter anses å ha ikke-preferensiell opprinnelseprodukter med opprinnelse i Norge, jf. [§ 5-12-2](forskrift/2022-10-27-1901/§5-12-2)produkter med opprinnelse i et annet land, jf. [§ 5-12-3](forskrift/2022-10-27-1901/§5-12-3).
+(1) Følgende produkter anses å ha ikke-preferensiell opprinnelse
+
+1. produkter med opprinnelse i Norge, jf. [§ 5-12-2](forskrift/2022-10-27-1901/§5-12-2)
+2. produkter med opprinnelse i et annet land, jf. [§ 5-12-3](forskrift/2022-10-27-1901/§5-12-3).
 
 (2) Med produkt menes det produktet som blir fremstilt, selv om det er bestemt for senere bruk i en annen produksjonsprosess.
 
 ### § 5-12-2. Produkter med opprinnelse i Norge
 
-(1) Følgende produkter anses å ha opprinnelse i Norge:produkter som er fremstilt i sin helhet i Norge, jf. [§ 5-12-4](forskrift/2022-10-27-1901/§5-12-4)produkter som er tilstrekkelig bearbeidet eller foredlet i Norge, jf. [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) og [§ 5-12-6](forskrift/2022-10-27-1901/§5-12-6), inneholdende materialer som ikke har blitt fremstilt i sin helhet her.
+(1) Følgende produkter anses å ha opprinnelse i Norge:
+
+1. produkter som er fremstilt i sin helhet i Norge, jf. [§ 5-12-4](forskrift/2022-10-27-1901/§5-12-4)
+2. produkter som er tilstrekkelig bearbeidet eller foredlet i Norge, jf. [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) og [§ 5-12-6](forskrift/2022-10-27-1901/§5-12-6), inneholdende materialer som ikke har blitt fremstilt i sin helhet her.
 
 (2) Med fremstilling menes all slags bearbeiding eller foredling, herunder sammensetting og montering eller spesielle prosesser.
 
@@ -1422,17 +1986,34 @@ Oppbevaringsplikten i [§ 7-5-1](forskrift/2022-10-27-1901/§7-5-1) til [§ 7-5-
 
 ### § 5-12-3. Produkter med opprinnelse i et annet land
 
-(1) Følgende produkter anses å ha opprinnelse i et annet land:produkter som er fremstilt i sin helhet i landet. [§ 5-12-4](forskrift/2022-10-27-1901/§5-12-4) gjelder tilsvarendeprodukter som er tilstrekkelig bearbeidet eller foredlet i landet, inneholdende materialer som ikke har blitt fremstilt i sin helhet der. [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) og [§ 5-12-6](forskrift/2022-10-27-1901/§5-12-6) gjelder tilsvarende.
+(1) Følgende produkter anses å ha opprinnelse i et annet land:
+
+1. produkter som er fremstilt i sin helhet i landet. [§ 5-12-4](forskrift/2022-10-27-1901/§5-12-4) gjelder tilsvarende
+2. produkter som er tilstrekkelig bearbeidet eller foredlet i landet, inneholdende materialer som ikke har blitt fremstilt i sin helhet der. [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) og [§ 5-12-6](forskrift/2022-10-27-1901/§5-12-6) gjelder tilsvarende.
 
 (2) Dersom flere land har deltatt i produksjonen av et produkt, skal opprinnelseslandet være det landet der den siste vesentlige og økonomisk begrunnede bearbeidingen eller foredlingen finner sted, og som resulterer i fremstillingen av et nytt produkt, eller som representerer et vesentlig trinn i fremstillingen av et produkt.
 
 ### § 5-12-4. Produkter fremstilt i sin helhet
 
-Følgende produkter anses som fremstilt i sin helhet i Norge:mineralske produkter som er utvunnet i Norgevegetabilske produkter som er høstet i Norgelevende dyr født og alet i Norgeprodukter av levende dyr som er alet i Norge og produkter fra jakt, fiske og fangst i Norgeprodukter fra fiske og fangst og andre produkter som tas opp fra havet utenfor Norges sjøterritorium, av fartøy som er registrert i Norge eller i norsk skipsregister og som seiler under norsk flaggprodukter som er fremstilt ombord i fabrikkskip av produkter som er nevnt i bokstav e, og som har sin opprinnelse i Norge, forutsatt at disse fabrikkskipene er registrert i Norge eller i norsk skipsregister og seiler under norsk flaggprodukter hentet fra havbunnen eller havundergrunnen utenfor sjøterritoriet, forutsatt at Norge har enerett på utnyttelsen av den aktuelle havbunnen eller havundergrunnenavfall og skrap fremkommet etter produksjonsprosesser i Norge, og brukte gjenstander dersom de er samlet inn i Norge og bare kan brukes til gjenvinning av råmaterialer, inkludert brukte dekk bare egnet til regummiering eller til bruk som avfallprodukter som er fremstilt i Norge utelukkende av materialer nevnt i bokstav a til h, eller av biprodukter fra disse på ethvert trinn i produksjonen.
+Følgende produkter anses som fremstilt i sin helhet i Norge:
+
+1. mineralske produkter som er utvunnet i Norge
+2. vegetabilske produkter som er høstet i Norge
+3. levende dyr født og alet i Norge
+4. produkter av levende dyr som er alet i Norge og produkter fra jakt, fiske og fangst i Norge
+5. produkter fra fiske og fangst og andre produkter som tas opp fra havet utenfor Norges sjøterritorium, av fartøy som er registrert i Norge eller i norsk skipsregister og som seiler under norsk flagg
+6. produkter som er fremstilt ombord i fabrikkskip av produkter som er nevnt i bokstav e, og som har sin opprinnelse i Norge, forutsatt at disse fabrikkskipene er registrert i Norge eller i norsk skipsregister og seiler under norsk flagg
+7. produkter hentet fra havbunnen eller havundergrunnen utenfor sjøterritoriet, forutsatt at Norge har enerett på utnyttelsen av den aktuelle havbunnen eller havundergrunnen
+8. avfall og skrap fremkommet etter produksjonsprosesser i Norge, og brukte gjenstander dersom de er samlet inn i Norge og bare kan brukes til gjenvinning av råmaterialer, inkludert brukte dekk bare egnet til regummiering eller til bruk som avfall
+9. produkter som er fremstilt i Norge utelukkende av materialer nevnt i bokstav a til h, eller av biprodukter fra disse på ethvert trinn i produksjonen.
 
 ### § 5-12-5. Tilstrekkelig bearbeiding eller foredling
 
-(1) For levende dyr omhandlet i tolltariffen kapittel 1, er opprinnelseslandet det landet hvor dyret er født. Et produkt som hører under tolltariffens kapittel 2-97 anses tilstrekkelig bearbeidet eller foredlet nårverdien av materialene ikke overstiger 50 prosent av det ferdige produktets pris fra fabrikk,fremstilling hvor alle brukte materialer skifter underposisjon i Det harmoniserte system, ellerproduktet kun er tilført programvare for å gjøre det operativt, og verdien av materialene ikke overstiger 30 prosent av det ferdige produktets pris fra fabrikk.
+(1) For levende dyr omhandlet i tolltariffen kapittel 1, er opprinnelseslandet det landet hvor dyret er født. Et produkt som hører under tolltariffens kapittel 2-97 anses tilstrekkelig bearbeidet eller foredlet når
+
+1. verdien av materialene ikke overstiger 50 prosent av det ferdige produktets pris fra fabrikk,
+2. fremstilling hvor alle brukte materialer skifter underposisjon i Det harmoniserte system, eller
+3. produktet kun er tilført programvare for å gjøre det operativt, og verdien av materialene ikke overstiger 30 prosent av det ferdige produktets pris fra fabrikk.
 
 (2) Ikke-opprinnelsesmaterialer som ikke skifter underposisjon i tolltariffen, kan likevel benyttes forutsatt at deres totale verdi ikke overstiger 30 prosent av pris fra fabrikk på produktet.
 
@@ -1444,7 +2025,20 @@ Følgende produkter anses som fremstilt i sin helhet i Norge:mineralske produkte
 
 ### § 5-12-6. Utilstrekkelig bearbeiding eller foredling
 
-(1) Følgende skal anses som utilstrekkelig bearbeiding eller foredling i Norge selv om vilkårene i [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) er oppfylt:behandling som har til hensikt å holde produktet i sin opprinnelige tilstand under transport eller lagringdeling eller sammenstilling av kollivasking, rensing, fjerning av støv, oksidering, olje, maling eller andre beleggstryking eller pressing av tekstilerenkel maling og poleringavskalling, hel eller delvis bleking, polering og glasering av korn og rissikting, utskilling, sammenstilling, sortering, klassifisering, gradering, tilpassing (innbefattet sammenstilling av varer til sortiment eller sett)enkel fylling i flasker, bokser, flakonger, sekker, etuier, esker, festing til plater eller planker, og all annen enkel emballeringanbringelse eller trykking av merker, etiketter, logoer eller andre lignende kjennemerker på produkter eller deres emballasjeenkel blanding av produkter, også av forskjellige slagenkel montering av deler av artikler til en komplett artikkel eller demontering av produktet til delerkombinasjon av to eller flere av de behandlingene som er angitt i bokstav a til k.
+(1) Følgende skal anses som utilstrekkelig bearbeiding eller foredling i Norge selv om vilkårene i [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5) er oppfylt:
+
+1. behandling som har til hensikt å holde produktet i sin opprinnelige tilstand under transport eller lagring
+2. deling eller sammenstilling av kolli
+3. vasking, rensing, fjerning av støv, oksidering, olje, maling eller andre belegg
+4. stryking eller pressing av tekstiler
+5. enkel maling og polering
+6. avskalling, hel eller delvis bleking, polering og glasering av korn og ris
+7. sikting, utskilling, sammenstilling, sortering, klassifisering, gradering, tilpassing (innbefattet sammenstilling av varer til sortiment eller sett)
+8. enkel fylling i flasker, bokser, flakonger, sekker, etuier, esker, festing til plater eller planker, og all annen enkel emballering
+9. anbringelse eller trykking av merker, etiketter, logoer eller andre lignende kjennemerker på produkter eller deres emballasje
+10. enkel blanding av produkter, også av forskjellige slag
+11. enkel montering av deler av artikler til en komplett artikkel eller demontering av produktet til deler
+12. kombinasjon av to eller flere av de behandlingene som er angitt i bokstav a til k.
 
 (2) Med enkel i første ledd menes behandling som hverken fordrer spesiell kunnskap, maskiner, apparater eller utstyr som er spesielt produsert eller installert for å kunne utføre behandlingen.
 
@@ -1454,7 +2048,10 @@ Følgende produkter anses som fremstilt i sin helhet i Norge:mineralske produkte
 
 ### § 5-12-7. Den kvalifiserende enhet
 
-(1) Ved bruk av bestemmelsene i [§ 5-12-1](forskrift/2022-10-27-1901/§5-12-1) til [§ 5-12-14](forskrift/2022-10-27-1901/§5-12-14) skal den kvalifiserende enhet være det bestemte produktet som gir produktet dets karakter ved bestemmelse av klassifisering i henhold til Det harmoniserte system. Det følger atnår et produkt som består av en gruppe eller samling av artikler, er klassifisert i henhold til Det harmoniserte system i én posisjon, utgjør alt den kvalifiserende enhet, ognår en sending består av et antall like produkter som klassifiseres under samme posisjon i Det harmoniserte system, må hvert enkelt produkt vurderes hver for seg ved bruk av bestemmelsene i denne forskriften.
+(1) Ved bruk av bestemmelsene i [§ 5-12-1](forskrift/2022-10-27-1901/§5-12-1) til [§ 5-12-14](forskrift/2022-10-27-1901/§5-12-14) skal den kvalifiserende enhet være det bestemte produktet som gir produktet dets karakter ved bestemmelse av klassifisering i henhold til Det harmoniserte system. Det følger at
+
+1. når et produkt som består av en gruppe eller samling av artikler, er klassifisert i henhold til Det harmoniserte system i én posisjon, utgjør alt den kvalifiserende enhet, og
+2. når en sending består av et antall like produkter som klassifiseres under samme posisjon i Det harmoniserte system, må hvert enkelt produkt vurderes hver for seg ved bruk av bestemmelsene i denne forskriften.
 
 (2) Når emballasje er inkludert sammen med produktet i klassifiseringsøyemed i henhold til alminnelig fortolkningsregel 5 i Det harmoniserte system, skal den også tas med ved bestemmelse av opprinnelse.
 
@@ -1464,13 +2061,22 @@ Tilbehør, reservedeler og verktøy som er sendt sammen med en utrustning, en ma
 
 ### § 5-12-9. Nøytrale elementer
 
-(1) For å bestemme om et produkt er et opprinnelsesprodukt, er det ikke nødvendig å fastslå opprinnelsen på følgende som eventuelt måtte bli brukt ved fremstillingen av produktet:energi og drivstoffanlegg og utstyrmaskiner og verktøyvarer som verken inngår og som ikke er forutsatt å inngå i det endelige produktet eller i den endelige sammensetningen av produktet.
+(1) For å bestemme om et produkt er et opprinnelsesprodukt, er det ikke nødvendig å fastslå opprinnelsen på følgende som eventuelt måtte bli brukt ved fremstillingen av produktet:
+
+1. energi og drivstoff
+2. anlegg og utstyr
+3. maskiner og verktøy
+4. varer som verken inngår og som ikke er forutsatt å inngå i det endelige produktet eller i den endelige sammensetningen av produktet.
 
 (2) Med vare menes enhver ting som behandles som vare etter tolltariffen.
 
 ### § 5-12-10. Bearbeiding eller foredling av produkter i utlandet før utførsel fra Norge
 
-(1) Produkt med opprinnelse i Norge som er bearbeidet eller foredlet i utlandet opprettholder sin opprinnelse dersombearbeidingen eller foredlingen i utlandet ikke har tilført produktet en total merverdi over 50 prosent av produktets pris fra fabrikk,produktet under bearbeidingen eller foredlingen ikke er tilført materialer uten opprinnelse som overstiger prosentsatsen fastsatt i [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5), ogdet kan dokumenteres at produktet som gjeninnføres tidligere er utført fra Norge.
+(1) Produkt med opprinnelse i Norge som er bearbeidet eller foredlet i utlandet opprettholder sin opprinnelse dersom
+
+1. bearbeidingen eller foredlingen i utlandet ikke har tilført produktet en total merverdi over 50 prosent av produktets pris fra fabrikk,
+2. produktet under bearbeidingen eller foredlingen ikke er tilført materialer uten opprinnelse som overstiger prosentsatsen fastsatt i [§ 5-12-5](forskrift/2022-10-27-1901/§5-12-5), og
+3. det kan dokumenteres at produktet som gjeninnføres tidligere er utført fra Norge.
 
 (2) Produkt som ikke oppnår norsk opprinnelse, vil beholde sin opprinnelse i et annet land.
 
@@ -1508,7 +2114,11 @@ Handelskamrene kan i forbindelse med attesteringen kontrollere at opprinnelsesbe
 
 (1) Transaksjonsverdien kan godtas som grunnlag for beregning av tollverdien selv om det foreligger avhengighet mellom kjøper og selger dersom avhengigheten ikke har påvirket prisen.
 
-(2) Transaksjonsverdien skal godtas som grunnlag for beregning av tollverdien dersom importøren kan dokumentere at en slik verdi er tilnærmet lik en av de følgende verdier som finnes på samme eller omtrent samme tid:transaksjonsverdien ved salg til uavhengige kjøpere av identiske eller lignende varer for eksport til Norgetollverdien av identiske eller lignende varer fastsatt etter [vareførselsloven § 6-7](lov/2022-03-11-9/§6-7)tollverdien av identiske eller lignende varer fastsatt etter [vareførselsloven § 6-8](lov/2022-03-11-9/§6-8).
+(2) Transaksjonsverdien skal godtas som grunnlag for beregning av tollverdien dersom importøren kan dokumentere at en slik verdi er tilnærmet lik en av de følgende verdier som finnes på samme eller omtrent samme tid:
+
+1. transaksjonsverdien ved salg til uavhengige kjøpere av identiske eller lignende varer for eksport til Norge
+2. tollverdien av identiske eller lignende varer fastsatt etter [vareførselsloven § 6-7](lov/2022-03-11-9/§6-7)
+3. tollverdien av identiske eller lignende varer fastsatt etter [vareførselsloven § 6-8](lov/2022-03-11-9/§6-8).
 
 (3) Dersom importøren velger å bruke sammenligninger etter annet ledd, skal det tas hensyn til forskjeller på grunn av omsetningsledd, mengder, kostnader og verdier etter [vareførselsloven § 6-10](lov/2022-03-11-9/§6-10). Det skal også tas hensyn til kostnadene som selgeren svarer for ved et salg hvor selgeren og kjøperen er uavhengige av hverandre og som selgeren ikke svarer for ved salg hvor selgeren og kjøperen er avhengige av hverandre.
 
@@ -1568,9 +2178,17 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 6-10-3. Vederlag for immaterielle rettigheter
 
-(1) Som vederlag for immaterielle rettigheter anses blant annet betaling for bruk av rettigheter i forbindelse medfremstillingen av den innførte varensalg for eksport av den innførte varenbruk og videresalg av den innførte varen.
+(1) Som vederlag for immaterielle rettigheter anses blant annet betaling for bruk av rettigheter i forbindelse med
 
-(2) Vederlag for immaterielle rettigheter skal bare legges til prisen for varen dersomvederlaget knytter seg til vare som blir videresolgt i samme stand eller som bare har vært underlagt mindre bearbeiding,varen er markedsført under varemerket, enten før eller etter innførselstidspunktet og det er betalt vederlag for varemerket, ogkjøperen ikke har anledning til å skaffe seg slik vare fra andre leverandører som ikke har et forhold til selgeren.
+1. fremstillingen av den innførte varen
+2. salg for eksport av den innførte varen
+3. bruk og videresalg av den innførte varen.
+
+(2) Vederlag for immaterielle rettigheter skal bare legges til prisen for varen dersom
+
+1. vederlaget knytter seg til vare som blir videresolgt i samme stand eller som bare har vært underlagt mindre bearbeiding,
+2. varen er markedsført under varemerket, enten før eller etter innførselstidspunktet og det er betalt vederlag for varemerket, og
+3. kjøperen ikke har anledning til å skaffe seg slik vare fra andre leverandører som ikke har et forhold til selgeren.
 
 (3) Dersom beregningsmetoden for vederlaget er basert på prisen på den innførte varen, skal det legges til grunn at vederlaget er tilknyttet varen.
 
@@ -1642,7 +2260,12 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 7-6-1. Søknad om bindende klassifiseringsuttalelse
 
-(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om klassifisering i tolltariffen av en vare tilimportør av varer til Norgeeksportør av varer til eller fra Norgeprodusent av varer i Norge der klassifisering av varene har betydning for andre nasjonale bestemmelserannen person som har rettmessig grunn til å søke.
+(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om klassifisering i tolltariffen av en vare til
+
+1. importør av varer til Norge
+2. eksportør av varer til eller fra Norge
+3. produsent av varer i Norge der klassifisering av varene har betydning for andre nasjonale bestemmelser
+4. annen person som har rettmessig grunn til å søke.
 
 (2) Det er et vilkår for å motta en bindende klassifiseringsuttalelse at søknaden er fremsatt skriftlig. Det skal fremsettes separat søknad for hver enkelt vare det søkes om klassifiseringsuttalelse for. Om nødvendig skal det legges frem prøve av den aktuelle varen og eventuelt innholdsfortegnelse, tegninger, bilder, brosjyrer eller annen dokumentasjon. Tollmyndighetene kan avvise søknader dersom de ikke gjelder en potensielt aktuell innførsel, utførsel eller produksjon hos søkeren, eller dersom opplysningene i søknaden er utilstrekkelige til å kunne avgi en korrekt uttalelse.
 
@@ -1656,7 +2279,12 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 (1) En klassifiseringsuttalelse er ikke lenger gyldig dersom tolltariffen endres med virkning for det varenummeret som er omfattet av uttalelsen.
 
-(2) Tollmyndighetene kan trekke tilbake en klassifiseringsuttalelse dersomdet foretas andre endringer av betydning for klassifiseringen i tolltariffen, HS-nomenklaturen (nomenklaturen til Internasjonal konvensjon om harmonisert varebeskrivelse og kodesystem) eller de forklarende kommentarene til disse,det blir fattet klassifiseringsavgjørelser i HS-komiteen i Verdens Tollorganisasjon (WCO) om tilsvarende vare som klassifiseringsuttalelsen gjelder,det er avgitt flere klassifiseringsuttalelser for like varer, ellerklassifiseringsuttalelsen er i strid med gjeldende rett.
+(2) Tollmyndighetene kan trekke tilbake en klassifiseringsuttalelse dersom
+
+1. det foretas andre endringer av betydning for klassifiseringen i tolltariffen, HS-nomenklaturen (nomenklaturen til Internasjonal konvensjon om harmonisert varebeskrivelse og kodesystem) eller de forklarende kommentarene til disse,
+2. det blir fattet klassifiseringsavgjørelser i HS-komiteen i Verdens Tollorganisasjon (WCO) om tilsvarende vare som klassifiseringsuttalelsen gjelder,
+3. det er avgitt flere klassifiseringsuttalelser for like varer, eller
+4. klassifiseringsuttalelsen er i strid med gjeldende rett.
 
 (3) Klassifiseringsuttalelsen anses trukket tilbake fra det tidspunkt den som uttalelsen er avgitt til, har mottatt melding om dette. Den som klassifiseringsuttalelsen er avgitt til, kan likevel bruke uttalelsen i ytterligere seks måneder dersom det kan dokumenteres at varene er avtalt kjøpt eller solgt før klassifiseringsuttalelsen ble tilbakekalt.
 
@@ -1666,7 +2294,12 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 7-6-4. Søknad om bindende opprinnelsesuttalelse
 
-(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om en vares opprinnelse tilimportør av varer til Norgeeksportør av varer til eller fra Norgeprodusent av varer som skal utføres fra eller innføres til Norgeannen person som har rettmessig grunn til å søke.
+(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om en vares opprinnelse til
+
+1. importør av varer til Norge
+2. eksportør av varer til eller fra Norge
+3. produsent av varer som skal utføres fra eller innføres til Norge
+4. annen person som har rettmessig grunn til å søke.
 
 (2) Det er et vilkår for å motta en bindende opprinnelsesuttalelse at søknaden er fremsatt skriftlig. Det skal fremsettes separat søknad for hver enkelt vare det søkes om opprinnelsesuttalelse for. Om nødvendig skal søkeren legge frem prøve av den aktuelle varen og eventuelt innholdsfortegnelse, tegninger, bilder, brosjyrer, kalkyler eller annen dokumentasjon. Tollmyndighetene kan avvise søknader dersom de ikke gjelder en potensielt aktuell innførsel, utførsel eller produksjon hos søkeren, eller dersom opplysningene i søknaden er utilstrekkelige til å fatte korrekt vedtak.
 
@@ -1678,7 +2311,12 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 7-6-6. Tilbaketrekking av opprinnelsesuttalelse
 
-(1) Tollmyndighetene kan trekke tilbake en opprinnelsesuttalelse dersomdet foretas endringer av betydning for uttalelsen i opprinnelsesregler, tolltariffen, HS-nomenklaturen eller de forklarende kommentarene til disse,det blir fattet klassifiseringsavgjørelser i HS-komiteen i Verdens tollorganisasjon (WCO) om tilsvarende vare som opprinnelsesuttalelsen gjelder,det er avgitt flere opprinnelsesuttalelser for like varer, elleropprinnelsesuttalelsen er i strid med gjeldende rett.
+(1) Tollmyndighetene kan trekke tilbake en opprinnelsesuttalelse dersom
+
+1. det foretas endringer av betydning for uttalelsen i opprinnelsesregler, tolltariffen, HS-nomenklaturen eller de forklarende kommentarene til disse,
+2. det blir fattet klassifiseringsavgjørelser i HS-komiteen i Verdens tollorganisasjon (WCO) om tilsvarende vare som opprinnelsesuttalelsen gjelder,
+3. det er avgitt flere opprinnelsesuttalelser for like varer, eller
+4. opprinnelsesuttalelsen er i strid med gjeldende rett.
 
 (2) Opprinnelsesuttalelsen anses trukket tilbake fra det tidspunkt den som uttalelsen er avgitt til, har mottatt melding om dette. Den som uttalelsen er avgitt til, kan likevel bruke den i ytterligere seks måneder dersom det kan dokumenteres at varene er avtalt kjøpt eller solgt før opprinnelsesuttalelsen ble tilbakekalt.
 
@@ -1688,9 +2326,19 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 7-6-7. Søknad om bindende forhåndsuttalelse om tollavgift eller gebyrer
 
-(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om tollavgift eller gebyrer som vil påløpe ved innførsel eller utførsel av en vare. Uttalelse kan avgis tilimportør av varer til Norgeeksportør av varer til eller fra Norgeprodusent av varer som skal utføres fra eller innføres til Norgeannen person som har rettmessig grunn til å søke.
+(1) Tollmyndighetene kan etter søknad avgi bindende forhåndsuttalelse om tollavgift eller gebyrer som vil påløpe ved innførsel eller utførsel av en vare. Uttalelse kan avgis til
 
-(2) Søknaden kan bare gjelde spørsmål omanvendte og generelt fastsatte tollavgiftssatser, inkludert metoden som skal benyttes for å beregne tollavgiftsbeløpetberegningsmåten som skal benyttes for å bestemme tollverdien i henhold til spesifiserte faktavilkårene for å benytte fastsatte fritak eller lettelser for tollavgiftgebyrer som vil bli anvendt eller, når det er mest hensiktsmessig, informasjon om hvordan slike gebyrer blir beregnet.
+1. importør av varer til Norge
+2. eksportør av varer til eller fra Norge
+3. produsent av varer som skal utføres fra eller innføres til Norge
+4. annen person som har rettmessig grunn til å søke.
+
+(2) Søknaden kan bare gjelde spørsmål om
+
+1. anvendte og generelt fastsatte tollavgiftssatser, inkludert metoden som skal benyttes for å beregne tollavgiftsbeløpet
+2. beregningsmåten som skal benyttes for å bestemme tollverdien i henhold til spesifiserte fakta
+3. vilkårene for å benytte fastsatte fritak eller lettelser for tollavgift
+4. gebyrer som vil bli anvendt eller, når det er mest hensiktsmessig, informasjon om hvordan slike gebyrer blir beregnet.
 
 (3) Det er et vilkår for å motta en bindende uttalelse at søknaden er fremsatt skriftlig. Om nødvendig skal søkeren legge frem prøve av den aktuelle varen og eventuelt innholdsfortegnelse, tegninger, bilder, brosjyrer eller annen dokumentasjon. Tollmyndighetene kan avvise søknaden dersom den ikke gjelder en potensielt aktuell innførsel eller utførsel hos søkeren eller dersom opplysningene i søknaden er utilstrekkelige til å fatte korrekt vedtak.
 
@@ -1704,7 +2352,13 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 (1) En forhåndsuttalelse om tollavgift eller gebyrer er ikke lenger gyldig dersom den aktuelle tollavgifts- eller gebyrsatsen endres.
 
-(2) Tollmyndighetene kan trekke tilbake en uttalelse avgitt med hjemmel i [§ 7-6-7](forskrift/2022-10-27-1901/§7-6-7) dersomdet foretas andre endringer av betydning for uttalelsen i de anvendte reglene, tolltariffen, HS-nomenklaturen eller de forklarende kommentarene til disse,det blir fattet avgjørelser i HS-komiteen eller tollverdikomiteen i Verdens tollorganisasjon (WCO) eller andre internasjonale organer om tilsvarende spørsmål som uttalelsen gjelder,det er avgitt flere uttalelser for like spørsmål,det er bestemt i uttalelsen at den kan trekkes tilbake på andre grunnlag, elleruttalelsen er i strid med gjeldende rett.
+(2) Tollmyndighetene kan trekke tilbake en uttalelse avgitt med hjemmel i [§ 7-6-7](forskrift/2022-10-27-1901/§7-6-7) dersom
+
+1. det foretas andre endringer av betydning for uttalelsen i de anvendte reglene, tolltariffen, HS-nomenklaturen eller de forklarende kommentarene til disse,
+2. det blir fattet avgjørelser i HS-komiteen eller tollverdikomiteen i Verdens tollorganisasjon (WCO) eller andre internasjonale organer om tilsvarende spørsmål som uttalelsen gjelder,
+3. det er avgitt flere uttalelser for like spørsmål,
+4. det er bestemt i uttalelsen at den kan trekkes tilbake på andre grunnlag, eller
+5. uttalelsen er i strid med gjeldende rett.
 
 (3) Uttalelsen anses trukket tilbake fra det tidspunkt den som uttalelsen er avgitt til, har mottatt melding om dette. Den som uttalelsen er avgitt til, kan likevel bruke den i ytterligere seks måneder dersom det kan dokumenteres at varene er avtalt kjøpt eller solgt før uttalelsen ble tilbakekalt. Tollmyndighetene kan i uttalelsen sette en kortere frist enn seks måneder.
 
@@ -1730,7 +2384,11 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 (1) Vilkår for å bli autorisert er at foretaket kan vise til tidligere tilfredsstillende oppfyllelse av krav fra tollmyndighetene.
 
-(2) Tidligere oppfyllelse av krav fra tollmyndighetene skal regnes som tilfredsstillende dersom følgende personer de siste tre årene før søknaden framsettes i forbindelse med sin økonomiske virksomhet ikke har begått alvorlige eller gjentatte brudd på vareførsels-, skatte- og avgiftslovgivningen eller har vært innblandet i alvorlige straffbare forhold:foretaketpersoner som er ansvarlige for foretaket eller utøver kontroll over dets ledelsepersoner i foretaket som er ansvarlig for tollsaker.
+(2) Tidligere oppfyllelse av krav fra tollmyndighetene skal regnes som tilfredsstillende dersom følgende personer de siste tre årene før søknaden framsettes i forbindelse med sin økonomiske virksomhet ikke har begått alvorlige eller gjentatte brudd på vareførsels-, skatte- og avgiftslovgivningen eller har vært innblandet i alvorlige straffbare forhold:
+
+1. foretaket
+2. personer som er ansvarlige for foretaket eller utøver kontroll over dets ledelse
+3. personer i foretaket som er ansvarlig for tollsaker.
 
 (3) Tidligere oppfyllelse av krav fra tollmyndighetene regnes som tilfredsstillende dersom tollmyndighetene anser eventuelle brudd for å være ubetydelige sett i forhold til antallet eller omfanget av de relaterte aktivitetene, og ikke er i tvil om at foretaket har handlet i god tro.
 
@@ -1742,13 +2400,26 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 (1) Vilkår for å bli autorisert er at foretaket har et tilfredsstillende system for forvaltning av regnskaper og transportopplysninger.
 
-(2) For at tollmyndighetene skal kunne påse at foretaket har et tilfredsstillende system til forvaltning av regnskaper og, om nødvendig, transportdokumenter, må foretaket innfri følgende vilkår:bruke et regnskapssystem som er i samsvar med generelt aksepterte regnskapsprinsipper som gjelder der regnskapene føres, som vil lette revisjonsbasert tollkontroll og som fører et register over data som sørger for et revisjonsspor fra det øyeblikk data registrerestillate tollmyndighetene fysisk eller elektronisk tilgang til sine regnskapssystemer, samt toll- og, om nødvendig, transportdokumenterha en administrativ organisasjon som er i samsvar med foretakets type og størrelse, og som er egnet for forvaltningen av varestrømmen, og ha interne kontroller som er i stand til å forebygge, oppdage og korrigere feil, samt forebygge og oppdage ulovlige eller irregulære transaksjonerder det er relevant, ha tilfredsstillende prosedyrer for håndtering av lisenser og tillatelser gitt i samsvar med handelspolitiske tiltak eller knyttet til handel med landbruksprodukterha tilfredsstillende prosedyrer for arkivering av foretakets regnskaper og opplysninger, og for beskyttelse mot tap av opplysningersikre at de ansatte gjøres klar over behovet for å informere tollmyndighetene dersom det er problemer med å overholde kravene, og utarbeide prosedyrer for å informere tollmyndighetene om slike forhold,ha de nødvendige IT-sikkerhetstiltak for å beskytte foretakets datasystem mot uautorisert tilgang og sikre foretakets dokumentasjonder det er relevant, ha tilfredsstillende prosedyrer for håndtering av import- og eksportlisenser knyttet til forbud og restriksjoner, herunder tiltak for å skille varer som omfattes av forbud eller restriksjoner fra andre varer, og tiltak for å sikre at disse forbudene eller restriksjonene overholdes.
+(2) For at tollmyndighetene skal kunne påse at foretaket har et tilfredsstillende system til forvaltning av regnskaper og, om nødvendig, transportdokumenter, må foretaket innfri følgende vilkår:
+
+1. bruke et regnskapssystem som er i samsvar med generelt aksepterte regnskapsprinsipper som gjelder der regnskapene føres, som vil lette revisjonsbasert tollkontroll og som fører et register over data som sørger for et revisjonsspor fra det øyeblikk data registreres
+2. tillate tollmyndighetene fysisk eller elektronisk tilgang til sine regnskapssystemer, samt toll- og, om nødvendig, transportdokumenter
+3. ha en administrativ organisasjon som er i samsvar med foretakets type og størrelse, og som er egnet for forvaltningen av varestrømmen, og ha interne kontroller som er i stand til å forebygge, oppdage og korrigere feil, samt forebygge og oppdage ulovlige eller irregulære transaksjoner
+4. der det er relevant, ha tilfredsstillende prosedyrer for håndtering av lisenser og tillatelser gitt i samsvar med handelspolitiske tiltak eller knyttet til handel med landbruksprodukter
+5. ha tilfredsstillende prosedyrer for arkivering av foretakets regnskaper og opplysninger, og for beskyttelse mot tap av opplysninger
+6. sikre at de ansatte gjøres klar over behovet for å informere tollmyndighetene dersom det er problemer med å overholde kravene, og utarbeide prosedyrer for å informere tollmyndighetene om slike forhold,
+7. ha de nødvendige IT-sikkerhetstiltak for å beskytte foretakets datasystem mot uautorisert tilgang og sikre foretakets dokumentasjon
+8. der det er relevant, ha tilfredsstillende prosedyrer for håndtering av import- og eksportlisenser knyttet til forbud og restriksjoner, herunder tiltak for å skille varer som omfattes av forbud eller restriksjoner fra andre varer, og tiltak for å sikre at disse forbudene eller restriksjonene overholdes.
 
 ### § 7-7-4. Vilkår om solvens
 
 (1) Vilkår for å bli autorisert er at foretaket kan dokumentere økonomisk solvens.
 
-(2) Vilkåret om solvens skal anses å være oppfylt hvorforetaket ikke er under konkursbehandling,foretaket de tre siste årene før søknaden inngis har innfridd sine økonomiske forpliktelser knyttet til betaling av tollavgift, avgifter og gebyrer som betales ved eller i forbindelse med import eller eksport av varer, ogforetaket viser på grunnlag av tilgjengelige opplysninger fra de tre siste årene før søknaden inngis at foretaket har tilstrekkelig økonomisk evne til å innfri sine forpliktelser, under rimelig hensyn til størrelsen av og andre særlige kjennetegn ved den aktuelle forretningsaktiviteten, herunder ingen negative nettoaktiva, med mindre de kan dekkes.
+(2) Vilkåret om solvens skal anses å være oppfylt hvor
+
+1. foretaket ikke er under konkursbehandling,
+2. foretaket de tre siste årene før søknaden inngis har innfridd sine økonomiske forpliktelser knyttet til betaling av tollavgift, avgifter og gebyrer som betales ved eller i forbindelse med import eller eksport av varer, og
+3. foretaket viser på grunnlag av tilgjengelige opplysninger fra de tre siste årene før søknaden inngis at foretaket har tilstrekkelig økonomisk evne til å innfri sine forpliktelser, under rimelig hensyn til størrelsen av og andre særlige kjennetegn ved den aktuelle forretningsaktiviteten, herunder ingen negative nettoaktiva, med mindre de kan dekkes.
 
 (3) Dersom foretaket har vært etablert i mindre enn tre år, skal solvensen vurderes på grunnlag av de opplysninger tollmyndighetene har til rådighet.
 
@@ -1756,7 +2427,16 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 (1) Vilkår for å bli autorisert er at foretaket overholder tilstrekkelige sikkerhets- og trygghetsstandarder.
 
-(2) Foretaket skal anses for å ha tilstrekkelig sikkerhet og trygghet dersom følgende vilkår er oppfylt:bygningene som skal brukes i forbindelse med vareførselen sertifikatet skal omfatte, er bygd av materialer som motstår uvedkommendes forsøk på å skaffe seg adgang og beskytter mot ulovlig inntrengingdet er tilstrekkelig adgangskontroll for å hindre uautorisert adgang til kontorer, utskipnings-, laste- og godsområder og andre relevante stedertiltakene for håndtering av varer omfatter beskyttelse mot at det innføres, byttes eller mistes varer, eller at det manipuleres med lasteenheterforetaket har truffet tiltak for å sikre tydelig identifikasjon av sine forretningspartnere og for å sikre, ved egnede kontraktsregulerte ordninger eller andre egnede tiltak i samsvar med søkerens forretningsmodell, at disse forretningspartnerne sørger for sikkerhet i sin del av den internasjonale vareførselenforetaket gjennomfører, i den utstrekning loven tillater det, sikkerhetskontroller av potensielle ansatte som er tiltenkt sikkerhetsfølsomme stillinger og gjennomfører bakgrunnskontroller av nåværende ansatte i slike stillinger periodisk og dersom omstendighetene tilsier detforetaket har tilfredsstillende sikkerhetsprosedyrer for eventuelle eksterne tjenesteleverandører som benyttesforetaket sikrer at deres berørte personale regelmessig deltar i programmer for å øke bevisstheten angående sikkerhetforetaket har utpekt en kontaktperson med ansvar for sikkerhets- og trygghetsrelaterte spørsmål.
+(2) Foretaket skal anses for å ha tilstrekkelig sikkerhet og trygghet dersom følgende vilkår er oppfylt:
+
+1. bygningene som skal brukes i forbindelse med vareførselen sertifikatet skal omfatte, er bygd av materialer som motstår uvedkommendes forsøk på å skaffe seg adgang og beskytter mot ulovlig inntrenging
+2. det er tilstrekkelig adgangskontroll for å hindre uautorisert adgang til kontorer, utskipnings-, laste- og godsområder og andre relevante steder
+3. tiltakene for håndtering av varer omfatter beskyttelse mot at det innføres, byttes eller mistes varer, eller at det manipuleres med lasteenheter
+4. foretaket har truffet tiltak for å sikre tydelig identifikasjon av sine forretningspartnere og for å sikre, ved egnede kontraktsregulerte ordninger eller andre egnede tiltak i samsvar med søkerens forretningsmodell, at disse forretningspartnerne sørger for sikkerhet i sin del av den internasjonale vareførselen
+5. foretaket gjennomfører, i den utstrekning loven tillater det, sikkerhetskontroller av potensielle ansatte som er tiltenkt sikkerhetsfølsomme stillinger og gjennomfører bakgrunnskontroller av nåværende ansatte i slike stillinger periodisk og dersom omstendighetene tilsier det
+6. foretaket har tilfredsstillende sikkerhetsprosedyrer for eventuelle eksterne tjenesteleverandører som benyttes
+7. foretaket sikrer at deres berørte personale regelmessig deltar i programmer for å øke bevisstheten angående sikkerhet
+8. foretaket har utpekt en kontaktperson med ansvar for sikkerhets- og trygghetsrelaterte spørsmål.
 
 (3) Dersom et foretak som er etablert i en av avtalepartene er innehaver av et internasjonalt anerkjent sikkerhets- eller trygghetssertifikat utstedt på grunnlag av internasjonale konvensjoner, eller et europeisk sikkerhets- eller trygghetssertifikat utstedt på grunnlag av en internasjonal konvensjon, en internasjonal standard fra Den internasjonale standardiseringsorganisasjon eller en europeisk standard fra Den europeiske standardiseringsorganisasjon, skal det tas hensyn til disse sertifikatene i vurderingen av om vilkåret i første ledd er oppfylt i den utstrekning vilkårene for å utstede disse sertifikatene er identiske med, eller samsvarer med, vilkårene i annet ledd.
 
@@ -1776,7 +2456,11 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 ### § 7-7-7. Suspensjon av autorisasjon
 
-(1) Status som autorisert foretak skal suspenderes av tollmyndighetene i følgende tilfeller:dersom tollmyndighetene vurderer at det kan være tilstrekkelig grunn til å oppheve eller tilbakekalle autorisasjonen, men ikke ennå har all nødvendig informasjon for å treffe slik beslutningdersom tollmyndighetene anser at vilkårene for status ikke er oppfylt, eller at foretaket ikke oppfyller forpliktelsene gitt i autorisasjonen, og det er hensiktsmessig å gi foretaket tid til å treffe tiltak for å sikre at vilkårene eller forpliktelsene oppfyllespå anmodning fra det autoriserte foretaket, når dette midlertidig er ute av stand til å oppfylle vilkårene for å gi slik status.
+(1) Status som autorisert foretak skal suspenderes av tollmyndighetene i følgende tilfeller:
+
+1. dersom tollmyndighetene vurderer at det kan være tilstrekkelig grunn til å oppheve eller tilbakekalle autorisasjonen, men ikke ennå har all nødvendig informasjon for å treffe slik beslutning
+2. dersom tollmyndighetene anser at vilkårene for status ikke er oppfylt, eller at foretaket ikke oppfyller forpliktelsene gitt i autorisasjonen, og det er hensiktsmessig å gi foretaket tid til å treffe tiltak for å sikre at vilkårene eller forpliktelsene oppfylles
+3. på anmodning fra det autoriserte foretaket, når dette midlertidig er ute av stand til å oppfylle vilkårene for å gi slik status.
 
 (2) I tilfeller som er omhandlet i første ledd bokstav b og c skal det autoriserte foretaket underrette tollmyndighetene om hvilke tiltak foretaket vil treffe for å sikre at vilkårene eller forpliktelsene oppfylles, samt hvor lang tid som trengs for å treffe slike tiltak.
 
@@ -1786,13 +2470,21 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 ### § 7-7-8. Oppheving av autorisasjon
 
-(1) Status som autorisert foretak skal oppheves av tollmyndighetene dersombeslutningen om tildeling av slik status ble truffet på grunnlag av feil eller ufullstendige opplysninger,innehaveren av statusen visste eller burde med rimelighet ha visst at opplysningene var feil eller ufullstendige, ogdet ville ha blitt truffet en annen beslutning dersom opplysningene hadde vært korrekte og fullstendige.
+(1) Status som autorisert foretak skal oppheves av tollmyndighetene dersom
+
+1. beslutningen om tildeling av slik status ble truffet på grunnlag av feil eller ufullstendige opplysninger,
+2. innehaveren av statusen visste eller burde med rimelighet ha visst at opplysningene var feil eller ufullstendige, og
+3. det ville ha blitt truffet en annen beslutning dersom opplysningene hadde vært korrekte og fullstendige.
 
 (2) Opphevingen skal skje med virkning fra den dagen autorisasjonen trådte i kraft, med mindre noe annet er angitt i beslutningen om status som autorisert foretak.
 
 ### § 7-7-9. Tilbakekalling av autorisasjon
 
-(1) Status som autorisert foretak skal trekkes tilbake av tollmyndighetene i følgende tilfeller:dersom et eller flere av vilkårene for autorisasjon ikke var oppfylt på tidspunktet autorisasjonen ble gitt eller ikke lenger er oppfyltdersom det autoriserte foretaket ikke treffer nødvendige tiltak etter [§ 7-7-7](forskrift/2022-10-27-1901/§7-7-7) første ledd bokstav b og cpå anmodning fra det autoriserte foretaket.
+(1) Status som autorisert foretak skal trekkes tilbake av tollmyndighetene i følgende tilfeller:
+
+1. dersom et eller flere av vilkårene for autorisasjon ikke var oppfylt på tidspunktet autorisasjonen ble gitt eller ikke lenger er oppfylt
+2. dersom det autoriserte foretaket ikke treffer nødvendige tiltak etter [§ 7-7-7](forskrift/2022-10-27-1901/§7-7-7) første ledd bokstav b og c
+3. på anmodning fra det autoriserte foretaket.
 
 (2) Tilbakekallingen skal skje med virkning fra dagen etter at det er gitt melding om den.
 
@@ -1818,7 +2510,10 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 (4) Utenfor tidspunktene angitt i tredje ledd, skal det betales gebyr for all tollbehandling unntatt elektronisk tollbehandling.
 
-(5) Det skal betales gebyr for tollbehandling som utføres utenfor ekspedisjonssted. Dette gjelder ikke fortollbehandling av vare medbrakt av privatpersoner fra rutegående transportmiddellossing i nødstilfeller.
+(5) Det skal betales gebyr for tollbehandling som utføres utenfor ekspedisjonssted. Dette gjelder ikke for
+
+1. tollbehandling av vare medbrakt av privatpersoner fra rutegående transportmiddel
+2. lossing i nødstilfeller.
 
 (6) Med ekspedisjonssted menes sted hvor tollmyndighetene har faste åpningstider for betjening av sine brukere.
 
@@ -1840,7 +2535,21 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 (1) Ved vurderingen av om kravet til forholdsmessighet i [vareførselsloven § 7-11](lov/2022-03-11-9/§7-11) annet ledd er oppfylt, skal det legges vekt på om mottakerorganet vil settes i stand til å treffe en riktig avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om det ikke hadde mottatt opplysningene. Det skal også legges vekt på formålet med behandlingen av opplysninger hos mottakeren, om mottakeren er underlagt taushetsplikt, hvilke opplysninger som skal utleveres og antallet personer som får tilgang til opplysningene.
 
-(2) Opplysninger kan uansett utleverestil offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midlertil offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformål.til offentlig myndighet for bruk til statistikkformåltil offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysningertil offentlig oppnevnt granskningskommisjontil politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningenei forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningentil landbruksmyndighetene til bruk for arbeid med markedsovervåking av handelen med landbruksvarer.
+(2) Opplysninger kan uansett utleveres
+
+1. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midler
+2. til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformål.
+3. til offentlig myndighet for bruk til statistikkformål
+4. til offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysninger
+5. til offentlig oppnevnt granskningskommisjon
+6. til politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.
+7. til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)
+8. til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene
+9. i forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)
+10. til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+11. til offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+12. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen
+13. til landbruksmyndighetene til bruk for arbeid med markedsovervåking av handelen med landbruksvarer.
 
 > Endret ved [forskrift 2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023).
 
@@ -1850,7 +2559,19 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 ### § 8-1-1. Diplomatiske og konsulære representanter mv.
 
-(1) Personer tilhørende følgende grupper kan ikke kontrolleres eller holdes tilbake i forbindelse med kontroll av vareførselen:diplomatiske og konsulære representanter ved fremmede staters utenriksstasjoner i Norgeadministrativt og teknisk personale ved fremmede staters diplomatiske stasjoner i Norge som ikke er norske borgere eller er fast bosatt i NorgeDen europeiske unions delegasjonsmedlemmertjenestemenn som oppnevnes og godkjennes som diplomatiske utsendinger til Den palestinske representasjonen i Norgepersoner som representerer NATO i Norge etter avtale om status for Den nordatlantiske traktats organisasjon, de nasjonale representanter og den internasjonale stab 20. september 1951 (Den sivile statusavtale), samt utenlandsk personale ved NATOs hovedkvarterpersoner som har De Forente Nasjoners passérbrev (Laissez-passer)personer som har anbefalingsbrev fra norsk diplomatisk stasjon (norsk laissez-passer) etter utenriksinstruksentjenestemenn ved Atomenergibyrået (IAEA)representanter for Western European Armaments Organisation, jf. bestemmelser i [forskrift 14. februar 1997 nr. 131](forskrift/1997-02-14-131)representanter for Organisasjonen for sikkerhet og samarbeid i Europa (OSSE), jf. bestemmelser i [forskrift 7. januar 2000 nr. 14](forskrift/2000-01-07-14)representanter for inspeksjonsgruppen som er opprettet etter konvensjon om forbud mot utvikling, produksjon, lagring og bruk av kjemiske våpen 13. januar 1993 (kjemivåpenkonvensjonen).
+(1) Personer tilhørende følgende grupper kan ikke kontrolleres eller holdes tilbake i forbindelse med kontroll av vareførselen:
+
+1. diplomatiske og konsulære representanter ved fremmede staters utenriksstasjoner i Norge
+2. administrativt og teknisk personale ved fremmede staters diplomatiske stasjoner i Norge som ikke er norske borgere eller er fast bosatt i Norge
+3. Den europeiske unions delegasjonsmedlemmer
+4. tjenestemenn som oppnevnes og godkjennes som diplomatiske utsendinger til Den palestinske representasjonen i Norge
+5. personer som representerer NATO i Norge etter avtale om status for Den nordatlantiske traktats organisasjon, de nasjonale representanter og den internasjonale stab 20. september 1951 (Den sivile statusavtale), samt utenlandsk personale ved NATOs hovedkvarter
+6. personer som har De Forente Nasjoners passérbrev (Laissez-passer)
+7. personer som har anbefalingsbrev fra norsk diplomatisk stasjon (norsk laissez-passer) etter utenriksinstruksen
+8. tjenestemenn ved Atomenergibyrået (IAEA)
+9. representanter for Western European Armaments Organisation, jf. bestemmelser i [forskrift 14. februar 1997 nr. 131](forskrift/1997-02-14-131)
+10. representanter for Organisasjonen for sikkerhet og samarbeid i Europa (OSSE), jf. bestemmelser i [forskrift 7. januar 2000 nr. 14](forskrift/2000-01-07-14)
+11. representanter for inspeksjonsgruppen som er opprettet etter konvensjon om forbud mot utvikling, produksjon, lagring og bruk av kjemiske våpen 13. januar 1993 (kjemivåpenkonvensjonen).
 
 (2) Utenlandske statsborgere som er i familie med og tilhører samme husstand som personer i første ledd bokstav a, b og c, kan heller ikke kontrolleres eller holdes tilbake i forbindelse med kontroll av vareførselen.
 
@@ -1862,7 +2583,15 @@ Avgitt forhåndsuttalelse etter [§ 7-6-1](forskrift/2022-10-27-1901/§7-6-1) ti
 
 ### § 8-1-2. Tiltak som er nødvendig for å gjennomføre kontroll
 
-Kontrolltiltak kan blant annet omfattedemontering av kontrollobjektergjennomlysing av transportmidler og bagasjemidlertidig tilegnelse av nøkler til transportmidler som skal kontrolleresflytting av kontrollobjekter til egnet kontrollfasilitetanvisning av trafikk ved bruk av lys, håndholdte skilt, håndsignaler og liknendeå beordre flytting av transportmiddelsperring av områder der kontroll foregår, ved å sette opp sperrebånd og/eller å bortvise uvedkommende fra området.
+Kontrolltiltak kan blant annet omfatte
+
+1. demontering av kontrollobjekter
+2. gjennomlysing av transportmidler og bagasje
+3. midlertidig tilegnelse av nøkler til transportmidler som skal kontrolleres
+4. flytting av kontrollobjekter til egnet kontrollfasilitet
+5. anvisning av trafikk ved bruk av lys, håndholdte skilt, håndsignaler og liknende
+6. å beordre flytting av transportmiddel
+7. sperring av områder der kontroll foregår, ved å sette opp sperrebånd og/eller å bortvise uvedkommende fra området.
 
 ### § 8-1-3. Vareprøver
 
@@ -1908,7 +2637,10 @@ Tollmyndighetene kan bruke hund for å søke etter duftstoffer på vare, person,
 
 (1) Mottakeren av varen eller den som frakter varen på dennes vegne, skal gis anledning til å være til stede ved kontrollen.
 
-(2) Første ledd gjelder ikke foråpning og undersøkelser av brev, pakker og annen korrespondanse og kontroll av varer i den forbindelse etter [vareførselsloven § 8-1](lov/2022-03-11-9/§8-1) annet ledd bokstav bundersøkelser der det for øvrig vil føre til uforholdsmessige forsinkelser eller vanskeligheter med å gjennomføre kontrollen.
+(2) Første ledd gjelder ikke for
+
+1. åpning og undersøkelser av brev, pakker og annen korrespondanse og kontroll av varer i den forbindelse etter [vareførselsloven § 8-1](lov/2022-03-11-9/§8-1) annet ledd bokstav b
+2. undersøkelser der det for øvrig vil føre til uforholdsmessige forsinkelser eller vanskeligheter med å gjennomføre kontrollen.
 
 ### § 8-4. Gjennomføring av undersøkelser av personer
 
@@ -1936,7 +2668,20 @@ For fartøy med meldeplikt etter [vareførselsloven § 2-3](lov/2022-03-11-9/§2
 
 ### § 8-9-1. Utlevering av opplysninger fra skiltgjenkjenningssystemet til offentlige myndigheter
 
-Opplysninger fra skiltgjenkjenningssystemet skal som hovedregel ikke utleveres til andre offentlige myndigheter. Opplysningene kan utleverestil offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midlertil offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformål.til offentlig myndighet for bruk til statistikkformåltil offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysningertil offentlig oppnevnt granskningskommisjontil politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningenei forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved a-krimsenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet. Taushetsplikten er ikke til hinder for at saksopplysninger overleveres til deltakende etater for videre oppfølging.til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen.
+Opplysninger fra skiltgjenkjenningssystemet skal som hovedregel ikke utleveres til andre offentlige myndigheter. Opplysningene kan utleveres
+
+1. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tollavgift, skatt, avgifter, trygder, tilskudd eller bidrag av offentlige midler
+2. til offentlig myndighet for bruk i forbindelse med håndheving av lovgivningen om inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, valutaregulering eller aksjeselskaper, eller som reviderer offentlig virksomhet, samt til Tilsynsrådet for advokatvirksomhet til bruk for tilsynsformål.
+3. til offentlig myndighet for bruk til statistikkformål
+4. til offentlig myndighet når det er nødvendig for at tollmyndighetene skal kunne innhente ytterligere opplysninger
+5. til offentlig oppnevnt granskningskommisjon
+6. til politi, påtalemyndighet eller skattemyndighet i forbindelse med samarbeid med sikte på å bekjempe, hindre og undersøke overtredelser av lovgivningen om inn- og utførsel av varer og tollavgift. Utenfor tollmyndighetenes forvaltningsområde kan opplysninger gis dersom det er grunn til å undersøke om noen forbereder, begår eller har begått en handling som kan medføre høyere straff enn fengsel i seks måneder. På samme vilkår som i annet punktum kan opplysninger også gis til Direktoratet for samfunnssikkerhet og beredskap.
+7. til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)
+8. til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene
+9. i forbindelse med utveksling av informasjon (samordning) som forutsatt i [lov 6. juni 1997 nr. 35 om Oppgaveregisteret](lov/1997-06-06-35)
+10. til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+11. til offentlig myndighet til bruk for medarbeidere som deltar i tverretatlig samarbeid ved a-krimsenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet. Taushetsplikten er ikke til hinder for at saksopplysninger overleveres til deltakende etater for videre oppfølging.
+12. til offentlig myndighet som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen.
 
 ### § 8-13. Kontroll hos den opplysningspliktige
 
@@ -1986,7 +2731,14 @@ Den opplysningspliktige skal orienteres om sin opplysningsplikt, sin plikt til �
 
 ### § 8-13-7. Rapport
 
-(1) Den som leder kontrollen har ansvaret for at det blir utarbeidet en rapport. Ved kontroll hos den opplysningspliktige skal rapporten inneholdeopplysninger om når kontrollen fant sted, formålet og lovhjemmel for kontrollenopplysninger om varsel til den opplysningspliktigehvem som var til stede ved kontrollen og hvem som var den opplysningspliktiges kontaktpersonoversikt over dokumenter, filer, systemer, programvare mv. som ble utlevert til myndighetene ved kontrollenoversikt over de faktiske forhold av betydning for kontrollen, med oppdeling på henholdsvis faktiske opplysninger som gjelder den opplysningspliktige som kontrollen ble avholdt hos og opplysninger som gjelder andre opplysningspliktigeopplysninger om andre særlige forhold.
+(1) Den som leder kontrollen har ansvaret for at det blir utarbeidet en rapport. Ved kontroll hos den opplysningspliktige skal rapporten inneholde
+
+1. opplysninger om når kontrollen fant sted, formålet og lovhjemmel for kontrollen
+2. opplysninger om varsel til den opplysningspliktige
+3. hvem som var til stede ved kontrollen og hvem som var den opplysningspliktiges kontaktperson
+4. oversikt over dokumenter, filer, systemer, programvare mv. som ble utlevert til myndighetene ved kontrollen
+5. oversikt over de faktiske forhold av betydning for kontrollen, med oppdeling på henholdsvis faktiske opplysninger som gjelder den opplysningspliktige som kontrollen ble avholdt hos og opplysninger som gjelder andre opplysningspliktige
+6. opplysninger om andre særlige forhold.
 
 (2) Ved andre kontrollundersøkelser tilpasses kravet til dokumentasjon den kontrollen som er foretatt.
 
@@ -2026,9 +2778,17 @@ Bestemmelsene om vareprøver i [§ 8-1-3](forskrift/2022-10-27-1901/§8-1-3) ann
 
 (1) Kontrollsonens grense trekkes 15 kilometer innenfor riksgrensen og parallelt med denne fra Treriksrøysa i nord til riksgrensens brytningspunkt i sør omkring 1 nautisk mil sørøst for Bjørneskjær og 2,5 nautiske mil sørvest for Sponvika.
 
-(2) Følgende jernbanelinjer med stasjonsområder tilhører kontrollområdet:Oslo S og linjen Oslo–Riksgrensen på strekningen Oslo–GøteborgOslo S og linjen Oslo–Riksgrensen på strekningen Oslo–LaxåTrondheim S og linjen Trondheim–Riksgrensen på strekningen Trondheim-ÅngeNarvik stasjon og linjen Narvik–Riksgrensen på strekningen Narvik–Kiruna.
+(2) Følgende jernbanelinjer med stasjonsområder tilhører kontrollområdet:
 
-(3) Følgende veistrekninger tilhører kontrollområdet:Riksgrensen–FlisaRiksgrensen–Østby.
+1. Oslo S og linjen Oslo–Riksgrensen på strekningen Oslo–Gøteborg
+2. Oslo S og linjen Oslo–Riksgrensen på strekningen Oslo–Laxå
+3. Trondheim S og linjen Trondheim–Riksgrensen på strekningen Trondheim-Ånge
+4. Narvik stasjon og linjen Narvik–Riksgrensen på strekningen Narvik–Kiruna.
+
+(3) Følgende veistrekninger tilhører kontrollområdet:
+
+1. Riksgrensen–Flisa
+2. Riksgrensen–Østby.
 
 (4) Bestemmelsene for kontrollområdet gjelder også på annet norsk område dersom en mistenkt forfølges over grensen for kontrollområdet i umiddelbar sammenheng med en antatt overtredelse.
 
@@ -2070,7 +2830,18 @@ Tollmyndighetene kan, under forbehold om gjensidighet, utveksle opplysninger med
 
 (1) Søknad om bistand fra tollmyndighetene etter [vareførselsloven § 10-1](lov/2022-03-11-9/§10-1) skal leveres elektronisk til tollmyndighetene på fastsatt måte.
 
-(2) I tillegg til opplysningene nevnt i [vareførselsloven § 10-1](lov/2022-03-11-9/§10-1) annet ledd, skal søknaden inneholde opplysninger om følgende forhold i den utstrekning de er kjent for søkeren:inngrepenes karakter og typiske trekk ved varer som utgjør inngreptekniske data om de autentiske varene, for eksempel bilder og merkingde autentiske varenes verdi eksklusive avgifterstedet hvor varer som utgjør inngrep befinner seg eller varenes bestemmelsesstedforventet ankomst- eller avsendelsesdato for varer som utgjør inngreptransportmiddel som benyttesidentiteten til avsenderen, mottakeren eller transportørenproduksjonsland og de benyttede transportveierde tekniske forskjeller mellom autentiske varer og varer som utgjør inngrepautoriserte distributører for autentiske varer.
+(2) I tillegg til opplysningene nevnt i [vareførselsloven § 10-1](lov/2022-03-11-9/§10-1) annet ledd, skal søknaden inneholde opplysninger om følgende forhold i den utstrekning de er kjent for søkeren:
+
+1. inngrepenes karakter og typiske trekk ved varer som utgjør inngrep
+2. tekniske data om de autentiske varene, for eksempel bilder og merking
+3. de autentiske varenes verdi eksklusive avgifter
+4. stedet hvor varer som utgjør inngrep befinner seg eller varenes bestemmelsessted
+5. forventet ankomst- eller avsendelsesdato for varer som utgjør inngrep
+6. transportmiddel som benyttes
+7. identiteten til avsenderen, mottakeren eller transportøren
+8. produksjonsland og de benyttede transportveier
+9. de tekniske forskjeller mellom autentiske varer og varer som utgjør inngrep
+10. autoriserte distributører for autentiske varer.
 
 ### § 10-2. Vedtak om bistand, forlengelse
 
@@ -2166,9 +2937,22 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 
 ### § 12-2-1. Utmåling av overtredelsesgebyr
 
-(1) Utmåling av overtredelsesgebyr skal skje innenfor følgende rammer:overtredelse av [vareførselsloven § 2-1](lov/2022-03-11-9/§2-1), [§ 2-4](lov/2022-03-11-9/§2-4), [§ 5-1](lov/2022-03-11-9/§5-1) og [§ 5-4](lov/2022-03-11-9/§5-4) med inntil 75 rettsgebyrovertredelse av [vareførselsloven § 2-2](lov/2022-03-11-9/§2-2), [§ 2-3](lov/2022-03-11-9/§2-3), [§ 2-5](lov/2022-03-11-9/§2-5), [§ 2-6](lov/2022-03-11-9/§2-6), [§ 5-2](lov/2022-03-11-9/§5-2) og [§ 5-3](lov/2022-03-11-9/§5-3) med inntil 25 rettsgebyrovertredelse av [vareførselsloven § 3-1](lov/2022-03-11-9/§3-1) til [§ 3-3](lov/2022-03-11-9/§3-3), [§ 3-6](lov/2022-03-11-9/§3-6) og [§ 5-6](lov/2022-03-11-9/§5-6) med inntil 75 rettsgebyrovertredelse av [vareførselsloven § 7-5](lov/2022-03-11-9/§7-5) med inntil 50 rettsgebyrovertredelse av [vareførselsloven § 4-1](lov/2022-03-11-9/§4-1) til [§ 4-3](lov/2022-03-11-9/§4-3), [§ 4-6](lov/2022-03-11-9/§4-6) til [§ 4-8](lov/2022-03-11-9/§4-8) og [§ 5-5](lov/2022-03-11-9/§5-5) med inntil 75 rettsgebyrovertredelse av [vareførselsloven § 4-4](lov/2022-03-11-9/§4-4) inntil 25 med rettsgebyrovertredelse av [vareførselsloven § 12-2](lov/2022-03-11-9/§12-2) første ledd bokstav e med inntil 75 rettsgebyr.
+(1) Utmåling av overtredelsesgebyr skal skje innenfor følgende rammer:
 
-(2) Ved særlig grove overtredelser kan det ilegges overtredelsesgebyr med inntil det dobbelte av beløpsgrensene i første ledd. Ved utmålingen skal det da blant annet legges vekt påovertredelsens art og omfanggjentakelseom forholdet er avdekket ved tollmyndighetenes kontrollsanksjonens preventive virkning
+1. overtredelse av [vareførselsloven § 2-1](lov/2022-03-11-9/§2-1), [§ 2-4](lov/2022-03-11-9/§2-4), [§ 5-1](lov/2022-03-11-9/§5-1) og [§ 5-4](lov/2022-03-11-9/§5-4) med inntil 75 rettsgebyr
+2. overtredelse av [vareførselsloven § 2-2](lov/2022-03-11-9/§2-2), [§ 2-3](lov/2022-03-11-9/§2-3), [§ 2-5](lov/2022-03-11-9/§2-5), [§ 2-6](lov/2022-03-11-9/§2-6), [§ 5-2](lov/2022-03-11-9/§5-2) og [§ 5-3](lov/2022-03-11-9/§5-3) med inntil 25 rettsgebyr
+3. overtredelse av [vareførselsloven § 3-1](lov/2022-03-11-9/§3-1) til [§ 3-3](lov/2022-03-11-9/§3-3), [§ 3-6](lov/2022-03-11-9/§3-6) og [§ 5-6](lov/2022-03-11-9/§5-6) med inntil 75 rettsgebyr
+4. overtredelse av [vareførselsloven § 7-5](lov/2022-03-11-9/§7-5) med inntil 50 rettsgebyr
+5. overtredelse av [vareførselsloven § 4-1](lov/2022-03-11-9/§4-1) til [§ 4-3](lov/2022-03-11-9/§4-3), [§ 4-6](lov/2022-03-11-9/§4-6) til [§ 4-8](lov/2022-03-11-9/§4-8) og [§ 5-5](lov/2022-03-11-9/§5-5) med inntil 75 rettsgebyr
+6. overtredelse av [vareførselsloven § 4-4](lov/2022-03-11-9/§4-4) inntil 25 med rettsgebyr
+7. overtredelse av [vareførselsloven § 12-2](lov/2022-03-11-9/§12-2) første ledd bokstav e med inntil 75 rettsgebyr.
+
+(2) Ved særlig grove overtredelser kan det ilegges overtredelsesgebyr med inntil det dobbelte av beløpsgrensene i første ledd. Ved utmålingen skal det da blant annet legges vekt på
+
+1. overtredelsens art og omfang
+2. gjentakelse
+3. om forholdet er avdekket ved tollmyndighetenes kontroll
+4. sanksjonens preventive virkning
 
 ### § 12-3. Overtredelsesgebyr ved manglende deklarering av betalingsmidler
 
@@ -2186,7 +2970,94 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 
 ### § 12-11-1. Forenklet forelegg – varer og bøtebeløp
 
-(1) Forenklet forelegg kan ilegges ved ulovlig innførsel av følgende varer, og med følgende bøtebeløp:inntil 10 liter drikk med alkoholinnhold over 22 til og med 60 volumprosent:*Antall liter**Beløp*til og med 1600 krderover til og med 21 200 krderover til og med 32 400 krderover til og med 43 500 krderover til og med 54 800 krderover til og med 66 400 krderover til og med 89 900 krderover til og med 1013 400 krinntil 20 liter drikk med alkoholinnhold over 7,0 til og med 22 volumprosent:*Antall liter**Beløp*til og med 2600 krderover til og med 41 200 krderover til og med 62 400 krderover til og med 83 500 krderover til og med 104 800 krderover til og med 126 400 krderover til og med 169 900 krderover til og med 2013 400 krinntil 100 liter drikk med alkoholinnhold over 2,5 til og med 7,0 volumprosent:*Antall liter**Beløp*til og med 10600 krderover til og med 201 200 krderover til og med 302 400 krderover til og med 403 500 krderover til og med 504 800 krderover til og med 606 400 krderover til og med 809 900 krderover til og med 10013 400 krinntil 2 000 sigaretter, sigarer eller sigarillos:*Antall**Beløp*til og med 400600 krderover til og med 6001 200 krderover til og med 8002 400 krderover til og med 1 0003 500 krderover til og med 1 2005 100 krderover til og med 1 6008 600 krderover til og med 2 00012 100 krinntil 2 000 gram snus, skråtobakk og røyketobakk:*Antall gram**Beløp*til og med 500600 krderover til og med 7501 200 krderover til og med 10002 400 krderover til og med 12503 500 krderover til og med 15005 100 krderover til og med 20008 600 krinntil 80 kg kjøttvarer:*Antall kg**Beløp*til og med 10600 krderover til og med 201 200 krderover til og med 302 400 krderover til og med 403 500 krderover til og med 606 400 krderover til og med 809 100 krdrivstoff:*Antall liter**Beløp*til og med 100600 krderover til og med 2001 200 krderover til og med 4002 400 krderover til og med 5003 500 krderover til og med 6004 800 krandre varer til en verdi av inntil 20 000 kr:*Verdi i norske kroner**Beløp*til og med 2 800600 krderover til og med 5 0001 200 krderover til og med 7 5002 400 krderover til og med 10 0003 500 krderover til og med 15 0006 400 krderover til og med 20 0009 100 kr
+(1) Forenklet forelegg kan ilegges ved ulovlig innførsel av følgende varer, og med følgende bøtebeløp:
+
+1. inntil 10 liter drikk med alkoholinnhold over 22 til og med 60 volumprosent:
+
+   | *Antall liter* | *Beløp* |
+   | --- | --- |
+   | til og med 1 | 600 kr |
+   | derover til og med 2 | 1 200 kr |
+   | derover til og med 3 | 2 400 kr |
+   | derover til og med 4 | 3 500 kr |
+   | derover til og med 5 | 4 800 kr |
+   | derover til og med 6 | 6 400 kr |
+   | derover til og med 8 | 9 900 kr |
+   | derover til og med 10 | 13 400 kr |
+2. inntil 20 liter drikk med alkoholinnhold over 7,0 til og med 22 volumprosent:
+
+   | *Antall liter* | *Beløp* |
+   | --- | --- |
+   | til og med 2 | 600 kr |
+   | derover til og med 4 | 1 200 kr |
+   | derover til og med 6 | 2 400 kr |
+   | derover til og med 8 | 3 500 kr |
+   | derover til og med 10 | 4 800 kr |
+   | derover til og med 12 | 6 400 kr |
+   | derover til og med 16 | 9 900 kr |
+   | derover til og med 20 | 13 400 kr |
+3. inntil 100 liter drikk med alkoholinnhold over 2,5 til og med 7,0 volumprosent:
+
+   | *Antall liter* | *Beløp* |
+   | --- | --- |
+   | til og med 10 | 600 kr |
+   | derover til og med 20 | 1 200 kr |
+   | derover til og med 30 | 2 400 kr |
+   | derover til og med 40 | 3 500 kr |
+   | derover til og med 50 | 4 800 kr |
+   | derover til og med 60 | 6 400 kr |
+   | derover til og med 80 | 9 900 kr |
+   | derover til og med 100 | 13 400 kr |
+4. inntil 2 000 sigaretter, sigarer eller sigarillos:
+
+   | *Antall* | *Beløp* |
+   | --- | --- |
+   | til og med 400 | 600 kr |
+   | derover til og med 600 | 1 200 kr |
+   | derover til og med 800 | 2 400 kr |
+   | derover til og med 1 000 | 3 500 kr |
+   | derover til og med 1 200 | 5 100 kr |
+   | derover til og med 1 600 | 8 600 kr |
+   | derover til og med 2 000 | 12 100 kr |
+5. inntil 2 000 gram snus, skråtobakk og røyketobakk:
+
+   | *Antall gram* | *Beløp* |
+   | --- | --- |
+   | til og med 500 | 600 kr |
+   | derover til og med 750 | 1 200 kr |
+   | derover til og med 1000 | 2 400 kr |
+   | derover til og med 1250 | 3 500 kr |
+   | derover til og med 1500 | 5 100 kr |
+   | derover til og med 2000 | 8 600 kr |
+6. inntil 80 kg kjøttvarer:
+
+   | *Antall kg* | *Beløp* |
+   | --- | --- |
+   | til og med 10 | 600 kr |
+   | derover til og med 20 | 1 200 kr |
+   | derover til og med 30 | 2 400 kr |
+   | derover til og med 40 | 3 500 kr |
+   | derover til og med 60 | 6 400 kr |
+   | derover til og med 80 | 9 100 kr |
+7. drivstoff:
+
+   | *Antall liter* | *Beløp* |
+   | --- | --- |
+   | til og med 100 | 600 kr |
+   | derover til og med 200 | 1 200 kr |
+   | derover til og med 400 | 2 400 kr |
+   | derover til og med 500 | 3 500 kr |
+   | derover til og med 600 | 4 800 kr |
+8. andre varer til en verdi av inntil 20 000 kr:
+
+   | *Verdi i norske kroner* | *Beløp* |
+   | --- | --- |
+   | til og med 2 800 | 600 kr |
+   | derover til og med 5 000 | 1 200 kr |
+   | derover til og med 7 500 | 2 400 kr |
+   | derover til og med 10 000 | 3 500 kr |
+   | derover til og med 15 000 | 6 400 kr |
+   | derover til og med 20 000 | 9 100 kr |
 
 (2) Det kan ikke utstedes forenklet forelegg for vare som det kreves særskilt tillatelse til å innføre, herunder narkotika, legemidler, våpen, levende dyr og kjøtt fra land hvor det foreligger fare for smitte av husdyrsykdommer.
 
@@ -2216,7 +3087,11 @@ Dersom siktede var under 18 år på overtredelsestidspunktet, fastsettes ikke su
 
 ### § 12-11-5. Innholdskrav
 
-Forelegget skal dateres og underskrives av representant for tollmyndighetene og inneholdesiktedes navn, adresse og fødselsnummerstikkordsmessig angivelse av hvilket straffebud som er anvendt og hvilket forhold forelegget gjelderfastsetting av den bot og i tilfelle den inndragning som kreves, og den fengselsstraff som inntrer om boten ikke blir betalt.
+Forelegget skal dateres og underskrives av representant for tollmyndighetene og inneholde
+
+1. siktedes navn, adresse og fødselsnummer
+2. stikkordsmessig angivelse av hvilket straffebud som er anvendt og hvilket forhold forelegget gjelder
+3. fastsetting av den bot og i tilfelle den inndragning som kreves, og den fengselsstraff som inntrer om boten ikke blir betalt.
 
 ### § 12-11-6. Annullering
 

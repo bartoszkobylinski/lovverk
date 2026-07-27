@@ -15,7 +15,7 @@ xml_hash: "fb78564877fb515429be4d4525464be1c6ae531e0854e6fa5973b97b63e3cc24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,12 @@ Forskriften gjelder ved innførsel, utførsel og gjenutførsel mellom områder a
 
 Innførsel av eksemplarer av arter oppført i vedlegg 1, liste A og B er bare tillatt ved fremleggelse av CITES-utførselstillatelse utstedt av ansvarlig CITES-myndighet i utførselsstaten og CITES-innførselstillatelse utstedt av Miljødirektoratet. Tillatelsene må gjelde de aktuelle eksemplarene.
 
-Tillatelse til innførsel av eksemplarer av arter oppført i vedlegg 1, liste A kan gis når søker godtgjør at:ett eller flere av unntakene i [§ 11](forskrift/2018-06-15-889/§11) til [§ 14](forskrift/2018-06-15-889/§14) er oppfyltinnførselen ikke er til skade for artens bevaringsstatuseksemplaret er lovlig ervervet ogeksemplaret ikke skal utnyttes kommersielt.
+Tillatelse til innførsel av eksemplarer av arter oppført i vedlegg 1, liste A kan gis når søker godtgjør at:
+
+1. ett eller flere av unntakene i [§ 11](forskrift/2018-06-15-889/§11) til [§ 14](forskrift/2018-06-15-889/§14) er oppfylt
+2. innførselen ikke er til skade for artens bevaringsstatus
+3. eksemplaret er lovlig ervervet og
+4. eksemplaret ikke skal utnyttes kommersielt.
 
 For eksemplarer av arter oppført i vedlegg 1, liste B kan tillatelse gis når søker godtgjør at innførselen ikke er til skade for artens bevaringsstatus og eksemplaret er lovlig ervervet.
 
@@ -74,7 +79,12 @@ Innførsel av eksemplarer av arter oppført i vedlegg 1, liste B som tidligere e
 
 Utførsel og gjenutførsel av eksemplarer av arter oppført i vedlegg 1 er bare tillatt ved fremleggelse av CITES-utførsels- eller gjenutførselstillatelse utstedt av Miljødirektoratet. Tillatelsen må gjelde de aktuelle eksemplarene. Første punktum fritar ikke for eventuelle krav til CITES-innførselsdokumentasjon fra annen stats CITES-myndighet.
 
-Tillatelse til utførsel eller gjenutførsel av eksemplarer av arter oppført i vedlegg 1, liste A kan gis når søker godtgjør at:ett eller flere av unntakene i [§ 11](forskrift/2018-06-15-889/§11) til [§ 14](forskrift/2018-06-15-889/§14) er oppfyltutførselen eller gjenutførselen ikke er til skade for artens bevaringsstatuseksemplaret er lovlig ervervet ogeksemplaret ikke skal utnyttes kommersielt.
+Tillatelse til utførsel eller gjenutførsel av eksemplarer av arter oppført i vedlegg 1, liste A kan gis når søker godtgjør at:
+
+1. ett eller flere av unntakene i [§ 11](forskrift/2018-06-15-889/§11) til [§ 14](forskrift/2018-06-15-889/§14) er oppfylt
+2. utførselen eller gjenutførselen ikke er til skade for artens bevaringsstatus
+3. eksemplaret er lovlig ervervet og
+4. eksemplaret ikke skal utnyttes kommersielt.
 
 For eksemplarer av arter oppført i vedlegg 1, liste B og C kan tillatelse gis når søker godtgjør at utførselen eller gjenutførselen ikke er til skade for artens bevaringsstatus og eksemplaret er lovlig ervervet. Tilsvarende gjelder eksemplarer av arter oppført i vedlegg 1, liste A som er omfattet av norsk reservasjon, ved utførsel eller gjenutførsel til stater med samme reservasjon eller stater som ikke er part i CITES.
 
@@ -130,7 +140,16 @@ Personer som ikke er folkeregistret i Norge og som ikke oppholder seg i landet m
 
 Personer som er folkeregistret i Norge kan innføre personlig reisegods etter første ledd uten CITES-tillatelse hvis eksemplaret ikke stammer fra stat som har slik art i vill tilstand og vedkommende kan dokumentere lovlig erverv av eksemplaret. Ved utførsel kreves at eksemplaret ikke brukes til kommersielle formål i utlandet og gjeninnføres til Norge innen tre måneder.
 
-I tillegg til personlig reisegods etter første til tredje ledd, kan inntil angitt mengde av følgende eksemplarer innføres til og utføres fra Norge uten CITES-tillatelse når dette bæres av eller på vedkommende eller omfattes av vedkommende sin personlige bagasje:125 gram kaviar av størarter Acipenseriformestre eksemplarer av regnstaver fremstilt av Cactaceaefire krokodilleprodukter av ordenen Crocodylia, med unntak av hele eksemplarer og vesentlige deler av skinn, utstoppede eksemplarer, kjøtt og jakttrofeertre døde eksemplarer av dronningkonkylie Strombus gigasfire døde eksemplarer av sjøhesten Hippocampus spp.tre døde eksemplarer av kjempemusling, Tridacnidae spp., hvor hvert eksemplar enten består av hele skjell eller to deler som passer sammen og som samlet ikke overstiger tre kg½ kg døde, tørre steinkoraller Scleractinia, inklusive deler derav, eller1 kg trebiter, 24 ml olje og to sett med perler (bønnekjeder, halskjeder eller armbånd) av Agarwood (oudh).
+I tillegg til personlig reisegods etter første til tredje ledd, kan inntil angitt mengde av følgende eksemplarer innføres til og utføres fra Norge uten CITES-tillatelse når dette bæres av eller på vedkommende eller omfattes av vedkommende sin personlige bagasje:
+
+1. 125 gram kaviar av størarter Acipenseriformes
+2. tre eksemplarer av regnstaver fremstilt av Cactaceae
+3. fire krokodilleprodukter av ordenen Crocodylia, med unntak av hele eksemplarer og vesentlige deler av skinn, utstoppede eksemplarer, kjøtt og jakttrofeer
+4. tre døde eksemplarer av dronningkonkylie Strombus gigas
+5. fire døde eksemplarer av sjøhesten Hippocampus spp.
+6. tre døde eksemplarer av kjempemusling, Tridacnidae spp., hvor hvert eksemplar enten består av hele skjell eller to deler som passer sammen og som samlet ikke overstiger tre kg
+7. ½ kg døde, tørre steinkoraller Scleractinia, inklusive deler derav, eller
+8. 1 kg trebiter, 24 ml olje og to sett med perler (bønnekjeder, halskjeder eller armbånd) av Agarwood (oudh).
 
 > Endret ved forskrifter [11 okt 2021 nr. 2966](forskrift/2021-10-11-2966), [12 des 2024 nr. 3136](forskrift/2024-12-12-3136).
 
@@ -228,7 +247,12 @@ CITES-sertifikat for ilandføring fra det åpne hav utstedes av Miljødirektorat
 
 ### § 21. CITES-flerbrukstillatelser
 
-Miljødirektoratet kan utstede CITES-flerbrukstillatelse i følgende tilfeller:innførsel, utførsel og gjenutførsel av bestemte eksemplarer av levende arter innenfor en angitt periode oppad begrenset til tre årinnførsel, utførsel og gjenutførsel av bestemte musikkinstrumenter innenfor en angitt periode oppad begrenset til tre år. Ved innførsel til Norge godkjennes pass for musikkinstrumenter utstedt av ansvarlig utførselsmyndighet som flerbrukstillatelse.innførsel, utførsel og gjenutførsel av vareprøver av døde eksemplarer av arter oppført på liste B- og C- samt liste A-arter der unntakene i [§ 12](forskrift/2018-06-15-889/§12) eller [§ 13](forskrift/2018-06-15-889/§13) får anvendelse, innenfor en angitt periode oppad begrenset til ett år. Vareprøvene kan ikke brukes til kommersielle formål.ilandføring av eksemplarer av arter etter [§ 6](forskrift/2018-06-15-889/§6) for norskregistrerte fartøy når fangsten skal landes i Norge innenfor en angitt periode oppad begrenset til ett år.
+Miljødirektoratet kan utstede CITES-flerbrukstillatelse i følgende tilfeller:
+
+1. innførsel, utførsel og gjenutførsel av bestemte eksemplarer av levende arter innenfor en angitt periode oppad begrenset til tre år
+2. innførsel, utførsel og gjenutførsel av bestemte musikkinstrumenter innenfor en angitt periode oppad begrenset til tre år. Ved innførsel til Norge godkjennes pass for musikkinstrumenter utstedt av ansvarlig utførselsmyndighet som flerbrukstillatelse.
+3. innførsel, utførsel og gjenutførsel av vareprøver av døde eksemplarer av arter oppført på liste B- og C- samt liste A-arter der unntakene i [§ 12](forskrift/2018-06-15-889/§12) eller [§ 13](forskrift/2018-06-15-889/§13) får anvendelse, innenfor en angitt periode oppad begrenset til ett år. Vareprøvene kan ikke brukes til kommersielle formål.
+4. ilandføring av eksemplarer av arter etter [§ 6](forskrift/2018-06-15-889/§6) for norskregistrerte fartøy når fangsten skal landes i Norge innenfor en angitt periode oppad begrenset til ett år.
 
 Flerbrukstillatelse kan bare utstedes for eksemplarer som befinner seg innenfor forskriftens geografiske virkeområde.
 
@@ -260,7 +284,11 @@ Dersom vilkårene i [§ 4](forskrift/2018-06-15-889/§4) for innførsel eller [�
 
 ### § 24. (Endring og tilbakekall av tillatelse og flerbrukstillatelse)
 
-Miljødirektoratet kan endre eller tilbakekalle tillatelse eller flerbrukstillatelse gitt etter denne forskrift hvis:det fremkommer nye opplysninger og disse vesentlig endrer grunnlaget for tillatelsen eller flerbrukstillatelsen ellervilkårene i tillatelsen eller flerbrukstillatelsen blir vesentlig misligholdt ellertillatelsen eller flerbrukstillatelsen på annen måte misbrukes.
+Miljødirektoratet kan endre eller tilbakekalle tillatelse eller flerbrukstillatelse gitt etter denne forskrift hvis:
+
+1. det fremkommer nye opplysninger og disse vesentlig endrer grunnlaget for tillatelsen eller flerbrukstillatelsen eller
+2. vilkårene i tillatelsen eller flerbrukstillatelsen blir vesentlig misligholdt eller
+3. tillatelsen eller flerbrukstillatelsen på annen måte misbrukes.
 
 På samme vilkår kan Miljødirektoratet endre eller sette nye vilkårene for en tillatelse eller flerbrukstillatelse.
 
@@ -276,7 +304,13 @@ Tollmyndighetene fører kontroll med innførsel, utførsel og gjenutførsel til 
 
 Kontrollmyndighetene fører kontroll med at innførsel, utførsel og gjenutførsel, innenlands besittelse og kommersiell fremvisning samt ilandføring fra det åpne hav ikke skjer i strid med forskriften. Eksemplarer av arter i transitt, jf. [§ 16](forskrift/2018-06-15-889/§16) omfattes ikke av kontroll etter bestemmelsen.
 
-Kontrollmyndighetene kan:kreve fremlagt gyldige CITES-tillatelser og annen dokumentasjon som skal følge eksemplaretuten hinder av taushetsplikt kreve at den som kontrolleres gir de opplysninger som er nødvendige samt yter nødvendig bistand for å gjennomføre kontroll etter forskriftennår det er nødvendig for å gjennomføre kontroll, ha uhindret adgang til eiendom der det foregår virksomhet som kan være i strid med denne forskriftenkreve å få lagt frem og granske dokumenter eller annet materiale som kan ha betydning for kontroll etter forskriftenstanse personer, fartøyer og motorkjøretøyer hvis dette er nødvendig for gjennomføringen av kontroll.
+Kontrollmyndighetene kan:
+
+- kreve fremlagt gyldige CITES-tillatelser og annen dokumentasjon som skal følge eksemplaret
+- uten hinder av taushetsplikt kreve at den som kontrolleres gir de opplysninger som er nødvendige samt yter nødvendig bistand for å gjennomføre kontroll etter forskriften
+- når det er nødvendig for å gjennomføre kontroll, ha uhindret adgang til eiendom der det foregår virksomhet som kan være i strid med denne forskriften
+- kreve å få lagt frem og granske dokumenter eller annet materiale som kan ha betydning for kontroll etter forskriften
+- stanse personer, fartøyer og motorkjøretøyer hvis dette er nødvendig for gjennomføringen av kontroll.
 
 Etter gjennomført tollbehandling oversendes relevant CITES-dokumentasjon og eventuelle beslag av eksemplarer av arter til Miljødirektoratet.
 
@@ -298,7 +332,16 @@ Beholdere, herunder bokser, glass eller esker med kaviar fra stør skal være in
 
 Den som er ansvarlig for virksomhet som driver kommersiell innførsel, utførsel, gjenutførsel eller besittelse av eksemplarer av arter omfattet av forskriften, skal sørge for at det innføres og utøves internkontroll i virksomheten og at dette gjøres i samarbeid med arbeidstakerne og deres representanter. Med virksomhet forstås privat og offentlig foretak, herunder enkeltmannsforetak.
 
-Internkontrollen innebærer at virksomheten skal:Sørge for at denne forskrift er tilgjengelig og ha oversikt over de krav som er av særlig viktighet for virksomhetenSørge for at arbeidstakerne har tilstrekkelige kunnskaper og ferdigheter i det systematiske helse-, miljø- og sikkerhetsarbeidet, herunder informasjon om endringerSørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaringer utnyttesFastsette mål for arbeid med arter som omfattes av denne forskrift og regler knyttet til disseHa oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med forhold omfattet av forskriften er fordeltKartlegge farer og problemer og på denne bakgrunn vurdere risiko, samt utarbeide tilhørende planer og tiltak for å redusere risikoforholdeneIverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av denne forskriftenForeta systematisk overvåkning og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontrollen innebærer at virksomheten skal:
+
+1. Sørge for at denne forskrift er tilgjengelig og ha oversikt over de krav som er av særlig viktighet for virksomheten
+2. Sørge for at arbeidstakerne har tilstrekkelige kunnskaper og ferdigheter i det systematiske helse-, miljø- og sikkerhetsarbeidet, herunder informasjon om endringer
+3. Sørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaringer utnyttes
+4. Fastsette mål for arbeid med arter som omfattes av denne forskrift og regler knyttet til disse
+5. Ha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med forhold omfattet av forskriften er fordelt
+6. Kartlegge farer og problemer og på denne bakgrunn vurdere risiko, samt utarbeide tilhørende planer og tiltak for å redusere risikoforholdene
+7. Iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av denne forskriften
+8. Foreta systematisk overvåkning og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Internkontrollen skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve krav i eller i medhold av denne forskriften.
 

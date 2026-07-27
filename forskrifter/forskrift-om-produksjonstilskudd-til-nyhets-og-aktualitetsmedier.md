@@ -34,23 +34,61 @@ Produksjonstilskuddet skal fremme uavhengig journalistikk karakterisert av høy 
 
 Forskriften gjelder driftstilskudd til tekstbaserte nyhets- og aktualitetsmedier på alle publiseringsplattformer.
 
-Forskriften gjelder ikke for medier somhar som hovedformål å drive med reklame eller markedsføring eller har en hovedvekt av annonserhovedsakelig er rettet mot medlemmer eller ansatte i bestemte organisasjoner, foreninger eller selskap.
+Forskriften gjelder ikke for medier som
+
+1. har som hovedformål å drive med reklame eller markedsføring eller har en hovedvekt av annonser
+2. hovedsakelig er rettet mot medlemmer eller ansatte i bestemte organisasjoner, foreninger eller selskap.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*medieselskap*: et aksjeselskap eller allmennaksjeselskap som gir ut ett nyhets- og aktualitetsmedium.*abonnementstall*: antall aktive, betalte abonnement og eksemplarer solgt i løssalg i året før tilskuddsåret, beregnet etter [§ 4](forskrift/2022-12-08-2117/§4).*løssalg*: eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium.*utgiversted*: den kommunen innenfor det geografiske redaksjonelle dekningsområdet der nyhets- og aktualitetsmediet har sin hovedredaksjon. Bydel eller kommunedel skal regnes som utgiversted, dersom mediet i hovedsak har et geografiske marked som er mindre enn kommunen.*bydelsmedium*: nyhets- og aktualitetsmedium som utgis i en kommune med mer enn 75 000 innbyggere, og som redaksjonelt har sin dekning i en begrenset del av kommunen.*kommunedelsmedium*: nyhets- og aktualitetsmedium som utgis i en kommune med mindre enn 75 000 innbyggere og som redaksjonelt har sin dekning i en begrenset del av kommunen. Et kommunedelsmedium kan ha redaksjonell dekning utover kommunen hvor mediet har sitt utgiversted.*alenemedium*: nyhets- og aktualitetsmedium som er alene på utgiverstedet.*nummerénmedium*: nyhets- og aktualitetsmedium som har det høyeste abonnementstallet på utgiverstedet.*nummertomedium*: nyhets- og aktualitetsmedium som har en konkurrent med høyere abonnementstall på utgiverstedet.*nasjonalt nummertomedium:* nummertomedium som har minst 500 av abonnementstallet fordelt på minimum fem av landets fylker og minst 25 prosent av abonnementstallet utenfor utgiverfylket, og som har minst 20 redaksjonelle årsverk.*nasjonalt nisjemedium:* nummertomedium som har minst 200 av abonnementstallet fordelt på minimum fem av landets fylker og minst 25 prosent av abonnementstallet utenfor utgiverfylket. Nasjonale nisjemedier har et bredt innhold om politikk, økonomi eller samfunnsliv, men er smalere i sin innholdsprofil enn øvrige nyhets- og aktualitetsmedier.*lokalt medium*: nyhets- og aktualitetsmedium som har mer enn 75 prosent av abonnementstallet i utgiverfylket, eller et nyhets- og aktualitetsmedium som har mer enn 75 prosent av abonnementstallet i utgiverfylket og et fylke med felles grense til utgiverfylket til sammen.*redaksjonelle årsverk*: antall lønnede faste og midlertidige ansatte som har innholdsproduksjon og det redaksjonelle sluttproduktet som hovedoppgave.
+I denne forskriften menes med:
+
+1. *medieselskap*: et aksjeselskap eller allmennaksjeselskap som gir ut ett nyhets- og aktualitetsmedium.
+2. *abonnementstall*: antall aktive, betalte abonnement og eksemplarer solgt i løssalg i året før tilskuddsåret, beregnet etter [§ 4](forskrift/2022-12-08-2117/§4).
+3. *løssalg*: eksemplarsalg av enkeltutgaver av et nyhets- og aktualitetsmedium.
+4. *utgiversted*: den kommunen innenfor det geografiske redaksjonelle dekningsområdet der nyhets- og aktualitetsmediet har sin hovedredaksjon. Bydel eller kommunedel skal regnes som utgiversted, dersom mediet i hovedsak har et geografiske marked som er mindre enn kommunen.
+5. *bydelsmedium*: nyhets- og aktualitetsmedium som utgis i en kommune med mer enn 75 000 innbyggere, og som redaksjonelt har sin dekning i en begrenset del av kommunen.
+6. *kommunedelsmedium*: nyhets- og aktualitetsmedium som utgis i en kommune med mindre enn 75 000 innbyggere og som redaksjonelt har sin dekning i en begrenset del av kommunen. Et kommunedelsmedium kan ha redaksjonell dekning utover kommunen hvor mediet har sitt utgiversted.
+7. *alenemedium*: nyhets- og aktualitetsmedium som er alene på utgiverstedet.
+8. *nummerénmedium*: nyhets- og aktualitetsmedium som har det høyeste abonnementstallet på utgiverstedet.
+9. *nummertomedium*: nyhets- og aktualitetsmedium som har en konkurrent med høyere abonnementstall på utgiverstedet.
+10. *nasjonalt nummertomedium:* nummertomedium som har minst 500 av abonnementstallet fordelt på minimum fem av landets fylker og minst 25 prosent av abonnementstallet utenfor utgiverfylket, og som har minst 20 redaksjonelle årsverk.
+11. *nasjonalt nisjemedium:* nummertomedium som har minst 200 av abonnementstallet fordelt på minimum fem av landets fylker og minst 25 prosent av abonnementstallet utenfor utgiverfylket. Nasjonale nisjemedier har et bredt innhold om politikk, økonomi eller samfunnsliv, men er smalere i sin innholdsprofil enn øvrige nyhets- og aktualitetsmedier.
+12. *lokalt medium*: nyhets- og aktualitetsmedium som har mer enn 75 prosent av abonnementstallet i utgiverfylket, eller et nyhets- og aktualitetsmedium som har mer enn 75 prosent av abonnementstallet i utgiverfylket og et fylke med felles grense til utgiverfylket til sammen.
+13. *redaksjonelle årsverk*: antall lønnede faste og midlertidige ansatte som har innholdsproduksjon og det redaksjonelle sluttproduktet som hovedoppgave.
 
 > Endret ved forskrift [30 aug 2024 nr. 2052](forskrift/2024-08-30-2052).
 
 ### § 4. Beregning av abonnementstall
 
-Ved beregning av abonnementstall etter denne forskriften skal følgende legges til grunn:Et abonnement er en avtale om betaling for levering av et nyhets- og aktualitetsmedium for en avgrenset periode av minst én ukes varighet.Et abonnement som er aktivt gjennom hele året utgjør ett abonnement. Et abonnement med kortere varighet, utgjør en tilsvarende forholdsmessig andel av et abonnement. Et abonnement som gir tilgang til kun en andel av nyhets- og aktualitetsmediets utgivelser i løpet av en uke utgjør en tilsvarende forholdsmessig andel av et abonnement.Abonnement på papiraviser, digitale utgaver av papiraviser (e-aviser) og andre digitale produkter utgjør separate abonnement ved beregning av abonnementstallet, når de ulike typer utgaver selges uavhengig av hverandre.Løssalg av mediet likestilles med abonnement og teller med i abonnementstallet. Antall abonnement for medier solgt i løssalg er antall papireksemplarer og digitale utgaver solgt som enkelteksemplarer, delt på antall utgivelsesdager i perioden.Salg av digitale tilganger til virksomheter som videreformidler disse, teller med i abonnementstallet. En tilgang som varer kortere enn 12 måneder tilsvarer samme forholdsmessige andel av et abonnement som lengden på tilgangen. Det gis et tillegg på 20 % av antall dokumenterte innlogginger. Er andelen av innloggede 80 % eller mer, teller solgte tilganger fullt ut. Abonnementstallet beregnet etter dette punktet skal ikke telle med i de første 700 i totalt beregnet abonnementstall.Abonnement eller løssalg som er kjøpt av medieselskapet selv, morselskap, datterselskap, søsterselskap eller av aksjonærer som eier over 50 prosent i et av de forannevnte selskapene, skal ikke telle med i abonnementstallet.Abonnement som gir tilgang til flere medier (samsalg) teller som ett abonnement hos hovedpublikasjonen.Abonnement kan selges med rabatt og tilleggsytelser. Den samlede rabatten skal ikke overstige 15 prosent av mediets abonnementsinntekter og gitte rabatter. Ved salg av abonnement til studenter, pendlere og andre grupper som får tilgang til mediet til egne priser, vil gitt rabatt beregnes ut ifra brutto omsetning for den spesifikke gruppen. Portotillegg skal trekkes ut av abonnementsinntektene.Dersom den samlede rabatten overstiger 15 prosent av de samlede abonnementsinntektene og gitte rabatter, skal abonnementstallet reduseres slik at samlet rabatt dividert med ordinær gjennomsnittlig abonnementspris for perioden utgjør 15 prosent av summen av de bokførte abonnementsinntektene og gitte rabatter. Rabatten skal beregnes av ordinær fullpris, slik den framkommer i medieselskapets offisielle prisliste.
+Ved beregning av abonnementstall etter denne forskriften skal følgende legges til grunn:
+
+1. Et abonnement er en avtale om betaling for levering av et nyhets- og aktualitetsmedium for en avgrenset periode av minst én ukes varighet.
+2. Et abonnement som er aktivt gjennom hele året utgjør ett abonnement. Et abonnement med kortere varighet, utgjør en tilsvarende forholdsmessig andel av et abonnement. Et abonnement som gir tilgang til kun en andel av nyhets- og aktualitetsmediets utgivelser i løpet av en uke utgjør en tilsvarende forholdsmessig andel av et abonnement.
+3. Abonnement på papiraviser, digitale utgaver av papiraviser (e-aviser) og andre digitale produkter utgjør separate abonnement ved beregning av abonnementstallet, når de ulike typer utgaver selges uavhengig av hverandre.
+4. Løssalg av mediet likestilles med abonnement og teller med i abonnementstallet. Antall abonnement for medier solgt i løssalg er antall papireksemplarer og digitale utgaver solgt som enkelteksemplarer, delt på antall utgivelsesdager i perioden.
+5. Salg av digitale tilganger til virksomheter som videreformidler disse, teller med i abonnementstallet. En tilgang som varer kortere enn 12 måneder tilsvarer samme forholdsmessige andel av et abonnement som lengden på tilgangen. Det gis et tillegg på 20 % av antall dokumenterte innlogginger. Er andelen av innloggede 80 % eller mer, teller solgte tilganger fullt ut. Abonnementstallet beregnet etter dette punktet skal ikke telle med i de første 700 i totalt beregnet abonnementstall.
+6. Abonnement eller løssalg som er kjøpt av medieselskapet selv, morselskap, datterselskap, søsterselskap eller av aksjonærer som eier over 50 prosent i et av de forannevnte selskapene, skal ikke telle med i abonnementstallet.
+7. Abonnement som gir tilgang til flere medier (samsalg) teller som ett abonnement hos hovedpublikasjonen.
+8. Abonnement kan selges med rabatt og tilleggsytelser. Den samlede rabatten skal ikke overstige 15 prosent av mediets abonnementsinntekter og gitte rabatter. Ved salg av abonnement til studenter, pendlere og andre grupper som får tilgang til mediet til egne priser, vil gitt rabatt beregnes ut ifra brutto omsetning for den spesifikke gruppen. Portotillegg skal trekkes ut av abonnementsinntektene.
+9. Dersom den samlede rabatten overstiger 15 prosent av de samlede abonnementsinntektene og gitte rabatter, skal abonnementstallet reduseres slik at samlet rabatt dividert med ordinær gjennomsnittlig abonnementspris for perioden utgjør 15 prosent av summen av de bokførte abonnementsinntektene og gitte rabatter. Rabatten skal beregnes av ordinær fullpris, slik den framkommer i medieselskapets offisielle prisliste.
 
 ## Kapittel 2. Vilkår for å kunne få tilskudd
 
 ### § 5. Hvem som kan få tilskudd
 
-Nyhets- og aktualitetsmedier kan få tilskudd når dehar som hovedformål å drive løpende journalistisk produksjon og formidling av nyheter, aktualitetsstoff og samfunnsdebatt til allmennhetenhar nyheter, aktualitetsstoff og samfunnsdebatt som utgjør majoriteten av mediets samlede redaksjonelle innhold gjennom et kalenderårhar en bred sammensetning av ulike sjangre og tematisk innhold fra ulike samfunnsområderer redaksjonelt selvstendighar en ansvarlig redaktør, jf. [medieansvarsloven § 3 første ledd bokstav a](lov/2020-05-29-59/§3/ledd/1/bokstav/a), med ansvar og frihet i tråd med denne loven og som har sluttet seg til allment aksepterte presseetiske standardertar reell betaling for nyhets-, aktualitets- og debattstoff og annonser etter en offentlig tilgjengelig prislistehar beregnet løssalg som utgjør mindre enn halvparten av beregnet abonnementstallpubliserer minst fem egenproduserte redaksjonelle saker per uke i minimum 48 av årets ukerpubliserer minst 480 egenproduserte redaksjonelle saker per århar minst 700 i abonnementstall.
+Nyhets- og aktualitetsmedier kan få tilskudd når de
+
+1. har som hovedformål å drive løpende journalistisk produksjon og formidling av nyheter, aktualitetsstoff og samfunnsdebatt til allmennheten
+2. har nyheter, aktualitetsstoff og samfunnsdebatt som utgjør majoriteten av mediets samlede redaksjonelle innhold gjennom et kalenderår
+3. har en bred sammensetning av ulike sjangre og tematisk innhold fra ulike samfunnsområder
+4. er redaksjonelt selvstendig
+5. har en ansvarlig redaktør, jf. [medieansvarsloven § 3 første ledd bokstav a](lov/2020-05-29-59/§3/ledd/1/bokstav/a), med ansvar og frihet i tråd med denne loven og som har sluttet seg til allment aksepterte presseetiske standarder
+6. tar reell betaling for nyhets-, aktualitets- og debattstoff og annonser etter en offentlig tilgjengelig prisliste
+7. har beregnet løssalg som utgjør mindre enn halvparten av beregnet abonnementstall
+8. publiserer minst fem egenproduserte redaksjonelle saker per uke i minimum 48 av årets uker
+9. publiserer minst 480 egenproduserte redaksjonelle saker per år
+10. har minst 700 i abonnementstall.
 
 I første ledd bokstav b skal dagsaktuelt forstås som innhold om pågående saker og hendelser, eller innhold som opplyser leserne om forhold som ikke er kjent fra før. Samfunnsrelevant innhold og debatt skal avgrenses mot underholdnings-, livsstils- og forbrukerstoff som er rettet mot leseren som privatperson.
 
@@ -102,13 +140,32 @@ Departementet fastsetter rammen for tilskudd for hver tilskuddskategori på grun
 
 ### § 11. Tilskuddskategorier
 
-Medier som kan få tilskudd plasseres i en av følgende tilskuddskategorier:Nummerén- og alenemedierLokale nummertomedierNasjonale nummertomedierNasjonale nisjemedier.
+Medier som kan få tilskudd plasseres i en av følgende tilskuddskategorier:
+
+1. Nummerén- og alenemedier
+2. Lokale nummertomedier
+3. Nasjonale nummertomedier
+4. Nasjonale nisjemedier.
 
 ### § 12. Beregning av tilskudd
 
-Nummerén- og alenemedier får tilskudd på følgende måte:Nummerén- og alenemedier får et grunntilskudd.Nummerén- og alenemedier med utgiversted i Nordland, Troms og Finnmark eller Svalbard, mottar dobbelt grunntilskudd.Nummerén- og alenemedier som har færre enn 3700 i abonnementstall får et ekstratilskudd.Nummerén- og alenemedier som har fra og med 700 og til og med 1700 i abonnementstall får dobbelt ekstratilskudd.
+Nummerén- og alenemedier får tilskudd på følgende måte:
 
-Nummertomedier får tilskudd på følgende måte:Medier i samme tilskuddskategori får et grunntilskudd. Hver tilskuddskategori kan ha ulikt grunntilskudd.Nasjonale nummertomedier og nasjonale nisjemedier som gis ut på nynorsk får et ekstra nynorsktilskudd.Lokale nummertomedier med utgiversted i Oslo, Bergen, Trondheim og Stavanger får et ekstratilskudd. Ekstratilskuddet differensieres mellom medier som har mellom 10 og 25 redaksjonelle årsverk (nivå 1) og et ytterligere ekstratilskudd for medier med flere enn 25 redaksjonelle årsverk (nivå 2).Lokale nummertomedier skal få minst like mye i tilskudd som nummerénmediet på utgiverstedet. Disse mediene får tilskuddet beregnet etter første ledd dersom dette gir et høyere tilskudd enn etter andre ledd.Lokale nummertomedier som er del av samme konsern som nummerénmediet på utgiverstedet får tilskuddet beregnet etter første ledd.Bydels- og kommunedelsmedier får tilskudd beregnet etter første ledd.Dersom alle medier som kan få tilskudd på et utgiversted har fra og med 700 og færre enn 5700 i abonnementstall, får alle beregnet tilskudd etter første ledd.Etter at tilskudd er fordelt etter punkt 1 til 6 over, fordeles det som gjenstår av rammen for hver tilskuddskategori mellom mediene i samme kategori. Tilskudd til det enkelte medium skal tilsvare den andelen mediets brukerinntekter utgjør av de totale brukerinntektene for alle medier i samme tilskuddskategori.
+1. Nummerén- og alenemedier får et grunntilskudd.
+2. Nummerén- og alenemedier med utgiversted i Nordland, Troms og Finnmark eller Svalbard, mottar dobbelt grunntilskudd.
+3. Nummerén- og alenemedier som har færre enn 3700 i abonnementstall får et ekstratilskudd.
+4. Nummerén- og alenemedier som har fra og med 700 og til og med 1700 i abonnementstall får dobbelt ekstratilskudd.
+
+Nummertomedier får tilskudd på følgende måte:
+
+1. Medier i samme tilskuddskategori får et grunntilskudd. Hver tilskuddskategori kan ha ulikt grunntilskudd.
+2. Nasjonale nummertomedier og nasjonale nisjemedier som gis ut på nynorsk får et ekstra nynorsktilskudd.
+3. Lokale nummertomedier med utgiversted i Oslo, Bergen, Trondheim og Stavanger får et ekstratilskudd. Ekstratilskuddet differensieres mellom medier som har mellom 10 og 25 redaksjonelle årsverk (nivå 1) og et ytterligere ekstratilskudd for medier med flere enn 25 redaksjonelle årsverk (nivå 2).
+4. Lokale nummertomedier skal få minst like mye i tilskudd som nummerénmediet på utgiverstedet. Disse mediene får tilskuddet beregnet etter første ledd dersom dette gir et høyere tilskudd enn etter andre ledd.
+5. Lokale nummertomedier som er del av samme konsern som nummerénmediet på utgiverstedet får tilskuddet beregnet etter første ledd.
+6. Bydels- og kommunedelsmedier får tilskudd beregnet etter første ledd.
+7. Dersom alle medier som kan få tilskudd på et utgiversted har fra og med 700 og færre enn 5700 i abonnementstall, får alle beregnet tilskudd etter første ledd.
+8. Etter at tilskudd er fordelt etter punkt 1 til 6 over, fordeles det som gjenstår av rammen for hver tilskuddskategori mellom mediene i samme kategori. Tilskudd til det enkelte medium skal tilsvare den andelen mediets brukerinntekter utgjør av de totale brukerinntektene for alle medier i samme tilskuddskategori.
 
 Departementet fastsetter den årlige størrelsen på grunntilskuddene og ekstratilskuddene etter denne bestemmelsen.
 
@@ -134,7 +191,13 @@ Nummertomedier med 5700 i abonnementstall eller mer, får tilskuddet avkortet de
 
 Et medieselskap som har en gjennomsnittlig driftsmargin på over ti prosent siste tre år, inklusiv utbetalt tilskudd etter denne forskriften, får en avkortning i tilskuddet som skal bringe gjennomsnittlig driftsmargin ned til ti prosent. Avkortning gjennomføres enten ved reduksjon i neste års tilskudd eller, der mediet har gått ut av ordningen, ved tilbakebetaling av tilskudd. Det første året i tilskuddsordningen inkluderes ikke i beregningen av driftsmargin.
 
-Et medieselskap som har driftsinntekter, fratrukket tilskudd etter denne forskriften, som utgjør mer enn 250 mill. kroner siste regnskapsår eller mer enn 750 mill. kroner de siste tre regnskapsårene får tilskuddet avkortet. Tilskuddet avkortes med12,5 prosent dersom driftsinntektene utgjør inntil henholdsvis 240 mill. kroner eller 720 mill. kroner25 prosent dersom driftsinntektene utgjør inntil henholdsvis 255 mill. kroner eller 765 mill. kroner37,5 prosent dersom driftsinntektene utgjør inntil henholdsvis 270 mill. kroner eller 810 mill. kroner50 prosent dersom driftsinntektene utgjør inntil henholdsvis 285 mill. kroner eller 855 mill. kroner75 prosent dersom driftsinntektene utgjør inntil henholdsvis 300 mill. kroner eller 900 mill. kroner.
+Et medieselskap som har driftsinntekter, fratrukket tilskudd etter denne forskriften, som utgjør mer enn 250 mill. kroner siste regnskapsår eller mer enn 750 mill. kroner de siste tre regnskapsårene får tilskuddet avkortet. Tilskuddet avkortes med
+
+1. 12,5 prosent dersom driftsinntektene utgjør inntil henholdsvis 240 mill. kroner eller 720 mill. kroner
+2. 25 prosent dersom driftsinntektene utgjør inntil henholdsvis 255 mill. kroner eller 765 mill. kroner
+3. 37,5 prosent dersom driftsinntektene utgjør inntil henholdsvis 270 mill. kroner eller 810 mill. kroner
+4. 50 prosent dersom driftsinntektene utgjør inntil henholdsvis 285 mill. kroner eller 855 mill. kroner
+5. 75 prosent dersom driftsinntektene utgjør inntil henholdsvis 300 mill. kroner eller 900 mill. kroner.
 
 Et medieselskap som har driftsinntekter, fratrukket tilskudd etter denne forskriften, som utgjør mer enn 300 mill. kroner siste regnskapsår eller mer enn 900 mill. kroner de siste tre regnskapsårene får ikke tilskudd.
 
@@ -146,7 +209,11 @@ Midler som frigis som følge av avkortninger av tilskudd til enkeltmedier, skal 
 
 ### § 16. Medier som mister retten til tilskudd
 
-Et medium som har mottatt tilskudd og som mister retten til dette fordi det ikke lenger oppfyller vilkårene i [§ 5 bokstav h](forskrift/2022-12-08-2117/§5/bokstav/h) til j eller [§ 8 første ledd](forskrift/2022-12-08-2117/§8/ledd/1), mottar likevel tilskudd i en overgangsperiode. Tilskudd gisi det første året med 2/3 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.i det andre året med 1/2 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.i det tredje året med 1/3 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.
+Et medium som har mottatt tilskudd og som mister retten til dette fordi det ikke lenger oppfyller vilkårene i [§ 5 bokstav h](forskrift/2022-12-08-2117/§5/bokstav/h) til j eller [§ 8 første ledd](forskrift/2022-12-08-2117/§8/ledd/1), mottar likevel tilskudd i en overgangsperiode. Tilskudd gis
+
+1. i det første året med 2/3 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.
+2. i det andre året med 1/2 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.
+3. i det tredje året med 1/3 av det tilskuddet mediet fikk det siste året det var tilskuddsberettiget.
 
 Et medieselskap som bryter vilkåret i [§ 9](forskrift/2022-12-08-2117/§9) om hva tilskuddet kan brukes til mister retten til tilskudd.
 
@@ -188,7 +255,10 @@ Mediebedriftenes hovedorganisasjoner skal få forslag til fordeling av tilskudd 
 
 ### § 23. Unntak fra forskriften
 
-Medietilsynet kan gjøre unntak fra bestemmelser gitt i eller med hjemmel i denne forskriften for medier som allerede mottar tilskudd dersomdet er nødvendig for å opprettholde konkurransen på utgiverstedet,det er nødvendig for å sikre driften av et nyhets- og aktualitetsmedium i et marked som er for lite til å være bærekraftig.
+Medietilsynet kan gjøre unntak fra bestemmelser gitt i eller med hjemmel i denne forskriften for medier som allerede mottar tilskudd dersom
+
+1. det er nødvendig for å opprettholde konkurransen på utgiverstedet,
+2. det er nødvendig for å sikre driften av et nyhets- og aktualitetsmedium i et marked som er for lite til å være bærekraftig.
 
 Medietilsynet kan ikke gjøre unntak fra [§ 1](forskrift/2022-12-08-2117/§1), [§ 2](forskrift/2022-12-08-2117/§2), [§ 5](forskrift/2022-12-08-2117/§5) første ledd bokstav a til c, [§ 8](forskrift/2022-12-08-2117/§8) andre og tredje ledd, [kapittel 4](forskrift/2022-12-08-2117/kap4) og [kapittel 6](forskrift/2022-12-08-2117/kap6).
 
@@ -222,7 +292,11 @@ Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves [forskrift
 
 ### § 27. Overgangsregel
 
-Den som har mottatt tilskudd etter [forskrift 25. mars 2014 nr. 332 om produksjonstilskudd til nyhets- og aktualitetsmedier](forskrift/2014-03-25-332), og oppfyller vilkårene i forskriften her, kan få tilskudd:i 2023 beregnet med 2/3 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.i 2024 beregnet med 1/2 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.i 2025 beregnet med 1/3 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.
+Den som har mottatt tilskudd etter [forskrift 25. mars 2014 nr. 332 om produksjonstilskudd til nyhets- og aktualitetsmedier](forskrift/2014-03-25-332), og oppfyller vilkårene i forskriften her, kan få tilskudd:
+
+1. i 2023 beregnet med 2/3 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.
+2. i 2024 beregnet med 1/2 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.
+3. i 2025 beregnet med 1/3 av tilskuddet de mottok i 2022 og det resterende etter denne forskriften.
 
 Tilskuddet beregnes etter første ledd når dette gir mediet mer i tilskudd enn når tilskuddet beregnes etter [§ 12](forskrift/2022-12-08-2117/§12) og [§ 13](forskrift/2022-12-08-2117/§13). Bestemmelsene i [§ 14](forskrift/2022-12-08-2117/§14), [§ 15](forskrift/2022-12-08-2117/§15) og [§ 16](forskrift/2022-12-08-2117/§16) gjelder uansett.
 

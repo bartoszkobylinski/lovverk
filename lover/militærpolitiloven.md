@@ -15,7 +15,7 @@ xml_hash: "994428f394a0225cea0ea44bd15199bc6f60dac72027150f25d40a39fce36fd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,12 @@ Loven skal ivareta Forsvarets behov for sikkerhet, disiplin, ro og orden. Den sk
 
 ### § 4. Hvem som har militær politimyndighet, hvor og overfor hvem den gjelder
 
-(1) Militærpoliti, befal, offiserer og militære vakter har militær politimyndighet overfor enhver sombefinner seg på militært områdebefinner seg i et område som er i umiddelbar nærhet til militært område, når det er nødvendig for å beskytte formål som angitt i § 1befinner seg i et forbudsområde etter [sikkerhetsloven § 7-5](lov/2018-06-01-24/§7-5) eller på annet sted der adgang er forbudt eller begrenset etter [sikkerhetsloven § 7-5 bokstav a](lov/2018-06-01-24/§7-5/bokstav/a) til c, dersom forbudet er fastsatt av forsvarshensynopptrer i strid med forbud gitt i medhold av [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88), dersom forbudet er fastsatt av forsvarshensyn.
+(1) Militærpoliti, befal, offiserer og militære vakter har militær politimyndighet overfor enhver som
+
+1. befinner seg på militært område
+2. befinner seg i et område som er i umiddelbar nærhet til militært område, når det er nødvendig for å beskytte formål som angitt i § 1
+3. befinner seg i et forbudsområde etter [sikkerhetsloven § 7-5](lov/2018-06-01-24/§7-5) eller på annet sted der adgang er forbudt eller begrenset etter [sikkerhetsloven § 7-5 bokstav a](lov/2018-06-01-24/§7-5/bokstav/a) til c, dersom forbudet er fastsatt av forsvarshensyn
+4. opptrer i strid med forbud gitt i medhold av [lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88), dersom forbudet er fastsatt av forsvarshensyn.
 
 (2) Utenfor områdene som følger av første ledd, har militærpolitiet militær politimyndighet overfor personer som kan ilegges refselse etter [forsvarsloven](lov/2016-08-12-77), og overfor utenlandsk militært personell og følgepersonell til den utenlandske styrken.
 
@@ -58,7 +63,14 @@ Loven skal ivareta Forsvarets behov for sikkerhet, disiplin, ro og orden. Den sk
 
 ### § 5. Militært område og umiddelbar nærhet til militært område
 
-(1) Med militært område meneset område som Forsvaret har rådighet over og som ved kunngjøring, skilting, inngjerding eller på annen måte er angitt som militært områdeet område der det under feltøvelser eller militære operasjoner etableres leir, bivuakk, stilling, kommandoplass, logistikkpunkt eller lignendemilitært fartøy, luftfartøy, kjøretøy eller annet transportmiddelsivilt eid fartøy, luftfartøy, kjøretøy eller annet transportmiddel som i sin helhet disponeres av Forsvaret til militære formålet område som er erklært som midlertidig militært område etter andre leddet område eller et objekt som sikres av militære styrker når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare.
+(1) Med militært område menes
+
+1. et område som Forsvaret har rådighet over og som ved kunngjøring, skilting, inngjerding eller på annen måte er angitt som militært område
+2. et område der det under feltøvelser eller militære operasjoner etableres leir, bivuakk, stilling, kommandoplass, logistikkpunkt eller lignende
+3. militært fartøy, luftfartøy, kjøretøy eller annet transportmiddel
+4. sivilt eid fartøy, luftfartøy, kjøretøy eller annet transportmiddel som i sin helhet disponeres av Forsvaret til militære formål
+5. et område som er erklært som midlertidig militært område etter andre ledd
+6. et område eller et objekt som sikres av militære styrker når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare.
 
 (2) Departementet kan erklære et midlertidig militært område etter første ledd bokstav e når det er nødvendig og forholdsmessig av hensyn til rikets sikkerhet, beredskap, forsvarshensyn eller for å legge til rette for sikkerheten under militære operasjoner og øvelser. Departementet fastsetter i forskrift nærmere regler om erklæring av midlertidige militære områder, herunder unntak fra [forvaltningslovens kapittel VII](lov/1967-02-10/kapVII) om forhåndsvarsling og kunngjøring.
 
@@ -108,13 +120,21 @@ Loven skal ivareta Forsvarets behov for sikkerhet, disiplin, ro og orden. Den sk
 
 ### § 10. Håndhevelse av militær politimyndighet
 
-(1) Personell med militær politimyndighet kan gripe inn på et sted eller overfor en person eller virksomhet som angitt i § 4 for åstanse forstyrrelser av ro og orden eller når omstendighetene gir grunn til å frykte slike forstyrrelseropprettholde eller gjenopprette den militære disiplinenivareta enkeltpersoners eller Forsvarets sikkerhetavverge eller stanse lovbrudd.
+(1) Personell med militær politimyndighet kan gripe inn på et sted eller overfor en person eller virksomhet som angitt i § 4 for å
+
+1. stanse forstyrrelser av ro og orden eller når omstendighetene gir grunn til å frykte slike forstyrrelser
+2. opprettholde eller gjenopprette den militære disiplinen
+3. ivareta enkeltpersoners eller Forsvarets sikkerhet
+4. avverge eller stanse lovbrudd.
 
 (2) Ved håndhevelse etter første ledd kan personell med militær politimyndighet blant annet regulere ferdselen, forby eller begrense opphold i bestemte områder, visitere person, bagasje eller transportmiddel, uskadeliggjøre eller ta farlige gjenstander i forvaring, avvise, bortvise, fjerne eller anholde personer eller påby aktivitet eller virksomhet stanset, endret eller fjernet.
 
 ### § 11. Vilkår for bruk av skytevåpen under utøvelse av militær politimyndighet
 
-(1) Skytevåpen kan brukes under utøvelse av militær politimyndighet når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvorpersonell med militær politimyndighet selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskadedet anses påkrevd å pågripe eller stanse person som anses som særlig farlig for menneskers liv eller helse, eller som alvorlig truer rikets sikkerhet, forsvar, beredskap eller grunnleggende nasjonale interesser.
+(1) Skytevåpen kan brukes under utøvelse av militær politimyndighet når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvor
+
+1. personell med militær politimyndighet selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade
+2. det anses påkrevd å pågripe eller stanse person som anses som særlig farlig for menneskers liv eller helse, eller som alvorlig truer rikets sikkerhet, forsvar, beredskap eller grunnleggende nasjonale interesser.
 
 (2) I situasjoner som nevnt i første ledd kan skytevåpen også brukes til å forstyrre eller avlede en gjerningsperson.
 
@@ -132,7 +152,13 @@ Den som rettsstridig forlater, blir borte fra eller unnlater å møte opp et ste
 
 ### § 14. Innbringelse
 
-(1) Personell med militær politimyndighet kan innbringe til et egnet lokale den somikke etterkommer pålegg fra personell med militær politimyndighet om å fjerne seg fra et sted som nevnt i § 4 første ledd når omstendighetene gir rimelig grunn til å frykte for forstyrrelse av sikkerheten, den alminnelige ro og orden eller den lovlige ferdselpå et sted som nevnt i § 4 første ledd ikke oppgir navn, fødselsdato, stilling og bopel når personell med militær politimyndighet forlanger det, eller som gir slike opplysninger som det er grunn til å tvile på riktigheten avuten lovlig adgang treffes på sted underlagt adgangsrestriksjoner eller adgangsforbud og bortvisning ikke anses tilstrekkeligtreffes på eller ved et sted der det må antas å være begått et lovbrudd umiddelbart forutforstyrrer offentlig ro eller orden utenfor militært område og dets umiddelbare nærhet, dersom vedkommende er militært personell i tjeneste, på reise til eller fra tjeneste, eller som er iført militær uniform på offentlig sted.
+(1) Personell med militær politimyndighet kan innbringe til et egnet lokale den som
+
+1. ikke etterkommer pålegg fra personell med militær politimyndighet om å fjerne seg fra et sted som nevnt i § 4 første ledd når omstendighetene gir rimelig grunn til å frykte for forstyrrelse av sikkerheten, den alminnelige ro og orden eller den lovlige ferdsel
+2. på et sted som nevnt i § 4 første ledd ikke oppgir navn, fødselsdato, stilling og bopel når personell med militær politimyndighet forlanger det, eller som gir slike opplysninger som det er grunn til å tvile på riktigheten av
+3. uten lovlig adgang treffes på sted underlagt adgangsrestriksjoner eller adgangsforbud og bortvisning ikke anses tilstrekkelig
+4. treffes på eller ved et sted der det må antas å være begått et lovbrudd umiddelbart forut
+5. forstyrrer offentlig ro eller orden utenfor militært område og dets umiddelbare nærhet, dersom vedkommende er militært personell i tjeneste, på reise til eller fra tjeneste, eller som er iført militær uniform på offentlig sted.
 
 (2) Innbrakte personer som er uten tilknytning til Forsvaret, skal overlates til politiet omgående dersom bortvisning ikke er tilstrekkelig.
 
@@ -188,7 +214,13 @@ Den som rettsstridig forlater, blir borte fra eller unnlater å møte opp et ste
 
 ### § 19. Militær inspeksjon
 
-(1) For å forebygge hendelser som kan true sikkerheten og for å opprettholde ro, orden og disiplin kan personell med militær politimyndighet, uten at det foreligger konkret mistanke mot enkeltpersoner om lovbrudd, gjennomføre inspeksjon av følgende:militære forlegninger og ethvert rom på militært områdemilitære transportmidlerkjøretøy, luftfartøy eller fartøy ved inn- og utpassering av militært område eller som befinner seg på militært områdepersoner ved inn- og utpassering eller personer som befinner seg på militært områdegjenstander, vesker og lignende som bringes inn eller ut av militært område eller som befinner seg på militært område.
+(1) For å forebygge hendelser som kan true sikkerheten og for å opprettholde ro, orden og disiplin kan personell med militær politimyndighet, uten at det foreligger konkret mistanke mot enkeltpersoner om lovbrudd, gjennomføre inspeksjon av følgende:
+
+1. militære forlegninger og ethvert rom på militært område
+2. militære transportmidler
+3. kjøretøy, luftfartøy eller fartøy ved inn- og utpassering av militært område eller som befinner seg på militært område
+4. personer ved inn- og utpassering eller personer som befinner seg på militært område
+5. gjenstander, vesker og lignende som bringes inn eller ut av militært område eller som befinner seg på militært område.
 
 (2) Kontroll av en person kan også omfatte kroppsvisitasjon som innebærer en ytre inspeksjon av en persons kropp med formål å avdekke gjenstander som er plassert utenpå kroppen, eller som er gjemt i klærne.
 
@@ -222,7 +254,15 @@ Med militære etterforskere menes etterforskere ved militærpolitiets spesialise
 
 ### § 22. Hva militære etterforskere kan etterforske
 
-(1) Militære etterforskere kan etterforskeovertredelser av loven her, [militær straffelov](lov/1902-05-22-13) og [forsvarsloven](lov/2016-08-12-77)andre lovbrudd som bestemt av riksadvokaten dersom lovbruddet er begått i tjenesten eller i anledning tjenestenpå militært områdeoverfor militært personellmot eller ved bruk av militært materiell.andre lovbrudd etter beslutning fra påtalemyndigheten.
+(1) Militære etterforskere kan etterforske
+
+1. overtredelser av loven her, [militær straffelov](lov/1902-05-22-13) og [forsvarsloven](lov/2016-08-12-77)
+2. andre lovbrudd som bestemt av riksadvokaten dersom lovbruddet er begått i tjenesten eller i anledning tjenesten
+
+   1. på militært område
+   2. overfor militært personell
+   3. mot eller ved bruk av militært materiell.
+3. andre lovbrudd etter beslutning fra påtalemyndigheten.
 
 (2) Militære etterforskere kan også foreta innledende etterforskningsskritt for å hindre at bevis går tapt ved ethvert annet lovbrudd som er begått på et sted eller av en person som nevnt i § 4 første ledd.
 
@@ -258,7 +298,11 @@ Befal og offiserer kan foreta bevissikring og innledende undersøkelser når på
 
 (3) Utenfor områder som nevnt i andre ledd skal slik militærpolitimyndighet bare anvendes etter avtale med og i samarbeid med norske myndigheter, og bare så langt det er nødvendig for å opprettholde disiplin og orden blant styrkens medlemmer.
 
-(4) Følgende beføyelser kan tildeles utenlandske styrker etter vedtak fattet av Forsvarsdepartementet:Utenfor militært område og dettes umiddelbare nærhet kan utenlandsk militærpoliti få tildelt adgang til å dirigere trafikk som del av en flernasjonal militærpolitistyrke, som ledes av norsk militærpoliti og er i et underordnet kommandoforhold til disse.Etter anmodning fra politiet kan militær politimyndighet tildeles utenlandsk militærpoliti, befal og militære vakter i fredstid, for å forestå vakthold på definerte objekter under ledelse av norsk militærpoliti.Besøkende styrkers militærpoliti, befal og militære vakter kan bortvise personer som er til hinder for lovlige militære besøk, operasjoner, eller øvelser.
+(4) Følgende beføyelser kan tildeles utenlandske styrker etter vedtak fattet av Forsvarsdepartementet:
+
+1. Utenfor militært område og dettes umiddelbare nærhet kan utenlandsk militærpoliti få tildelt adgang til å dirigere trafikk som del av en flernasjonal militærpolitistyrke, som ledes av norsk militærpoliti og er i et underordnet kommandoforhold til disse.
+2. Etter anmodning fra politiet kan militær politimyndighet tildeles utenlandsk militærpoliti, befal og militære vakter i fredstid, for å forestå vakthold på definerte objekter under ledelse av norsk militærpoliti.
+3. Besøkende styrkers militærpoliti, befal og militære vakter kan bortvise personer som er til hinder for lovlige militære besøk, operasjoner, eller øvelser.
 
 ## Kapittel 8. Forskrifter, ikrafttredelse og endringer i andre lover
 

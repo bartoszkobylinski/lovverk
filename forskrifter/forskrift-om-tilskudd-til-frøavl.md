@@ -15,7 +15,7 @@ xml_hash: "01b71d911f4bb80525bc1ef6d0a630cdb9a2f6e7266e67a0351abba3c57022d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Denne forskriften gjelder norsk avl av frø og stikkløk og overlagring av frø 
 
 ### § 3. Virksomheter som er omfattet av tilskuddsordningen
 
-Det kan gis tilskudd til følgende virksomheter:Foretak som avler sertifisert såvare av gras og engbelgvekster, og foretak som avler såvare av grønnsaker og rotvekster. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i [forskrift 13. september 1999 nr. 1052 om såvarer](forskrift/1999-09-13-1052), og at avlen skjer på kontrakt med en såvareforretning. Det gis for slike såvarer ikke tilskudd til avl av bevaringsverdige sorter og naturfrøblandinger.Foretak som avler økologisk stikkløk. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i [forskrift 1. desember 2000 nr. 1333 om planter og tiltak mot planteskadegjørere](forskrift/2000-12-01-1333), og at avlen skjer på kontrakt med en såvareforretning.Såvareforretninger som overlagrer frø av gras, engbelgvekster, rotvekster og grønnsaker. Det er et vilkår at såvareforretningen oppfyller kravene i [forskrift om såvarer](forskrift/1999-09-13-1052).Foretak som avler naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i [vedlegg 2](forskrift/2016-12-12-1567/vedlegg2). Det er et vilkår for tilskudd at avlen skjer på kontrakt med en såvareforretning. Det kan også gis tilskudd til såvareforretninger som overlagrer naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i [vedlegg 2](forskrift/2016-12-12-1567/vedlegg2) i forskriften.
+Det kan gis tilskudd til følgende virksomheter:
+
+1. Foretak som avler sertifisert såvare av gras og engbelgvekster, og foretak som avler såvare av grønnsaker og rotvekster. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i [forskrift 13. september 1999 nr. 1052 om såvarer](forskrift/1999-09-13-1052), og at avlen skjer på kontrakt med en såvareforretning. Det gis for slike såvarer ikke tilskudd til avl av bevaringsverdige sorter og naturfrøblandinger.
+2. Foretak som avler økologisk stikkløk. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i [forskrift 1. desember 2000 nr. 1333 om planter og tiltak mot planteskadegjørere](forskrift/2000-12-01-1333), og at avlen skjer på kontrakt med en såvareforretning.
+3. Såvareforretninger som overlagrer frø av gras, engbelgvekster, rotvekster og grønnsaker. Det er et vilkår at såvareforretningen oppfyller kravene i [forskrift om såvarer](forskrift/1999-09-13-1052).
+4. Foretak som avler naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i [vedlegg 2](forskrift/2016-12-12-1567/vedlegg2). Det er et vilkår for tilskudd at avlen skjer på kontrakt med en såvareforretning. Det kan også gis tilskudd til såvareforretninger som overlagrer naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i [vedlegg 2](forskrift/2016-12-12-1567/vedlegg2) i forskriften.
 
 > Endret ved forskrift [29 juni 2022 nr. 1249](forskrift/2022-06-29-1249) (i kraft 1 juli 2022).
 

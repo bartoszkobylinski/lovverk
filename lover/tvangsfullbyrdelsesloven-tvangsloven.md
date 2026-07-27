@@ -102,7 +102,12 @@ Med en persons alminnelige verneting menes i denne loven den rettskrets eller de
 
 ### § 1-9. Hvor visse formuesgoder skal anses for å være
 
-Når reglene i denne loven lar det være avgjørende hvor et formuesgode er, gjelder følgende regler for andre rettigheter enn eiendomsrett til legemlige gjenstander:Et krav som gjelder bruksrett eller servitutt over en fast eiendom, anses for å være der eiendommen ligger. Ligger rettigheten til en annen fast eiendom, anses den for å være der den andre eiendommen ligger.Et krav som gjelder bruksrett eller servitutt over løsøre, anses for å være både der løsøregjenstanden er og der rettighetshaveren har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses kravet dessuten for å være der eieren av løsøret har alminnelig verneting.Et krav som er knyttet til verdipapir, anses for å være der verdipapiret er.Et krav av annen art anses for å være der kravshaveren har alminnelig verneting. Dersom kravshaveren ikke har alminnelig verneting i riket, anses et krav som en bestemt person er forpliktet til å oppfylle, for å være der den forpliktede har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses en immaterialrettighet som er registrert i et særskilt register, for å være der den registrerte fullmektig har alminnelig verneting. Finnes ingen registrert fullmektig med alminnelig verneting i riket, anses immaterialrettigheten for å være der registeret føres.
+Når reglene i denne loven lar det være avgjørende hvor et formuesgode er, gjelder følgende regler for andre rettigheter enn eiendomsrett til legemlige gjenstander:
+
+1. Et krav som gjelder bruksrett eller servitutt over en fast eiendom, anses for å være der eiendommen ligger. Ligger rettigheten til en annen fast eiendom, anses den for å være der den andre eiendommen ligger.
+2. Et krav som gjelder bruksrett eller servitutt over løsøre, anses for å være både der løsøregjenstanden er og der rettighetshaveren har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses kravet dessuten for å være der eieren av løsøret har alminnelig verneting.
+3. Et krav som er knyttet til verdipapir, anses for å være der verdipapiret er.
+4. Et krav av annen art anses for å være der kravshaveren har alminnelig verneting. Dersom kravshaveren ikke har alminnelig verneting i riket, anses et krav som en bestemt person er forpliktet til å oppfylle, for å være der den forpliktede har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses en immaterialrettighet som er registrert i et særskilt register, for å være der den registrerte fullmektig har alminnelig verneting. Finnes ingen registrert fullmektig med alminnelig verneting i riket, anses immaterialrettigheten for å være der registeret føres.
 
 > Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127).
 
@@ -206,7 +211,12 @@ Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett
 
 ### § 2-11. Utelukkelse fra å kjøpe ved tvangssalg
 
-Utelukket fra å kjøpe selv eller opptre som fullmektig for kjøper er:ved tvangssalg gjennom tingretten; tingrettens ansatte,ved tvangssalg gjennom namsfogden; namsfogdens og tingrettens ansatte,medhjelper ved et tvangssalg og dennes ansatte, ogrettsvitne ved et auksjonssalg.
+Utelukket fra å kjøpe selv eller opptre som fullmektig for kjøper er:
+
+1. ved tvangssalg gjennom tingretten; tingrettens ansatte,
+2. ved tvangssalg gjennom namsfogden; namsfogdens og tingrettens ansatte,
+3. medhjelper ved et tvangssalg og dennes ansatte, og
+4. rettsvitne ved et auksjonssalg.
 
 > Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
@@ -226,7 +236,14 @@ Om rettsmidler mot rettens avgjørelser gjelder [tvisteloven sjette del og kapit
 
 ### § 2-14. Kommunens namskompetanse
 
-En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har påeiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).besøksbidrag og tvangsmulkt etter [besøksbidragsloven](lov/2025-06-20-104).
+En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har på
+
+1. eiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)
+2. vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)
+3. gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)
+4. avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)
+5. gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).
+6. besøksbidrag og tvangsmulkt etter [besøksbidragsloven](lov/2025-06-20-104).
 
 > Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [20 juni 2025 nr. 104](lov/2025-06-20-104) (i kraft 1 juli 2026 iflg. [res. 20 mars 2026 nr. 445](forskrift/2026-03-20-445)).
 
@@ -272,7 +289,13 @@ Både kommunen og skyldneren kan påklage namsfogdens avgjørelser i samsvar med
 
 Dersom saksøkeren krever det, skal saksøkte erstatte saksøkerens sakskostnader i en sak om tvangsfullbyrdelse så langt saken og kostnadene har vært nødvendige. Hvis utlegg blir tatt eller tvangsdekning blir gjennomført, skal sakskostnadene fastsettes og inndrives sammen med kravet. I andre tilfeller fastsettes kostnadsansvaret innen fullbyrdelsen avsluttes. Avgjørelse av kostnadsansvaret har tvangskraft. Avgjørelsen skjer ved kjennelse hvis den treffes av tingretten. Saksøkeren kan ikke sette fram krav om erstatning for sakskostnader på annen måte enn etter denne paragrafen. Kongen kan ved forskrift fastsette maksimalsatser for saksøktes kostnadsansvar.
 
-Saksøkte plikter ikke å erstatte saksøkerens sakskostnader:dersom saken nektes fremmet på grunn av forhold som saksøkeren kjente eller burde ha kjent til før den ble innledet,dersom saken heves fordi tvangsgrunnlaget oppheves eller kjennes ugyldig,dersom saken heves fordi en beslutning om foregrepet tvangskraft oppheves,dersom en sak om tvangsdekning heves fordi kostnadene vil overstige det som vil komme inn ved dekningen, forutsatt at saksøkeren da begjæringen ble satt fram burde ha skjønt at fullbyrdelsen ikke kunne gjennomføres, ellerdersom en sak om tvangsdekning heves på grunn av forholdet til bedre prioriterte rettighetshavere, forutsatt at saksøkeren da begjæringen ble satt fram burde ha skjønt at fullbyrdelsen ikke kunne gjennomføres.
+Saksøkte plikter ikke å erstatte saksøkerens sakskostnader:
+
+1. dersom saken nektes fremmet på grunn av forhold som saksøkeren kjente eller burde ha kjent til før den ble innledet,
+2. dersom saken heves fordi tvangsgrunnlaget oppheves eller kjennes ugyldig,
+3. dersom saken heves fordi en beslutning om foregrepet tvangskraft oppheves,
+4. dersom en sak om tvangsdekning heves fordi kostnadene vil overstige det som vil komme inn ved dekningen, forutsatt at saksøkeren da begjæringen ble satt fram burde ha skjønt at fullbyrdelsen ikke kunne gjennomføres, eller
+5. dersom en sak om tvangsdekning heves på grunn av forholdet til bedre prioriterte rettighetshavere, forutsatt at saksøkeren da begjæringen ble satt fram burde ha skjønt at fullbyrdelsen ikke kunne gjennomføres.
 
 Når en sak nektes fremmet i andre tilfeller enn nevnt i annet ledd, kan saksøkte helt eller delvis fritas for å erstatte saksøkerens sakskostnader.
 
@@ -296,7 +319,10 @@ Krav om sakskostnader etter denne paragrafen må settes fram innen tre måneder 
 
 ### § 3-4. Sikkerhetsstillelse
 
-I saker om tvangsfullbyrdelse godtas som sikkerhet:Innskudd i norsk bank. Det må legges fram erklæring fra banken om innskuddet og om at det ikke kan disponeres uten etter samtykke fra vedkommende namsmyndighet.Selvskyldnergaranti fra norsk bank eller annet foretak med rett til å drive finansieringsvirksomhet etter [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1). Garantien må være en ubetinget selvskyldnergaranti uten tidsbegrensning og stilt overfor vedkommende namsmyndighet.
+I saker om tvangsfullbyrdelse godtas som sikkerhet:
+
+1. Innskudd i norsk bank. Det må legges fram erklæring fra banken om innskuddet og om at det ikke kan disponeres uten etter samtykke fra vedkommende namsmyndighet.
+2. Selvskyldnergaranti fra norsk bank eller annet foretak med rett til å drive finansieringsvirksomhet etter [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1). Garantien må være en ubetinget selvskyldnergaranti uten tidsbegrensning og stilt overfor vedkommende namsmyndighet.
 
 Sikkerhet kan ombyttes i annen sikkerhet.
 
@@ -322,7 +348,16 @@ Dersom en saksøkt har stilt sikkerhet for å avverge tvangsfullbyrdelse, kan si
 
 Tvangsfullbyrdelse av et krav kan bare begjæres når det foreligger et alminnelig eller et særlig tvangsgrunnlag for kravet, og dette tvangsgrunnlaget er tvangskraftig.
 
-De alminnelige tvangsgrunnlagene er:dom eller kjennelse av en norsk domstol, og andre avgjørelser av en norsk domstol som har virkning som dom eller kjennelse, eller som avgjør krav om erstatning for sakskostnader,avgjørelse av en annen norsk myndighet som har virkning som dom,vedtatt forelegg etter [straffeprosessloven kapittel 20](lov/1981-05-22-25/kap20),voldgiftsdom etter voldgiftsloven og avgjørelser som ellers er tvangskraftige etter [voldgiftsloven § 39](lov/2004-05-14-25/§39),rettsforlik for norsk domstol og stadfestet forlik etter [voldgiftsloven § 35](lov/2004-05-14-25/§35),avgjørelse av utenlandsk domstol eller annen utenlandsk myndighet, utenlandsk offentlig forlik og voldgiftsdom, som etter lov eller overenskomst med fremmed stat vil være bindende og skal kunne fullbyrdes her i riket,avgjørelse av utenlandsk domstol som vil være bindende her i riket etter [tvisteloven § 19-16](lov/2005-06-17-90/§19-16) annet og tredje ledd,avgjørelse av internasjonal domstol eller av annen internasjonal myndighet, og forlik inngått for slike domstoler og myndigheter, som etter overenskomst med fremmed stat1 skal kunne fullbyrdes her i riket.
+De alminnelige tvangsgrunnlagene er:
+
+1. dom eller kjennelse av en norsk domstol, og andre avgjørelser av en norsk domstol som har virkning som dom eller kjennelse, eller som avgjør krav om erstatning for sakskostnader,
+2. avgjørelse av en annen norsk myndighet som har virkning som dom,
+3. vedtatt forelegg etter [straffeprosessloven kapittel 20](lov/1981-05-22-25/kap20),
+4. voldgiftsdom etter voldgiftsloven og avgjørelser som ellers er tvangskraftige etter [voldgiftsloven § 39](lov/2004-05-14-25/§39),
+5. rettsforlik for norsk domstol og stadfestet forlik etter [voldgiftsloven § 35](lov/2004-05-14-25/§35),
+6. avgjørelse av utenlandsk domstol eller annen utenlandsk myndighet, utenlandsk offentlig forlik og voldgiftsdom, som etter lov eller overenskomst med fremmed stat vil være bindende og skal kunne fullbyrdes her i riket,
+7. avgjørelse av utenlandsk domstol som vil være bindende her i riket etter [tvisteloven § 19-16](lov/2005-06-17-90/§19-16) annet og tredje ledd,
+8. avgjørelse av internasjonal domstol eller av annen internasjonal myndighet, og forlik inngått for slike domstoler og myndigheter, som etter overenskomst med fremmed stat1 skal kunne fullbyrdes her i riket.
 
 Når krav på erstatning for sakskostnader i rettergang er fastsatt i et alminnelig tvangsgrunnlag etter annet ledd bokstav a, b, d og e, omfatter grunnlaget også forsinkelsesrente av kravet etter forsinkelsesrenteloven.
 
@@ -338,7 +373,10 @@ Særlige tvangsgrunnlag er tvangsgrunnlagene nevnt i [§§ 7-2](lov/1992-06-26-8
 
 ### § 4-2. Innvendinger mot tvangsgrunnlaget
 
-Mot et alminnelig tvangsgrunnlag kan det under tvangsfullbyrdelsen ikke settes fram andre innvendinger enn atgrunnlaget ikke skriver seg fra en domstol eller en annen instans som kan fatte en avgjørelse av den aktuelle art,grunnlaget er tvetydig eller selvmotsigende, eller at det for øvrig på grunn av sitt innhold ikke kan fullbyrdes.
+Mot et alminnelig tvangsgrunnlag kan det under tvangsfullbyrdelsen ikke settes fram andre innvendinger enn at
+
+1. grunnlaget ikke skriver seg fra en domstol eller en annen instans som kan fatte en avgjørelse av den aktuelle art,
+2. grunnlaget er tvetydig eller selvmotsigende, eller at det for øvrig på grunn av sitt innhold ikke kan fullbyrdes.
 
 Mot et krav som er fastslått i et alminnelig tvangsgrunnlag kan det bare gjøres gjeldende innvendinger som støtter seg til omstendigheter som er oppstått så sent at de ikke kunne ha vært påberopt før avgjørelsen.
 
@@ -446,7 +484,13 @@ Et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1](lov/1992-06-26-86/§4-1) annet
 
 Et særlig tvangsgrunnlag kan begjæres tvangsfullbyrdet når to uker er gått etter at saksøkeren har sendt skriftlig varsel til saksøkte. I varselet, som tidligst kan sendes på forfallsdagen, skal det gjøres oppmerksom på at fullbyrdelse vil bli begjært dersom kravet ikke blir oppfylt.
 
-Varsel kan unnlates dersomsaksøkte ikke har kjent oppholdssted,saksøkte ikke har kjent fullmektig med kjent oppholdssted som kan motta varsel på saksøktes vegne, ogsaksøkte og fullmektig heller ikke har kjent kontaktinformasjon for elektronisk varsling som nevnt i [§ 1-10](lov/1992-06-26-86/§1-10) annet ledd.Namsmyndigheten kan frita saksøkeren for varslingsplikten dersom det er grunn til å frykte at fullbyrdelsen ellers ville bli vanskeliggjort. Er det urimelig å kreve at saksøker skal varsle elektronisk, har kjent kontaktinformasjon som nevnt i første punktum bokstav c ikke betydning.
+Varsel kan unnlates dersom
+
+1. saksøkte ikke har kjent oppholdssted,
+2. saksøkte ikke har kjent fullmektig med kjent oppholdssted som kan motta varsel på saksøktes vegne, og
+3. saksøkte og fullmektig heller ikke har kjent kontaktinformasjon for elektronisk varsling som nevnt i [§ 1-10](lov/1992-06-26-86/§1-10) annet ledd.
+
+Namsmyndigheten kan frita saksøkeren for varslingsplikten dersom det er grunn til å frykte at fullbyrdelsen ellers ville bli vanskeliggjort. Er det urimelig å kreve at saksøker skal varsle elektronisk, har kjent kontaktinformasjon som nevnt i første punktum bokstav c ikke betydning.
 
 Unnlates varsel etter annet ledd, kan fullbyrdelse begjæres når to uker er gått fra forfallstiden.
 
@@ -476,7 +520,14 @@ Om prosessfullmektig gjelder [tvisteloven kapittel 3](lov/2005-06-17-90/kap3) ti
 
 ### § 5-2. Begjæring om tvangsfullbyrdelse
 
-Begjæring om tvangsfullbyrdelse skal inneholdeopplysning om hva slags tvangsfullbyrdelse som begjæres,saksøkerens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,saksøktes navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,dersom saksøkeren bruker prosessfullmektig, prosessfullmektigens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,bestemt betegnelse av kravet, og for pengekrav særskilt angivelse av hovedkrav og grunngitte tilleggskrav,bestemt betegnelse av tvangsgrunnlaget, og dessuten de opplysninger namsfogden ellers trenger for å avgjøre om det er adgang til å ta begjæringen til følge.
+Begjæring om tvangsfullbyrdelse skal inneholde
+
+1. opplysning om hva slags tvangsfullbyrdelse som begjæres,
+2. saksøkerens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,
+3. saksøktes navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,
+4. dersom saksøkeren bruker prosessfullmektig, prosessfullmektigens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,
+5. bestemt betegnelse av kravet, og for pengekrav særskilt angivelse av hovedkrav og grunngitte tilleggskrav,
+6. bestemt betegnelse av tvangsgrunnlaget, og dessuten de opplysninger namsfogden ellers trenger for å avgjøre om det er adgang til å ta begjæringen til følge.
 
 Privatpersoner kan i begjæringen unnlate å opplyse om saksøktes fødselsnummer eller d-nummer og kun opplyse om saksøktes fødselsdato.
 
@@ -532,7 +583,10 @@ Innvendinger kan settes ut av betraktning hvis de ikke blir satt fram så snart 
 
 Namsfogden kan pålegge partene å gi opplysninger eller legge fram bevis som kan ha betydning for tvangsfullbyrdelsen. Når et formuesgode er besluttet tvangssolgt, har saksøkte plikt til å gi slike opplysninger også etter forespørsel fra en medhjelper.
 
-Namsfogden kan pålegge enhver tredjeperson å gi opplysninger som kan ha betydning for tvangsfullbyrdelsen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger omkrav som saksøkte har eller har hatt mot dem, og om hvordan kravet har falt bortformuesgoder som saksøkte eier, og som de har eller har hatt i sin besittelse, og hvordan besittelsen opphørte.
+Namsfogden kan pålegge enhver tredjeperson å gi opplysninger som kan ha betydning for tvangsfullbyrdelsen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger om
+
+1. krav som saksøkte har eller har hatt mot dem, og om hvordan kravet har falt bort
+2. formuesgoder som saksøkte eier, og som de har eller har hatt i sin besittelse, og hvordan besittelsen opphørte.
 
 Opplysningsplikten om forhold som nevnt i annet ledd bokstav a og b gjelder uten hinder av taushetsplikt. [Tvisteloven kapittel 22](lov/2005-06-17-90/kap22) gjelder tilsvarende.
 
@@ -626,7 +680,13 @@ Etter at saken er avsluttet, kan saksøkeren påklage en beslutning om å nekte 
 
 ### § 5-17. Heving av sak
 
-En sak som er til behandling hos namsfogden skal heves:når saksøkte oppfyller saksøkerens krav, eller kravet på annen måte faller bort,når saksøkeren begjærer det, ognår tvangsgrunnlaget oppheves, faller bort eller kjennes ugyldig.En sak om tvangssalg kan likevel ikke heves etter at bindende salgsavtale er inngått, hvis ikke kjøperen samtykker. Etter at kjøperen har betalt kjøpesummen, kan saken ikke heves.
+En sak som er til behandling hos namsfogden skal heves:
+
+1. når saksøkte oppfyller saksøkerens krav, eller kravet på annen måte faller bort,
+2. når saksøkeren begjærer det, og
+3. når tvangsgrunnlaget oppheves, faller bort eller kjennes ugyldig.
+
+En sak om tvangssalg kan likevel ikke heves etter at bindende salgsavtale er inngått, hvis ikke kjøperen samtykker. Etter at kjøperen har betalt kjøpesummen, kan saken ikke heves.
 
 En sak om tvangsdekning eller om utlevering av løsøre eller verdipapir som er reist for kompetent namsfogd, skal heves dersom gjennomføringen er umulig fordi pantet eller gjenstanden ikke kan finnes, med mindre saken overføres til annen namsmyndighet etter [§ 5-5](lov/1992-06-26-86/§5-5).
 
@@ -742,7 +802,15 @@ Utlegg kan tas i ethvert formuesgode som tilhører saksøkte og som det etter [d
 
 ### § 7-2. Tvangsgrunnlag
 
-Tvangsgrunnlag for utlegg er foruten de alminnelige tvangsgrunnlagene:Gjeldsbrev som lyder på en bestemt pengesum og som inneholder vedtakelse av at gjelden kan inndrives uten søksmål. Gjeldsbrevet er tvangsgrunnlag overfor utstederen når vedkommendes underskrift er bekreftet av to myndige vitner eller i samsvar med forskrift gitt av Kongen. Gjeldsbrevet er også tvangsgrunnlag overfor enhver som ved påskrift på gjeldsbrevet har påtatt seg selvskyldneransvar ved en overdragelse eller stilt seg som selvskyldnerkausjonist eller som kausjonist på forfallsvilkår som nevnt i [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10), forutsatt at påskriften inneholder vedtakelse av inndriving uten søksmål, og at vedkommendes underskrift er bekreftet som nevnt ovenfor.Veksler for krav som nevnt i [vekselloven §§ 47](lov/1932-05-27-2/§47) til [49](lov/1932-05-27-2/§49) jf. [§ 77](lov/1932-05-27-2/§77).Sjekker for krav som nevnt i [sjekkloven §§ 44](lov/1932-05-27-3/§44) til [46](lov/1932-05-27-3/§46).Beslutning om tvangsmulkt, administrativ sanksjon eller disiplinærstraff truffet av offentlig myndighet med hjemmel i lov.Krav som etter særlig lovbestemmelse er tvangsgrunnlag for utlegg.Skriftlig meddelelse som fordringshaveren selv har sendt skyldneren og som viser kravets grunnlag og omfang.Elektronisk gjeldserklæring som lyder på en bestemt pengesum, når erklæringen er avgitt til foretak med rett til å drive finansieringsvirksomhet etter [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1) eller til institusjon som nevnt i [finansforetaksloven § 1-6 første ledd](lov/2015-04-10-17/§1-6/ledd/1), og erklæringen inneholder vedtakelse av at gjelden kan inndrives uten søksmål, samt elektronisk erklæring om kausjonsansvar som selvskyldner eller på forfallsvilkår som nevnt i [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10) for en slik forpliktelse når kausjonserklæringen er avgitt til foretak eller institusjon som nevnt og inneholder vedtakelse av inndrivelse uten søksmål.
+Tvangsgrunnlag for utlegg er foruten de alminnelige tvangsgrunnlagene:
+
+1. Gjeldsbrev som lyder på en bestemt pengesum og som inneholder vedtakelse av at gjelden kan inndrives uten søksmål. Gjeldsbrevet er tvangsgrunnlag overfor utstederen når vedkommendes underskrift er bekreftet av to myndige vitner eller i samsvar med forskrift gitt av Kongen. Gjeldsbrevet er også tvangsgrunnlag overfor enhver som ved påskrift på gjeldsbrevet har påtatt seg selvskyldneransvar ved en overdragelse eller stilt seg som selvskyldnerkausjonist eller som kausjonist på forfallsvilkår som nevnt i [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10), forutsatt at påskriften inneholder vedtakelse av inndriving uten søksmål, og at vedkommendes underskrift er bekreftet som nevnt ovenfor.
+2. Veksler for krav som nevnt i [vekselloven §§ 47](lov/1932-05-27-2/§47) til [49](lov/1932-05-27-2/§49) jf. [§ 77](lov/1932-05-27-2/§77).
+3. Sjekker for krav som nevnt i [sjekkloven §§ 44](lov/1932-05-27-3/§44) til [46](lov/1932-05-27-3/§46).
+4. Beslutning om tvangsmulkt, administrativ sanksjon eller disiplinærstraff truffet av offentlig myndighet med hjemmel i lov.
+5. Krav som etter særlig lovbestemmelse er tvangsgrunnlag for utlegg.
+6. Skriftlig meddelelse som fordringshaveren selv har sendt skyldneren og som viser kravets grunnlag og omfang.
+7. Elektronisk gjeldserklæring som lyder på en bestemt pengesum, når erklæringen er avgitt til foretak med rett til å drive finansieringsvirksomhet etter [finansforetaksloven § 2-1](lov/2015-04-10-17/§2-1) eller til institusjon som nevnt i [finansforetaksloven § 1-6 første ledd](lov/2015-04-10-17/§1-6/ledd/1), og erklæringen inneholder vedtakelse av at gjelden kan inndrives uten søksmål, samt elektronisk erklæring om kausjonsansvar som selvskyldner eller på forfallsvilkår som nevnt i [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10) for en slik forpliktelse når kausjonserklæringen er avgitt til foretak eller institusjon som nevnt og inneholder vedtakelse av inndrivelse uten søksmål.
 
 Tvangsgrunnlag som nevnt i første ledd bokstav a til g er også tvangsgrunnlag for utenrettslige inndrivingskostnader og renter med mindre annet følger av lov eller tvangsgrunnlaget.
 
@@ -752,7 +820,14 @@ Tvangsgrunnlag som nevnt i første ledd bokstav a til g er også tvangsgrunnlag 
 
 Begjæring om utlegg skal settes fram for namsfogden i det distriktet der saksøkte har alminnelig verneting.
 
-Med unntak for begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan en begjæring om utlegg også settes fram for namsfogden i et annet distrikt hvor saksøkte har formuesgoder når:det er sannsynlig at det ikke vil være tilstrekkelige eller hensiktsmessige formuesgoder til utlegg i det distrikt der saksøkte har alminnelig verneting,utlegg søkes i et formuesgode som saksøkeren har panterett eller tilbakeholdsrett i for sitt krav, og dette befinner seg i distriktet,saksøkte er næringsdrivende og har forretnings- eller driftssted i distriktet,saksøkte ikke har kjent alminnelig verneting i riket,saksøkte har samtykket etter at kravet ble misligholdt, ellertvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
+Med unntak for begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan en begjæring om utlegg også settes fram for namsfogden i et annet distrikt hvor saksøkte har formuesgoder når:
+
+1. det er sannsynlig at det ikke vil være tilstrekkelige eller hensiktsmessige formuesgoder til utlegg i det distrikt der saksøkte har alminnelig verneting,
+2. utlegg søkes i et formuesgode som saksøkeren har panterett eller tilbakeholdsrett i for sitt krav, og dette befinner seg i distriktet,
+3. saksøkte er næringsdrivende og har forretnings- eller driftssted i distriktet,
+4. saksøkte ikke har kjent alminnelig verneting i riket,
+5. saksøkte har samtykket etter at kravet ble misligholdt, eller
+6. tvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
 
 For saksøkte som ikke har kjent bopel i riket, og for saksøkte med adressesperre i Folkeregisteret, kan begjæring om utlegg settes fram for en namsfogd som Kongen har utpekt.
 
@@ -1018,7 +1093,11 @@ Den som har pant i lagrede reservedeler som omfattes av rettigheter i luftfartø
 
 ### § 8-2. Tvangsgrunnlag
 
-Grunnlag for tvangssalg etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:avtale om pant som har rettsvern etter [panteloven kapittel 3](lov/1980-02-08-2/kap3), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,utlegg som har rettsvern etter [panteloven kapittel 5](lov/1980-02-08-2/kap5), oglovbestemt panterett.
+Grunnlag for tvangssalg etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:
+
+1. avtale om pant som har rettsvern etter [panteloven kapittel 3](lov/1980-02-08-2/kap3), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,
+2. utlegg som har rettsvern etter [panteloven kapittel 5](lov/1980-02-08-2/kap5), og
+3. lovbestemt panterett.
 
 Grunnlag for særskilt tvangssalg av lagrede reservedeler som omfattes av rettigheter i luftfartøy, er grunnlagene som nevnes i [§ 11-2](lov/1992-06-26-86/§11-2).
 
@@ -1180,7 +1259,11 @@ For pantekrav som er knyttet til et verdipapir, skal det ikke utbetales del av k
 
 ### § 8-20. Mangler
 
-En mangel foreligger når:gjenstanden ikke svarer til opplysninger om vesentlige forhold som den som står for salget har gitt og som kan antas å ha innvirket på kjøpet,den som står for salget har forsømt å gi opplysning om vesentlige forhold som vedkommende måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, ellergjenstanden er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
+En mangel foreligger når:
+
+1. gjenstanden ikke svarer til opplysninger om vesentlige forhold som den som står for salget har gitt og som kan antas å ha innvirket på kjøpet,
+2. den som står for salget har forsømt å gi opplysning om vesentlige forhold som vedkommende måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, eller
+3. gjenstanden er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
 
 Dersom gjenstanden har mangler, kan kjøperen kreve prisavslag. Kjøperen kan ikke heve kjøpet på grunn av mangler etter at kjøpesummen er betalt. Erstatning kan bare kreves av den som står for salget dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav om prisavslag eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsfogden har sitt kontor, eller for den domstol som saken hører under etter tvisteloven. Ved søksmål om prisavslag saksøkes de som har fått del i den del av kjøpesummen som rammes av prisavslaget.
 
@@ -1300,7 +1383,12 @@ I namsboken skal det tas inn en kort redegjørelse for de forhold som har vært 
 
 ### § 9-8. Det økonomiske oppgjøret og tilbakeleveringen
 
-Saksøkeren kan ved tilbakeleveringen godskrive segden gjenstående del av kreditten (summen av kredittbeløpet og kredittkostnader),forsikringspremie som saksøkte plikter å betale, og som ikke inngår i kredittkjøpsprisen,rente som saksøkte plikter å betale ved forsinket betaling av forfalte beløp, ogde kostnader som er nødvendige for å få tingen tilbake.
+Saksøkeren kan ved tilbakeleveringen godskrive seg
+
+1. den gjenstående del av kreditten (summen av kredittbeløpet og kredittkostnader),
+2. forsikringspremie som saksøkte plikter å betale, og som ikke inngår i kredittkjøpsprisen,
+3. rente som saksøkte plikter å betale ved forsinket betaling av forfalte beløp, og
+4. de kostnader som er nødvendige for å få tingen tilbake.
 
 Dersom løsørets verdi er større enn saksøkerens krav, skal saksøkte ved tilbakeleveringen ha utbetalt forskjellen. Dersom løsørets verdi er mindre enn saksøkerens krav, kan saksøkeren kreve forskjellen.
 
@@ -1370,7 +1458,11 @@ For tvangsdekning i adkomstdokumenter til leierett eller borett til husrom gjeld
 
 ### § 10-2. Tvangsgrunnlag
 
-Grunnlag for tvangsdekning etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:avtale om pant som har rettsvern etter [panteloven kapittel 4](lov/1980-02-08-2/kap4), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,utlegg som har rettsvern etter [panteloven kapittel 5](lov/1980-02-08-2/kap5), oglovbestemt panterett som har rettsvern.
+Grunnlag for tvangsdekning etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:
+
+1. avtale om pant som har rettsvern etter [panteloven kapittel 4](lov/1980-02-08-2/kap4), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,
+2. utlegg som har rettsvern etter [panteloven kapittel 5](lov/1980-02-08-2/kap5), og
+3. lovbestemt panterett som har rettsvern.
 
 For utlegg etter første ledd bokstav b som er stiftet av namsmyndighetene, kan dekning begjæres uten forutgående varsel etter [§ 4-18](lov/1992-06-26-86/§4-18), men ikke før to uker etter at underretning om utlegget ble sendt saksøkte. Dersom tvangsgrunnlaget for utlegget er et alminnelig tvangsgrunnlag, må dessuten dette grunnlaget ha blitt rettskraftig. Selv om vilkårene ikke er oppfylt, kan dekning begjæres dersom fullbyrdelsen ellers ville bli vesentlig vanskeliggjort.
 
@@ -1512,7 +1604,13 @@ Tvangsbruk kan ikke gjennomføres for andel i borettslag og for akvakulturtillat
 
 ### § 11-2. Tvangsgrunnlag
 
-Grunnlag for tvangsdekning etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:registrert avtalepant, registrert skadesløsbrev likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,registrert utlegg,lovbestemt panterett for skatt eller avgifter til stat eller kommune, for sameiets krav etter sameieforholdet i seksjonssameier, lovbestemt pant etter [akvakulturloven § 20](lov/2005-06-17-79/§20), og for borettslagets krav etter andelslagsforholdet i borettslag,registrert lovbestemt panterett,registrert internasjonal sikkerhetsrett i mobilt løsøre, jf. lov om internasjonale sikkerhetsretter.
+Grunnlag for tvangsdekning etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:
+
+1. registrert avtalepant, registrert skadesløsbrev likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,
+2. registrert utlegg,
+3. lovbestemt panterett for skatt eller avgifter til stat eller kommune, for sameiets krav etter sameieforholdet i seksjonssameier, lovbestemt pant etter [akvakulturloven § 20](lov/2005-06-17-79/§20), og for borettslagets krav etter andelslagsforholdet i borettslag,
+4. registrert lovbestemt panterett,
+5. registrert internasjonal sikkerhetsrett i mobilt løsøre, jf. lov om internasjonale sikkerhetsretter.
 
 For utlegg etter første ledd bokstav b som er stiftet av namsmyndighetene, kan dekning begjæres uten forutgående varsel etter [§ 4-18](lov/1992-06-26-86/§4-18), men ikke før to uker etter at underretning om utlegget ble sendt saksøkte. Dersom tvangsgrunnlaget for utlegget er et alminnelig tvangsgrunnlag, må dessuten dette grunnlaget ha blitt rettskraftig. Selv om vilkårene ikke er oppfylt, kan dekning begjæres dersom fullbyrdelsen ellers ville bli vesentlig vanskeliggjort.
 
@@ -1760,7 +1858,14 @@ Unnlater saksøkeren å begjære stadfestelse i tide, eller oppgir saksøkeren e
 
 ### § 11-29. Foreleggelse av bud m m for rettighetshaverne og tingretten
 
-Dersom saksøkeren begjærer bud stadfestet, skal medhjelperen sende tingretten, partene, kjente rettighetshavere og bydere som har gitt bud som er begjært stadfestet, skriftlig melding med:opplysning om hvem som er saksøker og hvilket krav tvangssalget er begjært for,opplysning om hvilket bud som er begjært stadfestet og om det er stilt eller krevet sikkerhet for budet,gjenpart av salgsoppgaven,fortegnelse over heftelser som ikke er pengeheftelser og som skal settes til side,opplysning om hvorvidt høyere bud enn det som er begjært stadfestet, er avvist på grunn av manglende sikkerhet eller andre forhold, ogutkast til kjennelse om fordelingen av kjøpesummen.
+Dersom saksøkeren begjærer bud stadfestet, skal medhjelperen sende tingretten, partene, kjente rettighetshavere og bydere som har gitt bud som er begjært stadfestet, skriftlig melding med:
+
+1. opplysning om hvem som er saksøker og hvilket krav tvangssalget er begjært for,
+2. opplysning om hvilket bud som er begjært stadfestet og om det er stilt eller krevet sikkerhet for budet,
+3. gjenpart av salgsoppgaven,
+4. fortegnelse over heftelser som ikke er pengeheftelser og som skal settes til side,
+5. opplysning om hvorvidt høyere bud enn det som er begjært stadfestet, er avvist på grunn av manglende sikkerhet eller andre forhold, og
+6. utkast til kjennelse om fordelingen av kjøpesummen.
 
 I underretningen skal det opplyses om at innsigelser mot stadfestelse eller mot utkastet til fordelingskjennelse må være kommet fram til tingretten innen to uker fra avsendelsen av underretningen.
 
@@ -1772,7 +1877,14 @@ Dersom medhjelperen finner at et bud som bare er bindende i kort tid bør godtas
 
 Etter at fristen for å fremsette innvendinger mot stadfestelse er utløpt, skal tingretten ved kjennelse snarest mulig avgjøre om bud skal stadfestes.
 
-Retten skal nekte et bud stadfestet dersom:det er sannsynlig at fornyede salgsforsøk vil lede til større utbytte,budet ikke dekker samtlige heftelser med bedre prioritet enn saksøkerens krav,budet ikke er bindende for byderen etter alminnelige avtalerettslige regler,saksøkte har oppfylt saksøkerens krav, eller saken av annen grunn skal heves etter [§ 5-17](lov/1992-06-26-86/§5-17) jf [§ 6-1](lov/1992-06-26-86/§6-1),budet er inngitt i strid med [§ 2-11](lov/1992-06-26-86/§2-11),det foreligger en annen feil som ikke er avhjulpet og som ikke settes ut av betraktning etter [§ 5-6](lov/1992-06-26-86/§5-6) annet ledd, når feilen åpenbart har hatt betydning for salget.
+Retten skal nekte et bud stadfestet dersom:
+
+1. det er sannsynlig at fornyede salgsforsøk vil lede til større utbytte,
+2. budet ikke dekker samtlige heftelser med bedre prioritet enn saksøkerens krav,
+3. budet ikke er bindende for byderen etter alminnelige avtalerettslige regler,
+4. saksøkte har oppfylt saksøkerens krav, eller saken av annen grunn skal heves etter [§ 5-17](lov/1992-06-26-86/§5-17) jf [§ 6-1](lov/1992-06-26-86/§6-1),
+5. budet er inngitt i strid med [§ 2-11](lov/1992-06-26-86/§2-11),
+6. det foreligger en annen feil som ikke er avhjulpet og som ikke settes ut av betraktning etter [§ 5-6](lov/1992-06-26-86/§5-6) annet ledd, når feilen åpenbart har hatt betydning for salget.
 
 Nekter retten stadfestelse, skal saken heves dersom nektelsen skyldes forhold som ikke kan avhjelpes eller retten finner det klart at det ikke kan oppnås bud som dekker samtlige heftelser med bedre prioritet enn saksøkerens krav. Saken skal også heves dersom begjæringen om stadfestelse trekkes tilbake uten rimelig grunn.
 
@@ -1866,7 +1978,11 @@ For pantekrav som er knyttet til et verdipapir, skal det ikke utbetales del av k
 
 ### § 11-39. Mangler
 
-En mangel foreligger når:formuesgodet ikke svarer til opplysninger om vesentlige forhold som medhjelperen har gitt, og som kan antas å ha innvirket på kjøpet,medhjelperen har forsømt å gi opplysning om vesentlige forhold som denne måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, ellerformuesgodet er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
+En mangel foreligger når:
+
+1. formuesgodet ikke svarer til opplysninger om vesentlige forhold som medhjelperen har gitt, og som kan antas å ha innvirket på kjøpet,
+2. medhjelperen har forsømt å gi opplysning om vesentlige forhold som denne måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, eller
+3. formuesgodet er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
 
 Dersom formuesgodet har mangler, kan kjøperen kreve prisavslag. Kjøperen kan ikke heve kjøpet på grunn av mangler. Erstatning kan bare kreves av medhjelperen dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav om prisavslag eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for den tingrett som har behandlet tvangssalget eller for den domstol som saken hører under etter tvisteloven. Ved søksmål om prisavslag saksøkes de som har fått del i den del av kjøpesummen som rammes av prisavslaget.
 
@@ -1916,7 +2032,15 @@ Er omsetningen av formuesgodet underlagt konsesjon, skal namsmyndigheten før au
 
 Saksøkeren plikter på namsmyndighetens anmodning å utarbeide et forslag til auksjonsvilkår innen en frist namsmyndigheten fastsetter. Unnlater saksøkeren det, skal retten heve saken.
 
-Auksjonsvilkårene skal gi opplysning om:hvilket formuesgode som skal selges og dets registerbetegnelse, hvor formuesgodet befinner seg, saksøkerens og dennes prosessfullmektigs navn og adresse, saksøktes navn og adresse, kravet og dagen for registreringen av grunnlaget,at formuesgodet selges med begrenset adgang for kjøperen til å påberope mangler,at kjøpesummen skal betales til retten innen tre måneder fra auksjonsdagen,at saksøkeren kan kreve at det stilles sikkerhet for bud,at kjøperen skal bære utgiftene ved tiltredelsen og overtakelsen av formuesgodet,heftelser som ikke er pengeheftelser, og om vilkårene for alternative opprop i tilfelle slike heftelser må settes til side,lovens regler om hvor lenge budene er bindende, det personlige ansvar for heftelsene og mislighold fra kjøper.
+Auksjonsvilkårene skal gi opplysning om:
+
+1. hvilket formuesgode som skal selges og dets registerbetegnelse, hvor formuesgodet befinner seg, saksøkerens og dennes prosessfullmektigs navn og adresse, saksøktes navn og adresse, kravet og dagen for registreringen av grunnlaget,
+2. at formuesgodet selges med begrenset adgang for kjøperen til å påberope mangler,
+3. at kjøpesummen skal betales til retten innen tre måneder fra auksjonsdagen,
+4. at saksøkeren kan kreve at det stilles sikkerhet for bud,
+5. at kjøperen skal bære utgiftene ved tiltredelsen og overtakelsen av formuesgodet,
+6. heftelser som ikke er pengeheftelser, og om vilkårene for alternative opprop i tilfelle slike heftelser må settes til side,
+7. lovens regler om hvor lenge budene er bindende, det personlige ansvar for heftelsene og mislighold fra kjøper.
 
 På grunnlag av saksøkerens forslag til auksjonsvilkår utarbeider namsmyndigheten et skriftlig utkast. Namsmyndigheten kan før auksjonsmøtet innhente uttalelse fra partene og rettighetshaverne om utformingen av auksjonsvilkårene.
 
@@ -1954,7 +2078,13 @@ Auksjonsmøtet starter med at auksjonsstyreren nevner det formuesgodet som skal 
 
 Auksjonsstyreren oppfordrer de tilstedeværende til å gi bud.
 
-Et bud skal avvises under budgivningen når:det er inngitt i strid med [§ 2-11](lov/1992-06-26-86/§2-11),det er gitt av en person eller fullmektig som ikke selv har rettslig handledyktighet, ellerdet oppgis å være gitt etter fullmakt og fullmaktsforholdet ikke straks blir godtgjort.Et bud som er avvist, er ikke bindende.
+Et bud skal avvises under budgivningen når:
+
+1. det er inngitt i strid med [§ 2-11](lov/1992-06-26-86/§2-11),
+2. det er gitt av en person eller fullmektig som ikke selv har rettslig handledyktighet, eller
+3. det oppgis å være gitt etter fullmakt og fullmaktsforholdet ikke straks blir godtgjort.
+
+Et bud som er avvist, er ikke bindende.
 
 Det er adgang til å gi bud under bud som allerede er avgitt.
 
@@ -2078,7 +2208,11 @@ Når saksøkeren begjærer saken hevet, jf [§ 5-17](lov/1992-06-26-86/§5-17) f
 
 ### § 11-62. Opphør m v ved uforsvarlig utøving av tvangsbruken
 
-Dersom bestyreren opptrer i strid med de plikter som påhviler vedkommende, eller på annen måte opptrer utilbørlig, kan retten ved kjennelse:bestemme at tvangsbruken skal opphøre,oppnevne ny bestyrer, ellergi bestemte forskrifter om hvordan tvangsbruken skal utøves eller inntektene brukes.
+Dersom bestyreren opptrer i strid med de plikter som påhviler vedkommende, eller på annen måte opptrer utilbørlig, kan retten ved kjennelse:
+
+1. bestemme at tvangsbruken skal opphøre,
+2. oppnevne ny bestyrer, eller
+3. gi bestemte forskrifter om hvordan tvangsbruken skal utøves eller inntektene brukes.
 
 Krav etter første ledd kan reises av saksøkte eller en rettighetshaver som kan lide tap eller skade på grunn av forholdet.
 
@@ -2086,7 +2220,11 @@ Krav etter første ledd kan reises av saksøkte eller en rettighetshaver som kan
 
 ### § 11-63. Opphør av andre grunner
 
-For øvrig opphører tvangsbruken når:tiden for tvangsbruken er ute og retten ikke før utløpet av tiden har forlenget tvangsbruken,en kjøper ved tvangssalg er blitt ny eier, ellertvangsbruk innledes etter begjæring fra en bedre prioritert panthaver.
+For øvrig opphører tvangsbruken når:
+
+1. tiden for tvangsbruken er ute og retten ikke før utløpet av tiden har forlenget tvangsbruken,
+2. en kjøper ved tvangssalg er blitt ny eier, eller
+3. tvangsbruk innledes etter begjæring fra en bedre prioritert panthaver.
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
 
@@ -2104,7 +2242,11 @@ Den som har panterett i adkomstdokument til leierett eller borett til husrom, el
 
 ### § 12-2. Tvangsgrunnlag
 
-Grunnlag for tvangssalg etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:avtale om pant når panteretten har rettsvern etter [panteloven § 4-3](lov/1980-02-08-2/§4-3), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,utlegg som har rettsvern etter [panteloven § 5-8](lov/1980-02-08-2/§5-8),lovbestemt panterett som har rettsvern.
+Grunnlag for tvangssalg etter dette kapitlet er foruten de alminnelige tvangsgrunnlag:
+
+1. avtale om pant når panteretten har rettsvern etter [panteloven § 4-3](lov/1980-02-08-2/§4-3), en skadesløspantsettelse likevel bare når kravets omfang er fastsatt ved dom eller annet tvangsgrunnlag,
+2. utlegg som har rettsvern etter [panteloven § 5-8](lov/1980-02-08-2/§5-8),
+3. lovbestemt panterett som har rettsvern.
 
 For utlegg etter første ledd bokstav b som er stiftet av namsmyndighetene, kan salg begjæres uten forutgående varsel etter [§ 4-18](lov/1992-06-26-86/§4-18), men ikke før to uker etter at underretning om utlegget ble sendt saksøkte. Dersom tvangsgrunnlaget for utlegget er et alminnelig tvangsgrunnlag, må dessuten dette grunnlaget ha blitt rettskraftig. Selv om vilkårene ikke er oppfylt, kan salg begjæres dersom fullbyrdelsen ellers ville bli vesentlig vanskeliggjort.
 
@@ -2158,9 +2300,20 @@ Den som har et krav som går ut på annet enn betaling av penger, kan begjære t
 
 Grunnlag for fullbyrdelse etter dette kapitlet er de alminnelige tvangsgrunnlagene og forhold som er tvangsgrunnlag etter særlig lovbestemmelse.
 
-Særlig tvangsgrunnlag for utlevering av løsøre er dessuten:Skriftlig avtale om leie som inneholder vedtagelse av at utlevering kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter [§ 4-18](lov/1992-06-26-86/§4-18) at utlevering kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.Skriftlig avtale om leie for en bestemt tid som inneholder vedtakelse av at utlevering kan kreves når leietiden er løpt ut.
+Særlig tvangsgrunnlag for utlevering av løsøre er dessuten:
 
-Særlig tvangsgrunnlag for fravikelse av fast eiendom er dessuten:Skriftlig avtale om leie som inneholder vedtagelse av at tvangsfravikelse kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter [§ 4-18](lov/1992-06-26-86/§4-18) at tvangsfullbyrdelse kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.Skriftlig avtale om leie for en bestemt tid som inneholder vedtakelse av at tvangsfravikelse kan kreves når leietiden er løpt ut.Oppsigelse i leieforhold etter husleieloven, når oppsigelsen fyller vilkårene i [husleieloven § 9-7](lov/1999-03-26-17/§9-7) og leieren ikke har protestert skriftlig til utleieren mot oppsigelsen på en måte som fyller vilkårene i [husleieloven § 9-8](lov/1999-03-26-17/§9-8) innen fristen på én måned, eller når utleieren har reist sak mot leieren og retten ikke har satt oppsigelsen til side.Heving av leieforhold etter husleieloven, når det foreligger forhold som gjør det åpenbart at utleieren hadde adgang til å heve leieavtalen.I andre leie- og besittelsesforhold enn etter husleieloven: forhold som gjør det åpenbart at saksøkte ikke har rett til å besitte eiendommen.Bokstavene a til d gjelder ikke i festeforhold.
+1. Skriftlig avtale om leie som inneholder vedtagelse av at utlevering kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter [§ 4-18](lov/1992-06-26-86/§4-18) at utlevering kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.
+2. Skriftlig avtale om leie for en bestemt tid som inneholder vedtakelse av at utlevering kan kreves når leietiden er løpt ut.
+
+Særlig tvangsgrunnlag for fravikelse av fast eiendom er dessuten:
+
+1. Skriftlig avtale om leie som inneholder vedtagelse av at tvangsfravikelse kan kreves når leien ikke blir betalt. Det skal gå fram av varselet etter [§ 4-18](lov/1992-06-26-86/§4-18) at tvangsfullbyrdelse kan unngås dersom leien, utenrettslige inndrivingskostnader, sakskostnader og forfalt leie fram til betalingstidspunktet, med renter, blir betalt før fullbyrdelsen gjennomføres.
+2. Skriftlig avtale om leie for en bestemt tid som inneholder vedtakelse av at tvangsfravikelse kan kreves når leietiden er løpt ut.
+3. Oppsigelse i leieforhold etter husleieloven, når oppsigelsen fyller vilkårene i [husleieloven § 9-7](lov/1999-03-26-17/§9-7) og leieren ikke har protestert skriftlig til utleieren mot oppsigelsen på en måte som fyller vilkårene i [husleieloven § 9-8](lov/1999-03-26-17/§9-8) innen fristen på én måned, eller når utleieren har reist sak mot leieren og retten ikke har satt oppsigelsen til side.
+4. Heving av leieforhold etter husleieloven, når det foreligger forhold som gjør det åpenbart at utleieren hadde adgang til å heve leieavtalen.
+5. I andre leie- og besittelsesforhold enn etter husleieloven: forhold som gjør det åpenbart at saksøkte ikke har rett til å besitte eiendommen.
+
+Bokstavene a til d gjelder ikke i festeforhold.
 
 Skriftlig avtale som nevnt i annet ledd og tredje ledd kan inngås elektronisk.
 

@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Personer skipsarbeidsloven ikke gjelder for
 
-Skipsarbeidsloven gjelder ikke for personer sombare arbeider om bord mens skipet eller den flyttbare innretningen er i havn,gjør tjeneste på Forsvarets skip, med unntak av sivilt personell på skip befraktet av Forsvaret,bare foretar inspeksjoner om bord,er los,har et arbeidsforhold som reguleres av arbeidsmiljøloven og som i en kortere periode utfører arbeid om bord.
+Skipsarbeidsloven gjelder ikke for personer som
+
+1. bare arbeider om bord mens skipet eller den flyttbare innretningen er i havn,
+2. gjør tjeneste på Forsvarets skip, med unntak av sivilt personell på skip befraktet av Forsvaret,
+3. bare foretar inspeksjoner om bord,
+4. er los,
+5. har et arbeidsforhold som reguleres av arbeidsmiljøloven og som i en kortere periode utfører arbeid om bord.
 
 ## § 2. Arbeidstakere skipsarbeidsloven delvis gjelder for
 

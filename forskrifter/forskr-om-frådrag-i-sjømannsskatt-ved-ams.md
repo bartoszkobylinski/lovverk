@@ -27,7 +27,11 @@ Med heimel i [lov 21. mars 1947 nr. 2](lov/1947-03-21-2) om skattlegging av sjø
 ## I
 
 1. Sjømann kan krevja frådrag i sjømannsskatten når han i trekkåret har kjøpt part i aksjefond som gjev rett til skattefrådrag etter skattelova § 44 ellevte leden nr. 3.
-2. For slikt frådrag gjeld:Parten i fondet må tilhøyra sjømannen eller ektemaken.Frådraget må vera større enn den skatten og medlemsavgifta til folketrygda som sjømannen betaler same året av inntekt i land.Sjømannen kan ikkje krevja frådraget før likninga er ferdig for same inntektsåret.
+2. For slikt frådrag gjeld:
+
+   1. Parten i fondet må tilhøyra sjømannen eller ektemaken.
+   2. Frådraget må vera større enn den skatten og medlemsavgifta til folketrygda som sjømannen betaler same året av inntekt i land.
+   3. Sjømannen kan ikkje krevja frådraget før likninga er ferdig for same inntektsåret.
 3. Direktoratet for sjømenn gjev nærare reglar om korleis skipnaden med frådrag skal verta gjennomførd.
 
 ## II

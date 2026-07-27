@@ -32,11 +32,44 @@ eu_basis: []
 
 ## § 2. Læringsutbytte
 
-Kandidaten skal etter fullført praktisk-pedagogisk utdanning ha følgende samlede læringsutbytte:*Kunnskap*Kandidatenhar inngående fagdidaktisk og pedagogisk kunnskap for relevante trinnhar bred forståelse av skolens mandat, opplæringens verdigrunnlag og opplæringsløpet.har inngående kunnskap om og evne til å holde seg oppdatert på gjeldende lov- og planverk for profesjonsutøvelsenhar bred kunnskap om barne- og ungdomskultur og barns og ungdoms utvikling og læring i ulike sosiale og kulturelle konteksterhar bred kunnskap om læringsstrategier, læringsarenaer og arbeidsmetoder generelt og særlig i respektive faghar kunnskap om barn og unge i vanskelige livssituasjoner, herunder kunnskap om vold og seksuelle overgrep mot barn og unge, om deres rettigheter i et nasjonalt og internasjonalt perspektiv, og om hvordan sette i gang nødvendige tiltak etter gjeldende lovverk.*Ferdigheter*Kandidatenkan planlegge, gjennomføre og reflektere over undervisning basert på forsknings- og utviklingsarbeid og erfaringsbasert kunnskapkan lede og legge til rette for undervisningsforløp som fører til gode faglige og sosiale læringsprosesserkan bruke varierte arbeidsmetoder, differensiere og tilpasse opplæring i samsvar med gjeldende læreplanverk, og skape motiverende og inkluderende læringsmiljøkan beskrive kjennetegn på kompetanse, vurdere og dokumentere elevers læring, gi læringsfremmende tilbakemeldinger og bidra til at elevene kan reflektere over egen læring og egen faglige utviklingkan identifisere særskilte behov hos barn og unge, inkludert identifisere tegn på vold eller seksuelle overgrep. På bakgrunn av faglige vurderinger skal kandidaten kunne etablere samarbeid med aktuelle tverrfaglig og tverretatlige samarbeidspartnere til barnets beste.*Generell kompetanse*Kandidatenkan formidle pedagogiske og fagdidaktiske problemstillinger på et avansert nivåinnehar en profesjonell holdning og kan kritisk reflektere over faglige, profesjonsetiske og fag- og utdanningspolitiske spørsmålkan med stor grad av selvstendighet videreutvikle egen kompetanse og bidra til både kollegers ogskolens utviklingkan bygge relasjoner til elever og foresatte, og samarbeide med aktører som er relevante for skoleverket.
+Kandidaten skal etter fullført praktisk-pedagogisk utdanning ha følgende samlede læringsutbytte:
+
+- *Kunnskap*
+
+  Kandidaten
+
+  - har inngående fagdidaktisk og pedagogisk kunnskap for relevante trinn
+  - har bred forståelse av skolens mandat, opplæringens verdigrunnlag og opplæringsløpet.
+  - har inngående kunnskap om og evne til å holde seg oppdatert på gjeldende lov- og planverk for profesjonsutøvelsen
+  - har bred kunnskap om barne- og ungdomskultur og barns og ungdoms utvikling og læring i ulike sosiale og kulturelle kontekster
+  - har bred kunnskap om læringsstrategier, læringsarenaer og arbeidsmetoder generelt og særlig i respektive fag
+  - har kunnskap om barn og unge i vanskelige livssituasjoner, herunder kunnskap om vold og seksuelle overgrep mot barn og unge, om deres rettigheter i et nasjonalt og internasjonalt perspektiv, og om hvordan sette i gang nødvendige tiltak etter gjeldende lovverk.
+- *Ferdigheter*
+
+  Kandidaten
+
+  - kan planlegge, gjennomføre og reflektere over undervisning basert på forsknings- og utviklingsarbeid og erfaringsbasert kunnskap
+  - kan lede og legge til rette for undervisningsforløp som fører til gode faglige og sosiale læringsprosesser
+  - kan bruke varierte arbeidsmetoder, differensiere og tilpasse opplæring i samsvar med gjeldende læreplanverk, og skape motiverende og inkluderende læringsmiljø
+  - kan beskrive kjennetegn på kompetanse, vurdere og dokumentere elevers læring, gi læringsfremmende tilbakemeldinger og bidra til at elevene kan reflektere over egen læring og egen faglige utvikling
+  - kan identifisere særskilte behov hos barn og unge, inkludert identifisere tegn på vold eller seksuelle overgrep. På bakgrunn av faglige vurderinger skal kandidaten kunne etablere samarbeid med aktuelle tverrfaglig og tverretatlige samarbeidspartnere til barnets beste.
+- *Generell kompetanse*
+
+  Kandidaten
+
+  - kan formidle pedagogiske og fagdidaktiske problemstillinger på et avansert nivå
+  - innehar en profesjonell holdning og kan kritisk reflektere over faglige, profesjonsetiske og fag- og utdanningspolitiske spørsmål
+  - kan med stor grad av selvstendighet videreutvikle egen kompetanse og bidra til både kollegers og
+  - skolens utvikling
+  - kan bygge relasjoner til elever og foresatte, og samarbeide med aktører som er relevante for skoleverket.
 
 ## § 3. Struktur og innhold
 
-(1) Praktisk-pedagogisk utdanning skal kvalifisere for undervisning. Utdanningen har et omfang på 60 studiepoeng og består av:minst 60 dager praksis, veiledet, variert og vurdertpedagogikk, 30 studiepoengfagdidaktikk, 30 studiepoeng.
+(1) Praktisk-pedagogisk utdanning skal kvalifisere for undervisning. Utdanningen har et omfang på 60 studiepoeng og består av:
+
+- minst 60 dager praksis, veiledet, variert og vurdert
+- pedagogikk, 30 studiepoeng
+- fagdidaktikk, 30 studiepoeng.
 
 (2) Fagdidaktikken skal knyttes til fag i studentens fagkrets som gir undervisningskompetanse.
 
@@ -60,7 +93,13 @@ Utdanning som ikke er basert på rammeplan for praktisk-pedagogisk utdanning, ka
 
 ## § 6. Opptak
 
-(1) For å bli tatt opp til praktisk-pedagogisk utdanning, må søker haen mastergrad og minst ett relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12) elleren bachelorgrad og minst ett relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12), og minst to års relevant arbeidserfaring fra grunnskolen eller den videregående skolen, elleren bachelorgrad i utøvende eller skapende kunstfag i finansieringskategori A eller B, med minimum 180 studiepoeng i kunstfaget, elleren bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskolen. Ett av fagene kan erstattes av drama/teaterfag. Det må inngå fordypning på minst 120 studiepoeng i ett fag. Øvrige fag må ha et omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden, elleren bachelorgrad i tegnspråk og tolkning (døvetolkutdanning), med minst 80 studiepoeng i tegnspråk. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden.
+(1) For å bli tatt opp til praktisk-pedagogisk utdanning, må søker ha
+
+- en mastergrad og minst ett relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12) eller
+- en bachelorgrad og minst ett relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12), og minst to års relevant arbeidserfaring fra grunnskolen eller den videregående skolen, eller
+- en bachelorgrad i utøvende eller skapende kunstfag i finansieringskategori A eller B, med minimum 180 studiepoeng i kunstfaget, eller
+- en bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskolen. Ett av fagene kan erstattes av drama/teaterfag. Det må inngå fordypning på minst 120 studiepoeng i ett fag. Øvrige fag må ha et omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden, eller
+- en bachelorgrad i tegnspråk og tolkning (døvetolkutdanning), med minst 80 studiepoeng i tegnspråk. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden.
 
 (2) Institusjoner som tilbyr en integrert master i praktisk-pedagogisk utdanning på minst 120 studiepoeng, jf. forskriften § 3, kan ta opp søkere som tilfredsstiller krav for opptak til mastergraden, til det integrerte løpet.
 

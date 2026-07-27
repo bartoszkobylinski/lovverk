@@ -38,7 +38,12 @@ Er det ikke utarbeidet en redegjørelse for et aksjeinnskudd som nevnt i første
 
 ## § 3. Erklæring om aksjeinnskudd når det ikke er utarbeidet en redegjørelse
 
-Dersom det etter [§ 1](forskrift/2013-10-26-1271/§1) og [§ 2](forskrift/2013-10-26-1271/§2) ikke er utarbeidet en redegjørelse, skal stifterne eller styret i stedet utarbeide en erklæring som skal inneholdeen beskrivelse av aksjeinnskuddet,opplysninger om aksjeinnskuddets verdi, grunnlaget for verdivurderingen og vurderingsmåten,en uttalelse om at verdien av aksjeinnskuddet minst svarer til pålydende av de aksjer som skal utstedes som vederlag, med tillegg av eventuell overkurs,en uttalelse om at det ikke er oppstått nye omstendigheter av betydning for den opprinnelige verdivurderingen.
+Dersom det etter [§ 1](forskrift/2013-10-26-1271/§1) og [§ 2](forskrift/2013-10-26-1271/§2) ikke er utarbeidet en redegjørelse, skal stifterne eller styret i stedet utarbeide en erklæring som skal inneholde
+
+1. en beskrivelse av aksjeinnskuddet,
+2. opplysninger om aksjeinnskuddets verdi, grunnlaget for verdivurderingen og vurderingsmåten,
+3. en uttalelse om at verdien av aksjeinnskuddet minst svarer til pålydende av de aksjer som skal utstedes som vederlag, med tillegg av eventuell overkurs,
+4. en uttalelse om at det ikke er oppstått nye omstendigheter av betydning for den opprinnelige verdivurderingen.
 
 Ved stiftelse skal erklæringen vedlegges stiftelsesdokumentet. Ved kapitalforhøyelse skal erklæringen inntas i eller vedlegges innkallingen til generalforsamlingen. For aksjeselskaper skal erklæringen vedlegges meldingen av selskapet eller kapitalforhøyelsen til Foretaksregisteret. For allmennaksjeselskaper skal erklæringen meldes til Foretaksregisteret innen en måned etter at eiendelen ble overført til selskapet. Erklæringen skal for både aksjeselskaper og allmennaksjeselskaper kunngjøres etter [foretaksregisterloven § 6-2](lov/1985-06-21-78/§6-2).
 

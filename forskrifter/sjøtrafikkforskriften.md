@@ -26,7 +26,28 @@ eu_basis: []
 
 ### § 1. (definisjoner)
 
-I denne forskriften forstås med*særlig farlig eller forurensende last:*last som nevnt i den internasjonale koden for bygging og utrustning av skip som frakter flytende gasser i bulk (IGC-koden) kapittel 19, med unntak av laster som kun krever skipstype 3Glaster i forurensningskategori X, jf. den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 (MARPOL) bilag 2. Dette gjelder også last som foreløpig er kategorisert som slikt stofflast som krever skipstype 1 eller 2, jf. den internasjonale kjemikaliekoden for bygging og utrustning av skip som frakter skadelige kjemikalier i bulk (IBC-koden) kapittel 17 eller den internasjonale koden for transport av fast bulklast (IMSBC-koden)*farlig eller forurensende last:*last definert som særlig farlig eller forurensende under bokstav a, så langt det ikke er strengere regler for disseoljelaster som nevnt i MARPOL bilag 1. Dette gjelder også last som foreløpig er kategorisert som slikt stofflaster som krever skipstype 3, jf. IBC-koden eller BC-kodenvæsker med flammepunkt under 23 grader celsius*rutefart:* en rekke seilaser mellom de samme to eller flere havner, enten i henhold til en offentliggjort tidtabell eller med en slik regelmessighet eller hyppighet at seilasene fremstår som en systematisk rekke med seilaser*gjennomseiling:* at fartøyet ikke anløper kai, fortøyningsplass eller ankrer i farvannet*posisjonsangivelser:* posisjonsangivelser er oppgitt i World Geodetic System 1984 (WGS-84)*dagslys:* solsenteret er høyere enn seks grader under horisonten*eskortefartøy:* en taubåt med klassenotifikasjon som eskortefartøy*trafikkseparasjonssystem:* et geografisk avgrenset område i sjøen bestående av trafikkfelt for motsatte trafikkstrømmer, atskilt av en separasjonssone*toveis farled:* et geografisk avgrenset område i sjøen etablert for toveis trafikk*passere:* at et fartøy seiler forbi et annet fartøy det møter eller innhenter.*lengde:* fartøyets største lengde (LOA)
+I denne forskriften forstås med
+
+1. *særlig farlig eller forurensende last:*
+
+   - last som nevnt i den internasjonale koden for bygging og utrustning av skip som frakter flytende gasser i bulk (IGC-koden) kapittel 19, med unntak av laster som kun krever skipstype 3G
+   - laster i forurensningskategori X, jf. den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 (MARPOL) bilag 2. Dette gjelder også last som foreløpig er kategorisert som slikt stoff
+   - last som krever skipstype 1 eller 2, jf. den internasjonale kjemikaliekoden for bygging og utrustning av skip som frakter skadelige kjemikalier i bulk (IBC-koden) kapittel 17 eller den internasjonale koden for transport av fast bulklast (IMSBC-koden)
+2. *farlig eller forurensende last:*
+
+   - last definert som særlig farlig eller forurensende under bokstav a, så langt det ikke er strengere regler for disse
+   - oljelaster som nevnt i MARPOL bilag 1. Dette gjelder også last som foreløpig er kategorisert som slikt stoff
+   - laster som krever skipstype 3, jf. IBC-koden eller BC-koden
+   - væsker med flammepunkt under 23 grader celsius
+3. *rutefart:* en rekke seilaser mellom de samme to eller flere havner, enten i henhold til en offentliggjort tidtabell eller med en slik regelmessighet eller hyppighet at seilasene fremstår som en systematisk rekke med seilaser
+4. *gjennomseiling:* at fartøyet ikke anløper kai, fortøyningsplass eller ankrer i farvannet
+5. *posisjonsangivelser:* posisjonsangivelser er oppgitt i World Geodetic System 1984 (WGS-84)
+6. *dagslys:* solsenteret er høyere enn seks grader under horisonten
+7. *eskortefartøy:* en taubåt med klassenotifikasjon som eskortefartøy
+8. *trafikkseparasjonssystem:* et geografisk avgrenset område i sjøen bestående av trafikkfelt for motsatte trafikkstrømmer, atskilt av en separasjonssone
+9. *toveis farled:* et geografisk avgrenset område i sjøen etablert for toveis trafikk
+10. *passere:* at et fartøy seiler forbi et annet fartøy det møter eller innhenter.
+11. *lengde:* fartøyets største lengde (LOA)
 
 > Endret ved forskrift [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026).
 
@@ -50,13 +71,27 @@ Melding om farer av betydning for sikker navigasjon eller ferdsel skal gis til K
 
 ### § 6. (tjenesteområder)
 
-Sjøtrafikksentralenes tjenesteområder er definert i Kystverkets digitale kart «Kystinfo», som er en del av forskriften:[Horten tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=251489,6598095,32633,7)[Brevik tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=198386,6552158,32633,9)[Kvitsøy tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-52591,6604867,32633,7)[Fedje tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-69890,6744129,32633,7)[Kinn tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-31933,6887103,32633,7)[Melkøya tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&Zoompoint=765987,7846527,32633,7).
+Sjøtrafikksentralenes tjenesteområder er definert i Kystverkets digitale kart «Kystinfo», som er en del av forskriften:
+
+1. [Horten tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=251489,6598095,32633,7)
+2. [Brevik tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=198386,6552158,32633,9)
+3. [Kvitsøy tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-52591,6604867,32633,7)
+4. [Fedje tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-69890,6744129,32633,7)
+5. [Kinn tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&zoompoint=-31933,6887103,32633,7)
+6. [Melkøya tjenesteområde](https://kart.kystverket.no/sjotrafikkforskrift/?cat=134&Zoompoint=765987,7846527,32633,7).
 
 > Endret ved forskrifter [5 mars 2021 nr. 634](forskrift/2021-03-05-634), [31 mai 2021 nr. 1740](forskrift/2021-05-31-1740) (i kraft 1 juni 2021).
 
 ### § 7. (saklig virkeområde)
 
-Bestemmelsene i dette kapittelet gjelder følgende fartøy:fartøy med største lengde 24 meter eller merfartøy som skyver et fartøy og fartøy som blir skjøvet, der total lengde er 24 meter eller merfartøy som sleper en gjenstand med lengde på 24 meter eller merfartøy som sleper en gjenstand eller gjenstander der total lengde av fartøyet og gjenstandene er 35 meter eller merfartøy som sleper en gjenstand eller gjenstander der total bredde av fartøyet og gjenstandene er 24 meter eller merfartøy med særlig farlig eller forurensende last.
+Bestemmelsene i dette kapittelet gjelder følgende fartøy:
+
+1. fartøy med største lengde 24 meter eller mer
+2. fartøy som skyver et fartøy og fartøy som blir skjøvet, der total lengde er 24 meter eller mer
+3. fartøy som sleper en gjenstand med lengde på 24 meter eller mer
+4. fartøy som sleper en gjenstand eller gjenstander der total lengde av fartøyet og gjenstandene er 35 meter eller mer
+5. fartøy som sleper en gjenstand eller gjenstander der total bredde av fartøyet og gjenstandene er 24 meter eller mer
+6. fartøy med særlig farlig eller forurensende last.
 
 Bestemmelsene i [§ 8](forskrift/2021-02-10-523/§8) og [§ 12](forskrift/2021-02-10-523/§12) gjelder også for fiske- og fangstfartøy når de driver ervervsmessig fiske, fangst eller tang- og taretråling. Bestemmelsen i [§ 9](forskrift/2021-02-10-523/§9) kommer tilsvarende til anvendelsene når disse fartøyene utøver ervervsmessig fiske, fangst eller tang- og taretråling i trafikkseparasjonssystem.
 
@@ -90,7 +125,15 @@ Annet ledd gjelder ikke for passasjerfartøy i rutefart.
 
 ### § 11. (vilkår for tillatelse)
 
-Når det er nødvendig for å sikre trygg ferdsel og forsvarlig bruk av farvannet, kan det stilles vilkår til en tillatelse, herunder:at seilas skal gjennomføres på angitt tidspunktat spesifikk rute skal følgesat andre fartøy skal passeres i angitt rekkefølgeat angitt avstand til andre fartøy skal holdesat taubåt skal brukesat maskineri skal være klargjort ved ankringat ankerplass skal forlates ved varsel om sterk vind.
+Når det er nødvendig for å sikre trygg ferdsel og forsvarlig bruk av farvannet, kan det stilles vilkår til en tillatelse, herunder:
+
+1. at seilas skal gjennomføres på angitt tidspunkt
+2. at spesifikk rute skal følges
+3. at andre fartøy skal passeres i angitt rekkefølge
+4. at angitt avstand til andre fartøy skal holdes
+5. at taubåt skal brukes
+6. at maskineri skal være klargjort ved ankring
+7. at ankerplass skal forlates ved varsel om sterk vind.
 
 ### § 12. (lytte- og opplysningsplikt)
 
@@ -136,7 +179,14 @@ I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på mi
 
 ### § 19. (forbud mot passering i Løperen, Østerelva og Glomma)
 
-I farvannet innenfor en rett linje trukket fra sydpynten av Vikertangen via Vidgrunnen lanterne til Rødshuet skal fartøy med større lengde enn 24 meter kun passere andre fartøy i områdene:Kvernskjærgrunnen lykt–Lubbegrunnen lyktved Løperungen lykt, når fartøyene seiler på hver sin side av Løperungenved Vestre Fugleskjærgrunnen lykt, når fartøyene seiler på hver sin side av Vestre FugleskjærgrunnenVestre Fugleskjærgrunnen lykt–Belgen lanternei farvannet mellom Kallera lykt i sør og Møllerodden lanterne i nordi Glomma, nord for Fredrikstad bro til Tangen og fra Greåker til Vestenodden lanterne.
+I farvannet innenfor en rett linje trukket fra sydpynten av Vikertangen via Vidgrunnen lanterne til Rødshuet skal fartøy med større lengde enn 24 meter kun passere andre fartøy i områdene:
+
+1. Kvernskjærgrunnen lykt–Lubbegrunnen lykt
+2. ved Løperungen lykt, når fartøyene seiler på hver sin side av Løperungen
+3. ved Vestre Fugleskjærgrunnen lykt, når fartøyene seiler på hver sin side av Vestre Fugleskjærgrunnen
+4. Vestre Fugleskjærgrunnen lykt–Belgen lanterne
+5. i farvannet mellom Kallera lykt i sør og Møllerodden lanterne i nord
+6. i Glomma, nord for Fredrikstad bro til Tangen og fra Greåker til Vestenodden lanterne.
 
 I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning.
 
@@ -352,7 +402,10 @@ Fartøy med større lengde enn 24 meter skal ikke bruke farvannet mellom Østøy
 
 ### § 59. (forbud mot bruk av farvannet på strekningen Rødtangen–Drammen)
 
-Følgende fartøy skal ikke bruke farvannet gjennom Svelvikstrømmen, nord av Rødtangen lykt:fartøy med større lengde enn 250 meter, større bredde enn 40 meter eller større dypgående enn 9,5 meterfartøy med større lengde enn 225 meter og større dypgående enn 9 meter.
+Følgende fartøy skal ikke bruke farvannet gjennom Svelvikstrømmen, nord av Rødtangen lykt:
+
+1. fartøy med større lengde enn 250 meter, større bredde enn 40 meter eller større dypgående enn 9,5 meter
+2. fartøy med større lengde enn 225 meter og større dypgående enn 9 meter.
 
 Ved beregning av fartøyets dypgående skal det legges til grunn at det er ferskvann.
 
@@ -390,7 +443,12 @@ Fartøy med større lengde enn 300 meter skal ikke bruke farvannet nord av Elle 
 
 ### § 65. (forbud mot passering på strekningen Drøbaksundet–Oslo)
 
-Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen mellom Småskjærene lykt i sør til Aspond lykt i nord dersom:sikten er under 1 nautisk mil,fartøyet har større dypgående enn 7 meter,fartøyet har farlig eller forurensende last, ellerfartøyet følger leden vest for Askholmgrunnen lanterne og vest for Torskekrakken lanterne.
+Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen mellom Småskjærene lykt i sør til Aspond lykt i nord dersom:
+
+1. sikten er under 1 nautisk mil,
+2. fartøyet har større dypgående enn 7 meter,
+3. fartøyet har farlig eller forurensende last, eller
+4. fartøyet følger leden vest for Askholmgrunnen lanterne og vest for Torskekrakken lanterne.
 
 I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning.
 
@@ -444,7 +502,10 @@ Fartøy med større lengde enn 300 meter eller med større dypgående enn 13,5 m
 
 Fartøy med farlig eller forurensende last eller fartøy med større lengde enn 160 meter skal ikke bruke farvannet nord for Fugløyskjær lanterne når sikten er under 1 nautisk mil.
 
-Første ledd gjelder ikke for:fartøy uten farlig eller forurensende last med større lengde enn 160 meter som kun skal bruke farleden gjennom Gamle Langesund, Langesundfjorden, Brevikfjorden, Eidangerfjorden.fartøy som seiler mellom ankerplass, fortøyningsinnretning eller kai og som har fri sikt til det sted som skal anløpes.
+Første ledd gjelder ikke for:
+
+1. fartøy uten farlig eller forurensende last med større lengde enn 160 meter som kun skal bruke farleden gjennom Gamle Langesund, Langesundfjorden, Brevikfjorden, Eidangerfjorden.
+2. fartøy som seiler mellom ankerplass, fortøyningsinnretning eller kai og som har fri sikt til det sted som skal anløpes.
 
 > Endret ved forskrifter [6 okt 2022 nr. 1734](forskrift/2022-10-06-1734) (i kraft 1 nov 2022), [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 72).
 
@@ -610,7 +671,11 @@ Fartøy med større dypgående enn 10 meter skal i farvannet mellom Fladholmen l
 
 ### § 97. (forbud mot gjennomseiling på strekningen Feistein–Sveinane)
 
-Følgende fartøy skal ikke bruke leden gjennom Rottsfjorden, fra Feistein lykt i sør til Sveinane lanterne i nord, til gjennomseiling:fartøy med farlig eller forurensende last som har større lengde enn 140 meter eller har større dypgående enn 8 meterfartøy med større lengde enn 180 meter eller med større dypgående enn 8,5 meterpassasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.
+Følgende fartøy skal ikke bruke leden gjennom Rottsfjorden, fra Feistein lykt i sør til Sveinane lanterne i nord, til gjennomseiling:
+
+1. fartøy med farlig eller forurensende last som har større lengde enn 140 meter eller har større dypgående enn 8 meter
+2. fartøy med større lengde enn 180 meter eller med større dypgående enn 8,5 meter
+3. passasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.
 
 Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Jærens merke i sør og Sveinane lanterne i nord regnes ikke som gjennomseiling.
 
@@ -632,7 +697,10 @@ Fartøy med større dypgående enn 15,8 meter skal ikke bruke farvannet i Risavi
 
 ### § 100. (forbud mot passering i innløpet til Risavika)
 
-Fartøy skal ikke passere andre fartøy i farvannet mellom Laksholmboen lanterne i vest og Melingholmen lanterne i øst dersom:sikten er under 0,5 nautisk milfartøyet har større lengde enn 120 meter eller større dypgående enn syv meter.
+Fartøy skal ikke passere andre fartøy i farvannet mellom Laksholmboen lanterne i vest og Melingholmen lanterne i øst dersom:
+
+1. sikten er under 0,5 nautisk mil
+2. fartøyet har større lengde enn 120 meter eller større dypgående enn syv meter.
 
 I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning.
 
@@ -660,7 +728,10 @@ Første ledd gjelder ikke fartøy i rutefart.
 
 ### § 104. (forbud mot passering på strekningen Ulsneset–Bybrua)
 
-Fartøy skal ikke passere andre fartøy i farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst dersom:fartøyet har farlig eller forurensende lastfartøyet har større lengde enn 120 meter eller større dypgående enn 7 meter.
+Fartøy skal ikke passere andre fartøy i farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst dersom:
+
+1. fartøyet har farlig eller forurensende last
+2. fartøyet har større lengde enn 120 meter eller større dypgående enn 7 meter.
 
 Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering.
 
@@ -678,7 +749,11 @@ Første ledd gjelder ikke passasjerfartøy.
 
 ### § 106. (krav om siktforhold på strekningen Ulsneset–Bybrua)
 
-Fartøy skal ikke bruke farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst når sikten er under 0,5 nautisk mil dersom:fartøyet har særlig farlig eller forurensende lastfartøyet har farlig eller forurensende last og har større lengde enn 90 meterfartøyet har større lengde enn 180 meter eller større dypgående enn 10 meter.
+Fartøy skal ikke bruke farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst når sikten er under 0,5 nautisk mil dersom:
+
+1. fartøyet har særlig farlig eller forurensende last
+2. fartøyet har farlig eller forurensende last og har større lengde enn 90 meter
+3. fartøyet har større lengde enn 180 meter eller større dypgående enn 10 meter.
 
 > Endret ved forskrift [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 104).
 
@@ -754,7 +829,11 @@ Fartøy større enn 7000 BT skal kun bruke farvannet på strekningen mellom Kvit
 
 ### § 117. (forbud mot passering på strekningen Nedstrandsfjorden–Sandsfjorden–Saudafjorden til Sauda)
 
-Fartøy med større lengde enn 24 meter skal i farvannet mellom en rett linje trukket fra vestpynten av Tjørnaneset til sydpynten av Reiphammarodden og en rett linje trukket fra Øynestangen i retning 310° til land ved Brattberg, kun passere andre fartøy på følgende strekninger:i Kallvikhavet på strekningen Skorpeskjæret–Ottøya lykt.på strekning Fureholmen–Åsarøyholmen.på strekningen Hamborgneset–Sydvestpynten av Nevøyna.
+Fartøy med større lengde enn 24 meter skal i farvannet mellom en rett linje trukket fra vestpynten av Tjørnaneset til sydpynten av Reiphammarodden og en rett linje trukket fra Øynestangen i retning 310° til land ved Brattberg, kun passere andre fartøy på følgende strekninger:
+
+1. i Kallvikhavet på strekningen Skorpeskjæret–Ottøya lykt.
+2. på strekning Fureholmen–Åsarøyholmen.
+3. på strekningen Hamborgneset–Sydvestpynten av Nevøyna.
 
 Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering.
 
@@ -776,7 +855,11 @@ Fartøy med større dypgående enn 11 meter skal ikke bruke farvannet på strekn
 
 ### § 120. (forbud mot passering på strekningen Skudenesfjorden–Karmsundet– Sletta)
 
-Fartøy skal ikke passere andre fartøy under Karmsundbrua, i farvannet 300 meter nord og syd for brua eller i sundet ved Bukkøy på strekningen mellom en linje i retning 050° fra nordpynten av Bukkøy til land nord om Vormedal og en rett linje fra sydøstpynten av Bukkøy til Snikspynten lykt dersom:fartøyet har farlig eller forurensende last og har større lengde enn 100 meterfartøyet har større lengde enn 120 metersikten er under 0,5 nautisk mil.
+Fartøy skal ikke passere andre fartøy under Karmsundbrua, i farvannet 300 meter nord og syd for brua eller i sundet ved Bukkøy på strekningen mellom en linje i retning 050° fra nordpynten av Bukkøy til land nord om Vormedal og en rett linje fra sydøstpynten av Bukkøy til Snikspynten lykt dersom:
+
+1. fartøyet har farlig eller forurensende last og har større lengde enn 100 meter
+2. fartøyet har større lengde enn 120 meter
+3. sikten er under 0,5 nautisk mil.
 
 I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning.
 
@@ -784,7 +867,11 @@ I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på 
 
 ### § 121. (forbud mot gjennomseiling i Karmsundet)
 
-Følgende fartøy skal ikke bruke Karmsundet til gjennomseiling:fartøy med farlig eller forurensende last og større lengde enn 140 meter eller større dypgående enn 8 meterfartøy med større lengde enn 180 meter eller større dypgående enn 8,5 meterpassasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.
+Følgende fartøy skal ikke bruke Karmsundet til gjennomseiling:
+
+1. fartøy med farlig eller forurensende last og større lengde enn 140 meter eller større dypgående enn 8 meter
+2. fartøy med større lengde enn 180 meter eller større dypgående enn 8,5 meter
+3. passasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.
 
 Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Skudenes lykt i sør og Kvalen lykt i nord regnes ikke som gjennomseiling.
 
@@ -818,7 +905,14 @@ Fartøy med farlig eller forurensende last skal ha taubåt fastgjort i farvannet
 
 ### § 126. (forbud mot bruk av farvannet ved gassterminalen på Kårstø)
 
-Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:59°16.57′ N 5°28.79′ Ø59°16.16′ N 5°29.25′ Ø59°16.10′ N 5°29.47′ Ø59°16.12′ N 5°30.99′ Ø59°16.15′ N 5°31.45′ Ø59°16.48′ N 5°31.89′ Ø.
+Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:
+
+1. 59°16.57′ N 5°28.79′ Ø
+2. 59°16.16′ N 5°29.25′ Ø
+3. 59°16.10′ N 5°29.47′ Ø
+4. 59°16.12′ N 5°30.99′ Ø
+5. 59°16.15′ N 5°31.45′ Ø
+6. 59°16.48′ N 5°31.89′ Ø.
 
 Første ledd gjelder ikke fartøy som skal anløpe eller avgå gassterminalen på Kårstø og fartøy som assisterer ved ankomst eller avgang.
 
@@ -842,7 +936,12 @@ Fartøy med farlig eller forurensende last og fartøy med større lengde enn 150
 
 ### § 129. (forbud mot gjennomseiling i Kobbeleia)
 
-Følgende fartøy skal ikke bruke farvannet fra Kjærringskjæret lanterne i vest til Vonflua lykt i øst til gjennomseiling:fartøy med farlig eller forurensende last som har større lengde enn 120 meterfartøy med større lengde enn 150 meterfartøy med større lengde enn 120 meter og større dypgående enn 7 meterfartøy med større dypgående enn 8 meter.
+Følgende fartøy skal ikke bruke farvannet fra Kjærringskjæret lanterne i vest til Vonflua lykt i øst til gjennomseiling:
+
+1. fartøy med farlig eller forurensende last som har større lengde enn 120 meter
+2. fartøy med større lengde enn 150 meter
+3. fartøy med større lengde enn 120 meter og større dypgående enn 7 meter
+4. fartøy med større dypgående enn 8 meter.
 
 > Endret ved forskrift [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 126).
 
@@ -854,7 +953,10 @@ Sørgående fartøy med større lengde enn 24 meter skal bruke farvannet nord om
 
 ### § 131. (forbud mot passering i Kobbeleia og Vatlestraumen)
 
-Fartøy med farlig eller forurensende last som har større lengde enn 100 meter og fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet:fra Kjærringskjæret lanterne i sør til Håkonshella lanterne i nordfra Hilleren lykt i sør til Håkonshella lanterne i nord.
+Fartøy med farlig eller forurensende last som har større lengde enn 100 meter og fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet:
+
+1. fra Kjærringskjæret lanterne i sør til Håkonshella lanterne i nord
+2. fra Hilleren lykt i sør til Håkonshella lanterne i nord.
 
 Ved sikt under 0,5 nautisk mil skal ikke fartøy med større lengde enn 70 meter passere andre fartøy.
 
@@ -866,7 +968,11 @@ Første til tredje ledd gjelder ikke ved passering av fartøy med lengde mindre 
 
 ### § 132. (forbud mot gjennomseiling av farvannet på strekningen Vatlestraumen til Sotra bro)
 
-Følgende fartøy skal ikke bruke farvannet fra Hilleren lykt i sør til Sotra bro i nord til gjennomseiling:fartøy med farlig eller forurensende last og med større lengde enn 150 meterfartøy med større lengde enn 200 meterpassasjerfartøy med større lengde enn 255 meter.
+Følgende fartøy skal ikke bruke farvannet fra Hilleren lykt i sør til Sotra bro i nord til gjennomseiling:
+
+1. fartøy med farlig eller forurensende last og med større lengde enn 150 meter
+2. fartøy med større lengde enn 200 meter
+3. passasjerfartøy med større lengde enn 255 meter.
 
 Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Hilleren lykt i sør og til Skjeljanger lykt i nord, regnes ikke som gjennomseiling.
 
@@ -892,7 +998,16 @@ Fartøy med større lengde enn 100 meter skal ikke passere andre fartøy i farva
 
 ### § 136. (forbud mot bruk av farvannet ved Stureterminalen)
 
-Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:60° 37,49′ N 004° 51,25′ Ø60° 37,56′ N 004° 51,48′ Ø60° 37,38′ N 004° 51,78′ Ø60° 36,69′ N 004° 52,01′ Ø60° 36,50′ N 004° 51,89′ Ø60° 36,51′ N 004° 51,85′ Ø60° 36,53′ N 004° 51,80′ Ø60° 36,63′ N 004° 51,66′ Ø.
+Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:
+
+1. 60° 37,49′ N 004° 51,25′ Ø
+2. 60° 37,56′ N 004° 51,48′ Ø
+3. 60° 37,38′ N 004° 51,78′ Ø
+4. 60° 36,69′ N 004° 52,01′ Ø
+5. 60° 36,50′ N 004° 51,89′ Ø
+6. 60° 36,51′ N 004° 51,85′ Ø
+7. 60° 36,53′ N 004° 51,80′ Ø
+8. 60° 36,63′ N 004° 51,66′ Ø.
 
 Første ledd gjelder ikke fartøy som skal anløpe eller avgå Stureterminalen og fartøy som assisterer ved ankomst eller avgang.
 
@@ -924,7 +1039,11 @@ Fartøy med større lengde enn 120 meter skal ikke bruke farvannet mellom Hilles
 
 ### § 141. (forbud mot gjennomseiling i Brosmeosen)
 
-Følgende fartøy skal ikke bruke farvannet mellom Brosmeskjærene lanterne og Røytingkalven lykt til gjennomseiling:fartøy med farlig eller forurensende last som har større lengde enn 150 meterfartøy med større lengde enn 180 meterpassasjerfartøy med større lengde enn 210 meter.
+Følgende fartøy skal ikke bruke farvannet mellom Brosmeskjærene lanterne og Røytingkalven lykt til gjennomseiling:
+
+1. fartøy med farlig eller forurensende last som har større lengde enn 150 meter
+2. fartøy med større lengde enn 180 meter
+3. passasjerfartøy med større lengde enn 210 meter.
 
 > Endret ved forskrift [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 138).
 
@@ -1000,7 +1119,11 @@ Fartøy med farlig eller forurensede last som seiler mellom Nyhamna og ankringsp
 
 ### § 152. (forbud mot bruk av farvann ved terminalen på Nyhamna)
 
-Fartøy skal ikke bruke farvannet i et område avgrenset av rette linjer mellom følgende posisjoner:62° 51,50′ N 006° 56,73′ Ø (Selsneset)62° 51,20′ N 006° 58,00′ Ø62° 51,05′ N 006° 57,96′ Ø (Steinneset).
+Fartøy skal ikke bruke farvannet i et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. 62° 51,50′ N 006° 56,73′ Ø (Selsneset)
+2. 62° 51,20′ N 006° 58,00′ Ø
+3. 62° 51,05′ N 006° 57,96′ Ø (Steinneset).
 
 Første ledd gjelder ikke fartøy som har tillatelse fra terminalen på Nyhamna eller fartøy som assisterer annet fartøy som har slik tillatelse.
 
@@ -1022,7 +1145,20 @@ Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna som bru
 
 ### § 155. (krav om bruk av ankringsplasser for fartøy med farlig eller forurensende last på vei til eller fra Nyhamna)
 
-Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna, og som har behov for ankring, skal bruke en av følgende ankringsplasser:ankringsplass i Karlsøyfjorden som er angitt av rette linjer mellom følgende posisjoner:62° 42,61′ N 007° 22,26′ Ø62° 41,95′ N 007° 17,40′ Ø62° 42,96′ N 007° 17,40′ Ø62° 43,66′ N 007° 22,26′ Øankringsplass i Midfjorden som er angitt av rette linjer mellom følgende posisjoner:62° 39,41′ N 006° 56,82′ Ø62° 38,83′ N 006° 53,54′ Ø62° 39,60′ N 006° 53,20′ Ø62° 39,82′ N 006° 55,62′ Ø.
+Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna, og som har behov for ankring, skal bruke en av følgende ankringsplasser:
+
+1. ankringsplass i Karlsøyfjorden som er angitt av rette linjer mellom følgende posisjoner:
+
+   - 62° 42,61′ N 007° 22,26′ Ø
+   - 62° 41,95′ N 007° 17,40′ Ø
+   - 62° 42,96′ N 007° 17,40′ Ø
+   - 62° 43,66′ N 007° 22,26′ Ø
+2. ankringsplass i Midfjorden som er angitt av rette linjer mellom følgende posisjoner:
+
+   - 62° 39,41′ N 006° 56,82′ Ø
+   - 62° 38,83′ N 006° 53,54′ Ø
+   - 62° 39,60′ N 006° 53,20′ Ø
+   - 62° 39,82′ N 006° 55,62′ Ø.
 
 > Endret ved forskrifter [31 mai 2021 nr. 1740](forskrift/2021-05-31-1740) (i kraft 1 juni 2021, tidligere § 146), [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 152).
 
@@ -1040,7 +1176,12 @@ Fartøy med større lengde enn 70 meter som skal ankre i Ofotfjorden, Herjangsfj
 
 Ved tildeling av ankringsplass kan sjøtrafikksentralen i Vardø sette vilkår for ankringen. Når det er nødvendig sjøsikkerhetsmessig kan sjøtrafikksentralen begrense hvor mange ankringsposisjoner som kan brukes.
 
-Fartøy som nevnt i første ledd skal bruke en av følgende ankringsplasserankringsplass ved Herjangen 1 (68° 29.50′ N 017° 25.85 Ø)ankringsplass ved Herjangen 2 (68° 28.9′ N 017° 25.60 Ø)ankringsplass ved Herjangen 3 (68° 28.2′ N 017° 25.10 Ø)ankringsplasser utpekt i [forskrift 17. desember 2020 nr. 3277 om ankring, Narvik kommune, Nordland](forskrift/2020-12-17-3277).
+Fartøy som nevnt i første ledd skal bruke en av følgende ankringsplasser
+
+1. ankringsplass ved Herjangen 1 (68° 29.50′ N 017° 25.85 Ø)
+2. ankringsplass ved Herjangen 2 (68° 28.9′ N 017° 25.60 Ø)
+3. ankringsplass ved Herjangen 3 (68° 28.2′ N 017° 25.10 Ø)
+4. ankringsplasser utpekt i [forskrift 17. desember 2020 nr. 3277 om ankring, Narvik kommune, Nordland](forskrift/2020-12-17-3277).
 
 > Endret ved forskrifter [31 mai 2021 nr. 1740](forskrift/2021-05-31-1740) (i kraft 1 juni 2021, tidligere § 148), [29 juni 2026 nr. 1454](forskrift/2026-06-29-1454) (i kraft 1 juli 2026, tidligere § 154).
 
@@ -1124,7 +1265,14 @@ Fartøy med større lengde enn 160 meter skal ha assistanse av 2 taubåter ved p
 
 Passasjerfartøy med større lengde enn 150 meter som frakter passasjerer, skal ikke bruke farvann som beskrevet i andre ledd ved varslet vindhastighet (10 minutt middelvind) på 17,2 m/s eller mer.
 
-Forbudet i første ledd gjelder i følgende farvann, som er nærmere beskrevet i Kystverkets digitale kart «*Kystinfo*», og er en del av forskriften:[Stad](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=4.6225,62.08,5.668,62.49166666667,4326&themes=1108), strekningen Sildegapet til Runde fyr[Hustadvika](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=6.82566667,62.9096666667,7.663,63.3445,4326&themes=1108), strekningen Buadjupet til Grip fyr[Folda](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=9.98533333,64.4045,11.22116667,64.869833333,4326&themes=1108), strekningen Buholmråsa fyr til Rørvik[Fugløykalven](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=17.442666667,69.709833333,20.21783333,70.57366667,4326&themes=1108), strekningen Hekkingen til Fugløykalven[Sørøya](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=21.4755,70.481,23.315,71.06,4326&themes=1108), strekningen Hasvik til Tarhalsen[Honningsvåg](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=23.989500000000024,70.994666667,26.599999999999973,71.38433333,4326&themes=1108), strekningen Fruholmen til Helneset.
+Forbudet i første ledd gjelder i følgende farvann, som er nærmere beskrevet i Kystverkets digitale kart «*Kystinfo*», og er en del av forskriften:
+
+1. [Stad](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=4.6225,62.08,5.668,62.49166666667,4326&themes=1108), strekningen Sildegapet til Runde fyr
+2. [Hustadvika](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=6.82566667,62.9096666667,7.663,63.3445,4326&themes=1108), strekningen Buadjupet til Grip fyr
+3. [Folda](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=9.98533333,64.4045,11.22116667,64.869833333,4326&themes=1108), strekningen Buholmråsa fyr til Rørvik
+4. [Fugløykalven](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=17.442666667,69.709833333,20.21783333,70.57366667,4326&themes=1108), strekningen Hekkingen til Fugløykalven
+5. [Sørøya](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=21.4755,70.481,23.315,71.06,4326&themes=1108), strekningen Hasvik til Tarhalsen
+6. [Honningsvåg](https://kystinfo.kystverket.no/sjotrafikkforskrift?zoombox=23.989500000000024,70.994666667,26.599999999999973,71.38433333,4326&themes=1108), strekningen Fruholmen til Helneset.
 
 Ved fastsettelse av vindhastighet skal den offisielle kuling- og stormvarslingen til Meteorologisk institutt legges til grunn.
 
@@ -1144,7 +1292,13 @@ Forbudet i første ledd gjelder ikke for fremmede fartøy som er i uskyldig gjen
 
 ### § 170. (hvem rutetiltakene i § 171 gjelder for)
 
-Rutetiltakene i [§ 171](forskrift/2021-02-10-523/§171) gjelder for følgende kategorier fartøy:oljetankfartøy som definert i MARPOL 73/78, vedlegg Ikjemikalietankfartøy som transporterer skadelige flytende stoffer i bulk når stoffene er vurdert eller foreløpig vurdert som Kategori X eller Y i henhold til MARPOL 73/78, vedlegg II,fartøy som fører radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden)atomdrevne fartøy, ogfartøy på 5 000 bruttotonn og mer.
+Rutetiltakene i [§ 171](forskrift/2021-02-10-523/§171) gjelder for følgende kategorier fartøy:
+
+1. oljetankfartøy som definert i MARPOL 73/78, vedlegg I
+2. kjemikalietankfartøy som transporterer skadelige flytende stoffer i bulk når stoffene er vurdert eller foreløpig vurdert som Kategori X eller Y i henhold til MARPOL 73/78, vedlegg II,
+3. fartøy som fører radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden)
+4. atomdrevne fartøy, og
+5. fartøy på 5 000 bruttotonn og mer.
 
 Første ledd gjelder ikke for fartøy som går mellom havner i Fastlands-Norge, eller for passasjerfartøy som går i rutefart mellom norsk og internasjonal havn med anløp minst en gang i uken.
 

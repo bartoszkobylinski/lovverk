@@ -36,7 +36,15 @@ Forskrifta gjeld ikkje for privatpraktiserande lege- og psykologspesialistar som
 
 ## § 3. Definisjonar
 
-I denne forskrifta meiner ein med:*ålmennfarlege smittsame sjukdomar;* sjukdomar som er rekna opp i [forskrifta 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer*godkjend eigendel:* beløpet pasienten betalar for poliklinisk helsehjelp, og som går inn i grunnlaget for frikort etter forskrift [18. desember 2020 nr. 2990](forskrift/2020-12-18-2990) om egenandelstak [§ 1](forskrift/2020-12-18-2990/§1) fyrste leden bokstav b og f, jamfør [§ 2](forskrift/2020-12-18-2990/§2) nr. 2 og 3.*pasientbetaling:* betaling frå pasienten som nemnd i § 7, § 8 og § 9, og som ikkje går inn i grunnlaget for frikort etter forskrift [18. desember 2020 nr. 2990](forskrift/2020-12-18-2990) om egenandelstak [§ 1](forskrift/2020-12-18-2990/§1) fyrste leden bokstav b og f, jamfør [§ 2](forskrift/2020-12-18-2990/§2) nr. 2 og 3.*Barne- og ungdomspsykiatrisk poliklinikk (BUP):* eining i spesialisthelsetenesta innanfor psykisk helsevern som yt poliklinisk helsehjelp til barn og ungdom.*Psykiatrisk ungdomsteam (PUT):* eining som yt poliklinisk helsehjelp ved rusavhengnad.*Overgrepsmottak:* spesialisthelseteneste som særskilt yt tilbod til personar som har vorte utsett for seksuelle overgrep eller vald i nære relasjonar.*Statens barnehus:* statleg tilbod til barn og ungdom, og voksne som er særskilt sårbare, når det er mistanke om at dei kan ha vore utsette for, eller vore vitne til, vald eller seksuelle overgrep.
+I denne forskrifta meiner ein med:
+
+1. *ålmennfarlege smittsame sjukdomar;* sjukdomar som er rekna opp i [forskrifta 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer
+2. *godkjend eigendel:* beløpet pasienten betalar for poliklinisk helsehjelp, og som går inn i grunnlaget for frikort etter forskrift [18. desember 2020 nr. 2990](forskrift/2020-12-18-2990) om egenandelstak [§ 1](forskrift/2020-12-18-2990/§1) fyrste leden bokstav b og f, jamfør [§ 2](forskrift/2020-12-18-2990/§2) nr. 2 og 3.
+3. *pasientbetaling:* betaling frå pasienten som nemnd i § 7, § 8 og § 9, og som ikkje går inn i grunnlaget for frikort etter forskrift [18. desember 2020 nr. 2990](forskrift/2020-12-18-2990) om egenandelstak [§ 1](forskrift/2020-12-18-2990/§1) fyrste leden bokstav b og f, jamfør [§ 2](forskrift/2020-12-18-2990/§2) nr. 2 og 3.
+4. *Barne- og ungdomspsykiatrisk poliklinikk (BUP):* eining i spesialisthelsetenesta innanfor psykisk helsevern som yt poliklinisk helsehjelp til barn og ungdom.
+5. *Psykiatrisk ungdomsteam (PUT):* eining som yt poliklinisk helsehjelp ved rusavhengnad.
+6. *Overgrepsmottak:* spesialisthelseteneste som særskilt yt tilbod til personar som har vorte utsett for seksuelle overgrep eller vald i nære relasjonar.
+7. *Statens barnehus:* statleg tilbod til barn og ungdom, og voksne som er særskilt sårbare, når det er mistanke om at dei kan ha vore utsette for, eller vore vitne til, vald eller seksuelle overgrep.
 
 > Endra ved [forskrifter 19 des 2018 nr. 2166](forskrift/2018-12-19-2166) (i kraft 1 jan 2019), [18 des 2020 nr. 2991](forskrift/2020-12-18-2991) (i kraft 1 jan 2021).
 
@@ -58,7 +66,21 @@ Det kan krevjast betaling frå pasient for poliklinisk helsehjelp som vert ytt a
 
 ## § 5. Når pasienten likevel ikkje skal betale godkjend eigendel
 
-Godkjend eigendel som nemnd i [§ 4](forskrift/2016-12-20-1848/§4) vert i fylgjande høve dekt av staten:ved kontrollundersøkingar under svangerskap, fødsel, behandling for sjukdom i samband med svangerskap og fødsel, svangerskapsavbrot, og éi undersøking etter fødsel eller svangerskapsavbrot.ved behandling for skade og sjukdom som går inn under kapittel 13, jf. [§ 5-25 i folketrygdlova](lov/1997-02-28-19/§5-25) og under lov om krigspensjonering for militærpersoner og lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner. Helsehjelpa kan ikkje gjevast av militært helsepersonell.ved behandling av personar som er innsette i anstaltane til kriminalomsorga dersom helsehjelpa vert gjeven av anna personell enn det som er knytt til helsetenester til innsette.ved behandling der tilstanden til pasienten er til hinder for å krevje eigendelen, til dømes ved alvorlege sinnslidingar, behandling etter [pasient- og brukerrettighetsloven kapittel 4A](lov/1999-07-02-63/kap4a), større akutt skade, medvitsløyse og dødsfall.ved behandling av born under 16 år.ved poliklinisk helsehjelp til pasientar innanfor psykisk helsevern og tverrfaglig spesialisert behandling for rusmiddelavhengighet (TSB) til og med det kalenderår dei fyller 26 år og poliklinisk helsehjelp av rusavhengnad i PUT til pasientar under 30 år.ved oppsøkjande behandling av rusmiddelavhengige.ved undersøking, behandling og kontroll av ålmennfarlege smittsame sjukdomar etter [smittevernlova § 3-5](lov/1994-08-05-55/§3-5), [§ 3-6](lov/1994-08-05-55/§3-6) og [§ 5-1](lov/1994-08-05-55/§5-1) og elles når det er behov for undersøking, behandling eller kontroll for ålmennfarlege smittsame sjukdomar, dersom pasienten har grunn til å tru seg smitta eller helsepersonellet får mistanke om at det foreligger ein ålmennfarleg smittsam sjukdom.ved undersøking av personar som søkjer akutt hjelp ved overgrepsmottak.ved undersøking på Statens barnehus.ved rettleiing om, innsetting eller fjerning av langtidsverkande prevensjon til kvinner i fertil alder som får behandling i Legemiddelassistert rehabilitering (LAR).ved poliklinisk helsehjelp til pasientar som får behandling i Legemiddelassistert rehabilitering (LAR), når helsehjelpen gis i forbindelse med gjennomføring av LAR.ved to oppfølgingssamtaler etter abort.
+Godkjend eigendel som nemnd i [§ 4](forskrift/2016-12-20-1848/§4) vert i fylgjande høve dekt av staten:
+
+1. ved kontrollundersøkingar under svangerskap, fødsel, behandling for sjukdom i samband med svangerskap og fødsel, svangerskapsavbrot, og éi undersøking etter fødsel eller svangerskapsavbrot.
+2. ved behandling for skade og sjukdom som går inn under kapittel 13, jf. [§ 5-25 i folketrygdlova](lov/1997-02-28-19/§5-25) og under lov om krigspensjonering for militærpersoner og lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner. Helsehjelpa kan ikkje gjevast av militært helsepersonell.
+3. ved behandling av personar som er innsette i anstaltane til kriminalomsorga dersom helsehjelpa vert gjeven av anna personell enn det som er knytt til helsetenester til innsette.
+4. ved behandling der tilstanden til pasienten er til hinder for å krevje eigendelen, til dømes ved alvorlege sinnslidingar, behandling etter [pasient- og brukerrettighetsloven kapittel 4A](lov/1999-07-02-63/kap4a), større akutt skade, medvitsløyse og dødsfall.
+5. ved behandling av born under 16 år.
+6. ved poliklinisk helsehjelp til pasientar innanfor psykisk helsevern og tverrfaglig spesialisert behandling for rusmiddelavhengighet (TSB) til og med det kalenderår dei fyller 26 år og poliklinisk helsehjelp av rusavhengnad i PUT til pasientar under 30 år.
+7. ved oppsøkjande behandling av rusmiddelavhengige.
+8. ved undersøking, behandling og kontroll av ålmennfarlege smittsame sjukdomar etter [smittevernlova § 3-5](lov/1994-08-05-55/§3-5), [§ 3-6](lov/1994-08-05-55/§3-6) og [§ 5-1](lov/1994-08-05-55/§5-1) og elles når det er behov for undersøking, behandling eller kontroll for ålmennfarlege smittsame sjukdomar, dersom pasienten har grunn til å tru seg smitta eller helsepersonellet får mistanke om at det foreligger ein ålmennfarleg smittsam sjukdom.
+9. ved undersøking av personar som søkjer akutt hjelp ved overgrepsmottak.
+10. ved undersøking på Statens barnehus.
+11. ved rettleiing om, innsetting eller fjerning av langtidsverkande prevensjon til kvinner i fertil alder som får behandling i Legemiddelassistert rehabilitering (LAR).
+12. ved poliklinisk helsehjelp til pasientar som får behandling i Legemiddelassistert rehabilitering (LAR), når helsehjelpen gis i forbindelse med gjennomføring av LAR.
+13. ved to oppfølgingssamtaler etter abort.
 
 Ved behandling som nemnd i bokstav h skal helsepersonellet grunngje i pasienten sin journal at eitt eller fleire av vilkåra for dekkjing av eigendel er oppfylt. Staten dekkjer eigendel for helsehjelp etter bokstav h for pasientar som oppheld seg i riket sjølv om pasienten ikkje er medlem av folketrygda.
 
@@ -86,7 +108,16 @@ I høve godkjend yrkesskade etter lov [28. februar 1997 nr. 19](lov/1997-02-28-1
 
 ## § 9. Pasientbetaling for særskilt helsehjelp
 
-Som betaling for særskilt poliklinisk helsehjelp som nemnd i denne føresegna, kan pasienten verta kravd for:sterilisering av kvinner utan medisinsk indikasjon: 6 079 kroner;sterilisering av kvinner med medisinsk indikasjon: 75 kroner;sterilisering av menn: 1 268 kroner;assistert befruktning i form av inseminasjonsbehandling: 1 500 kroner;assistert befruktning utenfor kroppen (IVF- og ICSI-behandling), for kvar einskild av totalt tre forsøk: 1 500 kroner;fyrste kirurgiske innsetjing av implantat, om marginal periodontitt er hovudgrunnen for tanntapet: 6 500 kroner;kvar påfylgjande kirurgiske innsetjing av implantat, om marginal periodontitt er hovedgrunnen for tanntapet: 2 550 kroner;Non-invasiv prenatal test (NIPT) for trisomi 13, 18 og 21 for kvinner under 35 år ved termin uten andre indikasjoner for fosterdiagnostikk: 6 000 kroner.
+Som betaling for særskilt poliklinisk helsehjelp som nemnd i denne føresegna, kan pasienten verta kravd for:
+
+1. sterilisering av kvinner utan medisinsk indikasjon: 6 079 kroner;
+2. sterilisering av kvinner med medisinsk indikasjon: 75 kroner;
+3. sterilisering av menn: 1 268 kroner;
+4. assistert befruktning i form av inseminasjonsbehandling: 1 500 kroner;
+5. assistert befruktning utenfor kroppen (IVF- og ICSI-behandling), for kvar einskild av totalt tre forsøk: 1 500 kroner;
+6. fyrste kirurgiske innsetjing av implantat, om marginal periodontitt er hovudgrunnen for tanntapet: 6 500 kroner;
+7. kvar påfylgjande kirurgiske innsetjing av implantat, om marginal periodontitt er hovedgrunnen for tanntapet: 2 550 kroner;
+8. Non-invasiv prenatal test (NIPT) for trisomi 13, 18 og 21 for kvinner under 35 år ved termin uten andre indikasjoner for fosterdiagnostikk: 6 000 kroner.
 
 Pasienten skal ikkje betale eigendel etter [§ 4](forskrift/2016-12-20-1848/§4), eller for materiell etter [§ 8](forskrift/2016-12-20-1848/§8) fyrste leden.
 

@@ -32,7 +32,14 @@ Denne forskriften gjelder for kjemikalier som produseres eller importeres i Norg
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*kjemiske stoffer:* Grunnstoffer og deres kjemiske forbindelser med andre grunnstoffer, slik de forekommer naturlig eller industrielt fremstilt. Dette omfatter også de tilsetningsstoffer som er nødvendige for å bevare stoffenes stabilitet, samt slike urenheter som oppstår fra den produksjonsprosess som benyttes, unntatt løsemidler som kan utskilles uten at det påvirker stoffets stabilitet eller endrer dets sammensetning.*stoffblandinger:* Oppløsninger eller faste, flytende og gassformige blandinger som består av to eller flere kjemiske stoffer.*kjemikalier:* Kjemiske stoffer og stoffblandinger.*produksjon:* Fysisk tilvirking av kjemikalier i Norge. Navnebytte av kjemikalier, herunder bytte av handelsnavn eller etikettansvarlig virksomhet, anses også for produksjon.*import:* Fysisk innførsel til Norges territorium, med mindre annet fremgår særskilt av de enkelte bestemmelser.*produktregisteret:* Myndighetenes sentrale register over kjemiske stoffer og stoffblandinger som importeres til eller produseres i Norge. Miljødirektoratet drifter og utvikler produktregisteret.
+I denne forskriften menes med
+
+1. *kjemiske stoffer:* Grunnstoffer og deres kjemiske forbindelser med andre grunnstoffer, slik de forekommer naturlig eller industrielt fremstilt. Dette omfatter også de tilsetningsstoffer som er nødvendige for å bevare stoffenes stabilitet, samt slike urenheter som oppstår fra den produksjonsprosess som benyttes, unntatt løsemidler som kan utskilles uten at det påvirker stoffets stabilitet eller endrer dets sammensetning.
+2. *stoffblandinger:* Oppløsninger eller faste, flytende og gassformige blandinger som består av to eller flere kjemiske stoffer.
+3. *kjemikalier:* Kjemiske stoffer og stoffblandinger.
+4. *produksjon:* Fysisk tilvirking av kjemikalier i Norge. Navnebytte av kjemikalier, herunder bytte av handelsnavn eller etikettansvarlig virksomhet, anses også for produksjon.
+5. *import:* Fysisk innførsel til Norges territorium, med mindre annet fremgår særskilt av de enkelte bestemmelser.
+6. *produktregisteret:* Myndighetenes sentrale register over kjemiske stoffer og stoffblandinger som importeres til eller produseres i Norge. Miljødirektoratet drifter og utvikler produktregisteret.
 
 ## Kapittel 2: Deklarering av kjemikalier
 
@@ -40,7 +47,16 @@ I denne forskriften menes med*kjemiske stoffer:* Grunnstoffer og deres kjemiske 
 
 Dette kapitlet gjelder for kjemikalier som er klassifisert i henhold til CLP-forordningen artikkel 3 jf. [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften),
 
-Kapitlet gjelder ikke følgende kjemikalier i bruksklar stand, bestemt for sluttbruker:Alkoholholdig drikk, som er regulert i [lov 2. juni 1989 nr. 27](lov/1989-06-02-27) om omsetning av alkoholholdig drikk mv. (alkoholloven),avfall, som er regulert i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om forurensninger og avfall (forurensningsloven),fôrvarer, næringsmidler og plantevernmidler som er regulert i [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven),kosmetiske produkter som er regulert i [lov 21. desember 2005 nr. 126](lov/2005-12-21-126) om kosmetikk og kroppspleieprodukter mv. (kosmetikkloven),medisinske produkter til humanmedisinsk eller veterinærmedisinsk bruk, som er regulert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler mv. (legemiddelloven),medisinsk utstyr, herunder materiale, som innføres i menneskekroppen (invasivt) eller brukes i direkte kontakt med kroppen, som er regulert i [lov 12. januar 1995 nr. 6](lov/1995-01-12-6) om medisinsk utstyr, forutsatt at annen lovgivning fastsetter bestemmelser om klassifisering og merking av farlige stoffer og stoffblandinger som sikrer samme informasjons- og beskyttelsesnivå som denne forskrift,radioaktive kjemikalier, som er regulert i [lov 12. mai 2000 nr. 36](lov/2000-05-12-36) om strålevern og bruk av stråling (strålevernloven),tobakksvarer, som er regulert i [lov 9. mars 1973 nr. 14](lov/1973-03-09-14) om vern mot tobakkskader.
+Kapitlet gjelder ikke følgende kjemikalier i bruksklar stand, bestemt for sluttbruker:
+
+1. Alkoholholdig drikk, som er regulert i [lov 2. juni 1989 nr. 27](lov/1989-06-02-27) om omsetning av alkoholholdig drikk mv. (alkoholloven),
+2. avfall, som er regulert i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om forurensninger og avfall (forurensningsloven),
+3. fôrvarer, næringsmidler og plantevernmidler som er regulert i [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven),
+4. kosmetiske produkter som er regulert i [lov 21. desember 2005 nr. 126](lov/2005-12-21-126) om kosmetikk og kroppspleieprodukter mv. (kosmetikkloven),
+5. medisinske produkter til humanmedisinsk eller veterinærmedisinsk bruk, som er regulert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler mv. (legemiddelloven),
+6. medisinsk utstyr, herunder materiale, som innføres i menneskekroppen (invasivt) eller brukes i direkte kontakt med kroppen, som er regulert i [lov 12. januar 1995 nr. 6](lov/1995-01-12-6) om medisinsk utstyr, forutsatt at annen lovgivning fastsetter bestemmelser om klassifisering og merking av farlige stoffer og stoffblandinger som sikrer samme informasjons- og beskyttelsesnivå som denne forskrift,
+7. radioaktive kjemikalier, som er regulert i [lov 12. mai 2000 nr. 36](lov/2000-05-12-36) om strålevern og bruk av stråling (strålevernloven),
+8. tobakksvarer, som er regulert i [lov 9. mars 1973 nr. 14](lov/1973-03-09-14) om vern mot tobakkskader.
 
 For petroleumsvirksomheten gjelder kapitlet på de områder som er nevnt i [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg ([rammeforskriften) § 2](forskrift/2010-02-12-158/§2) første ledd og [§ 4](forskrift/2010-02-12-158/§4) første ledd, med unntak av de områder som følger av [§ 4](forskrift/2010-02-12-158/§4) andre ledd.
 
@@ -54,7 +70,16 @@ Deklareringspliktige kjemikalier jf. første ledd skal være deklarert til Milj�
 
 ### § 5. Opplysninger som deklarasjonen skal inneholde
 
-Deklarasjonen skal inneholde:Navn, adresse med telefonnummer og bedriftsnummer til ansvarlig virksomhet jf. [§ 4](forskrift/2015-05-19-541/§4) første ledd,angivelse av om import til Norge er fra land innenfor eller utenfor EØS-området,kjemikaliets handelsnavn i samsvar med navn på emballasjen,kjemikaliets varselord, kode for farepiktogram (alle aktuelle) og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften,kjemikaliets bruksområde angitt med mengdefordeling på bransjer og produkttyper,faktisk mengde produsert, importert og eksportert per år,innholdsangivelse i samsvar med [§ 6](forskrift/2015-05-19-541/§6),fysikalske data av betydning for å vurdere farlige egenskaper ved kjemikaliet.
+Deklarasjonen skal inneholde:
+
+1. Navn, adresse med telefonnummer og bedriftsnummer til ansvarlig virksomhet jf. [§ 4](forskrift/2015-05-19-541/§4) første ledd,
+2. angivelse av om import til Norge er fra land innenfor eller utenfor EØS-området,
+3. kjemikaliets handelsnavn i samsvar med navn på emballasjen,
+4. kjemikaliets varselord, kode for farepiktogram (alle aktuelle) og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften,
+5. kjemikaliets bruksområde angitt med mengdefordeling på bransjer og produkttyper,
+6. faktisk mengde produsert, importert og eksportert per år,
+7. innholdsangivelse i samsvar med [§ 6](forskrift/2015-05-19-541/§6),
+8. fysikalske data av betydning for å vurdere farlige egenskaper ved kjemikaliet.
 
 Informasjon som menes omfattet av lovbestemt taushetsplikt skal identifiseres og angis av den ansvarlige jf. [§ 4](forskrift/2015-05-19-541/§4) først ledd. Det skal også gis en begrunnelse for hvorfor den ansvarlige mener at informasjonen er taushetsbelagt.
 
@@ -62,9 +87,18 @@ Informasjon som menes omfattet av lovbestemt taushetsplikt skal identifiseres og
 
 ### § 6. Innholdsangivelse
 
-For deklareringspliktige kjemiske stoffer jf. [§ 4](forskrift/2015-05-19-541/§4) skal følgende angis:entydig kjemisk betegnelse,CAS-nr. og EC-nr.,for stoffer som er klassifisert; kode(r) for fareklasse og farekategori og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften.
+For deklareringspliktige kjemiske stoffer jf. [§ 4](forskrift/2015-05-19-541/§4) skal følgende angis:
 
-For deklareringspliktige stoffblandinger jf. [§ 4](forskrift/2015-05-19-541/§4), skal følgende angis:entydig kjemisk betegnelse på alle kjemiske stoffer i stoffblandingen,CAS-nr. og EC-nr.,for stoffer som er klassifisert; kode(r) for fareklasse og farekategori og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften,mengden av hver komponent angitt i vektprosent. Summen av mengden av alle komponenter som angis skal være 100 vektprosent.
+1. entydig kjemisk betegnelse,
+2. CAS-nr. og EC-nr.,
+3. for stoffer som er klassifisert; kode(r) for fareklasse og farekategori og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften.
+
+For deklareringspliktige stoffblandinger jf. [§ 4](forskrift/2015-05-19-541/§4), skal følgende angis:
+
+1. entydig kjemisk betegnelse på alle kjemiske stoffer i stoffblandingen,
+2. CAS-nr. og EC-nr.,
+3. for stoffer som er klassifisert; kode(r) for fareklasse og farekategori og kode(r) for faresetninger i henhold til CLP-forordningen jf. CLP-forskriften,
+4. mengden av hver komponent angitt i vektprosent. Summen av mengden av alle komponenter som angis skal være 100 vektprosent.
 
 > Endret ved [forskrift 23 mai 2016 nr. 523](forskrift/2016-05-23-523).
 

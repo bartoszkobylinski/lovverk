@@ -17,7 +17,7 @@ xml_hash: "e6ceb41254665a4cb822451f8c9e53cea36eca2ccb330b913ff257e7eb0a42a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,41 +94,154 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål
 
-I denne forordningen fastsettes regler fori hvilke tilfeller og på hvilke vilkår visse økologiske produkter og omleggingsprodukter som innføres til Unionen, og som utgjør en lav risiko eller ingen konkret risiko for menneskers eller dyrs helse, plantehelsen, dyrevelferden eller miljøet, er unntatt fra offentlig kontroll på grensekontrollstasjoner for å verifisere at reglene for økologisk produksjon og merking av økologiske produkter overholdes,stedet der den offentlige kontrollen av produktene nevnt i bokstav a) som skal bringes i omsetning i Unionen, skal gjennomføres, ogendringer av delegert forordning [(EU) 2019/2123](eu/32019r2123) og [(EU) 2019/2124](eu/32019r2124).
+I denne forordningen fastsettes regler for
+
+1. i hvilke tilfeller og på hvilke vilkår visse økologiske produkter og omleggingsprodukter som innføres til Unionen, og som utgjør en lav risiko eller ingen konkret risiko for menneskers eller dyrs helse, plantehelsen, dyrevelferden eller miljøet, er unntatt fra offentlig kontroll på grensekontrollstasjoner for å verifisere at reglene for økologisk produksjon og merking av økologiske produkter overholdes,
+2. stedet der den offentlige kontrollen av produktene nevnt i bokstav a) som skal bringes i omsetning i Unionen, skal gjennomføres, og
+3. endringer av delegert forordning [(EU) 2019/2123](eu/32019r2123) og [(EU) 2019/2124](eu/32019r2124).
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«økologisk produkt» et produkt som definert i artikkel 3 nr. 2 i forordning [(EU) 2018/848](eu/32018r0848),«omleggingsprodukt» et produkt som definert i artikkel 3 nr. 7 i forordning [(EU) 2018/848](eu/32018r0848).
+I denne forordningen menes med
+
+1. «økologisk produkt» et produkt som definert i artikkel 3 nr. 2 i forordning [(EU) 2018/848](eu/32018r0848),
+2. «omleggingsprodukt» et produkt som definert i artikkel 3 nr. 7 i forordning [(EU) 2018/848](eu/32018r0848).
 
 ### Artikkel 3. Økologiske produkter og omleggingsprodukter som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
-Følgende økologiske produkter og omleggingsprodukter som innføres til Unionen, skal unntas fra offentlig kontroll på grensekontrollstasjonen for første ankomst til Unionen:Andre økologiske produkter og omleggingsprodukter enn dem som tilhører kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a)–e) i forordning [(EU) 2017/625](eu/32017r0625).Økologiske produkter og omleggingsprodukter som tilhører kategorien av dyr og varer nevnt i artikkel 47 nr. 1 bokstav f) i forordning [(EU) 2017/625](eu/32017r0625), unntatt de produktene som det i forbindelse med innførsel til Unionen er fastsatt vilkår eller tiltak for i samsvar med henholdsvis artikkel 126 eller artikkel 128 i forordning [(EU) 2017/625](eu/32017r0625), eller som det i forbindelse med innførsel til Unionen er fastsatt vilkår eller tiltak for i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav a)–h) og bokstav j) i nevnte forordning.
+Følgende økologiske produkter og omleggingsprodukter som innføres til Unionen, skal unntas fra offentlig kontroll på grensekontrollstasjonen for første ankomst til Unionen:
+
+1. Andre økologiske produkter og omleggingsprodukter enn dem som tilhører kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a)–e) i forordning [(EU) 2017/625](eu/32017r0625).
+2. Økologiske produkter og omleggingsprodukter som tilhører kategorien av dyr og varer nevnt i artikkel 47 nr. 1 bokstav f) i forordning [(EU) 2017/625](eu/32017r0625), unntatt de produktene som det i forbindelse med innførsel til Unionen er fastsatt vilkår eller tiltak for i samsvar med henholdsvis artikkel 126 eller artikkel 128 i forordning [(EU) 2017/625](eu/32017r0625), eller som det i forbindelse med innførsel til Unionen er fastsatt vilkår eller tiltak for i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav a)–h) og bokstav j) i nevnte forordning.
 
 ### Artikkel 4. Sted for offentlig kontroll av økologiske produkter og omleggingsprodukter som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
 1\. For økologiske produkter og omleggingsprodukter omhandlet i artikkel 3 som skal bringes i omsetning i Unionen, skal de vedkommende myndighetene gjennomføre offentlig kontroll på steder for frigivelse for fri omsetning i den medlemsstaten der forsendelsen frigis for fri omsetning i Unionen.
 
-2\. Medlemsstatene skal informere Kommisjonen om de stedene for frigivelse for fri omsetning der de vedkommende myndighetene gjennomfører offentlig kontroll i samsvar med nr. 1, og skal angi navn, adresse og kontaktopplysninger.Kommisjonen skal føre en oppdatert liste i TRACES (Trade Control and Expert System) over steder for frigivelse for fri omsetning.
+2\. Medlemsstatene skal informere Kommisjonen om de stedene for frigivelse for fri omsetning der de vedkommende myndighetene gjennomfører offentlig kontroll i samsvar med nr. 1, og skal angi navn, adresse og kontaktopplysninger.
+
+Kommisjonen skal føre en oppdatert liste i TRACES (Trade Control and Expert System) over steder for frigivelse for fri omsetning.
 
 3\. Medlemsstatene skal sørge for at vedkommende myndigheter på stedene for frigivelse for fri omsetning nevnt i nr. 1 har den teknologien og det utstyret som er nødvendig for å kunne bruke TRACES effektivt.
 
 ### Artikkel 5. Endring av delegert forordning (EU) 2019/2123
 
-I delegert forordning [(EU) 2019/2123](eu/32019r2123) gjøres følgende endringer:I artikkel 1 nr. 1 gjøres følgende endringer:I bokstav a) gjøres følgende endringer:Nytt punkt ia) skal lyde:forsendelser av planter, planteprodukter og andre gjenstander som det vises til i punkt i), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*,\* Europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1).»Punkt ii) skal lyde:forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak fastsatt i rettsaktene nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625), herunder forsendelser som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»Bokstav b) skal lyde:dokumentkontroll et annet sted enn ved en grensekontrollstasjon av forsendelser avplanter, planteprodukter og andre gjenstander som det vises til i artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031),planter, planteprodukter og andre gjenstander som det vises til i punkt i), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»Ny artikkel 1a innsettes før kapittel I:«Artikkel 1a
-**Definisjoner**I denne forordningen menes med«kontroll av næringsmiddel- og fôrtrygghet» offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a) og c) i forordning [(EU) 2017/625](eu/32017r0625),«plantehelsekontroll» offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav g) i forordning [(EU) 2017/625](eu/32017r0625),«økologikontroll» offentlig kontroll som omhandlet i artikkel 6 nr. 1 i delegert kommisjonsforordning [(EU) 2021/2306](eu/32021r2306)\*.\* Delegert kommisjonsforordning [(EU) 2021/2306](eu/32021r2306) av 21. oktober 2021 om utfylling av europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) med regler for offentlig kontroll av forsendelser av økologiske produkter og omleggingsprodukter beregnet på import til Unionen, og om kontrollsertifikatet (EUT L 461 av 27.12.2021, s. 13).»I artikkel 2 gjøres følgende endringer:I nr. 1 skal innledningen lyde:«Identitetskontroll og fysisk kontroll for å verifisere overholdelsen av Unionens regler for næringsmiddeltrygghet, fôrtrygghet og vernetiltak mot planteskadegjørere kan gjennomføres på et annet kontrollsted enn en grensekontrollstasjon dersom følgende vilkår er oppfylt:»Nytt nr. 4 skal lyde:De vedkommende myndighetene kan foreta følgende offentlige kontroll på et annet kontrollsted enn grensekontrollstasjonen angitt i CHED-dokumentet, med mindre det i rubrikk 30 i kontrollsertifikatet nevnt i artikkel 5 i delegert forordning [(EU) 2021/2306](eu/32021r2306) («kontrollsertifikatet») er krysset av for «Forsendelsen kan ikke frigis for fri omsetning»:Plantehelsekontroll i form av identitetskontroll og fysisk kontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia) i denne forordningen.Kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôrvarer av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1 bokstav a) ii) i denne forordningen, og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»Ny artikkel 2a skal lyde:
+I delegert forordning [(EU) 2019/2123](eu/32019r2123) gjøres følgende endringer:
+
+1. I artikkel 1 nr. 1 gjøres følgende endringer:
+
+   1. I bokstav a) gjøres følgende endringer:
+
+      1. Nytt punkt ia) skal lyde:
+
+         1. forsendelser av planter, planteprodukter og andre gjenstander som det vises til i punkt i), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*,
+
+            \* Europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1).»
+      2. Punkt ii) skal lyde:
+
+         1. forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak fastsatt i rettsaktene nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625), herunder forsendelser som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»
+   2. Bokstav b) skal lyde:
+
+      1. dokumentkontroll et annet sted enn ved en grensekontrollstasjon av forsendelser av
+
+         1. planter, planteprodukter og andre gjenstander som det vises til i artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031),
+         2. planter, planteprodukter og andre gjenstander som det vises til i punkt i), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»
+2. Ny artikkel 1a innsettes før kapittel I:
+
+   «Artikkel 1a
+   **Definisjoner**
+
+   I denne forordningen menes med
+
+   1. «kontroll av næringsmiddel- og fôrtrygghet» offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a) og c) i forordning [(EU) 2017/625](eu/32017r0625),
+   2. «plantehelsekontroll» offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav g) i forordning [(EU) 2017/625](eu/32017r0625),
+   3. «økologikontroll» offentlig kontroll som omhandlet i artikkel 6 nr. 1 i delegert kommisjonsforordning [(EU) 2021/2306](eu/32021r2306)\*.
+
+      \* Delegert kommisjonsforordning [(EU) 2021/2306](eu/32021r2306) av 21. oktober 2021 om utfylling av europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) med regler for offentlig kontroll av forsendelser av økologiske produkter og omleggingsprodukter beregnet på import til Unionen, og om kontrollsertifikatet (EUT L 461 av 27.12.2021, s. 13).»
+3. I artikkel 2 gjøres følgende endringer:
+
+   1. I nr. 1 skal innledningen lyde:
+
+      «Identitetskontroll og fysisk kontroll for å verifisere overholdelsen av Unionens regler for næringsmiddeltrygghet, fôrtrygghet og vernetiltak mot planteskadegjørere kan gjennomføres på et annet kontrollsted enn en grensekontrollstasjon dersom følgende vilkår er oppfylt:»
+   2. Nytt nr. 4 skal lyde:
+
+      1. De vedkommende myndighetene kan foreta følgende offentlige kontroll på et annet kontrollsted enn grensekontrollstasjonen angitt i CHED-dokumentet, med mindre det i rubrikk 30 i kontrollsertifikatet nevnt i artikkel 5 i delegert forordning [(EU) 2021/2306](eu/32021r2306) («kontrollsertifikatet») er krysset av for «Forsendelsen kan ikke frigis for fri omsetning»:
+
+         1. Plantehelsekontroll i form av identitetskontroll og fysisk kontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia) i denne forordningen.
+         2. Kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôrvarer av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1 bokstav a) ii) i denne forordningen, og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»
+4. Ny artikkel 2a skal lyde:
 
 «**Artikkel 2a**
-**Vilkår for gjennomføring av økologikontroll i form av identitetskontroll og fysisk kontroll på andre kontrollsteder enn grensekontrollstasjoner i forbindelse med forsendelser av visse produkter som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning (EU) 2018/848**De vedkommende myndighetene kan foreta økologikontroll i form av identitetskontroll og fysisk kontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia), og av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1, bokstav a) ii), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), på et annet kontrollsted enn grensekontrollstasjonen angitt i kontrollsertifikatet dersom følgende vilkår er oppfylt:Kontrollstedet der det skal gjennomføres økologikontroll i form av identitetskontroll og fysisk kontroll, er angitt i kontrollsertifikatet enten av aktøren som er ansvarlig for forsendelsen, i forbindelse med forhåndsmelding i samsvar med artikkel 3 nr. 1 i Kommisjonens gjennomføringsforordning [(EU) 2021/2307](eu/32021r2307)\*, eller av den vedkommende myndigheten på grensekontrollstasjonen.Resultatet av økologikontrollen i form av dokumentkontroll gjennomført av de vedkommende myndighetene på grensekontrollstasjonen er tilfredsstillende.De vedkommende myndighetene på grensekontrollstasjonen har i rubrikk 26 i kontrollsertifikatet angitt at de gir tillatelse til at forsendelsen kan overføres til kontrollstedet.De vedkommende myndighetene på grensekontrollstasjonen har i CHED-dokumentet angitt at de gir tillatelse til å overføre forsendelsen til et kontrollsted for kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll eller for plantehelsekontroll i form av identitetskontroll og fysisk kontroll, alt etter hva som er relevant.Før forsendelsen forlater grensekontrollstasjonen, underretter den vedkommende myndigheten på grensekontrollstasjonen med ansvar for økologikontroll den vedkommende myndigheten på kontrollstedet med ansvar for økologikontroll om forsendelsens ankomst ved å sende inn kontrollsertifikatet i TRACES (Trade Control and Expert System).Aktøren har transportert forsendelsen fra grensekontrollstasjonen til kontrollstedet under tollmyndighetenes tilsyn uten at varene er blitt losset under transporten.Aktøren har sikret at forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia), og av næringsmidler og fôr av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1, bokstav a) ii), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), ledsages til kontrollstedet av en bekreftet kopi av kontrollsertifikatet.Aktøren har oppgitt referansenummeret til kontrollsertifikatet i tolldeklarasjonen inngitt til tollmyndighetene med sikte på overføring av forsendelsen til kontrollstedet, og har stilt en kopi av dette sertifikatet til rådighet for tollmyndighetene som nevnt i artikkel 163 i forordning [(EU) nr. 952/2013](eu/32013r0952).Kravet om at en bekreftet kopi av kontrollsertifikatet nevnt i nr. 1 bokstav g) skal ledsage forsendelsen, gjelder ikke dersom dette sertifikatet er utstedt i TRACES av kontrollmyndigheten eller kontrollorganet i tredjelandet i samsvar med delegert forordning [(EU) 2021/2306](eu/32021r2306) eller lastet opp i TRACES av aktøren, og de vedkommende myndighetene på grensekontrollstasjonen har kontrollert at det tilsvarer det opprinnelige kontrollsertifikatet.\* Kommisjonens gjennomføringsforordning [(EU) 2021/2307](eu/32021r2307) av 21. oktober 2021 om fastsettelse av regler for dokumenter og meldinger som kreves for økologiske produkter og produkter under omlegging beregnet på import til Unionen (EUT L 461 av 27.12.2021, s. 30).»
+**Vilkår for gjennomføring av økologikontroll i form av identitetskontroll og fysisk kontroll på andre kontrollsteder enn grensekontrollstasjoner i forbindelse med forsendelser av visse produkter som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning (EU) 2018/848**
 
-1. I artikkel 3 gjøres følgende endringer:I nr. 1 skal innledningen lyde:«Identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) ii) kan gjennomføres av de vedkommende myndighetene på et annet kontrollsted enn en grensekontrollstasjon, dersom ett av følgende vilkår er oppfylt:»Nytt nr. 3 og 4 skal lyde:De vedkommende myndighetene kan foreta identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) ii) som er underlagt offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), på et annet kontrollsted enn en grensekontrollstasjon dersom, i tillegg til at et av vilkårene i nr. 1 i denne artikkelen er oppfylt,aktøren som er ansvarlig for forsendelsen, har anmodet om overføring til et kontrollsted både for kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll og for økologikontroll i form av identitetskontroll og fysisk kontroll,i tilfeller der forsendelsen velges ut av de vedkommende myndighetene på grensekontrollstasjonen til både kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll og til økologikontroll i form av identitetskontroll og fysisk kontroll, de vedkommende myndighetene på grensekontrollstasjonen har godkjent eller besluttet at forsendelsen skal overføres i forbindelse med all slik kontroll. Slik kontroll skal gjennomføres på samme kontrollsted, som skal utpekes for varekategorien i forsendelsen og ligge i medlemsstaten der forsendelsen skal frigis for fri omsetning.Dersom forsendelser overføres til et kontrollsted i samsvar med nr. 3, skal de vedkommende myndighetene på grensekontrollstasjonen med ansvar for kontroll av næringsmiddel- og fôrtrygghet registrere overføringen i CHED-dokumentet, og de vedkommende myndighetene på grensekontrollstasjonen med ansvar for økologikontroll skal registrere overføringen i kontrollsertifikatet.»
-2. I artikkel 4 gjøres følgende endringer:I nr. 1 skal ny bokstav c) lyde:planter, planteprodukter og andre gjenstander som det vises til i bokstav a) og b), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»Nytt nr. 4 og 5 skal lyde:Når det gjelder planter, planteprodukter og andre gjenstander som det vises til i nr. 1 bokstav c), kan identitetskontroll og fysisk kontroll gjennomføres av de vedkommende myndighetene på et annet kontrollsted enn en grensekontrollstasjon dersom, i tillegg til at et av vilkårene fastsatt i nr. 2 er oppfylt,aktøren som er ansvarlig for forsendelsen, har anmodet om overføring til et kontrollsted både for plantehelsekontroll i form av identitetskontroll og fysisk kontroll og for økologikontroll i form av identitetskontroll og fysisk kontroll,i tilfeller der forsendelsen velges ut av de vedkommende myndighetene på grensekontrollstasjonen til både plantehelsekontroll i form av identitetskontroll og fysisk kontroll og til økologikontroll i form av identitetskontroll og fysisk kontroll, de vedkommende myndighetene på grensekontrollstasjonen har godkjent eller besluttet at forsendelsen skal overføres i forbindelse med all slik kontroll. Slik kontroll skal gjennomføres på samme kontrollsted, som skal utpekes for varekategorien i forsendelsen og ligge i medlemsstaten der forsendelsen skal frigis for fri omsetning.Dersom forsendelser overføres til et kontrollsted i samsvar med nr. 4, skal de vedkommende myndighetene på grensekontrollstasjonen med ansvar for plantehelsekontroll registrere overføringen i CHED-dokumentet, og de vedkommende myndighetene på grensekontrollstasjonen med ansvar for økologikontroll skal registrere overføringen i kontrollsertifikatet.»
-3. I artikkel 6 skal nytt nr. 6 lyde:Når det gjelder forsendelser som overføres til et kontrollsted for økologikontroll i form av identitetskontroll og fysisk kontroll, skal de vedkommende myndighetene på kontrollstedetvia TRACES bekrefte overfor de vedkommende myndighetene på grensekontrollstasjonen som er ansvarlig for økologikontroll, at forsendelsen er ankommet,i kontrollsertifikatet registrere resultatet av økologikontrollen i form av identitetskontroll og fysisk kontroll og beslutningen som er truffet om forsendelsen i samsvar med artikkel 6 nr. 3 i delegert forordning [(EU) 2021/2306](eu/32021r2306).»
-4. I artikkel 7 skal innledningen lyde:«Dokumentkontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav b), og som innføres til Unionen, kan gjennomføres av en av følgende:»
-5. I artikkel 8 gjøres følgende endringer:I nr. 1 bokstav a) skal nytt punkt v) lyde:kontrollsertifikatet nevnt i delegert forordning [(EU) 2021/2306](eu/32021r2306), når det gjelder planter, planteprodukter og andre gjenstander som det vises til i artikkel 4 nr. 1 bokstav c) i denne forordningen.»Nr. 2 skal lyde:Dersom forsendelser av planter, planteprodukter og andre gjenstander skal transporteres av aktøren til et kontrollsted for gjennomføring av identitetskontroll og fysisk kontroll, får artikkel 2, 2a, 4 og 5 anvendelse.»
+1. De vedkommende myndighetene kan foreta økologikontroll i form av identitetskontroll og fysisk kontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia), og av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1, bokstav a) ii), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), på et annet kontrollsted enn grensekontrollstasjonen angitt i kontrollsertifikatet dersom følgende vilkår er oppfylt:
+
+   1. Kontrollstedet der det skal gjennomføres økologikontroll i form av identitetskontroll og fysisk kontroll, er angitt i kontrollsertifikatet enten av aktøren som er ansvarlig for forsendelsen, i forbindelse med forhåndsmelding i samsvar med artikkel 3 nr. 1 i Kommisjonens gjennomføringsforordning [(EU) 2021/2307](eu/32021r2307)\*, eller av den vedkommende myndigheten på grensekontrollstasjonen.
+   2. Resultatet av økologikontrollen i form av dokumentkontroll gjennomført av de vedkommende myndighetene på grensekontrollstasjonen er tilfredsstillende.
+   3. De vedkommende myndighetene på grensekontrollstasjonen har i rubrikk 26 i kontrollsertifikatet angitt at de gir tillatelse til at forsendelsen kan overføres til kontrollstedet.
+   4. De vedkommende myndighetene på grensekontrollstasjonen har i CHED-dokumentet angitt at de gir tillatelse til å overføre forsendelsen til et kontrollsted for kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll eller for plantehelsekontroll i form av identitetskontroll og fysisk kontroll, alt etter hva som er relevant.
+   5. Før forsendelsen forlater grensekontrollstasjonen, underretter den vedkommende myndigheten på grensekontrollstasjonen med ansvar for økologikontroll den vedkommende myndigheten på kontrollstedet med ansvar for økologikontroll om forsendelsens ankomst ved å sende inn kontrollsertifikatet i TRACES (Trade Control and Expert System).
+   6. Aktøren har transportert forsendelsen fra grensekontrollstasjonen til kontrollstedet under tollmyndighetenes tilsyn uten at varene er blitt losset under transporten.
+   7. Aktøren har sikret at forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) ia), og av næringsmidler og fôr av ikke-animalsk opprinnelse som det vises til i artikkel 1 nr. 1, bokstav a) ii), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), ledsages til kontrollstedet av en bekreftet kopi av kontrollsertifikatet.
+   8. Aktøren har oppgitt referansenummeret til kontrollsertifikatet i tolldeklarasjonen inngitt til tollmyndighetene med sikte på overføring av forsendelsen til kontrollstedet, og har stilt en kopi av dette sertifikatet til rådighet for tollmyndighetene som nevnt i artikkel 163 i forordning [(EU) nr. 952/2013](eu/32013r0952).
+2. Kravet om at en bekreftet kopi av kontrollsertifikatet nevnt i nr. 1 bokstav g) skal ledsage forsendelsen, gjelder ikke dersom dette sertifikatet er utstedt i TRACES av kontrollmyndigheten eller kontrollorganet i tredjelandet i samsvar med delegert forordning [(EU) 2021/2306](eu/32021r2306) eller lastet opp i TRACES av aktøren, og de vedkommende myndighetene på grensekontrollstasjonen har kontrollert at det tilsvarer det opprinnelige kontrollsertifikatet.
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2021/2307](eu/32021r2307) av 21. oktober 2021 om fastsettelse av regler for dokumenter og meldinger som kreves for økologiske produkter og produkter under omlegging beregnet på import til Unionen (EUT L 461 av 27.12.2021, s. 30).»
+
+1. I artikkel 3 gjøres følgende endringer:
+
+   1. I nr. 1 skal innledningen lyde:
+
+      «Identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) ii) kan gjennomføres av de vedkommende myndighetene på et annet kontrollsted enn en grensekontrollstasjon, dersom ett av følgende vilkår er oppfylt:»
+   2. Nytt nr. 3 og 4 skal lyde:
+
+      1. De vedkommende myndighetene kan foreta identitetskontroll og fysisk kontroll av forsendelser av næringsmidler og fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) ii) som er underlagt offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848), på et annet kontrollsted enn en grensekontrollstasjon dersom, i tillegg til at et av vilkårene i nr. 1 i denne artikkelen er oppfylt,
+
+         1. aktøren som er ansvarlig for forsendelsen, har anmodet om overføring til et kontrollsted både for kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll og for økologikontroll i form av identitetskontroll og fysisk kontroll,
+         2. i tilfeller der forsendelsen velges ut av de vedkommende myndighetene på grensekontrollstasjonen til både kontroll av næringsmiddel- og fôrtrygghet i form av identitetskontroll og fysisk kontroll og til økologikontroll i form av identitetskontroll og fysisk kontroll, de vedkommende myndighetene på grensekontrollstasjonen har godkjent eller besluttet at forsendelsen skal overføres i forbindelse med all slik kontroll. Slik kontroll skal gjennomføres på samme kontrollsted, som skal utpekes for varekategorien i forsendelsen og ligge i medlemsstaten der forsendelsen skal frigis for fri omsetning.
+      2. Dersom forsendelser overføres til et kontrollsted i samsvar med nr. 3, skal de vedkommende myndighetene på grensekontrollstasjonen med ansvar for kontroll av næringsmiddel- og fôrtrygghet registrere overføringen i CHED-dokumentet, og de vedkommende myndighetene på grensekontrollstasjonen med ansvar for økologikontroll skal registrere overføringen i kontrollsertifikatet.»
+2. I artikkel 4 gjøres følgende endringer:
+
+   1. I nr. 1 skal ny bokstav c) lyde:
+
+      1. planter, planteprodukter og andre gjenstander som det vises til i bokstav a) og b), som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i forordning [(EU) 2018/848](eu/32018r0848).»
+   2. Nytt nr. 4 og 5 skal lyde:
+
+      1. Når det gjelder planter, planteprodukter og andre gjenstander som det vises til i nr. 1 bokstav c), kan identitetskontroll og fysisk kontroll gjennomføres av de vedkommende myndighetene på et annet kontrollsted enn en grensekontrollstasjon dersom, i tillegg til at et av vilkårene fastsatt i nr. 2 er oppfylt,
+
+         1. aktøren som er ansvarlig for forsendelsen, har anmodet om overføring til et kontrollsted både for plantehelsekontroll i form av identitetskontroll og fysisk kontroll og for økologikontroll i form av identitetskontroll og fysisk kontroll,
+         2. i tilfeller der forsendelsen velges ut av de vedkommende myndighetene på grensekontrollstasjonen til både plantehelsekontroll i form av identitetskontroll og fysisk kontroll og til økologikontroll i form av identitetskontroll og fysisk kontroll, de vedkommende myndighetene på grensekontrollstasjonen har godkjent eller besluttet at forsendelsen skal overføres i forbindelse med all slik kontroll. Slik kontroll skal gjennomføres på samme kontrollsted, som skal utpekes for varekategorien i forsendelsen og ligge i medlemsstaten der forsendelsen skal frigis for fri omsetning.
+      2. Dersom forsendelser overføres til et kontrollsted i samsvar med nr. 4, skal de vedkommende myndighetene på grensekontrollstasjonen med ansvar for plantehelsekontroll registrere overføringen i CHED-dokumentet, og de vedkommende myndighetene på grensekontrollstasjonen med ansvar for økologikontroll skal registrere overføringen i kontrollsertifikatet.»
+3. I artikkel 6 skal nytt nr. 6 lyde:
+
+   1. Når det gjelder forsendelser som overføres til et kontrollsted for økologikontroll i form av identitetskontroll og fysisk kontroll, skal de vedkommende myndighetene på kontrollstedet
+
+      1. via TRACES bekrefte overfor de vedkommende myndighetene på grensekontrollstasjonen som er ansvarlig for økologikontroll, at forsendelsen er ankommet,
+      2. i kontrollsertifikatet registrere resultatet av økologikontrollen i form av identitetskontroll og fysisk kontroll og beslutningen som er truffet om forsendelsen i samsvar med artikkel 6 nr. 3 i delegert forordning [(EU) 2021/2306](eu/32021r2306).»
+4. I artikkel 7 skal innledningen lyde:
+
+   «Dokumentkontroll av forsendelser av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav b), og som innføres til Unionen, kan gjennomføres av en av følgende:»
+5. I artikkel 8 gjøres følgende endringer:
+
+   1. I nr. 1 bokstav a) skal nytt punkt v) lyde:
+
+      1. kontrollsertifikatet nevnt i delegert forordning [(EU) 2021/2306](eu/32021r2306), når det gjelder planter, planteprodukter og andre gjenstander som det vises til i artikkel 4 nr. 1 bokstav c) i denne forordningen.»
+   2. Nr. 2 skal lyde:
+
+      1. Dersom forsendelser av planter, planteprodukter og andre gjenstander skal transporteres av aktøren til et kontrollsted for gjennomføring av identitetskontroll og fysisk kontroll, får artikkel 2, 2a, 4 og 5 anvendelse.»
 
 ### Artikkel 6. Endring av delegert forordning (EU) 2019/2124
 
-I delegert forordning [(EU) 2019/2124](eu/32019r2124) gjøres følgende endringer:I artikkel 1 nr. 1 bokstav a) skal nytt punkt iia) lyde:Planter, planteprodukter og andre gjenstander som det vises til i punkt i) og ii), og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*.\* Europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1)»I artikkel 6 nr. 3 skal innledningen lyde:«Aktøren som er ansvarlig for forsendelsen, skal sikre at emballasjen eller transportmiddelet for forsendelsen av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) i), ii) og iia) er lukket eller forseglet på en slik måte at de under transporten til og lagringen i anlegget for videre transport».
+I delegert forordning [(EU) 2019/2124](eu/32019r2124) gjøres følgende endringer:
+
+1. I artikkel 1 nr. 1 bokstav a) skal nytt punkt iia) lyde:
+
+   1. Planter, planteprodukter og andre gjenstander som det vises til i punkt i) og ii), og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*.
+
+      \* Europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1)»
+2. I artikkel 6 nr. 3 skal innledningen lyde:
+
+   «Aktøren som er ansvarlig for forsendelsen, skal sikre at emballasjen eller transportmiddelet for forsendelsen av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) i), ii) og iia) er lukket eller forseglet på en slik måte at de under transporten til og lagringen i anlegget for videre transport».
 
 ### Artikkel 7. Ikrafttredelse og anvendelse
 

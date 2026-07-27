@@ -30,7 +30,23 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det gis fritak for avgift på smøreolje mv. somutføres til utlandetlegges inn på tollager når varene er bestemt til utførselinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetleveres til eller innføres av NATO og styrker fra land som deltar i Partnerskap for fredkommer i retur til registrert virksomhets lagerbrukes i utenriksfartbrukes i fiske og fangst i fjerne farvannbrukes i anlegg eller innretninger som har tilknytning til utnyttelse av naturforekomster i havområder utenfor norsk territorialgrense, til transport mellom land og slike anlegg eller innretninger og for spesialskip som har oppdrag i slik virksomhetbrukes i luftfartøy, unntatt Forsvarets luftfartøybrukes som råstoff i industriell virksomhet dersom smøreoljen i sin helhet inngår og forblir i det ferdige produktomsettes i forbrukerpakninger med innhold mindre enn 0,15 literer påfylt kjøretøy, maskiner o.l. ved inn- eller utførsel.
+Det gis fritak for avgift på smøreolje mv. som
+
+1. utføres til utlandet
+2. legges inn på tollager når varene er bestemt til utførsel
+3. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+4. leveres til eller innføres av NATO og styrker fra land som deltar i Partnerskap for fred
+5. kommer i retur til registrert virksomhets lager
+6. brukes i utenriksfart
+7. brukes i fiske og fangst i fjerne farvann
+8. brukes i anlegg eller innretninger som har tilknytning til utnyttelse av naturforekomster i havområder utenfor norsk territorialgrense, til transport mellom land og slike anlegg eller innretninger og for spesialskip som har oppdrag i slik virksomhet
+9. brukes i luftfartøy, unntatt Forsvarets luftfartøy
+10. brukes som råstoff i industriell virksomhet dersom smøreoljen i sin helhet inngår og forblir i det ferdige produkt
+11. omsettes i forbrukerpakninger med innhold mindre enn 0,15 liter
+12. er påfylt kjøretøy, maskiner o.l. ved inn- eller utførsel.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

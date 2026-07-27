@@ -15,7 +15,7 @@ xml_hash: "5a89ca13c78bc49d965ebb8fb2f2210ab28f295ccdd01585bf1b6e2b3f5b5f60"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,21 +42,72 @@ For inntektsåret 2026 svares folketrygdavgifter etter følgende regler og satse
 
 (1) Sone I omfatter de områder som ikke er nevnt nedenfor. Arbeidsgivere beregner avgiften etter satsen som gjelder for sone I, hvis ikke annet følger av dette vedtaket.
 
-(2) Sone Ia omfatter:kommunene Frosta, Midtre Gauldal og Selbu i Trøndelag fylke,kommunene Haram, Gjemnes og Aukra i Møre og Romsdal fylke,området i Hustadvika kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Eide i Møre og Romsdal fylke,kommunene Etne, Bømlo og Kvam i Vestland fylke,områdene i henholdsvis Kinn kommune, Sunnfjord kommune og Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Flora, Førde og Sogndal i Sogn og Fjordane fylke,kommunene Utsira og Kvitsøy i Rogaland fylke,kommunene Hægebostad, Sirdal og Iveland i Agder fylke,området i Lyngdal kommune i Agder fylke som før 1. januar 2020 var Audnedal kommune i Vest-Agder fylke,kommunen Sigdal i Buskerud fylke,kommunen Gausdal i Innlandet fylke.
+(2) Sone Ia omfatter:
 
-(3) Sone II omfatter:kommunene Meråker, Indre Fosen og Inderøy i Trøndelag fylke,områdene i henholdsvis Steinkjer kommune, Ørland kommune og Orkland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Verran, Ørland og Agdenes i Trøndelag fylke,kommunene Sande, Stranda, Sykkylven, Fjord, Vestnes, Rauma, Tingvoll og Sunndal i Møre og Romsdal fylke,områdene i henholdsvis Ålesund kommune og Molde kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunene Sandøy, Midsund og Nesset i Møre og Romsdal fylke,området i Volda kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Hornindal i Sogn og Fjordane fylke,kommunene Gulen, Solund, Hyllestad, Høyanger, Vik, Aurland, Lærdal, Årdal, Luster, Askvoll, Fjaler, Bremanger, Stad, Gloppen, Stryn, Tysnes, Kvinnherad, Ullensvang, Eidfjord, Ulvik, Modalen, Fedje og Masfjorden i Vestland fylke,området i Sunnfjord kommune i Vestland fylke som før 1. januar 2020 var kommunene Gaular, Jølster og Naustdal i Sogn og Fjordane fylke,området i Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Balestrand og Leikanger i Sogn og Fjordane fylke,området i Kinn kommune i Vestland fylke som før 1. januar 2020 var kommunen Vågsøy i Sogn og Fjordane fylke,området i Voss herad i Vestland fylke som før 1. januar 2020 var Granvin kommune i Hordaland fylke,kommunene Hjelmeland, Suldal og Sauda i Rogaland fylke,kommunene Risør, Gjerstad, Åmli, Bygland, Valle, Bykle, Åseral og Evje og Hornnes i Agder fylke,kommunene Drangedal, Nome, Tinn, Hjartdal, Seljord, Kviteseid, Nissedal, Fyresdal, Tokke og Vinje i Telemark fylke,kommunene Flå, Nesbyen, Gol, Hemsedal, Ål, Hol, Rollag og Nore og Uvdal i Buskerud fylke,kommunene Nord-Fron, Sør-Fron, Ringebu, Søndre Land, Nordre Land, Kongsvinger, Nord-Odal, Sør-Odal, Eidskog, Grue, Åsnes, Våler, Trysil og Åmot i Innlandet fylke.
+- kommunene Frosta, Midtre Gauldal og Selbu i Trøndelag fylke,
+- kommunene Haram, Gjemnes og Aukra i Møre og Romsdal fylke,
+- området i Hustadvika kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Eide i Møre og Romsdal fylke,
+- kommunene Etne, Bømlo og Kvam i Vestland fylke,
+- områdene i henholdsvis Kinn kommune, Sunnfjord kommune og Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Flora, Førde og Sogndal i Sogn og Fjordane fylke,
+- kommunene Utsira og Kvitsøy i Rogaland fylke,
+- kommunene Hægebostad, Sirdal og Iveland i Agder fylke,
+- området i Lyngdal kommune i Agder fylke som før 1. januar 2020 var Audnedal kommune i Vest-Agder fylke,
+- kommunen Sigdal i Buskerud fylke,
+- kommunen Gausdal i Innlandet fylke.
 
-(4) Sone III omfatter:kommunene Heim, Hitra, Frøya, Oppdal, Rennebu, Røros, Holtålen, Tydal og Rindal i Trøndelag fylke,området i Orkland kommune i Trøndelag fylke som før 1. januar 2020 var del av kommunen Snillfjord i Trøndelag fylke,området i henholdsvis Orkland kommune og Ørland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Meldal og Bjugn i Trøndelag fylke,kommunene Vanylven, Surnadal og Aure i Møre og Romsdal fylke,kommunene Dovre, Lesja, Skjåk, Lom, Vågå, Sel, Sør-Aurdal, Etnedal, Nord-Aurdal, Vestre Slidre, Øystre Slidre, Vang, Stor-Elvdal, Rendalen, Engerdal, Tolga, Tynset, Alvdal, Folldal og Os i Innlandet fylke.
+(3) Sone II omfatter:
 
-(5) Sone IV omfatter:kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa og Tjeldsund i Troms fylke,Nordland fylke, med unntak av kommunen Bodø,kommunene Namsos, Snåsa, Lierne, Røyrvik, Namsskogan, Grong, Høylandet, Overhalla, Flatanger, Nærøysund, Leka, Åfjord og Osen i Trøndelag fylke,kommunen Smøla i Møre og Romsdal fylke.
+- kommunene Meråker, Indre Fosen og Inderøy i Trøndelag fylke,
+- områdene i henholdsvis Steinkjer kommune, Ørland kommune og Orkland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Verran, Ørland og Agdenes i Trøndelag fylke,
+- kommunene Sande, Stranda, Sykkylven, Fjord, Vestnes, Rauma, Tingvoll og Sunndal i Møre og Romsdal fylke,
+- områdene i henholdsvis Ålesund kommune og Molde kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunene Sandøy, Midsund og Nesset i Møre og Romsdal fylke,
+- området i Volda kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Hornindal i Sogn og Fjordane fylke,
+- kommunene Gulen, Solund, Hyllestad, Høyanger, Vik, Aurland, Lærdal, Årdal, Luster, Askvoll, Fjaler, Bremanger, Stad, Gloppen, Stryn, Tysnes, Kvinnherad, Ullensvang, Eidfjord, Ulvik, Modalen, Fedje og Masfjorden i Vestland fylke,
+- området i Sunnfjord kommune i Vestland fylke som før 1. januar 2020 var kommunene Gaular, Jølster og Naustdal i Sogn og Fjordane fylke,
+- området i Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Balestrand og Leikanger i Sogn og Fjordane fylke,
+- området i Kinn kommune i Vestland fylke som før 1. januar 2020 var kommunen Vågsøy i Sogn og Fjordane fylke,
+- området i Voss herad i Vestland fylke som før 1. januar 2020 var Granvin kommune i Hordaland fylke,
+- kommunene Hjelmeland, Suldal og Sauda i Rogaland fylke,
+- kommunene Risør, Gjerstad, Åmli, Bygland, Valle, Bykle, Åseral og Evje og Hornnes i Agder fylke,
+- kommunene Drangedal, Nome, Tinn, Hjartdal, Seljord, Kviteseid, Nissedal, Fyresdal, Tokke og Vinje i Telemark fylke,
+- kommunene Flå, Nesbyen, Gol, Hemsedal, Ål, Hol, Rollag og Nore og Uvdal i Buskerud fylke,
+- kommunene Nord-Fron, Sør-Fron, Ringebu, Søndre Land, Nordre Land, Kongsvinger, Nord-Odal, Sør-Odal, Eidskog, Grue, Åsnes, Våler, Trysil og Åmot i Innlandet fylke.
 
-(6) Sone IVa omfatter:kommunen Tromsø i Troms fylke,kommunen Bodø i Nordland fylke.
+(4) Sone III omfatter:
 
-(7) Sone V omfatter:Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke.
+- kommunene Heim, Hitra, Frøya, Oppdal, Rennebu, Røros, Holtålen, Tydal og Rindal i Trøndelag fylke,
+- området i Orkland kommune i Trøndelag fylke som før 1. januar 2020 var del av kommunen Snillfjord i Trøndelag fylke,
+- området i henholdsvis Orkland kommune og Ørland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Meldal og Bjugn i Trøndelag fylke,
+- kommunene Vanylven, Surnadal og Aure i Møre og Romsdal fylke,
+- kommunene Dovre, Lesja, Skjåk, Lom, Vågå, Sel, Sør-Aurdal, Etnedal, Nord-Aurdal, Vestre Slidre, Øystre Slidre, Vang, Stor-Elvdal, Rendalen, Engerdal, Tolga, Tynset, Alvdal, Folldal og Os i Innlandet fylke.
+
+(5) Sone IV omfatter:
+
+- kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa og Tjeldsund i Troms fylke,
+- Nordland fylke, med unntak av kommunen Bodø,
+- kommunene Namsos, Snåsa, Lierne, Røyrvik, Namsskogan, Grong, Høylandet, Overhalla, Flatanger, Nærøysund, Leka, Åfjord og Osen i Trøndelag fylke,
+- kommunen Smøla i Møre og Romsdal fylke.
+
+(6) Sone IVa omfatter:
+
+- kommunen Tromsø i Troms fylke,
+- kommunen Bodø i Nordland fylke.
+
+(7) Sone V omfatter:
+
+- Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke.
 
 ### § 3. Satser for arbeidsgiveravgift etter sone
 
-(1) Satsene for arbeidsgiveravgift for inntektsåret 2026 er:Sone I: 14,1 pst.Sone Ia: 14,1 pst., men likevel 10,6 pst. så lenge differansen mellom den avgift som ville følge av satser på henholdsvis 14,1 pst. og 10,6 pst. ikke overstiger grensene for bagatellmessig støtte, jf. [§ 4 fjerde](forskrift/2025-12-18-2748/§4/ledd/4) og [femte ledd](forskrift/2025-12-18-2748/§4/ledd/5). Bestemmelsene om redusert avgiftssats i sone Ia gjelder ikke foretak som er omfattet av [helseforetaksloven](lov/2001-06-15-93), og statsforvaltningen som omfattes av reglene i [folketrygdloven § 24-5 tredje ledd](lov/1997-02-28-19/§24-5/ledd/3).Sone II: 10,6 pst.Sone III: 6,4 pst.Sone IV: 5,1 pst.Sone IVa: 7,9 pst.Sone V: 0 pst. Samme sats gjelder for avgift som svares av arbeidsgivere hjemmehørende på Svalbard for arbeid utført der, og når andre arbeidsgivere utbetaler lønn og annen godtgjørelse som blir skattlagt etter [lov 29. november 1996 nr. 68 om skatt til Svalbard](lov/1996-11-29-68).
+(1) Satsene for arbeidsgiveravgift for inntektsåret 2026 er:
+
+- Sone I: 14,1 pst.
+- Sone Ia: 14,1 pst., men likevel 10,6 pst. så lenge differansen mellom den avgift som ville følge av satser på henholdsvis 14,1 pst. og 10,6 pst. ikke overstiger grensene for bagatellmessig støtte, jf. [§ 4 fjerde](forskrift/2025-12-18-2748/§4/ledd/4) og [femte ledd](forskrift/2025-12-18-2748/§4/ledd/5). Bestemmelsene om redusert avgiftssats i sone Ia gjelder ikke foretak som er omfattet av [helseforetaksloven](lov/2001-06-15-93), og statsforvaltningen som omfattes av reglene i [folketrygdloven § 24-5 tredje ledd](lov/1997-02-28-19/§24-5/ledd/3).
+- Sone II: 10,6 pst.
+- Sone III: 6,4 pst.
+- Sone IV: 5,1 pst.
+- Sone IVa: 7,9 pst.
+- Sone V: 0 pst. Samme sats gjelder for avgift som svares av arbeidsgivere hjemmehørende på Svalbard for arbeid utført der, og når andre arbeidsgivere utbetaler lønn og annen godtgjørelse som blir skattlagt etter [lov 29. november 1996 nr. 68 om skatt til Svalbard](lov/1996-11-29-68).
 
 (2) Arbeidsgivere som er i økonomiske vanskeligheter, jf. ESAs retningslinjer for støtte til foretak i vanskeligheter, må beregne avgift etter satsen som gjelder i sone I. Det samme gjelder arbeidsgivere med utestående krav om tilbakebetaling av ulovlig statsstøtte etter vedtak fattet av ESA, jf. avsnitt III i protokoll 3 til avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA). Bestemmelsen i første og annet punktum gjelder likevel ikke så lenge differansen mellom den avgiften som ville følge av satsen i lokaliseringssonen og satsen i sone I, ikke overstiger grensene for bagatellmessig støtte, jf. [§ 4 fjerde](forskrift/2025-12-18-2748/§4/ledd/4) og [femte ledd](forskrift/2025-12-18-2748/§4/ledd/5).
 
@@ -66,11 +117,21 @@ For inntektsåret 2026 svares folketrygdavgifter etter følgende regler og satse
 
 ### § 4. Særregler om avgiftssats og avgiftsberegning for arbeidsgivere med aktiviteter innenfor visse sektorer og andre arbeidsgivere som beregner avgift med redusert sats etter reglene om bagatellmessig støtte
 
-(1) Arbeidsgivere i sonene II–V, eller med ambulerende virksomhet i disse sonene, som utfører en eller flere av følgende aktiviteter, skal beregne avgift etter satsen for sone I:Aktiviteter knyttet til produksjon av stålprodukter som nevnt i Annex VI til ESAs retningslinjer for regionalstøtte 2022–2027Aktiviteter i kullsektoren, slik dette er definert i ESAs retningslinjer for regionalstøtteTilsvarende gjelder for lønn mv. til utleide arbeidstakere som utfører slike aktiviteter.
+(1) Arbeidsgivere i sonene II–V, eller med ambulerende virksomhet i disse sonene, som utfører en eller flere av følgende aktiviteter, skal beregne avgift etter satsen for sone I:
+
+- Aktiviteter knyttet til produksjon av stålprodukter som nevnt i Annex VI til ESAs retningslinjer for regionalstøtte 2022–2027
+- Aktiviteter i kullsektoren, slik dette er definert i ESAs retningslinjer for regionalstøtte
+
+  Tilsvarende gjelder for lønn mv. til utleide arbeidstakere som utfører slike aktiviteter.
 
 (2) Arbeidsgivere med blandet virksomhet kan, dersom de har et klart regnskapsmessig skille mellom lønn mv. knyttet til aktiviteter som nevnt i første ledd og andre aktiviteter, uten hinder av første ledd beregne avgiften etter satsene i [§ 3](forskrift/2025-12-18-2748/§3), eventuelt i [§ 5](forskrift/2025-12-18-2748/§5), for den del av avgiftsgrunnlaget som ikke er knyttet til aktiviteter som nevnt i første ledd.
 
-(3) Arbeidsgivere med en av følgende aktiviteter som hovedaktivitet, skal beregne avgift etter satsen for sone I for alle ansatte:Aktiviteter omfattet av Næringshovedområde L – Finansiell tjenesteytingAktiviteter omfattet av 70.10 Hovedkontortjenester eller 70.22 Bedriftsrådgivning og annen administrativ rådgivning, når disse ytes innenfor konsernArbeidsgivere som leier ut ansatte til en arbeidsgiver som nevnt i første punktum, skal beregne avgift etter satsen som gjelder for sone I for utleieperioden.
+(3) Arbeidsgivere med en av følgende aktiviteter som hovedaktivitet, skal beregne avgift etter satsen for sone I for alle ansatte:
+
+- Aktiviteter omfattet av Næringshovedområde L – Finansiell tjenesteyting
+- Aktiviteter omfattet av 70.10 Hovedkontortjenester eller 70.22 Bedriftsrådgivning og annen administrativ rådgivning, når disse ytes innenfor konsern
+
+  Arbeidsgivere som leier ut ansatte til en arbeidsgiver som nevnt i første punktum, skal beregne avgift etter satsen som gjelder for sone I for utleieperioden.
 
 (4) Arbeidsgivere kan uten hinder av første ledd beregne arbeidsgiveravgift for aktiviteter som nevnt i første ledd etter satsene for lokaliseringssonen, så lenge differansen mellom den avgift som ville følge av satsen i lokaliseringssonen, og satsen i sone I ikke overstiger 850 000 kroner for arbeidsgiveren i 2026. Dersom arbeidsgiver anses å være en del av et konsern, jf. Europakommisjonens forordning om bagatellmessig støtte, gjelder beløpsgrensen for hele konsernet under ett. Første og annet punktum gjelder tilsvarende for arbeidsgivere som nevnt i tredje ledd.
 

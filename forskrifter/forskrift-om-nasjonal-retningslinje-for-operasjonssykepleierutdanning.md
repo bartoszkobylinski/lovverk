@@ -15,7 +15,7 @@ xml_hash: "c313f8b0d895f4c31975a8820ba02f44fe50aac8d64247f581aba07d54f5bda0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,99 +62,204 @@ Etter endt utdanning skal kandidatene kunne utøve personsentrert operasjonssyke
 
 ### § 4. Operasjonssykepleie som fag og profesjon – kunnskap
 
-Kandidatenkan analysere faglige problemstillinger med utgangspunkt i operasjonssykepleiens historie, tradisjoner, egenart og plass i samfunnethar inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverkhar avansert kunnskap om operasjonssykepleiernes funksjons- og ansvarsområderhar avansert kunnskap om personsentrert operasjonssykepleiehar inngående kunnskap om operasjonspasientens og pårørendes behov i et alders-, kjønns-, sosialt- og flerkulturelt perspektivhar inngående kunnskap om operasjonssykepleierens fysiske og psykososiale arbeidsmiljø, stressreaksjoner, mestringsstrategier og hvordan arbeidsbelastninger kan forebygges og reduseres.
+Kandidaten
+
+1. kan analysere faglige problemstillinger med utgangspunkt i operasjonssykepleiens historie, tradisjoner, egenart og plass i samfunnet
+2. har inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverk
+3. har avansert kunnskap om operasjonssykepleiernes funksjons- og ansvarsområder
+4. har avansert kunnskap om personsentrert operasjonssykepleie
+5. har inngående kunnskap om operasjonspasientens og pårørendes behov i et alders-, kjønns-, sosialt- og flerkulturelt perspektiv
+6. har inngående kunnskap om operasjonssykepleierens fysiske og psykososiale arbeidsmiljø, stressreaksjoner, mestringsstrategier og hvordan arbeidsbelastninger kan forebygges og reduseres.
 
 ### § 5. Operasjonssykepleie som fag og profesjon – ferdigheter
 
-Kandidatenkan bruke personsentrert operasjonssykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelserkan bruke profesjonskunnskap i utøvelsen av den koordinerende og sterilt utøvende rollekan analysere, vurdere og håndtere etiske dilemma relatert til operasjonssykepleiekan analysere det perioperative pasientforløpet og sikre kontinuitet i operasjonssykepleie.
+Kandidaten
+
+1. kan bruke personsentrert operasjonssykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelser
+2. kan bruke profesjonskunnskap i utøvelsen av den koordinerende og sterilt utøvende rolle
+3. kan analysere, vurdere og håndtere etiske dilemma relatert til operasjonssykepleie
+4. kan analysere det perioperative pasientforløpet og sikre kontinuitet i operasjonssykepleie.
 
 ### § 6. Operasjonssykepleie som fag og profesjon – generell kompetanse
 
-Kandidatenkan analysere relevante fag- og yrkesetiske problemstillingerkan anvende kulturkompetanse og kulturforståelse i vurdering, planlegging, gjennomføring og evaluering av operasjonssykepleiekan anvende kunnskaper og ferdigheter på nye områder for å utøve personsentrert operasjonssykepleiekan analysere og drøfte etiske dilemmaer, og kommunisere disse i faglige diskusjoner.
+Kandidaten
+
+1. kan analysere relevante fag- og yrkesetiske problemstillinger
+2. kan anvende kulturkompetanse og kulturforståelse i vurdering, planlegging, gjennomføring og evaluering av operasjonssykepleie
+3. kan anvende kunnskaper og ferdigheter på nye områder for å utøve personsentrert operasjonssykepleie
+4. kan analysere og drøfte etiske dilemmaer, og kommunisere disse i faglige diskusjoner.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet klinisk operasjonssykepleie; vurderings-, beslutnings- og handlingskompetanse
 
 ### § 7. Klinisk operasjonssykepleie; vurderings-, beslutnings- og handlingskompetanse – kunnskap
 
-Kandidatenhar inngående kunnskap om organsystemers anatomi, fysiologi og patofysiologihar avansert kunnskap om mikrobiologi og smittevernhar inngående kunnskap om farmakologi, legemidler og legemiddelhåndtering med relevans for operasjonssykepleiehar avansert kunnskap om kirurgisk leiring og hypotermihar inngående kunnskap om kirurgi og kirurgiske undersøkelser, herunder pre- og postoperativ sykepleiehar inngående kunnskap om traumatologi og traumebehandlinghar avansert kunnskap om kirurgiske instrumenter, bruksområder og sterilforsyningskjedenhar inngående kunnskap om operasjonssykepleierens rolle ved beredskap- og krisehåndtering ved større ulykker, pandemi, terror og i krigs- og katastrofeområderhar avansert kunnskap om kommunikasjon og tilpasset informasjon til pasienter i alle aldre og deres pårørendehar avansert kunnskap om operasjonsavdelingens oppbygning, utforming og funksjoner.
+Kandidaten
+
+1. har inngående kunnskap om organsystemers anatomi, fysiologi og patofysiologi
+2. har avansert kunnskap om mikrobiologi og smittevern
+3. har inngående kunnskap om farmakologi, legemidler og legemiddelhåndtering med relevans for operasjonssykepleie
+4. har avansert kunnskap om kirurgisk leiring og hypotermi
+5. har inngående kunnskap om kirurgi og kirurgiske undersøkelser, herunder pre- og postoperativ sykepleie
+6. har inngående kunnskap om traumatologi og traumebehandling
+7. har avansert kunnskap om kirurgiske instrumenter, bruksområder og sterilforsyningskjeden
+8. har inngående kunnskap om operasjonssykepleierens rolle ved beredskap- og krisehåndtering ved større ulykker, pandemi, terror og i krigs- og katastrofeområder
+9. har avansert kunnskap om kommunikasjon og tilpasset informasjon til pasienter i alle aldre og deres pårørende
+10. har avansert kunnskap om operasjonsavdelingens oppbygning, utforming og funksjoner.
 
 ### § 8. Klinisk operasjonssykepleie; vurderings-, beslutnings- og handlingskompetanse – ferdigheter
 
-Kandidatenkan bruke relevant kunnskap for klinisk beslutningstaking og handling relatert til symptomer og kliniske tegn hos operasjonspasientenkan analysere, gjennomføre og lede relevant smittevernsarbeid i det kirurgiske teamethar avanserte ferdigheter i aseptisk arbeidsmetodekan analysere og vurdere risikofaktorer i gjennomføring av kirurgisk leiringkan analysere og vurdere risikofaktorer for å forebygge utilsiktet hypotermikan bruke sine kunnskaper og ferdigheter om kirurgiske instrumenter og sterilforsyningskjedenkan analysere, vurdere og gjennomføre operasjonssykepleie både i sterilt utøvende og koordinerende funksjon for å sikre et effektivt og trygt pasientforløpkan bruke relevante dokumentasjonsverktøy ved dokumentasjon av operasjonssykepleiekan bruke relevante metoder i kommunikasjon, samhandling og veiledning til pasienter og pårørende i komplekse situasjoner, samt analysere målgruppens helsekompetanse for å fremme brukermedvirkning og tilpassede tjenesterkan bruke metoder for å sikre korrekt utstyrsplassering på operasjonsstua.
+Kandidaten
+
+1. kan bruke relevant kunnskap for klinisk beslutningstaking og handling relatert til symptomer og kliniske tegn hos operasjonspasienten
+2. kan analysere, gjennomføre og lede relevant smittevernsarbeid i det kirurgiske teamet
+3. har avanserte ferdigheter i aseptisk arbeidsmetode
+4. kan analysere og vurdere risikofaktorer i gjennomføring av kirurgisk leiring
+5. kan analysere og vurdere risikofaktorer for å forebygge utilsiktet hypotermi
+6. kan bruke sine kunnskaper og ferdigheter om kirurgiske instrumenter og sterilforsyningskjeden
+7. kan analysere, vurdere og gjennomføre operasjonssykepleie både i sterilt utøvende og koordinerende funksjon for å sikre et effektivt og trygt pasientforløp
+8. kan bruke relevante dokumentasjonsverktøy ved dokumentasjon av operasjonssykepleie
+9. kan bruke relevante metoder i kommunikasjon, samhandling og veiledning til pasienter og pårørende i komplekse situasjoner, samt analysere målgruppens helsekompetanse for å fremme brukermedvirkning og tilpassede tjenester
+10. kan bruke metoder for å sikre korrekt utstyrsplassering på operasjonsstua.
 
 ### § 9. Klinisk operasjonssykepleie; vurderings-, beslutnings- og handlingskompetanse – generell kompetanse
 
-Kandidatenkan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikkkan anvende kunnskaper og ferdigheter i operasjonssykepleie for å utføre kliniske vurderinger, beslutninger og handlinger i samarbeid med egen og andre faggrupperkan anvende kunnskaper og ferdigheter for å håndtere akutte situasjoner på en sikker og trygg måte i samarbeid med andre profesjoner og tjenesterkan innhente og tilpasse spesialisert kunnskap fra relevante fagområder og anvende kunnskapen i utøvelsen av operasjonssykepleiekan anvende kunnskap og ferdigheter til å dokumentere, formidle, og evaluere informasjon om operasjonspasienten.
+Kandidaten
+
+1. kan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk
+2. kan anvende kunnskaper og ferdigheter i operasjonssykepleie for å utføre kliniske vurderinger, beslutninger og handlinger i samarbeid med egen og andre faggrupper
+3. kan anvende kunnskaper og ferdigheter for å håndtere akutte situasjoner på en sikker og trygg måte i samarbeid med andre profesjoner og tjenester
+4. kan innhente og tilpasse spesialisert kunnskap fra relevante fagområder og anvende kunnskapen i utøvelsen av operasjonssykepleie
+5. kan anvende kunnskap og ferdigheter til å dokumentere, formidle, og evaluere informasjon om operasjonspasienten.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet teknologi og digital kompetanse
 
 ### § 10. Teknologi og digital kompetanse – kunnskap
 
-Kandidatenhar bred kunnskap om lover, forskrifter og informasjonssikkerhet knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsenhar inngående kunnskap om relevant teknologi som brukes til behandling, undersøkelse og overvåkning av operasjonspasienten.
+Kandidaten
+
+1. har bred kunnskap om lover, forskrifter og informasjonssikkerhet knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen
+2. har inngående kunnskap om relevant teknologi som brukes til behandling, undersøkelse og overvåkning av operasjonspasienten.
 
 ### § 11. Teknologi og digital kompetanse – ferdigheter
 
-Kandidatenkan anvende digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivåkan selvstendig administrere og bruke relevant teknologi, inkludert medisinsk-teknisk utstyr.
+Kandidaten
+
+1. kan anvende digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå
+2. kan selvstendig administrere og bruke relevant teknologi, inkludert medisinsk-teknisk utstyr.
 
 ### § 12. Teknologi og digital kompetanse – generell kompetanse
 
-Kandidatenkan bidra til faglig forsvarlig implementering og bruk av digitale verktøy og medisinsk utstyrkan anvende kunnskaper og ferdigheter i bruk og utvikling av teknologi innen operasjonssykepleie.
+Kandidaten
+
+1. kan bidra til faglig forsvarlig implementering og bruk av digitale verktøy og medisinsk utstyr
+2. kan anvende kunnskaper og ferdigheter i bruk og utvikling av teknologi innen operasjonssykepleie.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet faglig ledelse og samhandling
 
 ### § 13. Faglig ledelse og samhandling – kunnskap
 
-Kandidatenhar inngående kunnskap om ledelse, organisering og endringsprosesser av tverrprofesjonelle tjenester som er relevant for operasjonssykepleiehar inngående kunnskap om ikke-tekniske ferdigheter; situasjonsforståelse, beslutningstaking, oppgaveløsning og teamarbeidhar inngående kunnskap om kommunikasjonsverktøy og hva som fremmer og hemmer tverrprofesjonell samhandlinghar inngående kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
+Kandidaten
+
+1. har inngående kunnskap om ledelse, organisering og endringsprosesser av tverrprofesjonelle tjenester som er relevant for operasjonssykepleie
+2. har inngående kunnskap om ikke-tekniske ferdigheter; situasjonsforståelse, beslutningstaking, oppgaveløsning og teamarbeid
+3. har inngående kunnskap om kommunikasjonsverktøy og hva som fremmer og hemmer tverrprofesjonell samhandling
+4. har inngående kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
 
 ### § 14. Faglig ledelse og samhandling og – ferdigheter
 
-Kandidatenkan koordinere og samhandle tverrprofesjonelt i behandlingen av operasjonspasienten i pasientforløpetkan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvalitet i pasientforløpet og drift av operasjonsavdelingenkan bruke pedagogiske prinsipper til å veilede og undervise studenter og kollegaer i faglige og etiske utfordringer.
+Kandidaten
+
+1. kan koordinere og samhandle tverrprofesjonelt i behandlingen av operasjonspasienten i pasientforløpet
+2. kan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvalitet i pasientforløpet og drift av operasjonsavdelingen
+3. kan bruke pedagogiske prinsipper til å veilede og undervise studenter og kollegaer i faglige og etiske utfordringer.
 
 ### § 15. Faglig ledelse og samhandling – generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å lede og å arbeide effektivt i team, ha god forståelse for grensene for egen kompetanse og innsikt i andre profesjoners kompetanse og vite når disse bør involvereskan analysere og ta ansvar i samhandling som kan påvirke pasientforløpet og iverksette tiltak som stimulerer til samhandlingkan analysere og kommunisere om faglige problemstillinger innenfor operasjonssykepleie til helsepersonell og allmennhetenkan anvende sine kunnskaper og ferdigheter i ledelse, både i den sterilt utøvende og koordinerende funksjonen.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å lede og å arbeide effektivt i team, ha god forståelse for grensene for egen kompetanse og innsikt i andre profesjoners kompetanse og vite når disse bør involveres
+2. kan analysere og ta ansvar i samhandling som kan påvirke pasientforløpet og iverksette tiltak som stimulerer til samhandling
+3. kan analysere og kommunisere om faglige problemstillinger innenfor operasjonssykepleie til helsepersonell og allmennheten
+4. kan anvende sine kunnskaper og ferdigheter i ledelse, både i den sterilt utøvende og koordinerende funksjonen.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet kvalitetsarbeid og pasientsikkerhet
 
 ### § 16. Kvalitetsarbeid og pasientsikkerhet – kunnskap
 
-Kandidatenhar inngående kunnskap om systematisk kvalitetsarbeid og pasientsikkerhetskultur for å forbedre og kontrollere operasjonssykepleienhar avansert kunnskap om risikofaktorer ved kirurgisk behandling og undersøkelse perioperativthar inngående kunnskap om ressursbruk, prioriteringer og bærekraft i operasjonsavdelingenhar inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av operasjonssykepleie.
+Kandidaten
+
+1. har inngående kunnskap om systematisk kvalitetsarbeid og pasientsikkerhetskultur for å forbedre og kontrollere operasjonssykepleien
+2. har avansert kunnskap om risikofaktorer ved kirurgisk behandling og undersøkelse perioperativt
+3. har inngående kunnskap om ressursbruk, prioriteringer og bærekraft i operasjonsavdelingen
+4. har inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av operasjonssykepleie.
 
 ### § 17. Kvalitetsarbeid og pasientsikkerhet – ferdigheter
 
-Kandidatenkan analysere risikofaktorer hos operasjonspasienten og kirurgisk inngrep/undersøkelse for å forebygge komplikasjoner og uønskede hendelserkan bruke relevante metoder for pasientsikkerhets- og kvalitetsarbeidkan analysere og forholde seg kritisk til tjenesteutvikling, nytenkning og innovasjonkan analysere og vurdere tilgjengelige ressurser og bærekraft i prioritering, koordinering, administrering, iverksetting og evaluering av operasjonssykepleiekan analysere uønskede hendelser og bidra til systematisk læring.
+Kandidaten
+
+1. kan analysere risikofaktorer hos operasjonspasienten og kirurgisk inngrep/undersøkelse for å forebygge komplikasjoner og uønskede hendelser
+2. kan bruke relevante metoder for pasientsikkerhets- og kvalitetsarbeid
+3. kan analysere og forholde seg kritisk til tjenesteutvikling, nytenkning og innovasjon
+4. kan analysere og vurdere tilgjengelige ressurser og bærekraft i prioritering, koordinering, administrering, iverksetting og evaluering av operasjonssykepleie
+5. kan analysere uønskede hendelser og bidra til systematisk læring.
 
 ### § 18. Kvalitetsarbeid og pasientsikkerhet – generell kompetanse
 
-Kandidatenkan bidra til tjenesteforbedring, god pasientsikkerhetskultur og et godt arbeidsmiljø for å ivareta pasient, pårørende og kollegaerkan anvende kunnskaper og ferdigheter for å ivareta pasientsikkerheten i risikofylte overganger i det perioperative forløpetkan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
+Kandidaten
+
+1. kan bidra til tjenesteforbedring, god pasientsikkerhetskultur og et godt arbeidsmiljø for å ivareta pasient, pårørende og kollegaer
+2. kan anvende kunnskaper og ferdigheter for å ivareta pasientsikkerheten i risikofylte overganger i det perioperative forløpet
+3. kan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
 
 ### § 19. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – kunnskap
 
-Kandidatenhar inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for operasjonssykepleiehar inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen operasjonssykepleie.
+Kandidaten
+
+1. har inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for operasjonssykepleie
+2. har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen operasjonssykepleie.
 
 ### § 20. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen operasjonssykepleiekan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normerkan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen operasjonssykepleie
+2. kan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normer
+3. kan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
 
 ### § 21. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – generell kompetanse
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenestenkan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenesten
+2. kan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet forskning, kvalitetsarbeid og formidling
 
 ### § 22. Forskning, kvalitetsarbeid og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for operasjonssykepleiehar spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidethar avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av operasjonssykepleie.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for operasjonssykepleie
+2. har spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidet
+3. har avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av operasjonssykepleie.
 
 ### § 23. Forskning, kvalitetsarbeid og formidling – ferdigheter
 
-Kandidatenkan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen operasjonssykepleiekan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenestenkan gjennomføre et selvstendig avgrenset operasjonssykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
+Kandidaten
+
+1. kan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen operasjonssykepleie
+2. kan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenesten
+3. kan gjennomføre et selvstendig avgrenset operasjonssykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
 
 ### § 24. Forskning, kvalitetsarbeid og formidling – generell kompetanse
 
-Kandidatenkan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av operasjonssykepleiefaget og helsetjenestenkan analysere, konkludere og formidle faglige problemstillinger innenfor operasjonssykepleiekan analysere relevante forskningsetiske problemstillinger innen operasjonssykepleie.
+Kandidaten
+
+1. kan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av operasjonssykepleiefaget og helsetjenesten
+2. kan analysere, konkludere og formidle faglige problemstillinger innenfor operasjonssykepleie
+3. kan analysere relevante forskningsetiske problemstillinger innen operasjonssykepleie.
 
 ## Kapittel 9. Studiets oppbygning og praksisstudier
 

@@ -24,7 +24,11 @@ eu_basis: []
 
 ## I
 
-Arbeids- og sosialdepartementets myndighet etter arbeidsmiljøloven til å endre følgende forskrifter delegeres til Arbeidstilsynet:[forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften),[forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) og[forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider (Biocidforskriften).
+Arbeids- og sosialdepartementets myndighet etter arbeidsmiljøloven til å endre følgende forskrifter delegeres til Arbeidstilsynet:
+
+1. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften),
+2. [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) og
+3. [forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider (Biocidforskriften).
 
 ## II
 

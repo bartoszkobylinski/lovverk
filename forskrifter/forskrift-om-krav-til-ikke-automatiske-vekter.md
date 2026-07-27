@@ -15,7 +15,7 @@ xml_hash: "65eab401b7d7a1b638dc1fb9f5674420c6d5427aab57f113ba4e797d868697f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Forskriften gjelder når det er fastsatt krav til ikke-automatiske vekter, jf. [
 
 ### § 2. Krav for vekter som benyttes eller skal benyttes til andre bruksformål
 
-Alle ikke-automatiske vekter som benyttes eller skal benyttes til andre bruksformål enn de som er nevnt i [forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1 femte ledd](forskrift/2007-12-20-1723/§3-1/ledd/5) litra a–g, skal påføres følgende merking før de selges eller tilbys for salg:produsentens navn, registrerte firmanavn eller registrerte varemerke,størstelasten i form av Maks...
+Alle ikke-automatiske vekter som benyttes eller skal benyttes til andre bruksformål enn de som er nevnt i [forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1 femte ledd](forskrift/2007-12-20-1723/§3-1/ledd/5) litra a–g, skal påføres følgende merking før de selges eller tilbys for salg:
+
+1. produsentens navn, registrerte firmanavn eller registrerte varemerke,
+2. størstelasten i form av Maks...
 
 Merkingen skal være godt synlig, lett leselig og uutslettelig. Vektene må ikke være påført samsvarsmerking.
 
@@ -89,7 +92,11 @@ Minstelasten reduseres til 5 e for vekter i klasse II og III som benyttes til å
 
 Den faktiske minstedeling (d) og verifiseringsminstedelingen (e) oppgis i følgende form: 1 × 10k , 2 × 10k eller 5 × 10k masseenheter, der k er et helt tall eller null.
 
-For alle vekter bortsett fra slike som har hjelpeinnretninger for visning, d = e. For alle vekter som har hjelpeinnretninger for visning, gjelder følgende vilkår:e = 1 × 10k gd < e ≤ 10 d, med unntak av vekter i klasse I med d < 10-4 g, der e = 10-3 g.
+For alle vekter bortsett fra slike som har hjelpeinnretninger for visning, d = e. For alle vekter som har hjelpeinnretninger for visning, gjelder følgende vilkår:
+
+e = 1 × 10k g
+
+d < e ≤ 10 d, med unntak av vekter i klasse I med d < 10-4 g, der e = 10-3 g.
 
 > Endret ved [forskrift 3 mai 2016 nr. 470](forskrift/2016-05-03-470).
 
@@ -109,10 +116,14 @@ Vekter med bare ett veieområde kan ha flere delveieområder (flerskalavekter).
 
 Flerskalavekter skal ikke utstyres med en hjelpeinnretning for visning.
 
-Hvert enkelt delveieområde på flerskalavekter er definert vedsin verifiseringsminstedeling ei , med e(i+1) > eisin største last Maksi med Maksr = Makssin minste last Mini , med Mini = Maks(i-1) og med Min1 , = Min der
-i = 1, 2, ... r,
-i = delveieområdets nummer
-r = samlet antall delveieområder.
+Hvert enkelt delveieområde på flerskalavekter er definert ved
+
+- sin verifiseringsminstedeling ei , med e(i+1) > ei
+- sin største last Maksi med Maksr = Maks
+- sin minste last Mini , med Mini = Maks(i-1) og med Min1 , = Min der
+  i = 1, 2, ... r,
+  i = delveieområdets nummer
+  r = samlet antall delveieområder.
 
 All last er nettolast, uten hensyn til verdien av den tara som benyttes.
 
@@ -129,7 +140,13 @@ Tabell 2 – Flerskalavekter
 | III | 0,1 g ≤ ei | 20 ei | 500 | 10 000 |
 | IIII | 5 g ≤ ei | 10 ei | 50 | 1 000 |
 
-1 Når i = r, får den tilsvarende kolonne i tabell 1 anvendelse, med e erstattet av er.i= 1, 2, ... ri = delveieområdets nummerr = samlet antall delveieområder.
+1 Når i = r, får den tilsvarende kolonne i tabell 1 anvendelse, med e erstattet av er.
+
+i= 1, 2, ... r
+
+i = delveieområdets nummer
+
+r = samlet antall delveieområder.
 
 > Endret ved [forskrift 10 des 2015 nr. 1460](forskrift/2015-12-10-1460) (i kraft 20 april 2016).
 
@@ -164,7 +181,11 @@ Vektene må reagere på små endringer i lasten.
 
 Vekter i klasse II, III og IIII som kan bli benyttet i denivellert stilling, skal være tilstrekkelig ufølsomme for denivellering som kan forekomme ved normal bruk.
 
-Vektene skal oppfylle de måletekniske kravene innen temperaturområdet angitt av produsenten. Områdets verdi skal minst være lik:5 °C for en vekt i klasse I15 °C for en vekt i klasse II30 °C for en vekt i klasse III eller IIII.
+Vektene skal oppfylle de måletekniske kravene innen temperaturområdet angitt av produsenten. Områdets verdi skal minst være lik:
+
+1. 5 °C for en vekt i klasse I
+2. 15 °C for en vekt i klasse II
+3. 30 °C for en vekt i klasse III eller IIII.
 
 Dersom produsenten ikke har angitt noe temperaturområde, får området -10 °C til + 40 °C anvendelse.
 
@@ -264,9 +285,26 @@ Dokumenter og korrespondanse skal utarbeides på norsk eller på et språk som e
 
 ### § 26. Krav til merking
 
-Vekter som skal brukes til formålene nevnt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd skal være påført følgende merking tydelig, lesbart og uutslettelig:EU-typegodkjenningssertifikatets nummer der dette er hensiktsmessig,produsentens navn, registrerte firmanavn eller registrerte varemerke,nøyaktighetsklasse innskrevet i en oval eller plassert mellom to vannrette linjer som bindes sammen av to halvsirkler,størstelast i form av Maks...,minstelast i form av Min...,verifiseringsminstedeling i form av e =...,type-, parti- eller serienummer
+Vekter som skal brukes til formålene nevnt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd skal være påført følgende merking tydelig, lesbart og uutslettelig:
 
-Hvor det er hensiktsmessig, skal også følgende merking påføres:identifikasjonsmerke på hver enhet for vekter som består av deler som er atskilte, men som likevel hører sammen,minstedeling dersom den er forskjellig fra e, i form av d =...,største additive tara, i form av T = +...,største subtraktive tara dersom den er forskjellig fra Maks, i form av T= –...,taraens minstedeling dersom den er forskjellig fra d, i form av dT =...,grenselast dersom den er forskjellig fra Maks, i form av Lim...,spesielle temperaturgrenser, i form av... °C/... °C,forhold mellom loddbærer og lastebærer.
+1. EU-typegodkjenningssertifikatets nummer der dette er hensiktsmessig,
+2. produsentens navn, registrerte firmanavn eller registrerte varemerke,
+3. nøyaktighetsklasse innskrevet i en oval eller plassert mellom to vannrette linjer som bindes sammen av to halvsirkler,
+4. størstelast i form av Maks...,
+5. minstelast i form av Min...,
+6. verifiseringsminstedeling i form av e =...,
+7. type-, parti- eller serienummer
+
+Hvor det er hensiktsmessig, skal også følgende merking påføres:
+
+1. identifikasjonsmerke på hver enhet for vekter som består av deler som er atskilte, men som likevel hører sammen,
+2. minstedeling dersom den er forskjellig fra e, i form av d =...,
+3. største additive tara, i form av T = +...,
+4. største subtraktive tara dersom den er forskjellig fra Maks, i form av T= –...,
+5. taraens minstedeling dersom den er forskjellig fra d, i form av dT =...,
+6. grenselast dersom den er forskjellig fra Maks, i form av Lim...,
+7. spesielle temperaturgrenser, i form av... °C/... °C,
+8. forhold mellom loddbærer og lastebærer.
 
 Vektene skal være laget slik at det er mulig å påføre CE-merket og øvrig merking. Merkingen skal være slik at det er umulig å fjerne dem uten at de tar skade, og slik at de er synlige når vekten er i vanlig driftsstilling.
 
@@ -324,7 +362,10 @@ I tillegg gjelder kravene i forskrift om målenheter og måling [kapittel 4](for
 
 ### § 31. Importørens forpliktelser
 
-Før en ikke-automatisk vekt som ikke skal brukes til de formål nevnt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd første gang gjøres tilgjengelig på markedet, skal importør sørge for at produsenten har oppfylt kravene i[§ 30](forskrift/2007-12-21-1735/§30), ogforskrift om målenheter og måling § 4-14 [punkt 5](forskrift/2007-12-21-1735/kap5) og 6.
+Før en ikke-automatisk vekt som ikke skal brukes til de formål nevnt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd første gang gjøres tilgjengelig på markedet, skal importør sørge for at produsenten har oppfylt kravene i
+
+- [§ 30](forskrift/2007-12-21-1735/§30), og
+- forskrift om målenheter og måling § 4-14 [punkt 5](forskrift/2007-12-21-1735/kap5) og 6.
 
 I tillegg gjelder kravene i forskrift om målenheter og måling [kapittel 4](forskrift/2007-12-21-1735/kap4) avsnitt 3.
 
@@ -332,7 +373,15 @@ I tillegg gjelder kravene i forskrift om målenheter og måling [kapittel 4](for
 
 ### § 32. Distributørens forpliktelser
 
-Før distributør gjør en ikke-automatisk vekt som ikke er ment å brukes til formålene angitt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd tilgjengelig på markedet, skal han verifisere atprodusent har oppfylt kravene i[§ 30](forskrift/2007-12-21-1735/§30) ogforskrift om målenheter og måling 4-14 [punkt 5](forskrift/2007-12-21-1735/kap5) og 6, ogimportør har oppfylt kravene i forskrift om målenheter og måling § 4-16 [punkt](forskrift/2007-12-21-1735/kap3) 3,I tillegg gjelder kravene i forskrift om målenheter og måling [kapittel 4](forskrift/2007-12-21-1735/kap4) avsnitt 3.
+Før distributør gjør en ikke-automatisk vekt som ikke er ment å brukes til formålene angitt i [§ 1](forskrift/2007-12-21-1735/§1) andre ledd tilgjengelig på markedet, skal han verifisere at
+
+1. produsent har oppfylt kravene i
+
+   - [§ 30](forskrift/2007-12-21-1735/§30) og
+   - forskrift om målenheter og måling 4-14 [punkt 5](forskrift/2007-12-21-1735/kap5) og 6, og
+2. importør har oppfylt kravene i forskrift om målenheter og måling § 4-16 [punkt](forskrift/2007-12-21-1735/kap3) 3,
+
+I tillegg gjelder kravene i forskrift om målenheter og måling [kapittel 4](forskrift/2007-12-21-1735/kap4) avsnitt 3.
 
 > Endret ved [forskrifter 10 des 2015 nr. 1460](forskrift/2015-12-10-1460) (i kraft 20 april 2016), [1 mars 2016 nr. 210](forskrift/2016-03-01-210) (i kraft 20 april 2016).
 
@@ -346,7 +395,14 @@ Før distributør gjør en ikke-automatisk vekt som ikke er ment å brukes til f
 
 ### § 49. Krav til nøyaktighetsklasser
 
-Nøyaktighetsklassene som nevnt i [§ 11](forskrift/2007-12-21-1735/§11), skal benyttes for vekter som brukes til følgende bruksformål:Til bestemmelse av masse ved handelstransaksjoner skal man benytte klasse III vekter, eller mer nøyaktige vekterTil bestemmelse av masse ved beregning av avgift, tariff, skatt, premie, bot, vederlag, erstatning eller liknende betaling kan man benytte klasse IIII vekter, eller mer nøyaktige vekterTil bestemmelse av masse med sikte på anvendelse av lov eller forskrift, rettslig sakkunnskap, bestemmes vektklassen i de aktuelle tilfelleneTil bestemmelse av masse i medisinsk praksis ved veiing av pasienter med sikte på overvåking, diagnostisering og medisinsk behandling skal man benytte klasse III vekter, eller mer nøyaktige vekter. For personvekter til privat bruk tillates det klasse IIII vekter.Til bestemmelse av masse ved fremstilling av reseptbelagte legemidler i apotek, og bestemmelse av masse ved analyser utført i medisinske og farmasøytiske laboratorier skal man benytte klasse II vekter, eller mer nøyaktige vekterTil prisfastsettelse etter masse ved direkte salg til publikum og ved tilvirkning av ferdigpakninger skal man benytte klasse III vekter, eller mer nøyaktige vekter.
+Nøyaktighetsklassene som nevnt i [§ 11](forskrift/2007-12-21-1735/§11), skal benyttes for vekter som brukes til følgende bruksformål:
+
+1. Til bestemmelse av masse ved handelstransaksjoner skal man benytte klasse III vekter, eller mer nøyaktige vekter
+2. Til bestemmelse av masse ved beregning av avgift, tariff, skatt, premie, bot, vederlag, erstatning eller liknende betaling kan man benytte klasse IIII vekter, eller mer nøyaktige vekter
+3. Til bestemmelse av masse med sikte på anvendelse av lov eller forskrift, rettslig sakkunnskap, bestemmes vektklassen i de aktuelle tilfellene
+4. Til bestemmelse av masse i medisinsk praksis ved veiing av pasienter med sikte på overvåking, diagnostisering og medisinsk behandling skal man benytte klasse III vekter, eller mer nøyaktige vekter. For personvekter til privat bruk tillates det klasse IIII vekter.
+5. Til bestemmelse av masse ved fremstilling av reseptbelagte legemidler i apotek, og bestemmelse av masse ved analyser utført i medisinske og farmasøytiske laboratorier skal man benytte klasse II vekter, eller mer nøyaktige vekter
+6. Til prisfastsettelse etter masse ved direkte salg til publikum og ved tilvirkning av ferdigpakninger skal man benytte klasse III vekter, eller mer nøyaktige vekter.
 
 > Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
@@ -360,8 +416,27 @@ Ved kontroll under bruk skal Justervesenet utføre inspeksjon og tester i samsva
 
 Denne bestemmelsen gjelder for vekter hvor variasjoner i tyngdens akselerasjon har innvirkning på vektens visning, jf. [§ 29](forskrift/2007-12-21-1735/§29).
 
-En endring i g-verdi skal ikke påvirke vektens feilvisning mer enn 1/3 av maksimalt tillatt feil. g-verdien blir bestemt ut i fra følgende formel:*g* = 9,780 318 (1 + 0,005 3024 sin2 φ – 0,000 0058 sin2 2 φ) – 0,000 003085 *a* m s-2hvor φ er breddegrader oppgitt i radianer(omregning fra grader til radianer gjøres etter følgende formel: radianer = grader × π/180).a er høyde over havet i meter.*Tabell 4 – Generelle retningslinjer**Nøyaktighetsklasse**Antall delinger
-n*IIII–IIIn ≤ 1 500 dIII1 500 d < n ≤ 3 000III3 000 d < n ≤ 5 000 dIIIn > 5 000 dII–I–
+En endring i g-verdi skal ikke påvirke vektens feilvisning mer enn 1/3 av maksimalt tillatt feil. g-verdien blir bestemt ut i fra følgende formel:
+
+*g* = 9,780 318 (1 + 0,005 3024 sin2 φ – 0,000 0058 sin2 2 φ) – 0,000 003085 *a* m s-2
+
+hvor φ er breddegrader oppgitt i radianer
+
+(omregning fra grader til radianer gjøres etter følgende formel: radianer = grader × π/180).
+
+a er høyde over havet i meter.
+
+*Tabell 4 – Generelle retningslinjer*
+
+| *Nøyaktighetsklasse* | *Antall delinger<br>n* |
+| --- | --- |
+| IIII | – |
+| III | n ≤ 1 500 d |
+| III | 1 500 d < n ≤ 3 000 |
+| III | 3 000 d < n ≤ 5 000 d |
+| III | n > 5 000 d |
+| II | – |
+| I | – |
 
 For vekter i klasse III med inntil 1 500 delinger og vekter i klasse IIII som er verifisert for et avgrenset område, er verifiseringen gyldig i hele landet.
 

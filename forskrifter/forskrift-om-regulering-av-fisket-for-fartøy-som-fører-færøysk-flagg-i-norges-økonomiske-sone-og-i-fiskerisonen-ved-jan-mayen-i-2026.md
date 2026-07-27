@@ -28,11 +28,20 @@ Det er forbudt å drive fiske og fangst for fartøy som fører færøysk flagg i
 
 ## § 2. Kvoter i Norges økonomiske sone nord for 62° N
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-01-05-5/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:3 034 tonn torsk1 172 tonn hyse425 tonn sei400 tonn andre arter, herunder uer og blåkveite, som bifangst.
+Uten hinder av forbudet i [§ 1](forskrift/2026-01-05-5/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:
+
+1. 3 034 tonn torsk
+2. 1 172 tonn hyse
+3. 425 tonn sei
+4. 400 tonn andre arter, herunder uer og blåkveite, som bifangst.
 
 ## § 3. Kvoter tildelt av Russland
 
-Uten hensyn til forbudet i [§ 1](forskrift/2026-01-05-5/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta som er tildelt Færøyene av Russland i Norges økonomiske sone nord for 62° mellom 12 og 200 nautiske mil fra grunnlinjene:6 306 tonn torsk1 484 tonn hyse553 tonn andre arter, herunder uer og blåkveite, som bifangst.
+Uten hensyn til forbudet i [§ 1](forskrift/2026-01-05-5/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta som er tildelt Færøyene av Russland i Norges økonomiske sone nord for 62° mellom 12 og 200 nautiske mil fra grunnlinjene:
+
+1. 6 306 tonn torsk
+2. 1 484 tonn hyse
+3. 553 tonn andre arter, herunder uer og blåkveite, som bifangst.
 
 > Tilføyd ved forskrift [2 feb 2026 nr. 127](forskrift/2026-02-02-127).
 

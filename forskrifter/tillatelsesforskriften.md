@@ -26,13 +26,25 @@ eu_basis: []
 
 ### § 1-1. Virkeområde
 
-Forskriften gjelder:tillatelse til å drive jernbanevirksomhet. Dette omfatter bl.a. sporvei, tunnelbane, godsbane, museumsbane og lignende, som ikke er en del av det nasjonale jernbanenettet,drift av sidespor, havnespor, terminalspor og lignende infrastruktur som er tilknyttet det nasjonale jernbanenettet.
+Forskriften gjelder:
 
-Forskriften gjelder ikke:bane for transport av gods til eget bruk hvor transporten foregår på egen infrastruktur innenfor et avgrenset bedriftsområde. Slike baner er unntatt fra jernbaneloven,kabelbane.
+1. tillatelse til å drive jernbanevirksomhet. Dette omfatter bl.a. sporvei, tunnelbane, godsbane, museumsbane og lignende, som ikke er en del av det nasjonale jernbanenettet,
+2. drift av sidespor, havnespor, terminalspor og lignende infrastruktur som er tilknyttet det nasjonale jernbanenettet.
+
+Forskriften gjelder ikke:
+
+1. bane for transport av gods til eget bruk hvor transporten foregår på egen infrastruktur innenfor et avgrenset bedriftsområde. Slike baner er unntatt fra jernbaneloven,
+2. kabelbane.
 
 ### § 1-2. Definisjoner
 
-I forskriften her forstås med:---*infrastruktur:* sporanlegg med tilhørende grunn og innretninger, signal- og sikringsanlegg, strømforsyningsanlegg og kommunikasjonsanlegg,*trafikkvirksomhet:* person- og godstransport på infrastrukturen,*trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togfremføringen,*jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og trafikkvirksomhet.
+I forskriften her forstås med:
+
+1. ---
+2. *infrastruktur:* sporanlegg med tilhørende grunn og innretninger, signal- og sikringsanlegg, strømforsyningsanlegg og kommunikasjonsanlegg,
+3. *trafikkvirksomhet:* person- og godstransport på infrastrukturen,
+4. *trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togfremføringen,
+5. *jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og trafikkvirksomhet.
 
 > Endret ved [forskrift 20 des 2016 nr. 1771](forskrift/2016-12-20-1771) (i kraft 1 jan 2017).
 
@@ -102,7 +114,11 @@ Tillatelse gis ikke dersom særlige grunner taler mot det.
 
 Eieren av virksomheten må ha god vandel og ikke være slått konkurs. Er eieren en juridisk person må daglig leder oppfylle kravene. Det kan i tillegg stilles krav til at andre personer i ledelsen må oppfylle disse kravene.
 
-Kravet til god vandel er oppfylt når personer som nevnt i første ledd:ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig art,ikke er dømt for alvorlige brudd på særlig lovgivning som gjelder transport,ikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen.
+Kravet til god vandel er oppfylt når personer som nevnt i første ledd:
+
+1. ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig art,
+2. ikke er dømt for alvorlige brudd på særlig lovgivning som gjelder transport,
+3. ikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen.
 
 For å dokumentere at kravene til vandel er oppfylt, må det fremlegges politiattest for personer nevnt i første ledd.
 
@@ -118,7 +134,11 @@ For å dokumentere at kravet til økonomisk evne er oppfylt, må foretaket freml
 
 Krav til faglig dyktighet er oppfylt når virksomheten har eller vil ha en ledelsesorganisasjon som har den kunnskap og/eller erfaring som er nødvendig for å utøve sikker og effektiv driftskontroll.
 
-For å dokumentere at kravene til faglig dyktighet er oppfylt, må det fremlegges følgende dokumentasjon:beskrivelse av virksomheten som skal drives og organisasjonen,firmaattest,opplysninger om faglig dyktighet i ledelsesorganisasjonen, herunder kvalifikasjonskrav.
+For å dokumentere at kravene til faglig dyktighet er oppfylt, må det fremlegges følgende dokumentasjon:
+
+1. beskrivelse av virksomheten som skal drives og organisasjonen,
+2. firmaattest,
+3. opplysninger om faglig dyktighet i ledelsesorganisasjonen, herunder kvalifikasjonskrav.
 
 ### § 3-6. Forsikring/garanti
 
@@ -168,7 +188,11 @@ Tillatelse gis ikke dersom særlige grunner taler mot det.
 
 Eieren av virksomheten må ha god vandel og ikke være slått konkurs. Er eieren en juridisk person må daglig leder oppfylle kravene. Det kan i tillegg stilles krav til at andre personer i ledelsen må oppfylle disse kravene.
 
-Kravet til god vandel er oppfylt når personer som nevnt i første ledd:ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig art,ikke er dømt for alvorlige brudd på særlig lovgivning som gjelder transport,ikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen.
+Kravet til god vandel er oppfylt når personer som nevnt i første ledd:
+
+1. ikke er dømt for alvorlige straffbare forhold, herunder overtredelse av forretningsmessig art,
+2. ikke er dømt for alvorlige brudd på særlig lovgivning som gjelder transport,
+3. ikke er dømt for alvorlige eller gjentatte brudd på sosialrettslige eller arbeidsrettslige forpliktelser, herunder forpliktelser i henhold til arbeidervern- og arbeidsmiljølovgivningen.
 
 For å dokumentere at kravene til vandel er oppfylt, må det fremlegges politiattest for personer nevnt i første ledd.
 
@@ -182,7 +206,11 @@ For å dokumentere at kravet til økonomisk evne er oppfylt, må foretaket freml
 
 Krav til faglig dyktighet er oppfylt når virksomheten har eller vil ha en ledelsesorganisasjon som har den kunnskap og/eller erfaring som er nødvendig for å utøve sikker og effektiv driftskontroll.
 
-For å dokumentere at kravene til faglig dyktighet er oppfylt, må det fremlegges følgende dokumentasjon:beskrivelse av virksomheten som skal drives og organisasjonen,firmaattest,opplysninger om faglig dyktighet i ledelsesorganisasjonen, herunder kvalifikasjonskrav.
+For å dokumentere at kravene til faglig dyktighet er oppfylt, må det fremlegges følgende dokumentasjon:
+
+1. beskrivelse av virksomheten som skal drives og organisasjonen,
+2. firmaattest,
+3. opplysninger om faglig dyktighet i ledelsesorganisasjonen, herunder kvalifikasjonskrav.
 
 ### § 4-6. Forsikring/garanti
 

@@ -15,7 +15,7 @@ xml_hash: "b75236f6f39168e3c002ac359af38a5fa6be507e52291892c8b19bb1ad14bfc5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32008L0094"
@@ -29,9 +29,16 @@ For betaling av krav på lønn og dermed likestilte krav som ikke kan dekkes på
 
 Garantien omfatter forfalte krav på lønn og annet vederlag for arbeid i tjenesteforhold, herunder feriepenger, krav på arbeidsgiver for pensjon og tapt arbeidsvederlag, samt mulige renter og kostnader ved inndriving av slike krav. Garantien omfatter også kostnader som en arbeidstakerorganisasjon har i forbindelse med inndriving av en arbeidstakers krav.
 
-Kravene dekkes av garantien i den utstrekning de har fortrinnsrett etter [dekningsloven kapittel 9](lov/1984-06-08-59/kap9), men med følgende begrensninger:Garantien er i det enkelte tilfelle begrenset til et beløp som svarer til to ganger folketrygdens grunnbeløp på fristdagen.Etter konkursåpning dekkes krav som nevnt i andre ledd i inntil én måned regnet fra konkursåpningstidspunktet.Det gis kun dekning for feriepenger som er opptjent i samme år som året for fristdagen i konkursen og året før.
+Kravene dekkes av garantien i den utstrekning de har fortrinnsrett etter [dekningsloven kapittel 9](lov/1984-06-08-59/kap9), men med følgende begrensninger:
 
-Følgende krav dekkes av garantien, med samme beløpsbegrensning som i tredje ledd nr. 1, selv om de ikke har fortrinnsrett etter [dekningsloven kapittel 9](lov/1984-06-08-59/kap9):krav på vederlag som nevnt i [dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr. 1 første ledd bokstav c og d, oglønnskrav som er forfalt i løpet av de siste 12 måneder før fristdagen. [Dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr. 1 tredje ledd første punktum og [§ 9-3](lov/1984-06-08-59/§9-3) andre ledd gjelder ikke. Garantien dekker også krav på renter inntil fristdagen og inndrivelseskostnader for krav etter dette ledd.
+1. Garantien er i det enkelte tilfelle begrenset til et beløp som svarer til to ganger folketrygdens grunnbeløp på fristdagen.
+2. Etter konkursåpning dekkes krav som nevnt i andre ledd i inntil én måned regnet fra konkursåpningstidspunktet.
+3. Det gis kun dekning for feriepenger som er opptjent i samme år som året for fristdagen i konkursen og året før.
+
+Følgende krav dekkes av garantien, med samme beløpsbegrensning som i tredje ledd nr. 1, selv om de ikke har fortrinnsrett etter [dekningsloven kapittel 9](lov/1984-06-08-59/kap9):
+
+1. krav på vederlag som nevnt i [dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr. 1 første ledd bokstav c og d, og
+2. lønnskrav som er forfalt i løpet av de siste 12 måneder før fristdagen. [Dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr. 1 tredje ledd første punktum og [§ 9-3](lov/1984-06-08-59/§9-3) andre ledd gjelder ikke. Garantien dekker også krav på renter inntil fristdagen og inndrivelseskostnader for krav etter dette ledd.
 
 For banker og forsikringsselskaper under offentlig administrasjon gjelder bestemmelsene i [dekningsloven kapittel 9](lov/1984-06-08-59/kap9) tilsvarende så langt de passer. Som fristdag regnes den dagen vedtak om offentlig administrasjon ble truffet.
 

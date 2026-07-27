@@ -15,7 +15,7 @@ xml_hash: "7c88f3dbe0234b9195a6937f8100c9b80174ee4d6d06933bcca2c7a4b486e6b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,9 +54,22 @@ Dersom det er gått mer enn seks måneder siden avsendelsen av siste varsel det 
 
 ### § 1-4. Gebyrmessig erstatning ved inndriving av egne pengekrav ved advokat
 
-Når en advokat som har stilt sikkerhet etter [advokatloven § 5](lov/2022-05-12-28/§5), har den faglige ledelsen av inndrivingen, kan en fordringshaver som erstatning for kostnadene ved å drive inn kravet selv kreve gebyrmessig erstatning som nevnt i annet ledd, forutsatt at:fordringshaveren ikke samtidig krever gebyrmessig erstatning for varsler etter [§ 1-2](forskrift/1989-07-14-562/§1-2) jf. [§ 1-3](forskrift/1989-07-14-562/§1-3), ogskyldneren har oversittet betalingsfristen i en betalingsoppfordring som fordringshaveren selv har sendt, jf. tredje ledd, med mer enn 14 dager.
+Når en advokat som har stilt sikkerhet etter [advokatloven § 5](lov/2022-05-12-28/§5), har den faglige ledelsen av inndrivingen, kan en fordringshaver som erstatning for kostnadene ved å drive inn kravet selv kreve gebyrmessig erstatning som nevnt i annet ledd, forutsatt at:
 
-Dersom skyldneren har pådratt seg en forpliktelse i egenskap av å være forbruker, er den gebyrmessige erstatningen etter første ledd:for krav t.o.m. kr 500 0,25 ganger inkassosatsenfor krav t.o.m. kr 1 000 0,35 ganger inkassosatsenfor krav t.o.m. kr 2 500 0,4 ganger inkassosatsenfor krav t.o.m. kr 10 000 0,8 ganger inkassosatsenfor krav t.o.m. kr 50 000 1,6 ganger inkassosatsenfor krav t.o.m. kr 250 000 3,6 ganger inkassosatsenfor krav over kr 250 000 7,2 ganger inkassosatsenI andre tilfeller er den gebyrmessige erstatningen etter første ledd halvannen ganger satsen i forbrukerforhold.
+1. fordringshaveren ikke samtidig krever gebyrmessig erstatning for varsler etter [§ 1-2](forskrift/1989-07-14-562/§1-2) jf. [§ 1-3](forskrift/1989-07-14-562/§1-3), og
+2. skyldneren har oversittet betalingsfristen i en betalingsoppfordring som fordringshaveren selv har sendt, jf. tredje ledd, med mer enn 14 dager.
+
+Dersom skyldneren har pådratt seg en forpliktelse i egenskap av å være forbruker, er den gebyrmessige erstatningen etter første ledd:
+
+- for krav t.o.m. kr 500 0,25 ganger inkassosatsen
+- for krav t.o.m. kr 1 000 0,35 ganger inkassosatsen
+- for krav t.o.m. kr 2 500 0,4 ganger inkassosatsen
+- for krav t.o.m. kr 10 000 0,8 ganger inkassosatsen
+- for krav t.o.m. kr 50 000 1,6 ganger inkassosatsen
+- for krav t.o.m. kr 250 000 3,6 ganger inkassosatsen
+- for krav over kr 250 000 7,2 ganger inkassosatsen
+
+I andre tilfeller er den gebyrmessige erstatningen etter første ledd halvannen ganger satsen i forbrukerforhold.
 
 Gebyrmessig erstatning kan bare kreves dersom betalingsoppfordringen nevnt i første ledd bokstav b tilfredsstiller kravene i [inkassoloven § 10](lov/1988-05-13-26/§10) og er sendt etter at skyldneren har oversittet en betalingsfrist på minst 14 dager fastsatt i en purring som er sendt etter forfall og som angir kravets størrelse og hva kravet gjelder, eller i et inkassovarsel etter [inkassoloven § 9](lov/1988-05-13-26/§9). En betaling anses å ha skjedd den dag betalingsoppdrag ble innlevert til post eller bank.
 
@@ -84,7 +97,17 @@ De maksimale beløpssatsene i [§ 2-2](forskrift/1989-07-14-562/§2-2) og [§ 2-
 
 ### § 2-2. Maksimalsatser for enkle saker
 
-Maksimale beløpssatser for skyldnerens erstatningsplikt for fordringshaverens utenrettslige inndrivingskostnader er for det enkelte krav:for krav t.o.m. kr 500 0,25 ganger inkassosatsenfor krav t.o.m. kr 1 000 0,35 ganger inkassosatsenfor krav t.o.m. kr 2 500 0,4 ganger inkassosatsenfor krav t.o.m. kr 10 000 0,8 ganger inkassosatsenfor krav t.o.m. kr 50 000 1,6 ganger inkassosatsenfor krav t.o.m. kr 250 000 3,6 ganger inkassosatsenfor krav over kr 250 000 7,2 ganger inkassosatsenDersom hele eller mer enn halvparten av et krav ikke skriver seg fra virksomhet som er merverdiavgiftspliktig, skal det ved beregningen av de maksimale beløpssatsene legges til et beløp tilsvarende den generelle satsen for merverdiavgift.
+Maksimale beløpssatser for skyldnerens erstatningsplikt for fordringshaverens utenrettslige inndrivingskostnader er for det enkelte krav:
+
+- for krav t.o.m. kr 500 0,25 ganger inkassosatsen
+- for krav t.o.m. kr 1 000 0,35 ganger inkassosatsen
+- for krav t.o.m. kr 2 500 0,4 ganger inkassosatsen
+- for krav t.o.m. kr 10 000 0,8 ganger inkassosatsen
+- for krav t.o.m. kr 50 000 1,6 ganger inkassosatsen
+- for krav t.o.m. kr 250 000 3,6 ganger inkassosatsen
+- for krav over kr 250 000 7,2 ganger inkassosatsen
+
+Dersom hele eller mer enn halvparten av et krav ikke skriver seg fra virksomhet som er merverdiavgiftspliktig, skal det ved beregningen av de maksimale beløpssatsene legges til et beløp tilsvarende den generelle satsen for merverdiavgift.
 
 Med krav menes hovedkravet med tillegg av renter påløpt før forfall, men uten tillegg av renter påløpt etter forfall og inndrivingskostnader. Avtales det et nytt og senere forfallstidspunkt, legges det nye forfallstidspunktet til grunn. Det skal likevel aldri tas hensyn til renter som er påløpt etter at fordringshaveren har engasjert en inkassator til å drive inn kravet.
 
@@ -94,7 +117,17 @@ Ved beregningen av maksimalsatsene anvendes inkassosatsen på det tidspunktet ho
 
 ### § 2-3. Maksimalsatser for tyngre saker
 
-Dersom skyldneren har oversittet betalingsfristen i en betalingsoppfordring, jf. annet ledd, med mer enn 28 dager, er de maksimale beløpssatsene for skyldnerens erstatningsplikt for fordringshaverens utenrettslige inndrivingskostnader for det enkelte krav:for krav t.o.m. kr 500 0,5 ganger inkassosatsenfor krav t.o.m. kr 1 000 0,7 ganger inkassosatsenfor krav t.o.m. kr 2 500 0,8 ganger inkassosatsenfor krav t.o.m. kr 10 000 1,6 ganger inkassosatsenfor krav t.o.m. kr 50 000 3,2 ganger inkassosatsenfor krav t.o.m. kr 250 000 7,2 ganger inkassosatsenfor krav over kr 250 000 14,4 ganger inkassosatsenDersom hele eller mer enn halvparten av et krav ikke skriver seg fra virksomhet som er merverdiavgiftspliktig, skal det ved beregningen av de maksimale beløpssatsene legges til et beløp tilsvarende den generelle satsen for merverdiavgift.
+Dersom skyldneren har oversittet betalingsfristen i en betalingsoppfordring, jf. annet ledd, med mer enn 28 dager, er de maksimale beløpssatsene for skyldnerens erstatningsplikt for fordringshaverens utenrettslige inndrivingskostnader for det enkelte krav:
+
+- for krav t.o.m. kr 500 0,5 ganger inkassosatsen
+- for krav t.o.m. kr 1 000 0,7 ganger inkassosatsen
+- for krav t.o.m. kr 2 500 0,8 ganger inkassosatsen
+- for krav t.o.m. kr 10 000 1,6 ganger inkassosatsen
+- for krav t.o.m. kr 50 000 3,2 ganger inkassosatsen
+- for krav t.o.m. kr 250 000 7,2 ganger inkassosatsen
+- for krav over kr 250 000 14,4 ganger inkassosatsen
+
+Dersom hele eller mer enn halvparten av et krav ikke skriver seg fra virksomhet som er merverdiavgiftspliktig, skal det ved beregningen av de maksimale beløpssatsene legges til et beløp tilsvarende den generelle satsen for merverdiavgift.
 
 Maksimalsatsene etter første ledd kommer bare til anvendelse dersom betalingsoppfordringen tilfredsstiller kravene i [inkassoloven § 10](lov/1988-05-13-26/§10) og er sendt etter at skyldneren har oversittet en betalingsfrist på minst 14 dager fastsatt i en purring som er sendt etter forfall og som angir kravets størrelse og hva kravet gjelder, eller i et inkassovarsel etter [inkassoloven § 9](lov/1988-05-13-26/§9). En betaling anses å ha skjedd den dag betalingsoppdrag ble innlevert til post eller bank.
 

@@ -34,7 +34,12 @@ Kravet om samtykke gjelder ikke for personer som tilhører urfolket eller lokals
 
 ## § 3. Unntak fra kravet om samtykke
 
-Det kreves ikke samtykke når den tradisjonelle kunnskapen:utnyttes i privat øyemed utenfor næringsvirksomhet,gjengis eller utnyttes med det formål å sitere eller undervise, og kilden oppgisutnyttes ved forskning eller ved eksperiment som angår selve kunnskapen og der formålet er å bekrefte eller avkrefte kunnskapens virkning,over en rimelig tidsperiode har vært alminnelig kjent eller tilgjengelig utenfor urfolket eller lokalsamfunnet.
+Det kreves ikke samtykke når den tradisjonelle kunnskapen:
+
+1. utnyttes i privat øyemed utenfor næringsvirksomhet,
+2. gjengis eller utnyttes med det formål å sitere eller undervise, og kilden oppgis
+3. utnyttes ved forskning eller ved eksperiment som angår selve kunnskapen og der formålet er å bekrefte eller avkrefte kunnskapens virkning,
+4. over en rimelig tidsperiode har vært alminnelig kjent eller tilgjengelig utenfor urfolket eller lokalsamfunnet.
 
 ## § 4. Rekkevidden av samtykke og vilkår for bruk
 

@@ -30,7 +30,16 @@ For andre bestemmelser som regulerer forhold knyttet til ph.d.-graden, vises det
 
 ## § 2. Begreper
 
-I denne forskriften menes med:*Doktorgrad:* Graden philosophiae doctor (ph.d.).*Kandidat:* En som er opptatt på doktorgradsutdanning ved Nord universitet uavhengig av ansettelsesforhold, og er den som omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.*Stipendiat:* En doktorgradskandidat som innehar en stilling ved Nord universitet med fullført doktorgrad som mål. I forskrifta omtales både kandidat og stipendiat som doktorgradskandidat eller kandidat, med mindre det gjelder særskilte reguleringer for stipendiater.*Doktorand:* Er en person som forsvarer doktoravhandlingen i en disputas.*Finansieringsperiode:* Dato for tiltredelse i stillingen som stipendiat eller oppstart av eksternfinansiert doktorgradsprosjekt til beregnet finansieringsslutt.*Opptaksdato:* Dato for godkjenning av endelig prosjektbeskrivelse og formelt opptak i doktorgradsprogrammet.*Avtaleperioden:* Tilsvarer finansieringsperioden.*Studietid:* Er perioden man er registrert ved universitet og inkluderer perioden utover avtaleperioden.
+I denne forskriften menes med:
+
+- *Doktorgrad:* Graden philosophiae doctor (ph.d.).
+- *Kandidat:* En som er opptatt på doktorgradsutdanning ved Nord universitet uavhengig av ansettelsesforhold, og er den som omfattet av forskriftens bestemmelser. Også kalt doktorgradskandidat.
+- *Stipendiat:* En doktorgradskandidat som innehar en stilling ved Nord universitet med fullført doktorgrad som mål. I forskrifta omtales både kandidat og stipendiat som doktorgradskandidat eller kandidat, med mindre det gjelder særskilte reguleringer for stipendiater.
+- *Doktorand:* Er en person som forsvarer doktoravhandlingen i en disputas.
+- *Finansieringsperiode:* Dato for tiltredelse i stillingen som stipendiat eller oppstart av eksternfinansiert doktorgradsprosjekt til beregnet finansieringsslutt.
+- *Opptaksdato:* Dato for godkjenning av endelig prosjektbeskrivelse og formelt opptak i doktorgradsprogrammet.
+- *Avtaleperioden:* Tilsvarer finansieringsperioden.
+- *Studietid:* Er perioden man er registrert ved universitet og inkluderer perioden utover avtaleperioden.
 
 ## § 3. Målsetting for doktorgradsutdanning og tildeling av grad
 
@@ -46,7 +55,12 @@ Doktorgradsutdanningens viktigste komponent er et selvstendig forskningsarbeid s
 
 ## § 3-2. Tildeling av vitenskapelig doktorgrad
 
-Doktorgraden tildeles på grunnlag av:Godkjent vitenskapelig avhandling, jf. [§ 11-1](forskrift/2026-05-07-1167/§11-1)Godkjent gjennomføring av opplæringsdelen, jf. [§ 9-1](forskrift/2026-05-07-1167/§9-1)Godkjent prøveforelesning over oppgitt emne, jf. [§ 18-1](forskrift/2026-05-07-1167/§18-1)Godkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas), jf. [§ 18-2](forskrift/2026-05-07-1167/§18-2).
+Doktorgraden tildeles på grunnlag av:
+
+- Godkjent vitenskapelig avhandling, jf. [§ 11-1](forskrift/2026-05-07-1167/§11-1)
+- Godkjent gjennomføring av opplæringsdelen, jf. [§ 9-1](forskrift/2026-05-07-1167/§9-1)
+- Godkjent prøveforelesning over oppgitt emne, jf. [§ 18-1](forskrift/2026-05-07-1167/§18-1)
+- Godkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas), jf. [§ 18-2](forskrift/2026-05-07-1167/§18-2).
 
 ## § 4. Ansvaret for doktorgradsutdanningen
 
@@ -74,19 +88,50 @@ Nord universitet kan etter særskilt faglig vurdering godkjenne annen likeverdig
 
 Privat finansiering som egne eller familiens midler eller lignende, aksepteres ikke som finansiering for opptak til den organiserte doktorgradsutdanningen, jf. [§ 6-2](forskrift/2026-05-07-1167/§6-2).
 
-Søkere fra land utenfor Norden må kunne dokumentere engelskkunnskaper i henhold til ett av følgende krav:TOEFL: Test of English as a Foreign Language (TOEFL), med minst 580 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 85 poeng på Internet based test (TOEFL IBT), ellerIELTS: International English Language Testing Service (IELTS) with a minimum of 6.5 points, ellerUniversity of Cambridge Exams: Certificate in Advanced English or Certificate of Proficiency in EnglishAPIEL: Advanced Placement International English Language Examination (APIEL) with a minimum of 3 pointsMELAB: Michigan English Language Assessment Battery (MELAB) with a minimum of 85 points.
+Søkere fra land utenfor Norden må kunne dokumentere engelskkunnskaper i henhold til ett av følgende krav:
 
-Søkere med følgende dokumentasjon er unntatt fra engelskkravet:statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USA med engelsk som morsmålett års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelskfullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studietbachelorgrad og/eller mastergrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangenA-level i engelsk med minimum C eller bedre.
+- TOEFL: Test of English as a Foreign Language (TOEFL), med minst 580 poeng på papirbasert test, 213 poeng på computer based test (TOEFL CBT) eller 85 poeng på Internet based test (TOEFL IBT), eller
+- IELTS: International English Language Testing Service (IELTS) with a minimum of 6.5 points, eller
+- University of Cambridge Exams: Certificate in Advanced English or Certificate of Proficiency in English
+- APIEL: Advanced Placement International English Language Examination (APIEL) with a minimum of 3 points
+- MELAB: Michigan English Language Assessment Battery (MELAB) with a minimum of 85 points.
+
+Søkere med følgende dokumentasjon er unntatt fra engelskkravet:
+
+- statsborgere fra Australia, Canada, Irland, New Zealand, Storbritannia og USA med engelsk som morsmål
+- ett års universitetsstudier i ett av de ovenfor nevnte land, hvor undervisningsspråket har vært engelsk
+- fullført universitetsutdanning hvor faget engelsk utgjør hoveddelen av studiet
+- bachelorgrad og/eller mastergrad hvor undervisningsspråket har vært engelsk gjennom hele skolegangen
+- A-level i engelsk med minimum C eller bedre.
 
 Fakultetene kan stille ytterligere krav til kvalifikasjoner etter kriterier som er åpent tilgjengelig og i tråd med gjeldende rekrutteringspolitikk og faglige profil.
 
 ## § 6-2. Krav til søknaden om opptak
 
-Søknaden skal inneholde:dokumentasjon for den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaketen datahåndteringsplan (DMP) for prosjektet der dette er relevantredegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklaresen prosjektbeskrivelsedokumentasjon for finansiering av livsopphold og gjennomføring av prosjektet.
+Søknaden skal inneholde:
 
-Søknaden bør inneholde:plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverketforslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljøoversikt over relevante publikasjonerhvilket språk avhandlingen skal skrives på, jf. [§ 11-1](forskrift/2026-05-07-1167/§11-1).
+- dokumentasjon for den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket
+- en datahåndteringsplan (DMP) for prosjektet der dette er relevant
+- redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares
+- en prosjektbeskrivelse
+- dokumentasjon for finansiering av livsopphold og gjennomføring av prosjektet.
 
-Prosjektbeskrivelsen skal omfatte:faglig redegjørelse for prosjektetredegjørelse om hvilke tillatelser fra forskningsetiske komitéer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.), som er påkrevet for å gjennomføre prosjektet. Slike tillatelser bør om mulig legges ved søknadenframdriftsplanbeskrivelse av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonplan for formidling av resultateropplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+Søknaden bør inneholde:
+
+- plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket
+- forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø
+- oversikt over relevante publikasjoner
+- hvilket språk avhandlingen skal skrives på, jf. [§ 11-1](forskrift/2026-05-07-1167/§11-1).
+
+Prosjektbeskrivelsen skal omfatte:
+
+- faglig redegjørelse for prosjektet
+- redegjørelse om hvilke tillatelser fra forskningsetiske komitéer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.), som er påkrevet for å gjennomføre prosjektet. Slike tillatelser bør om mulig legges ved søknaden
+- framdriftsplan
+- beskrivelse av spesielle behov for faglige og materielle ressurser
+- eventuelle planer for opphold ved annen institusjon
+- plan for formidling av resultater
+- opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
 
 Nord universitet kan fastsette krav til ytterligere dokumentasjon.
 
@@ -110,7 +155,13 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden, inkludert prosjek
 
 I vedtaket skal hovedveileder oppnevnes og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes normalt lik startdato for finansiering, jf. [§ 7-2](forskrift/2026-05-07-1167/§7-2).
 
-Opptak bør nektes:dersom vilkårene i [§ 6-1](forskrift/2026-05-07-1167/§6-1) ikke er oppfyltom avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen, jf. [§§ 17-3](forskrift/2026-05-07-1167/§17-3) og [18-2](forskrift/2026-05-07-1167/§18-2)om prosjektet ikke er gjennomførbart innen finansieringsperiodenom de immaterialrettslige avtaler som er inngått er så urimelige at Nord universitet ikke bør medvirke i prosjektetom finansieringen ikke er tilfredsstillende for å kunne gjennomføre prosjektet.
+Opptak bør nektes:
+
+- dersom vilkårene i [§ 6-1](forskrift/2026-05-07-1167/§6-1) ikke er oppfylt
+- om avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen, jf. [§§ 17-3](forskrift/2026-05-07-1167/§17-3) og [18-2](forskrift/2026-05-07-1167/§18-2)
+- om prosjektet ikke er gjennomførbart innen finansieringsperioden
+- om de immaterialrettslige avtaler som er inngått er så urimelige at Nord universitet ikke bør medvirke i prosjektet
+- om finansieringen ikke er tilfredsstillende for å kunne gjennomføre prosjektet.
 
 ## § 7. Doktorgradsavtalen
 
@@ -144,7 +195,12 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt sk
 
 ## § 7-4. Tvungen avslutning ved forsinkelse eller manglende framdrift eller opphør av finansiering
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan ansvarlig fakultet vedta tvungen avslutning av doktorgradsutdanningen.vesentlig forsinkelse i gjennomføringen av opplæringsdelengjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10-1](forskrift/2026-05-07-1167/§10-1)forsinkelse i framdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tidhvis finansieringen opphører underveis i avtaleperioden.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan ansvarlig fakultet vedta tvungen avslutning av doktorgradsutdanningen.
+
+- vesentlig forsinkelse i gjennomføringen av opplæringsdelen
+- gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10-1](forskrift/2026-05-07-1167/§10-1)
+- forsinkelse i framdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid
+- hvis finansieringen opphører underveis i avtaleperioden.
 
 Tvungen avslutning etter disse reglene kan bare vedtas dersom framdriftssvikten eller forsinkelsen skyldes forhold som doktorgradskandidat selv rår over.
 
@@ -246,7 +302,11 @@ Kandidater med ekstern arbeidsgiver plikter å påse at fakultetet informeres om
 
 Eksamener i opplæringsdelen er regulert av bestemmelsene om eksamen i [universitets- og høyskoleloven](lov/2024-03-08-9) samt forskrift om studier og eksamener ved Nord universitetet.
 
-For sensorer på emner i opplæringsdelen av doktorgradsutdanningen kreves doktorgrad eller tilsvarende. Det skal benyttes to sensorer, hvorav minst én ekstern, i følgende tilfeller:ved sensurering av kurs i opplæringsdelenved ny sensurering som følge av klage over formelle feil ved eksamen, jf. [universitets- og høyskoleloven § 11-9](lov/2024-03-08-9/§11-9)ved klage over karakterfastsettelse, jf. [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10).
+For sensorer på emner i opplæringsdelen av doktorgradsutdanningen kreves doktorgrad eller tilsvarende. Det skal benyttes to sensorer, hvorav minst én ekstern, i følgende tilfeller:
+
+1. ved sensurering av kurs i opplæringsdelen
+2. ved ny sensurering som følge av klage over formelle feil ved eksamen, jf. [universitets- og høyskoleloven § 11-9](lov/2024-03-08-9/§11-9)
+3. ved klage over karakterfastsettelse, jf. [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10).
 
 ## § 10. Rapportering og midtveisevaluering
 
@@ -346,7 +406,14 @@ Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen 
 
 Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden. Avhandlingen vil bli vurdert slik den er innlevert.
 
-Søknaden skal ha følgende vedlegg:avhandlingen i godkjent format for Nord universitetdokumentasjon av nødvendige tillatelser, jf. [§ 6-2](forskrift/2026-05-07-1167/§6-2)medforfattererklæringer hvor dette er påkrevd i henhold til [§ 11-2](forskrift/2026-05-07-1167/§11-2)erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gangerklæring om at avhandlingen, eller deler av den, ikke er levert inn til bedømmelse ved annen institusjonrevidert datahåndteringsplan (DMP).
+Søknaden skal ha følgende vedlegg:
+
+- avhandlingen i godkjent format for Nord universitet
+- dokumentasjon av nødvendige tillatelser, jf. [§ 6-2](forskrift/2026-05-07-1167/§6-2)
+- medforfattererklæringer hvor dette er påkrevd i henhold til [§ 11-2](forskrift/2026-05-07-1167/§11-2)
+- erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang
+- erklæring om at avhandlingen, eller deler av den, ikke er levert inn til bedømmelse ved annen institusjon
+- revidert datahåndteringsplan (DMP).
 
 Avhandlingen skal leveres elektronisk.
 
@@ -366,7 +433,12 @@ Det gjennomføres plagiatkontroll av innlevert avhandling før søknaden godkjen
 
 Når fakultetet har godkjent søknad om å få den vitenskapelige avhandlingen bedømt, oppnevnes en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, samt prøveforelesning og disputas dersom avhandlingen finnes verdig for forsvar. Habilitetsreglene i [forvaltningslovens § 6 annet ledd](lov/1967-02-10/§6/ledd/2) gjelder for medlemmene i bedømmelseskomitéen.
 
-Bedømmelseskomitéen skal normalt settes sammen slik at:begge kjønn er representertminst et av medlemmene skal ha hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse innen relevant fagområdeflertallet i bedømmelseskomitéen er eksterne medlemmer.
+Bedømmelseskomitéen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- minst et av medlemmene skal ha hovedstilling ved en utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse innen relevant fagområde
+- flertallet i bedømmelseskomitéen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -550,7 +622,11 @@ I avtaler om fellesgradssamarbeid og cotutelle kan det gjøres unntak for de øv
 
 Med fellesgrader menes et samarbeid mellom flere institusjoner der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.
 
-For fullført fellesgrad utstedes felles vitnemål i form av:et vitnemålsdokument utstedt av alle konsortiemedlemmene,et vitnemål fra hver av konsortiedeltakerne,eller en kombinasjon av a og b.
+For fullført fellesgrad utstedes felles vitnemål i form av:
+
+1. et vitnemålsdokument utstedt av alle konsortiemedlemmene,
+2. et vitnemål fra hver av konsortiedeltakerne,
+3. eller en kombinasjon av a og b.
 
 Fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom Nord universitet og minst en av de andre konsortiedeltakerne. Styret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler.
 

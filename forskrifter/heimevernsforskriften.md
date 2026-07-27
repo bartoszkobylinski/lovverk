@@ -24,13 +24,24 @@ eu_basis: []
 
 ## § 1. Hva forskriften gjelder
 
-Forskriften gjelder følgende råd, utvalg og nemnder som er opprettet for å sikre samarbeid mellom Heimevernet og sivilbefolkningen:Landsrådet for Heimevernetdistriktsrådeneområdeutvalgene og innsatsstyrkeutvalgeneheimevernsnemndene.
+Forskriften gjelder følgende råd, utvalg og nemnder som er opprettet for å sikre samarbeid mellom Heimevernet og sivilbefolkningen:
+
+1. Landsrådet for Heimevernet
+2. distriktsrådene
+3. områdeutvalgene og innsatsstyrkeutvalgene
+4. heimevernsnemndene.
 
 ## § 2. Rådenes, utvalgenes og nemndenes oppgaver og sammensetning
 
 Rådene, utvalgene og nemndene kan gi uttalelser og råd i saker som har betydning for Heimevernet.
 
-Landsrådet for Heimevernet oppnevnes av Forsvarsdepartementet og skal være sammensatt av representanter fra relevantelandsdekkende organisasjoner for arbeidstakernelandsdekkende organisasjoner for arbeidsgiverneberedskapsorganisasjonerfrivillige samarbeidsorganisasjonerorganisasjoner for primærnæringene.
+Landsrådet for Heimevernet oppnevnes av Forsvarsdepartementet og skal være sammensatt av representanter fra relevante
+
+1. landsdekkende organisasjoner for arbeidstakerne
+2. landsdekkende organisasjoner for arbeidsgiverne
+3. beredskapsorganisasjoner
+4. frivillige samarbeidsorganisasjoner
+5. organisasjoner for primærnæringene.
 
 Organisasjonene som er representert i Landsrådet for Heimevernet kan oppnevne hver sin representant til distriktsrådene.
 

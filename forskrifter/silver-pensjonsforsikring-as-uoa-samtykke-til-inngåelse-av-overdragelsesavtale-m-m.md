@@ -22,7 +22,11 @@ eu_basis: []
 
 # Silver Pensjonsforsikring AS UOA – samtykke til inngåelse av overdragelsesavtale m.m.
 
-Det vises til søknad fra Silver Pensjonsforsikring AS UOA (Silver) mottatt 12. desember 2017 hvor det søkes omsamtykke til å inngå overdragelsesavtalen med Storebrand Livsforsikring AS (Storebrand),tillatelse til å nedsette og forhøye aksjekapitalen i Silver,samtykke til å etterbetale pensjoner som i 2017 har blitt utbetalt med 50 prosent.
+Det vises til søknad fra Silver Pensjonsforsikring AS UOA (Silver) mottatt 12. desember 2017 hvor det søkes om
+
+- samtykke til å inngå overdragelsesavtalen med Storebrand Livsforsikring AS (Storebrand),
+- tillatelse til å nedsette og forhøye aksjekapitalen i Silver,
+- samtykke til å etterbetale pensjoner som i 2017 har blitt utbetalt med 50 prosent.
 
 Søknaden om samtykke til å inngå overdragelsesavtalen innebærer også samtykke til at fripolisene omberegnes basert på en diskonteringsrente på 2,75 prosent, og at polisene konverteres til fripoliser med investeringsvalg, samt at forsikringskravene inkludert renter nedsettes av administrasjonsstyret med inntil 1,25 prosent.
 
@@ -66,6 +70,23 @@ Administrasjonsstyret har 18. desember 2017 bekreftet overfor Finanstilsynet at 
 
 ## 4. Vedtak
 
-Det ble fattet slikt vedtak:Finanstilsynet gir i medhold av [finansforetaksloven § 21-20](lov/2015-04-10-17/§21-20) annet ledd nest siste punktum samtykke til at administrasjonsstyret i Silver inngår det fremlagte forslag til overdragelsesavtale. Overtakende foretak etter avtalen er Storebrand.For de forsikringskontraktene som overføres direkte til Storebrand (fripoliser sprunget ut av foretakspensjonsordninger og individuelle pensjonsavtaler (IPA Trad)), innebærer samtykket at alderspensjonsytelsene:omregnes basert på gjeldende og oppdaterte dødelighetsforutsetninger og diskonteringsrente 2,75 prosent, og konverteres av administrasjonsstyret til fripoliser med investeringsvalg i forbindelse med at kontraktene overføres til Storebrand (for avtaler som ved omregningen får lavere kontantverdi enn tidligere premiereserve settes kontantverdien lik tidligere premiereserve), ogforsikringskravene inkludert renter nedsettes av administrasjonsstyret med inntil 1,25 prosent.Samtykket innebærer videre atRisikoproduktene (uføreytelsene og etterlatteytelsene) knyttet til fripolisene og IPA Trad videreføres med samme ytelser som før, men med endret premiereserve basert på gjeldende og oppdaterte dødelighetsforutsetninger og diskonteringsrente 2,75 prosent.Produktelementene garantitid og tilbakebetalingsplikt for IPA Trad videreføres.Tilleggsavsetninger og andel kursreguleringsfond knyttet til den enkelte avtale videreføres ikke.Finanstilsynet gir Silver tillatelse i medhold av [finansforetaksloven § 10-4](lov/2015-04-10-17/§10-4) til å sette ned aksjekapitalen fra NOK 228 151 820 til null for å dekke tap, og deretter å forhøye aksjekapitalen først fra null til NOK 30 000 og deretter fra NOK 30 000 til NOK 35 000 000 eller et beløp som på beslutningstidspunktet svarer til MEUR 3,7 dersom dette beløpet er høyere enn NOK 35 000 000. Begge kapitalforhøyelsene rettes mot Storebrand.Finanstilsynet gir tillatelse til at Silver endrer vedtektenes § 1-3 om aksjekapitalens størrelse og antall aksjer slik at vedtektene til enhver tid er i overensstemmelse med den kapitalen som er vedtatt, tegnet og innbetalt ovenfor, jf. [finansforetaksloven § 7-10](lov/2015-04-10-17/§7-10) første ledd.Finanstilsynet godkjenner administrasjonsstyrets beslutning om at pensjoner etterbetales som omsøkt, jf. [finansforetaksloven § 21-12](lov/2015-04-10-17/§21-12) første ledd bokstav d) og [§ 21-14](lov/2015-04-10-17/§21-14) tredje ledd
+Det ble fattet slikt vedtak:
+
+1. Finanstilsynet gir i medhold av [finansforetaksloven § 21-20](lov/2015-04-10-17/§21-20) annet ledd nest siste punktum samtykke til at administrasjonsstyret i Silver inngår det fremlagte forslag til overdragelsesavtale. Overtakende foretak etter avtalen er Storebrand.
+
+   For de forsikringskontraktene som overføres direkte til Storebrand (fripoliser sprunget ut av foretakspensjonsordninger og individuelle pensjonsavtaler (IPA Trad)), innebærer samtykket at alderspensjonsytelsene:
+
+   1. omregnes basert på gjeldende og oppdaterte dødelighetsforutsetninger og diskonteringsrente 2,75 prosent, og konverteres av administrasjonsstyret til fripoliser med investeringsvalg i forbindelse med at kontraktene overføres til Storebrand (for avtaler som ved omregningen får lavere kontantverdi enn tidligere premiereserve settes kontantverdien lik tidligere premiereserve), og
+   2. forsikringskravene inkludert renter nedsettes av administrasjonsstyret med inntil 1,25 prosent.
+
+   Samtykket innebærer videre at
+
+   1. Risikoproduktene (uføreytelsene og etterlatteytelsene) knyttet til fripolisene og IPA Trad videreføres med samme ytelser som før, men med endret premiereserve basert på gjeldende og oppdaterte dødelighetsforutsetninger og diskonteringsrente 2,75 prosent.
+   2. Produktelementene garantitid og tilbakebetalingsplikt for IPA Trad videreføres.
+   3. Tilleggsavsetninger og andel kursreguleringsfond knyttet til den enkelte avtale videreføres ikke.
+2. Finanstilsynet gir Silver tillatelse i medhold av [finansforetaksloven § 10-4](lov/2015-04-10-17/§10-4) til å sette ned aksjekapitalen fra NOK 228 151 820 til null for å dekke tap, og deretter å forhøye aksjekapitalen først fra null til NOK 30 000 og deretter fra NOK 30 000 til NOK 35 000 000 eller et beløp som på beslutningstidspunktet svarer til MEUR 3,7 dersom dette beløpet er høyere enn NOK 35 000 000. Begge kapitalforhøyelsene rettes mot Storebrand.
+
+   Finanstilsynet gir tillatelse til at Silver endrer vedtektenes § 1-3 om aksjekapitalens størrelse og antall aksjer slik at vedtektene til enhver tid er i overensstemmelse med den kapitalen som er vedtatt, tegnet og innbetalt ovenfor, jf. [finansforetaksloven § 7-10](lov/2015-04-10-17/§7-10) første ledd.
+3. Finanstilsynet godkjenner administrasjonsstyrets beslutning om at pensjoner etterbetales som omsøkt, jf. [finansforetaksloven § 21-12](lov/2015-04-10-17/§21-12) første ledd bokstav d) og [§ 21-14](lov/2015-04-10-17/§21-14) tredje ledd
 
 Vedtakene kan påklages til Finansdepartementet, jf. [forvaltningsloven § 28](lov/1967-02-10/§28) flg. En eventuell klage skal sendes til Finanstilsynet. Klagefristen er 3 uker fra det tidspunkt underretning om vedtaket er kommet frem, eller 3 uker fra første gang vedtaket er kunngjort, jf. [forvaltningsloven § 29](lov/1967-02-10/§29). Det kan bes om innsyn i sakens dokumenter etter [forvaltningsloven § 18](lov/1967-02-10/§18) og [19](lov/1967-02-10/§19).

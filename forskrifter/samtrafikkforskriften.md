@@ -15,7 +15,7 @@ xml_hash: "65c1349612438fdcf7aa96b0cb1f410b62607ee89d0e359bb56728be59106de9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,14 @@ Forskriften fastsetter de vilkårene som skal oppfylles for å oppnå samtrafikk
 
 Forskriften omfatter prosjektering, bygging, ibruktaking, oppgradering, fornyelse, drift og vedlikehold av de ulike delene i jernbanenettet. For hvert delsystem fastsetter forskriften bestemmelser om samtrafikkomponenter, grensesnitt og prosedyrer, i tillegg til vilkår for generell forenlighet i jernbanesystemet som er nødvendige for å oppnå samtrafikkevne.
 
-Forskriften gjelder ikke:tunnelbaner, sporvogner og andre lettbanekjøretøy, og infrastruktur som brukes utelukkende av slike kjøretøynett som er funksjonsmessig atskilt fra resten av jernbanesystemet i EØS, og som er beregnet bare på lokal persontransport eller persontransport i byer eller forsteder, og foretak som driver utelukkende på slike nettprivateid jernbaneinfrastruktur, inkludert sidespor, som brukes av eieren eller en transportør til godstransportvirksomhet eller til persontransport for ikke-kommersielle formål, og kjøretøy som brukes utelukkende på slik infrastrukturinfrastruktur og kjøretøy som er avsatt for strengt lokal, historisk eller turistmessig bruklettbaneinfrastruktur som av og til brukes av jernbanekjøretøy under særlige vilkår på lettbanesystemet, utelukkende dersom det er nødvendig av hensyn til å oppnå forbindelse for disse kjøretøyene, ogkjøretøy som hovedsakelig brukes på lettbaneinfrastruktur, men som er utstyrt med noen jernbanekomponenter som er nødvendige for å gjøre det mulig med en overgang på et avgrenset og begrenset avsnitt av jernbaneinfrastrukturen, utelukkende av hensyn til å oppnå forbindelse.
+Forskriften gjelder ikke:
+
+1. tunnelbaner, sporvogner og andre lettbanekjøretøy, og infrastruktur som brukes utelukkende av slike kjøretøy
+2. nett som er funksjonsmessig atskilt fra resten av jernbanesystemet i EØS, og som er beregnet bare på lokal persontransport eller persontransport i byer eller forsteder, og foretak som driver utelukkende på slike nett
+3. privateid jernbaneinfrastruktur, inkludert sidespor, som brukes av eieren eller en transportør til godstransportvirksomhet eller til persontransport for ikke-kommersielle formål, og kjøretøy som brukes utelukkende på slik infrastruktur
+4. infrastruktur og kjøretøy som er avsatt for strengt lokal, historisk eller turistmessig bruk
+5. lettbaneinfrastruktur som av og til brukes av jernbanekjøretøy under særlige vilkår på lettbanesystemet, utelukkende dersom det er nødvendig av hensyn til å oppnå forbindelse for disse kjøretøyene, og
+6. kjøretøy som hovedsakelig brukes på lettbaneinfrastruktur, men som er utstyrt med noen jernbanekomponenter som er nødvendige for å gjøre det mulig med en overgang på et avgrenset og begrenset avsnitt av jernbaneinfrastrukturen, utelukkende av hensyn til å oppnå forbindelse.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -42,19 +49,61 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i medhold av denne forskr
 
 ### § 1-4. Overordnede definisjoner
 
-I denne forskriften menes med*jernbanesystemet i EØS:* de elementene som er oppført i vedlegg I til denne forskriften,*samtrafikkevne:* et jernbanesystems evne til å muliggjøre sikker og kontinuerlig trafikk av tog som oppviser de påkrevde nivåene for yteevne,*kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft; et kjøretøy består av ett eller flere strukturelle og funksjonelle delsystemer, se vedlegg I nr. 2,*jernbanenett:* linjer, stasjoner, terminaler og alle typer fast utstyr som er nødvendig for å sikre sikker og kontinuerlig drift av jernbanesystemet,*delsystemer:* de strukturelle eller funksjonelle delene av jernbanesystemet, som angitt i vedlegg II til denne forskriften,*mobilt delsystem:* delsystemet «Rullende materiell» og delsystemet «Styring, kontroll og signal om bord»,*samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter,*grunnleggende krav:* alle vilkår fastsatt i vedlegg III til denne forskriften som må oppfylles av jernbanesystemet, delsystemene og samtrafikkomponentene, inkludert grensesnitt,*europeisk spesifikasjon:* en spesifikasjon som hører inn under en av følgende kategorier: en felles teknisk spesifikasjon som definert i vedlegg VIII til direktiv [2014/25/EU](eu/32014l0025), en europeisk teknisk godkjenning som nevnt i artikkel 60 i direktiv [2014/25/EU](eu/32014l0025), eller en europeisk standard som definert i artikkel 2 nr. 1 bokstav b i forordning [(EU) nr. 1025/2012](eu/32012r1025),*teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet,*særtilfelle:* en hvilken som helst del av jernbanesystemet som krever midlertidige eller permanente særlige bestemmelser i TSI-ene, på grunn av enten geografiske, topografiske eller bymiljømessige begrensninger, eller av hensyn til forenlighet med det eksisterende systemet, særlig jernbanelinjer og -nett som ikke er forbundet med EØS-områdets øvrige jernbanenett, dessuten lasteprofil, sporvidde eller avstand mellom sporene, og kjøretøy utelukkende ment til lokal, regional eller historisk bruk, samt kjøretøy på vei fra eller til tredjestater,*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Kommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk,*nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn de som er fastsatt i EØS-regelverket eller internasjonale regler, og som gjelder i den aktuelle medlemsstaten for jernbanevirksomhet eller tredjepart,*jernbanevirksomhet:* fellesbetegnelse for jernbaneforetak og infrastrukturforvalter,*one-stop shop:* informasjons- og kommunikasjonssystem blant annet for behandling av søknader om sikkerhetssertifikat og tillatelse til å ta i bruk kjøretøy, jf. artikkel 12 i ERA-forordningen,*ERA-forordningen:* Forordning [(EU) 2016/796](eu/32016r0796).*lettbanekjøretøy:* et sporbundet kjøretøy i byer- eller forstadsområder med kollisjonssikkerhet CIII eller C-IV (i samsvar med EN 15227:2011) og en maksimal styrke av kjøretøyets konstruksjon på 800 kN (lengdetrykkraft i koblingsområdet), herunder tunnelbaner, sporvogner, forstadsbaner og lignende. Lettbanekjøretøy kan kjøre i egen trasé eller på spor i blandet trafikk og utveksler normalt ikke kjøretøy med langdistanse passasjer- eller godstogtrafikk.
+I denne forskriften menes med
+
+1. *jernbanesystemet i EØS:* de elementene som er oppført i vedlegg I til denne forskriften,
+2. *samtrafikkevne:* et jernbanesystems evne til å muliggjøre sikker og kontinuerlig trafikk av tog som oppviser de påkrevde nivåene for yteevne,
+3. *kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft; et kjøretøy består av ett eller flere strukturelle og funksjonelle delsystemer, se vedlegg I nr. 2,
+4. *jernbanenett:* linjer, stasjoner, terminaler og alle typer fast utstyr som er nødvendig for å sikre sikker og kontinuerlig drift av jernbanesystemet,
+5. *delsystemer:* de strukturelle eller funksjonelle delene av jernbanesystemet, som angitt i vedlegg II til denne forskriften,
+6. *mobilt delsystem:* delsystemet «Rullende materiell» og delsystemet «Styring, kontroll og signal om bord»,
+7. *samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter,
+8. *grunnleggende krav:* alle vilkår fastsatt i vedlegg III til denne forskriften som må oppfylles av jernbanesystemet, delsystemene og samtrafikkomponentene, inkludert grensesnitt,
+9. *europeisk spesifikasjon:* en spesifikasjon som hører inn under en av følgende kategorier: en felles teknisk spesifikasjon som definert i vedlegg VIII til direktiv [2014/25/EU](eu/32014l0025), en europeisk teknisk godkjenning som nevnt i artikkel 60 i direktiv [2014/25/EU](eu/32014l0025), eller en europeisk standard som definert i artikkel 2 nr. 1 bokstav b i forordning [(EU) nr. 1025/2012](eu/32012r1025),
+10. *teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet,
+11. *særtilfelle:* en hvilken som helst del av jernbanesystemet som krever midlertidige eller permanente særlige bestemmelser i TSI-ene, på grunn av enten geografiske, topografiske eller bymiljømessige begrensninger, eller av hensyn til forenlighet med det eksisterende systemet, særlig jernbanelinjer og -nett som ikke er forbundet med EØS-områdets øvrige jernbanenett, dessuten lasteprofil, sporvidde eller avstand mellom sporene, og kjøretøy utelukkende ment til lokal, regional eller historisk bruk, samt kjøretøy på vei fra eller til tredjestater,
+12. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Kommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk,
+13. *nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn de som er fastsatt i EØS-regelverket eller internasjonale regler, og som gjelder i den aktuelle medlemsstaten for jernbanevirksomhet eller tredjepart,
+14. *jernbanevirksomhet:* fellesbetegnelse for jernbaneforetak og infrastrukturforvalter,
+15. *one-stop shop:* informasjons- og kommunikasjonssystem blant annet for behandling av søknader om sikkerhetssertifikat og tillatelse til å ta i bruk kjøretøy, jf. artikkel 12 i ERA-forordningen,
+16. *ERA-forordningen:* Forordning [(EU) 2016/796](eu/32016r0796).
+17. *lettbanekjøretøy:* et sporbundet kjøretøy i byer- eller forstadsområder med kollisjonssikkerhet CIII eller C-IV (i samsvar med EN 15227:2011) og en maksimal styrke av kjøretøyets konstruksjon på 800 kN (lengdetrykkraft i koblingsområdet), herunder tunnelbaner, sporvogner, forstadsbaner og lignende. Lettbanekjøretøy kan kjøre i egen trasé eller på spor i blandet trafikk og utveksler normalt ikke kjøretøy med langdistanse passasjer- eller godstogtrafikk.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
 ### § 1-5. Definisjoner knyttet til roller
 
-I denne forskriften menes med*oppdragsgiver:* et offentlig eller privat foretak som bestiller prosjektering, bygging, fornyelse eller oppgradering av et delsystem,*innehaver:* den fysiske eller juridiske personen som i egenskap av å være eier av et kjøretøy eller som har rett til å bruke det, benytter kjøretøyet som et transportmiddel og er registrert som sådan i et kjøretøyregister,*søker:* en fysisk eller juridisk person som anmoder om en tillatelse, det være seg et jernbaneforetak, en infrastrukturforvalter eller enhver annen person eller rettssubjekt, for eksempel en produsent, en eier eller en innehaver; i samsvar med [§ 4-6](forskrift/2021-09-09-2742/§4-6) menes med «søker» en oppdragsgiver eller produsent, eller dennes representant; i samsvar med § 5-7 menes med «søker» en fysisk eller juridisk person som anmoder om en beslutning fra Den europeiske unions jernbanebyrå (Byrået) vedrørende godkjenning av de planlagte tekniske løsningene for prosjekter for ERTMS-utstyr langs sporet*nasjonal sikkerhetsmyndighet:* nasjonalt organ som er tillagt oppgaver knyttet til jernbanesikkerhet i samsvar med [sikkerhetsforskriften](forskrift/2021-09-08-2740), eller ethvert organ som av flere medlemsstater er tillagt slike oppgaver for å sikre en enhetlig sikkerhetsordning,*Enhet ansvarlig for vedlikehold (ECM):* en enhet som er ansvarlig for vedlikehold av et kjøretøy, og som er registrert som sådan i et kjøretøyregister,*produsent:* enhver fysisk eller juridisk person som produserer et produkt i form av samtrafikkomponenter, delsystemer eller kjøretøy, eller som får dette konstruert eller produsert, og som markedsfører det under sitt navn eller varemerke,*representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent eller en oppdragsgiver til å handle på produsentens eller oppdragsgiverens vegne i forbindelse med nærmere angitte oppgaver,*samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon; et samsvarsvurderingsorgan klassifiseres som «meldt organ» etter melding fra en medlemsstat. Et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en medlemsstat,*funksjonshemmet person og bevegelseshemmet person:* enhver person som har en permanent eller midlertidig fysisk, mental, intellektuell eller sensorisk funksjonshemming, som i samhandling med forskjellige barrierer kan være til hinder for at vedkommende fullt ut og effektivt kan benytte transportmidler på like vilkår som andre passasjerer, eller en person hvis bevegelighet ved bruk av transportmidler er nedsatt på grunn av alder,*infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig for å opprette, forvalte og vedlikeholde jernbaneinfrastruktur, inkludert trafikkstyring og styring, kontroll og signal. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak,*jernbaneforetak:* ethvert offentlig eller privat foretak som har som virksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften.
+I denne forskriften menes med
+
+1. *oppdragsgiver:* et offentlig eller privat foretak som bestiller prosjektering, bygging, fornyelse eller oppgradering av et delsystem,
+2. *innehaver:* den fysiske eller juridiske personen som i egenskap av å være eier av et kjøretøy eller som har rett til å bruke det, benytter kjøretøyet som et transportmiddel og er registrert som sådan i et kjøretøyregister,
+3. *søker:* en fysisk eller juridisk person som anmoder om en tillatelse, det være seg et jernbaneforetak, en infrastrukturforvalter eller enhver annen person eller rettssubjekt, for eksempel en produsent, en eier eller en innehaver; i samsvar med [§ 4-6](forskrift/2021-09-09-2742/§4-6) menes med «søker» en oppdragsgiver eller produsent, eller dennes representant; i samsvar med § 5-7 menes med «søker» en fysisk eller juridisk person som anmoder om en beslutning fra Den europeiske unions jernbanebyrå (Byrået) vedrørende godkjenning av de planlagte tekniske løsningene for prosjekter for ERTMS-utstyr langs sporet
+4. *nasjonal sikkerhetsmyndighet:* nasjonalt organ som er tillagt oppgaver knyttet til jernbanesikkerhet i samsvar med [sikkerhetsforskriften](forskrift/2021-09-08-2740), eller ethvert organ som av flere medlemsstater er tillagt slike oppgaver for å sikre en enhetlig sikkerhetsordning,
+5. *Enhet ansvarlig for vedlikehold (ECM):* en enhet som er ansvarlig for vedlikehold av et kjøretøy, og som er registrert som sådan i et kjøretøyregister,
+6. *produsent:* enhver fysisk eller juridisk person som produserer et produkt i form av samtrafikkomponenter, delsystemer eller kjøretøy, eller som får dette konstruert eller produsert, og som markedsfører det under sitt navn eller varemerke,
+7. *representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent eller en oppdragsgiver til å handle på produsentens eller oppdragsgiverens vegne i forbindelse med nærmere angitte oppgaver,
+8. *samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon; et samsvarsvurderingsorgan klassifiseres som «meldt organ» etter melding fra en medlemsstat. Et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en medlemsstat,
+9. *funksjonshemmet person og bevegelseshemmet person:* enhver person som har en permanent eller midlertidig fysisk, mental, intellektuell eller sensorisk funksjonshemming, som i samhandling med forskjellige barrierer kan være til hinder for at vedkommende fullt ut og effektivt kan benytte transportmidler på like vilkår som andre passasjerer, eller en person hvis bevegelighet ved bruk av transportmidler er nedsatt på grunn av alder,
+10. *infrastrukturforvalter:* ethvert organ eller foretak som er ansvarlig for å opprette, forvalte og vedlikeholde jernbaneinfrastruktur, inkludert trafikkstyring og styring, kontroll og signal. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak,
+11. *jernbaneforetak:* ethvert offentlig eller privat foretak som har som virksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften.
 
 > Endret ved forskrift [6 juni 2023 nr. 795](forskrift/2023-06-06-795).
 
 ### § 1-6. Definisjoner knyttet til tillatelser
 
-I denne forskriften menes med*oppgradering:* ethvert større endringsarbeid på et delsystem eller en del av et delsystem som medfører en endring i den tekniske dokumentasjonen som følger EF-verifiseringserklæringen, dersom slik dokumentasjon finnes, og som forbedrer delsystemets generelle yteevne,*fornyelse:* ethvert større utskiftingsarbeid på et delsystem eller en del av et delsystem som ikke endrer delsystemets generelle yteevne,*ibruktaking:* alle operasjoner der et delsystem settes i tilsiktet bruk,*langt framskredent prosjekt:* ethvert prosjekt hvis planleggings- eller byggetrinn har nådd et punkt der en endring i de tekniske spesifikasjonene kan sette levedyktigheten for prosjektet i dets planlagte form i fare,*type:* en kjøretøytype som definerer de grunnleggende konstruksjonsmessige egenskapene til kjøretøyet som er omfattet av et sertifikat for typeprøving eller designkontroll som beskrevet i den relevante verifiseringsmodulen,*serie:* et antall identiske kjøretøyer av samme kjøretøytype,*driftsklar tilstand:* den normale driftstilstanden og de forutsigbare driftsforstyrrelsene (inkludert slitasje) innenfor det området og de bruksvilkårene som er angitt i den tekniske dokumentasjonen og vedlikeholdsplanen,*et kjøretøys bruksområde:* ett eller flere jernbanenett i en EØS-stat eller en gruppe av EØS-stater der kjøretøyet etter planen skal brukes,*akseptable samsvarskriterier:* ikke-bindende uttalelser avgitt av Byrået for å definere måter å fastslå samsvar med grunnleggende krav på,*bringe i omsetning:* første gang en samtrafikkomponent, et delsystem eller et kjøretøy som er klart til å brukes i driftsklar tilstand, gjøres tilgjengelig i EØS,*samsvarsvurdering:* en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et delsystem, en person eller et organ, er oppfylt.
+I denne forskriften menes med
+
+1. *oppgradering:* ethvert større endringsarbeid på et delsystem eller en del av et delsystem som medfører en endring i den tekniske dokumentasjonen som følger EF-verifiseringserklæringen, dersom slik dokumentasjon finnes, og som forbedrer delsystemets generelle yteevne,
+2. *fornyelse:* ethvert større utskiftingsarbeid på et delsystem eller en del av et delsystem som ikke endrer delsystemets generelle yteevne,
+3. *ibruktaking:* alle operasjoner der et delsystem settes i tilsiktet bruk,
+4. *langt framskredent prosjekt:* ethvert prosjekt hvis planleggings- eller byggetrinn har nådd et punkt der en endring i de tekniske spesifikasjonene kan sette levedyktigheten for prosjektet i dets planlagte form i fare,
+5. *type:* en kjøretøytype som definerer de grunnleggende konstruksjonsmessige egenskapene til kjøretøyet som er omfattet av et sertifikat for typeprøving eller designkontroll som beskrevet i den relevante verifiseringsmodulen,
+6. *serie:* et antall identiske kjøretøyer av samme kjøretøytype,
+7. *driftsklar tilstand:* den normale driftstilstanden og de forutsigbare driftsforstyrrelsene (inkludert slitasje) innenfor det området og de bruksvilkårene som er angitt i den tekniske dokumentasjonen og vedlikeholdsplanen,
+8. *et kjøretøys bruksområde:* ett eller flere jernbanenett i en EØS-stat eller en gruppe av EØS-stater der kjøretøyet etter planen skal brukes,
+9. *akseptable samsvarskriterier:* ikke-bindende uttalelser avgitt av Byrået for å definere måter å fastslå samsvar med grunnleggende krav på,
+10. *bringe i omsetning:* første gang en samtrafikkomponent, et delsystem eller et kjøretøy som er klart til å brukes i driftsklar tilstand, gjøres tilgjengelig i EØS,
+11. *samsvarsvurdering:* en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et delsystem, en person eller et organ, er oppfylt.
 
 ### § 1-7. Grunnleggende krav
 
@@ -78,7 +127,13 @@ Ethvert medlem av det nettverket av representative organer som nevnt i forordnin
 
 ### § 2-3. Unntak fra anvendelse av TSI-er – vilkår for unntak
 
-Det kan gjøres unntak fra anvendelse av en eller flere TSI-er eller deler av disse i følgende tilfeller:for langt fremskredne prosjekter eller prosjekter som er underlagt en kontrakt som er i ferd med å bli gjennomført på datoen for ikrafttredelse for den eller de aktuelle TSI-ene. Dette gjelder prosjekter som omfatter et nytt delsystem eller en del av det, for fornyelse eller oppgradering av et eksisterende delsystem eller del av det, eller for et hvilket som helst av elementene nevnt i [§ 1-2 første ledd](forskrift/2021-09-09-2742/§1-2/ledd/1),når det etter en ulykke eller naturkatastrofe er behov for en rask utbedring av jernbanenettet og de økonomiske eller tekniske vilkårene ikke gir rom for full eller delvis anvendelse av de relevante TSI-ene. Unntaket fra TSI-ene skal i slike tilfeller begrenses til tidsrommet før jernbanenettet blir gjenoppbygget,når et eksisterende delsystem eller en del av det fornyes, utvides eller oppgraderes, og anvendelsen av de aktuelle TSI-ene kan skade prosjektets økonomiske levedyktighet eller forenlighet med jernbanesystemet. Dette gjelder for eksempel lasteprofil, sporvidde, avstand mellom sporene eller elektrisk spenning,for kjøretøy i trafikk fra eller til tredjestater, der sporvidden skiller seg fra sporvidden på hovedjernbanenettet i EØS,for et prosjekt som gjelder et nytt delsystem, fornyelse eller oppgradering av et eksisterende delsystem, dersom jernbanenett er atskilt eller isolert fra øvrige jernbanenett i EØS av hav eller av andre særlige geografiske forhold.
+Det kan gjøres unntak fra anvendelse av en eller flere TSI-er eller deler av disse i følgende tilfeller:
+
+1. for langt fremskredne prosjekter eller prosjekter som er underlagt en kontrakt som er i ferd med å bli gjennomført på datoen for ikrafttredelse for den eller de aktuelle TSI-ene. Dette gjelder prosjekter som omfatter et nytt delsystem eller en del av det, for fornyelse eller oppgradering av et eksisterende delsystem eller del av det, eller for et hvilket som helst av elementene nevnt i [§ 1-2 første ledd](forskrift/2021-09-09-2742/§1-2/ledd/1),
+2. når det etter en ulykke eller naturkatastrofe er behov for en rask utbedring av jernbanenettet og de økonomiske eller tekniske vilkårene ikke gir rom for full eller delvis anvendelse av de relevante TSI-ene. Unntaket fra TSI-ene skal i slike tilfeller begrenses til tidsrommet før jernbanenettet blir gjenoppbygget,
+3. når et eksisterende delsystem eller en del av det fornyes, utvides eller oppgraderes, og anvendelsen av de aktuelle TSI-ene kan skade prosjektets økonomiske levedyktighet eller forenlighet med jernbanesystemet. Dette gjelder for eksempel lasteprofil, sporvidde, avstand mellom sporene eller elektrisk spenning,
+4. for kjøretøy i trafikk fra eller til tredjestater, der sporvidden skiller seg fra sporvidden på hovedjernbanenettet i EØS,
+5. for et prosjekt som gjelder et nytt delsystem, fornyelse eller oppgradering av et eksisterende delsystem, dersom jernbanenett er atskilt eller isolert fra øvrige jernbanenett i EØS av hav eller av andre særlige geografiske forhold.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -90,7 +145,10 @@ I tilfellene som er nevnt i [§ 2-3 første ledd bokstav a](forskrift/2021-09-09
 
 I tilfeller som nevnt i [§ 2-3 første ledd bokstav a](forskrift/2021-09-09-2742/§2-3/ledd/1/bokstav/a), [c](forskrift/2021-09-09-2742/§2-3/ledd/1/bokstav/c), [d](forskrift/2021-09-09-2742/§2-3/ledd/1/bokstav/d) og [e](forskrift/2021-09-09-2742/§2-3/ledd/1/bokstav/e) skal anmodningen om unntak fra en eller flere TSI-er eller deler av dem, rettes til Statens jernbanetilsyn. Anmodningen skal være begrunnet og skal angi de alternative bestemmelsene som skal gjelde i stedet for TSI-ene. Statens jernbanetilsyn sender anmodningen til ESA.
 
-Der den som søker om tillatelse til å bringe et kjøretøy i omsetning anmoder om unntak fra anvendelse av TSI-er, skal anmodningen på tilsvarende måte som ved søknader etter [§§ 6-2](forskrift/2021-09-09-2742/§6-2) og [6-3](forskrift/2021-09-09-2742/§6-3), rettes tilByrået dersom søknaden om tillatelse til å bringe et kjøretøy i omsetning gjelder et kjøretøy med bruksområde i flere EØS-stater, ellerByrået eller, dersom søkeren ønsker det, til Statens jernbanetilsyn, dersom søknaden om tillatelse til å bringe et kjøretøy i omsetning gjelder et kjøretøy som har bruksområde utelukkende i Norge.
+Der den som søker om tillatelse til å bringe et kjøretøy i omsetning anmoder om unntak fra anvendelse av TSI-er, skal anmodningen på tilsvarende måte som ved søknader etter [§§ 6-2](forskrift/2021-09-09-2742/§6-2) og [6-3](forskrift/2021-09-09-2742/§6-3), rettes til
+
+1. Byrået dersom søknaden om tillatelse til å bringe et kjøretøy i omsetning gjelder et kjøretøy med bruksområde i flere EØS-stater, eller
+2. Byrået eller, dersom søkeren ønsker det, til Statens jernbanetilsyn, dersom søknaden om tillatelse til å bringe et kjøretøy i omsetning gjelder et kjøretøy som har bruksområde utelukkende i Norge.
 
 Anmodninger etter fjerde ledd skal være begrunnet og angi de alternative bestemmelsene som skal gjelde i stedet for TSI-ene. I tilfeller der en anmodning som nevnt i fjerde ledd er rettet til Byrået, innhenter Byrået en uttalelse fra Statens jernbanetilsyn og sender sin endelige uttalelse til Kommisjonen. I tilfeller der anmodningen er rettet til Statens jernbanetilsyn, sender Statens jernbanetilsyn en anmodning til ESA.
 
@@ -110,7 +168,10 @@ Saker etter [§ 2-3 bokstav c](forskrift/2021-09-09-2742/§2-3/bokstav/c) og [d]
 
 ### § 3-1. Vilkår for å bringe samtrafikkomponenter i omsetning
 
-Statens jernbanetilsyn skal treffe alle nødvendige tiltak for å sikre at samtrafikkomponentenebare bringes i omsetning dersom de gjør det mulig å oppnå samtrafikkevne jernbanesystemet i EØS, samtidig som de oppfyller de grunnleggende kravene.Brukes i deres bruksområde til det formålet de er bestemt for, og er forsvarlig montert og vedlikeholdt.
+Statens jernbanetilsyn skal treffe alle nødvendige tiltak for å sikre at samtrafikkomponentene
+
+1. bare bringes i omsetning dersom de gjør det mulig å oppnå samtrafikkevne jernbanesystemet i EØS, samtidig som de oppfyller de grunnleggende kravene.
+2. Brukes i deres bruksområde til det formålet de er bestemt for, og er forsvarlig montert og vedlikeholdt.
 
 Denne bestemmelsen er ikke til hinder for at samtrafikkomponentene bringes i omsetning til andre formål enn det de er bestemt for.
 
@@ -126,7 +187,10 @@ Reservedeler for delsystemer som allerede er tatt i bruk når den relevante TSI-
 
 Det er bestemmelsene i de relevante TSI-ene som angir fremgangsmåten for å utstede en EF-samsvarserklæring eller en EF-erklæring om bruksegnethet for en samtrafikkomponent. Produsenten av samtrafikkomponenten eller dennes representant, som må være etablert i EØS, utsteder, daterer og signerer erklæringen.
 
-Dersom TSI-en krever det, skal EF-erklæringene følges av et sertifikat utstedt av ett eller flere meldte organer, omat en samtrafikkomponent isolert sett er i samsvar med de tekniske spesifikasjonene den skal oppfylle ogat samtrafikkomponenten har bruksegnethet sett i forhold til det jernbanesystem den skal inngå i.
+Dersom TSI-en krever det, skal EF-erklæringene følges av et sertifikat utstedt av ett eller flere meldte organer, om
+
+1. at en samtrafikkomponent isolert sett er i samsvar med de tekniske spesifikasjonene den skal oppfylle og
+2. at samtrafikkomponenten har bruksegnethet sett i forhold til det jernbanesystem den skal inngå i.
 
 Hvis samtrafikkomponenten også er omfattet av andre EØS-rettsakter, skal EF-samsvarserklæringen eller EF-erklæringen om bruksegnethet angi at samtrafikkomponentene også oppfyller disse kravene.
 
@@ -140,9 +204,17 @@ Det er det meldte organet som søknaden er sendt til, som skal foreta samsvarsvu
 
 ### § 3-4. Samtrafikkomponenter som ikke oppfyller grunnleggende krav
 
-Dersom det blir fastslått at en samtrafikkomponent som er brakt i omsetning, sannsynligvis ikke vil oppfylle de grunnleggende kravene, skal Statens jernbanetilsyn begrense anvendelsesområdet, forby bruk, trekke tilbake fra markedet eller tilbakekalle samtrafikkomponenten. Statens jernbanetilsyn skal umiddelbart underrette ESA, Byrået og de andre EØS-statene om de tiltakene som er truffet, og grunngi sin beslutning, særlig dersom det manglende samsvaret skyldesat de grunnleggende kravene ikke er oppfyltat de europeiske spesifikasjonene er feilaktig anvendtat de europeiske spesifikasjonene er utilstrekkelige.
+Dersom det blir fastslått at en samtrafikkomponent som er brakt i omsetning, sannsynligvis ikke vil oppfylle de grunnleggende kravene, skal Statens jernbanetilsyn begrense anvendelsesområdet, forby bruk, trekke tilbake fra markedet eller tilbakekalle samtrafikkomponenten. Statens jernbanetilsyn skal umiddelbart underrette ESA, Byrået og de andre EØS-statene om de tiltakene som er truffet, og grunngi sin beslutning, særlig dersom det manglende samsvaret skyldes
 
-Dersom beslutningene nevnt i første ledd skyldes at de europeiske spesifikasjonene er utilstrekkelige, skal Statens jernbanetilsyn, Kommisjonen eller Byrået, etter hva som er relevant, gjennomføre ett eller flere av disse tiltakene:delvis eller fullstendig tilbaketrekking av den aktuelle spesifikasjonen i de publikasjonene der den inngår,dersom den relevante spesifikasjonen er en harmonisert standard, begrense eller trekke tilbake denne standarden i samsvar med forskrift om gjennomføring av forordning [(EU) nr. 1025/2012](eu/32012r1025) om europeisk standardisering, vedlegget artikkel 11,gå gjennom TSI-en i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) artikkel 6.
+1. at de grunnleggende kravene ikke er oppfylt
+2. at de europeiske spesifikasjonene er feilaktig anvendt
+3. at de europeiske spesifikasjonene er utilstrekkelige.
+
+Dersom beslutningene nevnt i første ledd skyldes at de europeiske spesifikasjonene er utilstrekkelige, skal Statens jernbanetilsyn, Kommisjonen eller Byrået, etter hva som er relevant, gjennomføre ett eller flere av disse tiltakene:
+
+1. delvis eller fullstendig tilbaketrekking av den aktuelle spesifikasjonen i de publikasjonene der den inngår,
+2. dersom den relevante spesifikasjonen er en harmonisert standard, begrense eller trekke tilbake denne standarden i samsvar med forskrift om gjennomføring av forordning [(EU) nr. 1025/2012](eu/32012r1025) om europeisk standardisering, vedlegget artikkel 11,
+3. gå gjennom TSI-en i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) artikkel 6.
 
 Dersom en samtrafikkomponent som det foreligger EF-samsvarserklæring for, ikke oppfyller de grunnleggende kravene, skal Statens jernbanetilsyn gjennomføre nødvendige tiltak overfor den enheten som har utarbeidet erklæringen, og underrette ESA og de øvrige EØS-statene om dette.
 
@@ -152,19 +224,37 @@ Dersom en samtrafikkomponent som det foreligger EF-samsvarserklæring for, ikke 
 
 ### § 4-1. Fritt varebytte for delsystemer
 
-Statens jernbanetilsyn kan ikke forby, begrense eller hindre bygging, ibruktaking eller drift av strukturelle delsystemer som inngår i jernbanesystemet, dersom de grunnleggende kravene er oppfylt. Statens jernbanetilsyn skal ikke kreve kontroller som allerede er utførtsom en del av framgangsmåten som fører fram til EF-verifiseringserklæringen, elleri andre EØS-medlemsstater, før eller etter at denne forskriften er trådt i kraft, med sikte på å verifisere at identiske krav ved identiske driftsforhold er oppfylt.
+Statens jernbanetilsyn kan ikke forby, begrense eller hindre bygging, ibruktaking eller drift av strukturelle delsystemer som inngår i jernbanesystemet, dersom de grunnleggende kravene er oppfylt. Statens jernbanetilsyn skal ikke kreve kontroller som allerede er utført
+
+1. som en del av framgangsmåten som fører fram til EF-verifiseringserklæringen, eller
+2. i andre EØS-medlemsstater, før eller etter at denne forskriften er trådt i kraft, med sikte på å verifisere at identiske krav ved identiske driftsforhold er oppfylt.
 
 Denne bestemmelsen er ikke til hinder for at Statens jernbanetilsyn kan utpeke samsvarsvurderingsorganer.
 
 ### § 4-2. Samsvar med TSI-er og nasjonale regler
 
-Byrået og Statens jernbanetilsyn skal anse at de strukturelle delsystemene som inngår i jernbanesystemet, er i samsvar med de grunnleggende kravene dersom de er omfattet av enEF-verifiseringserklæring som er utstedt med henvisning til TSI-er,verifiseringserklæring som er utstedt med henvisning til nasjonale regler, ellerbåde av EF-verifiseringserklæring og verifiseringserklæring.
+Byrået og Statens jernbanetilsyn skal anse at de strukturelle delsystemene som inngår i jernbanesystemet, er i samsvar med de grunnleggende kravene dersom de er omfattet av en
 
-Nasjonale regler for gjennomføring av de grunnleggende kravene og relevante akseptable samsvarskriterier gjelder dersomTSI-ene helt eller delvis ikke dekker de grunnleggende kravene, inkludert åpne punkter i TSI-eneunntak fra kravet om en eller flere TSI-er eller deler av dem er meldt i samsvar med [§ 2-4](forskrift/2021-09-09-2742/§2-4)et særtilfelle krever bruk av tekniske forskrifter som ikke omfattes av den relevante TSI-endet brukes nasjonale regler til å angi eksisterende systemer, begrenset til vurderingen av kjøretøyets tekniske forenelighet med jernbanenettetjernbanenettet og kjøretøyet ikke er omfattet av TSI-erdet er behov for midlertidig forebyggende hastetiltak, særlig etter en ulykke.
+1. EF-verifiseringserklæring som er utstedt med henvisning til TSI-er,
+2. verifiseringserklæring som er utstedt med henvisning til nasjonale regler, eller
+3. både av EF-verifiseringserklæring og verifiseringserklæring.
+
+Nasjonale regler for gjennomføring av de grunnleggende kravene og relevante akseptable samsvarskriterier gjelder dersom
+
+1. TSI-ene helt eller delvis ikke dekker de grunnleggende kravene, inkludert åpne punkter i TSI-ene
+2. unntak fra kravet om en eller flere TSI-er eller deler av dem er meldt i samsvar med [§ 2-4](forskrift/2021-09-09-2742/§2-4)
+3. et særtilfelle krever bruk av tekniske forskrifter som ikke omfattes av den relevante TSI-en
+4. det brukes nasjonale regler til å angi eksisterende systemer, begrenset til vurderingen av kjøretøyets tekniske forenelighet med jernbanenettet
+5. jernbanenettet og kjøretøyet ikke er omfattet av TSI-er
+6. det er behov for midlertidig forebyggende hastetiltak, særlig etter en ulykke.
 
 ### § 4-3. Melding til ESA og Byrået om gjeldende nasjonale regler
 
-Statens jernbanetilsyn skal gi ESA og Byrået melding om de eksisterende nasjonale reglene dersomreglene endresdet er levert en ny søknad om unntak fra kravet om en TSI i samsvar med [§§ 2-3](forskrift/2021-09-09-2742/§2-3) og [2-4](forskrift/2021-09-09-2742/§2-4)nasjonale regler blir overflødige etter at den aktuelle TSI-en er offentliggjort eller revidert.
+Statens jernbanetilsyn skal gi ESA og Byrået melding om de eksisterende nasjonale reglene dersom
+
+1. reglene endres
+2. det er levert en ny søknad om unntak fra kravet om en TSI i samsvar med [§§ 2-3](forskrift/2021-09-09-2742/§2-3) og [2-4](forskrift/2021-09-09-2742/§2-4)
+3. nasjonale regler blir overflødige etter at den aktuelle TSI-en er offentliggjort eller revidert.
 
 Statens jernbanetilsyn skal melde den fullstendige teksten til nasjonale regler som nevnt i første ledd i samsvar med artikkel 27 i forordning [(EU) 2016/796](eu/32016r0796). I meldingen skal det gis en begrunnelse for at reglene er nødvendige for å oppfylle grunnleggende krav som ikke er omfattet av en relevant TSI.
 
@@ -180,7 +270,10 @@ Nasjonale regler som er meldt i samsvar med denne bestemmelsen, er ikke underlag
 
 ### § 4-4. Fastsettelse av nye nasjonale regler
 
-Det kan bare fastsettes nye nasjonale regler i disse tilfellene:dersom en TSI ikke fullt ut regulerer alle grunnleggende krav, ellersom et forebyggende hastetiltak, særlig etter en ulykke.
+Det kan bare fastsettes nye nasjonale regler i disse tilfellene:
+
+1. dersom en TSI ikke fullt ut regulerer alle grunnleggende krav, eller
+2. som et forebyggende hastetiltak, særlig etter en ulykke.
 
 Statens jernbanetilsyn skal sende et begrunnet utkast til nye nasjonale regler til ESA og Byrået for vurdering før den foreslåtte regelen er forventet å tre i kraft. Utkastet til Byrået skal sendes på den måten som er angitt i forordning [(EU) 2016/796](eu/32016r0796) artikkel 27. Byrået skal gjennomføre undersøkelsen innen fristene og etter fremgangsmåten angitt i forordning [(EU) 2016/796](eu/32016r0796) artikkel 25 og 26.
 
@@ -198,7 +291,10 @@ Endringer i nasjonale regler eller nye nasjonale regler som ikke er meldt i sams
 
 For å starte arbeidet med EF-verifiseringen skal søkeren be det eller de samsvarsvurderingsorganene den har valgt, om å iverksette verifiseringen etter framgangsmåten i [vedlegg IV](forskrift/2021-09-09-2742/vedleggIV) til denne forskriften. EF-verifiseringen skal omfatte prosjekteringsfasen og hele produksjonsfasen fram til søknadsfasen før kjøretøyet bringes i omsetning eller delsystemet tas i bruk. Verifiseringen skal omfatte det aktuelle delsystemets grensesnitt mot det systemet som delsystemet inngår i.
 
-Søkeren utsteder selv EF-verifiseringserklæringen for et delsystem. Erklæringen og de tilhørende dokumentene skal være datert og undertegnet av søkeren. Søkeren skal på eget ansvar erklære at det aktuelle delsystemethar gjennomgått de relevante framgangsmåtene for verifisering, ogoppfyller kravene i det relevante regelverket og eventuelle nasjonale regler.
+Søkeren utsteder selv EF-verifiseringserklæringen for et delsystem. Erklæringen og de tilhørende dokumentene skal være datert og undertegnet av søkeren. Søkeren skal på eget ansvar erklære at det aktuelle delsystemet
+
+1. har gjennomgått de relevante framgangsmåtene for verifisering, og
+2. oppfyller kravene i det relevante regelverket og eventuelle nasjonale regler.
 
 Søkeren skal samle inn den tekniske dokumentasjonen som skal vedlegges EF-verifiseringserklæringen. Den tekniske dokumentasjonen skal inneholde alle nødvendige dokumenter om delsystemet egenskaper og eventuelt all dokumentasjon som bekrefter samtrafikkomponentenes samsvar. Den skal i tillegg inneholde alle relevante opplysninger om bruksvilkår og -begrensninger, ettersyn, løpende eller periodisk tilsyn, justering og vedlikehold.
 
@@ -214,7 +310,10 @@ Dersom Statens jernbanetilsyn har vurdert at et strukturelt delsystem omfattet a
 
 Statens jernbanetilsyn skal umiddelbart informere ESA om alle ytterligere kontroller Statens jernbanetilsyn har bedt om, og gi en begrunnelse for dette. ESA rådspør partene.
 
-Statens jernbanetilsyn skal til ESA oppgi om det manglende samsvaret skyldesat de grunnleggende kravene ikke er oppfylt, eller at en TSI ikke er overholdt. ESA eller Kommisjonen, avhengig av hvor den som har utarbeidet EF-verifiseringserklæringen er etablert, informerer i slike tilfeller umiddelbart den aktuelle EØS-staten og ber denne treffe nødvendige tiltak, ellerat en TSI er utilstrekkelig, og i slike tilfeller gjelder fremgangsmåten for endring av TSI-en som nevnt i [§ 2-5](forskrift/2021-09-09-2742/§2-5).
+Statens jernbanetilsyn skal til ESA oppgi om det manglende samsvaret skyldes
+
+1. at de grunnleggende kravene ikke er oppfylt, eller at en TSI ikke er overholdt. ESA eller Kommisjonen, avhengig av hvor den som har utarbeidet EF-verifiseringserklæringen er etablert, informerer i slike tilfeller umiddelbart den aktuelle EØS-staten og ber denne treffe nødvendige tiltak, eller
+2. at en TSI er utilstrekkelig, og i slike tilfeller gjelder fremgangsmåten for endring av TSI-en som nevnt i [§ 2-5](forskrift/2021-09-09-2742/§2-5).
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -240,7 +339,12 @@ Før et delsystem fornyes eller oppgraderes, skal søkeren sende en melding til 
 
 Statens jernbanetilsyn skal bekrefte at dokumentasjonen er fullstendig, eller be om utfyllende opplysninger innen en måned etter at meldingen er mottatt. Søkeren skal få en rimelig frist for å ettersende dokumentasjon.
 
-Statens jernbanetilsyn skal gjennomgå dokumentasjonen og avgjøre om det er behov for ny tillatelse til å ta i bruk anlegget. I vurderingen skal det legges vekt påom det allmenne sikkerhetsnivået til det aktuelle delsystemet kan påvirkes negativt av det planlagte arbeidet,om den relevante TSI-en krever at det søkes om ny tillatelse,om de nasjonale gjennomføringsplanene krever at det søkes om ny tillatelse, ellerom det er gjort endringer i parameterverdiene som ligger til grunn for den tillatelsen som allerede er gitt.
+Statens jernbanetilsyn skal gjennomgå dokumentasjonen og avgjøre om det er behov for ny tillatelse til å ta i bruk anlegget. I vurderingen skal det legges vekt på
+
+1. om det allmenne sikkerhetsnivået til det aktuelle delsystemet kan påvirkes negativt av det planlagte arbeidet,
+2. om den relevante TSI-en krever at det søkes om ny tillatelse,
+3. om de nasjonale gjennomføringsplanene krever at det søkes om ny tillatelse, eller
+4. om det er gjort endringer i parameterverdiene som ligger til grunn for den tillatelsen som allerede er gitt.
 
 Når ERTMS-prosjekter langs sporet fornyes eller oppgraderes, skal Statens jernbanetilsyn i samarbeid med Byrået vurdere om det er behov for ny tillatelse, basert på kriteriene i andre ledd.
 
@@ -248,7 +352,11 @@ Statens jernbanetilsyn skal innen fristen som følger av [forvaltningsloven § 1
 
 ### § 5-5. Søknad om tillatelse til å ta i bruk faste anlegg
 
-Søknad om tillatelse til å ta i bruk faste anlegg skal sendes til Statens jernbanetilsyn sammen medEF-verifiseringserklæring, inkludert underlagsdokumenter,dokumentasjon av delsystemenes tekniske forenlighet med det systemet de integreres i, fastslått på grunnlag av de relevante TSI-ene, nasjonale regler, jf. [jernbaneinfrastrukturforskriften](forskrift/2011-04-11-388) og registre,dokumentasjon av sikker integrering av delsystemer, fastslått på grunnlag av TSI-ene, nasjonale regler og de felles sikkerhetsmetodene (CSM) definert i direktiv [(EU) 2016/798](eu/32016l0798) artikkel 6.
+Søknad om tillatelse til å ta i bruk faste anlegg skal sendes til Statens jernbanetilsyn sammen med
+
+1. EF-verifiseringserklæring, inkludert underlagsdokumenter,
+2. dokumentasjon av delsystemenes tekniske forenlighet med det systemet de integreres i, fastslått på grunnlag av de relevante TSI-ene, nasjonale regler, jf. [jernbaneinfrastrukturforskriften](forskrift/2011-04-11-388) og registre,
+3. dokumentasjon av sikker integrering av delsystemer, fastslått på grunnlag av TSI-ene, nasjonale regler og de felles sikkerhetsmetodene (CSM) definert i direktiv [(EU) 2016/798](eu/32016l0798) artikkel 6.
 
 For delsystemet «Styring, kontroll og signal langs sporet» som omfatter ETCS- og GSM-R-utstyr, skal søkeren i tillegg legge ved Byråets godkjenning, jf. [§ 5-7](forskrift/2021-09-09-2742/§5-7). Hvis det etter godkjenning gjøres endringer i utkastet til anbudsgrunnlagene eller beskrivelsen av de planlagte tekniske løsningene, skal søkeren vedlegge dokumentasjon på resultatet av samordningsprosessen, jf. [§ 5-7](forskrift/2021-09-09-2742/§5-7) femte ledd.
 
@@ -270,7 +378,12 @@ Et avslag skal være begrunnet. Søkeren kan innen en måned etter vedtaket om a
 
 For å sikre harmonisert gjennomføring av ERTMS og samtrafikkevne i EØS, skal Byrået, før anbudsinnbydelsen for ERTMS-utstyr langs sporet blir sendt ut, kontrollere at de planlagte tekniske løsningene fullt ut er i samsvar med de relevante TSI-ene.
 
-Søkeren skal sende Byrået søknad om godkjenning av prosjektet. Søknader som gjelder enkeltstående ERTMS-prosjekter eller en kombinasjon av prosjekter, en jernbanelinje, en gruppe av jernbanelinjer eller et jernbanenett, skal vedlegges følgende dokumentasjon:utkastet til anbudsgrunnlag eller beskrivelsen av de planlagte tekniske løsningene,dokumentasjon av de vilkårene som kreves for delsystemets tekniske og driftsmessige forenlighet med de kjøretøyene som skal kjøre på det relevante jernbanenettet,dokumentasjon av at de planlagte tekniske løsningene er i samsvar med de relevante TSI-ene,alle andre relevante dokumenter, for eksempel uttalelser fra Statens jernbanetilsyn, verifiseringserklæringer eller samsvarssertifikater.
+Søkeren skal sende Byrået søknad om godkjenning av prosjektet. Søknader som gjelder enkeltstående ERTMS-prosjekter eller en kombinasjon av prosjekter, en jernbanelinje, en gruppe av jernbanelinjer eller et jernbanenett, skal vedlegges følgende dokumentasjon:
+
+1. utkastet til anbudsgrunnlag eller beskrivelsen av de planlagte tekniske løsningene,
+2. dokumentasjon av de vilkårene som kreves for delsystemets tekniske og driftsmessige forenlighet med de kjøretøyene som skal kjøre på det relevante jernbanenettet,
+3. dokumentasjon av at de planlagte tekniske løsningene er i samsvar med de relevante TSI-ene,
+4. alle andre relevante dokumenter, for eksempel uttalelser fra Statens jernbanetilsyn, verifiseringserklæringer eller samsvarssertifikater.
 
 Søknaden skal sendes gjennom one-stop shop (OSS).
 
@@ -308,7 +421,14 @@ Søkeren kan ikke bringe et kjøretøy som har bruksområde i en eller flere EØ
 
 Søkeren skal sende søknad om tillatelse til å bringe kjøretøy i omsetning gjennom OSS.
 
-Søknaden skal inneholde opplysninger om hvor søkeren har planlagt å bruke kjøretøyet (bruksområde). Søknaden skal også inneholdeopplysninger om andre søknader, fasene i de relevante framgangsmåtene i samsvar med vedlegg IV, og resultatene av dem, i tillegg til eventuelle anmodninger og beslutninger fra klageinstansen,EF-verifiseringserklæringene til alle kjøretøyets delsystemer, som viser at delsystemene tilfredsstiller de grunnleggende kravene, kravene i TSI-er og eventuelt i nasjonale regler, og er tekniske forenlige,dokumentasjon på at alle kjøretøyets delsystemer er tekniske forenlige og tilfredsstiller kravene i relevante TSI-er, eventuelt nasjonale regler og CSM for risikovurdering,dokumentasjon på sikker integrering av delsystemene i kjøretøyet, nevnt i bokstav c), fastslått på grunnlag av de relevante TSI-ene og eventuelt nasjonale regler, og CSM for risikovurdering,dokumentasjon på at teknisk forenlighet mellom kjøretøyet og jernbanenettet er kontrollert mot kravene i relevante TSI-er, eventuelt nasjonale regler, infrastrukturregistre og CSM for risikovurdering,dokumentasjon på at sikker integrering mellom kjøretøy og jernbanenettet er kontrollert i samsvar med CSM for risikovurdering.
+Søknaden skal inneholde opplysninger om hvor søkeren har planlagt å bruke kjøretøyet (bruksområde). Søknaden skal også inneholde
+
+1. opplysninger om andre søknader, fasene i de relevante framgangsmåtene i samsvar med vedlegg IV, og resultatene av dem, i tillegg til eventuelle anmodninger og beslutninger fra klageinstansen,
+2. EF-verifiseringserklæringene til alle kjøretøyets delsystemer, som viser at delsystemene tilfredsstiller de grunnleggende kravene, kravene i TSI-er og eventuelt i nasjonale regler, og er tekniske forenlige,
+3. dokumentasjon på at alle kjøretøyets delsystemer er tekniske forenlige og tilfredsstiller kravene i relevante TSI-er, eventuelt nasjonale regler og CSM for risikovurdering,
+4. dokumentasjon på sikker integrering av delsystemene i kjøretøyet, nevnt i bokstav c), fastslått på grunnlag av de relevante TSI-ene og eventuelt nasjonale regler, og CSM for risikovurdering,
+5. dokumentasjon på at teknisk forenlighet mellom kjøretøyet og jernbanenettet er kontrollert mot kravene i relevante TSI-er, eventuelt nasjonale regler, infrastrukturregistre og CSM for risikovurdering,
+6. dokumentasjon på at sikker integrering mellom kjøretøy og jernbanenettet er kontrollert i samsvar med CSM for risikovurdering.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -338,7 +458,11 @@ Statens jernbanetilsyn skal innen én måned etter å ha mottatt søknaden, bekr
 
 Søknad om tillatelse til å bringe kjøretøy i omsetning skal avgjøres innen en forhåndsfastsatt rimelig frist, og senest fire måneder etter at alle relevante opplysninger er mottatt. Søknader skal behandles i samsvar med de praktiske ordninger på tillatelsesprosessen som fastsatt i forordning [(EU) 2018/545](eu/32018r0545).
 
-Tillatelsen gitt av Statens jernbanetilsyn er gyldig i Norge. Tillatelsen skal også være gyldig uten utvidelse av bruksområdet for kjøretøy som:kjører til stasjoner i nabomedlemsstater med lignende egenskaper i jernbanenettet,disse stasjonene ligger nær grensen, ogetter samråd med vedkommende nasjonale sikkerhetsmyndigheter. Slikt samråd kan foretas fra tilfelle til tilfelle eller angis i en tverrnasjonal avtale mellom nasjonale sikkerhetsmyndigheter.
+Tillatelsen gitt av Statens jernbanetilsyn er gyldig i Norge. Tillatelsen skal også være gyldig uten utvidelse av bruksområdet for kjøretøy som:
+
+1. kjører til stasjoner i nabomedlemsstater med lignende egenskaper i jernbanenettet,
+2. disse stasjonene ligger nær grensen, og
+3. etter samråd med vedkommende nasjonale sikkerhetsmyndigheter. Slikt samråd kan foretas fra tilfelle til tilfelle eller angis i en tverrnasjonal avtale mellom nasjonale sikkerhetsmyndigheter.
 
 Ved unntak fra anvendelse av én eller flere TSI-er eller deler av dem i samsvar med [§ 2-3](forskrift/2021-09-09-2742/§2-3), skal Statens jernbanetilsyn ikke gi kjøretøytillatelsen før framgangsmåten fastsatt i [§ 2-4](forskrift/2021-09-09-2742/§2-4) og [§ 2-5](forskrift/2021-09-09-2742/§2-5) er fulgt.
 
@@ -358,7 +482,12 @@ Dersom Byrået er uenig i en positiv vurdering som er foretatt av Statens jernba
 
 ### § 6-8. Innholdet i tillatelsen til å bringe kjøretøy i omsetning
 
-Tillatelsene til å bringe kjøretøy i omsetning skal inneholdebruksområde(r),verdier for parametrene som er definert i TSI-ene, og eventuelt i de nasjonale reglene, for kontroll av den tekniske forenligheten mellom kjøretøyet og bruksområdet,kjøretøyets samsvar med de relevante TSI-ene og settene med nasjonale regler, med hensyn til parametrene nevnt i bokstav b, ogvilkårene for bruk av kjøretøyet og andre begrensninger.
+Tillatelsene til å bringe kjøretøy i omsetning skal inneholde
+
+1. bruksområde(r),
+2. verdier for parametrene som er definert i TSI-ene, og eventuelt i de nasjonale reglene, for kontroll av den tekniske forenligheten mellom kjøretøyet og bruksområdet,
+3. kjøretøyets samsvar med de relevante TSI-ene og settene med nasjonale regler, med hensyn til parametrene nevnt i bokstav b, og
+4. vilkårene for bruk av kjøretøyet og andre begrensninger.
 
 ### § 6-9. Avslag på søknad om tillatelse
 
@@ -370,7 +499,11 @@ Dersom Statens jernbanetilsyns negative avgjørelse blir bekreftet, kan søkeren
 
 ### § 6-10. Fornyelse og oppgradering av kjøretøy
 
-Når et kjøretøy som allerede har tillatelse, fornyes eller oppgraderes, kreves det en ny tillatelse dersomdet gjøres endringer i parameterverdiene som ligger utenfor området for akseptable parametrer som er definert i TSI-ene eller i nasjonale tekniske krav,sikkerhetsnivået til det aktuelle kjøretøyet kan påvirkes negativt av det planlagte arbeidet, ellerden relevante TSI-en krever det.
+Når et kjøretøy som allerede har tillatelse, fornyes eller oppgraderes, kreves det en ny tillatelse dersom
+
+1. det gjøres endringer i parameterverdiene som ligger utenfor området for akseptable parametrer som er definert i TSI-ene eller i nasjonale tekniske krav,
+2. sikkerhetsnivået til det aktuelle kjøretøyet kan påvirkes negativt av det planlagte arbeidet, eller
+3. den relevante TSI-en krever det.
 
 ### § 6-11. Utvidelse av bruksområdet til et kjøretøy som har fått tillatelse
 
@@ -388,7 +521,11 @@ Dersom kjøretøyets bruksområde omfatter mer enn en EØS-medlemsstat, skal det
 
 ### § 6-13. Kontroll før kjøretøyet tas i bruk
 
-Før en jernbanevirksomhet tar i bruk et kjøretøy i det bruksområdet som er angitt i tillatelsen til å bringe det i omsetning, skal jernbanevirksomheten kontrollereat kjøretøyet har tillatelse til å bringes i omsetning, og er registrert,at kjøretøyet er teknisk forenelig med jernbanestrekningen, vurdert på grunnlag av informasjon i infrastrukturregisteret og kravene i de relevante TSI-ene. Dersom det ikke finnes et slikt register, eller det er ufullstendig, skal infrastrukturforvalteren gi nødvendig informasjon gratis og innen en rimelig frist, ogat kjøretøyet inngår riktig i sammensetningen av toget, idet det tas hensyn til jernbanevirksomhetens sikkerhetsstyringssystem og TSI-en for drift og trafikkstyring.
+Før en jernbanevirksomhet tar i bruk et kjøretøy i det bruksområdet som er angitt i tillatelsen til å bringe det i omsetning, skal jernbanevirksomheten kontrollere
+
+1. at kjøretøyet har tillatelse til å bringes i omsetning, og er registrert,
+2. at kjøretøyet er teknisk forenelig med jernbanestrekningen, vurdert på grunnlag av informasjon i infrastrukturregisteret og kravene i de relevante TSI-ene. Dersom det ikke finnes et slikt register, eller det er ufullstendig, skal infrastrukturforvalteren gi nødvendig informasjon gratis og innen en rimelig frist, og
+3. at kjøretøyet inngår riktig i sammensetningen av toget, idet det tas hensyn til jernbanevirksomhetens sikkerhetsstyringssystem og TSI-en for drift og trafikkstyring.
 
 Jernbaneforetaket kan i forbindelse med sine kontroller og i samarbeid med infrastrukturforvalteren foreta verifiseringer. Infrastrukturforvalteren skal i samråd med jernbaneforetaket gjøre sitt ytterste for å sikre at alle verifiseringer finner sted innen tre måneder etter at anmodningen fra jernbaneforetaket er mottatt.
 
@@ -412,7 +549,10 @@ Når en typetillatelse fornyes på grunn av endringer i TSI-er eller nasjonale r
 
 ### § 6-16. Typesamsvarserklæring
 
-Typesamsvarserklæringen skal fastsettes i samsvar med:fremgangsmåtene for verifisering i de relevante TSI-ene, ellerfremgangsmåtene for samsvarsvurdering som definert i modul B + D, B + F og H1 i europaparlaments- og rådsbeslutning nr. [768/2008/EF](eu/32008d0768) i de tilfellene der TSI-ene ikke gjelder.
+Typesamsvarserklæringen skal fastsettes i samsvar med:
+
+1. fremgangsmåtene for verifisering i de relevante TSI-ene, eller
+2. fremgangsmåtene for samsvarsvurdering som definert i modul B + D, B + F og H1 i europaparlaments- og rådsbeslutning nr. [768/2008/EF](eu/32008d0768) i de tilfellene der TSI-ene ikke gjelder.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -474,23 +614,50 @@ Et kjøretøy skal tildeles et EVN-nummer bare en gang, med mindre annet er angi
 
 ### § 7-2. Kjøretøyregistre
 
-Fram til det europeiske kjøretøyregisteret er i drift, skal Statens jernbanetilsyn eller den Statens jernbanetilsyn utpeker, føre et nasjonalt kjøretøyregister. Registeret skaloverholde de felles spesifikasjonene nevnt i annet ledd bokstavene a–f,ajourføres av Statens jernbanetilsyn eller et organ som er uavhengig av alle jernbaneforetak,være tilgjengelig for Statens jernbanetilsyn og Statens havarikommisjon for transport, det skal også gjøres tilgjengelig som svar på enhver berettiget anmodning, for Byrået, jernbaneforetakene og infrastrukturforvaltere, samt for de personer eller organisasjoner som registrerer kjøretøy eller er identifisert i registeret.
+Fram til det europeiske kjøretøyregisteret er i drift, skal Statens jernbanetilsyn eller den Statens jernbanetilsyn utpeker, føre et nasjonalt kjøretøyregister. Registeret skal
 
-Det nasjonale kjøretøyregisteret skal minst inneholde følgende:EVN-nummeret,henvisninger til EF-verifiseringserklæringen og utstedende organ,henvisninger til det europeiske registeret over godkjente kjøretøytyper,identifisering av eieren og innehaveren av kjøretøyet,begrensninger på bruken av kjøretøyet,henvisninger til ECM.
+1. overholde de felles spesifikasjonene nevnt i annet ledd bokstavene a–f,
+2. ajourføres av Statens jernbanetilsyn eller et organ som er uavhengig av alle jernbaneforetak,
+3. være tilgjengelig for Statens jernbanetilsyn og Statens havarikommisjon for transport, det skal også gjøres tilgjengelig som svar på enhver berettiget anmodning, for Byrået, jernbaneforetakene og infrastrukturforvaltere, samt for de personer eller organisasjoner som registrerer kjøretøy eller er identifisert i registeret.
+
+Det nasjonale kjøretøyregisteret skal minst inneholde følgende:
+
+1. EVN-nummeret,
+2. henvisninger til EF-verifiseringserklæringen og utstedende organ,
+3. henvisninger til det europeiske registeret over godkjente kjøretøytyper,
+4. identifisering av eieren og innehaveren av kjøretøyet,
+5. begrensninger på bruken av kjøretøyet,
+6. henvisninger til ECM.
 
 Hver enkelt medlemsstat skal ajourføre sitt register med de endringene som en annen medlemsstat foretar i sitt eget register, dersom endringen gjelder opplysninger som er relevant. Dette gjelder så lenge medlemsstatenes nasjonale kjøretøyregistre ikke er koplet sammen i samsvar med spesifikasjonene gitt i gjennomføringsrettsakter fra Kommisjonen.
 
-Innehaveren skal umiddelbart melde fra til den medlemsstaten der kjøretøyet er registrert, dersomdet er endringer i de opplysningene som er registrert i kjøretøyregisteret,et et kjøretøy vrakes, elleret kjøretøy ikke lenger skal være registret som i bruk.
+Innehaveren skal umiddelbart melde fra til den medlemsstaten der kjøretøyet er registrert, dersom
 
-Når det gjelder kjøretøy som har fått tillatelse første gang i en tredjestat og deretter brukes i Norge, skal Statens jernbanetilsyn sikre at opplysninger om kjøretøyet kan innhentes fra et kjøretøyregister eller på annen måte være tilgjengelige. Opplysningene skal minst omfattehvem som er innehaver av kjøretøyet,hvilken enhet som er ansvarlig for vedlikehold (ECM) av kjøretøyet, ogbegrensningene i hvordan kjøretøyet kan brukes.
+1. det er endringer i de opplysningene som er registrert i kjøretøyregisteret,
+2. et et kjøretøy vrakes, eller
+3. et kjøretøy ikke lenger skal være registret som i bruk.
+
+Når det gjelder kjøretøy som har fått tillatelse første gang i en tredjestat og deretter brukes i Norge, skal Statens jernbanetilsyn sikre at opplysninger om kjøretøyet kan innhentes fra et kjøretøyregister eller på annen måte være tilgjengelige. Opplysningene skal minst omfatte
+
+1. hvem som er innehaver av kjøretøyet,
+2. hvilken enhet som er ansvarlig for vedlikehold (ECM) av kjøretøyet, og
+3. begrensningene i hvordan kjøretøyet kan brukes.
 
 ### § 7-3. Det europeiske registeret over godkjente kjøretøytyper
 
-Byrået innfører og vedlikeholder et register over tillatelser til å bringe kjøretøytyper i omsetning i EØS. Registeret skalvære offentlig og elektronisk tilgjengelig,overholde de felles spesifikasjonene, ogvære koplet til relevante kjøretøyregistre.
+Byrået innfører og vedlikeholder et register over tillatelser til å bringe kjøretøytyper i omsetning i EØS. Registeret skal
+
+1. være offentlig og elektronisk tilgjengelig,
+2. overholde de felles spesifikasjonene, og
+3. være koplet til relevante kjøretøyregistre.
 
 Kommisjonen vedtar felles spesifikasjoner for registeret over godkjente kjøretøytyper knyttet til innhold, dataformat, funksjonell og teknisk arkitektur, driftsmodus og regler for registrering av og tilgang til data.
 
-Registeret for godkjente kjøretøytyper skal for hver kjøretøytype minst inneholde opplysninger omtekniske egenskaper for kjøretøytypen som definert i de relevante TSI-ene, inkludert egenskaper som er knyttet til tilgjengelighet for personer med funksjonshemming eller bevegelseshemming,produsentens navn, ogdata for tillatelsene knyttet til bruksområdet for en kjøretøytype, inkludert begrensninger eller tilbakekallinger.
+Registeret for godkjente kjøretøytyper skal for hver kjøretøytype minst inneholde opplysninger om
+
+1. tekniske egenskaper for kjøretøytypen som definert i de relevante TSI-ene, inkludert egenskaper som er knyttet til tilgjengelighet for personer med funksjonshemming eller bevegelseshemming,
+2. produsentens navn, og
+3. data for tillatelsene knyttet til bruksområdet for en kjøretøytype, inkludert begrensninger eller tilbakekallinger.
 
 ### § 7-4. Infrastrukturregister
 
@@ -530,14 +697,49 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar di
 
 ## Vedlegg I. Elementer i jernbanesystemet
 
-1. *Jernbanenett*For denne forskriftens formål skal jernbanenettet inneholde følgende elementer:jernbanelinjer som er særskilt bygd for høyhastighetstog, og som er utstyrt for hastigheter i alminnelighet på minst 250 km/t,jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som er utstyrt for hastigheter på omkring 200 km/t,jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som har særegne trekk på grunn av topografiske eller overflatemessige begrensninger eller beliggenhet i byområder der hastigheten må tilpasses i hvert enkelt tilfelle. Denne kategorien omfatter sammenkoplede linjer mellom jernbanenettene for høyhastighetstog og konvensjonelle tog, linjer gjennom stasjoner, tilganger til terminaler, depoter osv. som trafikkeres i konvensjonell hastighet av rullende materiell for høyhastighetstog,jernbanelinjer for konvensjonelle tog, beregnet på persontransport,jernbanelinjer for konvensjonelle tog, beregnet på blandet trafikk (personer og gods),jernbanelinjer for konvensjonelle tog, beregnet på godstransport,knutepunkter for persontrafikk,knutepunkter for godstrafikk, herunder terminaler for ulike transportsystemer,jernbanelinjer som knytter disse elementene sammen.Dette jernbanenettet omfatter trafikkstyrings-, posisjonerings- og navigeringssystemer, tekniske anlegg for databehandling og telekommunikasjon beregnet på person- og godstransport med fjerntog på jernbanenettet, med henblikk på å sikre sikker og enhetlig drift av jernbanenettet og en effektiv trafikkstyring.
-2. *Kjøretøy*For denne forskrifts formål skal kjøretøy omfatte alle kjøretøy som sannsynligvis skal anvendes på hele eller deler av jernbanenettet.lokomotiver og rullende materiell for persontrafikk, herunder lokomotiver, vogner og motorvognsett,godsvogner, herunder lavgulvkjøretøy konstruert for hele jernbanenettet og kjøretøy konstruert for frakt av lastebiler,spesialkjøretøy, for eksempel arbeidskjøretøy (OTM. som skal ha tillatelse til å kjøre på åpen linje.Denne listen over kjøretøy skal omfatte de som er særlig konstruert for å kjøre på de forskjellige typene av høyhastighetslinjer som er beskrevet i nr. 1.
+1. *Jernbanenett*
+
+   For denne forskriftens formål skal jernbanenettet inneholde følgende elementer:
+
+   1. jernbanelinjer som er særskilt bygd for høyhastighetstog, og som er utstyrt for hastigheter i alminnelighet på minst 250 km/t,
+   2. jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som er utstyrt for hastigheter på omkring 200 km/t,
+   3. jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som har særegne trekk på grunn av topografiske eller overflatemessige begrensninger eller beliggenhet i byområder der hastigheten må tilpasses i hvert enkelt tilfelle. Denne kategorien omfatter sammenkoplede linjer mellom jernbanenettene for høyhastighetstog og konvensjonelle tog, linjer gjennom stasjoner, tilganger til terminaler, depoter osv. som trafikkeres i konvensjonell hastighet av rullende materiell for høyhastighetstog,
+   4. jernbanelinjer for konvensjonelle tog, beregnet på persontransport,
+   5. jernbanelinjer for konvensjonelle tog, beregnet på blandet trafikk (personer og gods),
+   6. jernbanelinjer for konvensjonelle tog, beregnet på godstransport,
+   7. knutepunkter for persontrafikk,
+   8. knutepunkter for godstrafikk, herunder terminaler for ulike transportsystemer,
+   9. jernbanelinjer som knytter disse elementene sammen.
+
+   Dette jernbanenettet omfatter trafikkstyrings-, posisjonerings- og navigeringssystemer, tekniske anlegg for databehandling og telekommunikasjon beregnet på person- og godstransport med fjerntog på jernbanenettet, med henblikk på å sikre sikker og enhetlig drift av jernbanenettet og en effektiv trafikkstyring.
+2. *Kjøretøy*
+
+   For denne forskrifts formål skal kjøretøy omfatte alle kjøretøy som sannsynligvis skal anvendes på hele eller deler av jernbanenettet.
+
+   - lokomotiver og rullende materiell for persontrafikk, herunder lokomotiver, vogner og motorvognsett,
+   - godsvogner, herunder lavgulvkjøretøy konstruert for hele jernbanenettet og kjøretøy konstruert for frakt av lastebiler,
+   - spesialkjøretøy, for eksempel arbeidskjøretøy (OTM. som skal ha tillatelse til å kjøre på åpen linje.
+
+   Denne listen over kjøretøy skal omfatte de som er særlig konstruert for å kjøre på de forskjellige typene av høyhastighetslinjer som er beskrevet i nr. 1.
 
 ## Vedlegg II. Delsystemer
 
 1.*Liste over delsystemer*
 
-For denne forskrifts formål kan systemet som utgjør jernbanesystem, inndeles i følgende delsystemer:strukturelle delsystemer:infrastruktur,energi,styring, kontroll og signal langs sporet,styring, kontroll og signal om bord,rullende materiell, ellerfunksjonelle delsystemer:drift og trafikkstyring,vedlikehold,telematikkapplikasjoner for person- og godstrafikk.
+For denne forskrifts formål kan systemet som utgjør jernbanesystem, inndeles i følgende delsystemer:
+
+1. strukturelle delsystemer:
+
+   - infrastruktur,
+   - energi,
+   - styring, kontroll og signal langs sporet,
+   - styring, kontroll og signal om bord,
+   - rullende materiell, eller
+2. funksjonelle delsystemer:
+
+   - drift og trafikkstyring,
+   - vedlikehold,
+   - telematikkapplikasjoner for person- og godstrafikk.
 
 2.*Beskrivelse av delsystemene*
 
@@ -579,7 +781,10 @@ De faglige kvalifikasjonene som kreves for å kunne utføre alle typer jernbanef
 
 Telematikkapplikasjoner
 
-Dette delsystemet omfatter to elementer, i samsvar med vedlegg I:applikasjoner for persontrafikk, herunder systemer som gir informasjon til reisende før og under reisen, reservasjons- og betalingssystemer, bagasjehåndtering og styring av forbindelser mellom tog og med andre transporttyper.applikasjoner for godstrafikk, herunder informasjonssystemer (sanntidsovervåkning av gods og tog), rangerings- og tildelingssystemer, reservasjons-, betalings- og faktureringssystemer, styring av forbindelser med andre transportsystemer og produksjon av elektroniske følgedokumenter.
+Dette delsystemet omfatter to elementer, i samsvar med vedlegg I:
+
+1. applikasjoner for persontrafikk, herunder systemer som gir informasjon til reisende før og under reisen, reservasjons- og betalingssystemer, bagasjehåndtering og styring av forbindelser mellom tog og med andre transporttyper.
+2. applikasjoner for godstrafikk, herunder informasjonssystemer (sanntidsovervåkning av gods og tog), rangerings- og tildelingssystemer, reservasjons-, betalings- og faktureringssystemer, styring av forbindelser med andre transportsystemer og produksjon av elektroniske følgedokumenter.
 
 2.7
 
@@ -657,7 +862,10 @@ Det rullende materiellet og systemene for energiforsyning skal utformes og frams
 
 1.4.4
 
-Utformingen og driften av jernbanesystemet skal ikke føre til at systemet genererer et uakseptabelt støynivå:i områder i nærheten av jernbaneinfrastruktur, som definert i artikkel 3 nr. 3 i direktiv [2012/34/EU](eu/32012l0034), ogi førerrommet.
+Utformingen og driften av jernbanesystemet skal ikke føre til at systemet genererer et uakseptabelt støynivå:
+
+- i områder i nærheten av jernbaneinfrastruktur, som definert i artikkel 3 nr. 3 i direktiv [2012/34/EU](eu/32012l0034), og
+- i førerrommet.
 
 1.4.5
 
@@ -727,7 +935,10 @@ Driften av systemene for forsyning av elektrisk og termisk energi skal ikke gi m
 
 Teknisk forenlighet
 
-Systemer for forsyning av elektrisk eller termisk energi skal:gjøre det mulig for togene å oppnå de spesifiserte nivåene for yteevne,når det gjelder systemer for forsyning av elektrisk energi, være forenelige med strømavtakerne som togene er utstyr med.
+Systemer for forsyning av elektrisk eller termisk energi skal:
+
+- gjøre det mulig for togene å oppnå de spesifiserte nivåene for yteevne,
+- når det gjelder systemer for forsyning av elektrisk energi, være forenelige med strømavtakerne som togene er utstyr med.
 
 2.3
 
@@ -867,7 +1078,10 @@ Teknisk forenlighet
 
 De grunnleggende kravene på området telematikkapplikasjoner som skal garantere et laveste kvalitetsnivå på tjenester for reisende og godstransportkunder, gjelder særlig teknisk forenlighet.
 
-Det skal treffes tiltak for å sikre:at databaser, programvare og datakommunikasjonsprotokoller er utviklet på en måte som muliggjør størst mulig datautveksling mellom ulike programmer og mellom ulike operatører, unntatt fortrolige forretningsdata,at brukerne lett får tilgang til opplysningene.
+Det skal treffes tiltak for å sikre:
+
+- at databaser, programvare og datakommunikasjonsprotokoller er utviklet på en måte som muliggjør størst mulig datautveksling mellom ulike programmer og mellom ulike operatører, unntatt fortrolige forretningsdata,
+- at brukerne lett får tilgang til opplysningene.
 
 2.7.2
 
@@ -929,7 +1143,11 @@ Søkeren kan søke om en attest for mellomliggende verifisering for enhver del v
 
 Faser av verifiseringen
 
-Delsystemet, eller bestemte deler av delsystemet, skal kontrolleres i hver av følgende faser:samlet prosjektering,produksjon: oppføring, herunder særlig bygge- og anleggsarbeider, framstilling, montering av komponenter og samlet tilpasning,endelig prøving.
+Delsystemet, eller bestemte deler av delsystemet, skal kontrolleres i hver av følgende faser:
+
+1. samlet prosjektering,
+2. produksjon: oppføring, herunder særlig bygge- og anleggsarbeider, framstilling, montering av komponenter og samlet tilpasning,
+3. endelig prøving.
 
 Søkeren kan søke om en attest for mellomliggende verifisering når det gjelder prosjekteringsfasen (herunder typeprøvingene) og produksjonsfasen for hele delsystemet, eller for enhver del søkeren beslutter å dele det inn i (se nr. 2.2.2).
 
@@ -945,7 +1163,11 @@ Dersom det ikke er vurdert om et delsystem er i samsvar med alle relevante TSI-e
 
 2.3.2
 
-Dersom det er utstedt attester for mellomliggende verifisering, skal det meldte organet som er ansvarlig for verifiseringen av delsystemet, ta hensyn til disse attestene, og før det utsteder verifiseringssertifikatet:forsikre seg om at attestene for mellomliggende verifisering oppfyller de relevante kravene i TSI-ene,kontrollere alle forhold som ikke omfattes av attestene for mellomliggende verifisering, ogkontrollere den endelige prøvingen av delsystemet som helhet.
+Dersom det er utstedt attester for mellomliggende verifisering, skal det meldte organet som er ansvarlig for verifiseringen av delsystemet, ta hensyn til disse attestene, og før det utsteder verifiseringssertifikatet:
+
+1. forsikre seg om at attestene for mellomliggende verifisering oppfyller de relevante kravene i TSI-ene,
+2. kontrollere alle forhold som ikke omfattes av attestene for mellomliggende verifisering, og
+3. kontrollere den endelige prøvingen av delsystemet som helhet.
 
 2.3.3
 
@@ -959,7 +1181,17 @@ Hvert meldt organ som deltar i verifiseringen av et delsystem, skal utarbeide do
 
 Teknisk dokumentasjon vedlagt EF-verifiseringserklæringen
 
-Den tekniske dokumentasjonen som er vedlagt EF-verifiseringserklæringen, skal settes sammen av søkeren og inneholde følgende:opplysninger om de tekniske egenskapene knyttet til prosjekteringen, herunder helhetlige og detaljerte tegninger som svarer til utførelsen, elektriske og hydrauliske diagrammer, styrekretsskjemaer, beskrivelser av databehandlingssystemet og automatiske systemer, i slik detalj at det er tilstrekkelig til å dokumentere den samsvarskontrollen som er utført, drifts- og vedlikeholdshåndbøker osv. som er relevante for det aktuelle delsystemet,en liste over delsystemets samtrafikkomponenter, nevnt i artikkel 4 nr. 3 bokstav d) i direktiv [(EU) 2016/797](eu/32016l0797),dokumentasjon nevnt i artikkel [§ 4-6](forskrift/2021-09-09-2742/§4-6) tredje ledd, satt sammen av hvert av de meldte organene som deltar i verifiseringen av delsystemet, som skal inneholde:kopier av EF-verifiseringserklæringene og eventuelt EF-erklæringene om bruksegnethet som er utarbeidet for samtrafikkomponentene nevnt i artikkel 4 nr. 3 bokstav d. i direktiv [(EU) 2016/797](eu/32016l0797), eventuelt vedlagt tilhørende beregninger og en kopi av rapportene om prøvinger og undersøkelser foretatt av de meldte organene på grunnlag av de felles tekniske spesifikasjonene,eventuelle attester for mellomliggende verifisering som følger med verifiseringssertifikatet, herunder resultatet av det meldte organets kontroll av attestenes gyldighet,verifiseringssertifikatet vedlagt tilhørende beregninger og undertegnet av det meldte organet med ansvar for verifiseringen, der det bekreftes at delsystemet oppfyller kravene i den eller de relevante TSI-ene og der eventuelle forbehold som er tatt under utførelsen av arbeidet og ikke er trukket tilbake, oppgis; verifiseringssertifikatet skal også være vedlagt de inspeksjons- og kontrollrapportene som nevnte organ har utarbeidet som del av sin oppgave, som angitt i nr. 2.5.2 og 2.5.3verifiseringssertifikater utstedt i samsvar med andre unionsrettsakter,dersom det kreves sikker integrering i samsvar med [§ 5-5](forskrift/2021-09-09-2742/§5-5) og [§ 6-3](forskrift/2021-09-09-2742/§6-3) annet ledd, skal den relevante tekniske dokumentasjonen inneholde vurderingsrapporten(e) om de felles sikkerhetsmetodene for risikovurdering nevnt i artikkel 6 nr. 3 i direktiv [2004/49/EF](eu/32004l0049).
+Den tekniske dokumentasjonen som er vedlagt EF-verifiseringserklæringen, skal settes sammen av søkeren og inneholde følgende:
+
+1. opplysninger om de tekniske egenskapene knyttet til prosjekteringen, herunder helhetlige og detaljerte tegninger som svarer til utførelsen, elektriske og hydrauliske diagrammer, styrekretsskjemaer, beskrivelser av databehandlingssystemet og automatiske systemer, i slik detalj at det er tilstrekkelig til å dokumentere den samsvarskontrollen som er utført, drifts- og vedlikeholdshåndbøker osv. som er relevante for det aktuelle delsystemet,
+2. en liste over delsystemets samtrafikkomponenter, nevnt i artikkel 4 nr. 3 bokstav d) i direktiv [(EU) 2016/797](eu/32016l0797),
+3. dokumentasjon nevnt i artikkel [§ 4-6](forskrift/2021-09-09-2742/§4-6) tredje ledd, satt sammen av hvert av de meldte organene som deltar i verifiseringen av delsystemet, som skal inneholde:
+
+   - kopier av EF-verifiseringserklæringene og eventuelt EF-erklæringene om bruksegnethet som er utarbeidet for samtrafikkomponentene nevnt i artikkel 4 nr. 3 bokstav d. i direktiv [(EU) 2016/797](eu/32016l0797), eventuelt vedlagt tilhørende beregninger og en kopi av rapportene om prøvinger og undersøkelser foretatt av de meldte organene på grunnlag av de felles tekniske spesifikasjonene,
+   - eventuelle attester for mellomliggende verifisering som følger med verifiseringssertifikatet, herunder resultatet av det meldte organets kontroll av attestenes gyldighet,
+   - verifiseringssertifikatet vedlagt tilhørende beregninger og undertegnet av det meldte organet med ansvar for verifiseringen, der det bekreftes at delsystemet oppfyller kravene i den eller de relevante TSI-ene og der eventuelle forbehold som er tatt under utførelsen av arbeidet og ikke er trukket tilbake, oppgis; verifiseringssertifikatet skal også være vedlagt de inspeksjons- og kontrollrapportene som nevnte organ har utarbeidet som del av sin oppgave, som angitt i nr. 2.5.2 og 2.5.3
+4. verifiseringssertifikater utstedt i samsvar med andre unionsrettsakter,
+5. dersom det kreves sikker integrering i samsvar med [§ 5-5](forskrift/2021-09-09-2742/§5-5) og [§ 6-3](forskrift/2021-09-09-2742/§6-3) annet ledd, skal den relevante tekniske dokumentasjonen inneholde vurderingsrapporten(e) om de felles sikkerhetsmetodene for risikovurdering nevnt i artikkel 6 nr. 3 i direktiv [2004/49/EF](eu/32004l0049).
 
 2.5
 
@@ -993,7 +1225,13 @@ Dokumentasjon som deponeres for en søknad om tillatelse til ibruktaking, skal d
 
 Offentliggjøring
 
-Hvert meldte organ skal jevnlig offentliggjør relevante opplysninger om:mottatte søknader om verifisering og attester for mellomliggende verifisering,søknader om samsvarsvurdering og vurdering av bruksegnethet for samtrafikkomponenter,utstedte eller avslåtte attester for midlertidig verifisering,utstedte eller avslåtte verifiseringssertifikater og EF-sertifikater for bruksegnethet,utstedte eller avslåtte verifiseringssertifikater.
+Hvert meldte organ skal jevnlig offentliggjør relevante opplysninger om:
+
+1. mottatte søknader om verifisering og attester for mellomliggende verifisering,
+2. søknader om samsvarsvurdering og vurdering av bruksegnethet for samtrafikkomponenter,
+3. utstedte eller avslåtte attester for midlertidig verifisering,
+4. utstedte eller avslåtte verifiseringssertifikater og EF-sertifikater for bruksegnethet,
+5. utstedte eller avslåtte verifiseringssertifikater.
 
 2.8
 

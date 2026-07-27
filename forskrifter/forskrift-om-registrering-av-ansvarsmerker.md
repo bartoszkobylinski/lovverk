@@ -48,7 +48,11 @@ Patentstyret kan i det enkelte tilfellet godta annet språk enn nevnt i første 
 
 ## § 4. Søknadens innhold
 
-Søknaden skal være signert av søkeren eller dennes fullmektig og inneholde:søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresseeventuell særskilt korrespondanse etter [§ 5](forskrift/2010-12-20-1812/§5)en gjengivelse av ansvarsmerket.
+Søknaden skal være signert av søkeren eller dennes fullmektig og inneholde:
+
+1. søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse
+2. eventuell særskilt korrespondanse etter [§ 5](forskrift/2010-12-20-1812/§5)
+3. en gjengivelse av ansvarsmerket.
 
 Det kan kun søkes om registrering av ett ansvarsmerke i en og samme søknad. Hvis det søkes registrert flere ansvarsmerker i samme søknad, skal Patentstyret gi søker en passende frist til å angi hvilket ansvarsmerke som skal videreføres i søknaden.
 
@@ -76,7 +80,11 @@ Bestemmelser om når en avgift skal regnes som betalt med fristavbrytende virkni
 
 ## § 8. Registreringshindre
 
-Ansvarsmerke må ikke registreres hvis det:strider mot lov, offentlig orden eller moral,er egnet til å villede,er egnet til å forveksles med en annens foretaksnavn eller med stemplings-, ansvars-, eller varemerke som er registrert for en annen etter tidligere inngitt søknad eller med varemerke som var innarbeidet av en annen da søknad om registrering ble inngitt.
+Ansvarsmerke må ikke registreres hvis det:
+
+1. strider mot lov, offentlig orden eller moral,
+2. er egnet til å villede,
+3. er egnet til å forveksles med en annens foretaksnavn eller med stemplings-, ansvars-, eller varemerke som er registrert for en annen etter tidligere inngitt søknad eller med varemerke som var innarbeidet av en annen da søknad om registrering ble inngitt.
 
 Ansvarsmerke må ikke registreres hvis det er mindre enn fem år siden registreringen utløp for samme ansvarsmerke registrert på en annen.
 
@@ -130,7 +138,12 @@ Søksmål som nevnt i tredje ledd må reises ved Oslo tingrett. Den som reiser s
 
 ## § 14. Administrativ overprøving
 
-Et krav om administrativ overprøving skal leveres skriftlig til Patentstyret ogoppgi navnet og adressen til den som har levert kravet,oppgi registreringen som kreves overprøvd,oppgi hvilke grunner kravet bygger på, oginneholde nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+Et krav om administrativ overprøving skal leveres skriftlig til Patentstyret og
+
+1. oppgi navnet og adressen til den som har levert kravet,
+2. oppgi registreringen som kreves overprøvd,
+3. oppgi hvilke grunner kravet bygger på, og
+4. inneholde nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
 
 Hvis kravet ikke oppfyller vilkårene fastsatt i første ledd, skal Patentstyret gi en rimelig frist for uttalelse og mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal kravet avvises hvis ikke Patentstyret finner at det bør gis en ny frist.
 

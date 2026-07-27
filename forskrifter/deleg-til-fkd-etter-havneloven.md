@@ -48,4 +48,8 @@ Ovennevnte delegeringsbeslutninger trer i kraft straks.
 
 ## VI. Opphevede delegeringsbeslutninger
 
-Følgende delegeringsbeslutninger oppheves:Delegering av myndighet til Fiskeridepartementet etter lov om havner og farvann m.v. [§ 6](lov/2009-04-17-19/§6) første ledd, [§ 14](lov/2009-04-17-19/§14) annet ledd og [§ 22](lov/2009-04-17-19/§22), fastsatt ved [kgl.res. 17. januar 2003 nr. 38](forskrift/2003-01-17-38).Delegering av myndighet til Fiskeridepartementet etter lov om havner og farvann m.v., fastsatt ved [kgl.res. 11. desember 1998 nr. 1561](forskrift/1998-12-11-1561).
+Følgende delegeringsbeslutninger oppheves:
+
+Delegering av myndighet til Fiskeridepartementet etter lov om havner og farvann m.v. [§ 6](lov/2009-04-17-19/§6) første ledd, [§ 14](lov/2009-04-17-19/§14) annet ledd og [§ 22](lov/2009-04-17-19/§22), fastsatt ved [kgl.res. 17. januar 2003 nr. 38](forskrift/2003-01-17-38).
+
+Delegering av myndighet til Fiskeridepartementet etter lov om havner og farvann m.v., fastsatt ved [kgl.res. 11. desember 1998 nr. 1561](forskrift/1998-12-11-1561).

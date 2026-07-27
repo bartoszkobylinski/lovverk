@@ -15,7 +15,7 @@ xml_hash: "9f3a7a6901e3daee8fe0cff49e75b0210c2f698716ac06de95ca8fa444110207"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,18 @@ Kongen kan fastsetja at lova òg skal gjelda for Svalbard og den norske delen av
 
 ## § 3. Definisjonar
 
-I denne lova vert desse omgrepa nytta slik:Medium: noko som kan lagra informasjon.Dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning, overføring eller liknande.Utgjevar: den som for eiga rekning lagar eller får laga eit dokument for å gjera det tilgjengeleg for allmenta.Produsent: den som framstiller eksemplar av eit dokument for ein utgjevar.Importør: den som for eiga rekning tek inn i landet dokument utgjeve i utlandet, for å gjera det tilgjengeleg for allmenta i Noreg.
+I denne lova vert desse omgrepa nytta slik:
 
-Eit dokument er gjort tilgjengeleg for allmenta nåreksemplar av dokumentet vert bode fram for sal, utleige eller utlån, eller når dokumentet på annan måte vert spreidd utanfor ein privat krins,informasjonen i dokumentet vert gjord tilgjengeleg utanfor ein privat krins gjennom framføring, framsyning, kringkasting, direktekopling e.l.
+- Medium: noko som kan lagra informasjon.
+- Dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning, overføring eller liknande.
+- Utgjevar: den som for eiga rekning lagar eller får laga eit dokument for å gjera det tilgjengeleg for allmenta.
+- Produsent: den som framstiller eksemplar av eit dokument for ein utgjevar.
+- Importør: den som for eiga rekning tek inn i landet dokument utgjeve i utlandet, for å gjera det tilgjengeleg for allmenta i Noreg.
+
+Eit dokument er gjort tilgjengeleg for allmenta når
+
+- eksemplar av dokumentet vert bode fram for sal, utleige eller utlån, eller når dokumentet på annan måte vert spreidd utanfor ein privat krins,
+- informasjonen i dokumentet vert gjord tilgjengeleg utanfor ein privat krins gjennom framføring, framsyning, kringkasting, direktekopling e.l.
 
 > Endra med [lov 19 juni 2015 nr. 72](lov/2015-06-19-72) (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).
 
@@ -64,7 +73,11 @@ Informasjon som er lagra i nettarkivet, skal som hovudregel ikkje slettast. Pers
 
 Eit digitalt dokument som er lagra i det digitale nettarkivet og som inneheld personopplysningar, kan krevjast klausulert eller sletta dersom informasjonen er gjord allment tilgjengeleg ved ein feil.
 
-Eit digitalt dokument som er lagra i det digitale nettarkivet, som er utgjeve utan ansvarleg redaktør, og som inneheld personopplysningar, kan likevel krevjast klausulert eller sletta dersom eitt eller fleire av vilkåra nedanfor er oppfylte:Informasjonen ikkje har vore spreidd utanfor ein lukka krins, og informasjonen aldri var meint å verta gjord allment tilgjengeleg.Informasjonen er lagt ut av ein tredjeperson utan samtykke, og den omtalte sjølv ikkje har gjort informasjonen allment kjend.Det vil vera til vesentleg ulempe for den opplysningane gjeld, at informasjonen blir oppbevart til forskingsføremål.
+Eit digitalt dokument som er lagra i det digitale nettarkivet, som er utgjeve utan ansvarleg redaktør, og som inneheld personopplysningar, kan likevel krevjast klausulert eller sletta dersom eitt eller fleire av vilkåra nedanfor er oppfylte:
+
+1. Informasjonen ikkje har vore spreidd utanfor ein lukka krins, og informasjonen aldri var meint å verta gjord allment tilgjengeleg.
+2. Informasjonen er lagt ut av ein tredjeperson utan samtykke, og den omtalte sjølv ikkje har gjort informasjonen allment kjend.
+3. Det vil vera til vesentleg ulempe for den opplysningane gjeld, at informasjonen blir oppbevart til forskingsføremål.
 
 Informasjon som ikkje er allment kjend, og som omhandlar mindreårige eller personar som er sette under verjemål, skal på førespurnad klausulerast eller slettast.
 

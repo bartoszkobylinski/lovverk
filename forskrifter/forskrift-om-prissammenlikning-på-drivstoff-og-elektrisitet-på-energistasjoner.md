@@ -15,7 +15,7 @@ xml_hash: "e2baed55a612edd000142e5789b5c5186e7e382209f22c940b78501d449bb99f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ En betjent energistasjon er et salgssted for energikilder hvor forbrukerne har a
 
 ## § 3. Energikilder
 
-De skal gis prisinformasjon om følgende energikilderbensin, blyfri 95 oktandiesel, avgiftspliktigelektrisitet.
+De skal gis prisinformasjon om følgende energikilder
+
+- bensin, blyfri 95 oktan
+- diesel, avgiftspliktig
+- elektrisitet.
 
 ## § 4. Beregning av energieffektivitet
 
@@ -61,8 +65,16 @@ Forskriften trer i kraft 1. januar 2023.
 ## Vedlegg I. Metode for beregning av pris
 
 1. Det skal legges til rette for at energistasjoner viser sammenligning av veiledende priser, basert på et utvalg av sammenlignbare referansekjøretøy for hvert segment, jf. forskriften [§ 6](forskrift/2022-03-15-422/§6).
-2. Prisen på bensin, diesel og elektrisitet skal uttrykkes i NOK pr 100 km, med sikte på en sammenligning, jf. forskriften [§ 3](forskrift/2022-03-15-422/§3).Beregningen skal baseres på følgende faktorer:Forbruket av bensin, diesel eller elektrisitet for referansekjøretøyet, jf. [§ 4](forskrift/2022-03-15-422/§4), per 100 km i henhold til samsvarssertifikatet for kjøretøyer nevnt i [artikkel 18](eu/32007l0046/a18) i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046)1.Dersom det er relevant, verdiene for energiforbruk per 100 km for blandinger av biodrivstoff med bensin eller diesel2.Nasjonal gjennomsnittlig markedspris for bensin, diesel og elektrisitet.
-3. Prisen uttrykt som kr/100 km beregnes slik:Drivstoffprisen i NOK × drivstofforbruk per 100 km.
+2. Prisen på bensin, diesel og elektrisitet skal uttrykkes i NOK pr 100 km, med sikte på en sammenligning, jf. forskriften [§ 3](forskrift/2022-03-15-422/§3).
+
+   Beregningen skal baseres på følgende faktorer:
+
+   1. Forbruket av bensin, diesel eller elektrisitet for referansekjøretøyet, jf. [§ 4](forskrift/2022-03-15-422/§4), per 100 km i henhold til samsvarssertifikatet for kjøretøyer nevnt i [artikkel 18](eu/32007l0046/a18) i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046)1.
+   2. Dersom det er relevant, verdiene for energiforbruk per 100 km for blandinger av biodrivstoff med bensin eller diesel2.
+   3. Nasjonal gjennomsnittlig markedspris for bensin, diesel og elektrisitet.
+3. Prisen uttrykt som kr/100 km beregnes slik:
+
+   - Drivstoffprisen i NOK × drivstofforbruk per 100 km.
 4. Drivstoffprisen som skal benyttes er nasjonal gjennomsnittspris for siste kalenderkvartal før tidspunktet for offentliggjøring av Statistisk sentralbyrå og offentliggjøres på energistasjonen innen den andre måneden etter kvartalets utløp, jf. forskriften [§ 6](forskrift/2022-03-15-422/§6).
 
 1 Europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046) av 5. september 2007 om fastsettelse av en ramme for godkjenning av motorvogner og deres tilhengere, og av systemer, deler og tekniske enheter til slike motorvogner (EUT L 263 av 9.10.2007, s. 1).

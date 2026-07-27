@@ -15,7 +15,7 @@ xml_hash: "e88056b78df53f0293ef7ed5d726cbfcfca559d7ee62d3b8676a9c5b6f1d16d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,18 @@ Formålet med distriktsrettet investeringsstøtte er å stimulere til investerin
 
 ### § 2. Definisjoner
 
-Følgende definisjoner legges til grunn i denne forskriften:*Regional investeringsstøtte:* Støtte gitt til en førsteinvestering eller til en førsteinvestering i ny økonomisk virksomhet.*Førsteinvestering:*en investering i materielle og immaterielle eiendeler knyttet til opprettelse av en ny virksomhet, utvidelse av en eksisterende virksomhets kapasitet, utvidelse av en virksomhets produksjonsspekter med produkter som ikke har vært produsert i virksomheten før, eller en grunnleggende endring av hele produksjonsprosessen i en eksisterende virksomhet, ellererverv av eiendeler som tilhører en virksomhet som er nedlagt eller ville blitt nedlagt dersom den ikke var blitt kjøpt, og som kjøpes av en investor uten tilknytning til selgeren, og der det utelukkes at bare foretakets aksjer erverves.*Førsteinvestering i ny økonomisk virksomhet:*en investering i materielle og immaterielle eiendeler knyttet til opprettelse av en ny virksomhet eller til utvidelse av en virksomhets aktiviteter, forutsatt at den nye aktiviteten ikke er den samme som eller tilsvarer den aktiviteten som ble utøvd i virksomheten tidligere, ellererverv av eiendeler som tilhører en virksomhet som er nedlagt eller ville blitt nedlagt dersom den ikke var blitt kjøpt, og som kjøpes av en investor uten tilknytning til selgeren, forutsatt at den nye aktiviteten som skal utøves med de ervervede eiendelene, ikke er den samme som eller tilsvarer den aktiviteten som ble utøvd i virksomheten før ervervet.*Distriktsrettet investeringsstøtte:* Regional investeringsstøtte.
+Følgende definisjoner legges til grunn i denne forskriften:
+
+1. *Regional investeringsstøtte:* Støtte gitt til en førsteinvestering eller til en førsteinvestering i ny økonomisk virksomhet.
+2. *Førsteinvestering:*
+
+   1. en investering i materielle og immaterielle eiendeler knyttet til opprettelse av en ny virksomhet, utvidelse av en eksisterende virksomhets kapasitet, utvidelse av en virksomhets produksjonsspekter med produkter som ikke har vært produsert i virksomheten før, eller en grunnleggende endring av hele produksjonsprosessen i en eksisterende virksomhet, eller
+   2. erverv av eiendeler som tilhører en virksomhet som er nedlagt eller ville blitt nedlagt dersom den ikke var blitt kjøpt, og som kjøpes av en investor uten tilknytning til selgeren, og der det utelukkes at bare foretakets aksjer erverves.
+3. *Førsteinvestering i ny økonomisk virksomhet:*
+
+   1. en investering i materielle og immaterielle eiendeler knyttet til opprettelse av en ny virksomhet eller til utvidelse av en virksomhets aktiviteter, forutsatt at den nye aktiviteten ikke er den samme som eller tilsvarer den aktiviteten som ble utøvd i virksomheten tidligere, eller
+   2. erverv av eiendeler som tilhører en virksomhet som er nedlagt eller ville blitt nedlagt dersom den ikke var blitt kjøpt, og som kjøpes av en investor uten tilknytning til selgeren, forutsatt at den nye aktiviteten som skal utøves med de ervervede eiendelene, ikke er den samme som eller tilsvarer den aktiviteten som ble utøvd i virksomheten før ervervet.
+4. *Distriktsrettet investeringsstøtte:* Regional investeringsstøtte.
 
 ### § 3. Geografisk virkeområde
 
@@ -77,9 +88,17 @@ For kommunene Kvitsøy, Utsira og Aukra er maksimal støtteintensitet for invest
 
 ### § 5. Skattefri virksomhetsinntekt
 
-Regional investeringsstøtte etter retningslinjene for regionalstøtte og gruppeunntaksforordningen:Regnes som skattefri virksomhetsinntekt.1Skal ikke trekkes fra kostpris ved beregning av årlige og totale avskrivninger.2Regnes som en del av vederlaget ved salg av driftsmiddelet før det har gått fem år etter at det ble ervervet.3
+Regional investeringsstøtte etter retningslinjene for regionalstøtte og gruppeunntaksforordningen:
 
-1 Jf. [lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 5-31](lov/1999-03-26-14/§5-31) bokstav a.2 Jf. [skatteloven § 14-42](lov/1999-03-26-14/§14-42) andre ledd siste punktum.3 Jf. [skatteloven § 14-44](lov/1999-03-26-14/§14-44) første ledd andre punktum.
+1. Regnes som skattefri virksomhetsinntekt.1
+2. Skal ikke trekkes fra kostpris ved beregning av årlige og totale avskrivninger.2
+3. Regnes som en del av vederlaget ved salg av driftsmiddelet før det har gått fem år etter at det ble ervervet.3
+
+1 Jf. [lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 5-31](lov/1999-03-26-14/§5-31) bokstav a.
+
+2 Jf. [skatteloven § 14-42](lov/1999-03-26-14/§14-42) andre ledd siste punktum.
+
+3 Jf. [skatteloven § 14-44](lov/1999-03-26-14/§14-44) første ledd andre punktum.
 
 ## Kapittel IV. Øvrige bestemmelser
 

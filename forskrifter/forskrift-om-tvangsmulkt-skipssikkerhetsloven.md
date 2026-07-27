@@ -15,7 +15,7 @@ xml_hash: "edd0d7a65ca3ddf3a54ac0174b781406e4acb9c02df3ee7cf329e5de5ce1f936"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,9 +47,44 @@ Rederi som ikke har etterkommet pålegg ilagt med hjemmel i [skipssikkerhetslove
 | Pålegg som skal oppfylles innen 1 måned | 1 R | 2 R | 8 R |
 | Pålegg med lenger oppfyllelsestid enn 1 måned | ½ R | 1 R | 4 R |
 
-1 Se [lov 17. desember 1982 nr. 86](lov/1982-12-17-86) om rettsgebyr.*Kjemikalietankskip**Under 150 bruttotonn**150-9 999 bruttotonn**10 000-99 999 bruttotonn**100 000 bruttotonn og derover*Pålegg som skal oppfylles innen 1 måned1 R3 R5 R10 RPålegg med lenger oppfyllelsestid enn 1 måned½ R1 R2 R5 R*Oljetankskip**Under 150 bruttotonn**150-9 999 bruttotonn**10 000-99 999 bruttotonn**100 000 bruttotonn og derover*Pålegg som skal oppfylles innen 1 måned2 R4 R6 R12 RPålegg med lenger oppfyllelsestid enn 1 måned½ R2 R3 R6 R*Offshorefartøy*Pålegg som skal oppfylles innen 1 måned5 RPålegg med lenger oppfyllelsestid enn 1 måned3 R*Lasteskip som ikke er oljetankskip, kjemikalietankskip eller offshorefartøy**Under 400 bruttotonn**400-4 999 bruttotonn**5 000-49 999 bruttotonn**50 000 bruttotonn og derover*Pålegg som skal oppfylles innen 1 måned1 R2 R4 R6 RPålegg med lenger oppfyllelsestid enn 1 måned¼ R1 R2 R3 R*Fiskefartøy**6-10,66 meter**10,67-14,99 meter**15-44,99 meter**45 meter og derover*Pålegg som skal oppfylles innen 1 måned½ R1 R2 R4 RPålegg med lenger oppfyllelsestid enn 1 måned¼ R½ R1 R2 R*Flyttbare innretninger*Pålegg som skal oppfylles innen 1 måned12 RPålegg med lenger oppfyllelsestid enn 1 måned6 R
+1 Se [lov 17. desember 1982 nr. 86](lov/1982-12-17-86) om rettsgebyr.
 
-For andre fartøy vil tvangsmulkt bli utmålt etter en konkret vurdering. Ved utmålingen legges det særlig vekt på:hvilken type pålegg det erhvor alvorlig den manglende oppfyllelse av pålegget er i forhold til de miljø og sikkerhetshensyn det skal ivaretakostnaden for rederiet ved å oppfylle påleggetrederiets økonomiske stilling.
+| *Kjemikalietankskip* | *Under 150 bruttotonn* | *150-9 999 bruttotonn* | *10 000-99 999 bruttotonn* | *100 000 bruttotonn og derover* |
+| --- | --- | --- | --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | 1 R | 3 R | 5 R | 10 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | ½ R | 1 R | 2 R | 5 R |
+
+| *Oljetankskip* | *Under 150 bruttotonn* | *150-9 999 bruttotonn* | *10 000-99 999 bruttotonn* | *100 000 bruttotonn og derover* |
+| --- | --- | --- | --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | 2 R | 4 R | 6 R | 12 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | ½ R | 2 R | 3 R | 6 R |
+
+| *Offshorefartøy* |  |
+| --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | 5 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | 3 R |
+
+| *Lasteskip som ikke er oljetankskip, kjemikalietankskip eller offshorefartøy* | *Under 400 bruttotonn* | *400-4 999 bruttotonn* | *5 000-49 999 bruttotonn* | *50 000 bruttotonn og derover* |
+| --- | --- | --- | --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | 1 R | 2 R | 4 R | 6 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | ¼ R | 1 R | 2 R | 3 R |
+
+| *Fiskefartøy* | *6-10,66 meter* | *10,67-14,99 meter* | *15-44,99 meter* | *45 meter og derover* |
+| --- | --- | --- | --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | ½ R | 1 R | 2 R | 4 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | ¼ R | ½ R | 1 R | 2 R |
+
+| *Flyttbare innretninger* |  |
+| --- | --- |
+| Pålegg som skal oppfylles innen 1 måned | 12 R |
+| Pålegg med lenger oppfyllelsestid enn 1 måned | 6 R |
+
+For andre fartøy vil tvangsmulkt bli utmålt etter en konkret vurdering. Ved utmålingen legges det særlig vekt på:
+
+1. hvilken type pålegg det er
+2. hvor alvorlig den manglende oppfyllelse av pålegget er i forhold til de miljø og sikkerhetshensyn det skal ivareta
+3. kostnaden for rederiet ved å oppfylle pålegget
+4. rederiets økonomiske stilling.
 
 ## § 5. Ikrafttredelse
 

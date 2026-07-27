@@ -38,8 +38,16 @@ Forskriften gir også regler for tilståelse og beregning av barnetillegg eller 
 
 ### § 3. Definisjoner
 
-1. I forhold til beregning av grunnpensjon etter folketrygdloven og særtillegg etter særtilleggsloven gjelder følgende definisjoner:Med *opptjeningstid* menes alle perioder som medfører opptjening av rett til pensjon etter folketrygdloven eller etter lovgivinga i det land der de er tilbakelagt, men begrenset til tidsrom etter fylte 16 år.Med *forholdstallet* menes den brøk som framkommer når en persons samlede trygdetid i Norge fastsatt etter bestemmelsene i [folketrygdloven § 7-2](lov/1997-02-28-19/§7-2) anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom trygdetiden i Norge utgjør mer enn 40 år, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.
-2. I forhold til beregning av tilleggspensjon gjelder følgende definisjoner:Med *opptjeningstid* menes år da det er opptjent pensjonspoeng i folketrygden og videre perioder i andre EØS-land da vedkommende har vært yrkesaktiv og omfattet av vedkommende lands trygdeordning. Som opptjeningstid regnes bare tidsrom etter fylte 16 år.Med *forholdstallet* menes den brøk som framkommer når antall år da det er godskrevet pensjonspoeng etter folketrygdloven anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidsspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom antall år med pensjonspoeng utgjør mer enn 40, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.
+1. I forhold til beregning av grunnpensjon etter folketrygdloven og særtillegg etter særtilleggsloven gjelder følgende definisjoner:
+
+   Med *opptjeningstid* menes alle perioder som medfører opptjening av rett til pensjon etter folketrygdloven eller etter lovgivinga i det land der de er tilbakelagt, men begrenset til tidsrom etter fylte 16 år.
+
+   Med *forholdstallet* menes den brøk som framkommer når en persons samlede trygdetid i Norge fastsatt etter bestemmelsene i [folketrygdloven § 7-2](lov/1997-02-28-19/§7-2) anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom trygdetiden i Norge utgjør mer enn 40 år, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.
+2. I forhold til beregning av tilleggspensjon gjelder følgende definisjoner:
+
+   Med *opptjeningstid* menes år da det er opptjent pensjonspoeng i folketrygden og videre perioder i andre EØS-land da vedkommende har vært yrkesaktiv og omfattet av vedkommende lands trygdeordning. Som opptjeningstid regnes bare tidsrom etter fylte 16 år.
+
+   Med *forholdstallet* menes den brøk som framkommer når antall år da det er godskrevet pensjonspoeng etter folketrygdloven anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidsspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom antall år med pensjonspoeng utgjør mer enn 40, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.
 3. Med *pensjon* menes i forskriften her alderspensjon, etterlattepensjon, uførepensjon og attføringspenger etter folketrygdloven uten eventuelle forsørgingstillegg. Uttrykket omfatter videre tilsvarende ytelser fra andre EØS-land med eventuelle forsørgingstillegg.
 
 ## II. Beregning av pensjon fra folketrygden etter koordineringsreglene i EØS-avtalen.
@@ -66,13 +74,19 @@ Fribeløpet skal svare til fribeløpet etter folketrygdloven § 7-8A uten reduks
 
 ### § 8. Inntektsgrunnlaget
 
-Inntektsgrunnlaget fastsettes etter bestemmelsene i folketrygdloven § 7-8A, men med følgende særregler:Grunnpensjon, tilleggspensjon og/eller særtillegg inngår i inntektsgrunnlaget med de beløp som framkommer når disse pensjonsdeler fastsettes etter bestemmelsene i [§ 5](forskrift/1993-12-23-1251/§5).Øvrige inntekter som skal tas med, inngår i inntektsgrunnlaget med et beløp svarende til summen av slike inntekter ganget med forholdstallet for grunnpensjon.
+Inntektsgrunnlaget fastsettes etter bestemmelsene i folketrygdloven § 7-8A, men med følgende særregler:
+
+1. Grunnpensjon, tilleggspensjon og/eller særtillegg inngår i inntektsgrunnlaget med de beløp som framkommer når disse pensjonsdeler fastsettes etter bestemmelsene i [§ 5](forskrift/1993-12-23-1251/§5).
+2. Øvrige inntekter som skal tas med, inngår i inntektsgrunnlaget med et beløp svarende til summen av slike inntekter ganget med forholdstallet for grunnpensjon.
 
 ## IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner.
 
 ### § 9. Tilståelse av barnetillegg
 
-Barnetillegg etter folketrygdloven §§ 7-8 og 8-8, jfr [§ 5-5](lov/1997-02-28-19/§5-5), ytesdersom pensjonisten er bosatt i riketdersom pensjonisten er bosatt i et annet EØS-land uten å ha rett til pensjon der, og pensjonisten har vært penjonstrygdet etter folketrygdloven (jfr § 1-5 i loven) i lengre tid enn han eller hun har vært omfattet av trygdelovgivninga i noe annet EØS-land. Dersom trygdeperiodene er like lange, skal Norge yte barnetillegget dersom vedkommende sist var medlem av folketrygden.
+Barnetillegg etter folketrygdloven §§ 7-8 og 8-8, jfr [§ 5-5](lov/1997-02-28-19/§5-5), ytes
+
+1. dersom pensjonisten er bosatt i riket
+2. dersom pensjonisten er bosatt i et annet EØS-land uten å ha rett til pensjon der, og pensjonisten har vært penjonstrygdet etter folketrygdloven (jfr § 1-5 i loven) i lengre tid enn han eller hun har vært omfattet av trygdelovgivninga i noe annet EØS-land. Dersom trygdeperiodene er like lange, skal Norge yte barnetillegget dersom vedkommende sist var medlem av folketrygden.
 
 ### § 10. Beregning av barnetillegg
 
@@ -98,7 +112,10 @@ Retten til barnetillegg eller barnepensjon etter [§§ 9](forskrift/1993-12-23-1
 
 ### § 14. Pensjonen
 
-Ved prøving mot arbeidsinntekt etter folketrygdloven §§ 7-10 eller 10-5 nr. 3 skjer prøvingamot pensjon fastsatt etter de vanlige bestemmelser i folketrygdloven og særtilleggsloven dersom pensjonisten fyller alle vilkår for pensjon etter folketrygdlovenmot pensjon fastsatt etter bestemmelsene i [§ 5](forskrift/1993-12-23-1251/§5) dersom pensjonisten ikke fyller vilkåret i § 7-2, jfr §§ 10-5 nr. 2 og 8-4, om minst 3 års trygdetid eller vilkåret i § 10-1 nr. 1 første ledd bokstav b eller nr. 3 om forutgående medlemskap i folketrygden.
+Ved prøving mot arbeidsinntekt etter folketrygdloven §§ 7-10 eller 10-5 nr. 3 skjer prøvinga
+
+- mot pensjon fastsatt etter de vanlige bestemmelser i folketrygdloven og særtilleggsloven dersom pensjonisten fyller alle vilkår for pensjon etter folketrygdloven
+- mot pensjon fastsatt etter bestemmelsene i [§ 5](forskrift/1993-12-23-1251/§5) dersom pensjonisten ikke fyller vilkåret i § 7-2, jfr §§ 10-5 nr. 2 og 8-4, om minst 3 års trygdetid eller vilkåret i § 10-1 nr. 1 første ledd bokstav b eller nr. 3 om forutgående medlemskap i folketrygden.
 
 ### § 15. Fribeløpet
 

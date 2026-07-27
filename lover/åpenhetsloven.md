@@ -15,7 +15,7 @@ xml_hash: "c1c130268201d3aa8d625b0b3d4017ebe1eb54c4819948af53b87d13ffa3ec2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for virksomhet
 
 ## § 3. Definisjoner
 
-1. Med større virksomheter menes virksomheter som er foretak av allmenn interesse etter [regnskapsloven § 1-6](lov/1998-07-17-56/§1-6), eller som på balansedagen overskrider minst to av følgende tre terskler:salgsinntekt: 70 millioner kronerbalansesum: 35 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk.Morselskaper skal regnes som større virksomheter dersom vilkårene er oppfylt for mor- og datterselskaper sett som en enhet. Når et foretak på balansedagen overskrider eller ikke lenger overskrider grensene for minst to av de tre tersklene for balansesum, salgsinntekter og gjennomsnittlig antall ansatte, skal dette forholdet få virkning for om et foretak regnes som en større virksomhet først for det andre av to regnskapsår etter hverandre hvor forholdet har inntruffet.
+1. Med større virksomheter menes virksomheter som er foretak av allmenn interesse etter [regnskapsloven § 1-6](lov/1998-07-17-56/§1-6), eller som på balansedagen overskrider minst to av følgende tre terskler:
+
+   1. salgsinntekt: 70 millioner kroner
+   2. balansesum: 35 millioner kroner
+   3. gjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk.
+
+   Morselskaper skal regnes som større virksomheter dersom vilkårene er oppfylt for mor- og datterselskaper sett som en enhet. Når et foretak på balansedagen overskrider eller ikke lenger overskrider grensene for minst to av de tre tersklene for balansesum, salgsinntekter og gjennomsnittlig antall ansatte, skal dette forholdet få virkning for om et foretak regnes som en større virksomhet først for det andre av to regnskapsår etter hverandre hvor forholdet har inntruffet.
 2. Med grunnleggende menneskerettigheter menes de internasjonalt anerkjente menneskerettighetene som følger av blant annet FNs [konvensjon om økonomiske, sosiale og kulturelle rettigheter](lov/1999-05-21-30/oskn) fra 1966, FNs [konvensjon om sivile og politiske rettigheter](lov/1999-05-21-30/spn) fra 1966 og ILOs kjernekonvensjoner om grunnleggende rettigheter og prinsipper i arbeidslivet.
 3. Med anstendige arbeidsforhold menes arbeid som ivaretar grunnleggende menneskerettigheter etter bokstav b og helse, miljø og sikkerhet på arbeidsplassen, og som gir en lønn å leve av.
 4. Med leverandørkjede menes enhver i kjeden av leverandører og underleverandører som leverer eller produserer varer, tjenester eller andre innsatsfaktorer som inngår i en virksomhets levering av tjenester eller produksjon av varer fra råvarestadiet til ferdig produkt.
@@ -46,7 +52,14 @@ Departementet kan gi forskrift om hva som anses som grunnleggende menneskerettig
 
 ## § 4. Plikt til å utføre aktsomhetsvurderinger
 
-Virksomhetene skal utføre aktsomhetsvurderinger i tråd med OECDs retningslinjer for flernasjonale selskaper. Med aktsomhetsvurderinger menes åforankre ansvarlighet i virksomhetens retningslinjerkartlegge og vurdere faktiske og potensielle negative konsekvenser for grunnleggende menneskerettigheter og anstendige arbeidsforhold som virksomheten enten har forårsaket eller bidratt til, eller som er direkte knyttet til virksomhetens forretningsvirksomhet, produkter eller tjenester gjennom leverandørkjeder eller forretningspartnereiverksette egnede tiltak for å stanse, forebygge eller begrense negative konsekvenser basert på virksomhetens prioriteringer og vurderinger etter bokstav bfølge med på gjennomføring og resultater av tiltak etter bokstav ckommunisere med berørte interessenter og rettighetshavere om hvordan negative konsekvenser er håndtert etter bokstav c og dsørge for eller samarbeide om gjenoppretting og erstatning der dette er påkrevd.
+Virksomhetene skal utføre aktsomhetsvurderinger i tråd med OECDs retningslinjer for flernasjonale selskaper. Med aktsomhetsvurderinger menes å
+
+1. forankre ansvarlighet i virksomhetens retningslinjer
+2. kartlegge og vurdere faktiske og potensielle negative konsekvenser for grunnleggende menneskerettigheter og anstendige arbeidsforhold som virksomheten enten har forårsaket eller bidratt til, eller som er direkte knyttet til virksomhetens forretningsvirksomhet, produkter eller tjenester gjennom leverandørkjeder eller forretningspartnere
+3. iverksette egnede tiltak for å stanse, forebygge eller begrense negative konsekvenser basert på virksomhetens prioriteringer og vurderinger etter bokstav b
+4. følge med på gjennomføring og resultater av tiltak etter bokstav c
+5. kommunisere med berørte interessenter og rettighetshavere om hvordan negative konsekvenser er håndtert etter bokstav c og d
+6. sørge for eller samarbeide om gjenoppretting og erstatning der dette er påkrevd.
 
 Aktsomhetsvurderingene skal utføres regelmessig og stå i forhold til virksomhetens størrelse, virksomhetens art, konteksten virksomheten finner sted innenfor, og alvorlighetsgraden av og sannsynligheten for negative konsekvenser for grunnleggende menneskerettigheter og anstendige arbeidsforhold.
 
@@ -54,7 +67,11 @@ Departementet kan gi forskrift om plikten til å utføre aktsomhetsvurderinger.
 
 ## § 5. Plikt til å redegjøre for aktsomhetsvurderinger
 
-Virksomhetene skal offentliggjøre en redegjørelse for aktsomhetsvurderingene etter [§ 4](lov/2021-06-18-99/§4). Redegjørelsen skal minst inneholdeen generell beskrivelse av virksomhetens organisering, driftsområde, retningslinjer og rutiner for å håndtere faktiske og potensielle negative konsekvenser for grunnleggende menneskerettigheter og anstendige arbeidsforholdopplysninger om faktiske negative konsekvenser og vesentlig risiko for negative konsekvenser som virksomheten har avdekket gjennom sine aktsomhetsvurderingeropplysninger om tiltak som virksomheten har iverksatt eller planlegger å iverksette for å stanse faktiske negative konsekvenser eller begrense vesentlig risiko for negative konsekvenser, og resultatet eller forventede resultater av disse tiltakene.
+Virksomhetene skal offentliggjøre en redegjørelse for aktsomhetsvurderingene etter [§ 4](lov/2021-06-18-99/§4). Redegjørelsen skal minst inneholde
+
+1. en generell beskrivelse av virksomhetens organisering, driftsområde, retningslinjer og rutiner for å håndtere faktiske og potensielle negative konsekvenser for grunnleggende menneskerettigheter og anstendige arbeidsforhold
+2. opplysninger om faktiske negative konsekvenser og vesentlig risiko for negative konsekvenser som virksomheten har avdekket gjennom sine aktsomhetsvurderinger
+3. opplysninger om tiltak som virksomheten har iverksatt eller planlegger å iverksette for å stanse faktiske negative konsekvenser eller begrense vesentlig risiko for negative konsekvenser, og resultatet eller forventede resultater av disse tiltakene.
 
 [§ 6](lov/2021-06-18-99/§6) annet ledd bokstav c og d, tredje og fjerde ledd gjelder tilsvarende for pliktene etter første ledd.
 
@@ -70,7 +87,12 @@ Departementet kan gi forskrift om plikten til å redegjøre for aktsomhetsvurder
 
 Enhver har ved skriftlig forespørsel rett på informasjon fra en virksomhet om hvordan virksomheten håndterer faktiske og potensielle negative konsekvenser etter [§ 4](lov/2021-06-18-99/§4). Dette omfatter både generell informasjon og informasjon knyttet til en særskilt vare eller tjeneste som virksomheten tilbyr.
 
-Et krav om informasjon kan avslås dersomkravet ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelderkravet er åpenbart urimeligden etterspurte informasjonen gjelder opplysninger om noens personlige forholdden etterspurte informasjonen gjelder opplysninger om tekniske innretninger og fremgangsmåter eller andre drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den opplysningene angår.
+Et krav om informasjon kan avslås dersom
+
+1. kravet ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder
+2. kravet er åpenbart urimelig
+3. den etterspurte informasjonen gjelder opplysninger om noens personlige forhold
+4. den etterspurte informasjonen gjelder opplysninger om tekniske innretninger og fremgangsmåter eller andre drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den opplysningene angår.
 
 Retten til informasjon om faktiske negative konsekvenser for grunnleggende menneskerettigheter som virksomheten er kjent med, gjelder uavhengig av begrensningene i annet ledd.
 
@@ -112,7 +134,13 @@ Opplysningsplikten etter første ledd gjelder uavhengig av taushetsplikt. Dette 
 
 ## § 11. Forbrukertilsynets og Markedsrådets vedtak
 
-Forbrukertilsynet og Markedsrådet kan, dersom de finner at inngrep tilsies av hensyn som nevnt i [§ 9](lov/2021-06-18-99/§9) første ledd annet punktum, fatte enkeltvedtak om:forbud eller påbud etter [§ 12](lov/2021-06-18-99/§12)tvangsmulkt etter [§ 13](lov/2021-06-18-99/§13)overtredelsesgebyr etter [§ 14](lov/2021-06-18-99/§14).Et vedtak etter bokstav a og b gjelder i fem år dersom ikke annet fremgår av vedtaket. Vedtaket kan maksimalt gjelde i ti år. Vedtaket kan fornyes.
+Forbrukertilsynet og Markedsrådet kan, dersom de finner at inngrep tilsies av hensyn som nevnt i [§ 9](lov/2021-06-18-99/§9) første ledd annet punktum, fatte enkeltvedtak om:
+
+1. forbud eller påbud etter [§ 12](lov/2021-06-18-99/§12)
+2. tvangsmulkt etter [§ 13](lov/2021-06-18-99/§13)
+3. overtredelsesgebyr etter [§ 14](lov/2021-06-18-99/§14).
+
+Et vedtak etter bokstav a og b gjelder i fem år dersom ikke annet fremgår av vedtaket. Vedtaket kan maksimalt gjelde i ti år. Vedtaket kan fornyes.
 
 Vedtak etter første ledd kan også rettes mot medvirkere.
 

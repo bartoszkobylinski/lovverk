@@ -15,7 +15,7 @@ xml_hash: "d0d0af9f720b21a7b100c6af66b436018ed0624368ecf606d82468d75608a32b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Kartet og fredningsforskriften oppbevares hos Sysselmesteren på Svalbard, i Mil
 
 ## § 3. Formål
 
-Formålet med fredningen er å bevare et stort, sammenhengende og i det vesentligste urørt arktisk fjord- og dallandskap med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap og kulturminner som område for forskning og for opplevelse av Svalbards natur- og kulturarv, herunder spesielt sikre:store arealer med sammenhengende vegetasjon med innslag av sårbare plantearterstore våtmarksområder; viktige hekke-, nærings- og myteområder for fuglrike fugleliv (gjess, vadefugl og sjøfugl)velutviklete og interessante geologiske og kvartærgeologiske formasjoner og forekomsterverdifulle kulturminnerden karakteristiske og kjente fjellformasjonen Templet.
+Formålet med fredningen er å bevare et stort, sammenhengende og i det vesentligste urørt arktisk fjord- og dallandskap med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap og kulturminner som område for forskning og for opplevelse av Svalbards natur- og kulturarv, herunder spesielt sikre:
+
+- store arealer med sammenhengende vegetasjon med innslag av sårbare plantearter
+- store våtmarksområder; viktige hekke-, nærings- og myteområder for fugl
+- rike fugleliv (gjess, vadefugl og sjøfugl)
+- velutviklete og interessante geologiske og kvartærgeologiske formasjoner og forekomster
+- verdifulle kulturminner
+- den karakteristiske og kjente fjellformasjonen Templet.
 
 > Endret ved [forskrift 4 april 2014 nr. 378](forskrift/2014-04-04-378) (i kraft 1 mai 2014).
 
@@ -54,7 +61,9 @@ Det må ikke iverksettes virksomhet som varig kan påvirke landskap eller naturm
 
 1.2
 
-Bestemmelse i pkt. 1.1 er ikke til hinder for;bruk av tillatte fiske- og fangstredskaper.
+Bestemmelse i pkt. 1.1 er ikke til hinder for;
+
+- bruk av tillatte fiske- og fangstredskaper.
 
 2.*Planter og dyr*
 
@@ -74,7 +83,10 @@ Kulturminnene i området reguleres av [svalbardmiljølovens kapittel V](lov/2001
 
 All ferdsel skal foregå på en måte som ikke skader eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv.
 
-Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;dyrelivet for å unngå unødige forstyrrelser ogfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;
+
+- dyrelivet for å unngå unødige forstyrrelser og
+- fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 4.2
 
@@ -122,13 +134,22 @@ Det er forbudt å bruke ubemannede fartøy (droner) og andre fjernstyrte eller a
 
 ## § 5. Generelt unntak
 
-Bestemmelsene i [§ 4](forskrift/2003-09-26-1189/§4) er ikke til hinder for;utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
+Bestemmelsene i [§ 4](forskrift/2003-09-26-1189/§4) er ikke til hinder for;
+
+- utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
 
 > Endret ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 
 ## § 6. Dispensasjoner/tillatelser
 
-Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;ombygging og mindre tilbygg til eksisterende bygningergjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofetiltak som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) pkt. 1 i forbindelse med etablering og drift av fangststasjonerlanding med luftfartøy i forbindelse med tilsyn, vedlikehold og drift av fyrlykter og andre offentlige navigasjonsmidlerbruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
+Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;
+
+- ombygging og mindre tilbygg til eksisterende bygninger
+- gjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofe
+- tiltak som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) pkt. 1 i forbindelse med etablering og drift av fangststasjoner
+- landing med luftfartøy i forbindelse med tilsyn, vedlikehold og drift av fyrlykter og andre offentlige navigasjonsmidler
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1189/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
 
 Utover tiltak som nevnt i første ledd kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i [§ 4](forskrift/2003-09-26-1189/§4), når vitenskapelige eller særlige grunner for øvrig taler for det.
 

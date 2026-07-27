@@ -15,7 +15,7 @@ xml_hash: "d2667b4efc5bbf7c55ce09cc06cb5e515b2a9b2a8b76959e507d785212779729"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,10 @@ Kartet og fredningsforskriften oppbevares hos Sysselmesteren på Svalbard, i Mil
 
 ## § 3. Formål
 
-Formålet med fredningen er å bevare et stort, sammenhengende og i det vesentligste urørt arktisk fjordlandskap med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap og kulturminner som område for forskning og for opplevelse av Svalbards natur- og kulturarv, herunder spesielt sikre:arealer med særegen og sjelden vegetasjon (høgarktisk steppevegetasjon) og med flere sjeldne plantearterde indre delene av Wijdefjorden; en terskelfjord med et særegent og vitenskapelig interessant kaldtvannsbasseng.
+Formålet med fredningen er å bevare et stort, sammenhengende og i det vesentligste urørt arktisk fjordlandskap med intakte naturtyper, økosystemer, arter, naturlige økologiske prosesser, landskap og kulturminner som område for forskning og for opplevelse av Svalbards natur- og kulturarv, herunder spesielt sikre:
+
+- arealer med særegen og sjelden vegetasjon (høgarktisk steppevegetasjon) og med flere sjeldne plantearter
+- de indre delene av Wijdefjorden; en terskelfjord med et særegent og vitenskapelig interessant kaldtvannsbasseng.
 
 > Endret ved [forskrift 4 april 2014 nr. 378](forskrift/2014-04-04-378) (i kraft 1 mai 2014).
 
@@ -54,7 +57,9 @@ Det må ikke iverksettes virksomhet som varig kan påvirke landskap eller naturm
 
 1.2
 
-Bestemmelsen i pkt. 1.1 er ikke til hinder for;fiske og fangst etter saltvannsfiskelovens bestemmelser.
+Bestemmelsen i pkt. 1.1 er ikke til hinder for;
+
+- fiske og fangst etter saltvannsfiskelovens bestemmelser.
 
 *2.**Planter og dyr*
 
@@ -82,7 +87,10 @@ Kulturminnene i området reguleres av [svalbardmiljølovens kapittel V](lov/2001
 
 All ferdsel skal foregå på en måte som ikke skader eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv.
 
-Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;dyrelivet for å unngå unødige forstyrrelserfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;
+
+- dyrelivet for å unngå unødige forstyrrelser
+- fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 Bruk av sykkel er bare tillatt på frossen og snødekt mark.
 
@@ -134,13 +142,21 @@ Det er forbudt å bruke ubemannede fartøy (droner) og andre fjernstyrte eller a
 
 ## § 5. Generelt unntak
 
-Bestemmelsene i [§ 4](forskrift/2005-09-09-1046/§4) er ikke til hinder for;utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
+Bestemmelsene i [§ 4](forskrift/2005-09-09-1046/§4) er ikke til hinder for;
+
+- utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
 
 > Endret ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 
 ## § 6. Dispensasjoner/tillatelser
 
-Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;ombygging og mindre tilbygg til eksisterende bygningergjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofetiltak som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) pkt. 1 i forbindelse med etablering og drift av fangststasjonerbruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
+Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;
+
+- ombygging og mindre tilbygg til eksisterende bygninger
+- gjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofe
+- tiltak som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) pkt. 1 i forbindelse med etablering og drift av fangststasjoner
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2005-09-09-1046/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
 
 Utover tiltak som nevnt i første ledd kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i [§ 4](forskrift/2005-09-09-1046/§4), når vitenskapelige eller særlige grunner for øvrig taler for det.
 

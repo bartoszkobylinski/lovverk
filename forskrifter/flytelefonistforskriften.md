@@ -15,7 +15,7 @@ xml_hash: "f9f84cbf901b7c7a36b05a982574a9421dcd3296beaab3131bb275d13c8461f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,23 @@ Kravet til kunnskapsnivå er gradert med betegnelsene *«kunnskap»* eller *«kj
 
 Søker skal ha gjennomgått praktisk utdanning i flytelefoni og bestått prøve godkjent av Luftfartstilsynet.
 
-Prøven skal inneholde elementeneApparatbehandlingBruk og behandling av mikrofon, høretelefoner eventuelt høyttaler, volumkontroll, frekvensvelger, kanalvelger m.m.Betjening av VHF radiostasjoner i luftfartøyBruk av nødradioutstyr.RadiokommunikasjonFonetisk alfabet og siffergrupperOpprettelse av radiosambandTesting av radiotelefonistasjonerRadioprosedyrer og fraseologi for VFR-flygingAnmodning om og mottaking av vanlige meldinger, klareringer, værrapporter, banestatus, trafikkopplysninger og lignendeAnmodninger om peilingerNød- og ilmeldingerUtveksling av øvrige meldinger.
+Prøven skal inneholde elementene
+
+1. Apparatbehandling
+
+   1. Bruk og behandling av mikrofon, høretelefoner eventuelt høyttaler, volumkontroll, frekvensvelger, kanalvelger m.m.
+   2. Betjening av VHF radiostasjoner i luftfartøy
+   3. Bruk av nødradioutstyr.
+2. Radiokommunikasjon
+
+   1. Fonetisk alfabet og siffergrupper
+   2. Opprettelse av radiosamband
+   3. Testing av radiotelefonistasjoner
+   4. Radioprosedyrer og fraseologi for VFR-flyging
+   5. Anmodning om og mottaking av vanlige meldinger, klareringer, værrapporter, banestatus, trafikkopplysninger og lignende
+   6. Anmodninger om peilinger
+   7. Nød- og ilmeldinger
+   8. Utveksling av øvrige meldinger.
 
 ## § 4. Språkpåtegning
 
@@ -52,7 +68,13 @@ For å bestå prøven kreves det at søker oppnår ferdighetsnivå fire, fem ell
 
 ## § 6. Språkferdighetsprøvens innhold
 
-Prøven skal teste kandidatens evner til åkommunisere på en effektiv måte i rene muntlige situasjoner, ansikt til ansikt og ved bruk av radio,kommunisere om alminnelige, konkrete og arbeidsrelaterte emner på en nøyaktig og tydelig måte,anvende hensiktsmessige kommunikasjonsstrategier for å utveksle meldinger og gjenkjenne og oppklare misforståelser, deriblant kontrollere, bekrefte eller presisere opplysninger i en alminnelig eller arbeidsrelatert situasjon,kunne relativt lett løse språklige utfordringer i forbindelse med at komplikasjoner eller uforutsette hendelser oppstår i forbindelse med en rutinemessig arbeidssituasjon, eller en kommunikasjonsoppgave som de ellers er fortrolige med,benytte en dialekt eller en aksent som er forståelig innenfor luftfartsmiljøet.
+Prøven skal teste kandidatens evner til å
+
+1. kommunisere på en effektiv måte i rene muntlige situasjoner, ansikt til ansikt og ved bruk av radio,
+2. kommunisere om alminnelige, konkrete og arbeidsrelaterte emner på en nøyaktig og tydelig måte,
+3. anvende hensiktsmessige kommunikasjonsstrategier for å utveksle meldinger og gjenkjenne og oppklare misforståelser, deriblant kontrollere, bekrefte eller presisere opplysninger i en alminnelig eller arbeidsrelatert situasjon,
+4. kunne relativt lett løse språklige utfordringer i forbindelse med at komplikasjoner eller uforutsette hendelser oppstår i forbindelse med en rutinemessig arbeidssituasjon, eller en kommunikasjonsoppgave som de ellers er fortrolige med,
+5. benytte en dialekt eller en aksent som er forståelig innenfor luftfartsmiljøet.
 
 ## § 7. Gjennomføring av prøve i språkferdigheter
 
@@ -62,11 +84,20 @@ Prøven skal avlegges for kontrollant eller organisasjon for språktesting godkj
 
 ## § 8. Språkpåtegningens gyldighetstid
 
-Språkferdighet angis etter en skala på seks ferdighetsnivåer. Språkferdighet på nivå 1 til 3 medfører ikke bestått, og påtegnes ikke sertifikatet eller tilsvarende rettighet. Språkferdighet på nivå 4 til 6 gir språkpåtegning dernivå 4 er gyldig i tre år,nivå 5 er gyldig i seks år,nivå 6 er gyldig på ubestemt tid.
+Språkferdighet angis etter en skala på seks ferdighetsnivåer. Språkferdighet på nivå 1 til 3 medfører ikke bestått, og påtegnes ikke sertifikatet eller tilsvarende rettighet. Språkferdighet på nivå 4 til 6 gir språkpåtegning der
+
+1. nivå 4 er gyldig i tre år,
+2. nivå 5 er gyldig i seks år,
+3. nivå 6 er gyldig på ubestemt tid.
 
 ## § 9. Godkjenning av organisasjoner for språktesting
 
-Søknad om tillatelse til å utøve språktestvirksomhet skal være vedlagt en håndbok som beskriver virksomhetensnavn, adresse og hvem som er ansvarlig for virksomheten,organisasjon, herunder forventet antall språkkontrollanter,detaljert beskrivelse av språkferdighetsprøvens innhold og metode for gjennomføring,program for standardisering og kvalitetssikring.
+Søknad om tillatelse til å utøve språktestvirksomhet skal være vedlagt en håndbok som beskriver virksomhetens
+
+1. navn, adresse og hvem som er ansvarlig for virksomheten,
+2. organisasjon, herunder forventet antall språkkontrollanter,
+3. detaljert beskrivelse av språkferdighetsprøvens innhold og metode for gjennomføring,
+4. program for standardisering og kvalitetssikring.
 
 Håndboken skal godkjennes av Luftfartstilsynet.
 

@@ -15,7 +15,7 @@ xml_hash: "dea8213c025939d4e3486f248936a5f93e6ff1878344c7eaf7112c7cd90e9bca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,9 @@ eu_basis: []
 
 (2) Forskriften gjelder for opptak, studier og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har eller har hatt studierett og status som student ved fagskolen.
 
-1 [Lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleutdanning.2 [Forskrift 17. mars 2017 nr. 334](forskrift/2017-03-17-334) om fagskoleutdanning.
+1 [Lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleutdanning.
+
+2 [Forskrift 17. mars 2017 nr. 334](forskrift/2017-03-17-334) om fagskoleutdanning.
 
 ### § 1-2. Definisjoner
 
@@ -56,7 +58,10 @@ eu_basis: []
 
 (2) Søkere som ikke oppfyller det formelle opptakskravet i første ledd, og som har fylt 23 år på søknadstidspunktet, kan søke opptak på grunnlag av realkompetanse. Søkerens realkompetanse er den kompetansen søkeren har opparbeidet seg gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter eller på annen måte. Realkompetansen vurderes av studieleder opp mot de formelle kompetansekravene i første ledd. Søkeren må kunne dokumentere relevant yrkeserfaring tilsvarende minst fem årsverk. Som relevant yrkeserfaring regnes arbeid med målgruppen i hjemmebaserte tjenester, i sykehjem, innen boligvirksomhet, på dagsenter eller i andre offentlige eller private virksomheter, samt frivillig arbeid for og sammen med målgruppen, pårørendearbeid, organisasjonsarbeid, arbeid som støttekontakt, og lignende. I tillegg må søkeren dokumentere relevant opplæring tilsvarende læreplanene for VG 3 i yrkesfaglige opplæringsprogram som oppfyller det formelle kriteriet etter første ledd, tilsvarende nivå 4 i Nasjonalt rammeverk for livslang læring. Vedtak vedrørende realkompetanse er et enkeltvedtak som kan påklages til lokal klagenemnd etter bestemmelsene i denne forskriftens [kapittel 6](forskrift/2017-05-22-661/kap6). Klagen sendes til fagskolens administrasjon.
 
-(3) Det er en forutsetning for opptak at søkeren forstår norsk og kan kommunisere tilfredsstillende på norsk. Søkere med annet morsmål enn norsk, eller som ikke har bestått videregående opplæring i faget norsk på det nivå som kreves etter første ledd, må dokumentere tilfredsstillende språkkunnskaper ved å fremlegge:bestått test i norsk – høyere nivå («Bergenstesten») elleravsluttende prøve i norsk (norskprøven) med resultat B2 eller høyere på alle vurderinger, jf. [forskrift 20. april 2005 nr. 341](forskrift/2005-04-20-341) om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere [§ 26](forskrift/2005-04-20-341/§26).
+(3) Det er en forutsetning for opptak at søkeren forstår norsk og kan kommunisere tilfredsstillende på norsk. Søkere med annet morsmål enn norsk, eller som ikke har bestått videregående opplæring i faget norsk på det nivå som kreves etter første ledd, må dokumentere tilfredsstillende språkkunnskaper ved å fremlegge:
+
+1. bestått test i norsk – høyere nivå («Bergenstesten») eller
+2. avsluttende prøve i norsk (norskprøven) med resultat B2 eller høyere på alle vurderinger, jf. [forskrift 20. april 2005 nr. 341](forskrift/2005-04-20-341) om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere [§ 26](forskrift/2005-04-20-341/§26).
 
 (4) Dokumentasjon for den opplæring og/eller eventuell yrkeserfaring som danner grunnlag for opptaket, jf. første og annet ledd, samt eventuell dokumentasjon for språkferdigheter som er påkrevet etter tredje ledd, skal vedlegges søknaden.
 

@@ -15,7 +15,7 @@ xml_hash: "268e38cb0bec16f23962e2151e4776655d22af443d246f39065e6d3395f2b12f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32001L0095"
@@ -25,7 +25,11 @@ eu_basis:
 
 ## § 1. Lovens formål
 
-Denne lov har til formål å:forebygge at produkter og forbrukertjenester medfører helseskade, herunder sørge for at forbrukerprodukter og forbrukertjenester er sikre,forebygge at produkter medfører miljøforstyrrelse, bl.a. i form av forstyrrelse av økosystemer, forurensning, avfall, støy og lignende,forebygge miljøforstyrrelse ved å fremme effektiv bruk av energi i produkter.
+Denne lov har til formål å:
+
+1. forebygge at produkter og forbrukertjenester medfører helseskade, herunder sørge for at forbrukerprodukter og forbrukertjenester er sikre,
+2. forebygge at produkter medfører miljøforstyrrelse, bl.a. i form av forstyrrelse av økosystemer, forurensning, avfall, støy og lignende,
+3. forebygge miljøforstyrrelse ved å fremme effektiv bruk av energi i produkter.
 
 > Endret ved [lover 2 apr 1993 nr. 38](lov/1993-04-02-38), [11 juni 1993 nr. 68](lov/1993-06-11-68), [25 juni 1999 nr. 53](lov/1999-06-25-53), [29 apr 2005 nr. 23](lov/2005-04-29-23) (ikr. 1 mai 2005 iflg. [res. 29 apr 2005 nr. 396](forskrift/2005-04-29-396)).
 
@@ -81,7 +85,13 @@ Virksomhet som bruker produkt med innhold av kjemisk stoff som kan medføre virk
 
 Dersom annet ikke følger av fjerde ledd, skal forbrukerprodukter anses å være sikre, jf. [§ 2 a](lov/1976-06-11-79/§2a) fjerde ledd, når de er i overensstemmelse med nasjonal standard som oppfyller kravene i harmonisert standard.
 
-Dersom harmonisert standard som nevnt i første ledd ikke foreligger, eller der denne ikke er dekkende for det aktuelle produkt, skal produktets sikkerhet vurderes ved særlig å ta hensyn til:Nasjonale standarder som ikke er nevnt i første ledd.Kommisjonsrekommandasjoner som angir retningslinjer for produktsikkerhetsvurderingen.Regler for god praksis for produktsikkerhet som gjelder på det aktuelle området.Det gjeldende tekniske utviklingsnivå.Det sikkerhetsnivå som med rimelighet kan forventes av brukeren.
+Dersom harmonisert standard som nevnt i første ledd ikke foreligger, eller der denne ikke er dekkende for det aktuelle produkt, skal produktets sikkerhet vurderes ved særlig å ta hensyn til:
+
+1. Nasjonale standarder som ikke er nevnt i første ledd.
+2. Kommisjonsrekommandasjoner som angir retningslinjer for produktsikkerhetsvurderingen.
+3. Regler for god praksis for produktsikkerhet som gjelder på det aktuelle området.
+4. Det gjeldende tekniske utviklingsnivå.
+5. Det sikkerhetsnivå som med rimelighet kan forventes av brukeren.
 
 Første og annet ledd gjelder tilsvarende ved vurdering av om forbrukertjenester anses å være sikre, jf. [§ 2 a](lov/1976-06-11-79/§2a) sjette ledd.
 
@@ -91,9 +101,21 @@ Bestemmelsene i denne paragraf er ikke til hinder for at det fattes vedtak etter
 
 ## § 4. Myndighet for Kongen.
 
-Når det finnes påkrevet for å forebygge at produkt medfører virkning som nevnt i [§ 1](lov/1976-06-11-79/§1), kan Kongen treffe vedtak om:produksjon, innførsel, omsetning, merking, bruk og annen behandling av produkt,retur- og panteordninger, gjenvinning og avfallsbehandling m.v. av produkt,hvordan produkt skal være innrettet eller sammensatt, og maksimalgrenser for støy og utslipp av forurensende stoffer fra produkt,at produkt ikke kan produseres, innføres eller omsettes uten godkjenning,forbud mot produksjon, innførsel, omsetning og bruk av produkt.
+Når det finnes påkrevet for å forebygge at produkt medfører virkning som nevnt i [§ 1](lov/1976-06-11-79/§1), kan Kongen treffe vedtak om:
 
-Når det finnes påkrevet for å forebygge at forbrukertjeneste medfører helseskade, kan Kongen treffe vedtak om:offentliggjøring av advarsels- eller sikkerhetsinformasjonkrav til kvalifikasjoner hos den som utfører arbeid knyttet til forbrukertjenestenkrav til driftenat forbrukertjeneste ikke kan tilbys uten godkjenningforbud mot å tilby forbrukertjenesten
+1. produksjon, innførsel, omsetning, merking, bruk og annen behandling av produkt,
+2. retur- og panteordninger, gjenvinning og avfallsbehandling m.v. av produkt,
+3. hvordan produkt skal være innrettet eller sammensatt, og maksimalgrenser for støy og utslipp av forurensende stoffer fra produkt,
+4. at produkt ikke kan produseres, innføres eller omsettes uten godkjenning,
+5. forbud mot produksjon, innførsel, omsetning og bruk av produkt.
+
+Når det finnes påkrevet for å forebygge at forbrukertjeneste medfører helseskade, kan Kongen treffe vedtak om:
+
+1. offentliggjøring av advarsels- eller sikkerhetsinformasjon
+2. krav til kvalifikasjoner hos den som utfører arbeid knyttet til forbrukertjenesten
+3. krav til driften
+4. at forbrukertjeneste ikke kan tilbys uten godkjenning
+5. forbud mot å tilby forbrukertjenesten
 
 Vedtak i medhold av første og annet ledd skal i alminnelighet treffes ved forskrift og gjelde produkter eller forbrukertjenester av en viss art. Det kan fastsettes at de bare skal gjelde for visse geografiske områder.
 
@@ -101,7 +123,13 @@ Vedtak i medhold av første og annet ledd skal i alminnelighet treffes ved forsk
 
 ## § 4a. Energieffektivitetskrav
 
-For å fremme energieffektive produkter, kan Kongen treffe vedtak om:maksimalgrenser for produkts energibruk, herunder metode for beregning av maksimalt tillatt energibruk, hvem som skal foreta beregningen og fremgangsmåter for prøving;produksjon og omsetning av produkt;merking av produkt, herunder utformingen av merkingen og om at produkt som omsettes i strid med vedtak om merking skal trekkes tilbake fra markedet;teknisk dokumentasjon, herunder hvem som skal utarbeide denne og hvor lenge dokumentasjonen skal stå til rådighet for eventuelt tilsyn. Den tekniske dokumentasjonen skal så langt det er nødvendig for vurderingen av produktets energieffektivitet omfatte konstruksjonen av, fremstillingen av og virkemåten til produktet;skriftlig erklæring om samsvar mellom merking og reell energibruk, herunder oppbevaring av slik erklæring.
+For å fremme energieffektive produkter, kan Kongen treffe vedtak om:
+
+1. maksimalgrenser for produkts energibruk, herunder metode for beregning av maksimalt tillatt energibruk, hvem som skal foreta beregningen og fremgangsmåter for prøving;
+2. produksjon og omsetning av produkt;
+3. merking av produkt, herunder utformingen av merkingen og om at produkt som omsettes i strid med vedtak om merking skal trekkes tilbake fra markedet;
+4. teknisk dokumentasjon, herunder hvem som skal utarbeide denne og hvor lenge dokumentasjonen skal stå til rådighet for eventuelt tilsyn. Den tekniske dokumentasjonen skal så langt det er nødvendig for vurderingen av produktets energieffektivitet omfatte konstruksjonen av, fremstillingen av og virkemåten til produktet;
+5. skriftlig erklæring om samsvar mellom merking og reell energibruk, herunder oppbevaring av slik erklæring.
 
 Vedtak i medhold av første ledd skal i alminnelighet treffes ved forskrift og gjelde produkter av en viss art.
 
@@ -141,9 +169,16 @@ Når det finnes påkrevet for å vurdere produktets egenskaper, eller helserisik
 
 Kongen kan fatte vedtak etter denne paragrafen hvis det foreligger en uakseptabel risiko for at et produkt medfører helseskade eller miljøforstyrrelse som nevnt i [§ 1](lov/1976-06-11-79/§1) første ledd, eller for at forbrukertjeneste medfører uakseptabel risiko for helseskade.
 
-Vedtak kan gå ut på at det gis pålegg til den som produserer, innfører, bearbeider, omsetter, bruker eller på annen måte behandler produkt om å treffe tiltak, alene eller i samarbeid, for å redusere risikoen ved produktet, herunder:Offentliggjøre advarselsinformasjon e.l. til distributør eller brukere av produktet.Tilbakekalle produktet fra brukere eller distributører.Uskadeliggjøre produktet.
+Vedtak kan gå ut på at det gis pålegg til den som produserer, innfører, bearbeider, omsetter, bruker eller på annen måte behandler produkt om å treffe tiltak, alene eller i samarbeid, for å redusere risikoen ved produktet, herunder:
 
-For forbrukertjenester kan vedtak gå ut på at den ansvarlige for virksomheten som har ytet tjenesten, skalOffentliggjøre advarselsinformasjon til brukereRette det forhold som skaderisikoen skyldes
+1. Offentliggjøre advarselsinformasjon e.l. til distributør eller brukere av produktet.
+2. Tilbakekalle produktet fra brukere eller distributører.
+3. Uskadeliggjøre produktet.
+
+For forbrukertjenester kan vedtak gå ut på at den ansvarlige for virksomheten som har ytet tjenesten, skal
+
+1. Offentliggjøre advarselsinformasjon til brukere
+2. Rette det forhold som skaderisikoen skyldes
 
 Det kan videre treffes vedtak om forbud mot eksport av produkter og forbrukertjenester som utgjør en uakseptabel risiko som nevnt i første ledd. Vedkommende myndighet kan selv iverksette tiltak etter annet og tredje ledd. Kostnadene ved dette kan kreves refundert av den som kunne ha fått pålegg om slikt tiltak.
 
@@ -205,7 +240,13 @@ Avslag på krav om informasjon kan påklages. For øvrig gjelder reglene i [milj
 
 ## § 10. Rett til informasjon om produkter fra produsent, importør, bearbeider, omsetter eller bruker av produkt
 
-Enhver har rett til å få informasjon omproduktet inneholder komponenter eller har egenskaper som kan medføre virkning som nevnt i [§ 1](lov/1976-06-11-79/§1),hvilke komponenter eller egenskaper dette er,hvordan produktet må håndteres for å unngå virkning som nevnt i [§ 1](lov/1976-06-11-79/§1),vesentlige helseskader eller miljøforstyrrelser som produksjonen og distribusjonen av produktet forårsaker, oghvem som er produsent eller importør av produktet.
+Enhver har rett til å få informasjon om
+
+1. produktet inneholder komponenter eller har egenskaper som kan medføre virkning som nevnt i [§ 1](lov/1976-06-11-79/§1),
+2. hvilke komponenter eller egenskaper dette er,
+3. hvordan produktet må håndteres for å unngå virkning som nevnt i [§ 1](lov/1976-06-11-79/§1),
+4. vesentlige helseskader eller miljøforstyrrelser som produksjonen og distribusjonen av produktet forårsaker, og
+5. hvem som er produsent eller importør av produktet.
 
 Informasjon etter første ledd kan kreves fra produsent, importør, bearbeider, omsetter eller bruker av produktet.
 
@@ -213,7 +254,10 @@ Rett til informasjon i henhold til første ledd bokstav d gjelder også informas
 
 Krav om informasjon kan avvises dersom det er for generelt formulert eller ikke gir tilstrekkelig grunnlag for å identifisere hva kravet gjelder.
 
-Krav om informasjon kan avslås dersomkravet er åpenbart urimelig, ellerinformasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.
+Krav om informasjon kan avslås dersom
+
+1. kravet er åpenbart urimelig, eller
+2. informasjonen som etterspørres angår tekniske innretninger og framgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.
 
 Avslag på krav om informasjon kan påklages. For øvrig gjelder reglene i [miljøinformasjonsloven §§ 6](lov/2003-05-09-31/§6), [17](lov/2003-05-09-31/§17) tredje ledd, [18](lov/2003-05-09-31/§18) og [19](lov/2003-05-09-31/§19) om betaling, saksbehandling og klage, samt forskrifter gitt i medhold av [§ 7](lov/2003-05-09-31/§7), tilsvarende så langt de passer.
 
@@ -251,7 +295,17 @@ Første og andre ledd gjelder ikke overtredelse av [§§ 9](lov/1976-06-11-79/§
 
 ## § 12 a. Overtredelsesgebyr.
 
-Kongen kan gi forskrift om ileggelse av overtredelsesgebyr til den som:overtrer aktsomhets- og tiltaksplikt i [§ 3](lov/1976-06-11-79/§3) første leddovertrer aktsomhets- og tiltaksplikt i [§ 3](lov/1976-06-11-79/§3) andre ledd første punktumovertrer informasjonsplikt i [§ 3](lov/1976-06-11-79/§3) femte leddovertrer substitusjonsplikt i [§ 3 a](lov/1976-06-11-79/§3a)overtrer forskrifter eller enkeltvedtak etter [§ 4](lov/1976-06-11-79/§4) eller [§ 4a](lov/1976-06-11-79/§4a)overtrer plikt i [§ 5 a](lov/1976-06-11-79/§5a)overtrer forbud etter [§ 6](lov/1976-06-11-79/§6)overtrer vedtak etter [§ 6 a](lov/1976-06-11-79/§6a)overtrer meldeplikt i eller etter [§ 6 b](lov/1976-06-11-79/§6b).
+Kongen kan gi forskrift om ileggelse av overtredelsesgebyr til den som:
+
+1. overtrer aktsomhets- og tiltaksplikt i [§ 3](lov/1976-06-11-79/§3) første ledd
+2. overtrer aktsomhets- og tiltaksplikt i [§ 3](lov/1976-06-11-79/§3) andre ledd første punktum
+3. overtrer informasjonsplikt i [§ 3](lov/1976-06-11-79/§3) femte ledd
+4. overtrer substitusjonsplikt i [§ 3 a](lov/1976-06-11-79/§3a)
+5. overtrer forskrifter eller enkeltvedtak etter [§ 4](lov/1976-06-11-79/§4) eller [§ 4a](lov/1976-06-11-79/§4a)
+6. overtrer plikt i [§ 5 a](lov/1976-06-11-79/§5a)
+7. overtrer forbud etter [§ 6](lov/1976-06-11-79/§6)
+8. overtrer vedtak etter [§ 6 a](lov/1976-06-11-79/§6a)
+9. overtrer meldeplikt i eller etter [§ 6 b](lov/1976-06-11-79/§6b).
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
 

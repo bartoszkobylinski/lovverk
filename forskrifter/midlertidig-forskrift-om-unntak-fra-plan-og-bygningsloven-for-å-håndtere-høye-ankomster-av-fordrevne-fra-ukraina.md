@@ -28,7 +28,13 @@ Forskriften gjelder i saker etter [plan- og bygningsloven § 20-9](lov/2008-06-2
 
 ## § 2. Opplysninger som skal gis ved anmodning om unntak
 
-Ved anmodning om unntak skal tiltakshaveren opplyse om:hvem som er tiltakshaver, og navn, telefonnummer og e-postadresse til kontaktpersonhvilken eiendom og eksisterende bebyggelse som berøres av tiltakettiltaket gjelder tidsbestemt bruksendring, plassering av midlertidig bygning eller oppføring av varig boligtiltaket skal brukes til innkvartering, bolig, barnehage eller skole og hvor mange personer som skal oppholde seg i bygningenat tiltakshaveren har nødvendige privatrettslige rettigheter for å gjennomføre tiltaket.
+Ved anmodning om unntak skal tiltakshaveren opplyse om:
+
+1. hvem som er tiltakshaver, og navn, telefonnummer og e-postadresse til kontaktperson
+2. hvilken eiendom og eksisterende bebyggelse som berøres av tiltaket
+3. tiltaket gjelder tidsbestemt bruksendring, plassering av midlertidig bygning eller oppføring av varig bolig
+4. tiltaket skal brukes til innkvartering, bolig, barnehage eller skole og hvor mange personer som skal oppholde seg i bygningen
+5. at tiltakshaveren har nødvendige privatrettslige rettigheter for å gjennomføre tiltaket.
 
 Gjelder tiltaket tidsbestemt bruksendring eller plassering av midlertidige bygninger, skal tiltakshaver i anmodningen bekrefte at vilkårene i [plan- og bygningsloven § 20-9](lov/2008-06-27-71/§20-9) og denne forskriften samt at kravene til brannsikkerhet etter [byggteknisk forskrift](forskrift/2017-06-19-840) er oppfylt.
 
@@ -46,7 +52,19 @@ Det kreves ikke nabovarsel etter [plan- og bygningsloven § 19-1](lov/2008-06-27
 
 Dersom kommunen vedtar unntak etter [plan- og bygningsloven § 20-9](lov/2008-06-27-71/§20-9), gjelder ikke [plan- og bygningsloven § 29-1](lov/2008-06-27-71/§29-1), [§ 29-2](lov/2008-06-27-71/§29-2) og [§ 29-4](lov/2008-06-27-71/§29-4) for tidsbestemt bruksendring av bygning eller del av bygning og midlertidig plassering av bygninger.
 
-For bygninger som midlertidig skal brukes til innkvartering av asylsøkere og andre utlendinger som Utlendingsdirektoratet gir botilbud til, gjelder ikke følgende bestemmelser i [byggteknisk forskrift](forskrift/2017-06-19-840):[kapittel 4](forskrift/2017-06-19-840/kap4) om dokumentasjon for forvaltning, drift og vedlikehold[kapittel 5](forskrift/2017-06-19-840/kap5) om grad av utnytting[kapittel 6](forskrift/2017-06-19-840/kap6) om beregnings- og måleregler[§ 8-2](forskrift/2017-06-19-840/§8-2) til [§ 8-5](forskrift/2017-06-19-840/§8-5), [§ 8-7](forskrift/2017-06-19-840/§8-7) og [§ 8-8](forskrift/2017-06-19-840/§8-8)[§ 9-3](forskrift/2017-06-19-840/§9-3), [§ 9-4](forskrift/2017-06-19-840/§9-4) og [§ 9-10](forskrift/2017-06-19-840/§9-10)[§ 12-2](forskrift/2017-06-19-840/§12-2), [§ 12-7](forskrift/2017-06-19-840/§12-7) til [§ 12-12](forskrift/2017-06-19-840/§12-12), [§ 12-15](forskrift/2017-06-19-840/§12-15) og [§ 12-17](forskrift/2017-06-19-840/§12-17)[§ 13-2](forskrift/2017-06-19-840/§13-2), [§ 13-3](forskrift/2017-06-19-840/§13-3) og [§ 13-5](forskrift/2017-06-19-840/§13-5) til [§ 13-15](forskrift/2017-06-19-840/§13-15)[kapittel 14](forskrift/2017-06-19-840/kap14) om energi[§ 15-1](forskrift/2017-06-19-840/§15-1) til [§ 15-4](forskrift/2017-06-19-840/§15-4) og [§ 15-9](forskrift/2017-06-19-840/§15-9) til [§ 15-15](forskrift/2017-06-19-840/§15-15).Har bygningen brannalarmanlegg og rømningsveier som oppfyller bestemmelsene i [byggteknisk forskrift kapittel 11](forskrift/2017-06-19-840/kap11), kreves det ikke automatisk brannslokkeanlegg (sprinkling). Kommunen kan stille vilkår om bruk av organisatoriske tiltak (brannvakter).
+For bygninger som midlertidig skal brukes til innkvartering av asylsøkere og andre utlendinger som Utlendingsdirektoratet gir botilbud til, gjelder ikke følgende bestemmelser i [byggteknisk forskrift](forskrift/2017-06-19-840):
+
+1. [kapittel 4](forskrift/2017-06-19-840/kap4) om dokumentasjon for forvaltning, drift og vedlikehold
+2. [kapittel 5](forskrift/2017-06-19-840/kap5) om grad av utnytting
+3. [kapittel 6](forskrift/2017-06-19-840/kap6) om beregnings- og måleregler
+4. [§ 8-2](forskrift/2017-06-19-840/§8-2) til [§ 8-5](forskrift/2017-06-19-840/§8-5), [§ 8-7](forskrift/2017-06-19-840/§8-7) og [§ 8-8](forskrift/2017-06-19-840/§8-8)
+5. [§ 9-3](forskrift/2017-06-19-840/§9-3), [§ 9-4](forskrift/2017-06-19-840/§9-4) og [§ 9-10](forskrift/2017-06-19-840/§9-10)
+6. [§ 12-2](forskrift/2017-06-19-840/§12-2), [§ 12-7](forskrift/2017-06-19-840/§12-7) til [§ 12-12](forskrift/2017-06-19-840/§12-12), [§ 12-15](forskrift/2017-06-19-840/§12-15) og [§ 12-17](forskrift/2017-06-19-840/§12-17)
+7. [§ 13-2](forskrift/2017-06-19-840/§13-2), [§ 13-3](forskrift/2017-06-19-840/§13-3) og [§ 13-5](forskrift/2017-06-19-840/§13-5) til [§ 13-15](forskrift/2017-06-19-840/§13-15)
+8. [kapittel 14](forskrift/2017-06-19-840/kap14) om energi
+9. [§ 15-1](forskrift/2017-06-19-840/§15-1) til [§ 15-4](forskrift/2017-06-19-840/§15-4) og [§ 15-9](forskrift/2017-06-19-840/§15-9) til [§ 15-15](forskrift/2017-06-19-840/§15-15).
+
+Har bygningen brannalarmanlegg og rømningsveier som oppfyller bestemmelsene i [byggteknisk forskrift kapittel 11](forskrift/2017-06-19-840/kap11), kreves det ikke automatisk brannslokkeanlegg (sprinkling). Kommunen kan stille vilkår om bruk av organisatoriske tiltak (brannvakter).
 
 Bygning som midlertidig skal brukes som omsorgssenter for enslige mindreårige asylsøkere under 15 år, skole eller barnehage, skal oppfylle kravene som følger av [byggteknisk forskrift § 1-2](forskrift/2017-06-19-840/§1-2) fjerde ledd.
 

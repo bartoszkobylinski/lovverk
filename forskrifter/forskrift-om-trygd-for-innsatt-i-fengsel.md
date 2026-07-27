@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Omfang.
 
-Pliktig trygdet etter disse bestemmelser er:Den som i fengselsvesenets anstalter utholder frihetsstraff, sikring, forvaring eller tvangsarbeid, eller som der er undergitt varetektsfengsel eller arbeidsskolebehandling.Den som i henhold til lov av 31. mai 1900 om løsgjengeri, betleri og drukkenskap er anbrakt i redningsheim eller annen liknende innretning som er godkjent av Kongen i henhold til samme lovs § 5, sjette ledd og § 18, syvende ledd.
+Pliktig trygdet etter disse bestemmelser er:
+
+1. Den som i fengselsvesenets anstalter utholder frihetsstraff, sikring, forvaring eller tvangsarbeid, eller som der er undergitt varetektsfengsel eller arbeidsskolebehandling.
+2. Den som i henhold til lov av 31. mai 1900 om løsgjengeri, betleri og drukkenskap er anbrakt i redningsheim eller annen liknende innretning som er godkjent av Kongen i henhold til samme lovs § 5, sjette ledd og § 18, syvende ledd.
 
 Unntatt er den som er i arbeidsforhold som medfører trygdeplikt etter yrkesskadetrygdloven av 12. desember 1958.
 
@@ -35,10 +38,22 @@ Unntatt er den som er i arbeidsforhold som medfører trygdeplikt etter yrkesskad
 
 ## § 3. Ytelser.
 
-1. Retten til ytelser oppstår og gjelder først fra tidspunktet forendelig løslatelse,løslatelse på prøve,avbrytelse av frihetsberøvelsen på ubestemt tid,sikring etter [straffelovens § 39](lov/2005-05-20-28/§39), [punkt](lov/2005-05-20-28/kap1) 1 a-d,anvisning av arbeid etter fengselslovens § 42.Dog har skadede også under frihetsberøvelsen rett til å få nødvendige og hensiktsmessige midler (proteser) til å bøte på skaden, og til å få disse vedlikeholdt og fornyet.
+1. Retten til ytelser oppstår og gjelder først fra tidspunktet for
+
+   1. endelig løslatelse,
+   2. løslatelse på prøve,
+   3. avbrytelse av frihetsberøvelsen på ubestemt tid,
+   4. sikring etter [straffelovens § 39](lov/2005-05-20-28/§39), [punkt](lov/2005-05-20-28/kap1) 1 a-d,
+   5. anvisning av arbeid etter fengselslovens § 42.
+
+   Dog har skadede også under frihetsberøvelsen rett til å få nødvendige og hensiktsmessige midler (proteser) til å bøte på skaden, og til å få disse vedlikeholdt og fornyet.
 2. Skadede har ikke rett til uførepensjon før fra fylte 18 år.
-3. Uførepensjonen fastsettes på grunnlag av den trygdede arbeidsinntekt skadede hadde ved innsettelsen, jfr. § 12, 1 i lov om yrkesskadetrygd.Ved bedømmelsen av tapet av ervervsevne, jfr. nevnte lovs § 12, 2, tas omsyn til skadedes muligheter for ervervsmessig inntekt før innsettelsen og etter de tidspunkter som er nevnt i punkt 1, første ledd.
-4. Har arbeidsskade medført døden under opphold som nevnt i [§ 1](forskrift/1961-12-01-5/§1), kan krav om etterlattepensjon gjøres gjeldende med virkning først fra det tidspunkt skadede selv ville ha hatt rett til pensjon etter punkt 1, dersom arbeidsskaden ikke hadde medført døden.Det kan bestemmes at utløsning av enkepensjon og enkemannspensjon i henhold til § 21 i [lov om yrkesskadetrygd](lov/1958-12-12-10/§21) skal skje på et tidligere tidspunkt.
+3. Uførepensjonen fastsettes på grunnlag av den trygdede arbeidsinntekt skadede hadde ved innsettelsen, jfr. § 12, 1 i lov om yrkesskadetrygd.
+
+   Ved bedømmelsen av tapet av ervervsevne, jfr. nevnte lovs § 12, 2, tas omsyn til skadedes muligheter for ervervsmessig inntekt før innsettelsen og etter de tidspunkter som er nevnt i punkt 1, første ledd.
+4. Har arbeidsskade medført døden under opphold som nevnt i [§ 1](forskrift/1961-12-01-5/§1), kan krav om etterlattepensjon gjøres gjeldende med virkning først fra det tidspunkt skadede selv ville ha hatt rett til pensjon etter punkt 1, dersom arbeidsskaden ikke hadde medført døden.
+
+   Det kan bestemmes at utløsning av enkepensjon og enkemannspensjon i henhold til § 21 i [lov om yrkesskadetrygd](lov/1958-12-12-10/§21) skal skje på et tidligere tidspunkt.
 5. Dersom særlige grunner foreligger, kan det tilstås ytelser fra et tidligere tidspunkt enn nevnt under punktene 1 og 2.
 
 > Endret ved [forskrift 30 juni 2006 nr. 730](forskrift/2006-06-30-730) (i kraft 1 juli 2006).

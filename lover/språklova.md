@@ -15,7 +15,7 @@ xml_hash: "58b17eddae4aa3b9282006c1989c7e0adace1c003387ca08d6992c692e69677c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,19 +26,43 @@ eu_basis: []
 
 Føremålet med lova er å styrkje norsk språk, slik at det blir sikra som eit samfunnsberande språk som skal kunne nyttast på alle samfunnsområde og i alle delar av samfunnslivet i Noreg. Lova skal fremje likestilling mellom bokmål og nynorsk og sikre vern og status for dei språka som staten har ansvar for.
 
-Føremålet med lova er også å sikre atoffentlege organ tek ansvar for å bruke, utvikle og styrkje bokmål og nynorskoffentlege organ tek ansvar for å bruke, utvikle og styrkje samiske språk, jf. reglane i [sameloven kapittel 3](lov/1987-06-12-56/kap3)offentlege organ tek ansvar for å verne og fremje kvensk, romani, romanes og norsk teiknspråk.
+Føremålet med lova er også å sikre at
+
+1. offentlege organ tek ansvar for å bruke, utvikle og styrkje bokmål og nynorsk
+2. offentlege organ tek ansvar for å bruke, utvikle og styrkje samiske språk, jf. reglane i [sameloven kapittel 3](lov/1987-06-12-56/kap3)
+3. offentlege organ tek ansvar for å verne og fremje kvensk, romani, romanes og norsk teiknspråk.
 
 Ansvaret etter andre ledd bokstav a omfattar eit særleg ansvar for å fremje nynorsk som det minst bruka norske skriftspråket.
 
 ## § 2. Definisjonar
 
-I denne lova tyderdokument: ei logisk avgrensa informasjonsmengd som blir lagra på eit medium for seinare lesing, framsyning, overføring eller liknandeallment tilgjengelege dokument: dokument som blir utferda og sendt ut av eit organ som er omfatta av lova her, og som ikkje er stila til enkeltadressatarstatsorgan: alle organ for staten og sjølvstendige rettssubjekt der staten har ein eigarskap som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav c, eller ei rolle som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav d, og som ikkje er omfatta av [§ 3](lov/2021-05-21-42/§3) første ledd andre punktumoffentleg organ: statsorgan etter bokstav c, alle organ for kommune og fylkeskommune og sjølvstendige rettssubjekt der kommunar og fylkeskommunar har ein eigarskap som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav c, eller ei rolle som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav d, og som ikkje er omfatta av [§ 3](lov/2021-05-21-42/§3) første ledd andre punktumsentrale statsorgan: statsorgan med heile landet som tenestekrinsregionale statsorgan: statsorgan med mindre enn heile landet som tenestekrins.
+I denne lova tyder
+
+1. dokument: ei logisk avgrensa informasjonsmengd som blir lagra på eit medium for seinare lesing, framsyning, overføring eller liknande
+2. allment tilgjengelege dokument: dokument som blir utferda og sendt ut av eit organ som er omfatta av lova her, og som ikkje er stila til enkeltadressatar
+3. statsorgan: alle organ for staten og sjølvstendige rettssubjekt der staten har ein eigarskap som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav c, eller ei rolle som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav d, og som ikkje er omfatta av [§ 3](lov/2021-05-21-42/§3) første ledd andre punktum
+4. offentleg organ: statsorgan etter bokstav c, alle organ for kommune og fylkeskommune og sjølvstendige rettssubjekt der kommunar og fylkeskommunar har ein eigarskap som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav c, eller ei rolle som nemnt i [§ 3](lov/2021-05-21-42/§3) første ledd første punktum bokstav d, og som ikkje er omfatta av [§ 3](lov/2021-05-21-42/§3) første ledd andre punktum
+5. sentrale statsorgan: statsorgan med heile landet som tenestekrins
+6. regionale statsorgan: statsorgan med mindre enn heile landet som tenestekrins.
 
 ## § 3. Verkeområde
 
-Når det ikkje er fastsett noko anna, gjeld lova forstaten, fylkeskommunane og kommunaneandre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskriftsjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har ein eigardel som gjev meir enn halvparten av røystene i det øvste organet i rettssubjektetsjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.Første punktum bokstav c og d omfattar ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private.
+Når det ikkje er fastsett noko anna, gjeld lova for
 
-Reglane i [§§ 12](lov/2021-05-21-42/§12) til [18](lov/2021-05-21-42/§18) gjeld ikkje forkommunanesjølvstendige rettssubjekt der kommunar og fylkeskommunar har ein slik eigardel eller rett til å velje medlemmer i det øvste organet i rettssubjektet som nemnt i første ledd første punktum bokstav c og dinterkommunale samarbeid etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18) og [19](lov/2018-06-22-83/kap19) som ikkje er eigne rettssubjekt, og som har ein eller fleire fylkeskommunar som deltakararStortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortingetintern sakshandsaming.
+1. staten, fylkeskommunane og kommunane
+2. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift
+3. sjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har ein eigardel som gjev meir enn halvparten av røystene i det øvste organet i rettssubjektet
+4. sjølvstendige rettssubjekt der staten, fylkeskommunar eller kommunar direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.
+
+Første punktum bokstav c og d omfattar ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private.
+
+Reglane i [§§ 12](lov/2021-05-21-42/§12) til [18](lov/2021-05-21-42/§18) gjeld ikkje for
+
+1. kommunane
+2. sjølvstendige rettssubjekt der kommunar og fylkeskommunar har ein slik eigardel eller rett til å velje medlemmer i det øvste organet i rettssubjektet som nemnt i første ledd første punktum bokstav c og d
+3. interkommunale samarbeid etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18) og [19](lov/2018-06-22-83/kap19) som ikkje er eigne rettssubjekt, og som har ein eller fleire fylkeskommunar som deltakarar
+4. Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget
+5. intern sakshandsaming.
 
 Reglane i [§§ 12](lov/2021-05-21-42/§12) til [18](lov/2021-05-21-42/§18) gjeld berre for den administrative delen av verksemda ved universiteta, dei statlege høgskulane og andre statlege skular, vidaregåande skular, domstolane, forliksråda og påtalemakta.
 

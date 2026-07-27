@@ -26,11 +26,117 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonoverfor alle norske statsborgere uansett hvor de befinner segoverfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningoverfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Denne forskriften med vedlegg kommer til anvendelse:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle luftfartøy eller fartøy under norsk jurisdiksjon
+3. overfor alle norske statsborgere uansett hvor de befinner seg
+4. overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
+5. overfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*kontrakt eller transaksjon*: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen*formuesgoder*: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester*frysing av formuesgoder*: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til, å selge, leie ut eller pantsette dem*penger*: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenterinnestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevisbørsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakterrenter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktivakreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelserremburser, konnossementer og pantebrevdokumenter som viser eierandeler i penger eller finansielle ressurser*frysing av penger*: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning*varer med opprinnelse på Krim eller i Sevastopol*: varer som i sin helhet er fremstilt på Krim eller i Sevastopol, eller som har gjennomgått en siste vesentlig bearbeiding der*formidlingstjenester:*forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra en tredjestat til en annen tredjestat, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, herunder når disse befinner seg i tredjestater med henblikk på overføring til en annen tredjestat*faglig bistand*: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand*omsettelige verdipapirer:* følgende kategorier av verdipapirer, herunder i form av kryptoeiendeler, som kan omsettes på kapitalmarkedet, med unntak av betalingsmidler:aksjer i selskaper og andre verdipapirer som kan sidestilles med aksjer i selskaper, ansvarlige selskaper eller andre foretak, og depotbevis for aksjerobligasjoner eller andre typer gjeldsinstrumenter, herunder depotbevis for slike verdipapireralle andre verdipapirer som gir rett til å kjøpe eller selge slike omsettelige verdipapirer, eller som gir rett til kontant oppgjør avregnet mot omsettelige verdipapirer*pengemarkedsinstrumenter*: instrumenter som vanligvis omsettes på pengemarkedet, for eksempel statskasseveksler, innskuddsbevis og sertifikater, unntatt betalingsmidler*kredittinstitusjon:* foretak hvis virksomhet består i å motta fra offentligheten innskudd eller andre midler som skal betales tilbake, og å yte kreditt for egen regning*krav:* ethvert omtvistet eller uomtvistet krav i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjonkrav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett formkrav om kompensasjon med hensyn til en kontrakt eller transaksjonmotkravkrav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet*investeringstjenester:* følgende tjenester og virksomhet:mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumentereffektuering av ordrer på vegne av kunderhandel for egen regningporteføljeforvaltninginvesteringsrådgivninggarantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelseplassering av finansielle instrumenter uten fast forpliktelseenhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem.*enhet på Krim eller i Sevastopol*: ethvert selskap som er registrert som hjemmehørende i eller har sin hovedadministrasjon eller sitt hovedforetak på Krim eller i Sevastopol, som har datterselskaper eller tilknyttede foretak under sin kontroll på Krim eller i Sevastopol, eller som har filialer eller andre enheter som driver virksomhet på Krim eller i Sevastopol.*verdipapirsentral*: en juridisk person som definert i forordning [(EU) nr. 909/2014](eu/32014r0909) artikkel 2 nr. 1 underpunkt 1, jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1)*innskudd*: en kreditsaldo som er resultat av penger på en konto eller av midlertidige situasjoner som følger av normale banktransaksjoner, og som en kredittinstitusjon er forpliktet til å tilbakebetale i henhold til gjeldende juridiske vilkår og kontraktsvilkår, herunder tidsinnskudd og spreinnskudd, men ikke kredittsaldoersom bare kan dokumenteres ved et finansielt instrument i medhold av [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2) med mindre det er et spareprodukt som kan dokumenteres ved et innskuddsbevis utstedt til en navngitt person, og som forelå 16. juli 2014der hovedstolen ikke kan tilbakebetales til pari kurs,der hovedstolen bare kan tilbakebetales til pari kurs i henhold til en særlig garanti fra eller avtale med kredittinstitusjonen eller en tredjepart*handelsplass*: et regulert marked, en multilateral handelsfasilitet (MHF) eller en organisert handelsfasilitet (OHF), som definert i [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) åttende ledd*finansiering eller finansiell bistand:* enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøpekreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår for betaling av den avtalte prisen for en vare eller tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand*forbrukerkommunikasjonsutstyr*: utstyr som brukes av privatpersoner, for eksempel PC og tilhørende utstyr (som harddisker og skrivere), mobiltelefoner, smart-TV og lagerenheter (USB-minnepinner), samt forbrukerprogramvare for de nevnte produktene*russisk luftfartsselskap*: et luftfartsselskap som innehar en gyldig lisens eller tilsvarende som er utstedt av Den russiske føderasjons kompetente myndigheter*de angitte territoriene*: de ikke-regjeringskontrollerte områdene i fylkene Donetsk, Kherson, Luhansk og Zaporizjzja*enhet i de angitte territoriene*: ethvert selskap som er registrert som hjemmehørende i eller har sin hovedadministrasjon eller sitt hovedforetak i de angitte territoriene, som har datterselskaper eller tilknyttede foretak under sin kontroll i de angitte territoriene, eller som har filialer eller andre enheter som driver virksomhet i de angitte territoriene*varer med opprinnelse i de angitte territoriene*: varer som i sin helhet er fremstilt i de angitte territoriene, eller som har gjennomgått en siste vesentlig bearbeiding der*ordninger for statsborgerskap ved investering* (eller *gylne pass*): prosedyrer der en medlemsstat i EU legger til rette for at statsborgere fra tredjeland kan få statsborgerskap i bytte mot forhåndsavtalte betalinger og investeringer*ordninger for oppholdstillatelse ved investering* (eller *gylne visa*): prosedyrer der en medlemsstat i EU legger til rette for at statsborgere fra tredjeland kan få oppholdstillatelse i en medlemsstat i bytte mot forhåndsavtalte betalinger og investeringer.*kredittvurdering*: en uttalelse om kredittverdigheten til en enhet, en gjeldsforpliktelse eller finansiell forpliktelse, et gjeldsinstrument, en preferanseaksje eller annet finansielt instrument, eller til en utsteder av nevnte gjeldsforpliktelse eller finansiell forpliktelse, gjeldsinstrument, preferanseaksje eller annet finansielt instrument, som er utstedt ved bruk av et etablert og fastsatt klassifiseringssystem for kredittvurderingskategorier*kredittvurderingsvirksomhet*: data- og informasjonsanalyse samt vurdering, godkjennelse, utstedelse og revurdering av kredittvurderinger*energisektor*: en sektor som omfatter følgende virksomhet, med unntak av sivil atomrelatert virksomhet, for eksempel Paks II-prosjektet:kartlegging, produksjon og distribusjon innen Russland eller utvinning av råolje, naturgass eller fast fossilt brensel, raffinering av brensel, omdanning til væske av naturgass eller regassifisering,produksjon eller distribusjon innen Russland av faste fossile brenselsprodukter, raffinerte petroleumsprodukter eller gass, elleroppføring av anlegg eller installasjon av utstyr for, eller levering av tjenester, utstyr eller teknologi til, virksomhet knyttet til kraftproduksjon eller elektrisitetsproduksjon*tredjestat/tredjeland*: en stat/et land som ikke er Norge eller medlemsstat i EU*direktiver om offentlige innkjøp:* europaparlaments- og rådsdirektiv [2014/23/EU](eu/32014l0023), [2014/24/EU](eu/32014l0024), [2014/25/EU](eu/32014l0025) og [2009/81/EF](eu/32009l0081),*veitransportforetak*: alle fysiske eller juridiske personer som driver godstransport for kommersielle formål ved bruk av motorvogner eller vogntog.*bergverksdrifts- og utvinningssektoren*: en sektor som omfatter lokalisering, utvinning, forvaltning og bearbeidingsvirksomhet knyttet til ikke-energiproduserende materialer.*kritisk infrastruktur*: infrastruktur som definert i [sivilbeskyttelsesloven § 3](lov/2010-06-25-45/§3) bokstav d*europeisk kritisk infrastruktur*: infrastruktur som definert i [sivilbeskyttelsesloven § 3](lov/2010-06-25-45/§3) bokstav e*eiere eller operatører av kritisk infrastruktur*: de enhetene som er ansvarlige for investeringer i, eller daglig drift av, en spesiell eiendel, et spesielt system eller del av disse, som er utpekt som kritisk infrastruktur eller europeisk kritisk infrastruktur etter bokstav gg og hh.*ikke-statlig organisasjon:* et frivillig selvstyrt organ eller organisasjon opprettet for i det vesentlige å oppnå stifternes eller medlemmenes ideelle formål,*omlasting:*overføring fra skip til skip, som innebærer samtidig lossing og omlasting med direkte overføring fra ett skip for flytende naturgass til et annet skip for flytende naturgass, elleroverføring fra skip til land og omlasting, som omfatter aktiviteter som lossing av flytende naturgass fra et skip til en terminaltank, lagring av flytende naturgass i tanken og omlasting til et skip. Disse aktivitetene kan markedsføres som individuelle tjenester eller som kombinerte tjenester.*partnerland for import av petroleumsprodukter*: et land, som oppført i vedlegg LI, som anvender restriktive tiltak på import av råolje og petroleumsprodukter som i det vesentlige tilsvarer de som er fastsatt i [§ 17j](forskrift/2014-08-15-1076/§17j).*å eie juridiske personer:* å være i besittelse av 50 % eller mer av eiendomsretten til en juridisk person, eller å ha en majoritetsinteresse i den*å kontrollere juridiske personer:* omfatter, men er ikke begrenset tilå ha rett eller myndighet til å oppnevne eller fjerne et flertall av medlemmene i en juridisk persons administrasjons-, ledelses- eller kontrollorgan,å ha stemmerett til å få oppnevnt et flertall av medlemmene i en juridisk persons administrasjons-, ledelses- eller kontrollorgan som har sittet i stillingen i inneværende og foregående regnskapsår,i henhold til avtale med aksjonærer eller medlemmer av juridiske personer alene å kontrollere et flertall av aksjonærenes eller medlemmenes stemmeretter,i henhold til avtale eller vedtekter å ha rett til å utøve dominerende innflytelse over en juridisk person, dersom dette er tillatt etter loven,å ha myndighet til å utøve dominerende innflytelse som nevnt i romertall iv, uten å inneha denne rettenå ha rett til å benytte alle eller deler av en juridisk persons aktivaå lede en juridisk persons virksomhet som en samlet enhet og offentliggjøre konsoliderte regnskaper, ellerå hefte solidarisk for en juridisk persons økonomiske forpliktelser, eller å garantere for dem.*kryptoeiendel:* en kryptoeiendel som definert i artikkel 3 nr. 1 punkt 5 i europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114), som gjennomført i [kryptoeiendelsloven](lov/2025-05-27-20)*betalingstjenester:* tjenester som definert i [finansavtaleloven § 1-5 (1)](lov/2020-12-18-146/§1-5/ledd/1)*tjenester direkte knyttet til turistvirksomhet:* følgende tjenester:reisebyråers og turoperatørers tjenester, herunder tjenester som ytes av reisebyråer og turoperatører med henblikk på passasjerreiser og lignende tjenester, reiseinformasjons-, reiserådgivings- og reiseplanleggingstjenester, tjenester i forbindelse med tilrettelegging av turer, innkvartering og transport av passasjerer og bagasje samt tjenester i forbindelse med utstedelse av billetterturistguidetjenesterreklametjenester i forbindelse med tjenestene som nevnt i romertall i og ii.*LNG-terminaltjenester:* tjenester som operatører av systemer for flytende naturgass (LNG) leverer til kunder, særlig lossing, lagring, utsending, fortøyning (lasting og lossing), regassifisering, tilbakestrømslikvifisering, lasting av lastebiler, bunkering av LNG som hører inn under KN-kode 2711 11 00, herunder også de tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringsprosessen og den etterfølgende levering til transmisjonssystemet.*administrert sikkerhetstjeneste:* en tjeneste som leveres til en tredjepart som består av å utføre, eller yte bistand til, aktiviteter knyttet til styring av cybersikkerhetsrisikoer, som hendelseshåndtering, inntrengingstesting, sikkerhetsrevisjoner og rådgivning, herunder ekspertrådgivning, knyttet til teknisk støtte.
+I denne forskrift betyr:
+
+1. *kontrakt eller transaksjon*: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen
+2. *formuesgoder*: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester
+3. *frysing av formuesgoder*: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til, å selge, leie ut eller pantsette dem
+4. *penger*: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser
+   6. remburser, konnossementer og pantebrev
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser
+5. *frysing av penger*: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning
+6. *varer med opprinnelse på Krim eller i Sevastopol*: varer som i sin helhet er fremstilt på Krim eller i Sevastopol, eller som har gjennomgått en siste vesentlig bearbeiding der
+7. *formidlingstjenester:*
+
+   1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra en tredjestat til en annen tredjestat, eller
+   2. salg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, herunder når disse befinner seg i tredjestater med henblikk på overføring til en annen tredjestat
+8. *faglig bistand*: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand
+9. *omsettelige verdipapirer:* følgende kategorier av verdipapirer, herunder i form av kryptoeiendeler, som kan omsettes på kapitalmarkedet, med unntak av betalingsmidler:
+
+   1. aksjer i selskaper og andre verdipapirer som kan sidestilles med aksjer i selskaper, ansvarlige selskaper eller andre foretak, og depotbevis for aksjer
+   2. obligasjoner eller andre typer gjeldsinstrumenter, herunder depotbevis for slike verdipapirer
+   3. alle andre verdipapirer som gir rett til å kjøpe eller selge slike omsettelige verdipapirer, eller som gir rett til kontant oppgjør avregnet mot omsettelige verdipapirer
+10. *pengemarkedsinstrumenter*: instrumenter som vanligvis omsettes på pengemarkedet, for eksempel statskasseveksler, innskuddsbevis og sertifikater, unntatt betalingsmidler
+11. *kredittinstitusjon:* foretak hvis virksomhet består i å motta fra offentligheten innskudd eller andre midler som skal betales tilbake, og å yte kreditt for egen regning
+12. *krav:* ethvert omtvistet eller uomtvistet krav i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+    1. krav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon
+    2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form
+    3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon
+    4. motkrav
+    5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet
+13. *investeringstjenester:* følgende tjenester og virksomhet:
+
+    1. mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter
+    2. effektuering av ordrer på vegne av kunder
+    3. handel for egen regning
+    4. porteføljeforvaltning
+    5. investeringsrådgivning
+    6. garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse
+    7. plassering av finansielle instrumenter uten fast forpliktelse
+    8. enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem.
+14. *enhet på Krim eller i Sevastopol*: ethvert selskap som er registrert som hjemmehørende i eller har sin hovedadministrasjon eller sitt hovedforetak på Krim eller i Sevastopol, som har datterselskaper eller tilknyttede foretak under sin kontroll på Krim eller i Sevastopol, eller som har filialer eller andre enheter som driver virksomhet på Krim eller i Sevastopol.
+15. *verdipapirsentral*: en juridisk person som definert i forordning [(EU) nr. 909/2014](eu/32014r0909) artikkel 2 nr. 1 underpunkt 1, jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1)
+16. *innskudd*: en kreditsaldo som er resultat av penger på en konto eller av midlertidige situasjoner som følger av normale banktransaksjoner, og som en kredittinstitusjon er forpliktet til å tilbakebetale i henhold til gjeldende juridiske vilkår og kontraktsvilkår, herunder tidsinnskudd og spreinnskudd, men ikke kredittsaldoer
+
+    1. som bare kan dokumenteres ved et finansielt instrument i medhold av [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2) med mindre det er et spareprodukt som kan dokumenteres ved et innskuddsbevis utstedt til en navngitt person, og som forelå 16. juli 2014
+    2. der hovedstolen ikke kan tilbakebetales til pari kurs,
+    3. der hovedstolen bare kan tilbakebetales til pari kurs i henhold til en særlig garanti fra eller avtale med kredittinstitusjonen eller en tredjepart
+17. *handelsplass*: et regulert marked, en multilateral handelsfasilitet (MHF) eller en organisert handelsfasilitet (OHF), som definert i [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) åttende ledd
+18. *finansiering eller finansiell bistand:* enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøpekreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår for betaling av den avtalte prisen for en vare eller tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand
+19. *forbrukerkommunikasjonsutstyr*: utstyr som brukes av privatpersoner, for eksempel PC og tilhørende utstyr (som harddisker og skrivere), mobiltelefoner, smart-TV og lagerenheter (USB-minnepinner), samt forbrukerprogramvare for de nevnte produktene
+20. *russisk luftfartsselskap*: et luftfartsselskap som innehar en gyldig lisens eller tilsvarende som er utstedt av Den russiske føderasjons kompetente myndigheter
+21. *de angitte territoriene*: de ikke-regjeringskontrollerte områdene i fylkene Donetsk, Kherson, Luhansk og Zaporizjzja
+22. *enhet i de angitte territoriene*: ethvert selskap som er registrert som hjemmehørende i eller har sin hovedadministrasjon eller sitt hovedforetak i de angitte territoriene, som har datterselskaper eller tilknyttede foretak under sin kontroll i de angitte territoriene, eller som har filialer eller andre enheter som driver virksomhet i de angitte territoriene
+23. *varer med opprinnelse i de angitte territoriene*: varer som i sin helhet er fremstilt i de angitte territoriene, eller som har gjennomgått en siste vesentlig bearbeiding der
+24. *ordninger for statsborgerskap ved investering* (eller *gylne pass*): prosedyrer der en medlemsstat i EU legger til rette for at statsborgere fra tredjeland kan få statsborgerskap i bytte mot forhåndsavtalte betalinger og investeringer
+25. *ordninger for oppholdstillatelse ved investering* (eller *gylne visa*): prosedyrer der en medlemsstat i EU legger til rette for at statsborgere fra tredjeland kan få oppholdstillatelse i en medlemsstat i bytte mot forhåndsavtalte betalinger og investeringer.
+26. *kredittvurdering*: en uttalelse om kredittverdigheten til en enhet, en gjeldsforpliktelse eller finansiell forpliktelse, et gjeldsinstrument, en preferanseaksje eller annet finansielt instrument, eller til en utsteder av nevnte gjeldsforpliktelse eller finansiell forpliktelse, gjeldsinstrument, preferanseaksje eller annet finansielt instrument, som er utstedt ved bruk av et etablert og fastsatt klassifiseringssystem for kredittvurderingskategorier
+27. *kredittvurderingsvirksomhet*: data- og informasjonsanalyse samt vurdering, godkjennelse, utstedelse og revurdering av kredittvurderinger
+28. *energisektor*: en sektor som omfatter følgende virksomhet, med unntak av sivil atomrelatert virksomhet, for eksempel Paks II-prosjektet:
+
+    1. kartlegging, produksjon og distribusjon innen Russland eller utvinning av råolje, naturgass eller fast fossilt brensel, raffinering av brensel, omdanning til væske av naturgass eller regassifisering,
+    2. produksjon eller distribusjon innen Russland av faste fossile brenselsprodukter, raffinerte petroleumsprodukter eller gass, eller
+    3. oppføring av anlegg eller installasjon av utstyr for, eller levering av tjenester, utstyr eller teknologi til, virksomhet knyttet til kraftproduksjon eller elektrisitetsproduksjon
+29. *tredjestat/tredjeland*: en stat/et land som ikke er Norge eller medlemsstat i EU
+30. *direktiver om offentlige innkjøp:* europaparlaments- og rådsdirektiv [2014/23/EU](eu/32014l0023), [2014/24/EU](eu/32014l0024), [2014/25/EU](eu/32014l0025) og [2009/81/EF](eu/32009l0081),
+31. *veitransportforetak*: alle fysiske eller juridiske personer som driver godstransport for kommersielle formål ved bruk av motorvogner eller vogntog.
+32. *bergverksdrifts- og utvinningssektoren*: en sektor som omfatter lokalisering, utvinning, forvaltning og bearbeidingsvirksomhet knyttet til ikke-energiproduserende materialer.
+33. *kritisk infrastruktur*: infrastruktur som definert i [sivilbeskyttelsesloven § 3](lov/2010-06-25-45/§3) bokstav d
+34. *europeisk kritisk infrastruktur*: infrastruktur som definert i [sivilbeskyttelsesloven § 3](lov/2010-06-25-45/§3) bokstav e
+35. *eiere eller operatører av kritisk infrastruktur*: de enhetene som er ansvarlige for investeringer i, eller daglig drift av, en spesiell eiendel, et spesielt system eller del av disse, som er utpekt som kritisk infrastruktur eller europeisk kritisk infrastruktur etter bokstav gg og hh.
+36. *ikke-statlig organisasjon:* et frivillig selvstyrt organ eller organisasjon opprettet for i det vesentlige å oppnå stifternes eller medlemmenes ideelle formål,
+37. *omlasting:*
+
+    1. overføring fra skip til skip, som innebærer samtidig lossing og omlasting med direkte overføring fra ett skip for flytende naturgass til et annet skip for flytende naturgass, eller
+    2. overføring fra skip til land og omlasting, som omfatter aktiviteter som lossing av flytende naturgass fra et skip til en terminaltank, lagring av flytende naturgass i tanken og omlasting til et skip. Disse aktivitetene kan markedsføres som individuelle tjenester eller som kombinerte tjenester.
+38. *partnerland for import av petroleumsprodukter*: et land, som oppført i vedlegg LI, som anvender restriktive tiltak på import av råolje og petroleumsprodukter som i det vesentlige tilsvarer de som er fastsatt i [§ 17j](forskrift/2014-08-15-1076/§17j).
+39. *å eie juridiske personer:* å være i besittelse av 50 % eller mer av eiendomsretten til en juridisk person, eller å ha en majoritetsinteresse i den
+40. *å kontrollere juridiske personer:* omfatter, men er ikke begrenset til
+
+    1. å ha rett eller myndighet til å oppnevne eller fjerne et flertall av medlemmene i en juridisk persons administrasjons-, ledelses- eller kontrollorgan,
+    2. å ha stemmerett til å få oppnevnt et flertall av medlemmene i en juridisk persons administrasjons-, ledelses- eller kontrollorgan som har sittet i stillingen i inneværende og foregående regnskapsår,
+    3. i henhold til avtale med aksjonærer eller medlemmer av juridiske personer alene å kontrollere et flertall av aksjonærenes eller medlemmenes stemmeretter,
+    4. i henhold til avtale eller vedtekter å ha rett til å utøve dominerende innflytelse over en juridisk person, dersom dette er tillatt etter loven,
+    5. å ha myndighet til å utøve dominerende innflytelse som nevnt i romertall iv, uten å inneha denne retten
+    6. å ha rett til å benytte alle eller deler av en juridisk persons aktiva
+    7. å lede en juridisk persons virksomhet som en samlet enhet og offentliggjøre konsoliderte regnskaper, eller
+    8. å hefte solidarisk for en juridisk persons økonomiske forpliktelser, eller å garantere for dem.
+41. *kryptoeiendel:* en kryptoeiendel som definert i artikkel 3 nr. 1 punkt 5 i europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114), som gjennomført i [kryptoeiendelsloven](lov/2025-05-27-20)
+42. *betalingstjenester:* tjenester som definert i [finansavtaleloven § 1-5 (1)](lov/2020-12-18-146/§1-5/ledd/1)
+43. *tjenester direkte knyttet til turistvirksomhet:* følgende tjenester:
+
+    1. reisebyråers og turoperatørers tjenester, herunder tjenester som ytes av reisebyråer og turoperatører med henblikk på passasjerreiser og lignende tjenester, reiseinformasjons-, reiserådgivings- og reiseplanleggingstjenester, tjenester i forbindelse med tilrettelegging av turer, innkvartering og transport av passasjerer og bagasje samt tjenester i forbindelse med utstedelse av billetter
+    2. turistguidetjenester
+    3. reklametjenester i forbindelse med tjenestene som nevnt i romertall i og ii.
+44. *LNG-terminaltjenester:* tjenester som operatører av systemer for flytende naturgass (LNG) leverer til kunder, særlig lossing, lagring, utsending, fortøyning (lasting og lossing), regassifisering, tilbakestrømslikvifisering, lasting av lastebiler, bunkering av LNG som hører inn under KN-kode 2711 11 00, herunder også de tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringsprosessen og den etterfølgende levering til transmisjonssystemet.
+45. *administrert sikkerhetstjeneste:* en tjeneste som leveres til en tredjepart som består av å utføre, eller yte bistand til, aktiviteter knyttet til styring av cybersikkerhetsrisikoer, som hendelseshåndtering, inntrengingstesting, sikkerhetsrevisjoner og rådgivning, herunder ekspertrådgivning, knyttet til teknisk støtte.
 
 > Endret ved forskrifter [10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), [14 april 2015 nr. 376](forskrift/2015-04-14-376), [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [18 mars 2022 nr. 411](forskrift/2022-03-18-411), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 647](forskrift/2022-04-29-647), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
@@ -44,7 +150,26 @@ Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av f
 
 Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer oppført i vedlegg I.
 
-Vedlegg I omfatterfysiske personer som er ansvarlige for, aktivt støtter eller gjennomfører handlinger eller politikk som undergraver eller truer Ukrainas territorielle integritet, suverenitet og uavhengighet eller stabiliteten eller sikkerheten i Ukraina, eller som hindrer internasjonale organisasjoners arbeid i Ukraina, samt fysiske eller juridiske personer tilknyttet disse personene,juridiske personer som materielt eller økonomisk støtter handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet og uavhengighet,juridiske personer på Krim eller i Sevastopol hvis eierskap er overdratt i strid med ukrainsk lov, eller juridiske personer har dratt fordel av en slik overdragelse, ellerfysiske eller juridiske personer som aktivt gir materiell eller økonomisk støtte til eller drar fordel av russiske beslutningstakere som er ansvarlige for annekteringen av Krim og Sevastopol eller destabiliseringen av Ukraina.fysiske eller juridiske personer som gjennomfører transaksjoner med separatistgruppene i Donbass-regionen i Ukraina.fysiske eller juridiske personer som materielt eller økonomisk støtter eller drar fordel av Den russiske føderasjons myndigheter, som er ansvarlige for annekteringen av Krim og destabiliseringen av Ukraina, ellerframstående næringsdrivende som driver virksomhet i Russland, samt medlemmer av deres nærmeste familie, eller andre fysiske personer som drar fordel av dem, eller næringsdrivende, juridiske personer, enheter eller organer som driver virksomhet innenfor økonomiske sektorer som er en viktig inntektskilde for Den russiske føderasjons regjering, som er ansvarlig for annekteringen av Krim og destabiliseringen av Ukraina, ellerfysiske eller juridiske personer,som legger til rette for overtredelser av forbudet mot omgåelse av bestemmelsene i denne forskriften, ellersom på annen betydelig måte motvirker bestemmelsene i forskriften, ellerjuridiske personer som driver virksomhet i den russiske IT-sektoren, med en lisens som administreres av Den russiske føderasjons føderale sikkerhetstjenestes (FSB) senter for lisensiering, sertifisering og beskyttelse av statshemmeligheter, eller en lisens for «våpen og militært utstyr» som administreres av det russiske ministeriet for industri og handel, ellerenheter etablert i Russland, som tidligere var eid eller kontrollert av enheter som er etablert i Norge eller en EU-medlemsstat, hvis eierskap eller kontroll er tvangsoverført av Russland ved lover, forskrifter, andre lovgivningsinstrumenter eller ved annen handling fra en offentlig russisk myndighet, eller fysiske eller juridiske personer, som har dratt nytte av slik overføring, og fysiske personer som er utnevnt til de styrende organene i disse enhetene i Russland, uten samtykke fra enhetene i Norge eller EU som tidligere eide eller kontrollerte dem, ellerfysiske eller juridiske personer som eier, kontrollerer, forvalter eller driver fartøy som transporterer råolje eller petroleumsprodukter eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland, og som benytter ureglementert skipspraksis som innebærer høy risiko som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33), eller som på annen måte yter materiell, faglig eller finansiell støtte til driften av slike fartøy, ellerfysiske eller juridiske personer som er del av, materielt eller økonomisk støtter eller drar fordel av Russlands militære og industrielle kompleks, herunder ved å være involvert i utvikling, produksjon eller forsyning av militær teknologi og militært utstyr,fysiske eller juridiske personer som har deltatt i eller muliggjort overføringer av eierskap til, kontroll over eller økonomiske fordeler fra forretningsinteressene til framstående næringsdrivende som er underlagt restriktive tiltak i henhold til bokstav g, og dermed på betydelig måte motvirker disse tiltakene, med unntak av overføringer som uttrykkelig er tillatt i henhold til unntak fastsatt i denne forskriften,fysiske eller juridiske personer som er ansvarlige for, støtter eller gjennomfører tiltak eller politikk som bidrar til deportering, tvungen overføring, tvungen assimilering, herunder indoktrinering, eller militær utdannelse av ukrainske mindreårige, ellerfysiske eller juridiske personer som er tilknyttet fysiske eller juridiske personer nevnt i bokstav a–n.
+Vedlegg I omfatter
+
+1. fysiske personer som er ansvarlige for, aktivt støtter eller gjennomfører handlinger eller politikk som undergraver eller truer Ukrainas territorielle integritet, suverenitet og uavhengighet eller stabiliteten eller sikkerheten i Ukraina, eller som hindrer internasjonale organisasjoners arbeid i Ukraina, samt fysiske eller juridiske personer tilknyttet disse personene,
+2. juridiske personer som materielt eller økonomisk støtter handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet og uavhengighet,
+3. juridiske personer på Krim eller i Sevastopol hvis eierskap er overdratt i strid med ukrainsk lov, eller juridiske personer har dratt fordel av en slik overdragelse, eller
+4. fysiske eller juridiske personer som aktivt gir materiell eller økonomisk støtte til eller drar fordel av russiske beslutningstakere som er ansvarlige for annekteringen av Krim og Sevastopol eller destabiliseringen av Ukraina.
+5. fysiske eller juridiske personer som gjennomfører transaksjoner med separatistgruppene i Donbass-regionen i Ukraina.
+6. fysiske eller juridiske personer som materielt eller økonomisk støtter eller drar fordel av Den russiske føderasjons myndigheter, som er ansvarlige for annekteringen av Krim og destabiliseringen av Ukraina, eller
+7. framstående næringsdrivende som driver virksomhet i Russland, samt medlemmer av deres nærmeste familie, eller andre fysiske personer som drar fordel av dem, eller næringsdrivende, juridiske personer, enheter eller organer som driver virksomhet innenfor økonomiske sektorer som er en viktig inntektskilde for Den russiske føderasjons regjering, som er ansvarlig for annekteringen av Krim og destabiliseringen av Ukraina, eller
+8. fysiske eller juridiske personer,
+
+   1. som legger til rette for overtredelser av forbudet mot omgåelse av bestemmelsene i denne forskriften, eller
+   2. som på annen betydelig måte motvirker bestemmelsene i forskriften, eller
+9. juridiske personer som driver virksomhet i den russiske IT-sektoren, med en lisens som administreres av Den russiske føderasjons føderale sikkerhetstjenestes (FSB) senter for lisensiering, sertifisering og beskyttelse av statshemmeligheter, eller en lisens for «våpen og militært utstyr» som administreres av det russiske ministeriet for industri og handel, eller
+10. enheter etablert i Russland, som tidligere var eid eller kontrollert av enheter som er etablert i Norge eller en EU-medlemsstat, hvis eierskap eller kontroll er tvangsoverført av Russland ved lover, forskrifter, andre lovgivningsinstrumenter eller ved annen handling fra en offentlig russisk myndighet, eller fysiske eller juridiske personer, som har dratt nytte av slik overføring, og fysiske personer som er utnevnt til de styrende organene i disse enhetene i Russland, uten samtykke fra enhetene i Norge eller EU som tidligere eide eller kontrollerte dem, eller
+11. fysiske eller juridiske personer som eier, kontrollerer, forvalter eller driver fartøy som transporterer råolje eller petroleumsprodukter eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland, og som benytter ureglementert skipspraksis som innebærer høy risiko som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33), eller som på annen måte yter materiell, faglig eller finansiell støtte til driften av slike fartøy, eller
+12. fysiske eller juridiske personer som er del av, materielt eller økonomisk støtter eller drar fordel av Russlands militære og industrielle kompleks, herunder ved å være involvert i utvikling, produksjon eller forsyning av militær teknologi og militært utstyr,
+13. fysiske eller juridiske personer som har deltatt i eller muliggjort overføringer av eierskap til, kontroll over eller økonomiske fordeler fra forretningsinteressene til framstående næringsdrivende som er underlagt restriktive tiltak i henhold til bokstav g, og dermed på betydelig måte motvirker disse tiltakene, med unntak av overføringer som uttrykkelig er tillatt i henhold til unntak fastsatt i denne forskriften,
+14. fysiske eller juridiske personer som er ansvarlige for, støtter eller gjennomfører tiltak eller politikk som bidrar til deportering, tvungen overføring, tvungen assimilering, herunder indoktrinering, eller militær utdannelse av ukrainske mindreårige, eller
+15. fysiske eller juridiske personer som er tilknyttet fysiske eller juridiske personer nevnt i bokstav a–n.
 
 Dersom fysiske personer som er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), dør i løpet av anvendelsesperioden for de restriktive tiltakene, kan navnene på de døde personene beholdes på denne listen, dersom det å fjerne dem fra listen vil medføre risiko for at formålet med de restriktive tiltakene undergraves på grunn av sannsynligheten for at de aktuelle aktivaene ellers ville bli brukt til å finansiere Russlands angrepskrig mot Ukraina eller andre handlinger som undergraver eller truer Ukrainas territoriale integritet, suverenitet og uavhengighet.
 
@@ -54,19 +179,35 @@ Framstående næringsdrivende som driver virksomhet i Russland og er oppført i 
 
 ### § 4. Unntak for å dekke grunnleggende behov mv.
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2014-08-15-1076/§3) og gi tillatelse på de vilkår direktoratet finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerer nødvendige for å dekke ekstraordinære utgifter,skal betales til eller fra en konto som tilhører eller innehas av en utenriksstasjon eller en internasjonal organisasjon som har immunitet i samsvar med folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen,er nødvendige for statsfinansierte mellomliggende organisasjoners behov for Norges eller EU-medlemsstaters utenlandske kulturpolitikk i Russland,er nødvendige for programmer i Norge eller EU for historisk ansvar eller støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2014-08-15-1076/§3) og gi tillatelse på de vilkår direktoratet finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
+
+1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, eller
+4. er nødvendige for å dekke ekstraordinære utgifter,
+5. skal betales til eller fra en konto som tilhører eller innehas av en utenriksstasjon eller en internasjonal organisasjon som har immunitet i samsvar med folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen,
+6. er nødvendige for statsfinansierte mellomliggende organisasjoners behov for Norges eller EU-medlemsstaters utenlandske kulturpolitikk i Russland,
+7. er nødvendige for programmer i Norge eller EU for historisk ansvar eller støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
 
 > Endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
 ### § 5. Unntak for betalinger i henhold til rettslige eller administrative avgjørelser
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2014-08-15-1076/§3) og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning truffet i Norge eller EU, eller en rettslig beslutning som er rettskraftig i Norge eller EU, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for fysiske eller juridiske personer som er oppført i vedlegg I, oganerkjennelse av beslutningen ikke er i strid med grunnleggende rettsstatsprinsipper.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2014-08-15-1076/§3) og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning truffet i Norge eller EU, eller en rettslig beslutning som er rettskraftig i Norge eller EU, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. beslutningen ikke er til fordel for fysiske eller juridiske personer som er oppført i vedlegg I, og
+4. anerkjennelse av beslutningen ikke er i strid med grunnleggende rettsstatsprinsipper.
 
 > Endret ved [forskrifter 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
 ### § 5a. Unntak fra § 3 knyttet til en domstols eller forvaltningsmyndighets beslutning om å frata penger eller formuesgoder
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til at visse frosne penger eller formuesgoder frigis eller stilles til rådighet, etter å ha slått fast at:en domstol eller forvaltningsmyndighet i Norge eller en EU-medlemsstat har truffet en beslutning i henhold til vilkår fastsatt i lov, om å frata en fysisk eller juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI) penger eller formuesgoder som tilhører, eies av eller kontrolleres av denne personen eller enheten, ogkompensasjon som betales for slik fratagelse av penger eller formuesgoder, fryses.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til at visse frosne penger eller formuesgoder frigis eller stilles til rådighet, etter å ha slått fast at:
+
+1. en domstol eller forvaltningsmyndighet i Norge eller en EU-medlemsstat har truffet en beslutning i henhold til vilkår fastsatt i lov, om å frata en fysisk eller juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI) penger eller formuesgoder som tilhører, eies av eller kontrolleres av denne personen eller enheten, og
+2. kompensasjon som betales for slik fratagelse av penger eller formuesgoder, fryses.
 
 > Tilføyd ved forskrift [19 mars 2024 nr. 534](forskrift/2024-03-19-534), endret ved forskrift [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
@@ -114,33 +255,76 @@ Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for ekspor
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører Alfa-Bank JCS, Rosbank og Tinkoff Bank JCS, eller til å stille visse frosne penger eller formuesgoder til rådighet for disse enhetene, på de vilkårene som Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige og etter å ha slått fast at disse pengene eller formuesgodene er nødvendige for, senest den 3. oktober 2023, å kunne avslutte transaksjoner, kontrakter eller andre avtaler, herunder korrespondentbankforbindelser, inngått med disse enhetene før 25. februar 2023, eller, med hensyn til Alfa-Bank JCS, for transaksjoner for betaling av beløp fra Jewish Claims Conference til mottakere i Russland innen 2. april 2025, uavhengig av når transaksjonene, kontraktene eller andre avtaler ble inngått.
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for en fysisk eller juridisk person oppført i vedlegg I, etter å ha fastslått atpengene eller formuesgodene er nødvendige for at eiendomsrettigheter over en juridisk person som er etablert i Norge eller EU, skal kunne selges eller overdras innen 8. juli 2023 eller innen seks måneder fra datoen for oppføring i vedlegg I, alt etter hvilken dato som er den seneste, dersom disse eiendomsrettighetene direkte eller indirekte innehas av en fysisk eller juridisk person oppført i vedlegg I, oginntektene fra nevnte salg eller overdragelse forblir fryst.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for en fysisk eller juridisk person oppført i vedlegg I, etter å ha fastslått at
+
+1. pengene eller formuesgodene er nødvendige for at eiendomsrettigheter over en juridisk person som er etablert i Norge eller EU, skal kunne selges eller overdras innen 8. juli 2023 eller innen seks måneder fra datoen for oppføring i vedlegg I, alt etter hvilken dato som er den seneste, dersom disse eiendomsrettighetene direkte eller indirekte innehas av en fysisk eller juridisk person oppført i vedlegg I, og
+2. inntektene fra nevnte salg eller overdragelse forblir fryst.
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører PJSC Kamaz, eller til å stille visse frosne penger eller formuesgoder til rådighet for denne enheten, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige og etter å ha fastslått at disse pengene eller formuesgodene er nødvendige for å fullføre transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 22. januar 2023 av et fellesforetak eller et lignende juridisk arrangement som er inngått før 16. mars 2022, og som involverer juridiske personer oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX).
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører National Settlement Depository, eller til å stille visse penger eller formuesgoder til rådighet for denne enheten, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige og etter å ha fastslått at disse pengene eller formuesgodene er nødvendige for at operasjoner, kontrakter eller andre avtaler som er inngått med denne enheten før 3. juni 2022 eller på annen måte involverer den, skal kunne avsluttes innen 25. januar 2023.
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører VTB Bank eller National Settlement Depository (NSD), eller til å stille visse penger eller formuesgoder til rådighet for disse enhetene, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast atdisse pengene eller formuesgodene er nødvendige for avhending eller overføring av verdipapirer fra en enhet som er etablert i Norge eller EU, og som kontrolleres eller tidligere har vært kontrollert av VTB Bank,slik avhending eller overføring fullføres innen 10. april 2024, ogslik avhending eller overføring gjennomføres på bakgrunn av operasjoner, kontrakter eller andre avtaler som er inngått med, eller på andre måter involverer, VTB Bank og National Settlement Depository (NSD) før 3. juni 2022.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører VTB Bank eller National Settlement Depository (NSD), eller til å stille visse penger eller formuesgoder til rådighet for disse enhetene, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast at
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til at statsborgere i, eller fysiske personer bosatt i Norge eller EU, eller en enhet etablert i Norge eller EU, kan konvertere innen 4. april 2024 et depotbevis med russisk underliggende verdipapir som innehas av National Settlement Depository (NSD) for det formål å selge det underliggende verdipapiret, og gjøre tilgjengelig midler knyttet til konverteringen av depotbeviset og til salget av det underliggende verdipapiret direkte eller indirekte til nevnte enhet i Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, og etter å ha fastslått atdepotbeviset er utstedt før 3. juni 2022,relevant anmodning om tillatelse ble levert innen 4. januar 2024,innehaver av depotbeviset kan dokumentere at nevnte konvertering er nødvendig for salget av det underliggende verdipapiret,salget av det underliggende verdipapiret overholder øvrige forbud i denne forskriften, herunder § 8b og § 8h, ogingen midler vil bli gjort tilgjengelig for andre enheter oppført i vedlegg I.
+1. disse pengene eller formuesgodene er nødvendige for avhending eller overføring av verdipapirer fra en enhet som er etablert i Norge eller EU, og som kontrolleres eller tidligere har vært kontrollert av VTB Bank,
+2. slik avhending eller overføring fullføres innen 10. april 2024, og
+3. slik avhending eller overføring gjennomføres på bakgrunn av operasjoner, kontrakter eller andre avtaler som er inngått med, eller på andre måter involverer, VTB Bank og National Settlement Depository (NSD) før 3. juni 2022.
+
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til at statsborgere i, eller fysiske personer bosatt i Norge eller EU, eller en enhet etablert i Norge eller EU, kan konvertere innen 4. april 2024 et depotbevis med russisk underliggende verdipapir som innehas av National Settlement Depository (NSD) for det formål å selge det underliggende verdipapiret, og gjøre tilgjengelig midler knyttet til konverteringen av depotbeviset og til salget av det underliggende verdipapiret direkte eller indirekte til nevnte enhet i Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, og etter å ha fastslått at
+
+1. depotbeviset er utstedt før 3. juni 2022,
+2. relevant anmodning om tillatelse ble levert innen 4. januar 2024,
+3. innehaver av depotbeviset kan dokumentere at nevnte konvertering er nødvendig for salget av det underliggende verdipapiret,
+4. salget av det underliggende verdipapiret overholder øvrige forbud i denne forskriften, herunder § 8b og § 8h, og
+5. ingen midler vil bli gjort tilgjengelig for andre enheter oppført i vedlegg I.
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som innehas av Limited Liability Company «Commercial Vehicles GAZ Group», eller til å stille visse penger eller formuesgoder til rådighet for denne enheten, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast at disse pengene eller formuesgodene er nødvendige for at operasjoner, kontrakter eller andre avtaler som er inngått med, eller på annen måte involverer enheten, før 25. februar 2023, skal kunne avsluttes innen 3. oktober 2023.
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører Alexey Alexandrovits Mordashov, eller til å stille visse penger eller formuesgoder til rådighet for denne fysiske personen eller en enhet eid av denne fysiske personen, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast at disse pengene eller formuesgodene er nødvendige for å fullføre transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 10. desember 2023 av et fellesforetak eller et lignende juridisk arrangement som er etablert i Russland med denne fysiske personen eller en enhet eid av denne fysiske personen før 28. februar 2022.
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, oppført i vedlegg I, eller til å levere tjenester til nevnte fysiske eller juridiske person, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast at dette er strengt nødvendig for etablering, sertifisering eller evaluering av en brannmur somfjerner den kontrollen en fysisk eller juridisk person som er oppført i vedlegg I har over aktivaene til en juridisk person som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i Norge eller en EU-medlemsstat og eid eller kontrollert av førstnevnte, ogsikrer at ingen ytterligere midler eller formuesgoder kommer den oppførte fysiske eller juridiske personen til gode.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, oppført i vedlegg I, eller til å levere tjenester til nevnte fysiske eller juridiske person, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig og etter å ha slått fast at dette er strengt nødvendig for etablering, sertifisering eller evaluering av en brannmur som
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører Gas Industry Insurance Company SOGAZ, AlfaStrakhovanie Group, Insurance Joint Stock Company ‘VSK’ og Limited Liability Company Soglasie Insurance Company på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, og etter å ha slått fast atdette er nødvendig for å gjøre det mulig for Gas Industry Insurance Company SOGAZ, AlfaStrakhovanie Group, Insurance Joint Stock Company ‘VSK’ og Limited Liability Company Soglasie Insurance Company, å betale en enhet som er etablert i Norge, et land som er medlem av Det europeiske økonomiske samarbeidsområde eller Sveits, eller en borger eller en person bosatt i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde eller i Sveits, ogen slik betaling utgjør den godtgjøring eller fordelen som skal ytes etter en inntruffet forsikringssak, og ikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2).
+1. fjerner den kontrollen en fysisk eller juridisk person som er oppført i vedlegg I har over aktivaene til en juridisk person som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i Norge eller en EU-medlemsstat og eid eller kontrollert av førstnevnte, og
+2. sikrer at ingen ytterligere midler eller formuesgoder kommer den oppførte fysiske eller juridiske personen til gode.
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate at visse frosne penger eller formuesgoder frigis, eller at visse penger eller formuesgoder stilles til rådighet for Arkady ROTENBERG, Gennady TIMCHENKO, Alexander PUMPYANSKY, Andrey MELNICHENKO, Viktor RASHNIKOV og Boris ROTENBERG, som oppført i vedlegg I, etter å ha slått fast atpengene eller formuesgodene er nødvendige for salg og overføring innen 3. september 2025 av eiendomsrettigheter som direkte eller indirekte eies av en av disse personene i juridiske personer, som er etablert i Norge eller en EU-medlemsstat, oginntektene av dette salget og denne overføringen fryses.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører Gas Industry Insurance Company SOGAZ, AlfaStrakhovanie Group, Insurance Joint Stock Company ‘VSK’ og Limited Liability Company Soglasie Insurance Company på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, og etter å ha slått fast at
+
+1. dette er nødvendig for å gjøre det mulig for Gas Industry Insurance Company SOGAZ, AlfaStrakhovanie Group, Insurance Joint Stock Company ‘VSK’ og Limited Liability Company Soglasie Insurance Company, å betale en enhet som er etablert i Norge, et land som er medlem av Det europeiske økonomiske samarbeidsområde eller Sveits, eller en borger eller en person bosatt i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde eller i Sveits, og
+2. en slik betaling utgjør den godtgjøring eller fordelen som skal ytes etter en inntruffet forsikringssak, og ikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2).
+
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate at visse frosne penger eller formuesgoder frigis, eller at visse penger eller formuesgoder stilles til rådighet for Arkady ROTENBERG, Gennady TIMCHENKO, Alexander PUMPYANSKY, Andrey MELNICHENKO, Viktor RASHNIKOV og Boris ROTENBERG, som oppført i vedlegg I, etter å ha slått fast at
+
+1. pengene eller formuesgodene er nødvendige for salg og overføring innen 3. september 2025 av eiendomsrettigheter som direkte eller indirekte eies av en av disse personene i juridiske personer, som er etablert i Norge eller en EU-medlemsstat, og
+2. inntektene av dette salget og denne overføringen fryses.
 
 Som unntak fra § 3 kan Direktoratet for eksportkontroll og sanksjoner på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, tillate frigivelse av visse frosne penger eller formuesgoder som tilhører JSC ‘Alabuga’ Special Economic Zone of Industrial and Production Type, eller at visse penger eller formuesgoder stilles til rådighet for denne enheten, etter å ha slått fast at slike penger eller formuesgoder er nødvendige for innen 20. september 2024 å kunne heve kontrakter som er inngått med denne enheten før 19. desember 2023.
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) og forutsatt at midlene har blitt frosset som følge av at en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), eller en juridisk person eid eller kontrollert av en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), har opptrådt som korrespondentbank i en overføring av disse midlene til Norge fra Russland, fra et tredjeland eller fra Norge, kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av visse frosne midler, etter å ha slått fast at overføringen av midleneskjer mellom to fysiske eller juridiske personer som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI),utføres ved bruk av kontoer i kredittinstitusjoner som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), ogikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2) eller [§ 20](forskrift/2014-08-15-1076/§20).Dette leddet gjelder ikke frosne midler eller økonomiske ressurser som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) og forutsatt at midlene har blitt frosset som følge av at en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), eller en juridisk person eid eller kontrollert av en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), har opptrådt som korrespondentbank i en overføring av disse midlene til Norge fra Russland, fra et tredjeland eller fra Norge, kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av visse frosne midler, etter å ha slått fast at overføringen av midlene
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) og forutsatt at betalingen har blitt frosset som følge av at en overføring til Norge fra Russland, fra et tredjeland eller fra Norge, har blitt initiert gjennom eller fra en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), eller gjennom eller fra en juridisk person eid eller kontrollert av en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av denne frosne betalingen etter å ha slått fast at overføringen av betalingenskjer mellom to fysiske eller juridiske personer som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), ogikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2) eller [§ 20](forskrift/2014-08-15-1076/§20).Dette leddet gjelder ikke frosne midler eller økonomiske ressurser som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).Mottakerne av en overføring som nevnt i første setning i dette leddet, kan bare være statsborgere i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer som har midlertidig eller fast oppholdstillatelse i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits.I henhold til dette leddet kan det gis én tillatelse per søker.
+1. skjer mellom to fysiske eller juridiske personer som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI),
+2. utføres ved bruk av kontoer i kredittinstitusjoner som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og
+3. ikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2) eller [§ 20](forskrift/2014-08-15-1076/§20).
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av kontantbeholdninger som er frosset av en verdipapirsentral i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909) og som kan tilskrives «National Settlement Depository» eller andre juridiske personer oppført i vedlegg I, etter å ha slått fast atden berørte verdipapirsentralen har en eller flere kontoer hos «National Settlement Depository», som oppført i vedlegg I,«National Settlement Depository» eller en annen juridisk person som er oppført i vedlegg I har en eller flere kontoer hos verdipapirsentralen som innehar kontantbeholdningen som skal frigis,«National Settlement Depository» har debitert et beløp fra kontoen eller kontoene nevnt i bokstav a i dette leddet, i henhold til en lov, et dekret, en rettslig eller administrativ beslutning eller et annet tiltak, som direkte eller indirekte kan tilskrives Den russiske føderasjonen, uten forutgående samtykke fra den aktuelle verdipapirsentralen,den frigitte kontantbeholdningen skal brukes av den aktuelle verdipapirsentralen for å oppfylle sine rettslige forpliktelser overfor sine deltakere og overstiger ikke det debiterte beløpet omtalt i bokstav c i dette leddet, ogden frigitte kontantbeholdningen ikke stilles til rådighet i strid med § 3 annet ledd.
+Dette leddet gjelder ikke frosne midler eller økonomiske ressurser som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).
+
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) og forutsatt at betalingen har blitt frosset som følge av at en overføring til Norge fra Russland, fra et tredjeland eller fra Norge, har blitt initiert gjennom eller fra en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), eller gjennom eller fra en juridisk person eid eller kontrollert av en juridisk person oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av denne frosne betalingen etter å ha slått fast at overføringen av betalingen
+
+1. skjer mellom to fysiske eller juridiske personer som ikke er oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og
+2. ikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2) eller [§ 20](forskrift/2014-08-15-1076/§20).
+
+Dette leddet gjelder ikke frosne midler eller økonomiske ressurser som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).
+
+Mottakerne av en overføring som nevnt i første setning i dette leddet, kan bare være statsborgere i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer som har midlertidig eller fast oppholdstillatelse i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits.
+
+I henhold til dette leddet kan det gis én tillatelse per søker.
+
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate frigivelse av kontantbeholdninger som er frosset av en verdipapirsentral i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909) og som kan tilskrives «National Settlement Depository» eller andre juridiske personer oppført i vedlegg I, etter å ha slått fast at
+
+1. den berørte verdipapirsentralen har en eller flere kontoer hos «National Settlement Depository», som oppført i vedlegg I,
+2. «National Settlement Depository» eller en annen juridisk person som er oppført i vedlegg I har en eller flere kontoer hos verdipapirsentralen som innehar kontantbeholdningen som skal frigis,
+3. «National Settlement Depository» har debitert et beløp fra kontoen eller kontoene nevnt i bokstav a i dette leddet, i henhold til en lov, et dekret, en rettslig eller administrativ beslutning eller et annet tiltak, som direkte eller indirekte kan tilskrives Den russiske føderasjonen, uten forutgående samtykke fra den aktuelle verdipapirsentralen,
+4. den frigitte kontantbeholdningen skal brukes av den aktuelle verdipapirsentralen for å oppfylle sine rettslige forpliktelser overfor sine deltakere og overstiger ikke det debiterte beløpet omtalt i bokstav c i dette leddet, og
+5. den frigitte kontantbeholdningen ikke stilles til rådighet i strid med § 3 annet ledd.
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til å frigi visse frosne penger som tilhører Nayara Energy Limited, eller at visse formuesgoder stilles til rådighet for enheten, etter å ha slått fast at disse pengene og formuesgodene er strengt nødvendige for å legge til rette for en betydelig reduksjon i forbruket eller avhengigheten av import av russisk råolje, og forutsatt at frigivelsen av penger eller tilgjengeliggjøringen av formuesgoder er avsluttet innen 14. januar 2027.
 
@@ -164,7 +348,10 @@ Bestemmelsen i [§ 3](forskrift/2014-08-15-1076/§3) gjelder ikke penger eller f
 
 ### § 6e. Unntak for å hindre hendelser med alvorlige følger
 
-Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til å frigi visse frosne formuesgoder, etter at Direktoratet for eksportkontroll og sanksjoner har slått fast atfrigivelsen av slike formuesgoder er nødvendig for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, ogutbyttet fra frigivelsen av slike formuesgoder fryses.
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til å frigi visse frosne formuesgoder, etter at Direktoratet for eksportkontroll og sanksjoner har slått fast at
+
+1. frigivelsen av slike formuesgoder er nødvendig for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, og
+2. utbyttet fra frigivelsen av slike formuesgoder fryses.
 
 > Tilføyd ved forskrift [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), endret ved forskrift [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
@@ -186,14 +373,29 @@ Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for ekspor
 
 Bestemmelsen i [§ 3](forskrift/2014-08-15-1076/§3) annet ledd skal ikke forhindre finans- eller kredittinstitusjoner fra å godskrive frosne konti når de mottar penger overført av en tredjepart til en konto tilhørende listeførte fysiske eller juridiske personer forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette Direktoratet for eksportkontroll og sanksjoner om slike transaksjoner.
 
-Bestemmelsen i [§ 3](forskrift/2014-08-15-1076/§3) annet ledd gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato den fysiske eller juridiske personen nevnt i [§ 3](forskrift/2014-08-15-1076/§3) ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i Norge eller EU, eller som er rettskraftige i Norge eller EU, når disse rentene eller andre inntekter og betalinger fryses i henhold til [§ 3](forskrift/2014-08-15-1076/§3) første ledd.
+Bestemmelsen i [§ 3](forskrift/2014-08-15-1076/§3) annet ledd gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato den fysiske eller juridiske personen nevnt i [§ 3](forskrift/2014-08-15-1076/§3) ble oppført i vedlegg I, eller
+3. beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i Norge eller EU, eller som er rettskraftige i Norge eller EU, når disse rentene eller andre inntekter og betalinger fryses i henhold til [§ 3](forskrift/2014-08-15-1076/§3) første ledd.
 
 > Endret ved [forskrifter 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
 ### § 8. Allmenn rapporteringsplikt for å fremme overholdelse av § 3
 
-Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske og juridiske personersenest to uker etter å ha mottatt relevante opplysninger, gi Direktoratet for eksportkontroll og sanksjoner de opplysninger som kan lette gjennomføringen av [§ 3](forskrift/2014-08-15-1076/§3), herunderopplysninger om penger og formuesgoder som er frosne i samsvar med [§ 3](forskrift/2014-08-15-1076/§3), eller opplysninger som innehas om penger og formuesgoder på norsk territorium som tilhører, innehas eller kontrolleres av fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og som ikke er blitt behandlet som frosne av de fysiske og juridiske personene som er forpliktet til dette,opplysninger om penger og formuesgoder på norsk territorium som tilhører, innehas eller kontrolleres av fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og som har vært gjenstand for flytting, overføring, endring, bruk av, adgang til eller behandling som nevnt i [§ 2](forskrift/2014-08-22-1097/§2) bokstav c eller e i de to ukene forut for oppføringen av de nevnte fysiske eller juridiske personene i [vedlegg I](forskrift/2014-08-15-1076/vedleggI),ogsamarbeide med Direktoratet for eksportkontroll og sanksjoner om en eventuell verifisering av disse opplysningene.
-Opplysningene om penger og formuesgoder gitt i henhold til første ledd, og som er frosne i samsvar med [§ 3](forskrift/2014-08-15-1076/§3), skal omfatte minst følgende:opplysninger som identifiserer de fysiske eller juridiske personene som eier, innehar eller kontrollerer de frosne pengene eller formuesgodene, herunder navn, adresse, mva-nummer eller organisasjonsnummer,beløp eller markedsverdi for de nevnte pengene eller formuesgodene på rapporteringstidspunktet og på datoen for frysing, ogform for penger, inndelt etter kategoriene fastsatt i [§ 2](forskrift/2014-08-15-1076/§2) bokstav d nr. i. til vii. samt kryptoeiendeler og andre relevante kategorier, og en ytterligere kategori som tilsvarer formuesgoder i henhold til [§ 2](forskrift/2014-08-15-1076/§2) bokstav b. For hver av disse kategoriene, og der det foreligger, skal det oppgis mengde, hvor pengene eller formuesgodene befinner seg og andre relevante aspekter ved pengene eller formuesgodene.
+Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske og juridiske personer
+
+1. senest to uker etter å ha mottatt relevante opplysninger, gi Direktoratet for eksportkontroll og sanksjoner de opplysninger som kan lette gjennomføringen av [§ 3](forskrift/2014-08-15-1076/§3), herunder
+
+   1. opplysninger om penger og formuesgoder som er frosne i samsvar med [§ 3](forskrift/2014-08-15-1076/§3), eller opplysninger som innehas om penger og formuesgoder på norsk territorium som tilhører, innehas eller kontrolleres av fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og som ikke er blitt behandlet som frosne av de fysiske og juridiske personene som er forpliktet til dette,
+   2. opplysninger om penger og formuesgoder på norsk territorium som tilhører, innehas eller kontrolleres av fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), og som har vært gjenstand for flytting, overføring, endring, bruk av, adgang til eller behandling som nevnt i [§ 2](forskrift/2014-08-22-1097/§2) bokstav c eller e i de to ukene forut for oppføringen av de nevnte fysiske eller juridiske personene i [vedlegg I](forskrift/2014-08-15-1076/vedleggI),
+
+   og
+2. samarbeide med Direktoratet for eksportkontroll og sanksjoner om en eventuell verifisering av disse opplysningene.
+   Opplysningene om penger og formuesgoder gitt i henhold til første ledd, og som er frosne i samsvar med [§ 3](forskrift/2014-08-15-1076/§3), skal omfatte minst følgende:
+3. opplysninger som identifiserer de fysiske eller juridiske personene som eier, innehar eller kontrollerer de frosne pengene eller formuesgodene, herunder navn, adresse, mva-nummer eller organisasjonsnummer,
+4. beløp eller markedsverdi for de nevnte pengene eller formuesgodene på rapporteringstidspunktet og på datoen for frysing, og
+5. form for penger, inndelt etter kategoriene fastsatt i [§ 2](forskrift/2014-08-15-1076/§2) bokstav d nr. i. til vii. samt kryptoeiendeler og andre relevante kategorier, og en ytterligere kategori som tilsvarer formuesgoder i henhold til [§ 2](forskrift/2014-08-15-1076/§2) bokstav b. For hver av disse kategoriene, og der det foreligger, skal det oppgis mengde, hvor pengene eller formuesgodene befinner seg og andre relevante aspekter ved pengene eller formuesgodene.
 
 Verdipapirsentraler skal gi de opplysningene som er nevnt i første og andre ledd, og opplysninger om ekstraordinært og uforutsett tap og skade som gjelder penger og formuesgoder som nevnt i første ledd bokstav a nr. i og a nr. ii, til Direktoratet for eksportkontroll og sanksjoner, senest to uker etter å ha mottatt opplysningene og deretter hver tredje måned.
 
@@ -207,7 +409,10 @@ Enhver behandling av personopplysninger skal gjennomføres i samsvar med [person
 
 ### § 8a. Rapporteringsplikt for listeførte
 
-Fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI) skalsenest 7. oktober 2022 eller innen seks uker fra datoen for oppføring i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor norsk jurisdiksjon som tilhører, innehas eller kontrolleres av dem, til Direktoratet for eksportkontroll og sanksjoner,samarbeide med Direktoratet for eksportkontroll og sanksjoner om en eventuell verifisering av disse opplysningene.
+Fysiske eller juridiske personer oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI) skal
+
+1. senest 7. oktober 2022 eller innen seks uker fra datoen for oppføring i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor norsk jurisdiksjon som tilhører, innehas eller kontrolleres av dem, til Direktoratet for eksportkontroll og sanksjoner,
+2. samarbeide med Direktoratet for eksportkontroll og sanksjoner om en eventuell verifisering av disse opplysningene.
 
 Alle opplysninger som gis eller mottas i henhold til denne paragrafen, skal benyttes utelukkende til de formålene de gis eller mottas for.
 
@@ -225,35 +430,87 @@ Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette g
 
 ### § 8b. Forbud mot handel med visse omsettelige verdipapirer og pengemarkedsinstrumenter mv.
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 90 dager som er utstedt etter 16. august 2014 til 29. september 2014, eller med en løpetid på over 30 dager som er utstedt etter 29. september 2014 til 4. mai 2022, eller omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, aven større kredittinstitusjon eller annen større institusjon med uttrykkelig mandat til å fremme konkurranseevnen og variasjonen i den russiske økonomien og å oppmuntre til investeringer, etablert i Russland med over 50 % offentlig eierskap eller kontroll per 16. august 2014, som oppført i vedlegg V, ellerjuridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg V, ellerjuridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav b) i dette leddet eller oppført i vedlegg V.
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 90 dager som er utstedt etter 16. august 2014 til 29. september 2014, eller med en løpetid på over 30 dager som er utstedt etter 29. september 2014 til 4. mai 2022, eller omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, av
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, aven større kredittinstitusjon eller annen institusjon med over 50 % offentlig eierskap eller kontroll per 19. mars 2022, eller en annen kredittinstitusjon som har en betydelig rolle når det gjelder støtte til Russlands aktiviteter eller den russiske regjeringens eller den russiske sentralbankens aktiviteter, og som er etablert i Russland, som oppført i vedlegg XIII, ellerjuridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XIII, ellerjuridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a) eller b).
+1. en større kredittinstitusjon eller annen større institusjon med uttrykkelig mandat til å fremme konkurranseevnen og variasjonen i den russiske økonomien og å oppmuntre til investeringer, etablert i Russland med over 50 % offentlig eierskap eller kontroll per 16. august 2014, som oppført i vedlegg V, eller
+2. juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg V, eller
+3. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav b) i dette leddet eller oppført i vedlegg V.
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 30 dager som er utstedt etter 29. september 2014 til 4. mai 2022, eller er omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, avjuridiske personer som er etablert i Russland og primært beskjeftiget med større aktiviteter i forbindelse med utforming, produksjon, salg eller eksport av militært utstyr eller militære tjenester, som er oppført i vedlegg VII, med unntak av juridiske personer som er virksomme i rom- eller kjernekraftsektoren,juridiske personer som er etablert i Russland og kontrollert av staten, eller der staten eier over 50 %, hvis samlede eiendeler er beregnet til mer enn 1 milliard russiske rubler, og der minst 50 % av de beregnede inntektene skriver seg fra salg eller frakt av råolje eller oljeprodukter, som oppført i vedlegg VIII,juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i bokstav a) eller b), ellerjuridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c).
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, av
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, avjuridiske personer som er etablert i Russland og kontrollert av staten, eller der staten eier over 50 % og der Russland, den russiske regjeringen eller den russiske sentralbanken har rett til utbytte, eller der Russland, den russiske regjeringen eller den russiske sentralbanken har andre betydelige økonomiske forhold, som oppført i vedlegg XIV, ellerjuridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XIV, ellerjuridiske personer som omhandler på vegne av eller på instruks fra en enhet nevnt i bokstav a) eller b). .
+1. en større kredittinstitusjon eller annen institusjon med over 50 % offentlig eierskap eller kontroll per 19. mars 2022, eller en annen kredittinstitusjon som har en betydelig rolle når det gjelder støtte til Russlands aktiviteter eller den russiske regjeringens eller den russiske sentralbankens aktiviteter, og som er etablert i Russland, som oppført i vedlegg XIII, eller
+2. juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XIII, eller
+3. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a) eller b).
+
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter med en løpetid på over 30 dager som er utstedt etter 29. september 2014 til 4. mai 2022, eller er omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, av
+
+1. juridiske personer som er etablert i Russland og primært beskjeftiget med større aktiviteter i forbindelse med utforming, produksjon, salg eller eksport av militært utstyr eller militære tjenester, som er oppført i vedlegg VII, med unntak av juridiske personer som er virksomme i rom- eller kjernekraftsektoren,
+2. juridiske personer som er etablert i Russland og kontrollert av staten, eller der staten eier over 50 %, hvis samlede eiendeler er beregnet til mer enn 1 milliard russiske rubler, og der minst 50 % av de beregnede inntektene skriver seg fra salg eller frakt av råolje eller oljeprodukter, som oppført i vedlegg VIII,
+3. juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i bokstav a) eller b), eller
+4. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a), b) eller c).
+
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 4. mai 2022, av
+
+1. juridiske personer som er etablert i Russland og kontrollert av staten, eller der staten eier over 50 % og der Russland, den russiske regjeringen eller den russiske sentralbanken har rett til utbytte, eller der Russland, den russiske regjeringen eller den russiske sentralbanken har andre betydelige økonomiske forhold, som oppført i vedlegg XIV, eller
+2. juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XIV, eller
+3. juridiske personer som omhandler på vegne av eller på instruks fra en enhet nevnt i bokstav a) eller b). .
 
 Fra og med 4. mai 2022 er det forbudt å føre opp og yte tjenester for, og fra 15. mars 2023 å ta opp til handel, på handelsplasser som er registrert eller anerkjent i Norge eller EU, omsettelige verdipapirer tilhørende juridiske personer som er etablert i Russland og har over 50 % offentlig eierskap.
 
-Det er forbudt direkte eller indirekte å opprette eller delta i ordninger med sikte på åyte nye lån eller kreditter med en løpetid på over 30 dager til juridiske personer nevnt i første eller tredje ledd, etter 29. september 2014 til 19. mars 2022, elleryte nye lån eller kreditter til juridiske personer nevnt i første, annet, tredje eller fjerde ledd etter 19. mars 2022.Forbudet gjelder ikkelån eller kreditter som har som konkret og dokumentert formål å finansiere import eller eksport av varer som ikke omfattes av forbud, og ikke-finansielle tjenester mellom Norge eller EU og et tredjeland, herunder utgifter til varer og tjenester fra et annet tredjeland som er nødvendige for å oppfylle kontraktene om eksport eller import, forutsatt at Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter låne- eller kredittdatoen, ellerlån som har som konkret og dokumentert formål å yte nødfinansiering med sikte på å oppfylle solvens- og likviditetskriterier for juridiske personer etablert i Norge eller EU der mer enn 50 % av eiendomsrettighetene innehas av en enhet oppført i [vedlegg V](forskrift/2014-08-15-1076/vedleggV), forutsatt at Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter låne- eller kredittdatoen.
+Det er forbudt direkte eller indirekte å opprette eller delta i ordninger med sikte på å
 
-Forbudet i sjette ledd gjelder ikke utnyttelse av kredittmuligheter eller utbetalinger som er foretatt i henhold til kontrakt inngått før 19. mars 2022, forutsatt at følgende vilkår er oppfylt:alle vilkår for slik utnyttelse av kredittmuligheter eller slike utbetalingervar avtalt før 19. mars 2022, oger ikke blitt endret på eller etter denne datoen, ogdet før 19. mars 2022 er fastsatt en kontraktfestet forfallsdag for full tilbakebetaling av penger som er stilt til rådighet, og for oppheving av alle tilsagn, rettigheter og forpliktelser i henhold til kontrakten,det ikke forelå brudd på noen av forbudene i denne forskriften på tidspunktet for kontraktinngåelse, ogDirektoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter datoen for utnyttelse av kredittmuligheten eller utbetalingen.Vilkårene som gjelder ved utnyttelse av kredittmulighet og utbetaling som nevnt i bokstav a skal omfatte bestemmelser om lengden på tilbakebetalingstiden for hver kredittutnyttelse eller utbetaling, gjeldende rentesats eller renteberegningsmetoden samt maksimumsbeløpet.
+1. yte nye lån eller kreditter med en løpetid på over 30 dager til juridiske personer nevnt i første eller tredje ledd, etter 29. september 2014 til 19. mars 2022, eller
+2. yte nye lån eller kreditter til juridiske personer nevnt i første, annet, tredje eller fjerde ledd etter 19. mars 2022.
+
+Forbudet gjelder ikke
+
+1. lån eller kreditter som har som konkret og dokumentert formål å finansiere import eller eksport av varer som ikke omfattes av forbud, og ikke-finansielle tjenester mellom Norge eller EU og et tredjeland, herunder utgifter til varer og tjenester fra et annet tredjeland som er nødvendige for å oppfylle kontraktene om eksport eller import, forutsatt at Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter låne- eller kredittdatoen, eller
+2. lån som har som konkret og dokumentert formål å yte nødfinansiering med sikte på å oppfylle solvens- og likviditetskriterier for juridiske personer etablert i Norge eller EU der mer enn 50 % av eiendomsrettighetene innehas av en enhet oppført i [vedlegg V](forskrift/2014-08-15-1076/vedleggV), forutsatt at Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter låne- eller kredittdatoen.
+
+Forbudet i sjette ledd gjelder ikke utnyttelse av kredittmuligheter eller utbetalinger som er foretatt i henhold til kontrakt inngått før 19. mars 2022, forutsatt at følgende vilkår er oppfylt:
+
+1. alle vilkår for slik utnyttelse av kredittmuligheter eller slike utbetalinger
+
+   1. var avtalt før 19. mars 2022, og
+   2. er ikke blitt endret på eller etter denne datoen, og
+2. det før 19. mars 2022 er fastsatt en kontraktfestet forfallsdag for full tilbakebetaling av penger som er stilt til rådighet, og for oppheving av alle tilsagn, rettigheter og forpliktelser i henhold til kontrakten,
+3. det ikke forelå brudd på noen av forbudene i denne forskriften på tidspunktet for kontraktinngåelse, og
+4. Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter datoen for utnyttelse av kredittmuligheten eller utbetalingen.
+
+Vilkårene som gjelder ved utnyttelse av kredittmulighet og utbetaling som nevnt i bokstav a skal omfatte bestemmelser om lengden på tilbakebetalingstiden for hver kredittutnyttelse eller utbetaling, gjeldende rentesats eller renteberegningsmetoden samt maksimumsbeløpet.
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
 ### § 8c. Forbud mot handel i visse finansielle instrumenter utstedt av Russland og forvaltning av den russiske sentralbanks reserver og eiendeler
 
-Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 1. april 2022 avRussland og Russlands regjering,Russlands sentralbank, ellerjuridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav b.
+Det er forbudt direkte eller indirekte å kjøpe, selge eller yte investeringstjenester til eller bistand ved utstedelse av, eller på annen måte å handle med, omsettelige verdipapirer og pengemarkedsinstrumenter som er utstedt etter 1. april 2022 av
+
+1. Russland og Russlands regjering,
+2. Russlands sentralbank, eller
+3. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav b.
 
 Det er forbudt direkte eller indirekte å opprette eller delta i ordninger med sikte på å yte nye lån eller kreditter etter 18. mars 2022 til juridiske personer nevnt i første ledd.
 
 Forbudet i andre ledd gjelder ikke lån eller kreditter som har som konkret og dokumentert formål å finansiere import eller eksport av varer som ikke omfattes av forbud, og ikke-finansielle tjenester mellom Norge og et tredjeland, herunder utgifter til varer og tjenester fra et annet tredjeland som er nødvendige for å oppfylle kontraktene om eksport- eller import, forutsatt at Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter låne- eller kredittdatoen.
 
-Forbudet i andre ledd gjelder ikke utnyttelse av kredittmuligheter eller utbetalinger som er foretatt i henhold til en kontrakt inngått før 18. mars 2022, forutsatt at følgende vilkår er oppfylt:alle vilkår for slik utnyttelse av kredittmuligheter eller slike utbetalingervar avtalt før 18. mars 2022, oger ikke blitt endret på eller etter denne datoen, ogdet før 18. mars 2022 er fastsatt en kontraktfestet forfallsdag for full tilbakebetaling av alle penger som er stilt til rådighet, og for oppheving av alle tilsagn, rettigheter og forpliktelser i henhold til kontrakten, ogDirektoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter datoen for utnyttelse av kredittmuligheten eller utbetalingen.Vilkårene som gjelder ved utnyttelse av kredittmulighet og utbetaling nevnt i bokstav a skal omfatte bestemmelser om lengden på tilbakebetalingstiden for hver kredittutnyttelse eller utbetaling, gjeldende rentesats eller renteberegningsmetode samt maksimumsbeløpet.
+Forbudet i andre ledd gjelder ikke utnyttelse av kredittmuligheter eller utbetalinger som er foretatt i henhold til en kontrakt inngått før 18. mars 2022, forutsatt at følgende vilkår er oppfylt:
+
+1. alle vilkår for slik utnyttelse av kredittmuligheter eller slike utbetalinger
+
+   1. var avtalt før 18. mars 2022, og
+   2. er ikke blitt endret på eller etter denne datoen, og
+2. det før 18. mars 2022 er fastsatt en kontraktfestet forfallsdag for full tilbakebetaling av alle penger som er stilt til rådighet, og for oppheving av alle tilsagn, rettigheter og forpliktelser i henhold til kontrakten, og
+3. Direktoratet for eksportkontroll og sanksjoner er underrettet innen tre måneder etter datoen for utnyttelse av kredittmuligheten eller utbetalingen.
+
+Vilkårene som gjelder ved utnyttelse av kredittmulighet og utbetaling nevnt i bokstav a skal omfatte bestemmelser om lengden på tilbakebetalingstiden for hver kredittutnyttelse eller utbetaling, gjeldende rentesats eller renteberegningsmetode samt maksimumsbeløpet.
 
 Transaksjoner som gjelder forvaltningen av Russlands sentralbanks reserver og eiendeler, herunder transaksjoner med juridiske personer som handler på vegne av eller instruks fra Russlands sentralbank, for eksempel Russlands nasjonale investeringsfond, er forbudt.
 
-Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt skal fysiske og juridiske personer, herunder Norges Bank, foretak i finanssektoren som definert i [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3), forsikrings- og gjenforsikringsforetak som definert i artikkel 13 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138) jf. [solvens II-forskriften § 53](forskrift/2015-08-25-999/§53), verdipapirsentraler som definert i [§ 2](forskrift/2014-08-15-1076/§2) bokstav o og sentrale motparter som definert i artikkel 2 i europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648), jf. [CRR/CRD IV-forskriften § 2](forskrift/2014-08-22-1097/§2), senest to uker etter 4. juni 2023, framlegge for Direktoratet for eksportkontroll og sanksjoner, opplysninger om reserver og eiendeler nevnt i sjette ledd som de innehar eller kontrollerer eller er motpart til. Nevnte opplysninger skal oppdateres hver tredje måned og skal minst dekke følgende:opplysninger som identifiserer de fysiske eller juridiske personene som eier, innehar eller kontrollerer de nevnte reservene og eiendelene, herunder navn, adresse, mva-nummer eller organisasjonsnummer,beløp eller markedsverdi for disse eiendelene eller reservene på rapporteringstidspunktet og datoen for immobilisering, ogtype eiendeler og reserver, inndelt etter kategoriene fastsatt i [§ 2](forskrift/2014-08-15-1076/§2) bokstav d nr. i til vi samt kryptoeiendeler og andre relevante kategorier, og en ytterligere kategori som tilsvarer formuesgoder i henhold til [§ 2](forskrift/2014-08-15-1076/§2) bokstav b. For hver av disse kategoriene, og der det er tilgjengelig, skal det opplyses om relevante forhold, som mengde, hvor eiendelene og reservene befinner seg, valuta, løpetid og kontraktsvilkår mellom rapporterende foretak og eieren av eiendelen.
+Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt skal fysiske og juridiske personer, herunder Norges Bank, foretak i finanssektoren som definert i [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3), forsikrings- og gjenforsikringsforetak som definert i artikkel 13 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138) jf. [solvens II-forskriften § 53](forskrift/2015-08-25-999/§53), verdipapirsentraler som definert i [§ 2](forskrift/2014-08-15-1076/§2) bokstav o og sentrale motparter som definert i artikkel 2 i europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648), jf. [CRR/CRD IV-forskriften § 2](forskrift/2014-08-22-1097/§2), senest to uker etter 4. juni 2023, framlegge for Direktoratet for eksportkontroll og sanksjoner, opplysninger om reserver og eiendeler nevnt i sjette ledd som de innehar eller kontrollerer eller er motpart til. Nevnte opplysninger skal oppdateres hver tredje måned og skal minst dekke følgende:
+
+1. opplysninger som identifiserer de fysiske eller juridiske personene som eier, innehar eller kontrollerer de nevnte reservene og eiendelene, herunder navn, adresse, mva-nummer eller organisasjonsnummer,
+2. beløp eller markedsverdi for disse eiendelene eller reservene på rapporteringstidspunktet og datoen for immobilisering, og
+3. type eiendeler og reserver, inndelt etter kategoriene fastsatt i [§ 2](forskrift/2014-08-15-1076/§2) bokstav d nr. i til vi samt kryptoeiendeler og andre relevante kategorier, og en ytterligere kategori som tilsvarer formuesgoder i henhold til [§ 2](forskrift/2014-08-15-1076/§2) bokstav b. For hver av disse kategoriene, og der det er tilgjengelig, skal det opplyses om relevante forhold, som mengde, hvor eiendelene og reservene befinner seg, valuta, løpetid og kontraktsvilkår mellom rapporterende foretak og eieren av eiendelen.
 
 Dersom den rapporterende fysiske eller juridiske personen har fastslått en ekstraordinær og uforutsett skade eller tap på eiendelene og reservene nevnt i syvende ledd, skal disse opplysningene umiddelbart rapporteres til Direktoratet for eksportkontroll og sanksjoner.
 
@@ -267,7 +524,11 @@ Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra forbudene i
 
 Femte ledd gjelder ikke balansestyringstransaksjoner knyttet til Russlands sentralbanks eiendeler og reserver, eller som er knyttet til eiendeler og reserver som tilhører juridiske personer som handler på vegne av eller etter instruks fra Russlands sentralbank, for eksempel Russlands nasjonale investeringsfond, og som er utført 18. mars 2022 eller senere.
 
-Fra og med 22. februar 2025 og så lenge de restriktive tiltakene fastsatt i femte ledd opprettholdes, skal verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909), jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1), som holder eiendeler og reserver nevnt i femte ledd med en samlet verdi som overstiger 1 million euro, anvende følgende regler med hensyn til kontantbeholdninger som akkumuleres utelukkende som følge av de restriktive tiltakene:disse kontantbeholdningene skal regnskapsføres separat,inntekter som stammer fra eller er generert av kontantbeholdningene nevnt i bokstav a etter 22. februar 2025, skal registreres separat i verdipapirsentralenes finansregnskap,uten at det berører fjortende ledd, skal nettooverskudd som for de inntektene som er nevnt i bokstav b fastsettes i samsvar med nasjonal lovgivning, herunder ved å trekke fra alle relevante utgifter knyttet til eller som følger av forvaltningen av de immobiliserte eiendelene og risikostyringen knyttet til de immobiliserte eiendelene, og etter fradrag av selskapsskatt i henhold til skattelovgivningen, ikke disponeres i form av utbetaling av utbytte eller på noen annen måte til fordel for aksjonærer eller en tredjepart. Dette forbudet gjelder ikke nettooverskudd som ikke utgjør det finansielle bidraget nevnt i fjortende ledd.
+Fra og med 22. februar 2025 og så lenge de restriktive tiltakene fastsatt i femte ledd opprettholdes, skal verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909), jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1), som holder eiendeler og reserver nevnt i femte ledd med en samlet verdi som overstiger 1 million euro, anvende følgende regler med hensyn til kontantbeholdninger som akkumuleres utelukkende som følge av de restriktive tiltakene:
+
+1. disse kontantbeholdningene skal regnskapsføres separat,
+2. inntekter som stammer fra eller er generert av kontantbeholdningene nevnt i bokstav a etter 22. februar 2025, skal registreres separat i verdipapirsentralenes finansregnskap,
+3. uten at det berører fjortende ledd, skal nettooverskudd som for de inntektene som er nevnt i bokstav b fastsettes i samsvar med nasjonal lovgivning, herunder ved å trekke fra alle relevante utgifter knyttet til eller som følger av forvaltningen av de immobiliserte eiendelene og risikostyringen knyttet til de immobiliserte eiendelene, og etter fradrag av selskapsskatt i henhold til skattelovgivningen, ikke disponeres i form av utbetaling av utbytte eller på noen annen måte til fordel for aksjonærer eller en tredjepart. Dette forbudet gjelder ikke nettooverskudd som ikke utgjør det finansielle bidraget nevnt i fjortende ledd.
 
 Av nettooverskuddet nevnt i trettende ledd bokstav c skal verdipapirsentralene betale et finansielt bidrag som skal brukes til å støtte Ukraina. Det finansielle bidraget skal utgjøre 99,7 % av nettooverskuddet. Utenriksdepartementet fastsetter hvordan det finansielle bidraget skal betales inn og brukes.
 
@@ -277,13 +538,26 @@ Handlinger utført av en verdipapirsentral i henhold til femte til fjortende led
 
 ### § 8ca. Forbud mot transaksjoner med juridiske personer oppført i vedlegg XIX mv., og forbud mot å inneha stillinger i visse styrende organer
 
-Det er forbudt å direkte eller indirekte delta i noen form for transaksjon medjuridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %, eller der Russland, Russlands regjering eller Russlands sentralbank har rett til utbytte, eller der Russland, Russlands regjering eller Russlands sentralbank har andre betydelige økonomiske forbindelser, som oppført i vedlegg XIX, ellerjuridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person oppført i vedlegg XIX, ellerjuridiske personer som handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b i dette leddet.
+Det er forbudt å direkte eller indirekte delta i noen form for transaksjon med
+
+1. juridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %, eller der Russland, Russlands regjering eller Russlands sentralbank har rett til utbytte, eller der Russland, Russlands regjering eller Russlands sentralbank har andre betydelige økonomiske forbindelser, som oppført i vedlegg XIX, eller
+2. juridiske personer etablert utenfor Norge eller EU hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person oppført i vedlegg XIX, eller
+3. juridiske personer som handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b i dette leddet.
 
 Fra og med 13. november 2022 er det forbudt å inneha stillinger i styrende organer for juridiske personer nevnt i første ledd.
 
-Fra og med 2. mars 2023 er det forbudt å inneha stillinger i styrende organer forjuridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %, eller der Russland, Russlands regjering eller Russlands sentralbank har rett til utbytte, eller der Russland, Russlands regjering eller Russlands sentralbank har andre betydelige økonomiske forbindelser,juridiske personer som er etablert i Russland, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person omtalt i bokstav a, ellerjuridiske personer som er etablert i Russland og handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b.Dette forbudet gjelder ikke juridiske personer nevnt i første ledd. For disse gjelder andre ledd.
+Fra og med 2. mars 2023 er det forbudt å inneha stillinger i styrende organer for
 
-Som unntak fra tredje ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å inneha en stilling i et styrende organ i juridiske personer nevnt i tredje ledd, etter å ha slått fast at den juridiske personen eret fellesforetak eller et lignende juridisk arrangement som involverer juridiske personer omhandlet i tredje ledd, og som er inngått av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning før 31. januar 2023, ellerjuridiske personer omhandlet i tredje ledd som var etablert i Russland før 31. januar 2023, og som eies av eller, alene eller i fellesskap, kontrolleres av en juridiske person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
+1. juridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %, eller der Russland, Russlands regjering eller Russlands sentralbank har rett til utbytte, eller der Russland, Russlands regjering eller Russlands sentralbank har andre betydelige økonomiske forbindelser,
+2. juridiske personer som er etablert i Russland, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person omtalt i bokstav a, eller
+3. juridiske personer som er etablert i Russland og handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b.
+
+Dette forbudet gjelder ikke juridiske personer nevnt i første ledd. For disse gjelder andre ledd.
+
+Som unntak fra tredje ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å inneha en stilling i et styrende organ i juridiske personer nevnt i tredje ledd, etter å ha slått fast at den juridiske personen er
+
+1. et fellesforetak eller et lignende juridisk arrangement som involverer juridiske personer omhandlet i tredje ledd, og som er inngått av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning før 31. januar 2023, eller
+2. juridiske personer omhandlet i tredje ledd som var etablert i Russland før 31. januar 2023, og som eies av eller, alene eller i fellesskap, kontrolleres av en juridiske person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
 
 Som unntak fra tredje ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å inneha en stilling i et styrende organ i juridiske personer nevnt i tredje ledd, etter å ha slått fast at det å ha en slik stilling er nødvendig for å sikre kritisk kraftforsyning.
 
@@ -301,9 +575,26 @@ Forbudet i første ledd gjelder ikke mottak av betalinger som skal foretas av ju
 
 Forbudet i første ledd gjelder ikke mottak av betalinger som skal foretas av juridiske personer omhandlet i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX) del C i henhold til kontrakter som er gjennomført innen 2. mai 2023.
 
-Forbudet i første ledd gjelder ikke for juridiske personer etablert i Norge eller EU som handler på vegne av eller på instruks fra juridiske personer nevnt i første ledd bokstav a eller b, forutsatt atkompetente myndigheter, i Norge eller EU, har satt en slik juridisk person under administrasjon av en offentlig tilsynsmyndighet eller pålagt den juridiske personen et lignende offentlig brannmurtiltak, elleret tilsvarende brannmurtiltak er godkjent av kompetente myndigheter i Norge eller EU for å sikre at de juridiske personene fortsetter å fungere og at de restriktive tiltakene overholdes.
+Forbudet i første ledd gjelder ikke for juridiske personer etablert i Norge eller EU som handler på vegne av eller på instruks fra juridiske personer nevnt i første ledd bokstav a eller b, forutsatt at
 
-Med mindre det ellers er forbudt, gjelder forbudet i første ledd ikke:transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til Norge, et medlemsland i Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russlandtransaksjoner knyttet til energiprosjekter utenfor Russland der en juridisk person oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX) er en mindretallsaksjeeier,– – –transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 31. desember 2026 av et fellesforetak eller et lignende juridisk arrangement som er inngått før 25. mars 2022, og som involverer en juridisk person omhandlet i første ledd,transaksjoner knyttet til levering av elektroniske kommunikasjonstjenester, datasentertjenester og tjenester og utstyr som er nødvendig for deres drift, vedlikehold, sikkerhet, herunder brannmurer, samt telefonsentertjenester, til juridiske personer oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX).transaksjoner som er nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,transaksjoner som er strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,uten at det berører forbudet i [§ 17j](forskrift/2014-08-15-1076/§17j), transaksjoner med Rosneft og Gazprom Neft, som er nødvendige for handel, formidling, transport, herunder ved skip-til-skip-overføringer til tredjeland, og tilknyttet faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand, av råolje som hører inn under KN-kode 2709 00 og petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, forutsatt at kjøpsprisen per fat for slike produkter ikke overstiger prisen som er fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), i samsvar med [§ 17k sjette ledd bokstav a](forskrift/2014-08-15-1076/§17k/ledd/6/bokstav/a).Unntakene i dette leddets bokstav a og aa får ikke anvendelse på Rosneft, bortsett fra når det gjelder transitt av olje eller raffinerte petroleumsprodukter som har opprinnelse i et tredjeland og som kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.Unntakene i dette leddets bokstav a, aa og b får ikke anvendelse på Gazprom Neft.
+1. kompetente myndigheter, i Norge eller EU, har satt en slik juridisk person under administrasjon av en offentlig tilsynsmyndighet eller pålagt den juridiske personen et lignende offentlig brannmurtiltak, eller
+2. et tilsvarende brannmurtiltak er godkjent av kompetente myndigheter i Norge eller EU for å sikre at de juridiske personene fortsetter å fungere og at de restriktive tiltakene overholdes.
+
+Med mindre det ellers er forbudt, gjelder forbudet i første ledd ikke:
+
+1. transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til Norge, et medlemsland i Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,
+2. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland
+3. transaksjoner knyttet til energiprosjekter utenfor Russland der en juridisk person oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX) er en mindretallsaksjeeier,
+4. – – –
+5. transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 31. desember 2026 av et fellesforetak eller et lignende juridisk arrangement som er inngått før 25. mars 2022, og som involverer en juridisk person omhandlet i første ledd,
+6. transaksjoner knyttet til levering av elektroniske kommunikasjonstjenester, datasentertjenester og tjenester og utstyr som er nødvendig for deres drift, vedlikehold, sikkerhet, herunder brannmurer, samt telefonsentertjenester, til juridiske personer oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX).
+7. transaksjoner som er nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,
+8. transaksjoner som er strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,
+9. uten at det berører forbudet i [§ 17j](forskrift/2014-08-15-1076/§17j), transaksjoner med Rosneft og Gazprom Neft, som er nødvendige for handel, formidling, transport, herunder ved skip-til-skip-overføringer til tredjeland, og tilknyttet faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand, av råolje som hører inn under KN-kode 2709 00 og petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, forutsatt at kjøpsprisen per fat for slike produkter ikke overstiger prisen som er fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), i samsvar med [§ 17k sjette ledd bokstav a](forskrift/2014-08-15-1076/§17k/ledd/6/bokstav/a).
+
+Unntakene i dette leddets bokstav a og aa får ikke anvendelse på Rosneft, bortsett fra når det gjelder transitt av olje eller raffinerte petroleumsprodukter som har opprinnelse i et tredjeland og som kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
+
+Unntakene i dette leddets bokstav a, aa og b får ikke anvendelse på Gazprom Neft.
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for avhending og tilbaketrekking av de juridiske personene nevnt i første ledd eller deres datterselskaper i EU innen 31. desember 2026 fra juridiske personer som er etablert i Norge eller EU.
 
@@ -321,7 +612,10 @@ Første ledd får ikke anvendelse for statsborgere fra et medlemsland i Det euro
 
 Det er forbudt direkte eller indirekte å delta i transaksjoner med en juridisk person som oppført i [vedlegg XLIII](forskrift/2014-08-15-1076/vedleggXLIII). [Vedlegg XLIII](forskrift/2014-08-15-1076/vedleggXLIII) omfatter juridiske personer nevnt i [§ 20a første ledd bokstav a](forskrift/2014-08-15-1076/§20a/ledd/1/bokstav/a), [b](forskrift/2014-08-15-1076/§20a/ledd/1/bokstav/b) eller c som har brakt et krav inn for en russisk domstol mot visse fysiske eller juridiske personer for å få et rettslig pålegg, en kjennelse, et fritak, en dom eller en annen rettsavgjørelse i henhold til eller avledet av artikkel 248.1 eller 248.2 i Den russiske føderasjons lov om voldgift eller tilsvarende russisk lovgivning i forbindelse med en kontrakt eller transaksjon hvis gjennomføring direkte eller indirekte, helt eller delvis, har blitt berørt av tiltakene som pålegges i denne forskriften.
 
-Med mindre det ellers er forbudt, gjelder ikke forbudet i første ledd transaksjoner som ernødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, importere og transportere i henhold til denne forskriften, ellerstrengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften.
+Med mindre det ellers er forbudt, gjelder ikke forbudet i første ledd transaksjoner som er
+
+1. nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, importere og transportere i henhold til denne forskriften, eller
+2. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften.
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
@@ -335,37 +629,111 @@ Forbudet i andre ledd gjelder ikke oppfyllelse innen 27. september 2026 av kontr
 
 Forbudet i andre ledd gjelder ikke mottak av betalinger som skal foretas av Bank BelVEB, Belgazprombank, VTB Bank (PJSC) Shangai Branch, CJSC Alfa-Bank (Belarus), OJSC Sber Bank (Belarus) VTB Bank (Belarus) og VTB Bank (Kazakhstan) innen 28. mars 2026 i henhold til kontrakter som er gjennomført innen 27. september 2026.
 
-Forbudet i første ledd gjelder ikke for transaksjoner som erstrengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k),nødvendige for kjøp, import eller transport til Norge eller EU av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, importere og transportere til Norge og EU i henhold til denne forskriften,nødvendige for tilbakebetaling av gjeld til en statsborger i Norge eller en EU-medlemsstat eller en juridisk person som er etablert i Norge eller EU,nødvendige for utbetaling fra en pensjonsordning til en person som er etablert i Norge eller EU,nødvendige for betaling fra eller til Jewish Claims Conference,nødvendige for drift av Norges eller EUs diplomatiske eller konsulære representasjoner i tredjeland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i tredjeland som har immunitet i henhold til folkeretten,foretatt av statsborgere i Norge eller en EU-medlemsstat som er bosatt i et tredjeland,nødvendige for programmer i Norge eller EU for historisk ansvar eller støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
+Forbudet i første ledd gjelder ikke for transaksjoner som er
 
-Forbudet i annet ledd gjelder ikke for transaksjoner som ernødvendige for kjøp, eksport, levering, salg, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, eksportere, levere, selge, overføre eller transportere i henhold til denne forskriften, og som er nødvendige av hensyn til matvaresikkerheten i tredjeland,strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,nødvendige for tilbakebetaling av gjeld til en norsk statsborger eller statsborger i en EU-medlemsstat eller en juridisk person etablert i Norge eller EU,avhengige av deltakelse fra en juridisk person oppført i vedlegg XLIV for å yte korrespondentbanktjenester, ellernødvendige for at en norsk statsborger eller statsborger i en EU-medlemsstat eller en juridisk person etablert i Norge eller EU skal kunne foreta betaling i henhold til en låneavtale inngått av Norge eller en medlemsstat i EU.
+1. strengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,
+2. strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k),
+3. nødvendige for kjøp, import eller transport til Norge eller EU av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, importere og transportere til Norge og EU i henhold til denne forskriften,
+4. nødvendige for tilbakebetaling av gjeld til en statsborger i Norge eller en EU-medlemsstat eller en juridisk person som er etablert i Norge eller EU,
+5. nødvendige for utbetaling fra en pensjonsordning til en person som er etablert i Norge eller EU,
+6. nødvendige for betaling fra eller til Jewish Claims Conference,
+7. nødvendige for drift av Norges eller EUs diplomatiske eller konsulære representasjoner i tredjeland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i tredjeland som har immunitet i henhold til folkeretten,
+8. foretatt av statsborgere i Norge eller en EU-medlemsstat som er bosatt i et tredjeland,
+9. nødvendige for programmer i Norge eller EU for historisk ansvar eller støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
 
-Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene som Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, til gjennomføring av transaksjoner med Bank BelVEB, som oppført i [vedlegg XLIV](forskrift/2014-08-15-1076/vedleggXLIV), og etter å ha slått fast at gjennomføringen av slike transaksjoner er nødvendig fortilbakebetaling av garanterte eksportkreditter,transaksjoner som er strengt nødvendige for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland innen 17. desember 2025, som var dekket av eksportkredittgarantier fra Norge eller en medlemsstat i EU, elleroppfyllelse av kontrakter innen 17. desember 2025 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, for mottakere i Norge eller EU, såfremt kontraktene er inngått før 18. juni 2025.
+Forbudet i annet ledd gjelder ikke for transaksjoner som er
+
+1. nødvendige for kjøp, eksport, levering, salg, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å kjøpe, eksportere, levere, selge, overføre eller transportere i henhold til denne forskriften, og som er nødvendige av hensyn til matvaresikkerheten i tredjeland,
+2. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,
+3. nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+4. nødvendige for tilbakebetaling av gjeld til en norsk statsborger eller statsborger i en EU-medlemsstat eller en juridisk person etablert i Norge eller EU,
+5. avhengige av deltakelse fra en juridisk person oppført i vedlegg XLIV for å yte korrespondentbanktjenester, eller
+6. nødvendige for at en norsk statsborger eller statsborger i en EU-medlemsstat eller en juridisk person etablert i Norge eller EU skal kunne foreta betaling i henhold til en låneavtale inngått av Norge eller en medlemsstat i EU.
+
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene som Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, til gjennomføring av transaksjoner med Bank BelVEB, som oppført i [vedlegg XLIV](forskrift/2014-08-15-1076/vedleggXLIV), og etter å ha slått fast at gjennomføringen av slike transaksjoner er nødvendig for
+
+1. tilbakebetaling av garanterte eksportkreditter,
+2. transaksjoner som er strengt nødvendige for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland innen 17. desember 2025, som var dekket av eksportkredittgarantier fra Norge eller en medlemsstat i EU, eller
+3. oppfyllelse av kontrakter innen 17. desember 2025 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, for mottakere i Norge eller EU, såfremt kontraktene er inngått før 18. juni 2025.
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
 
 ### § 8ce. Forbud mot å delta i transaksjoner med visse kreditt- eller finansinstitusjoner mv.
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer etablert utenfor Norge eller EU somer en kreditt- eller finansinstitusjon eller en enhet, som yter kryptoeiendelstjenester eller betalingstjenester, som yter slike tjenester til juridiske personer som er oppført i denne forskriften, eller på annen måte i vesentlig grad motvirker formålet med forbudene i denne forskriften, som oppført i del A i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester som støtter Russlands angrepskrig mot Ukraina, herunder ved å behandle transaksjoner eller gi eksportfinansiering til handelstransaksjoner som motvirker formålet med denne forskriften, som oppført i del B i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester, og som vesentlig motvirker formålet med forbudene fastsatt i [§ 17j](forskrift/2014-08-15-1076/§17j), [§ 17k](forskrift/2014-08-15-1076/§17k) og [§ 19ac](forskrift/2014-08-15-1076/§19ac) i denne forskriften, som oppført i del C i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester og tilbyr tjenester som gjør det mulig å gjennomføre internasjonale transaksjoner, herunder gjennom betalinger fra kontoer i andre land enn Russland, gjennom netting, motregning, avstemming eller oppgjør, som motvirker formålet med forbudene i denne forskriften, som oppført i del D i vedlegg XLV til denne forskriften.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer etablert utenfor Norge eller EU som
 
-Forbudet i første ledd gjelder ogsåjuridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i første ledd bokstav a, b, c eller d,enheter som yter kryptoeiendelstjenester eller betalingstjenester, som fungerer som en speil- eller etterfølgerenhet til en enhet som nevnt i første ledd bokstav a eller b.enheter som tilbyr støttetjenester som tilsvarer de som leveres av enhetene nevnt i første ledd bokstav d.
+1. er en kreditt- eller finansinstitusjon eller en enhet, som yter kryptoeiendelstjenester eller betalingstjenester, som yter slike tjenester til juridiske personer som er oppført i denne forskriften, eller på annen måte i vesentlig grad motvirker formålet med forbudene i denne forskriften, som oppført i del A i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,
+2. er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester som støtter Russlands angrepskrig mot Ukraina, herunder ved å behandle transaksjoner eller gi eksportfinansiering til handelstransaksjoner som motvirker formålet med denne forskriften, som oppført i del B i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,
+3. ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester, og som vesentlig motvirker formålet med forbudene fastsatt i [§ 17j](forskrift/2014-08-15-1076/§17j), [§ 17k](forskrift/2014-08-15-1076/§17k) og [§ 19ac](forskrift/2014-08-15-1076/§19ac) i denne forskriften, som oppført i del C i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) til denne forskriften,
+4. ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester og tilbyr tjenester som gjør det mulig å gjennomføre internasjonale transaksjoner, herunder gjennom betalinger fra kontoer i andre land enn Russland, gjennom netting, motregning, avstemming eller oppgjør, som motvirker formålet med forbudene i denne forskriften, som oppført i del D i vedlegg XLV til denne forskriften.
 
-Ved anvendelse av andre ledd bokstav c, er en tilsvarende støttetjeneste en tjeneste som oppfyller følgende kriterier:tjenesten tilbys av en enhet som ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester,tjenesten er rettet mot russiske kunder og har den erklærte hensikt å muliggjøre grensekryssende transaksjoner, herunder gjennom betalinger fra kontoer i andre land enn Russland, gjennom netting, motregning, avstemming eller oppgjør,tjenesten utelukker ikke noen av transaksjonene som er forbudt i henhold til denne forskriften.
+Forbudet i første ledd gjelder også
 
-En speil- eller etterfølgerenhet til en oppført enhet, som nevnt i andre ledd bokstav b, er en enhet der minst to av følgende kriterier er oppfylt:i alt vesentlig identisk innhold, informasjons- eller transaksjonsstrømmer,kontinuitet i branding, utforming eller brukergrensesnitt,overlappende eierskap, kontroll eller ledelse,omdirigering eller migrering av brukere fra listeført enhet,kontinuitet i teknisk infrastruktur, herunder bruk av samme kodebase, domener eller applikasjoner.
+1. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i første ledd bokstav a, b, c eller d,
+2. enheter som yter kryptoeiendelstjenester eller betalingstjenester, som fungerer som en speil- eller etterfølgerenhet til en enhet som nevnt i første ledd bokstav a eller b.
+3. enheter som tilbyr støttetjenester som tilsvarer de som leveres av enhetene nevnt i første ledd bokstav d.
 
-Forbudet i første ledd gjelder ikke transaksjoner som ernødvendige for eksport, salg, levering, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å eksportere, selge, levere, overføre eller transportere til Russland i henhold til denne forskriften,strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,nødvendige for oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 med Payeer, CJSB JSCB Tolubay, OJSC Eurasian Savings Bank, CJSC Dushanbe City Bank, CJSC Spitamen Bank (Tajikistan) eller OJSC Commerce Bank of Tajikistan, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter,nødvendige for mottak av betalinger som skal foretas av juridiske personer som er oppført i del A i vedlegg XLV ved forordning [(EU) 2025/2033](eu/32025r2033) i henhold til kontrakter som er gjennomført innen 28. mars 2026.
+Ved anvendelse av andre ledd bokstav c, er en tilsvarende støttetjeneste en tjeneste som oppfyller følgende kriterier:
+
+1. tjenesten tilbys av en enhet som ikke er en kreditt- eller finansinstitusjon eller en enhet som yter kryptoeiendelstjenester eller betalingstjenester,
+2. tjenesten er rettet mot russiske kunder og har den erklærte hensikt å muliggjøre grensekryssende transaksjoner, herunder gjennom betalinger fra kontoer i andre land enn Russland, gjennom netting, motregning, avstemming eller oppgjør,
+3. tjenesten utelukker ikke noen av transaksjonene som er forbudt i henhold til denne forskriften.
+
+En speil- eller etterfølgerenhet til en oppført enhet, som nevnt i andre ledd bokstav b, er en enhet der minst to av følgende kriterier er oppfylt:
+
+1. i alt vesentlig identisk innhold, informasjons- eller transaksjonsstrømmer,
+2. kontinuitet i branding, utforming eller brukergrensesnitt,
+3. overlappende eierskap, kontroll eller ledelse,
+4. omdirigering eller migrering av brukere fra listeført enhet,
+5. kontinuitet i teknisk infrastruktur, herunder bruk av samme kodebase, domener eller applikasjoner.
+
+Forbudet i første ledd gjelder ikke transaksjoner som er
+
+1. nødvendige for eksport, salg, levering, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å eksportere, selge, levere, overføre eller transportere til Russland i henhold til denne forskriften,
+2. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,
+3. nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+4. nødvendige for oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 med Payeer, CJSB JSCB Tolubay, OJSC Eurasian Savings Bank, CJSC Dushanbe City Bank, CJSC Spitamen Bank (Tajikistan) eller OJSC Commerce Bank of Tajikistan, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter,
+5. nødvendige for mottak av betalinger som skal foretas av juridiske personer som er oppført i del A i vedlegg XLV ved forordning [(EU) 2025/2033](eu/32025r2033) i henhold til kontrakter som er gjennomført innen 28. mars 2026.
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
 ### § 8cf. Forbud mot å delta i transaksjoner med visse havner og sluser eller flyplasser
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med havner og sluser oppført i del A og C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del A i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i Russland, og del C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i andre tredjeland enn Russland, som brukes:til overføring av ubemannede luftfartøyer eller missiler, tilknyttet teknologi eller komponenter til støtte for Russlands krigføring i Ukraina,til transport av varer og teknologi som brukes i forsvars- og sikkerhetssektoren, fra eller til Russland, til bruk i Russland eller til Russlands krigføring i Ukraina,til sjøtransport av råolje eller petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland med fartøy som benytter ureglementert skipspraksis som innebærer høy risiko, som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33),til transport av varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, ellerpå en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med havner og sluser oppført i del A og C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del A i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i Russland, og del C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i andre tredjeland enn Russland, som brukes:
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med lufthavner oppført i del B i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del B i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter lufthavner i Russland som brukestil overføring av ubemannede luftfartøyer eller missiler, tilknyttet teknologi eller komponenter til støtte for Russlands krigføring i Ukraina,til transport av varer og teknologi som brukes i forsvars- og sikkerhetssektoren, fra eller til Russland, til bruk i Russland eller til Russlands krigføring i Ukraina,til transport av varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, ellerpå en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
+1. til overføring av ubemannede luftfartøyer eller missiler, tilknyttet teknologi eller komponenter til støtte for Russlands krigføring i Ukraina,
+2. til transport av varer og teknologi som brukes i forsvars- og sikkerhetssektoren, fra eller til Russland, til bruk i Russland eller til Russlands krigføring i Ukraina,
+3. til sjøtransport av råolje eller petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland med fartøy som benytter ureglementert skipspraksis som innebærer høy risiko, som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33),
+4. til transport av varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, eller
+5. på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
 
-Første ledd gjelder ikkefartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs, av humanitære årsaker, eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland,transaksjoner som er nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel, som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,transaksjoner som gjelder kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,transaksjoner som er nødvendige for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, ellertransaksjoner for kjøp, import eller overføring av kull som hører inn under KN-kode 2701 hvis det har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.transaksjoner med Tuapse havn for kjøp, import eller overføring av varer som hører inn under KN-kode 7207 12 10 og 7224 90, med mindre det ellers er forbudt etter denne forskriften.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med lufthavner oppført i del B i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del B i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter lufthavner i Russland som brukes
 
-Andre ledd gjelder ikke transaksjoner som er strengt nødvendige forhumanitære formål, evakuering eller hjemtransport av personer, eller initiativer til støtte for ofre for naturkatastrofer, kjernefysiske eller kjemiske katastrofer,gjennomføring av flygninger som er nødvendige for deltakelse i møter med henblikk på å finne en løsning på Russlands angrepskrig mot Ukraina eller med henblikk på å fremme de politiske målene med de restriktive tiltakene,nødlanding, avgang eller overflyging i en nødssituasjon,reiser for offisielle formål som foretas av medlemmer av Norges, EU-medlemsstaters eller partnerlands utenriksstasjoner i Russland eller for internasjonale organisasjoner som har immunitet i henhold til folkeretten,fysiske personer, som av private grunner reiser til eller fra Russland, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften, elleretablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg.
+1. til overføring av ubemannede luftfartøyer eller missiler, tilknyttet teknologi eller komponenter til støtte for Russlands krigføring i Ukraina,
+2. til transport av varer og teknologi som brukes i forsvars- og sikkerhetssektoren, fra eller til Russland, til bruk i Russland eller til Russlands krigføring i Ukraina,
+3. til transport av varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, eller
+4. på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
+
+Første ledd gjelder ikke
+
+1. fartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs, av humanitære årsaker, eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,
+2. transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium og jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,
+3. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland,
+4. transaksjoner som er nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel, som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,
+5. transaksjoner som gjelder kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,
+6. transaksjoner som er nødvendige for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, eller
+7. transaksjoner for kjøp, import eller overføring av kull som hører inn under KN-kode 2701 hvis det har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
+8. transaksjoner med Tuapse havn for kjøp, import eller overføring av varer som hører inn under KN-kode 7207 12 10 og 7224 90, med mindre det ellers er forbudt etter denne forskriften.
+
+Andre ledd gjelder ikke transaksjoner som er strengt nødvendige for
+
+1. humanitære formål, evakuering eller hjemtransport av personer, eller initiativer til støtte for ofre for naturkatastrofer, kjernefysiske eller kjemiske katastrofer,
+2. gjennomføring av flygninger som er nødvendige for deltakelse i møter med henblikk på å finne en løsning på Russlands angrepskrig mot Ukraina eller med henblikk på å fremme de politiske målene med de restriktive tiltakene,
+3. nødlanding, avgang eller overflyging i en nødssituasjon,
+4. reiser for offisielle formål som foretas av medlemmer av Norges, EU-medlemsstaters eller partnerlands utenriksstasjoner i Russland eller for internasjonale organisasjoner som har immunitet i henhold til folkeretten,
+5. fysiske personer, som av private grunner reiser til eller fra Russland, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+6. kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften, eller
+7. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg.
 
 Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til tredje eller fjerde ledd, innen to uker etter at transaksjonen er gjennomført.
 
@@ -377,7 +745,13 @@ Det er forbudt direkte eller indirekte å delta i transaksjoner i forbindelse me
 
 Forbudene i første ledd gjelder ikke transaksjoner som er strengt nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, sjøtransport eller miljøet, eller som respons ved naturkatastrofer.
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første ledd og gi tillatelse til transaksjoner som er strengt nødvendige foravvikling eller omstrukturering av juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 der dette er nødvendig for å sikre at naturgassrørledningene Nord Stream og Nord Stream 2 ikke vil bli brukt,å kreve kompensasjon, tilbakebetalinger eller andre midler fra fysiske eller juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,å foreta og motta betalinger eller tilbakebetalinger som har forfalt eller vil forfalle i forbindelse med rettsavgjørelser, finansiering, forsikring, garantier eller andre kontrakter eller avtaler i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 som ble inngått før 29. oktober 2025,et forlik, eller en rettsak eller voldgiftssak i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,regelmessige vedlikeholdstjenester som er strengt nødvendige for å forhindre miljø- og sikkerhetsrisikoer eller negativ innvirkning på fiskerisektoren.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første ledd og gi tillatelse til transaksjoner som er strengt nødvendige for
+
+1. avvikling eller omstrukturering av juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 der dette er nødvendig for å sikre at naturgassrørledningene Nord Stream og Nord Stream 2 ikke vil bli brukt,
+2. å kreve kompensasjon, tilbakebetalinger eller andre midler fra fysiske eller juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,
+3. å foreta og motta betalinger eller tilbakebetalinger som har forfalt eller vil forfalle i forbindelse med rettsavgjørelser, finansiering, forsikring, garantier eller andre kontrakter eller avtaler i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 som ble inngått før 29. oktober 2025,
+4. et forlik, eller en rettsak eller voldgiftssak i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,
+5. regelmessige vedlikeholdstjenester som er strengt nødvendige for å forhindre miljø- og sikkerhetsrisikoer eller negativ innvirkning på fiskerisektoren.
 
 Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til andre ledd innen to uker etter at den er gjennomført.
 
@@ -385,7 +759,13 @@ Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om en
 
 ### § 8ch. Forbud mot å delta i transaksjoner med Det russiske fond for direkteinvesteringer mv.
 
-Det er forbudt å direkte eller indirekte delta i transaksjoner medDet russiske fond for direkteinvesteringer,juridiske personer som eies eller kontrolleres av Det russiske fond for direkteinvesteringer,juridiske personer etablert utenfor Norge eller EU som en enhet nevnt i bokstav a eller b direkte eller indirekte har foretatt en betydelig investering i, som oppført i [vedlegg XLIX](forskrift/2014-08-15-1076/vedleggXLIX),juridiske personer etablert utenfor Norge eller EU som leverer investeringstjenester eller andre finansielle tjenester til en enhet omtalt i bokstav a, b eller c, som oppført i vedlegg L,juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a, b, c eller d.
+Det er forbudt å direkte eller indirekte delta i transaksjoner med
+
+1. Det russiske fond for direkteinvesteringer,
+2. juridiske personer som eies eller kontrolleres av Det russiske fond for direkteinvesteringer,
+3. juridiske personer etablert utenfor Norge eller EU som en enhet nevnt i bokstav a eller b direkte eller indirekte har foretatt en betydelig investering i, som oppført i [vedlegg XLIX](forskrift/2014-08-15-1076/vedleggXLIX),
+4. juridiske personer etablert utenfor Norge eller EU som leverer investeringstjenester eller andre finansielle tjenester til en enhet omtalt i bokstav a, b eller c, som oppført i vedlegg L,
+5. juridiske personer som handler på vegne av eller på instruks fra en enhet nevnt i bokstav a, b, c eller d.
 
 Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til transaksjoner som er strengt nødvendige for kjøp, import eller transport av legemidler og medisinske produkter som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften.
 
@@ -395,19 +775,41 @@ Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll
 
 ### § 8ci. Forbud mot visse typer økonomisk aktivitet i Russlands spesielle soner
 
-Det er forbudt åerverve nye eller utvide eksisterende kapitalinteresser i eierskap av eller kontroll over juridiske personer som er registrert som hjemmehørende i, eller som har forretningskontor, hovedforretningssted eller faste forretningssted innenfor Russlands spesielle økonomi-, innovasjons- eller preferansesoner som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII),opprette nye fellesforetak, filialer eller representasjonskontorer i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a,inngå nye kontrakter eller ordninger om levering av varer eller tjenester, eller av tilknyttede immaterialrettigheter eller forretningshemmeligheter til, fra eller til bruk i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a.
+Det er forbudt å
 
-Fra og med 29. juni 2026 er det forbudt åopprettholde eksisterende kapitalinteresser i eierskap av eller kontroll over juridiske personer som formelt er registrert som hjemmehørende i, eller som har forretningskontor, hovedforretningssted eller faste forretningssted, innenfor Russlands spesielle økonomi-, innovasjons- eller preferansesoner som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII),opprettholde eksisterende fellesforetak, filialer eller representasjonskontorer i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a,opprettholde eksisterende kontrakter eller ordninger om levering av varer eller tjenester eller av tilknyttede immaterialrettigheter eller forretningshemmeligheter til, fra eller til bruk i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a.
+1. erverve nye eller utvide eksisterende kapitalinteresser i eierskap av eller kontroll over juridiske personer som er registrert som hjemmehørende i, eller som har forretningskontor, hovedforretningssted eller faste forretningssted innenfor Russlands spesielle økonomi-, innovasjons- eller preferansesoner som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII),
+2. opprette nye fellesforetak, filialer eller representasjonskontorer i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a,
+3. inngå nye kontrakter eller ordninger om levering av varer eller tjenester, eller av tilknyttede immaterialrettigheter eller forretningshemmeligheter til, fra eller til bruk i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A eller B i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a.
 
-Det er forbudtå tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer nevnt i første eller andre ledd, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a eller i første eller andre ledd.
+Fra og med 29. juni 2026 er det forbudt å
+
+1. opprettholde eksisterende kapitalinteresser i eierskap av eller kontroll over juridiske personer som formelt er registrert som hjemmehørende i, eller som har forretningskontor, hovedforretningssted eller faste forretningssted, innenfor Russlands spesielle økonomi-, innovasjons- eller preferansesoner som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII),
+2. opprettholde eksisterende fellesforetak, filialer eller representasjonskontorer i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a,
+3. opprettholde eksisterende kontrakter eller ordninger om levering av varer eller tjenester eller av tilknyttede immaterialrettigheter eller forretningshemmeligheter til, fra eller til bruk i de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i del A i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), eller med juridiske personer som er nevnt i bokstav a.
+
+Det er forbudt
+
+1. å tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer nevnt i første eller andre ledd, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,
+2. å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a eller i første eller andre ledd.
 
 Forbudene i første, andre og tredje ledd gjelder også juridiske personer utenfor de spesielle økonomi-, innovasjons- eller preferansesonene som er oppført i [vedlegg LII](forskrift/2014-08-15-1076/vedleggLII), som eies eller kontrolleres av juridiske personer nevnt i første eller andre ledd.
 
-Første til fjerde ledd får ikke anvendelse påvirksomhet som er nødvendig for kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer,virksomhet som er strengt nødvendig for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium eller jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,virksomhet som er strengt nødvendig for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k),virksomhet som er nødvendig for kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
+Første til fjerde ledd får ikke anvendelse på
+
+1. virksomhet som er nødvendig for kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer,
+2. virksomhet som er strengt nødvendig for direkte eller indirekte kjøp, import eller transport av naturgass, titan, aluminium, kobber, nikkel, palladium eller jernmalm fra eller gjennom Russland til et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller Vest-Balkan,
+3. virksomhet som er strengt nødvendig for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k),
+4. virksomhet som er nødvendig for kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
 
 Første, tredje og fjerde ledd, gjelder ikke oppfyllelse innen 29. juni 2026 av kontrakter inngått før 28. mars 2026, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
-Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til virksomhet som er strengt nødvendig for:humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,forskning, utvikling eller produksjon av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,avhending og tilbaketrekking fra Russland eller avvikling av forretningsvirksomhet i Russland,yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i Norge, i EU, mellom Russland og Norge eller EU og mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge eller EU.
+Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til virksomhet som er strengt nødvendig for:
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. forskning, utvikling eller produksjon av legemidler, medisinske produkter, landbruksprodukter eller matvarer, herunder hvete og gjødsel, som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,
+3. sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,
+4. avhending og tilbaketrekking fra Russland eller avvikling av forretningsvirksomhet i Russland,
+5. yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i Norge, i EU, mellom Russland og Norge eller EU og mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge eller EU.
 
 > Tilføyd ved forskrift [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
 
@@ -415,7 +817,11 @@ Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sa
 
 Det er forbudt å motta innskudd fra russiske statsborgere eller fysiske personer bosatt i Russland, juridiske personer som er etablert i Russland eller juridiske personer som er etablert utenfor Norge eller EU og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av russiske statsborgere eller fysiske personer bosatt i Russland, dersom den samlede verdien av den fysiske eller juridiske personens innskudd overstiger 100 000 euro per kredittinstitusjon.
 
-Det er forbudt direkte eller indirekte å yte følgende tjenester til russiske statsborgere eller fysiske personer bosatt i Russland, eller juridiske personer som er etablert i Russland:kryptoeiendelstjenester som definert i forordning [(EU) 2023/1114](eu/32023r1114),utstedelse av betalingsinstrumenter, innløsning av betalingstransaksjoner eller betalingsfullmakttjenester, som definert i direktiv [(EU) 2015/2366](eu/32015l2366),utstedelse av elektroniske penger, som definert [finansforetaksloven § 2-4](lov/2015-04-10-17/§2-4).
+Det er forbudt direkte eller indirekte å yte følgende tjenester til russiske statsborgere eller fysiske personer bosatt i Russland, eller juridiske personer som er etablert i Russland:
+
+1. kryptoeiendelstjenester som definert i forordning [(EU) 2023/1114](eu/32023r1114),
+2. utstedelse av betalingsinstrumenter, innløsning av betalingstransaksjoner eller betalingsfullmakttjenester, som definert i direktiv [(EU) 2015/2366](eu/32015l2366),
+3. utstedelse av elektroniske penger, som definert [finansforetaksloven § 2-4](lov/2015-04-10-17/§2-4).
 
 Fra og med 19. april 2024 er det forbudt å tillate russiske borgere eller fysiske personer som bor i Russland, direkte eller indirekte å eie eller kontrollere eller å inneha stillinger i styrende organer i juridiske personer, som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og som yter kryptoeiendelstjenester i form av lommebøker, kontoer eller oppbevaringstjenester.
 
@@ -433,7 +839,10 @@ Det er forbudt direkte eller indirekte å delta i transaksjoner som involverer k
 
 Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som er en enhet som leverer kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i Russland.
 
-Forbudet i første ledd gjelder ikke transaksjoner somer nødvendige for drift av Norges ellers EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,er foretatt av statsborgere i Norge eller en EU-medlemsstat som er bosatt i Russland og var det før 24. februar 2022.
+Forbudet i første ledd gjelder ikke transaksjoner som
+
+1. er nødvendige for drift av Norges ellers EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,
+2. er foretatt av statsborgere i Norge eller en EU-medlemsstat som er bosatt i Russland og var det før 24. februar 2022.
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner på de vilkårene direktoratet finner hensiktsmessige, tillate transaksjoner som er strengt nødvendige for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland.
 
@@ -443,7 +852,15 @@ Forbudet i første ledd gjelder fra 14. august 2026.
 
 ### § 8e. Unntak fra § 8d for visse nødvendige utgifter mv.
 
-Som unntak fra [§ 8d](forskrift/2014-08-15-1076/§8d) første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at godtakelse av et slik innskudd eller en slik tjeneste:er nødvendig for å dekke grunnleggende behov hos fysiske eller juridiske personer omhandlet i [§ 8d](forskrift/2014-08-15-1076/§8d) første ledd og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, og Direktoratet for eksportkontroll og sanksjoner begrunner behovet for særskilt tillatelse,er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner,er nødvendige for handel over landegrensene mellom Norge og Russland med varer og tjenester som ikke omfattes av forbud, ellerer nødvendig for omstrukturering eller avvikling av en juridisk person som er tilknyttet VTB Bank, som oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI).
+Som unntak fra [§ 8d](forskrift/2014-08-15-1076/§8d) første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at godtakelse av et slik innskudd eller en slik tjeneste:
+
+1. er nødvendig for å dekke grunnleggende behov hos fysiske eller juridiske personer omhandlet i [§ 8d](forskrift/2014-08-15-1076/§8d) første ledd og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+4. er nødvendige for å dekke ekstraordinære utgifter, og Direktoratet for eksportkontroll og sanksjoner begrunner behovet for særskilt tillatelse,
+5. er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner,
+6. er nødvendige for handel over landegrensene mellom Norge og Russland med varer og tjenester som ikke omfattes av forbud, eller
+7. er nødvendig for omstrukturering eller avvikling av en juridisk person som er tilknyttet VTB Bank, som oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI).
 
 Forbudet i [§ 8d](forskrift/2014-08-15-1076/§8d) andre ledd bokstav b og c gjelder ikke levering av personaliserte sikkerhetsopplysninger som er nødvendige for å få tilgang til en konto hos en kredittinstitusjon eller et e-pengeforetak som er etablert i Norge eller en EU-medlemsstat.
 
@@ -453,7 +870,10 @@ Som unntak fra [§ 8d](forskrift/2014-08-15-1076/§8d) andre ledd bokstav b og c
 
 ### § 8f. Unntak fra § 8d for humanitære formål mv.
 
-Som unntak fra [§ 8d](forskrift/2014-08-15-1076/§8d) første og annet ledd kan Direktoratet for eksportkontroll gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd eller yting av en slik tjeneste ernødvendig for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, ellernødvendig for sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland.
+Som unntak fra [§ 8d](forskrift/2014-08-15-1076/§8d) første og annet ledd kan Direktoratet for eksportkontroll gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd eller yting av en slik tjeneste er
+
+1. nødvendig for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, eller
+2. nødvendig for sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland.
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
 
@@ -475,13 +895,23 @@ Første ledd gjelder ikke statsborgere i Norge, i et land som er medlem av Det e
 
 ### § 8i. Rapporteringsplikt for kredittinstitusjoner om innskudd
 
-Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal kredittinstitusjonersenest 20. juni 2022 levere til Direktoratet for eksportkontroll og sanksjoner en liste over innskudd som overstiger 100 000 euro som innehas av russiske statsborgere eller fysiske personer bosatt i Russland, eller av juridiske personer etablert i Russland. Listen over innskuddsbeløp skal oppdateres hver tolvte måned,senest 11. juli 2023 levere til Direktoratet for eksportkontroll og sanksjoner en liste over innskudd som overstiger 100 000 euro og innehas av juridiske personer etablert utenfor Norge eller EU, og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av russiske statsborgere eller fysiske personer bosatt i Russland. Listen over innskuddsbeløp skal oppdateres hver tolvte måned.levere til Direktoratet for eksportkontroll og sanksjoner opplysninger om innskudd som overstiger 100 000 euro som innehas av russiske statsborgere eller fysiske personer bosatt i Russland som har fått statsborgerskap eller oppholdstillatelse i Norge eller EUs medlemsstat gjennom en ordning for statsborgerskap ved investering eller en ordning for oppholdstillatelse ved investering.
+Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal kredittinstitusjoner
+
+1. senest 20. juni 2022 levere til Direktoratet for eksportkontroll og sanksjoner en liste over innskudd som overstiger 100 000 euro som innehas av russiske statsborgere eller fysiske personer bosatt i Russland, eller av juridiske personer etablert i Russland. Listen over innskuddsbeløp skal oppdateres hver tolvte måned,
+2. senest 11. juli 2023 levere til Direktoratet for eksportkontroll og sanksjoner en liste over innskudd som overstiger 100 000 euro og innehas av juridiske personer etablert utenfor Norge eller EU, og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av russiske statsborgere eller fysiske personer bosatt i Russland. Listen over innskuddsbeløp skal oppdateres hver tolvte måned.
+3. levere til Direktoratet for eksportkontroll og sanksjoner opplysninger om innskudd som overstiger 100 000 euro som innehas av russiske statsborgere eller fysiske personer bosatt i Russland som har fått statsborgerskap eller oppholdstillatelse i Norge eller EUs medlemsstat gjennom en ordning for statsborgerskap ved investering eller en ordning for oppholdstillatelse ved investering.
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [29 juni 2023 nr. 1494](forskrift/2023-06-29-1494), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
 ### § 8ii. Rapporteringsplikt for visse juridiske personer og kredittinstitusjoner om pengeoverføringer
 
-Juridiske personer etablert i Norge hvis eiendomsrettigheter direkte eller indirekte er mer enn 40 % eid aven juridisk person etablert i Russland,en russisk borger, elleren fysisk person bosatt i Russland,skal fra og med 1. august 2024 innen to uker etter utgangen av hvert kvartal innberette til Direktoratet for eksportkontroll og sanksjoner, enhver pengeoverføring ut av Det europeiske økonomiske samarbeidsområde på over 100 000 euro som de i løpet av det aktuelle kvartalet direkte eller indirekte har foretatt i en eller flere transaksjoner.
+Juridiske personer etablert i Norge hvis eiendomsrettigheter direkte eller indirekte er mer enn 40 % eid av
+
+1. en juridisk person etablert i Russland,
+2. en russisk borger, eller
+3. en fysisk person bosatt i Russland,
+
+skal fra og med 1. august 2024 innen to uker etter utgangen av hvert kvartal innberette til Direktoratet for eksportkontroll og sanksjoner, enhver pengeoverføring ut av Det europeiske økonomiske samarbeidsområde på over 100 000 euro som de i løpet av det aktuelle kvartalet direkte eller indirekte har foretatt i en eller flere transaksjoner.
 
 Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal kreditt- og finansinstitusjoner fra og med 1. oktober 2024 innen to uker etter utgangen av hvert halvår innberette til Direktoratet for eksportkontroll og sanksjoner, opplysninger om alle pengeoverføringer ut av Det europeiske økonomiske samarbeidsområde av et samlet beløp i løpet av det aktuelle halvåret på over 100 000 euro som de direkte eller indirekte har foretatt for de juridiske personene som er nevnt i første ledd.
 
@@ -489,9 +919,20 @@ Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt
 
 ### § 8iii. Forbud mot å motta visse gaver, økonomiske fordeler eller støtte til politiske partier mv.
 
-Det er forbudt å motta gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, direkte eller indirekte, fraRusslands regjering,juridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %,juridiske personer etablert utenfor Norge og EU hvis eiendomsrettigheter direkte eller indirekte eies over 50 % av en enhet som nevnt i bokstav a eller b, ellerfysiske eller juridiske personer som handler på vegne av eller etter instruks fra enheter som nevnt i bokstav a, b eller c.
+Det er forbudt å motta gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, direkte eller indirekte, fra
 
-Første ledd gjelder bare forpolitiske partier og politiske allianser, som definert i forordning [(EU) nr. 1141/2014](eu/32014r1141),ikke-statlige organisasjoner etablert eller registrert i samsvar med norsk lovgivning, ogtilbydere av medietjenester, som definert i forordning [(EU) 2024/1083](eu/32024r1083), som er etablert i Norge,offentlige og private forskningsinstitusjoner, universiteter, høyrere utdanningsinstitusjoner, forsknings- og teknologiorganisasjoner, ikke-statlige organisasjoner, offentlige organer og etater samt foretak og andre enheter i industriell og kommersiell sektor, herunder mikro, små, mellomstore og store bedrifter, som utfører forsknings- og innovasjonstiltak som definert i europaparlaments- og rådsforordning [(EU) 2021/695](eu/32021r0695),fysiske personer med tilknytning til juridiske personer som nevnt i bokstav d.
+1. Russlands regjering,
+2. juridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %,
+3. juridiske personer etablert utenfor Norge og EU hvis eiendomsrettigheter direkte eller indirekte eies over 50 % av en enhet som nevnt i bokstav a eller b, eller
+4. fysiske eller juridiske personer som handler på vegne av eller etter instruks fra enheter som nevnt i bokstav a, b eller c.
+
+Første ledd gjelder bare for
+
+1. politiske partier og politiske allianser, som definert i forordning [(EU) nr. 1141/2014](eu/32014r1141),
+2. ikke-statlige organisasjoner etablert eller registrert i samsvar med norsk lovgivning, og
+3. tilbydere av medietjenester, som definert i forordning [(EU) 2024/1083](eu/32024r1083), som er etablert i Norge,
+4. offentlige og private forskningsinstitusjoner, universiteter, høyrere utdanningsinstitusjoner, forsknings- og teknologiorganisasjoner, ikke-statlige organisasjoner, offentlige organer og etater samt foretak og andre enheter i industriell og kommersiell sektor, herunder mikro, små, mellomstore og store bedrifter, som utfører forsknings- og innovasjonstiltak som definert i europaparlaments- og rådsforordning [(EU) 2021/695](eu/32021r0695),
+5. fysiske personer med tilknytning til juridiske personer som nevnt i bokstav d.
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate at enheter som nevnt i annet ledd bokstav b og c, tar imot gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, forutsatt at slikt mottak ikke på noen måte påvirker de demokratiske prosessene i Norge eller EU, eller undergraver deres demokratiske grunnlag, herunder gjennom påvirkningskampanjer og fremme av desinformasjon, med sikte på å undergrave Ukrainas territoriale integritet, suverenitet og uavhengighet og gjennom propagandaaksjoner til støtte for Russlands militære aggresjon mot Ukraina.
 
@@ -501,7 +942,11 @@ Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, 
 
 Det er forbudt å yte offentlig finansiering eller finansiell bistand til handel med eller investeringer i Russland.
 
-Forbudet i første ledd gjelder ikkebindende finansierings- eller finansielle bistandsforpliktelser innført før 19. mars 2022,– – –yting av offentlig finansiering eller finansiell bistand til handel med matvarer, og til jordbruksformål samt medisinske eller humanitære formål.
+Forbudet i første ledd gjelder ikke
+
+1. bindende finansierings- eller finansielle bistandsforpliktelser innført før 19. mars 2022,
+2. – – –
+3. yting av offentlig finansiering eller finansiell bistand til handel med matvarer, og til jordbruksformål samt medisinske eller humanitære formål.
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til yting av offentlig finansiering eller finansiell bistand opp til en samlet verdi av 10 000 000 euro per prosjekt til fordel for små og mellomstore bedrifter etablert i Norge eller EU.
 
@@ -515,11 +960,25 @@ Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra forbudet i 
 
 Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV) eller med juridiske personer etablert i Russland hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV).
 
-Forbudet i første ledd gjelder ikke transaksjoner som ernødvendige for drift av Norges eller EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,foretatt av statsborgere i Norge eller EUs medlemsland, som er bosatt i Russland og var det før 24. februar 2022,nødvendige for eksport, salg, levering, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel, som det er tillatt å eksportere, selge, levere, overføre eller transportere til Russland i henhold til denne forskriften,strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene for denne forskriften,nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,nødvendige for mottak av betalinger fra juridiske personer oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV) i henhold til kontrakter og forpliktelser som er gjennomført innen 14. juli 2026,nødvendige for gjennomføring av tillatelser gitt av Direktoratet for eksportkontroll og sanksjoner i henhold til § 6b tyvende ledd eller av en kompetent myndighet i en EU- medlemsstat i henhold til artikkel 6b nr. 5j i forordning [(EU) 269/2014](eu/32014r0269),nødvendige for programmer i Norge eller EU for historisk ansvar og støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland,strengt nødvendige for betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,nødvendige for statsfinansierte mellomliggende organisasjoners behov i forbindelse med Norges eller EUs-medlemsstaters utenlandske kulturpolitikk i Russland.
+Forbudet i første ledd gjelder ikke transaksjoner som er
+
+1. nødvendige for drift av Norges eller EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,
+2. foretatt av statsborgere i Norge eller EUs medlemsland, som er bosatt i Russland og var det før 24. februar 2022,
+3. nødvendige for eksport, salg, levering, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel, som det er tillatt å eksportere, selge, levere, overføre eller transportere til Russland i henhold til denne forskriften,
+4. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene for denne forskriften,
+5. nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+6. nødvendige for mottak av betalinger fra juridiske personer oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV) i henhold til kontrakter og forpliktelser som er gjennomført innen 14. juli 2026,
+7. nødvendige for gjennomføring av tillatelser gitt av Direktoratet for eksportkontroll og sanksjoner i henhold til § 6b tyvende ledd eller av en kompetent myndighet i en EU- medlemsstat i henhold til artikkel 6b nr. 5j i forordning [(EU) 269/2014](eu/32014r0269),
+8. nødvendige for programmer i Norge eller EU for historisk ansvar og støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland,
+9. strengt nødvendige for betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+10. nødvendige for statsfinansierte mellomliggende organisasjoners behov i forbindelse med Norges eller EUs-medlemsstaters utenlandske kulturpolitikk i Russland.
 
 Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til transaksjoner som er strengt nødvendige for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland.
 
-Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til gjennomføring av transaksjoner med Bank Zenit, som oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV), etter å ha fastslått at gjennomføringen av slike transaksjoner er nødvendig forbetaling for varer som hører inn under KN 3402 90,oppfyllelse av kontrakter innen 1. januar 2028 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, såfremt kontraktene er inngått før 11. april 2025.
+Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til gjennomføring av transaksjoner med Bank Zenit, som oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV), etter å ha fastslått at gjennomføringen av slike transaksjoner er nødvendig for
+
+1. betaling for varer som hører inn under KN 3402 90,
+2. oppfyllelse av kontrakter innen 1. januar 2028 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, såfremt kontraktene er inngått før 11. april 2025.
 
 Forbudet i første ledd gjelder for hver av de juridiske personene som er oppført i vedlegg XV, fra og med den datoen som er oppført for dem i det nevnte vedlegget. Forbudet gjelder fra og med den samme datoen for juridiske personer som er etablert i Russland, og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV).
 
@@ -529,7 +988,11 @@ Forbudet i første ledd gjelder for hver av de juridiske personene som er oppfø
 
 Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til Russland eller til fysiske eller juridiske personer i Russland, herunder til Russlands regjering og Russlands sentralbank, eller til bruk i Russland.
 
-Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig forpersonlig bruk for fysiske personer som reiser til Russland, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten, ellersivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833).
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+
+1. personlig bruk for fysiske personer som reiser til Russland, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+2. offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten, eller
+3. sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833).
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
@@ -545,9 +1008,22 @@ Første og annet ledd gjelder ikke statsborgere i Norge eller EUs medlemsstater 
 
 ### § 8n. Forbud mot tildeling av offentlige kontrakter
 
-Det er forbudt å tildele eller fortsette gjennomføringen av offentlige kontrakter eller konsesjonskontrakter som hører inn under virkeområdet for direktivene om offentlige innkjøp, samt artikkel 10 nr. 1, nr. 3, nr. 6 bokstav a–e, nr. 8, 9 og 10, artikkel 11, 12, 13 og 14 i direktiv [2014/23/EU](eu/32014l0023), artikkel 7 bokstav a–d og artikkel 8, 10 bokstav b–f og h–j i direktiv [2014/24/EU](eu/32014l0024), artikkel 18, artikkel 21 bokstav b–e og g–i, artikkel 29 og 30 i direktiv [2014/25/EU](eu/32014l0025) og artikkel 13 bokstav a–d, f–h og j i direktiv [2009/81/EF](eu/32009l0081), til eller medrussiske statsborgere, fysiske personer bosatt i Russland eller juridiske personer etablert i Russland,juridiske personer, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av fysiske eller juridiske personer nevnt i bokstav a, ellerfysiske eller juridiske personer, som handler på vegne av eller på instruks fra fysiske eller juridiske personer nevnt i bokstav a eller b,dette gjelder også der fysiske eller juridiske personer som nevnt i bokstavene a til c er underleverandører, leverandører eller enheter hvis kapasitet utnyttes i henhold til direktivene om offentlige innkjøp, og de står for mer enn 10 % av kontraktsverdien.
+Det er forbudt å tildele eller fortsette gjennomføringen av offentlige kontrakter eller konsesjonskontrakter som hører inn under virkeområdet for direktivene om offentlige innkjøp, samt artikkel 10 nr. 1, nr. 3, nr. 6 bokstav a–e, nr. 8, 9 og 10, artikkel 11, 12, 13 og 14 i direktiv [2014/23/EU](eu/32014l0023), artikkel 7 bokstav a–d og artikkel 8, 10 bokstav b–f og h–j i direktiv [2014/24/EU](eu/32014l0024), artikkel 18, artikkel 21 bokstav b–e og g–i, artikkel 29 og 30 i direktiv [2014/25/EU](eu/32014l0025) og artikkel 13 bokstav a–d, f–h og j i direktiv [2009/81/EF](eu/32009l0081), til eller med
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til tildeling og forlengelse av kontrakter med henblikk pådrift, vedlikehold, dekommisjonering og håndtering av radioaktivt avfall, forsyning og opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.mellomstatlig samarbeid innenfor romprogrammer,yting av strengt nødvendige varer eller tjenester som bare kan ytes, eller som bare kan ytes i tilstrekkelige mengder, av personene nevnt i første ledd,drift av Norges eller EUs diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), kjøp, import eller transport av naturgass og olje, herunder raffinerte petroleumsprodukter, samt titan, aluminium, kobber, nikkel, palladium og jernmalm, fra eller gjennom Russland til Norge eller EU, eller– – –
+1. russiske statsborgere, fysiske personer bosatt i Russland eller juridiske personer etablert i Russland,
+2. juridiske personer, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av fysiske eller juridiske personer nevnt i bokstav a, eller
+3. fysiske eller juridiske personer, som handler på vegne av eller på instruks fra fysiske eller juridiske personer nevnt i bokstav a eller b,
+
+dette gjelder også der fysiske eller juridiske personer som nevnt i bokstavene a til c er underleverandører, leverandører eller enheter hvis kapasitet utnyttes i henhold til direktivene om offentlige innkjøp, og de står for mer enn 10 % av kontraktsverdien.
+
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til tildeling og forlengelse av kontrakter med henblikk på
+
+1. drift, vedlikehold, dekommisjonering og håndtering av radioaktivt avfall, forsyning og opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
+2. mellomstatlig samarbeid innenfor romprogrammer,
+3. yting av strengt nødvendige varer eller tjenester som bare kan ytes, eller som bare kan ytes i tilstrekkelige mengder, av personene nevnt i første ledd,
+4. drift av Norges eller EUs diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,
+5. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), kjøp, import eller transport av naturgass og olje, herunder raffinerte petroleumsprodukter, samt titan, aluminium, kobber, nikkel, palladium og jernmalm, fra eller gjennom Russland til Norge eller EU, eller
+6. – – –
 
 Forbudene i første ledd gjelder ikke oppfyllelse innen 31. oktober 2022 av kontrakter inngått før 30. april 2022.
 
@@ -555,15 +1031,35 @@ Forbudene i første ledd gjelder ikke oppfyllelse innen 31. oktober 2022 av kont
 
 ### § 8o. Forbud mot å gi støtte til visse juridiske personer etablert i Russland
 
-Det er forbudt direkte eller indirekte å gi støtte, herunder i form av finansiering og finansiell bistand eller i form av andre fordeler i henhold til et EU-program, et Euratom-program eller et nasjonalt medlemsstatsprogram og kontrakter i henhold til europaparlaments- og rådsforordning [(EU, Euratom) 2024/2509](eu/32024r2509), tiljuridiske personer som er etablert i Russland,juridiske personer hvis eiendomsrettigheter direkte eller indirekte eies med 50 % eller mer av en enhet som nevnt i bokstav a.
+Det er forbudt direkte eller indirekte å gi støtte, herunder i form av finansiering og finansiell bistand eller i form av andre fordeler i henhold til et EU-program, et Euratom-program eller et nasjonalt medlemsstatsprogram og kontrakter i henhold til europaparlaments- og rådsforordning [(EU, Euratom) 2024/2509](eu/32024r2509), til
 
-Forbudet i første ledd gjelder ikkehumanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer,plantehelse- og veterinærprogrammer,mellomstatlig samarbeid om romprogrammer og i henhold til den internasjonale avtalen om termonukleære forsøksreaktorer,drift, vedlikehold, dekommisjonering og håndtering av radioaktivt avfall, forsyning og opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,utveksling av mobilitet for enkeltpersoner og mellomfolkelige kontakter,klima- og miljøprogrammer, bortsett fra støtte innenfor rammen av forskning og innovasjon,drift av Norges og EUs diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten.drift av norske eller EU-medlemsstaters handelskamre, næringslivsorganisasjoner, kultur- og utdanningssentre, religiøse institusjoner og akademiske utvekslingsprogrammer i Russland,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter, rettsstatsprinsippet eller andre formål, for eksempel uavhengig journalistikk eller bekjempelse av desinformasjon, i samsvar med formålene i denne forskriften, i Russland,programmer i Norge eller EU for historisk ansvar og støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
+1. juridiske personer som er etablert i Russland,
+2. juridiske personer hvis eiendomsrettigheter direkte eller indirekte eies med 50 % eller mer av en enhet som nevnt i bokstav a.
+
+Forbudet i første ledd gjelder ikke
+
+1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer,
+2. plantehelse- og veterinærprogrammer,
+3. mellomstatlig samarbeid om romprogrammer og i henhold til den internasjonale avtalen om termonukleære forsøksreaktorer,
+4. drift, vedlikehold, dekommisjonering og håndtering av radioaktivt avfall, forsyning og opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+5. utveksling av mobilitet for enkeltpersoner og mellomfolkelige kontakter,
+6. klima- og miljøprogrammer, bortsett fra støtte innenfor rammen av forskning og innovasjon,
+7. drift av Norges og EUs diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten.
+8. drift av norske eller EU-medlemsstaters handelskamre, næringslivsorganisasjoner, kultur- og utdanningssentre, religiøse institusjoner og akademiske utvekslingsprogrammer i Russland,
+9. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter, rettsstatsprinsippet eller andre formål, for eksempel uavhengig journalistikk eller bekjempelse av desinformasjon, i samsvar med formålene i denne forskriften, i Russland,
+10. programmer i Norge eller EU for historisk ansvar og støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland.
 
 > Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
 ### § 8p. Forbud mot å registrere eller stille forretningskontor mv. til rådighet for en trust
 
-Det er forbudt å registrere eller stille et forretningskontor, en forretningsadresse eller en kontoradresse samt forvaltningstjenester, til rådighet for en trust eller et lignende juridisk arrangement som har en stifter eller begunstiget som errussiske statsborgere eller fysiske personer bosatt i Russland,juridiske personer etablert i Russland,juridiske personer hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en fysisk eller juridisk person omtalt i bokstav a eller b,juridiske personer som kontrolleres av en fysisk eller juridisk person omtalt i bokstav a, b eller c,fysiske eller juridiske personer som handler på vegne av eller på instruks fra en fysisk eller juridisk person omtalt i bokstav a, b, c eller d.
+Det er forbudt å registrere eller stille et forretningskontor, en forretningsadresse eller en kontoradresse samt forvaltningstjenester, til rådighet for en trust eller et lignende juridisk arrangement som har en stifter eller begunstiget som er
+
+1. russiske statsborgere eller fysiske personer bosatt i Russland,
+2. juridiske personer etablert i Russland,
+3. juridiske personer hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en fysisk eller juridisk person omtalt i bokstav a eller b,
+4. juridiske personer som kontrolleres av en fysisk eller juridisk person omtalt i bokstav a, b eller c,
+5. fysiske eller juridiske personer som handler på vegne av eller på instruks fra en fysisk eller juridisk person omtalt i bokstav a, b, c eller d.
 
 Fra og med 19. juli 2022 er det forbudt å fungere som eller sørge for at en annen person fungerer som trustforvalter, nominell aksjeeier, direktør, sekretær eller tilsvarende stilling for en trust eller et lignende juridisk arrangement som omtalt i første ledd.
 
@@ -571,9 +1067,16 @@ Første og andre ledd gjelder ikke virksomhet som er strengt nødvendig for sene
 
 Første og andre ledd gjelder ikke dersom stifteren eller den begunstigede er statsborger i Norge, i et medlemsland i Det europeiske økonomiske samarbeidsområde eller i Sveits, eller er en fysisk person med midlertidig eller fast oppholdstillatelse i Norge, i et medlemsland i Det europeiske økonomiske samarbeidsområde eller i Sveits.
 
-Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate at tjenestene nevnt i andre ledd fortsatt kan ytes etter 19. juli 2022,for innen 19. september 2022 å fullføre virksomhet som er strengt nødvendig for å avslutte kontrakter omhandlet i tredje ledd, forutsatt at virksomheten ble iverksatt før 25. mai 2022, ellerav andre grunner, forutsatt at tjenesteyterne ikke direkte eller indirekte godtar penger eller formuesgoder fra eller stiller penger eller formuesgoder til rådighet for personene omhandlet i første ledd, eller på annen måte gir disse personene fordeler av å ha aktiva plassert i en trust.
+Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate at tjenestene nevnt i andre ledd fortsatt kan ytes etter 19. juli 2022,
 
-Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate de tjenestene som er omtalt i disse leddene, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at dette er nødvendig forhumanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland, ellerdrift av truster som har til formål å administrere tjenestepensjonsordninger, forsikringspoliser eller aksjeordninger for medarbeidere, veldedige organisasjoner, amatørsportsklubber og fond for mindreårige eller sårbare voksne.
+1. for innen 19. september 2022 å fullføre virksomhet som er strengt nødvendig for å avslutte kontrakter omhandlet i tredje ledd, forutsatt at virksomheten ble iverksatt før 25. mai 2022, eller
+2. av andre grunner, forutsatt at tjenesteyterne ikke direkte eller indirekte godtar penger eller formuesgoder fra eller stiller penger eller formuesgoder til rådighet for personene omhandlet i første ledd, eller på annen måte gir disse personene fordeler av å ha aktiva plassert i en trust.
+
+Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate de tjenestene som er omtalt i disse leddene, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland, eller
+3. drift av truster som har til formål å administrere tjenestepensjonsordninger, forsikringspoliser eller aksjeordninger for medarbeidere, veldedige organisasjoner, amatørsportsklubber og fond for mindreårige eller sårbare voksne.
 
 > Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
@@ -587,7 +1090,10 @@ Det er forbudt i fem år etter salg eller enhver form for leasing av fartøy ell
 
 ### § 9. Forbud mot import av varer fra Krim og Sevastopol
 
-Det er forbudtå importere til Norge varer med opprinnelse på Krim eller i Sevastopol,å yte, direkte eller indirekte, finansiering eller finansiell bistand samt forsikring og gjenforsikring i tilknytning til import av varer som nevnt i bokstav a.
+Det er forbudt
+
+1. å importere til Norge varer med opprinnelse på Krim eller i Sevastopol,
+2. å yte, direkte eller indirekte, finansiering eller finansiell bistand samt forsikring og gjenforsikring i tilknytning til import av varer som nevnt i bokstav a.
 
 Forbudet i første ledd gjelder ikke varer med opprinnelse på Krim eller i Sevastopol som er fremstilt for ukrainske myndigheter for undersøkelse, som tilfredsstiller vilkårene for å kunne innrømmes preferansetollbehandling og som det er utstedt opprinnelsesbevis for.
 
@@ -595,7 +1101,13 @@ Forbudet i første ledd gjelder ikke varer med opprinnelse på Krim eller i Seva
 
 ### § 10. Forbud mot visse investeringer på Krim eller i Sevastopol
 
-Det er forbudtå erverve eller utvide eksisterende eierskapsinteresser i fast eiendom på Krim eller i Sevastopol,å erverve eller utvide eksisterende eierskapsinteresser i eller kontroll over en juridisk person på Krim eller i Sevastopol, herunder full ervervelse av en slik juridisk person eller ervervelse av andeler samt andre verdipapirer som har karakter av kapitalinteresse, i en slik juridisk person,å tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til en enhet på Krim eller i Sevastopol eller til et dokumentert formål om å finansiere en slik juridisk person,å opprette fellesforetak på Krim eller i Sevastopol og å inngå i fellesforetak med en enhet på Krim eller i Sevastopol,å yte investeringstjenester som er direkte knyttet til aktivitetene nevnt i bokstav a til d.
+Det er forbudt
+
+1. å erverve eller utvide eksisterende eierskapsinteresser i fast eiendom på Krim eller i Sevastopol,
+2. å erverve eller utvide eksisterende eierskapsinteresser i eller kontroll over en juridisk person på Krim eller i Sevastopol, herunder full ervervelse av en slik juridisk person eller ervervelse av andeler samt andre verdipapirer som har karakter av kapitalinteresse, i en slik juridisk person,
+3. å tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til en enhet på Krim eller i Sevastopol eller til et dokumentert formål om å finansiere en slik juridisk person,
+4. å opprette fellesforetak på Krim eller i Sevastopol og å inngå i fellesforetak med en enhet på Krim eller i Sevastopol,
+5. å yte investeringstjenester som er direkte knyttet til aktivitetene nevnt i bokstav a til d.
 
 Forbudene og restriksjonene i denne bestemmelse får ikke anvendelse på legitim forretningsvirksomhet som drives med juridiske personer utenfor Krim eller Sevastopol der de tilknyttede investeringene ikke er ment for juridiske personer på Krim eller i Sevastopol.
 
@@ -607,17 +1119,32 @@ Forbudene i første ledd berører ikke oppfyllelse av en forpliktelse i henhold 
 
 Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til Krim eller Sevastopol eller til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
 
-Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig forpersonlig bruk for fysiske personer som reiser til Krim eller Sevastopol, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,offisielle formål i internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten, ellersivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten på Krim eller i Sevastopol, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg V til forordning [(EU) nr. 692/2014](eu/32014r0692).
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+
+1. personlig bruk for fysiske personer som reiser til Krim eller Sevastopol, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+2. offisielle formål i internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten, eller
+3. sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten på Krim eller i Sevastopol, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg V til forordning [(EU) nr. 692/2014](eu/32014r0692).
 
 > Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
 ### § 11. Forbud mot eksport mv. av varer og teknologi til Krim og Sevastopol
 
-Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), enten de har sin opprinnelse i Norge eller ikketil fysiske eller juridiske personer på Krim eller i Sevastopol, ellertil bruk på Krim eller i Sevastopol.
+Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), enten de har sin opprinnelse i Norge eller ikke
 
-[Vedlegg II](forskrift/2014-08-15-1076/vedleggII) skal omfatte visse varer og teknologier som er tilpasset bruk i følgende nøkkelsektorer:transporttelekommunikasjon,energi,leting, utvinning og produksjon av olje, gass og mineralressurser.
+1. til fysiske eller juridiske personer på Krim eller i Sevastopol, eller
+2. til bruk på Krim eller i Sevastopol.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), eller til levering, produksjon, vedlikehold og bruk av slike produkter, til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
+[Vedlegg II](forskrift/2014-08-15-1076/vedleggII) skal omfatte visse varer og teknologier som er tilpasset bruk i følgende nøkkelsektorer:
+
+1. transport
+2. telekommunikasjon,
+3. energi,
+4. leting, utvinning og produksjon av olje, gass og mineralressurser.
+
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), eller til levering, produksjon, vedlikehold og bruk av slike produkter, til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
 
 > Endret ved [forskrifter 14 april 2015 nr. 376](forskrift/2015-04-14-376), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
@@ -631,7 +1158,12 @@ Det er forbudt direkte eller indirekte å yte tjenester i form av markedsunders�
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse og programvare for industridesign og produksjon som oppført i [vedlegg XXXIXA](forskrift/2014-08-15-1076/vedleggXXXIXA) til juridiske personer på Krim eller i Sevastopol.
 
-Det er forbudt ådirekte eller indirekte yte faglig bistand eller formidlingstjenester som er direkte knyttet til infrastruktur på Krim eller i Sevastopol, i sektorene nevnt i [§ 11 andre ledd](forskrift/2014-08-15-1076/§11/ledd/2), uavhengig av varenes eller teknologiens opprinnelse,yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på direkte eller indirekte levering av dem til juridiske personer på Krim eller i Sevastopol,yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til juridiske personer på Krim eller i Sevastopol,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter, eller som består av forretningshemmeligheter knyttet til programvare som nevnt i fjerde ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
+Det er forbudt å
+
+1. direkte eller indirekte yte faglig bistand eller formidlingstjenester som er direkte knyttet til infrastruktur på Krim eller i Sevastopol, i sektorene nevnt i [§ 11 andre ledd](forskrift/2014-08-15-1076/§11/ledd/2), uavhengig av varenes eller teknologiens opprinnelse,
+2. yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på direkte eller indirekte levering av dem til juridiske personer på Krim eller i Sevastopol,
+3. yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til juridiske personer på Krim eller i Sevastopol,
+4. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter, eller som består av forretningshemmeligheter knyttet til programvare som nevnt i fjerde ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
 
 Første og andre ledd gjelder ikke yting av tjenester som er strengt nødvendige for å utøve retten til forsvar i rettslige prosesser og retten til et effektivt rettsmiddel.
 
@@ -641,7 +1173,15 @@ Andre, tredje og fjerde ledd gjelder ikke salg, levering, overføring, eksport e
 
 Som unntak fra fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til yting av tjenester som nevnt i fjerde ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at disse tjenestene er nødvendige for at ukrainske borgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
 
-Som unntak fra første, andre, tredje, fjerde og femte ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at dette er nødvendige forhumanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten på Krim eller i Sevastopol,drift av internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten,å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller miljøsikkerhet,etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling, elleryting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Ukraina, i Norge, i EU, mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU.
+Som unntak fra første, andre, tredje, fjerde og femte ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at dette er nødvendige for
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten på Krim eller i Sevastopol,
+3. drift av internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten,
+4. å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,
+5. å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller miljøsikkerhet,
+6. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling, eller
+7. yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Ukraina, i Norge, i EU, mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU.
 
 > Endret ved [forskrifter 14 april 2015 nr. 376](forskrift/2015-04-14-376), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130).
 
@@ -657,7 +1197,11 @@ Forbudene i første og annet ledd gjelder ikke skip som av hensyn til sjøsikker
 
 ### § 13a. Unntak fra § 10, § 11 og § 12
 
-Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i [§ 10](forskrift/2014-08-15-1076/§10) første ledd og [§ 11](forskrift/2014-08-15-1076/§11) annet ledd og til varene og teknologien nevnt i [§ 11](forskrift/2014-08-15-1076/§11) første ledd, forutsatt at deer nødvendige for offisielle formål i internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten,er knyttet til prosjekter der de utelukkende brukes til støtte for sykehus eller andre offentlige helseinstitusjoner som yter medisinske tjenester, eller for sivile utdanningsinstitusjoner, på Krim eller i Sevastopol, ellerer apparater eller utstyr til medisinsk bruk.
+Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i [§ 10](forskrift/2014-08-15-1076/§10) første ledd og [§ 11](forskrift/2014-08-15-1076/§11) annet ledd og til varene og teknologien nevnt i [§ 11](forskrift/2014-08-15-1076/§11) første ledd, forutsatt at de
+
+1. er nødvendige for offisielle formål i internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten,
+2. er knyttet til prosjekter der de utelukkende brukes til støtte for sykehus eller andre offentlige helseinstitusjoner som yter medisinske tjenester, eller for sivile utdanningsinstitusjoner, på Krim eller i Sevastopol, eller
+3. er apparater eller utstyr til medisinsk bruk.
 
 Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i [§ 10](forskrift/2014-08-15-1076/§10) første ledd, forutsatt at transaksjonen gjelder vedlikehold for å ivareta eksisterende infrastrukturs sikkerhet.
 
@@ -675,7 +1219,10 @@ Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet 
 
 ### § 14a. Forbud mot import av varer fra de angitte territoriene
 
-Det er forbudtå importere til Norge varer med opprinnelse i de angitte territoriene,direkte eller indirekte å yte finansiering eller finansiell bistand samt forsikring og gjenforsikring i tilknytning til import av varer som nevnt i bokstav a).
+Det er forbudt
+
+1. å importere til Norge varer med opprinnelse i de angitte territoriene,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand samt forsikring og gjenforsikring i tilknytning til import av varer som nevnt i bokstav a).
 
 Forbudene i første ledd gjelder ikke for varer med opprinnelse i de angitte territoriene som er fremstilt for ukrainske myndigheter for undersøkelse, som tilfredsstiller vilkårene for å kunne innrømmes preferansetollbehandling og som det er utstedt opprinnelsesbevis for.
 
@@ -683,7 +1230,13 @@ Forbudene i første ledd gjelder ikke for varer med opprinnelse i de angitte ter
 
 ### § 14b. Forbud mot visse investeringer i de angitte territoriene
 
-Det er forbudtå erverve eller utvide eksisterende eierskapsinteresser i fast eiendom i de angitte territoriene,å erverve eller utvide eksisterende eierskapsinteresser i eller kontroll over enheter i de angitte territoriene,å tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til en enhet i de angitte territoriene, eller til et dokumentert formål om å finansiere en slik enhet,å opprette fellesforetak i de angitte territoriene eller inngå i fellesforetak med en enhet i de angitte territoriene,å yte investeringstjenester som er direkte knyttet til aktivitetene nevnt i bokstav a)–d).
+Det er forbudt
+
+1. å erverve eller utvide eksisterende eierskapsinteresser i fast eiendom i de angitte territoriene,
+2. å erverve eller utvide eksisterende eierskapsinteresser i eller kontroll over enheter i de angitte territoriene,
+3. å tildele eller delta i ordninger med sikte på å tildele lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til en enhet i de angitte territoriene, eller til et dokumentert formål om å finansiere en slik enhet,
+4. å opprette fellesforetak i de angitte territoriene eller inngå i fellesforetak med en enhet i de angitte territoriene,
+5. å yte investeringstjenester som er direkte knyttet til aktivitetene nevnt i bokstav a)–d).
 
 Forbudene og restriksjonene fastsatt i denne bestemmelsen får ikke anvendelse på legitim forretningsvirksomhet som drives med enheter utenfor de angitte territoriene, forutsatt at de tilknyttede investeringene ikke er ment for enheter i de angitte territoriene.
 
@@ -695,25 +1248,53 @@ Forbudene i første ledd berører ikke oppfyllelse av en forpliktelse i henhold 
 
 Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til de angitte territoriene eller til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene.
 
-Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig forpersonlig bruk for fysiske personer som reiser til de angitte territoriene, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,offisielle formål i internasjonale organisasjoner i de angitte territoriene som har immunitet etter folkeretten, ellersivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i de angitte territoriene, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg IV til forordning [(EU) 2022/263](eu/32022r0263).
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+
+1. personlig bruk for fysiske personer som reiser til de angitte territoriene, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+2. offisielle formål i internasjonale organisasjoner i de angitte territoriene som har immunitet etter folkeretten, eller
+3. sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i de angitte territoriene, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg IV til forordning [(EU) 2022/263](eu/32022r0263).
 
 > Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
 ### 14c. Forbud mot eksport mv. av varer og teknologi til de angitte territoriene
 
-Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, som oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), enten de har sin opprinnelse i Norge eller ikketil fysiske eller juridiske personer i de angitte territoriene, ellertil bruk i de angitte territoriene.
+Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, som oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), enten de har sin opprinnelse i Norge eller ikke
 
-[Vedlegg II](forskrift/2014-08-15-1076/vedleggII) skal omfatte visse varer og teknologier som er tilpasset bruk i følgende nøkkelsektorer:transport,telekommunikasjon,energi,leting, utvinning og produksjon av olje, gass og mineralressurser.
+1. til fysiske eller juridiske personer i de angitte territoriene, eller
+2. til bruk i de angitte territoriene.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), eller til levering, produksjon, vedlikehold og bruk av slike produkter, til fysiske eller juridiske personer i de angitte territoriene, eller til bruk i de angitte territoriene,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer i de angitte territoriene, eller til bruk i de angitte territoriene.
+[Vedlegg II](forskrift/2014-08-15-1076/vedleggII) skal omfatte visse varer og teknologier som er tilpasset bruk i følgende nøkkelsektorer:
+
+1. transport,
+2. telekommunikasjon,
+3. energi,
+4. leting, utvinning og produksjon av olje, gass og mineralressurser.
+
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), eller til levering, produksjon, vedlikehold og bruk av slike produkter, til fysiske eller juridiske personer i de angitte territoriene, eller til bruk i de angitte territoriene,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer i de angitte territoriene, eller til bruk i de angitte territoriene.
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
 ### § 14ca. Unntak fra § 14c for humanitære formål
 
-Forbudene fastsatt i [§ 14c](forskrift/2014-08-15-1076/§14c) gjelder ikkesalg, levering, overføring eller eksport av varer eller teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii),direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii) eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, ellerdirekte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer, i de angitte territoriene eller til bruk i de angitte territoriene avoffentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU-medlemsstatene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene, ellerNorges eller EU-medlemsstatenes særlige organer, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene.
+Forbudene fastsatt i [§ 14c](forskrift/2014-08-15-1076/§14c) gjelder ikke
 
-Som unntak fra [§ 14c](forskrift/2014-08-15-1076/§14c) kan Direktoratet for eksportkontroll og sanksjoner, i saker som ikke omfattes av første ledd i denne bestemmelsen, gi særskilte eller alminnelige tillatelser, på de generelle og særskilte vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, tilsalg, levering, overføring eller eksport av varer eller teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii),direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii) eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, ellerdirekte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii), til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendige utelukkende for humanitære formål i de angitte territoriene.
+1. salg, levering, overføring eller eksport av varer eller teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii),
+2. direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii) eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, eller
+3. direkte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggII), til fysiske eller juridiske personer, i de angitte territoriene eller til bruk i de angitte territoriene av
+
+   1. offentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU-medlemsstatene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,
+   2. organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,
+   3. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene, eller
+   4. Norges eller EU-medlemsstatenes særlige organer, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene.
+
+Som unntak fra [§ 14c](forskrift/2014-08-15-1076/§14c) kan Direktoratet for eksportkontroll og sanksjoner, i saker som ikke omfattes av første ledd i denne bestemmelsen, gi særskilte eller alminnelige tillatelser, på de generelle og særskilte vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til
+
+1. salg, levering, overføring eller eksport av varer eller teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii),
+2. direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii) eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, eller
+3. direkte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i [vedlegg II](forskrift/2014-08-15-1076/vedleggii), til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendige utelukkende for humanitære formål i de angitte territoriene.
 
 Ingen bestemmelse i denne paragrafen skal berøre overholdelse av [§ 3](forskrift/2014-08-15-1076/§3)–[§ 8a](forskrift/2014-08-15-1076/§8a).
 
@@ -729,7 +1310,12 @@ Det er forbudt direkte eller indirekte å yte tjenester i form av markedsunders�
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse og programvare for industridesign og produksjon som oppført i [vedlegg XXXIXA](forskrift/2014-08-15-1076/vedleggXXXIXA) til juridiske personer i de angitte territoriene.
 
-Det er forbudt ådirekte eller indirekte yte faglig bistand eller formidlingstjenester som er direkte knyttet til infrastruktur i de angitte territoriene, i sektorene nevnt i [§ 14c annet ledd](forskrift/2014-08-15-1076/§14c/ledd/2), uavhengig av varenes og teknologiens opprinnelse,yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på direkte eller indirekte levering av dem til juridiske personer i de angitte territoriene,yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til juridiske personer i de angitte territoriene, ellerdirekte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til programvare som nevnt i fjerde ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene.
+Det er forbudt å
+
+1. direkte eller indirekte yte faglig bistand eller formidlingstjenester som er direkte knyttet til infrastruktur i de angitte territoriene, i sektorene nevnt i [§ 14c annet ledd](forskrift/2014-08-15-1076/§14c/ledd/2), uavhengig av varenes og teknologiens opprinnelse,
+2. yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på direkte eller indirekte levering av dem til juridiske personer i de angitte territoriene,
+3. yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i første, andre, tredje og fjerde ledd med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til juridiske personer i de angitte territoriene, eller
+4. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til programvare som nevnt i fjerde ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene.
 
 Første og andre ledd gjelder ikke yting av tjenester som er strengt nødvendige for å utøve retten til forsvar i rettslige prosesser og retten til et effektivt rettsmiddel.
 
@@ -739,13 +1325,26 @@ Andre, tredje og fjerde ledd gjelder ikke salg, levering, overføring, eksport e
 
 Som unntak fra fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til yting av tjenester som er nevnt i fjerde ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at disse tjenestene er nødvendige for at ukrainske borgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
 
-Som unntak fra første, andre, tredje, fjerde og femte ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at dette er nødvendig forhumanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i de angitte territoriene,drift av internasjonale organisasjoner i de angitte territoriene som har immunitet i henhold til folkeretten,å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller miljøsikkerhet,etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursmateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling, elleryting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Ukraina, i Norge, i EU, mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU.
+Som unntak fra første, andre, tredje, fjerde og femte ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i de angitte territoriene,
+3. drift av internasjonale organisasjoner i de angitte territoriene som har immunitet i henhold til folkeretten,
+4. å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,
+5. å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller miljøsikkerhet,
+6. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursmateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling, eller
+7. yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Ukraina, i Norge, i EU, mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU.
 
 > Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130).
 
 ### § 14da. Unntak fra § 14d for humanitære formål
 
-Forbudene fastsatt i [§ 14d](forskrift/2014-08-15-1076/§14d) gjelder ikke yting av faglig bistand eller tjenester fraoffentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU eller EU-medlemsstatene, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene, ellerNorges eller EU-medlemsstatenes særlige organer, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene
+Forbudene fastsatt i [§ 14d](forskrift/2014-08-15-1076/§14d) gjelder ikke yting av faglig bistand eller tjenester fra
+
+1. offentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU eller EU-medlemsstatene, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,
+2. organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,
+3. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene, eller
+4. Norges eller EU-medlemsstatenes særlige organer, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene
 
 Som unntak fra [§ 14d](forskrift/2014-08-15-1076/§14d) kan Direktoratet for eksportkontroll og sanksjoner, i saker som ikke omfattes av første ledd, gi særskilte eller alminnelige tillatelser, på de generelle og særskilte vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til yting av faglig bistand eller tjenester, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene.
 
@@ -761,7 +1360,11 @@ Det er forbudt å yte tjenester direkte knyttet til turistvirksomhet i de angitt
 
 ### § 14f. Unntak fra § 14b, § 14c og § 14d
 
-Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i § 14b første ledd og § 14c annet ledd, samt til varer og teknologi nevnt i § 14c første ledd, forutsatt at de ernødvendige for offisielle formål i internasjonale organisasjoner i de angitte territoriene som har immunitet i henhold til folkeretten,knyttet til prosjekter der de utelukkende brukes til støtte for sykehus eller andre offentlige helseinstitusjoner som yter medisinske tjenester, eller for sivile utdanningsinstitusjoner, i de angitte territoriene, ellerapparater eller utstyr til medisinsk bruk.
+Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i § 14b første ledd og § 14c annet ledd, samt til varer og teknologi nevnt i § 14c første ledd, forutsatt at de er
+
+1. nødvendige for offisielle formål i internasjonale organisasjoner i de angitte territoriene som har immunitet i henhold til folkeretten,
+2. knyttet til prosjekter der de utelukkende brukes til støtte for sykehus eller andre offentlige helseinstitusjoner som yter medisinske tjenester, eller for sivile utdanningsinstitusjoner, i de angitte territoriene, eller
+3. apparater eller utstyr til medisinsk bruk.
 
 Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse knyttet til aktivitetene nevnt i § 14b første ledd, forutsatt at transaksjonen gjelder vedlikehold for å ivareta eksisterende infrastrukturs sikkerhet.
 
@@ -773,19 +1376,45 @@ Direktoratet for eksportkontroll og sanksjoner kan også, på de vilkår direkto
 
 ### § 15. Forbud mot eksport, import mv. av forsvarsrelaterte varer og faglig bistand, finansering mv.
 
-Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), uavhengig om de har opprinnelse i Norge eller ikke, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å ytefaglig bistand, formidlingstjenester eller andre tjenester knyttet til militære aktiviteter eller til varer og teknologi som er oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på nevnte liste, til fysiske eller juridiske personer i Russland eller til bruk i Russland,finansiering eller finansiell bistand knyttet til militære aktiviteter eller til salg, levering, overføring eller eksport av varene og teknologien oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), eller levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å kjøpe, importere eller transportere varene og teknologien oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI) til Norge dersom de har opprinnelse i Russland eller eksporteres fra Russland.
+Det er forbudt
 
-Forbudene i første ledd gjelder ikkeimport, kjøp eller transport knyttet tillevering av reservedeler og tjenester som er nødvendige for vedlikehold av og sikkerhet for eksisterende kapasiteter i Norge eller EU, elleroppfyllelse av kontrakter inngått før 16. august 2014 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, ellermilitær kriminalteknisk analyse av gjenstander med opprinnelse i Russland som er gjenvunnet fra Ukraina, ellersalg, levering, overføring eller eksport av, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester for reservedeler og tjenester som er nødvendige for vedlikehold av, reparasjon av og sikkerhet for eksisterende kapasiteter i Norge eller EU.
+1. direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), uavhengig om de har opprinnelse i Norge eller ikke, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte
 
-Forbudene i første ledd gjelder ikkesalg, levering, overføring eller eksport, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, samt import, kjøp eller transport av hydrazin (CAS 302 01 2) i konsentrasjoner på minst 70 %, forutsatt at mengden hydrazin beregnes i samsvar med oppskytningen eller oppskytningene eller satellittene stoffet er framstilt for, og ikke overstiger en samlet mengde på 800 kg for hver enkelt oppskytning eller satellitt,import, kjøp eller transport av usymmetrisk dimetylhydrazin (CAS 57 14 7),salg, levering, overføring eller eksport samt import, kjøp eller transport av monometylhydrazin (CAS 60 34 4), forutsatt at mengden monometylhydrazin beregnes i samsvar med oppskytningen eller oppskytningene eller satellittene stoffet er framstilt for, i den utstrekning stoffene nevnt i bokstav a, b og c er beregnet på bruk i oppskytningsutstyr som benyttes av europeiske leverandører av oppskytningstjenester, ved oppskytninger knyttet til europeiske romprogrammer eller som drivstoff til satellitter framstilt av europeiske produsenter.
+   1. faglig bistand, formidlingstjenester eller andre tjenester knyttet til militære aktiviteter eller til varer og teknologi som er oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på nevnte liste, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+   2. finansiering eller finansiell bistand knyttet til militære aktiviteter eller til salg, levering, overføring eller eksport av varene og teknologien oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI), eller levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+3. direkte eller indirekte å kjøpe, importere eller transportere varene og teknologien oppført på «Liste I – forsvarsrelaterte varer» i [vedlegg I til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggI) til Norge dersom de har opprinnelse i Russland eller eksporteres fra Russland.
 
-Forbudene i første ledd får ikke anvendelse på salg, levering, overføring eller eksport, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, samt import, kjøp eller transport av hydrazin (CAS 302 01 2) i konsentrasjoner på minst 70 % bestemt fortester og flyging av ExoMars Descent Module innenfor rammen av ExoMars 2020-oppdraget, i en mengde beregnet i samsvar med behovene for hver fase av oppdraget, som samlet ikke overstiger 5 000 kg for hele varigheten av oppdraget, ellerflyging av ExoMars Carrier innenfor rammen av ExoMars 2020-oppdraget, i en mengde beregnet i samsvar med behovene til flygingen, som samlet ikke overstiger 300 kg.
+Forbudene i første ledd gjelder ikke
+
+1. import, kjøp eller transport knyttet til
+
+   1. levering av reservedeler og tjenester som er nødvendige for vedlikehold av og sikkerhet for eksisterende kapasiteter i Norge eller EU, eller
+   2. oppfyllelse av kontrakter inngått før 16. august 2014 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, eller
+   3. militær kriminalteknisk analyse av gjenstander med opprinnelse i Russland som er gjenvunnet fra Ukraina, eller
+2. salg, levering, overføring eller eksport av, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester for reservedeler og tjenester som er nødvendige for vedlikehold av, reparasjon av og sikkerhet for eksisterende kapasiteter i Norge eller EU.
+
+Forbudene i første ledd gjelder ikke
+
+1. salg, levering, overføring eller eksport, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, samt import, kjøp eller transport av hydrazin (CAS 302 01 2) i konsentrasjoner på minst 70 %, forutsatt at mengden hydrazin beregnes i samsvar med oppskytningen eller oppskytningene eller satellittene stoffet er framstilt for, og ikke overstiger en samlet mengde på 800 kg for hver enkelt oppskytning eller satellitt,
+2. import, kjøp eller transport av usymmetrisk dimetylhydrazin (CAS 57 14 7),
+3. salg, levering, overføring eller eksport samt import, kjøp eller transport av monometylhydrazin (CAS 60 34 4), forutsatt at mengden monometylhydrazin beregnes i samsvar med oppskytningen eller oppskytningene eller satellittene stoffet er framstilt for, i den utstrekning stoffene nevnt i bokstav a, b og c er beregnet på bruk i oppskytningsutstyr som benyttes av europeiske leverandører av oppskytningstjenester, ved oppskytninger knyttet til europeiske romprogrammer eller som drivstoff til satellitter framstilt av europeiske produsenter.
+
+Forbudene i første ledd får ikke anvendelse på salg, levering, overføring eller eksport, eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, samt import, kjøp eller transport av hydrazin (CAS 302 01 2) i konsentrasjoner på minst 70 % bestemt for
+
+1. tester og flyging av ExoMars Descent Module innenfor rammen av ExoMars 2020-oppdraget, i en mengde beregnet i samsvar med behovene for hver fase av oppdraget, som samlet ikke overstiger 5 000 kg for hele varigheten av oppdraget, eller
+2. flyging av ExoMars Carrier innenfor rammen av ExoMars 2020-oppdraget, i en mengde beregnet i samsvar med behovene til flygingen, som samlet ikke overstiger 300 kg.
 
 Virksomheten nevnt i tredje og fjerde ledd krever forhåndstillatelse av Direktoratet for eksportkontroll og sanksjoner. De som søker om forhåndstillatelse, skal gi Direktoratet for eksportkontroll og sanksjoner alle relevante opplysninger som er nødvendige.
 
 Forbudene i første ledd får ikke anvendelse på salg, levering, overføring eller eksport av varer og teknologi som oppført i [§ 17i tredje ledd](forskrift/2014-08-15-1076/§17i/ledd/3), eller på levering av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester til ikke-militært bruk og til en ikke-militær sluttbruker, som er nødvendig for kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som oppført i [§ 17i tredje ledd](forskrift/2014-08-15-1076/§17i/ledd/3), eller levering av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, etter å ha slått fast at disse varene eller teknologien eller levering av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester er nødvendige formedisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller for evakueringer,utelukkende til bruk for og underlagt full kontroll av norske myndigheter, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon,etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging, og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt, levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåkning av stråling i miljøet, samt til sivilt kjernefysisk atomsamarbeid, særlig innenfor forskning og utvikling, ellerproduksjon av varer av titan som kreves i luftfartsindustrien, og som det ikke finnes alternativ forsyning av.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som oppført i [§ 17i tredje ledd](forskrift/2014-08-15-1076/§17i/ledd/3), eller levering av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester, etter å ha slått fast at disse varene eller teknologien eller levering av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller andre tjenester er nødvendige for
+
+1. medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller for evakueringer,
+2. utelukkende til bruk for og underlagt full kontroll av norske myndigheter, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon,
+3. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging, og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt, levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåkning av stråling i miljøet, samt til sivilt kjernefysisk atomsamarbeid, særlig innenfor forskning og utvikling, eller
+4. produksjon av varer av titan som kreves i luftfartsindustrien, og som det ikke finnes alternativ forsyning av.
 
 Sjette og syvende ledd berører ikke unntakene i [§ 17i](forskrift/2014-08-15-1076/§17i), særlig åttende, niende og tolvte ledd.
 
@@ -797,19 +1426,44 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 Transitt via Russlands territorium av flerbruksvarer og flerbruksteknologi, som nevnt i første ledd, eksportert fra Norge, er forbudt.
 
-Det er forbudtdirekte eller indirekte å gi faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
 
-Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), får forbudene i første og tredje ledd ikke anvendelse på eksport, salg, levering eller overføring av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet påhumanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer, ellermedisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i vedlegg XL.Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette leddet, og skal underrette Direktoratet for eksportkontroll og sanksjoner, om når det relevante unntaket anvendes første gang per mottaker i Russland.
+1. direkte eller indirekte å gi faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+
+Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), får forbudene i første og tredje ledd ikke anvendelse på eksport, salg, levering eller overføring av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+
+1. humanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer, eller
+2. medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i vedlegg XL.
+
+Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette leddet, og skal underrette Direktoratet for eksportkontroll og sanksjoner, om når det relevante unntaket anvendes første gang per mottaker i Russland.
 
 Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), får forbudet i andre ledd ikke anvendelse på transitt via Russlands territorium av flerbruksvarer og flerbruksteknologi som er ment til bruk for formålene fastsatt i fjerde ledd i denne bestemmelsen.
 
-Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), kan Direktoratet for eksportkontroll og sanksjoner gi unntak fra første og tredje ledd ved å tillate salg, eksport, levering eller overføring av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er– – –beregnet på mellomstatlig samarbeid innenfor romprogrammer,beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,beregnet på maritim sikkerhet,beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,beregnet på sikring av cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer i Russland som eies utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,beregnet på programvareoppdateringer,beregnet på bruk av forbrukerkommunikasjonsutstyr, ellerberegnet på medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2013-06-19-718/vedleggXL).
+Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), kan Direktoratet for eksportkontroll og sanksjoner gi unntak fra første og tredje ledd ved å tillate salg, eksport, levering eller overføring av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er
+
+1. – – –
+2. beregnet på mellomstatlig samarbeid innenfor romprogrammer,
+3. beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+4. beregnet på maritim sikkerhet,
+5. beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
+6. beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,
+7. beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
+8. beregnet på sikring av cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer i Russland som eies utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,
+9. beregnet på programvareoppdateringer,
+10. beregnet på bruk av forbrukerkommunikasjonsutstyr, eller
+11. beregnet på medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2013-06-19-718/vedleggXL).
 
 Som unntak fra bestemmelsene i andre ledd, og uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til forsendelse via Russlands territorium av flerbruksvarer og flerbruksteknologi etter å ha slått fast at varene eller teknologien er ment til bruk for formålene fastsatt i sjette ledd bokstav b, c, d, h og k i denne bestemmelsen.
 
 Direktoratet for eksportkontroll og sanksjoner kan gi unntak fra første og tredje ledd ved å tillate salg, eksport, levering eller overføring av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er i henhold til kontrakter inngått før 19. mars 2022 eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 20. mai 2022.
 
-Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser i samsvar med sjette og åttende ledd, skal direktoratet ikke gi tillatelse dersom det har rimelig grunn til å anta atsluttbrukeren kan være en militær sluttbruker eller en fysisk eller juridisk person oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI), eller at varene kan være beregnet på militær sluttbruk, med mindre salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er tillatt i henhold til § 16b første ledd bokstav a,salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd, eller yting av tilknyttet faglig eller finansiell bistand, er beregnet på luftfarts- eller romindustrien, ellersalg, levering, overføring eller transport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er ment for energisektoren, med mindre nevnte salg, levering, overføring eller eksport eller tilknyttede faglige eller finansielle bistand er tillatt i henhold til unntakene nevnt i [§ 17 tredje ledd](forskrift/2014-08-15-1076/§17/ledd/3) til femte ledd og [§ 17i åttende ledd](forskrift/2014-08-15-1076/§17i/ledd/8).
+Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser i samsvar med sjette og åttende ledd, skal direktoratet ikke gi tillatelse dersom det har rimelig grunn til å anta at
+
+1. sluttbrukeren kan være en militær sluttbruker eller en fysisk eller juridisk person oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI), eller at varene kan være beregnet på militær sluttbruk, med mindre salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er tillatt i henhold til § 16b første ledd bokstav a,
+2. salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd, eller yting av tilknyttet faglig eller finansiell bistand, er beregnet på luftfarts- eller romindustrien, eller
+3. salg, levering, overføring eller transport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er ment for energisektoren, med mindre nevnte salg, levering, overføring eller eksport eller tilknyttede faglige eller finansielle bistand er tillatt i henhold til unntakene nevnt i [§ 17 tredje ledd](forskrift/2014-08-15-1076/§17/ledd/3) til femte ledd og [§ 17i åttende ledd](forskrift/2014-08-15-1076/§17i/ledd/8).
 
 Direktoratet for eksportkontroll og sanksjoner kan oppheve, suspendere, endre eller tilbakekalle en tillatelse gitt i medhold av fjerde eller femte ledd, dersom direktoratet finner at slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forskriften.
 
@@ -823,19 +1477,45 @@ Transitt via Russlands territorium av varer og teknologi som kan bidra til å ø
 
 Dersom Direktoratet for eksportkontroll og sanksjoner har informasjon om at varer oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX) som skal eksporteres til andre land enn Russland helt eller delvis er eller kan være beregnet til fysiske eller juridiske personer i Russland eller til bruk i Russland, kan direktoratet informere eksportørene og kreve tillatelse før eksport av de aktuelle varene kan finne sted, uten at det berører forbudet mot indirekte eksport i første ledd og krav om lisens i [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718).
 
-Det er forbudtdirekte eller indirekte å gi faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
 
-Forbudene i første og fjerde ledd gjelder ikke eksport, salg, levering eller overføring av varer og teknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet påhumanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet og miljø, eller som respons ved naturkatastrofer, ellermedisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL).Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette leddet, og skal underrette Direktoratet for eksportkontroll og sanksjoner, om når det relevante unntaket anvendes første gang per mottaker i Russland.
+1. direkte eller indirekte å gi faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+
+Forbudene i første og fjerde ledd gjelder ikke eksport, salg, levering eller overføring av varer og teknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+
+1. humanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet og miljø, eller som respons ved naturkatastrofer, eller
+2. medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL).
+
+Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette leddet, og skal underrette Direktoratet for eksportkontroll og sanksjoner, om når det relevante unntaket anvendes første gang per mottaker i Russland.
 
 Forbudet i andre ledd får ikke anvendelse på transitt via Russlands territorium av varer og teknologi som kan bidra til å øke Russlands militære og teknologiske styrke, eller til å utvikle Russlands forsvars- og sikkerhetssektor, som oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX), ment til bruk for formålene fastsatt i femte ledd.
 
-Direktoratet for eksportkontroll og sanksjoner kan gi unntak fra første og fjerde ledd ved å tillate salg, eksport, levering eller overføring av varer og teknologi oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX) eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er– – –beregnet på mellomstatlig samarbeid innenfor romprogrammer,beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,beregnet på maritim sikkerhet,beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,beregnet på sikring av cybersikkerhet og informasjonssikkerhet for juridiske personer i Russland som eies, eller som utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,utelukkende til bruk for og underlagt full kontroll av myndighetene som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon,beregnet på programvareoppdateringer,beregnet på bruk av forbrukerkommunikasjonsutstyr, ellerberegnet på medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL).
+Direktoratet for eksportkontroll og sanksjoner kan gi unntak fra første og fjerde ledd ved å tillate salg, eksport, levering eller overføring av varer og teknologi oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX) eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er
+
+1. – – –
+2. beregnet på mellomstatlig samarbeid innenfor romprogrammer,
+3. beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+4. beregnet på maritim sikkerhet,
+5. beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
+6. beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,
+7. beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
+8. beregnet på sikring av cybersikkerhet og informasjonssikkerhet for juridiske personer i Russland som eies, eller som utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,
+9. utelukkende til bruk for og underlagt full kontroll av myndighetene som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon,
+10. beregnet på programvareoppdateringer,
+11. beregnet på bruk av forbrukerkommunikasjonsutstyr, eller
+12. beregnet på medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL).
 
 Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til transitt via Russlands territorium av varer og teknologi som kan bidra til å øke Russlands militære og teknologiske styrke, eller til å utvikle Russlands forsvars- og sikkerhetssektor, som oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX), etter å ha slått fast at varene eller teknologien er ment til bruk for formålene fastsatt i syvende ledd bokstav b, c, d, h og l.
 
 Som unntak fra første og fjerde ledd, kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring eller eksport av varer og teknologi som nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er i henhold til kontrakter inngått før 19. mars 2022 eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 20. mai 2022.
 
-Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser i samsvar med syvende eller niende ledd, skal Direktoratet for eksportkontroll og sanksjoner ikke gi tillatelse dersom det har rimelig grunn til å anta atsluttbrukeren kan være en militær sluttbruker eller en fysisk eller juridisk person oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI), eller at varene kan være beregnet på militær sluttbruk, med mindre salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er tillatt i henhold til § 16b tredje ledd bokstav a,salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd, eller yting av tilknyttet faglig eller finansiell bistand, er beregnet på luftfarts- eller romindustrien, ellersalg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er ment for energisektoren, med mindre salg, levering, overføring eller eksport eller tilknyttede faglige eller finansielle bistand er tillatt i henhold til unntakene nevnt i [§ 17](forskrift/2014-08-15-1076/§17) tredje til femte ledd og [§ 17i åttende ledd](forskrift/2014-08-15-1076/§17i/ledd/8).
+Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser i samsvar med syvende eller niende ledd, skal Direktoratet for eksportkontroll og sanksjoner ikke gi tillatelse dersom det har rimelig grunn til å anta at
+
+1. sluttbrukeren kan være en militær sluttbruker eller en fysisk eller juridisk person oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI), eller at varene kan være beregnet på militær sluttbruk, med mindre salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er tillatt i henhold til § 16b tredje ledd bokstav a,
+2. salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd, eller yting av tilknyttet faglig eller finansiell bistand, er beregnet på luftfarts- eller romindustrien, eller
+3. salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller yting av tilknyttet faglig eller finansiell bistand er ment for energisektoren, med mindre salg, levering, overføring eller eksport eller tilknyttede faglige eller finansielle bistand er tillatt i henhold til unntakene nevnt i [§ 17](forskrift/2014-08-15-1076/§17) tredje til femte ledd og [§ 17i åttende ledd](forskrift/2014-08-15-1076/§17i/ledd/8).
 
 Direktoratet for eksportkontroll og sanksjoner kan oppheve, suspendere, endre eller tilbakekalle en tillatelse gitt i medhold av syvende eller niende ledd, dersom Direktoratet for eksportkontroll og sanksjoner finner at slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forskriften.
 
@@ -847,7 +1527,11 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 Transitt via Russlands territorium av skytevåpen samt deler, vesentlige komponenter og ammunisjon til skytevåpen, som nevnt i første ledd, eksportert fra Norge, er forbudt.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 > Tilføyd ved forskrift [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), endret ved forskrifter [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575).
 
@@ -855,9 +1539,16 @@ Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjeneste
 
 Det er forbudt å direkte eller indirekte selge, levere, overføre eller eksportere flerbruksvarer og flerbruksteknologi, samt varer og teknologi oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX), enten disse har sin opprinnelse i Norge eller ikke, til fysiske eller juridiske personer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI).
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer organer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI),direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI),direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI).
+Det er forbudt
 
-Som unntak fra første og andre ledd, og uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi, og varer og teknologi oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX), eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast atslike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand er nødvendig for omgående å hindre eller begrense en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, ellerslike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand er i henhold til kontrakter inngått før 26. februar 2022, eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer organer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI),
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI),
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer oppført i [vedlegg VI](forskrift/2014-08-15-1076/vedleggVI).
+
+Som unntak fra første og andre ledd, og uten at det berører kravene til tillatelse for eksport av flerbruksvarer og flerbruksteknologi oppført på «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi, og varer og teknologi oppført i [vedlegg IX](forskrift/2014-08-15-1076/vedleggIX), eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at
+
+1. slike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand er nødvendig for omgående å hindre eller begrense en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller
+2. slike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand er i henhold til kontrakter inngått før 26. februar 2022, eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
 
 Direktoratet for eksportkontroll og sanksjoner kan oppheve, suspendere, endre eller tilbakekalle en lisens som direktoratet har gitt i henhold til første ledd, dersom direktoratet finner at en slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forskriften.
 
@@ -875,23 +1566,46 @@ Alle lisenser som nevnt i § 16, § 16a og § 16b skal, dersom det er mulig, ove
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare som er oppført i [vedlegg IV](forskrift/2014-08-15-1076/vedleggIV) til fysiske eller juridiske personer i Russland, herunder i Russlands eksklusive økonomiske sone og på russisk kontinentalsokkel, eller til bruk i Russland, herunder i Russlands eksklusive økonomiske sone og på russisk kontinentalsokkel.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til programvare nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til programvaren nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte programvare, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til programvaren nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer, i Russland eller til bruk i Russland.
+Det er forbudt
 
-Forbudene i andre ledd gjelder ikke salg, levering, overføring eller eksport av programvare, eller yting av faglig og finansiell bistand, som er nødvendig fortransport av naturgass og olje, herunder raffinerte petroleumsprodukter, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), fra eller gjennom Russland til Norge eller EU, elleromgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet.
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til programvare nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til programvaren nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte programvare, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til programvaren nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til fysiske eller juridiske personer, i Russland eller til bruk i Russland.
+
+Forbudene i andre ledd gjelder ikke salg, levering, overføring eller eksport av programvare, eller yting av faglig og finansiell bistand, som er nødvendig for
+
+1. transport av naturgass og olje, herunder raffinerte petroleumsprodukter, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), fra eller gjennom Russland til Norge eller EU, eller
+2. omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet.
 
 Som unntak fra tredje ledd kan Direktoratet for eksportkontroll og sanksjoner på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter 20. september 2024 tillate levering av forsikrings- eller gjenforsikringstjenester til juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, i forbindelse med deres virksomhet utenfor energisektoren i Russland.
 
-Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport og yting av faglig eller finansiell bistand, etter å ha slått fast atdet er nødvendig for å sikre kritisk kraftforsyning i Norge eller EU, ellerdet er beregnet utelukkende til bruk for enheter som eies, eller som alene eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
+Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport og yting av faglig eller finansiell bistand, etter å ha slått fast at
+
+1. det er nødvendig for å sikre kritisk kraftforsyning i Norge eller EU, eller
+2. det er beregnet utelukkende til bruk for enheter som eies, eller som alene eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
 
 > Endret ved [forskrifter 14 april 2015 nr. 376](forskrift/2015-04-14-376), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
 ### § 17a. Forbud mot visse investeringer mv. i energi- og bergverkssektorene
 
-Det er forbudtå erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland, herunder prosjekter under oppføring for produksjon av flytende naturgass,å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,å opprette nye fellesforetak sammen med juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland,å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a)–c) ovenfor.
+Det er forbudt
 
-Det er forbudtå erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland,å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,å opprette nye fellesforetak sammen med juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland,å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a)–c).
+1. å erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland, herunder prosjekter under oppføring for produksjon av flytende naturgass,
+2. å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,
+3. å opprette nye fellesforetak sammen med juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen energisektoren i Russland,
+4. å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a)–c) ovenfor.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, tillate virksomhet nevnt i første ledd, etter å ha slått fast atdet er nødvendig for å sikre kritisk kraftforsyning i Norge eller EU, samt for transport av naturgass og olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland til Norge eller EU, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), ellerdet utelukkende berører juridiske personer som driver virksomhet innen energisektoren i Russland, og som er eid av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
+Det er forbudt
+
+1. å erverve nye eller utvide eksisterende eierskapsinteresser i juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland,
+2. å tildele eller delta i ordninger med sikte på å tildele nye lån eller kreditter, eller på annen måte yte finansiering, herunder egenkapital, til juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland, eller med det dokumenterte formål å finansiere de nevnte juridiske personene,
+3. å opprette nye fellesforetak sammen med juridiske personer som er etablert eller stiftet i henhold til Russlands eller et annet tredjelands lovgivning, og som driver virksomhet innen bergverksdrifts- og utvinningssektoren i Russland,
+4. å yte investeringstjenester som direkte er knyttet til virksomhet nevnt i bokstav a)–c).
+
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, tillate virksomhet nevnt i første ledd, etter å ha slått fast at
+
+1. det er nødvendig for å sikre kritisk kraftforsyning i Norge eller EU, samt for transport av naturgass og olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland til Norge eller EU, med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), eller
+2. det utelukkende berører juridiske personer som driver virksomhet innen energisektoren i Russland, og som er eid av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
 
 Som unntak fra første ledd bokstav b kan Direktoratet for eksportkontroll og sanksjoner på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige tillate enhver virksomhet nevnt i første ledd bokstav b, etter å ha slått fast at virksomheten i overensstemmelse med § 8ca fjortende ledd bokstav b er nødvendig for å sikre drift av et offshore dypvannsgassprosjekt i Middelhavet, der en juridisk person som er oppført i vedlegg XIX, var en mindretallsaksjeeier før 31. oktober 2017 og fortsatt er det. Slik tillatelse kan kun gis hvis prosjektet alene eller sammen med andre kontrolleres eller drives av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning.
 
@@ -901,7 +1615,11 @@ Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner gi 
 
 ### § 17aa. Forbud mot å tilby lagringskapasitet for naturgass
 
-Det er forbudt å tilby lagringskapasitet på et lagringsanlegg som definert i [naturgassforskriften § 1-3](forskrift/2003-11-14-1342/§1-3) første ledd bokstav b tilrussiske statsborgere, fysiske personer bosatt i Russland eller juridiske personer etablert i Russland,juridiske personer hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person nevnt i bokstav a i dette ledd, ellerfysiske eller juridiske personer som handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b i dette ledd.
+Det er forbudt å tilby lagringskapasitet på et lagringsanlegg som definert i [naturgassforskriften § 1-3](forskrift/2003-11-14-1342/§1-3) første ledd bokstav b til
+
+1. russiske statsborgere, fysiske personer bosatt i Russland eller juridiske personer etablert i Russland,
+2. juridiske personer hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en juridisk person nevnt i bokstav a i dette ledd, eller
+3. fysiske eller juridiske personer som handler på vegne av eller på instruks fra en juridisk person nevnt i bokstav a eller b i dette ledd.
 
 Første ledd gjelder ikke for den delen av anlegg for flytende naturgass som brukes til lagring.
 
@@ -935,7 +1653,10 @@ Forbudene i første og andre ledd gjelder ikke omlastingstjenester med sikte på
 
 Det er forbudt å direkte eller indirekte selge, levere, overføre eller eksportere varer og teknologi og direkte eller indirekte å yte tjenester til fysiske eller juridiske personer i Russland når slike varer, teknologier og tjenester bidrar til ferdigstillelse av prosjekter for flytende naturgass, som terminaler og anlegg, eller til ferdigstillelse av prosjekter for råolje i Russland, herunder lete- og produksjonsprosjekter.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer, teknologier eller tjenester i Russland når slike varer, teknologier eller tjenester er beregnet på ferdigstillelse av prosjekter for flytende naturgass eller ferdigstillelse av prosjekter for råolje som nevnt i første ledd,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer, teknologi eller tjenester i Russland når slike varer, teknologier eller tjenester er beregnet på ferdigstillelse av prosjekter for flytende naturgass eller ferdigstillelse av prosjekter for råolje som nevnt i første ledd.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer, teknologier eller tjenester i Russland når slike varer, teknologier eller tjenester er beregnet på ferdigstillelse av prosjekter for flytende naturgass eller ferdigstillelse av prosjekter for råolje som nevnt i første ledd,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer, teknologi eller tjenester i Russland når slike varer, teknologier eller tjenester er beregnet på ferdigstillelse av prosjekter for flytende naturgass eller ferdigstillelse av prosjekter for råolje som nevnt i første ledd.
 
 Forbudene knyttet til prosjekter for råolje i første og andre ledd gjelder ikke oppfyllelse innen 16. september 2025 av kontrakter inngått før 18. juni 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
@@ -951,7 +1672,10 @@ Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenest
 
 Forbudene i første og annet ledd gjelder ikke før 3. november 2024 for kontrakter inngått før 3. oktober 2024, eller for tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
-Som unntak fra forbudene i første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, eller den kompetente myndigheten i en EU-medlemsstat der en terminal for flytende naturgass ikke er koblet til det sammenkoblede naturgassystemet, gi tillatelse til kjøp, import eller overføring av flytende naturgass som faller inn under KN-kode 2711 11 00, som har opprinnelse i Russland eller eksportert fra Russland, etter å ha slått fast atden flytende naturgassen kjøpes, importeres eller overføres fra en terminal i en EU-medlemsstat, og denne terminalen er tilkoblet det sammenkoblede naturgassystemet, ogkjøpet, importen eller overføringen anvendes for å sikre energiforsyning.
+Som unntak fra forbudene i første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, eller den kompetente myndigheten i en EU-medlemsstat der en terminal for flytende naturgass ikke er koblet til det sammenkoblede naturgassystemet, gi tillatelse til kjøp, import eller overføring av flytende naturgass som faller inn under KN-kode 2711 11 00, som har opprinnelse i Russland eller eksportert fra Russland, etter å ha slått fast at
+
+1. den flytende naturgassen kjøpes, importeres eller overføres fra en terminal i en EU-medlemsstat, og denne terminalen er tilkoblet det sammenkoblede naturgassystemet, og
+2. kjøpet, importen eller overføringen anvendes for å sikre energiforsyning.
 
 Som unntak fra forbudene i første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, eller den kompetente myndigheten i en EU-medlemsstat som ikke er direkte koblet til det sammenkoblede naturgassystemet i en annen medlemsstat, og som mottok den første kommersielle leveransen av sin første langsiktige naturgassforsyningskontrakt etter 29. oktober 2025, tillate kjøp, import eller overføring av flytende naturgass som hører inn under KN-kode 2711 11 00, og som har opprinnelse i Russland eller er eksportert fra Russland, etter å ha slått fast at kjøpet, importen eller overføringen anvendes for å sikre energiforsyningen.
 
@@ -961,7 +1685,16 @@ Som unntak fra forbudene i første og andre ledd kan Direktoratet for eksportkon
 
 Fra og med 27. september 2026 er det forbudt direkte eller indirekte å kjøpe, importere eller overføre flytende naturgass som hører inn under KN-kode 2711 11 00 dersom den har opprinnelse i Russland eller er eksportert fra Russland.
 
-Første ledd gjelder fra 1. januar 2027 dersom kjøpet, importen eller overføringen gjennomføres i henhold til en kontrakt om levering av flytende naturgass, med unntak av et naturgassderivat, der kontrakten har en varighet på mer enn ett år og ble inngått før 19. november 2025, og der kontrakten ikke har hatt blitt endret i ettertid, med mindre endringen er begrenset til:reduksjon av avtalte mengder,reduksjon av priser og gebyrer,endring av konfidensialitetsklausuler,endring av operative prosedyrer, som for eksempel kommunikasjonsprosedyrer,endring av kontraktspartenes adresser,overføring av kontraktsmessige forpliktelser mellom tilknyttende virksomheter,endringer som kreves som følge av rettslige eller voldgiftsmessige prosedyrer, ellerfor kystløse land, endringer mellom nasjonale leveringssteder.
+Første ledd gjelder fra 1. januar 2027 dersom kjøpet, importen eller overføringen gjennomføres i henhold til en kontrakt om levering av flytende naturgass, med unntak av et naturgassderivat, der kontrakten har en varighet på mer enn ett år og ble inngått før 19. november 2025, og der kontrakten ikke har hatt blitt endret i ettertid, med mindre endringen er begrenset til:
+
+1. reduksjon av avtalte mengder,
+2. reduksjon av priser og gebyrer,
+3. endring av konfidensialitetsklausuler,
+4. endring av operative prosedyrer, som for eksempel kommunikasjonsprosedyrer,
+5. endring av kontraktspartenes adresser,
+6. overføring av kontraktsmessige forpliktelser mellom tilknyttende virksomheter,
+7. endringer som kreves som følge av rettslige eller voldgiftsmessige prosedyrer, eller
+8. for kystløse land, endringer mellom nasjonale leveringssteder.
 
 Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand eller andre tjenester tilknyttet forbudet i første ledd.
 
@@ -979,7 +1712,11 @@ Det er forbudt å opprettholde kontrakter om forbudte LNG-tjenester i henhold ti
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er tilpasset bruk i raffinering av olje og omdanning til væske av naturgass, som oppført i [vedlegg XI](forskrift/2014-08-15-1076/vedleggxi), enten de har sin opprinnelse i Norge eller ikke, til fysiske eller juridiske personer i Russland, eller til bruk i Russland.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi som nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi som nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi som nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 Forbudene i første og annet ledd gjelder ikke oppfyllelse innen 20. juni 2022 av kontrakter inngått før 19. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
@@ -999,7 +1736,11 @@ Det er forbudt direkte eller indirekte å yte forsikring eller gjenforsikring i 
 
 Det er forbudt direkte eller indirekte å utføre følgende aktiviteter, enten enkeltvis eller i kombinasjon: ettersyn, reparasjon, inspeksjon, utskiftning, endring eller feilretting av et luftfartøy eller dets komponenter, med unntak av inspeksjoner før flygning, knyttet til varer og teknologi i vedlegg XII, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi som nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand til varer og teknologi som nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi som nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand til varer og teknologi som nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 – – –
 
@@ -1009,13 +1750,18 @@ Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjeneste
 
 – – –
 
-Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, gi tillatelse til at en avtale om finansiell leasing av et luftfartøy kan oppfylles dersom den er inngått før 17. mars 2022, etter å ha slått fast atdet er strengt nødvendig for å sikre tilbakebetalinger til juridiske personer som er stiftet eller opprettet i henhold til norsk eller en EU-medlemsstats lovgivning, og som ikke er omfattet av noen av restriksjonene fastsatt i denne forskriften,ingen formuesgoder skal stilles til rådighet for den russiske motparten, bortsett fra overdragelse av eiendomsretten til luftfartøyet etter full tilbakebetaling i henhold til den finansielle leasingavtalen.
+Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, gi tillatelse til at en avtale om finansiell leasing av et luftfartøy kan oppfylles dersom den er inngått før 17. mars 2022, etter å ha slått fast at
+
+1. det er strengt nødvendig for å sikre tilbakebetalinger til juridiske personer som er stiftet eller opprettet i henhold til norsk eller en EU-medlemsstats lovgivning, og som ikke er omfattet av noen av restriksjonene fastsatt i denne forskriften,
+2. ingen formuesgoder skal stilles til rådighet for den russiske motparten, bortsett fra overdragelse av eiendomsretten til luftfartøyet etter full tilbakebetaling i henhold til den finansielle leasingavtalen.
 
 Som unntak fra bestemmelsene i første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varene oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII) del B eller til yting av tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at dette er nødvendig for produksjonen av varer av titan som kreves i luftfartsindustrien, og som det ikke finnes alternativ forsyning av.
 
 Som unntak fra fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, til å yte faglig bistand knyttet til bruk av varer og teknologi nevnt i første ledd, etter å ha slått fast at slik yting av faglig bistand er nødvendig for å unngå at satellitter kolliderer eller utilsiktet kommer tilbake til atmosfæren.
 
-Som unntak fra bestemmelsene i første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varene som hører inn under KN-kode 8517 71 00, 8517 79 00 og 9026 00 00 oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII) del B, eller til yting av tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at dette er nødvendig for medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer.Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser for medisinske, farmasøytiske eller humanitære formål i samsvar med denne bestemmelsen, skal Direktoratet for eksportkontroll og sanksjoner ikke gi eksporttillatelse til fysiske eller juridiske personer i Russland eller til bruk i Russland dersom det har rimelig grunn til å anta at varene kan være beregnet på militær sluttbruk.
+Som unntak fra bestemmelsene i første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varene som hører inn under KN-kode 8517 71 00, 8517 79 00 og 9026 00 00 oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII) del B, eller til yting av tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, etter å ha slått fast at dette er nødvendig for medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand eller for evakueringer.
+
+Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søknader om tillatelser for medisinske, farmasøytiske eller humanitære formål i samsvar med denne bestemmelsen, skal Direktoratet for eksportkontroll og sanksjoner ikke gi eksporttillatelse til fysiske eller juridiske personer i Russland eller til bruk i Russland dersom det har rimelig grunn til å anta at varene kan være beregnet på militær sluttbruk.
 
 Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til transitt via Russlands territorium av varer og teknologi som er egnet til bruk i luftfarts- eller romindustrien, som oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), samt jetdrivstoff og drivstofftilsetninger som oppført i [vedlegg XX](forskrift/2014-08-15-1076/vedleggXX), etter å ha slått fast nevnte varer eller teknologi er ment til bruk for formålene fastsatt i ellevte, tolvte og trettende ledd.
 
@@ -1033,7 +1779,11 @@ Forbudet i fjerde ledd bokstav a gjelder ikke utveksling av opplysninger som ska
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi beregnet på maritim navigasjon, som oppført i [vedlegg XVI](forskrift/2014-08-15-1076/vedleggxvi), enten de har sin opprinnelse i Norge eller ikke, til fysiske eller juridiske personer i Russland, til bruk i Russland eller til anbringelse om bord et skip som fører russisk flagg.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 Forbudene i første og andre ledd gjelder ikke salg, levering, overføring eller eksport av varer og teknologi omhandlet i første ledd eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, beregnet på humanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller som respons ved naturkatastrofer.
 
@@ -1043,15 +1793,42 @@ Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og san
 
 ### § 17e. Forbud knyttet til jern- og stålprodukter som oppført i vedlegg XVII
 
-Det er forbudtdirekte eller indirekte å importere jern- og stålprodukter som oppført i vedlegg XVII til Norge dersom dehar opprinnelse i Russland, ellerer eksportert fra Russland,direkte eller indirekte å kjøpe jern- og stålprodukter som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII) som befinner seg i eller har opprinnelse i Russland,å transportere jern- og stålprodukter som oppført i vedlegg XVII dersom de har opprinnelse i Russland eller eksporteres fra Russland til et annet land,direkte eller indirekte å importere eller kjøpe, fra og med 30. september 2023, jern- og stålprodukter som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII), når de er bearbeidet i et tredjeland og inneholder jern- og stålprodukter med opprinnelse i Russland som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII). Med hensyn til produkter oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII) som er bearbeidet i et tredjeland og inneholder stålprodukter med opprinnelse i Russland og hører inn under KN-kode 7207 11, 7207 12 10 eller 7224 90, gjelder dette forbudet fra og med 1. april 2024 for KN-kode 7207 11, og fra og med 1. oktober 2028 for KN-kode 7207 12 10 og 7224 90. Importører skal, på importtidspunktet, framlegge dokumentasjon på opprinnelsesland for jern- og stålinnsatsfaktorer brukt til bearbeiding av produktet i et tredjeland.direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a, b, c og d.
+Det er forbudt
+
+1. direkte eller indirekte å importere jern- og stålprodukter som oppført i vedlegg XVII til Norge dersom de
+
+   1. har opprinnelse i Russland, eller
+   2. er eksportert fra Russland,
+2. direkte eller indirekte å kjøpe jern- og stålprodukter som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII) som befinner seg i eller har opprinnelse i Russland,
+3. å transportere jern- og stålprodukter som oppført i vedlegg XVII dersom de har opprinnelse i Russland eller eksporteres fra Russland til et annet land,
+4. direkte eller indirekte å importere eller kjøpe, fra og med 30. september 2023, jern- og stålprodukter som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII), når de er bearbeidet i et tredjeland og inneholder jern- og stålprodukter med opprinnelse i Russland som oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII). Med hensyn til produkter oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII) som er bearbeidet i et tredjeland og inneholder stålprodukter med opprinnelse i Russland og hører inn under KN-kode 7207 11, 7207 12 10 eller 7224 90, gjelder dette forbudet fra og med 1. april 2024 for KN-kode 7207 11, og fra og med 1. oktober 2028 for KN-kode 7207 12 10 og 7224 90. Importører skal, på importtidspunktet, framlegge dokumentasjon på opprinnelsesland for jern- og stålinnsatsfaktorer brukt til bearbeiding av produktet i et tredjeland.
+5. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a, b, c og d.
 
 Forbudet i første ledd gjelder ikke kjøp eller import av varer fra EU eller Storbritannia til Norge, eller kjøp innad i Norge
 
-Forbudene i første ledd bokstav a, b, c og e gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varer som hører inn under KN-kode 7207 12 10:3 747 905 tonn mellom 29. oktober 2022 og 30. september 2023,3 747 905 tonn mellom 1. oktober 2023 og 30. september 2024.3 185 719 tonn mellom 1. oktober 2024 og 30. september 2025,2 998 324 tonn mellom 1. oktober 2025 og 30. september 2026,2 623 534 tonn mellom 1. oktober 2026 og 30. september 2027,2 061 348 tonn mellom 1. oktober 2027 og 30. september 2028.
+Forbudene i første ledd bokstav a, b, c og e gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varer som hører inn under KN-kode 7207 12 10:
 
-Forbudene i første ledd gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varer som hører inn under KN-kode 7207 11:487 202 tonn mellom 29. oktober 2022 og 30. september 2023,85 260 tonn mellom 1. oktober 2023 og 31. desember 2023,48 720 tonn mellom 1. januar 2024 og 31. mars 2024.
+1. 3 747 905 tonn mellom 29. oktober 2022 og 30. september 2023,
+2. 3 747 905 tonn mellom 1. oktober 2023 og 30. september 2024.
+3. 3 185 719 tonn mellom 1. oktober 2024 og 30. september 2025,
+4. 2 998 324 tonn mellom 1. oktober 2025 og 30. september 2026,
+5. 2 623 534 tonn mellom 1. oktober 2026 og 30. september 2027,
+6. 2 061 348 tonn mellom 1. oktober 2027 og 30. september 2028.
 
-Forbudene i første ledd gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varene som hører inn under KN-kode 7224 90:147 007 tonn mellom 31. januar 2023 og 31. desember 2023,110 255 tonn mellom 1. januar 2024 og 30. september 2024.124 956 tonn mellom 1. oktober 2024 og 30. september 2025,117 606 tonn mellom 1. oktober 2025 og 30. september 2026,102 905 tonn mellom 1. oktober 2026 og 30. september 2027,80 854 tonn mellom 1. oktober 2027 og 30. september 2028.
+Forbudene i første ledd gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varer som hører inn under KN-kode 7207 11:
+
+1. 487 202 tonn mellom 29. oktober 2022 og 30. september 2023,
+2. 85 260 tonn mellom 1. oktober 2023 og 31. desember 2023,
+3. 48 720 tonn mellom 1. januar 2024 og 31. mars 2024.
+
+Forbudene i første ledd gjelder ikke import, kjøp eller transport, eller tilknyttet faglig eller finansiell bistand, av følgende mengder av varene som hører inn under KN-kode 7224 90:
+
+1. 147 007 tonn mellom 31. januar 2023 og 31. desember 2023,
+2. 110 255 tonn mellom 1. januar 2024 og 30. september 2024.
+3. 124 956 tonn mellom 1. oktober 2024 og 30. september 2025,
+4. 117 606 tonn mellom 1. oktober 2025 og 30. september 2026,
+5. 102 905 tonn mellom 1. oktober 2026 og 30. september 2027,
+6. 80 854 tonn mellom 1. oktober 2027 og 30. september 2028.
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner tillate kjøp, import eller overføring av varer oppført i [vedlegg XVII](forskrift/2014-08-15-1076/vedleggXVII) på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at det er nødvendig for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
 
@@ -1061,7 +1838,11 @@ Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner t
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere luksusvarer, uavhengig av om de har opprinnelse i Norge eller ikke, som er oppført i [vedlegg XVIII](forskrift/2014-08-15-1076/vedleggXVIII), til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varene omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 Forbudene nevnt i første og andre ledd gjelder for luksusvarer oppført i [vedlegg XVIII](forskrift/2014-08-15-1076/vedleggXVIII) dersom verdien overstiger 300 euro per vare, med mindre annet er angitt vedlegget.
 
@@ -1071,7 +1852,12 @@ Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner g
 
 Forbudet i første ledd gjelder ikke varer som hører inn under KN-kode 71130000 og 71140000 som oppført i [vedlegg XVIII](forskrift/2014-08-15-1076/vedleggXVIII), til personlig bruk for fysiske personer som reiser fra Norge eller EU, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, og som eies av disse personene og ikke er beregnet på salg.
 
-Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate salg eller forsyning av et fartøy som hører inn under KN-kode 8901 10 00 eller 8901 90 00, eller levering, fram til 10. april 2024, av tilknyttet teknisk eller finansiell bistand, til en juridisk person i Russland eller til bruk i Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, etter å ha slått fast atfartøyet befinner seg fysisk i Russland 3. oktober 2023 og skal brukes i Russland,fartøyet har ført russisk flagg i henhold til en bareboatregistrering som trådte i kraft før 24. februar 2022,den juridiske personen i Russland er ikke en militær sluttbruker og vil ikke bruke fartøyet til militære formål,salget eller forsyningen er ikke til fordel for en fysisk eller juridisk person som er oppført i vedlegg I eller underlagt restriktive tiltak fastsatt i denne forskriften.
+Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate salg eller forsyning av et fartøy som hører inn under KN-kode 8901 10 00 eller 8901 90 00, eller levering, fram til 10. april 2024, av tilknyttet teknisk eller finansiell bistand, til en juridisk person i Russland eller til bruk i Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, etter å ha slått fast at
+
+1. fartøyet befinner seg fysisk i Russland 3. oktober 2023 og skal brukes i Russland,
+2. fartøyet har ført russisk flagg i henhold til en bareboatregistrering som trådte i kraft før 24. februar 2022,
+3. den juridiske personen i Russland er ikke en militær sluttbruker og vil ikke bruke fartøyet til militære formål,
+4. salget eller forsyningen er ikke til fordel for en fysisk eller juridisk person som er oppført i vedlegg I eller underlagt restriktive tiltak fastsatt i denne forskriften.
 
 > Tilføyd ved forskrift [24 mars 2022 nr. 448](forskrift/2022-03-24-448), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
@@ -1079,7 +1865,10 @@ Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og san
 
 Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre varer som genererer betydelige inntekter for Russland og dermed muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, som oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI), dersom de har sin opprinnelse i Russland eller eksporteres fra Russland. Med import menes i denne bestemmelsen at en vare føres inn i Norge. Forbudet gjelder ikke kjøp, import eller overføring av varer fra EU til Norge, eller kjøp eller overføring innad i Norge.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, i forbindelse med forbudet i første ledd,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med kjøp, import eller overføring av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, i forbindelse med forbudet i første ledd.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, i forbindelse med forbudet i første ledd,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i første ledd i forbindelse med kjøp, import eller overføring av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, i forbindelse med forbudet i første ledd.
 
 Direktoratet for eksportkontroll og sanksjoner kan tillate import av varer som utelukkende er beregnet på personlig bruk av fysiske personer på reise til Norge, eller av deres nære familiemedlemmer, begrenset til personlige eiendeler som eies av disse personene og som åpenbart ikke er beregnet på salg.
 
@@ -1089,19 +1878,33 @@ Som unntak fra første og annet ledd kan Direktoratet for eksportkontroll og san
 
 Som unntak fra første og annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate import eller overføring av varer som hører inn under KN-kode 8471, 8523, 8536 og 9027, som oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI), og som fysisk befant seg i Russland før det aktuelle forbudet trådte i kraft for slike varer, eller yting av tilknyttet faglig og finansiell bistand, etter å ha slått fast at disse varene er komponenter i medisinsk utstyr og føres inn i Norge med henblikk på vedlikehold, reparasjon eller retur av defekte komponenter.
 
-Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til import av følgende mengder av varer som hører inn under KN-kode 7601:10 185 tonn mellom 18. juni 2025 og 19. juni 2026,1 852 tonn mellom 18. juni 2026 og 23. april 2027, for oppfyllelse av kontrakter inngått før 18. juni 2025, eller tilknyttede kontrakter som er nødvendig for oppfyllelse av slike kontrakter.
+Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til import av følgende mengder av varer som hører inn under KN-kode 7601:
+
+1. 10 185 tonn mellom 18. juni 2025 og 19. juni 2026,
+2. 1 852 tonn mellom 18. juni 2026 og 23. april 2027, for oppfyllelse av kontrakter inngått før 18. juni 2025, eller tilknyttede kontrakter som er nødvendig for oppfyllelse av slike kontrakter.
 
 Forbudene i første og andre ledd gjelder ikke kjøp eller transport eller tilknyttet faglig eller finansiell bistand som er nødvendig for import til Norge i henhold til syvende ledd eller for import til EU i henhold til rådsforordning [(EU) nr. 833/2014](eu/32014r0833/a3) artikkel 3 i nr. 3cg og 3ch.
 
-Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til import av følgende mengder av varer:31 021 tonn kaliumklorid under KN-kode 3104 20 mellom 31. juli i et gitt år og 30. juli det påfølgende året,58 437 tonn som består av de øvrige produktene oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) under KN-kode 3105 20, 3105 60 og 3105 90 mellom 31. juli i et gitt år og 30. juli det påfølgende året.
+Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til import av følgende mengder av varer:
+
+1. 31 021 tonn kaliumklorid under KN-kode 3104 20 mellom 31. juli i et gitt år og 30. juli det påfølgende året,
+2. 58 437 tonn som består av de øvrige produktene oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) under KN-kode 3105 20, 3105 60 og 3105 90 mellom 31. juli i et gitt år og 30. juli det påfølgende året.
 
 Forbudene i første og andre ledd gjelder ikke kjøp eller transport eller tilknyttet faglig eller finansiell bistand som er nødvendig for import til Norge i henhold til niende ledd eller for import til EU i henhold til rådsforordning [(EU) nr. 833/2014](eu/32014r0833) artikkel 3i nr. 4.
 
-Som unntak fra første og andre ledd, er det tillatt å overføre til tredjeland, også via norsk territorium, samt direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til slike overføringer, følgende varer:Gjødsel som omfattes av KN-kode 310420, 310520, 310560, ex31059020 og ex31059080, som angitt i vedlegg XXI.Dyrefôr som omfattes av KN-kode 2303, som angitt i vedlegg XXI.
+Som unntak fra første og andre ledd, er det tillatt å overføre til tredjeland, også via norsk territorium, samt direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til slike overføringer, følgende varer:
+
+1. Gjødsel som omfattes av KN-kode 310420, 310520, 310560, ex31059020 og ex31059080, som angitt i vedlegg XXI.
+2. Dyrefôr som omfattes av KN-kode 2303, som angitt i vedlegg XXI.
 
 Som unntak fra første og andre ledd, er det tillatt å overføre til tredjeland energivarer som omfattes av KN-kode 4401 (ved til brensel) og 4402 (trekull), som angitt i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI), samt direkte eller indirekte yte finansiering eller finansiell bistand knyttet til slike overføringer.
 
-Forbudet i første ledd gjelder ikke innførsel av kjøretøy som hører inn under KN-kode 8703 (biler med opptil 9 seter ment for persontransport), dersom ett av følgende alternativer er oppfylt:Kjøretøyet eies eller benyttes av en stats diplomatiske eller konsulære stasjon, av diplomatisk eller konsulært personell, av en diplomatisk stasjons administrative eller tekniske personell, eller av familiemedlem som tilhører husstanden til noen av disse, og som nyter privilegier og immunitet i henhold til [Wien-konvensjonen av 1961](traktat/1961-04-18-1) om diplomatisk samkvem, eller [Wien-konvensjonen av 1963](traktat/1963-04-24-1) om konsulært samkvem. Tilsvarende gjelder for kjøretøy som eies eller benyttes av mellomstatlige organisasjoner eller konvensjonsorganer og deres ansatte og oppdragstakere, eller av en stats kurertjeneste.Kjøretøyet eies av statsborger av Norge eller et annet EØS-land eller av dennes nære familiemedlem som er bosatt i Russland, dersom kjøretøyet ikke er beregnet på salg, men innføres utelukkende til personlig bruk. Med nære familiemedlem menes her ektefelle, registrert partner, samboer, mindreårige eller voksne barn, og foreldre.Innførsel er nødvendig av humanitære grunner, som akutt sykdom, dødsfall eller begravelse i familie i Norge eller EØS-land. Med familie menes her ektefelle, registrert partner, samboer, mindreårige eller voksne barn eller stebarn, foreldre eller steforeldre, mindreårige eller voksne barnebarn eller stebarnebarn, besteforeldre eller stebesteforeldre, og søsken eller stesøsken.Direktoratet for eksportkontroll og sanksjoner har gitt tillatelse. Direktoratet for eksportkontroll og sanksjoner kan gi slik tillatelse, på de vilkår direktoratet finner hensiktsmessige, i særlige tilfeller der utenrikspolitiske hensyn tilsier det.
+Forbudet i første ledd gjelder ikke innførsel av kjøretøy som hører inn under KN-kode 8703 (biler med opptil 9 seter ment for persontransport), dersom ett av følgende alternativer er oppfylt:
+
+1. Kjøretøyet eies eller benyttes av en stats diplomatiske eller konsulære stasjon, av diplomatisk eller konsulært personell, av en diplomatisk stasjons administrative eller tekniske personell, eller av familiemedlem som tilhører husstanden til noen av disse, og som nyter privilegier og immunitet i henhold til [Wien-konvensjonen av 1961](traktat/1961-04-18-1) om diplomatisk samkvem, eller [Wien-konvensjonen av 1963](traktat/1963-04-24-1) om konsulært samkvem. Tilsvarende gjelder for kjøretøy som eies eller benyttes av mellomstatlige organisasjoner eller konvensjonsorganer og deres ansatte og oppdragstakere, eller av en stats kurertjeneste.
+2. Kjøretøyet eies av statsborger av Norge eller et annet EØS-land eller av dennes nære familiemedlem som er bosatt i Russland, dersom kjøretøyet ikke er beregnet på salg, men innføres utelukkende til personlig bruk. Med nære familiemedlem menes her ektefelle, registrert partner, samboer, mindreårige eller voksne barn, og foreldre.
+3. Innførsel er nødvendig av humanitære grunner, som akutt sykdom, dødsfall eller begravelse i familie i Norge eller EØS-land. Med familie menes her ektefelle, registrert partner, samboer, mindreårige eller voksne barn eller stebarn, foreldre eller steforeldre, mindreårige eller voksne barnebarn eller stebarnebarn, besteforeldre eller stebesteforeldre, og søsken eller stesøsken.
+4. Direktoratet for eksportkontroll og sanksjoner har gitt tillatelse. Direktoratet for eksportkontroll og sanksjoner kan gi slik tillatelse, på de vilkår direktoratet finner hensiktsmessige, i særlige tilfeller der utenrikspolitiske hensyn tilsier det.
 
 Forbudet i første ledd skal ikke hindre kjøretøyer som allerede befinner seg på Norges territorium 19. desember 2023, i å bli registrert i Norge.
 
@@ -1139,7 +1942,11 @@ Transitt via Russlands territorium av varer og teknologi oppført i [vedlegg XXX
 
 Uten at det berører første ledd, er det forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer som hører inn under KN-kode 7304 11 00, 7304 19 10, 7304 19 30, 7304 19 90, 7304 22 00, 7304 23 00, 7304 29 10, 7304 29 30, 7304 29 90, 7305 11 00, 7305 12 00, 7305 19 00, 7305 20 00, 7306 11, 7306 19, 7306 21 00, 7306 29 00, 8207 13 00, 8207 19 10, 8413 50, 8413 60, 8413 82 00, 8413 92 00, 8430 49 00, 8431 39 00, 8431 43 00, 8431 49, 8705 20 00, 8905 20 00 eller 8905 90 10, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), til fysiske eller juridiske personer i Russland, herunder Russlands eksklusive økonomiske sone og kontinentalsokkel, eller til bruk i Russland, herunder Russlands eksklusive økonomiske sone og kontinentalsokkel.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første og tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første og tredje ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første og tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første og tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første og tredje ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første og tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
 Med hensyn til varer som hører inn under KN-kode 6902 og KN-kode 6909 19, gjelder forbudene i første og tredje ledd ikke oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter.
 
@@ -1149,9 +1956,21 @@ Forbudene nevnt i første og fjerde ledd gjelder ikke varer som er nødvendige f
 
 Forbudene i første til fjerde ledd gjelder ikke salg, levering, overføring eller eksport av varer og teknologi nevnt i første ledd eller tilknyttet yting av faglig og finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på helsekriser, omgående forebygging eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
 
-Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varer og teknologi oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII) eller til yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendigfor medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller for evakueringer,utelukkende til bruk for og underlagt full kontroll av norske myndigheter, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon, ellerfor etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
+Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varer og teknologi oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII) eller til yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig
 
-Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller yting av tilknyttet faglig eller finansiell bistand er nødvendig for personlig bruk i fysiske personers husholdning i Russland:varer som hører inn under KN-kode 8417 20,kraner og ventiler som hører inn under KN-kode 8481 80 og som er beregnet på VVS- eller klimaanlegg,rør og rørdeler av kobber som hører inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm, ellervarer som hører inn under KN-kode 7007 19 80.varer som hører inn under KN-kode 7615 10, KN-kode 8414 60, KN-kode 8422 30 og KN-kode 8423 10,varer som hører inn under KN-kode 3916 20 når det er strengt nødvendig for salg av PVC-gulv eller vinduer.varer som hører inn under KN-kode 3920 43 10 99, 3925 90 10, 3925 90 80 00 eller 8302 41 50, og som er strengt nødvendige for salg av vinduer.
+1. for medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller for evakueringer,
+2. utelukkende til bruk for og underlagt full kontroll av norske myndigheter, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom Norge og Den russiske føderasjon, eller
+3. for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
+
+Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller yting av tilknyttet faglig eller finansiell bistand er nødvendig for personlig bruk i fysiske personers husholdning i Russland:
+
+1. varer som hører inn under KN-kode 8417 20,
+2. kraner og ventiler som hører inn under KN-kode 8481 80 og som er beregnet på VVS- eller klimaanlegg,
+3. rør og rørdeler av kobber som hører inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm, eller
+4. varer som hører inn under KN-kode 7007 19 80.
+5. varer som hører inn under KN-kode 7615 10, KN-kode 8414 60, KN-kode 8422 30 og KN-kode 8423 10,
+6. varer som hører inn under KN-kode 3916 20 når det er strengt nødvendig for salg av PVC-gulv eller vinduer.
+7. varer som hører inn under KN-kode 3920 43 10 99, 3925 90 10, 3925 90 80 00 eller 8302 41 50, og som er strengt nødvendige for salg av vinduer.
 
 Direktoratet for eksportkontroll og sanksjoner kan, på de vilkår direktoratet finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som hører inn under KN-kode 2835 22 00, 2920 90, 3917 10 og 3920 62, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer selges, leveres, overføres eller eksporteres utelukkende med henblikk på framstilling av matvarer for konsum i Russland.
 
@@ -1187,7 +2006,12 @@ Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenest
 
 Fra og med 1. januar 2027 får forbudene i første og andre ledd anvendelse på kondensater av naturgass som hører inn under underavsnitt KN-kode 2709 00 10 fra anlegg for produksjon av flytende naturgass.
 
-Forbudene i første og andre ledd gjelder ikkefram til 5. desember 2022 for enkeltstående transaksjoner med nært forestående levering, som er avtalt og gjennomført før denne datoen, eller oppfyllelse av kontrakter om kjøp, import eller overføring av varer som hører inn under KN-kode 2709 00, som er inngått før 18. juni 2022, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter,fram til 5. februar 2023 for enkeltstående transaksjoner med nært forestående levering, som er avtalt og gjennomført før denne datoen, eller oppfyllelse av kontrakter om kjøp, import eller overføring av varer som hører inn under KN-kode 2710, som er inngått før 18. juni 2022, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter,kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggxxv) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,råolje som hører inn under KN-kode 2709 00 og leveres via rørledning fra Russland til Norge eller EUs medlemsstater, inntil annet fremgår av forskriften.
+Forbudene i første og andre ledd gjelder ikke
+
+1. fram til 5. desember 2022 for enkeltstående transaksjoner med nært forestående levering, som er avtalt og gjennomført før denne datoen, eller oppfyllelse av kontrakter om kjøp, import eller overføring av varer som hører inn under KN-kode 2709 00, som er inngått før 18. juni 2022, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter,
+2. fram til 5. februar 2023 for enkeltstående transaksjoner med nært forestående levering, som er avtalt og gjennomført før denne datoen, eller oppfyllelse av kontrakter om kjøp, import eller overføring av varer som hører inn under KN-kode 2710, som er inngått før 18. juni 2022, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter,
+3. kjøp, import eller overføring av råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggxxv) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,
+4. råolje som hører inn under KN-kode 2709 00 og leveres via rørledning fra Russland til Norge eller EUs medlemsstater, inntil annet fremgår av forskriften.
 
 Anvendelse av unntaket i fjerde ledd bokstav d skal opphøre 23. juni 2023 i Tyskland og Polen. Anvendelse av unntaket i tredje ledd bokstav d skal opphøre 1. juli 2025 i Tsjekkia.
 
@@ -1195,11 +2019,39 @@ Dersom forsyningen av råolje via rørledning fra Russland til en kystløs EU-me
 
 Fra og med 5. desember 2022, og som unntak fra første og annet ledd, kan Bulgarias kompetente myndigheter inntil 31. desember 2024 tillate oppfyllelse av kontrakter inngått før 4. juni 2022, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, om kjøp, import eller overføring av råolje som transporteres til sjøs, og av petroleumsprodukter oppført på listen i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggxxv) som har opprinnelse i Russland eller eksporteres fra Russland.
 
-Fra og med 5. desember 2024, og som unntak fra første og andre ledd, kan Kroatias kompetente myndighetene inntil 31. desember 2025 tillate kjøp, import eller overføring av vakuumgassolje som hører inn under KN-kode 2710 19 71 og har opprinnelse i Russland eller eksporteres fra Russland, forutsatt at følgende vilkår er oppfylt:det finnes ingen alternativ forsyning av vakuumgassolje, ogKroatia har minst to uker før tillatelsen gis, underrettet Kommisjonen om hvorfor de anser at det bør gis en særlig tillatelse, og Kommisjonen har ikke gjort innsigelse innen denne fristen.
+Fra og med 5. desember 2024, og som unntak fra første og andre ledd, kan Kroatias kompetente myndighetene inntil 31. desember 2025 tillate kjøp, import eller overføring av vakuumgassolje som hører inn under KN-kode 2710 19 71 og har opprinnelse i Russland eller eksporteres fra Russland, forutsatt at følgende vilkår er oppfylt:
 
-Varer som innføres etter at en kompetent myndighet i et EU-land har gitt unntak i henhold til sjette eller syvende ledd, skal ikke selges videre til kjøpere i Norge, en annen EU-medlemsstat eller i et tredjeland.Fra og med 5. februar 2023 er det forbudt å overføre eller transportere petroleumsprodukter som hører inn under KN-kode 2710 og er framstilt av råolje importert på grunnlag av et unntak som den kompetente myndigheten i Bulgaria har gitt i henhold til sjette ledd, til en annen EU-medlemsstat, Norge, eller et tredjeland, eller å selge slike petroleumsprodukter til kjøpere i en annen EU-medlemsstat, Norge, eller et tredjeland.Som unntak fra forbudet fastsatt i andre setning i dette ledd kan de kompetente myndighetene i Bulgaria, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til Ukraina av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til sjette ledd, etter å ha slått fast atproduktene utelukkende er beregnet til bruk i Ukraina,slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i andre setning i dette ledd.Som unntak fra forbudet fastsatt i andre setning i dette ledd kan de kompetente myndighetene i Bulgaria, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til ethvert tredjeland av visse petroleumsprodukter som oppført i [vedlegg XXXII](forskrift/2014-08-15-1076/vedleggXXXII) som er framstilt av råolje importert i henhold til femte ledd, innenfor den kvotemengde for eksport som er nevnt i vedlegget, etter å ha slått fast atproduktene kan ikke lagres i Bulgaria på grunn av miljø- og sikkerhetsrisikoer,slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i andre setning i dette ledd.
+1. det finnes ingen alternativ forsyning av vakuumgassolje, og
+2. Kroatia har minst to uker før tillatelsen gis, underrettet Kommisjonen om hvorfor de anser at det bør gis en særlig tillatelse, og Kommisjonen har ikke gjort innsigelse innen denne fristen.
 
-Overføringer eller transport av råolje som leveres via rørledning til EU-medlemsstater som nevnt i fjerde ledd bokstav d, til Norge, andre EU-medlemsstater eller til tredjeland, eller salg av råolje til kjøpere i Norge, andre EU-medlemsstater eller i tredjeland, er forbudt.Alle forsendelser og containere med slik råolje skal være tydelig merket som «REBCO: eksport forbudt».Fra og med 5. februar 2023 er det, dersom råolje er blitt levert via rørledning til en EU-medlemsstat som nevnt i fjerde ledd bokstav d, forbudt å overføre eller transportere petroleumsprodukter som hører inn under KN-kode 2710 og er framstilt av slik råolje, til Norge, andre EU-medlemsstater eller til tredjeland, eller å selge slike petroleumsprodukter til kjøpere i Norge, andre EU-medlemsstater eller i tredjeland.Som midlertidig unntak skal forbudene nevnt i tredje setning i dette ledd gjelde fra og med 5. juni 2025 for import og overføring til Tsjekkia og for salg til kjøpere i Tsjekkia av petroleumsprodukter framstilt av råolje som er levert via rørledning til Norge eller en EU-medlemsstat som nevnt i fjerde ledd bokstav d. Dersom alternative forsyninger av slike petroleumsprodukter stilles til rådighet for Tsjekkia før den nevnte datoen, skal dette midlertidige unntaket oppheves. I perioden fram til 5. juni 2025 skal mengdene av slike petroleumsprodukter som importeres til Tsjekkia fra Norge eller EUs medlemsstater, ikke overstige de gjennomsnittlige mengdene som er importert til Tsjekkia fra Norge eller disse EU-medlemsstatene i samme periode i de foregående fem årene.Fra og med 5. februar 2023 kan de kompetente myndighetene i Ungarn og Slovakia, som unntak fra forbudet fastsatt i første setning i dette ledd, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til Ukraina av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til tredje ledd bokstav d, etter å ha slått fast atproduktene utelukkende er beregnet til bruk i Ukraina,slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i tredje setning i dette ledd.Fra og med 25. februar 2025 kan de kompetente myndighetene i Slovakia og Ungarn, som unntak fra forbudene fastsatt i tredje setning i dette ledd, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport fra Slovakia til Ungarn eller fra Ungarn til Slovakia av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til fjerde ledd bokstav d, etter å ha slått fast at produktene utelukkende er beregnet til bruk i disse to EU-medlemsstatene.
+Varer som innføres etter at en kompetent myndighet i et EU-land har gitt unntak i henhold til sjette eller syvende ledd, skal ikke selges videre til kjøpere i Norge, en annen EU-medlemsstat eller i et tredjeland.
+
+Fra og med 5. februar 2023 er det forbudt å overføre eller transportere petroleumsprodukter som hører inn under KN-kode 2710 og er framstilt av råolje importert på grunnlag av et unntak som den kompetente myndigheten i Bulgaria har gitt i henhold til sjette ledd, til en annen EU-medlemsstat, Norge, eller et tredjeland, eller å selge slike petroleumsprodukter til kjøpere i en annen EU-medlemsstat, Norge, eller et tredjeland.
+
+Som unntak fra forbudet fastsatt i andre setning i dette ledd kan de kompetente myndighetene i Bulgaria, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til Ukraina av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til sjette ledd, etter å ha slått fast at
+
+1. produktene utelukkende er beregnet til bruk i Ukraina,
+2. slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i andre setning i dette ledd.
+
+Som unntak fra forbudet fastsatt i andre setning i dette ledd kan de kompetente myndighetene i Bulgaria, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til ethvert tredjeland av visse petroleumsprodukter som oppført i [vedlegg XXXII](forskrift/2014-08-15-1076/vedleggXXXII) som er framstilt av råolje importert i henhold til femte ledd, innenfor den kvotemengde for eksport som er nevnt i vedlegget, etter å ha slått fast at
+
+1. produktene kan ikke lagres i Bulgaria på grunn av miljø- og sikkerhetsrisikoer,
+2. slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i andre setning i dette ledd.
+
+Overføringer eller transport av råolje som leveres via rørledning til EU-medlemsstater som nevnt i fjerde ledd bokstav d, til Norge, andre EU-medlemsstater eller til tredjeland, eller salg av råolje til kjøpere i Norge, andre EU-medlemsstater eller i tredjeland, er forbudt.
+
+Alle forsendelser og containere med slik råolje skal være tydelig merket som «REBCO: eksport forbudt».
+
+Fra og med 5. februar 2023 er det, dersom råolje er blitt levert via rørledning til en EU-medlemsstat som nevnt i fjerde ledd bokstav d, forbudt å overføre eller transportere petroleumsprodukter som hører inn under KN-kode 2710 og er framstilt av slik råolje, til Norge, andre EU-medlemsstater eller til tredjeland, eller å selge slike petroleumsprodukter til kjøpere i Norge, andre EU-medlemsstater eller i tredjeland.
+
+Som midlertidig unntak skal forbudene nevnt i tredje setning i dette ledd gjelde fra og med 5. juni 2025 for import og overføring til Tsjekkia og for salg til kjøpere i Tsjekkia av petroleumsprodukter framstilt av råolje som er levert via rørledning til Norge eller en EU-medlemsstat som nevnt i fjerde ledd bokstav d. Dersom alternative forsyninger av slike petroleumsprodukter stilles til rådighet for Tsjekkia før den nevnte datoen, skal dette midlertidige unntaket oppheves. I perioden fram til 5. juni 2025 skal mengdene av slike petroleumsprodukter som importeres til Tsjekkia fra Norge eller EUs medlemsstater, ikke overstige de gjennomsnittlige mengdene som er importert til Tsjekkia fra Norge eller disse EU-medlemsstatene i samme periode i de foregående fem årene.
+
+Fra og med 5. februar 2023 kan de kompetente myndighetene i Ungarn og Slovakia, som unntak fra forbudet fastsatt i første setning i dette ledd, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport til Ukraina av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til tredje ledd bokstav d, etter å ha slått fast at
+
+1. produktene utelukkende er beregnet til bruk i Ukraina,
+2. slikt salg eller slik levering, overføring eller eksport ikke er ment å skulle omgå forbudene fastsatt i tredje setning i dette ledd.
+
+Fra og med 25. februar 2025 kan de kompetente myndighetene i Slovakia og Ungarn, som unntak fra forbudene fastsatt i tredje setning i dette ledd, på de vilkårene de finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport fra Slovakia til Ungarn eller fra Ungarn til Slovakia av visse petroleumsprodukter som oppført i [vedlegg XXXI](forskrift/2014-08-15-1076/vedleggXXXI) som er framstilt av råolje importert i henhold til fjerde ledd bokstav d, etter å ha slått fast at produktene utelukkende er beregnet til bruk i disse to EU-medlemsstatene.
 
 Forbudene i første ledd gjelder ikke kjøp i Russland av varer oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggxxv) som er nødvendige for å dekke kjøperens grunnleggende behov i Russland eller humanitære prosjekters grunnleggende behov i Russland.
 
@@ -1217,19 +2069,34 @@ Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenest
 
 Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansielle bistand knyttet til handel med, formidling eller transport til tredjeland, herunder skip-til-skip-overføring, av råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), som har opprinnelse i Russland eller har blitt eksportert fra Russland.
 
-Forbudet i første ledd gjelder ikke oppfyllelse av kontrakter inngått før 18. juni 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter innen5. desember 2022 for råolje som hører inn under KN-kode 2709 00,5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710.
+Forbudet i første ledd gjelder ikke oppfyllelse av kontrakter inngått før 18. juni 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter innen
+
+1. 5\. desember 2022 for råolje som hører inn under KN-kode 2709 00,
+2. 5\. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710.
 
 Forbudet i første ledd gjelder ikke betaling av forsikringskrav etter 5. desember 2022 for råolje som hører inn under KN-kode 2709 00, eller etter 5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710, på grunnlag av forsikringskontrakter inngått før 26. juni 2022 og forutsatt at forsikringsdekningen har opphørt innen den relevante datoen.
 
 Det er forbudt å handle med, formidle eller transportere til tredjeland, herunder ved skip-til-skip-overføring, råolje som hører inn under KN-kode 2709 00, fra og med 5. desember 2022, eller petroleumsprodukter som hører inn under KN-kode 2710, fra og med 5. februar 2023, som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), som har opprinnelse i Russland eller har blitt eksportert fra Russland.
 
-Forbudene i første og fjerde ledd får, i en periode på 90 dager fra og med ikrafttredelsesdatoen som fremgår av [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), ikke anvendelse på transport av produkter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som har opprinnelse i Russland eller som er eksportert fra Russland, og på direkte eller indirekte yting av faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand knyttet til transporten, forutsatt attransporten eller ytingen av faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand knyttet til transporten er basert på en kontrakt som er inngått før ikrafttredelsesdatoen som fremgår av [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), ogkjøpsprisen per fat ikke overstiger prisen fastsatt i vedlegg XXVIII som var gjeldende på den nevnte kontraktens inngåelsesdato.
+Forbudene i første og fjerde ledd får, i en periode på 90 dager fra og med ikrafttredelsesdatoen som fremgår av [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), ikke anvendelse på transport av produkter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som har opprinnelse i Russland eller som er eksportert fra Russland, og på direkte eller indirekte yting av faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand knyttet til transporten, forutsatt at
 
-Forbudene i første og fjerde ledd gjelder ikkefra og med 5. desember 2022 for råolje som hører inn under KN-kode 2709 00, og fra og med 5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, forutsatt at kjøpsprisen per fat av disse produktene ikke overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII),råolje eller petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene omhandlet i vedlegg XXIX til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget,fra og med 5. desember 2022 for råolje som hører inn under KN-kode 2709 00, som har opprinnelse i Russland eller har blitt eksportert fra Russland, med en kjøpspris som overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), som ble lastet på et fartøy i lastehavnen før 5. desember 2022 og losses i bestemmelseshavnen før 19. januar 2023.fra og med 5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, med en kjøpspris som overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), som ble lastet på et fartøy i lastehavnen før 5. februar 2023 og losses i bestemmelseshavnen før 1. april 2023.
+1. transporten eller ytingen av faglig bistand, formidlingstjenester eller finansiering eller finansiell bistand knyttet til transporten er basert på en kontrakt som er inngått før ikrafttredelsesdatoen som fremgår av [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), og
+2. kjøpsprisen per fat ikke overstiger prisen fastsatt i vedlegg XXVIII som var gjeldende på den nevnte kontraktens inngåelsesdato.
+
+Forbudene i første og fjerde ledd gjelder ikke
+
+1. fra og med 5. desember 2022 for råolje som hører inn under KN-kode 2709 00, og fra og med 5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, forutsatt at kjøpsprisen per fat av disse produktene ikke overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII),
+2. råolje eller petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,
+3. transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene omhandlet i vedlegg XXIX til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget,
+4. fra og med 5. desember 2022 for råolje som hører inn under KN-kode 2709 00, som har opprinnelse i Russland eller har blitt eksportert fra Russland, med en kjøpspris som overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), som ble lastet på et fartøy i lastehavnen før 5. desember 2022 og losses i bestemmelseshavnen før 19. januar 2023.
+5. fra og med 5. februar 2023 for petroleumsprodukter som hører inn under KN-kode 2710, som har opprinnelse i Russland eller har blitt eksportert fra Russland, med en kjøpspris som overstiger prisen fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII), som ble lastet på et fartøy i lastehavnen før 5. februar 2023 og losses i bestemmelseshavnen før 1. april 2023.
 
 Ved anvendelse av fjerde ledd og sjette ledd bokstav a når det gjelder russisk råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) og lastet fra og med 20. februar 2024, skal tjenesteytere uten tilgang til innkjøpsprisen per fat fastsatt i [vedlegg XXVIII](forskrift/2014-08-15-1076/vedleggXXVIII) for slike produkter, innhente spesifisert prisinformasjon om tilleggskostnader som angitt av operatører høyere opp i forsyningskjeden for handel med russisk råolje eller petroleumsprodukter. Slik spesifisert prisinformasjon skal gis til motparter og myndigheter på deres anmodning, for å kunne verifisere overholdelse av denne bestemmelsen.
 
-Forbudene i første og fjerde ledd gjelder ikkeråolje eller petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene nevnt i vedlegg XXIX til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget.
+Forbudene i første og fjerde ledd gjelder ikke
+
+1. råolje eller petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,
+2. transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene nevnt i vedlegg XXIX til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget.
 
 Fra 1. januar 2027 får forbudene i første og fjerde ledd anvendelse på kondensater av naturgass som hører inn under KN kode 2709 00 10 fra anlegg for produksjon av flytende naturgass.
 
@@ -1259,7 +2126,10 @@ Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre prod
 
 Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre gull, som oppført i vedlegg XXVII, dersom det har sin opprinnelse i Russland eller eksporteres fra Russland til Norge eller EU etter 27. august 2022.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første, annet og tredje ledd og til levering, produksjon, vedlikehold og bruk av de nevnte varene i forbindelse med forbudet i første, annet og tredje ledd,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første, annet og tredje ledd i forbindelse med kjøp, import eller overføring av de nevnte varene, eller til yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudet i første, annet og tredje ledd.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første, annet og tredje ledd og til levering, produksjon, vedlikehold og bruk av de nevnte varene i forbindelse med forbudet i første, annet og tredje ledd,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første, annet og tredje ledd i forbindelse med kjøp, import eller overføring av de nevnte varene, eller til yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudet i første, annet og tredje ledd.
 
 Forbudene i første, annet og tredje ledd gjelder ikke gull som er nødvendig for offisielle formål på utenriksstasjoner i Russland eller i internasjonale organisasjoner som har immunitet i Russland i henhold til folkeretten.
 
@@ -1283,7 +2153,10 @@ Med hensyn til tredje og fjerde ledd skal importører på importtidspunktet, fra
 
 Første til femte ledd gjelder ikke kjøp eller import av varer fra EU til Norge, eller kjøp innad i Norge.
 
-Det er forbudt ådirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene nevnt i første til fjerde ledd, og til levering, framstilling, vedlikehold og bruk av de nevnte varene i forbindelse med forbudene i første til fjerde ledd,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene nevnt i første til fjerde ledd for kjøp, import eller overføring av disse varene, eller for yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i første til fjerde ledd.
+Det er forbudt å
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene nevnt i første til fjerde ledd, og til levering, framstilling, vedlikehold og bruk av de nevnte varene i forbindelse med forbudene i første til fjerde ledd,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene nevnt i første til fjerde ledd for kjøp, import eller overføring av disse varene, eller for yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudene i første til fjerde ledd.
 
 Forbudene i første til fjerde ledd gjelder ikke varer oppført i [del C](forskrift/2014-08-15-1076/delC) i [vedlegg XXXVIIIA](forskrift/2014-08-15-1076/vedleggXXXVIIIA) til personlig bruk av fysiske personer på reise til Norge, eller av deres nære familiemedlemmer som reiser sammen med dem, som eies av disse personene og ikke er beregnet på salg.
 
@@ -1303,7 +2176,10 @@ Forbudene i fjerde og syvende ledd gjelder ikke produkter oppført i del C i [ve
 
 Det er forbudt for en norsk statsborger, en fysisk person som bor i Norge, og en juridisk person som er etablert i Norge, direkte eller indirekte å selge, eller på annen måte overføre eierskap av, tankskip for transport av råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) og hører inn under KN-kode ex 8901 20, uavhengig av om tankskipet har opprinnelse i Norge eller ikke, til en fysisk eller juridisk person i Russland eller til bruk i Russland.
 
-Uten at det berører forbudet i første ledd, skal en norsk statsborger, en fysisk person bosatt i Norge, og en juridisk person som er etablert i Norge, som selger eller på en annen måte direkte eller indirekte overfører eierskap av tankskip for transport av råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) til fysiske personer eller juridiske personer i et tredjeland, og hører inn under KN-kode 8901 20, uansett om de har sin opprinnelse i Norge eller ikke:treffe hensiktsmessige tiltak i forhold til deres art og størrelse for å identifisere og vurdere risikoene for videre overføring til Russland og sikre at disse risikovurderingene dokumenteres og ajourføres,innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for effektivt å redusere og håndtere risikoen for videre overføring til Russland eller til bruk i Russland.
+Uten at det berører forbudet i første ledd, skal en norsk statsborger, en fysisk person bosatt i Norge, og en juridisk person som er etablert i Norge, som selger eller på en annen måte direkte eller indirekte overfører eierskap av tankskip for transport av råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) til fysiske personer eller juridiske personer i et tredjeland, og hører inn under KN-kode 8901 20, uansett om de har sin opprinnelse i Norge eller ikke:
+
+1. treffe hensiktsmessige tiltak i forhold til deres art og størrelse for å identifisere og vurdere risikoene for videre overføring til Russland og sikre at disse risikovurderingene dokumenteres og ajourføres,
+2. innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for effektivt å redusere og håndtere risikoen for videre overføring til Russland eller til bruk i Russland.
 
 Fysiske eller juridiske personer som er nevnt i andre ledd som erverver tankskipene, skal fremlegge alle opplysningene som er nødvendige for å gjennomføre tiltakene som er nevnt i andre ledd bokstav a.
 
@@ -1313,7 +2189,10 @@ Meldingen til Direktoratet for eksportkontroll og sanksjoner skal minst innehold
 
 Ethvert salg eller enhver annen ordning som medfører overføring av eierskap, fra en norsk statsborger, en fysisk person som bor i Norge, eller en juridisk person som er etablert i Norge, til et tredjeland, av tankskip for transport av råolje eller petroleumsprodukter som er oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) og hører inn under KN-kode ex 8901 20, skal inneholde et skriftlig kontraktsforbud mot enhver form for videresalg eller overføring av tankskipet til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
-Ethvert salg eller enhver annen ordning som medfører overføring av eierskap som nevnt i femte ledd skal også omfatte skriftlig kontraktsbestemmelser der tredjelandsparten som erverver tankskipet:forplikter seg til å videreføre forbudet i femte ledd ved ethvert ytterligere videresalg eller enhver overføring av denne parten måtte gjennomføre, ogforplikter kjøperen av tankskipet ved ytterligere videresalg eller overføring til å innta skriftlige kontraktsbestemmelser som tilsvarer de som kreves etter femte ledd og dette leddet.
+Ethvert salg eller enhver annen ordning som medfører overføring av eierskap som nevnt i femte ledd skal også omfatte skriftlig kontraktsbestemmelser der tredjelandsparten som erverver tankskipet:
+
+1. forplikter seg til å videreføre forbudet i femte ledd ved ethvert ytterligere videresalg eller enhver overføring av denne parten måtte gjennomføre, og
+2. forplikter kjøperen av tankskipet ved ytterligere videresalg eller overføring til å innta skriftlige kontraktsbestemmelser som tilsvarer de som kreves etter femte ledd og dette leddet.
 
 > Tilføyd ved forskrift [19 mars 2024 nr. 534](forskrift/2024-03-19-534), endret ved forskrifter [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
@@ -1323,7 +2202,10 @@ Det er forbudt å kjøpe, importere, overføre, selge, levere eller eksportere, 
 
 Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand eller andre tjenester knyttet til forbudet i første ledd.
 
-Forbudet i første og annet ledd får ikke anvendelse dersom det godtgjøres atvarene ble eksportert fra Ukraina før 1. mars 2014, ellervarene returneres trygt til sine rettmessige eiere i Ukraina.
+Forbudet i første og annet ledd får ikke anvendelse dersom det godtgjøres at
+
+1. varene ble eksportert fra Ukraina før 1. mars 2014, eller
+2. varene returneres trygt til sine rettmessige eiere i Ukraina.
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501).
 
@@ -1335,7 +2217,12 @@ Forbudet i første og annet ledd får ikke anvendelse dersom det godtgjøres atv
 
 Det er forbudt for alle luftfartøyer som drives av russiske luftfartsselskaper, herunder som markedsansvarlig transportør i avtaler om felles rutenummer eller reservasjon av kapasitet, og for alle russiskregistrerte luftfartøyer, samt for ikke-russiskregistrerte luftfartøyer som eies eller leies eller på annen måte kontrolleres av russiske fysiske eller juridiske personer, å lande på, ta av fra eller fly over Norges territorium. Luftfartøyet kan om nødvendig hindres i å forlate landingsplassen. Forbudet skal også gjelde for alle andre luftfartøyer som brukes til ikke-regelbundet flyging, der russiske fysiske eller juridiske personer er i stand til faktisk å bestemme sted eller tidspunkt for dets avgang eller landing. Uten at det berører reglene fastsatt i [forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer](forskrift/2016-12-14-1578) med hensyn til innlevering av en reiseplan for flygninger over landegrensene, får forbudet i dette leddet ikke anvendelse på bemannede luftfartøyer med en største setekapasitet på fire personer og en største tillatte startmasse som ikke overstiger 2000 kg når de brukes til privat, ikke-kommersiell, ikke-ervervsmessig flyging innenfor Norges territorium og luftrom for fritidsformål eller med henblikk på opplæring for privatflygersertifikat og tilknyttede rettigheter hos opplæringstilbydere i Norge.
 
-Uten at det berører åttende ledd, skal luftfartøyoperatører, når det gjelder ikke-regelbundne flyginger, gi de opplysningene som er nødvendige for å kontrollere at første ledd overholdes, herunder blant annet:troverdig og tilfredsstillende opplysninger om den faktiske reelle eieren av luftfartøyet og, dersom det er relevant, den fysiske eller juridiske personen som i siste instans leier luftfartøyet, ogen generell erklæring, passasjerliste og andre offisielle dokumenter som viser fullt navn, fødselsdato, fødested og nasjonaliteter for alle passasjerer og besetningsmedlemmer, dersom det foreligger rimelig grunn til å mistenke omgåelse av forbudet i første ledd, basert på faktorer som flygerute og flygingens opprinnelsessted, eller opplysninger om den aktuelle operatøren.Opplysningene skal framlegges på anmodning fra Luftfartstilsynet. Opplysningene skal gis før landing på, avgang fra eller overflyging over Norges territorium, innen en frist fastsatt av Luftfartstilsynet.
+Uten at det berører åttende ledd, skal luftfartøyoperatører, når det gjelder ikke-regelbundne flyginger, gi de opplysningene som er nødvendige for å kontrollere at første ledd overholdes, herunder blant annet:
+
+1. troverdig og tilfredsstillende opplysninger om den faktiske reelle eieren av luftfartøyet og, dersom det er relevant, den fysiske eller juridiske personen som i siste instans leier luftfartøyet, og
+2. en generell erklæring, passasjerliste og andre offisielle dokumenter som viser fullt navn, fødselsdato, fødested og nasjonaliteter for alle passasjerer og besetningsmedlemmer, dersom det foreligger rimelig grunn til å mistenke omgåelse av forbudet i første ledd, basert på faktorer som flygerute og flygingens opprinnelsessted, eller opplysninger om den aktuelle operatøren.
+
+Opplysningene skal framlegges på anmodning fra Luftfartstilsynet. Opplysningene skal gis før landing på, avgang fra eller overflyging over Norges territorium, innen en frist fastsatt av Luftfartstilsynet.
 
 Det er forbudt for luftfartsselskaper som foretar innenriksflyginger i Russland, eller som direkte eller indirekte selger, leverer, overfører eller eksporterer luftfartøy eller varer eller teknologi nevnt i [§ 17c](forskrift/2014-08-15-1076/§17c) første ledd til et russisk luftfartsselskap eller for flygninger i Russland, som oppført i vedlegg XLVI, samt for enhver enhet som eies eller kontrolleres av et slikt luftfartsselskap, å lande på, ta av fra eller fly over Norges territorium.
 
@@ -1359,7 +2246,11 @@ Det er forbudt å gi adgang til eller for fartøy å anløpe havner etter 7. mai
 
 Første ledd første punktum får anvendelse på fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering etter 24. februar 2022.
 
-I denne paragrafen, med unntak av første ledd andre punktum, menes med «fartøy»:skip som faller inn under virkeområdet til relevante internasjonale konvensjoner, inkludert replikaer av historiske skip,en yacht som er minst 15 meter lang, som ikke frakter gods, og som har høyst tolv passasjerer, elleret lystfartøy eller fritidsfartøy som definert i europaparlaments- og rådsdirektiv [2013/53/EU](eu/32013l0053).
+I denne paragrafen, med unntak av første ledd andre punktum, menes med «fartøy»:
+
+1. skip som faller inn under virkeområdet til relevante internasjonale konvensjoner, inkludert replikaer av historiske skip,
+2. en yacht som er minst 15 meter lang, som ikke frakter gods, og som har høyst tolv passasjerer, eller
+3. et lystfartøy eller fritidsfartøy som definert i europaparlaments- og rådsdirektiv [2013/53/EU](eu/32013l0053).
 
 Forbudet i første ledd gjelder ikke fiskefartøy som anløper Tromsø, Kirkenes eller Båtsfjord forutsatt at oppholdstiden i havnen ikke overstiger fem virkedager, men oppad begrenset til syv døgn, og det har gått minst tre døgn siden forrige opphold i havn på Fastlands-Norge. Med virkedager forstås i denne bestemmelsen mandag til fredag. Direktoratet for eksportkontroll og sanksjoner kan etter søknad gjøre unntak fra begrensningene på antall virkedager og døgn dersom det er søkt om unntak etter [§ 16](forskrift/2014-08-15-1076/§16) for strengt nødvendige reparasjoner, eller dersom det foreligger andre særlige grunner. Unntak kan gis på de vilkår direktoratet finner hensiktsmessig. Kompetent norsk kontrollorgan kan beslutte at maksimal oppholdstid skal forlenges dersom det i et konkret tilfelle er nødvendig for å kunne gjennomføre kontroll av fartøy, varer eller mannskap.
 
@@ -1367,13 +2258,29 @@ Adgang for fartøy som omfattes av fjerde ledd kan bare gis til kaiene 20, 21, 2
 
 Første ledd får ikke anvendelse på et fartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs eller på et fartøy som er pålagt av kompetent norsk myndighet å anløpe en angitt havn.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi et fartøy adgang til en havn eller en sluse, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at adgangen er nødvendig formed mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), kjøp, import eller transport av naturgass og olje til Norge eller EU, herunder raffinerte petroleumsprodukter, titan, aluminium, kobber, nikkel, palladium og jernmalm, samt visse kjemiske produkter og jernprodukter som oppført i [vedlegg XXIV](forskrift/2014-08-15-1076/vedleggxxiv),adgangen er nødvendig for operasjoner som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU,humanitære formål, ellertransport av kjernebrensel og andre varer som er strengt nødvendige for drift av sivile kjernefysiske kapasiteter.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi et fartøy adgang til en havn eller en sluse, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at adgangen er nødvendig for
 
-Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått atrussisk flagg eller registrering var påkrevd som følge av kontrakt, ogadgangen er nødvendig for å losse varer som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU, forutsatt at import av slike varer ikke ellers er forbudt i henhold til denne forskriften
+1. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), kjøp, import eller transport av naturgass og olje til Norge eller EU, herunder raffinerte petroleumsprodukter, titan, aluminium, kobber, nikkel, palladium og jernmalm, samt visse kjemiske produkter og jernprodukter som oppført i [vedlegg XXIV](forskrift/2014-08-15-1076/vedleggxxiv),
+2. adgangen er nødvendig for operasjoner som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU,
+3. humanitære formål, eller
+4. transport av kjernebrensel og andre varer som er strengt nødvendige for drift av sivile kjernefysiske kapasiteter.
 
-Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi et fartøy adgang til en havn eller sluse, forutsatt at fartøyethar ført russisk flagg i henhold til en bareboatregistrering som trådte i kraft før 24. februar 2022,har gjenopptatt sin rett til å føre norsk flagg eller flagg fra en av EUs medlemsstater før 31. januar 2023, ogikke er eid, chartret, drevet eller på annen måte kontrollert av en russisk statsborger eller av juridiske personer som er etablert eller stiftet i henhold til Russlands lovgivning.
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at
 
-Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg til en annen stats flagg før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at fartøyetble erklært oppgitt i henhold til en EU-medlemsstats eller norsk lovgivning før 24. februar 2022,var gjenstand for tvangssalg av vedkommende nasjonale myndigheter i en EU-medlemsstat eller Norge før 24. februar 2022, ogbefant seg fysisk på en EU-medlemsstats eller Norges territorium på tidspunktet for tvangssalget.
+1. russisk flagg eller registrering var påkrevd som følge av kontrakt, og
+2. adgangen er nødvendig for å losse varer som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU, forutsatt at import av slike varer ikke ellers er forbudt i henhold til denne forskriften
+
+Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi et fartøy adgang til en havn eller sluse, forutsatt at fartøyet
+
+1. har ført russisk flagg i henhold til en bareboatregistrering som trådte i kraft før 24. februar 2022,
+2. har gjenopptatt sin rett til å føre norsk flagg eller flagg fra en av EUs medlemsstater før 31. januar 2023, og
+3. ikke er eid, chartret, drevet eller på annen måte kontrollert av en russisk statsborger eller av juridiske personer som er etablert eller stiftet i henhold til Russlands lovgivning.
+
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg til en annen stats flagg før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at fartøyet
+
+1. ble erklært oppgitt i henhold til en EU-medlemsstats eller norsk lovgivning før 24. februar 2022,
+2. var gjenstand for tvangssalg av vedkommende nasjonale myndigheter i en EU-medlemsstat eller Norge før 24. februar 2022, og
+3. befant seg fysisk på en EU-medlemsstats eller Norges territorium på tidspunktet for tvangssalget.
 
 > Tilføyd ved forskrift [29 april 2022 nr. 647](forskrift/2022-04-29-647), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [12 okt 2022 nr. 1733](forskrift/2022-10-12-1733) (i kraft 14 okt 2022), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [19 april 2024 nr. 642](forskrift/2024-04-19-642), [17 juli 2024 nr. 1794](forskrift/2024-07-17-1794) (i kraft 1 aug 2024), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
@@ -1401,13 +2308,33 @@ Direktoratet for eksportkontroll og sanksjoner kan, når det er nødvendig for h
 
 ### § 19ac. Forbud mot å gi adgang til havn, importere, eksportere mv. visse fartøy
 
-Når det gjelder fartøy oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), er det forbudt, direkte eller indirekte, ågi adgang til eller anløpe havner, ankringsområder og sluser på Fastlands-Norge,importere til Norge, kjøpe eller overføre et slikt fartøy,selge, levere, herunder chartre, eller eksportere et slikt fartøy,drive eller bemanne et slikt fartøy,flaggregistrere et slikt fartøy,yte finansiering og finansiell bistand, herunder forsikring og gjenforsikring, eller formidlingstjenester, herunder skipsmegling,yte faglig bistand og andre tjenester, herunder bunkring, skipsforsyningstjenester, tjenester ved besetningsbytte, lasting- og lossingstjenester, fendrings- og slepetjenester for et slikt fartøy,medvirke i skip-til-skip-overføring eller annen overføring av last med eller anskaffe tjenester fra et slikt fartøy.
+Når det gjelder fartøy oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), er det forbudt, direkte eller indirekte, å
 
-[Vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII) skal omfatte fartøy somtransporterer varer og teknologi som brukes i forsvars- og sikkerhetssektoren, til eller fra Russland, til bruk i Russland eller i forbindelse med Russlands krigføring i Ukraina,transporterer råolje eller petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland og praktiserer ureglementert skipspraksis som innebærer høy risiko som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33),brukes på en slik måte at de bidrar til eller støtter handlinger eller politikk for utnyttelse, utvikling eller utvidelse av energisektoren i Russland, herunder energiinfrastruktur,brukes på en slik måte at de bidrar til eller støtter handlinger eller politikk som undergraver eller truer Ukrainas økonomiske grunnlag eller mattrygghet, som transport av stjålet ukrainsk korn, eller bevaring av Ukrainas kulturarv, som transport av stjålne ukrainske kulturgjenstander,transporterer varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina,brukes på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften, ellereies, chartres eller drives av fysiske eller juridiske personer oppført i vedlegg I til denne forskriften, brukes på annen måte i slike personers navn eller på slike personers vegne, i forbindelse med dem eller til fordel for dem.
+1. gi adgang til eller anløpe havner, ankringsområder og sluser på Fastlands-Norge,
+2. importere til Norge, kjøpe eller overføre et slikt fartøy,
+3. selge, levere, herunder chartre, eller eksportere et slikt fartøy,
+4. drive eller bemanne et slikt fartøy,
+5. flaggregistrere et slikt fartøy,
+6. yte finansiering og finansiell bistand, herunder forsikring og gjenforsikring, eller formidlingstjenester, herunder skipsmegling,
+7. yte faglig bistand og andre tjenester, herunder bunkring, skipsforsyningstjenester, tjenester ved besetningsbytte, lasting- og lossingstjenester, fendrings- og slepetjenester for et slikt fartøy,
+8. medvirke i skip-til-skip-overføring eller annen overføring av last med eller anskaffe tjenester fra et slikt fartøy.
+
+[Vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII) skal omfatte fartøy som
+
+1. transporterer varer og teknologi som brukes i forsvars- og sikkerhetssektoren, til eller fra Russland, til bruk i Russland eller i forbindelse med Russlands krigføring i Ukraina,
+2. transporterer råolje eller petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) eller mineralske produkter som har opprinnelse i Russland eller er eksportert fra Russland og praktiserer ureglementert skipspraksis som innebærer høy risiko som angitt i Den internasjonale sjøfartsorganisasjons generalforsamlings resolusjon A.1192(33),
+3. brukes på en slik måte at de bidrar til eller støtter handlinger eller politikk for utnyttelse, utvikling eller utvidelse av energisektoren i Russland, herunder energiinfrastruktur,
+4. brukes på en slik måte at de bidrar til eller støtter handlinger eller politikk som undergraver eller truer Ukrainas økonomiske grunnlag eller mattrygghet, som transport av stjålet ukrainsk korn, eller bevaring av Ukrainas kulturarv, som transport av stjålne ukrainske kulturgjenstander,
+5. transporterer varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina,
+6. brukes på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften, eller
+7. eies, chartres eller drives av fysiske eller juridiske personer oppført i vedlegg I til denne forskriften, brukes på annen måte i slike personers navn eller på slike personers vegne, i forbindelse med dem eller til fordel for dem.
 
 Første ledd får ikke anvendelse på et fartøy som oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs, av humanitære årsaker, eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer, eller for å sikre anerkjennelse eller fullbyrdelse av en dom eller voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, eller med hensyn til etterforskning av overtredelser av bestemmelsene i denne forskriften eller av annen ulovlig virksomhet.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til de aktiviteter som er nevnt i første ledd bokstav a til g, for et fartøy som er oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), etter å ha fastslått atfartøyet er beregnet for opphugging, ogden aktuelle aktiviteten er nødvendig for at fartøyet kan seile til opphuggingsanlegget, for eventuelle relevante aktiviteter på opphuggingsanlegget i forbindelse med fartøyet eller for betalinger i forbindelse med opphuggingen.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til de aktiviteter som er nevnt i første ledd bokstav a til g, for et fartøy som er oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), etter å ha fastslått at
+
+1. fartøyet er beregnet for opphugging, og
+2. den aktuelle aktiviteten er nødvendig for at fartøyet kan seile til opphuggingsanlegget, for eventuelle relevante aktiviteter på opphuggingsanlegget i forbindelse med fartøyet eller for betalinger i forbindelse med opphuggingen.
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
 
@@ -1427,7 +2354,9 @@ Første ledd får ikke anvendelse på et fartøy som har behov for hjelp og søk
 
 Det er forbudt for veitransportforetak som er etablert i Russland, å transportere varer på vei innenfor norsk territorium, herunder i transitt. Forbudet får også anvendelse for godstransport innenfor norsk territorium som utføres av veitransportforetak med tilhengere eller semitrailere registrert i Russland, herunder dersom nevnte tilhengere eller semitrailere trekkes av lastebiler som er registrert i andre land.
 
-Det er forbudt for alle juridiske personer som er etablert i Norge, og som eies med 25 % eller mer av russiske fysiske eller juridiske personer, å få adgang til å bli et veitransportforetak som transporterer varer på vei innenfor norsk territorium, herunder i transitt.Det er forbudt for alle juridiske personer som er etablert i Norge før 8. april 2022, og som allerede er et veitransportforetak som transporterer varer på vei innenfor norsk territorium eller EØS-området, herunder i transitt, å foreta endringer i sin kapitalstruktur som vil øke den prosentvise andelen som eies av russiske fysiske eller juridiske personer, med mindre den prosentvise andelen forblir under 25 % etter en slik endring.
+Det er forbudt for alle juridiske personer som er etablert i Norge, og som eies med 25 % eller mer av russiske fysiske eller juridiske personer, å få adgang til å bli et veitransportforetak som transporterer varer på vei innenfor norsk territorium, herunder i transitt.
+
+Det er forbudt for alle juridiske personer som er etablert i Norge før 8. april 2022, og som allerede er et veitransportforetak som transporterer varer på vei innenfor norsk territorium eller EØS-området, herunder i transitt, å foreta endringer i sin kapitalstruktur som vil øke den prosentvise andelen som eies av russiske fysiske eller juridiske personer, med mindre den prosentvise andelen forblir under 25 % etter en slik endring.
 
 Fra og med 4. november 2024 er det forbudt for alle veitransportforetak som er etablert i Norge etter 8. april 2022, og som eies med 25 % eller mer av russiske fysiske eller juridiske personer, å transportere varer på vei innenfor norsk territorium eller EØS-området, herunder i transitt.
 
@@ -1437,19 +2366,39 @@ Forbudet i første ledd gjelder ikke for veitransportforetak som frakter post so
 
 Annet og tredje ledd gjelder ikke veitransportforetak som er etablert i Norge eller EU, og som eies med 25 % eller mer av russiske statsborgere som også er norske statsborgere eller statsborgere av en EU-medlemsstat, eller som har midlertidig eller fast oppholdstillatelse i Norge eller i en EU-medlemsstat.
 
-Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner tillate transport av varer på vei av et veitransportforetak etablert i Russland eller av et ethvert veitransportforetak dersom varene transporteres med tilhengere eller semitrailere registrert i Russland, herunder dersom nevnte tilhengere eller semitrailere trekkes av lastebiler registrert i andre land, dersom Direktoratet for eksportkontroll og sanksjoner har slått fast at nevnte transport er nødvendig formed mindre det ellers er forbudt, kjøp, import eller transport til Norge eller EU av naturgass og olje, herunder raffinerte petroleumsprodukter, samt titan, aluminium, kobber, nikkel, palladium og jernmalm,kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og frakte i henhold til denne forskriften,humanitære formål,drift av diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten, elleroverføring eller eksport til Russland av kulturgjenstander som er utlånt innenfor rammen av et formelt kultursamarbeid med Russland.
+Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner tillate transport av varer på vei av et veitransportforetak etablert i Russland eller av et ethvert veitransportforetak dersom varene transporteres med tilhengere eller semitrailere registrert i Russland, herunder dersom nevnte tilhengere eller semitrailere trekkes av lastebiler registrert i andre land, dersom Direktoratet for eksportkontroll og sanksjoner har slått fast at nevnte transport er nødvendig for
+
+1. med mindre det ellers er forbudt, kjøp, import eller transport til Norge eller EU av naturgass og olje, herunder raffinerte petroleumsprodukter, samt titan, aluminium, kobber, nikkel, palladium og jernmalm,
+2. kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og frakte i henhold til denne forskriften,
+3. humanitære formål,
+4. drift av diplomatiske eller konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten, eller
+5. overføring eller eksport til Russland av kulturgjenstander som er utlånt innenfor rammen av et formelt kultursamarbeid med Russland.
 
 > Tilføyd ved forskrift [29 april 2022 nr. 647](forskrift/2022-04-29-647), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
 ### § 19c. Forbud mot å yte visse tjenester
 
-Det er forbudt direkte eller indirekte å yte følgende tjenester til Russlands regjering eller juridiske personer etablert i Russland:juridiske rådgivningstjenester,tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring, skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester,bygge- og anleggstjenester, arkitekt- og ingeniørtjenester, integrerte ingeniørtjenester, byplanleggingstjenester, ingeniørrelatert vitenskapelig og teknisk rådgivning eller tjenester i form av tekniske tester og analysetjenester,tjenester i form av markedsføring, markedsundersøkelser eller meningsmålinger,IT-konsulenttjenester,kommersielle rombaserte tjenester bestående av jordobservasjon eller satellittnavigasjon,tjenester innenfor kunstig intelligens som består av tilgang til modeller eller plattformer for trening, finjustering og inferens,høytytende databehandling, herunder tilgang til Graphic Processing Unit-akselerert databehandling eller kvantedatabehandlingstjenester.administrerte sikkerhetstjenester
+Det er forbudt direkte eller indirekte å yte følgende tjenester til Russlands regjering eller juridiske personer etablert i Russland:
+
+1. juridiske rådgivningstjenester,
+2. tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring, skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester,
+3. bygge- og anleggstjenester, arkitekt- og ingeniørtjenester, integrerte ingeniørtjenester, byplanleggingstjenester, ingeniørrelatert vitenskapelig og teknisk rådgivning eller tjenester i form av tekniske tester og analysetjenester,
+4. tjenester i form av markedsføring, markedsundersøkelser eller meningsmålinger,
+5. IT-konsulenttjenester,
+6. kommersielle rombaserte tjenester bestående av jordobservasjon eller satellittnavigasjon,
+7. tjenester innenfor kunstig intelligens som består av tilgang til modeller eller plattformer for trening, finjustering og inferens,
+8. høytytende databehandling, herunder tilgang til Graphic Processing Unit-akselerert databehandling eller kvantedatabehandlingstjenester.
+9. administrerte sikkerhetstjenester
 
 Det er forbudt å yte tjenester direkte knyttet til turistvirksomhet i Russland.
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse, programvare for industridesign og produksjon samt programvare med visse bruksområder i bank- og finanssektoren, som oppført i [vedlegg XXXIX](forskrift/2014-08-15-1076/vedleggXXXIX), til Russlands regjering eller juridiske personer etablert i Russland.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til tjenestene og programvaren nevnt i første og tredje ledd til Russlands regjering eller til juridiske personer etablert i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til tjenestene og programvaren nevnt i første og tredje ledd, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, til Russlands regjering eller til juridiske personer etablert i Russland,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter, eller som består av forretningshemmeligheter knyttet til programvare som nevnt i tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til Russlands regjering eller juridiske personer etablert i Russland.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til tjenestene og programvaren nevnt i første og tredje ledd til Russlands regjering eller til juridiske personer etablert i Russland,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til tjenestene og programvaren nevnt i første og tredje ledd, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, til Russlands regjering eller til juridiske personer etablert i Russland,
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter, eller som består av forretningshemmeligheter knyttet til programvare som nevnt i tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte programvare, til Russlands regjering eller juridiske personer etablert i Russland.
 
 Det kreves forhåndstillatelse for direkte eller indirekte yting av enhver tjeneste som ikke er omfattet av første eller andre ledd til Russlands regjering. Direktoratet for eksportkontroll og sanksjoner kan etter en konkret vurdering i det enkelte tilfellet gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til yting av slike tjenester etter å ha slått fast at dette er i samsvar med formålene i denne forskriften.
 
@@ -1469,7 +2418,10 @@ Andre og femte ledd gjelder ikke oppfyllelse innen 5. juni 2026 av kontrakter in
 
 Første ledd bokstav i gjelder fra 25. august 2026.
 
-Som unntak fra første ledd bokstav a og b kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til yting av nevnte tjenester, etter å ha slått fast at tjenestene er strengt nødvendige for etablering, sertifisering eller evaluering av en brannmur somfjerner den kontrollen en fysisk eller juridisk person som er oppført i vedlegg I har over aktivaene til en juridisk person som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i Norge eller i en EU-medlemsstat og eid eller kontrollert av førstnevnte, ogsikrer at ingen ytterligere penger eller formuesgoder kommer denne oppførte fysiske eller juridiske personen til gode.
+Som unntak fra første ledd bokstav a og b kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til yting av nevnte tjenester, etter å ha slått fast at tjenestene er strengt nødvendige for etablering, sertifisering eller evaluering av en brannmur som
+
+1. fjerner den kontrollen en fysisk eller juridisk person som er oppført i vedlegg I har over aktivaene til en juridisk person som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i Norge eller i en EU-medlemsstat og eid eller kontrollert av førstnevnte, og
+2. sikrer at ingen ytterligere penger eller formuesgoder kommer denne oppførte fysiske eller juridiske personen til gode.
 
 Som unntak fra første ledd bokstav g og h og tredje ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til yting av nevnte tjenester og programvare etter å ha slått fast at tjenestene og programvaren er strengt nødvendige for at russiske statsborgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
 
@@ -1477,7 +2429,16 @@ Som unntak fra første ledd bokstav a, c og e kan Direktoratet for eksportkontro
 
 Som unntak fra første ledd bokstav f kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til yting av nevnte tjenester etter å ha slått fast at tjenestene er strengt nødvendig for mellomstatlig samarbeid innenfor romprogrammer.
 
-Som unntak fra første, tredje og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd etter å ha slått fast at dette er nødvendig for:humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland,drift av Norges eller EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium eller jernmalm,å sikre kontinuerlig drift av infrastruktur, maskinvare eller programvare som er kritisk for menneskers helse og sikkerhet, eller for miljøsikkerhet,etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling,yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i Norge, i EU, mellom Russland og Norge eller EU og mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU, ellerbruk utelukkende av juridiske personer som er etablert i Russland, og som eies av eller, alene eller i fellesskap, kontrolleres av en juridisk person som er etablert eller stiftet i henhold til lovgivningen i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområdet eller Sveits.
+Som unntak fra første, tredje og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til salg, levering, overføring, eksport eller yting av tjenester som omhandles i nevnte ledd etter å ha slått fast at dette er nødvendig for:
+
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland,
+3. drift av Norges eller EUs diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,
+4. å sikre kritisk kraftforsyning i Norge eller EU og kjøp, import eller transport til Norge eller EU av titan, aluminium, kobber, nikkel, palladium eller jernmalm,
+5. å sikre kontinuerlig drift av infrastruktur, maskinvare eller programvare som er kritisk for menneskers helse og sikkerhet, eller for miljøsikkerhet,
+6. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel og sikkerhet for sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+7. yting av elektroniske kommunikasjonstjenester fra norske eller EU-medlemsstaters teleoperatører som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i Norge, i EU, mellom Russland og Norge eller EU og mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU, eller
+8. bruk utelukkende av juridiske personer som er etablert i Russland, og som eies av eller, alene eller i fellesskap, kontrolleres av en juridisk person som er etablert eller stiftet i henhold til lovgivningen i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområdet eller Sveits.
 
 Forbudet i tredje ledd gjelder ikke levering av programvare med visse bruksområder i bank- og finanssektoren som oppført i [vedlegg XXXIX](forskrift/2014-08-15-1076/vedleggXXXIX) som er nødvendig for oppfyllelse innen 9. januar 2026 av kontrakter inngått før 29. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
@@ -1485,21 +2446,39 @@ Forbudet i tredje ledd gjelder ikke levering av programvare med visse bruksområ
 
 ### § 19d. Unntak fra import- og eksportforbud
 
-Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner fram til 4. juni 2027 tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX, XI, XII, XVI, XVIII, XX og XXIII og i «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), samt salg, lisensiering eller overføring på annen måte av immaterialrettigheter eller forretningshemmeligheter samt innvilgning av rett til adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller består av forretningshemmeligheter, i tilknytning til varene og teknologien nevnt over, dersom salget, leveringen, overføringen, lisensieringen eller innvilgningen av rett til adgang eller gjenbruk er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:varene og teknologien eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, ogDirektoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at varene kan være beregnet på militær sluttbruk, eller har militær sluttbruk, i Russland, ogvarene og teknologien befant seg fysisk i Russland før de relevante forbudene i [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) eller [§ 17i](forskrift/2014-08-15-1076/§17i) trådte i kraft med hensyn til nevnte varer og teknologi.
+Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner fram til 4. juni 2027 tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX, XI, XII, XVI, XVIII, XX og XXIII og i «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), samt salg, lisensiering eller overføring på annen måte av immaterialrettigheter eller forretningshemmeligheter samt innvilgning av rett til adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller består av forretningshemmeligheter, i tilknytning til varene og teknologien nevnt over, dersom salget, leveringen, overføringen, lisensieringen eller innvilgningen av rett til adgang eller gjenbruk er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
+
+1. varene og teknologien eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og
+2. Direktoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at varene kan være beregnet på militær sluttbruk, eller har militær sluttbruk, i Russland, og
+3. varene og teknologien befant seg fysisk i Russland før de relevante forbudene i [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) eller [§ 17i](forskrift/2014-08-15-1076/§17i) trådte i kraft med hensyn til nevnte varer og teknologi.
 
 Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17) og [17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX og XXIII fram til 4. juni 2027, dersom nevnte salg, levering eller overføring er strengt nødvendig for avhending fra et fellesforetak som er stiftet eller opprettet i henhold til Norges eller en EU-medlemsstats lovgivning før 24. februar 2022, som omfatter en russisk juridisk person, og som driver en gassrørledningsinfrastruktur mellom Russland og tredjeland, eller yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til varer og teknologier som er strengt nødvendige for drift, nødvendig vedlikehold, reparasjon eller utskifting av komponenter i en slik rørledning og tilhørende infrastruktur som er avgjørende for nevnte avhending.
 
-Som unntak fra [§ 17e](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) kan Direktoratet for eksportkontroll og sanksjoner tillate import eller overføring av varer oppført i vedlegg XVII og XXI til 4. juni 2027, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:varene eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, ogde aktuelle varene befant seg fysisk i Russland før de relevante forbudene i [§ 17](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) trådte i kraft med hensyn til de nevnte varene.
+Som unntak fra [§ 17e](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) kan Direktoratet for eksportkontroll og sanksjoner tillate import eller overføring av varer oppført i vedlegg XVII og XXI til 4. juni 2027, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
 
-Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillatevidereføring av tjenesteyting til 4. juni 2027, dersom nevnte tjenesteyting er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:nevnte tjenester ytes til, og utelukkende til fordel for, de juridiske personene som er resultatet av avhendelsen, ogDirektoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at tjenestene kan bli tilbudt, direkte eller indirekte, til Russlands regjering eller til en militær sluttbruker, eller ha militær sluttbruk i Russland.
+1. varene eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og
+2. de aktuelle varene befant seg fysisk i Russland før de relevante forbudene i [§ 17](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) trådte i kraft med hensyn til de nevnte varene.
+
+Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillatevidereføring av tjenesteyting til 4. juni 2027, dersom nevnte tjenesteyting er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
+
+1. nevnte tjenester ytes til, og utelukkende til fordel for, de juridiske personene som er resultatet av avhendelsen, og
+2. Direktoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at tjenestene kan bli tilbudt, direkte eller indirekte, til Russlands regjering eller til en militær sluttbruker, eller ha militær sluttbruk i Russland.
 
 > Tilføyd ved forskrift [30 jan 2023 nr. 180](forskrift/2023-01-30-180), endret ved forskrifter [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
 
 ### § 19da. Unntak fra eksportforbud og forbud mot å yte tjenester knyttet til Caspian Pipeline Consortium
 
-Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17d](forskrift/2014-08-15-1076/§17d), og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner tillate salg, levering, overføring, eksport eller transitt gjennom Russland av varer og tjenester som nevnt i disse bestemmelsene, eller levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, for drift og vedlikehold av CPCs (Caspian Pipeline Consortium) rørledninger og tilhørende infrastruktur som er nødvendig for transport av varer som hører inn under KN 2709 00, med opprinnelse i Kasakhstan, og som kun lastes i, sendes fra eller er i transitt gjennom Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, etter å ha fastslått atnevnte salg, levering, overføring, eksport eller transitt gjennom Russland eller leveringen av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, er nødvendig for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur,den type varer, teknologier og bistand som det anmodes om, ikke går utover den type varer og teknologi som tidligere er eksportert eller den bistand som tidligere er gitt fra et medlemsland i Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland til EU som oppført i vedlegg VIII til forordning [(EU) 833/2014](eu/32014r0833), til Russland for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, og tilknyttet bistand,de mengder som det anmodes om, stemmer overens med de som brukes for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, ognevnte varer og teknologi vil leveres av en fysisk eller juridisk person som er omfattet av [§ 1](forskrift/2014-08-15-1076/§1), utelukkende for sluttbruk i drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur.
+Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17d](forskrift/2014-08-15-1076/§17d), og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner tillate salg, levering, overføring, eksport eller transitt gjennom Russland av varer og tjenester som nevnt i disse bestemmelsene, eller levering av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, for drift og vedlikehold av CPCs (Caspian Pipeline Consortium) rørledninger og tilhørende infrastruktur som er nødvendig for transport av varer som hører inn under KN 2709 00, med opprinnelse i Kasakhstan, og som kun lastes i, sendes fra eller er i transitt gjennom Russland, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, etter å ha fastslått at
 
-Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillate yting av revisjonstjenester, ingeniørtjenester, juridiske rådgivningstjenester samt tekniske test- og analysetjenester for drift og vedlikehold av CPC-rørledninger og tilhørende infrastruktur som er nødvendige for transport av varer som hører inn under KN 2709 00, med opprinnelse i Kasakhstan, og som kun lastes i, sendes fra eller er i transitt gjennom Russland, etter å ha fastslått atyting av nevnte tjenester er nødvendig for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, ognevnte tjenester ytes av en fysisk eller juridisk person som er omfattet av [§ 1](forskrift/2014-08-15-1076/§1).
+1. nevnte salg, levering, overføring, eksport eller transitt gjennom Russland eller leveringen av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, er nødvendig for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur,
+2. den type varer, teknologier og bistand som det anmodes om, ikke går utover den type varer og teknologi som tidligere er eksportert eller den bistand som tidligere er gitt fra et medlemsland i Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland til EU som oppført i vedlegg VIII til forordning [(EU) 833/2014](eu/32014r0833), til Russland for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, og tilknyttet bistand,
+3. de mengder som det anmodes om, stemmer overens med de som brukes for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, og
+4. nevnte varer og teknologi vil leveres av en fysisk eller juridisk person som er omfattet av [§ 1](forskrift/2014-08-15-1076/§1), utelukkende for sluttbruk i drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur.
+
+Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillate yting av revisjonstjenester, ingeniørtjenester, juridiske rådgivningstjenester samt tekniske test- og analysetjenester for drift og vedlikehold av CPC-rørledninger og tilhørende infrastruktur som er nødvendige for transport av varer som hører inn under KN 2709 00, med opprinnelse i Kasakhstan, og som kun lastes i, sendes fra eller er i transitt gjennom Russland, etter å ha fastslått at
+
+1. yting av nevnte tjenester er nødvendig for drift, nødvendig vedlikehold, reparasjon eller utskifting av deler av CPC-rørledningen og tilhørende infrastruktur, og
+2. nevnte tjenester ytes av en fysisk eller juridisk person som er omfattet av [§ 1](forskrift/2014-08-15-1076/§1).
 
 Når en tillatelse gis i henhold til første og andre ledd, skal Direktoratet for eksportkontroll og sanksjoner kreve framlagt et sluttbrukersertifikat og detaljerte regelmessige rapporter som viser at ingen av de nevnte varer, teknologier eller tjenester er brukt til noe annet enn det tiltenkte formålet i løpet av det aktuelle arbeidet. Direktoratet for eksportkontroll og sanksjoner kan pålegge ytterligere vilkår, i samsvar med første ledd.
 
@@ -1529,7 +2508,10 @@ Varer som fysisk befinner seg i Norge og har vært framlagt for tollmyndighetene
 
 Ved salg, levering, overføring eller eksport til et tredjeland, med unntak av et partnerland til EU som oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833), av varer eller teknologi oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXXIII](forskrift/2014-08-15-1076/vedleggXXXIII), felles høyt prioriterte produkter oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL) eller skytevåpen og ammunisjon oppført i vedlegg I til forordning [(EU) nr. 258/2012](eu/32012r0258), skal eksportører fra og med 20. juni 2024 i kontrakt forby reeksport til Russland og reeksport for bruk i Russland.
 
-Første ledd gjelder ikkeoppfyllelse av kontrakter som gjelder varer som hører inn under KN-kode 8457 10, 8458 11, 8458 91, 8459 61 og 8466 93, som oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL),oppfyllelse av kontrakter innen 11. april 2025 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, såfremt kontraktene er inngått før 20. mars 2024 og gjelder andre varer enn dem som er nevnt i bokstav a.
+Første ledd gjelder ikke
+
+1. oppfyllelse av kontrakter som gjelder varer som hører inn under KN-kode 8457 10, 8458 11, 8458 91, 8459 61 og 8466 93, som oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL),
+2. oppfyllelse av kontrakter innen 11. april 2025 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, såfremt kontraktene er inngått før 20. mars 2024 og gjelder andre varer enn dem som er nevnt i bokstav a.
 
 Første ledd får ikke anvendelse på offentlige kontrakter inngått med en offentlig myndighet i et tredjeland eller med en internasjonal organisasjon.
 
@@ -1555,7 +2537,10 @@ Dersom motparten i et tredjeland overtrer noen av avtaleforpliktelsene som er in
 
 ### § 19i. Risikovurdering mv. i forbindelse med salg, levering, overføring eller eksport av felles høyt prioriterte produkter
 
-Fysiske og juridiske personer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL) eller varer som oppført i [vedlegg XLVIII](forskrift/2014-08-15-1076/vedleggXLVIII), skaltreffe hensiktsmessige tiltak som står i forhold til deres art og størrelse, for å identifisere og vurdere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi.
+Fysiske og juridiske personer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL) eller varer som oppført i [vedlegg XLVIII](forskrift/2014-08-15-1076/vedleggXLVIII), skal
+
+1. treffe hensiktsmessige tiltak som står i forhold til deres art og størrelse, for å identifisere og vurdere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,
+2. innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi.
 
 Første ledd får anvendelse fra og med 4. april 2025 med hensyn til [vedlegg XL](forskrift/2014-08-15-1076/vedleggXL) og fra og med 16. september 2025 med hensyn til [vedlegg XLVIII](forskrift/2014-08-15-1076/vedleggXLVIII).
 
@@ -1585,7 +2570,13 @@ Første ledd gjelder ikke for mindreårige eller familiemedlemmer som ikke er en
 
 Første ledd gjelder ikke reise til eller gjennom territoriet i medlemsstaten som har utstedt oppholdstillatelsen eller visumet.
 
-Underretningen etter første ledd skal inneholde:transportmiddel: for private kjøretøy, inkludert de som eies av en diplomatisk eller konsulær representasjon eller dens ansatte, omfatter det merke, type og registreringsnummer. For offentlig transport omfatter det transportselskapets navn og rutekode eller tilsvarendested for innreise til territorietdato for innreise til territorietsted for utreise fra territorietdato for utreise fra territoriet.
+Underretningen etter første ledd skal inneholde:
+
+1. transportmiddel: for private kjøretøy, inkludert de som eies av en diplomatisk eller konsulær representasjon eller dens ansatte, omfatter det merke, type og registreringsnummer. For offentlig transport omfatter det transportselskapets navn og rutekode eller tilsvarende
+2. sted for innreise til territoriet
+3. dato for innreise til territoriet
+4. sted for utreise fra territoriet
+5. dato for utreise fra territoriet.
 
 Denne paragrafen gjelder fra 27. mars 2026.
 
@@ -1595,7 +2586,11 @@ Denne paragrafen gjelder fra 27. mars 2026.
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er oppført i [vedlegg XXXIV](forskrift/2014-08-15-1076/vedleggXXXIV), uavhengig om de har opprinnelse i Norge eller EU eller ikke, til fysiske eller juridiske personer spesifisert i tredjelandet i nevnte vedlegg.
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i det spesifiserte tredjelandet,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i det spesifiserte tredjelandet,
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet.
 
 [Vedlegg XXXIV](forskrift/2014-08-15-1076/vedleggXXXIV) skal kun omfatte sensitive flerbruksvarer og flerbruksteknologi, eller varer og teknologi som kan bidra til å øke Russlands militære, teknologiske eller industrielle styrke, eller til å utvikle Russlands forsvars- og sikkerhetssektor, på en måte som styrker landets evne til krigføring, og som det er forbudt å eksportere til Russland i henhold til denne forskriften, og som det er stor og kontinuerlig fare for at vil bli solgt, levert, overført eller eksportert fra tredjeland til Russland etter å ha blitt solgt, levert, overført eller eksportert fra Norge eller EU. Vedlegg XXXIV skal for hver enkelt oppført vare eller teknologi spesifisere til hvilke tredjeland det er forbudt med salg, levering, overføring eller eksport. Vedlegg XXXIV skal kun omfatte tredjeland som har blitt identifisert av Rådet for Den europeiske union som land som systematisk og vedvarende har unnlatt å forhindre salg, levering, overføring eller eksport til Russland av varer og teknologi, som oppført i vedlegget, eksportert fra EU, til tross for EUs tidligere oppsøkende tiltak og bistand til det aktuelle landet.
 
@@ -1623,7 +2618,12 @@ Det er forbudt forsettlig å delta i aktiviteter som har som formål eller virkn
 
 ### § 20a. Krav i tilknytning til kontrakter eller transaksjoner
 
-Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forskriften, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avjuridiske personer som er oppført i vedleggene til denne forskriften, eller juridiske personer som er etablert utenfor Norge eller EU, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av dem,andre russiske fysiske eller juridiske personer,personer som handler gjennom eller på vegne av juridiske personer omtalt i bokstav a) eller b),enhver fysisk person fra et tredjeland som ikke er russisk statsborger, og enhver juridisk person som er etablert i et annet tredjeland enn Russland, med unntak av partnerland til EU som er oppført i [vedlegg VIII](forskrift/2014-08-15-1076/vedleggVIII) til forordning [(EU) nr. 833/2014](eu/32014r0833), og som selger, leverer, overfører eller eksporterer varer, teknologi og tjenester som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forskriften, uansett om de har opprinnelse i Norge eller EU, til fysiske og juridiske personer som er nevnt i bokstav a, b eller c i dette leddet, eller til bruk i Russland.
+Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forskriften, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes av
+
+1. juridiske personer som er oppført i vedleggene til denne forskriften, eller juridiske personer som er etablert utenfor Norge eller EU, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av dem,
+2. andre russiske fysiske eller juridiske personer,
+3. personer som handler gjennom eller på vegne av juridiske personer omtalt i bokstav a) eller b),
+4. enhver fysisk person fra et tredjeland som ikke er russisk statsborger, og enhver juridisk person som er etablert i et annet tredjeland enn Russland, med unntak av partnerland til EU som er oppført i [vedlegg VIII](forskrift/2014-08-15-1076/vedleggVIII) til forordning [(EU) nr. 833/2014](eu/32014r0833), og som selger, leverer, overfører eller eksporterer varer, teknologi og tjenester som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forskriften, uansett om de har opprinnelse i Norge eller EU, til fysiske og juridiske personer som er nevnt i bokstav a, b eller c i dette leddet, eller til bruk i Russland.
 
 I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i første ledd.
 
@@ -1885,7 +2885,15 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 
 > Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412).
 
-«Software» used in oil and gas exploration, namely:«Software» for reservoir exploration and calculation«Software» for calculation, processing and analysis of seismic data«Software» for geological visual inspections as well as for respective characterisation/modelling/visualisation/calculationDrilling «software», planning «software» for drilling processes, «software» for trajectory of drilling processes«Software» for inertial navigation systems for drillingReal-time well monitoring «software»Observation and safeguarding «software» in oil and gas production
+«Software» used in oil and gas exploration, namely:
+
+- «Software» for reservoir exploration and calculation
+- «Software» for calculation, processing and analysis of seismic data
+- «Software» for geological visual inspections as well as for respective characterisation/modelling/visualisation/calculation
+- Drilling «software», planning «software» for drilling processes, «software» for trajectory of drilling processes
+- «Software» for inertial navigation systems for drilling
+- Real-time well monitoring «software»
+- Observation and safeguarding «software» in oil and gas production
 
 ## Vedlegg V. Liste over institusjoner som omtalt i § 8b første ledd
 
@@ -2863,18 +3871,79 @@ Without prejudice to Article 12 of this Regulation, non-controlled items contain
 
 X.A.I.001 Electronic devices and components.
 
-1. «Microprocessor microcircuits», «microcomputer microcircuits», and microcontroller microcircuits having any of the following:A performance speed of 5 GigaFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;A clock frequency rate exceeding 25 MHz; orMore than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel «microprocessor microcircuits» with a transfer rate of 2,5 Mbyte/s;
-2. Storage integrated circuits, as follows:Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;Exceeding 16 Mbits per package for flash memory types; orExceeding either of the following limits for all other EEPROM types:Exceeding 1 Mbit per package; orExceeding 256 kbit per package and a maximum access time of less than 80 ns;Static random access memories (SRAMs) with a storage capacity:Exceeding 1 Mbit per package; orExceeding 256 kbit per package and a maximum access time of less than 25 ns;
-3. Analogue-to-digital converters having any of the following:A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 Mega Samples Per Second (MSPS);A resolution of 12 bit with an output rate greater than 105 Mega Samples per Second (MSPS);A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 Mega Samples per Second (MSPS); orA resolution of more than 14 bit with an output rate greater than 2,5 Mega Samples Per Second (MSPS);
+1. «Microprocessor microcircuits», «microcomputer microcircuits», and microcontroller microcircuits having any of the following:
+
+   1. A performance speed of 5 GigaFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;
+   2. A clock frequency rate exceeding 25 MHz; or
+   3. More than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel «microprocessor microcircuits» with a transfer rate of 2,5 Mbyte/s;
+2. Storage integrated circuits, as follows:
+
+   1. Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;
+
+      1. Exceeding 16 Mbits per package for flash memory types; or
+      2. Exceeding either of the following limits for all other EEPROM types:
+
+         1. Exceeding 1 Mbit per package; or
+         2. Exceeding 256 kbit per package and a maximum access time of less than 80 ns;
+   2. Static random access memories (SRAMs) with a storage capacity:
+
+      1. Exceeding 1 Mbit per package; or
+      2. Exceeding 256 kbit per package and a maximum access time of less than 25 ns;
+3. Analogue-to-digital converters having any of the following:
+
+   1. A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 Mega Samples Per Second (MSPS);
+   2. A resolution of 12 bit with an output rate greater than 105 Mega Samples per Second (MSPS);
+   3. A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 Mega Samples per Second (MSPS); or
+   4. A resolution of more than 14 bit with an output rate greater than 2,5 Mega Samples Per Second (MSPS);
 4. Field programmable logic devices having a maximum number of single-ended digital input/outputs between 200 and 700;
 5. Fast Fourier Transform (FFT) processors having a rated execution time for a 1 024 point complex FFT of less than 1 ms;
-6. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:More than 144 terminals; orA typical basic propagation delay time of less than 0,4 ns;
-7. Traveling-wave «vacuum electronic devices», pulsed or continuous wave, as follows:Coupled cavity devices, or derivatives thereof;Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:An «instantaneous bandwidth» of half an octave or more and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,2; orAn «instantaneous bandwidth» of less than half an octave; and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,4;
+6. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
+
+   1. More than 144 terminals; or
+   2. A typical basic propagation delay time of less than 0,4 ns;
+7. Traveling-wave «vacuum electronic devices», pulsed or continuous wave, as follows:
+
+   1. Coupled cavity devices, or derivatives thereof;
+   2. Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:
+
+      1. An «instantaneous bandwidth» of half an octave or more and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,2; or
+      2. An «instantaneous bandwidth» of less than half an octave; and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,4;
 8. Flexible waveguides designed for use at frequencies exceeding 40 GHz;
-9. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having either of the following:A carrier frequency exceeding 1 GHz; orA carrier frequency of 1 GHz or less; andA «frequency side-lobe rejection» exceeding 55 dB;A product of the maximum delay time and bandwidth (time in μs and bandwidth in MHz) of more than 100; orA dispersive delay of more than 10 μs;Technical Note: For the purpose of X.A.I.001.i «Frequency side-lobe rejection» is the maximum rejection value specified in data sheet.
-10. «Cells» as follows:«Primary cells» having an «energy density» of 550 Wh/kg or less at 293 K (20 °C);«Secondary cells» having an «energy density» of 350 Wh/kg or less at 293 K (20 °C);Note: X.A.I.001.j does not control batteries, including single cell batteries.Technical Notes:For the purpose of X.A.I.001.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.For the purpose of X.A.I.001.j, a «cell» is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.For the purpose of X.A.I.001.j.1, a «primary cell» is a «cell» that is not designed to be charged by any other source.For the purpose of X.A.I.001.j.2, a «secondary cell» is a «cell» that is designed to be charged by an external electrical source.
-11. «Superconductive» electromagnets or solenoids specially designed to be fully charged or discharged in less than one minute, having all of the following:Note: X.A.I.001.k does not control «superconductive» electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;Inner diameter of the current carrying windings of more than 250 mm; andRated for a magnetic induction of more than 8T or «overall current density» in the winding of more than 300 A/mm2;
-12. Circuits or systems for electromagnetic energy storage, containing components manufactured from «superconductive» materials specially designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents, having all of the following:Resonant operating frequencies exceeding 1 MHz;A stored energy density of 1 MJ/m3 or more; andA discharge time of less than 1 ms;
+9. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having either of the following:
+
+   1. A carrier frequency exceeding 1 GHz; or
+   2. A carrier frequency of 1 GHz or less; and
+
+      1. A «frequency side-lobe rejection» exceeding 55 dB;
+      2. A product of the maximum delay time and bandwidth (time in μs and bandwidth in MHz) of more than 100; or
+      3. A dispersive delay of more than 10 μs;
+
+   Technical Note: For the purpose of X.A.I.001.i «Frequency side-lobe rejection» is the maximum rejection value specified in data sheet.
+10. «Cells» as follows:
+
+    1. «Primary cells» having an «energy density» of 550 Wh/kg or less at 293 K (20 °C);
+    2. «Secondary cells» having an «energy density» of 350 Wh/kg or less at 293 K (20 °C);
+
+    Note: X.A.I.001.j does not control batteries, including single cell batteries.
+
+    Technical Notes:
+
+    1. For the purpose of X.A.I.001.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+    2. For the purpose of X.A.I.001.j, a «cell» is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+    3. For the purpose of X.A.I.001.j.1, a «primary cell» is a «cell» that is not designed to be charged by any other source.
+    4. For the purpose of X.A.I.001.j.2, a «secondary cell» is a «cell» that is designed to be charged by an external electrical source.
+11. «Superconductive» electromagnets or solenoids specially designed to be fully charged or discharged in less than one minute, having all of the following:
+
+    Note: X.A.I.001.k does not control «superconductive» electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.
+
+    1. Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;
+    2. Inner diameter of the current carrying windings of more than 250 mm; and
+    3. Rated for a magnetic induction of more than 8T or «overall current density» in the winding of more than 300 A/mm2;
+12. Circuits or systems for electromagnetic energy storage, containing components manufactured from «superconductive» materials specially designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents, having all of the following:
+
+    1. Resonant operating frequencies exceeding 1 MHz;
+    2. A stored energy density of 1 MJ/m3 or more; and
+    3. A discharge time of less than 1 ms;
 13. Hydrogen/hydrogen-isotope thyratrons of ceramic-metal construction and rate for a peak current of 500 A or more;
 14. Ceramic frequency filters;
 15. Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are «space qualified» and not controlled by 3A001.e.4 [(1)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng);
@@ -2884,12 +3953,27 @@ X.A.I.001 Electronic devices and components.
 X.A.I.002 General purpose «electronic assemblies», modules and equipment.
 
 1. Electronic test equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-2. Digital instrumentation magnetic tape data recorders having any of the following characteristics:A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or«Space qualified»;
+2. Digital instrumentation magnetic tape data recorders having any of the following characteristics:
+
+   1. A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;
+   2. A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or
+   3. «Space qualified»;
 3. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
 4. Non-modular analogue oscilloscopes having a bandwidth of 1 GHz or greater;
-5. Modular analogue oscilloscope systems having either of the following characteristics:A mainframe with a bandwidth of 1 GHz or greater; orPlug-in modules with an individual bandwidth of 4 GHz or greater;
+5. Modular analogue oscilloscope systems having either of the following characteristics:
+
+   1. A mainframe with a bandwidth of 1 GHz or greater; or
+   2. Plug-in modules with an individual bandwidth of 4 GHz or greater;
 6. Analogue sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz;
-7. Digital oscilloscopes and transient recorders, using analogue-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 Giga Samples per Second (GSPS)), digitising to 8 bits or greater resolution and storing 256 or more samples.Note: X.A.I.002 controls the following specially designed components for analogue oscilloscopes:Plug-in units;External amplifiers;Pre-amplifiers;Sampling devices;Cathode ray tubes.
+7. Digital oscilloscopes and transient recorders, using analogue-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 Giga Samples per Second (GSPS)), digitising to 8 bits or greater resolution and storing 256 or more samples.
+
+   Note: X.A.I.002 controls the following specially designed components for analogue oscilloscopes:
+
+   1. Plug-in units;
+   2. External amplifiers;
+   3. Pre-amplifiers;
+   4. Sampling devices;
+   5. Cathode ray tubes.
 
 X.A.I.003 Specific processing equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows:
 
@@ -2897,20 +3981,205 @@ X.A.I.003 Specific processing equipment, other than those specified in the CML o
 2. Mass spectrometers, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
 3. All flash X-ray machines, or components of pulsed power systems designed thereof, including Marx generators, high power pulse shaping networks, high voltage capacitors, and triggers;
 4. Pulse amplifiers, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-5. Electronic equipment for time delay generation or time interval measurement, as follows:Digital time delay generators with a resolution of 50 ns or less over time intervals of 1 μs or greater; orMulti-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 ns or less over time intervals of 1 μs or greater;
+5. Electronic equipment for time delay generation or time interval measurement, as follows:
+
+   1. Digital time delay generators with a resolution of 50 ns or less over time intervals of 1 μs or greater; or
+   2. Multi-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 ns or less over time intervals of 1 μs or greater;
 6. Chromatography and spectrometry analytical instruments.
 
 X.B.I.001 Equipment for the manufacture of electronic components or materials, as follows and specially designed components and accessories therefor:
 
 1. Equipment specially designed for the manufacture of electron tubes, optical elements and specially designed components therefor controlled by 3A001 [(2)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) or X.A.I.001;
-2. Equipment specially designed for the manufacture of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:Note: X.B.I.001.b. also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.Equipment for the processing of materials for the manufacture of devices and components as specified in the heading of X.B.I.001.b, as follows:Note: X.B.I.001 does not control quartz furnace tubes, furnace liners, paddles, boats (except specially designed caged boats), bubblers, cassettes or crucibles specially designed for the processing equipment controlled by X.B.I.001.b.1.Equipment for producing polycrystalline silicon and materials controlled by 3C001 [(3)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng);Equipment specially designed for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 [(4)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) except crystal pullers, for which see X.B.I.001.b.1.c below;Crystal pullers and furnaces, as follows:Note: X.B.I.001.b.1.c does not control diffusion and oxidation furnaces.Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0,005 m2 per minute;«Stored program controlled» crystal pullers having any of the following characteristics:Rechargeable without replacing the crucible container;Capable of operation at pressures above 2,5 x 105 Pa; orCapable of pulling crystals of a diameter exceeding 100 mm;«Stored program controlled» equipment for epitaxial growth having any of the following characteristics:Capable of producing silicon layer with a thickness uniform to less than ±2,5 % across a distance of 200 mm or more;Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ±3,5 %; orRotation of individual wafers during processing;Molecular beam epitaxial growth equipment;Magnetically enhanced «sputtering» equipment with specially designed integral load locks capable of transferring wafers in an isolated vacuum environment;Equipment specially designed for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:Patterning capability;Beam energy (accelerating voltage) exceeding 200 keV;Optimised to operate at a beam energy (accelerating voltage) of less than 10 keV; orCapable of high energy oxygen implant into a heated «substrate»;«Stored program controlled» equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:«Batch types» having either of the following:End-point detection, other than optical emission spectroscopy types; orReactor operational (etching) pressure of 26,66 Pa or less;«Single wafer types» having any of the following:End-point detection, other than optical emission spectroscopy types;Reactor operational (etching) pressure of 26,66 Pa or less; orCassette-to-cassette and load locks wafer handling;Notes:«Batch types» refers to machines not specially designed for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates.«Single wafer types» refers to machines specially designed for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.Chemical vapour deposition (CVD) equipment, e.g., plasma-enhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:Chemical vapour deposition equipment operating below 105 Pa; orPECVD equipment operating either below 60 Pa or having automatic cassette-to-cassette and load lock wafer handling;Note: X.B.I.001.b.1.i does not control low pressure chemical vapour deposition (LPCVD) systems or reactive «sputtering» equipment.Electron beam systems specially designed or modified for mask making or semiconductor device processing having any of the following characteristics:Electrostatic beam deflection;Shaped, non-Gaussian beam profile;Digital-to-analogue conversion rate exceeding 3 MHz;Digital-to-analogue conversion accuracy exceeding 12 bit; orTarget-to-beam position feedback control precision of 1 μm or finer;Note: X.B.I.001.b.1.j does not control electron beam deposition systems or general purpose scanning electron microscopes.Surface finishing equipment for the processing of semiconductor wafers as follows:Specially designed equipment for backside processing of wafers thinner than 100 μm and the subsequent separation thereof; orSpecially designed equipment for achieving a surface roughness of the active surface of a processed wafer with a two-sigma value of 2 μm or less, total indicator reading (TIR);Note: X.B.I.001.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.Interconnection equipment which includes common single or multiple vacuum chambers specially designed to permit the integration of any equipment controlled by X.B.I.001 into a complete system;«Stored program controlled» equipment using «lasers» for the repair or trimming of «monolithic integrated circuits» with either of the following characteristics:Positioning accuracy less than ± 1 μm; orSpot size (kerf width) less than 3 μm.Technical Note: For the purpose of X.B.I.001.b.1, «sputtering» is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. ( Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.)Masks, mask substrates, mask-making equipment and image transfer equipment for the manufacture of devices and components as specified in the heading of X.B.I.001, as follows:Note: The term masks refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.Finished masks, reticles and designs therefor, except:Finished masks or reticles for the production of integrated circuits not controlled by 3A001 [(5)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng); orMasks or reticles, having both of the following characteristics:Their design is based on geometries of 2,5 μm or more; andThe design does not include special features to alter the intended use by means of production equipment or «software»;Mask substrates as follows:Hard surface (e.g., chromium, silicon, molybdenum) coated «substrates» (e.g., glass, quartz, sapphire) for the preparation of masks having dimensions exceeding 125 mm x 125 mm; orSubstrates specially designed for X-ray masks;Equipment, other than general purpose computers, specially designed for computer aided design (CAD) of semiconductor devices or integrated circuits;Equipment or machines, as follows, for mask or reticle fabrication:Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2,5 μm in the photoresist on the «substrate»;Mask or reticle fabrication equipment using ion or «laser» beam lithography capable of producing line widths of less than 2,5 μm; orEquipment or holders for altering masks or reticles or adding pellicles to remove defects;Note: X.B.I.001.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before 1 January 1980, or has a performance no better than such equipment.‘Stored program controlled’ equipment for the inspection of masks, reticles or pellicles with:A resolution of 0,25 μm or finer; andA precision of 0,75 μm or finer over a distance in one or two coordinates of 63,5 mm or more;Note: X.B.I.001.b.2.e does not control general purpose scanning electron microscopes except when specially designed and instrumented for automatic pattern inspection.Align and expose equipment for wafer production using photo-optical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:Note: X.B.I.001.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.Production of a pattern size of less than 2,5 μm;Alignment with a precision finer than ±0,25 μm (3 sigma);Machine-to-machine overlay no better than ±0,3 μm; orA light source wavelength shorter than 400 nm;Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2,5 μm;Note: For focused, deflected-beam systems (direct write systems), see X.B.I.001.b.1.j.Equipment using «lasers» for direct write on wafers capable of producing patterns less than 2,5 μm.Equipment for the assembly of integrated circuits, as follows:«Stored program controlled» die bonders having all of the following characteristics:Specially designed for «hybrid integrated circuits»;X-Y stage positioning travel exceeding 37,5 x 37,5 mm; andPlacement accuracy in the X-Y plane of finer than ± 10 μm;«Stored program controlled» equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, specially designed for ceramic microcircuit packages controlled by 3A001 [(6)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) and that have a throughput equal to or more than one package per minute.Note: X.B.I.001.b.3 does not control general purpose resistance type spot welders.Filters for clean rooms capable of providing an air environment of 10 or less particles of 0,3 μm or smaller per 0,02832 m3 and filter materials therefor.
+2. Equipment specially designed for the manufacture of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:
+
+   Note: X.B.I.001.b. also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+   1. Equipment for the processing of materials for the manufacture of devices and components as specified in the heading of X.B.I.001.b, as follows:
+
+      Note: X.B.I.001 does not control quartz furnace tubes, furnace liners, paddles, boats (except specially designed caged boats), bubblers, cassettes or crucibles specially designed for the processing equipment controlled by X.B.I.001.b.1.
+
+      1. Equipment for producing polycrystalline silicon and materials controlled by 3C001 [(3)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng);
+      2. Equipment specially designed for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 [(4)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) except crystal pullers, for which see X.B.I.001.b.1.c below;
+      3. Crystal pullers and furnaces, as follows:
+
+         Note: X.B.I.001.b.1.c does not control diffusion and oxidation furnaces.
+
+         1. Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0,005 m2 per minute;
+         2. «Stored program controlled» crystal pullers having any of the following characteristics:
+
+            1. Rechargeable without replacing the crucible container;
+            2. Capable of operation at pressures above 2,5 x 105 Pa; or
+            3. Capable of pulling crystals of a diameter exceeding 100 mm;
+      4. «Stored program controlled» equipment for epitaxial growth having any of the following characteristics:
+
+         1. Capable of producing silicon layer with a thickness uniform to less than ±2,5 % across a distance of 200 mm or more;
+         2. Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ±3,5 %; or
+         3. Rotation of individual wafers during processing;
+      5. Molecular beam epitaxial growth equipment;
+      6. Magnetically enhanced «sputtering» equipment with specially designed integral load locks capable of transferring wafers in an isolated vacuum environment;
+      7. Equipment specially designed for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:
+
+         1. Patterning capability;
+         2. Beam energy (accelerating voltage) exceeding 200 keV;
+         3. Optimised to operate at a beam energy (accelerating voltage) of less than 10 keV; or
+         4. Capable of high energy oxygen implant into a heated «substrate»;
+      8. «Stored program controlled» equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:
+
+         1. «Batch types» having either of the following:
+
+            1. End-point detection, other than optical emission spectroscopy types; or
+            2. Reactor operational (etching) pressure of 26,66 Pa or less;
+         2. «Single wafer types» having any of the following:
+
+            1. End-point detection, other than optical emission spectroscopy types;
+            2. Reactor operational (etching) pressure of 26,66 Pa or less; or
+            3. Cassette-to-cassette and load locks wafer handling;
+
+         Notes:
+
+         1. «Batch types» refers to machines not specially designed for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates.
+         2. «Single wafer types» refers to machines specially designed for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.
+      9. Chemical vapour deposition (CVD) equipment, e.g., plasma-enhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:
+
+         1. Chemical vapour deposition equipment operating below 105 Pa; or
+         2. PECVD equipment operating either below 60 Pa or having automatic cassette-to-cassette and load lock wafer handling;
+
+         Note: X.B.I.001.b.1.i does not control low pressure chemical vapour deposition (LPCVD) systems or reactive «sputtering» equipment.
+      10. Electron beam systems specially designed or modified for mask making or semiconductor device processing having any of the following characteristics:
+
+          1. Electrostatic beam deflection;
+          2. Shaped, non-Gaussian beam profile;
+          3. Digital-to-analogue conversion rate exceeding 3 MHz;
+          4. Digital-to-analogue conversion accuracy exceeding 12 bit; or
+          5. Target-to-beam position feedback control precision of 1 μm or finer;
+
+          Note: X.B.I.001.b.1.j does not control electron beam deposition systems or general purpose scanning electron microscopes.
+      11. Surface finishing equipment for the processing of semiconductor wafers as follows:
+
+          1. Specially designed equipment for backside processing of wafers thinner than 100 μm and the subsequent separation thereof; or
+          2. Specially designed equipment for achieving a surface roughness of the active surface of a processed wafer with a two-sigma value of 2 μm or less, total indicator reading (TIR);
+
+          Note: X.B.I.001.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.
+      12. Interconnection equipment which includes common single or multiple vacuum chambers specially designed to permit the integration of any equipment controlled by X.B.I.001 into a complete system;
+      13. «Stored program controlled» equipment using «lasers» for the repair or trimming of «monolithic integrated circuits» with either of the following characteristics:
+
+          1. Positioning accuracy less than ± 1 μm; or
+          2. Spot size (kerf width) less than 3 μm.
+
+      Technical Note: For the purpose of X.B.I.001.b.1, «sputtering» is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. ( Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.)
+   2. Masks, mask substrates, mask-making equipment and image transfer equipment for the manufacture of devices and components as specified in the heading of X.B.I.001, as follows:
+
+      Note: The term masks refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.
+
+      1. Finished masks, reticles and designs therefor, except:
+
+         1. Finished masks or reticles for the production of integrated circuits not controlled by 3A001 [(5)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng); or
+         2. Masks or reticles, having both of the following characteristics:
+
+            1. Their design is based on geometries of 2,5 μm or more; and
+            2. The design does not include special features to alter the intended use by means of production equipment or «software»;
+      2. Mask substrates as follows:
+
+         1. Hard surface (e.g., chromium, silicon, molybdenum) coated «substrates» (e.g., glass, quartz, sapphire) for the preparation of masks having dimensions exceeding 125 mm x 125 mm; or
+         2. Substrates specially designed for X-ray masks;
+      3. Equipment, other than general purpose computers, specially designed for computer aided design (CAD) of semiconductor devices or integrated circuits;
+      4. Equipment or machines, as follows, for mask or reticle fabrication:
+
+         1. Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2,5 μm in the photoresist on the «substrate»;
+         2. Mask or reticle fabrication equipment using ion or «laser» beam lithography capable of producing line widths of less than 2,5 μm; or
+         3. Equipment or holders for altering masks or reticles or adding pellicles to remove defects;
+
+            Note: X.B.I.001.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before 1 January 1980, or has a performance no better than such equipment.
+      5. ‘Stored program controlled’ equipment for the inspection of masks, reticles or pellicles with:
+
+         1. A resolution of 0,25 μm or finer; and
+         2. A precision of 0,75 μm or finer over a distance in one or two coordinates of 63,5 mm or more;
+
+         Note: X.B.I.001.b.2.e does not control general purpose scanning electron microscopes except when specially designed and instrumented for automatic pattern inspection.
+      6. Align and expose equipment for wafer production using photo-optical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:
+
+         Note: X.B.I.001.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.
+
+         1. Production of a pattern size of less than 2,5 μm;
+         2. Alignment with a precision finer than ±0,25 μm (3 sigma);
+         3. Machine-to-machine overlay no better than ±0,3 μm; or
+         4. A light source wavelength shorter than 400 nm;
+      7. Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2,5 μm;
+
+         Note: For focused, deflected-beam systems (direct write systems), see X.B.I.001.b.1.j.
+      8. Equipment using «lasers» for direct write on wafers capable of producing patterns less than 2,5 μm.
+   3. Equipment for the assembly of integrated circuits, as follows:
+
+      1. «Stored program controlled» die bonders having all of the following characteristics:
+
+         1. Specially designed for «hybrid integrated circuits»;
+         2. X-Y stage positioning travel exceeding 37,5 x 37,5 mm; and
+         3. Placement accuracy in the X-Y plane of finer than ± 10 μm;
+      2. «Stored program controlled» equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);
+      3. Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, specially designed for ceramic microcircuit packages controlled by 3A001 [(6)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) and that have a throughput equal to or more than one package per minute.
+
+      Note: X.B.I.001.b.3 does not control general purpose resistance type spot welders.
+   4. Filters for clean rooms capable of providing an air environment of 10 or less particles of 0,3 μm or smaller per 0,02832 m3 and filter materials therefor.
 
 Technical Note: For the purpose of X.B.I.001, «stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
 
 X.B.I.002 Equipment for the inspection or testing of electronic components and materials, and specially designed components and accessories therefor.
 
 1. Equipment specially designed for the inspection or testing of electron tubes, optical elements and specially designed components therefor controlled by 3A001 [(7)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) or X.A.I.001;
-2. Equipment specially designed for the inspection or testing of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:Note: X.B.I.002.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.«Stored program controlled» inspection equipment for the automatic detection of defects, errors or contaminants of 0,6 μm or less in or on processed wafers, substrates, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;Note: X.B.I.002.b.1 does not control general purpose scanning electron microscopes, except when specially designed and instrumented for automatic pattern inspection.Specially designed «stored program controlled» measuring and analysis equipment, as follows:Specially designed for the measurement of oxygen or carbon content in semiconductor materials;Equipment for line width measurement with a resolution of 1 μm or finer;Specially designed flatness measurement instruments capable of measuring deviations from flatness of 10 μm or less with a resolution of 1 μm or finer.«Stored program controlled» wafer probing equipment having any of the following characteristics:Positioning accuracy finer than 3,5 μm;Capable of testing devices having more than 68 terminals; orCapable of testing at a frequency exceeding 1 GHz;Test equipment as follows:«Stored program controlled» equipment specially designed for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;Technical Note: Discrete semiconductor devices include photocells and solar cells.«Stored program controlled» equipment specially designed for testing integrated circuits and «electronic assemblies» thereof, capable of functional testing:At a «pattern rate» exceeding 20 MHz; orAt a «pattern rate» exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.Notes: X.B.I.002.b.4.b does not control test equipment specially designed for testing:Memories;Assemblies or a class of «electronic assemblies» for home and entertainment applications; andElectronic components, «electronic assemblies» and integrated circuits not controlled by 3A001 [(8)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) or X.A.I.001 provided such test equipment does not incorporate computing facilities with «user accessible programmability».Technical Note: For purposes of X.B.I.002.b.4.b, «pattern rate» is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.Equipment specially designed for determining the performance of focal-plane arrays at wavelengths of more than 1 200 nm, using «stored program controlled» measurements or computer aided evaluation and having any of the following characteristics:Using scanning light spot diameters of less than 0,12 mm;Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; orDesigned for evaluating arrays capable of creating images with more than 32 x 32 line elements;Electron beam test systems designed for operation at 3 keV or below, or «laser» beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:Stroboscopic capability with either beam blanking or detector strobing;An electron spectrometer for voltage measurements with a resolution of less than 0,5 V; orElectrical tests fixtures for performance analysis of integrated circuits;Note: X.B.I.002.b.5 does not control scanning electron microscopes, except when specially designed and instrumented for non-contactive probing of a powered-up semiconductor device.«Stored program controlled» multifunctional focused ion beam systems specially designed for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:Target-to-beam position feedback control precision of 1 μm or finer; orDigital-to-analogue conversion accuracy exceeding 12 bit;Particle measuring systems employing «lasers» designed for measuring particle size and concentration in air having both of the following characteristics:Capable of measuring particle sizes of 0,2 μm or less at a flow rate of 0,02832 m3 per minute or more; andCapable of characterizing Class 10 clean air or better.
+2. Equipment specially designed for the inspection or testing of semiconductor devices, integrated circuits and «electronic assemblies», as follows, and systems incorporating or having the characteristics of such equipment:
+
+   Note: X.B.I.002.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+   1. «Stored program controlled» inspection equipment for the automatic detection of defects, errors or contaminants of 0,6 μm or less in or on processed wafers, substrates, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;
+
+      Note: X.B.I.002.b.1 does not control general purpose scanning electron microscopes, except when specially designed and instrumented for automatic pattern inspection.
+   2. Specially designed «stored program controlled» measuring and analysis equipment, as follows:
+
+      1. Specially designed for the measurement of oxygen or carbon content in semiconductor materials;
+      2. Equipment for line width measurement with a resolution of 1 μm or finer;
+      3. Specially designed flatness measurement instruments capable of measuring deviations from flatness of 10 μm or less with a resolution of 1 μm or finer.
+   3. «Stored program controlled» wafer probing equipment having any of the following characteristics:
+
+      1. Positioning accuracy finer than 3,5 μm;
+      2. Capable of testing devices having more than 68 terminals; or
+      3. Capable of testing at a frequency exceeding 1 GHz;
+   4. Test equipment as follows:
+
+      1. «Stored program controlled» equipment specially designed for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;
+
+         Technical Note: Discrete semiconductor devices include photocells and solar cells.
+      2. «Stored program controlled» equipment specially designed for testing integrated circuits and «electronic assemblies» thereof, capable of functional testing:
+
+         1. At a «pattern rate» exceeding 20 MHz; or
+         2. At a «pattern rate» exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.
+
+         Notes: X.B.I.002.b.4.b does not control test equipment specially designed for testing:
+
+         1. Memories;
+         2. Assemblies or a class of «electronic assemblies» for home and entertainment applications; and
+         3. Electronic components, «electronic assemblies» and integrated circuits not controlled by 3A001 [(8)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) or X.A.I.001 provided such test equipment does not incorporate computing facilities with «user accessible programmability».
+
+         Technical Note: For purposes of X.B.I.002.b.4.b, «pattern rate» is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.
+      3. Equipment specially designed for determining the performance of focal-plane arrays at wavelengths of more than 1 200 nm, using «stored program controlled» measurements or computer aided evaluation and having any of the following characteristics:
+
+         1. Using scanning light spot diameters of less than 0,12 mm;
+         2. Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; or
+         3. Designed for evaluating arrays capable of creating images with more than 32 x 32 line elements;
+   5. Electron beam test systems designed for operation at 3 keV or below, or «laser» beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:
+
+      1. Stroboscopic capability with either beam blanking or detector strobing;
+      2. An electron spectrometer for voltage measurements with a resolution of less than 0,5 V; or
+      3. Electrical tests fixtures for performance analysis of integrated circuits;
+
+      Note: X.B.I.002.b.5 does not control scanning electron microscopes, except when specially designed and instrumented for non-contactive probing of a powered-up semiconductor device.
+   6. «Stored program controlled» multifunctional focused ion beam systems specially designed for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:
+
+      1. Target-to-beam position feedback control precision of 1 μm or finer; or
+      2. Digital-to-analogue conversion accuracy exceeding 12 bit;
+   7. Particle measuring systems employing «lasers» designed for measuring particle size and concentration in air having both of the following characteristics:
+
+      1. Capable of measuring particle sizes of 0,2 μm or less at a flow rate of 0,02832 m3 per minute or more; and
+      2. Capable of characterizing Class 10 clean air or better.
 
 Technical Note: For the purpose of X.B.I.002, «stored program controlled» is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be «stored program controlled» whether the electronic storage is internal or external to the equipment.
 
@@ -2940,10 +4209,27 @@ X.C.I.001 Positive resists designed for semiconductor lithography specially adju
 X.C.I.002 Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows:
 
 1. PCB composite substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR-6, CEM-1, G-10, etc.);
-2. Multilayer PCB substrates, containing at least one layer of any of the following materials:Aluminium;Polytetrafluoroethylene (PTFE); orCeramic materials (e.g. alumina, titanium oxide, etc.);
-3. Etchant chemicals:Ferric chloride (7705-08-0);Cupric chloride (7447-39-4);Ammonium persulphate (7727-54-0);Sodium persulphate (7775-27-1); orChemical preparations specially designed for etching and containing any of the chemicals included in X.C.I.002.c.1 to X.C.I.002.c.4.Note: X.C.I.002.c does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.I.002.c in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
+2. Multilayer PCB substrates, containing at least one layer of any of the following materials:
+
+   1. Aluminium;
+   2. Polytetrafluoroethylene (PTFE); or
+   3. Ceramic materials (e.g. alumina, titanium oxide, etc.);
+3. Etchant chemicals:
+
+   1. Ferric chloride (7705-08-0);
+   2. Cupric chloride (7447-39-4);
+   3. Ammonium persulphate (7727-54-0);
+   4. Sodium persulphate (7775-27-1); or
+   5. Chemical preparations specially designed for etching and containing any of the chemicals included in X.C.I.002.c.1 to X.C.I.002.c.4.
+
+   Note: X.C.I.002.c does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.I.002.c in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
 4. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm;
-5. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:Aromatic polyimides;Parylenes;Benzocyclobutenes (BCBs); orPolybenzoxazoles.
+5. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:
+
+   1. Aromatic polyimides;
+   2. Parylenes;
+   3. Benzocyclobutenes (BCBs); or
+   4. Polybenzoxazoles.
 
 X.D.I.001 «Software» specially designed for the «development», «production», or «use» of electronic devices or components controlled by X.A.I.001, general purpose electronic equipment controlled by X.A.I.002, or manufacturing and test equipment controlled by X.B.I.001 and X.B.I.002; or «software» specially designed for the «use» of equipment controlled by 3B001.g and 3B001.h [(9)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng).
 
@@ -2962,19 +4248,39 @@ X.A.II.001 Computers, «electronic assemblies» and related equipment, not contr
 Note: The control status of the «digital computers» and related equipment described in X.A.II.001 is determined by the control status of other equipment or systems provided:
 
 1. The «digital computers» or related equipment are essential for the operation of the other equipment or systems;
-2. The «digital computers» or related equipment are not a «principal element» of the other equipment or systems; andN.B.1: The control status of «signal processing» or «image enhancement» equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the «principal element» criterion.N.B.2: For the control status of «digital computers» or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications) [(11)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng).
+2. The «digital computers» or related equipment are not a «principal element» of the other equipment or systems; and
+
+   N.B.1: The control status of «signal processing» or «image enhancement» equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the «principal element» criterion.
+
+   N.B.2: For the control status of «digital computers» or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications) [(11)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng).
 3. The «technology» for the «digital computers» and related equipment is determined by 4E [(12)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng).
 4. Electronic computers and related equipment, and «electronic assemblies» and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 °C);
 5. «Digital computers», including equipment of «signal processing» or «image enhancement», having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS (WT);
-6. «Electronic assemblies» that are specially designed or modified to enhance performance by aggregation of processors, as follows:Designed to be capable of aggregation in configurations of 16 or more processors;Not used;Note 1: X.A.II.001.c applies only to «electronic assemblies» and programmable interconnections with a «APP» not exceeding the limits in X.A.II.001.b, when shipped as unintegrated «electronic assemblies». It does not apply to «electronic assemblies» inherently limited by nature of their design for use as related equipment controlled by X.A.II.001.k.Note 2: X.A.II.001.c does not control any «electronic assembly» specially designed for a product or family of products whose maximum configuration does not exceed the limits of X.A.II.001.b.
+6. «Electronic assemblies» that are specially designed or modified to enhance performance by aggregation of processors, as follows:
+
+   1. Designed to be capable of aggregation in configurations of 16 or more processors;
+   2. Not used;
+
+   Note 1: X.A.II.001.c applies only to «electronic assemblies» and programmable interconnections with a «APP» not exceeding the limits in X.A.II.001.b, when shipped as unintegrated «electronic assemblies». It does not apply to «electronic assemblies» inherently limited by nature of their design for use as related equipment controlled by X.A.II.001.k.
+
+   Note 2: X.A.II.001.c does not control any «electronic assembly» specially designed for a product or family of products whose maximum configuration does not exceed the limits of X.A.II.001.b.
 7. Not used;
 8. Not used;
 9. Equipment for «signal processing» or «image enhancement» having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS WT;
 10. Not used;
 11. Not used;
-12. Equipment containing «terminal interface equipment» exceeding the limits in X.A.III.101;Technical Note: For the purpose of X.A.II.001.i, «terminal interface equipment» means equipment at which information enters or leaves the telecommunication system, e.g. telephone, data device, computer, etc.
-13. Equipment specially designed to provide external interconnection of «digital computers» or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.Note: X.A.II.001.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, «network access controllers» or «communication channel controllers».Technical Note: For the purpose of X.A.II.001.j, «communication channel controllers» is the physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
-14. Hybrid computers and «electronic assemblies» and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:32 channels or more; andA resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more.
+12. Equipment containing «terminal interface equipment» exceeding the limits in X.A.III.101;
+
+    Technical Note: For the purpose of X.A.II.001.i, «terminal interface equipment» means equipment at which information enters or leaves the telecommunication system, e.g. telephone, data device, computer, etc.
+13. Equipment specially designed to provide external interconnection of «digital computers» or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.
+
+    Note: X.A.II.001.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, «network access controllers» or «communication channel controllers».
+
+    Technical Note: For the purpose of X.A.II.001.j, «communication channel controllers» is the physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+14. Hybrid computers and «electronic assemblies» and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:
+
+    1. 32 channels or more; and
+    2. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more.
 
 X.D.II.001 «Program» proof and validation «software», «software» allowing the automatic generation of «source codes», and operating system «software» that are specially designed for «real-time processing» equipment.
 
@@ -3004,10 +4310,108 @@ Note: Category III. Part 1 does not control goods for the personal use of the na
 X.A.III.101 Telecommunication equipment.
 
 1. Any type of telecommunications equipment, not controlled by 5A001.a [(15)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng), specially designed to operate outside the temperature range from 219 K (– 54 °C) to 397 K (124 °C).
-2. Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:Note: Telecommunication transmission equipment:Categorised as follows, or combinations thereof:Radio equipment (e.g., transmitters, receivers and transceivers);Line terminating equipment;Intermediate amplifier equipment;Repeater equipment;Regenerator equipment;Translation encoders (transcoders);Multiplex equipment (statistical mutiplex included);Modulators/demodulators (modems);Transmultiplex equipment (see CCITT Rec. G701);«Stored program controlled» digital crossconnection equipment;«Gateways» and bridges;«Media access units»; andDesigned for use in single or multi-channel communication via any of the following:Wire (line);Coaxial cable;Optical fibre cable;Electromagnetic radiation; orUnderwater acoustic wave propagation.Employing digital techniques, including digital processing of analogue signals, and designed to operate at a «digital transfer rate» at the highest multiplex level exceeding 45 Mbit/s or a «total digital transfer rate» exceeding 90 Mbit/s;Note: X.A.III.101.b.1 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.Modems using the «bandwidth of one voice channel» with a «data signalling rate» exceeding 9 600 bits per second;Being «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port;Being equipment containing any of the following:«Network access controllers» and their related common medium having a «digital transfer rate» exceeding 33 Mbit/s; or«Communication channel controllers» with a digital output having a «data signalling rate» exceeding 64 000 bit/s per channel;Note: If any uncontrolled equipment contains a «network access controller», it cannot have any type of telecommunications interface, except those described in, but not controlled by X.A.III.101.b.4.Employing a «laser» and having any of the following characteristics:A transmission wavelength exceeding 1 000 nm; orEmploying analogue techniques and having a bandwidth exceeding 45 MHz;Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);Employing wavelength division multiplexing techniques; orPerforming «optical amplification»;Radio equipment operating at input or output frequencies exceeding:31 GHz for satellite-earth station applications; or26,5 GHz for other applications;Note: X.A.III.101.b.6 does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26,5 GHz and 31 GHz.Being radio equipment employing any of the following:Quadrature-amplitude-modulation (QAM) techniques above level 4 if the «total digital transfer rate» exceeds 8,5 Mbit/s;QAM techniques above level 16 if the «total digital transfer rate» is equal to or less than 8,5 Mbit/s;Other digital modulation techniques and having a «spectral efficiency» exceeding 3 bit/s/Hz; orOperating in the 1,5 MHz to 87,5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.Notes:X.A.III.101.b.7 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.X.A.III.101.b.7 does not control radio relay equipment for operation in an International Telecommunications Union (ITU) allocated band:Having any of the following:Not exceeding 960 MHz; orWith a «total digital transfer rate» not exceeding 8,5 Mbit/s; andHaving a «spectral efficiency» not exceeding 4 bit/s/Hz.
-3. «Stored program controlled» switching equipment and related signalling systems, having any of the following characteristics, functions or features, and specially designed components and accessories therefor:Note: Statistical multiplexers with digital input and digital output which provide switching are treated as «stored program controlled» switches.«Data (message) switching» equipment or systems designed for «packet-mode operation», «electronic assemblies» and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);Not used;Routing or switching of «datagram» packets;Note: X.A.III.101.c.3 does not control networks restricted to using only «network access controllers» or to «network access controllers» themselves.Not used;Multi-level priority and pre-emption for circuit switching;Note: X.A.III.101.c.5 does not control single-level call preemption.Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralised subscriber data base common to more than one switch;Containing «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port:«Common channel signalling» operating in either non-associated or quasi-associated mode of operation;«Dynamic adaptive routing»;Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:A «data signalling rate» of 64 000 bit/s per channel for a «communications channel controller»; orNote: X.A.III.101.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by X.A.III.101.b.1.A «digital transfer rate» of 33 Mbit/s for a «network access controller» and related common media;Note: X.A.III.101.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in X.A.III.101.c.10.«Optical switching»;Employing «Asynchronous Transfer Mode» («ATM») techniques.
+2. Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:
+
+   Note: Telecommunication transmission equipment:
+
+   - Categorised as follows, or combinations thereof:
+
+     1. Radio equipment (e.g., transmitters, receivers and transceivers);
+     2. Line terminating equipment;
+     3. Intermediate amplifier equipment;
+     4. Repeater equipment;
+     5. Regenerator equipment;
+     6. Translation encoders (transcoders);
+     7. Multiplex equipment (statistical mutiplex included);
+     8. Modulators/demodulators (modems);
+     9. Transmultiplex equipment (see CCITT Rec. G701);
+     10. «Stored program controlled» digital crossconnection equipment;
+     11. «Gateways» and bridges;
+     12. «Media access units»; and
+   - Designed for use in single or multi-channel communication via any of the following:
+
+     1. Wire (line);
+     2. Coaxial cable;
+     3. Optical fibre cable;
+     4. Electromagnetic radiation; or
+     5. Underwater acoustic wave propagation.
+   - Employing digital techniques, including digital processing of analogue signals, and designed to operate at a «digital transfer rate» at the highest multiplex level exceeding 45 Mbit/s or a «total digital transfer rate» exceeding 90 Mbit/s;
+
+     Note: X.A.III.101.b.1 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.
+   - Modems using the «bandwidth of one voice channel» with a «data signalling rate» exceeding 9 600 bits per second;
+   - Being «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port;
+   - Being equipment containing any of the following:
+
+     1. «Network access controllers» and their related common medium having a «digital transfer rate» exceeding 33 Mbit/s; or
+     2. «Communication channel controllers» with a digital output having a «data signalling rate» exceeding 64 000 bit/s per channel;
+
+     Note: If any uncontrolled equipment contains a «network access controller», it cannot have any type of telecommunications interface, except those described in, but not controlled by X.A.III.101.b.4.
+   - Employing a «laser» and having any of the following characteristics:
+
+     1. A transmission wavelength exceeding 1 000 nm; or
+     2. Employing analogue techniques and having a bandwidth exceeding 45 MHz;
+     3. Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
+     4. Employing wavelength division multiplexing techniques; or
+     5. Performing «optical amplification»;
+   - Radio equipment operating at input or output frequencies exceeding:
+
+     1. 31 GHz for satellite-earth station applications; or
+     2. 26,5 GHz for other applications;
+
+     Note: X.A.III.101.b.6 does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26,5 GHz and 31 GHz.
+   - Being radio equipment employing any of the following:
+
+     1. Quadrature-amplitude-modulation (QAM) techniques above level 4 if the «total digital transfer rate» exceeds 8,5 Mbit/s;
+     2. QAM techniques above level 16 if the «total digital transfer rate» is equal to or less than 8,5 Mbit/s;
+     3. Other digital modulation techniques and having a «spectral efficiency» exceeding 3 bit/s/Hz; or
+     4. Operating in the 1,5 MHz to 87,5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.
+
+     Notes:
+
+     1. X.A.III.101.b.7 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.
+     2. X.A.III.101.b.7 does not control radio relay equipment for operation in an International Telecommunications Union (ITU) allocated band:
+
+        1. Having any of the following:
+
+           1. Not exceeding 960 MHz; or
+           2. With a «total digital transfer rate» not exceeding 8,5 Mbit/s; and
+        2. Having a «spectral efficiency» not exceeding 4 bit/s/Hz.
+3. «Stored program controlled» switching equipment and related signalling systems, having any of the following characteristics, functions or features, and specially designed components and accessories therefor:
+
+   Note: Statistical multiplexers with digital input and digital output which provide switching are treated as «stored program controlled» switches.
+
+   1. «Data (message) switching» equipment or systems designed for «packet-mode operation», «electronic assemblies» and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
+   2. Not used;
+   3. Routing or switching of «datagram» packets;
+
+      Note: X.A.III.101.c.3 does not control networks restricted to using only «network access controllers» or to «network access controllers» themselves.
+   4. Not used;
+   5. Multi-level priority and pre-emption for circuit switching;
+
+      Note: X.A.III.101.c.5 does not control single-level call preemption.
+   6. Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralised subscriber data base common to more than one switch;
+   7. Containing «stored program controlled» digital cross connect equipment with «digital transfer rate» exceeding 8,5 Mbit/s per port:
+   8. «Common channel signalling» operating in either non-associated or quasi-associated mode of operation;
+   9. «Dynamic adaptive routing»;
+   10. Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:
+
+       1. A «data signalling rate» of 64 000 bit/s per channel for a «communications channel controller»; or
+
+          Note: X.A.III.101.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by X.A.III.101.b.1.
+       2. A «digital transfer rate» of 33 Mbit/s for a «network access controller» and related common media;
+
+       Note: X.A.III.101.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in X.A.III.101.c.10.
+   11. «Optical switching»;
+   12. Employing «Asynchronous Transfer Mode» («ATM») techniques.
 4. Optical fibres and optical fibre cables of more than 50 m in length designed for single mode operation;
-5. Centralised network control having all of the following characteristics:Receives data from the nodes; andProcess these data in order to provide control of traffic not requiring operator decisions, and thereby performing «dynamic adaptive routing»;Note 1: X.A.III.101.e does not include cases of routing decisions taken on predefined information.Note 2: X.A.III.101.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
+5. Centralised network control having all of the following characteristics:
+
+   1. Receives data from the nodes; and
+   2. Process these data in order to provide control of traffic not requiring operator decisions, and thereby performing «dynamic adaptive routing»;
+
+   Note 1: X.A.III.101.e does not include cases of routing decisions taken on predefined information.
+
+   Note 2: X.A.III.101.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
 6. Phased array antennas, operating above 10,5 GHz, containing active elements and distributed components, and designed to permit electronic control of beam shaping and pointing, except for landing systems with instruments meeting International Civil Aviation Organization (ICAO) standards (microwave landing systems (MLS));
 7. Mobile communications equipment other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), «electronic assemblies» and components therefor;
 8. Radio relay communications equipment designed for use at frequencies equal to or exceeding 19,7 GHz and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821); or
@@ -3043,7 +4447,10 @@ X.D.III.101 «Software» specially designed or modified for the «development»,
 
 X.E.III.101 «Technology» for the «development», «production» or «use» of equipment controlled by X.A.III.101 or X.B.III.101, or «software» controlled by X.D.III.101, and other «technologies» as follows:
 
-1. Specific «technologies» as follows:«Technology» for the processing and application of coatings to optical fibre specially designed to make it suitable for underwater use;«Technology» for the «development» of equipment employing «Synchronous Digital Hierarchy» («SDH») or «Synchronous Optical Network» («SONET») techniques.
+1. Specific «technologies» as follows:
+
+   1. «Technology» for the processing and application of coatings to optical fibre specially designed to make it suitable for underwater use;
+   2. «Technology» for the «development» of equipment employing «Synchronous Digital Hierarchy» («SDH») or «Synchronous Optical Network» («SONET») techniques.
 
 Technical Note: For the purpose of X.E.III.101:
 
@@ -3079,7 +4486,20 @@ X.A.IV.001 Marine or terrestrial acoustic equipment, capable of detecting or loc
 
 X.A.IV.002 Optical Sensors as follows:
 
-1. Image intensifier tubes and specially designed components therefor, as follows:Image intensifier tubes having all the following:A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; andHaving any of the following:An S-20, S-25 or multialkali photocathode; orA GaAs or GaInAs photocathode;Specially designed microchannel plates having both of the following characteristics:15 000 or more hollow tubes per plate; andHole pitch (centre-to-centre spacing) of less than 25 μm.
+1. Image intensifier tubes and specially designed components therefor, as follows:
+
+   1. Image intensifier tubes having all the following:
+
+      1. A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;
+      2. A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; and
+      3. Having any of the following:
+
+         1. An S-20, S-25 or multialkali photocathode; or
+         2. A GaAs or GaInAs photocathode;
+   2. Specially designed microchannel plates having both of the following characteristics:
+
+      1. 15 000 or more hollow tubes per plate; and
+      2. Hole pitch (centre-to-centre spacing) of less than 25 μm.
 2. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics listed in X.A.IV.002.a.1.
 
 X.A.IV.003 Cameras as follows:
@@ -3091,27 +4511,102 @@ X.A.IV.004 Optics as follows:
 
 Note: X.A.IV.004 does not control optical filters with fixed air gaps or Lyot-type filters.
 
-1. Optical filters:For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90 % or more; orBandwidths equal to or less than 0,1 nm FWHI and peak transmission of 50 % or more;For wavelengths longer than 250 nm, and having all of the following:Tunable over a spectral range of 500 nm or more;Instantaneous optical bandpass of 1,25 nm or less;Wavelength resettable within 0,1 ms to an accuracy of 1 nm or better within the tunable spectral range; andA single peak transmission of 91 % or more;Optical opacity switches (filters) with a field of view of 30 o or wider and a response time equal to or less than 1 ns;
+1. Optical filters:
+
+   1. For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:
+
+      1. Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90 % or more; or
+      2. Bandwidths equal to or less than 0,1 nm FWHI and peak transmission of 50 % or more;
+   2. For wavelengths longer than 250 nm, and having all of the following:
+
+      1. Tunable over a spectral range of 500 nm or more;
+      2. Instantaneous optical bandpass of 1,25 nm or less;
+      3. Wavelength resettable within 0,1 ms to an accuracy of 1 nm or better within the tunable spectral range; and
+      4. A single peak transmission of 91 % or more;
+   3. Optical opacity switches (filters) with a field of view of 30 o or wider and a response time equal to or less than 1 ns;
 2. «Fluoride fibre» cable, or optical fibres therefor, having an attenuation of less than 4 dB/km in the wavelength range exceeding 1 000 nm but not exceeding 3 000 nm;
 
 Technical Note: For the purpose of X.A.IV.004.b «Fluoride fibres» are fibres manufactured from bulk fluoride compounds.
 
 X.A.IV.005 «Lasers» as follows:
 
-1. Carbon dioxide (CO2) «lasers» having any of the following:A CW output power exceeding 10 kW;A pulsed output with a «pulse duration» exceeding 10 μs; andAn average output power exceeding 10 kW; orA pulsed «peak power» exceeding 100 kW; orA pulsed output with a «pulse duration» equal to or less than 10 μs; andA pulse energy exceeding 5 J per pulse and «peak power» exceeding 2,5 kW; orAn average output power exceeding 2,5 kW;
-2. Semiconductor lasers, as follows:Individual, single-transverse mode semiconductor «lasers» having:An average output power exceeding 100 mW; orA wavelength exceeding 1 050 nm;Individual, multiple-transverse mode semiconductor «lasers», or arrays of individual semiconductor «lasers», having a wave-length exceeding 1 050 nm;
+1. Carbon dioxide (CO2) «lasers» having any of the following:
+
+   1. A CW output power exceeding 10 kW;
+   2. A pulsed output with a «pulse duration» exceeding 10 μs; and
+
+      1. An average output power exceeding 10 kW; or
+      2. A pulsed «peak power» exceeding 100 kW; or
+   3. A pulsed output with a «pulse duration» equal to or less than 10 μs; and
+
+      1. A pulse energy exceeding 5 J per pulse and «peak power» exceeding 2,5 kW; or
+      2. An average output power exceeding 2,5 kW;
+2. Semiconductor lasers, as follows:
+
+   1. Individual, single-transverse mode semiconductor «lasers» having:
+
+      1. An average output power exceeding 100 mW; or
+      2. A wavelength exceeding 1 050 nm;
+   2. Individual, multiple-transverse mode semiconductor «lasers», or arrays of individual semiconductor «lasers», having a wave-length exceeding 1 050 nm;
 3. Ruby «lasers» having an output energy exceeding 20 J per pulse;
-4. Non-«tunable» «pulsed lasers» having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:A «pulse duration» equal to or exceeding 1 ns but not exceeding 1 μs, and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 20 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30W;A «peak power» exceeding 200 MW; orAn «average output power» exceeding 50 W; orA «pulse duration» exceeding 1 μs and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 20 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; orAn «average output power» exceeding 500 W;
-5. Non-«tunable» continuous wave «(CW) lasers», having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:A single transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; orAn «average output power» exceeding 50 W; orA multiple transverse mode output and having any of the following:A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; orAn «average output power» exceeding 500 W;Note: X.A.IV.005.e.2.b does not control multiple transverse mode, industrial «lasers» with output power less than or equal to 2 kW with a total mass greater than 1 200kg. For the purpose of this note, total mass includes all components required to operate the «laser», e.g., «laser», power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
-6. Non-«tunable» «lasers», having a wavelength exceeding 1 400 nm, but not exceeding 1 555 nm and having any of the following:An output energy exceeding 100 mJ per pulse and a pulsed «peak power» exceeding 1 W; orAn average or CW output power exceeding 1 W;
+4. Non-«tunable» «pulsed lasers» having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+   1. A «pulse duration» equal to or exceeding 1 ns but not exceeding 1 μs, and having any of the following:
+
+      1. A single transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+         2. An «average output power» exceeding 20 W; or
+      2. A multiple transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30W;
+         2. A «peak power» exceeding 200 MW; or
+         3. An «average output power» exceeding 50 W; or
+   2. A «pulse duration» exceeding 1 μs and having any of the following:
+
+      1. A single transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+         2. An «average output power» exceeding 20 W; or
+      2. A multiple transverse mode output and having any of the following:
+
+         1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; or
+         2. An «average output power» exceeding 500 W;
+5. Non-«tunable» continuous wave «(CW) lasers», having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+   1. A single transverse mode output and having any of the following:
+
+      1. A «wall-plug efficiency» exceeding 12 % and an «average output power» exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+      2. An «average output power» exceeding 50 W; or
+   2. A multiple transverse mode output and having any of the following:
+
+      1. A «wall-plug efficiency» exceeding 18 % and an «average output power» exceeding 30 W; or
+      2. An «average output power» exceeding 500 W;
+
+         Note: X.A.IV.005.e.2.b does not control multiple transverse mode, industrial «lasers» with output power less than or equal to 2 kW with a total mass greater than 1 200kg. For the purpose of this note, total mass includes all components required to operate the «laser», e.g., «laser», power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
+6. Non-«tunable» «lasers», having a wavelength exceeding 1 400 nm, but not exceeding 1 555 nm and having any of the following:
+
+   1. An output energy exceeding 100 mJ per pulse and a pulsed «peak power» exceeding 1 W; or
+   2. An average or CW output power exceeding 1 W;
 7. Free electron «lasers».
 
 Technical Note: For the purpose of X.A.IV.005 «Wall-plug efficiency» is defined as the ratio of «laser» output power (or «average output power») to total electrical input power required to operate the «laser», including the power supply/conditioning and thermal conditioning/heat exchanger.
 
 X.A.IV.006 «Magnetometers», «Superconductive» electromagnetic sensors, and specially designed components therefor, as follows:
 
-1. «Magnetometers», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), having a «sensitivity» lower (better) than 1,0 nT (rms) per square root Hz.Technical Note: For the purposes of X.A.IV.006.a, «sensitivity» (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
-2. «Superconductive» electromagnetic sensors, components manufactured from «superconductive» materials:Designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents (including Josephson effect devices or «superconductive» quantum interference devices (SQUIDS));Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; andHaving any of the following characteristics:Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;Designed to operate with a magnetic field slew rate exceeding 1 x 10 6 magnetic flux quanta per second;Designed to function without magnetic shielding in the earth’s ambient magnetic field; orHaving a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K.
+1. «Magnetometers», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), having a «sensitivity» lower (better) than 1,0 nT (rms) per square root Hz.
+
+   Technical Note: For the purposes of X.A.IV.006.a, «sensitivity» (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
+2. «Superconductive» electromagnetic sensors, components manufactured from «superconductive» materials:
+
+   1. Designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents (including Josephson effect devices or «superconductive» quantum interference devices (SQUIDS));
+   2. Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and
+   3. Having any of the following characteristics:
+
+      1. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;
+      2. Designed to operate with a magnetic field slew rate exceeding 1 x 10 6 magnetic flux quanta per second;
+      3. Designed to function without magnetic shielding in the earth’s ambient magnetic field; or
+      4. Having a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K.
 
 X.A.IV.007 Gravity meters (gravimeters) for ground use, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows:
 
@@ -3122,7 +4617,12 @@ X.A.IV.008 Radar systems, equipment and major components, other than those speci
 
 1. Airborne radar equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), and specially designed components therefor;
 2. «Space-qualified» «laser» radar or Light Detection and Ranging (LIDAR) equipment specially designed for surveying or for meteorological observation;
-3. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:Operates at a frequency of 94 GHz;An average output power of less than 20 mW;Radar beam width of 1 degree; andOperating range equal to or greater than 1 500 m.
+3. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:
+
+   1. Operates at a frequency of 94 GHz;
+   2. An average output power of less than 20 mW;
+   3. Radar beam width of 1 degree; and
+   4. Operating range equal to or greater than 1 500 m.
 
 Technical Notes:
 
@@ -3137,7 +4637,10 @@ X.A.IV.009 Specific processing equipment, as follows:
 
 X.B.IV.001 Equipment, including tools, dies, fixtures or gauges, and other specially designed components and accessories therefor, specially designed or modified for any of the following:
 
-1. For the manufacture or inspection of:Free electron «laser» magnet wigglers;Free electron «laser» photo injectors;
+1. For the manufacture or inspection of:
+
+   1. Free electron «laser» magnet wigglers;
+   2. Free electron «laser» photo injectors;
 2. For the adjustment, to required tolerances, of the longitudinal magnetic field of free electron «lasers».
 
 X.C.IV.001 Optical sensing fibres that are modified structurally to have a «beat length» of less than 500 mm (high birefringence) or optical sensor materials not described in 6C002.b [(19)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) and having a zinc content of equal to or more than 6 % by «mole fraction».
@@ -3149,7 +4652,12 @@ Technical Note: For the purpose of X.C.IV.001:
 
 X.C.IV.002 Optical materials, as follows:
 
-1. Low optical absorption materials, as follows:Bulk fluoride compounds containing ingredients with a purity of 99,999 % or better; orNote: X.C.IV.002.a.1 controls fluorides of zirconium or aluminium and variants.Bulk fluoride glass made from compounds controlled by 6C004.e.1 [(20)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng);
+1. Low optical absorption materials, as follows:
+
+   1. Bulk fluoride compounds containing ingredients with a purity of 99,999 % or better; or
+
+      Note: X.C.IV.002.a.1 controls fluorides of zirconium or aluminium and variants.
+   2. Bulk fluoride glass made from compounds controlled by 6C004.e.1 [(20)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng);
 2. «Optical fibre preforms» made from bulk fluoride compounds containing ingredients with a purity of 99,999 % or better, specially designed for the manufacture of «fluoride fibres» controlled by X.A.IV.004.b.
 
 Technical Note: For the purpose of X.C.IV.002:
@@ -3173,11 +4681,20 @@ X.E.IV.002 «Technology» for the «development» or «production» of equipment
 
 X.E.IV.003 Other «technology» as follows:
 
-1. Optical fabrication technologies for serially producing optical components at a rate exceeding 10 m2 of surface area per year on any single spindle and having all of the following:Area exceeding 1 m2; andSurface figure exceeding λ/10 (rms) at the designed wavelength;
+1. Optical fabrication technologies for serially producing optical components at a rate exceeding 10 m2 of surface area per year on any single spindle and having all of the following:
+
+   1. Area exceeding 1 m2; and
+   2. Surface figure exceeding λ/10 (rms) at the designed wavelength;
 2. «Technology» for optical filters with a bandwidth equal to or less than 10 nm, a field of view (FOV) exceeding 40 o and a resolution exceeding 0,75 line pairs per milliradian;
 3. «Technology» for the «development» or «production» of cameras controlled by X.A.IV.003;
-4. «Technology» «required» for the «development» or «production» of non-triaxial fluxgate «magnetometers» or non-triaxial fluxgate «magnetometer» systems, having any of the following:«Sensitivity» lower (better) than 0,05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or«Sensitivity» lower (better) than 1 x 10 -3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
-5. «Technology» «required» for the «development» or «production» of infrared up-conversion devices having all of the following:A response in the wavelength range exceeding 700 nm but not exceeding 1 500 nm; andA combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
+4. «Technology» «required» for the «development» or «production» of non-triaxial fluxgate «magnetometers» or non-triaxial fluxgate «magnetometer» systems, having any of the following:
+
+   1. «Sensitivity» lower (better) than 0,05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or
+   2. «Sensitivity» lower (better) than 1 x 10 -3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
+5. «Technology» «required» for the «development» or «production» of infrared up-conversion devices having all of the following:
+
+   1. A response in the wavelength range exceeding 700 nm but not exceeding 1 500 nm; and
+   2. A combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
 
 Technical Note: For the purposes of X.E.IV.003, «sensitivity» (or noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
 
@@ -3199,16 +4716,30 @@ X.E.V.001 «Technology», other than specified in the CML or in [Regulation (EU)
 
 X.A.VI.001 Vessels, marine systems or equipment, and specially designed components therefor, components and accessories as follows:
 
-1. Underwater vision systems, as follows:Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and specially designed or modified for remote operation with a submersible vehicle; orUnderwater television cameras having a limiting resolution when measured in air of more than 700 lines;Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
+1. Underwater vision systems, as follows:
+
+   1. Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and specially designed or modified for remote operation with a submersible vehicle; or
+   2. Underwater television cameras having a limiting resolution when measured in air of more than 700 lines;
+
+   Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
 2. Photographic still cameras specially designed or modified for underwater use, having a film format of 35 mm or larger, and having autofocusing or remote focusing specially designed for underwater use;
 3. Stroboscopic light systems, specially designed or modified for underwater use, capable of a light output energy of more than 300 J per flash;
 4. Other underwater camera equipment, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-5. Marine boilers designed to have any of the following characteristics:Heat release rate (at maximum rating) equal to or in excess of 1 966,4 kW/m 3 of furnace volume; orRatio of steam generated in kilogram per hour (at maximum rating) to the dry weight of the boiler in kilograms equal to or in excess of 37,6;
-6. Vessels (surface or underwater), including inflatable boats, and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);Note: X.A.VI.001.f does not control vessels on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
+5. Marine boilers designed to have any of the following characteristics:
+
+   1. Heat release rate (at maximum rating) equal to or in excess of 1 966,4 kW/m 3 of furnace volume; or
+   2. Ratio of steam generated in kilogram per hour (at maximum rating) to the dry weight of the boiler in kilograms equal to or in excess of 37,6;
+6. Vessels (surface or underwater), including inflatable boats, and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
+
+   Note: X.A.VI.001.f does not control vessels on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
 7. Marine engines (both inboard and outboard) and submarine engines and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
 8. Self-contained underwater breathing apparatus (scuba gear) and accessories therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
-9. Life jackets, inflation cartridges, dive compasses and dive computers;Note : X.A.VI.001.i does not control goods for the personal use of the natural persons.
-10. Underwater lights and propulsion equipment; orNote: X.A.VI.001.j does not control goods for the personal use of the natural persons.
+9. Life jackets, inflation cartridges, dive compasses and dive computers;
+
+   Note : X.A.VI.001.i does not control goods for the personal use of the natural persons.
+10. Underwater lights and propulsion equipment; or
+
+    Note: X.A.VI.001.j does not control goods for the personal use of the natural persons.
 11. Air compressors and filtration system specially designed for filling air cylinders.
 
 X.D.VI.001 «Software» specially designed or modified for the «development», «production» or «use» of equipment controlled by X.A.VI.001.
@@ -3295,13 +4826,22 @@ X.A.VIII.003 Microscopes, related equipment and detectors as follows:
 3. Transmission electron microscopes (TEM);
 4. Atomic force microscopes (AFM);
 5. Scanning force microscopes (SFM);
-6. Equipment and detectors, specially designed for use with the microscopes specified in X.A.VIII.003.a to X.A.VIII.0003.e, employing any of the following material analysis techniques:X-ray photo spectroscopy (XPS);Energy-dispersive X-ray spectroscopy (EDX, EDS); orElectron spectroscopy for chemical analysis (ESCA).
+6. Equipment and detectors, specially designed for use with the microscopes specified in X.A.VIII.003.a to X.A.VIII.0003.e, employing any of the following material analysis techniques:
+
+   1. X-ray photo spectroscopy (XPS);
+   2. Energy-dispersive X-ray spectroscopy (EDX, EDS); or
+   3. Electron spectroscopy for chemical analysis (ESCA).
 
 X.A.VIII.004 Collector equipment for metal ores in deep seabed.
 
 X.A.VIII.005 Manufacturing equipment and machine tools as follows:
 
-1. Additive manufacturing equipment for the «production» of metal parts;Note: X.A.VIII.005.a only applies to the following systems:Powder-bed systems using selective laser melting (SLM), laser cusing, direct metal laser sintering (DMLS) or electron beam melting (EBM); orPowder-fed systems using laser cladding, direct energy deposition or laser metal deposition.
+1. Additive manufacturing equipment for the «production» of metal parts;
+
+   Note: X.A.VIII.005.a only applies to the following systems:
+
+   1. Powder-bed systems using selective laser melting (SLM), laser cusing, direct metal laser sintering (DMLS) or electron beam melting (EBM); or
+   2. Powder-fed systems using laser cladding, direct energy deposition or laser metal deposition.
 2. Additive manufacturing equipment for «energetic materials», including equipment using ultrasonic extrusion;
 3. Vat photopolymerization (VVP) additive manufacturing equipment using stereo lithography (SLA) or digital light processing (DLP).
 
@@ -3352,7 +4892,11 @@ Note: X.A.VIII.017 applies to restraint devices used in law enforcement activiti
 X.A.VIII.018 Oil and gas exploration equipment, «software», and data, as follows (see List of Items Controlled):
 
 1. Not used.
-2. Hydraulic fracturing items, as follows:Hydraulic fracturing design and analysis «software» and data;Hydraulic fracturing «proppant», «fracking fluid», and chemical additives therefor; orHigh pressure pumps.
+2. Hydraulic fracturing items, as follows:
+
+   1. Hydraulic fracturing design and analysis «software» and data;
+   2. Hydraulic fracturing «proppant», «fracking fluid», and chemical additives therefor; or
+   3. High pressure pumps.
 
 Technical Note: A «proppant» is a solid material, typically treated sand or man-made ceramic materials, designed to keep an induced hydraulic fracture open, during or following a fracturing treatment. It is added to a «fracking fluid» which may vary in composition depending on the type of fracturing used, and can be gel, foam or slickwater-based.
 
@@ -3364,23 +4908,74 @@ X.A.VIII.019 Specific processing equipment, as follows (see List of Items Contro
 X.A.VIII.020 Weapons and devices designed for the purpose of riot control or self-protection, as follows:
 
 1. Portable electric discharge weapons that can target only one individual each time an electric shock is administered, including but not limited to electric shock batons, electric shock shields, stun guns and electric shock dart guns;
-2. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item X.A.VIII.020.a; orNote: The following goods are considered to be essential components:The unit producing an electric shock;The switch, whether or not on a remote control; andThe electrodes or, where applicable, the wires through which the electrical shock is to be administered.
+2. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item X.A.VIII.020.a; or
+
+   Note: The following goods are considered to be essential components:
+
+   1. The unit producing an electric shock;
+   2. The switch, whether or not on a remote control; and
+   3. The electrodes or, where applicable, the wires through which the electrical shock is to be administered.
 3. Fixed or mountable electric discharge weapons that cover a wide area and can target multiple individuals with electrical shocks.
 
 X.A.VIII.021 Weapons and equipment disseminating incapacitating or irritating chemical substances for the purpose of riot control or self-protection and certain related substances, as follows:
 
-1. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated;Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.Note 2: This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user’s own personal protection.Note 3: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+1. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated;
+
+   Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+   Note 2: This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user’s own personal protection.
+
+   Note 3: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
 2. Pelargonic acid vanillylamide (PAVA) (CAS 2444-46-4);
 3. Oleoresin capsicum (OC) (CAS 8023-77-6);
-4. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol, 1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents;Note 1: This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.Note 2: This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law.
-5. Fixed equipment for the dissemination of incapacitating or irritating chemical substances, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote control system;Note: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
-6. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building;Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.Note 2: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
-7. Other irritating chemical substances, and mixtures thereof containing at least 0,3 % by weight of the active substance, as follows:Dibenzo[b,f][1,4]oxazepine (CR) (CAS 257-07-8);8-Methyl-N-vanillyl-trans-6-nonenamide (capsaicin) (CAS 404-86-4);8-Methyl-N-vanillylnonamide (dihydrocapsaicin) (CAS 19408-84-5);N-Vanillyl-9-methyldec-7-(E)-enamide (homocapsaicin) (CAS 58493-48-4);N-Vanillyl-9-methyldecanamide (homodihydrocapsaicin) (CAS 20279-06-5);N-Vanillyl-7-methyloctanamide (nordihydrocapsaicin) (CAS 28789-35-7);4-Nonanolylmorpholine (MPA) (CAS 5299-64-9);Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9);N,N'-Bis(isopropyl)ethylenediimine; orN,N'-Bis(tert-butyl)ethylenediimine.
-8. Chemical precursors to Riot Control Agents (RCAs) or irritating substances, as follows:Malononitril (CAS 109-77-3);2-Chlorobenzaldehyde (CAS 89-98-5);2-Chlorobenzyl alcohol (CAS 17849-38-6);2-Chlorobenzylamine (CAS 89-97-4);1-Chloro-2-(dimethoxymethyl)-benzene (CAS 70380-66-4);Acetophenone (CAS 98-86-2);Chloroacetyl chloride (CAS 79-04-9); or2-Aminophenol (CAS 95-55-6).
+4. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol, 1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents;
+
+   Note 1: This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.
+
+   Note 2: This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law.
+5. Fixed equipment for the dissemination of incapacitating or irritating chemical substances, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote control system;
+
+   Note: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+6. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building;
+
+   Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+   Note 2: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+7. Other irritating chemical substances, and mixtures thereof containing at least 0,3 % by weight of the active substance, as follows:
+
+   1. Dibenzo[b,f][1,4]oxazepine (CR) (CAS 257-07-8);
+   2. 8-Methyl-N-vanillyl-trans-6-nonenamide (capsaicin) (CAS 404-86-4);
+   3. 8-Methyl-N-vanillylnonamide (dihydrocapsaicin) (CAS 19408-84-5);
+   4. N-Vanillyl-9-methyldec-7-(E)-enamide (homocapsaicin) (CAS 58493-48-4);
+   5. N-Vanillyl-9-methyldecanamide (homodihydrocapsaicin) (CAS 20279-06-5);
+   6. N-Vanillyl-7-methyloctanamide (nordihydrocapsaicin) (CAS 28789-35-7);
+   7. 4-Nonanolylmorpholine (MPA) (CAS 5299-64-9);
+   8. Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9);
+   9. N,N'-Bis(isopropyl)ethylenediimine; or
+   10. N,N'-Bis(tert-butyl)ethylenediimine.
+8. Chemical precursors to Riot Control Agents (RCAs) or irritating substances, as follows:
+
+   1. Malononitril (CAS 109-77-3);
+   2. 2-Chlorobenzaldehyde (CAS 89-98-5);
+   3. 2-Chlorobenzyl alcohol (CAS 17849-38-6);
+   4. 2-Chlorobenzylamine (CAS 89-97-4);
+   5. 1-Chloro-2-(dimethoxymethyl)-benzene (CAS 70380-66-4);
+   6. Acetophenone (CAS 98-86-2);
+   7. Chloroacetyl chloride (CAS 79-04-9); or
+   8. 2-Aminophenol (CAS 95-55-6).
 
 X.A.VIII.022 Products which could be used for the execution of human beings by means of lethal injection, as follows:
 
-1. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to:Amobarbital (CAS 57-43-2);Amobarbital sodium salt (CAS 64-43-7);Pentobarbital (CAS 76-74-4);Pentobarbital sodium salt (CAS 57-33-0);Secobarbital (CAS 76-73-3);Secobarbital sodium salt (CAS 309-43-3);Thiopental (CAS 76-75-5); orThiopental sodium salt (CAS 71-73-8), also known as thiopentone sodium;
+1. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to:
+
+   1. Amobarbital (CAS 57-43-2);
+   2. Amobarbital sodium salt (CAS 64-43-7);
+   3. Pentobarbital (CAS 76-74-4);
+   4. Pentobarbital sodium salt (CAS 57-33-0);
+   5. Secobarbital (CAS 76-73-3);
+   6. Secobarbital sodium salt (CAS 309-43-3);
+   7. Thiopental (CAS 76-75-5); or
+   8. Thiopental sodium salt (CAS 71-73-8), also known as thiopentone sodium;
 2. Products containing one of the anaesthetic agents listed under X.A.VIII.022.a.
 
 X.A.VIII.023 Nettings, canopies, tents, blankets, and apparel (including tactical clothing, footwear, vests, carrying systems, and related accessories), specially designed or suitable for use in military combat, field operations, or for camouflage purposes.
@@ -3453,7 +5048,11 @@ X.C.VIII.005 Precursors and constituent chemicals for propellants, and related a
 5. Hydroxy Terminated Polyether (HTPE);
 6. Hydroxy Terminated Caprolactone Ether (HTCE);
 7. Methyl trichlorosilane (CAS 75-79-6);
-8. Auxiliary agents as follows:Ethylenediaminetetraacetic acid (EDTA) (CAS 60-00-4);Disodium salt of EDTA (CAS 139-33-3 and CAS 6381-92-6); orTetrasodium salt of EDTA (CAS 64-02-8). Technical Note: This item refers to pure substance and any mixture containing at least 50 % of one of the chemicals mentioned above.’
+8. Auxiliary agents as follows:
+
+   1. Ethylenediaminetetraacetic acid (EDTA) (CAS 60-00-4);
+   2. Disodium salt of EDTA (CAS 139-33-3 and CAS 6381-92-6); or
+   3. Tetrasodium salt of EDTA (CAS 64-02-8). Technical Note: This item refers to pure substance and any mixture containing at least 50 % of one of the chemicals mentioned above.’
 
 Technical Note:
 
@@ -3513,8 +5112,144 @@ X.B.IX.001 Specific processing equipment, other than those specified in the CML 
 
 X.C.IX.001 Separate chemically defined compounds according to Note 1 to Chapters 28 and 29 of the Combined Nomenclature:
 
-1. In concentrations of 95 % weight or greater, as follows:Ethylene dichloride (CAS 107-06-2);Nitromethane (CAS 75-52-5);Picric acid (CAS 88-89-1);Aluminium chloride (CAS 7446-70-0);Arsenic (CAS 7440-38-2);Arsenic trioxide (CAS 1327-53-3);Bis(2-chloroethyl)ethylamine hydrochloride (CAS 3590-07-6);Bis(2-chloroethyl)methylamine hydrochloride (CAS 55-86-7);Tris(2-chloroethyl)amine hydrochloride (CAS 817-09-4);Tributylphosphite (CAS 102-85-2);Isocyanatomethane (CAS 624-83-9);Quinaldine (CAS 91-63-4);2-bromochloroethane (CAS 107-04-0);Benzil (CAS 134-81-6);Diethyl ether (CAS 60-29-7);Dimethyl ether (CAS 115-10-6);Dimethylaminoethanol (CAS 108-01-0);2-methoxyethanol (CAS 109-86-4);Butyrylcholinesterase (BCHE);Diethylenetriamine (CAS 111-40-0);Dichloromethane (CAS 75-09-2);Dimethylaniline (CAS 121-69-7);Ethyl bromide (CAS 74-96-4);Ethyl chloride (CAS 75-00-3);Ethylamine (CAS 75-04-7);Hexamine (CAS 100-97-0);Isopropanol (CAS 67-63-0);Isopropyl bromide (CAS 75-26-3);Isopropyl ether (CAS 108-20-3);Methylamine (CAS 74-89-5);Methyl bromide (CAS 74-83-9);Monoisopropylamine (CAS 75-31-0);Obidoxime chloride (CAS 114-90-9);Potassium bromide (CAS 7758-02-3);Pyridine (CAS 110-86-1);Pyridostigmine bromide (CAS 101-26-8);Sodium bromide (CAS 7647-15-6);Sodium metal (CAS 7440-23-5);Tributylamine (CAS 102-82-9);Triethylamine (CAS 121-44-8); orTrimethylamine (CAS 75-50-3).
-2. In concentrations of 90 % weight or greater, as follows:Acetone (CAS 67-64-1);Acetylene (CAS 74-86-2);Ammonia (CAS 7664-41-7);Antimony (CAS 7440-36-0);Benzaldehyde (CAS 100-52-7);Benzoin (CAS 119-53-9);1-Butanol (CAS 71-36-3);2-Butanol (CAS 78-92-2);Iso-Butanol (CAS 78-83-1);Tert-Butanol (CAS 75-65-0);Calcium carbide (CAS 75-20-7);Carbon monoxide (CAS 630-08-0);Chlorine (CAS 7782-50-5);Cyclohexanol (CAS 108-93-0);Dicyclohexylamine (CAS 101-83-7);Ethanol (CAS 64-17-5);Ethylene (CAS 74-85-1);Ethylene oxide (CAS 75-21-8);Fluoroapatite (CAS 1306-05-4);Hydrogen chloride (CAS 7647-01-0);Hydrogen sulfide (CAS 7783-06-4);Mandelic acid (CAS 90-64-2);Methanol (CAS 67-56-1);Methyl chloride (CAS 74-87-3);Methyl iodide (CAS 74-88-4);Methyl mercaptan (CAS 74-93-1);Monoethyleneglycol (CAS 107-21-1);Oxalyl chloride (CAS 79-37-8);Potassium sulphide (CAS 1312-73-8);Potassium thiocyanate (CAS 333-20-0);Sodium hypochlorite (CAS 7681-52-9);Sulphur (CAS 7704-34-9);Sulphur dioxide (CAS 7446-09-5);Sulphur trioxide (CAS 7446-11-9);Thiophosphoryl chloride (CAS 3982-91-0);Tri-isobutyl phosphite (CAS 1606-96-8);White phosphorus (CAS 12185-10-3);Yellow phosphorus (CAS 7723-14-0);Mercury (CAS 7439-97-6);Barium chloride (CAS 10361-37-2);Sulphuric acid (CAS 7664-93-9);3,3-dimethyl-1-butene (CAS 558-37-2);2,2-dimethylpropanal (CAS 630-19-3);2,2-dimethylpropylchloride (CAS 753-89-9);2-methylbutene (CAS 26760-64-5);2-chloro-3-methylbutane (CAS 631-65-2);2,3-dimethyl- 2,3-butanediol (CAS 76-09-5);2-methyl-2-butene (CAS 513-35-9);Butyl lithium (CAS 109-72-8);Bromo(methyl)magnesium (CAS 75-16-1);Formaldehyde (CAS 50-00-0);Diethanolamine (CAS 111-42-2);Dimethylcarbonate (CAS 616-38-6);Methyldiethanolamine hydrochloride (CAS 54060-15-0);Diethylamine hydrochloride (CAS 660-68-4);Diisopropylamine hydrochloride (CAS 819-79-4);3-Quinuclidinone hydrochloride (CAS 1193-65-3);3-Quinuclidinol hydrochloride (CAS 6238-13-7);(R)-3- Quinuclidinol hydrochloride (CAS 42437-96-7);N,N-Diethylaminoethanol hydrochloride (CAS 14426-20-1);Dialkyl(≤C10) chlorophosphates;Dialkyl(≤C10) fluorophosphates;N,N-Methylisopropylacetamidine (CAS 1339185-57-7);N,N-Methylethylacetamidine (CAS 1339632-40-4);N,N-Ethylisopropylacetamidine(CAS 1339156-10-3);N,N-Methylpropylacetamidine(CAS 1344238-28-3);N,N-Ethylpropylacetamidine(CAS 1339737-43-7);N,N-Isopropylpropylacetamidine(CAS 1341389-98-7);N,N-Methylethylpropanamidine (CAS 1339424-26-8);N,N-Ethylisopropylpropanamidine (CAS 1344354-09-1);N,N-Methylpropylpropanamidine (CAS 1340216-25-2);N,N-Ethylpropylpropanamidine (CAS 1341493-60-4);N,N-Isopropylpropylpropanamidine (CAS 1343225-93-3);N,N-Methylisopropylpropanamidine (CAS 1339042-55-5);N,N-Methylethylbutanamidine (CAS 1341049-51-1);N,N-Methylpropylbutanamidine (CAS 1343721-02-7);N,N-Ethylpropylbutanamidine (CAS 1343806-12-1);N,N-Isopropylpropylbutanamidine (CAS 1343316-02-8);N,N-Methylisopropylbutanamidine (CAS 1340219-94-4);N,N-Ethylisopropylbutanamidine (CAS 1342204-10-7);N,N-Methylethylisobutanamidine (CAS 1342365-47-2);N,N-Ethylpropylisobutanamidine (CAS 1342566-58-8);N,N-Methylpropylisobutanamidine (CAS 1342270-21-6);N,N-Isopropylpropylisobutanamidine (CAS 1342156-11-9);N,N-Methylisopropylisobutanamidine (CAS 1341992-96-8);N,N-Ethylisopropylisobutanamidine (CAS 1339048-76-8);N,N-Dimethylacetamidine hydrobromide (CAS 1801188-12-4);N,N-Dimethylacetamidine hydrochloride (CAS 2909-15-1);N,N-Diethylacetamidine hydrochloride (CAS 91400-32-7);N,N-Diethylacetamidine hydrobromide (CAS 78053-54-0);N,N-Dimethylpropanamidine dihydrochloride (CAS 79972-73-9);N,N-Dimethylpropanamidine hydrochloride (CAS 56776-15-9); orChloroform (CAS 67-66-3).
+1. In concentrations of 95 % weight or greater, as follows:
+
+   1. Ethylene dichloride (CAS 107-06-2);
+   2. Nitromethane (CAS 75-52-5);
+   3. Picric acid (CAS 88-89-1);
+   4. Aluminium chloride (CAS 7446-70-0);
+   5. Arsenic (CAS 7440-38-2);
+   6. Arsenic trioxide (CAS 1327-53-3);
+   7. Bis(2-chloroethyl)ethylamine hydrochloride (CAS 3590-07-6);
+   8. Bis(2-chloroethyl)methylamine hydrochloride (CAS 55-86-7);
+   9. Tris(2-chloroethyl)amine hydrochloride (CAS 817-09-4);
+   10. Tributylphosphite (CAS 102-85-2);
+   11. Isocyanatomethane (CAS 624-83-9);
+   12. Quinaldine (CAS 91-63-4);
+   13. 2-bromochloroethane (CAS 107-04-0);
+   14. Benzil (CAS 134-81-6);
+   15. Diethyl ether (CAS 60-29-7);
+   16. Dimethyl ether (CAS 115-10-6);
+   17. Dimethylaminoethanol (CAS 108-01-0);
+   18. 2-methoxyethanol (CAS 109-86-4);
+   19. Butyrylcholinesterase (BCHE);
+   20. Diethylenetriamine (CAS 111-40-0);
+   21. Dichloromethane (CAS 75-09-2);
+   22. Dimethylaniline (CAS 121-69-7);
+   23. Ethyl bromide (CAS 74-96-4);
+   24. Ethyl chloride (CAS 75-00-3);
+   25. Ethylamine (CAS 75-04-7);
+   26. Hexamine (CAS 100-97-0);
+   27. Isopropanol (CAS 67-63-0);
+   28. Isopropyl bromide (CAS 75-26-3);
+   29. Isopropyl ether (CAS 108-20-3);
+   30. Methylamine (CAS 74-89-5);
+   31. Methyl bromide (CAS 74-83-9);
+   32. Monoisopropylamine (CAS 75-31-0);
+   33. Obidoxime chloride (CAS 114-90-9);
+   34. Potassium bromide (CAS 7758-02-3);
+   35. Pyridine (CAS 110-86-1);
+   36. Pyridostigmine bromide (CAS 101-26-8);
+   37. Sodium bromide (CAS 7647-15-6);
+   38. Sodium metal (CAS 7440-23-5);
+   39. Tributylamine (CAS 102-82-9);
+   40. Triethylamine (CAS 121-44-8); or
+   41. Trimethylamine (CAS 75-50-3).
+2. In concentrations of 90 % weight or greater, as follows:
+
+   1. Acetone (CAS 67-64-1);
+   2. Acetylene (CAS 74-86-2);
+   3. Ammonia (CAS 7664-41-7);
+   4. Antimony (CAS 7440-36-0);
+   5. Benzaldehyde (CAS 100-52-7);
+   6. Benzoin (CAS 119-53-9);
+   7. 1-Butanol (CAS 71-36-3);
+   8. 2-Butanol (CAS 78-92-2);
+   9. Iso-Butanol (CAS 78-83-1);
+   10. Tert-Butanol (CAS 75-65-0);
+   11. Calcium carbide (CAS 75-20-7);
+   12. Carbon monoxide (CAS 630-08-0);
+   13. Chlorine (CAS 7782-50-5);
+   14. Cyclohexanol (CAS 108-93-0);
+   15. Dicyclohexylamine (CAS 101-83-7);
+   16. Ethanol (CAS 64-17-5);
+   17. Ethylene (CAS 74-85-1);
+   18. Ethylene oxide (CAS 75-21-8);
+   19. Fluoroapatite (CAS 1306-05-4);
+   20. Hydrogen chloride (CAS 7647-01-0);
+   21. Hydrogen sulfide (CAS 7783-06-4);
+   22. Mandelic acid (CAS 90-64-2);
+   23. Methanol (CAS 67-56-1);
+   24. Methyl chloride (CAS 74-87-3);
+   25. Methyl iodide (CAS 74-88-4);
+   26. Methyl mercaptan (CAS 74-93-1);
+   27. Monoethyleneglycol (CAS 107-21-1);
+   28. Oxalyl chloride (CAS 79-37-8);
+   29. Potassium sulphide (CAS 1312-73-8);
+   30. Potassium thiocyanate (CAS 333-20-0);
+   31. Sodium hypochlorite (CAS 7681-52-9);
+   32. Sulphur (CAS 7704-34-9);
+   33. Sulphur dioxide (CAS 7446-09-5);
+   34. Sulphur trioxide (CAS 7446-11-9);
+   35. Thiophosphoryl chloride (CAS 3982-91-0);
+   36. Tri-isobutyl phosphite (CAS 1606-96-8);
+   37. White phosphorus (CAS 12185-10-3);
+   38. Yellow phosphorus (CAS 7723-14-0);
+   39. Mercury (CAS 7439-97-6);
+   40. Barium chloride (CAS 10361-37-2);
+   41. Sulphuric acid (CAS 7664-93-9);
+   42. 3,3-dimethyl-1-butene (CAS 558-37-2);
+   43. 2,2-dimethylpropanal (CAS 630-19-3);
+   44. 2,2-dimethylpropylchloride (CAS 753-89-9);
+   45. 2-methylbutene (CAS 26760-64-5);
+   46. 2-chloro-3-methylbutane (CAS 631-65-2);
+   47. 2,3-dimethyl- 2,3-butanediol (CAS 76-09-5);
+   48. 2-methyl-2-butene (CAS 513-35-9);
+   49. Butyl lithium (CAS 109-72-8);
+   50. Bromo(methyl)magnesium (CAS 75-16-1);
+   51. Formaldehyde (CAS 50-00-0);
+   52. Diethanolamine (CAS 111-42-2);
+   53. Dimethylcarbonate (CAS 616-38-6);
+   54. Methyldiethanolamine hydrochloride (CAS 54060-15-0);
+   55. Diethylamine hydrochloride (CAS 660-68-4);
+   56. Diisopropylamine hydrochloride (CAS 819-79-4);
+   57. 3-Quinuclidinone hydrochloride (CAS 1193-65-3);
+   58. 3-Quinuclidinol hydrochloride (CAS 6238-13-7);
+   59. (R)-3- Quinuclidinol hydrochloride (CAS 42437-96-7);
+   60. N,N-Diethylaminoethanol hydrochloride (CAS 14426-20-1);
+   61. Dialkyl(≤C10) chlorophosphates;
+   62. Dialkyl(≤C10) fluorophosphates;
+   63. N,N-Methylisopropylacetamidine (CAS 1339185-57-7);
+   64. N,N-Methylethylacetamidine (CAS 1339632-40-4);
+   65. N,N-Ethylisopropylacetamidine(CAS 1339156-10-3);
+   66. N,N-Methylpropylacetamidine(CAS 1344238-28-3);
+   67. N,N-Ethylpropylacetamidine(CAS 1339737-43-7);
+   68. N,N-Isopropylpropylacetamidine(CAS 1341389-98-7);
+   69. N,N-Methylethylpropanamidine (CAS 1339424-26-8);
+   70. N,N-Ethylisopropylpropanamidine (CAS 1344354-09-1);
+   71. N,N-Methylpropylpropanamidine (CAS 1340216-25-2);
+   72. N,N-Ethylpropylpropanamidine (CAS 1341493-60-4);
+   73. N,N-Isopropylpropylpropanamidine (CAS 1343225-93-3);
+   74. N,N-Methylisopropylpropanamidine (CAS 1339042-55-5);
+   75. N,N-Methylethylbutanamidine (CAS 1341049-51-1);
+   76. N,N-Methylpropylbutanamidine (CAS 1343721-02-7);
+   77. N,N-Ethylpropylbutanamidine (CAS 1343806-12-1);
+   78. N,N-Isopropylpropylbutanamidine (CAS 1343316-02-8);
+   79. N,N-Methylisopropylbutanamidine (CAS 1340219-94-4);
+   80. N,N-Ethylisopropylbutanamidine (CAS 1342204-10-7);
+   81. N,N-Methylethylisobutanamidine (CAS 1342365-47-2);
+   82. N,N-Ethylpropylisobutanamidine (CAS 1342566-58-8);
+   83. N,N-Methylpropylisobutanamidine (CAS 1342270-21-6);
+   84. N,N-Isopropylpropylisobutanamidine (CAS 1342156-11-9);
+   85. N,N-Methylisopropylisobutanamidine (CAS 1341992-96-8);
+   86. N,N-Ethylisopropylisobutanamidine (CAS 1339048-76-8);
+   87. N,N-Dimethylacetamidine hydrobromide (CAS 1801188-12-4);
+   88. N,N-Dimethylacetamidine hydrochloride (CAS 2909-15-1);
+   89. N,N-Diethylacetamidine hydrochloride (CAS 91400-32-7);
+   90. N,N-Diethylacetamidine hydrobromide (CAS 78053-54-0);
+   91. N,N-Dimethylpropanamidine dihydrochloride (CAS 79972-73-9);
+   92. N,N-Dimethylpropanamidine hydrochloride (CAS 56776-15-9); or
+   93. Chloroform (CAS 67-66-3).
 
 X.C.IX.002 Fentanyl and its derivatives Alfentanil, Sufentanil, Remifentanil, Carfentanil, and salts thereof.
 
@@ -3523,7 +5258,12 @@ Note: X.C.IX.002 does not control products identified as consumer goods packaged
 X.C.IX.003 Chemical precursors to Central Nervous System Acting Chemicals, as follows:
 
 1. 4-anilino-N-phenethylpiperidine (CAS 21409-26-7); or
-2. N-phenethyl-4-piperidone (CAS 39742-60-4).Notes:X.C.IX.003 does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.IX.003 in which no individually specified chemical constitutes more than 1 % by the weight of the mixture.X.C.IX.003 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use.
+2. N-phenethyl-4-piperidone (CAS 39742-60-4).
+
+   Notes:
+
+   1. X.C.IX.003 does not control «chemical mixtures» containing one or more of the chemicals specified in entry X.C.IX.003 in which no individually specified chemical constitutes more than 1 % by the weight of the mixture.
+   2. X.C.IX.003 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use.
 
 X.C.IX.004 Fibrous and filamentary materials, not controlled by 1C010 or 1C210 [(25)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng), for use in «composite» structures and with a specific modulus of 3,18 x 106 m or greater and a specific tensile strength of 7,62 x 104 m or greater.
 
@@ -3531,8 +5271,15 @@ X.C.IX.005 «Vaccines», «immunotoxins», «medical products», «diagnostic an
 
 1. «Vaccines» containing, or designed for use against, items controlled by 1C351, 1C353 or 1C354;
 2. «Immunotoxins» containing items controlled by 1C351.d; or
-3. «Medical products» that contain any of the following:«Toxins» controlled by 1C351.d (except for botulinum toxins controlled by 1C351.d.1, conotoxins controlled by 1C351.d.3, or items controlled for CW reasons under 1C351.d.4 or.d.5); orGenetically modified organisms or genetic elements controlled by 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3);
-4. «Medical products» not controlled by X.C.IX.005.c that contain any of the following:Botulinum toxins controlled by 1C351.d.1;Conotoxins controlled by 1C351.d.3; orGenetically modified organisms or genetic elements controlled by 1C353.a.3 that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3; or
+3. «Medical products» that contain any of the following:
+
+   1. «Toxins» controlled by 1C351.d (except for botulinum toxins controlled by 1C351.d.1, conotoxins controlled by 1C351.d.3, or items controlled for CW reasons under 1C351.d.4 or.d.5); or
+   2. Genetically modified organisms or genetic elements controlled by 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3);
+4. «Medical products» not controlled by X.C.IX.005.c that contain any of the following:
+
+   1. Botulinum toxins controlled by 1C351.d.1;
+   2. Conotoxins controlled by 1C351.d.3; or
+   3. Genetically modified organisms or genetic elements controlled by 1C353.a.3 that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3; or
 5. «Diagnostic and food testing kits» containing items controlled by 1C351.d (except for items controlled for CW reasons under 1C351.d.4 or.d.5).
 
 Technical Notes :
@@ -3542,7 +5289,12 @@ Technical Notes :
 
 X.C.IX.006 Commercial charges and devices containing energetic materials, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), and nitrogen trifluoride in a gaseous state (see List of Items Controlled):
 
-1. Shaped charges specially designed for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, andContain any formulation of «controlled materials»;Have only a uniform shaped conical liner with an included angle of 90 degrees or less;Contain more than 0,010 kg but less than or equal to 0,090 kg of «controlled materials»; andHave a diameter not exceeding 114,3 cm;
+1. Shaped charges specially designed for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, and
+
+   1. Contain any formulation of «controlled materials»;
+   2. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;
+   3. Contain more than 0,010 kg but less than or equal to 0,090 kg of «controlled materials»; and
+   4. Have a diameter not exceeding 114,3 cm;
 2. Shaped charges specially designed for oil well operations containing less than or equal to 0,010 kg of «controlled materials»;
 3. Detonation cord or shock tubes containing less than or equal to 0,064 kg/m of «controlled materials»;
 4. Cartridge power devices, that contain less than or equal to 0,70 kg of «controlled materials» in the deflagration material;
@@ -3553,20 +5305,44 @@ X.C.IX.006 Commercial charges and devices containing energetic materials, other 
 9. Commercial prefabricated slurries and emulsions containing less than or equal to 10,0 kg and less than or equal to 35 % by weight of ML8 «controlled materials»;
 10. Cutters and severing tools containing less than or equal to 3,5 kg of «controlled materials»;
 11. Pyrotechnic devices when designed exclusively for commercial purposes (e.g., theatrical stages, motion picture special effects, and fireworks displays) and containing less than or equal to 3,0 kg of «controlled materials»;
-12. Other commercial explosive devices and charges not controlled by X.C.IX.006.a through.k containing less than or equal to 1,0 kg of «controlled materials»; orNote: X.C.IX.006.l includes automotive safety devices; extinguishing systems; cartridges for riveting guns; explosive charges for agricultural, oil and gas operations, sporting goods, commercial mining, or public works purposes; and delay tubes used in the assembly of commercial explosive devices.
-13. Nitrogen trifluoride (NF 3 ) in a gaseous state.Notes:«Controlled materials» means controlled energetic materials (see 1C011, 1C111, 1C239 or ML8).Nitrogen trifluoride when not in a gaseous state is controlled under ML8.d by the CML.
+12. Other commercial explosive devices and charges not controlled by X.C.IX.006.a through.k containing less than or equal to 1,0 kg of «controlled materials»; or
+
+    Note: X.C.IX.006.l includes automotive safety devices; extinguishing systems; cartridges for riveting guns; explosive charges for agricultural, oil and gas operations, sporting goods, commercial mining, or public works purposes; and delay tubes used in the assembly of commercial explosive devices.
+13. Nitrogen trifluoride (NF 3 ) in a gaseous state.
+
+    Notes:
+
+    1. «Controlled materials» means controlled energetic materials (see 1C011, 1C111, 1C239 or ML8).
+    2. Nitrogen trifluoride when not in a gaseous state is controlled under ML8.d by the CML.
 
 X.C.IX.007 Mixtures not controlled by 1C350 or 1C450 [(26)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng) that contain chemicals controlled by 1C350 or 1C450 and medical, analytical, diagnostic, and food testing kits not controlled by 1C350 or 1C450 that contain chemicals controlled by 1C350, as follows (see List of Items Controlled):
 
-1. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350:Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C350;Mixtures containing less than 30 %, by weight, of:Any single CWC Schedule 3 chemical controlled by 1C350; orAny single non-CWC precursor chemical controlled by 1C350;
-2. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450:Mixtures containing the following concentrations of CWC Schedule 2 chemicals controlled by 1C450:Mixtures containing 1 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.a.1 and a.2 (i.e., mixtures containing Amiton or PFIB); orMixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.b.1, b.2, b.3, b.4, b.5, or b.6;Mixtures containing less than 30 %, by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, a.5., a.6., a.7, or 1C450.b.8;
+1. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350:
+
+   1. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C350;
+   2. Mixtures containing less than 30 %, by weight, of:
+
+      1. Any single CWC Schedule 3 chemical controlled by 1C350; or
+      2. Any single non-CWC precursor chemical controlled by 1C350;
+2. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450:
+
+   1. Mixtures containing the following concentrations of CWC Schedule 2 chemicals controlled by 1C450:
+
+      1. Mixtures containing 1 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.a.1 and a.2 (i.e., mixtures containing Amiton or PFIB); or
+      2. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.b.1, b.2, b.3, b.4, b.5, or b.6;
+   2. Mixtures containing less than 30 %, by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, a.5., a.6., a.7, or 1C450.b.8;
 3. ‘Medical, analytical, diagnostic, and food testing kits’ that contain precursor chemicals controlled by 1C350 in an amount not exceeding 300 grams per chemical.
 
 Technical Note: For the purpose of this entry, «medical, analytical, diagnostic, and food testing kits» are pre-packaged materials of defined composition that are specifically developed, packaged and marketed for medical, analytical, diagnostic, or public health purposes. Replacement reagents for medical, analytical, diagnostic, and food testing kits described in X.C.IX.007.c are controlled by 1C350 if the reagents contain at least one of the precursor chemicals identified in that entry in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.
 
 X.C.IX.008 Non-fluorinated polymeric substances, not controlled by 1C008 [(27)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng), as follows (see List of Items Controlled):
 
-1. Polyarylene ether ketones, as follows:Polyether ether ketone (PEEK);Polyether ketone ketone (PEKK);Polyether ketone (PEK); orPolyether ketone ether ketone ketone (PEKEKK);
+1. Polyarylene ether ketones, as follows:
+
+   1. Polyether ether ketone (PEEK);
+   2. Polyether ketone ketone (PEKK);
+   3. Polyether ketone (PEK); or
+   4. Polyether ketone ether ketone ketone (PEKEKK);
 2. Not used.
 
 X.C.IX.009 Specific materials, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows (see List of Items Controlled):
@@ -3593,7 +5369,19 @@ X.C.IX.011 Nanomaterials as follows (see List of Items Controlled):
 
 1. Semiconductor nanomaterials;
 2. Composite-based nanomaterials; or
-3. Any of the following carbon-based nanomaterials:Carbon nanotubes;Carbon nanofibres;Fullerenes;Graphenes; orCarbon onions.Notes: For the purpose of X.C.IX.011, nanomaterial means a material that meets at least one of the following criteria:Consists of particles, with one or more external dimensions in the size range 1–100 nm for more than 1 % of their number size distribution;Has internal or surface structures in one or more dimensions in the size range 1–100 nm; orHas a specific surface area by volume greater than 60 m2/cm3, excluding materials consisting of particles with a size lower than 1 nm.
+3. Any of the following carbon-based nanomaterials:
+
+   1. Carbon nanotubes;
+   2. Carbon nanofibres;
+   3. Fullerenes;
+   4. Graphenes; or
+   5. Carbon onions.
+
+   Notes: For the purpose of X.C.IX.011, nanomaterial means a material that meets at least one of the following criteria:
+
+   1. Consists of particles, with one or more external dimensions in the size range 1–100 nm for more than 1 % of their number size distribution;
+   2. Has internal or surface structures in one or more dimensions in the size range 1–100 nm; or
+   3. Has a specific surface area by volume greater than 60 m2/cm3, excluding materials consisting of particles with a size lower than 1 nm.
 
 X.C.IX.012 Rare-earth metals and compounds, either in organic or inorganic form, including mixtures whether or not intermixed or interalloyed.
 
@@ -3637,12 +5425,59 @@ Note: For the purpose of the control X.C.IX.016, surgical or medical instruments
 
 X.C.IX.017 Lubricating materials, fluids and additives thereof, not controlled by 1C006, as follows:
 
-1. Lubricating oils having all the following characteristics:A “pour point” equal or less than 218,15 K (–55 °C); andA “flash point” equal or higher than 478,15 K (205 °C);Technical Notes:For the purpose of the control X.C.IX.017, “pour point” is determined using the method described in ISO 3016 or “equivalent standards”.For the purpose of the control X.C.IX.017, “flash point” is determined using the method described in ISO 2592 or “equivalent standards”.
-2. Lubricating greases having all the following characteristics:A minimum operating temperature of less than 233,15 K (–40 °C);A maximum operating temperature exceeding 413,15 K (140 °C); andA “dropping point” equal or higher than 523,15 K (250 °C);Technical Note:For the purpose of the control X.C.IX.017, “dropping point” is determined using the method described in ISO 2176 or “equivalent standards”.
-3. Damping or flotation fluids containing any of the following:Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-23-8);Polychlorotrifluoroethylene (CAS 9002-83-9); orPolybromotrifluoroethylene (CAS 55157-25-0);
-4. Fluorocarbon fluids containing any of the following:Monomeric forms of perfluoropolyalkylether-triazines or perfluoroaliphatic-ethers;Perfluoroalkylamines;Perfluorocycloalkanes; orPerfluoroalkanes;
+1. Lubricating oils having all the following characteristics:
+
+   1. A “pour point” equal or less than 218,15 K (–55 °C); and
+   2. A “flash point” equal or higher than 478,15 K (205 °C);
+
+   Technical Notes:
+
+   1. For the purpose of the control X.C.IX.017, “pour point” is determined using the method described in ISO 3016 or “equivalent standards”.
+   2. For the purpose of the control X.C.IX.017, “flash point” is determined using the method described in ISO 2592 or “equivalent standards”.
+2. Lubricating greases having all the following characteristics:
+
+   1. A minimum operating temperature of less than 233,15 K (–40 °C);
+   2. A maximum operating temperature exceeding 413,15 K (140 °C); and
+   3. A “dropping point” equal or higher than 523,15 K (250 °C);
+
+   Technical Note:
+
+   For the purpose of the control X.C.IX.017, “dropping point” is determined using the method described in ISO 2176 or “equivalent standards”.
+3. Damping or flotation fluids containing any of the following:
+
+   1. Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-23-8);
+   2. Polychlorotrifluoroethylene (CAS 9002-83-9); or
+   3. Polybromotrifluoroethylene (CAS 55157-25-0);
+4. Fluorocarbon fluids containing any of the following:
+
+   1. Monomeric forms of perfluoropolyalkylether-triazines or perfluoroaliphatic-ethers;
+   2. Perfluoroalkylamines;
+   3. Perfluorocycloalkanes; or
+   4. Perfluoroalkanes;
 5. Magnetorheological fluids.
-6. Additives as follows:Alkyldiphenylamines (CAS number 68921-45-9);Antioxidant BX AO 5057 (CAS 68411-46-1);Butylated hydroxyanisole (CAS 25013-16-5);Butylated hydroxytoluene (CAS 128-37-0);Dialkyldithiocarbamates:Molybdenum dialkyldithiocarbamate (CAS 253873-83-5);Zinc diethyldithiocarbamate (CAS 14324-55-1);Bismuth dimethyldithiocarbamate (CAS 21260-46-8);Disulphides:Molybdenum disulphide (CAS 1317-33-5);Tungsten disulphide (CAS 12138-09-9);Dithiophosphates:Molybdenum dithiophosphate (CAS 72030-25-2);Zinc dithiophosphates (CAS 19210-06-1);N-phenyl-1,1,3,3-tetramethylbutylnaphthalen-1-amine (CAS 90-30-2);Triphenylphosphorothionate (CAS 597-82-0);Tricresyl phosphate; orZinc dialkyldithiophosphate (CAS 68649-42-3 and 68457-79-4).
+6. Additives as follows:
+
+   1. Alkyldiphenylamines (CAS number 68921-45-9);
+   2. Antioxidant BX AO 5057 (CAS 68411-46-1);
+   3. Butylated hydroxyanisole (CAS 25013-16-5);
+   4. Butylated hydroxytoluene (CAS 128-37-0);
+   5. Dialkyldithiocarbamates:
+
+      1. Molybdenum dialkyldithiocarbamate (CAS 253873-83-5);
+      2. Zinc diethyldithiocarbamate (CAS 14324-55-1);
+      3. Bismuth dimethyldithiocarbamate (CAS 21260-46-8);
+   6. Disulphides:
+
+      1. Molybdenum disulphide (CAS 1317-33-5);
+      2. Tungsten disulphide (CAS 12138-09-9);
+   7. Dithiophosphates:
+
+      1. Molybdenum dithiophosphate (CAS 72030-25-2);
+      2. Zinc dithiophosphates (CAS 19210-06-1);
+   8. N-phenyl-1,1,3,3-tetramethylbutylnaphthalen-1-amine (CAS 90-30-2);
+   9. Triphenylphosphorothionate (CAS 597-82-0);
+   10. Tricresyl phosphate; or
+   11. Zinc dialkyldithiophosphate (CAS 68649-42-3 and 68457-79-4).
 
 X.D.IX.001 Specific «software», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows (see List of Items Controlled):
 
@@ -3677,8 +5512,14 @@ Technical Note : The range of frequencies span what is generally considered as t
 
 X.A.X.003 Bearings and bearing systems not controlled by 2A001 (see List of Items Controlled):
 
-1. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics;Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; orWith lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»;
-2. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»; orManufactured for use at operating temperatures below 219 K (– 54 °C) or above 423 K (150 °C);
+1. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics;
+
+   1. Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; or
+   2. With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»;
+2. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:
+
+   1. With lubricating elements or component modifications that, according to the manufacturer's specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»; or
+   2. Manufactured for use at operating temperatures below 219 K (– 54 °C) or above 423 K (150 °C);
 3. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 °C) or higher and a unit load capacity exceeding 1 MPa;
 4. Active magnetic bearing systems;
 5. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (– 54 °C) or above 423 K (150 °C).
@@ -3691,7 +5532,16 @@ Technical Notes:
 X.A.X.004 Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10 % or more nickel and/or chromium:
 
 1. Pressure tube, pipe, and fittings of 200 mm or more inside diameter, and suitable for operation at pressures of 3,4 MPa or greater;
-2. Pipe valves having all of the following characteristics that are not controlled by 2B350.g [(31)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng):A pipe size connection of 200 mm or more inside diameter; andRated at 10,3 MPa or more.Notes:See X.D.X.005 for «software» for items controlled under this entry.See 2E001 («development»), 2E002 («production»), and X.E.X.003 («use») for technology for items controlled under this entry.See related controls 2A226, 2B350 and X.B.X.010.
+2. Pipe valves having all of the following characteristics that are not controlled by 2B350.g [(31)](https://eur-lex.europa.eu/eli/reg/2025/932/oj/eng):
+
+   1. A pipe size connection of 200 mm or more inside diameter; and
+   2. Rated at 10,3 MPa or more.
+
+   Notes:
+
+   1. See X.D.X.005 for «software» for items controlled under this entry.
+   2. See 2E001 («development»), 2E002 («production»), and X.E.X.003 («use») for technology for items controlled under this entry.
+   3. See related controls 2A226, 2B350 and X.B.X.010.
 
 X.A.X.005 Pumps designed to move molten metals by electromagnetic forces.
 
@@ -3723,28 +5573,74 @@ X.B.X.003 Automated peptide synthesizers capable to work under controlled atmosp
 
 X.B.X.004 Numerical control units for machine tools and «numerically controlled» machine tools, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821) (see List of Items Controlled):
 
-1. «Numerical control» units for machine tools:Having four interpolating axes that can be coordinated simultaneously for contouring control; orHaving two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;«Numerical control» units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or
-2. Motion control boards specially designed for machine tools and having any of the following characteristics:Interpolation in more than four axes;Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; orAdaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; orCapable of receiving and processing CAD data for internal preparation of machine instructions;
-3. «Numerically controlled» machine tools that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:Two or more axes that can be coordinated simultaneously for contouring control; andPositioning accuracies according to ISO 230/2 (2006), with all compensations available:Better than 15 μm along any linear axis (overall positioning) for grinding machines;Better than 15 μm along any linear axis (overall positioning) for milling machines; orBetter than 15 μm along any linear axis (overall positioning) for turning machines; or
-4. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:One or more contouring «tilting spindles»;Note: X.B.X.004.d.1.a. applies to machine tools for grinding or milling only.«Camming» (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);Note: X.B.X.004.d.1.b. applies to machine tools for turning only.«Run-out» (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); orThe positioning accuracies, with all compensations available, are less (better) than: 0,001 o on any rotary axis;Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control.
+1. «Numerical control» units for machine tools:
+
+   1. Having four interpolating axes that can be coordinated simultaneously for contouring control; or
+   2. Having two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;
+   3. «Numerical control» units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or
+2. Motion control boards specially designed for machine tools and having any of the following characteristics:
+
+   1. Interpolation in more than four axes;
+   2. Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:
+
+      1. Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; or
+      2. Adaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; or
+   3. Capable of receiving and processing CAD data for internal preparation of machine instructions;
+3. «Numerically controlled» machine tools that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:
+
+   1. Two or more axes that can be coordinated simultaneously for contouring control; and
+   2. Positioning accuracies according to ISO 230/2 (2006), with all compensations available:
+
+      1. Better than 15 μm along any linear axis (overall positioning) for grinding machines;
+      2. Better than 15 μm along any linear axis (overall positioning) for milling machines; or
+      3. Better than 15 μm along any linear axis (overall positioning) for turning machines; or
+4. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer's technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:
+
+   1. Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:
+
+      1. One or more contouring «tilting spindles»;
+
+         Note: X.B.X.004.d.1.a. applies to machine tools for grinding or milling only.
+      2. «Camming» (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
+
+         Note: X.B.X.004.d.1.b. applies to machine tools for turning only.
+      3. «Run-out» (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); or
+      4. The positioning accuracies, with all compensations available, are less (better) than: 0,001 o on any rotary axis;
+   2. Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control.
 
 X.B.X.005 Non-«numerically controlled» machine tools for generating optical quality surfaces, (see List of Items Controlled) and specially designed components therefor:
 
-1. Turning machines using a single point cutting tool and having all of the following characteristics:Slide positioning accuracy less (better) than 0,0005 mm per 300 mm of travel;Bidirectional slide positioning repeatability less (better) than 0,00025 mm per 300 mm of travel;Spindle «run-out» and «camming» less (better) than 0,0004 mm total indicator reading (TIR);Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; andSlide perpendicularity less (better) than 0,001 mm per 300 mm of travel; Technical Note : The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
-2. Fly cutting machines having all of the following characteristics:Spindle «run-out» and «camming» less (better) than 0,0004 mm TIR; andAngular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.
+1. Turning machines using a single point cutting tool and having all of the following characteristics:
+
+   1. Slide positioning accuracy less (better) than 0,0005 mm per 300 mm of travel;
+   2. Bidirectional slide positioning repeatability less (better) than 0,00025 mm per 300 mm of travel;
+   3. Spindle «run-out» and «camming» less (better) than 0,0004 mm total indicator reading (TIR);
+   4. Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; and
+   5. Slide perpendicularity less (better) than 0,001 mm per 300 mm of travel; Technical Note : The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
+2. Fly cutting machines having all of the following characteristics:
+
+   1. Spindle «run-out» and «camming» less (better) than 0,0004 mm TIR; and
+   2. Angular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.
 
 X.B.X.006 Gearmaking and/or finishing machinery not controlled by 2B003 capable of producing gears to a quality level of better than AGMA 11.
 
 X.B.X.007 Dimensional inspection or measuring systems or equipment not controlled by 2B006 or 2B206, as follows (see List of Items Controlled):
 
-1. Manual dimensional inspection machines, having both of the following characteristics:Two or more axes; andA measurement uncertainty equal to or less (better) than (3 + L/300) μm in any axes (L measured length in mm).
+1. Manual dimensional inspection machines, having both of the following characteristics:
+
+   1. Two or more axes; and
+   2. A measurement uncertainty equal to or less (better) than (3 + L/300) μm in any axes (L measured length in mm).
 
 X.B.X.008 «Robots» not controlled by 2B007 or 2B207 that are capable of employing feedback information in real-time processing from one or more sensors to generate or modify programs or to generate or modify numerical program data.
 
 X.B.X.009 Assemblies, circuit boards or inserts specially designed for machine tools controlled by X.B.X.004, or for equipment controlled by X.B.X.006, X.B.X.007 or X.B.X.008:
 
 1. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial («run-out») or axial («camming») axis motion in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
-2. Single point diamond cutting tool inserts, having all of the following characteristics:Flawless and chip-free cutting edge when magnified 400 times in any direction;Cutting radius from 0,1 to 5 mm inclusive; andCutting radius out-of-roundness less (better) than 0,002 mm TIR.
+2. Single point diamond cutting tool inserts, having all of the following characteristics:
+
+   1. Flawless and chip-free cutting edge when magnified 400 times in any direction;
+   2. Cutting radius from 0,1 to 5 mm inclusive; and
+   3. Cutting radius out-of-roundness less (better) than 0,002 mm TIR.
 3. Specially designed printed circuit boards with mounted components capable of upgrading, according to the manufacturer’s specifications, «numerical control» units, machine tools or feed-back devices to or above the levels specified in X.B.X.004, X.B.X.006, X.B.X.007, X.B.X.008, or X.B.X.009.
 
 Technical Note : This entry does not control measuring interferometer systems, without closed or open loop feedback, containing a laser to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment.
@@ -3757,8 +5653,13 @@ X.B.X.010 Specific processing equipment, other than those specified in the CML o
 4. MIG welders;
 5. E-beam welders;
 6. Monel equipment, including valves, piping, tanks and vessels;
-7. 304 and 316 stainless steel valves, piping, tanks and vessels;Note: Fittings are considered part of piping for purposes of X.B.X.010.g.
-8. Mining and drilling equipment, as follows:Large boring equipment capable of drilling holes greater than 61 cm in diameter;Large earth-moving equipment used in the mining industry;
+7. 304 and 316 stainless steel valves, piping, tanks and vessels;
+
+   Note: Fittings are considered part of piping for purposes of X.B.X.010.g.
+8. Mining and drilling equipment, as follows:
+
+   1. Large boring equipment capable of drilling holes greater than 61 cm in diameter;
+   2. Large earth-moving equipment used in the mining industry;
 9. Electroplating equipment designed for coating parts with nickel or aluminium;
 10. Pumps designed for industrial service and for use with an electrical motor of 5 HP or greater;
 11. Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in high-vacuum service, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821);
@@ -3810,7 +5711,20 @@ X.D.X.003 «Software» specially designed for the «development», «production�
 
 X.D.X.004 Specific «software», as follows (see List of Items Controlled):
 
-1. «Software» to provide adaptive control and having both of the following characteristics:For flexible manufacturing units (FMUs); andCapable of generating or modifying, in real-time processing, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:Machine vision (optical ranging);Infrared imaging;Acoustical imaging (acoustical ranging);Tactile measurement;Inertial positioning;Force measurement; andTorque measurement.Note: X.D.X.004.a does not control «software» which only provides rescheduling of functionally identical equipment within «flexible manufacturing units» using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
+1. «Software» to provide adaptive control and having both of the following characteristics:
+
+   1. For flexible manufacturing units (FMUs); and
+   2. Capable of generating or modifying, in real-time processing, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:
+
+      1. Machine vision (optical ranging);
+      2. Infrared imaging;
+      3. Acoustical imaging (acoustical ranging);
+      4. Tactile measurement;
+      5. Inertial positioning;
+      6. Force measurement; and
+      7. Torque measurement.
+
+   Note: X.D.X.004.a does not control «software» which only provides rescheduling of functionally identical equipment within «flexible manufacturing units» using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
 2. Not used.
 
 X.D.X.005 «Software» specially designed or modified for the «development,» «production,» or «use» of items controlled by X.A.X.004 or X.A.X.005.
@@ -5875,23 +7789,56 @@ Henvisningen til 3. september 2025 i kolonnen «Date of application» skal forst
 > Vedlegg XXXIX tilføyd ved forskrift [19 mars 2024 nr. 534](forskrift/2024-03-19-534), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
 
 Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:
-enterprise resource planning (ERP), customer relationship management (CRM), business intelligence (BI), supply chain management (SCM), enterprise data warehouse (EDW), computerized maintenance management system (CMMS), project management software, product lifecycle management (PLM), typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
+
+- enterprise resource planning (ERP),
+- customer relationship management (CRM),
+- business intelligence (BI),
+- supply chain management (SCM),
+- enterprise data warehouse (EDW),
+- computerized maintenance management system (CMMS),
+- project management software,
+- product lifecycle management (PLM),
+- typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
 
 Design and Manufacturing Software used in the areas of architecture, engineering, construction, manufacturing, media, education and entertainment, including:
-building information modelling (BIM), computer aided design (CAD), computer-aided manufacturing (CAM), engineer to order (ETO), typical components of above-mentioned suites.
+
+- building information modelling (BIM),
+- computer aided design (CAD),
+- computer-aided manufacturing (CAM),
+- engineer to order (ETO),
+- typical components of above-mentioned suites.
 
 Software with either of the following uses in the banking and financial sector:
-online and mobile banking, loan management, automated teller machines (ATM) and point of sale (POS) integration, regulatory reporting, investment banking.
+
+- online and mobile banking,
+- loan management,
+- automated teller machines (ATM) and point of sale (POS) integration,
+- regulatory reporting,
+- investment banking.
 
 ## Vedlegg XXXIXA. Liste over programvare som omtalt i §§ 12 og 14d
 
 > Tilføyd ved forskrift [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130).
 
 Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:
-enterprise resource planning (ERP), customer relationship management (CRM), business intelligence (BI), supply chain management (SCM), enterprise data warehouse (EDW), computerized maintenance management system (CMMS), project management software, product lifecycle management (PLM), typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
+
+- enterprise resource planning (ERP),
+- customer relationship management (CRM),
+- business intelligence (BI),
+- supply chain management (SCM),
+- enterprise data warehouse (EDW),
+- computerized maintenance management system (CMMS),
+- project management software,
+- product lifecycle management (PLM),
+- typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
 
 Design and Manufacturing Software used in the areas of architecture, engineering, construction, manufacturing, media, education and entertainment, including:
-building information modelling (BIM), computer aided design (CAD), computer-aided manufacturing (CAM), engineer to order (ETO), typical components of above-mentioned suites.
+
+- building information modelling (BIM),
+- computer aided design (CAD),
+- computer-aided manufacturing (CAM),
+- engineer to order (ETO),
+- typical components of above-mentioned suites.
 
 ## Vedlegg XL. Liste over varer og teknologi som omtalt i § 16a, § 16aa, § 19g og 19i
 

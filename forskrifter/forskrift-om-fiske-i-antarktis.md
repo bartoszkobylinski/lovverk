@@ -15,7 +15,7 @@ xml_hash: "8ee1913c5398fe1c7c8b021418214ad2e0542faa9bc3e9adf1ec3d6d5ec06161"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,11 +36,18 @@ Fiskeridepartementet kan ved forskrift gi nærmere bestemmelser om vilkår for s
 
 ## § 3. Merking av redskap og rapportering
 
-Av hensyn til gjennomføringen av vedtak truffet av den kommisjon som er opprettet i henhold til Krillkonvensjonen artikkel VII, heretter kalt Kommisjonen, kan Fiskeridirektoratet gi pålegg om:merking av fartøyets fiskeredskap og fortøyninger,rapportering av redskap, fortøyninger og andre gjenstander som uforskyldt tapes i sjøen,rapportering av art og antall sjøpattedyr som uforvarende blir tatt i eller med fiskeredskap.
+Av hensyn til gjennomføringen av vedtak truffet av den kommisjon som er opprettet i henhold til Krillkonvensjonen artikkel VII, heretter kalt Kommisjonen, kan Fiskeridirektoratet gi pålegg om:
+
+1. merking av fartøyets fiskeredskap og fortøyninger,
+2. rapportering av redskap, fortøyninger og andre gjenstander som uforskyldt tapes i sjøen,
+3. rapportering av art og antall sjøpattedyr som uforvarende blir tatt i eller med fiskeredskap.
 
 ## § 4. Kontrolltiltak
 
-Fiskeridirektoratet kan i samsvar med vedtak truffet av Kommisjonen gi pålegg om at deltakende fartøy skal ha om bord:montert satelittsporingsutstyrinspektører og observatører.
+Fiskeridirektoratet kan i samsvar med vedtak truffet av Kommisjonen gi pålegg om at deltakende fartøy skal ha om bord:
+
+1. montert satelittsporingsutstyr
+2. inspektører og observatører.
 
 Fiskeridirektoratet kan ved forskrift fastsette nærmere bestemmelser som er nødvendig for å oppnå en tilfredsstillende kontroll med fisket.
 

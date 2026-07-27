@@ -15,7 +15,7 @@ xml_hash: "8153a8162c63e4799865677315dcf85df110b465d1cc8f8e278b36314b8f50e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,15 @@ Ved overtredelse av bestemmelser i, eller gjennomført i, [kapittel 2](forskrift
 
 ### § 4. Gjennomføring av bestemmelser etter EØS-avtalen
 
-[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbc (forordning [(EU) 2019/947](eu/32019r0947)) om regler og prosedyrer for drift av ubemannede luftfartøyer, endret ved:forordning [(EU) 2020/639](eu/32020r0639) av 12. mai 2020,forordning [(EU) 2020/746](eu/32020r0746) av 4. juni 2020, Elektronisk signertforordning [(EU) 2021/1166](eu/32021r1166) av 15. juli 2021,forordning [(EU) 2022/425](eu/32022r0425) av 14. mars 2022,forordning [(EU) 2024/1110](eu/32024r1110),gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbc (forordning [(EU) 2019/947](eu/32019r0947)) om regler og prosedyrer for drift av ubemannede luftfartøyer, endret ved:
+
+1. forordning [(EU) 2020/639](eu/32020r0639) av 12. mai 2020,
+2. forordning [(EU) 2020/746](eu/32020r0746) av 4. juni 2020, Elektronisk signert
+3. forordning [(EU) 2021/1166](eu/32021r1166) av 15. juli 2021,
+4. forordning [(EU) 2022/425](eu/32022r0425) av 14. mars 2022,
+5. forordning [(EU) 2024/1110](eu/32024r1110),
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved forskrift [26 mai 2025 nr. 864](forskrift/2025-05-26-864).
 
@@ -70,7 +78,14 @@ Uten tillatelse fra lokal lufttrafikktjenesteenhet er det ikke tillatt å fly ub
 
 Flyging med ubemannet luftfartøy kan skje i regi av modellflyorganisasjon med godkjent sikkerhetssystem fra Luftfartstilsynet.
 
-Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer og skal minst omfatte:plan for opplæring av fjernpiloter,regler for utstedelse og eventuelt fornyelse av kompetansebevis for fjernpiloter, samt regler om tilbakekall av kompetansebevis ved flyging i strid med forskrifter eller sikkerhetssystemet,operative prosedyrer og sikkerhetsbestemmelser for de ulike kategorier ubemannet luftfartøy som benyttes,bestemmelser om konstruksjon og vedlikehold for de ulike kategorier ubemannet luftfartøy som benyttes,prosedyrer for rapportering og håndtering av avvik fra sikkerhetssystemet, oget system som sikrer at elementene nevnt i bokstav a til e blir utviklet og etterlevet.
+Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer og skal minst omfatte:
+
+1. plan for opplæring av fjernpiloter,
+2. regler for utstedelse og eventuelt fornyelse av kompetansebevis for fjernpiloter, samt regler om tilbakekall av kompetansebevis ved flyging i strid med forskrifter eller sikkerhetssystemet,
+3. operative prosedyrer og sikkerhetsbestemmelser for de ulike kategorier ubemannet luftfartøy som benyttes,
+4. bestemmelser om konstruksjon og vedlikehold for de ulike kategorier ubemannet luftfartøy som benyttes,
+5. prosedyrer for rapportering og håndtering av avvik fra sikkerhetssystemet, og
+6. et system som sikrer at elementene nevnt i bokstav a til e blir utviklet og etterlevet.
 
 Luftfartstilsynet kan sette vilkår for godkjenning av sikkerhetssystem, herunder krav til risikovurdering og tidsbegrenset godkjenning. Luftfartstilsynet kan gi pålegg om endringer av sikkerhetssystemet.
 
@@ -82,7 +97,12 @@ Ved overtredelse av bestemmelser etter denne forskriften kan Luftfartstilsynet p
 
 ### § 10. Gjennomføring av bestemmelser etter EØS-avtalen
 
-[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbb (forordning [(EU) 2019/945](eu/32019r0945)) om ubemannede luftfartøysystemer og om operatører av ubemannede luftfartøysystemer fra tredjeland, endret ved:forordning [(EU) 2020/1058](eu/32020r1058) av 27. april 2020,forordning [(EU) 2024/1108](eu/32024r1108),gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbb (forordning [(EU) 2019/945](eu/32019r0945)) om ubemannede luftfartøysystemer og om operatører av ubemannede luftfartøysystemer fra tredjeland, endret ved:
+
+1. forordning [(EU) 2020/1058](eu/32020r1058) av 27. april 2020,
+2. forordning [(EU) 2024/1108](eu/32024r1108),
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved forskrift [26 mai 2025 nr. 864](forskrift/2025-05-26-864).
 

@@ -32,7 +32,15 @@ Fylkeskommunene skal bidra til å informere om rettighetene og pliktene som føl
 
 Fylkeskommunene skal utbetale statlig driftstilskudd til driftsområdene i Skjærgårdstjenesten. Den økonomiske rammen til de enkelte driftsområdene fastsettes gjennom Stortingets årlige budsjettvedtak.
 
-Midlene til de ulike driftsområdene fordeles og følges opp av følgende fylkeskommuner:Østfold fylkeskommune: Driftsområde Ytre Oslofjord ØstAkershus fylkeskommune: Driftsområde Indre OslofjordVestfold fylkeskommune: Driftsområde Ytre Oslofjord VestTelemark fylkeskommune: Telemark driftsområdeAgder fylkeskommune: Driftsområdene i AgderVestland fylkeskommune: Vestkystparken driftsområdeMøre og Romsdal fylkeskommune: Møre og Romsdal driftsområde.
+Midlene til de ulike driftsområdene fordeles og følges opp av følgende fylkeskommuner:
+
+1. Østfold fylkeskommune: Driftsområde Ytre Oslofjord Øst
+2. Akershus fylkeskommune: Driftsområde Indre Oslofjord
+3. Vestfold fylkeskommune: Driftsområde Ytre Oslofjord Vest
+4. Telemark fylkeskommune: Telemark driftsområde
+5. Agder fylkeskommune: Driftsområdene i Agder
+6. Vestland fylkeskommune: Vestkystparken driftsområde
+7. Møre og Romsdal fylkeskommune: Møre og Romsdal driftsområde.
 
 Ved eventuell opprettelse av nye driftsområder av Skjærgårdstjenesten vil den fylkeskommunen som driftsområdet ligger i, få ansvaret for driftsområdet.
 
@@ -44,7 +52,21 @@ Fylkeskommunen skal bistå Miljødirektoratet i arbeidet med kompetansebygging i
 
 Fylkeskommunene skal vurdere og uttale seg til Miljødirektoratet om søknader fra kommuner og interkommunale friluftsråd om statlig sikring av nye områder for friluftsliv.
 
-For å ivareta forvaltningsansvaret for de statlig sikrede friluftslivsområdene i fylket skal fylkeskommunen:avgjøre søknader om midlertidige omdisponeringer av de sikrede områdeneavgjøre saker om mindre grenseendringergi løpende veiledning til kommuner og friluftsråd i enkeltsaker, samt organisere opplæring og veiledning av kommuner og friluftsråd i form av kurs og seminarerkvalitetssikre og ajourføre friluftslivsmodulen i Naturbaseivareta statens ansvar for bygningsforvaltningen der dette unntaksvis ikke faller inn under det lokale forvaltningsnivåets drifts- og tilsynsansvarivareta statens ansvar for festeforhold, sameie og rettigheter på de sikrede områdenehåndheve statens eiendomsrett og grunneierbeføyelser (tilflotts-, beite-, jakt-, fiskerett osv.)representere staten ved kartforretning for eiendommer med usikre grenserrepresentere staten i jordskiftesakerivareta statens interesser i plansaker og som naboframskaffe oversikter over tilstanden i de sikrede områdene, herunder behov for tilrettelegging og opparbeidinggodkjenne forvaltningsplaner for de sikrede områdene og bidra til at slike blir utarbeidetuttale seg i saker som skal avgjøres av Miljødirektoratet.
+For å ivareta forvaltningsansvaret for de statlig sikrede friluftslivsområdene i fylket skal fylkeskommunen:
+
+1. avgjøre søknader om midlertidige omdisponeringer av de sikrede områdene
+2. avgjøre saker om mindre grenseendringer
+3. gi løpende veiledning til kommuner og friluftsråd i enkeltsaker, samt organisere opplæring og veiledning av kommuner og friluftsråd i form av kurs og seminarer
+4. kvalitetssikre og ajourføre friluftslivsmodulen i Naturbase
+5. ivareta statens ansvar for bygningsforvaltningen der dette unntaksvis ikke faller inn under det lokale forvaltningsnivåets drifts- og tilsynsansvar
+6. ivareta statens ansvar for festeforhold, sameie og rettigheter på de sikrede områdene
+7. håndheve statens eiendomsrett og grunneierbeføyelser (tilflotts-, beite-, jakt-, fiskerett osv.)
+8. representere staten ved kartforretning for eiendommer med usikre grenser
+9. representere staten i jordskiftesaker
+10. ivareta statens interesser i plansaker og som nabo
+11. framskaffe oversikter over tilstanden i de sikrede områdene, herunder behov for tilrettelegging og opparbeiding
+12. godkjenne forvaltningsplaner for de sikrede områdene og bidra til at slike blir utarbeidet
+13. uttale seg i saker som skal avgjøres av Miljødirektoratet.
 
 ## § 4. Veiledning og kompetanseoppbygging
 

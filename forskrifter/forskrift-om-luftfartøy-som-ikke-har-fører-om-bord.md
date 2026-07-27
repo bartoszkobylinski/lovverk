@@ -44,9 +44,21 @@ Forskriften gjelder ikke for Forsvarets bruk av luftfartøy uten fører om bord.
 
 ### § 4. Definisjoner og forkortelser
 
-I denne forskrift forstås med*luftfartøy som ikke har fører om bord*: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen har et annet formål enn rekreasjon, sport eller konkurranse*modellfly*: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen kun har rekreasjon, sport eller konkurranse som formål*pilot*: den som betjener luftfartøyets styringssystemer og er ansvarlig for føring og sikkerheten under flygingen*fartøysjef:* piloten som er oppnevnt som ansvarlig for å føre luftfartøyet og sikkerheten under flygingen*NOTAM (Notice to Airmen)*: en melding som distribueres ved telekommunikasjon og som inneholder opplysninger om opprettelse, tilstand eller endring av navigasjonshjelpemiddel, tjeneste, prosedyre eller fareforhold som det er viktig i tide å få kjennskap til for personell som har med planlegging og gjennomføring av flyginger å gjøre.
+I denne forskrift forstås med
 
-I denne forskrift forstås følgende forkortelser med:*VLOS (Visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord som kan gjennomføres slik at luftfartøyet hele tiden kan observeres uten hjelpemidler som kikkert, kamera, eller andre hjelpemidler, unntatt vanlige briller*EVLOS (Extended Visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord utenfor pilot eller fartøysjefs synsrekkevidde, der visuell kontroll opprettholdes ved bruk av observatør*BLOS (Beyond visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord utenfor synsrekkevidde for pilot, fartøysjef eller observatør*RO*: RPAS-operatør (Remotely Piloted Aircraft Systems)*MTOM*: største tillatte startmasse.
+1. *luftfartøy som ikke har fører om bord*: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen har et annet formål enn rekreasjon, sport eller konkurranse
+2. *modellfly*: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen kun har rekreasjon, sport eller konkurranse som formål
+3. *pilot*: den som betjener luftfartøyets styringssystemer og er ansvarlig for føring og sikkerheten under flygingen
+4. *fartøysjef:* piloten som er oppnevnt som ansvarlig for å føre luftfartøyet og sikkerheten under flygingen
+5. *NOTAM (Notice to Airmen)*: en melding som distribueres ved telekommunikasjon og som inneholder opplysninger om opprettelse, tilstand eller endring av navigasjonshjelpemiddel, tjeneste, prosedyre eller fareforhold som det er viktig i tide å få kjennskap til for personell som har med planlegging og gjennomføring av flyginger å gjøre.
+
+I denne forskrift forstås følgende forkortelser med:
+
+1. *VLOS (Visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord som kan gjennomføres slik at luftfartøyet hele tiden kan observeres uten hjelpemidler som kikkert, kamera, eller andre hjelpemidler, unntatt vanlige briller
+2. *EVLOS (Extended Visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord utenfor pilot eller fartøysjefs synsrekkevidde, der visuell kontroll opprettholdes ved bruk av observatør
+3. *BLOS (Beyond visual Line Of Sight)*: flyging med luftfartøy som ikke har fører om bord utenfor synsrekkevidde for pilot, fartøysjef eller observatør
+4. *RO*: RPAS-operatør (Remotely Piloted Aircraft Systems)
+5. *MTOM*: største tillatte startmasse.
 
 ### § 5. Tilsyn mv.
 
@@ -60,7 +72,10 @@ Luftfartstilsynets inspektører skal gis uhindret adgang til alle aktuelle områ
 
 All flyging med modellfly må skje på en hensynsfull måte som ikke utsetter luftfartøy, personer, fugler, dyr eller eiendom for risiko for skade eller for øvrig er til sjenanse for allmennheten.
 
-Modellflyet må til enhver tid være godt synlig for den som fører det slik at full kontroll over modellflyet kan opprettholdes. Flyging med modellfly kan bare skje i dagslysperioden og ikkehøyere enn 120 meter over bakken eller vannetnærmere enn 150 meter fra personer, motorkjøretøy eller bygning som ikke er under fartøyførerens kontroll med unntak av under start og landing
+Modellflyet må til enhver tid være godt synlig for den som fører det slik at full kontroll over modellflyet kan opprettholdes. Flyging med modellfly kan bare skje i dagslysperioden og ikke
+
+1. høyere enn 120 meter over bakken eller vannet
+2. nærmere enn 150 meter fra personer, motorkjøretøy eller bygning som ikke er under fartøyførerens kontroll med unntak av under start og landing
 
 Fastsatte begrensninger i andre ledd gjelder ikke for flyging som skjer i regi av modellflyklubb med sikkerhetssystem godkjent av Luftfartstilsynet.
 
@@ -70,7 +85,14 @@ Hvis den som fører modellflyet har bistand fra en person som står ved siden av
 
 ### § 6a. Godkjenning av sikkerhetssystem for modellflyklubb
 
-Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer og skal minst omfatte:plan for opplæring av modellflygere,regler for utstedelse og eventuelt fornyelse av kompetansebevis for modellflygere, samt for tilbakekall av kompetansebevis ved flyging i strid med forskrifter eller sikkerhetssystemet,operative instrukser og sikkerhetsbestemmelser for ulike kategorier modellfly som benyttes,bestemmelser om konstruksjon og vedlikehold av modellfly,prosedyrer for rapportering og håndtering av avvik fra sikkerhetssystemet, oget system som sikrer at elementene nevnt i bokstav a til e blir utviklet og etterlevet.
+Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer og skal minst omfatte:
+
+1. plan for opplæring av modellflygere,
+2. regler for utstedelse og eventuelt fornyelse av kompetansebevis for modellflygere, samt for tilbakekall av kompetansebevis ved flyging i strid med forskrifter eller sikkerhetssystemet,
+3. operative instrukser og sikkerhetsbestemmelser for ulike kategorier modellfly som benyttes,
+4. bestemmelser om konstruksjon og vedlikehold av modellfly,
+5. prosedyrer for rapportering og håndtering av avvik fra sikkerhetssystemet, og
+6. et system som sikrer at elementene nevnt i bokstav a til e blir utviklet og etterlevet.
 
 Luftfartstilsynet kan sette vilkår for godkjenning av sikkerhetssystem, herunder krav til risikovurdering, tidsbegrenset godkjenning og rett til å gi pålegg om endringer av sikkerhetssystemet.
 
@@ -158,7 +180,12 @@ Operatør av type RO 1 må innen 1. april 2019 bekrefte at virksomheten ikke er 
 
 Operatør av type RO 1 må sende melding til Luftfartstilsynet om oppstart av ny virksomhet før virksomheten tar til. Meldingen skal inneholde opplysninger om virksomhetens navn, adresse og kontaktinformasjon samt informasjon om type luftfartøy som skal benyttes.
 
-RO 1 er virksomhet hvor luftfartøyethar en MTOM opp til 2,5 kg oghar maksimal hastighet 60 knopsom skal operere utelukkende innenfor VLOS i dagslysperioden og innenfor fastsatte sikkerhetsavstander, jf. [§ 51](forskrift/2015-11-30-1404/§51).
+RO 1 er virksomhet hvor luftfartøyet
+
+1. har en MTOM opp til 2,5 kg og
+2. har maksimal hastighet 60 knop
+
+som skal operere utelukkende innenfor VLOS i dagslysperioden og innenfor fastsatte sikkerhetsavstander, jf. [§ 51](forskrift/2015-11-30-1404/§51).
 
 ### § 23. Krav til organisasjon
 
@@ -176,7 +203,12 @@ Hvis virksomheten er særlig kompleks må operatøren etablere og vedlikeholde e
 
 ### § 24. Operasjonsmanual
 
-Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenbeskrivelse av vedlikeholdsprosedyreroversikt over alle luftfartøy som inngår i virksomheten.
+Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholde
+
+1. beskrivelse av virksomhetens oppbygging
+2. beskrivelse av de operasjonstyper som inngår i virksomheten
+3. beskrivelse av vedlikeholdsprosedyrer
+4. oversikt over alle luftfartøy som inngår i virksomheten.
 
 ### § 25. Loggføring
 
@@ -200,7 +232,12 @@ Pilot må kunne demonstrere tilstrekkelige ferdigheter til at flyging kan skje s
 
 Operatør av type RO 2 må ha tillatelse fra Luftfartstilsynet før virksomheten kan ta til. Søknaden må inneholde en risikoanalyse og operasjonsmanual.
 
-RO 2 er virksomhet hvor luftfartøyethar en MTOM opp til 25 kg oghar maksimal hastighet 80 knopsom skal operere VLOS eller EVLOS og innenfor fastsatte sikkerhetsavstander, jf. [§ 51](forskrift/2015-11-30-1404/§51), eller BLOS i samsvar med [§ 56](forskrift/2015-11-30-1404/§56) – § 59.
+RO 2 er virksomhet hvor luftfartøyet
+
+1. har en MTOM opp til 25 kg og
+2. har maksimal hastighet 80 knop
+
+som skal operere VLOS eller EVLOS og innenfor fastsatte sikkerhetsavstander, jf. [§ 51](forskrift/2015-11-30-1404/§51), eller BLOS i samsvar med [§ 56](forskrift/2015-11-30-1404/§56) – § 59.
 
 ### § 30. Krav til organisasjon
 
@@ -220,7 +257,15 @@ Operatøren skal etablere og vedlikeholde et kvalitetssystem tilpasset driften.
 
 ### § 32. Operasjonsmanual
 
-Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenprosedyrer for de operasjoner som skal utføres, inkludert risikoanalyserbeskrivelse av krav til kompetanse for vedlikeholdspersonellbeskrivelse av krav til kompetanse og vedlikeholdstrening for fartøysjefvedlikeholdsprogrammeroversikt over alle luftfartøy som inngår i virksomheten.
+Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholde
+
+1. beskrivelse av virksomhetens oppbygging
+2. beskrivelse av de operasjonstyper som inngår i virksomheten
+3. prosedyrer for de operasjoner som skal utføres, inkludert risikoanalyser
+4. beskrivelse av krav til kompetanse for vedlikeholdspersonell
+5. beskrivelse av krav til kompetanse og vedlikeholdstrening for fartøysjef
+6. vedlikeholdsprogrammer
+7. oversikt over alle luftfartøy som inngår i virksomheten.
 
 ### § 33. Luftdyktighet
 
@@ -256,7 +301,14 @@ Pilot og fartøysjef må kunne demonstrere tilstrekkelige ferdigheter til at fly
 
 Operatør av type RO 3 må ha tillatelse fra Luftfartstilsynet før virksomheten tar til. Søknaden må inneholde en risikoanalyse og operasjonsmanual.
 
-RO 3 er virksomhet hvor luftfartøyethar en MTOM på 25 kg eller mer, ellerhar maksimal hastighet over 80 knop ellerdrives av turbinmotor, ellerskal operere BLOS høyere enn 120 meter, ellerskal operere i kontrollert luftrom høyere enn 120 meter, ellerskal operere over eller i nærhet av folkeansamlinger i andre tilfeller enn det som følger av [§ 51](forskrift/2015-11-30-1404/§51) tredje ledd.
+RO 3 er virksomhet hvor luftfartøyet
+
+1. har en MTOM på 25 kg eller mer, eller
+2. har maksimal hastighet over 80 knop eller
+3. drives av turbinmotor, eller
+4. skal operere BLOS høyere enn 120 meter, eller
+5. skal operere i kontrollert luftrom høyere enn 120 meter, eller
+6. skal operere over eller i nærhet av folkeansamlinger i andre tilfeller enn det som følger av [§ 51](forskrift/2015-11-30-1404/§51) tredje ledd.
 
 ### § 38. Krav til organisasjon
 
@@ -276,7 +328,15 @@ Operatøren skal etablere og vedlikeholde et kvalitetssystem tilpasset driften.
 
 ### § 40. Operasjonsmanual
 
-Operatøren skal utarbeide en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenprosedyrer for de operasjoner som skal utføres, inkludert risikoanalyserbeskrivelse av krav til kompetanse for vedlikeholdspersonellbeskrivelse av krav til kompetanse og vedlikeholdstrening for pilot og fartøysjefvedlikeholdsprogrammeroversikt over alle luftfartøy som inngår i virksomheten.
+Operatøren skal utarbeide en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholde
+
+1. beskrivelse av virksomhetens oppbygging
+2. beskrivelse av de operasjonstyper som inngår i virksomheten
+3. prosedyrer for de operasjoner som skal utføres, inkludert risikoanalyser
+4. beskrivelse av krav til kompetanse for vedlikeholdspersonell
+5. beskrivelse av krav til kompetanse og vedlikeholdstrening for pilot og fartøysjef
+6. vedlikeholdsprogrammer
+7. oversikt over alle luftfartøy som inngår i virksomheten.
 
 ### § 41. Luftdyktighet
 
@@ -344,7 +404,11 @@ Pilot og fartøysjef skal forsikre seg om at fartøyet er luftdyktig før flygin
 
 All flyging må skje på en hensynsfull måte som ikke utsetter luftfartøy, personer, fugler, dyr eller eiendom for risiko for skade eller for øvrig er til sjenanse for allmennheten.
 
-Luftfartøyet må til enhver tid være godt synlig for den som fører det. Ved enhver flyging skal det holdes nødvendige sikkerhetsavstander. Det er ikke tillatt å flyhøyere enn 120 meter over bakken eller vannetnærmere enn 150 meter fra folkeansamling på mer enn 100 personernærmere enn 50 meter fra personer, motorkjøretøy eller bygning som ikke er under pilotens og fartøysjefens kontroll.
+Luftfartøyet må til enhver tid være godt synlig for den som fører det. Ved enhver flyging skal det holdes nødvendige sikkerhetsavstander. Det er ikke tillatt å fly
+
+1. høyere enn 120 meter over bakken eller vannet
+2. nærmere enn 150 meter fra folkeansamling på mer enn 100 personer
+3. nærmere enn 50 meter fra personer, motorkjøretøy eller bygning som ikke er under pilotens og fartøysjefens kontroll.
 
 Luftfartøy som har en MTOM på 250 gram eller mindre, kan flys VLOS, EVLOS eller BLOS, men ikke høyere enn 50 meter over bakken eller vannet. Sikkerhetsavstandene i andre ledd bokstav b og c gjelder ikke.
 
@@ -438,7 +502,11 @@ Ved tap av kontroll under flyging i luftrom klasse G, skal nærmeste enhet av lu
 
 ### § 67. Påbudt lys
 
-Luftfartøyet skal være utrustet med lavintense lys, hvitt med minst 10 candela, hvor blink fremkalles ved roterende lys (strobelys) og med minimum 20 blink i minuttet, for all flygingi kontrollert luftromover 120 meter i ikke-kontrollert luftromBLOS.
+Luftfartøyet skal være utrustet med lavintense lys, hvitt med minst 10 candela, hvor blink fremkalles ved roterende lys (strobelys) og med minimum 20 blink i minuttet, for all flyging
+
+1. i kontrollert luftrom
+2. over 120 meter i ikke-kontrollert luftrom
+3. BLOS.
 
 ### § 68. Flyging i mørke
 

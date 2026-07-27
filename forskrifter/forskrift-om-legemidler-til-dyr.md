@@ -17,7 +17,7 @@ xml_hash: "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,11 @@ Forordning om legemidler til dyr, jf. [legemiddelloven § 2b](lov/1992-12-04-132
 
 ### § 1-3. Endringer som ikke krever forhåndsvurdering
 
-Forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/997](eu/32023r0997)forordning [(EU) 2024/916](eu/32024r0916)forordning [(EU) 2025/163](eu/32025r0163)
+Forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) 2023/997](eu/32023r0997)
+- forordning [(EU) 2024/916](eu/32024r0916)
+- forordning [(EU) 2025/163](eu/32025r0163)
 
 > Endret ved forskrifter [30 april 2024 nr. 714](forskrift/2024-04-30-714), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1-2), [21 jan 2025 nr. 53](forskrift/2025-01-21-53), [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026).
 
@@ -146,7 +150,29 @@ Direktoratet for medisinske produkter er etter lov om legemidler § 28 første l
 
 ### § 3-1. Definisjoner
 
-I denne forskriften menes med:*Sponsor:* En person, et firma, en institusjon eller organisasjon som tar ansvaret for iverksetting, ledelse og/eller finansiering av en klinisk studie, og som undertegner søknaden*Monitor:* Den person som skal påse at studien blir gjennomført og rapportert i overensstemmelse med protokollen, standard operasjonsprosedyrer, gjeldende retningslinjer for god klinisk utprøvningspraksis (GCP), øvrig regelverk og retningslinjer, samt påse at studien har den avtalte progresjon*Utprøver:* Veterinær eller fiskehelsebiolog som deltar i en klinisk utprøvning og som er ansvarlig for alle aspekter vedrørende gjennomføringen av studien på et gitt utprøvningssted*Nasjonal hovedutprøver:* Den utprøver som er nasjonalt ansvarlig og koordinator for multisenterutprøvinger*Multisenterutprøving:* klinisk utprøving som foregår ved flere sentre samtidig og etter samme protokoll*CRO:* en person, eller en organisasjon (kommersiell, akademisk, eller andre) som er engasjert av sponsor til å gjennomføre en eller flere av sponsors utprøvingsrelaterte plikter og funksjoner*God klinisk utprøvingspraksis:* en standard for design, ledelse, utførelse, monitorering, auditering, registrering og rapportering av kliniske utprøvinger, og som sikrer at data og de rapporterte resultater er troverdige og nøyaktige*Utprøvingspreparat:* En biologisk eller farmasøytisk formulering av ett eller flere virkestoffer som blir benyttet i en klinisk utprøving for å undersøke sikkerhet og/eller effekt. Definisjonen inkluderer preparater med norsk markedsføringstillatelse når de blir brukt for en ikke godkjent indikasjon eller for å skaffe til veie ytterligere eller bekreftende informasjon om den markedsførte formuleringen, samt når preparatet blir brukt, formulert eller pakket på en annen måte enn den godkjente formuleringen.*Protokoll:* Et dokument som beskriver formål, design, metodologi, statistiske betraktninger og organisering av utprøvningen*Teknisk bruksanvisning:* Et dokument som beskriver hvordan utprøvingspreparatet eller et kontrollpreparat skal håndteres og tilføres dyr som er inkludert i utprøvingen*Kontrollpreparat:* Et legemiddel som tilføres dyr som er inkludert i utprøvingen og som utprøvingspreparatet skal sammenlignes med når det gjelder sikkerhet og/eller effekt*Positiv kontroll:* Et kontrollpreparat som er godkjent til det bruksområdet der sikkerhet og/eller effekt av utprøvingspreparatet skal undersøkes*Personell:* Enhver person som har fått tildelt oppgaver som inngår i gjennomføring av utprøvingen*Eierinformasjon og informert samtykke:* En prosess der dyreeieren eller dennes representant frivillig skriftlig bekrefter at dyreeierens dyr kan delta i en bestemt utprøving, etter å ha blitt behørig informert om alle aspekter ved utprøvingen som er relevante for dyreeierens/representantens avgjørelse om deltagelse. Dyreeier/representant skal ha mottatt relevant skriftlig informasjon (eierinformasjon) om utprøvingspreparatet og utprøvningen før skriftlig samtykke.*Utprøverinformasjon:* Skriftlig informasjon om utprøvingen og eventuelt opplæringsmateriale som er tiltenkt veterinær/fiskehelsebiolog ved rekruttering av utprøver*Uønsket hendelse:*en uheldig medisinsk hendelse hos ett eller flere dyr som har fått et legemiddel i en klinisk utprøving, og som ikke nødvendigvis har direkte sammenheng med denne behandlingen eller håndteringenen uheldig medisinsk hendelse hos en person som har håndtert et legemiddel i en klinisk utprøving, og som kan ha sammenheng med legemidletslakting eller levering til konsum av melk, egg eller andre næringsmidler fra dyr som inngår i utprøvingen, før utløpet av den fastsatte tilbakeholdelsestidenen uønsket miljøhendelse som for eksempel utilsiktet utslipp av legemiddel eller urenset legemiddelholdig avløpsvann.
+I denne forskriften menes med:
+
+1. *Sponsor:* En person, et firma, en institusjon eller organisasjon som tar ansvaret for iverksetting, ledelse og/eller finansiering av en klinisk studie, og som undertegner søknaden
+2. *Monitor:* Den person som skal påse at studien blir gjennomført og rapportert i overensstemmelse med protokollen, standard operasjonsprosedyrer, gjeldende retningslinjer for god klinisk utprøvningspraksis (GCP), øvrig regelverk og retningslinjer, samt påse at studien har den avtalte progresjon
+3. *Utprøver:* Veterinær eller fiskehelsebiolog som deltar i en klinisk utprøvning og som er ansvarlig for alle aspekter vedrørende gjennomføringen av studien på et gitt utprøvningssted
+4. *Nasjonal hovedutprøver:* Den utprøver som er nasjonalt ansvarlig og koordinator for multisenterutprøvinger
+5. *Multisenterutprøving:* klinisk utprøving som foregår ved flere sentre samtidig og etter samme protokoll
+6. *CRO:* en person, eller en organisasjon (kommersiell, akademisk, eller andre) som er engasjert av sponsor til å gjennomføre en eller flere av sponsors utprøvingsrelaterte plikter og funksjoner
+7. *God klinisk utprøvingspraksis:* en standard for design, ledelse, utførelse, monitorering, auditering, registrering og rapportering av kliniske utprøvinger, og som sikrer at data og de rapporterte resultater er troverdige og nøyaktige
+8. *Utprøvingspreparat:* En biologisk eller farmasøytisk formulering av ett eller flere virkestoffer som blir benyttet i en klinisk utprøving for å undersøke sikkerhet og/eller effekt. Definisjonen inkluderer preparater med norsk markedsføringstillatelse når de blir brukt for en ikke godkjent indikasjon eller for å skaffe til veie ytterligere eller bekreftende informasjon om den markedsførte formuleringen, samt når preparatet blir brukt, formulert eller pakket på en annen måte enn den godkjente formuleringen.
+9. *Protokoll:* Et dokument som beskriver formål, design, metodologi, statistiske betraktninger og organisering av utprøvningen
+10. *Teknisk bruksanvisning:* Et dokument som beskriver hvordan utprøvingspreparatet eller et kontrollpreparat skal håndteres og tilføres dyr som er inkludert i utprøvingen
+11. *Kontrollpreparat:* Et legemiddel som tilføres dyr som er inkludert i utprøvingen og som utprøvingspreparatet skal sammenlignes med når det gjelder sikkerhet og/eller effekt
+12. *Positiv kontroll:* Et kontrollpreparat som er godkjent til det bruksområdet der sikkerhet og/eller effekt av utprøvingspreparatet skal undersøkes
+13. *Personell:* Enhver person som har fått tildelt oppgaver som inngår i gjennomføring av utprøvingen
+14. *Eierinformasjon og informert samtykke:* En prosess der dyreeieren eller dennes representant frivillig skriftlig bekrefter at dyreeierens dyr kan delta i en bestemt utprøving, etter å ha blitt behørig informert om alle aspekter ved utprøvingen som er relevante for dyreeierens/representantens avgjørelse om deltagelse. Dyreeier/representant skal ha mottatt relevant skriftlig informasjon (eierinformasjon) om utprøvingspreparatet og utprøvningen før skriftlig samtykke.
+15. *Utprøverinformasjon:* Skriftlig informasjon om utprøvingen og eventuelt opplæringsmateriale som er tiltenkt veterinær/fiskehelsebiolog ved rekruttering av utprøver
+16. *Uønsket hendelse:*
+
+    1. en uheldig medisinsk hendelse hos ett eller flere dyr som har fått et legemiddel i en klinisk utprøving, og som ikke nødvendigvis har direkte sammenheng med denne behandlingen eller håndteringen
+    2. en uheldig medisinsk hendelse hos en person som har håndtert et legemiddel i en klinisk utprøving, og som kan ha sammenheng med legemidlet
+    3. slakting eller levering til konsum av melk, egg eller andre næringsmidler fra dyr som inngår i utprøvingen, før utløpet av den fastsatte tilbakeholdelsestiden
+    4. en uønsket miljøhendelse som for eksempel utilsiktet utslipp av legemiddel eller urenset legemiddelholdig avløpsvann.
 
 ### § 3-2. Tillatelse
 
@@ -160,7 +186,17 @@ Forskning der bruk av legemiddel inngår, men der hovedhensikten ikke er å skaf
 
 ### § 3-3. Søknad
 
-Søknad om klinisk utprøving skal sendes elektronisk til Direktoratet for medisinske produkter. Søknaden skal inneholde:de opplysninger som fremgår av søknadskjema fastsatt av Direktoratet for medisinske produkterprotokoll, jf. [§ 3-4](forskrift/2022-09-08-1573/§3-4)tilleggsopplysninger om utprøvingen, jf. [§ 3-5](forskrift/2022-09-08-1573/§3-5)dokumentasjon av utprøvningslegemidlet, jf. [§ 3-6](forskrift/2022-09-08-1573/§3-6)kopi av skriftlig informasjon som er planlagt gitt til dyreeier, jf. [§ 3-1](forskrift/2022-09-08-1573/§3-1) (n)kopi av skriftlige informasjon/opplæringsmateriale som er planlagt gitt til utprøver, jf. [§ 3-1](forskrift/2022-09-08-1573/§3-1) (o)forslag til merking av utprøvingspreparat og teknisk bruksanvisning, jf. [§ 3-7](forskrift/2022-09-08-1573/§3-7)ved utprøving på dyr som under eller etter forsøket skal benyttes til matproduksjon: begrunnet forslag til tilbakeholdelsestidutfylt rekvisisjonsskjema for utprøvingspreparat og eventuelt kontrollpreparat uten markedsføringstillatelse i Norge.
+Søknad om klinisk utprøving skal sendes elektronisk til Direktoratet for medisinske produkter. Søknaden skal inneholde:
+
+1. de opplysninger som fremgår av søknadskjema fastsatt av Direktoratet for medisinske produkter
+2. protokoll, jf. [§ 3-4](forskrift/2022-09-08-1573/§3-4)
+3. tilleggsopplysninger om utprøvingen, jf. [§ 3-5](forskrift/2022-09-08-1573/§3-5)
+4. dokumentasjon av utprøvningslegemidlet, jf. [§ 3-6](forskrift/2022-09-08-1573/§3-6)
+5. kopi av skriftlig informasjon som er planlagt gitt til dyreeier, jf. [§ 3-1](forskrift/2022-09-08-1573/§3-1) (n)
+6. kopi av skriftlige informasjon/opplæringsmateriale som er planlagt gitt til utprøver, jf. [§ 3-1](forskrift/2022-09-08-1573/§3-1) (o)
+7. forslag til merking av utprøvingspreparat og teknisk bruksanvisning, jf. [§ 3-7](forskrift/2022-09-08-1573/§3-7)
+8. ved utprøving på dyr som under eller etter forsøket skal benyttes til matproduksjon: begrunnet forslag til tilbakeholdelsestid
+9. utfylt rekvisisjonsskjema for utprøvingspreparat og eventuelt kontrollpreparat uten markedsføringstillatelse i Norge.
 
 Søker skal ha skriftlig samtykke fra dyreeier eller dennes representant for alle dyr som skal inkluderes i studien. Kopi av signert samtykkeskjema skal framlegges ved forespørsel fra Direktoratet for medisinske produkter.
 
@@ -178,19 +214,46 @@ Dersom særlige grunner foreligger, kan Direktoratet for medisinske produkter gj
 
 ### § 3-4. Protokoll
 
-Protokollen skal inneholde informasjon om følgende:generell administrativ informasjonhvorvidt utprøvingen utføres i henhold til god klinisk utprøvingspraksisbakgrunn for og formål med utprøvingeninklusjons- og eksklusjonskriterierbehandlingsoppsettetendepunkter for registrering av effekt og vurdering av sikkerhetdefinisjon av uønskede hendelser og rutiner for melding av slikemetodevalg og statistisk begrunnelse for antall forsøksindivider og enheter (lokaliteter, binger, merder m.v.) samt resultatvurderingsikring av kvalitet på data og prosedyrerdatahåndtering og arkiveringinformasjon om utprøvingen inngår som en del av en internasjonal studie.
+Protokollen skal inneholde informasjon om følgende:
+
+1. generell administrativ informasjon
+2. hvorvidt utprøvingen utføres i henhold til god klinisk utprøvingspraksis
+3. bakgrunn for og formål med utprøvingen
+4. inklusjons- og eksklusjonskriterier
+5. behandlingsoppsettet
+6. endepunkter for registrering av effekt og vurdering av sikkerhet
+7. definisjon av uønskede hendelser og rutiner for melding av slike
+8. metodevalg og statistisk begrunnelse for antall forsøksindivider og enheter (lokaliteter, binger, merder m.v.) samt resultatvurdering
+9. sikring av kvalitet på data og prosedyrer
+10. datahåndtering og arkivering
+11. informasjon om utprøvingen inngår som en del av en internasjonal studie.
 
 Protokollen skal være datert og versjonsmerket, samt signert av minimum sponsor, monitor og (hoved)utprøver. Ved søknad i henhold til § 3-3 annet ledd skal protokollen være signert av minimum (hoved)utprøver.
 
 ### § 3-5. Tilleggsopplysninger
 
-Søknaden skal inneholde følgende tilleggsopplysninger:hovedutprøvers faglige kvalifikasjoner for den aktuelle utprøvingenplan for informasjon til berørt personelletiske vurderinger av håndtering, prosedyrer m.v. som inkluderte dyr skal utsettes for, samt av utprøvingens omfangplan for håndtering av uønskede hendelserplan for legemiddelhåndteringmerking av legemiddelpakningen, jf. [§ 3-7](forskrift/2022-09-08-1573/§3-7)for kliniske utprøvinger som definert i forordning [(EU) 2019/6 artikkel 9](eu/32019r0006/a9): utprøvingens plass i legemiddelprodusentens samlede plan for utviklingen av legemidlethvordan dyreeiere og dyrehelsepersonell rekrutteresdeltakende utprøvere og anlegg/besetningermelding om når det planlegges å starte utprøvingen.
+Søknaden skal inneholde følgende tilleggsopplysninger:
+
+1. hovedutprøvers faglige kvalifikasjoner for den aktuelle utprøvingen
+2. plan for informasjon til berørt personell
+3. etiske vurderinger av håndtering, prosedyrer m.v. som inkluderte dyr skal utsettes for, samt av utprøvingens omfang
+4. plan for håndtering av uønskede hendelser
+5. plan for legemiddelhåndtering
+6. merking av legemiddelpakningen, jf. [§ 3-7](forskrift/2022-09-08-1573/§3-7)
+7. for kliniske utprøvinger som definert i forordning [(EU) 2019/6 artikkel 9](eu/32019r0006/a9): utprøvingens plass i legemiddelprodusentens samlede plan for utviklingen av legemidlet
+8. hvordan dyreeiere og dyrehelsepersonell rekrutteres
+9. deltakende utprøvere og anlegg/besetninger
+10. melding om når det planlegges å starte utprøvingen.
 
 Tilleggsopplysningene i bokstav i kan gis etter rekruttering.
 
 ### § 3-6. Dokumentasjon av utprøvingspreparat
 
-Søknad om klinisk utprøving skal inneholde dokumentasjon av legemidlets:tilvirkning og kvalitet, tilpasset aktuell legemiddeltypesikkerhet, herunder sikkerhet for dyr som inngår i utprøvingen, sikkerhet for personell som håndterer legemidlet (brukersikkerhetsvurdering), sikkerhet for miljøet (miljørisikovurdering) og, når relevant, sikkerhet for konsumenter av næringsmidler fra dyr som inngår i utprøvingen (matsikkerhetsvurdering), ogeffekt, basert på laboratorieforsøk og eventuelle tidligere kliniske utprøvinger.
+Søknad om klinisk utprøving skal inneholde dokumentasjon av legemidlets:
+
+1. tilvirkning og kvalitet, tilpasset aktuell legemiddeltype
+2. sikkerhet, herunder sikkerhet for dyr som inngår i utprøvingen, sikkerhet for personell som håndterer legemidlet (brukersikkerhetsvurdering), sikkerhet for miljøet (miljørisikovurdering) og, når relevant, sikkerhet for konsumenter av næringsmidler fra dyr som inngår i utprøvingen (matsikkerhetsvurdering), og
+3. effekt, basert på laboratorieforsøk og eventuelle tidligere kliniske utprøvinger.
 
 Direktoratet for medisinske produkter kan gi nærmere retningslinjer for hvilken dokumentasjon som skal gis.
 
@@ -198,7 +261,22 @@ Direktoratet for medisinske produkter kan gi nærmere retningslinjer for hvilken
 
 ### § 3-7. Merking
 
-Legemiddelpakningene som benyttes i studien skal merkes med:navn, adresse, e-post og telefonnummer til sponsor, CRO eller hovedutprøver (hovedkontakt for informasjon om utprøvingen)legemidlets navn eller kodebetegnelsebatchnummer eller ID-nummerlegemiddelform og eventuelt styrkedyreartadministrasjonsmåtedoseringoppbevaringsbetingelserutløpsdatostudiekodeteknisk bruksanvisning«Til dyr»«Til klinisk utprøving»«Oppbevares utilgjengelig for barn» dersom legemidlet skal utleveres til dyreeier/dyreholder.
+Legemiddelpakningene som benyttes i studien skal merkes med:
+
+1. navn, adresse, e-post og telefonnummer til sponsor, CRO eller hovedutprøver (hovedkontakt for informasjon om utprøvingen)
+2. legemidlets navn eller kodebetegnelse
+3. batchnummer eller ID-nummer
+4. legemiddelform og eventuelt styrke
+5. dyreart
+6. administrasjonsmåte
+7. dosering
+8. oppbevaringsbetingelser
+9. utløpsdato
+10. studiekode
+11. teknisk bruksanvisning
+12. «Til dyr»
+13. «Til klinisk utprøving»
+14. «Oppbevares utilgjengelig for barn» dersom legemidlet skal utleveres til dyreeier/dyreholder.
 
 Informasjonen i første ledd bokstav f, g og k kan gis i et separat pakningsvedlegg.
 
@@ -234,9 +312,23 @@ Er søknaden valid, men etter vurdering anses ufullstendig, skal Direktoratet fo
 
 ### § 3-12. Vurdering av legemidlets nytte-/risikoforhold
 
-Direktoratet for medisinske produkters vurdering av legemidlets nytte-/risikoforhold skjer på grunnlag av en vurdering av:legemidlets kvalitet, sikkerhet og antatte effektden kliniske utprøvingens relevans og utformingden vitenskapelige standardenforsøksmetodeneavveining av den antatte nytten av behandlingen for inkluderte dyr og fremtidige pasienter mot risikoen og ulempene for inkluderte dyr, for den som håndterer legemidlet og for miljøetmatsikkerhetprotokollutprøvers kvalifikasjonerinformasjon beregnet på utprøver og dyreeiere.
+Direktoratet for medisinske produkters vurdering av legemidlets nytte-/risikoforhold skjer på grunnlag av en vurdering av:
 
-Direktoratet for medisinske produkter godkjenner søknaden dersom:legemidlets forventede nytte kan berettige risikoen ved å gjennomføre forsøket,nytte-/risikoforholdet i bokstav a er veiet i forhold til det enkelte dyr i utprøvningen og for andre nåværende og fremtidige pasienter ognytte-/risikoforholdet i bokstav a er veiet i forhold til miljørisiko og matsikkerhet.
+1. legemidlets kvalitet, sikkerhet og antatte effekt
+2. den kliniske utprøvingens relevans og utforming
+3. den vitenskapelige standarden
+4. forsøksmetodene
+5. avveining av den antatte nytten av behandlingen for inkluderte dyr og fremtidige pasienter mot risikoen og ulempene for inkluderte dyr, for den som håndterer legemidlet og for miljøet
+6. matsikkerhet
+7. protokoll
+8. utprøvers kvalifikasjoner
+9. informasjon beregnet på utprøver og dyreeiere.
+
+Direktoratet for medisinske produkter godkjenner søknaden dersom:
+
+1. legemidlets forventede nytte kan berettige risikoen ved å gjennomføre forsøket,
+2. nytte-/risikoforholdet i bokstav a er veiet i forhold til det enkelte dyr i utprøvningen og for andre nåværende og fremtidige pasienter og
+3. nytte-/risikoforholdet i bokstav a er veiet i forhold til miljørisiko og matsikkerhet.
 
 Dersom vilkårene for godkjenning av søknaden ikke er oppfylt, avslår Direktoratet for medisinske produkter søknaden.
 
@@ -250,9 +342,15 @@ Legemidler til klinisk utprøving skal distribueres og utleveres av aktører med
 
 ### § 3-14. Søkeplikt ved endring av protokollen eller legemidlets dokumentasjon
 
-Sponsor skal sende søknad til Direktoratet for medisinske produkter ved vesentlige endringer av protokollen:som kan få innvirkning på forsøksdyrenes sikkerhet, matsikkerhet, miljøsikkerhet, sikkerhet for involvert personell, ellersom kan medføre endringer av fortolkningen av den vitenskapelige dokumentasjonen.
+Sponsor skal sende søknad til Direktoratet for medisinske produkter ved vesentlige endringer av protokollen:
 
-Sponsor skal sende søknad til Direktoratet for medisinske produkter om alle vesentlige endringer av legemidlets dokumentasjon, herunder:alle endringer i kjemisk, farmasøytisk eller biologisk dokumentasjonalle endringer i farmakologisk, toksikologisk og klinisk dokumentasjon som antas å ha betydning for studien.
+1. som kan få innvirkning på forsøksdyrenes sikkerhet, matsikkerhet, miljøsikkerhet, sikkerhet for involvert personell, eller
+2. som kan medføre endringer av fortolkningen av den vitenskapelige dokumentasjonen.
+
+Sponsor skal sende søknad til Direktoratet for medisinske produkter om alle vesentlige endringer av legemidlets dokumentasjon, herunder:
+
+1. alle endringer i kjemisk, farmasøytisk eller biologisk dokumentasjon
+2. alle endringer i farmakologisk, toksikologisk og klinisk dokumentasjon som antas å ha betydning for studien.
 
 Søknaden skal inneholde en begrunnelse for endringen.
 
@@ -318,7 +416,13 @@ Direktoratet for medisinske produkter kan gjøre unntak fra krav om markedsføri
 
 ### § 4-4. Legemidler som er unntatt fra kravet om markedsføringstillatelse, men krever særskilt tillatelse fra Direktoratet for medisinske produkter før omsetning
 
-Omsetning av følgende legemidler krever at Direktoratet for medisinske produkter etter søknad har gitt veterinær eller fiskehelsebiolog tillatelse til å rekvirere det aktuelle legemidlet.:Inaktiverte immunologiske legemidler til dyr, framstilt fra patogene organismer eller andre antigener isolert fra ett eller flere dyr i en epidemiologisk enhet og tiltenkt bruk på dette eller disse dyrene i samme epidemiologiske enhet, eller på ett eller flere dyr i en enhet med en bekreftet epidemiologisk forbindelse,Legemidler til dyr, som inneholder autologe eller allogene celler eller vev som ikke har gjennomgått en industriell prosess, og som er tilvirket utenfor NorgeLegemidler til dyr, fremstilt på grunnlag av radioaktive isotoperLegemidler til behandling av enkeltpasient eller enkeltbesetning, der legemidlets sammensetning må tilpasses hvert individ eller hver besetningApotekfremstilte legemidler som er tilvirket utenfor Norge.
+Omsetning av følgende legemidler krever at Direktoratet for medisinske produkter etter søknad har gitt veterinær eller fiskehelsebiolog tillatelse til å rekvirere det aktuelle legemidlet.:
+
+1. Inaktiverte immunologiske legemidler til dyr, framstilt fra patogene organismer eller andre antigener isolert fra ett eller flere dyr i en epidemiologisk enhet og tiltenkt bruk på dette eller disse dyrene i samme epidemiologiske enhet, eller på ett eller flere dyr i en enhet med en bekreftet epidemiologisk forbindelse,
+2. Legemidler til dyr, som inneholder autologe eller allogene celler eller vev som ikke har gjennomgått en industriell prosess, og som er tilvirket utenfor Norge
+3. Legemidler til dyr, fremstilt på grunnlag av radioaktive isotoper
+4. Legemidler til behandling av enkeltpasient eller enkeltbesetning, der legemidlets sammensetning må tilpasses hvert individ eller hver besetning
+5. Apotekfremstilte legemidler som er tilvirket utenfor Norge.
 
 > Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
@@ -378,7 +482,11 @@ Legemidlets ytre emballasje skal påføres nordisk varenummer eller annen identi
 
 Direktoratet for medisinske produkter fastsetter om et legemiddel som ikke har markedsføringstillatelse skal være reseptpliktig
 
-Følgende legemidler er alltid reseptpliktige:legemiddel til parenteral administrasjonenhver tilberedning med innhold av reseptpliktig legemiddel, med mindre det er gjort særskilt unntaklegemiddel som etter sitt innhold og bruksområde svarer til et reseptpliktig legemiddel med markedsføringstillatelse.
+Følgende legemidler er alltid reseptpliktige:
+
+1. legemiddel til parenteral administrasjon
+2. enhver tilberedning med innhold av reseptpliktig legemiddel, med mindre det er gjort særskilt unntak
+3. legemiddel som etter sitt innhold og bruksområde svarer til et reseptpliktig legemiddel med markedsføringstillatelse.
 
 På bakgrunn av ny informasjon kan Direktoratet for medisinske produkter revurdere reseptstatus til et legemiddel.
 
@@ -388,11 +496,19 @@ På bakgrunn av ny informasjon kan Direktoratet for medisinske produkter revurde
 
 Reseptpliktig legemiddel plasseres i reseptgruppe A, B eller C.
 
-Legemidlet kan plasseres i reseptgruppe A dersom ett av følgende vilkår er oppfylt:Legemidlet inneholder en ikke-fritatt mengde av narkotisk eller psykotropt stoff i henhold til internasjonale konvensjonerlegemidlet inneholder en ikke-fritatt mengde av et stoff som er narkotika i henhold til [forskrift 14. februar 2013 nr. 199 om narkotika](forskrift/2013-02-14-199)det kan være forbundet med alvorlig risiko for legemiddelmisbruk eller avhengighet dersom legemidlet ikke brukes på anbefalt måte, eller at det benyttes til ulovlige formållegemidlet inneholder et stoff som fordi det er nytt eller har visse egenskaper, tilsier at det skal plasseres i reseptgruppe A som et forsiktighetstiltak.
+Legemidlet kan plasseres i reseptgruppe A dersom ett av følgende vilkår er oppfylt:
+
+1. Legemidlet inneholder en ikke-fritatt mengde av narkotisk eller psykotropt stoff i henhold til internasjonale konvensjoner
+2. legemidlet inneholder en ikke-fritatt mengde av et stoff som er narkotika i henhold til [forskrift 14. februar 2013 nr. 199 om narkotika](forskrift/2013-02-14-199)
+3. det kan være forbundet med alvorlig risiko for legemiddelmisbruk eller avhengighet dersom legemidlet ikke brukes på anbefalt måte, eller at det benyttes til ulovlige formål
+4. legemidlet inneholder et stoff som fordi det er nytt eller har visse egenskaper, tilsier at det skal plasseres i reseptgruppe A som et forsiktighetstiltak.
 
 ### § 6-3. Utleverings- og rekvireringsregler
 
-Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som skal ha en begrenset utlevering. Det tas ved avgjørelsen særlig hensyn til om legemidlet:på grunn av sine farmasøytiske eller medisinske egenskaper, fordi det er et nytt legemiddel, eller av hensyn til dyrehelsen eller sikkerheten til den som tilfører legemidlet bør være forbeholdt behandlinger som bare kan foretas av dyrehelsepersonell med spesifikk kompetanse/spesialist,kontroll av virkning og bivirkninger krever medvirkning av dyrehelsepersonell med spesifikk kompetanse /spesialist både ved behandlingsstart og videre under behandlingen.
+Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som skal ha en begrenset utlevering. Det tas ved avgjørelsen særlig hensyn til om legemidlet:
+
+1. på grunn av sine farmasøytiske eller medisinske egenskaper, fordi det er et nytt legemiddel, eller av hensyn til dyrehelsen eller sikkerheten til den som tilfører legemidlet bør være forbeholdt behandlinger som bare kan foretas av dyrehelsepersonell med spesifikk kompetanse/spesialist,
+2. kontroll av virkning og bivirkninger krever medvirkning av dyrehelsepersonell med spesifikk kompetanse /spesialist både ved behandlingsstart og videre under behandlingen.
 
 Direktoratet for medisinske produkter gir forskrifter om hvilke reseptpliktige legemidler som bare kan rekvireres av dyrehelsepersonell med spesifikk kompetanse/visse spesialister.
 
@@ -422,13 +538,34 @@ Innehaver av registreringen plikter å følge med på den vitenskapelige og tekn
 
 Endring av registrering av betydning for legemidlets kvalitet eller sikkerhet, av administrative opplysninger og pakningsvedlegg og merking, skal søkes godkjent av Direktoratet for medisinske produkter.
 
-Direktoratet for medisinske produkter kan suspendere eller kalle tilbake registreringen dersomInnehaver av registreringen ikke oppfyller sine forpliktelserLegemidlet ikke lenger anses å oppfylle kravene til kvalitet eller sikkerhet.
+Direktoratet for medisinske produkter kan suspendere eller kalle tilbake registreringen dersom
+
+1. Innehaver av registreringen ikke oppfyller sine forpliktelser
+2. Legemidlet ikke lenger anses å oppfylle kravene til kvalitet eller sikkerhet.
 
 > Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
 
 ### § 7-3. Merking av homøopatisk legemiddel til dyr
 
-Merkingen skal være på norsk og inneholde følgende informasjon:legemidlets navnteksten «homøopatisk legemiddel til dyr»stamløsningen(e)s vitenskapelige betegnelse etterfulgt av fortynningsgraden ved bruk av symboler som beskrevet i Den europeiske farmakopé, eller, om den ikke finnes der, i farmakopé som er i offisiell bruk i et EU/EØS-land.navn og adresse på registreringsinnehaveradministrasjonsmåte, og om nødvendig administrasjonsveiangivelse av utløpsdatoen («Exp. mm/yyyy»)legemiddelformpakningsstørrelseregistreringsnummerhvilke dyrearter legemidlet er beregnet på, og hvis relevant dosering for den aktuelle dyrearteventuelle særlige forholdsregler om oppbevaring av legemidletsærlig advarsler, om nødvendigproduksjonspartiets nummer («Lot»)en advarsel om at legemidlet skal oppbevares utilgjengelig for barntilbakeholdelsestid, hvis relevanthjelpestoffer, om nødvendigen henstilling til dyreeier om å lese pakningsvedlegget før bruk.
+Merkingen skal være på norsk og inneholde følgende informasjon:
+
+1. legemidlets navn
+2. teksten «homøopatisk legemiddel til dyr»
+3. stamløsningen(e)s vitenskapelige betegnelse etterfulgt av fortynningsgraden ved bruk av symboler som beskrevet i Den europeiske farmakopé, eller, om den ikke finnes der, i farmakopé som er i offisiell bruk i et EU/EØS-land.
+4. navn og adresse på registreringsinnehaver
+5. administrasjonsmåte, og om nødvendig administrasjonsvei
+6. angivelse av utløpsdatoen («Exp. mm/yyyy»)
+7. legemiddelform
+8. pakningsstørrelse
+9. registreringsnummer
+10. hvilke dyrearter legemidlet er beregnet på, og hvis relevant dosering for den aktuelle dyreart
+11. eventuelle særlige forholdsregler om oppbevaring av legemidlet
+12. særlig advarsler, om nødvendig
+13. produksjonspartiets nummer («Lot»)
+14. en advarsel om at legemidlet skal oppbevares utilgjengelig for barn
+15. tilbakeholdelsestid, hvis relevant
+16. hjelpestoffer, om nødvendig
+17. en henstilling til dyreeier om å lese pakningsvedlegget før bruk.
 
 ## Kapittel VIII. Utfyllende nasjonale bestemmelser om tilvirkning av legemidler
 
@@ -474,7 +611,17 @@ Virksomheten skal ha til disposisjon tilstrekkelig store og velegnede lokaler, s
 
 ### § 9-5. Salg og utlevering av legemidler til dyr
 
-Grossister kan bare selge eller utlevere legemidler til dyr til:ApotekInnehaver av grossisttillatelse for legemidler innenfor EØS-området for de legemidlene og de aktivitetene som mottakerens tillatelse omfatterInnehaver av tilvirkertillatelse for legemidler innenfor EØS-området for de legemidler som er nødvendig for tilvirkningen som er omfattet av tilvirkertillatelsenVirksomhet som har tillatelse til tilvirkning av medisinfôr i henhold til forordning [(EU) 2019/4](eu/32019r0004) om fremstilling, omsetning og bruk av medisinfôr for de legemidler tilvirkningen gjelderKjøpmenn som i henhold til [lov 4. desember 1992 nr. 132 om legemidler m.v. § 16](lov/1992-12-04-132/§16) har tillatelse til å selge legemidlerAktører utenfor EØS-området dersom grossisten har tillatelse fra Direktoratet for medisinske produkter til eksport av legemidler utenfor EØS-området.Rekvirenter, dersom grossisten har tillatelse til detaljomsetning fra Direktoratet for medisinske produkter, etter rekvisisjon, for de varegrupper som fremgår av vedlegg til denne forskrift. Ved utlevering gjelder [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) med unntak av [§ 9-4](forskrift/2022-06-02-977/§9-4), [§ 11-5](forskrift/2022-06-02-977/§11-5), [kap. 12](forskrift/2022-06-02-977/kap12), [§ 15-4](forskrift/2022-06-02-977/§15-4), [§ 15-5](forskrift/2022-06-02-977/§15-5), [§ 15-6](forskrift/2022-06-02-977/§15-6) og [§ 15-7](forskrift/2022-06-02-977/§15-7).Enhver som driver dyrehold eller dyreoppdrett i næringsøyemed, dersom grossisten har tillatelse til detaljomsetning fra Direktoratet for medisinske produkter. Utlevering skal skje etter resept og til person med rekvireringsrett for veterinære legemidler. Salget skal skje mellom grossist og dyreeier. [Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) gjelder med unntak av [§ 9-4](forskrift/2022-06-02-977/§9-4), [§ 11-5](forskrift/2022-06-02-977/§11-5), [kap. 12](forskrift/2022-06-02-977/kap12), [§ 15-4](forskrift/2022-06-02-977/§15-4), [§ 15-5](forskrift/2022-06-02-977/§15-5), [§ 15-6](forskrift/2022-06-02-977/§15-6) og [§ 15-7](forskrift/2022-06-02-977/§15-7).Enhver med tillatelse til å kjøpe legemidler til ikke-medisinsk bruk i henhold til [forskrift 1. mars 1983 nr. 628 om salg av legemidler til ikke-medisinsk bruk](forskrift/1983-03-01-628).
+Grossister kan bare selge eller utlevere legemidler til dyr til:
+
+1. Apotek
+2. Innehaver av grossisttillatelse for legemidler innenfor EØS-området for de legemidlene og de aktivitetene som mottakerens tillatelse omfatter
+3. Innehaver av tilvirkertillatelse for legemidler innenfor EØS-området for de legemidler som er nødvendig for tilvirkningen som er omfattet av tilvirkertillatelsen
+4. Virksomhet som har tillatelse til tilvirkning av medisinfôr i henhold til forordning [(EU) 2019/4](eu/32019r0004) om fremstilling, omsetning og bruk av medisinfôr for de legemidler tilvirkningen gjelder
+5. Kjøpmenn som i henhold til [lov 4. desember 1992 nr. 132 om legemidler m.v. § 16](lov/1992-12-04-132/§16) har tillatelse til å selge legemidler
+6. Aktører utenfor EØS-området dersom grossisten har tillatelse fra Direktoratet for medisinske produkter til eksport av legemidler utenfor EØS-området.
+7. Rekvirenter, dersom grossisten har tillatelse til detaljomsetning fra Direktoratet for medisinske produkter, etter rekvisisjon, for de varegrupper som fremgår av vedlegg til denne forskrift. Ved utlevering gjelder [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) med unntak av [§ 9-4](forskrift/2022-06-02-977/§9-4), [§ 11-5](forskrift/2022-06-02-977/§11-5), [kap. 12](forskrift/2022-06-02-977/kap12), [§ 15-4](forskrift/2022-06-02-977/§15-4), [§ 15-5](forskrift/2022-06-02-977/§15-5), [§ 15-6](forskrift/2022-06-02-977/§15-6) og [§ 15-7](forskrift/2022-06-02-977/§15-7).
+8. Enhver som driver dyrehold eller dyreoppdrett i næringsøyemed, dersom grossisten har tillatelse til detaljomsetning fra Direktoratet for medisinske produkter. Utlevering skal skje etter resept og til person med rekvireringsrett for veterinære legemidler. Salget skal skje mellom grossist og dyreeier. [Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977) gjelder med unntak av [§ 9-4](forskrift/2022-06-02-977/§9-4), [§ 11-5](forskrift/2022-06-02-977/§11-5), [kap. 12](forskrift/2022-06-02-977/kap12), [§ 15-4](forskrift/2022-06-02-977/§15-4), [§ 15-5](forskrift/2022-06-02-977/§15-5), [§ 15-6](forskrift/2022-06-02-977/§15-6) og [§ 15-7](forskrift/2022-06-02-977/§15-7).
+9. Enhver med tillatelse til å kjøpe legemidler til ikke-medisinsk bruk i henhold til [forskrift 1. mars 1983 nr. 628 om salg av legemidler til ikke-medisinsk bruk](forskrift/1983-03-01-628).
 
 Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gi grossister tillatelse til å selge legemidler til andre enn de som er nevnt i første ledd. Det kan fastsettes vilkår i tillatelsen.
 
@@ -490,7 +637,15 @@ Grossister skal gi oppgaver over salget til Direktoratet for medisinske produkte
 
 ### § 10-1. Melding om bivirkninger
 
-Veterinærer og fiskehelsebiologer skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av et legemiddel til dyr har ført tilen ugunstig eller utilsiktet reaksjon hos et hvilket som helst dyr,manglende virkning etter at legemidlet er gitt til et dyr, enten bruken har vært i samsvar med preparatomtalen eller ikke,en miljøhendelse,en skadelig reaksjon hos mennesker som er eksponert for legemidlet,funn av et farmakologisk virksomt stoff eller en restmarkør i et produkt av animalsk opprinnelse, som overskrider de øvre grenseverdiene for restmengder fastsatt i medhold av forordning [(EU) 470/2009](eu/32009r0470), etter at den fastsatte tilbakeholdelsestiden er overholdt,overføring av et smittestoff,en ugunstig eller utilsiktet reaksjon på et legemiddel godkjent til mennesker etter bruk hos et hvilket som helst dyr.
+Veterinærer og fiskehelsebiologer skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av et legemiddel til dyr har ført til
+
+1. en ugunstig eller utilsiktet reaksjon hos et hvilket som helst dyr,
+2. manglende virkning etter at legemidlet er gitt til et dyr, enten bruken har vært i samsvar med preparatomtalen eller ikke,
+3. en miljøhendelse,
+4. en skadelig reaksjon hos mennesker som er eksponert for legemidlet,
+5. funn av et farmakologisk virksomt stoff eller en restmarkør i et produkt av animalsk opprinnelse, som overskrider de øvre grenseverdiene for restmengder fastsatt i medhold av forordning [(EU) 470/2009](eu/32009r0470), etter at den fastsatte tilbakeholdelsestiden er overholdt,
+6. overføring av et smittestoff,
+7. en ugunstig eller utilsiktet reaksjon på et legemiddel godkjent til mennesker etter bruk hos et hvilket som helst dyr.
 
 Melding etter første ledd skal inneholde nødvendige opplysninger om den utilsiktede virkningen eller bivirkningen, legemidlet og bruken av legemidlet. Direktoratet for medisinske produkter fastsetter formatet for meldingen, hvilke nærmere opplysninger meldingene skal inneholde og hvordan meldingene skal sendes.
 
@@ -510,7 +665,12 @@ Direktoratet for medisinske produkter kan forby tilvirkning, import, distribusjo
 
 ### § 11-2. Import av legemidler unntatt kravet om markedsføringstillatelse
 
-For grossister med grossisttillatelse kreves det ikke tilvirkertillatelse ved import fra tredjeland for legemidler som er unntatt fra kravet om markedsføringstillatelse i forskriften [§ 4-1](forskrift/2022-09-08-1573/§4-1) til [§ 4-4](forskrift/2022-09-08-1573/§4-4) dersom legemidlet har markedsføringstillatelse i:EØS-området,USA,land utenom EØS og USA som er medlem av Pharmaceutical Inspection Cooperation Scheme (PIC/S), elleret tredjeland og det er inngått en MRA-avtale på legemiddelområdet mellom Norge og tredjelandet.
+For grossister med grossisttillatelse kreves det ikke tilvirkertillatelse ved import fra tredjeland for legemidler som er unntatt fra kravet om markedsføringstillatelse i forskriften [§ 4-1](forskrift/2022-09-08-1573/§4-1) til [§ 4-4](forskrift/2022-09-08-1573/§4-4) dersom legemidlet har markedsføringstillatelse i:
+
+1. EØS-området,
+2. USA,
+3. land utenom EØS og USA som er medlem av Pharmaceutical Inspection Cooperation Scheme (PIC/S), eller
+4. et tredjeland og det er inngått en MRA-avtale på legemiddelområdet mellom Norge og tredjelandet.
 
 Forordning [(EU) 2019/6 artikkel 97](eu/32019r0006/a97) nr. 7 gjelder ikke ved import av legemidler fra tredjeland unntatt fra kravet om markedsføringstillatelse i medhold av forskriften [§ 4-1](forskrift/2022-09-08-1573/§4-1) til [§ 4-4](forskrift/2022-09-08-1573/§4-4).
 
@@ -536,7 +696,17 @@ Har EU-kommisjonen truffet vedtak om markedsføringstillatelse etter forordning 
 
 ### § 12-1. Avgifter og gebyrer til Direktoratet for medisinske produkter
 
-Direktoratet for medisinske produkter kan kreve inn gebyr for behandling av søknad om:markedsføringstillatelse,fornyelse av markedsføringstillatelse,endring av markedsføringstillatelse,registrering av homøopatiske legemidler,endring av homøopatiske legemidler som krever utredning,registrering av legemidler til visse pryd- og selskapsdyr, jf. [§ 4-3](forskrift/2022-09-08-1573/§4-3) annet leddsøknad om klinisk utprøving av legemiddelendring av klinisk utprøving som krever søknad, jf. [§ 3-14](forskrift/2022-09-08-1573/§3-14)utstedelse av WHO-sertifikater.
+Direktoratet for medisinske produkter kan kreve inn gebyr for behandling av søknad om:
+
+1. markedsføringstillatelse,
+2. fornyelse av markedsføringstillatelse,
+3. endring av markedsføringstillatelse,
+4. registrering av homøopatiske legemidler,
+5. endring av homøopatiske legemidler som krever utredning,
+6. registrering av legemidler til visse pryd- og selskapsdyr, jf. [§ 4-3](forskrift/2022-09-08-1573/§4-3) annet ledd
+7. søknad om klinisk utprøving av legemiddel
+8. endring av klinisk utprøving som krever søknad, jf. [§ 3-14](forskrift/2022-09-08-1573/§3-14)
+9. utstedelse av WHO-sertifikater.
 
 Gebyr etter første ledd fastsettes av departementet i [§ 12-4](forskrift/2022-09-08-1573/§12-4) og tilfaller statskassen.
 
@@ -707,7 +877,25 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 
 *Noter*
 
-1 For legemidler til begrensede markeder (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 4 (29)) kan det søkes om inntil 50 % reduksjon i gebyr. Søknad om redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad om MT der det påberopes rett til redusert gebyr innsendes.2 Dersom én endring gjelder flere former og styrker av samme preparat betales ett gebyr.3 En endring som fører til flere endringer anses i gebyrsammenheng som én endring.4 Gjelder ikke rent språklige endringer eller flytting av tekst. Disse gebyrlegges som Øvrige endringer med standard tidtabell (S).5 Gjelder også doseringsendringer.6 Gjelder for hver MT.7 Gjelder per oppdrag. Refunderes ikke.8 Gjelder uansett søkergrunnlag.9 Ett gebyr per gebyrpliktig endring (uavhengig av antall preparater som inngår i worksharing-prosedyren).10 For søknader om MT under særlige omstendigheter (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 25) samt fornyelser av disse kan det søkes om ytterligere reduksjon i gebyr. Søknad om ytterligere redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad der det påberopes rett til redusert gebyr innsendes
+1 For legemidler til begrensede markeder (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 4 (29)) kan det søkes om inntil 50 % reduksjon i gebyr. Søknad om redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad om MT der det påberopes rett til redusert gebyr innsendes.
+
+2 Dersom én endring gjelder flere former og styrker av samme preparat betales ett gebyr.
+
+3 En endring som fører til flere endringer anses i gebyrsammenheng som én endring.
+
+4 Gjelder ikke rent språklige endringer eller flytting av tekst. Disse gebyrlegges som Øvrige endringer med standard tidtabell (S).
+
+5 Gjelder også doseringsendringer.
+
+6 Gjelder for hver MT.
+
+7 Gjelder per oppdrag. Refunderes ikke.
+
+8 Gjelder uansett søkergrunnlag.
+
+9 Ett gebyr per gebyrpliktig endring (uavhengig av antall preparater som inngår i worksharing-prosedyren).
+
+10 For søknader om MT under særlige omstendigheter (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 25) samt fornyelser av disse kan det søkes om ytterligere reduksjon i gebyr. Søknad om ytterligere redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad der det påberopes rett til redusert gebyr innsendes
 
 *Merk:*
 

@@ -15,7 +15,7 @@ xml_hash: "4b0c182a68213f28d8d2cdb0040218b00776478f9a833639e06cfe71f74abcd6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,15 @@ eu_basis: []
 
 Denne forskriften gjelder for produktene som er definert i [§ 2](forskrift/2017-05-08-561/§2) og som omsettes til konsum.
 
-Produktene som er definert i [§ 2](forskrift/2017-05-08-561/§2), kan likevel omsettes lovlig selv om de følgende kravene ikke er overholdt:vedlegg Idel I bokstav b) og c),del II bokstav b) og c) ellervedlegg IIdel I bokstav b) og c).
+Produktene som er definert i [§ 2](forskrift/2017-05-08-561/§2), kan likevel omsettes lovlig selv om de følgende kravene ikke er overholdt:
+
+- vedlegg I
+
+  - del I bokstav b) og c),
+  - del II bokstav b) og c) eller
+- vedlegg II
+
+  - del I bokstav b) og c).
 
 Produktene kan da ikke brukes til framstilling av næringsmidler og må merkes på en slik måte at kjøperen ikke blir villedet med hensyn til produktenes art, kvalitet eller bruksområde.
 
@@ -40,7 +48,20 @@ Produktene kan da ikke brukes til framstilling av næringsmidler og må merkes p
 
 ## § 3. Krav til merking
 
-1\. På emballasje, beholdere eller etiketter til melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), skal de følgende opplysningene angis. Opplysningene skal være godt synlige, lett leselige og ikke kunne fjernes:melkeproduktets betegnelse, som angitt i [§ 2](forskrift/2017-05-08-561/§2). Kaseinater til konsum skal også ha en angivelse av kationens eller kationenes art, som angitt i vedlegg II bokstav d)for produkter, som omsettes i blandinger:angivelsen «blanding av ... » etterfulgt av betegnelsene for de forskjellige produkter som blandingen består av, i synkende rekkefølge etter vektangivelse av kationens eller kationenes art som angitt i vedlegg II bokstav d), for kaseinater til konsumproteininnholdet for blandinger som inneholder kaseinater til konsumproduktenes nettomengde utrykt i kilogram eller gramnavn eller firma og adresse til driftsansvarlige for næringsmiddelforetaket, i hvis navn eller firma produktet omsettes. Hvis den driftsansvarlige for næringsmiddelforetaket ikke er etablert i Unionen, den som importerer til unionsmarkedetnavnet på opprinnelseslandet for produkter som importeres fra tredjestateridentifikasjon av varepartiet for produktene eller produksjonsdatoen.Som et unntak fra denne paragrafens første ledd, kan opplysningene i første ledd bokstav b) pkt. iii), og første ledd bokstav c), d) og e), bare angis i et handelsdokument.
+1\. På emballasje, beholdere eller etiketter til melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), skal de følgende opplysningene angis. Opplysningene skal være godt synlige, lett leselige og ikke kunne fjernes:
+
+1. melkeproduktets betegnelse, som angitt i [§ 2](forskrift/2017-05-08-561/§2). Kaseinater til konsum skal også ha en angivelse av kationens eller kationenes art, som angitt i vedlegg II bokstav d)
+2. for produkter, som omsettes i blandinger:
+
+   1. angivelsen «blanding av ... » etterfulgt av betegnelsene for de forskjellige produkter som blandingen består av, i synkende rekkefølge etter vekt
+   2. angivelse av kationens eller kationenes art som angitt i vedlegg II bokstav d), for kaseinater til konsum
+   3. proteininnholdet for blandinger som inneholder kaseinater til konsum
+3. produktenes nettomengde utrykt i kilogram eller gram
+4. navn eller firma og adresse til driftsansvarlige for næringsmiddelforetaket, i hvis navn eller firma produktet omsettes. Hvis den driftsansvarlige for næringsmiddelforetaket ikke er etablert i Unionen, den som importerer til unionsmarkedet
+5. navnet på opprinnelseslandet for produkter som importeres fra tredjestater
+6. identifikasjon av varepartiet for produktene eller produksjonsdatoen.
+
+Som et unntak fra denne paragrafens første ledd, kan opplysningene i første ledd bokstav b) pkt. iii), og første ledd bokstav c), d) og e), bare angis i et handelsdokument.
 
 2\. En medlemsstat skal på sitt territorium forby omsetning av melkeprodukter, som definert i [§ 2](forskrift/2017-05-08-561/§2) bokstav a), b) og c), hvis de nevnte opplysningene i [§ 3](forskrift/2017-05-08-561/§3) første ledd, ikke er angitt på et språk, som er lett forståelig for kjøperne i den medlemsstaten hvor disse produktene omsettes. Disse melkeprodukter kan likevel omsettes, hvis opplysningene er formidlet på annet vis av driftsansvarlige for næringsmiddelforetaket. Opplysningene kan angis på flere språk.
 
@@ -68,34 +89,110 @@ Forskriften trer i kraft straks.
 
 ### Del I. Krav til syrekaseiner til konsum
 
-1. Vesentlige faktorer i sammensetningen1. Maksimum innhold av vann12 vektprosent2. Minimum innhold av melkeproteiner, beregnet på grunnlag av tørrstoff
-hvorav minimum innhold av kaseiner90 vektprosent
-95 vektprosent3. Maksimum innhold av melkefett2 vektprosent4. Maksimum titrerbart syreinnhold uttrykt i ml 0,1 N natriumhydroksidoppløsning pr. g0,275. Maksimum innhold av aske (inkludert P2O5)2,5 vektprosent6. Maksimum innhold av vannfri laktose1 vektprosent7. Maksimum innhold av sedimenter (brente partikler)22,5 mg i 25 g
-2. Forurensende stofferMaksimum innhold av bly0,75 mg/kg
-3. UrenheterFremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler)ingen i 25 g
-4. Tekniske hjelpestoffer, bakteriekulturer og tillatte ingredienserSyrer:melkesyresaltsyresvovelsyresitronsyreeddiksyreortofosforsyre.Bakteriekulturer som produserer melkesyre.Myse
-5. Organoleptiske egenskaperLukt: Ingen fremmed lukt.Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
+1. Vesentlige faktorer i sammensetningen
+
+   |  |  |
+   | --- | --- |
+   | 1. Maksimum innhold av vann | 12 vektprosent |
+   | 2. Minimum innhold av melkeproteiner, beregnet på grunnlag av tørrstoff<br>hvorav minimum innhold av kaseiner | 90 vektprosent<br>95 vektprosent |
+   | 3. Maksimum innhold av melkefett | 2 vektprosent |
+   | 4. Maksimum titrerbart syreinnhold uttrykt i ml 0,1 N natriumhydroksidoppløsning pr. g | 0,27 |
+   | 5. Maksimum innhold av aske (inkludert P2O5) | 2,5 vektprosent |
+   | 6. Maksimum innhold av vannfri laktose | 1 vektprosent |
+   | 7. Maksimum innhold av sedimenter (brente partikler) | 22,5 mg i 25 g |
+2. Forurensende stoffer
+
+   |  |  |
+   | --- | --- |
+   | Maksimum innhold av bly | 0,75 mg/kg |
+3. Urenheter
+
+   |  |  |
+   | --- | --- |
+   | Fremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler) | ingen i 25 g |
+4. Tekniske hjelpestoffer, bakteriekulturer og tillatte ingredienser
+
+   1. Syrer:
+
+      - melkesyre
+      - saltsyre
+      - svovelsyre
+      - sitronsyre
+      - eddiksyre
+      - ortofosforsyre.
+   2. Bakteriekulturer som produserer melkesyre.
+   3. Myse
+5. Organoleptiske egenskaper
+
+   1. Lukt: Ingen fremmed lukt.
+   2. Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
 
 ### Del II. Krav til løypekaseiner til konsum
 
-1. Vesentlige faktorer i sammensetningen1. Maksimum innhold av vann12 vektprosent2. Minimum innhold av melkeproteiner, regnet ut fra tørrstoffinnhold
-hvorav minimum innhold av kaseiner84 vektprosent
-95 vektprosent3. Maksimum innhold av melkefett2 vektprosent4. Maksimum innhold av aske (inkludert P2O5)7,5 vektprosent5. Maksimum innhold av vannfri laktose1 vektprosent6. Maksimum innhold av sedimenter (brente partikler)15 g i 25 g
-2. Forurensende stofferMaksimum innhold av bly0,75 mg/kg
-3. UrenheterFremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler)ingen i 25 g
-4. Tekniske hjelpestofferosteløype, som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymerandre melkekoagulerende enzymer, som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer.
-5. Organoleptiske egenskaperLukt: Ingen fremmed lukt.Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
+1. Vesentlige faktorer i sammensetningen
+
+   |  |  |
+   | --- | --- |
+   | 1. Maksimum innhold av vann | 12 vektprosent |
+   | 2. Minimum innhold av melkeproteiner, regnet ut fra tørrstoffinnhold<br>hvorav minimum innhold av kaseiner | 84 vektprosent<br>95 vektprosent |
+   | 3. Maksimum innhold av melkefett | 2 vektprosent |
+   | 4. Maksimum innhold av aske (inkludert P2O5) | 7,5 vektprosent |
+   | 5. Maksimum innhold av vannfri laktose | 1 vektprosent |
+   | 6. Maksimum innhold av sedimenter (brente partikler) | 15 g i 25 g |
+2. Forurensende stoffer
+
+   |  |  |
+   | --- | --- |
+   | Maksimum innhold av bly | 0,75 mg/kg |
+3. Urenheter
+
+   |  |  |
+   | --- | --- |
+   | Fremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler) | ingen i 25 g |
+4. Tekniske hjelpestoffer
+
+   - osteløype, som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer
+   - andre melkekoagulerende enzymer, som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer.
+5. Organoleptiske egenskaper
+
+   1. Lukt: Ingen fremmed lukt.
+   2. Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
 
 ## Vedlegg II. Kaseinater til konsum
 
 *Krav til kaseinater til konsum*
 
-1. Vesentlige faktorer i sammensetningen1. Maksimum innhold av vann8 vektprosent2. Minimum innhold av melkeproteiner, regnet ut fra tørrstoffinnhold
-hvorav minimum innhold av kaseiner88 vektprosent
-95 vektprosent3. Maksimum innhold av melkefett2 vektprosent4. Maksimum innhold av vannfri laktose1 vektprosent5. pH-verdi6,0 til 8,06. Maksimum innhold av sedimenter (brente partikler)22,5 mg i 25 g
-2. Forurensende stofferMaksimum innhold av bly0,75 mg/kg
-3. UrenheterFremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler)ingen i 25 g
+1. Vesentlige faktorer i sammensetningen
+
+   |  |  |
+   | --- | --- |
+   | 1. Maksimum innhold av vann | 8 vektprosent |
+   | 2. Minimum innhold av melkeproteiner, regnet ut fra tørrstoffinnhold<br>hvorav minimum innhold av kaseiner | 88 vektprosent<br>95 vektprosent |
+   | 3. Maksimum innhold av melkefett | 2 vektprosent |
+   | 4. Maksimum innhold av vannfri laktose | 1 vektprosent |
+   | 5. pH-verdi | 6,0 til 8,0 |
+   | 6. Maksimum innhold av sedimenter (brente partikler) | 22,5 mg i 25 g |
+2. Forurensende stoffer
+
+   |  |  |
+   | --- | --- |
+   | Maksimum innhold av bly | 0,75 mg/kg |
+3. Urenheter
+
+   |  |  |
+   | --- | --- |
+   | Fremmedlegemer (som tre- eller metallpartikler, hår eller insektdeler) | ingen i 25 g |
 4. Tilsetningsstoffer til næringsmidler
-(eventuelle nøytralisingsmidler og buffere)hydroksideravnatriumkarbonaterkaliumfosfaterkalsiumsitraterammonium
-magnesium
-5. EgenskaperLukt: Meget svak fremmed smak og lukt.Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.Løselighet: skal være nesten fullstendig løselig i destillert vann, unntatt kalsiumkaseinat.
+   (eventuelle nøytralisingsmidler og buffere)
+
+   |  |  |  |
+   | --- | --- | --- |
+   | hydroksider | av | natrium |
+   | karbonater |  | kalium |
+   | fosfater |  | kalsium |
+   | sitrater |  | ammonium<br>magnesium |
+5. Egenskaper
+
+   1. Lukt: Meget svak fremmed smak og lukt.
+   2. Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
+   3. Løselighet: skal være nesten fullstendig løselig i destillert vann, unntatt kalsiumkaseinat.

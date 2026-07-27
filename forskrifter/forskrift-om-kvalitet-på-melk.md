@@ -40,7 +40,10 @@ Begrepene merking, presentasjon og reklame skal i denne forskriften bety det sam
 
 Betegnelsen melk må bare brukes på et produkt som utelukkende kommer fra en eller flere melkinger av pattedyr, uten at noe tilsettes eller at noen bestanddeler fjernes.
 
-Betegnelsen melk kan imidlertid også benyttes:for melk som har vært behandlet, dersom behandlingen ikke fører til noen endringer i sammensetningen av melken og for melk med standardisert fettinnhold, jf. [§ 8](forskrift/2015-06-03-607/§8) annet ledd bokstav a).i sammensetninger med ett eller flere andre ord for å angi type, kvalitet, opprinnelse, tiltenkt bruk og/eller en beskrivelse av den fysiske behandlingen som melken har gjennomgått, eller av de endringer som er gjort i melkens sammensetning forutsatt at endringene bare gjelder tilsetning eller fjerning av naturlige melkebestanddeler.
+Betegnelsen melk kan imidlertid også benyttes:
+
+1. for melk som har vært behandlet, dersom behandlingen ikke fører til noen endringer i sammensetningen av melken og for melk med standardisert fettinnhold, jf. [§ 8](forskrift/2015-06-03-607/§8) annet ledd bokstav a).
+2. i sammensetninger med ett eller flere andre ord for å angi type, kvalitet, opprinnelse, tiltenkt bruk og/eller en beskrivelse av den fysiske behandlingen som melken har gjennomgått, eller av de endringer som er gjort i melkens sammensetning forutsatt at endringene bare gjelder tilsetning eller fjerning av naturlige melkebestanddeler.
 
 Betegnelsen melk skal oppfattes som melk som kommer fra kuer. Melk som ikke kommer fra kuer, skal ved omsetning merkes med opplysninger om fra hvilket pattedyr melken kommer.
 
@@ -52,7 +55,22 @@ Melkeprodukter er produkter som utelukkende er basert på melk. Det kan likevel 
 
 ## § 6. Betegnelser som er forbeholdt melkeprodukter
 
-Følgende betegnelser kan bare benyttes på melkeprodukter:mysefløteyoghurtkefirmelkkulturmelkkjernemelksmørsmøroljesmørfettostkaseinerrømmecreme fraichevannfritt melkefett.
+Følgende betegnelser kan bare benyttes på melkeprodukter:
+
+1. myse
+2. fløte
+3. yoghurt
+4. kefirmelk
+5. kulturmelk
+6. kjernemelk
+7. smør
+8. smørolje
+9. smørfett
+10. ost
+11. kaseiner
+12. rømme
+13. creme fraiche
+14. vannfritt melkefett.
 
 Betegnelsen melk og betegnelsene i første ledd kan også benyttes i sammensetninger med ett eller flere andre ord for å angi sammensatte produkter, der ingen bestanddel erstatter eller kan tenkes å erstatte en melkebestanddel og der melk eller et melkeprodukt, enten vektmessig eller i kraft av det kjennetegn som melken eller melkeproduktet gir produktet, utgjør et vesentlig element.
 
@@ -68,7 +86,12 @@ For produkter som ikke oppfyller kravene til bruk av betegnelsene i [§ 4](forsk
 
 Bare melk som er definert som konsummelk i annet og tredje ledd, kan leveres eller omsettes til den endelige forbruker uten ytterligere prosessering, enten direkte eller via restauranter, sykehus, kantiner eller tilsvarende storhusholdninger.
 
-Følgende produkter skal betraktes som konsummelk, og betegnelsene nedenfor kan bare brukes på disse produktene, og eventuelt også som en del av sammensatte betegnelser.*helmelk:* varmebehandlet melk som har et fettinnhold som enten er standardisert til et fettinnhold på minst 3,5 % eller som ikke er standardisert. Helmelk som ikke er standardisert kan ikke ha fått endret fettinnhold etter melking verken ved tilsetning eller fjerning av melkefett eller ved blanding av melk som har fått endret sitt naturlige fettinnhold. Fettinnholdet i helmelk som ikke er standardisert må likevel ikke være under 3,5 %.*lettmelk:* varmebehandlet melk der fettinnholdet er redusert til mellom 0,5 % og 1,8 %.*skummet melk:* varmebehandlet melk der fettinnholdet er redusert til under 0,5 %.*rå melk og råmelk*, jf. definisjonene av disse produktene med tilhørende restriksjoner i [forskrift 22. desember 2008 nr. 1624](forskrift/2008-12-22-1624) om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften).
+Følgende produkter skal betraktes som konsummelk, og betegnelsene nedenfor kan bare brukes på disse produktene, og eventuelt også som en del av sammensatte betegnelser.
+
+1. *helmelk:* varmebehandlet melk som har et fettinnhold som enten er standardisert til et fettinnhold på minst 3,5 % eller som ikke er standardisert. Helmelk som ikke er standardisert kan ikke ha fått endret fettinnhold etter melking verken ved tilsetning eller fjerning av melkefett eller ved blanding av melk som har fått endret sitt naturlige fettinnhold. Fettinnholdet i helmelk som ikke er standardisert må likevel ikke være under 3,5 %.
+2. *lettmelk:* varmebehandlet melk der fettinnholdet er redusert til mellom 0,5 % og 1,8 %.
+3. *skummet melk:* varmebehandlet melk der fettinnholdet er redusert til under 0,5 %.
+4. *rå melk og råmelk*, jf. definisjonene av disse produktene med tilhørende restriksjoner i [forskrift 22. desember 2008 nr. 1624](forskrift/2008-12-22-1624) om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften).
 
 Varmebehandlet melk som ut fra fettinnhold ikke oppfyller kravene for bruk av betegnelsene i annet ledd, eller som selv om den oppfyller kravene, likevel ikke merkes med betegnelsene i annet ledd, skal også betraktes som konsummelk. Betegnelsen på slik melk må inneholde opplysning om faktisk fettinnhold, slik: «Melk X % fett».
 
@@ -76,13 +99,21 @@ Betegnelsene på varmebehandlet melk i annet ledd kan suppleres med opplysning o
 
 ## § 9. Tillatte modifikasjoner av konsummelk
 
-Utover den modifisering av helmelk som ikke er standardisert, jf. [§ 8](forskrift/2015-06-03-607/§8) annet ledd bokstav a) annet punktum, er bare følgende modifiseringer av konsummelk tillatt:endring av det naturlige fettinnholdet ved fjerning eller tilsetting av fløte eller tilsetting av helmelk, lettmelk eller skummet melk, i den hensikt å oppfylle kravene til fettinnhold for ulike typer konsummelk,beriking av melk med melkeproteiner, mineralsalter eller vitaminer, forutsatt at dette er tillatt etter bestemmelsene i [forskrift 26. februar 2010 nr. 247](forskrift/2010-02-26-247) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler (berikingsforskriften) eller,reduksjon av laktoseinnholdet ved omdanning til glukose og galaktose.
+Utover den modifisering av helmelk som ikke er standardisert, jf. [§ 8](forskrift/2015-06-03-607/§8) annet ledd bokstav a) annet punktum, er bare følgende modifiseringer av konsummelk tillatt:
+
+1. endring av det naturlige fettinnholdet ved fjerning eller tilsetting av fløte eller tilsetting av helmelk, lettmelk eller skummet melk, i den hensikt å oppfylle kravene til fettinnhold for ulike typer konsummelk,
+2. beriking av melk med melkeproteiner, mineralsalter eller vitaminer, forutsatt at dette er tillatt etter bestemmelsene i [forskrift 26. februar 2010 nr. 247](forskrift/2010-02-26-247) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler (berikingsforskriften) eller,
+3. reduksjon av laktoseinnholdet ved omdanning til glukose og galaktose.
 
 Modifisering av melk etter første ledd bokstavene b) og c) er bare tillatt hvis det opplyses om modifiseringen i merkingen på emballasjen til produktene. Merkingen må være uutslettelig, lett synlig og lesbar. Slik merking fritar ikke for merking med næringsdeklarasjon etter [forskrift 28. november 2014 nr. 1497](forskrift/2014-11-28-1497) om matinformasjon til forbrukerne (matinformasjonsforskriften). Dersom det tilsettes melkeproteiner til konsummelk, må proteininnholdet i den berikede melken være 3,8 % (m/m) eller mer.
 
 ## § 10. Krav til varmebehandlet melk til konsum
 
-Varmebehandlet melk til konsum skal:være renset eller filtrert.dersom den er basert på kumelk, ha et frysepunkt på -0,52 °C eller lavere og en vekt på minst 1,028 gram per liter, bestemt i helmelk ved 20 °C, eller tilsvarende per liter bestemt i fullstendig avfettet melk ved 20 °C. Høyere frysepunkt kan aksepteres dersom det kan bevises at vann ikke er tilsatt. Resultatene må sammenholdes med resultatene av kontrollen av rå melk, og det må tas hensyn til den virkning som oppbevaring og behandling har på frysepunktet for melk som er fremstilt i henhold til god produksjonspraksis.inneholde minst 28 gram proteiner per liter, beregnet ved å multiplisere melkens totale nitrogeninnhold i prosent med 6,38, og ha et fettfritt tørrstoff på minst 8,50 % dersom den er basert på kumelk.
+Varmebehandlet melk til konsum skal:
+
+1. være renset eller filtrert.
+2. dersom den er basert på kumelk, ha et frysepunkt på -0,52 °C eller lavere og en vekt på minst 1,028 gram per liter, bestemt i helmelk ved 20 °C, eller tilsvarende per liter bestemt i fullstendig avfettet melk ved 20 °C. Høyere frysepunkt kan aksepteres dersom det kan bevises at vann ikke er tilsatt. Resultatene må sammenholdes med resultatene av kontrollen av rå melk, og det må tas hensyn til den virkning som oppbevaring og behandling har på frysepunktet for melk som er fremstilt i henhold til god produksjonspraksis.
+3. inneholde minst 28 gram proteiner per liter, beregnet ved å multiplisere melkens totale nitrogeninnhold i prosent med 6,38, og ha et fettfritt tørrstoff på minst 8,50 % dersom den er basert på kumelk.
 
 ## § 11. Beskyttede ostebetegnelser som følge av Norges internasjonale forpliktelser
 
@@ -104,6 +135,12 @@ Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskr
 
 Forskriften trer i kraft 1. januar 2016.
 
-Samtidig oppheves følgende forskrifter:[forskrift 17. juli 1953 nr. 9637](forskrift/1953-07-17-9637) om kvalitet på melk og fløte mv. (melkevareforskriften),[forskrift 24. august 1956 nr. 9632](forskrift/1956-08-24-9632) om tilvirking, merking og omsetning av ost (osteforskriften),[forskrift 16. november 1962 nr. 9581](forskrift/1962-11-16-9581) om tilvirking, merking og omsetning av smør og smørfett (smørforskriften),[forskrift 10. desember 1971 nr. 1](forskrift/1971-12-10-1) for vegetabilske konserver (vegetabilieforskriften) og[forskrift 15. april 1977 nr. 9636](forskrift/1977-04-15-9636) for produksjon, merking og omsetning av spiseis (spiseisforskriften).
+Samtidig oppheves følgende forskrifter:
+
+- [forskrift 17. juli 1953 nr. 9637](forskrift/1953-07-17-9637) om kvalitet på melk og fløte mv. (melkevareforskriften),
+- [forskrift 24. august 1956 nr. 9632](forskrift/1956-08-24-9632) om tilvirking, merking og omsetning av ost (osteforskriften),
+- [forskrift 16. november 1962 nr. 9581](forskrift/1962-11-16-9581) om tilvirking, merking og omsetning av smør og smørfett (smørforskriften),
+- [forskrift 10. desember 1971 nr. 1](forskrift/1971-12-10-1) for vegetabilske konserver (vegetabilieforskriften) og
+- [forskrift 15. april 1977 nr. 9636](forskrift/1977-04-15-9636) for produksjon, merking og omsetning av spiseis (spiseisforskriften).
 
 Næringsmidler kan fortsatt produseres og merkes i samsvar med bestemmelsene i forskriftene som fremgår av annet ledd til og med 31. desember 2016, og kan omsettes til lagrene er tomme.

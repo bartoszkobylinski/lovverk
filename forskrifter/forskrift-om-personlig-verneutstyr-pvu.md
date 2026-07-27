@@ -71,7 +71,15 @@ Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap kan påklages 
 
 Ved overtredelse av artikkel 4, artikkel 5, artikkel 8 til artikkel 11, artikkel 13, artikkel 15 til artikkel 19 i forordning [(EU) 2016/425](eu/32016r0425) eller vedtak truffet i medhold av disse, kommer bestemmelsene i [arbeidsmiljøloven § 18-6](lov/2005-06-17-62/§18-6), [§ 18-7](lov/2005-06-17-62/§18-7), [§ 18-8](lov/2005-06-17-62/§18-8), [§ 18-10](lov/2005-06-17-62/§18-10) og [produktkontrolloven § 4](lov/1976-06-11-79/§4), [§ 6](lov/1976-06-11-79/§6), [§ 6a](lov/1976-06-11-79/§6a) og [§ 13](lov/1976-06-11-79/§13) til anvendelse.
 
-Dersom personlig verneutstyr kan utgjøre en risiko, eller ikke er i samsvar med artikkel 4, artikkel 5, artikkel 8 til artikkel 11, artikkel 13, artikkel 15 til artikkel 19 i forordning [(EU) 2016/425](eu/32016r0425), kan Arbeidstilsynet, Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskap:nedlegge forbud mot å importere, bringe i omsetning eller gjøre det personlige verneutstyret tilgjengelig på markedetkreve at det personlige verneutstyret tilbaketrekkes fra relevante markedsaktørerkreve at det personlige verneutstyret utstyret tilbakekalles fra markedetkreve offentliggjøring av advarselsinformasjon eller lignendekreve retting av det personlige verneutstyretkreve at det personlige verneutstyret uskadeliggjøreskreve merking av det personlige verneutstyret.
+Dersom personlig verneutstyr kan utgjøre en risiko, eller ikke er i samsvar med artikkel 4, artikkel 5, artikkel 8 til artikkel 11, artikkel 13, artikkel 15 til artikkel 19 i forordning [(EU) 2016/425](eu/32016r0425), kan Arbeidstilsynet, Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskap:
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre det personlige verneutstyret tilgjengelig på markedet
+2. kreve at det personlige verneutstyret tilbaketrekkes fra relevante markedsaktører
+3. kreve at det personlige verneutstyret utstyret tilbakekalles fra markedet
+4. kreve offentliggjøring av advarselsinformasjon eller lignende
+5. kreve retting av det personlige verneutstyret
+6. kreve at det personlige verneutstyret uskadeliggjøres
+7. kreve merking av det personlige verneutstyret.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 

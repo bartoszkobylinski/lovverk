@@ -15,7 +15,7 @@ xml_hash: "c68ff05da5c500505088e41e1b3c21dc909e14083e527e859fc15c6208999498"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,14 @@ I utmark og vassdrag er motorferdsel ikke tillatt med mindre annet følger av de
 
 ## § 4. (tillatelser med hjemmel direkte i loven).
 
-Uten hinder av [§ 3](lov/1977-06-10-82/§3) er motorferdsel tillatt i forbindelse med:politi-, ambulanse- og redningstjeneste og oppsyns- og tilsynstjeneste etablert med hjemmel i lov,offentlig post- og teletjenester,nødvendig person- og godstransport til og fra faste bosteder og i jordbruks-, skogbruks- og reindriftsnæring. Jakt, fangst, fiske og bærsanking reknes ikke som næring i denne forbindelse,forsvarets øvelser, forflytninger og transporter,anlegg og drift av offentlige veger og anlegg,rutetransport som drives med løyve i henhold til yrkestransportloven
+Uten hinder av [§ 3](lov/1977-06-10-82/§3) er motorferdsel tillatt i forbindelse med:
+
+1. politi-, ambulanse- og redningstjeneste og oppsyns- og tilsynstjeneste etablert med hjemmel i lov,
+2. offentlig post- og teletjenester,
+3. nødvendig person- og godstransport til og fra faste bosteder og i jordbruks-, skogbruks- og reindriftsnæring. Jakt, fangst, fiske og bærsanking reknes ikke som næring i denne forbindelse,
+4. forsvarets øvelser, forflytninger og transporter,
+5. anlegg og drift av offentlige veger og anlegg,
+6. rutetransport som drives med løyve i henhold til yrkestransportloven
 
 Departementet kan ved forskrift gi også andre tillatelser til motorferdsel.
 
@@ -76,7 +83,10 @@ Departementet kan i forskrift gi nærmere regler om løypene og kommunens saksbe
 
 ## § 5. (tillatelser etter vedtak)
 
-Kommunen kan gi forskrift om adgang til:landing og start med luftfartøy på bestemte steder i utmark og vassdrag. Adgangen kan begrenses til landing og start til bestemte formål, til bestemte tider og til å gjelde selskaper eller enkeltpersoner som driver ervervsmessig luftfartsvirksomhet.bruk av motorfartøy på innsjøer mindre enn 2 kvadratkilometer når det foreligger særlige grunner som i tilfelle må angis i forskriften.
+Kommunen kan gi forskrift om adgang til:
+
+1. landing og start med luftfartøy på bestemte steder i utmark og vassdrag. Adgangen kan begrenses til landing og start til bestemte formål, til bestemte tider og til å gjelde selskaper eller enkeltpersoner som driver ervervsmessig luftfartsvirksomhet.
+2. bruk av motorfartøy på innsjøer mindre enn 2 kvadratkilometer når det foreligger særlige grunner som i tilfelle må angis i forskriften.
 
 Utkast til forskrift sendes fylkeskommunen og berørte statlige fagmyndigheter til uttalelse. Dersom noen av disse har hatt innsigelse som kommunen ikke har tatt hensyn til, skal kommunens vedtak sendes statsforvalteren til godkjennelse.
 

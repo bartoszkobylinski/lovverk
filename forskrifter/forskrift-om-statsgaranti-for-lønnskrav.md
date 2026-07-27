@@ -27,7 +27,11 @@ eu_basis: []
 ### § 1-1. Virkeområde
 
 1. Garantien omfatter lønn m.v. til arbeidstakere som har utført arbeid i annens tjeneste i et arbeidsforhold hvor det skal betales arbeidsgiveravgift til folketrygden.
-2. Selv om det ikke skal betales arbeidsgiveravgift omfatter garantien også:lønn m.v. til arbeidstakere på norske fiske- og fangstfartøyer.lønn mv. til arbeidstaker som har utført arbeid i Norge for arbeidsgiver hjemmehørende i annet EØS-land, dersom det i sistnevnte land er oppstått en situasjon som nevnt i artikkel 2 (1) i direktiv [2008/94/EF](eu/32008l0094). Dekning av lønn mv. skjer i henhold til norsk regelverk.lønn m.v. til arbeidstakere som har utført arbeid i et annet EØS-land for arbeidsgiver som bare kan begjæres konkurs i Norge, i den utstrekning arbeidstakerne ikke får lønnsgarantidekning i det land de er trygdet eller har utført arbeidet.
+2. Selv om det ikke skal betales arbeidsgiveravgift omfatter garantien også:
+
+   1. lønn m.v. til arbeidstakere på norske fiske- og fangstfartøyer.
+   2. lønn mv. til arbeidstaker som har utført arbeid i Norge for arbeidsgiver hjemmehørende i annet EØS-land, dersom det i sistnevnte land er oppstått en situasjon som nevnt i artikkel 2 (1) i direktiv [2008/94/EF](eu/32008l0094). Dekning av lønn mv. skjer i henhold til norsk regelverk.
+   3. lønn m.v. til arbeidstakere som har utført arbeid i et annet EØS-land for arbeidsgiver som bare kan begjæres konkurs i Norge, i den utstrekning arbeidstakerne ikke får lønnsgarantidekning i det land de er trygdet eller har utført arbeidet.
 
 > Endret ved [forskrifter 15 mars 2006 nr. 339](forskrift/2006-03-15-339), [5 feb 2013 nr. 141](forskrift/2013-02-05-141), [21 des 2017 nr. 2362](forskrift/2017-12-21-2362) (i kraft 1 jan 2018).
 
@@ -48,14 +52,21 @@ Bestemmelsen i forskriften her gjelder tilsvarende ved skifte av insolvent døds
 
 ### § 2-1. Fritak for vilkåret om konkurs
 
-1. Arbeids- og velferdsetaten kan frita arbeidstakere på fiske- og fangstfartøyer, skip, borefartøyer og flyttbare innretninger i sjøen for vilkåret om konkursåpning hos arbeidsgiver, jf [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) første ledd. Vilkårene for et slikt fritak er:at begjæring om åpning av konkurs er avvist av tingretten fordi arbeidstakers krav anses betryggende sikret ved sjøpant, jf [sjøloven av 24 juni 1994 nr 39 kap II](lov/1994-06-24-39/kapii), ogat sjøpantet ikke kan realiseres etter norsk lov, ogat arbeidstaker kan sannsynliggjøre at arbeidsgiveres virksomhet er insolvent og endelig opphørt.
+1. Arbeids- og velferdsetaten kan frita arbeidstakere på fiske- og fangstfartøyer, skip, borefartøyer og flyttbare innretninger i sjøen for vilkåret om konkursåpning hos arbeidsgiver, jf [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) første ledd. Vilkårene for et slikt fritak er:
+
+   1. at begjæring om åpning av konkurs er avvist av tingretten fordi arbeidstakers krav anses betryggende sikret ved sjøpant, jf [sjøloven av 24 juni 1994 nr 39 kap II](lov/1994-06-24-39/kapii), og
+   2. at sjøpantet ikke kan realiseres etter norsk lov, og
+   3. at arbeidstaker kan sannsynliggjøre at arbeidsgiveres virksomhet er insolvent og endelig opphørt.
 2. Dersom det blir gitt slikt fritak får [dekningsloven § 9-3](lov/1984-06-08-59/§9-3) anvendelse så langt den passer. Som fristdag regnes den dag tingretten mottok begjæring om åpning av konkurs som nevnt i nr 1 a). Søknad om lønnsgarantidekning må sendes til Arbeids- og velferdsetaten uten ugrunnet opphold etter at det foreligger en rettskraftig avgjørelse.
 
 > Endret ved [forskrifter 19 feb 2003 nr. 205](forskrift/2003-02-19-205), [18 des 2006 nr. 1494](forskrift/2006-12-18-1494) (i kraft 1 jan 2007).
 
 ### § 2-2. Fritidsgodtgjøring og fri reise med underhold
 
-På vanlige vilkår for lønnsgarantidekning, men etter de særlige begrensningsregler nevnt i denne bestemmelsen, dekker garantien også:fritidsgodtgjøring etter de samme regler som for feriepenger (jf [dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr 2)krav i medhold av sjømannsloven på fri reise med underhold, eller tilsvarende krav som har grunnlag i tariffavtale eller annen skriftlig avtale. Kravets forfallstid må ikke ligge lenger tilbake enn fire måneder før fristdagen. Kravet omfattes ikke av beløpsbegrensningen i [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) tredje ledd.
+På vanlige vilkår for lønnsgarantidekning, men etter de særlige begrensningsregler nevnt i denne bestemmelsen, dekker garantien også:
+
+1. fritidsgodtgjøring etter de samme regler som for feriepenger (jf [dekningsloven § 9-3](lov/1984-06-08-59/§9-3) første ledd nr 2)
+2. krav i medhold av sjømannsloven på fri reise med underhold, eller tilsvarende krav som har grunnlag i tariffavtale eller annen skriftlig avtale. Kravets forfallstid må ikke ligge lenger tilbake enn fire måneder før fristdagen. Kravet omfattes ikke av beløpsbegrensningen i [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) tredje ledd.
 
 ## Kap. 3. Fremgangsmåten ved søknad om lønnsgarantidekning
 
@@ -134,7 +145,11 @@ Så snart som mulig under bobehandlingen bør det klarlegges om lønnskravene ka
 
 ### § 5-4. Bostyrers plikter i forbindelse med kontroll og oversendelse av krav
 
-1. Bostyrer skalmotta og kontrollere arbeidstakernes søknader, og sørge for at feil og mangler blir rettet,sørge for at de fremsatte lønnskrav m.v. formelt blir registrert som krav i boet,på vegne av arbeidstakerne snarest mulig sende kontrollerte og forfalte krav på lønnsgarantidekning til Arbeids- og velferdsetaten i samsvar med bestemmelsene nedenfor. Søknadsblanketter som er utfylt av arbeidstakerne oversendes bare hvis Arbeids- og velferdsetaten av kontrollmessige grunner ber om det.
+1. Bostyrer skal
+
+   1. motta og kontrollere arbeidstakernes søknader, og sørge for at feil og mangler blir rettet,
+   2. sørge for at de fremsatte lønnskrav m.v. formelt blir registrert som krav i boet,
+   3. på vegne av arbeidstakerne snarest mulig sende kontrollerte og forfalte krav på lønnsgarantidekning til Arbeids- og velferdsetaten i samsvar med bestemmelsene nedenfor. Søknadsblanketter som er utfylt av arbeidstakerne oversendes bare hvis Arbeids- og velferdsetaten av kontrollmessige grunner ber om det.
 2. Bostyrer skal overføre forfalte og kontrollerte krav til samleliste fastsatt av Arbeids- og velferdsetaten. Samlelisten oversendes Arbeids- og velferdsetaten sammen med utfylt oversendelsesblankett for bostyrere, fastsatt av Arbeids- og velferdsetaten. Bostyrer skal gi påtegning om sin innstilling eller om resultatet av prøvelse av fordringen.
 3. I boer hvor de nødvendige opplysninger for vurdering av arbeidstakernes krav kan innhentes på annen betryggende måte, kan bostyrer frita arbeidstakerne fra å fremsette søknadene på fastsatt blankett (se [§§ 3-1](forskrift/1998-10-28-999/§3-1) og [3-2](forskrift/1998-10-28-999/§3-2)). Arbeids- og velferdsetaten kan omgjøre bostyrers beslutning og sette som vilkår for lønnsgarantidekning at arbeidstakerne fyller ut blanketter i samsvar med bestemmelsene foran.
 4. Dersom bobehandlingen er avsluttet, jf [konkursloven § 137](lov/1984-06-08-58/§137), skal bostyrer likevel behandle søknader om lønnsgarantidekning i samsvar med bestemmelsene foran. Søknader som er mottatt etter fristen i [§ 3-4](forskrift/1998-10-28-999/§3-4) nr 3 oversendes uten videre behandling til Arbeids- og velferdsetaten. Etter anmodning fra Arbeids- og velferdsetaten, skal bostyreren medvirke til ferdigbehandling av garantisakene. For bostyrers godtgjøring gjelder [kap 7](forskrift/1998-10-28-999/kap7) tilsvarende.
@@ -206,7 +221,12 @@ Så snart som mulig under bobehandlingen bør det klarlegges om lønnskravene ka
 ### § 8-1. Ikrafttreden og overgangsregler
 
 1. Forskriften her trer i kraft 1. januar 1999. Samtidig oppheves [forskrift av 5. juni 1992 nr. 431](forskrift/1992-06-05-431) om statsgaranti for lønnskrav ved konkurs m.v. fastsatt av Kommunal- og arbeidsdepartementet.
-2. Forskriften her gjelder i alle saker hvor følgende inntraff etter forskriftens ikrafttredelse:begjæring om konkurs kom inn til tingretten,dødsfallet, ved offentlig skifte av insolvent dødsbo,kjennelse ble avsagt om tvangsavvikling av insolvent selskap i medhold av [aksjeloven § 16-15](lov/1997-06-13-44/§16-15) og [allmennaksjeloven § 16-15](lov/1997-06-13-45/§16-15),vedtak ble truffet om offentlig administrasjon av banker og forsikringsselskaper.
+2. Forskriften her gjelder i alle saker hvor følgende inntraff etter forskriftens ikrafttredelse:
+
+   1. begjæring om konkurs kom inn til tingretten,
+   2. dødsfallet, ved offentlig skifte av insolvent dødsbo,
+   3. kjennelse ble avsagt om tvangsavvikling av insolvent selskap i medhold av [aksjeloven § 16-15](lov/1997-06-13-44/§16-15) og [allmennaksjeloven § 16-15](lov/1997-06-13-45/§16-15),
+   4. vedtak ble truffet om offentlig administrasjon av banker og forsikringsselskaper.
 3. For tilfeller hvor den nye forskriften ikke får anvendelse, gjelder de hittil gjeldende forskrifter.
 
 > Endret ved [forskrifter 7 des 1998 nr. 1292](forskrift/1998-12-07-1292), [19 feb 2003 nr. 205](forskrift/2003-02-19-205).

@@ -15,7 +15,7 @@ xml_hash: "19149ea9d91218d57d34bbad013f6c875e669db484bf6fdfccad2c1d757e0f59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ For tunneler som er åpne for offentlig trafikk per 1. januar 2010, skal det ett
 
 ## § 3. Definisjoner
 
-I forskriften menes med*fylkesveg:* Offentlig veg som etter vegloven er klassifisert som fylkesveg.*kommunal veg i Oslo:* Offentlig veg i Oslo kommune som etter vegloven er klassifisert som kommunal veg.*redningstjenester:* Alle lokale tjenester, som er enten offentlige eller private eller en del av tunnelpersonalet, som rykker ut ved en ulykke, herunder politi, brannvesen og redningsmannskap.*tunnellengde:* Lengden til det lengste kjørefeltet, målt i den helt innelukkede delen av tunnelen.*risikoanalyse:* Analyse av risikoene ved en bestemt tunnel, der det tas hensyn til alle konstruksjonsfaktorer og trafikkforhold som berører sikkerheten, herunder særlig trafikkens særtrekk og type, tunnellengde og tunnelgeometri og prognosen for antall tunge lastebiler per døgn.
+I forskriften menes med
+
+- *fylkesveg:* Offentlig veg som etter vegloven er klassifisert som fylkesveg.
+- *kommunal veg i Oslo:* Offentlig veg i Oslo kommune som etter vegloven er klassifisert som kommunal veg.
+- *redningstjenester:* Alle lokale tjenester, som er enten offentlige eller private eller en del av tunnelpersonalet, som rykker ut ved en ulykke, herunder politi, brannvesen og redningsmannskap.
+- *tunnellengde:* Lengden til det lengste kjørefeltet, målt i den helt innelukkede delen av tunnelen.
+- *risikoanalyse:* Analyse av risikoene ved en bestemt tunnel, der det tas hensyn til alle konstruksjonsfaktorer og trafikkforhold som berører sikkerheten, herunder særlig trafikkens særtrekk og type, tunnellengde og tunnelgeometri og prognosen for antall tunge lastebiler per døgn.
 
 ## § 4. Forvaltningsmyndighet
 
@@ -44,7 +50,12 @@ Vegdirektoratet, eller den direktoratet delegerer myndighet til, skal gi tillate
 
 Vegdirektoratet, eller den direktoratet delegerer myndighet til, kan innstille eller begrense bruken av en tunnel på fylkesveg og i Oslo kommunal veg, herunder spesifisere under hvilke forhold normal trafikk kan gjenopptas, dersom sikkerhetskravene ikke er oppfylt.
 
-Fylkeskommunen og Oslo kommune skal påse at relevant organregelmessig prøver og inspiserer tunneler og utarbeider sikkerhetskrav knyttet til dette,iverksetter organisasjons- og driftsmessige ordninger, herunder planer for håndtering av nødssituasjoner, for opplæring og utrustning av redningstjenester,definerer framgangsmåten for umiddelbar stenging av en tunnel ved en nødssituasjon,gjennomfører nødvendige risikoreduserende tiltak.
+Fylkeskommunen og Oslo kommune skal påse at relevant organ
+
+1. regelmessig prøver og inspiserer tunneler og utarbeider sikkerhetskrav knyttet til dette,
+2. iverksetter organisasjons- og driftsmessige ordninger, herunder planer for håndtering av nødssituasjoner, for opplæring og utrustning av redningstjenester,
+3. definerer framgangsmåten for umiddelbar stenging av en tunnel ved en nødssituasjon,
+4. gjennomfører nødvendige risikoreduserende tiltak.
 
 ## § 5. Tunnelforvalter
 
@@ -62,7 +73,15 @@ For hver fylkesvegtunnel skal fylkeskommunen oppnevne en sikkerhetskontrollør s
 
 Sikkerhetskontrolløren skal være uavhengig i alle spørsmål om sikkerhet i vegtunneler og skal ikke være underlagt instrukser fra fylkeskommunen, Oslo kommune eller staten. Sikkerhetskontrolløren kan ha oppgaver og funksjoner for flere tunneler.
 
-Sikkerhetskontrolløren skalsikre samordning med redningstjenester og delta i utarbeidelse av driftsplaner,delta i planlegging, gjennomføring og evaluering av redningsoperasjoner,delta i fastsettelse av sikkerhetsplaner og spesifisering av konstruksjon, utrustning og drift med hensyn til både nye tunneler og endringer av eksisterende tunneler,kontrollere at driftspersonalet og redningstjenestene får opplæring, og delta i organisering av øvelser som holdes med jevne mellomrom,gi råd om det kan gis tillatelse til å ta i bruk tunnelers konstruksjon og utrustning og til drift,kontrollere at tunnelens konstruksjon og utrustning vedlikeholdes og repareres,delta i evaluering av enhver betydelig hendelse eller ulykke nevnt i [§ 5](forskrift/2014-12-10-1566/§5) andre og tredje ledd.
+Sikkerhetskontrolløren skal
+
+1. sikre samordning med redningstjenester og delta i utarbeidelse av driftsplaner,
+2. delta i planlegging, gjennomføring og evaluering av redningsoperasjoner,
+3. delta i fastsettelse av sikkerhetsplaner og spesifisering av konstruksjon, utrustning og drift med hensyn til både nye tunneler og endringer av eksisterende tunneler,
+4. kontrollere at driftspersonalet og redningstjenestene får opplæring, og delta i organisering av øvelser som holdes med jevne mellomrom,
+5. gi råd om det kan gis tillatelse til å ta i bruk tunnelers konstruksjon og utrustning og til drift,
+6. kontrollere at tunnelens konstruksjon og utrustning vedlikeholdes og repareres,
+7. delta i evaluering av enhver betydelig hendelse eller ulykke nevnt i [§ 5](forskrift/2014-12-10-1566/§5) andre og tredje ledd.
 
 ## § 7. Inspeksjoner
 
@@ -130,7 +149,23 @@ Sikkerhetstiltak som skal gjennomføres i en tunnel, skal være basert på en sy
 
 1.1.2.
 
-Følgende parametere skal tas i betraktning:tunnellengde,antall løp,antall kjørefelt,tverrsnittsgeometri,vertikal og horisontal profil,konstruksjonstype,enveis- eller toveistrafikk,trafikkvolum per løp (herunder fordeling i tid),risiko for trafikkork (per døgn eller sesongbestemt),atkomsttid for redningstjenestene,nærvær og prosentandel av tunge lastebiler,særtrekk ved atkomstveiene,kjørefeltbredde,hastighetsaspekter,geografisk og meteorologisk miljø.
+Følgende parametere skal tas i betraktning:
+
+- tunnellengde,
+- antall løp,
+- antall kjørefelt,
+- tverrsnittsgeometri,
+- vertikal og horisontal profil,
+- konstruksjonstype,
+- enveis- eller toveistrafikk,
+- trafikkvolum per løp (herunder fordeling i tid),
+- risiko for trafikkork (per døgn eller sesongbestemt),
+- atkomsttid for redningstjenestene,
+- nærvær og prosentandel av tunge lastebiler,
+- særtrekk ved atkomstveiene,
+- kjørefeltbredde,
+- hastighetsaspekter,
+- geografisk og meteorologisk miljø.
 
 1.1.3.
 
@@ -140,7 +175,10 @@ Dersom en tunnel har et spesielt særtrekk når det gjelder ovennevnte parameter
 
 1.2.1.
 
-Sikkerhetstiltakene som er fastsatt i følgende punkter, skal iverksettes som et minimum for å sikre et minstenivå for sikkerhet i alle tunneler som omfattes av denne forskriften. Begrensede unntak fra disse kravene kan tillates, forutsatt at følgende framgangsmåten følges:behovet for fravik skal dokumenteres gjennom en risikoanalysedersom fravik aksepteres skal det dokumenteres at avbøtende tiltak gir samme eller bedre totalsikkerhet der brann og ulykker ses i sammenheng.
+Sikkerhetstiltakene som er fastsatt i følgende punkter, skal iverksettes som et minimum for å sikre et minstenivå for sikkerhet i alle tunneler som omfattes av denne forskriften. Begrensede unntak fra disse kravene kan tillates, forutsatt at følgende framgangsmåten følges:
+
+- behovet for fravik skal dokumenteres gjennom en risikoanalyse
+- dersom fravik aksepteres skal det dokumenteres at avbøtende tiltak gir samme eller bedre totalsikkerhet der brann og ulykker ses i sammenheng.
 
 1.2.2.
 
@@ -202,7 +240,12 @@ I eksisterende tunneler der det verken finnes havarifelt eller nødfortau, skal 
 
 2.3.3.
 
-Nødutganger skal gjøre det mulig for trafikantene i tunnelen å forlate tunnelen uten kjøretøyene sine og nå et trygt sted i tilfelle av en ulykke eller brann. De gir også redningstjenestene adgang til tunnelen til fots. Eksempler på slike nødutganger er:direkte utgang fra tunnelen til det fri,tverrforbindelser mellom tunnelløp,utganger til et nødgalleri,tilfluktsrom med en fluktveg som er atskilt fra tunnelløpet.
+Nødutganger skal gjøre det mulig for trafikantene i tunnelen å forlate tunnelen uten kjøretøyene sine og nå et trygt sted i tilfelle av en ulykke eller brann. De gir også redningstjenestene adgang til tunnelen til fots. Eksempler på slike nødutganger er:
+
+- direkte utgang fra tunnelen til det fri,
+- tverrforbindelser mellom tunnelløp,
+- utganger til et nødgalleri,
+- tilfluktsrom med en fluktveg som er atskilt fra tunnelløpet.
 
 2.3.4.
 
@@ -288,7 +331,11 @@ Det skal finnes evakueringsbelysning, som lysende evakueringsmerking, i en høyd
 
 2.9.1.
 
-Konstruksjon, bygging og drift av ventilasjonssystemet skal ta hensyn til:kontroll med forurensende stoffer som slippes ut fra veggående kjøretøyer, under normale trafikkforhold og i trafikksterke perioder,kontroll med forurensende stoffer som slippes ut fra veggående kjøretøyer når trafikken stanses på grunn av en hendelse eller ulykke,kontroll med varme og røyk i tilfelle brann.
+Konstruksjon, bygging og drift av ventilasjonssystemet skal ta hensyn til:
+
+- kontroll med forurensende stoffer som slippes ut fra veggående kjøretøyer, under normale trafikkforhold og i trafikksterke perioder,
+- kontroll med forurensende stoffer som slippes ut fra veggående kjøretøyer når trafikken stanses på grunn av en hendelse eller ulykke,
+- kontroll med varme og røyk i tilfelle brann.
 
 2.9.2.
 
@@ -304,7 +351,10 @@ Tverrgående eller halvveis tverrgående ventilasjonssystemer skal brukes i tunn
 
 2.9.5.
 
-I tunneler med toveistrafikk, med et større trafikkvolum enn 2 000 kjøretøy (ÅDT) per kjørefelt, som er lengre enn 3 000 meter og med kontrollsentral og tverrgående og/eller halvveis tverrgående ventilasjon, skal det treffes følgende minimumstiltak med hensyn til ventilasjon:det skal være montert luft- og røykavtrekksspjeld som kan betjenes enkeltvis eller i grupper,lufthastigheten i lengderetningen skal overvåkes konstant og ventilasjonssystemets styringsprosess (spjeld, vifter osv.) skal justeres ut fra dette.
+I tunneler med toveistrafikk, med et større trafikkvolum enn 2 000 kjøretøy (ÅDT) per kjørefelt, som er lengre enn 3 000 meter og med kontrollsentral og tverrgående og/eller halvveis tverrgående ventilasjon, skal det treffes følgende minimumstiltak med hensyn til ventilasjon:
+
+- det skal være montert luft- og røykavtrekksspjeld som kan betjenes enkeltvis eller i grupper,
+- lufthastigheten i lengderetningen skal overvåkes konstant og ventilasjonssystemets styringsprosess (spjeld, vifter osv.) skal justeres ut fra dette.
 
 2.10.*Nødstasjoner*
 
@@ -422,7 +472,11 @@ Alt bør gjøres som med rimelighet er mulig for å unngå en situasjon der en g
 
 3.7.*Transport av farlig gods*
 
-Følgende tiltak skal anvendes når det gjelder adgang til tunneler for kjøretøyer som transporterer farlig gods, slik dette er definert i lovgivning om transport av farlig gods på veg:utføre en risikoanalyse i henhold til [§ 10](forskrift/2014-12-10-1566/§10) før regler og krav til transport av farlig gods gjennom en tunnel fastsettes eller endres,sette opp hensiktsmessige skilt for å håndheve reglene, før siste avkjøringsmulighet før tunnelen og ved tunnelåpningene, og enda tidligere, slik at sjåførene kan velge alternative reiseruter,vurdere særskilte driftsmessige tiltak beregnet på å redusere risikoen knyttet til enkelte eller alle kjøretøyer som transporterer farlig gods i tunneler, som forhåndsvarsling eller kolonnekjøring med eskorte av følgebiler, i hvert enkelt tilfelle som et tillegg til risikoanalysen nevnt ovenfor.
+Følgende tiltak skal anvendes når det gjelder adgang til tunneler for kjøretøyer som transporterer farlig gods, slik dette er definert i lovgivning om transport av farlig gods på veg:
+
+- utføre en risikoanalyse i henhold til [§ 10](forskrift/2014-12-10-1566/§10) før regler og krav til transport av farlig gods gjennom en tunnel fastsettes eller endres,
+- sette opp hensiktsmessige skilt for å håndheve reglene, før siste avkjøringsmulighet før tunnelen og ved tunnelåpningene, og enda tidligere, slik at sjåførene kan velge alternative reiseruter,
+- vurdere særskilte driftsmessige tiltak beregnet på å redusere risikoen knyttet til enkelte eller alle kjøretøyer som transporterer farlig gods i tunneler, som forhåndsvarsling eller kolonnekjøring med eskorte av følgebiler, i hvert enkelt tilfelle som et tillegg til risikoanalysen nevnt ovenfor.
 
 3.8.*Forbikjøring i tunneler*
 
@@ -462,15 +516,26 @@ Sikkerhetsdokumentasjonen skal beskrive forebyggings- og vernetiltak som trengs 
 
 2.3.
 
-Sikkerhetsdokumentasjonen for en tunnel på prosjekteringsstadiet skal særlig omfatte:en beskrivelse av den planlagte konstruksjonen og atkomst til den, sammen med de planer som er nødvendige for å forstå konstruksjonens virkemåte og planlagte driftsordninger,en trafikkprognose som spesifiserer og begrunner den ordning som planlegges for transport av farlig gods, samt risikoanalysen fastsatt i vedlegg I nr. 3.7, en særskilt studie av farer, med beskrivelse av mulige ulykker som tydelig berører sikkerheten for trafikanter i tunneler og som vil kunne inntreffe i løpet av brukstiden, samt arten og størrelsesordenen av de mulige konsekvensene av dem; denne studien må presisere og begrunne tiltak for å redusere sannsynligheten for ulykker og deres konsekvenser,en uttalelse om sikkerhet fra en sakkyndig ekspert eller organisasjon på området, som kan være inspeksjonsenheten.
+Sikkerhetsdokumentasjonen for en tunnel på prosjekteringsstadiet skal særlig omfatte:
+
+- en beskrivelse av den planlagte konstruksjonen og atkomst til den, sammen med de planer som er nødvendige for å forstå konstruksjonens virkemåte og planlagte driftsordninger,
+- en trafikkprognose som spesifiserer og begrunner den ordning som planlegges for transport av farlig gods, samt risikoanalysen fastsatt i vedlegg I nr. 3.7, en særskilt studie av farer, med beskrivelse av mulige ulykker som tydelig berører sikkerheten for trafikanter i tunneler og som vil kunne inntreffe i løpet av brukstiden, samt arten og størrelsesordenen av de mulige konsekvensene av dem; denne studien må presisere og begrunne tiltak for å redusere sannsynligheten for ulykker og deres konsekvenser,
+- en uttalelse om sikkerhet fra en sakkyndig ekspert eller organisasjon på området, som kan være inspeksjonsenheten.
 
 2.4.
 
-Sikkerhetsdokumentasjonen for en tunnel på tidspunktet for idriftsetting skal i tillegg til dokumentasjonen som kreves på prosjekteringsstadiet, inneholde:en beskrivelse av organisasjonen, de menneskelige og materielle ressursene og instrukser fastsatt av tunnelforvalter for å sikre drift og vedlikehold av tunnelen,en kriseberedskapsplan utarbeidet i fellesskap med redningstjenestene, som også tar hensyn til personer med redusert mobilitet og funksjonshemmede,en beskrivelse av systemet for permanent tilbakemelding om erfaring som gjør det mulig å registrere og analysere betydelige hendelser og ulykker.
+Sikkerhetsdokumentasjonen for en tunnel på tidspunktet for idriftsetting skal i tillegg til dokumentasjonen som kreves på prosjekteringsstadiet, inneholde:
+
+- en beskrivelse av organisasjonen, de menneskelige og materielle ressursene og instrukser fastsatt av tunnelforvalter for å sikre drift og vedlikehold av tunnelen,
+- en kriseberedskapsplan utarbeidet i fellesskap med redningstjenestene, som også tar hensyn til personer med redusert mobilitet og funksjonshemmede,
+- en beskrivelse av systemet for permanent tilbakemelding om erfaring som gjør det mulig å registrere og analysere betydelige hendelser og ulykker.
 
 2.5.
 
-Sikkerhetsdokumentasjonen for en tunnel som er i bruk, skal i tillegg til dokumentasjonen som kreves på tidspunktet for idriftsetting, inneholde:en rapport og analyse av betydelige hendelser og ulykker som har forekommet etter at denne forskrift trådte i kraft,en liste over de sikkerhetsøvelser som er holdt og en analyse av den lærdom som er trukket fra dem.
+Sikkerhetsdokumentasjonen for en tunnel som er i bruk, skal i tillegg til dokumentasjonen som kreves på tidspunktet for idriftsetting, inneholde:
+
+- en rapport og analyse av betydelige hendelser og ulykker som har forekommet etter at denne forskrift trådte i kraft,
+- en liste over de sikkerhetsøvelser som er holdt og en analyse av den lærdom som er trukket fra dem.
 
 3.*Idriftsetting*
 
@@ -508,7 +573,12 @@ Sikkerhetskontrolløren skal vurdere konsekvensene av endringen og i alle tilfel
 
 Tunnelforvalter og redningstjenestene skal, i samarbeid med sikkerhetskontrolløren, jevnlig arrangere felles øvelser for tunnelpersonalet og redningstjenestene.
 
-Disse øvelsenebør være så realistiske som mulig og bør tilsvare de definerte hendelsesscenariene,bør gi tydelige resultater til evaluering,bør unngå å forårsake skade på tunnelen, ogkan også delvis foretas som modelløvelser eller simuleringsøvelser med datamaskin for å få utfyllende resultater.
+Disse øvelsene
+
+- bør være så realistiske som mulig og bør tilsvare de definerte hendelsesscenariene,
+- bør gi tydelige resultater til evaluering,
+- bør unngå å forårsake skade på tunnelen, og
+- kan også delvis foretas som modelløvelser eller simuleringsøvelser med datamaskin for å få utfyllende resultater.
 
 Øvelser i naturlig størrelse under forhold som er så realistiske som mulig, skal holdes i hver tunnel minst hvert fjerde år. Stenging av tunnelen vil bare være påkrevd dersom det kan sørges for akseptable ordninger for omdirigering av trafikken. Deløvelser og/eller simuleringsøvelser skal holdes hvert år i mellomtiden. I områder der det finnes flere tunneler i umiddelbar nærhet av hverandre, må en øvelse i naturlig størrelse holdes i minst en av disse tunnelene.
 

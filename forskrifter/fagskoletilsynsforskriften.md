@@ -30,7 +30,10 @@ Forskriften gjelder krav til akkreditering, drift og tilsyn i høyere yrkesfagli
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*fagmiljø*: de som regelmessig og direkte bidrar til å gjennomføre, organisere eller utvikle utdanningen eller fagområdet*utdanningsfaglig kompetanse*: kompetanse i å fremme studenters læring, kan bestå av pedagogisk, didaktisk, digital eller annen relevant kompetanse.
+I denne forskriften menes med
+
+1. *fagmiljø*: de som regelmessig og direkte bidrar til å gjennomføre, organisere eller utvikle utdanningen eller fagområdet
+2. *utdanningsfaglig kompetanse*: kompetanse i å fremme studenters læring, kan bestå av pedagogisk, didaktisk, digital eller annen relevant kompetanse.
 
 ## Kapittel 2. Krav til fagskoleutdanning
 
@@ -40,7 +43,11 @@ Fagskolen skal samarbeide med aktører i arbeidslivet for å sikre at utdanninge
 
 Utdanningens læringsutbytte skal være utformet i tråd med Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR), og kvalifikasjonen skal være tilstrekkelig for å utøve yrket.
 
-Utdanningen skal haet dekkende navnet faginnhold og en struktur som er egnet til at studentene kan oppnå læringsutbyttetundervisnings-, lærings- og vurderingsformer som er egnet til at studentene kan oppnå læringsutbyttet.
+Utdanningen skal ha
+
+1. et dekkende navn
+2. et faginnhold og en struktur som er egnet til at studentene kan oppnå læringsutbyttet
+3. undervisnings-, lærings- og vurderingsformer som er egnet til at studentene kan oppnå læringsutbyttet.
 
 For utdanninger med praksis skal det finnes en skriftlig praksisavtale mellom fagskolen og praksisstedet om hvordan praksisen skal gjennomføres.
 
@@ -58,7 +65,10 @@ Arbeidsomfanget for studentene skal være på 1500–1800 timer per år for helt
 
 Fagmiljøets størrelse og kompetanse skal stå i forhold til antallet studenter og utdanningens innhold og egenart. I fagmiljøet skal det finnes personer med utdanning minst på fagskolenivå, utdanningsfaglig kompetanse og oppdatert yrkeserfaring.
 
-Utdanningen skal ha enfaglig ansvarlig som har ansvar for utviklingen og gjennomføringen av utdanningen. Den faglig ansvarlige skal ha utdanning som er relevant for utdanningens innhold og egenart, og være ansatt i minst 50 prosent stilling ved fagskolen.utdanningsfaglig ansvarlig med utdanningsfaglig utdanning som har ansvar for å legge til rette for studentenes læring.
+Utdanningen skal ha en
+
+1. faglig ansvarlig som har ansvar for utviklingen og gjennomføringen av utdanningen. Den faglig ansvarlige skal ha utdanning som er relevant for utdanningens innhold og egenart, og være ansatt i minst 50 prosent stilling ved fagskolen.
+2. utdanningsfaglig ansvarlig med utdanningsfaglig utdanning som har ansvar for å legge til rette for studentenes læring.
 
 Fagskolen skal fastsette egne krav til fagmiljøets størrelse, kompetanse og sammensetning.
 
@@ -74,11 +84,24 @@ Sensorene skal ha kompetanse til å vurdere om studenten har oppnådd læringsut
 
 ### § 2-6. Utdanningens administrasjon og infrastruktur
 
-Fagskolen skal haadministrative ressurser som er tilpasset utdanningenlokaler, utstyr, tilgang til informasjons- og bibliotekstjenester og annen infrastruktur som er tilpasset utdanningen.
+Fagskolen skal ha
+
+1. administrative ressurser som er tilpasset utdanningen
+2. lokaler, utstyr, tilgang til informasjons- og bibliotekstjenester og annen infrastruktur som er tilpasset utdanningen.
 
 ### § 2-7. Vitnemål for utdanningen
 
-Fullført utdanning skal dokumenteres med vitnemål, jf. fagskoleforskriften § 19. Vitnemålet skal visefagskolens og utdanningens navnkandidatens navn og fødselsnummeren beskrivelse av karaktersystemetkandidatens karaktererdet overordnede læringsutbyttet for utdanningenutdanningens emner og eventuell praksisnivå i Nasjonalt kvalifikasjonsrammeverk for livslang læringantall studiepoeng og eventuell gradsbetegnelsedatoen for når vitnemålet er utstedt.
+Fullført utdanning skal dokumenteres med vitnemål, jf. fagskoleforskriften § 19. Vitnemålet skal vise
+
+1. fagskolens og utdanningens navn
+2. kandidatens navn og fødselsnummer
+3. en beskrivelse av karaktersystemet
+4. kandidatens karakterer
+5. det overordnede læringsutbyttet for utdanningen
+6. utdanningens emner og eventuell praksis
+7. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring
+8. antall studiepoeng og eventuell gradsbetegnelse
+9. datoen for når vitnemålet er utstedt.
 
 Dersom utdanningen har krav om skikkethetsvurdering, skal vitnemålet vise dette.
 
@@ -120,7 +143,10 @@ Fagskolens kvalitetsarbeid skal være forankret i fagskolens styre og ledelse. F
 
 Fagskolen skal fastsette mål for kvaliteten i utdanningene.
 
-For å vurdere om hver enkelt utdanning når målet for kvalitet, skal fagskolen systematisk innhenteinformasjon fra studenter, ansatte, representanter fra yrkesfeltet og eventuelle andre relevante kilderresultater fra fagskolens internkontroll, jf. [fagskoleloven § 9](lov/2018-06-08-28/§9) tredje ledd bokstav f.
+For å vurdere om hver enkelt utdanning når målet for kvalitet, skal fagskolen systematisk innhente
+
+1. informasjon fra studenter, ansatte, representanter fra yrkesfeltet og eventuelle andre relevante kilder
+2. resultater fra fagskolens internkontroll, jf. [fagskoleloven § 9](lov/2018-06-08-28/§9) tredje ledd bokstav f.
 
 Fagskolen skal bruke sin vurdering av kvaliteten til å rette opp sviktende kvalitet og videreutvikle kvaliteten i utdanningene.
 
@@ -128,13 +154,23 @@ Fagskolen skal bruke sin vurdering av kvaliteten til å rette opp sviktende kval
 
 Systemet for kvalitetssikring er fagskolens verktøy for å gjennomføre kvalitetsarbeidet, jf. fagskoleforskriften § 49. Fagskolens beskrivelse av systemet for kvalitetssikring skal vise målene for kvalitetsarbeidet, hvordan arbeidet skal gjennomføres, ansvarsforholdene og rapporteringslinjene.
 
-For fagskoler med fagområdeakkreditering skal systemet for kvalitetssikring også vise prosedyrer for hvordan fagskolenoppretter utdanninger den selv har fullmakt til å akkrediteregjennomfører vesentlige endringer av utdanninger som hører inn under fagområdet.
+For fagskoler med fagområdeakkreditering skal systemet for kvalitetssikring også vise prosedyrer for hvordan fagskolen
+
+1. oppretter utdanninger den selv har fullmakt til å akkreditere
+2. gjennomfører vesentlige endringer av utdanninger som hører inn under fagområdet.
 
 ## Kapittel 5. Fagskolens meldeplikt og NOKUTs akkreditering og tilsyn
 
 ### § 5-1. Meldeplikt for endringer ved fagskoleutdanninger
 
-Fagskolen skal melde fra til NOKUT omnye utdanninger innenfor et akkreditert fagområdenye studiesteder for en utdanningendring av studiested for en utdanningendring av navnet på en utdanningendring av det samlede læringsutbyttet for en utdanningendring av utdanningsform for en utdanning.
+Fagskolen skal melde fra til NOKUT om
+
+1. nye utdanninger innenfor et akkreditert fagområde
+2. nye studiesteder for en utdanning
+3. endring av studiested for en utdanning
+4. endring av navnet på en utdanning
+5. endring av det samlede læringsutbyttet for en utdanning
+6. endring av utdanningsform for en utdanning.
 
 Meldeplikten gjelder alle fagskoleutdanninger, og meldingen skal sendes før endringen gjennomføres. For endringer som gjelder utdanninger som ikke inngår i et akkreditert fagområde, vurderer NOKUT om endringene gjør det nødvendig å søke om ny akkreditering.
 
@@ -144,7 +180,11 @@ NOKUT kan fastsette søknadsfrister for akkreditering av fagskoleutdanninger og 
 
 ### § 5-3. Sakkyndige ved akkreditering av og tilsyn med fagskoleutdanninger
 
-Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagskoleutdanninger, skal de sakkyndige til sammen hautdanning minst på nivå med toårig fagskoleutdanning innenfor fagområdet eller et beslektet fagområdeutdanningsfaglig utdanning eller relevant undervisningserfaringrelevant kunnskap om og erfaring fra et aktuelt yrkesfelt.
+Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagskoleutdanninger, skal de sakkyndige til sammen ha
+
+1. utdanning minst på nivå med toårig fagskoleutdanning innenfor fagområdet eller et beslektet fagområde
+2. utdanningsfaglig utdanning eller relevant undervisningserfaring
+3. relevant kunnskap om og erfaring fra et aktuelt yrkesfelt.
 
 For akkreditering av utdanninger der en annen myndighet gir sertifisering eller autorisasjon, skal de sakkyndige ha kunnskap om sertifiserings- eller autorisasjonskravene.
 
@@ -154,7 +194,14 @@ NOKUT skal gi søkere og fagskoler det skal føres tilsyn med, mulighet til å k
 
 ### § 5-4. Sakkyndige ved akkreditering av og tilsyn med fagområder
 
-Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagområder, skal de sakkyndige til sammen haerfaring fra relevant, anerkjent yrkesfelt og oppdatert kunnskap om aktuell faglig utvikling innenfor yrkesfeltetutdanning minst på nivå med toårig fagskoleutdanning innenfor relevant fagområdeutdanningsfaglig utdanning og relevant undervisningserfaringerfaring fra ledelse ved fagskole, høyskole eller universitetkjennskap til både videregående opplæring, fagskoleutdanning og høyere utdanningerfaring fra sentrale fagskolestudenttillitsverv fra de fem siste årene.
+Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagområder, skal de sakkyndige til sammen ha
+
+1. erfaring fra relevant, anerkjent yrkesfelt og oppdatert kunnskap om aktuell faglig utvikling innenfor yrkesfeltet
+2. utdanning minst på nivå med toårig fagskoleutdanning innenfor relevant fagområde
+3. utdanningsfaglig utdanning og relevant undervisningserfaring
+4. erfaring fra ledelse ved fagskole, høyskole eller universitet
+5. kjennskap til både videregående opplæring, fagskoleutdanning og høyere utdanning
+6. erfaring fra sentrale fagskolestudenttillitsverv fra de fem siste årene.
 
 NOKUT skal gi søkere og fagskoler som NOKUT skal føre tilsyn med, mulighet til å kommentere forslag om sakkyndige før de oppnevnes.
 

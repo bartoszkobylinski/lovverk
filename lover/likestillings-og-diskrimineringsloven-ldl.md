@@ -15,7 +15,7 @@ xml_hash: "b3a1a07f7d996d4d8c3c98d3a4f66d8297253754fd4f36c81b905e1a6654703b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31992L0085"
@@ -83,7 +83,11 @@ Med indirekte forskjellsbehandling menes enhver tilsynelatende nøytral bestemme
 
 ### § 9. Lovlig forskjellsbehandling
 
-Forskjellsbehandling er ikke i strid med forbudet i [§ 6](lov/2017-06-16-51/§6) når denhar et saklig formåler nødvendig for å oppnå formålet ogikke er uforholdsmessig inngripende overfor den eller de som forskjellsbehandles.
+Forskjellsbehandling er ikke i strid med forbudet i [§ 6](lov/2017-06-16-51/§6) når den
+
+1. har et saklig formål
+2. er nødvendig for å oppnå formålet og
+3. ikke er uforholdsmessig inngripende overfor den eller de som forskjellsbehandles.
 
 I arbeidsforhold og ved valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere er direkte forskjellsbehandling på grunn av kjønn, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet og kjønnsuttrykk bare tillatt hvis denne egenskapen har avgjørende betydning for utøvelsen av arbeidet eller yrket, og vilkårene i første ledd er oppfylt.
 
@@ -91,7 +95,12 @@ Aldersgrenser som følger av lov eller forskrift, og fordelaktige priser på gru
 
 ### § 10. Lovlig forskjellsbehandling på grunn av graviditet, fødsel, amming og permisjon ved fødsel eller adopsjon
 
-Forskjellsbehandling på grunn avgraviditet, fødsel og amming, herunder fravær etter [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1), [12-2](lov/2005-06-17-62/§12-2), [§ 12-3 første ledd første punktum](lov/2005-06-17-62/§12-3/ledd/1/setning/1), [§§ 12-4](lov/2005-06-17-62/§12-4) og [12-8](lov/2005-06-17-62/§12-8) eller [skipsarbeidsloven §§ 7-1](lov/2013-06-21-102/§7-1), [7-2](lov/2013-06-21-102/§7-2), [§ 7-3 første ledd første punktum](lov/2013-06-21-102/§7-3/ledd/1/setning/1) og [§ 7-4](lov/2013-06-21-102/§7-4), ogpermisjon forbeholdt hver av foreldrene, jf. [folketrygdloven § 14-12](lov/1997-02-28-19/§14-12) første ledder bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.
+Forskjellsbehandling på grunn av
+
+1. graviditet, fødsel og amming, herunder fravær etter [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1), [12-2](lov/2005-06-17-62/§12-2), [§ 12-3 første ledd første punktum](lov/2005-06-17-62/§12-3/ledd/1/setning/1), [§§ 12-4](lov/2005-06-17-62/§12-4) og [12-8](lov/2005-06-17-62/§12-8) eller [skipsarbeidsloven §§ 7-1](lov/2013-06-21-102/§7-1), [7-2](lov/2013-06-21-102/§7-2), [§ 7-3 første ledd første punktum](lov/2013-06-21-102/§7-3/ledd/1/setning/1) og [§ 7-4](lov/2013-06-21-102/§7-4), og
+2. permisjon forbeholdt hver av foreldrene, jf. [folketrygdloven § 14-12](lov/1997-02-28-19/§14-12) første ledd
+
+er bare tillatt der forskjellsbehandlingen er nødvendig for å beskytte kvinnen, fosteret eller barnet i forbindelse med graviditet, fødsel eller amming, eller der det foreligger andre åpenbare grunner. Forskjellsbehandlingen må ikke være uforholdsmessig inngripende overfor den som forskjellsbehandles.
 
 Ved forskjellsbehandling på grunn av permisjon ved fødsel eller adopsjon i perioder som ikke omfattes av første ledd, gjelder [§ 9](lov/2017-06-16-51/§9) første ledd.
 
@@ -101,7 +110,11 @@ Ved ansettelse og oppsigelse er forskjellsbehandling på grunn av graviditet, f�
 
 ### § 11. Adgang til positiv særbehandling
 
-Positiv særbehandling på grunn av forhold som nevnt i [§ 6](lov/2017-06-16-51/§6) første ledd er tillatt hvissærbehandlingen er egnet til å fremme lovens formål,det er et rimelig forhold mellom formålet man ønsker å oppnå og hvor inngripende særbehandlingen er for den eller de som stilles dårligere ogsærbehandlingen opphører når formålet med den er oppnådd.
+Positiv særbehandling på grunn av forhold som nevnt i [§ 6](lov/2017-06-16-51/§6) første ledd er tillatt hvis
+
+1. særbehandlingen er egnet til å fremme lovens formål,
+2. det er et rimelig forhold mellom formålet man ønsker å oppnå og hvor inngripende særbehandlingen er for den eller de som stilles dårligere og
+3. særbehandlingen opphører når formålet med den er oppnådd.
 
 ### § 12. Brudd på plikten til universell utforming eller individuell tilrettelegging
 
@@ -149,7 +162,14 @@ Offentlige og private virksomheter rettet mot allmennheten har plikt til univers
 
 Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.
 
-Plikten gjelder ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten. Ved vurderingen skal det særlig legges vekt påeffekten av å fjerne barrierer for personer med funksjonsnedsettelseom virksomhetens alminnelige funksjoner er av offentlig artkostnadene ved tilretteleggingenvirksomhetens ressursersikkerhetshensynvernehensyn.
+Plikten gjelder ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten. Ved vurderingen skal det særlig legges vekt på
+
+1. effekten av å fjerne barrierer for personer med funksjonsnedsettelse
+2. om virksomhetens alminnelige funksjoner er av offentlig art
+3. kostnadene ved tilretteleggingen
+4. virksomhetens ressurser
+5. sikkerhetshensyn
+6. vernehensyn.
 
 Plikten etter første ledd anses som oppfylt dersom virksomheten oppfyller krav til universell utforming i lov eller forskrift.
 
@@ -163,7 +183,12 @@ Offentlige og private virksomheter har plikt til universell utforming av hovedl�
 
 Med IKT menes teknologi og systemer av teknologi som brukes til å uttrykke, skape, omdanne, utveksle, lagre, mangfoldiggjøre og publisere informasjon, eller som på annen måte gjør informasjon anvendbar.
 
-Plikten etter første ledd gjelder ikke dersom den medfører en uforholdsmessig stor byrde for virksomheten. Ved vurderingen skal det særlig legges vekt påeffekten av å fjerne barrierer for personer med funksjonsnedsettelsevirksomhetens karakterkostnadene ved tilretteleggingenvirksomhetens størrelse og ressurser.
+Plikten etter første ledd gjelder ikke dersom den medfører en uforholdsmessig stor byrde for virksomheten. Ved vurderingen skal det særlig legges vekt på
+
+1. effekten av å fjerne barrierer for personer med funksjonsnedsettelse
+2. virksomhetens karakter
+3. kostnadene ved tilretteleggingen
+4. virksomhetens størrelse og ressurser.
 
 Plikten etter første ledd anses som oppfylt dersom virksomheten oppfyller krav til universell utforming i annen lov eller forskrift.
 
@@ -193,25 +218,41 @@ Barn med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av 
 
 Personer med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av kommunale tjenestetilbud etter helse- og omsorgstjenesteloven av varig karakter for den enkelte, for å sikre et likeverdig tilbud.
 
-Retten etter første og andre ledd gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt påtilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelsekostnadene ved tilretteleggingenvirksomhetens ressurser.
+Retten etter første og andre ledd gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på
+
+1. tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse
+2. kostnadene ved tilretteleggingen
+3. virksomhetens ressurser.
 
 ### § 21. Rett til individuell tilrettelegging for elever og studenter
 
 Elever og studenter med funksjonsnedsettelse ved skole- og utdanningsinstitusjoner har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter.
 
-Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt påtilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelsekostnadene ved tilretteleggingenvirksomhetens ressurser.
+Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på
+
+1. tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse
+2. kostnadene ved tilretteleggingen
+3. virksomhetens ressurser.
 
 ### § 22. Rett til individuell tilrettelegging for arbeidssøkere og arbeidstakere
 
 Arbeidstakere og arbeidssøkere med funksjonsnedsettelse har rett til egnet individuell tilrettelegging av ansettelsesprosess, arbeidsplass og arbeidsoppgaver, for å sikre at de kan få eller beholde arbeid, ha tilgang til opplæring og annen kompetanseutvikling samt utføre og ha mulighet til fremgang i arbeidet, på lik linje med andre.
 
-Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt påtilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelsekostnadene ved tilretteleggingenvirksomhetens ressurser.
+Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på
+
+1. tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse
+2. kostnadene ved tilretteleggingen
+3. virksomhetens ressurser.
 
 ### § 23. Rett til individuell tilrettelegging for gravide arbeidssøkere, arbeidstakere, elever og studenter
 
 Gravide elever og studenter har rett til egnet individuell tilrettelegging av lærested, undervisning og eksamen. Gravide arbeidstakere og arbeidssøkere har rett til egnet individuell tilrettelegging av ansettelsesprosess, arbeidsplass og arbeidsoppgaver.
 
-Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt påtilretteleggingens effekt for å fjerne barrierer for kvinners deltakelse i utdanning og arbeidkostnadene ved tilretteleggingenvirksomhetens ressurser.
+Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på
+
+1. tilretteleggingens effekt for å fjerne barrierer for kvinners deltakelse i utdanning og arbeid
+2. kostnadene ved tilretteleggingen
+3. virksomhetens ressurser.
 
 ## Kapittel 4 Aktivt likestillingsarbeid
 
@@ -231,7 +272,14 @@ Arbeidslivets organisasjoner skal, innenfor sine virkefelt, arbeide aktivt, mål
 
 Alle arbeidsgivere skal, innenfor sin virksomhet, arbeide aktivt, målrettet og planmessig for å fremme likestilling, hindre diskriminering på grunn av kjønn, graviditet, permisjon ved fødsel eller adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, eller kombinasjoner av disse grunnlagene, og søke å hindre trakassering, seksuell trakassering og kjønnsbasert vold. Arbeidet skal blant annet omfatte områdene rekruttering, lønns- og arbeidsvilkår, forfremmelse, utviklingsmuligheter, tilrettelegging og mulighet for å kombinere arbeid og familieliv.
 
-I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhetundersøke om det finnes risiko for diskriminering eller andre hindre for likestilling, herunder annethvert år kartlegge lønnsforhold fordelt etter kjønn og bruken av ufrivillig deltidsarbeid,analysere årsakene til identifiserte risikoer,iverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten ogvurdere resultater av arbeidet etter bokstav a til c.Det samme gjelder arbeidsgiver i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det.
+I alle offentlige virksomheter, uavhengig av størrelse, og i private virksomheter som jevnlig sysselsetter mer enn 50 ansatte, skal arbeidsgiver innenfor sin virksomhet
+
+1. undersøke om det finnes risiko for diskriminering eller andre hindre for likestilling, herunder annethvert år kartlegge lønnsforhold fordelt etter kjønn og bruken av ufrivillig deltidsarbeid,
+2. analysere årsakene til identifiserte risikoer,
+3. iverksette tiltak som er egnet til å motvirke diskriminering, og bidra til økt likestilling og mangfold i virksomheten og
+4. vurdere resultater av arbeidet etter bokstav a til c.
+
+Det samme gjelder arbeidsgiver i private virksomheter som jevnlig sysselsetter mellom 20 og 50 ansatte, når en av arbeidslivets parter i virksomheten krever det.
 
 Med ufrivillig deltidsarbeid menes deltidsarbeid der stillingsinnehaveren ønsker og er tilgjengelig for å jobbe mer.
 
@@ -279,7 +327,13 @@ I barnehager, skoler og andre utdanningsinstitusjoner som tilbyr opplæring med 
 
 ### § 28. Kjønnsbalanse i offentlige utvalg mv.
 
-Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:Har utvalget to eller tre medlemmer, skal begge kjønn være representert.Har utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.Har utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.Har utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.Har utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 pst.
+Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:
+
+1. Har utvalget to eller tre medlemmer, skal begge kjønn være representert.
+2. Har utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.
+3. Har utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.
+4. Har utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.
+5. Har utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 pst.
 
 Første ledd gjelder også ved oppnevning og valg av varamedlemmer.
 
@@ -293,13 +347,25 @@ Kongen gir forskrift om håndheving og rapportering. Kongen kan også gi forskri
 
 ### § 29. Diskrimineringsforbudet i arbeidsforhold mv.
 
-Forbudene i [kapittel 2](lov/2017-06-16-51/kap2) gjelder alle sider av et arbeidsforhold. Dette omfatter blant annetutlysning av stilling,ansettelse, omplassering og forfremmelse,opplæring og kompetanseutvikling,lønns- og arbeidsvilkår ogopphør.
+Forbudene i [kapittel 2](lov/2017-06-16-51/kap2) gjelder alle sider av et arbeidsforhold. Dette omfatter blant annet
+
+1. utlysning av stilling,
+2. ansettelse, omplassering og forfremmelse,
+3. opplæring og kompetanseutvikling,
+4. lønns- og arbeidsvilkår og
+5. opphør.
 
 Første ledd gjelder tilsvarende for arbeidsgiveres valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere.
 
 ### § 30. Forbud mot innhenting av opplysninger i ansettelsesprosesser
 
-Arbeidsgivere må ikke i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om en søkersgraviditet, adopsjon eller planer om å få barnreligion eller livssynetnisitetfunksjonsnedsettelseseksuelle orientering, kjønnsidentitet eller kjønnsuttrykk.
+Arbeidsgivere må ikke i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om en søkers
+
+1. graviditet, adopsjon eller planer om å få barn
+2. religion eller livssyn
+3. etnisitet
+4. funksjonsnedsettelse
+5. seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk.
 
 Innhenting av opplysninger om etnisitet, religion, livssyn, funksjonsnedsettelse og samlivsform er likevel tillatt hvis opplysningene har avgjørende betydning for utøvelsen av arbeidet eller yrket.
 
@@ -319,7 +385,11 @@ En arbeidsgiver som utleverer lønnsopplysninger om en arbeidstaker etter denne 
 
 ### § 33. Arbeidstakeres rettigheter ved foreldrepermisjon
 
-Arbeidstakere som er eller har vært i foreldrepermisjon etter [arbeidsmiljøloven § 12-5](lov/2005-06-17-62/§12-5) eller [skipsarbeidsloven § 7-5](lov/2013-06-21-102/§7-5), har rett til åvende tilbake til samme, eventuelt tilsvarende, stilling,nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet ogfremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.
+Arbeidstakere som er eller har vært i foreldrepermisjon etter [arbeidsmiljøloven § 12-5](lov/2005-06-17-62/§12-5) eller [skipsarbeidsloven § 7-5](lov/2013-06-21-102/§7-5), har rett til å
+
+1. vende tilbake til samme, eventuelt tilsvarende, stilling,
+2. nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og
+3. fremme lønnskrav og bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.
 
 Første ledd gjelder ikke fastsettelse eller endringer av lønns- og arbeidsvilkår som er en følge av andre forhold enn foreldrepermisjon.
 
@@ -369,11 +439,22 @@ Departementet kan gi forskrift om gjennomføring av kontroll og rapportering til
 
 Diskriminering skal anses å ha skjedd hvis det foreligger omstendigheter som gir grunn til å tro at diskriminering har skjedd, og den ansvarlige ikke sannsynliggjør at diskriminering likevel ikke har skjedd.
 
-Dette gjelder ved påståtte brudd påbestemmelsene i [kapittel 2](lov/2017-06-16-51/kap2), med unntak av [§ 13](lov/2017-06-16-51/§13) sjette ledd,reglene om universell utforming i [§§ 17](lov/2017-06-16-51/§17) og [18](lov/2017-06-16-51/§18),reglene om individuell tilrettelegging i [§§ 20](lov/2017-06-16-51/§20) til [23](lov/2017-06-16-51/§23) og[§§ 29](lov/2017-06-16-51/§29), [30](lov/2017-06-16-51/§30), [33](lov/2017-06-16-51/§33) og [34](lov/2017-06-16-51/§34).
+Dette gjelder ved påståtte brudd på
+
+1. bestemmelsene i [kapittel 2](lov/2017-06-16-51/kap2), med unntak av [§ 13](lov/2017-06-16-51/§13) sjette ledd,
+2. reglene om universell utforming i [§§ 17](lov/2017-06-16-51/§17) og [18](lov/2017-06-16-51/§18),
+3. reglene om individuell tilrettelegging i [§§ 20](lov/2017-06-16-51/§20) til [23](lov/2017-06-16-51/§23) og
+4. [§§ 29](lov/2017-06-16-51/§29), [30](lov/2017-06-16-51/§30), [33](lov/2017-06-16-51/§33) og [34](lov/2017-06-16-51/§34).
 
 ### § 38. Oppreisning og erstatning
 
-Den som er blitt behandlet i strid medbestemmelsene i [kapittel 2](lov/2017-06-16-51/kap2), med unntak av [§ 13](lov/2017-06-16-51/§13) sjette leddreglene om individuell tilrettelegging i [§§ 20](lov/2017-06-16-51/§20) til [23](lov/2017-06-16-51/§23)[§§ 29](lov/2017-06-16-51/§29), [30](lov/2017-06-16-51/§30), [33](lov/2017-06-16-51/§33) og [34](lov/2017-06-16-51/§34)kan kreve oppreisning og erstatning.
+Den som er blitt behandlet i strid med
+
+1. bestemmelsene i [kapittel 2](lov/2017-06-16-51/kap2), med unntak av [§ 13](lov/2017-06-16-51/§13) sjette ledd
+2. reglene om individuell tilrettelegging i [§§ 20](lov/2017-06-16-51/§20) til [23](lov/2017-06-16-51/§23)
+3. [§§ 29](lov/2017-06-16-51/§29), [30](lov/2017-06-16-51/§30), [33](lov/2017-06-16-51/§33) og [34](lov/2017-06-16-51/§34)
+
+kan kreve oppreisning og erstatning.
 
 I arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, gjelder arbeidsgivers ansvar uavhengig av om arbeidsgiver kan bebreides. I saker om trakassering og seksuell trakassering og på andre samfunnsområder enn nevnt i første punktum, gjelder ansvaret dersom den ansvarlige kan bebreides.
 
@@ -383,7 +464,14 @@ Erstatningen skal dekke økonomisk tap som følge av den ulovlige behandlingen. 
 
 ### § 39. Straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap
 
-Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot ådiskriminere på grunn av etnisitet, religion eller livssyn i [§ 6](lov/2017-06-16-51/§6),trakassere på grunn av etnisitet, religion eller livssyn i [§ 13](lov/2017-06-16-51/§13),gjengjelde på grunn av etnisitet, religion eller livssyn i [§ 14](lov/2017-06-16-51/§14) ellerinstruere om å diskriminere på grunn av etnisitet, religion eller livssyn i [§ 15](lov/2017-06-16-51/§15),straffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.
+Den som i fellesskap med minst to andre personer grovt overtrer forbudet mot å
+
+1. diskriminere på grunn av etnisitet, religion eller livssyn i [§ 6](lov/2017-06-16-51/§6),
+2. trakassere på grunn av etnisitet, religion eller livssyn i [§ 13](lov/2017-06-16-51/§13),
+3. gjengjelde på grunn av etnisitet, religion eller livssyn i [§ 14](lov/2017-06-16-51/§14) eller
+4. instruere om å diskriminere på grunn av etnisitet, religion eller livssyn i [§ 15](lov/2017-06-16-51/§15),
+
+straffes med bøter eller fengsel inntil tre år. Den som tidligere er ilagt straff for overtredelse av denne bestemmelsen, kan straffes selv om overtredelsen ikke er grov.
 
 Ved vurderingen av om en overtredelse er grov, skal det særlig legges vekt på graden av utvist skyld, om overtredelsen er rasistisk motivert, om den har karakter av trakassering, om den innebærer en kroppskrenkelse eller alvorlig krenkelse av noens psykiske integritet, om den er egnet til å skape frykt og om den er begått mot en person som er under 18 år.
 
@@ -475,7 +563,13 @@ Have agreed as follows:
 
 ### Art 2
 
-1\. States Parties condemn racial discrimination and undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms and promoting understanding among all races, and, to this end:Each State Party undertakes to engage in no act or practice of racial discrimination against persons, groups of persons or institutions and to ensure that all public authorities and public institutions, national and local, shall act in conformity with this obligation;Each State Party undertakes not to sponsor, defend or support racial discrimination by any persons or organizations;Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;Each State Party undertakes to encourage, where appropriate, integrationist multiracial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
+1\. States Parties condemn racial discrimination and undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms and promoting understanding among all races, and, to this end:
+
+1. Each State Party undertakes to engage in no act or practice of racial discrimination against persons, groups of persons or institutions and to ensure that all public authorities and public institutions, national and local, shall act in conformity with this obligation;
+2. Each State Party undertakes not to sponsor, defend or support racial discrimination by any persons or organizations;
+3. Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;
+4. Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
+5. Each State Party undertakes to encourage, where appropriate, integrationist multiracial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
 
 2\. States Parties shall, when the circumstances so warrant, take, in the social, economic, cultural and other fields, special and concrete measures to ensure the adequate development and protection of certain racial groups or individuals belonging to them, for the purpose of guaranteeing them the full and equal enjoyment of human rights and fundamental freedoms. These measures shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved.
 
@@ -485,11 +579,39 @@ States Parties particularly condemn racial segregation and apartheid and underta
 
 ### Art 4
 
-States Parties condemn all propaganda and all organizations which are based on ideas or theories of superiority of one race or group of persons of one colour or ethnic origin, or which attempt to justify or promote racial hatred and discrimination in any form, and undertake to adopt immediate and positive measures designed to eradicate all incitement to, or acts of, such discrimination and, to this end, with due regard to the principles embodied in the Universal Declaration of Human Rights and the rights expressly set forth in article 5 of this Convention, inter alia:Shall declare an offence punishable by law all dissemination of ideas based on racial superiority or hatred, incitement to racial discrimination, as well as all acts of violence or incitement to such acts against any race or group of persons of another colour or ethnic origin, and also the provision of any assistance to racist activities, including the financing thereof;Shall declare illegal and prohibit organizations, and also organized and all other propaganda activities, which promote and incite racial discrimination, and shall recognize participation in such organizations or activities as an offence punishable by law;Shall not permit public authorities or public institutions, national or local, to promote or incite racial discrimination.
+States Parties condemn all propaganda and all organizations which are based on ideas or theories of superiority of one race or group of persons of one colour or ethnic origin, or which attempt to justify or promote racial hatred and discrimination in any form, and undertake to adopt immediate and positive measures designed to eradicate all incitement to, or acts of, such discrimination and, to this end, with due regard to the principles embodied in the Universal Declaration of Human Rights and the rights expressly set forth in article 5 of this Convention, inter alia:
+
+1. Shall declare an offence punishable by law all dissemination of ideas based on racial superiority or hatred, incitement to racial discrimination, as well as all acts of violence or incitement to such acts against any race or group of persons of another colour or ethnic origin, and also the provision of any assistance to racist activities, including the financing thereof;
+2. Shall declare illegal and prohibit organizations, and also organized and all other propaganda activities, which promote and incite racial discrimination, and shall recognize participation in such organizations or activities as an offence punishable by law;
+3. Shall not permit public authorities or public institutions, national or local, to promote or incite racial discrimination.
 
 ### Art 5
 
-In compliance with the fundamental obligations laid down in article 2 of this Convention, States Parties undertake to prohibit and to eliminate racial discrimination in all its forms and to guarantee the right of everyone, without distinction as to race, colour, or national or ethnic origin, to equality before the law, notably in the enjoyment of the following rights:The right to equal treatment before the tribunals and all other organs administering justice;The right to security of person and protection by the State against violence or bodily harm, whether inflicted by government officials or by any individual group or institution;Political rights, in particular the right to participate in elections – to vote and to stand for election – on the basis of universal and equal suffrage, to take part in the Government as well as in the conduct of public affairs at any level and to have equal access to public service;Other civil rights, in particular:The right to freedom of movement and residence within the border of the State;The right to leave any country, including one's own, and to return to one's country;The right to nationality;The right to marriage and choice of spouse;The right to own property alone as well as in association with others;The right to inherit;The right to freedom of thought, conscience and religion;The right to freedom of opinion and expression;The right to freedom of peaceful assembly and association;Economic, social and cultural rights, in particular:The rights to work, to free choice of employment, to just and favourable conditions of work, to protection against unemployment, to equal pay for equal work, to just and favourable remuneration;The right to form and join trade unions;The right to housing;The right to public health, medical care, social security and social services;The right to education and training;The right to equal participation in cultural activities;The right of access to any place or service intended for use by the general public, such as transport hotels, restaurants, cafes, theatres and parks.
+In compliance with the fundamental obligations laid down in article 2 of this Convention, States Parties undertake to prohibit and to eliminate racial discrimination in all its forms and to guarantee the right of everyone, without distinction as to race, colour, or national or ethnic origin, to equality before the law, notably in the enjoyment of the following rights:
+
+1. The right to equal treatment before the tribunals and all other organs administering justice;
+2. The right to security of person and protection by the State against violence or bodily harm, whether inflicted by government officials or by any individual group or institution;
+3. Political rights, in particular the right to participate in elections – to vote and to stand for election – on the basis of universal and equal suffrage, to take part in the Government as well as in the conduct of public affairs at any level and to have equal access to public service;
+4. Other civil rights, in particular:
+
+   1. The right to freedom of movement and residence within the border of the State;
+   2. The right to leave any country, including one's own, and to return to one's country;
+   3. The right to nationality;
+   4. The right to marriage and choice of spouse;
+   5. The right to own property alone as well as in association with others;
+   6. The right to inherit;
+   7. The right to freedom of thought, conscience and religion;
+   8. The right to freedom of opinion and expression;
+   9. The right to freedom of peaceful assembly and association;
+5. Economic, social and cultural rights, in particular:
+
+   1. The rights to work, to free choice of employment, to just and favourable conditions of work, to protection against unemployment, to equal pay for equal work, to just and favourable remuneration;
+   2. The right to form and join trade unions;
+   3. The right to housing;
+   4. The right to public health, medical care, social security and social services;
+   5. The right to education and training;
+   6. The right to equal participation in cultural activities;
+6. The right of access to any place or service intended for use by the general public, such as transport hotels, restaurants, cafes, theatres and parks.
 
 ### Art 6
 
@@ -511,13 +633,19 @@ States Parties undertake to adopt immediate and effective measures, particularly
 
 4\. Elections of the members of the Committee shall be held at a meeting of States. Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
-5.The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee;For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
+5\.
+
+1. The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee;
+2. For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
 
 6\. States Parties shall be responsible for the expenses of the members of the Committee while they are in performance of Committee duties (amendment (see General Assembly resolution 47/111 of 16 December 1992)).
 
 ### Art 9
 
-1\. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:within one year after the entry into force of the Convention for the State concerned; andthereafter every two years and whenever the Committee so requests. The Committee may request further information from the States Parties.
+1\. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:
+
+1. within one year after the entry into force of the Convention for the State concerned; and
+2. thereafter every two years and whenever the Committee so requests. The Committee may request further information from the States Parties.
 
 2\. The Committee shall report annually, through the Secretary-General, to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of the reports and information received from the States Parties. Such suggestions and general recommendations shall be reported to the General Assembly together with comments, if any, from States Parties.
 
@@ -545,7 +673,10 @@ States Parties undertake to adopt immediate and effective measures, particularly
 
 ### Art 12
 
-1.After the Committee has obtained and collated all the information it deems necessary, the Chairman shall appoint an *ad hoc* Conciliation Commission (hereinafter referred to as the Commission) comprising five persons who may or may not be members of the Committee. The members of the Commission shall be appointed with the unanimous consent of the parties to the dispute, and its good offices shall be made available to the States concerned with a view to an amicable solution of the matter on the basis of respect for this Convention;If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its own members.
+1\.
+
+1. After the Committee has obtained and collated all the information it deems necessary, the Chairman shall appoint an *ad hoc* Conciliation Commission (hereinafter referred to as the Commission) comprising five persons who may or may not be members of the Committee. The members of the Commission shall be appointed with the unanimous consent of the parties to the dispute, and its good offices shall be made available to the States concerned with a view to an amicable solution of the matter on the basis of respect for this Convention;
+2. If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its own members.
 
 2\. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
 
@@ -581,9 +712,15 @@ States Parties undertake to adopt immediate and effective measures, particularly
 
 5\. In the event of failure to obtain satisfaction from the body established or indicated in accordance with paragraph 2 of this article, the petitioner shall have the right to communicate the matter to the Committee within six months.
 
-6.The Committee shall confidentially bring any communication referred to it to the attention of the State Party alleged to be violating any provision of this Convention, but the identity of the individual or groups of individuals concerned shall not be revealed without his or their express consent. The Committee shall not receive anonymous communications.Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
+6\.
 
-7.The Committee shall consider communications in the light of all information made available to it by the State Party concerned and by the petitioner. The Committee shall not consider any communication from a petitioner unless it has ascertained that the petitioner has exhausted all available domestic remedies. However, this shall not be the rule where the application of the remedies is unreasonably prolonged.The Committee shall forward its suggestions and recommendations, if any, to the State Party concerned and to the petitioner.
+1. The Committee shall confidentially bring any communication referred to it to the attention of the State Party alleged to be violating any provision of this Convention, but the identity of the individual or groups of individuals concerned shall not be revealed without his or their express consent. The Committee shall not receive anonymous communications.
+2. Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
+
+7\.
+
+1. The Committee shall consider communications in the light of all information made available to it by the State Party concerned and by the petitioner. The Committee shall not consider any communication from a petitioner unless it has ascertained that the petitioner has exhausted all available domestic remedies. However, this shall not be the rule where the application of the remedies is unreasonably prolonged.
+2. The Committee shall forward its suggestions and recommendations, if any, to the State Party concerned and to the petitioner.
 
 8\. The Committee shall include in its annual report a summary of such communications and, where appropriate, a summary of the explanations and statements of the States Parties concerned and of its own suggestions and recommendations.
 
@@ -593,7 +730,10 @@ States Parties undertake to adopt immediate and effective measures, particularly
 
 1\. Pending the achievement of the objectives of the Declaration on the Granting of Independence to Colonial Countries and Peoples, contained in General Assembly resolution 1514 (XV) of 14 December 1960, the provisions of this Convention shall in no way limit the right of petition granted to these peoples by other international instruments or by the United Nations and its specialized agencies.
 
-2.The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non-Self-Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.The Committee shall receive from the competent bodies of the United Nations copies of the reports concerning the legislative, judicial, administrative or other measures directly related to the principles and objectives of this Convention applied by the administering Powers within the Territories mentioned in subparagraph (a) of this paragraph, and shall express opinions and make recommendations to these bodies.
+2\.
+
+1. The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non-Self-Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.
+2. The Committee shall receive from the competent bodies of the United Nations copies of the reports concerning the legislative, judicial, administrative or other measures directly related to the principles and objectives of this Convention applied by the administering Powers within the Territories mentioned in subparagraph (a) of this paragraph, and shall express opinions and make recommendations to these bodies.
 
 3\. The Committee shall include in its report to the General Assembly a summary of the petitions and reports it has received from United Nations bodies, and the expressions of opinion and recommendations of the Committee relating to the said petitions and reports.
 
@@ -647,7 +787,12 @@ Any dispute between two or more States Parties with respect to the interpretatio
 
 ### Art 24
 
-The Secretary-General of the United Nations shall inform all States referred to in article 17, paragraph 1, of this Convention of the following particulars:Signatures, ratifications and accessions under articles 17 and 18;The date of entry into force of this Convention under article 19;Communications and declarations received under articles 14, 20 and 23;Denunciations under article 21.
+The Secretary-General of the United Nations shall inform all States referred to in article 17, paragraph 1, of this Convention of the following particulars:
+
+1. Signatures, ratifications and accessions under articles 17 and 18;
+2. The date of entry into force of this Convention under article 19;
+3. Communications and declarations received under articles 14, 20 and 23;
+4. Denunciations under article 21.
 
 ### Art 25
 
@@ -703,7 +848,13 @@ er enige om følgende:
 
 ### Art 2
 
-1\. Konvensjonspartene fordømmer rasediskriminering og forplikter seg til, uten opphold og med alle egnede midler, å føre en politikk som tar sikte på å avskaffe alle former for rasediskriminering og øke forståelsen mellom alle raser, og for dette formålforplikter hver konvensjonspart seg til ikke å ta del i noen handling eller praksis som innebærer rasediskriminering overfor personer, grupper av personer eller institusjoner, og å sørge for at alle offentlige myndigheter og offentlige institusjoner, på nasjonalt og lokalt nivå, handler i tråd med denne forpliktelse,forplikter hver konvensjonspart seg til ikke å oppmuntre til, forsvare eller støtte rasediskriminering fra noen personers eller organisasjoners side,skal hver konvensjonspart treffe effektive tiltak for å gjennomgå offentlig politikk på nasjonalt og lokalt nivå, og endre, oppheve eller sette ut av kraft alle lover og forskrifter som fører til rasediskriminering, eller som opprettholder rasediskriminering der dette forekommer,skal hver konvensjonspart med alle egnede midler, herunder lovgivning om forholdene tilsier det, forby og bringe til opphør rasediskriminering fra enhver persons, gruppes eller organisasjons side,forplikter hver konvensjonspart seg til, når det er hensiktsmessig, å fremme organisasjoner og bevegelser som driver integreringsarbeid på tvers av raser, samt andre tiltak som tar sikte på fjerne rasemessige barrierer, og å motarbeide alt som bidrar til å øke raseskillet.
+1\. Konvensjonspartene fordømmer rasediskriminering og forplikter seg til, uten opphold og med alle egnede midler, å føre en politikk som tar sikte på å avskaffe alle former for rasediskriminering og øke forståelsen mellom alle raser, og for dette formål
+
+1. forplikter hver konvensjonspart seg til ikke å ta del i noen handling eller praksis som innebærer rasediskriminering overfor personer, grupper av personer eller institusjoner, og å sørge for at alle offentlige myndigheter og offentlige institusjoner, på nasjonalt og lokalt nivå, handler i tråd med denne forpliktelse,
+2. forplikter hver konvensjonspart seg til ikke å oppmuntre til, forsvare eller støtte rasediskriminering fra noen personers eller organisasjoners side,
+3. skal hver konvensjonspart treffe effektive tiltak for å gjennomgå offentlig politikk på nasjonalt og lokalt nivå, og endre, oppheve eller sette ut av kraft alle lover og forskrifter som fører til rasediskriminering, eller som opprettholder rasediskriminering der dette forekommer,
+4. skal hver konvensjonspart med alle egnede midler, herunder lovgivning om forholdene tilsier det, forby og bringe til opphør rasediskriminering fra enhver persons, gruppes eller organisasjons side,
+5. forplikter hver konvensjonspart seg til, når det er hensiktsmessig, å fremme organisasjoner og bevegelser som driver integreringsarbeid på tvers av raser, samt andre tiltak som tar sikte på fjerne rasemessige barrierer, og å motarbeide alt som bidrar til å øke raseskillet.
 
 2\. Konvensjonspartene skal, når forholdene tilsier det, treffe særlige og konkrete tiltak på de sosiale, økonomiske, kulturelle og andre områder for å sikre at grupper eller enkeltpersoner med en bestemt rasemessig tilhørighet får tilfredsstillende utvikling og beskyttelse, slik at de kan nyte sine menneskerettigheter og grunnleggende friheter fullt ut og på like vilkår. Disse tiltakene skal ikke under noen omstendighet medføre at det opprettholdes forskjellige eller atskilte rettigheter for grupper med ulik rasemessig tilknytning etter at de mål som lå til grunn for tiltakene, er nådd.
 
@@ -713,11 +864,39 @@ Konvensjonspartene fordømmer spesielt raseskille og apartheid, og forplikter se
 
 ### Art 4
 
-Konvensjonspartene fordømmer all propaganda og alle organisasjoner som er basert på ideer eller teorier om at en rase eller gruppe mennesker av en bestemt hudfarge eller etnisk opprinnelse er andre overlegen, eller som søker å rettferdiggjøre eller fremme rasehat og rasediskriminering i enhver form, og de forplikter seg til å treffe øyeblikkelige og positive tiltak med sikte på å fjerne all diskriminering eller tilskyndelse til diskriminering, idet det tas behørig hensyn til prinsippene nedfelt i Verdenserklæringen om menneskerettighetene og de rettigheter som er uttrykkelig fastslått i artikkel 5 i denne konvensjon, og de skal for dette formål blant anneterklære at enhver spredning av ideer basert på tanken om rasemessig overlegenhet eller rasehat, enhver tilskyndelse til rasediskriminering, så vel som enhver voldshandling eller tilskyndelse til voldshandling mot en rase eller gruppe personer av en annen hudfarge eller etnisk opprinnelse, samt enhver støtte til rasistisk virksomhet, herunder økonomisk støtte, er en straffbar handling,erklære at organisasjoner og organisert og annen propagandavirksomhet som fremmer og tilskynder til rasediskriminering, er ulovlig og forbudt, og at det er straffbart å delta i slike organisasjoner eller slik virksomhet,ikke tillate at offentlige myndigheter eller offentlige institusjoner, på nasjonalt eller lokalt nivå, fremmer eller tilskynder til rasediskriminering.
+Konvensjonspartene fordømmer all propaganda og alle organisasjoner som er basert på ideer eller teorier om at en rase eller gruppe mennesker av en bestemt hudfarge eller etnisk opprinnelse er andre overlegen, eller som søker å rettferdiggjøre eller fremme rasehat og rasediskriminering i enhver form, og de forplikter seg til å treffe øyeblikkelige og positive tiltak med sikte på å fjerne all diskriminering eller tilskyndelse til diskriminering, idet det tas behørig hensyn til prinsippene nedfelt i Verdenserklæringen om menneskerettighetene og de rettigheter som er uttrykkelig fastslått i artikkel 5 i denne konvensjon, og de skal for dette formål blant annet
+
+1. erklære at enhver spredning av ideer basert på tanken om rasemessig overlegenhet eller rasehat, enhver tilskyndelse til rasediskriminering, så vel som enhver voldshandling eller tilskyndelse til voldshandling mot en rase eller gruppe personer av en annen hudfarge eller etnisk opprinnelse, samt enhver støtte til rasistisk virksomhet, herunder økonomisk støtte, er en straffbar handling,
+2. erklære at organisasjoner og organisert og annen propagandavirksomhet som fremmer og tilskynder til rasediskriminering, er ulovlig og forbudt, og at det er straffbart å delta i slike organisasjoner eller slik virksomhet,
+3. ikke tillate at offentlige myndigheter eller offentlige institusjoner, på nasjonalt eller lokalt nivå, fremmer eller tilskynder til rasediskriminering.
 
 ### Art 5
 
-I samsvar med de grunnleggende forpliktelser som er angitt i artikkel 2 i denne konvensjon, forplikter konvensjonspartene seg til å forby og avskaffe alle former for rasediskriminering og sikre alle rett til likhet for loven, uten hensyn til rase, hudfarge eller nasjonal eller etnisk opprinnelse, særlig i forbindelse med følgende rettigheter:retten til lik behandling for domstolene og alle andre rettshåndhevingsorganer,retten til personlig sikkerhet og statens beskyttelse mot vold eller legemsbeskadigelse, enten det er utført av offentlig tjenestemann eller en enkeltperson, en gruppe eller en institusjon,politiske rettigheter, særlig retten til å delta i valg – avgi stemme og stille til valg – på grunnlag av allmenn og lik stemmerett, til å delta i landets styre så vel som i den offentlige forvaltningen på alle nivåer, og til adgang til offentlig tjeneste på like vilkår,andre borgerlige rettigheter, særlig:retten til å bevege seg fritt og velge bosted innenfor statens grenser,retten til å forlate et hvilket som helst land, også sitt eget, og til å vende tilbake til sitt land,retten til statsborgerskap,retten til å inngå ekteskap og velge ektefelle,retten til å eie eiendom, alene eller sammen med andre,retten til å arve,retten til tankefrihet, samvittighetsfrihet og religionsfrihet,retten til meningsfrihet og ytringsfrihet,retten til å delta i fredelige sammenkomster og organisasjoner,økonomiske, sosiale og kulturelle rettigheter, særlig:retten til arbeid, til fritt valg av yrke, til rettferdige og gode arbeidsforhold, til beskyttelse mot arbeidsløshet, til lik betaling for likt arbeid, til rettferdig og tilfredsstillende avlønning,retten til å danne og slutte seg til fagforeninger,retten til bolig,retten til offentlige helsetjenester, medisinsk behandling, trygd og sosiale ytelser,retten til utdanning og opplæring,retten til å delta i kulturelle aktiviteter på like vilkår,retten til adgang til alle steder og tjenester til bruk for allmennheten, slik som transportmidler, hoteller, restauranter, kafeer, teatre og parker.
+I samsvar med de grunnleggende forpliktelser som er angitt i artikkel 2 i denne konvensjon, forplikter konvensjonspartene seg til å forby og avskaffe alle former for rasediskriminering og sikre alle rett til likhet for loven, uten hensyn til rase, hudfarge eller nasjonal eller etnisk opprinnelse, særlig i forbindelse med følgende rettigheter:
+
+1. retten til lik behandling for domstolene og alle andre rettshåndhevingsorganer,
+2. retten til personlig sikkerhet og statens beskyttelse mot vold eller legemsbeskadigelse, enten det er utført av offentlig tjenestemann eller en enkeltperson, en gruppe eller en institusjon,
+3. politiske rettigheter, særlig retten til å delta i valg – avgi stemme og stille til valg – på grunnlag av allmenn og lik stemmerett, til å delta i landets styre så vel som i den offentlige forvaltningen på alle nivåer, og til adgang til offentlig tjeneste på like vilkår,
+4. andre borgerlige rettigheter, særlig:
+
+   1. retten til å bevege seg fritt og velge bosted innenfor statens grenser,
+   2. retten til å forlate et hvilket som helst land, også sitt eget, og til å vende tilbake til sitt land,
+   3. retten til statsborgerskap,
+   4. retten til å inngå ekteskap og velge ektefelle,
+   5. retten til å eie eiendom, alene eller sammen med andre,
+   6. retten til å arve,
+   7. retten til tankefrihet, samvittighetsfrihet og religionsfrihet,
+   8. retten til meningsfrihet og ytringsfrihet,
+   9. retten til å delta i fredelige sammenkomster og organisasjoner,
+5. økonomiske, sosiale og kulturelle rettigheter, særlig:
+
+   1. retten til arbeid, til fritt valg av yrke, til rettferdige og gode arbeidsforhold, til beskyttelse mot arbeidsløshet, til lik betaling for likt arbeid, til rettferdig og tilfredsstillende avlønning,
+   2. retten til å danne og slutte seg til fagforeninger,
+   3. retten til bolig,
+   4. retten til offentlige helsetjenester, medisinsk behandling, trygd og sosiale ytelser,
+   5. retten til utdanning og opplæring,
+   6. retten til å delta i kulturelle aktiviteter på like vilkår,
+6. retten til adgang til alle steder og tjenester til bruk for allmennheten, slik som transportmidler, hoteller, restauranter, kafeer, teatre og parker.
 
 ### Art 6
 
@@ -739,13 +918,19 @@ Konvensjonspartene forplikter seg til å treffe øyeblikkelige og effektive tilt
 
 4\. Komiteens medlemmer skal velges på et møte mellom konvensjonspartene som er sammenkalt av Generalsekretæren, ved De forente nasjoners sete. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er til stede, er de kandidater valgt som får flest stemmer og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
 
-5.Komiteens medlemmer skal velges for en periode på fire år. For ni av medlemmene som blir valgt ved det første valget, skal imidlertid perioden utløpe etter to år; umiddelbart etter det første valget skal navnene på disse ni medlemmene bestemmes ved loddtrekning foretatt av komiteens leder,For å fylle plasser som blir ledige utenom tur, skal den konvensjonspart hvis ekspert ikke lenger utfører sine oppgaver som komitémedlem, oppnevne en annen ekspert blant sine statsborgere, med forbehold om komiteens godkjenning.
+5\.
+
+1. Komiteens medlemmer skal velges for en periode på fire år. For ni av medlemmene som blir valgt ved det første valget, skal imidlertid perioden utløpe etter to år; umiddelbart etter det første valget skal navnene på disse ni medlemmene bestemmes ved loddtrekning foretatt av komiteens leder,
+2. For å fylle plasser som blir ledige utenom tur, skal den konvensjonspart hvis ekspert ikke lenger utfører sine oppgaver som komitémedlem, oppnevne en annen ekspert blant sine statsborgere, med forbehold om komiteens godkjenning.
 
 6\. Konvensjonspartene skal være ansvarlige for komitémedlemmenes utgifter så lenge de utfører oppgaver for komiteen (endring (se Generalforsamlingens resolusjon 47/111 av 16. desember 1992)).
 
 ### Art 9
 
-1\. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjoninnen ett år etter at konvensjonen er trådt i kraft for vedkommende stat, ogderetter hvert annet år, og forøvrig på anmodning fra komiteen. Komiteen kan be konvensjonspartene om ytterligere opplysninger.
+1\. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjon
+
+1. innen ett år etter at konvensjonen er trådt i kraft for vedkommende stat, og
+2. deretter hvert annet år, og forøvrig på anmodning fra komiteen. Komiteen kan be konvensjonspartene om ytterligere opplysninger.
 
 2\. Komiteen skal hvert år gi De forente nasjoners generalforsamling, via Generalsekretæren, en rapport om sin virksomhet, og den kan legge fram forslag og generelle anbefalinger på grunnlag av gjennomgangen av de rapporter og opplysninger som er mottatt fra konvensjonspartene. Generalforsamlingen skal gjøres kjent med slike forslag og generelle anbefalinger, sammen med eventuelle kommentarer fra konvensjonspartene.
 
@@ -773,7 +958,10 @@ Konvensjonspartene forplikter seg til å treffe øyeblikkelige og effektive tilt
 
 ### Art 12
 
-1.Etter at komiteen har innhentet og samlet alle opplysninger den har behov for, skal lederen oppnevne en ad hoc forlikskommisjon (heretter kalt kommisjonen) bestående av fem personer som kan, men ikke behøver, være medlemmer av komiteen. Kommisjonsmedlemmene skal utpekes med enstemmig samtykke fra tvistens parter, og kommisjonen skal stille seg til rådighet for de berørte stater og tilby dem sin bistand i prosessen med å nå fram til en minnelig løsning der utgangspunktet er respekt for denne konvensjon,Dersom tvistens parter ikke innen tre måneder blir enige om kommisjonens sammensetning, helt eller delvis, skal de kommisjonsmedlemmer som det ikke er enighet om blant tvistens parter, velges av komiteen blant dens egne medlemmer, ved hemmelig avstemning og med to tredjedels flertall.
+1\.
+
+1. Etter at komiteen har innhentet og samlet alle opplysninger den har behov for, skal lederen oppnevne en ad hoc forlikskommisjon (heretter kalt kommisjonen) bestående av fem personer som kan, men ikke behøver, være medlemmer av komiteen. Kommisjonsmedlemmene skal utpekes med enstemmig samtykke fra tvistens parter, og kommisjonen skal stille seg til rådighet for de berørte stater og tilby dem sin bistand i prosessen med å nå fram til en minnelig løsning der utgangspunktet er respekt for denne konvensjon,
+2. Dersom tvistens parter ikke innen tre måneder blir enige om kommisjonens sammensetning, helt eller delvis, skal de kommisjonsmedlemmer som det ikke er enighet om blant tvistens parter, velges av komiteen blant dens egne medlemmer, ved hemmelig avstemning og med to tredjedels flertall.
 
 2\. Kommisjonsmedlemmene skal fungere i personlig egenskap. De skal ikke være statsborgere av de stater som er part i tvisten eller av en stat som ikke er konvensjonspart.
 
@@ -809,9 +997,15 @@ Konvensjonspartene forplikter seg til å treffe øyeblikkelige og effektive tilt
 
 5\. Dersom klageren ikke oppnår en tilfredsstillende ordning gjennom det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal han eller hun ha rett til å bringe saken inn for komiteen innen seks måneder.
 
-6.Komiteen skal i fortrolighet gjøre den konvensjonspart som sies å ha brutt en bestemmelse i denne konvensjon, kjent med enhver henvendelse den har fått oversendt, men identiteten til vedkommende enkeltperson eller gruppe av enkeltpersoner skal ikke oppgis uten vedkommendes uttrykkelige samtykke. Komiteen skal ikke motta anonyme henvendelser,Innen tre måneder skal mottakerstaten gi komiteen en skriftlig forklaring eller uttalelse som bringer klarhet i saken, og eventuelt angi hvilke tiltak den har truffet for å rette på forholdet.
+6\.
 
-7.Når komiteen behandler en henvendelse, skal den ta i betraktning alle opplysninger den har fått fra den berørte konvensjonspart og fra klageren. Komiteen skal ikke behandle en henvendelse fra en klager uten å ha forvisset seg om at vedkommende har uttømt alle interne rettsmidler som er til rådighet. Denne regelen skal likevel ikke gjelde når anvendelsen av rettsmidlene tar urimelig lang tid,Komiteen skal sende sine eventuelle forslag og anbefalinger til den berørte konvensjonspart og til klageren.
+1. Komiteen skal i fortrolighet gjøre den konvensjonspart som sies å ha brutt en bestemmelse i denne konvensjon, kjent med enhver henvendelse den har fått oversendt, men identiteten til vedkommende enkeltperson eller gruppe av enkeltpersoner skal ikke oppgis uten vedkommendes uttrykkelige samtykke. Komiteen skal ikke motta anonyme henvendelser,
+2. Innen tre måneder skal mottakerstaten gi komiteen en skriftlig forklaring eller uttalelse som bringer klarhet i saken, og eventuelt angi hvilke tiltak den har truffet for å rette på forholdet.
+
+7\.
+
+1. Når komiteen behandler en henvendelse, skal den ta i betraktning alle opplysninger den har fått fra den berørte konvensjonspart og fra klageren. Komiteen skal ikke behandle en henvendelse fra en klager uten å ha forvisset seg om at vedkommende har uttømt alle interne rettsmidler som er til rådighet. Denne regelen skal likevel ikke gjelde når anvendelsen av rettsmidlene tar urimelig lang tid,
+2. Komiteen skal sende sine eventuelle forslag og anbefalinger til den berørte konvensjonspart og til klageren.
 
 8\. Komiteen skal i sin årlige rapport ta inn et sammendrag av slike henvendelser, og eventuelt et sammendrag av forklaringer og uttalelser fra de berørte konvensjonsparter og av sine egne forslag og anbefalinger.
 
@@ -821,7 +1015,10 @@ Konvensjonspartene forplikter seg til å treffe øyeblikkelige og effektive tilt
 
 1\. Inntil de mål er nådd som er satt i erklæringen om uavhengighet for koloniene og deres innbyggere, inntatt i Generalforsamlingens resolusjon 1514 (XV) av 14. desember 1960, skal bestemmelsene i denne konvensjon ikke på noen måte begrense den klagerett som er gitt disse folk gjennom andre internasjonale instrumenter eller gjennom De forente nasjoner og dens særorganisasjoner.
 
-2.Den komité som er opprettet etter artikkel 8 nr. 1, skal motta kopier av klager fra, og komme med uttalelser og anbefalinger om disse klagene til, organer i De forente nasjoner som i sin behandling av klager fra innbyggere i ikke-selvstyrte områder og tilsynsområder og alle andre områder der Generalforsamlingens resolusjon 1514 (XV) får anvendelse, arbeider med spørsmål som er direkte knyttet til prinsippene og formålene i denne konvensjon, i saker som dekkes av denne konvensjon, og som er brakt inn for disse organer,Komiteen skal fra de kompetente organer i De forente nasjoner få oversendt kopier av rapportene om lovgivningsmessige, rettslige, administrative eller andre tiltak som administrasjonen på territoriene nevnt i bokstav a) har anvendt, og som er direkte knyttet til prinsippene og formålene i denne konvensjon, og den skal komme med uttalelser og anbefalinger til disse organer.
+2\.
+
+1. Den komité som er opprettet etter artikkel 8 nr. 1, skal motta kopier av klager fra, og komme med uttalelser og anbefalinger om disse klagene til, organer i De forente nasjoner som i sin behandling av klager fra innbyggere i ikke-selvstyrte områder og tilsynsområder og alle andre områder der Generalforsamlingens resolusjon 1514 (XV) får anvendelse, arbeider med spørsmål som er direkte knyttet til prinsippene og formålene i denne konvensjon, i saker som dekkes av denne konvensjon, og som er brakt inn for disse organer,
+2. Komiteen skal fra de kompetente organer i De forente nasjoner få oversendt kopier av rapportene om lovgivningsmessige, rettslige, administrative eller andre tiltak som administrasjonen på territoriene nevnt i bokstav a) har anvendt, og som er direkte knyttet til prinsippene og formålene i denne konvensjon, og den skal komme med uttalelser og anbefalinger til disse organer.
 
 3\. Komiteen skal i sin rapport til Generalforsamlingen ta inn et sammendrag av klager og rapporter som den har mottatt fra organer i De forente nasjoner, samt komiteens uttalelser og anbefalinger i forbindelse med disse klager og rapporter.
 
@@ -875,7 +1072,12 @@ En tvist mellom to eller flere konvensjonsparter om fortolkningen eller anvendel
 
 ### Art 24
 
-De forente nasjoners generalsekretær skal underrette alle stater nevnt i artikkel 17 nr. 1 om følgende:undertegninger, ratifikasjoner og tiltredelser etter artikkel 17 og 18,datoen for denne konvensjons ikrafttredelse etter artikkel 19,meddelelser og erklæringer mottatt etter artikkel 14, 20 og 23,oppsigelser etter artikkel 21.
+De forente nasjoners generalsekretær skal underrette alle stater nevnt i artikkel 17 nr. 1 om følgende:
+
+1. undertegninger, ratifikasjoner og tiltredelser etter artikkel 17 og 18,
+2. datoen for denne konvensjons ikrafttredelse etter artikkel 19,
+3. meddelelser og erklæringer mottatt etter artikkel 14, 20 og 23,
+4. oppsigelser etter artikkel 21.
 
 ### Art 25
 

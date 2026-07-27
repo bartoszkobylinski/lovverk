@@ -15,7 +15,7 @@ xml_hash: "cb6032c60dbf790d2f7d623fefafa3337ce4e26c0575c75165a2687332a21345"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,11 @@ For å få utstedt endelig tillatelsesdokument må den fysiske personen enten ha
 
 ### § 10. Krav for å bli registrert som budgiver
 
-For å bli registrert for å delta i auksjonen må personen eller foretaket:fylle ut og sende inn fastsatt registreringsskjema, inkludert aksept av auksjonsreglementet,stille bankgaranti, jf. [§ 11](forskrift/2018-05-15-731/§11) ogtilfredsstille krav til finansiell situasjon i henhold til [§ 12](forskrift/2018-05-15-731/§12) og avgi egenerklæring om dette.
+For å bli registrert for å delta i auksjonen må personen eller foretaket:
+
+1. fylle ut og sende inn fastsatt registreringsskjema, inkludert aksept av auksjonsreglementet,
+2. stille bankgaranti, jf. [§ 11](forskrift/2018-05-15-731/§11) og
+3. tilfredsstille krav til finansiell situasjon i henhold til [§ 12](forskrift/2018-05-15-731/§12) og avgi egenerklæring om dette.
 
 Det kan ikke registreres flere selskap tilhørende samme konsern, jf. [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Foretak skal opplyse om tilknyttede selskap, jf. [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4).
 
@@ -112,7 +116,13 @@ Det fastsatte bankgarantiskjemaet skal benyttes. Bankgarantien må være utstedt
 
 ### § 12. Finansiell situasjon
 
-En budgiver kan ikkevære ute av stand til å oppfylle sine betalingsforpliktelser,ha åpnet gjeldsforhandlinger,være insolvent eller være underlagt begjæring om konkurs eller opphør,begjært frivillig opphør, ellervære gjenstand for konkursbehandling eller være konkurs.
+En budgiver kan ikke
+
+1. være ute av stand til å oppfylle sine betalingsforpliktelser,
+2. ha åpnet gjeldsforhandlinger,
+3. være insolvent eller være underlagt begjæring om konkurs eller opphør,
+4. begjært frivillig opphør, eller
+5. være gjenstand for konkursbehandling eller være konkurs.
 
 Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon.
 
@@ -124,11 +134,23 @@ Bud skal gis elektronisk i Nærings- og fiskeridepartementets auksjonssystem og 
 
 Dersom budgiver, på grunn av ekstraordinære hendelser, ikke kan levere budet elektronisk i departementets auksjonssystem, kan departementet på forespørsel tillate at bud leveres på annet vis.
 
-Departementet kan fastsette mer detaljerte regler for auksjonen, herunder:Antall budrunder per dag og lengden på hver budrunde,Minstepris per tonn for hvert produksjonsområde,Prisøkningsregler,Informasjonsregler,Aktivitetsregler,Bytteregler (switching rule).
+Departementet kan fastsette mer detaljerte regler for auksjonen, herunder:
+
+1. Antall budrunder per dag og lengden på hver budrunde,
+2. Minstepris per tonn for hvert produksjonsområde,
+3. Prisøkningsregler,
+4. Informasjonsregler,
+5. Aktivitetsregler,
+6. Bytteregler (switching rule).
 
 ### § 14. Uforutsette hendelser mv.
 
-For det tilfelle det oppstår ekstraordinære hendelser under auksjonen, for eksempel problemer med auksjonssystemet, kan departementet:Endre tidspunkt for en budrunde som har blitt fastsatt, men som ikke har startet.Utsette tidspunktet for avslutningen av en budrunde som pågår eller utsette offentliggjøringen av resultatet fra runden.Kansellere en pågående budrunde og fastsette et nytt tidspunkt for gjennomføring av budrunden.Avvise alle bud som har innkommet under auksjonen og starte auksjonen på nytt.
+For det tilfelle det oppstår ekstraordinære hendelser under auksjonen, for eksempel problemer med auksjonssystemet, kan departementet:
+
+1. Endre tidspunkt for en budrunde som har blitt fastsatt, men som ikke har startet.
+2. Utsette tidspunktet for avslutningen av en budrunde som pågår eller utsette offentliggjøringen av resultatet fra runden.
+3. Kansellere en pågående budrunde og fastsette et nytt tidspunkt for gjennomføring av budrunden.
+4. Avvise alle bud som har innkommet under auksjonen og starte auksjonen på nytt.
 
 Departementet kan avslutte en budrunde og starte en ny budrunde med justerte priser, blant annet ved mistanke om en kunstig svekket konkurransesituasjon i ett eller flere produksjonsområder. Ved mistanke om prissamarbeid kan departementet beslutte å avvise alle bud og avslutte auksjonen.
 

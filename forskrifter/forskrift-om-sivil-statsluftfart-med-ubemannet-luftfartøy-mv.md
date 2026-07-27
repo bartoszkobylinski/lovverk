@@ -40,7 +40,15 @@ Forskriften gjelder ikke innendørs bruk av ubemannet luftfartøy.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Fjernpilot:* en fysisk person som er ansvarlig for sikker flyging av et ubemannet luftfartøy ved å betjene dets styreinnretninger, enten manuelt eller, dersom det ubemannede luftfartøyet flyr automatisk, ved å overvåke kursen og fortsatt være i stand til å gripe inn og endre kursen til enhver tid.*Fartøysjef:* den fysiske personen som er utpekt av operatør til å ha det overordnede ansvaret for luftfartøyet og for sikkerheten under flygingen.*Operatør:* foretak eller myndighet som driver eller har til hensikt å drive luftfart etter denne forskriften*VLOS (Visual Line Of Sight):* En type operasjon der fjernpiloten kan opprettholde kontinuerlig visuell kontakt med det ubemannede luftfartøyet uten hjelpemidler, slik at fjernpiloten kan kontrollere det ubemannede luftfartøyets flygebane i forhold til andre luftfartøyer, mennesker og hindringer med sikte på å unngå kollisjoner.*BVLOS (Beyond visual Line Of Sight):* En type operasjon som ikke utføres innenfor synsvidde (VLOS).*MTOM:* Det ubemannede luftfartøyets største masse, herunder nyttelast og drivstoff, som definert av produsenten eller byggeren, som det ubemannede luftfartøyet kan brukes med.*Innsatsområde:* Område hvor en eller flere nødetater har pågående aktivitet.
+I denne forskriften menes med:
+
+1. *Fjernpilot:* en fysisk person som er ansvarlig for sikker flyging av et ubemannet luftfartøy ved å betjene dets styreinnretninger, enten manuelt eller, dersom det ubemannede luftfartøyet flyr automatisk, ved å overvåke kursen og fortsatt være i stand til å gripe inn og endre kursen til enhver tid.
+2. *Fartøysjef:* den fysiske personen som er utpekt av operatør til å ha det overordnede ansvaret for luftfartøyet og for sikkerheten under flygingen.
+3. *Operatør:* foretak eller myndighet som driver eller har til hensikt å drive luftfart etter denne forskriften
+4. *VLOS (Visual Line Of Sight):* En type operasjon der fjernpiloten kan opprettholde kontinuerlig visuell kontakt med det ubemannede luftfartøyet uten hjelpemidler, slik at fjernpiloten kan kontrollere det ubemannede luftfartøyets flygebane i forhold til andre luftfartøyer, mennesker og hindringer med sikte på å unngå kollisjoner.
+5. *BVLOS (Beyond visual Line Of Sight):* En type operasjon som ikke utføres innenfor synsvidde (VLOS).
+6. *MTOM:* Det ubemannede luftfartøyets største masse, herunder nyttelast og drivstoff, som definert av produsenten eller byggeren, som det ubemannede luftfartøyet kan brukes med.
+7. *Innsatsområde:* Område hvor en eller flere nødetater har pågående aktivitet.
 
 ### § 4. Luftfartsmyndighet
 
@@ -126,7 +134,14 @@ Bestemmelsene om deklarert kategori gjelder operasjon med ubemannet luftfartøy 
 
 ### § 19. Deklarering
 
-Operatøren skal sende skriftlig melding til Luftfartstilsynet før flygevirksomheten påbegynnes. Meldingen skal minst inneholde:kontaktinformasjon til operatør,informasjon om operasjonen,informasjon om hvilke ubemannende fartøy som brukes,en bekreftelse om at kravene som gjelder for operasjoner i deklarert kategori anses oppfylt,gjenpart av alle operasjonelle prosedyrer etter [§ 25](forskrift/2026-01-15-48/§25),dato og underskrift av ansvarlig leder.
+Operatøren skal sende skriftlig melding til Luftfartstilsynet før flygevirksomheten påbegynnes. Meldingen skal minst inneholde:
+
+1. kontaktinformasjon til operatør,
+2. informasjon om operasjonen,
+3. informasjon om hvilke ubemannende fartøy som brukes,
+4. en bekreftelse om at kravene som gjelder for operasjoner i deklarert kategori anses oppfylt,
+5. gjenpart av alle operasjonelle prosedyrer etter [§ 25](forskrift/2026-01-15-48/§25),
+6. dato og underskrift av ansvarlig leder.
 
 ### § 20. Driftsbestemmelser
 
@@ -146,7 +161,12 @@ Dette gjelder likevel ikke flyging sammen med forankret luftfartøy etter [§ 28
 
 ### § 23. Flying over standard høydebegrensing
 
-Dersom høydebegrensningen som følger av reglene som er gjort gjeldende i [§ 20](forskrift/2026-01-15-48/§20) er til hinder for effektiv utførelse av operasjonen kan den overskrides når:det benyttes luftromsobservatør i tillegg til fjernpiloten, ogfjernpiloten har gjort seg kjent med luftrommet det skal opereres i, ogoperasjonen så langt som mulig er koordinert med andre brukere av luftrommet i området, ogtillatelse er mottatt fra lufttrafikktjenesten dersom flygingen eller deler av flygingen skal skje i kontrollert luftrom.
+Dersom høydebegrensningen som følger av reglene som er gjort gjeldende i [§ 20](forskrift/2026-01-15-48/§20) er til hinder for effektiv utførelse av operasjonen kan den overskrides når:
+
+1. det benyttes luftromsobservatør i tillegg til fjernpiloten, og
+2. fjernpiloten har gjort seg kjent med luftrommet det skal opereres i, og
+3. operasjonen så langt som mulig er koordinert med andre brukere av luftrommet i området, og
+4. tillatelse er mottatt fra lufttrafikktjenesten dersom flygingen eller deler av flygingen skal skje i kontrollert luftrom.
 
 Flyging over høydebegrensningen skal skje med kortest mulig varighet. Dersom operatøren har flere ubemannede luftfartøy til rådighet, skal det letteste av de egnede fartøyene benyttes.
 
@@ -160,7 +180,16 @@ Minsteavstandene som følger av reglene som er gjort gjeldende i [§ 20](forskri
 
 Operatøren er ansvarlig for at alle operasjoner utføres etter skriftlige prosedyrer som er tilpasset risikoen ved operasjonen.
 
-Prosedyrene skal minst omfatte:Rutine for aksept av oppdrag.Innhenting av informasjon som ansees som nødvendig for at flygingen kan gjennomføres trygt, herunder luftromsinformasjon, aktuell lufttrafikktjenesteenhet og informasjon om andre brukere av luftrommet.Beskrivelse av krav for utsjekk av fjernpilot til operasjonen.Beskrivelse av krav for opprettholdelse av fjernpilotkompetanse.Sjekklister som dekker normale beredskapsprosedyrer og nødprosedyrer.Beskrivelse av hvordan operatøren sørger for koordinering med andre berørte aktører i luften, eller på bakken.Rutine for loggføring av flyvetid for fjernpiloter og fartøyets tekniske flyvetid.Rutine for hendelsesrapportering.
+Prosedyrene skal minst omfatte:
+
+1. Rutine for aksept av oppdrag.
+2. Innhenting av informasjon som ansees som nødvendig for at flygingen kan gjennomføres trygt, herunder luftromsinformasjon, aktuell lufttrafikktjenesteenhet og informasjon om andre brukere av luftrommet.
+3. Beskrivelse av krav for utsjekk av fjernpilot til operasjonen.
+4. Beskrivelse av krav for opprettholdelse av fjernpilotkompetanse.
+5. Sjekklister som dekker normale beredskapsprosedyrer og nødprosedyrer.
+6. Beskrivelse av hvordan operatøren sørger for koordinering med andre berørte aktører i luften, eller på bakken.
+7. Rutine for loggføring av flyvetid for fjernpiloter og fartøyets tekniske flyvetid.
+8. Rutine for hendelsesrapportering.
 
 ### § 26. Krav om VLOS
 
@@ -174,7 +203,16 @@ Det ubemannede luftfartøyet skal være utrustet med et grønt blinkende lys ved
 
 ### § 28. Bruk av forankrede ubemannede luftfartøy
 
-Følgende regler gjelder for bruk av ett eller flere forankrede ubemannede luftfartøy:Forankringen skal som hovedregel ikke være lengre enn 50 meter.Dersom det brukes observatør som følger med på at fartøyet ikke utgjør noen aktuell sikkerhetsrisiko, kan forankringen likevel ha lengde på inntil 100 meter.Ved bruk av forankrede ubemannede luftfartøy med MTOM fra 4 kg opp til 25 kg skal det brukes observatør som skal følge med på at luftfartøyet ikke utgjør noen aktuell sikkerhetsrisiko.Operatøren skal kunne avslutte flyingen på kort varsel.Forankringen skal ha en mekanisk styrke som ikke er mindre enn 10 ganger luftfartøyets vekt ved maksimal masse. For ubemannede luftfartøy som er lettere enn luft skal forankringen isteden ha en mekanisk styrke som ikke er mindre enn 4 ganger den kombinerte kraften av det statiske løftet til fartøyet og den aerodynamiske kraften av den maksimalt tillatte vindhastigheten.Kravet om opplæring i [§ 21](forskrift/2026-01-15-48/§21) gjelder ikke ved flyging av forankret ubemannet luftfartøy.Bruk av forankret ubemannet luftfartøy innenfor kontrollert luftrom krever tillatelse fra Lufttrafikktjenesten.Dersom flygingen skal foregå lengre enn 24 timer skal operatøren vurdere om annen flytrafikk bør varsles ved bruk av NOTAM eller annen godkjent meldingstjeneste. Slikt varsel skal inneholde informasjon om at det benyttes forankret ubemannet luftfartøy, hvor dette er utplassert, samt kontaktinformasjon til den som kan avslutte flygingen.
+Følgende regler gjelder for bruk av ett eller flere forankrede ubemannede luftfartøy:
+
+1. Forankringen skal som hovedregel ikke være lengre enn 50 meter.
+2. Dersom det brukes observatør som følger med på at fartøyet ikke utgjør noen aktuell sikkerhetsrisiko, kan forankringen likevel ha lengde på inntil 100 meter.
+3. Ved bruk av forankrede ubemannede luftfartøy med MTOM fra 4 kg opp til 25 kg skal det brukes observatør som skal følge med på at luftfartøyet ikke utgjør noen aktuell sikkerhetsrisiko.
+4. Operatøren skal kunne avslutte flyingen på kort varsel.
+5. Forankringen skal ha en mekanisk styrke som ikke er mindre enn 10 ganger luftfartøyets vekt ved maksimal masse. For ubemannede luftfartøy som er lettere enn luft skal forankringen isteden ha en mekanisk styrke som ikke er mindre enn 4 ganger den kombinerte kraften av det statiske løftet til fartøyet og den aerodynamiske kraften av den maksimalt tillatte vindhastigheten.
+6. Kravet om opplæring i [§ 21](forskrift/2026-01-15-48/§21) gjelder ikke ved flyging av forankret ubemannet luftfartøy.
+7. Bruk av forankret ubemannet luftfartøy innenfor kontrollert luftrom krever tillatelse fra Lufttrafikktjenesten.
+8. Dersom flygingen skal foregå lengre enn 24 timer skal operatøren vurdere om annen flytrafikk bør varsles ved bruk av NOTAM eller annen godkjent meldingstjeneste. Slikt varsel skal inneholde informasjon om at det benyttes forankret ubemannet luftfartøy, hvor dette er utplassert, samt kontaktinformasjon til den som kan avslutte flygingen.
 
 ### § 29. Nattflyging
 

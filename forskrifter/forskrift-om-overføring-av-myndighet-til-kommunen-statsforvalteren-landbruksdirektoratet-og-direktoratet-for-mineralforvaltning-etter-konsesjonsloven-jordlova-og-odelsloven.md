@@ -40,7 +40,15 @@ Dersom en sak gjelder en eiendom med beliggenhet i flere kommuner, skal den komm
 
 ### § 3. Statsforvalterens myndighet
 
-Statsforvalteren avgjør saker som gjelder:begjæring av tvangssalg gjennom namsmyndighetene i henhold til [konsesjonsloven § 19](lov/2003-11-28-98/§19) første og annet ledd.bortfall av rettigheter etter [konsesjonsloven § 19](lov/2003-11-28-98/§19) annet ledd, jf. [§ 3](lov/2003-11-28-98/§3) og [§ 18](lov/2003-11-28-98/§18).tvangsmulkt etter [konsesjonsloven § 16](lov/2003-11-28-98/§16) første ledd og tvangsgebyr etter [jordlova § 20](lov/1995-05-12-23/§20).spørsmålet om en eiendom med flere registernummer må regnes som én driftsenhet etter [jordloven § 12](lov/1995-05-12-23/§12) sjette ledd.odelsfrigjøring etter [odelsloven § 30](lov/1974-06-28-58/§30) og § [32](lov/1974-06-28-58/§32).konsesjon til selskaper med begrenset ansvar etter [konsesjonsloven](lov/2003-11-28-98).hvilken kommune som skal avgjøre saken hvis en eiendom som nevnt i [§ 1 tredje ledd](forskrift/2003-12-08-1479/§1/ledd/3) ligger i flere kommuner, og kommunene ikke er enige om hvor hoveddelen av eiendommen ligger.
+Statsforvalteren avgjør saker som gjelder:
+
+1. begjæring av tvangssalg gjennom namsmyndighetene i henhold til [konsesjonsloven § 19](lov/2003-11-28-98/§19) første og annet ledd.
+2. bortfall av rettigheter etter [konsesjonsloven § 19](lov/2003-11-28-98/§19) annet ledd, jf. [§ 3](lov/2003-11-28-98/§3) og [§ 18](lov/2003-11-28-98/§18).
+3. tvangsmulkt etter [konsesjonsloven § 16](lov/2003-11-28-98/§16) første ledd og tvangsgebyr etter [jordlova § 20](lov/1995-05-12-23/§20).
+4. spørsmålet om en eiendom med flere registernummer må regnes som én driftsenhet etter [jordloven § 12](lov/1995-05-12-23/§12) sjette ledd.
+5. odelsfrigjøring etter [odelsloven § 30](lov/1974-06-28-58/§30) og § [32](lov/1974-06-28-58/§32).
+6. konsesjon til selskaper med begrenset ansvar etter [konsesjonsloven](lov/2003-11-28-98).
+7. hvilken kommune som skal avgjøre saken hvis en eiendom som nevnt i [§ 1 tredje ledd](forskrift/2003-12-08-1479/§1/ledd/3) ligger i flere kommuner, og kommunene ikke er enige om hvor hoveddelen av eiendommen ligger.
 
 > Endret ved vedtak [27 nov 2009 nr. 1476](forskrift/2009-11-27-1476) (i kraft 1 jan 2010), [11 feb 2011 nr. 148](forskrift/2011-02-11-148), [22 juni 2015 nr. 730](forskrift/2015-06-22-730), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), endret ved forskrifter [7 juli 2023 nr. 1254](forskrift/2023-07-07-1254), [10 des 2024 nr. 3031](forskrift/2024-12-10-3031) (i kraft 1 jan 2025).
 
@@ -128,6 +136,9 @@ Disse bestemmelsene trer i kraft 1. januar 2004.
 
 ### § 15. Opphevelse
 
-Fra ikrafttredelsen av bestemmelsene her oppheves:[Forskrift av 30. desember 1993 nr. 1369](forskrift/1993-12-30-1369) om delegasjon av myndighet m.v. til fylkeslandbruksstyret og kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og statsforvalteren etter lov om skogbruk og skogvern av 21. mai 1965 (skogbruksloven),[Vedtak av 30. mai 2000 nr. 620](forskrift/2000-05-30-620) om delegering til kommunen, fylkeslandbruksstyret, statsforvalteren og Landbruksdirektoratet, og forskrift om saksbehandling i kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og statsforvalteren i saker etter konsesjonslova, odelslova og jordlova.
+Fra ikrafttredelsen av bestemmelsene her oppheves:
+
+- [Forskrift av 30. desember 1993 nr. 1369](forskrift/1993-12-30-1369) om delegasjon av myndighet m.v. til fylkeslandbruksstyret og kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og statsforvalteren etter lov om skogbruk og skogvern av 21. mai 1965 (skogbruksloven),
+- [Vedtak av 30. mai 2000 nr. 620](forskrift/2000-05-30-620) om delegering til kommunen, fylkeslandbruksstyret, statsforvalteren og Landbruksdirektoratet, og forskrift om saksbehandling i kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og statsforvalteren i saker etter konsesjonslova, odelslova og jordlova.
 
 > Endret ved [vedtak 22 sep 2014 nr. 1223](forskrift/2014-09-22-1223), endret ved forskrift [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).

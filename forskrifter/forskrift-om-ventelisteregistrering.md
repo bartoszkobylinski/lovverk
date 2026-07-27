@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Denne forskrift gjelderSomatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som et regionalt helseforetak har inngått avtale om tjenesteyting med i henhold til [spesialisthelsetjenesteloven § 2-1a](lov/1999-07-02-61/§2-1a) tredje ledd.Somatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som eies av et regionalt helseforetak.Institusjoner som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og som eies av, eller som har inngått avtale som nevnt i nr. 1 med, et regionalt helseforetak.
+Denne forskrift gjelder
+
+1. Somatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som et regionalt helseforetak har inngått avtale om tjenesteyting med i henhold til [spesialisthelsetjenesteloven § 2-1a](lov/1999-07-02-61/§2-1a) tredje ledd.
+2. Somatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som eies av et regionalt helseforetak.
+3. Institusjoner som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og som eies av, eller som har inngått avtale som nevnt i nr. 1 med, et regionalt helseforetak.
 
 > Endret ved [forskrifter 18 des 2001 nr. 1577](forskrift/2001-12-18-1577) (i kraft 1 jan 2002), [31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [29 okt 2015 nr. 1232](forskrift/2015-10-29-1232) (i kraft 1 nov 2015), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
 

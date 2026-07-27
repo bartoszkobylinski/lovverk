@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder for følgende utenlandske skip i næringsvirksomhet:lasteskippassasjerskipflyttbare innretninger.
+Forskriften gjelder for følgende utenlandske skip i næringsvirksomhet:
+
+1. lasteskip
+2. passasjerskip
+3. flyttbare innretninger.
 
 For utenlandske fiskefartøy gjelder forskriften [§ 4a](forskrift/2014-11-24-1458/§4a).
 
@@ -36,13 +40,29 @@ Forskriften gjelder ikke for primitivt bygde treskip.
 
 ### § 2. Konvensjonskrav
 
-Følgende konvensjoner med senere tilføyelser og endringer gjelder som forskrifter for skip som oppholder seg i norske farvann i den grad og så langt konvensjonen gjelder for skip som omfattes av forskriften her:Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)[SOLAS 74)](traktat/1974-11-01-1)Den internasjonale konvensjon om lastelinjer, 1966 (LL 66)Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, og tilhørende protokoll av 1978 (MARPOL 73/78)Den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk, 1978 (STCW 78/95)Konvensjonen om internasjonale regler til forebygging av sammenstøt på sjøen, 1972 ([Colreg 72)](traktat/1972-10-20-1)Den internasjonale konvensjon om måling av fartøyer, 1969 (ITC 69)Den internasjonale konvensjon om erstatningsansvar for oljesølskade, 1992 (CLC 92)Den internasjonale konvensjon om regulering av skadelige bunnstoffsystemer på skip (AFS-konvensjonen)Den internasjonale konvensjon 2001 om erstatningsansvar for bunkersoljesølskade (Bunkerskonvensjonen, 2001)Den internasjonale konvensjon om sjøfolks arbeids- og levevilkår (Maritime Labour Convention – MLC)Den internasjonale konvensjon om kontroll og behandling av ballastvann og sedimenter fra skip, 2004Den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip, 2009.
+Følgende konvensjoner med senere tilføyelser og endringer gjelder som forskrifter for skip som oppholder seg i norske farvann i den grad og så langt konvensjonen gjelder for skip som omfattes av forskriften her:
+
+1. Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)[SOLAS 74)](traktat/1974-11-01-1)
+2. Den internasjonale konvensjon om lastelinjer, 1966 (LL 66)
+3. Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, og tilhørende protokoll av 1978 (MARPOL 73/78)
+4. Den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk, 1978 (STCW 78/95)
+5. Konvensjonen om internasjonale regler til forebygging av sammenstøt på sjøen, 1972 ([Colreg 72)](traktat/1972-10-20-1)
+6. Den internasjonale konvensjon om måling av fartøyer, 1969 (ITC 69)
+7. Den internasjonale konvensjon om erstatningsansvar for oljesølskade, 1992 (CLC 92)
+8. Den internasjonale konvensjon om regulering av skadelige bunnstoffsystemer på skip (AFS-konvensjonen)
+9. Den internasjonale konvensjon 2001 om erstatningsansvar for bunkersoljesølskade (Bunkerskonvensjonen, 2001)
+10. Den internasjonale konvensjon om sjøfolks arbeids- og levevilkår (Maritime Labour Convention – MLC)
+11. Den internasjonale konvensjon om kontroll og behandling av ballastvann og sedimenter fra skip, 2004
+12. Den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip, 2009.
 
 > Endret ved [forskrifter 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [24 jan 2022 nr. 118](forskrift/2022-01-24-118), [24 juni 2025 nr. 1338](forskrift/2025-06-24-1338) (i kraft 26 juni 2025).
 
 ### § 3. Passasjerskip i innenriksfart i Norge
 
-Direktiv [2009/45/EF](eu/32009l0045) som endret ved direktiv [2010/36/EU](eu/32010l0036), direktiv [(EU) 2017/2108](eu/32017l2108), forordning [(EU) 2020/411](eu/32020r0411) og forordning [(EU) 2022/1180](eu/32022r1180), gjelder med de presiseringer, unntak og tillegg som er fastsatt i norske forskrifter forpassasjerskip i havområde A, B, C eller D i norske farvann med lengde (L) 24 meter eller merhurtiggående passasjerfartøy med lengde (L) 24 meter eller mer.
+Direktiv [2009/45/EF](eu/32009l0045) som endret ved direktiv [2010/36/EU](eu/32010l0036), direktiv [(EU) 2017/2108](eu/32017l2108), forordning [(EU) 2020/411](eu/32020r0411) og forordning [(EU) 2022/1180](eu/32022r1180), gjelder med de presiseringer, unntak og tillegg som er fastsatt i norske forskrifter for
+
+1. passasjerskip i havområde A, B, C eller D i norske farvann med lengde (L) 24 meter eller mer
+2. hurtiggående passasjerfartøy med lengde (L) 24 meter eller mer.
 
 Passasjerskip, herunder hurtiggående passasjerfartøy, som ikke er omfattet av reglene i første ledd, skal ha dokumentasjon fra flaggstaten som viser at skipet holder samme sikkerhetsnivå som norske passasjerskip i tilsvarende fartsområde.
 
@@ -54,7 +74,11 @@ Passasjerskip, herunder hurtiggående passasjerfartøy, som ikke er omfattet av 
 
 Havnestatskontroll gjennomføres etter direktiv [2009/16/EF](eu/32009l0016) som endret ved direktiv [2013/38/EU](eu/32013l0038), forordning [(EU) nr. 1257/2013](eu/32013r1257), forordning [(EU) 2015/757](eu/32015r0757) og direktiv [(EU) 2017/2110](eu/32017l2110).
 
-Direktivets bestemmelser utfylles av følgende forordninger:EØS-avtalen vedlegg XIII nr. 56bc (forordning [(EF) nr. 428/2010](eu/32010r0428)) om gjennomføring av artikkel 14 i Europaparlamentets og rådets direktiv [2009/16/EF](eu/32009l0016*) for så vidt angår utvidede inspeksjoner av skip.EØS-avtalen vedlegg XIII nr. 56bd (forordning [(EU) nr. 801/2010](eu/32010r0801)) om gjennomføring av artikkel 10.3 i Europaparlamentets og rådets direktiv [2009/16/EC](eu/32009l0016*) for så vidt angår flaggstatskriteriene.EØS-avtalen vedlegg XIII nr. 56be (forordning [(EU) nr. 802/2010](eu/32010r0802) som endret ved forordning [(EU) nr. 1205/2012](eu/32012r1205)) om gjennomføring av artikkel 10.3 og 27 i Europaparlamentets og rådets direktiv [2009/16/EF](eu/32009l0016*) for så vidt angår rederiets prestasjoner.
+Direktivets bestemmelser utfylles av følgende forordninger:
+
+1. EØS-avtalen vedlegg XIII nr. 56bc (forordning [(EF) nr. 428/2010](eu/32010r0428)) om gjennomføring av artikkel 14 i Europaparlamentets og rådets direktiv [2009/16/EF](eu/32009l0016*) for så vidt angår utvidede inspeksjoner av skip.
+2. EØS-avtalen vedlegg XIII nr. 56bd (forordning [(EU) nr. 801/2010](eu/32010r0801)) om gjennomføring av artikkel 10.3 i Europaparlamentets og rådets direktiv [2009/16/EC](eu/32009l0016*) for så vidt angår flaggstatskriteriene.
+3. EØS-avtalen vedlegg XIII nr. 56be (forordning [(EU) nr. 802/2010](eu/32010r0802) som endret ved forordning [(EU) nr. 1205/2012](eu/32012r1205)) om gjennomføring av artikkel 10.3 og 27 i Europaparlamentets og rådets direktiv [2009/16/EF](eu/32009l0016*) for så vidt angår rederiets prestasjoner.
 
 Forordningene gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til EØS- avtalen og avtalen for øvrig.
 
@@ -74,9 +98,22 @@ Når et skip kan bli gjenstand for eller skal gjennomgå en utvidet kontroll pli
 
 Forventes reisen å vare kortere enn tre døgn skal melding om forventet ankomst senest registreres når skipet forlater havnen eller ankerplassen som det oppholder seg i.
 
-Meldingen som kreves etter første eller andre ledd skal inneholdeskipets identifikasjon (navn, kjenningssignal, IMO-identifikasjonsnummer eller MMSI-nummer)bestemmelseshavnforventet tidspunkt for ankomst og forventet tidspunkt for avgang (ETA, ETD)informasjon om skipet planlegger oppankring (ankringsplass eller fortøyningsinnretning)samlet antall personer om bordplanlagte operasjoner (lasting, lossing, annet)planlagte lovfestede tilsyn samt omfattende vedlikeholds- og reparasjonsarbeid som skal utføresdato for siste utvidede inspeksjon i Paris MOU- og EØS-området.
+Meldingen som kreves etter første eller andre ledd skal inneholde
 
-Tankskip plikter i tillegg å oppgi opplysninger omkonstruksjon: enkelt skrog, enkelt skrog med SBT, dobbelt skroglaste- og ballasttankenes tilstand: fullastede, tomme eller inertelastemengde og type.
+1. skipets identifikasjon (navn, kjenningssignal, IMO-identifikasjonsnummer eller MMSI-nummer)
+2. bestemmelseshavn
+3. forventet tidspunkt for ankomst og forventet tidspunkt for avgang (ETA, ETD)
+4. informasjon om skipet planlegger oppankring (ankringsplass eller fortøyningsinnretning)
+5. samlet antall personer om bord
+6. planlagte operasjoner (lasting, lossing, annet)
+7. planlagte lovfestede tilsyn samt omfattende vedlikeholds- og reparasjonsarbeid som skal utføres
+8. dato for siste utvidede inspeksjon i Paris MOU- og EØS-området.
+
+Tankskip plikter i tillegg å oppgi opplysninger om
+
+1. konstruksjon: enkelt skrog, enkelt skrog med SBT, dobbelt skrog
+2. laste- og ballasttankenes tilstand: fullastede, tomme eller inerte
+3. lastemengde og type.
 
 Rederiet eller skipsfører skal så raskt som mulig underrette norske myndigheter i SafeSeaNet Norway ved endringer i den innmeldte seilingsplanen.
 
@@ -100,7 +137,10 @@ Når en inspeksjon er blitt utsatt etter [§ 4](forskrift/2014-11-24-1458/§4) j
 
 ### § 9. Utgifter i forbindelse med opphevelse av forvaltningstiltak
 
-Rederiet skal dekke alle utgifter i tilknytning til havnestatskontroll som foretas for å få oppheveten tilbakeholdelseet anløpsforbud.
+Rederiet skal dekke alle utgifter i tilknytning til havnestatskontroll som foretas for å få opphevet
+
+1. en tilbakeholdelse
+2. et anløpsforbud.
 
 Rederiet skal dekke alle utgifter ved tilbakeholdelse i havnen.
 
@@ -110,13 +150,23 @@ Rederiet skal dekke alle utgifter ved tilbakeholdelse i havnen.
 
 ### § 10. Tilbakeholdelse og stansing av operasjoner
 
-Skip somhar mangler som klart utgjør en fare for helse, miljø eller sikkerhetikke oppfyller krav om å ha ferdsskriverhar arbeids- og levevilkår som utgjør en åpenbar fare for arbeidstakernes sikkerhet og helse, ellerhar alvorlige og gjentatte brudd på MLC, herunder arbeidstakers rettigheter,vil bli tilbakeholdt eller få stanset operasjonen hvor mangelen ble påvist.
+Skip som
+
+1. har mangler som klart utgjør en fare for helse, miljø eller sikkerhet
+2. ikke oppfyller krav om å ha ferdsskriver
+3. har arbeids- og levevilkår som utgjør en åpenbar fare for arbeidstakernes sikkerhet og helse, eller
+4. har alvorlige og gjentatte brudd på MLC, herunder arbeidstakers rettigheter,
+
+vil bli tilbakeholdt eller få stanset operasjonen hvor mangelen ble påvist.
 
 > Endret ved [forskrift 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 
 ### § 11. Anløpsforbud
 
-Skip nektes anløp til norske havner og ankerplasser hvis de seiler under flagget til en stat som står påParis MOU sin svarteliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv [1999/35/EF](eu/31999l0035) mer enn to ganger i løpet av de 36 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU, ellerParis MOU sin gråliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv [1999/35/EF](eu/31999l0035) mer enn to ganger i løpet av de 24 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU.
+Skip nektes anløp til norske havner og ankerplasser hvis de seiler under flagget til en stat som står på
+
+1. Paris MOU sin svarteliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv [1999/35/EF](eu/31999l0035) mer enn to ganger i løpet av de 36 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU, eller
+2. Paris MOU sin gråliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv [1999/35/EF](eu/31999l0035) mer enn to ganger i løpet av de 24 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU.
 
 > Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 
@@ -142,7 +192,10 @@ Anløpsforbudene etter første og annet ledd gjelder tilsvarende for havner og a
 
 ### § 15. Nektelse av adgang til havn ved brudd på vilkår
 
-Skip som er tilbakeholdt og har fått tillatelse til å gå til reparasjonsverksted, nektes adgang til norske havner og ankerplasser når skipetforlater havn eller ankerplass uten at fastsatte vilkår for tillatelsen er oppfylt, ellerikke går direkte til angitt reparasjonsverksted.
+Skip som er tilbakeholdt og har fått tillatelse til å gå til reparasjonsverksted, nektes adgang til norske havner og ankerplasser når skipet
+
+1. forlater havn eller ankerplass uten at fastsatte vilkår for tillatelsen er oppfylt, eller
+2. ikke går direkte til angitt reparasjonsverksted.
 
 > Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 
@@ -150,11 +203,18 @@ Skip som er tilbakeholdt og har fått tillatelse til å gå til reparasjonsverks
 
 ### § 16. Opphevelse av tilbakehold og stansing av operasjoner
 
-Tilbakeholdelsen eller stansingen av en operasjon vil ikke bli opphevet før Sjøfartsdirektoratet fastslår at skipet kan seile eller gjenoppta operasjon utenfare for passasjerenes eller besetningens helse og sikkerhetfare for andre skipat det foreligger en urimelig trussel for skade på miljøet.
+Tilbakeholdelsen eller stansingen av en operasjon vil ikke bli opphevet før Sjøfartsdirektoratet fastslår at skipet kan seile eller gjenoppta operasjon uten
+
+1. fare for passasjerenes eller besetningens helse og sikkerhet
+2. fare for andre skip
+3. at det foreligger en urimelig trussel for skade på miljøet.
 
 Rederiet må i tillegg ha foretatt full innbetaling, eller gitt en tilstrekkelig garanti for refusjon, av utgiftene som eventuell kontroll for opphevelse medfører.
 
-Tilbakeholdelsen eller stansingen av en operasjon som skyldes brudd på MLC vil ikke bli opphevet førfeil eller mangler er utbedret, ellerSjøfartsdirektoratet har godkjent skipets handlingsplan for korrigering av mangler og feil, og det er godtgjort at planen vil bli gjennomført snarest mulig.
+Tilbakeholdelsen eller stansingen av en operasjon som skyldes brudd på MLC vil ikke bli opphevet før
+
+1. feil eller mangler er utbedret, eller
+2. Sjøfartsdirektoratet har godkjent skipets handlingsplan for korrigering av mangler og feil, og det er godtgjort at planen vil bli gjennomført snarest mulig.
 
 > Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 
@@ -162,7 +222,13 @@ Tilbakeholdelsen eller stansingen av en operasjon som skyldes brudd på MLC vil 
 
 Første anløpsforbud oppheves tidligst 3 måneder etter anløpsforbudet ble vedtatt.
 
-For å få opphevet anløpsforbudet må tidsfristen som er fastsatt for tidligste opphevelse være utløpt og rederiet mårette formell anmodning til Sjøfartsdirektoratet om opphevelse av anløpsforbudetlegge ved dokumentasjon fra flaggstaten som bekrefter at en autorisert inspektør godkjent av flaggstatens myndighet har vært om bord og konstatert at skipet fullt ut oppfyller gjeldende konvensjonskravlegge ved dokumentasjon fra skipets eventuelle klassifikasjonsselskap som bekrefter at inspektøren som har skrevet rapporten har vært om bord og konstatert at skipet overholder de klassifikasjonsstandardene som er spesifisert av selskapetdokumentere at det er gjennomført ny utvidet kontroll i en norsk havn, eller i en havn som Sjøfartsdirektoratet har godkjent, som bekrefter at skipet fullt ut oppfyller gjeldende konvensjonskravha foretatt full innbetaling, eller gitt tilstrekkelig garanti for refusjon, av utgiftene som den utvidede kontrollen medfører.
+For å få opphevet anløpsforbudet må tidsfristen som er fastsatt for tidligste opphevelse være utløpt og rederiet må
+
+1. rette formell anmodning til Sjøfartsdirektoratet om opphevelse av anløpsforbudet
+2. legge ved dokumentasjon fra flaggstaten som bekrefter at en autorisert inspektør godkjent av flaggstatens myndighet har vært om bord og konstatert at skipet fullt ut oppfyller gjeldende konvensjonskrav
+3. legge ved dokumentasjon fra skipets eventuelle klassifikasjonsselskap som bekrefter at inspektøren som har skrevet rapporten har vært om bord og konstatert at skipet overholder de klassifikasjonsstandardene som er spesifisert av selskapet
+4. dokumentere at det er gjennomført ny utvidet kontroll i en norsk havn, eller i en havn som Sjøfartsdirektoratet har godkjent, som bekrefter at skipet fullt ut oppfyller gjeldende konvensjonskrav
+5. ha foretatt full innbetaling, eller gitt tilstrekkelig garanti for refusjon, av utgiftene som den utvidede kontrollen medfører.
 
 Ved gjennomføring av ny kontroll i Norge skal rederiet, dennes representant i Norge eller skipsføreren begjære ny kontroll senest 14 dager før kontrollen ønskes gjennomført. Skipet skal ikke laste eller losse i havnen før kontrollen er utført og anløpsforbudet er opphevet.
 
@@ -176,7 +242,12 @@ Når skipet er ilagt anløpsforbud for annen gang, er fristen for tidligste opph
 
 ### § 19. Opphevelse av tredje anløpsforbud
 
-Når skipet er ilagt anløpsforbud for tredje gang, er fristen for tidligste opphevelse tjuefire måneder regnet fra tidspunktet da vedtaket om tredje anløpsforbud ble truffet. Anløpsforbudet kan ikke oppheves før rederiet har dokumentere atvilkårene i [§ 17](forskrift/2014-11-24-1458/§17) andre og tredje ledd er oppfyltskipet seiler under et flagg som på grunn av sin tilbakeholdelsesprosent verken står på Paris MOUs svarteliste eller grålisteskipets lovfestede sertifikat og eventuelt klassesertifikat er utstedt av en organisasjon eller organisasjoner som er anerkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*) av 23. april 2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte skipskipet administreres av et rederi som har et høyt prestasjonsnivå i samsvar med bilag I, del I.1 til direktiv [2009/16/EF](eu/32009l0016*).
+Når skipet er ilagt anløpsforbud for tredje gang, er fristen for tidligste opphevelse tjuefire måneder regnet fra tidspunktet da vedtaket om tredje anløpsforbud ble truffet. Anløpsforbudet kan ikke oppheves før rederiet har dokumentere at
+
+1. vilkårene i [§ 17](forskrift/2014-11-24-1458/§17) andre og tredje ledd er oppfylt
+2. skipet seiler under et flagg som på grunn av sin tilbakeholdelsesprosent verken står på Paris MOUs svarteliste eller gråliste
+3. skipets lovfestede sertifikat og eventuelt klassesertifikat er utstedt av en organisasjon eller organisasjoner som er anerkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 391/2009](eu/32009r0391*) av 23. april 2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte skip
+4. skipet administreres av et rederi som har et høyt prestasjonsnivå i samsvar med bilag I, del I.1 til direktiv [2009/16/EF](eu/32009l0016*).
 
 > Endret ved [forskrifter 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 

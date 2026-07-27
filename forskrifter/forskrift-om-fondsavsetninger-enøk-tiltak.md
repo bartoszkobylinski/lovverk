@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1
 
-Departementet kan samtykke i frigiving av avsatte midler til investeringer som er nødvendige for åutnytte spillvarme fra produksjons- og ventilasjonsanlegg,tilbakeføre i produksjonsprosessen avfallsstoffer eller spillprodukter som ellers ville bli sluppet ut til vann/jord eller som blir behandlet på særskilt måte som avfall,utnytte avfallsstoffer eller spillprodukter som brensel for produksjon av varme.
+Departementet kan samtykke i frigiving av avsatte midler til investeringer som er nødvendige for å
+
+1. utnytte spillvarme fra produksjons- og ventilasjonsanlegg,
+2. tilbakeføre i produksjonsprosessen avfallsstoffer eller spillprodukter som ellers ville bli sluppet ut til vann/jord eller som blir behandlet på særskilt måte som avfall,
+3. utnytte avfallsstoffer eller spillprodukter som brensel for produksjon av varme.
 
 ### § 2
 

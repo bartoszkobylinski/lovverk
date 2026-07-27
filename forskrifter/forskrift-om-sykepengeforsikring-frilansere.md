@@ -48,7 +48,11 @@ Premiesatsene fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjør
 
 ## § 4. Premiefritak
 
-Premie betales ikke for de hele kalenderuker da en frilanserer arbeidsufør på grunn av sykdom uten å ha rett til tilleggssykepenger fra forsikringen, jf. [folketrygdloven § 8-39](lov/1997-02-28-19/§8-39) andre ledd,er sykemeldt i mer enn 16 dager,har mistet retten til sykepenger etter [folketrygdloven § 8-54](lov/1997-02-28-19/§8-54).
+Premie betales ikke for de hele kalenderuker da en frilanser
+
+1. er arbeidsufør på grunn av sykdom uten å ha rett til tilleggssykepenger fra forsikringen, jf. [folketrygdloven § 8-39](lov/1997-02-28-19/§8-39) andre ledd,
+2. er sykemeldt i mer enn 16 dager,
+3. har mistet retten til sykepenger etter [folketrygdloven § 8-54](lov/1997-02-28-19/§8-54).
 
 > Endret ved [forskrift 18 des 2003 nr. 1612](forskrift/2003-12-18-1612).
 

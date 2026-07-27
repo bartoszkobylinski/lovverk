@@ -30,7 +30,19 @@ Denne forskriften gjelder en frivillig ordning for norske skip og flyttbare innr
 
 ## § 2. Definisjoner
 
-I denne forskrift, og i skjema for beregning av miljøfaktor etter forskriften, betyr:*Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.*Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.*Gasskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk hvilke som helst av de kondenserte gasser eller andre produkter som er oppført i kapittel 19 i den Internasjonale kode for transport av kondenserte gasser i bulk (IGC-koden).*Kjemikalietankskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk hvilke som helst av de flytende produktene som er oppført i kapittel 17 i den Internasjonale kode for transport av kjemikalier i bulk (IBC-koden).*Kombinasjonsskip:* Skip som er bygd eller ombygd for og benyttet til å føre petroleum og petroleumsprodukter eller fast last i bulk.*Lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy.*Lekter:* Et skrog eller skip uten fremdriftsmaskineri som slepes eller skyves ved all forflytning, og som anvendes til føring av last.*Miljødeklarasjon:* En erklæring som beskriver skipets spesifikke miljømessige egenskaper og driftsforhold av miljømessig betydning, og som viser skipets eller den flyttbare innretningens beregnede miljøfaktor.*Miljøfaktor:* En tallverdi beregnet i skipets miljødeklarasjon, som representerer skipets eller den flyttbare innretningens totale miljømessige egenskaper i henhold til gjeldende kriterier. Tallverdien for miljøfaktor vil ligge mellom 0 og 10, hvor 10 representerer høyeste miljøstandard.*Oljetankskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk petroleum og petroleumsprodukter som er omfattet av Den internasjonale konvensjon om hindring av forurensning fra skip, Annex I (MARPOL).*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+I denne forskrift, og i skjema for beregning av miljøfaktor etter forskriften, betyr:
+
+1. *Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.
+2. *Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+3. *Gasskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk hvilke som helst av de kondenserte gasser eller andre produkter som er oppført i kapittel 19 i den Internasjonale kode for transport av kondenserte gasser i bulk (IGC-koden).
+4. *Kjemikalietankskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk hvilke som helst av de flytende produktene som er oppført i kapittel 17 i den Internasjonale kode for transport av kjemikalier i bulk (IBC-koden).
+5. *Kombinasjonsskip:* Skip som er bygd eller ombygd for og benyttet til å føre petroleum og petroleumsprodukter eller fast last i bulk.
+6. *Lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy.
+7. *Lekter:* Et skrog eller skip uten fremdriftsmaskineri som slepes eller skyves ved all forflytning, og som anvendes til føring av last.
+8. *Miljødeklarasjon:* En erklæring som beskriver skipets spesifikke miljømessige egenskaper og driftsforhold av miljømessig betydning, og som viser skipets eller den flyttbare innretningens beregnede miljøfaktor.
+9. *Miljøfaktor:* En tallverdi beregnet i skipets miljødeklarasjon, som representerer skipets eller den flyttbare innretningens totale miljømessige egenskaper i henhold til gjeldende kriterier. Tallverdien for miljøfaktor vil ligge mellom 0 og 10, hvor 10 representerer høyeste miljøstandard.
+10. *Oljetankskip:* Skip som er bygd eller ombygd for og benyttet til å føre i bulk petroleum og petroleumsprodukter som er omfattet av Den internasjonale konvensjon om hindring av forurensning fra skip, Annex I (MARPOL).
+11. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -72,7 +84,13 @@ Miljødeklarasjonen anses gyldig etter registrering, og er gyldig i inntil 5 år
 
 Grunnlaget for miljødeklarasjonen anses som endret dersom myndighetene endrer kriterier eller forutsetninger for deklarasjonen. Endringer av denne type vil meldes til innehavere av deklarasjonen med en varslingsfrist på 6 måneder til å etablere en ny miljødeklarasjon.
 
-En miljødeklarasjon anses som ugyldig uavhengig av ovennevnte dersom:Skipet eller den flyttbare innretningen skifter rederi.Utstyr, utrustning eller brennstofftyper som er nødvendig eller inngår i grunnlaget for deklarasjonen ikke holdes i foreskrevet stand eller ikke benyttes.Utstyr og utrustning som inngår i grunnlaget for deklarasjonen i vesentlig grad forandres, slik at dette påvirker grad av oppfyllelse av kriteriene som inngår i deklarasjonen.Innsendt miljødeklarasjon inneholder feilaktig informasjon.Annen vesentlig grunn til ugyldighet foreligger.
+En miljødeklarasjon anses som ugyldig uavhengig av ovennevnte dersom:
+
+1. Skipet eller den flyttbare innretningen skifter rederi.
+2. Utstyr, utrustning eller brennstofftyper som er nødvendig eller inngår i grunnlaget for deklarasjonen ikke holdes i foreskrevet stand eller ikke benyttes.
+3. Utstyr og utrustning som inngår i grunnlaget for deklarasjonen i vesentlig grad forandres, slik at dette påvirker grad av oppfyllelse av kriteriene som inngår i deklarasjonen.
+4. Innsendt miljødeklarasjon inneholder feilaktig informasjon.
+5. Annen vesentlig grunn til ugyldighet foreligger.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -82,7 +100,10 @@ Verifikasjonen utføres i den grad det finnes nødvendig av Sjøfartsdirektorate
 
 ## § 9. Avvik og retting
 
-Verifikasjonen av miljødeklarasjonen ombord i skipet vil kunne avdekke følgende avvik:Avvik mellom deklarerte kriterier og oppfyllelse av disse ombord medfører at deklarasjonen er å anse som ugyldig, jf. [§ 7](forskrift/2000-11-28-1194/§7).Avvik mellom krav til dokumentasjon og faktisk tilgjengelig dokumentasjon om bord eller mangelfull operasjonell oppfølging av kriteriene kan rettes av skipet med to måneders tidsfrist.
+Verifikasjonen av miljødeklarasjonen ombord i skipet vil kunne avdekke følgende avvik:
+
+1. Avvik mellom deklarerte kriterier og oppfyllelse av disse ombord medfører at deklarasjonen er å anse som ugyldig, jf. [§ 7](forskrift/2000-11-28-1194/§7).
+2. Avvik mellom krav til dokumentasjon og faktisk tilgjengelig dokumentasjon om bord eller mangelfull operasjonell oppfølging av kriteriene kan rettes av skipet med to måneders tidsfrist.
 
 Retting av rapporterte avvik med slik tidsfrist, rapporteres inn til Sjøfartsdirektoratet for registrering, jf. [§ 6](forskrift/2000-11-28-1194/§6). Rettes ikke avvik innen fristen medfører dette at deklarasjonen blir å anse som ugyldig.
 

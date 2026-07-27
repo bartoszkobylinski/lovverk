@@ -15,7 +15,7 @@ xml_hash: "9c59ec2eb23e6250787ce05edcebf1409986b67b3dfe2365144d117e892603f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,25 @@ Burfugl i privat eie fra tredjeland skal i tillegg til denne forskriften innfør
 
 ## § 3. Opprinnelse
 
-Det er kun tillatt å innføre burfugl i privat eie fra land utenfor EØS som er medlemmer av verdens dyrehelseorganisasjon (OIE) beliggende i OIEs regionale kommisjoner:AmerikaAfrikaAsia, Det fjerne østen og OseaniaEuropa, ogMidtøsten.
+Det er kun tillatt å innføre burfugl i privat eie fra land utenfor EØS som er medlemmer av verdens dyrehelseorganisasjon (OIE) beliggende i OIEs regionale kommisjoner:
+
+- Amerika
+- Afrika
+- Asia, Det fjerne østen og Oseania
+- Europa, og
+- Midtøsten.
 
 ## § 4. Særskilte vilkår
 
 Det er tillatt å innføre maksimalt 3 burfugl i privat eie fra land beliggende i OIEs regionale kommisjoner jf. [§ 3](forskrift/2006-01-23-66/§3).
 
-Fuglene skal:ha vært isolert i avsenderlandet fra andre dyr som er mottakelige for aviær influensa i minst 30 dager dersom avsenderlandet er et av landene nevnt i [forskrift 23. juli 2010 nr. 1137](forskrift/2010-07-23-1137) om import fra tredjestater av visse levende dyr, bier, humler og ferskt kjøtt av visse dyr [§ 1](forskrift/2006-01-23-66/§1) jf. kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206*) vedlegg I del I og vedlegg II del I, ellergjennomgå karantene i 30 dager etter import til Norge på et sted som er godkjent etter [forskrift 20. februar 2004 nr. 464](forskrift/2004-02-20-464) om dyrehelsemessige vilkår for import og eksport av levende dyr, sæd, egg og embryo (forskrift om handel med dyr) [§ 18](forskrift/2004-02-20-464/§18), jf. forordning [(EU) nr. 139/2013](eu/32013r0139) artikkel 6 første avsnitt, ellervære vaksinert og minst én gang i løpet av perioden 6 måneder til 60 dager før import være revaksinert mot aviær influensa av subtypene H5 og H7 med en vaksine som er godkjent til arten i samsvar med vaksineprodusentens instruksjoner, ellerha vært isolert i minst 10 dager før eksport og i denne perioden gjennomgått en test for å påvise H5- og H7-antigen eller -antigenom som beskrevet i kapittelet om aviær influensa i den siste versjonen av OIEs manual for diagnostiske tester og vaksiner til landdyr på grunnlag av en prøve som er tatt ut tidligst den 3. dagen av isolasjonsperioden, ogføres til en husholdning eller en annen bolig i EØS og ikke bringes til forestillinger, messer, markeder, utstillinger eller andre slags samlinger av fugler, unntatt godkjente karantenesteder som omhandlet i nr. 2, de første 30 dagene etter ankomst til EØS.
+Fuglene skal:
+
+1. ha vært isolert i avsenderlandet fra andre dyr som er mottakelige for aviær influensa i minst 30 dager dersom avsenderlandet er et av landene nevnt i [forskrift 23. juli 2010 nr. 1137](forskrift/2010-07-23-1137) om import fra tredjestater av visse levende dyr, bier, humler og ferskt kjøtt av visse dyr [§ 1](forskrift/2006-01-23-66/§1) jf. kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206*) vedlegg I del I og vedlegg II del I, eller
+2. gjennomgå karantene i 30 dager etter import til Norge på et sted som er godkjent etter [forskrift 20. februar 2004 nr. 464](forskrift/2004-02-20-464) om dyrehelsemessige vilkår for import og eksport av levende dyr, sæd, egg og embryo (forskrift om handel med dyr) [§ 18](forskrift/2004-02-20-464/§18), jf. forordning [(EU) nr. 139/2013](eu/32013r0139) artikkel 6 første avsnitt, eller
+3. være vaksinert og minst én gang i løpet av perioden 6 måneder til 60 dager før import være revaksinert mot aviær influensa av subtypene H5 og H7 med en vaksine som er godkjent til arten i samsvar med vaksineprodusentens instruksjoner, eller
+4. ha vært isolert i minst 10 dager før eksport og i denne perioden gjennomgått en test for å påvise H5- og H7-antigen eller -antigenom som beskrevet i kapittelet om aviær influensa i den siste versjonen av OIEs manual for diagnostiske tester og vaksiner til landdyr på grunnlag av en prøve som er tatt ut tidligst den 3. dagen av isolasjonsperioden, og
+5. føres til en husholdning eller en annen bolig i EØS og ikke bringes til forestillinger, messer, markeder, utstillinger eller andre slags samlinger av fugler, unntatt godkjente karantenesteder som omhandlet i nr. 2, de første 30 dagene etter ankomst til EØS.
 
 > Endret ved [forskrifter 15 juni 2007 nr. 642](forskrift/2007-06-15-642), [7 april 2009 nr. 405](forskrift/2009-04-07-405), [20 des 2010 nr. 1811](forskrift/2010-12-20-1811), [12 mars 2013 nr. 313](forskrift/2013-03-12-313), [19 mai 2016 nr. 543](forskrift/2016-05-19-543) (i kraft 1 juni 2016), [3 jan 2018 nr. 4](forskrift/2018-01-03-4).
 

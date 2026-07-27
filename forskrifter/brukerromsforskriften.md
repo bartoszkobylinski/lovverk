@@ -56,7 +56,16 @@ Narkotiske stoffer til bruk i brukerromsordningen skal fremvises for personalet.
 
 ## § 5. Brukerromsordningens innhold
 
-Brukerromsordningen skal omfattetilbud til brukerne om generelle råd om injeksjonspraksis og mer skånsomme inntaksmåter enn injisering,tilbud til brukerne om generelle råd om hygiene og egenomsorg for å forebygge smitte og for å redusere risikoen for skade,utdeling av rent utstyr for injisering og inhalering til hver bruker,observasjon av brukerne under og etter inntaket av narkotika,tilbud om individuell og konkret rådgivning til hver bruker i forbindelse med inntaket av narkotika,tilbud om enkel individuell helsehjelp, som for eksempel sårstell,tilbud om rådgivning og informasjon om helse- og omsorgstjenester og sosiale tjenester ogformidling av kontakt med helse- og omsorgstjenesten eller sosialtjenesten dersom brukeren ønsker det.
+Brukerromsordningen skal omfatte
+
+1. tilbud til brukerne om generelle råd om injeksjonspraksis og mer skånsomme inntaksmåter enn injisering,
+2. tilbud til brukerne om generelle råd om hygiene og egenomsorg for å forebygge smitte og for å redusere risikoen for skade,
+3. utdeling av rent utstyr for injisering og inhalering til hver bruker,
+4. observasjon av brukerne under og etter inntaket av narkotika,
+5. tilbud om individuell og konkret rådgivning til hver bruker i forbindelse med inntaket av narkotika,
+6. tilbud om enkel individuell helsehjelp, som for eksempel sårstell,
+7. tilbud om rådgivning og informasjon om helse- og omsorgstjenester og sosiale tjenester og
+8. formidling av kontakt med helse- og omsorgstjenesten eller sosialtjenesten dersom brukeren ønsker det.
 
 Departementet kan i en godkjenning etter [brukerromsloven § 3](lov/2004-07-02-64/§3) eller ved endring av en slik godkjenning gjøre unntak fra kravene i første ledd bokstav f og g. Et vilkår for unntak er at kommunen har tilsvarende tilbud rettet inn mot målgruppen et annet sted.
 
@@ -102,7 +111,10 @@ Reglene i første ledd og [§§ 9](forskrift/2004-12-17-1661/§9) og [10](forskr
 
 ## § 9. Formål med behandlingen av helseopplysningene
 
-Formålet med behandlingen av helseopplysningene er åholde oversikt over brukere med lovlig adgang til brukerromsordningens tjenester oggi et informasjonsgrunnlag for kommunens planlegging, tilrettelegging og drift av brukerromsordningen.
+Formålet med behandlingen av helseopplysningene er å
+
+1. holde oversikt over brukere med lovlig adgang til brukerromsordningens tjenester og
+2. gi et informasjonsgrunnlag for kommunens planlegging, tilrettelegging og drift av brukerromsordningen.
 
 Dersom personalet er i tvil om en person er registrert bruker av ordningens tjenester, kan personalet innhente opplysning om dette fra registeret, jf. første ledd bokstav a. Dersom kommunen har flere brukerrom, kan det lages en felles oversikt over brukere med lovlig adgang.
 

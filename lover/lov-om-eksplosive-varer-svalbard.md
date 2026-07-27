@@ -15,7 +15,7 @@ xml_hash: "4b60744ecd3f326d15d15fd0ead5dacd53312d06413bbd1522b71a354f1cc7d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ eu_basis: []
 
 Denne lov gjelder tilvirking, oppbevaring, transport, herunder lasting og lossing, erverv, bruk og inn- og utførsel av eksplosiv vare samt handel med slik vare.
 
-Unntatt fra denne lov er:eksplosiv vare om bord på skip som går inn under [lov om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9) eller under forskrifter fastsatt med hjemmel i nevnte lov. Loven gjelder likevel for lasting og lossing av skip og for stasjonær oppbevaring av eksplosiv vare på skip.eksplosiv vare som er bestemt for eller som tilhører Forsvaret, politiet eller Direktoratet for brann- og eksplosjonsvern. Kongen kan fastsette at nærmere angitte bestemmelser i denne lov skal få anvendelse på vare som nevnt og kan for slik vare fastsette forskrifter som avviker fra denne lov.fyrstikker for så vidt gjelder reglene i kap. 3-6 og kap. 8.
+Unntatt fra denne lov er:
+
+1. eksplosiv vare om bord på skip som går inn under [lov om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9) eller under forskrifter fastsatt med hjemmel i nevnte lov. Loven gjelder likevel for lasting og lossing av skip og for stasjonær oppbevaring av eksplosiv vare på skip.
+2. eksplosiv vare som er bestemt for eller som tilhører Forsvaret, politiet eller Direktoratet for brann- og eksplosjonsvern. Kongen kan fastsette at nærmere angitte bestemmelser i denne lov skal få anvendelse på vare som nevnt og kan for slik vare fastsette forskrifter som avviker fra denne lov.
+3. fyrstikker for så vidt gjelder reglene i kap. 3-6 og kap. 8.
 
 For Svalbard gjelder loven med de endringer som Kongen fastsetter.
 
@@ -42,7 +46,13 @@ Kongen kan fastsette forskrifter om eksplosive varer som avviker fra bestemmelse
 
 Med eksplosiv vare forstås i denne lov vare som helt eller delvis består av eller inneholder slikt emne at varen kan eksplodere eller forbrenne på eksplosjonsartet måte.
 
-Eksplosive varer inndeles i følgende hovedslag:sprengstoff, slik som nitroglyserin, nitriocellulose, trinitrotoluen, hexogen, dynamitt og nitratsprengstoff,krutt, slik som røksvakt krutt og svartkrutt,tennmidler av enhver art som brukes i samband med andre eksplosiver unntatt tennmidler som faller inn under hovedslaget ammunisjon,ammunisjon, slik som patroner bestående av prosjektil, hylse, drivladning og tennmiddel, hylser av enhver art forsynt med ladning eller tennmiddel, prosjektiler forsynt med ladning, sporlys eller tennmiddel, håndgranater, bomber, raketter og miner samt lys-, brann- og røkbokser,pyroteknisk vare, slik som fyrverkeri, pyroteknisk leketøy, fyrstikker og lys-, røk og brannsatser eller andre pyrotekniske satser.
+Eksplosive varer inndeles i følgende hovedslag:
+
+1. sprengstoff, slik som nitroglyserin, nitriocellulose, trinitrotoluen, hexogen, dynamitt og nitratsprengstoff,
+2. krutt, slik som røksvakt krutt og svartkrutt,
+3. tennmidler av enhver art som brukes i samband med andre eksplosiver unntatt tennmidler som faller inn under hovedslaget ammunisjon,
+4. ammunisjon, slik som patroner bestående av prosjektil, hylse, drivladning og tennmiddel, hylser av enhver art forsynt med ladning eller tennmiddel, prosjektiler forsynt med ladning, sporlys eller tennmiddel, håndgranater, bomber, raketter og miner samt lys-, brann- og røkbokser,
+5. pyroteknisk vare, slik som fyrverkeri, pyroteknisk leketøy, fyrstikker og lys-, røk og brannsatser eller andre pyrotekniske satser.
 
 Er det tvil om en vare går inn under første ledd eller hvilket hovedslag en vare skal regnes til, avgjøres spørsmålet av departementet.
 
@@ -82,7 +92,9 @@ Produkt underlagt godkjenningsplikt i henhold til [§§ 3](lov/1974-06-14-39/§3
 
 > Tilføyd ved [lov 27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994), endret ved [lov 8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
-1 Loven gjelder bare for Svalbard.2 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2).
+1 Loven gjelder bare for Svalbard.
+
+2 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2).
 
 ### § 5. Undersøkelse av eksplosiv vare, innhenting av prøver m.v.
 
@@ -110,7 +122,13 @@ En tillatelse faller bort hvis den ikke blir nyttet innen den frist som måtte v
 
 Blir gyldig tillatelse ikke lenger nyttet, skal innehaveren sende melding om dette til den myndighet som gav tillatelsen. Tillatelse som ikke blir nyttet, faller bort to år etter opphøret hvis ikke kortere frist er fastsatt i tillatelsen.
 
-En tillatelse kan tilbakekalles:når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,når de vilkår som gjelder for tillatelsen ikke blir overholdt, eller når tillatelsen blir nyttet på en måte som er i strid med denne lov eller med vedtak som er gjort i medhold av loven,hvis det oppstår grunn til å frykte for at eksplosiv vare kan bli misbrukt av innehaveren,når forholdene på stedet av sikkerhetsmessig betydning på noe vesentlig punkt har endret seg etter at tillatelsen ble gitt,når de sikkerhetsmessige krav som ble stilt da tillatelsen ble gitt på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
+En tillatelse kan tilbakekalles:
+
+1. når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,
+2. når de vilkår som gjelder for tillatelsen ikke blir overholdt, eller når tillatelsen blir nyttet på en måte som er i strid med denne lov eller med vedtak som er gjort i medhold av loven,
+3. hvis det oppstår grunn til å frykte for at eksplosiv vare kan bli misbrukt av innehaveren,
+4. når forholdene på stedet av sikkerhetsmessig betydning på noe vesentlig punkt har endret seg etter at tillatelsen ble gitt,
+5. når de sikkerhetsmessige krav som ble stilt da tillatelsen ble gitt på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
 
 En godkjenning kan tilbakekalles på samme vilkår som nevnt i fjerde ledd. Typegodkjenning etter [§§ 3](lov/1974-06-14-39/§3) og [4](lov/1974-06-14-39/§4) kan dessuten tilbakekalles dersom det typegodkjente produkt ikke blir utført i samsvar med godkjenningen.
 
@@ -302,7 +320,12 @@ For oppbevaring av eksplosiv vare gjelder bestemmelsene i [§ 20](lov/1974-06-14
 
 Den som vil kjøpe eller på annen måte erverve eksplosiv vare må ha tillatelse. For søknad herom gjelder [§ 16](lov/1974-06-14-39/§16) tredje ledd tilsvarende.
 
-Unntatt fra kravet om tillatelse etter første ledd er erverv av:ammunisjon som erverves eller overlates etter reglene i [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.,eksplosiv vare som tilvirker med tillatelse etter [§ 16](lov/1974-06-14-39/§16) jfr. [§ 18](lov/1974-06-14-39/§18) første ledd, og [§ 17](lov/1974-06-14-39/§17) erverver for tilvirkingen eller vare som han har tillatelse til å tilvirke,eksplosiv vare som handlende med tillatelse etter [§ 26](lov/1974-06-14-39/§26) erverver for videresalg,pyroteknisk vare som kan erverves etter forskrifter fastsatt av departementet.
+Unntatt fra kravet om tillatelse etter første ledd er erverv av:
+
+1. ammunisjon som erverves eller overlates etter reglene i [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.,
+2. eksplosiv vare som tilvirker med tillatelse etter [§ 16](lov/1974-06-14-39/§16) jfr. [§ 18](lov/1974-06-14-39/§18) første ledd, og [§ 17](lov/1974-06-14-39/§17) erverver for tilvirkingen eller vare som han har tillatelse til å tilvirke,
+3. eksplosiv vare som handlende med tillatelse etter [§ 26](lov/1974-06-14-39/§26) erverver for videresalg,
+4. pyroteknisk vare som kan erverves etter forskrifter fastsatt av departementet.
 
 Tillatelse som nevnt i første ledd gis av den Kongen bestemmer.
 
@@ -320,7 +343,11 @@ Hvis ikke annet framgår av tillatelsen, gjelder den bare for erverv av eksplosi
 
 Den som vil drive handel med eksplosiv vare må ha tillatelse. For søknad herom gjelder [§ 16](lov/1974-06-14-39/§16) tredje ledd tilsvarende.
 
-Unntatt fra kravet om tillatelse er handel med:ammunisjon etter [kap. IV i lov om skytevåpen og ammunisjon m.v](lov/1961-06-09-1/kapiv). av 9 juni 1961,de pyrotekniske varer departementet bestemmer,de varer av egen eller annens tilvirking som tilvirkingstillatelse for salg etter [§ 16](lov/1974-06-14-39/§16) første ledd omfatter. Handel som her nevnt kan bare drives av tilvirkeren fra tilvirkingsstedet eller fra tillatt oppbevaringssted. For tilvirker av sprengstoff eller krutt gjelder unntaket også tennmidler.
+Unntatt fra kravet om tillatelse er handel med:
+
+1. ammunisjon etter [kap. IV i lov om skytevåpen og ammunisjon m.v](lov/1961-06-09-1/kapiv). av 9 juni 1961,
+2. de pyrotekniske varer departementet bestemmer,
+3. de varer av egen eller annens tilvirking som tilvirkingstillatelse for salg etter [§ 16](lov/1974-06-14-39/§16) første ledd omfatter. Handel som her nevnt kan bare drives av tilvirkeren fra tilvirkingsstedet eller fra tillatt oppbevaringssted. For tilvirker av sprengstoff eller krutt gjelder unntaket også tennmidler.
 
 Tillatelse gis av den Kongen bestemmer. Tillatelse kan bare gis til den som har handelsrett som kjøpmann og som anses skikket til å drive handel med eksplosiv vare.
 
@@ -392,7 +419,9 @@ Tillatelsen skal angi varens art og mengde og gjelde for et bestemt tidsrom som 
 
 > Endret ved [lov 24 juni 1994 nr. 41](lov/1994-06-24-41) (ikr. 1 juli 1994).
 
-1 Loven gjelder bare for Svalbard.2 Jf. [EØS-avtalen vedlegg II kap. XXIX](avtale/avt-1992-05-02-1-v2) nr. 1 (direktiv [93/15](eu/31993l0015)) – jf. EØS-komiteens beslutning nr. [7/94](eu/21994d0007).
+1 Loven gjelder bare for Svalbard.
+
+2 Jf. [EØS-avtalen vedlegg II kap. XXIX](avtale/avt-1992-05-02-1-v2) nr. 1 (direktiv [93/15](eu/31993l0015)) – jf. EØS-komiteens beslutning nr. [7/94](eu/21994d0007).
 
 ### § 33. Hvem som kan gis tillatelse til innførsel.
 
@@ -426,7 +455,9 @@ Direktoratet for brann- og eksplosjonsvern,2 kommunestyret og for øvrig de mynd
 
 > Endret ved lover [11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
-1 Loven gjelder bare for Svalbard.2 Inkurie: Nå Direktoratet for samfunnssikkerhet og beredskap.
+1 Loven gjelder bare for Svalbard.
+
+2 Inkurie: Nå Direktoratet for samfunnssikkerhet og beredskap.
 
 ### § 37. Forskrifter, enkeltvedtak og rettleiing.
 
@@ -512,7 +543,12 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 
 ### § 44. Overgangsbestemmelser.
 
-– – –Tillatelse eller bevilling til tilvirkning av sprengstoff, krutt, tennmidler, ammunisjon eller fyrverkerisaker gitt etter lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og samtykke til forarbeiding av fyrverkerisaker gitt etter [lov av 19 november 1954](lov/1954-11-19) om brannvesenet eller bestemmelser i medhold av disse lover, blir fortsatt gjeldende. Likeledes blir fortsatt gjeldende tillatelse eller bevilling til erverv av handel med eller inn- eller utførsel av sprengstoff, krutt, tennmidler eller fyrverkerisaker gitt etter [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) eller forskrifter i medhold av loven.Reglene i denne lovs § 7 annet ledd, tredje ledd annet punktum, fjerde ledd og femte ledd første punktum får anvendelse på tillatelse, bevilling, samtykke eller godkjenning gitt før lovens ikrafttreden.Forskrifter og andre alminnelige bestemmelser om sprengstoff, krutt, tennmidler, ammunisjon og fyrverkerisaker gitt i medhold av lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og [lov av 29 mai 1970 nr. 32](lov/1970-05-29-32) om brannvern m.v. gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller bestemmelser gitt i medhold av loven.
+– – –
+
+1. Tillatelse eller bevilling til tilvirkning av sprengstoff, krutt, tennmidler, ammunisjon eller fyrverkerisaker gitt etter lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og samtykke til forarbeiding av fyrverkerisaker gitt etter [lov av 19 november 1954](lov/1954-11-19) om brannvesenet eller bestemmelser i medhold av disse lover, blir fortsatt gjeldende. Likeledes blir fortsatt gjeldende tillatelse eller bevilling til erverv av handel med eller inn- eller utførsel av sprengstoff, krutt, tennmidler eller fyrverkerisaker gitt etter [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) eller forskrifter i medhold av loven.
+
+   Reglene i denne lovs § 7 annet ledd, tredje ledd annet punktum, fjerde ledd og femte ledd første punktum får anvendelse på tillatelse, bevilling, samtykke eller godkjenning gitt før lovens ikrafttreden.
+2. Forskrifter og andre alminnelige bestemmelser om sprengstoff, krutt, tennmidler, ammunisjon og fyrverkerisaker gitt i medhold av lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og [lov av 29 mai 1970 nr. 32](lov/1970-05-29-32) om brannvern m.v. gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller bestemmelser gitt i medhold av loven.
 
 – – –
 
@@ -524,4 +560,6 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 2. Fra samme tid oppheves lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande §§ 1-13, [§ 21](lov/1974-06-14-39/§21) og §§ 23-27.
 3. Fra samme tid gjøres følgende endringer: – – –.
 
-1 For Norge utenom Svalbard fra 1 apr 1977, iflg. res. 18 mars 1977, med unntak av § 3 (1) som trådte i kraft 1 apr 1978. Se note til lovens tittel.2 Ved [res. 30 okt 1987 nr. 841](forskrift/1987-10-30-841) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt i kraft for Svalbard (se [lov 17 juli 1925 nr. 11 § 1](lov/1925-07-17-11/§1) (2)) fra 1 jan 1988, med endringer i medhold av lovens § 1, siste ledd.
+1 For Norge utenom Svalbard fra 1 apr 1977, iflg. res. 18 mars 1977, med unntak av § 3 (1) som trådte i kraft 1 apr 1978. Se note til lovens tittel.
+
+2 Ved [res. 30 okt 1987 nr. 841](forskrift/1987-10-30-841) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt i kraft for Svalbard (se [lov 17 juli 1925 nr. 11 § 1](lov/1925-07-17-11/§1) (2)) fra 1 jan 1988, med endringer i medhold av lovens § 1, siste ledd.

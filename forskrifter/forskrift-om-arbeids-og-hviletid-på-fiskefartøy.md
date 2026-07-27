@@ -24,11 +24,20 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for dem som har sitt arbeid på norsk fiskefartøy, med unntak av de sombare arbeider om bord mens fartøyet ligger i havnbare foretar inspeksjoner om bordarbeider alene på eget fartøy.
+Forskriften gjelder for dem som har sitt arbeid på norsk fiskefartøy, med unntak av de som
+
+1. bare arbeider om bord mens fartøyet ligger i havn
+2. bare foretar inspeksjoner om bord
+3. arbeider alene på eget fartøy.
 
 ## § 2. Definisjoner
 
-I forskriften betyr«arbeidstid»: tiden hvor det skal utføres arbeid i forbindelse med fartøyets drift«fiskefartøy»: fartøy som ervervsmessig brukes til fiske, fangst eller høsting av levende ressurser i sjøen«hviletid»: sammenhengende tidsrom utenfor arbeidstiden på mer enn 1 time«nattarbeid»: arbeid som utføres mellom kl. 00.00 og 07.00.
+I forskriften betyr
+
+1. «arbeidstid»: tiden hvor det skal utføres arbeid i forbindelse med fartøyets drift
+2. «fiskefartøy»: fartøy som ervervsmessig brukes til fiske, fangst eller høsting av levende ressurser i sjøen
+3. «hviletid»: sammenhengende tidsrom utenfor arbeidstiden på mer enn 1 time
+4. «nattarbeid»: arbeid som utføres mellom kl. 00.00 og 07.00.
 
 ## § 3. Arbeids- og hviletid
 
@@ -46,7 +55,10 @@ Unntak fra bestemmelsene i første og annet ledd kan fastsettes i bindende tarif
 
 Sikkerheten og helsen til dem som har sitt arbeid om bord, skal ivaretas i forbindelse med tilretteleggingen av arbeidet.
 
-Det skal tas særlig hensyn til at det kan være økt fare for sikkerheten og helsen til den somutfører minst tre timer av sin daglige arbeidstid som nattarbeid, eller som forventes å utføre minst 20 prosent av sin årlige arbeidstid som nattarbeid, ellerdeltar i skiftarbeid.
+Det skal tas særlig hensyn til at det kan være økt fare for sikkerheten og helsen til den som
+
+1. utfører minst tre timer av sin daglige arbeidstid som nattarbeid, eller som forventes å utføre minst 20 prosent av sin årlige arbeidstid som nattarbeid, eller
+2. deltar i skiftarbeid.
 
 ## § 5. Spesielt om nattarbeid
 
@@ -60,7 +72,10 @@ Sjøfartsdirektoratet eller andre som er bemyndiget kan til enhver tid føre til
 
 ## § 7. Dispensasjoner
 
-Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet gi unntak fra ett eller flere av kravene i forskriften her. Unntak må ikke være i strid med [ILO-konvensjon nr. 188](traktat/2007-06-14-69), direktiv [2003/88/EF](eu/32003l0088) eller direktiv [(EU) 2017/159](eu/32017l0159) og rederiet må godtgjøre at ett av følgende vilkår er oppfylt:Kravet er ikke vesentlig og unntaket vurderes som helse- og sikkerhetsmessig forsvarlig.Kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet gi unntak fra ett eller flere av kravene i forskriften her. Unntak må ikke være i strid med [ILO-konvensjon nr. 188](traktat/2007-06-14-69), direktiv [2003/88/EF](eu/32003l0088) eller direktiv [(EU) 2017/159](eu/32017l0159) og rederiet må godtgjøre at ett av følgende vilkår er oppfylt:
+
+1. Kravet er ikke vesentlig og unntaket vurderes som helse- og sikkerhetsmessig forsvarlig.
+2. Kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 Sjøfartsdirektoratet kan fastsette særlige vilkår for unntak etter bestemmelsen her.
 

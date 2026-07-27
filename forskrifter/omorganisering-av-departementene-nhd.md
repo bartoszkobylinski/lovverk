@@ -15,7 +15,7 @@ xml_hash: "4f2d564c0105699b8832fd9bc240f18a8076b90bcd6f06ed3c2f82241908cc4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -193,7 +193,23 @@ eu_basis: []
 
 ### 3. Selskaper
 
-Forvaltningen av følgende selskaper ligger i Nærings- og handelsdepartementet fra 1. januar 1997:Arcus ASAS OlivinSvalbard Samfunnsdrift ASKings Bay Kull Comp. ASAS Kongsberg VåpenfabrikkSulitjelma Bergverk ASBjørnøen ASNorsk Hydro ASARaufoss ASAKongsberg Gruppen ASASydvaranger ASAStore Norske Spitsbergen Kullkompani ASNorsk Jern Holding ASNorsk Jetmotor ASNorsk Vekst AS
+Forvaltningen av følgende selskaper ligger i Nærings- og handelsdepartementet fra 1. januar 1997:
+
+- Arcus AS
+- AS Olivin
+- Svalbard Samfunnsdrift AS
+- Kings Bay Kull Comp. AS
+- AS Kongsberg Våpenfabrikk
+- Sulitjelma Bergverk AS
+- Bjørnøen AS
+- Norsk Hydro ASA
+- Raufoss ASA
+- Kongsberg Gruppen ASA
+- Sydvaranger ASA
+- Store Norske Spitsbergen Kullkompani AS
+- Norsk Jern Holding AS
+- Norsk Jetmotor AS
+- Norsk Vekst AS
 
 ### 4. Reguleringer og bestemmelser
 

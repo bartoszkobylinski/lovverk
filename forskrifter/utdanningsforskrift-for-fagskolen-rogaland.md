@@ -15,7 +15,7 @@ xml_hash: "bbfea8274b3957edc2f55c0b1bc672f6600bf831f8d55f53c99e813bf8c6975c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,7 +51,11 @@ eu_basis: []
 - *Læringsutbytte:* det en person vet, kan og er i stand til å gjøre som et resultat av en læringsprosess. Læringsutbytte er beskrevet i kategoriene kunnskap, ferdigheter og generell kompetanse og nærmere beskrevet i Nasjonalt kvalifikasjonsrammeverk.
 - *Realkompetanse:* Realkompetanse er all kompetanse en person har tilegnet seg gjennom formell, ikke-formell og uformell læring. Dette kan være kunnskaper og ferdigheter tilegnet gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter, eller på annen måte.
 - *Realkompetansevurdering:* Kartlegging, vurdering og dokumentering av den realkompetanse en person innehar opp mot kriterier, f.eks. fastsatt i fagplan eller studieplan. Realkompetansevurdering kan gi grunnlag for opptak til fagskoleutdanning eller avkorting av opplæring gjennom godskriving og fritak fra deler av en fagskoleutdanning.
-- *Studiepoeng:* Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Det gis 60 studiepoeng for læringsutbytte oppnådd på bakgrunn av tilsvarende ett års bestått fagskoleutdanning på heltid. Ett års fagskoleutdanning på heltid tilsvarer normalt ti måneder.Dersom fagskoleutdanningen er inndelt i emner, skal hvert emne tildeles studiepoeng etter den relative vekten det har i arbeidsbelastning for studentene og læringsutbytte innenfor utdanningen. Studiepoeng skal brukes ved vurdering av godskriving av utdanning mellom fagskoler og i karakterutskrifter for gjennomførte emner fra fagskoleutdanning.Antallet oppnådde studiepoeng skal fremgå av vitnemål og annen dokumentasjon for fullført fagskoleutdanning.
+- *Studiepoeng:* Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Det gis 60 studiepoeng for læringsutbytte oppnådd på bakgrunn av tilsvarende ett års bestått fagskoleutdanning på heltid. Ett års fagskoleutdanning på heltid tilsvarer normalt ti måneder.
+
+  Dersom fagskoleutdanningen er inndelt i emner, skal hvert emne tildeles studiepoeng etter den relative vekten det har i arbeidsbelastning for studentene og læringsutbytte innenfor utdanningen. Studiepoeng skal brukes ved vurdering av godskriving av utdanning mellom fagskoler og i karakterutskrifter for gjennomførte emner fra fagskoleutdanning.
+
+  Antallet oppnådde studiepoeng skal fremgå av vitnemål og annen dokumentasjon for fullført fagskoleutdanning.
 - *Sluttvurdering:* Sluttvurdering i et emne, se eksamen. Sluttvurdering framkommer på studentens dokumentasjon av fullført utdanning (vitnemål og karakterutskrift).
 - *Student:* en person som er tatt opp og har takket ja til et studietilbud ved Fagskolen Rogaland.
 - *Studieplan:* plan for innholdet i utdanningen og hvordan planen skal gjennomføres fastsatt av styret. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende.
@@ -69,7 +73,10 @@ eu_basis: []
 
 (1) Studierett er en rettighet knyttet til det å være tatt opp som student ved et studium eller et emne, og ha status som student. Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til. Den gir rett til å følge lukket undervisning, eventuell praksis, kurs og seminar og til å gå opp til eksamen i samsvar med gjeldende studieplan. Ved krav om betalt semester eller studieavgift, må denne være innfridd innen angitt frist for å oppnå studierett.
 
-(2) Om studierettens lengde (varighet) gjelder atVed opptak til en utdanning blir studenten tildelt studierett med varighet lik normert studietid for utdanningen.En student som er tatt opp til en utdanning med mellom ett og tre års studietid, kan etter avtale om endring i studieplan (avvikende studieplan), få utvida studieretten i inntil ett år utover normert studietid.
+(2) Om studierettens lengde (varighet) gjelder at
+
+1. Ved opptak til en utdanning blir studenten tildelt studierett med varighet lik normert studietid for utdanningen.
+2. En student som er tatt opp til en utdanning med mellom ett og tre års studietid, kan etter avtale om endring i studieplan (avvikende studieplan), få utvida studieretten i inntil ett år utover normert studietid.
 
 (3) Studieretten faller automatisk bort når studieprogrammet eller emnet er fullført og bestått. En student som har fullført ei utdanning, har rett til å forbedre karakter i inntil ett år etter at utdanningen er fullført. Det vil påløpe egen betaling for forbedringskarakter, jf. [§ 2-6](forskrift/2024-09-19-2345/§2-6) Studieavgift og egenbetaling.
 
@@ -83,7 +90,14 @@ eu_basis: []
 
 ### § 2-3. Tap av studieretten
 
-(1) En student taper studieretten dersom studenten:Ikke betaler studie- eller semesteravgift til fastsatt tid der dette er påkrevd, jf. [§ 2-1 (1)](forskrift/2024-09-19-2345/§2-1/ledd/1)har brukt maksimalt antall forsøk på å gjennomføre et emne, en eksamen eller en praksisperiode som er obligatorisk for studieprogrammet uten godkjent resultat, jf. [§ 3-3](forskrift/2024-09-19-2345/§3-3)Ikke oppfyller kravene til studieprogresjon jf. [§ 2-2](forskrift/2024-09-19-2345/§2-2)Overskrider normert studietid for utdanninga, jf. [§ 2-1 (2) bokstav b](forskrift/2024-09-19-2345/§2-1/ledd/2/bokstav/b)Overskrider avtalt, utvida studierett utover normert studietid for utdanningen, jf. [§ 2-1 (2) bokstav b](forskrift/2024-09-19-2345/§2-1/ledd/2/bokstav/b)Opplyser fagskolen om at studenten har avslutta, eller ønsker å avslutte, utdanningen.
+(1) En student taper studieretten dersom studenten:
+
+1. Ikke betaler studie- eller semesteravgift til fastsatt tid der dette er påkrevd, jf. [§ 2-1 (1)](forskrift/2024-09-19-2345/§2-1/ledd/1)
+2. har brukt maksimalt antall forsøk på å gjennomføre et emne, en eksamen eller en praksisperiode som er obligatorisk for studieprogrammet uten godkjent resultat, jf. [§ 3-3](forskrift/2024-09-19-2345/§3-3)
+3. Ikke oppfyller kravene til studieprogresjon jf. [§ 2-2](forskrift/2024-09-19-2345/§2-2)
+4. Overskrider normert studietid for utdanninga, jf. [§ 2-1 (2) bokstav b](forskrift/2024-09-19-2345/§2-1/ledd/2/bokstav/b)
+5. Overskrider avtalt, utvida studierett utover normert studietid for utdanningen, jf. [§ 2-1 (2) bokstav b](forskrift/2024-09-19-2345/§2-1/ledd/2/bokstav/b)
+6. Opplyser fagskolen om at studenten har avslutta, eller ønsker å avslutte, utdanningen.
 
 (2) Studieretten faller automatisk bort når studieprogrammet eller emnet er fullført og bestått, jf. [§ 2-1](forskrift/2024-09-19-2345/§2-1) (3) i denne forskriften.
 
@@ -107,15 +121,26 @@ eu_basis: []
 
 (1) Studentene ved Fagskolen Rogaland kan opprette studentråd som skal ivareta deres interesser og fremme deres synspunkter. Studenter ved det enkelte studiested og avdeling kan opprette studentorganer på tilsvarende måte, jf. [fagskoleloven § 14](lov/2018-06-08-28/§14).
 
-(2) Styret skal legge forholdene til rette slik at studentorganene kan drive sitt arbeid på en tilfredsstillende måte. Det betyr at:Fagskolen legger til rette for at det årlig velges tillitsvalgt og vara for hver klasse el kull på enkeltutdanninger. Samlet er alle tillitsvalgte studentorgan ved hvert studiested og/ eller avdeling.Studentorganene fastsetter selv organisasjonsform, ansvar og mandat til fagskolens studentråd i egne vedtekter.Studentrådets formål er å representere og arbeide for alle studentene ved Fagskolen Rogaland i saker som angår fagskolen eller studentene tilknyttet studiestedene.Studentrådet og studentorganene skal ta opp saker som er av interesse for studenter og være partipolitisk uavhengige organ.
+(2) Styret skal legge forholdene til rette slik at studentorganene kan drive sitt arbeid på en tilfredsstillende måte. Det betyr at:
+
+1. Fagskolen legger til rette for at det årlig velges tillitsvalgt og vara for hver klasse el kull på enkeltutdanninger. Samlet er alle tillitsvalgte studentorgan ved hvert studiested og/ eller avdeling.
+2. Studentorganene fastsetter selv organisasjonsform, ansvar og mandat til fagskolens studentråd i egne vedtekter.
+3. Studentrådets formål er å representere og arbeide for alle studentene ved Fagskolen Rogaland i saker som angår fagskolen eller studentene tilknyttet studiestedene.
+4. Studentrådet og studentorganene skal ta opp saker som er av interesse for studenter og være partipolitisk uavhengige organ.
 
 (3) Studentorganene skal høres i alle saker som angår studentene, jf. [fagskoleloven § 14 tredje ledd](lov/2018-06-08-28/§14/ledd/3).
 
 ### § 2-6. Studieavgift og egenbetaling
 
-(1) Det kan fastsettes egenbetaling (egenandel) på studier, herunder ev. eksamensavgift for forbedringseksamen, jf. [fagskoleloven § 29](lov/2018-06-08-28/§29). Egenbetalingen gir rett til:Ordinær eksamenFørste gangs kontinuasjonseksamen el utsatt eksamen dersom studenten oppnår ikke bestått / karakteren F eller har gyldig fravær på ordinær eksamen.
+(1) Det kan fastsettes egenbetaling (egenandel) på studier, herunder ev. eksamensavgift for forbedringseksamen, jf. [fagskoleloven § 29](lov/2018-06-08-28/§29). Egenbetalingen gir rett til:
 
-(2) Det kan fastsettes egenbetaling (egenandel), jf. [fagskoleloven § 29](lov/2018-06-08-28/§29), i form av særlig eksamensavgift for:Annen gangs og påfølgende kontinuasjonseksamen dersom studenten oppnådde ikke bestått eller karakteren F på ordinær og påfølgende eksamenForbedringseksamen dersom kandidaten alt har oppnådd bestått eller karakteren E eller bedre.
+1. Ordinær eksamen
+2. Første gangs kontinuasjonseksamen el utsatt eksamen dersom studenten oppnår ikke bestått / karakteren F eller har gyldig fravær på ordinær eksamen.
+
+(2) Det kan fastsettes egenbetaling (egenandel), jf. [fagskoleloven § 29](lov/2018-06-08-28/§29), i form av særlig eksamensavgift for:
+
+1. Annen gangs og påfølgende kontinuasjonseksamen dersom studenten oppnådde ikke bestått eller karakteren F på ordinær og påfølgende eksamen
+2. Forbedringseksamen dersom kandidaten alt har oppnådd bestått eller karakteren E eller bedre.
 
 (3) Det kan tilkomme en årlig studieavgift til kopiering og utskrift av dokumenter, samt ev. læreutstyr.
 
@@ -131,7 +156,44 @@ eu_basis: []
 
 (1) Vurdering og prøving skal gjennomføres på en slik måte at skolen på en upartisk og faglig betryggende måte kan vurdere i hvilken grad studenten har nådd læringsutbyttene som er beskrevet i studieplanen for utdanningen (sluttvurdering), jf. [fagskoleloven § 21 første ledd](lov/2018-06-08-28/§21/ledd/1).
 
-(2) Følgende vurderingsformer blir benyttet for sluttvurdering ved Fagskolen Rogaland, enkeltvis eller i kombinasjon:Skriftlig eksamen:Skriftlig eksamen er en individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Skriftlig eksamen kan gjennomføres på papir eller digitalt.Det gis gradert karakter A–F.Muntlig eksamen:Muntlig eksamen er en eksamen der studenten blir eksaminert av minimum to sensorer. Muntlig eksamen kan bli gitt individuelt eller i grupper.Det gis gradert karakter A–F.Langsvars-eksamen («Hjemmeeksamen»):Langsvars-eksamen («Hjemmeeksamen») er en skriftlig eksamen med fastsatt tid for utlevering av oppgave og innlevering. Problemstilling og tema er gitt av fagskolen. Eksamen kan bli gitt individuelt eller i gruppe.Det gis gradert karakter A–F.Praktisk eksamen:Praktisk eksamen er en eksamen der studenter skal løse praktiske oppgaver. Praktisk eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon.Det gis gradert karakter A–F.Praksis:Praksis som vurderingsform er et eget emne og læringsform og en del av utdanningen som foregår i et relevant yrkesfelt under veiledning og avsluttende vurdering.Gjennomføring og sluttvurdering av praksis skal bygge på skriftlig dokumentasjon av utførte oppgaver og gjennomført veiledning av praksisveileder i praksisperioden. Program for gjennomføring og dokumentasjon av praksis skal framgå av studieplan, eller som praksisprogram i eget vedlegg til studieplanen.Det gis karakter bestått eller ikke-bestått.Hovedprosjekt:Hovedprosjekt er et eget emne som blir gjennomført mot slutten av utdanningen.Forutgående emner i utdanningen må være bestått før hovedprosjekt kan avlegges eller vurderes endelig.Studenter arbeider med en problemstilling relatert til ett eller flere tema i utdanningen og leverer en faglig rapport.Oppgavens problemstilling og tema skal godkjennes av faglig ansvarlig. Det er forventet at prosjektet er relevant for yrkesutøvelse og har en bredde og dybde som speiler innholdet i utdanningen.Hovedprosjekt skal levere prosjektrapport/oppgave som gruppe, vanligvis inntil 4 personer, og det skal framgå hvem som har ansvar for de ulike delene i rapporten. Enkeltstudenter og grupper større enn 4 kan søke utdanningsfaglig ansvarlig for utdanningen om å fravike dette antallet.Studentene har rett og plikt til å motta veiledning på oppgaven og det skal inngås skriftlig plan for veiledningen.Rapporten må være godkjent og bestått før muntlig eksamen kan finne sted. Frist fastsettes av rektor, men ikke kortere enn tre uker før muntlig eksamen.Hovedprosjektet blir avsluttet med en muntlig eksamen basert på problemstilling og faglig innhold i prosjektet og LUB for emnet.Dersom studenten(-e) kun stryker i muntlig del, er det ikke påkrevd å levere ny rapport.Dersom studentene stryker i skriftlig rapport, må rapport utbedres og leveres på nytt før muntlig eksamen kan gjennomføres. Dersom muntlig må utsettes på grunn av manglende innlevering eller innlevering etter frist, telles ett eksamensforsøk.Det gis en prosentvis skår på hver av delene som så vektes og gir en samlet karakter. Det er frivillig om sensor vil benytte prosentvurderingsmetoden, jf. [§ 3-2 (5)](forskrift/2024-09-19-2345/§3-2/ledd/5).Det vises også til [§ 3-5](forskrift/2024-09-19-2345/§3-5) sensur pkt (4), fjerde punktum om ny muntlig prøving ved ny bedømming av skriftlig prøve.Det gis en gradert karakter A–F.
+(2) Følgende vurderingsformer blir benyttet for sluttvurdering ved Fagskolen Rogaland, enkeltvis eller i kombinasjon:
+
+- Skriftlig eksamen:
+
+  - Skriftlig eksamen er en individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Skriftlig eksamen kan gjennomføres på papir eller digitalt.
+  - Det gis gradert karakter A–F.
+- Muntlig eksamen:
+
+  - Muntlig eksamen er en eksamen der studenten blir eksaminert av minimum to sensorer. Muntlig eksamen kan bli gitt individuelt eller i grupper.
+  - Det gis gradert karakter A–F.
+- Langsvars-eksamen («Hjemmeeksamen»):
+
+  - Langsvars-eksamen («Hjemmeeksamen») er en skriftlig eksamen med fastsatt tid for utlevering av oppgave og innlevering. Problemstilling og tema er gitt av fagskolen. Eksamen kan bli gitt individuelt eller i gruppe.
+  - Det gis gradert karakter A–F.
+- Praktisk eksamen:
+
+  - Praktisk eksamen er en eksamen der studenter skal løse praktiske oppgaver. Praktisk eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon.
+  - Det gis gradert karakter A–F.
+- Praksis:
+
+  - Praksis som vurderingsform er et eget emne og læringsform og en del av utdanningen som foregår i et relevant yrkesfelt under veiledning og avsluttende vurdering.
+  - Gjennomføring og sluttvurdering av praksis skal bygge på skriftlig dokumentasjon av utførte oppgaver og gjennomført veiledning av praksisveileder i praksisperioden. Program for gjennomføring og dokumentasjon av praksis skal framgå av studieplan, eller som praksisprogram i eget vedlegg til studieplanen.
+  - Det gis karakter bestått eller ikke-bestått.
+- Hovedprosjekt:
+
+  - Hovedprosjekt er et eget emne som blir gjennomført mot slutten av utdanningen.
+  - Forutgående emner i utdanningen må være bestått før hovedprosjekt kan avlegges eller vurderes endelig.
+  - Studenter arbeider med en problemstilling relatert til ett eller flere tema i utdanningen og leverer en faglig rapport.
+  - Oppgavens problemstilling og tema skal godkjennes av faglig ansvarlig. Det er forventet at prosjektet er relevant for yrkesutøvelse og har en bredde og dybde som speiler innholdet i utdanningen.
+  - Hovedprosjekt skal levere prosjektrapport/oppgave som gruppe, vanligvis inntil 4 personer, og det skal framgå hvem som har ansvar for de ulike delene i rapporten. Enkeltstudenter og grupper større enn 4 kan søke utdanningsfaglig ansvarlig for utdanningen om å fravike dette antallet.
+  - Studentene har rett og plikt til å motta veiledning på oppgaven og det skal inngås skriftlig plan for veiledningen.
+  - Rapporten må være godkjent og bestått før muntlig eksamen kan finne sted. Frist fastsettes av rektor, men ikke kortere enn tre uker før muntlig eksamen.
+  - Hovedprosjektet blir avsluttet med en muntlig eksamen basert på problemstilling og faglig innhold i prosjektet og LUB for emnet.
+  - Dersom studenten(-e) kun stryker i muntlig del, er det ikke påkrevd å levere ny rapport.
+  - Dersom studentene stryker i skriftlig rapport, må rapport utbedres og leveres på nytt før muntlig eksamen kan gjennomføres. Dersom muntlig må utsettes på grunn av manglende innlevering eller innlevering etter frist, telles ett eksamensforsøk.
+  - Det gis en prosentvis skår på hver av delene som så vektes og gir en samlet karakter. Det er frivillig om sensor vil benytte prosentvurderingsmetoden, jf. [§ 3-2 (5)](forskrift/2024-09-19-2345/§3-2/ledd/5).
+  - Det vises også til [§ 3-5](forskrift/2024-09-19-2345/§3-5) sensur pkt (4), fjerde punktum om ny muntlig prøving ved ny bedømming av skriftlig prøve.
+  - Det gis en gradert karakter A–F.
 
 (3) Rektor kan gi utfyllende forskrift om forhold som er særegne for den enkelte eksamen, ev. grupper av eksamen innen et eller flere fagområder eller grader, jf. [fagskoleloven § 21 femte ledd](lov/2018-06-08-28/§21/ledd/5).
 
@@ -211,7 +273,14 @@ Engelsk:
 
 (4) Sensur kan ikke bli fastsatt dersom studenten ikke har oppfylt de enkelte arbeidskravene for et emne. Retten til å gå opp til eksamen er nærmere regulert i [§ 3-3](forskrift/2024-09-19-2345/§3-3) i denne forskriften.
 
-(5) Dersom det benyttes prosentvurderingsmetode, skal både prosentvis skår og vekting som gir endelig karakter framgå av studieplanen. Følgende karakterskala benyttes for prosentvurderingsmetoden om ikke annet er gitt i forskrift, jf. [§ 3-1 (3)](forskrift/2024-09-19-2345/§3-1/ledd/3). Karakterskala for prosentvurderingsmetode:89–100 poeng77–88 poeng65–76 poeng53–64 poeng41–52 poeng0–40 poeng.
+(5) Dersom det benyttes prosentvurderingsmetode, skal både prosentvis skår og vekting som gir endelig karakter framgå av studieplanen. Følgende karakterskala benyttes for prosentvurderingsmetoden om ikke annet er gitt i forskrift, jf. [§ 3-1 (3)](forskrift/2024-09-19-2345/§3-1/ledd/3). Karakterskala for prosentvurderingsmetode:
+
+1. 89–100 poeng
+2. 77–88 poeng
+3. 65–76 poeng
+4. 53–64 poeng
+5. 41–52 poeng
+6. 0–40 poeng.
 
 ### § 3-3. Rett til å gå opp til eksamen
 
@@ -225,7 +294,13 @@ Engelsk:
 
 (5) En student har rett til å framstille seg til eksamen i samme emne inntil tre ganger. Fagskolen Rogaland ved rektor kan etter søknad fra studenten gi dispensasjon for et fjerde forsøk, dersom særlige forhold foreligger.
 
-(6) Studenten anses for å ha møtt til eksamen dersom studenten:trekker seg etter frist for å melde seg avtrekker seg under eksamenikke møterikke leverer besvarelse ellerikke kan avlegge eksamen på grunn av manglende arbeidskrav.
+(6) Studenten anses for å ha møtt til eksamen dersom studenten:
+
+1. trekker seg etter frist for å melde seg av
+2. trekker seg under eksamen
+3. ikke møter
+4. ikke leverer besvarelse eller
+5. ikke kan avlegge eksamen på grunn av manglende arbeidskrav.
 
 (7) Gyldig fraværsårsak ved eksamen er sykdom eller sterke velferdsgrunner. Slike årsaker skal dokumenteres. Dokumentasjon skal bli levert eller være poststemplet så snart som mulig og senest innen tre virkedager etter eksamen.
 
@@ -323,7 +398,14 @@ Engelsk:
 
 (4) Spesielt for maritim utdanning: Det kan etter søknad gis godskriving og fritak i emner som inngår i opplæringstilbudet, dersom vedkommende tidligere har bestått sluttvurdering etter plan for skipsoffiserutdanningen i fagskolen, eller dersom vedkommende har gyldig sertifikat som skipsoffiser klasse 4 eller høyere. Det kan ikke gis fritak for emner underlagt [forskrift om kvalifikasjoner og sertifikater for sjøfolk](forskrift/2011-12-22-1523) der eksaminasjonen er eldre enn 5 år når studenten ville vært ferdig med sin fagskoleutdanning, jf. [forskrift om kvalifikasjoner og sertifikater for sjøfolk § 18 (1)](forskrift/2011-12-22-1523/§18/ledd/1).
 
-(5) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet / kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.Rektor kan gi nærmere og utfyllende bestemmelser for hvordan godskriving, fritak og vurdering av realkompetanse skal gjennomføres og dokumenteres for å sikre den faglige vurderingen og helhetlige kompetansen av søkeren.
+(5) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet / kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
+
+Rektor kan gi nærmere og utfyllende bestemmelser for hvordan godskriving, fritak og vurdering av realkompetanse skal gjennomføres og dokumenteres for å sikre den faglige vurderingen og helhetlige kompetansen av søkeren.
 
 (6) Ved vedtak om godskriving og fritak gjelder [forvaltningsloven kapittel III–](lov/1967-02-10/kapIII)VI og [VIII](lov/1967-02-10/kapVIII), jf. [fagskoleloven § 39 andre ledd](lov/2018-06-08-28/§39/ledd/2). Vedtak om godskriving og fritak for emner blir fattet av rektor ved Fagskolen Rogaland, og studentene kan klage til den lokale klagenemnda, jf. [fagskoleloven § 8 tredje ledd](lov/2018-06-08-28/§8/ledd/3), jf. [§ 20](lov/2018-06-08-28/§20). Klage blir beskrevet nærmere i kapittel 5 i denne forskriften.
 
@@ -351,7 +433,20 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake ved en sene
 
 (2) En student som ikke har fullført fagskoleutdanning, kan be om en karakterutskrift som viser beståtte emner og prøver og andre vurderinger studenten har fått, jf. [fagskoleloven § 19 første ledd](lov/2018-06-08-28/§19/ledd/1).
 
-(3) Vitnemålet skal vise:fagskolens og utdanningens navnkandidatens navn og fødselsnummeren beskrivelse av karaktersystemetkandidatens karaktererdet overordnede læringsutbyttet for utdanningenutdanningens emner og eventuell praksisnivå i Nasjonalt kvalifikasjonsrammeverk for livslang læringantall studiepoeng og eventuell gradsbetegnelsedatoen for når vitnemålet er utstedt.tittel og kort omtale av hovedprosjektet skal gå fram av vitnemålet.Dersom utdanningen har krav om skikkethetsvurdering, skal vitnemålet vise dette.
+(3) Vitnemålet skal vise:
+
+1. fagskolens og utdanningens navn
+2. kandidatens navn og fødselsnummer
+3. en beskrivelse av karaktersystemet
+4. kandidatens karakterer
+5. det overordnede læringsutbyttet for utdanningen
+6. utdanningens emner og eventuell praksis
+7. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring
+8. antall studiepoeng og eventuell gradsbetegnelse
+9. datoen for når vitnemålet er utstedt.
+10. tittel og kort omtale av hovedprosjektet skal gå fram av vitnemålet.
+
+Dersom utdanningen har krav om skikkethetsvurdering, skal vitnemålet vise dette.
 
 (4) Om en student får godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til.
 
@@ -375,7 +470,10 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake ved en sene
 
 ### § 4-1. Bortvisning og utestenging
 
-(1) Definisjon:*Bortvisning:* Betyr at studenten kan nektes tilgang til bestemte områder eller i bestemte sammenhenger, men innebærer ikke at studenten mister retten til å gå opp til eksamen.*Utestenging:* Innebærer at studenten mister retten til å gå opp til eksamen.
+(1) Definisjon:
+
+1. *Bortvisning:* Betyr at studenten kan nektes tilgang til bestemte områder eller i bestemte sammenhenger, men innebærer ikke at studenten mister retten til å gå opp til eksamen.
+2. *Utestenging:* Innebærer at studenten mister retten til å gå opp til eksamen.
 
 (2) Uønska og forstyrrende atferd av mildere karakter, som likevel krever at fagskolen griper inn av hensyn til undervisningen, andre studenter og/eller tilsatte, kan med hjemmel i privat eiendomsrett medføre bortvising av studenter. Slik bortvising må ikke bli forvekslet med bortvising etter tredje ledd som regulerer grovere tilfeller av forstyrrende atferd, og kor skolen kan vedta bortvising over lengre tid.
 
@@ -441,7 +539,10 @@ Fornya vandelskontroll kan kreves underveis i utdanninga i samsvar med [politire
 
 (1) Politiattest med merknad er regulert i [fagskoleforskriften § 23](forskrift/2019-07-11-1005/§23).
 
-(2) Den lokale klagenemnda ved fagskolen vurderer og fatter vedtak om en student skal miste retten til å delta i klinisk undervisning eller praksis basert på politiattest, jf. [fagskoleloven § 27 sjuende ledd](lov/2018-06-08-28/§27/ledd/7). Forhold som kan føre til utestenging fra klinisk undervisning eller praksis er der deltaking må anses som uforsvarlig fordi:studenten er dømt eller har vedtatt et forelegg for et straffbart forhold som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1), jf. [fagskoleloven § 27 femte ledd](lov/2018-06-08-28/§27/ledd/5), ellerstudenten er sikta eller tiltalt for et straffbart forhold som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1), jf. [fagskoleloven § 27 sjette ledd](lov/2018-06-08-28/§27/ledd/6).
+(2) Den lokale klagenemnda ved fagskolen vurderer og fatter vedtak om en student skal miste retten til å delta i klinisk undervisning eller praksis basert på politiattest, jf. [fagskoleloven § 27 sjuende ledd](lov/2018-06-08-28/§27/ledd/7). Forhold som kan føre til utestenging fra klinisk undervisning eller praksis er der deltaking må anses som uforsvarlig fordi:
+
+1. studenten er dømt eller har vedtatt et forelegg for et straffbart forhold som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1), jf. [fagskoleloven § 27 femte ledd](lov/2018-06-08-28/§27/ledd/5), eller
+2. studenten er sikta eller tiltalt for et straffbart forhold som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1), jf. [fagskoleloven § 27 sjette ledd](lov/2018-06-08-28/§27/ledd/6).
 
 (3) En student kan klage på vedtak om utestenging etter denne forskriften til Nasjonal klagenemnd for høyere yrkesfaglig utdanning, jf. [fagskoleloven § 27 åttende ledd](lov/2018-06-08-28/§27/ledd/8). Klage blir beskrevet nærmere i kapittel 5 i denne forskriften.
 
@@ -451,19 +552,42 @@ Fornya vandelskontroll kan kreves underveis i utdanninga i samsvar med [politire
 
 (1) Fagskolen Rogaland skal opprette ei lokal klagenemnd som skal behandle klager på enkeltvedtak som er gjort av fagskolen. Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være ansatt ved fagskolen. To av medlemmene skal være studenter. Den lokale Klagenemnda er vedtaksfør når lederen eller vara for lederen og minst to andre medlemmer er til stede, jf. [fagskoleloven § 20 andre](lov/2018-06-08-28/§20/ledd/2) og [tredje ledd](lov/2018-06-08-28/§20/ledd/3).
 
-(2) Den lokale klagenemnden behandler klager på enkeltvedtak, herunder, men ikke avgrenset til:formelle feil ved eksamen, prøve eller liknendetilrettelegging av eksamen eller prøveopptak på grunnlag av realkompetanse aller spesielle opptakskravfritak eller godskriving av emnetap av studierettbortvisning på grunnlag av klesplagg som helt eller delvis dekker ansiktet.
+(2) Den lokale klagenemnden behandler klager på enkeltvedtak, herunder, men ikke avgrenset til:
+
+1. formelle feil ved eksamen, prøve eller liknende
+2. tilrettelegging av eksamen eller prøve
+3. opptak på grunnlag av realkompetanse aller spesielle opptakskrav
+4. fritak eller godskriving av emne
+5. tap av studierett
+6. bortvisning på grunnlag av klesplagg som helt eller delvis dekker ansiktet.
 
 (3) Vedtak i fattet av den lokale klagenemnden i saker som gjelder fagskolens enkeltvedtak, kan ikke påklages, jf. [fagskoleloven § 20, fjerde ledd](lov/2018-06-08-28/§20/ledd/4).
 
-(4) Den lokale klagenemnda fatter selv enkeltvedtak i saker av med alvorlig karakter etter innstilling fra fagskolen, jf. [fagskoleloven § 20 første ledd](lov/2018-06-08-28/§20/ledd/1). Saker som den lokale klagenemnda kan avgjøre, er som følger:annullering av godskriving, fritak, resultat ved eksamen, prøve eller liknende eller godkjenning av emnebortvisningutestengingskikkethetsvurdering og utestenging på dette grunnlaginndragning og karantenetid ved bruk av falske dokument ved opptaktap av rettighet knyttet til politiattest.
+(4) Den lokale klagenemnda fatter selv enkeltvedtak i saker av med alvorlig karakter etter innstilling fra fagskolen, jf. [fagskoleloven § 20 første ledd](lov/2018-06-08-28/§20/ledd/1). Saker som den lokale klagenemnda kan avgjøre, er som følger:
+
+1. annullering av godskriving, fritak, resultat ved eksamen, prøve eller liknende eller godkjenning av emne
+2. bortvisning
+3. utestenging
+4. skikkethetsvurdering og utestenging på dette grunnlag
+5. inndragning og karantenetid ved bruk av falske dokument ved opptak
+6. tap av rettighet knyttet til politiattest.
 
 (5) Nasjonal klagenemnd for fagskoleutdanning er klageinstans for klager på enkeltvedtak fattet av den lokale klagenemnda som førsteinstans. Det samme gjelder for ordinært opptak gjennom Samordna opptak.
 
 ### § 5-2. Framgangsmåte og frister
 
-(1) Ved klage til Fagskolen Rogaland gjelder følgende:Klager må være part i saken eller ha rettslig klageinteresse,klage må være framsatt senest tre uker etter at vedtaket er gjort kjent for klager, eller klager har hatt rimelig tid til å gjøre seg kjent med vedtaket,vedtaket må være av en slik art at det kan påklages.
+(1) Ved klage til Fagskolen Rogaland gjelder følgende:
 
-(2) Klagen skal være skriftlig og sendes til fagskolen sitt postmottak ved rektor. Klagen skal inneholde:hvem som klager (navn og adresse)vedtaket/forhold det klages overhva klagen gjelderdato og underskrift.
+1. Klager må være part i saken eller ha rettslig klageinteresse,
+2. klage må være framsatt senest tre uker etter at vedtaket er gjort kjent for klager, eller klager har hatt rimelig tid til å gjøre seg kjent med vedtaket,
+3. vedtaket må være av en slik art at det kan påklages.
+
+(2) Klagen skal være skriftlig og sendes til fagskolen sitt postmottak ved rektor. Klagen skal inneholde:
+
+1. hvem som klager (navn og adresse)
+2. vedtaket/forhold det klages over
+3. hva klagen gjelder
+4. dato og underskrift.
 
 (3) Klageinstansen skal forberede og avgjøre en sak uten ugrunnet opphold. I saker som gjelder enkeltvedtak skal fagskolen gi foreløpig svar dersom saken ikke kan svares på innen en måned etter at den er mottatt, jf. [forvaltningsloven § 11a](lov/1967-02-10/§11a).
 

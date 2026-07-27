@@ -50,7 +50,11 @@ Fylkeskommunen skal tilby nødvendige tannhelsetjenester av allmenn økonomisk b
 
 ## § 5. Plikt til å fordele inntekter og kostnader mellom de forskjellige delene av virksomheten og til å utarbeide atskilte regnskaper
 
-Fylkeskommunen skal fordele inntekter og kostnader og utarbeide atskilte regnskaper for følgende deler av virksomheten:Ikke-økonomiske tannhelsetjenesterØkonomiske tannhelsetjenester som utgjør tjenester av allmenn økonomisk betydningAndre økonomiske tannhelsetjenester (kommersielle tannhelsetjenester).
+Fylkeskommunen skal fordele inntekter og kostnader og utarbeide atskilte regnskaper for følgende deler av virksomheten:
+
+1. Ikke-økonomiske tannhelsetjenester
+2. Økonomiske tannhelsetjenester som utgjør tjenester av allmenn økonomisk betydning
+3. Andre økonomiske tannhelsetjenester (kommersielle tannhelsetjenester).
 
 Alle direkte og indirekte inntekter og kostnader og en forholdsmessig andel av felleskostnadene skal fordeles mellom de forskjellige deler av virksomheten etter konsekvent anvendte og objektivt begrunnede prinsipper. Fordelingen skal på en korrekt måte gjenspeile den fylkeskommunale tannhelsetjenestens økonomiske og organisasjonsmessige struktur.
 

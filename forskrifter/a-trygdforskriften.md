@@ -28,7 +28,10 @@ Formålet med forskriften er å gi fiskere og fangstfolk delvis dekning for bort
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for arbeidsføre fiskere og fangstfolk som:er oppført på blad B eller oppfyller betingelsene for opptak på blad B i fiskermanntallet, oghar deltatt på merkeregistrert fiskefartøy på minimum 6 meters lengde.
+Forskriften gjelder for arbeidsføre fiskere og fangstfolk som:
+
+1. er oppført på blad B eller oppfyller betingelsene for opptak på blad B i fiskermanntallet, og
+2. har deltatt på merkeregistrert fiskefartøy på minimum 6 meters lengde.
 
 Forskriften gjelder likevel bare de som deltar om bord på fartøy, uansett om vedkommende oppebærer lott eller hyre, og de som er tilsatt til å arbeide på land og som utelukkende lønnes med hel lott.
 
@@ -36,13 +39,23 @@ Styret i Garantikassen for fiskere kan i spesielle tilfelle utvide virkeområdet
 
 ## § 3. Forhold som gir rett til dagpenger til fiskere og fangstfolk med fartøytilknytning
 
-Fiskere og fangstfolk som er tilsatt på fartøy har rett til dagpenger når:fartøy blir satt ut av drift grunnet havari, forlis eller sykdom blant mannskapet.det oppstår ekstraordinære ishindringer for fartøy som normalt ville deltatt i et aktuelt fiske eller en aktuell fangst.et fartøy ikke kan komme i gang med fiske eller fangst på grunn av mannskapsmangel, og hvor en del av mannskapet allerede er tilsatt. Behovet for ytterligere arbeidskraft må være meddelt Arbeids- og velferdsetaten.det iverksettes streik eller lockout av partene innen foredlings- og produksjonssektoren på land, og som derved hindrer fiskere og fangstfolk i å levere fangster eller drive fiske og fangst.det ved verkstedopphold oppstår uforutsette forsinkelser som medfører lengre avbrudd enn forutsatt.et fartøy blir tatt ut av fiske eller fangst etter pålegg fra kontrollerende myndigheter. Ordinær klassing og vedlikeholdsarbeid gir ikke rett til dagpenger.
+Fiskere og fangstfolk som er tilsatt på fartøy har rett til dagpenger når:
+
+1. fartøy blir satt ut av drift grunnet havari, forlis eller sykdom blant mannskapet.
+2. det oppstår ekstraordinære ishindringer for fartøy som normalt ville deltatt i et aktuelt fiske eller en aktuell fangst.
+3. et fartøy ikke kan komme i gang med fiske eller fangst på grunn av mannskapsmangel, og hvor en del av mannskapet allerede er tilsatt. Behovet for ytterligere arbeidskraft må være meddelt Arbeids- og velferdsetaten.
+4. det iverksettes streik eller lockout av partene innen foredlings- og produksjonssektoren på land, og som derved hindrer fiskere og fangstfolk i å levere fangster eller drive fiske og fangst.
+5. det ved verkstedopphold oppstår uforutsette forsinkelser som medfører lengre avbrudd enn forutsatt.
+6. et fartøy blir tatt ut av fiske eller fangst etter pålegg fra kontrollerende myndigheter. Ordinær klassing og vedlikeholdsarbeid gir ikke rett til dagpenger.
 
 Mottaker av dagpenger etter første ledd vil etter 8 uker bli stilt disponibel for arbeidsmarkedet og må erklære seg villig til å ta tilvist høvelig arbeid for videre å ha rett til utbetaling av dagpenger.
 
 ## § 4. Forhold som gir rett til dagpenger til fiskere og fangsfolk uten fartøytilknytning
 
-Fiskere og fangstfolk som ikke er tilsatt på fartøy, og som er disponible for arbeidsmarkedet, har rett til dagpenger når:det foreligger en skriftlig oppsigelse fra båteier eller høvedsmann på det fartøyet hvor vedkommende sist var tilsatt. Dersom fiskere og fangstfolk blir oppsagt på grunn av fangststopp som følge av reguleringer, sesongavslutning eller leveringsvansker, vil vedkommende ha rett til dagpenger etter en karenstid på 4 uker fra søknadstidspunktet.vedkommende ikke kommer på fiske eller fangst og har meldt seg ledig etter avsluttet militærtjeneste, sykdom, salg eller kondemnering av fartøy.
+Fiskere og fangstfolk som ikke er tilsatt på fartøy, og som er disponible for arbeidsmarkedet, har rett til dagpenger når:
+
+1. det foreligger en skriftlig oppsigelse fra båteier eller høvedsmann på det fartøyet hvor vedkommende sist var tilsatt. Dersom fiskere og fangstfolk blir oppsagt på grunn av fangststopp som følge av reguleringer, sesongavslutning eller leveringsvansker, vil vedkommende ha rett til dagpenger etter en karenstid på 4 uker fra søknadstidspunktet.
+2. vedkommende ikke kommer på fiske eller fangst og har meldt seg ledig etter avsluttet militærtjeneste, sykdom, salg eller kondemnering av fartøy.
 
 Dersom fiskere eller fangstfolk har sagt opp eller sluttet uten rimelig grunn, eller er avskjediget eller oppsagt på grunn av forhold som kan bebreides vedkommende, kan dagpenger tilstås etter en karenstid på 8 uker fra den dag vedkommende søker om dagpenger.
 
@@ -50,7 +63,19 @@ Første ledd gjelder ikke for båteiere eller enefiskere. Som båteier regnes de
 
 ## § 5. Forhold som ikke gir rett til dagpenger
 
-Fiskere og fangstfolk har ikke rett til dagpenger når vedkommende:deltar i streik eller er omfattet av lockout eller annen arbeidstvist.Det samme gjelder dersom vedkommende uten å delta i tvisten er blitt ledig ved fartøyet tvisten omfatter, og det antas at vedkommendes lønns- eller arbeidsvilkår vil påvirkes av utfallet.er blitt arbeidsløs på grunn av bestemmelser i [sjømannsloven § 15](lov/1975-05-30-18/§15).nekter å ta tilvist høvelig arbeid. Retten til dagpenger faller ikke bort om vedkommende nekter å ta arbeid som er blitt ledig på grunn av arbeidstvist godkjent av avtaleparter tvisten gjelder, og som ikke er kjent ugyldig ved dom.uten rimelig grunn nekter å delta i yrkesopplæring, omskolering eller yrkesmessig attføring som det kan gis tilskudd til etter lov om folketrygd, eller underkaste seg undersøkelse i forbindelse med forsøk på omskolering eller yrkesmessig attføring.uten rimelig grunn har unnlatt å skaffe seg inntekt i ledighetsperioden, ved tilgjengelig høvelig arbeid eller selvstendig virksomhet.avtjener verneplikt.har gratis opphold i offentlig anstalt. Departementet kan fastsette regler om avvik fra denne bestemmelse.oppholder seg utenfor riket under den periode han er meldt arbeidsledig.oppebærer garantilott.
+Fiskere og fangstfolk har ikke rett til dagpenger når vedkommende:
+
+1. deltar i streik eller er omfattet av lockout eller annen arbeidstvist.
+
+   Det samme gjelder dersom vedkommende uten å delta i tvisten er blitt ledig ved fartøyet tvisten omfatter, og det antas at vedkommendes lønns- eller arbeidsvilkår vil påvirkes av utfallet.
+2. er blitt arbeidsløs på grunn av bestemmelser i [sjømannsloven § 15](lov/1975-05-30-18/§15).
+3. nekter å ta tilvist høvelig arbeid. Retten til dagpenger faller ikke bort om vedkommende nekter å ta arbeid som er blitt ledig på grunn av arbeidstvist godkjent av avtaleparter tvisten gjelder, og som ikke er kjent ugyldig ved dom.
+4. uten rimelig grunn nekter å delta i yrkesopplæring, omskolering eller yrkesmessig attføring som det kan gis tilskudd til etter lov om folketrygd, eller underkaste seg undersøkelse i forbindelse med forsøk på omskolering eller yrkesmessig attføring.
+5. uten rimelig grunn har unnlatt å skaffe seg inntekt i ledighetsperioden, ved tilgjengelig høvelig arbeid eller selvstendig virksomhet.
+6. avtjener verneplikt.
+7. har gratis opphold i offentlig anstalt. Departementet kan fastsette regler om avvik fra denne bestemmelse.
+8. oppholder seg utenfor riket under den periode han er meldt arbeidsledig.
+9. oppebærer garantilott.
 
 Ledighet som varer under 3 dager gir ikke rett til dagpenger.
 
@@ -86,9 +111,17 @@ Garantikassen for fiskere bestemmer hvordan søknadsprosess og melding om fortsa
 
 ## § 8. Krav til minsteinntekt
 
-For å få rett til dagpenger må fiskere og fangstfolk:i det siste ferdiglignede kalenderåret før det søkes om stønad, ha hatt inntekt fra fiske eller fangst som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, elleri løpet av de siste tre ferdiglignede kalenderårene før det søkes om stønad, ha hatt inntekt fra fiske eller fangst som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.
+For å få rett til dagpenger må fiskere og fangstfolk:
 
-For fiskere og fangstfolk som ikke fyller vilkårene i første ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i grunnlaget for minsteinntekt, dersom:vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, ogvedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.Biinntekt fra et arbeidsforhold som vedkommende fortsatt står i inngår ikke i grunnlaget for minsteinntekt.
+1. i det siste ferdiglignede kalenderåret før det søkes om stønad, ha hatt inntekt fra fiske eller fangst som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller
+2. i løpet av de siste tre ferdiglignede kalenderårene før det søkes om stønad, ha hatt inntekt fra fiske eller fangst som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.
+
+For fiskere og fangstfolk som ikke fyller vilkårene i første ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i grunnlaget for minsteinntekt, dersom:
+
+1. vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, og
+2. vedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.
+
+Biinntekt fra et arbeidsforhold som vedkommende fortsatt står i inngår ikke i grunnlaget for minsteinntekt.
 
 Inntekt fra deltakelse i arbeidsmarkedstiltak inngår ikke i grunnlaget for minsteinntekt.
 
@@ -100,7 +133,12 @@ Dagpengegrunnlaget fastsettes ut fra vedkommendes utbetalte inntekt fra fiske og
 
 Dagpenger under arbeidsløshet, garantilott, sykepenger, omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger tas også med i dagpengegrunnlaget når rett til stønad er opptjent som arbeidstaker.
 
-Dersom fiskere og fangsfolk ikke har hatt inntekt som nevnt i andre ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i dagpengegrunnlaget dersom:vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, ogvedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.Biintekt fra et arbeidsforhold som vedkommende fortsatt står i, regnes ikke med i dagpengegrunnlaget.
+Dersom fiskere og fangsfolk ikke har hatt inntekt som nevnt i andre ledd, skal annen arbeidsinntekt likestilles med inntekt fra fiske og fangst i dagpengegrunnlaget dersom:
+
+1. vedkommende har arbeidet i fiske og fangst i de foregående 12 uker, og
+2. vedkommende i kalenderårene som ligger til grunn for beregningene i første ledd ikke var oppført, eller oppfylte betingelsene for opptak, på blad B i fiskermanntallet.
+
+Biintekt fra et arbeidsforhold som vedkommende fortsatt står i, regnes ikke med i dagpengegrunnlaget.
 
 Inntekt over seks ganger folketrygdens grunnbeløp regnes ikke med i dagpengegrunnlaget.
 
@@ -134,7 +172,11 @@ Dagpenger som er utbetalt på grunnlag av uriktige eller mangelfulle opplysninge
 
 Krav om tilbakebetaling av utbetalte dagpenger er tvangsgrunnlag for utlegg.
 
-Styret i Garantikassen for fiskere kan ved grove brudd på forskriften:gi vedkommende skriftlig advarsel,utestenge vedkommende i 12 uker første gang og inntil 26 uker ved gjentakelser innen de siste tre årene, ellerpolitianmelde vedkommende.
+Styret i Garantikassen for fiskere kan ved grove brudd på forskriften:
+
+1. gi vedkommende skriftlig advarsel,
+2. utestenge vedkommende i 12 uker første gang og inntil 26 uker ved gjentakelser innen de siste tre årene, eller
+3. politianmelde vedkommende.
 
 ## § 14. Vedtak og saksbehandling
 

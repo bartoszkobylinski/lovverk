@@ -15,7 +15,7 @@ xml_hash: "22c8d632452c5c1598837c38b9d109b475ee526a52404821629027ff7f3b8445"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,11 +70,20 @@ Departementet kan gi forskrift om at salg til utlandet av fisk, fiskevarer og ma
 
 ## § 6. Avgift
 
-Departementet kan fastsette forskrift om at det skal svares:en årlig avgift til Sjømatrådet som betales av den enkelte eksportør,en avgift beregnet av fob-verdien ved eksport av varer som omfattes av loven her.
+Departementet kan fastsette forskrift om at det skal svares:
+
+1. en årlig avgift til Sjømatrådet som betales av den enkelte eksportør,
+2. en avgift beregnet av fob-verdien ved eksport av varer som omfattes av loven her.
 
 Avgiftens størrelse fastsettes av departementet. Avgift som oppkreves etter første ledds bokstav b) er tvangsgrunnlag for utlegg.
 
-Avgift som innbetales i medhold av paragrafen her, kan bl.a. nyttes til:administrative kostnader ved drift av Sjømatrådetkontroll etter § 7 i loven herinformasjon til næringeninnenlands og utenlands markedstiltakannet eksportfremmende arbeid.
+Avgift som innbetales i medhold av paragrafen her, kan bl.a. nyttes til:
+
+- administrative kostnader ved drift av Sjømatrådet
+- kontroll etter § 7 i loven her
+- informasjon til næringen
+- innenlands og utenlands markedstiltak
+- annet eksportfremmende arbeid.
 
 Departementet gir nærmere bestemmelser om oppkreving og anvendelse av innkomne avgiftsmidler. Departementet kan bestemme at en bestemt del av midlene skal gis som tilskudd til driften av en interesseorganisasjon for produsenter og eksportører.
 

@@ -28,7 +28,12 @@ Formålet med tilskudd etter denne forskriften er å bidra til at storfe- og svi
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med*semintekniker:* Inseminør godkjent av Mattilsynet i medhold av [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) med tilhørende forskrifter.*godkjent avlsstasjon:* Avlsstasjon som er godkjent i medhold av [matloven og lov 4. desember 1992 nr. 130](lov/1992-12-04-130) om husdyravl (husdyravlsloven), med tilhørende forskrifter.*egenandel:* Det som brukeren selv betaler av kostnader ved inseminering og forsendelse. Produksjonskostnader for sæddoser til utsendelse fra distributør i Norge regnes ikke inn i grunnlaget for egenandelen.*distributør:* Avlslag eller foretak som har som formål å distribuere sæd fra godkjent avlsstasjon i Norge eller sæd fra godkjent utenlandsk avlsorganisasjon/selskap fra importlager i Norge.
+I denne forskrift forstås med
+
+1. *semintekniker:* Inseminør godkjent av Mattilsynet i medhold av [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) med tilhørende forskrifter.
+2. *godkjent avlsstasjon:* Avlsstasjon som er godkjent i medhold av [matloven og lov 4. desember 1992 nr. 130](lov/1992-12-04-130) om husdyravl (husdyravlsloven), med tilhørende forskrifter.
+3. *egenandel:* Det som brukeren selv betaler av kostnader ved inseminering og forsendelse. Produksjonskostnader for sæddoser til utsendelse fra distributør i Norge regnes ikke inn i grunnlaget for egenandelen.
+4. *distributør:* Avlslag eller foretak som har som formål å distribuere sæd fra godkjent avlsstasjon i Norge eller sæd fra godkjent utenlandsk avlsorganisasjon/selskap fra importlager i Norge.
 
 ## § 3. Grunnvilkår
 
@@ -48,7 +53,11 @@ Tilskuddsmidlene skal fordeles forholdsmessig mellom søkerne på bakgrunn av hv
 
 ## § 5. Fastsettelse og innkreving av egenandel fra bruker
 
-Distributøren kan fastsette og kreve inn egenandel fra bruker forinseminering gjennomført av veterinær eller semintekniker,sæd som veterinær og semintekniker benytter ved inseminering ogdistribusjon av sæd som benyttes ved eierinseminasjon.
+Distributøren kan fastsette og kreve inn egenandel fra bruker for
+
+1. inseminering gjennomført av veterinær eller semintekniker,
+2. sæd som veterinær og semintekniker benytter ved inseminering og
+3. distribusjon av sæd som benyttes ved eierinseminasjon.
 
 Egenandelen skal holdes på omtrent samme nivå i hele landet. Ved inseminering gjennomført av veterinær eller semintekniker, skal egenandelen settes slik at den gjenspeiler forskjellen i de faktiske kostnadene for de respektive gruppene, likevel slik at egenandelen kan holdes på omtrent samme nivå i hele landet.
 
@@ -60,7 +69,13 @@ Prinsippet om lik egenandel kan fravikes i de tilfeller der det inseminerende pe
 
 Søknad om tilskudd for påfølgende år sendes til Landbruksdirektoratet. Søknadsfristen er 1. oktober.
 
-Vedlagt søknaden skal det følgeregnskap for foregående år som viser kostnadene innenfor hvert enkelt område som betjenes av henholdsvis veterinær, semintekniker eller eier/røkter,dokumentasjon på hvor mye tilskuddsmidler distributøren har brukt på å utjevne produsentenes egenandel i hvert enkelt fylke i forhold til det rimeligste fylket søker opererer i,statistikk som viser antall førstegangsinsemineringer og insemineringer gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser til eierinseminering per fylke,prognose for antall inseminasjoner pr. fylke fordelt gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser for bruk til eierinseminasjon for søknadsåret ogprognose for hvor mye tilskuddsmidler det er behov for dersom egenandelen skal kunne settes lik de faktiske inseminasjon- og distribusjonskostnadene i det rimeligste område distributøren operer.
+Vedlagt søknaden skal det følge
+
+1. regnskap for foregående år som viser kostnadene innenfor hvert enkelt område som betjenes av henholdsvis veterinær, semintekniker eller eier/røkter,
+2. dokumentasjon på hvor mye tilskuddsmidler distributøren har brukt på å utjevne produsentenes egenandel i hvert enkelt fylke i forhold til det rimeligste fylket søker opererer i,
+3. statistikk som viser antall førstegangsinsemineringer og insemineringer gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser til eierinseminering per fylke,
+4. prognose for antall inseminasjoner pr. fylke fordelt gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser for bruk til eierinseminasjon for søknadsåret og
+5. prognose for hvor mye tilskuddsmidler det er behov for dersom egenandelen skal kunne settes lik de faktiske inseminasjon- og distribusjonskostnadene i det rimeligste område distributøren operer.
 
 Regnskap og oppgaver skal være attestert av statsautorisert revisor.
 

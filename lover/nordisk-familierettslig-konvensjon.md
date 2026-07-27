@@ -15,7 +15,7 @@ xml_hash: "70485345772523c9b55603c7ed135e3de335b5e4914398c3498de975e4e274f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,10 @@ Gyldigheten av bestemmelsene i en ektepakt bedømmes likevel etter loven i den k
 
 ### Art 4
 
-En lovvalgsavtale eller en ektepakt mellom ektefeller som omhandlet i artikkel 3 og 3 a skal anses gyldig med hensyn til formen i hver og en av de kontraherende statene om den da den ble inngått, oppfylte formkravene iden lov som etter artikkel 3 eller 3 a gjaldt for ektefellenes formuesforhold ellerloven i en kontraherende stat der ektefellene eller en av dem var statsborgere.
+En lovvalgsavtale eller en ektepakt mellom ektefeller som omhandlet i artikkel 3 og 3 a skal anses gyldig med hensyn til formen i hver og en av de kontraherende statene om den da den ble inngått, oppfylte formkravene i
+
+1. den lov som etter artikkel 3 eller 3 a gjaldt for ektefellenes formuesforhold eller
+2. loven i en kontraherende stat der ektefellene eller en av dem var statsborgere.
 
 Hvis loven ikke har formkrav for lovvalgsavtaler, bedømmes gyldigheten av en slik avtale i henhold til formkravene for ektepakter.
 
@@ -98,7 +101,15 @@ Artiklene 3-5 angår ikke ekteskaper hvis rettsvirkninger efter loven i nogen av
 
 ### Art 7
 
-Krav om separasjon eller skilsmisse mellom ektefeller som er statsborgere og har bopel i en kontraherende stat, avgjøres i den stat hvorektefellene har sin bopel,ektefellene sist hadde bopel samtidig og en av dem fortsatt er bosatt,ektefellene er statsborgere,saksøkte har sin bopel,der en av ektefellene, ved felles krav, har sin bopel,saksøker har sin bopel og hvor han har vært bosatt i minst ett år umiddelbart før inngivelse av kravet, ellersaksøker er statsborger og har sin bopel, forutsatt at saksøker har vært bosatt der i minst seks måneder umiddelbart før inngivelse av kravet.
+Krav om separasjon eller skilsmisse mellom ektefeller som er statsborgere og har bopel i en kontraherende stat, avgjøres i den stat hvor
+
+1. ektefellene har sin bopel,
+2. ektefellene sist hadde bopel samtidig og en av dem fortsatt er bosatt,
+3. ektefellene er statsborgere,
+4. saksøkte har sin bopel,
+5. der en av ektefellene, ved felles krav, har sin bopel,
+6. saksøker har sin bopel og hvor han har vært bosatt i minst ett år umiddelbart før inngivelse av kravet, eller
+7. saksøker er statsborger og har sin bopel, forutsatt at saksøker har vært bosatt der i minst seks måneder umiddelbart før inngivelse av kravet.
 
 Krav om skilsmisse på grunn av separasjon kan også avgjøres i den stat der separasjonen er meddelt.
 
@@ -106,9 +117,17 @@ Krav om skilsmisse på grunn av separasjon kan også avgjøres i den stat der se
 
 ### Art 8
 
-I forbindelse med krav om separasjon eller skilsmisse kan samme eller annen myndighet også treffe avgjørelse om midlertidig opphevelse av samlivet og deling av formuen. Også spørsmål om foreldreansvar, hvor barnet skal bo fast og samvær kan avgjøres forutsattat barnet er ektefellenes felles barn, ogat barnet har sin bopel i den stat der kravet om separasjon eller skilsmisse behandles.
+I forbindelse med krav om separasjon eller skilsmisse kan samme eller annen myndighet også treffe avgjørelse om midlertidig opphevelse av samlivet og deling av formuen. Også spørsmål om foreldreansvar, hvor barnet skal bo fast og samvær kan avgjøres forutsatt
 
-Dersom barnet ikke har sin bopel i den stat der kravet om separasjon eller skilsmisse behandles, kan spørsmål om foreldreansvar, hvor barnet skal bo fast og samvær bare behandles der ombarnet har sin bopel i en kontraherende stat,barnet er ektefellenes felles barn og i det minste en av ektefellene har foreldreansvar for barnet,ektefellene har godtatt at spørsmålet behandles i den stat der kravet om separasjon eller skilsmisse tas opp, ogdet er til barnets beste at spørsmålet behandles i denne stat.
+1. at barnet er ektefellenes felles barn, og
+2. at barnet har sin bopel i den stat der kravet om separasjon eller skilsmisse behandles.
+
+Dersom barnet ikke har sin bopel i den stat der kravet om separasjon eller skilsmisse behandles, kan spørsmål om foreldreansvar, hvor barnet skal bo fast og samvær bare behandles der om
+
+1. barnet har sin bopel i en kontraherende stat,
+2. barnet er ektefellenes felles barn og i det minste en av ektefellene har foreldreansvar for barnet,
+3. ektefellene har godtatt at spørsmålet behandles i den stat der kravet om separasjon eller skilsmisse tas opp, og
+4. det er til barnets beste at spørsmålet behandles i denne stat.
 
 I saker om foreldreansvar, hvor barnet skal bo fast og samvær, skal kompetansen i første og annet ledd utøves i samsvar med Haagkonvensjonen av 25. oktober 1980 om de sivile aspektene ved internasjonal barnebortføring. Det skal tas særskilt hensyn til artikkel 3 og 16 i denne konvensjonen.
 

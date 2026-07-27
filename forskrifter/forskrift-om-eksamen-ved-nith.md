@@ -15,7 +15,7 @@ xml_hash: "ba43bc2c06c4738cb1afc6acb304805d9b412b55c05cc4a23d3b30ec4a56091c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,9 @@ Ekstraordinær eksamen er den eksamen som arrangeres i emner som er tatt ut av e
 
 2\. Tid og sted for eksamen fastsettes og kunngjøres av høgskolen i egne eksamensplaner på Intranettet. Alle kandidater er selv ansvarlige for å holde seg orientert om tid og sted for eksamen.
 
-3\. Ny eksamen arrangeres for studenter som ikke har bestått eksamen eller som hadde gyldig fravær under eksamen. Det arrangeres ikke ny eksamen i deler av emner, kun som avsluttende prøve i hele emnet.Første gang ny eksamen arrangeres etter ordinær eksamen, gjelder samme pensum som ved ordinær eksamen. Det er studentenes eget ansvar å undersøke hvilket vurderingsgrunnlag som gjelder ved oppmelding til ny eksamen i et emne.
+3\. Ny eksamen arrangeres for studenter som ikke har bestått eksamen eller som hadde gyldig fravær under eksamen. Det arrangeres ikke ny eksamen i deler av emner, kun som avsluttende prøve i hele emnet.
+
+Første gang ny eksamen arrangeres etter ordinær eksamen, gjelder samme pensum som ved ordinær eksamen. Det er studentenes eget ansvar å undersøke hvilket vurderingsgrunnlag som gjelder ved oppmelding til ny eksamen i et emne.
 
 4\. Det kan arrangeres inntil to ekstraordinære eksamener når et emne utgår. Siste ekstraordinære eksamen arrangeres innen to år etter utgangen av studieåret da emnet ble undervist siste gang. Rektor kan gjøre vedtak om ekstraordinær eksamen i spesielle tilfelle.
 
@@ -102,7 +104,9 @@ Ekstraordinær eksamen er den eksamen som arrangeres i emner som er tatt ut av e
 
 ## § 7. Vurderingsgrunnlag
 
-1\. Vurderingsgrunnlaget skal være angitt i emnebeskrivelsen. Lovens krav til upartisk og faglig betryggende prøving av studentenes kunnskaper og ferdigheter skal tilfredsstilles (§ 3-9).Studentens kunnskaper og ferdigheter skal vurderes i samsvar med beskrivelsen av mål og metode i emnebeskrivelsen.
+1\. Vurderingsgrunnlaget skal være angitt i emnebeskrivelsen. Lovens krav til upartisk og faglig betryggende prøving av studentenes kunnskaper og ferdigheter skal tilfredsstilles (§ 3-9).
+
+Studentens kunnskaper og ferdigheter skal vurderes i samsvar med beskrivelsen av mål og metode i emnebeskrivelsen.
 
 2\. Muntlig eksamen skal være offentlig med mindre hensynet til gjennomføring tilsier noe annet. Det kan gjøres unntak fra regelen om offentlighet i enkelte tilfeller etter skriftlig søknad fra vedkommende kandidat når særlig tungtveiende grunner tilsier det.
 
@@ -114,7 +118,14 @@ Ekstraordinær eksamen er den eksamen som arrangeres i emner som er tatt ut av e
 
 1\. Kandidater som har behov for særordninger ved eksamen, må søke om dette innen fastsatte frister. Behovet skal dokumenteres. Særordninger kan innvilges for en enkelt eksamen, for en gitt eksamensperiode, eller for hele studietiden dersom det fremgår av dokumentasjonen at behovet er varig. Det kan dispenseres fra søknadsfristen når det fremgår av attest at behovet har oppstått etter fristens utløp.
 
-2\. Følgende særordninger kan innvilges:Kandidater med lese- og skrivevansker eller kandidater som av medisinske eller andre dokumenterte årsaker har behov for det, kan gis 25% tillegg i tid, oppad begrenset til en time, ved skriftlig skoleeksamen.Det kan gis utvidet tid ved hjemmeeksamen etter søknad.Kandidater med lese- og skrivevansker, kan gis tillatelse til bruk av ordbøker eller datamaskin med retteprogram. Kandidaten kan på anmodning få vedlagt besvarelsen en attest som bekrefter forholdet. Kandidater med annet morsmål enn norsk, kan etter søknad få anvende to-språklig ordbok.For kandidater med spesielle behov kan det gis tillatelse til tilrettelegging med utstyr og hjelpemidler.Alle søknader om særordninger ved eksamen sendes til administrasjonen ved studiestedet som behandler søknaden.
+2\. Følgende særordninger kan innvilges:
+
+1. Kandidater med lese- og skrivevansker eller kandidater som av medisinske eller andre dokumenterte årsaker har behov for det, kan gis 25% tillegg i tid, oppad begrenset til en time, ved skriftlig skoleeksamen.
+2. Det kan gis utvidet tid ved hjemmeeksamen etter søknad.
+3. Kandidater med lese- og skrivevansker, kan gis tillatelse til bruk av ordbøker eller datamaskin med retteprogram. Kandidaten kan på anmodning få vedlagt besvarelsen en attest som bekrefter forholdet. Kandidater med annet morsmål enn norsk, kan etter søknad få anvende to-språklig ordbok.
+4. For kandidater med spesielle behov kan det gis tillatelse til tilrettelegging med utstyr og hjelpemidler.
+
+Alle søknader om særordninger ved eksamen sendes til administrasjonen ved studiestedet som behandler søknaden.
 
 ## § 9. Hjelpemidler ved eksamen
 
@@ -122,7 +133,11 @@ Tillatte hjelpemidler skal fremgå av emnebeskrivelsen. De skal også være før
 
 ## § 10. Fusk ved eksamen
 
-1\. Følgende forhold betraktes som fusk eller forsøk på fusk:å motta hjelp under eksamenå besitte eller bruke hjelpemidler som ikke er tillatt etter at oppgaven er delt utå henvende seg muntlig eller skriftlig til andre eksaminander etter at oppgaven er delt ut.
+1\. Følgende forhold betraktes som fusk eller forsøk på fusk:
+
+- å motta hjelp under eksamen
+- å besitte eller bruke hjelpemidler som ikke er tillatt etter at oppgaven er delt ut
+- å henvende seg muntlig eller skriftlig til andre eksaminander etter at oppgaven er delt ut.
 
 2\. Ved hjemmeeksamen og andre skriftlige arbeider vil kopiering eller avskrift av emnelitteratur og andres arbeider uten kildehenvisning bli vurdert som fusk. Se også «Retningslinjer for intellektuell redelighet ved NITH».
 
@@ -165,9 +180,19 @@ Tillatte hjelpemidler skal fremgå av emnebeskrivelsen. De skal også være før
 
 1\. Det skal benyttes ekstern sensor til sensur av studentarbeider i minst ett emne på alle årstrinn i alle studieprogram, samt ved sensur av hovedprosjekt og ved klagesensur.
 
-2\. Ekstern evaluering av vurderingsordningen, jf. [lov om universiteter og høyskoler § 3-9](lov/2005-04-01-15/§3-9), kan gjennomføres for deler av et studieprogram eller for ett eller flere studieprogram samlet.Som elementer i en ekstern evaluering av vurderingsordningen kan inngå:gjennomgang av vurderingsordninger nedfelt i emnebeskrivelser og studieplanerevaluering av eksamensoppgaver og vurderingskriterier i et utvalg av emner som inngår i de aktuelle studieprogrammene.stikkprøvekontroll av vurderinger gjennomført av intern(e) sensor(er) i et utvalg av emner som inngår i de aktuelle studieprogrammene.
+2\. Ekstern evaluering av vurderingsordningen, jf. [lov om universiteter og høyskoler § 3-9](lov/2005-04-01-15/§3-9), kan gjennomføres for deler av et studieprogram eller for ett eller flere studieprogram samlet.
 
-3\. Ekstern sensor:skal oppnevnes av styretkan ikke være tilsatt ved høgskolen, eller ha hatt ansvar for emner ved høgskolen i samme studieår som eksamen finner stedmå være ansatt på minst høgskolelektor- eller amanuensisnivå ved universitet, høgskole eller annen forskningsinstitusjon, på annen måte ha dokumentert vitenskapelig kompetanse på tilsvarende nivå innen aktuelt fagområde, eller gjennom yrkespraksis være særlig kvalifisert innen aktuelt fagområde
+Som elementer i en ekstern evaluering av vurderingsordningen kan inngå:
+
+- gjennomgang av vurderingsordninger nedfelt i emnebeskrivelser og studieplaner
+- evaluering av eksamensoppgaver og vurderingskriterier i et utvalg av emner som inngår i de aktuelle studieprogrammene.
+- stikkprøvekontroll av vurderinger gjennomført av intern(e) sensor(er) i et utvalg av emner som inngår i de aktuelle studieprogrammene.
+
+3\. Ekstern sensor:
+
+1. skal oppnevnes av styret
+2. kan ikke være tilsatt ved høgskolen, eller ha hatt ansvar for emner ved høgskolen i samme studieår som eksamen finner sted
+3. må være ansatt på minst høgskolelektor- eller amanuensisnivå ved universitet, høgskole eller annen forskningsinstitusjon, på annen måte ha dokumentert vitenskapelig kompetanse på tilsvarende nivå innen aktuelt fagområde, eller gjennom yrkespraksis være særlig kvalifisert innen aktuelt fagområde
 
 4\. Den som påtar seg et sensoroppdrag, har plikt til å overholde lovens hovedregel om tre ukers sensurfrist. Med tre uker forstås 15 arbeidsdager. Styret kan gjøre vedtak om å utvide sensurfristen med inntil 2 uker i enkelte emner. Ved ny sensur som følge av klage, eller bytte av sensor som følge av uforutsett forfall, regnes sensurfristen fra det tidspunkt ny sensor er oppnevnt.
 
@@ -193,13 +218,27 @@ Dersom en student avlegger eksamen i forskjellige emner hvis innhold helt eller 
 
 1\. Vitnemål utstedes etter avsluttet grad eller fullført og bestått studieprogram. Som dokumentasjon for beståtte eksamener som utgjør del av et studieprogram, gis karakterutskrift.
 
-2\. Vitnemålet skal inneholdekandidatens navn og fullt personnummer (11 siffer)hvilket studieprogram som er gjennomførttidspunkt for fullført utdanning/utskriftsdato for vitnemål.oppnådd grad eller tittel.Videre skal følgende opplysninger enten angis på selve vitnemålet, eller i vedleggnavn, studiepoeng, eksamenstidspunkt og karakter for alle emner som er gitt avsluttende vurdering med bestått karakter.angivelse av eventuelle fritak og innpasninger (jf. [§ 14](forskrift/2005-12-16-1620/§14) i denne forskrift)tittel på eventuelle større skriftlige prosjektarbeiderangivelse av karaktersystem.
+2\. Vitnemålet skal inneholde
+
+- kandidatens navn og fullt personnummer (11 siffer)
+- hvilket studieprogram som er gjennomført
+- tidspunkt for fullført utdanning/utskriftsdato for vitnemål.
+- oppnådd grad eller tittel.
+
+Videre skal følgende opplysninger enten angis på selve vitnemålet, eller i vedlegg
+
+- navn, studiepoeng, eksamenstidspunkt og karakter for alle emner som er gitt avsluttende vurdering med bestått karakter.
+- angivelse av eventuelle fritak og innpasninger (jf. [§ 14](forskrift/2005-12-16-1620/§14) i denne forskrift)
+- tittel på eventuelle større skriftlige prosjektarbeider
+- angivelse av karaktersystem.
 
 3\. Det utstedes normalt kun ett vitnemål per kandidat. En kandidat kan kreve nytt vitnemål ved forbedring av karakter som inngår på vitnemålet, når denne forbedring har skjedd ved avlagt eksamen ved NITH. Ved utstedelse av nytt vitnemål etter dette punkt, skal tidligere vitnemål tilbakeleveres. Det nye vitnemålet skal angi hvilket vitnemål det erstatter
 
 4\. Tilleggsemne vil normalt bli påført vitnemålet, med mindre studenten innen en uke etter kunngjøring av siste sensur ber om å få utelatt emner. Deleksamener som inngår i en sammensatt karakter spesifiseres ikke på vitnemålet.
 
-5\. Karakterutskrift vil normalt omfatte alle eksamener som vedkommende student har avlagt ved høgskolen, også i emner som ikke er bestått.For øvrig skal karakterutskrift omfatte de opplysninger som er nevnt i [§ 16](forskrift/2005-12-16-1620/§16).2 i denne forskrift, så langt de passer.
+5\. Karakterutskrift vil normalt omfatte alle eksamener som vedkommende student har avlagt ved høgskolen, også i emner som ikke er bestått.
+
+For øvrig skal karakterutskrift omfatte de opplysninger som er nevnt i [§ 16](forskrift/2005-12-16-1620/§16).2 i denne forskrift, så langt de passer.
 
 6\. Vitnemålsupplement er et internasjonalt vitnemålstillegg. Det gir utfyllende beskrivelse av kvalifikasjonene som studenten har oppnådd. Vitnemålstillegget utstedes både på norsk og engelsk.
 

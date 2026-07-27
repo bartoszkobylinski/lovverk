@@ -44,7 +44,14 @@ Utdanningen gir grunnlag for å kunne praktisere selvstendig som psykolog i Norg
 
 ### § 3. Kompetanseområder
 
-Læringsutbyttebeskrivelsene for psykologutdanningen er fordelt under følgende kompetanseområder:Vitenskapsteori og psykologiens historiePsykologisk forskningsmetode og akademisk formidlingPsykologiske basaldisipliner og deres anvendelsesområderPsykologisk utredning og behandlingHelsefremmende og forebyggende psykologisk arbeidPsykologrollen, kommunikasjon og ledelse.
+Læringsutbyttebeskrivelsene for psykologutdanningen er fordelt under følgende kompetanseområder:
+
+- Vitenskapsteori og psykologiens historie
+- Psykologisk forskningsmetode og akademisk formidling
+- Psykologiske basaldisipliner og deres anvendelsesområder
+- Psykologisk utredning og behandling
+- Helsefremmende og forebyggende psykologisk arbeid
+- Psykologrollen, kommunikasjon og ledelse.
 
 Læringsutbyttebeskrivelsene [§ 13](forskrift/2025-07-04-1468/§13) j, [§ 14](forskrift/2025-07-04-1468/§14) f, [§ 16](forskrift/2025-07-04-1468/§16) a, d og g, [§ 17](forskrift/2025-07-04-1468/§17) e, [§ 18](forskrift/2025-07-04-1468/§18) a, [§ 19](forskrift/2025-07-04-1468/§19) b og d, [§ 20](forskrift/2025-07-04-1468/§20) a og e, [§ 21](forskrift/2025-07-04-1468/§21) a, b, c, d, g og h er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -52,85 +59,183 @@ Læringsutbyttebeskrivelsene [§ 13](forskrift/2025-07-04-1468/§13) j, [§ 14](
 
 ### § 4. Vitenskapsteori og psykologiens historie – Kunnskap
 
-Kandidatenhar bred kunnskap om den historiske utviklingen av psykologi som vitenskapelig disiplin.
+Kandidaten
+
+1. har bred kunnskap om den historiske utviklingen av psykologi som vitenskapelig disiplin.
 
 ### § 5. Vitenskapsteori og psykologiens historie – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til samtidens psykologiske teorier, diskurser og praksis, og plassere disse i en historisk og vitenskapsteoretisk kontekstkan forholde seg kritisk og reflekterende til vitenskapene generelt og til sitt eget fagområde spesielt.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til samtidens psykologiske teorier, diskurser og praksis, og plassere disse i en historisk og vitenskapsteoretisk kontekst
+2. kan forholde seg kritisk og reflekterende til vitenskapene generelt og til sitt eget fagområde spesielt.
 
 ### § 6. Vitenskapsteori og psykologiens historie – Generell kompetanse
 
-Kandidatenkan analysere psykologifagets vitenskapsteoretiske forankringer og derigjennom bidra til nytenking i fagetkan reflektere over sentrale problemstillinger innen filosofi- og vitenskapshistorie, vitenskapsteori og etikkkan analysere teoretiske, forskningsmessige, etiske og kliniske problemstillinger ut fra en vitenskapsteoretisk forståelse.
+Kandidaten
+
+1. kan analysere psykologifagets vitenskapsteoretiske forankringer og derigjennom bidra til nytenking i faget
+2. kan reflektere over sentrale problemstillinger innen filosofi- og vitenskapshistorie, vitenskapsteori og etikk
+3. kan analysere teoretiske, forskningsmessige, etiske og kliniske problemstillinger ut fra en vitenskapsteoretisk forståelse.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet psykologisk forskningsmetode og akademisk formidling
 
 ### § 7. Psykologisk forskningsmetode og akademisk formidling – Kunnskap
 
-Kandidatenhar inngående kunnskap om ulike kvalitative og kvantitative forskningsmetoder som brukes innenfor psykologi, inkludert test-teorihar inngående kunnskap om forskningsetikk, lovgivning, regelverk, prinsipper og rutiner for forsvarlig forskning og formidling, herunder prinsipper for søknadsplikt, forskningsetiske forvaltningsorganer og regler for plagiatkjenner til prinsipper for åpenhet i vitenskapelig virksomhet.
+Kandidaten
+
+1. har inngående kunnskap om ulike kvalitative og kvantitative forskningsmetoder som brukes innenfor psykologi, inkludert test-teori
+2. har inngående kunnskap om forskningsetikk, lovgivning, regelverk, prinsipper og rutiner for forsvarlig forskning og formidling, herunder prinsipper for søknadsplikt, forskningsetiske forvaltningsorganer og regler for plagiat
+3. kjenner til prinsipper for åpenhet i vitenskapelig virksomhet.
 
 ### § 8. Psykologisk forskningsmetode og akademisk formidling – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til faglige kilder og anvende disse til å strukturere og formulere faglige resonnementerkan selvstendig begrunne valg og bruk av relevante metodiske verktøy og utføre ulike kvantitative og kvalitative analyserkan under veiledning planlegge, gjennomføre og formidle resultatene av et selvstendig, avgrenset forskningsprosjekt i tråd med gjeldende forskningsetiske retningslinjer.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til faglige kilder og anvende disse til å strukturere og formulere faglige resonnementer
+2. kan selvstendig begrunne valg og bruk av relevante metodiske verktøy og utføre ulike kvantitative og kvalitative analyser
+3. kan under veiledning planlegge, gjennomføre og formidle resultatene av et selvstendig, avgrenset forskningsprosjekt i tråd med gjeldende forskningsetiske retningslinjer.
 
 ### § 9. Psykologisk forskningsmetode og akademisk formidling – Generell kompetanse
 
-Kandidatenkan anvende relevant forskningslitteratur i teoretisk, empirisk og praktisk sammenheng, og anvende sin informasjons- og forskningskompetanse til å oppdatere seg fagligkan kritisk analysere og formidle relevant forskning og beherske psykologfaglige uttrykksformer.
+Kandidaten
+
+1. kan anvende relevant forskningslitteratur i teoretisk, empirisk og praktisk sammenheng, og anvende sin informasjons- og forskningskompetanse til å oppdatere seg faglig
+2. kan kritisk analysere og formidle relevant forskning og beherske psykologfaglige uttrykksformer.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet psykologiske basaldisipliner og deres anvendelsesområder
 
 ### § 10. Psykologiske basaldisipliner og deres anvendelsesområder – Kunnskap
 
-Kandidatenhar avansert teoretisk, empirisk og anvendt kunnskap innenfor biologisk psykologi, utviklingspsykologi, personlighetspsykologi, kognitiv psykologi og sosialpsykologi.
+Kandidaten
+
+1. har avansert teoretisk, empirisk og anvendt kunnskap innenfor biologisk psykologi, utviklingspsykologi, personlighetspsykologi, kognitiv psykologi og sosialpsykologi.
 
 ### § 11. Psykologiske basaldisipliner og deres anvendelsesområder – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teorier, metoder og forskningsresultater innenfor basaldisiplinenekan analysere og anvende kunnskap fra basaldisiplinene på nye områder innenfor psykologisk forskning og praksis.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teorier, metoder og forskningsresultater innenfor basaldisiplinene
+2. kan analysere og anvende kunnskap fra basaldisiplinene på nye områder innenfor psykologisk forskning og praksis.
 
 ### § 12. Psykologiske basaldisipliner og deres anvendelsesområder – Generell kompetanse
 
-Kandidatenkan bruke kunnskap fra basaldisiplinene til å bidra til faglig nytenkingkan kommunisere om, og formidle, basalfaglig kunnskap både til andre faggrupper, spesialister og allmennheten.
+Kandidaten
+
+1. kan bruke kunnskap fra basaldisiplinene til å bidra til faglig nytenking
+2. kan kommunisere om, og formidle, basalfaglig kunnskap både til andre faggrupper, spesialister og allmennheten.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet psykologisk utredning og behandling
 
 ### § 13. Psykologisk utredning og behandling – Kunnskap
 
-Kandidatenhar avansert kunnskap om risiko- og beskyttelsesfaktorer knyttet til utvikling av psykiske vansker og lidelser, og hvordan disse faktorene opererer gjennom livsløpethar inngående kunnskap om særlig betydningsfulle psykologiske temaer og problemstillinger gjennom livet, fra sped- og småbarn til barn, ungdom, voksne og eldrehar inngående kunnskap om lettere, moderate og alvorlige psykiske lidelser, inkludert samsykelighet, traumereaksjoner, suicidalitet, rus og avhengighethar inngående kunnskap om fellesfaktorer, spesifikke faktorer og personfaktorer i psykoterapeutisk endringsarbeidhar inngående kunnskap om ulike evidensbaserte behandlingsteorier og modeller både for å forstå psykiske lidelser og for psykologisk behandlinghar inngående kunnskap om lavterskelintervensjoner innen psykisk helse på individ-, gruppe -og systemnivåhar kunnskap om de mest sentrale psykologiske aspekter ved funksjonshemming, funksjonsnedsettelser og syndromerhar kunnskap om psykologiske aspekter knyttet til tverrfaglig rehabiliteringhar kunnskap om høyprevalente akutte og kroniske somatiske sykdommer og palliasjon til pasienter med livsforkortende sykdomkan anvende sin kunnskap om barn og unge for å ivareta deres behov for behandling og tjenester og kan sikre deres medvirkning og rettigheter, deriblant samiske barns rett til å bruke eget språk og kulturhar kunnskap om hvordan forståelse av psykisk helse og behandling kan variere på tvers av grupper og kulturerhar kunnskap om hvilken betydning kultur- og språkbakgrunn har for sykdomsforståelse og behandling.
+Kandidaten
+
+1. har avansert kunnskap om risiko- og beskyttelsesfaktorer knyttet til utvikling av psykiske vansker og lidelser, og hvordan disse faktorene opererer gjennom livsløpet
+2. har inngående kunnskap om særlig betydningsfulle psykologiske temaer og problemstillinger gjennom livet, fra sped- og småbarn til barn, ungdom, voksne og eldre
+3. har inngående kunnskap om lettere, moderate og alvorlige psykiske lidelser, inkludert samsykelighet, traumereaksjoner, suicidalitet, rus og avhengighet
+4. har inngående kunnskap om fellesfaktorer, spesifikke faktorer og personfaktorer i psykoterapeutisk endringsarbeid
+5. har inngående kunnskap om ulike evidensbaserte behandlingsteorier og modeller både for å forstå psykiske lidelser og for psykologisk behandling
+6. har inngående kunnskap om lavterskelintervensjoner innen psykisk helse på individ-, gruppe -og systemnivå
+7. har kunnskap om de mest sentrale psykologiske aspekter ved funksjonshemming, funksjonsnedsettelser og syndromer
+8. har kunnskap om psykologiske aspekter knyttet til tverrfaglig rehabilitering
+9. har kunnskap om høyprevalente akutte og kroniske somatiske sykdommer og palliasjon til pasienter med livsforkortende sykdom
+10. kan anvende sin kunnskap om barn og unge for å ivareta deres behov for behandling og tjenester og kan sikre deres medvirkning og rettigheter, deriblant samiske barns rett til å bruke eget språk og kultur
+11. har kunnskap om hvordan forståelse av psykisk helse og behandling kan variere på tvers av grupper og kulturer
+12. har kunnskap om hvilken betydning kultur- og språkbakgrunn har for sykdomsforståelse og behandling.
 
 ### § 14. Psykologisk utredning og behandling – Ferdigheter
 
-Kandidatenkan selvstendig gjennomføre grunnleggende strukturerte psykologiske og nevropsykologiske utredninger som grunnlag både for diagnostiske vurderinger og kasusformuleringer, og for å utarbeide behandlingsplaner med anbefalinger om videre tiltak og behandlingkan dokumentere utredning, diagnostisering og behandling i pasientjournal, i tråd med gjeldende regelverkkan selvstendig gjennomføre samtaler med barn som pårørende, og som utsatt for vold, overgrep og omsorgssviktkan bruke ulike metoder for å sikre tilbakemeldinger fra pasienter om behandlingsresultat, -prosess og allianse, og benytte disse for å tilpasse behandlingstilbudetkan analysere og forholde seg kritisk til komplekse faglige spørsmål, ulike roller og muligheter i arbeidet med ulike typer psykiske lidelser, og til samhandling og oppgavefordeling mellom tjenestenivåenekan bruke relevante metoder for å identifisere mennesker med sosiale og helsemessige problemer inkludert omsorgssvikt, mobbing, vold, overgrep, rus- og sosioøkonomiske problemer, og sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behovkan på en selvstendig måte bruke relasjonelle ferdigheter som er sentrale i etablering og opprettholdelse av terapeutiske allianser og samarbeidsallianserkan selvstendig anvende grunnprinsippene for psykososiale intervensjoner i kriser.
+Kandidaten
+
+1. kan selvstendig gjennomføre grunnleggende strukturerte psykologiske og nevropsykologiske utredninger som grunnlag både for diagnostiske vurderinger og kasusformuleringer, og for å utarbeide behandlingsplaner med anbefalinger om videre tiltak og behandling
+2. kan dokumentere utredning, diagnostisering og behandling i pasientjournal, i tråd med gjeldende regelverk
+3. kan selvstendig gjennomføre samtaler med barn som pårørende, og som utsatt for vold, overgrep og omsorgssvikt
+4. kan bruke ulike metoder for å sikre tilbakemeldinger fra pasienter om behandlingsresultat, -prosess og allianse, og benytte disse for å tilpasse behandlingstilbudet
+5. kan analysere og forholde seg kritisk til komplekse faglige spørsmål, ulike roller og muligheter i arbeidet med ulike typer psykiske lidelser, og til samhandling og oppgavefordeling mellom tjenestenivåene
+6. kan bruke relevante metoder for å identifisere mennesker med sosiale og helsemessige problemer inkludert omsorgssvikt, mobbing, vold, overgrep, rus- og sosioøkonomiske problemer, og sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov
+7. kan på en selvstendig måte bruke relasjonelle ferdigheter som er sentrale i etablering og opprettholdelse av terapeutiske allianser og samarbeidsallianser
+8. kan selvstendig anvende grunnprinsippene for psykososiale intervensjoner i kriser.
 
 ### § 15. Psykologisk utredning og behandling – Generell kompetanse
 
-Kandidatenkan selvstendig utrede, diagnostisere og behandle psykiske vansker og lidelser, og evaluere effekten av igangsatte intervensjonerkan anvende sine kunnskaper og ferdigheter på en selvstendig måte til å planlegge, gjennomføre og evaluere ulike evidensbaserte terapeutiske intervensjoner overfor lettere, moderate og alvorlige psykiske lidelser, både på individ-, familie- og gruppenivåkan anvende sine kunnskaper og ferdigheter til å integrere forskning, klinisk ekspertise og pasientens egenskaper og ønskemål for å tilpasse utredning og behandlingkan formidle et behandlingsrasjonale til pasienter/brukere, og benytte ulike metoder for å sikre pasienters/brukeres medvirkning i, og valg om, egen utredning og behandlingkan kommunisere åpent om kjønn, seksualitet og seksuell helse og anvende sin kunnskap om disse temaene i sin yrkesutøvelse.
+Kandidaten
+
+1. kan selvstendig utrede, diagnostisere og behandle psykiske vansker og lidelser, og evaluere effekten av igangsatte intervensjoner
+2. kan anvende sine kunnskaper og ferdigheter på en selvstendig måte til å planlegge, gjennomføre og evaluere ulike evidensbaserte terapeutiske intervensjoner overfor lettere, moderate og alvorlige psykiske lidelser, både på individ-, familie- og gruppenivå
+3. kan anvende sine kunnskaper og ferdigheter til å integrere forskning, klinisk ekspertise og pasientens egenskaper og ønskemål for å tilpasse utredning og behandling
+4. kan formidle et behandlingsrasjonale til pasienter/brukere, og benytte ulike metoder for å sikre pasienters/brukeres medvirkning i, og valg om, egen utredning og behandling
+5. kan kommunisere åpent om kjønn, seksualitet og seksuell helse og anvende sin kunnskap om disse temaene i sin yrkesutøvelse.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet helsefremmende og forebyggende psykologisk arbeid
 
 ### § 16. Helsefremmende og forebyggende psykologisk arbeid – Kunnskap
 
-Kandidatenhar avansert kunnskap om hvordan biologiske, psykologiske, sosiale, sosioøkonomiske, kulturelle, samfunnsmessige og fysiske faktorer samvirker i å hemme og fremme menneskers helse, utdanning, arbeidsdeltakelse og levekår, bedringsprosesser, og livskvalitet gjennom livsløpethar bred kunnskap om menneskerettighetene i helsefremmende arbeid, inkludert kunnskap om å motvirke marginalisering og å fremme medborgerskap og integrering gjennom utdanning, arbeid og på andre arenaerhar bred kunnskap om sammenhenger mellom arbeid og helse og hvordan helse kan styrkes eller forverres gjennom arbeidhar bred kunnskap om etiske, epidemiologiske og helseøkonomiske begrunnelser for både universelle, selektive og indikerte helsefremmende og forebyggende tiltakhar kunnskap om psykologiske perspektiver ved funksjonstap og tverrfaglige rehabiliteringsforløphar kunnskap om helsekompetanse og hvordan dette påvirker ulike gruppers helseatferd og mestring av sykdomhar kunnskap om, og forståelse for, samers rettigheter og samenes status som urfolk.
+Kandidaten
+
+1. har avansert kunnskap om hvordan biologiske, psykologiske, sosiale, sosioøkonomiske, kulturelle, samfunnsmessige og fysiske faktorer samvirker i å hemme og fremme menneskers helse, utdanning, arbeidsdeltakelse og levekår, bedringsprosesser, og livskvalitet gjennom livsløpet
+2. har bred kunnskap om menneskerettighetene i helsefremmende arbeid, inkludert kunnskap om å motvirke marginalisering og å fremme medborgerskap og integrering gjennom utdanning, arbeid og på andre arenaer
+3. har bred kunnskap om sammenhenger mellom arbeid og helse og hvordan helse kan styrkes eller forverres gjennom arbeid
+4. har bred kunnskap om etiske, epidemiologiske og helseøkonomiske begrunnelser for både universelle, selektive og indikerte helsefremmende og forebyggende tiltak
+5. har kunnskap om psykologiske perspektiver ved funksjonstap og tverrfaglige rehabiliteringsforløp
+6. har kunnskap om helsekompetanse og hvordan dette påvirker ulike gruppers helseatferd og mestring av sykdom
+7. har kunnskap om, og forståelse for, samers rettigheter og samenes status som urfolk.
 
 ### § 17. Helsefremmende og forebyggende psykologisk arbeid – Ferdigheter
 
-Kandidatenkan analysere og kritisk vurdere kunnskap om helsefremmende og forebyggende arbeid, og selvstendig anvende relevante metoder og arbeidsformer på ulike intervensjonsnivåer som også inkluderer et overordnet samfunnsnivåkan anvende kunnskap om psykisk helse og kognitiv fungering til å kartlegge ressurser og risikofaktorer i en avgrenset populasjonkan anvende sine kunnskaper og ferdigheter i henhold til helse- og velferdspolitiske føringer for helsefremmende og forebyggende arbeid, og til å analysere etiske problemstillinger knyttet til detteKandidaten kan planlegge og gjennomføre tiltak som fremmer arbeidsdeltakelse og god arbeidshelse både overfor enkeltpersoner og grupper i samfunnetkan gjennomføre veiledning av brukere, pasienter, pårørende og andre som er i lærings-, mestrings- og endringsprosesser.
+Kandidaten
+
+1. kan analysere og kritisk vurdere kunnskap om helsefremmende og forebyggende arbeid, og selvstendig anvende relevante metoder og arbeidsformer på ulike intervensjonsnivåer som også inkluderer et overordnet samfunnsnivå
+2. kan anvende kunnskap om psykisk helse og kognitiv fungering til å kartlegge ressurser og risikofaktorer i en avgrenset populasjon
+3. kan anvende sine kunnskaper og ferdigheter i henhold til helse- og velferdspolitiske føringer for helsefremmende og forebyggende arbeid, og til å analysere etiske problemstillinger knyttet til dette
+4. Kandidaten kan planlegge og gjennomføre tiltak som fremmer arbeidsdeltakelse og god arbeidshelse både overfor enkeltpersoner og grupper i samfunnet
+5. kan gjennomføre veiledning av brukere, pasienter, pårørende og andre som er i lærings-, mestrings- og endringsprosesser.
 
 ### § 18. Helsefremmende og forebyggende psykologisk arbeid – Generell kompetanse
 
-Kandidatenkan bidra til at brukere og borgere medvirker i utviklingen av likeverdige tjenester for alle grupper i samfunnetkan anvende sine kunnskaper til å planlegge, lede og gjennomføre prosjekterkan kommunisere med spesialister, beslutningstakere og allmennheten om faglige problemstillinger innen helsefremmende og forebyggende arbeidkan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for alle, deriblant samiske pasienter.
+Kandidaten
+
+1. kan bidra til at brukere og borgere medvirker i utviklingen av likeverdige tjenester for alle grupper i samfunnet
+2. kan anvende sine kunnskaper til å planlegge, lede og gjennomføre prosjekter
+3. kan kommunisere med spesialister, beslutningstakere og allmennheten om faglige problemstillinger innen helsefremmende og forebyggende arbeid
+4. kan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for alle, deriblant samiske pasienter.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet psykologrollen, kommunikasjon og ledelse
 
 ### § 19. Psykologrollen, kommunikasjon og ledelse – Kunnskap
 
-Kandidatenkan anvende grunnprinsipper for veiledning og konsultasjon, og er i stand til å drive selvstendig endringsarbeid gjennom andrekan anvende kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere og integrere dette i sin tjenesteutøvelsehar kunnskap om prinsipper for ledelse, prioriteringer, påvirkning og beslutningstaking i organisasjoner og systemerhar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar bred kunnskap om kommunikasjon, samhandling og samarbeid, og har kunnskap om hvordan språk og kultur påvirker dettekan anvende faglig kunnskap til å iverksette endringsarbeid i grupper og systemerhar bred kunnskap om modeller for samarbeid og samhandling i helse- og omsorgstjenesten.
+Kandidaten
+
+1. kan anvende grunnprinsipper for veiledning og konsultasjon, og er i stand til å drive selvstendig endringsarbeid gjennom andre
+2. kan anvende kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere og integrere dette i sin tjenesteutøvelse
+3. har kunnskap om prinsipper for ledelse, prioriteringer, påvirkning og beslutningstaking i organisasjoner og systemer
+4. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+5. har bred kunnskap om kommunikasjon, samhandling og samarbeid, og har kunnskap om hvordan språk og kultur påvirker dette
+6. kan anvende faglig kunnskap til å iverksette endringsarbeid i grupper og systemer
+7. har bred kunnskap om modeller for samarbeid og samhandling i helse- og omsorgstjenesten.
 
 ### § 20. Psykologrollen, kommunikasjon og ledelse – Ferdigheter
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til dokumentasjon og kommunikasjon om folkehelse, kliniske, diagnostiske og andre faglige emner overfor pasienter/brukere, pårørende, kolleger, samarbeidspartnere, offentlig forvaltning og rettslige instanserkan analysere og forholde seg kritisk til egne verdier, roller og fungering i møte med brukere og samarbeidspartnere, og søke bistand ved behovkan anvende kunnskap om ledelsesprinsipper til å utøve ledelse med beslutningstaking og samarbeid med andre profesjoner og yrkesgrupperkan analysere risiko for uønskede hendelser, og kan bruke relevante metoder for å følge opp dette systematisk.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til dokumentasjon og kommunikasjon om folkehelse, kliniske, diagnostiske og andre faglige emner overfor pasienter/brukere, pårørende, kolleger, samarbeidspartnere, offentlig forvaltning og rettslige instanser
+2. kan analysere og forholde seg kritisk til egne verdier, roller og fungering i møte med brukere og samarbeidspartnere, og søke bistand ved behov
+3. kan anvende kunnskap om ledelsesprinsipper til å utøve ledelse med beslutningstaking og samarbeid med andre profesjoner og yrkesgrupper
+4. kan analysere risiko for uønskede hendelser, og kan bruke relevante metoder for å følge opp dette systematisk.
 
 ### § 21. Psykologrollen, kommunikasjon og ledelse – Generell kompetanse
 
-Kandidatenkan kritisk reflektere over etiske dilemmaer knyttet til valg og prioritering av psykologiske intervensjonerkan kommunisere respektfullt med hensyn til andre menneskers integritet, verdighet og autonomi i sin yrkesutøvelse og tilpasse kommunikasjonen ut fra blant annet situasjon, alder, kjønn og språklig og kulturell bakgrunnkan analysere og forholde seg kritisk til ny kunnskap på en metodisk og vitenskapelig måte, og holde seg faglig oppdatert og foreta faglige vurderinger, avgjørelser og handlinger i tråd med evidensbasert praksis og faglige retningslinjerkan anvende kunnskap om andre faggruppers kompetanse og ansvarsområder til å samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, samt initiere samhandling for å skape gode og sammenhengende tjenester overfor brukerekan reflektere over ulike lederstiler og egne styrker og svakheter i rollene som leder og deltaker i grupper og teamkan anvende sine psykologiske kunnskaper og ferdigheter til egen selvivaretakelsekan bidra til kritisk refleksjon, nytenkning, tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser som ledd i å sikre tjenestekvalitet og i utvikling av tjenesterkan anvende relevant digital kompetanse og teknologi i faglig arbeid, og bistå i utviklingen av egnet teknologi både på individ- og systemnivå, samt ivareta digital sikkerhetkan kommunisere muntlig, skriftlig og digitalt om helsefaglige problemstillinger med medarbeidere, samarbeidspartnere og allmennheten.
+Kandidaten
+
+1. kan kritisk reflektere over etiske dilemmaer knyttet til valg og prioritering av psykologiske intervensjoner
+2. kan kommunisere respektfullt med hensyn til andre menneskers integritet, verdighet og autonomi i sin yrkesutøvelse og tilpasse kommunikasjonen ut fra blant annet situasjon, alder, kjønn og språklig og kulturell bakgrunn
+3. kan analysere og forholde seg kritisk til ny kunnskap på en metodisk og vitenskapelig måte, og holde seg faglig oppdatert og foreta faglige vurderinger, avgjørelser og handlinger i tråd med evidensbasert praksis og faglige retningslinjer
+4. kan anvende kunnskap om andre faggruppers kompetanse og ansvarsområder til å samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, samt initiere samhandling for å skape gode og sammenhengende tjenester overfor brukere
+5. kan reflektere over ulike lederstiler og egne styrker og svakheter i rollene som leder og deltaker i grupper og team
+6. kan anvende sine psykologiske kunnskaper og ferdigheter til egen selvivaretakelse
+7. kan bidra til kritisk refleksjon, nytenkning, tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser som ledd i å sikre tjenestekvalitet og i utvikling av tjenester
+8. kan anvende relevant digital kompetanse og teknologi i faglig arbeid, og bistå i utviklingen av egnet teknologi både på individ- og systemnivå, samt ivareta digital sikkerhet
+9. kan kommunisere muntlig, skriftlig og digitalt om helsefaglige problemstillinger med medarbeidere, samarbeidspartnere og allmennheten.
 
 ## Kapittel 8. Studiets oppbygning og praksisstudier
 

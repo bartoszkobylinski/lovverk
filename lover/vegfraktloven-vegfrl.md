@@ -15,7 +15,7 @@ xml_hash: "8f717b231d4b78efdbe984a5eab323d6b602eb8f56ee6d6884acb062c3bbb0f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,15 @@ Elektroniske fraktbrev skal utferdiges slik at fraktbrevets originale innhold be
 
 ### § 9
 
-Utferdiges fraktbrev ved innenriks befordring, skal dette inneholde opplysning om:avsenderens navn og adresse,fraktførerens navn og adresse,sted og dag for overtakelsen av godset og bestemmelsesstedet,mottakerens navn og adresse,antall kolli, deres særskilte merker og nummer eller en tilsvarende beskrivelse av godset,godsets bruttovekt eller dets mengde angitt på annen måte, samtved farlig gods den alminnelig godtatte betegnelse.
+Utferdiges fraktbrev ved innenriks befordring, skal dette inneholde opplysning om:
+
+1. avsenderens navn og adresse,
+2. fraktførerens navn og adresse,
+3. sted og dag for overtakelsen av godset og bestemmelsesstedet,
+4. mottakerens navn og adresse,
+5. antall kolli, deres særskilte merker og nummer eller en tilsvarende beskrivelse av godset,
+6. godsets bruttovekt eller dets mengde angitt på annen måte, samt
+7. ved farlig gods den alminnelig godtatte betegnelse.
 
 Både avsenderen og fraktføreren kan kreve inntatt i fraktbrevet andre opplysninger som nevnt i [§ 10](lov/1974-12-20-68/§10) første ledd bokstav a-j eller annet ledd. Når de er enige, kan de ta inn i fraktbrevet andre opplysninger som de anser påkrevd.
 
@@ -106,9 +114,29 @@ Både avsenderen og fraktføreren kan kreve inntatt i fraktbrevet andre opplysni
 
 ### § 10
 
-Ved internasjonal befordring skal fraktbrevet inneholde følgende opplysninger:sted og dag for utferdigelsen,avsenderens navn og adresse,fraktførerens navn og adresse,sted og dag for overtakelsen av godset og bestemmelsesstedet,mottakerens navn og adresse,den vanlige betegnelse på godsets art og pakningsmåten, ved farlig gods den alminnelig godtatte betegnelse,antall kolli, deres særskilte merker og nummer,godsets bruttovekt eller dets mengde angitt på annen måte,kostnader i sammenheng med befordringen (frakt, tilleggskostnader, tollavgifter og andre kostnader som påløper i tiden fra avtaleslutningen til utleveringen)nødvendige forholdsordrer vedrørende tollbehandling og andre formaliteter,erklæring om at befordringen uansett annen avtale er undergitt konvensjonen (jfr. [§ 1](lov/1974-12-20-68/§1)) eller lov som er i samsvar med konvensjonen.
+Ved internasjonal befordring skal fraktbrevet inneholde følgende opplysninger:
 
-I forekommende tilfelle skal fraktbrevet også gi opplysning om:forbud mot omlasting,de kostnader avsenderen påtar seg å betale,etterkravsbeløp som skal innkreves ved utleveringen,angitt verdi av godset og det beløp som særlig utleveringsinteresse utgjør, jfr. [§§ 33](lov/1974-12-20-68/§33) og [35](lov/1974-12-20-68/§35) annet ledd,avsenderens forholdsordrer til fraktføreren om forsikring av godset,avtalt tidsfrist for fullføring av befordringen,fortegnelse over de dokumenter som er stillet til fraktførerens rådighet.
+1. sted og dag for utferdigelsen,
+2. avsenderens navn og adresse,
+3. fraktførerens navn og adresse,
+4. sted og dag for overtakelsen av godset og bestemmelsesstedet,
+5. mottakerens navn og adresse,
+6. den vanlige betegnelse på godsets art og pakningsmåten, ved farlig gods den alminnelig godtatte betegnelse,
+7. antall kolli, deres særskilte merker og nummer,
+8. godsets bruttovekt eller dets mengde angitt på annen måte,
+9. kostnader i sammenheng med befordringen (frakt, tilleggskostnader, tollavgifter og andre kostnader som påløper i tiden fra avtaleslutningen til utleveringen)
+10. nødvendige forholdsordrer vedrørende tollbehandling og andre formaliteter,
+11. erklæring om at befordringen uansett annen avtale er undergitt konvensjonen (jfr. [§ 1](lov/1974-12-20-68/§1)) eller lov som er i samsvar med konvensjonen.
+
+I forekommende tilfelle skal fraktbrevet også gi opplysning om:
+
+1. forbud mot omlasting,
+2. de kostnader avsenderen påtar seg å betale,
+3. etterkravsbeløp som skal innkreves ved utleveringen,
+4. angitt verdi av godset og det beløp som særlig utleveringsinteresse utgjør, jfr. [§§ 33](lov/1974-12-20-68/§33) og [35](lov/1974-12-20-68/§35) annet ledd,
+5. avsenderens forholdsordrer til fraktføreren om forsikring av godset,
+6. avtalt tidsfrist for fullføring av befordringen,
+7. fortegnelse over de dokumenter som er stillet til fraktførerens rådighet.
 
 Partene kan ta inn i fraktbrevet andre opplysninger som de anser påkrevet.
 
@@ -274,7 +302,14 @@ Til fritak for ansvar kan fraktføreren ikke påberope mangler ved det kjøretø
 
 ### § 29
 
-Fraktføreren er likeledes fri for ansvar etter [§ 27](lov/1974-12-20-68/§27) når tapet eller skaden skyldes den særlige fare som knytter seg til ett eller flere av følgende forhold:bruk av åpent kjøretøy uten presenning etter uttrykkelig avtale inntatt i fraktbrevet, eller, ved innenriks befordring, med avsenderens godkjenning;manglende eller mangelfull pakning av gods som etter sin egen beskaffenhet er utsatt for svinn eller skade dersom det ikke er pakket inn eller er mangelfullt pakket;håndtering, pålessing, stuing eller avlessing av godset foretatt av avsenderen eller mottakeren eller av noen som handler på vegne av dem;beskaffenheten ved enkelte godsslag som spesielt utsetter dem for tap eller skade, særlig ved brudd, rust, selvødeleggelse, inntørking, lekkasje, normalt svinn eller angrep av skadeinsekter eller gnagere;utilstrekkelige eller uriktige merker eller nummer på godset;befordring av levende dyr.
+Fraktføreren er likeledes fri for ansvar etter [§ 27](lov/1974-12-20-68/§27) når tapet eller skaden skyldes den særlige fare som knytter seg til ett eller flere av følgende forhold:
+
+1. bruk av åpent kjøretøy uten presenning etter uttrykkelig avtale inntatt i fraktbrevet, eller, ved innenriks befordring, med avsenderens godkjenning;
+2. manglende eller mangelfull pakning av gods som etter sin egen beskaffenhet er utsatt for svinn eller skade dersom det ikke er pakket inn eller er mangelfullt pakket;
+3. håndtering, pålessing, stuing eller avlessing av godset foretatt av avsenderen eller mottakeren eller av noen som handler på vegne av dem;
+4. beskaffenheten ved enkelte godsslag som spesielt utsetter dem for tap eller skade, særlig ved brudd, rust, selvødeleggelse, inntørking, lekkasje, normalt svinn eller angrep av skadeinsekter eller gnagere;
+5. utilstrekkelige eller uriktige merker eller nummer på godset;
+6. befordring av levende dyr.
 
 Godtgjør fraktføreren at tapet eller skaden etter saksforholdet kan være oppstått på grunn av fare som går inn under første ledd, skal det legges til grunn at tapet eller skaden er voldt på denne måte, med mindre det godtgjøres at dette ikke er tilfellet. Denne regel gjelder likevel ikke i tilfelle som nevnt i første ledd bokstav a dersom det foreligger tap i unormalt omfang eller av hele kolli.
 
@@ -398,7 +433,11 @@ Fraktføreren og mottakeren skal gi hverandre rimelig hjelp til å gjennomføre 
 
 Krav vedrørende befordring som går inn under denne lov, foreldes etter ett år, men etter tre år når kravet grunnes på forsett eller grov uaktsomhet.
 
-Foreldelsestiden løper:ved delvis tap, skade eller forsinket utlevering fra den dag da godset ble utlevert,ved totaltap fra den trettiende dag etter utløpet av avtalt utleveringsfrist eller – dersom slik frist ikke er avtalt – fra den sekstiende dag etter at fraktføreren overtok godset,i andre tilfelle når tre måneder er gått fra den dag da fraktavtalen ble sluttet.
+Foreldelsestiden løper:
+
+1. ved delvis tap, skade eller forsinket utlevering fra den dag da godset ble utlevert,
+2. ved totaltap fra den trettiende dag etter utløpet av avtalt utleveringsfrist eller – dersom slik frist ikke er avtalt – fra den sekstiende dag etter at fraktføreren overtok godset,
+3. i andre tilfelle når tre måneder er gått fra den dag da fraktavtalen ble sluttet.
 
 Ved internasjonal befordring stanser et skriftlig framsatt krav foreldelsens løp indtil fraktføreren skriftlig avslår kravet og tilbakesender de dokumenter som ble oversendt sammen med kravet. Blir en del av kravet godkjent, begynner foreldelsesfristen igjen å løpe for den del av kravet som fremdeles er omstridt. Det påhviler den som gjør gjeldende at kravet eller svaret er mottatt av den annen part, eller at dokumentene er tilbakelevert, å godtgjøre dette. Foreldelsens løp stanser ikke om det framsettes ytterligere krav vedrørende samme tvistegjenstand.
 
@@ -462,7 +501,11 @@ Bortsett fra når krav mot saksøkeren eller motregningsinnsigelse gjøres gjeld
 
 ### § 48
 
-Fraktfører som har betalt erstatning, kan kreve erstatningen med renter og kostnader dekket av de andre fraktførere som har deltatt i befordringen, etter følgende regler:fraktfører som har voldt skaden, er eneansvarlig for erstatningen;er skaden voldt av flere fraktførere, skal hver av dem svare i forhold til sin del av ansvaret for skadetilføyelsen, eller – om det ikke er mulig å fordele ansvaret – i forhold til sin del av frakten;kan det ikke fastslås hvem av fraktførerne ansvaret påhviler, skal samtlige svare, hver i forhold til sin del av frakten.
+Fraktfører som har betalt erstatning, kan kreve erstatningen med renter og kostnader dekket av de andre fraktførere som har deltatt i befordringen, etter følgende regler:
+
+1. fraktfører som har voldt skaden, er eneansvarlig for erstatningen;
+2. er skaden voldt av flere fraktførere, skal hver av dem svare i forhold til sin del av ansvaret for skadetilføyelsen, eller – om det ikke er mulig å fordele ansvaret – i forhold til sin del av frakten;
+3. kan det ikke fastslås hvem av fraktførerne ansvaret påhviler, skal samtlige svare, hver i forhold til sin del av frakten.
 
 Er en av fraktførerne ute av stand til å betale, fordeles det beløp han ikke dekker på de øvrige i forhold til deres del av frakten.
 
